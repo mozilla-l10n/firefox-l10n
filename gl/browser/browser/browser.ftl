@@ -1118,3 +1118,6 @@ file-picker-failed-open = Non se puido abrir o diálogo de ficheiros de Windows.
 file-picker-crashed-show-in-folder =
     .label = Mostrar no cartafol
     .accessKey = C
+
+## Onboarding Finish Setup checklist
+

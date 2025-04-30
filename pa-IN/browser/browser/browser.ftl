@@ -1245,3 +1245,6 @@ file-picker-crashed-save-nowhere = Windows ਫਾਇਲ-ਡਾਈਲਾਗ ਕ�
 file-picker-crashed-show-in-folder =
     .label = ਫੋਲਡਰ ਵਿੱਚ ਵੇਖਾਓ
     .accessKey = F
+
+## Onboarding Finish Setup checklist
+

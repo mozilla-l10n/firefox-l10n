@@ -424,5 +424,3 @@ newtab-report-content-outdated =
     .label = قديم
 newtab-report-cancel = ألغِ
 newtab-report-submit = أرسِل
-newtab-toast-thanks-for-feedback =
-    .message = شكرًا على تعليقك.

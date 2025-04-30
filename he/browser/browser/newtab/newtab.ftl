@@ -551,5 +551,3 @@ newtab-report-content-spam-misleading =
     .label = ספאם או הטעיה
 newtab-report-cancel = ביטול
 newtab-report-submit = שליחה
-newtab-toast-thanks-for-feedback =
-    .message = תודה על המשוב שלך.

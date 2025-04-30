@@ -56,6 +56,9 @@ callout-pdfjs-draw-button = Xik'o pa nuwi'!
 ## Bookmarks toolbar callout strings
 
 
+## Perplexity callout strings
+
+
 ## Sidebar Strings
 
 

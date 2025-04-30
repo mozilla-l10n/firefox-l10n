@@ -92,6 +92,9 @@ bookmarks-toolbar-callout-2b-primary-button-label = Wócynjony źaržaś
 # Reverts the bookmarks toolbar to the default setting
 bookmarks-toolbar-callout-2b-secondary-button-label = Ně, źěkujom se
 
+## Perplexity callout strings
+
+
 ## Sidebar Strings
 
 sidebar-button-callout-title = Titele rejtarikow w bocnicy pokazaś

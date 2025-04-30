@@ -555,5 +555,3 @@ newtab-report-content-spam-misleading =
     .label = Маълумоти номатлуб ё фиребанда
 newtab-report-cancel = Бекор кардан
 newtab-report-submit = Пешниҳод кардан
-newtab-toast-thanks-for-feedback =
-    .message = Ташаккур барои изҳори назари шумо.

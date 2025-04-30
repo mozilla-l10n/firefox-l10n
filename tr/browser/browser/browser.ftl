@@ -1251,3 +1251,6 @@ file-picker-crashed-save-nowhere = Windows dosya iletişim kutusu çöktü. Vars
 file-picker-crashed-show-in-folder =
     .label = Klasörde göster
     .accessKey = l
+
+## Onboarding Finish Setup checklist
+

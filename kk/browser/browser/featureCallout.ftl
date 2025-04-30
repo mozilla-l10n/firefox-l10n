@@ -77,6 +77,9 @@ bookmarks-toolbar-callout-2b-primary-button-label = Ашық ұстау
 # Reverts the bookmarks toolbar to the default setting
 bookmarks-toolbar-callout-2b-secondary-button-label = Жоқ, рахмет
 
+## Perplexity callout strings
+
+
 ## Sidebar Strings
 
 sidebar-button-callout-title = Беттер атауларын бүйір панельде көрсету

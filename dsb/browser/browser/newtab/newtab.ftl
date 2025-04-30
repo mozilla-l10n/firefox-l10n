@@ -559,5 +559,3 @@ newtab-report-content-spam-misleading =
     .label = Spam abo torjecy
 newtab-report-cancel = Pśetergnuś
 newtab-report-submit = Wótpósłaś
-newtab-toast-thanks-for-feedback =
-    .message = Źěkujomy se za waš komentar.

@@ -118,3 +118,6 @@ webext-site-perms-header-unsigned-with-perms = Hozzáadja a(z) { $extension } ki
 
 webext-site-perms-midi = MIDI eszközök elérése
 webext-site-perms-midi-sysex = MIDI eszközök elérése SysEx támogatással
+
+## Colorway theme migration
+

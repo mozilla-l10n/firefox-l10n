@@ -551,5 +551,3 @@ newtab-report-content-spam-misleading =
     .label = Vsiljivo ali zavajajoče
 newtab-report-cancel = Prekliči
 newtab-report-submit = Pošlji
-newtab-toast-thanks-for-feedback =
-    .message = Hvala za vaše povratne informacije.

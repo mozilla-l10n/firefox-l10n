@@ -118,3 +118,6 @@ webext-site-perms-header-unsigned-with-perms = { $extension } gehitu? Hedapen ha
 
 webext-site-perms-midi = MIDI gailuak atzitzea
 webext-site-perms-midi-sysex = SysEx euskarria duten MIDI gailuak atzitzea
+
+## Colorway theme migration
+

@@ -1246,3 +1246,6 @@ file-picker-crashed-save-nowhere = La boîte de dialogue de fichiers de Windows 
 file-picker-crashed-show-in-folder =
     .label = Afficher dans le dossier
     .accessKey = d
+
+## Onboarding Finish Setup checklist
+

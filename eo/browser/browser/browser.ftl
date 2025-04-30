@@ -1243,3 +1243,6 @@ file-picker-crashed-save-nowhere = La dosiera dialogo de Windows paneis. Neniu n
 file-picker-crashed-show-in-folder =
     .label = Montri en dosierujo
     .accessKey = d
+
+## Onboarding Finish Setup checklist
+

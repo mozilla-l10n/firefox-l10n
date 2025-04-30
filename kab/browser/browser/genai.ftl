@@ -108,3 +108,6 @@ genai-model-optin-optout =
     .label = Sefsex
 genai-model-optin-cancel =
     .label = Sefsex
+
+## Link previews
+

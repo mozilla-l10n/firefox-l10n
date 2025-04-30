@@ -1251,3 +1251,6 @@ file-picker-crashed-save-nowhere = דו־שיח הקבצים של Windows קרס
 file-picker-crashed-show-in-folder =
     .label = הצגה בתיקייה
     .accessKey = ת
+
+## Onboarding Finish Setup checklist
+

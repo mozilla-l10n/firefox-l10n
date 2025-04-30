@@ -550,5 +550,3 @@ newtab-report-content-spam-misleading =
     .label = Spam u engianus
 newtab-report-cancel = Interrumper
 newtab-report-submit = Trametter
-newtab-toast-thanks-for-feedback =
-    .message = Grazia per tes resun.

@@ -165,3 +165,6 @@ genai-model-optin-optout =
     .label = Peruuta
 genai-model-optin-cancel =
     .label = Peruuta
+
+## Link previews
+

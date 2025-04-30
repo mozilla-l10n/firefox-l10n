@@ -118,3 +118,6 @@ webext-site-perms-header-unsigned-with-perms = { $extension } شامل کرو؟ 
 
 webext-site-perms-midi = MIDI  ڈیوائیساں تک اپڑو
 webext-site-perms-midi-sysex = SysEx سپورٹ دے نال MIDI آلات تک رسائی حاصل کرو۔
+
+## Colorway theme migration
+

@@ -88,3 +88,6 @@ webext-site-perms-header-unsigned-with-perms = ເພີ່ມ { $extension } �
 
 webext-site-perms-midi = ເຂົ້າເຖິງອຸປະກອນ MIDI
 webext-site-perms-midi-sysex = ເຂົ້າເຖິງອຸປະກອນ MIDI ດ້ວຍການຮອງຮັບ SysEx
+
+## Colorway theme migration
+

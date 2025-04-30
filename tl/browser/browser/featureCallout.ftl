@@ -45,6 +45,9 @@ continuous-onboarding-firefox-view-tab-pickup-primary-button-label = Magsimula
 ## Bookmarks toolbar callout strings
 
 
+## Perplexity callout strings
+
+
 ## Sidebar Strings
 
 

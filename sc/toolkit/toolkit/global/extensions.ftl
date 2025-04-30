@@ -103,3 +103,6 @@ webext-site-perms-header-unsigned-with-perms = Boles agiùnghere { $extension }?
 
 webext-site-perms-midi = Atzèdere a dispositivos MIDI
 webext-site-perms-midi-sysex = Atzèdere a dispositivos MIDI cumpatìbiles cun SysEx
+
+## Colorway theme migration
+

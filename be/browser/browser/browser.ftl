@@ -1224,3 +1224,6 @@ file-picker-crashed-save-nowhere = Здарыўся крах дыялогава�
 file-picker-crashed-show-in-folder =
     .label = Паказаць у папцы
     .accessKey = а
+
+## Onboarding Finish Setup checklist
+

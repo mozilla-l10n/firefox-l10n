@@ -1226,3 +1226,6 @@ file-picker-crashed-save-nowhere = Sa ventana de seletzione de archìvios de Win
 file-picker-crashed-show-in-folder =
     .label = Ammustra in sa cartella
     .accessKey = A
+
+## Onboarding Finish Setup checklist
+

@@ -1247,3 +1247,6 @@ file-picker-crashed-save-nowhere = The Windows file-dialogue has crashed. No def
 file-picker-crashed-show-in-folder =
     .label = Show in Folder
     .accessKey = F
+
+## Onboarding Finish Setup checklist
+

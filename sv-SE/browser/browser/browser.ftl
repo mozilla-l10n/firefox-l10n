@@ -1247,3 +1247,6 @@ file-picker-crashed-save-nowhere = Windows fildialog har kraschat. Ingen standar
 file-picker-crashed-show-in-folder =
     .label = Visa i mapp
     .accessKey = m
+
+## Onboarding Finish Setup checklist
+

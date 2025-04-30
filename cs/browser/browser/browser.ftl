@@ -1408,3 +1408,6 @@ file-picker-crashed-save-nowhere = Souborový dialog systému Windows spadl. Neb
 file-picker-crashed-show-in-folder =
     .label = Zobrazit ve složce
     .accessKey = Z
+
+## Onboarding Finish Setup checklist
+

@@ -549,5 +549,3 @@ newtab-report-content-spam-misleading =
     .label = Spam hoặc gây hiểu lầm
 newtab-report-cancel = Hủy bỏ
 newtab-report-submit = Gửi
-newtab-toast-thanks-for-feedback =
-    .message = Cảm ơn phản hồi của bạn.

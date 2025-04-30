@@ -92,6 +92,9 @@ bookmarks-toolbar-callout-2b-primary-button-label = Open houden
 # Reverts the bookmarks toolbar to the default setting
 bookmarks-toolbar-callout-2b-secondary-button-label = Nee bedankt
 
+## Perplexity callout strings
+
+
 ## Sidebar Strings
 
 sidebar-button-callout-title = Tabbladtitels in de zijbalk tonen

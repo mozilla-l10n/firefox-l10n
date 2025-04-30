@@ -62,6 +62,9 @@ split-dismiss-button-manage-settings-option =
 ## Bookmarks toolbar callout strings
 
 
+## Perplexity callout strings
+
+
 ## Sidebar Strings
 
 

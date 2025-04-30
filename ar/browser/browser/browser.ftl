@@ -1275,3 +1275,6 @@ file-picker-crashed-save-nowhere = انهار مربع حوار ملف ويند�
 file-picker-crashed-show-in-folder =
     .label = اعرض في المجلد
     .accessKey = م
+
+## Onboarding Finish Setup checklist
+

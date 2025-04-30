@@ -118,3 +118,6 @@ webext-site-perms-header-unsigned-with-perms = Lisätäänkö { $extension }? T�
 
 webext-site-perms-midi = Käytä MIDI-laitteita
 webext-site-perms-midi-sysex = Käytä MIDI-laitteita SysEx-tuella
+
+## Colorway theme migration
+

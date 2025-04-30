@@ -1071,3 +1071,6 @@ file-picker-crashed-save-nowhere = Windows फाइल-संवाद क्�
 file-picker-crashed-show-in-folder =
     .label = फोल्डरमा देखाउनुहोस्
     .accessKey = F
+
+## Onboarding Finish Setup checklist
+

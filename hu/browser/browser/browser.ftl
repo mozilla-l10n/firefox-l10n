@@ -1250,3 +1250,6 @@ file-picker-crashed-save-nowhere = A Windows fájlválasztó párbeszédablaka �
 file-picker-crashed-show-in-folder =
     .label = Megjelenítés mappában
     .accessKey = m
+
+## Onboarding Finish Setup checklist
+

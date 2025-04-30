@@ -121,3 +121,6 @@ webext-site-perms-header-unsigned-with-perms = Dodaj { $extension }? Ovaj dodata
 
 webext-site-perms-midi = Pristup MIDI uređajima
 webext-site-perms-midi-sysex = Pristup MIDI uređajima sa SysEx podrškom
+
+## Colorway theme migration
+

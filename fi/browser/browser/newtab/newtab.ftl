@@ -550,5 +550,3 @@ newtab-report-content-spam-misleading =
     .label = Roskapostia tai harhaanjohtavaa
 newtab-report-cancel = Peruuta
 newtab-report-submit = Lähetä
-newtab-toast-thanks-for-feedback =
-    .message = Kiitos palautteestasi.

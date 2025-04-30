@@ -92,6 +92,9 @@ bookmarks-toolbar-callout-2b-primary-button-label = Iepen hâlde
 # Reverts the bookmarks toolbar to the default setting
 bookmarks-toolbar-callout-2b-secondary-button-label = Nee tank
 
+## Perplexity callout strings
+
+
 ## Sidebar Strings
 
 sidebar-button-callout-title = Ljepblêdtitels yn de sydbalke toane

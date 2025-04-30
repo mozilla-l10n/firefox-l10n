@@ -1247,3 +1247,6 @@ file-picker-crashed-save-nowhere = Impossibile aperir fenestra de selection file
 file-picker-crashed-show-in-folder =
     .label = Monstrar in plica
     .accessKey = p
+
+## Onboarding Finish Setup checklist
+

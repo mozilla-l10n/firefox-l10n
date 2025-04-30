@@ -96,3 +96,6 @@ webext-site-perms-header-unsigned-with-perms = Apondre { $extension } ? Aquest
 
 webext-site-perms-midi = Accedir als periferics MIDI
 webext-site-perms-midi-sysex = Accedir als periferics MIDI compatibles amb SysEx
+
+## Colorway theme migration
+

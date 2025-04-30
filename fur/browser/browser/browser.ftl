@@ -1227,3 +1227,6 @@ file-picker-crashed-save-nowhere = Il dialic di Windows pe selezion dai files al
 file-picker-crashed-show-in-folder =
     .label = Mostre te cartele
     .accessKey = F
+
+## Onboarding Finish Setup checklist
+

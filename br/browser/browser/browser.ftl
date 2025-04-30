@@ -1181,3 +1181,6 @@ popup-show-popup-menuitem =
 file-picker-crashed-show-in-folder =
     .label = Diskouez en teuliad
     .accessKey = t
+
+## Onboarding Finish Setup checklist
+

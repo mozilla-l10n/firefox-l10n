@@ -1243,3 +1243,6 @@ file-picker-crashed-save-nowhere = La fanestra per selecziunar datotecas da Wind
 file-picker-crashed-show-in-folder =
     .label = Mussar en l’ordinatur
     .accessKey = F
+
+## Onboarding Finish Setup checklist
+

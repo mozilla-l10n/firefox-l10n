@@ -118,3 +118,6 @@ webext-site-perms-header-unsigned-with-perms = Të shtohet { $extension }? Ky zg
 
 webext-site-perms-midi = Të përdorë pajisje MIDI
 webext-site-perms-midi-sysex = Të përdorë pajisje MIDI me Mbulim për SysEx
+
+## Colorway theme migration
+

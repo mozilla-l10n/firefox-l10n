@@ -56,6 +56,9 @@ callout-pdfjs-draw-button = बुझे!
 ## Bookmarks toolbar callout strings
 
 
+## Perplexity callout strings
+
+
 ## Sidebar Strings
 
 

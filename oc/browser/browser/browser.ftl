@@ -1153,3 +1153,6 @@ popup-show-popup-menuitem =
 file-picker-crashed-show-in-folder =
     .label = Mostrar dins lo dossièr
     .accessKey = M
+
+## Onboarding Finish Setup checklist
+

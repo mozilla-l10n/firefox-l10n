@@ -107,3 +107,6 @@ webext-site-perms-header-unsigned-with-perms = A bheil thu airson { $extension }
 
 webext-site-perms-midi = Cothrom fhaighinn air uidheaman MIDI
 webext-site-perms-midi-sysex = Cothrom fhaighinn air uidheama MIDI le taic SysEx
+
+## Colorway theme migration
+

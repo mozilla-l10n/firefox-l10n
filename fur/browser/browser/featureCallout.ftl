@@ -69,6 +69,9 @@ split-dismiss-button-manage-settings-option =
 ## Bookmarks toolbar callout strings
 
 
+## Perplexity callout strings
+
+
 ## Sidebar Strings
 
 sidebar-button-callout-title = Mostre i titui des schedis te sbare laterâl

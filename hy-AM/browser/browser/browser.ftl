@@ -1208,3 +1208,6 @@ popup-show-popup-menuitem =
 file-picker-crashed-show-in-folder =
     .label = Ցուցադրել պանակում
     .accessKey = F
+
+## Onboarding Finish Setup checklist
+

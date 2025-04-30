@@ -1099,3 +1099,6 @@ popup-show-popup-menuitem =
 file-picker-crashed-show-in-folder =
     .label = Sken deg ukaram
     .accessKey = F
+
+## Onboarding Finish Setup checklist
+

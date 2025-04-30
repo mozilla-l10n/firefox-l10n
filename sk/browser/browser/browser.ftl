@@ -1260,3 +1260,6 @@ file-picker-crashed-save-nowhere = Súborové dialógové okno systému Windows 
 file-picker-crashed-show-in-folder =
     .label = Zobraziť v priečinku
     .accessKey = b
+
+## Onboarding Finish Setup checklist
+

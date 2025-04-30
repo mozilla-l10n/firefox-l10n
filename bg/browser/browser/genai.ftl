@@ -126,3 +126,6 @@ genai-onboarding-lechat-price = Безплатно е, но се изисква 
 
 ## Model Optin Component
 
+
+## Link previews
+

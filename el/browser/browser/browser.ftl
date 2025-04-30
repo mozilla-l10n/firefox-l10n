@@ -1247,3 +1247,6 @@ file-picker-crashed-save-nowhere = Το παράθυρο διαλόγου αρχ
 file-picker-crashed-show-in-folder =
     .label = Εμφάνιση στον φάκελο
     .accessKey = φ
+
+## Onboarding Finish Setup checklist
+

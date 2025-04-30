@@ -1040,3 +1040,6 @@ file-picker-crashed-save-nowhere = Windows file-dialog ໄດ້ຂັດຂ້�
 file-picker-crashed-show-in-folder =
     .label = ສະແດງໃນ Finder
     .accessKey = F
+
+## Onboarding Finish Setup checklist
+

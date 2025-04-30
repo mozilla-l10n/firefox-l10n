@@ -1247,3 +1247,6 @@ file-picker-crashed-save-nowhere = Windows-fildialogvindauget har krasja. Fann i
 file-picker-crashed-show-in-folder =
     .label = Vis i mappe
     .accessKey = i
+
+## Onboarding Finish Setup checklist
+

@@ -1227,3 +1227,6 @@ file-picker-crashed-save-nowhere = Thuislich còmhradh faidhle Windows. Cha d’
 file-picker-crashed-show-in-folder =
     .label = Seall sa phasgan
     .accessKey = S
+
+## Onboarding Finish Setup checklist
+

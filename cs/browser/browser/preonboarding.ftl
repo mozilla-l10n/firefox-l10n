@@ -8,7 +8,7 @@
 preonboarding-title = Vítá vás { -brand-product-name }
 preonboarding-subtitle = Pokračováním souhlasíte s Podmínkami používání { -brand-product-name(case: "gen") } a našimi Zásadami ochrany osobních údajů. Za účelem vylepšení prohlížeče { -brand-product-name } odesílá diagnostické údaje a údaje o interakcích organizaci { -vendor-short-name }.
 preonboarding-primary-cta = Potvrdit a pokračovat
-# Label for header style button that toggles showing the terms of use, privacy notice, and data preferences checklist
+# Labels for header style button that toggles showing the terms of use, privacy notice, and data preferences checklist
 preonboarding-manage-and-read-header = Správa nastavení shromažďování dat a přečtení našich podmínek používání a oznámení o ochraně osobních údajů
 # Label for header style button that toggles showing the Terms of Use
 preonboarding-terms-of-use-header-button-title = Přečtěte si naše Podmínky používání
@@ -16,13 +16,13 @@ preonboarding-terms-of-use-header-button-title = Přečtěte si naše Podmínky 
 preonboarding-privacy-notice-header-button-title = Přečtěte si naše Zásady ochrany osobních údajů
 # Label for header style button that toggles showing the data preference checklist
 preonboarding-manage-data-header-button-title = Správa diagnostických dat a dat o interakcích
-# Label for header style button that toggles showing the Terms of Use (Variant B)
+# Labels for header style button that toggles showing the Terms of Use (Variant B)
 preonboarding-terms-of-use-header-button-title-b =
     { -brand-product-name.case-status ->
         [with-cases] Podmínky používání { -brand-product-name(case: "gen") }
        *[no-cases] Podmínky používání aplikace { -brand-product-name }
     }
-# Label for header style button that toggles showing the Privacy Notice (Variant B)
+# Labels for header style button that toggles showing the Privacy Notice (Variant B)
 preonboarding-privacy-notice-header-button-title-b =
     { -brand-product-name.case-status ->
         [with-cases] Zásady ochrany osobních údajů { -brand-product-name(case: "gen") }

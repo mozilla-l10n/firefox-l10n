@@ -1243,3 +1243,6 @@ file-picker-crashed-save-nowhere = Der Windows-Dateidialog ist abgestürzt. Es k
 file-picker-crashed-show-in-folder =
     .label = In Ordner anzeigen
     .accessKey = O
+
+## Onboarding Finish Setup checklist
+

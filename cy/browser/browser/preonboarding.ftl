@@ -8,7 +8,7 @@
 preonboarding-title = Croeso i { -brand-product-name }
 preonboarding-subtitle = Drwy barhau, rydych yn cytuno i Amodau Defnydd { -brand-product-name } a'n Hysbysiad Preifatrwydd. Er mwyn helpu i wella'r porwr, mae { -brand-product-name } yn anfon data diagnostig a rhyngweithio i { -vendor-short-name }.
 preonboarding-primary-cta = Cadarnhau a pharhau
-# Label for header style button that toggles showing the terms of use, privacy notice, and data preferences checklist
+# Labels for header style button that toggles showing the terms of use, privacy notice, and data preferences checklist
 preonboarding-manage-and-read-header = Rheoli gosodiadau casglu data a darllen ein Amodau Defnydd a Hysbysiad Preifatrwydd
 # Label for header style button that toggles showing the Terms of Use
 preonboarding-terms-of-use-header-button-title = Darllenwch ein Amodau Defnydd
@@ -16,9 +16,9 @@ preonboarding-terms-of-use-header-button-title = Darllenwch ein Amodau Defnydd
 preonboarding-privacy-notice-header-button-title = Darllenwch ein Hysbysiad Preifatrwydd
 # Label for header style button that toggles showing the data preference checklist
 preonboarding-manage-data-header-button-title = Rheoli data diagnostig a rhyngweithio
-# Label for header style button that toggles showing the Terms of Use (Variant B)
+# Labels for header style button that toggles showing the Terms of Use (Variant B)
 preonboarding-terms-of-use-header-button-title-b = Amodau Defnydd { -brand-product-name }
-# Label for header style button that toggles showing the Privacy Notice (Variant B)
+# Labels for header style button that toggles showing the Privacy Notice (Variant B)
 preonboarding-privacy-notice-header-button-title-b = Hysbysiad Preifatrwydd { -brand-product-name }
 # Description under label for header style buttons
 preonboarding-header-button-description = Darllen Rhagor

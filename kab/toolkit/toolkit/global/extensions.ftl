@@ -96,3 +96,6 @@ webext-site-perms-header-unsigned-with-perms = Rnu { $extension }? Asiɣzef-a ur
 
 webext-site-perms-midi = Kcem ibenkan MIDI
 webext-site-perms-midi-sysex = Kcem ɣer yibenkan MIDI s tallelt SysEx
+
+## Colorway theme migration
+

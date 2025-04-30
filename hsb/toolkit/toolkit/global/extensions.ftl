@@ -124,3 +124,6 @@ webext-site-perms-header-unsigned-with-perms = { $extension } přidać? Tute roz
 
 webext-site-perms-midi = Přistup k MIDI-gratam
 webext-site-perms-midi-sysex = Přistup k MIDI-gratam z podpěru za SysEx
+
+## Colorway theme migration
+

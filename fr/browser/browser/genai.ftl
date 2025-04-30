@@ -165,3 +165,6 @@ genai-model-optin-optout =
     .label = Annuler
 genai-model-optin-cancel =
     .label = Annuler
+
+## Link previews
+

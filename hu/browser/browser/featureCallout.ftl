@@ -79,6 +79,9 @@ bookmarks-toolbar-callout-1-title = Hozzáadja ezt a webhelyet a könyvjelző es
 bookmarks-toolbar-callout-1-subtitle = A könyvjelzője közvetlenül a címsor alá lesz mentve a gyors elérés érdekében.
 bookmarks-toolbar-callout-1-primary-button-label = Könyvjelző hozzáadása
 
+## Perplexity callout strings
+
+
 ## Sidebar Strings
 
 sidebar-button-callout-title = Lapcímek megjelenítése az oldalsávban

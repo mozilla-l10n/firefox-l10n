@@ -1237,3 +1237,6 @@ file-picker-crashed-save-nowhere = Windows 文件对话框发生崩溃，且找�
 file-picker-crashed-show-in-folder =
     .label = 在文件夹中显示
     .accessKey = F
+
+## Onboarding Finish Setup checklist
+

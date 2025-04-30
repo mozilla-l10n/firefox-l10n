@@ -92,6 +92,9 @@ bookmarks-toolbar-callout-2b-primary-button-label = Keep open
 # Reverts the bookmarks toolbar to the default setting
 bookmarks-toolbar-callout-2b-secondary-button-label = No thanks
 
+## Perplexity callout strings
+
+
 ## Sidebar Strings
 
 sidebar-button-callout-title = Show tab titles in the sidebar

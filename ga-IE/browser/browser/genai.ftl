@@ -56,3 +56,6 @@ genai-model-optin-optout =
     .label = Cealaigh
 genai-model-optin-cancel =
     .label = Cealaigh
+
+## Link previews
+

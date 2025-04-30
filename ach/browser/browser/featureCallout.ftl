@@ -28,6 +28,9 @@ callout-primary-complete-button-label = Aniang!
 ## Bookmarks toolbar callout strings
 
 
+## Perplexity callout strings
+
+
 ## Sidebar Strings
 
 

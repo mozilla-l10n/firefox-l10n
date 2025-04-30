@@ -141,3 +141,6 @@ genai-model-optin-optout =
     .label = Utzi
 genai-model-optin-cancel =
     .label = Utzi
+
+## Link previews
+

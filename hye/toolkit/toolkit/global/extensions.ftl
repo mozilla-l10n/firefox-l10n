@@ -94,3 +94,6 @@ webext-site-perms-header-unsigned-with-perms = Աւելացնե՞լ { $extension
 
 webext-site-perms-midi = Ստանալ հասանելիութիւն MIDI սարքերին
 webext-site-perms-midi-sysex = Ստանալ հասանելիութիւն MIDI սարքերին SysEx֊ի աջակցութեամբ
+
+## Colorway theme migration
+

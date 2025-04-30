@@ -92,6 +92,9 @@ bookmarks-toolbar-callout-2b-primary-button-label = დარჩეს
 # Reverts the bookmarks toolbar to the default setting
 bookmarks-toolbar-callout-2b-secondary-button-label = არა, გმადლობთ
 
+## Perplexity callout strings
+
+
 ## Sidebar Strings
 
 sidebar-button-callout-title = ჩანართების სათაურების ჩვენება გვერდით ზოლზე

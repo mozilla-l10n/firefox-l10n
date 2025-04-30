@@ -167,3 +167,6 @@ genai-model-optin-optout =
     .label = გაუქმება
 genai-model-optin-cancel =
     .label = გაუქმება
+
+## Link previews
+

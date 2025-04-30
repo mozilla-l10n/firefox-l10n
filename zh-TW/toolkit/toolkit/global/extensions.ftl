@@ -106,3 +106,6 @@ webext-site-perms-header-unsigned-with-perms = 要安裝 { $extension } 嗎？�
 
 webext-site-perms-midi = 存取 MIDI 裝置
 webext-site-perms-midi-sysex = 存取 MIDI 裝置並支援 SysEx
+
+## Colorway theme migration
+

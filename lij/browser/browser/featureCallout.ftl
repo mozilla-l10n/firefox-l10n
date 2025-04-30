@@ -30,6 +30,9 @@ callout-pdfjs-draw-button = Reçevuo!
 ## Bookmarks toolbar callout strings
 
 
+## Perplexity callout strings
+
+
 ## Sidebar Strings
 
 

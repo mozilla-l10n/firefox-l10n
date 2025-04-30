@@ -69,6 +69,9 @@ split-dismiss-button-manage-settings-option =
 ## Bookmarks toolbar callout strings
 
 
+## Perplexity callout strings
+
+
 ## Sidebar Strings
 
 sidebar-button-callout-title = Ammustra tìtulos de is ischedas in sa barra laterale

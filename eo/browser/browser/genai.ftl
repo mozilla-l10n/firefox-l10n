@@ -165,3 +165,6 @@ genai-model-optin-optout =
     .label = Nuligi
 genai-model-optin-cancel =
     .label = Nuligi
+
+## Link previews
+

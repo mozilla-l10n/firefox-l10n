@@ -118,3 +118,6 @@ webext-site-perms-header-unsigned-with-perms = Agiuntar { $extension }? Questa e
 
 webext-site-perms-midi = Acceder als apparats MIDI
 webext-site-perms-midi-sysex = Acceder als apparats MIDI cun sustegn da SysEx
+
+## Colorway theme migration
+

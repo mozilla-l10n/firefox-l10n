@@ -8,7 +8,7 @@
 preonboarding-title = Dobro došao, dobro došla u { -brand-product-name }
 preonboarding-subtitle = Ako nastaviš, prihvaćaš { -brand-product-name } uvjete korištenja i našu napomenu o privatnosti. Kako bi poboljšao preglednik, { -brand-product-name } šalje podatke o dijagnostici i interakciji na { -vendor-short-name }.
 preonboarding-primary-cta = Potvrdi i nastavi
-# Label for header style button that toggles showing the terms of use, privacy notice, and data preferences checklist
+# Labels for header style button that toggles showing the terms of use, privacy notice, and data preferences checklist
 preonboarding-manage-and-read-header = Upravljaj postavkama prikupljanja podataka i pročitaj naše uvjete korištenja i napomenu o privatnosti
 # Label for header style button that toggles showing the Terms of Use
 preonboarding-terms-of-use-header-button-title = Pročitaj naše uvjete korištenja
@@ -16,9 +16,9 @@ preonboarding-terms-of-use-header-button-title = Pročitaj naše uvjete korište
 preonboarding-privacy-notice-header-button-title = Pročitaj našu napomenu o privatnosti
 # Label for header style button that toggles showing the data preference checklist
 preonboarding-manage-data-header-button-title = Upravljaj podacima o dijagnostici i interakciji
-# Label for header style button that toggles showing the Terms of Use (Variant B)
+# Labels for header style button that toggles showing the Terms of Use (Variant B)
 preonboarding-terms-of-use-header-button-title-b = { -brand-product-name } uvjeti korištenja
-# Label for header style button that toggles showing the Privacy Notice (Variant B)
+# Labels for header style button that toggles showing the Privacy Notice (Variant B)
 preonboarding-privacy-notice-header-button-title-b = { -brand-product-name } napomena o privatnosti
 # Description under label for header style buttons
 preonboarding-header-button-description = Saznaj više

@@ -8,7 +8,7 @@
 preonboarding-title = Witajśo k { -brand-product-name }
 preonboarding-subtitle = Gaž pókšacujośo, zwólijośo do wužywańskich wuměnjenjow { -brand-product-name } a našeje powěźeńki priwatnosći. Aby pomagał, wobglědowak pólěpšyś, { -brand-product-name } diagnostiske daty a daty interakcije na { -vendor-short-name } sćelo.
 preonboarding-primary-cta = Wobkšuśiś a pókšacowaś
-# Label for header style button that toggles showing the terms of use, privacy notice, and data preferences checklist
+# Labels for header style button that toggles showing the terms of use, privacy notice, and data preferences checklist
 preonboarding-manage-and-read-header = Zastojśo nastajenja za gromaźenje datow a cytajśo naše wužywańske wuměnjenja a powěźeńku priwatnosći
 # Label for header style button that toggles showing the Terms of Use
 preonboarding-terms-of-use-header-button-title = Cytajśo naše wužywańske wuměnjenja
@@ -16,9 +16,9 @@ preonboarding-terms-of-use-header-button-title = Cytajśo naše wužywańske wum
 preonboarding-privacy-notice-header-button-title = Cytajśo našu powěźeńku priwatnosći
 # Label for header style button that toggles showing the data preference checklist
 preonboarding-manage-data-header-button-title = Diagnostiske daty a daty interakcije zastojaś
-# Label for header style button that toggles showing the Terms of Use (Variant B)
+# Labels for header style button that toggles showing the Terms of Use (Variant B)
 preonboarding-terms-of-use-header-button-title-b = Wužywańske wuměnjenja { -brand-product-name }
-# Label for header style button that toggles showing the Privacy Notice (Variant B)
+# Labels for header style button that toggles showing the Privacy Notice (Variant B)
 preonboarding-privacy-notice-header-button-title-b = Powěźeńka priwatnosći { -brand-product-name }
 # Description under label for header style buttons
 preonboarding-header-button-description = Dalšne informacije

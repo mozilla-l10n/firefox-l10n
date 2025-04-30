@@ -167,3 +167,6 @@ genai-model-optin-optout =
     .label = Vazgeç
 genai-model-optin-cancel =
     .label = Vazgeç
+
+## Link previews
+

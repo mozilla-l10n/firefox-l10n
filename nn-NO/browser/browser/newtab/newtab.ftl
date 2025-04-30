@@ -556,5 +556,3 @@ newtab-report-content-spam-misleading =
     .label = Spam eller villeiande
 newtab-report-cancel = Avbryt
 newtab-report-submit = Send inn
-newtab-toast-thanks-for-feedback =
-    .message = Takk for tilbakemeldinga di.

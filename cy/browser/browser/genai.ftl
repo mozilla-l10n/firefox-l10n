@@ -175,3 +175,6 @@ genai-model-optin-optout =
     .label = Diddymu
 genai-model-optin-cancel =
     .label = Diddymu
+
+## Link previews
+

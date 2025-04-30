@@ -8,7 +8,7 @@
 preonboarding-title = Хуш омадед ба «{ -brand-product-name }»
 preonboarding-subtitle = Бо идома додан, шумо бо Шартҳои истифода ва Огоҳномаи махфият барои «{ -brand-product-name }» розӣ мешавед. Барои беҳтар кардани браузер, «{ -brand-product-name }» маълумоти ташхисӣ ва ҳамкориро ба «{ -vendor-short-name }» ирсол мекунад.
 preonboarding-primary-cta = Тасдиқ кунед ва идома диҳед
-# Label for header style button that toggles showing the terms of use, privacy notice, and data preferences checklist
+# Labels for header style button that toggles showing the terms of use, privacy notice, and data preferences checklist
 preonboarding-manage-and-read-header = Танзимоти ҷамъоварии маълумотро идора кунед ва ҳуҷҷатҳои моро дар бахши «Шартҳои истифода» ва «Огоҳномаи махфият» мутолиа намоед.
 # Label for header style button that toggles showing the Terms of Use
 preonboarding-terms-of-use-header-button-title = Шартҳои моро барои истифодабарӣ хонед
@@ -16,9 +16,9 @@ preonboarding-terms-of-use-header-button-title = Шартҳои моро бар�
 preonboarding-privacy-notice-header-button-title = Огоҳномаи махфияти моро хонед
 # Label for header style button that toggles showing the data preference checklist
 preonboarding-manage-data-header-button-title = Идоракунии маълумоти ташхисӣ ва ҳамкорӣ
-# Label for header style button that toggles showing the Terms of Use (Variant B)
+# Labels for header style button that toggles showing the Terms of Use (Variant B)
 preonboarding-terms-of-use-header-button-title-b = Шартҳои истифодаи «{ -brand-product-name }»
-# Label for header style button that toggles showing the Privacy Notice (Variant B)
+# Labels for header style button that toggles showing the Privacy Notice (Variant B)
 preonboarding-privacy-notice-header-button-title-b = Огоҳномаи махфияти «{ -brand-product-name }»
 # Description under label for header style buttons
 preonboarding-header-button-description = Бештар хондан

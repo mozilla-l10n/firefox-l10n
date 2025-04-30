@@ -1248,3 +1248,6 @@ file-picker-crashed-save-nowhere = Windows-skráaglugginn hefur hrunið. Engin s
 file-picker-crashed-show-in-folder =
     .label = Sýna í möppu
     .accessKey = m
+
+## Onboarding Finish Setup checklist
+

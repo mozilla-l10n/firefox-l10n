@@ -171,3 +171,6 @@ genai-model-optin-optout =
     .label = Přetorhnyć
 genai-model-optin-cancel =
     .label = Přetorhnyć
+
+## Link previews
+

@@ -76,3 +76,6 @@ webext-perms-host-description-too-many-sites = ចូលប្រើប្រា
 
 ## These should remain in sync with permissions.NAME.label in sitePermissions.properties
 
+
+## Colorway theme migration
+

@@ -92,3 +92,6 @@ webext-perms-host-description-too-many-sites =
 
 webext-site-perms-midi = Tok pa MIDI taq okisaxel
 webext-site-perms-midi-sysex = Tok pa MIDI okisaxel rik'in SysEx to'ïk
+
+## Colorway theme migration
+

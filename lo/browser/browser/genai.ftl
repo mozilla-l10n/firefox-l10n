@@ -100,3 +100,6 @@ genai-onboarding-lechat-price = ຟຣີ; ແຕ່ຕ້ອງມີບັນ�
 
 genai-model-optin-continue =
     .label = ສືບຕໍ່
+
+## Link previews
+

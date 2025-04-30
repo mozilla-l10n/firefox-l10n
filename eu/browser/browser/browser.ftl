@@ -1211,3 +1211,6 @@ file-picker-crashed-save-nowhere = Windowsen fitxategien elkarrizketa-koadroak h
 file-picker-crashed-show-in-folder =
     .label = Erakutsi karpetan
     .accessKey = k
+
+## Onboarding Finish Setup checklist
+

@@ -1230,3 +1230,6 @@ file-picker-crashed-save-nowhere = Dialog berkas Windows mogok. Tidak ada folder
 file-picker-crashed-show-in-folder =
     .label = Tampilkan di Folder
     .accessKey = F
+
+## Onboarding Finish Setup checklist
+

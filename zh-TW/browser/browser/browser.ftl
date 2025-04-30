@@ -1245,3 +1245,6 @@ file-picker-crashed-save-nowhere = Windows 檔案對話框發生錯誤，找不�
 file-picker-crashed-show-in-folder =
     .label = 於資料夾顯示
     .accessKey = F
+
+## Onboarding Finish Setup checklist
+

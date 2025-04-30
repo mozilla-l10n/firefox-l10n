@@ -1247,3 +1247,6 @@ file-picker-crashed-save-nowhere = Windows файл сұхбаты құлап т
 file-picker-crashed-show-in-folder =
     .label = Бумада көрсету
     .accessKey = Б
+
+## Onboarding Finish Setup checklist
+

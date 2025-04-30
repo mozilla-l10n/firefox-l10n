@@ -89,6 +89,9 @@ bookmarks-toolbar-callout-2b-primary-button-label = Halda opnu
 # Reverts the bookmarks toolbar to the default setting
 bookmarks-toolbar-callout-2b-secondary-button-label = Nei takk
 
+## Perplexity callout strings
+
+
 ## Sidebar Strings
 
 sidebar-button-callout-title = Sýndu titla flipa í hliðarstikunni

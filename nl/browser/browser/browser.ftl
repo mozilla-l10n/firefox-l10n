@@ -1250,3 +1250,6 @@ file-picker-crashed-save-nowhere = Het Windows-bestandsdialoogvenster is gecrash
 file-picker-crashed-show-in-folder =
     .label = In map tonen
     .accessKey = m
+
+## Onboarding Finish Setup checklist
+

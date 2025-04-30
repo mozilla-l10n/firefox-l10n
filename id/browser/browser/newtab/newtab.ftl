@@ -535,5 +535,3 @@ newtab-report-ads-reason-inappropriate =
     .label = Tidak pantas
 newtab-report-cancel = Batal
 newtab-report-submit = Kirim
-newtab-toast-thanks-for-feedback =
-    .message = Terima kasih atas masukan Anda

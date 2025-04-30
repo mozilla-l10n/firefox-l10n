@@ -171,3 +171,6 @@ genai-model-optin-optout =
     .label = Pśetergnuś
 genai-model-optin-cancel =
     .label = Pśetergnuś
+
+## Link previews
+

@@ -30,6 +30,9 @@ callout-pdfjs-draw-title = Pasirašykite dokumentus naujuoju piešimo įrankiu
 ## Bookmarks toolbar callout strings
 
 
+## Perplexity callout strings
+
+
 ## Sidebar Strings
 
 

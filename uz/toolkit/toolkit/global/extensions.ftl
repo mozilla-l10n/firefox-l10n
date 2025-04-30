@@ -64,3 +64,6 @@ webext-site-perms-header-unsigned-with-perms = { $extension } qoʻshilsinmi? Bu 
 ## These should remain in sync with permissions.NAME.label in sitePermissions.properties
 
 webext-site-perms-midi = MIDI qurilmalariga kirish
+
+## Colorway theme migration
+

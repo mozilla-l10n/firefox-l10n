@@ -92,6 +92,9 @@ bookmarks-toolbar-callout-2b-primary-button-label = Να παραμείνει α
 # Reverts the bookmarks toolbar to the default setting
 bookmarks-toolbar-callout-2b-secondary-button-label = Όχι, ευχαριστώ
 
+## Perplexity callout strings
+
+
 ## Sidebar Strings
 
 sidebar-button-callout-title = Εμφάνιση τίτλων καρτελών στην πλαϊνή γραμμή

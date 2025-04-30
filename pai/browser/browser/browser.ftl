@@ -213,3 +213,6 @@ ui-tour-info-panel-close =
 # The wording here should be consistent with the Windows variant of
 # `downloads-cmd-show-menuitem-2` and similar messages.
 
+
+## Onboarding Finish Setup checklist
+

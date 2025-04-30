@@ -553,5 +553,3 @@ newtab-report-content-spam-misleading =
     .label = Spam o fallace
 newtab-report-cancel = Cancellar
 newtab-report-submit = Inviar
-newtab-toast-thanks-for-feedback =
-    .message = Gratias pro tu commentario.

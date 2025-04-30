@@ -92,6 +92,9 @@ bookmarks-toolbar-callout-2b-primary-button-label = Wočinjeny dźeržeć
 # Reverts the bookmarks toolbar to the default setting
 bookmarks-toolbar-callout-2b-secondary-button-label = Ně, dźakuju so
 
+## Perplexity callout strings
+
+
 ## Sidebar Strings
 
 sidebar-button-callout-title = Titule rajtarkow w bóčnicy pokazać

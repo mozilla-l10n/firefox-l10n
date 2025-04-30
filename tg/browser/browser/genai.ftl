@@ -165,3 +165,6 @@ genai-model-optin-optout =
     .label = Бекор кардан
 genai-model-optin-cancel =
     .label = Бекор кардан
+
+## Link previews
+

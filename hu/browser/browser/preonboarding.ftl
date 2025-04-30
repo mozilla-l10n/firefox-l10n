@@ -8,7 +8,7 @@
 preonboarding-title = Üdvözli a { -brand-product-name }
 preonboarding-subtitle = A folytatással elfogadja a { -brand-product-name } felhasználási feltételeit és az Adatvédelmi nyilatkozatunkat. A böngésző fejlesztése érdekében a { -brand-product-name } diagnosztikai és interakciós adatokat küld a { -vendor-short-name(ending: "accented") }nak.
 preonboarding-primary-cta = Megerősítés és folytatás
-# Label for header style button that toggles showing the terms of use, privacy notice, and data preferences checklist
+# Labels for header style button that toggles showing the terms of use, privacy notice, and data preferences checklist
 preonboarding-manage-and-read-header = Adatgyűjtési beállítások kezelése, valamint a felhasználási feltételeinket és az adatvédelmi nyilatkozat elolvasása
 # Label for header style button that toggles showing the Terms of Use
 preonboarding-terms-of-use-header-button-title = Felhasználási feltételek elolvasása
@@ -16,9 +16,9 @@ preonboarding-terms-of-use-header-button-title = Felhasználási feltételek elo
 preonboarding-privacy-notice-header-button-title = Adatvédelmi nyilatkozat felolvasása
 # Label for header style button that toggles showing the data preference checklist
 preonboarding-manage-data-header-button-title = Diagnosztikai és interakciós adatok kezelése
-# Label for header style button that toggles showing the Terms of Use (Variant B)
+# Labels for header style button that toggles showing the Terms of Use (Variant B)
 preonboarding-terms-of-use-header-button-title-b = A { -brand-product-name } felhasználási feltételei
-# Label for header style button that toggles showing the Privacy Notice (Variant B)
+# Labels for header style button that toggles showing the Privacy Notice (Variant B)
 preonboarding-privacy-notice-header-button-title-b = A { -brand-product-name } adatvédelmi nyilatkozata
 # Description under label for header style buttons
 preonboarding-header-button-description = Bővebben

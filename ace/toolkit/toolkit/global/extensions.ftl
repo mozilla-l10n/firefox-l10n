@@ -52,3 +52,6 @@ webext-perms-optional-perms-allow =
 
 ## These should remain in sync with permissions.NAME.label in sitePermissions.properties
 
+
+## Colorway theme migration
+

@@ -92,6 +92,9 @@ bookmarks-toolbar-callout-2b-primary-button-label = 열어 놓기
 # Reverts the bookmarks toolbar to the default setting
 bookmarks-toolbar-callout-2b-secondary-button-label = 아니요
 
+## Perplexity callout strings
+
+
 ## Sidebar Strings
 
 sidebar-button-callout-title = 사이드바에 탭 제목 표시

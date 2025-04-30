@@ -1250,3 +1250,6 @@ file-picker-crashed-save-nowhere = It Windows-bestânsdialoochfinster is ferûng
 file-picker-crashed-show-in-folder =
     .label = Yn map toane
     .accessKey = m
+
+## Onboarding Finish Setup checklist
+

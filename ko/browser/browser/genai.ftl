@@ -159,3 +159,6 @@ genai-model-optin-optout =
     .label = 취소
 genai-model-optin-cancel =
     .label = 취소
+
+## Link previews
+

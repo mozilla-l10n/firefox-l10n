@@ -96,3 +96,6 @@ webext-site-perms-header-unsigned-with-perms = Przidać { $extension }? Te rozsz
 
 webext-site-perms-midi = Dostymp do maszin MIDI
 webext-site-perms-midi-sysex = Dostymp do maszin MIDI z ôbsugōm SysEx
+
+## Colorway theme migration
+

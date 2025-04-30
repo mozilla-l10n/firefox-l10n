@@ -1261,3 +1261,6 @@ file-picker-crashed-save-nowhere = Okno sistema Windows za izbiro mesta shranjev
 file-picker-crashed-show-in-folder =
     .label = Prikaži v mapi
     .accessKey = m
+
+## Onboarding Finish Setup checklist
+

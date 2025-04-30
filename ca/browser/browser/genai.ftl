@@ -123,3 +123,6 @@ genai-onboarding-lechat-price = Gratuït; cal un compte
 
 ## Model Optin Component
 
+
+## Link previews
+

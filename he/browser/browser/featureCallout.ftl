@@ -77,6 +77,9 @@ bookmarks-toolbar-callout-2b-primary-button-label = להשאיר פתוח
 # Reverts the bookmarks toolbar to the default setting
 bookmarks-toolbar-callout-2b-secondary-button-label = לא תודה
 
+## Perplexity callout strings
+
+
 ## Sidebar Strings
 
 sidebar-button-callout-title = הצגת כותרות של לשוניות בסרגל הצד

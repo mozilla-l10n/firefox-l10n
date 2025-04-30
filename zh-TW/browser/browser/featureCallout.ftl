@@ -92,6 +92,9 @@ bookmarks-toolbar-callout-2b-primary-button-label = 保持開啟
 # Reverts the bookmarks toolbar to the default setting
 bookmarks-toolbar-callout-2b-secondary-button-label = 不要，謝謝
 
+## Perplexity callout strings
+
+
 ## Sidebar Strings
 
 sidebar-button-callout-title = 在側邊欄顯示分頁標題

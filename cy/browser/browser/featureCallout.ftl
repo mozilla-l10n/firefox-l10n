@@ -92,6 +92,9 @@ bookmarks-toolbar-callout-2b-primary-button-label = Cadw ar agor
 # Reverts the bookmarks toolbar to the default setting
 bookmarks-toolbar-callout-2b-secondary-button-label = Dim diolch
 
+## Perplexity callout strings
+
+
 ## Sidebar Strings
 
 sidebar-button-callout-title = Dangos teitlau tabiau yn y bar ochr

@@ -969,3 +969,6 @@ popup-show-popup-menuitem =
 file-picker-crashed-show-in-folder =
     .label = సంచయంలో చూపించు
     .accessKey = F
+
+## Onboarding Finish Setup checklist
+

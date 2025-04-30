@@ -556,5 +556,3 @@ newtab-report-content-spam-misleading =
     .label = უსარგებლო ან თაღლითურია
 newtab-report-cancel = გაუქმება
 newtab-report-submit = გაგზავნა
-newtab-toast-thanks-for-feedback =
-    .message = გმადლობთ გამოხმაურებისთვის.

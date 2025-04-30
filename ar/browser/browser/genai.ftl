@@ -62,3 +62,6 @@ genai-model-optin-optout =
     .label = ألغِ
 genai-model-optin-cancel =
     .label = ألغِ
+
+## Link previews
+

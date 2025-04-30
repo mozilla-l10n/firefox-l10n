@@ -1256,3 +1256,6 @@ file-picker-crashed-save-nowhere = Okno wyboru pliku systemu Windows uległo awa
 file-picker-crashed-show-in-folder =
     .label = Pokaż w folderze
     .accessKey = P
+
+## Onboarding Finish Setup checklist
+

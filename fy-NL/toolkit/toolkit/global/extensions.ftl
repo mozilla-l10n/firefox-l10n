@@ -118,3 +118,6 @@ webext-site-perms-header-unsigned-with-perms = { $extension } tafoegje? Dizze ú
 
 webext-site-perms-midi = MIDI-apparaten benaderje
 webext-site-perms-midi-sysex = MIDI-apparaten mei SysEx-stipe benaderje
+
+## Colorway theme migration
+

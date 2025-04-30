@@ -7,7 +7,7 @@
 
 preonboarding-title = Bienvenido a { -brand-product-name }
 preonboarding-primary-cta = Confirmar y continuar
-# Label for header style button that toggles showing the terms of use, privacy notice, and data preferences checklist
+# Labels for header style button that toggles showing the terms of use, privacy notice, and data preferences checklist
 preonboarding-manage-and-read-header = Administrar los ajustes de recopilación de datos y leer nuestros Términos de uso y Aviso de privacidad
 # Label for header style button that toggles showing the Terms of Use
 preonboarding-terms-of-use-header-button-title = Leer nuestros Términos de uso
@@ -15,9 +15,9 @@ preonboarding-terms-of-use-header-button-title = Leer nuestros Términos de uso
 preonboarding-privacy-notice-header-button-title = Leer nuestro Aviso de Privacidad
 # Label for header style button that toggles showing the data preference checklist
 preonboarding-manage-data-header-button-title = Administrar datos de diagnóstico e interacción
-# Label for header style button that toggles showing the Terms of Use (Variant B)
+# Labels for header style button that toggles showing the Terms of Use (Variant B)
 preonboarding-terms-of-use-header-button-title-b = { -brand-product-name } Términos de uso
-# Label for header style button that toggles showing the Privacy Notice (Variant B)
+# Labels for header style button that toggles showing the Privacy Notice (Variant B)
 preonboarding-privacy-notice-header-button-title-b = Política de privacidad de { -brand-product-name }
 # Description under label for header style buttons
 preonboarding-header-button-description = Leer más

@@ -986,3 +986,6 @@ popup-show-popup-menuitem =
 file-picker-crashed-show-in-folder =
     .label = බහාලුමෙහි පෙන්වන්න
     .accessKey = F
+
+## Onboarding Finish Setup checklist
+

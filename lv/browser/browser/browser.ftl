@@ -1078,3 +1078,6 @@ file-picker-crashed-save-nowhere = Nevarēja atvērt Windows datņu dialoglodzi�
 file-picker-crashed-show-in-folder =
     .label = Rādīt mapē
     .accessKey = m
+
+## Onboarding Finish Setup checklist
+

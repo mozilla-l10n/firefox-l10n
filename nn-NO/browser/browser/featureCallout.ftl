@@ -92,6 +92,9 @@ bookmarks-toolbar-callout-2b-primary-button-label = Hald open
 # Reverts the bookmarks toolbar to the default setting
 bookmarks-toolbar-callout-2b-secondary-button-label = Nei takk
 
+## Perplexity callout strings
+
+
 ## Sidebar Strings
 
 sidebar-button-callout-title = Vis fanetitlar i sidestolpen

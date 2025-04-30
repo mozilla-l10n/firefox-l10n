@@ -1247,3 +1247,6 @@ file-picker-crashed-save-nowhere = Windows-ის ფაილების მ�
 file-picker-crashed-show-in-folder =
     .label = ჩვენება საქაღალდეში
     .accessKey = ქ
+
+## Onboarding Finish Setup checklist
+

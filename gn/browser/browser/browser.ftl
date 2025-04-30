@@ -1248,3 +1248,6 @@ file-picker-crashed-save-nowhere = Marandurenda ñemongetaha Windows ndoikói. N
 file-picker-crashed-show-in-folder =
     .label = Ehechauka ñongatuhápe
     .accessKey = F
+
+## Onboarding Finish Setup checklist
+

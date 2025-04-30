@@ -8,7 +8,7 @@
 preonboarding-title = Witamy w przeglądarce { -brand-product-name }
 preonboarding-subtitle = Kontynuując, zgadzasz się na warunki korzystania z { -brand-product-name(case: "gen") } i nasze zasady ochrony prywatności. Aby pomóc w ulepszaniu przeglądarki, { -brand-product-name } wysyła dane diagnostyczne i o interakcjach do { -vendor-short-name(case: "gen") }.
 preonboarding-primary-cta = Potwierdź i kontynuuj
-# Label for header style button that toggles showing the terms of use, privacy notice, and data preferences checklist
+# Labels for header style button that toggles showing the terms of use, privacy notice, and data preferences checklist
 preonboarding-manage-and-read-header = Zarządzaj ustawieniami zbierania danych i przeczytaj nasze warunki korzystania i zasady ochrony prywatności
 # Label for header style button that toggles showing the Terms of Use
 preonboarding-terms-of-use-header-button-title = Przeczytaj nasze warunki korzystania
@@ -16,9 +16,9 @@ preonboarding-terms-of-use-header-button-title = Przeczytaj nasze warunki korzys
 preonboarding-privacy-notice-header-button-title = Przeczytaj nasze zasady ochrony prywatności
 # Label for header style button that toggles showing the data preference checklist
 preonboarding-manage-data-header-button-title = Zarządzaj danymi diagnostycznymi i o interakcjach
-# Label for header style button that toggles showing the Terms of Use (Variant B)
+# Labels for header style button that toggles showing the Terms of Use (Variant B)
 preonboarding-terms-of-use-header-button-title-b = Warunki korzystania z { -brand-product-name(case: "gen") }
-# Label for header style button that toggles showing the Privacy Notice (Variant B)
+# Labels for header style button that toggles showing the Privacy Notice (Variant B)
 preonboarding-privacy-notice-header-button-title-b = Zasady ochrony prywatności { -brand-product-name(case: "gen") }
 # Description under label for header style buttons
 preonboarding-header-button-description = Więcej informacji

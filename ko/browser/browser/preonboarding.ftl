@@ -8,7 +8,7 @@
 preonboarding-title = { -brand-product-name } 사용을 환영합니다
 preonboarding-subtitle = 계속하시면 { -brand-product-name } 이용 약관과 개인정보처리방침에 동의하게 됩니다. 브라우저 개선을 위해 { -brand-product-name }는 진단 및 상호 작용 데이터를 { -vendor-short-name }에 보냅니다.
 preonboarding-primary-cta = 동의 및 계속
-# Label for header style button that toggles showing the terms of use, privacy notice, and data preferences checklist
+# Labels for header style button that toggles showing the terms of use, privacy notice, and data preferences checklist
 preonboarding-manage-and-read-header = 데이터 수집 설정을 관리하고 이용 약관과 개인정보처리방침 읽기
 # Label for header style button that toggles showing the Terms of Use
 preonboarding-terms-of-use-header-button-title = 이용 약관 읽기
@@ -16,9 +16,9 @@ preonboarding-terms-of-use-header-button-title = 이용 약관 읽기
 preonboarding-privacy-notice-header-button-title = 개인정보처리방침 읽기
 # Label for header style button that toggles showing the data preference checklist
 preonboarding-manage-data-header-button-title = 진단 및 상호 작용 데이터 관리
-# Label for header style button that toggles showing the Terms of Use (Variant B)
+# Labels for header style button that toggles showing the Terms of Use (Variant B)
 preonboarding-terms-of-use-header-button-title-b = { -brand-product-name } 이용 약관
-# Label for header style button that toggles showing the Privacy Notice (Variant B)
+# Labels for header style button that toggles showing the Privacy Notice (Variant B)
 preonboarding-privacy-notice-header-button-title-b = { -brand-product-name } 개인정보처리방침
 # Description under label for header style buttons
 preonboarding-header-button-description = 더 알아보기

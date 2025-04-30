@@ -14,9 +14,9 @@ preonboarding-terms-of-use-header-button-title = ഞങ്ങളുടെ ഉപ
 preonboarding-privacy-notice-header-button-title = ഞങ്ങളുടെ സ്വകാര്യത അറിയിപ്പു് വായിക്കുക
 # Label for header style button that toggles showing the data preference checklist
 preonboarding-manage-data-header-button-title = സാങ്കേതിയും ഇടപാടുനീയ ദത്ത കൈകാര്യം ചെയ്യുക
-# Label for header style button that toggles showing the Terms of Use (Variant B)
+# Labels for header style button that toggles showing the Terms of Use (Variant B)
 preonboarding-terms-of-use-header-button-title-b = { -brand-product-name } സേവന നിബന്ധനകൾ
-# Label for header style button that toggles showing the Privacy Notice (Variant B)
+# Labels for header style button that toggles showing the Privacy Notice (Variant B)
 preonboarding-privacy-notice-header-button-title-b = { -brand-product-name } സ്വകാര്യത അറിയിപ്പു്
 # Description under label for header style buttons
 preonboarding-header-button-description = കൂടുതൽ വായിക്കുക

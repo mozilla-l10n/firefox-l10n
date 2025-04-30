@@ -8,7 +8,7 @@
 preonboarding-title = Καλώς ορίσατε στο { -brand-product-name }
 preonboarding-subtitle = Συνεχίζοντας, συμφωνείτε με τους Όρους χρήσης του { -brand-product-name } και τη Σημείωση απορρήτου μας. Για τη βελτίωση του προγράμματος περιήγησης, το { -brand-product-name } στέλνει διαγνωστικά δεδομένα και δεδομένα αλληλεπίδρασης στη { -vendor-short-name }.
 preonboarding-primary-cta = Επιβεβαίωση και συνέχεια
-# Label for header style button that toggles showing the terms of use, privacy notice, and data preferences checklist
+# Labels for header style button that toggles showing the terms of use, privacy notice, and data preferences checklist
 preonboarding-manage-and-read-header = Διαχειριστείτε τις ρυθμίσεις συλλογής δεδομένων και διαβάστε τους Όρους Χρήσης και τη Σημείωση απορρήτου μας
 # Label for header style button that toggles showing the Terms of Use
 preonboarding-terms-of-use-header-button-title = Διαβάστε τους Όρους χρήσης μας
@@ -16,9 +16,9 @@ preonboarding-terms-of-use-header-button-title = Διαβάστε τους Όρ�
 preonboarding-privacy-notice-header-button-title = Διαβάστε τη Σημείωση απορρήτου μας
 # Label for header style button that toggles showing the data preference checklist
 preonboarding-manage-data-header-button-title = Διαχείριση διαγνωστικών δεδομένων και δεδομένων αλληλεπίδρασης
-# Label for header style button that toggles showing the Terms of Use (Variant B)
+# Labels for header style button that toggles showing the Terms of Use (Variant B)
 preonboarding-terms-of-use-header-button-title-b = Όροι χρήσης του { -brand-product-name }
-# Label for header style button that toggles showing the Privacy Notice (Variant B)
+# Labels for header style button that toggles showing the Privacy Notice (Variant B)
 preonboarding-privacy-notice-header-button-title-b = Σημείωση απορρήτου του { -brand-product-name }
 # Description under label for header style buttons
 preonboarding-header-button-description = Διαβάστε περισσότερα

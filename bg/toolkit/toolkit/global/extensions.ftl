@@ -89,3 +89,6 @@ webext-site-perms-header-unsigned-with-perms = Да бъде ли добавен
 
 ## These should remain in sync with permissions.NAME.label in sitePermissions.properties
 
+
+## Colorway theme migration
+

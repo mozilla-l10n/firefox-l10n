@@ -118,3 +118,6 @@ webext-site-perms-header-unsigned-with-perms = Zontâ { $extension }? Cheste est
 
 webext-site-perms-midi = Acedi a dispositîfs MIDI
 webext-site-perms-midi-sysex = Acedi a dispositîfs MIDI cun supuart SysEx
+
+## Colorway theme migration
+

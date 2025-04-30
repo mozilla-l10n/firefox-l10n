@@ -171,3 +171,6 @@ genai-model-optin-optout =
     .label = Zrušiť
 genai-model-optin-cancel =
     .label = Zrušiť
+
+## Link previews
+

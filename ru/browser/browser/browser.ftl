@@ -1258,3 +1258,6 @@ file-picker-crashed-save-nowhere = Произошло падение диало�
 file-picker-crashed-show-in-folder =
     .label = Показать в папке
     .accessKey = А
+
+## Onboarding Finish Setup checklist
+

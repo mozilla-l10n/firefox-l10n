@@ -1243,3 +1243,6 @@ file-picker-crashed-save-nowhere = Fildialogboksen i Windows er gået ned. Der b
 file-picker-crashed-show-in-folder =
     .label = Vis i mappe
     .accessKey = F
+
+## Onboarding Finish Setup checklist
+

@@ -80,7 +80,7 @@ webext-perms-host-description-one-domain = Acceder a tus datos para sitios en do
 #   $domainCount (Number): Integer indicating the number of websites domains for which this webextension is requesting permission
 #     (the list of domains will follow this string).
 webext-perms-host-description-multiple-domains =
-    { NUMBER($domainCount) ->
+    { $domainCount ->
         [one] Acceder a tus datos para los sitios en { $domainCount } dominio
        *[other] Acceder a tus datos para los sitios en { $domainCount } dominios
     }
@@ -118,3 +118,6 @@ webext-site-perms-header-unsigned-with-perms = ¿Agregar { $extension }? Esta ex
 
 webext-site-perms-midi = Acceder a dispositivos MIDI
 webext-site-perms-midi-sysex = Acceder a dispositivos MIDI con soporte para SysEx
+
+## Colorway theme migration
+

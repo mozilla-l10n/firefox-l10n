@@ -8,7 +8,7 @@
 preonboarding-title = 歡迎使用 { -brand-product-name }
 preonboarding-subtitle = 繼續使用，代表您同意 { -brand-product-name } 的使用條款與我們的隱私權公告。為了協助改善瀏覽器，{ -brand-product-name } 會將除錯用資料與互動資料，傳送回 { -vendor-short-name }。
 preonboarding-primary-cta = 確認並繼續
-# Label for header style button that toggles showing the terms of use, privacy notice, and data preferences checklist
+# Labels for header style button that toggles showing the terms of use, privacy notice, and data preferences checklist
 preonboarding-manage-and-read-header = 管理資料收集設定，並閱讀我們的使用條款與隱私權公告
 # Label for header style button that toggles showing the Terms of Use
 preonboarding-terms-of-use-header-button-title = 閱讀我們的使用條款
@@ -16,9 +16,9 @@ preonboarding-terms-of-use-header-button-title = 閱讀我們的使用條款
 preonboarding-privacy-notice-header-button-title = 閱讀我們的隱私權公告
 # Label for header style button that toggles showing the data preference checklist
 preonboarding-manage-data-header-button-title = 管理除錯用與互動資料
-# Label for header style button that toggles showing the Terms of Use (Variant B)
+# Labels for header style button that toggles showing the Terms of Use (Variant B)
 preonboarding-terms-of-use-header-button-title-b = { -brand-product-name } 使用條款
-# Label for header style button that toggles showing the Privacy Notice (Variant B)
+# Labels for header style button that toggles showing the Privacy Notice (Variant B)
 preonboarding-privacy-notice-header-button-title-b = { -brand-product-name } 隱私權公告
 # Description under label for header style buttons
 preonboarding-header-button-description = 閱讀更多

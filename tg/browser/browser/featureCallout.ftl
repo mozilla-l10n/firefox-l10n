@@ -92,6 +92,9 @@ bookmarks-toolbar-callout-2b-primary-button-label = Кушода нигоҳ до
 # Reverts the bookmarks toolbar to the default setting
 bookmarks-toolbar-callout-2b-secondary-button-label = Не, ташаккур
 
+## Perplexity callout strings
+
+
 ## Sidebar Strings
 
 sidebar-button-callout-title = Нишон додани сарлавҳаҳои варақаҳо дар навори ҷонибӣ

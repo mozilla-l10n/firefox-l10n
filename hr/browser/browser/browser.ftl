@@ -1201,3 +1201,6 @@ file-picker-crashed-save-nowhere = Windows dijaloški okvir za odabir datoteke s
 file-picker-crashed-show-in-folder =
     .label = Prikaži u mapi
     .accessKey = m
+
+## Onboarding Finish Setup checklist
+

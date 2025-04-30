@@ -1221,3 +1221,6 @@ file-picker-crashed-save-nowhere = Dialogu Windows për kartela u vithis. S’p�
 file-picker-crashed-show-in-folder =
     .label = Shfaqe Në Dosje
     .accessKey = D
+
+## Onboarding Finish Setup checklist
+

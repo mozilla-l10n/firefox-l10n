@@ -28,6 +28,9 @@ fx-view-discoverability-subtitle = Găsește-le și redeschide-le rapid de aici.
 ## Bookmarks toolbar callout strings
 
 
+## Perplexity callout strings
+
+
 ## Sidebar Strings
 
 

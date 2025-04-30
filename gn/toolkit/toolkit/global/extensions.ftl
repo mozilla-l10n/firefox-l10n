@@ -117,3 +117,6 @@ webext-site-perms-header-unsigned-with-perms = ¿Embojuaju { $extension }? Ko je
 
 webext-site-perms-midi = Eike MIDI mba’e’okápe
 webext-site-perms-midi-sysex = Eike MIDI mba’e’okápe SysEx pytyvõha ndive
+
+## Colorway theme migration
+

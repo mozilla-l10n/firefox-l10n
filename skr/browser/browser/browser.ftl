@@ -1162,3 +1162,6 @@ file-picker-crashed-save-nowhere = ونڈوز فائل ڈائیلاگ کریش �
 file-picker-crashed-show-in-folder =
     .label = فولڈر وِچ ݙکھاؤ
     .accessKey = F
+
+## Onboarding Finish Setup checklist
+

@@ -53,6 +53,9 @@ split-dismiss-button-default-label =
 ## Bookmarks toolbar callout strings
 
 
+## Perplexity callout strings
+
+
 ## Sidebar Strings
 
 sidebar-button-callout-title = അണിവക്കത്തിൽ ടാബുതലക്കെട്ടുകൾ കാണിക്കുക

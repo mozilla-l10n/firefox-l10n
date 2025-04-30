@@ -112,6 +112,9 @@ bookmarks-toolbar-callout-2b-primary-button-label = Ponechat otevřeno
 # Reverts the bookmarks toolbar to the default setting
 bookmarks-toolbar-callout-2b-secondary-button-label = Ne, děkuji
 
+## Perplexity callout strings
+
+
 ## Sidebar Strings
 
 sidebar-button-callout-title = Zobrazovat názvy panelů v postranní liště

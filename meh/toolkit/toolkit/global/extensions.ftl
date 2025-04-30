@@ -74,3 +74,6 @@ webext-perms-host-description-too-many-sites = Kivɨ nuu datos noo´o nuu { $dom
 
 ## These should remain in sync with permissions.NAME.label in sitePermissions.properties
 
+
+## Colorway theme migration
+

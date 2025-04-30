@@ -1139,3 +1139,6 @@ file-picker-crashed-save-nowhere = വിണ്ടോസു് ഫയൽ സന�
 file-picker-crashed-show-in-folder =
     .label = അറയിൽ കാണിക്കുക
     .accessKey = ക
+
+## Onboarding Finish Setup checklist
+

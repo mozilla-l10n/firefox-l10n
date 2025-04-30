@@ -8,7 +8,7 @@
 preonboarding-title = Wolkom by { -brand-product-name }
 preonboarding-subtitle = Troch fierder te gean geane jo akkoard mei de Gebrûksbetingsten fan { -brand-product-name } en ús Privacyferklearring. Om de browser te ferbetterjen, stjoert { -brand-product-name } diagnostyske en ynteraksjegegevens nei { -vendor-short-name }.
 preonboarding-primary-cta = Befêstigje en trochgean
-# Label for header style button that toggles showing the terms of use, privacy notice, and data preferences checklist
+# Labels for header style button that toggles showing the terms of use, privacy notice, and data preferences checklist
 preonboarding-manage-and-read-header = Ynstellingen foar gegevenssammeling beheare en ús Gebrûksbetingsten en Privacyferklearring lêze
 # Label for header style button that toggles showing the Terms of Use
 preonboarding-terms-of-use-header-button-title = Us Gebrûksbetingsten lêze
@@ -16,9 +16,9 @@ preonboarding-terms-of-use-header-button-title = Us Gebrûksbetingsten lêze
 preonboarding-privacy-notice-header-button-title = Us Privacyferklearring lêze
 # Label for header style button that toggles showing the data preference checklist
 preonboarding-manage-data-header-button-title = Diagnostyske en ynteraksjegegevens beheare
-# Label for header style button that toggles showing the Terms of Use (Variant B)
+# Labels for header style button that toggles showing the Terms of Use (Variant B)
 preonboarding-terms-of-use-header-button-title-b = { -brand-product-name }-brûksbetingsten
-# Label for header style button that toggles showing the Privacy Notice (Variant B)
+# Labels for header style button that toggles showing the Privacy Notice (Variant B)
 preonboarding-privacy-notice-header-button-title-b = { -brand-product-name }-privacyferklearring
 # Description under label for header style buttons
 preonboarding-header-button-description = Mear ynfo

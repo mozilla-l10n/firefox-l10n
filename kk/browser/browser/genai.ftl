@@ -141,3 +141,6 @@ genai-model-optin-optout =
     .label = Бас тарту
 genai-model-optin-cancel =
     .label = Бас тарту
+
+## Link previews
+

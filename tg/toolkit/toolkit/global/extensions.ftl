@@ -117,3 +117,6 @@ webext-site-perms-header-unsigned-with-perms = { $extension }-ро илова м
 
 webext-site-perms-midi = Дастрасӣ ба дастгоҳҳои MIDI
 webext-site-perms-midi-sysex = Дастрасӣ ба дастгоҳҳои MIDI бо дастгирии SysEx
+
+## Colorway theme migration
+

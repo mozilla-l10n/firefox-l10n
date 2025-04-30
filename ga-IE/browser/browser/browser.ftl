@@ -880,3 +880,6 @@ popup-show-popup-menuitem =
 file-picker-crashed-show-in-folder =
     .label = Taispeáin san Fhillteán
     .accessKey = F
+
+## Onboarding Finish Setup checklist
+

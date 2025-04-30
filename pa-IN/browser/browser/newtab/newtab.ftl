@@ -549,5 +549,3 @@ newtab-report-content-spam-misleading =
     .label = ਸਪੈਮ ਜਾਂ ਗੁੰਮਰਾਹਕੁੰਨ
 newtab-report-cancel = ਰੱਦ ਕਰੋ
 newtab-report-submit = ਭੇਜੋ
-newtab-toast-thanks-for-feedback =
-    .message = ਤੁਹਾਡੀ ਫ਼ੀਡਬੈਕ ਲਈ ਤੁਹਾਡਾ ਧੰਨਵਾਦ ਹੈ।

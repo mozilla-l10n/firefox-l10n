@@ -558,5 +558,3 @@ newtab-report-content-spam-misleading =
     .label = Спам або зман
 newtab-report-cancel = Скасаваць
 newtab-report-submit = Даслаць
-newtab-toast-thanks-for-feedback =
-    .message = Дзякуй за ваш водгук.

@@ -8,7 +8,7 @@
 preonboarding-title = Benvenite a { -brand-product-name }
 preonboarding-subtitle = Continuante, tu accepta le Conditiones de uso { -brand-product-name } e nostre Aviso de confidentialitate. Pro adjutar a meliorar le navigator, { -brand-product-name } invia datos diagnostic e de interaction a { -vendor-short-name }.
 preonboarding-primary-cta = Confirmar e continuar
-# Label for header style button that toggles showing the terms of use, privacy notice, and data preferences checklist
+# Labels for header style button that toggles showing the terms of use, privacy notice, and data preferences checklist
 preonboarding-manage-and-read-header = Gere le parametros de collecta de datos e lege nostre Conditiones de uso e Aviso de confidentialitate
 # Label for header style button that toggles showing the Terms of Use
 preonboarding-terms-of-use-header-button-title = Leger nostre Conditiones de uso
@@ -16,9 +16,9 @@ preonboarding-terms-of-use-header-button-title = Leger nostre Conditiones de uso
 preonboarding-privacy-notice-header-button-title = Lege nostre aviso de confidentialitate
 # Label for header style button that toggles showing the data preference checklist
 preonboarding-manage-data-header-button-title = Gerer datos diagnostic e de interaction
-# Label for header style button that toggles showing the Terms of Use (Variant B)
+# Labels for header style button that toggles showing the Terms of Use (Variant B)
 preonboarding-terms-of-use-header-button-title-b = Conditiones de uso de { -brand-product-name }
-# Label for header style button that toggles showing the Privacy Notice (Variant B)
+# Labels for header style button that toggles showing the Privacy Notice (Variant B)
 preonboarding-privacy-notice-header-button-title-b = Aviso de confidentialitate de { -brand-product-name }
 # Description under label for header style buttons
 preonboarding-header-button-description = Pro leger plus

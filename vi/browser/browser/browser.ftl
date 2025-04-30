@@ -1233,3 +1233,6 @@ file-picker-crashed-save-nowhere = Hộp thoại tập tin Windows đã bị l�
 file-picker-crashed-show-in-folder =
     .label = Hiển thị trong thư mục
     .accessKey = F
+
+## Onboarding Finish Setup checklist
+

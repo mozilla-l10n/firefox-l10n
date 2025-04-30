@@ -8,7 +8,7 @@
 preonboarding-title = Víta vás { -brand-product-name }
 preonboarding-subtitle = Pokračovaním vyjadrujete súhlas s Zmluvnými podmienkami používania { -brand-product-name(case: "gen") } a naším Vyhlásením o ochrane osobných údajov. S cieľom vylepšovania prehliadača odosiela { -brand-product-name } diagnostické údaje a údaje o interakciách spoločnosti { -vendor-short-name }.
 preonboarding-primary-cta = Súhlasím a pokračovať
-# Label for header style button that toggles showing the terms of use, privacy notice, and data preferences checklist
+# Labels for header style button that toggles showing the terms of use, privacy notice, and data preferences checklist
 preonboarding-manage-and-read-header = Spravujte nastavenia zhromažďovania údajov a prečítajte si naše Podmienky používania a Vyhlásenie o ochrane osobných údajov
 # Label for header style button that toggles showing the Terms of Use
 preonboarding-terms-of-use-header-button-title = Prečítajte si naše Podmienky používania
@@ -16,9 +16,9 @@ preonboarding-terms-of-use-header-button-title = Prečítajte si naše Podmienky
 preonboarding-privacy-notice-header-button-title = Prečítajte si naše Vyhlásenie o ochrane osobných údajov
 # Label for header style button that toggles showing the data preference checklist
 preonboarding-manage-data-header-button-title = Spravujte diagnostické údaje a údaje o interakciách
-# Label for header style button that toggles showing the Terms of Use (Variant B)
+# Labels for header style button that toggles showing the Terms of Use (Variant B)
 preonboarding-terms-of-use-header-button-title-b = Podmienky používania { -brand-product-name(case: "gen") }
-# Label for header style button that toggles showing the Privacy Notice (Variant B)
+# Labels for header style button that toggles showing the Privacy Notice (Variant B)
 preonboarding-privacy-notice-header-button-title-b = Vyhlásenie o ochrane osobných údajov { -brand-product-name(case: "gen") }
 # Description under label for header style buttons
 preonboarding-header-button-description = Ďalšie informácie

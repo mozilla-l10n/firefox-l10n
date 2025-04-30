@@ -8,7 +8,7 @@
 preonboarding-title = { -brand-product-name } ਵਲੋਂ ਜੀ ਆਇਆਂ ਨੂੰ
 preonboarding-subtitle = ਜਾਰੀ ਰੱਖ ਕੇ ਤੁਸੀਂ { -brand-product-name } ਵਰਤਣ ਦੀਆਂ ਸ਼ਰਤਾਂ ਅਤੇ ਸਾਡੀ ਪਰਦੇਦਾਰੀ ਨੀਤੀ ਨਾਲ ਸਹਿਮਤ ਹੁੰਦੇ ਹੋ। ਬਰਾਊਜ਼ਰ ਨੂੰ ਸੁਧਾਰਨ ਲਈ ਮਦਦ ਵਾਸਤੇ { -brand-product-name } { -vendor-short-name } ਨੂੰ ਜਾਂਚ ਪੜਤਾਲ ਅਤੇ ਤਾਲਮੇਲ ਡਾਟਾ ਭੇਜਦਾ ਹੈ।
 preonboarding-primary-cta = ਤਸਦੀਕ ਕਰੋ ਅਤੇ ਜਾਰੀ ਰੱਖੋ
-# Label for header style button that toggles showing the terms of use, privacy notice, and data preferences checklist
+# Labels for header style button that toggles showing the terms of use, privacy notice, and data preferences checklist
 preonboarding-manage-and-read-header = ਡਾਟਾ ਭੰਡਾਰ ਸੈਟਿੰਗਾਂ ਦਾ ਇੰਤਜ਼ਾਮ ਕਰੋ ਅਤੇ ਸਾਡੀਆਂ ਵਰਤਣ ਦੀਆਂ ਸ਼ਰਤਾਂ ਤੇ ਪਰਦੇਦਾਰੀ ਨੀਤੀ ਨੂੰ ਪੜ੍ਹੋ
 # Label for header style button that toggles showing the Terms of Use
 preonboarding-terms-of-use-header-button-title = ਸਾਡੀਆਂ ਵਰਤਣ ਦੀਆਂ ਸ਼ਰਤਾਂ ਨੂੰ ਪੜ੍ਹੋ
@@ -16,9 +16,9 @@ preonboarding-terms-of-use-header-button-title = ਸਾਡੀਆਂ ਵਰਤਣ
 preonboarding-privacy-notice-header-button-title = ਸਾਡੀ ਪਰਦੇਦਾਰੀ ਸੂਚਨਾ ਨੂੰ ਪੜ੍ਹੋ
 # Label for header style button that toggles showing the data preference checklist
 preonboarding-manage-data-header-button-title = ਜਾਂਚ ਪੜਤਾਲ ਅਤੇ ਤਾਲਮੇਲ ਡਾਟੇ ਦਾ ਇੰਤਜ਼ਾਮ ਕਰੋ
-# Label for header style button that toggles showing the Terms of Use (Variant B)
+# Labels for header style button that toggles showing the Terms of Use (Variant B)
 preonboarding-terms-of-use-header-button-title-b = { -brand-product-name } ਵਰਤਣ ਦੀਆਂ ਸ਼ਰਤਾਂ
-# Label for header style button that toggles showing the Privacy Notice (Variant B)
+# Labels for header style button that toggles showing the Privacy Notice (Variant B)
 preonboarding-privacy-notice-header-button-title-b = { -brand-product-name } ਪਰਦੇਦਾਰੀ ਸੂਚਨਾ
 # Description under label for header style buttons
 preonboarding-header-button-description = ਹੋਰ ਪੜ੍ਹੋ

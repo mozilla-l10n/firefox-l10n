@@ -76,6 +76,9 @@ login-status-advisory-title = Du er logget ud. Klik på konto-ikonet for at logg
 ## Bookmarks toolbar callout strings
 
 
+## Perplexity callout strings
+
+
 ## Sidebar Strings
 
 sidebar-button-callout-title = Vis titler på faneblade i sidepanelet

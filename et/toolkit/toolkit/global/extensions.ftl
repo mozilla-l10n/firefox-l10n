@@ -94,3 +94,6 @@ webext-site-perms-header-unsigned-with-perms = Kas lisada laiendus { $extension 
 
 webext-site-perms-midi = Ligipääsemine MIDI-seadmetele
 webext-site-perms-midi-sysex = Ligipääsemine MIDI-seadmetele SysEx toega
+
+## Colorway theme migration
+

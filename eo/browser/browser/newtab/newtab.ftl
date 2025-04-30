@@ -546,5 +546,3 @@ newtab-report-content-spam-misleading =
     .label = Truda aŭ trompa
 newtab-report-cancel = Nuligi
 newtab-report-submit = Sendi
-newtab-toast-thanks-for-feedback =
-    .message = Dankon pro via opinio.

@@ -1253,3 +1253,6 @@ file-picker-crashed-save-nowhere = Стався збій діалогового 
 file-picker-crashed-show-in-folder =
     .label = Показати у теці
     .accessKey = П
+
+## Onboarding Finish Setup checklist
+

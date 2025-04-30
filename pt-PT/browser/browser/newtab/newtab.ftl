@@ -550,5 +550,3 @@ newtab-report-content-spam-misleading =
     .label = Lixo eletrónico ou enganador
 newtab-report-cancel = Cancelar
 newtab-report-submit = Submeter
-newtab-toast-thanks-for-feedback =
-    .message = Obrigado pela sua opinião.

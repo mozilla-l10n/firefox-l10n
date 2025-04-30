@@ -159,3 +159,6 @@ genai-model-optin-optout =
     .label = Batal
 genai-model-optin-cancel =
     .label = Batal
+
+## Link previews
+

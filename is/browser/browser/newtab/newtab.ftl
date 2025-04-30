@@ -548,5 +548,3 @@ newtab-report-content-spam-misleading =
     .label = Ruslpóstur eða villandi
 newtab-report-cancel = Hætta við
 newtab-report-submit = Senda inn
-newtab-toast-thanks-for-feedback =
-    .message = Takk fyrir álit þitt.

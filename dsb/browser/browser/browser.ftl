@@ -1266,3 +1266,6 @@ file-picker-crashed-save-nowhere = Datajowy dialog Windows jo spadnuł. Standard
 file-picker-crashed-show-in-folder =
     .label = W zarědniku pokazaś
     .accessKey = z
+
+## Onboarding Finish Setup checklist
+

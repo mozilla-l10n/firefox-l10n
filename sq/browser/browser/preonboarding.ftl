@@ -8,7 +8,7 @@
 preonboarding-title = Mirë se vini te { -brand-product-name }
 preonboarding-subtitle = Duke vazhduar, pajtoheni me Termat e Përdorimit për { -brand-product-name } dhe Shënimin tonë mbi Privatësinë. Që të ndihmoni të përmirësohet shfletuesi, { -brand-product-name }-i dërgon te { -vendor-short-name } të dhëna diagnostikimi dhe ndërveprimi.
 preonboarding-primary-cta = Ripohojeni dhe vazhdoni
-# Label for header style button that toggles showing the terms of use, privacy notice, and data preferences checklist
+# Labels for header style button that toggles showing the terms of use, privacy notice, and data preferences checklist
 preonboarding-manage-and-read-header = Administroni rregullime mbledhjeje të dhënash dhe lexoni Rregullat tona të Përdorimit dhe Shënimin tonë mbi Privatësinë
 # Label for header style button that toggles showing the Terms of Use
 preonboarding-terms-of-use-header-button-title = Lexoni Rregullat tona të Përdorimit
@@ -16,9 +16,9 @@ preonboarding-terms-of-use-header-button-title = Lexoni Rregullat tona të Përd
 preonboarding-privacy-notice-header-button-title = Lexoni Shënimin tonë mbi Privatësinë
 # Label for header style button that toggles showing the data preference checklist
 preonboarding-manage-data-header-button-title = Administroni të dhëna diagnostikimi dhe ndërveprimesh
-# Label for header style button that toggles showing the Terms of Use (Variant B)
+# Labels for header style button that toggles showing the Terms of Use (Variant B)
 preonboarding-terms-of-use-header-button-title-b = Terma Përdorimi për { -brand-product-name }-in
-# Label for header style button that toggles showing the Privacy Notice (Variant B)
+# Labels for header style button that toggles showing the Privacy Notice (Variant B)
 preonboarding-privacy-notice-header-button-title-b = Shënim Privatësie në { -brand-product-name }
 # Description under label for header style buttons
 preonboarding-header-button-description = Lexoni Më Tepër

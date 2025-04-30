@@ -96,3 +96,6 @@ webext-site-perms-header-unsigned-with-perms = Pridėti „{ $extension }“? Š
 
 webext-site-perms-midi = Naudoti MIDI įrenginius
 webext-site-perms-midi-sysex = Naudoti MIDI įrenginius su „SysEx“ palaikymu
+
+## Colorway theme migration
+

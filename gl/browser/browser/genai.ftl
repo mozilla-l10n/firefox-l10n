@@ -30,3 +30,6 @@ genai-menu-ask-generic =
 
 ## Model Optin Component
 
+
+## Link previews
+

@@ -92,6 +92,9 @@ bookmarks-toolbar-callout-2b-primary-button-label = Manter aberta
 # Reverts the bookmarks toolbar to the default setting
 bookmarks-toolbar-callout-2b-secondary-button-label = Não, obrigado
 
+## Perplexity callout strings
+
+
 ## Sidebar Strings
 
 sidebar-button-callout-title = Mostrar títulos de abas no painel lateral

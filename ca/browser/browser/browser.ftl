@@ -1203,3 +1203,6 @@ file-picker-crashed-save-nowhere = El diàleg de fitxers del Windows ha fallat. 
 file-picker-crashed-show-in-folder =
     .label = Mostra en la carpeta
     .accessKey = M
+
+## Onboarding Finish Setup checklist
+

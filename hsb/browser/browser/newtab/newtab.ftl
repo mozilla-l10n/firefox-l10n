@@ -559,5 +559,3 @@ newtab-report-content-spam-misleading =
     .label = Spam abo zamylacy
 newtab-report-cancel = Přetorhnyć
 newtab-report-submit = Wotpósłać
-newtab-toast-thanks-for-feedback =
-    .message = Dźakujemy so za waš komentar.

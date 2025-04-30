@@ -8,7 +8,7 @@
 preonboarding-title = Tervetuloa { -brand-product-name }iin
 preonboarding-subtitle = Jatkamalla hyväksyt { -brand-product-name }-käyttöehdot ja -tietosuojakäytännön. Selaimen parantamiseksi { -brand-product-name } lähettää diagnostiikka- ja vuorovaikutustietoja { -vendor-short-name }lle.
 preonboarding-primary-cta = Vahvista ja jatka
-# Label for header style button that toggles showing the terms of use, privacy notice, and data preferences checklist
+# Labels for header style button that toggles showing the terms of use, privacy notice, and data preferences checklist
 preonboarding-manage-and-read-header = Hallinnoi tiedonkeruuasetuksia ja lue käyttöehdot sekä tietosuojakäytäntö
 # Label for header style button that toggles showing the Terms of Use
 preonboarding-terms-of-use-header-button-title = Lue käyttöehdot
@@ -16,9 +16,9 @@ preonboarding-terms-of-use-header-button-title = Lue käyttöehdot
 preonboarding-privacy-notice-header-button-title = Lue tietosuojakäytäntö
 # Label for header style button that toggles showing the data preference checklist
 preonboarding-manage-data-header-button-title = Hallinnoi diagnostiikka- ja vuorovaikutustietoja
-# Label for header style button that toggles showing the Terms of Use (Variant B)
+# Labels for header style button that toggles showing the Terms of Use (Variant B)
 preonboarding-terms-of-use-header-button-title-b = { -brand-product-name }-käyttöehdot
-# Label for header style button that toggles showing the Privacy Notice (Variant B)
+# Labels for header style button that toggles showing the Privacy Notice (Variant B)
 preonboarding-privacy-notice-header-button-title-b = { -brand-product-name }-tietosuojakäytäntö
 # Description under label for header style buttons
 preonboarding-header-button-description = Lue lisää

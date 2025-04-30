@@ -165,3 +165,6 @@ genai-model-optin-optout =
     .label = Interrumper
 genai-model-optin-cancel =
     .label = Interrumper
+
+## Link previews
+

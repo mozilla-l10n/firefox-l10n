@@ -92,6 +92,9 @@ bookmarks-toolbar-callout-2b-primary-button-label = Açık kalsın
 # Reverts the bookmarks toolbar to the default setting
 bookmarks-toolbar-callout-2b-secondary-button-label = Hayır
 
+## Perplexity callout strings
+
+
 ## Sidebar Strings
 
 sidebar-button-callout-title = Sekme başlıklarını kenar çubuğunda göster

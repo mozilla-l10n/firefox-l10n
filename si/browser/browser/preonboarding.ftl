@@ -5,11 +5,11 @@
 
 ## Preonboarding modal screen strings
 
-# Label for header style button that toggles showing the terms of use, privacy notice, and data preferences checklist
+# Labels for header style button that toggles showing the terms of use, privacy notice, and data preferences checklist
 preonboarding-manage-and-read-header = දත්ත රැස් කිරීමේ සැකසුම් කළමනාකරණය කරන්න. අපගේ භාවිත නියම සහ රහස්‍යතා දැන්වීම කියවන්න.
 # Label for header style button that toggles showing the Privacy Notice
 preonboarding-privacy-notice-header-button-title = අපගේ රහස්‍යතා දැන්වීම කියවන්න
-# Label for header style button that toggles showing the Privacy Notice (Variant B)
+# Labels for header style button that toggles showing the Privacy Notice (Variant B)
 preonboarding-privacy-notice-header-button-title-b = { -brand-product-name } රහස්‍යතා දැන්වීම
 # New user onboarding checklist
 preonboarding-checklist-interaction-data-label = තාක්‍ෂණික සහ අන්තර්ක්‍රියා දත්ත { -vendor-short-name } වෙත යවන්න

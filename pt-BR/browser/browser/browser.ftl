@@ -1247,3 +1247,6 @@ file-picker-crashed-save-nowhere = O diálogo de arquivos do Windows travou. Nen
 file-picker-crashed-show-in-folder =
     .label = Mostrar na pasta
     .accessKey = p
+
+## Onboarding Finish Setup checklist
+

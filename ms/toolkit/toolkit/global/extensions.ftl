@@ -76,3 +76,6 @@ webext-perms-host-description-too-many-sites = Akses data anda dalam { $domainCo
 
 ## These should remain in sync with permissions.NAME.label in sitePermissions.properties
 
+
+## Colorway theme migration
+

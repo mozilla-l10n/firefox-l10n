@@ -164,3 +164,6 @@ genai-model-optin-optout =
     .label = Heja
 genai-model-optin-cancel =
     .label = Heja
+
+## Link previews
+

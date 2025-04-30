@@ -1189,3 +1189,6 @@ file-picker-crashed-save-nowhere = กล่องโต้ตอบไฟล์
 file-picker-crashed-show-in-folder =
     .label = แสดงในโฟลเดอร์
     .accessKey = F
+
+## Onboarding Finish Setup checklist
+

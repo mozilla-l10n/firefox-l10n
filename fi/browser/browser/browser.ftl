@@ -1222,3 +1222,6 @@ file-picker-crashed-save-nowhere = Windowsin tiedostovalintaikkuna on kaatunut. 
 file-picker-crashed-show-in-folder =
     .label = Näytä kansiossa
     .accessKey = K
+
+## Onboarding Finish Setup checklist
+

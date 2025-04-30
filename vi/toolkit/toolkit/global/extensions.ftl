@@ -106,3 +106,6 @@ webext-site-perms-header-unsigned-with-perms = Thêm { $extension }? Tiện ích
 
 webext-site-perms-midi = Truy cập thiết bị MIDI
 webext-site-perms-midi-sysex = Truy cập thiết bị MIDI với hỗ trợ SysEx
+
+## Colorway theme migration
+

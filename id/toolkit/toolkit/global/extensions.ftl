@@ -106,3 +106,6 @@ webext-site-perms-header-unsigned-with-perms = Tambahkan { $extension }? Ekstens
 
 webext-site-perms-midi = Akses perangkat MIDI
 webext-site-perms-midi-sysex = Akses perangkat MIDI dengan dukungan SysEx
+
+## Colorway theme migration
+

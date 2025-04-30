@@ -72,6 +72,9 @@ split-dismiss-button-default-label =
 ## Bookmarks toolbar callout strings
 
 
+## Perplexity callout strings
+
+
 ## Sidebar Strings
 
 sidebar-button-callout-title = V stranski vrstici prikaži naslove zavihkov

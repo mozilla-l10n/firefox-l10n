@@ -165,3 +165,6 @@ genai-model-optin-optout =
     .label = ਰੱਦ ਕਰੋ
 genai-model-optin-cancel =
     .label = ਰੱਦ ਕਰੋ
+
+## Link previews
+

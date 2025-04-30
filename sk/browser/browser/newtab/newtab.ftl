@@ -554,5 +554,3 @@ newtab-report-content-spam-misleading =
     .label = Spam alebo zavádzanie
 newtab-report-cancel = Zrušiť
 newtab-report-submit = Odoslať
-newtab-toast-thanks-for-feedback =
-    .message = Ďakujeme za vašu spätnú väzbu.

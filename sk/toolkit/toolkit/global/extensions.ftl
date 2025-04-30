@@ -122,3 +122,6 @@ webext-site-perms-header-unsigned-with-perms = Chcete nainštalovať { $extensio
 
 webext-site-perms-midi = Pristupovať k zariadeniam MIDI
 webext-site-perms-midi-sysex = Pristupovať k zariadeniam MIDI s podporou SysEx
+
+## Colorway theme migration
+

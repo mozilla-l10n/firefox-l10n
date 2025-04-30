@@ -130,3 +130,6 @@ webext-site-perms-header-unsigned-with-perms = Ychwanegu { $extension }? Nid yw'
 
 webext-site-perms-midi = Mynediad at ddyfeisiau MIDI
 webext-site-perms-midi-sysex = Mynediad at ddyfeisiau MIDI sydd â Chefnogaeth SysEx
+
+## Colorway theme migration
+

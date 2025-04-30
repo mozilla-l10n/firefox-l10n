@@ -76,3 +76,6 @@ webext-perms-host-description-too-many-sites = အခြားဆိုက် { 
 
 ## These should remain in sync with permissions.NAME.label in sitePermissions.properties
 
+
+## Colorway theme migration
+

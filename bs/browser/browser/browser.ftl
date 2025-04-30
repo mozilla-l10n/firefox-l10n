@@ -1123,3 +1123,6 @@ file-picker-crashed-save-nowhere = Srušio se Windows dijalog za fajlove. Nije m
 file-picker-crashed-show-in-folder =
     .label = Prikaži u folderu
     .accessKey = F
+
+## Onboarding Finish Setup checklist
+

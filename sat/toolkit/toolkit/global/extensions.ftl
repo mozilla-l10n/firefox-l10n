@@ -103,3 +103,6 @@ webext-site-perms-header-unsigned-with-perms = { $extension } ᱥᱮᱞᱮᱫ �
 
 webext-site-perms-midi = MIDI ᱥᱟᱫᱷᱚᱱ ᱠᱚ ᱟᱫᱮᱨ ᱢᱮ
 webext-site-perms-midi-sysex = SysEx ᱥᱚᱦᱚᱫ ᱥᱟᱞᱟᱜ ᱛᱮ MIDI ᱥᱟᱫᱷᱚᱱ ᱟᱫᱮᱨ ᱢᱮ
+
+## Colorway theme migration
+

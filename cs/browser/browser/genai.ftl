@@ -187,3 +187,6 @@ genai-model-optin-optout =
     .label = Zrušit
 genai-model-optin-cancel =
     .label = Zrušit
+
+## Link previews
+

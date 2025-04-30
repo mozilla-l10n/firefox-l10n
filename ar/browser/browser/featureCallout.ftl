@@ -79,6 +79,9 @@ bookmarks-toolbar-callout-2a-secondary-button-label = أخفِ شريط الأد
 # Visible if user declines to add a bookmark in callout 1, bookmarks toolbar is set to always show when this message renders
 bookmarks-toolbar-callout-2b-title = أبقِ شريط أدوات العلامات مفتوحًا؟
 
+## Perplexity callout strings
+
+
 ## Sidebar Strings
 
 sidebar-button-callout-title = أظهِر عناوين الألسنة في الشريط الجانبي

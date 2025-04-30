@@ -1247,3 +1247,6 @@ file-picker-crashed-save-nowhere = Равзанаи «Файл» дар «Window
 file-picker-crashed-show-in-folder =
     .label = Намоиш додан дар ҷузвдон
     .accessKey = Н
+
+## Onboarding Finish Setup checklist
+

@@ -167,3 +167,6 @@ genai-model-optin-optout =
     .label = Mégse
 genai-model-optin-cancel =
     .label = Mégse
+
+## Link previews
+

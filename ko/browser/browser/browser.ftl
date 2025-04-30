@@ -1239,3 +1239,6 @@ file-picker-crashed-save-nowhere = Windows 파일 대화 상자가 충돌했습�
 file-picker-crashed-show-in-folder =
     .label = 폴더에서 보기
     .accessKey = F
+
+## Onboarding Finish Setup checklist
+

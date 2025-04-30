@@ -76,3 +76,6 @@ genai-model-optin-optout =
     .label = റദ്ദാക്കുക
 genai-model-optin-cancel =
     .label = റദ്ദാക്കുക
+
+## Link previews
+

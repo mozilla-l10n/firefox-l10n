@@ -1114,3 +1114,6 @@ file-picker-crashed-save-nowhere = ᱣᱤᱱᱰᱚᱡᱽ ᱨᱮᱫᱽᱼᱰᱟ�
 file-picker-crashed-show-in-folder =
     .label = ᱯᱚᱴᱚᱢ ᱨᱮ ᱫᱮᱠᱷᱟᱣ ᱢᱮ
     .accessKey = F
+
+## Onboarding Finish Setup checklist
+
