@@ -7,6 +7,17 @@
 
 xslt-parse-failure = Ukuchaza ishidi lesitayela i-XSLT kuhlulekile.
 xpath-parse-failure = Ukuchaza okushiwo i-XPath kuhlulekile.
+xslt-execution-failure = Ukuguqulwa kwe-XSLT kuhlulekile.
+xpath-unknown-function = Inombolo yesenzo i-XSLT/XPath engasebenzi.
+xslt-bad-recursion = Ishidi lesitayela i-XSLT (kungenzeka) liyaphindeka.
+xslt-bad-value = Ubunjalo benani abukho emthethweni ku-XSLT 1.0.
+xslt-nodeset-expected = Okushiwo i-XPath bekulindeleke ukuba kubuyise i-NodeSet.
+xslt-aborted = Ukuguqulwa kwe-XSLT kuyekiswe i-<xsl:message>.
+xslt-network-error = Kwenzeke iphutha kunethiwekhi lapho ilayisha ishidi lesitayela i-XSLT:
+xslt-wrong-mime-type = Ishidi lesitayela i-XSLT alinalo uhlobo lwe-XML:
+xslt-load-recursion = Ishidi lesitayela i-XSLT lithumela noma lizihlanganise nalo ngokuqondile noma ngokungaqondile:
+xpath-bad-argument-count = Inombolo yesenzo i-XPath isetshenziswe ngenombolo okungeyona yezimpikiswano.
+xpath-bad-extension-function = Kusetshenziswe isandiso esingaziwa senombolo esebenzayo ye-XPath.
 # Other failures, not found in the previous ones.
 # Variables:
 #   $errorCode (String) - The error code (formatted in hexadecimal)
