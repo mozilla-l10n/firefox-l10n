@@ -1,0 +1,33 @@
+# This Source Code Form is subject to the terms of the Mozilla Public
+# License, v. 2.0. If a copy of the MPL was not distributed with this
+# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+
+
+## XSLT and XPath specific errors.
+
+xpath-bad-argument-count = Un arc'hwel XPath zo bet galvet gant an niverenn arguzenn fall.
+xpath-bad-extension-function = Galvet ez eus bet un arc'hwel askouezhiañ dianav mod XPath.
+xpath-paren-expected = C'hwitadenn war dezrannañ an XPath: ‘)’ gortozet:
+xpath-invalid-axis = C'hwitadenn war dezrannañ an XPath: ahel didalvoudek:
+xpath-no-node-type-test = C'hwitadenn war dezrannañ an XPath: Anv pe rizh klom gortozet:
+xpath-bracket-expected = C'hwitadenn war dezrannañ an XPath: ‘]’ gortozet:
+xpath-invalid-var-name = C'hwitadenn war dezrannañ an XPath: anv argemmenn didalvoudek:
+xpath-unexpected-end = C'hwitadenn war dezrannañ an XPath: dibenn riñvenn dic'hortozet:
+xpath-operator-expected = C'hwitadenn war dezrannañ an XPath: niñvader gortozet:
+xpath-unclosed-literal = C'hwitadenn war dezrannañ an XPath: vi-koukoug:
+xpath-bad-colon = C'hwitadenn war dezrannañ an XPath: ‘:’ dic'hortozet:
+xpath-bad-bang = C'hwitadenn war dezrannañ an XPath: ‘!’ dic'hortozet, ‘not()’ eo an nac'hañ:
+xpath-illegal-char = C'hwitadenn war dezrannañ an XPath: un arouezenn andezvek zo bet kavet:
+xpath-binary-expected = C'hwitadenn war dezrannañ an XPath: niñvader daouredel gortozet:
+xslt-load-blocked-error = Kargadur ur follennad stil zo bet harzet en abeg d'an diogelroez.
+xpath-invalid-expression-evaluated = O priziañ ar riñvenn didalvoudek.
+xpath-unbalanced-curly-brace = Briataenn digempouez.
+xslt-bad-node-name = O krouiñ un elfenn gant un anv QName didalvoudek.
+xslt-var-already-set = Liamm an argemmenn a zaougementiñ liamm an argemmenn e-barzh an hevelep patrom.
+
+## Messages for the XML error page.
+##
+## Variables:
+##   $error (string) - the specific XSLT or XPath error (a translated string
+##   from the previous section)
+
