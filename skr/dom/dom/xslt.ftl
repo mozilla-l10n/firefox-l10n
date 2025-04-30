@@ -5,6 +5,14 @@
 
 ## XSLT and XPath specific errors.
 
+xslt-parse-failure = ہک XSLT سٹائل شیٹ دا تجزیہ کرݨ ناکام تھی ڳیا ہے۔
+xpath-parse-failure = ہک XPath اظہار دا تجزیہ ناکام تھی ڳیا ہے۔
+xslt-execution-failure = XSLT تبدیلی ناکام تھی ڳئی ہے۔
+xpath-unknown-function = غلط XSLT/XPath فنکشن۔
+xslt-bad-recursion = XSLT سٹائل شیٹ (ممکنہ طور تے) ہک تکرار تے مشتمل ہے۔
+xslt-bad-value = XSLT 1.0 وِچ وصف قدر غیر قانونی ہے۔
+xslt-nodeset-expected = ہک XPath اظہار کنوں نوڈ سیٹ واپس آوݨ دی توقع ہئی۔
+xslt-aborted = XSLT تبدیلی کوں <xsl:message> دے ذریعے ختم کر ݙتا ڳیا ہے۔
 xslt-network-error = XSLT سٹائل شیٹ لوڈ کرݨ وِچ نیٹ ورک دی خرابی پیش آ ڳئی ہے:
 xslt-wrong-mime-type = ہک XSLT سٹائل شیٹ وِچ XML mimetype کائنی:
 xslt-load-recursion = ہک XSLT سٹائل شیٹ براہ راست یا بالواسطہ درآمد کریندی ہے یا ایندے وِچ خود شامل ہے:
@@ -28,6 +36,10 @@ xpath-unbalanced-curly-brace = غیر متوازن گھونگھرالا تسمہ
 xslt-bad-node-name = ہک غلط QName دے نال ہک عنصر بݨاوݨ۔
 xslt-var-already-set = متغیر بائنڈنگ شیڈو ہک ای ٹیمپلیٹ دے اندر متغیر بائنڈنگ۔
 xslt-call-to-key-not-allowed = کلیدی فنکشن تے کال کرݨ دی اجازت کائنی۔
+# Other failures, not found in the previous ones.
+# Variables:
+#   $errorCode (String) - The error code (formatted in hexadecimal)
+xslt-unknown-error = ہک اݨ ڄاتی خرابی پیش آڳئی ہے ({ $errorCode })
 
 ## Messages for the XML error page.
 ##
