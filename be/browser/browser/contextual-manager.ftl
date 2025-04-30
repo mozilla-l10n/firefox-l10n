@@ -99,6 +99,13 @@ contextual-manager-passwords-remove-all-confirm-button =
         [few] Выдаліць усе
        *[many] Выдаліць усе
     }
+contextual-manager-passwords-origin-label = Вэб-сайт
+# The attribute .data-after describes the text that should be displayed for the ::after pseudo-selector
+contextual-manager-passwords-username-label = Імя карыстальніка
+    .data-after = Скапіявана
+# The attribute .data-after describes the text that should be displayed for the ::after pseudo-selector
+contextual-manager-passwords-password-label = Пароль
+    .data-after = Скапіяваны
 contextual-manager-passwords-update-password-success-button = Гатова
 contextual-manager-passwords-delete-password-success-button = Гатова
 # This message is displayed to make sure that a user wants to delete an existing login.
@@ -127,3 +134,5 @@ contextual-manager-copy-icon =
 ## When the user cancels a login that's currently being edited, we display a message to confirm whether
 ## or not the user wants to discard their current edits to the login.
 
+contextual-manager-passwords-discard-changes-close-button = Закрыць
+contextual-manager-passwords-discard-changes-go-back-button = Вярнуцца назад

@@ -71,3 +71,5 @@ about-logging-configured-via-url = Параметр сканфігурырава
 ## The upload interface is shown only with the preference toolkit.aboutLogging.uploadProfileToCloud
 ## set to true. It is false by default, except on Android.
 
+about-logging-save-button = Захаваць
+about-logging-upload-button = Зацягнуць

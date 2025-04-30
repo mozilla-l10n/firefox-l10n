@@ -68,6 +68,8 @@ split-dismiss-button-manage-settings-option =
 
 ## Bookmarks toolbar callout strings
 
+bookmarks-toolbar-callout-1-primary-button-label = Дадаць закладку
+bookmarks-toolbar-callout-1-secondary-button-label = Не, дзякуй
 
 ## Perplexity callout strings
 
