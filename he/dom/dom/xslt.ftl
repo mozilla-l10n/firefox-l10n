@@ -5,6 +5,14 @@
 
 ## XSLT and XPath specific errors.
 
+xslt-parse-failure = פריסת גיליון סגנון XSLT כשלה.
+xpath-parse-failure = פריסת ביטוי XPath נכשלה.
+xslt-execution-failure = שינוי XSLT נכשל.
+xpath-unknown-function = פונקציית XSLT/XPath לא חוקית.
+xslt-bad-recursion = גיליון סגנון XSLT מכיל (ככל הנראה) רקורסיה.
+xslt-bad-value = ערך תכונה בלתי חוקי ב־XSLT 1.0.
+xslt-nodeset-expected = ביטוי XPath היה אמור להחזיר NodeSet.
+xslt-aborted = שינוי XSLT הופסק על־ידי <xsl:message>.
 xslt-network-error = שגיאת רשת אירעה במהלך טעינת גיליון סגנון XSLT:
 xslt-wrong-mime-type = לגיליון סגנון XSLT אין סוג MIME‏ XML:
 xslt-load-recursion = גיליון סגנון XSLT מייבא או מכליל את עצמו באופן ישיר או עקיף:
@@ -28,6 +36,10 @@ xpath-unbalanced-curly-brace = כמות אי־זוגית של סוגרים מס�
 xslt-bad-node-name = יצירת רכיב בעל QName שגוי.
 xslt-var-already-set = Variable binding shadows variable binding within the same template.
 xslt-call-to-key-not-allowed = הקריאה לפונקציה key אינה מורשית.
+# Other failures, not found in the previous ones.
+# Variables:
+#   $errorCode (String) - The error code (formatted in hexadecimal)
+xslt-unknown-error = אירעה שגיאה לא מוכרת ({ $errorCode })
 
 ## Messages for the XML error page.
 ##
