@@ -5,6 +5,14 @@
 
 ## XSLT and XPath specific errors.
 
+xslt-parse-failure = C'hwitadenn war dezrannañ follennad stil an XSLT.
+xpath-parse-failure = C'hwitadenn war dezrannañ ar riñvenn XPath.
+xslt-execution-failure = C'hwitadenn war an treuzfurmiñ XSLT.
+xpath-unknown-function = Arc'hwel XSLT/XPath didalvoudek.
+xslt-bad-recursion = Marteze ez eus un askizadenn er follennad stil XSLT.
+xslt-bad-value = Gwerzh an doareenn andezvek e XSLT 1.0.
+xslt-nodeset-expected = Gortozet e oa ur riñvenn XPath evit mont d'ur Spletad Klomoù.
+xslt-aborted = Peurechuet eo bet an treuzfurmiñ XSLT gant <xsl:message>.
 xslt-network-error = Ur fazi gant ar genrouedad a zegouezhas e-pad pellgargañ ar follennad stil XSLT:
 xslt-wrong-mime-type = N'eus ket ur rizh MIME XML er follennad stil XSLT:
 xslt-load-recursion = Enporzhiet pe enlakaet e vez end-eeun pe dieeun gant ur follennad stil XSLT drezi hec'h-unan:
@@ -28,6 +36,10 @@ xpath-unbalanced-curly-brace = Briataenn digempouez.
 xslt-bad-node-name = O krouiñ un elfenn gant un anv QName didalvoudek.
 xslt-var-already-set = Liamm an argemmenn a zaougementiñ liamm an argemmenn e-barzh an hevelep patrom.
 xslt-call-to-key-not-allowed = N'eo ket aotreet ar galv d'an arc'hwel alc'hwez
+# Other failures, not found in the previous ones.
+# Variables:
+#   $errorCode (String) - The error code (formatted in hexadecimal)
+xslt-unknown-error = C’hoarvezet ez eus bet ur fazi dianav ({ $errorCode })
 
 ## Messages for the XML error page.
 ##
