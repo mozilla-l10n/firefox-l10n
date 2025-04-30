@@ -5,6 +5,14 @@
 
 ## XSLT and XPath specific errors.
 
+xslt-parse-failure = ایک ایکس ایس ایل ٹی قرطاس طرز کی نحوی جانچ کاری ناکام۔
+xpath-parse-failure = Parsing an XPath expression failed.
+xslt-execution-failure = XSLT transformation failed.
+xpath-unknown-function = ناجائز ایکس ایس ایل ٹی/ایکس پاتھ فعل۔
+xslt-bad-recursion = ایکس ایس ایل ٹی قرطاس طرز (ممکنہ طور پر) تکرار کی حامل ہے۔
+xslt-bad-value = وصف قدر بےضابطہ در ایکس ایس ایل ٹی  1.0
+xslt-nodeset-expected = ایک ایکس پاتھ ترقیم سے توقع تھی کہ وہ ایک نوڈ سیٹ واپس کرے۔
+xslt-aborted = ایکس ایس ایل ٹی ہیئت بدلی <xsl:message> نے ختم کر دی۔
 xslt-network-error = ایکس ایس ایل ٹی طرز ورق ڈاؤن لوڈ کرتے ہوئے ایک نیٹ ورق نقص واقع ہوا:
 xslt-wrong-mime-type = ایک ایکس ایس ایل ٹی قرطاس طرز ایک ایکس ایم ایل مائم قسم نہیں رکھتا:
 xslt-load-recursion = ایک ایکس ایس ایل ٹی قرطاس طرز بلواسطہ یا بلا واسطہ اپنے آپ کو درآمد یا شامل کرتا ہے:
@@ -28,6 +36,10 @@ xpath-unbalanced-curly-brace = اسنتلیت گھوبگھرالی تسمہ.
 xslt-bad-node-name = ایک عنصر کو ناجائز Qنام سے تخلیق کرنا
 xslt-var-already-set = متغیرہ پابند سائے متغیر ایک ہی سانچے کے اندر باندھیں.
 xslt-call-to-key-not-allowed = کلید فعل کی اجازت نہیں کال کریں.
+# Other failures, not found in the previous ones.
+# Variables:
+#   $errorCode (String) - The error code (formatted in hexadecimal)
+xslt-unknown-error = ایک نامعلوم نقص واقع ہوا ہے({ $errorCode })
 
 ## Messages for the XML error page.
 ##
