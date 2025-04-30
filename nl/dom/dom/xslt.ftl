@@ -5,6 +5,17 @@
 
 ## XSLT and XPath specific errors.
 
+xslt-parse-failure = Parsen van een XSLT-stijlblad mislukt.
+xpath-parse-failure = Parsen van een XPath-expressie mislukt.
+xslt-execution-failure = XSLT-transformatie mislukt.
+xpath-unknown-function = Ongeldige XSLT/XPath-functie.
+xslt-bad-recursion = XSLT-stijlblad bevat (mogelijk) een recursie.
+xslt-bad-value = Attribuutwaarde ongeldig in XSLT 1.0.
+xslt-nodeset-expected = Er werd een NodeSet verwacht als resultaat van een XPath-expressie.
+xslt-aborted = XSLT-transformatie werd afgebroken door <xsl:message>.
+xslt-network-error = Er is een netwerkfout opgetreden tijdens het laden van een XSLT-stijlblad:
+xslt-wrong-mime-type = Een XSLT-stijlblad heeft geen XML-mimetype:
+xslt-load-recursion = Een XSLT-stijlblad importeert of bevat zichzelf direct of indirect:
 xpath-bad-argument-count = Er is een XPath-functie aangeroepen met het verkeerde aantal argumenten.
 xpath-bad-extension-function = Er is een onbekende XPath-extensiefunctie aangeroepen.
 xpath-paren-expected = XPath-parsefout: ‘)’ verwacht:
@@ -25,6 +36,10 @@ xpath-unbalanced-curly-brace = Niet-gebalanceerde accolade.
 xslt-bad-node-name = Maken van een element met een ongeldige QName.
 xslt-var-already-set = Variabele binding verbergt variabele binding binnen dezelfde sjabloon.
 xslt-call-to-key-not-allowed = Aanroep naar de sleutelfunctie niet toegestaan.
+# Other failures, not found in the previous ones.
+# Variables:
+#   $errorCode (String) - The error code (formatted in hexadecimal)
+xslt-unknown-error = Er is een onbekende fout opgetreden ({ $errorCode })
 
 ## Messages for the XML error page.
 ##
