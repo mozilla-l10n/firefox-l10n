@@ -25,6 +25,7 @@ xpath-invalid-expression-evaluated = မမှန်ကန်တဲ့ ထုတ
 xpath-unbalanced-curly-brace = မညီ ကောက်နေတဲ့ အထိန်း။
 xslt-bad-node-name = မမှန်ကန်တဲ့ QName တခုနဲ့ အစိတ်အပိုင်းတခုကို ဖန်တီးနေတယ်။
 xslt-var-already-set = ကွဲပြားတဲ့ ချည်နှောင်ခြင်းက တူညီတဲ့ ပုံစံခွက်ထဲက ကွဲပြားတဲ့ ချည်နှောင်ခြင်းကို အရိပ်ပြသလား။
+xslt-call-to-key-not-allowed = ကီး လုပ်ဆောင်ချက်များအား ခွင့်မပြုထားပါ
 
 ## Messages for the XML error page.
 ##
@@ -32,3 +33,5 @@ xslt-var-already-set = ကွဲပြားတဲ့ ချည်နှော�
 ##   $error (string) - the specific XSLT or XPath error (a translated string
 ##   from the previous section)
 
+xslt-loading-error = stylesheet ဖွင့်နေတဲ့ အမှား - { $error }
+xslt-transform-error = XSLT ​ပြောင်းလဲနေစဉ် အမှား - { $error }
