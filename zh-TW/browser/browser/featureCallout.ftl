@@ -96,6 +96,8 @@ bookmarks-toolbar-callout-2b-secondary-button-label = 不要，謝謝
 
 perplexity-callout-theme-1-title = 需要立刻得到正確答案嗎？
 perplexity-callout-theme-2-title = 試用 Perplexity：一套全新的搜尋方式
+perplexity-callout-theme-1-subtitle-1 = 請試用 Perplexity，直接從搜尋按鈕獲得完整答案（包含來源出處）。
+perplexity-callout-primary-label = 詢問 Perplexity
 perplexity-callout-secondary-label-1 = 知道了！
 perplexity-callout-secondary-label-2 = 知道了！
 

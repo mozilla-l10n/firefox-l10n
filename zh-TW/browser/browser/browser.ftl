@@ -344,6 +344,10 @@ search-one-offs-actions =
 
 # Opens the about:addons page in the home / recommendations section
 quickactions-addons = 檢視附加元件
+# In English we provide multiple spellings for "add-ons". If that's not
+# applicable to your language, only use the correct spelling (don't repeat the
+# same word).
+quickactions-cmd-addons3 = 擴充套件, 佈景主題, 布景主題, 附加元件, 套件, 外掛, extensions, themes, addons, add-ons
 quickactions-cmd-addons2 = 附加元件, 套件, 外掛, add-ons, addons
 # Opens the bookmarks library window
 quickactions-bookmarks2 = 管理書籤
@@ -384,6 +388,7 @@ quickactions-print2 = 列印頁面
 quickactions-cmd-print = 列印, print
 # Opens the print dialog at the save to PDF option
 quickactions-savepdf = 儲存頁面為 PDF 檔
+quickactions-cmd-savepdf2 = PDF, 儲存頁面, 另存頁面, save page
 quickactions-cmd-savepdf = pdf
 # Opens a new private browsing window
 quickactions-private2 = 開啟隱私視窗
@@ -400,6 +405,8 @@ quickactions-cmd-screenshot2 = 擷圖, 截圖, 擷取, 截取, 快照, screensho
 quickactions-cmd-screenshot = 畫面擷圖, 擷圖, screenshot
 # Opens about:preferences
 quickactions-settings2 = 管理設定
+# "manage" should match the corresponding command, which is “Manage settings” in English.
+quickactions-cmd-settings2 = 設定, 偏好設定, 選項, 管理, settings, preferences, options, manage
 quickactions-cmd-settings = 設定, 偏好設定, 選項, settings, preferences, options
 # Opens about:addons page in the themes section
 quickactions-themes = 管理佈景主題

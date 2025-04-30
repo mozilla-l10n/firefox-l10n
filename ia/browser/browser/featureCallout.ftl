@@ -94,6 +94,8 @@ bookmarks-toolbar-callout-2b-secondary-button-label = No, gratias
 
 ## Perplexity callout strings
 
+perplexity-callout-secondary-label-1 = Dimitter
+perplexity-callout-secondary-label-2 = Comprendite
 
 ## Sidebar Strings
 
