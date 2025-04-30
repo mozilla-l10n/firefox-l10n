@@ -54,6 +54,9 @@ neterror-dns-not-found-hint-header = <strong>若您確認輸入的網址是正�
 neterror-dns-not-found-hint-try-again = 稍後再試
 neterror-dns-not-found-hint-check-network = 檢查網際網路連線是否正常
 neterror-dns-not-found-hint-firewall = 檢查 { -brand-short-name } 是否有權限開啟網頁（可能已經連上網路，但被防火牆阻擋）
+neterror-dns-not-found-offline-hint-header = <strong>您可以做什麼？</strong>
+neterror-dns-not-found-offline-hint-different-device = 嘗試改連線到其他裝置。
+neterror-dns-not-found-offline-hint-modem = 檢查您的數據機或路由器。
 neterror-dns-not-found-offline-hint-reconnect = 中斷，然後重新連線到 Wi-Fi 網路。
 
 ## TRR-only specific messages

@@ -109,3 +109,5 @@ webext-site-perms-midi-sysex = 存取 MIDI 裝置並支援 SysEx
 
 ## Colorway theme migration
 
+webext-colorway-theme-migration-notification-message = <b>已移除您的配色佈景主題</b> { -brand-shorter-name } 已更新配色收藏集，可到附加元件站下載新版主題。
+webext-colorway-theme-migration-notification-button = 下載新版配色

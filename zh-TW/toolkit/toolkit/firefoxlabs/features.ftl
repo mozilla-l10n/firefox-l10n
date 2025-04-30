@@ -41,3 +41,9 @@ experimental-features-link-previews-description =
         [macos] 若要在點擊鏈結前先了解網頁內容，請將滑鼠停留在鏈結上，然後按下 Shift (⇧) 與 Option (⌥) 或 Alt 鍵。預覽內容可會包含網頁標題、閱讀時間等詳細資訊。AI 還可以針對部分頁面閱讀網頁內容、整理重點資訊。AI 是針對閱讀與產生英文內容進行最佳化，而為了保護隱私，此 AI 是在您的電腦本機內運作，<a data-l10n-name="connect">歡迎提供意見回饋</a>。
        *[other] 若要在點擊鏈結前先了解網頁內容，請將滑鼠停留在鏈結上，然後按下 Shift+Alt 鍵。預覽內容可會包含網頁標題、閱讀時間等詳細資訊。AI 還可以針對部分頁面閱讀網頁內容、整理重點資訊。AI 是針對閱讀與產生英文內容進行最佳化，而為了保護隱私，此 AI 是在您的電腦本機內運作，<a data-l10n-name="connect">歡迎提供意見回饋</a>。
     }
+# This version of the link previews description does not mention AI.
+experimental-features-link-previews-description-no-ai =
+    { PLATFORM() ->
+        [macos] 要在點擊連結前就先了解網頁內容，請將滑鼠游標移到該鏈結上，按下 Shift (⇧) + Option (⌥) 或 Alt。預覽資訊可能會包含標題、閱讀時間長度等等。<a data-l10n-name="connect">提供意見回饋</a>
+       *[other] 要在點擊連結前就先了解網頁內容，請將滑鼠游標移到該鏈結上，按下 Shift + Alt。預覽資訊可能會包含標題、閱讀時間長度等等。<a data-l10n-name="connect">提供意見回饋</a>
+    }
