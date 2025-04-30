@@ -10,6 +10,14 @@ xslt-wrong-mime-type = Nid oes gan ddalensteil XSLT mimetype XML:
 xslt-load-recursion = Mae dalen steil XSLT ynmewnforio neu gynnwys ei hun yn uniongyrchol neu anuniongyrchol:
 xpath-bad-argument-count = Galwyd swyddogaeth XPath gyda'r nifer anghywir o ymresymiadau.
 xpath-bad-extension-function = Galwyd estyniad XPath anhysbys.
+xpath-invalid-axis = Methiant didoli XPath: echelin annilys:
+xpath-no-node-type-test = Methiant didoli XPath: Disgwyl enw neu brawf Nodetype:
+xpath-bracket-expected = Methiant didoli XPath: disgwyl ']':
+xpath-invalid-var-name = Methiant didoli XPath: amrywiolyn annilys:
+xpath-unexpected-end = Methiant didoli XPath: diwedd ymadrodd annisgwyl:
+xpath-operator-expected = Methiant didoli XPath: disgwyl gweithredydd:
+xpath-unclosed-literal = Methiant didoli XPath: llythrennydd heb ei gau:
+xpath-bad-colon = Methiant didoli XPath ':' annisgwyl:
 
 ## Messages for the XML error page.
 ##
