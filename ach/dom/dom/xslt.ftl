@@ -5,6 +5,14 @@
 
 ## XSLT and XPath specific errors.
 
+xslt-parse-failure = Ngiyo stylesheet me XSLT pe olare.
+xpath-parse-failure = Ngiyo lok me XPath pe olare.
+xslt-execution-failure = Roco XSLT pe olare.
+xpath-unknown-function = Tic me XSLT/XPath mape tye atir.
+xslt-bad-recursion = Stylesheet me XSLT (twere ni) tye ki gin mamede ameda.
+xslt-bad-value = Wel me lapok kin jami cik pe ye i XSLT 1.0.
+xslt-nodeset-expected = Lok me XPath onogo kikuro me dwoko NodeSet.
+xslt-aborted = Kijuko roco XSLT kun kitiyo ki <xsl:message>.
 xslt-network-error = Bal me kube otime kun cano stylesheet me XSLT:
 xslt-wrong-mime-type = Stylesheet me XSLT pe tye ki mimetype me XML:
 xslt-load-recursion = Stylesheet me XSLT kelo onyo kete kekene atir onyo pe atir:
@@ -28,6 +36,10 @@ xpath-unbalanced-curly-brace = Gur mape tye romrom.
 xslt-bad-node-name = Cweyo jami ki Qnying mape atir.
 xslt-var-already-set = Twec me gin maromo lokke wumo twec me gin maromo lokke iye kit marom.
 xslt-call-to-key-not-allowed = Pe kiye lwongo bot tic me lagony.
+# Other failures, not found in the previous ones.
+# Variables:
+#   $errorCode (String) - The error code (formatted in hexadecimal)
+xslt-unknown-error = Bal mape ngene otime ({ $errorCode })
 
 ## Messages for the XML error page.
 ##
