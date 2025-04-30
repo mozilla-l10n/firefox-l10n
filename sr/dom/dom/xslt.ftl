@@ -5,6 +5,9 @@
 
 ## XSLT and XPath specific errors.
 
+xpath-no-node-type-test = Грешка при рашчлањивању XPath-а, очекивана је провера назива или типа чвора:
+xpath-bracket-expected = Грешка растављања XPath-а: очекујем ']':
+xpath-invalid-var-name = Грешка растављања XPath-а: неисправно име променљиве:
 xpath-unexpected-end = Грешка растављања XPath-а: неочекивани крај израза:
 xpath-operator-expected = Грешка растављања XPath-а: очекујем оператера:
 xpath-unclosed-literal = Грешка растављања XPath-а: не затворен захтев:
