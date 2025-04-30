@@ -10,6 +10,7 @@ xslt-wrong-mime-type = Chan eil XML mimetype aig duilleag-stoidhle XSLT:
 xslt-load-recursion = Tha duilleag-stoidhle XSLT 'ga thoirt a-steach gu dìreach no neo-dhìreach no tha e fhèin ann:
 xpath-bad-argument-count = Chaidh foincsean XPath a ghairm leis an àireamh chearr de dh'argamaidean.
 xpath-bad-extension-function = Chaidh foincsean leudachaidh XPath neo-aithnichte a ghairm.
+xpath-paren-expected = Dh'fhàillig parsaidh XPath: bha dùil ri ')':
 xpath-invalid-axis = Dh'fhàillig parsadh XPath: aiseal mì-dhligheach:
 xpath-no-node-type-test = Dh'fhàillig parsadh XPath: dùil ri deuchainn ainm no seòrsa an nòid:
 xpath-bracket-expected = Dh'fhàillig parsadh XPath: dùil ri ']':
@@ -26,6 +27,7 @@ xpath-invalid-expression-evaluated = A' luachadh spreisein mì-dhligheach.
 xpath-unbalanced-curly-brace = Cromag dhualach neo-chothromaichte.
 xslt-bad-node-name = A' cruthachadh eileamaid le QName mì-dhligheach.
 xslt-var-already-set = Tha ceangal caochladair a' sgàileadh ceangal caochladair am broinn na dearbh theamplaid.
+xslt-call-to-key-not-allowed = Call to the key function not allowed.
 
 ## Messages for the XML error page.
 ##
@@ -33,3 +35,5 @@ xslt-var-already-set = Tha ceangal caochladair a' sgàileadh ceangal caochladair
 ##   $error (string) - the specific XSLT or XPath error (a translated string
 ##   from the previous section)
 
+xslt-loading-error = Mearachd rè luchdadh na duilleige-stoidhle: { $error }
+xslt-transform-error = Mearachd rè cruth-atharrachadh XSLT: { $error }
