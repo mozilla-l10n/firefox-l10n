@@ -194,7 +194,7 @@ contextual-manager-passwords-vulnerable-password-heading-and-message =
 contextual-manager-passwords-vulnerable-password-link-message = Come fa { -brand-product-name } a stabilire che una password è debole?
 contextual-manager-passwords-no-username-heading-and-message =
     .heading = Aggiungi un nome utente
-    .message = Aggiungine uno per accedere in modo più rapido.
+    .message = Aggiungilo per accedere in modo più rapido.
 contextual-manager-passwords-add-username-button = Aggiungi nome utente
 
 ## Login Form
@@ -296,4 +296,3 @@ contextual-manager-passwords-remove-all-passwords-checkbox =
         [1] Sì, elimina la password
        *[other] Sì, elimina le password
     }
-
