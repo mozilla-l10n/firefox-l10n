@@ -12,6 +12,16 @@ xpath-bracket-expected = XPath spaltingsfeil: ']' var venta:
 xpath-invalid-var-name = XPath spaltingsfeil: ugyldig variabelnamn:
 xpath-unexpected-end = XPath spaltingsfeil: uventa slutt på uttrykk:
 xpath-operator-expected = XPath spaltingsfeil: operator var venta:
+xpath-unclosed-literal = Feil vid XPath-analyse: open litteral:
+xpath-bad-colon = XPath spaltingsfeil: ':' ikkje venta:
+xpath-bad-bang = XPath spaltingsfeil: '!' ikkje venta, negasjon er not():
+xpath-illegal-char = XPath spaltingsfeil: ugyldig teikn vart funne:
+xpath-binary-expected = XPath spaltingsfeil: binær operator venta:
+xslt-load-blocked-error = Lasting av eit XSLT stilsett vart blokkert av tryggingsgrunnar.
+xpath-invalid-expression-evaluated = Evaluerer et ugyldig uttrykk
+xpath-unbalanced-curly-brace = Ubalansert krøllparentes.
+xslt-bad-node-name = Lagar element med et ugyldig QName.
+xslt-var-already-set = Variabelbinding gøymer ei variabelbinding brukt i same template.
 xslt-call-to-key-not-allowed = Kall til key-funksjon ikkje tillate.
 
 ## Messages for the XML error page.
