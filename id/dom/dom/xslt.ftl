@@ -10,6 +10,10 @@ xslt-wrong-mime-type = Stylesheet XSLT tidak memiliki jenis MIME:
 xslt-load-recursion = Stylesheet XSLT secara langsung atau tidak langsung mengimpor atau mengandung diri-sendiri:
 xpath-bad-argument-count = Fungsi pada XPath dipanggil dengan jumlah argumen yang salah.
 xpath-bad-extension-function = Ekstensi XPath yang tidak dikenali telah dipanggil.
+xpath-invalid-expression-evaluated = Mengevaluasi ekspresi yang tidak valid.
+xpath-unbalanced-curly-brace = Kurung kurawal tidak seimbang.
+xslt-bad-node-name = Membuat elemen dengan QName yang tidak valid.
+xslt-var-already-set = Binding variabel menutupi variabel binding dalam template yang sama.
 
 ## Messages for the XML error page.
 ##
