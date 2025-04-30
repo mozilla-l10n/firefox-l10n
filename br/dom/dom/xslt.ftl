@@ -24,6 +24,7 @@ xpath-invalid-expression-evaluated = O priziañ ar riñvenn didalvoudek.
 xpath-unbalanced-curly-brace = Briataenn digempouez.
 xslt-bad-node-name = O krouiñ un elfenn gant un anv QName didalvoudek.
 xslt-var-already-set = Liamm an argemmenn a zaougementiñ liamm an argemmenn e-barzh an hevelep patrom.
+xslt-call-to-key-not-allowed = N'eo ket aotreet ar galv d'an arc'hwel alc'hwez
 
 ## Messages for the XML error page.
 ##
@@ -31,3 +32,5 @@ xslt-var-already-set = Liamm an argemmenn a zaougementiñ liamm an argemmenn e-b
 ##   $error (string) - the specific XSLT or XPath error (a translated string
 ##   from the previous section)
 
+xslt-loading-error = Fazi en ur gargañ ar stil follennad: { $error }
+xslt-transform-error = Fazi e-pad treuzfurmiñ XSLT: { $error }
