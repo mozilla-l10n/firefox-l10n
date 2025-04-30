@@ -5,6 +5,8 @@
 
 ## XSLT and XPath specific errors.
 
+xpath-paren-expected = XPath spaltingsfeil: ')' var venta:
+xpath-invalid-axis = XPath spaltingsfeil: ugyldig akse:
 xpath-no-node-type-test = XPath spaltingsfeil: namn- eller nodetypetest var venta:
 xpath-bracket-expected = XPath spaltingsfeil: ']' var venta:
 xpath-invalid-var-name = XPath spaltingsfeil: ugyldig variabelnamn:
