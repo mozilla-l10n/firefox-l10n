@@ -12,6 +12,8 @@ contextual-manager-filter-input =
 contextual-manager-passwords-command-create = Дадаць пароль
 contextual-manager-passwords-command-import-from-browser = Імпартаваць з іншага браўзера…
 contextual-manager-passwords-command-import = Імпартаваць з файла…
+contextual-manager-passwords-command-remove-all = Выдаленне усіх пароляў
+contextual-manager-passwords-command-settings = Налады
 contextual-manager-passwords-command-help = Даведка
 # This message can be seen when attempting to export a password in about:logins on Windows.
 contextual-manager-passwords-export-os-auth-dialog-message-win = Каб экспартаваць свае паролі, увядзіце свае ўліковыя дадзеныя для ўваходу ў Windows. Гэта дапамагае захоўваць бяспеку вашых уліковых запісаў.

@@ -196,6 +196,16 @@ urlbar-result-menu-learn-more-about-firefox-suggest =
 urlbar-result-menu-manage-firefox-suggest =
     .label = Кіраваць { -firefox-suggest-brand-name }
     .accesskey = ц
+urlbar-result-menu-show-less-frequently =
+    .label = Паказваць радзей
+urlbar-result-menu-dont-show-weather-suggestions =
+    .label = Не паказваць прапановы надвор'я
+# A message shown in the urlbar when the user submits feedback on a suggestion
+# (e.g., it shows an inaccurate location, it's shown too often, etc.).
+urlbar-feedback-acknowledgment = Дзякуй за ваш водгук
+# A message shown in the urlbar when the user dismisses weather suggestions.
+# Weather suggestions won't be shown at all anymore.
+urlbar-dismissal-acknowledgment-weather = Дзякуй за ваш водгук. Вы больш не будзеце бачыць прапановы надвор'я.
 
 ## Prompts users to use the Urlbar when they open a new tab or visit the
 ## homepage of their default search engine.
