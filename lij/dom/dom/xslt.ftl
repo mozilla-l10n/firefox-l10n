@@ -1,0 +1,31 @@
+# This Source Code Form is subject to the terms of the Mozilla Public
+# License, v. 2.0. If a copy of the MPL was not distributed with this
+# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+
+
+## XSLT and XPath specific errors.
+
+xslt-wrong-mime-type = In XSLT stylesheet o no gh'à in XML mimetype:
+xslt-load-recursion = Un XSLT stylesheet o se inpòrta ò o se contegne direttamente o indirettamente:
+xpath-bad-argument-count = 'Na fonçion XPath a l'é stæta ciamâ co-in numero sbaliou de argomenti.
+xpath-bad-extension-function = 'Na fonçion de estenscion XPath a l'é stæta ciama.
+xpath-paren-expected = Analixi XPath falia: manca ')' :
+xpath-invalid-axis = Analixi XPath falia: assi no validi:
+xpath-no-node-type-test = Analixi XPath falia: Nomme o test Nodetype mancante:
+xpath-bracket-expected = Analixi XPath falia: manca ']' :
+xpath-invalid-var-name = Analixi XPath falia: nomme da variabile no valida:
+xpath-unexpected-end = Analixi XPath falia: no m'aspetavo a fin de l'esprescion:
+xpath-operator-expected = Analixi XPath falia: m'aspetavo l'operato:
+xpath-unclosed-literal = Analixi XPath falia: literal no serou:
+xpath-bad-colon = Analixi XPath falia: no m'aspetavo ':' :
+xpath-bad-bang = Analixi XPath falia: no m'aspetavo '!', a negaçion a l'é not():
+xpath-illegal-char = Analixi XPath falia: atrovou caratere contro a lezze:
+xpath-binary-expected = Analixi XPath falia: m'aspetavo 'n'operatô binaio:
+xslt-var-already-set = Binding da variabile e Binding da variabile shadow co-o mæxima  template.
+
+## Messages for the XML error page.
+##
+## Variables:
+##   $error (string) - the specific XSLT or XPath error (a translated string
+##   from the previous section)
+
