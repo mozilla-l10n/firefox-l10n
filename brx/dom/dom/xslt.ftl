@@ -5,6 +5,19 @@
 
 ## XSLT and XPath specific errors.
 
+xslt-parse-failure = मोनसे XSLT स्टाइलसिट पार्स खालामनाया फेलें जाबाय।
+xpath-parse-failure = मोनसे Xलामा बेखेवथिखौ पार्स खालामनाया फेलें जाबाय।
+xslt-execution-failure = XSLT महर सोलायनाया फेलें जाबाय।
+xpath-unknown-function = बाहायजायै XSLT / Xलामा खामानि।
+xslt-bad-recursion = XSLT स्टाइलसिटआव (जाथाव) मोनसे गले गले जानाय दङ।
+xslt-bad-value = XSLT 1.0. आव एटट्रिबिउट बेसेन बेआइनी
+xslt-nodeset-expected = मोनसे Xलामा बेखेवथिखौ मोनसे नडसेट फैफिननायखौ मिजिंथिदोंमोन।
+xslt-aborted = XSLT महर सोलायनायखौ <xsl:message> जों फोजोबनाय जादोंमोन।
+xslt-network-error = मोनसे XSLT स्टाइलसिट ल'ड खालामनायाव मोनसे नेटवार्क गोरोन्थि जाबाय:
+xslt-wrong-mime-type = मोनसे XSLT स्टाइलसिटआव मोनसे XML माइमटाइप गैया:
+xslt-load-recursion = मोनसे XSLT स्टाइलसिटआ थोंजोङै एबा खेंसालियायै गावनो गाव लाबोयो एबा दाजाबदेर फायो:
+xpath-bad-argument-count = मोनसे Xलामा खामानिखौ बाथ्राबाननि गोरोनथि अनजिमाजों लिंहरदोंमोन।
+xpath-bad-extension-function = मोनसे मोन्थिमोनै Xलामा बारायनाय खामानिखौ लिंहरदोंमोन।
 xpath-paren-expected = Xलामा पार्सआ फेलें: ')' मिजिंथिबाय:
 xpath-invalid-axis = Xलामा पार्सआ फेलें: बाहायजायै अक्ष हांखो:
 xpath-no-node-type-test = Xलामा पार्सआ फेलें: मुं एबा नडटाइप आनजादखौ मिजिंथिबाय:
@@ -22,6 +35,10 @@ xpath-invalid-expression-evaluated = बाहायजायै बेखेव
 xpath-unbalanced-curly-brace = समानथि नङै खेंख्रा बेन्दों।
 xslt-bad-node-name = बाहायजायै QName जों गुदिमुवा सोरजिगासिनो दङ।
 xslt-var-already-set = एखे टेमप्लेट सिङावनो सोलायस्लु बाइण्डिं सायख्लुम सोलायस्लु बाइण्डिं दङ
+# Other failures, not found in the previous ones.
+# Variables:
+#   $errorCode (String) - The error code (formatted in hexadecimal)
+xslt-unknown-error = मोनसे मोन्थिमोनै गोरोन्थि जाबाय ({ $errorCode })
 
 ## Messages for the XML error page.
 ##
