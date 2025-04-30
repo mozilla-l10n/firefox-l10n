@@ -603,6 +603,10 @@ reader-view-close-button =
 
 picture-in-picture-urlbar-button-open =
     .tooltiptext = Buksan ang Picture-in-Picture ({ $shortcut })
+picture-in-picture-panel-header = Picture-in-Picture
+picture-in-picture-panel-headline = Hindi inirerekomenda ng website na ito ang Picture-in-Picture
+picture-in-picture-enable-toggle =
+    .label = Paganahin pa rin
 
 ## Full Screen and Pointer Lock UI
 
@@ -684,6 +688,9 @@ bookmarks-toolbar-placeholder =
     .title = Mga nakalagay sa Bookmark Toolbar
 bookmarks-toolbar-placeholder-button =
     .label = Mga nakalagay sa Bookmark Toolbar
+# "Bookmark" is a verb, as in "Add current tab to bookmarks".
+bookmarks-subview-bookmark-tab =
+    .label = I-bookmark ang kasalukuyang tab…
 
 ## Library Panel items
 
@@ -721,6 +728,9 @@ toolbar-overflow-customize-button =
 toolbar-button-email-link =
     .label = Email Link
     .tooltiptext = Mag-email ng link sa page na ito
+toolbar-button-logins =
+    .label = Mga password
+    .tooltiptext = Tingnan at pamahalaan ang iyong mga naka-save na password
 # Variables:
 #  $shortcut (String): keyboard shortcut to save a copy of the page
 toolbar-button-save-page =
@@ -827,6 +837,7 @@ tabs-toolbar-list-all-tabs =
 
 ## Infobar shown at startup to suggest session-restore
 
+restore-session-startup-suggestion-button = Ipakita sa akin kung paano
 
 ## Infobar shown when the user tries to open a file picker and file pickers are blocked by enterprise policy
 
@@ -837,17 +848,32 @@ data-reporting-notification-message = Ang { -brand-short-name } ay kusang nagpap
 data-reporting-notification-button =
     .label = Piliin ang Ibabahagi
     .accesskey = D
+# Label for the indicator shown in the private browsing window titlebar.
+private-browsing-indicator-label = Pribadong pag-browse
 
 ## Unified extensions (toolbar) button
 
+unified-extensions-button =
+    .label = Mga extension
+    .tooltiptext = Mga extension
 
 ## Unified extensions button when permission(s) are needed.
 ## Note that the new line is intentionally part of the tooltip.
 
+unified-extensions-button-permissions-needed =
+    .label = Mga extension
+    .tooltiptext =
+        Mga extension
+        Kailangan ng pahintulot
 
 ## Unified extensions button when some extensions are quarantined.
 ## Note that the new line is intentionally part of the tooltip.
 
+unified-extensions-button-quarantined =
+    .label = Mga extension
+    .tooltiptext =
+        Mga extension
+        May ilang mga extension na hindi pinapayagan
 
 ## Unified extensions button when some extensions are disabled (e.g. through add-ons blocklist).
 ## Note that the new line is intentionally part of the tooltip.
