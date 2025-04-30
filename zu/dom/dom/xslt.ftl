@@ -18,6 +18,19 @@ xslt-wrong-mime-type = Ishidi lesitayela i-XSLT alinalo uhlobo lwe-XML:
 xslt-load-recursion = Ishidi lesitayela i-XSLT lithumela noma lizihlanganise nalo ngokuqondile noma ngokungaqondile:
 xpath-bad-argument-count = Inombolo yesenzo i-XPath isetshenziswe ngenombolo okungeyona yezimpikiswano.
 xpath-bad-extension-function = Kusetshenziswe isandiso esingaziwa senombolo esebenzayo ye-XPath.
+xpath-paren-expected = Ukuchaza i-XPath kuhlulekile: ')' kulindelekile:
+xpath-invalid-axis = Ukuchaza i-XPath kuhlulekile: i-ekzisi engasebenzi:
+xpath-no-node-type-test = Ukuchaza i-XPath kuhlulekile: Kulindeleke ukuhlolwa kweGama noma kwe-Nodetype:
+xpath-bracket-expected = Ukuchaza i-XPath kuhlulekile: ']' kulindelekile:
+xpath-invalid-var-name = Ukuchaza i-XPath kuhlulekile: igama elishintshayo alisebenzi:
+xpath-unexpected-end = Ukuchaza i-XPath kuhlulekile: ukuphela kokuchazwa okungalindelekile:
+xpath-operator-expected = Ukuchaza i-XPath kuhlulekile: kulindelwe oyisebenzisayo:
+xpath-unclosed-literal = Ukuchaza i-XPath kuhlulekile: akuvaliwe ngokoqobo:
+xpath-bad-colon = Ukuchaza i-XPath kuhlulekile: ':' akulindelekile:
+xpath-bad-bang = Ukuchaza i-XPath kuhlulekile: '!' akulindelekile, akuphikiswa():
+xpath-illegal-char = Ukuchaza i-XPath kuhlulekile: kutholakale uhlamvu olungekho emthethweni:
+xpath-binary-expected = Ukuchaza i-XPath kuhlulekile: kulindeleke abayisebenzisayo ababili:
+xslt-load-blocked-error = Ishidi lesitayela le-XSLT livinjiwe ngenxa yezizathu zokuvikeleka.
 # Other failures, not found in the previous ones.
 # Variables:
 #   $errorCode (String) - The error code (formatted in hexadecimal)
@@ -29,3 +42,5 @@ xslt-unknown-error = Kwenzeke iphutha elingaziwa ({ $errorCode })
 ##   $error (string) - the specific XSLT or XPath error (a translated string
 ##   from the previous section)
 
+xslt-loading-error = Iphutha ekulayisheni ishidi lesitayela: { $error }
+xslt-transform-error = Iphutha ekuguqulweni kwe-XSLT: { $error }
