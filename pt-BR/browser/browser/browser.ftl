@@ -344,6 +344,10 @@ search-one-offs-actions =
 
 # Opens the about:addons page in the home / recommendations section
 quickactions-addons = Ver extensões
+# In English we provide multiple spellings for "add-ons". If that's not
+# applicable to your language, only use the correct spelling (don't repeat the
+# same word).
+quickactions-cmd-addons3 = extensões, temas
 quickactions-cmd-addons2 = extensões
 # Opens the bookmarks library window
 quickactions-bookmarks2 = Gerenciar favoritos
@@ -384,6 +388,7 @@ quickactions-print2 = Imprimir página
 quickactions-cmd-print = imprimir
 # Opens the print dialog at the save to PDF option
 quickactions-savepdf = Salvar página como PDF
+quickactions-cmd-savepdf2 = pdf, salvar página
 quickactions-cmd-savepdf = pdf
 # Opens a new private browsing window
 quickactions-private2 = Abrir janela privativa
@@ -400,6 +405,8 @@ quickactions-cmd-screenshot2 = captura de tela, capturar tela
 quickactions-cmd-screenshot = capturar tela
 # Opens about:preferences
 quickactions-settings2 = Gerenciar configurações
+# "manage" should match the corresponding command, which is “Manage settings” in English.
+quickactions-cmd-settings2 = configurações, preferências, opções, gerenciar
 quickactions-cmd-settings = configurações, preferências, opções
 # Opens about:addons page in the themes section
 quickactions-themes = Gerenciar temas
@@ -1250,3 +1257,4 @@ file-picker-crashed-show-in-folder =
 
 ## Onboarding Finish Setup checklist
 
+onboarding-checklist-button-label = Concluir a configuração

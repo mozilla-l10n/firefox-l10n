@@ -344,6 +344,10 @@ search-one-offs-actions =
 
 # Opens the about:addons page in the home / recommendations section
 quickactions-addons = Eklentileri görüntüle
+# In English we provide multiple spellings for "add-ons". If that's not
+# applicable to your language, only use the correct spelling (don't repeat the
+# same word).
+quickactions-cmd-addons3 = uzantılar, temalar, eklentiler
 quickactions-cmd-addons2 = eklentiler
 # Opens the bookmarks library window
 quickactions-bookmarks2 = Yer imlerini yönet
