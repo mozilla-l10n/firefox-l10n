@@ -193,6 +193,9 @@ urlbar-result-menu-learn-more-about-firefox-suggest =
 urlbar-result-menu-manage-firefox-suggest =
     .label = Merañ { -firefox-suggest-brand-name }
     .accesskey = M
+# A message shown in the urlbar when the user submits feedback on a suggestion
+# (e.g., it shows an inaccurate location, it's shown too often, etc.).
+urlbar-feedback-acknowledgment = Trugarez da vezañ roet hoc’h ali!
 
 ## Prompts users to use the Urlbar when they open a new tab or visit the
 ## homepage of their default search engine.
@@ -329,6 +332,8 @@ quickactions-cmd-addons2 = askouezhioù
 quickactions-bookmarks2 = Merañ ar sinedoù
 quickactions-cmd-bookmarks = sinedoù
 # Opens a SUMO article explaining how to clear history
+quickactions-clearrecenthistory = Skarzhañ ar roll istor nevesañ
+# Opens a SUMO article explaining how to clear history
 quickactions-clearhistory = Skarzhañ ar roll istor
 quickactions-cmd-clearhistory = skarzhañ ar roll istor
 # Opens about:downloads page
@@ -337,6 +342,11 @@ quickactions-cmd-downloads = pellgargadurioù
 # Opens about:addons page in the extensions section
 quickactions-extensions = Merañ an askouezhioù
 quickactions-cmd-extensions = askouezhioù
+# Opens Firefox View
+quickactions-firefoxview = Digeriñ { -firefoxview-brand-name }
+# Opens SUMO home page
+quickactions-help = Skoazell { -brand-product-name }
+quickactions-cmd-help = skoazell, sikour, skor
 # Opens the devtools web inspector
 quickactions-inspector2 = Digeriñ Developer Tools
 quickactions-cmd-inspector = inspector, devtools
@@ -694,6 +704,17 @@ urlbar-result-action-calculator-result = = { $result }
 #  $result (String): the string representation for a result in scientific notation
 #  (e.g. "1.0e17").
 urlbar-result-action-calculator-result-scientific-notation = = { $result }
+# Shows the result of a formula expression being calculated, this is used for numbers >= 1.
+# The last = sign will be shown as part of the result (e.g. "= 2").
+# Variables
+#  $result (String): the string representation for a formula result
+urlbar-result-action-calculator-result-3 = = { NUMBER($result, useGrouping: "false", maximumFractionDigits: 8) }
+# Shows the result of a formula expression being calculated, to a maximum of 9 significant
+# digits. This is used for numbers < 1.
+# The last = sign will be shown as part of the result (e.g. "= 0.333333333").
+# Variables
+#  $result (String): the string representation for a formula result
+urlbar-result-action-calculator-result-decimal = = { NUMBER($result, maximumSignificantDigits: 9) }
 
 ## Strings used for buttons in the urlbar
 
@@ -962,6 +983,9 @@ panel-save-update-password = Ger-tremen
 # "More" item in macOS share menu
 menu-share-more =
     .label = Muioc'h…
+menu-share-copy-link =
+    .label = Eilañ an ere
+    .accesskey = E
 ui-tour-info-panel-close =
     .tooltiptext = Serriñ
 
@@ -1125,6 +1149,10 @@ popup-notification-addon-install-unsigned =
     .value = (Nann-gwiriet)
 popup-notification-xpinstall-prompt-learn-more = Gouzout hiroc’h a-zivout staliañ askouezhioù en un doare diogel
 popup-notification-xpinstall-prompt-block-url = Gwelet ar munudoù
+# Note: Access key is set to p to match "private" in the corresponding localized label.
+popup-notification-addon-privatebrowsing-checkbox2 =
+    .label = Aotren an askouezhioù da vezañ lañset er prenestroù merdeiñ prevez
+    .accesskey = p
 # Note: Access key is set to P to match "Private" in the corresponding localized label.
 popup-notification-addon-privatebrowsing-checkbox =
     .label = Lañsañ en ur prenestr prevez
