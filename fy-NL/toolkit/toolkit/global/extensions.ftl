@@ -121,3 +121,5 @@ webext-site-perms-midi-sysex = MIDI-apparaten mei SysEx-stipe benaderje
 
 ## Colorway theme migration
 
+webext-colorway-theme-migration-notification-message = <b>Jo kleurstellingentema is fuortsmiten.</b> { -brand-shorter-name } hat har kolleksje kleurstellingen bywurke. Jo kinne de nijste ferzjes fine op de add-onswebsite.
+webext-colorway-theme-migration-notification-button = Bywurke kleurstellingen krije

@@ -41,3 +41,9 @@ experimental-features-link-previews-description =
         [macos] Hâld de mûsoanwizer boppe in keppeling en druk op Shift (⇧) + Option (⌥) of Alt om mear oer in webside te lêzen eardat jo klikke. Foarbylden kinne details lykas titel en leestiid befetsje. Fan guon websiden kin AI ek de sidetekst lêze en de wichtichste punten oanmeitsje. De AI is optimalisearre foar it lêzen en oanmeitsje fan Ingelske tekst. Om jo privacy foarop te stellen, wurdt de AI lokaal op jo kompjûter útfierd. <a data-l10n-name="connect">Feedback diele</a>
        *[other] Hâld de mûsoanwizer boppe in keppeling en druk op Shift + Alt om mear oer in webside te lêzen eardat jo klikke. Foarbylden kinne details lykas titel en leestiid befetsje. Fan guon websiden kin AI ek de sidetekst lêze en de wichtichste punten oanmeitsje. De AI is optimalisearre foar it lêzen en oanmeitsje fan Ingelske tekst. Om jo privacy foarop te stellen, wurdt de AI lokaal op jo kompjûter útfierd. <a data-l10n-name="connect">Feedback diele</a>
     }
+# This version of the link previews description does not mention AI.
+experimental-features-link-previews-description-no-ai =
+    { PLATFORM() ->
+        [macos] Hâld de mûsoanwizer boppe in keppeling en druk op Shift (⇧) plus Option (⌥) of Alt om mear oer in webside te lêzen eardat jo klikke. Foarbylden kinne details lykas titel en lêstiid befetsje. <a data-l10n-name="connect">Kommentaar diele</a>
+       *[other] Hâld de mûsoanwizer boppe in keppeling en druk op Shift + Alt om mear oer in webside te lêzen eardat jo klikke. Foarbylden kinne details lykas titel en lêstiid befetsje. <a data-l10n-name="connect">Kommentaar diele</a>
+    }

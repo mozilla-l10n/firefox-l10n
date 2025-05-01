@@ -54,6 +54,10 @@ neterror-dns-not-found-hint-header = <strong>As jo it krekte adres ynfierd hawwe
 neterror-dns-not-found-hint-try-again = It letter opnij probearje
 neterror-dns-not-found-hint-check-network = Jo netwurkferbining kontrolearje
 neterror-dns-not-found-hint-firewall = Kontrolearje oft { -brand-short-name } tastimming hat om tagong te krijen ta ynternet (jo binne mooglik ferbûn, mar jo binne efter in firewall)
+neterror-dns-not-found-offline-hint-header = <strong>Wat kinne jo hjir oan dwaan?</strong>
+neterror-dns-not-found-offline-hint-different-device = Probearje ferbining te meitsjen op in oar apparaat.
+neterror-dns-not-found-offline-hint-modem = Kontrolearje jo modem of router.
+neterror-dns-not-found-offline-hint-reconnect = Ferbrek de ferbining ferbyn opnij mei wifi.
 
 ## TRR-only specific messages
 ## Variables:

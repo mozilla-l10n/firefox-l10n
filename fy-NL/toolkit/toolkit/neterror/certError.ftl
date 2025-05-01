@@ -121,6 +121,7 @@ deniedPortAccess-title = Dit adres hat in beheinde tagong
 # "Hmm" is a sound made when considering or puzzling over something.
 # You don't have to include it in your translation if your language does not have a written word like this.
 dnsNotFound-title = Hmm. Wy kinne dizze website net fine.
+internet-connection-offline-title = It liket derop dat der in probleem is mei jo ynternetferbining.
 dns-not-found-trr-only-title2 = Mooglik feilichheidsrisiko by opsykjen fan dit domein
 dns-not-found-native-fallback-title2 = Mooglik feilichheidsrisiko by opsykjen fan dit domein
 fileNotFound-title = Bestân net fûn
