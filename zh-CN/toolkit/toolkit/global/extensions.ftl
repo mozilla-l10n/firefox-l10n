@@ -109,3 +109,4 @@ webext-site-perms-midi-sysex = 访问支持 SysEx 的 MIDI 设备
 
 ## Colorway theme migration
 
+webext-colorway-theme-migration-notification-button = 获取新版配色主题

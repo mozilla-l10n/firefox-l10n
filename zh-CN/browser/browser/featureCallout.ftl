@@ -94,6 +94,15 @@ bookmarks-toolbar-callout-2b-secondary-button-label = 不用了
 
 ## Perplexity callout strings
 
+perplexity-callout-theme-1-title = 需要立刻知道正确答案？
+perplexity-callout-theme-2-title = 试试 Perplexity：全新搜索方式
+perplexity-callout-theme-1-subtitle-1 = 欢迎试用 Perplexity。需要获取附来源的详尽回答时，可在搜索按钮处选择使用该工具。
+perplexity-callout-theme-1-subtitle-2 = 提出您的问题，获取详尽回答，附带详细出处。在搜索按钮处选择 Perplexity 即可试用。
+perplexity-callout-theme-2-subtitle-1 = 询问 Perplexity，获取附来源的详尽回答。
+perplexity-callout-theme-2-subtitle-2 = 提出您的问题，获取详尽回答，附带详细出处。
+perplexity-callout-primary-label = 询问 Perplexity
+perplexity-callout-secondary-label-1 = 知道了
+perplexity-callout-secondary-label-2 = 明白了
 
 ## Sidebar Strings
 

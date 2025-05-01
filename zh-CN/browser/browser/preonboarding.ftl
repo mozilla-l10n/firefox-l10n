@@ -10,6 +10,7 @@ preonboarding-subtitle = 继续使用即表示您同意 { -brand-product-name } 
 preonboarding-primary-cta = 确认并继续
 # Labels for header style button that toggles showing the terms of use, privacy notice, and data preferences checklist
 preonboarding-manage-and-read-header = 管理数据收集设置，并阅读我们的使用条款和隐私声明
+preonboarding-manage-and-read-header-v2 = 阅读使用条款和隐私声明。管理其他设置。
 # Label for header style button that toggles showing the Terms of Use
 preonboarding-terms-of-use-header-button-title = 阅读我们的使用条款
 # Label for header style button that toggles showing the Privacy Notice
@@ -18,8 +19,10 @@ preonboarding-privacy-notice-header-button-title = 阅读我们的隐私声明
 preonboarding-manage-data-header-button-title = 管理诊断和交互数据
 # Labels for header style button that toggles showing the Terms of Use (Variant B)
 preonboarding-terms-of-use-header-button-title-b = { -brand-product-name } 使用条款
+preonboarding-terms-of-use-header-button-title-b-v2 = 使用条款
 # Labels for header style button that toggles showing the Privacy Notice (Variant B)
 preonboarding-privacy-notice-header-button-title-b = { -brand-product-name } 隐私声明
+preonboarding-privacy-notice-header-button-title-b-v2 = 隐私声明
 # Description under label for header style buttons
 preonboarding-header-button-description = 详细了解
 # New user onboarding checklist

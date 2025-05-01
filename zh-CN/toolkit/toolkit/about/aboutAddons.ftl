@@ -268,6 +268,12 @@ discopane-notice-recommendations = 以下的部分推荐是基于您的已安装
 discopane-notice-recommendations2 =
     .message = 以下的部分推荐是基于您的已安装附加组件、选项设置和使用统计得出的个性化结果。
 discopane-notice-learn-more = 详细了解
+# Notice for the colorway theme removal
+colorway-removal-notice-message =
+    .heading = 您的配色主题已移除
+    .message = { -brand-product-name } 更新了配色收藏集，因此已从您的“保存的主题”列表移除旧版本。请从附加组件站获取新版本。
+colorway-removal-notice-learn-more = 详细了解
+colorway-removal-notice-button = 获取新版配色主题
 privacy-policy = 隐私政策
 # Refers to the author of an add-on, shown below the name of the add-on.
 # Variables:

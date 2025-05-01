@@ -54,6 +54,10 @@ neterror-dns-not-found-hint-header = <strong>若您确认输入的是正确网�
 neterror-dns-not-found-hint-try-again = 稍后再试
 neterror-dns-not-found-hint-check-network = 检查您的网络连接
 neterror-dns-not-found-hint-firewall = 检查 { -brand-short-name } 是否有联网权限（可能已接入网络，但被防火墙阻止）
+neterror-dns-not-found-offline-hint-header = <strong>您可以：</strong>
+neterror-dns-not-found-offline-hint-different-device = 尝试通过其他设备连接。
+neterror-dns-not-found-offline-hint-modem = 检查调制解调器和路由器。
+neterror-dns-not-found-offline-hint-reconnect = 断开 Wi-Fi 连接后重新连接。
 
 ## TRR-only specific messages
 ## Variables:

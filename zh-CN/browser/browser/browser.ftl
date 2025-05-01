@@ -344,6 +344,10 @@ search-one-offs-actions =
 
 # Opens the about:addons page in the home / recommendations section
 quickactions-addons = 查看附加组件
+# In English we provide multiple spellings for "add-ons". If that's not
+# applicable to your language, only use the correct spelling (don't repeat the
+# same word).
+quickactions-cmd-addons3 = 扩展, 主题, 附加组件, extensions, themes, addons, add-ons
 quickactions-cmd-addons2 = 附加组件
 # Opens the bookmarks library window
 quickactions-bookmarks2 = 管理书签
@@ -384,6 +388,7 @@ quickactions-print2 = 打印页面
 quickactions-cmd-print = 打印, print
 # Opens the print dialog at the save to PDF option
 quickactions-savepdf = 另存页面为 PDF
+quickactions-cmd-savepdf2 = pdf, 保存页面, save page
 quickactions-cmd-savepdf = pdf
 # Opens a new private browsing window
 quickactions-private2 = 打开隐私窗口
@@ -400,6 +405,8 @@ quickactions-cmd-screenshot2 = 截图, 截屏, 屏幕截图, screenshot, take a 
 quickactions-cmd-screenshot = 截图, screenshot
 # Opens about:preferences
 quickactions-settings2 = 管理设置
+# "manage" should match the corresponding command, which is “Manage settings” in English.
+quickactions-cmd-settings2 = 设置, 首选项, 偏好设置, 选项, 管理, settings, preferences, options, manage
 quickactions-cmd-settings = 设置, 偏好设置, 选项, settings, preferences, options
 # Opens about:addons page in the themes section
 quickactions-themes = 管理主题
@@ -1240,3 +1247,4 @@ file-picker-crashed-show-in-folder =
 
 ## Onboarding Finish Setup checklist
 
+onboarding-checklist-button-label = 完成设置
