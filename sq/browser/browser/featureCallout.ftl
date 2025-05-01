@@ -62,15 +62,27 @@ split-dismiss-button-show-fewer-option =
 # Opens about:preferences#general-cfrfeatures
 split-dismiss-button-manage-settings-option =
     .label = Administroni rregullime
+# Accessibility label for dropdown menu button
+split-dismiss-button-default-label =
+    .title = Më tepër mundësi
 
 ## Login Status Advisory Callout (points to the account icon)
 
 
 ## Bookmarks toolbar callout strings
 
+bookmarks-toolbar-callout-1-primary-button-label = Shtoni faqerojtës
+bookmarks-toolbar-callout-1-secondary-button-label = Jo, Faleminderit
+bookmarks-toolbar-callout-2a-primary-button-label = E mora vesh
+# Reverts the bookmarks toolbar to the default setting
+bookmarks-toolbar-callout-2a-secondary-button-label = Fshihe Panelin
+# Reverts the bookmarks toolbar to the default setting
+bookmarks-toolbar-callout-2b-secondary-button-label = Jo, faleminderit
 
 ## Perplexity callout strings
 
+perplexity-callout-secondary-label-1 = Hidhe tej
+perplexity-callout-secondary-label-2 = E mora vesh
 
 ## Sidebar Strings
 

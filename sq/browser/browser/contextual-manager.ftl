@@ -292,3 +292,10 @@ contextual-manager-passwords-discard-changes-heading-and-message =
     .message = Ndryshimet tuaja s’do të ruhen.
 contextual-manager-passwords-discard-changes-close-button = Mbylle
 contextual-manager-passwords-discard-changes-go-back-button = Kthehu mbrapsht
+#   $total (number) - Total number of passwords
+contextual-manager-passwords-remove-all-passwords-checkbox =
+    { $total ->
+        [1] Po, hiqe fjalëkalimin
+        [one] Po, hiqe fjalëkalimin
+       *[other] Po, hiqi fjalëkalimet
+    }

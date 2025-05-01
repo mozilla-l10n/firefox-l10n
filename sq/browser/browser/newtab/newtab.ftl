@@ -525,3 +525,11 @@ newtab-custom-wallpaper-cta = Provojeni
 
 ## Strings for reporting ads and content
 
+newtab-report-ads-reason-not-interested =
+    .label = S’më intereson
+newtab-report-content-outdated =
+    .label = E vjetruar
+newtab-report-content-inappropriate-offensive =
+    .label = E papërshtatshme ose fyese
+newtab-report-cancel = Anuloje
+newtab-report-submit = Parashtroje

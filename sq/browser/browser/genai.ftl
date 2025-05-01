@@ -130,6 +130,7 @@ genai-onboarding-lechat-learn = Mësoni më tepër rreth Le Chat-it
 genai-onboarding-select-header = Përzgjidhni tekst që të shihni sugjerime
 genai-onboarding-select-description = Kur përzgjidhni tekst, do t’ju sugjerojmë urdhra që mund t’ia dërgoni robotit të fjalosjeve. Mundeni edhe të shkruani urdhrat tuaja.
 genai-onboarding-select-primary = Filloni të bisedoni
+genai-chatbot-contextual-button = Zgjidhni një robot fjalosjesh
 
 ## Chatbot onboarding choices
 ## These describe features/capabilities of chatbot providers. These are not buttons/actions.
