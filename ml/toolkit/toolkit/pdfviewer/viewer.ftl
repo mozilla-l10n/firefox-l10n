@@ -504,6 +504,9 @@ pdfjs-editor-edit-signature-update-button = പുതുക്കുക
 
 ## Main menu for adding/removing signatures
 
+pdfjs-editor-delete-signature-button1 =
+    .title = കരുതിവച്ച ഒപ്പു് മാറ്റുക
+pdfjs-editor-delete-signature-button-label1 = കരുതിവച്ച ഒപ്പു് മാറ്റുക
 
 ## Editor toolbar
 

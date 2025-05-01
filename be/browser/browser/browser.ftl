@@ -196,6 +196,13 @@ urlbar-result-menu-learn-more-about-firefox-suggest =
 urlbar-result-menu-manage-firefox-suggest =
     .label = Кіраваць { -firefox-suggest-brand-name }
     .accesskey = ц
+# Some urlbar suggestions show the user's approximate location as automatically
+# detected by Firefox (e.g., weather suggestions), and this menu item lets the
+# user tell Firefox that the location is not accurate. Typically the location
+# will be a city name, or a city name combined with the name of its parent
+# administrative region (e.g., a province, prefecture, or state).
+urlbar-result-menu-report-inaccurate-location =
+    .label = Паведаміць пра няправільнае месцазнаходжанне
 urlbar-result-menu-show-less-frequently =
     .label = Паказваць радзей
 urlbar-result-menu-dont-show-weather-suggestions =
@@ -337,10 +344,17 @@ search-one-offs-actions =
 
 # Opens the about:addons page in the home / recommendations section
 quickactions-addons = Паглядзець дадаткі
+# In English we provide multiple spellings for "add-ons". If that's not
+# applicable to your language, only use the correct spelling (don't repeat the
+# same word).
+quickactions-cmd-addons3 = пашырэнні, тэмы, дадаткі, дапаўненні
 quickactions-cmd-addons2 = дадаткі
 # Opens the bookmarks library window
 quickactions-bookmarks2 = Кіраванне закладкамі
 quickactions-cmd-bookmarks = закладкі
+# Opens a SUMO article explaining how to clear history
+quickactions-clearrecenthistory = Ачысціць нядаўнюю гісторыю
+quickactions-cmd-clearrecenthistory = ачысціць нядаўнюю гісторыю, гісторыя
 # Opens a SUMO article explaining how to clear history
 quickactions-clearhistory = Ачысціць гісторыю
 quickactions-cmd-clearhistory = ачысціць гісторыю
@@ -350,6 +364,8 @@ quickactions-cmd-downloads = сцягванні
 # Opens about:addons page in the extensions section
 quickactions-extensions = Кіраваць пашырэннямі
 quickactions-cmd-extensions = пашырэнні
+# Opens Firefox View
+quickactions-firefoxview = Адкрыць { -firefoxview-brand-name }
 # Opens the devtools web inspector
 quickactions-inspector2 = Адкрыць Інструменты распрацоўшчыка
 quickactions-cmd-inspector = інспектар, прылады распрацоўшчыка
