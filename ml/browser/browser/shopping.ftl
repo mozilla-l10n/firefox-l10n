@@ -140,6 +140,9 @@ shopping-callout-not-opted-in-integrated-reminder-manage-settings = ക്രമ
 ## The card will only appear for users that have the default sidebar position, which is on the left side for non RTL locales.
 ## Review Checker in the sidebar is only available to US users at this time, so we can assume that the default position is on the left side.
 
+shopping-integrated-new-position-notification-move-right-button = വലത്തോട്ടു് നീക്കുക
+shopping-integrated-new-position-notification-move-left-button = ഇടത്തോട്ടു് നീക്കുക
+shopping-integrated-new-position-notification-dismiss-button = പിടി കിട്ടി
 
 ## Combined setting for auto-open and auto-close.
 

@@ -10,6 +10,7 @@ preonboarding-subtitle = Devam ederek { -brand-product-name } Kullanım Koşulla
 preonboarding-primary-cta = Onayla ve devam et
 # Labels for header style button that toggles showing the terms of use, privacy notice, and data preferences checklist
 preonboarding-manage-and-read-header = Veri toplama ayarlarını yönetin, Kullanım Koşullarımızı ve Gizlilik Bildirimimizi okuyun
+preonboarding-manage-and-read-header-v2 = Kullanım Koşulları’nı ve Gizlilik Bildirimi’ni okuyun. Ek ayarları yönetin.
 # Label for header style button that toggles showing the Terms of Use
 preonboarding-terms-of-use-header-button-title = Kullanım Koşullarımızı okuyun
 # Label for header style button that toggles showing the Privacy Notice

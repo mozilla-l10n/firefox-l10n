@@ -94,6 +94,10 @@ bookmarks-toolbar-callout-2b-secondary-button-label = Hayır
 
 ## Perplexity callout strings
 
+perplexity-callout-theme-1-title = Hemen doğru cevaba mı ihtiyacınız var?
+perplexity-callout-theme-2-title = Perplexity’yi deneyin: Arama yapmanın yeni bir yolu
+perplexity-callout-theme-2-subtitle-1 = Perplexity’ye sorun. Kaynaklarıyla birlikte eksiksiz cevaplar alacaksınız.
+perplexity-callout-primary-label = Perplexity’ye sorun
 perplexity-callout-secondary-label-1 = Kapat
 perplexity-callout-secondary-label-2 = Anladım
 

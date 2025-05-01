@@ -5,4 +5,7 @@
 webauthn-pin-invalid-short-prompt = തെറ്റിയ പിൻ. പിന്നെയും ശ്രമിക്കുക
 webauthn-pin-required-prompt = ഉപരണത്തിനു് ശരിയായ പിൻ നല്കുക
 webauthn-select-sign-result-unknown-account = അറിയാത്ത അക്കൗണ്ടു്
+# Variables:
+#   $domain (String): the domain of the site.
+webauthn-specific-passkey-label = { $domain }-നുള്ള ഒളിവാക്കു്
 webauthn-uv-invalid-short-prompt = ഉപയോക്തൃ പരിശോധന തോറ്റു. വീണ്ടും ശ്രമിക്കുക.

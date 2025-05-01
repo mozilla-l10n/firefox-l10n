@@ -278,6 +278,8 @@ discopane-notice-recommendations2 =
         Bu önerilerden bazıları size özeldir. Önerilerimiz; yüklediğiniz
         diğer uzantıları, profil tercihlerinizi ve kullanım istatistiklerinizi temel alır.
 discopane-notice-learn-more = Daha fazla bilgi al
+colorway-removal-notice-learn-more = Daha fazla bilgi alın
+colorway-removal-notice-button = Güncellenen renk kuşağı temalarını indirin
 privacy-policy = Gizlilik İlkeleri
 # Refers to the author of an add-on, shown below the name of the add-on.
 # Variables:
