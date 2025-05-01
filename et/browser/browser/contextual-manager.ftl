@@ -80,6 +80,8 @@ contextual-manager-passwords-remove-all-confirm-button =
         [one] Eemalda
        *[other] Eemalda kõik
     }
+contextual-manager-passwords-update-password-success-heading =
+    .heading = Parool salvestati
 contextual-manager-passwords-update-password-success-button = Valmis
 contextual-manager-passwords-delete-password-success-button = Valmis
 # This message is displayed to make sure that a user wants to delete an existing login.

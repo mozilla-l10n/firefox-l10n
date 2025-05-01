@@ -9,6 +9,7 @@ confirmation-hint-breakage-report-sent = Raport saadetud. Täname!
 confirmation-hint-login-removed = Kasutajakonto eemaldatud!
 confirmation-hint-page-bookmarked = Salvestatud järjehoidjatesse
 confirmation-hint-password-saved = Parool salvestati!
+confirmation-hint-password-created = Parool salvestati
 confirmation-hint-pin-tab = Kaart tehti püsikaardiks!
 confirmation-hint-pin-tab-description = Uuesti tavakaardiks tegemiseks tee kaardil paremklõps.
 confirmation-hint-send-to-device = Saadetud!
