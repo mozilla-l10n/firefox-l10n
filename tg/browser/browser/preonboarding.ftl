@@ -18,8 +18,10 @@ preonboarding-privacy-notice-header-button-title = Огоҳномаи махфи
 preonboarding-manage-data-header-button-title = Идоракунии маълумоти ташхисӣ ва ҳамкорӣ
 # Labels for header style button that toggles showing the Terms of Use (Variant B)
 preonboarding-terms-of-use-header-button-title-b = Шартҳои истифодаи «{ -brand-product-name }»
+preonboarding-terms-of-use-header-button-title-b-v2 = Шартҳои истифода
 # Labels for header style button that toggles showing the Privacy Notice (Variant B)
 preonboarding-privacy-notice-header-button-title-b = Огоҳномаи махфияти «{ -brand-product-name }»
+preonboarding-privacy-notice-header-button-title-b-v2 = Огоҳномаи махфият
 # Description under label for header style buttons
 preonboarding-header-button-description = Бештар хондан
 # New user onboarding checklist

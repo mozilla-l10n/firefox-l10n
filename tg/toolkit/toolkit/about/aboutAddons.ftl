@@ -279,6 +279,7 @@ discopane-notice-recommendations2 =
         Баъзе аз ин тавсияҳо шахсӣ карда шудаанд. Онҳо дар омори истифодабарӣ, бартариҳои
         профил ва васеъшавиҳои дигаре, ки шумо насб кардед, асос меёбанд.
 discopane-notice-learn-more = Маълумоти бештар
+colorway-removal-notice-learn-more = Маълумоти бештар
 privacy-policy = Сиёсати махфият
 # Refers to the author of an add-on, shown below the name of the add-on.
 # Variables:

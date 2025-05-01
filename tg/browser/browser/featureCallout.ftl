@@ -94,6 +94,8 @@ bookmarks-toolbar-callout-2b-secondary-button-label = Не, ташаккур
 
 ## Perplexity callout strings
 
+perplexity-callout-secondary-label-1 = Нодида гузарондан
+perplexity-callout-secondary-label-2 = Фаҳмидам
 
 ## Sidebar Strings
 

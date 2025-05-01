@@ -54,6 +54,7 @@ neterror-dns-not-found-hint-header = <strong>Агар шумо нишонии д
 neterror-dns-not-found-hint-try-again = Баъдтар аз нав кӯшиш кунед
 neterror-dns-not-found-hint-check-network = Пайвастшавии шабакаи худро тафтиш кунед
 neterror-dns-not-found-hint-firewall = Тафтиш кунед, ки браузери «{ -brand-short-name }» барои пайдо кардани дастрасӣ ба Интернет иҷозат дорад (эҳтимол аст, ки шумо аз паси девори оташ (firewall) пайваст шуда бошед
+neterror-dns-not-found-offline-hint-different-device = Кӯшиш кунед, ки дар дастгоҳи дигар пайваст шавед.
 
 ## TRR-only specific messages
 ## Variables:
