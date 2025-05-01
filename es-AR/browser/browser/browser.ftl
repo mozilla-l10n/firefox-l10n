@@ -344,6 +344,10 @@ search-one-offs-actions =
 
 # Opens the about:addons page in the home / recommendations section
 quickactions-addons = Ver complementos
+# In English we provide multiple spellings for "add-ons". If that's not
+# applicable to your language, only use the correct spelling (don't repeat the
+# same word).
+quickactions-cmd-addons3 = extensiones, temas, complementos
 quickactions-cmd-addons2 = complementos
 # Opens the bookmarks library window
 quickactions-bookmarks2 = Administrar marcadores
