@@ -270,6 +270,12 @@ discopane-notice-recommendations = 이러한 추천 중 일부는 개인화된 �
 discopane-notice-recommendations2 =
     .message = 이러한 추천 중 일부는 개인화된 것입니다. 설치한 다른 확장 기능, 프로필 설정 및 사용 통계를 기반으로 합니다.
 discopane-notice-learn-more = 더 알아보기
+# Notice for the colorway theme removal
+colorway-removal-notice-message =
+    .heading = 컬러웨이 테마가 삭제되었습니다.
+    .message = { -brand-product-name } 컬러 웨이 컬렉션을 업데이트했습니다. "저장된 테마"목록에서 이전 버전을 제거했습니다. 애드온 사이트에서 새 버전을 얻으십시오.
+colorway-removal-notice-learn-more = 더 알아보기
+colorway-removal-notice-button = 업데이트된 컬러웨이 테마 받기
 privacy-policy = 개인정보처리방침
 # Refers to the author of an add-on, shown below the name of the add-on.
 # Variables:

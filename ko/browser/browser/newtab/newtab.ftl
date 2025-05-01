@@ -556,3 +556,5 @@ newtab-report-content-spam-misleading =
     .label = 스팸 또는 오해의 소지가 있는 내용
 newtab-report-cancel = 취소
 newtab-report-submit = 보내기
+newtab-toast-thanks-for-reporting =
+    .message = 신고해 주셔서 감사합니다.

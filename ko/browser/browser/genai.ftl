@@ -129,6 +129,9 @@ genai-onboarding-lechat-learn = Le Chat에 대해 더 알아보기
 genai-onboarding-select-header = 제안을 보려면 텍스트를 선택하세요
 genai-onboarding-select-description = 텍스트를 선택하면 챗봇에 보낼 수 있는 메시지를 제안합니다. 자신만의 프롬프트를 작성할 수도 있습니다.
 genai-onboarding-select-primary = 채팅 시작
+genai-chatbot-contextual-title = 탭을 전환하지 않고 AI 챗봇 사용하기
+genai-chatbot-contextual-subtitle = { -brand-short-name } 사이드바에 AI 챗봇을 추가하면 채팅과 탐색이 나란히 표시됩니다.
+genai-chatbot-contextual-button = 챗봇 선택
 
 ## Chatbot onboarding choices
 ## These describe features/capabilities of chatbot providers. These are not buttons/actions.
@@ -162,3 +165,11 @@ genai-model-optin-cancel =
 
 ## Link previews
 
+# ‘min’ is short for “minute”
+# ‘mins’ is short for “minutes”
+# An estimate for how long it takes to read an article,
+# expressed as a range covering both slow and fast readers.
+# Variables:
+#   $rangePlural (String): The plural category of the range, using the same set as for numbers.
+#   $range (String): The range of minutes as a localised string. Examples: "3-7", "~1".
+link-preview-reading-time = 읽기 시간 { $range }분
