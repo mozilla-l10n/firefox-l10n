@@ -89,6 +89,7 @@ bookmarks-toolbar-callout-2b-secondary-button-label = No, gracias
 
 ## Perplexity callout strings
 
+perplexity-callout-theme-2-title = Pruebe Perplexity: una nueva forma de buscar
 
 ## Sidebar Strings
 

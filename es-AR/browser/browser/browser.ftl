@@ -388,6 +388,7 @@ quickactions-print2 = Imprimir página
 quickactions-cmd-print = imprimir
 # Opens the print dialog at the save to PDF option
 quickactions-savepdf = Guardar página como PDF
+quickactions-cmd-savepdf2 = pdf, guardar página
 quickactions-cmd-savepdf = pdf
 # Opens a new private browsing window
 quickactions-private2 = Abrir ventana privada
@@ -1255,3 +1256,4 @@ file-picker-crashed-show-in-folder =
 
 ## Onboarding Finish Setup checklist
 
+onboarding-checklist-button-label = Finalizar configuración
