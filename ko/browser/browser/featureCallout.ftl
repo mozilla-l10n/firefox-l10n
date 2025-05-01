@@ -94,6 +94,10 @@ bookmarks-toolbar-callout-2b-secondary-button-label = 아니요
 
 ## Perplexity callout strings
 
+perplexity-callout-theme-1-title = 바로 답변이 필요하세요?
+perplexity-callout-theme-2-title = Perflexity 사용해보기: 검색의 새로운 방법
+perplexity-callout-theme-1-subtitle-1 = Perplexity를 사용해 보세요. 출처를 포함하여 완전한 답변을 원하시면 검색 버튼에서 선택하세요.
+perplexity-callout-theme-1-subtitle-2 = 질문하세요. 완전하고 잘 인용된 답변을 얻으세요. Perflexity를 사용해 보려면, 검색 버튼에서 선택하세요.
 
 ## Sidebar Strings
 
