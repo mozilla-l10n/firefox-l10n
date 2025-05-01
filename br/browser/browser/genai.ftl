@@ -64,6 +64,12 @@ genai-onboarding-gemini-analyze = Dielfennañ skeudennoù (digoust) ha teulioù 
 
 ## Model Optin Component
 
+genai-model-optin-continue =
+    .label = Kenderc’hel
+genai-model-optin-optout =
+    .label = Nullañ
+genai-model-optin-cancel =
+    .label = Nullañ
 
 ## Link previews
 

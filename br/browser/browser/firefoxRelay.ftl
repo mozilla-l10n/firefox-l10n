@@ -33,6 +33,15 @@ firefox-relay-opt-in-confirmation-disable =
 firefox-relay-opt-in-confirmation-postpone =
     .label = Ket bremañ
     .accesskey = K
+firefox-relay-and-fxa-opt-in-confirmation-enable-button-sign-up =
+    .label = Krouiñ ur gont
+    .accesskey = K
+firefox-relay-and-fxa-opt-in-confirmation-disable =
+    .label = Na ziskouez din an dra-se en-dro
+    .accesskey = N
+firefox-relay-and-fxa-opt-in-confirmation-postpone =
+    .label = Ket bremañ
+    .accesskey = K
 
 ## The "control" variation of the Relay offer popup
 

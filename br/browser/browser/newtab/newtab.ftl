@@ -123,6 +123,7 @@ newtab-menu-section-block = Stankañ
 
 ## Context menu options for sponsored stories and new ad formats on New Tab.
 
+newtab-menu-our-sponsors-and-your-privacy = Hor c’hevelerien hag ho puhez prevez
 
 ## Message displayed in a modal window to explain privacy and provide context for sponsored content.
 
@@ -339,6 +340,8 @@ newtab-wallpaper-storm-sky = Oabl arnevek
 newtab-wallpaper-sky-with-pink-clouds = Oabl gant koumoul roz
 newtab-wallpaper-red-panda-yawns-in-a-tree = Panda ruz o vazailhat en ur wezenn
 newtab-wallpaper-white-mountains = Menezioù gwenn
+newtab-wallpaper-starry-canyon = Bolz an neñv steredennet glas
+newtab-wallpaper-sand-dunes = Tevennoù traezh gwenn
 # Variables
 #   $author_string (String) - The name of the creator of the photo.
 #   $webpage_string (String) - The name of the webpage where the photo is located.
