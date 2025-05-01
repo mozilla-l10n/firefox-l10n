@@ -54,6 +54,10 @@ neterror-dns-not-found-hint-header = <strong>올바른 주소를 입력한 경�
 neterror-dns-not-found-hint-try-again = 나중에 다시 시도하세요
 neterror-dns-not-found-hint-check-network = 네트워크 연결을 확인해 보세요
 neterror-dns-not-found-hint-firewall = { -brand-short-name }에 웹 액세스 권한이 있는지 확인하세요 (연결되어 있지만 방화벽 뒤에 있을 수 있음)
+neterror-dns-not-found-offline-hint-header = <strong>사용자가 무엇을 할 수 있나요?</strong>
+neterror-dns-not-found-offline-hint-different-device = 다른 기기에서 연결을 시도하세요.
+neterror-dns-not-found-offline-hint-modem = 모뎀이나 공유기를 확인해 보세요.
+neterror-dns-not-found-offline-hint-reconnect = Wi-Fi 연결을 끊었다가 다시 연결해보세요.
 
 ## TRR-only specific messages
 ## Variables:
@@ -136,7 +140,7 @@ neterror-network-protocol-error-intro = 네트워크 프로토콜에 오류가 �
 neterror-network-protocol-error-contact-website = 웹 사이트 관리자에게 연락하여 이 문제를 알려주실 수 있습니다.
 certerror-expired-cert-second-para = 웹 사이트의 인증서가 만료되어 { -brand-short-name }가 안전하게 연결할 수 없습니다. 사이트를 방문하면 공격자가 비밀번호나 이메일, 신용카드와 같은 정보를 탈취할 수 있습니다.
 certerror-expired-cert-sts-second-para = 웹 사이트의 인증서가 만료되어 { -brand-short-name }가 안전하게 연결할 수 없습니다.
-certerror-what-can-you-do-about-it-title = 사용자가 무엇을 할 수 있습니까?
+certerror-what-can-you-do-about-it-title = 사용자가 무엇을 할 수 있나요?
 certerror-unknown-issuer-what-can-you-do-about-it-website = 이러한 문제는 대부분 웹 사이트와 관련이 있고 사용자가 할 수 있는 일은 없습니다.
 certerror-unknown-issuer-what-can-you-do-about-it-contact-admin = 회사 네트워크를 사용하고 있고 바이러스 백신 소프트웨어를 사용하고 있다면 지원부서에 지원을 요청할 수 있습니다. 웹 사이트의 관리자에게 문제에 대해 알려주실 수 있습니다.
 # Variables:

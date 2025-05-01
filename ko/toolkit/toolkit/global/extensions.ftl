@@ -109,3 +109,5 @@ webext-site-perms-midi-sysex = SysEx 지원과 함께 MIDI 기기 접근
 
 ## Colorway theme migration
 
+webext-colorway-theme-migration-notification-message = <b>컬러웨이 테마가 제거되었습니다.</b> { -brand-shorter-name }가 컬러웨이 컬렉션을 업데이트했습니다. 최신 버전은 부가 기능 사이트에서 찾을 수 있습니다.
+webext-colorway-theme-migration-notification-button = 업데이트된 컬러웨이 받기

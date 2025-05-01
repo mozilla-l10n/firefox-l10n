@@ -272,8 +272,11 @@ discopane-notice-recommendations2 =
 discopane-notice-learn-more = 더 알아보기
 # Notice for the colorway theme removal
 colorway-removal-notice-message =
-    .heading = 컬러웨이 테마가 삭제되었습니다.
-    .message = { -brand-product-name } 컬러 웨이 컬렉션을 업데이트했습니다. "저장된 테마"목록에서 이전 버전을 제거했습니다. 애드온 사이트에서 새 버전을 얻으십시오.
+    .heading = 컬러웨이 테마가 제거되었습니다.
+    .message =
+        { -brand-product-name } 컬러웨이 컬렉션을 업데이트했습니다. 
+        "저장된 테마" 목록에서 이전 버전을 제거했습니다. 
+        부가 기능 사이트에서 새 버전을 받으세요.
 colorway-removal-notice-learn-more = 더 알아보기
 colorway-removal-notice-button = 업데이트된 컬러웨이 테마 받기
 privacy-policy = 개인정보처리방침

@@ -121,6 +121,7 @@ deniedPortAccess-title = 이 주소는 제한되어 있음
 # "Hmm" is a sound made when considering or puzzling over something.
 # You don't have to include it in your translation if your language does not have a written word like this.
 dnsNotFound-title = 해당 사이트를 찾는데 문제가 발생했습니다.
+internet-connection-offline-title = 인터넷 연결에 문제가 있는 것 같습니다.
 dns-not-found-trr-only-title2 = 이 도메인을 찾는 가능한 보안 위험
 dns-not-found-native-fallback-title2 = 이 도메인을 찾는 가능한 보안 위험
 fileNotFound-title = 파일을 찾을 수 없음
@@ -161,7 +162,7 @@ certerror-mitm-title = { -brand-short-name }가 이 사이트에 안전하게 �
 fp-certerror-page-title = 경고: 보안 위험
 fp-certerror-body-title = 조심하세요. 뭔가 문제가 있습니다.
 fp-certerror-why-site-dangerous = 사이트가 위험해 보이는 이유는 무엇인가요?
-fp-certerror-what-can-you-do = 사용자가 무엇을 할 수 있습니까?
+fp-certerror-what-can-you-do = 사용자가 무엇을 할 수 있나요?
 fp-certerror-advanced-title = 고급
 fp-certerror-advanced-button = 고급
 fp-certerror-hide-advanced-button = 고급 숨기기
