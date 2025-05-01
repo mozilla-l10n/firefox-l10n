@@ -38,6 +38,12 @@ experimental-features-link-previews =
     .label = 링크 미리보기
 experimental-features-link-previews-description =
     { PLATFORM() ->
-        [macos] 클릭하기 전에 웹 페이지에 대해 더 알아보려면 링크 위에 마우스를 놓고 Shift(⇧) + Option(⌥) 또는 Alt를 누르세요. 미리보기에는 제목이나 읽은 시간과 같은 세부 정보가 포함될 수 있습니다. 일부 웹 페이지의 경우 AI가 페이지 텍스트를 읽고 핵심 사항을 생성하기도 합니다. AI는 영어 텍스트를 읽고 생성하는 데 최적화되어 있습니다. 개인 정보 보호를 우선시하기 위해 AI는 컴퓨터에서 로컬로 실행됩니다. <a data-l10n-name="connect">의견 공유</a>
-       *[other] 클릭하기 전에 웹 페이지에 대해 더 알아보려면 링크 위에 마우스를 놓고 Shift + Alt를 누르세요. 미리보기에는 제목이나 읽은 시간과 같은 세부 정보가 포함될 수 있습니다. 일부 웹 페이지의 경우 AI가 페이지 텍스트를 읽고 핵심 사항을 생성하기도 합니다. AI는 영어 텍스트를 읽고 생성하는 데 최적화되어 있습니다. 개인 정보 보호를 우선시하기 위해 AI는 컴퓨터에서 로컬로 실행됩니다. <a data-l10n-name="connect">의견 공유</a>
+        [macos] 누르기 전에 웹 페이지에 대한 자세한 내용을 보려면 링크 위에 마우스를 놓고 Shift(⇧) + Option(⌥) 또는 Alt를 누르세요. 미리보기에는 제목 및 읽기 시간과 같은 자세한 정보가 포함될 수 있습니다. 일부 웹 페이지의 경우 AI가 페이지 텍스트를 읽고 핵심 사항을 생성하기도 합니다. AI는 영어 텍스트를 읽고 생성하는 데 최적화되어 있습니다. 개인 정보 보호를 우선시하기 위해 AI는 컴퓨터에서 로컬로 실행됩니다. <a data-l10n-name="connect">의견 공유</a>
+       *[other] 누르기 전에 웹 페이지에 대한 자세한 내용을 보려면 링크 위에 마우스를 놓고 Shift + Alt를 누르세요. 미리보기에는 제목 및 읽기 시간과 같은 자세한 정보가 포함될 수 있습니다. 일부 웹 페이지의 경우 AI가 페이지 텍스트를 읽고 핵심 사항을 생성하기도 합니다. AI는 영어 텍스트를 읽고 생성하는 데 최적화되어 있습니다. 개인 정보 보호를 우선시하기 위해 AI는 컴퓨터에서 로컬로 실행됩니다. <a data-l10n-name="connect">의견 공유</a>
+    }
+# This version of the link previews description does not mention AI.
+experimental-features-link-previews-description-no-ai =
+    { PLATFORM() ->
+        [macos] 누르기 전에 웹 페이지에 대한 자세한 내용을 보려면 링크 위에 마우스를 놓고 Shift(⇧) + Option(⌥) 또는 Alt를 누르세요. 미리보기에는 제목 및 읽기 시간과 같은 자세한 정보가 포함될 수 있습니다. <a data-l10n-name = "connect">의견 공유</a>
+       *[other] 누르기 전에 웹 페이지에 대한 자세한 내용을 보려면 링크 위에 마우스를 놓고 Shift + Alt를 누르세요. 미리보기에는 제목 및 읽기 시간과 같은 자세한 정보가 포함될 수 있습니다. <a data-l10n-name = "connect">의견 공유</a>
     }
