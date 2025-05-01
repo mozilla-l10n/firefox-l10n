@@ -6,13 +6,21 @@ contextual-manager-filter-input =
     .placeholder = Klask er gerioù-tremen
     .key = F
     .aria-label = Klask er gerioù-tremen
+contextual-manager-menu-more-options-button =
+    .title = Dibarzhioù ouzhpenn
+contextual-manager-more-options-popup =
+    .aria-label = Dibarzhioù ouzhpenn
 
 ## Passwords
 
 contextual-manager-passwords-command-create = Ouzhpennañ ur ger-tremen
 contextual-manager-passwords-command-import-from-browser = Enporzhiañ eus ur merdeer all…
 contextual-manager-passwords-command-import = Enporzhiañ adalek ur restr…
+contextual-manager-passwords-command-export = Ezporzhiañ ar gerioù-tremen
+contextual-manager-passwords-command-remove-all = Dilemel an holl c’herioù-tremen
+contextual-manager-passwords-command-settings = Arventennoù
 contextual-manager-passwords-command-help = Skoazell
+contextual-manager-passwords-os-auth-dialog-caption = { -brand-full-name }
 # This message can be seen when attempting to export a password in about:logins on Windows.
 contextual-manager-passwords-export-os-auth-dialog-message-win = Evit ezporzhiañ ho kerioù-tremen, enankit ho titouroù kennaskañ Windows. Skoazellañ a ra da wareziñ ho kontoù.
 # This message can be seen when attempting to export a password in about:logins
@@ -35,6 +43,7 @@ contextual-manager-passwords-copy-password-os-auth-dialog-message-win = Evit eil
 # The MacOS string is preceded by the operating system with "Firefox is trying to ".
 # Only provide the reason that account verification is needed. Do not put a complete sentence here.
 contextual-manager-passwords-copy-password-os-auth-dialog-message-macosx = eilañ ar ger-tremen enrollet
+contextual-manager-passwords-import-file-picker-title = Enporzhiañ gerioù-tremen
 contextual-manager-passwords-import-file-picker-import-button = Enporzhiañ
 # A description for the .csv file format that may be shown as the file type
 # filter by the operating system.
@@ -50,12 +59,24 @@ contextual-manager-passwords-import-file-picker-tsv-filter-title =
         [macos] Teul TSV
        *[other] Restr TSV
     }
+contextual-manager-passwords-import-success-heading =
+    .heading = Gerioù-tremen enporzhiet
+# Variables
+#   $added (number) - Number of added passwords
+#   $modified (number) - Number of modified passwords
+contextual-manager-passwords-import-success-message = Nevez: { $added }, Hizivaet: { $modified }
 contextual-manager-passwords-import-success-button = Graet
+contextual-manager-passwords-import-error-button-try-again = Klask en-dro
 contextual-manager-passwords-import-error-button-cancel = Nullañ
+contextual-manager-passwords-export-success-heading =
+    .heading = Gerioù-tremen ezporzhiet
 contextual-manager-passwords-export-success-button = Graet
 contextual-manager-export-passwords-dialog-confirm-button = Kenderc’hel gant an ezporzhiañ
 # Title of the file picker dialog
 contextual-manager-passwords-export-file-picker-title = Ezporzhiañ gerioù-tremen diouzh { -brand-short-name }
+# The default file name shown in the file picker when exporting saved logins.
+# The resultant filename will end in .csv (added in code).
+contextual-manager-passwords-export-file-picker-default-filename = gerioù-tremen
 contextual-manager-passwords-export-file-picker-export-button = Ezporzhiañ
 # A description for the .csv file format that may be shown as the file type
 # filter by the operating system.
@@ -63,6 +84,17 @@ contextual-manager-passwords-export-file-picker-csv-filter-title =
     { PLATFORM() ->
         [macos] Restr CSV
        *[other] Restr CSV
+    }
+# Confirm the removal of all saved passwords
+#   $total (number) - Total number of passwords
+contextual-manager-passwords-remove-all-title =
+    { $total ->
+        [1] Dilemel ar ger-tremen?
+        [one] Dilemel ar ger-tremen?
+        [two] Dilemel { $count } c’her-tremen?
+        [few] Dilemel { $count } ger-tremen?
+        [many] Dilemel { $count } ger-tremen?
+       *[other] Dilemel { $count } ger-tremen?
     }
 # Checkbox label to confirm the removal of saved passwords
 #   $total (number) - Total number of passwords
@@ -86,8 +118,27 @@ contextual-manager-passwords-remove-all-confirm-button =
         [many] Dilemel pep tra
        *[other] Dilemel pep tra
     }
+contextual-manager-passwords-origin-label = Lec’hienn
+contextual-manager-passwords-update-password-success-heading =
+    .heading = Ger-tremen enrollet
 contextual-manager-passwords-update-password-success-button = Graet
+# Message to confirm successful removal of a password/passwords.
+#   $total (number) - Total number of passwords
+contextual-manager-passwords-delete-password-success-heading =
+    .heading =
+        { $total ->
+            [1] Ger-tremen dilamet
+            [one] Ger-tremen dilamet
+            [two] Gerioù-tremen dilamet
+            [few] Gerioù-tremen dilamet
+            [many] Gerioù-tremen dilamet
+           *[other] Gerioù-tremen dilamet
+        }
 contextual-manager-passwords-delete-password-success-button = Graet
+#
+# Radiobutton label to display total number of passwords
+#   $total (number) - Total number of passwords
+contextual-manager-passwords-radiobutton-all = An holl ({ $total })
 # This message is displayed to make sure that a user wants to delete an existing login.
 contextual-manager-passwords-remove-login-card-title = Dilemel ar ger-tremen?
 # This message confirms that the user wants to remove an existing login.
