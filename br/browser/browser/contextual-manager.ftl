@@ -91,10 +91,10 @@ contextual-manager-passwords-remove-all-title =
     { $total ->
         [1] Dilemel ar ger-tremen?
         [one] Dilemel ar ger-tremen?
-        [two] Dilemel { $count } c’her-tremen?
-        [few] Dilemel { $count } ger-tremen?
-        [many] Dilemel { $count } ger-tremen?
-       *[other] Dilemel { $count } ger-tremen?
+        [two] Dilemel { $total } c’her-tremen?
+        [few] Dilemel { $total } ger-tremen?
+        [many] Dilemel { $total } ger-tremen?
+       *[other] Dilemel { $total } ger-tremen?
     }
 # Checkbox label to confirm the removal of saved passwords
 #   $total (number) - Total number of passwords
