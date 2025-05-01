@@ -54,6 +54,9 @@ neterror-dns-not-found-hint-header = <strong>Se inseriu o endereço correto, pod
 neterror-dns-not-found-hint-try-again = Tentar novamente mais tarde
 neterror-dns-not-found-hint-check-network = Verificar a sua ligação à rede
 neterror-dns-not-found-hint-firewall = Verificar se { -brand-short-name } tem permissão para aceder à Internet (pode estar ligado, mas atrás de uma firewall)
+neterror-dns-not-found-offline-hint-header = <strong>O que pode fazer quanto a isto?</strong>
+neterror-dns-not-found-offline-hint-different-device = Tente ligar-se num dispositivo diferente.
+neterror-dns-not-found-offline-hint-modem = Verifique o seu modem ou router.
 
 ## TRR-only specific messages
 ## Variables:

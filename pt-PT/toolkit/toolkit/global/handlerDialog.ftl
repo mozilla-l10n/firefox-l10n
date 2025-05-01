@@ -55,7 +55,7 @@ chooser-dialog =
     .buttonaccesskeyaccept = o
 chooser-dialog-description = Escolha uma aplicação para abrir a ligação { $scheme }.
 # Please keep the emphasis around the scheme (ie the `<strong>` HTML tags).
-chooser-dialog-remember = Permitir sempre que esta aplicação possa abrir ligações <strong>{ $scheme }</strong>.
+chooser-dialog-remember = Utilizar sempre esta aplicação para abrir ligações <strong>{ $scheme }</strong>.
 chooser-dialog-remember-extra =
     { PLATFORM() ->
         [windows] Isto pode ser alterado nas opções do { -brand-short-name }.

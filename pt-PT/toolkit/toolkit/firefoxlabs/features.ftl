@@ -41,3 +41,9 @@ experimental-features-link-previews-description =
         [macos] Para saber mais sobre uma página web antes de clicar, passe o rato sobre uma ligação e pressione Shift (⇧) mais Option (⌥) ou Alt. As pré-visualizações podem incluir detalhes tais como o título e o tempo de leitura. Para algumas páginas web, a IA também pode ler o texto da página e gerar pontos-chave. A IA está otimizada para ler e gerar texto em Inglês. Para priorizar a sua privacidade, a IA é executada localmente no seu computador. <a data-l10n-name="connect">Partilhar feedback</a>
        *[other] Para saber mais sobre uma página web antes de clicar, passe o rato sobre uma ligação e pressione Shift + Alt. As pré-visualizações podem incluir detalhes tais como o título e o tempo de leitura. Para algumas páginas web, a IA também pode ler o texto da página e gerar pontos-chave. A IA está otimizada para ler e gerar texto em Inglês. Para priorizar a sua privacidade, a IA é executada localmente no seu computador. <a data-l10n-name="connect">Partilhar feedback</a>
     }
+# This version of the link previews description does not mention AI.
+experimental-features-link-previews-description-no-ai =
+    { PLATFORM() ->
+        [macos] Para saber mais sobre uma página web antes de clicar, passe o rato sobre uma ligação e pressione Shift (⇧) + Opção (⌥) ou Alt. As pré-visualizações podem incluir detalhes, como o título e o tempo de leitura. <a data-l10n-name="connect">Partilhar feedback</a>
+       *[other] Para saber mais sobre uma página web antes de clicar, passe o rato sobre uma ligação e pressione Shift + Alt. As pré-visualizações podem incluir detalhes, como o título e o tempo de leitura. <a data-l10n-name="connect">Partilhar feedback</a>
+    }

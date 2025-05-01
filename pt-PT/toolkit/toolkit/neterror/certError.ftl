@@ -121,6 +121,7 @@ deniedPortAccess-title = Este endereço é restrito
 # "Hmm" is a sound made when considering or puzzling over something.
 # You don't have to include it in your translation if your language does not have a written word like this.
 dnsNotFound-title = Hum. Estamos a ter problemas em encontrar esse site.
+internet-connection-offline-title = Parece que há um problema com a sua ligação à Internet.
 dns-not-found-trr-only-title2 = Possível risco de segurança ao verificar este domínio
 dns-not-found-native-fallback-title2 = Possível risco de segurança ao verificar este domínio
 fileNotFound-title = Ficheiro não encontrado
