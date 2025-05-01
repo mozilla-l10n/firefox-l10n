@@ -55,18 +55,31 @@ fx-view-discoverability-secondary-button-label = Argas
 # Blocks the message from showing again
 split-dismiss-button-dont-show-option =
     .label = Arabat diskouez ar erbedadenn-mañ adarre
+# Dismisses message and reduces frequency of message
+split-dismiss-button-show-fewer-option =
+    .label = Diskouez nebeutoc'h a erbedadennoù
 # Opens about:preferences#general-cfrfeatures
 split-dismiss-button-manage-settings-option =
     .label = Merañ an arventennoù
+# Accessibility label for dropdown menu button
+split-dismiss-button-default-label =
+    .title = Dibarzhioù ouzhpenn
 
 ## Login Status Advisory Callout (points to the account icon)
 
 
 ## Bookmarks toolbar callout strings
 
+bookmarks-toolbar-callout-1-primary-button-label = Ouzhpennañ ur sined
+bookmarks-toolbar-callout-1-secondary-button-label = Ket, trugarez
+bookmarks-toolbar-callout-2a-primary-button-label = Komprenet am eus
+# Reverts the bookmarks toolbar to the default setting
+bookmarks-toolbar-callout-2a-secondary-button-label = Kuzhat ar varrenn ostilhoù
 
 ## Perplexity callout strings
 
+perplexity-callout-secondary-label-1 = Argas
+perplexity-callout-secondary-label-2 = Komprenet am eus
 
 ## Sidebar Strings
 

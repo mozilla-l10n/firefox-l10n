@@ -119,6 +119,20 @@ contextual-manager-passwords-remove-all-confirm-button =
        *[other] Dilemel pep tra
     }
 contextual-manager-passwords-origin-label = Lec’hienn
+# The attribute .data-after describes the text that should be displayed for the ::after pseudo-selector
+contextual-manager-passwords-username-label = Anv implijer
+    .data-after = Eilet
+# The attribute .data-after describes the text that should be displayed for the ::after pseudo-selector
+contextual-manager-passwords-password-label = Ger-tremen
+    .data-after = Eilet
+contextual-manager-passwords-radiogroup-label =
+    .aria-label = Silañ ar gerioù-tremen
+# Variables
+#   $url (string) - The url associated with the new login
+contextual-manager-passwords-add-password-success-heading =
+    .heading = Ger-tremen ouzhpennet evit { $url }
+contextual-manager-passwords-add-password-success-button = Gwelout
+contextual-manager-passwords-password-already-exists-error-button = Mont d’ar ger-tremen
 contextual-manager-passwords-update-password-success-heading =
     .heading = Ger-tremen enrollet
 contextual-manager-passwords-update-password-success-button = Graet
@@ -141,10 +155,15 @@ contextual-manager-passwords-delete-password-success-button = Graet
 contextual-manager-passwords-radiobutton-all = An holl ({ $total })
 # This message is displayed to make sure that a user wants to delete an existing login.
 contextual-manager-passwords-remove-login-card-title = Dilemel ar ger-tremen?
+# This message gives the user an option to go back to the edit login form.
+contextual-manager-passwords-remove-login-card-back-message = Distreiñ
 # This message confirms that the user wants to remove an existing login.
 contextual-manager-passwords-remove-login-card-remove-button = Dilemel
 # This message gives the user the option to cancel their attempt to remove a login.
 contextual-manager-passwords-remove-login-card-cancel-button = Nullañ
+contextual-manager-passwords-alert-back-button =
+    .label = Distreiñ
+contextual-manager-passwords-change-password-button = Kemmañ ar ger-tremen
 
 ## Login Form
 
@@ -157,6 +176,50 @@ contextual-manager-passwords-list-label =
     .aria-label = Gerioù-tremen
 contextual-manager-copy-icon =
     .alt = Eilañ
+contextual-manager-check-icon-password =
+    .alt = Eilet
+contextual-manager-alert-icon =
+    .alt = Diwallit
+# Variables
+#   $url (string) - The url associated with the login
+contextual-manager-origin-login-line =
+    .aria-label = Gweladenniñ { $url }
+    .title = Gweladenniñ { $url }
+# "(Warning)" indicates that a login's origin field has an alert icon.
+# Variables
+#   $url (string) - The url associated with the login
+contextual-manager-origin-login-line-with-alert =
+    .aria-label = Gweladenniñ { $url } (diwallit)
+    .title = Gweladenniñ { $url } (diwallit)
+# Variables
+#   $username (string) - The username associated with the login
+contextual-manager-username-login-line =
+    .aria-label = Eilañ an anv implijer { $username }
+    .title = Eilañ an anv implijer { $username }
+# "(Warning)" indicates that a login's username field has an alert icon.
+# Variables
+#   $username (string) - The username associated with the login
+contextual-manager-username-login-line-with-alert =
+    .aria-label = Eilañ an anv implijer { $username } (diwallit)
+    .title = Eilañ an anv implijer { $username } (diwallit)
+contextual-manager-password-login-line =
+    .aria-label = Eilañ ar ger-tremen
+    .title = Eilañ ar ger-tremen
+# "(Warning)" indicates that a login's password field has an alert icon.
+contextual-manager-password-login-line-with-alert =
+    .aria-label = Eilañ ar ger-tremen (diwallit)
+    .title = Eilañ ar ger-tremen (diwallit)
+contextual-manager-edit-login-button = Kemmañ
+    .tooltiptext = Kemmañ ar ger-tremen
+contextual-manager-show-password-button =
+    .aria-label = Diskouez ar ger-tremen
+    .title = Diskouez ar ger-tremen
+contextual-manager-hide-password-button =
+    .aria-label = Kuzhat ar ger-tremen
+    .title = Kuzhat ar ger-tremen
+# The message displayed when the search text does not match any of the user's saved logins.
+contextual-manager-passwords-no-passwords-found-header =
+    .heading = Ger-tremen ebet kavet
 
 ## When the user has no saved passwords, we display the following messages to inform the user they can save
 ## their passwords safely and securely in Firefox:
@@ -165,3 +228,18 @@ contextual-manager-copy-icon =
 ## When the user cancels a login that's currently being edited, we display a message to confirm whether
 ## or not the user wants to discard their current edits to the login.
 
+contextual-manager-passwords-discard-changes-heading-and-message =
+    .heading = Serriñ hep enrollañ?
+    .message = Ne vo ket enrollet ho kemmoù.
+contextual-manager-passwords-discard-changes-close-button = Serriñ
+contextual-manager-passwords-discard-changes-go-back-button = Distreiñ
+#   $total (number) - Total number of passwords
+contextual-manager-passwords-remove-all-passwords-checkbox =
+    { $total ->
+        [1] Ya, dilemel ar ger-tremen
+        [one] Ya, dilemel ar ger-tremen
+        [two] Ya, dilemel ar gerioù-tremen
+        [few] Ya, dilemel ar gerioù-tremen
+        [many] Ya, dilemel ar gerioù-tremen
+       *[other] Ya, dilemel ar gerioù-tremen
+    }
