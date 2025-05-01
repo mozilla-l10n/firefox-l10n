@@ -18,8 +18,10 @@ preonboarding-privacy-notice-header-button-title = Lexoni Shënimin tonë mbi Pr
 preonboarding-manage-data-header-button-title = Administroni të dhëna diagnostikimi dhe ndërveprimesh
 # Labels for header style button that toggles showing the Terms of Use (Variant B)
 preonboarding-terms-of-use-header-button-title-b = Terma Përdorimi për { -brand-product-name }-in
+preonboarding-terms-of-use-header-button-title-b-v2 = Kushte Përdorimi
 # Labels for header style button that toggles showing the Privacy Notice (Variant B)
 preonboarding-privacy-notice-header-button-title-b = Shënim Privatësie në { -brand-product-name }
+preonboarding-privacy-notice-header-button-title-b-v2 = Shënim Mbi Privatësinë
 # Description under label for header style buttons
 preonboarding-header-button-description = Lexoni Më Tepër
 # New user onboarding checklist

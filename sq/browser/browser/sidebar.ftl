@@ -31,6 +31,15 @@ sidebar-history-sort-by-site =
     .label = Renditi sipas sajtesh
 sidebar-history-clear =
     .label = Spastro historikun
+sidebar-history-sort-by-heading = Renditi sipas:
+sidebar-history-sort-option-date =
+    .label = Datash
+sidebar-history-sort-option-site =
+    .label = Sajtesh
+sidebar-history-sort-option-date-and-site =
+    .label = Datash dhe Sajtesh
+sidebar-history-sort-option-last-visited =
+    .label = Vizituar së fundi më
 
 ## Labels for sidebar search
 
@@ -69,10 +78,16 @@ sidebar-context-menu-remove-extension =
     .label = Hiqe zgjerimin
 sidebar-context-menu-report-extension =
     .label = Raportojeni zgjerimin
+sidebar-context-menu-open-in-tab =
+    .label = Hape në Skedë të Re
+sidebar-context-menu-open-in-container-tab =
+    .label = Hape në Skedë të Re Kontejneri
 sidebar-context-menu-open-in-window =
     .label = Hape në Dritare të Re
 sidebar-context-menu-open-in-private-window =
     .label = Hape në Dritare të Re Private
+sidebar-context-menu-forget-site =
+    .label = Spastroni Krejt të Dhënat për Sajtin…
 sidebar-context-menu-bookmark-tab =
     .label = Faqeruaje Skedën…
 sidebar-context-menu-copy-link =
