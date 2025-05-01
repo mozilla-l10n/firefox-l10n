@@ -121,6 +121,7 @@ deniedPortAccess-title = Táto adresa je zakázaná
 # "Hmm" is a sound made when considering or puzzling over something.
 # You don't have to include it in your translation if your language does not have a written word like this.
 dnsNotFound-title = Hmm, túto stránku sa nám nepodarilo nájsť.
+internet-connection-offline-title = Zdá sa, že sa vyskytol problém s vaším internetovým pripojením.
 dns-not-found-trr-only-title2 = Možné bezpečnostné riziko pri hľadaní tejto domény
 dns-not-found-native-fallback-title2 = Možné bezpečnostné riziko pri hľadaní tejto domény
 fileNotFound-title = Súbor sa nenašiel

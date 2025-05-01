@@ -97,6 +97,12 @@ bookmarks-toolbar-callout-2b-secondary-button-label = Nie, ďakujem
 perplexity-callout-theme-1-title = Potrebujete správnu odpoveď, hneď?
 perplexity-callout-theme-2-title = Vyskúšajte Perplexity: nový spôsob vyhľadávania
 perplexity-callout-theme-1-subtitle-1 = Vyskúšajte Perplexity. Zvolíte si ho pomocou tlačidla vyhľadávania a dostanete úplné odpovede vrátane zdrojov.
+perplexity-callout-theme-1-subtitle-2 = Pýtajte sa. Získajte úplné a dobre citované odpovede. Ak chcete vyskúšať Perplexity, zvolíte si ho pomocou tlačidla vyhľadávania.
+perplexity-callout-theme-2-subtitle-1 = Opýtajte sa Perplexity. Dostanete kompletné odpovede vrátane zdrojov.
+perplexity-callout-theme-2-subtitle-2 = Pýtajte sa. Získajte úplné a dobre citované odpovede.
+perplexity-callout-primary-label = Opýtajte sa Perplexity
+perplexity-callout-secondary-label-1 = Zavrieť
+perplexity-callout-secondary-label-2 = Rozumiem
 
 ## Sidebar Strings
 

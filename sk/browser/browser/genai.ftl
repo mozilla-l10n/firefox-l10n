@@ -141,6 +141,7 @@ genai-onboarding-lechat-learn = Ďalšie informácie o Le Chat
 genai-onboarding-select-header = Ak chcete zobraziť návrhy, vyberte text
 genai-onboarding-select-description = Keď vyberiete text, navrhneme vám výzvy, ktoré môžete poslať chatbotovi. Môžete tiež napísať svoje vlastné výzvy.
 genai-onboarding-select-primary = Začnite četovať
+genai-chatbot-contextual-title = Používajte chatbota s umelou inteligenciou bez prepínania kariet
 
 ## Chatbot onboarding choices
 ## These describe features/capabilities of chatbot providers. These are not buttons/actions.
