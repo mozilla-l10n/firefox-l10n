@@ -344,6 +344,10 @@ search-one-offs-actions =
 
 # Opens the about:addons page in the home / recommendations section
 quickactions-addons = Add-ons besjen
+# In English we provide multiple spellings for "add-ons". If that's not
+# applicable to your language, only use the correct spelling (don't repeat the
+# same word).
+quickactions-cmd-addons3 = útwreidingen, tema’s, add-ons
 quickactions-cmd-addons2 = add-ons
 # Opens the bookmarks library window
 quickactions-bookmarks2 = Blêdwizers beheare
@@ -384,6 +388,7 @@ quickactions-print2 = Side ôfdrukke
 quickactions-cmd-print = ôfdrukke
 # Opens the print dialog at the save to PDF option
 quickactions-savepdf = Side bewarje as PDF
+quickactions-cmd-savepdf2 = pdf, side bewarje
 quickactions-cmd-savepdf = pdf
 # Opens a new private browsing window
 quickactions-private2 = Priveefinster iepenje
@@ -400,6 +405,8 @@ quickactions-cmd-screenshot2 = skermôfdruk, in skermôfdruk nimme
 quickactions-cmd-screenshot = skermôfdruk
 # Opens about:preferences
 quickactions-settings2 = Ynstellingen beheare
+# "manage" should match the corresponding command, which is “Manage settings” in English.
+quickactions-cmd-settings2 = ynstellingen, foarkarren, opsjes, beheare
 quickactions-cmd-settings = ynstellingen, foarkarren, opsjes
 # Opens about:addons page in the themes section
 quickactions-themes = Tema’s beheare
@@ -1253,3 +1260,4 @@ file-picker-crashed-show-in-folder =
 
 ## Onboarding Finish Setup checklist
 
+onboarding-checklist-button-label = Ynstellen foltôgje

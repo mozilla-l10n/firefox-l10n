@@ -557,3 +557,5 @@ newtab-report-content-spam-misleading =
     .label = Spam of misliedend
 newtab-report-cancel = Annulearje
 newtab-report-submit = Yntsjinje
+newtab-toast-thanks-for-reporting =
+    .message = Tank foar it melden.

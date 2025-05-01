@@ -94,6 +94,15 @@ bookmarks-toolbar-callout-2b-secondary-button-label = Nee tank
 
 ## Perplexity callout strings
 
+perplexity-callout-theme-1-title = Daliks it krekte antwurd nedich?
+perplexity-callout-theme-2-title = Probearje Perplexity: in nije manier fan sykjen
+perplexity-callout-theme-1-subtitle-1 = Probearje Perplexity. Kies dit fan de sykknop út as jo folsleine antwurden wolle, ynklusyf boarnen.
+perplexity-callout-theme-1-subtitle-2 = Stel fragen. Krij folsleine, goed sitearre antwurden. Kies Perplexity fan de sykknop út om it te probearjen.
+perplexity-callout-theme-2-subtitle-1 = Freegje it Perplexity. Jo krije folsleine antwurden, ynklusyf boarnen.
+perplexity-callout-theme-2-subtitle-2 = Stel fragen. Krij folsleine antwurden mei goede boarnefermelding.
+perplexity-callout-primary-label = Freegje it Perplexity
+perplexity-callout-secondary-label-1 = Slute
+perplexity-callout-secondary-label-2 = Begrepen
 
 ## Sidebar Strings
 
