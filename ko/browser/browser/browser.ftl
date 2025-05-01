@@ -344,6 +344,10 @@ search-one-offs-actions =
 
 # Opens the about:addons page in the home / recommendations section
 quickactions-addons = 부가 기능 보기
+# In English we provide multiple spellings for "add-ons". If that's not
+# applicable to your language, only use the correct spelling (don't repeat the
+# same word).
+quickactions-cmd-addons3 = extensions, themes, addons, add-ons, 확장 기능, 테마, 부가 기능
 quickactions-cmd-addons2 = 부가 기능, add-ons
 # Opens the bookmarks library window
 quickactions-bookmarks2 = 북마크 관리
@@ -384,6 +388,7 @@ quickactions-print2 = 페이지 인쇄
 quickactions-cmd-print = 인쇄, print
 # Opens the print dialog at the save to PDF option
 quickactions-savepdf = 페이지를 PDF로 저장
+quickactions-cmd-savepdf2 = pdf, save page, 페이지 저장
 quickactions-cmd-savepdf = pdf
 # Opens a new private browsing window
 quickactions-private2 = 사생활 보호 창 열기
@@ -400,6 +405,8 @@ quickactions-cmd-screenshot2 = screenshot, take a screenshot, 스크린샷, 스�
 quickactions-cmd-screenshot = 스크린샷, screenshot
 # Opens about:preferences
 quickactions-settings2 = 설정 관리
+# "manage" should match the corresponding command, which is “Manage settings” in English.
+quickactions-cmd-settings2 = settings, preferences, options, manage, 설정, 옵션, 관리
 quickactions-cmd-settings = 설정, 옵션, settings, preferences, options
 # Opens about:addons page in the themes section
 quickactions-themes = 테마 관리
@@ -1242,3 +1249,4 @@ file-picker-crashed-show-in-folder =
 
 ## Onboarding Finish Setup checklist
 
+onboarding-checklist-button-label = 설정 완료
