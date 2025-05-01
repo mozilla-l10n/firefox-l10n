@@ -281,6 +281,15 @@ discopane-notice-recommendations2 =
         Inkelde fan dizze oanrekommandaasjes binne personalisearre. Se binne basearre op oare
         troch jo ynstallearre útwreidingen, profylfoarkarren en brûksstatistiken.
 discopane-notice-learn-more = Mear ynfo
+# Notice for the colorway theme removal
+colorway-removal-notice-message =
+    .heading = Jo kleurstellingentema(’s) is/binne fuortsmiten.
+    .message =
+        { -brand-product-name } hat har kleurstellingenkolleksje bywurke. Wy hawwe
+        de âlde ferzje(s) út jo list ‘Bewarre tema’s’ fuortsmiten. Download nije ferzjes op
+        de add-onswebsite.
+colorway-removal-notice-learn-more = Mear ynfo
+colorway-removal-notice-button = Bywurke kleurstellingentema’s krije
 privacy-policy = Privacybelied
 # Refers to the author of an add-on, shown below the name of the add-on.
 # Variables:
