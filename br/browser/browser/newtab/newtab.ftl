@@ -357,6 +357,9 @@ feature-highlight-wallpaper =
 
 ## Celestial
 
+newtab-wallpaper-celestial-lunar-eclipse = Fallaenn loar
+newtab-wallpaper-celestial-starry-sky = Neñv steredennet
+newtab-wallpaper-celestial-river = Skeudenn-loarell ur stêr
 
 ## New Tab Weather
 
@@ -417,6 +420,7 @@ newtab-section-blocked-button = Stanket
 
 ## Confirmation modal for blocking a section
 
+newtab-section-cancel-button = Ket bremañ
 # Variables:
 #   $topic (string) - Name of topic that user is blocking
 newtab-section-block-topic-button = Stankañ { $topic }
@@ -425,9 +429,12 @@ newtab-section-block-topic-button = Stankañ { $topic }
 
 newtab-section-mangage-topics-followed-topics = O heuliañ
 newtab-section-mangage-topics-blocked-topics = Stanket
+newtab-custom-wallpaper-cta = Esaeañ
 
 ## Strings for download mobile highlight
 
 
 ## Strings for reporting ads and content
 
+newtab-report-cancel = Nullañ
+newtab-report-submit = Kas

@@ -25,6 +25,8 @@ return-to-amo-subtitle = Dispar, { -brand-short-name } a zo ganeoc’h
 return-to-amo-addon-title = Staliomp <img data-l10n-name="icon"/> <b>{ $addon-name }</b> bremañ.
 return-to-amo-add-extension-label = Ouzhpennañ an askouezh
 return-to-amo-add-theme-label = Ouzhpennañ an neuz
+return-to-amo-theme-install-complete-label = Tem staliet
+return-to-amo-extension-install-complete-label = Askouezh staliet
 
 ##  Variables: $addon-name (String) - Name of the add-on to be installed
 
