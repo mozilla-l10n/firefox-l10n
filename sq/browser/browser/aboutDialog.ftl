@@ -46,7 +46,7 @@ update-internal-error2 = S’arrihet të kontrollohet për përditësime, për s
 aboutdialog-channel-description = Tani gjendeni te kanali i përditësimit për <label data-l10n-name="current-channel">{ $channel }</label>.
 warningDesc-version = { -brand-short-name }-i është eksperimental dhe mund të jetë i paqëndrueshëm.
 aboutdialog-help-user = Ndihmë mbi { -brand-product-name }-in
-aboutdialog-submit-feedback = Parashtrojini Përshtypjet
+aboutdialog-submit-feedback = Parashtroni Përshtypje
 community-exp = <label data-l10n-name="community-exp-mozillaLink">{ -vendor-short-name }</label> është një <label data-l10n-name="community-exp-creditsLink">bashkësi mbarëbotërore</label> që punon tok për ta mbajtur Web-in të hapët, publik dhe të përdorshëm nga kushdo.
 community-2 = { -brand-short-name }-i është hartuar nga <label data-l10n-name="community-mozillaLink">{ -vendor-short-name }</label>, një <label data-l10n-name="community-creditsLink">bashkësi mbarëbotërore</label> që punon tok për ta mbajtur Web-in të hapët, publik dhe të përdorshëm nga kushdo.
 helpus = Doni të ndihmoni? <label data-l10n-name="helpus-donateLink">Bëni një dhurim</label> ose <label data-l10n-name="helpus-getInvolvedLink">përfshihuni!</label>
