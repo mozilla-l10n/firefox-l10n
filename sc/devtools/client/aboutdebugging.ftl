@@ -145,6 +145,9 @@ about-debugging-runtime-other-workers =
 # .name is processed by fluent-react / DebugTargetPane
 about-debugging-runtime-processes =
     .name = Protzessos
+# Label of the button opening the performance profiler panel in runtime pages for remote
+# runtimes.
+about-debugging-runtime-profile-button2 = Rendimentu de su profilu
 # Displayed for runtime info in runtime pages.
 # { $name } is brand name such as "Firefox Nightly"
 # { $version } is version such as "64.0a1"

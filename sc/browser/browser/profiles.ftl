@@ -7,6 +7,8 @@ profile-window-body = Mantene separadas sa navigatzione de traballu e cussa pers
 # This checkbox appears in the Choose profile window that appears when the browser is opened. "Show this" refers to this window, which is displayed when the checkbox is enabled.
 profile-window-checkbox-label-2 =
     .label = Sèbera unu profilu cando { -brand-short-name } s’aberit
+# This subcopy appears below the checkbox when it is unchecked
+profile-window-checkbox-subcopy = { -brand-short-name } at a torrare a abèrrere s’ùrtimu profilu chi apas impreadu.
 profile-window-create-profile = Crea unu profilu
 profile-card-edit-button =
     .title = Modifica su profilu

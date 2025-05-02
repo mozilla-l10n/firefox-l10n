@@ -10,6 +10,7 @@ preonboarding-subtitle = Si sighis, atzetas is Cunditziones de su servìtziu de 
 preonboarding-primary-cta = Cunfirma e sighi
 # Labels for header style button that toggles showing the terms of use, privacy notice, and data preferences checklist
 preonboarding-manage-and-read-header = Gesti sa cunfiguratzione de sa regorta de datos e leghe is Cunditziones de su servìtziu nostras e s’Avisu de riservadesa
+preonboarding-manage-and-read-header-v2 = Leghe is Cunditziones de su servìtziu e s’Avisu de riservadesa. Gesti is cunfiguratziones agiuntivas.
 # Label for header style button that toggles showing the Terms of Use
 preonboarding-terms-of-use-header-button-title = Leghe is Cunditziones de su servìtziu
 # Label for header style button that toggles showing the Privacy Notice
@@ -18,8 +19,10 @@ preonboarding-privacy-notice-header-button-title = Leghe s’Avisu de riservades
 preonboarding-manage-data-header-button-title = Gesti is datos dianniòsticos e de interatzione
 # Labels for header style button that toggles showing the Terms of Use (Variant B)
 preonboarding-terms-of-use-header-button-title-b = Cunditziones de impreu de { -brand-product-name }
+preonboarding-terms-of-use-header-button-title-b-v2 = Cunditziones de su servìtziu
 # Labels for header style button that toggles showing the Privacy Notice (Variant B)
 preonboarding-privacy-notice-header-button-title-b = Avisu de riservadesa de { -brand-product-name }
+preonboarding-privacy-notice-header-button-title-b-v2 = Avisu de riservadesa
 # Description under label for header style buttons
 preonboarding-header-button-description = Leghe àteru
 # New user onboarding checklist
