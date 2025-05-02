@@ -5,7 +5,7 @@
 # Variables:
 #   $hostname (string) - Hostname of the website with cert error.
 cert-error-intro = يستخدم { $hostname } شهادة أمن غير سليمة.
-cert-error-mitm-intro = تثبت المواقع على الوِب هويّتها باستعمال الشهادات، وسلطات الشهادات هي من تُصدر تلك الشهادات.
+cert-error-mitm-intro = تثبت المواقع على الوِب هويّتها باستعمال الشهادات، وسُلطات الشهادات هي من تُصدر تلك الشهادات.
 cert-error-mitm-mozilla = تدعم Mozilla غير الربحية { -brand-short-name }، فتدير مخزنًا مكشوفًا لسلطات الشهادات يراه العموم كافة. يفيد هذا المخزن بتحقّقه من اتّباع سلطات الشهادات الأساليب المثلى لحماية المستخدم.
 cert-error-mitm-connection = يستعمل { -brand-short-name } مخزن Mozilla لسلطات الشهادات ذلك ليتحقق من أن الاتصال آمن، وهذا أفضل من الشهادات التي يقدّمها نظام التشغيل عند المستخدم. لهذا وفي حال كان هناك برنامج يصدّ الفيروسات أو شبكة تحاول اعتراض الاتصال عبر شهادة أمن أصدرتها سلطة شهادات ليست في ذلك المخزن - في هذه الحال يكون الاتصال غير آمن.
 cert-error-trust-unknown-issuer-intro = هناك من يحاول انتحال هوية هذا الموقع، ولهذا عليك ألا تتابع وتفتحه.
@@ -18,6 +18,12 @@ cert-error-trust-signature-algorithm-disabled = الشهادة غير موثوق
 cert-error-trust-expired-issuer = الشهادة غير موثوقة لانتهاء صلاحية شهادة المُصْدِر.
 cert-error-trust-self-signed = الشهادة غير موثوقة لأنها موقعّة ذاتيًا.
 cert-error-trust-symantec = لم تعد الشهادات التي تُصدرها GeoTrust وRapidSSL وSymantec وThawte وVeriSign آمنة لأن سلطات الشهادات سابقة الذكر لم تطبّق الأساليب الأمنية السليمة فيما مضى من سنين.
+# Variables:
+#   $hostname (string) - Hostname of the website with cert error.
+cert-error-trust-certificate-transparency = لا يثق { -brand-short-name } في { $hostname } لأنه لم يتمكن من إثبات أنه يلبي متطلبات شفافية الشهادة العامة.
+# Variables:
+#   $hostname (string) - Hostname of the website with cert error.
+cert-error-revoked = تثبت مواقع الويب هويتها عبر الشهادات. لا يثق { -brand-short-name } في { $hostname } لأنه يستخدم شهادة نُقضت.
 cert-error-untrusted-default = لم تأت هذه الشهادة من مصدر موثوق.
 # Variables:
 #   $hostname (string) - Hostname of the website with cert error.
@@ -70,9 +76,23 @@ open-in-new-window-for-csp-or-xfo-error = افتح الموقع في نافذة 
 csp-xfo-blocked-long-desc = لحماية أمنك لن يسمح { $hostname } أن يعرض { -brand-short-name } الصفحة إن ضمّنها موقع آخر. لترى هذه الصفحة عليك فتحها في نافذة جديدة.
 fp-certerror-view-certificate-link = اعرض شهادة الموقع
 fp-certerror-return-to-previous-page-recommended-button = عُد للخلف (يُنصح به)
+# This string appears after the following string: "What makes the site look dangerous?" (fp-certerror-why-site-dangerous)
+# Variables:
+#   $hostname (String) - Hostname of the website to which the user was trying to connect.
+#   $validHosts (String) - Valid hostnames.
+fp-certerror-bad-domain-why-dangerous-body = أُعدّ الموقع للسماح بالاتصالات الآمنة فقط، ولكن هناك مشكلة في شهادة الموقع. من المحتمل أن جهة خارجية تحاول انتحال هوية الموقع. تستخدم المواقع شهادات صادرة عن سُلطة الشهادات لإثبات هويتها الحقيقية. لا يثق { -brand-short-name } بهذا الموقع لأن شهادته غير صالحة لـ { $hostname }. الشهادة صالحة فقط لـ: { $validHosts }.
+# This string appears after the following string: "What can you do about it?" (fp-certerror-what-can-you-do)
+fp-certerror-bad-domain-what-can-you-do-body = على الأرجح لا شيء، فمن المرجح وجود مشكلة في الموقع نفسه. تستخدم المواقع شهادات صادرة عن سُلطة الشهادات لإثبات هويتها الحقيقية. ولكن إذا كنت تستخدم شبكة شركة، فقد يكون لدى فريق الدعم لديك معلومات إضافية. إذا كنت تستخدم برنامج مضاد الفيروسات، فحاول البحث عن تعارضات محتملة أو مشاكل معروفة.
+# This string appears after the following string: "What makes the site look dangerous?" (fp-certerror-why-site-dangerous)
+fp-certerror-unknown-issuer-why-dangerous-body = هناك مشكلة في شهادة الموقع. من المحتمل أن يكون هناك مُخترق يحاول انتحال هوية الموقع. تستخدم المواقع شهادات صادرة عن سُلطة الشهادات لإثبات هويتها الحقيقية. لا يثق { -brand-short-name } بهذا الموقع لأننا لا نستطيع تحديد مُصدّر الشهادة، أو لأنها موقعة ذاتيًا، أو لأن الموقع لا يُرسل شهادات وسيطة نثق بها.
+# This string appears after the following string: "What can you do about it?" (fp-certerror-what-can-you-do)
+fp-certerror-unknown-issuer-what-can-you-do-body = على الأرجح لا يوجد شيء، فمن المرجح وجود مشكلة في الموقع نفسه. ولكن إذا كنت تستخدم شبكة شركة، فقد يكون لدى فريق الدعم لديك معلومات إضافية. إذا كنت تستخدم برنامج مضاد الفيروسات، فقد يلزم تهيئته للعمل مع { -brand-short-name }.
 # Variables:
 #   $error (string) - NSS error code string that specifies type of cert error. e.g. unknown issuer, invalid cert, etc.
 fp-cert-error-code = رمز الخطأ: { $error }
+# Variables:
+#   $datetime (Date) - Current datetime.
+fp-datetime = { DATETIME($datetime, month: "short", year: "numeric", day: "numeric") } { DATETIME($datetime, timeStyle: "long") }
 fp-learn-more-about-secure-connection-failures = اعرف المزيد عن حالات فشل الاتصال الآمن
 fp-learn-more-about-cert-issues = اعرف المزيد عن هذه الأنواع من مشكلات الشهادات
 fp-learn-more-about-time-related-errors = اعرف المزيد عن مواجهة الأعطال المتعلقة بالوقت وإصلاحها
@@ -84,6 +104,7 @@ deniedPortAccess-title = هذا العنوان غير مسموح به
 # "Hmm" is a sound made when considering or puzzling over something.
 # You don't have to include it in your translation if your language does not have a written word like this.
 dnsNotFound-title = ممم. نواجه مشكلة في إيجاد ذلك الموقع.
+internet-connection-offline-title = يبدو أن هناك مشكلة في اتصالك بالإنترنت.
 dns-not-found-trr-only-title2 = مخاطر أمنية محتملة تبحث عن هذا المجال
 dns-not-found-native-fallback-title2 = مخاطر أمنية محتملة تبحث عن هذا المجال
 fileNotFound-title = الملف غير موجود
@@ -100,6 +121,7 @@ contentEncodingError-title = خطأ في ترميز المحتوى
 unsafeContentType-title = نوع ملف غير آمن
 netReset-title = صُفِّر الاتصال
 netTimeout-title = انتهت مهلة الاتصال
+httpErrorPage-title = يبدو أن هناك مشكلة في هذا الموقع
 serverError-title = يبدو أن هناك مشكلة في هذا الموقع
 unknownProtocolFound-title = لم يُفهم العنوان
 proxyConnectFailure-title = يرفض الخادوم الوسيط الاتصالات
