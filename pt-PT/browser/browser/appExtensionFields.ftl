@@ -13,7 +13,7 @@ extension-firefox-compact-light-description = Um tema com um esquema de cores cl
 extension-firefox-compact-dark-name = Escuro
 extension-firefox-compact-dark-description = Um tema com um esquema de cores escuro.
 extension-firefox-alpenglow-name = Firefox Alpenglow
-extension-firefox-alpenglow-description = Utilizar uma aparência colorida para botões, menus e janelas.
+extension-firefox-alpenglow-description = Utilizar um aspeto colorido para botões, menus e janelas.
 
 ## Colorway Themes
 ## These themes are variants of a colorway. The colorway is specified in the
