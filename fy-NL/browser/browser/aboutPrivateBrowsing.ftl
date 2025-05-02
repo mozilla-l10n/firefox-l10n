@@ -59,7 +59,7 @@ about-private-browsing-pin-promo-link-text =
         [macos] Yn Dock hâlde
        *[other] Oan taakbalke fêstsette
     }
-about-private-browsing-pin-promo-title = Gjin bewarre cookies of skiednis, direkt fan jo buroblêd. Blêdzje as oft net ien meisjocht.
+about-private-browsing-pin-promo-title = Gjin bewarre cookies of skiednis, streekrjocht fan jo buroblêd ôf. Blêdzje as oft net ien sjocht.
 
 ## Strings used in a promotion message for cookie banner reduction
 
