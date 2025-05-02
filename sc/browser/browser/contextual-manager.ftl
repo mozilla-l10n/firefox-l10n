@@ -193,18 +193,64 @@ contextual-manager-passwords-alert-back-button =
     .label = A coa
 contextual-manager-passwords-alert-list =
     .aria-label = Lista de avisos
+contextual-manager-passwords-change-password-button = Modìfica sa crae
+contextual-manager-passwords-no-username-heading-and-message =
+    .heading = Agiunghe unu nòmine de utente
+    .message = Agiunghe·nde unu pro ti identificare a sa lestra.
+contextual-manager-passwords-add-username-button = Agiunghe nòmine de utente
 
 ## Login Form
 
 contextual-manager-passwords-create-label =
     .label = Agiunghe crae
+contextual-manager-passwords-edit-label =
+    .label = Modìfica sa crae
+contextual-manager-passwords-remove-label =
+    .title = Canzella sa crae
 
 ## Password Card
 
 contextual-manager-passwords-list-label =
     .aria-label = Craes
+contextual-manager-website-icon =
+    .alt = Icona de su situ web
 contextual-manager-copy-icon =
     .alt = Còpia
+contextual-manager-check-icon-username =
+    .alt = Copiadu
+contextual-manager-check-icon-password =
+    .alt = Copiada
+contextual-manager-alert-icon =
+    .alt = Avisu
+# Variables
+#   $url (string) - The url associated with the login
+contextual-manager-origin-login-line =
+    .aria-label = Bìsita { $url }
+    .title = Bìsita { $url }
+# "(Warning)" indicates that a login's origin field has an alert icon.
+# Variables
+#   $url (string) - The url associated with the login
+contextual-manager-origin-login-line-with-alert =
+    .aria-label = Bìsita { $url } (avisu)
+    .title = Bìsita { $url } (avisu)
+# Variables
+#   $username (string) - The username associated with the login
+contextual-manager-username-login-line =
+    .aria-label = Còpia su nòmine de utente { $username }
+    .title = Còpia su nòmine de utente { $username }
+# "(Warning)" indicates that a login's username field has an alert icon.
+# Variables
+#   $username (string) - The username associated with the login
+contextual-manager-username-login-line-with-alert =
+    .aria-label = Còpia su nòmine de utente { $username } (avisu)
+    .title = Còpia su nòmine de utente { $username } (avisu)
+contextual-manager-password-login-line =
+    .aria-label = Còpia sa crae
+    .title = Còpia sa crae
+# "(Warning)" indicates that a login's password field has an alert icon.
+contextual-manager-password-login-line-with-alert =
+    .aria-label = Còpia sa crae (avisu)
+    .title = Còpia sa crae (avisu)
 contextual-manager-edit-login-button = Modifica
     .tooltiptext = Modifica sa crae
 contextual-manager-view-alert-heading =
@@ -227,6 +273,8 @@ contextual-manager-passwords-no-passwords-found-message = Nissuna crae agatada. 
 
 # This string encourages the user to save their passwords in Firefox (the "safe spot").
 contextual-manager-passwords-no-passwords-header = Sarva is craes tuas in logu seguru.
+# This string encourages the user to save their passwords to Firefox again.
+contextual-manager-passwords-no-passwords-get-started-message = Agiunghe·ddas inoghe pro cumintzare.
 # This string is displayed in a button. If the user clicks it, they will be taken to a form to create a new password.
 contextual-manager-passwords-add-manually = Agiunghe a manu
 
@@ -238,3 +286,10 @@ contextual-manager-passwords-discard-changes-heading-and-message =
     .message = Is modìficas tuas no ant a èssere sarvadas.
 contextual-manager-passwords-discard-changes-close-button = Serra
 contextual-manager-passwords-discard-changes-go-back-button = A coa
+#   $total (number) - Total number of passwords
+contextual-manager-passwords-remove-all-passwords-checkbox =
+    { $total ->
+        [1] Eja, cantzella sa crae
+        [one] Eja, cantzella sa crae
+       *[other] Eja, cantzella is craes
+    }
