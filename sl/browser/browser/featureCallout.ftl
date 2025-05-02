@@ -68,9 +68,29 @@ split-dismiss-button-default-label =
 
 ## Login Status Advisory Callout (points to the account icon)
 
+# The 'account icon' is the toolbar button with a 'profile' icon of a human
+# head/shoulders. It's for dealing with your Mozilla account. When hovering the
+# icon, the tooltip says 'Account'.
+login-status-advisory-title = Trenutno ste odjavljeni. Za prijavo kliknite ikono računa.
 
 ## Bookmarks toolbar callout strings
 
+bookmarks-toolbar-callout-1-title = Želite dodati to stran v orodno vrstico zaznamkov?
+bookmarks-toolbar-callout-1-subtitle = Zaznamek se bo shranil tik pod naslovno vrstico za hitrejši dostop.
+bookmarks-toolbar-callout-1-primary-button-label = Dodaj zaznamek
+bookmarks-toolbar-callout-1-secondary-button-label = Ne, hvala
+# Visible if user adds a bookmark in callout 1, bookmarks toolbar is set to always show when this message renders
+bookmarks-toolbar-callout-2a-title = Dodajanje novih zaznamkov je preprosto
+bookmarks-toolbar-callout-2a-subtitle = Sem lahko povlečete in spustite zavihke, da si shranite priljubljene strani na doseg roke.
+bookmarks-toolbar-callout-2a-primary-button-label = Razumem
+# Reverts the bookmarks toolbar to the default setting
+bookmarks-toolbar-callout-2a-secondary-button-label = Skrij orodno vrstico
+# Visible if user declines to add a bookmark in callout 1, bookmarks toolbar is set to always show when this message renders
+bookmarks-toolbar-callout-2b-title = Želite obdržati orodno vrstico zaznamkov odprto?
+bookmarks-toolbar-callout-2b-subtitle = Dodate lahko tudi druge strani, ki jih pogosto obiskujete. Zavihke preprosto povlecite in spustite sem in si ohranite priljubljene spletne strani na dosegu.
+bookmarks-toolbar-callout-2b-primary-button-label = Obdrži odprto
+# Reverts the bookmarks toolbar to the default setting
+bookmarks-toolbar-callout-2b-secondary-button-label = Ne, hvala
 
 ## Perplexity callout strings
 

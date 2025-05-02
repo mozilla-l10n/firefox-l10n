@@ -78,10 +78,16 @@ sidebar-context-menu-remove-extension =
     .label = Odstrani razširitev
 sidebar-context-menu-report-extension =
     .label = Prijavi razširitev
+sidebar-context-menu-open-in-tab =
+    .label = Odpri v novem zavihku
+sidebar-context-menu-open-in-container-tab =
+    .label = Odpri v novem zavihku vsebnika
 sidebar-context-menu-open-in-window =
     .label = Odpri v novem oknu
 sidebar-context-menu-open-in-private-window =
     .label = Odpri v novem zasebnem oknu
+sidebar-context-menu-forget-site =
+    .label = Počisti vse podatke spletnega mesta …
 sidebar-context-menu-bookmark-tab =
     .label = Dodaj zavihek med zaznamke …
 sidebar-context-menu-copy-link =
@@ -101,6 +107,10 @@ sidebar-context-menu-close-remote-tab =
 
 sidebar-history-context-menu-delete-page =
     .label = Izbriši iz zgodovine
+sidebar-history-context-menu-delete-page-2 =
+    .label = Izbriši stran iz zgodovine
+sidebar-history-context-menu-bookmark-page =
+    .label = Dodaj stran med zaznamke …
 
 ## Labels for sidebar menu items.
 

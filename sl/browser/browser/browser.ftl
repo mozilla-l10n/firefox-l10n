@@ -1200,6 +1200,10 @@ popup-notification-addon-install-unsigned =
     .value = (Nepotrjeno)
 popup-notification-xpinstall-prompt-learn-more = Več o varni namestitvi dodatkov
 popup-notification-xpinstall-prompt-block-url = Pokaži podrobnosti
+# Note: Access key is set to p to match "private" in the corresponding localized label.
+popup-notification-addon-privatebrowsing-checkbox2 =
+    .label = Dovoli, da se razširitev izvaja v zasebnih oknih
+    .accesskey = b
 # Note: Access key is set to P to match "Private" in the corresponding localized label.
 popup-notification-addon-privatebrowsing-checkbox =
     .label = Delovanje v zasebnih oknih
