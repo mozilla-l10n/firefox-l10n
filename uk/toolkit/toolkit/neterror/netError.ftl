@@ -50,10 +50,10 @@ neterror-captive-portal = Перш ніж отримати доступ до І�
 # Variables:
 # $hostAndPath (String) - a suggested site (e.g. "www.example.com") that the user may have meant instead.
 neterror-dns-not-found-with-suggestion = Ви хотіли відвідати <a data-l10n-name="website">{ $hostAndPath }</a>?
-neterror-dns-not-found-hint-header = <strong>Якщо ви ввели правильну адресу, можна:</strong>
-neterror-dns-not-found-hint-try-again = Спробувати знову пізніше
-neterror-dns-not-found-hint-check-network = Перевірити мережеве з'єднання
-neterror-dns-not-found-hint-firewall = Перевірити чи { -brand-short-name } має дозвіл на доступ до інтернету (мережевий екран може блокувати з'єднання)
+neterror-dns-not-found-hint-header = <strong>Якщо ви ввели правильну адресу:</strong>
+neterror-dns-not-found-hint-try-again = Повторіть спробу пізніше
+neterror-dns-not-found-hint-check-network = Перевірте мережеве з'єднання
+neterror-dns-not-found-hint-firewall = Перевірте чи { -brand-short-name } має дозвіл на доступ до інтернету (мережевий екран може блокувати з'єднання)
 
 ## TRR-only specific messages
 ## Variables:
