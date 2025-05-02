@@ -96,6 +96,10 @@ fp-certerror-self-signed-important-note = ملاحظة هامة: إذا كنت �
 # Variables:
 #   $date (Date) - Certificate expiration date.
 fp-certerror-expired-why-dangerous-body = تستخدم المواقع الشهادات الصادرة عن سُلطة الشهادات لإثبات أنها هي بالفعل من تدعي أنها كذلك. لا يثق { -brand-short-name } بهذا الموقع لأنه يبدو أن الشهادة انتهت صلاحيتها في { DATETIME($date, month: "numeric", day: "numeric", year: "numeric") }.
+# This string appears after the following string: "What makes the site look dangerous?" (fp-certerror-why-site-dangerous)
+# Variables:
+#   $date (Date) - Certificate start date.
+fp-certerror-not-yet-valid-why-dangerous-body = تستخدم المواقع الشهادات الصادرة عن سُلطة الشهادات لإثبات أنها هي بالفعل من تدعي أنها كذلك. لا يثق { -brand-short-name } بهذا الموقع لأنه يبدو أن الشهادة لن تكون صالحة حتى { DATETIME($date, month: "numeric", day: "numeric", year: "numeric") }.
 # This string appears after the following string: "What can you do about it?" (fp-certerror-what-can-you-do)
 # Variables:
 #   $date (Date) - Clock date.
@@ -167,3 +171,5 @@ fp-certerror-hide-advanced-button = أخفِ المتقدم
 ##   $hostname (String) - Hostname of the website to which the user was trying to connect.
 
 fp-certerror-override-exception-button = واصِل إلى { $hostname } (خطر)
+fp-certerror-intro = { -brand-short-name } لاحظ مشكلة أمنية محتملة خطيرة في <strong>{ $hostname }</strong>. قد يحاول شخص ينتحل هوية الموقع سرقة معلومات مثل بيانات بطاقة الائتمان أو كلمات السر أو البريد الإلكتروني.
+fp-certerror-expired-into = { -brand-short-name } لاحظ مشكلة أمنية في <strong>{ $hostname }</strong>. إما أن الموقع غير مُعدّ بشكل صحيح أو أن ساعة جهازك مضبوطة على تاريخ/وقت خاطئ.
