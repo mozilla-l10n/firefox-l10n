@@ -121,6 +121,7 @@ deniedPortAccess-title = Dieser Port ist aus Sicherheitsgründen blockiert
 # "Hmm" is a sound made when considering or puzzling over something.
 # You don't have to include it in your translation if your language does not have a written word like this.
 dnsNotFound-title = Seite wurde nicht gefunden
+internet-connection-offline-title = Anscheinend gibt es ein Problem mit Ihrer Internetverbindung.
 dns-not-found-trr-only-title2 = Mögliches Sicherheitsrisiko beim Nachschlagen dieser Domain
 dns-not-found-native-fallback-title2 = Mögliches Sicherheitsrisiko beim Nachschlagen dieser Domain
 fileNotFound-title = Fehler: Datei nicht gefunden
