@@ -25,6 +25,8 @@ return-to-amo-subtitle = Bene meda, immoe tenes { -brand-short-name }
 return-to-amo-addon-title = Immoe amus a installare <img data-l10n-name="icon"/> <b>{ $addon-name }</b>.
 return-to-amo-add-extension-label = Agiunghe s'estensione
 return-to-amo-add-theme-label = Agiunghe su tema
+return-to-amo-theme-install-complete-label = Tema installadu
+return-to-amo-extension-install-complete-label = Estensione installada
 
 ##  Variables: $addon-name (String) - Name of the add-on to be installed
 
@@ -431,6 +433,7 @@ onboarding-checklist-sign-up = Registra·ti o identìfica·ti cun su profilu tuo
 
 ## Tab Groups feature onboarding strings
 
+tab-groups-onboarding-session-restore-title = Torra a abèrrere grupos de ischedas inoghe cando ti serbat.
 tab-groups-onboarding-dismiss = Andat bene
 
 ## Multi Profiles feature onboarding messages
@@ -448,3 +451,5 @@ multi-profile-callout-cta = Crea unu profilu
 desktop-to-mobile-headline = Iscàrriga, sincroniza e bae!
 dismiss-button-label = Iscarta
 sync-to-mobile-button-label = Sincroniza cun dispositivos mòbiles
+desktop-to-mobile-qr-code-alt =
+    .aria-label = Còdighe QR pro iscarrigare { -brand-product-name } pro dispositivos mòbiles

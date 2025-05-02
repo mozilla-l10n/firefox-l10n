@@ -129,6 +129,7 @@ newtab-menu-section-unfollow = Non sigas prus s’argumentu
 
 newtab-menu-manage-sponsored-content = Gesti su cuntenutu patrotzinadu
 newtab-menu-our-sponsors-and-your-privacy = Is patrotzinadores nostros e sa riservadesa tua
+newtab-menu-report-this-ad = Sinnala custa publitzidade
 
 ## Message displayed in a modal window to explain privacy and provide context for sponsored content.
 
@@ -488,9 +489,33 @@ newtab-section-mangage-topics-followed-topics = Sighidu
 newtab-section-mangage-topics-followed-topics-empty-state = Non ses ancora sighende nissunu argumentu
 newtab-section-mangage-topics-blocked-topics = Blocadu
 newtab-section-mangage-topics-blocked-topics-empty-state = No as ancora blocadu nissunu argumentu
+newtab-custom-wallpaper-cta = Proa immoe
 
 ## Strings for download mobile highlight
 
+newtab-download-mobile-highlight-title = Iscàrriga { -brand-product-name } pro dispositivos mòbiles
+# "Scan the code" refers to scanning the QR code that appears above the body text that leads to Firefox for mobile download.
+newtab-download-mobile-highlight-body-variant-a = Iscansiona su còdighe pro navigare cun seguresa in ònnia logu.
 
 ## Strings for reporting ads and content
 
+newtab-report-content-why-reporting-this =
+    .label = Pro ite ses sinnalende custu?
+newtab-report-ads-reason-not-interested =
+    .label = Non m’interessat
+newtab-report-ads-reason-inappropriate =
+    .label = No est apropriada
+newtab-report-ads-reason-seen-it-too-many-times =
+    .label = Dd’apo bida tropu bortas
+newtab-report-content-wrong-category =
+    .label = Categoria isballiada
+newtab-report-content-outdated =
+    .label = Betza
+newtab-report-content-inappropriate-offensive =
+    .label = No est apropriada o est ofensiva
+newtab-report-content-spam-misleading =
+    .label = Àliga o ingannosa
+newtab-report-cancel = Annulla
+newtab-report-submit = Imbia
+newtab-toast-thanks-for-reporting =
+    .message = Gràtzias de sa sinnalatzione.

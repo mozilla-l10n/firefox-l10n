@@ -1354,6 +1354,7 @@ collection-header2 = Impreu e collida de datos dae { -brand-short-name }
     .searchkeywords = telemetria
 preferences-collection-description = Nos impinnamus a ti donare sa possibilidade de seberare e regollimus isceti is datos mìnimos pro megiorare { -brand-product-name } pro totus.
 preferences-collection-privacy-notice = Bide s'avisu de riservadesa
+preferences-view-profiles = Ammustra totu is profilos
 collection-description = Chircamus de ti garantire sèberos e de regòllere isceti su chi nos serbit pro sa frunidura e su megioru de { -brand-short-name } pro chie chi siat. Pedimus semper su permissu in antis de retzire informatziones personales.
 collection-privacy-notice = Avisu de riservadesa
 collection-health-report-telemetry-disabled = Non permitas prus a { -vendor-short-name } de caturare datos tècnicos e de interatzione. Totu is datos betzos ant a èssere cantzellados intro de 30 dies.
