@@ -109,3 +109,5 @@ webext-site-perms-midi-sysex = Truy cập thiết bị MIDI với hỗ trợ Sys
 
 ## Colorway theme migration
 
+webext-colorway-theme-migration-notification-message = <b>Chủ đề phối màu của bạn đã bị xóa.</b> { -brand-shorter-name } đã cập nhật bộ sưu tập phối màu. Bạn có thể tìm thấy phiên bản mới nhất trên trang web tiện ích.
+webext-colorway-theme-migration-notification-button = Nhận các phối màu được cập nhật

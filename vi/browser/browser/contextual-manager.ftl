@@ -290,3 +290,9 @@ contextual-manager-passwords-discard-changes-heading-and-message =
     .message = Những thay đổi của bạn sẽ không được lưu.
 contextual-manager-passwords-discard-changes-close-button = Đóng
 contextual-manager-passwords-discard-changes-go-back-button = Quay lại
+#   $total (number) - Total number of passwords
+contextual-manager-passwords-remove-all-passwords-checkbox =
+    { $total ->
+        [1] Đúng, xóa mật khẩu
+       *[other] Đúng, xóa các mật khẩu
+    }

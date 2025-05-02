@@ -78,10 +78,16 @@ sidebar-context-menu-remove-extension =
     .label = Xoá tiện ích
 sidebar-context-menu-report-extension =
     .label = Báo cáo tiện ích
+sidebar-context-menu-open-in-tab =
+    .label = Mở trong thẻ mới
+sidebar-context-menu-open-in-container-tab =
+    .label = Mở trong thẻ ngăn chứa mới
 sidebar-context-menu-open-in-window =
     .label = Mở trong cửa sổ mới
 sidebar-context-menu-open-in-private-window =
     .label = Mở trong cửa sổ riêng tư mới
+sidebar-context-menu-forget-site =
+    .label = Xóa toàn bộ dữ liệu cho trang web…
 sidebar-context-menu-bookmark-tab =
     .label = Đánh dấu thẻ…
 sidebar-context-menu-copy-link =
@@ -101,6 +107,10 @@ sidebar-context-menu-close-remote-tab =
 
 sidebar-history-context-menu-delete-page =
     .label = Xóa khỏi lịch sử
+sidebar-history-context-menu-delete-page-2 =
+    .label = Xóa trang từ lịch sử
+sidebar-history-context-menu-bookmark-page =
+    .label = Đánh dấu trang…
 
 ## Labels for sidebar menu items.
 

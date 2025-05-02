@@ -281,6 +281,15 @@ discopane-notice-recommendations2 =
         Một số trong những khuyến nghị được cá nhân hóa. Nó dựa trên khác
         tiện ích mở rộng mà bạn đã cài đặt, tùy chọn hồ sơ và thống kê sử dụng.
 discopane-notice-learn-more = Tìm hiểu thêm
+# Notice for the colorway theme removal
+colorway-removal-notice-message =
+    .heading = Chủ đề phối màu của bạn đã bị xóa.
+    .message =
+        { -brand-product-name } đã cập nhật bộ sưu tập phối màu của mình.
+        Chúng tôi đã xóa phiên bản cũ từ danh sách “Chủ đề đã lưu” của bạn.
+        Nhận phiên bản mới trên trang tiện ích.
+colorway-removal-notice-learn-more = Tìm hiểu thêm
+colorway-removal-notice-button = Nhận chủ đề phối màu được cập nhật
 privacy-policy = Chính sách riêng tư
 # Refers to the author of an add-on, shown below the name of the add-on.
 # Variables:

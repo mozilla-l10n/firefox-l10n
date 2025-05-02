@@ -135,6 +135,9 @@ genai-onboarding-lechat-learn = Tìm hiểu thêm về Le Chat
 genai-onboarding-select-header = Chọn văn bản để xem đề xuất
 genai-onboarding-select-description = Khi bạn chọn văn bản, chúng tôi sẽ đề xuất lời nhắc mà bạn có thể gửi tới chatbot. Bạn cũng có thể viết theo lời nhắc của riêng bạn.
 genai-onboarding-select-primary = Bắt đầu chat
+genai-chatbot-contextual-title = Sử dụng chatbot AI mà không cần chuyển đổi thẻ
+genai-chatbot-contextual-subtitle = Trò chuyện và duyệt song song khi bạn thêm chatbot AI trong thanh lề của { -brand-short-name }.
+genai-chatbot-contextual-button = Chọn một chatbot
 
 ## Chatbot onboarding choices
 ## These describe features/capabilities of chatbot providers. These are not buttons/actions.
@@ -168,3 +171,11 @@ genai-model-optin-cancel =
 
 ## Link previews
 
+# ‘min’ is short for “minute”
+# ‘mins’ is short for “minutes”
+# An estimate for how long it takes to read an article,
+# expressed as a range covering both slow and fast readers.
+# Variables:
+#   $rangePlural (String): The plural category of the range, using the same set as for numbers.
+#   $range (String): The range of minutes as a localised string. Examples: "3-7", "~1".
+link-preview-reading-time = { $range } phút để đọc

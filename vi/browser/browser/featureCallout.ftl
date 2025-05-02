@@ -68,12 +68,41 @@ split-dismiss-button-default-label =
 
 ## Login Status Advisory Callout (points to the account icon)
 
+# The 'account icon' is the toolbar button with a 'profile' icon of a human
+# head/shoulders. It's for dealing with your Mozilla account. When hovering the
+# icon, the tooltip says 'Account'.
+login-status-advisory-title = Bạn đã đăng xuất. Nhấp vào biểu tượng tài khoản để đăng nhập.
 
 ## Bookmarks toolbar callout strings
 
+bookmarks-toolbar-callout-1-title = Thêm trang web này vào thanh dấu trang của bạn?
+bookmarks-toolbar-callout-1-subtitle = Dấu trang của bạn sẽ được lưu ngay bên dưới thanh địa chỉ để truy cập nhanh.
+bookmarks-toolbar-callout-1-primary-button-label = Thêm dấu trang
+bookmarks-toolbar-callout-1-secondary-button-label = Không, cảm ơn
+# Visible if user adds a bookmark in callout 1, bookmarks toolbar is set to always show when this message renders
+bookmarks-toolbar-callout-2a-title = Dễ dàng thêm nhiều dấu trang hơn
+bookmarks-toolbar-callout-2a-subtitle = Bạn có thể kéo và thả các thẻ ở đây để dễ dàng truy cập vào nhiều trang web yêu thích của mình hơn.
+bookmarks-toolbar-callout-2a-primary-button-label = Đã hiểu
+# Reverts the bookmarks toolbar to the default setting
+bookmarks-toolbar-callout-2a-secondary-button-label = Ẩn thanh công cụ
+# Visible if user declines to add a bookmark in callout 1, bookmarks toolbar is set to always show when this message renders
+bookmarks-toolbar-callout-2b-title = Luôn hiện thanh dấu trang của bạn?
+bookmarks-toolbar-callout-2b-subtitle = Bạn có thể thêm các trang web khác mà bạn thường xuyên truy cập. Chỉ cần kéo và thả các thẻ ở đây để giữ các trang web yêu thích trong tầm tay.
+bookmarks-toolbar-callout-2b-primary-button-label = Luôn hiện
+# Reverts the bookmarks toolbar to the default setting
+bookmarks-toolbar-callout-2b-secondary-button-label = Không, cảm ơn
 
 ## Perplexity callout strings
 
+perplexity-callout-theme-1-title = Bạn cần câu trả lời đúng ngay lập tức?
+perplexity-callout-theme-2-title = Hãy thử Perplexity: một cách mới để tìm kiếm
+perplexity-callout-theme-1-subtitle-1 = Hãy thử Perplexity. Chọn nó từ nút tìm kiếm khi bạn muốn có câu trả lời đầy đủ kèm theo nguồn.
+perplexity-callout-theme-1-subtitle-2 = Đặt câu hỏi. Nhận câu trả lời đầy đủ, được trích dẫn rõ ràng. Để dùng thử Perplexity, hãy chọn nó từ nút tìm kiếm.
+perplexity-callout-theme-2-subtitle-1 = Hãy hỏi Perplexity. Bạn sẽ nhận được câu trả lời đầy đủ kèm theo nguồn.
+perplexity-callout-theme-2-subtitle-2 = Đặt câu hỏi. Nhận câu trả lời đầy đủ và được trích dẫn rõ ràng.
+perplexity-callout-primary-label = Hỏi Perplexity
+perplexity-callout-secondary-label-1 = Bỏ qua
+perplexity-callout-secondary-label-2 = Đã hiểu
 
 ## Sidebar Strings
 
