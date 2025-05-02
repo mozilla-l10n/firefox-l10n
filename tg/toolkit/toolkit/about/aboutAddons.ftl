@@ -279,7 +279,12 @@ discopane-notice-recommendations2 =
         Баъзе аз ин тавсияҳо шахсӣ карда шудаанд. Онҳо дар омори истифодабарӣ, бартариҳои
         профил ва васеъшавиҳои дигаре, ки шумо насб кардед, асос меёбанд.
 discopane-notice-learn-more = Маълумоти бештар
+# Notice for the colorway theme removal
+colorway-removal-notice-message =
+    .heading = Мавзуъҳои нақшу нигори шумо тоза карда шудаанд.
+    .message = «{ -brand-product-name }» маҷмуаи нақшу нигорҳоро нав кард. Мо версия(ҳои) куҳнаро аз рӯйхати «Мавзуъҳои нигоҳдошташуда»-и шумо тоза кардем. Шаклҳои нави онҳоро дар сомонаи ҷузъҳои иловагӣ гиред.
 colorway-removal-notice-learn-more = Маълумоти бештар
+colorway-removal-notice-button = Мавзуъҳои нақшу нигори навшударо гиред
 privacy-policy = Сиёсати махфият
 # Refers to the author of an add-on, shown below the name of the add-on.
 # Variables:
