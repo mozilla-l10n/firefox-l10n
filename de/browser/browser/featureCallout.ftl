@@ -75,6 +75,22 @@ login-status-advisory-title = Sie sind abgemeldet. Klicken Sie auf das Kontosymb
 
 ## Bookmarks toolbar callout strings
 
+bookmarks-toolbar-callout-1-title = Diese Website zur Lesezeichen-Symbolleiste hinzufügen?
+bookmarks-toolbar-callout-1-subtitle = Ein Lesezeichen wird direkt unter der Adressleiste gespeichert, damit Sie schnell darauf zugreifen können.
+bookmarks-toolbar-callout-1-primary-button-label = Lesezeichen hinzufügen
+bookmarks-toolbar-callout-1-secondary-button-label = Nein, danke
+# Visible if user adds a bookmark in callout 1, bookmarks toolbar is set to always show when this message renders
+bookmarks-toolbar-callout-2a-title = Einfach weitere Lesezeichen hinzufügen
+bookmarks-toolbar-callout-2a-subtitle = Ziehen Sie Tabs hierher und legen Sie sie ab, um weitere Ihrer Lieblings-Webseiten griffbereit zu haben.
+bookmarks-toolbar-callout-2a-primary-button-label = Verstanden
+# Reverts the bookmarks toolbar to the default setting
+bookmarks-toolbar-callout-2a-secondary-button-label = Symbolleiste verstecken
+# Visible if user declines to add a bookmark in callout 1, bookmarks toolbar is set to always show when this message renders
+bookmarks-toolbar-callout-2b-title = Lesezeichen-Symbolleiste geöffnet lassen?
+bookmarks-toolbar-callout-2b-subtitle = Fügen Sie andere Webseiten hinzu, die Sie häufiger besuchen. Ziehen Sie Tabs hierher und legen Sie sie ab, um Ihre Lieblings-Webseiten griffbereit zu haben.
+bookmarks-toolbar-callout-2b-primary-button-label = Offen lassen
+# Reverts the bookmarks toolbar to the default setting
+bookmarks-toolbar-callout-2b-secondary-button-label = Nein, danke
 
 ## Perplexity callout strings
 
