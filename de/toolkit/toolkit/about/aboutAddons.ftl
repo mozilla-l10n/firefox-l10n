@@ -281,6 +281,15 @@ discopane-notice-recommendations2 =
         Einige dieser Empfehlungen sind personalisiert, da sie auf Ihren bereits installierten Erweiterungen,
         Profileinstellungen und Nutzungsstatistiken basieren.
 discopane-notice-learn-more = Weitere Informationen
+# Notice for the colorway theme removal
+colorway-removal-notice-message =
+    .heading = Ihre Farbwelt-Themes wurden entfernt.
+    .message =
+        { -brand-product-name } hat die Farbwelt-Sammlung aktualisiert. Wir haben
+        alte Versionen aus Ihrer Liste "Gespeicherte Themes" entfernt. Holen Sie sich
+        neue Versionen auf der Add-ons-Seite.
+colorway-removal-notice-learn-more = Weitere Informationen
+colorway-removal-notice-button = Aktualisierte Farbwelt-Themes holen
 privacy-policy = Datenschutzrichtlinie
 # Refers to the author of an add-on, shown below the name of the add-on.
 # Variables:

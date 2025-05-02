@@ -121,4 +121,5 @@ webext-site-perms-midi-sysex = Auf MIDI-Geräte mit SysEx-Unterstützung zugreif
 
 ## Colorway theme migration
 
+webext-colorway-theme-migration-notification-message = <b>Ihr Farbwelten-Theme wurde entfernt.</b> { -brand-shorter-name } hat seine Farbwelten-Sammlung aktualisiert. Sie finden die neuesten Versionen auf der Add-ons-Website.
 webext-colorway-theme-migration-notification-button = Aktualisierte Farbwelten holen
