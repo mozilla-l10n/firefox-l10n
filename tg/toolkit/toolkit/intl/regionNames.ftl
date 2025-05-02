@@ -7,7 +7,7 @@
 ###         update the list in mozIntl.js.
 
 region-name-ad = Андорра
-region-name-ae = Амороти Муттаҳидаи Араб
+region-name-ae = Аморати Муттаҳидаи Араб
 region-name-af = Афгонистон
 region-name-ag = Антигуа ва Барбуда
 region-name-ai = Ангилла
