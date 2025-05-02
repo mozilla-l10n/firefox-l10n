@@ -121,6 +121,7 @@ deniedPortAccess-title = Нишонии ҷорӣ маҳдуд шудааст
 # "Hmm" is a sound made when considering or puzzling over something.
 # You don't have to include it in your translation if your language does not have a written word like this.
 dnsNotFound-title = Мутаассифона, ин сомона кушода нашуд.
+internet-connection-offline-title = Чунин ба назар мерасад, ки дар пайвасти Интернети шумо мушкилӣ ба миён омад.
 dns-not-found-trr-only-title2 = Ҳавфи амният ҳангоми ҷустуҷӯи ин домен имконпазир аст
 dns-not-found-native-fallback-title2 = Ҳавфи амният ҳангоми ҷустуҷӯи ин домен имконпазир аст
 fileNotFound-title = Файл ёфт нашуд

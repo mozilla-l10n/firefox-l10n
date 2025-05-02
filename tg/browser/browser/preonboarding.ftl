@@ -10,6 +10,7 @@ preonboarding-subtitle = Бо идома додан, шумо бо Шартҳо�
 preonboarding-primary-cta = Тасдиқ кунед ва идома диҳед
 # Labels for header style button that toggles showing the terms of use, privacy notice, and data preferences checklist
 preonboarding-manage-and-read-header = Танзимоти ҷамъоварии маълумотро идора кунед ва ҳуҷҷатҳои моро дар бахши «Шартҳои истифода» ва «Огоҳномаи махфият» мутолиа намоед.
+preonboarding-manage-and-read-header-v2 = «Шартҳои истифода» ва «Огоҳномаи махфият»-ро хонед. Танзимоти иловагиро идора намоед.
 # Label for header style button that toggles showing the Terms of Use
 preonboarding-terms-of-use-header-button-title = Шартҳои моро барои истифодабарӣ хонед
 # Label for header style button that toggles showing the Privacy Notice
