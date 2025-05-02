@@ -405,6 +405,8 @@ quickactions-cmd-screenshot2 = captura de pantalla, hacer una captura de pantall
 quickactions-cmd-screenshot = captura de pantalla
 # Opens about:preferences
 quickactions-settings2 = Administrar preferencias
+# "manage" should match the corresponding command, which is “Manage settings” in English.
+quickactions-cmd-settings2 = ajustes, preferencias, opciones, administrar
 quickactions-cmd-settings = ajustes, preferencias, opciones
 # Opens about:addons page in the themes section
 quickactions-themes = Administrar temas
