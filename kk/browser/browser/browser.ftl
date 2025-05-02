@@ -344,6 +344,10 @@ search-one-offs-actions =
 
 # Opens the about:addons page in the home / recommendations section
 quickactions-addons = Қосымшаларды қарау
+# In English we provide multiple spellings for "add-ons". If that's not
+# applicable to your language, only use the correct spelling (don't repeat the
+# same word).
+quickactions-cmd-addons3 = extensions, themes, addons, add-ons, кеңейтулер, темалар, қосымшалар
 quickactions-cmd-addons2 = қосымшалар
 # Opens the bookmarks library window
 quickactions-bookmarks2 = Бетбелгілерді басқару
@@ -384,6 +388,7 @@ quickactions-print2 = Бетті баспаға шығару
 quickactions-cmd-print = баспаға шығару
 # Opens the print dialog at the save to PDF option
 quickactions-savepdf = Парақты PDF ретінде сақтау
+quickactions-cmd-savepdf2 = pdf, save page, бетті сақтау
 quickactions-cmd-savepdf = pdf
 # Opens a new private browsing window
 quickactions-private2 = Жекелік шолу терезесін ашу
@@ -400,6 +405,8 @@ quickactions-cmd-screenshot2 = screenshot, take a screenshot, скриншот, 
 quickactions-cmd-screenshot = скриншот
 # Opens about:preferences
 quickactions-settings2 = Баптауларды басқару
+# "manage" should match the corresponding command, which is “Manage settings” in English.
+quickactions-cmd-settings2 = settings, preferences, options, manage, баптаулар, қалаулар, опциялар, басқару
 quickactions-cmd-settings = баптаулар, қалаулар, опциялар
 # Opens about:addons page in the themes section
 quickactions-themes = Темаларды басқару
@@ -1250,3 +1257,4 @@ file-picker-crashed-show-in-folder =
 
 ## Onboarding Finish Setup checklist
 
+onboarding-checklist-button-label = Орнатуды аяқтау
