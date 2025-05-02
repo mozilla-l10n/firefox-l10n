@@ -94,6 +94,10 @@ bookmarks-toolbar-callout-2b-secondary-button-label = Не, ташаккур
 
 ## Perplexity callout strings
 
+perplexity-callout-theme-1-title = Дарҳол ҷавоби дуруст лозим аст?
+perplexity-callout-theme-2-title = Аз «Perplexity» истифода баред: тарзи нав барои ҷустуҷӯ
+perplexity-callout-theme-1-subtitle-1 = Кӯшиш кунед, ки аз «Perplexity» истифода баред. Вақте ки ҷавобҳои пурра бо манбаъҳо лозим мешаванд, ин имконро аз тугмаи ҷустуҷӯ интихоб кунед.
+perplexity-callout-theme-1-subtitle-2 = Саволҳо диҳед. Ҷавобҳои пурра бо истинодҳои дақиқ гиред. Барои санҷидани «Perplexity», онро аз тугмаи ҷустуҷӯ интихоб намоед.
 perplexity-callout-secondary-label-1 = Нодида гузарондан
 perplexity-callout-secondary-label-2 = Фаҳмидам
 
