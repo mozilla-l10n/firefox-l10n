@@ -344,6 +344,10 @@ search-one-offs-actions =
 
 # Opens the about:addons page in the home / recommendations section
 quickactions-addons = Намоиши ҷузъҳои иловагӣ
+# In English we provide multiple spellings for "add-ons". If that's not
+# applicable to your language, only use the correct spelling (don't repeat the
+# same word).
+quickactions-cmd-addons3 = васеъшавиҳо, мавзуъҳо, ҷузъҳои иловагӣ, ҷузъи иловагӣ, extensions, themes, addons, add-ons
 quickactions-cmd-addons2 = ҷузъҳои иловагӣ
 # Opens the bookmarks library window
 quickactions-bookmarks2 = Идоракунии хатбаракҳо
@@ -384,6 +388,7 @@ quickactions-print2 = Чоп кардани саҳифа
 quickactions-cmd-print = чоп кардан
 # Opens the print dialog at the save to PDF option
 quickactions-savepdf = Нигоҳ доштани саҳифа ҳамчун PDF
+quickactions-cmd-savepdf2 = pdf, нигоҳ доштани саҳифа
 quickactions-cmd-savepdf = pdf
 # Opens a new private browsing window
 quickactions-private2 = Кушодани равзанаи хусусӣ
@@ -400,6 +405,8 @@ quickactions-cmd-screenshot2 = акси экран, гирифтани акси 
 quickactions-cmd-screenshot = акси экран
 # Opens about:preferences
 quickactions-settings2 = Идоракунии танзимот
+# "manage" should match the corresponding command, which is “Manage settings” in English.
+quickactions-cmd-settings2 = танзимот, хусусиятҳо, имконот, идоракунӣ
 quickactions-cmd-settings = танзимот, хусусиятҳо, имконот
 # Opens about:addons page in the themes section
 quickactions-themes = Идоракунии мавзуъҳо
@@ -1250,3 +1257,4 @@ file-picker-crashed-show-in-folder =
 
 ## Onboarding Finish Setup checklist
 
+onboarding-checklist-button-label = Ба анҷом расонидани танзимот
