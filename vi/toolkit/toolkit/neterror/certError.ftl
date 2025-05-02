@@ -121,6 +121,7 @@ deniedPortAccess-title = Địa chỉ này đã bị chặn
 # "Hmm" is a sound made when considering or puzzling over something.
 # You don't have to include it in your translation if your language does not have a written word like this.
 dnsNotFound-title = Hmm. Chúng tôi gặp khó khăn khi tìm trang web đó.
+internet-connection-offline-title = Có vẻ như đã xảy ra sự cố với kết nối Internet của bạn.
 dns-not-found-trr-only-title2 = Rủi ro bảo mật có thể xảy ra khi tra cứu tên miền này
 dns-not-found-native-fallback-title2 = Rủi ro bảo mật có thể xảy ra khi tra cứu tên miền này
 fileNotFound-title = Không tìm thấy tập tin

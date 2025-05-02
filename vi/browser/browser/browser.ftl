@@ -344,6 +344,10 @@ search-one-offs-actions =
 
 # Opens the about:addons page in the home / recommendations section
 quickactions-addons = Xem tiện tích
+# In English we provide multiple spellings for "add-ons". If that's not
+# applicable to your language, only use the correct spelling (don't repeat the
+# same word).
+quickactions-cmd-addons3 = tiện ích, chủ đề, tien ich, chu de, tiện ích mở rộng, tien ich mo rong
 quickactions-cmd-addons2 = xem tiện ích, xem tien ich, tiện ích, tien ich, extensions, add-ons
 # Opens the bookmarks library window
 quickactions-bookmarks2 = Quản lý dấu trang
@@ -384,6 +388,7 @@ quickactions-print2 = In trang
 quickactions-cmd-print = in, in trang, print
 # Opens the print dialog at the save to PDF option
 quickactions-savepdf = Lưu trang dưới dạng PDF
+quickactions-cmd-savepdf2 = pdf, lưu trang, luu trang
 quickactions-cmd-savepdf = pdf, save as pdf
 # Opens a new private browsing window
 quickactions-private2 = Mở cửa sổ riêng tư
@@ -400,6 +405,8 @@ quickactions-cmd-screenshot2 = chụp màn hình, chup man hinh, ảnh chụp m�
 quickactions-cmd-screenshot = chụp ảnh màn hình, chup anh man hinh
 # Opens about:preferences
 quickactions-settings2 = Quản lý cài đặt
+# "manage" should match the corresponding command, which is “Manage settings” in English.
+quickactions-cmd-settings2 = cài đặt, tùy chọn, tùy chỉnh, quản lý, quản lí, cai dat, tuy chon, tuy chinh, quan ly, quan li
 quickactions-cmd-settings = cài đặt, tùy chọn, thiết lập, cai dat, tuy chon, thiet lap
 # Opens about:addons page in the themes section
 quickactions-themes = Quản lý chủ đề
@@ -1183,6 +1190,10 @@ popup-notification-addon-install-unsigned =
     .value = (Chưa xác thực)
 popup-notification-xpinstall-prompt-learn-more = Tìm hiểu thêm về cách cài đặt tiện ích một cách an toàn
 popup-notification-xpinstall-prompt-block-url = Xem chi tiết
+# Note: Access key is set to p to match "private" in the corresponding localized label.
+popup-notification-addon-privatebrowsing-checkbox2 =
+    .label = Cho phép tiện ích chạy trong cửa sổ riêng tư
+    .accesskey = p
 # Note: Access key is set to P to match "Private" in the corresponding localized label.
 popup-notification-addon-privatebrowsing-checkbox =
     .label = Chạy trong cửa sổ riêng tư
@@ -1236,3 +1247,4 @@ file-picker-crashed-show-in-folder =
 
 ## Onboarding Finish Setup checklist
 
+onboarding-checklist-button-label = Hoàn tất thiết lập

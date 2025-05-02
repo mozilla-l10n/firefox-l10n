@@ -528,6 +528,13 @@ newtab-custom-wallpaper-cta = Thử ngay
 
 ## Strings for download mobile highlight
 
+newtab-download-mobile-highlight-title = Tải xuống { -brand-product-name } dành cho di động
+# "Scan the code" refers to scanning the QR code that appears above the body text that leads to Firefox for mobile download.
+newtab-download-mobile-highlight-body-variant-a = Quét mã để duyệt web an toàn khi đang di chuyển.
+newtab-download-mobile-highlight-body-variant-b = Tiếp tục từ nơi bạn dừng lại khi đồng bộ hóa các thẻ, mật khẩu và nhiều thứ khác.
+newtab-download-mobile-highlight-body-variant-c = Bạn có biết bạn có thể mang theo { -brand-product-name } khi đang di chuyển? Cùng một trình duyệt. Trong túi của bạn.
+newtab-download-mobile-highlight-image =
+    .aria-label = Mã QR để tải xuống { -brand-product-name } dành cho di động
 
 ## Strings for reporting ads and content
 
@@ -549,3 +556,5 @@ newtab-report-content-spam-misleading =
     .label = Spam hoặc gây hiểu lầm
 newtab-report-cancel = Hủy bỏ
 newtab-report-submit = Gửi
+newtab-toast-thanks-for-reporting =
+    .message = Cảm ơn bạn đã báo cáo điều này.
