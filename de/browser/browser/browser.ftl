@@ -1196,6 +1196,10 @@ popup-notification-addon-install-unsigned =
     .value = (nicht verifiziert)
 popup-notification-xpinstall-prompt-learn-more = Weitere Informationen über das sichere Installieren von Add-ons
 popup-notification-xpinstall-prompt-block-url = Details ansehen
+# Note: Access key is set to p to match "private" in the corresponding localized label.
+popup-notification-addon-privatebrowsing-checkbox2 =
+    .label = Ausführen der Erweiterung in privaten Fenstern erlauben
+    .accesskey = p
 # Note: Access key is set to P to match "Private" in the corresponding localized label.
 popup-notification-addon-privatebrowsing-checkbox =
     .label = In privaten Fenstern ausführen
@@ -1253,3 +1257,4 @@ file-picker-crashed-show-in-folder =
 
 ## Onboarding Finish Setup checklist
 
+onboarding-checklist-button-label = Einrichtung abschließen

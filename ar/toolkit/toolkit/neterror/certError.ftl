@@ -87,6 +87,19 @@ fp-certerror-bad-domain-what-can-you-do-body = على الأرجح لا شيء،
 fp-certerror-unknown-issuer-why-dangerous-body = هناك مشكلة في شهادة الموقع. من المحتمل أن يكون هناك مُخترق يحاول انتحال هوية الموقع. تستخدم المواقع شهادات صادرة عن سُلطة الشهادات لإثبات هويتها الحقيقية. لا يثق { -brand-short-name } بهذا الموقع لأننا لا نستطيع تحديد مُصدّر الشهادة، أو لأنها موقعة ذاتيًا، أو لأن الموقع لا يُرسل شهادات وسيطة نثق بها.
 # This string appears after the following string: "What can you do about it?" (fp-certerror-what-can-you-do)
 fp-certerror-unknown-issuer-what-can-you-do-body = على الأرجح لا يوجد شيء، فمن المرجح وجود مشكلة في الموقع نفسه. ولكن إذا كنت تستخدم شبكة شركة، فقد يكون لدى فريق الدعم لديك معلومات إضافية. إذا كنت تستخدم برنامج مضاد الفيروسات، فقد يلزم تهيئته للعمل مع { -brand-short-name }.
+# This string appears after the following string: "What makes the site look dangerous?" (fp-certerror-why-site-dangerous)
+fp-certerror-self-signed-why-dangerous-body = بسبب وجود مشكلة في شهادة الموقع. تستخدم المواقع شهادات صادرة عن سُلطة الشهادات لإثبات هويتها الحقيقية. شهادة هذا الموقع موقعة ذاتيًا، ولم تُصدّر عن سلطة الشهادات معترف بها، لذا لا نثق بها افتراضيًا.
+# This string appears after the following string: "What can you do about it?" (fp-certerror-what-can-you-do)
+fp-certerror-self-signed-what-can-you-do-body = ليس كثيرًا. من المرجح أن هناك مشكلة في الموقع نفسه.
+fp-certerror-self-signed-important-note = ملاحظة هامة: إذا كنت تحاول زيارة هذا الموقع عبر شبكة داخلية خاصة بشركتك، فقد يستخدم فريق تقنية المعلومات لديك شهادات ذاتية التوقيع. يمكنهم مساعدتك في التحقق من صحتها.
+# This string appears after the following string: "What makes the site look dangerous?" (fp-certerror-why-site-dangerous)
+# Variables:
+#   $date (Date) - Certificate expiration date.
+fp-certerror-expired-why-dangerous-body = تستخدم المواقع الشهادات الصادرة عن سُلطة الشهادات لإثبات أنها هي بالفعل من تدعي أنها كذلك. لا يثق { -brand-short-name } بهذا الموقع لأنه يبدو أن الشهادة انتهت صلاحيتها في { DATETIME($date, month: "numeric", day: "numeric", year: "numeric") }.
+# This string appears after the following string: "What can you do about it?" (fp-certerror-what-can-you-do)
+# Variables:
+#   $date (Date) - Clock date.
+fp-certerror-expired-what-can-you-do-body = ساعة جهازك مضبوطة على { DATETIME($date, month: "numeric", day: "numeric", year: "numeric") }. إذا كانت هذه القيمة صحيحة، فمن المرجح أن المشكلة الأمنية تكمن في الموقع نفسه. إذا كانت خاطئة، يمكنك تغييرها من إعدادات نظام جهازك.
 # Variables:
 #   $error (string) - NSS error code string that specifies type of cert error. e.g. unknown issuer, invalid cert, etc.
 fp-cert-error-code = رمز الخطأ: { $error }
