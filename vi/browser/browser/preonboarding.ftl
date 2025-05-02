@@ -10,6 +10,7 @@ preonboarding-subtitle = Bằng cách tiếp tục, bạn đồng ý với Đi�
 preonboarding-primary-cta = Xác nhận và tiếp tục
 # Labels for header style button that toggles showing the terms of use, privacy notice, and data preferences checklist
 preonboarding-manage-and-read-header = Quản lý cài đặt thu thập dữ liệu và đọc Điều khoản sử dụng và Thông báo về quyền riêng tư của chúng tôi
+preonboarding-manage-and-read-header-v2 = Đọc Điều khoản sử dụng và Thông báo về quyền riêng tư. Quản lý các cài đặt bổ sung.
 # Label for header style button that toggles showing the Terms of Use
 preonboarding-terms-of-use-header-button-title = Đọc điều khoản sử dụng của chúng tôi
 # Label for header style button that toggles showing the Privacy Notice
@@ -18,8 +19,10 @@ preonboarding-privacy-notice-header-button-title = Đọc thông báo về quy�
 preonboarding-manage-data-header-button-title = Quản lý dữ liệu chẩn đoán và tương tác
 # Labels for header style button that toggles showing the Terms of Use (Variant B)
 preonboarding-terms-of-use-header-button-title-b = Điều khoản sử dụng { -brand-product-name }
+preonboarding-terms-of-use-header-button-title-b-v2 = Điều khoản sử dụng
 # Labels for header style button that toggles showing the Privacy Notice (Variant B)
 preonboarding-privacy-notice-header-button-title-b = Thông báo về quyền riêng tư { -brand-product-name }
+preonboarding-privacy-notice-header-button-title-b-v2 = Thông báo về quyền riêng tư
 # Description under label for header style buttons
 preonboarding-header-button-description = Xem thêm
 # New user onboarding checklist
