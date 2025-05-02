@@ -120,3 +120,4 @@ webext-site-perms-midi-sysex = Дастрасӣ ба дастгоҳҳои MIDI �
 
 ## Colorway theme migration
 
+webext-colorway-theme-migration-notification-button = Нақшу нигори навшударо гиред
