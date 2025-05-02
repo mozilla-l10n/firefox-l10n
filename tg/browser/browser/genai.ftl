@@ -135,6 +135,9 @@ genai-onboarding-lechat-learn = Маълумоти бештар дар бора�
 genai-onboarding-select-header = Барои дидани пешниҳодҳо матнро интихоб намоед
 genai-onboarding-select-description = Вақте ки шумо матнро интихоб мекунед, мо пехниҳодҳоеро тавсия медиҳем, ки шумо метавонед ба чат-боти зеҳни сунъӣ ирсол кунед. Шумо, инчунин, метавонед дар пешниҳодҳо дархостҳои худро нависед.
 genai-onboarding-select-primary = Оғоз кардани чат
+genai-chatbot-contextual-title = Аз чат-боти зеҳни сунъӣ («AI») истифода баред — гузаштан аз варақа ба варақа лозим нест
+genai-chatbot-contextual-subtitle = Ҳангоми илова кардани чат-боти зеҳни сунъӣ «AI» дар навори ҷонибии «{ -brand-short-name }», метавонед ҳамзамон суҳбат кунед ва дар паҳлӯи он дар Интернет сомонаҳоро тамошо кунед.
+genai-chatbot-contextual-button = Чат-ботеро интихоб намоед
 
 ## Chatbot onboarding choices
 ## These describe features/capabilities of chatbot providers. These are not buttons/actions.
@@ -168,3 +171,15 @@ genai-model-optin-cancel =
 
 ## Link previews
 
+# ‘min’ is short for “minute”
+# ‘mins’ is short for “minutes”
+# An estimate for how long it takes to read an article,
+# expressed as a range covering both slow and fast readers.
+# Variables:
+#   $rangePlural (String): The plural category of the range, using the same set as for numbers.
+#   $range (String): The range of minutes as a localised string. Examples: "3-7", "~1".
+link-preview-reading-time =
+    { $rangePlural ->
+        [one] { $range } дақиқаи вақти хониш
+       *[other] { $range } дақиқаи вақти хониш
+    }
