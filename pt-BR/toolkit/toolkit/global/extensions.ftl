@@ -121,4 +121,5 @@ webext-site-perms-midi-sysex = Acessar dispositivos MIDI com suporte a SysEx
 
 ## Colorway theme migration
 
+webext-colorway-theme-migration-notification-message = <b>Seu tema de esquema de cores foi removido.</b> O { -brand-shorter-name } atualizou sua coleção de esquemas de cores. Você pode encontrar as versões mais recentes no site de extensões.
 webext-colorway-theme-migration-notification-button = Obtenha esquemas de cores atualizados
