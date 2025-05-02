@@ -122,3 +122,4 @@ webext-site-perms-midi-sysex = SysEx destekli MIDI cihazlarına erişebilir
 ## Colorway theme migration
 
 webext-colorway-theme-migration-notification-message = <b>Renk kuşağı temanız kaldırıldı.</b> { -brand-shorter-name } renk kuşakları koleksiyonu güncellendi. En son sürümleri eklenti sitesinde bulabilirsiniz.
+webext-colorway-theme-migration-notification-button = Güncellenen renk kuşaklarını indirin
