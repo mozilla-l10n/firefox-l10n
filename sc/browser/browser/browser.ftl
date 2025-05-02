@@ -196,6 +196,23 @@ urlbar-result-menu-learn-more-about-firefox-suggest =
 urlbar-result-menu-manage-firefox-suggest =
     .label = Gesti { -firefox-suggest-brand-name }
     .accesskey = G
+# Some urlbar suggestions show the user's approximate location as automatically
+# detected by Firefox (e.g., weather suggestions), and this menu item lets the
+# user tell Firefox that the location is not accurate. Typically the location
+# will be a city name, or a city name combined with the name of its parent
+# administrative region (e.g., a province, prefecture, or state).
+urlbar-result-menu-report-inaccurate-location =
+    .label = Sinnala una positzione non pretzisa
+urlbar-result-menu-show-less-frequently =
+    .label = Ammustra prus pagu a s’ispissu
+urlbar-result-menu-dont-show-weather-suggestions =
+    .label = No ammustres cussìgios de su tempus
+# A message shown in the urlbar when the user submits feedback on a suggestion
+# (e.g., it shows an inaccurate location, it's shown too often, etc.).
+urlbar-feedback-acknowledgment = Gràtzias de s’opinione tua
+# A message shown in the urlbar when the user dismisses weather suggestions.
+# Weather suggestions won't be shown at all anymore.
+urlbar-dismissal-acknowledgment-weather = Gràtzias de s’opinione tua. No as a bìdere prus cussìgios de su tempus.
 
 ## Prompts users to use the Urlbar when they open a new tab or visit the
 ## homepage of their default search engine.
@@ -327,6 +344,10 @@ search-one-offs-actions =
 
 # Opens the about:addons page in the home / recommendations section
 quickactions-addons = Ammustra is cumplementos
+# In English we provide multiple spellings for "add-ons". If that's not
+# applicable to your language, only use the correct spelling (don't repeat the
+# same word).
+quickactions-cmd-addons3 = estensiones, temas, cumplementos
 quickactions-cmd-addons2 = cumplementos
 # Opens the bookmarks library window
 quickactions-bookmarks2 = Gesti is sinnalibros
@@ -367,6 +388,7 @@ quickactions-print2 = Imprenta sa pàgina
 quickactions-cmd-print = imprenta
 # Opens the print dialog at the save to PDF option
 quickactions-savepdf = Sarva sa pàgina comente PDF
+quickactions-cmd-savepdf2 = pdf, sarva pàgina
 quickactions-cmd-savepdf = pdf
 # Opens a new private browsing window
 quickactions-private2 = Aberi una ventana privada
@@ -383,6 +405,8 @@ quickactions-cmd-screenshot2 = catura, faghe una catura, screenshot
 quickactions-cmd-screenshot = Catura de s'ischermu
 # Opens about:preferences
 quickactions-settings2 = Gesti sa cunfiguratzione
+# "manage" should match the corresponding command, which is “Manage settings” in English.
+quickactions-cmd-settings2 = cunfiguratziones, preferèntzias, optziones, gesti
 quickactions-cmd-settings = cunfiguratziones, preferèntzias, optziones
 # Opens about:addons page in the themes section
 quickactions-themes = Gesti is temas
@@ -1172,6 +1196,10 @@ popup-notification-addon-install-unsigned =
     .value = (No averiguadu)
 popup-notification-xpinstall-prompt-learn-more = Àteras informatziones subra de s'installatzione segura de cumplementos
 popup-notification-xpinstall-prompt-block-url = Ammustra detàllios
+# Note: Access key is set to p to match "private" in the corresponding localized label.
+popup-notification-addon-privatebrowsing-checkbox2 =
+    .label = Permite chi custa estensione funtzionet in ventanas privadas
+    .accesskey = p
 # Note: Access key is set to P to match "Private" in the corresponding localized label.
 popup-notification-addon-privatebrowsing-checkbox =
     .label = Imprea in is ventanas privadas
@@ -1229,3 +1257,4 @@ file-picker-crashed-show-in-folder =
 
 ## Onboarding Finish Setup checklist
 
+onboarding-checklist-button-label = Cumpleta sa cunfiguratzione
