@@ -344,6 +344,10 @@ search-one-offs-actions =
 
 # Opens the about:addons page in the home / recommendations section
 quickactions-addons = Add-ons anzeigen
+# In English we provide multiple spellings for "add-ons". If that's not
+# applicable to your language, only use the correct spelling (don't repeat the
+# same word).
+quickactions-cmd-addons3 = Erweiterungen, Themes, Add-ons
 quickactions-cmd-addons2 = Add-ons
 # Opens the bookmarks library window
 quickactions-bookmarks2 = Lesezeichen verwalten
@@ -384,6 +388,7 @@ quickactions-print2 = Seite drucken
 quickactions-cmd-print = Drucken
 # Opens the print dialog at the save to PDF option
 quickactions-savepdf = Seite als PDF speichern
+quickactions-cmd-savepdf2 = pdf, Seite speichern
 quickactions-cmd-savepdf = pdf
 # Opens a new private browsing window
 quickactions-private2 = Privates Fenster öffnen
@@ -400,6 +405,8 @@ quickactions-cmd-screenshot2 = Bildschirmfoto, Bildschirmfoto machen
 quickactions-cmd-screenshot = Bildschirmfoto
 # Opens about:preferences
 quickactions-settings2 = Einstellungen verwalten
+# "manage" should match the corresponding command, which is “Manage settings” in English.
+quickactions-cmd-settings2 = Einstellungen, Präferenzen, Optionen, verwalten
 quickactions-cmd-settings = Einstellungen, Präferenzen, Optionen
 # Opens about:addons page in the themes section
 quickactions-themes = Themes verwalten
