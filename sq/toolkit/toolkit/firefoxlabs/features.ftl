@@ -33,3 +33,14 @@ experimental-features-custom-wallpaper-description = Ngarkoni sfondin tuaj, ose 
 # Link Previews with AI
 experimental-features-link-previews =
     .label = Paraparje lidhjesh
+experimental-features-link-previews-description =
+    { PLATFORM() ->
+        [macos] Që të mësoni më tepër mbi një faqe, para se të klikoni, kalojeni kursorin sipër një lidhjeje dhe shtypni Shift (⇧) plus Option (⌥) ose Alt. Paraparjet mund të përfshijnë hollësi të tilla si titulli dhe kohë leximi. Për disa faqe, IA mundet edhe të lexojë tekstin e faqes dhe të përftojë pikat kyçe. IA është optimizuar për të lexuar dhe prodhuar tekst në anglisht. Që t’i jepet përparësi privatësisë tuaj, IA xhiron lokalisht në kompjuterin tuaj. <a data-l10n-name="connect">Jepni përshtypje</a>
+       *[other] Që të mësoni më tepër mbi një faqe, para se të klikoni, kalojeni kursorin sipër një lidhjeje dhe shtypnni Shift + Alt. Paraparjet mund të përfshijnë hollësi të tilla si titulli dhe kohë leximi. Për disa faqe, IA mundet edhe të lexojë tekstin e faqes dhe të përftojë pikat kyçe. IA është optimizuar për të lexuar dhe prodhuar tekst në anglisht. Që t’i jepet përparësi privatësisë tuaj, IA xhiron lokalisht në kompjuterin tuaj. <a data-l10n-name="connect">Jepni përshtypje</a>
+    }
+# This version of the link previews description does not mention AI.
+experimental-features-link-previews-description-no-ai =
+    { PLATFORM() ->
+        [macos] Që të mësoni më tepër mbi një faqe, para se të klikoni, kalojeni kursorin sipër një lidhjeje dhe shtypnni Shift + Alt (⇧) plus Option (⌥) ose Alt. Paraparjet mund të përfshijnë hollësi të tilla si titulli dhe kohë leximi. <a data-l10n-name="connect">Jepni përshtypje</a>
+       *[other] Që të mësoni më tepër mbi një faqe, para se të klikoni, kalojeni kursorin sipër një lidhjeje dhe shtypnni Shift + Alt. Paraparjet mund të përfshijnë hollësi të tilla si titulli dhe kohë leximi. <a data-l10n-name="connect">Jepni përshtypje</a>
+    }

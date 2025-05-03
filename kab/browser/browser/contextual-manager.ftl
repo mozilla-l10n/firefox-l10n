@@ -194,9 +194,21 @@ contextual-manager-alert-icon =
 contextual-manager-origin-login-line =
     .aria-label = Rzu ɣer { $url }
     .title = Rzu ɣer { $url }
+contextual-manager-password-login-line =
+    .aria-label = Nɣel awal n uεeddi
+    .title = Nɣel awal n uεeddi
+contextual-manager-edit-login-button = Ẓreg
+    .tooltiptext = Ẓreg awal n uεeddi
+contextual-manager-show-password-button =
+    .aria-label = Sken awal n uεeddi
+    .title = Sken awal n uεeddi
+contextual-manager-hide-password-button =
+    .aria-label = Ffer awal n uεeddi
+    .title = Ffer awal n uεeddi
 # The message displayed when the search text does not match any of the user's saved logins.
 contextual-manager-passwords-no-passwords-found-header =
     .heading = Ulac awalen uffiren i yettwafen
+contextual-manager-passwords-no-passwords-found-message = Ulac awalen n uεeddi i yettwafen. Nadi s wawal niḍen.
 
 ## When the user has no saved passwords, we display the following messages to inform the user they can save
 ## their passwords safely and securely in Firefox:
