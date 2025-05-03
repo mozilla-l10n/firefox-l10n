@@ -94,6 +94,10 @@ bookmarks-toolbar-callout-2b-secondary-button-label = Ně, źěkujom se
 
 ## Perplexity callout strings
 
+perplexity-callout-theme-1-title = Trjebaśo ned pšawe wótegrono?
+perplexity-callout-theme-2-title = Wopytajśo Perplexity: nowa wašnja pytanja
+perplexity-callout-theme-1-subtitle-1 = Wopytajśo Perplexity. Wubjeŕśo jen z pytańskego tłocaška, gaž cośo dopołnje wótegrona dostaś, inkluziwnje žrědła.
+perplexity-callout-theme-1-subtitle-2 = Stajśo pšašanja. Dostańśo dopołne, derje citěrowane wótegrona. Aby Perplexity wopytał, wubjeŕśo jen z pytańskego tłocaška.
 
 ## Sidebar Strings
 

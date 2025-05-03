@@ -344,6 +344,10 @@ search-one-offs-actions =
 
 # Opens the about:addons page in the home / recommendations section
 quickactions-addons = Dodanki pokazaś
+# In English we provide multiple spellings for "add-ons". If that's not
+# applicable to your language, only use the correct spelling (don't repeat the
+# same word).
+quickactions-cmd-addons3 = rozšyrjenja, drastwy, dodanki
 quickactions-cmd-addons2 = dodanki
 # Opens the bookmarks library window
 quickactions-bookmarks2 = Cytańske znamjenja zastojaś
@@ -384,6 +388,7 @@ quickactions-print2 = Bok śišćaś
 quickactions-cmd-print = śišćaś
 # Opens the print dialog at the save to PDF option
 quickactions-savepdf = Bok ako PDF składowaś
+quickactions-cmd-savepdf2 = pdf, bok składowaś
 quickactions-cmd-savepdf = pdf
 # Opens a new private browsing window
 quickactions-private2 = Priwatne wokno wócyniś
@@ -400,6 +405,8 @@ quickactions-cmd-screenshot2 = foto wobrazowki, foto wobrazowki gótowaś
 quickactions-cmd-screenshot = foto wobrazowki
 # Opens about:preferences
 quickactions-settings2 = Nastajenja zastojaś
+# "manage" should match the corresponding command, which is “Manage settings” in English.
+quickactions-cmd-settings2 = nastajenja, zastojaś
 quickactions-cmd-settings = nastajenja
 # Opens about:addons page in the themes section
 quickactions-themes = Drastwy zastojaś
@@ -1269,3 +1276,4 @@ file-picker-crashed-show-in-folder =
 
 ## Onboarding Finish Setup checklist
 
+onboarding-checklist-button-label = Konfiguraciju dokóńcyś
