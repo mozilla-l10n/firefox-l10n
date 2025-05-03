@@ -3,5 +3,7 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 clear-data-for-site-title = Sfeḍ akk isefka i usmel-a web?
+clear-data-for-site-browsing-history = Inig, tessadreḍ-d azray
+cclear-data-for-site-permissions = Tisirag akked yismenyifen
 clear-data-for-site-dialog-accept-button = Sfeḍ isefka
 clear-data-for-site-dialog-cancel-button = Semmet

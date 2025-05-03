@@ -16,6 +16,7 @@ contextual-manager-more-options-popup =
 contextual-manager-passwords-command-create = rnu awal uffir
 contextual-manager-passwords-command-import-from-browser = Kter seg iminig nniḍen…
 contextual-manager-passwords-command-import = Kter seg ufaylu…
+contextual-manager-passwords-command-export = Sifeḍ awalen n uεeddi
 contextual-manager-passwords-command-remove-all = Kkes akk awalen uffiren
 contextual-manager-passwords-command-settings = Iɣewwaṛen
 contextual-manager-passwords-command-help = Tallalt
@@ -58,10 +59,22 @@ contextual-manager-passwords-import-file-picker-tsv-filter-title =
         [macos] Asemli TSV
        *[other] Afaylu TSV
     }
+contextual-manager-passwords-import-success-heading =
+    .heading = Awalen n uεeddi ttwaktaren-d
+# Variables
+#   $added (number) - Number of added passwords
+#   $modified (number) - Number of modified passwords
+contextual-manager-passwords-import-success-message = Amaynut: { $added }, yettwaleqqem: { $modified }
+contextual-manager-passwords-import-detailed-report = Wali talqayt n uneqqis
 contextual-manager-passwords-import-success-button = Immed
 contextual-manager-passwords-import-error-button-try-again = Ɛreḍ tikkelt niḍen
 contextual-manager-passwords-import-error-button-cancel = Sefsex
+contextual-manager-passwords-import-learn-more = Issin amek ttwaktaren wawalen n uεedd
+contextual-manager-passwords-export-success-heading =
+    .heading = Awale n uεeddi ttwasifḍen-d
 contextual-manager-passwords-export-success-button = Immed
+# Export passwords to file dialog
+contextual-manager-export-passwords-dialog-title = Sifeḍ awalen n uεeddi ɣer ufaylu?
 contextual-manager-export-passwords-dialog-confirm-button = Kemmel asifeḍ
 # Title of the file picker dialog
 contextual-manager-passwords-export-file-picker-title = Sifeḍ awalen n uεeddi seg { -brand-short-name }
@@ -94,27 +107,58 @@ contextual-manager-passwords-remove-all-confirm-button =
     }
 contextual-manager-passwords-origin-label = Asmel Web
 # The attribute .data-after describes the text that should be displayed for the ::after pseudo-selector
+contextual-manager-passwords-username-label = Isem n useqdac
+    .data-after = Yettwanɣal
+# The attribute .data-after describes the text that should be displayed for the ::after pseudo-selector
 contextual-manager-passwords-password-label = Awal n uεeddi
     .data-after = Yettwanɣel
+contextual-manager-passwords-radiogroup-label =
+    .aria-label = Sizdeg awalen n uεeddi
+# Variables
+#   $url (string) - The url associated with the new login
+contextual-manager-passwords-add-password-success-heading =
+    .heading = Yettwarna wawal n uεeddi i { $url }
 contextual-manager-passwords-add-password-success-button = Sken
+# Variables
+#   $url (string) - The url associated with the existing login
+contextual-manager-passwords-password-already-exists-error-heading =
+    .heading = Awal n uεeddi d yisem n useqdac llan yakan i { $url }
+contextual-manager-passwords-password-already-exists-error-button = Ddu ɣer wawal n εeddi
 contextual-manager-passwords-update-password-success-heading =
     .heading = Awal uffir yettwasekles
 contextual-manager-passwords-update-password-success-button = Immed
+# Message to confirm successful removal of a password/passwords.
+#   $total (number) - Total number of passwords
+contextual-manager-passwords-delete-password-success-heading =
+    .heading =
+        { $total ->
+            [1] Awal n uεeddi yettwakkes
+            [one] Awal n uεeddi yettwakkes
+           *[other] Awalen n uεeddittwakksen
+        }
 contextual-manager-passwords-delete-password-success-button = Immed
 #
 # Radiobutton label to display total number of passwords
 #   $total (number) - Total number of passwords
 contextual-manager-passwords-radiobutton-all = Akk ({ $total })
+# Radiobutton label to display total number of alerts
+#   $total (number) - Total number of alerts
+contextual-manager-passwords-radiobutton-alerts = Alɣu ({ $total })
 # This message is displayed to make sure that a user wants to delete an existing login.
 contextual-manager-passwords-remove-login-card-title = Kkes awal uffir ?
+# This message warns the user that deleting a login is permanent.
+contextual-manager-passwords-remove-login-card-message = Ur tezmireḍ ara ad tesfesxeḍ aya.
 # This message gives the user an option to go back to the edit login form.
 contextual-manager-passwords-remove-login-card-back-message = Ɣer deffir
 # This message confirms that the user wants to remove an existing login.
 contextual-manager-passwords-remove-login-card-remove-button = Kkes
 # This message gives the user the option to cancel their attempt to remove a login.
 contextual-manager-passwords-remove-login-card-cancel-button = Sefsex
+contextual-manager-passwords-alert-card =
+    .aria-label = Ḥader awal n uεeddi
 contextual-manager-passwords-alert-back-button =
     .label = Ɣer deffir
+contextual-manager-passwords-breached-origin-link-message = Amek i yeẓra { -brand-product-name } ɣef trewla n yisefka?
 contextual-manager-passwords-change-password-button = Snifel awal n uεeddi
 
 ## Login Form

@@ -277,7 +277,15 @@ discopane-notice-recommendations = Disa nga këto rekomandime janë të personal
 discopane-notice-recommendations2 =
     .message = Disa nga këto rekomandime janë të personalizuara. Ato bazohen në zgjerime të tjera që keni instaluar, në parapëlqime profili dhe statistika përdorimi.
 discopane-notice-learn-more = Mësoni më tepër
+# Notice for the colorway theme removal
+colorway-removal-notice-message =
+    .heading = Tema(t) juaj me ngjyrim u hoq.
+    .message =
+        { -brand-product-name }-i përditësoi koleksionin e vet të ngjyrimeve.
+        Hoqëm versionin(et) e vjetër nga lista juaj“Tema të Ruajtura”. Merrni
+        te sajti i shtesave versione të rinj.
 colorway-removal-notice-learn-more = Mësoni më tepër
+colorway-removal-notice-button = Merrni tema ngjyrimesh të përditësuara
 privacy-policy = Rregulla Privatësie
 # Refers to the author of an add-on, shown below the name of the add-on.
 # Variables:
@@ -307,6 +315,17 @@ discopane-intro2 =
     të veckël software-i shpesh zhvillohen nga një palë e tretë. Ja një përzgjedhje që
     { -brand-product-name } <a data-l10n-name="learn-more-trigger">rekomandon</a> për siguri,
     funksionim dhe funksione jashtë të zakonshmes.
+# Explanatory introduction to the list of recommended add-ons. The action word
+# ("recommends") in the final sentence is a link to external documentation.
+# We hard code "Firefox" because we do not want to imply that a Firefox fork is
+# making this recommendation.
+discopane-intro3 =
+    Zgjerimet dhe tema ju lejojnë të përshtatnii { -brand-product-name }-in. Mund
+    të përforcojnë privatësinë, të thellojnë aftësitë produktive, të përmirësojnë media,
+    të ndryshojnë mënyrën se si duket { -brand-product-name }-i dhe mjaft gjëra të tjera.
+    Këto programe vockla shpesh zhvillohen nga një palë e tretë. Ja një përzgjedhje që
+    Firefox-i <a data-l10n-name="learn-more-trigger">rekomandon</a> për siguri, punim
+    dhe funksione të veçantë.
 
 ## Add-on actions
 
