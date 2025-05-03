@@ -54,6 +54,10 @@ neterror-dns-not-found-hint-header = <strong>Jeli sćo zapódał pšawu adresu, 
 neterror-dns-not-found-hint-try-again = Pózdźej hyšći raz wopytaś
 neterror-dns-not-found-hint-check-network = Waš seśowy zwisk pśeglědowaś
 neterror-dns-not-found-hint-firewall = Pśeglědujśo, lěc { -brand-short-name } ma pšawo na pśistup k weboju (sćo snaź zwězany, ale za wognjoweju murju)
+neterror-dns-not-found-offline-hint-header = <strong>Co móžośo pśeśiwo tomu cyniś?</strong>
+neterror-dns-not-found-offline-hint-different-device = Wopytajśo z drugim rědom zwězaś.
+neterror-dns-not-found-offline-hint-modem = Pśeglědajśo swój modem abo router.
+neterror-dns-not-found-offline-hint-reconnect = Źělśo wót a zwěžćo zasej z WLAN.
 
 ## TRR-only specific messages
 ## Variables:
