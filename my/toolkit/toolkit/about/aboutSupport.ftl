@@ -196,6 +196,8 @@ apz-none = မရွေးပါ
 wheel-enabled = မောက်စ်အလယ်ဘီးမှ ဒေတာလက်ခံမှုကို ဖွင့်ထားသည်
 touch-enabled = တို့ထိပြားမှ ဒေတာလက်ခံမှုကို ဖွင့်ထားသည်
 drag-enabled = စခရိုးလ်ဘားတန်းဆွဲရွှေ့ခြင်း ဖွင့်ထားသည်
+keyboard-enabled = ကီးဘုတ် ဖွင့်ပြီး
+autoscroll-enabled = အလို‌လျှောက် ရွှေ့ခြင်း ဖွင့်
 
 ## Variables
 ## $preferenceKey (string) - String ID of preference

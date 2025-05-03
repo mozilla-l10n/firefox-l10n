@@ -22,6 +22,8 @@ list-empty-button =
     .label = အက်အွန်တွေ အကြောင်း လေ့လာကြမယ်
 show-unsigned-extensions-button =
     .label = အချို့သော ထပ်တိုးအပို သည် အတည်မပြုနိုင်ပါ
+show-all-extensions-button =
+    .label = ထပ်တိုးအပို အားလုံးကို ရန်
 detail-version =
     .label = မူအဆင့်
 detail-last-updated =
@@ -39,7 +41,7 @@ detail-update-manual =
     .label = ပိတ်ပါ
     .tooltiptext = အဆင့်မြင်တင်မှုများအား အလိုအလျောက် မသွင်းပါနှင့်
 detail-home =
-    .label = မူလအစ
+    .label = အဖွင့်စာမျက်နှာ
 detail-home-value =
     .value = { detail-home.label }
 detail-repository =
@@ -159,6 +161,7 @@ addon-open-about-debugging = အတ်အွန်များကို အမ�
 
 ## Add-on actions
 
+addon-detail-homepage-label = အဖွင့်စာမျက်နှာ
 
 ## Pending uninstall message bar
 

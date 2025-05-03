@@ -8,6 +8,7 @@ about-telemetry-show-subsession-data = အချိန်ခွဲသိမ်�
 about-telemetry-choose-ping = ပင်းန်ကို ရွေးရန်။
 about-telemetry-archive-ping-header = ပင်းန်
 about-telemetry-page-title = Telemetry Data
+about-telemetry-home-section = အဖွင့်
 about-telemetry-general-data-section = အထွေထွေ အချက်အလက်
 about-telemetry-environment-data-section = Environment Data
 about-telemetry-session-info-section = အသုံးပြုမှုကာလအချက်အလက်
@@ -27,6 +28,14 @@ about-telemetry-raw = JSON အကြမ်းထည်
 about-telemetry-full-sql-warning = NOTE: Slow SQL debugging is enabled. Full SQL strings may be displayed below but they will not be submitted to Telemetry.
 about-telemetry-fetch-stack-symbols = အကန့်များထဲမှ လုပ်ဆောင်ချက်အမည်များအာ:ဆွဲထုတ်ပါ
 about-telemetry-hide-stack-symbols = မူရင်းမှတ်သားချက်များအားပြပါ
+# Selects the correct upload string
+# Variables:
+#   $uploadcase (string) - Represents a corresponding upload string
+about-telemetry-upload-type =
+    { $uploadcase ->
+        [enabled] ဖွင့်ရန်
+       *[disabled] ပိတ်ရန်
+    }
 # Variables:
 #   $telemetryServerOwner (string) - the value of the toolkit.telemetry.server_owner preference. Typically "Mozilla"
 about-telemetry-page-subtitle = This page shows the information about performance, hardware, usage and customizations collected by Telemetry. This information is submitted to { $telemetryServerOwner } to help improve { -brand-full-name }.
