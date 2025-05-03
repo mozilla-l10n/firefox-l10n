@@ -102,7 +102,7 @@ pdfjs-document-properties-mb = { $size_mb } എംബി ({ $size_b } ബൈറ�
 pdfjs-document-properties-title = തലക്കെട്ട്‌
 pdfjs-document-properties-author = രചയിതാവ്:
 pdfjs-document-properties-subject = വിഷയം:
-pdfjs-document-properties-keywords = മുഖ്യപദങ്ങൾ
+pdfjs-document-properties-keywords = പെരുമുരികൾ:
 pdfjs-document-properties-creation-date = പൂര്‍ത്തിയാകുന്ന തീയതി:
 pdfjs-document-properties-modification-date = മാറ്റം വരുത്തിയ തീയതി:
 # Variables:

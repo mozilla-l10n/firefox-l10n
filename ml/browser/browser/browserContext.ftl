@@ -209,8 +209,8 @@ main-context-menu-media-play-speed-faster-2 =
 main-context-menu-media-play-speed-fastest-2 =
     .label = 2×
 main-context-menu-media-loop =
-    .label = ലൂപ്പ്
-    .accesskey = ല
+    .label = വളയം
+    .accesskey = വ
 
 ## The access keys for "Show Controls" and "Hide Controls" are the same
 ## because the two context-menu items are mutually exclusive.
@@ -321,7 +321,7 @@ main-context-menu-manage-passwords =
     .label = രഹസ്യവാക്കുകളുടെ കൈകാര്യം ചെയ്യുക
     .accesskey = ക
 main-context-menu-keyword =
-    .label = ഈ തിരച്ചിലിനു വേണ്ടി ഒരു മുഖ്യപദം ചേര്‍ക്കുക…
+    .label = ഈ തിരച്ചിലിനു വേണ്ടി ഒരു പെരുമുരി ചേര്‍ക്കുക…
     .accesskey = K
 main-context-menu-add-engine =
     .label = തിരയൽയന്ത്രം ചേൎക്കുക
@@ -371,9 +371,6 @@ main-context-menu-take-screenshot =
 main-context-menu-take-frame-screenshot =
     .label = പ്രതലപ്പിളർപ്പു് എടുക്കുക
     .accesskey = പ
-main-context-menu-view-page-source =
-    .label = താളിന്റെ സ്രോതസ്സ്‌ കാണുക
-    .accesskey = V
 main-context-menu-bidi-switch-text =
     .label = പദാവലിയുടെ ദിശ മാറ്റുക
     .accesskey = w

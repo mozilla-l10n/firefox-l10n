@@ -516,7 +516,7 @@ search-one-click-desc = നിങ്ങൾ കീവേഡ് നൽകുന്
 search-choose-engine-column =
     .label = തെരച്ചില്‍ എഞ്ചിന്‍
 search-choose-keyword-column =
-    .label = മുഖ്യപദം
+    .label = പെരുമുരി
 search-restore-default =
     .label = സ്വതവേയുള്ള തെരച്ചില്‍ എഞ്ചിനുകള്‍ വീണ്ടെടുക്കുക
     .accesskey = D
@@ -529,7 +529,7 @@ search-add-engine =
 search-find-more-link = കൂടുതൽ സെര്‍ച്ച് എഞ്ചിനുകൾ കണ്ടെത്തുക
 # This warning is displayed when the chosen keyword is already in use
 # ('Duplicate' is an adjective)
-search-keyword-warning-title = മുഖ്യപദം ഇരട്ടുക
+search-keyword-warning-title = പെരുമുരി ഇരട്ടുക
 # Variables:
 #   $name (string) - Name of a search engine.
 search-keyword-warning-engine = നിലവില്‍ "{ $name }" ഉപയോഗിക്കുന്ന ഒരു കീവേര്‍ഡ് ആണു് നിങ്ങള്‍ നല്‍കിയതു്. ദയവായി മറ്റൊന്നു് തെരഞ്ഞെടുക്കുക.
