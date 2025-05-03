@@ -52,10 +52,20 @@ contextual-manager-passwords-import-file-picker-tsv-filter-title =
     }
 contextual-manager-passwords-import-success-button = Feito
 contextual-manager-passwords-import-error-button-cancel = Cancelar
+contextual-manager-passwords-import-learn-more = Aprende sobre a importación de contrasinais
+contextual-manager-passwords-export-success-heading =
+    .heading = Contrasinais exportados
 contextual-manager-passwords-export-success-button = Feito
+# Export passwords to file dialog
+contextual-manager-export-passwords-dialog-title = Exportar contrasinais a un arquivo?
+# This string recommends to the user that they delete the exported password file that is saved on their local machine.
+contextual-manager-export-passwords-dialog-message = Despois da exportación, recomendamos borrar o arquivo para que outra xente que use este dispositivo non poida ver os seus contrasinais
 contextual-manager-export-passwords-dialog-confirm-button = Continuar coa exportación
 # Title of the file picker dialog
 contextual-manager-passwords-export-file-picker-title = Exportar contrasinais desde { -brand-short-name }
+# The default file name shown in the file picker when exporting saved logins.
+# The resultant filename will end in .csv (added in code).
+contextual-manager-passwords-export-file-picker-default-filename = contrasinais
 contextual-manager-passwords-export-file-picker-export-button = Exportar
 # A description for the .csv file format that may be shown as the file type
 # filter by the operating system.
@@ -63,6 +73,14 @@ contextual-manager-passwords-export-file-picker-csv-filter-title =
     { PLATFORM() ->
         [macos] Documento CSV
        *[other] Ficheiro CSV
+    }
+# Confirm the removal of all saved passwords
+#   $total (number) - Total number of passwords
+contextual-manager-passwords-remove-all-title =
+    { $total ->
+        [1] Borrar o contrasinal?
+        [one] Borrar { $count } contrasinal?
+       *[other] Borrar os { $count } contrasinais?
     }
 # Checkbox label to confirm the removal of saved passwords
 #   $total (number) - Total number of passwords
@@ -100,11 +118,48 @@ contextual-manager-passwords-list-label =
     .aria-label = Contrasinais
 contextual-manager-copy-icon =
     .alt = Copiar
+contextual-manager-check-icon-username =
+    .alt = Copiado
+contextual-manager-check-icon-password =
+    .alt = Copiado
+contextual-manager-alert-icon =
+    .alt = Aviso
+# Variables
+#   $url (string) - The url associated with the login
+contextual-manager-origin-login-line =
+    .aria-label = Visita { $url }
+    .title = Visita { $url }
+contextual-manager-edit-login-button = Editar
+    .tooltiptext = Editar contrasinal
+contextual-manager-show-password-button =
+    .aria-label = Mostrar contrasinal
+    .title = Mostrar contrasinal
+contextual-manager-hide-password-button =
+    .aria-label = Agochar contrasinal
+    .title = Agochar contrasinal
+# The message displayed when the search text does not match any of the user's saved logins.
+contextual-manager-passwords-no-passwords-found-header =
+    .heading = Non se atoparon contrasinais
+contextual-manager-passwords-no-passwords-found-message = Non se atoparon contrasinais. Busca un termo diferente e téntao de novo.
 
 ## When the user has no saved passwords, we display the following messages to inform the user they can save
 ## their passwords safely and securely in Firefox:
 
+# This string encourages the user to save their passwords in Firefox (the "safe spot").
+contextual-manager-passwords-no-passwords-header = Garda os teus contrasinais nun lugar seguro.
+# This string informs that we (Firefox) store all passwords securely and will notify them of any breaches and alerts their
+# passwords may be involved in.
+contextual-manager-passwords-no-passwords-message = Todos os contrasinais están cifrados e estaremos atentos a filtracións nas que esteas afectado.
+# This string encourages the user to save their passwords to Firefox again.
+contextual-manager-passwords-no-passwords-get-started-message = Engádeos aquí para comezar.
+# This string is displayed in a button. If the user clicks it, they will be taken to a form to create a new password.
+contextual-manager-passwords-add-manually = Engadir manualmente
 
 ## When the user cancels a login that's currently being edited, we display a message to confirm whether
 ## or not the user wants to discard their current edits to the login.
 
+contextual-manager-passwords-discard-changes-heading-and-message =
+    .heading = Pechar sen gardar?
+    .message = Os cambios non se gardarán.
+contextual-manager-passwords-discard-changes-close-button = Pechar
+contextual-manager-passwords-discard-changes-go-back-button = Retroceder

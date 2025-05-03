@@ -1044,6 +1044,7 @@ addressbar-suggestions-settings = Cambiar as preferencias relacionadas coas suxe
 addressbar-locbar-showrecentsearches-option =
     .label = Mostrar buscas recentes
     .accesskey = r
+addressbar-locbar-suggest-nonsponsored-desc = Recibe suxestións da web relacionadas coa túa busca.
 addressbar-quickactions-learn-more = Máis información
 
 ## Privacy Section - Content Blocking

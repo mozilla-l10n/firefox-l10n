@@ -61,12 +61,31 @@ split-dismiss-button-show-fewer-option =
 # Opens about:preferences#general-cfrfeatures
 split-dismiss-button-manage-settings-option =
     .label = Xestionar a configuración
+# Accessibility label for dropdown menu button
+split-dismiss-button-default-label =
+    .title = Máis opcións
 
 ## Login Status Advisory Callout (points to the account icon)
 
+# The 'account icon' is the toolbar button with a 'profile' icon of a human
+# head/shoulders. It's for dealing with your Mozilla account. When hovering the
+# icon, the tooltip says 'Account'.
+login-status-advisory-title = Pechaches a sesión. Fai clic na icona da conta para iniciar sesión.
 
 ## Bookmarks toolbar callout strings
 
+bookmarks-toolbar-callout-1-title = Queres engadir este sitio á túa barra de ferramentas de marcadores?
+bookmarks-toolbar-callout-1-subtitle = O teu marcador gardarase xusto debaixo da barra de enderezos para acceder rapidamente.
+bookmarks-toolbar-callout-1-primary-button-label = Engadir marcador
+bookmarks-toolbar-callout-1-secondary-button-label = Non, grazas
+# Visible if user adds a bookmark in callout 1, bookmarks toolbar is set to always show when this message renders
+bookmarks-toolbar-callout-2a-title = Engade máis marcadores facilmente
+bookmarks-toolbar-callout-2a-subtitle = Podes arrastrar e soltar pestanas aquí para ter máis sitios favoritos a man.
+bookmarks-toolbar-callout-2a-primary-button-label = Entendido
+# Reverts the bookmarks toolbar to the default setting
+bookmarks-toolbar-callout-2a-secondary-button-label = Agochar barra de ferramentas
+# Visible if user declines to add a bookmark in callout 1, bookmarks toolbar is set to always show when this message renders
+bookmarks-toolbar-callout-2b-title = Manter aberta a barra de ferramentas de marcadores?
 
 ## Perplexity callout strings
 
@@ -74,9 +93,17 @@ split-dismiss-button-manage-settings-option =
 ## Sidebar Strings
 
 sidebar-button-callout-title = Mostra os títulos das lapelas na barra lateral
+sidebar-button-callout-subtitle = Preme o botón da barra lateral para estendela e ver os nomes das pestanas.
+sidebar-button-callout-vertical-tabs = Para mostrar as túas pestanas, selecciona o botón da barra lateral na barra de ferramentas.
 
 ## Sidebar Vertical Tabs Strings
 
+vertical-tabs-callout-1-title = Abafado por ter tantas pestanas abertas?
+vertical-tabs-callout-1-subtitle = Proba o novo deseño de pestanas verticais para ver as túas pestanas dunha ollada. Os primeiros en probalo din que lles fai sentirse máis ordenados. Podes cambiar en calquera momento.
+vertical-tabs-callout-1-cta-button = Proba as pestanas verticais
+vertical-tabs-callout-2-cta-button = Probar agora
+vertical-tabs-callout-2-title = Tes moitas pestanas abertas? Proba as pestanas verticais.
+vertical-tabs-callout-2-subtitle = Este deseño facilita a exploración rápida da túa lista de pestanas. Ademais, podes axustar o ancho para ver máis ou menos dos títulos das pestanas.
 
 ## Sidebar Vertical Tabs Pinning Strings
 
@@ -95,6 +122,9 @@ sidebar-callout-survey-neutral = Neutral
 sidebar-callout-survey-dissatisfied-2 = Insatisfeito
 sidebar-callout-survey-very-dissatisfied-2 = Moi insatisfeito
 sidebar-callout-survey-dont-use-it = Non o uso
+sidebar-callout-survey-productive-question =
+    En que medida estás de acordo ou en desacordo con esta afirmación:<br/>
+    "A barra lateral { -brand-short-name } axúdame a ser máis produtivo"?
 sidebar-callout-survey-strongly-agree = Totalmente de acordo
 sidebar-callout-survey-agree = De acordo
 sidebar-callout-survey-disagree = En desacordo

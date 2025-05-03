@@ -266,16 +266,29 @@ launch-on-login-infobar-final-reject-button = Non, grazas
 
 ## Tail Fox Set Default Spotlight
 
+tail-fox-spotlight-primary-button = Abre as miñas ligazóns con { -brand-short-name }
 tail-fox-spotlight-secondary-button = Agora non
 
 ## Root Certificate Succession Infobar
 
+root-certificate-succession-infobar-link = Por que teño que actualizar?
 
 ## Root Certificate Succession Windows Background Notification
 
+root-certificate-windows-background-notification-learn-more-button = Máis información
+root-certificate-windows-background-notification-update-button = Actualizar { -brand-short-name }
 
 ## FxA Menu Message variants
 
+fxa-menu-message-close-button =
+    .title = Pechar
+    .aria-label = Pechar
+fxa-menu-message-sign-up-button = Rexistrarse
+fxa-menu-message-sync-devices-primary-text = Sincroniza todos os teus dispositivos
+fxa-menu-message-mobile-primary-text = Envía pestanas ao teu teléfono
+fxa-menu-message-mobile-secondary-text = Retoma onde o deixaches ao instante cando sincronizas as túas pestanas cun dispositivo móbil.
+fxa-menu-message-mobile-collapsed-text = Sincroniza co teu teléfono
 
 ## Multi-CTA Fox Doodle Spotlight
 
+multi-cta-fox-doodle-title = Benvido de novo

@@ -23,10 +23,28 @@ genai-menu-ask-generic =
 
 ## Chatbot onboarding
 
+genai-onboarding-gemini-tooltip =
+    .title = Google Gemini
+genai-onboarding-gemini-learn = Máis información sobre Gemini
+genai-onboarding-huggingchat-tooltip =
+    .title = HuggingChat
+genai-onboarding-huggingchat-learn = Máis información sobre HuggingChat
+genai-onboarding-lechat-tooltip =
+    .title = Le Chat Mistral
+genai-onboarding-lechat-learn = Máis información sobre Le Chat
+genai-onboarding-select-header = Selecciona texto para ver as suxestións
+genai-onboarding-select-primary = Comeza a conversar
+genai-chatbot-contextual-title = Usa un chatbot de intelixencia artificial sen cambiar de pestana
+genai-chatbot-contextual-subtitle = Conversa e navega en paralelo cando engades un chatbot de intelixencia artificial na barra lateral { -brand-short-name }.
+genai-chatbot-contextual-button = Escoller un chatbot
 
 ## Chatbot onboarding choices
 ## These describe features/capabilities of chatbot providers. These are not buttons/actions.
 
+genai-onboarding-claude-generate = Xerar texto e código
+genai-onboarding-claude-analyze = Analizar documentos e imaxes
+genai-onboarding-claude-price = Opcións gratuítas e de pago; conta necesaria
+genai-onboarding-chatgpt-generate = Xerar texto, imaxes e código
 
 ## Model Optin Component
 
