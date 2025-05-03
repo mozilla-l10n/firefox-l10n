@@ -155,6 +155,7 @@ firefoxview-cfr-header-v2 = Agad na ipagpatuloy kung saan ka tumigil
 ## Firefox View Spotlight
 
 firefoxview-spotlight-promo-primarybutton = Tignan kung paano ito gumagana
+firefoxview-spotlight-promo-secondarybutton = Laktawan
 
 ## Colorways expiry reminder CFR
 

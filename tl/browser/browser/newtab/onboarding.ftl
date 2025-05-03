@@ -120,10 +120,12 @@ onboarding-live-language-header = Piliin ang iyong wika
 mr2022-onboarding-live-language-text = Sinasalita ng { -brand-short-name } ang iyong wika
 mr2022-onboarding-live-language-continue-in = Magpatuloy sa { $appLanguage }
 onboarding-live-language-secondary-cancel-download = Ikansela
+onboarding-live-language-skip-button-label = Laktawan
 
 ## Firefox 100 Thank You screens
 
 fx100-thank-you-subtitle = Ito ang aming ika-100 release! Salamat sa pagtulong sa amin na bumuo ng isang mas mahusay, mas mabuti na internet.
+mr2022-onboarding-secondary-skip-button-label = Laktawan ang hakbang na ito
 
 ## MR2022 New User Easy Setup screen strings
 

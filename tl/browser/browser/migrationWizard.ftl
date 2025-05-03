@@ -101,6 +101,7 @@ migration-wizard-progress-icon-in-progress =
     .aria-label = Ini-import…
 migration-wizard-progress-icon-completed =
     .aria-label = Tapos na
+migration-safari-password-import-skip-button = Laktawan
 
 ## The import process identifies extensions installed in other supported
 ## browsers and installs the corresponding (matching) extensions compatible
