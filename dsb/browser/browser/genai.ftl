@@ -141,6 +141,9 @@ genai-onboarding-lechat-learn = Zgóńśo wěcej wó Le Chat
 genai-onboarding-select-header = Wubjeŕśo tekst, aby naraźenja wiźeł
 genai-onboarding-select-description = Gaž tekst wuběraśo, naraźujomy wam naspominanja, kótarež móžośo na chatowy bot pósłaś. Móžośo teke do swójskich naspominanjow pisaś.
 genai-onboarding-select-primary = Chattowaś zachopiś
+genai-chatbot-contextual-title = Wužywajśo chatbot KI bźez togo, aby rejtariki pśešaltował
+genai-chatbot-contextual-subtitle = Chattujśo a seglědujśo bok pó boku, gaž chatbox KI w bocnicy { -brand-short-name } pśidawaśo.
+genai-chatbot-contextual-button = Wubjeŕśo chatbot
 
 ## Chatbot onboarding choices
 ## These describe features/capabilities of chatbot providers. These are not buttons/actions.
@@ -174,3 +177,17 @@ genai-model-optin-cancel =
 
 ## Link previews
 
+# ‘min’ is short for “minute”
+# ‘mins’ is short for “minutes”
+# An estimate for how long it takes to read an article,
+# expressed as a range covering both slow and fast readers.
+# Variables:
+#   $rangePlural (String): The plural category of the range, using the same set as for numbers.
+#   $range (String): The range of minutes as a localised string. Examples: "3-7", "~1".
+link-preview-reading-time =
+    { $rangePlural ->
+        [one] { $range } minuta cytańskego casa
+        [two] { $range } minuśe cytańskego casa
+        [few] { $range } minuty cytańskego casa
+       *[other] { $range } minutow cytańskego casa
+    }

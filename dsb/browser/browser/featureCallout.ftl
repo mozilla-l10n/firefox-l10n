@@ -98,6 +98,11 @@ perplexity-callout-theme-1-title = Trjebaśo ned pšawe wótegrono?
 perplexity-callout-theme-2-title = Wopytajśo Perplexity: nowa wašnja pytanja
 perplexity-callout-theme-1-subtitle-1 = Wopytajśo Perplexity. Wubjeŕśo jen z pytańskego tłocaška, gaž cośo dopołnje wótegrona dostaś, inkluziwnje žrědła.
 perplexity-callout-theme-1-subtitle-2 = Stajśo pšašanja. Dostańśo dopołne, derje citěrowane wótegrona. Aby Perplexity wopytał, wubjeŕśo jen z pytańskego tłocaška.
+perplexity-callout-theme-2-subtitle-1 = Pšašajśo se Perplexity. Dostanjośo dopołne wótegrona, inkluziwnje žrědła.
+perplexity-callout-theme-2-subtitle-2 = Stajśo pšašanja. Dostańśo dopołne, derje citěrowane wótegrona.
+perplexity-callout-primary-label = Perplexity se pšašaś
+perplexity-callout-secondary-label-1 = Zachyśiś
+perplexity-callout-secondary-label-2 = Som zrozměł
 
 ## Sidebar Strings
 

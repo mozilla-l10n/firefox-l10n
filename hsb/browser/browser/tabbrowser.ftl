@@ -20,7 +20,7 @@ tabbrowser-tab-tooltip-container = { $containerName }
 # Variables:
 #   $tabGroupName (String): the user-defined name of the current tab group.
 #   $containerName (String): the name of the current container.
-tabbrowser-tab-tooltip-tab-group-container = { $tabGroupName } — { $containerName }
+tabbrowser-tab-tooltip-tab-group-container = { $tabGroupName } – { $containerName }
 # Displayed as a tooltip on container tabs
 # Variables:
 #   $title (String): the title of the current tab.
