@@ -7,4 +7,9 @@ clear-data-for-site-title = Изчистване на всички данни з
 #   $site (string) - Website name
 clear-data-for-site-list = Това ще изчисти всички данни за { $site }, включително:
 clear-data-for-site-browsing-history = История на разглеждане и изтегляния
+clear-data-for-site-cookies = Бисквитки и данни за страниците, които е възможно да ви отпишат от страницата
 clear-data-for-site-cache = Кеширани файлове и страници
+cclear-data-for-site-permissions = Права и предпочитания
+clear-data-for-site-exceptions = Отметките и запазените пароли няма да бъдат изтрити
+clear-data-for-site-dialog-accept-button = Изчистване на данните
+clear-data-for-site-dialog-cancel-button = Отмяна

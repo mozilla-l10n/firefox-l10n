@@ -11,3 +11,4 @@ preonboarding-manage-data-header-button-title = Управление на дан
 # New user onboarding checklist
 preonboarding-checklist-interaction-data-label = Изпращане на технически данни и данни за взаимодействие към { -vendor-short-name }
 preonboarding-checklist-crash-reports-label = Автоматично изпращане на доклади за сривове
+preonboarding-checklist-crash-reports-description = Докладите за сривове ни позволяват да откриваме и отстраняваме проблеми с браузъра. Докладите може да включват лични или чувствителни данни.
