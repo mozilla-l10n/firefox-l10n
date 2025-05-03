@@ -40,11 +40,11 @@ protections-panel-site-not-working-view =
 
 protections-panel-not-blocking-why-label = Bakit?
 protections-panel-not-blocking-why-etp-on-tooltip = Maaaring masira ang ilang parte ng ilang website kapag hinarang ang mga ito. Kapag walang mga tracker, may mga button, form, at login field na maaaring hindi gumana.
-protections-panel-not-blocking-why-etp-off-tooltip = Lahat ng mga tracker sa site na ito ay nag-load dahil nakasara ang mga protection.
+protections-panel-not-blocking-why-etp-off-tooltip = Lahat ng mga tracker sa site na ito ay nag-load dahil nakasara ang mga proteksyon.
 protections-panel-not-blocking-why-etp-on-tooltip-label =
     .label = Maaaring masira ang ilang parte ng ilang website kapag hinarang ang mga ito. Kapag walang mga tracker, may mga button, form, at login field na maaaring hindi gumana.
 protections-panel-not-blocking-why-etp-off-tooltip-label =
-    .label = Lahat ng mga tracker sa site na ito ay nag-load dahil nakasara ang mga protection.
+    .label = Lahat ng mga tracker sa site na ito ay nag-load dahil nakasara ang mga proteksyon.
 
 ##
 

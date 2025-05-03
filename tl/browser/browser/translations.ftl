@@ -35,6 +35,7 @@ translations-panel-to-label = Isalin sa
 
 ## Firefox Translations language management in about:preferences.
 
+translations-manage-description = Mag-download ng mga wika para sa pagsasalin offline.
 translations-manage-intro-2 = Itakda ang iyong mga kagustuhan sa wika at pagsasalin ng site at pamahalaan ang mga wikang na-download para sa pagsasalin offline.
 translations-manage-download-description = Mag-download ng mga wika para sa offline na pagsasalin
 # Text displayed on the copy button before it is clicked.
