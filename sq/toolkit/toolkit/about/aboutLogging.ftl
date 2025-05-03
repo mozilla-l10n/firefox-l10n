@@ -44,6 +44,7 @@ about-logging-preset-media-playback-label = Luajtje media
 about-logging-preset-media-playback-description = Module regjistrimi për diagnostikim problemesh luajtjeje media (jo probleme me konferencë video)
 about-logging-preset-webrtc-label = WebRTC
 about-logging-preset-webrtc-description = Module regjistrimi për diagnostikim problemesh thirrjesh WebRTC
+about-logging-preset-webcodecs-description = Module regjistri për të diagnostikuar probleme me shkodues dhe kodues WebCodecs audio/video, si dhe shkodues figurash
 about-logging-preset-webgpu-label = WebGPU
 about-logging-preset-webgpu-description = Module regjistrimi për diagnostikim problemesh WebGPU
 about-logging-preset-gfx-label = Grafikë
@@ -72,8 +73,21 @@ about-logging-configured-via-url = Mundësi e formësuar përmes URL-je
 ## The upload interface is shown only with the preference toolkit.aboutLogging.uploadProfileToCloud
 ## set to true. It is false by default, except on Android.
 
+about-logging-upload-question = Të dhënat e profilit u morën. Doni të ruhen, apo të ngarkohen?
 about-logging-save-button = Ruaje
 about-logging-upload-button = Ngarkoje
 # Variables:
 #   $path (string) - The path where the profile can be found.
 about-logging-saved = U ruajt te { $path }
+# Variables:
+#   $percent (number) - The upload completion progress, to be displayed as a percentage. This is a value between 0 and 1.
+about-logging-uploading-progress = Po ngarkohen të dhëna profili: { NUMBER($percent, maximumSignificantDigits: 2, style: "percent") }
+# Variables:
+#   $url (string) - The URL where the profile can be found
+about-logging-uploaded = U ngarkuan te <a data-l10n-name="uploaded-message-url">{ $url }</a>
+# Variables:
+#   $errorText (string) - The received error message, inserted as is.
+about-logging-upload-error = Ndodhi një gabim teksa ngarkohej profili: { $errorText }
+# Variables:
+#   $errorText (string) - The received error message, inserted as is.
+about-logging-save-error = Ndodhi një gabim teksa ruhej kartela: { $errorText }

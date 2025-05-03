@@ -107,8 +107,11 @@ genai-options-about-chatbot =
 ## Chatbot onboarding
 
 genai-onboarding-header = Përmblidhni, reflektoni ide të reja, etj, teksa shfletoni
+genai-onboarding-choose-header = Zgjidhni një robot IA fjalosjesh për ta përdorur te anështylla e { -brand-short-name }-it
 # "Switch anytime" refers to allowing the user to switch to a different chatbot.
 genai-onboarding-description = Zgjidhni një robot IA fjalosjesh te anështylla { -brand-short-name }. Do t’ju shfaqim hollësi rreth secilit robot fjalosjesh, kur përzgjidhni një. Ndërrojeni kur të doni. <a data-l10n-name="learn-more">Mësoni më tepër</a>
+# "Switch anytime" refers to allowing the user to switch to a different chatbot.
+genai-onboarding-choose-description = Ndërrojeni kur të doni. Për ndihmë rreth se si të zgjidhni, <a data-l10n-name="learn-more">mësoni më tepër rreth secilit robot fjalosjesh</a>.
 genai-onboarding-primary = Vazhdo
 genai-onboarding-secondary = Mbylle
 genai-onboarding-claude-tooltip =
@@ -130,6 +133,8 @@ genai-onboarding-lechat-learn = Mësoni më tepër rreth Le Chat-it
 genai-onboarding-select-header = Përzgjidhni tekst që të shihni sugjerime
 genai-onboarding-select-description = Kur përzgjidhni tekst, do t’ju sugjerojmë urdhra që mund t’ia dërgoni robotit të fjalosjeve. Mundeni edhe të shkruani urdhrat tuaja.
 genai-onboarding-select-primary = Filloni të bisedoni
+genai-chatbot-contextual-title = Përdorni një robot IA fjalosjesh pa ndërruar skeda
+genai-chatbot-contextual-subtitle = Fjalosje dhe shfletim krah për krah, kur shtoni një robot IA fjalosjesh te anështylla e  { -brand-short-name }-it.
 genai-chatbot-contextual-button = Zgjidhni një robot fjalosjesh
 
 ## Chatbot onboarding choices

@@ -160,18 +160,40 @@ contextual-manager-passwords-alert-back-button =
     .label = Ɣer deffir
 contextual-manager-passwords-breached-origin-link-message = Amek i yeẓra { -brand-product-name } ɣef trewla n yisefka?
 contextual-manager-passwords-change-password-button = Snifel awal n uεeddi
+contextual-manager-passwords-vulnerable-password-link-message = Amek i yeẓra { -brand-product-name } awal n uεeddi ur yeǧhid ara?
+contextual-manager-passwords-no-username-heading-and-message =
+    .heading = Rnu isem n useqdac
+    .message = Rnu wayeḍ i tuqqna s zzerb
+contextual-manager-passwords-add-username-button = Rnu isem n useqdac
 
 ## Login Form
 
 contextual-manager-passwords-create-label =
     .label = rnu awal uffir
+contextual-manager-passwords-edit-label =
+    .label = Ẓreg awal uffir
+contextual-manager-passwords-remove-label =
+    .title = Kkes awal n uεeddi
 
 ## Password Card
 
 contextual-manager-passwords-list-label =
     .aria-label = Awalen uffiren
+contextual-manager-website-icon =
+    .alt = Tignit n usmel web
 contextual-manager-copy-icon =
     .alt = Nɣel
+contextual-manager-check-icon-username =
+    .alt = Yettwanɣel
+contextual-manager-check-icon-password =
+    .alt = Yettwanɣel
+contextual-manager-alert-icon =
+    .alt = Alɣu
+# Variables
+#   $url (string) - The url associated with the login
+contextual-manager-origin-login-line =
+    .aria-label = Rzu ɣer { $url }
+    .title = Rzu ɣer { $url }
 # The message displayed when the search text does not match any of the user's saved logins.
 contextual-manager-passwords-no-passwords-found-header =
     .heading = Ulac awalen uffiren i yettwafen

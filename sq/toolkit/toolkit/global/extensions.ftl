@@ -121,3 +121,5 @@ webext-site-perms-midi-sysex = Të përdorë pajisje MIDI me Mbulim për SysEx
 
 ## Colorway theme migration
 
+webext-colorway-theme-migration-notification-message = <b>Tema juaj e ngjyrimit u hoq.</b> { -brand-shorter-name }-i përditësoi koleksionin e vet të ngjyrimeve. Versionet më të reja i gjeni te saji i shtesave.
+webext-colorway-theme-migration-notification-button = Merrni ngjyrime të përditësuara
