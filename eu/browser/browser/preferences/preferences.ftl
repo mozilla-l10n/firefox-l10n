@@ -262,6 +262,10 @@ preferences-web-appearance-choice-input-dark =
     .aria-description = { preferences-web-appearance-choice-tooltip-dark.title }
 # This can appear when using windows HCM or "Override colors: always" without
 # system colors.
+preferences-web-appearance-override-warning3 =
+    .message = Zure kontrastearen kontrol-ezarpenek webgunearen itxura baliogabetzen dute.
+# This can appear when using windows HCM or "Override colors: always" without
+# system colors.
 preferences-web-appearance-override-warning = Zure kolore-hautapenek webgunearen itxura baliogabetzen dute. <a data-l10n-name="colors-link">Kudeatu koloreak</a>
 # This can appear when using windows HCM or "Override colors: always" without
 # system colors.
@@ -271,6 +275,7 @@ preferences-web-appearance-override-warning2 =
 # to adapt to your language, but should not be changed.
 preferences-web-appearance-footer = Kudeatu { -brand-short-name }(r)en itxurak <a data-l10n-name="themes-link">Hedapenak eta itxura</a> atalean
 preferences-contrast-control-header = Kontrastearen kontrola
+preferences-contrast-control-description = Webguneek lehen planoko eta atzeko planoko hainbat koloreak dituzte. Konfiguratu { -brand-short-name } webguneetan kolore berdinak erabili eta irakurketa hobetzeko.
 preferences-contrast-control-use-platform-settings =
     .label = Automatikoa (erabili sistemaren ezarpenak)
     .accesskey = A
@@ -1282,6 +1287,8 @@ permissions-addon-exceptions =
 ## Privacy Section - Data Collection
 
 collection-header = { -brand-short-name } datuen bilketa eta erabilera
+collection-header2 = { -brand-short-name } datuen bilketa eta erabilera
+    .searchkeywords = telemetria
 collection-description = Aukerak ematen ahalegintzen gara { -brand-short-name } denontzat hobetzeko behar ditugun datuak soilik biltzeko. Informazio pertsonala jaso aurretik zure baimena eskatzen dugu beti.
 collection-privacy-notice = Pribatutasun-oharra
 collection-health-report-telemetry-disabled = Jada ez duzu baimentzen { -vendor-short-name }(e)k datu tekniko eta interakziozkoak kapturatzea. Iraganeko datu guztiak 30 egunen buruan ezabatuko dira.
