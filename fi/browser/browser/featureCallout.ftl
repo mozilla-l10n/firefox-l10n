@@ -68,12 +68,26 @@ split-dismiss-button-default-label =
 
 ## Login Status Advisory Callout (points to the account icon)
 
+# The 'account icon' is the toolbar button with a 'profile' icon of a human
+# head/shoulders. It's for dealing with your Mozilla account. When hovering the
+# icon, the tooltip says 'Account'.
+login-status-advisory-title = Et ole sisäänkirjautunut. Kirjaudu sisään napsauttamalla tilin kuvaketta.
 
 ## Bookmarks toolbar callout strings
 
+bookmarks-toolbar-callout-1-primary-button-label = Lisää kirjanmerkki
+bookmarks-toolbar-callout-1-secondary-button-label = Ei kiitos
+# Visible if user adds a bookmark in callout 1, bookmarks toolbar is set to always show when this message renders
+bookmarks-toolbar-callout-2a-title = Lisää vaivatta kirjanmerkkejä
+bookmarks-toolbar-callout-2a-primary-button-label = Selvä
+# Reverts the bookmarks toolbar to the default setting
+bookmarks-toolbar-callout-2b-secondary-button-label = Ei kiitos
 
 ## Perplexity callout strings
 
+perplexity-callout-theme-1-title = Tarvitsetko oikean vastauksen heti?
+perplexity-callout-secondary-label-1 = Hylkää
+perplexity-callout-secondary-label-2 = Selvä
 
 ## Sidebar Strings
 

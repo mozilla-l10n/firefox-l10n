@@ -54,6 +54,10 @@ neterror-dns-not-found-hint-header = <strong>Jos kirjoitit osoitteen oikein, voi
 neterror-dns-not-found-hint-try-again = Yrittää myöhemmin uudelleen
 neterror-dns-not-found-hint-check-network = Tarkistaa verkkoyhteytesi
 neterror-dns-not-found-hint-firewall = Tarkistaa, että { -brand-short-name }illa on lupa asioida verkkoon (saatat olla yhteydessä, mutta palomuurin takana)
+neterror-dns-not-found-offline-hint-header = <strong>Mitä voit tehdä asialle?</strong>
+neterror-dns-not-found-offline-hint-different-device = Kokeile yhteyden muodostamista eri laitteella.
+neterror-dns-not-found-offline-hint-modem = Tarkista käyttämäsi modeemi tai reititin.
+neterror-dns-not-found-offline-hint-reconnect = Katkaise Wi-Fi-yhteys ja muodosta se uudelleen.
 
 ## TRR-only specific messages
 ## Variables:

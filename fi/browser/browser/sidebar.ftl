@@ -78,10 +78,16 @@ sidebar-context-menu-remove-extension =
     .label = Poista laajennus
 sidebar-context-menu-report-extension =
     .label = Raportoi laajennus
+sidebar-context-menu-open-in-tab =
+    .label = Avaa uuteen välilehteen
+sidebar-context-menu-open-in-container-tab =
+    .label = Avaa uuteen eristettyyn välilehteen
 sidebar-context-menu-open-in-window =
     .label = Avaa uudessa ikkunassa
 sidebar-context-menu-open-in-private-window =
     .label = Avaa uuteen yksityiseen ikkunaan
+sidebar-context-menu-forget-site =
+    .label = Tyhjennä kaikki verkkosivuston tiedot…
 sidebar-context-menu-bookmark-tab =
     .label = Lisää välilehti kirjanmerkkeihin…
 sidebar-context-menu-copy-link =
@@ -101,6 +107,10 @@ sidebar-context-menu-close-remote-tab =
 
 sidebar-history-context-menu-delete-page =
     .label = Poista historiasta
+sidebar-history-context-menu-delete-page-2 =
+    .label = Poista sivu historiasta
+sidebar-history-context-menu-bookmark-page =
+    .label = Lisää sivu kirjanmerkkeihin…
 
 ## Labels for sidebar menu items.
 
