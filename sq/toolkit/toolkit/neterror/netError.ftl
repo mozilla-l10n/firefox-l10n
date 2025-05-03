@@ -54,6 +54,10 @@ neterror-dns-not-found-hint-header = <strong>Nëse dhatë adresën e saktë, mun
 neterror-dns-not-found-hint-try-again = Riprovoni më vonë
 neterror-dns-not-found-hint-check-network = Kontrolloni lidhjen tuaj në rrjet
 neterror-dns-not-found-hint-firewall = Kontrolloni nëse ka { -brand-short-name }-i leje të hyjë në web (mund të jeni i lidhur, por të gjendeni pas një firewall-i)
+neterror-dns-not-found-offline-hint-header = <strong>Ç’mund të bëni për këtë?</strong>
+neterror-dns-not-found-offline-hint-different-device = Provoni të lidheni që nga një pajisje tjetër.
+neterror-dns-not-found-offline-hint-modem = Kontrolloni modemin ose rrugëzuesin tuaj.
+neterror-dns-not-found-offline-hint-reconnect = Shkëputuni dhe rilidhuni me Wi-Fi.
 
 ## TRR-only specific messages
 ## Variables:

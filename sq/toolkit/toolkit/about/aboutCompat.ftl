@@ -11,6 +11,7 @@ label-more-information = Më Tepër Hollësi: E metë { $bug }
 label-overrides = Anashkalime Agjenti Përdoruesi
 text-disabled-in-about-config = Kjo veçori është çaktivizuar në about:config
 text-no-interventions = S’po përdoren ndërhyrje
+text-page-title = Përputhshmëri Web
 text-no-overrides = S’po përdoren anashkalime të AP-it
 text-title = about:compat
 

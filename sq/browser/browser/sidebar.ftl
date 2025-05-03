@@ -107,6 +107,10 @@ sidebar-context-menu-close-remote-tab =
 
 sidebar-history-context-menu-delete-page =
     .label = Fshije prej Historiku
+sidebar-history-context-menu-delete-page-2 =
+    .label = Fshije Faqen nga Historiku
+sidebar-history-context-menu-bookmark-page =
+    .label = Faqeruani Faqe…
 
 ## Labels for sidebar menu items.
 

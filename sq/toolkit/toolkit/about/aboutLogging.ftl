@@ -64,8 +64,16 @@ about-logging-unknown-profiler-preset = Paracaktim i panjohur profilizuesi “{ 
 about-logging-unknown-option = Mundësi e panjohur about:logging “{ $k }“
 about-logging-configuration-url-ignored = URL-ja e formësimi u shpërfill
 about-logging-file-and-profiler-override = S’mund të deytorohen në të njëjtën kohë mundësintë “file output” dhe “override profiler”
+# Variables:
+#   $errorText (string) - The received error message, inserted as is.
+about-logging-unknown-error = Ndodhi një gabim: { $errorText }
 about-logging-configured-via-url = Mundësi e formësuar përmes URL-je
 
 ## The upload interface is shown only with the preference toolkit.aboutLogging.uploadProfileToCloud
 ## set to true. It is false by default, except on Android.
 
+about-logging-save-button = Ruaje
+about-logging-upload-button = Ngarkoje
+# Variables:
+#   $path (string) - The path where the profile can be found.
+about-logging-saved = U ruajt te { $path }

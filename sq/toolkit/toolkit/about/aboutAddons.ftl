@@ -204,6 +204,10 @@ addon-updates-manual-updates-found = Shihni Përditësimet e Gatshme
 
 addon-install-from-file = Instaloni Shtesë Prej Kartele…
     .accesskey = I
+# Like `addon-install-from-file` but used when the `extensions.webextensions.prefer-update-over-install-for-existing-addon`
+# pref is set.
+addon-install-or-update-from-file = Instaloni ose Përditësoni Shtesë Nga Kartelë…
+    .accesskey = I
 addon-install-from-file-dialog-title = Përzgjidhni shtesë për instalim
 addon-install-from-file-filter-name = Shtesa
 addon-open-about-debugging = Diagnostikoni Shtesa
@@ -273,6 +277,7 @@ discopane-notice-recommendations = Disa nga këto rekomandime janë të personal
 discopane-notice-recommendations2 =
     .message = Disa nga këto rekomandime janë të personalizuara. Ato bazohen në zgjerime të tjera që keni instaluar, në parapëlqime profili dhe statistika përdorimi.
 discopane-notice-learn-more = Mësoni më tepër
+colorway-removal-notice-learn-more = Mësoni më tepër
 privacy-policy = Rregulla Privatësie
 # Refers to the author of an add-on, shown below the name of the add-on.
 # Variables:

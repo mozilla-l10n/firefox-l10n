@@ -129,3 +129,5 @@ about-reader-text-alignment-center =
     .title = Vëre tekstin në qendër
 about-reader-text-alignment-right =
     .title = Vëre tekstin djathtas
+about-reader-text-alignment-justify =
+    .title = Përligje tekstin

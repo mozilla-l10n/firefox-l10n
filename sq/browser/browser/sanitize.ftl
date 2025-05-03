@@ -59,6 +59,7 @@ history-section-label = Historik
 item-history-and-downloads =
     .label = Historik Shfletimesh dhe Shkarkimesh
     .accesskey = H
+item-history-and-downloads-description2 = Spastron historik sajtesh dhe shkarkimesh
 item-history-and-downloads-description = Spastron historik kërkimesh, sajti dhe shkarkimesh
 item-history-form-data-downloads =
     .label = Historik
