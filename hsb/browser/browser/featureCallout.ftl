@@ -94,6 +94,13 @@ bookmarks-toolbar-callout-2b-secondary-button-label = Ně, dźakuju so
 
 ## Perplexity callout strings
 
+perplexity-callout-theme-1-title = Trjebaće hnydom prawu wotmołwu?
+perplexity-callout-theme-2-title = Spytajće Perplexity: nowe wašnje pytanja
+perplexity-callout-theme-1-subtitle-1 = Spytajće Perplexity. Wubjerće jón z pytanskeho tłóčatka, hdyž chceće dospołne wotmołwy dóstać, inkluziwnje žórła.
+perplexity-callout-theme-1-subtitle-2 = Stajće prašenja. Dóstańće dospołne, derje citowane wotmołwy. Zo byšće Perplexity spytał, wubjerće jón z pytanskeho tłóčatka.
+perplexity-callout-theme-2-subtitle-1 = Prašejće so Perplexity. Dóstanjeće dospołne wotmołwy, inkluziwnje žórła.
+perplexity-callout-theme-2-subtitle-2 = Stajće prašenja. Dóstańće dospołne, derje citowane wotmołwy.
+perplexity-callout-primary-label = Perplexity so prašeć
 perplexity-callout-secondary-label-1 = Zaćisnyć
 perplexity-callout-secondary-label-2 = Sym zrozumił
 

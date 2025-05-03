@@ -344,6 +344,10 @@ search-one-offs-actions =
 
 # Opens the about:addons page in the home / recommendations section
 quickactions-addons = Přidatki pokazać
+# In English we provide multiple spellings for "add-ons". If that's not
+# applicable to your language, only use the correct spelling (don't repeat the
+# same word).
+quickactions-cmd-addons3 = rozšerjenja, drasty, přidatki
 quickactions-cmd-addons2 = přidatki
 # Opens the bookmarks library window
 quickactions-bookmarks2 = Zapołožki rjadować
@@ -384,6 +388,7 @@ quickactions-print2 = Stronu ćišćeć
 quickactions-cmd-print = ćišćeć
 # Opens the print dialog at the save to PDF option
 quickactions-savepdf = Stronu jako PDF składować
+quickactions-cmd-savepdf2 = pdf, stronu składować
 quickactions-cmd-savepdf = pdf
 # Opens a new private browsing window
 quickactions-private2 = Priwatne wokno wočinić
@@ -400,6 +405,8 @@ quickactions-cmd-screenshot2 = foto wobrazowki, foto wobrazowki činić
 quickactions-cmd-screenshot = foto wobrazowki
 # Opens about:preferences
 quickactions-settings2 = Nastajenja rjadować
+# "manage" should match the corresponding command, which is “Manage settings” in English.
+quickactions-cmd-settings2 = nastajenja, rjadować
 quickactions-cmd-settings = nastajenja
 # Opens about:addons page in the themes section
 quickactions-themes = Drasty rjadować
@@ -1269,3 +1276,4 @@ file-picker-crashed-show-in-folder =
 
 ## Onboarding Finish Setup checklist
 
+onboarding-checklist-button-label = Konfiguraciju dokončić

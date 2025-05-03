@@ -142,7 +142,7 @@ genai-onboarding-select-header = Wubjeŕśo tekst, aby naraźenja wiźeł
 genai-onboarding-select-description = Gaž tekst wuběraśo, naraźujomy wam naspominanja, kótarež móžośo na chatowy bot pósłaś. Móžośo teke do swójskich naspominanjow pisaś.
 genai-onboarding-select-primary = Chattowaś zachopiś
 genai-chatbot-contextual-title = Wužywajśo chatbot KI bźez togo, aby rejtariki pśešaltował
-genai-chatbot-contextual-subtitle = Chattujśo a seglědujśo bok pó boku, gaž chatbox KI w bocnicy { -brand-short-name } pśidawaśo.
+genai-chatbot-contextual-subtitle = Chattujśo a pśeglědujśo bok pó boku, gaž chatbox KI w bocnicy { -brand-short-name } pśidawaśo.
 genai-chatbot-contextual-button = Wubjeŕśo chatbot
 
 ## Chatbot onboarding choices
