@@ -366,6 +366,9 @@ quickactions-extensions = Кіраваць пашырэннямі
 quickactions-cmd-extensions = пашырэнні
 # Opens Firefox View
 quickactions-firefoxview = Адкрыць { -firefoxview-brand-name }
+# Opens SUMO home page
+quickactions-help = Даведка { -brand-product-name }
+quickactions-cmd-help = даведка, падтрымка
 # Opens the devtools web inspector
 quickactions-inspector2 = Адкрыць Інструменты распрацоўшчыка
 quickactions-cmd-inspector = інспектар, прылады распрацоўшчыка
@@ -395,6 +398,8 @@ quickactions-screenshot3 = Зрабіць здымак экрана
 quickactions-cmd-screenshot = здымак экрана
 # Opens about:preferences
 quickactions-settings2 = Кіраваць наладамі
+# "manage" should match the corresponding command, which is “Manage settings” in English.
+quickactions-cmd-settings2 = налады, перавагі, параметры, кіраванне
 quickactions-cmd-settings = налады, перавагі, параметры
 # Opens about:addons page in the themes section
 quickactions-themes = Кіраваць тэмамі
@@ -1190,6 +1195,10 @@ popup-notification-addon-install-unsigned =
     .value = (Неправерана)
 popup-notification-xpinstall-prompt-learn-more = Даведацца больш пра бяспечнае ўсталяванне дадаткаў
 popup-notification-xpinstall-prompt-block-url = Паказаць падрабязнасці
+# Note: Access key is set to p to match "private" in the corresponding localized label.
+popup-notification-addon-privatebrowsing-checkbox2 =
+    .label = Дазволіць пашырэнню дзейнічаць у прыватных вокнах
+    .accesskey = з
 # Note: Access key is set to P to match "Private" in the corresponding localized label.
 popup-notification-addon-privatebrowsing-checkbox =
     .label = Задзейнічаць у прыватных вокнах
@@ -1253,3 +1262,4 @@ file-picker-crashed-show-in-folder =
 
 ## Onboarding Finish Setup checklist
 
+onboarding-checklist-button-label = Скончыць наладку
