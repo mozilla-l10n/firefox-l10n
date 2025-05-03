@@ -18,7 +18,7 @@ toolbar-context-menu-bookmark-selected-tabs =
     .label = i-Bookmark ang mga Napiling Tab...
     .accesskey = T
 toolbar-context-menu-select-all-tabs =
-    .label = Piliin ang lahat ng mga Tab
+    .label = Piliin Lahat ng mga Tab
     .accesskey = S
 # Variables
 #   $tabCount (number) - Number of tabs

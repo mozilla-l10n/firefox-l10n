@@ -344,6 +344,10 @@ search-one-offs-actions =
 
 # Opens the about:addons page in the home / recommendations section
 quickactions-addons = Shihini Shtesa
+# In English we provide multiple spellings for "add-ons". If that's not
+# applicable to your language, only use the correct spelling (don't repeat the
+# same word).
+quickactions-cmd-addons3 = zgjerime, tema, shtesa
 quickactions-cmd-addons2 = shtesa
 # Opens the bookmarks library window
 quickactions-bookmarks2 = Administroni faqerojtës
@@ -371,6 +375,7 @@ quickactions-help = Ndihmë { -brand-product-name }
 quickactions-cmd-help = ndihmë, asistencë
 # Opens the devtools web inspector
 quickactions-inspector2 = Hap Mjete Zhvilluesish
+quickactions-cmd-inspector2 = mbikëqyrë, mjete zhvilluesi
 quickactions-cmd-inspector = mbikëqyrës, mjete zhvilluesish
 # Opens about:logins
 quickactions-logins2 = Administroni fjalëkalime
@@ -383,6 +388,7 @@ quickactions-print2 = Shtypni faqe
 quickactions-cmd-print = shtype
 # Opens the print dialog at the save to PDF option
 quickactions-savepdf = Ruaje faqen si PDF
+quickactions-cmd-savepdf2 = pdf, ruaje faqen
 quickactions-cmd-savepdf = pdf
 # Opens a new private browsing window
 quickactions-private2 = Hap dritare private
@@ -395,9 +401,12 @@ quickactions-restart = Riniseni { -brand-short-name }-in
 quickactions-cmd-restart = rinise
 # Opens the screenshot tool
 quickactions-screenshot3 = Bëni një foto ekrani
+quickactions-cmd-screenshot2 = foto ekrani, bëni një foto ekrani
 quickactions-cmd-screenshot = foto ekrani
 # Opens about:preferences
 quickactions-settings2 = Administroni rregullime
+# "manage" should match the corresponding command, which is “Manage settings” in English.
+quickactions-cmd-settings2 = rregullime, parapëlqime, mundësi, administroni
 quickactions-cmd-settings = rregullime, parapëlqime, mundësi
 # Opens about:addons page in the themes section
 quickactions-themes = Administroni tema
@@ -407,6 +416,7 @@ quickactions-update = Përditësoni { -brand-short-name }
 quickactions-cmd-update = përditësoje
 # Opens the view-source UI with current pages source
 quickactions-viewsource2 = Shihni Burim Faqeje
+quickactions-cmd-viewsource2 = shihini burimin, burim, burim faqeje
 quickactions-cmd-viewsource = shihni burimin, burim
 # Tooltip text for the help button shown in the result.
 quickactions-learn-more =
@@ -1184,6 +1194,10 @@ popup-notification-addon-install-unsigned =
     .value = (E paverifikuar)
 popup-notification-xpinstall-prompt-learn-more = Mësoni më tepër rreth instalimit të shtesave në mënyrë të parrezik
 popup-notification-xpinstall-prompt-block-url = Shihni hollësitë
+# Note: Access key is set to p to match "private" in the corresponding localized label.
+popup-notification-addon-privatebrowsing-checkbox2 =
+    .label = Lejoje zgjerimin të xhirojë në dritare private
+    .accesskey = p
 # Note: Access key is set to P to match "Private" in the corresponding localized label.
 popup-notification-addon-privatebrowsing-checkbox =
     .label = Xhiroje në Dritare Private
@@ -1241,3 +1255,4 @@ file-picker-crashed-show-in-folder =
 
 ## Onboarding Finish Setup checklist
 
+onboarding-checklist-button-label = Përfundo ujdisjen

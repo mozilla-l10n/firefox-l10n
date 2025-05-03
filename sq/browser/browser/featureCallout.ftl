@@ -68,19 +68,36 @@ split-dismiss-button-default-label =
 
 ## Login Status Advisory Callout (points to the account icon)
 
+# The 'account icon' is the toolbar button with a 'profile' icon of a human
+# head/shoulders. It's for dealing with your Mozilla account. When hovering the
+# icon, the tooltip says 'Account'.
+login-status-advisory-title = Është bërë dalja juaj nga llogaria. Klikoni mbi ikonën e llogarisë që të bëni hyrjen.
 
 ## Bookmarks toolbar callout strings
 
+bookmarks-toolbar-callout-1-title = Të shtohet ky sajt te paneli juaj i faqerojtësve?
+bookmarks-toolbar-callout-1-subtitle = Faqerojtësit tuaj do të ruhen mu nën shtyllën e adresave, për përdorim të shpejtë.
 bookmarks-toolbar-callout-1-primary-button-label = Shtoni faqerojtës
 bookmarks-toolbar-callout-1-secondary-button-label = Jo, Faleminderit
+# Visible if user adds a bookmark in callout 1, bookmarks toolbar is set to always show when this message renders
+bookmarks-toolbar-callout-2a-title = Shtoni lehtësisht më tepër faqerojtës
 bookmarks-toolbar-callout-2a-primary-button-label = E mora vesh
 # Reverts the bookmarks toolbar to the default setting
 bookmarks-toolbar-callout-2a-secondary-button-label = Fshihe Panelin
+# Visible if user declines to add a bookmark in callout 1, bookmarks toolbar is set to always show when this message renders
+bookmarks-toolbar-callout-2b-title = Të mbahet hapur paneli i faqerojtësve?
+bookmarks-toolbar-callout-2b-subtitle = Mundeni të shtoni sajte të tjerë që i vizitoni më shpesh. Thjesht tërhiqni dhe lini skeda këtu, që të mbani në pëllëmbë të dorës sajte të parapëlqyer.
+bookmarks-toolbar-callout-2b-primary-button-label = Mbaje hapur
 # Reverts the bookmarks toolbar to the default setting
 bookmarks-toolbar-callout-2b-secondary-button-label = Jo, faleminderit
 
 ## Perplexity callout strings
 
+perplexity-callout-theme-1-title = Ju duhet përgjigja e duhur, mu tani?
+perplexity-callout-theme-2-title = Provoni Perplexity: një mënyrë e re për kërkim
+perplexity-callout-theme-1-subtitle-2 = Bëni pyetje. Merrni përgjigje të plota, të cituara si duhet. Që të provoni Perplexity-në, zgjidheni që nga butoni i kërkimeve.
+perplexity-callout-theme-2-subtitle-2 = Bëni pyetje. Merrni përgjigje të plota, të cituara si duhet.
+perplexity-callout-primary-label = Pyetni Perplexity-në
 perplexity-callout-secondary-label-1 = Hidhe tej
 perplexity-callout-secondary-label-2 = E mora vesh
 
