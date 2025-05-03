@@ -364,6 +364,10 @@ search-one-offs-actions =
 
 # Opens the about:addons page in the home / recommendations section
 quickactions-addons = Zobrazit doplňky
+# In English we provide multiple spellings for "add-ons". If that's not
+# applicable to your language, only use the correct spelling (don't repeat the
+# same word).
+quickactions-cmd-addons3 = rozšíření, motivy vzhledu, doplňky
 quickactions-cmd-addons2 = doplňky
 # Opens the bookmarks library window
 quickactions-bookmarks2 = Správa záložek
@@ -408,6 +412,7 @@ quickactions-print2 = Vytisknout stránku
 quickactions-cmd-print = tisk
 # Opens the print dialog at the save to PDF option
 quickactions-savepdf = Uložit stránku jako PDF
+quickactions-cmd-savepdf2 = pdf, uložit stránku
 quickactions-cmd-savepdf = pdf
 # Opens a new private browsing window
 quickactions-private2 = Otevřít anonymní okno
@@ -432,6 +437,8 @@ quickactions-cmd-screenshot2 = snímek obrazovky, pořízení snímku obrazovky
 quickactions-cmd-screenshot = snímek obrazovky, stránky
 # Opens about:preferences
 quickactions-settings2 = Nastavení
+# "manage" should match the corresponding command, which is “Manage settings” in English.
+quickactions-cmd-settings2 = nastavení, předvolby, možnosti, spravovat
 quickactions-cmd-settings = nastavení, předvolby, možnosti
 # Opens about:addons page in the themes section
 quickactions-themes = Nastavení vzhledu
@@ -1411,3 +1418,4 @@ file-picker-crashed-show-in-folder =
 
 ## Onboarding Finish Setup checklist
 
+onboarding-checklist-button-label = Dokončit nastavení
