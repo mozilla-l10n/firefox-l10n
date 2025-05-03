@@ -128,6 +128,23 @@ urlbar-result-menu-remove-from-history =
 urlbar-result-menu-tip-get-help =
     .label = Obter axuda
     .accesskey = x
+# Some urlbar suggestions show the user's approximate location as automatically
+# detected by Firefox (e.g., weather suggestions), and this menu item lets the
+# user tell Firefox that the location is not accurate. Typically the location
+# will be a city name, or a city name combined with the name of its parent
+# administrative region (e.g., a province, prefecture, or state).
+urlbar-result-menu-report-inaccurate-location =
+    .label = Informar de localización incorrecta
+urlbar-result-menu-show-less-frequently =
+    .label = Mostrar con menos frecuencia
+urlbar-result-menu-dont-show-weather-suggestions =
+    .label = Non mostrar suxestións do tempo
+# A message shown in the urlbar when the user submits feedback on a suggestion
+# (e.g., it shows an inaccurate location, it's shown too often, etc.).
+urlbar-feedback-acknowledgment = Grazas polos teus comentarios
+# A message shown in the urlbar when the user dismisses weather suggestions.
+# Weather suggestions won't be shown at all anymore.
+urlbar-dismissal-acknowledgment-weather = Grazas polos teus comentarios. Xa non volverás ver recomendacións do tempo.
 
 ## Prompts users to use the Urlbar when they open a new tab or visit the
 ## homepage of their default search engine.
@@ -259,10 +276,17 @@ search-one-offs-actions =
 
 # Opens the about:addons page in the home / recommendations section
 quickactions-addons = Ver os complementos
+# In English we provide multiple spellings for "add-ons". If that's not
+# applicable to your language, only use the correct spelling (don't repeat the
+# same word).
+quickactions-cmd-addons3 = extensións, temas, complementos
 quickactions-cmd-addons2 = complementos
 # Opens the bookmarks library window
 quickactions-bookmarks2 = Xestionar os marcadores
 quickactions-cmd-bookmarks = marcadores
+# Opens a SUMO article explaining how to clear history
+quickactions-clearrecenthistory = Borrar o historial recente
+quickactions-cmd-clearrecenthistory = Borrar historial recente, historial
 # Opens a SUMO article explaining how to clear history
 quickactions-clearhistory = Borrar o historial
 quickactions-cmd-clearhistory = borrar o historial
@@ -272,6 +296,9 @@ quickactions-cmd-downloads = descargas
 # Opens about:addons page in the extensions section
 quickactions-extensions = Xestionar as extensións
 quickactions-cmd-extensions = extensións
+# Opens Firefox View
+quickactions-firefoxview = Abrir { -firefoxview-brand-name }
+quickactions-cmd-help = axuda
 # Opens the devtools web inspector
 quickactions-inspector2 = Abrir as ferramentas de desenvolvemento
 quickactions-cmd-inspector = inspector, desenvolvemento
