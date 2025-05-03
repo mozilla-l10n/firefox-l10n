@@ -61,6 +61,7 @@ pane-experimental-description2 = Konfigurazio-hobespen aurreratuak aldatzeak { -
 settings-pane-labs-title = { -firefoxlabs-brand-name }
 settings-category-labs =
     .tooltiptext = { -firefoxlabs-brand-name }
+pane-experimental-description3 = Probatu gure ezaugarri esperimentalak! Garatzen eta eboluzionatzen ari dira, eta horrek eragina izan dezake  { -brand-short-name }(r)en funtzionamenduan.
 pane-experimental-reset =
     .label = Berrezarri lehenespenak
     .accesskey = h
