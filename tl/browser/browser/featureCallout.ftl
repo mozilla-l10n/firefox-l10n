@@ -15,7 +15,6 @@ callout-firefox-view-tab-pickup-title = Lumipat sa mga ibang device gamit ang ta
 callout-firefox-view-tab-pickup-subtitle = Mabilis mong kunin ang mga nakabukas na tab galing sa iyong telepono at buksan mo ito dito para mahusay ang iyong trabaho.
 callout-firefox-view-recently-closed-title = Madali kang bumalik sa iyong mga nakasaradong tab
 callout-firefox-view-recently-closed-subtitle = Lahat ng iyong saradong tab ay mahiwagang lalabas dito. Huwag mag-alala na ma-aksidenteng masasara muli ang isang site.
-callout-firefox-view-colorways-title = Maglagay ng talsik ng kulay
 # "Shade" refer to different color options in each colorway.
 callout-firefox-view-colorways-subtitle = Pumili ka nang kulay na nagsasalita sa iyo gamit ang mga colorway. Sa { -brand-product-name } lamang.
 # “Shades” refers to the different color options in each colorways
