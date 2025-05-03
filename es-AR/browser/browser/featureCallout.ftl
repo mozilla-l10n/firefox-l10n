@@ -83,6 +83,7 @@ bookmarks-toolbar-callout-2a-primary-button-label = Entendido
 bookmarks-toolbar-callout-2a-secondary-button-label = Ocultar barra de herramientas
 # Visible if user declines to add a bookmark in callout 1, bookmarks toolbar is set to always show when this message renders
 bookmarks-toolbar-callout-2b-title = ¿Mantener abierta la barra de herramientas de marcadores?
+bookmarks-toolbar-callout-2b-subtitle = Se pueden agregar otros sitios visitados con más frecuencia. Simplemente arrastre y suelte las pestañas aquí para mantener los sitios web favoritos al alcance.
 bookmarks-toolbar-callout-2b-primary-button-label = Mantener abierta
 # Reverts the bookmarks toolbar to the default setting
 bookmarks-toolbar-callout-2b-secondary-button-label = No, gracias
