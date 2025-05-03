@@ -89,7 +89,13 @@ bookmarks-toolbar-callout-2b-secondary-button-label = No, gracias
 
 ## Perplexity callout strings
 
+perplexity-callout-theme-1-title = ¿Necesita la respuesta correcta de inmediato?
 perplexity-callout-theme-2-title = Pruebe Perplexity: una nueva forma de buscar
+perplexity-callout-theme-1-subtitle-1 = Pruebe Perplexity. Selecciónelo desde el botón de búsqueda cuando quiera respuestas completas, fuentes incluidas.
+perplexity-callout-theme-1-subtitle-2 = Pregunte. Obtenga respuestas completas y bien citadas. Para probar Perplexity, selecciónelo desde el botón de búsqueda.
+perplexity-callout-theme-2-subtitle-1 = Pregúntele a Perplexity. Obtendrá respuestas completas, fuentes incluidas.
+perplexity-callout-theme-2-subtitle-2 = Pregúntele a Perplexity. Obtendrá respuestas completas y bien citadas.
+perplexity-callout-primary-label = Preguntar a Perplexity
 
 ## Sidebar Strings
 
