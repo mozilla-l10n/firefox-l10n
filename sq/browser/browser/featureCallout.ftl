@@ -96,6 +96,7 @@ bookmarks-toolbar-callout-2b-secondary-button-label = Jo, faleminderit
 perplexity-callout-theme-1-title = Ju duhet përgjigja e duhur, mu tani?
 perplexity-callout-theme-2-title = Provoni Perplexity: një mënyrë e re për kërkim
 perplexity-callout-theme-1-subtitle-2 = Bëni pyetje. Merrni përgjigje të plota, të cituara si duhet. Që të provoni Perplexity-në, zgjidheni që nga butoni i kërkimeve.
+perplexity-callout-theme-2-subtitle-1 = Pyetni Perplexity-në. Do të merrni përgjigje të plota, përfshi burimet.
 perplexity-callout-theme-2-subtitle-2 = Bëni pyetje. Merrni përgjigje të plota, të cituara si duhet.
 perplexity-callout-primary-label = Pyetni Perplexity-në
 perplexity-callout-secondary-label-1 = Hidhe tej

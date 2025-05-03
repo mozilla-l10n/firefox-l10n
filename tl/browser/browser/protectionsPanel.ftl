@@ -34,6 +34,14 @@ protections-panel-site-not-working-view =
 ## custom element code.
 ##   $host (String): the hostname of the site that is being displayed.
 
+protections-panel-etp-toggle-on =
+    .label = Enhanced Tracking Protection
+    .description = Nakabukas sa site na ito
+    .aria-label = Enhanced Tracking Protection: Nakabukas para sa { $host }
+protections-panel-etp-toggle-off =
+    .label = Enhanced Tracking Protection
+    .description = Sarado para sa site na ito
+    .aria-label = Enhanced Tracking Protection: Sarado para sa { $host }
 
 ## The "Allowed" header also includes a "Why?" link that, when hovered, shows
 ## a tooltip explaining why these items were not blocked in the page.

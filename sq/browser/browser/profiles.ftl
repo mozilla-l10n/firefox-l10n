@@ -7,6 +7,8 @@ profile-window-body = Mbani punën tuaj dhe shfletimin personal, përfshi gjëra
 # This checkbox appears in the Choose profile window that appears when the browser is opened. "Show this" refers to this window, which is displayed when the checkbox is enabled.
 profile-window-checkbox-label-2 =
     .label = Zgjidhni një profil të përdoret kur hapet { -brand-short-name }-i
+# This subcopy appears below the checkbox when it is unchecked
+profile-window-checkbox-subcopy = { -brand-short-name }-i do ta hapet me profilin tuaj të përdorur së fundi.
 profile-window-create-profile = Krijoni profil
 profile-card-edit-button =
     .title = Përpunoni profil

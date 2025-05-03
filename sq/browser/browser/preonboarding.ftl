@@ -10,6 +10,7 @@ preonboarding-subtitle = Duke vazhduar, pajtoheni me Termat e Përdorimit për {
 preonboarding-primary-cta = Ripohojeni dhe vazhdoni
 # Labels for header style button that toggles showing the terms of use, privacy notice, and data preferences checklist
 preonboarding-manage-and-read-header = Administroni rregullime mbledhjeje të dhënash dhe lexoni Rregullat tona të Përdorimit dhe Shënimin tonë mbi Privatësinë
+preonboarding-manage-and-read-header-v2 = Lexoni Kushte Përdorimi dhe Shënim Mbi Privatësinë. Administroni rregullime të tjera.
 # Label for header style button that toggles showing the Terms of Use
 preonboarding-terms-of-use-header-button-title = Lexoni Rregullat tona të Përdorimit
 # Label for header style button that toggles showing the Privacy Notice
