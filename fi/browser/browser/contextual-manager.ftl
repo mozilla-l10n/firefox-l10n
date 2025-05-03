@@ -294,3 +294,10 @@ contextual-manager-passwords-discard-changes-heading-and-message =
     .message = Muutoksia ei tallenneta.
 contextual-manager-passwords-discard-changes-close-button = Sulje
 contextual-manager-passwords-discard-changes-go-back-button = Takaisin
+#   $total (number) - Total number of passwords
+contextual-manager-passwords-remove-all-passwords-checkbox =
+    { $total ->
+        [1] Kyllä, poista salasana
+        [one] Kyllä, poista salasana
+       *[other] Kyllä, poista salasanat
+    }

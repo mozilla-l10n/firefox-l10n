@@ -118,6 +118,7 @@ deniedPortAccess-title = Osoitteen käyttö on rajoitettu
 # "Hmm" is a sound made when considering or puzzling over something.
 # You don't have to include it in your translation if your language does not have a written word like this.
 dnsNotFound-title = Hmm. Sivua ei löydy.
+internet-connection-offline-title = Vaikuttaa siltä, että Internet-yhteydessäsi on ongelma.
 dns-not-found-trr-only-title2 = Mahdollinen tietoturvariski tätä verkkotunnusta etsittäessä
 dns-not-found-native-fallback-title2 = Mahdollinen tietoturvariski tätä verkkotunnusta etsittäessä
 fileNotFound-title = Tiedostoa ei löytynyt

@@ -279,6 +279,7 @@ discopane-notice-recommendations2 =
         Jotkin näistä suosituksista ovat henkilökohtaisia. Suositukset pohjautuvat
         muihin asentamiisi laajennuksiin, profiiliasetuksiin ja käyttötilastoihin.
 discopane-notice-learn-more = Lue lisää
+colorway-removal-notice-learn-more = Lue lisää
 privacy-policy = Tietosuojaseloste
 # Refers to the author of an add-on, shown below the name of the add-on.
 # Variables:

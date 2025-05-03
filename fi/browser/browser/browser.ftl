@@ -1168,6 +1168,10 @@ popup-notification-addon-install-unsigned =
     .value = (Varmentamaton)
 popup-notification-xpinstall-prompt-learn-more = Lue lisää lisäosien asentamisesta turvallisesti
 popup-notification-xpinstall-prompt-block-url = Näytä yksityiskohdat
+# Note: Access key is set to p to match "private" in the corresponding localized label.
+popup-notification-addon-privatebrowsing-checkbox2 =
+    .label = Salli laajennuksen suorittaminen yksityisissä ikkunoissa
+    .accesskey = ä
 # Note: Access key is set to P to match "Private" in the corresponding localized label.
 popup-notification-addon-privatebrowsing-checkbox =
     .label = Suorita yksityisissä ikkunoissa
@@ -1225,3 +1229,4 @@ file-picker-crashed-show-in-folder =
 
 ## Onboarding Finish Setup checklist
 
+onboarding-checklist-button-label = Viimeistele määritys

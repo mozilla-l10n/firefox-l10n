@@ -263,6 +263,10 @@ preferences-web-appearance-choice-input-dark =
     .aria-description = { preferences-web-appearance-choice-tooltip-dark.title }
 # This can appear when using windows HCM or "Override colors: always" without
 # system colors.
+preferences-web-appearance-override-warning3 =
+    .message = Kontrastiasetukset ohittavat verkkosivuston ulkoasun.
+# This can appear when using windows HCM or "Override colors: always" without
+# system colors.
 preferences-web-appearance-override-warning = Värivalintasi ohittavat verkkosivuston ulkoasun. <a data-l10n-name="colors-link">Hallinnoi värejä</a>
 # This can appear when using windows HCM or "Override colors: always" without
 # system colors.
