@@ -961,6 +961,12 @@ permissions-autoplay-settings =
 permissions-block-popups =
     .label = പോപ്പപ്‌ ജാലകങ്ങള്‍ തടയുക
     .accesskey = B
+# "popup" is a misspelling that is more popular than the correct spelling of
+# "pop-up" so it's included as a search keyword, not displayed in the UI.
+permissions-block-popups-exceptions-button =
+    .label = വിട്ടുവീഴ്ചകള്‍…
+    .accesskey = വ
+    .searchkeywords = പൊന്തുവരലുകൾ
 permissions-addon-install-warning =
     .label = വെബ്സൈറ്റുകൾ ആഡ്-ഓൺസ് ഇൻസ്റ്റാൾ ചെയ്യാൻ ശ്രമിക്കുമ്പോൾ നിങ്ങൾക്ക് മുന്നറിയിപ്പ് നൽകുക
     .accesskey = W
@@ -971,6 +977,8 @@ permissions-addon-exceptions =
 ## Privacy Section - Data Collection
 
 collection-header = { -brand-short-name } വിവര ശേഖരണവും ഉപയോഗവും
+collection-header2 = { -brand-short-name } ഡാറ്റ പിരിവും ഉപയോഗവും
+    .searchkeywords = നിരീക്ഷണം
 preferences-collection-privacy-notice = സ്വകാര്യത അറിയിപ്പു് കാണുക
 collection-description = നിങ്ങൾക്ക് തിരഞ്ഞെടുക്കാനുള്ള അവസരങ്ങള്‍ നല്‍കാനും { -brand-short-name } മെച്ചപെടുത്താനായി ആവശ്യമുള്ളതുമാത്രം ശേഖരിക്കാനും ഞങ്ങൾ പരിശ്രമിക്കുകയാണ്. വ്യക്തിപരമായ വിവരങ്ങൾ കൈക്കൊള്ളുന്നതിന് മുമ്പ് ഞങ്ങൾ എല്ലായ്പ്പോഴും അനുമതി ചോദിക്കും.
 collection-privacy-notice = സ്വകാര്യതാ പോളിസി
