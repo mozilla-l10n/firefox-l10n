@@ -54,6 +54,10 @@ neterror-dns-not-found-hint-header = <strong>Jeli sće prawu adresu zapodał, m�
 neterror-dns-not-found-hint-try-again = Pozdźišo hišće raz spytać
 neterror-dns-not-found-hint-check-network = Waš syćowy zwisk přepruwować
 neterror-dns-not-found-hint-firewall = Přepruwujće, hač { -brand-short-name } ma prawo na přistup k webej (sće snano zwjazany, ale za wohnjomurju)
+neterror-dns-not-found-offline-hint-header = <strong>Što móžeće přećiwo tomu činić?</strong>
+neterror-dns-not-found-offline-hint-different-device = Spytajće z druhim gratom zwjazać.
+neterror-dns-not-found-offline-hint-modem = Přepruwujće swój modem abo router.
+neterror-dns-not-found-offline-hint-reconnect = Dźělće wot a zwjazajće zaso z WLAN.
 
 ## TRR-only specific messages
 ## Variables:

@@ -10,6 +10,7 @@ preonboarding-subtitle = Hdyž pokročujeće, zwoliće do wužiwanskich wuměnje
 preonboarding-primary-cta = Wobkrućić a pokročować
 # Labels for header style button that toggles showing the terms of use, privacy notice, and data preferences checklist
 preonboarding-manage-and-read-header = Rjadujće nastajenja za hromadźenje datow a čitajće naše wužiwanske wuměnjenja a zdźělenku priwatnosće
+preonboarding-manage-and-read-header-v2 = Čitajće wužiwanske wuměnjenja a zdźělenku priwatnosće. Rjadujće přidatne nastajenja.
 # Label for header style button that toggles showing the Terms of Use
 preonboarding-terms-of-use-header-button-title = Čitajće naše wužiwanske wuměnjenja
 # Label for header style button that toggles showing the Privacy Notice
