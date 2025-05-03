@@ -75,11 +75,20 @@ login-status-advisory-title = Et ole sisäänkirjautunut. Kirjaudu sisään naps
 
 ## Bookmarks toolbar callout strings
 
+bookmarks-toolbar-callout-1-title = Lisätäänkö tämä sivusto kirjanmerkkipalkkiin?
+bookmarks-toolbar-callout-1-subtitle = Kirjanmerkkisi tallennetaan osoiterivin alapuolelle nopeaa käyttöä varten.
 bookmarks-toolbar-callout-1-primary-button-label = Lisää kirjanmerkki
 bookmarks-toolbar-callout-1-secondary-button-label = Ei kiitos
 # Visible if user adds a bookmark in callout 1, bookmarks toolbar is set to always show when this message renders
 bookmarks-toolbar-callout-2a-title = Lisää vaivatta kirjanmerkkejä
+bookmarks-toolbar-callout-2a-subtitle = Voit vetää ja pudottaa välilehtiä tänne pitääksesi enemmän suosikkisivustojasi käden ulottuvilla.
 bookmarks-toolbar-callout-2a-primary-button-label = Selvä
+# Reverts the bookmarks toolbar to the default setting
+bookmarks-toolbar-callout-2a-secondary-button-label = Piilota työkalupalkki
+# Visible if user declines to add a bookmark in callout 1, bookmarks toolbar is set to always show when this message renders
+bookmarks-toolbar-callout-2b-title = Pidetäänkö kirjanmerkkien työkalupalkki avoinna?
+bookmarks-toolbar-callout-2b-subtitle = Voit lisätä muita sivustoja, joilla käyt usein. Vedä ja pudota välilehtiä tänne pitääksesi suosikkisivustosi käden ulottuvilla.
+bookmarks-toolbar-callout-2b-primary-button-label = Pidä avoinna
 # Reverts the bookmarks toolbar to the default setting
 bookmarks-toolbar-callout-2b-secondary-button-label = Ei kiitos
 
