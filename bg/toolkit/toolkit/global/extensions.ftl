@@ -33,6 +33,9 @@ webext-perms-sideload-enable =
 webext-perms-sideload-cancel =
     .label = Отказ
     .accesskey = О
+# Variables:
+#   $extension (String): replaced with the localized name of the extension.
+webext-perms-update-text = Разширението { $extension } е актуализирано. Трябва да одобрите новите разрешения, преди да се инсталира актуализираното издание. Избирането на „Отказ“ ще запази текущата версия на разширението. Това разширение ще има права за:
 webext-perms-update-accept =
     .label = Обновяване
     .accesskey = О
