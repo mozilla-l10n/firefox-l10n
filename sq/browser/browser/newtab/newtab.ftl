@@ -527,7 +527,10 @@ newtab-custom-wallpaper-cta = Provojeni
 newtab-download-mobile-highlight-title = Shkarkoni { -brand-product-name } për celular
 # "Scan the code" refers to scanning the QR code that appears above the body text that leads to Firefox for mobile download.
 newtab-download-mobile-highlight-body-variant-a = Skanoni kodin, që të shfletoni pa rrezik kudo që jeni.
+newtab-download-mobile-highlight-body-variant-b = Vazhdoni ku e lata, kur njëkohësoni skedat tuaja, fjalëkalimet, etj.
 newtab-download-mobile-highlight-body-variant-c = E dinit se mund ta merrni { -brand-product-name } me vete kudo që gjendeni? Po ai shfletues. Në xhep.
+newtab-download-mobile-highlight-image =
+    .aria-label = Kod QR për të shkarkuar { -brand-product-name } për celular
 
 ## Strings for reporting ads and content
 

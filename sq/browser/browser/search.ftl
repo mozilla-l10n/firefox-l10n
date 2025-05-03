@@ -38,6 +38,7 @@ remove-search-engine-button = OK
 ## Variables
 ## $newEngine (String) - the name of the new default search engine.
 
+reset-search-settings-message = Për shkak të një problemi teknik, motori juaj parazgjedhje i kërkimeve është rikthyer te { $newEngine }. Që të ndryshoni motorin parazgjedhje të kërkimeve, kaloni te rregullimet.
 reset-search-settings-button = OK
 
 ## Infobar shown when user is prompted to install search engine.
