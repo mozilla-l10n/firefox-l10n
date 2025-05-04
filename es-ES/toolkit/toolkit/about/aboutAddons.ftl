@@ -278,6 +278,13 @@ discopane-notice-recommendations = Algunas de estas recomendaciones son personal
 discopane-notice-recommendations2 =
     .message = Algunas de estas recomendaciones son personalizadas. Se basan en otras extensiones que tiene instaladas, preferencias de su perfil y estadísticas de uso.
 discopane-notice-learn-more = Saber más
+# Notice for the colorway theme removal
+colorway-removal-notice-message =
+    .heading = Su(s) tema(s) de combinación de colores fueron eliminados.
+    .message =
+        { -brand-product-name } actualizó su colección de combinación de colores. Hemos eliminado 
+        las versiones antiguas de la lista de “Temas guardados”. Obtenga las nuevas versiones en
+        el sitio de complementos.
 colorway-removal-notice-learn-more = Saber más
 colorway-removal-notice-button = Obtenga temas de combinaciones de colores actualizados
 privacy-policy = Política de privacidad
