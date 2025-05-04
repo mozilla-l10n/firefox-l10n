@@ -57,7 +57,7 @@ firefox-relay-and-fxa-opt-in-confirmation-postpone =
 ## The "control" variation of the Relay offer popup
 
 firefox-relay-and-fxa-popup-notification-second-sentence-control = Primo, inscribe te o accede a tu conto pro usar un alias email
-firefox-relay-offer-legal-notice-control = Si tu te inscribe e tu crea un “alias email”, tu concorda con le <label data-l10n-name="tos-url">Terminos se servicio</label> e con le <label data-l10n-name="privacy-url">Aviso de confidentialitate</label>.
+firefox-relay-offer-legal-notice-control = Si tu te inscribe e crea un “masca de e-mail”, tu accepta le <label data-l10n-name="tos-url">Terminos de servicio</label> e le <label data-l10n-name="privacy-url">Aviso de confidentialitate</label>.
 
 ## The "basic-info" variation of the Relay offer popup
 
