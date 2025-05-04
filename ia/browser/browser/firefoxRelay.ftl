@@ -72,15 +72,16 @@ firefox-relay-and-fxa-opt-in-confirmation-enable-button-basic-info =
 
 firefox-relay-and-fxa-popup-notification-header-with-domain = Obtene un masca de e-mail gratuite
 firefox-relay-and-fxa-popup-notification-first-sentence-with-domain = Protege tu cassa de entrata contra le spam usante un <label data-l10n-name="firefox-relay-learn-more-url">masca de e-mail</label> gratuite pro celar tu adresse real. Le messages de <label data-l10n-name="firefox-fxa-and-relay-offer-domain">iste sito</label> continuara a arrivar in tu cassa de entrata, ma con tu adresse de e-mail celate.
+firefox-relay-and-fxa-popup-notification-second-sentence-with-domain = Primo, inscribe te o aperi session pro usar un masca de e-mail
 firefox-relay-and-fxa-opt-in-confirmation-enable-button-with-domain =
     .label = Inscriber se
     .accesskey = I
 
 ## The "with-domain-and-value-prop" variation of the Relay offer popup
 
-firefox-relay-and-fxa-popup-notification-header-with-domain-and-value-prop = Protege te contra le spam con un alias email
+firefox-relay-and-fxa-popup-notification-header-with-domain-and-value-prop = Protege te contra le spam con un masca de e-mail
 firefox-relay-and-fxa-popup-notification-first-sentence-with-domain-and-value-prop = Protege te contra le spam per celar tu adresse real con un <label data-l10n-name="firefox-relay-learn-more-url">masca de e-mail</label>. Tu’ continuara a reciper le messages de <label data-l10n-name="firefox-fxa-and-relay-offer-domain">iste sito</label> in tu cassa de entrata normal, con tu adresse mascate.
-firefox-relay-and-fxa-popup-notification-second-sentence-with-domain-and-value-prop = Primo, inscribe te o accede a tu conto a usa un alias email
+firefox-relay-and-fxa-popup-notification-second-sentence-with-domain-and-value-prop = Primo, inscribe te o aperi session pro usar un masca de e-mail
 firefox-relay-and-fxa-opt-in-confirmation-enable-button-with-domain-and-value-prop =
     .label = Sequente
     .accesskey = S
