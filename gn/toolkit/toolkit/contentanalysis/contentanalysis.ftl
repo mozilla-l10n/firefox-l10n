@@ -13,6 +13,15 @@ contentanalysis-slow-agent-dialog-header = Moha’ãnga ojehúva
 contentanalysis-slow-agent-dialog-body-file = { $agent } ohechahína “{ $filename }” he’iháicha atyguasu mba’ekuaarã porureko. Kóva ipukumiekuaa.
 # Variables:
 #   $agent - The name of the DLP agent doing the analysis
+#   $filename - Name of a file being analyzed, such as "aFile.txt"
+#   $count (number) - The number of additional items in the request for analysis
+contentanalysis-slow-agent-dialog-body-file-and-more =
+    { $count ->
+        [one] { $agent } ohechajeyhína “{ $filename }” ha { $count } mba’eporurã oĩvéva he’iháicha atyguasu mba’ekuaarã porureko. Kóva ipukumiekuaa.
+       *[other] { $agent } ohechajeyhína “{ $filename }” ha { $count } mba’eporurã oĩvéva he’iháicha atyguasu mba’ekuaarã porureko. Kóva ipukumiekuaa.
+    }
+# Variables:
+#   $agent - The name of the DLP agent doing the analysis
 contentanalysis-slow-agent-dialog-body-clipboard = { $agent } ohechahína oikova’ekue he’iháicha atyguasu mba’ekuaarã porureko. Kóva ipukumiekuaa.
 # Note that this is shown when the user drag and drops text into the browser.
 # Variables:
