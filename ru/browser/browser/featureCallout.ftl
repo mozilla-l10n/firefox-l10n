@@ -94,6 +94,15 @@ bookmarks-toolbar-callout-2b-secondary-button-label = Нет, спасибо
 
 ## Perplexity callout strings
 
+perplexity-callout-theme-1-title = Нужен правильный ответ прямо сейчас?
+perplexity-callout-theme-2-title = Попробуйте Perplexity: новый способ поиска
+perplexity-callout-theme-1-subtitle-1 = Попробуйте Perplexity. Выберите его в кнопке поиска, когда нужны полные ответы с указанием источников.
+perplexity-callout-theme-1-subtitle-2 = Задавайте вопросы. Получайте подробные ответы с достоверными источниками. Чтобы попробовать Perplexity, выберите его через кнопку поиска.
+perplexity-callout-theme-2-subtitle-1 = Спрашивайте Perplexity. Получите исчерпывающие ответы с достоверными источниками.
+perplexity-callout-theme-2-subtitle-2 = Задавайте вопросы. Получайте исчерпывающие ответы с достоверными источниками.
+perplexity-callout-primary-label = Спросить Perplexity
+perplexity-callout-secondary-label-1 = Скрыть
+perplexity-callout-secondary-label-2 = Понятно
 
 ## Sidebar Strings
 

@@ -124,3 +124,5 @@ webext-site-perms-midi-sysex = Доступ к MIDI-устройствам с п
 
 ## Colorway theme migration
 
+webext-colorway-theme-migration-notification-message = <b>Ваша тема с расцветками была удалена.</b> { -brand-shorter-name } обновил свою подборку расцветок. Вы можете найти последние версии на сайте дополнений.
+webext-colorway-theme-migration-notification-button = Получить обновленные расцветки

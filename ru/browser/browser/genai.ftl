@@ -139,6 +139,9 @@ genai-onboarding-lechat-learn = Узнайте больше о Le Chat
 genai-onboarding-select-header = Выберите текст для просмотра предложений
 genai-onboarding-select-description = При выделении текста мы будем предлагать подсказки, которые вы можете отправить чат-боту. Вы также можете писать в своих собственных запросах.
 genai-onboarding-select-primary = Начать чат
+genai-chatbot-contextual-title = Используйте ИИ-чат-бот без переключения вкладок
+genai-chatbot-contextual-subtitle = Общайтесь и сёрфите одновременно, добавив ИИ-чат-бот на боковую панель { -brand-short-name }.
+genai-chatbot-contextual-button = Выберите чат-бот
 
 ## Chatbot onboarding choices
 ## These describe features/capabilities of chatbot providers. These are not buttons/actions.
@@ -172,3 +175,16 @@ genai-model-optin-cancel =
 
 ## Link previews
 
+# ‘min’ is short for “minute”
+# ‘mins’ is short for “minutes”
+# An estimate for how long it takes to read an article,
+# expressed as a range covering both slow and fast readers.
+# Variables:
+#   $rangePlural (String): The plural category of the range, using the same set as for numbers.
+#   $range (String): The range of minutes as a localised string. Examples: "3-7", "~1".
+link-preview-reading-time =
+    { $rangePlural ->
+        [one] { $range } минута чтения
+        [few] { $range } минуты чтения
+       *[many] { $range } минут чтения
+    }
