@@ -121,3 +121,4 @@ webext-site-perms-midi-sysex = Acceder a dispositivos MIDI con soporte para SysE
 
 ## Colorway theme migration
 
+webext-colorway-theme-migration-notification-message = <b>Se ha eliminado el tema de combinación de colores.</b> { -brand-shorter-name } ha actualizado su colección de combinaciones de colores. Se pueden encontrar las últimas versiones en el sitio de complementos.
