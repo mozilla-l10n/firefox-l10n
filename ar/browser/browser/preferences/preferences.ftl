@@ -992,6 +992,7 @@ forms-windows-sso =
     .label = اسمح بالولوج الموحّد من وِندوز إلى حسابات ميكروسوفت وحسابات العمل والحسابات المدرسية.
 forms-windows-sso-learn-more-link = اطّلع على المزيد
 forms-windows-sso-desc = أدِر الحسابات في إعدادات الجهاز
+windows-passkey-settings-label = أدر مفاتيح المرور (passkeys) في إعدادات النظام
 
 ## OS Authentication dialog
 
@@ -1161,8 +1162,10 @@ addressbar-locbar-showtrendingsuggestions-option =
 # Nonsponsored suggestions refers to Firefox Suggest suggestions like Wikipedia.
 addressbar-locbar-suggest-nonsponsored-option =
     .label = اقتراحات من { -brand-short-name }
+addressbar-locbar-suggest-nonsponsored-desc = احصل على اقتراحات من الوِب تتعلق ببحثك.
 addressbar-locbar-suggest-sponsored-option =
     .label = اقتراحات من الرعاة
+addressbar-locbar-suggest-sponsored-desc = ادعم { -brand-short-name } باقتراحات برعاية عرضية.
 addressbar-quickactions-learn-more = اطّلع على المزيد
 addressbar-dismissed-suggestions-label = الاقتراحات المهملة
 addressbar-restore-dismissed-suggestions-description = استعِد الاقتراحات المرفوضة من الرعاة و{ -brand-short-name }.
