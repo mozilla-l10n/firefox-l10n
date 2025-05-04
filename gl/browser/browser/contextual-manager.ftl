@@ -79,8 +79,8 @@ contextual-manager-passwords-export-file-picker-csv-filter-title =
 contextual-manager-passwords-remove-all-title =
     { $total ->
         [1] Borrar o contrasinal?
-        [one] Borrar { $count } contrasinal?
-       *[other] Borrar os { $count } contrasinais?
+        [one] Borrar { $total } contrasinal?
+       *[other] Borrar os { $total } contrasinais?
     }
 # Checkbox label to confirm the removal of saved passwords
 #   $total (number) - Total number of passwords
