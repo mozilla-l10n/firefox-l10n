@@ -278,6 +278,15 @@ discopane-notice-recommendations = Деякі з цих рекомендацій
 discopane-notice-recommendations2 =
     .message = Деякі з цих рекомендацій персоналізовані. Вони базуються на ваших вже встановлених розширеннях, налаштуваннях профілю і статистиці використання.
 discopane-notice-learn-more = Докладніше
+# Notice for the colorway theme removal
+colorway-removal-notice-message =
+    .heading = Ваші теми забарвлень вилучено.
+    .message =
+        Колекцію забарвлень для { -brand-product-name } оновлено. Ми вилучили
+        застарілі версії зі списку "Збережені теми". Отримайте нові версії на
+        на сайті додатків.
+colorway-removal-notice-learn-more = Докладніше
+colorway-removal-notice-button = Отримайте оновлені теми забарвлень
 privacy-policy = Політика приватності
 # Refers to the author of an add-on, shown below the name of the add-on.
 # Variables:

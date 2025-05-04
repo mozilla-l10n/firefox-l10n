@@ -54,6 +54,10 @@ neterror-dns-not-found-hint-header = <strong>Якщо ви ввели прави
 neterror-dns-not-found-hint-try-again = Повторіть спробу пізніше
 neterror-dns-not-found-hint-check-network = Перевірте мережеве з'єднання
 neterror-dns-not-found-hint-firewall = Перевірте чи { -brand-short-name } має дозвіл на доступ до інтернету (мережевий екран може блокувати з'єднання)
+neterror-dns-not-found-offline-hint-header = <strong>Що ви можете зробити?</strong>
+neterror-dns-not-found-offline-hint-different-device = Спробуйте встановити з'єднання на іншому пристрої.
+neterror-dns-not-found-offline-hint-modem = Перевірте свій модем або маршрутизатор.
+neterror-dns-not-found-offline-hint-reconnect = Повторно під'єднайтеся до Wi-Fi.
 
 ## TRR-only specific messages
 ## Variables:
