@@ -433,14 +433,14 @@ newtab-weather-menu-weather-display = 天気表示
 # - Simple: Displays a current weather condition icon and the current temperature
 # - Detailed: Include simple information plus a short text summary: e.g. "Mostly cloudy"
 newtab-weather-menu-weather-display-option-simple = シンプル
-newtab-weather-menu-change-weather-display-simple = シンプル表示に切り替えます
+newtab-weather-menu-change-weather-display-simple = シンプル表示に切り替える
 newtab-weather-menu-weather-display-option-detailed = 詳細
-newtab-weather-menu-change-weather-display-detailed = 詳細表示に切り替えます
+newtab-weather-menu-change-weather-display-detailed = 詳細表示に切り替える
 newtab-weather-menu-temperature-units = 温度の単位
 newtab-weather-menu-temperature-option-fahrenheit = 華氏 (℉)
 newtab-weather-menu-temperature-option-celsius = 摂氏 (℃)
-newtab-weather-menu-change-temperature-units-fahrenheit = ファーレンハイト度に切り替えます
-newtab-weather-menu-change-temperature-units-celsius = セルシウス度に切り替えます
+newtab-weather-menu-change-temperature-units-fahrenheit = ファーレンハイト度に切り替える
+newtab-weather-menu-change-temperature-units-celsius = セルシウス度に切り替える
 newtab-weather-menu-hide-weather = 新規タブの天気表示を隠す
 newtab-weather-menu-learn-more = 詳細情報
 # This message is shown if user is working offline
@@ -529,3 +529,26 @@ newtab-custom-wallpaper-title = カスタム壁紙が利用できます
 # 'Make firefox yours" means to customize or personalize
 newtab-custom-wallpaper-subtitle = 壁紙をアップロードするかお好みのカラーを選んで、あなただけの { -brand-product-name } にカスタマイズしましょう。
 newtab-custom-wallpaper-cta = 壁紙を試す
+
+## Strings for reporting ads and content
+
+newtab-report-content-why-reporting-this =
+    .label = この広告を報告した理由を教えてください。
+newtab-report-ads-reason-not-interested =
+    .label = 興味がない
+newtab-report-ads-reason-inappropriate =
+    .label = 不適切
+newtab-report-ads-reason-seen-it-too-many-times =
+    .label = 表示回数が多すぎる
+newtab-report-content-wrong-category =
+    .label = カテゴリーが誤っている
+newtab-report-content-outdated =
+    .label = 古くなっている
+newtab-report-content-inappropriate-offensive =
+    .label = 不適切または攻撃的
+newtab-report-content-spam-misleading =
+    .label = スパムまたはミスリード
+newtab-report-cancel = キャンセル
+newtab-report-submit = 送信
+newtab-toast-thanks-for-feedback =
+    .message = フィードバックありがとうございます
