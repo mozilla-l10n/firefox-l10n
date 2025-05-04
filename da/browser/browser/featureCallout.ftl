@@ -75,6 +75,16 @@ login-status-advisory-title = Du er logget ud. Klik på konto-ikonet for at logg
 
 ## Bookmarks toolbar callout strings
 
+bookmarks-toolbar-callout-1-title = Føj dette websted til din bogmærkelinje?
+bookmarks-toolbar-callout-1-subtitle = Dit bogmærke bliver gemt lige under adresselinjen, så du hurtigt kan finde det igen.
+bookmarks-toolbar-callout-1-primary-button-label = Tilføj bogmærke
+bookmarks-toolbar-callout-1-secondary-button-label = Nej tak
+# Visible if user adds a bookmark in callout 1, bookmarks toolbar is set to always show when this message renders
+bookmarks-toolbar-callout-2a-title = Tilføj nemt flere bogmærker
+bookmarks-toolbar-callout-2a-subtitle = Du kan trække og slippe faneblade her for at have flere af dine foretrukne websteder inden for rækkevidde.
+bookmarks-toolbar-callout-2a-primary-button-label = Forstået
+# Reverts the bookmarks toolbar to the default setting
+bookmarks-toolbar-callout-2a-secondary-button-label = Skjul værktøjslinjen
 
 ## Perplexity callout strings
 

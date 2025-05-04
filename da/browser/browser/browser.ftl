@@ -337,6 +337,10 @@ search-one-offs-actions =
 
 # Opens the about:addons page in the home / recommendations section
 quickactions-addons = Vis tilføjelser
+# In English we provide multiple spellings for "add-ons". If that's not
+# applicable to your language, only use the correct spelling (don't repeat the
+# same word).
+quickactions-cmd-addons3 = udvidelser, temaer, tilføjelser
 quickactions-cmd-addons2 = tilføjelser
 # Opens the bookmarks library window
 quickactions-bookmarks2 = Håndter bogmærker
@@ -377,6 +381,7 @@ quickactions-print2 = Udskriv side
 quickactions-cmd-print = udskriv
 # Opens the print dialog at the save to PDF option
 quickactions-savepdf = Gem side som PDF
+quickactions-cmd-savepdf2 = pdf, gem side
 quickactions-cmd-savepdf = pdf
 # Opens a new private browsing window
 quickactions-private2 = Åbn privat vindue
@@ -393,6 +398,8 @@ quickactions-cmd-screenshot2 = skærmbillede, tag et skærmbillede
 quickactions-cmd-screenshot = skærmbillede
 # Opens about:preferences
 quickactions-settings2 = Håndter indstillinger
+# "manage" should match the corresponding command, which is “Manage settings” in English.
+quickactions-cmd-settings2 = indstillinger, præferencer, håndter
 quickactions-cmd-settings = indstillinger
 # Opens about:addons page in the themes section
 quickactions-themes = Håndter temaer
@@ -1246,3 +1253,4 @@ file-picker-crashed-show-in-folder =
 
 ## Onboarding Finish Setup checklist
 
+onboarding-checklist-button-label = Afslut opsætning
