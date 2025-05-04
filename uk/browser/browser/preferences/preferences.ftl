@@ -266,6 +266,10 @@ preferences-web-appearance-choice-input-dark =
     .aria-description = { preferences-web-appearance-choice-tooltip-dark.title }
 # This can appear when using windows HCM or "Override colors: always" without
 # system colors.
+preferences-web-appearance-override-warning3 =
+    .message = Ваші налаштування контрастності мають перевагу над зовнішнім виглядом вебсайту.
+# This can appear when using windows HCM or "Override colors: always" without
+# system colors.
 preferences-web-appearance-override-warning = Вибрані кольори мають перевагу над зовнішнім виглядом вебсайту. <a data-l10n-name="colors-link">Керувати кольорами</a>
 # This can appear when using windows HCM or "Override colors: always" without
 # system colors.

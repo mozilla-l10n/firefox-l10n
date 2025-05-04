@@ -10,6 +10,7 @@ preonboarding-subtitle = Продовжуючи, ви погоджуєтеся �
 preonboarding-primary-cta = Підтвердити й продовжити
 # Labels for header style button that toggles showing the terms of use, privacy notice, and data preferences checklist
 preonboarding-manage-and-read-header = Керуйте налаштуваннями збору даних і прочитайте наші Умови користування і Положення про приватність
+preonboarding-manage-and-read-header-v2 = Ознайомтеся з Умовами користування та Положенням про приватність. Керуйте додатковими налаштуваннями.
 # Label for header style button that toggles showing the Terms of Use
 preonboarding-terms-of-use-header-button-title = Прочитайте наші Умови користування
 # Label for header style button that toggles showing the Privacy Notice
@@ -18,8 +19,10 @@ preonboarding-privacy-notice-header-button-title = Прочитайте наше
 preonboarding-manage-data-header-button-title = Керувати технічними й аналітичними даними
 # Labels for header style button that toggles showing the Terms of Use (Variant B)
 preonboarding-terms-of-use-header-button-title-b = Умови користування { -brand-product-name }
+preonboarding-terms-of-use-header-button-title-b-v2 = Умови користування
 # Labels for header style button that toggles showing the Privacy Notice (Variant B)
 preonboarding-privacy-notice-header-button-title-b = Положення про приватність { -brand-product-name }
+preonboarding-privacy-notice-header-button-title-b-v2 = Положення про приватність
 # Description under label for header style buttons
 preonboarding-header-button-description = Докладніше
 # New user onboarding checklist

@@ -530,6 +530,13 @@ newtab-custom-wallpaper-cta = Спробувати
 
 ## Strings for download mobile highlight
 
+newtab-download-mobile-highlight-title = Завантажити { -brand-product-name } для мобільних пристроїв
+# "Scan the code" refers to scanning the QR code that appears above the body text that leads to Firefox for mobile download.
+newtab-download-mobile-highlight-body-variant-a = Скануйте код, щоб безпечно переглядати вебсторінки в дорозі.
+newtab-download-mobile-highlight-body-variant-b = Продовжуйте з того місця, де зупинилися, синхронізуючи вкладки, паролі тощо.
+newtab-download-mobile-highlight-body-variant-c = Чи знаєте ви, що { -brand-product-name } можна використовувати де б ви не були? Той самий браузер у вашій кишені.
+newtab-download-mobile-highlight-image =
+    .aria-label = QR-код для завантаження { -brand-product-name } для мобільних пристроїв
 
 ## Strings for reporting ads and content
 
@@ -551,3 +558,5 @@ newtab-report-content-spam-misleading =
     .label = Спам або введення в оману
 newtab-report-cancel = Скасувати
 newtab-report-submit = Надіслати
+newtab-toast-thanks-for-reporting =
+    .message = Дякуємо, що повідомили про це.
