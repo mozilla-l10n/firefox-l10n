@@ -121,6 +121,7 @@ deniedPortAccess-title = 此網址已被限制
 # "Hmm" is a sound made when considering or puzzling over something.
 # You don't have to include it in your translation if your language does not have a written word like this.
 dnsNotFound-title = 呃…找不到這個網站。
+internet-connection-offline-title = 您的網路連線可能有點問題。
 dns-not-found-trr-only-title2 = 查詢此網域可能會有安全性風險
 dns-not-found-native-fallback-title2 = 查詢此網域可能會有安全性風險
 fileNotFound-title = 找不到檔案

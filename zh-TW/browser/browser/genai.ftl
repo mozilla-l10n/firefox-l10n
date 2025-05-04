@@ -130,6 +130,7 @@ genai-onboarding-select-header = 選擇文字即可檢視建議
 genai-onboarding-select-description = 選擇文字時，我們將提供您一些可以直接送到機器人的提示語，您也可以寫自己的提示語。
 genai-onboarding-select-primary = 開始聊天
 genai-chatbot-contextual-title = 不用切換分頁就能直接使用 AI 聊天機器人
+genai-chatbot-contextual-subtitle = 在 { -brand-short-name } 側邊欄新增 AI 聊天機器人，即可一邊上網，一邊與機器人聊天。
 genai-chatbot-contextual-button = 挑選一套機器人
 
 ## Chatbot onboarding choices
