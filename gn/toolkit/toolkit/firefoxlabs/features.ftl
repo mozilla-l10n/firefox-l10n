@@ -31,6 +31,7 @@ experimental-features-contextual-password-manager =
 # New Tab Custom Wallpapers
 experimental-features-custom-wallpaper =
     .label = Emoĩ mba’erechaha rugua térã sa’y nemba’eteéva tendayke pyahúpe g̃uarã
+experimental-features-custom-wallpaper-description = Ehupi ne mba’erechaha rugua térã eiporavo sa’y eipotáva tendayke pyahu ruguarã.
 # Link Previews with AI
 experimental-features-link-previews =
     .label = Juajuha recha ypyha
