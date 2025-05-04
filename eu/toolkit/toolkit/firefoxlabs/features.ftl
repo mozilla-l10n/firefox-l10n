@@ -41,3 +41,9 @@ experimental-features-link-previews-description =
         [macos] Klik egin aurretik web orri bati buruzko argibide gehiago izateko, pasa sagua loturaren gainetik eta sakatu Shift (⇧) gehi Aukera (⌥) edo Alt. Aurrebistak izenburua eta irakurketa-denbora bezalako xehetasunak izan ditzake. Zenbait orritarako, AAk orriaren testua irakurri eta ideia nagusiak laburbil ditzake. Ingelesezko testuak irakurri eta sortzeko optimizatuta dago AAa. Zure pribatutasuna lehenesteko, AAa zure ordenagailuan bertan exekutatzen da. <a data-l10n-name="connect">Partekatu iritzia</a>
        *[other] Klik egin aurretik web orri bati buruzko argibide gehiago izateko, pasa sagua loturaren gainetik eta sakatu Shift + Alt. Aurrebistak izenburua eta irakurketa-denbora bezalako xehetasunak izan ditzake. Zenbait orritarako, AAk orriaren testua irakurri eta ideia nagusiak laburbil ditzake. Ingelesezko testuak irakurri eta sortzeko optimizatuta dago AAa. Zure pribatutasuna lehenesteko, AAa zure ordenagailuan bertan exekutatzen da. <a data-l10n-name="connect">Partekatu iritzia</a>
     }
+# This version of the link previews description does not mention AI.
+experimental-features-link-previews-description-no-ai =
+    { PLATFORM() ->
+        [macos] Klik egin aurretik webgune bati buruzko argibide gehiago izateko, pasatu sagua loturaren gainetik eta sakatu Shift (⇧) + Aukera (⌥) edo Alt. Aurrebistek hainbat xehetasun izan ditzakete, hala nola izenburua edo irakurketa-denbora. <a data-l10n-name="connect">Eman iritzia</a>
+       *[other] Klik egin aurretik webgune bati buruzko argibide gehiago izateko, pasatu sagua loturaren gainetik eta sakatu Shift + Alt. Aurrebistek hainbat xehetasun izan ditzakete, hala nola izenburua edo irakurketa-denbora. <a data-l10n-name="connect">Eman iritzia</a>
+    }

@@ -327,10 +327,17 @@ search-one-offs-actions =
 
 # Opens the about:addons page in the home / recommendations section
 quickactions-addons = Ikusi gehigarriak
+# In English we provide multiple spellings for "add-ons". If that's not
+# applicable to your language, only use the correct spelling (don't repeat the
+# same word).
+quickactions-cmd-addons3 = hedapenak, itxurak, gehigarriak
 quickactions-cmd-addons2 = gehigarriak
 # Opens the bookmarks library window
 quickactions-bookmarks2 = Kudeatu laster-markak
 quickactions-cmd-bookmarks = laster-markak
+# Opens a SUMO article explaining how to clear history
+quickactions-clearrecenthistory = Garbitu azken historia
+quickactions-cmd-clearrecenthistory = garbitu azken historia, historia
 # Opens a SUMO article explaining how to clear history
 quickactions-clearhistory = Garbitu historia
 quickactions-cmd-clearhistory = garbitu historia
@@ -340,8 +347,18 @@ quickactions-cmd-downloads = deskargak
 # Opens about:addons page in the extensions section
 quickactions-extensions = Kudeatu hedapenak
 quickactions-cmd-extensions = hedapenak
+# Opens Firefox View
+quickactions-firefoxview = Ireki { -firefoxview-brand-name }
+# English is using "view" and "open view", since the feature name is
+# "Firefox View". If you have translated the name in your language, you
+# should use a word related to the existing translation.
+quickactions-cmd-firefoxview = ireki { -firefoxview-brand-name }, { -firefoxview-brand-name }, ireki ikuspegia, ikuspegia
+# Opens SUMO home page
+quickactions-help = { -brand-product-name } laguntza
+quickactions-cmd-help = laguntza, euskarria
 # Opens the devtools web inspector
 quickactions-inspector2 = Ireki garatzaile-tresnak
+quickactions-cmd-inspector2 = ikuskatzailea, garatzaile-tresnak
 quickactions-cmd-inspector = ikuskatzailea, garatzaile-tresnak
 # Opens about:logins
 quickactions-logins2 = Kudeatu pasahitzak
@@ -354,6 +371,7 @@ quickactions-print2 = Inprimatu orria
 quickactions-cmd-print = inprimatu
 # Opens the print dialog at the save to PDF option
 quickactions-savepdf = Gorde orria PDF gisa
+quickactions-cmd-savepdf2 = pdf, gorde orria
 quickactions-cmd-savepdf = pdf
 # Opens a new private browsing window
 quickactions-private2 = Ireki leiho pribatua
@@ -366,9 +384,12 @@ quickactions-restart = Berrabiarazi { -brand-short-name }
 quickactions-cmd-restart = berrabiarazi
 # Opens the screenshot tool
 quickactions-screenshot3 = Hartu pantaila-argazkia
+quickactions-cmd-screenshot2 = pantaila-argazkia, egin pantaila-argazkia
 quickactions-cmd-screenshot = pantaila-argazkia
 # Opens about:preferences
 quickactions-settings2 = Kudeatu ezarpenak
+# "manage" should match the corresponding command, which is “Manage settings” in English.
+quickactions-cmd-settings2 = ezarpenak, hobespenak, aukerak, kudeatu
 quickactions-cmd-settings = ezarpenak, hobespenak, aukerak
 # Opens about:addons page in the themes section
 quickactions-themes = Kudeatu itxurak
@@ -378,6 +399,7 @@ quickactions-update = Eguneratu { -brand-short-name }
 quickactions-cmd-update = eguneratu
 # Opens the view-source UI with current pages source
 quickactions-viewsource2 = Ikusi orriaren iturburua
+quickactions-cmd-viewsource2 = ikusi iturburua, iturburua, orriaren iturburua
 quickactions-cmd-viewsource = ikusi iturburua, iturburua
 # Tooltip text for the help button shown in the result.
 quickactions-learn-more =
@@ -1157,6 +1179,10 @@ popup-notification-addon-install-unsigned =
     .value = (Egiaztatu gabea)
 popup-notification-xpinstall-prompt-learn-more = Gehigarriak modu seguruan instalatzeko argibide gehiago
 popup-notification-xpinstall-prompt-block-url = Ikusi xehetasunak
+# Note: Access key is set to p to match "private" in the corresponding localized label.
+popup-notification-addon-privatebrowsing-checkbox2 =
+    .label = Baimendu hedapen honi leiho pribatuetan exekutatzea
+    .accesskey = d
 # Note: Access key is set to P to match "Private" in the corresponding localized label.
 popup-notification-addon-privatebrowsing-checkbox =
     .label = Exekutatu leiho pribatuetan
@@ -1214,3 +1240,4 @@ file-picker-crashed-show-in-folder =
 
 ## Onboarding Finish Setup checklist
 
+onboarding-checklist-button-label = Amaitu konfigurazioa

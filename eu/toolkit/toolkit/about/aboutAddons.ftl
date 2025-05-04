@@ -267,6 +267,15 @@ discopane-notice-recommendations = Gomendio hauetako batzuk pertsonalizatuak dir
 discopane-notice-recommendations2 =
     .message = Gomendio hauetako batzuk pertsonalizatuak dira. Instalatuta dituzun hedapenetan, zure hobespenetan eta erabilpen-estatistiketan oinarrituta daude.
 discopane-notice-learn-more = Argibide gehiago
+# Notice for the colorway theme removal
+colorway-removal-notice-message =
+    .heading = Zure kolore-konbinazio itxura(k) ezabatu egin da/dira.
+    .message =
+        { -brand-product-name }(e)k bere kolore-konbinazioen bilduma eguneratu du.
+        Zure "Gordetako itxurak" zerrendako bertsio zaharrak kendu ditugu. Eskuratu
+        bertsio berriak gehigarrien gunean.
+colorway-removal-notice-learn-more = Argibide gehiago
+colorway-removal-notice-button = Eskuratu eguneratutako kolore-konbinazio itxurak
 privacy-policy = Pribatutasun-politika
 # Refers to the author of an add-on, shown below the name of the add-on.
 # Variables:

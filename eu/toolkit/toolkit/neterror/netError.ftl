@@ -54,6 +54,10 @@ neterror-dns-not-found-hint-header = <strong>Helbide zuzena sartu baduzu, ondore
 neterror-dns-not-found-hint-try-again = Saiatu berriro geroago
 neterror-dns-not-found-hint-check-network = Egiaztatu zure Interneterako konexioa
 neterror-dns-not-found-hint-firewall = Egiaztatu { -brand-short-name }(e)k webera sartzeko baimenak dituela (konektatuta egon zaitezke baina suebaki baten atzean)
+neterror-dns-not-found-offline-hint-header = <strong>Zer egin dezakezu?</strong>
+neterror-dns-not-found-offline-hint-different-device = Saiatu beste gailu batean konektatzen.
+neterror-dns-not-found-offline-hint-modem = Egiaztatu zure modem edo routerra.
+neterror-dns-not-found-offline-hint-reconnect = Deskonektatu eta birkonektatu Wi-Fi sarera.
 
 ## TRR-only specific messages
 ## Variables:

@@ -121,6 +121,7 @@ deniedPortAccess-title = Helbide hau murriztuta dago
 # "Hmm" is a sound made when considering or puzzling over something.
 # You don't have to include it in your translation if your language does not have a written word like this.
 dnsNotFound-title = Hara. Arazoak izaten ari gara gune hori aurkitzen.
+internet-connection-offline-title = Badirudi zure Interneterako konexioak arazoren bat duela.
 dns-not-found-trr-only-title2 = Balizko segurtasun arriskua domeinu hau bilatzean
 dns-not-found-native-fallback-title2 = Balizko segurtasun arriskua domeinu hau bilatzean
 fileNotFound-title = Fitxategia ez da aurkitu

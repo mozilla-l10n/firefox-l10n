@@ -121,3 +121,5 @@ webext-site-perms-midi-sysex = SysEx euskarria duten MIDI gailuak atzitzea
 
 ## Colorway theme migration
 
+webext-colorway-theme-migration-notification-message = <b>Zure kolore-konbinazio itxura ezabatu egin da.</b> { -brand-shorter-name }(e)k bere kolore-konbinazioen bilduma eguneratu du. Azken bertsioak gehigarrien gunean aurki ditzakezu.
+webext-colorway-theme-migration-notification-button = Eskuratu eguneratutako kolore-konbinazioak

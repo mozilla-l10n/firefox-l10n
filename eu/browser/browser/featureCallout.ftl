@@ -62,6 +62,9 @@ split-dismiss-button-show-fewer-option =
 # Opens about:preferences#general-cfrfeatures
 split-dismiss-button-manage-settings-option =
     .label = Kudeatu ezarpenak
+# Accessibility label for dropdown menu button
+split-dismiss-button-default-label =
+    .title = Aukera gehiago
 
 ## Login Status Advisory Callout (points to the account icon)
 
