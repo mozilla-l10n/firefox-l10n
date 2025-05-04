@@ -1184,7 +1184,7 @@ refresh-blocked-allow =
 
 ## Firefox Relay integration
 
-firefox-relay-offer-why-to-use-relay = Nostre mascas, secur e facile a usar, protege tu identitate e impedi le spam celante tu adresse email.
+firefox-relay-offer-why-to-use-relay = Nostre mascas, secur e facile a usar, occulta tu adresse de e-mail pro proteger tu identitate e impedir le spam.
 # Variables:
 #  $useremail (String): user email that will receive messages
 firefox-relay-offer-what-relay-provides = Tote le messages inviate a tu mascas de e-mail essera reexpedite a <strong>{ $useremail }</strong> (si tu non decide de blocar los).

@@ -954,9 +954,9 @@ forms-breach-alerts =
     .accesskey = v
 forms-breach-alerts-learn-more-link = Saper plus
 preferences-relay-integration-checkbox =
-    .label = Suggerer mascas email { -relay-brand-name } pro proteger tu adresse email
+    .label = Suggerer mascas de e-mail de { -relay-brand-name } pro proteger tu adresse de e-mail
 preferences-relay-integration-checkbox2 =
-    .label = Suggerer mascas de email { -relay-brand-name } pro proteger tu adresse email
+    .label = Suggerer mascas de e-mail de { -relay-brand-name } pro proteger tu adresse de e-mail
     .accesskey = S
 relay-integration-learn-more-link = Pro saper plus
 # Checkbox which controls filling saved logins into fields automatically when they appear, in some cases without user interaction.
