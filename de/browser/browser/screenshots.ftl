@@ -26,7 +26,7 @@ screenshots-retry-button-title =
 screenshots-meta-key =
     { PLATFORM() ->
         [macos] ⌘
-       *[other] Ctrl
+       *[other] Strg
     }
 screenshots-notification-link-copied-title = Link kopiert
 screenshots-notification-link-copied-details = Der Link zu Ihrem Bildschirmfoto wurde in die Zwischenablage kopiert. Drücken Sie { screenshots-meta-key }-V zum Einfügen.

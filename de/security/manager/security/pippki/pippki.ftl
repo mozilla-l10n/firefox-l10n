@@ -75,7 +75,7 @@ client-auth-cert-details-serial-number = Seriennummer: { $serialNumber }
 client-auth-cert-details-validity-period = Gültig vom { $notBefore } bis { $notAfter }
 # Variables:
 # $keyUsages (String) - A list of already-localized key usages for which the certificate may be used
-client-auth-cert-details-key-usages = Schlüsselgebrauch: { $keyUsages }
+client-auth-cert-details-key-usages = Verwendungen des Schlüssels: { $keyUsages }
 # Variables:
 # $emailAddresses (String) - A list of email addresses present in the certificate
 client-auth-cert-details-email-addresses = E-Mail-Adressen: { $emailAddresses }
