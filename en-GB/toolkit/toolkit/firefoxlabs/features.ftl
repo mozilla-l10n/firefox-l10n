@@ -41,3 +41,9 @@ experimental-features-link-previews-description =
         [macos] To learn more about a web page before you click, hover over a link and press Shift (⇧) plus Option (⌥) or Alt. Previews can include details like title and reading time. For some web pages, AI can also read the page text and generate key points. The AI is optimized to read and generate English text. To prioritise your privacy, the AI runs locally on your computer. <a data-l10n-name="connect">Share feedback</a>
        *[other] To learn more about a web page before you click, hover over a link and press Shift + Alt. Previews can include details like title and reading time. For some web pages, AI can also read the page text and generate key points. The AI is optimized to read and generate English text. To prioritise your privacy, the AI runs locally on your computer. <a data-l10n-name="connect">Share feedback</a>
     }
+# This version of the link previews description does not mention AI.
+experimental-features-link-previews-description-no-ai =
+    { PLATFORM() ->
+        [macos] To learn more about a web page before you click, hover over a link and press Shift (⇧) plus Option (⌥) or Alt. Previews can include details like title and reading time. <a data-l10n-name="connect">Share feedback</a>
+       *[other] To learn more about a web page before you click, hover over a link and press Shift + Alt. Previews can include details like title and reading time. <a data-l10n-name="connect">Share feedback</a>
+    }
