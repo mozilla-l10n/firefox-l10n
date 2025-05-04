@@ -180,6 +180,6 @@ genai-model-optin-cancel =
 #   $range (String): The range of minutes as a localised string. Examples: "3-7", "~1".
 link-preview-reading-time =
     { $rangePlural ->
-        [one] { $range } min lästid
-       *[other] { $range } minuters läsningstid
+        [one] { $range } minuts lästid
+       *[other] { $range } minuters lästid
     }

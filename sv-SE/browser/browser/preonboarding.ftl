@@ -10,7 +10,7 @@ preonboarding-subtitle = Genom att fortsätta godkänner du användarvillkoren f
 preonboarding-primary-cta = Bekräfta och fortsätt
 # Labels for header style button that toggles showing the terms of use, privacy notice, and data preferences checklist
 preonboarding-manage-and-read-header = Hantera inställningar för datainsamling och läs våra användarvillkor och sekretessmeddelande
-preonboarding-manage-and-read-header-v2 = Läs användarvillkoren och sekretesspolicyn. Hantera ytterligare inställningar.
+preonboarding-manage-and-read-header-v2 = Läs användarvillkoren och sekretessmeddelandet. Hantera ytterligare inställningar.
 # Label for header style button that toggles showing the Terms of Use
 preonboarding-terms-of-use-header-button-title = Läs våra användarvillkor
 # Label for header style button that toggles showing the Privacy Notice
