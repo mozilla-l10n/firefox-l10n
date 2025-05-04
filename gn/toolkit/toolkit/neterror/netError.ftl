@@ -103,6 +103,9 @@ neterror-proxy-connect-failure-settings = Ehechajey proxy ñemboheko eikuaaite h
 neterror-proxy-connect-failure-contact-admin = Eñe’ẽ ñanduti ñangarekohára ndive eikuaaite hag̃ua mohendahavusu proxy oiko porãiteha.
 neterror-content-encoding-error = Eñe’ẽ ñanduti renda jára ndive emomarandu hag̃ua chupe ko apañuái.
 neterror-unsafe-content-type = Eñe’ẽ ñanduti renda jára ndive emomarandu hag̃ua chupekuéra ko apañuái rehegua.
+# Variables:
+# $hostname (String) - Hostname of the website to which the user was trying to connect.
+neterror-basic-http-auth = { -brand-short-name } ndojeroviái { $hostname } rehe ijeiképe nahekorosãi rupi. Eñeha’ã emoambue pe URL HTTPS-pe.
 neterror-nss-failure-not-verified = Kuatiarogue eikeseha ndaikatúi ehecha mba’ekuaarã og̃uahẽva ndaijeroviakatúi ndojehechajeýi rupi.
 neterror-nss-failure-contact-website = Ikatúpiko, eñe’ẽmi ñanduti renda jára ndive ha emombe’umi chupekuéra ko apañuái rehegua.
 # Variables:

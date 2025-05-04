@@ -22,7 +22,7 @@ preonboarding-terms-of-use-header-button-title-b = Användarvillkor för { -bran
 preonboarding-terms-of-use-header-button-title-b-v2 = Användarvillkor
 # Labels for header style button that toggles showing the Privacy Notice (Variant B)
 preonboarding-privacy-notice-header-button-title-b = Sekretessmeddelande för { -brand-product-name }
-preonboarding-privacy-notice-header-button-title-b-v2 = Sekretesspolicy
+preonboarding-privacy-notice-header-button-title-b-v2 = Sekretessmeddelande
 # Description under label for header style buttons
 preonboarding-header-button-description = Läs mer
 # New user onboarding checklist

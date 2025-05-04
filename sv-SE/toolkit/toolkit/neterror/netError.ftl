@@ -55,7 +55,7 @@ neterror-dns-not-found-hint-try-again = Försök igen senare
 neterror-dns-not-found-hint-check-network = Kontrollera din nätverksanslutning
 neterror-dns-not-found-hint-firewall = Kontrollera att { -brand-short-name } har behörighet att komma åt webben (du kan vara ansluten men bakom en brandvägg)
 neterror-dns-not-found-offline-hint-header = <strong>Vad kan du göra åt det?</strong>
-neterror-dns-not-found-offline-hint-different-device = Prova att ansluta på en annan enhet.
+neterror-dns-not-found-offline-hint-different-device = Försök att ansluta på en annan enhet.
 neterror-dns-not-found-offline-hint-modem = Kontrollera ditt modem eller router.
 neterror-dns-not-found-offline-hint-reconnect = Koppla ner och återanslut till Wi-Fi.
 
