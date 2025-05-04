@@ -71,9 +71,18 @@ split-dismiss-button-default-label =
 
 ## Bookmarks toolbar callout strings
 
+bookmarks-toolbar-callout-1-primary-button-label = Gehitu laster-marka
+bookmarks-toolbar-callout-1-secondary-button-label = Ez, eskerrik asko
+bookmarks-toolbar-callout-2a-primary-button-label = Ulertuta
+# Reverts the bookmarks toolbar to the default setting
+bookmarks-toolbar-callout-2a-secondary-button-label = Ezkutatu tresna-barra
+# Reverts the bookmarks toolbar to the default setting
+bookmarks-toolbar-callout-2b-secondary-button-label = Ez, eskerrik asko
 
 ## Perplexity callout strings
 
+perplexity-callout-secondary-label-1 = Baztertu
+perplexity-callout-secondary-label-2 = Ulertuta
 
 ## Sidebar Strings
 

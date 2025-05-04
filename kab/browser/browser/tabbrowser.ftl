@@ -232,3 +232,8 @@ tab-context-ungroup-tab =
 
 ## Open/saved tab group context menu
 
+# For a tab group that is open in any window, close the tab group and
+# do not save it. For a tab group that is closed but saved by the user, clicking
+# this will forget the saved tab group.
+tab-group-context-delete =
+    .label = Kkes agraw

@@ -111,6 +111,7 @@ genai-onboarding-lechat-learn = Le Chat-i buruzko argibide gehiago
 genai-onboarding-select-header = Hautatu testua gomendioak ikusteko
 genai-onboarding-select-description = Testua hautatzean, txaterako botari bidal diezazkiozun gonbitak gomendatuko dizkizugu. Zure gonbit propioak ere idatz ditzakezu.
 genai-onboarding-select-primary = Hasi txateatzen
+genai-chatbot-contextual-button = Aukeratu txaterako bota
 
 ## Chatbot onboarding choices
 ## These describe features/capabilities of chatbot providers. These are not buttons/actions.

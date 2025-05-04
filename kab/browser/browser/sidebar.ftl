@@ -70,6 +70,8 @@ sidebar-context-menu-close-remote-tab =
 
 sidebar-history-context-menu-delete-page =
     .label = Kkes seg umazray
+sidebar-history-context-menu-delete-page-2 =
+    .label = Kkes asebter seg uzray
 
 ## Labels for sidebar menu items.
 
