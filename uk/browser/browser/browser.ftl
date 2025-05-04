@@ -344,6 +344,10 @@ search-one-offs-actions =
 
 # Opens the about:addons page in the home / recommendations section
 quickactions-addons = Переглянути додатки
+# In English we provide multiple spellings for "add-ons". If that's not
+# applicable to your language, only use the correct spelling (don't repeat the
+# same word).
+quickactions-cmd-addons3 = розширення, теми, додатки, доповнення
 quickactions-cmd-addons2 = додатки
 # Opens the bookmarks library window
 quickactions-bookmarks2 = Керувати закладками
@@ -384,6 +388,7 @@ quickactions-print2 = Друкувати сторінку
 quickactions-cmd-print = друк
 # Opens the print dialog at the save to PDF option
 quickactions-savepdf = Зберегти сторінку як PDF
+quickactions-cmd-savepdf2 = pdf, зберегти сторінку
 quickactions-cmd-savepdf = pdf
 # Opens a new private browsing window
 quickactions-private2 = Відкрити приватне вікно
@@ -400,6 +405,8 @@ quickactions-cmd-screenshot2 = скріншот, знімок екрана, зр
 quickactions-cmd-screenshot = знімок екрана
 # Opens about:preferences
 quickactions-settings2 = Керувати налаштуваннями
+# "manage" should match the corresponding command, which is “Manage settings” in English.
+quickactions-cmd-settings2 = налаштування, уподобання, опції, керування
 quickactions-cmd-settings = налаштування, уподобання, параметри
 # Opens about:addons page in the themes section
 quickactions-themes = Керувати темами
@@ -1193,6 +1200,10 @@ popup-notification-addon-install-unsigned =
     .value = (Не перевірено)
 popup-notification-xpinstall-prompt-learn-more = Дізнайтеся більше про безпечне встановлення додатків
 popup-notification-xpinstall-prompt-block-url = Показати подробиці
+# Note: Access key is set to p to match "private" in the corresponding localized label.
+popup-notification-addon-privatebrowsing-checkbox2 =
+    .label = Дозволити розширенню виконуватися в приватних вікнах
+    .accesskey = п
 # Note: Access key is set to P to match "Private" in the corresponding localized label.
 popup-notification-addon-privatebrowsing-checkbox =
     .label = Виконувати в приватних вікнах
@@ -1256,3 +1267,4 @@ file-picker-crashed-show-in-folder =
 
 ## Onboarding Finish Setup checklist
 
+onboarding-checklist-button-label = Завершити налаштування
