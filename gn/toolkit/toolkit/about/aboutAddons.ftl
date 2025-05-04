@@ -271,6 +271,13 @@ discopane-notice-recommendations = Heta ko’ã ñe’ẽporã ha’e ñemomba�
 discopane-notice-recommendations2 =
     .message = Heta ko’ã ñe’ẽporã ha’e ñemomba’epyre. Ojehecha ambue jepysokue ñemohendapyre, ne mba’ete erohoryvéva ha ijeporukue.
 discopane-notice-learn-more = Kuaave
+# Notice for the colorway theme removal
+colorway-removal-notice-message =
+    .heading = Ne téma sa’y ojueheguáva oñemboguéma.
+    .message =
+        { -brand-product-name } ombohekopyahu isa’y ojueheguáva. Romboguéma
+        umi oĩva’ekue "Téma ñongatupyre" rysýi. Eporandu umi apopy ipyahuvéva rehe
+        tembiporu’i tembiporu’i ñanduti roguépe.
 colorway-removal-notice-learn-more = Eikuaave
 colorway-removal-notice-button = Ereko téma sa’y ojuehegua ag̃agua rehegua
 privacy-policy = Temiñemi porureko
