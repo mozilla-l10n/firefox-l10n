@@ -347,7 +347,7 @@ quickactions-addons = Visa tillägg
 # In English we provide multiple spellings for "add-ons". If that's not
 # applicable to your language, only use the correct spelling (don't repeat the
 # same word).
-quickactions-cmd-addons3 = tillägg, teman, tillägg
+quickactions-cmd-addons3 = tillägg, teman
 quickactions-cmd-addons2 = tillägg
 # Opens the bookmarks library window
 quickactions-bookmarks2 = Hantera bokmärken
@@ -406,7 +406,7 @@ quickactions-cmd-screenshot = skärmbild
 # Opens about:preferences
 quickactions-settings2 = Hantera inställningar
 # "manage" should match the corresponding command, which is “Manage settings” in English.
-quickactions-cmd-settings2 = inställningar, inställningar, alternativ, hantera
+quickactions-cmd-settings2 = inställningar, alternativ, hantera
 quickactions-cmd-settings = inställningar, alternativ
 # Opens about:addons page in the themes section
 quickactions-themes = Hantera teman
