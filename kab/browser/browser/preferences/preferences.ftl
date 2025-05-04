@@ -1066,6 +1066,8 @@ cookie-banner-blocker-checkbox-label =
 
 addressbar-header = Afeggag n tansa
 addressbar-suggest = Ticki tesqedceḍ afeggag n tansa, sumer
+# When Firefox Suggest is enabled, this replaces `addressbar-header`.
+addressbar-header-firefox-suggest = Afeggag n tansiwin — { -firefox-suggest-brand-name }
 addressbar-locbar-history-option =
     .label = Azray n tunigin
     .accesskey = M

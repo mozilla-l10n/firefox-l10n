@@ -456,6 +456,7 @@ pdfjs-editor-undo-bar-close-button =
 
 ## Add a signature dialog
 
+pdfjs-editor-add-signature-dialog-title = Rnu azmul
 
 ## Tab names
 

@@ -43,6 +43,8 @@ remove-search-engine-button = IH
 ## Variables
 ## $engineName (String) - the name of the search engine to install.
 
+install-search-engine = Rnu { $engineName } d amsedday n unadi,
+install-search-engine-add = Rnu
 install-search-engine-no = Ala
 
 ## These strings are used for the add engine dialog when adding a custom search engine

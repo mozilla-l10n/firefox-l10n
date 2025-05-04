@@ -68,12 +68,41 @@ split-dismiss-button-default-label =
 
 ## Login Status Advisory Callout (points to the account icon)
 
+# The 'account icon' is the toolbar button with a 'profile' icon of a human
+# head/shoulders. It's for dealing with your Mozilla account. When hovering the
+# icon, the tooltip says 'Account'.
+login-status-advisory-title = Ви вийшли з облікового запису. Натисніть піктограму облікового запису, щоб увійти.
 
 ## Bookmarks toolbar callout strings
 
+bookmarks-toolbar-callout-1-title = Додати цей сайт до панелі закладок?
+bookmarks-toolbar-callout-1-subtitle = Закладку буде збережено під панеллю адреси для швидкого доступу.
+bookmarks-toolbar-callout-1-primary-button-label = Додати закладку
+bookmarks-toolbar-callout-1-secondary-button-label = Ні, дякую
+# Visible if user adds a bookmark in callout 1, bookmarks toolbar is set to always show when this message renders
+bookmarks-toolbar-callout-2a-title = Легко додавайте більше закладок
+bookmarks-toolbar-callout-2a-subtitle = Ви можете перетягувати вкладки сюди, щоб мати швидкий доступ до улюблених сайтів.
+bookmarks-toolbar-callout-2a-primary-button-label = Зрозуміло
+# Reverts the bookmarks toolbar to the default setting
+bookmarks-toolbar-callout-2a-secondary-button-label = Приховати панель інструментів
+# Visible if user declines to add a bookmark in callout 1, bookmarks toolbar is set to always show when this message renders
+bookmarks-toolbar-callout-2b-title = Залишити панель закладок відкритою?
+bookmarks-toolbar-callout-2b-subtitle = Ви можете додавати інші сайти, які часто відвідуєте. Просто перетягніть сюди вкладки, щоб мати швидкий доступ до улюблених сайтів.
+bookmarks-toolbar-callout-2b-primary-button-label = Завжди показувати
+# Reverts the bookmarks toolbar to the default setting
+bookmarks-toolbar-callout-2b-secondary-button-label = Ні, дякую
 
 ## Perplexity callout strings
 
+perplexity-callout-theme-1-title = Потрібна правильна відповідь негайно?
+perplexity-callout-theme-2-title = Спробуйте Perplexity – новий спосіб пошуку
+perplexity-callout-theme-1-subtitle-1 = Спробуйте Perplexity. Виберіть його за допомогою кнопки пошуку, якщо вам потрібні повні відповіді з посиланнями на джерела.
+perplexity-callout-theme-1-subtitle-2 = Ставте запитання. Отримуйте повні відповіді з цитатами. Щоб спробувати Perplexity, виберіть його за допомогою кнопки пошуку.
+perplexity-callout-theme-2-subtitle-1 = Запитайте у Perplexity. Ви отримаєте повні відповіді з посиланнями на джерела.
+perplexity-callout-theme-2-subtitle-2 = Ставте запитання. Отримуйте повні відповіді з цитатами.
+perplexity-callout-primary-label = Запитайте Perplexity
+perplexity-callout-secondary-label-1 = Відхилити
+perplexity-callout-secondary-label-2 = Зрозуміло
 
 ## Sidebar Strings
 
