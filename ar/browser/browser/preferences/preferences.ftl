@@ -16,6 +16,10 @@ global-privacy-control-description =
     .label = أخبر مواقع الويب بعدم بيع بياناتي أو مشاركتها
     .accesskey = ش
 non-technical-privacy-header = تفضيلات خصوصية الموقع
+# Do not translate.
+# "Global Privacy Control" or "GPC" are a web platform feature name and abbreviation
+# included to facilitate power-user search of the about:preferences page.
+global-privacy-control-search = التحكم العالمي في الخصوصية (GPC)
 settings-page-title = الإعدادات
 # This is used to determine the width of the search field in about:preferences,
 # in order to make the entire placeholder string visible
@@ -241,6 +245,7 @@ browser-layout-vertical-tabs =
 browser-layout-vertical-tabs-desc = اعرض على الجانب، في الشريط الجانبي
 browser-layout-show-sidebar =
     .label = أظهِر الشريط الجانبي
+browser-layout-show-sidebar-desc = الوصول بسرعة إلى العلامات، والألسنة من هاتفك، ودردشة الذكاء الاصطناعي، والمزيد دون مغادرة واجهتك الرئيسية.
 
 ## General Section - Language & Appearance
 
@@ -262,6 +267,10 @@ preferences-web-appearance-choice-input-light =
     .aria-description = { preferences-web-appearance-choice-tooltip-light.title }
 preferences-web-appearance-choice-input-dark =
     .aria-description = { preferences-web-appearance-choice-tooltip-dark.title }
+# This can appear when using windows HCM or "Override colors: always" without
+# system colors.
+preferences-web-appearance-override-warning3 =
+    .message = إعدادات التحكم في التباين لديك تتغلب على مظهر موقع الوِب.
 # This can appear when using windows HCM or "Override colors: always" without
 # system colors.
 preferences-web-appearance-override-warning = إن اختياراتك للألوان تهيمن على مظهر موقع الويب. <a data-l10n-name="colors-link">إدارة الألوان</a>
@@ -1199,6 +1208,7 @@ content-blocking-social-media-trackers = متعقبات مواقع التواص�
 content-blocking-all-cookies = كل الكعكات
 content-blocking-unvisited-cookies = الكعكات من المواقع غير المُزارة
 content-blocking-all-windows-tracking-content = المحتوى الذي يتعقّبك في كل النوافذ
+content-blocking-all-cross-site-cookies = جميع ملفات تعريف الارتباط عبر المواقع
 content-blocking-cryptominers = المُعدّنات المعمّاة
 content-blocking-fingerprinters = مسجّلات البصمات
 # The known fingerprinters are those that are known for collecting browser fingerprints from user devices. And
@@ -1322,12 +1332,16 @@ collection-description = نبذل جهدنا لإعطائك الخيار و ج�
 collection-privacy-notice = تنويه الخصوصية
 collection-health-report-telemetry-disabled = لم تعد تسمح بأن يلتقط { -vendor-short-name } البيانات التقنية والتفاعلية. ستُحذف البيانات القديمة كلها خلال 30 يومًا.
 collection-health-report-telemetry-disabled-link = اطّلع على المزيد
+collection-usage-ping =
+    .label = أرسل إشعار الاستخدام اليومي إلى { -vendor-short-name }
+    .accesskey = ر
 collection-health-report =
     .label = اسمح أن يُرسل { -brand-short-name } بيانات تقنية و بيانات التفاعل إلى { -vendor-short-name }
     .accesskey = ح
 collection-health-report-link = اطّلع على المزيد
 collection-studies2 =
     .label = تثبيت الدراسات وتشغيلها
+collection-studies-description = جرّب الميزات والأفكار قبل إصدارها للجميع.
 collection-studies =
     .label = اسمح أن ينصّب { -brand-short-name } ويشغل الدراسات
 collection-studies-link = اعرض دراسات { -brand-short-name }
@@ -1356,6 +1370,7 @@ privacy-segmentation-radio-on =
 
 ## Privacy Section - Website Advertising Preferences
 
+website-advertising-header = تفضيلات الإعلان الموقع
 website-advertising-private-attribution-description = يساعد هذا المواقع على فهم أداء إعلاناتها دون جمع بيانات عنك.
 
 ## Privacy Section - Security
