@@ -74,6 +74,7 @@ protections-panel-not-found-label = Ur ittwaf ara
 
 ## Smartblock strings
 
+protections-panel-smartblock-desc-label = { -brand-short-name } issewḥal agbur n yineḍfaren mi ara tiliḍ deg usmel slid ma tessirgeḍ-t.
 # Variables
 #  $trackername (String): the name of the tracker that is currently being blocked.
 protections-panel-smartblock-blocking-toggle =
