@@ -76,3 +76,5 @@ about-private-browsing-cookie-banners-promo-body = Vom refuza acum în mod autom
 ## Strings for Felt Privacy v1 experiments in 119
 
 about-private-browsing-felt-privacy-v1-info-header = Nu lăsa urme pe acest dispozitiv
+about-private-browsing-felt-privacy-v1-info-body = { -brand-short-name } șterge cookie-urile, istoricul și datele site-urilor când închideți toate ferestrele private.
+about-private-browsing-felt-privacy-v1-info-link = Cine ar putea să îmi vadă activitatea?
