@@ -34,6 +34,7 @@ xpinstall-prompt-install =
 
 # These messages are shown when a website invokes navigator.requestMIDIAccess.
 
+site-permission-install-first-prompt-midi-header = Asmel-a yesra anekcum ɣer yibenkan-ik MIDI (Musical Instrument Digital Interface). Anekcum ɣer yibenkan yezmer ad yettsireg s usbeddi n uzegrir niḍen.
 site-permission-install-first-prompt-midi-message = Taɣellist n unekcum-a ur yettwaḍman ara. Ur ttkemmil ara alamma tḍemneḍ asmel-a.
 
 ##
@@ -130,4 +131,8 @@ addon-local-install-error-not-signed = Azegrir-a ur yebdid ara acku ur yettwasen
 # Variables:
 #   $appVersion (String): the application version.
 addon-install-error-incompatible = { $addonName } ur yezmir ara ad yebded acku ur imṣaba ara d { -brand-short-name } { $appVersion }.
+addon-install-error-hard-blocked = { $addonName } ur iquder ara tasertit n Mozilla, ur yezmir ara ad yettusbedd ɣef { -brand-short-name }.
 addon-install-error-blocklisted = { $addonName } ur yezmir ara ad yebded acku yella wugur meqqren n tɣellist d urkad.
+addon-install-error-soft-blocked = { $addonName } ur iquder ara tasertit n Mozilla, ur yezmir ara ad yettusbedd ɣef { -brand-short-name }.
+# Enterprise policies is a feature aimed at system administrators who want to deploy custom settings for Firefox.
+addon-install-error-admin-install-only = Ur ezmireḍ ara ad tesbeddeḍ azegrir { $addonName } am useqdac kan i yiman-is, asbeddi-ines yesra takebbanit yesseqdacen tisirag n tkebbanit.
