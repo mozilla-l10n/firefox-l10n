@@ -145,6 +145,10 @@ preferences-data-migration-description = Kter ticraḍ n yisebtar, awalen uffire
 preferences-data-migration-button =
     .label = Kter isefka
     .accesskey = t
+preferences-profiles-header = Imeɣna
+preferences-manage-profiles-learn-more = Issin ugar
+preferences-manage-profiles-button =
+    .label = Sefrek imaɣunen
 tabs-group-header = Iccaren
 ctrl-tab-recently-used-order =
     .label = Ctrl+Tab yessezray-d accaren n umizzwer yettwasqedcen melmi kan
@@ -152,6 +156,17 @@ ctrl-tab-recently-used-order =
 open-new-link-as-tabs =
     .label = Ldi iseɣwan deg iccaren deg umḍiq n isfuyla imaynuten
     .accesskey = L
+ask-on-close-multiple-tabs =
+    .label = Ssuter send amdal n waṭas n waccaren
+    .accesskey = m
+# This string is used for the confirm before quitting preference.
+# Variables:
+#   $quitKey (string) - the quit keyboard shortcut, and formatted
+#                       in the same manner as it would appear,
+#                       for example, in the File menu.
+ask-on-quit-with-key =
+    .label = Ssuter send ad teffɣeḍ s { $quitKey }
+    .accesskey = s
 confirm-on-close-multiple-tabs =
     .label = Sentem send amdal n waṭas n waccaren
     .accesskey = ṭ
@@ -208,6 +223,13 @@ containers-remove-alert-msg =
     }
 containers-remove-ok-button = Kkes amagbar-a
 containers-remove-cancel-button = Ur tekkes ara amagbar-a
+browser-layout-header = Taneɣruft n yiminig
+browser-layout-horizontal-tabs =
+    .label = Accaren iglawanen
+browser-layout-vertical-tabs =
+    .label = Accaren ubdiden
+browser-layout-show-sidebar =
+    .label = Sken afeggag adisan
 
 ## General Section - Language & Appearance
 
@@ -239,6 +261,12 @@ preferences-web-appearance-override-warning2 =
 # This message contains one link. It can be moved within the sentence as needed
 # to adapt to your language, but should not be changed.
 preferences-web-appearance-footer = Sefrek isental n { -brand-short-name } deg <a data-l10n-name="themes-link">yiseɣzaf & yisental</a>
+preferences-contrast-control-off =
+    .label = Yensa
+    .accesskey = Y
+preferences-contrast-control-custom =
+    .label = Sagen
+    .accesskey = S
 preferences-colors-header = Initen
 preferences-colors-description = Snefli initen n wudem amezwer n { -brand-short-name } i uḍris, igilalen n yismal web akked yiseɣwan.
 preferences-colors-manage-button =
@@ -774,6 +802,9 @@ sync-currently-syncing-creditcards = Tikarḍiwin n usmad
 sync-currently-syncing-payment-methods = Tarrayin n uxelleṣ
 sync-currently-syncing-addons = Izegrar
 sync-currently-syncing-settings = Iɣewwaren
+sync-manage-options =
+    .label = Sefrek amtawi…
+    .accesskey = S
 sync-change-options =
     .label = Snifel…
     .accesskey = f
@@ -1068,6 +1099,9 @@ addressbar-header = Afeggag n tansa
 addressbar-suggest = Ticki tesqedceḍ afeggag n tansa, sumer
 # When Firefox Suggest is enabled, this replaces `addressbar-header`.
 addressbar-header-firefox-suggest = Afeggag n tansiwin — { -firefox-suggest-brand-name }
+# When Firefox Suggest is enabled, a "Learn more" link appears at the end of
+# `addressbar-suggest-firefox-suggest`.
+addressbar-locbar-firefox-suggest-learn-more = Issin ugar
 addressbar-locbar-history-option =
     .label = Azray n tunigin
     .accesskey = M
@@ -1097,7 +1131,13 @@ addressbar-suggestions-settings = Snifel ismenyifen i yisumar n umsedday n unadi
 addressbar-locbar-showrecentsearches-option =
     .label = Sken inadiyen imaynuten
     .accesskey = m
+addressbar-locbar-suggest-nonsponsored-desc = Awi isumar seg web yeqqnen ɣer unadi-k·m.
+addressbar-locbar-suggest-sponsored-option =
+    .label = Isumar sɣur imendaden
+addressbar-locbar-suggest-sponsored-desc = Mudd tallalt i { -brand-short-name } s uskan n yisumar i d-yettuwellhen sya ɣer da
 addressbar-quickactions-learn-more = Issin ugar
+addressbar-restore-dismissed-suggestions-button =
+    .label = Err-d
 
 ## Privacy Section - Content Blocking
 
@@ -1183,6 +1223,11 @@ content-blocking-fingerprinters-label =
 content-blocking-known-fingerprinters-label =
     .label = Idsilen umḍinen ussinen
     .accesskey = U
+# The suspected fingerprinters are those that we are uncertain about browser fingerprinting activities. But they could
+# possibly acquire browser fingerprints because of the behavior on accessing APIs that expose browser fingerprints.
+content-blocking-suspected-fingerprinters-label =
+    .label = Idlisen umḍinen yella ccek deg-sen
+    .accesskey = I
 
 ## Privacy Section - Tracking
 
