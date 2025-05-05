@@ -81,6 +81,9 @@ protections-panel-smartblock-blocking-toggle =
     .label = Sireg { $trackername }
 #  $trackername (String): the name of the tracker that is currently being blocked.
 smartblock-placeholder-title = Imeḍfaren d yigburen yettuswuḥlen sɣur { $trackername }
+smartblock-placeholder-desc = Iɣewwaren-ik { -brand-short-name } sweḥlen agbura ak-yeḍfer deg yismal neɣ yettuseqdec i udellel.
+#  $websitehost (String): host of website with blocked content.
+smartblock-placeholder-button-text = Sireg ɣef { $websitehost }
 
 ##
 

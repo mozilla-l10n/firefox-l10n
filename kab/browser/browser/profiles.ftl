@@ -3,6 +3,9 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 profile-window-heading = Fren amaɣnu { -brand-short-name }
+# This checkbox appears in the Choose profile window that appears when the browser is opened. "Show this" refers to this window, which is displayed when the checkbox is enabled.
+profile-window-checkbox-label-2 =
+    .label = Fren amaɣnu mi ara teldiḍ { -brand-short-name }
 profile-window-create-profile = Rnu amaɣnu
 profile-card-edit-button =
     .title = Ẓreg amaɣnu
@@ -30,12 +33,16 @@ edit-profile-page-avatar-header-2 =
     .label = Avataṛ
 edit-profile-page-delete-button =
     .label = Kkes
+edit-profile-page-duplicate-name = Isem n umaɣnu yettwaseqdac yakan. Ԑreḍ isem niḍen.
 edit-profile-page-profile-saved = Yettwasekles
 new-profile-page-title = Amaɣnu amaynut
 new-profile-page-header = sagen amaɣnu-k amaynut
 new-profile-page-learn-more = Issin ugar
 new-profile-page-done-button =
     .label = Yemmed uẓrag
+profile-window-title-2 = { -brand-short-name } - Fren amaɣnu
+profile-window-logo =
+    .alt = Alugu n { -brand-short-name }
 
 ## Delete profile dialogue that allows users to review what they will lose if they choose to delete their profile. Each item (open windows, etc.) is displayed in a table, followed by a column with the number of items.
 
@@ -70,6 +77,24 @@ profiles-system-theme = Anagraw
 
 ## Alternative text for default profile icons
 
+book-avatar-alt =
+    .alt = Adlis
+briefcase-avatar-alt =
+    .alt = Aqrab
+flower-avatar-alt =
+    .alt = Ijeǧǧigen
+heart-avatar-alt =
+    .alt = Ul
+shopping-avatar-alt =
+    .alt = Taqecwalt n lqeḍyan
+star-avatar-alt =
+    .alt = Itri
 
 ## Labels for default avatar icons
 
+book-avatar = Adlis
+briefcase-avatar = Aqrab
+flower-avatar = Ijeǧǧigen
+heart-avatar = Ul
+shopping-avatar = Taqecwalt n lqeḍyan
+star-avatar = Itri
