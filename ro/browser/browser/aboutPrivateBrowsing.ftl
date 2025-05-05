@@ -6,6 +6,8 @@ privatebrowsingpage-open-private-window-label = Deschide o fereastră privată
     .accesskey = P
 about-private-browsing-search-placeholder = Caută pe web
 about-private-browsing-info-title = Ești într-o fereastră privată
+about-private-browsing-search-btn =
+    .title = Caută pe web
 # Variables
 #  $engine (String): the name of the user's default search engine
 about-private-browsing-handoff =
@@ -20,10 +22,17 @@ about-private-browsing-not-private = În prezent nu ești într-o fereastră pri
 about-private-browsing-info-description-private-window = Fereastră privată: { -brand-short-name } îți șterge istoricul de căutare și de navigare atunci când închizi toate ferestrele private. Acest lucru nu te face anonim.
 about-private-browsing-info-description-simplified = { -brand-short-name } îți șterge istoricul de căutare și de navigare atunci când închizi toate ferestrele private, dar acest lucru nu te face anonim.
 about-private-browsing-learn-more-link = Află mai multe
+about-private-browsing-hide-activity = Ascundeți activitatea și locația, oriunde veți naviga
+about-private-browsing-get-privacy = Beneficiați de protecții pentru confidențialitate oriunde veți naviga
+about-private-browsing-hide-activity-1 = Ascundeți activitatea de navigare și locația cu { -mozilla-vpn-brand-name }. Un clic creează o conexiune sigură, chiar și pe rețelele Wi-Fi publice.
+about-private-browsing-prominent-cta = Păstrați-vă datele private cu { -mozilla-vpn-brand-name }
 about-private-browsing-focus-promo-cta = Descarcă { -focus-brand-name }
+about-private-browsing-focus-promo-header = { -focus-brand-name }: Navigare privată la îndemână
+about-private-browsing-focus-promo-text = Aplicația noastră mobilă dedicată pentru navigare privată va șterge istoricul și cookie-urile de fiecare dată.
 
 ## The following strings will be used for experiments in Fx99 and Fx100
 
+about-private-browsing-focus-promo-header-b = Utilizați navigarea privată pe telefon
 about-private-browsing-focus-promo-header-c = Următorul nivel de confidențialitate pe mobil
 about-private-browsing-focus-promo-text-c = { -focus-brand-name } îți șterge istoricul de fiecare dată, blocând reclamele și elementele de urmărire.
 # This string is the title for the banner for search engine selection
