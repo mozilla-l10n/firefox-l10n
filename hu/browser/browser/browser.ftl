@@ -344,6 +344,10 @@ search-one-offs-actions =
 
 # Opens the about:addons page in the home / recommendations section
 quickactions-addons = Kiegészítők megjelenítése
+# In English we provide multiple spellings for "add-ons". If that's not
+# applicable to your language, only use the correct spelling (don't repeat the
+# same word).
+quickactions-cmd-addons3 = kiegészítők, témák
 quickactions-cmd-addons2 = kiegészítők
 # Opens the bookmarks library window
 quickactions-bookmarks2 = Könyvjelzők kezelése
@@ -384,6 +388,7 @@ quickactions-print2 = Oldal nyomtatása
 quickactions-cmd-print = nyomtatás
 # Opens the print dialog at the save to PDF option
 quickactions-savepdf = Oldal mentése PDF-ként
+quickactions-cmd-savepdf2 = pdf, lap mentése, oldal mentése
 quickactions-cmd-savepdf = pdf
 # Opens a new private browsing window
 quickactions-private2 = Privát ablak megnyitása
@@ -400,6 +405,8 @@ quickactions-cmd-screenshot2 = screenshot, képernyőkép, képernyőkép kész�
 quickactions-cmd-screenshot = képernyőkép
 # Opens about:preferences
 quickactions-settings2 = Beállítások kezelése
+# "manage" should match the corresponding command, which is “Manage settings” in English.
+quickactions-cmd-settings2 = beállítások, lehetőségek, kezelés
 quickactions-cmd-settings = beállítások, lehetőségek, kapcsolók
 # Opens about:addons page in the themes section
 quickactions-themes = Témák kezelése
@@ -1253,3 +1260,4 @@ file-picker-crashed-show-in-folder =
 
 ## Onboarding Finish Setup checklist
 
+onboarding-checklist-button-label = Beállítás befejezése

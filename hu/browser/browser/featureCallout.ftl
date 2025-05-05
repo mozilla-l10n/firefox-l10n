@@ -78,6 +78,7 @@ login-status-advisory-title = Kijelentkezve. A bejelentkezéshez kattintson a fi
 bookmarks-toolbar-callout-1-title = Hozzáadja ezt a webhelyet a könyvjelző eszköztárhoz?
 bookmarks-toolbar-callout-1-subtitle = A könyvjelzője közvetlenül a címsor alá lesz mentve a gyors elérés érdekében.
 bookmarks-toolbar-callout-1-primary-button-label = Könyvjelző hozzáadása
+bookmarks-toolbar-callout-1-secondary-button-label = Köszönöm, nem
 
 ## Perplexity callout strings
 
