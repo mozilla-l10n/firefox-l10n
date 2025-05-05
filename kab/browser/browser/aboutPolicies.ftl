@@ -3,6 +3,8 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 about-policies-title = Tasertit n tkebbanit
+aboutpolicies-page-heading =
+    .heading = Γef tsertiyn
 # 'Active' is used to describe the policies that are currently active
 active-policies-tab = Urmid
 errors-tab = Tuccḍiwin

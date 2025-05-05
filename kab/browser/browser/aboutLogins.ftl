@@ -123,6 +123,11 @@ login-item-edit-button = Ẓreg
 about-logins-login-item-remove-button = Kkes
 login-item-origin-label = Tansa n usmel web
 login-item-tooltip-message = Ḍmen aya yemṣada swaswa akked tansa n usmel web anida i teqqneḍ.
+about-logins-origin-tooltip2 = Sekcem tansa yemmden syen ḍmen amtawa-ines d tansa ansi i d-teqqneḍ.
+# Variables
+#   $webTitle (String) - Website title of the password being changed.
+about-logins-edit-password-tooltip = Ḍmen teskelseḍ akken ilaq awal-ik n uεeddi amiran n usmel-a. Asenfel awal n uεeddi dagi, ur t-yettbedil ara i { $webTitle }.
+about-logins-add-password-tooltip = Ḍmen teskelseḍ awal n uεeddi amiran i usmel-a.
 login-item-origin =
     .placeholder = https://www.example.com
 login-item-username-label = Isem n useqdac
@@ -166,6 +171,13 @@ about-logins-edit-login-os-auth-dialog-message-win = Akken ad tbeddleḍ anekcam
 # This message can be seen when attempting to edit a login in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-edit-login-os-auth-dialog-message-macosx = ẓreg isem n useqdac yettwaskelsen
+# The macOS strings are preceded by the operating system with "Firefox is trying to ".
+# This message can be seen when attempting to disable osauth in about:preferences.
+about-logins-os-auth-dialog-message =
+    { PLATFORM() ->
+        [macos] senfel iɣewwaren i wawalen n uεeddi
+       *[other] { -brand-short-name } yettaεraḍ ad ibeddel iɣewwaren i wawalen n uεedi. Seqdec ibenk-is  usireg n tigawt-a.
+    }
 # This message can be seen when attempting to edit a login in about:logins on Windows.
 about-logins-edit-login-os-auth-dialog-message2-win = Akken ad tbeddleḍ awal-inek uffir, sekcem inekcam-inek n tuqqna n Windows. Ayagi ad yeḍmen aḥraz n tɣellist n yimiḍanen-inek.
 # This message can be seen when attempting to edit a login in about:logins
