@@ -366,11 +366,16 @@ quickactions-extensions = Кіраваць пашырэннямі
 quickactions-cmd-extensions = пашырэнні
 # Opens Firefox View
 quickactions-firefoxview = Адкрыць { -firefoxview-brand-name }
+# English is using "view" and "open view", since the feature name is
+# "Firefox View". If you have translated the name in your language, you
+# should use a word related to the existing translation.
+quickactions-cmd-firefoxview = адкрыць { -firefoxview-brand-name }, { -firefoxview-brand-name }, адкрыць агляд, агляд
 # Opens SUMO home page
 quickactions-help = Даведка { -brand-product-name }
 quickactions-cmd-help = даведка, падтрымка
 # Opens the devtools web inspector
 quickactions-inspector2 = Адкрыць Інструменты распрацоўшчыка
+quickactions-cmd-inspector2 = інспектар, прылады распрацоўшчыка, інструменты распрацоўшчыка, devtools
 quickactions-cmd-inspector = інспектар, прылады распрацоўшчыка
 # Opens about:logins
 quickactions-logins2 = Кіраванне паролямі
@@ -383,6 +388,7 @@ quickactions-print2 = Друкаваць старонку
 quickactions-cmd-print = друк
 # Opens the print dialog at the save to PDF option
 quickactions-savepdf = Захаваць старонку як PDF
+quickactions-cmd-savepdf2 = pdf, захаваць старонку
 quickactions-cmd-savepdf = pdf
 # Opens a new private browsing window
 quickactions-private2 = Адкрыць прыватнае акно
@@ -395,6 +401,7 @@ quickactions-restart = Перазапусціць { -brand-short-name }
 quickactions-cmd-restart = перазапусціць
 # Opens the screenshot tool
 quickactions-screenshot3 = Зрабіць здымак экрана
+quickactions-cmd-screenshot2 = скрыншот, здымак экрана, зрабіць здымак экрана
 quickactions-cmd-screenshot = здымак экрана
 # Opens about:preferences
 quickactions-settings2 = Кіраваць наладамі
