@@ -19,6 +19,10 @@ contentanalysis-error-message-upload-file = رُفِض رفع "{ $filename }".
 contentanalysis-error-message-dropped-text = رُفِض السحب والإفلات.
 contentanalysis-error-message-clipboard = رُفِض اللصق.
 contentanalysis-error-message-print = رُفِضت الطباعة.
+# Variables:
+#   $agent - The name of the DLP agent doing the analysis
+#   $contentName - Description of the content, such as "clipboard" or "aFile.txt"
+contentanalysis-timeout-block-error-message-content = انتهت مهلة الاتصال بـ { $agent }. حُظر { $contentName }.
 contentanalysis-block-dialog-title-upload-file = لا يسمح لك برفع هذا الملف
 contentanalysis-block-dialog-title-clipboard = لا يسمح لك بلصق هذا المحتوى
 contentanalysis-block-dialog-title-dropped-text = لا يسمح لك بإسقاط هذا المحتوى

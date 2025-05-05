@@ -41,3 +41,9 @@ experimental-features-link-previews-description =
         [macos] Ak sa chcete dozvedieť viac o webovej stránke pred kliknutím, umiestnite kurzor myši na odkaz a stlačte Shift (⇧) plus Option (⌥) alebo Alt. Náhľady môžu obsahovať podrobnosti, ako je názov a čas čítania. Pri niektorých webových stránkach dokáže AI prečítať aj text stránky a generovať kľúčové body. AI je optimalizovaná na čítanie a generovanie anglického textu. A keďže na vašom súkromí nám záleží, AI beží lokálne vo vašom počítači. <a data-l10n-name="connect">Dajte nám vedieť svoju spätnú väzbu</a>
        *[other] Ak sa chcete dozvedieť viac o webovej stránke pred kliknutím, umiestnite kurzor myši na odkaz a stlačte Shift + Alt. Náhľady môžu obsahovať podrobnosti, ako je názov a čas čítania. Pri niektorých webových stránkach dokáže AI prečítať aj text stránky a generovať kľúčové body. AI je optimalizovaná na čítanie a generovanie anglického textu. A keďže na vašom súkromí nám záleží, AI beží lokálne vo vašom počítači. <a data-l10n-name="connect">Dajte nám vedieť svoju spätnú väzbu</a>
     }
+# This version of the link previews description does not mention AI.
+experimental-features-link-previews-description-no-ai =
+    { PLATFORM() ->
+        [macos] Ak sa chcete dozvedieť viac o webovej stránke pred kliknutím, umiestnite kurzor myši na odkaz a stlačte kláves Shift (⇧) plus Option (⌥) alebo Alt. Ukážky môžu obsahovať podrobnosti, ako je názov a čas čítania. <a data-l10n-name="connect">Zdieľať spätnú väzbu</a>
+       *[other] Ak sa chcete dozvedieť viac o webovej stránke pred kliknutím, umiestnite kurzor myši na odkaz a stlačte kláves Shift + Alt. Ukážky môžu obsahovať podrobnosti, ako je názov a čas čítania. <a data-l10n-name="connect">Zdieľať spätnú väzbu</a>
+    }
