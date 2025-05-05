@@ -33,6 +33,7 @@ about-private-browsing-focus-promo-text = Aplicația noastră mobilă dedicată 
 ## The following strings will be used for experiments in Fx99 and Fx100
 
 about-private-browsing-focus-promo-header-b = Utilizați navigarea privată pe telefon
+about-private-browsing-focus-promo-text-b = Utilizați { -focus-brand-name } pentru acele căutări private pe care nu doriți să apară în browserul dvs. de mobil.
 about-private-browsing-focus-promo-header-c = Următorul nivel de confidențialitate pe mobil
 about-private-browsing-focus-promo-text-c = { -focus-brand-name } îți șterge istoricul de fiecare dată, blocând reclamele și elementele de urmărire.
 # This string is the title for the banner for search engine selection
@@ -47,6 +48,8 @@ about-private-browsing-search-banner-description =
     }
 about-private-browsing-search-banner-close-button =
     .aria-label = Închide
+about-private-browsing-promo-close-button =
+    .title = Închide
 
 ## Strings used in a “pin promotion” message, which prompts users to pin a private window
 
@@ -60,6 +63,15 @@ about-private-browsing-pin-promo-title = Fără cookie-uri sau istoric salvate, 
 
 ## Strings used in a promotion message for cookie banner reduction
 
+# Simplified version of the headline if the original text doesn't work
+# in your language: `See fewer cookie requests`.
+about-private-browsing-cookie-banners-promo-header = S-a terminat cu cererile de cookies!
+about-private-browsing-cookie-banners-promo-button = Reduce apariția bannerelor despre cookie-uri
+about-private-browsing-cookie-banners-promo-message = Permite { -brand-short-name } să răspundă automat la bannerele despre cookie-uri, astfel încât să aveți o experiență fără distrageri. { -brand-short-name } va refuza toate cererile dacă este posibil.
+# Simplified version of the headline if the original text doesn't work
+# in your language: `{ -brand-short-name } will show fewer cookie requests`
+about-private-browsing-cookie-banners-promo-heading = { -brand-short-name } se ocupă de bannerele despre cookie-uri pentru tine
+about-private-browsing-cookie-banners-promo-body = Vom refuza acum în mod automat bannerele despre cookie-uri, ca să fiți urmărit mai puțin și să aveți o navigare fără distrageri.
 
 ## Strings for Felt Privacy v1 experiments in 119
 
