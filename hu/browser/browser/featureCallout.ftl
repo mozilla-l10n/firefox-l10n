@@ -79,6 +79,8 @@ bookmarks-toolbar-callout-1-title = Hozzáadja ezt a webhelyet a könyvjelző es
 bookmarks-toolbar-callout-1-subtitle = A könyvjelzője közvetlenül a címsor alá lesz mentve a gyors elérés érdekében.
 bookmarks-toolbar-callout-1-primary-button-label = Könyvjelző hozzáadása
 bookmarks-toolbar-callout-1-secondary-button-label = Köszönöm, nem
+# Visible if user adds a bookmark in callout 1, bookmarks toolbar is set to always show when this message renders
+bookmarks-toolbar-callout-2a-title = Adjon hozzá további könyvjelzőket könnyedén
 
 ## Perplexity callout strings
 
