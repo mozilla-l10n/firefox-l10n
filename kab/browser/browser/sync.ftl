@@ -37,9 +37,24 @@ fxa-menu-sync-title = Mtawi
 fxa-menu-sync-description = Kcem ɣer web anda ma telliḍ
 fxa-avatar-sign-in = Kcem
 fxa-avatar-sign-up = Jerred
+fxa-avatar-tooltip =
+    .tooltiptext = Kcem ɣer umiḍan-ik
 sync-setup-verify-continue = Kemmel
 sync-setup-verify-title = Alɣu n usmezdi
 sync-setup-verify-heading = Tebɣiḍ s tidet ad teqqneḍ ɣer Umtawa?
+# The user was previously signed into sync. This dialog confirms to the user
+# that they will be merging the data from the previously signed in into the newly signed in one
+# Variables:
+#   $email - Email address of a user previously signed into sync.
+sync-setup-verify-description = Aseqdac yemgaraden iqqen yakan ɣer Sync deg uselkim-a. Tuqqna ɣer Sync ad ismezdi ticraḍ n isebtar, awalen uffiren d iɣewwaṛen n tunigin s { $email }
 
 ## Sync warning strings that support the browser profiles feature, these will be shown when the user might be merging data
 
+# Variables:
+#   $profileName (String) - Name of the profile to switch to
+sync-button-switch-profile = Uɣal ɣer “{ $profileName }”
+sync-button-create-profile = Rnu amaɣnu amaynut
+sync-button-sync-and-merge = Mtawi sakin sdukkel isefka
+# Variables:
+#   $profileName (String) - Name of the profile to switch to
+sync-button-sync-profile = Mtawi “{ $profileName }”

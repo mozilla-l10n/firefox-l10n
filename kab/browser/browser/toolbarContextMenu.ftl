@@ -30,6 +30,12 @@ toolbar-context-menu-reopen-closed-tabs =
            *[other] Ales tawaledyawt n waccaren imedlen
         }
     .accesskey = a
+toolbar-context-turn-on-vertical-tabs =
+    .label = Rmed accaren ubdiden
+toolbar-context-turn-off-vertical-tabs =
+    .label = Sens accaren ubdiden
+toolbar-context-customize-sidebar =
+    .label = Sagen afeggag adigan
 toolbar-context-menu-manage-extension =
     .label = Sefrek isiɣzaf
     .accesskey = n
