@@ -6,6 +6,10 @@ menu-view-genai-chat =
     .label = AI Chatbot
 menu-view-review-checker =
     .label = Amsenqad n tamawt
+menu-view-contextual-password-manager =
+    .label = Awalen n uεeddi
+sidebar-options-menu-button =
+    .title = Ldi umuɣ
 
 ## Labels for sidebar history panel
 
@@ -27,6 +31,15 @@ sidebar-history-sort-by-site =
     .label = Smizzwer s usmel
 sidebar-history-clear =
     .label = Sfeḍ amazray
+sidebar-history-sort-by-heading = Smizwer s:
+sidebar-history-sort-option-date =
+    .label = Azemz
+sidebar-history-sort-option-site =
+    .label = Asmel web
+sidebar-history-sort-option-date-and-site =
+    .label = Azemz d smel
+sidebar-history-sort-option-last-visited =
+    .label = Tirzi taneggarut
 
 ## Labels for sidebar search
 
@@ -44,6 +57,14 @@ sidebar-customize-firefox-tools-header =
 sidebar-customize-firefox-settings = Sefrek iɣewwaren n { -brand-short-name }
 sidebar-vertical-tabs =
     .label = Accaren ubdiden
+sidebar-settings =
+    .label = Iɣewwaren n ufeggag adisan
+sidebar-hide-tabs-and-sidebar =
+    .label = Ffer accaren d ufeggag adisan
+sidebar-show-on-the-right =
+    .label = Awi agalis adisan ɣer ayeffus
+sidebar-show-on-the-left =
+    .label = Awi agalis adisan ɣer zelmeḍ
 
 ## Labels for sidebar context menu items
 
@@ -53,14 +74,26 @@ sidebar-context-menu-remove-extension =
     .label = Kkes asiɣzef
 sidebar-context-menu-report-extension =
     .label = Mmel asiɣzef
+sidebar-context-menu-open-in-tab =
+    .label = Ldi deg yiccer amaynut
+sidebar-context-menu-open-in-container-tab =
+    .label = Ldi deg yiccer n umagbar amaynut
 sidebar-context-menu-open-in-window =
     .label = Ldi deg usfaylu amaynut
 sidebar-context-menu-open-in-private-window =
     .label = Ldi deg usfaylu uslig amaynut
+sidebar-context-menu-forget-site =
+    .label = Sfeḍ akk isefka i usmel web…
 sidebar-context-menu-bookmark-tab =
     .label = Iccer n tecraḍ n yisebtar…
 sidebar-context-menu-copy-link =
     .label = Nɣel aseɣwen
+sidebar-context-menu-hide-sidebar =
+    .label = Ffer afeggag adisan
+sidebar-context-menu-enable-vertical-tabs =
+    .label = Rmed accaren ubdiden
+sidebar-context-menu-customize-sidebar =
+    .label = Sagen afeggag adigan
 # Variables:
 #   $deviceName (String) - The name of the device the user is closing a tab for
 sidebar-context-menu-close-remote-tab =
@@ -72,6 +105,8 @@ sidebar-history-context-menu-delete-page =
     .label = Kkes seg umazray
 sidebar-history-context-menu-delete-page-2 =
     .label = Kkes asebter seg uzray
+sidebar-history-context-menu-bookmark-page =
+    .label = Creḍ asebter…
 
 ## Labels for sidebar menu items.
 
@@ -87,15 +122,37 @@ sidebar-menu-customize-label =
     .label = Sagen afeggag adigan
 sidebar-menu-review-checker-label =
     .label = Amsenqad n tamawt
+sidebar-menu-contextual-password-manager-label =
+    .label = Awalen n uεeddi
 
 ## Tooltips for sidebar menu items.
 
+# The tooltip to show over the history icon, when history is not currently showing.
+# Variables:
+#   $shortcut (String) - The OS specific keyboard shortcut.
+sidebar-menu-open-history-tooltip = Ldi azray ({ $shortcut })
+# The tooltip to show over the history icon, when history is currently showing.
+# Variables:
+#   $shortcut (String) - The OS specific keyboard shortcut.
+sidebar-menu-close-history-tooltip = Mdel azray ({ $shortcut })
+# The tooltip to show over the bookmarks icon, when bookmarks is not currently showing.
+# Variables:
+#   $shortcut (String) - The OS specific keyboard shortcut.
+sidebar-menu-open-bookmarks-tooltip = Ldi ticraḍ n yisebatr ({ $shortcut })
+# The tooltip to show over the bookmarks icon, when bookmarks is currently showing.
+# Variables:
+#   $shortcut (String) - The OS specific keyboard shortcut.
+sidebar-menu-close-bookmarks-tooltip = Mdel ticraḍ n yisebatr ({ $shortcut })
 
 ## Tooltips displayed over the AI chatbot icon.
 ## Variables:
 ##   $shortcut (String) - The OS specific keyboard shortcut.
 ##   $provider (String) - The name of the AI chatbot provider (if available).
 
+sidebar-menu-open-ai-chatbot-tooltip-generic = Ldi AI chatbot ({ $shortcut })
+sidebar-menu-open-ai-chatbot-provider-tooltip = Ldi { $provider } ({ $shortcut })
+sidebar-menu-close-ai-chatbot-tooltip-generic = Mdel AI chatbot ({ $shortcut })
+sidebar-menu-close-ai-chatbot-provider-tooltip = Mdel { $provider } ({ $shortcut })
 
 ## Headings for sidebar menu panels.
 
@@ -105,6 +162,10 @@ sidebar-menu-history-header =
     .heading = Azray
 sidebar-menu-syncedtabs-header =
     .heading = Iccaren seg ibenkan nniḍen
+sidebar-menu-bookmarks-header =
+    .heading = Ticraḍ n yisebtar
+sidebar-menu-cpm-header =
+    .heading = Awalen n uεeddi
 sidebar-panel-header-close-button =
     .tooltiptext = Mdel
 

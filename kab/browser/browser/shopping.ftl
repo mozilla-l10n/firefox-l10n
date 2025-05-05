@@ -171,6 +171,12 @@ shopping-survey-thanks =
 ## Shopping opted-out survey strings
 ## Opt-out survey options are displayed as checkboxes and the user can select one or many.
 
+shopping-survey-thanks-title = Tanemmirt ɣef tekti yinek!
+shopping-survey-opted-out-hard-to-understand = Yewεer aṭas i gezzu
+shopping-survey-opted-out-too-slow = Ẓẓay mliḥ
+shopping-survey-opted-out-not-accurate = Mačči d usdid
+shopping-survey-opted-out-not-helpful = Ur iyi-nfiε ara
+shopping-survey-opted-out-other = Wayeḍ
 
 ## Shopping Feature Callout strings.
 ## "price tag" refers to the price tag icon displayed in the address bar to
@@ -203,6 +209,12 @@ shopping-onboarding-welcome-steps-indicator-label =
 
 ## Messages for callout for users not opted into the sidebar integrated version of Review Checker.
 
+shopping-callout-opt-in-integrated-headline = Tzemreḍ ad tamneḍ leṛyuy-a?
+shopping-callout-not-opted-in-integrated-reminder-dismiss-button = Zgel
+shopping-callout-not-opted-in-integrated-reminder-do-not-show = Ur d-skanay ara awelleh-a tikkelt tayeḍ
+shopping-callout-not-opted-in-integrated-reminder-show-fewer = Sken cwiṭ n yiwellihen
+shopping-callout-not-opted-in-integrated-reminder-manage-settings = Sefrek iɣewwaren
+shopping-opt-in-integrated-button = Ɛreḍ amsenqad n yilɣa
 
 ## Message strings for Review Checker's empty states.
 
@@ -217,6 +229,9 @@ shopping-onboarding-welcome-steps-indicator-label =
 ## The card will only appear for users that have the default sidebar position, which is on the left side for non RTL locales.
 ## Review Checker in the sidebar is only available to US users at this time, so we can assume that the default position is on the left side.
 
+shopping-integrated-new-position-notification-move-right-button = Senkez ɣer yeffus
+shopping-integrated-new-position-notification-move-left-button = Senkez ɣer zelmeḍ
+shopping-integrated-new-position-notification-dismiss-button = Awi-t
 
 ## Combined setting for auto-open and auto-close.
 

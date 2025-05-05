@@ -4,6 +4,7 @@
 
 sidebar-menu-bookmarks =
     .label = Ticraḍ n yisebtar
+sidebar-menu-bookmarks-2 = Ticraḍ n yisebtar
 sidebar-menu-history =
     .label = Azray
 sidebar-menu-synced-tabs =
