@@ -47,6 +47,7 @@ policy-DisableSecurityBypass = منع المستخدم من تخطّي أنوا�
 policy-DisableSetAsDesktopBackground = تعطيل أمر القائمة الخاص بالضبط كخلفية سطح مكتب للصور.
 policy-DisableSystemAddonUpdate = منع المتصفّح من تثبيت امتدادات النظام أو تحديثها.
 policy-DisableTelemetry = تعطيل تيليمتري.
+policy-DisableThirdPartyModuleBlocking = امنع المستخدم من حظر وحدات الطرف الثالث التي يتم حقنها في عملية { -brand-short-name }.
 policy-DisplayBookmarksToolbar = عرض شريط أدوات العلامات مبدئيا.
 policy-DisplayMenuBar = عرض شريط القوائم مبدئيا.
 policy-DNSOverHTTPS = ضبط DNS عبر HTTPS
@@ -108,6 +109,7 @@ policy-ShowHomeButton = عرض زر الصفحة الرئيسية في شريط 
 policy-SSLVersionMax = ضبط إصدارة SSL العليا.
 policy-SSLVersionMin = ضبط إصدارة SSL الدنيا.
 policy-SupportMenu = إضافة عنصر ”الدعم“ (يمكن تخصيصه) في قائمة المساعدة.
+policy-TranslateEnabled = فعّل أو عطّل ترجمة صفحة الوِب.
 policy-UserMessaging = عدم عرض بعض الرسائل بعينها للمستخدم.
 # “format” refers to the format used for the value of this policy.
 policy-WebsiteFilter = منع زيارة المواقع. طالع التوثيق لتفاصيل أكثر بخصوص النسق.
