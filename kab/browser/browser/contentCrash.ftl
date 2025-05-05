@@ -31,3 +31,6 @@ pending-crash-reports-send =
     .label = Azen
 pending-crash-reports-always-send =
     .label = Azen yal tikelt
+requested-crash-reports-dont-show-again =
+    .label = Ur d-skan ara tikkelt niḍen
+    .accesskey = U

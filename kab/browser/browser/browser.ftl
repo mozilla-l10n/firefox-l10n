@@ -342,6 +342,10 @@ search-one-offs-actions =
 
 # Opens the about:addons page in the home / recommendations section
 quickactions-addons = Sken izegrar
+# In English we provide multiple spellings for "add-ons". If that's not
+# applicable to your language, only use the correct spelling (don't repeat the
+# same word).
+quickactions-cmd-addons3 = iseɣẓanen, isental, izegrar
 quickactions-cmd-addons2 = Izegrar
 # Opens the bookmarks library window
 quickactions-bookmarks2 = Sefrek ticraḍ n yisebtar
@@ -360,8 +364,16 @@ quickactions-extensions = Sefrek isiɣzaf
 quickactions-cmd-extensions = Isiɣzaf
 # Opens Firefox View
 quickactions-firefoxview = Mdel { -firefoxview-brand-name }
+# English is using "view" and "open view", since the feature name is
+# "Firefox View". If you have translated the name in your language, you
+# should use a word related to the existing translation.
+quickactions-cmd-firefoxview = ldi { -firefoxview-brand-name }, { -firefoxview-brand-name }, ldi taskat, taskant
+# Opens SUMO home page
+quickactions-help = Tallalt { -brand-product-name }
+quickactions-cmd-help = tallalt
 # Opens the devtools web inspector
 quickactions-inspector2 = Ldi ifecka n tneflit
+quickactions-cmd-inspector2 = amaswaḍ, ifecka n usnefli
 quickactions-cmd-inspector = amaswaḍ, devtools
 # Opens about:logins
 quickactions-logins2 = Sefrek awalen uffiren
@@ -374,6 +386,7 @@ quickactions-print2 = Siggez asebter
 quickactions-cmd-print = siggez
 # Opens the print dialog at the save to PDF option
 quickactions-savepdf = Sekles asebter s PDF
+quickactions-cmd-savepdf2 = pdf, asebter n usekles
 quickactions-cmd-savepdf = pdf
 # Opens a new private browsing window
 quickactions-private2 = Ldi asfaylu uslig
@@ -386,9 +399,12 @@ quickactions-restart = Ales asenker n { -brand-short-name }
 quickactions-cmd-restart = Ales asenker
 # Opens the screenshot tool
 quickactions-screenshot3 = Eg tuṭṭfa n ugdil
+quickactions-cmd-screenshot2 = tuṭṭfa n ugdil, ṭṭef agdil
 quickactions-cmd-screenshot = tuṭṭfa n ugdil
 # Opens about:preferences
 quickactions-settings2 = Sefrek iɣewwaren
+# "manage" should match the corresponding command, which is “Manage settings” in English.
+quickactions-cmd-settings2 = iɣewwaren, ismenyafen, tixtiṛiyin, sefrek
 quickactions-cmd-settings = iɣewwaren, ismenyifen, tixtiṛiyin
 # Opens about:addons page in the themes section
 quickactions-themes = Sefrek isental
@@ -398,10 +414,15 @@ quickactions-update = Leqqem { -brand-short-name }
 quickactions-cmd-update = Leqqem
 # Opens the view-source UI with current pages source
 quickactions-viewsource2 = Tangalt taɣbalut n usebter
+quickactions-cmd-viewsource2 = sken aɣbalu, tangalt aɣbalut, asebter aɣbalu
 quickactions-cmd-viewsource = sken aɣbalu, aɣbalu
 # Tooltip text for the help button shown in the result.
 quickactions-learn-more =
     .title = Issin ugar ɣef tigawin tirurad
+# Will be shown to users the first configurable number of times
+# they experience actions giving them instructions on how to
+# select the action shown by pressing the tab key.
+press-tab-label = Sit ɣeftqeffalt tab i ufran:
 
 ## Bookmark Panel
 
@@ -643,6 +664,8 @@ urlbar-go-button =
     .tooltiptext = Ddu ɣer usebter n ufeggag n tansa
 urlbar-page-action-button =
     .tooltiptext = Asebter n tigawin
+urlbar-revert-button =
+    .tooltiptext = Sken ta,sa ɣef ufeggag n yidigan
 
 ## Action text shown in urlbar results, usually appended after the search
 ## string or the url, like "result value - action text".
@@ -746,6 +769,15 @@ urlbar-searchmode-exit-button =
 urlbar-searchmode-popup-description = Tikkelt-a, nadi s:
 urlbar-searchmode-popup-search-settings-menuitem =
     .label = Iɣewwaren n unadi
+# Searchmode Switcher button
+# Variables:
+#   $engine (String): the current default search engine.
+urlbar-searchmode-button2 =
+    .label = { $engine }, fren amsedday n unadi
+    .tooltiptext = { $engine }, fren amsedday n unadi
+urlbar-searchmode-button-no-engine =
+    .label = Ulac anegzum n unasiw i yettwafernen, ren anegzum
+    .tooltiptext = Ulac anegzum n unasiw i yettwafernen, ren anegzum
 
 ## Action text shown in urlbar results, usually appended after the search
 ## string or the url, like "result value - action text".
@@ -755,6 +787,9 @@ urlbar-result-action-search-bookmarks = Nadi ticraḍ n yisebtar
 urlbar-result-action-search-history = Nadi deg umazray
 urlbar-result-action-search-tabs = Nadi deg waccaren
 urlbar-result-action-search-actions = Nadi tigawin
+# Label for a quickaction result used to switch to an open tab group.
+#  $group (String): the name of the tab group to switch to
+urlbar-result-action-switch-to-tabgroup = Uɣal ɣer { $group }
 # Label for a quickaction result used to re-opan a saved tab group.
 #  $group (String): the name of the tab group to re-open
 urlbar-result-action-open-saved-tabgroup = Ldi { $group }
@@ -1063,6 +1098,7 @@ restore-session-startup-suggestion-button = Sken-iyi-d amek
 
 ## Infobar shown when the user tries to open a file picker and file pickers are blocked by enterprise policy
 
+filepicker-blocked-infobar = Tuddsa-ik tessewḥel anekcum i ifuyla idiganen ɣef uselkim-a.
 
 ## Mozilla data reporting notification (Telemetry, Firefox Health Report, etc)
 
@@ -1075,7 +1111,15 @@ private-browsing-indicator-label = Tunigin tusligt
 # Tooltip for the indicator shown in the private browsing window titlebar.
 private-browsing-indicator-tooltip =
     .tooltiptext = Tunigin tusligt
+# Tooltip for the indicator shown in the window titlebar when content analysis is active.
+# Variables:
+#   $agentName (String): The name of the DLP agent that is connected
+content-analysis-indicator-tooltip =
+    .tooltiptext = Ammesten mgal rrwaḥ n yisefka (DLP) sɣur { $agentName }. Sit i wugar n talɣt.
 content-analysis-panel-title = Ammesten n ysefka
+# Variables:
+#   $agentName (String): The name of the DLP agent that is connected
+content-analysis-panel-text-styled = Tuddsa-k tesseqdac <b>{ $agentName }</b> i ummesten mgalrrwaḥ n yisefka. <a data-l10n-name="info">Issinugar</a>
 
 ## Unified extensions (toolbar) button
 
@@ -1100,6 +1144,9 @@ unified-extensions-button-quarantined =
 ## Unified extensions button when some extensions are disabled (e.g. through add-ons blocklist).
 ## Note that the new line is intentionally part of the tooltip.
 
+unified-extensions-button-blocklisted =
+    .label = Isiɣzaf
+    .tooltiptext = Isiɣzaf
 
 ## Private browsing reset button
 
@@ -1136,6 +1183,10 @@ popup-notification-addon-install-unsigned =
     .value = (Ur ittusenqed ara)
 popup-notification-xpinstall-prompt-learn-more = Issin ugar ɣef usbeddi n yizegrar s tɣellist
 popup-notification-xpinstall-prompt-block-url = Wali talqayt
+# Note: Access key is set to p to match "private" in the corresponding localized label.
+popup-notification-addon-privatebrowsing-checkbox2 =
+    .label = Sireg asiɣzef ad yeddu deg usfaylu uslig
+    .accesskey = S
 # Note: Access key is set to P to match "Private" in the corresponding localized label.
 popup-notification-addon-privatebrowsing-checkbox =
     .label = Sker deg usfaylu uslig
@@ -1185,3 +1236,4 @@ file-picker-crashed-show-in-folder =
 
 ## Onboarding Finish Setup checklist
 
+onboarding-checklist-button-label = Fakk asbeddi
