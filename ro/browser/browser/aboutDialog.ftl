@@ -25,7 +25,9 @@ update-applying = Se aplică actualizarea…
 update-failed = Actualizare eșuată. <label data-l10n-name="failed-link">Descarcă cea mai recentă versiune</label>
 update-failed-main = Actualizare eșuată. <a data-l10n-name="failed-link-main">Descarcă cea mai recentă versiune</a>
 update-adminDisabled = Actualizările sunt dezactivate de administratorul de sistem
+update-policy-disabled = Actualizările au fost dezactivate de organizația dvs.
 update-noUpdatesFound = { -brand-short-name } este actualizat
+aboutdialog-update-checking-failed = Eșec la căutarea de actualizări.
 update-otherInstanceHandlingUpdates = { -brand-short-name } este actualizat de o altă instanță
 
 ## Variables:
@@ -35,6 +37,7 @@ aboutdialog-update-manual-with-link = Actualizări disponibile la <label data-l1
 settings-update-manual-with-link = Actualizări disponibile la <a data-l10n-name="manual-link">{ $displayUrl }</a>
 update-unsupported = Nu poți efectua actualizări suplimentare pe acest sistem. <label data-l10n-name="unsupported-link">Află mai multe</label>
 update-restarting = Se repornește…
+update-internal-error2 = Nu a fost posibil să se verifice dacă există actualizări din cauza unei erori interne. Actualizările sunt disponibile la <label data-l10n-name="manual-link">{ $displayUrl }</label>.
 
 ##
 
@@ -48,6 +51,7 @@ community-exp = <label data-l10n-name="community-exp-mozillaLink">{ -vendor-shor
 community-2 = { -brand-short-name } este conceput de <label data-l10n-name="community-mozillaLink">{ -vendor-short-name }</label>, o <label data-l10n-name="community-creditsLink">comunitate globală</label> care lucrează pentru a păstra webul deschis, public și accesibil tuturor.
 helpus = Vrei să ajuți? <label data-l10n-name="helpus-donateLink">Donează</label> sau <label data-l10n-name="helpus-getInvolvedLink">implică-te!</label>
 bottomLinks-license = Informații privind licențierea
+bottom-links-terms = Condiții de utilizare
 bottom-links-privacy = Notificare privind confidențialitatea
 bottomLinks-rights = Drepturile utilizatorului final
 bottomLinks-privacy = Politica de confidențialitate
@@ -62,3 +66,14 @@ aboutDialog-version = { $version } ({ $bits } de biți)
 #   $isodate (String): date in ISO format, e.g. 2019-01-16
 #   $bits (Number): bits of the architecture (32 or 64)
 aboutDialog-version-nightly = { $version } ({ $isodate }) ({ $bits } de biți)
+# Example of resulting string: 131.0a1 (aarch64)
+# Variables:
+#   $version (String): version of Firefox, e.g. 66.0.1
+#   $arch (String): name of the architecture (arm, aarch64, etc.)
+aboutdialog-version-arch = { $version } ({ $arch })
+# Example of resulting string: 131.0a1 (2024-08-27) (aarch64)
+# Variables:
+#   $version (String): version of Firefox for Nightly builds, e.g. 66.0a1
+#   $isodate (String): date in ISO format, e.g. 2019-01-16
+#   $arch (String): name of the architecture (arm, aarch64, etc.)
+aboutdialog-version-arch-nightly = { $version } ({ $isodate }) ({ $arch })
