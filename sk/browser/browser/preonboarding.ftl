@@ -10,6 +10,7 @@ preonboarding-subtitle = Pokračovaním vyjadrujete súhlas s Zmluvnými podmien
 preonboarding-primary-cta = Súhlasím a pokračovať
 # Labels for header style button that toggles showing the terms of use, privacy notice, and data preferences checklist
 preonboarding-manage-and-read-header = Spravujte nastavenia zhromažďovania údajov a prečítajte si naše Podmienky používania a Vyhlásenie o ochrane osobných údajov
+preonboarding-manage-and-read-header-v2 = Prečítajte si Podmienky používania a Vyhlásenie o ochrane osobných údajov. Spravujte ďalšie nastavenia.
 # Label for header style button that toggles showing the Terms of Use
 preonboarding-terms-of-use-header-button-title = Prečítajte si naše Podmienky používania
 # Label for header style button that toggles showing the Privacy Notice

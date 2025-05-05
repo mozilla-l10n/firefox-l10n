@@ -142,6 +142,8 @@ genai-onboarding-select-header = Ak chcete zobraziť návrhy, vyberte text
 genai-onboarding-select-description = Keď vyberiete text, navrhneme vám výzvy, ktoré môžete poslať chatbotovi. Môžete tiež napísať svoje vlastné výzvy.
 genai-onboarding-select-primary = Začnite četovať
 genai-chatbot-contextual-title = Používajte chatbota s umelou inteligenciou bez prepínania kariet
+genai-chatbot-contextual-subtitle = Chatujte a prehliadajte web vedľa seba tak, že si do bočného panela { -brand-short-name(case: "gen") } pridáte chatbota s umelou inteligenciou.
+genai-chatbot-contextual-button = Vyberte si chatbota
 
 ## Chatbot onboarding choices
 ## These describe features/capabilities of chatbot providers. These are not buttons/actions.
@@ -175,3 +177,17 @@ genai-model-optin-cancel =
 
 ## Link previews
 
+# ‘min’ is short for “minute”
+# ‘mins’ is short for “minutes”
+# An estimate for how long it takes to read an article,
+# expressed as a range covering both slow and fast readers.
+# Variables:
+#   $rangePlural (String): The plural category of the range, using the same set as for numbers.
+#   $range (String): The range of minutes as a localised string. Examples: "3-7", "~1".
+link-preview-reading-time =
+    { $rangePlural ->
+        [one] Čas čítania: { $range } minúta
+        [few] Čas čítania: { $range } minúty
+        [many] Čas čítania: { $range } minút
+       *[other] Čas čítania: { $range } minút
+    }

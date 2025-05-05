@@ -266,6 +266,10 @@ preferences-web-appearance-choice-input-dark =
     .aria-description = { preferences-web-appearance-choice-tooltip-dark.title }
 # This can appear when using windows HCM or "Override colors: always" without
 # system colors.
+preferences-web-appearance-override-warning3 =
+    .message = Vaše nastavenia kontrastu majú prednosť pred nastaveniami vzhľadu vo webovej stránke.
+# This can appear when using windows HCM or "Override colors: always" without
+# system colors.
 preferences-web-appearance-override-warning = Váš výber farieb má prednosť pred vzhľadom webových stránok. <a data-l10n-name="colors-link">Spravovať farby</a>
 # This can appear when using windows HCM or "Override colors: always" without
 # system colors.

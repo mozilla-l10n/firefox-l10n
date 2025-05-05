@@ -125,3 +125,5 @@ webext-site-perms-midi-sysex = Pristupovať k zariadeniam MIDI s podporou SysEx
 
 ## Colorway theme migration
 
+webext-colorway-theme-migration-notification-message = <b>Vaša farebná téma bola odstránená.</b> { -brand-shorter-name } aktualizoval svoju kolekciu farebných tém. Najnovšie verzie nájdete na stránke s doplnkami.
+webext-colorway-theme-migration-notification-button = Získať aktualizované farebné témy
