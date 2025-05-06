@@ -127,3 +127,5 @@ webext-site-perms-midi-sysex = Přistup k MIDI-gratam z podpěru za SysEx
 
 ## Colorway theme migration
 
+webext-colorway-theme-migration-notification-message = <b>Waša drasta barboweje kombinacije je so wotstroniła.</b> { -brand-shorter-name } je zaktualizował swoju zběrku barbowych kombinacijow. Móžeće najnowše wersije na sydle přidatkow namakać.
+webext-colorway-theme-migration-notification-button = Wobstarajće sej zaktualizowane barbowe kombinacije

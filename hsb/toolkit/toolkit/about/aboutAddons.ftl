@@ -273,7 +273,15 @@ discopane-notice-recommendations = Někotre z tutych doporučenjow su personaliz
 discopane-notice-recommendations2 =
     .message = Někotre z tutych doporučenjow su personalizowane. Bazuja na rozšěrjenjach, kotrež sće instalował, profilowych nastajenjach a wužiwanskej statistice.
 discopane-notice-learn-more = Dalše informacije
+# Notice for the colorway theme removal
+colorway-removal-notice-message =
+    .heading = Waše drasty barbowych kombinacijow su so wotstronili.
+    .message =
+        { -brand-product-name } je swoju zběrku barbowych kombinacijow zaktualizował. Smy stare wersije
+        z wašeje lisćiny „Składowane drasty“ wotstronili. Wobstarajće sej nowe wersije ze
+        sydła přidatkow
 colorway-removal-notice-learn-more = Dalše informacije
+colorway-removal-notice-button = Wobstarajće sej zaktualizowane drasty barbowych kombinacijow
 privacy-policy = Prawidła priwatnosće
 # Refers to the author of an add-on, shown below the name of the add-on.
 # Variables:

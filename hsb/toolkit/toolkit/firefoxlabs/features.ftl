@@ -41,3 +41,9 @@ experimental-features-link-previews-description =
         [macos] Zo byšće wjace wo webstronje zhonił, prjedy hač klikaće, stajće pokazowak myški na wotkaz a tłóčće Umsch (⇧) + Alt. Přehlady móža podrobnosće kaž titul a čitanski čas wobsahować. Za někotre webstrony móže KI tež tekst strony čitać a klučowe dypki generować. KI je optimowana, zo by jendźelski tekst čitała a generowała. Zo by wašej priwatnosći prioritu dała, so KI lokalnje na wašim ličaku wuwjedźe. <a data-l10n-name="connect">Měnjenje dźělić</a>
        *[other] Zo byšće wjace wo webstronje zhonił, prjedy hač klikaće, stajće pokazowak myški na wotkaz a tłóčće Umsch (⇧) plus ⌥ option abo Alt. Přehlady móža podrobnosće kaž titul a čitanski čas wobsahować. Za někotre webstrony móže KI tež tekst strony čitać a klučowe dypki generować. KI je optimowana, zo by jendźelski tekst čitała a generowała. Zo by wašej priwatnosći prioritu dała, so KI lokalnje na wašim ličaku wuwjedźe. <a data-l10n-name="connect">Měnjenje dźělić</a>
     }
+# This version of the link previews description does not mention AI.
+experimental-features-link-previews-description-no-ai =
+    { PLATFORM() ->
+        [macos] Zo byšće wjace wo webstronje zhonił, prjedy hač klikaće, stajće kursor myški nad wotkaz a tłóčće Umsch (⇧) + option (⌥) abo Alt. Přehlady móža podrobnosće kaž titul a čitanski čas wobsahować. <a data-l10n-name="connect">Zdźělće nam swoje měnjenje</a>
+       *[other] Zo byšće wjace wo webstronje zhonił, prjedy hač klikaće, stajće kursor myški nad wotkaz a tłóčće Umsch (⇧) + Alt. Přehlady móža podrobnosće kaž titul a čitanski čas wobsahować. <a data-l10n-name="connect">Zdźělće nam swoje měnjenje</a>
+    }
