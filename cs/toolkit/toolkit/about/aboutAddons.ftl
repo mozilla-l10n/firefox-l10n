@@ -312,6 +312,7 @@ discopane-notice-recommendations2 =
         Některá z těchto doporučení se zobrazují na základě informací o ostatních
         vámi nainstalovaných rozšíření, nastavení profilu a statistik o používání.
 discopane-notice-learn-more = Zjistit více
+colorway-removal-notice-learn-more = Zjistit více
 privacy-policy = Zásady ochrany osobních údajů
 # Refers to the author of an add-on, shown below the name of the add-on.
 # Variables:

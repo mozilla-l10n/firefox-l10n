@@ -114,6 +114,10 @@ bookmarks-toolbar-callout-2b-secondary-button-label = Ne, děkuji
 
 ## Perplexity callout strings
 
+perplexity-callout-theme-1-title = Potřebujete správnou odpověď, a to hned?
+perplexity-callout-theme-2-title = Vyzkoušejte Perplexity: nový způsob vyhledávání
+perplexity-callout-secondary-label-1 = Zavřít
+perplexity-callout-secondary-label-2 = Rozumím
 
 ## Sidebar Strings
 
