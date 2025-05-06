@@ -24,6 +24,8 @@ sidebar-vertical-tabs =
     .label = Ուղղահայաց ներդիրներ
 sidebar-hide-tabs-and-sidebar =
     .label = Թաքցնել ներդիրները և կողագոտին
+sidebar-show-on-the-right =
+    .label = Տեղափոխել Կողագոտին աջ
 # Option to automatically expand the collapsed sidebar when the mouse pointer
 # hovers over it.
 expand-sidebar-on-hover =
