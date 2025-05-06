@@ -81,6 +81,8 @@ bookmarks-toolbar-callout-1-primary-button-label = Könyvjelző hozzáadása
 bookmarks-toolbar-callout-1-secondary-button-label = Köszönöm, nem
 # Visible if user adds a bookmark in callout 1, bookmarks toolbar is set to always show when this message renders
 bookmarks-toolbar-callout-2a-title = Adjon hozzá további könyvjelzőket könnyedén
+# Reverts the bookmarks toolbar to the default setting
+bookmarks-toolbar-callout-2a-secondary-button-label = Eszköztár elrejtése
 
 ## Perplexity callout strings
 
