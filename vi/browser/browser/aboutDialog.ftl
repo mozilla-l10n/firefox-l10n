@@ -21,7 +21,7 @@ aboutdialog-update-downloading = Đang tải xuống bản cập nhật — <lab
 
 ##
 
-update-applying = Đang áp dụng bản cập nhật…
+update-applying = Đang cài đặt bản cập nhật…
 update-failed = Cập nhật thất bại. <label data-l10n-name="failed-link">Tải phiên bản mới nhất</label>
 update-failed-main = Cập nhật thất bại. <a data-l10n-name="failed-link-main">Tải phiên bản mới nhất</a>
 update-adminDisabled = Cập nhật bị vô hiệu hóa bởi quản trị hệ thống
