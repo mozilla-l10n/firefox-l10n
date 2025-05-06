@@ -10,7 +10,7 @@ preonboarding-subtitle = Drwy barhau, rydych yn cytuno i Amodau Defnydd { -brand
 preonboarding-primary-cta = Cadarnhau a pharhau
 # Labels for header style button that toggles showing the terms of use, privacy notice, and data preferences checklist
 preonboarding-manage-and-read-header = Rheoli gosodiadau casglu data a darllen ein Amodau Defnydd a Hysbysiad Preifatrwydd
-preonboarding-manage-and-read-header-v2 = Darllenwch y Telerau Defnydd a'r Hysbysiad Preifatrwydd. Rheolwch osodiadau ychwanegol.
+preonboarding-manage-and-read-header-v2 = Darllenwch yr Amodau Defnydd a'r Hysbysiad Preifatrwydd. Rheolwch osodiadau ychwanegol.
 # Label for header style button that toggles showing the Terms of Use
 preonboarding-terms-of-use-header-button-title = Darllenwch ein Amodau Defnydd
 # Label for header style button that toggles showing the Privacy Notice

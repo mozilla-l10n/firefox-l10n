@@ -146,7 +146,7 @@ genai-onboarding-select-header = Dewiswch destun i weld awgrymiadau
 genai-onboarding-select-description = Pan fyddwch yn dewis testun, byddwn yn cynnig awgrymiadau y gallwch eu hanfon at y sgwrsfot. Gallwch hefyd ysgrifennu eich awgrymiadau eich hun.
 genai-onboarding-select-primary = Dechrau sgwrsio
 genai-chatbot-contextual-title = Defnyddiwch sgwrsfot AI heb newid tabiau
-genai-chatbot-contextual-subtitle = Sgwrsiwch a phori ochr yn ochr pan fyddwch chi'n ychwanegu sgwrsfot AI ym mar ochr { -brand-short-name }.
+genai-chatbot-contextual-subtitle = Sgwrsio a phori ochr yn ochr pan fyddwch chi'n ychwanegu sgwrsfot AI ym mar ochr { -brand-short-name }.
 genai-chatbot-contextual-button = Dewiswch sgwrsfot
 
 ## Chatbot onboarding choices
