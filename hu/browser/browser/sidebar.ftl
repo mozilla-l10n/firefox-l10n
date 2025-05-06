@@ -107,6 +107,10 @@ sidebar-context-menu-close-remote-tab =
 
 sidebar-history-context-menu-delete-page =
     .label = Törlés az előzményekből
+sidebar-history-context-menu-delete-page-2 =
+    .label = Oldal törlése az előzményekből
+sidebar-history-context-menu-bookmark-page =
+    .label = Lap könyvjelzőzése…
 
 ## Labels for sidebar menu items.
 
