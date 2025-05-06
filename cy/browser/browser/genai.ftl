@@ -145,6 +145,9 @@ genai-onboarding-lechat-learn = Rhagor am Le Chat
 genai-onboarding-select-header = Dewiswch destun i weld awgrymiadau
 genai-onboarding-select-description = Pan fyddwch yn dewis testun, byddwn yn cynnig awgrymiadau y gallwch eu hanfon at y sgwrsfot. Gallwch hefyd ysgrifennu eich awgrymiadau eich hun.
 genai-onboarding-select-primary = Dechrau sgwrsio
+genai-chatbot-contextual-title = Defnyddiwch sgwrsfot AI heb newid tabiau
+genai-chatbot-contextual-subtitle = Sgwrsiwch a phori ochr yn ochr pan fyddwch chi'n ychwanegu sgwrsfot AI ym mar ochr { -brand-short-name }.
+genai-chatbot-contextual-button = Dewiswch sgwrsfot
 
 ## Chatbot onboarding choices
 ## These describe features/capabilities of chatbot providers. These are not buttons/actions.
@@ -178,3 +181,19 @@ genai-model-optin-cancel =
 
 ## Link previews
 
+# ‘min’ is short for “minute”
+# ‘mins’ is short for “minutes”
+# An estimate for how long it takes to read an article,
+# expressed as a range covering both slow and fast readers.
+# Variables:
+#   $rangePlural (String): The plural category of the range, using the same set as for numbers.
+#   $range (String): The range of minutes as a localised string. Examples: "3-7", "~1".
+link-preview-reading-time =
+    { $rangePlural ->
+        [zero] { $range } munudau o amser darllen
+        [one] { $range } munud o amser darllen
+        [two] { $range } funud o amser darllen
+        [few] { $range } munud o amser darllen
+        [many] { $range } munud o amser darllen
+       *[other] { $range } munud o amser darllen
+    }

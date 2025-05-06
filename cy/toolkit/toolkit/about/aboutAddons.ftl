@@ -281,6 +281,14 @@ discopane-notice-recommendations2 =
         Mae rhai o'r argymhellion hyn wedi'u dewis yn benodol ar eich cyfer chi. Maen nhw'n seiliedig ar 
         estyniadau eraill rydych chi wedi'u gosod, eich proffil dewisiadau, a'ch ystadegau defnydd.
 discopane-notice-learn-more = Darllen rhagor
+# Notice for the colorway theme removal
+colorway-removal-notice-message =
+    .heading = Cafodd eich thema(au) llwybrau lliw eu dileu.
+    .message =
+        Mae { -brand-product-name } wedi diweddaru ei gasgliad llwybrau lliw. Rydym wedi dileu'r
+        hen fersiwn o'ch rhestr “Themâu wedi'u Cadw”.
+        Mae modd cael fersiynau newydd yn y wefan ychwanegion.
+colorway-removal-notice-learn-more = Dysgu rhagor
 privacy-policy = Polisi Preifatrwydd
 # Refers to the author of an add-on, shown below the name of the add-on.
 # Variables:

@@ -562,3 +562,5 @@ newtab-report-content-spam-misleading =
     .label = Sbam neu gamarweiniol
 newtab-report-cancel = Diddymu
 newtab-report-submit = Cyflwyno
+newtab-toast-thanks-for-reporting =
+    .message = Diolch am adrodd ar hwn.

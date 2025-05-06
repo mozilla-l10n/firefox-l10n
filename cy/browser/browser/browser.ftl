@@ -344,6 +344,10 @@ search-one-offs-actions =
 
 # Opens the about:addons page in the home / recommendations section
 quickactions-addons = Gweld Ychwanegion
+# In English we provide multiple spellings for "add-ons". If that's not
+# applicable to your language, only use the correct spelling (don't repeat the
+# same word).
+quickactions-cmd-addons3 = estyniadau, themâu, ategion, ychwanegion
 quickactions-cmd-addons2 = ychwanegion
 # Opens the bookmarks library window
 quickactions-bookmarks2 = Rheoli nodau tudalen
@@ -384,6 +388,7 @@ quickactions-print2 = Argraffu tudalen
 quickactions-cmd-print = argraffu
 # Opens the print dialog at the save to PDF option
 quickactions-savepdf = Cadw tudalen fel PDF
+quickactions-cmd-savepdf2 = pdf, cadw tudalen
 quickactions-cmd-savepdf = pdf
 # Opens a new private browsing window
 quickactions-private2 = Agor ffenestr breifat
@@ -400,6 +405,8 @@ quickactions-cmd-screenshot2 = llun sgrin, cymryd llun sgrin
 quickactions-cmd-screenshot = llun sgrin
 # Opens about:preferences
 quickactions-settings2 = Rheoli gosodiadau
+# "manage" should match the corresponding command, which is “Manage settings” in English.
+quickactions-cmd-settings2 = gosodiadau, dewisiadau, opsiynau, rheoli
 quickactions-cmd-settings = gosodiadau, dewisiadau, opsiynau
 # Opens about:addons page in the themes section
 quickactions-themes = Rheoli themâu
@@ -1281,3 +1288,4 @@ file-picker-crashed-show-in-folder =
 
 ## Onboarding Finish Setup checklist
 
+onboarding-checklist-button-label = Gorffen gosod
