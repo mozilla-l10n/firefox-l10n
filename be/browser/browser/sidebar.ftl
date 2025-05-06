@@ -31,6 +31,15 @@ sidebar-history-sort-by-site =
     .label = Сартаваць па сайтах
 sidebar-history-clear =
     .label = Ачысціць гісторыю
+sidebar-history-sort-by-heading = Парадкаванне:
+sidebar-history-sort-option-date =
+    .label = Дата
+sidebar-history-sort-option-site =
+    .label = Сайт
+sidebar-history-sort-option-date-and-site =
+    .label = Дата і сайт
+sidebar-history-sort-option-last-visited =
+    .label = Апошняе наведванне
 
 ## Labels for sidebar search
 
@@ -69,10 +78,16 @@ sidebar-context-menu-remove-extension =
     .label = Выдаліць пашырэнне
 sidebar-context-menu-report-extension =
     .label = Паведаміць пра пашырэнне
+sidebar-context-menu-open-in-tab =
+    .label = Адкрыць у новай картцы
+sidebar-context-menu-open-in-container-tab =
+    .label = Адкрыць у новай картцы ў кантэйнеры
 sidebar-context-menu-open-in-window =
     .label = Адкрыць у новым акне
 sidebar-context-menu-open-in-private-window =
     .label = Адкрыць у новым прыватным акне
+sidebar-context-menu-forget-site =
+    .label = Ачысціць усе дадзеныя сайта…
 sidebar-context-menu-bookmark-tab =
     .label = Зрабіць закладку на картку…
 sidebar-context-menu-copy-link =
@@ -92,6 +107,10 @@ sidebar-context-menu-close-remote-tab =
 
 sidebar-history-context-menu-delete-page =
     .label = Выдаліць з гісторыі
+sidebar-history-context-menu-delete-page-2 =
+    .label = Выдаліць старонку з гісторыі
+sidebar-history-context-menu-bookmark-page =
+    .label = Зрабіць закладку…
 
 ## Labels for sidebar menu items.
 

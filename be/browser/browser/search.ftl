@@ -38,6 +38,8 @@ remove-search-engine-button = Добра
 ## Variables
 ## $newEngine (String) - the name of the new default search engine.
 
+reset-search-settings-message = З-за тэхнічнай праблемы ваша прадвызначаная пошукавая сістэма была вернута назад на { $newEngine }. Каб змяніць прадвызначаны пашукавік, перайдзіце ў налады.
+reset-search-settings-button = Добра
 
 ## Infobar shown when user is prompted to install search engine.
 ## Variables
