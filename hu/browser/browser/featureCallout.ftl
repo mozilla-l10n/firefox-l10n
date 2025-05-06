@@ -83,9 +83,16 @@ bookmarks-toolbar-callout-1-secondary-button-label = Köszönöm, nem
 bookmarks-toolbar-callout-2a-title = Adjon hozzá további könyvjelzőket könnyedén
 # Reverts the bookmarks toolbar to the default setting
 bookmarks-toolbar-callout-2a-secondary-button-label = Eszköztár elrejtése
+# Visible if user declines to add a bookmark in callout 1, bookmarks toolbar is set to always show when this message renders
+bookmarks-toolbar-callout-2b-title = Nyitva tartja a könyvjelző eszköztárat?
+bookmarks-toolbar-callout-2b-primary-button-label = Nyitva tartás
+# Reverts the bookmarks toolbar to the default setting
+bookmarks-toolbar-callout-2b-secondary-button-label = Köszönöm, nem
 
 ## Perplexity callout strings
 
+perplexity-callout-theme-1-title = Azonnal a helyes válaszra van szüksége?
+perplexity-callout-theme-2-title = Próbálja ki a Perplexityt: a keresés új módját
 
 ## Sidebar Strings
 
