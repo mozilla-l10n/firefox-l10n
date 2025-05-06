@@ -1376,6 +1376,9 @@ collection-studies-description = Изпробвайте функциите и и
 collection-studies =
     .label = Разрешаване на { -brand-short-name } да инсталира и извършва изследвания
 collection-studies-link = Преглед на изследванията на { -brand-short-name }
+addon-recommendations2 =
+    .label = Разрешаване на препоръки за персонализирани разширения
+addon-recommendations-description = Получавайте препоръки за разширения, за да подобрите изживяването си при сърфиране.
 # This message is displayed above disabled data sharing options in developer builds
 # or builds with no Telemetry support available.
 collection-health-report-disabled2 = Докладването на данни е изключено за тази конфигурация на изданието.

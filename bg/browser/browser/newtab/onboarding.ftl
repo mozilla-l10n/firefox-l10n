@@ -253,6 +253,7 @@ mr2022-onboarding-no-mobile-download-cta-text = Сканирайте QR кода
 ## MR2022 Privacy Segmentation screen strings
 
 mr2022-onboarding-privacy-segmentation-title = Ние винаги уважаваме вашата поверителност
+mr2022-onboarding-privacy-segmentation-button-primary-label = Използвайте препоръките от { -brand-product-name }
 mr2022-onboarding-privacy-segmentation-button-secondary-label = Показване на подробна информация
 
 ## MR2022 Multistage Gratitude screen strings
