@@ -529,6 +529,13 @@ newtab-custom-wallpaper-cta = Próbálja ki
 
 ## Strings for download mobile highlight
 
+newtab-download-mobile-highlight-title = Töltse le a mobilos { -brand-product-name }ot
+# "Scan the code" refers to scanning the QR code that appears above the body text that leads to Firefox for mobile download.
+newtab-download-mobile-highlight-body-variant-a = Olvassa le a kódot, hogy biztonságosan böngésszen útközben.
+newtab-download-mobile-highlight-body-variant-b = Folytassa ott, ahol abbahagyta, és szinkronizálja lapjait, jelszavait és egyebeit.
+newtab-download-mobile-highlight-body-variant-c = Tudta, hogy magával viheti a { -brand-product-name }ot? Ugyanaz a böngésző. A zsebében.
+newtab-download-mobile-highlight-image =
+    .aria-label = QR-kód a mobilos { -brand-product-name } letöltéséhez
 
 ## Strings for reporting ads and content
 

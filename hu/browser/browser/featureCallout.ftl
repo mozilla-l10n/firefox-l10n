@@ -93,6 +93,13 @@ bookmarks-toolbar-callout-2b-secondary-button-label = Köszönöm, nem
 
 perplexity-callout-theme-1-title = Azonnal a helyes válaszra van szüksége?
 perplexity-callout-theme-2-title = Próbálja ki a Perplexityt: a keresés új módját
+perplexity-callout-theme-1-subtitle-1 = Próbálja ki a Perplexityt. Válassza ezt a keresést, ha teljes válaszokat szeretne, forrásokkal együtt.
+perplexity-callout-theme-1-subtitle-2 = Tegyen fel kérdéseket. Kapjon teljes, forrásolt válaszokat. A Perplexity kipróbálásához válassza ki a keresési gombról.
+perplexity-callout-theme-2-subtitle-1 = Kérdezze a Perplexityt. Teljes válaszokat fog kapni, forrásokkal együtt.
+perplexity-callout-theme-2-subtitle-2 = Kérdezzen. Kapjon teljes, forrásolt válaszokat.
+perplexity-callout-primary-label = Kérdezze a Perplexityt
+perplexity-callout-secondary-label-1 = Eltüntetés
+perplexity-callout-secondary-label-2 = Megértettem
 
 ## Sidebar Strings
 

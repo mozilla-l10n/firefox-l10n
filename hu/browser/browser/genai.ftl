@@ -137,6 +137,9 @@ genai-onboarding-lechat-learn = Tudjon meg többet a Le Chatről
 genai-onboarding-select-header = Jelöljön ki szöveget a javaslatok megtekintéséhez
 genai-onboarding-select-description = Ha szöveget választ ki, akkor a csevegőbotnak küldött promptokat javasolunk. Beírhatja a saját kéréseit is.
 genai-onboarding-select-primary = Kezdjen csevegni
+genai-chatbot-contextual-title = Használjon egy MI csevegőbotot lapváltás nélkül
+genai-chatbot-contextual-subtitle = Csevegjen és böngésszen egymás mellett, ha felvesz egy MI csevegőbotot a { -brand-short-name } oldalsávba.
+genai-chatbot-contextual-button = Válasszon csevegőbotot
 
 ## Chatbot onboarding choices
 ## These describe features/capabilities of chatbot providers. These are not buttons/actions.
@@ -170,3 +173,15 @@ genai-model-optin-cancel =
 
 ## Link previews
 
+# ‘min’ is short for “minute”
+# ‘mins’ is short for “minutes”
+# An estimate for how long it takes to read an article,
+# expressed as a range covering both slow and fast readers.
+# Variables:
+#   $rangePlural (String): The plural category of the range, using the same set as for numbers.
+#   $range (String): The range of minutes as a localised string. Examples: "3-7", "~1".
+link-preview-reading-time =
+    { $rangePlural ->
+        [one] { $range } perc olvasási idő
+       *[other] { $range } perc olvasási idő
+    }
