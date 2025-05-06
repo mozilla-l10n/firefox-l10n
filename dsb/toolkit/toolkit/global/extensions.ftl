@@ -127,3 +127,5 @@ webext-site-perms-midi-sysex = Pśistup k MIDI-rědam z pódpěru za SysEx
 
 ## Colorway theme migration
 
+webext-colorway-theme-migration-notification-message = <b>Waša drastwa barwoweje kombinacije jo se wótwónoźeła.</b> { -brand-shorter-name } jo zaktualizěrował swóju zběrku barwowych kombinacijow. Móžośo nejnowše wersije na sedle dodankow namakaś.
+webext-colorway-theme-migration-notification-button = Wobstarajśo se zaktualizěrowane barwowe kombinacije

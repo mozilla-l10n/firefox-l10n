@@ -273,7 +273,15 @@ discopane-notice-recommendations = Někotare z toś tych dopórucenjow su person
 discopane-notice-recommendations2 =
     .message = Někotare z toś tych dopórucenjow su personalizěrowane. Bazěruju na rozšyrjenjach, kótarež sćo instalěrował, profilowych nastajenjach a wužywańskej statistice.
 discopane-notice-learn-more = Dalšne informacije
+# Notice for the colorway theme removal
+colorway-removal-notice-message =
+    .heading = Waše drastwy barwowych kombinacijow su se wótwónoźeli.
+    .message =
+        { -brand-product-name } jo zaktualizěrował swóju zběrku barwowych kombinacijow. Smy wótwónoźeli
+        stare wersije z wašeje lisćiny „Skłaźone drastwy“. Wobstarajśo se nowe wersije ze
+        sedła dodankow.
 colorway-removal-notice-learn-more = Dalšne informacije
+colorway-removal-notice-button = Wobstarajśo se zaktualizěrowane drastwy barwowych kombinacijow
 privacy-policy = Pšawidła priwatnosći
 # Refers to the author of an add-on, shown below the name of the add-on.
 # Variables:
