@@ -112,12 +112,27 @@ about-glean-profiler-explanation =
     For å se en fullstendig oversikt over alle registrerte målinger kan du bruke { -profiler-brand-name }.
     Først må du <a data-l10n-name="firefox-profiler-link">registrere en ytelsesprofil</a>.
     Når du har registrert profilen, velger du <q>Markørdiagram</q> og ser på markørene under <q>Telemetri</q>.
+about-glean-profiler-explanation-profiler = I ytelsesprofilen kan du se alle målinger som er samlet inn, når de ble samlet inn og nøyaktig hvilke verdier som ble samlet inn. Ved å holde musepekeren over individuelle markører kan du bekrefte at riktig verdi ble samlet inn og at innsamlingen skjedde til riktig tid.
 controls-button-label-verbose = Bruk innstillinger og send inn ping
 about-glean-feedback-settings-only =
     .message = Innstillinger anvendt!
 about-glean-feedback-settings-and-ping =
     .message = Innstillinger anvendt og ping sendt!
 about-glean-about-data-header = Om data
+about-glean-about-data-description = Det finnes noen forskjellige verktøy du kan bruke for å se dataene dine, avhengig av hva du leter etter.
+about-glean-about-data-description-list-intro = Se listen nedenfor for spesifikke brukstilfeller for hvert verktøy:
+about-glean-about-data-list-item-dictionary =
+    For å se listen over data samlet inn av { -glean-brand-name } per applikasjon, kan du se i
+    <a data-l10n-name="glean-dictionary-link">{ -glean-brand-name }-ordboken</a>.
+about-glean-about-data-list-item-about-telemetry =
+    For å se dataene som samles inn av eldre telemetri, se
+    <a data-l10n-name="about-telemetry-link">about:telemetry</a>.
+about-glean-about-data-list-item-debug-ping-viewer =
+    For å se igjennom feilsøkingskoder, se fullstendige pinger, se en direktestrøm av hendelser eller se visualiseringer av metriske data, kan du se
+    <a data-l10n-name="glean-debug-ping-viewer">{ glean-debug-ping-viewer-brand-name }</a>.
+about-glean-about-data-list-item-firefox-profiler =
+    For å registrere en ytelsesprofil og se alle registrerte målinger, bruk
+    <a data-l10n-name="about-glean-firefox-profiler">{ -profiler-brand-name }</a>.
 about-glean-about-data-explanation =
     For å se gjennom listen over innsamlede data, se
     <a data-l10n-name="glean-dictionary-link">{ -glean-brand-name }-ordbok</a>.

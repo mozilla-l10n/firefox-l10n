@@ -206,6 +206,10 @@ addon-updates-manual-updates-found = Vis tilgjengelige oppdateringer
 
 addon-install-from-file = Installer utvidelse fra fil …
     .accesskey = I
+# Like `addon-install-from-file` but used when the `extensions.webextensions.prefer-update-over-install-for-existing-addon`
+# pref is set.
+addon-install-or-update-from-file = Installer eller oppdater tillegg fra fil…
+    .accesskey = I
 addon-install-from-file-dialog-title = Velg utvidelse å installere
 addon-install-from-file-filter-name = Utvidelser
 addon-open-about-debugging = Debug-utvidelser
@@ -277,6 +281,14 @@ discopane-notice-recommendations2 =
         Noen av disse anbefalingene er målrettet deg. De er basert på andre
         utvidelser du har installert, profilinnstillinger og statistikk for bruk.
 discopane-notice-learn-more = Les mer
+# Notice for the colorway theme removal
+colorway-removal-notice-message =
+    .heading = Fargesammensetting-temaet/temaene dine ble fjernet.
+    .message =
+        { -brand-product-name } oppdaterte fargesammensetting sin. Vi fjernet
+        den/de gamle versjonen(e) fra listen over «Lagrede temaer». Få nye versjoner
+        på tilleggssiden.
+colorway-removal-notice-learn-more = Les mer
 privacy-policy = Personvernbestemmelser
 # Refers to the author of an add-on, shown below the name of the add-on.
 # Variables:
