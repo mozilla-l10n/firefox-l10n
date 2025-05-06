@@ -281,6 +281,7 @@ discopane-notice-recommendations2 =
         Nekatera od teh priporočil so prilagojena za vas. Temeljijo na vaših
         ostalih razširitvah, nastavitvah profila in statistiki uporabe.
 discopane-notice-learn-more = Več o tem
+colorway-removal-notice-learn-more = Več o tem
 privacy-policy = Politika zasebnosti
 # Refers to the author of an add-on, shown below the name of the add-on.
 # Variables:
