@@ -41,3 +41,9 @@ experimental-features-link-previews-description =
         [macos] Aby wěcej wó webboku zgónił, nježli až klikaśo, stajśo pokazowak myški na wótkaz a tłocćo Umsch (⇧) plus ⌥ option abo Alt. Pśeglědy mógu drobnostki ako titel a cytański cas wopśimowaś. Za někotare webboki móžo KI teke tekst boka cytaś a klucowe dypki generěrowaś. KI jo optiměrowana, aby engelski tekst cytała a generěrowała. Aby wašej priwatnosći prioritu dała, se KI lokalnje na wašom licadle wuwjeźo. <a data-l10n-name="connect">Měnjenje źěliś</a>
        *[other] Aby wěcej wó webboku zgónił, nježli až klikaśo, stajśo pokazowak myški na wótkaz a tłocćo Umsch (⇧) + Alt. Pśeglědy mógu drobnostki ako titel a cytański cas wopśimowaś. Za někotare webboki móžo KI teke tekst boka cytaś a klucowe dypki generěrowaś. KI jo optiměrowana, aby engelski tekst cytała a generěrowała. Aby wašej priwatnosći prioritu dała, se KI lokalnje na wašom licadle wuwjeźo. <a data-l10n-name="connect">Měnjenje źěliś</a>
     }
+# This version of the link previews description does not mention AI.
+experimental-features-link-previews-description-no-ai =
+    { PLATFORM() ->
+        [macos] Aby wěcej wo webboku zgónił, nježli až klikaśo, stajśo kursor myški nad wótkaz a tłocćo Umsch (⇧) + option (⌥) abo Alt. Pśeglědy mógu drobnostki ako titel a cytański cas wopśimowaś. <a data-l10n-name="connect">Dajśo nam wašo měnjenje k wěsći</a>
+       *[other] Aby wěcej wo webboku zgónił, nježli až klikaśo, stajśo kursor myški nad wótkaz a tłocćo Umsch (⇧) + Alt. Pśeglědy mógu drobnostki ako titel a cytański cas wopśimowaś. <a data-l10n-name="connect">Dajśo nam wašo měnjenje k wěsći</a>
+    }
