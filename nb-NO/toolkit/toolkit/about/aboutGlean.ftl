@@ -19,6 +19,7 @@ about-glean-interface-description =
 about-glean-category-about-glean = Om { -glean-brand-name }
 about-glean-category-manual-testing = Manuell testing
 about-glean-category-adhoc-testing = Ad hoc-testing
+about-glean-category-profiler = Bruk av profileringsverktøyet
 about-glean-category-about-data = Om data
 about-glean-upload-enabled = Dataopplasting er aktivert.
 about-glean-upload-disabled = Dataopplasting er deaktivert.
@@ -47,6 +48,9 @@ about-glean-glean-android = <code>MOZ_GLEAN_ANDROID</code>: { $glean-android-def
 #   $moz-official-define-value (Boolean): the value of the MOZILLA_OFFICIAL define.
 # Do not translate strings between <code> </code> tags.
 about-glean-moz-official = <code>MOZILLA_OFFICIAL</code>: { $moz-official-define-value }
+about-glean-additional-links =
+    For en forklaring av ulike måter å registrere og finne data på, se fanen
+    <strong>Om data</strong>.
 about-glean-about-testing-header = Om testing
 # This message is followed by a numbered list.
 about-glean-manual-testing =
@@ -104,6 +108,10 @@ about-glean-adhoc-note =
     Merk at når du bruker konsollen i utviklerverktøy, bruker du Glean JS API-et.
     Dette betyr at analyseresultatkategorier og navn formateres
     med <code>camelCase</code> i motsetning til i Rust- og i C++-API-ene.
+about-glean-profiler-explanation =
+    For å se en fullstendig oversikt over alle registrerte målinger kan du bruke { -profiler-brand-name }.
+    Først må du <a data-l10n-name="firefox-profiler-link">registrere en ytelsesprofil</a>.
+    Når du har registrert profilen, velger du <q>Markørdiagram</q> og ser på markørene under <q>Telemetri</q>.
 controls-button-label-verbose = Bruk innstillinger og send inn ping
 about-glean-feedback-settings-only =
     .message = Innstillinger anvendt!
