@@ -54,6 +54,10 @@ neterror-dns-not-found-hint-header = <strong>Os ydych chi wedi rhoi'r cyfeiriad 
 neterror-dns-not-found-hint-try-again = Ceisiwch eto yn nes ymlaen
 neterror-dns-not-found-hint-check-network = Gwiriwch eich cysylltiad rhwydwaith
 neterror-dns-not-found-hint-firewall = Gwiriwch fod gan { -brand-short-name } ganiatâd i gael mynediad i'r we (efallai eich bod wedi'ch cysylltu ond tu ôl i fur cadarn)
+neterror-dns-not-found-offline-hint-header = <strong>Beth allwch chi ei wneud amdano?</strong>
+neterror-dns-not-found-offline-hint-different-device = Ceisiwch gysylltu ar ddyfais wahanol.
+neterror-dns-not-found-offline-hint-modem = Gwiriwch eich modem neu lwybrydd.
+neterror-dns-not-found-offline-hint-reconnect = Datgysylltwch ac ailgysylltu â'r Wi-Fi.
 
 ## TRR-only specific messages
 ## Variables:

@@ -289,6 +289,7 @@ colorway-removal-notice-message =
         hen fersiwn o'ch rhestr “Themâu wedi'u Cadw”.
         Mae modd cael fersiynau newydd yn y wefan ychwanegion.
 colorway-removal-notice-learn-more = Dysgu rhagor
+colorway-removal-notice-button = Cael y themâu llwybrau lliw diweddaraf
 privacy-policy = Polisi Preifatrwydd
 # Refers to the author of an add-on, shown below the name of the add-on.
 # Variables:

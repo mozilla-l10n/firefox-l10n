@@ -133,3 +133,5 @@ webext-site-perms-midi-sysex = Mynediad at ddyfeisiau MIDI sydd â Chefnogaeth S
 
 ## Colorway theme migration
 
+webext-colorway-theme-migration-notification-message = <b>Cafodd eich thema llwybrau lliw ei thynnu.</b> Mae { -brand-shorter-name } wedi diweddaru ei gasgliad llwybrau lliw. Gallwch ddod o hyd i'r fersiynau diweddaraf ar y wefan ychwanegion.
+webext-colorway-theme-migration-notification-button = Cael y themâu llwybrau lliw diweddaraf

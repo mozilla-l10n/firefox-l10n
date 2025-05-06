@@ -121,6 +121,7 @@ deniedPortAccess-title = Mae'r cyfeiriad wedi ei gyfyngu
 # "Hmm" is a sound made when considering or puzzling over something.
 # You don't have to include it in your translation if your language does not have a written word like this.
 dnsNotFound-title = Hmm. Rydym yn cael trafferth canfod y wefan honno.
+internet-connection-offline-title = Mae'n ymddangos bod problem gyda'ch cysylltiad rhyngrwyd.
 dns-not-found-trr-only-title2 = Risg diogelwch posibl wrth chwilio'r parth hwn
 dns-not-found-native-fallback-title2 = Risg diogelwch posibl wrth chwilio'r parth hwn
 fileNotFound-title = Heb ganfod ffeil
