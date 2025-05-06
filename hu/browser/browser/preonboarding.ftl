@@ -10,6 +10,7 @@ preonboarding-subtitle = A folytatással elfogadja a { -brand-product-name } fel
 preonboarding-primary-cta = Megerősítés és folytatás
 # Labels for header style button that toggles showing the terms of use, privacy notice, and data preferences checklist
 preonboarding-manage-and-read-header = Adatgyűjtési beállítások kezelése, valamint a felhasználási feltételeinket és az adatvédelmi nyilatkozat elolvasása
+preonboarding-manage-and-read-header-v2 = Olvassa el a felhasználási feltételeket és az adatvédelmi nyilatkozatot. Kezeljen további beállításokat.
 # Label for header style button that toggles showing the Terms of Use
 preonboarding-terms-of-use-header-button-title = Felhasználási feltételek elolvasása
 # Label for header style button that toggles showing the Privacy Notice
@@ -18,8 +19,10 @@ preonboarding-privacy-notice-header-button-title = Adatvédelmi nyilatkozat felo
 preonboarding-manage-data-header-button-title = Diagnosztikai és interakciós adatok kezelése
 # Labels for header style button that toggles showing the Terms of Use (Variant B)
 preonboarding-terms-of-use-header-button-title-b = A { -brand-product-name } felhasználási feltételei
+preonboarding-terms-of-use-header-button-title-b-v2 = Felhasználási feltételek
 # Labels for header style button that toggles showing the Privacy Notice (Variant B)
 preonboarding-privacy-notice-header-button-title-b = A { -brand-product-name } adatvédelmi nyilatkozata
+preonboarding-privacy-notice-header-button-title-b-v2 = Adatvédelmi nyilatkozat
 # Description under label for header style buttons
 preonboarding-header-button-description = Bővebben
 # New user onboarding checklist
