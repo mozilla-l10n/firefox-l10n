@@ -25,4 +25,4 @@
 # remain unchanged across different versions (Nightly, Beta, etc.).
 -brand-product-name = Firefox
 -vendor-short-name = Mozilla
-trademarkInfo = Firefox și siglele Firefox sunt mărci comerciale ale Fundației Mozilla.
+trademarkInfo = Firefox și siglele Firefox sunt mărci comerciale ale Mozilla Foundation.
