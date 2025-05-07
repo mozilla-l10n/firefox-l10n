@@ -121,4 +121,5 @@ webext-site-perms-midi-sysex = MIDI eszközök elérése SysEx támogatással
 
 ## Colorway theme migration
 
+webext-colorway-theme-migration-notification-message = <b>A színvilágtémája el lett távolítva.</b> A { -brand-shorter-name } frissítette a színvilággyűjteményét. A legújabb verziókat a kiegészítők oldalán találja.
 webext-colorway-theme-migration-notification-button = Frissített színvilágok beszerzése

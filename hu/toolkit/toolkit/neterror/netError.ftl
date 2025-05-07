@@ -54,6 +54,10 @@ neterror-dns-not-found-hint-header = <strong>Ha a megfelelő címet adta meg, a 
 neterror-dns-not-found-hint-try-again = Próbálja meg újra később
 neterror-dns-not-found-hint-check-network = Ellenőrizze a hálózati kapcsolatot
 neterror-dns-not-found-hint-firewall = Ellenőrizze, hogy a { -brand-short-name } jogosult-e az internet elérésére (lehet, hogy csatlakozik, de tűzfal mögött van)
+neterror-dns-not-found-offline-hint-header = <strong>Mit tehet ez ellen?</strong>
+neterror-dns-not-found-offline-hint-different-device = Próbáljon meg csatlakozni egy másik eszközön.
+neterror-dns-not-found-offline-hint-modem = Ellenőrizze a modemet vagy a routert.
+neterror-dns-not-found-offline-hint-reconnect = Bontsa a kapcsolatot, majd kapcsolódjon újra a Wi–Fi-hez.
 
 ## TRR-only specific messages
 ## Variables:

@@ -285,7 +285,7 @@ discopane-notice-recommendations2 =
 discopane-notice-learn-more = További tudnivalók
 # Notice for the colorway theme removal
 colorway-removal-notice-message =
-    .heading = A színvilág témái eltávolítva.
+    .heading = A színvilágtémái el lettek távolítva.
     .message =
         A { -brand-product-name } frissítette a színvilág-gyűjteményét. Eltávolítottuk
         a régi verziókat a „Mentett témák” listából. Szerezzen be új verziókat

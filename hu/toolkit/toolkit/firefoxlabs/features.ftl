@@ -41,3 +41,9 @@ experimental-features-link-previews-description =
         [macos] Ha többet szeretne megtudni a weboldalról, még mielőtt rákattintana, vigye az egeret a hivatkozás fölé, és nyomja meg a Shift (⇧) és az Option (⌥) vagy az Alt billentyűket. Az előnézetek olyan részleteket tartalmazhatnak, mint a cím és az olvasási idő. Néhány weboldal esetén a mesterséges intelligencia el tudja olvasni az oldal szövegét is, és kulcspontokat generál. Az MI angol szöveg olvasására és előállítására van optimalizálva. Az adatvédelem érdekében az MI helyben fut a számítógépén. <a data-l10n-name="connect">Visszajelzés megosztása</a>
        *[other] Ha többet szeretne megtudni a weboldalról, még mielőtt rákattintana, vigye az egeret a hivatkozás fölé, és nyomja meg a Shift + Alt billentyűkombinációt. Az előnézetek olyan részleteket tartalmazhatnak, mint a cím és az olvasási idő. Néhány weboldal esetén a mesterséges intelligencia el tudja olvasni az oldal szövegét is, és kulcspontokat generál. Az MI angol szöveg olvasására és előállítására van optimalizálva. Az adatvédelem érdekében az MI helyben fut a számítógépén. <a data-l10n-name="connect">Visszajelzés megosztása</a>
     }
+# This version of the link previews description does not mention AI.
+experimental-features-link-previews-description-no-ai =
+    { PLATFORM() ->
+        [macos] Ha többet szeretne megtudni a webhelyről, még mielőtt kattintana, vigye az egeret a hivatkozás fölé, és nyomja meg a Shift (⇧) + Option (⌥) vagy Alt billentyűkombinációt. Az előnézetek olyan részleteket tartalmazhatnak, mint a cím és az olvasási idő. <a data-l10n-name="connect">Visszajelzés megosztása</a>
+       *[other] Ha többet szeretne megtudni a webhelyről, még mielőtt kattintana, vigye az egeret a hivatkozás fölé, és nyomja meg a Shift + Alt billentyűkombinációt. Az előnézetek olyan részleteket tartalmazhatnak, mint a cím és az olvasási idő. <a data-l10n-name="connect">Visszajelzés megosztása</a>
+    }
