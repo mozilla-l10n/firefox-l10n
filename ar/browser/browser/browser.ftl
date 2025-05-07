@@ -344,13 +344,17 @@ search-one-offs-actions =
 
 # Opens the about:addons page in the home / recommendations section
 quickactions-addons = اعرض الإضافات
+# In English we provide multiple spellings for "add-ons". If that's not
+# applicable to your language, only use the correct spelling (don't repeat the
+# same word).
+quickactions-cmd-addons3 = الإضافات, اﻹمتدادات, إمتداد, extensions, themes, addons, add-ons
 quickactions-cmd-addons2 = الإضافات
 # Opens the bookmarks library window
 quickactions-bookmarks2 = أدِر العلامات
 quickactions-cmd-bookmarks = العلامات
 # Opens a SUMO article explaining how to clear history
 quickactions-clearrecenthistory = امسح التأريخ الحالي
-quickactions-cmd-clearrecenthistory = امسح التأريخ الحالي، التأريخ
+quickactions-cmd-clearrecenthistory = امسح التأريخ الحالي, التأريخ, clear recent history, history
 # Opens a SUMO article explaining how to clear history
 quickactions-clearhistory = امسح التأريخ
 quickactions-cmd-clearhistory = امسح التأريخ
@@ -371,7 +375,7 @@ quickactions-help = مساعدة { -brand-product-name }
 quickactions-cmd-help = المساعدة والدعم
 # Opens the devtools web inspector
 quickactions-inspector2 = افتح أدوات المطورين
-quickactions-cmd-inspector2 = المفتش، أدوات التطوير، أدوات التطوير
+quickactions-cmd-inspector2 = المفتش, أدوات التطوير, أدوات التطوير, inspector, devtools, dev tools
 quickactions-cmd-inspector = الفاحص، أدوات تطوير
 # Opens about:logins
 quickactions-logins2 = أدِر كلمات السر
@@ -384,6 +388,7 @@ quickactions-print2 = اطبع الصفحة
 quickactions-cmd-print = اطبع
 # Opens the print dialog at the save to PDF option
 quickactions-savepdf = احفظ الصفحة بصيغة PDF
+quickactions-cmd-savepdf2 = pdf, احفظ الصفحة, save page
 quickactions-cmd-savepdf = pdf
 # Opens a new private browsing window
 quickactions-private2 = افتح نافذة خاصة
@@ -396,13 +401,13 @@ quickactions-restart = أعِد تشغيل { -brand-short-name }
 quickactions-cmd-restart = أعِد التشغيل
 # Opens the screenshot tool
 quickactions-screenshot3 = خذ لقطة شاشة
-quickactions-cmd-screenshot2 = لقطة الشاشة، خذ لقطة شاشة
+quickactions-cmd-screenshot2 = لقطة الشاشة, خذ لقطة شاشة, screenshot, take a screenshot
 quickactions-cmd-screenshot = لقطة شاشة
 # Opens about:preferences
 quickactions-settings2 = أدِر الإعدادات
 # "manage" should match the corresponding command, which is “Manage settings” in English.
 quickactions-cmd-settings2 = الإعدادات, التفضيلات, الخيارات, الإدارة, settings, preferences, options, manage
-quickactions-cmd-settings = الإعدادات، التفضيلات، الخيارات
+quickactions-cmd-settings = الإعدادات, التفضيلات, الخيارات, settings, preferences, options
 # Opens about:addons page in the themes section
 quickactions-themes = أدِر السمات
 quickactions-cmd-themes = السمات
@@ -411,8 +416,8 @@ quickactions-update = حدِّث { -brand-short-name }
 quickactions-cmd-update = حدّث
 # Opens the view-source UI with current pages source
 quickactions-viewsource2 = اعرض مصدر هذه الصفحة
-quickactions-cmd-viewsource2 = عرض المصدر، المصدر، مصدر الصفحة
-quickactions-cmd-viewsource = اعرض المصدر، مصدر
+quickactions-cmd-viewsource2 = عرض المصدر, المصدر, مصدر الصفحة, view source, source, page source
+quickactions-cmd-viewsource = اعرض المصدر, مصدر, view source, source
 # Tooltip text for the help button shown in the result.
 quickactions-learn-more =
     .title = تعرف على المزيد حول الإجراءات السريعة
