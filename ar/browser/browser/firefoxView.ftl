@@ -32,6 +32,7 @@ firefoxview-tabpickup-progress-label = اكتمل { $percentValue }٪
 firefoxview-tabpickup-step-signin-header = بدِّل بسلاسة بين الأجهزة
 firefoxview-tabpickup-step-signin-description = للحصول على علامات تبويب هاتفك هنا، قم أولاً بتسجيل الدخول أو إنشاء حساب.
 firefoxview-tabpickup-step-signin-primarybutton = واصِل
+firefoxview-syncedtabs-signin-header-2 = { -brand-product-name } الخاص بك على جميع أجهزتك
 firefoxview-syncedtabs-signin-primarybutton-2 = لج
 firefoxview-syncedtabs-signin-header = اسحب الألسنة من أي مكان
 firefoxview-syncedtabs-signin-primarybutton = لج أو سجل حسابًا

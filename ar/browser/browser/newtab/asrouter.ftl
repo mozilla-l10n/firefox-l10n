@@ -318,5 +318,6 @@ fxa-menu-message-mobile-collapsed-text = زامِن مع هاتفك
 
 multi-cta-fox-doodle-title = مرحبا بعودتك
 multi-cta-fox-doodle-set-default-checkbox = اضبط { -brand-short-name } ليكون المبدئي
+multi-cta-fox-doodle-pin-startmenu-checkbox = ثبّت { -brand-short-name } في قائمة البدء
 multi-cta-fox-doodle-start-browsing-primary-button-label = ابدأ التصفح
 multi-cta-fox-doodle-main-browser-primary-button-label = اضبط { -brand-short-name } ليكون متصفّحي الرئيسي
