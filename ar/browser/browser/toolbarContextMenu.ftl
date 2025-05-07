@@ -34,6 +34,12 @@ toolbar-context-menu-reopen-closed-tabs =
            *[other] أعِد فتح الألسنة المغلقة
         }
     .accesskey = ع
+toolbar-context-turn-on-vertical-tabs =
+    .label = فعِّل الألسنة العمودية
+toolbar-context-turn-off-vertical-tabs =
+    .label = عطّل الألسنة العمودية
+toolbar-context-customize-sidebar =
+    .label = تخصيص الشريط الجانبي
 toolbar-context-menu-manage-extension =
     .label = أدِر الامتداد
     .accesskey = د

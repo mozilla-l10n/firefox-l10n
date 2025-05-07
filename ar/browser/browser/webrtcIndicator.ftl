@@ -177,14 +177,23 @@ webrtc-allow-share-screen-and-audio-capture = أتسمح بأن يستمع { $or
 
 ## Special phrasing for sharing devices when the origin is a file url.
 
+webrtc-allow-share-audio-capture-with-file = أتسمح بأن يستمع هذا الملف المحلي للصوت على هذا اللسان؟
+webrtc-allow-share-camera-with-file = أتسمح لهذا الملف المحلي باستخدام كمرتك؟
+webrtc-allow-share-microphone-with-file = أتسمح لهذا الملف المحلي باستخدام ميكروفونك؟
+webrtc-allow-share-screen-with-file = أتسمح لهذا الملف المحلي بأن يرى شاشتك؟
 # "Speakers" is used in a general sense that might include headphones or
 # another audio output connection.
 webrtc-allow-share-speaker-with-file = أتسمح لهذا الملف المحلي باستخدام سماعات أخرى؟
+webrtc-allow-share-camera-and-microphone-with-file = أتسمح لهذا الملف المحلي باستخدام كمرتك وميكروفونك؟
+webrtc-allow-share-camera-and-audio-capture-with-file = أتسمح بأن يستعمل هذا الملف المحلي كمرتك و أن يستمع للصوت على هذا اللسان؟
+webrtc-allow-share-screen-and-microphone-with-file = أتسمح بأن يستعمل هذا الملف المحلي ميكروفونك و يرى شاشتك؟
+webrtc-allow-share-screen-and-audio-capture-with-file = أتسمح بأن يستمع هذا الملف المحلي للصوت على هذا اللسان و يرى شاشتك؟
 
 ## Variables:
 ##   $origin (String): the first party origin.
 ##   $thirdParty (String): the third party origin.
 
+webrtc-allow-share-audio-capture-unsafe-delegation = أتسمح بأن يُعطي { $origin } تصريح سماع هذا اللسان إلى { $thirdParty }؟
 webrtc-allow-share-camera-unsafe-delegation = أتسمح بأن يُعطي { $origin } تصريح الوصول إلى الكمرة إلى { $thirdParty }؟
 webrtc-allow-share-microphone-unsafe-delegation = أتسمح بأن يُعطي { $origin } تصريح الوصول إلى الميكروفون إلى { $thirdParty }؟
 webrtc-allow-share-screen-unsafe-delegation = أتسمح بأن يُعطي { $origin } تصريح رؤية شاشتك إلى { $thirdParty }؟
@@ -231,10 +240,16 @@ webrtc-action-block =
 webrtc-action-always-block =
     .label = احجبه دائمًا
     .accesskey = د
+webrtc-action-not-now =
+    .label = ليس الآن
+    .accesskey = ن
 
 ##
 
 webrtc-remember-allow-checkbox = تذكّر هذا القرار
+webrtc-remember-allow-checkbox-camera = تذكر لجميع الكاميرات
+webrtc-remember-allow-checkbox-microphone = تذكر لجميع الميكروفونات
+webrtc-remember-allow-checkbox-camera-and-microphone = تذكر لجميع الكاميرات والميكروفونات
 webrtc-mute-notifications-checkbox = اكتم تنبيهات المواقع أثناء المشاركة
 webrtc-reason-for-no-permanent-allow-screen = لا يُمكن أن يسمح { -brand-short-name } بوصول دائم إلى شاشتك.
 webrtc-reason-for-no-permanent-allow-audio = لا يستطيع { -brand-short-name } أن يسمح بمشاركة دائمة للصوت على اللسان بدون السؤال عن أي لسان سيشارك.
