@@ -17,6 +17,9 @@ webext-perms-header-unsigned-with-perms = Aggiungere { $extension }? Questa este
 webext-perms-sideload-header = { $extension } è stato installato
 webext-perms-optional-perms-header = Sono richiesti dei permessi aggiuntivi per { $extension }.
 
+## Headers used in the webextension permissions dialog, inside the content.
+
+
 ##
 
 webext-perms-add =
@@ -119,4 +122,3 @@ webext-site-perms-midi-sysex = Accedere a dispositivi MIDI con supporto SysEx
 
 webext-colorway-theme-migration-notification-message = <b>La tonalità è stata rimossa.</b> { -brand-shorter-name } ha aggiornato la sua collezione di tonalità. Puoi trovare le ultime versioni sul sito dei componenti aggiuntivi.
 webext-colorway-theme-migration-notification-button = Ottieni tonalità aggiornate
-
