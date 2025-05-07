@@ -15,10 +15,17 @@ webext-perms-header-with-perms = Aggiungere { $extension }? Questa estensione av
 webext-perms-header-unsigned = Aggiungere { $extension }? Questa estensione non è verificata. Un’estensione realizzata con intento doloso è in grado di sottrarre informazioni personali o compromettere l’intero computer. Installarla solo se si ritiene la fonte affidabile.
 webext-perms-header-unsigned-with-perms = Aggiungere { $extension }? Questa estensione non è verificata. Un’estensione realizzata con intento doloso è in grado di sottrarre informazioni personali o compromettere l’intero computer. Installarla solo se si ritiene la fonte affidabile. Questa estensione avrà il permesso di:
 webext-perms-sideload-header = { $extension } è stato installato
+webext-perms-optional-perms-header2 = Sono richiesti dei permessi aggiuntivi per { $extension }
 webext-perms-optional-perms-header = Sono richiesti dei permessi aggiuntivi per { $extension }.
+webext-perms-header2 = Aggiungi { $extension }
+webext-perms-list-intro-unsigned = Questa estensione non verificata potrebbe mettere a rischio la tua privacy o compromettere il tuo dispositivo. Installarla solo se si ritiene la fonte affidabile.
 
 ## Headers used in the webextension permissions dialog, inside the content.
 
+webext-perms-header-required-perms = Permessi obbligatori:
+webext-perms-header-optional-settings = Permessi facoltativi:
+webext-perms-header-update-required-perms = Nuovi permessi obbligatori:
+webext-perms-header-optional-required-perms = Nuovi permessi:
 
 ##
 
@@ -38,7 +45,10 @@ webext-perms-sideload-cancel =
     .accesskey = n
 # Variables:
 #   $extension (String): replaced with the localized name of the extension.
-webext-perms-update-text = { $extension } è stata aggiornata. È necessario accettare i nuovi permessi prima di installare la nuova versione. Selezionare “Annulla” per mantenere la versione in uso dell’estensione. Questa estensione avrà il permesso di:
+webext-perms-update-text2 = È disponibile un aggiornamento per { $extension }. Per poter installare la nuova versione è necessario garantire i nuovi permessi. Selezionando “Annulla” verrà mantenuta la versione in uso dell’estensione.
+# Variables:
+#   $extension (String): replaced with the localized name of the extension.
+webext-perms-update-text = È disponibile un aggiornamento per { $extension }. Per poter installare la nuova versione è necessario garantire i nuovi permessi. Selezionando “Annulla” verrà mantenuta la versione in uso dell’estensione. Questa estensione avrà il permesso di:
 webext-perms-update-accept =
     .label = Aggiorna
     .accesskey = A
