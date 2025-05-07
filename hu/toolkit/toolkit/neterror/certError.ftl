@@ -121,6 +121,7 @@ deniedPortAccess-title = Ez a cím tiltva van
 # "Hmm" is a sound made when considering or puzzling over something.
 # You don't have to include it in your translation if your language does not have a written word like this.
 dnsNotFound-title = Hmm. Probléma az oldal megkeresésekor.
+internet-connection-offline-title = Úgy néz ki, hogy probléma van az internetkapcsolatával.
 dns-not-found-trr-only-title2 = Lehetséges biztonsági kockázat a domain keresése során
 dns-not-found-native-fallback-title2 = Lehetséges biztonsági kockázat a domain keresése során
 fileNotFound-title = A fájl nem található

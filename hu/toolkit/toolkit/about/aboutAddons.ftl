@@ -283,6 +283,15 @@ discopane-notice-recommendations2 =
         Ezen javaslatok egy része személyre szabott. Ennek alapja a telepített kiegészítői,
         a profilbeállításai és a használati statisztikái.
 discopane-notice-learn-more = További tudnivalók
+# Notice for the colorway theme removal
+colorway-removal-notice-message =
+    .heading = A színvilág témái eltávolítva.
+    .message =
+        A { -brand-product-name } frissítette a színvilág-gyűjteményét. Eltávolítottuk
+        a régi verziókat a „Mentett témák” listából. Szerezzen be új verziókat
+        a kiegészítők oldalán.
+colorway-removal-notice-learn-more = További tudnivalók
+colorway-removal-notice-button = Frissített színvilágtémák beszerzése
 privacy-policy = Adatvédelmi irányelvek
 # Refers to the author of an add-on, shown below the name of the add-on.
 # Variables:

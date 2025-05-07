@@ -121,3 +121,4 @@ webext-site-perms-midi-sysex = MIDI eszközök elérése SysEx támogatással
 
 ## Colorway theme migration
 
+webext-colorway-theme-migration-notification-button = Frissített színvilágok beszerzése
