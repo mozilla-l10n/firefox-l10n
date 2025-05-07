@@ -14,6 +14,9 @@ webext-perms-header = { $extension } Eklensinmi?
 webext-perms-sideload-header = { $extension } eklendi
 webext-perms-optional-perms-header = { $extension } ek ruhsetlerni istey.
 
+## Headers used in the webextension permissions dialog, inside the content.
+
+
 ##
 
 webext-perms-add =

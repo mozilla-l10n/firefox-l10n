@@ -17,6 +17,9 @@ webext-perms-header-unsigned-with-perms = Engadir { $extension }? Esta extensió
 webext-perms-sideload-header = Engadiuse { $extension }
 webext-perms-optional-perms-header = { $extension } solicita permisos adicionais.
 
+## Headers used in the webextension permissions dialog, inside the content.
+
+
 ##
 
 webext-perms-add =

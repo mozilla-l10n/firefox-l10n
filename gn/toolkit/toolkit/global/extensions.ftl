@@ -17,6 +17,9 @@ webext-perms-header-unsigned-with-perms = ¿Embojuaju { $extension }? Ko moĩmba
 webext-perms-sideload-header = { $extension } mbojuajupyre
 webext-perms-optional-perms-header = { $extension } oikotevẽ moneĩ jo’ávare.
 
+## Headers used in the webextension permissions dialog, inside the content.
+
+
 ##
 
 webext-perms-add =

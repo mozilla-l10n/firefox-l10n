@@ -17,6 +17,9 @@ webext-perms-header-unsigned-with-perms = ເພີ່ມ { $extension } ບໍ?
 webext-perms-sideload-header = ເພີ່ມ { $extension } ແລ້ວ
 webext-perms-optional-perms-header = { $extension } ຕ້ອງການການອະນຸຍາດເພີ່ມເຕີມ.
 
+## Headers used in the webextension permissions dialog, inside the content.
+
+
 ##
 
 webext-perms-add =

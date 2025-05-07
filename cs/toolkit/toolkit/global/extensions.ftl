@@ -17,6 +17,9 @@ webext-perms-header-unsigned-with-perms = Chcete nainstalovat { $extension }? To
 webext-perms-sideload-header = Doplněk { $extension } byl přidán
 webext-perms-optional-perms-header = Doplněk { $extension } požaduje dodatečná oprávnění.
 
+## Headers used in the webextension permissions dialog, inside the content.
+
+
 ##
 
 webext-perms-add =

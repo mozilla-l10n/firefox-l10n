@@ -13,6 +13,9 @@
 webext-perms-header = दाजाबदेर { $extension }?
 webext-perms-sideload-header = { $extension } दाजाबदेरबाय
 
+## Headers used in the webextension permissions dialog, inside the content.
+
+
 ##
 
 webext-perms-add =

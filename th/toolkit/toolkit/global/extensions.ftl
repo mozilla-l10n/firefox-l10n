@@ -17,6 +17,9 @@ webext-perms-header-unsigned-with-perms = เพิ่ม { $extension } หร�
 webext-perms-sideload-header = เพิ่ม { $extension } แล้ว
 webext-perms-optional-perms-header = { $extension } ร้องขอสิทธิ์เพิ่มเติม
 
+## Headers used in the webextension permissions dialog, inside the content.
+
+
 ##
 
 webext-perms-add =

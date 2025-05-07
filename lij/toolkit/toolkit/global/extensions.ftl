@@ -14,6 +14,9 @@ webext-perms-header = Azonzi { $extension }?
 webext-perms-sideload-header = { $extension } azonto
 webext-perms-optional-perms-header = { $extension } o domanda di permissi in ciù.
 
+## Headers used in the webextension permissions dialog, inside the content.
+
+
 ##
 
 webext-perms-add =

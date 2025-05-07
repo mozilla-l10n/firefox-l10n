@@ -17,6 +17,9 @@ webext-perms-header-unsigned-with-perms = Kas lisada { $extension }? See lisa po
 webext-perms-sideload-header = Paigaldati lisa { $extension }
 webext-perms-optional-perms-header = Lisa { $extension } nõuab täiendavaid õigusi.
 
+## Headers used in the webextension permissions dialog, inside the content.
+
+
 ##
 
 webext-perms-add =

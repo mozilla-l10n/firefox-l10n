@@ -17,6 +17,9 @@ webext-perms-header-unsigned-with-perms = Agiuntar { $extension }? Questa extens
 webext-perms-sideload-header = Agiuntà { $extension }
 webext-perms-optional-perms-header = { $extension } dumonda ulteriuras autorisaziuns.
 
+## Headers used in the webextension permissions dialog, inside the content.
+
+
 ##
 
 webext-perms-add =

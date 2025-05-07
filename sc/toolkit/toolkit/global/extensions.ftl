@@ -17,6 +17,9 @@ webext-perms-header-unsigned-with-perms = Boles agiùnghere { $extension }? Cust
 webext-perms-sideload-header = { $extension } agiuntu
 webext-perms-optional-perms-header = { $extension } pedit permissos agiuntivos.
 
+## Headers used in the webextension permissions dialog, inside the content.
+
+
 ##
 
 webext-perms-add =

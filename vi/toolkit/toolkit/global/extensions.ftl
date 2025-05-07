@@ -17,6 +17,9 @@ webext-perms-header-unsigned-with-perms = Thêm { $extension }? Tiện ích mở
 webext-perms-sideload-header = { $extension } được thêm vào
 webext-perms-optional-perms-header = { $extension } yêu cầu thêm các quyền.
 
+## Headers used in the webextension permissions dialog, inside the content.
+
+
 ##
 
 webext-perms-add =

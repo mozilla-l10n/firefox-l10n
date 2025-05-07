@@ -16,6 +16,9 @@ webext-perms-header-unsigned-with-perms = { $extension } qoʻshilsinmi? Bu kenga
 webext-perms-sideload-header = { $extension } qo‘shildi
 webext-perms-optional-perms-header = { $extension } qoʻshimcha ruxsat soʻramoqda.
 
+## Headers used in the webextension permissions dialog, inside the content.
+
+
 ##
 
 webext-perms-add =

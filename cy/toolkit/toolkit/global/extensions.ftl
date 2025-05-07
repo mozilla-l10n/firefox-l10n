@@ -17,6 +17,9 @@ webext-perms-header-unsigned-with-perms = Ychwanegu { $extension }? Nid yw'r est
 webext-perms-sideload-header = Mae { $extension } wedi ei ychwanegu
 webext-perms-optional-perms-header = Mae { $extension } yn gofyn am ganiatâd ychwanegol.
 
+## Headers used in the webextension permissions dialog, inside the content.
+
+
 ##
 
 webext-perms-add =

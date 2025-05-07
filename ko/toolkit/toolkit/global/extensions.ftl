@@ -17,6 +17,9 @@ webext-perms-header-unsigned-with-perms = { $extension } 확장 기능을 추가
 webext-perms-sideload-header = { $extension } 부가 기능이 추가됨
 webext-perms-optional-perms-header = { $extension } 확장 기능이 추가 권한을 요청합니다.
 
+## Headers used in the webextension permissions dialog, inside the content.
+
+
 ##
 
 webext-perms-add =

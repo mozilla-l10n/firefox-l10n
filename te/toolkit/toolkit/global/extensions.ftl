@@ -14,6 +14,9 @@ webext-perms-header = { $extension } ను జోడించాలా?
 webext-perms-sideload-header = { $extension } చేర్చబడింది
 webext-perms-optional-perms-header = { $extension } అదనపు అనుమతులు అడుగుతోంది.
 
+## Headers used in the webextension permissions dialog, inside the content.
+
+
 ##
 
 webext-perms-add =

@@ -14,6 +14,9 @@ webext-perms-header = { $extension } زیاد دەکەی؟
 webext-perms-sideload-header = { $extension } زیادکرا
 webext-perms-optional-perms-header = { $extension } پێویستی بە ڕێگەپێدانی زیاترە.
 
+## Headers used in the webextension permissions dialog, inside the content.
+
+
 ##
 
 webext-perms-add =

@@ -17,6 +17,9 @@ webext-perms-header-unsigned-with-perms = { $extension } pśidaś? Toś to rozš
 webext-perms-sideload-header = { $extension } jo se pśidał
 webext-perms-optional-perms-header = { $extension } wó pśidatne pšawa pšosy.
 
+## Headers used in the webextension permissions dialog, inside the content.
+
+
 ##
 
 webext-perms-add =

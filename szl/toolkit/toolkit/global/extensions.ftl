@@ -17,6 +17,9 @@ webext-perms-header-unsigned-with-perms = Przidać „{ $extension }”? Te rozs
 webext-perms-sideload-header = Rozszyrzynie { $extension } je przidane
 webext-perms-optional-perms-header = Rozszyrzynie { $extension } prosi ô nowe zgody.
 
+## Headers used in the webextension permissions dialog, inside the content.
+
+
 ##
 
 webext-perms-add =

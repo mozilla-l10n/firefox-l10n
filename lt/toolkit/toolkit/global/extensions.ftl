@@ -17,6 +17,9 @@ webext-perms-header-unsigned-with-perms = Pridėti „{ $extension }“? Šis pr
 webext-perms-sideload-header = „{ $extension }“ pridėtas
 webext-perms-optional-perms-header = „{ $extension }“ prašo papildomų leidimų.
 
+## Headers used in the webextension permissions dialog, inside the content.
+
+
 ##
 
 webext-perms-add =

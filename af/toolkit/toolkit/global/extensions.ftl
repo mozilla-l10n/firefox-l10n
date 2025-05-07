@@ -14,6 +14,9 @@ webext-perms-header = Voeg “{ $extension }” by?
 webext-perms-sideload-header = { $extension } is bygevoeg
 webext-perms-optional-perms-header = { $extension } vra verdere regte aan.
 
+## Headers used in the webextension permissions dialog, inside the content.
+
+
 ##
 
 webext-perms-add =

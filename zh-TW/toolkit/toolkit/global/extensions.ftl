@@ -17,6 +17,9 @@ webext-perms-header-unsigned-with-perms = 要安裝 { $extension } 嗎？此擴�
 webext-perms-sideload-header = 已安裝 { $extension }
 webext-perms-optional-perms-header = { $extension } 要求更多權限。
 
+## Headers used in the webextension permissions dialog, inside the content.
+
+
 ##
 
 webext-perms-add =

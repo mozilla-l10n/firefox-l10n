@@ -17,6 +17,9 @@ webext-perms-header-unsigned-with-perms = { $extension } ᱥᱮᱞᱮᱫ ᱟ ᱥ
 webext-perms-sideload-header = { $extension } ᱥᱮᱞᱮᱫ ᱮᱱᱟ
 webext-perms-optional-perms-header = { $extension } ᱫᱚ ᱟᱨᱦᱚᱸ ᱦᱚᱠ ᱛᱟᱭ ᱫᱚᱨᱠᱟᱨ ᱾
 
+## Headers used in the webextension permissions dialog, inside the content.
+
+
 ##
 
 webext-perms-add =

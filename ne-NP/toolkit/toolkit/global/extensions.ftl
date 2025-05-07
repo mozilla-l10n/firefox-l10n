@@ -14,6 +14,9 @@ webext-perms-header = "{ $extension }" जोड्ने हो?
 webext-perms-sideload-header = { $extension } थपियो
 webext-perms-optional-perms-header = { $extension } ले थप अनुमतिहरू अनुरोध गरेको छ।
 
+## Headers used in the webextension permissions dialog, inside the content.
+
+
 ##
 
 webext-perms-add =

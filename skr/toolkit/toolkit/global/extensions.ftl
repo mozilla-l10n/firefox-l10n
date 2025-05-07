@@ -17,6 +17,9 @@ webext-perms-header-unsigned-with-perms = { $extension } شامل کرو؟ ای�
 webext-perms-sideload-header = { $extension } شامل تھی ڳئے
 webext-perms-optional-perms-header = { $extension } اضافی اجازتاں دی درخواست کریندا ہے
 
+## Headers used in the webextension permissions dialog, inside the content.
+
+
 ##
 
 webext-perms-add =

@@ -17,6 +17,9 @@ webext-perms-header-unsigned-with-perms = Apondre { $extension } ? Aquesta ext
 webext-perms-sideload-header = { $extension } es estat apondut
 webext-perms-optional-perms-header = { $extension } demanda de permissions suplementàrias.
 
+## Headers used in the webextension permissions dialog, inside the content.
+
+
 ##
 
 webext-perms-add =

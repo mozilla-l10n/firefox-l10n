@@ -17,6 +17,9 @@ webext-perms-header-unsigned-with-perms = Rnu { $extension }? Asiɣzef-a ur yett
 webext-perms-sideload-header = { $extension } ittwarna
 webext-perms-optional-perms-header = { $extension } yesra tisirag-nniḍen
 
+## Headers used in the webextension permissions dialog, inside the content.
+
+
 ##
 
 webext-perms-add =

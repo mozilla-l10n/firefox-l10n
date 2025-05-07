@@ -17,6 +17,9 @@ webext-perms-header-unsigned-with-perms = Προσθήκη του «{ $extension
 webext-perms-sideload-header = Το { $extension } προστέθηκε
 webext-perms-optional-perms-header = Το { $extension } απαιτεί επιπρόσθετα δικαιώματα.
 
+## Headers used in the webextension permissions dialog, inside the content.
+
+
 ##
 
 webext-perms-add =

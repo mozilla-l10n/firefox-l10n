@@ -17,6 +17,9 @@ webext-perms-header-unsigned-with-perms = Zontâ { $extension }? Cheste estensio
 webext-perms-sideload-header = { $extension } zontât
 webext-perms-optional-perms-header = { $extension } al domande permès adizionâi.
 
+## Headers used in the webextension permissions dialog, inside the content.
+
+
 ##
 
 webext-perms-add =

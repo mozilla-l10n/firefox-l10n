@@ -16,6 +16,9 @@ webext-perms-header-unsigned = ¿Amestar { $extension }? Esta estensión nun ta 
 webext-perms-header-unsigned-with-perms = ¿Amestar { $extension }? Esta estensión nun ta verificada. Les estensiones malicioses puen robar información personal o poner l'ordenador en riesgu, amiéstala namás si t'enfotes nel orixe. Esta estensión va tener permisu pa:
 webext-perms-optional-perms-header = { $extension } solicita permisos adicionales.
 
+## Headers used in the webextension permissions dialog, inside the content.
+
+
 ##
 
 webext-perms-add =

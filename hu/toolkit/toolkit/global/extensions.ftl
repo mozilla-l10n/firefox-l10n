@@ -17,6 +17,9 @@ webext-perms-header-unsigned-with-perms = Hozzáadja a(z) { $extension } kiegés
 webext-perms-sideload-header = { $extension } hozzáadva
 webext-perms-optional-perms-header = A(z) { $extension } további engedélyeket igényel.
 
+## Headers used in the webextension permissions dialog, inside the content.
+
+
 ##
 
 webext-perms-add =

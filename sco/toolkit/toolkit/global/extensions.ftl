@@ -17,6 +17,9 @@ webext-perms-header-unsigned-with-perms = Eik on { $extension }? This extension 
 webext-perms-sideload-header = { $extension } eikit on
 webext-perms-optional-perms-header = { $extension } requests mair permeesions.
 
+## Headers used in the webextension permissions dialog, inside the content.
+
+
 ##
 
 webext-perms-add =

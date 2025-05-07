@@ -12,6 +12,9 @@
 
 webext-perms-header = Aq'o'ke' { $extension }?
 
+## Headers used in the webextension permissions dialog, inside the content.
+
+
 ##
 
 webext-perms-add =

@@ -17,6 +17,9 @@ webext-perms-header-unsigned-with-perms = { $extension } tafoegje? Dizze útwrei
 webext-perms-sideload-header = { $extension } tafoege
 webext-perms-optional-perms-header = { $extension } freget oanfoljende tastimmingen.
 
+## Headers used in the webextension permissions dialog, inside the content.
+
+
 ##
 
 webext-perms-add =

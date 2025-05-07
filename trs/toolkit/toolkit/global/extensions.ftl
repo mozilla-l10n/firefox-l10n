@@ -14,6 +14,9 @@ webext-perms-header = ¿Nutàt { $extension } aj?
 webext-perms-sideload-header = { $extension } 'ngà nuta' ma
 webext-perms-optional-perms-header = { $extension } gàchinj ni'io' doj.
 
+## Headers used in the webextension permissions dialog, inside the content.
+
+
 ##
 
 webext-perms-add =

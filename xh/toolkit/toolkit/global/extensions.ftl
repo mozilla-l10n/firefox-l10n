@@ -14,6 +14,9 @@ webext-perms-header = Yongeza { $extension }?
 webext-perms-sideload-header = { $extension } yongeziwe
 webext-perms-optional-perms-header = { $extension } icela iimvume ezongezelelekileyo.
 
+## Headers used in the webextension permissions dialog, inside the content.
+
+
 ##
 
 webext-perms-add =

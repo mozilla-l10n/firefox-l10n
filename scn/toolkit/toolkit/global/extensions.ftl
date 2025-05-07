@@ -14,6 +14,9 @@ webext-perms-header = Jùnciri { $extension }?
 webext-perms-sideload-header = { $extension } junciutu
 webext-perms-optional-perms-header = { $extension } addumanna pirmissi superchiu.
 
+## Headers used in the webextension permissions dialog, inside the content.
+
+
 ##
 
 webext-perms-add =

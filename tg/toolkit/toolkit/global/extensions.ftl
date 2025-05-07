@@ -17,6 +17,9 @@ webext-perms-header-unsigned-with-perms = { $extension }-ро илова мек�
 webext-perms-sideload-header = { $extension } илова карда шуд
 webext-perms-optional-perms-header = { $extension } иҷозати иловагиро дархост мекунад.
 
+## Headers used in the webextension permissions dialog, inside the content.
+
+
 ##
 
 webext-perms-add =

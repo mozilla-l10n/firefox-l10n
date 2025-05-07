@@ -14,6 +14,9 @@ webext-perms-header = Tee { $extension }?
 webext-perms-sideload-header = { $extension } ntee
 webext-perms-optional-perms-header = { $extension } jiniñu´u kua´a inka permisos.
 
+## Headers used in the webextension permissions dialog, inside the content.
+
+
 ##
 
 webext-perms-add =

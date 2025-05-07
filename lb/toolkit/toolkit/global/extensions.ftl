@@ -14,6 +14,9 @@ webext-perms-header = { $extension } dobäisetzen?
 webext-perms-sideload-header = { $extension } dobäigesat
 webext-perms-optional-perms-header = { $extension } freet zousätzlech Rechter.
 
+## Headers used in the webextension permissions dialog, inside the content.
+
+
 ##
 
 webext-perms-add =

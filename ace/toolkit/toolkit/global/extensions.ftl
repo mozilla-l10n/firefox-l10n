@@ -13,6 +13,9 @@
 webext-perms-header = Tamah { $extension }?
 webext-perms-sideload-header = { $extension } teutamah
 
+## Headers used in the webextension permissions dialog, inside the content.
+
+
 ##
 
 webext-perms-add =

@@ -17,6 +17,9 @@ webext-perms-header-unsigned-with-perms = { $extension } přidać? Tute rozšěr
 webext-perms-sideload-header = { $extension } je so přidał
 webext-perms-optional-perms-header = { $extension } wo přidatne prawa prosy.
 
+## Headers used in the webextension permissions dialog, inside the content.
+
+
 ##
 
 webext-perms-add =

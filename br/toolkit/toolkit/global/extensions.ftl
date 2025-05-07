@@ -15,6 +15,9 @@ webext-perms-header-with-perms = Ouzhpennañ { $extension }? An askouezh-mañ a 
 webext-perms-sideload-header = { $extension } ouzhpennet
 webext-perms-optional-perms-header = { $extension } a azgoulenn aotreoù ouzhpenn.
 
+## Headers used in the webextension permissions dialog, inside the content.
+
+
 ##
 
 webext-perms-add =

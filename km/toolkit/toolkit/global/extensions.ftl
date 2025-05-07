@@ -14,6 +14,9 @@ webext-perms-header = បញ្ចូល { $extension }?
 webext-perms-sideload-header = បាន​បញ្ចូល { $extension }
 webext-perms-optional-perms-header = { $extension } ស្នើ​សុំ​ការអនុញ្ញាត​បន្ថែម។
 
+## Headers used in the webextension permissions dialog, inside the content.
+
+
 ##
 
 webext-perms-add =

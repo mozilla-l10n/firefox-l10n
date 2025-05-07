@@ -17,6 +17,9 @@ webext-perms-header-unsigned-with-perms = { $extension } қосу керек п�
 webext-perms-sideload-header = { $extension } қосылды
 webext-perms-optional-perms-header = { $extension } қосымша рұқсаттарды сұрайды.
 
+## Headers used in the webextension permissions dialog, inside the content.
+
+
 ##
 
 webext-perms-add =

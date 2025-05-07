@@ -17,6 +17,9 @@ webext-perms-header-unsigned-with-perms = A bheil thu airson { $extension } a ch
 webext-perms-sideload-header = Chaidh { $extension } a chur ris
 webext-perms-optional-perms-header = Tha { $extension } ag iarraidh ceadan a bharrachd.
 
+## Headers used in the webextension permissions dialog, inside the content.
+
+
 ##
 
 webext-perms-add =

@@ -13,6 +13,9 @@
 webext-perms-header = Nayonan ti { $extension }?
 webext-perms-sideload-header = Nanayonan ti { $extension }
 
+## Headers used in the webextension permissions dialog, inside the content.
+
+
 ##
 
 

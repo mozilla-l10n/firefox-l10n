@@ -17,6 +17,9 @@ webext-perms-header-unsigned-with-perms = להוסיף את { $extension }? הר
 webext-perms-sideload-header = { $extension } נוספה
 webext-perms-optional-perms-header = ההרחבה { $extension } מבקשת הרשאות נוספות.
 
+## Headers used in the webextension permissions dialog, inside the content.
+
+
 ##
 
 webext-perms-add =

@@ -14,6 +14,9 @@ webext-perms-header = Idagdag ang { $extension }?
 webext-perms-sideload-header = Idinagdag ang { $extension }
 webext-perms-optional-perms-header = Ang { $extension } ay humihingi ng mga karagdagang pahintulot.
 
+## Headers used in the webextension permissions dialog, inside the content.
+
+
 ##
 
 webext-perms-add =

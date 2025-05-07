@@ -11,6 +11,9 @@
 ##   $extension (String): replaced with the localized name of the extension.
 
 
+## Headers used in the webextension permissions dialog, inside the content.
+
+
 ##
 
 webext-perms-cancel =

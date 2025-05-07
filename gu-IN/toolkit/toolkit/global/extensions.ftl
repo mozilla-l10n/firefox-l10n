@@ -14,6 +14,9 @@ webext-perms-header = { $extension } ઉમેરીએ?
 webext-perms-sideload-header = { $extension } ઉમેરી
 webext-perms-optional-perms-header = { $extension } એ અતિરિક્ત પરવાનગીઓની વિનંતી કરી છે.
 
+## Headers used in the webextension permissions dialog, inside the content.
+
+
 ##
 
 webext-perms-add =

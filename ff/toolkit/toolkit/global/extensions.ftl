@@ -14,6 +14,9 @@ webext-perms-header = Ɓeydu { $extension }?
 webext-perms-sideload-header = { $extension } ɓeydaama
 webext-perms-optional-perms-header = { $extension } ɗaɓɓaaɗe jamirooje goɗɗe.
 
+## Headers used in the webextension permissions dialog, inside the content.
+
+
 ##
 
 webext-perms-add =

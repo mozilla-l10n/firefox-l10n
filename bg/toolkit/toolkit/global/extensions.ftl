@@ -17,6 +17,9 @@ webext-perms-header-unsigned-with-perms = Да бъде ли добавено р
 webext-perms-sideload-header = Добавката „{ $extension }“ е добавена
 webext-perms-optional-perms-header = Добавката „{ $extension }“ иска допълнителни права.
 
+## Headers used in the webextension permissions dialog, inside the content.
+
+
 ##
 
 webext-perms-add =

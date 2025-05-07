@@ -14,6 +14,9 @@ webext-perms-header = Quiere anyader { $extension }?
 webext-perms-sideload-header = S'ha anyadiu { $extension }
 webext-perms-optional-perms-header = { $extension } demanda permisos adicionals.
 
+## Headers used in the webextension permissions dialog, inside the content.
+
+
 ##
 
 webext-perms-add =

@@ -17,6 +17,9 @@ webext-perms-header-unsigned-with-perms = Lägg till { $extension }? Det här ti
 webext-perms-sideload-header = { $extension } har lagts till
 webext-perms-optional-perms-header = { $extension } begär ytterligare behörigheter.
 
+## Headers used in the webextension permissions dialog, inside the content.
+
+
 ##
 
 webext-perms-add =

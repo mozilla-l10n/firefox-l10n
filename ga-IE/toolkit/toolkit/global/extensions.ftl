@@ -14,6 +14,9 @@ webext-perms-header = Cuir { $extension } leis?
 webext-perms-sideload-header = Suiteáladh { $extension }
 webext-perms-optional-perms-header = Tá { $extension } ag iarraidh ceadanna breise.
 
+## Headers used in the webextension permissions dialog, inside the content.
+
+
 ##
 
 webext-perms-add =

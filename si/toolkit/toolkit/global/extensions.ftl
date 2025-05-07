@@ -17,6 +17,9 @@ webext-perms-header-unsigned-with-perms = { $extension } එක් කරන්�
 webext-perms-sideload-header = { $extension } එක් කෙරිණි
 webext-perms-optional-perms-header = { $extension } අතිරේක අවසර ඉල්ලා සිටියි.
 
+## Headers used in the webextension permissions dialog, inside the content.
+
+
 ##
 
 webext-perms-add =

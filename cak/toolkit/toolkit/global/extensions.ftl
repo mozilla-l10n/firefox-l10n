@@ -17,6 +17,9 @@ webext-perms-header-unsigned-with-perms = ¿La nitz'aqatisäx { $extension }? Ma
 webext-perms-sideload-header = { $extension } tz'aqatisan
 webext-perms-optional-perms-header = { $extension } nuk'utuj rutz'aqat taq ya'oj q'ij.
 
+## Headers used in the webextension permissions dialog, inside the content.
+
+
 ##
 
 webext-perms-add =

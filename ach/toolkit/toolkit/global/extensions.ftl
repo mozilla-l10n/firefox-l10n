@@ -14,6 +14,9 @@ webext-perms-header = Med { $extension }?
 webext-perms-sideload-header = { $extension } omede
 webext-perms-optional-perms-header = { $extension } penyo pi twero mukene.
 
+## Headers used in the webextension permissions dialog, inside the content.
+
+
 ##
 
 webext-perms-add =

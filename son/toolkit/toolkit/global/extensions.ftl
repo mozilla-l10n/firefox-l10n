@@ -14,6 +14,9 @@ webext-perms-header = { $extension } tonton?
 webext-perms-sideload-header = { $extension } tontonandi
 webext-perms-optional-perms-header = { $extension } ga duɲeyan tontonanteyaŋ wiri.
 
+## Headers used in the webextension permissions dialog, inside the content.
+
+
 ##
 
 webext-perms-add =

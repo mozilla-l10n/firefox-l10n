@@ -17,6 +17,9 @@ webext-perms-header-unsigned-with-perms = { $extension } gehitu? Hedapen hau egi
 webext-perms-sideload-header = { $extension } gehitu da
 webext-perms-optional-perms-header = { $extension } hedapenak aparteko baimenak eskatzen ditu.
 
+## Headers used in the webextension permissions dialog, inside the content.
+
+
 ##
 
 webext-perms-add =
