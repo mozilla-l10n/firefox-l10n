@@ -41,6 +41,8 @@ shopping-highlight-shipping = Доставка
 
 ## Strings for the settings card
 
+shopping-settings-recommendations-toggle2 =
+    .label = Показване на препоръки и спонсорирано съдържание
 shopping-settings-recommendations-toggle =
     .label = Показване на реклами при проверка на отзиви
 shopping-settings-opt-out-button = Изключване на проверката на отзиви
