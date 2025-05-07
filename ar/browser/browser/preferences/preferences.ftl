@@ -1330,6 +1330,7 @@ collection-header = جمع { -brand-short-name } للبيانات و استخد
 collection-header2 = جمع { -brand-short-name } للبيانات و إستخدامها
     .searchkeywords = telemetry
 preferences-collection-privacy-notice = اعرض تنويه الخصوصية
+preferences-across-profiles = تنطبق هذه الإعدادات على كل ملف تعريف { -brand-product-name } على هذا الجهاز.
 preferences-view-profiles = اعرض جميع الملفات الشخصية
 collection-description = نبذل جهدنا لإعطائك الخيار و جمع ما نحتاجه فقط لتحسين { -brand-short-name }. نطلب الإذن دائمًا قبل استقبال أي معلومات شخصية.
 collection-privacy-notice = تنويه الخصوصية

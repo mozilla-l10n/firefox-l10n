@@ -217,6 +217,8 @@ cfr-cbh-confirm-button = أرفض لافتات الكعكات
     .accesskey = ض
 cfr-cbh-dismiss-button = ليس الآن
     .accesskey = آ
+cookie-banner-blocker-onboarding-header = رفض { -brand-short-name } للتو لافتة ملفات تعريف الارتباط لك
+cookie-banner-blocker-onboarding-body = أقل تشتيتًا، وأقل ملفات تعريف الارتباط التي تتبعك على هذا الموقع.
 cookie-banner-blocker-onboarding-learn-more = اطّلع على المزيد
 
 ## These strings are used in the Fox doodle Pin/set default spotlights
@@ -257,6 +259,7 @@ device-migration-fxa-spotlight-getting-new-device-header-2 = جهاز جديد �
 device-migration-fxa-spotlight-getting-new-device-body-2 = اتبع بعض الخطوات البسيطة لجلب العلامات والتأريخ وكلمات السر معك عند البدء على جهاز جديد.
 device-migration-fxa-spotlight-getting-new-device-primary-button = كيفية عمل نسخة احتياطية من بياناتي
 device-migration-fxa-spotlight-sync-header = تصفح دون أن تفوت أي لحظة
+device-migration-fxa-spotlight-sync-body = زامِن جميع معلوماتك المهمة مع التعمية، مثل العلامات وكلمات السر. يمكنك الوصول إليها من أي مكان تستخدم فيه { -brand-product-name }.
 device-migration-fxa-spotlight-sync-primary-button = ابدأ
 
 ## Set as Default PDF Reader Infobar
@@ -286,6 +289,8 @@ launch-on-login-infobar-final-reject-button = لا، شكرًا
 
 ## Tail Fox Set Default Spotlight
 
+tail-fox-spotlight-subtitle = قل وداعًا لمتتبعات الإعلانات المزعجة واستمتع بتجربة إنترنت أكثر أمانًا وسرعة.
+tail-fox-spotlight-primary-button = افتح روابطي ب { -brand-short-name }
 tail-fox-spotlight-secondary-button = ليس الآن
 
 ## Root Certificate Succession Infobar
@@ -300,6 +305,7 @@ root-certificate-succession-infobar-secondary-button =
 
 ## Root Certificate Succession Windows Background Notification
 
+root-certificate-windows-background-notification-title = لقد فاتك تحديث مهم لـ { -brand-short-name }
 root-certificate-windows-background-notification-learn-more-button = اطّلع على المزيد
 root-certificate-windows-background-notification-update-button = حدِّث { -brand-short-name }
 
@@ -311,7 +317,10 @@ fxa-menu-message-close-button =
 fxa-menu-message-sign-up-button = سجّل حسابًا
 fxa-menu-message-sync-devices-primary-text = زامِن كل أجهزتك
 fxa-menu-message-sync-devices-collapsed-text = زامِن كل أجهزتك
+fxa-menu-message-backup-data-primary-text = انسخ بيانات متصفحك احتياطيًا
 fxa-menu-message-backup-data-collapsed-text = انسخ بيانات المتصفح احتياطيًا
+fxa-menu-message-backup-sync-collapsed-text = مزامنة البيانات والنسخ الاحتياطي
+fxa-menu-message-mobile-primary-text = أرسل الألسنة إلى هاتفك
 fxa-menu-message-mobile-collapsed-text = زامِن مع هاتفك
 
 ## Multi-CTA Fox Doodle Spotlight
