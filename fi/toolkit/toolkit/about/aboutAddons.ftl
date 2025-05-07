@@ -279,7 +279,15 @@ discopane-notice-recommendations2 =
         Jotkin näistä suosituksista ovat henkilökohtaisia. Suositukset pohjautuvat
         muihin asentamiisi laajennuksiin, profiiliasetuksiin ja käyttötilastoihin.
 discopane-notice-learn-more = Lue lisää
+# Notice for the colorway theme removal
+colorway-removal-notice-message =
+    .heading = Väriteemat poistettiin.
+    .message =
+        { -brand-product-name } päivitti väriteemakokoelmat. Poistimme
+        vanhat versiot “Tallennetut teemat”-lisalta. Hanki teemojen uudet
+        versiot lisäosasivustolta.
 colorway-removal-notice-learn-more = Lue lisää
+colorway-removal-notice-button = Hanki päivitetyt väriteemat
 privacy-policy = Tietosuojaseloste
 # Refers to the author of an add-on, shown below the name of the add-on.
 # Variables:

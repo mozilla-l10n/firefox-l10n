@@ -121,3 +121,5 @@ webext-site-perms-midi-sysex = Käytä MIDI-laitteita SysEx-tuella
 
 ## Colorway theme migration
 
+webext-colorway-theme-migration-notification-message = <b>Väriteemasi poistettiin.</b> { -brand-shorter-name } päivitti värimaailmansa. Löydät teemojen uusimmat versiot lisäosasivustolta.
+webext-colorway-theme-migration-notification-button = Hanki päivitetyt väriteemat
