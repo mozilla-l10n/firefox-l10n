@@ -15,10 +15,17 @@ webext-perms-header-with-perms = Lägg till { $extension }? Det här tillägget 
 webext-perms-header-unsigned = Lägg till { $extension }? Det här tillägget är inte verifierat. Skadliga tillägg kan stjäla din privata information eller äventyra din dator. Lägg bara till det om du litar på källan.
 webext-perms-header-unsigned-with-perms = Lägg till { $extension }? Det här tillägget är inte verifierat. Skadliga tillägg kan stjäla din privata information eller äventyra din dator. Lägg bara till det om du litar på källan. Det här tillägget har tillstånd att:
 webext-perms-sideload-header = { $extension } har lagts till
+webext-perms-optional-perms-header2 = { $extension } begär ytterligare behörigheter
 webext-perms-optional-perms-header = { $extension } begär ytterligare behörigheter.
+webext-perms-header2 = Lägg till { $extension }
+webext-perms-list-intro-unsigned = Detta overifierade tillägg kan äventyra din integritet eller äventyra din enhet. Lägg bara till den om du litar på källan.
 
 ## Headers used in the webextension permissions dialog, inside the content.
 
+webext-perms-header-required-perms = Nödvändiga behörigheter:
+webext-perms-header-optional-settings = Valfria inställningar:
+webext-perms-header-update-required-perms = Nya nödvändiga behörigheter:
+webext-perms-header-optional-required-perms = Nya behörigheter:
 
 ##
 
@@ -36,6 +43,9 @@ webext-perms-sideload-enable =
 webext-perms-sideload-cancel =
     .label = Avbryt
     .accesskey = A
+# Variables:
+#   $extension (String): replaced with the localized name of the extension.
+webext-perms-update-text2 = { $extension } har uppdaterats. Du måste godkänna nya behörigheter innan den uppdaterade versionen installeras. Om du väljer "Avbryt" behålls din nuvarande tilläggsversion.
 # Variables:
 #   $extension (String): replaced with the localized name of the extension.
 webext-perms-update-text = { $extension } har uppdaterats. Du måste godkänna nya behörigheter innan den uppdaterade versionen installeras. Om du väljer "Avbryt" behålls din nuvarande tilläggsversion. Det här tillägget har tillstånd att:

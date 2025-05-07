@@ -8,6 +8,7 @@
 preonboarding-title = Välkommen till { -brand-product-name }
 preonboarding-subtitle = Genom att fortsätta godkänner du användarvillkoren för { -brand-product-name } och vårt sekretessmeddelande. För att hjälpa till att förbättra webbläsaren skickar { -brand-product-name } diagnostik- och interaktionsdata till { -vendor-short-name }.
 preonboarding-primary-cta = Bekräfta och fortsätt
+preonboarding-primary-cta-v2 = Fortsätt
 # Labels for header style button that toggles showing the terms of use, privacy notice, and data preferences checklist
 preonboarding-manage-and-read-header = Hantera inställningar för datainsamling och läs våra användarvillkor och sekretessmeddelande
 preonboarding-manage-and-read-header-v2 = Läs användarvillkoren och sekretessmeddelandet. Hantera ytterligare inställningar.
