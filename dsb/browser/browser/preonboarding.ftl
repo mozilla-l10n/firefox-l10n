@@ -8,6 +8,7 @@
 preonboarding-title = Witajśo k { -brand-product-name }
 preonboarding-subtitle = Gaž pókšacujośo, zwólijośo do wužywańskich wuměnjenjow { -brand-product-name } a našeje powěźeńki priwatnosći. Aby pomagał, wobglědowak pólěpšyś, { -brand-product-name } diagnostiske daty a daty interakcije na { -vendor-short-name } sćelo.
 preonboarding-primary-cta = Wobkšuśiś a pókšacowaś
+preonboarding-primary-cta-v2 = Dalej
 # Labels for header style button that toggles showing the terms of use, privacy notice, and data preferences checklist
 preonboarding-manage-and-read-header = Zastojśo nastajenja za gromaźenje datow a cytajśo naše wužywańske wuměnjenja a powěźeńku priwatnosći
 preonboarding-manage-and-read-header-v2 = Cytajśo wužywańske wuměnjenja a powěźeńku priwatnosći. Zastojśo pśidatne nastajenja.

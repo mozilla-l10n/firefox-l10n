@@ -15,10 +15,16 @@ webext-perms-header-with-perms = { $extension } pśidaś? Toś to rozšyrjenje z
 webext-perms-header-unsigned = { $extension } pśidaś? Toś to rozšyrjenje jo njepśespytane. Złosne rozšyrjenja mógu waše priwatne daty kšadnuś abo wašomu licadłoju škóźiś. Pśidajśo jo jano, gaž žrědłoju dowěriśo.
 webext-perms-header-unsigned-with-perms = { $extension } pśidaś? Toś to rozšyrjenje jo njepśespytane. Złosne rozšyrjenja mógu waše priwatne daty kšadnuś abo wašomu licadłoju škóźiś. Pśidajśo jo jano, gaž žrědłoju dowěriśo. Toś to rozšyrjenje změnjo pšawo za:
 webext-perms-sideload-header = { $extension } jo se pśidał
+webext-perms-optional-perms-header2 = { $extension } wó pśidatne pšawa pšosy
 webext-perms-optional-perms-header = { $extension } wó pśidatne pšawa pšosy.
+webext-perms-header2 = { $extension } pśidaś
 
 ## Headers used in the webextension permissions dialog, inside the content.
 
+webext-perms-header-required-perms = Trjebne pšawa:
+webext-perms-header-optional-settings = Nastajenja pó žycenju:
+webext-perms-header-update-required-perms = Nowe trjebne pšawa:
+webext-perms-header-optional-required-perms = Nowe pšawa:
 
 ##
 
