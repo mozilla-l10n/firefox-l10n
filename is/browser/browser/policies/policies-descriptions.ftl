@@ -130,6 +130,8 @@ policy-SearchSuggestEnabled = Virkja eða slökkva á leitartillögum.
 # For more information, see https://wikipedia.org/wiki/PKCS_11
 policy-SecurityDevices2 = Bæta við eða eyða PKCS #11 einingum.
 policy-ShowHomeButton = Birta upphafshnappinn á verkfærastikunni.
+# ”You represent that...” means ”You confirm/declare that...”
+policy-SkipTermsOfUse2 = Ekki birta notkunarskilmála og persónuverndarstefnu við ræsingu. Þú lýsir því þá yfir að þú samþykkir og hafir heimild til að samþykkja notkunarskilmálana fyrir hönd allra þeirra aðila sem þú veitir aðgang að þessum vafra.
 policy-SSLVersionMax = Stilltu hámarks SSL útgáfu.
 policy-SSLVersionMin = Stilltu lágmarks SSL útgáfuna.
 policy-StartDownloadsInTempDirectory = Þvinga niðurhal til að hefjast á staðbundinni, bráðabirgðastaðsetningu frekar en sjálfgefnu niðurhalsmöppunni.

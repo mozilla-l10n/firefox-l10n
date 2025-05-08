@@ -3,6 +3,8 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 about-policies-title = Reglur fyrirtækis
+aboutpolicies-page-heading =
+    .heading = Um stefnur okkar
 # 'Active' is used to describe the policies that are currently active
 active-policies-tab = Virkar
 errors-tab = Villur
