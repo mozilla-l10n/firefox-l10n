@@ -8,6 +8,7 @@
 preonboarding-title = { -brand-product-name } tarayıcısına hoş geldiniz
 preonboarding-subtitle = Devam ederek { -brand-product-name } Kullanım Koşulları’nı ve Gizlilik Bildirimi’ni kabul etmiş olursunuz. Tarayıcıyı iyileştirmeye yardımcı olmak için { -brand-product-name }, { -vendor-short-name }’ya tanılama ve etkileşim verilerini gönderir.
 preonboarding-primary-cta = Onayla ve devam et
+preonboarding-primary-cta-v2 = Devam et
 # Labels for header style button that toggles showing the terms of use, privacy notice, and data preferences checklist
 preonboarding-manage-and-read-header = Veri toplama ayarlarını yönetin, Kullanım Koşullarımızı ve Gizlilik Bildirimimizi okuyun
 preonboarding-manage-and-read-header-v2 = Kullanım Koşulları’nı ve Gizlilik Bildirimi’ni okuyun. Ek ayarları yönetin.

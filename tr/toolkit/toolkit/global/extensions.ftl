@@ -15,10 +15,17 @@ webext-perms-header-with-perms = { $extension } eklensin mi? Bu uzantı şu izin
 webext-perms-header-unsigned = { $extension } eklensin mi? Bu uzantı doğrulanmamış. Kötü amaçlı uzantılar kişisel bilgilerinizi çalabilir veya bilgisayarınızı tehlikeye atabilir. Yalnızca kaynağına güveniyorsanız bu uzantıyı ekleyin.
 webext-perms-header-unsigned-with-perms = { $extension } eklensin mi? Bu uzantı doğrulanmamış. Kötü amaçlı uzantılar kişisel bilgilerinizi çalabilir veya bilgisayarınızı tehlikeye atabilir. Yalnızca kaynağına güveniyorsanız bu uzantıyı ekleyin. Bu uzantı şu izinlere sahip olacak:
 webext-perms-sideload-header = { $extension } eklendi
+webext-perms-optional-perms-header2 = { $extension } ek izinler istiyor
 webext-perms-optional-perms-header = { $extension } ek izinler istiyor.
+webext-perms-header2 = { $extension } uzantısını ekle
+webext-perms-list-intro-unsigned = Bu doğrulanmamış uzantı gizliliğinizi riske atabilir veya cihazınızın güvenliğini tehlikeye sokabilir. Yalnızca kaynağa güveniyorsanız ekleyin.
 
 ## Headers used in the webextension permissions dialog, inside the content.
 
+webext-perms-header-required-perms = Gerekli izinler:
+webext-perms-header-optional-settings = İsteğe bağlı ayarlar:
+webext-perms-header-update-required-perms = Gerekli yeni izinler:
+webext-perms-header-optional-required-perms = Yeni izinler:
 
 ##
 
@@ -36,6 +43,9 @@ webext-perms-sideload-enable =
 webext-perms-sideload-cancel =
     .label = İptal
     .accesskey = a
+# Variables:
+#   $extension (String): replaced with the localized name of the extension.
+webext-perms-update-text2 = { $extension } güncellendi. Güncellenen sürüm yüklenmeden önce yeni izinleri onaylamanız gerekiyor. “İptal”i seçerseniz mevcut uzantı sürümünüz korunacaktır.
 # Variables:
 #   $extension (String): replaced with the localized name of the extension.
 webext-perms-update-text = { $extension } güncellendi. Güncellenen sürümü yüklemek için yeni izinleri onaylamanız gerekiyor. “Vazgeç”i seçerseniz mevcut sürümünüz korunacaktır. Güncellerseniz bu uzantı şu izinlere sahip olacaktır:
