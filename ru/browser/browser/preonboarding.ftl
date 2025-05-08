@@ -8,6 +8,7 @@
 preonboarding-title = Добро пожаловать в { -brand-product-name }
 preonboarding-subtitle = Продолжая, вы соглашаетесь с Условиями использования { -brand-product-name } и нашим Уведомлением о конфиденциальности. Чтобы помочь улучшить браузер, { -brand-product-name } отправляет данные диагностики и взаимодействия в { -vendor-short-name }.
 preonboarding-primary-cta = Подтвердить и продолжить
+preonboarding-primary-cta-v2 = Продолжить
 # Labels for header style button that toggles showing the terms of use, privacy notice, and data preferences checklist
 preonboarding-manage-and-read-header = Управляйте настройками сбора данных, а также прочитайте наши Условия использования и Уведомление о конфиденциальности
 preonboarding-manage-and-read-header-v2 = Ознакомьтесь с Условиями использования и Уведомлением о конфиденциальности. Управляйте дополнительными настройками.
