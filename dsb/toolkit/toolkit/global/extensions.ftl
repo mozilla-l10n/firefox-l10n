@@ -44,6 +44,9 @@ webext-perms-sideload-cancel =
     .accesskey = P
 # Variables:
 #   $extension (String): replaced with the localized name of the extension.
+webext-perms-update-text2 = { $extension } jo se aktualizěrował. Musyśo nowe pšawa pśizwóliś, nježli až buźo se aktualizěrowana wersija instalěrowaś. Jolic wubjerjośo „Pśetergnuś“, se waša aktualna wersija rozšyrjenja zdźaržyjo.
+# Variables:
+#   $extension (String): replaced with the localized name of the extension.
 webext-perms-update-text = { $extension } jo se aktualizěrował. Musyśo nowe pšawa pśizwóliś, nježli až buźo se aktualizěrowana wersija instalěrowaś. Jolic wubjerjośo „Pśetergnuś“, se waša aktualna wersija rozšyrjenja zdźaržyjo. Toś to rozšyrjenje změjo pšawo za:
 webext-perms-update-accept =
     .label = Aktualizěrowaś
