@@ -43,6 +43,7 @@ neterror-generic-error = { -brand-short-name } ur izmir ara ad d-yessali asebter
 neterror-load-error-try-again = Asmel-a ulac-it akka tura neɣ ahat ur d-yelhi ara. Ɛreḍ akka kra n wakud  ticki.
 neterror-load-error-connection = Ma yella ur tezmiṛeḍ ara ad d-tessaliḍ isebtar, senqed tuqqna ɣeṛ uẓeṭṭa n uselkim-inek.
 neterror-load-error-firewall = Ma yella aselkim-inek neɣ aẓeṭṭa-inek ittummesten s uɣwṛab n tmes neɣ apṛuksi, wali ma yella { -brand-short-name } yezmer ad yekcem ɣer Web.
+neterror-http-error-page = Ḍmn turiḍ akken iwata tans n usmel web.
 neterror-captive-portal = Yessefk ad tkecmeḍ ar uẓeṭṭa-a send ad tizmireḍ ad tkecmeḍ ar Internet
 # Variables:
 # $hostAndPath (String) - a suggested site (e.g. "www.example.com") that the user may have meant instead.
@@ -51,7 +52,9 @@ neterror-dns-not-found-hint-header = <strong>Ma yella teskecmeḍ tansa tameɣtu
 neterror-dns-not-found-hint-try-again = Ɛreḍ tikkelt-nniḍen ticki
 neterror-dns-not-found-hint-check-network = senqed azeṭṭa-k·m internet
 neterror-dns-not-found-hint-firewall = Senqqed aya { -brand-short-name } yettwasireg ad yekcem ɣer web ( yezmer ahat teqqneḍ d acu ɣer uɣrab n tmes)
+neterror-dns-not-found-offline-hint-header = <strong>Acu i tzemreḍ ad txedmeḍ fell-as?</strong>
 neterror-dns-not-found-offline-hint-different-device = Ɛreḍ tuqqna ɣef yibenk nniḍen.
+neterror-dns-not-found-offline-hint-modem = Senqed anajkas neɣ ameglay inek.
 neterror-dns-not-found-offline-hint-reconnect = Senser tuqqna sakin qqen ar Wi-Fi tikkelt-nniḍen.
 
 ## TRR-only specific messages
@@ -60,6 +63,7 @@ neterror-dns-not-found-offline-hint-reconnect = Senser tuqqna sakin qqen ar Wi-F
 ##   $trrDomain (String) - Hostname of the DNS over HTTPS server that is currently in use.
 
 neterror-dns-not-found-trr-only-reason = { -brand-short-name } ur yezmir ara ad yemmesten asuter-ik•im ɣef tansa n usmel-a s umefru-nneɣ DNS aɣellsan. Da ara tafeḍ iwacu:
+neterror-dns-not-found-trr-only-reason2 = { -brand-short-name } ur yezmir ara ad yemmesten asuter-ik•im ɣef tansa n usmel-a s usaǧǧaw-nneɣ DNS aɣellsan. Da ara tafeḍ i wacu:
 neterror-dns-not-found-trr-third-party-warning2 = Tzemreḍ ad tkemmleḍ s umefru-ik DNS amezwer. Maca, aḥric wis kraḍ yezmer ad iwali ismal iɣer trezzuḍ.
 neterror-dns-not-found-trr-only-could-not-connect = { -brand-short-name } ur yessaweḍ ara ad yeqqen ɣer { $trrDomain }.
 neterror-dns-not-found-trr-only-timeout = Tuqqna ɣer { $trrDomain } teṭṭef ugar n wayen yetturaǧun.
@@ -75,6 +79,7 @@ neterror-dns-not-found-trr-unknown-problem = Ugur ur netturaǧu ara.
 ##   $trrDomain (String) - Hostname of the DNS over HTTPS server that is currently in use.
 
 neterror-dns-not-found-native-fallback-reason = { -brand-short-name } ur yezmir ara ad yemmesten asuter-ik•im ɣef tansa n usmel-a s umefru-nneɣ DNS aɣellsan. Da ara tafeḍ iwacu:
+neterror-dns-not-found-native-fallback-reason2 = { -brand-short-name } ur yezmir ara ad yemmesten asuter-ik•im ɣef tansa n usmel-a s usaǧǧaw-nneɣ DNS aɣellsan. Da ara tafeḍ i wacu:
 neterror-dns-not-found-native-fallback-heuristic = DNS s HTTPS tensa deg uẓeṭṭa-inek•inem.
 neterror-dns-not-found-native-fallback-not-confirmed2 = { -brand-short-name } ur yessaweḍ ara ad yeqqen ɣer { $trrDomain }.
 
