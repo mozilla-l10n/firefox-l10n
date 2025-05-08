@@ -30,6 +30,8 @@ webext-perms-description-sessions = Kcem ɣer wacarren ittwamedlen melmi kan
 webext-perms-description-tabs = Kcem ɣer wacarren n yiminig
 webext-perms-description-tabHide = Sken-d neγ ffer iccaren n iminig
 webext-perms-description-topSites = Kcem ɣer umazray n yiminig
+webext-perms-description-trialML = Sader syen selkem timudamin AI ɣef yibenk-ik
+webext-perms-description-userScripts = Sireg iskripten n wis kraḍ ur nettwasneqden ara akken ad tkecmeḍ ɣer yisefka-k
 webext-perms-description-webNavigation = Kcem ɣer urmud n yiminig mi ara tettinigeḍ
 
 ## The userScripts permission includes an additional explanation that is

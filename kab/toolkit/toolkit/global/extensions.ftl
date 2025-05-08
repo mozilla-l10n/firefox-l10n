@@ -15,10 +15,16 @@ webext-perms-header-with-perms = Rnu { $extension }? Asiɣzef-a ad yesεu tasire
 webext-perms-header-unsigned = Rnu { $extension }? Asiɣzef-a ur yettwasenqed ara. Yir iseɣzaf zemren ad akren talɣut-ik·im tusligt neɣ ad d-glun s wayen n dir i uselkim-ik·im. Rnu-t kan ma yella tettekleḍ ɣef uɣbalu-ines.
 webext-perms-header-unsigned-with-perms = Rnu { $extension }? Asiɣzef-a ur yettwasenqed ara. Yir iseɣzaf zemren ad akren talɣut-ik·im tusligt neɣ ad d-glun s wayen n dir i uselkim-ik·im. Rnu-t kan ma yella tettekleḍ ɣef uɣbalu-ines. Asiɣzef-a ad yesεu tasiregt ɣer:
 webext-perms-sideload-header = { $extension } ittwarna
+webext-perms-optional-perms-header2 = { $extension } yesra tisirag niḍen
 webext-perms-optional-perms-header = { $extension } yesra tisirag-nniḍen
+webext-perms-header2 = Rnu { $extension }
 
 ## Headers used in the webextension permissions dialog, inside the content.
 
+webext-perms-header-required-perms = Yesra tisira:
+webext-perms-header-optional-settings = Iɣewwaren arnawen:
+webext-perms-header-update-required-perms = Yesra tisira timaynutin:
+webext-perms-header-optional-required-perms = Tisirag timaynutin:
 
 ##
 
@@ -72,6 +78,10 @@ webext-perms-host-description-too-many-sites =
         [one] Kcem ɣer yisefka-k deg { $domainCount } usmel-nniḍen
        *[other] Kcem ɣer yisefka-k deg { $domainCount } yismal-nniḍen
     }
+# Variables:
+#   $domain (String): will be replaced by the DNS host name for which a webextension is requesting access (e.g., mozilla.org),
+#     $domain should be treated as plural (because it may also include all subdomains, e.g www.mozilla.org, ftp.mozilla.org).
+webext-perms-host-description-one-domain = Kcem ɣer yisefka-inek i yismal di taɣulin { $domain }
 
 ## Headers used in the webextension permissions dialog for synthetic add-ons.
 ## The part of the string describing what privileges the extension gives should be consistent

@@ -10,6 +10,11 @@
 glean-sdk-brand-name = { -glean-brand-name } SDK
 about-glean-page-title2 = Ɣef { -glean-brand-name }
 about-glean-header = Ɣef { -glean-brand-name }
+about-glean-category-about-glean = Ɣef { -glean-brand-name }
+about-glean-category-manual-testing = Asekyzd s ufus
+about-glean-category-adhoc-testing = Asekyed Ad Hoc
+about-glean-category-profiler = Aseqdec n Profiler
+about-glean-category-about-data = Ɣef yisefka
 about-glean-upload-enabled = Asali n yisefka yermed.
 about-glean-upload-disabled = Asali n yisefka yensa.
 about-glean-upload-enabled-local = Asali n yisefka yermed kan i tuzna ɣer uqeddac adigan.
