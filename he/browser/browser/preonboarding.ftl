@@ -8,8 +8,10 @@
 preonboarding-title = ברוכים הבאים אל { -brand-product-name }
 preonboarding-subtitle = בחירה בהמשך מהווה הסכמה לתנאי השימוש של { -brand-product-name } ולהצהרת הפרטיות שלנו. כדי לסייע בשיפור הדפדפן, { -brand-product-name } שולח נתוני אבחון ואינטראקציה אל { -vendor-short-name }.
 preonboarding-primary-cta = הסכמה והמשך
+preonboarding-primary-cta-v2 = המשך
 # Labels for header style button that toggles showing the terms of use, privacy notice, and data preferences checklist
 preonboarding-manage-and-read-header = ניהול הגדרות איסוף נתונים וקריאת תנאי השימוש והצהרת הפרטיות שלנו
+preonboarding-manage-and-read-header-v2 = קריאת תנאי השימוש והצהרת הפרטית. ניהול הגדרות נוספות.
 # Label for header style button that toggles showing the Terms of Use
 preonboarding-terms-of-use-header-button-title = קריאת תנאי השימוש שלנו
 # Label for header style button that toggles showing the Privacy Notice
@@ -18,6 +20,7 @@ preonboarding-privacy-notice-header-button-title = קריאת הצהרת הפר�
 preonboarding-manage-data-header-button-title = ניהול נתוני אבחון ונתוני אינטראקציה
 # Labels for header style button that toggles showing the Terms of Use (Variant B)
 preonboarding-terms-of-use-header-button-title-b = תנאי השימוש של { -brand-product-name }
+preonboarding-terms-of-use-header-button-title-b-v2 = תנאי שימוש
 # Labels for header style button that toggles showing the Privacy Notice (Variant B)
 preonboarding-privacy-notice-header-button-title-b = הצהרת הפרטיות של { -brand-product-name }
 # Description under label for header style buttons
