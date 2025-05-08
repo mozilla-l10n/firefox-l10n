@@ -8,6 +8,7 @@
 preonboarding-title = 歡迎使用 { -brand-product-name }
 preonboarding-subtitle = 繼續使用，代表您同意 { -brand-product-name } 的使用條款與我們的隱私權公告。為了協助改善瀏覽器，{ -brand-product-name } 會將除錯用資料與互動資料，傳送回 { -vendor-short-name }。
 preonboarding-primary-cta = 確認並繼續
+preonboarding-primary-cta-v2 = 繼續
 # Labels for header style button that toggles showing the terms of use, privacy notice, and data preferences checklist
 preonboarding-manage-and-read-header = 管理資料收集設定，並閱讀我們的使用條款與隱私權公告
 preonboarding-manage-and-read-header-v2 = 閱讀使用條款與隱私權公告，管理其他設定。
