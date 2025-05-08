@@ -15,10 +15,14 @@ webext-perms-header-with-perms = { $extension } toevoegen? Deze extensie heeft t
 webext-perms-header-unsigned = { $extension } toevoegen? Deze extensie is niet geverifieerd. Kwaadwillende extensies kunnen uw privégegevens stelen of de controle over uw computer overnemen. Voeg deze extensie alleen toe als u de bron vertrouwt.
 webext-perms-header-unsigned-with-perms = { $extension } toevoegen? Deze extensie is niet geverifieerd. Kwaadwillende extensies kunnen uw privégegevens stelen of de controle over uw computer overnemen. Voeg de extensie alleen toe als u de bron vertrouwt. Deze extensie heeft toestemming om:
 webext-perms-sideload-header = { $extension } is toegevoegd
+webext-perms-optional-perms-header2 = { $extension } vraagt aanvullende toestemmingen
 webext-perms-optional-perms-header = { $extension } vraagt aanvullende toestemmingen.
+webext-perms-header2 = { $extension } toevoegen
 
 ## Headers used in the webextension permissions dialog, inside the content.
 
+webext-perms-header-optional-settings = Optionele instellingen:
+webext-perms-header-optional-required-perms = Nieuwe toestemmingen:
 
 ##
 
@@ -36,6 +40,9 @@ webext-perms-sideload-enable =
 webext-perms-sideload-cancel =
     .label = Annuleren
     .accesskey = n
+# Variables:
+#   $extension (String): replaced with the localized name of the extension.
+webext-perms-update-text2 = { $extension } is bijgewerkt. U moet nieuwe toestemmingen goedkeuren voordat de bijgewerkte versie wordt geïnstalleerd. ‘Annuleren’ kiezen zal de huidige versie van uw extensie behouden.
 # Variables:
 #   $extension (String): replaced with the localized name of the extension.
 webext-perms-update-text = { $extension } is bijgewerkt. U moet nieuwe toestemmingen goedkeuren voordat de bijgewerkte versie wordt geïnstalleerd. ‘Annuleren’ kiezen zal de huidige versie van de extensie behouden. Deze extensie heeft toestemming om:

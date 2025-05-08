@@ -8,6 +8,7 @@
 preonboarding-title = Welkom bij { -brand-product-name }
 preonboarding-subtitle = Door verder te gaan, gaat u akkoord met de Gebruiksvoorwaarden van { -brand-product-name } en onze Privacyverklaring. Om de browser te helpen verbeteren, verzendt { -brand-product-name } diagnostische en interactiegegevens naar { -vendor-short-name }.
 preonboarding-primary-cta = Bevestigen en doorgaan
+preonboarding-primary-cta-v2 = Doorgaan
 # Labels for header style button that toggles showing the terms of use, privacy notice, and data preferences checklist
 preonboarding-manage-and-read-header = Instellingen voor gegevensverzameling beheren en onze Gebruiksvoorwaarden en Privacyverklaring lezen
 preonboarding-manage-and-read-header-v2 = Lees de Gebruiksvoorwaarden en privacyverklaring. Beheer aanvullende instellingen.
