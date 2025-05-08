@@ -8,6 +8,7 @@
 preonboarding-title = Víta vás { -brand-product-name }
 preonboarding-subtitle = Pokračovaním vyjadrujete súhlas s Zmluvnými podmienkami používania { -brand-product-name(case: "gen") } a naším Vyhlásením o ochrane osobných údajov. S cieľom vylepšovania prehliadača odosiela { -brand-product-name } diagnostické údaje a údaje o interakciách spoločnosti { -vendor-short-name }.
 preonboarding-primary-cta = Súhlasím a pokračovať
+preonboarding-primary-cta-v2 = Pokračovať
 # Labels for header style button that toggles showing the terms of use, privacy notice, and data preferences checklist
 preonboarding-manage-and-read-header = Spravujte nastavenia zhromažďovania údajov a prečítajte si naše Podmienky používania a Vyhlásenie o ochrane osobných údajov
 preonboarding-manage-and-read-header-v2 = Prečítajte si Podmienky používania a Vyhlásenie o ochrane osobných údajov. Spravujte ďalšie nastavenia.
