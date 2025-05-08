@@ -85,9 +85,17 @@ bookmarks-toolbar-callout-2a-subtitle = Du kan trække og slippe faneblade her f
 bookmarks-toolbar-callout-2a-primary-button-label = Forstået
 # Reverts the bookmarks toolbar to the default setting
 bookmarks-toolbar-callout-2a-secondary-button-label = Skjul værktøjslinjen
+# Visible if user declines to add a bookmark in callout 1, bookmarks toolbar is set to always show when this message renders
+bookmarks-toolbar-callout-2b-title = Behold din bogmærkelinje åben?
+bookmarks-toolbar-callout-2b-subtitle = Du kan tilføje andre websteder, du besøger ofte. Træk og slip faneblade her for at have dine foretrukne websteder indenfor rækkevidde.
+bookmarks-toolbar-callout-2b-primary-button-label = Behold åben
+# Reverts the bookmarks toolbar to the default setting
+bookmarks-toolbar-callout-2b-secondary-button-label = Nej tak
 
 ## Perplexity callout strings
 
+perplexity-callout-theme-1-title = Har du brug for det rigtige svar med det samme?
+perplexity-callout-theme-2-title = Prøv Perplexity: en ny måde at søge på
 
 ## Sidebar Strings
 
