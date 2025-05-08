@@ -8,6 +8,7 @@
 preonboarding-title = { -brand-product-name } 사용을 환영합니다
 preonboarding-subtitle = 계속하시면 { -brand-product-name } 이용 약관과 개인정보처리방침에 동의하게 됩니다. 브라우저 개선을 위해 { -brand-product-name }는 진단 및 상호 작용 데이터를 { -vendor-short-name }에 보냅니다.
 preonboarding-primary-cta = 동의 및 계속
+preonboarding-primary-cta-v2 = 계속
 # Labels for header style button that toggles showing the terms of use, privacy notice, and data preferences checklist
 preonboarding-manage-and-read-header = 데이터 수집 설정을 관리하고 이용 약관과 개인정보처리방침 읽기
 preonboarding-manage-and-read-header-v2 = 이용 약관과 개인정보처리방침을 읽어보세요. 추가 설정을 관리하세요.
