@@ -22,6 +22,10 @@ webext-perms-list-intro-unsigned = This unverified extension might put your priv
 
 ## Headers used in the webextension permissions dialog, inside the content.
 
+webext-perms-header-required-perms = Required permissions:
+webext-perms-header-optional-settings = Optional settings:
+webext-perms-header-update-required-perms = New required permissions:
+webext-perms-header-optional-required-perms = New permissions:
 
 ##
 
@@ -39,6 +43,9 @@ webext-perms-sideload-enable =
 webext-perms-sideload-cancel =
     .label = Cancel
     .accesskey = C
+# Variables:
+#   $extension (String): replaced with the localized name of the extension.
+webext-perms-update-text2 = { $extension } has been updated. You must approve new permissions before the updated version will install. Choosing “Cancel” will maintain your current extension version.
 # Variables:
 #   $extension (String): replaced with the localized name of the extension.
 webext-perms-update-text = { $extension } has been updated. You must approve new permissions before the updated version will install. Choosing “Cancel” will maintain your current extension version. This extension will have permission to:
