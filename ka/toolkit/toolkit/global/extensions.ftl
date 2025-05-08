@@ -15,11 +15,17 @@ webext-perms-header-with-perms = დაემატოს { $extension }? ამ
 webext-perms-header-unsigned = დაემატოს { $extension }? ეს გაფართოება დაუმოწმებელია. მავნე გაფართოებებს, შეუძლია თქვენი პირადი მონაცემების მოპარვა ან თქვენი კომპიუტერის ხელყოფა. მხოლოდ სანდო წყაროდან დაამატეთ.
 webext-perms-header-unsigned-with-perms = დაემატოს { $extension }? ეს გაფართოება დაუმოწმებელია. მავნე გაფართოებები იპარავს პირად მონაცემებს და ხელყოფს კომპიუტერს. მხოლოდ სანდო წყაროდან დაამატეთ. ამ გაფართოებას შეეძლება:
 webext-perms-sideload-header = { $extension } დაემატა
+webext-perms-optional-perms-header2 = { $extension } ითხოვს დამატებით ნებართვებს.
 webext-perms-optional-perms-header = { $extension } ითხოვს დამატებით ნებართვებს.
 webext-perms-header2 = დაემატოს { $extension }
+webext-perms-list-intro-unsigned = ამ გადაუმოწმებელი გაფართოებით შესაძლოა, თქვენი პირადულობა საფრთხეში აღმოჩნდეს ან ხელყონ თქვენი მოწყობილობა. დაამატეთ მხოლოდ სანდო წყაროს მქონე.
 
 ## Headers used in the webextension permissions dialog, inside the content.
 
+webext-perms-header-required-perms = მოთხოვნილი ნებართვები:
+webext-perms-header-optional-settings = დამატებითი პარამეტრები:
+webext-perms-header-update-required-perms = ახლად მოთხოვნილი ნებართვები:
+webext-perms-header-optional-required-perms = ახალი ნებართვები:
 
 ##
 
@@ -37,6 +43,9 @@ webext-perms-sideload-enable =
 webext-perms-sideload-cancel =
     .label = გაუქმება
     .accesskey = გ
+# Variables:
+#   $extension (String): replaced with the localized name of the extension.
+webext-perms-update-text2 = { $extension } განახლდა. განახლებულის დაყენება საჭიროებს ახალ ნებართვებს. „გაუქმების“ არჩევის შემთხვევაში არსებული ვერსია შენარჩუნდება.
 # Variables:
 #   $extension (String): replaced with the localized name of the extension.
 webext-perms-update-text = { $extension } განახლდა. განახლების დაყენებამდე საჭიროებს ახალ ნებართვებს. მიუთითეთ „გაუქმება“ არსებული ვერსიის დასატოვებლად. მოთხოვნილი ნებართვები:

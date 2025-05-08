@@ -8,6 +8,7 @@
 preonboarding-title = მოგესალმებათ { -brand-product-name }
 preonboarding-subtitle = თუ განაგრძობთ, ამით ეთანხმებით მომსახურების პირობებსა და პირადულობის დებულებას, რომელთაც გთავაზობთ { -brand-product-name }. ბრაუზერის გასაუმჯობესებლად { -brand-product-name } გზავნის შემოწმებისა და გამოყენების მონაცემებს, რომელთაც ეცნობა { -vendor-short-name }.
 preonboarding-primary-cta = თანხმობა და გაგრძელება
+preonboarding-primary-cta-v2 = გაგრძელება
 # Labels for header style button that toggles showing the terms of use, privacy notice, and data preferences checklist
 preonboarding-manage-and-read-header = მართეთ მონაცემთა აღრიცხვის პარამეტრები, აგრეთვე გაეცანით გამოყენების პირობებსა და პირადულობის დებულებას
 preonboarding-manage-and-read-header-v2 = გაეცანით გამოყენების პირობებსა და პირადულობის დებულებას. გამართეთ დამატებითი პარამეტრები.
