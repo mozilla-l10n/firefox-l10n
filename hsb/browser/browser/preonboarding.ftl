@@ -8,6 +8,7 @@
 preonboarding-title = Witajće k { -brand-product-name }
 preonboarding-subtitle = Hdyž pokročujeće, zwoliće do wužiwanskich wuměnjenjow { -brand-product-name } a našeje zdźělenki priwatnosće. Zo by pomhał, wobhladowak polěpšić, { -brand-product-name } diagnostiske daty a daty interakcije na { -vendor-short-name } sćele.
 preonboarding-primary-cta = Wobkrućić a pokročować
+preonboarding-primary-cta-v2 = Dale
 # Labels for header style button that toggles showing the terms of use, privacy notice, and data preferences checklist
 preonboarding-manage-and-read-header = Rjadujće nastajenja za hromadźenje datow a čitajće naše wužiwanske wuměnjenja a zdźělenku priwatnosće
 preonboarding-manage-and-read-header-v2 = Čitajće wužiwanske wuměnjenja a zdźělenku priwatnosće. Rjadujće přidatne nastajenja.

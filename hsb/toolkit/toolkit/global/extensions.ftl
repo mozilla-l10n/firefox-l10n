@@ -15,10 +15,16 @@ webext-perms-header-with-perms = { $extension } přidać? Tute rozšěrjenje zm�
 webext-perms-header-unsigned = { $extension } přidać? Tute rozšěrjenje je njepřepruwowane. Złóstne rozšěrjenja móža waše priwatne daty kradnyć abo wašemu ličakej škodźić. Přidajće jo jenož, hdyž žórłu dowěrjeće.
 webext-perms-header-unsigned-with-perms = { $extension } přidać? Tute rozšěrjenje je njepřepruwowane. Złóstne rozšěrjenja móža waše priwatne daty kradnyć abo wašemu ličakej škodźić. Přidajće jo jenož, hdyž žórłu dowěrjeće. Tute rozšěrjneje změje prawo za:
 webext-perms-sideload-header = { $extension } je so přidał
+webext-perms-optional-perms-header2 = { $extension } wo přidatne prawa prosy
 webext-perms-optional-perms-header = { $extension } wo přidatne prawa prosy.
+webext-perms-header2 = { $extension } přidać
 
 ## Headers used in the webextension permissions dialog, inside the content.
 
+webext-perms-header-required-perms = Trěbne prawa:
+webext-perms-header-optional-settings = Wólbne nastajenja:
+webext-perms-header-update-required-perms = Nowe trěbne prawa:
+webext-perms-header-optional-required-perms = Nowe prawa:
 
 ##
 
@@ -36,6 +42,9 @@ webext-perms-sideload-enable =
 webext-perms-sideload-cancel =
     .label = Přetorhnyć
     .accesskey = P
+# Variables:
+#   $extension (String): replaced with the localized name of the extension.
+webext-perms-update-text2 = { $extension } je so zaktualizował. Dyrbiće nowe prawa schwalić, prjedy hač budźe so zaktualizowana wersija instalować. Jeli „Přetorhnyć“ wubjerće, so waša aktualna wersija rozšěrjenja wobchowa.
 # Variables:
 #   $extension (String): replaced with the localized name of the extension.
 webext-perms-update-text = { $extension } je so zaktualizował. Dyrbiće nowe prawa schwalić, prjedy hač budźe so zaktualizowana wersija instalować. Jeli „Přetorhnyć“ wubjerće, so waša aktualna wersija rozšěrjenja wobchowa. Tute rozšěrjenje změje prawo za:
