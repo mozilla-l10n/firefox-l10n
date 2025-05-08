@@ -133,7 +133,7 @@ tab-context-send-tabs-to-device =
 tab-context-unload-n-tabs =
     .label =
         { $tabCount ->
-            [1] Scarica scheda
-           *[other] Scarica { $tabCount } schede
+            [1] Scarica scheda dalla memoria
+           *[other] Scarica { $tabCount } schede dalla memoria
         }
     .accesskey = r
