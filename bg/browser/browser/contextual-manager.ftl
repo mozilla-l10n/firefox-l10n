@@ -6,13 +6,21 @@ contextual-manager-filter-input =
     .placeholder = Търсене на пароли
     .key = F
     .aria-label = Търсене на пароли
+contextual-manager-menu-more-options-button =
+    .title = Още настройки
+contextual-manager-more-options-popup =
+    .aria-label = Още настройки
 
 ## Passwords
 
 contextual-manager-passwords-command-create = Добавяне на парола
 contextual-manager-passwords-command-import-from-browser = Внасяне от друг браузър…
 contextual-manager-passwords-command-import = Внасяне от файл…
+contextual-manager-passwords-command-export = Изнасяне на пароли
+contextual-manager-passwords-command-remove-all = Премахване на всички пароли
+contextual-manager-passwords-command-settings = Настройки
 contextual-manager-passwords-command-help = Помощ
+contextual-manager-passwords-os-auth-dialog-caption = { -brand-full-name }
 # This message can be seen when attempting to export a password in about:logins on Windows.
 contextual-manager-passwords-export-os-auth-dialog-message-win = За да изнесете паролите, въведете данните си за вход в Windows. Това се прави с цел защита на вашите регистрации.
 # This message can be seen when attempting to export a password in about:logins
@@ -35,6 +43,7 @@ contextual-manager-passwords-copy-password-os-auth-dialog-message-win = За д�
 # The MacOS string is preceded by the operating system with "Firefox is trying to ".
 # Only provide the reason that account verification is needed. Do not put a complete sentence here.
 contextual-manager-passwords-copy-password-os-auth-dialog-message-macosx = копира запазена парола
+contextual-manager-passwords-import-file-picker-title = Внасяне на пароли
 contextual-manager-passwords-import-file-picker-import-button = Внасяне
 # A description for the .csv file format that may be shown as the file type
 # filter by the operating system.
@@ -79,6 +88,13 @@ contextual-manager-passwords-remove-all-confirm-button =
         [one] Премахване
        *[other] Премахване на всички
     }
+contextual-manager-passwords-origin-label = Уебсайт
+# The attribute .data-after describes the text that should be displayed for the ::after pseudo-selector
+contextual-manager-passwords-username-label = Потребителско име
+    .data-after = Копирано
+# The attribute .data-after describes the text that should be displayed for the ::after pseudo-selector
+contextual-manager-passwords-password-label = Парола
+    .data-after = Копирана
 contextual-manager-passwords-update-password-success-button = Готово
 contextual-manager-passwords-delete-password-success-button = Готово
 # This message is displayed to make sure that a user wants to delete an existing login.
@@ -87,16 +103,28 @@ contextual-manager-passwords-remove-login-card-title = Премахване на
 contextual-manager-passwords-remove-login-card-remove-button = Премахване
 # This message gives the user the option to cancel their attempt to remove a login.
 contextual-manager-passwords-remove-login-card-cancel-button = Отказ
+contextual-manager-passwords-vulnerable-password-heading-and-message =
+    .heading = Препоръчва се промяна на паролата
+    .message = Тази парола може да бъде лесно налучкана. Сменете я с цел по-добра защита на вашия профил.
+contextual-manager-passwords-no-username-heading-and-message =
+    .heading = Добавете потребителско име
+    .message = Добавете потребителско име за по-бързо вписване.
 
 ## Login Form
 
 contextual-manager-passwords-create-label =
     .label = Добавяне на парола
+contextual-manager-passwords-edit-label =
+    .label = Редактиране на паролата
+contextual-manager-passwords-remove-label =
+    .title = Премахване на паролата
 
 ## Password Card
 
 contextual-manager-passwords-list-label =
     .aria-label = Пароли
+contextual-manager-website-icon =
+    .alt = Икона на уебсайт
 contextual-manager-copy-icon =
     .alt = Копиране
 contextual-manager-passwords-no-passwords-found-message = Няма намерени пароли. Потърсете друга дума и опитайте отново.

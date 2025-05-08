@@ -324,10 +324,10 @@ pdfjs-editor-signature-button-label = Rnu azmul
 
 # “Highlight” is a noun, the string is used on the editor for highlights.
 pdfjs-editor-highlight-editor =
-    .aria-label = Amseẓreg  usebrureq
+    .aria-label = Amaẓrag usebrureq
 # “Drawing” is a noun, the string is used on the editor for drawings.
 pdfjs-editor-ink-editor =
-    .aria-label = Amseẓreg n usuneɣ
+    .aria-label = Amaẓrag n usuneɣ
 # Used when a signature editor is selected/hovered.
 # Variables:
 #   $description (String) - a string describing/labeling the signature.
@@ -367,6 +367,15 @@ pdfjs-editor-free-highlight-thickness-title =
 pdfjs-editor-signature-add-signature-button =
     .title = Rnu azmul amaynut
 pdfjs-editor-signature-add-signature-button-label = Rnu azmul amaynut
+# Used on the button to use an already saved signature.
+# Variables:
+#   $description (String) - a string describing/labeling the signature.
+pdfjs-editor-add-saved-signature-button =
+    .title = Yettwasekles uzmul: { $description }
+# .default-content is used as a placeholder in an empty text editor.
+pdfjs-free-text2 =
+    .aria-label = Amaẓrag n uḍris
+    .default-content = Bdu tira…
 pdfjs-free-text =
     .aria-label = Amaẓrag n uḍris
 pdfjs-free-text-default-content = Bdu tira...
@@ -378,6 +387,8 @@ pdfjs-ink-canvas =
 ## Alt-text dialog
 
 pdfjs-editor-alt-text-button-label = Aḍris amaskal
+pdfjs-editor-alt-text-edit-button =
+    .aria-label = Ẓreg aḍris amaskal
 pdfjs-editor-alt-text-edit-button-label = Ẓreg aḍris amaskal
 pdfjs-editor-alt-text-dialog-label = Fren taxtirt
 pdfjs-editor-alt-text-add-description-label = Rnu aglam
@@ -385,6 +396,9 @@ pdfjs-editor-alt-text-mark-decorative-label = Creḍ d adlag
 pdfjs-editor-alt-text-cancel-button = Sefsex
 pdfjs-editor-alt-text-save-button = Sekles
 pdfjs-editor-alt-text-decorative-tooltip = Yettwacreḍ d adlag
+# Alternative text (alt text) helps when people can't see the image.
+pdfjs-editor-alt-text-button =
+    .aria-label = Aḍris amaskal
 
 ## Editor resizers
 ## This is used in an aria label to help to understand the role of the resizer.
@@ -443,6 +457,8 @@ pdfjs-editor-highlight-show-all-button =
 ## New alt-text dialog
 ## Group note for entire feature: Alternative text (alt text) helps when people can't see the image. This feature includes a tool to create alt text automatically using an AI model that works locally on the user's device to preserve privacy.
 
+# Modal header positioned above a text box where users can edit the alt text.
+pdfjs-editor-new-alt-text-dialog-edit-label = Ẓreg aḍris niḍen (aglam n tugna)
 # Modal header positioned above a text box where users can add the alt text.
 pdfjs-editor-new-alt-text-dialog-add-label = Rnu aḍris niḍen (aglam n tugna)
 pdfjs-editor-new-alt-text-textarea =

@@ -18,4 +18,13 @@ all-tabs-menu-close-all-duplicate-tabs =
     .label = Затваряне на всички дублиращи се раздели
 all-tabs-menu-synced-tabs =
     .label = Раздели от други устройства
+# "Recent" refers to tab groups being sorted in recently used order. We show up
+# to five of these in this section.
+all-tabs-menu-recent-tab-groups-header = Скорошни групи раздели
 all-tabs-menu-current-window-header = Текущ прозорец
+# This opens the sub view listing _all_ open and saved tab groups.
+all-tabs-menu-tab-groups-show-all =
+    .label = Показване на всички
+# This is header for the sub view listing _all_ open and saved tab groups.
+all-tabs-menu-tab-groups-sub-view =
+    .title = Групи раздели

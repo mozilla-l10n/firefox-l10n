@@ -339,6 +339,10 @@ search-one-offs-actions =
 
 # Opens the about:addons page in the home / recommendations section
 quickactions-addons = Преглед на добавките
+# In English we provide multiple spellings for "add-ons". If that's not
+# applicable to your language, only use the correct spelling (don't repeat the
+# same word).
+quickactions-cmd-addons3 = разширения, теми, добавки
 quickactions-cmd-addons2 = Добавки
 # Opens the bookmarks library window
 quickactions-bookmarks2 = Управление на отметки
@@ -354,8 +358,14 @@ quickactions-cmd-downloads = изтегляния
 # Opens about:addons page in the extensions section
 quickactions-extensions = Управление на разширения
 quickactions-cmd-extensions = разширения
+# Opens Firefox View
+quickactions-firefoxview = Отваряне на { -firefoxview-brand-name }
+# Opens SUMO home page
+quickactions-help = Помощ за { -brand-product-name }
+quickactions-cmd-help = помощ, поддръжка
 # Opens the devtools web inspector
 quickactions-inspector2 = Развойни инструменти
+quickactions-cmd-inspector2 = инспектор, развойни инструменти
 quickactions-cmd-inspector = инспектор, изследовател, изследвач, инструменти за разработка, инструменти на разработчика
 # Opens about:logins
 quickactions-logins2 = Управление на пароли
@@ -368,6 +378,7 @@ quickactions-print2 = Отпечатване
 quickactions-cmd-print = печат, отпечатване
 # Opens the print dialog at the save to PDF option
 quickactions-savepdf = Запазване на страницата като PDF
+quickactions-cmd-savepdf2 = pdf, запазване на страници
 quickactions-cmd-savepdf = pdf
 # Opens a new private browsing window
 quickactions-private2 = Поверителен прозорец
@@ -396,6 +407,10 @@ quickactions-cmd-viewsource = преглед на изходния код, из�
 # Tooltip text for the help button shown in the result.
 quickactions-learn-more =
     .title = Научете повече за бързите действия
+# Will be shown to users the first configurable number of times
+# they experience actions giving them instructions on how to
+# select the action shown by pressing the tab key.
+press-tab-label = Натиснете Tab, за да изберете:
 
 ## Bookmark Panel
 
