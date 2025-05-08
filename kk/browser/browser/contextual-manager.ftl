@@ -243,5 +243,15 @@ contextual-manager-passwords-add-manually = Қолмен қосу
 ## When the user cancels a login that's currently being edited, we display a message to confirm whether
 ## or not the user wants to discard their current edits to the login.
 
+contextual-manager-passwords-discard-changes-heading-and-message =
+    .heading = Сақтамай жабу керек пе?
+    .message = Сіздің өзгерістеріңіз сақталмайтын болады.
 contextual-manager-passwords-discard-changes-close-button = Жабу
 contextual-manager-passwords-discard-changes-go-back-button = Артқа
+#   $total (number) - Total number of passwords
+contextual-manager-passwords-remove-all-passwords-checkbox =
+    { $total ->
+        [1] Иә, парольді өшіру
+        [one] Иә, парольді өшіру
+       *[other] Иә, парольдерді өшіру
+    }

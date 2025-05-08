@@ -7,5 +7,7 @@
 
 preonboarding-title = { -brand-product-name } ішіне қош келдіңіз
 preonboarding-primary-cta = Растау және жалғастыру
+preonboarding-primary-cta-v2 = Жалғастыру
+preonboarding-privacy-notice-header-button-title-b-v2 = Жекелік ескертуі
 # Description under label for header style buttons
 preonboarding-header-button-description = Көбірек білу

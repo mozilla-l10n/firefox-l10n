@@ -1177,7 +1177,12 @@ addressbar-locbar-showtrendingsuggestions-option =
 # Nonsponsored suggestions refers to Firefox Suggest suggestions like Wikipedia.
 addressbar-locbar-suggest-nonsponsored-option =
     .label = { -brand-short-name } ұсыныстары
+addressbar-locbar-suggest-sponsored-option =
+    .label = Демеушілердің ұсыныстары
+addressbar-locbar-suggest-sponsored-desc = Кездейсоқ демеушілік ұсыныстармен { -brand-short-name } өніміне қолдау көрсету.
 addressbar-quickactions-learn-more = Көбірек білу
+addressbar-dismissed-suggestions-label = Қабылданбаған ұсыныстар
+addressbar-restore-dismissed-suggestions-description = Демеушілер мен { -brand-short-name } жіберген қабылданбаған ұсыныстарды қалпына келтіру.
 addressbar-restore-dismissed-suggestions-button =
     .label = Қалпына келтіру
 

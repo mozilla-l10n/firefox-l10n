@@ -44,6 +44,7 @@ about-logging-preset-media-playback-label = Медианы ойнату
 about-logging-preset-media-playback-description = Медиа ойнату мәселелерін диагностикалау үшін журналдау модульдері (видео конференция мәселелері емес)
 about-logging-preset-webrtc-label = WebRTC
 about-logging-preset-webrtc-description = WebRTC қоңырауларын диагностикалау үшін журналдау модульдері
+about-logging-preset-webcodecs-label = WebCodecs
 about-logging-preset-webgpu-label = WebGPU
 about-logging-preset-webgpu-description = WebGPU мәселелерін диагностикалау үшін журналдау модульдері
 about-logging-preset-gfx-label = Графика
@@ -69,3 +70,8 @@ about-logging-configured-via-url = Опция URL арқылы бапталға�
 ## The upload interface is shown only with the preference toolkit.aboutLogging.uploadProfileToCloud
 ## set to true. It is false by default, except on Android.
 
+about-logging-save-button = Сақтау
+about-logging-upload-button = Жүктеп жіберу
+# Variables:
+#   $path (string) - The path where the profile can be found.
+about-logging-saved = { $path } ішіне сақталды

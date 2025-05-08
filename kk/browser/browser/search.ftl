@@ -38,6 +38,7 @@ remove-search-engine-button = ОК
 ## Variables
 ## $newEngine (String) - the name of the new default search engine.
 
+reset-search-settings-button = ОК
 
 ## Infobar shown when user is prompted to install search engine.
 ## Variables
@@ -55,6 +56,7 @@ add-engine-window =
     .style = min-width: 32em;
 add-engine-button = Таңдауыңызша жүйені қосу
 add-engine-name = Іздеу жүйесінің аты
+add-engine-keyword = Кілтсөз
 add-engine-url = Жүйенің URL адресі, ізделетін жолдың орнына %s қолданыңыз
 add-engine-dialog =
     .buttonlabelaccept = Жүйені қосу

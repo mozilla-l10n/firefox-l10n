@@ -272,6 +272,7 @@ discopane-notice-recommendations2 =
         Бұл ұсыныстардың кейбіреулері жекеленген. Олар сіз басқа орнатқан кеңейтулер,
         профиль баптаулары және қолданылу статистикасына негізделген.
 discopane-notice-learn-more = Көбірек білу
+colorway-removal-notice-learn-more = Көбірек білу
 privacy-policy = Жекелік саясаты
 # Refers to the author of an add-on, shown below the name of the add-on.
 # Variables:

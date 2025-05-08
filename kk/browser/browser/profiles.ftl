@@ -7,6 +7,8 @@ profile-window-body = Парольдер мен бетбелгілер сияқ�
 # This checkbox appears in the Choose profile window that appears when the browser is opened. "Show this" refers to this window, which is displayed when the checkbox is enabled.
 profile-window-checkbox-label-2 =
     .label = { -brand-short-name } ашылған кезде профиль таңдау
+# This subcopy appears below the checkbox when it is unchecked
+profile-window-checkbox-subcopy = { -brand-short-name } ең соңғы пайдаланған профильде ашылады.
 profile-window-create-profile = Профиль жасау
 profile-card-edit-button =
     .title = Профильді түзету
