@@ -15,7 +15,9 @@ webext-perms-header-with-perms = Adder { $extension }? Iste extension habera le 
 webext-perms-header-unsigned = Adder { $extension }? Iste extension non ha essite verificate. Extensiones malevolente pote robar tu informationes personal o compromitter tu computator. Solmente installa iste extension si tu confide in su origine.
 webext-perms-header-unsigned-with-perms = Adder { $extension }? Iste extension non ha essite verificate. Extensiones malevolente pote robar tu informationes personal o compromitter tu computator. Solmente installa iste extension si tu confide in su origine. Iste extension habera le permission de:
 webext-perms-sideload-header = { $extension } addite
+webext-perms-optional-perms-header2 = { $extension } require altere permissos
 webext-perms-optional-perms-header = { $extension } require altere permissiones.
+webext-perms-header2 = Adder { $extension }
 
 ## Headers used in the webextension permissions dialog, inside the content.
 

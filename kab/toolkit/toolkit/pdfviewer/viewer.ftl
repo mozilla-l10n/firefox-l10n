@@ -364,6 +364,8 @@ pdfjs-editor-stamp-add-image-button-label = Rnu tawlaft
 pdfjs-editor-free-highlight-thickness-input = Tuzert
 pdfjs-editor-free-highlight-thickness-title =
     .title = Beddel tuzert mi ara d-tesbeggneḍ iferdisen niḍen ur nelli d aḍris
+pdfjs-editor-add-signature-container =
+    .aria-label = Isenqaden n uzmul d yizmulen yettwaskelsen
 pdfjs-editor-signature-add-signature-button =
     .title = Rnu azmul amaynut
 pdfjs-editor-signature-add-signature-button-label = Rnu azmul amaynut
@@ -391,6 +393,7 @@ pdfjs-editor-alt-text-edit-button =
     .aria-label = Ẓreg aḍris amaskal
 pdfjs-editor-alt-text-edit-button-label = Ẓreg aḍris amaskal
 pdfjs-editor-alt-text-dialog-label = Fren taxtirt
+pdfjs-editor-alt-text-dialog-description = Aḍris amaskal yettallel mi ara yili imdanen ur ttwalin ara tugna neɣ mi ara yili ur d-tuli ara.
 pdfjs-editor-alt-text-add-description-label = Rnu aglam
 pdfjs-editor-alt-text-mark-decorative-label = Creḍ d adlag
 pdfjs-editor-alt-text-cancel-button = Sefsex
@@ -510,6 +513,7 @@ pdfjs-editor-add-signature-image-button = Tugna
 pdfjs-editor-add-signature-type-input =
     .aria-label = Zru azmul-ik
     .placeholder = Zru azmul-ik
+pdfjs-editor-add-signature-draw-placeholder = Suneɣ azmul-ik
 
 ## Controls
 
