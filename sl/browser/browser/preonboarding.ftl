@@ -8,6 +8,7 @@
 preonboarding-title = Dobrodošli v { -brand-product-name(sklon: "mestnik") }
 preonboarding-subtitle = Z nadaljevanjem se strinjate s pogoji uporabe { -brand-product-name(sklon: "rodilnik") } in z našim obvestilom o zasebnosti. Za izboljšanje brskalnika { -brand-product-name } { -vendor-short-name(sklon: "dajalnik") } pošilja diagnostične podatke in podatke o uporabi.
 preonboarding-primary-cta = Potrdi in nadaljuj
+preonboarding-primary-cta-v2 = Nadaljuj
 # Labels for header style button that toggles showing the terms of use, privacy notice, and data preferences checklist
 preonboarding-manage-and-read-header = Spremenite nastavitve zbiranja podatkov, preberite pogoje uporabe in obvestilo o zasebnosti
 # Label for header style button that toggles showing the Terms of Use

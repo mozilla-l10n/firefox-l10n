@@ -471,6 +471,7 @@ pdfjs-editor-new-alt-text-error-close-button = Mdel
 
 ## Image alt-text settings
 
+pdfjs-editor-alt-text-settings-create-model-button-label = Rnu aḍris niḍen s wudem awurman
 pdfjs-editor-alt-text-settings-delete-model-button = Kkes
 pdfjs-editor-alt-text-settings-download-model-button = Sader
 pdfjs-editor-alt-text-settings-downloading-model-button = Asader…
@@ -478,8 +479,16 @@ pdfjs-editor-alt-text-settings-close-button = Mdel
 
 ## "Annotations removed" bar
 
+pdfjs-editor-undo-bar-message-freetext = Aḍris yettwakkes
+pdfjs-editor-undo-bar-message-ink = Asuneɣ yettwakkes
+pdfjs-editor-undo-bar-message-stamp = Tugna tettwakkes
+pdfjs-editor-undo-bar-message-signature = Azmul yettwakkes
+pdfjs-editor-undo-bar-undo-button =
+    .title = Sefsex
+pdfjs-editor-undo-bar-undo-button-label = Sefsex
 pdfjs-editor-undo-bar-close-button =
     .title = Mdel
+pdfjs-editor-undo-bar-close-button-label = Mdel
 
 ## Add a signature dialog
 
@@ -487,9 +496,20 @@ pdfjs-editor-add-signature-dialog-title = Rnu azmul
 
 ## Tab names
 
+# Type is a verb (you can type your name as signature)
+pdfjs-editor-add-signature-type-button = Anaw
+    .title = Anaw
+# Draw is a verb (you can draw your signature)
+pdfjs-editor-add-signature-draw-button = Suneɣ
+    .title = Suneɣ
+pdfjs-editor-add-signature-image-button = Tugna
+    .title = Tugna
 
 ## Tab panels
 
+pdfjs-editor-add-signature-type-input =
+    .aria-label = Zru azmul-ik
+    .placeholder = Zru azmul-ik
 
 ## Controls
 
