@@ -15,10 +15,17 @@ webext-perms-header-with-perms = להוסיף את { $extension }? להרחבה 
 webext-perms-header-unsigned = להוסיף את { $extension }? הרחבה זו אינה מאומתת. הרחבות זדוניות יכולות לגנוב מידע אישי או לסכן את המחשב שלך. יש להוסיף אותה רק אם הגיעה ממקור מהימן.
 webext-perms-header-unsigned-with-perms = להוסיף את { $extension }? הרחבה זו אינה מאומתת. הרחבות זדוניות יכולות לגנוב מידע אישי או לסכן את המחשב שלך. יש להוסיף אותה רק אם הגיעה ממקור מהימן. להרחבה זו תהיה ההרשאות הבאות:
 webext-perms-sideload-header = { $extension } נוספה
+webext-perms-optional-perms-header2 = ההרחבה { $extension } מבקשת הרשאות נוספות
 webext-perms-optional-perms-header = ההרחבה { $extension } מבקשת הרשאות נוספות.
+webext-perms-header2 = הוספת { $extension }
+webext-perms-list-intro-unsigned = הרחבה לא מאומתת זו עלולה לסכן את הפרטיות שלך או לפגוע במכשיר שלך. יש להוסיף אותה רק אם הגיעה ממקור מהימן.
 
 ## Headers used in the webextension permissions dialog, inside the content.
 
+webext-perms-header-required-perms = הרשאות נדרשות:
+webext-perms-header-optional-settings = הגדרות אופציונליות:
+webext-perms-header-update-required-perms = הרשאות נדרשות חדשות:
+webext-perms-header-optional-required-perms = הרשאות חדשות:
 
 ##
 
@@ -36,6 +43,9 @@ webext-perms-sideload-enable =
 webext-perms-sideload-cancel =
     .label = ביטול
     .accesskey = ב
+# Variables:
+#   $extension (String): replaced with the localized name of the extension.
+webext-perms-update-text2 = ההרחבה { $extension } עודכנה. עליך לאשר את ההרשאות החדשות לפני שהגרסה המעודכנת תותקן. בחירה ב״ביטול״ תשאיר את גרסת ההרחבה הנוכחית.
 # Variables:
 #   $extension (String): replaced with the localized name of the extension.
 webext-perms-update-text = ההרחבה { $extension } עודכנה. עליך לאשר הרשאות חדשות לפני שהגרסה העדכנית תותקן. בחירה באפשרות ״ביטול״ תשאיר את ההרחבה בגרסתה הנוכחית. להרחבה זו תהיה ההרשאות הבאות:
