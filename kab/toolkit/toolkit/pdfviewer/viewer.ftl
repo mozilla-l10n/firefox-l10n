@@ -322,6 +322,17 @@ pdfjs-editor-signature-button-label = Rnu azmul
 
 ## Default editor aria labels
 
+# “Highlight” is a noun, the string is used on the editor for highlights.
+pdfjs-editor-highlight-editor =
+    .aria-label = Amseẓreg  usebrureq
+# “Drawing” is a noun, the string is used on the editor for drawings.
+pdfjs-editor-ink-editor =
+    .aria-label = Amseẓreg n usuneɣ
+# Used when a signature editor is selected/hovered.
+# Variables:
+#   $description (String) - a string describing/labeling the signature.
+pdfjs-editor-signature-editor1 =
+    .aria-description = usuneɣ n uzmul: { $description }
 pdfjs-editor-stamp-editor =
     .aria-label = Amaẓrag n tugna
 
