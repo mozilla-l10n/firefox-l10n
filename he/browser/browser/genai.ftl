@@ -108,6 +108,8 @@ genai-onboarding-lechat-tooltip =
 genai-onboarding-lechat-learn = מידע נוסף על Le Chat
 genai-onboarding-select-header = יש לבחור בטקסט כדי לראות הצעות
 genai-onboarding-select-primary = התחלה בשיחוח
+genai-chatbot-contextual-title = שימוש בצ’אטבוט AI מבלי להחליף לשוניות
+genai-chatbot-contextual-subtitle = ניתן להתכתב עם AI ולגלוש בו זמנית, זה לצד זה, כאשר מוסיפים צ’אטבוט AI בסרגל הצד של { -brand-short-name }.
 genai-chatbot-contextual-button = בחירת צ’אט בוט
 
 ## Chatbot onboarding choices

@@ -397,9 +397,13 @@ pdfjs-editor-alt-text-dialog-description = Aḍris amaskal yettallel mi ara yili
 pdfjs-editor-alt-text-add-description-label = Rnu aglam
 pdfjs-editor-alt-text-add-description-description = Yettuwelleh tira n tefyirt neɣ n snat ideg ara d-yettwaglem asentel, akatar neɣ tigawin.
 pdfjs-editor-alt-text-mark-decorative-label = Creḍ d adlag
+pdfjs-editor-alt-text-mark-decorative-description = Taxtiṛt-a tettwaseqdacay i tugniwin n ucebbaḥ, am tamiwin neɣ i tecraḍ tifrawanin.
 pdfjs-editor-alt-text-cancel-button = Sefsex
 pdfjs-editor-alt-text-save-button = Sekles
 pdfjs-editor-alt-text-decorative-tooltip = Yettwacreḍ d adlag
+# .placeholder: This is a placeholder for the alt text input area
+pdfjs-editor-alt-text-textarea =
+    .placeholder = D amedya, “Yiwen yilemẓi iqqim ɣer ṭṭabla,ad yečč imekli”
 # Alternative text (alt text) helps when people can't see the image.
 pdfjs-editor-alt-text-button =
     .aria-label = Aḍris amaskal
