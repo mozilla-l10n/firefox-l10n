@@ -39,8 +39,14 @@ process-type-gpu = GPU
 process-type-socket = Agrudmawan
 # process used to decode media
 process-type-rdd = RDD
+# process used to run inference
+process-type-inference = Analkam
 # process used to run some IPC actor in their own sandbox
 process-type-utility = Amigaw IPC s Sandboxed
+process-type-utility-actor-audio-decoder-generic = Amakkas n umeslaw imcettel n tanfa
+process-type-utility-actor-audio-decoder-applemedia = AppleMedia n tanfa
+process-type-utility-actor-js-oracle = JavaScript Oracle n tanfa
+process-type-utility-actor-windows-utils = Windows Utils n tanfa
 
 ##
 ## Other

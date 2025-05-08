@@ -15,3 +15,10 @@ experimental-features-js-warp-description = Rmed Wrap, d asenfar i usnerni n tme
 experimental-features-ime-search =
     .label = Afeggag n tansiwin: Sken igmaḍ lawan n usuddes n IME
 experimental-features-ime-search-description = IME (Input Method Editor) d afecku ara ak·am-imudden tisirag i usekcem n yizamulen uddisen, am wid yettuseqdacen deg tutlayin yettwarun n Azya n Usammar neɣ n Lhend , s useqdec n unasiw alugan. Armad n termit-a ad yeǧǧ agalis n ufeggag n tansa yeldi, askan n yigmaḍ n unadi d yisumar, s useqdec n IME i usekcem n uḍris. Ẓer belli IME yezmer ad yesken agalis i iɣummen igmaḍ n ufeggag n tansiwin, ɣef waya asmenyif-a yettwasumer kan i IME ur nseqdac ara anaw-a n ugalis.
+experimental-features-group-developer-tools =
+    .label = Ifecka n tneflit
+experimental-features-group-customize-browsing =
+    .label = Sagen tunigin-ik
+# Link Previews with AI
+experimental-features-link-previews =
+    .label = Tiskanin n useɣwen

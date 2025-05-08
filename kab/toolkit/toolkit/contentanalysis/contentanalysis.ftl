@@ -9,4 +9,5 @@ contentanalysis-warndialog-response-allow = Seqdec agbur
 contentanalysis-warndialog-response-deny = Sefsex
 contentanalysis-notification-title = Aslaḍ n ugbur
 contentanalysis-error-message-dropped-text = Azuɣer akked trusi, ttwagin.
+contentanalysis-inprogress-quit-title = Anef { -brand-shorter-name }
 contentanalysis-inprogress-quit-yesbutton = Ih, ffeɣ

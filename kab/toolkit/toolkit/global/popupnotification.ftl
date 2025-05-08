@@ -5,6 +5,9 @@
 popup-notification-learn-more = Issin ugar
 popup-notification-more-actions-button =
     .aria-label = Ugar n tigawin
+popup-notification-default-button2 =
+    .label = IH
+    .accesskey = I
 popup-notification-default-button =
     .label = IH!
     .accesskey = I

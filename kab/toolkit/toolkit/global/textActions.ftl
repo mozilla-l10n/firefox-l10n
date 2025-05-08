@@ -22,6 +22,12 @@ text-action-copy =
     .accesskey = N
 text-action-copy-shortcut =
     .key = C
+# "Copy Clean Link" means that Firefox will remove things from the link you
+# copied, like items that identify you for advertising purposes, and other items
+# sites add into URLs to help them deliver a certain browsing experience.
+text-action-copy-clean-link =
+    .label = Nɣel aseɣwen yettwasfaḍen
+    .accesskey = n
 # This command copies the link, removing additional
 # query parameters used to track users across sites.
 text-action-strip-on-share =
@@ -38,6 +44,9 @@ text-action-paste-shortcut =
 text-action-delete =
     .label = Kkes
     .accesskey = K
+text-action-reveal-password =
+    .label = Sken awal uffir
+    .accesskey = k
 text-action-select-all =
     .label = Fren Kullec
     .accesskey = F
@@ -64,3 +73,7 @@ text-action-search-text-box-clear =
     .title = Sfeḍ
 text-action-highlight-selection =
     .label = Sebrureq tafrant
+# "Copy Link to Highlight" creates a permanent 'Text Fragment' link
+# to the current selection, and copies it into the user's clipboard.
+text-action-copy-link-to-highlight =
+    .label = Nɣel aseɣwen i usebrureq
