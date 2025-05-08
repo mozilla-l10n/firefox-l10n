@@ -85,6 +85,7 @@ deniedPortAccess-title = Tansa-yagi tegdel
 # "Hmm" is a sound made when considering or puzzling over something.
 # You don't have to include it in your translation if your language does not have a written word like this.
 dnsNotFound-title = Hmm. Nesɛa uguren akken ad naf asmel.
+internet-connection-offline-title = Yettban yella wugur akked tuqqna-k Internet.
 dns-not-found-trr-only-title2 = Yezmer ad yili wugur n tɣellist lawan n uṣeggem n taɣult-a
 dns-not-found-native-fallback-title2 = Yezmer ad yili wugur n tɣellist lawan n uṣeggem n taɣult-a
 fileNotFound-title = Ulac afaylu
@@ -101,6 +102,8 @@ contentEncodingError-title = Tuccḍa n usettengel n ugbur
 unsafeContentType-title = Tawsit n ufaylu aranelkan
 netReset-title = Tuqqna tettuwennez tikelt nniḍen.
 netTimeout-title = Tanzagt n uraǧu tezri
+httpErrorPage-title = Waqil yella wugur deg usmel-a
+serverError-title = Waqil yella wugur deg usmel-a
 unknownProtocolFound-title = Ur nessin ara tansa
 proxyConnectFailure-title = Aqeddac apṛuksi yugi tuqqniwin.
 proxyResolveFailure-title = Aqeddac apṛuksi ulac-it
@@ -120,6 +123,10 @@ certerror-mitm-title = Aseɣzan ad yini i { -brand-short-name } ɣef tuqqna taɣ
 
 ## Felt Privacy V1 Strings
 
+fp-certerror-body-title = Ḥader. Yella wayen ur nteddu ara akken ilaq.
+fp-certerror-what-can-you-do = D acu i tzemreḍ ad txedmeḍ i waya?
+fp-certerror-advanced-title = Talqayt
+fp-certerror-advanced-button = Talqayt
 
 ## Variables:
 ##   $hostname (String) - Hostname of the website to which the user was trying to connect.
