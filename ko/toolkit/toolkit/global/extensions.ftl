@@ -18,9 +18,14 @@ webext-perms-sideload-header = { $extension } 부가 기능이 추가됨
 webext-perms-optional-perms-header2 = { $extension } 확장 기능이 추가 권한을 요청합니다.
 webext-perms-optional-perms-header = { $extension } 확장 기능이 추가 권한을 요청합니다.
 webext-perms-header2 = { $extension } 추가
+webext-perms-list-intro-unsigned = 이 확인되지 않은 확장 기능은 개인 정보를 위험에 빠뜨리거나 기기를 손상시킬 수 있습니다. 출처를 신뢰할 수 있는 경우에만 추가하세요.
 
 ## Headers used in the webextension permissions dialog, inside the content.
 
+webext-perms-header-required-perms = 필수 권한:
+webext-perms-header-optional-settings = 선택적 설정:
+webext-perms-header-update-required-perms = 새 필수 권한:
+webext-perms-header-optional-required-perms = 새 권한:
 
 ##
 
@@ -38,6 +43,9 @@ webext-perms-sideload-enable =
 webext-perms-sideload-cancel =
     .label = 취소
     .accesskey = C
+# Variables:
+#   $extension (String): replaced with the localized name of the extension.
+webext-perms-update-text2 = { $extension } 확장 기능이 업데이트 되었습니다. 업데이트된 버전이 설치되기 전에 새 권한을 승인해야 합니다. “취소”를 누르면 현재 확장 기능 버전을 유지합니다.
 # Variables:
 #   $extension (String): replaced with the localized name of the extension.
 webext-perms-update-text = { $extension } 확장 기능이 업데이트되었습니다. 업데이트된 버전이 설치되기 전에 새 권한을 승인해야 합니다. “취소”를 누르면 현재 버전을 유지합니다. 이 확장 기능은 다음 권한을 갖습니다:
