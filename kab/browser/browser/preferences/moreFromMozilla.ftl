@@ -11,6 +11,7 @@ more-from-moz-category =
 more-from-moz-subtitle = Senqed ifarisen-nniḍen n { -vendor-short-name } i iteddun i internet zeddigen.
 more-from-moz-firefox-mobile-title = { -brand-product-name } aziraz
 more-from-moz-firefox-mobile-description = Iminig aziraz yettarran tudert-ik tabaḍnit deg umḍiq amezwaru.
+more-from-moz-firefox-mobile-title-1 = { -brand-product-name } i uziraz
 more-from-moz-mozilla-vpn-title = { -mozilla-vpn-brand-name }
 more-from-moz-mozilla-vpn-description = Snirem aswir-nniḍen n tunigin tudrigt akked ummesten.
 more-from-moz-qr-code-box-firefox-mobile-title = Sader-it-id s useqdec n yibenk-ik aziraz. Welleh takamiṛat-ik ɣer tengalt QR. Akken ara d-iban useɣwen, sit fell-as.
@@ -35,3 +36,4 @@ more-from-moz-mozilla-monitor-button = Awi { -monitor-brand-short-name }
 
 ## These strings are for the Solo card in about:preferences moreFromMozilla page
 
+more-from-moz-solo-title = { -solo-ai-brand-name } AI

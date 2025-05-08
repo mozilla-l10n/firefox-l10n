@@ -80,6 +80,7 @@ genai-onboarding-lechat-tooltip =
 genai-onboarding-lechat-learn = Issi ugar ɣef Chat
 genai-onboarding-select-header = Fren aḍris i uwali n yisumar
 genai-onboarding-select-primary = Bdu ameslay
+genai-chatbot-contextual-button = Fren chatbot
 
 ## Chatbot onboarding choices
 ## These describe features/capabilities of chatbot providers. These are not buttons/actions.
@@ -92,6 +93,7 @@ genai-onboarding-chatgpt-analyze = Sleḍ isemliyen d tugniwin
 genai-onboarding-chatgpt-price = Tixtiṛyin tilelliyin d tid n lexlaṣ; amiḍan yettwasra i kra n tmura akked twuriwin
 genai-onboarding-copilot-generate = Sirew aḍris, tugniwin akked tengalt
 genai-onboarding-copilot-analyze = Sleḍ tugniwin
+genai-onboarding-copilot-price = Tixtiṛyin tilelliyin d tid n lexlaṣ; amiḍan yettwasra i kra n temsekriyin
 genai-onboarding-gemini-generate = Sirew aḍris, tugniwin akked tengalt
 genai-onboarding-gemini-analyze = Sleḍ tugniwin (tileliyin) akked yisemliyen (n lexlaṣ)
 genai-onboarding-gemini-price = Tixtiṛyin tilelliyin d tid n lexlaṣ; amiḍan yettwasra

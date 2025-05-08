@@ -23,6 +23,8 @@ firefox-relay-opt-in-title-1 = Mmesten tansa-k n yimayl:
 # ends with a colon. You might need to adapt the capitalization of this string.
 firefox-relay-opt-in-subtitle-1 = Seqdec ugelmus n yimayl n { -relay-brand-name }
 firefox-relay-use-mask-title = Seqdec ugelmus n yimayl n { -relay-brand-name }
+# This is followed, on a new line, by firefox-relay-opt-in-subtitle-b
+firefox-relay-opt-in-title-b = Awi agelmus n yimayl n baṭel
 firefox-relay-opt-in-confirmation-enable-button =
     .label = Seqdec agelmus n yimayl
     .accesskey = S
@@ -32,15 +34,31 @@ firefox-relay-opt-in-confirmation-disable =
 firefox-relay-opt-in-confirmation-postpone =
     .label = Mačči tura
     .accesskey = M
+firefox-relay-and-fxa-opt-in-confirmation-enable-button =
+    .label = Qqen ɣer { -brand-product-name }, tesqedceḍ agzlmus
+    .accesskey = Q
+firefox-relay-and-fxa-opt-in-confirmation-enable-button-sign-up =
+    .label = Jerred
+    .accesskey = J
+firefox-relay-and-fxa-opt-in-confirmation-disable =
+    .label = Ur yi-d-skan ara aya tikelt-nniḍen
+    .accesskey = U
+firefox-relay-and-fxa-opt-in-confirmation-postpone =
+    .label = Mačči tura
+    .accesskey = M
 
 ## The "control" variation of the Relay offer popup
 
 
 ## The "basic-info" variation of the Relay offer popup
 
+firefox-relay-and-fxa-opt-in-confirmation-enable-button-basic-info =
+    .label = Jerred
+    .accesskey = J
 
 ## The "with-domain" variation of the Relay offer popup
 
+firefox-relay-and-fxa-popup-notification-header-with-domain = Awi agelmus n yimayl n baṭel
 firefox-relay-and-fxa-opt-in-confirmation-enable-button-with-domain =
     .label = Jerred
     .accesskey = J
