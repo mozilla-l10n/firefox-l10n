@@ -395,6 +395,7 @@ pdfjs-editor-alt-text-edit-button-label = Ẓreg aḍris amaskal
 pdfjs-editor-alt-text-dialog-label = Fren taxtirt
 pdfjs-editor-alt-text-dialog-description = Aḍris amaskal yettallel mi ara yili imdanen ur ttwalin ara tugna neɣ mi ara yili ur d-tuli ara.
 pdfjs-editor-alt-text-add-description-label = Rnu aglam
+pdfjs-editor-alt-text-add-description-description = Yettuwelleh tira n tefyirt neɣ n snat ideg ara d-yettwaglem asentel, akatar neɣ tigawin.
 pdfjs-editor-alt-text-mark-decorative-label = Creḍ d adlag
 pdfjs-editor-alt-text-cancel-button = Sefsex
 pdfjs-editor-alt-text-save-button = Sekles
