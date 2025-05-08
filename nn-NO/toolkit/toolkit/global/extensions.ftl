@@ -16,9 +16,12 @@ webext-perms-header-unsigned = Leggje til { $extension }? Denne utvidinga er ikk
 webext-perms-header-unsigned-with-perms = Leggje til { $extension }? Denne utvidinga er ikkje stadfesta. Skadelege utvidingar kan stele privatopplysningane dine eller kompromittere datamaskina di. Legg berre til denne utvidinga om du stolar på kjelda. Denne utvidinga vil ha løyve til å:
 webext-perms-sideload-header = { $extension } lagt til
 webext-perms-optional-perms-header = { $extension } ber om ytterlegare løyve.
+webext-perms-header2 = Legg til { $extension }
 
 ## Headers used in the webextension permissions dialog, inside the content.
 
+webext-perms-header-optional-settings = Valfrie innstillingar
+webext-perms-header-optional-required-perms = Nye løyve:
 
 ##
 
