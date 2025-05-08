@@ -15,7 +15,10 @@ webext-perms-header-with-perms = Add { $extension }? This extension will have pe
 webext-perms-header-unsigned = Add { $extension }? This extension is unverified. Malicious extensions can steal your private information or compromise your computer. Only add it if you trust the source.
 webext-perms-header-unsigned-with-perms = Add { $extension }? This extension is unverified. Malicious extensions can steal your private information or compromise your computer. Only add it if you trust the source. This extension will have permission to:
 webext-perms-sideload-header = { $extension } added
+webext-perms-optional-perms-header2 = { $extension } requests additional permissions
 webext-perms-optional-perms-header = { $extension } requests additional permissions.
+webext-perms-header2 = Add { $extension }
+webext-perms-list-intro-unsigned = This unverified extension might put your privacy at risk or compromise your device. Only add it if you trust the source.
 
 ## Headers used in the webextension permissions dialog, inside the content.
 
