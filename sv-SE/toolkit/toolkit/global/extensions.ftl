@@ -18,7 +18,7 @@ webext-perms-sideload-header = { $extension } har lagts till
 webext-perms-optional-perms-header2 = { $extension } begär ytterligare behörigheter
 webext-perms-optional-perms-header = { $extension } begär ytterligare behörigheter.
 webext-perms-header2 = Lägg till { $extension }
-webext-perms-list-intro-unsigned = Detta overifierade tillägg kan äventyra din integritet eller äventyra din enhet. Lägg bara till den om du litar på källan.
+webext-perms-list-intro-unsigned = Detta overifierade tillägg kan äventyra din integritet eller äventyra din enhet. Lägg bara till det om du litar på källan.
 
 ## Headers used in the webextension permissions dialog, inside the content.
 
