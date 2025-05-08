@@ -79,6 +79,7 @@ bookmarks-toolbar-callout-2b-secondary-button-label = Жоқ, рахмет
 
 ## Perplexity callout strings
 
+perplexity-callout-primary-label = Perplexity сұрау
 
 ## Sidebar Strings
 
