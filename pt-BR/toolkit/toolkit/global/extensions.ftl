@@ -16,9 +16,12 @@ webext-perms-header-unsigned = Adicionar { $extension }? Esta extensão não foi
 webext-perms-header-unsigned-with-perms = Adicionar { $extension }? Esta extensão não foi verificada. Extensões maliciosas podem roubar suas informações privativas ou comprometer este computador. Só instale se confiar na origem. Esta extensão terá permissão para:
 webext-perms-sideload-header = { $extension } adicionado
 webext-perms-optional-perms-header = { $extension } requer permissões adicionais.
+webext-perms-header2 = Adicionar { $extension }
 
 ## Headers used in the webextension permissions dialog, inside the content.
 
+webext-perms-header-required-perms = Permissões necessárias:
+webext-perms-header-optional-settings = Configurações opcionais:
 
 ##
 
