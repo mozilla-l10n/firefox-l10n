@@ -16,3 +16,4 @@ sandbox-missing-unprivileged-namespaces = قد توفر بعض ميزات الأ
 sandbox-unprivileged-namespaces-dismiss-button =
     .label = لا تُظهر مجددًا
     .accesskey = ه
+sandbox-unprivileged-namespaces-howtofix = كيفية إصلاح هذه المشكلة
