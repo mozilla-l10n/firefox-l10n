@@ -118,6 +118,9 @@ perplexity-callout-theme-1-title = Potřebujete správnou odpověď, a to hned?
 perplexity-callout-theme-2-title = Vyzkoušejte Perplexity: nový způsob vyhledávání
 perplexity-callout-theme-1-subtitle-1 = Vyzkoušejte Perplexity. Vyberte ji z vyhledávacího tlačítka, když chcete kompletní odpovědi včetně zdrojů.
 perplexity-callout-theme-1-subtitle-2 = Ptejte se. Získejte úplné a dobře citované odpovědi. Pokud chcete Perplexity vyzkoušet, vyberte ji z vyhledávacího tlačítka.
+perplexity-callout-theme-2-subtitle-1 = Zeptejte se Perplexity. Získejte úplné odpovědi včetně zdrojů.
+perplexity-callout-theme-2-subtitle-2 = Ptejte se. Získejte úplné a dobře citované odpovědi.
+perplexity-callout-primary-label = Zeptejte se Perplexity
 perplexity-callout-secondary-label-1 = Zavřít
 perplexity-callout-secondary-label-2 = Rozumím
 

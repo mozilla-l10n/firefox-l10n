@@ -312,7 +312,12 @@ discopane-notice-recommendations2 =
         Některá z těchto doporučení se zobrazují na základě informací o ostatních
         vámi nainstalovaných rozšíření, nastavení profilu a statistik o používání.
 discopane-notice-learn-more = Zjistit více
+# Notice for the colorway theme removal
+colorway-removal-notice-message =
+    .heading = Vaše palety barev byly odstraněny.
+    .message = { -brand-product-name } aktualizoval svoji kolekci palet barev. Odstranili jsme staré verze z vašeho listu „Uložené motivy“. Získejte nové verze na stránce doplňků.
 colorway-removal-notice-learn-more = Zjistit více
+colorway-removal-notice-button = Získejte aktualizované palety barev
 privacy-policy = Zásady ochrany osobních údajů
 # Refers to the author of an add-on, shown below the name of the add-on.
 # Variables:

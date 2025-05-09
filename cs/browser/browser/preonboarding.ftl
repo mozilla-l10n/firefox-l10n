@@ -8,8 +8,10 @@
 preonboarding-title = Vítá vás { -brand-product-name }
 preonboarding-subtitle = Pokračováním souhlasíte s Podmínkami používání { -brand-product-name(case: "gen") } a našimi Zásadami ochrany osobních údajů. Za účelem vylepšení prohlížeče { -brand-product-name } odesílá diagnostické údaje a údaje o interakcích organizaci { -vendor-short-name }.
 preonboarding-primary-cta = Potvrdit a pokračovat
+preonboarding-primary-cta-v2 = Pokračovat
 # Labels for header style button that toggles showing the terms of use, privacy notice, and data preferences checklist
 preonboarding-manage-and-read-header = Správa nastavení shromažďování dat a přečtení našich podmínek používání a oznámení o ochraně osobních údajů
+preonboarding-manage-and-read-header-v2 = Přečtěte si Podmínky používání a Oznámení o ochraně osobních údajů. Spravujte další nastavení.
 # Label for header style button that toggles showing the Terms of Use
 preonboarding-terms-of-use-header-button-title = Přečtěte si naše Podmínky používání
 # Label for header style button that toggles showing the Privacy Notice
