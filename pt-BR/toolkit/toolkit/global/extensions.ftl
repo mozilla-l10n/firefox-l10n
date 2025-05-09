@@ -22,6 +22,8 @@ webext-perms-header2 = Adicionar { $extension }
 
 webext-perms-header-required-perms = Permissões necessárias:
 webext-perms-header-optional-settings = Configurações opcionais:
+webext-perms-header-update-required-perms = Novas permissões necessárias:
+webext-perms-header-optional-required-perms = Novas permissões:
 
 ##
 
@@ -39,6 +41,9 @@ webext-perms-sideload-enable =
 webext-perms-sideload-cancel =
     .label = Cancelar
     .accesskey = C
+# Variables:
+#   $extension (String): replaced with the localized name of the extension.
+webext-perms-update-text2 = { $extension } foi atualizado. Antes de instalar a nova versão, você precisa aprovar novas permissões. Se escolher “Cancelar”, é mantida a versão atual da extensão.
 # Variables:
 #   $extension (String): replaced with the localized name of the extension.
 webext-perms-update-text = A extensão { $extension } foi atualizada. Você precisa aprovar novas permissões para que a versão atualizada seja instalada. Se escolher “Cancelar”, será mantida a versão atual. Esta extensão terá permissão para:
