@@ -105,6 +105,7 @@ contextual-manager-passwords-remove-all-confirm-button =
         [1] ລົບອອກ
        *[other] ລົບອອກທັງໝົດ
     }
+contextual-manager-passwords-origin-label = ເວັບໄຊທ໌
 contextual-manager-passwords-add-password-success-button = ເບິ່ງ
 # Variables
 #   $url (string) - The url associated with the existing login
@@ -182,4 +183,5 @@ contextual-manager-password-login-line =
 ## When the user cancels a login that's currently being edited, we display a message to confirm whether
 ## or not the user wants to discard their current edits to the login.
 
+contextual-manager-passwords-discard-changes-close-button = ປິດ
 contextual-manager-passwords-discard-changes-go-back-button = ກັບຄືນ
