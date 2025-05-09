@@ -68,12 +68,35 @@ split-dismiss-button-default-label =
 
 ## Login Status Advisory Callout (points to the account icon)
 
+# The 'account icon' is the toolbar button with a 'profile' icon of a human
+# head/shoulders. It's for dealing with your Mozilla account. When hovering the
+# icon, the tooltip says 'Account'.
+login-status-advisory-title = Votre compte est déconnecté. Cliquez sur l’icône de compte pour vous connecter.
 
 ## Bookmarks toolbar callout strings
 
+bookmarks-toolbar-callout-1-title = Ajouter ce site à la barre personnelle ?
+bookmarks-toolbar-callout-1-subtitle = Votre marque-page sera enregistré juste en dessous de la barre d’adresse pour pouvoir y accéder rapidement.
+bookmarks-toolbar-callout-1-primary-button-label = Ajouter un marque-page
+bookmarks-toolbar-callout-1-secondary-button-label = Non merci
+# Visible if user adds a bookmark in callout 1, bookmarks toolbar is set to always show when this message renders
+bookmarks-toolbar-callout-2a-title = Ajoutez facilement des marque-pages
+bookmarks-toolbar-callout-2a-subtitle = Vous pouvez glisser-déposer des onglets ici pour garder davantage de vos sites préférés à portée de main.
+bookmarks-toolbar-callout-2a-primary-button-label = J’ai compris
+# Reverts the bookmarks toolbar to the default setting
+bookmarks-toolbar-callout-2a-secondary-button-label = Masquer la barre personnelle
+# Visible if user declines to add a bookmark in callout 1, bookmarks toolbar is set to always show when this message renders
+bookmarks-toolbar-callout-2b-title = Laisser la barre personnelle ouverte ?
+bookmarks-toolbar-callout-2b-subtitle = Vous pouvez ajouter d’autres sites que vous visitez souvent. Glissez-déposez simplement des onglets ici pour garder vos sites web préférés à portée de main.
+bookmarks-toolbar-callout-2b-primary-button-label = La garder ouverte
+# Reverts the bookmarks toolbar to the default setting
+bookmarks-toolbar-callout-2b-secondary-button-label = Non merci
 
 ## Perplexity callout strings
 
+perplexity-callout-theme-2-title = Essayez Perplexity : une nouvelle façon de rechercher
+perplexity-callout-secondary-label-1 = Ignorer
+perplexity-callout-secondary-label-2 = J’ai compris
 
 ## Sidebar Strings
 

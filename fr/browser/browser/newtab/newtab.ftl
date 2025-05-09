@@ -117,6 +117,8 @@ newtab-menu-delete-pocket = Supprimer de { -pocket-brand-name }
 newtab-menu-archive-pocket = Archiver dans { -pocket-brand-name }
 newtab-menu-show-privacy-info = Nos sponsors et votre vie privée
 newtab-menu-about-fakespot = À propos de { -fakespot-brand-name }
+# Report is a verb (i.e. report issue with the content).
+newtab-menu-report = Signaler
 newtab-menu-report-content = Signaler ce contenu
 # Context menu option to personalize New Tab recommended stories by blocking a section of stories,
 # e.g. "Sports". "Block" is a verb here.
@@ -522,6 +524,9 @@ newtab-custom-wallpaper-cta = Essayer
 
 ## Strings for download mobile highlight
 
+newtab-download-mobile-highlight-title = Téléchargez { -brand-product-name } pour mobile
+# "Scan the code" refers to scanning the QR code that appears above the body text that leads to Firefox for mobile download.
+newtab-download-mobile-highlight-body-variant-a = Scannez le code pour naviguer en sécurité où que vous soyez.
 
 ## Strings for reporting ads and content
 
