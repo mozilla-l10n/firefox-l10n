@@ -344,6 +344,10 @@ search-one-offs-actions =
 
 # Opens the about:addons page in the home / recommendations section
 quickactions-addons = Prikaži dodatke
+# In English we provide multiple spellings for "add-ons". If that's not
+# applicable to your language, only use the correct spelling (don't repeat the
+# same word).
+quickactions-cmd-addons3 = razširitve, teme, dodatki, vtičniki, vstavki
 quickactions-cmd-addons2 = dodatki
 # Opens the bookmarks library window
 quickactions-bookmarks2 = Upravljanje zaznamkov
@@ -384,6 +388,7 @@ quickactions-print2 = Natisni stran
 quickactions-cmd-print = natisni, tiskanje, print
 # Opens the print dialog at the save to PDF option
 quickactions-savepdf = Shrani stran kot PDF
+quickactions-cmd-savepdf2 = pdf, shrani stran
 quickactions-cmd-savepdf = pdf
 # Opens a new private browsing window
 quickactions-private2 = Odpri zasebno okno
@@ -400,6 +405,8 @@ quickactions-cmd-screenshot2 = posnetek zaslona, zaslonski posnetek, screenshot,
 quickactions-cmd-screenshot = posnetek zaslona
 # Opens about:preferences
 quickactions-settings2 = Upravljaj nastavitve
+# "manage" should match the corresponding command, which is “Manage settings” in English.
+quickactions-cmd-settings2 = nastavitve, možnosti, upravljanje
 quickactions-cmd-settings = nastavitve, možnosti
 # Opens about:addons page in the themes section
 quickactions-themes = Upravljanje tem
