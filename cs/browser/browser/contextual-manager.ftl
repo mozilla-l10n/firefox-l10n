@@ -315,3 +315,12 @@ contextual-manager-passwords-discard-changes-heading-and-message =
     .message = Vaše změny se neuloží.
 contextual-manager-passwords-discard-changes-close-button = Zavřít
 contextual-manager-passwords-discard-changes-go-back-button = Zpátky
+#   $total (number) - Total number of passwords
+contextual-manager-passwords-remove-all-passwords-checkbox =
+    { $total ->
+        [1] Ano, odebrat heslo
+        [one] Ano, odebrat heslo
+        [few] Ano, odebrat hesla
+        [many] Ano, odebrat hesla
+       *[other] Ano, odebrat hesla
+    }
