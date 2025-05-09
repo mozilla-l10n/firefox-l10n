@@ -41,3 +41,9 @@ experimental-features-link-previews-description =
         [macos] 若要在点击链接前预先了解网页内容，可将指针悬停在链接上，然后按下 Shift (⇧) 和 Option (⌥)  或 Alt。预览中可能包含标题和阅读所需时间等详细信息。对于部分网页，AI 还可读取页面文字并列出要点。此 AI 为读取和生成英语文本优化。为最大程度保护隐私，AI 会在您的计算机本地运行。<a data-l10n-name="connect">分享反馈</a>
        *[other] 若要在点击链接前预先了解网页内容，可将指针悬停在链接上，然后按下 Shift + Alt。预览中可能包含标题和阅读所需时间等详细信息。对于部分网页，AI 还可读取页面文字并列出要点。此 AI 为读取和生成英语文本优化。为最大程度保护隐私，AI 会在您的计算机本地运行。<a data-l10n-name="connect">分享反馈</a>
     }
+# This version of the link previews description does not mention AI.
+experimental-features-link-previews-description-no-ai =
+    { PLATFORM() ->
+        [macos] 若要在点击链接前预先了解网页内容，可将指针悬停在链接上，然后按下 Shift (⇧) 和 Option (⌥)  或 Alt。预览中可能包含标题和阅读所需时间等详细信息。<a data-l10n-name="connect">Share feedback</a>
+       *[other] 若要在点击链接前预先了解网页内容，可将指针悬停在链接上，然后按下 Shift + Alt。预览中可能包含标题和阅读所需时间等详细信息。<a data-l10n-name="connect">Share feedback</a>
+    }
