@@ -16,9 +16,14 @@ webext-perms-header-unsigned = ¿Añadir { $extension }? Esta extensión no est�
 webext-perms-header-unsigned-with-perms = ¿Añadir { $extension }? Esta extensión no está verificada. Las extensiones maliciosas pueden robar tu información privada o comprometer tu computador. Instala esta extensión solo si confías en la fuente. Esta extensión tendrá permiso para:
 webext-perms-sideload-header = { $extension } añadido
 webext-perms-optional-perms-header = { $extension } requiere permisos adicionales.
+webext-perms-header2 = Añadir { $extension }
 
 ## Headers used in the webextension permissions dialog, inside the content.
 
+webext-perms-header-required-perms = Permisos requeridos:
+webext-perms-header-optional-settings = Ajustes opcionales:
+webext-perms-header-update-required-perms = Nuevos permisos requeridos:
+webext-perms-header-optional-required-perms = Nuevos permisos:
 
 ##
 
@@ -36,6 +41,9 @@ webext-perms-sideload-enable =
 webext-perms-sideload-cancel =
     .label = Cancelar
     .accesskey = C
+# Variables:
+#   $extension (String): replaced with the localized name of the extension.
+webext-perms-update-text2 = { $extension } ha sido actualizado. Debes aprobar nuevos permisos antes de que la actualización sea aplicada. Elige "Cancelar" si quieres mantener la versión ya instalada.
 # Variables:
 #   $extension (String): replaced with the localized name of the extension.
 webext-perms-update-text = { $extension } ha sido actualizada. Debes aprobar nuevos permisos antes de que la actualización sea aplicada. Elige "Cancelar" si quieres mantener la versión ya instalada. Esta extensión tendrá permisos para:
