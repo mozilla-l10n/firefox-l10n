@@ -54,6 +54,10 @@ neterror-dns-not-found-hint-header = <strong>Si l’adresse saisie était correc
 neterror-dns-not-found-hint-try-again = Réessayer plus tard
 neterror-dns-not-found-hint-check-network = Veuillez vérifier votre connexion réseau
 neterror-dns-not-found-hint-firewall = Vérifier que { -brand-short-name } a l’autorisation d’accéder au Web (votre connexion pourrait être effective, mais protégée par un pare-feu)
+neterror-dns-not-found-offline-hint-header = <strong>Que pouvez-vous faire ?</strong>
+neterror-dns-not-found-offline-hint-different-device = Essayez de vous connecter sur un autre appareil.
+neterror-dns-not-found-offline-hint-modem = Vérifiez votre modem ou votre routeur.
+neterror-dns-not-found-offline-hint-reconnect = Déconnectez-vous puis reconnectez-vous au Wi-Fi.
 
 ## TRR-only specific messages
 ## Variables:

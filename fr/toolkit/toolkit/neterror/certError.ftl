@@ -121,6 +121,7 @@ deniedPortAccess-title = Cette adresse est interdite
 # "Hmm" is a sound made when considering or puzzling over something.
 # You don't have to include it in your translation if your language does not have a written word like this.
 dnsNotFound-title = Hum, nous ne parvenons pas à trouver ce site.
+internet-connection-offline-title = Il semble y avoir un problème avec votre connexion Internet.
 dns-not-found-trr-only-title2 = Risque de sécurité potentiel durant la résolution de ce domaine
 dns-not-found-native-fallback-title2 = Risque de sécurité potentiel durant la résolution de ce domaine
 fileNotFound-title = Fichier introuvable

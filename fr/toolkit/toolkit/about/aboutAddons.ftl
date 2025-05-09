@@ -272,6 +272,7 @@ discopane-notice-recommendations = Certaines de ces recommandations sont personn
 discopane-notice-recommendations2 =
     .message = Certaines de ces recommandations sont personnalisées. Cette sélection se fonde sur d’autres extensions que vous avez installées, les préférences de votre profil et les statistiques d’utilisation.
 discopane-notice-learn-more = En savoir plus
+colorway-removal-notice-learn-more = En savoir plus
 privacy-policy = Politique de confidentialité
 # Refers to the author of an add-on, shown below the name of the add-on.
 # Variables:
