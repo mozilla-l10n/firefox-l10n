@@ -15,10 +15,16 @@ webext-perms-header-with-perms = { $extension }-ро илова мекунед? 
 webext-perms-header-unsigned = { $extension }-ро илова мекунед? Ин васеъшавӣ тасдиқнашуда аст. Васеъшавиҳои зараррасон метавонанд маълумоти шахсии шуморо дуздӣ кунанд ё компютери шуморо зери хатар гузоранд. Онро он гоҳ илова кунед, агар ба манбаъ эътимод дошта бошед.
 webext-perms-header-unsigned-with-perms = { $extension }-ро илова мекунед? Ин васеъшавӣ тасдиқнашуда аст. Васеъшавиҳои зараррасон метавонанд маълумоти шахсии шуморо дуздӣ кунанд ё компютери шуморо зери хатар гузоранд. Онро он гоҳ илова кунед, агар ба манбаъ эътимод дошта бошед. Ин васеъшавӣ ба зерин дастрасӣ пайдо мекунад:
 webext-perms-sideload-header = { $extension } илова карда шуд
+webext-perms-optional-perms-header2 = «{ $extension }» иҷозатҳои иловагиро дархост мекунад.
 webext-perms-optional-perms-header = { $extension } иҷозати иловагиро дархост мекунад.
+webext-perms-header2 = Илова кардани «{ $extension }»
 
 ## Headers used in the webextension permissions dialog, inside the content.
 
+webext-perms-header-required-perms = Иҷозатҳои зарурӣ:
+webext-perms-header-optional-settings = Танзимоти ихтиёрӣ:
+webext-perms-header-update-required-perms = Иҷозатҳои нави зарурӣ:
+webext-perms-header-optional-required-perms = Иҷозатҳои нав:
 
 ##
 
