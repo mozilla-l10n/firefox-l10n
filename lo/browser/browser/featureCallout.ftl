@@ -68,6 +68,7 @@ split-dismiss-button-manage-settings-option =
 
 ## Bookmarks toolbar callout strings
 
+bookmarks-toolbar-callout-1-secondary-button-label = ບໍ່, ຂອບໃຈ
 
 ## Perplexity callout strings
 
