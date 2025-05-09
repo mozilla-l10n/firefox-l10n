@@ -129,6 +129,11 @@ contextual-manager-copy-icon =
     .alt = Копиране
 contextual-manager-check-icon-username =
     .alt = Копирано
+contextual-manager-alert-icon =
+    .alt = Предупреждение
+contextual-manager-password-login-line =
+    .aria-label = Копиране на паролата
+    .title = Копиране на паролата
 contextual-manager-passwords-no-passwords-found-message = Няма намерени пароли. Потърсете друга дума и опитайте отново.
 
 ## When the user has no saved passwords, we display the following messages to inform the user they can save
