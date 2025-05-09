@@ -15,10 +15,16 @@ webext-perms-header-with-perms = { $extension } tafoegje? Dizze útwreiding hat 
 webext-perms-header-unsigned = { $extension } tafoegje? Dizze útwreiding is net ferifiearre. Kweawollende útwreidingen kinne jo priveegegevens stelle of de kontrôle oer jo kompjûter oernimme. Foegje dizze útwreiding allinnich ta as jo de boarne fertrouwe.
 webext-perms-header-unsigned-with-perms = { $extension } tafoegje? Dizze útwreiding is net ferifiearre. Kweawollende útwreidingen kinne jo priveegegevens stelle of de kontrôle oer jo kompjûter oernimme. Foegje dizze útwreiding allinnich ta as jo de boarne fertrouwe. Dizze útwreiding hat tastimming om:
 webext-perms-sideload-header = { $extension } tafoege
+webext-perms-optional-perms-header2 = { $extension } freget oanfoljende tastimmingen
 webext-perms-optional-perms-header = { $extension } freget oanfoljende tastimmingen.
+webext-perms-header2 = { $extension } tafoegje
 
 ## Headers used in the webextension permissions dialog, inside the content.
 
+webext-perms-header-required-perms = Fereaske tastimmingen:
+webext-perms-header-optional-settings = Opsjonele ynstellingen:
+webext-perms-header-update-required-perms = Nij fereaske tastimmingen:
+webext-perms-header-optional-required-perms = Nije tastimmingen:
 
 ##
 
@@ -36,6 +42,9 @@ webext-perms-sideload-enable =
 webext-perms-sideload-cancel =
     .label = Annulearje
     .accesskey = A
+# Variables:
+#   $extension (String): replaced with the localized name of the extension.
+webext-perms-update-text2 = { $extension } is bywurke. Jo moatte nije tastimmingen tastean eardat de nije ferzje ynstallearre wurde kin. As jo kieze foar ‘Annulearje’, sil de aktuele ferzje fan de útwreiding aktyf bliuwe.
 # Variables:
 #   $extension (String): replaced with the localized name of the extension.
 webext-perms-update-text = { $extension } is bywurke. Jo moatte nije tastimmingen tastean eardat de bywurke ferzje ynstallearre wurdt. ‘Annulearje’ kieze sil de aktuele ferzje fan de útwreiding behâlde. Dizze útwreiding hat tastimming om:

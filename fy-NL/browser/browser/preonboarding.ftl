@@ -8,6 +8,7 @@
 preonboarding-title = Wolkom by { -brand-product-name }
 preonboarding-subtitle = Troch fierder te gean geane jo akkoard mei de Gebrûksbetingsten fan { -brand-product-name } en ús Privacyferklearring. Om de browser te ferbetterjen, stjoert { -brand-product-name } diagnostyske en ynteraksjegegevens nei { -vendor-short-name }.
 preonboarding-primary-cta = Befêstigje en trochgean
+preonboarding-primary-cta-v2 = Trochgean
 # Labels for header style button that toggles showing the terms of use, privacy notice, and data preferences checklist
 preonboarding-manage-and-read-header = Ynstellingen foar gegevenssammeling beheare en ús Gebrûksbetingsten en Privacyferklearring lêze
 preonboarding-manage-and-read-header-v2 = Lês de Brûkersbetingsten en de privacyferklearring. Behear ekstra ynstellingen.
