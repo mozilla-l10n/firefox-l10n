@@ -94,6 +94,9 @@ webext-perms-host-description-one-domain = Accedere ai dati per siti nei domini 
 #     (the list of domains will follow this string).
 webext-perms-host-description-multiple-domains = Accedere ai dati per siti in { $domainCount } domini
 
+## Strings for data collection permissions in the permission prompt.
+
+
 ## Headers used in the webextension permissions dialog for synthetic add-ons.
 ## The part of the string describing what privileges the extension gives should be consistent
 ## with the value of webext-site-perms-description-gated-perms-{sitePermission}.
@@ -132,4 +135,3 @@ webext-site-perms-midi-sysex = Accedere a dispositivi MIDI con supporto SysEx
 
 webext-colorway-theme-migration-notification-message = <b>La tonalità è stata rimossa.</b> { -brand-shorter-name } ha aggiornato la sua collezione di tonalità. Puoi trovare le ultime versioni sul sito dei componenti aggiuntivi.
 webext-colorway-theme-migration-notification-button = Ottieni tonalità aggiornate
-

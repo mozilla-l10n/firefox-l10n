@@ -562,3 +562,6 @@ plugins-openh264-description = Questo plugin viene installato automaticamente da
 plugins-widevine-name = Modulo Widevine Content Decryption fornito da Google Inc.
 plugins-widevine-description = Questo plugin consente la riproduzione di file multimediali crittati, nel rispetto delle specifiche Encrypted Media Extensions. Questo tipo di file è normalmente utilizzato dai siti per proteggere contenuti di alta qualità contro la copia. Consultare https://www.w3.org/TR/encrypted-media/ per ulteriori informazioni relative a Encrypted Media Extensions.
 
+## Headings for the Permissions tab in `about:addons` when the data collection
+## feature is enabled.
+
