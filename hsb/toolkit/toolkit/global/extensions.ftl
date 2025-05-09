@@ -18,6 +18,7 @@ webext-perms-sideload-header = { $extension } je so přidał
 webext-perms-optional-perms-header2 = { $extension } wo přidatne prawa prosy
 webext-perms-optional-perms-header = { $extension } wo přidatne prawa prosy.
 webext-perms-header2 = { $extension } přidać
+webext-perms-list-intro-unsigned = Tute njepřepruwowane rozšěrjenje móhło wašu priwatnosć na hrački stajić abo waš grat škodźić. Přidajće jo jenož, jeli žórłu dowěrjeće.
 
 ## Headers used in the webextension permissions dialog, inside the content.
 
