@@ -117,6 +117,8 @@ newtab-menu-delete-pocket = Izbriši iz { -pocket-brand-name }a
 newtab-menu-archive-pocket = Arhiviraj v { -pocket-brand-name }
 newtab-menu-show-privacy-info = Naši pokrovitelji in vaša zasebnost
 newtab-menu-about-fakespot = O { -fakespot-brand-name(sklon: "mestnik") }
+# Report is a verb (i.e. report issue with the content).
+newtab-menu-report = Prijavi
 newtab-menu-report-content = Prijavi to vsebino
 # Context menu option to personalize New Tab recommended stories by blocking a section of stories,
 # e.g. "Sports". "Block" is a verb here.
@@ -558,3 +560,5 @@ newtab-report-content-spam-misleading =
     .label = Vsiljivo ali zavajajoče
 newtab-report-cancel = Prekliči
 newtab-report-submit = Pošlji
+newtab-toast-thanks-for-reporting =
+    .message = Hvala za prijavo.

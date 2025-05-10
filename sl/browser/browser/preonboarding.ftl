@@ -11,6 +11,7 @@ preonboarding-primary-cta = Potrdi in nadaljuj
 preonboarding-primary-cta-v2 = Nadaljuj
 # Labels for header style button that toggles showing the terms of use, privacy notice, and data preferences checklist
 preonboarding-manage-and-read-header = Spremenite nastavitve zbiranja podatkov, preberite pogoje uporabe in obvestilo o zasebnosti
+preonboarding-manage-and-read-header-v2 = Preberite pogoje uporabe in obvestilo o zasebnosti. Spremenite dodatne nastavitve.
 # Label for header style button that toggles showing the Terms of Use
 preonboarding-terms-of-use-header-button-title = Preberite pogoje uporabe
 # Label for header style button that toggles showing the Privacy Notice
@@ -19,8 +20,10 @@ preonboarding-privacy-notice-header-button-title = Preberite obvestilo o zasebno
 preonboarding-manage-data-header-button-title = Možnosti tehničnih podatkov in podatkov o interakcijah
 # Labels for header style button that toggles showing the Terms of Use (Variant B)
 preonboarding-terms-of-use-header-button-title-b = Pogoji uporabe { -brand-product-name(sklon: "rodilnik") }
+preonboarding-terms-of-use-header-button-title-b-v2 = Pogoji uporabe
 # Labels for header style button that toggles showing the Privacy Notice (Variant B)
 preonboarding-privacy-notice-header-button-title-b = Obvestilo o zasebnosti { -brand-product-name(sklon: "rodilnik") }
+preonboarding-privacy-notice-header-button-title-b-v2 = Obvestilo o zasebnosti
 # Description under label for header style buttons
 preonboarding-header-button-description = Preberite več
 # New user onboarding checklist

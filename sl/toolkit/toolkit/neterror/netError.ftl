@@ -54,6 +54,10 @@ neterror-dns-not-found-hint-header = <strong>Če je vneseni naslov pravi, lahko:
 neterror-dns-not-found-hint-try-again = poskusite znova pozneje
 neterror-dns-not-found-hint-check-network = preverite povezavo z omrežjem
 neterror-dns-not-found-hint-firewall = preverite, da ima { -brand-short-name } dovoljenje za dostop do spleta (morda ste povezani, vendar za požarnim zidom)
+neterror-dns-not-found-offline-hint-header = <strong>Kaj lahko storite v zvezi s tem?</strong>
+neterror-dns-not-found-offline-hint-different-device = Poskusite se povezati z druge naprave.
+neterror-dns-not-found-offline-hint-modem = Preverite modem ali usmerjevalnik.
+neterror-dns-not-found-offline-hint-reconnect = Odklopite se od omrežja Wi-Fi in se ponovno povežite z njim.
 
 ## TRR-only specific messages
 ## Variables:

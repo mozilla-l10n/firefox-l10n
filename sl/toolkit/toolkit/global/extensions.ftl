@@ -15,10 +15,17 @@ webext-perms-header-with-perms = Želite dodati { $extension }? Razširitev bo i
 webext-perms-header-unsigned = Želite dodati { $extension }? Ta razširitev je nepreverjena. Zlonamerne razširitve lahko ukradejo vaše zasebne podatke ali ogrozijo vaš računalnik. Razširitev dodajte samo v primeru, da zaupate izvoru.
 webext-perms-header-unsigned-with-perms = Želite dodati { $extension }? Ta razširitev je nepreverjena. Zlonamerne razširitve lahko ukradejo vaše zasebne podatke ali ogrozijo vaš računalnik. Razširitev dodajte samo v primeru, da zaupate izvoru. Razširitev bo imela dovoljenje za:
 webext-perms-sideload-header = { $extension } je bil dodan
+webext-perms-optional-perms-header2 = { $extension } zahteva dodatna dovoljenja
 webext-perms-optional-perms-header = { $extension } zahteva dodatna dovoljenja.
+webext-perms-header2 = Dodaj { $extension }
+webext-perms-list-intro-unsigned = Ta nepreverjena razširitev lahko ogrozi vašo zasebnost ali varnost vaše naprave. Dodajte jo samo v primeru, da zaupate viru.
 
 ## Headers used in the webextension permissions dialog, inside the content.
 
+webext-perms-header-required-perms = Zahtevana dovoljenja:
+webext-perms-header-optional-settings = Izbirne nastavitve:
+webext-perms-header-update-required-perms = Na novo zahtevana dovoljenja:
+webext-perms-header-optional-required-perms = Nova dovoljenja:
 
 ##
 
@@ -36,6 +43,9 @@ webext-perms-sideload-enable =
 webext-perms-sideload-cancel =
     .label = Prekliči
     .accesskey = P
+# Variables:
+#   $extension (String): replaced with the localized name of the extension.
+webext-perms-update-text2 = Na voljo je posodobitev za { $extension }. Pred namestitvijo posodobljene različice morate odobriti nova dovoljenja. Če izberete “Prekliči”, bo ohranjena trenutna različica razširitve.
 # Variables:
 #   $extension (String): replaced with the localized name of the extension.
 webext-perms-update-text = Razširitev { $extension } je bila posodobljena. Pred namestitvijo posodobljene različice morate odobriti nova dovoljenja. Če izberete “Prekliči”, bo ohranjena trenutna različica. Ta razširitev bo imela dovoljenje za:
@@ -130,3 +140,5 @@ webext-site-perms-midi-sysex = dostop do naprav MIDI s podporo SysEx
 
 ## Colorway theme migration
 
+webext-colorway-theme-migration-notification-message = <b>Vaša barvna kombinacija je bila odstranjena.</b> { -brand-shorter-name } je posodobil zbirko barvnih kombinacij. Najnovejše različice so na voljo na spletnem mestu dodatkov.
+webext-colorway-theme-migration-notification-button = Odkrijte posodobljene barvne kombinacije

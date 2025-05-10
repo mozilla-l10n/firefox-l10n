@@ -303,3 +303,11 @@ contextual-manager-passwords-discard-changes-heading-and-message =
     .message = Vaše spremembe se ne bodo shranile.
 contextual-manager-passwords-discard-changes-close-button = Zapri
 contextual-manager-passwords-discard-changes-go-back-button = Nazaj
+#   $total (number) - Total number of passwords
+contextual-manager-passwords-remove-all-passwords-checkbox =
+    { $total ->
+        [one] Da, odstrani geslo
+        [two] Da, odstrani gesli
+        [few] Da, odstrani gesla
+       *[other] Da, odstrani gesla
+    }
