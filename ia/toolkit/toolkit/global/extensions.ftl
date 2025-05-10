@@ -23,6 +23,8 @@ webext-perms-header2 = Adder { $extension }
 
 webext-perms-header-required-perms = Permissos requirite:
 webext-perms-header-optional-settings = Parametros optional:
+webext-perms-header-update-required-perms = Nove permissos obligatori:
+webext-perms-header-optional-required-perms = Nove permissos:
 
 ##
 
