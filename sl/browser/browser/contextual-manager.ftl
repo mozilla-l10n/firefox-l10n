@@ -280,6 +280,7 @@ contextual-manager-hide-password-button =
 # The message displayed when the search text does not match any of the user's saved logins.
 contextual-manager-passwords-no-passwords-found-header =
     .heading = Ni najdenih gesel
+contextual-manager-passwords-no-passwords-found-message = Najdeno ni bilo nobeno geslo. Poskusite znova z drugačnim iskanjem.
 
 ## When the user has no saved passwords, we display the following messages to inform the user they can save
 ## their passwords safely and securely in Firefox:
@@ -289,6 +290,8 @@ contextual-manager-passwords-no-passwords-header = Shranite si gesla na varno me
 # This string informs that we (Firefox) store all passwords securely and will notify them of any breaches and alerts their
 # passwords may be involved in.
 contextual-manager-passwords-no-passwords-message = Vsa gesla so šifrirana, mi pa bomo spremljali kraje podatkov in vas opozorili, če vas prizadenejo.
+# This string encourages the user to save their passwords to Firefox again.
+contextual-manager-passwords-no-passwords-get-started-message = Za začetek jih dodajte sem.
 # This string is displayed in a button. If the user clicks it, they will be taken to a form to create a new password.
 contextual-manager-passwords-add-manually = Dodaj ročno
 
