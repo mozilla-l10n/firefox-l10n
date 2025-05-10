@@ -45,6 +45,9 @@ webext-perms-sideload-cancel =
     .accesskey = C
 # Variables:
 #   $extension (String): replaced with the localized name of the extension.
+webext-perms-update-text2 = { $extension } ha essite actualisate. Tu debe approbar nove permissos ante que le version actualisate sera installate. Eliger “Cancellar” mantenera tu actual version del extension.
+# Variables:
+#   $extension (String): replaced with the localized name of the extension.
 webext-perms-update-text = { $extension } ha essite actualisate. Tu debe approbar le nove permissiones ante que le nove version es installate. Seliger “Cancellar” mantenera le version actual de tu extension. Iste extension habera le permission de:
 webext-perms-update-accept =
     .label = Actualisar
