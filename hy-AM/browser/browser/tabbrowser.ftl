@@ -218,6 +218,14 @@ tab-group-name-default = Անանուն խումբ
 ## Variables:
 ##  $tabCount (Number): the number of tabs that are affected by the action.
 
+tab-context-move-tab-to-new-group =
+    .label =
+        { $tabCount ->
+            [1] Հավելել ներդիրը նոր խմբում
+            [one] Հավելել ներդիրները նոր խմբում
+           *[other] G
+        }
+    .accesskey = G
 
 ## Open/saved tab group context menu
 
