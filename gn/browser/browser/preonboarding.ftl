@@ -7,8 +7,10 @@
 
 preonboarding-title = Eg̃uahẽporãite { -brand-product-name }-pe
 preonboarding-primary-cta = Emonei ha eku’ejey
+preonboarding-primary-cta-v2 = Ku’ejey
 # Labels for header style button that toggles showing the terms of use, privacy notice, and data preferences checklist
 preonboarding-manage-and-read-header = Eñangareko mba’ekuaarã ñembyaty ñembohekóre ha emoñe’ẽ ore mba’eporurã reko ha marandu’i ñemigua
+preonboarding-manage-and-read-header-v2 = Emoñe’ẽ Jeporu reko ha Marandu’i ñemigua. Eñangareko moĩporãha juajupy.
 # Label for header style button that toggles showing the Terms of Use
 preonboarding-terms-of-use-header-button-title = Emoñe’ẽ ore jeporurã rape
 # Label for header style button that toggles showing the Privacy Notice

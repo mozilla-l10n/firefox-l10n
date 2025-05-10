@@ -117,6 +117,8 @@ newtab-menu-delete-pocket = Embogue { -pocket-brand-name }-pe
 newtab-menu-archive-pocket = Eñongatu { -pocket-brand-name }-pe
 newtab-menu-show-privacy-info = Ore pytyvõhára ha iñemigua
 newtab-menu-about-fakespot = { -fakespot-brand-name } rehegua
+# Report is a verb (i.e. report issue with the content).
+newtab-menu-report = Momarandu
 newtab-menu-report-content = Emomarandu ko tetepy rehegua
 # Context menu option to personalize New Tab recommended stories by blocking a section of stories,
 # e.g. "Sports". "Block" is a verb here.

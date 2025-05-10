@@ -135,6 +135,7 @@ genai-onboarding-select-header = Eiporavo moñe’ẽrã ehecha hag̃ua ñemoñe
 genai-onboarding-select-description = Embosa’ývo moñe’ẽrã, roikuave’ẽ prompts oñemondokuaáva chatbot-pe. Ehaikuaa avei ne prompts teetéva.
 genai-onboarding-select-primary = Eñepyrũ echatea
 genai-chatbot-contextual-title = Eiporu chatbot IA emoambue’ỹre tendayke
+genai-chatbot-contextual-subtitle = Echatea ha eikundaha embojuajukuévo peteĩ chatbot IA { -brand-short-name } tenda yképe.
 genai-chatbot-contextual-button = Eiporavo chatbot
 
 ## Chatbot onboarding choices

@@ -15,10 +15,17 @@ webext-perms-header-with-perms = Hozzáadja a(z) { $extension } kiegészítőt? 
 webext-perms-header-unsigned = Hozzáadja a(z) { $extension } kiegészítőt? A kiegészítő nem ellenőrzött. A kártékony kiegészítők ellophatják a személyes adatait, vagy veszélyeztethetik a számítógépét. Csak akkor adja hozzá ezt a kiegészítőt, ha megbízik a forrásban.
 webext-perms-header-unsigned-with-perms = Hozzáadja a(z) { $extension } kiegészítőt? A kiegészítő nem ellenőrzött. A kártékony kiegészítők ellophatják a személyes adatait, vagy veszélyeztethetik a számítógépét. Csak akkor adja hozzá ezt a kiegészítőt, ha megbízik a forrásban. A kiegészítőnek a következőkhöz lesz engedélye:
 webext-perms-sideload-header = { $extension } hozzáadva
+webext-perms-optional-perms-header2 = A(z) { $extension } további engedélyeket igényel
 webext-perms-optional-perms-header = A(z) { $extension } további engedélyeket igényel.
+webext-perms-header2 = { $extension } hozzáadása
+webext-perms-list-intro-unsigned = Ez az ellenőrizetlen kiegészítő veszélyeztetheti az adatvédelmét, vagy kompromittálhatja az eszközét. Csak akkor adja hozzá, ha bízik a forrásban.
 
 ## Headers used in the webextension permissions dialog, inside the content.
 
+webext-perms-header-required-perms = Szükséges engedélyek:
+webext-perms-header-optional-settings = Nem kötelező beállítások:
+webext-perms-header-update-required-perms = Új szükséges engedélyek:
+webext-perms-header-optional-required-perms = Új engedélyek
 
 ##
 
@@ -36,6 +43,9 @@ webext-perms-sideload-enable =
 webext-perms-sideload-cancel =
     .label = Mégse
     .accesskey = M
+# Variables:
+#   $extension (String): replaced with the localized name of the extension.
+webext-perms-update-text2 = A(z) { $extension } frissítésre került. Jóvá kell hagynia az új engedélyeket, mielőtt a frissített verzió települ. A „Mégse” megtartja a kiegészítő jelenlegi verzióját.
 # Variables:
 #   $extension (String): replaced with the localized name of the extension.
 webext-perms-update-text = A(z) { $extension } frissítésre került. Jóvá kell hagynia az új engedélyeket, mielőtt a frissített verzió települ. A „Mégse” megtartja a kiegészítő jelenlegi verzióját. A kiegészítőnek a következőkhöz lesz engedélye:

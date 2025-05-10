@@ -429,9 +429,9 @@ about-logins-import-report-no-change =
     { $count ->
        *[other] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">重复的登录信息</div> <div data-l10n-name="not-imported">（未导入）</div>
     }
-about-logins-import-report-added2 = <div data-l10n-name="count">{ $count }</div><div data-l10n-name="details"> 个新密码已添加</div>
-about-logins-import-report-modified2 = <div data-l10n-name="count">{ $count }</div><div data-l10n-name="details"> 个现有项已更新</div>
-about-logins-import-report-no-change2 = <div data-l10n-name="count">{ $count }</div><div data-l10n-name="details"> 个重复项</div><div data-l10n-name="not-imported">（未导入）</div>
+about-logins-import-report-added2 = <div data-l10n-name="count">{ $count }</div><div data-l10n-name="details">新增的密码</div>
+about-logins-import-report-modified2 = <div data-l10n-name="count">{ $count }</div><div data-l10n-name="details">更新的现有密码</div>
+about-logins-import-report-no-change2 = <div data-l10n-name="count">{ $count }</div><div data-l10n-name="details">重复的密码</div><div data-l10n-name="not-imported">（未导入）</div>
 about-logins-import-report-error =
     { $count ->
        *[other] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">错误</div> <div data-l10n-name="not-imported">（未导入）</div>

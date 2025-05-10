@@ -476,6 +476,10 @@ pdfjs-editor-new-alt-text-create-automatically-button-label = Rnu aḍris niḍe
 pdfjs-editor-new-alt-text-not-now-button = Mačči tura
 pdfjs-editor-new-alt-text-error-title = D awezɣi timerna n uḍris niḍen s wudem awurman
 pdfjs-editor-new-alt-text-error-close-button = Mdel
+# This is a button that users can click to edit the alt text they have already added.
+pdfjs-editor-new-alt-text-added-button =
+    .aria-label = Yettwarna weḍris amlellay
+pdfjs-editor-new-alt-text-added-button-label = Yettwarna weḍris amlellay
 
 ## Image alt-text settings
 
@@ -519,6 +523,7 @@ pdfjs-editor-add-signature-type-input =
     .aria-label = Zru azmul-ik
     .placeholder = Zru azmul-ik
 pdfjs-editor-add-signature-draw-placeholder = Suneɣ azmul-ik
+pdfjs-editor-add-signature-draw-thickness-range-label = Tuzert
 
 ## Controls
 
