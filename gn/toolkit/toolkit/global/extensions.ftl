@@ -22,6 +22,9 @@ webext-perms-header2 = Embojuaju { $extension }
 ## Headers used in the webextension permissions dialog, inside the content.
 
 webext-perms-header-required-perms = Ñemoneĩ jerurepýva:
+webext-perms-header-optional-settings = Ñemboheko ikatúva:
+webext-perms-header-update-required-perms = Ñemoneĩ pyahu jerurepýva:
+webext-perms-header-optional-required-perms = Ñemoneĩ pyahu:
 
 ##
 
