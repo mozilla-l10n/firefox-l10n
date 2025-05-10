@@ -483,10 +483,16 @@ pdfjs-editor-new-alt-text-added-button-label = Yettwarna weḍris amlellay
 
 ## Image alt-text settings
 
+pdfjs-image-alt-text-settings-button =
+    .title = Iɣewwaṛen n weḍris amlellay n tugna
+pdfjs-image-alt-text-settings-button-label = Iɣewwaṛen n weḍris amlellay n tugna
+pdfjs-editor-alt-text-settings-dialog-label = Iɣewwaṛen n weḍris amlellay n tugna
+pdfjs-editor-alt-text-settings-automatic-title = Aḍris amlellay awurman
 pdfjs-editor-alt-text-settings-create-model-button-label = Rnu aḍris niḍen s wudem awurman
 pdfjs-editor-alt-text-settings-delete-model-button = Kkes
 pdfjs-editor-alt-text-settings-download-model-button = Sader
 pdfjs-editor-alt-text-settings-downloading-model-button = Asader…
+pdfjs-editor-alt-text-settings-editor-title = Amaẓrag n weḍris amlellay
 pdfjs-editor-alt-text-settings-close-button = Mdel
 
 ## "Annotations removed" bar
@@ -524,14 +530,25 @@ pdfjs-editor-add-signature-type-input =
     .placeholder = Zru azmul-ik
 pdfjs-editor-add-signature-draw-placeholder = Suneɣ azmul-ik
 pdfjs-editor-add-signature-draw-thickness-range-label = Tuzert
+pdfjs-editor-add-signature-image-placeholder = Seḥnucceḍ afaylu da akken ad t-saliṭ
+pdfjs-editor-add-signature-image-browse-link =
+    { PLATFORM() ->
+        [macos] neɣ fren ifuyla n tugna
+       *[other] neɣ inig ifuyla n tugna
+    }
 
 ## Controls
 
+pdfjs-editor-add-signature-description-label = Aglam (aḍris amlellay)
+pdfjs-editor-add-signature-description-input =
+    .title = Aglam (aḍris amlellay)
 pdfjs-editor-add-signature-description-default-when-drawing = Azmul
 pdfjs-editor-add-signature-clear-button-label = Sfeḍ azmul
 pdfjs-editor-add-signature-clear-button =
     .title = Sfeḍ azmul
 pdfjs-editor-add-signature-save-checkbox = Sekles azmul
+pdfjs-editor-add-signature-image-upload-error-title = Ur izmir ara ad yessali tugna
+pdfjs-editor-add-signature-image-upload-error-description = Ssefqed tuqqna-inek⋅inem n uẓeṭṭa neɣ ɛreḍ tugna-nniḍen.
 pdfjs-editor-add-signature-error-close-button = Mdel
 
 ## Dialog buttons
@@ -542,6 +559,9 @@ pdfjs-editor-edit-signature-update-button = Leqqem
 
 ## Main menu for adding/removing signatures
 
+pdfjs-editor-delete-signature-button1 =
+    .title = Kkes azmul yettwakelsen
+pdfjs-editor-delete-signature-button-label1 = Kkes azmul yettwakelsen
 
 ## Editor toolbar
 
