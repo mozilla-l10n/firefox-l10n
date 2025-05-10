@@ -18,6 +18,7 @@ webext-perms-sideload-header = { $extension } addite
 webext-perms-optional-perms-header2 = { $extension } require altere permissos
 webext-perms-optional-perms-header = { $extension } require altere permissiones.
 webext-perms-header2 = Adder { $extension }
+webext-perms-list-intro-unsigned = Iste extension non verificate poterea poner tu confidentialitate a risco o compromitter tu apparato. Solo adde lo si tu te fide del fonte.
 
 ## Headers used in the webextension permissions dialog, inside the content.
 
