@@ -8,6 +8,7 @@
 preonboarding-title = Üdvözli a { -brand-product-name }
 preonboarding-subtitle = A folytatással elfogadja a { -brand-product-name } felhasználási feltételeit és az Adatvédelmi nyilatkozatunkat. A böngésző fejlesztése érdekében a { -brand-product-name } diagnosztikai és interakciós adatokat küld a { -vendor-short-name(ending: "accented") }nak.
 preonboarding-primary-cta = Megerősítés és folytatás
+preonboarding-primary-cta-v2 = Folytatás
 # Labels for header style button that toggles showing the terms of use, privacy notice, and data preferences checklist
 preonboarding-manage-and-read-header = Adatgyűjtési beállítások kezelése, valamint a felhasználási feltételeinket és az adatvédelmi nyilatkozat elolvasása
 preonboarding-manage-and-read-header-v2 = Olvassa el a felhasználási feltételeket és az adatvédelmi nyilatkozatot. Kezeljen további beállításokat.

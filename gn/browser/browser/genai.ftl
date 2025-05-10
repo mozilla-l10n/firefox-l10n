@@ -134,6 +134,7 @@ genai-onboarding-lechat-learn = Eikuaave Le Chat rehegua
 genai-onboarding-select-header = Eiporavo moñe’ẽrã ehecha hag̃ua ñemoñe’ẽ
 genai-onboarding-select-description = Embosa’ývo moñe’ẽrã, roikuave’ẽ prompts oñemondokuaáva chatbot-pe. Ehaikuaa avei ne prompts teetéva.
 genai-onboarding-select-primary = Eñepyrũ echatea
+genai-chatbot-contextual-title = Eiporu chatbot IA emoambue’ỹre tendayke
 genai-chatbot-contextual-button = Eiporavo chatbot
 
 ## Chatbot onboarding choices
