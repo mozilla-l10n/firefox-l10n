@@ -7,7 +7,7 @@
 # https://specifications.freedesktop.org/desktop-entry-spec/desktop-entry-spec-latest.html
 
 # The entry name is the label on the desktop icon, among other things.
-desktop-entry-name = فيرفُكس
+desktop-entry-name = { -brand-shortcut-name }
 # The comment usually appears as a tooltip when hovering over application menu entry.
 desktop-entry-comment = تصفح شبكة الوِب العالمية
 desktop-entry-generic-name = متصفح الإنترنت
