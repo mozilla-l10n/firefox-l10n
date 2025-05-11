@@ -2,7 +2,7 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-xpinstall-prompt = { -brand-short-name } mpidì a stu situ di dumannàriti di nzitari prugrammi nnô to computer.
+xpinstall-prompt = { -brand-short-name } bluccau a stu situ di addumannàriti di nzitari prugrammi nnô to computer.
 
 ## Variables:
 ##   $host (String): The hostname of the site the add-on is being installed from.
