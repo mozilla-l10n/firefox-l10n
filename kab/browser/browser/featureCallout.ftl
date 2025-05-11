@@ -103,6 +103,7 @@ sidebar-customization-callout-dismiss-button = Ffer afeggag adisan
 
 ## Sidebar Callout Survey Strings
 
+sidebar-callout-survey-title = Ɛawen i usemɣer n { -brand-short-name }
 sidebar-callout-survey-privacy-notice-link = Tasertit n tbaḍnit
 sidebar-callout-survey-very-satisfied = Yumer aṭas
 sidebar-callout-survey-satisfied = Y·Tumer

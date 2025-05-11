@@ -1292,6 +1292,7 @@ permissions-addon-exceptions =
 collection-header = Alqqaḍ d useqdec n isefka { -brand-short-name }
 collection-header2 = Alqqaḍ d useqdec n yisefka { -brand-short-name }
     .searchkeywords = telemetry
+preferences-view-profiles = Sken akk imaɣnuten
 collection-description = Ad k-d-nefk afus akken ad tferneḍ aleqqwaḍ n wayen kan ilaqen i weqaεed n { -brand-short-name } i yal yiwen. Ad k-d-nsuter yal tikkelt tasiregt send ad nawi talɣut tudmawant.
 collection-privacy-notice = Tasertit n tbaḍnit
 collection-health-report-telemetry-disabled = Ur tezgiḍ teǧǧiḍ { -vendor-short-name } ad d-yelqeḍ isefka itiknikanen akked wid n temyigawt. Meṛṛa isefka yezrin ad ttwakksen deg 30 n wussan.
@@ -1303,9 +1304,15 @@ collection-health-report =
     .label = Sireg { -brand-short-name } ad yazen isefka itiknikanen ɣer { -vendor-short-name }
     .accesskey = r
 collection-health-report-link = Lmed ugar
+collection-studies2 =
+    .label = Sbedd syen bdu almad
+collection-studies-description = Ɛreḍ timahilin d tektiwin send ma ad asent-nserrḥen akk i medden.
 collection-studies =
     .label = Sireg { -brand-short-name } ad yessebded sakin ad isenker tizrawin
 collection-studies-link = Wali tizrawin n { -brand-short-name }
+# This message is displayed above disabled data sharing options in developer builds
+# or builds with no Telemetry support available.
+collection-health-report-disabled2 = Aneqqis n isefka ur irmid ara i uswel-a n usefsu.
 addon-recommendations =
     .label = Sireg { -brand-short-name } ad yeg iwellihen n usiɣzef udmawan
 addon-recommendations-link = Issin ugar
