@@ -283,7 +283,15 @@ discopane-notice-recommendations2 =
         Некаторыя з гэтых рэкамендацый персаніфікаваныя. Яны заснаваны на іншых
         пашырэннях, якія вы ўсталявалі, перавагах профілю і статыстыцы выкарыстання.
 discopane-notice-learn-more = Даведацца больш
+# Notice for the colorway theme removal
+colorway-removal-notice-message =
+    .heading = Вашы тэмы расфарбоўкі былі выдалены.
+    .message =
+        { -brand-product-name } абнавіў сваю калекцыю расфарбовак. Мы
+        выдалілі старыя версіі з вашага спісу "Захаваныя тэмы". Атрымайце
+        новыя версіі на сайце дадаткаў.
 colorway-removal-notice-learn-more = Падрабязней
+colorway-removal-notice-button = Атрымаць абноўленыя тэмы расфарбовак
 privacy-policy = Палітыка прыватнасці
 # Refers to the author of an add-on, shown below the name of the add-on.
 # Variables:
@@ -311,6 +319,16 @@ discopane-intro2 =
     прыватнасць, павялічыць прадукцыйнасць, палепшыць мультымедыя, змяніць выгляд
     { -brand-product-name } і багата чаго яшчэ. Гэтыя невялікія праграмы часта распрацаваныя
     трэцімі асобамі. Вось падборка, якую { -brand-product-name } <a data-l10n-name="learn-more-trigger">рэкамендуе</a>
+    для выключнай бяспекі, прадукцыйнасці і функцыянальнасці.
+# Explanatory introduction to the list of recommended add-ons. The action word
+# ("recommends") in the final sentence is a link to external documentation.
+# We hard code "Firefox" because we do not want to imply that a Firefox fork is
+# making this recommendation.
+discopane-intro3 =
+    Пашырэнні і тэмы дазваляюць уладкаваць { -brand-product-name }. Яны могуць павысіць
+    прыватнасць, павялічыць прадукцыйнасць, палепшыць мультымедыя, змяніць выгляд
+    { -brand-product-name } і багата чаго яшчэ. Гэтыя невялікія праграмы часта распрацаваныя
+    трэцімі асобамі. Вось падборка, якую Firefox <a data-l10n-name="learn-more-trigger">рэкамендуе</a>
     для выключнай бяспекі, прадукцыйнасці і функцыянальнасці.
 
 ## Add-on actions
@@ -448,6 +466,13 @@ addon-badge-recommended3 =
 # by Mozilla and we don't want forks to display "by Fork".
 addon-badge-line4 =
     .title = Афіцыйнае пашырэнне, створанае Mozilla. Адпавядае стандартам бяспекі і прадукцыйнасці
+# This string needs to work in the context of other forks that are not Firefox
+# or built by Mozilla. In particular, we do not want to imply that an
+# organisation other than Mozilla or the Firefox team are performing the
+# security or performance reviews. As such, we avoid personalising language
+# like the words "our" or "we".
+addon-badge-verified4 =
+    .title = Гэта пашырэнне праверана на адпаведнасць стандартам бяспекі і прадукцыйнасці
 addon-badge-verified3 =
     .title = Гэта пашырэнне праверана на адпаведнасць нашым стандартам бяспекі і прадукцыйнасці
 # This string needs to work in the context of other forks that are not Firefox
