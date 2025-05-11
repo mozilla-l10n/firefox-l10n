@@ -15,10 +15,17 @@ webext-perms-header-with-perms = { $extension } hinzufügen? Diese Erweiterung w
 webext-perms-header-unsigned = { $extension } hinzufügen? Diese Erweiterung wurde nicht verifiziert. Böswillige Erweiterungen können private Informationen stehlen oder Ihren Computer übernehmen. Fügen Sie diese nur hinzu, wenn Sie der Quelle vertrauen.
 webext-perms-header-unsigned-with-perms = { $extension } hinzufügen? Diese Erweiterung wurde nicht verifiziert. Böswillige Erweiterungen können private Informationen stehlen oder Ihren Computer übernehmen. Fügen Sie diese nur hinzu, wenn Sie der Quelle vertrauen. Diese Erweiterung wird folgende Berechtigungen erhalten:
 webext-perms-sideload-header = { $extension } hinzugefügt
+webext-perms-optional-perms-header2 = { $extension } bittet um zusätzliche Berechtigungen
 webext-perms-optional-perms-header = { $extension } bittet um zusätzliche Berechtigungen.
+webext-perms-header2 = { $extension } hinzufügen
+webext-perms-list-intro-unsigned = Diese nicht verifizierte Erweiterung könnte Ihre Privatsphäre oder Ihr Gerät gefährden. Fügen Sie sie nur hinzu, wenn Sie der Quelle vertrauen.
 
 ## Headers used in the webextension permissions dialog, inside the content.
 
+webext-perms-header-required-perms = Benötigte Berechtigungen:
+webext-perms-header-optional-settings = Optionale Einstellungen:
+webext-perms-header-update-required-perms = Neue benötigte Berechtigungen:
+webext-perms-header-optional-required-perms = Neue Berechtigungen:
 
 ##
 
@@ -36,6 +43,9 @@ webext-perms-sideload-enable =
 webext-perms-sideload-cancel =
     .label = Abbrechen
     .accesskey = b
+# Variables:
+#   $extension (String): replaced with the localized name of the extension.
+webext-perms-update-text2 = { $extension } wurde aktualisiert. Sie müssen neue Berechtigungen erteilen, bevor die aktualisierte Version installiert wird. Wenn Sie "Abbrechen" auswählen, wird die aktuelle Erweiterungsversion beibehalten.
 # Variables:
 #   $extension (String): replaced with the localized name of the extension.
 webext-perms-update-text = { $extension } wurde aktualisiert. Sie müssen die neuen Berechtigungen erteilen, um die neue Version zu installieren. Durch das Auswählen von "Abbrechen" bleibt die derzeitige Version installiert. Diese Erweiterung wird folgende Berechtigungen haben:
