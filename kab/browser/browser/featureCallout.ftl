@@ -61,6 +61,9 @@ split-dismiss-button-show-fewer-option =
 # Opens about:preferences#general-cfrfeatures
 split-dismiss-button-manage-settings-option =
     .label = Sefrek iɣewwaren
+# Accessibility label for dropdown menu button
+split-dismiss-button-default-label =
+    .title = Ugar n yiɣewwaren
 
 ## Login Status Advisory Callout (points to the account icon)
 
@@ -68,12 +71,19 @@ split-dismiss-button-manage-settings-option =
 ## Bookmarks toolbar callout strings
 
 bookmarks-toolbar-callout-1-primary-button-label = Rnu tacreṭ n usebter
+bookmarks-toolbar-callout-1-secondary-button-label = Ala, tanemmirt
+bookmarks-toolbar-callout-2a-primary-button-label = Awi-t
+# Reverts the bookmarks toolbar to the default setting
+bookmarks-toolbar-callout-2a-secondary-button-label = Ffer afeggag n yifecka
+# Reverts the bookmarks toolbar to the default setting
+bookmarks-toolbar-callout-2b-secondary-button-label = Ala, tanemmirt
 
 ## Perplexity callout strings
 
 
 ## Sidebar Strings
 
+sidebar-button-callout-title = Sken izwal n waccaren deg ufeggag adisan
 
 ## Sidebar Vertical Tabs Strings
 

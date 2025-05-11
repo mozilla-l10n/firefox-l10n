@@ -194,11 +194,30 @@ contextual-manager-alert-icon =
 contextual-manager-origin-login-line =
     .aria-label = Rzu ɣer { $url }
     .title = Rzu ɣer { $url }
+# Variables
+#   $username (string) - The username associated with the login
+contextual-manager-username-login-line =
+    .aria-label = Nɣel isem n useqdac { $username }
+    .title = Nɣel isem n useqdac { $username }
+# "(Warning)" indicates that a login's username field has an alert icon.
+# Variables
+#   $username (string) - The username associated with the login
+contextual-manager-username-login-line-with-alert =
+    .aria-label = Nɣel isem n useqdac { $username } (ḥader)
+    .title = Nɣel isem n useqdac { $username } (ḥader)
 contextual-manager-password-login-line =
     .aria-label = Nɣel awal n uεeddi
     .title = Nɣel awal n uεeddi
+# "(Warning)" indicates that a login's password field has an alert icon.
+contextual-manager-password-login-line-with-alert =
+    .aria-label = Nɣel isem n useqdac (ḥ)
+    .title = Nɣel isem n useqdac (ḥader)
 contextual-manager-edit-login-button = Ẓreg
     .tooltiptext = Ẓreg awal n uεeddi
+contextual-manager-view-alert-heading =
+    .heading = Wali alɣu
+contextual-manager-view-alert-button =
+    .tooltiptext = Senqed alɣu
 contextual-manager-show-password-button =
     .aria-label = Sken awal n uεeddi
     .title = Sken awal n uεeddi
@@ -213,9 +232,25 @@ contextual-manager-passwords-no-passwords-found-message = Ulac awalen n uεeddi 
 ## When the user has no saved passwords, we display the following messages to inform the user they can save
 ## their passwords safely and securely in Firefox:
 
+# This string encourages the user to save their passwords in Firefox (the "safe spot").
+contextual-manager-passwords-no-passwords-header = Sekles awalen-ik uffiren deg wadeg aɣellsan.
+# This string encourages the user to save their passwords to Firefox again.
+contextual-manager-passwords-no-passwords-get-started-message = Rnu-ten dagi i wakken ad tebduḍ.
+# This string is displayed in a button. If the user clicks it, they will be taken to a form to create a new password.
+contextual-manager-passwords-add-manually = Rnu s ufus
 
 ## When the user cancels a login that's currently being edited, we display a message to confirm whether
 ## or not the user wants to discard their current edits to the login.
 
+contextual-manager-passwords-discard-changes-heading-and-message =
+    .heading = Mdel war asekles?
+    .message = Isenfal-ik ur ttwaskelsen ara.
 contextual-manager-passwords-discard-changes-close-button = Mdel
 contextual-manager-passwords-discard-changes-go-back-button = Uɣal
+#   $total (number) - Total number of passwords
+contextual-manager-passwords-remove-all-passwords-checkbox =
+    { $total ->
+        [1] Ih, kkes awal n uεeddi
+        [one] Ih, kkes awal n uεeddi
+       *[other] Ih, kkes awalen n uεeddi
+    }
