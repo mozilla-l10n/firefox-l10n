@@ -8,6 +8,7 @@
 preonboarding-title = Le damos la bienvenida a { -brand-product-name }
 preonboarding-subtitle = Al continuar, acepta los términos de uso de { -brand-product-name } y nuestro aviso de privacidad. Para ayudar a mejorar el navegador, { -brand-product-name } envía datos de diagnóstico e interacción a { -vendor-short-name }.
 preonboarding-primary-cta = Confirmar y continuar
+preonboarding-primary-cta-v2 = Continuar
 # Labels for header style button that toggles showing the terms of use, privacy notice, and data preferences checklist
 preonboarding-manage-and-read-header = Administre la configuración de la recopilación de datos y lea nuestros términos de uso y nuestro aviso de privacidad
 preonboarding-manage-and-read-header-v2 = Lea los Términos de uso y el Aviso de privacidad. Administre ajustes adicionales.
