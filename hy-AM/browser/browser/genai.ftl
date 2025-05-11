@@ -55,7 +55,7 @@ genai-options-reload-generic =
     .label = Կրկին բեռնեք ԱԲ չաթբոտը
 # $provider (string) - name of the provider
 genai-options-reload-provider =
-    .label = Կրկին բեռնեք { $provider }-ը
+    .label = Կրկին բեռնել { $provider }-ը
 genai-options-show-shortcut =
     .label = Գրվածքն ընտրելիս ցուցադրել դյուրանցումը
 genai-options-hide-shortcut =
