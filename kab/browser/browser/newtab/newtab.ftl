@@ -408,18 +408,28 @@ newtab-topic-selection-button-update-interests = Leqqem ismenyaf-ik
 ## "Follow", "unfollow", and "following" are social media terms that refer to subscribing to or unsubscribing from a section of stories.
 ## e.g. Following the travel section of stories.
 
+newtab-section-follow-button = Ḍfer
+newtab-section-following-button = Aḍfar
+newtab-section-unfollow-button = Ur ṭṭafar ara
 
 ## Button to block/unblock listed topics
 ## "Block", "unblocked", and "blocked" are social media terms that refer to hiding a section of stories.
 ## e.g. Blocked the politics section of stories.
 
+newtab-section-block-button = Sewḥel
+newtab-section-blocked-button = Iwḥel
+newtab-section-unblock-button = Serreḥ
 
 ## Confirmation modal for blocking a section
 
+newtab-section-cancel-button = Mačči tura
 
 ## Strings for custom wallpaper highlight
 
+newtab-section-mangage-topics-title = Isental
+newtab-section-mangage-topics-followed-topics-empty-state = Ur teḍfireḍ ula d yiwen usentel akka ar tura.
 newtab-section-mangage-topics-blocked-topics = Iwḥel
+newtab-section-mangage-topics-blocked-topics-empty-state = Ur tesweḥleḍ ula d yiwen usentel akka ar tura.
 
 ## Strings for download mobile highlight
 

@@ -21,6 +21,9 @@ unified-extensions-manage-extensions =
 unified-extensions-item-open-menu =
     .aria-label = Ldi umuɣ i { $extensionName }
 unified-extensions-item-message-manage = Sefrek asiɣzef
+# Variables:
+#   $extensionName (String) - Name of the user-enabled soft-blocked extension.
+unified-extensions-item-messagebar-softblocked = { $extensionName } ur iquder ara tasertit n Mozilla. Aseqdec-is yezmer ad d-yeglu s wuguren.
 
 ## Extension's context menu
 

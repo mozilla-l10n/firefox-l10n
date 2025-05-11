@@ -11,12 +11,20 @@ autofill-options-link-osx = Ismenyifen n usekcem s wudem awurman
 
 ## The credit card capture doorhanger
 
+# Used on the doorhanger when users submit payment with credit card.
+credit-card-save-doorhanger-header = Asekles n tkarḍa-a s wudem aɣellsan?
+credit-card-save-doorhanger-description = { -brand-short-name } ittewgelhin uṭṭun n tkarḍa-k·m. Tangalt-ik n tɣellist ur tezmir ara ad tettwasekles.
+credit-card-capture-save-button =
+    .label = Sekles
+    .accessKey = S
 credit-card-capture-cancel-button =
     .label = Mačči tura
     .accessKey = R
 
 # Used on the doorhanger when an credit card change is detected.
 
+credit-card-update-doorhanger-header = Leqqem takarḍa?
+credit-card-update-doorhanger-description = Takarḍa ara yettwaleqqmen:
 # Label for the button in the dropdown menu used to clear the populated form.
 autofill-clear-form-label = Sfeḍ asebter n taččart tawurmant
 # Used as a label for the button, displayed at the bottom of the dropdown suggestion, to open Form Autofill browser preferences.
