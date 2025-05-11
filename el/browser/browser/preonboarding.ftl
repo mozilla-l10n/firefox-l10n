@@ -8,6 +8,7 @@
 preonboarding-title = Καλώς ορίσατε στο { -brand-product-name }
 preonboarding-subtitle = Συνεχίζοντας, συμφωνείτε με τους Όρους χρήσης του { -brand-product-name } και τη Σημείωση απορρήτου μας. Για τη βελτίωση του προγράμματος περιήγησης, το { -brand-product-name } στέλνει διαγνωστικά δεδομένα και δεδομένα αλληλεπίδρασης στη { -vendor-short-name }.
 preonboarding-primary-cta = Επιβεβαίωση και συνέχεια
+preonboarding-primary-cta-v2 = Συνέχεια
 # Labels for header style button that toggles showing the terms of use, privacy notice, and data preferences checklist
 preonboarding-manage-and-read-header = Διαχειριστείτε τις ρυθμίσεις συλλογής δεδομένων και διαβάστε τους Όρους Χρήσης και τη Σημείωση απορρήτου μας
 preonboarding-manage-and-read-header-v2 = Διαβάστε τους Όρους χρήσης και τη Σημείωση απορρήτου. Διαχειριστείτε περισσότερες ρυθμίσεις.
