@@ -25,6 +25,8 @@ return-to-amo-subtitle = Igerrez, tesεiḍ { -brand-short-name }
 return-to-amo-addon-title = Tura ad ak·am-id-nmudd <img data-l10n-name="icon"/> <b>{ $addon-name }.</b>
 return-to-amo-add-extension-label = Rnu asiɣzef
 return-to-amo-add-theme-label = Rnu asentel
+return-to-amo-theme-install-complete-label = Asentel yettwasbedd
+return-to-amo-extension-install-complete-label = Asiɣzef yettwasbedd
 
 ##  Variables: $addon-name (String) - Name of the add-on to be installed
 
@@ -394,6 +396,11 @@ onboarding-checklist-sign-up = Kcem neɣ qqen ɣer umiḍan-ik
 
 ## Multi Profiles feature onboarding messages
 
+multi-profile-callout-cta = Rnu amaɣnu
 
 ## Desktop to Mobile Adoption feature callout strings
 
+dismiss-button-label = Zgel
+sync-to-mobile-button-label = Mtawi ɣer uziraz
+desktop-to-mobile-qr-code-alt =
+    .aria-label = Tangalt QR i usader n { -brand-product-name } i uziraz

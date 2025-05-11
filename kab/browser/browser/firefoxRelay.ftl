@@ -25,6 +25,8 @@ firefox-relay-opt-in-subtitle-1 = Seqdec ugelmus n yimayl n { -relay-brand-name 
 firefox-relay-use-mask-title = Seqdec ugelmus n yimayl n { -relay-brand-name }
 # This is followed, on a new line, by firefox-relay-opt-in-subtitle-b
 firefox-relay-opt-in-title-b = Awi agelmus n yimayl n baṭel
+# This is preceded by firefox-relay-opt-in-title-b (on a different line)
+firefox-relay-opt-in-subtitle-b = Mmesten tabewwaḍt-ik seg yispamen
 firefox-relay-opt-in-confirmation-enable-button =
     .label = Seqdec agelmus n yimayl
     .accesskey = S

@@ -80,6 +80,8 @@ bookmarks-toolbar-callout-2b-secondary-button-label = Ala, tanemmirt
 
 ## Perplexity callout strings
 
+perplexity-callout-secondary-label-1 = Zgel
+perplexity-callout-secondary-label-2 = Awi-t
 
 ## Sidebar Strings
 
@@ -117,4 +119,5 @@ sidebar-callout-survey-submit = Azen
 sidebar-callout-survey-thank-you = Tanemmirt ɣef tekti-ik!
 unified-search-callout-primary-label = Ɣer zdat
 unified-search-callout-secondary-label = Zgel
+unified-search-engines-callout-title = Nadi s yinegzumen
 unified-search-engines-callout-primary-label = Awi-t

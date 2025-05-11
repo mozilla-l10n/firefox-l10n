@@ -117,6 +117,8 @@ newtab-menu-delete-pocket = Kkes si { -pocket-brand-name }
 newtab-menu-archive-pocket = Ḥrez di { -pocket-brand-name }
 newtab-menu-show-privacy-info = Wid yettbeddan fell-aɣ akked tudert-ik tabaḍnit
 newtab-menu-about-fakespot = Γef { -fakespot-brand-name }
+# Report is a verb (i.e. report issue with the content).
+newtab-menu-report = Aneqqis
 newtab-menu-report-content = Ccetki ɣef ugbur-a
 # Context menu option to personalize New Tab recommended stories by blocking a section of stories,
 # e.g. "Sports". "Block" is a verb here.
@@ -128,6 +130,7 @@ newtab-menu-section-unfollow = Ur ṭṭafar ara asentel-a
 ## Context menu options for sponsored stories and new ad formats on New Tab.
 
 newtab-menu-manage-sponsored-content = Sefrek agbur yesεan bab
+newtab-menu-our-sponsors-and-your-privacy = Wid yettbeddan fell-aɣ akked tudert-ik tabaḍnit
 newtab-menu-report-this-ad = Ccetki ɣef udellel-a
 
 ## Message displayed in a modal window to explain privacy and provide context for sponsored content.
@@ -322,6 +325,7 @@ newtab-wallpaper-orange = Ačinawi
 newtab-wallpaper-pink = Axuxi
 newtab-wallpaper-red = Azggaɣ
 newtab-wallpaper-dark-blue = Amidadi iḥemqen
+newtab-wallpaper-dark-purple = Axuxi Iḥemqen
 newtab-wallpaper-brown = Aqehwi
 
 ## Abstract
@@ -422,3 +426,5 @@ newtab-section-mangage-topics-blocked-topics = Iwḥel
 
 ## Strings for reporting ads and content
 
+newtab-report-cancel = Sefsex
+newtab-report-submit = Azen
