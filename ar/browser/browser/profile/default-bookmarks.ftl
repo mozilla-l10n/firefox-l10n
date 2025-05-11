@@ -24,9 +24,9 @@ default-bookmarks-firefox-community = كيفية المساهمة
 # link title for https://www.mozilla.org/about/
 default-bookmarks-firefox-about = معلومات عنا
 # Firefox Nightly links folder name
-default-bookmarks-nightly-heading = موارد فيَرفُكس الليلي
+default-bookmarks-nightly-heading = موارد Firefox الليلي
 # Nightly builds only, link title for https://blog.nightly.mozilla.org/
-default-bookmarks-nightly-blog = مدونة فيَرفُكس الليلي
+default-bookmarks-nightly-blog = مدونة Firefox الليلي
 # Nightly builds only, link title for https://bugzilla.mozilla.org/
 default-bookmarks-bugzilla = متتبع عِلَل Mozilla
 # Nightly builds only, link title for https://developer.mozilla.org/

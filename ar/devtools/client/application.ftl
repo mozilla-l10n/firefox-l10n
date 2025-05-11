@@ -62,7 +62,7 @@ manifest-loaded-ok = حُمّل البيان.
 manifest-loaded-error = حدث خطأ أثناء تحميل البيان:
 # Text displayed as an error when there has been a Firefox DevTools error while
 # trying to load the manifest
-manifest-loaded-devtools-error = خطأ في أدوات فَيَرفُكس للمطوّرين
+manifest-loaded-devtools-error = خطأ في أدوات Firefox للمطوّرين
 # Text displayed when the page has no manifest available
 manifest-non-existing = لم نجد بيانًا نفحصه.
 # Text displayed as the alt attribute for <img> tags showing the icons in the
