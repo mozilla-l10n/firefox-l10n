@@ -37,8 +37,8 @@ xpinstall-prompt-install =
 
 ##
 
-xpinstall-disabled-locked = U nzitamentu dî prugrammi fu disabbilitatu di l'amministraturi dû sistema.
-xpinstall-disabled-by-policy = U nzitamentu dî prugrammi fu disabbilitatu dâ to urganizzazzioni.
+xpinstall-disabled-locked = U nzitamentu dî prugrammi fu sdisabbilitatu di l'amministraturi dû sistema.
+xpinstall-disabled-by-policy = U nzitamentu dî prugrammi fu sdisabbilitatu dâ to urganizzazzioni.
 xpinstall-disabled = P'accamora u nzitamentu dî prugrammi è sdisabbilitatu. Ammacca «Abbìlita» e torna a prova.
 xpinstall-disabled-button =
     .label = Abbìlita
@@ -48,6 +48,15 @@ xpinstall-disabled-button =
 #   $addonName (String): the name of the add-on.
 #   $addonId (String): the ID of add-on.
 addon-install-blocked-by-policy = { $addonName } ({ $addonId }) fu bluccatu di l'amministraturi dû to sistema.
+# This message is shown when the installation of add-ons from a domain is blocked by enterprise policy.
+addon-domain-blocked-by-policy = L'amministraturi dû to sistema bluccau a stu situ di addumannàriti di nzitari prugrammi nnô to computer.
+# This message is shown when the installation of an add-on is blocked by enterprise policy.
+# Variables:
+#   $addonName (String): the name of the add-on.
+#   $addonId (String): the ID of add-on.
+addon-installation-blocked-by-policy = { $addonName } ({ $addonId }) fu bluccatu dâ to urganizzazzioni.
+# This message is shown when the installation of add-ons from a domain is blocked by enterprise policy.
+addon-install-domain-blocked-by-policy = A to urganizzazzioni bluccau a stu situ di addumannàriti di nzitari prugrammi nnô to computer.
 addon-install-full-screen-blocked = Nun è pussìbbili nzitari na juncitina quannu sì, o prima di tràsiri, 'n mudalità a tuttu schirmu.
 # Variables:
 #   $addonName (String): the localized name of the sideloaded add-on.
@@ -63,8 +72,11 @@ webext-imported-addons = Cumpleta u nzitamentu dî stinneri mpurtati nne { -bran
 ## Add-on removal warning
 
 # Variables:
+#  $name (String): The name of the add-on that will be removed.
+addon-removal-title = Vo' livari { $name }?
+# Variables:
 #   $name (String): the name of the extension which is about to be removed.
-addon-removal-message = Livari { $name } di { -brand-shorter-name }?
+addon-removal-message = Vo' livari { $name } di { -brand-shorter-name }?
 addon-removal-button = Leva
 addon-removal-abuse-report-checkbox = Riporta stu stinneriu a { -vendor-short-name }
 # Variables:
