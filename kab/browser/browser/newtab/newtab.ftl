@@ -423,18 +423,33 @@ newtab-section-unblock-button = Serreḥ
 ## Confirmation modal for blocking a section
 
 newtab-section-cancel-button = Mačči tura
+newtab-section-confirm-block-topic-p1 = D tidet tebɣiḍ ad tesweḥleḍ asental-a?
+# Variables:
+#   $topic (string) - Name of topic that user is blocking
+newtab-section-block-topic-button = Sewḥel { $topic }
 
 ## Strings for custom wallpaper highlight
 
 newtab-section-mangage-topics-title = Isental
+newtab-section-manage-topics-button-v2 =
+    .label = Sefrek isental
+newtab-section-mangage-topics-followed-topics = Yettwaḍfar
 newtab-section-mangage-topics-followed-topics-empty-state = Ur teḍfireḍ ula d yiwen usentel akka ar tura.
 newtab-section-mangage-topics-blocked-topics = Iwḥel
 newtab-section-mangage-topics-blocked-topics-empty-state = Ur tesweḥleḍ ula d yiwen usentel akka ar tura.
+newtab-custom-wallpaper-cta = Ɛreḍ-it
 
 ## Strings for download mobile highlight
 
+newtab-download-mobile-highlight-title = Sader { -brand-product-name } i uziraz
+newtab-download-mobile-highlight-image =
+    .aria-label = Tangalt QR i usader n { -brand-product-name } i uziraz
 
 ## Strings for reporting ads and content
 
+newtab-report-content-why-reporting-this =
+    .label = Ayɣer i d-tuzneḍ aneqqis ɣef waya?
+newtab-report-content-wrong-category =
+    .label = Yir taggayt
 newtab-report-cancel = Sefsex
 newtab-report-submit = Azen
