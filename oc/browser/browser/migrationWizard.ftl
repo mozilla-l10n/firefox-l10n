@@ -188,6 +188,8 @@ migration-safari-password-import-step1 = Dins Safari, dobrissètz lo menú « Sa
 migration-safari-password-import-step2 = Causissètz lo boton <img data-l10n-name="safari-icon-3dots"/> puèi « Exportar totes los senhals »
 migration-safari-password-import-step3 = Enregistratz lo fichièr de senhals
 migration-safari-password-import-step4 = Utilizatz « Seleccionar un fichièr » çai jos per causir lo fichièrs de senhals qu’avètz salvat
+migration-manual-password-import-skip-button = Passar
+migration-manual-password-import-select-button = Seleccionar un fichièr
 migration-safari-password-import-skip-button = Passar
 migration-safari-password-import-select-button = Seleccionar un fichièr
 # Shown in the migration wizard after importing bookmarks from another
