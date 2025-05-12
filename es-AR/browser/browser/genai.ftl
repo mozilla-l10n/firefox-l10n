@@ -138,6 +138,7 @@ genai-onboarding-select-header = Seleccionar texto para ver sugerencias
 genai-onboarding-select-description = Al seleccionar texto, sugeriremos prompts que se pueden enviar al chatbot. También puede escribir sus propios prompts.
 genai-onboarding-select-primary = Empezar a chatear
 genai-chatbot-contextual-title = Usar un chatbot de IA sin cambiar de pestaña
+genai-chatbot-contextual-subtitle = Chatee y navegue simultáneamente al añadir un chatbot de IA en la barra lateral de { -brand-short-name }.
 genai-chatbot-contextual-button = Seleccionar un chatbot
 
 ## Chatbot onboarding choices
