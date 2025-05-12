@@ -21,7 +21,9 @@ webext-perms-header2 = { $extension } toevoegen
 
 ## Headers used in the webextension permissions dialog, inside the content.
 
+webext-perms-header-required-perms = Vereiste machtigingen:
 webext-perms-header-optional-settings = Optionele instellingen:
+webext-perms-header-update-required-perms = Nieuwe vereiste machtigingen:
 webext-perms-header-optional-required-perms = Nieuwe toestemmingen:
 
 ##
