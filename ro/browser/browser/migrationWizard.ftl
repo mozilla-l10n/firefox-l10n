@@ -119,6 +119,8 @@ migration-wizard-progress-icon-completed =
 migration-safari-password-import-header = Importă parole din Safari
 migration-safari-password-import-step3 = Salvează fișierul cu parole
 migration-safari-password-import-step4 = Folosește „Selectează un fișier” de mai jos pentru a alege fișierul cu parole pe care l-ai salvat
+migration-manual-password-import-skip-button = Omite
+migration-manual-password-import-select-button = Selectează un fișier
 migration-safari-password-import-skip-button = Omite
 migration-safari-password-import-select-button = Selectează un fișier
 # Shown in the migration wizard after importing bookmarks from another
