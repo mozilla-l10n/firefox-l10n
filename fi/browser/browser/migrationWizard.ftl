@@ -196,6 +196,8 @@ migration-safari-password-import-step1 = Avaa Safari, napsauta “Safari”-vali
 migration-safari-password-import-step2 = Napsauta <img data-l10n-name="safari-icon-3dots"/>-painiketta ja valitse “Vie kaikki salasanat”
 migration-safari-password-import-step3 = Tallenna salasanatiedosto
 migration-safari-password-import-step4 = Napsauta "Valitse tiedosto" alla valitaksesi tallentamasi salasanatiedoston
+migration-manual-password-import-skip-button = Ohita
+migration-manual-password-import-select-button = Valitse tiedosto
 migration-safari-password-import-skip-button = Ohita
 migration-safari-password-import-select-button = Valitse tiedosto
 # Shown in the migration wizard after importing bookmarks from another
