@@ -205,7 +205,7 @@ master-password-reload-button =
 confirmation-dialog-cancel-button = 取消
 confirmation-dialog-dismiss-button =
     .title = 取消
-about-logins-confirm-remove-dialog-title = 要移除此登录信息吗？
+about-logins-confirm-remove-dialog-title = 确定要移除此登录信息吗？
 confirm-delete-dialog-message = 此操作不可撤销。
 # Title for modal to confirm the removal of one saved password
 about-logins-confirm-delete-dialog-title = 确定要移除密码吗？
@@ -228,8 +228,8 @@ about-logins-confirm-remove-all-dialog-checkbox-label =
     }
 about-logins-confirm-remove-all-dialog-title =
     { $count ->
-        [one] 要移除 { $count } 条登录信息吗？
-       *[other] 要移除全部共 { $count } 条登录信息吗？
+        [one] 确定要移除 { $count } 条登录信息吗？
+       *[other] 确定要移除全部共 { $count } 条登录信息吗？
     }
 about-logins-confirm-remove-all-dialog-message =
     { $count ->

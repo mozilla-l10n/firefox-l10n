@@ -18,6 +18,7 @@ webext-perms-sideload-header = Το { $extension } προστέθηκε
 webext-perms-optional-perms-header2 = Το { $extension } απαιτεί επιπρόσθετα δικαιώματα
 webext-perms-optional-perms-header = Το { $extension } απαιτεί επιπρόσθετα δικαιώματα.
 webext-perms-header2 = Προσθήκη του «{ $extension }»
+webext-perms-list-intro-unsigned = Αυτή η μη επαληθευμένη επέκταση μπορεί να θέσει το απόρρητό σας ή τη συσκευή σας σε κίνδυνο. Προσθέστε το μόνο αν εμπιστεύεστε την πηγή.
 
 ## Headers used in the webextension permissions dialog, inside the content.
 
@@ -42,6 +43,9 @@ webext-perms-sideload-enable =
 webext-perms-sideload-cancel =
     .label = Ακύρωση
     .accesskey = Α
+# Variables:
+#   $extension (String): replaced with the localized name of the extension.
+webext-perms-update-text2 = Το { $extension } έχει ενημερωθεί. Πρέπει να εγκρίνετε νέα δικαιώματα πριν εγκατασταθεί η ενημερωμένη έκδοση. Αν επιλέξετε “Ακύρωση”, θα διατηρηθεί η τρέχουσα έκδοση του προσθέτου.
 # Variables:
 #   $extension (String): replaced with the localized name of the extension.
 webext-perms-update-text = Το { $extension } έχει ενημερωθεί. Πρέπει να εγκρίνετε τα νέα δικαιώματα πριν εγκατασταθεί η ενημερωμένη έκδοση. Αν επιλέξετε «Ακύρωση», θα διατηρηθεί η τρέχουσα έκδοση της επέκτασης. Η επέκταση θα έχει την άδεια για:

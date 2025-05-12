@@ -75,7 +75,7 @@ webext-imported-addons = 正在完成安装已导入 { -brand-short-name } 的�
 
 # Variables:
 #  $name (String): The name of the add-on that will be removed.
-addon-removal-title = 要移除“{ $name }”吗？
+addon-removal-title = 确定要移除“{ $name }”吗？
 # Variables:
 #   $name (String): the name of the extension which is about to be removed.
 addon-removal-message = 移除 { -brand-shorter-name } 中的“{ $name }”吗？
