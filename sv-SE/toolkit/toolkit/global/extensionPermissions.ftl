@@ -46,6 +46,30 @@ webext-perms-extra-warning-userScripts-short = Overifierade skript kan utgöra s
 ##
 ## This is used when the data collection permissions are required.
 
+webext-perms-description-data-short-authenticationInfo = autentiseringsinformation
+webext-perms-description-data-short-bookmarksInfo = bokmärken
+webext-perms-description-data-short-browsingActivity = surfaktivitet
+webext-perms-description-data-short-financialAndPaymentInfo = ekonomi- och betalningsinformation
+webext-perms-description-data-short-healthInfo = hälsoinformation
+webext-perms-description-data-short-locationInfo = plats
+webext-perms-description-data-short-personalCommunications = personliga kommunikationer
+webext-perms-description-data-short-personallyIdentifyingInfo = personidentifierande uppgifter
+webext-perms-description-data-short-searchTerms = söktermer
+webext-perms-description-data-short-technicalAndInteraction = tekniska data och interaktionsdata
+webext-perms-description-data-short-websiteActivity = webbplatsaktivitet
+webext-perms-description-data-short-websiteContent = webbplatsens innehåll
 
 ## Long form to be used in `about:addons` when these data collection permissions are optional.
 
+webext-perms-description-data-long-authenticationInfo = Dela autentiseringsinformation med tilläggsutvecklare
+webext-perms-description-data-long-bookmarksInfo = Dela bokmärkesinformation med tilläggsutvecklare
+webext-perms-description-data-long-browsingActivity = Dela surfaktivitet med tilläggsutvecklare
+webext-perms-description-data-long-financialAndPaymentInfo = Dela ekonomi- och betalningsinformation med tilläggsutvecklare
+webext-perms-description-data-long-healthInfo = Dela hälsoinformation med tilläggsutvecklare
+webext-perms-description-data-long-locationInfo = Dela platsinformation med tilläggsutvecklare
+webext-perms-description-data-long-personalCommunications = Dela personlig kommunikation med tilläggsutvecklare
+webext-perms-description-data-long-personallyIdentifyingInfo = Dela personligt identifierande information med tilläggsutvecklare
+webext-perms-description-data-long-searchTerms = Dela söktermer med tilläggsutvecklare
+webext-perms-description-data-long-technicalAndInteraction = Dela teknisk data och interaktionsdata med tilläggsutvecklare
+webext-perms-description-data-long-websiteActivity = Dela webbplatsaktivitet med tilläggsutvecklare
+webext-perms-description-data-long-websiteContent = Dela webbplatsinnehåll med tilläggsutvecklare

@@ -725,6 +725,9 @@ search-keyword-warning-title = Duplicera nyckelord
 #   $name (string) - Name of a search engine.
 search-keyword-warning-engine = Du har valt ett nyckelord som redan används av “{ $name }”. Var god välj ett annat.
 search-keyword-warning-bookmark = Du har valt ett nyckelord som redan används av ett bokmärke. Var god välj ett annat.
+remove-engine-confirmation = Är du säker på att du vill ta bort den här sökmotorn?
+remove-engine-remove = Ta bort
+remove-addon-engine-alert = För att ta bort denna sökmotor, ta bort det tillhörande tillägget.
 
 ## Containers Section
 

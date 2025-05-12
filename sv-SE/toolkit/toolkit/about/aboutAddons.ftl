@@ -563,3 +563,7 @@ plugins-widevine-description = Denna insticksmodul möjliggör uppspelning av kr
 ## Headings for the Permissions tab in `about:addons` when the data collection
 ## feature is enabled.
 
+addon-permissions-required-data-collection = Obligatorisk datainsamling:
+addon-permissions-optional-data-collection = Valfri datainsamling:
+# Name of the Permissions tab in `about:addons` when the data collection feature is enabled.
+permissions-data-addon-button = Behörigheter och data
