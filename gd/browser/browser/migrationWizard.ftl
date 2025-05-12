@@ -196,6 +196,8 @@ migration-safari-password-import-step1 = Ann an Safari, fosgail clàr-taice “S
 migration-safari-password-import-step2 = Tagh am putan <img data-l10n-name="safari-icon-3dots"/> is tagh “Às-phortaich a h-uile facal-faire”
 migration-safari-password-import-step3 = Sàbhail faidhle nam faclan-faire
 migration-safari-password-import-step4 = Cleachd “Tagh faidhle” gu h-ìosal airson faidhle nam faclan-faire a shàbhail thu a thaghadh
+migration-manual-password-import-skip-button = Leum seachad
+migration-manual-password-import-select-button = Tagh faidhle
 migration-safari-password-import-skip-button = Leum seachad
 migration-safari-password-import-select-button = Tagh faidhle
 # Shown in the migration wizard after importing bookmarks from another
