@@ -3,6 +3,7 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 do-not-track-description = Ad yazen asɣal “ur sfuɣul ara” ɣer ismal web akken ad gzun belli ur tebɣiḍ ara asfuɣel
+do-not-track-removal = Dayen, ur nettεawan ara tamuli “Ur ṭṭafar ara”
 do-not-track-description2 =
     .label = Ssuter i yismal web “Ur yi-ṭṭafaren ara”
     .accesskey = s
@@ -60,6 +61,7 @@ pane-experimental-description2 = Abeddel n yiɣewwaren n twila lqayen zemren ad 
 settings-pane-labs-title = { -firefoxlabs-brand-name }
 settings-category-labs =
     .tooltiptext = { -firefoxlabs-brand-name }
+pane-experimental-description3 = Ɛreḍ timahilin-nneɣ tirmitanin! Ha-tent-an deg usnefli, la ttnernint. Ayen i izemren ad d-yeglu s usemdu ɣef wamek iteddu { -brand-short-name }.
 pane-experimental-reset =
     .label = Err-d iɣewwaren imezwer
     .accesskey = R
@@ -136,6 +138,7 @@ windows-launch-on-login =
     .label = Ldi { -brand-short-name } s wudem awurman mi ara yekker uselkim-ik·im
     .accesskey = L
 windows-launch-on-login-disabled = Asmenyif-a yensa deg Windows. I ubeddel-is, rzu ɣer <a data-l10n-name="startup-link">Asnas n usenker</a> deg yiɣewwaren n unagraw.
+windows-launch-on-login-profile-disabled = Rmed taxtiṛt-a s uṛcem n “{ profile-manager-use-selected.label }” deg usfaylu “Fren amaɣnu n useqdac”.
 startup-restore-warn-on-quit =
     .label = Lɣu ticki tettefɣeḍ seg iminig
 disable-extension =
@@ -146,6 +149,7 @@ preferences-data-migration-button =
     .label = Kter isefka
     .accesskey = t
 preferences-profiles-header = Imeɣna
+preferences-manage-profiles-description = Yal amaɣnu yessemgired gar yisefka n tunigin d yiɣewwaren , gar-asen azray, awalen n uɛeddi d wayen niḍen.
 preferences-manage-profiles-learn-more = Issin ugar
 preferences-manage-profiles-button =
     .label = Sefrek imaɣunen
