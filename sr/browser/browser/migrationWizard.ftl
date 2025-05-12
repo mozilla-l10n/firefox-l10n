@@ -191,6 +191,8 @@ migration-safari-password-import-step1 = У Safari-ју, отворите „Saf
 migration-safari-password-import-step2 = Изаберите <img data-l10n-name="safari-icon-3dots"/> тастер, а онда „Извези све лозинке” опцију
 migration-safari-password-import-step3 = Сачувајте датотеку са лозинкама
 migration-safari-password-import-step4 = Користите „Изабери датотеку“ испод да изаберете сачувану датотеку са лозинкама
+migration-manual-password-import-skip-button = Прескочи
+migration-manual-password-import-select-button = Изабери датотеку
 migration-safari-password-import-skip-button = Прескочи
 migration-safari-password-import-select-button = Изабери датотеку
 # Shown in the migration wizard after importing bookmarks from another
