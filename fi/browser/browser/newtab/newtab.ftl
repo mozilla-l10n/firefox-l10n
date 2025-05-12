@@ -117,6 +117,8 @@ newtab-menu-delete-pocket = Poista { -pocket-brand-name }-palvelusta
 newtab-menu-archive-pocket = Arkistoi { -pocket-brand-name }-palveluun
 newtab-menu-show-privacy-info = Tukijamme ja yksityisyytesi
 newtab-menu-about-fakespot = Tietoja { -fakespot-brand-name }ista
+# Report is a verb (i.e. report issue with the content).
+newtab-menu-report = Ilmoita
 newtab-menu-report-content = Ilmoita tästä sisällöstä
 # Context menu option to personalize New Tab recommended stories by blocking a section of stories,
 # e.g. "Sports". "Block" is a verb here.

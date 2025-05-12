@@ -344,12 +344,17 @@ search-one-offs-actions =
 
 # Opens the about:addons page in the home / recommendations section
 quickactions-addons = Näytä lisäosat
+# In English we provide multiple spellings for "add-ons". If that's not
+# applicable to your language, only use the correct spelling (don't repeat the
+# same word).
+quickactions-cmd-addons3 = laajennukset, teemat, lisäosat
 quickactions-cmd-addons2 = lisäosat
 # Opens the bookmarks library window
 quickactions-bookmarks2 = Hallitse kirjanmerkkejä
 quickactions-cmd-bookmarks = kirjanmerkit
 # Opens a SUMO article explaining how to clear history
 quickactions-clearrecenthistory = Tyhjennä viimeaikainen historia
+quickactions-cmd-clearrecenthistory = tyhjennä historia, historia
 # Opens a SUMO article explaining how to clear history
 quickactions-clearhistory = Tyhjennä historia
 quickactions-cmd-clearhistory = tyhjennä historia
@@ -361,8 +366,16 @@ quickactions-extensions = Hallitse laajennuksia
 quickactions-cmd-extensions = laajennukset
 # Opens Firefox View
 quickactions-firefoxview = Avaa { -firefoxview-brand-name }
+# English is using "view" and "open view", since the feature name is
+# "Firefox View". If you have translated the name in your language, you
+# should use a word related to the existing translation.
+quickactions-cmd-firefoxview = avaa { -firefoxview-brand-name }, { -firefoxview-brand-name }, avaa näkymä, näkymä
+# Opens SUMO home page
+quickactions-help = { -brand-product-name }-tuki
+quickactions-cmd-help = ohje, tuki
 # Opens the devtools web inspector
 quickactions-inspector2 = Avaa kehittäjätyökalut
+quickactions-cmd-inspector2 = inspector, devtools, dev tools
 quickactions-cmd-inspector = tarkastaja, inspector, devtools
 # Opens about:logins
 quickactions-logins2 = Hallitse salasanoja
@@ -375,6 +388,7 @@ quickactions-print2 = Tulosta sivu
 quickactions-cmd-print = tulosta
 # Opens the print dialog at the save to PDF option
 quickactions-savepdf = Tallenna sivu PDF-muodossa
+quickactions-cmd-savepdf2 = pdf, tallenna sivu
 quickactions-cmd-savepdf = pdf
 # Opens a new private browsing window
 quickactions-private2 = Avaa yksityinen ikkuna
@@ -387,6 +401,7 @@ quickactions-restart = Käynnistä { -brand-short-name } uudelleen
 quickactions-cmd-restart = käynnistä uudelleen
 # Opens the screenshot tool
 quickactions-screenshot3 = Ota kuvakaappaus
+quickactions-cmd-screenshot2 = kuvakaappaus, ota kuvakaappaus
 quickactions-cmd-screenshot = kuvakaappaus
 # Opens about:preferences
 quickactions-settings2 = Hallitse asetuksia
@@ -399,6 +414,7 @@ quickactions-update = Päivitä { -brand-short-name }
 quickactions-cmd-update = päivitä
 # Opens the view-source UI with current pages source
 quickactions-viewsource2 = Näytä sivun lähdekoodi
+quickactions-cmd-viewsource2 = näytä lähdekoodi, lähde, sivun lähdekoodi
 quickactions-cmd-viewsource = näytä lähde, lähdekoodi
 # Tooltip text for the help button shown in the result.
 quickactions-learn-more =
