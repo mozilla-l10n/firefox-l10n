@@ -196,6 +196,8 @@ migration-safari-password-import-step1 = Дар худи «Safari», менюи 
 migration-safari-password-import-step2 = Тугмаи «<img data-l10n-name="safari-icon-3dots"/>»-ро интихоб кунед ва пас «Содир кардани ҳамаи ниҳонвожаҳо»-ро интихоб намоед
 migration-safari-password-import-step3 = Файли ниҳонвожаҳоро нигоҳ доред
 migration-safari-password-import-step4 = Барои интихоб кардани файли ниҳонвожаҳоеро, ки шумо нигоҳ доштед, аз имкони «Интихоби файл» дар зер истифода баред
+migration-manual-password-import-skip-button = Нодида гузарондан
+migration-manual-password-import-select-button = Интихоби файл
 migration-safari-password-import-skip-button = Нодида гузарондан
 migration-safari-password-import-select-button = Интихоби файл
 # Shown in the migration wizard after importing bookmarks from another
