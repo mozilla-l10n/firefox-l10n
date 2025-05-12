@@ -196,6 +196,8 @@ migration-safari-password-import-step1 = Í Safari, opnaðu "Safari" valmyndina 
 migration-safari-password-import-step2 = Veldu <img data-l10n-name="safari-icon-3dots"/> hnappinn og veldu „Flytja út öll lykilorð“
 migration-safari-password-import-step3 = Vistaðu lykilorðaskrána
 migration-safari-password-import-step4 = Notaðu „Veldu skrá“ hér að neðan til að velja lykilorðaskrána sem þú vistaðir
+migration-manual-password-import-skip-button = Sleppa
+migration-manual-password-import-select-button = Veldu skrá
 migration-safari-password-import-skip-button = Sleppa
 migration-safari-password-import-select-button = Veldu skrá
 # Shown in the migration wizard after importing bookmarks from another
