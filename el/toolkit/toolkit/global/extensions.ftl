@@ -15,6 +15,7 @@ webext-perms-header-with-perms = Προσθήκη του «{ $extension }»; Α�
 webext-perms-header-unsigned = Προσθήκη του «{ $extension }»; Αυτό το πρόσθετο δεν είναι επαληθευμένο. Τα κακόβουλα πρόσθετα μπορούν να υποκλέψουν τις προσωπικές σας πληροφορίες ή να θέσουν σε κίνδυνο τον υπολογιστή σας. Προσθέστε το μόνο εάν εμπιστεύεστε την προέλευσή του.
 webext-perms-header-unsigned-with-perms = Προσθήκη του «{ $extension }»; Αυτό το πρόσθετο δεν είναι επαληθευμένο. Τα κακόβουλα πρόσθετα μπορούν να υποκλέψουν τις προσωπικές σας πληροφορίες ή να θέσουν σε κίνδυνο τον υπολογιστή σας. Προσθέστε το μόνο εάν εμπιστεύεστε την προέλευσή του. Η επέκταση θα έχει την άδεια για:
 webext-perms-sideload-header = Το { $extension } προστέθηκε
+webext-perms-optional-perms-header2 = Το { $extension } απαιτεί επιπρόσθετα δικαιώματα
 webext-perms-optional-perms-header = Το { $extension } απαιτεί επιπρόσθετα δικαιώματα.
 webext-perms-header2 = Προσθήκη του «{ $extension }»
 
@@ -23,6 +24,7 @@ webext-perms-header2 = Προσθήκη του «{ $extension }»
 webext-perms-header-required-perms = Απαιτούμενα δικαιώματα:
 webext-perms-header-optional-settings = Προαιρετικές ρυθμίσεις:
 webext-perms-header-update-required-perms = Νέα απαιτούμενα δικαιώματα:
+webext-perms-header-optional-required-perms = Νέα δικαιώματα:
 
 ##
 
