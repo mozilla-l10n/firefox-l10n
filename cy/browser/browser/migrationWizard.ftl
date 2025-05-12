@@ -208,6 +208,7 @@ migration-safari-password-import-step1 = Yn Safari, agorwch ddewislen “Safari�
 migration-safari-password-import-step2 = Dewiswch y botwm <img data-l10n-name="safari-icon-3dots"/> a dewis “Export All Passwords”
 migration-safari-password-import-step3 = Cadw'r ffeil cyfrineiriau
 migration-safari-password-import-step4 = Defnyddiwch “Select File” isod i ddewis y ffeil cyfrineiriau a gadwyd gennych
+migration-manual-password-import-select-button = Dewis Ffeil
 migration-safari-password-import-skip-button = Hepgor
 migration-safari-password-import-select-button = Dewis Ffeil
 # Shown in the migration wizard after importing bookmarks from another
