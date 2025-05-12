@@ -196,3 +196,7 @@ plugins-gmp-privacy-info = Xibaari sutura
 plugins-openh264-name = Codec bu wideo OpenH264 Cisco Systems, Inc. moo ko joxe.
 plugins-openh264-description = Gii lawal Mozilla moo ko sampal boppam ngir sàmmanteek àtte yu WebRTC ak ngir man a doxal woote yu WebRTC ci jumtukaay yi yittewoo Codec Wideo bu H.264. Xoolal http://www.openh264.org/ ngir ami xibaar ci nees defaree Codec bi.
 plugins-widevine-name = Google Inc. moo joxe tekkikaayu ëmbéefu Widevine.
+
+## Headings for the Permissions tab in `about:addons` when the data collection
+## feature is enabled.
+

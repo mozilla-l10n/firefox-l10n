@@ -177,3 +177,7 @@ details-notification-gmp-pending2 =
 plugins-gmp-license-info = ​ຂໍ້ມູນກ່ຽວກັບລິຂະສິດ
 plugins-gmp-privacy-info = ຂໍ້ມູນສ່ວນຕົວ
 plugins-openh264-name = OpenH264 Video Codec ໄດ້ຮັບການສະຫນອງມາຈາກ Cisco Systems, Inc.
+
+## Headings for the Permissions tab in `about:addons` when the data collection
+## feature is enabled.
+

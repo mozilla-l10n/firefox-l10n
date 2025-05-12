@@ -196,3 +196,7 @@ details-notification-gmp-pending2 =
 
 plugins-gmp-license-info = لاسن جانکأری
 plugins-openh264-name = کْریو اوپْن یوس فراہم کورمُت چُھ بذریعہ سیسکو سسٹم، اِنک۔ ویڈیو کوڈیکH264
+
+## Headings for the Permissions tab in `about:addons` when the data collection
+## feature is enabled.
+

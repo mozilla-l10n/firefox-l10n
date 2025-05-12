@@ -40,3 +40,12 @@ webext-perms-description-webNavigation = Truy cập hoạt động của trình 
 webext-perms-extra-warning-userScripts-long = Các tập lệnh chưa được xác minh có thể gây ra rủi ro về bảo mật và quyền riêng tư, chẳng hạn như chạy mã độc hại hoặc theo dõi hoạt động của trang web. Chỉ chạy tập lệnh từ tiện ích mở rộng hoặc nguồn mà bạn tin cậy.
 # A shorter warning is displayed in UI surfaces with little room, such as a permission prompt.
 webext-perms-extra-warning-userScripts-short = Các tập lệnh chưa được xác minh có thể gây ra rủi ro về bảo mật và quyền riêng tư. Chỉ chạy tập lệnh từ tiện ích mở rộng hoặc nguồn mà bạn tin cậy.
+
+## Short form to be used in lists or in a string (`webext-perms-description-data-some`)
+## that formats some of the data collection permissions below using `Intl.ListFormat`.
+##
+## This is used when the data collection permissions are required.
+
+
+## Long form to be used in `about:addons` when these data collection permissions are optional.
+

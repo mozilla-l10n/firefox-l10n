@@ -40,3 +40,12 @@ webext-perms-description-webNavigation = Böngészőtevékenység elérése navi
 webext-perms-extra-warning-userScripts-long = A nem ellenőrzött parancsfájlok biztonsági és adatvédelmi kockázatot jelenthetnek, például ártalmas kódot futtathatnak, vagy követhetik a webes tevékenységet. Csak olyan kiegészítőkből vagy forrásokból futtasson parancsfájlokat, melyekben megbízik.
 # A shorter warning is displayed in UI surfaces with little room, such as a permission prompt.
 webext-perms-extra-warning-userScripts-short = A nem ellenőrzött parancsfájlok biztonsági és adatvédelmi kockázatot jelenthetnek. Csak olyan kiegészítőkből vagy forrásokból futtasson parancsfájlokat, melyekben megbízik.
+
+## Short form to be used in lists or in a string (`webext-perms-description-data-some`)
+## that formats some of the data collection permissions below using `Intl.ListFormat`.
+##
+## This is used when the data collection permissions are required.
+
+
+## Long form to be used in `about:addons` when these data collection permissions are optional.
+

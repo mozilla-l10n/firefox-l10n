@@ -276,3 +276,7 @@ plugins-openh264-name = OpenH264 વિડિયો કોડેક Cisco System
 plugins-openh264-description = WebRTC સ્પષ્ટીકરણનું પાલન કરવા માટે આ પલ્ગઇન Mozila દ્વારા આપમેળે ઇન્સ્ટોલ કરવામાં આવે છે અને WebRTC કૉલ્સને એવા ઉપકરણો સાથે સક્ષમ કરવા માટે કે જે H.264 વિડિઓ કોડેકની જરૂર છે. કોડેક સ્રોત કોડ જોવા અને અમલીકરણ વિશે વધુ જાણવા માટે http://www.openh264.org/ ની મુલાકાત લો.
 plugins-widevine-name = Google Inc દ્વારા પૂરા પાડવામાં આવેલ Widevine કન્ટેન્ટ ડિક્રિપ્શન મોડ્યુલ.
 plugins-widevine-description = આ પ્લગ-ઇનની એન્ક્રિપ્ટ થયેલ મીડિયા પ્લેબેકને એન્ક્રિપ્ટ કરેલા મીડિયા એક્સ્ટેન્શન્સ સ્પષ્ટીકરણને અનુમતિ આપે છે. એન્ક્રિપ્ટેડ મીડિયાનો ઉપયોગ સામાન્ય રીતે પ્રીમિયમ મીડિયા સામગ્રીની નકલ કરવાથી સુરક્ષિત કરવા માટે સાઇટ્સ દ્વારા કરવામાં આવે છે. એન્ક્રિપ્ટેડ મીડિયા એક્સ્ટેન્શન્સ પર વધુ માહિતી માટે https://www.w3.org/TR/encrypted-media/ ની મુલાકાત લો.
+
+## Headings for the Permissions tab in `about:addons` when the data collection
+## feature is enabled.
+

@@ -565,3 +565,7 @@ plugins-openh264-name = OpenH264 Video Codec, toimittaja Cisco Systems, Inc.
 plugins-openh264-description = Mozilla asensi tämän liitännäisen automaattisesti WebRTC-rajapinnan määritelmän mukaisesti ja jotta WebRTC-puhelut olisivat mahdollisia laitteisiin, jotka vaativat H.264-videokoodekin. Lue lisää koodekin toteutustavasta ja tarkastele lähdekoodia osoitteesta http://www.openh264.org/.
 plugins-widevine-name = Widevine Content Decryption Module, toimittaja Google Inc.
 plugins-widevine-description = Tämä liitännäinen mahdollistaa Encrypted Media Extensions -määrittelyn mukaisen salatun sisällön toistamisen. Sivustot käyttävät salattua mediasisältöä tyypillisesti estämään maksullisen sisällön kopiointi. Lue lisää Encrypted Media Extensions -määrittelystä osoitteessa https://www.w3.org/TR/encrypted-media/.
+
+## Headings for the Permissions tab in `about:addons` when the data collection
+## feature is enabled.
+

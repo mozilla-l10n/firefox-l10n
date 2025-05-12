@@ -40,3 +40,12 @@ webext-perms-description-webNavigation = ਨੇਵੀਗੇਸ਼ਨ ਦੌਰਾ�
 webext-perms-extra-warning-userScripts-long = ਗ਼ੈਰ-ਤਸਦੀਕ ਕੀਤੀਆਂ ਸਕ੍ਰਿਪਟਾਂ ਸੁਰੱਖਿਆ ਅਤੇ ਪਰਦੇਦਾਰੀ ਖ਼ਤਰੇ ਹੁੰਦੀਆਂ ਹਨ ਜਿਵੇਂ ਕਿ ਖ਼ਤਰਨਾਕ ਕੋਡ ਚਲਾਉਣਾ ਜਾਂ ਵੈੱਬਸਾਈਟ ਸਰਗਰਮੀ ਨੂੰ ਟਰੈਕ ਕਰਨਾ। ਜਿਨ੍ਹਾਂ ਇਕਸਟੈਨਸ਼ਨਾਂ ਜਾਂ ਸਰੋਤਾਂ ਉੱਤੇ ਤੁਹਾਨੂੰ ਭਰੋਸਾ ਹੋਵੇ, ਉਹੀ ਸਕ੍ਰਿਪਟਾਂ ਨੂੰ ਚਲਾਓ।
 # A shorter warning is displayed in UI surfaces with little room, such as a permission prompt.
 webext-perms-extra-warning-userScripts-short = ਗ਼ੈਰ-ਤਸਦੀਕ ਕੀਤੀਆਂ ਸਕ੍ਰਿਪਟਾਂ ਸੁਰੱਖਿਆ ਅਤੇ ਪਰਦੇਦਾਰੀ ਖ਼ਤਰੇ ਹੁੰਦੀਆਂ ਹਨ। ਜਿਨ੍ਹਾਂ ਇਕਸਟੈਨਸ਼ਨਾਂ ਜਾਂ ਸਰੋਤਾਂ ਉੱਤੇ ਤੁਹਾਨੂੰ ਭਰੋਸਾ ਹੋਵੇ, ਉਹੀ ਸਕ੍ਰਿਪਟਾਂ ਨੂੰ ਚਲਾਓ।
+
+## Short form to be used in lists or in a string (`webext-perms-description-data-some`)
+## that formats some of the data collection permissions below using `Intl.ListFormat`.
+##
+## This is used when the data collection permissions are required.
+
+
+## Long form to be used in `about:addons` when these data collection permissions are optional.
+

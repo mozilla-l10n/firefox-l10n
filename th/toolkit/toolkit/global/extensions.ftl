@@ -76,6 +76,9 @@ webext-perms-host-description-one-domain = เข้าถึงข้อมู�
 #     (the list of domains will follow this string).
 webext-perms-host-description-multiple-domains = เข้าถึงข้อมูลของคุณสำหรับไซต์ต่างๆ ใน { $domainCount } โดเมน
 
+## Strings for data collection permissions in the permission prompt.
+
+
 ## Headers used in the webextension permissions dialog for synthetic add-ons.
 ## The part of the string describing what privileges the extension gives should be consistent
 ## with the value of webext-site-perms-description-gated-perms-{sitePermission}.

@@ -223,3 +223,7 @@ plugins-gmp-privacy-info = Inkcazelo Yeemfihlo
 plugins-openh264-name = I-OpenH264 Video Codec inikezelwe yiCisco Systems, Inc.
 plugins-openh264-description = Le plugin ifakelwe ngu-Mozilla ngokuzenzekelayo ukuthobelana kunye nokubalulwa kwe- WebRTC nokwenza iminxeba ye-WebRTC ngezixhobo ezifuna ividiyo code H.264. Tyelela http://www.openh264.org/ ukubona ikhowudi yemvelaphi ye-codec ze ufunde ngakumbi maluna nokuphunyezwa.
 plugins-widevine-name = I-Widevine Content Decryption Module elungiselelwe nguGoogle Inc.
+
+## Headings for the Permissions tab in `about:addons` when the data collection
+## feature is enabled.
+

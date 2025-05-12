@@ -9,12 +9,12 @@ appmenu-update-available2 =
     .secondarybuttonlabel = Одбаци
     .secondarybuttonaccesskey = О
 appmenu-update-available-message2 =
-    Преузмите најновију верзију { -brand-shorter-name.gender ->
-        [masculine] { -brand-shorter-name(case: "acc") }
-        [feminine] { -brand-shorter-name(case: "acc") }
-        [neuter] { -brand-shorter-name(case: "acc") }
-       *[other] програма { -brand-shorter-name }
-    }.
+    { -brand-shorter-name.gender ->
+        [masculine] Преузмите најновију верзију { -brand-shorter-name(case: "acc") }.
+        [feminine] Преузмите најновију верзију { -brand-shorter-name(case: "acc") }.
+        [neuter] Преузмите најновију верзију { -brand-shorter-name(case: "acc") }.
+       *[other] Преузмите најновију верзију програма { -brand-shorter-name }.
+    }
 appmenu-update-manual2 =
     .label = Доступно је ажурирање
     .buttonlabel = Преузми
@@ -22,12 +22,12 @@ appmenu-update-manual2 =
     .secondarybuttonlabel = Одбаци
     .secondarybuttonaccesskey = О
 appmenu-update-manual-message2 =
-    Аутоматско ажурирање { -brand-shorter-name.gender ->
-        [masculine] { -brand-shorter-name(case: "gen") }
-        [feminine] { -brand-shorter-name(case: "gen") }
-        [neuter] { -brand-shorter-name(case: "gen") }
-       *[other] програма { -brand-shorter-name }
-    } није успело. Ручно преузмите нову верзију; нећете изгубити сачуване податке ни подешавања.
+    { -brand-shorter-name.gender ->
+        [masculine] Аутоматско ажурирање { -brand-shorter-name(case: "gen") } није успело. Ручно преузмите нову верзију; нећете изгубити сачуване податке ни подешавања.
+        [feminine] Аутоматско ажурирање { -brand-shorter-name(case: "gen") } није успело. Ручно преузмите нову верзију; нећете изгубити сачуване податке ни подешавања.
+        [neuter] Аутоматско ажурирање { -brand-shorter-name(case: "gen") } није успело. Ручно преузмите нову верзију; нећете изгубити сачуване податке ни подешавања.
+       *[other] Аутоматско ажурирање програма { -brand-shorter-name } није успело. Ручно преузмите нову верзију; нећете изгубити сачуване податке ни подешавања.
+    }
 appmenu-update-unsupported2 =
     .label = Ажурирање није успело
     .buttonlabel = Сазнајте више
@@ -35,12 +35,12 @@ appmenu-update-unsupported2 =
     .secondarybuttonlabel = Одбаци
     .secondarybuttonaccesskey = О
 appmenu-update-unsupported-message2 =
-    Ваш оперативни систем није компатибилан са најновијом верзијом { -brand-shorter-name.gender ->
-        [masculine] { -brand-shorter-name(case: "acc") }
-        [feminine] { -brand-shorter-name(case: "acc") }
-        [neuter] { -brand-shorter-name(case: "acc") }
-       *[other] програма { -brand-shorter-name }
-    }.
+    { -brand-shorter-name.gender ->
+        [masculine] Ваш оперативни систем није компатибилан са најновијом верзијом { -brand-shorter-name(case: "acc") }.
+        [feminine] Ваш оперативни систем није компатибилан са најновијом верзијом { -brand-shorter-name(case: "acc") }.
+        [neuter] Ваш оперативни систем није компатибилан са најновијом верзијом { -brand-shorter-name(case: "acc") }.
+       *[other] Ваш оперативни систем није компатибилан са најновијом верзијом програма { -brand-shorter-name }.
+    }
 appmenu-update-restart2 =
     .label = Доступно је ажурирање
     .buttonlabel = Ажурирај и поново покрени
@@ -48,42 +48,37 @@ appmenu-update-restart2 =
     .secondarybuttonlabel = Одбаци
     .secondarybuttonaccesskey = О
 appmenu-update-restart-message2 =
-    Преузмите најновију верзију { -brand-shorter-name.gender ->
-        [masculine] { -brand-shorter-name(case: "acc") }
-        [feminine] { -brand-shorter-name(case: "acc") }
-        [neuter] { -brand-shorter-name(case: "acc") }
-       *[other] програма { -brand-shorter-name }
-    }. Отворене картице и прозори ће бити враћени.
+    { -brand-shorter-name.gender ->
+        [masculine] Преузмите најновију верзију { -brand-shorter-name(case: "acc") }. Отворене картице и прозори ће бити враћени.
+        [feminine] Преузмите најновију верзију { -brand-shorter-name(case: "acc") }. Отворене картице и прозори ће бити враћени.
+        [neuter] Преузмите најновију верзију { -brand-shorter-name(case: "acc") }. Отворене картице и прозори ће бити враћени.
+       *[other] Преузмите најновију верзију програма { -brand-shorter-name }. Отворене картице и прозори ће бити враћени.
+    }
 appmenu-update-other-instance =
     .label =
-        Није могуће инсталирати најновију верзију { -brand-shorter-name.gender ->
-            [masculine] { -brand-shorter-name(case: "gen") }
-            [feminine] { -brand-shorter-name(case: "gen") }
-            [neuter] { -brand-shorter-name(case: "gen") }
-           *[other] програма { -brand-shorter-name }
-        }.
+        { -brand-shorter-name.gender ->
+            [masculine] Није могуће инсталирати најновију верзију { -brand-shorter-name(case: "gen") }.
+            [feminine] Није могуће инсталирати најновију верзију { -brand-shorter-name(case: "gen") }.
+            [neuter] Није могуће инсталирати најновију верзију { -brand-shorter-name(case: "gen") }.
+           *[other] Није могуће инсталирати најновију верзију програма { -brand-shorter-name }.
+        }
     .buttonlabel =
-        Ипак ажурирај { -brand-shorter-name.gender ->
-            [masculine] { -brand-shorter-name(case: "acc") }
-            [feminine] { -brand-shorter-name(case: "acc") }
-            [neuter] { -brand-shorter-name(case: "acc") }
-           *[other] програм { -brand-shorter-name }
+        { -brand-shorter-name.gender ->
+            [masculine] Ипак ажурирај { -brand-shorter-name(case: "acc") }
+            [feminine] Ипак ажурирај { -brand-shorter-name(case: "acc") }
+            [neuter] Ипак ажурирај { -brand-shorter-name(case: "acc") }
+           *[other] Ипак ажурирај програм { -brand-shorter-name }
         }
     .buttonaccesskey = а
     .secondarybuttonlabel = Касније
     .secondarybuttonaccesskey = К
 appmenu-update-other-instance-message =
-    Доступно је ново ажурирање { -brand-shorter-name.gender ->
-        [masculine] { -brand-shorter-name(case: "gen") }
-        [feminine] { -brand-shorter-name(case: "gen") }
-        [neuter] { -brand-shorter-name(case: "gen") }
-       *[other] програма { -brand-shorter-name }
-    }, али се не може инсталирати јер је покренут други примерак { -brand-shorter-name.gender ->
-        [masculine] { -brand-shorter-name(case: "gen") }
-        [feminine] { -brand-shorter-name(case: "gen") }
-        [neuter] { -brand-shorter-name(case: "gen") }
-       *[other] програма { -brand-shorter-name }
-    }. Затворите га или ажурирајте упркос томе (други примерак можда неће радити док га не рестартујете).
+    { -brand-shorter-name.gender ->
+        [masculine] Доступно је ново ажурирање { -brand-shorter-name(case: "gen") }, али се не може инсталирати јер је покренут други примерак { -brand-shorter-name(case: "gen") }. Затворите га или ажурирајте упркос томе (други примерак можда неће радити док га не рестартујете).
+        [feminine] Доступно је ново ажурирање { -brand-shorter-name(case: "gen") }, али се не може инсталирати јер је покренут други примерак { -brand-shorter-name(case: "gen") }. Затворите га или ажурирајте упркос томе (други примерак можда неће радити док га не рестартујете).
+        [neuter] Доступно је ново ажурирање { -brand-shorter-name(case: "gen") }, али се не може инсталирати јер је покренут други примерак { -brand-shorter-name(case: "gen") }. Затворите га или ажурирајте упркос томе (други примерак можда неће радити док га не рестартујете).
+       *[other] Доступно је ново ажурирање програма { -brand-shorter-name }, али се не може инсталирати јер је покренут други примерак програма { -brand-shorter-name }. Затворите га или ажурирајте упркос томе (други примерак можда неће радити док га не рестартујете).
+    }
 appmenu-addon-private-browsing-installed2 =
     .buttonlabel = У реду
     .buttonaccesskey = У

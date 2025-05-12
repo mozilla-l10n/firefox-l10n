@@ -40,3 +40,12 @@ webext-perms-description-webNavigation = 탐색 중 브라우저 활동에 접�
 webext-perms-extra-warning-userScripts-long = 확인되지 않은 스크립트는 유해한 코드를 실행하거나 웹 사이트 활동을 추적하는 등의 보안 및 개인 정보 위험을 야기할 수 있습니다. 신뢰할 수 있는 확장 기능이나 출처의 스크립트만 실행하세요.
 # A shorter warning is displayed in UI surfaces with little room, such as a permission prompt.
 webext-perms-extra-warning-userScripts-short = 확인되지 않은 스크립트는 보안 및 개인 정보 보호에 위험이 될 수 있습니다. 신뢰할 수 있는 확장 기능이나 출처의 스크립트만 실행하세요.
+
+## Short form to be used in lists or in a string (`webext-perms-description-data-some`)
+## that formats some of the data collection permissions below using `Intl.ListFormat`.
+##
+## This is used when the data collection permissions are required.
+
+
+## Long form to be used in `about:addons` when these data collection permissions are optional.
+

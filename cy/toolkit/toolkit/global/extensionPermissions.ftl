@@ -40,3 +40,12 @@ webext-perms-description-webNavigation = Cael mynediad at weithgaredd wrth lywio
 webext-perms-extra-warning-userScripts-long = Gall sgriptiau heb eu gwirio achosi risgiau diogelwch a phreifatrwydd, megis rhedeg cod niweidiol neu olrhain gweithgaredd gwefan. Cofiwch redeg dim ond sgriptiau o estyniadau neu ffynonellau rydych chi'n ymddiried ynddyn nhw.
 # A shorter warning is displayed in UI surfaces with little room, such as a permission prompt.
 webext-perms-extra-warning-userScripts-short = Gall sgriptiau heb eu gwirio achosi risgiau diogelwch a phreifatrwydd. Cofiwch redeg dim ond sgriptiau o estyniadau neu ffynonellau rydych chi'n ymddiried ynddyn nhw.
+
+## Short form to be used in lists or in a string (`webext-perms-description-data-some`)
+## that formats some of the data collection permissions below using `Intl.ListFormat`.
+##
+## This is used when the data collection permissions are required.
+
+
+## Long form to be used in `about:addons` when these data collection permissions are optional.
+

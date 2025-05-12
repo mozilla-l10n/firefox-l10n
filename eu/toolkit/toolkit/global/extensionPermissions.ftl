@@ -40,3 +40,12 @@ webext-perms-description-webNavigation = Nabigatu ahala nabigazio-jarduera atzit
 webext-perms-extra-warning-userScripts-long = Egiaztatu gabeko scriptek segurtasun eta pribatutasun arriskuak eragin litzakete, hala nola kode kaltegarria exekutatzea edo webguneetako jardueraren jarraipena egitea. Soilik exekutatu hedapenetako edo fidagarritzat dituzun iturburuetako scriptak.
 # A shorter warning is displayed in UI surfaces with little room, such as a permission prompt.
 webext-perms-extra-warning-userScripts-short = Egiaztatu gabeko scriptek segurtasun eta pribatutasun arriskuak eragin litzakete. Soilik exekutatu hedapenetako edo fidagarritzat dituzun iturburuetako scriptak.
+
+## Short form to be used in lists or in a string (`webext-perms-description-data-some`)
+## that formats some of the data collection permissions below using `Intl.ListFormat`.
+##
+## This is used when the data collection permissions are required.
+
+
+## Long form to be used in `about:addons` when these data collection permissions are optional.
+

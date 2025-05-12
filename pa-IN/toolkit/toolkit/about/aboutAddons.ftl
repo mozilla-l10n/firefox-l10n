@@ -523,3 +523,7 @@ plugins-openh264-name = OpenH264 ਵਿਡੀਓ ਕੋਡਕ Cisco Systems, Inc
 plugins-openh264-description = ਇਹ ਪਲੱਗਇਨ ਨੂੰ ਮੋਜ਼ੀਲਾ ਵਲੋਂ WebRTC ਸੇਦਾਂ ਦੇ ਮੁਤਾਬਕ ਤਿਆਰ ਕਰਕੇ ਆਪਣੇ-ਆਪ ਇੰਸਟਾਲ ਕੀਤਾ ਜਾਂਦਾ ਹੈ ਅਤੇ ਡਿਵਾਈਸਾਂ ਨਾਲ WebRTC ਕਾਲਾਂ ਲਈ ਸਮਰੱਥ ਕਰਦੀ ਹੈ, ਜਿਨਾਂ ਨੂੰ H.264 ਵਿਡੀਓ ਕੋਡਕ ਚਾਹੀਦਾ ਹੈ। ਕੋਡਕ ਸਰੋਤ ਕੋਡ ਵੇਖਣ ਅਤੇ ਸਥਾਪਤ ਕਰਨ ਲਈ ਹੋਰ ਸਿੱਖਣ ਵਾਸਤੇ https://www.openh264.org/ ਨੂੰ ਵੇਖੋ।
 plugins-widevine-name = Widevine ਸਮੱਗਰੀ ਡਿਕ੍ਰਿਪਸ਼ਨ ਮੋਡੀਊਲ ਨੂੰ Google Inc ਵਲੋਂ ਦਿੱਤਾ ਗਿਆ ਹੈ।
 plugins-widevine-description = ਇਹ ਪਲੱਗਇਨ ਇੰਕ੍ਰਿਪਟਡ ਮੀਡਿਆ ਇਕਸਟੈਨਸ਼ਨਾਂ ਸੇਧਾਂ ਨਾਲ ਅਨੁਕੂਲ ਇੰਕ੍ਰਿਪਟ ਕੀਤੇ ਮੀਡਿਆ ਨੂੰ ਚਲਾਉਣ ਦੇ ਸਮਰੱਥ ਕਰਦੀ ਹੈ। ਇੰਕ੍ਰਿਪਟ ਕੀਤੇ ਮੀਡਿਆ ਨੂੰ ਅਕਸਰ ਪ੍ਰੀਮੀਅਮ ਮੀਡਿਆ ਸਮੱਗਰੀ ਨੂੰ ਕਾਪੀ ਕਰਨ ਤੋਂ ਰੋਕਣ ਲਈ ਸੁਰੱਖਿਆ ਵਾਸਤੇ ਅਕਸਰ ਸਾਈਟਾਂ ਵਲੋਂ ਵਰਤਿਆ ਜਾਂਦਾ ਹੈ। ਇੰਕ੍ਰਿਪਟ ਕੀਤੀਆਂ ਮੀਡਿਆ ਇਕਸਟੈਨਸ਼ਨਾਂ ਬਾਰੇ ਹੋਰ ਜਾਣਕਾਰੀ ਲਈ https://www.w3.org/TR/encrypted-media/ ਵੇਖੋ।
+
+## Headings for the Permissions tab in `about:addons` when the data collection
+## feature is enabled.
+

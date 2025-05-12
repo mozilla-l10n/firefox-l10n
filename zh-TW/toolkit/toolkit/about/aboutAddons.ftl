@@ -542,3 +542,7 @@ plugins-openh264-name = Cisco Systems, Inc. 提供的 OpenH264 視訊解碼器
 plugins-openh264-description = 此外掛程式是由 Mozilla 自動安裝，以符合 WebRTC 規範，並讓您能夠與需要使用 H.264 視訊解碼器的裝置溝通。您可至 http://www.openh264.org/ 取得解碼器的原始碼，並了解此實作的相關資訊。
 plugins-widevine-name = Google Inc. 提供的 Widevine 內容解碼模組
 plugins-widevine-description = 此外掛程式讓您可播放相容於 Encrypted Media Extensions 規格的加密媒體內容。加密媒體內容通常用於防止複製，或是需收費的媒體內容。可到 https://www.w3.org/TR/encrypted-media/ 取得 Encrypted Media Extensions 的更多資訊。
+
+## Headings for the Permissions tab in `about:addons` when the data collection
+## feature is enabled.
+

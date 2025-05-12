@@ -442,3 +442,7 @@ plugins-openh264-name = OpenH264 Video Codec ôd Cisco Systems, Inc.
 plugins-openh264-description = Te rozszyrzynie je autōmatycznie insztalowane ôd Mozille, coby sie przipasować do specyfikacyje WebRTC i coby dać WebRTC łōnczyć sie z maszinami, co potrzebujōm video kodeka H.264. Nawiydź strōna https://www.openh264.org/, coby ôboczyć zdrzōdłowy kod kodeka i przewiedzieć sie wiyncyj ô tyj implemyntacyji.
 plugins-widevine-name = Widevine Content Decryption Module ôd Google Inc.
 plugins-widevine-description = Te rozszyrzynie dowo puszczać zaszyfrowane mydia we zgodzie ze specyfikacyjōm Encrypted Media Extensions. Zaszyfrowane mydia porzōnd sōm używane ôd strōn, coby sie brōnić przed kopiowaniym mydiowyj zawartości. Nawiydź stōna https://www.w3.org/TR/encrypted-media/, coby przewiedzieć sie wiyncyj ô Encrypted Media Extensions.
+
+## Headings for the Permissions tab in `about:addons` when the data collection
+## feature is enabled.
+

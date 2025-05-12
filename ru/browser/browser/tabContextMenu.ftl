@@ -2,6 +2,10 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+
+## Variables:
+##  $tabCount (Number): the number of tabs that are affected by the action.
+
 tab-context-new-tab =
     .label = Новая вкладка
     .accesskey = я
@@ -118,11 +122,11 @@ tab-context-close-n-tabs =
     .accesskey = ы
 tab-context-move-tabs =
     .label =
-        Переместить { $tabCount ->
-            [1] вкладку
-            [one] { $tabCount } вкладку
-            [few] { $tabCount } вкладки
-           *[many] { $tabCount } вкладок
+        { $tabCount ->
+            [1] Переместить вкладку
+            [one] Переместить { $tabCount } вкладку
+            [few] Переместить { $tabCount } вкладки
+           *[many] Переместить { $tabCount } вкладок
         }
     .accesskey = м
 tab-context-send-tabs-to-device =

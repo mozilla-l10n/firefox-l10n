@@ -57,6 +57,9 @@ webext-perms-host-description-one-site = Kivu nuu datos noo´o sa { $domain }
 #     hosts for which this webextension is requesting permission.
 webext-perms-host-description-too-many-sites = Kivɨ nuu datos noo´o nuu { $domainCount } inka sitio
 
+## Strings for data collection permissions in the permission prompt.
+
+
 ## Headers used in the webextension permissions dialog for synthetic add-ons.
 ## The part of the string describing what privileges the extension gives should be consistent
 ## with the value of webext-site-perms-description-gated-perms-{sitePermission}.

@@ -340,3 +340,7 @@ plugins-gmp-privacy-info = رازداری معلومات
 plugins-openh264-name = OpenH264 ویڈیو کوڈیک سسکو سسٹمز کیطرف سے فراہم کیا گیا ہے
 plugins-openh264-description = یہ پلگ ان خود کار طریقے سے Mozilla ویبRTC تفصیلات تنصیب کرتا ھے اور ویبRTC کو اہل کرنے کےلِے آلات کو کال کرتا ھے جس کو H.264 وڈیو کوڈیک درکار ھے۔ کوڈیک ماخذ کا نظارہ کرنے کے لیے  http://www.openh264.org/ کا دورہ کریں اور عمل درآمد کے بارے میں مزید جانیں۔
 plugins-widevine-name = وادوینی مشمول خفیہ کشائی گوگل انکارپوریٹڈ کی طرف سے فراہم کردہ ماڈیول
+
+## Headings for the Permissions tab in `about:addons` when the data collection
+## feature is enabled.
+

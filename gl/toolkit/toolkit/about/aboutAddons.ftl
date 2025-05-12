@@ -509,3 +509,7 @@ plugins-openh264-name = Códec de vídeo OpenH264 fornecido por Cisco Systems, I
 plugins-openh264-description = Este engadido instalouse automaticamente por Mozilla para cumprir coa especificación WebRTC e para permitir chamadas WebRTC con dispositivos que requiren o códec de vídeo H.264. Visite http://www.openh264.org/ para ver o código fonte do códec e obter máis información sobre a implementación.
 plugins-widevine-name = Módulo de descifrado de contidos Widevine fornecido por Google Inc.
 plugins-widevine-description = Este complemento permite a reprodución de soportes cifrados de acordo coa especificación Extensións de Multimedia Cifrada (Encrypted Media Extensions). A multimedia cifrada adoita ser empregada por algúns sitios para se protexeren contra a copia de contido multimedia premium. Visite https://www.w3.org/TR/encrypted-media/ para obter máis información sobre as Extensións de Multimedia Cifrada.
+
+## Headings for the Permissions tab in `about:addons` when the data collection
+## feature is enabled.
+

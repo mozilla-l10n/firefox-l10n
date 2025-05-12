@@ -544,3 +544,7 @@ plugins-openh264-name = OpenH264 视频编解码器，由思科系统公司提�
 plugins-openh264-description = 此插件由 Mozilla 自动安装，以遵从 WebRTC 技术标准，满足设备进行 WebRTC 通话所需要的 H.264 视频编解码器。访问 http://www.openh264.org/ 可查看编解码器的源代码和详细了解其实现。
 plugins-widevine-name = Widevine 内容解密模块，由 Google 公司提供
 plugins-widevine-description = 此插件让您可播放符合加密媒体扩展（EME）规范的加密媒体内容。网站通常使用加密媒体内容来防止高质量媒体内容的非法复制。访问 https://www.w3.org/TR/encrypted-media/ 可获取加密媒体扩展（EME）的更多信息。
+
+## Headings for the Permissions tab in `about:addons` when the data collection
+## feature is enabled.
+

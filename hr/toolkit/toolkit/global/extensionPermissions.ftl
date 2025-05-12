@@ -40,3 +40,12 @@ webext-perms-description-webNavigation = Pristup aktivnostima preglednika tijeko
 webext-perms-extra-warning-userScripts-long = Neprovjerena skripta mogu predstavljati rizike za sigurnost i privatnost, poput pokretanja štetnog koda ili praćenja aktivnosti na web stranicama. Pokreći samo skripta iz proširenja ili izvora kojima vjeruješ.
 # A shorter warning is displayed in UI surfaces with little room, such as a permission prompt.
 webext-perms-extra-warning-userScripts-short = Neprovjerena skripta mogu predstavljati rizike za sigurnost i privatnost. Pokreći samo skripta iz proširenja ili izvora kojima vjeruješ.
+
+## Short form to be used in lists or in a string (`webext-perms-description-data-some`)
+## that formats some of the data collection permissions below using `Intl.ListFormat`.
+##
+## This is used when the data collection permissions are required.
+
+
+## Long form to be used in `about:addons` when these data collection permissions are optional.
+

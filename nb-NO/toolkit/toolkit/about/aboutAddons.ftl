@@ -538,3 +538,7 @@ plugins-openh264-name = OpenH264 video-kodek er levert av Cisco Systems, Inc.
 plugins-openh264-description = Dette programtillegget installeres automatisk av Mozilla for å følge WebRTC-spesifikasjonen, og for å tillate WebRTC-kall med enheter som bruker videokodeken H.264. Gå til http://www.openh264.org/ for å se kildekoden og lese mer om implementasjonen.
 plugins-widevine-name = Widevine Content Decryption Module levert av Google Inc.
 plugins-widevine-description = Dette programtillegget gjør det mulig å spille av krypterte medier i samsvar med spesifikasjonene for Encrypted Media Extensions. Krypterte medier blir vanligvis brukt av nettsider for å verne mot kopiering av betalt medieinnhold. Gå til https://www.w3.org/TR/encrypted-media/ for mer informasjon om Encrypted Media Extensions.
+
+## Headings for the Permissions tab in `about:addons` when the data collection
+## feature is enabled.
+

@@ -40,3 +40,12 @@ webext-perms-description-webNavigation = Gezinti sırasında tarayıcı etkinli�
 webext-perms-extra-warning-userScripts-long = Doğrulanmamış betikler, zararlı kod çalıştırma veya web sitesi etkinliğini izleme gibi güvenlik ve gizlilik riskleri doğurabilir. Yalnızca güvendiğiniz uzantılardan veya kaynaklardan gelen betikleri çalıştırın.
 # A shorter warning is displayed in UI surfaces with little room, such as a permission prompt.
 webext-perms-extra-warning-userScripts-short = Doğrulanmamış betikler güvenlik ve gizlilik riskleri doğurabilir. Yalnızca güvendiğiniz uzantılardan veya kaynaklardan gelen betikleri çalıştırın.
+
+## Short form to be used in lists or in a string (`webext-perms-description-data-some`)
+## that formats some of the data collection permissions below using `Intl.ListFormat`.
+##
+## This is used when the data collection permissions are required.
+
+
+## Long form to be used in `about:addons` when these data collection permissions are optional.
+

@@ -21,11 +21,11 @@ appmenu-update-manual2 =
     .secondarybuttonaccesskey = Z
 appmenu-update-manual-message2 =
     { -brand-shorter-name.gender ->
-        [masculine] { -brand-shorter-name } nemohl
-        [feminine] { -brand-shorter-name } nemohla
-        [neuter] { -brand-shorter-name } nemohlo
-       *[other] Aplikace { -brand-shorter-name } nemohla
-    } automaticky nainstalovat novou aktualizaci. Stáhněte si novou verzi ručně. O svá uložená data ani nastavení nepřijdete.
+        [masculine] { -brand-shorter-name } nemohl automaticky nainstalovat novou aktualizaci. Stáhněte si novou verzi ručně. O svá uložená data ani nastavení nepřijdete.
+        [feminine] { -brand-shorter-name } nemohla automaticky nainstalovat novou aktualizaci. Stáhněte si novou verzi ručně. O svá uložená data ani nastavení nepřijdete.
+        [neuter] { -brand-shorter-name } nemohlo automaticky nainstalovat novou aktualizaci. Stáhněte si novou verzi ručně. O svá uložená data ani nastavení nepřijdete.
+       *[other] Aplikace { -brand-shorter-name } nemohla automaticky nainstalovat novou aktualizaci. Stáhněte si novou verzi ručně. O svá uložená data ani nastavení nepřijdete.
+    }
 appmenu-update-unsupported2 =
     .label = Nelze nainstalovat novou aktualizaci
     .buttonlabel = Zjistit více

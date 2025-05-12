@@ -40,3 +40,12 @@ webext-perms-description-webNavigation = Të hyjë në veprimtarinë e shfletues
 webext-perms-extra-warning-userScripts-long = Programthet e paverifikuar mund të përbëjnë rreziqe sigurie dhe privatësie, f.v., xhirim kodi të dëmshëm, ose ndjekje veprimtarie sajti. Xhironi vetëm programthe nga zgjerime apo burime të cilëve u zini besë.
 # A shorter warning is displayed in UI surfaces with little room, such as a permission prompt.
 webext-perms-extra-warning-userScripts-short = Programthet e paverifikuar mund të përbëjnë rreziqe sigurie dhe privatësie. Xhironi vetëm programthe nga zgjerime apo burime të cilëve u zini besë.
+
+## Short form to be used in lists or in a string (`webext-perms-description-data-some`)
+## that formats some of the data collection permissions below using `Intl.ListFormat`.
+##
+## This is used when the data collection permissions are required.
+
+
+## Long form to be used in `about:addons` when these data collection permissions are optional.
+

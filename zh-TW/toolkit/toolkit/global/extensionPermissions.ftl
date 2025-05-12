@@ -40,3 +40,12 @@ webext-perms-description-webNavigation = 在上網時了解瀏覽器行為狀態
 webext-perms-extra-warning-userScripts-long = 未經驗證的指令碼，可能會執行有害程式或追蹤您的上網行為，造成安全性與隱私風險。請只執行來自可信的擴充套件或來源的指令碼。
 # A shorter warning is displayed in UI surfaces with little room, such as a permission prompt.
 webext-perms-extra-warning-userScripts-short = 未經驗證的指令碼，可能會造成安全性與隱私風險。請只執行來自可信的擴充套件或來源的指令碼。
+
+## Short form to be used in lists or in a string (`webext-perms-description-data-some`)
+## that formats some of the data collection permissions below using `Intl.ListFormat`.
+##
+## This is used when the data collection permissions are required.
+
+
+## Long form to be used in `about:addons` when these data collection permissions are optional.
+

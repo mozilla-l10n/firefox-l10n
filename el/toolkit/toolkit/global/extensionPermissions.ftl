@@ -40,3 +40,12 @@ webext-perms-description-webNavigation = Πρόσβαση στη δραστηρ�
 webext-perms-extra-warning-userScripts-long = Τα μη επαληθευμένα σενάρια μπορούν να θέσουν σε κίνδυνο την ασφάλεια και το απόρρητό σας, με ενέργειες όπως η εκτέλεση επιβλαβή κώδικα ή η καταγραφή της δραστηριότητάς σας σε ιστοτόπους. Να εκτελείτε σενάρια μόνο από επεκτάσεις ή πηγές που εμπιστεύεστε.
 # A shorter warning is displayed in UI surfaces with little room, such as a permission prompt.
 webext-perms-extra-warning-userScripts-short = Τα μη επαληθευμένα σενάρια μπορούν να θέσουν σε κίνδυνο την ασφάλεια και το απόρρητό σας. Να εκτελείτε σενάρια μόνο από επεκτάσεις ή πηγές που εμπιστεύεστε.
+
+## Short form to be used in lists or in a string (`webext-perms-description-data-some`)
+## that formats some of the data collection permissions below using `Intl.ListFormat`.
+##
+## This is used when the data collection permissions are required.
+
+
+## Long form to be used in `about:addons` when these data collection permissions are optional.
+

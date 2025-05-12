@@ -542,3 +542,7 @@ plugins-openh264-name = OpenH264 Video Codec provided by Cisco Systems, Inc.
 plugins-openh264-description = Dette plugin installeres automatisk af Mozilla for at overholde WebRTC-specifikationerne og muliggøre WebRTC-samtaler, som benytter video codec'et H.264. Du kan læse mere om implementeringen, og du kan finde kildekoden, på http://www.openh264.org/.
 plugins-widevine-name = Widevine Content Decryption Module provided by Google Inc.
 plugins-widevine-description = Dette plugin gør det muligt at afspille krypterede mediefiler i overensstemmelse med Encrypted Media Extensions specification. Websteder anvender typisk krypterede mediefiler for at undgå kopiering af betalt medie-indhold. Læs mere om Encrypted Media Extensions på https://www.w3.org/TR/encrypted-media/
+
+## Headings for the Permissions tab in `about:addons` when the data collection
+## feature is enabled.
+

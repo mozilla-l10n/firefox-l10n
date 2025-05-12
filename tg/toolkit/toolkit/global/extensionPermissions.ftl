@@ -40,3 +40,12 @@ webext-perms-description-webNavigation = Дастрас кардани фаъо�
 webext-perms-extra-warning-userScripts-long = Скриптҳои тасдиқнашуда метавонанд ба амният ва махфияти шумо ҳар гуна хатарҳоро, ба монанди иҷро кардани рамзи зараровар ё пайгирии фаъолияти шумо дар сомона, ба вуҷуд оранд. Танҳо скриптҳоро аз васеъшавиҳо ё манбаъҳое, ки шумо ба он эътимод доред, иҷро кунед.
 # A shorter warning is displayed in UI surfaces with little room, such as a permission prompt.
 webext-perms-extra-warning-userScripts-short = Скриптҳои тасдиқнашуда метавонанд ба амният ва махфияти шумо ҳар гуна хатарҳоро ба вуҷуд оранд. Танҳо скриптҳоро аз васеъшавиҳо ё манбаъҳое, ки шумо ба он эътимод доред, иҷро кунед.
+
+## Short form to be used in lists or in a string (`webext-perms-description-data-some`)
+## that formats some of the data collection permissions below using `Intl.ListFormat`.
+##
+## This is used when the data collection permissions are required.
+
+
+## Long form to be used in `about:addons` when these data collection permissions are optional.
+

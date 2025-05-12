@@ -528,3 +528,7 @@ plugins-openh264-name = OpenH264 видео кодекті Cisco Systems, Inc қ
 plugins-openh264-description = Mozilla бұл плагинді WebRTC сипаттамасына сәйкес болу үшін және H.264 видео кодегін талап ететін құрылғылармен WebRTC қоңырауларын іске қосу үшін автоматты түрде орнатты. Кодектің бастапқы кодтарын қарау және іске асырылуы туралы көбірек білу үшін http://www.openh264.org/ сайтын шолыңыз.
 plugins-widevine-name = Widevine Content Decryption Module ұсынған Google Inc.
 plugins-widevine-description = Бұл плагин шифрленген медианы ойнатуды Encrypted Media Extensions сипаттамасына сай мүмкін етеді. Шифрленген медиа әдетте сайттармен премиум-мазмұнын көшіруге жол бермеу үшін қолданылады. Encrypted Media Extensions туралы көбірек білу үшін, https://www.w3.org/TR/encrypted-media/ шолыңыз.
+
+## Headings for the Permissions tab in `about:addons` when the data collection
+## feature is enabled.
+

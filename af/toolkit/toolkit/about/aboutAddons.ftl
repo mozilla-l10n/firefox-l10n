@@ -223,3 +223,7 @@ plugins-gmp-privacy-info = Privaatheidinligting
 plugins-openh264-name = OpenH264-videokodek verskaf deur Cisco Systems, geïnk.
 plugins-openh264-description = Dié inprop word outomaties deur Mozilla geïnstalleer om te voldoen aan die WebRTC-spesifikasie en om WebRTC-oproepe toe te laat met toestelle wat die H.264-videokodering gebruik. Besoek http://www.openh264.org/ om die bronkode te sien en vir meer inligting oor die implementasie.
 plugins-widevine-name = Widevine Content Decryption-module verkaf deur Google Inc.
+
+## Headings for the Permissions tab in `about:addons` when the data collection
+## feature is enabled.
+

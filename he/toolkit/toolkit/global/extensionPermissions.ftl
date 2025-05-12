@@ -40,3 +40,12 @@ webext-perms-description-webNavigation = גישה לפעילות הדפדפן ב
 webext-perms-extra-warning-userScripts-long = תסריטים שאינם מאומתים עלולים להוות סיכוני אבטחה ופרטיות, כמו הפעלת קוד מזיק או מעקב אחר פעילות באתר. יש להריץ תסריטים מהרחבות או מקורות מהימנים בלבד.
 # A shorter warning is displayed in UI surfaces with little room, such as a permission prompt.
 webext-perms-extra-warning-userScripts-short = תסריטים שאינם מאומתים עלולים להוות סיכוני אבטחה ופרטיות. יש להריץ תסריטים מהרחבות או מקורות מהימנים בלבד.
+
+## Short form to be used in lists or in a string (`webext-perms-description-data-some`)
+## that formats some of the data collection permissions below using `Intl.ListFormat`.
+##
+## This is used when the data collection permissions are required.
+
+
+## Long form to be used in `about:addons` when these data collection permissions are optional.
+

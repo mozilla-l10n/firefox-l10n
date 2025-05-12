@@ -39,3 +39,12 @@ webext-perms-description-webNavigation = Eike kundahára rembiapópe eikundaha a
 
 # A shorter warning is displayed in UI surfaces with little room, such as a permission prompt.
 webext-perms-extra-warning-userScripts-short = Umi scripts ojehechajey’ỹva ikatu omboyke tekorosã ha tekoñemi. Omongu’e scripts jepysokue térã teñoiha ejeroviaha.
+
+## Short form to be used in lists or in a string (`webext-perms-description-data-some`)
+## that formats some of the data collection permissions below using `Intl.ListFormat`.
+##
+## This is used when the data collection permissions are required.
+
+
+## Long form to be used in `about:addons` when these data collection permissions are optional.
+

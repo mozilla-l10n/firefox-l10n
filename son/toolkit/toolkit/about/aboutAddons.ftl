@@ -219,3 +219,7 @@ plugins-gmp-privacy-info = Sutura alhabar
 plugins-openh264-name = OpenH264 Video Codec kaŋ Cisco Systems, Inc. n'a noo.
 plugins-openh264-description = Mozilla ga bonse-sukari kayandi, hala nga nda WebRTC ma hin ka koy nda cere. Nda mo, WebRTC ma hin ka goy nda nga maršin-kotantey, kan ngey diraa ga widewo codec H.264 waažibandi. Codec ɲaŋey bangandi http://www.openh264.org/ boŋ, hala ma hansa ka faham nga diraa se.
 plugins-widevine-name = Widevine gundekuna feeriyan dunbu kaŋ Google Inc. n'a noondi
+
+## Headings for the Permissions tab in `about:addons` when the data collection
+## feature is enabled.
+

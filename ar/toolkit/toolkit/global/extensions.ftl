@@ -83,6 +83,9 @@ webext-perms-host-description-too-many-sites =
 #     $domain should be treated as plural (because it may also include all subdomains, e.g www.mozilla.org, ftp.mozilla.org).
 webext-perms-host-description-one-domain = الوصول إلى بياناتك للمواقع في نطاق { $domain }
 
+## Strings for data collection permissions in the permission prompt.
+
+
 ## Headers used in the webextension permissions dialog for synthetic add-ons.
 ## The part of the string describing what privileges the extension gives should be consistent
 ## with the value of webext-site-perms-description-gated-perms-{sitePermission}.

@@ -538,3 +538,7 @@ plugins-openh264-name = OpenH264 videa kodeko provizita de Cisco Systems, Inc.
 plugins-openh264-description = Tiu ĉi kromprogramo estas aŭtomate instalita de Mozilla por esti konforma kun la specifoj de WebRTC kaj por ebligi vokojn WebRTC kun aparatoj kiuj postulas la videan kodekon H.264. Vizitu http://www.openh264.org/ por vidi la fontan kodon de la kodeko kaj por havi pli da informo pri la aplikado.
 plugins-widevine-name = La malĉifra modulo de enhavo «Widevine» estas provizita de Google Inc.
 plugins-widevine-description = Tiu ĉi kromprogramo ebligas ludadon de ĉifritaj aŭdvidaĵoj kongruaj kun la specifo “Encrypted Media Extensions”. Retejoj uzas ĉifritajn aŭdvidaĵojn por protekti enhavon kontraŭ kopiado. Pli da informo pri “Encrypted Media Extensions” troviĝas ĉe https://www.w3.org/TR/encrypted-media/
+
+## Headings for the Permissions tab in `about:addons` when the data collection
+## feature is enabled.
+

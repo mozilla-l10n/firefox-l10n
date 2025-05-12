@@ -243,3 +243,7 @@ plugins-gmp-license-info = অনুজ্ঞা-পত্ৰৰ তথ্য
 plugins-gmp-privacy-info = গোপনীয়তাৰ তথ্য
 plugins-openh264-name = Cisco Systems, Inc দ্বাৰা প্ৰদান কৰা OpenH264।
 plugins-openh264-description = এই প্লাগিনটো WebRTC-ৰ নিৰ্দিষ্টকৰণ অনুসৰণ কৰিবলৈ আৰু H.264 ভিডিঅ' ক'ডেকৰ প্ৰয়োজন হোৱা ডিভাইচৰ সৈতে WebRTC কল সক্ৰিয় কৰিবলৈ Mozilla-ৰ দ্বাৰা স্বয়ংক্ৰিয়ভাৱে ইনষ্টল কৰা হয়। ক'ডেকৰ উৎস ক'ড চাবলৈ আৰু ৰূপায়ণৰ বিষয়ে অধিক জানিবলৈ https://www.openh264.org/ দৰ্শন কৰক।
+
+## Headings for the Permissions tab in `about:addons` when the data collection
+## feature is enabled.
+

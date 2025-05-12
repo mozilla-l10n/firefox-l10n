@@ -565,3 +565,7 @@ plugins-openh264-name = OpenH264 Video Codec wot Cisco Systems, Inc.
 plugins-openh264-description = Tutón tykač so wot Mozilla awtomatisce instaluje, zo by specifikaciji WebRTC wotpowědował a wołanja WebRTC z gratami zmóžnił, kotrež sej widejocodec H.264 wužaduja. Wopytajće http://www.openh264.org/, zo byšće sej codecowy žórłowy kod wobhladał a wjace wo implementaciji zhonił.
 plugins-widevine-name = Modul Widevine za dekodowanje wobsaha wot Google Inc.
 plugins-widevine-description = Tutón tykač wothrawanje zaklučowanych medijow po specifikaciji za rozšěrjenja zaklučowanych medijow zmóžnja. Zaklučowane medije so zwjetša wot sydła k škitu před kopěrowanjom premijoweho medijoweho wobsaha wužiwaja. Wopytajće https://www.w3.org/TR/encrypted-media/ za dalše informacije wo rozšěrjenjach zaklučowanych medijow.
+
+## Headings for the Permissions tab in `about:addons` when the data collection
+## feature is enabled.
+

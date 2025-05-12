@@ -452,3 +452,7 @@ details-notification-gmp-pending2 =
 
 plugins-gmp-license-info = බලපත්‍ර තොරතුරු
 plugins-gmp-privacy-info = පෞද්ගලිකත්‍ව තොරතුරු
+
+## Headings for the Permissions tab in `about:addons` when the data collection
+## feature is enabled.
+

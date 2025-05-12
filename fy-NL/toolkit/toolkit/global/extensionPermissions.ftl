@@ -40,3 +40,12 @@ webext-perms-description-webNavigation = Browseraktiviteit wylst navigearjen ben
 webext-perms-extra-warning-userScripts-long = Net ferifiearre scripts kinne befeiligings- en privacyrisiko’s foarmje, lykas it útfieren fan skealike koade of it folgjen fan website-aktiviteit. Fier allinnich scripts út fan útwreidingen of boarnen dy’t jo fertrouwe.
 # A shorter warning is displayed in UI surfaces with little room, such as a permission prompt.
 webext-perms-extra-warning-userScripts-short = Net ferifiearre scripts kinne befeiligings- en privacyrisiko’s foarmje. Fier allinnich scripts út fan útwreidingen of boarnen dy’'t jo fertrouwe.
+
+## Short form to be used in lists or in a string (`webext-perms-description-data-some`)
+## that formats some of the data collection permissions below using `Intl.ListFormat`.
+##
+## This is used when the data collection permissions are required.
+
+
+## Long form to be used in `about:addons` when these data collection permissions are optional.
+

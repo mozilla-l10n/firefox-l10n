@@ -315,3 +315,7 @@ plugins-gmp-privacy-info = గోప్యత సమాచారం
 plugins-openh264-name = Cisco systems, Inc. అందిస్తున్న OpenH264 వీడియో కోడెక్
 plugins-openh264-description = ఈ ప్లగిన్ ఆటోమేటిక్గా Mozilla ద్వారా వ్యవస్థాపించబడిన వెబ్ RTC స్పెసిఫికేషన్ అనుసరించడంలో మరియు WebRTC H.264 వీడియో కోడెక్ అవసరమయ్యే పరికరాలను కాల్స్ ఎనేబుల్ . కోడెక్ సోర్స్ కోడ్ వీక్షించడానికి మరియు అమలు గురించి మరింత తెలుసుకోవడానికి http://www.openh264.org/ సందర్శించండి.
 plugins-widevine-name = గూగుల్ ఇంక్ అందించిన వైడ్వైన్ కంటెంట్ వ్యక్తపర్చడం మాడ్యూల్.
+
+## Headings for the Permissions tab in `about:addons` when the data collection
+## feature is enabled.
+

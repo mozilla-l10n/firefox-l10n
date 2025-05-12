@@ -15,10 +15,17 @@ webext-perms-header-with-perms = Chcete nainstalovat { $extension }? Toto rozš�
 webext-perms-header-unsigned = Chcete nainstalovat { $extension }? Toto rozšíření není ověřené. Škodlivá rozšíření mohou ukrást vaše osobní informace nebo nakazit váš počítač. Nainstalujte toto rozšíření jen pokud pochází z důvěryhodného zdroje.
 webext-perms-header-unsigned-with-perms = Chcete nainstalovat { $extension }? Toto rozšíření není ověřené. Škodlivá rozšíření mohou ukrást vaše osobní informace nebo nakazit váš počítač. Nainstalujte toto rozšíření jen pokud pochází z důvěryhodného zdroje. Toto rozšíření získá následující oprávnění:
 webext-perms-sideload-header = Doplněk { $extension } byl přidán
+webext-perms-optional-perms-header2 = Rozšíření { $extension } požaduje dodatečná oprávnění
 webext-perms-optional-perms-header = Doplněk { $extension } požaduje dodatečná oprávnění.
+webext-perms-header2 = Přidat { $extension }
+webext-perms-list-intro-unsigned = Toto neověřené rozšíření může ohrozit vaše soukromí nebo vaše zařízení. Přidejte jej jen pokud pochází z důvěryhodného zdroje.
 
 ## Headers used in the webextension permissions dialog, inside the content.
 
+webext-perms-header-required-perms = Požadovaná oprávnění:
+webext-perms-header-optional-settings = Volitelná nastavení:
+webext-perms-header-update-required-perms = Nová požadovaná oprávnění:
+webext-perms-header-optional-required-perms = Nová oprávnění:
 
 ##
 
@@ -36,6 +43,9 @@ webext-perms-sideload-enable =
 webext-perms-sideload-cancel =
     .label = Zrušit
     .accesskey = Z
+# Variables:
+#   $extension (String): replaced with the localized name of the extension.
+webext-perms-update-text2 = Rozšíření { $extension } bylo aktualizováno. Před instalací aktuální verze musíte schválit nová oprávnění. Zvolením “Zrušit” bude zachována stávající verze rozšíření.
 # Variables:
 #   $extension (String): replaced with the localized name of the extension.
 webext-perms-update-text = Rozšíření { $extension } bylo aktualizováno. Před instalací aktualizované verze je potřeba schválit nová oprávnění. Zvolením „Zrušit“ bude zachována stávající verze rozšíření. Toto rozšíření získá následující oprávnění:
@@ -91,6 +101,9 @@ webext-perms-host-description-multiple-domains =
         [many] Přistupovat k údajům webových stránek v { $domainCount } doménách
        *[other] Přistupovat k údajům webových stránek v { $domainCount } doménách
     }
+
+## Strings for data collection permissions in the permission prompt.
+
 
 ## Headers used in the webextension permissions dialog for synthetic add-ons.
 ## The part of the string describing what privileges the extension gives should be consistent

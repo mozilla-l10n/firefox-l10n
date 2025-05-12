@@ -195,3 +195,7 @@ details-notification-gmp-pending2 =
 ## Gecko Media Plugins (GMPs)
 
 plugins-openh264-name = Cisco Systems, Inc. ଦ୍ୱାରା ପ୍ରଦତ୍ତ OpenH264 ଭିଡ଼ିଓ କଡେକ
+
+## Headings for the Permissions tab in `about:addons` when the data collection
+## feature is enabled.
+

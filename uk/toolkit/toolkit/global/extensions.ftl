@@ -101,6 +101,9 @@ webext-perms-host-description-multiple-domains =
        *[many] Доступ до ваших даних для сайтів у { $domainCount } доменах
     }
 
+## Strings for data collection permissions in the permission prompt.
+
+
 ## Headers used in the webextension permissions dialog for synthetic add-ons.
 ## The part of the string describing what privileges the extension gives should be consistent
 ## with the value of webext-site-perms-description-gated-perms-{sitePermission}.

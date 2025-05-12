@@ -351,3 +351,7 @@ plugins-gmp-privacy-info = गोपनीयता सूचना
 plugins-openh264-name = Cisco Systems, Inc के द्वारा OpenH264 वीडियो कोडेक प्रदान किया गया.
 plugins-openh264-description = इस प्लगइन मोज़िला WebRTC विनिर्देशन के साथ अनुपालन करने के लिए और h.264 वीडियो कोडेक की आवश्यकता है कि उपकरणों के साथ WebRTC कॉल को सक्षम करने के लिए द्वारा स्वचालित रूप से स्थापित है। कोडेक स्रोत कोड को देखने और कार्यान्वयन के बारे में अधिक जानने के लिए एक http://www.openh264.org/ पर जाएँ।
 plugins-widevine-name = Google Inc. द्वारा दिया गया वाइडवाइन सामग्री डीक्रिप्शन इकाई
+
+## Headings for the Permissions tab in `about:addons` when the data collection
+## feature is enabled.
+

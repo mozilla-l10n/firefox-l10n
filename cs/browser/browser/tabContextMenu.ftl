@@ -2,6 +2,10 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+
+## Variables:
+##  $tabCount (Number): the number of tabs that are affected by the action.
+
 tab-context-new-tab =
     .label = Nový panel
     .accesskey = o
@@ -118,10 +122,10 @@ tab-context-close-n-tabs =
     .accesskey = Z
 tab-context-move-tabs =
     .label =
-        Přesunout { $tabCount ->
-            [one] panel
-            [few] { $tabCount } panely
-           *[other] { $tabCount } panelů
+        { $tabCount ->
+            [one] Přesunout panel
+            [few] Přesunout { $tabCount } panely
+           *[other] Přesunout { $tabCount } panelů
         }
     .accesskey = s
 tab-context-send-tabs-to-device =

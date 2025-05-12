@@ -551,3 +551,7 @@ plugins-openh264-name = OpenH264 Video Codec dostarczony przez Cisco Systems, In
 plugins-openh264-description = Wtyczka automatycznie instalowana przez Mozillę dla zapewnienia zgodności ze specyfikacją WebRTC oraz umożliwienia rozmów przy jej wykorzystaniu z urządzeniami wymagającymi kodeka H.264. Więcej informacji oraz kod źródłowy można znaleźć na stronie http://www.openh264.org
 plugins-widevine-name = Widevine Content Decryption Module dostarczony przez Google Inc.
 plugins-widevine-description = Wtyczka umożliwiająca odtwarzanie szyfrowanych treści zgodnych ze specyfikacją „Encrypted Media Extensions”. Szyfrowane treści są zazwyczaj używane przez strony, aby zabezpieczyć je przed kopiowaniem. Więcej informacji o „Encrypted Media Extensions” można znaleźć pod adresem https://www.w3.org/TR/encrypted-media/
+
+## Headings for the Permissions tab in `about:addons` when the data collection
+## feature is enabled.
+

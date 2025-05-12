@@ -40,3 +40,12 @@ webext-perms-description-webNavigation = Přistupovat k aktivitám prohlížeče
 webext-perms-extra-warning-userScripts-long = Neověřené skripty mohou představovat bezpečnostní riziko a riziko pro soukromí, např. spouštění škodlivého kódu nebo sledování aktivity na webových stránkách. Spouštějte skripty pouze z rozšíření nebo zdrojů, kterým důvěřujete.
 # A shorter warning is displayed in UI surfaces with little room, such as a permission prompt.
 webext-perms-extra-warning-userScripts-short = Neověřené skripty mohou představovat bezpečnostní rizika a rizika pro soukromí. Spouštějte skripty pouze z rozšíření nebo zdrojů, kterým důvěřujete.
+
+## Short form to be used in lists or in a string (`webext-perms-description-data-some`)
+## that formats some of the data collection permissions below using `Intl.ListFormat`.
+##
+## This is used when the data collection permissions are required.
+
+
+## Long form to be used in `about:addons` when these data collection permissions are optional.
+

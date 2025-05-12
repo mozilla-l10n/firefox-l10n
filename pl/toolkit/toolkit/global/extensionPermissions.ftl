@@ -39,3 +39,12 @@ webext-perms-description-webNavigation = Dostęp do aktywności przeglądarki po
 webext-perms-extra-warning-userScripts-long = Niezweryfikowane skrypty mogą stwarzać zagrożenia bezpieczeństwa i prywatności, na przykład wykonując szkodliwy kod albo śledząc działania użytkownika w Internecie. Uruchamiaj skrypty wyłącznie z rozszerzeń i innych źródeł, którym ufasz.
 # A shorter warning is displayed in UI surfaces with little room, such as a permission prompt.
 webext-perms-extra-warning-userScripts-short = Niezweryfikowane skrypty mogą stwarzać zagrożenia bezpieczeństwa i prywatności. Uruchamiaj skrypty wyłącznie z rozszerzeń i innych źródeł, którym ufasz.
+
+## Short form to be used in lists or in a string (`webext-perms-description-data-some`)
+## that formats some of the data collection permissions below using `Intl.ListFormat`.
+##
+## This is used when the data collection permissions are required.
+
+
+## Long form to be used in `about:addons` when these data collection permissions are optional.
+

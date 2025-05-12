@@ -87,3 +87,7 @@ details-notification-softblocked-link = Méi Informatiounen
 
 ## Gecko Media Plugins (GMPs)
 
+
+## Headings for the Permissions tab in `about:addons` when the data collection
+## feature is enabled.
+

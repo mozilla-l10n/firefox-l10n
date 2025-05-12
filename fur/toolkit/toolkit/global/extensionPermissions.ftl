@@ -40,3 +40,12 @@ webext-perms-description-webNavigation = Acedi ae ativitât dal navigadôr dulin
 webext-perms-extra-warning-userScripts-long = I scripts no verificâts a puedin puartâ risis pe sigurece e pe riservatece, come la esecuzion di codiç danôs o la spie des ativitâts sui sîts web. Eseguìs scripts nome di estensions o origjins afidabilis.
 # A shorter warning is displayed in UI surfaces with little room, such as a permission prompt.
 webext-perms-extra-warning-userScripts-short = I scripts no verificâts a puedin compuartâ risis pe sigurece e la riservatece. Eseguìs scripts dome di estensions o origjins afidabilis.
+
+## Short form to be used in lists or in a string (`webext-perms-description-data-some`)
+## that formats some of the data collection permissions below using `Intl.ListFormat`.
+##
+## This is used when the data collection permissions are required.
+
+
+## Long form to be used in `about:addons` when these data collection permissions are optional.
+

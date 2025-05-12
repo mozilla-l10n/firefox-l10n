@@ -489,3 +489,7 @@ plugins-openh264-name = OpenH264 Video Codec 'ga sholar le Cisco Systems, Inc.
 plugins-openh264-description = Tha am plugan seo ’ga stàladh le Mozilla gu fèin-obrachail a ghèilleadh ri riatanasan WebRTC agus airson gairmean WebRTC a chur an comas le uidheaman a dh’fheumas an codec video H.264. Tadhail air http://www.openh264.org/ a chur sùil air bun-tùs a’ chodec agus airson barrachd fiosrachaidh mu dhèidhinn.
 plugins-widevine-name = Tha an Widevine Content Decryption Module ’ga sholar le Google Inc.
 plugins-widevine-description = This plugin enables playback of encrypted media in compliance with the Encrypted Media Extensions specification. Encrypted media is typically used by sites to protect against copying of premium media content. Visit https://www.w3.org/TR/encrypted-media/ for more information on Encrypted Media Extensions.
+
+## Headings for the Permissions tab in `about:addons` when the data collection
+## feature is enabled.
+

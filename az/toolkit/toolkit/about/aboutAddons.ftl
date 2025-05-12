@@ -277,3 +277,7 @@ plugins-openh264-name = OpenH264 Video Codec, Cisco Systems, Inc. tərəfindən 
 plugins-openh264-description = Bu qoşma WebRTC şərtlərinə uyğunluq göstərmək və H.264 video kodekə ehtiyac olan cihazlarda WebRTC görüşmələri edə bilmək məqsədilə Mozilla tərəfindən avtomatik yüklənir. Kodekin qaynaq kodlarını görmək və ətraflı məlumat almaq üçün http://www.openh264.org/ keçidini ziyarət edin.
 plugins-widevine-name = Widevine Məzmun Deşifrə Etmə Modulu (Google Inc. tərəfindən)
 plugins-widevine-description = Bu qoşma şifrələnmiş mediaların Encrypted Media Extensions (EME) spesifikasiyasına əsasən oxutmağı mümkün edir. Şifrələnmiş media əsasən saytlar tərəfindən premium media məzmunların köçürülməsinin qarşısını almaq üçün işlədilir. Encrypted Media Extensions haqqında daha ətraflı məlumat üçün https://www.w3.org/TR/encrypted-media/ ünvanını ziyarət edin.
+
+## Headings for the Permissions tab in `about:addons` when the data collection
+## feature is enabled.
+

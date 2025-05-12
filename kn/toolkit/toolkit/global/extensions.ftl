@@ -65,6 +65,9 @@ webext-perms-host-description-too-many-sites =
        *[other] { $domainCount } ಇತರೆ ತಾಣದಲ್ಲಿರುವ ನಿಮ್ಮ ದತ್ತಾಂಶವನ್ನು ಪಡೆಯಿರಿ
     }
 
+## Strings for data collection permissions in the permission prompt.
+
+
 ## Headers used in the webextension permissions dialog for synthetic add-ons.
 ## The part of the string describing what privileges the extension gives should be consistent
 ## with the value of webext-site-perms-description-gated-perms-{sitePermission}.

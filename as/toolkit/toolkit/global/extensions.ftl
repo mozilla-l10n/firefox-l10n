@@ -37,6 +37,9 @@ webext-perms-optional-perms-deny =
     .label = অস্বীকাৰ কৰক
     .accesskey = D
 
+## Strings for data collection permissions in the permission prompt.
+
+
 ## Headers used in the webextension permissions dialog for synthetic add-ons.
 ## The part of the string describing what privileges the extension gives should be consistent
 ## with the value of webext-site-perms-description-gated-perms-{sitePermission}.

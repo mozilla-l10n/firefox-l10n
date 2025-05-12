@@ -551,3 +551,7 @@ plugins-openh264-name = OpenH264 Video Çözücü (sağlayan: Cisco Systems, Inc
 plugins-openh264-description = Bu yan uygulama, WebRTC şartnamesine uyum sağlamak ve H.264 video çözücüye ihtiyaç duyan cihazlarda WebRTC görüşmeleri yapabilmek amacıyla Mozilla tarafından otomatik yüklenir. Çözücünün kaynak kodlarını görmek ve daha fazla bilgi almak için http://www.openh264.org/ adresini ziyaret edin.
 plugins-widevine-name = Widevine İçerik Çözme Modülü (sağlayan: Google Inc.)
 plugins-widevine-description = Bu yan uygulama, Encrypted Media Extensions şartnamesine uygun olarak şifrelenmiş ortamların oynatılmasını sağlar. Şifrelenmiş ortamlar genellikle ücretli içeriklerin kopyalanmasını engellemek isteyen siteler tarafından kullanılır. Encrypted Media Extensions hakkında daha fazla bilgi için https://www.w3.org/TR/encrypted-media/ adresini ziyaret edebilirsiniz.
+
+## Headings for the Permissions tab in `about:addons` when the data collection
+## feature is enabled.
+

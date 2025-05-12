@@ -452,3 +452,7 @@ plugins-openh264-name = Codec video OpenH264 furnizat de Cisco Systems, Inc.
 plugins-openh264-description = Acest plugin este instalat automat de Mozilla pentru a se conforma cu specificațiile WebTRC și pentru a activa apelurile WebRTC cu dispozitive care necesită codecul video H.264. Vizitează http://www.openh264.org/ pentru a vedea codul sursă al codecului și pentru a afla mai multe despre implementare.
 plugins-widevine-name = Modul pentru decriptarea conținutului Widevine oferit de Google Inc.
 plugins-widevine-description = Acest plugin permite redarea fișierelor multimedia criptate în conformitate cu specificația Encrypted Media Extensions. Fișierele multimedia criptate sunt de obicei utilizate de site-uri pentru protecție împotriva copierii conținuturilor multimedia premium. Intră pe https://www.w3.org/TR/encrypted-media/ pentru mai multe informații despre Encrypted Media Extensions.
+
+## Headings for the Permissions tab in `about:addons` when the data collection
+## feature is enabled.
+

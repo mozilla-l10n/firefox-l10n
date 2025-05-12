@@ -485,3 +485,7 @@ plugins-openh264-name = „OpenH264“ vaizdo kodekas, sukurtas „Cisco Systems
 plugins-openh264-description = Šis papildinys yra automatiškai įdiegiamas norint laikytis „WebRTC“ specifikacijos ir įgalinti „WebRTC“ skambučius su įrenginiais, kurie reikalauja H.264 vaizdo kodeko. Apsilankykite http://www.openh264.org/ norėdami peržiūrėti pirminį kodeko kodą ir sužinoti daugiau apie jo realizavimą.
 plugins-widevine-name = „Google Inc.“ teikiamas „Widevine“ turinio dešifravimo modulis (CDM).
 plugins-widevine-description = Šis papildinys leidžia atkurti užšifruotą turinį, laikantis „Encrypted Media Extensions“ specifikacijos. Užšifruotą turinį svetainės dažniausiai naudoja norėdamos apsisaugoti nuo mokamo turinio kopijavimo. Aplankykite https://www.w3.org/TR/encrypted-media/ norėdami sužinoti daugiau apie „Encrypted Media Extensions“.
+
+## Headings for the Permissions tab in `about:addons` when the data collection
+## feature is enabled.
+

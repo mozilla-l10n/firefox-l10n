@@ -356,3 +356,7 @@ plugins-openh264-name = Códec de videu OpenH264 apurríu por Cisco Systems, Inc
 plugins-openh264-description = Esti plugin instálalu automáticamente Mozilla pa cumplir cola especificación WebRTC y pa permitir llamaes WebRTC con preseos que riquen el códec de videu H.264. Visita http://www.openh264.org/ pa ver el códigu fonte del códec y lleer más tocante a la implementación.
 plugins-widevine-name = Módulu de descifráu de conteníu Widevine apurríu por Google Inc.
 plugins-widevine-description = Esti plugin activa la reproducción del conteníu multimedia cifráu acordies cola especificación d'Estensiones Multimedia Cifraes (EME). Davezu, los sitios usen conteníu multimedia cifráu pa protexer la copia d'esi conteníu prémium. Visita https://www.w3.org/TR/encrypted-media/ pa consiguir más información tocante a les Estensiones Multimedia Cifraes (EME)
+
+## Headings for the Permissions tab in `about:addons` when the data collection
+## feature is enabled.
+

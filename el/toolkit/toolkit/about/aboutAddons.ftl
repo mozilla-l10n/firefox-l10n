@@ -570,3 +570,7 @@ plugins-openh264-name = Κωδικοποιητής βίντεο OpenH264 από 
 plugins-openh264-description = Αυτό το άρθρωμα εγκαθίσταται αυτόματα από τη Mozilla για τη συμμόρφωση με τις προδιαγραφές WebRTC και την ενεργοποίηση κλήσεων WebRTC με συσκευές που απαιτούν την κωδικοποίηση βίντεο H.264. Επισκεφθείτε το http://www.openh264.org/ για να δείτε τον πηγαίο κώδικα του κωδικοποιητή και για να μάθετε περισσότερα σχετικά με την υλοποίηση.
 plugins-widevine-name = Πρόσθετο αποκρυπτογράφησης περιεχομένου Widevine από την Google Inc.
 plugins-widevine-description = Αυτό το άρθρωμα ενεργοποιεί την αναπαραγωγή κρυπτογραφημένων πολυμέσων σύμφωνα με τις προδιαγραφές Encrypted Media Extensions. Τα κρυπτογραφημένα πολυμέσα χρησιμοποιούνται συνήθως από ιστοτόπους για προστασία ενάντια στην αντιγραφή προνομιακού περιεχομένου πολυμέσων. Επισκεφθείτε το https://www.w3.org/TR/encrypted-media/ για περισσότερες πληροφορίες σχετικά με το Encrypted Media Extensions.
+
+## Headings for the Permissions tab in `about:addons` when the data collection
+## feature is enabled.
+

@@ -279,3 +279,7 @@ plugins-openh264-name = OpenH264 Video Kodek (Cisco Systems, Inc. tarafından te
 plugins-openh264-description = Bu plagin, WebRTC belirtimine riayet içün ve H.264 video kodekini şart qoşqan cihazlar ile WebRTC körüşmelerini qabilleştirmek içün Mozilla tarafından öz-özünden qurulır. Kodekniñ menba kodunı körmek ve bu eda aqqında daa çoq ögrenmek içün http://www.openh264.org/ ziyaret etiñiz.
 plugins-widevine-name = Widevine Muhteva Deşifreleme Modüli (Google Inc. tarafından temin etilir)
 plugins-widevine-description = Bu plagin, Şifrelendirilgen Vasat Uzantıları belirtimine riayette şifrelendirilgen vasatlarnıñ oynatılmasını qabilleştirir. Şifrelendirilgen vasatlar tipik olaraq saytlar tarafından premyüm muhtevanıñ kopiyalanmasına qarşı imaye etmek içün qullanılır. Şifrelendirilgen Vasat Uzantıları aqqında daha çoq malümat içün https://www.w3.org/TR/encrypted-media/ ziyaret etiñiz.
+
+## Headings for the Permissions tab in `about:addons` when the data collection
+## feature is enabled.
+

@@ -40,3 +40,12 @@ webext-perms-description-webNavigation = 在您上网时了解浏览器的行为
 webext-perms-extra-warning-userScripts-long = 未经验证的脚本可能会带来安全和隐私风险，例如会运行有害代码或跟踪网站活动。请确保只运行来自可信扩展或来源的脚本。
 # A shorter warning is displayed in UI surfaces with little room, such as a permission prompt.
 webext-perms-extra-warning-userScripts-short = 未经验证的脚本可能带来安全和隐私风险。请确保只运行来自可信扩展或来源的脚本。
+
+## Short form to be used in lists or in a string (`webext-perms-description-data-some`)
+## that formats some of the data collection permissions below using `Intl.ListFormat`.
+##
+## This is used when the data collection permissions are required.
+
+
+## Long form to be used in `about:addons` when these data collection permissions are optional.
+

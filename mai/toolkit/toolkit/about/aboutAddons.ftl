@@ -214,3 +214,7 @@ details-notification-gmp-pending2 =
 plugins-gmp-license-info = लाइसेंसिंग सूचना
 plugins-openh264-name = H264 वीडियो कोडेक जे  Cisco Systems, Inc द्वारा उपलब्ध कराएल गेल अछि केँ खोलू
 plugins-openh264-description = ई प्लगइन मोज़िला WebRTC विनिर्देशन सँग अनुपालन करए कलेल आओर h.264 वीडियो कोडेक केर आवश्यकता अछि जे उपकरण सँग WebRTC कॉल केँ सक्षम करए कलेल स्वचालित रूप सँ स्थापित अछि. कोडेक स्रोत कोड केँ देखए आओर कार्यान्वयन केर संबंध मे बेसी जानए कलेल एकटा लिंक http://www.openh264.org/ पर जाउ.
+
+## Headings for the Permissions tab in `about:addons` when the data collection
+## feature is enabled.
+

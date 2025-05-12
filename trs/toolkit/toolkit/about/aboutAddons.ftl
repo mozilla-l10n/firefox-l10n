@@ -418,3 +418,7 @@ plugins-gmp-privacy-info = Nuguan hua huii
 plugins-openh264-name = Sa ni'io' OpenH264digan Cisco Systems, Inc.
 plugins-openh264-description = Sa gu'naj plugin nga gatuj ma'an gi'iaj Mozilla da' gi'iaj sunj nga WebRTC ni daj ga'ue ga'minj nga WebRTC nga nej aga' 'iaj sun nga sa ahui ni'io' H.264. Ni'iaj riña http://www.openh264.org/ da' gini'in codec, daj huaj codec ni daj 'iaj sunj.
 plugins-widevine-name = Widevine Content Decryption Module provided by Google Inc.
+
+## Headings for the Permissions tab in `about:addons` when the data collection
+## feature is enabled.
+

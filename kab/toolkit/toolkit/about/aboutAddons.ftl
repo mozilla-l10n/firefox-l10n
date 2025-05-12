@@ -512,3 +512,7 @@ plugins-openh264-name = OpenH264 Video Codec imudd-it-id Cisco Systems, Inc
 plugins-openh264-description = Azegrir-agi isbedd-it Mozilla s wudem awurman s uqadaṛ n ilugan WebRTC akken daɣen ad isireg isawalen WebRTC akked ibenkan isran akudic tamwalit H.264. Ddu ɣer  http://www.openh264.org/ iwakken ad twaliḍ tangalt aɣbalu n ukudik udiɣ ad tissineḍ ugar ɣef usebded ines.
 plugins-widevine-name = Azgrir n uzmek n ugbur Widevine imudd-it-id Google Inc.
 plugins-widevine-description = Azegrir-agi ad irmed taɣuri n wallalen n teywalt iwgelhanen s uqadaṛ n ilugan n wallalen n teywalt iwgelhanen. Allalen n teywalt iwgelhanen seqdacenten ismal akken ad i weḥraz mgal anɣal n ugbur premium. Rzu ɣer https://www.w3.org/TR/encrypted-media/ i ugar n talɣut ɣef isiɣzaf n wallalen n teywalt iwgelhanen.
+
+## Headings for the Permissions tab in `about:addons` when the data collection
+## feature is enabled.
+

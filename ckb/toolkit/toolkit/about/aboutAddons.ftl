@@ -371,3 +371,7 @@ details-notification-gmp-pending2 =
 
 plugins-gmp-license-info = زانیارییەکانی ڕێگەپێدان
 plugins-gmp-privacy-info = زانیارییەکانی تایبەتمەندی
+
+## Headings for the Permissions tab in `about:addons` when the data collection
+## feature is enabled.
+

@@ -538,3 +538,7 @@ plugins-openh264-name = Codec Video OpenH264 furnît di Cisco Systems, Inc.
 plugins-openh264-description = Chest plugin al ven instalât in automatic di Mozilla par conformâsi cu lis specifichis WebRTC e abilitâ lis clamadis WebRTC cui dispositîfs che a àn bisugne dal codec video H.264. Visite il sît https://www.openh264.org/ par viodi il codiç sorzint dal codec e scuvierzi di plui su la implementazion.
 plugins-widevine-name = Modul Widevine Content Decryption furnît di Google Inc.
 plugins-widevine-description = Chest plugin al abilite la riproduzion di flus multimediâi cifrâts in conformitât cu lis specifichis Encrypted Media Extensions. Il flus multimediâl cifrât di solit al ven doprât dai sîts par protezi i contignûts multimediâi di cualitât elevade cuintri de copie. Visite il sît https://www.w3.org/TR/encrypted-media/ par vê plui informazions su Encrypted Media Extensions.
+
+## Headings for the Permissions tab in `about:addons` when the data collection
+## feature is enabled.
+

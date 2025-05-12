@@ -270,3 +270,7 @@ details-notification-softblocked-link = गोबां फोरमायथि
 plugins-gmp-license-info = लाइसेन्स फोरमायथिहोग्रा
 plugins-gmp-privacy-info = गुमुरथि फोरमायथिहोग्रा
 plugins-openh264-name = चिसक' सिस्टेम्स, Inc जों होजानाय OpenH264 भिडिअ' Codec
+
+## Headings for the Permissions tab in `about:addons` when the data collection
+## feature is enabled.
+

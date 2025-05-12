@@ -564,3 +564,7 @@ plugins-openh264-name = Кодеки видеоии «OpenH264» аз тараф
 plugins-openh264-description = Барои мувофиқат кардан ба хусусиятҳои «WebRTC» ва фаъол кардани зангҳои «WebRTC» бо дастгоҳҳое, ки кодеки видеоии «H.264»-ро талаб мекунанд, ин плагин аз тарафи «Mozilla» ба таври худкор насб карда мешавад. Барои дидани рамзи манбаи кодек ва гирифтани маълумоти муфассал оид ба амалисозӣ, ба сомонаи https://www.openh264.org/ ворид шавед.
 plugins-widevine-name = Плагини рамзкушоии муҳтавои «Widevine» аз тарафи Google Inc.
 plugins-widevine-description = Ин плагин пахшкунии расонаи рамзгузоришударо мувофиқи талаботи «Encrypted Media Extensions» фаъол мекунад. Одатан, расонаи рамзгузоришуда аз тарафи сомонаҳо барои муҳофизат кардани муҳтавои мултимедиаи пулакӣ бар зидди нусхабардорӣ истифода мешавад. Барои гирифтани маълумоти бештар оид ба «Encrypted Media Extensions», ба сомонаи https://www.w3.org/TR/encrypted-media/ ворид шавед.
+
+## Headings for the Permissions tab in `about:addons` when the data collection
+## feature is enabled.
+

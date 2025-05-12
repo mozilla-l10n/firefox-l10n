@@ -537,3 +537,7 @@ plugins-openh264-name = OpenH264 Video Codec סופק על־ידי Cisco Systems
 plugins-openh264-description = תוסף חיצוני זה מותקן באופן אוטומטי על־ידי Mozilla כדי לעמוד במפרט ה־WebRTC ולאפשר קריאות WebRTC מול התקנים הדורשים קידוד וידאו H.264. ניתן לבקר באתר https://www.openh264.org לצפייה בקוד המקור ולקבלת מידע נוסף על המימוש.
 plugins-widevine-name = Widevine Content Decryption Module סופק על־ידי Google Inc.
 plugins-widevine-description = תוסף חיצוני זה מאפשר הפעלה של מדיה מוצפנת בהתאם למפרט Encrypted Media Extensions. מדיה מוצפנת משמשת בדרך כלל אתרים שמגנים מפני העתקה של תוכן בתשלום. ניתן לבקר באתר https://www.w3.org/TR/encrypted-media למידע נוסף על Encrypted Media Extensions.
+
+## Headings for the Permissions tab in `about:addons` when the data collection
+## feature is enabled.
+

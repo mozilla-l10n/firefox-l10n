@@ -570,3 +570,7 @@ plugins-openh264-name = Kodek OpenH264 Video od Cisco Systems, Inc.
 plugins-openh264-description = Tento zásuvný modul je automaticky inštalovaný Mozillou na zabezpečenie súladu so špecifikáciou pre WebRTC za účelom umožnenia hovorov prostredníctvom WebRTC so zariadeniami, ktoré vyžadujú videokodek H.264. Ďalšie informácie o implementácii a zdrojové kódy kodeku nájdete na stránkach http://www.openh264.org/.
 plugins-widevine-name = Modul na dekódovanie obsahu Widevine od Google Inc.
 plugins-widevine-description = Tento zásuvný modul umožňuje prehrávanie šifrovaných médií podľa špecifikácie Encrypted Media Extensions. Šifrované médiá sú typicky požívané na ochranu prémiového alebo plateného obsahu pred kopírovaním. Ďalšie informácie nájdete o Encrypted Media Extensions na stránke https://www.w3.org/TR/encrypted-media/.
+
+## Headings for the Permissions tab in `about:addons` when the data collection
+## feature is enabled.
+

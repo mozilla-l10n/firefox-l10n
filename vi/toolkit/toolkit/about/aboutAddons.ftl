@@ -570,3 +570,7 @@ plugins-openh264-name = Bộ giải mã OpenH264 được cung cấp bởi Cisco
 plugins-openh264-description = Phần bổ trợ này được Mozilla cài đặt tự động để tương thích với quy chuẩn WebRTC và để cho phép tạo cuộc gọi WebRTC với các thiết bị yêu cầu sử dụng mã hóa H.264. Xin hãy truy cập http://www.openh264.org/ để xem mã nguồn của bộ giải mã và tìm hiểu thêm.
 plugins-widevine-name = Mô-đun giải mã nội dung Widevine được cung cấp bởi Google Inc.
 plugins-widevine-description = Phần bổ trợ này cho phép phát lại phương tiện được mã hóa tuân thủ theo thông số kỹ thuật của phần mở rộng phương tiện được mã hóa. Phương tiện được mã hóa thường được sử dụng bởi các trang web để bảo vệ chống sao chép nội dung phương tiện cao cấp. Truy cập https://www.w3.org/TR/encrypted-media/ để biết thêm thông tin về tiện ích mở rộng phương tiện được mã hóa.
+
+## Headings for the Permissions tab in `about:addons` when the data collection
+## feature is enabled.
+

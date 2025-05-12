@@ -258,3 +258,7 @@ plugins-gmp-license-info = Ngec me lancic
 plugins-gmp-privacy-info = Ngec me mung
 plugins-openh264-name = Cisco Systems, Inc aye omiyo latuk vidio OpenH264.
 plugins-openh264-description = Larwak man Mozilla keto pire kene me lubo cik ma WebRTC cimo kadong me cako lwongo me WebRTC ki nyonyo ma mito latuk vidio me H.264. Lim http://www.openh264.org/ me neno kod me yubo codec ki nong ngec mapol ikom keto ne itic.
+
+## Headings for the Permissions tab in `about:addons` when the data collection
+## feature is enabled.
+
