@@ -18,6 +18,7 @@ webext-perms-sideload-header = { $extension } is toegevoegd
 webext-perms-optional-perms-header2 = { $extension } vraagt aanvullende toestemmingen
 webext-perms-optional-perms-header = { $extension } vraagt aanvullende toestemmingen.
 webext-perms-header2 = { $extension } toevoegen
+webext-perms-list-intro-unsigned = Deze niet-geverifieerde extensie kan uw privacy of uw apparaat in gevaar brengen. Voeg het alleen toe als u de bron vertrouwt.
 
 ## Headers used in the webextension permissions dialog, inside the content.
 

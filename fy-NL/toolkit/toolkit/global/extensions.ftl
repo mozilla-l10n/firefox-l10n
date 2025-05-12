@@ -18,6 +18,7 @@ webext-perms-sideload-header = { $extension } tafoege
 webext-perms-optional-perms-header2 = { $extension } freget oanfoljende tastimmingen
 webext-perms-optional-perms-header = { $extension } freget oanfoljende tastimmingen.
 webext-perms-header2 = { $extension } tafoegje
+webext-perms-list-intro-unsigned = Dizze net-ferifiearre útwreiding kin jo privacy of jo apparaat yn gefaar bringe. Foegje it allinnich ta as jo de boarne fertrouwe.
 
 ## Headers used in the webextension permissions dialog, inside the content.
 
