@@ -187,6 +187,8 @@ migration-safari-password-import-step1 = Safari で “Safari” メニューを
 migration-safari-password-import-step2 = <img data-l10n-name="safari-icon-3dots"/> ボタンを選択し、“パスワードを書き出す” を選択します
 migration-safari-password-import-step3 = パスワードファイルを保存します
 migration-safari-password-import-step4 = 下の “ファイルを選択” をクリックし、保存したパスワードファイルを選んでください。
+migration-manual-password-import-skip-button = スキップ
+migration-manual-password-import-select-button = ファイルを選択
 migration-safari-password-import-skip-button = スキップ
 migration-safari-password-import-select-button = ファイルを選択
 # Shown in the migration wizard after importing bookmarks from another
