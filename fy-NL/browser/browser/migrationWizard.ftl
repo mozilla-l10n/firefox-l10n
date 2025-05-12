@@ -196,6 +196,8 @@ migration-safari-password-import-step1 = Iepenje yn Safari it menu ‘Safari’ 
 migration-safari-password-import-step2 = Selektearje de knop <img data-l10n-name="safari-icon-3dots"/> en kies ‘Alle wachtwoorden exporteren’
 migration-safari-password-import-step3 = Bewarje it wachtwurdbestân
 migration-safari-password-import-step4 = Brûk ‘Bestân selektearje’ hjirûnder om it wachtwurdbestân dat jo bewarre hawwe te kiezen
+migration-manual-password-import-skip-button = Oerslaan
+migration-manual-password-import-select-button = Bestân selektearje
 migration-safari-password-import-skip-button = Oerslaan
 migration-safari-password-import-select-button = Bestân selektearje
 # Shown in the migration wizard after importing bookmarks from another
