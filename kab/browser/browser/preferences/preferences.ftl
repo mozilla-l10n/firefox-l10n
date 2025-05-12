@@ -227,11 +227,16 @@ containers-remove-alert-msg =
     }
 containers-remove-ok-button = Kkes amagbar-a
 containers-remove-cancel-button = Ur tekkes ara amagbar-a
+settings-tabs-show-image-in-preview =
+    .label = Sken-d taskant mi ara tettezziḍ ɣef yiccer
+    .accessKey = k
 browser-layout-header = Taneɣruft n yiminig
 browser-layout-horizontal-tabs =
     .label = Accaren iglawanen
+browser-layout-horizontal-tabs-desc = Sken i usawen n yiminig
 browser-layout-vertical-tabs =
     .label = Accaren ubdiden
+browser-layout-vertical-tabs-desc = Sken deg yidis n yiminig, deg ufeggag adisan
 browser-layout-show-sidebar =
     .label = Sken afeggag adisan
 
@@ -257,6 +262,10 @@ preferences-web-appearance-choice-input-dark =
     .aria-description = { preferences-web-appearance-choice-tooltip-dark.title }
 # This can appear when using windows HCM or "Override colors: always" without
 # system colors.
+preferences-web-appearance-override-warning3 =
+    .message = Iɣewwaren n usenqed ugnil ttbeddilent arwes n usmel web.
+# This can appear when using windows HCM or "Override colors: always" without
+# system colors.
 preferences-web-appearance-override-warning = Tifranin-ik•im n yiniten ttbeddilent arwes n usmel web. <a data-l10n-name="colors-link">Sefrek initen</a>
 # This can appear when using windows HCM or "Override colors: always" without
 # system colors.
@@ -265,6 +274,7 @@ preferences-web-appearance-override-warning2 =
 # This message contains one link. It can be moved within the sentence as needed
 # to adapt to your language, but should not be changed.
 preferences-web-appearance-footer = Sefrek isental n { -brand-short-name } deg <a data-l10n-name="themes-link">yiseɣzaf & yisental</a>
+preferences-contrast-control-header = Asenqed n ugnil
 preferences-contrast-control-off =
     .label = Yensa
     .accesskey = Y
@@ -629,6 +639,7 @@ home-prefs-snippets-header =
 home-prefs-snippets-description-new = Iwellihen d yisallen sɣur { -vendor-short-name } akked { -brand-product-name }
 home-prefs-weather-header =
     .label = Tagnawt
+home-prefs-weather-description = Taḥawact ɣef liḥala n tegnawt assa
 home-prefs-weather-learn-more-link = Issin ugar
 # Variables:
 #   $num (number) - Number of rows displayed
