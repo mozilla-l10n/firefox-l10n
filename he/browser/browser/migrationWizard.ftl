@@ -196,6 +196,8 @@ migration-safari-password-import-step1 = ב־Safari, יש לפתוח את תפר
 migration-safari-password-import-step2 = יש ללחוץ על הכפתור <img data-l10n-name="safari-icon-3dots"/> ולבחור באפשרות ״ייצוא כל הסיסמאות״
 migration-safari-password-import-step3 = יש לשמור את קובץ הססמאות
 migration-safari-password-import-step4 = יש להשתמש בכפתור ״בחירת קובץ״ שלהלן כדי לבחור בקובץ הססמאות ששמרת
+migration-manual-password-import-skip-button = דילוג
+migration-manual-password-import-select-button = בחירת קובץ
 migration-safari-password-import-skip-button = דילוג
 migration-safari-password-import-select-button = בחירת קובץ
 # Shown in the migration wizard after importing bookmarks from another
