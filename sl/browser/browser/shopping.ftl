@@ -257,6 +257,7 @@ shopping-onboarding-welcome-steps-indicator-label =
 
 ## Messages for callout for users not opted into the sidebar integrated version of Review Checker.
 
+shopping-callout-not-opted-in-integrated-paragraph2 = Z izbiro “{ shopping-opt-in-integrated-button }“ se strinjate z <a data-l10n-name="privacy_policy">obvestilom o zasebnosti { -brand-product-name(sklon: "rodilnik") }</a> in <a data-l10n-name="terms_of_use">pogoji uporabe { -fakespot-brand-full-name(sklon: "rodilnik") }</a>.
 shopping-callout-not-opted-in-integrated-reminder-dismiss-button = Zapri
 shopping-callout-not-opted-in-integrated-reminder-accept-button = Vklopi pregledovalnik mnenj
 shopping-callout-not-opted-in-integrated-reminder-do-not-show = Tega priporočila ne prikazuj več
@@ -269,6 +270,7 @@ shopping-opt-in-integrated-button = Preizkusite pregledovalnik mnenj
 
 ## Confirm disabling Review Checker for newly opted out users
 
+shopping-integrated-callout-opted-out-title = Pregledovalnik mnenj je izključen
 
 ## Callout for where to find Review Checker when the sidebar closes
 
