@@ -196,6 +196,8 @@ migration-safari-password-import-step1 = Safari وچ ، ”Safari“ مینیو 
 migration-safari-password-import-step2 = <img data-l10n-name="safari-icon-3dots"/> بٹݨ چݨو تے "سارے پاس ورڈ ایکسپورٹ کرو" چݨو
 migration-safari-password-import-step3 = پاس ورڈز فائل محفوظ کرو
 migration-safari-password-import-step4 = آپݨی محفوظ کیتی ہوئی پاس ورڈ فائل چݨݨ کیتے ہیٹھاں ”فائل چݨو” ورتو
+migration-manual-password-import-skip-button = چھوڑو
+migration-manual-password-import-select-button = فائل چݨو
 migration-safari-password-import-skip-button = چھوڑو
 migration-safari-password-import-select-button = فائل چݨو
 # Shown in the migration wizard after importing bookmarks from another
