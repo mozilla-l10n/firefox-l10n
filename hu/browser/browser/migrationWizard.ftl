@@ -196,6 +196,8 @@ migration-safari-password-import-step1 = A Safariban nyissa meg a „Safari” m
 migration-safari-password-import-step2 = Válassza a <img data-l10n-name="safari-icon-3dots"/> gombot, és válassza az „Összes jelszó exportálása” lehetőséget
 migration-safari-password-import-step3 = Mentse a jelszavakat tartalmazó fájlt
 migration-safari-password-import-step4 = Használja az alábbi „Fájl kiválasztása” lehetőséget a mentett jelszófájl kiválasztásához
+migration-manual-password-import-skip-button = Kihagyás
+migration-manual-password-import-select-button = Fájl kiválasztása
 migration-safari-password-import-skip-button = Kihagyás
 migration-safari-password-import-select-button = Fájl kiválasztása
 # Shown in the migration wizard after importing bookmarks from another

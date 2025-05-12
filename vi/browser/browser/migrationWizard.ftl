@@ -184,6 +184,8 @@ migration-safari-password-import-step1 = Trong Safari, mở menu “Safari” v�
 migration-safari-password-import-step2 = Chọn nút <img data-l10n-name="safari-icon-3dots"/> và chọn “Xuất tất cả mật khẩu”
 migration-safari-password-import-step3 = Lưu tập tin mật khẩu
 migration-safari-password-import-step4 = Sử dụng “Chọn tập tin” bên dưới để chọn tập tin mật khẩu mà bạn đã lưu
+migration-manual-password-import-skip-button = Bỏ qua
+migration-manual-password-import-select-button = Chọn tập tin
 migration-safari-password-import-skip-button = Bỏ qua
 migration-safari-password-import-select-button = Chọn tập tin
 # Shown in the migration wizard after importing bookmarks from another

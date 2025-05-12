@@ -196,6 +196,8 @@ migration-safari-password-import-step1 = En Safari, avrir il menu «Safari», ir
 migration-safari-password-import-step2 = Clicca sin il buttun <img data-l10n-name="safari-icon-3dots"/> e tscherna l'opziun per exportar tut ils pleds-clav
 migration-safari-password-import-step3 = Memorisescha la datoteca dals pleds-clav
 migration-safari-password-import-step4 = Utilisescha «Tscherner ina datoteca» sutvart per selecziunar la datoteca dals pleds-clav che ti has memorisà
+migration-manual-password-import-skip-button = Sursiglir
+migration-manual-password-import-select-button = Tscherner ina datoteca
 migration-safari-password-import-skip-button = Sursiglir
 migration-safari-password-import-select-button = Tscherner ina datoteca
 # Shown in the migration wizard after importing bookmarks from another

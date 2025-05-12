@@ -193,6 +193,8 @@ migration-safari-password-import-steps-header = I wakken ad d-tsifḍeḍ awalen
 migration-safari-password-import-step2 = Fren taqeffalt <img data-l10n-name="safari-icon-3dots"/> syen fren "Kter meṛṛa awalen uffiren"
 migration-safari-password-import-step3 = Sekles afaylu n wawalen uffiren
 migration-safari-password-import-step4 = Seqdec “Fren afaylu” ddaw i ufran n ufaylu n wawalen uffiren i teskelseḍ
+migration-manual-password-import-skip-button = Suref
+migration-manual-password-import-select-button = Fren afaylu
 migration-safari-password-import-skip-button = Suref
 migration-safari-password-import-select-button = Fren afaylu
 # Shown in the migration wizard after importing bookmarks from another

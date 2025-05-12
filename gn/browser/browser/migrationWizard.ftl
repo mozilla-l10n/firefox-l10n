@@ -196,6 +196,8 @@ migration-safari-password-import-step1 = Safari ndive, embojuruja “Safari” p
 migration-safari-password-import-step2 = Eiporu votõ <img data-l10n-name="safari-icon-3dots"/> ha eiporavo “Ñe’ẽñemi Jeguerupaite”
 migration-safari-password-import-step3 = Eñongatu ñe’ẽñemi marandurenda
 migration-safari-password-import-step4 = Eiporu “Marandurenda jeporavo” ehecha hag̃ua ñe’ẽñemi eñongatuséva
+migration-manual-password-import-skip-button = Jepo
+migration-manual-password-import-select-button = Eiporavo Marandurenda
 migration-safari-password-import-skip-button = Jepo
 migration-safari-password-import-select-button = Eiporavo Marandurenda
 # Shown in the migration wizard after importing bookmarks from another

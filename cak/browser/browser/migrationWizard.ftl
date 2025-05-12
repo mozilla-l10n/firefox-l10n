@@ -177,6 +177,8 @@ migration-safari-password-import-step1 = Pa Safari, tijaq ri cholsamaj “Safari
 migration-safari-password-import-step2 = Tacha' ri <img data-l10n-name="safari-icon-3dots"/> pitz'b'äl k'a ri tacha' “Kejik' Ronojel Ewan taq Tzij”
 migration-safari-password-import-step3 = Keyak kiyakb'al ewan taq tzij
 migration-safari-password-import-step4 = Tokisäx “Ticha' Yakb'äl” chuxe' richin nicha' ri ruyakb'al ewan taq tzij xtiyak
+migration-manual-password-import-skip-button = Tik'o'
+migration-manual-password-import-select-button = Ticha' Yakb'äl
 migration-safari-password-import-skip-button = Tik'o'
 migration-safari-password-import-select-button = Ticha' Yakb'äl
 # Shown in the migration wizard after importing bookmarks from another

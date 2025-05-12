@@ -187,6 +187,8 @@ migration-safari-password-import-step1 = සෆාරි හි, "සෆාර�
 migration-safari-password-import-step2 = <img data-l10n-name="safari-icon-3dots"/> බොත්තම තෝරා “සියළු මුරපද නිර්යාත කරන්න” තෝරන්න
 migration-safari-password-import-step3 = මුරපද ගොනුව සුරකින්න
 migration-safari-password-import-step4 = ඔබ සුරකින ලද මුරපද ගොනුව තේරීමට පහත "ගොනුව තෝරන්න" භාවිතා කරන්න
+migration-manual-password-import-skip-button = මඟහරින්න
+migration-manual-password-import-select-button = ගොනුවක් තෝරන්න
 migration-safari-password-import-skip-button = මඟහරින්න
 migration-safari-password-import-select-button = ගොනුවක් තෝරන්න
 # Shown in the migration wizard after importing bookmarks from another

@@ -175,6 +175,8 @@ migration-safari-password-import-step1 = ໃນ Safari, ເປີດເມນູ
 migration-safari-password-import-step2 = ເລືອກປຸ່ມ <img data-l10n-name="safari-icon-3dots"/> ແລະເລືອກ “ສົ່ງອອກລະຫັດຜ່ານທັງໝົດ”
 migration-safari-password-import-step3 = ບັນທຶກໄຟລ໌ລະຫັດຜ່ານ
 migration-safari-password-import-step4 = ໃຊ້ “ເລືອກໄຟລ໌” ຂ້າງລຸ່ມນີ້ເພື່ອເລືອກໄຟລ໌ລະຫັດຜ່ານທີ່ທ່ານບັນທຶກໄວ້
+migration-manual-password-import-skip-button = ຂ້າມ
+migration-manual-password-import-select-button = ເລືອກ File
 migration-safari-password-import-skip-button = ຂ້າມ
 migration-safari-password-import-select-button = ເລືອກ File
 # Shown in the migration wizard after importing bookmarks from another

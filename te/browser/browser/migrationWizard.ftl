@@ -91,6 +91,7 @@ migration-wizard-progress-icon-in-progress =
     .aria-label = దిగుమతవుతున్నది…
 migration-wizard-progress-icon-completed =
     .aria-label = పూర్తయింది
+migration-manual-password-import-skip-button = దాటవేయి
 migration-safari-password-import-skip-button = దాటవేయి
 
 ## The import process identifies extensions installed in other supported

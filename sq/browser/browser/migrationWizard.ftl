@@ -196,6 +196,8 @@ migration-safari-password-import-step1 = Në Safari hapni menunë “Safari” d
 migration-safari-password-import-step2 = Përzgjidhni butonin <img data-l10n-name="safari-icon-3dots"/> dhe zgjidhni “Eksportoji Krejt Fjalëkalimet”
 migration-safari-password-import-step3 = Ruani kartelën e fjalëkalimeve
 migration-safari-password-import-step4 = Përdorni “Përzgjidhni Kartelë” më poshtë që të zgjidhni kartelën e fjalëkalimeve që ruajtët
+migration-manual-password-import-skip-button = Anashkaloje
+migration-manual-password-import-select-button = Përzgjidhni Kartelë
 migration-safari-password-import-skip-button = Anashkaloje
 migration-safari-password-import-select-button = Përzgjidhni Kartelë
 # Shown in the migration wizard after importing bookmarks from another

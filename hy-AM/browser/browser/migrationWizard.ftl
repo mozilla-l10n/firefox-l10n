@@ -186,6 +186,8 @@ migration-safari-password-import-step1 = Safari-ում բացեք «Safari» ց�
 migration-safari-password-import-step2 = Ընտրեք <img data-l10n-name="safari-icon-3dots"/> կոճակը և ընտրեք «Արտահանել բոլոր գաղտնաբառերը»
 migration-safari-password-import-step3 = Պահեք գաղտնաբառերի ֆայլը
 migration-safari-password-import-step4 = Օգտագործեք «Ընտրեք ֆայլը» ստորև՝ ձեր պահած գաղտնաբառերի ֆայլը ընտրելու համար
+migration-manual-password-import-skip-button = Բաց թողնել
+migration-manual-password-import-select-button = Ընտրեք Ֆայլ
 migration-safari-password-import-skip-button = Բաց թողնել
 migration-safari-password-import-select-button = Ընտրեք Ֆայլ
 # Shown in the migration wizard after importing bookmarks from another

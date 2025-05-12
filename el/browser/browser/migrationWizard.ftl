@@ -196,6 +196,8 @@ migration-safari-password-import-step1 = Στο Safari, ανοίξτε το με
 migration-safari-password-import-step2 = Κάντε κλικ στο κουμπί <img data-l10n-name="safari-icon-3dots"/> και επιλέξτε «Εξαγωγή όλων των συνθηματικών»
 migration-safari-password-import-step3 = Αποθηκεύστε το αρχείο κωδικών πρόσβασης
 migration-safari-password-import-step4 = Χρησιμοποιήστε το «Επιλογή αρχείου» παρακάτω για να επιλέξετε το αρχείο κωδικών πρόσβασης που αποθηκεύσατε
+migration-manual-password-import-skip-button = Παράλειψη
+migration-manual-password-import-select-button = Επιλογή αρχείου
 migration-safari-password-import-skip-button = Παράλειψη
 migration-safari-password-import-select-button = Επιλογή αρχείου
 # Shown in the migration wizard after importing bookmarks from another

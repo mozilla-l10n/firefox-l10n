@@ -111,6 +111,8 @@ migration-continue-button-label = Vanni avanti
 
 ##
 
+migration-manual-password-import-skip-button = Sâta
+migration-manual-password-import-select-button = Seleçionn-a schedaio
 migration-safari-password-import-skip-button = Sâta
 migration-safari-password-import-select-button = Seleçionn-a schedaio
 # Shown in the migration wizard after importing bookmarks from another

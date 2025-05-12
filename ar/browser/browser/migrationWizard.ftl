@@ -163,6 +163,8 @@ migration-wizard-progress-icon-completed =
 migration-safari-password-import-header = استورد كلمات السر من Safari
 migration-safari-password-import-steps-header = لاستيراد كلمات سر Safari:
 migration-safari-password-import-step3 = احفظ ملف كلمات السر
+migration-manual-password-import-skip-button = تخطَّ
+migration-manual-password-import-select-button = اختر ملفًا
 migration-safari-password-import-skip-button = تخطَّ
 migration-safari-password-import-select-button = اختر ملفًا
 

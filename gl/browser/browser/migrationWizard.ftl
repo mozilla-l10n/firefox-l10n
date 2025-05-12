@@ -196,6 +196,8 @@ migration-safari-password-import-step1 = En Safari, abra o menú «Safari» e va
 migration-safari-password-import-step2 = Seleccione o botón <img data-l10n-name="safari-icon-3dots"/> e escolla «Exportar todos os contrasinais»
 migration-safari-password-import-step3 = Garda o ficheiro de contrasinais
 migration-safari-password-import-step4 = Use "Seleccionar ficheiro" a continuación para escoller o ficheiro de contrasinais que gardou
+migration-manual-password-import-skip-button = Saltar
+migration-manual-password-import-select-button = Seleccionar un ficheiro
 migration-safari-password-import-skip-button = Saltar
 migration-safari-password-import-select-button = Seleccionar un ficheiro
 # Shown in the migration wizard after importing bookmarks from another

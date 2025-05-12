@@ -202,6 +202,8 @@ migration-safari-password-import-step1 = Wočińće meni „Safari“ w Safari a
 migration-safari-password-import-step2 = Wubjerće tłóčatko <img data-l10n-name="safari-icon-3dots"/> a wubjerće „Alle Passwörter exportieren“
 migration-safari-password-import-step3 = Dataju hesłow składować
 migration-safari-password-import-step4 = Wubjerće „Dataju wubrać“ deleka, zo byšće dataju hesłow wubrał, kotruž sće składował
+migration-manual-password-import-skip-button = Přeskočić
+migration-manual-password-import-select-button = Dataju wubrać
 migration-safari-password-import-skip-button = Přeskočić
 migration-safari-password-import-select-button = Dataju wubrać
 # Shown in the migration wizard after importing bookmarks from another

@@ -199,6 +199,8 @@ migration-safari-password-import-step1 = Safari ᱨᱮ, “Safari” ᱢᱮᱱ�
 migration-safari-password-import-step2 = <img data-l10n-name="safari-icon-3dots"/> ᱵᱩᱛᱟᱹᱢ ᱵᱟᱪᱷᱟᱣ ᱢᱮ ᱟᱨ “ᱡᱷᱚᱛᱚ ᱫᱟᱱᱟᱝ ᱥᱟᱵᱟᱫ ᱵᱷᱮᱡᱟᱭ ᱢᱮ” ᱵᱟᱪᱷᱟᱣ ᱢᱮ
 migration-safari-password-import-step3 = ᱫᱟᱱᱟᱝ ᱥᱟᱦᱟᱫ ᱨᱮᱫ ᱥᱟᱺᱪᱟᱣ ᱢᱮ
 migration-safari-password-import-step4 = ᱞᱟᱛᱟᱨ ᱨᱮ ᱢᱮᱱᱟᱜ “ᱨᱮᱫ ᱵᱟᱪᱷᱟᱣ” ᱵᱮᱵᱷᱟᱨ ᱛᱮ ᱥᱟᱸᱪᱷᱟᱣ ᱠᱟᱱ ᱫᱟᱱᱟᱝ ᱥᱟᱵᱟᱫ ᱨᱮᱫ ᱟᱢ ᱵᱮᱵᱷᱟᱨ ᱢᱮ
+migration-manual-password-import-skip-button = ᱟᱲᱟᱜ
+migration-manual-password-import-select-button = ᱨᱮᱫ ᱵᱟᱪᱷᱟᱣ ᱢᱮ
 migration-safari-password-import-skip-button = ᱟᱲᱟᱜ
 migration-safari-password-import-select-button = ᱨᱮᱫ ᱵᱟᱪᱷᱟᱣ ᱢᱮ
 # Shown in the migration wizard after importing bookmarks from another

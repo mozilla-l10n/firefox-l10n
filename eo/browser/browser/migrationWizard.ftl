@@ -196,6 +196,8 @@ migration-safari-password-import-step1 = En Safari, malfermu la menuon “Safari
 migration-safari-password-import-step2 = Elektu la butonon <img data-l10n-name="safari-icon-3dots"/> kaj “Elporti ĉiujn pasvortojn”
 migration-safari-password-import-step3 = Konservi la dosieron kun pasvortoj
 migration-safari-password-import-step4 = Malsupre, uzu “Elekti dosieron” por elekti la dosieron kun pasvortoj, kiun vi konservis
+migration-manual-password-import-skip-button = Ignori
+migration-manual-password-import-select-button = Elekti dosieron
 migration-safari-password-import-skip-button = Ignori
 migration-safari-password-import-select-button = Elekti dosieron
 # Shown in the migration wizard after importing bookmarks from another

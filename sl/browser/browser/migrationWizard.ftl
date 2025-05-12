@@ -202,6 +202,8 @@ migration-safari-password-import-step1 = V Safariju odprite meni “Safari” in
 migration-safari-password-import-step2 = Kliknite gumb <img data-l10n-name="safari-icon-3dots"/> in izberite “Export All Passwords”
 migration-safari-password-import-step3 = Shranite datoteko z gesli
 migration-safari-password-import-step4 = Spodaj kliknite “Izberi datoteko” in poiščite datoteko, ki ste jo shranili
+migration-manual-password-import-skip-button = Preskoči
+migration-manual-password-import-select-button = Izberi datoteko
 migration-safari-password-import-skip-button = Preskoči
 migration-safari-password-import-select-button = Izberi datoteko
 # Shown in the migration wizard after importing bookmarks from another

@@ -196,6 +196,8 @@ migration-safari-password-import-step1 = I Safari, opne «Safari»-menyen og gå
 migration-safari-password-import-step2 = Vel knappen <img data-l10n-name="safari-icon-3dots"/> og vel «Eksporter alle passord»
 migration-safari-password-import-step3 = Lagre passordfila
 migration-safari-password-import-step4 = Bruk «Vel fil» nedanfor for å velje passordfila du lagra
+migration-manual-password-import-skip-button = Hopp over
+migration-manual-password-import-select-button = Vel fil
 migration-safari-password-import-skip-button = Hopp over
 migration-safari-password-import-select-button = Vel fil
 # Shown in the migration wizard after importing bookmarks from another

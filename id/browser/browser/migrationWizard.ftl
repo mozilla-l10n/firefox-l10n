@@ -188,6 +188,8 @@ migration-safari-password-import-step1 = Di Safari, buka menu “Safari” dan b
 migration-safari-password-import-step2 = Pilih tombol <img data-l10n-name="safari-icon-3dots"/> dan pilih “Ekspor Semua Kata Sandi”
 migration-safari-password-import-step3 = Simpan berkas sandi
 migration-safari-password-import-step4 = Gunakan “Pilih Berkas” di bawah ini untuk memilih berkas tempat Anda menyimpan kata sandi
+migration-manual-password-import-skip-button = Lewati
+migration-manual-password-import-select-button = Pilih Berkas
 migration-safari-password-import-skip-button = Lewati
 migration-safari-password-import-select-button = Pilih Berkas
 # Shown in the migration wizard after importing bookmarks from another

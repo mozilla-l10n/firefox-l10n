@@ -192,6 +192,8 @@ migration-safari-password-import-step1 = ใน Safari ให้เปิดเ�
 migration-safari-password-import-step2 = เลือกปุ่ม <img data-l10n-name="safari-icon-3dots"/> แล้วเลือก “ส่งออกรหัสผ่านทั้งหมด”
 migration-safari-password-import-step3 = บันทึกไฟล์รหัสผ่าน
 migration-safari-password-import-step4 = ใช้ “เลือกไฟล์” ด้านล่างเพื่อเลือกไฟล์รหัสผ่านที่คุณได้บันทึกไว้
+migration-manual-password-import-skip-button = ข้าม
+migration-manual-password-import-select-button = เลือกไฟล์
 migration-safari-password-import-skip-button = ข้าม
 migration-safari-password-import-select-button = เลือกไฟล์
 # Shown in the migration wizard after importing bookmarks from another

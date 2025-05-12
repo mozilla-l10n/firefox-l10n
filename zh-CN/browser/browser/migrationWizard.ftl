@@ -184,6 +184,8 @@ migration-safari-password-import-step1 = 在 Safari 浏览器中，打开“Safa
 migration-safari-password-import-step2 = 点按 <img data-l10n-name="safari-icon-3dots"/> 按钮，然后选取“导出所有密码”
 migration-safari-password-import-step3 = 保存密码文件
 migration-safari-password-import-step4 = 使用下方的“选择文件”来选取您保存的密码文件
+migration-manual-password-import-skip-button = 跳过
+migration-manual-password-import-select-button = 选择文件
 migration-safari-password-import-skip-button = 跳过
 migration-safari-password-import-select-button = 选择文件
 # Shown in the migration wizard after importing bookmarks from another

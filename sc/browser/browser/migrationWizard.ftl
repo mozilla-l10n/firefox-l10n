@@ -196,6 +196,8 @@ migration-safari-password-import-step1 = In Safari, aberi su menù “Safari” 
 migration-safari-password-import-step2 = Seletziona su butone <img data-l10n-name="safari-icon-3dots"/> e sèbera “Esporta totu is craes”
 migration-safari-password-import-step3 = Sarva s’archìviu de craes
 migration-safari-password-import-step4 = Imprea “Seletziona archìviu” a bàsciu pro seberare s’archìviu de is craes chi as sarvadu
+migration-manual-password-import-skip-button = Brinca
+migration-manual-password-import-select-button = Seletziona un’archìviu
 migration-safari-password-import-skip-button = Brinca
 migration-safari-password-import-select-button = Seletziona un’archìviu
 # Shown in the migration wizard after importing bookmarks from another
