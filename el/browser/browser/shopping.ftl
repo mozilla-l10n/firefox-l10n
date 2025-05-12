@@ -93,12 +93,12 @@ shopping-settings-recommendations-toggle2 =
     .label = Εμφάνιση προτάσεων και χορηγούμενου περιεχομένου
 shopping-settings-recommendations-learn-more3 = Το { -brand-product-name } δεν κοινοποιεί τα προσωπικά σας δεδομένα, επομένως αυτές οι προτάσεις δεν θα σας ακολουθούν σε όλο το διαδίκτυο. <a data-l10n-name="review-quality-url">Μάθετε περισσότερα</a>
 shopping-settings-recommendations-toggle =
-    .label = Εμφάνιση διαφημίσεων στον έλεγχο κριτικών
+    .label = Εμφάνιση διαφημίσεων στον Έλεγχο κριτικών
 shopping-settings-recommendations-learn-more2 = Θα βλέπετε περιστασιακά διαφημίσεις για σχετικά προϊόντα. Διαφημίζουμε μόνο προϊόντα με αξιόπιστες κριτικές. <a data-l10n-name="review-quality-url">Μάθετε περισσότερα</a>
-shopping-settings-opt-out-button = Απενεργοποίηση ελέγχου κριτικών
-powered-by-fakespot = Ο έλεγχος κριτικών παρέχεται από το <a data-l10n-name="fakespot-link">{ -fakespot-brand-full-name }</a>.
+shopping-settings-opt-out-button = Απενεργοποίηση Ελέγχου κριτικών
+powered-by-fakespot = Ο Έλεγχος κριτικών παρέχεται από το <a data-l10n-name="fakespot-link">{ -fakespot-brand-full-name }</a>.
 shopping-settings-auto-open-toggle =
-    .label = Αυτόματο άνοιγμα ελέγχου κριτικών
+    .label = Αυτόματο άνοιγμα Ελέγχου κριτικών
 # Description text for regions where we support three sites. Sites are limited to Amazon, Walmart and Best Buy.
 # Variables:
 #   $firstSite (String) - The first shopping page name
@@ -109,7 +109,7 @@ shopping-settings-auto-open-description-three-sites = Όταν βλέπετε π
 # Variables:
 #   $currentSite (String) - The current shopping page name
 shopping-settings-auto-open-description-single-site = Όταν βλέπετε προϊόντα στο { $currentSite }
-shopping-settings-sidebar-enabled-state = Ο έλεγχος κριτικών είναι <strong>ενεργός</strong>
+shopping-settings-sidebar-enabled-state = Ο Έλεγχος κριτικών είναι <strong>ενεργός</strong>
 
 ## Strings for the adjusted rating component
 
@@ -146,9 +146,9 @@ shopping-analysis-explainer-review-grading-scale-unreliable = Αναξιόπισ
 ## Strings for UrlBar button
 
 shopping-sidebar-open-button2 =
-    .tooltiptext = Άνοιγμα ελέγχου κριτικών
+    .tooltiptext = Άνοιγμα Ελέγχου κριτικών
 shopping-sidebar-close-button2 =
-    .tooltiptext = Κλείσιμο ελέγχου κριτικών
+    .tooltiptext = Κλείσιμο Ελέγχου κριτικών
 
 ## Strings for the unanalyzed product card.
 ## The word 'analyzer' when used here reflects what this tool is called on
@@ -298,7 +298,6 @@ shopping-integrated-callout-opted-out-subtitle = Για να τον ενεργο
 
 ## Callout for where to find Review Checker when the sidebar closes
 
-shopping-integrated-callout-sidebar-closed-title = Επιστροφή στον έλεγχο κριτικών
 shopping-integrated-callout-sidebar-closed-subtitle = Επιλέξτε την ετικέτα τιμής στην πλαϊνή γραμμή για να δείτε αν μπορείτε να εμπιστευτείτε τις κριτικές ενός προϊόντος.
 shopping-integrated-callout-no-logo-sidebar-closed-subtitle = Επιλέξτε το κουμπί της πλαϊνής γραμμής για να δείτε αν μπορείτε να εμπιστευτείτε τις κριτικές ενός προϊόντος.
 
@@ -306,9 +305,7 @@ shopping-integrated-callout-no-logo-sidebar-closed-subtitle = Επιλέξτε �
 ## The card will only appear for users that have the default sidebar position, which is on the left side for non RTL locales.
 ## Review Checker in the sidebar is only available to US users at this time, so we can assume that the default position is on the left side.
 
-shopping-integrated-new-position-notification-title = Ο ίδιος έλεγχος κριτικών, σε νέο μέρος
-shopping-integrated-new-position-notification-move-right-subtitle = Διατηρήστε τον έλεγχο κριτικών και τα υπόλοιπα εργαλεία της πλαϊνής γραμμής του { -brand-product-name } εδώ ή μετακινήστε τα στα δεξιά. Αλλάξτε τη θέση τώρα ή ανά πάσα στιγμή στις <a data-l10n-name="sidebar_settings">ρυθμίσεις της πλαϊνής γραμμής</a>.
-shopping-integrated-new-position-notification-move-left-subtitle = Διατηρήστε τον έλεγχο κριτικών και τα υπόλοιπα εργαλεία της πλαϊνής γραμμής του { -brand-product-name } εδώ ή μετακινήστε τα στα αριστερά. Αλλάξτε τη θέση τώρα ή ανά πάσα στιγμή στις <a data-l10n-name="sidebar_settings">ρυθμίσεις της πλαϊνής γραμμής</a>.
+shopping-integrated-new-position-notification-move-left-subtitle = Διατηρήστε τον Έλεγχο κριτικών και τα υπόλοιπα εργαλεία της πλαϊνής γραμμής του { -brand-product-name } εδώ ή μετακινήστε τα στα αριστερά. Αλλάξτε τη θέση τώρα ή ανά πάσα στιγμή στις <a data-l10n-name="sidebar_settings">ρυθμίσεις της πλαϊνής γραμμής</a>.
 shopping-integrated-new-position-notification-move-right-button = Μετακίνηση δεξιά
 shopping-integrated-new-position-notification-move-left-button = Μετακίνηση αριστερά
 shopping-integrated-new-position-notification-dismiss-button = Το κατάλαβα
@@ -316,7 +313,7 @@ shopping-integrated-new-position-notification-dismiss-button = Το κατάλα
 ## Combined setting for auto-open and auto-close.
 
 shopping-settings-auto-open-and-close-toggle =
-    .label = Αυτόματο άνοιγμα και κλείσιμο ελέγχου κριτικών
+    .label = Αυτόματο άνοιγμα και κλείσιμο Ελέγχου κριτικών
 # Description text for regions where we support three sites. Sites are limited to Amazon, Walmart and Best Buy.
 # Variables:
 #   $firstSite (String) - The first shopping page name
