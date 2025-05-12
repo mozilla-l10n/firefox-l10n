@@ -196,6 +196,8 @@ migration-safari-password-import-step1 = Safari ਵਿੱਚ, “Safari” ਮ�
 migration-safari-password-import-step2 = <img data-l10n-name="safari-icon-3dots"/> ਬਟਨ ਚੁਣੋ ਅਤੇ “Export All Passwords” ਨੂੰ ਚੁਣੋ
 migration-safari-password-import-step3 = ਪਾਸਵਰਡਾਂ ਵਾਲੀ ਫ਼ਾਇਲ ਸੰਭਾਲੋ
 migration-safari-password-import-step4 = ਤੁਹਾਡੇ ਵਲੋਂ ਸੰਭਾਲੀ ਗਈ ਪਾਸਵਰਡਾਂ ਵਾਲੀ ਫ਼ਾਇਲ ਨੂੰ ਚੁਣਨ ਲਈ ਹੇਠਾਂ ਤੋਂ “ਫ਼ਾਇਲ ਚੁਣੋ” ਨੂੰ ਵਰਤੋਂ
+migration-manual-password-import-skip-button = ਛੱਡੋ
+migration-manual-password-import-select-button = ਫ਼ਾਇਲ ਚੁਣੋ
 migration-safari-password-import-skip-button = ਛੱਡੋ
 migration-safari-password-import-select-button = ਫ਼ਾਇਲ ਚੁਣੋ
 # Shown in the migration wizard after importing bookmarks from another
