@@ -186,6 +186,8 @@ migration-safari-password-import-step1 = Safarin, ireki "Safari" menua eta zoaz 
 migration-safari-password-import-step2 = Hautatu <img data-l10n-name="safari-icon-3dots"/> botoia eta aukeratu "Esportatu pasahitz guztiak"
 migration-safari-password-import-step3 = Gorde pasahitzen fitxategia
 migration-safari-password-import-step4 = Erabili azpiko "hautatu fitxategia" aukera gorde berri duzun pasahitzen fitxategia aukeratzeko
+migration-manual-password-import-skip-button = Saltatu
+migration-manual-password-import-select-button = Hautatu fitxategia
 migration-safari-password-import-skip-button = Saltatu
 migration-safari-password-import-select-button = Hautatu fitxategia
 # Shown in the migration wizard after importing bookmarks from another
