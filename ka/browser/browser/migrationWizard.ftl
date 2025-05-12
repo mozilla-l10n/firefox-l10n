@@ -196,6 +196,8 @@ migration-safari-password-import-step1 = Safari-ში გახსენით 
 migration-safari-password-import-step2 = გამოიყენეთ <img data-l10n-name="safari-icon-3dots"/> ღილაკი და აირჩიეთ „ყველა პაროლის გადმოტანა”
 migration-safari-password-import-step3 = შეინახეთ პაროლების ფაილი
 migration-safari-password-import-step4 = მიუთითეთ „ფაილის არჩევა“ ქვემოთ შენახული ფაილის შემოსატანად
+migration-manual-password-import-skip-button = გამოტოვება
+migration-manual-password-import-select-button = ფაილის არჩევა
 migration-safari-password-import-skip-button = გამოტოვება
 migration-safari-password-import-select-button = ფაილის არჩევა
 # Shown in the migration wizard after importing bookmarks from another
