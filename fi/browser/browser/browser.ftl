@@ -405,6 +405,8 @@ quickactions-cmd-screenshot2 = kuvakaappaus, ota kuvakaappaus
 quickactions-cmd-screenshot = kuvakaappaus
 # Opens about:preferences
 quickactions-settings2 = Hallitse asetuksia
+# "manage" should match the corresponding command, which is “Manage settings” in English.
+quickactions-cmd-settings2 = asetukset, valinnat, hallitse
 quickactions-cmd-settings = asetukset, valinnat
 # Opens about:addons page in the themes section
 quickactions-themes = Hallitse teemoja

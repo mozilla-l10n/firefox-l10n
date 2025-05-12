@@ -41,3 +41,9 @@ experimental-features-link-previews-description =
         [macos] Saat lisätietoja verkkosivusta ennen napsauttamista viemällä hiiren linkin päälle ja painamalla Shift (⇧) ja Option (⌥) tai Alt. Esikatselut voivat sisältää tietoja, kuten otsikon ja lukuajan. Joillakin verkkosivuilla tekoäly voi myös lukea sivun tekstin ja luoda yhteenvedon. Tekoäly on optimoitu lukemaan ja luomaan englanninkielistä tekstiä. Yksityisyytesi varjelemiseksi tekoäly toimii paikallisesti tietokoneellasi. <a data-l10n-name="connect">Anna palautetta</a>
        *[other] Saat lisätietoja verkkosivusta ennen napsauttamista viemällä hiiren linkin päälle ja painamalla Shift + Alt. Esikatselut voivat sisältää tietoja, kuten otsikon ja lukuajan. Joillakin verkkosivuilla tekoäly voi myös lukea sivun tekstin ja luoda yhteenvedon. Tekoäly on optimoitu lukemaan ja luomaan englanninkielistä tekstiä. Yksityisyytesi varjelemiseksi tekoäly toimii paikallisesti tietokoneellasi. <a data-l10n-name="connect">Anna palautetta</a>
     }
+# This version of the link previews description does not mention AI.
+experimental-features-link-previews-description-no-ai =
+    { PLATFORM() ->
+        [macos] Saat lisätietoja verkkosivusta ennen sen napsauttamista viemällä hiiren osoittimen linkin päälle ja painamalla Shift (⇧) ja Option (⌥) tai Alt. Esikatselut voivat sisältää tietoja, kuten otsikon ja lukuajan. <a data-l10n-name="connect">Jaa palautetta</a>
+       *[other] Saat lisätietoja verkkosivusta ennen sen napsauttamista viemällä hiiren osoittimen linkin päälle ja painamalla Shift + Alt. Esikatselut voivat sisältää tietoja, kuten otsikon ja lukuajan. <a data-l10n-name="connect">Jaa palautetta</a>
+    }

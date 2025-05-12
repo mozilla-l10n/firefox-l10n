@@ -8,6 +8,7 @@
 preonboarding-title = Tervetuloa { -brand-product-name }iin
 preonboarding-subtitle = Jatkamalla hyväksyt { -brand-product-name }-käyttöehdot ja -tietosuojakäytännön. Selaimen parantamiseksi { -brand-product-name } lähettää diagnostiikka- ja vuorovaikutustietoja { -vendor-short-name }lle.
 preonboarding-primary-cta = Vahvista ja jatka
+preonboarding-primary-cta-v2 = Jatka
 # Labels for header style button that toggles showing the terms of use, privacy notice, and data preferences checklist
 preonboarding-manage-and-read-header = Hallinnoi tiedonkeruuasetuksia ja lue käyttöehdot sekä tietosuojakäytäntö
 preonboarding-manage-and-read-header-v2 = Lue käyttöehdot ja tietosuojakäytäntö. Hallinnoi lisäasetuksia.

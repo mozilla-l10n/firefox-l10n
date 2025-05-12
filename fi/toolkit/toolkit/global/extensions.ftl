@@ -15,10 +15,17 @@ webext-perms-header-with-perms = Lisätäänkö { $extension }? Tällä laajennu
 webext-perms-header-unsigned = Lisätäänkö { $extension }? Tämä laajennus on varmentamaton. Haitalliset laajennukset voivat varastaa yksityisiä tietoja tai vaarantaa tietokoneesi turvallisuuden. Lisää se vain, jos luotat lähteeseen.
 webext-perms-header-unsigned-with-perms = Lisätäänkö { $extension }? Tämä laajennus on varmentamaton. Haitalliset laajennukset voivat varastaa yksityisiä tietoja tai vaarantaa tietokoneesi turvallisuuden. Lisää se vain, jos luotat lähteeseen. Tällä laajennuksella on seuraavat oikeudet:
 webext-perms-sideload-header = { $extension } lisätty
+webext-perms-optional-perms-header2 = { $extension } pyytää lisäoikeuksia
 webext-perms-optional-perms-header = { $extension } pyytää lisäoikeuksia.
+webext-perms-header2 = Lisää { $extension }
+webext-perms-list-intro-unsigned = Tämä vahvistamaton laajennus saattaa vaarantaa yksityisyytesi tai laitteesi. Lisää se vain, jos luotat lähteeseen.
 
 ## Headers used in the webextension permissions dialog, inside the content.
 
+webext-perms-header-required-perms = Vaaditut käyttöoikeudet:
+webext-perms-header-optional-settings = Valinnaiset asetukset:
+webext-perms-header-update-required-perms = Uudet vaaditut käyttöoikeudet:
+webext-perms-header-optional-required-perms = Uudet käyttöoikeudet:
 
 ##
 
@@ -36,6 +43,9 @@ webext-perms-sideload-enable =
 webext-perms-sideload-cancel =
     .label = Peruuta
     .accesskey = P
+# Variables:
+#   $extension (String): replaced with the localized name of the extension.
+webext-perms-update-text2 = { $extension } on päivitetty. Sinun on hyväksyttävä uudet käyttöoikeudet, ennen kuin päivitetty versio asennetaan. Jos valitset "Peruuta", nykyinen laajennuksen versio säilytetään.
 # Variables:
 #   $extension (String): replaced with the localized name of the extension.
 webext-perms-update-text = { $extension } on päivitetty. Sinun täytyy hyväksyä uudet oikeudet ennen kuin uusi versio asennetaan. Jos valitset ”Peruuta”, laajennuksen nykyinen versio säilytetään. Tämän laajennuksen uudet oikeudet ovat:
