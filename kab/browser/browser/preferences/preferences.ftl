@@ -275,6 +275,9 @@ preferences-web-appearance-override-warning2 =
 # to adapt to your language, but should not be changed.
 preferences-web-appearance-footer = Sefrek isental n { -brand-short-name } deg <a data-l10n-name="themes-link">yiseɣzaf & yisental</a>
 preferences-contrast-control-header = Asenqed n ugnil
+preferences-contrast-control-use-platform-settings =
+    .label = Awurman (seqdec iɣewwaren n unagraw)
+    .accesskey = A
 preferences-contrast-control-off =
     .label = Yensa
     .accesskey = Y
@@ -1007,6 +1010,9 @@ autofill-payment-methods-checkbox-submessage = Deg-s tikarḍiwin n lbenkat
     .accesskey = D
 autofill-saved-payment-methods-button = Isseklas tarrayin n uxelleṣ
     .accesskey = s
+# This operation requires the user to authenticate with the operating system (device sign-in)
+autofill-reauth-payment-methods-checkbox = Ssuter tuqqna ɣer yibenk i wakken ad tesferkeḍ tarrayin n uxelleṣ
+    .accesskey = u
 
 ## Privacy Section - History
 
@@ -1114,6 +1120,8 @@ addressbar-header = Afeggag n tansa
 addressbar-suggest = Ticki tesqedceḍ afeggag n tansa, sumer
 # When Firefox Suggest is enabled, this replaces `addressbar-header`.
 addressbar-header-firefox-suggest = Afeggag n tansiwin — { -firefox-suggest-brand-name }
+# When Firefox Suggest is enabled, this replaces `addressbar-suggest`.
+addressbar-suggest-firefox-suggest = Fren anaw n yisumar ara d-ibanen deg ufeggag n tansiwin.
 # When Firefox Suggest is enabled, a "Learn more" link appears at the end of
 # `addressbar-suggest-firefox-suggest`.
 addressbar-locbar-firefox-suggest-learn-more = Issin ugar
@@ -1146,11 +1154,18 @@ addressbar-suggestions-settings = Snifel ismenyifen i yisumar n umsedday n unadi
 addressbar-locbar-showrecentsearches-option =
     .label = Sken inadiyen imaynuten
     .accesskey = m
+addressbar-locbar-showtrendingsuggestions-option =
+    .label = Sken isumar n unadi i yettuɛelqen
+    .accesskey = t
+# Nonsponsored suggestions refers to Firefox Suggest suggestions like Wikipedia.
+addressbar-locbar-suggest-nonsponsored-option =
+    .label = Isumar seg { -brand-short-name }
 addressbar-locbar-suggest-nonsponsored-desc = Awi isumar seg web yeqqnen ɣer unadi-k·m.
 addressbar-locbar-suggest-sponsored-option =
     .label = Isumar sɣur imendaden
 addressbar-locbar-suggest-sponsored-desc = Mudd tallalt i { -brand-short-name } s uskan n yisumar i d-yettuwellhen sya ɣer da
 addressbar-quickactions-learn-more = Issin ugar
+addressbar-dismissed-suggestions-label = Isumar i yettwanfen
 addressbar-restore-dismissed-suggestions-button =
     .label = Err-d
 
@@ -1307,11 +1322,14 @@ permissions-addon-exceptions =
 collection-header = Alqqaḍ d useqdec n isefka { -brand-short-name }
 collection-header2 = Alqqaḍ d useqdec n yisefka { -brand-short-name }
     .searchkeywords = telemetry
+preferences-collection-privacy-notice = Wali tasertit n tbaḍnit
+preferences-across-profiles = Iɣewwaren-a ttwasnasen ɣef meṛṛa imaɣnuten n { -brand-product-name } ɣef yibenk-a.
 preferences-view-profiles = Sken akk imaɣnuten
 collection-description = Ad k-d-nefk afus akken ad tferneḍ aleqqwaḍ n wayen kan ilaqen i weqaεed n { -brand-short-name } i yal yiwen. Ad k-d-nsuter yal tikkelt tasiregt send ad nawi talɣut tudmawant.
 collection-privacy-notice = Tasertit n tbaḍnit
 collection-health-report-telemetry-disabled = Ur tezgiḍ teǧǧiḍ { -vendor-short-name } ad d-yelqeḍ isefka itiknikanen akked wid n temyigawt. Meṛṛa isefka yezrin ad ttwakksen deg 30 n wussan.
 collection-health-report-telemetry-disabled-link = Issin ugar
+collection-usage-ping-description = Aya yettallel { -vendor-short-name } ad tessekyed amḍan n yiseqdacen urmiden.
 collection-health-report2 =
     .label = Azen isefka itiknikanen d yimyigawen ɣer { -vendor-short-name }
     .accesskey = r
@@ -1328,6 +1346,10 @@ collection-studies-link = Wali tizrawin n { -brand-short-name }
 # This message is displayed above disabled data sharing options in developer builds
 # or builds with no Telemetry support available.
 collection-health-report-disabled2 = Aneqqis n isefka ur irmid ara i uswel-a n usefsu.
+collection-backlogged-crash-reports2 =
+    .label = Azen s wudem awurman ineqqisen n truẓi
+    .accesskey = i
+collection-backlogged-crash-reports-description = Tallalt-a { -vendor-short-name } ad tesnined syen ad tṣeggem uguren akked yiminig. Ineqqisen zemren ad d-skecmen isefka udmawanen neɣ imḥulfa.
 addon-recommendations =
     .label = Sireg { -brand-short-name } ad yeg iwellihen n usiɣzef udmawan
 addon-recommendations-link = Issin ugar
@@ -1347,6 +1369,7 @@ privacy-segmentation-radio-on =
 
 ## Privacy Section - Website Advertising Preferences
 
+website-advertising-header = Ismenyifen n udellel n yismal web
 
 ## Privacy Section - Security
 ##
