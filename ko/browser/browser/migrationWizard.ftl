@@ -184,6 +184,8 @@ migration-safari-password-import-step1 = Safari에서 "Safari" 메뉴를 열고 
 migration-safari-password-import-step2 = <img data-l10n-name="safari-icon-3dots"/> 버튼을 선택하고 "모든 비밀번호 내보내기"를 선택하세요
 migration-safari-password-import-step3 = 비밀번호 파일을 저장하세요
 migration-safari-password-import-step4 = 아래의 "파일 선택"을 사용하여 저장한 비밀번호 파일을 선택하세요.
+migration-manual-password-import-skip-button = 건너뛰기
+migration-manual-password-import-select-button = 파일 선택
 migration-safari-password-import-skip-button = 건너뛰기
 migration-safari-password-import-select-button = 파일 선택
 # Shown in the migration wizard after importing bookmarks from another
