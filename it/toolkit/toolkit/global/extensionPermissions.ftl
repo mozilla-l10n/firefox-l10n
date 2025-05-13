@@ -73,3 +73,4 @@ webext-perms-description-data-long-searchTerms = Condividi termini di ricerca co
 webext-perms-description-data-long-technicalAndInteraction = Condividi dati tecnici e di interazione con lo sviluppatore dell’estensione
 webext-perms-description-data-long-websiteActivity = Condividi attività nei siti web con lo sviluppatore dell’estensione
 webext-perms-description-data-long-websiteContent = Condividi contenuto dei siti web con lo sviluppatore dell’estensione
+
