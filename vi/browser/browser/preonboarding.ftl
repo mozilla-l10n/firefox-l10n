@@ -8,6 +8,7 @@
 preonboarding-title = Chào mừng đến với { -brand-product-name }
 preonboarding-subtitle = Bằng cách tiếp tục, bạn đồng ý với Điều khoản sử dụng { -brand-product-name } và Thông báo về quyền riêng tư của chúng tôi. Để giúp cải thiện trình duyệt, { -brand-product-name } gửi dữ liệu chẩn đoán và tương tác đến { -vendor-short-name }.
 preonboarding-primary-cta = Xác nhận và tiếp tục
+preonboarding-primary-cta-v2 = Tiếp tục
 # Labels for header style button that toggles showing the terms of use, privacy notice, and data preferences checklist
 preonboarding-manage-and-read-header = Quản lý cài đặt thu thập dữ liệu và đọc Điều khoản sử dụng và Thông báo về quyền riêng tư của chúng tôi
 preonboarding-manage-and-read-header-v2 = Đọc Điều khoản sử dụng và Thông báo về quyền riêng tư. Quản lý các cài đặt bổ sung.

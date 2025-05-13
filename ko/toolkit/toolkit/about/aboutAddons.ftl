@@ -563,3 +563,7 @@ plugins-widevine-description = 이 플러그인은 암호화된 미디어 확장
 ## Headings for the Permissions tab in `about:addons` when the data collection
 ## feature is enabled.
 
+addon-permissions-required-data-collection = 필수 데이터 수집:
+addon-permissions-optional-data-collection = 선택적 정보 수집:
+# Name of the Permissions tab in `about:addons` when the data collection feature is enabled.
+permissions-data-addon-button = 권한 및 데이터

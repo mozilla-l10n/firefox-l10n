@@ -131,3 +131,10 @@ tab-context-send-tabs-to-device =
            *[other] שליחת { $tabCount } לשוניות למכשיר
         }
     .accesskey = ש
+tab-context-unload-n-tabs =
+    .label =
+        { $tabCount ->
+            [1] ביטול טעינת לשונית
+           *[other] ביטול טעינת { $tabCount } לשוניות
+        }
+    .accesskey = ב

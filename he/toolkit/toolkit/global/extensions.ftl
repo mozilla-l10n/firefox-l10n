@@ -26,6 +26,14 @@ webext-perms-header-required-perms = הרשאות נדרשות:
 webext-perms-header-optional-settings = הגדרות אופציונליות:
 webext-perms-header-update-required-perms = הרשאות נדרשות חדשות:
 webext-perms-header-optional-required-perms = הרשאות חדשות:
+webext-perms-header-data-collection-perms = איסוף נתונים נדרש:
+webext-perms-header-data-collection-is-none = איסוף נתונים:
+# This is a header used in the add-ons "update" prompt, shown when the new
+# version requires new data collection permissions.
+webext-perms-header-update-data-collection-perms = איסוף נתונים נדרש חדש:
+# This is a header used in the add-ons "optional" prompt, shown when the
+# extension requests new data collection permissions programmatically.
+webext-perms-header-optional-data-collection-perms = איסוף נתונים חדש:
 
 ##
 
@@ -96,6 +104,26 @@ webext-perms-host-description-multiple-domains = גישה לנתונים שלך 
 
 ## Strings for data collection permissions in the permission prompt.
 
+webext-perms-description-data-none = המפתח אומר שהרחבה זו אינה דורשת איסוף נתונים.
+# Variables:
+#    $permissions (String): a list of data collection permissions formatted with `Intl.ListFormat` using the "narrow" style.
+webext-perms-description-data-some = המפתח אומר שהרחבה זו אוספת: { $permissions }
+# Variables:
+#    $permissions (String): a list of data collection permissions formatted with `Intl.ListFormat` using the "narrow" style.
+webext-perms-description-data-some-update = המפתח אומר שההרחבה תאסוף: { $permissions }
+# Variables:
+#    $permissions (String): a list of data collection permissions formatted with `Intl.ListFormat` using the "narrow" style.
+webext-perms-description-data-some-optional = המפתח אומר שההרחבה רוצה לאסוף: { $permissions }
+# Variables:
+#   $extension (String): replaced with the localized name of the extension.
+webext-perms-update-text-with-data-collection = ההרחבה { $extension } דורשת הגדרות חדשות לעדכון
+webext-perms-update-list-intro-with-data-collection = ניתן לבטל ולהשאיר את הגרסה וההגדרות הנוכחיות שלך, או לעדכן ולקבל את הגרסה החדשה ולאשר את השינויים.
+# Variables:
+#   $extension (String): replaced with the localized name of the extension.
+webext-perms-optional-text-with-data-collection = ההרחבה { $extension } מבקשת הגדרות נוספות
+# Variables:
+#   $extension (String): replaced with the localized name of the extension.
+webext-perms-optional-text-with-data-collection-only = ההרחבה { $extension } מבקשת איסוף נתונים נוספים
 
 ## Headers used in the webextension permissions dialog for synthetic add-ons.
 ## The part of the string describing what privileges the extension gives should be consistent

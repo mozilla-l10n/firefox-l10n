@@ -46,6 +46,30 @@ webext-perms-extra-warning-userScripts-short = 확인되지 않은 스크립트�
 ##
 ## This is used when the data collection permissions are required.
 
+webext-perms-description-data-short-authenticationInfo = 인증 정보
+webext-perms-description-data-short-bookmarksInfo = 북마크
+webext-perms-description-data-short-browsingActivity = 탐색 활동
+webext-perms-description-data-short-financialAndPaymentInfo = 금융 및 결제 정보
+webext-perms-description-data-short-healthInfo = 건강 정보
+webext-perms-description-data-short-locationInfo = 위치
+webext-perms-description-data-short-personalCommunications = 개인 커뮤니케이션
+webext-perms-description-data-short-personallyIdentifyingInfo = 개인 식별 정보
+webext-perms-description-data-short-searchTerms = 검색어
+webext-perms-description-data-short-technicalAndInteraction = 기술 및 상호 작용 데이터
+webext-perms-description-data-short-websiteActivity = 웹 사이트 활동
+webext-perms-description-data-short-websiteContent = 웹 사이트 콘텐츠
 
 ## Long form to be used in `about:addons` when these data collection permissions are optional.
 
+webext-perms-description-data-long-authenticationInfo = 확장 기능 개발자와 인증 정보 공유
+webext-perms-description-data-long-bookmarksInfo = 확장 기능 개발자와 북마크 정보 공유
+webext-perms-description-data-long-browsingActivity = 확장 기능 개발자와 탐색 활동 공유
+webext-perms-description-data-long-financialAndPaymentInfo = 확장 기능 개발자와 금융 및 결제 정보 공유
+webext-perms-description-data-long-healthInfo = 확장 기능 개발자와 건강 정보 공유
+webext-perms-description-data-long-locationInfo = 확장 기능 개발자와 위치 정보 공유
+webext-perms-description-data-long-personalCommunications = 확장 기능 개발자와 개인 커뮤니케이션 공유
+webext-perms-description-data-long-personallyIdentifyingInfo = 확장 기능 개발자와 개인 식별 정보 공유
+webext-perms-description-data-long-searchTerms = 확장 기능 개발자와 검색어 공유
+webext-perms-description-data-long-technicalAndInteraction = 확장 기능 개발자와 기술 및 상호 작용 데이터 공유
+webext-perms-description-data-long-websiteActivity = 확장 기능 개발자와 웹 사이트 활동 공유
+webext-perms-description-data-long-websiteContent = 확장 기능 개발자와 웹 사이트 콘텐츠 공유

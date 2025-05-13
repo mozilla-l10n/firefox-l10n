@@ -50,6 +50,7 @@ community-exp = <label data-l10n-name="community-exp-mozillaLink">{ -vendor-shor
 community-2 = { -brand-short-name } o l'é fæto da <label data-l10n-name="community-mozillaLink">{ -vendor-short-name }</label>, 'na <label data-l10n-name="community-creditsLink">comunitæ globale</label> ch'a travaggia insemme pe mantegnî a Ræ averta, pubrica e acesibile a tutti.
 helpus = Ti ne veu agiutâ? <label data-l10n-name="helpus-donateLink">Fanni 'na donaçion</label> ò <label data-l10n-name="helpus-getInvolvedLink">travaggia con niatri</label>
 bottomLinks-license = Informaçion de licensa
+bottom-links-privacy = Informativa in sciâ privacy
 bottomLinks-rights = Diritti de l'utente
 bottomLinks-privacy = Informativa in sciâ privacy
 # Example of resulting string: 66.0.1 (64-bit)

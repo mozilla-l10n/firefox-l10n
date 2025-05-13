@@ -196,6 +196,12 @@ migration-safari-password-import-step1 = ב־Safari, יש לפתוח את תפר
 migration-safari-password-import-step2 = יש ללחוץ על הכפתור <img data-l10n-name="safari-icon-3dots"/> ולבחור באפשרות ״ייצוא כל הסיסמאות״
 migration-safari-password-import-step3 = יש לשמור את קובץ הססמאות
 migration-safari-password-import-step4 = יש להשתמש בכפתור ״בחירת קובץ״ שלהלן כדי לבחור בקובץ הססמאות ששמרת
+migration-chrome-windows-password-import-header = כיצד לייבא ססמאות מ־Chrome
+migration-chrome-windows-password-import-steps-header = ב־Chrome, יש:
+migration-chrome-windows-password-import-step1 = לפתוח את התפריט הראשי <img data-l10n-name="chrome-icon-3dots"/> ולעבור לסיסמאות ומילוי אוטומטי > מנהל הסיסמאות של Google.
+migration-chrome-windows-password-import-step2 = לבחור ב״הגדרות״ מהתפריט.
+migration-chrome-windows-password-import-step3 = לבחור ב״בחירת קובץ״ ולשמור אותו למכשיר שלך.
+migration-chrome-windows-password-import-step4 = לחזור לכאן וללחוץ על ״בחירת קובץ״ כדי לסיים את הייבוא.
 migration-manual-password-import-skip-button = דילוג
 migration-manual-password-import-select-button = בחירת קובץ
 migration-safari-password-import-skip-button = דילוג

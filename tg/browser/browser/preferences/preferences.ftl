@@ -724,6 +724,8 @@ search-keyword-warning-title = Калимаи калидии такрорӣ
 #   $name (string) - Name of a search engine.
 search-keyword-warning-engine = Шумо калимаи калидиеро интихоб кардед, ки айни замон аз ҷониби «{ $name }» истифода мешавад. Лутфан калимаи дигареро интихоб кунед.
 search-keyword-warning-bookmark = Шумо калимаи калидиеро интихоб кардед, ки айни замон аз ҷониби хатбарак истифода мешавад. Лутфан калимаи дигареро интихоб кунед.
+remove-engine-confirmation = Шумо мутмаин ҳастед, ки мехоҳед ин низоми ҷустуҷӯиро тоза намоед?
+remove-engine-remove = Тоза кардан
 
 ## Containers Section
 

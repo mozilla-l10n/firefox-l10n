@@ -26,6 +26,14 @@ webext-perms-header-required-perms = Permissos requirite:
 webext-perms-header-optional-settings = Parametros optional:
 webext-perms-header-update-required-perms = Nove permissos obligatori:
 webext-perms-header-optional-required-perms = Nove permissos:
+webext-perms-header-data-collection-perms = Collection de datos necessari:
+webext-perms-header-data-collection-is-none = Collection de datos:
+# This is a header used in the add-ons "update" prompt, shown when the new
+# version requires new data collection permissions.
+webext-perms-header-update-data-collection-perms = Nove collection de datos necessari:
+# This is a header used in the add-ons "optional" prompt, shown when the
+# extension requests new data collection permissions programmatically.
+webext-perms-header-optional-data-collection-perms = Nove collection de datos:
 
 ##
 

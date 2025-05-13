@@ -574,3 +574,7 @@ plugins-widevine-description = Phần bổ trợ này cho phép phát lại phư
 ## Headings for the Permissions tab in `about:addons` when the data collection
 ## feature is enabled.
 
+addon-permissions-required-data-collection = Thu thập dữ liệu bắt buộc:
+addon-permissions-optional-data-collection = Thu thập dữ liệu tùy chọn:
+# Name of the Permissions tab in `about:addons` when the data collection feature is enabled.
+permissions-data-addon-button = Quyền hạn và dữ liệu

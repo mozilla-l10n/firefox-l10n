@@ -46,6 +46,12 @@ webext-perms-extra-warning-userScripts-short = Njepřepruwowane skripty móža r
 ##
 ## This is used when the data collection permissions are required.
 
+webext-perms-description-data-short-bookmarksInfo = zapołožki
+webext-perms-description-data-short-browsingActivity = přehladowanska aktiwita
+webext-perms-description-data-short-locationInfo = městno
+webext-perms-description-data-short-searchTerms = pytanske wurazy
+webext-perms-description-data-short-websiteActivity = aktiwita websydła
+webext-perms-description-data-short-websiteContent = wobsah websydła
 
 ## Long form to be used in `about:addons` when these data collection permissions are optional.
 

@@ -26,6 +26,10 @@ webext-perms-header-required-perms = Trěbne prawa:
 webext-perms-header-optional-settings = Wólbne nastajenja:
 webext-perms-header-update-required-perms = Nowe trěbne prawa:
 webext-perms-header-optional-required-perms = Nowe prawa:
+webext-perms-header-data-collection-is-none = Hromadźenje datow:
+# This is a header used in the add-ons "optional" prompt, shown when the
+# extension requests new data collection permissions programmatically.
+webext-perms-header-optional-data-collection-perms = Nowe hromadźenje datow:
 
 ##
 

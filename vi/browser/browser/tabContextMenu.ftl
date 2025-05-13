@@ -126,3 +126,10 @@ tab-context-move-tabs =
 tab-context-send-tabs-to-device =
     .label = Gửi { $tabCount } thẻ đến thiết bị
     .accesskey = n
+tab-context-unload-n-tabs =
+    .label =
+        { $tabCount ->
+            [1] Giải phóng thẻ
+           *[other] Giải phóng { $tabCount } thẻ
+        }
+    .accesskey = U

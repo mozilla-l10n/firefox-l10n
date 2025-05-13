@@ -561,3 +561,7 @@ plugins-widevine-description = Iste plugin permitte le lectura de multimedia cry
 ## Headings for the Permissions tab in `about:addons` when the data collection
 ## feature is enabled.
 
+addon-permissions-required-data-collection = Collection de datos necessari:
+addon-permissions-optional-data-collection = Collection de datos optional:
+# Name of the Permissions tab in `about:addons` when the data collection feature is enabled.
+permissions-data-addon-button = Permissos e datos

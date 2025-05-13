@@ -1196,6 +1196,11 @@ popup-notification-xpinstall-prompt-block-url = 상세 보기
 popup-notification-addon-privatebrowsing-checkbox2 =
     .label = 확장 기능이 사생활 보호 창에서 실행되도록 허용
     .accesskey = p
+# This string is similar to `webext-perms-description-data-long-technicalAndInteraction`
+# but it is used in the install prompt, and it needs an access key.
+popup-notification-addon-technical-and-interaction-checkbox =
+    .label = 확장 기능 개발자와 기술 및 상호 작용 데이터 공유
+    .accesskey = S
 # Note: Access key is set to P to match "Private" in the corresponding localized label.
 popup-notification-addon-privatebrowsing-checkbox =
     .label = 사생활 보호 창에서 실행

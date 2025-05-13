@@ -184,6 +184,12 @@ migration-safari-password-import-step1 = Trong Safari, mở menu “Safari” v�
 migration-safari-password-import-step2 = Chọn nút <img data-l10n-name="safari-icon-3dots"/> và chọn “Xuất tất cả mật khẩu”
 migration-safari-password-import-step3 = Lưu tập tin mật khẩu
 migration-safari-password-import-step4 = Sử dụng “Chọn tập tin” bên dưới để chọn tập tin mật khẩu mà bạn đã lưu
+migration-chrome-windows-password-import-header = Cách nhập mật khẩu từ Chrome
+migration-chrome-windows-password-import-steps-header = Trong Chrome:
+migration-chrome-windows-password-import-step1 = Mở menu chính <img data-l10n-name="chrome-icon-3dots"/> và đi đến Mật khẩu và tính năng tự động điền > Trình quản lý mật khẩu của Google.
+migration-chrome-windows-password-import-step2 = Chọn “Cài đặt” từ menu.
+migration-chrome-windows-password-import-step3 = Chọn “Tải tệp xuống” và lưu vào thiết bị của bạn.
+migration-chrome-windows-password-import-step4 = Quay lại đây và “Chọn tập tin” để hoàn tất việc nhập.
 migration-manual-password-import-skip-button = Bỏ qua
 migration-manual-password-import-select-button = Chọn tập tin
 migration-safari-password-import-skip-button = Bỏ qua

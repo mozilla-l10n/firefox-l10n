@@ -725,6 +725,9 @@ search-keyword-warning-title = Atalho duplicado
 #   $name (string) - Name of a search engine.
 search-keyword-warning-engine = Este atalho já está sendo usado para o “{ $name }”. Escolha outro.
 search-keyword-warning-bookmark = Este atalho já está sendo usado em um favorito. Escolha outro.
+remove-engine-confirmation = Tem certeza que quer remover este mecanismo de pesquisa?
+remove-engine-remove = Remover
+remove-addon-engine-alert = Para remover este mecanismo de pesquisa, remova a extensão associada.
 
 ## Containers Section
 

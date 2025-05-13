@@ -44,6 +44,9 @@ appmenu-addon-private-browsing-installed2 =
     .buttonlabel = Okay
     .buttonaccesskey = O
 appmenu-addon-post-install-message3 = Quản lý các tiện ích mở rộng và chủ đề của bạn thông qua menu ứng dụng.
+# This string is used in the confirmation popup displayed after an extension
+# has been installed, when the data collection feature is enabled.
+appmenu-addon-post-install-message-with-data-collection = Cập nhật quyền và tùy chọn dữ liệu bất kỳ lúc nào trong <a data-l10n-name="settings-link">cài đặt tiện ích</a>.
 appmenu-addon-post-install-incognito-checkbox =
     .label = Cho phép tiện ích mở rộng này chạy trong cửa sổ riêng tư
     .accesskey = A

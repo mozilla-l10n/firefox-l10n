@@ -541,3 +541,7 @@ plugins-widevine-description = תוסף חיצוני זה מאפשר הפעלה 
 ## Headings for the Permissions tab in `about:addons` when the data collection
 ## feature is enabled.
 
+addon-permissions-required-data-collection = איסוף נתונים נדרש:
+addon-permissions-optional-data-collection = איסוף נתונים אופציונלי:
+# Name of the Permissions tab in `about:addons` when the data collection feature is enabled.
+permissions-data-addon-button = הרשאות ונתונים

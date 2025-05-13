@@ -44,6 +44,9 @@ appmenu-addon-private-browsing-installed2 =
     .buttonlabel = Хуб
     .buttonaccesskey = О
 appmenu-addon-post-install-message3 = Ҷузъҳои иловагӣ ва мавзуъҳои худро тавассути менюи барномаҳо идора намоед.
+# This string is used in the confirmation popup displayed after an extension
+# has been installed, when the data collection feature is enabled.
+appmenu-addon-post-install-message-with-data-collection = Иҷозатҳо ва хусусиятҳои маълумотро дар <a data-l10n-name="settings-link">танзимоти васеъшавӣ</a> дар вақти дилхоҳ навсозӣ кунед.
 appmenu-addon-post-install-incognito-checkbox =
     .label = Иҷозат додани иҷрокунии васеъшавӣ дар равзанаи хусусӣ
     .accesskey = A

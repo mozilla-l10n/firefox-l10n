@@ -126,3 +126,10 @@ tab-context-move-tabs =
 tab-context-send-tabs-to-device =
     .label = 탭 { $tabCount }개를 기기로 보내기
     .accesskey = n
+tab-context-unload-n-tabs =
+    .label =
+        { $tabCount ->
+            [1] 탭 언로드
+           *[other] 탭 { $tabCount }개 언로드
+        }
+    .accesskey = U

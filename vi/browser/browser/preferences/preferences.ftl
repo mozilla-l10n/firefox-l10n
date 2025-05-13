@@ -709,6 +709,9 @@ search-keyword-warning-title = Nhân bản Từ khóa
 #   $name (string) - Name of a search engine.
 search-keyword-warning-engine = Bạn đã chọn một từ khóa hiện đang được dùng bởi "{ $name }". Vui lòng chọn từ khác.
 search-keyword-warning-bookmark = Bạn đã chọn một từ khóa hiện đang được dùng bởi một dấu trang. Vui lòng chọn từ khác.
+remove-engine-confirmation = Bạn có chắc chắn muốn xóa công cụ tìm kiếm này không?
+remove-engine-remove = Xóa
+remove-addon-engine-alert = Để xóa công cụ tìm kiếm này, hãy xóa tiện ích có liên quan.
 
 ## Containers Section
 

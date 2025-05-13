@@ -569,3 +569,6 @@ plugins-widevine-description = Tutón tykač wothrawanje zaklučowanych medijow 
 ## Headings for the Permissions tab in `about:addons` when the data collection
 ## feature is enabled.
 
+addon-permissions-optional-data-collection = Opcionalne hromadźenje datow:
+# Name of the Permissions tab in `about:addons` when the data collection feature is enabled.
+permissions-data-addon-button = Prawa a daty

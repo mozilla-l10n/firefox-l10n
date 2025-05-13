@@ -1200,6 +1200,11 @@ popup-notification-xpinstall-prompt-block-url = Дидани тафсилот
 popup-notification-addon-privatebrowsing-checkbox2 =
     .label = Иҷозат додани иҷрокунии васеъшавӣ дар равзанаи махфӣ
     .accesskey = И
+# This string is similar to `webext-perms-description-data-long-technicalAndInteraction`
+# but it is used in the install prompt, and it needs an access key.
+popup-notification-addon-technical-and-interaction-checkbox =
+    .label = Мубодилаи маълумоти техникӣ ва ҳамкорӣ бо барномасози васеъшавӣ
+    .accesskey = М
 # Note: Access key is set to P to match "Private" in the corresponding localized label.
 popup-notification-addon-privatebrowsing-checkbox =
     .label = Иҷро кардан дар равзанаҳои махфӣ

@@ -733,6 +733,7 @@ search-keyword-warning-title = Klučowe słowo podwojić
 #   $name (string) - Name of a search engine.
 search-keyword-warning-engine = Sće klučowe słowo wubrał, kotrež so runje wot "{ $name }" wužiwa. Prošu wubjerće druhe.
 search-keyword-warning-bookmark = Sće klučowe słowo wubrał, kotrež so runje wot zapołožkow wužiwa. Prošu wubjerće druhe.
+remove-engine-remove = Wotstronić
 
 ## Containers Section
 

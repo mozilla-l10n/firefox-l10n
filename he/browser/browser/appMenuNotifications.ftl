@@ -44,6 +44,9 @@ appmenu-addon-private-browsing-installed2 =
     .buttonlabel = בסדר
     .buttonaccesskey = ב
 appmenu-addon-post-install-message3 = ניתן לנהל את התוספות וערכות הנושא שלך דרך תפריט היישום.
+# This string is used in the confirmation popup displayed after an extension
+# has been installed, when the data collection feature is enabled.
+appmenu-addon-post-install-message-with-data-collection = ניתן לעדכן העדפות של הרשאות ונתונים בכל עת ב<a data-l10n-name="settings-link">הגדרות ההרחבה</a>.
 appmenu-addon-post-install-incognito-checkbox =
     .label = לאפשר להרחבה זו לפעול בחלונות פרטיים
     .accesskey = ל

@@ -196,6 +196,12 @@ migration-safari-password-import-step1 = Дар худи «Safari», менюи 
 migration-safari-password-import-step2 = Тугмаи «<img data-l10n-name="safari-icon-3dots"/>»-ро интихоб кунед ва пас «Содир кардани ҳамаи ниҳонвожаҳо»-ро интихоб намоед
 migration-safari-password-import-step3 = Файли ниҳонвожаҳоро нигоҳ доред
 migration-safari-password-import-step4 = Барои интихоб кардани файли ниҳонвожаҳоеро, ки шумо нигоҳ доштед, аз имкони «Интихоби файл» дар зер истифода баред
+migration-chrome-windows-password-import-header = Тарзи ворид кардани ниҳонвожаҳо аз браузери «Chrome»
+migration-chrome-windows-password-import-steps-header = Дар браузери «Chrome»:
+migration-chrome-windows-password-import-step1 = Менюи асосиро <img data-l10n-name="chrome-icon-3dots"/> кушоед ва ба «Passwords and Autofill / Пароли и автозаполнение» > «Google Password Manager / Менеджер паролей Google» гузаред.
+migration-chrome-windows-password-import-step2 = Аз меню бахши «Settings / Настройки»-ро интихоб кунед.
+migration-chrome-windows-password-import-step3 = Имкони «Download file / Загрузить файл»-ро интихоб кунед ва онро дар дастгоҳи худ нигоҳ доред.
+migration-chrome-windows-password-import-step4 = Ба ин ҷой баргардед ва барои ба анҷом расонидани воридот аз имкони «Интихоби файл» истифода баред.
 migration-manual-password-import-skip-button = Нодида гузарондан
 migration-manual-password-import-select-button = Интихоби файл
 migration-safari-password-import-skip-button = Нодида гузарондан

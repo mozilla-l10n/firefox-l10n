@@ -9,6 +9,12 @@ about-logins-login-filter =
     .key = F
 create-new-login-button =
     .title = Crea neuvo login
+about-logins-page-title-name = Poule segrette
+about-logins-login-filter2 =
+    .placeholder = Çerta inte poule segrette
+    .key = F
+create-login-button =
+    .title = Azzonzi poula segretta
 fxaccounts-sign-in-text = Treuva torna e teu poule segrête in sci âtri dispoxitivi
 fxaccounts-sign-in-sync-button = Acedi a sync
 fxaccounts-avatar-button =
@@ -23,6 +29,8 @@ about-logins-menu-menuitem-import-from-another-browser = Inportâ da un atro nav
 about-logins-menu-menuitem-import-from-a-file = Inpòrta da 'n schedaio…
 about-logins-menu-menuitem-export-logins = Espòrta acessi…
 about-logins-menu-menuitem-remove-all-logins = Scancella tutti i acessi
+about-logins-menu-menuitem-export-logins2 = Espòrta e poule segrette…
+about-logins-menu-menuitem-remove-all-logins2 = Scassa tutte e poule segrette…
 menu-menuitem-preferences =
     { PLATFORM() ->
         [windows] Preferense
@@ -49,6 +57,21 @@ login-list-filtered-count =
         [one] { $count } de { $total } login
        *[other] { $count } de { $total } login
     }
+# Variables
+#   $count (number) - Number of logins
+login-list-count2 =
+    { $count ->
+        [one] { $count } poula segretta
+       *[other] { $count } poule segrette
+    }
+# Variables
+#   $count (number) - Number of filtered logins
+#   $total (number) - Total number of logins
+login-list-filtered-count2 =
+    { $total ->
+        [one] { $count } in sce { $total } poula segretta
+       *[other] { $count } in sce { $total } poule segrette
+    }
 login-list-sort-label-text = Ordina pe:
 login-list-name-option = Nommi (A-Z)
 login-list-name-reverse-option = Nommi (Z-A)
@@ -63,6 +86,7 @@ about-logins-login-list-empty-search-title = Nisciun acesso trovou
 about-logins-login-list-empty-search-description = No gh'é exiti da teu riçerca
 login-list-item-title-new-login = Nuovo login
 login-list-item-subtitle-new-login = Scrivi e teu credensiali
+login-list-item-title-new-login2 = Azzonzi poula segretta
 login-list-item-subtitle-missing-username = (nisciun nomme utente)
 about-logins-list-item-breach-icon =
     .title = Scito ch'o viola i dæti
@@ -164,6 +188,19 @@ about-logins-confirm-remove-all-dialog-title =
         [one] Scancella { $count } acesso?
        *[other] Scancella tutti { $count } i acessi?
     }
+# Checkbox for modal to confirm the removal of saved passwords
+about-logins-confirm-remove-all-dialog-checkbox-label2 =
+    { $count ->
+        [1] Scì, scassa a poula segretta
+        [one] Scì, scassa a poula segretta
+       *[other] Scì, scassa e poule segrette
+    }
+# Title for modal to confirm the removal of all saved passwords when user is NOT synced
+about-logins-confirm-remove-all-dialog-title2 =
+    { $count ->
+        [one] Scassâ { $count } poula segretta?
+       *[other] Scassâ tutte { $count } e poule segrette?
+    }
 
 ##
 
@@ -185,6 +222,7 @@ about-logins-vulnerable-alert-title = Poula segreta vulnerabile
 # Variables:
 #   $hostname (String) - The hostname of the website associated with the login, e.g. "example.com"
 about-logins-vulnerable-alert-link = Vànni a { $hostname }
+about-logins-vulnerable-alert-learn-more-link = Atre informaçioin
 
 ## Error Messages
 

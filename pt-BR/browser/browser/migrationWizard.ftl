@@ -196,6 +196,12 @@ migration-safari-password-import-step1 = No Safari, abra o menu “Safari” e v
 migration-safari-password-import-step2 = Selecione o botão <img data-l10n-name="safari-icon-3dots"/> e escolha “Exportar todas as senhas”
 migration-safari-password-import-step3 = Salve o arquivo de senhas
 migration-safari-password-import-step4 = Use “Selecionar arquivo” abaixo para escolher o arquivo de senhas que você salvou
+migration-chrome-windows-password-import-header = Como importar senhas do Chrome
+migration-chrome-windows-password-import-steps-header = No Chrome:
+migration-chrome-windows-password-import-step1 = Abra o menu principal <img data-l10n-name="chrome-icon-3dots"/> e vá em Senhas e Preenchimento automático > Gerenciador de senhas do Google.
+migration-chrome-windows-password-import-step2 = Selecione “Configurações” no menu.
+migration-chrome-windows-password-import-step3 = Escolha “Baixar arquivo” e salve no seu dispositivo.
+migration-chrome-windows-password-import-step4 = Retorne aqui e use “Selecionar arquivo” para concluir a importação.
 migration-manual-password-import-skip-button = Pular
 migration-manual-password-import-select-button = Selecionar arquivo
 migration-safari-password-import-skip-button = Pular

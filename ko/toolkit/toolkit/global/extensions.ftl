@@ -26,6 +26,14 @@ webext-perms-header-required-perms = 필수 권한:
 webext-perms-header-optional-settings = 선택적 설정:
 webext-perms-header-update-required-perms = 새 필수 권한:
 webext-perms-header-optional-required-perms = 새 권한:
+webext-perms-header-data-collection-perms = 필수 데이터 수집:
+webext-perms-header-data-collection-is-none = 데이터 수집:
+# This is a header used in the add-ons "update" prompt, shown when the new
+# version requires new data collection permissions.
+webext-perms-header-update-data-collection-perms = 새 필수 데이터 수집:
+# This is a header used in the add-ons "optional" prompt, shown when the
+# extension requests new data collection permissions programmatically.
+webext-perms-header-optional-data-collection-perms = 새 데이터 수집:
 
 ##
 
@@ -88,6 +96,26 @@ webext-perms-host-description-multiple-domains = { $domainCount }개 도메인 �
 
 ## Strings for data collection permissions in the permission prompt.
 
+webext-perms-description-data-none = 개발자가 이 확장 기능은 데이터 수집이 필요하지 않다고 말합니다.
+# Variables:
+#    $permissions (String): a list of data collection permissions formatted with `Intl.ListFormat` using the "narrow" style.
+webext-perms-description-data-some = 개발자가 이 확장 기능이 수집한다고 하는 항목: { $permissions }
+# Variables:
+#    $permissions (String): a list of data collection permissions formatted with `Intl.ListFormat` using the "narrow" style.
+webext-perms-description-data-some-update = 개발자가 확장 기능이 수집하겠다고 하는 항목: { $permissions }
+# Variables:
+#    $permissions (String): a list of data collection permissions formatted with `Intl.ListFormat` using the "narrow" style.
+webext-perms-description-data-some-optional = 개발자가 확장 기능이 수집을 원한다고 하는 항목: { $permissions }
+# Variables:
+#   $extension (String): replaced with the localized name of the extension.
+webext-perms-update-text-with-data-collection = { $extension } 확장 기능을 업데이트하려면 새 설정이 필요함
+webext-perms-update-list-intro-with-data-collection = 현재 버전과 설정을 유지하려면 취소를 누르고, 새 버전을 얻고 변경 사항을 승인하려면 업데이트하세요.
+# Variables:
+#   $extension (String): replaced with the localized name of the extension.
+webext-perms-optional-text-with-data-collection = { $extension } 확장 기능이 추가 설정을 요청함
+# Variables:
+#   $extension (String): replaced with the localized name of the extension.
+webext-perms-optional-text-with-data-collection-only = { $extension } 확장 기능이 추가 데이터 수집을 요청함
 
 ## Headers used in the webextension permissions dialog for synthetic add-ons.
 ## The part of the string describing what privileges the extension gives should be consistent

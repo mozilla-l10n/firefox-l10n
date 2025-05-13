@@ -709,6 +709,9 @@ search-keyword-warning-title = 키워드 복사
 #   $name (string) - Name of a search engine.
 search-keyword-warning-engine = "{ $name }"에서 이미 사용 중인 키워드를 선택했습니다. 다른 것을 선택하세요.
 search-keyword-warning-bookmark = 북마크에서 이미 사용 중인 키워드를 선택했습니다. 다른 것을 선택하세요.
+remove-engine-confirmation = 이 검색 엔진을 제거하시겠습니까?
+remove-engine-remove = 제거
+remove-addon-engine-alert = 이 검색 엔진을 제거하려면 관련 부가 기능도 삭제하세요.
 
 ## Containers Section
 

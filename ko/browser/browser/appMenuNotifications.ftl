@@ -44,6 +44,9 @@ appmenu-addon-private-browsing-installed2 =
     .buttonlabel = 확인
     .buttonaccesskey = O
 appmenu-addon-post-install-message3 = 애플리케이션 메뉴를 통해 부가 기능과 테마를 관리하세요.
+# This string is used in the confirmation popup displayed after an extension
+# has been installed, when the data collection feature is enabled.
+appmenu-addon-post-install-message-with-data-collection = <a data-l10n-name="settings-link">확장 기능 설정</a>에서 권한 및 데이터 설정을 언제든지 업데이트할 수 있습니다.
 appmenu-addon-post-install-incognito-checkbox =
     .label = 이 확장 기능이 사생활 보호 창에서 실행되도록 허용
     .accesskey = A

@@ -131,3 +131,10 @@ tab-context-send-tabs-to-device =
            *[other] Enviar { $tabCount } abas para dispositivo
         }
     .accesskey = n
+tab-context-unload-n-tabs =
+    .label =
+        { $tabCount ->
+            [1] Descarregar aba
+           *[other] Unload { $tabCount } Tabs
+        }
+    .accesskey = D
