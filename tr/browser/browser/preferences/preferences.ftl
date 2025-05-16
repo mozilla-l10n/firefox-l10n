@@ -649,6 +649,8 @@ home-prefs-weather-header =
     .label = Hava durumu
 home-prefs-weather-description = Bugünkü hava durumu tahmini
 home-prefs-weather-learn-more-link = Daha fazla bilgi al
+home-prefs-mission-message = Sponsorlarımız daha iyi bir web inşa etme misyonumuzu destekliyor
+home-prefs-mission-message-learn-more-link = Nasıl mı?
 # Variables:
 #   $num (number) - Number of rows displayed
 home-prefs-sections-rows-option =

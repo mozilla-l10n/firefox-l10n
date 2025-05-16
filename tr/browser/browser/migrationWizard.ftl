@@ -198,6 +198,7 @@ migration-safari-password-import-step3 = Parola dosyasını kaydedin
 migration-safari-password-import-step4 = Aşağıdaki “Dosya seç”i kullanarak kaydettiğiniz parola dosyasını seçin
 migration-chrome-windows-password-import-header = Parolalar Chrome’dan nasıl içe aktarılır?
 migration-chrome-windows-password-import-steps-header = Chrome’da:
+migration-chrome-windows-password-import-step1 = Ana menüyü <img data-l10n-name="chrome-icon-3dots"/> açıp Şifreler ve otomatik doldurma > Google Şifre Yöneticisi’ne gidin.
 migration-chrome-windows-password-import-step2 = Menüden “Ayarlar”ı seçin.
 migration-manual-password-import-skip-button = Geç
 migration-manual-password-import-select-button = Dosya seç
