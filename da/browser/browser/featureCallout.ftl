@@ -96,6 +96,11 @@ bookmarks-toolbar-callout-2b-secondary-button-label = Nej tak
 
 perplexity-callout-theme-1-title = Har du brug for det rigtige svar med det samme?
 perplexity-callout-theme-2-title = Prøv Perplexity: en ny måde at søge på
+perplexity-callout-theme-1-subtitle-1 = Prøv Perplexity. Vælg fra søgeknappen, når du vil have komplette svar inklusive kilder.
+perplexity-callout-theme-1-subtitle-2 = Stil spørgsmål og få svar med kildeangivelser. Vælg Perplexity fra søgeknappen for at prøve funktionen.
+perplexity-callout-theme-2-subtitle-1 = Spørg Perplexity. Du får komplette svar, inklusive kilder.
+perplexity-callout-theme-2-subtitle-2 = Stil spørgsmål. Få komplette svar med kildeangivelser.
+perplexity-callout-primary-label = Spørg Perplexity
 perplexity-callout-secondary-label-1 = Afvis
 perplexity-callout-secondary-label-2 = Forstået
 
