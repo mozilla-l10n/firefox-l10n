@@ -649,6 +649,8 @@ home-prefs-weather-header =
     .label = Wetter
 home-prefs-weather-description = Die heutige Wettervorhersage auf einen Blick
 home-prefs-weather-learn-more-link = Weitere Informationen
+home-prefs-mission-message = Unsere Sponsoren unterstützen unsere Mission, ein besseres Internet zu schaffen
+home-prefs-mission-message-learn-more-link = Erfahren, wie das geht
 # Variables:
 #   $num (number) - Number of rows displayed
 home-prefs-sections-rows-option =
