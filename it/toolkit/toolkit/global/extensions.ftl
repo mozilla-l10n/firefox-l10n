@@ -117,7 +117,7 @@ webext-perms-description-data-some-optional = Lo sviluppatore dichiara che l’e
 # Variables:
 #   $extension (String): replaced with the localized name of the extension.
 webext-perms-update-text-with-data-collection = { $extension } richiede nuove impostazioni per l’aggiornamento
-webext-perms-update-list-intro-with-data-collection = Annulla per mantenere la versione e le impostazioni correnti, oppure aggiorna per ottenere la nuova versione e approvare le modifiche.
+webext-perms-update-list-intro-with-data-collection = Seleziona Annulla per mantenere la versione e le impostazioni correnti, oppure aggiorna per approvare le modifiche e ottenere la nuova versione.
 # Variables:
 #   $extension (String): replaced with the localized name of the extension.
 webext-perms-optional-text-with-data-collection = Sono richieste impostazioni aggiuntive per { $extension }
@@ -163,4 +163,3 @@ webext-site-perms-midi-sysex = Accedere a dispositivi MIDI con supporto SysEx
 
 webext-colorway-theme-migration-notification-message = <b>La tonalità è stata rimossa.</b> { -brand-shorter-name } ha aggiornato la sua collezione di tonalità. Puoi trovare le ultime versioni sul sito dei componenti aggiuntivi.
 webext-colorway-theme-migration-notification-button = Ottieni tonalità aggiornate
-
