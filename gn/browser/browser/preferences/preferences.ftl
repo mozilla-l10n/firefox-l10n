@@ -648,6 +648,8 @@ home-prefs-weather-header =
     .label = Arapytu
 home-prefs-weather-description = Ehecha arapytu reko ko ára rehegua
 home-prefs-weather-learn-more-link = Eikuaave
+home-prefs-mission-message = Ore ykekohára oipytyvõ romombareteve hag̃ua ñanduti rogue
+home-prefs-mission-message-learn-more-link = Eikuaa mba’éichapa
 # Variables:
 #   $num (number) - Number of rows displayed
 home-prefs-sections-rows-option =
@@ -724,7 +726,9 @@ search-keyword-warning-title = Jehero jo’apyre
 #   $name (string) - Name of a search engine.
 search-keyword-warning-engine = Eiporavókuri peteĩ jehero oiporúmava "{ $name }". Ikatúpiko eiporavo ambue.
 search-keyword-warning-bookmark = Eiporavókuri peteĩ jehero oiporúmava ambue techaukaha. Ikatúpiko eiporavo ambue.
+remove-engine-confirmation = Emboguese añetehápepa ko jehekaha
 remove-engine-remove = Mboguete
+remove-addon-engine-alert = Emboguete hag̃ua ko jehekaha, embogue pe moĩmbaha hesegua.
 
 ## Containers Section
 
