@@ -45,6 +45,14 @@ webext-perms-extra-warning-userScripts-short = Umi scripts ojehechajey’ỹva i
 ##
 ## This is used when the data collection permissions are required.
 
+webext-perms-description-data-short-authenticationInfo = marandu ñemoneĩguáva
+webext-perms-description-data-short-bookmarksInfo = techaukaha
+webext-perms-description-data-short-browsingActivity = tembiapo ñeikundaha rehegua
+webext-perms-description-data-short-financialAndPaymentInfo = marandu viru ha jehepyme’ẽ rehegua
+webext-perms-description-data-short-healthInfo = marandu tesãirã
+webext-perms-description-data-short-locationInfo = tendaite
+webext-perms-description-data-short-personalCommunications = momarandu mba’eteéva
+webext-perms-description-data-short-personallyIdentifyingInfo = marandu tapicha mba’eteéva rehegua
 
 ## Long form to be used in `about:addons` when these data collection permissions are optional.
 
