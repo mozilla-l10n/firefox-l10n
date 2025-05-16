@@ -7,6 +7,8 @@ profile-window-body = ניתן לבחור לשמור את העבודה והגל�
 # This checkbox appears in the Choose profile window that appears when the browser is opened. "Show this" refers to this window, which is displayed when the checkbox is enabled.
 profile-window-checkbox-label-2 =
     .label = הצגת אפשרות לבחירת פרופיל כאשר { -brand-short-name } נפתח
+# This subcopy appears below the checkbox when it is unchecked
+profile-window-checkbox-subcopy = ‏{ -brand-short-name } ייפתח בפרופיל האחרון שבו השתמשת.
 profile-window-create-profile = יצירת פרופיל
 profile-card-edit-button =
     .title = עריכת פרופיל

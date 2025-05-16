@@ -649,6 +649,8 @@ home-prefs-weather-header =
     .label = מזג אוויר
 home-prefs-weather-description = תחזית היום במבט חטוף
 home-prefs-weather-learn-more-link = מידע נוסף
+home-prefs-mission-message = נותני החסות שלנו תומכים במשימה שלנו לבנות אינטרנט טוב יותר
+home-prefs-mission-message-learn-more-link = כיצד?
 # Variables:
 #   $num (number) - Number of rows displayed
 home-prefs-sections-rows-option =
@@ -725,6 +727,9 @@ search-keyword-warning-title = מילת מפתח כפולה
 #   $name (string) - Name of a search engine.
 search-keyword-warning-engine = בחרת להשתמש במילת מפתח שנמצאת כרגע בשימוש על־ידי ״{ $name }״. נא לבחור במילה אחרת.
 search-keyword-warning-bookmark = בחרת להשתמש במילת מפתח שנמצאת כרגע בשימוש על־ידי סימנייה. נא לבחור במילה אחרת.
+remove-engine-confirmation = האם ברצונך להסיר את מנוע חיפוש זה?
+remove-engine-remove = הסרה
+remove-addon-engine-alert = כדי להסיר את מנוע חיפוש זה, יש להסיר את התוספת המשוייכת אליו.
 
 ## Containers Section
 
