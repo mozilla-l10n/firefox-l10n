@@ -53,6 +53,9 @@ webext-perms-description-data-short-healthInfo = marandu tesãirã
 webext-perms-description-data-short-locationInfo = tendaite
 webext-perms-description-data-short-personalCommunications = momarandu mba’eteéva
 webext-perms-description-data-short-personallyIdentifyingInfo = marandu tapicha mba’eteéva rehegua
+webext-perms-description-data-short-searchTerms = jehekaha porureko
+webext-perms-description-data-short-technicalAndInteraction = mba’ekuaarã aporeko ha ñomongetagua
+webext-perms-description-data-short-websiteActivity = tembiapo ñanduti roguegua
 
 ## Long form to be used in `about:addons` when these data collection permissions are optional.
 
