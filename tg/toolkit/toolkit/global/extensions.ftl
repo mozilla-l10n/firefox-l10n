@@ -107,12 +107,20 @@ webext-perms-host-description-multiple-domains =
 
 ## Strings for data collection permissions in the permission prompt.
 
+webext-perms-description-data-none = Барномасоз хабар медиҳад, ки ин васеъшавӣ ҷамъоварии маълумотро талаб намекунад.
 # Variables:
 #    $permissions (String): a list of data collection permissions formatted with `Intl.ListFormat` using the "narrow" style.
 webext-perms-description-data-some = Барномасоз хабар медиҳад, ки ин васеъшавӣ зеринро ҷамъ мекунад: { $permissions }
 # Variables:
+#    $permissions (String): a list of data collection permissions formatted with `Intl.ListFormat` using the "narrow" style.
+webext-perms-description-data-some-update = Барномасоз хабар медиҳад, ки васеъшавӣ зеринро ҷамъ мекунад: { $permissions }
+# Variables:
+#    $permissions (String): a list of data collection permissions formatted with `Intl.ListFormat` using the "narrow" style.
+webext-perms-description-data-some-optional = Барномасоз хабар медиҳад, ки васеъшавӣ мехоҳад, ки зеринро ҷамъ кунад: { $permissions }
+# Variables:
 #   $extension (String): replaced with the localized name of the extension.
 webext-perms-update-text-with-data-collection = «{ $extension }» барои навсозӣ танзимоти навро талаб мекунад
+webext-perms-update-list-intro-with-data-collection = Барои нигоҳ доштани версияи ҷорӣ ва танзимоти худ ин амалро бекор кунед, ё барои насб кардани версияи нав ва тасдиқи тағйирот амали навсозиро иҷро намоед.
 # Variables:
 #   $extension (String): replaced with the localized name of the extension.
 webext-perms-optional-text-with-data-collection = «{ $extension }» танзимоти иловагиро дархост мекунад
