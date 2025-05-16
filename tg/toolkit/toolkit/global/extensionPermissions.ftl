@@ -53,7 +53,7 @@ webext-perms-description-data-short-financialAndPaymentInfo = маълумоти
 webext-perms-description-data-short-healthInfo = маълумоти саломатӣ
 webext-perms-description-data-short-locationInfo = ҷойгиршавӣ
 webext-perms-description-data-short-personalCommunications = муоширати шахсӣ
-webext-perms-description-data-short-personallyIdentifyingInfo = иттилооти шахсии қобили шиносоӣ
+webext-perms-description-data-short-personallyIdentifyingInfo = маълумоти шахсии қобили шиносоӣ
 webext-perms-description-data-short-searchTerms = калидвожаҳои ҷустуҷӯӣ
 webext-perms-description-data-short-technicalAndInteraction = маълумоти техникӣ ва ҳамкорӣ
 webext-perms-description-data-short-websiteActivity = фаъолият дар сомонаҳо
@@ -61,3 +61,11 @@ webext-perms-description-data-short-websiteContent = муҳтавои сомон
 
 ## Long form to be used in `about:addons` when these data collection permissions are optional.
 
+webext-perms-description-data-long-authenticationInfo = Мубодилаи маълумоти санҷиши ҳаққоният бо барномасози васеъшавӣ
+webext-perms-description-data-long-bookmarksInfo = Мубодилаи маълумоти хатбаракҳо бо барномасози васеъшавӣ
+webext-perms-description-data-long-browsingActivity = Мубодилаи фаъолияти тамошобинӣ бо барномасози васеъшавӣ
+webext-perms-description-data-long-financialAndPaymentInfo = Мубодилаи маълумоти молиявӣ ва пардохт бо барномасози васеъшавӣ
+webext-perms-description-data-long-healthInfo = Мубодилаи маълумоти саломатӣ бо барномасози васеъшавӣ
+webext-perms-description-data-long-locationInfo = Мубодилаи маълумоти ҷойгиршавӣ бо барномасози васеъшавӣ
+webext-perms-description-data-long-personalCommunications = Мубодилаи маълумоти паёмҳои шахсӣ бо барномасози васеъшавӣ
+webext-perms-description-data-long-personallyIdentifyingInfo = Мубодилаи маълумоти шахсии қобили шиносоӣ бо барномасози васеъшавӣ
