@@ -649,6 +649,7 @@ home-prefs-weather-header =
     .label = Météo
 home-prefs-weather-description = Les prévisions du jour en un clin d’œil
 home-prefs-weather-learn-more-link = En savoir plus
+home-prefs-mission-message-learn-more-link = Découvrir comment
 # Variables:
 #   $num (number) - Number of rows displayed
 home-prefs-sections-rows-option =
