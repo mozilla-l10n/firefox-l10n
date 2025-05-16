@@ -648,6 +648,8 @@ home-prefs-weather-header =
     .label = Обу ҳаво
 home-prefs-weather-description = Ҳолати обу ҳаво барои имрӯз
 home-prefs-weather-learn-more-link = Маълумоти бештар
+home-prefs-mission-message = Сарпарастони мо рисолати моро барои ташкили таҷрибаи беҳтарини Интернет дастгирӣ менамоянд
+home-prefs-mission-message-learn-more-link = Бифаҳмед, ки чӣ тавр
 # Variables:
 #   $num (number) - Number of rows displayed
 home-prefs-sections-rows-option =

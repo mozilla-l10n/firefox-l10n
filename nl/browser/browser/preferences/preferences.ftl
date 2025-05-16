@@ -649,6 +649,8 @@ home-prefs-weather-header =
     .label = Weer
 home-prefs-weather-description = De weersverwachting van vandaag in een oogopslag.
 home-prefs-weather-learn-more-link = Meer info
+home-prefs-mission-message = Onze sponsors steunen onze missie om een beter web te bouwen
+home-prefs-mission-message-learn-more-link = Lees hier hoe
 # Variables:
 #   $num (number) - Number of rows displayed
 home-prefs-sections-rows-option =
