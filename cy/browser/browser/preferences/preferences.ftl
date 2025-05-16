@@ -661,6 +661,8 @@ home-prefs-weather-header =
     .label = Y Tywydd
 home-prefs-weather-description = Cipolwg ar ragolygon tywydd heddiw
 home-prefs-weather-learn-more-link = Rhagor
+home-prefs-mission-message = Mae ein noddwyr yn cefnogi ein cenhadaeth i adeiladu gwe well
+home-prefs-mission-message-learn-more-link = Dyma sut
 # Variables:
 #   $num (number) - Number of rows displayed
 home-prefs-sections-rows-option =
