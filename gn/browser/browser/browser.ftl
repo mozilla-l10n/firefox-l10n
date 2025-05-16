@@ -1201,6 +1201,11 @@ popup-notification-xpinstall-prompt-block-url = Mba’emimi jehechauka
 popup-notification-addon-privatebrowsing-checkbox2 =
     .label = Emoneĩ upe jepysokue toku’e tendayke ñemiguápe
     .accesskey = p
+# This string is similar to `webext-perms-description-data-long-technicalAndInteraction`
+# but it is used in the install prompt, and it needs an access key.
+popup-notification-addon-technical-and-interaction-checkbox =
+    .label = Emoherakuã mba’ekuaarã aporekogua ha ñomongeta jepysokue mboguatahára ndive
+    .accesskey = S
 # Note: Access key is set to P to match "Private" in the corresponding localized label.
 popup-notification-addon-privatebrowsing-checkbox =
     .label = Emongu’e Windows ñemiguápe
