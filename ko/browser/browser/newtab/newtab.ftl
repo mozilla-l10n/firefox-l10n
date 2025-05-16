@@ -183,7 +183,7 @@ newtab-label-download = 다운로드됨
 # This string is used in the story cards to indicate sponsored content
 # Variables:
 #   $sponsorOrSource (string) - The name of a company or their domain
-newtab-label-sponsored = { $sponsorOrSource } · 후원
+newtab-label-sponsored = { $sponsorOrSource } · 스폰서
 # This string is used at the bottom of story cards to indicate sponsored content
 # Variables:
 #   $sponsor (string) - The name of a sponsor
