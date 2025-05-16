@@ -571,3 +571,5 @@ plugins-widevine-description = ეს მოდული საშუალე�
 ## Headings for the Permissions tab in `about:addons` when the data collection
 ## feature is enabled.
 
+addon-permissions-required-data-collection = საჭირო მონაცემების შეგროვება:
+addon-permissions-optional-data-collection = არასავალდებულო მონაცემების შეგროვება:

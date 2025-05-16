@@ -649,6 +649,8 @@ home-prefs-weather-header =
     .label = ამინდი
 home-prefs-weather-description = მოსალოდნელი ამინდისთვის თვალის შევლება
 home-prefs-weather-learn-more-link = ვრცლად
+home-prefs-mission-message = ჩვენი დამკვეთები მხარს უჭერენ ჩვენს მიზანს უკეთესი ვებსივრცის ჩამოსაყალიბებლად
+home-prefs-mission-message-learn-more-link = იხილეთ, როგორ
 # Variables:
 #   $num (number) - Number of rows displayed
 home-prefs-sections-rows-option =
@@ -725,6 +727,9 @@ search-keyword-warning-title = საკვანძო სიტყვა უ�
 #   $name (string) - Name of a search engine.
 search-keyword-warning-engine = თქვენ მიერ შერჩეულ საკვანძო სიტყვას უკვე იყენებს "{ $name }". გთხოვთ, შეარჩიოთ სხვა.
 search-keyword-warning-bookmark = თქვენ მიერ შერჩეულ საკვანძო სიტყვას უკვე იყენებს სანიშნი. გთხოვთ, შეარჩიოთ სხვა.
+remove-engine-confirmation = ნამდვილად გსურთ ამ საძიებოს მოცილება?
+remove-engine-remove = მოცილება
+remove-addon-engine-alert = ამ საძიებო სისტემის მოსაცილებლად მოაცილეთ შესაბამისი დამატება.
 
 ## Containers Section
 
