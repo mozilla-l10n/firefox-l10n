@@ -107,8 +107,11 @@ genai-options-about-chatbot =
 ## Chatbot onboarding
 
 genai-onboarding-header = Summarize, brainstorm, and more as you browse
+genai-onboarding-choose-header = Choose an AI chatbot to use in the { -brand-short-name } sidebar
 # "Switch anytime" refers to allowing the user to switch to a different chatbot.
 genai-onboarding-description = Choose an AI chatbot to use in the { -brand-short-name } sidebar. We’ll show details about each chatbot when you select it. Switch anytime. <a data-l10n-name="learn-more">Learn more</a>
+# "Switch anytime" refers to allowing the user to switch to a different chatbot.
+genai-onboarding-choose-description = Switch anytime. For help choosing, <a data-l10n-name="learn-more">learn more about each chatbot</a>.
 genai-onboarding-primary = Continue
 genai-onboarding-secondary = Close
 genai-onboarding-claude-tooltip =
@@ -132,6 +135,9 @@ genai-onboarding-lechat-learn = Learn more about Le Chat
 genai-onboarding-select-header = Select text to see suggestions
 genai-onboarding-select-description = When you select text, we’ll suggest prompts you can send to the chatbot. You can also write in your own prompts.
 genai-onboarding-select-primary = Start chatting
+genai-chatbot-contextual-title = Use an AI chatbot without switching tabs
+genai-chatbot-contextual-subtitle = Chat and browse side-by-side when you add an AI chatbot in the { -brand-short-name } sidebar.
+genai-chatbot-contextual-button = Choose a chatbot
 
 ## Chatbot onboarding choices
 ## These describe features/capabilities of chatbot providers. These are not buttons/actions.

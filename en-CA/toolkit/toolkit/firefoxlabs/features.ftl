@@ -33,3 +33,9 @@ experimental-features-contextual-password-manager-description = Access your pass
 experimental-features-custom-wallpaper =
     .label = Choose a custom wallpaper or colour for New Tab
 experimental-features-custom-wallpaper-description = Upload your own wallpaper or pick a custom colour for your New Tab background.
+# This version of the link previews description does not mention AI.
+experimental-features-link-previews-description-no-ai =
+    { PLATFORM() ->
+        [macos] To learn more about a webpage before you click, hover over a link and press Shift (⇧) plus Option (⌥) or Alt. Previews can include details like title and reading time. <a data-l10n-name="connect">Share feedback</a>
+       *[other] To learn more about a webpage before you click, hover over a link and press Shift + Alt. Previews can include details like title and reading time. <a data-l10n-name="connect">Share feedback</a>
+    }

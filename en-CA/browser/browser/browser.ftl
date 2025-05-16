@@ -196,6 +196,23 @@ urlbar-result-menu-learn-more-about-firefox-suggest =
 urlbar-result-menu-manage-firefox-suggest =
     .label = Manage { -firefox-suggest-brand-name }
     .accesskey = M
+# Some urlbar suggestions show the user's approximate location as automatically
+# detected by Firefox (e.g., weather suggestions), and this menu item lets the
+# user tell Firefox that the location is not accurate. Typically the location
+# will be a city name, or a city name combined with the name of its parent
+# administrative region (e.g., a province, prefecture, or state).
+urlbar-result-menu-report-inaccurate-location =
+    .label = Report inaccurate location
+urlbar-result-menu-show-less-frequently =
+    .label = Show less frequently
+urlbar-result-menu-dont-show-weather-suggestions =
+    .label = Don’t show weather suggestions
+# A message shown in the urlbar when the user submits feedback on a suggestion
+# (e.g., it shows an inaccurate location, it's shown too often, etc.).
+urlbar-feedback-acknowledgment = Thanks for your feedback
+# A message shown in the urlbar when the user dismisses weather suggestions.
+# Weather suggestions won't be shown at all anymore.
+urlbar-dismissal-acknowledgment-weather = Thanks for your feedback. You won’t see weather suggestions anymore.
 
 ## Prompts users to use the Urlbar when they open a new tab or visit the
 ## homepage of their default search engine.
@@ -327,10 +344,17 @@ search-one-offs-actions =
 
 # Opens the about:addons page in the home / recommendations section
 quickactions-addons = View Add-ons
+# In English we provide multiple spellings for "add-ons". If that's not
+# applicable to your language, only use the correct spelling (don't repeat the
+# same word).
+quickactions-cmd-addons3 = extensions, themes, addons, add-ons
 quickactions-cmd-addons2 = add-ons
 # Opens the bookmarks library window
 quickactions-bookmarks2 = Manage bookmarks
 quickactions-cmd-bookmarks = bookmarks
+# Opens a SUMO article explaining how to clear history
+quickactions-clearrecenthistory = Clear recent history
+quickactions-cmd-clearrecenthistory = clear recent history, history
 # Opens a SUMO article explaining how to clear history
 quickactions-clearhistory = Clear History
 quickactions-cmd-clearhistory = clear history
@@ -340,8 +364,18 @@ quickactions-cmd-downloads = downloads
 # Opens about:addons page in the extensions section
 quickactions-extensions = Manage extensions
 quickactions-cmd-extensions = extensions
+# Opens Firefox View
+quickactions-firefoxview = Open { -firefoxview-brand-name }
+# English is using "view" and "open view", since the feature name is
+# "Firefox View". If you have translated the name in your language, you
+# should use a word related to the existing translation.
+quickactions-cmd-firefoxview = open { -firefoxview-brand-name }, { -firefoxview-brand-name }, open view, view
+# Opens SUMO home page
+quickactions-help = { -brand-product-name } help
+quickactions-cmd-help = help, support
 # Opens the devtools web inspector
 quickactions-inspector2 = Open Developer Tools
+quickactions-cmd-inspector2 = inspector, devtools, dev tools
 quickactions-cmd-inspector = inspector, devtools
 # Opens about:logins
 quickactions-logins2 = Manage passwords
@@ -354,6 +388,7 @@ quickactions-print2 = Print page
 quickactions-cmd-print = print
 # Opens the print dialog at the save to PDF option
 quickactions-savepdf = Save page as PDF
+quickactions-cmd-savepdf2 = pdf, save page
 quickactions-cmd-savepdf = pdf
 # Opens a new private browsing window
 quickactions-private2 = Open private window
@@ -366,9 +401,12 @@ quickactions-restart = Restart { -brand-short-name }
 quickactions-cmd-restart = restart
 # Opens the screenshot tool
 quickactions-screenshot3 = Take a screenshot
+quickactions-cmd-screenshot2 = screenshot, take a screenshot
 quickactions-cmd-screenshot = screenshot
 # Opens about:preferences
 quickactions-settings2 = Manage settings
+# "manage" should match the corresponding command, which is “Manage settings” in English.
+quickactions-cmd-settings2 = settings, preferences, options, manage
 quickactions-cmd-settings = settings, preferences, options
 # Opens about:addons page in the themes section
 quickactions-themes = Manage themes
@@ -378,6 +416,7 @@ quickactions-update = Update { -brand-short-name }
 quickactions-cmd-update = update
 # Opens the view-source UI with current pages source
 quickactions-viewsource2 = View Page Source
+quickactions-cmd-viewsource2 = view source, source, page source
 quickactions-cmd-viewsource = view source, source
 # Tooltip text for the help button shown in the result.
 quickactions-learn-more =
@@ -1157,6 +1196,15 @@ popup-notification-addon-install-unsigned =
     .value = (Unverified)
 popup-notification-xpinstall-prompt-learn-more = Learn more about installing add-ons safely
 popup-notification-xpinstall-prompt-block-url = See details
+# Note: Access key is set to p to match "private" in the corresponding localized label.
+popup-notification-addon-privatebrowsing-checkbox2 =
+    .label = Allow extension to run in private windows
+    .accesskey = p
+# This string is similar to `webext-perms-description-data-long-technicalAndInteraction`
+# but it is used in the install prompt, and it needs an access key.
+popup-notification-addon-technical-and-interaction-checkbox =
+    .label = Share technical and interaction data with extension developer
+    .accesskey = S
 # Note: Access key is set to P to match "Private" in the corresponding localized label.
 popup-notification-addon-privatebrowsing-checkbox =
     .label = Run in Private Windows
@@ -1214,3 +1262,4 @@ file-picker-crashed-show-in-folder =
 
 ## Onboarding Finish Setup checklist
 
+onboarding-checklist-button-label = Finish setup

@@ -82,6 +82,8 @@ profiles-light-theme = Light
 profiles-dark-theme = Dark
 # The default system theme
 profiles-system-theme = System
+# This dark theme features forest green, dusky green with a gray undertone, and a muted sage green. Its name evokes the rich color of green moss in the forest. This name can be translated directly if its easily understood in your language, or adapted to a more natural sounding name that fits the color scheme.
+profiles-moss-theme-2 = Moss green
 
 ## Alternative text for default profile icons
 

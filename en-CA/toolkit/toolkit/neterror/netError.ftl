@@ -54,6 +54,8 @@ neterror-dns-not-found-hint-header = <strong>If you entered the right address, y
 neterror-dns-not-found-hint-try-again = Try again later
 neterror-dns-not-found-hint-check-network = Check your network connection
 neterror-dns-not-found-hint-firewall = Check that { -brand-short-name } has permission to access the web (you might be connected but behind a firewall)
+neterror-dns-not-found-offline-hint-header = <strong>What can you do about it?</strong>
+neterror-dns-not-found-offline-hint-different-device = Try connecting on a different device.
 
 ## TRR-only specific messages
 ## Variables:
