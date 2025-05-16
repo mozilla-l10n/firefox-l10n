@@ -18,6 +18,7 @@ webext-perms-sideload-header = { $extension } a été ajouté
 webext-perms-optional-perms-header2 = { $extension } demande des permissions supplémentaires
 webext-perms-optional-perms-header = { $extension } demande des permissions supplémentaires.
 webext-perms-header2 = Ajouter { $extension }
+webext-perms-list-intro-unsigned = Cette extension non vérifiée pourrait présenter un risque pour votre vie privée ou compromettre votre appareil. Ne l’ajoutez que si vous faites confiance à la source.
 
 ## Headers used in the webextension permissions dialog, inside the content.
 
@@ -103,6 +104,9 @@ webext-perms-host-description-multiple-domains = Accéder à vos données pour l
 
 ## Strings for data collection permissions in the permission prompt.
 
+# Variables:
+#    $permissions (String): a list of data collection permissions formatted with `Intl.ListFormat` using the "narrow" style.
+webext-perms-description-data-some = Le développeur indique que cette extension collecte : { $permissions }
 
 ## Headers used in the webextension permissions dialog for synthetic add-ons.
 ## The part of the string describing what privileges the extension gives should be consistent
