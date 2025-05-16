@@ -96,6 +96,8 @@ bookmarks-toolbar-callout-2b-secondary-button-label = Nej tak
 
 perplexity-callout-theme-1-title = Har du brug for det rigtige svar med det samme?
 perplexity-callout-theme-2-title = Prøv Perplexity: en ny måde at søge på
+perplexity-callout-secondary-label-1 = Afvis
+perplexity-callout-secondary-label-2 = Forstået
 
 ## Sidebar Strings
 

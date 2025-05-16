@@ -137,6 +137,7 @@ genai-onboarding-lechat-learn = Læs mere om Le Chat
 genai-onboarding-select-header = Marker tekst for at se forslag
 genai-onboarding-select-description = Når du markerer tekst foreslår vi prompts, du kan sende til chatbotten. Du kan også skrive dine egne prompts.
 genai-onboarding-select-primary = Gå i gang med at chatte
+genai-chatbot-contextual-button = Vælg en chatbot
 
 ## Chatbot onboarding choices
 ## These describe features/capabilities of chatbot providers. These are not buttons/actions.

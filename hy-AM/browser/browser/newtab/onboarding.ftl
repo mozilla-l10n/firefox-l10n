@@ -372,6 +372,7 @@ onboarding-checklist-sign-up = Գրանցվեք կամ մուտք գործեք �
 
 tab-groups-onboarding-feature-callout-title = Փորձեք ներդիրի խմբերը ավելի քիչ առաջնահերթության, ավելի շատ կիզակետի համար
 tab-groups-onboarding-feature-callout-subtitle = Կազմակերպվեք՝ մեկ ներդիրը մյուսի վրա քաշելով՝ ձեր առաջին խումբը ստեղծելու համար։
+tab-groups-onboarding-create-group-title-2 = Գտեք ձեր ներդիրների խմբերը ցանկացած ժամանակ:
 tab-groups-onboarding-dismiss = Լավ
 
 ## Multi Profiles feature onboarding messages
