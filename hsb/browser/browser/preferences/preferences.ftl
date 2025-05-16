@@ -655,6 +655,8 @@ home-prefs-weather-header =
     .label = Wjedro
 home-prefs-weather-description = Dźensniša wjedrowa předpowědź na jedyn pohlad
 home-prefs-weather-learn-more-link = Dalše informacije
+home-prefs-mission-message = Naši sponsorojo našu misiju podpěruja, zo bychu lěpši web tworili
+home-prefs-mission-message-learn-more-link = Zhońće kak
 # Variables:
 #   $num (number) - Number of rows displayed
 home-prefs-sections-rows-option =
