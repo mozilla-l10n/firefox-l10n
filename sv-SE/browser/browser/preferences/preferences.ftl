@@ -649,6 +649,8 @@ home-prefs-weather-header =
     .label = Väder
 home-prefs-weather-description = Dagens prognos i korthet
 home-prefs-weather-learn-more-link = Läs mer
+home-prefs-mission-message = Våra sponsorer stöder vårt uppdrag att bygga en bättre webb
+home-prefs-mission-message-learn-more-link = Ta reda på hur
 # Variables:
 #   $num (number) - Number of rows displayed
 home-prefs-sections-rows-option =
