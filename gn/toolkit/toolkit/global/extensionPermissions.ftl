@@ -56,6 +56,16 @@ webext-perms-description-data-short-personallyIdentifyingInfo = marandu tapicha 
 webext-perms-description-data-short-searchTerms = jehekaha porureko
 webext-perms-description-data-short-technicalAndInteraction = mba’ekuaarã aporeko ha ñomongetagua
 webext-perms-description-data-short-websiteActivity = tembiapo ñanduti roguegua
+webext-perms-description-data-short-websiteContent = ñanduti rogue retepygua
 
 ## Long form to be used in `about:addons` when these data collection permissions are optional.
 
+webext-perms-description-data-long-authenticationInfo = Emoherakuã marandu ñemoneĩgua jepysokue mboguatahára ndive
+webext-perms-description-data-long-bookmarksInfo = Emoherakuã techaukaha marandu jepysokue mboguatahára ndive
+webext-perms-description-data-long-browsingActivity = Emoherakuã tembiapo ñeikundahagua jepysokue mboguatahára ndive
+webext-perms-description-data-long-financialAndPaymentInfo = Emoherakuã marandu viru ha jehepyme’ẽgua jepysokue mboguatahára ndive
+webext-perms-description-data-long-healthInfo = Emoherakuã marandu tesãirã jepysokue mboguatahára ndive
+webext-perms-description-data-long-locationInfo = Emoherakuã marandu tendaitegua jepysokue mboguatahára ndive
+webext-perms-description-data-long-personalCommunications = Emoherakuã marandu ndereheguaite jepysokue mboguatahára ndive
+webext-perms-description-data-long-personallyIdentifyingInfo = Emoherakuã marandu ndereheguaitéva jepysokue mboguatahára ndive
+webext-perms-description-data-long-searchTerms = Emoherakuã jehekaha porureko jepysokue mboguatahára ndive
