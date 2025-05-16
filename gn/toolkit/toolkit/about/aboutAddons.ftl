@@ -547,3 +547,7 @@ plugins-widevine-description = Ko mboguejyrã’i omoneĩta ipapapy kañýva ñe
 ## Headings for the Permissions tab in `about:addons` when the data collection
 ## feature is enabled.
 
+addon-permissions-required-data-collection = Mba’ekuaarã ñembyaty tekotevẽva:
+addon-permissions-optional-data-collection = Mba’ekuaarã ñembyaty eipotáronte:
+# Name of the Permissions tab in `about:addons` when the data collection feature is enabled.
+permissions-data-addon-button = Ñemoneĩ ha mba’ekuaarã

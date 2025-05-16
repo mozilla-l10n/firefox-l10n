@@ -133,3 +133,11 @@ tab-context-send-tabs-to-device =
            *[other] Emondo umi tendayke { $tabCount } mba’e’okápe
         }
     .accesskey = n
+tab-context-unload-n-tabs =
+    .label =
+        { $tabCount ->
+            [1] Emboguejy tendayke
+            [one] Emboguejy { $tabCount } tendayke
+           *[other] Emboguejy { $tabCount } umi tendayke
+        }
+    .accesskey = U
