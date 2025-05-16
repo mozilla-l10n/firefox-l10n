@@ -69,3 +69,6 @@ webext-perms-description-data-long-locationInfo = Emoherakuã marandu tendaitegu
 webext-perms-description-data-long-personalCommunications = Emoherakuã marandu ndereheguaite jepysokue mboguatahára ndive
 webext-perms-description-data-long-personallyIdentifyingInfo = Emoherakuã marandu ndereheguaitéva jepysokue mboguatahára ndive
 webext-perms-description-data-long-searchTerms = Emoherakuã jehekaha porureko jepysokue mboguatahára ndive
+webext-perms-description-data-long-technicalAndInteraction = Emoherakuã mba’ekuaarã aporekogua ha ñomongeta jepysokue mboguatahára ndive
+webext-perms-description-data-long-websiteActivity = Emoherakuã tembiapo ñanduti roguegua jepysokue mboguatahára ndive
+webext-perms-description-data-long-websiteContent = Emoherakuã ñanduti rogue retepy jepysokue mboguatahára ndive

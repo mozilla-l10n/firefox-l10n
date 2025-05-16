@@ -25,6 +25,11 @@ webext-perms-header-required-perms = Ñemoneĩ jerurepýva:
 webext-perms-header-optional-settings = Ñemboheko ikatúva:
 webext-perms-header-update-required-perms = Ñemoneĩ pyahu jerurepýva:
 webext-perms-header-optional-required-perms = Ñemoneĩ pyahu:
+webext-perms-header-data-collection-perms = Mba’ekuaarã ñembyaty tekotevẽva:
+webext-perms-header-data-collection-is-none = Mba’ekuaarã ñembyaty:
+# This is a header used in the add-ons "update" prompt, shown when the new
+# version requires new data collection permissions.
+webext-perms-header-update-data-collection-perms = Mba’ekuaarã ñembyaty pyahu tekotevẽva:
 
 ##
 
