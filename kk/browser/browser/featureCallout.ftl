@@ -87,6 +87,7 @@ bookmarks-toolbar-callout-2b-secondary-button-label = Жоқ, рахмет
 
 ## Perplexity callout strings
 
+perplexity-callout-theme-2-title = Perplexity қолданып көріңіз: іздеудің жаңа әдісі
 perplexity-callout-primary-label = Perplexity сұрау
 
 ## Sidebar Strings
