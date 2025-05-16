@@ -15,3 +15,4 @@ places-bookmarks-restore-format-error = Tawsit n ufaylu ur tettusefrak ara.
 places-bookmarks-restore-parse-error = Ur izmir ara ad isleḍ afaylu n uklas.
 places-bookmarks-import = Kter afaylu n tecraḍ n isebtar
 places-bookmarks-export = Sifeḍ afaylu n tecraḍ n isebtar
+places-bookmarks-paste-error-title = URL(s) i yettwafen d irimeɣta
