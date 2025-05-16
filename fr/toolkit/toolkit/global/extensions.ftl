@@ -104,6 +104,7 @@ webext-perms-host-description-multiple-domains = Accéder à vos données pour l
 
 ## Strings for data collection permissions in the permission prompt.
 
+webext-perms-description-data-none = Le développeur indique que cette extension n’a pas besoin de collecter de données.
 # Variables:
 #    $permissions (String): a list of data collection permissions formatted with `Intl.ListFormat` using the "narrow" style.
 webext-perms-description-data-some = Le développeur indique que cette extension collecte : { $permissions }

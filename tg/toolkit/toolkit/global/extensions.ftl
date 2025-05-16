@@ -18,6 +18,7 @@ webext-perms-sideload-header = { $extension } илова карда шуд
 webext-perms-optional-perms-header2 = «{ $extension }» иҷозатҳои иловагиро дархост мекунад.
 webext-perms-optional-perms-header = { $extension } иҷозати иловагиро дархост мекунад.
 webext-perms-header2 = Илова кардани «{ $extension }»
+webext-perms-list-intro-unsigned = Ин васеъшавии тасдиқнашуда метавонад махфияти шахсӣ ё амнияти дастгоҳи шуморо дар зери хатар гузорад. Танҳо дар сурате онро илова кунед, ки агар ба манбаи он пурра эътимод дошта бошед.
 
 ## Headers used in the webextension permissions dialog, inside the content.
 
@@ -106,6 +107,9 @@ webext-perms-host-description-multiple-domains =
 
 ## Strings for data collection permissions in the permission prompt.
 
+# Variables:
+#    $permissions (String): a list of data collection permissions formatted with `Intl.ListFormat` using the "narrow" style.
+webext-perms-description-data-some = Барномасоз хабар медиҳад, ки ин васеъшавӣ зеринро ҷамъ мекунад: { $permissions }
 # Variables:
 #   $extension (String): replaced with the localized name of the extension.
 webext-perms-update-text-with-data-collection = «{ $extension }» барои навсозӣ танзимоти навро талаб мекунад

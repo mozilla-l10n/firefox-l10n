@@ -555,3 +555,5 @@ newtab-report-content-spam-misleading =
     .label = Spam ou trompeur
 newtab-report-cancel = Annuler
 newtab-report-submit = Envoyer
+newtab-toast-thanks-for-reporting =
+    .message = Merci pour votre signalement.
