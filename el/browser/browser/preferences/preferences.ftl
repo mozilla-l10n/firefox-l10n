@@ -649,6 +649,7 @@ home-prefs-weather-header =
     .label = Καιρός
 home-prefs-weather-description = Σημερινή πρόγνωση με μια ματιά
 home-prefs-weather-learn-more-link = Μάθετε περισσότερα
+home-prefs-mission-message = Οι χορηγοί μας υποστηρίζουν την αποστολή μας για ένα καλύτερο διαδίκτυο
 home-prefs-mission-message-learn-more-link = Μάθετε πώς
 # Variables:
 #   $num (number) - Number of rows displayed

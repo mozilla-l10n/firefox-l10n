@@ -729,6 +729,9 @@ search-keyword-warning-title = Duplicitné kľúčové slovo
 #   $name (string) - Name of a search engine.
 search-keyword-warning-engine = Zadali ste kľúčové slovo, ktoré je v súčasnosti používané modulom "{ $name }". Vyberte nejaké iné.
 search-keyword-warning-bookmark = Zadali ste kľúčové slovo, ktoré je v súčasnosti používané jednou zo záložiek. Vyberte nejaké iné.
+remove-engine-confirmation = Naozaj chcete odstrániť tento vyhľadávací modul?
+remove-engine-remove = Odstrániť
+remove-addon-engine-alert = Ak chcete odstrániť tento vyhľadávací modul, odstráňte príslušný doplnok.
 
 ## Containers Section
 

@@ -46,6 +46,18 @@ webext-perms-extra-warning-userScripts-short = Neoverené skripty môžu predsta
 ##
 ## This is used when the data collection permissions are required.
 
+webext-perms-description-data-short-authenticationInfo = overovacie informácie
+webext-perms-description-data-short-bookmarksInfo = záložky
+webext-perms-description-data-short-browsingActivity = aktivita prehliadania
+webext-perms-description-data-short-financialAndPaymentInfo = finančné a platobné informácie
+webext-perms-description-data-short-healthInfo = zdravotné informácie
+webext-perms-description-data-short-locationInfo = poloha
+webext-perms-description-data-short-personalCommunications = osobná komunikácia
+webext-perms-description-data-short-personallyIdentifyingInfo = osobné identifikačné údaje
+webext-perms-description-data-short-searchTerms = vyhľadávané výrazy
+webext-perms-description-data-short-technicalAndInteraction = technické údaje a údaje o interakciách
+webext-perms-description-data-short-websiteActivity = aktivita na webovej stránke
+webext-perms-description-data-short-websiteContent = obsah webovej stránky
 
 ## Long form to be used in `about:addons` when these data collection permissions are optional.
 

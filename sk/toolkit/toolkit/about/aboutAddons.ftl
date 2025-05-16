@@ -574,3 +574,5 @@ plugins-widevine-description = Tento zásuvný modul umožňuje prehrávanie ši
 ## Headings for the Permissions tab in `about:addons` when the data collection
 ## feature is enabled.
 
+# Name of the Permissions tab in `about:addons` when the data collection feature is enabled.
+permissions-data-addon-button = Povolenia a údaje
