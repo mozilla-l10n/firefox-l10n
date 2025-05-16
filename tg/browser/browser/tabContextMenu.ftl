@@ -132,3 +132,10 @@ tab-context-send-tabs-to-device =
            *[other] Фиристодани { $tabCount } варақа ба дастгоҳ
         }
     .accesskey = Ф
+tab-context-unload-n-tabs =
+    .label =
+        { $tabCount ->
+            [1] Холӣ кардани варақа
+           *[other] Unload { $tabCount } Tabs
+        }
+    .accesskey = Х

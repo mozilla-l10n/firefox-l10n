@@ -45,3 +45,9 @@ experimental-features-link-previews-description =
         [macos] Pokud se chcete o webové stránce dozvědět více než na ni klepnete, najeďte na odkaz a stiskněte Shift plus volbu (⌥) nebo Alt. Náhledy mohou obsahovat detaily jako nadpis a čas čtení. U některých webových stránek může umělá inteligence číst i text stránky a generovat klíčové body. Umělá inteligence je optimalizována pro čtení a generování anglického textu. Aby bylo upřednostněno vaše soukromí, umělá inteligence běží lokálně na vašem počítači<a data-l10n-name="connect">Sdílet zpětnou vazbu</a>
        *[other] Pokud se chcete o webové stránce dozvědět více než na ni klepnete, najeďte na odkaz a stiskněte Shift + Alt. Náhledy mohou obsahovat detaily jako nadpis a čas čtení. U některých webových stránek může umělá inteligence číst i text stránky a generovat klíčové body. Umělá inteligence je optimalizována pro čtení a generování anglického textu. Aby bylo upřednostněno vaše soukromí, umělá inteligence běží lokálně na vašem počítači<a data-l10n-name="connect">Sdílet zpětnou vazbu</a>
     }
+# This version of the link previews description does not mention AI.
+experimental-features-link-previews-description-no-ai =
+    { PLATFORM() ->
+        [macos] Pokud se chcete o webové stránce dozvědět více než na ni klepnete, najeďte na odkaz a stiskněte Shift (⇧) plus Option (⌥) nebo Alt. Náhledy mohou obsahovat detaily jako nadpis a čas čtení. <a data-l10n-name="connect">Sdílet zpětnou vazbu</a>
+       *[other] Pokud se chcete o webové stránce dozvědět více než na ni klepnete, najeďte na odkaz a stiskněte Shift + Alt. Náhledy mohou obsahovat detaily jako nadpis a čas čtení. <a data-l10n-name="connect">Sdílet zpětnou vazbu</a>
+    }

@@ -263,7 +263,7 @@ firefoxview-recentlyclosed-empty-description-two = Каб знайсці даў�
 firefoxview-syncedtabs-device-notabs = На гэтай прыладзе няма адкрытых картак
 firefoxview-syncedtabs-connect-another-device = Злучыць іншую прыладу
 firefoxview-pinned-tabs =
-    .title = Прышпіленыя карткі
+    .title = Замацаваныя карткі
 firefoxview-tabs =
     .title = Карткі
 

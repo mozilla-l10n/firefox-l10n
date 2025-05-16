@@ -546,3 +546,7 @@ plugins-widevine-description = 此外掛程式讓您可播放相容於 Encrypted
 ## Headings for the Permissions tab in `about:addons` when the data collection
 ## feature is enabled.
 
+addon-permissions-required-data-collection = 必需收集的資料：
+addon-permissions-optional-data-collection = 選擇性收集的資料：
+# Name of the Permissions tab in `about:addons` when the data collection feature is enabled.
+permissions-data-addon-button = 權限與資料

@@ -202,6 +202,12 @@ migration-safari-password-import-step1 = Wócyńśo meni „Safari“ w Safari a
 migration-safari-password-import-step2 = Wubjeŕśo tłocašk <img data-l10n-name="safari-icon-3dots"/> a wubjeŕśo „Alle Passwörter exportieren“
 migration-safari-password-import-step3 = Dataju gronidłow składowaś
 migration-safari-password-import-step4 = Wubjeŕśo „Dataju wubraś“ dołojce, aby dataju gronidłow wubrał, kótaruž sćo składł
+migration-chrome-windows-password-import-header = Kak gronidła z Chrome importěrowaś
+migration-chrome-windows-password-import-steps-header = W Chrome:
+migration-chrome-windows-password-import-step1 = Wócyńśo głowny meni <img data-l10n-name="chrome-icon-3dots"/> a pśejźćo k Gronidła a awtomatiski wupołniś > Zastojnik gronidłow Google.
+migration-chrome-windows-password-import-step2 = Wubjeŕśo „Nastajenja“ z menija.
+migration-chrome-windows-password-import-step3 = Wubjeŕśo „Dataju ześěgnuś“ a składujśo ju na swójom rěźe.
+migration-chrome-windows-password-import-step4 = Wrośćo se sem a wužywajśo „Dataju wubraś “, aby import dokóńcył.
 migration-manual-password-import-skip-button = Pśeskócyś
 migration-manual-password-import-select-button = Dataju wubraś
 migration-safari-password-import-skip-button = Pśeskócyś

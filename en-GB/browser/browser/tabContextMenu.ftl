@@ -130,3 +130,10 @@ tab-context-send-tabs-to-device =
            *[other] Send { $tabCount } Tabs to Device
         }
     .accesskey = n
+tab-context-unload-n-tabs =
+    .label =
+        { $tabCount ->
+            [1] Unload Tab
+           *[other] Unload { $tabCount } Tabs
+        }
+    .accesskey = U

@@ -46,6 +46,16 @@ webext-perms-extra-warning-userScripts-short = Doğrulanmamış betikler güvenl
 ##
 ## This is used when the data collection permissions are required.
 
+webext-perms-description-data-short-authenticationInfo = kimlik doğrulama bilgileri
+webext-perms-description-data-short-bookmarksInfo = yer imleri
+webext-perms-description-data-short-browsingActivity = gezinti etkinliği
+webext-perms-description-data-short-financialAndPaymentInfo = finansal bilgiler ve ödeme bilgileri
+webext-perms-description-data-short-healthInfo = sağlık bilgileri
+webext-perms-description-data-short-locationInfo = konum
+webext-perms-description-data-short-searchTerms = arama terimleri
+webext-perms-description-data-short-technicalAndInteraction = teknik veriler ve etkileşim verileri
+webext-perms-description-data-short-websiteActivity = web sitesi etkinliği
+webext-perms-description-data-short-websiteContent = web sitesi içeriği
 
 ## Long form to be used in `about:addons` when these data collection permissions are optional.
 

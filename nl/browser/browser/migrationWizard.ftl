@@ -196,6 +196,12 @@ migration-safari-password-import-step1 = Open in Safari het menu ‘Safari’ en
 migration-safari-password-import-step2 = Selecteer de knop <img data-l10n-name="safari-icon-3dots"/> en kies ‘Alle wachtwoorden exporteren’
 migration-safari-password-import-step3 = Sla het wachtwoordenbestand op
 migration-safari-password-import-step4 = Gebruik ‘Bestand selecteren’ hieronder om het wachtwoordenbestand dat u hebt opgeslagen te kiezen
+migration-chrome-windows-password-import-header = Wachtwoorden importeren uit Chrome
+migration-chrome-windows-password-import-steps-header = In Chrome:
+migration-chrome-windows-password-import-step1 = Open het hoofdmenu <img data-l10n-name="chrome-icon-3dots"/> en ga naar Wachtwoorden en automatisch invullen > Google-wachtwoordenbeheerder.
+migration-chrome-windows-password-import-step2 = Selecteer ‘Instellingen’ vanuit het menu.
+migration-chrome-windows-password-import-step3 = Kies ‘Bestand downloaden’ en sla het op uw apparaat op.
+migration-chrome-windows-password-import-step4 = Keer hier terug en kies ‘Bestand selecteren’ om het importeren te voltooien.
 migration-manual-password-import-skip-button = Overslaan
 migration-manual-password-import-select-button = Bestand selecteren
 migration-safari-password-import-skip-button = Overslaan

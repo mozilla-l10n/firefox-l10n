@@ -725,6 +725,9 @@ search-keyword-warning-title = Dubbel sleutelwoord
 #   $name (string) - Name of a search engine.
 search-keyword-warning-engine = U hebt een sleutelwoord gekozen dat momenteel wordt gebruikt door ‘{ $name }’. Kies een ander.
 search-keyword-warning-bookmark = U hebt een sleutelwoord gekozen dat momenteel wordt gebruikt door een bladwijzer. Kies een ander.
+remove-engine-confirmation = Weet u zeker dat u deze zoekmachine wilt verwijderen?
+remove-engine-remove = Verwijderen
+remove-addon-engine-alert = Verwijder de geassocieerde add-on om deze zoekmachine te verwijderen.
 
 ## Containers Section
 

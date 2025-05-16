@@ -190,14 +190,14 @@ tabbrowser-customizemode-tab-title = { -brand-short-name } tarayıcısını öze
 
 tabbrowser-context-mute-tab =
     .label = Sekmenin sesini kapat
-    .accesskey = m
+    .accesskey = i
 tabbrowser-context-unmute-tab =
     .label = Sekmenin sesini aç
     .accesskey = m
 # The accesskey should match the accesskey for tabbrowser-context-mute-tab
 tabbrowser-context-mute-selected-tabs =
     .label = Sekmelerin sesini kapat
-    .accesskey = m
+    .accesskey = i
 # The accesskey should match the accesskey for tabbrowser-context-unmute-tab
 tabbrowser-context-unmute-selected-tabs =
     .label = Sekmelerin sesini aç

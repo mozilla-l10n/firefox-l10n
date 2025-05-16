@@ -725,6 +725,9 @@ search-keyword-warning-title = Schlüsselwort duplizieren
 #   $name (string) - Name of a search engine.
 search-keyword-warning-engine = Sie haben ein Schlüsselwort ausgewählt, das bereits von "{ $name }" verwendet wird, bitte wählen Sie ein anderes.
 search-keyword-warning-bookmark = Sie haben ein Schlüsselwort ausgewählt, das bereits von einem Lesezeichen verwendet wird, bitte wählen Sie ein anderes.
+remove-engine-confirmation = Soll diese Suchmaschine wirklich entfernt werden?
+remove-engine-remove = Entfernen
+remove-addon-engine-alert = Um diese Suchmaschine zu entfernen, entfernen Sie das zugehörige Add-on.
 
 ## Containers Section
 

@@ -725,6 +725,9 @@ search-keyword-warning-title = Dûbel kaaiwurd
 #   $name (string) - Name of a search engine.
 search-keyword-warning-engine = Jo hawwe in kaaiwurd keazen dat op dit stuit yn gebrûk is troch ‘{ $name }’. Selektearje asjebleaft in oar.
 search-keyword-warning-bookmark = Jo hawwe in kaaiwurd keazen dat op dit stuit yn gebrûk is troch in blêdwizer. Selektearje asjebleaft in oar.
+remove-engine-confirmation = Binne jo wis dat jo dizze sykmasine fuortsmite wolle?
+remove-engine-remove = Fuortsmite
+remove-addon-engine-alert = Smyt de assosjearre add-on fuort om dizze sykmasine fuort te smiten.
 
 ## Containers Section
 

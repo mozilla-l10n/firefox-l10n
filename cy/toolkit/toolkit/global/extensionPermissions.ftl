@@ -46,6 +46,30 @@ webext-perms-extra-warning-userScripts-short = Gall sgriptiau heb eu gwirio acho
 ##
 ## This is used when the data collection permissions are required.
 
+webext-perms-description-data-short-authenticationInfo = manylion ddilysu
+webext-perms-description-data-short-bookmarksInfo = nodau tudalen
+webext-perms-description-data-short-browsingActivity = gweithgaredd pori
+webext-perms-description-data-short-financialAndPaymentInfo = manylion ariannol a thaliadau
+webext-perms-description-data-short-healthInfo = manylion iechyd
+webext-perms-description-data-short-locationInfo = lleoliad
+webext-perms-description-data-short-personalCommunications = cyfathrebiadau personol
+webext-perms-description-data-short-personallyIdentifyingInfo = manylion adnabod personol
+webext-perms-description-data-short-searchTerms = termau chwilio
+webext-perms-description-data-short-technicalAndInteraction = data technegol a rhyngweithio
+webext-perms-description-data-short-websiteActivity = gweithgaredd gwefan
+webext-perms-description-data-short-websiteContent = cynnwys gwefan
 
 ## Long form to be used in `about:addons` when these data collection permissions are optional.
 
+webext-perms-description-data-long-authenticationInfo = Rhannu manylion ddilysu gyda datblygwr yr estyniad
+webext-perms-description-data-long-bookmarksInfo = Rhannu manylion nodau tudalen gyda datblygwr yr estyniad
+webext-perms-description-data-long-browsingActivity = Rhannu gweithgaredd pori gyda datblygwr yr estyniad
+webext-perms-description-data-long-financialAndPaymentInfo = Rhannu manylion nodau tudalen gyda datblygwr yr estyniad
+webext-perms-description-data-long-healthInfo = Rhannu manylion iechyd gyda datblygwr yr estyniad
+webext-perms-description-data-long-locationInfo = Rhannu gweithgaredd pori gyda datblygwr yr estyniad
+webext-perms-description-data-long-personalCommunications = Rhannu manylion nodau tudalen gyda datblygwr yr estyniad
+webext-perms-description-data-long-personallyIdentifyingInfo = Rhannu manylion nodau tudalen gyda datblygwr yr estyniad
+webext-perms-description-data-long-searchTerms = Rhannu manylion iechyd gyda datblygwr yr estyniad
+webext-perms-description-data-long-technicalAndInteraction = Rhannu data technegol a rhyngweithio â datblygwr yr estyniad
+webext-perms-description-data-long-websiteActivity = Rhannu gweithgaredd gwefan gyda datblygwr yr estyniad
+webext-perms-description-data-long-websiteContent = Rhannu cynnwys gwefan gyda datblygwr yr estyniad

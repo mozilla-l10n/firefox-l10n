@@ -196,6 +196,12 @@ migration-safari-password-import-step1 = Στο Safari, ανοίξτε το με
 migration-safari-password-import-step2 = Κάντε κλικ στο κουμπί <img data-l10n-name="safari-icon-3dots"/> και επιλέξτε «Εξαγωγή όλων των συνθηματικών»
 migration-safari-password-import-step3 = Αποθηκεύστε το αρχείο κωδικών πρόσβασης
 migration-safari-password-import-step4 = Χρησιμοποιήστε το «Επιλογή αρχείου» παρακάτω για να επιλέξετε το αρχείο κωδικών πρόσβασης που αποθηκεύσατε
+migration-chrome-windows-password-import-header = Εισαγωγή κωδικών πρόσβασης από το Chrome
+migration-chrome-windows-password-import-steps-header = Στο Chrome:
+migration-chrome-windows-password-import-step1 = Ανοίξτε το κύριο μενού <img data-l10n-name="chrome-icon-3dots"/> και μεταβείτε στην επιλογή «Κωδικοί πρόσβασης και αυτόματη συμπλήρωση» > «Διαχείριση κωδικών πρόσβασης Google».
+migration-chrome-windows-password-import-step2 = Επιλέξτε «Ρυθμίσεις» από το μενού.
+migration-chrome-windows-password-import-step3 = Επιλέξτε «Λήψη αρχείου» και αποθηκεύστε το στη συσκευή σας.
+migration-chrome-windows-password-import-step4 = Επιστρέψτε εδώ και κάντε κλικ στο «Επιλογή αρχείου» για να ολοκληρώσετε την εισαγωγή.
 migration-manual-password-import-skip-button = Παράλειψη
 migration-manual-password-import-select-button = Επιλογή αρχείου
 migration-safari-password-import-skip-button = Παράλειψη

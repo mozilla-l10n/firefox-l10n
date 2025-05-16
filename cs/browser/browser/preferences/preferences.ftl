@@ -855,6 +855,9 @@ search-keyword-warning-title = Použité klíčové slovo
 #   $name (string) - Name of a search engine.
 search-keyword-warning-engine = Zvolili jste klíčové slovo, které už je použito pro „{ $name }“. Zvolte prosím jiné.
 search-keyword-warning-bookmark = Zvolili jste klíčové slovo, které už je použito pro záložku. Zvolte prosím jiné.
+remove-engine-confirmation = Opravdu chcete odstranit tento vyhledávač?
+remove-engine-remove = Odebrat
+remove-addon-engine-alert = Chcete-li tento vyhledávač odstranit, odstraňte související doplněk.
 
 ## Containers Section
 

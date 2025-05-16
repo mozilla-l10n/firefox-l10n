@@ -344,6 +344,10 @@ search-one-offs-actions =
 
 # Opens the about:addons page in the home / recommendations section
 quickactions-addons = Skoða viðbætur
+# In English we provide multiple spellings for "add-ons". If that's not
+# applicable to your language, only use the correct spelling (don't repeat the
+# same word).
+quickactions-cmd-addons3 = forritsaukar, þemu, viðbætur
 quickactions-cmd-addons2 = viðbætur
 # Opens the bookmarks library window
 quickactions-bookmarks2 = Sýsla með bókamerki
@@ -371,6 +375,7 @@ quickactions-help = { -brand-product-name } hjálp
 quickactions-cmd-help = hjálp, aðstoð
 # Opens the devtools web inspector
 quickactions-inspector2 = Opna forritunarverkfæri
+quickactions-cmd-inspector2 = skoðunaverkfæri, þróunartól, verkfæri fyrir forritara
 quickactions-cmd-inspector = inspector, devtools
 # Opens about:logins
 quickactions-logins2 = Sýsla með lykilorð
@@ -383,6 +388,7 @@ quickactions-print2 = Prenta síðu
 quickactions-cmd-print = prenta
 # Opens the print dialog at the save to PDF option
 quickactions-savepdf = Vista síðu sem PDF
+quickactions-cmd-savepdf2 = pdf, vista síðu
 quickactions-cmd-savepdf = pdf
 # Opens a new private browsing window
 quickactions-private2 = Opna huliðsglugga
@@ -399,6 +405,8 @@ quickactions-cmd-screenshot2 = skjámynd, taka skjámynd
 quickactions-cmd-screenshot = skjámynd
 # Opens about:preferences
 quickactions-settings2 = Sýsla með stillingar
+# "manage" should match the corresponding command, which is “Manage settings” in English.
+quickactions-cmd-settings2 = stillingar, kjörstillingar, valkostir, sýsla með, breyta
 quickactions-cmd-settings = stillingar, kjörstillingar, valkostir
 # Opens about:addons page in the themes section
 quickactions-themes = Sýsla með þemu
@@ -408,6 +416,7 @@ quickactions-update = Uppfæra { -brand-short-name }
 quickactions-cmd-update = uppfærsla
 # Opens the view-source UI with current pages source
 quickactions-viewsource2 = Skoða frumkóða síðu
+quickactions-cmd-viewsource2 = skoða frumkóða, frumkóði, frumkóði síðu
 quickactions-cmd-viewsource = skoða frumkóða, frumkóði
 # Tooltip text for the help button shown in the result.
 quickactions-learn-more =
@@ -1194,6 +1203,11 @@ popup-notification-xpinstall-prompt-block-url = Sjá nánar
 popup-notification-addon-privatebrowsing-checkbox2 =
     .label = Leyfa forritsaukum að keyra í huliðsgluggum
     .accesskey = y
+# This string is similar to `webext-perms-description-data-long-technicalAndInteraction`
+# but it is used in the install prompt, and it needs an access key.
+popup-notification-addon-technical-and-interaction-checkbox =
+    .label = Deildu tæknilegum gögnum og gagnvirknigögnum með höfundi forritsaukans
+    .accesskey = k
 # Note: Access key is set to P to match "Private" in the corresponding localized label.
 popup-notification-addon-privatebrowsing-checkbox =
     .label = Keyra í huliðsgluggum
@@ -1251,3 +1265,4 @@ file-picker-crashed-show-in-folder =
 
 ## Onboarding Finish Setup checklist
 
+onboarding-checklist-button-label = Ljúka uppsetningu

@@ -46,6 +46,28 @@ webext-perms-extra-warning-userScripts-short = Neověřené skripty mohou předs
 ##
 ## This is used when the data collection permissions are required.
 
+webext-perms-description-data-short-bookmarksInfo = záložky
+webext-perms-description-data-short-browsingActivity = aktivita při procházení
+webext-perms-description-data-short-financialAndPaymentInfo = finanční a platební informace
+webext-perms-description-data-short-healthInfo = informace o zdraví
+webext-perms-description-data-short-locationInfo = umístění
+webext-perms-description-data-short-personalCommunications = osobní komunikace
+webext-perms-description-data-short-personallyIdentifyingInfo = informace umožňující identifikaci osob
+webext-perms-description-data-short-searchTerms = hledané výrazy
+webext-perms-description-data-short-technicalAndInteraction = technická data a data interakce
+webext-perms-description-data-short-websiteActivity = aktivity na webových stránkách
+webext-perms-description-data-short-websiteContent = obsah webové stránky
 
 ## Long form to be used in `about:addons` when these data collection permissions are optional.
 
+webext-perms-description-data-long-bookmarksInfo = Sdílet informace o záložkách s vývojářem rozšíření
+webext-perms-description-data-long-browsingActivity = Sdílet informace o prohlížení s vývojářem rozšíření
+webext-perms-description-data-long-financialAndPaymentInfo = Sdílet finanční a platební údaje s vývojářem rozšíření
+webext-perms-description-data-long-healthInfo = Sdílet informace o zdraví s vývojářem rozšíření
+webext-perms-description-data-long-locationInfo = Sdílet informace o umístění s vývojářem rozšíření
+webext-perms-description-data-long-personalCommunications = Sdílet osobní údaje s vývojářem rozšíření
+webext-perms-description-data-long-personallyIdentifyingInfo = Sdílet údaje identifikující uživatele s vývojářem rozšíření
+webext-perms-description-data-long-searchTerms = Sdílet hledané výrazy s vývojářem rozšíření
+webext-perms-description-data-long-technicalAndInteraction = Sdílet technická data a data o interakci s vývojářem rozšíření
+webext-perms-description-data-long-websiteActivity = Sdílet aktivity na webových stránkách s vývojářem rozšíření
+webext-perms-description-data-long-websiteContent = Sdílet obsah webových stránek s vývojářem rozšíření

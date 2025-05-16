@@ -129,3 +129,10 @@ tab-context-send-tabs-to-device =
            *[other] 將 { $tabCount } 個分頁傳送到其他裝置
         }
     .accesskey = n
+tab-context-unload-n-tabs =
+    .label =
+        { $tabCount ->
+            [1] 卸載分頁
+           *[other] 卸載 { $tabCount } 個分頁
+        }
+    .accesskey = U

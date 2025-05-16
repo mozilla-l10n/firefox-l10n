@@ -25,6 +25,8 @@ return-to-amo-subtitle = Հիանալի է, դուք ստացել եք { -brand-
 return-to-amo-addon-title = Այժմ ստացեք ձեր <img data-l10n-name="icon"/> <b>{ $addon-name }</b>:
 return-to-amo-add-extension-label = Ավելացնել ընդլայնում
 return-to-amo-add-theme-label = Ավելացնել ոճ
+return-to-amo-theme-install-complete-label = Ոճը տեղադրվել է
+return-to-amo-extension-install-complete-label = Ընդլայնումը տեղադրվել է
 
 ##  Variables: $addon-name (String) - Name of the add-on to be installed
 

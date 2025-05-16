@@ -278,7 +278,7 @@ preferences-web-appearance-footer = Διαχειριστείτε τα θέματ
 preferences-contrast-control-header = Έλεγχος αντίθεσης
 preferences-contrast-control-description = Οι ιστότοποι διαθέτουν μια ποικιλία χρωμάτων προσκηνίου και παρασκηνίου. Ρυθμίστε το { -brand-short-name }, ώστε να χρησιμοποιεί τα ίδια χρώματα σε όλους τους ιστοτόπους για ευκολότερη ανάγνωση.
 preferences-contrast-control-use-platform-settings =
-    .label = Αυτόματα (χρήση ρυθμίσεων συστήματος)
+    .label = Αυτόματος (χρήση ρυθμίσεων συστήματος)
     .accesskey = Α
 preferences-contrast-control-off =
     .label = Ανενεργός
@@ -725,6 +725,9 @@ search-keyword-warning-title = Διπλή λέξη-κλειδί
 #   $name (string) - Name of a search engine.
 search-keyword-warning-engine = Έχετε επιλέξει μια λέξη-κλειδί που χρησιμοποιείται ήδη από το «{ $name }». Επιλέξτε κάποια άλλη.
 search-keyword-warning-bookmark = Έχετε επιλέξει μια λέξη-κλειδί που χρησιμοποιείται ήδη από έναν σελιδοδείκτη. Επιλέξτε κάποια άλλη.
+remove-engine-confirmation = Θέλετε σίγουρα να αφαιρέσετε αυτήν τη μηχανή αναζήτησης;
+remove-engine-remove = Αφαίρεση
+remove-addon-engine-alert = Για να αφαιρέσετε αυτήν τη μηχανή αναζήτησης, καταργήστε το σχετικό πρόσθετο.
 
 ## Containers Section
 

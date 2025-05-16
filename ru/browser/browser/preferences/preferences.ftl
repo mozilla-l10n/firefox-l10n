@@ -729,6 +729,9 @@ search-keyword-warning-title = Ключевое слово уже использ
 #   $name (string) - Name of a search engine.
 search-keyword-warning-engine = Выбранное ключевое слово уже используется «{ $name }». Пожалуйста, выберите другое.
 search-keyword-warning-bookmark = Выбранное ключевое слово уже используется одной из закладок. Пожалуйста, выберите другое.
+remove-engine-confirmation = Вы уверены, что хотите удалить эту поисковую систему?
+remove-engine-remove = Удалить
+remove-addon-engine-alert = Чтобы удалить эту поисковую систему, удалите связанное с ней дополнение.
 
 ## Containers Section
 

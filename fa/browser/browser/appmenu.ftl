@@ -280,8 +280,11 @@ appmenuitem-monitor-title = { -monitor-brand-short-name }
 appmenuitem-monitor-description = دریافت هشدارهای نشت اطلاعاتی
 appmenuitem-relay-title = { -relay-brand-short-name }
 appmenuitem-relay-description = پنهان کردن رایانامه و شماره تلفن واقعی شما
+appmenuitem-services-relay-description = پیش‌خوان راه‌اندازی نقاب‌های رایانامه
 appmenuitem-vpn-title = { -mozilla-vpn-brand-name }
 appmenuitem-vpn-description = حفاظت از فعالیت آنلاین شما
+appmenu-services-header = خدمات من
+appmenu-other-protection-header = سایر ابزارهای حفاظتی از { -vendor-short-name } را امتحان کنید:
 
 ## Profiles panel
 

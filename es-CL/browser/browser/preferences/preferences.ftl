@@ -725,7 +725,9 @@ search-keyword-warning-title = Palabra clave duplicada
 #   $name (string) - Name of a search engine.
 search-keyword-warning-engine = Has escogido una palabra clave que está siendo usada por "{ $name }". Por favor, escoge otra.
 search-keyword-warning-bookmark = Has escogido una palabra clave que está siendo usada por un marcador. Por favor, escoge otra.
+remove-engine-confirmation = ¿De verdad quieres eliminar este motor de búsqueda?
 remove-engine-remove = Eliminar
+remove-addon-engine-alert = Para eliminar este motor de búsqueda, elimina el complemento asociado.
 
 ## Containers Section
 

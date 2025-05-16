@@ -141,3 +141,13 @@ tab-context-send-tabs-to-device =
            *[other] { $tabCount } rejtarikow na rěd pósłaś
         }
     .accesskey = r
+tab-context-unload-n-tabs =
+    .label =
+        { $tabCount ->
+            [1] Rejtarik pušćiś
+            [one] { $tabCount } rejtarik pušćiś
+            [two] { $tabCount } rejtarika pušćiś
+            [few] { $tabCount } rejtariki pušćiś
+           *[other] { $tabCount } rejtarikow pušćiś
+        }
+    .accesskey = r

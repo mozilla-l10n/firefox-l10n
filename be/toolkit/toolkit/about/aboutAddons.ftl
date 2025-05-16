@@ -578,3 +578,7 @@ plugins-widevine-description = Гэты плагін уключае падтры
 ## Headings for the Permissions tab in `about:addons` when the data collection
 ## feature is enabled.
 
+addon-permissions-required-data-collection = Неабходны збор дадзеных:
+addon-permissions-optional-data-collection = Неабавязковы збор дадзеных:
+# Name of the Permissions tab in `about:addons` when the data collection feature is enabled.
+permissions-data-addon-button = Дазволы і дадзеныя

@@ -46,12 +46,30 @@ webext-perms-extra-warning-userScripts-short = Njepřepruwowane skripty móža r
 ##
 ## This is used when the data collection permissions are required.
 
+webext-perms-description-data-short-authenticationInfo = informacije awtentifikacije
 webext-perms-description-data-short-bookmarksInfo = zapołožki
 webext-perms-description-data-short-browsingActivity = přehladowanska aktiwita
+webext-perms-description-data-short-financialAndPaymentInfo = financielne a płaćenske informacije
+webext-perms-description-data-short-healthInfo = strowotne informacije
 webext-perms-description-data-short-locationInfo = městno
+webext-perms-description-data-short-personalCommunications = wosobinske komunikacije
+webext-perms-description-data-short-personallyIdentifyingInfo = Informacije, kotrež wosoby identifikuja
 webext-perms-description-data-short-searchTerms = pytanske wurazy
+webext-perms-description-data-short-technicalAndInteraction = techniske daty a daty interakcije
 webext-perms-description-data-short-websiteActivity = aktiwita websydła
 webext-perms-description-data-short-websiteContent = wobsah websydła
 
 ## Long form to be used in `about:addons` when these data collection permissions are optional.
 
+webext-perms-description-data-long-authenticationInfo = Informacije awtentifikacije z wuwiwarjom rozšěrjenja dźělić
+webext-perms-description-data-long-bookmarksInfo = Informacije zapołožkow z wuwiwarjom rozšěrjenja dźělić
+webext-perms-description-data-long-browsingActivity = Přehladowansku aktiwitu z wuwiwarjom rozšěrjenja dźělić
+webext-perms-description-data-long-financialAndPaymentInfo = Financielne a płaćenske informacije z wuwiwarjom rozšěrjenja dźělić
+webext-perms-description-data-long-healthInfo = Strowotne informacije z wuwiwarjom rozšěrjenja dźělić
+webext-perms-description-data-long-locationInfo = Informacije wo stejnišću z wuwiwarjom rozšěrjenja dźělić
+webext-perms-description-data-long-personalCommunications = Wosobinske komunikacije z wuwiwarjom rozšěrjenja dźělić
+webext-perms-description-data-long-personallyIdentifyingInfo = Na wosobu poćahowane informacije z wuwiwarjom rozšěrjenja dźělić
+webext-perms-description-data-long-searchTerms = Pytanske wurazy z wuwiwarjom rozšěrjenja dźělić
+webext-perms-description-data-long-technicalAndInteraction = Techniske daty a daty interakcije z wuwiwarjom rozšěrjenja dźělić
+webext-perms-description-data-long-websiteActivity = Aktiwitu websydła z wuwiwarjom rozšěrjenja dźělić
+webext-perms-description-data-long-websiteContent = Wobsah websydła z wuwiwarjom rozšěrjenja dźělić

@@ -133,3 +133,11 @@ tab-context-send-tabs-to-device =
            *[other] Senda { $tabCount } flipa í tæki
         }
     .accesskey = n
+tab-context-unload-n-tabs =
+    .label =
+        { $tabCount ->
+            [1] Afhlaða flipa
+            [one] Afhlaða flipa
+           *[other] Afhlaða { $tabCount } flipa
+        }
+    .accesskey = h

@@ -579,3 +579,7 @@ plugins-widevine-description = Deze plug-in zorgt voor het afspelen van versleut
 ## Headings for the Permissions tab in `about:addons` when the data collection
 ## feature is enabled.
 
+addon-permissions-required-data-collection = Vereiste gegevensverzameling:
+addon-permissions-optional-data-collection = Optionele gegevensverzameling:
+# Name of the Permissions tab in `about:addons` when the data collection feature is enabled.
+permissions-data-addon-button = Toestemmingen en gegevens

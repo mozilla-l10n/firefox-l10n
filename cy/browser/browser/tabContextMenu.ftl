@@ -149,3 +149,15 @@ tab-context-send-tabs-to-device =
            *[other] Anfon { $tabCount } Thab i Ddyfais
         }
     .accesskey = n
+tab-context-unload-n-tabs =
+    .label =
+        { $tabCount ->
+            [1] Dadlwythwch { $tabCount } Tab
+            [zero] Dadlwythwch { $tabCount } Tabiau
+            [one] Dadlwythwch { $tabCount } Tab
+            [two] Dadlwythwch { $tabCount } Dab
+            [few] Dadlwythwch { $tabCount } Tab
+            [many] Dadlwythwch { $tabCount } Thab
+           *[other] Dadlwythwch { $tabCount } Tab
+        }
+    .accesskey = D

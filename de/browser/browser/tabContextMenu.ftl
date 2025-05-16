@@ -132,3 +132,10 @@ tab-context-send-tabs-to-device =
            *[other] { $tabCount } Tabs an Gerät senden
         }
     .accesskey = s
+tab-context-unload-n-tabs =
+    .label =
+        { $tabCount ->
+            [one] Tab entladen
+           *[other] { $tabCount } Tabs entladen
+        }
+    .accesskey = e

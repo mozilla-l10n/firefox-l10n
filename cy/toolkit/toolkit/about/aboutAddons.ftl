@@ -580,3 +580,7 @@ plugins-widevine-description = Mae'r ategyn hwn yn galluogi chwarae cyfryngau am
 ## Headings for the Permissions tab in `about:addons` when the data collection
 ## feature is enabled.
 
+addon-permissions-required-data-collection = Casglu data gofynnol:
+addon-permissions-optional-data-collection = Casglu data dewisol:
+# Name of the Permissions tab in `about:addons` when the data collection feature is enabled.
+permissions-data-addon-button = Caniatâd a data

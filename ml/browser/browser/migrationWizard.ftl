@@ -182,6 +182,7 @@ migration-wizard-progress-icon-completed =
 migration-safari-password-import-header = സഫാരിയിൽ നിന്നു് രഹസ്യവാക്കുകളെ ഇറക്കുമതിക്കുക
 migration-safari-password-import-steps-header = സഫാരി രഹസ്യവാക്കുകളെ ഇറക്കുമതിക്കാൻ
 migration-safari-password-import-step3 = രഹസ്യവാക്കുഫയലിനെ കരുതിവയ്ക്കുക
+migration-chrome-windows-password-import-steps-header = ക്രോമിൽ:
 migration-manual-password-import-skip-button = ഒഴിവാക്കുക
 migration-manual-password-import-select-button = ഫയൽ തിരഞ്ഞെടുക്കുക
 migration-safari-password-import-skip-button = ഒഴിവാക്കുക

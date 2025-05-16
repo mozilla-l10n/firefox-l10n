@@ -3,6 +3,8 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 about-policies-title = خط مشی‌های سازمانی
+aboutpolicies-page-heading =
+    .heading = درباره خط‌مشی‌ها
 # 'Active' is used to describe the policies that are currently active
 active-policies-tab = فعال
 errors-tab = خطاها

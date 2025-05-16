@@ -725,6 +725,9 @@ search-keyword-warning-title = Duplikált kulcsszó
 #   $name (string) - Name of a search engine.
 search-keyword-warning-engine = Olyan kulcsszót választott, amelyet jelenleg „{ $name }” használ. Válasszon másikat.
 search-keyword-warning-bookmark = Olyan kulcsszót választott, amelyet jelenleg egy könyvjelző használ. Válasszon másikat.
+remove-engine-confirmation = Biztos, hogy törli ezt a keresőszolgáltatást?
+remove-engine-remove = Eltávolítás
+remove-addon-engine-alert = A keresőszolgáltatás törléséhez távolítsa el a kapcsolódó kiegészítőt.
 
 ## Containers Section
 

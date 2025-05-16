@@ -19,6 +19,8 @@ confirmation-hint-credit-card-updated = کارت به‌روز شد
 confirmation-hint-pin-tab = سنجاق شد!
 confirmation-hint-pin-tab-description = برای برداشتن سنجاق زبانه، روی آن راست کلیک کنید.
 confirmation-hint-send-to-device = ارسال شد!
+confirmation-hint-firefox-relay-mask-created = پوشانه جدید ایجاد شد!
+confirmation-hint-firefox-relay-mask-reused = پوشانه موجود دوباره استفاده شد!
 confirmation-hint-screenshot-copied = نماگرفت رونوشت شد!
 # Variables:
 #   $tabCount (Number): The number of duplicate tabs closed, at least 1.

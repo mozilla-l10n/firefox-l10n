@@ -729,6 +729,9 @@ search-keyword-warning-title = Паўторнае ключавое слова
 #   $name (string) - Name of a search engine.
 search-keyword-warning-engine = Вы выбралі ключавое слова, якое зараз ужываецца для "{ $name }". Выберыце, калі ласка, іншае.
 search-keyword-warning-bookmark = Вы выбралі ключавое слова, якое зараз ужываецца закладкай. Выберыце, калі ласка, іншае.
+remove-engine-confirmation = Вы ўпэўнены, што хочаце выдаліць гэту пошукавую сістэму?
+remove-engine-remove = Выдаліць
+remove-addon-engine-alert = Каб выдаліць гэтую пошукавую сістэму, выдаліце адпаведны дадатак.
 
 ## Containers Section
 

@@ -26,6 +26,14 @@ webext-perms-header-required-perms = Απαιτούμενα δικαιώματα
 webext-perms-header-optional-settings = Προαιρετικές ρυθμίσεις:
 webext-perms-header-update-required-perms = Νέα απαιτούμενα δικαιώματα:
 webext-perms-header-optional-required-perms = Νέα δικαιώματα:
+webext-perms-header-data-collection-perms = Συλλογή υποχρεωτικών δεδομένων:
+webext-perms-header-data-collection-is-none = Συλλογή δεδομένων:
+# This is a header used in the add-ons "update" prompt, shown when the new
+# version requires new data collection permissions.
+webext-perms-header-update-data-collection-perms = Συλλογή νέων υποχρεωτικών δεδομένων:
+# This is a header used in the add-ons "optional" prompt, shown when the
+# extension requests new data collection permissions programmatically.
+webext-perms-header-optional-data-collection-perms = Συλλογή νέων δεδομένων:
 
 ##
 
@@ -99,6 +107,26 @@ webext-perms-host-description-multiple-domains =
 
 ## Strings for data collection permissions in the permission prompt.
 
+webext-perms-description-data-none = Ο προγραμματιστής δηλώνει ότι αυτή η επέκταση δεν απαιτεί συλλογή δεδομένων.
+# Variables:
+#    $permissions (String): a list of data collection permissions formatted with `Intl.ListFormat` using the "narrow" style.
+webext-perms-description-data-some = Ο προγραμματιστής δηλώνει ότι αυτή η επέκταση συλλέγει: { $permissions }
+# Variables:
+#    $permissions (String): a list of data collection permissions formatted with `Intl.ListFormat` using the "narrow" style.
+webext-perms-description-data-some-update = Ο προγραμματιστής δηλώνει ότι αυτή η επέκταση θα συλλέξει: { $permissions }
+# Variables:
+#    $permissions (String): a list of data collection permissions formatted with `Intl.ListFormat` using the "narrow" style.
+webext-perms-description-data-some-optional = Ο προγραμματιστής δηλώνει ότι αυτή η επέκταση θέλει να συλλέξει: { $permissions }
+# Variables:
+#   $extension (String): replaced with the localized name of the extension.
+webext-perms-update-text-with-data-collection = Το { $extension } απαιτεί νέες ρυθμίσεις για την ενημέρωση
+webext-perms-update-list-intro-with-data-collection = Κάντε ακύρωση για να διατηρήσετε την τρέχουσα έκδοση και τις ρυθμίσεις σας ή κάντε ενημέρωση για να λάβετε τη νέα έκδοση και να εγκρίνετε τις αλλαγές.
+# Variables:
+#   $extension (String): replaced with the localized name of the extension.
+webext-perms-optional-text-with-data-collection = Το { $extension } απαιτεί επιπρόσθετες ρυθμίσεις
+# Variables:
+#   $extension (String): replaced with the localized name of the extension.
+webext-perms-optional-text-with-data-collection-only = Το { $extension } απαιτεί συλλογή επιπρόσθετων δεδομένων
 
 ## Headers used in the webextension permissions dialog for synthetic add-ons.
 ## The part of the string describing what privileges the extension gives should be consistent

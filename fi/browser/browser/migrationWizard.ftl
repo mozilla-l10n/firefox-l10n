@@ -196,6 +196,12 @@ migration-safari-password-import-step1 = Avaa Safari, napsauta “Safari”-vali
 migration-safari-password-import-step2 = Napsauta <img data-l10n-name="safari-icon-3dots"/>-painiketta ja valitse “Vie kaikki salasanat”
 migration-safari-password-import-step3 = Tallenna salasanatiedosto
 migration-safari-password-import-step4 = Napsauta "Valitse tiedosto" alla valitaksesi tallentamasi salasanatiedoston
+migration-chrome-windows-password-import-header = Salasanojen tuominen Chromesta
+migration-chrome-windows-password-import-steps-header = Chromessa:
+migration-chrome-windows-password-import-step1 = Avaa päävalikko <img data-l10n-name="chrome-icon-3dots"/> ja siirry kohtaan Salasanat ja automaattinen täyttö > Google Salasanat.
+migration-chrome-windows-password-import-step2 = Valitse valikosta “Asetukset”.
+migration-chrome-windows-password-import-step3 = Valitse “Lataa tiedosto” ja tallenna se laitteellesi.
+migration-chrome-windows-password-import-step4 = Palaa tänne ja valitse “Valitse tiedosto” tuonnin loppuun saattamiseksi.
 migration-manual-password-import-skip-button = Ohita
 migration-manual-password-import-select-button = Valitse tiedosto
 migration-safari-password-import-skip-button = Ohita

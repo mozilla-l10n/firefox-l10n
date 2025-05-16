@@ -569,3 +569,7 @@ plugins-widevine-description = Toś ten tykac wótgrawanje skoděrowanych medijo
 ## Headings for the Permissions tab in `about:addons` when the data collection
 ## feature is enabled.
 
+addon-permissions-required-data-collection = Trjebne gromaźenje datow:
+addon-permissions-optional-data-collection = Opcionalne gromaźenje datow:
+# Name of the Permissions tab in `about:addons` when the data collection feature is enabled.
+permissions-data-addon-button = Pšawa a daty

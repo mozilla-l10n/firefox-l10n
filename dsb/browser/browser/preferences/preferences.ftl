@@ -733,6 +733,9 @@ search-keyword-warning-title = Klucowe słowo duplicěrowaś
 #   $name (string) - Name of a search engine.
 search-keyword-warning-engine = Sćo klucowe słowo wubrał, kótarež wužywa se rowno wót "{ $name }". Pšosym wubjeŕśo druge.
 search-keyword-warning-bookmark = Sćo klucowe słowo wubrał, kótarež wužiwa se rowno wót cytańskich znemjenjow. Pšosym wubjeŕśo druge.
+remove-engine-confirmation = Cośo toś tu pytnicu napšawdu wótwónoźeś?
+remove-engine-remove = Wótwónoźeś
+remove-addon-engine-alert = Aby toś tu pytnicu wótwónoźeł, wótwónoźćo zwězany dodank.
 
 ## Containers Section
 

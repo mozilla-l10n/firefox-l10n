@@ -11,7 +11,7 @@ about-processes-column-action =
 ## Tooltips
 
 about-processes-shutdown-process =
-    .title = Inaktivera flikar och avsluta processen
+    .title = Frigör flikar och avsluta processen
 about-processes-kill-process =
     .title = Avsluta processen
 about-processes-shutdown-tab =

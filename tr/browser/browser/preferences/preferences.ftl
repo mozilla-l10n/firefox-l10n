@@ -725,6 +725,9 @@ search-keyword-warning-title = Tekrarlanan Anahtar Kelime
 #   $name (string) - Name of a search engine.
 search-keyword-warning-engine = Şu anda “{ $name }” tarafından kullanılan bir anahtar kelime seçtiniz. Lütfen başka bir şey seçin.
 search-keyword-warning-bookmark = Şu anda bir yer imi tarafından kullanılan bir anahtar kelime seçtiniz. Lütfen başka bir şey seçin.
+remove-engine-confirmation = Bu arama motorunu silmek istediğinizden emin misiniz?
+remove-engine-remove = Sil
+remove-addon-engine-alert = Bu arama motorunu silebilmek için ilgili eklentiyi kaldırın.
 
 ## Containers Section
 

@@ -46,6 +46,30 @@ webext-perms-extra-warning-userScripts-short = Nicht verifizierte Skripte könne
 ##
 ## This is used when the data collection permissions are required.
 
+webext-perms-description-data-short-authenticationInfo = Authentifizierungs-Informationen
+webext-perms-description-data-short-bookmarksInfo = Lesezeichen
+webext-perms-description-data-short-browsingActivity = Surfaktivität
+webext-perms-description-data-short-financialAndPaymentInfo = Finanz- und Zahlungsinformationen
+webext-perms-description-data-short-healthInfo = Gesundheitsinformationen
+webext-perms-description-data-short-locationInfo = Standort
+webext-perms-description-data-short-personalCommunications = Persönliche Kommunikation
+webext-perms-description-data-short-personallyIdentifyingInfo = Personenbezogene Daten
+webext-perms-description-data-short-searchTerms = Suchbegriffe
+webext-perms-description-data-short-technicalAndInteraction = technische Daten und Interaktionsdaten
+webext-perms-description-data-short-websiteActivity = Website-Aktivitäten
+webext-perms-description-data-short-websiteContent = Website-Inhalt
 
 ## Long form to be used in `about:addons` when these data collection permissions are optional.
 
+webext-perms-description-data-long-authenticationInfo = Authentifizierungs-Informationen mit Entwicklern der Erweiterung teilen
+webext-perms-description-data-long-bookmarksInfo = Lesezeichen-Informationen mit dem Entwickler der Erweiterung teilen
+webext-perms-description-data-long-browsingActivity = Surf-Aktivität mit Entwickler der Erweiterung teilen
+webext-perms-description-data-long-financialAndPaymentInfo = Finanz- und Zahlungsdaten mit Entwicklern der Erweiterung teilen
+webext-perms-description-data-long-healthInfo = Gesundheitsinformationen mit Entwicklern der Erweiterung teilen
+webext-perms-description-data-long-locationInfo = Standortinformationen mit Entwicklern der Erweiterung teilen
+webext-perms-description-data-long-personalCommunications = Persönliche Kommunikation mit Entwicklern der Erweiterung teilen
+webext-perms-description-data-long-personallyIdentifyingInfo = Personenbezogene Daten mit Entwicklern der Erweiterung teilen
+webext-perms-description-data-long-searchTerms = Suchbegriffe mit Entwicklern der Erweiterung teilen
+webext-perms-description-data-long-technicalAndInteraction = Technische Daten und Interaktionsdaten mit Entwicklern der Erweiterung teilen
+webext-perms-description-data-long-websiteActivity = Website-Aktivitäten mit Entwicklern der Erweiterung teilen
+webext-perms-description-data-long-websiteContent = Website-Inhalte mit Entwicklern der Erweiterung teilen

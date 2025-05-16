@@ -520,6 +520,9 @@ newtab-section-mangage-topics-followed-topics = Suivis
 newtab-section-mangage-topics-followed-topics-empty-state = Vous n’avez pas encore suivi de sujet.
 newtab-section-mangage-topics-blocked-topics = Bloqués
 newtab-section-mangage-topics-blocked-topics-empty-state = Vous n’avez pas encore bloqué de sujet.
+newtab-custom-wallpaper-title = Les fonds d’écran personnalisés sont disponibles
+# 'Make firefox yours" means to customize or personalize
+newtab-custom-wallpaper-subtitle = Téléchargez votre propre fond d’écran ou choisissez votre couleur, et appropriez-vous { -brand-product-name }.
 newtab-custom-wallpaper-cta = Essayer
 
 ## Strings for download mobile highlight
@@ -528,6 +531,7 @@ newtab-download-mobile-highlight-title = Téléchargez { -brand-product-name } p
 # "Scan the code" refers to scanning the QR code that appears above the body text that leads to Firefox for mobile download.
 newtab-download-mobile-highlight-body-variant-a = Scannez le code pour naviguer en sécurité où que vous soyez.
 newtab-download-mobile-highlight-body-variant-b = Reprenez là où vous en étiez lorsque vous synchronisez vos onglets, mots de passe, et bien plus.
+newtab-download-mobile-highlight-body-variant-c = Saviez-vous que vous pouvez emporter { -brand-product-name } avec vous ? Le même navigateur, dans votre poche.
 newtab-download-mobile-highlight-image =
     .aria-label = Code QR pour télécharger { -brand-product-name } pour mobile
 

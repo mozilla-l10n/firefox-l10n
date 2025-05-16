@@ -26,6 +26,14 @@ webext-perms-header-required-perms = 必要權限：
 webext-perms-header-optional-settings = 選用權限：
 webext-perms-header-update-required-perms = 新增的必要權限：
 webext-perms-header-optional-required-perms = 新增的權限：
+webext-perms-header-data-collection-perms = 必需收集的資料：
+webext-perms-header-data-collection-is-none = 收集下列資料：
+# This is a header used in the add-ons "update" prompt, shown when the new
+# version requires new data collection permissions.
+webext-perms-header-update-data-collection-perms = 新增必需收集的資料：
+# This is a header used in the add-ons "optional" prompt, shown when the
+# extension requests new data collection permissions programmatically.
+webext-perms-header-optional-data-collection-perms = 新增收集的資料：
 
 ##
 
@@ -88,6 +96,26 @@ webext-perms-host-description-multiple-domains = 存取您在 { $domainCount } �
 
 ## Strings for data collection permissions in the permission prompt.
 
+webext-perms-description-data-none = 開發者聲稱此擴充套件不要求收集任何資料。
+# Variables:
+#    $permissions (String): a list of data collection permissions formatted with `Intl.ListFormat` using the "narrow" style.
+webext-perms-description-data-some = 開發者聲稱此擴充套件收集下列資料：{ $permissions }
+# Variables:
+#    $permissions (String): a list of data collection permissions formatted with `Intl.ListFormat` using the "narrow" style.
+webext-perms-description-data-some-update = 開發者聲稱此擴充套件將收集下列資料：{ $permissions }
+# Variables:
+#    $permissions (String): a list of data collection permissions formatted with `Intl.ListFormat` using the "narrow" style.
+webext-perms-description-data-some-optional = 開發者聲稱此擴充套件希望收集下列資料：{ $permissions }
+# Variables:
+#   $extension (String): replaced with the localized name of the extension.
+webext-perms-update-text-with-data-collection = { $extension } 需要新設定才能更新
+webext-perms-update-list-intro-with-data-collection = 現在取消可維持目前的版本與設定，或更新以接受必要變更，並安裝最新版本。
+# Variables:
+#   $extension (String): replaced with the localized name of the extension.
+webext-perms-optional-text-with-data-collection = { $extension } 要求更多設定
+# Variables:
+#   $extension (String): replaced with the localized name of the extension.
+webext-perms-optional-text-with-data-collection-only = { $extension } 要求收集更多資料
 
 ## Headers used in the webextension permissions dialog for synthetic add-ons.
 ## The part of the string describing what privileges the extension gives should be consistent

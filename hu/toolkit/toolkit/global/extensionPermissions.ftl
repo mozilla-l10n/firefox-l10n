@@ -46,6 +46,25 @@ webext-perms-extra-warning-userScripts-short = A nem ellenőrzött parancsfájlo
 ##
 ## This is used when the data collection permissions are required.
 
+webext-perms-description-data-short-authenticationInfo = hitelesítési információk
+webext-perms-description-data-short-bookmarksInfo = könyvjelzők
+webext-perms-description-data-short-browsingActivity = böngészési tevékenység
+webext-perms-description-data-short-financialAndPaymentInfo = pénzügyi és fizetési információk
+webext-perms-description-data-short-healthInfo = egészségügyi információk
+webext-perms-description-data-short-locationInfo = hely
+webext-perms-description-data-short-personalCommunications = személyes kommunikáció
+webext-perms-description-data-short-personallyIdentifyingInfo = személyazonosításra alkalmas információk
+webext-perms-description-data-short-searchTerms = keresési kifejezések
+webext-perms-description-data-short-technicalAndInteraction = műszaki és interakciós adatok
+webext-perms-description-data-short-websiteActivity = webhelytevékenység
+webext-perms-description-data-short-websiteContent = webhelytartalom
 
 ## Long form to be used in `about:addons` when these data collection permissions are optional.
 
+webext-perms-description-data-long-authenticationInfo = Hitelesítési információk megosztása a kiegészítő fejlesztőjével
+webext-perms-description-data-long-bookmarksInfo = Könyvjelző-információk megosztása a kiegészítő fejlesztőjével
+webext-perms-description-data-long-browsingActivity = Böngészési információk megosztása a kiegészítő fejlesztőjével
+webext-perms-description-data-long-financialAndPaymentInfo = Pénzügyi információk megosztása a kiegészítő fejlesztőjével
+webext-perms-description-data-long-healthInfo = Egészségügyi információk megosztása a kiegészítő fejlesztőjével
+webext-perms-description-data-long-locationInfo = Helyinformációk megosztása a kiegészítő fejlesztőjével
+webext-perms-description-data-long-personalCommunications = Személyes információk megosztása a kiegészítő fejlesztőjével

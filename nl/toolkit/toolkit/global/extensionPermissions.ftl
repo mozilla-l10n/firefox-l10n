@@ -46,6 +46,30 @@ webext-perms-extra-warning-userScripts-short = Niet-geverifieerde scripts kunnen
 ##
 ## This is used when the data collection permissions are required.
 
+webext-perms-description-data-short-authenticationInfo = authenticatiegegevens
+webext-perms-description-data-short-bookmarksInfo = bladwijzers
+webext-perms-description-data-short-browsingActivity = surfactiviteit
+webext-perms-description-data-short-financialAndPaymentInfo = financiële en betalingsgegevens
+webext-perms-description-data-short-healthInfo = gezondheidsgegevens
+webext-perms-description-data-short-locationInfo = locatie
+webext-perms-description-data-short-personalCommunications = persoonlijke communicatie
+webext-perms-description-data-short-personallyIdentifyingInfo = persoonlijk identificeerbare gegevens
+webext-perms-description-data-short-searchTerms = zoektermen
+webext-perms-description-data-short-technicalAndInteraction = technische en interactiegegevens
+webext-perms-description-data-short-websiteActivity = website-activiteit
+webext-perms-description-data-short-websiteContent = website-inhoud
 
 ## Long form to be used in `about:addons` when these data collection permissions are optional.
 
+webext-perms-description-data-long-authenticationInfo = Authenticatiegegevens delen met extensieontwikkelaar
+webext-perms-description-data-long-bookmarksInfo = Bladwijzergegevens delen met extensieontwikkelaar
+webext-perms-description-data-long-browsingActivity = Surfactiviteit delen met extensieontwikkelaar
+webext-perms-description-data-long-financialAndPaymentInfo = Financiële en betalingsgegevens delen met extensieontwikkelaar
+webext-perms-description-data-long-healthInfo = Gezondheidsgegevens delen met extensieontwikkelaar
+webext-perms-description-data-long-locationInfo = Locatiegegevens delen met extensieontwikkelaar
+webext-perms-description-data-long-personalCommunications = Persoonlijke communicatie delen met extensieontwikkelaar
+webext-perms-description-data-long-personallyIdentifyingInfo = Persoonlijk identificeerbare gegevens delen met extensieontwikkelaar
+webext-perms-description-data-long-searchTerms = Zoektermen delen met extensieontwikkelaar
+webext-perms-description-data-long-technicalAndInteraction = Technische en interactiegegevens delen met extensieontwikkelaar
+webext-perms-description-data-long-websiteActivity = Website-activiteit delen met extensieontwikkelaar
+webext-perms-description-data-long-websiteContent = Website-inhoud delen met extensieontwikkelaar

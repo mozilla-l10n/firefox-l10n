@@ -91,6 +91,9 @@ bookmarks-toolbar-callout-2b-secondary-button-label = Nei takk
 
 ## Perplexity callout strings
 
+perplexity-callout-primary-label = Spyrja Perplexity
+perplexity-callout-secondary-label-1 = Afgreiða
+perplexity-callout-secondary-label-2 = Náði því
 
 ## Sidebar Strings
 

@@ -548,3 +548,5 @@ plugins-widevine-description = Ce plugin permet la lecture de contenus chiffrés
 ## Headings for the Permissions tab in `about:addons` when the data collection
 ## feature is enabled.
 
+# Name of the Permissions tab in `about:addons` when the data collection feature is enabled.
+permissions-data-addon-button = Autorisations et données

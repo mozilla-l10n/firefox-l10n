@@ -133,3 +133,11 @@ tab-context-send-tabs-to-device =
            *[other] { $tabCount } ljepblêden nei apparaat ferstjoere
         }
     .accesskey = s
+tab-context-unload-n-tabs =
+    .label =
+        { $tabCount ->
+            [1] Ljepblêd ûntlade
+            [one] { $tabCount } ljepblêd ûntlade
+           *[other] { $tabCount } ljepblêden ûntlade
+        }
+    .accesskey = l

@@ -26,6 +26,14 @@ webext-perms-header-required-perms = Požadovaná oprávnění:
 webext-perms-header-optional-settings = Volitelná nastavení:
 webext-perms-header-update-required-perms = Nová požadovaná oprávnění:
 webext-perms-header-optional-required-perms = Nová oprávnění:
+webext-perms-header-data-collection-perms = Požadovaný sběr dat:
+webext-perms-header-data-collection-is-none = Sběr dat:
+# This is a header used in the add-ons "update" prompt, shown when the new
+# version requires new data collection permissions.
+webext-perms-header-update-data-collection-perms = Nový požadovaný sběr dat:
+# This is a header used in the add-ons "optional" prompt, shown when the
+# extension requests new data collection permissions programmatically.
+webext-perms-header-optional-data-collection-perms = Nový sběr dat:
 
 ##
 
@@ -104,6 +112,26 @@ webext-perms-host-description-multiple-domains =
 
 ## Strings for data collection permissions in the permission prompt.
 
+webext-perms-description-data-none = Vývojář uvádí, že toto rozšíření nevyžaduje sběr dat.
+# Variables:
+#    $permissions (String): a list of data collection permissions formatted with `Intl.ListFormat` using the "narrow" style.
+webext-perms-description-data-some = Vývojář uvádí, že toto rozšíření shromažďuje: { $permissions }
+# Variables:
+#    $permissions (String): a list of data collection permissions formatted with `Intl.ListFormat` using the "narrow" style.
+webext-perms-description-data-some-update = Vývojář uvádí, že rozšíření bude shromažďovat: { $permissions }
+# Variables:
+#    $permissions (String): a list of data collection permissions formatted with `Intl.ListFormat` using the "narrow" style.
+webext-perms-description-data-some-optional = Vývojář tvrdí, že rozšíření chce shromažďovat: { $permissions }
+# Variables:
+#   $extension (String): replaced with the localized name of the extension.
+webext-perms-update-text-with-data-collection = Rozšíření { $extension } vyžaduje k aktualizaci nové nastavení
+webext-perms-update-list-intro-with-data-collection = Zrušit pro zachování aktuální verze a nastavení, nebo aktualizaci pro získání nové verze a schválení změn.
+# Variables:
+#   $extension (String): replaced with the localized name of the extension.
+webext-perms-optional-text-with-data-collection = Rozšíření { $extension } požaduje dodatečná nastavení
+# Variables:
+#   $extension (String): replaced with the localized name of the extension.
+webext-perms-optional-text-with-data-collection-only = Rozšíření { $extension } požaduje další sběr dat
 
 ## Headers used in the webextension permissions dialog for synthetic add-ons.
 ## The part of the string describing what privileges the extension gives should be consistent
@@ -141,3 +169,5 @@ webext-site-perms-midi-sysex = Přistupovat k MIDI zařízením s podporou SysEx
 
 ## Colorway theme migration
 
+webext-colorway-theme-migration-notification-message = <b>Vaše paleta barev byla odebrána.</b> { -brand-shorter-name } aktualizoval svou sbírku palet barev. Nejnovější verze najdete na webu s doplňky.
+webext-colorway-theme-migration-notification-button = Získat aktualizované palety barev

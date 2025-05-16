@@ -263,6 +263,10 @@ preferences-web-appearance-choice-input-dark =
     .aria-description = { preferences-web-appearance-choice-tooltip-dark.title }
 # This can appear when using windows HCM or "Override colors: always" without
 # system colors.
+preferences-web-appearance-override-warning3 =
+    .message = Vos paramètres de contrôle du contraste modifient l’apparence des sites web.
+# This can appear when using windows HCM or "Override colors: always" without
+# system colors.
 preferences-web-appearance-override-warning = Vos sélections de couleurs changent l’apparence des sites web. <a data-l10n-name="colors-link">Gérer les couleurs</a>
 # This can appear when using windows HCM or "Override colors: always" without
 # system colors.
@@ -721,6 +725,9 @@ search-keyword-warning-title = Doublon de mot-clé
 #   $name (string) - Name of a search engine.
 search-keyword-warning-engine = Vous avez choisi un mot-clé qui est déjà utilisé par « { $name } ». Veuillez en choisir un autre.
 search-keyword-warning-bookmark = Vous avez choisi un mot-clé qui est déjà utilisé par un marque-page. Veuillez en choisir un autre.
+remove-engine-confirmation = Voulez-vous vraiment supprimer ce moteur de recherche ?
+remove-engine-remove = Supprimer
+remove-addon-engine-alert = Pour supprimer ce moteur de recherche, supprimez le module associé.
 
 ## Containers Section
 

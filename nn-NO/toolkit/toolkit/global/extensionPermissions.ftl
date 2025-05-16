@@ -46,6 +46,8 @@ webext-perms-extra-warning-userScripts-short = Ikkje stadfesta skript kan utgjer
 ##
 ## This is used when the data collection permissions are required.
 
+webext-perms-description-data-short-bookmarksInfo = bokmerke
+webext-perms-description-data-short-locationInfo = plassering
 
 ## Long form to be used in `about:addons` when these data collection permissions are optional.
 

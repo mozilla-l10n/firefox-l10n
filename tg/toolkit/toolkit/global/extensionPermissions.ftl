@@ -46,6 +46,18 @@ webext-perms-extra-warning-userScripts-short = Скриптҳои тасдиқн
 ##
 ## This is used when the data collection permissions are required.
 
+webext-perms-description-data-short-authenticationInfo = маълумоти санҷиши ҳаққоният
+webext-perms-description-data-short-bookmarksInfo = хатбаракҳо
+webext-perms-description-data-short-browsingActivity = фаъолияти тамошобинӣ
+webext-perms-description-data-short-financialAndPaymentInfo = маълумоти молиявӣ ва пардохт
+webext-perms-description-data-short-healthInfo = маълумоти саломатӣ
+webext-perms-description-data-short-locationInfo = ҷойгиршавӣ
+webext-perms-description-data-short-personalCommunications = муоширати шахсӣ
+webext-perms-description-data-short-personallyIdentifyingInfo = иттилооти шахсии қобили шиносоӣ
+webext-perms-description-data-short-searchTerms = калидвожаҳои ҷустуҷӯӣ
+webext-perms-description-data-short-technicalAndInteraction = маълумоти техникӣ ва ҳамкорӣ
+webext-perms-description-data-short-websiteActivity = фаъолият дар сомонаҳо
+webext-perms-description-data-short-websiteContent = муҳтавои сомона
 
 ## Long form to be used in `about:addons` when these data collection permissions are optional.
 

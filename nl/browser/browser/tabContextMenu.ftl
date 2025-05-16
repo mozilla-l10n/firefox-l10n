@@ -133,3 +133,11 @@ tab-context-send-tabs-to-device =
            *[other] { $tabCount } tabbladen naar apparaat verzenden
         }
     .accesskey = z
+tab-context-unload-n-tabs =
+    .label =
+        { $tabCount ->
+            [1] Tabblad ontladen
+            [one] { $tabCount } tabblad ontladen
+           *[other] { $tabCount } tabbladen ontladen
+        }
+    .accesskey = o

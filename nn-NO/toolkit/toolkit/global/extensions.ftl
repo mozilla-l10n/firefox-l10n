@@ -20,8 +20,11 @@ webext-perms-header2 = Legg til { $extension }
 
 ## Headers used in the webextension permissions dialog, inside the content.
 
+webext-perms-header-required-perms = Påkravde løyve
 webext-perms-header-optional-settings = Valfrie innstillingar
+webext-perms-header-update-required-perms = Nye påkravde løyve:
 webext-perms-header-optional-required-perms = Nye løyve:
+webext-perms-header-data-collection-is-none = Datainnsamling:
 
 ##
 

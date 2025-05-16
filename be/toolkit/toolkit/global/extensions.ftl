@@ -16,6 +16,7 @@ webext-perms-header-unsigned = Дадаць { $extension }? Гэта пашыр�
 webext-perms-header-unsigned-with-perms = Дадаць { $extension }? Гэта пашырэнне неправерана. Зламысныя пашырэнні могуць выкрадаць вашу асабістую інфармацыю або кампраметаваць ваш камп'ютар. Дадавайце толькі калі давяраеце яго паходжанню. Гэтае пашырэнне будзе мець дазвол на:
 webext-perms-sideload-header = { $extension } дададзена
 webext-perms-optional-perms-header = { $extension } запытвае дадатковыя дазволы.
+webext-perms-header2 = Дадаць { $extension }
 
 ## Headers used in the webextension permissions dialog, inside the content.
 

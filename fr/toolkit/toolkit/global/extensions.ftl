@@ -21,6 +21,18 @@ webext-perms-header2 = Ajouter { $extension }
 
 ## Headers used in the webextension permissions dialog, inside the content.
 
+webext-perms-header-required-perms = Autorisations nécessaires :
+webext-perms-header-optional-settings = Paramètres optionnels :
+webext-perms-header-update-required-perms = Nouvelles autorisations requises :
+webext-perms-header-optional-required-perms = Nouvelles autorisations :
+webext-perms-header-data-collection-perms = Collecte de données obligatoire :
+webext-perms-header-data-collection-is-none = Collecte de données :
+# This is a header used in the add-ons "update" prompt, shown when the new
+# version requires new data collection permissions.
+webext-perms-header-update-data-collection-perms = Nouvelle collecte de données obligatoire :
+# This is a header used in the add-ons "optional" prompt, shown when the
+# extension requests new data collection permissions programmatically.
+webext-perms-header-optional-data-collection-perms = Nouvelle collecte de données :
 
 ##
 

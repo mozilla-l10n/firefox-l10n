@@ -134,8 +134,7 @@ tab-context-send-tabs-to-device =
 tab-context-unload-n-tabs =
     .label =
         { $tabCount ->
-            [1] Inaktivera flik
-            [one] Inaktivera { $tabCount } flikar
-           *[other] Inaktivera { $tabCount } flikar
+            [1] Frigör flik
+           *[other] Frigör { $tabCount } flikar
         }
-    .accesskey = I
+    .accesskey = F

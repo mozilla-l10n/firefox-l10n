@@ -8,6 +8,7 @@
 preonboarding-title = Croeso i { -brand-product-name }
 preonboarding-subtitle = Drwy barhau, rydych yn cytuno i Amodau Defnydd { -brand-product-name } a'n Hysbysiad Preifatrwydd. Er mwyn helpu i wella'r porwr, mae { -brand-product-name } yn anfon data diagnostig a rhyngweithio i { -vendor-short-name }.
 preonboarding-primary-cta = Cadarnhau a pharhau
+preonboarding-primary-cta-v2 = Parhau
 # Labels for header style button that toggles showing the terms of use, privacy notice, and data preferences checklist
 preonboarding-manage-and-read-header = Rheoli gosodiadau casglu data a darllen ein Amodau Defnydd a Hysbysiad Preifatrwydd
 preonboarding-manage-and-read-header-v2 = Darllenwch yr Amodau Defnydd a'r Hysbysiad Preifatrwydd. Rheolwch osodiadau ychwanegol.

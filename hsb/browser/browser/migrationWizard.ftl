@@ -202,7 +202,12 @@ migration-safari-password-import-step1 = Wočińće meni „Safari“ w Safari a
 migration-safari-password-import-step2 = Wubjerće tłóčatko <img data-l10n-name="safari-icon-3dots"/> a wubjerće „Alle Passwörter exportieren“
 migration-safari-password-import-step3 = Dataju hesłow składować
 migration-safari-password-import-step4 = Wubjerće „Dataju wubrać“ deleka, zo byšće dataju hesłow wubrał, kotruž sće składował
+migration-chrome-windows-password-import-header = Kak hesła z Chrome importować
 migration-chrome-windows-password-import-steps-header = W Chrome:
+migration-chrome-windows-password-import-step1 = Wočińće hłowny meni <img data-l10n-name="chrome-icon-3dots"/> a přeńdźće k Hesła a awtomatisce wupjelnić > Zrjadowak hesłow Google.
+migration-chrome-windows-password-import-step2 = Wubjerće „Nastajenja“ z menija.
+migration-chrome-windows-password-import-step3 = Wubjerće „Dataju sćahnyć“ a składujće ju na swojim graće.
+migration-chrome-windows-password-import-step4 = Wróćće so sem a wužiwajće „Dataju wubrać “, zo byšće import dokónčił.
 migration-manual-password-import-skip-button = Přeskočić
 migration-manual-password-import-select-button = Dataju wubrać
 migration-safari-password-import-skip-button = Přeskočić

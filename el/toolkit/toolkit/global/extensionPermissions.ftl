@@ -46,6 +46,30 @@ webext-perms-extra-warning-userScripts-short = Τα μη επαληθευμέν�
 ##
 ## This is used when the data collection permissions are required.
 
+webext-perms-description-data-short-authenticationInfo = πληροφορίες ταυτοποίησης
+webext-perms-description-data-short-bookmarksInfo = σελιδοδείκτες
+webext-perms-description-data-short-browsingActivity = δραστηριότητα περιήγησης
+webext-perms-description-data-short-financialAndPaymentInfo = οικονομικά στοιχεία και πληροφορίες πληρωμών
+webext-perms-description-data-short-healthInfo = πληροφορίες υγείας
+webext-perms-description-data-short-locationInfo = τοποθεσία
+webext-perms-description-data-short-personalCommunications = προσωπικές επικοινωνίες
+webext-perms-description-data-short-personallyIdentifyingInfo = προσωπικές πληροφορίες
+webext-perms-description-data-short-searchTerms = όρους αναζήτησης
+webext-perms-description-data-short-technicalAndInteraction = τεχνικά δεδομένα και δεδομένα αλληλεπίδρασης
+webext-perms-description-data-short-websiteActivity = δραστηριότητα ιστοτόπων
+webext-perms-description-data-short-websiteContent = περιεχόμενο ιστοτόπων
 
 ## Long form to be used in `about:addons` when these data collection permissions are optional.
 
+webext-perms-description-data-long-authenticationInfo = Κοινοποίηση πληροφοριών ταυτοποίησης με τον προγραμματιστή της επέκτασης
+webext-perms-description-data-long-bookmarksInfo = Κοινοποίηση πληροφοριών σελιδοδεικτών με τον προγραμματιστή της επέκτασης
+webext-perms-description-data-long-browsingActivity = Κοινοποίηση δραστηριότητας περιήγησης με τον προγραμματιστή της επέκτασης
+webext-perms-description-data-long-financialAndPaymentInfo = Κοινοποίηση οικονομικών στοιχείων και πληροφοριών πληρωμών με τον προγραμματιστή της επέκτασης
+webext-perms-description-data-long-healthInfo = Κοινοποίηση πληροφοριών υγείας με τον προγραμματιστή της επέκτασης
+webext-perms-description-data-long-locationInfo = Κοινοποίηση πληροφοριών τοποθεσίας με τον προγραμματιστή της επέκτασης
+webext-perms-description-data-long-personalCommunications = Κοινοποίηση προσωπικών επικοινωνιών με τον προγραμματιστή της επέκτασης
+webext-perms-description-data-long-personallyIdentifyingInfo = Κοινοποίηση προσωπικών πληροφοριών με τον προγραμματιστή της επέκτασης
+webext-perms-description-data-long-searchTerms = Κοινοποίηση όρων αναζήτησης με τον προγραμματιστή της επέκτασης
+webext-perms-description-data-long-technicalAndInteraction = Κοινοποίηση τεχνικών δεδομένων και δεδομένων αλληλεπίδρασης με τον προγραμματιστή της επέκτασης
+webext-perms-description-data-long-websiteActivity = Κοινοποίηση δραστηριότητας ιστοτόπων με τον προγραμματιστή της επέκτασης
+webext-perms-description-data-long-websiteContent = Κοινοποίηση περιεχομένου ιστοτόπων με τον προγραμματιστή της επέκτασης

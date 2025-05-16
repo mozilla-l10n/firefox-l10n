@@ -272,9 +272,13 @@ shopping-opt-in-integrated-button = Prófaðu umsagnaskoðun
 ## Message strings for Review Checker's empty states.
 
 shopping-empty-state-header = Tilbúið í að yfirfara umsagnir
+# We show a list of sites supported by Review Checker whenever a user opens the feature in an unsupported site.
+# This string will be displayed above the list of sites. The list will be hardcoded and does not require localization.
+shopping-empty-state-non-supported-site = Umsagnaskoðunin virkar þegar þú verslar á:
 
 ## Confirm disabling Review Checker for newly opted out users
 
+shopping-integrated-callout-opted-out-title = Slökkt er á umsagnaskoðun
 
 ## Callout for where to find Review Checker when the sidebar closes
 
@@ -284,6 +288,14 @@ shopping-empty-state-header = Tilbúið í að yfirfara umsagnir
 ## Review Checker in the sidebar is only available to US users at this time, so we can assume that the default position is on the left side.
 
 shopping-integrated-new-position-notification-move-right-button = Færa til hægri
+shopping-integrated-new-position-notification-move-left-button = Færa til vinstri
+shopping-integrated-new-position-notification-dismiss-button = Náði því
 
 ## Combined setting for auto-open and auto-close.
 
+shopping-settings-auto-open-and-close-toggle =
+    .label = Opna og loka umsagnaskoðun sjálfkrafa
+# Description text for regions where we support only one site (e.g. currently used in FR/DE with Amazon).
+# Variables:
+#   $currentSite (String) - The current shopping page name
+shopping-settings-auto-open-and-close-description-single-site = Opnast þegar þú skoðar vörur á { $currentSite } og lokast þegar þú ferð af síðu

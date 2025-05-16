@@ -204,6 +204,10 @@ addon-updates-manual-updates-found = Sken ileqman yellan
 
 addon-install-from-file = Sebded azegrir seg ufaylu…
     .accesskey = S
+# Like `addon-install-from-file` but used when the `extensions.webextensions.prefer-update-over-install-for-existing-addon`
+# pref is set.
+addon-install-or-update-from-file = Sbedd neɣ leqqem azegrir seg ufaylu…
+    .accesskey = l
 addon-install-from-file-dialog-title = Fren azegrir ad tesbeddeḍ
 addon-install-from-file-filter-name = Izegrar
 addon-open-about-debugging = Izegrar n tseɣtit
@@ -218,6 +222,9 @@ shortcuts-no-addons = Ur ɣur-k ara ula d yiwen n usiɣzef iremden.
 shortcuts-no-commands = Isiɣzaf id-iteddun ur sɛin ara inegzumen:
 shortcuts-input =
     .placeholder = Sekcem anegzum
+# Accessible name for a trashcan icon button that removes an existent shortcut
+shortcuts-remove-button =
+    .aria-label = Kkes anegzum
 shortcuts-browserAction2 = Rmed taqeffalt n ufeggag n yifecka
 shortcuts-pageAction = Rmed tigawt n usebter
 shortcuts-sidebarAction = Sken/Fer agalis adisan
@@ -267,6 +274,7 @@ discopane-notice-recommendations2 =
         Kra seg yiwellihen-a d udmawanen. Tagrumma-a tebna ɣef yisiɣzaf-nniḍen
         i tesbeddeḍ, iɣewwaren n umaɣnu-ik akked tiddadanin n useqdec.
 discopane-notice-learn-more = Lmed ugar
+colorway-removal-notice-learn-more = Issin ugar
 privacy-policy = Tasertit n tbaḍnit
 # Refers to the author of an add-on, shown below the name of the add-on.
 # Variables:
@@ -391,6 +399,8 @@ addon-detail-group-label-private-browsing =
 ## "sites with restrictions" (internally called "quarantined") are special domains
 ## where add-ons are normally blocked for security reasons.
 
+# Used as a description for the option to allow or block an add-on on quarantined domains.
+addon-detail-quarantined-domains-label = Selkem ɣef yismal yesɛan tilas
 # Used as label and tooltip text on the radio inputs associated to the quarantined domains UI controls.
 addon-detail-quarantined-domains-allow = Sireg
 addon-detail-quarantined-domains-disallow = Ur ttaǧǧa ara
@@ -418,8 +428,22 @@ addon-badge-recommended3 =
 # by Mozilla and we don't want forks to display "by Fork".
 addon-badge-line4 =
     .title = Asiɣzef unṣib tebna Mozila. Iteddu d yilugan n tɣellist d temlellit.
+# This string needs to work in the context of other forks that are not Firefox
+# or built by Mozilla. In particular, we do not want to imply that an
+# organisation other than Mozilla or the Firefox team are performing the
+# security or performance reviews. As such, we avoid personalising language
+# like the words "our" or "we".
+addon-badge-verified4 =
+    .title = Asiɣzef-a yettusenqed i wakken ara yemṣada d yilugan icudden ɣer tɣellist akked timellit.
 addon-badge-verified3 =
     .title = Asiɣzef-a yettusenqed i wakken ara yemṣada d yilugan-nneɣ icudden ɣer tɣellist akked timellit.
+# This string needs to work in the context of other forks that are not Firefox
+# or built by Mozilla. In particular, we do not want to imply that an
+# organisation other than Mozilla or the Firefox team are making the
+# recommendation. As such, we hard code "Firefox" and avoid personalising
+# language like the words "our" or "we".
+addon-badge-recommended4 =
+    .title = Firefox ur ittwelleh ala isiɣzaf yemṣadan d yilugan icudden ɣer tɣellist akked timellit.
 
 ##
 
@@ -516,3 +540,7 @@ plugins-widevine-description = Azegrir-agi ad irmed taɣuri n wallalen n teywalt
 ## Headings for the Permissions tab in `about:addons` when the data collection
 ## feature is enabled.
 
+addon-permissions-required-data-collection = Yesra alqaḍ n yisefka:
+addon-permissions-optional-data-collection = Alqaḍ n yisefka axetṛan:
+# Name of the Permissions tab in `about:addons` when the data collection feature is enabled.
+permissions-data-addon-button = Tisirag akked yisefka

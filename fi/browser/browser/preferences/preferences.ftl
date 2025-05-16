@@ -725,6 +725,9 @@ search-keyword-warning-title = Pikakomento jo käytössä
 #   $name (string) - Name of a search engine.
 search-keyword-warning-engine = Annettu pikakomento on jo kirjanmerkillä ”{ $name }”. Kirjoita uusi pikakomento.
 search-keyword-warning-bookmark = Annettu pikakomento on jo toisella kirjanmerkillä. Kirjoita uusi pikakomento.
+remove-engine-confirmation = Haluatko varmasti poistaa tämän hakukoneen?
+remove-engine-remove = Poista
+remove-addon-engine-alert = Poistaaksesi tämän hakukoneen, poista siihen liittyvä lisäosa.
 
 ## Containers Section
 

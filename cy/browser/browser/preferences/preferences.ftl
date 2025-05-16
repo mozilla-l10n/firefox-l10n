@@ -741,6 +741,9 @@ search-keyword-warning-title = Allweddair Dyblyg
 #   $name (string) - Name of a search engine.
 search-keyword-warning-engine = Rydych wedi defnyddio allweddair sy'n cael ei ddefnyddio gan "{ $name }". Dewiswch un arall.
 search-keyword-warning-bookmark = Rydych wedi defnyddio allweddair sy'n cael ei ddefnyddio gan nod tudalen. Dewiswch un arall.
+remove-engine-confirmation = Ydych chi'n siŵr eich bod am dynnu'r peiriant chwilio hwn?
+remove-engine-remove = Tynnu
+remove-addon-engine-alert = I dynnu'r peiriant chwilio hwn, tynnwch yr ychwanegyn cysylltiedig.
 
 ## Containers Section
 

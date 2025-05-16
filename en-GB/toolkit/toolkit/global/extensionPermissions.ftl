@@ -46,6 +46,30 @@ webext-perms-extra-warning-userScripts-short = Unverified scripts can pose secur
 ##
 ## This is used when the data collection permissions are required.
 
+webext-perms-description-data-short-authenticationInfo = authentication information
+webext-perms-description-data-short-bookmarksInfo = bookmarks
+webext-perms-description-data-short-browsingActivity = browsing activity
+webext-perms-description-data-short-financialAndPaymentInfo = financial and payment information
+webext-perms-description-data-short-healthInfo = health information
+webext-perms-description-data-short-locationInfo = location
+webext-perms-description-data-short-personalCommunications = personal communications
+webext-perms-description-data-short-personallyIdentifyingInfo = personally identifying information
+webext-perms-description-data-short-searchTerms = search terms
+webext-perms-description-data-short-technicalAndInteraction = technical and interaction data
+webext-perms-description-data-short-websiteActivity = web site activity
+webext-perms-description-data-short-websiteContent = web site content
 
 ## Long form to be used in `about:addons` when these data collection permissions are optional.
 
+webext-perms-description-data-long-authenticationInfo = Share authentication information with extension developer
+webext-perms-description-data-long-bookmarksInfo = Share bookmarks information with extension developer
+webext-perms-description-data-long-browsingActivity = Share browsing activity with extension developer
+webext-perms-description-data-long-financialAndPaymentInfo = Share financial and payment information with extension developer
+webext-perms-description-data-long-healthInfo = Share health information with extension developer
+webext-perms-description-data-long-locationInfo = Share location information with extension developer
+webext-perms-description-data-long-personalCommunications = Share personal communications with extension developer
+webext-perms-description-data-long-personallyIdentifyingInfo = Share personally identifying information with extension developer
+webext-perms-description-data-long-searchTerms = Share search terms with extension developer
+webext-perms-description-data-long-technicalAndInteraction = Share technical and interaction data with extension developer
+webext-perms-description-data-long-websiteActivity = Share web site activity with extension developer
+webext-perms-description-data-long-websiteContent = Share web site content with extension developer

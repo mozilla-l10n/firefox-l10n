@@ -92,7 +92,7 @@ vertical-tabs-callout-2-subtitle = Гэты выклад дазваляе лёг
 ## Sidebar Vertical Tabs Pinning Strings
 
 sidebar-pins-callout-title = Губляеце важныя карткі?
-sidebar-pins-callout-subtitle = Паспрабуйце замацаваць іх, каб яны заставаліся ў верхняй частцы спісу картак. Націсніце правай кнопкай мышы на картцы, якую хочаце замацаваць, а затым выберыце «Прышпіліць картку».
+sidebar-pins-callout-subtitle = Паспрабуйце прымацаваць іх, каб яны заставаліся ў верхняй частцы спісу картак. Націсніце правай кнопкай мышы на картцы, якую хочаце замацаваць, а затым выберыце «Замацаваць картку».
 sidebar-pins-callout-cta-button = Замацаваць картку
 
 ## Sidebar Onboarding Strings

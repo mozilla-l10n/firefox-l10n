@@ -327,6 +327,10 @@ search-one-offs-actions =
 
 # Opens the about:addons page in the home / recommendations section
 quickactions-addons = Դիտել հավելումները
+# In English we provide multiple spellings for "add-ons". If that's not
+# applicable to your language, only use the correct spelling (don't repeat the
+# same word).
+quickactions-cmd-addons3 = ընդլայնումներ, ոճեր, հավելումներ, հավելումներ
 quickactions-cmd-addons2 = Հավելումներ
 # Opens the bookmarks library window
 quickactions-bookmarks2 = Կառավարեք էջանիշները
@@ -354,6 +358,7 @@ quickactions-help = { -brand-product-name }-ի օգնություն
 quickactions-cmd-help = օգնություն, աջակցում
 # Opens the devtools web inspector
 quickactions-inspector2 = Բացել Մշակողի գործիքները
+quickactions-cmd-inspector2 = տեսուչ, մշակողների գործիքներ, մշակողների գործիքներ
 quickactions-cmd-inspector = Զննիչ, մշակման գործիքներ
 # Opens about:logins
 quickactions-logins2 = Կառավարեք գաղտնաբառերը
@@ -366,6 +371,7 @@ quickactions-print2 = Տպել էջը
 quickactions-cmd-print = տպել
 # Opens the print dialog at the save to PDF option
 quickactions-savepdf = Պահել էջը որպես PDF
+quickactions-cmd-savepdf2 = pdf, պահպանել էջը
 quickactions-cmd-savepdf = pdf
 # Opens a new private browsing window
 quickactions-private2 = Բացել գաղտնի պատուհան
@@ -390,6 +396,7 @@ quickactions-update = Թարմացնել { -brand-short-name }­-ը
 quickactions-cmd-update = արդիացնել
 # Opens the view-source UI with current pages source
 quickactions-viewsource2 = Դիտել Էջի Կոդը
+quickactions-cmd-viewsource2 = դիտել աղբյուրը, աղբյուր, էջի աղբյուրը
 quickactions-cmd-viewsource = դիտել աղբյուրը, աղբյուրը
 # Tooltip text for the help button shown in the result.
 quickactions-learn-more =
@@ -1211,3 +1218,4 @@ file-picker-crashed-show-in-folder =
 
 ## Onboarding Finish Setup checklist
 
+onboarding-checklist-button-label = Ավարտել կարգավորումը

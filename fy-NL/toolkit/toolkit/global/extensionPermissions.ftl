@@ -46,6 +46,30 @@ webext-perms-extra-warning-userScripts-short = Net ferifiearre scripts kinne bef
 ##
 ## This is used when the data collection permissions are required.
 
+webext-perms-description-data-short-authenticationInfo = autentikaasjegegevens
+webext-perms-description-data-short-bookmarksInfo = blêdwizers
+webext-perms-description-data-short-browsingActivity = sneupaktiviteit
+webext-perms-description-data-short-financialAndPaymentInfo = finansjele en betellingsgegevens
+webext-perms-description-data-short-healthInfo = sûnensgegevens
+webext-perms-description-data-short-locationInfo = lokaasje
+webext-perms-description-data-short-personalCommunications = persoanlike kommunikaasje
+webext-perms-description-data-short-personallyIdentifyingInfo = persoanlik identifisearjende gegevens
+webext-perms-description-data-short-searchTerms = syktermen
+webext-perms-description-data-short-technicalAndInteraction = technyske en ynteraksjegegevens
+webext-perms-description-data-short-websiteActivity = website-aktiviteit
+webext-perms-description-data-short-websiteContent = website-ynhâld
 
 ## Long form to be used in `about:addons` when these data collection permissions are optional.
 
+webext-perms-description-data-long-authenticationInfo = Autentikaasjegegevens diele mei útwreidingsûntwikkeler
+webext-perms-description-data-long-bookmarksInfo = Blêdwizergegevens diele mei útwreidingsûntwikkeler
+webext-perms-description-data-long-browsingActivity = Sneupaktiviteit diele mei útwreidingsûntwikkeler
+webext-perms-description-data-long-financialAndPaymentInfo = Finansjele en betellingsynformaasje diele mei de útwreidingsûntwikkeler
+webext-perms-description-data-long-healthInfo = Sûnensgegevens diele mei útwreidingsûntwikkeler
+webext-perms-description-data-long-locationInfo = Lokaasjegegevens diele mei útwreidingsûntwikkeler
+webext-perms-description-data-long-personalCommunications = Persoanlike kommunikaasje diele mei útwreidingsûntwikkeler
+webext-perms-description-data-long-personallyIdentifyingInfo = Persoanlik identifisearjende gegevens diele mei útwreidingsûntwikkeler
+webext-perms-description-data-long-searchTerms = Syktermen diele mei útwreidingsûntwikkeler
+webext-perms-description-data-long-technicalAndInteraction = Technyske en ynteraksjegegevens diele mei útwreidingûntwikkeler
+webext-perms-description-data-long-websiteActivity = Website-aktiviteit diele mei útwreidingsûntwikkeler
+webext-perms-description-data-long-websiteContent = Website-ynhâld diele mei útwreidingsûntwikkeler

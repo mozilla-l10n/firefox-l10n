@@ -196,6 +196,12 @@ migration-safari-password-import-step1 = Í Safari, opnaðu "Safari" valmyndina 
 migration-safari-password-import-step2 = Veldu <img data-l10n-name="safari-icon-3dots"/> hnappinn og veldu „Flytja út öll lykilorð“
 migration-safari-password-import-step3 = Vistaðu lykilorðaskrána
 migration-safari-password-import-step4 = Notaðu „Veldu skrá“ hér að neðan til að velja lykilorðaskrána sem þú vistaðir
+migration-chrome-windows-password-import-header = Hvernig á að flytja inn lykilorð úr Chrome
+migration-chrome-windows-password-import-steps-header = Í Chrome:
+migration-chrome-windows-password-import-step1 = Opnaðu aðalvalmyndina <img data-l10n-name="chrome-icon-3dots"/> og farðu í 'Lykilorð og sjálfvirk útfylling' > 'Google lykilorðastýring'.
+migration-chrome-windows-password-import-step2 = Veldu „Stillingar“ úr valmyndinni.
+migration-chrome-windows-password-import-step3 = Veldu „Sækja skrá“ og vistaðu hana á tækið þitt.
+migration-chrome-windows-password-import-step4 = Komdu aftur hingað og „Velja skrá“ til að klára innflutninginn.
 migration-manual-password-import-skip-button = Sleppa
 migration-manual-password-import-select-button = Veldu skrá
 migration-safari-password-import-skip-button = Sleppa

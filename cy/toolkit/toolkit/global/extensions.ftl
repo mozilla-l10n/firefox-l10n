@@ -15,10 +15,25 @@ webext-perms-header-with-perms = Ychwanegu { $extension }? Bydd gan yr estyniad 
 webext-perms-header-unsigned = Ychwanegu { $extension }? Nid yw'r estyniad hwn wedi'i wirio. Gall estyniadau maleisus ddwyn eich manylion preifat neu gyfaddawdu eich cyfrifiadur. Ychwanegwch ef dim ond os ydych chi'n ymddiried yn y ffynhonnell.
 webext-perms-header-unsigned-with-perms = Ychwanegu { $extension }? Nid yw'r estyniad hwn wedi'i wirio. Gall estyniadau maleisus ddwyn eich manylion preifat neu gyfaddawdu eich cyfrifiadur. Ychwanegwch ef dim ond os ydych chi'n ymddiried yn y ffynhonnell. Bydd gan yr estyniad hwn ganiatâd i:
 webext-perms-sideload-header = Mae { $extension } wedi ei ychwanegu
+webext-perms-optional-perms-header2 = Mae { $extension } yn gofyn am ganiatâd ychwanegol
 webext-perms-optional-perms-header = Mae { $extension } yn gofyn am ganiatâd ychwanegol.
+webext-perms-header2 = Ychwanegu { $extension }
+webext-perms-list-intro-unsigned = Gall yr estyniad hwn, sydd heb ei wirio, peryglu eich preifatrwydd neu beryglu'ch dyfais. Dim ond os ydych chi'n ymddiried yn y ffynhonnell y dylech ei ychwanegu.
 
 ## Headers used in the webextension permissions dialog, inside the content.
 
+webext-perms-header-required-perms = Caniatâd gofynnol:
+webext-perms-header-optional-settings = Gosodiadau dewisol:
+webext-perms-header-update-required-perms = Caniatâd gofynnol newydd:
+webext-perms-header-optional-required-perms = Caniatâd newydd:
+webext-perms-header-data-collection-perms = Casglu data gofynnol:
+webext-perms-header-data-collection-is-none = Casglu data
+# This is a header used in the add-ons "update" prompt, shown when the new
+# version requires new data collection permissions.
+webext-perms-header-update-data-collection-perms = Casglu data gofynnol newydd:
+# This is a header used in the add-ons "optional" prompt, shown when the
+# extension requests new data collection permissions programmatically.
+webext-perms-header-optional-data-collection-perms = Casglu data newydd:
 
 ##
 
@@ -36,6 +51,9 @@ webext-perms-sideload-enable =
 webext-perms-sideload-cancel =
     .label = Diddymu
     .accesskey = D
+# Variables:
+#   $extension (String): replaced with the localized name of the extension.
+webext-perms-update-text2 = Mae { $extension } wedi'i ddiweddaru. Rhaid i chi gymeradwyo'r caniatâd newydd cyn y bydd y fersiwn wedi'i diweddaru yn gosod. Bydd dewis “Diddymu” yn cadw fersiwn eich estyniad cyfredol.
 # Variables:
 #   $extension (String): replaced with the localized name of the extension.
 webext-perms-update-text = Mae { $extension } wedi'i ddiweddaru. Rhaid i chi gymeradwyo caniatâd newydd cyn y bydd y fersiwn wedi'i ddiweddaru'n cael ei osod. Bydd dewis “Diddymu” yn cynnal eich fersiwn estyniad cyfredol. Bydd gan yr estyniad hwn ganiatâd i:
@@ -102,6 +120,26 @@ webext-perms-host-description-multiple-domains =
 
 ## Strings for data collection permissions in the permission prompt.
 
+webext-perms-description-data-none = Mae'r datblygwr yn dweud nad oes angen casglu data ar yr estyniad hwn.
+# Variables:
+#    $permissions (String): a list of data collection permissions formatted with `Intl.ListFormat` using the "narrow" style.
+webext-perms-description-data-some = Mae'r datblygwr yn dweud bod yr estyniad hwn yn casglu: { $permissions }
+# Variables:
+#    $permissions (String): a list of data collection permissions formatted with `Intl.ListFormat` using the "narrow" style.
+webext-perms-description-data-some-update = Mae'r datblygwr yn dweud y bydd yr estyniad yn casglu: { $permissions }
+# Variables:
+#    $permissions (String): a list of data collection permissions formatted with `Intl.ListFormat` using the "narrow" style.
+webext-perms-description-data-some-optional = Mae'r datblygwr yn dweud bod yr estyniad eisiau casglu: { $permissions }
+# Variables:
+#   $extension (String): replaced with the localized name of the extension.
+webext-perms-update-text-with-data-collection = Mae angen gosodiadau newydd ar { $extension } i'w diweddaru
+webext-perms-update-list-intro-with-data-collection = Diddymu i gadw'ch fersiwn a'ch gosodiadau cyfredol, neu eu diweddaru i gael y fersiwn newydd a chymeradwyo'r newidiadau.
+# Variables:
+#   $extension (String): replaced with the localized name of the extension.
+webext-perms-optional-text-with-data-collection = Mae { $extension } yn gofyn am osodiadau ychwanegol
+# Variables:
+#   $extension (String): replaced with the localized name of the extension.
+webext-perms-optional-text-with-data-collection-only = Mae { $extension } yn gofyn am gasglu data ychwanegol
 
 ## Headers used in the webextension permissions dialog for synthetic add-ons.
 ## The part of the string describing what privileges the extension gives should be consistent

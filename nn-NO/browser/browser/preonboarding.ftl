@@ -18,6 +18,7 @@ preonboarding-privacy-notice-header-button-title = Les personvernfråsegna vår
 preonboarding-manage-data-header-button-title = Handsam diagnostikk- og samhandlingsdata
 # Labels for header style button that toggles showing the Terms of Use (Variant B)
 preonboarding-terms-of-use-header-button-title-b = Brukarvilkår for { -brand-product-name }
+preonboarding-terms-of-use-header-button-title-b-v2 = Brukarvilkår
 # Labels for header style button that toggles showing the Privacy Notice (Variant B)
 preonboarding-privacy-notice-header-button-title-b = { -brand-product-name } personvernerklæring
 # Description under label for header style buttons

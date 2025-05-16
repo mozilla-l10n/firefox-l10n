@@ -110,22 +110,39 @@ contextual-manager-passwords-update-password-success-button = Гатова
 contextual-manager-passwords-delete-password-success-button = Гатова
 # This message is displayed to make sure that a user wants to delete an existing login.
 contextual-manager-passwords-remove-login-card-title = Выдаліць пароль?
+# This message gives the user an option to go back to the edit login form.
+contextual-manager-passwords-remove-login-card-back-message = Назад
 # This message confirms that the user wants to remove an existing login.
 contextual-manager-passwords-remove-login-card-remove-button = Выдаліць
 # This message gives the user the option to cancel their attempt to remove a login.
 contextual-manager-passwords-remove-login-card-cancel-button = Скасаваць
+contextual-manager-passwords-alert-back-button =
+    .label = Назад
+contextual-manager-passwords-add-username-button = Дадаць імя карыстальніка
 
 ## Login Form
 
 contextual-manager-passwords-create-label =
     .label = Дадаць пароль
+contextual-manager-passwords-edit-label =
+    .label = Змяніць пароль
+contextual-manager-passwords-remove-label =
+    .title = Выдаліць пароль
 
 ## Password Card
 
 contextual-manager-passwords-list-label =
     .aria-label = Паролі
+contextual-manager-website-icon =
+    .alt = Значок сайта
 contextual-manager-copy-icon =
     .alt = Капіяваць
+contextual-manager-check-icon-username =
+    .alt = Скапіявана
+contextual-manager-check-icon-password =
+    .alt = Скапіяваны
+contextual-manager-alert-icon =
+    .alt = Папярэджанне
 
 ## When the user has no saved passwords, we display the following messages to inform the user they can save
 ## their passwords safely and securely in Firefox:

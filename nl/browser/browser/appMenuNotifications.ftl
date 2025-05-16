@@ -44,6 +44,9 @@ appmenu-addon-private-browsing-installed2 =
     .buttonlabel = Oké
     .buttonaccesskey = O
 appmenu-addon-post-install-message3 = Beheer uw add-ons en thema’s via het toepassingsmenu.
+# This string is used in the confirmation popup displayed after an extension
+# has been installed, when the data collection feature is enabled.
+appmenu-addon-post-install-message-with-data-collection = Werk toestemmingen en gegevensvoorkeuren bij in de <a data-l10n-name="settings-link">extensie-instellingen</a>.
 appmenu-addon-post-install-incognito-checkbox =
     .label = Deze extensie in privévensters laten uitvoeren
     .accesskey = D

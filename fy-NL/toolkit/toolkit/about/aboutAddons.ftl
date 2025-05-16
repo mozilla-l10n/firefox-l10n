@@ -575,3 +575,7 @@ plugins-widevine-description = Dizze ynstekker soarget foar it ôfspyljen fan fe
 ## Headings for the Permissions tab in `about:addons` when the data collection
 ## feature is enabled.
 
+addon-permissions-required-data-collection = Fereaske gegevenssammeling:
+addon-permissions-optional-data-collection = Opsjonele gegevenssammeling:
+# Name of the Permissions tab in `about:addons` when the data collection feature is enabled.
+permissions-data-addon-button = Tastimmingen en gegevens

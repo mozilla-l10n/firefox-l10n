@@ -130,3 +130,10 @@ tab-context-send-tabs-to-device =
            *[other] Αποστολή { $tabCount } καρτελών σε συσκευή
         }
     .accesskey = π
+tab-context-unload-n-tabs =
+    .label =
+        { $tabCount ->
+            [1] Εκφόρτωση καρτέλας
+           *[other] Εκφόρτωση { $tabCount } καρτελών
+        }
+    .accesskey = Ε

@@ -575,3 +575,7 @@ plugins-widevine-description = Dieses Plugin ermöglicht die Wiedergabe von vers
 ## Headings for the Permissions tab in `about:addons` when the data collection
 ## feature is enabled.
 
+addon-permissions-required-data-collection = Benötigte Datenerhebung:
+addon-permissions-optional-data-collection = Optionale Datenerhebung:
+# Name of the Permissions tab in `about:addons` when the data collection feature is enabled.
+permissions-data-addon-button = Berechtigungen und Daten

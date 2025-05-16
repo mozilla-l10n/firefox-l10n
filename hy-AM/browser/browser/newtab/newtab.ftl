@@ -480,3 +480,11 @@ newtab-custom-wallpaper-cta = Փորձել
 
 ## Strings for reporting ads and content
 
+newtab-report-content-wrong-category =
+    .label = Սխալ անվանակարգ
+newtab-report-content-outdated =
+    .label = Հնացած
+newtab-report-cancel = Չեղարկել
+newtab-report-submit = Ուղարկել
+newtab-toast-thanks-for-reporting =
+    .message = Շնորհակալություն հայտնելու համար:

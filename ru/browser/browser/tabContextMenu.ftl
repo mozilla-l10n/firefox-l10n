@@ -137,3 +137,12 @@ tab-context-send-tabs-to-device =
            *[many] Отправить { $tabCount } вкладок на устройство
         }
     .accesskey = п
+tab-context-unload-n-tabs =
+    .label =
+        { $tabCount ->
+            [1] Выгрузить вкладку
+            [one] Выгрузить { $tabCount } вкладку
+            [few] Выгрузить { $tabCount } вкладки
+           *[many] Выгрузить { $tabCount } вкладок
+        }
+    .accesskey = Г

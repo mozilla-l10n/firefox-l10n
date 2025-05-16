@@ -26,6 +26,14 @@ webext-perms-header-required-perms = Permisos requeridos:
 webext-perms-header-optional-settings = Ajustes opcionales:
 webext-perms-header-update-required-perms = Nuevos permisos requeridos:
 webext-perms-header-optional-required-perms = Nuevos permisos:
+webext-perms-header-data-collection-perms = Recolección de datos requerida:
+webext-perms-header-data-collection-is-none = Recolección de datos:
+# This is a header used in the add-ons "update" prompt, shown when the new
+# version requires new data collection permissions.
+webext-perms-header-update-data-collection-perms = Nueva recolección de datos requerida:
+# This is a header used in the add-ons "optional" prompt, shown when the
+# extension requests new data collection permissions programmatically.
+webext-perms-header-optional-data-collection-perms = Nueva recolección de datos:
 
 ##
 
@@ -100,6 +108,7 @@ webext-perms-host-description-multiple-domains =
 
 ## Strings for data collection permissions in the permission prompt.
 
+webext-perms-description-data-none = El desarrollador dice que esta extensión no requiere recolección de datos.
 
 ## Headers used in the webextension permissions dialog for synthetic add-ons.
 ## The part of the string describing what privileges the extension gives should be consistent

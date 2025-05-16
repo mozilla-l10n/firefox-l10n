@@ -574,3 +574,7 @@ plugins-widevine-description = Αυτό το άρθρωμα ενεργοποιε
 ## Headings for the Permissions tab in `about:addons` when the data collection
 ## feature is enabled.
 
+addon-permissions-required-data-collection = Συλλογή υποχρεωτικών δεδομένων:
+addon-permissions-optional-data-collection = Συλλογή προαιρετικών δεδομένων:
+# Name of the Permissions tab in `about:addons` when the data collection feature is enabled.
+permissions-data-addon-button = Δικαιώματα και δεδομένα

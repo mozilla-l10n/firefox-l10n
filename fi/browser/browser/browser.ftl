@@ -1190,6 +1190,11 @@ popup-notification-xpinstall-prompt-block-url = Näytä yksityiskohdat
 popup-notification-addon-privatebrowsing-checkbox2 =
     .label = Salli laajennuksen suorittaminen yksityisissä ikkunoissa
     .accesskey = ä
+# This string is similar to `webext-perms-description-data-long-technicalAndInteraction`
+# but it is used in the install prompt, and it needs an access key.
+popup-notification-addon-technical-and-interaction-checkbox =
+    .label = Jaa teknisiä ja vuorovaikutustietoja laajennuskehittäjän kanssa
+    .accesskey = s
 # Note: Access key is set to P to match "Private" in the corresponding localized label.
 popup-notification-addon-privatebrowsing-checkbox =
     .label = Suorita yksityisissä ikkunoissa

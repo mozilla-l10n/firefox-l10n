@@ -19,6 +19,8 @@ firefoxview-page-label =
 firefoxview-close-button =
     .title = بستن
     .aria-label = بستن
+firefoxview-empty-state-icon =
+    .alt = توجه:
 # Used instead of the localized relative time when a timestamp is within a minute or so of now
 firefoxview-just-now-timestamp = هم‌اکنون
 # This is a headline for an area in the product where users can resume and re-open tabs they have previously viewed on other devices.
@@ -30,12 +32,18 @@ firefoxview-tabpickup-progress-label = ‏{ $percentValue }٪ انجام شده
 firefoxview-tabpickup-step-signin-header = بی‌وقفه بین دستگاه‌ها جابه‌جا شوید
 firefoxview-tabpickup-step-signin-description = برای دریافت زبانه‌های تلفن همراه خود در این‌جا، ابتدا وارد شوید یا یک حساب ایجاد کنید.
 firefoxview-tabpickup-step-signin-primarybutton = ادامه
+firefoxview-syncedtabs-signin-header-2 = { -brand-product-name } شما روی تمام دستگاه‌هایتان
+firefoxview-syncedtabs-signin-description-2 = برای دیدن زبانه‌هایی که در تلفن و سایر دستگاه‌های خود باز کرده‌اید، وارد حساب‌تان شده یا یک حساب کاربری بسازید. با داشتن یک حساب کاربری می‌توانید گذرواژه‌ها، تاریخچه و موارد دیگر خود را نیز همگام‌سازی کنید.
 firefoxview-syncedtabs-signin-primarybutton-2 = ورود
+firefoxview-syncedtabs-signin-header = از هر جایی به زبانه‌ها دسترسی داشته باشید
 firefoxview-syncedtabs-signin-primarybutton = وارد شوید یا نام‌نویسی کنید
 firefoxview-tabpickup-adddevice-header = ‏{ -brand-product-name } را در تلفن همراه یا تبلت خود همگام‌سازی کنید
 firefoxview-tabpickup-adddevice-description = ‏{ -brand-product-name } را برای تلفن همراه بارگیری کنید و در آن‌جا وارد شوید.
 firefoxview-tabpickup-adddevice-learn-how = بیاموزید
 firefoxview-tabpickup-adddevice-primarybutton = ‏{ -brand-product-name } را برای تلفن همراه دریافت کنید
+firefoxview-syncedtabs-adddevice-header-2 = از هر جایی به زبانه‌ها دسترسی داشته باشید
+firefoxview-syncedtabs-adddevice-header = در دستگاه‌های دیگر خود به { -brand-product-name } وارد شوید
+firefoxview-syncedtabs-adddevice-primarybutton = { -brand-product-name } را برای تلفن همراه امتحان کنید
 firefoxview-tabpickup-synctabs-header = روشن کردن همگام‌سازی زبانه‌ها
 firefoxview-tabpickup-synctabs-description = به { -brand-short-name } اجازه دهید تا زبانه‌ها را بین دستگاه‌ها همرسانی کند.
 firefoxview-tabpickup-synctabs-learn-how = بیاموزید
@@ -55,6 +63,9 @@ firefoxview-tabpickup-password-locked-header = برای مشاهدهٔ زبان�
 firefoxview-tabpickup-password-locked-description = برای گرفتن زبانه‌هایتان، باید گذرواژهٔ اصلی را برای { -brand-short-name } وارد کنید.
 firefoxview-tabpickup-password-locked-link = بیشتر بدانید
 firefoxview-tabpickup-password-locked-primarybutton = گذرواژهٔ اصلی را وارد کنید
+firefoxview-syncedtab-password-locked-link = <a data-l10n-name="syncedtab-password-locked-link"> بیشتر بدانید </a>
+firefoxview-tabpickup-signed-out-header = برای اتصال مجدد وارد شوید
+firefoxview-tabpickup-signed-out-description2 = برای اتصال و دریافت زبانه‌ها، وارد حساب‌تان شوید.
 firefoxview-tabpickup-signed-out-primarybutton = ورود
 firefoxview-tabpickup-syncing = لطفاً تا اتمام همگام‌سازی زبانه‌هایتان منتظر بمانید. فقط اندکی طول می‌کشد.
 firefoxview-mobile-promo-header = زبانه‌ها را از تلفن همراه یا تبلت خود دریافت کنید
@@ -64,6 +75,13 @@ firefoxview-mobile-confirmation-header = 🎉 آماده است!
 firefoxview-mobile-confirmation-description = اکنون می توانید زبانه‌های { -brand-product-name } خود را از تبلت یا تلفن همراه خود بگیرید.
 firefoxview-closed-tabs-title = اخیراً بسته شده
 firefoxview-closed-tabs-description2 = گشودن دوبارهٔ صفحاتی که در این پنجره بسته‌اید.
+firefoxview-closed-tabs-placeholder-header = هیچ زبانه‌ای به‌تازگی بسته نشده است
+firefoxview-closed-tabs-placeholder-body = وقتی یک زبانه را در این پنجره می‌بندید، می‌توانید آن را از اینجا بازآوری کنید.
+firefoxview-closed-tabs-placeholder-body2 = وقتی یک زبانه را می‌بندید، می‌توانید آن را از اینجا بازآوری کنید.
+# Variables:
+#   $tabTitle (string) - Title of tab being dismissed
+firefoxview-closed-tabs-dismiss-tab =
+    .title = نادیده‌گرفتن { $tabTitle }
 # refers to the last tab that was used
 firefoxview-pickup-tabs-badge = آخرین فعال
 # Variables:
@@ -76,10 +94,16 @@ firefoxview-change-colorway-button = تغییر رنگ‌بندی
 #  $intensity (String): Colorway intensity
 #  $collection (String): Colorway Collection name
 firefoxview-colorway-description = { $intensity } · { $collection }
+firefoxview-synced-tabs-placeholder-header = هنوز چیزی برای دیدن نیست
+firefoxview-synced-tabs-placeholder-body = دفعه‌ی بعد که صفحه‌ای را در { -brand-product-name } روی دستگاهی دیگری باز می‌کنید، آن را مانند یک شعبده‌بازی از اینجا بردارید.
 firefoxview-collapse-button-show =
     .title = نمایش فهرست
 firefoxview-collapse-button-hide =
     .title = نهفتن فهرست
+firefoxview-overview-nav = مرورهای اخیر
+    .title = مرورهای اخیر
+firefoxview-overview-header = مرورهای اخیر
+    .title = مرورهای اخیر
 
 ## History in this context refers to browser history
 
@@ -97,25 +121,83 @@ firefoxview-opentabs-header = گشودن زبانه‌ها
 
 ## Recently closed tabs in this context refers to recently closed tabs from all windows
 
+firefoxview-recently-closed-nav = زبانه‌های اخیرا بسته شده
+    .title = زبانه‌های اخیرا بسته شده
+firefoxview-recently-closed-header = زبانه‌های اخیرا بسته شده
 
 ## Tabs from other devices refers in this context refers to synced tabs from other devices
 
+firefoxview-synced-tabs-nav = زبانه‌ها از دستگاه‌های دیگر
+    .title = زبانه‌ها از دستگاه‌های دیگر
+firefoxview-synced-tabs-header = زبانه‌ها از دستگاه‌های دیگر
 
 ##
 
+# Used for a link in collapsible cards, in the ’Recent browsing’ page of Firefox View
+firefoxview-view-all-link = مشاهده همه
+# Variables:
+#   $winID (Number) - The index of the owner window for this set of tabs
+firefoxview-opentabs-window-header =
+    .title = پنجرهٔ { $winID }
+# Variables:
+#   $winID (Number) - The index of the owner window (which is currently focused) for this set of tabs
+firefoxview-opentabs-current-window-header =
+    .title = پنجرهٔ { $winID } (جاری)
+firefoxview-opentabs-focus-tab =
+    .title = جابجایی به این زبانه
+firefoxview-show-more = نمایش بیشتر
+firefoxview-show-less = نمایش کمتر
+firefoxview-show-all = نمایش همه
 # Placeholder for the input field to search in recent browsing ("search" is a verb).
 firefoxview-search-text-box-recentbrowsing =
     .placeholder = جستجو
 # Placeholder for the input field to search in history ("search" is a verb).
 firefoxview-search-text-box-history =
     .placeholder = تاریخچه جستجو
+# Placeholder for the input field to search in recently closed tabs ("search" is a verb).
+firefoxview-search-text-box-recentlyclosed =
+    .placeholder = جستجو در زبانه‌های اخیرا بسته شده
+# Placeholder for the input field to search in tabs from other devices ("search" is a verb).
+firefoxview-search-text-box-tabs =
+    .placeholder = جست‌وجوی زبانه‌ها
+# Placeholder for the input field to search in tabs from other devices ("search" is a verb).
+firefoxview-search-text-box-syncedtabs =
+    .placeholder = جست‌وجو در زبانه‌های همگام‌سازی شده
+# Placeholder for the input field to search in open tabs ("search" is a verb).
+firefoxview-search-text-box-opentabs =
+    .placeholder = جستجوی زبانه‌های باز
+# "Search" is a noun (as in "Results of the search for")
+# Variables:
+#   $query (String) - The search query used for searching through browser history.
+firefoxview-search-results-header = نتایج جستجو برای «{ $query }»
+# Message displayed when a search is performed and no matching results were found.
+# Variables:
+#   $query (String) - The search query.
+firefoxview-search-results-empty = نتایجی برای “{ $query }” پیدا نشد
+firefoxview-sort-history-by-date-label = به ترتیب تاریخ
+firefoxview-sort-history-by-site-label = به ترتیب وبگاه
+firefoxview-sort-open-tabs-by-recency-label = به ترتیب فعالیت اخیر
+firefoxview-sort-open-tabs-by-order-label = به ترتیب چینش زبانه‌ها
+# Variables:
+#   $url (string) - URL that will be opened in the new tab
+firefoxview-opentabs-tab-row =
+    .title = جابجایی به { $url }
 
 ## Variables:
 ##   $date (string) - Date to be formatted based on locale
 
+firefoxview-history-date-today = امروز - { DATETIME($date, dateStyle: "full") }
+firefoxview-history-date-yesterday = دیروز - { DATETIME($date, dateStyle: "full") }
+firefoxview-history-date-this-month = { DATETIME($date, dateStyle: "full") }
+firefoxview-history-date-prev-month = { DATETIME($date, month: "long", year: "numeric") }
+# When history is sorted by site, this heading is used in place of a domain, in
+# order to group sites that do not come from an outside host.
+# For example, this would be the heading for all file:/// URLs in history.
+firefoxview-history-site-localhost = (پرونده‌های محلی)
 
 ##
 
+firefoxview-show-all-history = نمایش تمام تاریخچه
 
 ## Message displayed in Firefox View when the user has no history data
 

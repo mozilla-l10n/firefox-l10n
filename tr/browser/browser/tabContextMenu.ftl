@@ -133,3 +133,11 @@ tab-context-send-tabs-to-device =
            *[other] { $tabCount } sekmeyi cihaza gönder
         }
     .accesskey = n
+tab-context-unload-n-tabs =
+    .label =
+        { $tabCount ->
+            [1] Sekmeyi boşalt
+            [one] Sekmeyi boşalt
+           *[other] { $tabCount } sekmeyi boşalt
+        }
+    .accesskey = l

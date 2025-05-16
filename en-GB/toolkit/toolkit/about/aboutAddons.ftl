@@ -575,3 +575,7 @@ plugins-widevine-description = This plugin enables playback of encrypted media i
 ## Headings for the Permissions tab in `about:addons` when the data collection
 ## feature is enabled.
 
+addon-permissions-required-data-collection = Required data collection:
+addon-permissions-optional-data-collection = Optional data collection:
+# Name of the Permissions tab in `about:addons` when the data collection feature is enabled.
+permissions-data-addon-button = Permissions and data

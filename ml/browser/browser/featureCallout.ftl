@@ -52,9 +52,17 @@ split-dismiss-button-default-label =
 
 ## Bookmarks toolbar callout strings
 
+bookmarks-toolbar-callout-1-primary-button-label = അടയാളക്കുറിപ്പു് ചേൎക്കുക
+bookmarks-toolbar-callout-1-secondary-button-label = വേണ്ട, നന്ദി
+# Visible if user adds a bookmark in callout 1, bookmarks toolbar is set to always show when this message renders
+bookmarks-toolbar-callout-2a-title = ഇനിയും അടയാളക്കുറിപ്പുകൾ എളുപ്പത്തോടു് ചേൎക്കുക
+bookmarks-toolbar-callout-2a-primary-button-label = പിടികിട്ടി
+bookmarks-toolbar-callout-2b-primary-button-label = തുറന്നിടുക
 
 ## Perplexity callout strings
 
+perplexity-callout-secondary-label-1 = കളയുക
+perplexity-callout-secondary-label-2 = മനസ്സിലായി
 
 ## Sidebar Strings
 

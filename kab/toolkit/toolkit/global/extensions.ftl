@@ -25,6 +25,14 @@ webext-perms-header-required-perms = Yesra tisira:
 webext-perms-header-optional-settings = Iɣewwaren arnawen:
 webext-perms-header-update-required-perms = Yesra tisira timaynutin:
 webext-perms-header-optional-required-perms = Tisirag timaynutin:
+webext-perms-header-data-collection-perms = Yesra alqaḍ n yisefka:
+webext-perms-header-data-collection-is-none = Alqaḍ n yisefka:
+# This is a header used in the add-ons "update" prompt, shown when the new
+# version requires new data collection permissions.
+webext-perms-header-update-data-collection-perms = Yesra alqaḍ n yisefka amaynut:
+# This is a header used in the add-ons "optional" prompt, shown when the
+# extension requests new data collection permissions programmatically.
+webext-perms-header-optional-data-collection-perms = Alqaḍ n yisefka amaynut:
 
 ##
 
@@ -42,6 +50,9 @@ webext-perms-sideload-enable =
 webext-perms-sideload-cancel =
     .label = Sefsex
     .accesskey = F
+# Variables:
+#   $extension (String): replaced with the localized name of the extension.
+webext-perms-update-text2 = { $extension } ittwalqem.Issefk ad tqebleḍ tisirag timaynutin akken ad tesbeddeḍ lqem. Fren "Sefsex" akken ad teǧǧeḍ lqem n tura n usiɣzef.
 # Variables:
 #   $extension (String): replaced with the localized name of the extension.
 webext-perms-update-text = { $extension } ittwalqem. Issefk ad tqebleḍ tisirag timaynutin send ad tesbeddeḍ lqem yettwalleqmen. Afran n "Sefsex" ad yeǧǧ lqem n usiɣzef-a amiran. Asiɣzef-a ad yesεu tasiregt ɣer:
@@ -96,6 +107,12 @@ webext-perms-host-description-multiple-domains =
 
 ## Strings for data collection permissions in the permission prompt.
 
+# Variables:
+#   $extension (String): replaced with the localized name of the extension.
+webext-perms-optional-text-with-data-collection = { $extension } yesra iɣewwaren niḍen
+# Variables:
+#   $extension (String): replaced with the localized name of the extension.
+webext-perms-optional-text-with-data-collection-only = { $extension } yesra alqaḍ n yisefka niḍen
 
 ## Headers used in the webextension permissions dialog for synthetic add-ons.
 ## The part of the string describing what privileges the extension gives should be consistent

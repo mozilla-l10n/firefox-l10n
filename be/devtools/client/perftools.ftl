@@ -71,6 +71,8 @@ perftools-button-edit-settings = Змянiць налады...
 
 ## More actions menu
 
+perftools-menu-more-actions-button =
+    .title = Дадатковыя дзеянні
 
 ## These messages are descriptions of the threads that can be enabled for the profiler.
 

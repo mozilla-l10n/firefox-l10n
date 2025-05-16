@@ -571,3 +571,5 @@ plugins-widevine-description = Este plugin permite la reproducción de medios ci
 
 addon-permissions-required-data-collection = Recolección de datos requerida:
 addon-permissions-optional-data-collection = Recolección de datos opcional:
+# Name of the Permissions tab in `about:addons` when the data collection feature is enabled.
+permissions-data-addon-button = Permisos y datos

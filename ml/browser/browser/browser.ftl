@@ -358,6 +358,7 @@ quickactions-print2 = അച്ചടിപ്പു് താളു്
 quickactions-cmd-print = അച്ചടിപ്പിക്കുക
 # Opens the print dialog at the save to PDF option
 quickactions-savepdf = പീഡീഎഫ ആയി കരുതിവയ്ക്കുക
+quickactions-cmd-savepdf2 = പി.ഡി.എഫ, താൾ കരുതിവയ്ക്കുക
 quickactions-cmd-savepdf = പീഡീഎഫ
 # Opens a new private browsing window
 quickactions-private2 = സ്വകാര്യ ജാലകം തുറക്കുക
@@ -374,6 +375,8 @@ quickactions-cmd-screenshot2 = പ്രതലപ്പിളൎപ്പു്,
 quickactions-cmd-screenshot = പ്രതലപ്പിളർപ്പു്
 # Opens about:preferences
 quickactions-settings2 = ക്രമീകരണങ്ങളെ നിയന്ത്രിക്കുക
+# "manage" should match the corresponding command, which is “Manage settings” in English.
+quickactions-cmd-settings2 = ക്രമീകരണങ്ങളും മുൻഗണനകളും സാധ്യതകളും ക്രമീകരിക്കുക
 quickactions-cmd-settings = ക്രമീകരണങ്ങളും മുൻഗണനകളും സാധ്യതകളും
 # Opens about:addons page in the themes section
 quickactions-themes = അലങ്കാരങ്ങളെ കൈകാര്യം ചെയ്യുക

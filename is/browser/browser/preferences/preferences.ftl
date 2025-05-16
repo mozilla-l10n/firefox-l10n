@@ -263,6 +263,10 @@ preferences-web-appearance-choice-input-dark =
     .aria-description = { preferences-web-appearance-choice-tooltip-dark.title }
 # This can appear when using windows HCM or "Override colors: always" without
 # system colors.
+preferences-web-appearance-override-warning3 =
+    .message = Stillingar þínar fyrir birtuskil yfirtaka útlit vefsvæðisins.
+# This can appear when using windows HCM or "Override colors: always" without
+# system colors.
 preferences-web-appearance-override-warning = Litaval þitt yfirtekur útlit vefsvæðisins. <a data-l10n-name="colors-link">Sýsla með liti</a>
 # This can appear when using windows HCM or "Override colors: always" without
 # system colors.
@@ -720,6 +724,8 @@ search-keyword-warning-title = Stikkorð er þegar til
 #   $name (string) - Name of a search engine.
 search-keyword-warning-engine = Þú hefur valið stikkorð sem er þegar í notkun af “{ $name }”. Veldu eitthvað annað.
 search-keyword-warning-bookmark = Þú hefur valið stikkorð sem er þegar í notkun af bókamerki. Veldu eitthvað annað.
+remove-engine-confirmation = Ertu viss um að þú viljir fjarlægja þessa leitarvél?
+remove-engine-remove = Fjarlægja
 
 ## Containers Section
 

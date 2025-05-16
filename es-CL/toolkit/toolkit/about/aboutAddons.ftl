@@ -548,3 +548,7 @@ plugins-widevine-description = Este complemento habilita la reproducción de med
 ## Headings for the Permissions tab in `about:addons` when the data collection
 ## feature is enabled.
 
+addon-permissions-required-data-collection = Recolección de datos requerida:
+addon-permissions-optional-data-collection = Recolección de datos opcional:
+# Name of the Permissions tab in `about:addons` when the data collection feature is enabled.
+permissions-data-addon-button = Permisos y datos

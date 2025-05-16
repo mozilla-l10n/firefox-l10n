@@ -219,7 +219,7 @@ urlbar-dismissal-acknowledgment-weather = Dankon pro viaj komentoj. Vi ne plu vi
 ## Variables:
 ##  $engineName (String): The name of the user's default search engine. e.g. "Google" or "DuckDuckGo".
 
-urlbar-search-tips-onboard = Tajpu malpli, trovi pli: serĉi per { $engineName } rekte el via adresa strio.
+urlbar-search-tips-onboard = Tajpu malpli, trovu pli: serĉu per { $engineName } rekte el via adresa strio.
 urlbar-search-tips-redirect-2 = Komencu vian serĉon en la adresa strio por vidi sugestojn el { $engineName } kaj el via retuma historio.
 # Make sure to match the name of the Search panel in settings.
 urlbar-search-tips-persist = Iĝis pli simple serĉi. Klopodu igi vian serĉon pli specifa ĉi tie, en la adresa strio. Por anstataŭe montri retadresojn, iru al agordoj kaj poste al Serĉo.

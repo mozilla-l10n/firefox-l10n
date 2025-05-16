@@ -198,6 +198,10 @@ migration-safari-password-import-step3 = Salva le file passwords
 migration-safari-password-import-step4 = Usa “Select File” infra pro seliger le file passwords que tu salvava
 migration-chrome-windows-password-import-header = Como importar contrasignos ab Chrome
 migration-chrome-windows-password-import-steps-header = In Chrome:
+migration-chrome-windows-password-import-step1 = Aperir le menu principal <img data-l10n-name="chrome-icon-3dots"/> e ir a Contrasignos e Auto-compilar > Gestor de contrasignos de Google.
+migration-chrome-windows-password-import-step2 = Seliger “Parametros” ab le menu.
+migration-chrome-windows-password-import-step3 = Selige “Discargar file” e salva lo a tu apparato.
+migration-chrome-windows-password-import-step4 = Retorna ci e usa “Seliger file” pro finir de importar.
 migration-manual-password-import-skip-button = Saltar
 migration-manual-password-import-select-button = Eliger file
 migration-safari-password-import-skip-button = Saltar

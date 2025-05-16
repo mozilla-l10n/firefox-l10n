@@ -567,3 +567,7 @@ plugins-widevine-description = Ez a bővítmény lehetővé teszi a titkosított
 ## Headings for the Permissions tab in `about:addons` when the data collection
 ## feature is enabled.
 
+addon-permissions-required-data-collection = Szükséges adatgyűjtés:
+addon-permissions-optional-data-collection = Nem kötelező adatgyűjtés:
+# Name of the Permissions tab in `about:addons` when the data collection feature is enabled.
+permissions-data-addon-button = Engedélyek és adatok

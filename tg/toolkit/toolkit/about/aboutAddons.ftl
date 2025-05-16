@@ -568,3 +568,7 @@ plugins-widevine-description = Ин плагин пахшкунии расона
 ## Headings for the Permissions tab in `about:addons` when the data collection
 ## feature is enabled.
 
+addon-permissions-required-data-collection = Ҷамъоварии маълумоти зарурӣ:
+addon-permissions-optional-data-collection = Ҷамъоварии маълумоти иловагӣ:
+# Name of the Permissions tab in `about:addons` when the data collection feature is enabled.
+permissions-data-addon-button = Иҷозатҳо ва маълумот

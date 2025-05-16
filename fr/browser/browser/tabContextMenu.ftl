@@ -132,3 +132,10 @@ tab-context-send-tabs-to-device =
            *[other] Envoyer { $tabCount } onglets à un appareil
         }
     .accesskey = v
+tab-context-unload-n-tabs =
+    .label =
+        { $tabCount ->
+            [one] Décharger l’onglet
+           *[other] Décharger { $tabCount } onglets
+        }
+    .accesskey = D

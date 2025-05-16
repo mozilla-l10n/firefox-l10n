@@ -50,14 +50,14 @@ reload-tabs =
     .label = Абнавіць карткі
     .accesskey = К
 pin-tab =
-    .label = Прышпіліць картку
-    .accesskey = П
+    .label = Замацаваць картку
+    .accesskey = З
 unpin-tab =
     .label = Адшпіліць картку
     .accesskey = А
 pin-selected-tabs =
-    .label = Прышпіліць карткі
-    .accesskey = ш
+    .label = Замацаваць карткі
+    .accesskey = З
 unpin-selected-tabs =
     .label = Адшпіліць карткі
     .accesskey = і
@@ -137,3 +137,12 @@ tab-context-send-tabs-to-device =
            *[many] Даслаць { $tabCount } картак на прыладу
         }
     .accesskey = т
+tab-context-unload-n-tabs =
+    .label =
+        { $tabCount ->
+            [1] Выгрузіць картку
+            [one] Выгрузіць { $tabCount } картку
+            [few] Выгрузіць { $tabCount } карткі
+           *[many] Выгрузіць { $tabCount } картак
+        }
+    .accesskey = г

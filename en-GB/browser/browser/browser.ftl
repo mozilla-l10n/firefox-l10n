@@ -1200,6 +1200,11 @@ popup-notification-xpinstall-prompt-block-url = See details
 popup-notification-addon-privatebrowsing-checkbox2 =
     .label = Allow extension to run in private windows
     .accesskey = p
+# This string is similar to `webext-perms-description-data-long-technicalAndInteraction`
+# but it is used in the install prompt, and it needs an access key.
+popup-notification-addon-technical-and-interaction-checkbox =
+    .label = Share technical and interaction data with extension developer
+    .accesskey = S
 # Note: Access key is set to P to match "Private" in the corresponding localized label.
 popup-notification-addon-privatebrowsing-checkbox =
     .label = Run in Private Windows

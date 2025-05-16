@@ -26,7 +26,11 @@ webext-perms-header-required-perms = Trěbne prawa:
 webext-perms-header-optional-settings = Wólbne nastajenja:
 webext-perms-header-update-required-perms = Nowe trěbne prawa:
 webext-perms-header-optional-required-perms = Nowe prawa:
+webext-perms-header-data-collection-perms = Trěbne hromadźenje datow:
 webext-perms-header-data-collection-is-none = Hromadźenje datow:
+# This is a header used in the add-ons "update" prompt, shown when the new
+# version requires new data collection permissions.
+webext-perms-header-update-data-collection-perms = Nowe trěbne hromadźenje datow:
 # This is a header used in the add-ons "optional" prompt, shown when the
 # extension requests new data collection permissions programmatically.
 webext-perms-header-optional-data-collection-perms = Nowe hromadźenje datow:
@@ -110,6 +114,26 @@ webext-perms-host-description-multiple-domains =
 
 ## Strings for data collection permissions in the permission prompt.
 
+webext-perms-description-data-none = Wuwiwar praji, zo tute rozšěrjenje hromadźenje datow njetrjeba.
+# Variables:
+#    $permissions (String): a list of data collection permissions formatted with `Intl.ListFormat` using the "narrow" style.
+webext-perms-description-data-some = Wuwiwar praji, zo tute rozšěrjenje hromadźi: { $permissions }
+# Variables:
+#    $permissions (String): a list of data collection permissions formatted with `Intl.ListFormat` using the "narrow" style.
+webext-perms-description-data-some-update = Wuwiwar praji, zo tute rozšěrjenje budźe hromadźić: { $permissions }
+# Variables:
+#    $permissions (String): a list of data collection permissions formatted with `Intl.ListFormat` using the "narrow" style.
+webext-perms-description-data-some-optional = Wuwiwar praji, zo tute rozšěrjenje chce hromadźić: { $permissions }
+# Variables:
+#   $extension (String): replaced with the localized name of the extension.
+webext-perms-update-text-with-data-collection = { $extension } sej nowe nastajenja za aktualizaciju žada
+webext-perms-update-list-intro-with-data-collection = Přetorhńće, zo byšće aktualnu wersiju a aktualne nastajenja wobchował abo aktualizujće, zo byšće nowu wersiju dóstał a wobkrućće změny.
+# Variables:
+#   $extension (String): replaced with the localized name of the extension.
+webext-perms-optional-text-with-data-collection = { $extension } wo přidatne nastajenja prosy
+# Variables:
+#   $extension (String): replaced with the localized name of the extension.
+webext-perms-optional-text-with-data-collection-only = { $extension } wo přidatne hromadźenje datow prosy
 
 ## Headers used in the webextension permissions dialog for synthetic add-ons.
 ## The part of the string describing what privileges the extension gives should be consistent

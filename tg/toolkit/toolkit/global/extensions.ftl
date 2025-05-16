@@ -25,6 +25,14 @@ webext-perms-header-required-perms = Иҷозатҳои зарурӣ:
 webext-perms-header-optional-settings = Танзимоти ихтиёрӣ:
 webext-perms-header-update-required-perms = Иҷозатҳои нави зарурӣ:
 webext-perms-header-optional-required-perms = Иҷозатҳои нав:
+webext-perms-header-data-collection-perms = Ҷамъоварии маълумоти зарурӣ:
+webext-perms-header-data-collection-is-none = Ҷамъоварии маълумот:
+# This is a header used in the add-ons "update" prompt, shown when the new
+# version requires new data collection permissions.
+webext-perms-header-update-data-collection-perms = Ҷамъоварии маълумоти зарурии нав:
+# This is a header used in the add-ons "optional" prompt, shown when the
+# extension requests new data collection permissions programmatically.
+webext-perms-header-optional-data-collection-perms = Маълумоти зарурии нав:
 
 ##
 
@@ -42,6 +50,9 @@ webext-perms-sideload-enable =
 webext-perms-sideload-cancel =
     .label = Бекор кардан
     .accesskey = Б
+# Variables:
+#   $extension (String): replaced with the localized name of the extension.
+webext-perms-update-text2 = «{ $extension }» навсозӣ шудааст. Пеш аз он, ки версия навшуда насб карда мешавад, шумо бояд иҷозатҳои навро тасдиқ намоед. Агар шумо имкони «Бекор кардан»-ро интихоб кунед, версия васеъшавии ҷорӣ нигоҳ дошта мешавад.
 # Variables:
 #   $extension (String): replaced with the localized name of the extension.
 webext-perms-update-text = { $extension } навсозӣ шудааст. Пеш аз он, ки версия навшуда насб карда мешавад, шумо бояд иҷозатҳои навро тасдиқ намоед. Агар шумо имкони «Бекор кардан»-ро интихоб кунед, версия васеъшавии ҷорӣ нигоҳ дошта мешавад. Ин васеъшавӣ ба зерин дастрасӣ пайдо мекунад:
@@ -95,6 +106,15 @@ webext-perms-host-description-multiple-domains =
 
 ## Strings for data collection permissions in the permission prompt.
 
+# Variables:
+#   $extension (String): replaced with the localized name of the extension.
+webext-perms-update-text-with-data-collection = «{ $extension }» барои навсозӣ танзимоти навро талаб мекунад
+# Variables:
+#   $extension (String): replaced with the localized name of the extension.
+webext-perms-optional-text-with-data-collection = «{ $extension }» танзимоти иловагиро дархост мекунад
+# Variables:
+#   $extension (String): replaced with the localized name of the extension.
+webext-perms-optional-text-with-data-collection-only = «{ $extension }» ҷамъоварии маълумоти иловагиро дархост мекунад
 
 ## Headers used in the webextension permissions dialog for synthetic add-ons.
 ## The part of the string describing what privileges the extension gives should be consistent

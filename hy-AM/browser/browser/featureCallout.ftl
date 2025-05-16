@@ -60,15 +60,27 @@ split-dismiss-button-show-fewer-option =
 # Opens about:preferences#general-cfrfeatures
 split-dismiss-button-manage-settings-option =
     .label = Կառավարել կարգավորումները
+# Accessibility label for dropdown menu button
+split-dismiss-button-default-label =
+    .title = Լրացուցիչ ընտրանքներ
 
 ## Login Status Advisory Callout (points to the account icon)
 
 
 ## Bookmarks toolbar callout strings
 
+bookmarks-toolbar-callout-1-primary-button-label = Ավելացնել Էջանիշ
+bookmarks-toolbar-callout-1-secondary-button-label = Ոչ, շնորհակալ եմ
+bookmarks-toolbar-callout-2a-primary-button-label = Հասկացա
+# Reverts the bookmarks toolbar to the default setting
+bookmarks-toolbar-callout-2a-secondary-button-label = Թաքցնել գործիքաշերտը
+bookmarks-toolbar-callout-2b-primary-button-label = Բաց պահել
+# Reverts the bookmarks toolbar to the default setting
+bookmarks-toolbar-callout-2b-secondary-button-label = Ոչ, շնորհակալ եմ
 
 ## Perplexity callout strings
 
+perplexity-callout-theme-1-title = Անմիջապես ճիշտ պատասխանն է պետք՞։
 
 ## Sidebar Strings
 

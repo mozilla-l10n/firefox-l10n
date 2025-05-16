@@ -44,6 +44,9 @@ appmenu-addon-private-browsing-installed2 =
     .buttonlabel = Iawn
     .buttonaccesskey = I
 appmenu-addon-post-install-message3 = Rheolwch eich estyniadau a'ch themâu trwy'r ddewislen apiau.
+# This string is used in the confirmation popup displayed after an extension
+# has been installed, when the data collection feature is enabled.
+appmenu-addon-post-install-message-with-data-collection = Diweddaru hawliau a dewisiadau data unrhyw bryd yn y <a data-l10n-name="settings-link">gosodiadau estyniad</a>.
 appmenu-addon-post-install-incognito-checkbox =
     .label = Caniatáu i'r estyniad yma redeg mewn Ffenestri Preifat
     .accesskey = C

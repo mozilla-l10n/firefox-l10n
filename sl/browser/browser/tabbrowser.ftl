@@ -332,7 +332,7 @@ tab-context-reopen-tab-group =
 tab-context-ungroup-tab =
     .label =
         { $groupCount ->
-            [one] Odstrani iz skupin
+            [one] Odstrani iz skupine
             [two] Odstrani iz skupin
             [few] Odstrani iz skupin
            *[other] Odstrani iz skupin
