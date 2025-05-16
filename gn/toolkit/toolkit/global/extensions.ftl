@@ -30,6 +30,9 @@ webext-perms-header-data-collection-is-none = Mba’ekuaarã ñembyaty:
 # This is a header used in the add-ons "update" prompt, shown when the new
 # version requires new data collection permissions.
 webext-perms-header-update-data-collection-perms = Mba’ekuaarã ñembyaty pyahu tekotevẽva:
+# This is a header used in the add-ons "optional" prompt, shown when the
+# extension requests new data collection permissions programmatically.
+webext-perms-header-optional-data-collection-perms = Mba’ekuaarã ñembyaty pyahu:
 
 ##
 
