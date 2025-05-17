@@ -196,6 +196,23 @@ urlbar-result-menu-learn-more-about-firefox-suggest =
 urlbar-result-menu-manage-firefox-suggest =
     .label = จัดการ { -firefox-suggest-brand-name }
     .accesskey = M
+# Some urlbar suggestions show the user's approximate location as automatically
+# detected by Firefox (e.g., weather suggestions), and this menu item lets the
+# user tell Firefox that the location is not accurate. Typically the location
+# will be a city name, or a city name combined with the name of its parent
+# administrative region (e.g., a province, prefecture, or state).
+urlbar-result-menu-report-inaccurate-location =
+    .label = รายงานตำแหน่งที่ไม่แม่นยำ
+urlbar-result-menu-show-less-frequently =
+    .label = แสดงน้อยลง
+urlbar-result-menu-dont-show-weather-suggestions =
+    .label = ไม่ต้องแสดงคำแนะนำเกี่ยวกับสภาพอากาศ
+# A message shown in the urlbar when the user submits feedback on a suggestion
+# (e.g., it shows an inaccurate location, it's shown too often, etc.).
+urlbar-feedback-acknowledgment = ขอบคุณสำหรับข้อคิดเห็นของคุณ
+# A message shown in the urlbar when the user dismisses weather suggestions.
+# Weather suggestions won't be shown at all anymore.
+urlbar-dismissal-acknowledgment-weather = ขอบคุณสำหรับข้อคิดเห็นของคุณ คุณจะไม่เห็นคำแนะนำเกี่ยวกับสภาพอากาศอีกต่อไป
 
 ## Prompts users to use the Urlbar when they open a new tab or visit the
 ## homepage of their default search engine.
@@ -327,10 +344,17 @@ search-one-offs-actions =
 
 # Opens the about:addons page in the home / recommendations section
 quickactions-addons = ดูส่วนเสริม
+# In English we provide multiple spellings for "add-ons". If that's not
+# applicable to your language, only use the correct spelling (don't repeat the
+# same word).
+quickactions-cmd-addons3 = ส่วนขยาย, ชุดตกแต่ง, ส่วนเสริม
 quickactions-cmd-addons2 = ส่วนเสริม
 # Opens the bookmarks library window
 quickactions-bookmarks2 = จัดการที่คั่นหน้า
 quickactions-cmd-bookmarks = ที่คั่นหน้าที่คั่นหน้า
+# Opens a SUMO article explaining how to clear history
+quickactions-clearrecenthistory = ล้างประวัติล่าสุด
+quickactions-cmd-clearrecenthistory = ล้างประวัติล่าสุด, ประวัติ
 # Opens a SUMO article explaining how to clear history
 quickactions-clearhistory = ล้างประวัติ
 quickactions-cmd-clearhistory = ล้างประวัติ
@@ -340,8 +364,14 @@ quickactions-cmd-downloads = ดาวน์โหลด
 # Opens about:addons page in the extensions section
 quickactions-extensions = จัดการส่วนขยาย
 quickactions-cmd-extensions = ส่วนขยาย
+# Opens Firefox View
+quickactions-firefoxview = เปิด { -firefoxview-brand-name }
+# Opens SUMO home page
+quickactions-help = ความช่วยเหลือของ { -brand-product-name }
+quickactions-cmd-help = ความช่วยเหลือ, สนับสนุน
 # Opens the devtools web inspector
 quickactions-inspector2 = เปิดเครื่องมือนักพัฒนา
+quickactions-cmd-inspector2 = ตัวตรวจสอบ, devtools, เครื่องมือนักพัฒนา
 quickactions-cmd-inspector = ตัวตรวจสอบ, devtools
 # Opens about:logins
 quickactions-logins2 = จัดการรหัสผ่าน
@@ -366,6 +396,7 @@ quickactions-restart = เริ่มการทำงาน { -brand-short-na
 quickactions-cmd-restart = เริ่มการทำงานใหม่
 # Opens the screenshot tool
 quickactions-screenshot3 = จับภาพหน้าจอ
+quickactions-cmd-screenshot2 = ภาพหน้าจอ, เก็บภาพหน้าจอ
 quickactions-cmd-screenshot = ภาพหน้าจอ
 # Opens about:preferences
 quickactions-settings2 = จัดการการตั้งค่า
@@ -962,6 +993,9 @@ panel-save-update-password = รหัสผ่าน
 # "More" item in macOS share menu
 menu-share-more =
     .label = เพิ่มเติม…
+menu-share-copy-link =
+    .label = คัดลอกลิงก์
+    .accesskey = ง
 ui-tour-info-panel-close =
     .tooltiptext = ปิด
 

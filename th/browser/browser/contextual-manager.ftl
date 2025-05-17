@@ -78,6 +78,8 @@ contextual-manager-passwords-export-success-heading =
 contextual-manager-passwords-export-success-button = เสร็จสิ้น
 # Export passwords to file dialog
 contextual-manager-export-passwords-dialog-title = ส่งออกรหัสผ่านไปยังไฟล์?
+# This string recommends to the user that they delete the exported password file that is saved on their local machine.
+contextual-manager-export-passwords-dialog-message = หลังจากที่คุณส่งออก เราแนะนำให้ลบรหัสผ่านนั้นออกเพื่อไม่ให้คนอื่นที่อาจใช้อุปกรณ์นี้เห็นรหัสผ่านของคุณได้
 contextual-manager-export-passwords-dialog-confirm-button = ทำการส่งออกต่อไป
 # Title of the file picker dialog
 contextual-manager-passwords-export-file-picker-title = ส่งออกรหัสผ่านจาก { -brand-short-name }
