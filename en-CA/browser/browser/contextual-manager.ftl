@@ -3,9 +3,9 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 contextual-manager-filter-input =
-    .placeholder = Search Passwords
+    .placeholder = Search passwords
     .key = F
-    .aria-label = Search Passwords
+    .aria-label = Search passwords
 contextual-manager-menu-more-options-button =
     .title = More options
 contextual-manager-more-options-popup =
@@ -14,8 +14,8 @@ contextual-manager-more-options-popup =
 ## Passwords
 
 contextual-manager-passwords-command-create = Add password
-contextual-manager-passwords-command-import-from-browser = Import from Another Browser…
-contextual-manager-passwords-command-import = Import from a File…
+contextual-manager-passwords-command-import-from-browser = Import from another browser…
+contextual-manager-passwords-command-import = Import from a file…
 contextual-manager-passwords-command-export = Export passwords
 contextual-manager-passwords-command-remove-all = Remove all passwords
 contextual-manager-passwords-command-settings = Settings
@@ -113,7 +113,7 @@ contextual-manager-passwords-remove-all-confirm =
 contextual-manager-passwords-remove-all-confirm-button =
     { $total ->
         [1] Remove
-       *[other] Remove All
+       *[other] Remove all
     }
 # Message to confirm the removal of all saved passwords when user DOES NOT HAVE SYNC
 #   $total (number) - Total number of passwords
