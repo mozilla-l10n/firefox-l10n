@@ -14,5 +14,6 @@ visionary-colorway-description = شما وضعیت موجود را زیر سوا
 activist-colorway-name = کنشگر
 activist-colorway-description = شما دنیا را طور بهتری نسبت به آن گونه که آن را یافتید ترک می کنید و دیگران را به باور سوق می دهید.
 dreamer-colorway-name = رؤیاپرداز
+dreamer-colorway-description = شما باور دارید که بخت با کسانی است که جسورند و به دیگران برای نترس بودن الهام می‌بخشند.
 innovator-colorway-name = نوآور
 innovator-colorway-description = شما فرصت‌ها را در همه جا می‌بینید و بر زندگی اطرافیان خود تأثیر می‌گذارید.

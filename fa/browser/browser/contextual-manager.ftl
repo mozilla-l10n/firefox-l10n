@@ -6,6 +6,8 @@ contextual-manager-filter-input =
     .placeholder = جستجوی گذرواژه‌ها
     .key = F
     .aria-label = جستجوی گذرواژه‌ها
+contextual-manager-menu-more-options-button =
+    .title = گزینه‌های بیشتر
 contextual-manager-more-options-popup =
     .aria-label = گزینه‌های بیشتر
 
@@ -65,6 +67,9 @@ contextual-manager-passwords-import-success-heading =
 contextual-manager-passwords-import-success-message = تازه: { $added }، به‌روز شده: { $modified }
 contextual-manager-passwords-import-detailed-report = مشاهده ریز گزارش
 contextual-manager-passwords-import-success-button = انجام شد
+contextual-manager-passwords-import-error-heading-and-message =
+    .heading = شکست در درون‌ریزی گذرواژه‌ها
+    .message = اطمینان یابید که پروندهٔ شما، ستونی برای تارنماها، نام‌های کاربری، و گذرواژه‌ها داشته باشد.
 contextual-manager-passwords-import-error-button-try-again = تلاش دوباره
 contextual-manager-passwords-import-error-button-cancel = انصراف
 contextual-manager-passwords-import-learn-more = یادگیری درباره درون‌ریزی گذرواژه‌ها
@@ -78,6 +83,9 @@ contextual-manager-export-passwords-dialog-message = پس از برون‌ریز
 contextual-manager-export-passwords-dialog-confirm-button = ادامه با برون‌ریزی
 # Title of the file picker dialog
 contextual-manager-passwords-export-file-picker-title = برون‌ریزی گذرواژه‌ها از { -brand-short-name }
+# The default file name shown in the file picker when exporting saved logins.
+# The resultant filename will end in .csv (added in code).
+contextual-manager-passwords-export-file-picker-default-filename = گذرواژه‌ها
 contextual-manager-passwords-export-file-picker-export-button = برون‌ریزی
 # A description for the .csv file format that may be shown as the file type
 # filter by the operating system.
@@ -85,6 +93,14 @@ contextual-manager-passwords-export-file-picker-csv-filter-title =
     { PLATFORM() ->
         [macos] سند CSV
        *[other] پرونده CSV
+    }
+# Confirm the removal of all saved passwords
+#   $total (number) - Total number of passwords
+contextual-manager-passwords-remove-all-title =
+    { $total ->
+        [1] گذرواژه پاک شود؟
+        [one] گذرواژه پاک شود؟
+       *[other] همهٔ { $total } گذرواژه پاک شوند؟
     }
 # Checkbox label to confirm the removal of saved passwords
 #   $total (number) - Total number of passwords
@@ -101,10 +117,48 @@ contextual-manager-passwords-remove-all-confirm-button =
         [one] برداشتن
        *[other] برداشتن همه
     }
+contextual-manager-passwords-origin-label = تارنما
+# The attribute .data-after describes the text that should be displayed for the ::after pseudo-selector
+contextual-manager-passwords-username-label = نام کاربری
+    .data-after = رونوشت گرفته شد
+# The attribute .data-after describes the text that should be displayed for the ::after pseudo-selector
+contextual-manager-passwords-password-label = گذرواژه
+    .data-after = رونوشت گرفته شد
+contextual-manager-passwords-radiogroup-label =
+    .aria-label = پالایش گذرواژه‌ها
+# Variables
+#   $url (string) - The url associated with the new login
+contextual-manager-passwords-add-password-success-heading =
+    .heading = گذرواژه برای { $url } افزوده شد
+contextual-manager-passwords-add-password-success-button = نمایش
+# Variables
+#   $url (string) - The url associated with the existing login
+contextual-manager-passwords-password-already-exists-error-heading =
+    .heading = گذرواژه و نام کاربری برای { $url } از قبل وجود دارد
+contextual-manager-passwords-update-password-success-heading =
+    .heading = گذرواژه ذخیره شد
 contextual-manager-passwords-update-password-success-button = انجام شد
+# Message to confirm successful removal of a password/passwords.
+#   $total (number) - Total number of passwords
+contextual-manager-passwords-delete-password-success-heading =
+    .heading =
+        { $total ->
+            [1] گذرواژه پاک شد
+            [one] گذرواژه پاک شد
+           *[other] گذرواژه‌ها پاک شدند
+        }
 contextual-manager-passwords-delete-password-success-button = انجام شد
+#
+# Radiobutton label to display total number of passwords
+#   $total (number) - Total number of passwords
+contextual-manager-passwords-radiobutton-all = همه ({ $total })
+# Radiobutton label to display total number of alerts
+#   $total (number) - Total number of alerts
+contextual-manager-passwords-radiobutton-alerts = هشدارها ({ $total })
 # This message is displayed to make sure that a user wants to delete an existing login.
 contextual-manager-passwords-remove-login-card-title = گذرواژه حذف شود؟
+# This message warns the user that deleting a login is permanent.
+contextual-manager-passwords-remove-login-card-message = نمی‌توانید این کار را برگردانید.
 # This message confirms that the user wants to remove an existing login.
 contextual-manager-passwords-remove-login-card-remove-button = برداشتن
 # This message gives the user the option to cancel their attempt to remove a login.
