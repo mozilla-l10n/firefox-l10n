@@ -59,6 +59,7 @@ history-section-label = Historik
 item-history-and-downloads =
     .label = Browser- og filhentningshistorik
     .accesskey = B
+item-history-and-downloads-description2 = Rydder historik for websteder og filhentninger
 item-history-and-downloads-description = Rydder historik for søgning, websteder og filhentninger
 item-history-form-data-downloads =
     .label = Historik

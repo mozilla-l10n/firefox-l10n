@@ -263,6 +263,10 @@ preferences-web-appearance-choice-input-dark =
     .aria-description = { preferences-web-appearance-choice-tooltip-dark.title }
 # This can appear when using windows HCM or "Override colors: always" without
 # system colors.
+preferences-web-appearance-override-warning3 =
+    .message = Dine indstillinger for kontrast tilsidesætter webstedets udseende.
+# This can appear when using windows HCM or "Override colors: always" without
+# system colors.
 preferences-web-appearance-override-warning = Dine farvevalg tilsidesætter webstedets udseende. <a data-l10n-name="colors-link">Håndter farver</a>
 # This can appear when using windows HCM or "Override colors: always" without
 # system colors.
@@ -645,6 +649,8 @@ home-prefs-weather-header =
     .label = Vejr
 home-prefs-weather-description = Dagens vejrudsigt
 home-prefs-weather-learn-more-link = Lær mere
+home-prefs-mission-message = Vores sponsorer støtter vores mission om at bygge et bedre internet
+home-prefs-mission-message-learn-more-link = Find ud af hvordan
 # Variables:
 #   $num (number) - Number of rows displayed
 home-prefs-sections-rows-option =
@@ -721,6 +727,9 @@ search-keyword-warning-title = Genvej findes allerede
 #   $name (string) - Name of a search engine.
 search-keyword-warning-engine = Du har valgt en genvej som allerede bruges af "{ $name }". Vælg venligst en anden.
 search-keyword-warning-bookmark = Du har valgt en genvej som bruges af et bogmærke. Vælg venligst en anden.
+remove-engine-confirmation = Er du sikker på, at du vil fjerne denne søgetjeneste?
+remove-engine-remove = Fjern
+remove-addon-engine-alert = For at fjerne denne søgetjeneste skal du fjerne den tilknyttede tilføjelse.
 
 ## Containers Section
 

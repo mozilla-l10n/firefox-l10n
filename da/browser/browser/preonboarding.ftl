@@ -8,6 +8,7 @@
 preonboarding-title = Velkommen til { -brand-product-name }
 preonboarding-subtitle = Ved at fortsætte accepterer du betingelser for brug af { -brand-product-name } og vores privatlivserklæring. For at forbedre browseren sender { -brand-product-name } diagnosticeringsdata og data for brug til { -vendor-short-name }.
 preonboarding-primary-cta = Bekræft og fortsæt
+preonboarding-primary-cta-v2 = Fortsæt
 # Labels for header style button that toggles showing the terms of use, privacy notice, and data preferences checklist
 preonboarding-manage-and-read-header = Håndter indstillinger for indsamling af data og læs vores betingelser for brug og vores privatlivserklæring
 # Label for header style button that toggles showing the Terms of Use
@@ -18,8 +19,10 @@ preonboarding-privacy-notice-header-button-title = Læs vores privatlivserklæri
 preonboarding-manage-data-header-button-title = Håndter diagnosticeringsdata og data for brug
 # Labels for header style button that toggles showing the Terms of Use (Variant B)
 preonboarding-terms-of-use-header-button-title-b = Betingelser for brug af { -brand-product-name }
+preonboarding-terms-of-use-header-button-title-b-v2 = Betingelser for brug
 # Labels for header style button that toggles showing the Privacy Notice (Variant B)
 preonboarding-privacy-notice-header-button-title-b = Privatlivserklæring for { -brand-product-name }
+preonboarding-privacy-notice-header-button-title-b-v2 = Privatlivserklæring
 # Description under label for header style buttons
 preonboarding-header-button-description = Læs mere
 # New user onboarding checklist

@@ -78,10 +78,16 @@ sidebar-context-menu-remove-extension =
     .label = Fjern udvidelse
 sidebar-context-menu-report-extension =
     .label = Rapporter udvidelse
+sidebar-context-menu-open-in-tab =
+    .label = Åbn i nyt faneblad
+sidebar-context-menu-open-in-container-tab =
+    .label = Åbn i nyt kontekst-faneblad
 sidebar-context-menu-open-in-window =
     .label = Åbn i et nyt vindue
 sidebar-context-menu-open-in-private-window =
     .label = Åbn i et nyt privat vindue
+sidebar-context-menu-forget-site =
+    .label = Ryd alle data for websted…
 sidebar-context-menu-bookmark-tab =
     .label = Bogmærk faneblad…
 sidebar-context-menu-copy-link =
@@ -101,6 +107,10 @@ sidebar-context-menu-close-remote-tab =
 
 sidebar-history-context-menu-delete-page =
     .label = Slet fra historik
+sidebar-history-context-menu-delete-page-2 =
+    .label = Slet side fra historik
+sidebar-history-context-menu-bookmark-page =
+    .label = Bogmærk side…
 
 ## Labels for sidebar menu items.
 
