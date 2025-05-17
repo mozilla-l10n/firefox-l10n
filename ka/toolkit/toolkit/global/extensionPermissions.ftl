@@ -61,3 +61,15 @@ webext-perms-description-data-short-websiteContent = ვებშიგთავ
 
 ## Long form to be used in `about:addons` when these data collection permissions are optional.
 
+webext-perms-description-data-long-authenticationInfo = ტექნიკური და ურთიერთქმედების მონაცემების გაზიარება გაფართოების შემმუშავებლისთვის
+webext-perms-description-data-long-bookmarksInfo = სანიშნების მონაცემების გაზიარება გაფართოების შემმუშავებლისთვის
+webext-perms-description-data-long-browsingActivity = მონახულებული გვერდების გაზიარება გაფართოების შემმუშავებლისთვის
+webext-perms-description-data-long-financialAndPaymentInfo = ფინანსური და გადახდის მონაცემების გაზიარება გაფართოების შემმუშავებლისთვის
+webext-perms-description-data-long-healthInfo = ჯანმრთელობის მონაცემების გაზიარება გაფართოების შემმუშავებლისთვის
+webext-perms-description-data-long-locationInfo = ადგილმდებარეობის მონაცემების გაზიარება გაფართოების შემმუშავებლისთვის
+webext-perms-description-data-long-personalCommunications = პირადი კავშირების გაზიარება გაფართოების შემმუშავებლისთვის
+webext-perms-description-data-long-personallyIdentifyingInfo = პირის ამოსაცნობი მონაცემების გაზიარება გაფართოების შემმუშავებლისთვის
+webext-perms-description-data-long-searchTerms = საძიებო ფრაზების გაზიარება გაფართოების შემმუშავებლისთვის
+webext-perms-description-data-long-technicalAndInteraction = ტექნიკური და ურთიერთქმედების მონაცემების გაზიარება გაფართოების შემმუშავებლისთვის
+webext-perms-description-data-long-websiteActivity = ვებსაიტზე მოქმედებების გაზიარება გაფართოების შემმუშავებლისთვის
+webext-perms-description-data-long-websiteContent = ვებსაიტის შიგთავსის გაზიარება გაფართოების შემმუშავებლისთვის
