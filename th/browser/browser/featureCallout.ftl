@@ -62,15 +62,45 @@ split-dismiss-button-show-fewer-option =
 # Opens about:preferences#general-cfrfeatures
 split-dismiss-button-manage-settings-option =
     .label = จัดการการตั้งค่า
+# Accessibility label for dropdown menu button
+split-dismiss-button-default-label =
+    .title = ตัวเลือกเพิ่มเติม
 
 ## Login Status Advisory Callout (points to the account icon)
 
+# The 'account icon' is the toolbar button with a 'profile' icon of a human
+# head/shoulders. It's for dealing with your Mozilla account. When hovering the
+# icon, the tooltip says 'Account'.
+login-status-advisory-title = คุณลงชื่อออกแล้ว คลิกที่ไอคอนบัญชีเพื่อลงชื่อเข้า
 
 ## Bookmarks toolbar callout strings
 
+bookmarks-toolbar-callout-1-title = เพิ่มไซต์นี้ลงในแถบเครื่องมือที่คั่นหน้าของคุณหรือไม่?
+bookmarks-toolbar-callout-1-subtitle = ที่คั่นหน้าของคุณจะถูกบันทึกภายใต้แถบที่อยู่เพื่อการเข้าถึงที่รวดเร็ว
+bookmarks-toolbar-callout-1-primary-button-label = เพิ่มที่คั่นหน้า
+bookmarks-toolbar-callout-1-secondary-button-label = ไม่เป็นไร ขอบคุณ
+# Visible if user adds a bookmark in callout 1, bookmarks toolbar is set to always show when this message renders
+bookmarks-toolbar-callout-2a-title = เพิ่มที่คั่นหน้าอย่างง่ายดาย
+bookmarks-toolbar-callout-2a-subtitle = คุณสามารถลากและปล่อยแท็บที่นี่เพื่อเข้าถึงไซต์โปรดของคุณได้เพียงแค่เอื้อม
+bookmarks-toolbar-callout-2a-primary-button-label = เข้าใจแล้ว
+# Reverts the bookmarks toolbar to the default setting
+bookmarks-toolbar-callout-2a-secondary-button-label = ซ่อนแถบเครื่องมือ
+# Visible if user declines to add a bookmark in callout 1, bookmarks toolbar is set to always show when this message renders
+bookmarks-toolbar-callout-2b-title = เปิดแถบเครื่องมือที่คั่นหน้าของคุณไว้หรือไม่?
+bookmarks-toolbar-callout-2b-subtitle = คุณสามารถเพิ่มไซต์อื่นๆ ที่คุณเยี่ยมชมบ่อยได้ เพียงลากและปล่อยแท็บต่างๆ ที่นี่เพื่อเข้าถึงไซต์โปรดของคุณได้เพียงแค่เอื้อม
+bookmarks-toolbar-callout-2b-primary-button-label = เปิดไว้
+# Reverts the bookmarks toolbar to the default setting
+bookmarks-toolbar-callout-2b-secondary-button-label = ไม่เป็นไร ขอบคุณ
 
 ## Perplexity callout strings
 
+perplexity-callout-theme-1-title = ต้องการคำตอบที่ถูกต้องทันทีใช่ไหม?
+perplexity-callout-theme-2-title = ลองใช้ Perplexity: วิธีใหม่ในการค้นหา
+perplexity-callout-theme-1-subtitle-1 = ลองใช้ Perplexity โดยเลือกจากปุ่มค้นหาเมื่อคุณต้องการคำตอบที่สมบูรณ์และมีแหล่งข้อมูลประกอบ
+perplexity-callout-theme-1-subtitle-2 = ถามคำถามและรับคำตอบที่สมบูรณ์และมีแหล่งข้อมูลประกอบ เมื่อต้องการลองใช้ Perplexity ให้เลือกจากปุ่มค้นหา
+perplexity-callout-theme-2-subtitle-1 = ถาม Perplexity เลย คุณจะได้รับคำตอบที่สมบูรณ์และมีแหล่งข้อมูลประกอบ
+perplexity-callout-theme-2-subtitle-2 = ถามคำถามเลย เพื่อรับคำตอบที่สมบูรณ์และมีแหล่งข้อมูลประกอบ
+perplexity-callout-primary-label = ถาม Perplexity
 
 ## Sidebar Strings
 

@@ -142,10 +142,35 @@ contextual-manager-passwords-radiogroup-label =
 #   $url (string) - The url associated with the new login
 contextual-manager-passwords-add-password-success-heading =
     .heading = เพิ่มรหัสผ่านสำหรับ { $url } แล้ว
+contextual-manager-passwords-add-password-success-button = ดู
+# Variables
+#   $url (string) - The url associated with the existing login
+contextual-manager-passwords-password-already-exists-error-heading =
+    .heading = มีรหัสผ่านและชื่อผู้ใช้สำหรับ { $url } อยู่แล้ว
+contextual-manager-passwords-password-already-exists-error-button = ไปที่รหัสผ่าน
+contextual-manager-passwords-update-password-success-heading =
+    .heading = บันทึกรหัสผ่านแล้ว
 contextual-manager-passwords-update-password-success-button = เสร็จสิ้น
+# Message to confirm successful removal of a password/passwords.
+#   $total (number) - Total number of passwords
+contextual-manager-passwords-delete-password-success-heading =
+    .heading =
+        { $total ->
+            [1] ลบรหัสผ่านแล้ว
+           *[other] ลบรหัสผ่านแล้ว
+        }
 contextual-manager-passwords-delete-password-success-button = เสร็จสิ้น
+#
+# Radiobutton label to display total number of passwords
+#   $total (number) - Total number of passwords
+contextual-manager-passwords-radiobutton-all = ทั้งหมด ({ $total })
+# Radiobutton label to display total number of alerts
+#   $total (number) - Total number of alerts
+contextual-manager-passwords-radiobutton-alerts = การแจ้งเตือน ({ $total })
 # This message is displayed to make sure that a user wants to delete an existing login.
 contextual-manager-passwords-remove-login-card-title = ลบรหัสผ่านหรือไม่?
+# This message warns the user that deleting a login is permanent.
+contextual-manager-passwords-remove-login-card-message = คุณไม่สามารถเรียกคืนการกระทำนี้ได้
 # This message confirms that the user wants to remove an existing login.
 contextual-manager-passwords-remove-login-card-remove-button = ลบ
 # This message gives the user the option to cancel their attempt to remove a login.
@@ -162,11 +187,38 @@ contextual-manager-passwords-list-label =
     .aria-label = รหัสผ่าน
 contextual-manager-copy-icon =
     .alt = คัดลอก
+contextual-manager-hide-password-button =
+    .aria-label = ซ่อนรหัสผ่าน
+    .title = ซ่อนรหัสผ่าน
+# The message displayed when the search text does not match any of the user's saved logins.
+contextual-manager-passwords-no-passwords-found-header =
+    .heading = ไม่พบรหัสผ่าน
+contextual-manager-passwords-no-passwords-found-message = ไม่พบรหัสผ่าน โปรดค้นหาด้วยคำอื่นแล้วลองอีกครั้ง
 
 ## When the user has no saved passwords, we display the following messages to inform the user they can save
 ## their passwords safely and securely in Firefox:
 
+# This string encourages the user to save their passwords in Firefox (the "safe spot").
+contextual-manager-passwords-no-passwords-header = บันทึกรหัสผ่านของคุณไว้ในที่ปลอดภัย
+# This string informs that we (Firefox) store all passwords securely and will notify them of any breaches and alerts their
+# passwords may be involved in.
+contextual-manager-passwords-no-passwords-message = รหัสผ่านทั้งหมดจะถูกเข้ารหัสลับและเราจะคอยเฝ้าสังเกตการรั่วไหลและจะแจ้งเตือนเมื่อคุณได้รับผลกระทบ
+# This string encourages the user to save their passwords to Firefox again.
+contextual-manager-passwords-no-passwords-get-started-message = เพิ่มรหัสผ่านเหล่านั้นที่นี่เพื่อเริ่มต้นใช้งาน
+# This string is displayed in a button. If the user clicks it, they will be taken to a form to create a new password.
+contextual-manager-passwords-add-manually = เพิ่มด้วยตนเอง
 
 ## When the user cancels a login that's currently being edited, we display a message to confirm whether
 ## or not the user wants to discard their current edits to the login.
 
+contextual-manager-passwords-discard-changes-heading-and-message =
+    .heading = ปิดโดยไม่บันทึกหรือไม่?
+    .message = การเปลี่ยนแปลงของคุณจะไม่ถูกบันทึก
+contextual-manager-passwords-discard-changes-close-button = ปิด
+contextual-manager-passwords-discard-changes-go-back-button = ย้อนกลับ
+#   $total (number) - Total number of passwords
+contextual-manager-passwords-remove-all-passwords-checkbox =
+    { $total ->
+        [1] ใช่ ลบรหัสผ่าน
+       *[other] ใช่ ลบรหัสผ่าน
+    }
