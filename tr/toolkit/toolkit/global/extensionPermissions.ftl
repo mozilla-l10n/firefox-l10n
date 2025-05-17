@@ -53,6 +53,7 @@ webext-perms-description-data-short-financialAndPaymentInfo = finansal bilgiler 
 webext-perms-description-data-short-healthInfo = sağlık bilgileri
 webext-perms-description-data-short-locationInfo = konum
 webext-perms-description-data-short-personalCommunications = kişisel iletişim
+webext-perms-description-data-short-personallyIdentifyingInfo = kişisel bilgiler
 webext-perms-description-data-short-searchTerms = arama terimleri
 webext-perms-description-data-short-technicalAndInteraction = teknik veriler ve etkileşim verileri
 webext-perms-description-data-short-websiteActivity = web sitesi etkinliği
@@ -60,3 +61,15 @@ webext-perms-description-data-short-websiteContent = web sitesi içeriği
 
 ## Long form to be used in `about:addons` when these data collection permissions are optional.
 
+webext-perms-description-data-long-authenticationInfo = Kimlik doğrulama bilgilerini uzantı geliştiricisiyle paylaşma
+webext-perms-description-data-long-bookmarksInfo = Yer imi bilgilerini uzantı geliştiricisiyle paylaşma
+webext-perms-description-data-long-browsingActivity = Gezinti etkinliğini uzantı geliştiricisiyle paylaşma
+webext-perms-description-data-long-financialAndPaymentInfo = Finansal bilgileri ve ödeme bilgilerini uzantı geliştiricisiyle paylaşma
+webext-perms-description-data-long-healthInfo = Sağlık bilgilerini uzantı geliştiricisiyle paylaşma
+webext-perms-description-data-long-locationInfo = Konum bilgilerini uzantı geliştiricisiyle paylaşma
+webext-perms-description-data-long-personalCommunications = Kişisel iletişimi uzantı geliştiricisiyle paylaşma
+webext-perms-description-data-long-personallyIdentifyingInfo = Kişisel bilgileri uzantı geliştiricisiyle paylaşma
+webext-perms-description-data-long-searchTerms = Arama terimlerini uzantı geliştiricisiyle paylaşma
+webext-perms-description-data-long-technicalAndInteraction = Teknik verileri ve etkileşim verilerini uzantı geliştiricisiyle paylaşma
+webext-perms-description-data-long-websiteActivity = Web sitesi etkinliğini uzantı geliştiricisiyle paylaşma
+webext-perms-description-data-long-websiteContent = Web sitesi içeriğini uzantı geliştiricisiyle paylaşma
