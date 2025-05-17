@@ -566,7 +566,7 @@ plugins-gmp-privacy-info = პირადი მონაცემების 
 plugins-openh264-name = OpenH264-ვიდეომშიფრავი, უზრუნველყოფს Cisco Systems, Inc.
 plugins-openh264-description = ეს მოდული ავტომატურად ჩადგა Mozilla-მ WebRTC-თან სამუშაოდ და WebRTC-ზარების ასამოქმედებლად იმ მოწყობილობებზე, რომლებიც საჭიროებს H.264-სახის ვიდეომშიფრავს. ვრცლად, მათ შორის ამ მშიფრავის წყაროს შესახებ, იხილავთ http://www.openh264.org/ ბმულზე.
 plugins-widevine-name = Widevine შიგთავსის გამშიფრავი მოდული. მომწოდებელი: Google Inc.
-plugins-widevine-description = ეს მოდული საშუალებას იძლევა გაეშვას დაშიფრული ფაილები, Encrypted Media Extensions-ის მოთხოვნების შესაბამისად. დაშიფრულ ფაილებს ჩვეულებრივ საიტები იყენებენ, ძვირადღირებული მასალების უნებართვო მოპარვისა და გავრცელებისგან დასაცავად. იხილეთ https://www.w3.org/TR/encrypted-media/ დამატებითი ინფორმაციისთვის Encrypted Media Extensions-ის შესახებ.
+plugins-widevine-description = ეს მოდული დაშიფრული ფაილების გაშვების საშუალებას იძლევა, რომელთა მოთხოვნებსაც განსაზღვრავს Encrypted Media Extensions. ჩვეულებრივ, დაშიფრულ ფაილებს საიტები იყენებენ ძვირადღირებული მასალების უნებართვო მოპარვისა და გავრცელებისგან დასაცავად. ინახულეთ https://www.w3.org/TR/encrypted-media/ და იხილეთ ვრცლად Encrypted Media Extensions.
 
 ## Headings for the Permissions tab in `about:addons` when the data collection
 ## feature is enabled.
