@@ -62,3 +62,14 @@ webext-perms-description-data-short-websiteContent = enhavo de retumoj
 ## Long form to be used in `about:addons` when these data collection permissions are optional.
 
 webext-perms-description-data-long-authenticationInfo = Dividi aŭtentigan informon kun la programisto de la etendaĵo
+webext-perms-description-data-long-bookmarksInfo = Divid legosignan informon kun la programisto de la etendaĵo
+webext-perms-description-data-long-browsingActivity = Dividi retumon kun la programisto de la etendaĵo
+webext-perms-description-data-long-financialAndPaymentInfo = Dividi financan kaj pagan informon kun la programisto de la etendaĵo
+webext-perms-description-data-long-healthInfo = Dividi sanan informon kun la programisto de la etendaĵo
+webext-perms-description-data-long-locationInfo = Dividi informon pri loko kun la programisto de la etendaĵo
+webext-perms-description-data-long-personalCommunications = Dividi personan komunikadon kun la programisto de la etendaĵo
+webext-perms-description-data-long-personallyIdentifyingInfo = Dividi personajn datumojn kun la programisto de la etendaĵo
+webext-perms-description-data-long-searchTerms = Dividi serĉajn tekstojn kun la programisto de la etendaĵo
+webext-perms-description-data-long-technicalAndInteraction = Dividi teknikajn kaj interagajn datumojn kun la programisto de la etendaĵo
+webext-perms-description-data-long-websiteActivity = Dividi retumon en retejoj kun la programisto de la etendaĵo
+webext-perms-description-data-long-websiteContent = Dividi enhavon de retejoj kun la programisto de la etendaĵo
