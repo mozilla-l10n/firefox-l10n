@@ -68,6 +68,7 @@ split-dismiss-button-manage-settings-option =
 
 ## Bookmarks toolbar callout strings
 
+bookmarks-toolbar-callout-1-primary-button-label = افزودن نشانک
 
 ## Perplexity callout strings
 

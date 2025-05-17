@@ -163,6 +163,8 @@ contextual-manager-passwords-remove-login-card-message = نمی‌توانید �
 contextual-manager-passwords-remove-login-card-remove-button = برداشتن
 # This message gives the user the option to cancel their attempt to remove a login.
 contextual-manager-passwords-remove-login-card-cancel-button = لغو
+contextual-manager-passwords-alert-card =
+    .aria-label = هشدارهای گذرواژه
 contextual-manager-passwords-alert-list =
     .aria-label = فهرست هشدار
 contextual-manager-passwords-breached-origin-heading-and-message =
