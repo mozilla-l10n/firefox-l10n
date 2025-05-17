@@ -109,6 +109,25 @@ webext-perms-host-description-multiple-domains =
 ## Strings for data collection permissions in the permission prompt.
 
 webext-perms-description-data-none = El desarrollador dice que esta extensión no requiere recolección de datos.
+# Variables:
+#    $permissions (String): a list of data collection permissions formatted with `Intl.ListFormat` using the "narrow" style.
+webext-perms-description-data-some = El desarrollador dice que esta extensión recolecta: { $permissions }
+# Variables:
+#    $permissions (String): a list of data collection permissions formatted with `Intl.ListFormat` using the "narrow" style.
+webext-perms-description-data-some-update = El desarrollador dice que la extensión recolectará: { $permissions }
+# Variables:
+#    $permissions (String): a list of data collection permissions formatted with `Intl.ListFormat` using the "narrow" style.
+webext-perms-description-data-some-optional = El desarrollador dice que la extensión quiere recolectar: { $permissions }
+# Variables:
+#   $extension (String): replaced with the localized name of the extension.
+webext-perms-update-text-with-data-collection = { $extension } requiere una nueva configuración para actualizar
+webext-perms-update-list-intro-with-data-collection = Cancelar para mantener la versión y configuración actuales, o actualizar para obtener la nueva versión y aprobar los cambios.
+# Variables:
+#   $extension (String): replaced with the localized name of the extension.
+webext-perms-optional-text-with-data-collection = { $extension } solicita configuraciones adicionales
+# Variables:
+#   $extension (String): replaced with the localized name of the extension.
+webext-perms-optional-text-with-data-collection-only = { $extension } solicita recolección de datos adicionales
 
 ## Headers used in the webextension permissions dialog for synthetic add-ons.
 ## The part of the string describing what privileges the extension gives should be consistent
