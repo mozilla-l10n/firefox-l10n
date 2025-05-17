@@ -97,6 +97,12 @@ bookmarks-toolbar-callout-2b-secondary-button-label = Ne, dankon
 perplexity-callout-theme-1-title = Ĉu vi bezonas la ĝustan respondon, tuj?
 perplexity-callout-theme-2-title = Provu Perplexity: nova maniero serĉi
 perplexity-callout-theme-1-subtitle-1 = Provu Perplexity. Elektu ĝin el la serĉa butono kiam vi bezonas tutajn respondojn, kun fontoj.
+perplexity-callout-theme-1-subtitle-2 = Demandu aferojn. Ricevu tutaj, bone cititajn respondojn. Por provi Perplexity, elektu ĝin el la serĉa butono.
+perplexity-callout-theme-2-subtitle-1 = Demandu ion al Perplexity. Vi ricevos kompletajn respondojn, kun fontoj.
+perplexity-callout-theme-2-subtitle-2 = Demandu aferojn. Ricevu tutajn, bone cititajn respondojn.
+perplexity-callout-primary-label = Demandu al Perplexity
+perplexity-callout-secondary-label-1 = Ignori
+perplexity-callout-secondary-label-2 = Mi komprenis
 
 ## Sidebar Strings
 

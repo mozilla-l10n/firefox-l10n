@@ -15,10 +15,25 @@ webext-perms-header-with-perms = Ĉu aldoni { $extension }? Tiu ĉi etendaĵo ha
 webext-perms-header-unsigned = Ĉu aldoni { $extension }? Tiu ĉi etendaĵo ne estis kontrolita. Malicaj etendaĵoj povas ŝteli vian privatajn datumojn aŭ malŝirmi vian komputilon. Aldonu ĝin nur se vi fidas la originon.
 webext-perms-header-unsigned-with-perms = Ĉu aldoni { $extension }? Tiu ĉi etendaĵo ne estis kontrolita. Malicaj etendaĵoj povas ŝteli vian privatajn datumojn aŭ malŝirmi vian komputilon. Aldonu ĝin nur se vi fidas la originon. Tiu ĉi etendaĵo havos la jenajn permesojn:
 webext-perms-sideload-header = { $extension } aldonita
+webext-perms-optional-perms-header2 = { $extension } petas aldonajn permesojn
 webext-perms-optional-perms-header = { $extension } petas aldonajn permesojn.
+webext-perms-header2 = Aldoni { $extension }
+webext-perms-list-intro-unsigned = Tiu ĉi nekontrolia etendaĵo povus riski vian privatecon aŭ elmeti vian aparaton. Aldonu ĝin nur se vi fidas la fonton.
 
 ## Headers used in the webextension permissions dialog, inside the content.
 
+webext-perms-header-required-perms = Postulataj permesoj:
+webext-perms-header-optional-settings = Nedevigaj agordoj:
+webext-perms-header-update-required-perms = Novaj postulataj permesoj:
+webext-perms-header-optional-required-perms = Novaj permesoj:
+webext-perms-header-data-collection-perms = Postulata kolekto de datumoj:
+webext-perms-header-data-collection-is-none = Kolekto de datumoj:
+# This is a header used in the add-ons "update" prompt, shown when the new
+# version requires new data collection permissions.
+webext-perms-header-update-data-collection-perms = Nova postulata kolekto de datumoj:
+# This is a header used in the add-ons "optional" prompt, shown when the
+# extension requests new data collection permissions programmatically.
+webext-perms-header-optional-data-collection-perms = Nova kolekto de datumoj:
 
 ##
 

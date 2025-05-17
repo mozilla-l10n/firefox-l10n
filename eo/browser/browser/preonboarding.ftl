@@ -8,8 +8,10 @@
 preonboarding-title = Bonvenon al { -brand-product-name }
 preonboarding-subtitle = Se vi daŭrigas vi akceptas la kondiĉojn de uzo de { -brand-product-name } kaj ĝian rimarkon pri privateco. Por helpi nin plibonigi la retumilon, { -brand-product-name } sendas diagnozajn kaj interagajn datumojn al { -vendor-short-name }.
 preonboarding-primary-cta = Konfirmi kaj daŭrigi
+preonboarding-primary-cta-v2 = Daŭrigi
 # Labels for header style button that toggles showing the terms of use, privacy notice, and data preferences checklist
 preonboarding-manage-and-read-header = Administru la agordojn de datumkolekto kaj legu niajn kondiĉojn de uzo kaj rimarkon pri privateco
+preonboarding-manage-and-read-header-v2 = Legu la kondiĉojn de uzo kaj politikon pri privateco. Administru aldonajn agordojn.
 # Label for header style button that toggles showing the Terms of Use
 preonboarding-terms-of-use-header-button-title = Legu niajn kondiĉojn de uzo
 # Label for header style button that toggles showing the Privacy Notice
@@ -18,8 +20,10 @@ preonboarding-privacy-notice-header-button-title = Legu nian rimarkon pri privat
 preonboarding-manage-data-header-button-title = Administri diagnozajn kaj interagajn datumojn
 # Labels for header style button that toggles showing the Terms of Use (Variant B)
 preonboarding-terms-of-use-header-button-title-b = Kondiĉoj de uzo de { -brand-product-name }
+preonboarding-terms-of-use-header-button-title-b-v2 = Kondiĉoj de uzo
 # Labels for header style button that toggles showing the Privacy Notice (Variant B)
 preonboarding-privacy-notice-header-button-title-b = Rimarko pri privateco de { -brand-product-name }
+preonboarding-privacy-notice-header-button-title-b-v2 = Rimarko pri privateco
 # Description under label for header style buttons
 preonboarding-header-button-description = Pli da informo
 # New user onboarding checklist
