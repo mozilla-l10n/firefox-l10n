@@ -46,6 +46,10 @@ webext-perms-extra-warning-userScripts-short = გადაუმოწმებ
 ##
 ## This is used when the data collection permissions are required.
 
+webext-perms-description-data-short-authenticationInfo = ანგარიშის დამოწმების მონაცემები
+webext-perms-description-data-short-bookmarksInfo = სანიშნები
+webext-perms-description-data-short-browsingActivity = მონახულებული გვერდები
+webext-perms-description-data-short-financialAndPaymentInfo = ფინანსური და საგადასახადო მონაცემები
 
 ## Long form to be used in `about:addons` when these data collection permissions are optional.
 
