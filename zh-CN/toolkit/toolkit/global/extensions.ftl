@@ -15,8 +15,8 @@ webext-perms-header-with-perms = 要添加“{ $extension }”吗？此扩展将
 webext-perms-header-unsigned = 要添加“{ $extension }”吗？此扩展未经验证。恶意的扩展可能会窃取您的私密信息或损坏您的计算机。请仅在信任其来源时才安装。
 webext-perms-header-unsigned-with-perms = 要添加“{ $extension }”吗？此扩展未经验证。恶意的扩展可能会窃取您的私密信息或损坏您的计算机。请仅在信任其来源时才安装。此扩展将可执行下列操作：
 webext-perms-sideload-header = 已添加“{ $extension }”
-webext-perms-optional-perms-header2 = “{ $extension }”需要额外权限
-webext-perms-optional-perms-header = “{ $extension }”需要额外权限。
+webext-perms-optional-perms-header2 = “{ $extension }”请求获取额外权限
+webext-perms-optional-perms-header = “{ $extension }”请求获取额外权限。
 webext-perms-header2 = 添加“{ $extension }”
 webext-perms-list-intro-unsigned = 此扩展未经验证，可能使您的隐私面临风险或损害您的设备。请仅在信任其来源时才安装。
 
@@ -88,6 +88,16 @@ webext-perms-host-description-multiple-domains = 访问您在 { $domainCount } �
 
 ## Strings for data collection permissions in the permission prompt.
 
+# Variables:
+#   $extension (String): replaced with the localized name of the extension.
+webext-perms-update-text-with-data-collection = “{ $extension }”需要新的设置才能更新
+webext-perms-update-list-intro-with-data-collection = 选择“取消”可保持当前版本和设置，或选择“更新”以获取新版本并批准更改。
+# Variables:
+#   $extension (String): replaced with the localized name of the extension.
+webext-perms-optional-text-with-data-collection = “{ $extension }”请求进行额外设置
+# Variables:
+#   $extension (String): replaced with the localized name of the extension.
+webext-perms-optional-text-with-data-collection-only = “{ $extension }”请求收集额外数据
 
 ## Headers used in the webextension permissions dialog for synthetic add-ons.
 ## The part of the string describing what privileges the extension gives should be consistent
@@ -125,4 +135,5 @@ webext-site-perms-midi-sysex = 访问支持 SysEx 的 MIDI 设备
 
 ## Colorway theme migration
 
+webext-colorway-theme-migration-notification-message = <b>您的配色主题已移除。</b>{ -brand-shorter-name } 更新了配色收藏集，您可以在附加组件站上获取最新版本。
 webext-colorway-theme-migration-notification-button = 获取新版配色主题

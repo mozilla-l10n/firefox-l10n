@@ -188,6 +188,8 @@ migration-chrome-windows-password-import-header = 从 Chrome 导入密码的方�
 migration-chrome-windows-password-import-steps-header = 在 Chrome 中：
 migration-chrome-windows-password-import-step1 = 打开主菜单 <img data-l10n-name="chrome-icon-3dots"/>，前往“密码和自动填充”>“Google 密码管理工具”。
 migration-chrome-windows-password-import-step2 = 选择菜单中的“设置”。
+migration-chrome-windows-password-import-step3 = 选择“下载文件”并将其保存到设备。
+migration-chrome-windows-password-import-step4 = 回到此处，选择“选择文件”以完成导入。
 migration-manual-password-import-skip-button = 跳过
 migration-manual-password-import-select-button = 选择文件
 migration-safari-password-import-skip-button = 跳过

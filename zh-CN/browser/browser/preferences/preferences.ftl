@@ -645,6 +645,8 @@ home-prefs-weather-header =
     .label = 天气
 home-prefs-weather-description = 速览今日天气预报
 home-prefs-weather-learn-more-link = 详细了解
+home-prefs-mission-message = 我们的赞助商可支持我们的使命，即建设更好的互联网
+home-prefs-mission-message-learn-more-link = 了解其方式
 # Variables:
 #   $num (number) - Number of rows displayed
 home-prefs-sections-rows-option =
@@ -717,6 +719,9 @@ search-keyword-warning-title = 关键词重复
 #   $name (string) - Name of a search engine.
 search-keyword-warning-engine = 您选择的关键词已用于“{ $name }”，请换一个。
 search-keyword-warning-bookmark = 您选择的关键词已用于某个书签，请换一个。
+remove-engine-confirmation = 您确定要移除此搜索引擎吗？
+remove-engine-remove = 移除
+remove-addon-engine-alert = 若要移除此搜索引擎，请先移除关联的附加组件。
 
 ## Containers Section
 

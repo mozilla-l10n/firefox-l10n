@@ -130,3 +130,10 @@ tab-context-send-tabs-to-device =
            *[other] 发送 { $tabCount } 个标签页至设备
         }
     .accesskey = n
+tab-context-unload-n-tabs =
+    .label =
+        { $tabCount ->
+            [1] 卸载标签页
+           *[other] 卸载 { $tabCount } 个标签页
+        }
+    .accesskey = U

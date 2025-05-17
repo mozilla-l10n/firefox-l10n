@@ -46,6 +46,30 @@ webext-perms-extra-warning-userScripts-short = 未经验证的脚本可能带来
 ##
 ## This is used when the data collection permissions are required.
 
+webext-perms-description-data-short-authenticationInfo = 身份验证信息
+webext-perms-description-data-short-bookmarksInfo = 书签
+webext-perms-description-data-short-browsingActivity = 浏览活动
+webext-perms-description-data-short-financialAndPaymentInfo = 财务和付款信息
+webext-perms-description-data-short-healthInfo = 健康信息
+webext-perms-description-data-short-locationInfo = 位置
+webext-perms-description-data-short-personalCommunications = 个人通信
+webext-perms-description-data-short-personallyIdentifyingInfo = 个人身份信息
+webext-perms-description-data-short-searchTerms = 搜索词
+webext-perms-description-data-short-technicalAndInteraction = 技术和交互数据
+webext-perms-description-data-short-websiteActivity = 网站活动
+webext-perms-description-data-short-websiteContent = 网站内容
 
 ## Long form to be used in `about:addons` when these data collection permissions are optional.
 
+webext-perms-description-data-long-authenticationInfo = 与扩展开发者分享身份验证信息
+webext-perms-description-data-long-bookmarksInfo = 与扩展开发者分享书签信息
+webext-perms-description-data-long-browsingActivity = 与扩展开发者分享浏览活动
+webext-perms-description-data-long-financialAndPaymentInfo = 与扩展开发者分享财务和付款信息
+webext-perms-description-data-long-healthInfo = 与扩展开发者分享健康信息
+webext-perms-description-data-long-locationInfo = 与扩展开发者分享位置信息
+webext-perms-description-data-long-personalCommunications = 与扩展开发者分享个人通信
+webext-perms-description-data-long-personallyIdentifyingInfo = 与扩展开发者分享个人身份信息
+webext-perms-description-data-long-searchTerms = 与扩展开发者分享搜索词
+webext-perms-description-data-long-technicalAndInteraction = 与扩展开发者分享技术和交互数据
+webext-perms-description-data-long-websiteActivity = 与扩展开发者分享网站活动
+webext-perms-description-data-long-websiteContent = 与扩展开发者分享网站内容
