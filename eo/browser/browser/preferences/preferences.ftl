@@ -649,6 +649,8 @@ home-prefs-weather-header =
     .label = Vetero
 home-prefs-weather-description = Rapida rigardo al la veterprognozo hodiaŭa
 home-prefs-weather-learn-more-link = Pli da informo
+home-prefs-mission-message = Niaj patronoj subtenas nian mision: krei pli bonan interreton.
+home-prefs-mission-message-learn-more-link = Malkovri kiel
 # Variables:
 #   $num (number) - Number of rows displayed
 home-prefs-sections-rows-option =
@@ -725,6 +727,9 @@ search-keyword-warning-title = Duobligita kategoria vorto
 #   $name (string) - Name of a search engine.
 search-keyword-warning-engine = Vi elektis kategorian vorton kiu estas nuntempe uzata de "{ $name }". Bonvolu elekti alian.
 search-keyword-warning-bookmark = Vi elektis kategorian vorton kiu estas nuntempe uzata de legosigno. Bonvolu elekti alian.
+remove-engine-confirmation = Ĉu vi certe volas forigi tiun ĉi serĉilon?
+remove-engine-remove = Forigi
+remove-addon-engine-alert = Por forigi tiun ĉi serĉilon, forigu la asociitan aldonaĵon.
 
 ## Containers Section
 

@@ -344,6 +344,10 @@ search-one-offs-actions =
 
 # Opens the about:addons page in the home / recommendations section
 quickactions-addons = Vidi aldonaĵojn
+# In English we provide multiple spellings for "add-ons". If that's not
+# applicable to your language, only use the correct spelling (don't repeat the
+# same word).
+quickactions-cmd-addons3 = etendaĵoj, etosoj, aldonaĵoj
 quickactions-cmd-addons2 = aldonaĵoj
 # Opens the bookmarks library window
 quickactions-bookmarks2 = Administri legosignojn
@@ -384,6 +388,7 @@ quickactions-print2 = Presi paĝon
 quickactions-cmd-print = presi
 # Opens the print dialog at the save to PDF option
 quickactions-savepdf = Konservi paĝon kiel PDF
+quickactions-cmd-savepdf2 = pdf, konservi paĝon
 quickactions-cmd-savepdf = pdf
 # Opens a new private browsing window
 quickactions-private2 = Malfermi privatan fenestron
@@ -400,6 +405,8 @@ quickactions-cmd-screenshot2 = ekrankopio, fari ekrankopion
 quickactions-cmd-screenshot = ekrankopio
 # Opens about:preferences
 quickactions-settings2 = Administri agordojn
+# "manage" should match the corresponding command, which is “Manage settings” in English.
+quickactions-cmd-settings2 = agordoj, preferoj, elektebloj, administro
 quickactions-cmd-settings = agordoj, preferoj, elektebloj
 # Opens about:addons page in the themes section
 quickactions-themes = Administri etosojn
@@ -1189,6 +1196,15 @@ popup-notification-addon-install-unsigned =
     .value = (Nekontrolita)
 popup-notification-xpinstall-prompt-learn-more = Pli da informo pri sekura instalo de aldonaĵoj
 popup-notification-xpinstall-prompt-block-url = Montri detalojn
+# Note: Access key is set to p to match "private" in the corresponding localized label.
+popup-notification-addon-privatebrowsing-checkbox2 =
+    .label = Permesi al etendaĵo funkcii en privataj fenestroj
+    .accesskey = P
+# This string is similar to `webext-perms-description-data-long-technicalAndInteraction`
+# but it is used in the install prompt, and it needs an access key.
+popup-notification-addon-technical-and-interaction-checkbox =
+    .label = Dividi teknikajn kaj interagajn datumojn kun la programisto de la etendaĵo
+    .accesskey = D
 # Note: Access key is set to P to match "Private" in the corresponding localized label.
 popup-notification-addon-privatebrowsing-checkbox =
     .label = Lanĉi en privataj fenestroj
@@ -1246,3 +1262,4 @@ file-picker-crashed-show-in-folder =
 
 ## Onboarding Finish Setup checklist
 
+onboarding-checklist-button-label = Fini agordadon
