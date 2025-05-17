@@ -49,7 +49,18 @@ webext-perms-extra-warning-userScripts-short = Ubekræftede scripts kan udgøre 
 webext-perms-description-data-short-browsingActivity = browsing-aktivitet
 webext-perms-description-data-short-financialAndPaymentInfo = finansielle oplysninger og betalingsoplysninger
 webext-perms-description-data-short-healthInfo = sundhedsoplysninger
+webext-perms-description-data-short-personalCommunications = personlig kommunikation
+webext-perms-description-data-short-personallyIdentifyingInfo = oplysninger, som kan bruges til at identificere dig
+webext-perms-description-data-short-searchTerms = søgetermer
+webext-perms-description-data-short-technicalAndInteraction = tekniske data og data om brug
+webext-perms-description-data-short-websiteActivity = websteds-aktivitet
+webext-perms-description-data-short-websiteContent = websteds-indhold
 
 ## Long form to be used in `about:addons` when these data collection permissions are optional.
 
+webext-perms-description-data-long-authenticationInfo = Del godkendelses-oplysninger med udvikleren af udvidelsen
+webext-perms-description-data-long-bookmarksInfo = Del oplysninger om bogmærker med udvikleren af udvidelsen
+webext-perms-description-data-long-browsingActivity = Del browsing-aktivitet med udvikleren af udvidelsen
+webext-perms-description-data-long-financialAndPaymentInfo = Del finansielle oplysninger og betalingsoplysninger med udvikleren af udvidelsen
+webext-perms-description-data-long-healthInfo = Del sundhedsoplysninger med udvikleren af udvidelsen
 webext-perms-description-data-long-technicalAndInteraction = Del tekniske data og data om brug med udvikleren af udvidelsen
