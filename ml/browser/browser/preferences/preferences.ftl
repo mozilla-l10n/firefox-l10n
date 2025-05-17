@@ -745,6 +745,7 @@ forms-master-pw-change =
     .accesskey = M
 forms-master-pw-fips-desc = രഹസ്യവാക്കുമാറ്റം പരാജയപ്പെട്ടിരിക്കുന്നു
 forms-windows-sso-learn-more-link = കൂടുതലറിയുക
+forms-windows-sso-desc = ഉപകരണ ക്രമീകരണങ്ങളിൽ അക്കൗണ്ടുകൾ കൈകാര്യം ചെയ്യുക
 
 ## OS Authentication dialog
 
