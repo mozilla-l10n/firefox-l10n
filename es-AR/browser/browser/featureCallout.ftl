@@ -101,6 +101,7 @@ perplexity-callout-theme-1-subtitle-2 = Pregunte. Obtenga respuestas completas y
 perplexity-callout-theme-2-subtitle-1 = Pregúntele a Perplexity. Obtendrá respuestas completas, fuentes incluidas.
 perplexity-callout-theme-2-subtitle-2 = Pregúntele a Perplexity. Obtendrá respuestas completas y bien citadas.
 perplexity-callout-primary-label = Preguntar a Perplexity
+perplexity-callout-secondary-label-1 = Descartar
 perplexity-callout-secondary-label-2 = Entendido
 
 ## Sidebar Strings
