@@ -267,6 +267,12 @@ discopane-notice-recommendations = Kelkaj el tiuj ĉi rekomendoj estas personeci
 discopane-notice-recommendations2 =
     .message = Kelkaj el tiuj ĉi rekomendoj estas personecigitaj. Ili baziĝas sur la listo de viaj nunaj etendaĵoj, preferoj de profilo kaj statistikoj de uzo.
 discopane-notice-learn-more = Pli da informo
+# Notice for the colorway theme removal
+colorway-removal-notice-message =
+    .heading = Via(j) kolorara(j) etoso(j) estis forigita(j).
+    .message = { -brand-product-name } ĝisdatigis sian kolekton de koloraroj. Ni forigis la malnova(j)n versio(j)n el viaj listo de konservitaj etosoj. Ricevu novajn versiojn en la retejo por aldonaĵoj.
+colorway-removal-notice-learn-more = Pli da informo
+colorway-removal-notice-button = Ricevu ĝisdatigitajn kolorarajn etosojn
 privacy-policy = Politiko pri privateco
 # Refers to the author of an add-on, shown below the name of the add-on.
 # Variables:
@@ -542,3 +548,7 @@ plugins-widevine-description = Tiu ĉi kromprogramo ebligas ludadon de ĉifritaj
 ## Headings for the Permissions tab in `about:addons` when the data collection
 ## feature is enabled.
 
+addon-permissions-required-data-collection = Postulata kolekto de datumoj:
+addon-permissions-optional-data-collection = Nedeviga kolekto de datumoj:
+# Name of the Permissions tab in `about:addons` when the data collection feature is enabled.
+permissions-data-addon-button = Permesoj kaj datumoj

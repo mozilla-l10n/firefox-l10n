@@ -117,6 +117,8 @@ newtab-menu-delete-pocket = Forigi el { -pocket-brand-name }
 newtab-menu-archive-pocket = Arĥivi en { -pocket-brand-name }
 newtab-menu-show-privacy-info = Niaj patronoj kaj via privateco
 newtab-menu-about-fakespot = Pri { -fakespot-brand-name }
+# Report is a verb (i.e. report issue with the content).
+newtab-menu-report = Raporti
 newtab-menu-report-content = Raporti tiun ĉi enhavon
 # Context menu option to personalize New Tab recommended stories by blocking a section of stories,
 # e.g. "Sports". "Block" is a verb here.
@@ -525,6 +527,13 @@ newtab-custom-wallpaper-cta = Provi
 
 ## Strings for download mobile highlight
 
+newtab-download-mobile-highlight-title = Elŝutu { -brand-product-name } por poŝaparatoj
+# "Scan the code" refers to scanning the QR code that appears above the body text that leads to Firefox for mobile download.
+newtab-download-mobile-highlight-body-variant-a = Skanu la kodon por sekure retumi ie ajn.
+newtab-download-mobile-highlight-body-variant-b = Rekomencu kie vi haltis kiam vi spegulas viajn langetojn, pasvortojn kaj pli.
+newtab-download-mobile-highlight-body-variant-c = Ĉu vi sciis ke vi povas porti { -brand-product-name } ĉien? Sama retumilo. En via poŝo.
+newtab-download-mobile-highlight-image =
+    .aria-label = Kodo QR por elŝuti { -brand-product-name } por poŝaparatoj
 
 ## Strings for reporting ads and content
 
@@ -546,3 +555,5 @@ newtab-report-content-spam-misleading =
     .label = Truda aŭ trompa
 newtab-report-cancel = Nuligi
 newtab-report-submit = Sendi
+newtab-toast-thanks-for-reporting =
+    .message = Dankon pro via raporto.
