@@ -15,6 +15,7 @@ webext-perms-header-with-perms = Tilføj { $extension }? Denne udvidelse vil hav
 webext-perms-header-unsigned = Tilføj { $extension }? Denne udvidelse er ikke verificeret. Ondsindede udvidelser kan stjæle dine personlige oplysninger eller bringe din computer i fare. Tilføj kun udvidelsen, hvis du stoler på udvikleren bag.
 webext-perms-header-unsigned-with-perms = Tilføj { $extension }? Denne udvidelse er ikke verificeret. Ondsindede udvidelser kan stjæle dine personlige oplysninger eller bringe din computer i fare. Tilføj kun udvidelsen, hvis du stoler på udvikleren bag. Denne udvidelse vil have tilladelse til at:
 webext-perms-sideload-header = { $extension } tilføjet
+webext-perms-optional-perms-header2 = { $extension } anmoder om yderligere tilladelser
 webext-perms-optional-perms-header = { $extension } kræver yderligere tilladelser.
 webext-perms-header2 = Tilføj { $extension }
 
@@ -105,6 +106,26 @@ webext-perms-host-description-multiple-domains =
 
 ## Strings for data collection permissions in the permission prompt.
 
+webext-perms-description-data-none = Udvikleren meddeler, at denne udvidelse ikke kræver indsamling af data.
+# Variables:
+#    $permissions (String): a list of data collection permissions formatted with `Intl.ListFormat` using the "narrow" style.
+webext-perms-description-data-some = Udvikleren meddeler, at udvidelsen indsamler: { $permissions }
+# Variables:
+#    $permissions (String): a list of data collection permissions formatted with `Intl.ListFormat` using the "narrow" style.
+webext-perms-description-data-some-update = Udvikleren meddeler, at udvidelsen vil indsamle: { $permissions }
+# Variables:
+#    $permissions (String): a list of data collection permissions formatted with `Intl.ListFormat` using the "narrow" style.
+webext-perms-description-data-some-optional = Udvikleren meddeler, at udvidelsen gerne vil indsamle: { $permissions }
+# Variables:
+#   $extension (String): replaced with the localized name of the extension.
+webext-perms-update-text-with-data-collection = { $extension } kræver nye indstillinger for at kunne blive opdateret
+webext-perms-update-list-intro-with-data-collection = Annuller for at beholde den nuværende version og dine nuværende indstiilinger, eller opdater for at få den nye version og godkende ændringerne.
+# Variables:
+#   $extension (String): replaced with the localized name of the extension.
+webext-perms-optional-text-with-data-collection = { $extension } anmoder om yderligere indstillinger
+# Variables:
+#   $extension (String): replaced with the localized name of the extension.
+webext-perms-optional-text-with-data-collection-only = { $extension } anmoder om yderligere indsamling af data
 
 ## Headers used in the webextension permissions dialog for synthetic add-ons.
 ## The part of the string describing what privileges the extension gives should be consistent
@@ -142,3 +163,5 @@ webext-site-perms-midi-sysex = Tilgå MIDI-enheder med SysEx-understøttelse
 
 ## Colorway theme migration
 
+webext-colorway-theme-migration-notification-message = <b>Temaet med den valgte farvekombination er blevet fjernet </b> { -brand-shorter-name } har opdateret sin samling af farvekombinationer. Du kan finde de seneste versioner på webstedet for tilføjelser.
+webext-colorway-theme-migration-notification-button = Få opdaterede farvekombinationer
