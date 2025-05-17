@@ -213,6 +213,50 @@ contextual-manager-website-icon =
     .alt = ไอคอนเว็บไซต์
 contextual-manager-copy-icon =
     .alt = คัดลอก
+contextual-manager-check-icon-username =
+    .alt = คัดลอกแล้ว
+contextual-manager-check-icon-password =
+    .alt = คัดลอกแล้ว
+contextual-manager-alert-icon =
+    .alt = คำเตือน
+# Variables
+#   $url (string) - The url associated with the login
+contextual-manager-origin-login-line =
+    .aria-label = เยี่ยมชม { $url }
+    .title = เยี่ยมชม { $url }
+# "(Warning)" indicates that a login's origin field has an alert icon.
+# Variables
+#   $url (string) - The url associated with the login
+contextual-manager-origin-login-line-with-alert =
+    .aria-label = เยี่ยมชม { $url } (คำเตือน)
+    .title = เยี่ยมชม { $url } (คำเตือน)
+# Variables
+#   $username (string) - The username associated with the login
+contextual-manager-username-login-line =
+    .aria-label = คัดลอกชื่อผู้ใช้ { $username }
+    .title = คัดลอกชื่อผู้ใช้ { $username }
+# "(Warning)" indicates that a login's username field has an alert icon.
+# Variables
+#   $username (string) - The username associated with the login
+contextual-manager-username-login-line-with-alert =
+    .aria-label = คัดลอกชื่อผู้ใช้ { $username } (คำเตือน)
+    .title = คัดลอกชื่อผู้ใช้ { $username } (คำเตือน)
+contextual-manager-password-login-line =
+    .aria-label = คัดลอกรหัสผ่าน
+    .title = คัดลอกรหัสผ่าน
+# "(Warning)" indicates that a login's password field has an alert icon.
+contextual-manager-password-login-line-with-alert =
+    .aria-label = คัดลอกรหัสผ่าน (คำเตือน)
+    .title = คัดลอกรหัสผ่าน (คำเตือน)
+contextual-manager-edit-login-button = แก้ไข
+    .tooltiptext = แก้ไขรหัสผ่าน
+contextual-manager-view-alert-heading =
+    .heading = ดูการแจ้งเตือน
+contextual-manager-view-alert-button =
+    .tooltiptext = ตรวจสอบการแจ้งเตือน
+contextual-manager-show-password-button =
+    .aria-label = แสดงรหัสผ่าน
+    .title = แสดงรหัสผ่าน
 contextual-manager-hide-password-button =
     .aria-label = ซ่อนรหัสผ่าน
     .title = ซ่อนรหัสผ่าน
