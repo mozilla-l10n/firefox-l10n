@@ -184,6 +184,10 @@ migration-safari-password-import-step1 = 在 Safari 浏览器中，打开“Safa
 migration-safari-password-import-step2 = 点按 <img data-l10n-name="safari-icon-3dots"/> 按钮，然后选取“导出所有密码”
 migration-safari-password-import-step3 = 保存密码文件
 migration-safari-password-import-step4 = 使用下方的“选择文件”来选取您保存的密码文件
+migration-chrome-windows-password-import-header = 从 Chrome 导入密码的方法
+migration-chrome-windows-password-import-steps-header = 在 Chrome 中：
+migration-chrome-windows-password-import-step1 = 打开主菜单 <img data-l10n-name="chrome-icon-3dots"/>，前往“密码和自动填充”>“Google 密码管理工具”。
+migration-chrome-windows-password-import-step2 = 选择菜单中的“设置”。
 migration-manual-password-import-skip-button = 跳过
 migration-manual-password-import-select-button = 选择文件
 migration-safari-password-import-skip-button = 跳过
