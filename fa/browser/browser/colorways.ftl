@@ -15,3 +15,4 @@ activist-colorway-name = کنشگر
 activist-colorway-description = شما دنیا را طور بهتری نسبت به آن گونه که آن را یافتید ترک می کنید و دیگران را به باور سوق می دهید.
 dreamer-colorway-name = رؤیاپرداز
 innovator-colorway-name = نوآور
+innovator-colorway-description = شما فرصت‌ها را در همه جا می‌بینید و بر زندگی اطرافیان خود تأثیر می‌گذارید.

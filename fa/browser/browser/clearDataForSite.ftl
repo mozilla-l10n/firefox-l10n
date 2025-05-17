@@ -7,5 +7,6 @@ clear-data-for-site-title = تمام داده‌های این وبگاه پاک 
 #   $site (string) - Website name
 clear-data-for-site-list = این اقدام، تمام داده‌های مربوط به { $site } را پاک می‌کند، شامل:
 clear-data-for-site-browsing-history = تاریخچه مرور و بارگیری
+clear-data-for-site-exceptions = نشانک‌ها و گذرواژه‌های ذخیره‌شده حذف نخواهند شد
 clear-data-for-site-dialog-accept-button = پاک‌کردن داده‌ها
 clear-data-for-site-dialog-cancel-button = لغو
