@@ -196,6 +196,13 @@ urlbar-result-menu-learn-more-about-firefox-suggest =
 urlbar-result-menu-manage-firefox-suggest =
     .label = Håndter { -firefox-suggest-brand-name }
     .accesskey = H
+# Some urlbar suggestions show the user's approximate location as automatically
+# detected by Firefox (e.g., weather suggestions), and this menu item lets the
+# user tell Firefox that the location is not accurate. Typically the location
+# will be a city name, or a city name combined with the name of its parent
+# administrative region (e.g., a province, prefecture, or state).
+urlbar-result-menu-report-inaccurate-location =
+    .label = Rapporter unøjagtigt sted
 urlbar-result-menu-show-less-frequently =
     .label = Vis sjældnere
 urlbar-result-menu-dont-show-weather-suggestions =
@@ -1196,6 +1203,11 @@ popup-notification-xpinstall-prompt-block-url = Vis detaljer
 popup-notification-addon-privatebrowsing-checkbox2 =
     .label = Tillad udvidelse at virke i private vinduer
     .accesskey = p
+# This string is similar to `webext-perms-description-data-long-technicalAndInteraction`
+# but it is used in the install prompt, and it needs an access key.
+popup-notification-addon-technical-and-interaction-checkbox =
+    .label = Del tekniske data og data om brug med udvikleren af udvidelsen
+    .accesskey = D
 # Note: Access key is set to P to match "Private" in the corresponding localized label.
 popup-notification-addon-privatebrowsing-checkbox =
     .label = Anvend i private vinduer

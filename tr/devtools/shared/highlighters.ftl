@@ -24,7 +24,7 @@ gridtype-item = Grid öğesi
 gridtype-dual = Grid kapsayıcısı/öğesi
 # The layout type of an element shown in the infobar when hovering over a DOM element and
 # it is a flex container.
-flextype-container = Flex kapsayıcısı
+flextype-container = Flex kapsayıcı
 # The layout type of an element shown in the infobar when hovering over a DOM element and
 # it is a flex item.
 flextype-item = Flex öğesi

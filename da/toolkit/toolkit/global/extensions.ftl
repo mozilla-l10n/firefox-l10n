@@ -18,10 +18,12 @@ webext-perms-sideload-header = { $extension } tilføjet
 webext-perms-optional-perms-header2 = { $extension } anmoder om yderligere tilladelser
 webext-perms-optional-perms-header = { $extension } kræver yderligere tilladelser.
 webext-perms-header2 = Tilføj { $extension }
+webext-perms-list-intro-unsigned = Denne uverificerede udvidelse kan bringe beskyttelsen af dit privatliv i fare eller udgøre en fare for din enhed. Tilføje den kun, hvis du stoler på udgiveren.
 
 ## Headers used in the webextension permissions dialog, inside the content.
 
 webext-perms-header-required-perms = Påkrævede tilladelser:
+webext-perms-header-optional-settings = Valgfrie indstillinger:
 webext-perms-header-update-required-perms = Nye påkrævede tilladelser:
 webext-perms-header-optional-required-perms = Nye tilladelser:
 webext-perms-header-data-collection-perms = Påkrævet indsamling af data:

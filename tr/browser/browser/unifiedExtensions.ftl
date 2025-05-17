@@ -68,8 +68,8 @@ unified-extensions-mb-blocklist-error-single =
 unified-extensions-mb-blocklist-warning-multiple =
     .heading =
         { $extensionsCount ->
-            [one] { $extensionsCount } uzantı devre dışı
-           *[other] { $extensionsCount } uzantı devre dışı
+            [one] { $extensionsCount } uzantı devre dışı bırakıldı
+           *[other] { $extensionsCount } uzantı devre dışı bırakıldı
         }
     .message =
         Uzantılarınızdan bazıları Mozilla’nın politikalarını ihlal ettiği için devre dışı bırakıldı.

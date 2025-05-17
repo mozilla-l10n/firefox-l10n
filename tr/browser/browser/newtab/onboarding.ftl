@@ -188,8 +188,8 @@ mr2022-onboarding-welcome-pin-subtitle = { -brand-short-name } tarayıcısını 
 # Primary button string used on welcome page for when Firefox is not pinned.
 mr2022-onboarding-pin-primary-button-label =
     { PLATFORM() ->
-        [macos] { -brand-short-name } uygulamasını Dock’ta tut
-       *[other] { -brand-short-name } uygulamasını görev çubuğuma sabitle
+        [macos] { -brand-short-name }  tarayıcısını Dock’a sabitle
+       *[other] { -brand-short-name } tarayıcısını görev çubuğuna sabitle
     }
 # Primary button string used on welcome page for when Firefox is not pinned on MSIX
 mr2022-onboarding-pin-primary-button-label-msix = { -brand-short-name } uygulamasını görev çubuğuna ve başlat menüsüne sabitle

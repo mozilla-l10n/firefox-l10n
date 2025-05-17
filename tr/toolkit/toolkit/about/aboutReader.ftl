@@ -4,9 +4,9 @@
 
 about-reader-loading = Yükleniyor…
 about-reader-load-error = Makale sayfadan yüklenemedi
-about-reader-color-scheme-light = Beyaz
+about-reader-color-scheme-light = Açık
     .title = Açık renk düzeni
-about-reader-color-scheme-dark = Siyah
+about-reader-color-scheme-dark = Koyu
     .title = Koyu renk düzeni
 about-reader-color-scheme-sepia = Sepya
     .title = Sepya renk düzeni

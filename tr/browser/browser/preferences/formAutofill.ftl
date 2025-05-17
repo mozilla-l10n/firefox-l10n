@@ -46,7 +46,7 @@ address-capture-edit-address-button =
 # The dialog title for creating addresses in browser preferences.
 autofill-add-address-title = Adres ekle
 # The dialog title for editing addresses in browser preferences.
-autofill-edit-address-title = Adresi Düzenle
+autofill-edit-address-title = Adresi düzenle
 autofill-address-given-name = Ad
 autofill-address-additional-name = İkinci ad
 autofill-address-family-name = Soyadı
