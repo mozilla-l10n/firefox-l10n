@@ -581,5 +581,6 @@ plugins-widevine-description = Dette plugin gør det muligt at afspille kryptere
 ## feature is enabled.
 
 addon-permissions-required-data-collection = Påkrævet indsamling af data:
+addon-permissions-optional-data-collection = Valgfri indsamling af data:
 # Name of the Permissions tab in `about:addons` when the data collection feature is enabled.
 permissions-data-addon-button = Tilladelser og data
