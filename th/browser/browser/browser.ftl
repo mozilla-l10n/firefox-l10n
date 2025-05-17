@@ -366,6 +366,10 @@ quickactions-extensions = จัดการส่วนขยาย
 quickactions-cmd-extensions = ส่วนขยาย
 # Opens Firefox View
 quickactions-firefoxview = เปิด { -firefoxview-brand-name }
+# English is using "view" and "open view", since the feature name is
+# "Firefox View". If you have translated the name in your language, you
+# should use a word related to the existing translation.
+quickactions-cmd-firefoxview = เปิด { -firefoxview-brand-name }, { -firefoxview-brand-name }, เปิด view, view
 # Opens SUMO home page
 quickactions-help = ความช่วยเหลือของ { -brand-product-name }
 quickactions-cmd-help = ความช่วยเหลือ, สนับสนุน
@@ -384,6 +388,7 @@ quickactions-print2 = พิมพ์หน้า
 quickactions-cmd-print = พิมพ์
 # Opens the print dialog at the save to PDF option
 quickactions-savepdf = บันทึกหน้าเป็น PDF
+quickactions-cmd-savepdf2 = pdf, บันทึกหน้า
 quickactions-cmd-savepdf = pdf
 # Opens a new private browsing window
 quickactions-private2 = เปิดหน้าต่างส่วนตัว
@@ -400,6 +405,8 @@ quickactions-cmd-screenshot2 = ภาพหน้าจอ, เก็บภา�
 quickactions-cmd-screenshot = ภาพหน้าจอ
 # Opens about:preferences
 quickactions-settings2 = จัดการการตั้งค่า
+# "manage" should match the corresponding command, which is “Manage settings” in English.
+quickactions-cmd-settings2 = การตั้งค่า, ค่าปรับแต่ง, ตัวเลือก, จัดการ
 quickactions-cmd-settings = การตั้งค่า, ค่าปรับแต่ง, ตัวเลือก
 # Opens about:addons page in the themes section
 quickactions-themes = จัดการชุดตกแต่ง
@@ -409,6 +416,7 @@ quickactions-update = อัปเดต { -brand-short-name }
 quickactions-cmd-update = อัปเดต
 # Opens the view-source UI with current pages source
 quickactions-viewsource2 = ดูต้นฉบับหน้า
+quickactions-cmd-viewsource2 = ดูต้นฉบับ, ต้นฉบับ, ต้นฉบับหน้า
 quickactions-cmd-viewsource = ดูต้นฉบับ, ต้นฉบับ
 # Tooltip text for the help button shown in the result.
 quickactions-learn-more =
@@ -715,6 +723,17 @@ urlbar-result-action-undefined-calculator-result = ไม่นิยาม
 #  $result (String): the string representation for a result in scientific notation
 #  (e.g. "1.0e17").
 urlbar-result-action-calculator-result-scientific-notation = = { $result }
+# Shows the result of a formula expression being calculated, this is used for numbers >= 1.
+# The last = sign will be shown as part of the result (e.g. "= 2").
+# Variables
+#  $result (String): the string representation for a formula result
+urlbar-result-action-calculator-result-3 = = { NUMBER($result, useGrouping: "false", maximumFractionDigits: 8) }
+# Shows the result of a formula expression being calculated, to a maximum of 9 significant
+# digits. This is used for numbers < 1.
+# The last = sign will be shown as part of the result (e.g. "= 0.333333333").
+# Variables
+#  $result (String): the string representation for a formula result
+urlbar-result-action-calculator-result-decimal = = { NUMBER($result, maximumSignificantDigits: 9) }
 
 ## Strings used for buttons in the urlbar
 
@@ -1173,6 +1192,10 @@ popup-notification-addon-install-unsigned =
     .value = (ไม่ได้รับการยืนยัน)
 popup-notification-xpinstall-prompt-learn-more = เรียนรู้เพิ่มเติมเกี่ยวกับการติดตั้งส่วนเสริมอย่างปลอดภัย
 popup-notification-xpinstall-prompt-block-url = ดูรายละเอียด
+# Note: Access key is set to p to match "private" in the corresponding localized label.
+popup-notification-addon-privatebrowsing-checkbox2 =
+    .label = อนุญาตให้ส่วนขยายทำงานในหน้าต่างส่วนตัว
+    .accesskey = อ
 # Note: Access key is set to P to match "Private" in the corresponding localized label.
 popup-notification-addon-privatebrowsing-checkbox =
     .label = เรียกใช้ในหน้าต่างส่วนตัว
@@ -1226,3 +1249,4 @@ file-picker-crashed-show-in-folder =
 
 ## Onboarding Finish Setup checklist
 
+onboarding-checklist-button-label = ตั้งค่าให้เสร็จสิ้น

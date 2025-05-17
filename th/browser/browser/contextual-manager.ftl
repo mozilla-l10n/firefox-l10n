@@ -94,6 +94,13 @@ contextual-manager-passwords-export-file-picker-csv-filter-title =
         [macos] เอกสาร CSV
        *[other] ไฟล์ CSV
     }
+# Confirm the removal of all saved passwords
+#   $total (number) - Total number of passwords
+contextual-manager-passwords-remove-all-title =
+    { $total ->
+        [1] ลบรหัสผ่านหรือไม่?
+       *[other] ลบทั้งหมด { $total } รหัสผ่านหรือไม่?
+    }
 # Checkbox label to confirm the removal of saved passwords
 #   $total (number) - Total number of passwords
 contextual-manager-passwords-remove-all-confirm =
@@ -108,6 +115,33 @@ contextual-manager-passwords-remove-all-confirm-button =
         [1] ลบ
        *[other] ลบทั้งหมด
     }
+# Message to confirm the removal of all saved passwords when user DOES NOT HAVE SYNC
+#   $total (number) - Total number of passwords
+contextual-manager-passwords-remove-all-message =
+    { $total ->
+        [1] การกระทำนี้จะลบรหัสผ่านของคุณที่บันทึกลงใน { -brand-short-name } และการแจ้งเตือนการรั่วไหลทั้งหมด คุณจะไม่สามารถเรียกคืนการกระทำนี้ได้
+       *[other] การกระทำนี้จะลบรหัสผ่านต่างๆ ที่บันทึกลงใน { -brand-short-name } และการแจ้งเตือนการรั่วไหลทั้งหมด คุณจะไม่สามารถเรียกคืนการกระทำนี้ได้
+    }
+# Message for modal to confirm the removal of all saved passwords when user HAS SYNC
+#   $total (number) - Total number of passwords
+contextual-manager-passwords-remove-all-message-sync =
+    { $total ->
+        [1] การกระทำนี้จะลบรหัสผ่านที่บันทึกลงใน { -brand-short-name } บนอุปกรณ์ที่ซิงค์ของคุณทั้งหมดและลบการแจ้งเตือนการรั่วไหลทั้งหมด คุณจะไม่สามารถเรียกคืนการกระทำนี้ได้
+       *[other] การกระทำนี้จะลบรหัสผ่านทั้งหมดที่บันทึกลงใน { -brand-short-name } บนอุปกรณ์ที่ซิงค์ของคุณทั้งหมดและลบการแจ้งเตือนการรั่วไหลทั้งหมด คุณจะไม่สามารถเรียกคืนการกระทำนี้ได้
+    }
+contextual-manager-passwords-origin-label = เว็บไซต์
+# The attribute .data-after describes the text that should be displayed for the ::after pseudo-selector
+contextual-manager-passwords-username-label = ชื่อผู้ใช้
+    .data-after = คัดลอกแล้ว
+# The attribute .data-after describes the text that should be displayed for the ::after pseudo-selector
+contextual-manager-passwords-password-label = รหัสผ่าน
+    .data-after = คัดลอกแล้ว
+contextual-manager-passwords-radiogroup-label =
+    .aria-label = กรองรหัสผ่าน
+# Variables
+#   $url (string) - The url associated with the new login
+contextual-manager-passwords-add-password-success-heading =
+    .heading = เพิ่มรหัสผ่านสำหรับ { $url } แล้ว
 contextual-manager-passwords-update-password-success-button = เสร็จสิ้น
 contextual-manager-passwords-delete-password-success-button = เสร็จสิ้น
 # This message is displayed to make sure that a user wants to delete an existing login.
