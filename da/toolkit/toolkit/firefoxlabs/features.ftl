@@ -41,3 +41,9 @@ experimental-features-link-previews-description =
         [macos] Få mere at vide om et websted, inden du klikker: Hold markøren over linket og klik på Skift (⇧) + Alternativ (⌥) eller Alt. Forhåndsvisning kan inkludere detaljer som titel og hvor lang tid, det tager at læse indholdet. For nogle websteder kan AI læse sidens tekst og sammenfatte den. AI'en er optimeret til at læse og oprette tekst på engelsk. For at beskytte dit privatliv kører AI'en lokal på din computer. <a data-l10n-name="connect">Del feedback</a>
        *[other] Få mere at vide om et websted, inden du klikker: Hold markøren over linket og klik på Skift + Alt. Forhåndsvisning kan inkludere detaljer som titel og hvor lang tid, det tager at læse indholdet. For nogle websteder kan AI læse sidens tekst og sammenfatte den. AI'en er optimeret til at læse og oprette tekst på engelsk. For at beskytte dit privatliv kører AI'en lokal på din computer. <a data-l10n-name="connect">Del feedback</a>
     }
+# This version of the link previews description does not mention AI.
+experimental-features-link-previews-description-no-ai =
+    { PLATFORM() ->
+        [macos] Få mere at vide om en webside, inden du klikker: Hold markøren over linket og klik på Skift (⇧) + Alternativ (⌥) eller Alt. Forhåndsvisning kan inkludere detaljer som titel og hvor lang tid, det tager at læse indholdet. <a data-l10n-name="connect">Del feedback</a>
+       *[other] Få mere at vide om en webside, inden du klikker: Hold markøren over linket og klik på Skift + Alt. Forhåndsvisning kan inkludere detaljer som titel og hvor lang tid, det tager at læse indholdet. <a data-l10n-name="connect">Del feedback</a>
+    }
