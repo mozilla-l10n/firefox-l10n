@@ -291,3 +291,9 @@ contextual-manager-passwords-discard-changes-heading-and-message =
     .message = Viaj ŝanĝoj ne estos konservitaj.
 contextual-manager-passwords-discard-changes-close-button = Fermi
 contextual-manager-passwords-discard-changes-go-back-button = Iri reen
+#   $total (number) - Total number of passwords
+contextual-manager-passwords-remove-all-passwords-checkbox =
+    { $total ->
+        [1] Jes, forigi pasvorton
+       *[other] Yes, remove passwords
+    }
