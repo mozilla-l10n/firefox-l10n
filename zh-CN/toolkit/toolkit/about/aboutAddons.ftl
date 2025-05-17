@@ -548,5 +548,7 @@ plugins-widevine-description = 此插件让您可播放符合加密媒体扩展�
 ## Headings for the Permissions tab in `about:addons` when the data collection
 ## feature is enabled.
 
+addon-permissions-required-data-collection = 必要的数据收集：
+addon-permissions-optional-data-collection = 可选的数据收集：
 # Name of the Permissions tab in `about:addons` when the data collection feature is enabled.
 permissions-data-addon-button = 权限与数据

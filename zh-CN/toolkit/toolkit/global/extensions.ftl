@@ -26,6 +26,14 @@ webext-perms-header-required-perms = 必要权限：
 webext-perms-header-optional-settings = 可选设置：
 webext-perms-header-update-required-perms = 新必要权限：
 webext-perms-header-optional-required-perms = 新权限：
+webext-perms-header-data-collection-perms = 收集的必要数据：
+webext-perms-header-data-collection-is-none = 收集的数据：
+# This is a header used in the add-ons "update" prompt, shown when the new
+# version requires new data collection permissions.
+webext-perms-header-update-data-collection-perms = 新增收集的必要数据：
+# This is a header used in the add-ons "optional" prompt, shown when the
+# extension requests new data collection permissions programmatically.
+webext-perms-header-optional-data-collection-perms = 新增收集的数据：
 
 ##
 
@@ -88,6 +96,16 @@ webext-perms-host-description-multiple-domains = 访问您在 { $domainCount } �
 
 ## Strings for data collection permissions in the permission prompt.
 
+webext-perms-description-data-none = 开发者称此扩展无需收集数据。
+# Variables:
+#    $permissions (String): a list of data collection permissions formatted with `Intl.ListFormat` using the "narrow" style.
+webext-perms-description-data-some = 开发者称此扩展收集：{ $permissions }
+# Variables:
+#    $permissions (String): a list of data collection permissions formatted with `Intl.ListFormat` using the "narrow" style.
+webext-perms-description-data-some-update = 开发者称此扩展将收集：{ $permissions }
+# Variables:
+#    $permissions (String): a list of data collection permissions formatted with `Intl.ListFormat` using the "narrow" style.
+webext-perms-description-data-some-optional = 开发者称此扩展希望收集：{ $permissions }
 # Variables:
 #   $extension (String): replaced with the localized name of the extension.
 webext-perms-update-text-with-data-collection = “{ $extension }”需要新的设置才能更新
