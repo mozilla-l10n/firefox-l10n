@@ -15,10 +15,25 @@ webext-perms-header-with-perms = Adicionar { $extension }? Esta extensão terá 
 webext-perms-header-unsigned = Adicionar { $extension }? Esta extensão não foi analisada. Extensões maliciosas podem roubar a sua informação privada ou comprometer o seu computador. Adicione esta extensão apenas se confia na fonte.
 webext-perms-header-unsigned-with-perms = Adicionar { $extension }? Esta extensão não foi analisada. Extensões maliciosas podem roubar a sua informação privada ou comprometer o seu computador. Adicione esta extensão apenas se confia na fonte. Esta extensão terá permissão para:
 webext-perms-sideload-header = { $extension } adicionado
+webext-perms-optional-perms-header2 = { $extension } solicita permissões adicionais
 webext-perms-optional-perms-header = { $extension } solicita permissões adicionais.
+webext-perms-header2 = Adicionar { $extension }
+webext-perms-list-intro-unsigned = Esta extensão não verificada pode colocar a sua privacidade em risco ou comprometer o seu dispositivo. Adicione-a apenas se confiar na fonte.
 
 ## Headers used in the webextension permissions dialog, inside the content.
 
+webext-perms-header-required-perms = Permissões necessárias:
+webext-perms-header-optional-settings = Definições opcionais:
+webext-perms-header-update-required-perms = Novas permissões necessárias:
+webext-perms-header-optional-required-perms = Novas permissões:
+webext-perms-header-data-collection-perms = Recolha de dados necessária:
+webext-perms-header-data-collection-is-none = Recolha de dados:
+# This is a header used in the add-ons "update" prompt, shown when the new
+# version requires new data collection permissions.
+webext-perms-header-update-data-collection-perms = Nova recolha de dados necessária:
+# This is a header used in the add-ons "optional" prompt, shown when the
+# extension requests new data collection permissions programmatically.
+webext-perms-header-optional-data-collection-perms = Nova recolha de dados:
 
 ##
 
@@ -36,6 +51,9 @@ webext-perms-sideload-enable =
 webext-perms-sideload-cancel =
     .label = Cancelar
     .accesskey = C
+# Variables:
+#   $extension (String): replaced with the localized name of the extension.
+webext-perms-update-text2 = A extensão { $extension } foi atualizada. Deve aprovar as novas permissões antes da versão atualizada ser instalada. Escolher "Cancelar" irá manter a sua versão atual da extensão.
 # Variables:
 #   $extension (String): replaced with the localized name of the extension.
 webext-perms-update-text = { $extension } foi atualizado. Deve aprovar as novas permissões antes da versão atualizada ser instalada. Escolher "Cancelar" irá manter a versão atual do extra. Esta extensão terá permissão para:
