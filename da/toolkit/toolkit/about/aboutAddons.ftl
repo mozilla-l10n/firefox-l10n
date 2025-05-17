@@ -285,6 +285,15 @@ discopane-notice-recommendations2 =
         Nogle af disse anbefalinger er målrettet dig. De er baseret på andre 
         udvidelser, du har installeret, dine indstillinger og statistik for brug.
 discopane-notice-learn-more = Læs mere
+# Notice for the colorway theme removal
+colorway-removal-notice-message =
+    .heading = Dit farvekombinations-tema er blevet fjernet.
+    .message =
+        { -brand-product-name } har opdateret sin samling af farvekombinationer. 
+        Vi har fjernet de/n gamle version/er fra din liste med "Gemte temaer". Få de
+        nye version på webstedet for tilføjelser.
+colorway-removal-notice-learn-more = Lær mere
+colorway-removal-notice-button = Få opdaterede farvekombinations-temaer
 privacy-policy = Privatlivs-politik
 # Refers to the author of an add-on, shown below the name of the add-on.
 # Variables:
@@ -313,6 +322,17 @@ discopane-intro2 =
     { -brand-product-name } ser ud - og meget mere. Udvidelser er små software-programmer, som ofte 
     er udviklet af tredjepart. Hér er et udvalg, som { -brand-product-name } <a data-l10n-name="learn-more-trigger">anbefaler</a> 
     for at forbedre din sikkerhed, give dig bedre ydelse og flere nyttige funktioner.
+# Explanatory introduction to the list of recommended add-ons. The action word
+# ("recommends") in the final sentence is a link to external documentation.
+# We hard code "Firefox" because we do not want to imply that a Firefox fork is
+# making this recommendation.
+discopane-intro3 =
+    Med udvidelser og temaer kan du tilpasse { -brand-product-name } for at beskytte dit privatliv bedre, 
+    få mere arbejde fra hånden, gøre det lettere at håndtere mediefiler, ændre hvordan 
+    { -brand-product-name } ser ud - og meget mere. Udvidelser er små software-programmer, som ofte 
+    er udviklet af tredjepart. Hér er et udvalg, som { -brand-product-name } <a data-l10n-name="learn-more-trigger">anbefaler</a> 
+    for at forbedre din sikkerhed, 
+    give dig bedre ydelse og flere nyttige funktioner.
 
 ## Add-on actions
 
@@ -448,8 +468,22 @@ addon-badge-recommended3 =
 # by Mozilla and we don't want forks to display "by Fork".
 addon-badge-line4 =
     .title = Officiel udvidelse udviklet af Mozilla. Overholder standarder for sikkerhed og ydelse
+# This string needs to work in the context of other forks that are not Firefox
+# or built by Mozilla. In particular, we do not want to imply that an
+# organisation other than Mozilla or the Firefox team are performing the
+# security or performance reviews. As such, we avoid personalising language
+# like the words "our" or "we".
+addon-badge-verified4 =
+    .title = Denne udvidelse er blevet tjekket for, om den overholder standarderne for sikkerhed og ydelse
 addon-badge-verified3 =
     .title = Denne udvidelse er blevet tjekket for, om den overholder vores standarder for sikkerhed og ydelse
+# This string needs to work in the context of other forks that are not Firefox
+# or built by Mozilla. In particular, we do not want to imply that an
+# organisation other than Mozilla or the Firefox team are making the
+# recommendation. As such, we hard code "Firefox" and avoid personalising
+# language like the words "our" or "we".
+addon-badge-recommended4 =
+    .title = Firefox anbefaler kun udvidelser, der opfylder standarderne for sikkerhed og ydelse.
 
 ##
 
@@ -546,3 +580,6 @@ plugins-widevine-description = Dette plugin gør det muligt at afspille kryptere
 ## Headings for the Permissions tab in `about:addons` when the data collection
 ## feature is enabled.
 
+addon-permissions-required-data-collection = Påkrævet indsamling af data:
+# Name of the Permissions tab in `about:addons` when the data collection feature is enabled.
+permissions-data-addon-button = Tilladelser og data

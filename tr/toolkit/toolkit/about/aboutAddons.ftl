@@ -555,5 +555,7 @@ plugins-widevine-description = Bu yan uygulama, Encrypted Media Extensions şart
 ## Headings for the Permissions tab in `about:addons` when the data collection
 ## feature is enabled.
 
+addon-permissions-required-data-collection = Toplanması gereken veriler:
+addon-permissions-optional-data-collection = Toplanması isteğe bağlı veriler:
 # Name of the Permissions tab in `about:addons` when the data collection feature is enabled.
 permissions-data-addon-button = İzinler ve veriler

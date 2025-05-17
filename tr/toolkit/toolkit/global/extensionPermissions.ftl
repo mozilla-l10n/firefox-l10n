@@ -52,6 +52,7 @@ webext-perms-description-data-short-browsingActivity = gezinti etkinliği
 webext-perms-description-data-short-financialAndPaymentInfo = finansal bilgiler ve ödeme bilgileri
 webext-perms-description-data-short-healthInfo = sağlık bilgileri
 webext-perms-description-data-short-locationInfo = konum
+webext-perms-description-data-short-personalCommunications = kişisel iletişim
 webext-perms-description-data-short-searchTerms = arama terimleri
 webext-perms-description-data-short-technicalAndInteraction = teknik veriler ve etkileşim verileri
 webext-perms-description-data-short-websiteActivity = web sitesi etkinliği
