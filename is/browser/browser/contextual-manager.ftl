@@ -98,7 +98,7 @@ contextual-manager-passwords-remove-all-title =
     { $total ->
         [1] Fjarlægja lykilorð?
         [one] Fjarlægja lykilorð?
-       *[other] Fjarlægja öll { $count } lykilorðin?
+       *[other] Fjarlægja öll { $total } lykilorðin?
     }
 # Checkbox label to confirm the removal of saved passwords
 #   $total (number) - Total number of passwords
@@ -167,7 +167,7 @@ contextual-manager-passwords-delete-password-success-button = Lokið
 #
 # Radiobutton label to display total number of passwords
 #   $total (number) - Total number of passwords
-contextual-manager-passwords-radiobutton-all = Allt ({ $samtals })
+contextual-manager-passwords-radiobutton-all = Allt ({ $total })
 # Radiobutton label to display total number of alerts
 #   $total (number) - Total number of alerts
 contextual-manager-passwords-radiobutton-alerts = Viðvaranir ({ $total })

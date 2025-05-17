@@ -210,7 +210,7 @@ migration-safari-password-import-step3 = Cadw'r ffeil cyfrineiriau
 migration-safari-password-import-step4 = Defnyddiwch “Select File” isod i ddewis y ffeil cyfrineiriau a gadwyd gennych
 migration-chrome-windows-password-import-header = Sut i fewnforio cyfrineiriau o Chrome
 migration-chrome-windows-password-import-steps-header = Yn Chrome:
-migration-chrome-windows-password-import-step1 = Agorwch y brif ddewislen <img data-l10n-name="chrome-icon-3dots"> ac ewch i Passwords and Autofill > Google Password Manager.
+migration-chrome-windows-password-import-step1 = Agorwch y brif ddewislen <img data-l10n-name="chrome-icon-3dots"/> ac ewch i Passwords and Autofill > Google Password Manager.
 migration-chrome-windows-password-import-step2 = Dewiswch "Settings" o'r ddewislen.
 migration-chrome-windows-password-import-step3 = Dewiswch “Download file” a'i gadw ar eich dyfais.
 migration-chrome-windows-password-import-step4 = Dychwelwch yma a "Dewis Ffeil" i orffen mewnforio.
