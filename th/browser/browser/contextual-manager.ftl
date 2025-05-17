@@ -171,20 +171,46 @@ contextual-manager-passwords-radiobutton-alerts = การแจ้งเตื
 contextual-manager-passwords-remove-login-card-title = ลบรหัสผ่านหรือไม่?
 # This message warns the user that deleting a login is permanent.
 contextual-manager-passwords-remove-login-card-message = คุณไม่สามารถเรียกคืนการกระทำนี้ได้
+# This message gives the user an option to go back to the edit login form.
+contextual-manager-passwords-remove-login-card-back-message = ย้อนกลับ
 # This message confirms that the user wants to remove an existing login.
 contextual-manager-passwords-remove-login-card-remove-button = ลบ
 # This message gives the user the option to cancel their attempt to remove a login.
 contextual-manager-passwords-remove-login-card-cancel-button = ยกเลิก
+contextual-manager-passwords-alert-card =
+    .aria-label = การแจ้งเตือนเกี่ยวกับรหัสผ่าน
+contextual-manager-passwords-alert-back-button =
+    .label = ย้อนกลับ
+contextual-manager-passwords-alert-list =
+    .aria-label = รายการการแจ้งเตือน
+contextual-manager-passwords-change-password-button = เปลี่ยนรหัสผ่าน
+contextual-manager-passwords-vulnerable-password-heading-and-message =
+    .heading = แนะนำให้เปลี่ยนรหัสผ่าน
+    .message = รหัสผ่านนี้คาดเดาได้ง่าย ให้เปลี่ยนรหัสผ่านของคุณเพื่อปกป้องบัญชีของคุณ
+contextual-manager-passwords-vulnerable-password-link-message = { -brand-product-name } ทราบเกี่ยวกับรหัสผ่านที่อ่อนแอได้อย่างไร?
+contextual-manager-passwords-no-username-heading-and-message =
+    .heading = เพิ่มชื่อผู้ใช้
+    .message = เพิ่มมาหนึ่งชื่อเพื่อลงชื่อเข้าได้เร็วขึ้น
+contextual-manager-passwords-add-username-button = เพิ่มชื่อผู้ใช้
 
 ## Login Form
 
 contextual-manager-passwords-create-label =
     .label = เพิ่มรหัสผ่าน
+contextual-manager-passwords-edit-label =
+    .label = แก้ไขรหัสผ่าน
+contextual-manager-passwords-remove-label =
+    .title = ลบรหัสผ่าน
+contextual-manager-passwords-origin-tooltip = ป้อนที่อยู่จริงที่คุณใช้ลงชื่อเข้าไซต์นี้
+contextual-manager-passwords-username-tooltip = ป้อนชื่อผู้ใช้ ที่อยู่อีเมล หรือหมายเลขบัญชีที่คุณใช้ลงชื่อเข้า
+contextual-manager-passwords-password-tooltip = ป้อนรหัสผ่านที่คุณใช้ลงชื่อเข้าบัญชีนี้
 
 ## Password Card
 
 contextual-manager-passwords-list-label =
     .aria-label = รหัสผ่าน
+contextual-manager-website-icon =
+    .alt = ไอคอนเว็บไซต์
 contextual-manager-copy-icon =
     .alt = คัดลอก
 contextual-manager-hide-password-button =

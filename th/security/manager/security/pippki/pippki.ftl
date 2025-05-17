@@ -85,6 +85,13 @@ client-auth-cert-details-issued-by = ออกโดย: { $issuedBy }
 # Variables:
 # $storedOn (String) - The name of the token holding the certificate (for example, "OS Client Cert Token (Modern)")
 client-auth-cert-details-stored-on = จัดเก็บไว้ใน: { $storedOn }
+client-auth-cert-remember-label = จำการตัดสินใจนี้:
+client-auth-cert-remember-never =
+    .label = แค่ครั้งนี้
+client-auth-cert-remember-always =
+    .label = ทุกครั้ง
+client-auth-cert-remember-temporarily =
+    .label = แค่วาระนี้
 client-auth-cert-remember-box =
     .label = จดจำการตัดสินใจนี้
 
