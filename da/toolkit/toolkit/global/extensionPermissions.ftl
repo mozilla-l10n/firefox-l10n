@@ -46,6 +46,9 @@ webext-perms-extra-warning-userScripts-short = Ubekræftede scripts kan udgøre 
 ##
 ## This is used when the data collection permissions are required.
 
+webext-perms-description-data-short-browsingActivity = browsing-aktivitet
+webext-perms-description-data-short-financialAndPaymentInfo = finansielle oplysninger og betalingsoplysninger
+webext-perms-description-data-short-healthInfo = sundhedsoplysninger
 
 ## Long form to be used in `about:addons` when these data collection permissions are optional.
 

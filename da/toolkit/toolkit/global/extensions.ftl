@@ -20,6 +20,17 @@ webext-perms-header2 = Tilføj { $extension }
 
 ## Headers used in the webextension permissions dialog, inside the content.
 
+webext-perms-header-required-perms = Påkrævede tilladelser:
+webext-perms-header-update-required-perms = Nye påkrævede tilladelser:
+webext-perms-header-optional-required-perms = Nye tilladelser:
+webext-perms-header-data-collection-perms = Påkrævet indsamling af data:
+webext-perms-header-data-collection-is-none = Indsamling af data:
+# This is a header used in the add-ons "update" prompt, shown when the new
+# version requires new data collection permissions.
+webext-perms-header-update-data-collection-perms = Ny påkrævet indsamling af data:
+# This is a header used in the add-ons "optional" prompt, shown when the
+# extension requests new data collection permissions programmatically.
+webext-perms-header-optional-data-collection-perms = Ny indsamling af data:
 
 ##
 
@@ -37,6 +48,9 @@ webext-perms-sideload-enable =
 webext-perms-sideload-cancel =
     .label = Fortryd
     .accesskey = F
+# Variables:
+#   $extension (String): replaced with the localized name of the extension.
+webext-perms-update-text2 = { $extension } er blevet opdateret. Du skal godkende nye tilladelser, før den opdaterede version bliver installeret. Hvis du vælger "Annuller", så beholder du den nuværende version af udvidelsen.
 # Variables:
 #   $extension (String): replaced with the localized name of the extension.
 webext-perms-update-text = { $extension } er blevet opdateret. Du skal godkende nye tilladelser, før den opdaterede version bliver installeret. Hvis du vælger "Annuller", så beholder du den nuværende version af udvidelsen. Denne udvidelse vil have tilladelse til at:
