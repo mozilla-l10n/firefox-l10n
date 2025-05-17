@@ -50,6 +50,14 @@ webext-perms-description-data-short-authenticationInfo = ანგარიშ�
 webext-perms-description-data-short-bookmarksInfo = სანიშნები
 webext-perms-description-data-short-browsingActivity = მონახულებული გვერდები
 webext-perms-description-data-short-financialAndPaymentInfo = ფინანსური და საგადასახადო მონაცემები
+webext-perms-description-data-short-healthInfo = ჯანმრთელობის მონაცემები
+webext-perms-description-data-short-locationInfo = ადგილმდებარეობა
+webext-perms-description-data-short-personalCommunications = პირადი კავშირები
+webext-perms-description-data-short-personallyIdentifyingInfo = პირის ამოსაცნობი მონაცემები
+webext-perms-description-data-short-searchTerms = საძიებო ფრაზები
+webext-perms-description-data-short-technicalAndInteraction = ტექნიკური და გამოყენების მონაცემები
+webext-perms-description-data-short-websiteActivity = ვებსაიტზე მოქმედებები
+webext-perms-description-data-short-websiteContent = ვებშიგთავსი
 
 ## Long form to be used in `about:addons` when these data collection permissions are optional.
 

@@ -110,13 +110,13 @@ webext-perms-host-description-multiple-domains =
 webext-perms-description-data-none = შემქმნელის თქმით ეს გაფართოება არ საჭიროებს მონაცემთა აღრიცხვას.
 # Variables:
 #    $permissions (String): a list of data collection permissions formatted with `Intl.ListFormat` using the "narrow" style.
-webext-perms-description-data-some = შემქმნელის თქმით ამ გაფართოებას ესაჭიროება: { $permissions }
+webext-perms-description-data-some = შემქმნელის თქმით ამ გაფართოებით აღირიცხება: { $permissions }
 # Variables:
 #    $permissions (String): a list of data collection permissions formatted with `Intl.ListFormat` using the "narrow" style.
-webext-perms-description-data-some-update = შემქმნელის თქმით ამ გაფართოებას ესაჭიროება: { $permissions }
+webext-perms-description-data-some-update = შემქმნელის თქმით ამ გაფართოებით აღრიცხული იქნება: { $permissions }
 # Variables:
 #    $permissions (String): a list of data collection permissions formatted with `Intl.ListFormat` using the "narrow" style.
-webext-perms-description-data-some-optional = შემქმნელის თქმით ამ გაფართოებას სურს: { $permissions }
+webext-perms-description-data-some-optional = შემქმნელის თქმით ამ გაფართოებას სურს აღრიცხოს: { $permissions }
 # Variables:
 #   $extension (String): replaced with the localized name of the extension.
 webext-perms-update-text-with-data-collection = { $extension } საჭიროებს ახალ პარამეტრებს განახლებისთვის

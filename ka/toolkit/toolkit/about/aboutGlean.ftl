@@ -132,7 +132,7 @@ about-glean-about-data-list-item-dictionary =
     სიის სანახავად მონაცემებისა, რომელთაც { -glean-brand-name } აგროვებს ცალკეული პროგრამაში, დაიხმარეთ
     <a data-l10n-name="glean-dictionary-link">{ -glean-brand-name }-ცნობარი</a>.
 about-glean-about-data-list-item-about-telemetry =
-    მოძველებული აზომვების შედეგად აღრიცხული მონაცემებისთვის, გთხოვთ იხილოთ
+    მოძველებული აზომვების შედეგად აღრიცხული მონაცემებისთვის გთხოვთ იხილოთ
     <a data-l10n-name="about-telemetry-link">about:telemetry</a>.
 about-glean-about-data-list-item-debug-ping-viewer =
     გამართვის ჭდეების, სრული კრებულის, პირდაპირი ღონისძიებების ნაკადის ან აზომვების გამოსახულების
