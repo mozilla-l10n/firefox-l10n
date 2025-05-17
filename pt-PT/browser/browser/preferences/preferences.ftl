@@ -649,6 +649,8 @@ home-prefs-weather-header =
     .label = Meteorologia
 home-prefs-weather-description = Um relance da previsão para hoje
 home-prefs-weather-learn-more-link = Saber mais
+home-prefs-mission-message = Os nossos patrocinadores apoiam a nossa missão para construir uma Internet melhor
+home-prefs-mission-message-learn-more-link = Descubra como
 # Variables:
 #   $num (number) - Number of rows displayed
 home-prefs-sections-rows-option =
@@ -725,6 +727,9 @@ search-keyword-warning-title = Palavra-chave duplicada
 #   $name (string) - Name of a search engine.
 search-keyword-warning-engine = Escolheu uma palavra-chave que está atualmente a ser utilizada por “{ $name }”. Por favor, selecione outra.
 search-keyword-warning-bookmark = Escolheu uma palavra-chave que está a ser utilizada por um marcador. Por favor, escolha outra.
+remove-engine-confirmation = Tem a certeza de que pretende remover este motor de pesquisa?
+remove-engine-remove = Remover
+remove-addon-engine-alert = Para remover este motor de pesquisa, remova o extra associado.
 
 ## Containers Section
 

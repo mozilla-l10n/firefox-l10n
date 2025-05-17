@@ -198,6 +198,10 @@ migration-safari-password-import-step3 = Guardar ficheiro de palavras-passe
 migration-safari-password-import-step4 = Utilize “Selecionar ficheiro” abaixo para escolher o ficheiro de palavras-passe que guardou
 migration-chrome-windows-password-import-header = Como importar palavras-passe do Chrome
 migration-chrome-windows-password-import-steps-header = No Chrome:
+migration-chrome-windows-password-import-step1 = Abra o menu principal <img data-l10n-name="chrome-icon-3dots"/> e aceda a Palavras-passe e preenchimento automático > Gestor de palavras-passe da Google.
+migration-chrome-windows-password-import-step2 = Selecione “Definições” no menu.
+migration-chrome-windows-password-import-step3 = Escolha “Transferir ficheiro” e guarde-o no seu dispositivo.
+migration-chrome-windows-password-import-step4 = Retorne aqui e “Selecione ficheiro” para concluir a importação.
 migration-manual-password-import-skip-button = Ignorar
 migration-manual-password-import-select-button = Selecionar ficheiro
 migration-safari-password-import-skip-button = Ignorar

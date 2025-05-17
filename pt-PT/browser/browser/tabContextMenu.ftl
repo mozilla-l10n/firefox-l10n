@@ -133,3 +133,11 @@ tab-context-send-tabs-to-device =
            *[other] Enviar { $tabCount } separadores para dispositivo
         }
     .accesskey = n
+tab-context-unload-n-tabs =
+    .label =
+        { $tabCount ->
+            [1] Descarregar separador
+            [one] Descarregar um separador
+           *[other] Descarregar { $tabCount } separadores
+        }
+    .accesskey = D
