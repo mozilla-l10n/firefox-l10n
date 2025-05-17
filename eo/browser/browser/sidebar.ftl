@@ -78,10 +78,16 @@ sidebar-context-menu-remove-extension =
     .label = Forigi etendaĵon
 sidebar-context-menu-report-extension =
     .label = Denunci etendaĵon
+sidebar-context-menu-open-in-tab =
+    .label = Malfermi en nova langeto
+sidebar-context-menu-open-in-container-tab =
+    .label = Malfermi en nova inga langeto
 sidebar-context-menu-open-in-window =
     .label = Malfermi en nova fenestro
 sidebar-context-menu-open-in-private-window =
     .label = Malfermi en nova privata fenestro
+sidebar-context-menu-forget-site =
+    .label = Viŝi ĉiujn datumojn por retejo…
 sidebar-context-menu-bookmark-tab =
     .label = Aldoni langeton al legosignoj…
 sidebar-context-menu-copy-link =
@@ -101,6 +107,10 @@ sidebar-context-menu-close-remote-tab =
 
 sidebar-history-context-menu-delete-page =
     .label = Forigi el la historio
+sidebar-history-context-menu-delete-page-2 =
+    .label = Forigu paĝon el la historio
+sidebar-history-context-menu-bookmark-page =
+    .label = Aldoni paĝon al legosignoj…
 
 ## Labels for sidebar menu items.
 

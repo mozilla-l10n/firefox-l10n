@@ -41,3 +41,9 @@ experimental-features-link-previews-description =
         [macos] Por scii pli pri retpaĝo, antaŭ ol alklaki ĝin, metu la montrilon super la ligilon kaj premu Maj (⇧) kaj la klavon Option (⌥) aŭ Alt. Antaŭmontro povas inkluzivi detalojn kiel titolon kaj legotempon. Por kelkaj paĝoj, A.I. povas ankaŭ legi la tekston kaj krei liston de ĉefaj punktoj. La A.I. estas optimumigita por lego kaj kreado de anglalingvaj tekstoj. Por prioritatigi vian privatecon, la A.I. funkcias surloke, en via komputilo. <a data-l10n-name="connect">Dividi komentojn</a>
        *[other] Por scii pli pri retpaĝo, antaŭ ol alklaki ĝin, metu la montrilon super la ligilon kaj premu Maj (⇧) kaj Alt. Antaŭmontro povas inkluzivi detalojn kiel titolon kaj legotempon. Por kelkaj paĝoj, A.I. povas ankaŭ legi la tekston kaj krei liston de ĉefaj punktoj. La A.I. estas optimumigita por lego kaj kreado de anglalingvaj tekstoj. Por prioritatigi vian privatecon, la A.I. funkcias surloke, en via komputilo. <a data-l10n-name="connect">Dividi komentojn</a>
     }
+# This version of the link previews description does not mention AI.
+experimental-features-link-previews-description-no-ai =
+    { PLATFORM() ->
+        [macos] Por scii pli pri retpaĝo, antaŭ ol alklaki ĝin, metu la montrilon super la ligilon kaj premu Maj (⇧) kaj Alt aŭ Option (⌥). Antaŭmontro povas inkluzivi detalojn kiel titolon kaj tempon de legado.<a data-l10n-name="connect">Dividi komentojn</a>
+       *[other] Por scii pli pri retpaĝo, antaŭ ol alklaki ĝin, metu la montrilon super la ligilon kaj premu Maj (⇧) kaj Alt. Antaŭmontro povas inkluzivi detalojn kiel titolon kaj tempon de legado.<a data-l10n-name="connect">Dividi komentojn</a>
+    }

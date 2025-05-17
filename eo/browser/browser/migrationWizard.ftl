@@ -201,6 +201,7 @@ migration-chrome-windows-password-import-steps-header = En Chrome:
 migration-chrome-windows-password-import-step1 = Malfermu la ĉefan menuon <img data-l10n-name="chrome-icon-3dots"/> kaj iru al Pasvortoj kaj aŭtomata plenigu > Administranto de pasvortoj de Google.
 migration-chrome-windows-password-import-step2 = Elektu “Agoroj” en la menuo.
 migration-chrome-windows-password-import-step3 = Elektu “Elŝuti dosieron” kaj konservu ĝin en via aparato.
+migration-chrome-windows-password-import-step4 = Revenu ĉi tien kaj elektu “Elekti dosieron”  por fini la enporton.
 migration-manual-password-import-skip-button = Ignori
 migration-manual-password-import-select-button = Elekti dosieron
 migration-safari-password-import-skip-button = Ignori
