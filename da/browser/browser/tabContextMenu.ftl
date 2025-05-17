@@ -133,3 +133,11 @@ tab-context-send-tabs-to-device =
            *[other] Send { $tabCount } faneblade til enhed
         }
     .accesskey = d
+tab-context-unload-n-tabs =
+    .label =
+        { $tabCount ->
+            [1] Nedluk faneblad
+            [one] Nedluk faneblad
+           *[other] Nedluk { $tabCount } faneblade
+        }
+    .accesskey = N

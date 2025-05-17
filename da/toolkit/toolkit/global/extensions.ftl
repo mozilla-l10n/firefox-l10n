@@ -16,6 +16,7 @@ webext-perms-header-unsigned = Tilføj { $extension }? Denne udvidelse er ikke v
 webext-perms-header-unsigned-with-perms = Tilføj { $extension }? Denne udvidelse er ikke verificeret. Ondsindede udvidelser kan stjæle dine personlige oplysninger eller bringe din computer i fare. Tilføj kun udvidelsen, hvis du stoler på udvikleren bag. Denne udvidelse vil have tilladelse til at:
 webext-perms-sideload-header = { $extension } tilføjet
 webext-perms-optional-perms-header = { $extension } kræver yderligere tilladelser.
+webext-perms-header2 = Tilføj { $extension }
 
 ## Headers used in the webextension permissions dialog, inside the content.
 

@@ -49,3 +49,4 @@ webext-perms-extra-warning-userScripts-short = Ubekræftede scripts kan udgøre 
 
 ## Long form to be used in `about:addons` when these data collection permissions are optional.
 
+webext-perms-description-data-long-technicalAndInteraction = Del tekniske data og data om brug med udvikleren af udvidelsen

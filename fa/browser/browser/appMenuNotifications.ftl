@@ -41,9 +41,6 @@ appmenu-addon-private-browsing-installed2 =
     .buttonlabel = تایید
     .buttonaccesskey = ت
 appmenu-addon-post-install-message3 = افزونه‌ها و تم‌های خود را از طریق منو برنامه مدیریت کنید.
-# This string is used in the confirmation popup displayed after an extension
-# has been installed, when the data collection feature is enabled.
-appmenu-addon-post-install-message-with-data-collection = هر زمان که خواستید، مجوزها و ترجیحات مربوط به داده را در تنظیمات افزونه ‪<a data-l10n-name="settings-link">‬ به‌روز کنید.
 appmenu-addon-post-install-incognito-checkbox =
     .label = به این افزونه اجازه‌ی اجرا در پنجره خصوصی را بده
     .accesskey = ب
