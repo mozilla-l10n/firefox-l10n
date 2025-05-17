@@ -117,6 +117,9 @@ newtab-menu-delete-pocket = ลบจาก { -pocket-brand-name }
 newtab-menu-archive-pocket = เก็บถาวรใน { -pocket-brand-name }
 newtab-menu-show-privacy-info = สปอนเซอร์ของเราและความเป็นส่วนตัวของคุณ
 newtab-menu-about-fakespot = เกี่ยวกับ { -fakespot-brand-name }
+# Report is a verb (i.e. report issue with the content).
+newtab-menu-report = รายงาน
+newtab-menu-report-content = รายงานเนื้อหานี้
 # Context menu option to personalize New Tab recommended stories by blocking a section of stories,
 # e.g. "Sports". "Block" is a verb here.
 newtab-menu-section-block = ปิดกั้น
@@ -128,6 +131,7 @@ newtab-menu-section-unfollow = เลิกติดตามหัวข้อ
 
 newtab-menu-manage-sponsored-content = จัดการเนื้อหาที่ได้รับการสนับสนุน
 newtab-menu-our-sponsors-and-your-privacy = ผู้สนับสนุนของเราและความเป็นส่วนตัวของคุณ
+newtab-menu-report-this-ad = รายงานโฆษณานี้
 
 ## Message displayed in a modal window to explain privacy and provide context for sponsored content.
 
@@ -384,6 +388,7 @@ newtab-wallpaper-starry-canyon = คืนที่เต็มไปด้ว�
 newtab-wallpaper-suspension-bridge = ภาพถ่ายสะพานแขวนสีเทาในช่วงกลางวัน
 newtab-wallpaper-sand-dunes = เนินทรายสีขาว
 newtab-wallpaper-palm-trees = ภาพเงาของต้นมะพร้าวในช่วงชั่วโมงทองคำ
+newtab-wallpaper-blue-flowers = ภาพถ่ายระยะใกล้ของดอกไม้กลีบสีน้ำเงินที่กำลังบาน
 # Variables
 #   $author_string (String) - The name of the creator of the photo.
 #   $webpage_string (String) - The name of the webpage where the photo is located.

@@ -71,6 +71,11 @@ perftools-button-edit-settings = แก้ไขการตั้งค่า�
 
 ## More actions menu
 
+perftools-menu-more-actions-button =
+    .title = การกระทำเพิ่มเติม
+perftools-menu-more-actions-restart-with-profiling = เริ่ม { -brand-shorter-name } ใหม่พร้อมเปิดใช้งานการทำโปรไฟล์ตอนเริ่มโปรแกรม
+perftools-menu-more-actions-copy-for-startup = คัดลอกตัวแปรสภาพแวดล้อมสำหรับการทำโปรไฟล์ตอนเริ่มโปรแกรม
+perftools-menu-more-actions-copy-for-perf-tests = คัดลอกพารามิเตอร์สำหรับการทดสอบประสิทธิภาพ
 
 ## These messages are descriptions of the threads that can be enabled for the profiler.
 

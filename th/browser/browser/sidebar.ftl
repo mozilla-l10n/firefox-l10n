@@ -31,6 +31,10 @@ sidebar-history-sort-by-site =
     .label = เรียงตามไซต์
 sidebar-history-clear =
     .label = ล้างประวัติ
+sidebar-history-sort-option-date-and-site =
+    .label = วันที่และไซต์
+sidebar-history-sort-option-last-visited =
+    .label = เยี่ยมชมล่าสุด
 
 ## Labels for sidebar search
 
@@ -69,10 +73,16 @@ sidebar-context-menu-remove-extension =
     .label = เอาส่วนขยายออก
 sidebar-context-menu-report-extension =
     .label = รายงานส่วนขยาย
+sidebar-context-menu-open-in-tab =
+    .label = เปิดในแท็บใหม่
+sidebar-context-menu-open-in-container-tab =
+    .label = เปิดในแท็บแยกข้อมูลใหม่
 sidebar-context-menu-open-in-window =
     .label = เปิดในหน้าต่างใหม่
 sidebar-context-menu-open-in-private-window =
     .label = เปิดในหน้าต่างส่วนตัวใหม่
+sidebar-context-menu-forget-site =
+    .label = ล้างข้อมูลทั้งหมดสำหรับเว็บไซต์…
 sidebar-context-menu-bookmark-tab =
     .label = เพิ่มที่คั่นหน้าสำหรับแท็บ…
 sidebar-context-menu-copy-link =
@@ -92,6 +102,10 @@ sidebar-context-menu-close-remote-tab =
 
 sidebar-history-context-menu-delete-page =
     .label = ลบออกจากประวัติ
+sidebar-history-context-menu-delete-page-2 =
+    .label = ลบหน้าจากประวัติ
+sidebar-history-context-menu-bookmark-page =
+    .label = เพิ่มที่คั่นหน้าสำหรับหน้า…
 
 ## Labels for sidebar menu items.
 

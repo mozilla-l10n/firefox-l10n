@@ -101,6 +101,8 @@ perplexity-callout-theme-1-subtitle-2 = ถามคำถามและรั�
 perplexity-callout-theme-2-subtitle-1 = ถาม Perplexity เลย คุณจะได้รับคำตอบที่สมบูรณ์และมีแหล่งข้อมูลประกอบ
 perplexity-callout-theme-2-subtitle-2 = ถามคำถามเลย เพื่อรับคำตอบที่สมบูรณ์และมีแหล่งข้อมูลประกอบ
 perplexity-callout-primary-label = ถาม Perplexity
+perplexity-callout-secondary-label-1 = ปิด
+perplexity-callout-secondary-label-2 = เข้าใจแล้ว
 
 ## Sidebar Strings
 
