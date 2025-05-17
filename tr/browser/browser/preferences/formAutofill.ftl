@@ -5,7 +5,7 @@
 
 ## The address and credit card autofill management dialog in browser preferences
 
-autofill-manage-addresses-title = Kayıtlı Adresler
+autofill-manage-addresses-title = Kayıtlı adresler
 autofill-manage-addresses-list-header = Adresler
 autofill-manage-credit-cards-title = Kayıtlı Kredi Kartları
 autofill-manage-credit-cards-list-header = Kredi kartları

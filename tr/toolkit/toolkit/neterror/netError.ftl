@@ -103,8 +103,8 @@ neterror-proxy-resolve-failure-connection = Bilgisayarınızın düzgün işleye
 neterror-proxy-resolve-failure-firewall = Bilgisayarınız veya ağınız güvenlik duvarı veya vekil sunucu ile korunuyorsa { -brand-short-name } uygulamasının web’e erişim izni olduğundan emin olun.
 neterror-proxy-connect-failure-settings = Vekil sunucu ayarlarınızın doğru olup olmadığına bakın.
 neterror-proxy-connect-failure-contact-admin = Vekil sunucunun çalıştığından emin olmak için ağ yöneticinizden bilgi alabilirsiniz.
-neterror-content-encoding-error = Site sahipleriyle iletişim kurarak bu sorunu onlara bildirmeyi düşünebilirsiniz.
-neterror-unsafe-content-type = Site sahipleriyle iletişim kurarak bu sorunu onlara bildirmeyi düşünebilirsiniz.
+neterror-content-encoding-error = Sitenin sahibiyle iletişime geçerek bu sorunu bildirmeyi deneyebilirsiniz.
+neterror-unsafe-content-type = Sitenin sahibiyle iletişime geçerek bu sorunu bildirmeyi deneyebilirsiniz.
 # Variables:
 # $hostname (String) - Hostname of the website to which the user was trying to connect.
 neterror-basic-http-auth = Bağlantı güvenli olmadığı için { -brand-short-name } { $hostname } sitesine güvenmiyor. URL’yi HTTPS olarak değiştirmeyi deneyin.
@@ -124,7 +124,7 @@ certerror-expired-cert-intro = { -brand-short-name } olası bir güvenlik tehdid
 # $mitm (String) - The name of the software intercepting communications between you and the website (or “man in the middle”)
 certerror-mitm = <b>{ $hostname }</b> büyük olasılıkla güvenilir bir site olmasına rağmen güvenli bir bağlantı kurulamadı. Bu sorun, bilgisayarınızda veya ağınızda bulunan <b>{ $mitm }</b> adlı yazılımdan kaynaklanmaktadır.
 neterror-corrupted-content-intro = Veri aktarımında bir hata tespit edildiği için bakmak istediğiniz sayfa gösterilemiyor.
-neterror-corrupted-content-contact-website = Site sahipleriyle iletişim kurup bu sorunu onlara bildirmeyi düşünebilirsiniz.
+neterror-corrupted-content-contact-website = Sitenin sahibiyle iletişime geçerek bu sorunu bildirmeyi deneyebilirsiniz.
 # Do not translate "SSL_ERROR_UNSUPPORTED_VERSION".
 neterror-sslv3-used = İleri düzey bilgi: SSL_ERROR_UNSUPPORTED_VERSION
 # Variables:
@@ -137,7 +137,7 @@ neterror-inadequate-security-code = Hata kodu: NS_ERROR_NET_INADEQUATE_SECURITY
 # $now (Date) - The current datetime, to be formatted as a date
 neterror-clock-skew-error = Bilgisayarınız saatin { DATETIME($now, dateStyle: "medium") } olduğunu sanıyor, bu yüzden de { -brand-short-name } güvenli bağlantı kuramıyor. <b>{ $hostname }</b> adresini ziyaret etmek için sistem ayarlarınıza girerek bilgisayarınızın tarihini, saatini ve saat dilimini güncelleyin. Ardından <b>{ $hostname }</b> sayfasını tazeleyin.
 neterror-network-protocol-error-intro = Ağ protokolünde bir hata bulunduğu için, görüntülemeye çalıştığınız sayfa gösterilemiyor.
-neterror-network-protocol-error-contact-website = Web sitesinin sahipleriyle iletişim kurarak bu sorunu bildirmeyi deneyebilirsiniz.
+neterror-network-protocol-error-contact-website = Sitenin sahibiyle iletişime geçerek bu sorunu bildirmeyi deneyebilirsiniz.
 certerror-expired-cert-second-para = Büyük olasılıkla web sitesinin sertifikasının süresi dolmuş ve bu yüzden { -brand-short-name } güvenli bağlantı kuramıyor. Bu siteye girerseniz saldırganlar parola, e-posta ve kredi kartı gibi bilgilerinizi çalmaya çalışabilir.
 certerror-expired-cert-sts-second-para = Büyük olasılıkla web sitesinin sertifikasının süresi dolmuş ve bu yüzden { -brand-short-name } güvenli bağlantı kuramıyor.
 certerror-what-can-you-do-about-it-title = Ne yapabilirsiniz?

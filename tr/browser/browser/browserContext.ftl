@@ -181,8 +181,8 @@ main-context-menu-strip-on-share-link =
 ## mutually exclusive.
 
 main-context-menu-media-play =
-    .label = Yürüt
-    .accesskey = Y
+    .label = Oynat
+    .accesskey = O
 main-context-menu-media-pause =
     .label = Duraklat
     .accesskey = D

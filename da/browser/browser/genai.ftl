@@ -138,6 +138,7 @@ genai-onboarding-select-header = Marker tekst for at se forslag
 genai-onboarding-select-description = Når du markerer tekst foreslår vi prompts, du kan sende til chatbotten. Du kan også skrive dine egne prompts.
 genai-onboarding-select-primary = Gå i gang med at chatte
 genai-chatbot-contextual-title = Brug en AI-chatbot uden at skifte faneblade
+genai-chatbot-contextual-subtitle = Chat og surf på samme tid, når du føjer en AI-chatbot til sidepanelet i { -brand-short-name }.
 genai-chatbot-contextual-button = Vælg en chatbot
 
 ## Chatbot onboarding choices
