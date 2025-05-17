@@ -133,3 +133,10 @@ tab-context-send-tabs-to-device =
            *[other] Sendi { $tabCount } langetojn al aparato
         }
     .accesskey = S
+tab-context-unload-n-tabs =
+    .label =
+        { $tabCount ->
+            [1] Liberigi langeton
+           *[other] Unload { $tabCount } Tabs
+        }
+    .accesskey = L

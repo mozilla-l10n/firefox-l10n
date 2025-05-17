@@ -54,6 +54,10 @@ neterror-dns-not-found-hint-header = <strong>Se vi tajpis la ĝustan adreson, vi
 neterror-dns-not-found-hint-try-again = klopodi denove poste
 neterror-dns-not-found-hint-check-network = kontroli vian retaliron
 neterror-dns-not-found-hint-firewall = kontroli ĉu { -brand-short-name } rajtas aliri la reton (vi eble estas konektita, sed malantaŭ retbarilo).
+neterror-dns-not-found-offline-hint-header = <strong>Kion vi povus fari tio tio?</strong>
+neterror-dns-not-found-offline-hint-different-device = Provu konektiĝi el alia aparato.
+neterror-dns-not-found-offline-hint-modem = Kontrolu vian modemon aŭ retalirilon.
+neterror-dns-not-found-offline-hint-reconnect = Malkonektu kaj rekonektu la sendratan reton (Wi-Fi).
 
 ## TRR-only specific messages
 ## Variables:
