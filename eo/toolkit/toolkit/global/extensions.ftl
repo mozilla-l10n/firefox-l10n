@@ -53,6 +53,9 @@ webext-perms-sideload-cancel =
     .accesskey = N
 # Variables:
 #   $extension (String): replaced with the localized name of the extension.
+webext-perms-update-text2 = { $extension } estis ĝisdatigita. Vi devas aprobi novajn permesojn antaŭ ol la ĝisdatigita versio estos instalita. Se vi elektas "Nuligi" vi gardos la nunan version de la etendaĵo.
+# Variables:
+#   $extension (String): replaced with the localized name of the extension.
 webext-perms-update-text = { $extension } estis ĝisdatigita. Vi devas aprobi la novajn permesojn por povi instali la ĝisdatigitan version. Se vi elektas “Nuligi“ vi gardos vian nunan version. Tiu ĉi etendaĵo havs la jenan permesojn:
 webext-perms-update-accept =
     .label = Ĝisdatigi
@@ -105,6 +108,26 @@ webext-perms-host-description-multiple-domains =
 
 ## Strings for data collection permissions in the permission prompt.
 
+webext-perms-description-data-none = La programisto indikas ke tiu ĉi etendaĵo ne postulas kolekton de datumoj.
+# Variables:
+#    $permissions (String): a list of data collection permissions formatted with `Intl.ListFormat` using the "narrow" style.
+webext-perms-description-data-some = La programisto indikas ke tiu ĉi etendaĵo kolektas: { $permissions }
+# Variables:
+#    $permissions (String): a list of data collection permissions formatted with `Intl.ListFormat` using the "narrow" style.
+webext-perms-description-data-some-update = La programisto indikas ke la etendaĵo kolektos: { $permissions }
+# Variables:
+#    $permissions (String): a list of data collection permissions formatted with `Intl.ListFormat` using the "narrow" style.
+webext-perms-description-data-some-optional = La programisto indikas ke la etendaĵo volas kolekti: { $permissions }
+# Variables:
+#   $extension (String): replaced with the localized name of the extension.
+webext-perms-update-text-with-data-collection = { $extension } postulas novajn agordojn antaŭ ĝisdatiĝo
+webext-perms-update-list-intro-with-data-collection = Nuligu por gardi vian nunan version kaj agordojn, aŭ ĝisdatigu por havi la novan version kaj aprobi la ŝanĝojn.
+# Variables:
+#   $extension (String): replaced with the localized name of the extension.
+webext-perms-optional-text-with-data-collection = { $extension } petas aldonajn agordojn
+# Variables:
+#   $extension (String): replaced with the localized name of the extension.
+webext-perms-optional-text-with-data-collection-only = { $extension } petas aldonan kolekton de datumoj
 
 ## Headers used in the webextension permissions dialog for synthetic add-ons.
 ## The part of the string describing what privileges the extension gives should be consistent
@@ -142,3 +165,5 @@ webext-site-perms-midi-sysex = Aliri aparatojn MIDI kun subteno por SysEx
 
 ## Colorway theme migration
 
+webext-colorway-theme-migration-notification-message = <b>Via koloraro estis forigita.</b> { -brand-shorter-name } ĝisdatigis sian kolekton de koloraroj. Vi povas trovi la lastajn versiojn en la retejo por aldonaĵoj.
+webext-colorway-theme-migration-notification-button = Ricevu ĝisdatigitajn kolorarojn

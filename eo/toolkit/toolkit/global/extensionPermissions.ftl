@@ -46,6 +46,19 @@ webext-perms-extra-warning-userScripts-short = Nekontrolitaj skriptoj povas prez
 ##
 ## This is used when the data collection permissions are required.
 
+webext-perms-description-data-short-authenticationInfo = aŭtentiga informo
+webext-perms-description-data-short-bookmarksInfo = legosignoj
+webext-perms-description-data-short-browsingActivity = retumo
+webext-perms-description-data-short-financialAndPaymentInfo = financa kaj paga informo
+webext-perms-description-data-short-healthInfo = sana informo
+webext-perms-description-data-short-locationInfo = loko
+webext-perms-description-data-short-personalCommunications = persona komunikado
+webext-perms-description-data-short-personallyIdentifyingInfo = personaj datumoj
+webext-perms-description-data-short-searchTerms = serĉaj tekstoj
+webext-perms-description-data-short-technicalAndInteraction = teknikaj kaj interagaj datumoj
+webext-perms-description-data-short-websiteActivity = retumo en retejoj
+webext-perms-description-data-short-websiteContent = enhavo de retumoj
 
 ## Long form to be used in `about:addons` when these data collection permissions are optional.
 
+webext-perms-description-data-long-authenticationInfo = Dividi aŭtentigan informon kun la programisto de la etendaĵo
