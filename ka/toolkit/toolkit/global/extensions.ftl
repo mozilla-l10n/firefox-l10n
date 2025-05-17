@@ -26,6 +26,14 @@ webext-perms-header-required-perms = მოთხოვნილი ნება
 webext-perms-header-optional-settings = დამატებითი პარამეტრები:
 webext-perms-header-update-required-perms = ახლად მოთხოვნილი ნებართვები:
 webext-perms-header-optional-required-perms = ახალი ნებართვები:
+webext-perms-header-data-collection-perms = მნიშვნელოვანი მონაცემების შეგროვება:
+webext-perms-header-data-collection-is-none = მონაცემების შეგროვება:
+# This is a header used in the add-ons "update" prompt, shown when the new
+# version requires new data collection permissions.
+webext-perms-header-update-data-collection-perms = ახალი მნიშვნელოვანი მონაცემების შეგროვება:
+# This is a header used in the add-ons "optional" prompt, shown when the
+# extension requests new data collection permissions programmatically.
+webext-perms-header-optional-data-collection-perms = ახალი მონაცემების შეგროვება:
 
 ##
 
@@ -99,6 +107,13 @@ webext-perms-host-description-multiple-domains =
 
 ## Strings for data collection permissions in the permission prompt.
 
+webext-perms-description-data-none = შემქმნელის თქმით ეს გაფართოება არ საჭიროებს მონაცემთა შეგროვებას.
+# Variables:
+#    $permissions (String): a list of data collection permissions formatted with `Intl.ListFormat` using the "narrow" style.
+webext-perms-description-data-some = შემქმნელის თქმით ამ გაფართოებას ესაჭიროება: { $permissions }
+# Variables:
+#   $extension (String): replaced with the localized name of the extension.
+webext-perms-update-text-with-data-collection = { $extension } საჭიროებს ახალ პარამეტრებს განახლებისთვის
 
 ## Headers used in the webextension permissions dialog for synthetic add-ons.
 ## The part of the string describing what privileges the extension gives should be consistent

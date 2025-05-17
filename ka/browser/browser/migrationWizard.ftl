@@ -196,6 +196,12 @@ migration-safari-password-import-step1 = Safari-ში გახსენით 
 migration-safari-password-import-step2 = გამოიყენეთ <img data-l10n-name="safari-icon-3dots"/> ღილაკი და აირჩიეთ „ყველა პაროლის გადმოტანა”
 migration-safari-password-import-step3 = შეინახეთ პაროლების ფაილი
 migration-safari-password-import-step4 = მიუთითეთ „ფაილის არჩევა“ ქვემოთ შენახული ფაილის შემოსატანად
+migration-chrome-windows-password-import-header = პაროლების გადმოტანა, რომელთაც ინახავს Chrome
+migration-chrome-windows-password-import-steps-header = Chrome-ში:
+migration-chrome-windows-password-import-step1 = გახსენით მთავარი მენიუ <img data-l10n-name="chrome-icon-3dots"/>, შემდეგ კი იხილეთ პაროლები და თვითშევსება > Google – პაროლების მმართველი.
+migration-chrome-windows-password-import-step2 = აირჩიეთ „Settings“ მენიუდან.
+migration-chrome-windows-password-import-step3 = მიუთითეთ „Download file“ და შეინახეთ მოწყობილობაზე.
+migration-chrome-windows-password-import-step4 = დააბრუნეთ აქ და მიუთითეთ „ფაილის არჩევა“ გადმოტანის დასასრულებლად.
 migration-manual-password-import-skip-button = გამოტოვება
 migration-manual-password-import-select-button = ფაილის არჩევა
 migration-safari-password-import-skip-button = გამოტოვება

@@ -130,3 +130,10 @@ tab-context-send-tabs-to-device =
            *[other] { $tabCount } ჩანართის მოწყობილობაზე გაგზავნა
         }
     .accesskey = ნ
+tab-context-unload-n-tabs =
+    .label =
+        { $tabCount ->
+            [1] ჩანართის განტვირთვა
+           *[other] { $tabCount } ჩანართის განტვირთვა
+        }
+    .accesskey = ტ
