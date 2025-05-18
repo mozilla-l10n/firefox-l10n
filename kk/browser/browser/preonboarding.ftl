@@ -8,6 +8,9 @@
 preonboarding-title = { -brand-product-name } ішіне қош келдіңіз
 preonboarding-primary-cta = Растау және жалғастыру
 preonboarding-primary-cta-v2 = Жалғастыру
+preonboarding-terms-of-use-header-button-title-b-v2 = Қолдану шарттары
 preonboarding-privacy-notice-header-button-title-b-v2 = Жекелік ескертуі
 # Description under label for header style buttons
 preonboarding-header-button-description = Көбірек білу
+preonboarding-checklist-crash-reports-label = Құлау хабарламаларын автоматты түрде жіберу
+preonboarding-checklist-crash-reports-description = Құлау есептемелері браузердегі ақауларды диагностикалауға және түзетуге мүмкіндік береді. Есептемелер жеке немесе сезімтал деректерді қамтуы мүмкін.

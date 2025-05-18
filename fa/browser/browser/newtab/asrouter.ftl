@@ -145,12 +145,18 @@ spotlight-pin-secondary-button = اکنون نه
 ## The button labels are fitted into narrow fixed-width buttons by
 ## Windows and therefore must be as narrow as possible.
 
+# This button label will be fitted into a narrow fixed-width button by
+# Windows. Try to not exceed the width of the English text (compare it using a
+# variable font like Arial): the button can only fit 1-2 additional characters,
+# exceeding characters will be truncated.
+mr2022-background-update-toast-secondary-button-label = زمانی دیگر یادآوری کن
 
 ## Firefox View CFR
 
 
 ## Firefox View Spotlight
 
+firefoxview-spotlight-promo-primarybutton = ببینید چگونه کار می‌کند
 firefoxview-spotlight-promo-secondarybutton = پرش
 
 ## Colorways expiry reminder CFR
@@ -161,17 +167,22 @@ firefoxview-spotlight-promo-secondarybutton = پرش
 
 ## These strings are used in the Fox doodle Pin/set default spotlights
 
+fox-doodle-pin-headline = خوش برگشتید
+fox-doodle-pin-secondary = اکنون نه
 
 ## These strings are used in the Set Firefox as Default PDF Handler for Existing Users experiment
 
 
 ## FxA sync CFR
 
+fxa-sync-cfr-header = دستگاه تازه‌ای در آینده؟
 fxa-sync-cfr-primary = بیشتر بدانید
     .accesskey = ب
 
 ## Device Migration FxA Spotlight
 
+device-migration-fxa-spotlight-heavy-user-primary-button = شروع کنید
+device-migration-fxa-spotlight-sync-primary-button = شروع کنید
 
 ## Set as Default PDF Reader Infobar
 

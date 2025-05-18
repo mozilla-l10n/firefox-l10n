@@ -30,7 +30,10 @@ migration-wizard-migrator-display-name-firefox = Firefox
 migration-wizard-migrator-display-name-file-password-csv = گذرواژه‌ها از پروندهٔ CSV
 migration-wizard-migrator-display-name-file-bookmarks = نشانک‌ها از پروندهٔ HTML
 migration-wizard-migrator-display-name-ie = اینترنت اکسپلورر مایکروسافت
+migration-wizard-migrator-display-name-opera = اپرا
+migration-wizard-migrator-display-name-opera-gx = اپرا جی‌ایکس
 migration-wizard-migrator-display-name-safari = سافاری
+migration-wizard-migrator-display-name-vivaldi = ویوالدی
 migration-source-name-ie = اینترنت اکسپلورر
 migration-source-name-edge = مایکروسافت Edge
 migration-source-name-chrome = گوگل کروم
@@ -41,6 +44,15 @@ migration-imported-edge-reading-list = لیست مطالعه (از Edge)
 ## In practice, this tends to only occur on Linux when Firefox
 ## is installed as a Snap.
 
+migration-no-permissions-message = { -brand-short-name } به نمایه‌های مرورگرهای دیگر نصب‌شده روی این دستگاه دسترسی ندارد.
+migration-no-permissions-instructions = برای ادامهٔ درون‌ریزی داده‌ها از مرورگر دیگر، به { -brand-short-name } دسترسی به پوشهٔ نمایهٔ آن را اعطا کنید.
+migration-no-permissions-instructions-step1 = «ادامه» را انتخاب کنید
+# The second step in getting permissions to read data for the selected
+# browser type.
+#
+# Variables:
+#  $permissionsPath (String): the file system path that the user will need to grant read permission to.
+migration-no-permissions-instructions-step2 = در انتخابگر پرونده، به <code>{ $permissionsPath }</code> بروید و «انتخاب» را بزنید.
 
 ## These strings will be displayed based on how many resources are selected to import
 
@@ -63,10 +75,12 @@ migration-form-autofill-option-label = دادهٔ پرکردن خودکار فر
 migration-payment-methods-option-label = روش‌های پرداخت
 migration-session-option-label = پنجره‌ها و زبانه‌ها
 migration-otherdata-option-label = دیگر داده‌ها
+migration-passwords-from-file-progress-header = درون‌ریزی پروندهٔ گذرواژه‌ها
 migration-passwords-from-file-success-header = گذرواژه‌ها با موفقیت درون‌ریزی شدند
 migration-passwords-from-file = بررسی پرونده برای گذرواژه‌ها
 migration-passwords-new = گذرواژه‌های جدید
 migration-passwords-updated = گذرواژه‌های کنونی
+migration-passwords-from-file-no-valid-data = این پرونده فاقد داده‌های معتبر گذرواژه است. پروندهٔ دیگری را انتخاب کنید.
 migration-passwords-from-file-picker-title = درون‌ریزی پروندهٔ گذرواژه‌ها
 # A description for the .csv file format that may be shown as the file type
 # filter by the operating system.
@@ -82,6 +96,27 @@ migration-passwords-from-file-tsv-filter-title =
         [macos] نوشتار TSV
        *[other] پروندهٔ TSV
     }
+# Shown in the migration wizard after importing passwords from a file
+# has completed, if new passwords were added.
+#
+# Variables:
+#  $newEntries (Number): the number of new successfully imported passwords
+migration-wizard-progress-success-new-passwords =
+    { $newEntries ->
+        [one] { $newEntries } مورد افزوده شد
+       *[other] { $newEntries } مورد افزوده شد
+    }
+# Shown in the migration wizard after importing passwords from a file
+# has completed, if existing passwords were updated.
+#
+# Variables:
+#  $updatedEntries (Number): the number of updated passwords
+migration-wizard-progress-success-updated-passwords =
+    { $updatedEntries ->
+        [one] { $updatedEntries } مورد به‌روز شد
+       *[other] { $updatedEntries } مورد به‌روز شد
+    }
+migration-bookmarks-from-file-picker-title = درون‌ریزی پروندهٔ نشانک‌ها
 migration-bookmarks-from-file = نشانک‌ها
 # A description for the .html file format that may be shown as the file type
 # filter by the operating system.

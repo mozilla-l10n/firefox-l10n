@@ -19,3 +19,5 @@ identity-credential-urlbar-anchor =
 identity-credential-sign-in-button =
     .label = ورود
     .accesskey = و
+identity-credential-policy-title = استفاده از { $provider } به عنوان یک فراهم‌کنندهٔ ورود
+identity-credential-policy-description = ورود به { $host } با حساب { $provider } تابع <label data-l10n-name="privacy-url">سیاست حفظ حریم خصوصی</label> و <label data-l10n-name="tos-url">شرایط خدمات</label> آنها است.

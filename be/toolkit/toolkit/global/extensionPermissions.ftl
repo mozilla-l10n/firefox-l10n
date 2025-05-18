@@ -46,6 +46,24 @@ webext-perms-extra-warning-userScripts-short = Неправераныя скры
 ##
 ## This is used when the data collection permissions are required.
 
+webext-perms-description-data-short-authenticationInfo = інфармацыя для аўтэнтыфікацыі
+webext-perms-description-data-short-bookmarksInfo = закладкі
+webext-perms-description-data-short-browsingActivity = актыўнасць аглядання
+webext-perms-description-data-short-financialAndPaymentInfo = фінансавая і плацежная інфармацыя
+webext-perms-description-data-short-healthInfo = інфармацыя пра здароўе
+webext-perms-description-data-short-locationInfo = месцазнаходжанне
+webext-perms-description-data-short-personalCommunications = асабістыя зносіны
+webext-perms-description-data-short-personallyIdentifyingInfo = інфармацыя, якая вызначае асобу
+webext-perms-description-data-short-searchTerms = пошукавыя запыты
+webext-perms-description-data-short-technicalAndInteraction = тэхнічныя дадзеныя і звесткі аб узаемадзеянні
+webext-perms-description-data-short-websiteActivity = актыўнасць на сайце
+webext-perms-description-data-short-websiteContent = змесціва сайтаў
 
 ## Long form to be used in `about:addons` when these data collection permissions are optional.
 
+webext-perms-description-data-long-authenticationInfo = Дзяліцца інфармацыяй для аўтэнтыфікацыі з распрацоўшчыкам пашырэння
+webext-perms-description-data-long-bookmarksInfo = Дзяліцца інфармацыяй аб закладках з распрацоўшчыкам пашырэння
+webext-perms-description-data-long-browsingActivity = Дзяліцца актыўнасцю агляданне з распрацоўшчыкам пашырэння
+webext-perms-description-data-long-financialAndPaymentInfo = Дзяліцца фінансавай і плацежнай інфармацыяй з распрацоўшчыкам пашырэння
+webext-perms-description-data-long-healthInfo = Дзяліцца інфармацыяй пра здароўе з распрацоўшчыкам пашырэння
+webext-perms-description-data-long-locationInfo = Дзяліцца інфармацыяй пра месцазнаходжанне з распрацоўшчыкам пашырэння

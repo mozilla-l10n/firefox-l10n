@@ -644,6 +644,7 @@ home-prefs-weather-header =
     .label = Ауа райы
 home-prefs-weather-description = Бүгінгі қысқаша болжам
 home-prefs-weather-learn-more-link = Көбірек білу
+home-prefs-mission-message-learn-more-link = Қалай екенін білу
 # Variables:
 #   $num (number) - Number of rows displayed
 home-prefs-sections-rows-option =
@@ -720,6 +721,8 @@ search-keyword-warning-title = Қысқаша атау қазір қолдану
 #   $name (string) - Name of a search engine.
 search-keyword-warning-engine = Сіз таңдаған қысқаша атау қазір "{ $name }" қолдануда. Басқасын таңдаңыз.
 search-keyword-warning-bookmark = Сіз таңдаған қысқаша атауды қазір бетбелгілердің біреуі қолданады. Басқасын таңдаңыз.
+remove-engine-confirmation = Бұл іздеу жүйесін өшіруді шынымен қалайсыз ба?
+remove-engine-remove = Өшіру
 
 ## Containers Section
 
