@@ -199,6 +199,12 @@ migration-safari-password-import-step1 = У Safari адкрыйце меню «S
 migration-safari-password-import-step2 = Націсніце кнопку <img data-l10n-name="safari-icon-3dots"/> і абярыце «Экспартаваць усе паролі»
 migration-safari-password-import-step3 = Захавайце файл пароляў
 migration-safari-password-import-step4 = Націсніце «Выбраць файл» ніжэй, каб выбраць файл пароляў, які вы захавалі
+migration-chrome-windows-password-import-header = Як імпартаваць паролі з Chrome
+migration-chrome-windows-password-import-steps-header = У Chrome:
+migration-chrome-windows-password-import-step1 = Адкрыйце галоўнае меню <img data-l10n-name="chrome-icon-3dots"/> і перайдзіце ў раздзел Паролі і аўтазапаўненне > Менеджэр пароляў Google.
+migration-chrome-windows-password-import-step2 = Абярыце ў меню пункт «Налады».
+migration-chrome-windows-password-import-step3 = Абярыце «Спампаваць файл» і захавайце яго на сваёй прыладзе.
+migration-chrome-windows-password-import-step4 = Вярніцеся сюды і націсніце «Выбраць файл», каб завяршыць імпарт.
 migration-manual-password-import-skip-button = Прапусціць
 migration-manual-password-import-select-button = Выбраць файл
 migration-safari-password-import-skip-button = Прапусціць

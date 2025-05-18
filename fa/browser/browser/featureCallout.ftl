@@ -72,6 +72,7 @@ bookmarks-toolbar-callout-1-primary-button-label = افزودن نشانک
 
 ## Perplexity callout strings
 
+perplexity-callout-primary-label = از پرپلکسیتی بپرسید
 
 ## Sidebar Strings
 

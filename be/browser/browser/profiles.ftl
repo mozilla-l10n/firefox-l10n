@@ -7,6 +7,8 @@ profile-window-body = Трымайце працоўнае і асабістае
 # This checkbox appears in the Choose profile window that appears when the browser is opened. "Show this" refers to this window, which is displayed when the checkbox is enabled.
 profile-window-checkbox-label-2 =
     .label = Выбіраць профіль пры адкрыцці { -brand-short-name }
+# This subcopy appears below the checkbox when it is unchecked
+profile-window-checkbox-subcopy = { -brand-short-name } будзе адкрываць ваш апошні выкарыстаны профіль.
 profile-window-create-profile = Стварыць профіль
 profile-card-edit-button =
     .title = Рэдагаваць профіль
@@ -94,6 +96,8 @@ profiles-magnolia-theme-2 = Ружовая магнолія
 profiles-ocean-theme-2 = Акіянскі блакіт
 # This dark theme features warm oranges, dark mahogany browns, and earthy red/brown colors. The name evokes the earthy colors of brick masonry. This name can be translated directly if it's easily understood in your language, or adapted to a more natural sounding name that fits the color scheme.
 profiles-terracotta-theme-2 = Цагляна-чырвоны
+# This dark theme features forest green, dusky green with a gray undertone, and a muted sage green. Its name evokes the rich color of green moss in the forest. This name can be translated directly if its easily understood in your language, or adapted to a more natural sounding name that fits the color scheme.
+profiles-moss-theme-2 = Мохава-зялёны
 
 ## Alternative text for default profile icons
 

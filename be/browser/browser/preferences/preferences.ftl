@@ -652,6 +652,8 @@ home-prefs-weather-header =
     .label = Надвор'е
 home-prefs-weather-description = Кароткі прагноз на сёння
 home-prefs-weather-learn-more-link = Падрабязней
+home-prefs-mission-message = Нашы спонсары падтрымліваюць нашу місію па стварэнні лепшага Інтэрнэту
+home-prefs-mission-message-learn-more-link = Даведацца, як
 # Variables:
 #   $num (number) - Number of rows displayed
 home-prefs-sections-rows-option =
