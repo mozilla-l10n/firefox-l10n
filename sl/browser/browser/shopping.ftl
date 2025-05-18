@@ -256,6 +256,12 @@ shopping-onboarding-welcome-steps-indicator-label =
 
 # Opt-in message strings for Review Checker when it is integrated into the global sidebar.
 shopping-opt-in-integrated-headline = Nakupujte z zaupanjem
+# Description text for regions where we support three sites. Sites are limited to Amazon, Walmart and Best Buy.
+# Variables:
+#   $firstSite (String) - The first shopping page name
+#   $secondSite (String) - The second shopping page name
+#   $thirdSite (String) - The third shopping page name
+shopping-opt-in-integrated-subtitle = Vključite pregledovalnik mnenj v { -brand-product-name(sklon: "mestnik") } in pred nakupom preverite, kako zanesljive so ocene izdelkov. Za analizo mnenj uporablja tehnologijo umetne inteligence in deluje, ko nakupujete v trgovinah { $firstSite }, { $secondSite } in { $thirdSite }. <a data-l10n-name="learn_more">Več o tem</a>
 
 ## Messages for callout for users not opted into the sidebar integrated version of Review Checker.
 
