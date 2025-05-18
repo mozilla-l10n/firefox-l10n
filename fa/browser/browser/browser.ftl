@@ -752,6 +752,9 @@ urlbar-group-quickactions =
 #  $engine (String): the name of the search engine used to search.
 urlbar-group-recent-searches =
     .label = جستجوهای اخیر
+# A message that replaces a result when the user dismisses all suggestions of a
+# particular type.
+urlbar-trending-dismissal-acknowledgment = سپاس از بازخورد شما. بیش از این جستجوهای پرطرفدار را نخواهید دید.
 
 ## Reader View toolbar buttons
 
