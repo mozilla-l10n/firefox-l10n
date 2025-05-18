@@ -25,3 +25,6 @@ experimental-features-group-webpage-display =
     .label = Веб-парақтың көрсетілімі
 experimental-features-group-customize-browsing =
     .label = Шолуыңызды баптаңыз
+# New Tab Custom Wallpapers
+experimental-features-custom-wallpaper =
+    .label = Жаңа бет үшін таңдауыңызша тұсқағазды немесе түсті таңдау
