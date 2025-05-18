@@ -271,3 +271,9 @@ contextual-manager-passwords-discard-changes-heading-and-message =
     .message = ਤੁਹਾਡੀਆਂ ਤਬਦੀਲੀਆਂ ਨੂੰ ਸੰਭਾਲਿਆ ਨਹੀਂ ਜਾਵੇਗਾ।
 contextual-manager-passwords-discard-changes-close-button = ਬੰਦ ਕਰੋ
 contextual-manager-passwords-discard-changes-go-back-button = ਪਿੱਛੇ ਜਾਓ
+#   $total (number) - Total number of passwords
+contextual-manager-passwords-remove-all-passwords-checkbox =
+    { $total ->
+        [1] ਹਾਂ, ਪਾਸਵਰਡ ਨੂੰ ਹਟਾਓ
+       *[other] Yes, remove passwords
+    }

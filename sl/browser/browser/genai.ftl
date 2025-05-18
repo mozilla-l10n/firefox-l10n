@@ -116,6 +116,8 @@ genai-onboarding-header = Povzemajte, razmišljajte in drugo med brskanjem
 genai-onboarding-choose-header = Izberite UI-klepetalnik, ki ga želite uporabljati v stranski vrstici { -brand-short-name(sklon: "rodilnik") }
 # "Switch anytime" refers to allowing the user to switch to a different chatbot.
 genai-onboarding-description = Izberite UI-klepetalnik, ki ga želite uporabiti v stranski vrstici { -brand-short-name(sklon: "rodilnik") }. Ko ga izberete, bomo prikazali podrobnosti o klepetalniku. Preklopite kadarkoli. <a data-l10n-name="learn-more">Več o tem</a>
+# "Switch anytime" refers to allowing the user to switch to a different chatbot.
+genai-onboarding-choose-description = Preklopite kadarkoli. Za pomoč pri izbiri <a data-l10n-name="learn-more">preberite več o posameznem klepetalniku</a>.
 genai-onboarding-primary = Nadaljuj
 genai-onboarding-secondary = Zapri
 genai-onboarding-claude-tooltip =
@@ -139,6 +141,9 @@ genai-onboarding-lechat-learn = Več o Le Chat
 genai-onboarding-select-header = Izberite besedilo za prikaz predlogov
 genai-onboarding-select-description = Ko izberete besedilo, bomo predlagali pozive, ki jih lahko pošljete klepetalniku. Napišete lahko tudi svoje pozive.
 genai-onboarding-select-primary = Začni klepetati
+genai-chatbot-contextual-title = Uporabite UI-klepetalnik brez preklapljanja zavihkov
+genai-chatbot-contextual-subtitle = Vzporedno klepetajte in brskajte, ko v stransko vrstico { -brand-short-name(sklon: "rodilnik") } dodate UI-klepetalnik.
+genai-chatbot-contextual-button = Izberite klepetalnik
 
 ## Chatbot onboarding choices
 ## These describe features/capabilities of chatbot providers. These are not buttons/actions.
