@@ -185,7 +185,9 @@ mr2022-onboarding-colorway-tooltip-expressionist2 =
     .title = بیان‌گرا (زرد)
 mr2022-onboarding-colorway-description-expressionist = <b>شما یک بیان‌گرا هستید.</b> شما دنیا را جور دیگری می‌بینید و ساخته‌های شما احساسات دیگران را نیز برمی‌انگیزند.
 mr2022-onboarding-colorway-label-visionary = رؤیایی
+mr2022-onboarding-colorway-description-visionary = <b>شما یک رویاپرداز هستید.</b> شما وضع موجود را به چالش کشیده و دیگران را به تصوّر آینده‌ای بهتر تشویق می‌کنید.
 mr2022-onboarding-colorway-label-activist = کنشگر
+mr2022-onboarding-colorway-description-activist = <b>شما یک کنش‌گر هستید.</b> شما دنیا را بهتر از آنچه که یافتید و دیگران را برای باور کردنش رهبری کردید ترک می‌کنید.
 mr2022-onboarding-colorway-label-dreamer = رؤیاپرداز
 
 ## MR2022 Multistage Mobile Download screen strings
@@ -197,6 +199,8 @@ mr2022-onboarding-colorway-label-dreamer = رؤیاپرداز
 
 ## MR2022 Privacy Segmentation screen strings
 
+mr2022-onboarding-privacy-segmentation-title = ما همیشه به حریم خصوصی شما احترام می‌گذاریم
+mr2022-onboarding-privacy-segmentation-button-secondary-label = داده‌های بیشتری نشان بده
 
 ## MR2022 Multistage Gratitude screen strings
 
@@ -205,6 +209,7 @@ mr2022-onboarding-gratitude-secondary-button-label = آغاز مرور
 
 ## Onboarding spotlight for infrequent users
 
+onboarding-infrequent-import-primary-button = درون‌ریزی به { -brand-short-name }
 
 ## MR2022 Illustration alt tags
 ## Descriptive tags for illustrations used by screen readers and other assistive tech
@@ -212,6 +217,8 @@ mr2022-onboarding-gratitude-secondary-button-label = آغاز مرور
 
 ## Device migration onboarding
 
+onboarding-device-migration-title = خوش برگشتید!
+onboarding-device-migration-primary-button-label = ورود
 
 ## Add-ons Picker screen
 
