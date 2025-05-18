@@ -258,10 +258,30 @@ shopping-onboarding-welcome-steps-indicator-label =
 
 # Opt-in message strings for Review Checker when it is integrated into the global sidebar.
 shopping-opt-in-integrated-headline = Купляйце з упэўненасцю
+# Description text for regions where we support three sites. Sites are limited to Amazon, Walmart and Best Buy.
+# Variables:
+#   $firstSite (String) - The first shopping page name
+#   $secondSite (String) - The second shopping page name
+#   $thirdSite (String) - The third shopping page name
+shopping-opt-in-integrated-subtitle = Уключыце праверку водгукаў з { -brand-product-name }, каб перад пакупкай пераканацца ў надзейнасці водгукаў аб прадукце. Яна выкарыстоўвае тэхналогію штучнага інтэлекту для аналізу водгукаў і працуе, калі вы робіце пакупкі на { $firstSite }, { $secondSite } і { $thirdSite }. <a data-l10n-name="learn_more">Даведацца больш</a>
+# Description text for regions where we support three sites. Sites are limited to Amazon, Walmart and Best Buy.
+# Variables:
+#   $firstSite (String) - The first shopping page name
+#   $secondSite (String) - The second shopping page name
+#   $thirdSite (String) - The third shopping page name
+shopping-opt-in-integrated-subtitle-unsupported-site = Праверка водгукаў ад { -brand-product-name } дапаможа вам даведацца, наколькі надзейныя водгукі аб прадукце, перш чым зрабіць пакупку. Яна выкарыстоўвае тэхналогію штучнага інтэлекту для аналізу водгукаў і працуе, калі вы купляеце на { $firstSite }, { $secondSite } і { $thirdSite }. <a data-l10n-name="learn_more">Даведацца больш</a>
 
 ## Messages for callout for users not opted into the sidebar integrated version of Review Checker.
 
+shopping-callout-opt-in-integrated-headline = Ці можна давяраць гэтым водгукам?
+# Appears underneath shopping-opt-in-integrated-headline to answer the question 'Can you trust these reviews?'
+shopping-callout-not-opted-in-integrated-paragraph1 = Уключыце праверку водгукаў ад { -brand-product-name }, каб даведацца. Яна працуе на базе { -fakespot-brand-full-name } і выкарыстоўвае тэхналогію штучнага інтэлекту для аналізу водгукаў.
+shopping-callout-not-opted-in-integrated-paragraph2 = Націскаючы «{ shopping-opt-in-integrated-button }», вы згаджаецеся з <a data-l10n-name="privacy_policy">палітыкай прыватнасці</a> { -brand-product-name } і <a data-l10n-name="terms_of_use">ўмовамі карыстання</a> { -fakespot-brand-full-name }.
 shopping-callout-not-opted-in-integrated-reminder-dismiss-button = Адхіліць
+shopping-callout-not-opted-in-integrated-reminder-accept-button = Уключыць Праверку водгукаў
+shopping-callout-not-opted-in-integrated-reminder-do-not-show = Больш не паказваць гэту рэкамендацыю
+shopping-callout-not-opted-in-integrated-reminder-show-fewer = Паказваць менш рэкамендацый
+shopping-callout-not-opted-in-integrated-reminder-manage-settings = Кіраваць наладамі
 
 ## Message strings for Review Checker's empty states.
 
