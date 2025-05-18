@@ -71,6 +71,7 @@ open-in-new-window-for-csp-or-xfo-error = Ldi asmel deg usfaylu amaynut
 # Variables:
 #   $hostname (string) - Hostname of the website blocked by csp or xfo error.
 csp-xfo-blocked-long-desc = Akken ad tḥarzeḍ taɣellist-inek, { $hostname } ur isirig ara i { -brand-short-name } ad d-yesken asebter ma yella i isuleɣ-it usmel-nniḍen. Akken ad twaliḍ asebter-a, ilaq-ak ad t-teldiḍ deg usfaylu-nniḍen.
+fp-certerror-view-certificate-link = Sken aselkin n usmel
 fp-certerror-return-to-previous-page-recommended-button = Uɣal ɣer deffir (Yelha)
 # Variables:
 #   $error (string) - NSS error code string that specifies type of cert error. e.g. unknown issuer, invalid cert, etc.

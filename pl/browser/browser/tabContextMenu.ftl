@@ -133,3 +133,11 @@ tab-context-send-tabs-to-device =
            *[many] Wyślij { $tabCount } kart do
         }
     .accesskey = W
+tab-context-unload-n-tabs =
+    .label =
+        { $tabCount ->
+            [one] Zwolnij kartę
+            [few] Zwolnij { $tabCount } karty
+           *[many] Zwolnij { $tabCount } kart
+        }
+    .accesskey = Z
