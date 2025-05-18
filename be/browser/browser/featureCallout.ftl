@@ -87,9 +87,22 @@ bookmarks-toolbar-callout-2a-primary-button-label = Зразумела
 bookmarks-toolbar-callout-2a-secondary-button-label = Схаваць паліцу прылад
 # Visible if user declines to add a bookmark in callout 1, bookmarks toolbar is set to always show when this message renders
 bookmarks-toolbar-callout-2b-title = Трымаць паліцу закладак адкрытай?
+bookmarks-toolbar-callout-2b-subtitle = Вы можаце дадаць іншыя сайты, якія наведваеце найчасцей. Проста перацягніце карткі сюды, каб мець пад рукой любімыя вэб-сайты.
+bookmarks-toolbar-callout-2b-primary-button-label = Трымаць адкрытай
+# Reverts the bookmarks toolbar to the default setting
+bookmarks-toolbar-callout-2b-secondary-button-label = Не, дзякуй
 
 ## Perplexity callout strings
 
+perplexity-callout-theme-1-title = Патрэбен правільны адказ, неадкладна?
+perplexity-callout-theme-2-title = Паспрабуйце Perplexity: новы спосаб пошуку
+perplexity-callout-theme-1-subtitle-1 = Паспрабуйце Perplexity. Выберыце яго з дапамогай кнопкі пошуку, калі вам патрэбныя поўныя адказы, уключаючы крыніцы.
+perplexity-callout-theme-1-subtitle-2 = Задавайце пытанні. Атрымлівайце поўныя, добра цытаваныя адказы. Каб паспрабаваць Perplexity, выберыце яго з дапамогай кнопкі пошуку.
+perplexity-callout-theme-2-subtitle-1 = Спытайце ў Perplexity. Вы атрымаеце поўныя адказы, уключна з крыніцамі.
+perplexity-callout-theme-2-subtitle-2 = Задавайце пытанні. Атрымлівайце поўныя, добра цытаваныя адказы.
+perplexity-callout-primary-label = Спытаць Perplexity
+perplexity-callout-secondary-label-1 = Адхіліць
+perplexity-callout-secondary-label-2 = Зразумела
 
 ## Sidebar Strings
 
