@@ -12,6 +12,7 @@
 ##  $host (String): the hostname of the site that is being displayed.
 ##  $provider (String): the hostname of another website you are using to log in to the site being displayed
 
+identity-credential-header-accounts = با { $provider } وارد شوید
 identity-credential-sign-in-button =
     .label = ورود
     .accesskey = و

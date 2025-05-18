@@ -145,6 +145,8 @@ menu-view-history-button =
     .label = تاریخچه
 menu-view-synced-tabs-sidebar =
     .label = زبانه‌های همگام شده
+menu-view-megalist-sidebar =
+    .label = گذرواژه‌ها
 menu-view-full-zoom =
     .label = زوم
     .accesskey = ز
@@ -225,6 +227,9 @@ menu-history-undo-menu =
     .label = زبانه‌های تازه بسته شده
 menu-history-undo-window-menu =
     .label = پنجره‌های تازه بسته شده
+# "Search" is a verb, as in "Search in History"
+menu-history-search =
+    .label = در تاریخچه جستجو کنید
 
 ## Bookmarks Menu
 
@@ -353,3 +358,5 @@ menu-help-report-deceptive-site =
 menu-help-not-deceptive =
     .label = این یک سایت گمراه‌کننده نیست…
     .accesskey = d
+menu-report-broken-site =
+    .label = گزارش سایت ایراددار

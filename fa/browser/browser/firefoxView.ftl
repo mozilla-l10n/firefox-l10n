@@ -245,6 +245,7 @@ firefoxview-recentlyclosed-empty-description = اینجا زبانه‌هایی 
 ## This message is displayed below the name of another connected device when it doesn't have any open tabs.
 
 firefoxview-syncedtabs-device-notabs = هیچ زبانه‌ای در این دستگاه باز نیست
+firefoxview-syncedtabs-connect-another-device = دستگاه دیگری را متصل کنید
 firefoxview-tabs =
     .title = زبانه‌ها
 

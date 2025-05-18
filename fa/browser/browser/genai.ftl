@@ -26,10 +26,16 @@ genai-prompts-simplify =
 
 ## Chatbot header
 
+genai-options-show-shortcut =
+    .label = نمایش میانبر هنگام انتخاب متن
+genai-options-hide-shortcut =
+    .label = پنهان کردن میانبر هنگام انتخاب متن
 
 ## Chatbot onboarding
 
+genai-onboarding-primary = ادامه
 genai-onboarding-secondary = بستن
+genai-onboarding-claude-learn = درباره Claude بیشتر بدانید
 genai-onboarding-chatgpt-tooltip =
     .title = ChatGPT
 genai-onboarding-chatgpt-learn = درباره ChatGPT بیشتر بدانید
@@ -45,10 +51,20 @@ genai-onboarding-huggingchat-learn = درباره HuggingChat بیشتر بدا�
 genai-onboarding-lechat-tooltip =
     .title = Le Chat Mistral
 genai-onboarding-lechat-learn = درباره Le Chat بیشتر بدانید
+genai-onboarding-select-header = برای مشاهده پیشنهادات، متن را انتخاب کنید
+genai-onboarding-select-primary = گفتگو را آغاز کنید
 
 ## Chatbot onboarding choices
 ## These describe features/capabilities of chatbot providers. These are not buttons/actions.
 
+genai-onboarding-claude-generate = تولید متن و کد
+genai-onboarding-claude-analyze = تحلیل اسناد و تصاویر
+genai-onboarding-chatgpt-generate = تولید متن، تصویر، و کد
+genai-onboarding-gemini-generate = تولید متن، تصویر، و کد
+genai-onboarding-gemini-price = گزینه‌های رایگان و پولی؛ حساب مورد نیاز است
+genai-onboarding-huggingchat-generate = تولید متن و کد
+genai-onboarding-huggingchat-switch = جابجایی بین مجموعه‌ای متنوع از مدل‌های آزاد
+genai-onboarding-lechat-generate = تولید متن و کد
 
 ## Model Optin Component
 
