@@ -61,3 +61,15 @@ webext-perms-description-data-short-websiteContent = obsah webovej stránky
 
 ## Long form to be used in `about:addons` when these data collection permissions are optional.
 
+webext-perms-description-data-long-authenticationInfo = Zdieľať overovacie informácie s vývojárom rozšírenia
+webext-perms-description-data-long-bookmarksInfo = Zdieľať informácie o záložkách s vývojárom rozšírenia
+webext-perms-description-data-long-browsingActivity = Zdieľať aktivitu prehliadania s vývojárom rozšírenia
+webext-perms-description-data-long-financialAndPaymentInfo = Zdieľať finančné a platobné informácie s vývojárom rozšírenia
+webext-perms-description-data-long-healthInfo = Zdieľať zdravotné informácie s vývojárom rozšírenia
+webext-perms-description-data-long-locationInfo = Zdieľať informácie o polohe s vývojárom rozšírenia
+webext-perms-description-data-long-personalCommunications = Zdieľajte osobnú komunikáciu s vývojárom rozšírenia
+webext-perms-description-data-long-personallyIdentifyingInfo = Zdieľať osobné identifikačné údaje s vývojárom rozšírenia
+webext-perms-description-data-long-searchTerms = Zdieľať výrazy vyhľadávania s vývojárom rozšírenia
+webext-perms-description-data-long-technicalAndInteraction = Zdieľať technické údaje a údaje o interakciách s vývojárom rozšírenia
+webext-perms-description-data-long-websiteActivity = Zdieľať aktivitu na webovej stránke s vývojárom rozšírenia
+webext-perms-description-data-long-websiteContent = Zdieľajte obsah webovej stránky s vývojárom rozšírenia

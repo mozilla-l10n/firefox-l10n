@@ -135,3 +135,13 @@ tab-context-send-tabs-to-device =
            *[other] Odoslať { $tabCount } kariet do zariadenia
         }
     .accesskey = n
+tab-context-unload-n-tabs =
+    .label =
+        { $tabCount ->
+            [1] Uvoľniť kartu
+            [one] Uvoľniť kartu
+            [few] Uvoľniť { $tabCount } karty
+            [many] Uvoľniť { $tabCount } kariet
+           *[other] Uvoľniť { $tabCount } kariet
+        }
+    .accesskey = U

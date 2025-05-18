@@ -111,8 +111,11 @@ genai-options-about-chatbot =
 ## Chatbot onboarding
 
 genai-onboarding-header = Рэзюмуйце, разважайце і многае іншае ў часе аглядання
+genai-onboarding-choose-header = Выберыце чат-бота са штучным інтэлектам для выкарыстання ў бакавой панэлі { -brand-short-name }
 # "Switch anytime" refers to allowing the user to switch to a different chatbot.
 genai-onboarding-description = Выберыце чат-бота ШІ для выкарыстання ў бакавой панэлі { -brand-short-name }. Мы пакажам падрабязную інфармацыю аб кожным чат-боце, калі вы яго выберыце. Пераключайце ў любы час. <a data-l10n-name="learn-more">Падрабязней</a>
+# "Switch anytime" refers to allowing the user to switch to a different chatbot.
+genai-onboarding-choose-description = Пераключайцеся ў любы час. Каб атрымаць дапамогу ў выбары, <a data-l10n-name="learn-more">даведайцеся больш пра кожнага чат-бота</a>.
 genai-onboarding-primary = Працягнуць
 genai-onboarding-secondary = Закрыць
 genai-onboarding-claude-tooltip =
@@ -136,6 +139,9 @@ genai-onboarding-lechat-learn = Даведацца больш пра Le Chat
 genai-onboarding-select-header = Вылучыце тэкст, каб убачыць прапановы
 genai-onboarding-select-description = Калі вы вылучыце тэкст, мы прапануем запрашэнні, якія вы можаце адправіць чат-боту. Вы таксама можаце напісаць уласныя запрашэнні.
 genai-onboarding-select-primary = Пачаць чат
+genai-chatbot-contextual-title = Выкарыстоўвайце чат-бота са штучным інтэлектам без пераключэння картак
+genai-chatbot-contextual-subtitle = Перапісвайцеся ў чаце і аглядайце сеціва адначасова, дадаўшы чат-бота са штучным інтэлектам у бакавую панэль { -brand-short-name }.
+genai-chatbot-contextual-button = Выберыце чат-бота
 
 ## Chatbot onboarding choices
 ## These describe features/capabilities of chatbot providers. These are not buttons/actions.
