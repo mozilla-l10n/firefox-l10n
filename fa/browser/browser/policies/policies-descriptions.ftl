@@ -13,6 +13,8 @@
 policy-AppAutoUpdate = بروزرسانی خودکار برنامه را فعال یا غیرفعال کنید.
 policy-AppUpdateURL = آدرس سفارشی به‌روزرسانی برنامه را تنظیم کنید.
 policy-Authentication = احراز هویت یکپارچه را برای وب‌سایت‌هایی که از آن پشتیبانی می‌کنند پیکربندی کنید.
+policy-AutoLaunchProtocolsFromOrigins = فهرستی از شیوه‌نامه‌های خارجی را تعریف کنید که می‌توانند از مبدأهای فهرست شده بدون درخواست از کاربر استفاده شوند.
+policy-BackgroundAppUpdate2 = به‌روزرسانی در پس‌زمینه را فعال یا غیرفعال کنید.
 policy-BlockAboutAddons = دسترسی به مدیریت افزونه‌ها (about:addons) را مسدود کنید.
 policy-BlockAboutConfig = دسترسی به صفحه about:config را مسدود کنید.
 policy-BlockAboutProfiles = دسترسی به صفحه about:profiles را مسدود کنید.
@@ -29,17 +31,25 @@ policy-DisableFirefoxScreenshots = ویژگی Screenshots فایرفاکس را 
 policy-DisableFirefoxStudies = جلوی { -brand-short-name } را برای انجام مطالعات بگیر.
 policy-DisableForgetButton = دسترسی به دکمه فراموش کردن را مسدود کن.
 policy-DisableFormHistory = جستجو وتاریخچه فرم را به خاطر نسپار.
+policy-DisablePasswordReveal = اجازه ندهید که گذرواژه‌ها در ورودهای ذخیره شده آشکار شوند.
 policy-DisablePocket2 = ویژگی ذخیره کردن صفحات وب در { -pocket-brand-name } را غیرفعال کن.
 policy-DisablePrivateBrowsing = مرور ناشناس را غیرفعال کن.
 policy-DisableProfileImport = دستور ورود داده از مرورگرهای دیگر در منو را غیرفعال کن.
 policy-DisableProfileRefresh = کلید راه‌اندازی مجدد { -brand-short-name } را در صفحه about:support غیرفعال کن.
+policy-DisplayBookmarksToolbar = ‍نوارابزار نشانک‌ها به‌طور پیش‌فرض نمایش یابد.
 policy-DNSOverHTTPS = پیکربندی ساناد روی HTTPS.
 policy-DontCheckDefaultBrowser = غیر فعال کردن بررسی مرورگر پیش‌فرض در هنگام راه اندازی
+policy-DownloadDirectory = پوشهٔ بارگیری را تنظیم و قفل کنید.
+policy-InstallAddonsPermission = به وبگاه‌های مشخصی اجازهٔ نصب افزودنی داده شود.
 
 ## Do not translate "SameSite", it's the name of a cookie attribute.
 
 
 ##
 
+policy-NewTabPage = صفحهٔ زبانهٔ جدید را فعال یا غیرفعال کنید.
 policy-Permissions2 = پیکربندی اجازه‌ها برای دوربین، صدابَر، مکان، اعلا‌ها، و پخش خودکار.
+policy-PictureInPicture = تصویر در تصویر را روشن یا خاموش کنید.
 policy-Proxy = پیکربندی تنظیمات پروکسی
+policy-ShowHomeButton = نمایش دکمه خانه در نوار ابزار.
+policy-SSLVersionMax = بالاترین نسخهٔ SSL را پیکربندی کنید.
