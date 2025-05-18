@@ -652,6 +652,8 @@ home-prefs-weather-header =
     .label = Pogoda
 home-prefs-weather-description = Dzisiejsza prognoza w skrócie
 home-prefs-weather-learn-more-link = Więcej informacji
+home-prefs-mission-message = Nasi sponsorzy wspierają naszą misję budowania lepszej sieci
+home-prefs-mission-message-learn-more-link = Więcej informacji
 # Variables:
 #   $num (number) - Number of rows displayed
 home-prefs-sections-rows-option =
@@ -729,6 +731,9 @@ search-keyword-warning-title = Słowo kluczowe już istnieje
 #   $name (string) - Name of a search engine.
 search-keyword-warning-engine = Wybrano słowo kluczowe używane obecnie przez wyszukiwarkę { $name }. Należy wybrać inne.
 search-keyword-warning-bookmark = Wybrano słowo kluczowe używane obecnie przez zakładkę. Należy wybrać inne.
+remove-engine-confirmation = Czy na pewno usunąć tę wyszukiwarkę?
+remove-engine-remove = Usuń
+remove-addon-engine-alert = Przed usunięciem tej wyszukiwarki należy usunąć powiązany z nią dodatek.
 
 ## Containers Section
 

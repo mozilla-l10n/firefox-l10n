@@ -43,6 +43,10 @@ unified-extensions-context-menu-move-widget-down =
 ## Notifications
 
 unified-extensions-mb-quarantined-domain-title = Kra n yiseɣzaf ur yettusireg ara
+# .heading is processed by moz-message-bar to be used as a heading attribute
+unified-extensions-mb-quarantined-domain-message-3 =
+    .heading = Kra n yiseɣzaf ur yettusireg ara
+    .message = Akken ad temmestneḍ isefka-k, kra n yisiɣzaf ur zmiren ara ad ɣren neɣ ad beddlen isefka ɣef usmel-a. Seqdec iɣewwaren n usiɣzef i usireg ɣef yismal yettwarzen s { -vendor-short-name }.
 unified-extensions-mb-quarantined-domain-learn-more = Issin ugar
     .aria-label = Issin ugar: Kra n yisiɣzaf ur ttusirgen ara
 unified-extensions-mb-about-addons-link = Ddu ɣer yiɣewwaren n usiɣzef

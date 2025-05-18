@@ -374,6 +374,10 @@ onboarding-focused-tabs-title = Fren taneɣruft n waccaren-ik
 onboarding-new-vertical-tabs-label = Accaren ɣef yidis
 # Text underneath an image used for selecting browser tabs to appear at the top of the browser.
 onboarding-new-horizontal-tabs-label = Accaren ufella
+# Setup screen for vertical tabs for existing users
+onboarding-existing-tabs-title = Accaren-ik irakaten ha-ten-a da
+# Setup screen for vertical tabs for existing users
+onboarding-existing-tabs-title2 = Asekcem n waccaren irakaten
 # Text underneath an image used for selecting browser tabs to appear on the side of the browser.
 onboarding-existing-vertical-tabs-label = Ԑreḍ accaren d ubdiden
 onboarding-flair-text = Amaynut!
@@ -402,13 +406,20 @@ onboarding-checklist-sign-up = Kcem neɣ qqen ɣer umiḍan-ik
 
 ## Tab Groups feature onboarding strings
 
+tab-groups-onboarding-create-group-title-2 = Af igrawen n waccaren-ik da yal tikkelt.
+tab-groups-onboarding-session-restore-title = Ales alday n yigrawen n waccaren-ik da yal tikkelt.
+tab-groups-onboarding-dismiss = IH
 
 ## Multi Profiles feature onboarding messages
 
+multi-profile-spotlight-title = Ini azul i yimaɣnuten n { -brand-product-name }
+multi-profile-spotlight-cta = Rnu amaɣnu
 multi-profile-callout-cta = Rnu amaɣnu
 
 ## Desktop to Mobile Adoption feature callout strings
 
+# If translating the headline is challenging, consider using a simplified alternative as a reference: 'Sync your browsing with Firefox for mobile.'
+desktop-to-mobile-headline = Sader, mtawi syen ddu!
 dismiss-button-label = Zgel
 sync-to-mobile-button-label = Mtawi ɣer uziraz
 desktop-to-mobile-qr-code-alt =

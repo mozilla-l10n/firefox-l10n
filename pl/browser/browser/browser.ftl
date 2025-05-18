@@ -344,6 +344,10 @@ search-one-offs-actions =
 
 # Opens the about:addons page in the home / recommendations section
 quickactions-addons = Wyświetl dodatki
+# In English we provide multiple spellings for "add-ons". If that's not
+# applicable to your language, only use the correct spelling (don't repeat the
+# same word).
+quickactions-cmd-addons3 = rozszerzenia, motywy, dodatki
 quickactions-cmd-addons2 = dodatki
 # Opens the bookmarks library window
 quickactions-bookmarks2 = Zarządzaj zakładkami
@@ -384,6 +388,7 @@ quickactions-print2 = Drukuj stronę
 quickactions-cmd-print = drukuj, wydrukuj
 # Opens the print dialog at the save to PDF option
 quickactions-savepdf = Zapisz stronę jako PDF
+quickactions-cmd-savepdf2 = pdf, zapisz stronę
 quickactions-cmd-savepdf = pdf
 # Opens a new private browsing window
 quickactions-private2 = Otwórz okno prywatne
@@ -400,6 +405,8 @@ quickactions-cmd-screenshot2 = zrzut ekranu, wykonaj zrzut ekranu
 quickactions-cmd-screenshot = zrzut ekranu, screenshot, skrin
 # Opens about:preferences
 quickactions-settings2 = Zarządzaj ustawieniami
+# "manage" should match the corresponding command, which is “Manage settings” in English.
+quickactions-cmd-settings2 = ustawienia, preferencje, opcje, zarządzaj
 quickactions-cmd-settings = ustawienia, preferencje, opcje
 # Opens about:addons page in the themes section
 quickactions-themes = Zarządzaj motywami
@@ -1196,6 +1203,10 @@ popup-notification-addon-install-unsigned =
     .value = (niezweryfikowany)
 popup-notification-xpinstall-prompt-learn-more = Więcej informacji o bezpiecznym instalowaniu dodatków
 popup-notification-xpinstall-prompt-block-url = Szczegóły
+# Note: Access key is set to p to match "private" in the corresponding localized label.
+popup-notification-addon-privatebrowsing-checkbox2 =
+    .label = Rozszerzenie może działać w oknach prywatnych
+    .accesskey = p
 # Note: Access key is set to P to match "Private" in the corresponding localized label.
 popup-notification-addon-privatebrowsing-checkbox =
     .label = Działanie w oknach prywatnych
