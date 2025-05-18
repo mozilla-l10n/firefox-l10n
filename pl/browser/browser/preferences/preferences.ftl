@@ -242,7 +242,7 @@ browser-layout-vertical-tabs =
 browser-layout-vertical-tabs-desc = Z boku, w panelu bocznym
 browser-layout-show-sidebar =
     .label = Panel boczny
-browser-layout-show-sidebar-desc = Szybki dostęp do zakładek, kart z telefonu i nie tylko bez wychodzenia z głównego okna.
+browser-layout-show-sidebar-desc = Szybki dostęp do zakładek, kart z telefonu i nie tylko bez wychodzenia z głównego okna
 
 ## General Section - Language & Appearance
 
@@ -264,6 +264,10 @@ preferences-web-appearance-choice-input-light =
     .aria-description = { preferences-web-appearance-choice-tooltip-light.title }
 preferences-web-appearance-choice-input-dark =
     .aria-description = { preferences-web-appearance-choice-tooltip-dark.title }
+# This can appear when using windows HCM or "Override colors: always" without
+# system colors.
+preferences-web-appearance-override-warning3 =
+    .message = Ustawienia sterowania kontrastem mają pierwszeństwo przed ustawieniami wyglądu witryn.
 # This can appear when using windows HCM or "Override colors: always" without
 # system colors.
 preferences-web-appearance-override-warning = Wybrane kolory mają pierwszeństwo przed ustawieniami wyglądu witryn. <a data-l10n-name="colors-link">Zarządzaj kolorami</a>
@@ -1172,7 +1176,7 @@ addressbar-locbar-engines-option =
     .label = wyszukiwarkach
     .accesskey = w
 addressbar-locbar-quickactions-option =
-    .label = szybkich działaniach
+    .label = szybkich działaniach.
     .accesskey = d
 addressbar-suggestions-settings = Zmień preferencje podpowiedzi dostarczanych przez wyszukiwarki
 addressbar-locbar-showrecentsearches-option =
@@ -1468,7 +1472,7 @@ httpsonly-radio-enabled-pbm =
     .label = Włącz tylko w oknach prywatnych
 httpsonly-radio-disabled3 =
     .label = Nie włączaj
-    .description = { -brand-short-name } nadal może przełączać część połączeń
+    .description = { -brand-short-name } nadal może przełączać część połączeń.
 httpsonly-radio-disabled =
     .label = Nie włączaj
 

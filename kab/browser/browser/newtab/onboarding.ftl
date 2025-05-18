@@ -346,6 +346,9 @@ onboarding-sign-up-secondary-button = Bdu tunigin
 
 ## New user time and familiarity survey strings
 
+onboarding-new-user-time-based-survey-title = Seg melmi i tesseqdaceḍ { -brand-short-name }?
+onboarding-new-user-familiarity-based-survey-title = Acḥal aya seg wasmi i tessneḍ { -brand-short-name }?
+onboarding-new-user-survey-subtitle = Tadktiwin-ik ttεawanent ad nesnerni { -brand-short-name } ugar.
 # When translating "next" it means the next screen in onboarding.
 onboarding-new-user-survey-next-button-label = Ɣer zdat
 # When translating "brand new" it means completely new.
@@ -361,6 +364,12 @@ onboarding-new-user-survey-familiarity-based-option-4 = Sqedceɣ-t yakan, maca d
 
 ## UI strings for the sidebar and vertical tabs
 
+# Setup screen for vertical tabs
+onboarding-new-tabs-title = Ini-aɣ-d anda ay tebɣiḍ ad terreḍ adccaren-ik
+# Setup screen for vertical tabs - too many tabs variation
+onboarding-many-tabs-title = Accaren-ik, akken i ten-tebɣiḍ
+# Setup screen for vertical tabs - focused variation
+onboarding-focused-tabs-title = Fren taneɣruft n waccaren-ik
 # Text underneath an image used for selecting browser tabs to appear on the side of the browser.
 onboarding-new-vertical-tabs-label = Accaren ɣef yidis
 # Text underneath an image used for selecting browser tabs to appear at the top of the browser.
