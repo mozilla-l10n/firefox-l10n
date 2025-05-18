@@ -307,6 +307,8 @@ shopping-integrated-callout-no-logo-sidebar-closed-subtitle = Izberite gumb v st
 ## Review Checker in the sidebar is only available to US users at this time, so we can assume that the default position is on the left side.
 
 shopping-integrated-new-position-notification-title = Isti pregledovalnik mnenj, novo mesto
+shopping-integrated-new-position-notification-move-right-subtitle = Pregledovalnik mnenj in preostalo vsebino stranske vrstice { -brand-product-name(sklon: "rodilnik") } lahko obdržite tukaj ali premaknete na desno. Preklopite zdaj ali kadarkoli pozneje v <a data-l10n-name="sidebar_settings">nastavitvah stranske vrstice</a>.
+shopping-integrated-new-position-notification-move-left-subtitle = Pregledovalnik mnenj in preostalo vsebino stranske vrstice { -brand-product-name(sklon: "rodilnik") } lahko obdržite tukaj ali premaknete na levo. Preklopite zdaj ali kadarkoli pozneje v <a data-l10n-name="sidebar_settings">nastavitvah stranske vrstice</a>.
 shopping-integrated-new-position-notification-move-right-button = Premakni desno
 shopping-integrated-new-position-notification-move-left-button = Premakni levo
 shopping-integrated-new-position-notification-dismiss-button = Razumem
@@ -315,3 +317,13 @@ shopping-integrated-new-position-notification-dismiss-button = Razumem
 
 shopping-settings-auto-open-and-close-toggle =
     .label = Samodejno odpri in zapri pregledovalnik mnenj
+# Description text for regions where we support three sites. Sites are limited to Amazon, Walmart and Best Buy.
+# Variables:
+#   $firstSite (String) - The first shopping page name
+#   $secondSite (String) - The second shopping page name
+#   $thirdSite (String) - The third shopping page name
+shopping-settings-auto-open-and-close-description-three-sites = Odpre se ob ogledu izdelkov v trgovinah { $firstSite }, { $secondSite } ter { $thirdSite } in se zapre, ko jih zapustite
+# Description text for regions where we support only one site (e.g. currently used in FR/DE with Amazon).
+# Variables:
+#   $currentSite (String) - The current shopping page name
+shopping-settings-auto-open-and-close-description-single-site = Odpre se ob ogledu izdelkov na strani { $currentSite } in se zapre, ko jih zapustite
