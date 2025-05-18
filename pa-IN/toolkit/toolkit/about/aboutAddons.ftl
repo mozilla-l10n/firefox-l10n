@@ -203,6 +203,10 @@ addon-updates-manual-updates-found = ਉਪਲੱਬਧ ਅੱਪਡੇਟ ਵ�
 
 addon-install-from-file = …ਐਡ-ਆਨ ਫਾਈਲ ਤੋਂ ਇੰਸਟਾਲ ਕਰੋ
     .accesskey = I
+# Like `addon-install-from-file` but used when the `extensions.webextensions.prefer-update-over-install-for-existing-addon`
+# pref is set.
+addon-install-or-update-from-file = …ਫ਼ਾਇਲ ਤੋਂ ਐਡ-ਆਨ ਨੂੰ ਇੰਸਟਾਲ ਜਾਂ ਅੱਪਡੇਟ ਕਰੋ
+    .accesskey = I
 addon-install-from-file-dialog-title = ਇੰਸਟਾਲ ਕਰਨ ਲਈ ਐਡ-ਆਨ ਚੁਣੋ
 addon-install-from-file-filter-name = ਐਡ-ਆਨ
 addon-open-about-debugging = ਐਡ-ਆਨ ਨੂੰ ਡੀਬੱਗ ਕਰੋ
@@ -271,6 +275,7 @@ discopane-notice-recommendations2 =
         ਇਹਨਾਂ ਸਿਫਾਰਸ਼ਾਂ ਵਿੱਚੋਂ ਕੁਝ ਨਿੱਜੀ ਬਣਾਈਆਂ ਹਨ। ਇਹ ਤੁਹਾਡੇ ਵਲੋਂ ਇੰਸਟਾਲ ਇਕਸਟੈਨਸ਼ਨਾਂ, ਪਰੋਫਾਈਲ ਪਸੰਦਾਂ
          ਅਤੇ ਵਰਤੋਂ ਅੰਕੜਿਆਂ ਦੇ ਉੱਤੇ ਅਧਾਰਿਤ ਹਨ।
 discopane-notice-learn-more = ਹੋਰ ਸਿੱਖੋ
+colorway-removal-notice-learn-more = ਹੋਰ ਜਾਣੋ
 privacy-policy = ਪਰਦੇਦਾਰੀ ਨੀਤੀ
 # Refers to the author of an add-on, shown below the name of the add-on.
 # Variables:
@@ -527,3 +532,5 @@ plugins-widevine-description = ਇਹ ਪਲੱਗਇਨ ਇੰਕ੍ਰਿਪ�
 ## Headings for the Permissions tab in `about:addons` when the data collection
 ## feature is enabled.
 
+# Name of the Permissions tab in `about:addons` when the data collection feature is enabled.
+permissions-data-addon-button = ਇਜਾਜ਼ਤਾਂ ਅਤੇ ਡਾਟਾ

@@ -177,3 +177,17 @@ genai-model-optin-cancel =
 
 ## Link previews
 
+# ‘min’ is short for “minute”
+# ‘mins’ is short for “minutes”
+# An estimate for how long it takes to read an article,
+# expressed as a range covering both slow and fast readers.
+# Variables:
+#   $rangePlural (String): The plural category of the range, using the same set as for numbers.
+#   $range (String): The range of minutes as a localised string. Examples: "3-7", "~1".
+link-preview-reading-time =
+    { $rangePlural ->
+        [one] Čas branja: { $range } minuta
+        [two] Čas branja: { $range } minuti
+        [few] Čas branja: { $range } minute
+       *[other] Čas branja: { $range } minut
+    }

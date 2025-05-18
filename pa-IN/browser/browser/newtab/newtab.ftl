@@ -117,6 +117,8 @@ newtab-menu-delete-pocket = { -pocket-brand-name } ਤੋਂ ਹਟਾਓ
 newtab-menu-archive-pocket = { -pocket-brand-name } ਵਿੱਚ ਪੁਰਾਲੇਖਬੱਧ ਕਰੋ
 newtab-menu-show-privacy-info = ਸਾਡੇ ਸਪਾਂਸਰ ਅਤੇ ਤੁਹਾਡੀ ਪਰਦੇਦਾਰੀ
 newtab-menu-about-fakespot = { -fakespot-brand-name } ਬਾਰੇ
+# Report is a verb (i.e. report issue with the content).
+newtab-menu-report = ਰਿਪੋਰਟ
 newtab-menu-report-content = ਇਸ ਸਮੱਗਰੀ ਬਾਰੇ ਰਿਪੋਰਟ ਕਰੋ
 # Context menu option to personalize New Tab recommended stories by blocking a section of stories,
 # e.g. "Sports". "Block" is a verb here.

@@ -655,6 +655,8 @@ home-prefs-weather-header =
     .label = Vreme
 home-prefs-weather-description = Kratek pogled na današnjo napoved
 home-prefs-weather-learn-more-link = Več o tem
+home-prefs-mission-message = Naši sponzorji podpirajo naše poslanstvo ustvarjanja boljšega spleta
+home-prefs-mission-message-learn-more-link = Spoznajte, kako
 # Variables:
 #   $num (number) - Number of rows displayed
 home-prefs-sections-rows-option =

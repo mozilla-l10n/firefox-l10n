@@ -46,6 +46,12 @@ webext-perms-extra-warning-userScripts-short = ਗ਼ੈਰ-ਤਸਦੀਕ ਕ�
 ##
 ## This is used when the data collection permissions are required.
 
+webext-perms-description-data-short-bookmarksInfo = ਬੁੱਕਮਾਰਕ
+webext-perms-description-data-short-browsingActivity = ਬਰਾਊਜ਼ ਕਰਨ ਦੀ ਸਰਗਰਮੀ
+webext-perms-description-data-short-financialAndPaymentInfo = ਵਿੱਤੀ ਅਤੇ ਭੁਗਤਾਨ ਦੀ ਜਾਣਕਾਰੀ
+webext-perms-description-data-short-healthInfo = ਸਥਿਤੀ ਸੰਬੰਧੀ ਜਾਣਕਾਰੀ
+webext-perms-description-data-short-locationInfo = ਟਿਕਾਣਾ
+webext-perms-description-data-short-personalCommunications = ਨਿੱਜੀ ਪੱਤਰ-ਵਿਹਾਰ
 
 ## Long form to be used in `about:addons` when these data collection permissions are optional.
 

@@ -8,6 +8,7 @@
 preonboarding-title = { -brand-product-name } ਵਲੋਂ ਜੀ ਆਇਆਂ ਨੂੰ
 preonboarding-subtitle = ਜਾਰੀ ਰੱਖ ਕੇ ਤੁਸੀਂ { -brand-product-name } ਵਰਤਣ ਦੀਆਂ ਸ਼ਰਤਾਂ ਅਤੇ ਸਾਡੀ ਪਰਦੇਦਾਰੀ ਨੀਤੀ ਨਾਲ ਸਹਿਮਤ ਹੁੰਦੇ ਹੋ। ਬਰਾਊਜ਼ਰ ਨੂੰ ਸੁਧਾਰਨ ਲਈ ਮਦਦ ਵਾਸਤੇ { -brand-product-name } { -vendor-short-name } ਨੂੰ ਜਾਂਚ ਪੜਤਾਲ ਅਤੇ ਤਾਲਮੇਲ ਡਾਟਾ ਭੇਜਦਾ ਹੈ।
 preonboarding-primary-cta = ਤਸਦੀਕ ਕਰੋ ਅਤੇ ਜਾਰੀ ਰੱਖੋ
+preonboarding-primary-cta-v2 = ਜਾਰੀ ਰੱਖੋ
 # Labels for header style button that toggles showing the terms of use, privacy notice, and data preferences checklist
 preonboarding-manage-and-read-header = ਡਾਟਾ ਭੰਡਾਰ ਸੈਟਿੰਗਾਂ ਦਾ ਇੰਤਜ਼ਾਮ ਕਰੋ ਅਤੇ ਸਾਡੀਆਂ ਵਰਤਣ ਦੀਆਂ ਸ਼ਰਤਾਂ ਤੇ ਪਰਦੇਦਾਰੀ ਨੀਤੀ ਨੂੰ ਪੜ੍ਹੋ
 preonboarding-manage-and-read-header-v2 = ਵਰਤੋਂ ਦੀਆਂ ਸ਼ਰਤਾਂ ਅਤੇ ਪਰਦੇਦਾਰੀ ਸੂਚਨਾ ਨੂੰ ਪੜ੍ਹੋ। ਵਧੀਕ ਸੈਟਿੰਗਾਂ ਦਾ ਇੰਤਜ਼ਾਮ ਕਰੋ।

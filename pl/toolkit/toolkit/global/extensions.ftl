@@ -18,9 +18,22 @@ webext-perms-sideload-header = Dodano „{ $extension }”
 webext-perms-optional-perms-header2 = Dodatek „{ $extension }” prosi o nowe uprawnienia
 webext-perms-optional-perms-header = Dodatek „{ $extension }” prosi o nowe uprawnienia.
 webext-perms-header2 = Dodaj „{ $extension }”
+webext-perms-list-intro-unsigned = To niezweryfikowane rozszerzenie może narazić Twoją prywatność na ryzyko lub zainfekować urządzenie. Dodaj rozszerzanie jedynie, jeśli ufasz jego pochodzeniu.
 
 ## Headers used in the webextension permissions dialog, inside the content.
 
+webext-perms-header-required-perms = Wymagane uprawnienia:
+webext-perms-header-optional-settings = Opcjonalne ustawienia:
+webext-perms-header-update-required-perms = Nowe wymagane uprawnienia:
+webext-perms-header-optional-required-perms = Nowe uprawnienia:
+webext-perms-header-data-collection-perms = Wymagane zbieranie danych:
+webext-perms-header-data-collection-is-none = Zbieranie danych:
+# This is a header used in the add-ons "update" prompt, shown when the new
+# version requires new data collection permissions.
+webext-perms-header-update-data-collection-perms = Nowe wymagane zbieranie danych:
+# This is a header used in the add-ons "optional" prompt, shown when the
+# extension requests new data collection permissions programmatically.
+webext-perms-header-optional-data-collection-perms = Nowe zbieranie danych:
 
 ##
 
@@ -38,6 +51,9 @@ webext-perms-sideload-enable =
 webext-perms-sideload-cancel =
     .label = Anuluj
     .accesskey = A
+# Variables:
+#   $extension (String): replaced with the localized name of the extension.
+webext-perms-update-text2 = Rozszerzenie „{ $extension }” zostało uaktualnione. Nowe uprawnienia muszą zostać zaakceptowane zanim uaktualniona wersja zostanie zainstalowana. Wybranie „Anuluj” spowoduje pozostawienie aktualnie zainstalowanej wersji rozszerzenia.
 # Variables:
 #   $extension (String): replaced with the localized name of the extension.
 webext-perms-update-text = Rozszerzenie „{ $extension }” zostało uaktualnione. Nowe uprawnienia muszą zostać zaakceptowane zanim uaktualniona wersja zostanie zainstalowana. Wybranie „Anuluj” spowoduje pozostawienie aktualnie zainstalowanej wersji rozszerzenia. To rozszerzenie wymaga następujących uprawnień:
@@ -95,6 +111,13 @@ webext-perms-host-description-multiple-domains =
 
 ## Strings for data collection permissions in the permission prompt.
 
+webext-perms-description-data-none = Autorzy tego rozszerzenia twierdzą, że nie wymaga ono zbierania danych.
+# Variables:
+#    $permissions (String): a list of data collection permissions formatted with `Intl.ListFormat` using the "narrow" style.
+webext-perms-description-data-some = Autorzy tego rozszerzenia twierdzą, że zbiera ono: { $permissions }
+# Variables:
+#    $permissions (String): a list of data collection permissions formatted with `Intl.ListFormat` using the "narrow" style.
+webext-perms-description-data-some-update = Autorzy rozszerzenia twierdzą, że będzie ono zbierało: { $permissions }
 
 ## Headers used in the webextension permissions dialog for synthetic add-ons.
 ## The part of the string describing what privileges the extension gives should be consistent
@@ -132,3 +155,5 @@ webext-site-perms-midi-sysex = Dostęp do urządzeń MIDI z obsługą SysEx
 
 ## Colorway theme migration
 
+webext-colorway-theme-migration-notification-message = <b>Używana kolorystyka została usunięta.</b> Kolekcja kolorystyk { -brand-shorter-name(case: "gen") } została odświeżona. Na witrynie z dodatkami znajdziesz najnowsze.
+webext-colorway-theme-migration-notification-button = Pobierz odświeżone kolorystyki
