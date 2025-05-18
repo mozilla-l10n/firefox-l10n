@@ -87,3 +87,9 @@ about-logging-uploading-progress = Зацягваюцца дадзеныя пр�
 #   $url (string) - The URL where the profile can be found
 about-logging-uploaded = Зацягнута на <a data-l10n-name="uploaded-message-url">{ $url }</a>
 about-logging-share-uploaded-url = <img data-l10n-name="share-image"/> Падзяліцца URL
+# Variables:
+#   $errorText (string) - The received error message, inserted as is.
+about-logging-upload-error = Пры зацягванні профілю здарылася памылка: { $errorText }
+# Variables:
+#   $errorText (string) - The received error message, inserted as is.
+about-logging-save-error = Пры захаванні файла здарылася памылка: { $errorText }
