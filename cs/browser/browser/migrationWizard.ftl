@@ -216,6 +216,9 @@ migration-safari-password-import-step3 = Uložte soubor s hesly
 migration-safari-password-import-step4 = Klepněte na „Vybrat soubor“ níže a vyberte uložený soubor s hesly
 migration-chrome-windows-password-import-header = Jak importovat hesla z prohlížeče Chrome
 migration-chrome-windows-password-import-steps-header = V prohlížeči Chrome:
+migration-chrome-windows-password-import-step1 = Otevřete hlavní nabídku <img data-l10n-name="chrome-icon-3dots"/> a vyberte položku Hesla a automatické vyplňování > Správce hesel Google.
+migration-chrome-windows-password-import-step2 = V nabídce vyberte “Nastavení”.
+migration-chrome-windows-password-import-step3 = Zvolte “Stáhnout soubor” a uložte jej do svého zařízení.
 migration-manual-password-import-skip-button = Přeskočit
 migration-manual-password-import-select-button = Vybrat soubor
 migration-safari-password-import-skip-button = Přeskočit
