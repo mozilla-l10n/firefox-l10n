@@ -261,20 +261,31 @@ shopping-opt-in-integrated-headline = Nakupujte z zaupanjem
 #   $firstSite (String) - The first shopping page name
 #   $secondSite (String) - The second shopping page name
 #   $thirdSite (String) - The third shopping page name
-shopping-opt-in-integrated-subtitle = Vključite pregledovalnik mnenj v { -brand-product-name(sklon: "mestnik") } in pred nakupom preverite, kako zanesljive so ocene izdelkov. Za analizo mnenj uporablja tehnologijo umetne inteligence in deluje, ko nakupujete v trgovinah { $firstSite }, { $secondSite } in { $thirdSite }. <a data-l10n-name="learn_more">Več o tem</a>
+shopping-opt-in-integrated-subtitle = Vključite pregledovalnik mnenj v { -brand-product-name(sklon: "mestnik") } in pred nakupom preverite, kako zanesljiva so mnenja o izdelkih. Za analizo mnenj uporablja tehnologijo umetne inteligence in deluje, ko nakupujete v trgovinah { $firstSite }, { $secondSite } in { $thirdSite }. <a data-l10n-name="learn_more">Več o tem</a>
+# Description text for regions where we support three sites. Sites are limited to Amazon, Walmart and Best Buy.
+# Variables:
+#   $firstSite (String) - The first shopping page name
+#   $secondSite (String) - The second shopping page name
+#   $thirdSite (String) - The third shopping page name
+shopping-opt-in-integrated-subtitle-unsupported-site = Pregledovalnik mnenj v { -brand-product-name(sklon: "mestnik") } vam pomaga pred nakupom preveriti, kako zanesljiva so mnenja o izdelkih. Za analizo mnenj uporablja tehnologijo umetne inteligence in deluje, ko nakupujete v trgovinah { $firstSite }, { $secondSite } in { $thirdSite }. <a data-l10n-name="learn_more">Več o tem</a>
 
 ## Messages for callout for users not opted into the sidebar integrated version of Review Checker.
 
+shopping-callout-opt-in-integrated-headline = Lahko zaupate tem mnenjem?
+# Appears underneath shopping-opt-in-integrated-headline to answer the question 'Can you trust these reviews?'
+shopping-callout-not-opted-in-integrated-paragraph1 = Vključite pregledovalnik mnenj za { -brand-product-name } in ugotovite. Poganja ga { -fakespot-brand-full-name } in za analizo mnenj uporablja tehnologijo umetne inteligence.
 shopping-callout-not-opted-in-integrated-paragraph2 = Z izbiro “{ shopping-opt-in-integrated-button }“ se strinjate z <a data-l10n-name="privacy_policy">obvestilom o zasebnosti { -brand-product-name(sklon: "rodilnik") }</a> in <a data-l10n-name="terms_of_use">pogoji uporabe { -fakespot-brand-full-name(sklon: "rodilnik") }</a>.
 shopping-callout-not-opted-in-integrated-reminder-dismiss-button = Zapri
 shopping-callout-not-opted-in-integrated-reminder-accept-button = Vklopi pregledovalnik mnenj
 shopping-callout-not-opted-in-integrated-reminder-do-not-show = Tega priporočila ne prikazuj več
 shopping-callout-not-opted-in-integrated-reminder-show-fewer = Prikazuj manj priporočil
 shopping-callout-not-opted-in-integrated-reminder-manage-settings = Nastavitve
+shopping-opt-in-integrated-privacy-policy-and-terms-of-use = Pregledovalnik mnenj poganja { -fakespot-brand-full-name }. Z izbiro “{ shopping-opt-in-integrated-button }“ se strinjate z <a data-l10n-name="privacy_policy">obvestilom o zasebnosti { -brand-product-name(sklon: "rodilnik") }</a> in <a data-l10n-name="terms_of_use">pogoji uporabe { -fakespot-brand-name(sklon: "rodilnik") }</a>.
 shopping-opt-in-integrated-button = Preizkusite pregledovalnik mnenj
 
 ## Message strings for Review Checker's empty states.
 
+shopping-empty-state-header = Pripravljen na pregled mnenj
 
 ## Confirm disabling Review Checker for newly opted out users
 
