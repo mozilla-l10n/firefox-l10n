@@ -774,6 +774,8 @@ home-prefs-weather-header =
     .label = Počasí
 home-prefs-weather-description = Přehled dnešní předpovědi
 home-prefs-weather-learn-more-link = Zjistit více
+home-prefs-mission-message = Naši sponzoři podporují naši misi budovat lepší web
+home-prefs-mission-message-learn-more-link = Zjistěte jak
 # Variables:
 #   $num (number) - Number of rows displayed
 home-prefs-sections-rows-option =
