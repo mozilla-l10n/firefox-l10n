@@ -282,20 +282,40 @@ shopping-callout-not-opted-in-integrated-reminder-accept-button = Уключыц
 shopping-callout-not-opted-in-integrated-reminder-do-not-show = Больш не паказваць гэту рэкамендацыю
 shopping-callout-not-opted-in-integrated-reminder-show-fewer = Паказваць менш рэкамендацый
 shopping-callout-not-opted-in-integrated-reminder-manage-settings = Кіраваць наладамі
+shopping-opt-in-integrated-privacy-policy-and-terms-of-use = Праверка водгукаў працуе на базе { -fakespot-brand-full-name }. Націскаючы «{ shopping-opt-in-integrated-button }», вы згаджаецеся з <a data-l10n-name="privacy_policy">палітыкай прыватнасці</a> { -brand-product-name } і <a data-l10n-name="terms_of_use">ўмовамі карыстання</a> { -fakespot-brand-name }.
+shopping-opt-in-integrated-button = Паспрабаваць праверку водгукаў
 
 ## Message strings for Review Checker's empty states.
 
+shopping-empty-state-header = Гатовы праверыць водгукі
+shopping-empty-state-supported-site = Паглядзіце прадукт, і { -brand-product-name } праверыць надзейнасць водгукаў.
+# We show a list of sites supported by Review Checker whenever a user opens the feature in an unsupported site.
+# This string will be displayed above the list of sites. The list will be hardcoded and does not require localization.
+shopping-empty-state-non-supported-site = Праверка водгукаў працуе, калі вы робіце пакупкі на:
 
 ## Confirm disabling Review Checker for newly opted out users
 
+shopping-integrated-callout-opted-out-title = Праверка водгукаў адключана
+shopping-integrated-callout-opted-out-subtitle = Каб зноў уключыць яе, выберыце цэннік на бакавой панэлі і ўключыце праверку водгукаў.
 
 ## Callout for where to find Review Checker when the sidebar closes
 
+shopping-integrated-callout-sidebar-closed-title = Вярнуцца да праверкі водгукаў
+shopping-integrated-callout-sidebar-closed-subtitle = Выберыце цэннік на бакавой панэлі, каб даведацца, ці можна давяраць водгукам аб прадукце.
+shopping-integrated-callout-no-logo-sidebar-closed-subtitle = Націсніце кнопку бакавой панэлі, каб даведацца, ці можна давяраць водгукам аб прадукце.
 
 ## Strings for a notification card about Review Checker's new position in the sidebar.
 ## The card will only appear for users that have the default sidebar position, which is on the left side for non RTL locales.
 ## Review Checker in the sidebar is only available to US users at this time, so we can assume that the default position is on the left side.
 
+shopping-integrated-new-position-notification-title = Тая ж праверка водгукаў, новае месца
+shopping-integrated-new-position-notification-move-right-subtitle = Пакіньце праверку водгукаў і астатнюю бакавую панэль { -brand-product-name } тут — або перамясціце яе ўправа. Пераключыцеся зараз ці ў любы час у <a data-l10n-name="sidebar_settings">наладах бакавой панэлі</a>.
+shopping-integrated-new-position-notification-move-left-subtitle = Пакіньце праверку водгукаў і астатнюю бакавую панэль { -brand-product-name } тут — або перамясціце яе ўлева. Пераключыцеся зараз ці ў любы час у <a data-l10n-name="sidebar_settings">наладах бакавой панэлі</a>.
+shopping-integrated-new-position-notification-move-right-button = Перамясціць управа
+shopping-integrated-new-position-notification-move-left-button = Перамясціць улева
+shopping-integrated-new-position-notification-dismiss-button = Зразумела
 
 ## Combined setting for auto-open and auto-close.
 
+shopping-settings-auto-open-and-close-toggle =
+    .label = Аўтаматычна адкрываць і закрываць праверку водгукаў
