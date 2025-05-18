@@ -199,6 +199,12 @@ migration-safari-password-import-step1 = W Safari otwórz menu „Safari” i 
 migration-safari-password-import-step2 = Kliknij przycisk <img data-l10n-name="safari-icon-3dots"/> i wybierz „Eksportuj wszystkie hasła”
 migration-safari-password-import-step3 = Zapisz plik z hasłami
 migration-safari-password-import-step4 = Użyj przycisku „Wybierz plik” poniżej, aby wybrać zapisany plik z hasłami
+migration-chrome-windows-password-import-header = Jak zaimportować hasła z Chrome
+migration-chrome-windows-password-import-steps-header = W przeglądarce Chrome:
+migration-chrome-windows-password-import-step1 = Otwórz menu główne <img data-l10n-name="chrome-icon-3dots"/> i przejdź do Hasła i autouzupełnianie → Menedżer haseł Google.
+migration-chrome-windows-password-import-step2 = Wybierz „Ustawienia” z menu.
+migration-chrome-windows-password-import-step3 = Kliknij „Pobierz plik” i zapisz go na swoim urządzeniu.
+migration-chrome-windows-password-import-step4 = Wróć tutaj i kliknij „Wybierz plik”, aby dokończyć importowanie.
 migration-manual-password-import-skip-button = Pomiń
 migration-manual-password-import-select-button = Wybierz plik
 migration-safari-password-import-skip-button = Pomiń

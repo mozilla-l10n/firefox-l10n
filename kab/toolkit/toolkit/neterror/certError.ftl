@@ -131,6 +131,7 @@ fp-certerror-body-title = Ḥader. Yella wayen ur nteddu ara akken ilaq.
 fp-certerror-what-can-you-do = D acu i tzemreḍ ad txedmeḍ i waya?
 fp-certerror-advanced-title = Talqayt
 fp-certerror-advanced-button = Talqayt
+fp-certerror-hide-advanced-button = Ffer talqayt
 
 ## Variables:
 ##   $hostname (String) - Hostname of the website to which the user was trying to connect.

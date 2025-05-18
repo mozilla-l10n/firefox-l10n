@@ -41,3 +41,9 @@ experimental-features-link-previews-description =
         [macos] Če želite izvedeti več o spletni strani, preden kliknete nanjo, podržite miškin kazalec na povezavi in pritisnite Shift (⇧) in Option (⌥) ali Alt. Predogledi lahko vsebujejo podatke, kot sta naslov in čas branja. Na nekaterih spletnih straneh lahko umetna inteligenca prebere tudi besedilo strani in ga povzame v ključnih točkah. Umetna inteligenca je optimizirana za branje in ustvarjanje angleških besedil. Da bi zagotovili vašo zasebnost, se umetna inteligenca izvaja lokalno v vašem računalniku. <a data-l10n-name="connect">Sporočite povratne informacije</a>
        *[other] Če želite izvedeti več o spletni strani, preden kliknete nanjo, podržite miškin kazalec na povezavi in pritisnite Shift + Alt. Predogledi lahko vsebujejo podatke, kot sta naslov in čas branja. Na nekaterih spletnih straneh lahko umetna inteligenca prebere tudi besedilo strani in ga povzame v ključnih točkah. Umetna inteligenca je optimizirana za branje in ustvarjanje angleških besedil. Da bi zagotovili vašo zasebnost, se umetna inteligenca izvaja lokalno v vašem računalniku. <a data-l10n-name="connect">Sporočite povratne informacije</a>
     }
+# This version of the link previews description does not mention AI.
+experimental-features-link-previews-description-no-ai =
+    { PLATFORM() ->
+        [macos] Če želite izvedeti več o spletni strani, pred klikom pomaknite miško nad povezavo in pritisnite Shift (⇧) in Option (⌥) ali Alt. Predogledi lahko vključujejo podrobnosti, kot sta naslov in čas branja. <a data-l10n-name="connect">Sporočite povratne informacije</a>
+       *[other] Če želite izvedeti več o spletni strani, pred klikom pomaknite miško nad povezavo in pritisnite Shift + Alt. Predogledi lahko vključujejo podrobnosti, kot sta naslov in čas branja. <a data-l10n-name="connect">Sporočite povratne informacije</a>
+    }
