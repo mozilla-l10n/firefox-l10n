@@ -200,6 +200,13 @@ contextual-manager-passwords-breached-origin-heading-and-message =
     .message = Ёсць паведамленні, што паролі з гэтага сайта былі скрадзеныя або выцеклі. Змяніце свой пароль, каб абараніць уліковы запіс.
 contextual-manager-passwords-breached-origin-link-message = Як { -brand-product-name } даведваецца пра ўцечкі?
 contextual-manager-passwords-change-password-button = Змяніць пароль
+contextual-manager-passwords-vulnerable-password-heading-and-message =
+    .heading = Рэкамендуецца змяніць пароль
+    .message = Гэты пароль лёгка ўгадаць. Змяніце свой пароль, каб абараніць уліковы запіс.
+contextual-manager-passwords-vulnerable-password-link-message = Як { -brand-product-name } даведваецца пра ненадзейныя паролі?
+contextual-manager-passwords-no-username-heading-and-message =
+    .heading = Дадайце імя карыстальніка
+    .message = Дадайце імя карыстальніка, каб уваходзіць хутчэй.
 contextual-manager-passwords-add-username-button = Дадаць імя карыстальніка
 
 ## Login Form
@@ -210,6 +217,9 @@ contextual-manager-passwords-edit-label =
     .label = Змяніць пароль
 contextual-manager-passwords-remove-label =
     .title = Выдаліць пароль
+contextual-manager-passwords-origin-tooltip = Увядзіце дакладны адрас, дзе вы будзеце ўваходзіць на гэты сайт.
+contextual-manager-passwords-username-tooltip = Увядзіце імя карыстальніка, адрас электроннай пошты або нумар уліковага запісу, які вы выкарыстоўваеце для ўваходу.
+contextual-manager-passwords-password-tooltip = Увядзіце пароль, які выкарыстоўваецца для ўваходу ў гэты ўліковы запіс.
 
 ## Password Card
 
@@ -225,6 +235,39 @@ contextual-manager-check-icon-password =
     .alt = Скапіяваны
 contextual-manager-alert-icon =
     .alt = Папярэджанне
+# Variables
+#   $url (string) - The url associated with the login
+contextual-manager-origin-login-line =
+    .aria-label = Наведаць { $url }
+    .title = Наведаць { $url }
+# "(Warning)" indicates that a login's origin field has an alert icon.
+# Variables
+#   $url (string) - The url associated with the login
+contextual-manager-origin-login-line-with-alert =
+    .aria-label = Наведаць { $url } (Папярэджанне)
+    .title = Наведаць { $url } (Папярэджанне)
+# Variables
+#   $username (string) - The username associated with the login
+contextual-manager-username-login-line =
+    .aria-label = Скапіяваць імя карыстальніка { $username }
+    .title = Скапіяваць імя карыстальніка { $username }
+# "(Warning)" indicates that a login's username field has an alert icon.
+# Variables
+#   $username (string) - The username associated with the login
+contextual-manager-username-login-line-with-alert =
+    .aria-label = Скапіяваць імя карыстальніка { $username } (Папярэджанне)
+    .title = Скапіяваць імя карыстальніка { $username } (Папярэджанне)
+contextual-manager-password-login-line =
+    .aria-label = Капіяваць пароль
+    .title = Капіяваць пароль
+# "(Warning)" indicates that a login's password field has an alert icon.
+contextual-manager-password-login-line-with-alert =
+    .aria-label = Скапіяваць пароль (папярэджанне)
+    .title = Скапіяваць пароль (папярэджанне)
+contextual-manager-edit-login-button = Змяніць
+    .tooltiptext = Змяніць пароль
+contextual-manager-view-alert-heading =
+    .heading = Паглядзець папярэджанне
 
 ## When the user has no saved passwords, we display the following messages to inform the user they can save
 ## their passwords safely and securely in Firefox:
