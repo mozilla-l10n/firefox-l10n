@@ -153,18 +153,53 @@ contextual-manager-passwords-radiogroup-label =
 contextual-manager-passwords-add-password-success-heading =
     .heading = Пароль дададзены для { $url }
 contextual-manager-passwords-add-password-success-button = Прагледзець
+# Variables
+#   $url (string) - The url associated with the existing login
+contextual-manager-passwords-password-already-exists-error-heading =
+    .heading = Пароль і імя карыстальніка для { $url } ужо ёсць
+contextual-manager-passwords-password-already-exists-error-button = Перайсці да пароля
+contextual-manager-passwords-update-password-success-heading =
+    .heading = Пароль захаваны
 contextual-manager-passwords-update-password-success-button = Гатова
+# Message to confirm successful removal of a password/passwords.
+#   $total (number) - Total number of passwords
+contextual-manager-passwords-delete-password-success-heading =
+    .heading =
+        { $total ->
+            [1] Пароль выдалены
+            [one] Паролі выдалены
+            [few] Паролі выдалены
+           *[many] Паролі выдалены
+        }
 contextual-manager-passwords-delete-password-success-button = Гатова
+#
+# Radiobutton label to display total number of passwords
+#   $total (number) - Total number of passwords
+contextual-manager-passwords-radiobutton-all = Усе ({ $total })
+# Radiobutton label to display total number of alerts
+#   $total (number) - Total number of alerts
+contextual-manager-passwords-radiobutton-alerts = Папярэджанні ({ $total })
 # This message is displayed to make sure that a user wants to delete an existing login.
 contextual-manager-passwords-remove-login-card-title = Выдаліць пароль?
+# This message warns the user that deleting a login is permanent.
+contextual-manager-passwords-remove-login-card-message = Гэтага нельга адмяніць.
 # This message gives the user an option to go back to the edit login form.
 contextual-manager-passwords-remove-login-card-back-message = Назад
 # This message confirms that the user wants to remove an existing login.
 contextual-manager-passwords-remove-login-card-remove-button = Выдаліць
 # This message gives the user the option to cancel their attempt to remove a login.
 contextual-manager-passwords-remove-login-card-cancel-button = Скасаваць
+contextual-manager-passwords-alert-card =
+    .aria-label = Папярэджанні пра паролі
 contextual-manager-passwords-alert-back-button =
     .label = Назад
+contextual-manager-passwords-alert-list =
+    .aria-label = Спіс папярэджанняў
+contextual-manager-passwords-breached-origin-heading-and-message =
+    .heading = Рэкамендуецца змяніць пароль
+    .message = Ёсць паведамленні, што паролі з гэтага сайта былі скрадзеныя або выцеклі. Змяніце свой пароль, каб абараніць уліковы запіс.
+contextual-manager-passwords-breached-origin-link-message = Як { -brand-product-name } даведваецца пра ўцечкі?
+contextual-manager-passwords-change-password-button = Змяніць пароль
 contextual-manager-passwords-add-username-button = Дадаць імя карыстальніка
 
 ## Login Form
