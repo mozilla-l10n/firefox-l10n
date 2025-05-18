@@ -121,6 +121,24 @@ contextual-manager-passwords-remove-all-confirm-button =
         [few] Выдаліць усе
        *[many] Выдаліць усе
     }
+# Message to confirm the removal of all saved passwords when user DOES NOT HAVE SYNC
+#   $total (number) - Total number of passwords
+contextual-manager-passwords-remove-all-message =
+    { $total ->
+        [1] Гэта выдаліць паролі, захаваныя ў { -brand-short-name }, і любыя папярэджанні аб уцечках. Вы не зможаце адмяніць гэтае дзеянне.
+        [one] Гэта выдаліць паролі, захаваныя ў { -brand-short-name }, і любыя папярэджанні аб уцечках. Вы не зможаце адмяніць гэтае дзеянне.
+        [few] Гэта выдаліць паролі, захаваныя ў { -brand-short-name }, і любыя папярэджанні аб уцечках. Вы не зможаце адмяніць гэтае дзеянне.
+       *[many] Гэта выдаліць паролі, захаваныя ў { -brand-short-name }, і любыя папярэджанні аб уцечках. Вы не зможаце адмяніць гэтае дзеянне.
+    }
+# Message for modal to confirm the removal of all saved passwords when user HAS SYNC
+#   $total (number) - Total number of passwords
+contextual-manager-passwords-remove-all-message-sync =
+    { $total ->
+        [1] Гэта выдаліць паролі, захаваныя ў { -brand-short-name } на ўсіх сінхранізаваных прыладах, і любыя папярэджанні аб уцечках. Вы не зможаце адмяніць гэтае дзеянне.
+        [one] Гэта выдаліць паролі, захаваныя ў { -brand-short-name } на ўсіх сінхранізаваных прыладах, і любыя папярэджанні аб уцечках. Вы не зможаце адмяніць гэтае дзеянне.
+        [few] Гэта выдаліць паролі, захаваныя ў { -brand-short-name } на ўсіх сінхранізаваных прыладах, і любыя папярэджанні аб уцечках. Вы не зможаце адмяніць гэтае дзеянне.
+       *[many] Гэта выдаліць паролі, захаваныя ў { -brand-short-name } на ўсіх сінхранізаваных прыладах, і любыя папярэджанні аб уцечках. Вы не зможаце адмяніць гэтае дзеянне.
+    }
 contextual-manager-passwords-origin-label = Вэб-сайт
 # The attribute .data-after describes the text that should be displayed for the ::after pseudo-selector
 contextual-manager-passwords-username-label = Імя карыстальніка
@@ -128,6 +146,13 @@ contextual-manager-passwords-username-label = Імя карыстальніка
 # The attribute .data-after describes the text that should be displayed for the ::after pseudo-selector
 contextual-manager-passwords-password-label = Пароль
     .data-after = Скапіяваны
+contextual-manager-passwords-radiogroup-label =
+    .aria-label = Фільтр пароляў
+# Variables
+#   $url (string) - The url associated with the new login
+contextual-manager-passwords-add-password-success-heading =
+    .heading = Пароль дададзены для { $url }
+contextual-manager-passwords-add-password-success-button = Прагледзець
 contextual-manager-passwords-update-password-success-button = Гатова
 contextual-manager-passwords-delete-password-success-button = Гатова
 # This message is displayed to make sure that a user wants to delete an existing login.
