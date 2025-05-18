@@ -173,7 +173,17 @@ mr2022-onboarding-import-primary-button-label-no-attribution = درون‌ریز
 ## help creating a more inclusive translation.
 
 mr2022-onboarding-colorway-title = رنگی را انتخاب کنید که شما را به شور می‌آورد
+mr2022-onboarding-colorway-subtitle = صداهای مستقل می‌توانند فرهنگ را تغییر دهند.
+mr2022-onboarding-colorway-primary-button-label-continue = تنظیم و ادامه
+mr2022-onboarding-existing-colorway-checkbox-label = { -firefox-home-brand-name } را صفحهٔ خانگی رنگارنگ خود کنید
 mr2022-onboarding-colorway-label-default = پیش‌فرض
+mr2022-onboarding-colorway-description-default = <b>از رنگ‌های کنونی { -brand-short-name } من استفاده شود.</b>
+mr2022-onboarding-colorway-label-playmaker = بازی‌ساز
+mr2022-onboarding-colorway-description-playmaker = <b>شما یک بازی‌ساز هستید.</b> شما فرصت‌هایی برای برنده شدن می‌سازید و به همه اطرافیان خود کمک می‌کنید تا بازی خود را ارتقا دهند.
+mr2022-onboarding-colorway-label-expressionist = بیان‌گرا
+mr2022-onboarding-colorway-tooltip-expressionist2 =
+    .title = بیان‌گرا (زرد)
+mr2022-onboarding-colorway-description-expressionist = <b>شما یک بیان‌گرا هستید.</b> شما دنیا را جور دیگری می‌بینید و ساخته‌های شما احساسات دیگران را نیز برمی‌انگیزند.
 mr2022-onboarding-colorway-label-visionary = رؤیایی
 mr2022-onboarding-colorway-label-activist = کنشگر
 mr2022-onboarding-colorway-label-dreamer = رؤیاپرداز
