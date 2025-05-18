@@ -97,6 +97,10 @@ bookmarks-toolbar-callout-2b-secondary-button-label = Ne, hvala
 perplexity-callout-theme-1-title = Potrebujete pravi odgovor, takoj?
 perplexity-callout-theme-2-title = Preizkusite Perplexity: nov način iskanja
 perplexity-callout-theme-1-subtitle-1 = Poskusite Perplexity. Izberite ga na gumbu za iskanje, ko želite imeti popolne odgovore, vključno z viri.
+perplexity-callout-theme-1-subtitle-2 = Postavljajte vprašanja. Pridobite popolne, dobro citirane odgovore. Če želite preizkusiti Perplexity, ga izberite na iskalnem gumbu.
+perplexity-callout-theme-2-subtitle-1 = Vprašajte Perplexity. Dobili boste popolne odgovore, vključno z viri.
+perplexity-callout-theme-2-subtitle-2 = Postavljajte vprašanja. Pridobite popolne, dobro citirane odgovore.
+perplexity-callout-primary-label = Vprašaj Perplexity
 perplexity-callout-secondary-label-1 = Skrij
 perplexity-callout-secondary-label-2 = Razumem
 

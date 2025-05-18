@@ -80,6 +80,8 @@ shopping-show-less-button = Sken drus
 
 shopping-settings-label =
     .label = Iɣewwaren
+shopping-settings-recommendations-toggle2 =
+    .label = Sken agbur imwelleh d ugbur s lmendad
 shopping-settings-recommendations-toggle =
     .label = Sken adellel deg umsenqad n tamawt
 shopping-settings-opt-out-button = Sens Amsenqed n tamawin

@@ -136,3 +136,4 @@ fp-certerror-hide-advanced-button = Ffer talqayt
 ## Variables:
 ##   $hostname (String) - Hostname of the website to which the user was trying to connect.
 
+fp-certerror-override-exception-button = Kemmel ɣer { $hostname } (Yella imihi)
