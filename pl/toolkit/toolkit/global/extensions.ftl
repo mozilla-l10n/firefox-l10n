@@ -118,6 +118,19 @@ webext-perms-description-data-some = Autorzy tego rozszerzenia twierdzą, że zb
 # Variables:
 #    $permissions (String): a list of data collection permissions formatted with `Intl.ListFormat` using the "narrow" style.
 webext-perms-description-data-some-update = Autorzy rozszerzenia twierdzą, że będzie ono zbierało: { $permissions }
+# Variables:
+#    $permissions (String): a list of data collection permissions formatted with `Intl.ListFormat` using the "narrow" style.
+webext-perms-description-data-some-optional = Autorzy rozszerzenia twierdzą, że prosi ono o zbieranie: { $permissions }
+# Variables:
+#   $extension (String): replaced with the localized name of the extension.
+webext-perms-update-text-with-data-collection = Rozszerzenie „{ $extension }” wymaga nowych ustawień przed aktualizacją
+webext-perms-update-list-intro-with-data-collection = Anuluj, aby zachować obecną wersję i ustawienia, albo uaktualnij, aby uzyskać nową wersję i zatwierdzić zmiany.
+# Variables:
+#   $extension (String): replaced with the localized name of the extension.
+webext-perms-optional-text-with-data-collection = Rozszerzenie „{ $extension }” prosi o dodatkowe ustawienia
+# Variables:
+#   $extension (String): replaced with the localized name of the extension.
+webext-perms-optional-text-with-data-collection-only = Rozszerzenie „{ $extension }” prosi o dodatkowe zbieranie danych
 
 ## Headers used in the webextension permissions dialog for synthetic add-ons.
 ## The part of the string describing what privileges the extension gives should be consistent

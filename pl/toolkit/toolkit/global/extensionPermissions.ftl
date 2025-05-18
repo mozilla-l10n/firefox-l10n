@@ -45,6 +45,25 @@ webext-perms-extra-warning-userScripts-short = Niezweryfikowane skrypty mogą st
 ##
 ## This is used when the data collection permissions are required.
 
+webext-perms-description-data-short-authenticationInfo = informacje o uwierzytelnieniu
+webext-perms-description-data-short-bookmarksInfo = zakładki
+webext-perms-description-data-short-browsingActivity = działania użytkownika w Internecie
+webext-perms-description-data-short-financialAndPaymentInfo = informacje finansowe i płatnicze
+webext-perms-description-data-short-healthInfo = informacje o zdrowiu
+webext-perms-description-data-short-locationInfo = położenie
+webext-perms-description-data-short-personalCommunications = prywatna komunikacja
+webext-perms-description-data-short-personallyIdentifyingInfo = informacje identyfikujące osobę
+webext-perms-description-data-short-searchTerms = wyszukiwane słowa
+webext-perms-description-data-short-technicalAndInteraction = dane techniczne i o interakcjach
+webext-perms-description-data-short-websiteActivity = działania użytkownika na witrynach
+webext-perms-description-data-short-websiteContent = treści witryn
 
 ## Long form to be used in `about:addons` when these data collection permissions are optional.
 
+webext-perms-description-data-long-authenticationInfo = Udostępnianie informacji o uwierzytelnieniu autorom rozszerzenia
+webext-perms-description-data-long-bookmarksInfo = Udostępnianie informacji o zakładkach autorom rozszerzenia
+webext-perms-description-data-long-browsingActivity = Udostępnianie działań użytkownika w Internecie autorom rozszerzenia
+webext-perms-description-data-long-financialAndPaymentInfo = Udostępnianie informacji finansowych i płatniczych autorom rozszerzenia
+webext-perms-description-data-long-healthInfo = Udostępnianie informacji o zdrowiu autorom rozszerzenia
+webext-perms-description-data-long-locationInfo = Udostępnianie informacji o położeniu autorom rozszerzenia
+webext-perms-description-data-long-personalCommunications = Udostępnianie prywatnej komunikacji autorom rozszerzenia
