@@ -41,3 +41,9 @@ experimental-features-link-previews-description =
         [macos] Bir web sayfasına tıklamadan önce sayfayla ilgili bilgi almak için bağlantının üzerine gelip Shift (⇧) ve Option (⌥) veya Alt tuşlarına basın. Ön izlemeler, başlık ve okuma süresi gibi ayrıntıları içerebilir. Bazı sayfalarda yapay zekâ sayfa metnini okuyup önemli noktaları özetleyebilir. Yapay zekâ, İngilizce metinler için optimize edilmiştir. Gizliliğinize öncelik veren bu yapay zekâ, bilgisayarınızda yerel olarak çalışır. <a data-l10n-name="connect">Görüşlerinizi paylaşın</a>
        *[other] Bir web sayfasına tıklamadan önce sayfayla ilgili bilgi almak için bağlantının üzerine gelip Shift + Alt tuşlarına basın. Ön izlemeler, başlık ve okuma süresi gibi ayrıntıları içerebilir. Bazı sayfalarda yapay zekâ sayfa metnini okuyup önemli noktaları özetleyebilir. Yapay zekâ, İngilizce metinler için optimize edilmiştir. Gizliliğinize öncelik veren bu yapay zekâ, bilgisayarınızda yerel olarak çalışır. <a data-l10n-name="connect">Görüşlerinizi paylaşın</a>
     }
+# This version of the link previews description does not mention AI.
+experimental-features-link-previews-description-no-ai =
+    { PLATFORM() ->
+        [macos] Bir web sayfasına tıklamadan önce sayfa hakkında bilgi almak isterseniz bağlantının üzerine gelip  Shift (⇧) + Option (⌥) veya Alt tuşlarına basın. Ön izlemede sayfa başlığı ve okuma süresi gibi ayrıntıları görebilirsiniz. <a data-l10n-name="connect">Görüşlerinizi paylaşın</a>
+       *[other] Bir web sayfasına tıklamadan önce sayfa hakkında bilgi almak isterseniz bağlantının üzerine gelip Shift + Alt tuşlarına basın. Ön izlemede sayfa başlığı ve okuma süresi gibi ayrıntıları görebilirsiniz. <a data-l10n-name="connect">Görüşlerinizi paylaşın</a>
+    }

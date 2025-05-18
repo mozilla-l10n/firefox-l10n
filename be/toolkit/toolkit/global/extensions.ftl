@@ -128,6 +128,9 @@ webext-perms-update-list-intro-with-data-collection = Скасаваць, каб
 # Variables:
 #   $extension (String): replaced with the localized name of the extension.
 webext-perms-optional-text-with-data-collection = { $extension } запытвае дадатковыя налады
+# Variables:
+#   $extension (String): replaced with the localized name of the extension.
+webext-perms-optional-text-with-data-collection-only = { $extension } запытвае дадатковы збор дадзеных
 
 ## Headers used in the webextension permissions dialog for synthetic add-ons.
 ## The part of the string describing what privileges the extension gives should be consistent

@@ -278,6 +278,10 @@ discopane-notice-recommendations2 =
         Bu önerilerden bazıları size özeldir. Önerilerimiz; yüklediğiniz
         diğer uzantıları, profil tercihlerinizi ve kullanım istatistiklerinizi temel alır.
 discopane-notice-learn-more = Daha fazla bilgi al
+# Notice for the colorway theme removal
+colorway-removal-notice-message =
+    .heading = Renk kuşağı temalarınız kaldırıldı.
+    .message = { -brand-product-name } renk kuşağı koleksiyonu güncellendi. “Kayıtlı temalar” listenizdeki eski sürümleri kaldırdık. Yeni sürümler eklenti sitemizden indirebilirsiniz.
 colorway-removal-notice-learn-more = Daha fazla bilgi alın
 colorway-removal-notice-button = Güncellenen renk kuşağı temalarını indirin
 privacy-policy = Gizlilik İlkeleri

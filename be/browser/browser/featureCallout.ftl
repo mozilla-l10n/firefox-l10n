@@ -62,14 +62,31 @@ split-dismiss-button-show-fewer-option =
 # Opens about:preferences#general-cfrfeatures
 split-dismiss-button-manage-settings-option =
     .label = Кіраваць наладамі
+# Accessibility label for dropdown menu button
+split-dismiss-button-default-label =
+    .title = Дадатковыя налады
 
 ## Login Status Advisory Callout (points to the account icon)
 
+# The 'account icon' is the toolbar button with a 'profile' icon of a human
+# head/shoulders. It's for dealing with your Mozilla account. When hovering the
+# icon, the tooltip says 'Account'.
+login-status-advisory-title = Вы выйшлі з сістэмы. Націсніце на значок уліковага запісу, каб увайсці.
 
 ## Bookmarks toolbar callout strings
 
+bookmarks-toolbar-callout-1-title = Дадаць гэты сайт на паліцу закладак?
+bookmarks-toolbar-callout-1-subtitle = Ваша закладка будзе захавана крыху ніжэй адраснага радка для хуткага доступу.
 bookmarks-toolbar-callout-1-primary-button-label = Дадаць закладку
 bookmarks-toolbar-callout-1-secondary-button-label = Не, дзякуй
+# Visible if user adds a bookmark in callout 1, bookmarks toolbar is set to always show when this message renders
+bookmarks-toolbar-callout-2a-title = Лёгка дадавайце больш закладак
+bookmarks-toolbar-callout-2a-subtitle = Вы можаце перацягваць карткі сюды, каб трымаць пад рукой больш сваіх улюбёных сайтаў.
+bookmarks-toolbar-callout-2a-primary-button-label = Зразумела
+# Reverts the bookmarks toolbar to the default setting
+bookmarks-toolbar-callout-2a-secondary-button-label = Схаваць паліцу прылад
+# Visible if user declines to add a bookmark in callout 1, bookmarks toolbar is set to always show when this message renders
+bookmarks-toolbar-callout-2b-title = Трымаць паліцу закладак адкрытай?
 
 ## Perplexity callout strings
 

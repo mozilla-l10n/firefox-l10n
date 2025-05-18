@@ -137,6 +137,7 @@ genai-onboarding-lechat-learn = Le Chat hakkında bilgi alın
 genai-onboarding-select-header = Önerileri görmek istediğiniz metni seçin
 genai-onboarding-select-description = Metin seçtiğinizde sohbet botuna gönderebileceğiniz istemler önereceğiz. Kendi istemlerinizi de yazabilirsiniz.
 genai-onboarding-select-primary = Sohbete başlayın
+genai-chatbot-contextual-title = Sekme değiştirmeden yapay zekâ sohbet botlarını kullanın
 genai-chatbot-contextual-subtitle = { -brand-short-name } kenar çubuğuna yapay zekâ sohbet botu ekleyin, bir yanda sohbet ederken öbür yanda internette gezinin.
 genai-chatbot-contextual-button = Bir sohbet botu seçin
 

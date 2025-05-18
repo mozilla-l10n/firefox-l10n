@@ -44,6 +44,9 @@ appmenu-addon-private-browsing-installed2 =
     .buttonlabel = Tamam
     .buttonaccesskey = T
 appmenu-addon-post-install-message3 = Eklentilerinizi ve temalarınızı uygulama menüsünden yönetebilirsiniz.
+# This string is used in the confirmation popup displayed after an extension
+# has been installed, when the data collection feature is enabled.
+appmenu-addon-post-install-message-with-data-collection = İzinleri ve veri tercihlerini istediğiniz zaman <a data-l10n-name="settings-link">uzantı ayarlarından</a> güncelleyebilirsiniz.
 appmenu-addon-post-install-incognito-checkbox =
     .label = Bu uzantının gizli pencerelerde çalışmasına izin ver
     .accesskey = B
