@@ -2,6 +2,15 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+migration-wizard-selection-header = درون‌ریزی داده‌های مرورگر
+migration-wizard-selection-list = داده‌هایی که مایلید درون‌ریزی شوند را انتخاب کنید.
+# Shown in the new migration wizard's dropdown selector for choosing the browser
+# to import from. This variant is shown when the selected browser doesn't support
+# user profiles, and so we only show the browser name.
+#
+# Variables:
+#  $sourceBrowser (String): the name of the browser to import from.
+migration-wizard-selection-option-without-profile = { $sourceBrowser }
 
 # Each migrator is expected to include a display name string, and that display
 # name string should have a key with "migration-wizard-migrator-display-name-"
@@ -18,6 +27,8 @@ migration-wizard-migrator-display-name-chromium-edge = مایکروسافت Edge
 migration-wizard-migrator-display-name-chromium-edge-beta = Microsoft Edge Beta
 migration-wizard-migrator-display-name-edge-legacy = Microsoft Edge Legacy
 migration-wizard-migrator-display-name-firefox = Firefox
+migration-wizard-migrator-display-name-file-password-csv = گذرواژه‌ها از پروندهٔ CSV
+migration-wizard-migrator-display-name-file-bookmarks = نشانک‌ها از پروندهٔ HTML
 migration-wizard-migrator-display-name-ie = اینترنت اکسپلورر مایکروسافت
 migration-wizard-migrator-display-name-safari = سافاری
 migration-source-name-ie = اینترنت اکسپلورر
@@ -33,10 +44,23 @@ migration-imported-edge-reading-list = لیست مطالعه (از Edge)
 
 ## These strings will be displayed based on how many resources are selected to import
 
+migration-all-available-data-label = درون‌ریزی همهٔ داده‌های در دسترس
+migration-no-selected-data-label = هیچ داده‌ای برای درون‌ریزی گزینش نشده است
+migration-selected-data-label = درون‌ریزی داده‌های گزینش شده
 
 ##
 
+migration-select-all-option-label = انتخاب همه
 migration-bookmarks-option-label = نشانک‌ها
+# Favorites is used for Bookmarks when importing from Internet Explorer or
+# Edge, as this is the terminology for bookmarks on those browsers.
+migration-favorites-option-label = صفحات محبوب
+migration-logins-and-passwords-option-label = ورود‌ها و گذرواژه‌های ذخیره شده
+migration-passwords-option-label = گذرواژه‌های ذخیره شده
+migration-history-option-label = تاریخچهٔ مرور
+migration-extensions-option-label = افزونه‌ها
+migration-form-autofill-option-label = دادهٔ پرکردن خودکار فرم‌ها
+migration-payment-methods-option-label = روش‌های پرداخت
 # A description for the .csv file format that may be shown as the file type
 # filter by the operating system.
 migration-passwords-from-file-csv-filter-title =

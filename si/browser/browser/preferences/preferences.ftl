@@ -146,6 +146,8 @@ preferences-data-migration-description = පොත්යොමු, මුරප�
 preferences-data-migration-button =
     .label = දත්ත ආයාත කරන්න
     .accesskey = m
+preferences-profiles-header = පැතිකඩ
+preferences-manage-profiles-learn-more = තව දැනගන්න
 tabs-group-header = පටිති
 ctrl-tab-recently-used-order =
     .label = Ctrl+Tab මෑතදී භාවිතා කළ අනුපිළිවෙලට පටිති සකසයි
@@ -691,6 +693,7 @@ search-keyword-warning-title = අනුපිටපත් මූල පදය
 #   $name (string) - Name of a search engine.
 search-keyword-warning-engine = ඔබ තෝරාගත් මූල පදය දැනට "{ $name }" මගින් භාවිතා කරයි. වෙනත් එකක් තෝරන්න.
 search-keyword-warning-bookmark = ඔබ තෝරාගත් මූල පදය දැනට පොත්යොමුවක භාවිතා කෙරේ. වෙනත් එකක් තෝරන්න.
+remove-engine-remove = ඉවත් කරන්න
 
 ## Containers Section
 
@@ -1098,6 +1101,11 @@ cookie-banner-blocker-checkbox-label =
 
 addressbar-header = ලිපින තීරය
 addressbar-suggest = ලිපින තීරුව භාවිත කරන විට, යෝජනා කරන්න
+# When Firefox Suggest is enabled, this replaces `addressbar-header`.
+addressbar-header-firefox-suggest = ලිපින තීරුව — { -firefox-suggest-brand-name }
+# When Firefox Suggest is enabled, a "Learn more" link appears at the end of
+# `addressbar-suggest-firefox-suggest`.
+addressbar-locbar-firefox-suggest-learn-more = තව දැනගන්න
 addressbar-locbar-history-option =
     .label = පිරික්සුම් ඉතිහාසය
     .accesskey = h
@@ -1130,6 +1138,8 @@ addressbar-locbar-showrecentsearches-option =
 addressbar-locbar-showtrendingsuggestions-option =
     .label = නැගීඑන සෙවුම් යෝජනා පෙන්වන්න
     .accesskey = t
+addressbar-locbar-suggest-sponsored-option =
+    .label = අනුග්‍රහකයින්ගෙන් යෝජනා
 addressbar-quickactions-learn-more = තව දැනගන්න
 
 ## Privacy Section - Content Blocking
