@@ -268,13 +268,45 @@ contextual-manager-edit-login-button = Змяніць
     .tooltiptext = Змяніць пароль
 contextual-manager-view-alert-heading =
     .heading = Паглядзець папярэджанне
+contextual-manager-view-alert-button =
+    .tooltiptext = Папярэджанне аб праверцы
+contextual-manager-show-password-button =
+    .aria-label = Паказаць пароль
+    .title = Паказаць пароль
+contextual-manager-hide-password-button =
+    .aria-label = Схаваць пароль
+    .title = Схаваць пароль
+# The message displayed when the search text does not match any of the user's saved logins.
+contextual-manager-passwords-no-passwords-found-header =
+    .heading = Паролі не знойдзены
+contextual-manager-passwords-no-passwords-found-message = Паролі не знойдзены. Увядзіце іншы запыт і паспрабуйце яшчэ раз.
 
 ## When the user has no saved passwords, we display the following messages to inform the user they can save
 ## their passwords safely and securely in Firefox:
 
+# This string encourages the user to save their passwords in Firefox (the "safe spot").
+contextual-manager-passwords-no-passwords-header = Захоўвайце свае паролі ў бяспечным месцы.
+# This string informs that we (Firefox) store all passwords securely and will notify them of any breaches and alerts their
+# passwords may be involved in.
+contextual-manager-passwords-no-passwords-message = Усе паролі зашыфраваны, а мы будзем сачыць за ўцечкамі і папярэджваць, калі яны вас закрануць.
+# This string encourages the user to save their passwords to Firefox again.
+contextual-manager-passwords-no-passwords-get-started-message = Дадайце іх сюды, каб пачаць.
+# This string is displayed in a button. If the user clicks it, they will be taken to a form to create a new password.
+contextual-manager-passwords-add-manually = Дадаць уручную
 
 ## When the user cancels a login that's currently being edited, we display a message to confirm whether
 ## or not the user wants to discard their current edits to the login.
 
+contextual-manager-passwords-discard-changes-heading-and-message =
+    .heading = Закрыць без захавання?
+    .message = Вашы змяненні не будуць захаваныя.
 contextual-manager-passwords-discard-changes-close-button = Закрыць
 contextual-manager-passwords-discard-changes-go-back-button = Вярнуцца назад
+#   $total (number) - Total number of passwords
+contextual-manager-passwords-remove-all-passwords-checkbox =
+    { $total ->
+        [1] Так, выдаліць пароль
+        [one] Так, выдаліць паролі
+        [few] Так, выдаліць паролі
+       *[many] Так, выдаліць паролі
+    }
