@@ -733,6 +733,9 @@ search-keyword-warning-title = Podvojena ključna beseda
 #   $name (string) - Name of a search engine.
 search-keyword-warning-engine = Izbrali ste ključno besedo, ki jo trenutno uporablja "{ $name }". Prosim, izberite drugo.
 search-keyword-warning-bookmark = Izbrali ste ključno besedo, ki jo trenutno uporablja zaznamek. Prosim, izberite drugo.
+remove-engine-confirmation = Ali ste prepričani, da želite odstraniti ta iskalnik?
+remove-engine-remove = Odstrani
+remove-addon-engine-alert = Za odstranitev tega iskalnika odstranite z njim povezan dodatek.
 
 ## Containers Section
 

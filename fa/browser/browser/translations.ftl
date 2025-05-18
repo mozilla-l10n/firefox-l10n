@@ -23,9 +23,37 @@ translations-panel-to-label = ترجمه به
 ## that lets a user restore a page to the original language, or translate into another
 ## language.
 
+# If your language requires declining the language name, a possible solution
+# is to adapt the structure of the phrase, or use a support noun, e.g.
+# `The page is translated from: { $fromLanguage }. Current target language: { $toLanguage }`
+#
+# Variables:
+#   $fromLanguage (string) - The original language of the document.
+#   $toLanguage (string) - The target language of the translation.
+translations-panel-revisit-header = این صفحه از { $fromLanguage } به { $toLanguage } ترجمه شده است
+translations-panel-choose-language =
+    .label = یک زبان را انتخاب کنید
 
 ## Firefox Translations language management in about:preferences.
 
+translations-manage-header = ترجمه‌ها
+translations-manage-description = بارگیری زبان‌ها برای ترجمه برون‌خط.
+translations-manage-all-language = همهٔ زبان‌ها
+translations-manage-download-button = بارگیری
+translations-manage-delete-button = حذف
+translations-manage-error-download = مشکلی در بارگیری پرونده‌های زبان وجود داشت. لطفاً دوباره تلاش کنید.
+translations-manage-error-delete = خطایی در هنگام حذف پرونده‌های زبان روی داد. لطفا دوباره تلاش کنید.
+translations-manage-error-list = دریافت فهرست زبان‌های موجود برای ترجمه ناموفق بود. برای تلاش مجدد، صفحه را بازخوانی کنید.
+translations-settings-title =
+    .title = تنظیمات ترجمه‌ها
+    .style = min-width: 36em
+translations-settings-always-translate-langs-description = ترجمه برای زبان‌های زیر به‌طور خودکار انجام می‌شود
+translations-settings-never-translate-langs-description = ترجمه برای زبان‌های زیر ارائه نخواهد شد
+translations-settings-never-translate-sites-description = ترجمه برای وبگاه‌های زیر ارائه نخواهد شد
+translations-settings-languages-column =
+    .label = زبان‌ها
+translations-settings-sites-column =
+    .label = وبگاه‌ها
 # Text displayed in the select translations panel header.
 select-translations-panel-header = ترجمه
 # Text displayed above the from-language dropdown menu.

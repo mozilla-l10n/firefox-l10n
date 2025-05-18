@@ -202,6 +202,12 @@ migration-safari-password-import-step1 = V Safariju odprite meni “Safari” in
 migration-safari-password-import-step2 = Kliknite gumb <img data-l10n-name="safari-icon-3dots"/> in izberite “Export All Passwords”
 migration-safari-password-import-step3 = Shranite datoteko z gesli
 migration-safari-password-import-step4 = Spodaj kliknite “Izberi datoteko” in poiščite datoteko, ki ste jo shranili
+migration-chrome-windows-password-import-header = Kako uvoziti gesla iz brskalnika Chrome
+migration-chrome-windows-password-import-steps-header = V Chromu:
+migration-chrome-windows-password-import-step1 = Odprite glavni meni <img data-l10n-name="chrome-icon-3dots"/> in izberite Gesla in samodejno izpolnjevanje > Googlov upravitelj gesel.
+migration-chrome-windows-password-import-step2 = V meniju izberite "Nastavitve".
+migration-chrome-windows-password-import-step3 = Izberite "Prenesi datoteko" in jo shranite na napravo.
+migration-chrome-windows-password-import-step4 = Vrnite se sem in izberite datoteko, da dokončate uvoz.
 migration-manual-password-import-skip-button = Preskoči
 migration-manual-password-import-select-button = Izberi datoteko
 migration-safari-password-import-skip-button = Preskoči

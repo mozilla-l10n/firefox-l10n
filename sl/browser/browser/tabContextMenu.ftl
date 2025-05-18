@@ -140,3 +140,12 @@ tab-context-send-tabs-to-device =
            *[other] Pošlji { $tabCount } zavihkov na napravo
         }
     .accesskey = š
+tab-context-unload-n-tabs =
+    .label =
+        { $tabCount ->
+            [one] Sprosti zavihek
+            [two] Sprosti { $tabCount } zavihka
+            [few] Sprosti { $tabCount } zavihke
+           *[other] Sprosti { $tabCount } zavihkov
+        }
+    .accesskey = S

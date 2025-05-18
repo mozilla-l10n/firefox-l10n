@@ -63,6 +63,9 @@ perftools-button-edit-settings = Uredi nastavitve …
 
 perftools-menu-more-actions-button =
     .title = Več dejanj
+perftools-menu-more-actions-restart-with-profiling = Znova zaženi { -brand-shorter-name } z omogočenim spremljanjem zmogljivosti ob zagonu
+perftools-menu-more-actions-copy-for-startup = Kopiraj okoljske spremenljivke za spremljanje zmogljivosti ob zagonu
+perftools-menu-more-actions-copy-for-perf-tests = Kopiraj parametre za preskuse učinkovitosti delovanja
 
 ## These messages are descriptions of the threads that can be enabled for the profiler.
 

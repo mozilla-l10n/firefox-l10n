@@ -1211,6 +1211,11 @@ popup-notification-xpinstall-prompt-block-url = Pokaži podrobnosti
 popup-notification-addon-privatebrowsing-checkbox2 =
     .label = Dovoli, da se razširitev izvaja v zasebnih oknih
     .accesskey = b
+# This string is similar to `webext-perms-description-data-long-technicalAndInteraction`
+# but it is used in the install prompt, and it needs an access key.
+popup-notification-addon-technical-and-interaction-checkbox =
+    .label = Deli tehnične in interakcijske podatke z razvijalcem razširitve
+    .accesskey = D
 # Note: Access key is set to P to match "Private" in the corresponding localized label.
 popup-notification-addon-privatebrowsing-checkbox =
     .label = Delovanje v zasebnih oknih

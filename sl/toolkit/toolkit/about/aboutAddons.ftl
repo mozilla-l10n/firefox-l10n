@@ -570,3 +570,7 @@ plugins-widevine-description = Ta vtičnik omogoča predvajanje šifrirane preds
 ## Headings for the Permissions tab in `about:addons` when the data collection
 ## feature is enabled.
 
+addon-permissions-required-data-collection = Zahtevano zbiranje podatkov:
+addon-permissions-optional-data-collection = Izbirno zbiranje podatkov:
+# Name of the Permissions tab in `about:addons` when the data collection feature is enabled.
+permissions-data-addon-button = Dovoljenja in podatki
