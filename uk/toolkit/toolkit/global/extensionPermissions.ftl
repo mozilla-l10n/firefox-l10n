@@ -46,6 +46,30 @@ webext-perms-extra-warning-userScripts-short = Неперевірені скри
 ##
 ## This is used when the data collection permissions are required.
 
+webext-perms-description-data-short-authenticationInfo = інформація для автентифікації
+webext-perms-description-data-short-bookmarksInfo = закладки
+webext-perms-description-data-short-browsingActivity = активність перегляду
+webext-perms-description-data-short-financialAndPaymentInfo = фінансова та платіжна інформація
+webext-perms-description-data-short-healthInfo = інформація про здоров'я
+webext-perms-description-data-short-locationInfo = розташування
+webext-perms-description-data-short-personalCommunications = особиста комунікація
+webext-perms-description-data-short-personallyIdentifyingInfo = особиста ідентифікаційна інформація
+webext-perms-description-data-short-searchTerms = пошукові терміни
+webext-perms-description-data-short-technicalAndInteraction = технічні й аналітичні дані
+webext-perms-description-data-short-websiteActivity = активність на вебсайтах
+webext-perms-description-data-short-websiteContent = вміст вебсайтів
 
 ## Long form to be used in `about:addons` when these data collection permissions are optional.
 
+webext-perms-description-data-long-authenticationInfo = Ділитися з розробником розширення інформацією для автентифікації
+webext-perms-description-data-long-bookmarksInfo = Ділитися з розробником розширення інформацією про закладки
+webext-perms-description-data-long-browsingActivity = Ділитися з розробником розширення активністю перегляду
+webext-perms-description-data-long-financialAndPaymentInfo = Ділитися з розробником розширення фінансовою та платіжною інформацією
+webext-perms-description-data-long-healthInfo = Ділитися з розробником розширення інформацією про здоров'я
+webext-perms-description-data-long-locationInfo = Ділитися з розробником розширення інформацією про розташування
+webext-perms-description-data-long-personalCommunications = Ділитися з розробником розширення особистою комунікацією
+webext-perms-description-data-long-personallyIdentifyingInfo = Ділитися з розробником розширення особистою ідентифікаційною інформацією
+webext-perms-description-data-long-searchTerms = Ділитися з розробником розширення пошуковими термінами
+webext-perms-description-data-long-technicalAndInteraction = Ділитися з розробником розширення технічними й аналітичними даними
+webext-perms-description-data-long-websiteActivity = Ділитися з розробником розширення активністю на вебсайтах
+webext-perms-description-data-long-websiteContent = Ділитися з розробником розширення вмістом вебсайтів

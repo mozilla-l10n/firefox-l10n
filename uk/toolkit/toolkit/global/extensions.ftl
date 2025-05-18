@@ -26,6 +26,14 @@ webext-perms-header-required-perms = Необхідні дозволи:
 webext-perms-header-optional-settings = Додаткові налаштування:
 webext-perms-header-update-required-perms = Нові необхідні дозволи:
 webext-perms-header-optional-required-perms = Нові дозволи:
+webext-perms-header-data-collection-perms = Обов'язковий збір даних:
+webext-perms-header-data-collection-is-none = Збір даних:
+# This is a header used in the add-ons "update" prompt, shown when the new
+# version requires new data collection permissions.
+webext-perms-header-update-data-collection-perms = Новий обов'язковий збір даних:
+# This is a header used in the add-ons "optional" prompt, shown when the
+# extension requests new data collection permissions programmatically.
+webext-perms-header-optional-data-collection-perms = Новий збір даних:
 
 ##
 
@@ -103,6 +111,26 @@ webext-perms-host-description-multiple-domains =
 
 ## Strings for data collection permissions in the permission prompt.
 
+webext-perms-description-data-none = Розробник стверджує, що це розширення не потребує збору даних.
+# Variables:
+#    $permissions (String): a list of data collection permissions formatted with `Intl.ListFormat` using the "narrow" style.
+webext-perms-description-data-some = Розробник стверджує, що це розширення збирає: { $permissions }
+# Variables:
+#    $permissions (String): a list of data collection permissions formatted with `Intl.ListFormat` using the "narrow" style.
+webext-perms-description-data-some-update = Розробник стверджує, що розширення збиратиме: { $permissions }
+# Variables:
+#    $permissions (String): a list of data collection permissions formatted with `Intl.ListFormat` using the "narrow" style.
+webext-perms-description-data-some-optional = Розробник стверджує, що розширення хоче збирати: { $permissions }
+# Variables:
+#   $extension (String): replaced with the localized name of the extension.
+webext-perms-update-text-with-data-collection = { $extension } потребує оновлення налаштувань
+webext-perms-update-list-intro-with-data-collection = Скасуйте, щоб зберегти поточну версію та налаштування, або схваліть зміни, щоб встановити нову версію.
+# Variables:
+#   $extension (String): replaced with the localized name of the extension.
+webext-perms-optional-text-with-data-collection = { $extension } запитує додаткові налаштування
+# Variables:
+#   $extension (String): replaced with the localized name of the extension.
+webext-perms-optional-text-with-data-collection-only = { $extension } запитує додатковий збір даних
 
 ## Headers used in the webextension permissions dialog for synthetic add-ons.
 ## The part of the string describing what privileges the extension gives should be consistent

@@ -652,6 +652,8 @@ home-prefs-weather-header =
     .label = Погода
 home-prefs-weather-description = Точний прогноз погоди на сьогодні
 home-prefs-weather-learn-more-link = Докладніше
+home-prefs-mission-message = Наші спонсори підтримують нашу місію зі створення кращого інтернету
+home-prefs-mission-message-learn-more-link = Дізнайтеся як
 # Variables:
 #   $num (number) - Number of rows displayed
 home-prefs-sections-rows-option =
@@ -729,6 +731,9 @@ search-keyword-warning-title = Ключове слово вже використ
 #   $name (string) - Name of a search engine.
 search-keyword-warning-engine = Ви вибрали ключове слово, яке вже використовується для “{ $name }”. Вкажіть інше.
 search-keyword-warning-bookmark = Ви вибрали ключове слово, яке вже використовується для закладки. Вкажіть інше.
+remove-engine-confirmation = Ви дійсно хочете вилучити цю пошукову систему?
+remove-engine-remove = Вилучити
+remove-addon-engine-alert = Щоб вилучити цю пошукову систему, видаліть пов'язаний з нею додаток.
 
 ## Containers Section
 
