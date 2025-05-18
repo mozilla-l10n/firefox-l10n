@@ -61,6 +61,13 @@ migration-history-option-label = تاریخچهٔ مرور
 migration-extensions-option-label = افزونه‌ها
 migration-form-autofill-option-label = دادهٔ پرکردن خودکار فرم‌ها
 migration-payment-methods-option-label = روش‌های پرداخت
+migration-session-option-label = پنجره‌ها و زبانه‌ها
+migration-otherdata-option-label = دیگر داده‌ها
+migration-passwords-from-file-success-header = گذرواژه‌ها با موفقیت درون‌ریزی شدند
+migration-passwords-from-file = بررسی پرونده برای گذرواژه‌ها
+migration-passwords-new = گذرواژه‌های جدید
+migration-passwords-updated = گذرواژه‌های کنونی
+migration-passwords-from-file-picker-title = درون‌ریزی پروندهٔ گذرواژه‌ها
 # A description for the .csv file format that may be shown as the file type
 # filter by the operating system.
 migration-passwords-from-file-csv-filter-title =
@@ -75,6 +82,7 @@ migration-passwords-from-file-tsv-filter-title =
         [macos] نوشتار TSV
        *[other] پروندهٔ TSV
     }
+migration-bookmarks-from-file = نشانک‌ها
 # A description for the .html file format that may be shown as the file type
 # filter by the operating system.
 migration-bookmarks-from-file-html-filter-title =
@@ -95,6 +103,12 @@ migration-wizard-progress-success-new-bookmarks =
         [one] { $newEntries } نشانک
        *[other] { $newEntries } نشانک
     }
+migration-import-button-label = درون‌ریزی
+migration-choose-to-import-from-file-button-label = درون‌ریزی از پرونده
+migration-import-from-file-button-label = انتخاب پرونده
+migration-cancel-button-label = لغو
+migration-done-button-label = انجام شد
+migration-continue-button-label = ادامه
 
 ## These strings will be used to create a dynamic list of items that can be
 ## imported. The list will be created using Intl.ListFormat(), so it will
@@ -102,9 +116,32 @@ migration-wizard-progress-success-new-bookmarks =
 ## When applicable, the resources should be in their plural form.
 ## For example, a possible list could be "Bookmarks, passwords and autofill data".
 
+migration-list-bookmark-label = نشانک‌ها
+# “favorites” refers to bookmarks in Edge and Internet Explorer. Use the same terminology
+# if the browser is available in your language.
+migration-list-favorites-label = صفحات محبوب
+migration-list-password-label = گذرواژه‌ها
+migration-list-history-label = تاریخچه
+migration-list-extensions-label = افزونه‌ها
+migration-list-autofill-label = داده‌های خود پر شونده
+migration-list-payment-methods-label = روش‌های پرداخت
 
 ##
 
+# This header appears in the final page of the migration wizard only if
+# all resources were imported successfully.
+migration-wizard-progress-done-header = درون‌ریزی داده با موفقیت انجام شد
+# This header appears in the final page of the migration wizard if only
+# some of the resources were imported successfully. This is meant to be
+# distinct from migration-wizard-progress-done-header, which is only shown
+# if all resources were imported successfully.
+migration-wizard-progress-done-with-warnings-header = درون‌ریزی داده کامل شد
+migration-wizard-progress-icon-in-progress =
+    .aria-label = در حال درون‌ریزی…
+migration-wizard-progress-icon-completed =
+    .aria-label = انجام شد
+migration-safari-password-import-header = درون‌ریزی گذرواژه‌ها از سافاری
+migration-safari-password-import-steps-header = برای درون‌ریزی گذرواژه‌ها از سافاری:
 # Shown in the migration wizard after importing bookmarks from another
 # browser has completed.
 #
