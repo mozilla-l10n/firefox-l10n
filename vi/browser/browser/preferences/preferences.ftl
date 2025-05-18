@@ -637,6 +637,8 @@ home-prefs-weather-header =
     .label = Thời tiết
 home-prefs-weather-description = Sơ lược về dự báo hôm nay
 home-prefs-weather-learn-more-link = Tìm hiểu thêm
+home-prefs-mission-message = Các nhà tài trợ của chúng tôi hỗ trợ sứ mệnh của chúng tôi là xây dựng một trang web tốt hơn
+home-prefs-mission-message-learn-more-link = Tìm hiểu cách thức
 # Variables:
 #   $num (number) - Number of rows displayed
 home-prefs-sections-rows-option =
