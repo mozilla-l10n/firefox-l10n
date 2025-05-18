@@ -66,10 +66,24 @@ about-logging-unknown-profiler-preset = Невядомая папярэдняя 
 about-logging-unknown-option = Невядомы параметр about:logging «{ $k }»
 about-logging-configuration-url-ignored = URL канфігурацыі праігнараваны
 about-logging-file-and-profiler-override = Немагчыма адначасова прымусова вывесці файл і перавызначыць параметры прафайлера
+# Variables:
+#   $errorText (string) - The received error message, inserted as is.
+about-logging-unknown-error = Здарылася памылка: { $errorText }
 about-logging-configured-via-url = Параметр сканфігурыраваны праз URL
 
 ## The upload interface is shown only with the preference toolkit.aboutLogging.uploadProfileToCloud
 ## set to true. It is false by default, except on Android.
 
+about-logging-upload-question = Дадзеныя профілю былі захоплены. Захаваць ці зацягнуць іх?
 about-logging-save-button = Захаваць
 about-logging-upload-button = Зацягнуць
+# Variables:
+#   $path (string) - The path where the profile can be found.
+about-logging-saved = Захавана ў { $path }
+# Variables:
+#   $percent (number) - The upload completion progress, to be displayed as a percentage. This is a value between 0 and 1.
+about-logging-uploading-progress = Зацягваюцца дадзеныя профілю: { NUMBER($percent, maximumSignificantDigits: 2, style: "percent") }
+# Variables:
+#   $url (string) - The URL where the profile can be found
+about-logging-uploaded = Зацягнута на <a data-l10n-name="uploaded-message-url">{ $url }</a>
+about-logging-share-uploaded-url = <img data-l10n-name="share-image"/> Падзяліцца URL
