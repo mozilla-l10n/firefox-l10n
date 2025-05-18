@@ -46,6 +46,30 @@ webext-perms-extra-warning-userScripts-short = Vahvistamattomat komentosarjat vo
 ##
 ## This is used when the data collection permissions are required.
 
+webext-perms-description-data-short-authenticationInfo = todennustiedot
+webext-perms-description-data-short-bookmarksInfo = kirjanmerkit
+webext-perms-description-data-short-browsingActivity = selaustoiminta
+webext-perms-description-data-short-financialAndPaymentInfo = talous- ja maksutiedot
+webext-perms-description-data-short-healthInfo = terveystiedot
+webext-perms-description-data-short-locationInfo = sijainti
+webext-perms-description-data-short-personalCommunications = henkilökohtaisen yhteydenpidon
+webext-perms-description-data-short-personallyIdentifyingInfo = henkilökohtaisesti tunnistettavat tiedot
+webext-perms-description-data-short-searchTerms = hakuehdot
+webext-perms-description-data-short-technicalAndInteraction = tekniset ja vuorovaikutustiedot
+webext-perms-description-data-short-websiteActivity = verkkosivuston toiminta
+webext-perms-description-data-short-websiteContent = verkkosivuston sisältö
 
 ## Long form to be used in `about:addons` when these data collection permissions are optional.
 
+webext-perms-description-data-long-authenticationInfo = Jaa todennustiedot laajennuksen kehittäjän kanssa
+webext-perms-description-data-long-bookmarksInfo = Jaa kirjanmerkkitiedot laajennuksen kehittäjän kanssa
+webext-perms-description-data-long-browsingActivity = Jaa selaustoiminta laajennuksen kehittäjän kanssa
+webext-perms-description-data-long-financialAndPaymentInfo = Jaa talous- ja maksutiedot laajennuksen kehittäjän kanssa
+webext-perms-description-data-long-healthInfo = Jaa terveystiedot laajennuksen kehittäjän kanssa
+webext-perms-description-data-long-locationInfo = Jaa sijaintitiedot laajennuksen kehittäjän kanssa
+webext-perms-description-data-long-personalCommunications = Jaa henkilökohtainen yhteydenpito laajennuksen kehittäjän kanssa
+webext-perms-description-data-long-personallyIdentifyingInfo = Jaa henkilökohtaisesti tunnistettavat tiedot laajennuksen kehittäjän kanssa
+webext-perms-description-data-long-searchTerms = Jaa hakuehdot laajennuksen kehittäjän kanssa
+webext-perms-description-data-long-technicalAndInteraction = Jaa tekniset ja vuorovaikutustiedot laajennuksen kehittäjän kanssa
+webext-perms-description-data-long-websiteActivity = Jaa verkkosivuston toiminta laajennuksen kehittäjän kanssa
+webext-perms-description-data-long-websiteContent = Jaa verkkosivuston sisältö laajennuksen kehittäjän kanssa
