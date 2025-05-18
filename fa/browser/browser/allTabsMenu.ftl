@@ -4,7 +4,7 @@
 
 # "Search" is a verb, as in "Search through tabs".
 all-tabs-menu-search-tabs =
-    .label = جست‌وجو زبانه‌ها
+    .label = جست‌وجو در زبانه‌ها
 all-tabs-menu-new-user-context =
     .label = زبانه حامل جدید
 all-tabs-menu-hidden-tabs =

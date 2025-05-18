@@ -12,6 +12,14 @@
 ## have character restrictions and being direct reduces the chance for misinterpretation.
 ## When localizing, please be concise and direct, but not at the expense of losing meaning.
 
+# Prompt purpose: help users understand what a selection covers at a glance
+genai-prompts-summarize =
+    .label = خلاصه کنید
+    .value = لطفا انتخاب را با استفاده از زبان دقیق و موجز، خلاصه کنید. از عناوین و فهرست‌های گلوله‌ای در خلاصه بهره بگیرید تا قابل پیمایش باشد. معنی و دقت را حفظ کنید.
+# Prompt purpose: make a selection easier to read
+genai-prompts-simplify =
+    .label = زبان را ساده‌سازی کنید
+    .value = لطفا انتخاب را با استفاده از جملات کوتاه و کلمات ساده بازنویسی کنید. معنی و دقت را حفظ کنید.
 
 ## Chatbot menu shortcuts
 
