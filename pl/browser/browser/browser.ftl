@@ -1205,8 +1205,13 @@ popup-notification-xpinstall-prompt-learn-more = Więcej informacji o bezpieczn
 popup-notification-xpinstall-prompt-block-url = Szczegóły
 # Note: Access key is set to p to match "private" in the corresponding localized label.
 popup-notification-addon-privatebrowsing-checkbox2 =
-    .label = Rozszerzenie może działać w oknach prywatnych
+    .label = To rozszerzenie może działać w oknach prywatnych
     .accesskey = p
+# This string is similar to `webext-perms-description-data-long-technicalAndInteraction`
+# but it is used in the install prompt, and it needs an access key.
+popup-notification-addon-technical-and-interaction-checkbox =
+    .label = Udostępniaj dane techniczne i o interakcjach autorom rozszerzenia
+    .accesskey = U
 # Note: Access key is set to P to match "Private" in the corresponding localized label.
 popup-notification-addon-privatebrowsing-checkbox =
     .label = Działanie w oknach prywatnych
@@ -1270,3 +1275,4 @@ file-picker-crashed-show-in-folder =
 
 ## Onboarding Finish Setup checklist
 
+onboarding-checklist-button-label = Dokończ konfigurację

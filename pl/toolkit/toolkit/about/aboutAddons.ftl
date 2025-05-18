@@ -279,6 +279,12 @@ discopane-notice-recommendations = Część tych poleceń jest spersonalizowanyc
 discopane-notice-recommendations2 =
     .message = Część tych poleceń jest spersonalizowanych na podstawie pozostałych zainstalowanych rozszerzeń, preferencji profilu i statystyk użytkowania.
 discopane-notice-learn-more = Więcej informacji
+# Notice for the colorway theme removal
+colorway-removal-notice-message =
+    .heading = Używane kolorystyki zostały usunięte.
+    .message = Kolekcja kolorystyk { -brand-product-name(case: "gen") } została odświeżona. Usunęliśmy stare wersje z listy „Zachowane motywy”. Na witrynie z dodatkami znajdziesz nowe.
+colorway-removal-notice-learn-more = Więcej informacji
+colorway-removal-notice-button = Pobierz odświeżone kolorystyki
 privacy-policy = Zasady ochrony prywatności
 # Refers to the author of an add-on, shown below the name of the add-on.
 # Variables:
@@ -555,3 +561,7 @@ plugins-widevine-description = Wtyczka umożliwiająca odtwarzanie szyfrowanych 
 ## Headings for the Permissions tab in `about:addons` when the data collection
 ## feature is enabled.
 
+addon-permissions-required-data-collection = Wymagane zbieranie danych:
+addon-permissions-optional-data-collection = Opcjonalne zbieranie danych:
+# Name of the Permissions tab in `about:addons` when the data collection feature is enabled.
+permissions-data-addon-button = Uprawnienia i dane

@@ -124,6 +124,9 @@ webext-perms-description-data-some-update = Razvijalec pravi, da bo razširitev 
 # Variables:
 #    $permissions (String): a list of data collection permissions formatted with `Intl.ListFormat` using the "narrow" style.
 webext-perms-description-data-some-optional = Razvijalec pravi, da bo razširitev hotela zbirati: { $permissions }
+# Variables:
+#   $extension (String): replaced with the localized name of the extension.
+webext-perms-update-text-with-data-collection = Razširitev { $extension } za posodobitev potrebuje nove nastavitve
 webext-perms-update-list-intro-with-data-collection = Lahko prekličete posodobitev in obdržite trenutne nastavitve, lahko pa posodobite na novo različico in odobrite spremembe.
 # Variables:
 #   $extension (String): replaced with the localized name of the extension.

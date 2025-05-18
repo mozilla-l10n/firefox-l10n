@@ -55,3 +55,8 @@ unified-extensions-mb-about-addons-link = Ddu ɣer yiɣewwaren n usiɣzef
 unified-extensions-mb-blocklist-warning-single =
     .heading = { $extensionName } yensa
     .message = Asiɣzef-a yetεedda ɣer tsertit n Mozilla ɣef waya yensa.
+# Variables:
+#   $extensionName (String) - Name of the extension disabled through a hard-block.
+unified-extensions-mb-blocklist-error-single =
+    .heading = { $extensionName } yensa
+    .message = Asiɣzef-a ur iqudar ara tisertiyin n Mozilla, ɣef waya i yensa.

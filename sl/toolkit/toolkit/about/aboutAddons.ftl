@@ -281,6 +281,10 @@ discopane-notice-recommendations2 =
         Nekatera od teh priporočil so prilagojena za vas. Temeljijo na vaših
         ostalih razširitvah, nastavitvah profila in statistiki uporabe.
 discopane-notice-learn-more = Več o tem
+# Notice for the colorway theme removal
+colorway-removal-notice-message =
+    .heading = Vaše teme barvne kombinacije so bile odstranjene.
+    .message = { -brand-product-name } je posodobil svojo zbirko barvnih kombinacije. Stare različice smo odstranili s seznama “Shranjene teme”. Poiščite nove različice na spletnem mestu dodatkov.
 colorway-removal-notice-learn-more = Več o tem
 colorway-removal-notice-button = Odkrijte posodobljene barvne kombinacije
 privacy-policy = Politika zasebnosti
