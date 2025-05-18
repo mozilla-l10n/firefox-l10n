@@ -15,7 +15,9 @@ webext-perms-header-with-perms = Czy dodać „{ $extension }”? To rozszerzeni
 webext-perms-header-unsigned = Czy dodać „{ $extension }”? To rozszerzenie nie przeszło weryfikacji. Złośliwe rozszerzenia mogą wykradać dane prywatne lub infekować komputery. Dodaj rozszerzanie jedynie, jeśli ufasz jego pochodzeniu.
 webext-perms-header-unsigned-with-perms = Czy dodać „{ $extension }”? To rozszerzenie nie przeszło weryfikacji. Złośliwe rozszerzenia mogą wykradać dane prywatne lub infekować komputery. Dodaj rozszerzanie jedynie, jeśli ufasz jego pochodzeniu. To rozszerzenie wymaga następujących uprawnień:
 webext-perms-sideload-header = Dodano „{ $extension }”
+webext-perms-optional-perms-header2 = Dodatek „{ $extension }” prosi o nowe uprawnienia
 webext-perms-optional-perms-header = Dodatek „{ $extension }” prosi o nowe uprawnienia.
+webext-perms-header2 = Dodaj „{ $extension }”
 
 ## Headers used in the webextension permissions dialog, inside the content.
 

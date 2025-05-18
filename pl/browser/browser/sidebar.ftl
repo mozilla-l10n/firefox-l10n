@@ -105,6 +105,8 @@ sidebar-history-context-menu-delete-page =
     .label = Usuń z historii
 sidebar-history-context-menu-delete-page-2 =
     .label = Usuń stronę z historii
+sidebar-history-context-menu-bookmark-page =
+    .label = Dodaj zakładkę do tej strony…
 
 ## Labels for sidebar menu items.
 

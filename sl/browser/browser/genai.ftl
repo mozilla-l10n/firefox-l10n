@@ -113,6 +113,7 @@ genai-options-about-chatbot =
 ## Chatbot onboarding
 
 genai-onboarding-header = Povzemajte, razmišljajte in drugo med brskanjem
+genai-onboarding-choose-header = Izberite UI-klepetalnik, ki ga želite uporabljati v stranski vrstici { -brand-short-name(sklon: "rodilnik") }
 # "Switch anytime" refers to allowing the user to switch to a different chatbot.
 genai-onboarding-description = Izberite UI-klepetalnik, ki ga želite uporabiti v stranski vrstici { -brand-short-name(sklon: "rodilnik") }. Ko ga izberete, bomo prikazali podrobnosti o klepetalniku. Preklopite kadarkoli. <a data-l10n-name="learn-more">Več o tem</a>
 genai-onboarding-primary = Nadaljuj
