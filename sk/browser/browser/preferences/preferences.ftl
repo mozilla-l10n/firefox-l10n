@@ -652,6 +652,8 @@ home-prefs-weather-header =
     .label = Počasie
 home-prefs-weather-description = Dnešná predpoveď v skratke
 home-prefs-weather-learn-more-link = Ďalšie informácie
+home-prefs-mission-message = Naši sponzori podporujú našu misiu budovať lepší web
+home-prefs-mission-message-learn-more-link = Pozrite sa ako
 # Variables:
 #   $num (number) - Number of rows displayed
 home-prefs-sections-rows-option =

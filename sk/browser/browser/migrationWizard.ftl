@@ -202,6 +202,12 @@ migration-safari-password-import-step1 = V Safari otvorte ponuku “Safari” a 
 migration-safari-password-import-step2 = Zvoľte tlačidlo <img data-l10n-name="safari-icon-3dots"/> a vyberte možnosť “Exportovať všetky heslá”
 migration-safari-password-import-step3 = Uložiť súbor s heslami
 migration-safari-password-import-step4 = Pomocou tlačidla “Vybrať súbor” nižšie vyberte súbor s heslami, ktorý máte uložený
+migration-chrome-windows-password-import-header = Ako importovať heslá z prehliadača Chrome
+migration-chrome-windows-password-import-steps-header = V prehliadači Chrome:
+migration-chrome-windows-password-import-step1 = Otvorte hlavnú ponuku <img data-l10n-name="chrome-icon-3dots"/> a prejdite na Heslá a automatické dopĺňanie > Správca hesiel Google.
+migration-chrome-windows-password-import-step2 = V ponuke vyberte možnosť “Nastavenia”.
+migration-chrome-windows-password-import-step3 = Vyberte možnosť “Stiahnuť súbor” a uložte ho do svojho zariadenia.
+migration-chrome-windows-password-import-step4 = Vráťte sa sem, kliknite na “Vybrať súbor” a dokončite import.
 migration-manual-password-import-skip-button = Preskočiť
 migration-manual-password-import-select-button = Vybrať súbor
 migration-safari-password-import-skip-button = Preskočiť
