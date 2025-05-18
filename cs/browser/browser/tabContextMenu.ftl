@@ -136,3 +136,13 @@ tab-context-send-tabs-to-device =
            *[other] Poslat { $tabCount } panelů do zařízení
         }
     .accesskey = n
+tab-context-unload-n-tabs =
+    .label =
+        { $tabCount ->
+            [1] Uvolnit panel z paměti
+            [one] Uvolnit { $tabCount } panel z paměti
+            [few] Uvolnit { $tabCount } panely z paměti
+            [many] Uvolnit { $tabCount } panelů z paměti
+           *[other] Uvolnit { $tabCount } panelů z paměti
+        }
+    .accesskey = U
