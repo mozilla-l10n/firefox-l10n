@@ -6,15 +6,15 @@
 ## XSLT and XPath specific errors.
 
 xslt-parse-failure = Przetwarzanie arkusza stylów XSLT się nie powiodło.
-xpath-parse-failure = Przetwarzanie wyrażenia XPath zakończyło się niepowodzeniem.
-xslt-execution-failure = Transformacja XSLT zakończyła się niepowodzeniem.
+xpath-parse-failure = Przetwarzanie wyrażenia XPath się nie powiodło.
+xslt-execution-failure = Transformacja XSLT się nie powiodła.
 xpath-unknown-function = Nieprawidłowa funkcja XSLT/XPath.
 xslt-bad-recursion = Arkusz stylów XSLT zawiera (prawdopodobnie) odwołanie rekurencyjne.
-xslt-bad-value = Wartość atrybutu niedozwolona w XSLT 1.0.
+xslt-bad-value = Wartość atrybutu niedozwolona w XSLT 1.0.
 xslt-nodeset-expected = Wyrażenie XPath powinno zwrócić NodeSet.
 xslt-aborted = Transformacja XSLT została zakończona przez <xsl:message>.
 xslt-network-error = Podczas wczytywania arkusza stylów XSLT wystąpił błąd połączenia sieciowego:
-xslt-wrong-mime-type = Arkusz stylów XSLT nie ma zdefiniowanego typu mime XML:
+xslt-wrong-mime-type = Arkusz stylów XSLT nie ma zdefiniowanego typu MIME XML:
 xslt-load-recursion = Arkusz stylów XSLT zawiera bezpośrednio lub pośrednio polecenie importu lub włączenia zawartości samego siebie.
 xpath-bad-argument-count = Funkcja XPath została wywołana z nieprawidłową liczbą parametrów.
 xpath-bad-extension-function = Wywołano nieznaną funkcję rozszerzenia XPath.
