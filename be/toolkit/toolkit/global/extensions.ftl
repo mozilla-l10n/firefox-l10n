@@ -111,6 +111,23 @@ webext-perms-host-description-multiple-domains =
 
 ## Strings for data collection permissions in the permission prompt.
 
+webext-perms-description-data-none = Распрацоўшчык сцвярджае, што гэта пашырэнне не патрабуе збору дадзеных.
+# Variables:
+#    $permissions (String): a list of data collection permissions formatted with `Intl.ListFormat` using the "narrow" style.
+webext-perms-description-data-some = Распрацоўшчык сцвярджае, што гэта пашырэнне збірае: { $permissions }
+# Variables:
+#    $permissions (String): a list of data collection permissions formatted with `Intl.ListFormat` using the "narrow" style.
+webext-perms-description-data-some-update = Распрацоўшчык сцвярджае, што пашырэнне будзе збіраць: { $permissions }
+# Variables:
+#    $permissions (String): a list of data collection permissions formatted with `Intl.ListFormat` using the "narrow" style.
+webext-perms-description-data-some-optional = Распрацоўшчык сцвярджае, што пашырэнне хоча збіраць: { $permissions }
+# Variables:
+#   $extension (String): replaced with the localized name of the extension.
+webext-perms-update-text-with-data-collection = Для абнаўлення пашырэння { $extension } патрабуюцца новыя налады
+webext-perms-update-list-intro-with-data-collection = Скасаваць, каб захаваць бягучую версію і налады, ці абнавіць, каб атрымаць новую версію і зацвердзіць змены.
+# Variables:
+#   $extension (String): replaced with the localized name of the extension.
+webext-perms-optional-text-with-data-collection = { $extension } запытвае дадатковыя налады
 
 ## Headers used in the webextension permissions dialog for synthetic add-ons.
 ## The part of the string describing what privileges the extension gives should be consistent
@@ -148,3 +165,5 @@ webext-site-perms-midi-sysex = Доступ да прылад MIDI з падтр
 
 ## Colorway theme migration
 
+webext-colorway-theme-migration-notification-message = <b>Ваша тэма расфарбоўкі была выдалена.</b> { -brand-shorter-name } абнавіў сваю калекцыю колеравых гам. Вы можаце знайсці апошнія версіі на сайце дадаткаў.
+webext-colorway-theme-migration-notification-button = Атрымаць абноўленыя расфарбоўкі
