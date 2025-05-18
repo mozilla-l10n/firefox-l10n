@@ -286,18 +286,27 @@ shopping-opt-in-integrated-button = Preizkusite pregledovalnik mnenj
 ## Message strings for Review Checker's empty states.
 
 shopping-empty-state-header = Pripravljen na pregled mnenj
+shopping-empty-state-supported-site = Oglejte si izdelek in { -brand-product-name } bo preveril, ali so mnenja zanesljiva.
+# We show a list of sites supported by Review Checker whenever a user opens the feature in an unsupported site.
+# This string will be displayed above the list of sites. The list will be hardcoded and does not require localization.
+shopping-empty-state-non-supported-site = Pregledovalnik mnenj deluje, ko nakupujete v naslednjih trgovinah:
 
 ## Confirm disabling Review Checker for newly opted out users
 
 shopping-integrated-callout-opted-out-title = Pregledovalnik mnenj je izključen
+shopping-integrated-callout-opted-out-subtitle = Če ga želite znova vklopiti, v stranski vrstici izberite listek s ceno in vklopite pregledovalnik mnenj.
 
 ## Callout for where to find Review Checker when the sidebar closes
 
+shopping-integrated-callout-sidebar-closed-title = Nazaj na pregledovalnik mnenj
+shopping-integrated-callout-sidebar-closed-subtitle = Izberite listek s ceno v stranski vrstici in preverite, ali lahko zaupate mnenjem o izdelku.
+shopping-integrated-callout-no-logo-sidebar-closed-subtitle = Izberite gumb v stranski vrstici in preverite, ali lahko zaupate mnenjem o izdelku.
 
 ## Strings for a notification card about Review Checker's new position in the sidebar.
 ## The card will only appear for users that have the default sidebar position, which is on the left side for non RTL locales.
 ## Review Checker in the sidebar is only available to US users at this time, so we can assume that the default position is on the left side.
 
+shopping-integrated-new-position-notification-title = Isti pregledovalnik mnenj, novo mesto
 shopping-integrated-new-position-notification-move-right-button = Premakni desno
 shopping-integrated-new-position-notification-move-left-button = Premakni levo
 shopping-integrated-new-position-notification-dismiss-button = Razumem
