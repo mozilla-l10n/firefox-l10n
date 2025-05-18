@@ -224,6 +224,8 @@ settings-tabs-show-image-in-preview =
     .label = ඔබ පටිති මතින් යන විට රූප වල පෙරදසුන් පෙන්වන්න
     .accessKey = h
 browser-layout-header = අතිරික්සුවේ පිරිසැලසුම
+browser-layout-horizontal-tabs =
+    .label = තිරස් පටිති
 browser-layout-show-sidebar-desc = ඔබගේ ප්‍රධාන දැක්ම හැර නොයා පොත්යොමු, දුරකථනයේ පටිති, කෘතිම බුද්ධි කතා ක්‍රමලේඛ සහ තවත් දෑ වෙත ඉක්මනින් ප්‍රවේශ වන්න.
 
 ## General Section - Language & Appearance

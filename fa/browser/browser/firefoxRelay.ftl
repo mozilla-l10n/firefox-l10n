@@ -16,6 +16,10 @@ firefox-relay-must-login-to-fxa = شما باید به { -fxaccount-brand-name }
 firefox-relay-must-login-to-account = برای استفاده از پوشانهٔ رایانامهٔ { -relay-brand-name } به حساب کاربری خود وارد شوید.
 # This is followed, on a new line, by firefox-relay-opt-in-subtitle-1
 firefox-relay-opt-in-title-1 = محافظت از نشانی رایانامه شما:
+# This is preceded by firefox-relay-opt-in-title-1 (on a different line), which
+# ends with a colon. You might need to adapt the capitalization of this string.
+firefox-relay-opt-in-subtitle-1 = استفاده از { -relay-brand-name } برای پوشانهٔ رایانامه
+firefox-relay-use-mask-title = استفاده از { -relay-brand-name } برای پوشانهٔ رایانامه
 # This is followed, on a new line, by firefox-relay-opt-in-subtitle-a
 firefox-relay-opt-in-title-a = با یک پوشانهٔ رایانامهٔ رایگان، جلوی هرزنامه‌ها را بگیرید
 # This is preceded by firefox-relay-opt-in-title-a (on a different line)

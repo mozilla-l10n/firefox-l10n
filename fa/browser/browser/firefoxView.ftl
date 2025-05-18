@@ -152,6 +152,8 @@ firefoxview-opentabs-focus-tab =
 firefoxview-show-more = نمایش بیشتر
 firefoxview-show-less = نمایش کمتر
 firefoxview-show-all = نمایش همه
+firefoxview-search-text-box-clear-button =
+    .title = پاک کردن
 # Placeholder for the input field to search in recent browsing ("search" is a verb).
 firefoxview-search-text-box-recentbrowsing =
     .placeholder = جستجو
@@ -174,6 +176,13 @@ firefoxview-search-text-box-opentabs =
 # Variables:
 #   $query (String) - The search query used for searching through browser history.
 firefoxview-search-results-header = نتایج جستجو برای «{ $query }»
+# Variables:
+#   $count (Number) - The number of visits matching the search query.
+firefoxview-search-results-count =
+    { $count ->
+        [one] { $count } وبگاه
+       *[other] { $count } وبگاه
+    }
 # Message displayed when a search is performed and no matching results were found.
 # Variables:
 #   $query (String) - The search query.
@@ -202,15 +211,20 @@ firefoxview-history-site-localhost = (پرونده‌های محلی)
 ##
 
 firefoxview-show-all-history = نمایش تمام تاریخچه
+firefoxview-view-more-browsing-history = مشاهدهٔ تاریخچهٔ مرور بیشتر
 
 ## Message displayed in Firefox View when the user has no history data
 
+firefoxview-history-empty-header = به جایی که بوده‌اید برگردید
+firefoxview-history-empty-description = همان‌طور که به گشت‌و‌گذار می‌پردازید، صفحات بازدیدشدهٔ شما در اینجا فهرست خواهند شد.
 
 ##
 
 
 ## Message displayed in Firefox View when the user has chosen to never remember History
 
+firefoxview-dont-remember-history-empty-header = چیزی برای نمایش نیست
+firefoxview-dont-remember-history-empty-header-2 = کنترل این که { -brand-short-name } چه چیزهایی را به خاطر بسپارد در دستان شماست
 
 ##
 
@@ -221,12 +235,16 @@ firefoxview-import-history-close-button =
 
 ## Text displayed in a dismissable banner to import bookmarks/history from another browser
 
+firefoxview-import-history-header = درون‌ریزی تاریخچه از مرورگر دیگر
 
 ## Message displayed in Firefox View when the user has no recently closed tabs data
 
+firefoxview-recentlyclosed-empty-header = زبانه‌ای را خیلی زود بستید؟
+firefoxview-recentlyclosed-empty-description = اینجا زبانه‌هایی که به تازگی بسته‌اید را می‌بینید، شما می‌توانید هریک را به سرعت دوباره باز کنید.
 
 ## This message is displayed below the name of another connected device when it doesn't have any open tabs.
 
+firefoxview-syncedtabs-device-notabs = هیچ زبانه‌ای در این دستگاه باز نیست
 firefoxview-tabs =
     .title = زبانه‌ها
 
