@@ -649,6 +649,8 @@ home-prefs-weather-header =
     .label = Sää
 home-prefs-weather-description = Tämän päivän ennuste yhdellä vilkaisulla
 home-prefs-weather-learn-more-link = Lue lisää
+home-prefs-mission-message = Sponsorimme tukevat tehtäväämme rakentaa parempaa Internetiä
+home-prefs-mission-message-learn-more-link = Lue lisää
 # Variables:
 #   $num (number) - Number of rows displayed
 home-prefs-sections-rows-option =
