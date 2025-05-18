@@ -117,6 +117,14 @@ contextual-manager-passwords-remove-all-confirm-button =
         [one] برداشتن
        *[other] برداشتن همه
     }
+# Message to confirm the removal of all saved passwords when user DOES NOT HAVE SYNC
+#   $total (number) - Total number of passwords
+contextual-manager-passwords-remove-all-message =
+    { $total ->
+        [1] این کار، گذرواژهٔ ذخیره شدهٔ شما در { -brand-short-name } و هرگونه هشدار نشت اطلاعات را پاک خواهد کرد. این اقدام قابل بازگردانی نیست.
+        [one] این کار، گذرواژهٔ ذخیره شدهٔ شما در { -brand-short-name } و هرگونه هشدار نشت اطلاعات را پاک خواهد کرد. این اقدام قابل بازگردانی نیست.
+       *[other] این کار، گذرواژه‌های ذخیره شدهٔ شما در { -brand-short-name } و هرگونه هشدار نشت اطلاعات را پاک خواهد کرد. این اقدام قابل بازگردانی نیست.
+    }
 contextual-manager-passwords-origin-label = تارنما
 # The attribute .data-after describes the text that should be displayed for the ::after pseudo-selector
 contextual-manager-passwords-username-label = نام کاربری

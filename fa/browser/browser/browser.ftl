@@ -774,6 +774,8 @@ picture-in-picture-urlbar-button-open =
 picture-in-picture-urlbar-button-close =
     .tooltiptext = بستن تصویر در تصویر ({ $shortcut })
 picture-in-picture-panel-header = تصویر-در-تصویر
+picture-in-picture-panel-headline = این وبگاه حالت تصویر در تصویر را توصیه نمی‌کند
+picture-in-picture-panel-body = هنگامی که تصویر در تصویر فعال است، ممکن است ویدئوها آن‌طور که برنامه‌نویس در نظر داشته نمایش داده نشوند.
 picture-in-picture-enable-toggle =
     .label = به هر حال فعال شود
 
@@ -1078,6 +1080,7 @@ reset-pbm-panel-description = همۀ زبانه‌های خصوصی بسته ش�
 reset-pbm-panel-cancel-button =
     .label = انصراف
     .accesskey = ا
+reset-pbm-panel-complete = داده‌های نشست خصوصی پاک شد
 
 ## Autorefresh blocker
 
@@ -1089,6 +1092,10 @@ refresh-blocked-allow =
 
 ## Firefox Relay integration
 
+firefox-relay-offer-why-to-use-relay = پوشانه‌های ایمن ما که استفادهٔ آسانی دارند، از هویت شما محافظت و با پنهان‌سازی نشانی رایانامهٔ شما از هرزنامه جلوگیری می‌کنند.
+# Variables:
+#  $useremail (String): user email that will receive messages
+firefox-relay-offer-what-relay-provides = همه رایانامه‌های ارسال شده به پوشانه‌های رایانامه شما به <strong>{ $useremail }</strong> هدایت می‌شوند (مگر اینکه تصمیم به مسدود کردن آن‌ها داشته باشید).
 
 ## Add-on Pop-up Notifications
 

@@ -8,10 +8,12 @@
 ## Variables:
 ##   $status (Number) - HTTP status code, for example 403
 
+firefox-relay-mask-generation-failed = { -relay-brand-name } نتوانست پوشانه جدیدی ایجاد کند. کد خطای HTTP: { $status }.
 
 ## The "control" variation of the Relay offer popup
 
 firefox-relay-must-login-to-fxa = شما باید به { -fxaccount-brand-name } وارد شوید تا بتوانید از { -relay-brand-name } استفاده کنید.
+firefox-relay-must-login-to-account = برای استفاده از پوشانهٔ رایانامهٔ { -relay-brand-name } به حساب کاربری خود وارد شوید.
 # This is followed, on a new line, by firefox-relay-opt-in-subtitle-1
 firefox-relay-opt-in-title-1 = محافظت از نشانی رایانامه شما:
 # This is followed, on a new line, by firefox-relay-opt-in-subtitle-a
