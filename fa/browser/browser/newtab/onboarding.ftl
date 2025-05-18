@@ -139,25 +139,40 @@ fx100-upgrade-thanks-header = ۱۰۰ سپاسگزاری
 
 ## MR2022 Existing User Pin Firefox Screen Strings
 
+mr2022-onboarding-existing-pin-checkbox-label = همچنین مرور خصوصی { -brand-short-name } را بیافزایید
 
 ## MR2022 New User Set Default screen strings
 
+# This string is the title used when the user already has pinned the browser, but has not set default.
+mr2022-onboarding-set-default-title = { -brand-short-name } را مرورگر همیشگی خود کنید
+mr2022-onboarding-set-default-primary-button-label = { -brand-short-name } را مرورگر پیش‌فرض خود کنید
+# When translating "zip", please feel free to pick a verb that signifies movement and/or exploration
+# and makes sense in the context of navigating the web.
+mr2022-onboarding-set-default-subtitle = از مرورگری استفاده کنید که توسط یک سازمان ناسودبر پشتیبانی می‌شود. ما از حریم خصوصی شما در حین گشت و گذار در وب محافظت می‌کنیم.
 
 ## MR2022 Get Started screen strings.
 ## These strings will be used on the welcome page
 ## when Firefox is already set to default and pinned.
 
+# When translating "zip", please feel free to pick a verb that signifies movement and/or exploration
+# and makes sense in the context of navigating the web.
+mr2022-onboarding-get-started-primary-subtitle = آخرین نسخهٔ ما برای شما ساخته شده است و گشت و گذار در وب را آسان‌تر از همیشه می‌کند. این نسخه مملو از ویژگی‌هایی است که فکر می‌کنیم عاشقشان خواهید شد.
+mr2022-onboarding-get-started-primary-button-label = در چند ثانیه راه‌اندازی کنید
 
 ## MR2022 Get Started screen strings.
 ## These strings will be used on the welcome page
 ## when Firefox is already set to default and pinned.
 
+mr2022-onboarding-import-header = نصب برق‌آسا
+mr2022-onboarding-import-subtitle = { -brand-short-name } را هر طور که دوست دارید تنظیم کنید. نشانک‌ها، گذرواژه‌ها و موارد دیگر را از مرورگر قدیمی خود اضافه کنید.
+mr2022-onboarding-import-primary-button-label-no-attribution = درون‌ریزی داده از مرورگر پیشین
 
 ## If your language uses grammatical genders, in the description for the
 ## colorway feel free to switch from "You are a X. You…" (e.g. "You are a
 ## Playmaker. You create…") to "X: you…" ("Playmaker: You create…"). This might
 ## help creating a more inclusive translation.
 
+mr2022-onboarding-colorway-title = رنگی را انتخاب کنید که شما را به شور می‌آورد
 mr2022-onboarding-colorway-label-default = پیش‌فرض
 mr2022-onboarding-colorway-label-visionary = رؤیایی
 mr2022-onboarding-colorway-label-activist = کنشگر

@@ -142,6 +142,8 @@ migration-wizard-progress-icon-completed =
     .aria-label = انجام شد
 migration-safari-password-import-header = درون‌ریزی گذرواژه‌ها از سافاری
 migration-safari-password-import-steps-header = برای درون‌ریزی گذرواژه‌ها از سافاری:
+migration-safari-password-import-skip-button = رد کردن
+migration-safari-password-import-select-button = انتخاب پرونده
 # Shown in the migration wizard after importing bookmarks from another
 # browser has completed.
 #
