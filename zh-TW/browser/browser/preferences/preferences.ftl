@@ -637,6 +637,8 @@ home-prefs-weather-header =
     .label = 天氣
 home-prefs-weather-description = 讓您一目了然今天的天氣預報
 home-prefs-weather-learn-more-link = 更多資訊
+home-prefs-mission-message = 贊助商支持我們打造出一個更好的網路環境的使命
+home-prefs-mission-message-learn-more-link = 看看是如何達成的
 # Variables:
 #   $num (number) - Number of rows displayed
 home-prefs-sections-rows-option =
