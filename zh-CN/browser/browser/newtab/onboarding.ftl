@@ -429,7 +429,7 @@ onboarding-checklist-sign-up = 注册或登录账户
 
 ## Tab Groups feature onboarding strings
 
-tab-groups-onboarding-feature-callout-title = 标签页群组助您摆脱繁乱，专注浏览
+tab-groups-onboarding-feature-callout-title = 用标签页群组摆脱繁乱，专注浏览
 tab-groups-onboarding-feature-callout-subtitle = 将标签页拖放到另一个标签页之上，即可创建首个群组，让标签页井井有条。
 tab-groups-onboarding-create-group-title-2 = 可随时在此找到您的标签页群组。
 tab-groups-onboarding-create-group-no-alltabs-button-title = 在地址栏搜索即可找到您的群组。
