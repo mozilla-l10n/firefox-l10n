@@ -1,0 +1,36 @@
+4.4.3 from 16.07.2020
+===================
+  * Updated chemical elements
+  * Added several new words
+  * Fixes
+
+
+4.4.2 from 19.10.2019
+===================
+  * Words duplication clean up
+  * Fixed installation script
+
+
+4.4.1 from 06.09.2019
+===================
+  * Updated install script.
+  * Updated readme file.
+  * Added more than 250 000 words.
+
+
+4.4.0 from 31.03.2015
+===================
+  * Updated install scripts.
+  * Added names of the settlements.
+
+
+4.2 from 15.04.2010
+===================
+  * Changed license from GPL to GPL/LGPL/MPL which will allow distribution by
+some programs that requires spell checking but does not like GPL such as OOo,
+Firefox, Chrome, etc.
+  * Added about 200 words.
+  * Started ChangeLog in English. All documents written before in Bulgarian will
+be replaced with English version. Old versions that are in Bulgarian will stay
+in repository, but will not be packaged. Only English version of docs will be
+distributed.
