@@ -1,5 +1,5 @@
-SET cp1251
-TRY аеонирвтсмлкпздяубъчгцжхшфйщюьАЕОНИРВТСМЛКПЗДЯУБЪЧГЦЖХШФЙЩЮЬ
+SET CP1251
+TRY аеониртвслмкпздяубъгчцжхшфйщюьАЕОНИРТВСЛМКПЗДЯУБЪГЧЦЖХШФЙЩЮЬ
 
 SFX A Y 8
 SFX A   0         а         .
@@ -235,16 +235,16 @@ SFX M   ец        ецо       ец
 SFX M   ец        ецът      ец
 SFX M   ец        йци       ец
 SFX M   ец        йците     ец
-SFX M   ин        и         ин
-SFX M   ин        ина       ин
-SFX M   ин        ино       ин
-SFX M   ин        инът      ин
-SFX M   ин        ите       ин
 SFX M   й         и         й
 SFX M   й         ите       й
 SFX M   й         ю         й
 SFX M   й         я         й
 SFX M   й         ят        й
+SFX M   ин        и         ин
+SFX M   ин        ина       ин
+SFX M   ин        ино       ин
+SFX M   ин        инът      ин
+SFX M   ин        ите       ин
 SFX M   о         и         о
 SFX M   о         ите       о
 SFX M   о         ото       о
@@ -280,6 +280,9 @@ SFX N   ър        ъра       ър
 SFX N   ър        ърът      ър
 
 SFX O Y 18
+SFX O   0         вци       .
+SFX O   0         вците     .
+SFX O   0         то        .
 SFX O   е         ето       е
 SFX O   е         ия        е
 SFX O   е         ията      е
@@ -291,55 +294,10 @@ SFX O   к         ка        к
 SFX O   к         кът       к
 SFX O   к         ци        к
 SFX O   к         ците      к
-SFX O   о         овци      о
-SFX O   о         овците    о
-SFX O   о         ото       о
 SFX O   х         си        х
 SFX O   х         сите      х
 SFX O   х         ха        х
 SFX O   х         хът       х
-
-SFX S Y 40
-SFX S   ам        а         ам
-SFX S   ам        ай        ам
-SFX S   ам        айки      ам
-SFX S   ам        айте      ам
-SFX S   ам        ал        ам
-SFX S   ам        ала       ам
-SFX S   ам        алата     ам
-SFX S   ам        али       ам
-SFX S   ам        алите     ам
-SFX S   ам        алия      ам
-SFX S   ам        алият     ам
-SFX S   ам        ало       ам
-SFX S   ам        алото     ам
-SFX S   ам        аме       ам
-SFX S   ам        ан        ам
-SFX S   ам        ана       ам
-SFX S   ам        аната     ам
-SFX S   ам        ани       ам
-SFX S   ам        аните     ам
-SFX S   ам        ания      ам
-SFX S   ам        аният     ам
-SFX S   ам        ано       ам
-SFX S   ам        аното     ам
-SFX S   ам        ат        ам
-SFX S   ам        ате       ам
-SFX S   ам        ах        ам
-SFX S   ам        аха       ам
-SFX S   ам        ахме      ам
-SFX S   ам        ахте      ам
-SFX S   ам        аш        ам
-SFX S   ам        аше       ам
-SFX S   ам        ащ        ам
-SFX S   ам        аща       ам
-SFX S   ам        ащата     ам
-SFX S   ам        ащи       ам
-SFX S   ам        ащите     ам
-SFX S   ам        ащия      ам
-SFX S   ам        ащият     ам
-SFX S   ам        ащо       ам
-SFX S   ам        ащото     ам
 
 SFX X Y 38
 SFX X   м         дат       м
