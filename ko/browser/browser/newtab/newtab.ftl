@@ -356,7 +356,7 @@ newtab-wallpaper-pink = 분홍색
 newtab-wallpaper-light-pink = 연분홍색
 newtab-wallpaper-red = 빨간색
 newtab-wallpaper-dark-blue = 진청색
-newtab-wallpaper-dark-purple = 진보라
+newtab-wallpaper-dark-purple = 진보라색
 newtab-wallpaper-dark-green = 진녹색
 newtab-wallpaper-brown = 갈색
 
