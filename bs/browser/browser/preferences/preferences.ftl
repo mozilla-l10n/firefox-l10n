@@ -148,6 +148,11 @@ preferences-data-migration-description = Uvezite oznake, lozinke, historiju i po
 preferences-data-migration-button =
     .label = Uvezi podatke
     .accesskey = m
+preferences-profiles-header = Profili
+preferences-manage-profiles-description = Svaki profil ima odvojene podatke i postavke pregledavanja, uključujući historiju, lozinke i još mnogo toga.
+preferences-manage-profiles-learn-more = Saznajte više
+preferences-manage-profiles-button =
+    .label = Upravljaj profilima
 tabs-group-header = Tabovi
 ctrl-tab-recently-used-order =
     .label = Ctrl+Tab prolazi kroz tabove u redosljedu nedavnog korištenja
@@ -228,6 +233,16 @@ containers-remove-cancel-button = Ne uklanjaj ovaj Container
 settings-tabs-show-image-in-preview =
     .label = Prikažite pregled slike kada zadržite pokazivač miša na tabu
     .accessKey = h
+browser-layout-header = Raspored preglednika
+browser-layout-horizontal-tabs =
+    .label = Horizontalni tabovi
+browser-layout-horizontal-tabs-desc = Prikaz na vrhu preglednika
+browser-layout-vertical-tabs =
+    .label = Vertikalni tabovi
+browser-layout-vertical-tabs-desc = Prikaz sa strane, u bočnoj traci
+browser-layout-show-sidebar =
+    .label = Prikaži bočnu traku
+browser-layout-show-sidebar-desc = Brzo pristupite zabilješkama, karticama s telefona, AI chatbotovima i još mnogo čemu bez napuštanja glavnog prikaza.
 
 ## General Section - Language & Appearance
 
@@ -251,6 +266,10 @@ preferences-web-appearance-choice-input-dark =
     .aria-description = { preferences-web-appearance-choice-tooltip-dark.title }
 # This can appear when using windows HCM or "Override colors: always" without
 # system colors.
+preferences-web-appearance-override-warning3 =
+    .message = Vaše postavke kontrole kontrasta poništavaju izgled web stranice.
+# This can appear when using windows HCM or "Override colors: always" without
+# system colors.
 preferences-web-appearance-override-warning = Vaši odabiri boja nadjačavaju izgled web stranice. <a data-l10n-name="colors-link">Upravljaj bojama</a>
 # This can appear when using windows HCM or "Override colors: always" without
 # system colors.
@@ -259,6 +278,17 @@ preferences-web-appearance-override-warning2 =
 # This message contains one link. It can be moved within the sentence as needed
 # to adapt to your language, but should not be changed.
 preferences-web-appearance-footer = Upravljajte temama { -brand-short-name }a u <a data-l10n-name="themes-link">Proširenja i teme</a>
+preferences-contrast-control-header = Kontrola kontrasta
+preferences-contrast-control-description = Web stranice imaju različite boje prednjeg plana i pozadine. Konfigurišite { -brand-short-name } da biste koristili iste boje na svim web stranicama radi bolje čitljivosti.
+preferences-contrast-control-use-platform-settings =
+    .label = Automatski (koristi sistemske postavke)
+    .accesskey = A
+preferences-contrast-control-off =
+    .label = Isključi
+    .accesskey = O
+preferences-contrast-control-custom =
+    .label = Prilagođeno
+    .accesskey = C
 preferences-colors-header = Boje
 preferences-colors-description = Zamijenite zadane boje { -brand-short-name } za tekst, pozadinu web stranice i linkove.
 preferences-colors-manage-button =
@@ -622,6 +652,8 @@ home-prefs-weather-header =
     .label = Vrijeme
 home-prefs-weather-description = Današnja prognoza ukratko
 home-prefs-weather-learn-more-link = Saznajte više
+home-prefs-mission-message = Naši sponzori podržavaju našu misiju izgradnje bolje web stranice
+home-prefs-mission-message-learn-more-link = Saznajte kako
 # Variables:
 #   $num (number) - Number of rows displayed
 home-prefs-sections-rows-option =
@@ -699,6 +731,9 @@ search-keyword-warning-title = Duplicirana ključna riječ
 #   $name (string) - Name of a search engine.
 search-keyword-warning-engine = Izabrali ste ključnu riječ koju trenutno koristi "{ $name }". Molimo izaberite drugu.
 search-keyword-warning-bookmark = Izabrali ste ključnu riječ koju trenutno koristi zabilješka. Molimo izaberite drugu.
+remove-engine-confirmation = Jeste li sigurni da želite ukloniti ovaj pretraživač?
+remove-engine-remove = Ukloni
+remove-addon-engine-alert = Da biste uklonili ovu tražilicu, uklonite povezani dodatak.
 
 ## Containers Section
 
@@ -1116,6 +1151,13 @@ cookie-banner-blocker-checkbox-label =
 
 addressbar-header = Adresna traka
 addressbar-suggest = Kada koristim adresnu traku, predloži
+# When Firefox Suggest is enabled, this replaces `addressbar-header`.
+addressbar-header-firefox-suggest = Adresna traka — { -firefox-suggest-brand-name }
+# When Firefox Suggest is enabled, this replaces `addressbar-suggest`.
+addressbar-suggest-firefox-suggest = Odaberite vrstu prijedloga koji se pojavljuju u adresnoj traci.
+# When Firefox Suggest is enabled, a "Learn more" link appears at the end of
+# `addressbar-suggest-firefox-suggest`.
+addressbar-locbar-firefox-suggest-learn-more = Saznajte više
 addressbar-locbar-history-option =
     .label = Historija surfanja
     .accesskey = H
@@ -1148,7 +1190,18 @@ addressbar-locbar-showrecentsearches-option =
 addressbar-locbar-showtrendingsuggestions-option =
     .label = Prikaži prijedloge za pretraživanje u trendu
     .accesskey = t
+# Nonsponsored suggestions refers to Firefox Suggest suggestions like Wikipedia.
+addressbar-locbar-suggest-nonsponsored-option =
+    .label = Prijedlozi od { -brand-short-name }
+addressbar-locbar-suggest-nonsponsored-desc = Dobijte prijedloge s weba povezane s vašom pretragom.
+addressbar-locbar-suggest-sponsored-option =
+    .label = Prijedlozi sponzora
+addressbar-locbar-suggest-sponsored-desc = Povremeno podržite { -brand-short-name } sponzorisanim prijedlozima.
 addressbar-quickactions-learn-more = Saznajte više
+addressbar-dismissed-suggestions-label = Odbačeni prijedlozi
+addressbar-restore-dismissed-suggestions-description = Vrati odbačene prijedloge sponzora i { -brand-short-name }.
+addressbar-restore-dismissed-suggestions-button =
+    .label = Povrati
 
 ## Privacy Section - Content Blocking
 
@@ -1311,10 +1364,18 @@ permissions-addon-exceptions =
 collection-header = { -brand-short-name } prikupljanje i upotreba podataka
 collection-header2 = { -brand-short-name } prikupljanje i upotreba podataka
     .searchkeywords = telemetrija
+preferences-collection-description = Trudimo se da vam pružimo izbor i prikupljamo samo minimalne podatke potrebne za poboljšanje { -brand-product-name } za sve.
 collection-description = Trudimo se da vam pružimo izbor i da sakupljamo samo ono što nam je potrebno kako bismo unaprijedili { -brand-short-name } za sve. Uvijek od vas tražimo dozvolu prije slanja bilo kakvih ličnih informacija.
 collection-privacy-notice = Polica privatnosti
 collection-health-report-telemetry-disabled = Više ne dozvoljavate { -vendor-short-name } da bilježi tehničke podatke i podatke o interakciji. Svi prošli podaci će biti izbrisani u roku od 30 dana.
 collection-health-report-telemetry-disabled-link = Saznajte više
+collection-usage-ping =
+    .label = Pošalji dnevni ping korištenja na { -vendor-short-name }
+    .accesskey = u
+collection-usage-ping-description = Ovo pomaže { -vendor-short-name } da procijeni broj aktivnih korisnika.
+collection-health-report2 =
+    .label = Pošalji tehničke podatke i podatke o interakciji na { -vendor-short-name }
+    .accesskey = r
 collection-health-report =
     .label = Dozvolite da { -brand-short-name } šalje tehničke podatke i podatke o interakciji na { -vendor-short-name }
     .accesskey = r

@@ -292,3 +292,4 @@ fxa-menu-message-mobile-collapsed-text = Sincroniza co teu teléfono
 ## Multi-CTA Fox Doodle Spotlight
 
 multi-cta-fox-doodle-title = Benvido de novo
+multi-cta-fox-doodle-quick-reminder-subtitle = Aquí tes un recordatorio rápido de que podes manter o teu navegador favorito centrado na privacidade, a só un clic de distancia.

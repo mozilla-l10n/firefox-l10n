@@ -15,3 +15,5 @@ places-bookmarks-restore-format-error = Nepodržani tip fajla.
 places-bookmarks-restore-parse-error = Nije moguće obraditi fajl backupa.
 places-bookmarks-import = Uvoz fajla sa zabilješkama
 places-bookmarks-export = Izvoz fajla sa zabilješkama
+places-bookmarks-paste-error-title = Pronađeni su nevažeći URL-ovi
+places-bookmarks-paste-error-message-header = Sljedeći URL-ovi nisu mogli biti dodani u vaše zabilješke. Pokušajte provjeriti formatiranje i ponovo ih dodati.

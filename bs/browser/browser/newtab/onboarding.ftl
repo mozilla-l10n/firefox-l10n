@@ -25,6 +25,8 @@ return-to-amo-subtitle = Odlično, imate { -brand-short-name }
 return-to-amo-addon-title = Hajde sada da vam nabavimo <img data-l10n-name="icon"/> <b>{ $addon-name }</b>.
 return-to-amo-add-extension-label = Dodajte ekstenziju
 return-to-amo-add-theme-label = Dodajte temu
+return-to-amo-theme-install-complete-label = Tema je instalirana
+return-to-amo-extension-install-complete-label = Ekstenzija je instalirana
 
 ##  Variables: $addon-name (String) - Name of the add-on to be installed
 
@@ -390,6 +392,14 @@ onboarding-new-user-survey-familiarity-based-option-4 = Koristio sam ga u prošl
 onboarding-new-tabs-title = Recite nam gdje želite svoje tabove
 # Setup screen for vertical tabs - "Switch it up" refers to switching between horizontal and vertical tabs.
 onboarding-new-tabs-subtitle = Uključite ga kad god želite u postavkama bočne trake.
+# Setup screen for vertical tabs - too many tabs variation
+onboarding-many-tabs-title = Vaši tabovi, vaš način
+# Setup screen for vertical tabs - subtitle for too many tabs variation
+onboarding-many-tabs-subtitle = Držite mnogo tabova otvoreno? Isprobajte tabove sa strane za pojednostavljeniji prikaz. Ili zadržite klasičan prikaz s tabovima na vrhu. Prebacite se bilo kada.
+# Setup screen for vertical tabs - focused variation
+onboarding-focused-tabs-title = Odaberite raspored tabova
+# Setup screen for vertical tabs - subtitle for focused variation
+onboarding-focused-tabs-subtitle = Za pojednostavljeni prikaz koji vam može pomoći da ostanete fokusirani, isprobajte tabove sa strane. Ili zadržite klasičan prikaz s tabovima na vrhu. Prebacite se bilo kada.
 # Text underneath an image used for selecting browser tabs to appear on the side of the browser.
 onboarding-new-vertical-tabs-label = Tabovi sa strane
 # Text underneath an image used for selecting browser tabs to appear at the top of the browser.
@@ -438,9 +448,29 @@ onboarding-checklist-sign-up = Registruj se ili se prijavite na svoj račun
 
 tab-groups-onboarding-feature-callout-title = Isprobajte grupe tabova za manje nereda, više fokusa
 tab-groups-onboarding-feature-callout-subtitle = Organizirajte se prevlačenjem jednog taba na drugi da kreirate svoju prvu grupu.
+tab-groups-onboarding-create-group-title-2 = Ovdje možete pronaći svoje grupe tabova u bilo kojem trenutku.
+tab-groups-onboarding-create-group-no-alltabs-button-title = Pronađite svoje grupe pretraživanjem u adresnoj traci.
+tab-groups-onboarding-saved-groups-title-2 = Kada zatvorite grupu tabova, možete je ponovo otvoriti ovdje u bilo kojem trenutku.
+tab-groups-onboarding-saved-groups-no-alltabs-button-title-2 = Pronađite svoje zatvorene grupe pretraživanjem u adresnoj traci.
+tab-groups-onboarding-session-restore-title = Ovdje možete ponovo otvoriti svoje grupe tabova bilo kada.
+tab-groups-onboarding-dismiss = OK
 
 ## Multi Profiles feature onboarding messages
 
+multi-profile-spotlight-title = Pozdravite { -brand-product-name } profile
+multi-profile-spotlight-body = Lako se prebacujte između pregledavanja za posao i zabave. Profili potpuno odvajaju vaše podatke o pregledavanju, uključujući historiju pretraživanja i lozinke, kako biste mogli ostati organizirani.
+multi-profile-spotlight-cta = Kreirajte profil
+multi-profile-callout-title = Kreirajte različite profile za posao i zabavu
+multi-profile-callout-subtitle = Profili vam omogućavaju da podatke o pregledavanju, poput historije pretraživanja i lozinki, držite potpuno odvojeno.
+multi-profile-callout-cta = Kreirajte profil
 
 ## Desktop to Mobile Adoption feature callout strings
 
+# If translating the headline is challenging, consider using a simplified alternative as a reference: 'Sync your browsing with Firefox for mobile.'
+desktop-to-mobile-headline = Preuzmite, sinhronizujte i krenite!
+# The phrase, 'on the go', is used to describe when people are very busy and are traveling from place to place.
+desktop-to-mobile-subtitle = Skenirajte QR kod da biste preuzeli { -brand-product-name } za mobilne uređaje. Nakon instalacije, odaberite “Sinhronizacija s mobilnim uređajem” da biste pristupili svojim lozinkama, zabilješkama i još mnogo čemu u pokretu.
+dismiss-button-label = Odbaci
+sync-to-mobile-button-label = Sinhronizacija s mobilnim uređajem
+desktop-to-mobile-qr-code-alt =
+    .aria-label = QR kod za preuzimanje { -brand-product-name } za mobilne uređaje
