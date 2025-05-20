@@ -1205,10 +1205,6 @@ popup-notification-addon-privatebrowsing-checkbox2 =
 popup-notification-addon-technical-and-interaction-checkbox =
     .label = Condividi dati tecnici e di interazione con lo sviluppatore dell’estensione
     .accesskey = v
-# Note: Access key is set to P to match "Private" in the corresponding localized label.
-popup-notification-addon-privatebrowsing-checkbox =
-    .label = Esegui in finestre anonime
-    .accesskey = a
 
 ## Pop-up warning
 
@@ -1263,4 +1259,3 @@ file-picker-crashed-show-in-folder =
 ## Onboarding Finish Setup checklist
 
 onboarding-checklist-button-label = Completa la configurazione
-

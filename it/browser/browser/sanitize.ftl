@@ -60,7 +60,6 @@ item-history-and-downloads =
     .label = Cronologia navigazione e download
     .accesskey = z
 item-history-and-downloads-description2 = Cancella la cronologia di navigazione e di download
-item-history-and-downloads-description = Cancella la cronologia di ricerca, navigazione e download
 item-history-form-data-downloads =
     .label = Cronologia
     .accesskey = C
@@ -133,4 +132,3 @@ sanitize-everything-warning = Tutta la cronologia verrà eliminata.
 # Recent History dialog, provided that the user has modified the default set of
 # history items to clear.
 sanitize-selected-warning = Tutti gli elementi selezionati verranno eliminati.
-

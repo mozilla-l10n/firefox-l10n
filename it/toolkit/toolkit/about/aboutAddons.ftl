@@ -312,9 +312,6 @@ addon-options-button =
     .aria-label = Altre opzioni
 # Explanatory introduction to the list of recommended add-ons. The action word
 # ("recommends") in the final sentence is a link to external documentation.
-discopane-intro2 = Estensioni e temi ti consentono di personalizzare { -brand-product-name }. Possono aiutarti a potenziare la tua privacy, incrementare la produttività, migliorare l’esperienza con i contenuti multimediali, cambiare l’aspetto di { -brand-product-name } e molto altro ancora. Queste piccole applicazioni software sono spesso sviluppate da terze parti. Qui trovi una selezione di elementi <a data-l10n-name="learn-more-trigger">consigliati</a> da { -brand-product-name } per sicurezza, prestazioni e funzionalità eccezionali.
-# Explanatory introduction to the list of recommended add-ons. The action word
-# ("recommends") in the final sentence is a link to external documentation.
 # We hard code "Firefox" because we do not want to imply that a Firefox fork is
 # making this recommendation.
 discopane-intro3 = Estensioni e temi ti consentono di personalizzare { -brand-product-name }. Possono aiutarti a potenziare la tua privacy, incrementare la produttività, migliorare l’esperienza con i contenuti multimediali, cambiare l’aspetto di { -brand-product-name } e molto altro ancora. Queste piccole applicazioni software sono spesso sviluppate da terze parti. Qui trovi una selezione di elementi <a data-l10n-name="learn-more-trigger">consigliati</a> da Firefox per sicurezza, prestazioni e funzionalità eccezionali.
@@ -447,8 +444,6 @@ addon-badge-line3 =
 addon-badge-verified2 =
     .title = Questa estensione è stata verificata per garantire il rispetto dei nostri standard in materia di sicurezza e prestazioni
     .aria-label = { addon-badge-verified2.title }
-addon-badge-recommended3 =
-    .title = Vengono consigliate solo estensioni che soddisfano i requisiti di sicurezza e prestazioni di { -brand-product-name }
 # We hard code "Mozilla" in the string below because the extensions are built
 # by Mozilla and we don't want forks to display "by Fork".
 addon-badge-line4 =
@@ -460,8 +455,6 @@ addon-badge-line4 =
 # like the words "our" or "we".
 addon-badge-verified4 =
     .title = Questa estensione è stata verificata per garantire il rispetto degli standard in materia di sicurezza e prestazioni
-addon-badge-verified3 =
-    .title = Questa estensione è stata verificata per garantire il rispetto dei nostri standard in materia di sicurezza e prestazioni
 # This string needs to work in the context of other forks that are not Firefox
 # or built by Mozilla. In particular, we do not want to imply that an
 # organisation other than Mozilla or the Firefox team are making the
@@ -569,4 +562,3 @@ addon-permissions-required-data-collection = Raccolta dati obbligatoria:
 addon-permissions-optional-data-collection = Raccolta dati facoltativa:
 # Name of the Permissions tab in `about:addons` when the data collection feature is enabled.
 permissions-data-addon-button = Permessi e dati
-

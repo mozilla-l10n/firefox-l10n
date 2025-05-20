@@ -25,10 +25,6 @@ sidebar-history-date-prev-month =
     .heading = { DATETIME($date, month: "long", year: "numeric") }
 sidebar-history-delete =
     .title = Elimina dalla cronologia
-sidebar-history-sort-by-date =
-    .label = Ordina per data
-sidebar-history-sort-by-site =
-    .label = Ordina per sito
 sidebar-history-clear =
     .label = Cancella cronologia
 sidebar-history-sort-by-heading = Ordina per:
@@ -105,8 +101,6 @@ sidebar-context-menu-close-remote-tab =
 
 ## Labels for sidebar history context menu items
 
-sidebar-history-context-menu-delete-page =
-    .label = Elimina dalla cronologia
 sidebar-history-context-menu-delete-page-2 =
     .label = Elimina pagina dalla cronologia
 sidebar-history-context-menu-bookmark-page =
@@ -166,8 +160,6 @@ sidebar-menu-history-header =
     .heading = Cronologia
 sidebar-menu-syncedtabs-header =
     .heading = Schede da altri dispositivi
-sidebar-menu-bookmarks-header =
-    .heading = Segnalibri
 sidebar-menu-cpm-header =
     .heading = Password
 sidebar-panel-header-close-button =
@@ -213,4 +205,3 @@ sidebar-widget-show-sidebar2 =
 sidebar-widget-hide-sidebar2 =
     .tooltiptext = Nascondi la barra laterale ({ $shortcut })
     .label = Barre laterali
-

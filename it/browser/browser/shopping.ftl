@@ -277,9 +277,6 @@ shopping-callout-not-opted-in-integrated-paragraph1 = Attiva Verifica recensioni
 shopping-callout-not-opted-in-integrated-paragraph2 = Selezionando “{ shopping-opt-in-integrated-button }” accetti l’<a data-l10n-name="privacy_policy">informativa sulla privacy</a> di { -brand-product-name } e le <a data-l10n-name="terms_of_use">condizioni di utilizzo</a> di { -fakespot-brand-full-name }.
 shopping-callout-not-opted-in-integrated-reminder-dismiss-button = Chiudi
 shopping-callout-not-opted-in-integrated-reminder-accept-button = Attiva Verifica recensioni
-shopping-callout-not-opted-in-integrated-reminder-do-not-show = Non mostrare di nuovo questo suggerimento
-shopping-callout-not-opted-in-integrated-reminder-show-fewer = Mostra meno suggerimenti
-shopping-callout-not-opted-in-integrated-reminder-manage-settings = Gestisci impostazioni
 shopping-opt-in-integrated-privacy-policy-and-terms-of-use = Verifica recensioni è realizzato da { -fakespot-brand-full-name }.  Selezionando “{ shopping-opt-in-integrated-button }” accetti l’<a data-l10n-name="privacy_policy">informativa sulla privacy</a> di { -brand-product-name } e le <a data-l10n-name="terms_of_use">condizioni di utilizzo</a> di { -fakespot-brand-name }.
 shopping-opt-in-integrated-button = Prova Verifica recensioni
 
