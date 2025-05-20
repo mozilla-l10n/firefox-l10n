@@ -118,6 +118,9 @@ webext-perms-description-data-some-update = A fejlesztő szerint a kiegészítő
 # Variables:
 #    $permissions (String): a list of data collection permissions formatted with `Intl.ListFormat` using the "narrow" style.
 webext-perms-description-data-some-optional = A fejlesztő szerint a kiegészítő ezeket szeretné gyűjteni: { $permissions }
+# Variables:
+#   $extension (String): replaced with the localized name of the extension.
+webext-perms-update-text-with-data-collection = A(z) { $extension } új beállításokat igényel a frissítéshez
 
 ## Headers used in the webextension permissions dialog for synthetic add-ons.
 ## The part of the string describing what privileges the extension gives should be consistent
