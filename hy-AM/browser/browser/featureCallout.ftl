@@ -81,6 +81,7 @@ bookmarks-toolbar-callout-2b-secondary-button-label = Ոչ, շնորհակալ �
 ## Perplexity callout strings
 
 perplexity-callout-theme-1-title = Անմիջապես ճիշտ պատասխանն է պետք՞։
+perplexity-callout-secondary-label-2 = Հասկացա
 
 ## Sidebar Strings
 
@@ -128,6 +129,10 @@ sidebar-callout-survey-none-of-above = Վերը նշվածներից ոչ մեկ
 sidebar-callout-survey-submit = Ուղարկել
 sidebar-callout-survey-thank-you = Շնորհակալությո՜ւն Ձեր արձագանքի համար:
 sidebar-genai-survey-satisfaction-question = Որքա՞ն գոհ եք կողագոտու ԱԲ չաթբոտի հասանելիությունից:
+unified-search-callout-title = Փոխարկել որոնիչների միջև
+unified-search-callout-subtitle = Ընտրեք, թե ինչն է լավ ձեր հատկորոշած որոնման համար:
 unified-search-callout-primary-label = Հաջորդը
 unified-search-callout-secondary-label = Բաց թողնել
 unified-search-engines-callout-title = Որոնել դյուրանցումով
+unified-search-engines-callout-subtitle = “@”-ից հետո մուտքագրեք հիմնաբառը՝ պատմությունում, էջանիշերում, ներդիրներում կամ այլ որոնիչով որոնելու համար:
+unified-search-engines-callout-primary-label = Հասկացա
