@@ -17,8 +17,9 @@ jobs:
           python-version: "3.12"
       - run: "pip install 'moz-l10n[xml]~=0.7.0'"
       - run: >
-          gh pr diff --name-only |
+          gh pr diff --name-only "$PR_URL" |
           xargs ls -d1 2>/dev/null |
           python -m moz.l10n.bin.lint
         env:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          PR_URL: ${{github.event.pull_request.html_url}}
