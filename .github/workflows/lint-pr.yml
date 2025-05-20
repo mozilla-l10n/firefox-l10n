@@ -19,7 +19,7 @@ jobs:
       - run: >
           gh pr diff --name-only "$PR_URL" |
           xargs ls -d1 2>/dev/null |
-          python -m moz.l10n.bin.lint
+          xargs python -m moz.l10n.bin.lint
         env:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           PR_URL: ${{github.event.pull_request.html_url}}
