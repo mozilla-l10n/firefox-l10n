@@ -51,6 +51,11 @@ genai-menu-ask-generic =
 # $provider (string) - name of the provider
 genai-menu-ask-provider =
     .label = Pitaj { $provider }
+genai-menu-remove-generic =
+    .label = Uklonite AI chatbota
+# $provider (string) - name of the provider
+genai-menu-remove-provider =
+    .label = Ukloni { $provider }
 genai-input-ask-generic =
     .placeholder = Pitajte AI chatbot…
 # $provider (string) - name of the provider
@@ -106,8 +111,11 @@ genai-options-about-chatbot =
 ## Chatbot onboarding
 
 genai-onboarding-header = Sažmite, razmišljajte i još mnogo toga dok pretražujete
+genai-onboarding-choose-header = Odaberite AI chatbota za korištenje u bočnoj traci { -brand-short-name }
 # "Switch anytime" refers to allowing the user to switch to a different chatbot.
 genai-onboarding-description = Odaberite AI chatbot za korištenje na bočnoj traci { -brand-short-name }. Prikazat ćemo detalje o svakom chatbotu kada ga odaberete. Prebacite bilo kada. <a data-l10n-name="learn-more">Saznajte više</a>
+# "Switch anytime" refers to allowing the user to switch to a different chatbot.
+genai-onboarding-choose-description = Prebacite se bilo kada. Za pomoć pri odabiru, <a data-l10n-name="learn-more">saznajte više o svakom chatbotu</a>.
 genai-onboarding-primary = Nastavi
 genai-onboarding-secondary = Zatvori
 genai-onboarding-claude-tooltip =
@@ -131,6 +139,9 @@ genai-onboarding-lechat-learn = Saznajte više o Le Chatu
 genai-onboarding-select-header = Odaberite tekst da vidite prijedloge
 genai-onboarding-select-description = Kada odaberete tekst, predložit ćemo upite koje možete poslati chatbotu. Također možete pisati u vlastitim upitima.
 genai-onboarding-select-primary = Počni ćaskati
+genai-chatbot-contextual-title = Koristite AI chatbot bez prebacivanja tabova
+genai-chatbot-contextual-subtitle = Čavrljajte i pretražujte istovremeno kada dodate AI chatbot u bočnu traku { -brand-short-name }.
+genai-chatbot-contextual-button = Odaberite chatbot
 
 ## Chatbot onboarding choices
 ## These describe features/capabilities of chatbot providers. These are not buttons/actions.
@@ -155,6 +166,25 @@ genai-onboarding-lechat-price = Besplatno; potreban račun
 
 ## Model Optin Component
 
+genai-model-optin-continue =
+    .label = Nastavi
+genai-model-optin-optout =
+    .label = Otkaži
+genai-model-optin-cancel =
+    .label = Otkaži
 
 ## Link previews
 
+# ‘min’ is short for “minute”
+# ‘mins’ is short for “minutes”
+# An estimate for how long it takes to read an article,
+# expressed as a range covering both slow and fast readers.
+# Variables:
+#   $rangePlural (String): The plural category of the range, using the same set as for numbers.
+#   $range (String): The range of minutes as a localised string. Examples: "3-7", "~1".
+link-preview-reading-time =
+    { $rangePlural ->
+        [one] Vrijeme čitanja u minutama: { $range }
+        [few] Vrijeme čitanja u minutama: { $range }
+       *[other] Vrijeme čitanja u minutama: { $range }
+    }

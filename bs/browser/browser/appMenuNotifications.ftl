@@ -30,6 +30,9 @@ appmenu-update-restart2 =
     .secondarybuttonlabel = Odbaci
     .secondarybuttonaccesskey = m
 appmenu-update-restart-message2 = Preuzmite najnoviju verziju { -brand-shorter-name }a. Otvoreni tabovi i prozori će biti vraćeni.
+appmenu-theme-installed =
+    .secondarybuttonlabel = Poništi
+    .secondarybuttonaccesskey = U
 appmenu-update-other-instance =
     .label = { -brand-shorter-name } se ne može automatski ažurirati na najnoviju verziju.
     .buttonlabel = Svakako ažuriraj { -brand-shorter-name }
@@ -41,6 +44,9 @@ appmenu-addon-private-browsing-installed2 =
     .buttonlabel = U redu
     .buttonaccesskey = O
 appmenu-addon-post-install-message3 = Upravljajte svojim dodacima i temama putem menija aplikacije.
+# This string is used in the confirmation popup displayed after an extension
+# has been installed, when the data collection feature is enabled.
+appmenu-addon-post-install-message-with-data-collection = Ažurirajte dozvole i postavke podataka bilo kada u <a data-l10n-name="settings-link">postavkama ekstenzije</a>.
 appmenu-addon-post-install-incognito-checkbox =
     .label = Dozvolite ovoj ekstenziji da radi u privatnim prozorima
     .accesskey = A

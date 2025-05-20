@@ -88,9 +88,21 @@ bookmarks-toolbar-callout-2a-secondary-button-label = Sakrij alatnu traku
 # Visible if user declines to add a bookmark in callout 1, bookmarks toolbar is set to always show when this message renders
 bookmarks-toolbar-callout-2b-title = Ostaviti alatnu traku sa zabilješkama otvorenom?
 bookmarks-toolbar-callout-2b-subtitle = Možete dodati i druge web stranice koje češće posjećujete. Jednostavno prevucite i ispustite tabove ovdje kako biste omiljene web stranice imali pri ruci.
+bookmarks-toolbar-callout-2b-primary-button-label = Ostavite otvoreno
+# Reverts the bookmarks toolbar to the default setting
+bookmarks-toolbar-callout-2b-secondary-button-label = Ne, hvala
 
 ## Perplexity callout strings
 
+perplexity-callout-theme-1-title = Trebate tačan odgovor, odmah?
+perplexity-callout-theme-2-title = Isprobajte Perplexity: novi način pretraživanja
+perplexity-callout-theme-1-subtitle-1 = Isprobajte Perplexity. Odaberite ga putem dugmeta za pretragu kada želite potpune odgovore, uključujući izvore.
+perplexity-callout-theme-1-subtitle-2 = Postavljajte pitanja. Dobijte potpune, dobro citirane odgovore. Da biste isprobali Perplexity, odaberite ga putem dugmeta za pretragu.
+perplexity-callout-theme-2-subtitle-1 = Pitajte Perplexity. Dobit ćete potpune odgovore, uključujući izvore.
+perplexity-callout-theme-2-subtitle-2 = Postavljajte pitanja. Dobijte potpune, dobro citirane odgovore.
+perplexity-callout-primary-label = Pitajte Perplexity
+perplexity-callout-secondary-label-1 = Odbaci
+perplexity-callout-secondary-label-2 = Razumijem
 
 ## Sidebar Strings
 
@@ -105,12 +117,22 @@ vertical-tabs-callout-1-subtitle = Isprobajte naš novi vertikalni raspored kart
 vertical-tabs-callout-1-cta-button = Pokušajte s vertikalnim tabovima
 vertical-tabs-callout-2-cta-button = Isprobajte sada
 vertical-tabs-callout-2-title = Držite puno otvorenih tabova? Pokušajte s vertikalnim tabovima.
+vertical-tabs-callout-2-subtitle = Ovaj raspored olakšava brzo skeniranje liste tabova. Osim toga, možete prilagoditi širinu da biste vidjeli više ili manje naslova tabova.
 
 ## Sidebar Vertical Tabs Pinning Strings
 
+sidebar-pins-callout-title = Gubite li pregled važnih tabova?
+sidebar-pins-callout-subtitle = Pokušajte ih zakačiti, što će ih zadržati na vrhu liste tabova. Kliknite desnim tasterom miša na tab koji želite zakačiti, a zatim odaberite Zakači tab.
+sidebar-pins-callout-cta-button = Zakači tab
 
 ## Sidebar Onboarding Strings
 
+sidebar-customization-callout-1-title = Bočna traka: vaše mjesto za alate i tabove
+sidebar-customization-callout-1-subtitle = Bočna traka { -brand-product-name } vam omogućava brz pristup vašoj historiji pregledavanja, tabovima s drugih uređaja i AI chatbotu — sve to bez napuštanja glavnog prikaza.
+sidebar-customization-callout-callout-button = Prilagodi bočnu traku
+sidebar-customization-callout-dismiss-button = Sakrij bočnu traku
+sidebar-customization-callout-2-title = Prilagodite bočnu traku { -brand-product-name }
+sidebar-customization-callout-2-subtitle = Dodajte i uklonite alate. Postavite tabove u bočnu traku. Isprobajte AI chatbot. Kako ćete prilagoditi bočnu traku zavisi od vas.
 
 ## Sidebar Callout Survey Strings
 
@@ -141,3 +163,19 @@ sidebar-genai-survey-satisfaction-question = Koliko ste zadovoljni sa pristupom 
 sidebar-genai-survey-productive-question =
     U kojoj mjeri se slažete ili ne slažete sa ovom izjavom:<br/>
     “AI chatbot na bočnoj traci mi pomaže da budem produktivniji”?
+unified-search-callout-title = Prebacivanje između pretraživača
+unified-search-callout-subtitle = Odaberite ono što najbolje odgovara vašoj specifičnoj pretrazi.
+unified-search-callout-primary-label = Sljedeće
+unified-search-callout-secondary-label = Odbaci
+unified-search-engines-callout-title = Pretraživanje pomoću prečice
+unified-search-engines-callout-subtitle = Upišite “@” i zatim ključnu riječ da biste pretražili historiju, zabilješke, tabove ili pomoću neke druge tražilice.
+unified-search-engines-callout-primary-label = Razumijem
+actions-callout-title = Završite uobičajene zadatke ili pristupite osnovnim postavkama
+# The user can type "print" and "clear" and a button will appear in the
+# search bar (e.g. Print page) the user can click to initiate the action.
+# These example text inputs correlate to the the following strings
+# (either matching the whole string, or the first word of the string).
+# "print" - quickactions-cmd-print
+# "clear" - quickactions-cmd-clearrecenthistory
+# When localizing, ensure the translations match to ensure the action button appears as expected.
+actions-callout-subtitle = Pokušajte upisati radnju poput “štampaj” da biste odštampali stranicu ili “očisti” da biste izbrisali historiju.

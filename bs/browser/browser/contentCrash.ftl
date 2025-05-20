@@ -32,3 +32,6 @@ pending-crash-reports-send =
     .label = Pošalji
 pending-crash-reports-always-send =
     .label = Uvijek šalji
+requested-crash-reports-dont-show-again =
+    .label = Ne prikazuj ponovo
+    .accesskey = D
