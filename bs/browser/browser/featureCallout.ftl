@@ -87,6 +87,7 @@ bookmarks-toolbar-callout-2a-primary-button-label = Razumijem
 bookmarks-toolbar-callout-2a-secondary-button-label = Sakrij alatnu traku
 # Visible if user declines to add a bookmark in callout 1, bookmarks toolbar is set to always show when this message renders
 bookmarks-toolbar-callout-2b-title = Ostaviti alatnu traku sa zabilješkama otvorenom?
+bookmarks-toolbar-callout-2b-subtitle = Možete dodati i druge web stranice koje češće posjećujete. Jednostavno prevucite i ispustite tabove ovdje kako biste omiljene web stranice imali pri ruci.
 
 ## Perplexity callout strings
 
