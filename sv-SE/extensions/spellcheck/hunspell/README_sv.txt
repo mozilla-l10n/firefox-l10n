@@ -1,7 +1,9 @@
+Svenska Fria Ordlistan v1.21
+
 This Swedish Dictionary for Spell Checking is maintained by
 Göran Andersson <goran@init.se>.
 
-Copyright © 2003-2014 Göran Andersson <goran@init.se>.
+Copyright © 2003-2015 Göran Andersson <goran@init.se>.
 
 This dictionary is free software: you can redistribute it and/or modify
 it under the terms of the GNU Lesser General Public License as published by
