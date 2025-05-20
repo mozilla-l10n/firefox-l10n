@@ -20,3 +20,5 @@ jobs:
           gh pr diff --name-only |
           xargs ls -d1 2>/dev/null |
           python -m moz.l10n.bin.lint
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
