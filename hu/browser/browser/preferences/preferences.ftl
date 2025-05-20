@@ -649,6 +649,8 @@ home-prefs-weather-header =
     .label = Időjárás
 home-prefs-weather-description = A mai előrejelzés egy pillantásnyira
 home-prefs-weather-learn-more-link = További tudnivalók
+home-prefs-mission-message = Szponzoraink támogatják a küldetésünket, hogy jobb webet építsünk
+home-prefs-mission-message-learn-more-link = Tudja meg hogyan
 # Variables:
 #   $num (number) - Number of rows displayed
 home-prefs-sections-rows-option =

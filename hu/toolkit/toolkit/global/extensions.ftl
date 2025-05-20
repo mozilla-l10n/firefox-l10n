@@ -26,6 +26,14 @@ webext-perms-header-required-perms = Szükséges engedélyek:
 webext-perms-header-optional-settings = Nem kötelező beállítások:
 webext-perms-header-update-required-perms = Új szükséges engedélyek:
 webext-perms-header-optional-required-perms = Új engedélyek
+webext-perms-header-data-collection-perms = Szükséges adatgyűjtés:
+webext-perms-header-data-collection-is-none = Adatgyűjtés:
+# This is a header used in the add-ons "update" prompt, shown when the new
+# version requires new data collection permissions.
+webext-perms-header-update-data-collection-perms = Új szükséges adatgyűjtés:
+# This is a header used in the add-ons "optional" prompt, shown when the
+# extension requests new data collection permissions programmatically.
+webext-perms-header-optional-data-collection-perms = Új adatgyűjtés:
 
 ##
 
@@ -100,6 +108,13 @@ webext-perms-host-description-multiple-domains =
 
 ## Strings for data collection permissions in the permission prompt.
 
+webext-perms-description-data-none = A fejlesztő szerint ez a kiegészítő nem igényel adatgyűjtést.
+# Variables:
+#    $permissions (String): a list of data collection permissions formatted with `Intl.ListFormat` using the "narrow" style.
+webext-perms-description-data-some = A fejlesztő szerint ez a kiegészítő a következőket gyűjti: { $permissions }
+# Variables:
+#    $permissions (String): a list of data collection permissions formatted with `Intl.ListFormat` using the "narrow" style.
+webext-perms-description-data-some-update = A fejlesztő szerint a kiegészítő ezeket gyűjti: { $permissions }
 
 ## Headers used in the webextension permissions dialog for synthetic add-ons.
 ## The part of the string describing what privileges the extension gives should be consistent
