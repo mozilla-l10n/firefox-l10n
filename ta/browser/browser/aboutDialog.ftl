@@ -36,6 +36,7 @@ aboutdialog-update-manual-with-link = புதுப்பித்தல்க
 settings-update-manual-with-link = புதுப்பித்தல்கள் இங்கே உள்ளன <a data-l10n-name="manual-link">{ $displayUrl }</a>
 update-unsupported = இந்த கணினியில் நீங்கள் மேலும் புதுப்பித்தல்களை மேற்கொள்ள முடியாது. <label data-l10n-name="unsupported-link">மேலும் அறிய</label>
 update-restarting = மறுதுவக்கம்…
+update-internal-error2 = உள் பிழை காரணமாக புதுப்பிப்புகளைச் சரிபார்க்க முடியவில்லை. புதுப்பிப்புகள் <label data-l10n-name="manual-link">{ $displayUrl }</label> இல் கிடைக்கின்றன.
 
 ##
 
@@ -49,6 +50,7 @@ community-exp = <label data-l10n-name="community-exp-mozillaLink">{ -vendor-shor
 community-2 = { -brand-short-name } ஐ வடிவமைத்து <label data-l10n-name="community-mozillaLink">{ -vendor-short-name }</label>, ஒரு <label data-l10n-name="community-creditsLink">உலகளாவிய சமூகம்</label> இணையத்தை திறந்ததாக , பொதுவானதாக மற்றும் அனைவருக்கும் கிடைக்கும் வகையில் இருக்க இணைந்து உழைக்கிறது.
 helpus = உதவ விருப்பமா? <label data-l10n-name="helpus-donateLink">கொடை வழங்குங்கள்</label> அல்லது <label data-l10n-name="helpus-getInvolvedLink">பங்காற்றுங்கள்!</label>
 bottomLinks-license = உரிம தகவல்
+bottom-links-terms = பயன்பாட்டு விதிமுறைகள்
 bottomLinks-rights = இறுதிப் பயனர் உரிமைகள்
 bottomLinks-privacy = தனியுரிமை கொள்கை
 # Example of resulting string: 66.0.1 (64-bit)

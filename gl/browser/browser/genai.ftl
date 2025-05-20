@@ -78,6 +78,9 @@ genai-onboarding-chatgpt-analyze = Analizar documentos e imaxes
 genai-onboarding-chatgpt-price = Opcións gratuítas e de pago; conta necesaria para algúns países e tarefas
 genai-onboarding-copilot-generate = Xerar texto, imaxes e código
 genai-onboarding-copilot-analyze = Analizar imaxes
+genai-onboarding-copilot-price = Opcións gratuítas e de pago; conta necesaria para algunhas tarefas
+genai-onboarding-gemini-generate = Xerar texto, imaxes e código
+genai-onboarding-gemini-analyze = Analiza imaxes (gratis) e documentos (de pago)
 
 ## Model Optin Component
 
