@@ -65,7 +65,9 @@ contextual-manager-passwords-import-success-heading =
 #   $added (number) - Number of added passwords
 #   $modified (number) - Number of modified passwords
 contextual-manager-passwords-import-success-message = Novos: { $added }, Actualizados: { $modified }
+contextual-manager-passwords-import-detailed-report = Ver informe detallado
 contextual-manager-passwords-import-success-button = Feito
+contextual-manager-passwords-import-error-button-try-again = Tentar de novo
 contextual-manager-passwords-import-error-button-cancel = Cancelar
 contextual-manager-passwords-import-learn-more = Aprende sobre a importación de contrasinais
 contextual-manager-passwords-export-success-heading =
@@ -114,14 +116,27 @@ contextual-manager-passwords-remove-all-confirm-button =
        *[other] Retirar todo
     }
 contextual-manager-passwords-origin-label = Sitio web
+contextual-manager-passwords-radiogroup-label =
+    .aria-label = Filtrar contrasinais
+# Variables
+#   $url (string) - The url associated with the new login
+contextual-manager-passwords-add-password-success-heading =
+    .heading = Contrasinal engadido para { $url }
+contextual-manager-passwords-add-password-success-button = Ver
 contextual-manager-passwords-update-password-success-button = Feito
 contextual-manager-passwords-delete-password-success-button = Feito
 # This message is displayed to make sure that a user wants to delete an existing login.
 contextual-manager-passwords-remove-login-card-title = Eliminar o contrasinal?
+# This message gives the user an option to go back to the edit login form.
+contextual-manager-passwords-remove-login-card-back-message = Atrás
 # This message confirms that the user wants to remove an existing login.
 contextual-manager-passwords-remove-login-card-remove-button = Eliminar
 # This message gives the user the option to cancel their attempt to remove a login.
 contextual-manager-passwords-remove-login-card-cancel-button = Cancelar
+contextual-manager-passwords-alert-back-button =
+    .label = Atrás
+contextual-manager-passwords-alert-list =
+    .aria-label = Lista de alertas
 
 ## Login Form
 
