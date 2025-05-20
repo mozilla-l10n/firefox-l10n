@@ -137,16 +137,24 @@ contextual-manager-passwords-alert-back-button =
     .label = Atrás
 contextual-manager-passwords-alert-list =
     .aria-label = Lista de alertas
+contextual-manager-passwords-change-password-button = Cambiar contrasinal
+contextual-manager-passwords-add-username-button = Engadir nome de usuario
 
 ## Login Form
 
 contextual-manager-passwords-create-label =
     .label = Engadir contrasinal
+contextual-manager-passwords-edit-label =
+    .label = Editar contrasinal
+contextual-manager-passwords-remove-label =
+    .title = Eliminar contrasinal
 
 ## Password Card
 
 contextual-manager-passwords-list-label =
     .aria-label = Contrasinais
+contextual-manager-website-icon =
+    .alt = Icona do sitio web
 contextual-manager-copy-icon =
     .alt = Copiar
 contextual-manager-check-icon-username =
@@ -162,6 +170,8 @@ contextual-manager-origin-login-line =
     .title = Visita { $url }
 contextual-manager-edit-login-button = Editar
     .tooltiptext = Editar contrasinal
+contextual-manager-view-alert-heading =
+    .heading = Ver alerta
 contextual-manager-show-password-button =
     .aria-label = Mostrar contrasinal
     .title = Mostrar contrasinal
