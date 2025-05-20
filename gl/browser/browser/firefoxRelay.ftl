@@ -46,6 +46,7 @@ firefox-relay-opt-in-confirmation-postpone =
 
 ## The "basic-info" variation of the Relay offer popup
 
+firefox-relay-and-fxa-popup-notification-header-basic-info = Evitar o spam cunha máscara de correo electrónico gratuíta
 
 ## The "with-domain" variation of the Relay offer popup
 

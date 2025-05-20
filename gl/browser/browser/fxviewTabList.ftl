@@ -66,3 +66,5 @@ fxviewtabrow-options-menu-button =
 
 ## Strings below are to be used without context (tab title/URL) on mute/unmute buttons
 
+fxviewtabrow-unmute-tab-button-no-context =
+    .title = Desenmudecer pestana

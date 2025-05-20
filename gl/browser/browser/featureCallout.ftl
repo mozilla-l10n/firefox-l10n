@@ -86,9 +86,12 @@ bookmarks-toolbar-callout-2a-primary-button-label = Entendido
 bookmarks-toolbar-callout-2a-secondary-button-label = Agochar barra de ferramentas
 # Visible if user declines to add a bookmark in callout 1, bookmarks toolbar is set to always show when this message renders
 bookmarks-toolbar-callout-2b-title = Manter aberta a barra de ferramentas de marcadores?
+# Reverts the bookmarks toolbar to the default setting
+bookmarks-toolbar-callout-2b-secondary-button-label = Non, grazas
 
 ## Perplexity callout strings
 
+perplexity-callout-theme-2-title = Proba Perplexity: unha nova forma de buscar
 
 ## Sidebar Strings
 
@@ -107,9 +110,11 @@ vertical-tabs-callout-2-subtitle = Este deseño facilita a exploración rápida 
 
 ## Sidebar Vertical Tabs Pinning Strings
 
+sidebar-pins-callout-cta-button = Fixar pestana
 
 ## Sidebar Onboarding Strings
 
+sidebar-customization-callout-1-title = Barra lateral: o teu lugar para as ferramentas e as pestanas
 
 ## Sidebar Callout Survey Strings
 
@@ -132,3 +137,4 @@ sidebar-callout-survey-strongly-disagree = Moi en desacordo
 sidebar-callout-survey-none-of-above = Ningunha das anteriores
 sidebar-callout-survey-submit = Enviar
 sidebar-callout-survey-thank-you = Grazas polos teus comentarios!
+unified-search-engines-callout-primary-label = Entendido

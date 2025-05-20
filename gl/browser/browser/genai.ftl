@@ -17,12 +17,41 @@
 
 genai-menu-ask-generic =
     .label = Preguntar ao chatbot IA
+genai-shortcuts-hide =
+    .label = Ocultar o atallo do chatbot
 
 ## Chatbot header
 
+genai-chatbot-title = Chatbot de IA
+genai-header-provider-menu =
+    .title = Escoller un chatbot
+genai-header-options-button =
+    .title = Abrir menú
+genai-header-close-button =
+    .title = Pechar
+genai-provider-view-details =
+    .label = Ver detalles do chatbot
+genai-options-reload-generic =
+    .label = Recargar chatbot IA
+# $provider (string) - name of the provider
+genai-options-reload-provider =
+    .label = Recargar { $provider }
+genai-options-hide-shortcut =
+    .label = Ocultar o atallo ao seleccionar texto
 
 ## Chatbot onboarding
 
+genai-onboarding-primary = Continuar
+genai-onboarding-secondary = Pechar
+genai-onboarding-claude-tooltip =
+    .title = Anthropic Claude
+genai-onboarding-claude-learn = Máis información sobre Claude
+genai-onboarding-chatgpt-tooltip =
+    .title = ChatGPT
+genai-onboarding-chatgpt-learn = Obtén máis información sobre ChatGPT
+genai-onboarding-copilot-tooltip =
+    .title = Copilot
+genai-onboarding-copilot-learn = Máis información sobre Copilot
 genai-onboarding-gemini-tooltip =
     .title = Google Gemini
 genai-onboarding-gemini-learn = Máis información sobre Gemini
@@ -45,6 +74,10 @@ genai-onboarding-claude-generate = Xerar texto e código
 genai-onboarding-claude-analyze = Analizar documentos e imaxes
 genai-onboarding-claude-price = Opcións gratuítas e de pago; conta necesaria
 genai-onboarding-chatgpt-generate = Xerar texto, imaxes e código
+genai-onboarding-chatgpt-analyze = Analizar documentos e imaxes
+genai-onboarding-chatgpt-price = Opcións gratuítas e de pago; conta necesaria para algúns países e tarefas
+genai-onboarding-copilot-generate = Xerar texto, imaxes e código
+genai-onboarding-copilot-analyze = Analizar imaxes
 
 ## Model Optin Component
 
