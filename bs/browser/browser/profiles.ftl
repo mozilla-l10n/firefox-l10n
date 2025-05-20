@@ -7,6 +7,8 @@ profile-window-body = Neka vaše radno i lično pregledavanje, uključujući stv
 # This checkbox appears in the Choose profile window that appears when the browser is opened. "Show this" refers to this window, which is displayed when the checkbox is enabled.
 profile-window-checkbox-label-2 =
     .label = Odaberite profil kada se { -brand-short-name } otvori
+# This subcopy appears below the checkbox when it is unchecked
+profile-window-checkbox-subcopy = { -brand-short-name } će se otvoriti na vašem nedavno korištenom profilu.
 profile-window-create-profile = Kreirajte profil
 profile-card-edit-button =
     .title = Uredi profil
@@ -46,6 +48,8 @@ new-profile-page-input-placeholder =
 new-profile-page-done-button =
     .label = Uređivanje je završeno
 profile-window-title-2 = { -brand-short-name } - Odaberite profil
+profile-window-logo =
+    .alt = { -brand-short-name } logo
 
 ## Delete profile dialogue that allows users to review what they will lose if they choose to delete their profile. Each item (open windows, etc.) is displayed in a table, followed by a column with the number of items.
 
@@ -80,9 +84,41 @@ profiles-light-theme = Svijetla
 profiles-dark-theme = Tamna
 # The default system theme
 profiles-system-theme = Sistem
+# This light theme features sunny colors such as goldenrod and pale yellow. Its name evokes the color of a marigold flower. This name can be translated directly if it's easily understood in your language, or adapted to a more natural sounding name that fits the color scheme.
+profiles-marigold-theme-2 = Žuta od nevena
+# This light theme features various shades of soft, muted purples. Its name evokes the color of a lavender flower. This name can be translated directly if it's easily understood in your language, or adapted to a more natural sounding name that fits the color scheme.
+profiles-lavender-theme-2 = Blijeda lavanda
+# This light theme features very pale green tones. Its name evokes the color of pale green mint ice cream. This name can be translated directly if it's easily understood in your language, or adapted to a more natural sounding name that fits the color scheme.
+profiles-lichen-theme-2 = Menta zelena
+# This light theme features various shades of pink ranging from pale to bold. Its name evokes the color of a pink magnolia flower. This name can be translated directly if it's easily understood in your language, or adapted to a more natural sounding name that fits the color scheme.
+profiles-magnolia-theme-2 = Ružičasta magnolija
+# Ocean blue is a dark theme that features very dark blues and black. Its name evokes the color of the deep ocean water. This name can be translated directly if it's easily understood in your language, or adapted to a more natural sounding name that fits the color scheme.
+profiles-ocean-theme-2 = Okeansko plava
+# This dark theme features warm oranges, dark mahogany browns, and earthy red/brown colors. The name evokes the earthy colors of brick masonry. This name can be translated directly if it's easily understood in your language, or adapted to a more natural sounding name that fits the color scheme.
+profiles-terracotta-theme-2 = Ciglano crvena
+# This dark theme features forest green, dusky green with a gray undertone, and a muted sage green. Its name evokes the rich color of green moss in the forest. This name can be translated directly if its easily understood in your language, or adapted to a more natural sounding name that fits the color scheme.
+profiles-moss-theme-2 = Mahovinasto zelena
 
 ## Alternative text for default profile icons
 
+book-avatar-alt =
+    .alt = Knjiga
+briefcase-avatar-alt =
+    .alt = Aktovka
+flower-avatar-alt =
+    .alt = Cvijet
+heart-avatar-alt =
+    .alt = Srce
+shopping-avatar-alt =
+    .alt = Kolica za kupovinu
+star-avatar-alt =
+    .alt = Zvjezdica
 
 ## Labels for default avatar icons
 
+book-avatar = Knjiga
+briefcase-avatar = Aktovka
+flower-avatar = Cvijet
+heart-avatar = Srce
+shopping-avatar = Kolica za kupovinu
+star-avatar = Zvjezdica

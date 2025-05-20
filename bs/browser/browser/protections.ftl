@@ -65,6 +65,42 @@ protection-report-passwords-save-passwords-button = Sačuvaj lozinke
     .title = Sačuvaj lozinke
 protection-report-passwords-manage-passwords-button = Upravljaj lozinkama
     .title = Upravljaj lozinkama
+lockwise-how-it-works-link = Kako to radi
+monitor-title = Pazite na povrede podataka
+monitor-link = Kako to radi
+monitor-header-content-no-account = Provjerite { -monitor-brand-name } da vidite da li ste bili dio poznate povrede podataka i primajte upozorenja o novim povredama.
+monitor-header-content-signed-in = { -monitor-brand-name } vas upozorava ako su se vaši podaci pojavili u poznatoj povredi podataka.
+monitor-sign-up-link = Prijavite se za upozorenja o curenju podataka
+    .title = Prijavite se za upozorenja o curenju podataka na { -monitor-brand-name }u
+auto-scan = Automatski skenirano danas
+monitor-emails-tooltip =
+    .title = Pogledajte praćene email adrese na { -monitor-brand-short-name }
+monitor-breaches-tooltip =
+    .title = Pogledajte poznate povrede podataka na { -monitor-brand-short-name }u
+monitor-passwords-tooltip =
+    .title = Pogledajte otkrivene lozinke na { -monitor-brand-short-name }
+# This string is displayed after a large numeral that indicates the total number
+# of email addresses being monitored. Don’t add $count to
+# your localization, because it would result in the number showing twice.
+info-monitored-emails =
+    { $count ->
+        [one] Praćena email adresa
+        [few] Praćene email adrese
+       *[other] Praćenih email adresa
+    }
+monitor-no-breaches-title = Dobre vijesti!
+monitor-no-breaches-description = Nemate poznatih kršenja sigurnosti. Obavijestit ćemo vas ako se to promijeni.
+monitor-breaches-unresolved-title = Riješite svoje prekršaje
+monitor-breaches-unresolved-description = Nakon što pregledate detalje o kršenju sigurnosti i poduzmete korake za zaštitu svojih podataka, možete označiti kršenja kao riješena.
+monitor-breaches-resolved-title = Odlično! Riješili ste sve poznate probleme/propuste.
+monitor-breaches-resolved-description = Ako se vaša e-mail adresa pojavi u nekim novim povredama sigurnosti, obavijestit ćemo vas.
+# Variables:
+# $percentageResolved (Number) - Percentage of breaches marked as resolved by a user on Monitor.
+monitor-partial-breaches-percentage = { $percentageResolved }% završeno
+monitor-partial-breaches-motivation-title-start = Odličan početak!
+monitor-partial-breaches-motivation-title-middle = Samo tako nastavi!
+monitor-partial-breaches-motivation-title-end = Skoro gotovo! Samo tako nastavi.
+monitor-partial-breaches-motivation-description = Riješite preostale probleme s propustima na { -monitor-brand-short-name }.
 
 ## The title attribute is used to display the type of protection.
 ## The aria-label is spoken by screen readers to make the visual graph accessible to blind users.
