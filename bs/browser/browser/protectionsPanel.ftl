@@ -2,13 +2,26 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+protections-panel-sendreportview-error = Došlo je do greške prilikom slanja izvještaja. Molimo pokušajte ponovo kasnije.
+# A link shown when ETP is disabled for a site. Opens the breakage report subview when clicked.
+protections-panel-sitefixedsendreport-label = Stranica popravljena? Pošalji izvještaj
 
 ## These strings are used to define the different levels of
 ## Enhanced Tracking Protection.
 
+protections-popup-footer-protection-label-strict = Striktno
+    .label = Striktno
+protections-popup-footer-protection-label-custom = Prilagođeno
+    .label = Prilagođeno
+protections-popup-footer-protection-label-standard = Standardno
+    .label = Standardno
 
 ##
 
+# The text a screen reader speaks when focused on the info button.
+protections-panel-etp-more-info =
+    .aria-label = Više informacija o poboljšanoj zaštiti od praćenja
+protections-panel-etp-on-header = Poboljšana zaštita od praćenja je UKLJUČENA za ovu stranicu
 
 ## Text for the toggles shown when ETP is enabled/disabled for a given site.
 ## .description is transferred into a separate paragraph by the moz-toggle
@@ -42,6 +55,14 @@
 
 ##
 
+protections-panel-description-shim-allowed-learn-more = Saznajte više
+protections-panel-content-blocking-breakage-report-view-collection-url = URL
+protections-panel-content-blocking-breakage-report-view-collection-url-label =
+    .aria-label = URL
+protections-panel-content-blocking-breakage-report-view-cancel =
+    .label = Otkaži
+protections-panel-content-blocking-breakage-report-view-send-report =
+    .label = Pošalji izvještaj
 
 # Cookie Banner Handling
 

@@ -1365,6 +1365,9 @@ collection-header = { -brand-short-name } prikupljanje i upotreba podataka
 collection-header2 = { -brand-short-name } prikupljanje i upotreba podataka
     .searchkeywords = telemetrija
 preferences-collection-description = Trudimo se da vam pružimo izbor i prikupljamo samo minimalne podatke potrebne za poboljšanje { -brand-product-name } za sve.
+preferences-collection-privacy-notice = Pogledajte Policu privatnosti
+preferences-across-profiles = Ove postavke se primjenjuju na svaki { -brand-product-name } profil na ovom uređaju.
+preferences-view-profiles = Pogledajte sve profile
 collection-description = Trudimo se da vam pružimo izbor i da sakupljamo samo ono što nam je potrebno kako bismo unaprijedili { -brand-short-name } za sve. Uvijek od vas tražimo dozvolu prije slanja bilo kakvih ličnih informacija.
 collection-privacy-notice = Polica privatnosti
 collection-health-report-telemetry-disabled = Više ne dozvoljavate { -vendor-short-name } da bilježi tehničke podatke i podatke o interakciji. Svi prošli podaci će biti izbrisani u roku od 30 dana.
@@ -1380,9 +1383,23 @@ collection-health-report =
     .label = Dozvolite da { -brand-short-name } šalje tehničke podatke i podatke o interakciji na { -vendor-short-name }
     .accesskey = r
 collection-health-report-link = Saznajte više
+collection-health-report-description = Ovo nam pomaže da poboljšamo funkcije, performanse i stabilnost proizvoda { -brand-product-name }.
+collection-studies2 =
+    .label = Instalirajte i pokrenite studije
+collection-studies-description = Isprobajte funkcije i ideje prije nego što budu puštene svima.
 collection-studies =
     .label = Dozvoli { -brand-short-name }u da instalira i pokreće studije
 collection-studies-link = Prikaži { -brand-short-name } studije
+addon-recommendations2 =
+    .label = Dozvoli personalizirane preporuke za ekstenzije
+addon-recommendations-description = Dobijte preporuke za ekstenzije kako biste poboljšali svoje iskustvo pregledavanja.
+# This message is displayed above disabled data sharing options in developer builds
+# or builds with no Telemetry support available.
+collection-health-report-disabled2 = Izvještaji s podacima su onemogućeni za ovu konfiguraciju.
+collection-backlogged-crash-reports2 =
+    .label = Automatsko slanje izvještaja o padu programa
+    .accesskey = c
+collection-backlogged-crash-reports-description = Ovo pomaže { -vendor-short-name } da dijagnosticira i riješi probleme s preglednikom. Izvještaji mogu sadržavati lične ili osjetljive podatke.
 addon-recommendations =
     .label = Dozvolite { -brand-short-name } da daje personalizirane preporuke proširenja
 addon-recommendations-link = Saznajte više
@@ -1450,12 +1467,17 @@ space-alert-under-5gb-message2 = <strong>{ -brand-short-name } ponestaje prostor
 ## Privacy Section - HTTPS-Only
 
 httpsonly-header = Način rada samo za HTTPS
+httpsonly-description3 = Omogućava samo sigurne veze s web stranicama. { -brand-short-name } će pitati prije nesigurnog povezivanja.
+httpsonly-learn-more2 = Kako funkcionira samo HTTPS
 httpsonly-description = HTTPS pruža sigurnu, šifrovanu vezu između { -brand-short-name } i web stranica koje posjećujete. Većina web stranica podržava HTTPS, a ako je omogućen način rada samo za HTTPS, tada će { -brand-short-name } nadograditi sve veze na HTTPS.
 httpsonly-learn-more = Saznajte više
 httpsonly-radio-enabled =
     .label = Omogućite režim samo za HTTPS u svim prozorima
 httpsonly-radio-enabled-pbm =
     .label = Omogućite samo HTTPS način rada samo u privatnim prozorima
+httpsonly-radio-disabled3 =
+    .label = Ne omogućavajte samo HTTPS način rada
+    .description = { -brand-short-name } možda ipak nadogradi neke veze
 httpsonly-radio-disabled =
     .label = Ne omogućavajte samo HTTPS način rada
 
