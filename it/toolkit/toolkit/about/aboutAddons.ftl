@@ -562,3 +562,6 @@ addon-permissions-required-data-collection = Raccolta dati obbligatoria:
 addon-permissions-optional-data-collection = Raccolta dati facoltativa:
 # Name of the Permissions tab in `about:addons` when the data collection feature is enabled.
 permissions-data-addon-button = Permessi e dati
+
+## Mapping Engine IDs from AI models to how that feature represented by the engine Id is described in the used by section in local model management
+
