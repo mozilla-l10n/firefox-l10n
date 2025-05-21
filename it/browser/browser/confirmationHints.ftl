@@ -29,3 +29,5 @@ confirmation-hint-duplicate-tabs-closed =
         [one] Chiusa { $tabCount } scheda
        *[other] Chiuse { $tabCount } schede
     }
+# Subtle notification shown when Extensions button moves into the application menu.
+confirmation-hint-extensions-button-hidden = Spostato nel menu
