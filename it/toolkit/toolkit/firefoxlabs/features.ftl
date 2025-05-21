@@ -47,4 +47,3 @@ experimental-features-link-previews-description-no-ai =
         [macos] Per ottenere ulteriori informazioni su una pagina web prima di fare clic, passa il mouse sopra un link e premi Maiuscole (⇧) più Opzione (⌥) o Alt. Le anteprime possono includere dettagli come titolo e tempo di lettura. <a data-l10n-name="connect">Condividi la tua opinione</a>
        *[other] Per ottenere ulteriori informazioni su una pagina web prima di fare clic, passa il mouse sopra un link e premi Maiusc + Alt. Le anteprime possono includere dettagli come titolo e tempo di lettura. <a data-l10n-name="connect">Condividi la tua opinione</a>
     }
-

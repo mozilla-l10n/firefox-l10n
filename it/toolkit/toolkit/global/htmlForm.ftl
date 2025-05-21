@@ -18,4 +18,3 @@ form-post-secure-to-insecure-warning-message =
     
     Inviare ugualmente queste informazioni?
 form-post-secure-to-insecure-warning-continue = Continua
-

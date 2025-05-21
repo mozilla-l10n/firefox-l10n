@@ -32,4 +32,3 @@ set-background-fill =
     .label = Riempi
 set-background-fit =
     .label = Adatta
-

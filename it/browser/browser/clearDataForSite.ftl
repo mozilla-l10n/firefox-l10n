@@ -13,4 +13,3 @@ cclear-data-for-site-permissions = Permessi e preferenze
 clear-data-for-site-exceptions = I segnalibri e le password salvate non verranno eliminati
 clear-data-for-site-dialog-accept-button = Elimina dati
 clear-data-for-site-dialog-cancel-button = Annulla
-

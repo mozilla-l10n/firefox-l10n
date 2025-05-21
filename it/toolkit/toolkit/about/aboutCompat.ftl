@@ -23,4 +23,3 @@ text-title = about:compat
 
 label-smartblock = Correzioni SmartBlock
 text-no-smartblock = Attualmente non è attiva alcuna correzione SmartBlock
-

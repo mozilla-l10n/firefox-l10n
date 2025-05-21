@@ -13,4 +13,3 @@ choose-folder-button =
             [macos] c
            *[other] f
         }
-

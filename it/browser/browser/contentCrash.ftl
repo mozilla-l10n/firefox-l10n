@@ -41,4 +41,3 @@ requested-crash-reports-message =
 requested-crash-reports-dont-show-again =
     .label = Non mostrare di nuovo
     .accesskey = N
-
