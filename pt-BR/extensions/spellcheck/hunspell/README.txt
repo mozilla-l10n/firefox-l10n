@@ -1,3 +1,4 @@
+version 123.2024.16.151
 *** ADENDO PARA A VERSÃO PT-BR ***
 
 A versão pt-BR foi criada como um trabalho derivado do dicionário
