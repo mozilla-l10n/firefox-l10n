@@ -555,6 +555,13 @@ addon-permissions-required-data-collection = 필수 데이터 수집:
 addon-permissions-optional-data-collection = 선택적 정보 수집:
 # Name of the Permissions tab in `about:addons` when the data collection feature is enabled.
 permissions-data-addon-button = 권한 및 데이터
+# This is a description for extension that use this AI model
+# Variables:
+#   $extensionName (String) - Name of the extension
+mlmodel-extension-label = { $extensionName } 확장 기능에서 사용됨
 
 ## Mapping Engine IDs from AI models to how that feature represented by the engine Id is described in the used by section in local model management
 
+mlmodel-about-inference = { -brand-short-name }가 about:inference에 이것을 사용함
+mlmodel-link-preview = { -brand-short-name }는 사용자가 링크를 미리 볼 때 요점을 생성하기 위해 이것을 사용함
+mlmodel-pdfjs = { -brand-short-name }는 사용자가 PDF에 추가하는 이미지에 대한 대체 텍스트를 생성하기 위해 이것을 사용함

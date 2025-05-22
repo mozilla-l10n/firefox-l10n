@@ -81,6 +81,8 @@ addon-removal-title = { $name } 부가 기능을 제거하시겠습니까?
 addon-removal-message = { -brand-shorter-name }에서 { $name } 확장 기능을 제거하시겠습니까?
 addon-removal-button = 제거
 addon-removal-abuse-report-checkbox = 이 확장 기능을 { -vendor-short-name }에 신고
+# "it" refers to the local AI model that is paired to the AI feature
+addon-mlmodel-removal-body = 이 모델을 사용하는 기능이나 확장 기능을 사용하는 경우 다시 추가됩니다.
 # Variables:
 #   $addonCount (Number): the number of add-ons being downloaded
 addon-downloading-and-verifying = 부가 기능 { $addonCount }개 다운로드 및 검사 중…

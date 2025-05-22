@@ -25,3 +25,5 @@ confirmation-hint-screenshot-copied = 스크린샷이 복사되었습니다!
 # Variables:
 #   $tabCount (Number): The number of duplicate tabs closed, at least 1.
 confirmation-hint-duplicate-tabs-closed = 탭 { $tabCount }개 닫음
+# Subtle notification shown when Extensions button moves into the application menu.
+confirmation-hint-extensions-button-hidden = 메뉴로 이동

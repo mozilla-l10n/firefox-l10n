@@ -29,3 +29,5 @@ confirmation-hint-duplicate-tabs-closed =
         [one] Lokaði { $tabCount } flipa
        *[other] Lokaði { $tabCount } flipum
     }
+# Subtle notification shown when Extensions button moves into the application menu.
+confirmation-hint-extensions-button-hidden = Færa yfir í valmynd

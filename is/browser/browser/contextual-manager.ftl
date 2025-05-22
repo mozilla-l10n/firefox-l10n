@@ -78,6 +78,8 @@ contextual-manager-passwords-export-success-heading =
 contextual-manager-passwords-export-success-button = Lokið
 # Export passwords to file dialog
 contextual-manager-export-passwords-dialog-title = Flytja lykilorð út í skrá?
+# This string recommends to the user that they delete the exported password file that is saved on their local machine.
+contextual-manager-export-passwords-dialog-message = Eftir útflutninginn mælum við með að þú eyðir skránni svo aðrir sem gætu notað þetta tæki geti ekki séð lykilorðin þín.
 contextual-manager-export-passwords-dialog-confirm-button = Halda áfram með útflutning
 # Title of the file picker dialog
 contextual-manager-passwords-export-file-picker-title = Flytja út lykilorð frá { -brand-short-name }
@@ -272,6 +274,8 @@ contextual-manager-passwords-no-passwords-found-message = Engin lykilorð fundus
 
 # This string encourages the user to save their passwords in Firefox (the "safe spot").
 contextual-manager-passwords-no-passwords-header = Vistaðu lykilorðin þín á öruggum stað.
+# This string is displayed in a button. If the user clicks it, they will be taken to a form to create a new password.
+contextual-manager-passwords-add-manually = Bæta við handvirkt
 
 ## When the user cancels a login that's currently being edited, we display a message to confirm whether
 ## or not the user wants to discard their current edits to the login.
