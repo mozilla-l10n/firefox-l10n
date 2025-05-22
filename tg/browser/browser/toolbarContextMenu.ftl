@@ -60,6 +60,10 @@ toolbar-context-menu-auto-hide-downloads-button-2 =
 toolbar-context-menu-always-open-downloads-panel =
     .label = Нишон додани лавҳа дар оғози боргирӣ
     .accesskey = Н
+# Label of checkbox menu item to toggle visibility of Extensions Button.
+toolbar-context-menu-always-show-extensions-button =
+    .label = Ҳамеша дар навори абзорҳо нишон дода шавад
+    .accesskey = Ҳ
 toolbar-context-menu-remove-from-toolbar =
     .label = Тоза кардан аз навори абзорҳо
     .accesskey = Т

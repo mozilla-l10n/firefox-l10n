@@ -562,6 +562,15 @@ addon-permissions-required-data-collection = Ҷамъоварии маълумо
 addon-permissions-optional-data-collection = Ҷамъоварии маълумоти иловагӣ:
 # Name of the Permissions tab in `about:addons` when the data collection feature is enabled.
 permissions-data-addon-button = Иҷозатҳо ва маълумот
+# This is a description for extension that use this AI model
+# Variables:
+#   $extensionName (String) - Name of the extension
+mlmodel-extension-label = Аз ҷониби васеъшавии «{ $extensionName }» истифода мешавад
 
 ## Mapping Engine IDs from AI models to how that feature represented by the engine Id is described in the used by section in local model management
 
+mlmodel-about-inference = «{ -brand-short-name }» инро дар «about:inference» истифода мебарад
+mlmodel-link-preview = «{ -brand-short-name }» инро барои эҷод кардани нуқтаҳои асосӣ ҳангоми пешнамоиши пайвандҳо истифода мебарад
+mlmodel-pdfjs = «{ -brand-short-name }» инро барои эҷод кардани матни иловагӣ дар тасвирҳое, ки шумо ба файлҳои «PDF» илова мекунед, истифода мебарад
+mlmodel-smart-tab-topic-engine = «{ -brand-short-name }» инро барои пешниҳод кардани номҳо дар гурӯҳҳои варақаҳои шумо истифода мебарад
+mlmodel-smart-tab-embedding-engine = «{ -brand-short-name }» инро барои пешниҳод кардани варақаҳо дар гурӯҳҳои варақаҳои шумо истифода мебарад

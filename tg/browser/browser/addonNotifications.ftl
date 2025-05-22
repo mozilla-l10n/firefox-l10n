@@ -81,6 +81,8 @@ addon-removal-title = «{ $name }»-ро тоза мекунед?
 addon-removal-message = { $name }-ро аз { -brand-shorter-name } тоза мекунед?
 addon-removal-button = Тоза кардан
 addon-removal-abuse-report-checkbox = Фиристодани гузориш дар бораи ин васеъшавӣ ба { -vendor-short-name }
+# "it" refers to the local AI model that is paired to the AI feature
+addon-mlmodel-removal-body = Агар шумо хусусиятҳо ё васеъшавиҳои ин моделро истифода баред, он аз нав илова карда мешавад.
 # Variables:
 #   $addonCount (Number): the number of add-ons being downloaded
 addon-downloading-and-verifying =

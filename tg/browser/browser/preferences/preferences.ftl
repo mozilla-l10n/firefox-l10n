@@ -514,6 +514,8 @@ performance-default-content-process-count =
 ## General Section - Browsing
 
 browsing-title = Тамошобинӣ
+browsing-group-label =
+    .aria-label = Тамошобинӣ
 browsing-use-autoscroll =
     .label = Истифодаи варақзании худкор
     .accesskey = И
