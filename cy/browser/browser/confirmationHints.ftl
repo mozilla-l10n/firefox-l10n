@@ -33,3 +33,5 @@ confirmation-hint-duplicate-tabs-closed =
         [many] Wedi cau { $tabCount } tab
        *[other] Wedi cau { $tabCount } tab
     }
+# Subtle notification shown when Extensions button moves into the application menu.
+confirmation-hint-extensions-button-hidden = Wedi'i symud i'r ddewislen
