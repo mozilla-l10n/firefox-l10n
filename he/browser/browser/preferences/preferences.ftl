@@ -515,6 +515,8 @@ performance-default-content-process-count =
 ## General Section - Browsing
 
 browsing-title = דפדוף
+browsing-group-label =
+    .aria-label = דפדוף
 browsing-use-autoscroll =
     .label = שימוש בגלילה אוטומטית
     .accesskey = ב

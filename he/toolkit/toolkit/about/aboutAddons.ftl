@@ -538,6 +538,15 @@ addon-permissions-required-data-collection = איסוף נתונים נדרש:
 addon-permissions-optional-data-collection = איסוף נתונים אופציונלי:
 # Name of the Permissions tab in `about:addons` when the data collection feature is enabled.
 permissions-data-addon-button = הרשאות ונתונים
+# This is a description for extension that use this AI model
+# Variables:
+#   $extensionName (String) - Name of the extension
+mlmodel-extension-label = בשימוש על־ידי ההרחבה { $extensionName }
 
 ## Mapping Engine IDs from AI models to how that feature represented by the engine Id is described in the used by section in local model management
 
+mlmodel-about-inference = ‏{ -brand-short-name } משתמש בזה ב־about:inference
+mlmodel-link-preview = ‏{ -brand-short-name } משתמש בזה כדי לייצר נקודות מפתח בעת ריחוף על קישורים
+mlmodel-pdfjs = ‏{ -brand-short-name } משתמש בזה כדי לייצר טקסט חלופי עבור תמונות שמוסיפים לקובצי PDF
+mlmodel-smart-tab-topic-engine = ‏{ -brand-short-name } משתמש בזה כדי להציע שמות עבור קבוצות הלשוניות שלך
+mlmodel-smart-tab-embedding-engine = ‏{ -brand-short-name } משתמש בזה כדי להציע לשוניות עבור קבוצות הלשוניות שלך
