@@ -81,6 +81,8 @@ addon-removal-title = Tynnu { $name }?
 addon-removal-message = Tynnu { $name } o { -brand-shorter-name }?
 addon-removal-button = Tynnu
 addon-removal-abuse-report-checkbox = Adroddwch yr estyniad hwn i { -vendor-short-name }
+# "it" refers to the local AI model that is paired to the AI feature
+addon-mlmodel-removal-body = Os ydych chi'n defnyddio'r nodweddion neu'r estyniadau sy'n defnyddio'r model hwn, bydd yn cael ei ail-ychwanegu.
 # Variables:
 #   $addonCount (Number): the number of add-ons being downloaded
 addon-downloading-and-verifying =

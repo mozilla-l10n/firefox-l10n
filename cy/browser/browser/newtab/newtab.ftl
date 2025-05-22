@@ -194,6 +194,8 @@ newtab-label-sponsored-by = Noddir gan { $sponsor }
 #   $source (string) - The name of a company or their domain
 #   $timeToRead (number) - The estimated number of minutes to read this story
 newtab-label-source-read-time = { $source } · { $timeToRead } mun
+# This string is used under fixed size ads to indicate sponsored content
+newtab-label-sponsored-fixed = Noddwyd
 
 ## Section Menu: These strings are displayed in the section context menu and are
 ## meant as a call to action for the given section.

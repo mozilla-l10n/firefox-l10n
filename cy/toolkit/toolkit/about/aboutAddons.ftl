@@ -572,6 +572,15 @@ addon-permissions-required-data-collection = Casglu data gofynnol:
 addon-permissions-optional-data-collection = Casglu data dewisol:
 # Name of the Permissions tab in `about:addons` when the data collection feature is enabled.
 permissions-data-addon-button = Caniatâd a data
+# This is a description for extension that use this AI model
+# Variables:
+#   $extensionName (String) - Name of the extension
+mlmodel-extension-label = Yn cael ei defnyddio gan yr estyniad { $extensionName }
 
 ## Mapping Engine IDs from AI models to how that feature represented by the engine Id is described in the used by section in local model management
 
+mlmodel-about-inference = Mae { -brand-short-name } yn defnyddio hwn ar about:inference
+mlmodel-link-preview = Mae { -brand-short-name } yn defnyddio hwn i gynhyrchu pwyntiau allweddol pan fyddwch yn cael rhagolwg o ddolenni
+mlmodel-pdfjs = Mae { -brand-short-name } yn defnyddio hwn i greu testun amgen ar gyfer delweddau rydych yn eu hychwanegu at ffeiliau PDF
+mlmodel-smart-tab-topic-engine = Mae { -brand-short-name } yn defnyddio hwn i awgrymu enwau ar gyfer eich grwpiau tab
+mlmodel-smart-tab-embedding-engine = Mae { -brand-short-name } yn defnyddio hwn i awgrymu tabiau ar gyfer eich grwpiau tabiau

@@ -64,6 +64,10 @@ toolbar-context-menu-auto-hide-downloads-button-2 =
 toolbar-context-menu-always-open-downloads-panel =
     .label = Dangos y Panel Pan fydd y Llwytho'n Dechrau
     .accesskey = D
+# Label of checkbox menu item to toggle visibility of Extensions Button.
+toolbar-context-menu-always-show-extensions-button =
+    .label = Dangos yn y Bar Offer bob amser
+    .accesskey = D
 toolbar-context-menu-remove-from-toolbar =
     .label = Tynnu o'r Bar Offer
     .accesskey = T

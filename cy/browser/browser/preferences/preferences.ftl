@@ -527,6 +527,8 @@ performance-default-content-process-count =
 ## General Section - Browsing
 
 browsing-title = Pori
+browsing-group-label =
+    .aria-label = Yn Pori
 browsing-use-autoscroll =
     .label = Defnyddio awto sgrolio
     .accesskey = a
