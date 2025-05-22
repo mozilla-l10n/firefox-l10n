@@ -60,6 +60,10 @@ toolbar-context-menu-auto-hide-downloads-button-2 =
 toolbar-context-menu-always-open-downloads-panel =
     .label = Paneel tonen wanneer downloaden begint
     .accesskey = t
+# Label of checkbox menu item to toggle visibility of Extensions Button.
+toolbar-context-menu-always-show-extensions-button =
+    .label = Altijd in werkbalk tonen
+    .accesskey = A
 toolbar-context-menu-remove-from-toolbar =
     .label = Verwijderen van werkbalk
     .accesskey = w
