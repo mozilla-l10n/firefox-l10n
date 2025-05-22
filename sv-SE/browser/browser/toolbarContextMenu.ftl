@@ -59,6 +59,10 @@ toolbar-context-menu-auto-hide-downloads-button-2 =
 toolbar-context-menu-always-open-downloads-panel =
     .label = Visa panelen när nedladdningen börjar
     .accesskey = V
+# Label of checkbox menu item to toggle visibility of Extensions Button.
+toolbar-context-menu-always-show-extensions-button =
+    .label = Visa alltid i verktygsfältet
+    .accesskey = V
 toolbar-context-menu-remove-from-toolbar =
     .label = Ta bort från verktygsfält
     .accesskey = T

@@ -515,6 +515,8 @@ performance-default-content-process-count =
 ## General Section - Browsing
 
 browsing-title = Webbläsning
+browsing-group-label =
+    .aria-label = Webbläsning
 browsing-use-autoscroll =
     .label = Använd autorullning
     .accesskey = n
