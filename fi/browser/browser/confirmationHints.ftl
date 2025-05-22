@@ -29,3 +29,5 @@ confirmation-hint-duplicate-tabs-closed =
         [one] { $tabCount } välilehti suljettu
        *[other] { $tabCount } välilehteä suljettu
     }
+# Subtle notification shown when Extensions button moves into the application menu.
+confirmation-hint-extensions-button-hidden = Siirretty valikkoon

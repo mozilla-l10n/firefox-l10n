@@ -161,6 +161,8 @@ unified-search-callout-title = Vaihda hakukoneiden välillä
 unified-search-callout-subtitle = Valitse, mikä sopii parhaiten yksittäiseen hakuusi.
 unified-search-callout-primary-label = Seuraava
 unified-search-callout-secondary-label = Hylkää
+unified-search-engines-callout-title = Haku oikotietä käyttäen
+unified-search-engines-callout-subtitle = Kirjoita @-merkki ja sen perään avainsana hakeaksesi historiasta, kirjanmerkeistä, välilehdistä tai toisella hakukoneella.
 unified-search-engines-callout-primary-label = Selvä
 actions-callout-title = Suorita yleisiä tehtäviä tai käytä perusasetuksia
 # The user can type "print" and "clear" and a button will appear in the

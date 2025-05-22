@@ -515,6 +515,8 @@ performance-default-content-process-count =
 ## General Section - Browsing
 
 browsing-title = Selaus
+browsing-group-label =
+    .aria-label = Selaus
 browsing-use-autoscroll =
     .label = Vieritä sivua automaattisesti
     .accesskey = V
