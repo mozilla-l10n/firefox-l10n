@@ -81,6 +81,8 @@ addon-removal-title = Remover { $name }?
 addon-removal-message = Remover { $name } de { -brand-shorter-name }?
 addon-removal-button = Remover
 addon-removal-abuse-report-checkbox = Signalar iste extension a { -vendor-short-name }
+# "it" refers to the local AI model that is paired to the AI feature
+addon-mlmodel-removal-body = Si tu usa le functionalitate o le extension que usa iste modello, illo sera re-addite.
 # Variables:
 #   $addonCount (Number): the number of add-ons being downloaded
 addon-downloading-and-verifying =
