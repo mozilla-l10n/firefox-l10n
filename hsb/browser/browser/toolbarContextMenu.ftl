@@ -62,6 +62,10 @@ toolbar-context-menu-auto-hide-downloads-button-2 =
 toolbar-context-menu-always-open-downloads-panel =
     .label = Wokno pokazać, hdyž so sćehnjenje započina
     .accesskey = o
+# Label of checkbox menu item to toggle visibility of Extensions Button.
+toolbar-context-menu-always-show-extensions-button =
+    .label = Přeco w symbolowej lajsće pokazać
+    .accesskey = P
 toolbar-context-menu-remove-from-toolbar =
     .label = Ze symboloweje lajsty wotstronić
     .accesskey = Z

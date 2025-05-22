@@ -565,3 +565,5 @@ mlmodel-extension-label = { $extensionName } 확장 기능에서 사용됨
 mlmodel-about-inference = { -brand-short-name }가 about:inference에 이것을 사용함
 mlmodel-link-preview = { -brand-short-name }는 사용자가 링크를 미리 볼 때 요점을 생성하기 위해 이것을 사용함
 mlmodel-pdfjs = { -brand-short-name }는 사용자가 PDF에 추가하는 이미지에 대한 대체 텍스트를 생성하기 위해 이것을 사용함
+mlmodel-smart-tab-topic-engine = { -brand-short-name }는 탭 그룹의 이름을 제안하는데 이것을 사용함
+mlmodel-smart-tab-embedding-engine = { -brand-short-name }는 탭 그룹에 탭을 제안하는데 이것을 사용함

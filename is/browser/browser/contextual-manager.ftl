@@ -194,6 +194,10 @@ contextual-manager-passwords-breached-origin-heading-and-message =
     .message = Lykilorðum á þessu vefsvæði hafa verið tilkynnt sem stolin eða þeim lekið. Breyttu lykilorðinu þínu til að verja aðganginn þinn.
 contextual-manager-passwords-breached-origin-link-message = Hvernig veit { -brand-product-name } um gagnabrot?
 contextual-manager-passwords-change-password-button = Breyta lykilorði
+contextual-manager-passwords-vulnerable-password-heading-and-message =
+    .heading = Mælt er með að breyta lykilorði
+    .message = Auðvelt er að giska á þetta lykilorð. Skiptu um lykilorð til að vernda aðganginn þinn.
+contextual-manager-passwords-vulnerable-password-link-message = Hvernig veit { -brand-product-name } um veik lykilorð?
 contextual-manager-passwords-no-username-heading-and-message =
     .heading = Bættu við notandanafni
     .message = Bættu við notandanafni til að eiga auðveldara með innskráningu.
@@ -207,6 +211,8 @@ contextual-manager-passwords-edit-label =
     .label = Breyta lykilorði
 contextual-manager-passwords-remove-label =
     .title = Fjarlægja lykilorð
+contextual-manager-passwords-origin-tooltip = Sláðu inn nákvæma vistfangið þar sem þú skráir þig inn á þessa síðu.
+contextual-manager-passwords-username-tooltip = Settu inn notandanafn, tölvupóstfang eða númer reikningsins sem þú notar til að skrá þig inn.
 contextual-manager-passwords-password-tooltip = Sláðu inn lykilorðið sem notað er til að skrá þig inn á þennan reikning.
 
 ## Password Card
@@ -274,6 +280,11 @@ contextual-manager-passwords-no-passwords-found-message = Engin lykilorð fundus
 
 # This string encourages the user to save their passwords in Firefox (the "safe spot").
 contextual-manager-passwords-no-passwords-header = Vistaðu lykilorðin þín á öruggum stað.
+# This string informs that we (Firefox) store all passwords securely and will notify them of any breaches and alerts their
+# passwords may be involved in.
+contextual-manager-passwords-no-passwords-message = Öll lykilorð eru dulrituð og við munum fylgjast með gagnabrotum og senda viðvaranir ef þú kemur við sögu í þeim.
+# This string encourages the user to save their passwords to Firefox again.
+contextual-manager-passwords-no-passwords-get-started-message = Bættu þeim við hér til að byrja.
 # This string is displayed in a button. If the user clicks it, they will be taken to a form to create a new password.
 contextual-manager-passwords-add-manually = Bæta við handvirkt
 

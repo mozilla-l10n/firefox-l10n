@@ -521,6 +521,8 @@ performance-default-content-process-count =
 ## General Section - Browsing
 
 browsing-title = Přehladowanje
+browsing-group-label =
+    .aria-label = Přehladowanje
 browsing-use-autoscroll =
     .label = Awtomatiske přesuwanje wužiwać
     .accesskey = A
