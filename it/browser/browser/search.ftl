@@ -54,8 +54,16 @@ install-search-engine-no = No
 add-engine-window =
     .title = Aggiungi motore di ricerca
     .style = min-width: 36em;
+edit-engine-window =
+    .title = Modifica motore di ricerca
+    .style = min-width: 36em;
 add-engine-button = Aggiungi motore personalizzato
 add-engine-name = Nome motore di ricerca
+add-engine-url2 = URL con %s al posto del termine di ricerca
+add-engine-keyword2 = Parola chiave (facoltativa)
+# POST and GET refer to the HTTP methods.
+add-engine-post-data = Dati POST con %s al posto del termine di ricerca (lasciare vuoto per GET)
+add-engine-suggest-url = URL per suggerimenti con %s al posto del termine di ricerca (facoltativo)
 add-engine-keyword = Parola chiave
 add-engine-url = Indirizzo del motore di ricerca. Usare %s al posto del termine di ricerca
 add-engine-dialog =
@@ -66,9 +74,37 @@ engine-keyword-exists = È già presente un motore di ricerca con questa parola 
 
 ## The following placeholders are shown in the inputs when adding a new engine.
 
+add-engine-name-placeholder =
+    .placeholder = es. Mozilla Developer Network
+add-engine-url-placeholder =
+    .placeholder = es. https://developer.mozilla.com/search?q=%s
+add-engine-keyword-placeholder =
+    .placeholder = es. @mdn
 
 ## The following strings are used as error messages.
 
+add-engine-keyword-exists = Questa parola chiave è già in uso. Provane un‘altra.
+add-engine-name-exists = Questo nome è già in uso. Scegli un altro nome.
+add-engine-no-name = Aggiungi un nome.
+add-engine-no-url = Inserire un URL.
+add-engine-invalid-url = L’URL non sembra corretto. Controlla e riprova.
+add-engine-invalid-protocol = L’URL non sembra corretto. Utilizza un URL che inizi con http o https.
+# This error is shown when the user typed URL is missing %s.
+add-engine-missing-terms-url = Prova a includere %s al posto del termine di ricerca.
+# This error is shown when the user typed post data is missing %s.
+add-engine-missing-terms-post-data = Prova a includere %s al posto del termine di ricerca.
 
 ## The following strings are used as labels for the dialog's buttons.
 
+# buttonlabelextra1 is the label of a button to open the advanced section
+# of the dialog.
+add-engine-dialog2 =
+    .buttonlabelaccept = Aggiungi motore
+    .buttonaccesskeyaccept = A
+    .buttonlabelextra1 = Avanzate
+# buttonlabelextra1 is the label of a button to open the advanced section
+# of the dialog.
+edit-engine-dialog =
+    .buttonlabelaccept = Salva motore
+    .buttonaccesskeyaccept = S
+    .buttonlabelextra1 = Avanzate

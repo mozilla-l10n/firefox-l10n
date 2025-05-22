@@ -25,9 +25,9 @@ shopping-a11y-loading =
 ## Letter A indicates the highest grade, and F indicates the lowest grade.
 ## Letters are hardcoded and cannot be localized.
 
-shopping-letter-grade-description-ab = Recensioni affidabili
-shopping-letter-grade-description-c = Un misto di recensioni affidabili e inaffidabili
-shopping-letter-grade-description-df = Recensioni inaffidabili
+shopping-letter-grade-description-ab = Recensioni attendibili
+shopping-letter-grade-description-c = Un misto di recensioni attendibili e non attendibili
+shopping-letter-grade-description-df = Recensioni non attendibili
 # This string is displayed in a tooltip that appears when the user hovers
 # over the letter grade component without a visible description.
 # It is also used for screen readers.
@@ -94,7 +94,7 @@ shopping-settings-recommendations-toggle2 =
 shopping-settings-recommendations-learn-more3 = { -brand-product-name } non condivide i tuoi dati personali, per cui questi consigli non ti seguiranno su Internet. <a data-l10n-name="review-quality-url">Ulteriori informazioni</a>
 shopping-settings-recommendations-toggle =
     .label = Mostra annunci in Verifica recensioni
-shopping-settings-recommendations-learn-more2 = Promuoviamo solo prodotti con recensioni affidabili. <a data-l10n-name="review-quality-url">Ulteriori informazioni</a>
+shopping-settings-recommendations-learn-more2 = Promuoviamo solo prodotti con recensioni attendibili. <a data-l10n-name="review-quality-url">Ulteriori informazioni</a>
 shopping-settings-opt-out-button = Disattiva Verifica recensioni
 powered-by-fakespot = Verifica recensioni con tecnologia <a data-l10n-name="fakespot-link">{ -fakespot-brand-full-name }</a>.
 shopping-settings-auto-open-toggle =
@@ -117,31 +117,31 @@ shopping-settings-sidebar-enabled-state = Verifica recensioni è <strong>attiva<
 # reliable reviews.
 shopping-adjusted-rating-label =
     .label = Valutazione rettificata
-shopping-adjusted-rating-unreliable-reviews = Recensioni inaffidabili rimosse
-shopping-adjusted-rating-based-reliable-reviews = Basato su recensioni affidabili
+shopping-adjusted-rating-unreliable-reviews = Recensioni non attendibili rimosse
+shopping-adjusted-rating-based-reliable-reviews = Basato su recensioni attendibili
 
 ## Strings for the review reliability component
 
 shopping-review-reliability-label =
-    .label = Quanto sono affidabili queste recensioni?
+    .label = Quanto sono attendibili queste recensioni?
 
 ## Strings for the analysis explainer component
 
 shopping-analysis-explainer-label =
     .label = Come determiniamo la qualità delle recensioni
-shopping-analysis-explainer-intro2 = Utilizziamo la tecnologia IA di { -fakespot-brand-full-name } per analizzare l’affidabilità delle recensioni sui prodotti. Questa analisi ti aiuterà a valutare solo la qualità delle recensioni, non quella del prodotto.
+shopping-analysis-explainer-intro2 = Utilizziamo la tecnologia IA di { -fakespot-brand-full-name } per analizzare l’attendibilità delle recensioni sui prodotti. Questa analisi ti aiuterà a valutare solo la qualità delle recensioni, non quella del prodotto.
 shopping-analysis-explainer-grades-intro = Assegniamo alle recensioni di ogni prodotto un <strong>voto in lettere</strong> dalla A alla F.
-shopping-analysis-explainer-adjusted-rating-description = La <strong>valutazione rettificata</strong> si basa esclusivamente su recensioni che riteniamo affidabili.
+shopping-analysis-explainer-adjusted-rating-description = La <strong>valutazione rettificata</strong> si basa esclusivamente su recensioni che riteniamo attendibili.
 shopping-analysis-explainer-learn-more2 = Scopri ulteriori informazioni su <a data-l10n-name="review-quality-url">come { -fakespot-brand-name } determina la qualità delle recensioni</a>.
 # This string includes the short brand name of one of the three supported
 # websites, which will be inserted without being translated.
 #  $retailer (String) - capitalized name of the shopping website, for example, "Amazon".
-shopping-analysis-explainer-highlights-description = Gli elementi <strong>in evidenza</strong> provengono dalle recensioni su { $retailer } degli ultimi 80 giorni che riteniamo affidabili.
+shopping-analysis-explainer-highlights-description = Gli elementi <strong>in evidenza</strong> provengono dalle recensioni su { $retailer } degli ultimi 80 giorni che riteniamo attendibili.
 # Fallback for analysis highlights explainer if the retailer is ever unknown
-shopping-analysis-explainer-highlights-description-unknown-retailer = Gli elementi <strong>in evidenza</strong> provengono da recensioni degli ultimi 80 giorni che riteniamo affidabili.
-shopping-analysis-explainer-review-grading-scale-reliable = Recensioni affidabili. Riteniamo che le recensioni provengano con buona probabilità da clienti reali che hanno lasciato recensioni oneste e imparziali.
-shopping-analysis-explainer-review-grading-scale-mixed = Crediamo che ci sia un misto di recensioni affidabili e inaffidabili.
-shopping-analysis-explainer-review-grading-scale-unreliable = Recensioni inaffidabili. Riteniamo che le recensioni siano false o provenienti da revisori di parte.
+shopping-analysis-explainer-highlights-description-unknown-retailer = Gli elementi <strong>in evidenza</strong> provengono da recensioni degli ultimi 80 giorni che riteniamo attendibili.
+shopping-analysis-explainer-review-grading-scale-reliable = Recensioni attendibili. Riteniamo che le recensioni provengano con buona probabilità da clienti reali che hanno lasciato recensioni oneste e imparziali.
+shopping-analysis-explainer-review-grading-scale-mixed = Crediamo che ci sia un misto di recensioni attendibili e non attendibili.
+shopping-analysis-explainer-review-grading-scale-unreliable = Recensioni non attendibili. Riteniamo che le recensioni siano false o provenienti da revisori di parte.
 
 ## Strings for UrlBar button
 
@@ -158,7 +158,7 @@ shopping-sidebar-close-button2 =
 ## possible - if these terms are not meaningfully different - that is OK.
 
 shopping-unanalyzed-product-header-2 = Non ci sono ancora informazioni su queste recensioni
-shopping-unanalyzed-product-message-2 = Per sapere se le recensioni di questo prodotto sono affidabili, verificane la qualità. Ci vogliono solo circa 60 secondi.
+shopping-unanalyzed-product-message-2 = Per sapere se le recensioni di questo prodotto sono attendibili, verificane la qualità. Ci vogliono solo circa 60 secondi.
 shopping-unanalyzed-product-analyze-button = Verifica qualità recensioni
 
 ## Strings for the advertisement
@@ -204,11 +204,11 @@ shopping-survey-opted-out-other = Altro
 ## access the feature.
 
 shopping-callout-closed-opted-in-subtitle = Torna a <strong>Verifica recensioni</strong> quando vedi l’icona con il cartellino del prezzo.
-shopping-callout-pdp-opted-in-title = Queste recensioni sono affidabili? Scoprilo velocemente.
-shopping-callout-pdp-opted-in-subtitle = Apri Verifica recensioni per visualizzare la valutazione rettificata dopo aver rimosso le recensioni inaffidabili. Inoltre, scopri i punti salienti estratti da recensioni autentiche inserite di recente.
-shopping-callout-closed-not-opted-in-title = Recensioni affidabili in un clic
+shopping-callout-pdp-opted-in-title = Queste recensioni sono attendibili? Scoprilo velocemente.
+shopping-callout-pdp-opted-in-subtitle = Apri Verifica recensioni per visualizzare la valutazione rettificata dopo aver rimosso le recensioni non attendibili. Inoltre, scopri i punti salienti estratti da recensioni autentiche inserite di recente.
+shopping-callout-closed-not-opted-in-title = Recensioni attendibili in un clic
 shopping-callout-closed-not-opted-in-subtitle = Prova Verifica recensioni ogni volta che vedi l’icona con il cartellino del prezzo. Ottieni rapidamente informazioni dettagliate da veri acquirenti, prima di acquistare.
-shopping-callout-closed-not-opted-in-revised-title = Recensioni affidabili in un solo clic
+shopping-callout-closed-not-opted-in-revised-title = Recensioni attendibili in un solo clic
 shopping-callout-closed-not-opted-in-revised-subtitle = Fai clic sull’icona con il cartellino del prezzo nella barra degli indirizzi per tornare a Verifica recensioni.
 shopping-callout-closed-not-opted-in-revised-button = OK
 shopping-callout-not-opted-in-reminder-title = Acquista con fiducia
@@ -217,9 +217,9 @@ shopping-callout-not-opted-in-reminder-open-button = Apri Verifica recensioni
 shopping-callout-not-opted-in-reminder-close-button = Chiudi
 shopping-callout-not-opted-in-reminder-ignore-checkbox = Non mostrare di nuovo
 shopping-callout-not-opted-in-reminder-img-alt =
-    .aria-label = Illustrazione astratta di tre recensioni di prodotti. Una presenta un simbolo di avviso per indicare che non si tratta di una recensione affidabile.
+    .aria-label = Illustrazione astratta di tre recensioni di prodotti. Una presenta un simbolo di avviso per indicare che non si tratta di una recensione attendibile.
 shopping-callout-disabled-auto-open-title = Verifica recensioni è ora chiusa per impostazione predefinita
-shopping-callout-disabled-auto-open-subtitle = Fai clic sull’icona con il cartellino del prezzo nella barra degli indirizzi ogni volta che vuoi verificare l’affidabilità delle recensioni di un prodotto.
+shopping-callout-disabled-auto-open-subtitle = Fai clic sull’icona con il cartellino del prezzo nella barra degli indirizzi ogni volta che vuoi verificare l’attendibilità delle recensioni di un prodotto.
 shopping-callout-disabled-auto-open-button = OK
 shopping-callout-opted-out-title = Verifica recensioni è disattivata
 shopping-callout-opted-out-subtitle = Per riattivarla, fai clic sull’icona con il cartellino del prezzo nella barra degli indirizzi e segui le indicazioni.
@@ -233,11 +233,11 @@ shopping-onboarding-headline = Prova la nostra guida alle recensioni di prodotti
 #   $currentSite (str) - The current shopping page name
 #   $secondSite (str) - A second shopping page name
 #   $thirdSite (str) - A third shopping page name
-shopping-onboarding-dynamic-subtitle-1 = Scopri quanto sono affidabili le recensioni dei prodotti su <b>{ $currentSite }</b> prima di acquistarli. Verifica recensioni, una funzione sperimentale di { -brand-product-name }, è integrata direttamente nel browser. Funziona anche su <b>{ $secondSite }</b> e <b>{ $thirdSite }</b>.
+shopping-onboarding-dynamic-subtitle-1 = Scopri quanto sono attendibili le recensioni dei prodotti su <b>{ $currentSite }</b> prima di acquistarli. Verifica recensioni, una funzione sperimentale di { -brand-product-name }, è integrata direttamente nel browser. Funziona anche su <b>{ $secondSite }</b> e <b>{ $thirdSite }</b>.
 # Subtitle for countries where we only support one shopping website (e.g. currently used in FR/DE with Amazon)
 # Variables:
 #   $currentSite (str) - The current shopping page name
-shopping-onboarding-single-subtitle = Scopri quanto sono affidabili le recensioni dei prodotti su <b>{ $currentSite }</b> prima di acquistarli. Verifica recensioni, una funzione sperimentale di { -brand-product-name }, è integrata direttamente nel browser.
+shopping-onboarding-single-subtitle = Scopri quanto sono attendibili le recensioni dei prodotti su <b>{ $currentSite }</b> prima di acquistarli. Verifica recensioni, una funzione sperimentale di { -brand-product-name }, è integrata direttamente nel browser.
 shopping-onboarding-body = Utilizzando la tecnologia di { -fakespot-brand-full-name }, ti aiutiamo a evitare recensioni di parte e non autentiche. Il nostro modello di intelligenza artificiale migliora costantemente per proteggerti mentre fai acquisti. <a data-l10n-name="learn_more">Ulteriori informazioni</a>
 shopping-onboarding-opt-in-privacy-policy-and-terms-of-use3 = Selezionando “{ shopping-onboarding-opt-in-button }” accetti l’<a data-l10n-name="privacy_policy">informativa sulla privacy</a> di { -brand-product-name } e le <a data-l10n-name="terms_of_use">condizioni di utilizzo del servizio</a> di { -fakespot-brand-name }.
 shopping-onboarding-opt-in-button = Sì, provala
@@ -261,13 +261,13 @@ shopping-opt-in-integrated-headline = Acquista con fiducia
 #   $firstSite (String) - The first shopping page name
 #   $secondSite (String) - The second shopping page name
 #   $thirdSite (String) - The third shopping page name
-shopping-opt-in-integrated-subtitle = Attiva Verifica recensioni in { -brand-product-name } per valutare l’affidabilità delle recensioni sui prodotti prima di acquistarli. Questa funzione sfrutta la tecnologia IA per analizzare le recensioni ed è attiva quando fai acquisti su { $firstSite }, { $secondSite } e { $thirdSite }. <a data-l10n-name="learn_more">Ulteriori informazioni</a>
+shopping-opt-in-integrated-subtitle = Attiva Verifica recensioni in { -brand-product-name } per valutare l’attendibilità delle recensioni sui prodotti prima di acquistarli. Questa funzione sfrutta la tecnologia IA per analizzare le recensioni ed è attiva quando fai acquisti su { $firstSite }, { $secondSite } e { $thirdSite }. <a data-l10n-name="learn_more">Ulteriori informazioni</a>
 # Description text for regions where we support three sites. Sites are limited to Amazon, Walmart and Best Buy.
 # Variables:
 #   $firstSite (String) - The first shopping page name
 #   $secondSite (String) - The second shopping page name
 #   $thirdSite (String) - The third shopping page name
-shopping-opt-in-integrated-subtitle-unsupported-site = Verifica recensioni in { -brand-product-name } ti aiuta a valutare l’affidabilità delle recensioni sui prodotti prima di acquistarli. Questa funzione sfrutta la tecnologia IA per analizzare le recensioni ed è attiva quando fai acquisti su { $firstSite }, { $secondSite } e { $thirdSite }. <a data-l10n-name="learn_more">Ulteriori informazioni</a>
+shopping-opt-in-integrated-subtitle-unsupported-site = Verifica recensioni in { -brand-product-name } ti aiuta a valutare l’attendibilità delle recensioni sui prodotti prima di acquistarli. Questa funzione sfrutta la tecnologia IA per analizzare le recensioni ed è attiva quando fai acquisti su { $firstSite }, { $secondSite } e { $thirdSite }. <a data-l10n-name="learn_more">Ulteriori informazioni</a>
 
 ## Messages for callout for users not opted into the sidebar integrated version of Review Checker.
 
@@ -283,7 +283,7 @@ shopping-opt-in-integrated-button = Prova Verifica recensioni
 ## Message strings for Review Checker's empty states.
 
 shopping-empty-state-header = Pronto per controllare le recensioni
-shopping-empty-state-supported-site = Visualizza un prodotto e { -brand-product-name } verificherà se le recensioni sono affidabili.
+shopping-empty-state-supported-site = Visualizza un prodotto e { -brand-product-name } verificherà se le recensioni sono attendibili.
 # We show a list of sites supported by Review Checker whenever a user opens the feature in an unsupported site.
 # This string will be displayed above the list of sites. The list will be hardcoded and does not require localization.
 shopping-empty-state-non-supported-site = Verifica recensioni funziona quando acquisti su:

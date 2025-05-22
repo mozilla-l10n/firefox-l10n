@@ -12,13 +12,13 @@
 
 webext-perms-header = Installare { $extension }?
 webext-perms-header-with-perms = Aggiungere { $extension }? Questa estensione avrà il permesso di:
-webext-perms-header-unsigned = Aggiungere { $extension }? Questa estensione non è verificata. Un’estensione realizzata con intento doloso è in grado di sottrarre informazioni personali o compromettere l’intero computer. Installarla solo se si ritiene la fonte affidabile.
-webext-perms-header-unsigned-with-perms = Aggiungere { $extension }? Questa estensione non è verificata. Un’estensione realizzata con intento doloso è in grado di sottrarre informazioni personali o compromettere l’intero computer. Installarla solo se si ritiene la fonte affidabile. Questa estensione avrà il permesso di:
+webext-perms-header-unsigned = Aggiungere { $extension }? Questa estensione non è verificata. Un’estensione realizzata con intento doloso è in grado di sottrarre informazioni personali o compromettere l’intero computer. Installarla solo se si ritiene la fonte attendibile.
+webext-perms-header-unsigned-with-perms = Aggiungere { $extension }? Questa estensione non è verificata. Un’estensione realizzata con intento doloso è in grado di sottrarre informazioni personali o compromettere l’intero computer. Installarla solo se si ritiene la fonte attendibile. Questa estensione avrà il permesso di:
 webext-perms-sideload-header = { $extension } è stato installato
 webext-perms-optional-perms-header2 = Sono richiesti dei permessi aggiuntivi per { $extension }
 webext-perms-optional-perms-header = Sono richiesti dei permessi aggiuntivi per { $extension }.
 webext-perms-header2 = Aggiungi { $extension }
-webext-perms-list-intro-unsigned = Questa estensione non verificata potrebbe mettere a rischio la tua privacy o compromettere il tuo dispositivo. Installarla solo se si ritiene la fonte affidabile.
+webext-perms-list-intro-unsigned = Questa estensione non verificata potrebbe mettere a rischio la tua privacy o compromettere il tuo dispositivo. Installarla solo se si ritiene la fonte attendibile.
 
 ## Headers used in the webextension permissions dialog, inside the content.
 
@@ -152,7 +152,7 @@ webext-site-perms-description-gated-perms-midi =
 ##   $hostname (String): will be replaced by the DNS host name for which a webextension enables permissions.
 
 webext-site-perms-header-with-perms = Aggiungere { $extension }? Questa estensione consente a { $hostname } di utilizzare le seguenti funzionalità:
-webext-site-perms-header-unsigned-with-perms = Aggiungere { $extension }? Questa estensione non è verificata. Un’estensione realizzata con intento doloso è in grado di sottrarre informazioni personali o compromettere l’intero computer. Installarla solo se si ritiene la fonte affidabile. Questa estensione consente a { $hostname } di utilizzare le seguenti funzionalità:
+webext-site-perms-header-unsigned-with-perms = Aggiungere { $extension }? Questa estensione non è verificata. Un’estensione realizzata con intento doloso è in grado di sottrarre informazioni personali o compromettere l’intero computer. Installarla solo se si ritiene la fonte attendibile. Questa estensione consente a { $hostname } di utilizzare le seguenti funzionalità:
 
 ## These should remain in sync with permissions.NAME.label in sitePermissions.properties
 

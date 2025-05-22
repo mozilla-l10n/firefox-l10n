@@ -8,12 +8,12 @@ xpinstall-prompt = { -brand-short-name } ha impedito a questo sito di richiedere
 ##   $host (String): The hostname of the site the add-on is being installed from.
 
 xpinstall-prompt-header = Consentire a { $host } di installare un componente aggiuntivo?
-xpinstall-prompt-message = Si sta cercando di installare un componente aggiuntivo da { $host }. Assicurarsi che il sito sia affidabile prima di proseguire.
+xpinstall-prompt-message = Si sta cercando di installare un componente aggiuntivo da { $host }. Assicurarsi che il sito sia attendibile prima di proseguire.
 
 ##
 
 xpinstall-prompt-header-unknown = Consentire a questo sito sconosciuto di installare un componente aggiuntivo?
-xpinstall-prompt-message-unknown = Si sta cercando di installare un componente aggiuntivo da un sito sconosciuto. Assicurarsi che il sito sia affidabile prima di proseguire.
+xpinstall-prompt-message-unknown = Si sta cercando di installare un componente aggiuntivo da un sito sconosciuto. Assicurarsi che il sito sia attendibile prima di proseguire.
 xpinstall-prompt-dont-allow =
     .label = Non consentire
     .accesskey = N
@@ -35,7 +35,7 @@ xpinstall-prompt-install =
 # These messages are shown when a website invokes navigator.requestMIDIAccess.
 
 site-permission-install-first-prompt-midi-header = Questo sito sta richiedendo accesso ai tuoi dispositivi MIDI (Musical Instrument Digital Interface). È possibile garantire l’accesso installando un componente aggiuntivo.
-site-permission-install-first-prompt-midi-message = Questo accesso potrebbe non essere completamente sicuro. Procedere solo se si considera il sito affidabile.
+site-permission-install-first-prompt-midi-message = Questo accesso potrebbe non essere completamente sicuro. Procedere solo se si considera il sito attendibile.
 
 ##
 

@@ -37,9 +37,9 @@ webext-perms-description-webNavigation = Accedere all’attività del browser du
 ## The userScripts permission includes an additional explanation that is
 ## displayed prominently near the usual permission description.
 
-webext-perms-extra-warning-userScripts-long = Script non verificati possono comportare rischi per la sicurezza e la privacy, come l’esecuzione di codice dannoso o il tracciamento delle attività sui siti web. Esegui script solo da estensioni o fonti affidabili.
+webext-perms-extra-warning-userScripts-long = Script non verificati possono comportare rischi per la sicurezza e la privacy, come l’esecuzione di codice dannoso o il tracciamento delle attività sui siti web. Esegui script solo da estensioni o fonti attendibili.
 # A shorter warning is displayed in UI surfaces with little room, such as a permission prompt.
-webext-perms-extra-warning-userScripts-short = Script non verificati possono comportare rischi per la sicurezza e la privacy. Esegui script solo da estensioni o fonti affidabili.
+webext-perms-extra-warning-userScripts-short = Script non verificati possono comportare rischi per la sicurezza e la privacy. Esegui script solo da estensioni o fonti attendibili.
 
 ## Short form to be used in lists or in a string (`webext-perms-description-data-some`)
 ## that formats some of the data collection permissions below using `Intl.ListFormat`.

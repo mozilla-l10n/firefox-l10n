@@ -183,8 +183,8 @@ webrtc-allow-share-screen-and-audio-capture-unsafe-delegation = Consentire a { $
 
 ##
 
-webrtc-share-screen-warning = Condividere lo schermo solo con siti affidabili. La condivisione può consentire a siti ingannevoli di navigare impersonando l’utente e sottrarne i dati personali.
-webrtc-share-browser-warning = Condividere { -brand-short-name } solo con siti affidabili. La condivisione può consentire a siti ingannevoli di navigare impersonando l’utente e sottrarne i dati personali.
+webrtc-share-screen-warning = Condividere lo schermo solo con siti attendibili. La condivisione può consentire a siti ingannevoli di navigare impersonando l’utente e sottrarne i dati personali.
+webrtc-share-browser-warning = Condividere { -brand-short-name } solo con siti attendibili. La condivisione può consentire a siti ingannevoli di navigare impersonando l’utente e sottrarne i dati personali.
 webrtc-share-screen-learn-more = Ulteriori informazioni
 webrtc-pick-window-or-screen = Scegli finestra o schermo
 webrtc-share-entire-screen = Schermo intero

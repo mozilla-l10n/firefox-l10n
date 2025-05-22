@@ -117,6 +117,22 @@ fp-learn-more-about-time-related-errors = Scopri di più sulla risoluzione dei p
 ## Variables:
 ##   $hostname (string) - Hostname of the website with cert error.
 
+cert-error-revoked-certificate = { -brand-short-name } ha bloccato la tua visita a questo sito in quanto il certificato fornito per { $hostname } è stato revocato e non è più attendibile.
+cert-error-bad-signature = { -brand-short-name } ha bloccato la tua visita a questo sito in quanto la firma sul certificato fornito per { $hostname } non è valida.
+cert-error-key-pinning-failure = { -brand-short-name } ha bloccato la tua visita a questo sito in quanto il certificato fornito per { $hostname } utilizza una chiave pubblica diversa da quella prevista.
+cert-error-bad-der = { -brand-short-name } ha bloccato la tua visita a questo sito in quanto il certificato fornito per { $hostname } non è codificato correttamente.
+cert-error-cert-not-in-name-space = { -brand-short-name } ha bloccato la tua visita a questo sito in quanto il certificato fornito per { $hostname } non rispetta i vincoli relativi al nome imposti da un certificato che lo ha emesso.
+cert-error-inadequate-cert-type = { -brand-short-name } ha bloccato la tua visita a questo sito in quanto il certificato fornito per { $hostname } non può essere utilizzato da un server web.
+cert-error-path-len-constraint-invalid = { -brand-short-name } ha bloccato la tua visita a questo sito in quanto il certificato fornito per { $hostname } contiene troppi certificati intermedi nel percorso al certificato radice.
+cert-error-invalid-key = { -brand-short-name } ha bloccato la tua visita a questo sito in quanto il certificato fornito per { $hostname } contiene una chiave non valida. Molto probabilmente è troppo piccola per essere sicura.
+cert-error-unknown-critical-extension = { -brand-short-name } ha bloccato la tua visita a questo sito in quanto il certificato fornito per { $hostname } contiene un’estensione critica non supportata.
+cert-error-extension-value-invalid = { -brand-short-name } ha bloccato la tua visita a questo sito in quanto il certificato fornito per { $hostname } contiene un’estensione non valida.
+cert-error-untrusted-issuer = { -brand-short-name } ha bloccato la tua visita a questo sito in quanto il certificato fornito per { $hostname } è stato emesso da un’autorità di certificazione non più attendibile.
+cert-error-untrusted-cert = { -brand-short-name } ha bloccato la tua visita a questo sito in quanto il certificato fornito per { $hostname } è contrassegnato come non attendibile.
+cert-error-invalid-integer-encoding = { -brand-short-name } ha bloccato la tua visita a questo sito in quanto il certificato fornito per { $hostname } contiene una codifica non valida di un numero intero. Le cause più comuni includono numeri di serie negativi, moduli RSA negativi e codifiche più lunghe del necessario.
+cert-error-unsupported-keyalg = { -brand-short-name } ha bloccato la tua visita a questo sito in quanto il certificato fornito per { $hostname } ha un tipo di chiave non supportato.
+cert-error-issuer-no-longer-trusted = { -brand-short-name } ha bloccato la tua visita a questo sito in quanto l’autorità di certificazione che ha emesso il certificato fornito per { $hostname } non è più attendibile.
+cert-error-signature-algorithm-mismatch = { -brand-short-name } ha bloccato la tua visita a questo sito in quanto l’algoritmo di firma del certificato fornito per { $hostname } non corrisponde al campo del certificato relativo all’algoritmo di firma.
 
 ## Messages used for certificate error titles
 

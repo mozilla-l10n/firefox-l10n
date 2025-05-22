@@ -122,7 +122,7 @@ certerror-expired-cert-intro = { -brand-short-name } ha rilevato un problema e i
 # Variables:
 # $hostname (String) - Hostname of the website to which the user was trying to connect.
 # $mitm (String) - The name of the software intercepting communications between you and the website (or “man in the middle”)
-certerror-mitm = <b>{ $hostname }</b> è probabilmente un sito affidabile, ma non è stato possibile stabilire una connessione sicura. Questo problema è causato da <b>{ $mitm }</b>, un software installato sul computer o sulla rete.
+certerror-mitm = <b>{ $hostname }</b> è probabilmente un sito attendibile, ma non è stato possibile stabilire una connessione sicura. Questo problema è causato da <b>{ $mitm }</b>, un software installato sul computer o sulla rete.
 neterror-corrupted-content-intro = La pagina richiesta non può essere visualizzata a causa di un errore rilevato durante la trasmissione dei dati.
 neterror-corrupted-content-contact-website = Contattare il proprietario del sito web e segnalare il problema.
 # Do not translate "SSL_ERROR_UNSUPPORTED_VERSION".

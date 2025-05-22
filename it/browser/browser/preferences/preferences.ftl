@@ -721,6 +721,9 @@ search-remove-engine =
 search-add-engine =
     .label = Aggiungi
     .accesskey = A
+search-edit-engine =
+    .label = Modifica
+    .accesskey = M
 search-find-more-link = Trova altri motori di ricerca
 # This warning is displayed when the chosen keyword is already in use
 # ('Duplicate' is an adjective)
@@ -729,6 +732,10 @@ search-keyword-warning-title = Parola chiave duplicata
 #   $name (string) - Name of a search engine.
 search-keyword-warning-engine = La parola chiave scelta è già utilizzata da “{ $name }”. Selezionarne una diversa.
 search-keyword-warning-bookmark = La parola chiave scelta è già utilizzata da un segnalibro. Selezionarne una diversa.
+# This warning is displayed when the chosen name is already in use.
+# Variables:
+#   $name (string) - Name of a search engine.
+edit-engine-name-warning-duplicate = Esiste già un motore di ricerca con il nome “{ $name }”. Scegli un altro nome.
 remove-engine-confirmation = Rimuovere questo motore di ricerca?
 remove-engine-remove = Rimuovi
 remove-addon-engine-alert = Per rimuovere questo motore di ricerca rimuovi il componente aggiuntivo associato.
@@ -1454,7 +1461,7 @@ certs-devices =
     .label = Dispositivi di sicurezza…
     .accesskey = D
 certs-thirdparty-toggle =
-    .label = Considera automaticamente affidabili i certificati radice installati dall’utente in { -brand-short-name }
+    .label = Considera automaticamente attendibili i certificati radice installati dall’utente in { -brand-short-name }
     .accesskey = t
 space-alert-over-5gb-settings-button =
     .label = Apri impostazioni
