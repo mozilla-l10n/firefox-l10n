@@ -29,3 +29,5 @@ confirmation-hint-duplicate-tabs-closed =
         [one] { $tabCount } ljepblêd sluten
        *[other] { $tabCount } ljepblêden sluten
     }
+# Subtle notification shown when Extensions button moves into the application menu.
+confirmation-hint-extensions-button-hidden = Ferpleatst nei menu

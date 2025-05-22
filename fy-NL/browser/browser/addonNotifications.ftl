@@ -81,6 +81,8 @@ addon-removal-title = { $name } fuortsmite?
 addon-removal-message = { $name } út { -brand-shorter-name } fuortsmite?
 addon-removal-button = Fuortsmite
 addon-removal-abuse-report-checkbox = Dizze útwreiding rapportearje oan { -vendor-short-name }
+# "it" refers to the local AI model that is paired to the AI feature
+addon-mlmodel-removal-body = As jo de funksjes of útwreidingen brûke dy’t dit model brûke, wurdt it opnij tafoege.
 # Variables:
 #   $addonCount (Number): the number of add-ons being downloaded
 addon-downloading-and-verifying =

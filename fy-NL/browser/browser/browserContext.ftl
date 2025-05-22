@@ -162,6 +162,9 @@ main-context-menu-copy-phone =
 main-context-menu-copy-link-simple =
     .label = Keppeling kopiearje
     .accesskey = K
+main-context-menu-preview-link =
+    .label = Foarbyld fan keppeling
+    .accesskey = r
 # "Copy Clean Link" means that Firefox will remove things from the link you
 # copied, like items that identify you for advertising purposes, and other items
 # sites add into URLs to help them deliver a certain browsing experience.

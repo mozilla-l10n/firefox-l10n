@@ -60,6 +60,10 @@ toolbar-context-menu-auto-hide-downloads-button-2 =
 toolbar-context-menu-always-open-downloads-panel =
     .label = Paniel toane wannear’t it downloaden begjint
     .accesskey = t
+# Label of checkbox menu item to toggle visibility of Extensions Button.
+toolbar-context-menu-always-show-extensions-button =
+    .label = Altyd yn arkbalke toane
+    .accesskey = A
 toolbar-context-menu-remove-from-toolbar =
     .label = Fuortsmite fan arkbalke
     .accesskey = r

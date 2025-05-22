@@ -515,6 +515,8 @@ performance-default-content-process-count =
 ## General Section - Browsing
 
 browsing-title = Navigearje
+browsing-group-label =
+    .aria-label = Navigearje
 browsing-use-autoscroll =
     .label = Automatysk skowe brûke
     .accesskey = m

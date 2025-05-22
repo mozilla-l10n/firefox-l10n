@@ -567,6 +567,15 @@ addon-permissions-required-data-collection = Fereaske gegevenssammeling:
 addon-permissions-optional-data-collection = Opsjonele gegevenssammeling:
 # Name of the Permissions tab in `about:addons` when the data collection feature is enabled.
 permissions-data-addon-button = Tastimmingen en gegevens
+# This is a description for extension that use this AI model
+# Variables:
+#   $extensionName (String) - Name of the extension
+mlmodel-extension-label = Brûkt troch de útwreiding { $extensionName }
 
 ## Mapping Engine IDs from AI models to how that feature represented by the engine Id is described in the used by section in local model management
 
+mlmodel-about-inference = { -brand-short-name } brûkt dit op about:inference
+mlmodel-link-preview = { -brand-short-name } brûkt dit om wichtige punten te generearjen as jo foarbylden fan keppelingen besjogge
+mlmodel-pdfjs = { -brand-short-name } brûkt dit om alt-tekst te meitsjen foar ôfbyldingen dy’t jo oan PDF’s tafoegje
+mlmodel-smart-tab-topic-engine = { -brand-short-name } brûkt dit om nammen foar jo ljepblêdgroepen foar te stellen
+mlmodel-smart-tab-embedding-engine = { -brand-short-name } brûkt dit om ljepblêden foar jo ljepblêdgroepen foar te stellen
