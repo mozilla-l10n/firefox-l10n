@@ -543,6 +543,13 @@ addon-permissions-required-data-collection = 必需收集的資料：
 addon-permissions-optional-data-collection = 選擇性收集的資料：
 # Name of the Permissions tab in `about:addons` when the data collection feature is enabled.
 permissions-data-addon-button = 權限與資料
+# This is a description for extension that use this AI model
+# Variables:
+#   $extensionName (String) - Name of the extension
+mlmodel-extension-label = 擴充套件 { $extensionName } 使用
 
 ## Mapping Engine IDs from AI models to how that feature represented by the engine Id is described in the used by section in local model management
 
+mlmodel-about-inference = { -brand-short-name } 在 about:inference 使用此功能
+mlmodel-link-preview = { -brand-short-name } 使用此功能，在預覽鏈結時產生重點資訊
+mlmodel-pdfjs = { -brand-short-name } 使用此功能，為您新增到 PDF 檔案的圖片產生替代文字

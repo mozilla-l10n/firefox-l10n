@@ -503,6 +503,8 @@ performance-default-content-process-count =
 ## General Section - Browsing
 
 browsing-title = 瀏覽
+browsing-group-label =
+    .aria-label = 瀏覽
 browsing-use-autoscroll =
     .label = 使用自動捲動
     .accesskey = a

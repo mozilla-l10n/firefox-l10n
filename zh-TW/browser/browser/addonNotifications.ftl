@@ -81,6 +81,8 @@ addon-removal-title = 要移除 { $name } 嗎？
 addon-removal-message = 要從 { -brand-shorter-name } 移除 { $name } 嗎？
 addon-removal-button = 移除
 addon-removal-abuse-report-checkbox = 回報此擴充套件給 { -vendor-short-name }
+# "it" refers to the local AI model that is paired to the AI feature
+addon-mlmodel-removal-body = 若您用到會使用此模型的功能或擴充套件，將會重新安裝此模型。
 # Variables:
 #   $addonCount (Number): the number of add-ons being downloaded
 addon-downloading-and-verifying = 正在下載與驗證 { $addonCount } 套附加元件…
