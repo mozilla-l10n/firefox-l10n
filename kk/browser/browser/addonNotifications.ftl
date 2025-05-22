@@ -81,6 +81,8 @@ addon-removal-title = { $name } өшіру керек пе?
 addon-removal-message = { -brand-shorter-name } ішінен { $name } өшіру керек пе?
 addon-removal-button = Өшіру
 addon-removal-abuse-report-checkbox = Бұл кеңейту туралы { -vendor-short-name } адресіне шағым жасау
+# "it" refers to the local AI model that is paired to the AI feature
+addon-mlmodel-removal-body = Осы үлгіні пайдаланатын мүмкіндіктерді немесе кеңейтулерді пайдалансаңыз, ол қайта қосылады.
 # Variables:
 #   $addonCount (Number): the number of add-ons being downloaded
 addon-downloading-and-verifying =
