@@ -561,6 +561,15 @@ addon-permissions-required-data-collection = Trjebne gromaźenje datow:
 addon-permissions-optional-data-collection = Opcionalne gromaźenje datow:
 # Name of the Permissions tab in `about:addons` when the data collection feature is enabled.
 permissions-data-addon-button = Pšawa a daty
+# This is a description for extension that use this AI model
+# Variables:
+#   $extensionName (String) - Name of the extension
+mlmodel-extension-label = Pśez rozšyrjenje { $extensionName } wužyty
 
 ## Mapping Engine IDs from AI models to how that feature represented by the engine Id is described in the used by section in local model management
 
+mlmodel-about-inference = { -brand-short-name } to w about:inference wužywa
+mlmodel-link-preview = { -brand-short-name } to wužywa, aby klucowe dypki generěrował, gaž se pśeglěd wótkazow woglědujośo
+mlmodel-pdfjs = { -brand-short-name } to wužywa, aby alternatiwny tekst za wobraze napórał, kótarež datajam PDF pśidawaśo
+mlmodel-smart-tab-topic-engine = { -brand-short-name } to wužywa, aby mě za waše kupki rejtarikow naraźił
+mlmodel-smart-tab-embedding-engine = { -brand-short-name } to wužywa, aby rejtariki za waše kupki rejtarikow naraźił

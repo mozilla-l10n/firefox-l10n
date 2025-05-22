@@ -531,6 +531,11 @@ newtab-custom-wallpaper-cta = Prófaðu það
 
 ## Strings for download mobile highlight
 
+newtab-download-mobile-highlight-title = Sækja { -brand-product-name } fyrir farsíma
+newtab-download-mobile-highlight-body-variant-b = Taktu upp þráðinn þar sem frá var horfið þegar þú samstillir flipa, lykilorð og fleira.
+newtab-download-mobile-highlight-body-variant-c = Vissir þú að þú getur tekið { -brand-product-name } með þér hvert sem er? Sami vafrinn, í vasanum þínum.
+newtab-download-mobile-highlight-image =
+    .aria-label = QR-kóði til að sækja { -brand-product-name } fyrir farsíma
 
 ## Strings for reporting ads and content
 

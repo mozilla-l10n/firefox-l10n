@@ -569,5 +569,7 @@ mlmodel-extension-label = Přez rozšěrjenje { $extensionName } wužiwany
 ## Mapping Engine IDs from AI models to how that feature represented by the engine Id is described in the used by section in local model management
 
 mlmodel-about-inference = { -brand-short-name } to w about:inference wužiwa
+mlmodel-link-preview = { -brand-short-name } to wužiwa, zo by klučowe dypki generěrował, hdyž sej přehlad wotkazow wobhladujeće
+mlmodel-pdfjs = { -brand-short-name } to wužiwa, zo by alternatiwny tekst za wobrazy wutworił, kotrež datajam PDF přidawaće
 mlmodel-smart-tab-topic-engine = { -brand-short-name } to wužiwa, zo by mjeno za waše skupiny rajtarkow namjetował
 mlmodel-smart-tab-embedding-engine = { -brand-short-name } to wužiwa, zo by rajtarki za waše skupiny rajtarkow namjetował

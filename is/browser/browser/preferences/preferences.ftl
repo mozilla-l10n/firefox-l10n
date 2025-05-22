@@ -276,6 +276,7 @@ preferences-web-appearance-override-warning2 =
 # to adapt to your language, but should not be changed.
 preferences-web-appearance-footer = Sýslaðu með { -brand-short-name } þemu í <a data-l10n-name="themes-link">Forritsaukar og þemu</a>
 preferences-contrast-control-header = Stýring birtuskila
+preferences-contrast-control-description = Vefsvæði eru hafa fjölbreytta forgrunns- og bakgrunnsliti. Stilltu { -brand-short-name } til að nota sömu liti á öllum vefsvæðum til að bæta læsileika þeirra.
 preferences-contrast-control-use-platform-settings =
     .label = Sjálfvirkt (nota kerfisstillingar)
     .accesskey = a
@@ -514,6 +515,8 @@ performance-default-content-process-count =
 ## General Section - Browsing
 
 browsing-title = Leit
+browsing-group-label =
+    .aria-label = Vafur
 browsing-use-autoscroll =
     .label = Nota sjálfvirkt skrun
     .accesskey = o
@@ -648,6 +651,8 @@ home-prefs-weather-header =
     .label = Veður
 home-prefs-weather-description = Spá dagsins í hnotskurn
 home-prefs-weather-learn-more-link = Kanna nánar
+home-prefs-mission-message = Styrktaraðilar okkar styðja markmið okkar að byggja upp betri vef
+home-prefs-mission-message-learn-more-link = Finndu út hvernig
 # Variables:
 #   $num (number) - Number of rows displayed
 home-prefs-sections-rows-option =
@@ -726,6 +731,7 @@ search-keyword-warning-engine = Þú hefur valið stikkorð sem er þegar í not
 search-keyword-warning-bookmark = Þú hefur valið stikkorð sem er þegar í notkun af bókamerki. Veldu eitthvað annað.
 remove-engine-confirmation = Ertu viss um að þú viljir fjarlægja þessa leitarvél?
 remove-engine-remove = Fjarlægja
+remove-addon-engine-alert = Til að fjarlægja þessa leitarvél skaltu fjarlægja tilheyrandi viðbót.
 
 ## Containers Section
 
@@ -1145,6 +1151,8 @@ addressbar-header = Veffangastika
 addressbar-suggest = Þegar veffangastikan er notuð skal stinga upp á
 # When Firefox Suggest is enabled, this replaces `addressbar-header`.
 addressbar-header-firefox-suggest = Vistfangastika — { -firefox-suggest-brand-name }
+# When Firefox Suggest is enabled, this replaces `addressbar-suggest`.
+addressbar-suggest-firefox-suggest = Veldu þá tegund tillagna sem birtast í veffangastikunni.
 # When Firefox Suggest is enabled, a "Learn more" link appears at the end of
 # `addressbar-suggest-firefox-suggest`.
 addressbar-locbar-firefox-suggest-learn-more = Kanna nánar

@@ -135,6 +135,8 @@ genai-onboarding-lechat-learn = Frekari upplýsingar um Le Chat
 genai-onboarding-select-header = Veldu texta til að sjá tillögur
 genai-onboarding-select-description = Þegar þú velur texta munum við stinga upp á kvaðningum sem þú getur sent til spjallkerfisins. Þú getur líka skrifað í þínar eigin kvaðningar.
 genai-onboarding-select-primary = Byrjaðu að spjalla
+genai-chatbot-contextual-title = Notaðu gervigreindarspjallþjón án þess að skipta um flipa
+genai-chatbot-contextual-button = Veldu spjallkerfi
 
 ## Chatbot onboarding choices
 ## These describe features/capabilities of chatbot providers. These are not buttons/actions.

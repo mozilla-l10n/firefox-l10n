@@ -81,6 +81,8 @@ addon-removal-title = { $name } wótwónoźeś?
 addon-removal-message = { $name } z { -brand-shorter-name } wótwónoźeś?
 addon-removal-button = Wótwónoźeś
 addon-removal-abuse-report-checkbox = { -vendor-short-name } toś to rozšyrjenje k wěsći daś
+# "it" refers to the local AI model that is paired to the AI feature
+addon-mlmodel-removal-body = Jolic funkcije abo rozšyrjenja wužywaśo, kótarež toś ten model wužywaju, se ten znowego pśidawa.
 # Variables:
 #   $addonCount (Number): the number of add-ons being downloaded
 addon-downloading-and-verifying =

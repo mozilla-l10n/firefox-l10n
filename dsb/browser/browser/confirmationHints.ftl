@@ -31,3 +31,5 @@ confirmation-hint-duplicate-tabs-closed =
         [few] { $tabCount } rejtariki zacynjone
        *[other] { $tabCount } rejtarikow zacynjone
     }
+# Subtle notification shown when Extensions button moves into the application menu.
+confirmation-hint-extensions-button-hidden = Do menija pśesunjony
