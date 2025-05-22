@@ -29,3 +29,5 @@ confirmation-hint-duplicate-tabs-closed =
         [one] Claudite { $tabCount } scheda
        *[other] Claudite { $tabCount } schedas
     }
+# Subtle notification shown when Extensions button moves into the application menu.
+confirmation-hint-extensions-button-hidden = Movite al menu

@@ -60,6 +60,10 @@ toolbar-context-menu-auto-hide-downloads-button-2 =
 toolbar-context-menu-always-open-downloads-panel =
     .label = Monstrar le pannello quando initia le discargamento
     .accesskey = M
+# Label of checkbox menu item to toggle visibility of Extensions Button.
+toolbar-context-menu-always-show-extensions-button =
+    .label = Sempre monstrar barras de utensiles
+    .accesskey = S
 toolbar-context-menu-remove-from-toolbar =
     .label = Remover del barra de instrumentos
     .accesskey = R

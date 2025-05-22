@@ -515,6 +515,8 @@ performance-default-content-process-count =
 ## General Section - Browsing
 
 browsing-title = Navigation
+browsing-group-label =
+    .aria-label = Navigar
 browsing-use-autoscroll =
     .label = Usar le rolamento automatic
     .accesskey = a
