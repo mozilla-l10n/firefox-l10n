@@ -518,6 +518,8 @@ performance-default-content-process-count =
 ## General Section - Browsing
 
 browsing-title = Просмотр сети
+browsing-group-label =
+    .aria-label = Просмотр сайтов
 browsing-use-autoscroll =
     .label = Использовать автоматическую прокрутку
     .accesskey = а
