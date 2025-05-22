@@ -553,3 +553,5 @@ mlmodel-extension-label = 擴充套件 { $extensionName } 使用
 mlmodel-about-inference = { -brand-short-name } 在 about:inference 使用此功能
 mlmodel-link-preview = { -brand-short-name } 使用此功能，在預覽鏈結時產生重點資訊
 mlmodel-pdfjs = { -brand-short-name } 使用此功能，為您新增到 PDF 檔案的圖片產生替代文字
+mlmodel-smart-tab-topic-engine = { -brand-short-name } 使用此功能，為您的分頁群組建議名稱
+mlmodel-smart-tab-embedding-engine = { -brand-short-name } 使用此功能，為您的分頁群組建議可加入的分頁
