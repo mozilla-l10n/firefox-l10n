@@ -81,6 +81,8 @@ addon-removal-title = להסיר את { $name }?
 addon-removal-message = להסיר את { $name } מ־{ -brand-shorter-name }?
 addon-removal-button = הסרה
 addon-removal-abuse-report-checkbox = דיווח על הרחבה זו ל־{ -vendor-short-name }
+# "it" refers to the local AI model that is paired to the AI feature
+addon-mlmodel-removal-body = אם יבוצע שימוש בתכונות או בהרחבות המשתמשות במודל זה, הוא יתווסף מחדש.
 # Variables:
 #   $addonCount (Number): the number of add-ons being downloaded
 addon-downloading-and-verifying =

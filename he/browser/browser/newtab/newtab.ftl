@@ -191,6 +191,8 @@ newtab-label-source-read-time =
         [1] ‏{ $source }  · דקה אחת
        *[other] ‏{ $source } · { $timeToRead } דקות
     }
+# This string is used under fixed size ads to indicate sponsored content
+newtab-label-sponsored-fixed = ממומן
 
 ## Section Menu: These strings are displayed in the section context menu and are
 ## meant as a call to action for the given section.

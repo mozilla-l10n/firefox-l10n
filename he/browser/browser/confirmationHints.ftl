@@ -29,3 +29,5 @@ confirmation-hint-duplicate-tabs-closed =
         [one] נסגרה לשונית אחת
        *[other] נסגרו { $tabCount } לשוניות
     }
+# Subtle notification shown when Extensions button moves into the application menu.
+confirmation-hint-extensions-button-hidden = הועבר לתפריט
