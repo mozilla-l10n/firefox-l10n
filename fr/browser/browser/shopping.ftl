@@ -277,9 +277,6 @@ shopping-callout-not-opted-in-integrated-paragraph1 = Activez le vérificateur d
 shopping-callout-not-opted-in-integrated-paragraph2 = En sélectionnant « { shopping-opt-in-integrated-button } », vous acceptez la <a data-l10n-name="privacy_policy">politique de confidentialité</a> de { -brand-product-name } et les <a data-l10n-name="terms_of_use">conditions d’utilisation</a> de { -fakespot-brand-full-name }.
 shopping-callout-not-opted-in-integrated-reminder-dismiss-button = Ignorer
 shopping-callout-not-opted-in-integrated-reminder-accept-button = Activer le vérificateur d’avis
-shopping-callout-not-opted-in-integrated-reminder-do-not-show = Ne plus afficher cette recommandation
-shopping-callout-not-opted-in-integrated-reminder-show-fewer = Afficher moins de recommandations
-shopping-callout-not-opted-in-integrated-reminder-manage-settings = Gérer les paramètres
 shopping-opt-in-integrated-privacy-policy-and-terms-of-use = Le vérificateur d’avis fonctionne grâce à { -fakespot-brand-full-name }. En sélectionnant « { shopping-opt-in-integrated-button } », vous acceptez la <a data-l10n-name="privacy_policy">politique de confidentialité</a> de { -brand-product-name } et les <a data-l10n-name="terms_of_use">conditions d’utilisation</a> de { -fakespot-brand-name }.
 shopping-opt-in-integrated-button = Essayer le vérificateur d’avis
 

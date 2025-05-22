@@ -312,14 +312,6 @@ addon-options-button =
     .aria-label = More Options
 # Explanatory introduction to the list of recommended add-ons. The action word
 # ("recommends") in the final sentence is a link to external documentation.
-discopane-intro2 =
-    Extensions and themes let you customise { -brand-product-name }. They can boost privacy,
-    enhance productivity, improve media, change the way { -brand-product-name } looks, and
-    so much more. These small software programmes are often developed by a third party. Here’s
-    a selection { -brand-product-name } <a data-l10n-name="learn-more-trigger">recommends</a>
-    for exceptional security, performance, and functionality.
-# Explanatory introduction to the list of recommended add-ons. The action word
-# ("recommends") in the final sentence is a link to external documentation.
 # We hard code "Firefox" because we do not want to imply that a Firefox fork is
 # making this recommendation.
 discopane-intro3 =
@@ -457,8 +449,6 @@ addon-badge-line3 =
 addon-badge-verified2 =
     .title = This extension has been reviewed to meet our standards for security and performance
     .aria-label = { addon-badge-verified2.title }
-addon-badge-recommended3 =
-    .title = { -brand-product-name } only recommends extensions that meet our standards for security and performance
 # We hard code "Mozilla" in the string below because the extensions are built
 # by Mozilla and we don't want forks to display "by Fork".
 addon-badge-line4 =
@@ -470,8 +460,6 @@ addon-badge-line4 =
 # like the words "our" or "we".
 addon-badge-verified4 =
     .title = This extension has been reviewed to meet standards for security and performance
-addon-badge-verified3 =
-    .title = This extension has been reviewed to meet our standards for security and performance
 # This string needs to work in the context of other forks that are not Firefox
 # or built by Mozilla. In particular, we do not want to imply that an
 # organisation other than Mozilla or the Firefox team are making the
@@ -579,3 +567,6 @@ addon-permissions-required-data-collection = Required data collection:
 addon-permissions-optional-data-collection = Optional data collection:
 # Name of the Permissions tab in `about:addons` when the data collection feature is enabled.
 permissions-data-addon-button = Permissions and data
+
+## Mapping Engine IDs from AI models to how that feature represented by the engine Id is described in the used by section in local model management
+

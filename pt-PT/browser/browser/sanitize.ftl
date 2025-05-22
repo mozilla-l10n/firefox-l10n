@@ -60,7 +60,6 @@ item-history-and-downloads =
     .label = Histórico de navegação e de transferências
     .accesskey = H
 item-history-and-downloads-description2 = Limpa o histórico de pesquisas, sites e transferências
-item-history-and-downloads-description = Limpa o histórico de pesquisas, sites e transferências
 item-history-form-data-downloads =
     .label = Histórico
     .accesskey = H

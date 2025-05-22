@@ -1198,10 +1198,6 @@ popup-notification-xpinstall-prompt-block-url = Shihni hollësitë
 popup-notification-addon-privatebrowsing-checkbox2 =
     .label = Lejoje zgjerimin të xhirojë në dritare private
     .accesskey = p
-# Note: Access key is set to P to match "Private" in the corresponding localized label.
-popup-notification-addon-privatebrowsing-checkbox =
-    .label = Xhiroje në Dritare Private
-    .accesskey = P
 
 ## Pop-up warning
 

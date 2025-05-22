@@ -310,14 +310,6 @@ addon-options-button =
     .aria-label = Другие настройки
 # Explanatory introduction to the list of recommended add-ons. The action word
 # ("recommends") in the final sentence is a link to external documentation.
-discopane-intro2 =
-    Расширения и темы позволяют вам настроить { -brand-product-name }. Они могут повысить приватность,
-    повысить производительность, улучшить мультимедиа, изменить внешний вид { -brand-product-name } и
-    ещё много чего. Эти небольшие программы часто разрабатываются сторонними разработчиками. Вот
-    выборка <a data-l10n-name="learn-more-trigger">рекомендуемого</a> { -brand-product-name }
-    для исключительной безопасности, производительности и функциональности.
-# Explanatory introduction to the list of recommended add-ons. The action word
-# ("recommends") in the final sentence is a link to external documentation.
 # We hard code "Firefox" because we do not want to imply that a Firefox fork is
 # making this recommendation.
 discopane-intro3 =
@@ -456,8 +448,6 @@ addon-badge-line3 =
 addon-badge-verified2 =
     .title = Это расширение было проверено на соответствие нашим стандартам безопасности и производительности
     .aria-label = { addon-badge-verified2.title }
-addon-badge-recommended3 =
-    .title = { -brand-product-name } рекомендует только те расширения, которые соответствуют нашим стандартам по безопасности и производительности
 # We hard code "Mozilla" in the string below because the extensions are built
 # by Mozilla and we don't want forks to display "by Fork".
 addon-badge-line4 =
@@ -469,8 +459,6 @@ addon-badge-line4 =
 # like the words "our" or "we".
 addon-badge-verified4 =
     .title = Это расширение было проверено на соответствие стандартам безопасности и производительности
-addon-badge-verified3 =
-    .title = Это расширение было проверено на соответствие нашим стандартам безопасности и производительности
 # This string needs to work in the context of other forks that are not Firefox
 # or built by Mozilla. In particular, we do not want to imply that an
 # organisation other than Mozilla or the Firefox team are making the
@@ -578,3 +566,6 @@ addon-permissions-required-data-collection = Требуемый сбор дан�
 addon-permissions-optional-data-collection = Необязательный сбор данных:
 # Name of the Permissions tab in `about:addons` when the data collection feature is enabled.
 permissions-data-addon-button = Разрешения и данные
+
+## Mapping Engine IDs from AI models to how that feature represented by the engine Id is described in the used by section in local model management
+

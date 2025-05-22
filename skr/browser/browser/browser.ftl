@@ -1108,10 +1108,6 @@ popup-notification-addon-install-unsigned =
     .value = (غیر تصدیق شدہ)
 popup-notification-xpinstall-prompt-learn-more = محفوظ طریقے نال ایڈ آنز انسٹال کرݨ بارے مزید سکھو۔
 popup-notification-xpinstall-prompt-block-url = تفصیلاں ݙیکھو
-# Note: Access key is set to P to match "Private" in the corresponding localized label.
-popup-notification-addon-privatebrowsing-checkbox =
-    .label = نجی ونڈوز وِچ چلاؤ
-    .accesskey = P
 
 ## Pop-up warning
 

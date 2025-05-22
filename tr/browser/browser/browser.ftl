@@ -1205,10 +1205,6 @@ popup-notification-addon-privatebrowsing-checkbox2 =
 popup-notification-addon-technical-and-interaction-checkbox =
     .label = Teknik verileri ve etkileşim verilerini uzantı geliştiricisiyle paylaş
     .accesskey = T
-# Note: Access key is set to P to match "Private" in the corresponding localized label.
-popup-notification-addon-privatebrowsing-checkbox =
-    .label = Gizli pencerede çalışabilir
-    .accesskey = G
 
 ## Pop-up warning
 

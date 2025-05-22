@@ -23,10 +23,6 @@ sidebar-history-date-prev-month =
     .heading = { DATETIME($date, month: "long", year: "numeric") }
 sidebar-history-delete =
     .title = Изтриване от историята
-sidebar-history-sort-by-date =
-    .label = Сортиране по дата
-sidebar-history-sort-by-site =
-    .label = Сортиране по страница
 sidebar-history-clear =
     .label = Изчистване на историята
 
@@ -70,8 +66,6 @@ sidebar-context-menu-close-remote-tab =
 
 ## Labels for sidebar history context menu items
 
-sidebar-history-context-menu-delete-page =
-    .label = Изтриване от историята
 
 ## Labels for sidebar menu items.
 

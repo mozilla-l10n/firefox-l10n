@@ -310,14 +310,6 @@ addon-options-button =
     .aria-label = Περισσότερες επιλογές
 # Explanatory introduction to the list of recommended add-ons. The action word
 # ("recommends") in the final sentence is a link to external documentation.
-discopane-intro2 =
-    Οι επεκτάσεις και τα θέματα σάς επιτρέπουν να προσαρμόσετε το { -brand-product-name }. Μπορούν να
-    ενισχύσουν το απόρρητο και την παραγωγικότητα, να βελτιώσουν τα πολυμέσα, να αλλάξουν την εμφάνιση
-    του { -brand-product-name } και πολλά άλλα. Αυτά τα μικρά προγράμματα αναπτύσσονται συνήθως από
-    τρίτους δημιουργούς. Ακολουθεί μια συλλογή από <a data-l10n-name="learn-more-trigger">προτάσεις</a> του { -brand-product-name }
-    για μέγιστη ασφάλεια, παραγωγικότητα και λειτουργικότητα.
-# Explanatory introduction to the list of recommended add-ons. The action word
-# ("recommends") in the final sentence is a link to external documentation.
 # We hard code "Firefox" because we do not want to imply that a Firefox fork is
 # making this recommendation.
 discopane-intro3 =
@@ -456,8 +448,6 @@ addon-badge-line3 =
 addon-badge-verified2 =
     .title = Αυτή η επέκταση έχει ελεγχθεί και πληροί τα πρότυπα ασφαλείας και επιδόσεών μας
     .aria-label = { addon-badge-verified2.title }
-addon-badge-recommended3 =
-    .title = Το { -brand-product-name } προτείνει μόνο επεκτάσεις που πληρούν τα πρότυπα ασφαλείας και επιδόσεών μας
 # We hard code "Mozilla" in the string below because the extensions are built
 # by Mozilla and we don't want forks to display "by Fork".
 addon-badge-line4 =
@@ -469,8 +459,6 @@ addon-badge-line4 =
 # like the words "our" or "we".
 addon-badge-verified4 =
     .title = Αυτή η επέκταση έχει ελεγχθεί και πληροί τα πρότυπα ασφαλείας και επιδόσεων
-addon-badge-verified3 =
-    .title = Αυτή η επέκταση έχει ελεγχθεί και πληροί τα πρότυπα ασφαλείας και επιδόσεών μας
 # This string needs to work in the context of other forks that are not Firefox
 # or built by Mozilla. In particular, we do not want to imply that an
 # organisation other than Mozilla or the Firefox team are making the
@@ -578,3 +566,6 @@ addon-permissions-required-data-collection = Συλλογή υποχρεωτικ
 addon-permissions-optional-data-collection = Συλλογή προαιρετικών δεδομένων:
 # Name of the Permissions tab in `about:addons` when the data collection feature is enabled.
 permissions-data-addon-button = Δικαιώματα και δεδομένα
+
+## Mapping Engine IDs from AI models to how that feature represented by the engine Id is described in the used by section in local model management
+

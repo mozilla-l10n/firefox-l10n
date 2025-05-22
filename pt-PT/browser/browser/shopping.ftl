@@ -277,9 +277,6 @@ shopping-callout-not-opted-in-integrated-paragraph1 = Ative o Verificador de Ava
 shopping-callout-not-opted-in-integrated-paragraph2 = Ao selecionar “{ shopping-opt-in-integrated-button }” concorda com a <a data-l10n-name="privacy_policy">política de privacidade</a> do { -brand-product-name } e os <a data-l10n-name="terms_of_use">termos de utilização</a> de { -fakespot-brand-full-name }.
 shopping-callout-not-opted-in-integrated-reminder-dismiss-button = Dispensar
 shopping-callout-not-opted-in-integrated-reminder-accept-button = Ativar Verificador de Avaliações
-shopping-callout-not-opted-in-integrated-reminder-do-not-show = Não voltar a mostrar esta recomendação
-shopping-callout-not-opted-in-integrated-reminder-show-fewer = Mostrar menos recomendações
-shopping-callout-not-opted-in-integrated-reminder-manage-settings = Gerir definições
 shopping-opt-in-integrated-privacy-policy-and-terms-of-use = O Verificador de Avaliações é suportado por { -fakespot-brand-full-name }. Ao selecionar “{ shopping-opt-in-integrated-button }“ concorda com o <a data-l10n-name="privacy_policy">política de privacidade</a> do { -brand-product-name } e com os <a data-l10n-name="terms_of_use">termos de utilização</a> de { -fakespot-brand-name }.
 shopping-opt-in-integrated-button = Experimentar o Verificador de Avaliações
 

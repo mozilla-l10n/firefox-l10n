@@ -25,10 +25,6 @@ sidebar-history-date-prev-month =
     .heading = { DATETIME($date, month: "long", year: "numeric") }
 sidebar-history-delete =
     .title = Deler ab chronologia
-sidebar-history-sort-by-date =
-    .label = Ordinar per data
-sidebar-history-sort-by-site =
-    .label = Ordinar per sito
 sidebar-history-clear =
     .label = Vacuar le chronologia
 sidebar-history-sort-by-heading = Ordinar per:
@@ -105,8 +101,6 @@ sidebar-context-menu-close-remote-tab =
 
 ## Labels for sidebar history context menu items
 
-sidebar-history-context-menu-delete-page =
-    .label = Deler ab le chronologia
 sidebar-history-context-menu-delete-page-2 =
     .label = Deler pagina de chronologia
 sidebar-history-context-menu-bookmark-page =
@@ -166,8 +160,6 @@ sidebar-menu-history-header =
     .heading = Chronologia
 sidebar-menu-syncedtabs-header =
     .heading = Schedas ab altere apparatos
-sidebar-menu-bookmarks-header =
-    .heading = Marcapaginas
 sidebar-menu-cpm-header =
     .heading = Contrasignos
 sidebar-panel-header-close-button =

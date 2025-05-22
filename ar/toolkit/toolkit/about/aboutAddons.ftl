@@ -290,9 +290,6 @@ find-more-themes = ابحث عن المزيد من السمات
 # used for screen readers.
 addon-options-button =
     .aria-label = خيارات أكثر
-# Explanatory introduction to the list of recommended add-ons. The action word
-# ("recommends") in the final sentence is a link to external documentation.
-discopane-intro2 = تتيح لك الامتدادت والسمات تخصيص { -brand-product-name }. ويمكنها تعزيز الخصوصية، وتعزيز الإنتاجية، وتحسين الوسائط، وتغيير مظهر { -brand-product-name }، وغير ذلك الكثير. غالبًا ما يتم تطوير هذه البرامج الصغيرة بواسطة طرف ثالث. ها هي مختارات<a data-l10n-name="learn-more-trigger">انتقاها</a> { -brand-product-name } لأمن وأداء وتوظيف استثنائي.
 
 ## Add-on actions
 
@@ -426,14 +423,10 @@ addon-badge-line3 =
 addon-badge-verified2 =
     .title = جرت مراجعة هذا الامتداد ليفي بمعاييرنا للأمن والأداء
     .aria-label = { addon-badge-verified2.title }
-addon-badge-recommended3 =
-    .title = يوصي { -brand-product-name } ويقترح فقط الامتدادات التي تلبي معاييرنا للأمان والأداء.
 # We hard code "Mozilla" in the string below because the extensions are built
 # by Mozilla and we don't want forks to display "by Fork".
 addon-badge-line4 =
     .title = الامتدادات الرسمية التي أنشأتها موزيلا. يستوفي معايير الأمن والأداء
-addon-badge-verified3 =
-    .title = جرت مراجعة هذا الامتداد ليفي بمعاييرنا للأمن والأداء
 
 ##
 
@@ -529,4 +522,7 @@ plugins-widevine-description = تتيح هذه الملحقة تشغيل الو�
 
 ## Headings for the Permissions tab in `about:addons` when the data collection
 ## feature is enabled.
+
+
+## Mapping Engine IDs from AI models to how that feature represented by the engine Id is described in the used by section in local model management
 

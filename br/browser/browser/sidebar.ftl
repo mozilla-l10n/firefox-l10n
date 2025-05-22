@@ -51,8 +51,6 @@ sidebar-context-menu-close-remote-tab =
 
 ## Labels for sidebar history context menu items
 
-sidebar-history-context-menu-delete-page =
-    .label = Dilemel eus ar roll istor
 
 ## Labels for sidebar menu items.
 

@@ -277,9 +277,6 @@ shopping-callout-not-opted-in-integrated-paragraph1 = Ative Verifiche recensions
 shopping-callout-not-opted-in-integrated-paragraph2 = Selezionant “{ shopping-opt-in-integrated-button }” tu acetis la <a data-l10n-name="privacy_policy">informative su la riservatece</a> di { -brand-product-name } e lis <a data-l10n-name="terms_of_use">cundizions di utilizazion</a> di { -fakespot-brand-full-name }.
 shopping-callout-not-opted-in-integrated-reminder-dismiss-button = Siere
 shopping-callout-not-opted-in-integrated-reminder-accept-button = Ative Verifiche recensions
-shopping-callout-not-opted-in-integrated-reminder-do-not-show = No sta mostrâ di gnûf cheste racomandazion
-shopping-callout-not-opted-in-integrated-reminder-show-fewer = Mostre mancul racomandazions
-shopping-callout-not-opted-in-integrated-reminder-manage-settings = Gjestìs impostazions
 shopping-opt-in-integrated-privacy-policy-and-terms-of-use = Verifiche recensions e je realizade di { -fakespot-brand-full-name }. Selezionant “{ shopping-opt-in-integrated-button }“ tu acetis la <a data-l10n-name="privacy_policy">informative su la riservatece</a> di { -brand-product-name } e lis <a data-l10n-name="terms_of_use">cundizions di utilizazion</a> di { -fakespot-brand-name }.
 shopping-opt-in-integrated-button = Prove Verifiche recensions
 

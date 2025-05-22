@@ -25,10 +25,6 @@ sidebar-history-date-prev-month =
     .heading = { DATETIME($date, month: "long", year: "numeric") }
 sidebar-history-delete =
     .title = ისტორიიდან ამოშლა
-sidebar-history-sort-by-date =
-    .label = თარიღის მიხედვით
-sidebar-history-sort-by-site =
-    .label = საიტის მიხედვით
 sidebar-history-clear =
     .label = ისტორიის გასუფთავება
 sidebar-history-sort-by-heading = დალაგება:
@@ -105,8 +101,6 @@ sidebar-context-menu-close-remote-tab =
 
 ## Labels for sidebar history context menu items
 
-sidebar-history-context-menu-delete-page =
-    .label = ისტორიიდან ამოშლა
 sidebar-history-context-menu-delete-page-2 =
     .label = გვერდის ისტორიიდან ამოშლა
 sidebar-history-context-menu-bookmark-page =
@@ -166,8 +160,6 @@ sidebar-menu-history-header =
     .heading = ისტორია
 sidebar-menu-syncedtabs-header =
     .heading = ჩანართები სხვა მოწყობილობებიდან
-sidebar-menu-bookmarks-header =
-    .heading = სანიშნები
 sidebar-menu-cpm-header =
     .heading = პაროლები
 sidebar-panel-header-close-button =

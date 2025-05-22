@@ -25,10 +25,6 @@ sidebar-history-date-prev-month =
     .heading = { DATETIME($date, month: "long", year: "numeric") }
 sidebar-history-delete =
     .title = ลบออกจากประวัติ
-sidebar-history-sort-by-date =
-    .label = เรียงตามวันที่
-sidebar-history-sort-by-site =
-    .label = เรียงตามไซต์
 sidebar-history-clear =
     .label = ล้างประวัติ
 sidebar-history-sort-option-date-and-site =
@@ -100,8 +96,6 @@ sidebar-context-menu-close-remote-tab =
 
 ## Labels for sidebar history context menu items
 
-sidebar-history-context-menu-delete-page =
-    .label = ลบออกจากประวัติ
 sidebar-history-context-menu-delete-page-2 =
     .label = ลบหน้าจากประวัติ
 sidebar-history-context-menu-bookmark-page =
@@ -161,8 +155,6 @@ sidebar-menu-history-header =
     .heading = ประวัติ
 sidebar-menu-syncedtabs-header =
     .heading = แท็บจากอุปกรณ์อื่น ๆ
-sidebar-menu-bookmarks-header =
-    .heading = ที่คั่นหน้า
 sidebar-menu-cpm-header =
     .heading = รหัสผ่าน
 sidebar-panel-header-close-button =

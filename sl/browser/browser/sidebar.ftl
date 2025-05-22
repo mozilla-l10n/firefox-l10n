@@ -25,10 +25,6 @@ sidebar-history-date-prev-month =
     .heading = { DATETIME($date, month: "long", year: "numeric") }
 sidebar-history-delete =
     .title = Izbriši iz zgodovine
-sidebar-history-sort-by-date =
-    .label = Razvrsti po datumu
-sidebar-history-sort-by-site =
-    .label = Razvrsti po spletnem mestu
 sidebar-history-clear =
     .label = Počisti zgodovino
 sidebar-history-sort-by-heading = Razvrsti po:
@@ -105,8 +101,6 @@ sidebar-context-menu-close-remote-tab =
 
 ## Labels for sidebar history context menu items
 
-sidebar-history-context-menu-delete-page =
-    .label = Izbriši iz zgodovine
 sidebar-history-context-menu-delete-page-2 =
     .label = Izbriši stran iz zgodovine
 sidebar-history-context-menu-bookmark-page =
@@ -166,8 +160,6 @@ sidebar-menu-history-header =
     .heading = Zgodovina
 sidebar-menu-syncedtabs-header =
     .heading = Zavihki z drugih naprav
-sidebar-menu-bookmarks-header =
-    .heading = Zaznamki
 sidebar-menu-cpm-header =
     .heading = Gesla
 sidebar-panel-header-close-button =

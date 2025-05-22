@@ -23,10 +23,6 @@ sidebar-history-date-prev-month =
     .heading = { DATETIME($date, month: "long", year: "numeric") }
 sidebar-history-delete =
     .title = Ezabatu historiatik
-sidebar-history-sort-by-date =
-    .label = Ordenatu dataren arabera
-sidebar-history-sort-by-site =
-    .label = Ordenatu gunearen arabera
 sidebar-history-clear =
     .label = Garbitu historia
 
@@ -76,8 +72,6 @@ sidebar-context-menu-close-remote-tab =
 
 ## Labels for sidebar history context menu items
 
-sidebar-history-context-menu-delete-page =
-    .label = Ezabatu historiatik
 
 ## Labels for sidebar menu items.
 

@@ -279,9 +279,6 @@ shopping-callout-not-opted-in-integrated-paragraph1 = { -brand-product-name }의
 shopping-callout-not-opted-in-integrated-paragraph2 = “{ shopping-opt-in-integrated-button }”을 선택하면 { -brand-product-name }의 <a data-l10n-name="privacy_policy">개인정보처리방침</a> 및 { -fakespot-brand-full-name }의 <a data-l10n-name="terms_of_use">이용 약관</a>에 동의하게 됩니다.
 shopping-callout-not-opted-in-integrated-reminder-dismiss-button = 닫기
 shopping-callout-not-opted-in-integrated-reminder-accept-button = 리뷰 검사기 켜기
-shopping-callout-not-opted-in-integrated-reminder-do-not-show = 이 추천을 다시 표시 안 함
-shopping-callout-not-opted-in-integrated-reminder-show-fewer = 추천 적게 표시
-shopping-callout-not-opted-in-integrated-reminder-manage-settings = 설정 관리
 shopping-opt-in-integrated-privacy-policy-and-terms-of-use = 리뷰 검사기는 { -fakespot-brand-full-name }에 의해 구동됩니다.  "{ shopping-opt-in-integrated-button }"을 선택하면 { -brand-product-name }의 <a data-l10n-name="privacy_policy">개인정보처리방침</a> 및 { -fakespot-brand-name }의 <a data-l10n-name="terms_of_use">이용 약관</a>에 동의하게 됩니다.
 shopping-opt-in-integrated-button = 리뷰 검사기 사용해보기
 

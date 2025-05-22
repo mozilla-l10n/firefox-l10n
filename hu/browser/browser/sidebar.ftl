@@ -25,10 +25,6 @@ sidebar-history-date-prev-month =
     .heading = { DATETIME($date, month: "long", year: "numeric") }
 sidebar-history-delete =
     .title = Törlés az előzményekből
-sidebar-history-sort-by-date =
-    .label = Rendezés dátum szerint
-sidebar-history-sort-by-site =
-    .label = Rendezés webhely szerint
 sidebar-history-clear =
     .label = Előzmények törlése
 sidebar-history-sort-by-heading = Rendezés szempontja:
@@ -105,8 +101,6 @@ sidebar-context-menu-close-remote-tab =
 
 ## Labels for sidebar history context menu items
 
-sidebar-history-context-menu-delete-page =
-    .label = Törlés az előzményekből
 sidebar-history-context-menu-delete-page-2 =
     .label = Oldal törlése az előzményekből
 sidebar-history-context-menu-bookmark-page =
@@ -166,8 +160,6 @@ sidebar-menu-history-header =
     .heading = Előzmények
 sidebar-menu-syncedtabs-header =
     .heading = Lapok más eszközökről
-sidebar-menu-bookmarks-header =
-    .heading = Könyvjelzők
 sidebar-menu-cpm-header =
     .heading = Jelszavak
 sidebar-panel-header-close-button =

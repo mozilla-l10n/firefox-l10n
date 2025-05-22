@@ -415,14 +415,10 @@ addon-badge-line3 =
 addon-badge-verified2 =
     .title = Aquesta extensió s'ha revisat i compleix els nostres estàndards de seguretat i rendiment
     .aria-label = { addon-badge-verified2.title }
-addon-badge-recommended3 =
-    .title = El { -brand-product-name } només recomana extensions que compleixen els nostres estàndards de seguretat i de rendiment
 # We hard code "Mozilla" in the string below because the extensions are built
 # by Mozilla and we don't want forks to display "by Fork".
 addon-badge-line4 =
     .title = Extensió oficial creada per Mozilla. Compleix els estàndards de seguretat i rendiment.
-addon-badge-verified3 =
-    .title = Aquesta extensió s'ha revisat i compleix els nostres estàndards de seguretat i rendiment
 
 ##
 
@@ -503,4 +499,7 @@ plugins-widevine-description = Aquest complement permet la reproducció de conti
 
 ## Headings for the Permissions tab in `about:addons` when the data collection
 ## feature is enabled.
+
+
+## Mapping Engine IDs from AI models to how that feature represented by the engine Id is described in the used by section in local model management
 

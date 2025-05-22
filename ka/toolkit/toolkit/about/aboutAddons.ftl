@@ -312,12 +312,6 @@ addon-options-button =
     .aria-label = დამატებითი პარამეტრები
 # Explanatory introduction to the list of recommended add-ons. The action word
 # ("recommends") in the final sentence is a link to external documentation.
-discopane-intro2 =
-    გაფართოებებითა და გაფორმებებით შეგიძლიათ მეტად მოირგოთ { -brand-product-name }. საშუალებას გაძლევთ, გააუმჯობესოთ პირადულობა,
-    შედეგიანობა, მასალებით სარგებლობა, შეამკოთ { -brand-product-name } სურვილისამებრ და გააკეთოთ უამრავი რამ. ეს მცირე პროგრამები უმეტესად გარეშე პირების შექმნილია. იხილეთ მათგან საუკეთესო, რომელთაც  <a data-l10n-name="learn-more-trigger">გთავაზობთ</a> { -brand-product-name }
-    მათი გამორჩეულობის გამო უსაფრთხოების, წარმადობისა და შესაძლებლობების კუთხით.
-# Explanatory introduction to the list of recommended add-ons. The action word
-# ("recommends") in the final sentence is a link to external documentation.
 # We hard code "Firefox" because we do not want to imply that a Firefox fork is
 # making this recommendation.
 discopane-intro3 =
@@ -453,8 +447,6 @@ addon-badge-line3 =
 addon-badge-verified2 =
     .title = მოცემული გაფართოება შემოწმებულია და აკმაყოფილებს უსაფრთხოებისა და წარმადობის სათანადო მოთხოვნებს.
     .aria-label = { addon-badge-verified2.title }
-addon-badge-recommended3 =
-    .title = { -brand-product-name } მხოლოდ იმ გაფართოებებს გირჩევთ, რომლებიც აკმაყოფილებს უსაფრთხოებისა და წარმადობის მაღალ მოთხოვნებს.
 # We hard code "Mozilla" in the string below because the extensions are built
 # by Mozilla and we don't want forks to display "by Fork".
 addon-badge-line4 =
@@ -466,8 +458,6 @@ addon-badge-line4 =
 # like the words "our" or "we".
 addon-badge-verified4 =
     .title = მოცემული გაფართოება შემოწმებულია და აკმაყოფილებს უსაფრთხოებისა და წარმადობის სათანადო მოთხოვნებს
-addon-badge-verified3 =
-    .title = მოცემული გაფართოება შემოწმებულია და აკმაყოფილებს უსაფრთხოებისა და წარმადობის სათანადო მოთხოვნებს.
 # This string needs to work in the context of other forks that are not Firefox
 # or built by Mozilla. In particular, we do not want to imply that an
 # organisation other than Mozilla or the Firefox team are making the
@@ -575,3 +565,6 @@ addon-permissions-required-data-collection = მნიშვნელოვა�
 addon-permissions-optional-data-collection = უმნიშვნელო მონაცემთა აღრიცხვა:
 # Name of the Permissions tab in `about:addons` when the data collection feature is enabled.
 permissions-data-addon-button = ნებართვები და მონაცემები
+
+## Mapping Engine IDs from AI models to how that feature represented by the engine Id is described in the used by section in local model management
+

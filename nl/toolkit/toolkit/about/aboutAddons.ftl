@@ -316,14 +316,6 @@ addon-options-button =
     .aria-label = Meer opties
 # Explanatory introduction to the list of recommended add-ons. The action word
 # ("recommends") in the final sentence is a link to external documentation.
-discopane-intro2 =
-    Met extensies en thema’s kunt u { -brand-product-name } aanpassen. Ze kunnen privacy,
-    productiviteit en media verbeteren, het uiterlijk van { -brand-product-name } wijzigen, en
-    zo veel meer. Deze kleine softwareprogramma’s worden vaak door een derde partij ontwikkeld. Dit is
-    een selectie die { -brand-product-name } <a data-l10n-name="learn-more-trigger">aanbeveelt</a>
-    voor uitzonderlijke beveiliging, prestaties en functionaliteit.
-# Explanatory introduction to the list of recommended add-ons. The action word
-# ("recommends") in the final sentence is a link to external documentation.
 # We hard code "Firefox" because we do not want to imply that a Firefox fork is
 # making this recommendation.
 discopane-intro3 =
@@ -461,8 +453,6 @@ addon-badge-line3 =
 addon-badge-verified2 =
     .title = Deze extensie is beoordeeld en voldoet aan onze normen voor beveiliging en prestaties
     .aria-label = { addon-badge-verified2.title }
-addon-badge-recommended3 =
-    .title = { -brand-product-name } beveelt alleen extensies aan die voldoen aan onze normen voor beveiliging en prestaties
 # We hard code "Mozilla" in the string below because the extensions are built
 # by Mozilla and we don't want forks to display "by Fork".
 addon-badge-line4 =
@@ -474,8 +464,6 @@ addon-badge-line4 =
 # like the words "our" or "we".
 addon-badge-verified4 =
     .title = Deze extensie is beoordeeld en voldoet aan normen voor beveiliging en prestaties
-addon-badge-verified3 =
-    .title = Deze extensie is beoordeeld en voldoet aan onze normen voor beveiliging en prestaties
 # This string needs to work in the context of other forks that are not Firefox
 # or built by Mozilla. In particular, we do not want to imply that an
 # organisation other than Mozilla or the Firefox team are making the
@@ -583,3 +571,6 @@ addon-permissions-required-data-collection = Vereiste gegevensverzameling:
 addon-permissions-optional-data-collection = Optionele gegevensverzameling:
 # Name of the Permissions tab in `about:addons` when the data collection feature is enabled.
 permissions-data-addon-button = Toestemmingen en gegevens
+
+## Mapping Engine IDs from AI models to how that feature represented by the engine Id is described in the used by section in local model management
+

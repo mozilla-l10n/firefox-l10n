@@ -277,9 +277,6 @@ shopping-callout-not-opted-in-integrated-paragraph1 = ჩართეთ მი�
 shopping-callout-not-opted-in-integrated-paragraph2 = თუ მზად ხართ აირჩიოთ „{ shopping-opt-in-integrated-button }“, ამით ეთანხმებით <a data-l10n-name="privacy_policy">პირადულობის განაცხადს</a>, რომელსაც ადგენს { -brand-product-name } და <a data-l10n-name="terms_of_use">გამოყენების პირობებს</a>, რომელსაც გთავაზობთ { -fakespot-brand-full-name }.
 shopping-callout-not-opted-in-integrated-reminder-dismiss-button = აცილება
 shopping-callout-not-opted-in-integrated-reminder-accept-button = ჩართეთ მიმოხილვის შემმოწმებელი
-shopping-callout-not-opted-in-integrated-reminder-do-not-show = მომავალში შემოთავაზების გარეშე
-shopping-callout-not-opted-in-integrated-reminder-show-fewer = ნაკლები ამგვარი შემოთავაზებები
-shopping-callout-not-opted-in-integrated-reminder-manage-settings = პარამეტრების მართვა
 shopping-opt-in-integrated-privacy-policy-and-terms-of-use = მიმოხილვების შემმოწმებლის მუშაობას უზრუნველყოფს { -fakespot-brand-full-name }. თუ მზად ხართ აირჩიოთ „{ shopping-opt-in-integrated-button }“, ამით ეთანხმებით <a data-l10n-name="privacy_policy">პირადულობის განაცხადს</a>, რომელსაც ადგენს { -brand-product-name } და <a data-l10n-name="terms_of_use">გამოყენების პირობებს</a>, რომელსაც გთავაზობთ { -fakespot-brand-name }.
 shopping-opt-in-integrated-button = გამოცადეთ მიმოხილვის შემმოწმებელი
 

@@ -258,9 +258,6 @@ shopping-onboarding-welcome-steps-indicator-label =
 
 shopping-callout-not-opted-in-integrated-reminder-dismiss-button = Елемеу
 shopping-callout-not-opted-in-integrated-reminder-accept-button = Пікірлерді тексеру құралын іске қосу
-shopping-callout-not-opted-in-integrated-reminder-do-not-show = Бұл ұсынысты қайта көрсетпеу
-shopping-callout-not-opted-in-integrated-reminder-show-fewer = Азырақ ұсыныстарды көрсету
-shopping-callout-not-opted-in-integrated-reminder-manage-settings = Баптауларды басқару
 shopping-opt-in-integrated-button = Пікірлерді тексеру құралын қолданып көру
 
 ## Message strings for Review Checker's empty states.

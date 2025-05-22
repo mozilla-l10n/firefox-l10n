@@ -277,9 +277,6 @@ shopping-callout-not-opted-in-integrated-paragraph1 = Абзори тафтиш�
 shopping-callout-not-opted-in-integrated-paragraph2 = Бо интихоб кардани «{ shopping-opt-in-integrated-button }» шумо бо <a data-l10n-name="privacy_policy">сиёсати махфияти</a> «{ -brand-product-name }» ва <a data-l10n-name="terms_of_use">шартҳои истифодаи</a> «{ -fakespot-brand-full-name }» розӣ мешавед.
 shopping-callout-not-opted-in-integrated-reminder-dismiss-button = Нодида гузарондан
 shopping-callout-not-opted-in-integrated-reminder-accept-button = Фаъол кардани абзори тафтиши тақризҳо
-shopping-callout-not-opted-in-integrated-reminder-do-not-show = Ин тавсия дигар нишон дода нашавад
-shopping-callout-not-opted-in-integrated-reminder-show-fewer = Камтар нишон додани тавсияҳо
-shopping-callout-not-opted-in-integrated-reminder-manage-settings = Идоракунии танзимот
 shopping-opt-in-integrated-privacy-policy-and-terms-of-use = Абзори тафтиши тақризҳо аз ҷониби «{ -fakespot-brand-full-name }» дастгирӣ карда мешавад. Бо интихоб кардани «{ shopping-opt-in-integrated-button }» шумо бо <a data-l10n-name="privacy_policy">сиёсати махфияти</a> «{ -brand-product-name }» ва <a data-l10n-name="terms_of_use">шартҳои истифодаи</a> «{ -fakespot-brand-name }» розӣ мешавед.
 shopping-opt-in-integrated-button = Озмудани абзори тафтиши тақризҳо
 

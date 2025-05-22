@@ -25,10 +25,6 @@ sidebar-history-date-prev-month =
     .heading = { DATETIME($date, month: "long", year: "numeric") }
 sidebar-history-delete =
     .title = Z historije lašowaś
-sidebar-history-sort-by-date =
-    .label = Pó datumje sortěrowaś
-sidebar-history-sort-by-site =
-    .label = Pó sedle sortěrowaś
 sidebar-history-clear =
     .label = Historiju wulašowaś
 sidebar-history-sort-by-heading = Sortěrowaś pó:
@@ -105,8 +101,6 @@ sidebar-context-menu-close-remote-tab =
 
 ## Labels for sidebar history context menu items
 
-sidebar-history-context-menu-delete-page =
-    .label = Z historije lašowaś
 sidebar-history-context-menu-delete-page-2 =
     .label = Bok z historije lašowaś
 sidebar-history-context-menu-bookmark-page =
@@ -166,8 +160,6 @@ sidebar-menu-history-header =
     .heading = Historija
 sidebar-menu-syncedtabs-header =
     .heading = Rejtariki z drugich rědow
-sidebar-menu-bookmarks-header =
-    .heading = Cytańske znamjenja
 sidebar-menu-cpm-header =
     .heading = Gronidła
 sidebar-panel-header-close-button =

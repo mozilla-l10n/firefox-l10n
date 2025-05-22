@@ -309,14 +309,6 @@ addon-options-button =
     .aria-label = Več možnosti
 # Explanatory introduction to the list of recommended add-ons. The action word
 # ("recommends") in the final sentence is a link to external documentation.
-discopane-intro2 =
-    Razširitve in teme vam omogočajo prilagajanje { -brand-product-name(sklon: "rodilnik") }. Z njimi lahko izboljšate zasebnost,
-    povečate produktivnost, obogatite predstavnost, spremenite videz { -brand-product-name(sklon: "rodilnik") } in
-    še veliko več. Te programčke običajno razvijajo neodvisni ponudniki. Tukaj je
-    izbor, ki ga { -brand-product-name } <a data-l10n-name="learn-more-trigger">priporoča</a>
-    zaradi izjemne varnosti, zmogljivosti in funkcionalnosti.
-# Explanatory introduction to the list of recommended add-ons. The action word
-# ("recommends") in the final sentence is a link to external documentation.
 # We hard code "Firefox" because we do not want to imply that a Firefox fork is
 # making this recommendation.
 discopane-intro3 =
@@ -456,8 +448,6 @@ addon-badge-line3 =
 addon-badge-verified2 =
     .title = Ta razširitev preverjeno izpolnjuje naše standarde glede varnosti in učinkovitosti delovanja.
     .aria-label = { addon-badge-verified2.title }
-addon-badge-recommended3 =
-    .title = { -brand-product-name } priporoča samo razširitve, ki ustrezajo našim standardom glede varnosti in učinkovitosti delovanja.
 # We hard code "Mozilla" in the string below because the extensions are built
 # by Mozilla and we don't want forks to display "by Fork".
 addon-badge-line4 =
@@ -469,8 +459,6 @@ addon-badge-line4 =
 # like the words "our" or "we".
 addon-badge-verified4 =
     .title = Ta razširitev preverjeno izpolnjuje standarde glede varnosti in učinkovitosti delovanja
-addon-badge-verified3 =
-    .title = Ta razširitev preverjeno izpolnjuje naše standarde glede varnosti in učinkovitosti delovanja.
 # This string needs to work in the context of other forks that are not Firefox
 # or built by Mozilla. In particular, we do not want to imply that an
 # organisation other than Mozilla or the Firefox team are making the
@@ -578,3 +566,6 @@ addon-permissions-required-data-collection = Zahtevano zbiranje podatkov:
 addon-permissions-optional-data-collection = Izbirno zbiranje podatkov:
 # Name of the Permissions tab in `about:addons` when the data collection feature is enabled.
 permissions-data-addon-button = Dovoljenja in podatki
+
+## Mapping Engine IDs from AI models to how that feature represented by the engine Id is described in the used by section in local model management
+

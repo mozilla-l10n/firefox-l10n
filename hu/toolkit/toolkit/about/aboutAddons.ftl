@@ -314,9 +314,6 @@ addon-options-button =
     .aria-label = További beállítások
 # Explanatory introduction to the list of recommended add-ons. The action word
 # ("recommends") in the final sentence is a link to external documentation.
-discopane-intro2 = A kiegészítők és témák lehetővé teszik a { -brand-product-name } testreszabását. Elősegíthetik az adatvédelmet, növelhetik a hatékonyságot, jobbá tehetik a médiatartalmakat, módosíthatják a { -brand-product-name } megjelenését, és még sok másra képesek. Ezeket a kis szoftvereket gyakran harmadik felek fejlesztik. Itt egy válogatás, melyet a { -brand-product-name } <a data-l10n-name="learn-more-trigger">ajánl</a> a kivételes biztonság, teljesítmény és funkcionalitás érdekében.
-# Explanatory introduction to the list of recommended add-ons. The action word
-# ("recommends") in the final sentence is a link to external documentation.
 # We hard code "Firefox" because we do not want to imply that a Firefox fork is
 # making this recommendation.
 discopane-intro3 = A kiegészítők és témák lehetővé teszik a { -brand-product-name } testreszabását. Elősegíthetik az adatvédelmet, növelhetik a hatékonyságot, jobbá tehetik a médiatartalmakat, módosíthatják a { -brand-product-name } megjelenését, és még sok másra képesek. Ezeket a kis szoftvereket gyakran harmadik felek fejlesztik. Itt egy válogatás, melyet a Firefox <a data-l10n-name="learn-more-trigger">ajánl</a> a kivételes biztonság, teljesítmény és funkcionalitás érdekében.
@@ -449,8 +446,6 @@ addon-badge-line3 =
 addon-badge-verified2 =
     .title = Megvizsgáltuk ezt a kiegészítőt, és megfelelt a biztonsági és a teljesítménybeli követelményeinknek.
     .aria-label = { addon-badge-verified2.title }
-addon-badge-recommended3 =
-    .title = A { -brand-product-name } csak olyan kiegészítőket ajánl, amelyek megfelelnek a biztonsági és a teljesítménybeli követelményeinknek.
 # We hard code "Mozilla" in the string below because the extensions are built
 # by Mozilla and we don't want forks to display "by Fork".
 addon-badge-line4 =
@@ -462,8 +457,6 @@ addon-badge-line4 =
 # like the words "our" or "we".
 addon-badge-verified4 =
     .title = Megvizsgáltuk ezt a kiegészítőt, és megfelelt a biztonsági és a teljesítménybeli követelményeknek.
-addon-badge-verified3 =
-    .title = Megvizsgáltuk ezt a kiegészítőt, és megfelelt a biztonsági és a teljesítménybeli követelményeinknek.
 # This string needs to work in the context of other forks that are not Firefox
 # or built by Mozilla. In particular, we do not want to imply that an
 # organisation other than Mozilla or the Firefox team are making the
@@ -571,3 +564,6 @@ addon-permissions-required-data-collection = Szükséges adatgyűjtés:
 addon-permissions-optional-data-collection = Nem kötelező adatgyűjtés:
 # Name of the Permissions tab in `about:addons` when the data collection feature is enabled.
 permissions-data-addon-button = Engedélyek és adatok
+
+## Mapping Engine IDs from AI models to how that feature represented by the engine Id is described in the used by section in local model management
+

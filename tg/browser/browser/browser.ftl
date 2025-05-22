@@ -1205,10 +1205,6 @@ popup-notification-addon-privatebrowsing-checkbox2 =
 popup-notification-addon-technical-and-interaction-checkbox =
     .label = Мубодилаи маълумоти техникӣ ва ҳамкорӣ бо барномасози васеъшавӣ
     .accesskey = М
-# Note: Access key is set to P to match "Private" in the corresponding localized label.
-popup-notification-addon-privatebrowsing-checkbox =
-    .label = Иҷро кардан дар равзанаҳои махфӣ
-    .accesskey = И
 
 ## Pop-up warning
 

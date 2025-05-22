@@ -264,9 +264,6 @@ shopping-opt-in-integrated-headline = Verslaðu áhyggjulaust
 shopping-callout-opt-in-integrated-headline = Geturðu treyst þessum umsögnum?
 shopping-callout-not-opted-in-integrated-reminder-dismiss-button = Afgreiða
 shopping-callout-not-opted-in-integrated-reminder-accept-button = Kveikja á umsagnaskoðun
-shopping-callout-not-opted-in-integrated-reminder-do-not-show = Ekki birta þessi meðmæli aftur
-shopping-callout-not-opted-in-integrated-reminder-show-fewer = Birta færri meðmæli
-shopping-callout-not-opted-in-integrated-reminder-manage-settings = Sýsla með stillingar
 shopping-opt-in-integrated-button = Prófaðu umsagnaskoðun
 
 ## Message strings for Review Checker's empty states.

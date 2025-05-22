@@ -277,9 +277,6 @@ shopping-callout-not-opted-in-integrated-paragraph1 = Aktiver funktionen Verific
 shopping-callout-not-opted-in-integrated-paragraph2 = Ved at vælge “{ shopping-opt-in-integrated-button }” accepterer du { -brand-product-name }' <a data-l10n-name="privacy_policy">privatlivserklæring</a> samt { -fakespot-brand-full-name }s <a data-l10n-name="terms_of_use">betingelser for brug.</a>
 shopping-callout-not-opted-in-integrated-reminder-dismiss-button = Afvis
 shopping-callout-not-opted-in-integrated-reminder-accept-button = Aktiver Verificering af anmeldelser
-shopping-callout-not-opted-in-integrated-reminder-do-not-show = Vis ikke denne anbefaling igen
-shopping-callout-not-opted-in-integrated-reminder-show-fewer = Vis færre anbefalinger
-shopping-callout-not-opted-in-integrated-reminder-manage-settings = Håndter indstillinger
 shopping-opt-in-integrated-privacy-policy-and-terms-of-use = Verificering af anmeldelser er leveret af { -fakespot-brand-full-name }. Ved at vælge “{ shopping-opt-in-integrated-button }” accepterer du { -brand-product-name }' <a data-l10n-name="privacy_policy">privatlivserklæring</a> samt { -fakespot-brand-name }s <a data-l10n-name="terms_of_use">betingelser for brug.</a>
 shopping-opt-in-integrated-button = Prøv Verificering af anmeldelser
 

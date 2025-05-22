@@ -279,9 +279,6 @@ shopping-callout-not-opted-in-integrated-paragraph1 = Activescha la verificaziun
 shopping-callout-not-opted-in-integrated-paragraph2 = Cun tscherner «{ shopping-opt-in-integrated-button }» acceptas ti la <a data-l10n-name="privacy_policy">decleraziun davart la protecziun da datas</a> da { -brand-product-name } e las <a data-l10n-name="terms_of_use">cundiziuns d’utilisaziun</a> da { -fakespot-brand-full-name }.
 shopping-callout-not-opted-in-integrated-reminder-dismiss-button = Serrar
 shopping-callout-not-opted-in-integrated-reminder-accept-button = Activar la verificaziun da recensiuns
-shopping-callout-not-opted-in-integrated-reminder-do-not-show = Betg pli mussar questa recumandaziun
-shopping-callout-not-opted-in-integrated-reminder-show-fewer = Mussar pli paucas recumandaziuns
-shopping-callout-not-opted-in-integrated-reminder-manage-settings = Administrar ils parameters
 shopping-opt-in-integrated-privacy-policy-and-terms-of-use = La verificaziun da recensiuns funcziuna grazia a { -fakespot-brand-full-name }. Cun tscherner «{ shopping-opt-in-integrated-button }» acceptas ti la <a data-l10n-name="privacy_policy">decleraziun davart la protecziun da datas</a> da { -brand-product-name } e las <a data-l10n-name="terms_of_use">cundiziuns d’utilisaziun</a> da { -fakespot-brand-name }.
 shopping-opt-in-integrated-button = Emprova la verificaziun da recensiuns
 

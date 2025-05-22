@@ -60,7 +60,6 @@ item-history-and-downloads =
     .label = Historial de navegación y descargas
     .accesskey = g
 item-history-and-downloads-description2 = Borra el historial del sitio y descargas
-item-history-and-downloads-description = Borra el historial de búsqueda, sitios y descargas
 item-history-form-data-downloads =
     .label = Historial
     .accesskey = H

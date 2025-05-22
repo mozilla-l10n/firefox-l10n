@@ -279,9 +279,6 @@ shopping-callout-not-opted-in-integrated-paragraph1 = Skeakelje Beoardielingskon
 shopping-callout-not-opted-in-integrated-paragraph2 = Troch ‘{ shopping-opt-in-integrated-button }’ te selektearjen, geane jo akkoard mei de <a data-l10n-name="privacy_policy">privacyferklearring</a> fan { -brand-product-name } en  de <a data-l10n-name="terms_of_use">brûksbetingsten</a> fan { -fakespot-brand-full-name }.
 shopping-callout-not-opted-in-integrated-reminder-dismiss-button = Slute
 shopping-callout-not-opted-in-integrated-reminder-accept-button = Beoardielingskontrôle ynskeakelje
-shopping-callout-not-opted-in-integrated-reminder-do-not-show = Dizze oanrekommandaasje net mear toane
-shopping-callout-not-opted-in-integrated-reminder-show-fewer = Mear oanrekommandaasjes toane
-shopping-callout-not-opted-in-integrated-reminder-manage-settings = Ynstellingen beheare
 shopping-opt-in-integrated-privacy-policy-and-terms-of-use = Beoardielingskontrôle wurdt oandreaun troch { -fakespot-brand-full-name }. Troch ‘{ shopping-opt-in-integrated-button }’ te selektearjen, geane jo akkoard mei de <a data-l10n-name="privacy_policy">privacyferklearring</a> fan { -brand-product-name } en de <a data-l10n-name="terms_of_use">gebrûksbetingsten fan { -fakespot-brand-name }.</a>
 shopping-opt-in-integrated-button = Beoardielingskontrôle probearje
 

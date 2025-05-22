@@ -294,14 +294,6 @@ find-more-themes = Pronađi više tema
 # used for screen readers.
 addon-options-button =
     .aria-label = Više mogućnosti
-# Explanatory introduction to the list of recommended add-ons. The action word
-# ("recommends") in the final sentence is a link to external documentation.
-discopane-intro2 =
-    Proširenja i teme omogućuju da prilagodiš { -brand-product-name }. Mogu poboljšati privatnost,
-    povećati produktivnost, poboljšati medije, promijeniti način { -brand-product-name } izgleda i
-    još više. Ove male softverske programe često razvija treća strana. Ovo je
-    odabir koji { -brand-product-name } <a data-l10n-name="learn-more-trigger">preporučuje</a>
-    za iznimnu sigurnost, performansu i funkcionalnost.
 
 ## Add-on actions
 
@@ -432,14 +424,10 @@ addon-badge-line3 =
 addon-badge-verified2 =
     .title = Na ovom proširenju izvršen je pregled udovoljava li našim standardima za sigurnost i performanse
     .aria-label = { addon-badge-verified2.title }
-addon-badge-recommended3 =
-    .title = { -brand-product-name } preporučuje samo proširenja koja udovoljavaju našim standardima za sigurnost i performanse
 # We hard code "Mozilla" in the string below because the extensions are built
 # by Mozilla and we don't want forks to display "by Fork".
 addon-badge-line4 =
     .title = Službeno proširenje koje je izradila Mozilla. Udovoljava standardima sigurnosti i performansi
-addon-badge-verified3 =
-    .title = Na ovom proširenju izvršen je pregled udovoljava li našim standardima za sigurnost i performanse
 
 ##
 
@@ -535,4 +523,7 @@ plugins-widevine-description = Ovaj dodatak omogućuje reprodukciju kodiranih me
 
 ## Headings for the Permissions tab in `about:addons` when the data collection
 ## feature is enabled.
+
+
+## Mapping Engine IDs from AI models to how that feature represented by the engine Id is described in the used by section in local model management
 

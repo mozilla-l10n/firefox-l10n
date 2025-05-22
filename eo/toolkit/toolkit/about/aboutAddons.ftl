@@ -295,9 +295,6 @@ addon-options-button =
     .aria-label = Pli da ebloj
 # Explanatory introduction to the list of recommended add-ons. The action word
 # ("recommends") in the final sentence is a link to external documentation.
-discopane-intro2 = Etendaĵoj kaj etosoj permesas al vi personcecigi { -brand-product-name }. Ili povas pliigi privatecon, plialtigi produktadon, plibonigi aŭvidaĵojn, ŝanĝi la aspekton de { -brand-product-name }, kaj multe, multe pli. Tiuj etaj programoj estas ofte disvolvitaj de aliaj. Jen kelkaj <a data-l10n-name="learn-more-trigger">rekomendoj</a> de { -brand-product-name } por havi eksterordinaran sekurecon, efikecon kaj aldonajn funkciojn.
-# Explanatory introduction to the list of recommended add-ons. The action word
-# ("recommends") in the final sentence is a link to external documentation.
 # We hard code "Firefox" because we do not want to imply that a Firefox fork is
 # making this recommendation.
 discopane-intro3 = Etendaĵoj kaj etosoj permesas al vi personcecigi { -brand-product-name }. Ili povas pliigi privatecon, plialtigi produktadon, plibonigi aŭvidaĵojn, ŝanĝi la aspekton de { -brand-product-name }, kaj multe, multe pli. Tiuj etaj programoj estas ofte disvolvitaj de aliaj. Jen kelkaj <a data-l10n-name="learn-more-trigger">rekomendoj</a> de Firefox por havi eksterordinaran sekurecon, efikecon kaj aldonajn funkciojn.
@@ -430,8 +427,6 @@ addon-badge-line3 =
 addon-badge-verified2 =
     .title = Tiu ĉi etendaĵo estis reviziita por kontroli ke ĝi kongruas kun niaj sekurecaj kaj efikecaj normoj.
     .aria-label = { addon-badge-verified2.title }
-addon-badge-recommended3 =
-    .title = { -brand-product-name } nur rekomendas etendaĵojn, kiuj konformas al niaj normoj pri sekureco kaj efikeco
 # We hard code "Mozilla" in the string below because the extensions are built
 # by Mozilla and we don't want forks to display "by Fork".
 addon-badge-line4 =
@@ -443,8 +438,6 @@ addon-badge-line4 =
 # like the words "our" or "we".
 addon-badge-verified4 =
     .title = Tiu ĉi etendaĵo estis reviziita por kontroli ke ĝi kongruas kun sekurecaj kaj efikecaj normoj.
-addon-badge-verified3 =
-    .title = Tiu ĉi etendaĵo estis reviziita por kontroli ke ĝi kongruas kun niaj sekurecaj kaj efikecaj normoj.
 # This string needs to work in the context of other forks that are not Firefox
 # or built by Mozilla. In particular, we do not want to imply that an
 # organisation other than Mozilla or the Firefox team are making the
@@ -552,3 +545,6 @@ addon-permissions-required-data-collection = Postulata kolekto de datumoj:
 addon-permissions-optional-data-collection = Nedeviga kolekto de datumoj:
 # Name of the Permissions tab in `about:addons` when the data collection feature is enabled.
 permissions-data-addon-button = Permesoj kaj datumoj
+
+## Mapping Engine IDs from AI models to how that feature represented by the engine Id is described in the used by section in local model management
+

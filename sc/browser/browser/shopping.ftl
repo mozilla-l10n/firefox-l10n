@@ -261,9 +261,6 @@ shopping-opt-in-integrated-headline = Còmpora cun cunfiàntzia
 
 shopping-callout-not-opted-in-integrated-reminder-dismiss-button = Iscarta
 shopping-callout-not-opted-in-integrated-reminder-accept-button = Ativa su verificadore de retzensiones
-shopping-callout-not-opted-in-integrated-reminder-do-not-show = No torres a ammustrare custu cussìgiu
-shopping-callout-not-opted-in-integrated-reminder-show-fewer = Ammustra prus pagu cussìgios
-shopping-callout-not-opted-in-integrated-reminder-manage-settings = Gesti sa cunfiguratzione
 shopping-opt-in-integrated-button = Proa su verificadore de retzensiones
 
 ## Message strings for Review Checker's empty states.

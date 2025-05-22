@@ -59,7 +59,6 @@ history-section-label = Riwayat
 item-history-and-downloads =
     .label = Riwayat Penjelajahan dan Unduhan
     .accesskey = R
-item-history-and-downloads-description = Bersihkan riwayat pencarian, situs, dan unduhan
 item-history-form-data-downloads =
     .label = Riwayat
     .accesskey = R

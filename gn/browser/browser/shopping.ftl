@@ -261,9 +261,6 @@ shopping-opt-in-integrated-headline = Ejogua jeroviápe
 shopping-callout-opt-in-integrated-headline = ¿Ejeroviáta ko jehechajeypyrére?
 shopping-callout-not-opted-in-integrated-reminder-dismiss-button = Mboyke
 shopping-callout-not-opted-in-integrated-reminder-accept-button = Emyandy hechajey rechaha
-shopping-callout-not-opted-in-integrated-reminder-do-not-show = Anive ehechauka ko ñemoñe’ẽ
-shopping-callout-not-opted-in-integrated-reminder-show-fewer = Ehechauka’ive ñemoñe’ẽ
-shopping-callout-not-opted-in-integrated-reminder-manage-settings = Eñangareko ehayhuvévare
 shopping-opt-in-integrated-privacy-policy-and-terms-of-use = Pe marandu’i rechajeyha oku’e { -fakespot-brand-full-name } ndive. Eiporavóvo “{ shopping-opt-in-integrated-button }“, emoneĩ <a data-l10n-name="privacy_policy">ñemigua marandu’i</a> { -brand-product-name } ha <a data-l10n-name="terms_of_use">jeporurã reko</a> { -fakespot-brand-name }-pegua.
 shopping-opt-in-integrated-button = Eiporu hechajey rechaha
 

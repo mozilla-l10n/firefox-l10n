@@ -25,10 +25,6 @@ sidebar-history-date-prev-month =
     .heading = { DATETIME($date, month: "long", year: "numeric") }
 sidebar-history-delete =
     .title = Forigi el la historio
-sidebar-history-sort-by-date =
-    .label = Ordigi laŭ dato
-sidebar-history-sort-by-site =
-    .label = Ordigi laŭ retejo
 sidebar-history-clear =
     .label = Viŝi historion
 sidebar-history-sort-by-heading = Ordigi laŭ:
@@ -105,8 +101,6 @@ sidebar-context-menu-close-remote-tab =
 
 ## Labels for sidebar history context menu items
 
-sidebar-history-context-menu-delete-page =
-    .label = Forigi el la historio
 sidebar-history-context-menu-delete-page-2 =
     .label = Forigu paĝon el la historio
 sidebar-history-context-menu-bookmark-page =
@@ -166,8 +160,6 @@ sidebar-menu-history-header =
     .heading = Historio
 sidebar-menu-syncedtabs-header =
     .heading = Langetoj el aliaj aparatoj
-sidebar-menu-bookmarks-header =
-    .heading = Legosignoj
 sidebar-menu-cpm-header =
     .heading = Pasvortoj
 sidebar-panel-header-close-button =

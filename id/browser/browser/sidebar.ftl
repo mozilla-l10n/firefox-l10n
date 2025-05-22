@@ -25,10 +25,6 @@ sidebar-history-date-prev-month =
     .heading = { DATETIME($date, month: "long", year: "numeric") }
 sidebar-history-delete =
     .title = Hapus dari Riwayat
-sidebar-history-sort-by-date =
-    .label = Urut berdasarkan tanggal
-sidebar-history-sort-by-site =
-    .label = Urut berdasarkan situs
 sidebar-history-clear =
     .label = Hapus riwayat
 
@@ -90,8 +86,6 @@ sidebar-context-menu-close-remote-tab =
 
 ## Labels for sidebar history context menu items
 
-sidebar-history-context-menu-delete-page =
-    .label = Hapus dari Riwayat
 
 ## Labels for sidebar menu items.
 
@@ -147,8 +141,6 @@ sidebar-menu-history-header =
     .heading = Riwayat
 sidebar-menu-syncedtabs-header =
     .heading = Tab dari perangkat lain
-sidebar-menu-bookmarks-header =
-    .heading = Markah
 sidebar-menu-cpm-header =
     .heading = Kata Sandi
 sidebar-panel-header-close-button =

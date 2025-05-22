@@ -25,10 +25,6 @@ sidebar-history-date-prev-month =
     .heading = { DATETIME($date, month: "long", year: "numeric") }
 sidebar-history-delete =
     .title = Διαγραφή από ιστορικό
-sidebar-history-sort-by-date =
-    .label = Ταξινόμηση κατά ημερομηνία
-sidebar-history-sort-by-site =
-    .label = Ταξινόμηση κατά ιστότοπο
 sidebar-history-clear =
     .label = Απαλοιφή ιστορικού
 sidebar-history-sort-by-heading = Ταξινόμηση κατά:
@@ -105,8 +101,6 @@ sidebar-context-menu-close-remote-tab =
 
 ## Labels for sidebar history context menu items
 
-sidebar-history-context-menu-delete-page =
-    .label = Διαγραφή από ιστορικό
 sidebar-history-context-menu-delete-page-2 =
     .label = Διαγραφή σελίδας από το ιστορικό
 sidebar-history-context-menu-bookmark-page =
@@ -166,8 +160,6 @@ sidebar-menu-history-header =
     .heading = Ιστορικό
 sidebar-menu-syncedtabs-header =
     .heading = Καρτέλες από άλλες συσκευές
-sidebar-menu-bookmarks-header =
-    .heading = Σελιδοδείκτες
 sidebar-menu-cpm-header =
     .heading = Κωδικοί πρόσβασης
 sidebar-panel-header-close-button =

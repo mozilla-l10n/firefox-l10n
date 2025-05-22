@@ -25,10 +25,6 @@ sidebar-history-date-prev-month =
     .heading = { DATETIME($date, month: "long", year: "numeric") }
 sidebar-history-delete =
     .title = Slet fra historik
-sidebar-history-sort-by-date =
-    .label = Sorter efter dato
-sidebar-history-sort-by-site =
-    .label = Sorter efter websted
 sidebar-history-clear =
     .label = Ryd historik
 sidebar-history-sort-by-heading = Sorter efter:
@@ -105,8 +101,6 @@ sidebar-context-menu-close-remote-tab =
 
 ## Labels for sidebar history context menu items
 
-sidebar-history-context-menu-delete-page =
-    .label = Slet fra historik
 sidebar-history-context-menu-delete-page-2 =
     .label = Slet side fra historik
 sidebar-history-context-menu-bookmark-page =
@@ -166,8 +160,6 @@ sidebar-menu-history-header =
     .heading = Historik
 sidebar-menu-syncedtabs-header =
     .heading = Faneblade fra andre enheder
-sidebar-menu-bookmarks-header =
-    .heading = Bogmærker
 sidebar-menu-cpm-header =
     .heading = Adgangskoder
 sidebar-panel-header-close-button =

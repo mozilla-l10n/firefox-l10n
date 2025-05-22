@@ -21,10 +21,6 @@ sidebar-history-date-prev-month =
     .heading = { DATETIME($date, month: "long", year: "numeric") }
 sidebar-history-delete =
     .title = حذف از تاریخچه
-sidebar-history-sort-by-date =
-    .label = مرتب‌سازی بر اساس تاریخ
-sidebar-history-sort-by-site =
-    .label = مرتب‌سازی بر اساس وبگاه
 sidebar-history-clear =
     .label = پاک‌کردن تاریخچه
 

@@ -277,9 +277,6 @@ shopping-callout-not-opted-in-integrated-paragraph1 = Bật trình kiểm tra đ
 shopping-callout-not-opted-in-integrated-paragraph2 = Bằng cách chọn “{ shopping-opt-in-integrated-button }” bạn đồng ý với <a data-l10n-name="privacy_policy">thông báo về quyền riêng tư</a> của { -brand-product-name } và <a data-l10n-name="terms_of_use">điều khoản sử dụng</a> của { -fakespot-brand-full-name }.
 shopping-callout-not-opted-in-integrated-reminder-dismiss-button = Bỏ qua
 shopping-callout-not-opted-in-integrated-reminder-accept-button = Bật trình kiểm tra đánh giá
-shopping-callout-not-opted-in-integrated-reminder-do-not-show = Không hiển thị đề xuất này lần nữa
-shopping-callout-not-opted-in-integrated-reminder-show-fewer = Hiển thị ít đề xuất hơn
-shopping-callout-not-opted-in-integrated-reminder-manage-settings = Quản lý cài đặt
 shopping-opt-in-integrated-privacy-policy-and-terms-of-use = Trình kiểm tra đánh giá được cung cấp bởi { -fakespot-brand-full-name }. Bằng cách chọn “{ shopping-opt-in-integrated-button }“ bạn đồng ý với <a data-l10n-name="privacy_policy">thông báo về quyền riêng tư</a> của { -brand-product-name } và <a data-l10n-name="terms_of_use">điều khoản sử dụng</a> của { -fakespot-brand-name }.
 shopping-opt-in-integrated-button = Hãy thử trình kiểm tra đánh giá
 

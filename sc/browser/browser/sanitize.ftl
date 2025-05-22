@@ -60,7 +60,6 @@ item-history-and-downloads =
     .label = Cronologia de navigatzione e iscarrigamentos
     .accesskey = C
 item-history-and-downloads-description2 = Cantzellat sa cronologia de navigatzione e de iscarrigamentos
-item-history-and-downloads-description = Cantzellat sa cronologia de chirca, de sitos e de iscarrigamentos
 item-history-form-data-downloads =
     .label = Cronologia
     .accesskey = r

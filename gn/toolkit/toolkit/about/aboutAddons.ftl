@@ -429,8 +429,6 @@ addon-badge-line3 =
 addon-badge-verified2 =
     .title = Ko jepysokue ojehechajey oguerekópa tekorosã ha oikoporãpa.
     .aria-label = { addon-badge-verified2.title }
-addon-badge-recommended3 =
-    .title = { -brand-product-name } omoneĩ jepysokue oguerekóva tekorosã ha tembiapokue
 # We hard code "Mozilla" in the string below because the extensions are built
 # by Mozilla and we don't want forks to display "by Fork".
 addon-badge-line4 =
@@ -442,8 +440,6 @@ addon-badge-line4 =
 # like the words "our" or "we".
 addon-badge-verified4 =
     .title = Ko jepysokue ojehechajey jahecha oguerekópa tekorosã ha oikoporãpa.
-addon-badge-verified3 =
-    .title = Ko jepysokue ojehechajey oguerekópa tekorosã ha oikoporãpa.
 # This string needs to work in the context of other forks that are not Firefox
 # or built by Mozilla. In particular, we do not want to imply that an
 # organisation other than Mozilla or the Firefox team are making the
@@ -551,3 +547,6 @@ addon-permissions-required-data-collection = Mba’ekuaarã ñembyaty tekotevẽ
 addon-permissions-optional-data-collection = Mba’ekuaarã ñembyaty eipotáronte:
 # Name of the Permissions tab in `about:addons` when the data collection feature is enabled.
 permissions-data-addon-button = Ñemoneĩ ha mba’ekuaarã
+
+## Mapping Engine IDs from AI models to how that feature represented by the engine Id is described in the used by section in local model management
+

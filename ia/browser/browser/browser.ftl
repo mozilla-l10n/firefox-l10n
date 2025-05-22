@@ -1205,10 +1205,6 @@ popup-notification-addon-privatebrowsing-checkbox2 =
 popup-notification-addon-technical-and-interaction-checkbox =
     .label = Compartir datos technic e de interaction con le disveloppator del extension
     .accesskey = C
-# Note: Access key is set to P to match "Private" in the corresponding localized label.
-popup-notification-addon-privatebrowsing-checkbox =
-    .label = Executar in fenestras private
-    .accesskey = p
 
 ## Pop-up warning
 

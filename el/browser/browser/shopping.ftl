@@ -277,9 +277,6 @@ shopping-callout-not-opted-in-integrated-paragraph1 = Ενεργοποιήστε
 shopping-callout-not-opted-in-integrated-paragraph2 = Επιλέγοντας «{ shopping-opt-in-integrated-button }», συμφωνείτε με τη <a data-l10n-name="privacy_policy">Σημείωση απορρήτου</a> του { -brand-product-name } και τους <a data-l10n-name="terms_of_use">Όρους χρήσης</a> του { -fakespot-brand-full-name }.
 shopping-callout-not-opted-in-integrated-reminder-dismiss-button = Απόρριψη
 shopping-callout-not-opted-in-integrated-reminder-accept-button = Ενεργοποίηση Ελέγχου κριτικών
-shopping-callout-not-opted-in-integrated-reminder-do-not-show = Να μην εμφανιστεί ξανά αυτή η πρόταση
-shopping-callout-not-opted-in-integrated-reminder-show-fewer = Εμφάνιση λιγότερων προτάσεων
-shopping-callout-not-opted-in-integrated-reminder-manage-settings = Διαχείριση ρυθμίσεων
 shopping-opt-in-integrated-privacy-policy-and-terms-of-use = Ο Έλεγχος κριτικών λειτουργεί με την υποστήριξη του { -fakespot-brand-full-name }. Επιλέγοντας «{ shopping-opt-in-integrated-button }» συμφωνείτε με την <a data-l10n-name="privacy_policy">σημείωση απορρήτου</a> του { -brand-product-name } και με τους <a data-l10n-name="terms_of_use">όρους χρήσης</a> του { -fakespot-brand-name }.
 shopping-opt-in-integrated-button = Δοκιμή Ελέγχου κριτικών
 

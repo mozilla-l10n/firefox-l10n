@@ -312,14 +312,6 @@ addon-options-button =
     .aria-label = Mear opsjes
 # Explanatory introduction to the list of recommended add-ons. The action word
 # ("recommends") in the final sentence is a link to external documentation.
-discopane-intro2 =
-    Me útwreidingen en tema’s kinne jo { -brand-product-name } oanpasse. Se kinne privacy,
-    produktiviteit en media ferbetterje, it uterlik fan { -brand-product-name } wizigje, en
-    sa folle mear. Dizze lytse softwareprogramma’s wurde faak troch in tredde partij ûntwikkele. Dit is
-    in seleksje dy’t { -brand-product-name } <a data-l10n-name="learn-more-trigger">oanrekommandearret</a>
-    foar útsûnderlike befeiliging, prestaasjes en funksjonaliteit.
-# Explanatory introduction to the list of recommended add-ons. The action word
-# ("recommends") in the final sentence is a link to external documentation.
 # We hard code "Firefox" because we do not want to imply that a Firefox fork is
 # making this recommendation.
 discopane-intro3 =
@@ -457,8 +449,6 @@ addon-badge-line3 =
 addon-badge-verified2 =
     .title = Dizze útwreiding is beoardiele en foldocht oan ús noarms foar befeiliging en prestaasjes
     .aria-label = { addon-badge-verified2.title }
-addon-badge-recommended3 =
-    .title = { -brand-product-name } rekommandearret allinnich útwreidingen oan dy’t foldogge oan ús noarms foar feilichheid en prestaasjes.
 # We hard code "Mozilla" in the string below because the extensions are built
 # by Mozilla and we don't want forks to display "by Fork".
 addon-badge-line4 =
@@ -470,8 +460,6 @@ addon-badge-line4 =
 # like the words "our" or "we".
 addon-badge-verified4 =
     .title = Dizze útwreiding is beoardiele en foldocht oan noarms foar befeiliging en prestaasjes
-addon-badge-verified3 =
-    .title = Dizze útwreiding is beoardiele en foldocht oan ús noarms foar befeiliging en prestaasjes
 # This string needs to work in the context of other forks that are not Firefox
 # or built by Mozilla. In particular, we do not want to imply that an
 # organisation other than Mozilla or the Firefox team are making the
@@ -579,3 +567,6 @@ addon-permissions-required-data-collection = Fereaske gegevenssammeling:
 addon-permissions-optional-data-collection = Opsjonele gegevenssammeling:
 # Name of the Permissions tab in `about:addons` when the data collection feature is enabled.
 permissions-data-addon-button = Tastimmingen en gegevens
+
+## Mapping Engine IDs from AI models to how that feature represented by the engine Id is described in the used by section in local model management
+

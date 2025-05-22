@@ -410,14 +410,10 @@ addon-badge-line3 =
 addon-badge-verified2 =
     .title = Това разширение е прегледано и отговаря на нашите стандарти за сигурност и производителност
     .aria-label = { addon-badge-verified2.title }
-addon-badge-recommended3 =
-    .title = { -brand-product-name } препоръчва само разширения, които отговарят на нашите стандарти за сигурност и производителност
 # We hard code "Mozilla" in the string below because the extensions are built
 # by Mozilla and we don't want forks to display "by Fork".
 addon-badge-line4 =
     .title = Официално разширение то Mozilla. Отговаря на стандартите за сигурност и производителност
-addon-badge-verified3 =
-    .title = Това разширение е прегледано и отговаря на нашите стандарти за сигурност и производителност
 
 ##
 
@@ -498,4 +494,7 @@ plugins-widevine-description = Тази приставка позволява в
 
 ## Headings for the Permissions tab in `about:addons` when the data collection
 ## feature is enabled.
+
+
+## Mapping Engine IDs from AI models to how that feature represented by the engine Id is described in the used by section in local model management
 

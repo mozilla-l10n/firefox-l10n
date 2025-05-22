@@ -21,10 +21,6 @@ sidebar-history-date-prev-month =
     .heading = { DATETIME($date, month: "long", year: "numeric") }
 sidebar-history-delete =
     .title = നാള്‍വഴിയിൽ നിന്നു് മായ്ക്കുക
-sidebar-history-sort-by-date =
-    .label = തീയതി അനുസരിച്ചു് ക്രമത്തിലാക്കുക
-sidebar-history-sort-by-site =
-    .label = സൈറ്റു് അനുസരിച്ചു് ക്രമത്തിലാക്കുക
 sidebar-history-clear =
     .label = നാള്‍വഴി വെടിപ്പാക്കുക
 
@@ -63,8 +59,6 @@ sidebar-context-menu-close-remote-tab =
 
 ## Labels for sidebar history context menu items
 
-sidebar-history-context-menu-delete-page =
-    .label = നാള്‍വഴിയിൽ നിന്നു് മായ്ക്കുക
 
 ## Labels for sidebar menu items.
 
@@ -112,8 +106,6 @@ sidebar-menu-history-header =
     .heading = നാള്‍വഴി
 sidebar-menu-syncedtabs-header =
     .heading = മറ്റു് ഉപകരണങ്ങളിൽ നിന്നുള്ള ടാബുകൾ
-sidebar-menu-bookmarks-header =
-    .heading = അടയാളക്കുറിപ്പുകള്‍
 sidebar-menu-cpm-header =
     .heading = രഹസ്യവാക്കുകൾ
 sidebar-panel-header-close-button =

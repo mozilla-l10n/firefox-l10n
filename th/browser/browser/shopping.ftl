@@ -265,9 +265,6 @@ shopping-callout-not-opted-in-integrated-paragraph1 = เปิดใช้เ�
 shopping-callout-not-opted-in-integrated-paragraph2 = เมื่อเลือก “{ shopping-opt-in-integrated-button }” ถือว่าคุณยอมรับ<a data-l10n-name="privacy_policy">ประกาศความเป็นส่วนตัว</a>ของ { -brand-product-name } และ<a data-l10n-name="terms_of_use">ข้อกำหนดการใช้งาน</a>ของ { -fakespot-brand-full-name }
 shopping-callout-not-opted-in-integrated-reminder-dismiss-button = ปิด
 shopping-callout-not-opted-in-integrated-reminder-accept-button = เปิดใช้เครื่องมือตรวจสอบบทวิจารณ์
-shopping-callout-not-opted-in-integrated-reminder-do-not-show = ไม่ต้องแสดงคำแนะนำนี้อีก
-shopping-callout-not-opted-in-integrated-reminder-show-fewer = แสดงคำแนะนำน้อยลง
-shopping-callout-not-opted-in-integrated-reminder-manage-settings = จัดการการตั้งค่า
 shopping-opt-in-integrated-privacy-policy-and-terms-of-use = เครื่องมือตรวจสอบบทวิจารณ์ขับเคลื่อนโดย { -fakespot-brand-full-name } เมื่อเลือก “{ shopping-opt-in-integrated-button }” ถือว่าคุณยอมรับ<a data-l10n-name="privacy_policy">ประกาศความเป็นส่วนตัว</a>ของ { -brand-product-name } และ<a data-l10n-name="terms_of_use">ข้อกำหนดการใช้งาน</a>ของ { -fakespot-brand-name }
 shopping-opt-in-integrated-button = ลองใช้เครื่องมือตรวจสอบบทวิจารณ์
 

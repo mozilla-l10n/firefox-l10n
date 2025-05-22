@@ -246,9 +246,6 @@ shopping-opt-in-integrated-headline = Tee ostoksia luottavaisin mielin
 shopping-callout-opt-in-integrated-headline = Voitko luottaa näihin arvosteluihin?
 shopping-callout-not-opted-in-integrated-reminder-dismiss-button = Hylkää
 shopping-callout-not-opted-in-integrated-reminder-accept-button = Ota arvostelujen tarkistus käyttöön
-shopping-callout-not-opted-in-integrated-reminder-do-not-show = Älä näytä tätä suositusta uudelleen
-shopping-callout-not-opted-in-integrated-reminder-show-fewer = Näytä vähemmän suosituksia
-shopping-callout-not-opted-in-integrated-reminder-manage-settings = Hallitse asetuksia
 shopping-opt-in-integrated-button = Kokeile arvostelujen tarkistusta
 
 ## Message strings for Review Checker's empty states.

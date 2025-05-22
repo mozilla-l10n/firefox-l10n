@@ -277,9 +277,6 @@ shopping-callout-not-opted-in-integrated-paragraph1 = Aktivera recensionsgranska
 shopping-callout-not-opted-in-integrated-paragraph2 = Genom att välja "{ shopping-opt-in-integrated-button }" godkänner du { -brand-product-name }:s <a data-l10n-name="privacy_policy">sekretessmeddelande</a> och { -fakespot-brand-full-name }:s <a data-l10n-name="terms_of_use">användarvillkor</a>.
 shopping-callout-not-opted-in-integrated-reminder-dismiss-button = Ignorera
 shopping-callout-not-opted-in-integrated-reminder-accept-button = Aktivera recensionsgranskaren
-shopping-callout-not-opted-in-integrated-reminder-do-not-show = Visa inte den här rekommendationen igen
-shopping-callout-not-opted-in-integrated-reminder-show-fewer = Visa färre rekommendationer
-shopping-callout-not-opted-in-integrated-reminder-manage-settings = Hantera inställningar
 shopping-opt-in-integrated-privacy-policy-and-terms-of-use = Recensionsgranskaren drivs av { -fakespot-brand-full-name }. Genom att välja "{ shopping-opt-in-integrated-button }" godkänner du { -brand-product-name }:s <a data-l10n-name="privacy_policy">sekretessmeddelande</a> och { -fakespot-brand-name }:s <a data-l10n-name="terms_of_use">användarvillkor.</a>
 shopping-opt-in-integrated-button = Testa recensionsgranskaren
 

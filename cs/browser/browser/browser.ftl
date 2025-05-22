@@ -1318,10 +1318,6 @@ popup-notification-addon-privatebrowsing-checkbox2 =
 popup-notification-addon-technical-and-interaction-checkbox =
     .label = Sdílet technická data a data o interakci s vývojářem rozšíření
     .accesskey = S
-# Note: Access key is set to P to match "Private" in the corresponding localized label.
-popup-notification-addon-privatebrowsing-checkbox =
-    .label = Povolit v anonymních oknech
-    .accesskey = P
 
 ## Pop-up warning
 

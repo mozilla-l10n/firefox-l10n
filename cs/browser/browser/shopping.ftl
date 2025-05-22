@@ -309,9 +309,6 @@ shopping-callout-not-opted-in-integrated-paragraph1 =
 shopping-callout-not-opted-in-integrated-paragraph2 = Vybráním “{ shopping-opt-in-integrated-button }” souhlasíte se <a data-l10n-name="privacy_policy">zásadami ochrany soukromí</a> { -brand-product-name } a <a data-l10n-name="terms_of_use">zásadami používání</a> služby { -fakespot-brand-full-name }.
 shopping-callout-not-opted-in-integrated-reminder-dismiss-button = Zavřít
 shopping-callout-not-opted-in-integrated-reminder-accept-button = Zapnout kontrolu recenzí
-shopping-callout-not-opted-in-integrated-reminder-do-not-show = Toto doporučení už nezobrazovat
-shopping-callout-not-opted-in-integrated-reminder-show-fewer = Zobrazovat méně doporučení
-shopping-callout-not-opted-in-integrated-reminder-manage-settings = Správa nastavení
 shopping-opt-in-integrated-privacy-policy-and-terms-of-use = Kontrolu recenzí zajišťuje { -fakespot-brand-full-name }. Výběrem možnosti “{ shopping-opt-in-integrated-button }” souhlasíte se <a data-l10n-name="privacy_policy">zásadami ochrany osobních údajů</a> { -brand-product-name } a <a data-l10n-name="terms_of_use">podmínkami používání</a> { -fakespot-brand-name }.
 shopping-opt-in-integrated-button = Vyzkoušet kontrolu recenzí
 

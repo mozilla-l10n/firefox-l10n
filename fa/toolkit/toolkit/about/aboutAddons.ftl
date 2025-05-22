@@ -389,8 +389,6 @@ addon-detail-group-label-quarantined-domains =
 addon-badge-recommended2 =
     .title = { -brand-product-name } تنها افزونه‌هایی را توصیه میکند، که با استانداردهای ما برای امنیت و کارایی مطابقت دارند
     .aria-label = { addon-badge-recommended2.title }
-addon-badge-recommended3 =
-    .title = { -brand-product-name } تنها افزونه‌هایی را توصیه میکند، که با استانداردهای ما برای امنیت و کارایی مطابقت دارند
 
 ##
 
@@ -465,4 +463,7 @@ plugins-widevine-description = این افزونه پخش رسانه‌های ر
 
 ## Headings for the Permissions tab in `about:addons` when the data collection
 ## feature is enabled.
+
+
+## Mapping Engine IDs from AI models to how that feature represented by the engine Id is described in the used by section in local model management
 

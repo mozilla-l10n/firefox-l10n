@@ -277,9 +277,6 @@ shopping-callout-not-opted-in-integrated-paragraph1 = Ak to chcete zistiť, zapn
 shopping-callout-not-opted-in-integrated-paragraph2 = Kliknutím na tlačidlo “{ shopping-opt-in-integrated-button }” súhlasíte s <a data-l10n-name="privacy_policy">Vyhlásením o ochrane osobných údajov</a> { -brand-product-name(case: "gen") } a <a data-l10n-name="terms_of_use">Podmienkami používania služby</a> od { -fakespot-brand-full-name }.
 shopping-callout-not-opted-in-integrated-reminder-dismiss-button = Zavrieť
 shopping-callout-not-opted-in-integrated-reminder-accept-button = Zapnúť Kontrolu recenzií
-shopping-callout-not-opted-in-integrated-reminder-do-not-show = Toto odporúčanie už nezobrazovať
-shopping-callout-not-opted-in-integrated-reminder-show-fewer = Zobrazovať menej odporúčaní
-shopping-callout-not-opted-in-integrated-reminder-manage-settings = Spravovať nastavenia
 shopping-opt-in-integrated-privacy-policy-and-terms-of-use = Kontrola recenzií využíva technológiu { -fakespot-brand-full-name }. Kliknutím na tlačidlo “{ shopping-opt-in-integrated-button }” súhlasíte s <a data-l10n-name="privacy_policy">Vyhlásením o ochrane osobných údajov</a> { -brand-product-name(case: "gen") } a <a data-l10n-name="terms_of_use">Podmienkami používania služby</a> od { -fakespot-brand-name }.
 shopping-opt-in-integrated-button = Vyskúšajte Kontrolu recenzií
 

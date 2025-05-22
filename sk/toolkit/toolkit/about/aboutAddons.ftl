@@ -310,14 +310,6 @@ addon-options-button =
     .aria-label = Ďalšie možnosti
 # Explanatory introduction to the list of recommended add-ons. The action word
 # ("recommends") in the final sentence is a link to external documentation.
-discopane-intro2 =
-    Rozšírenia a témy vzhľadu vám umožňujú prispôsobiť { -brand-product-name }. Môžu zlepšiť súkromie,
-    zvýšiť produktivitu, vylepšiť médiá, zmeniť vzhľad { -brand-product-name(case: "gen") } a
-    mnoho ďalšieho. Tieto malé softvérové programy sú často vyvíjané tretími stranami. Tu je
-    výber { -brand-product-name(case: "ins") } <a data-l10n-name="learn-more-trigger">odporúčaných</a> doplnkov
-    pre výnimočné zabezpečenie, výkon a funkčnosť.
-# Explanatory introduction to the list of recommended add-ons. The action word
-# ("recommends") in the final sentence is a link to external documentation.
 # We hard code "Firefox" because we do not want to imply that a Firefox fork is
 # making this recommendation.
 discopane-intro3 =
@@ -456,8 +448,6 @@ addon-badge-line3 =
 addon-badge-verified2 =
     .title = Toto rozšírenie bolo skontrolované a spĺňa naše štandardy bezpečnosti a výkonu
     .aria-label = { addon-badge-verified2.title }
-addon-badge-recommended3 =
-    .title = { -brand-product-name } odporúča len rozšírenia, ktoré spĺňajú naše štandardy pre bezpečnosť a výkon.
 # We hard code "Mozilla" in the string below because the extensions are built
 # by Mozilla and we don't want forks to display "by Fork".
 addon-badge-line4 =
@@ -469,8 +459,6 @@ addon-badge-line4 =
 # like the words "our" or "we".
 addon-badge-verified4 =
     .title = Toto rozšírenie bolo skontrolované a spĺňa štandardy pre bezpečnosť a výkon
-addon-badge-verified3 =
-    .title = Toto rozšírenie bolo skontrolované a spĺňa naše štandardy bezpečnosti a výkonu
 # This string needs to work in the context of other forks that are not Firefox
 # or built by Mozilla. In particular, we do not want to imply that an
 # organisation other than Mozilla or the Firefox team are making the
@@ -578,3 +566,6 @@ addon-permissions-required-data-collection = Požadovaný zber údajov:
 addon-permissions-optional-data-collection = Voliteľný zber údajov:
 # Name of the Permissions tab in `about:addons` when the data collection feature is enabled.
 permissions-data-addon-button = Povolenia a údaje
+
+## Mapping Engine IDs from AI models to how that feature represented by the engine Id is described in the used by section in local model management
+

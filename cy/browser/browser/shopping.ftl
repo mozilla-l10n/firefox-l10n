@@ -279,9 +279,6 @@ shopping-callout-not-opted-in-integrated-paragraph1 = Trowch Wirydd Adolygiadau 
 shopping-callout-not-opted-in-integrated-paragraph2 = Drwy ddewis “{ shopping-opt-in-integrated-button }” rydych yn cytuno i <a data-l10n-name="privacy_policy">hysbysiad preifatrwydd</a> a <a data-l10n-name="terms_of_use">amodau defnydd</a> { -brand-product-name }  a   { -fakespot-brand-full-name } .
 shopping-callout-not-opted-in-integrated-reminder-dismiss-button = Cau
 shopping-callout-not-opted-in-integrated-reminder-accept-button = Agor y Gwirydd Adolygiadau
-shopping-callout-not-opted-in-integrated-reminder-do-not-show = Peidiwch â dangos yr argymhelliad hwn eto
-shopping-callout-not-opted-in-integrated-reminder-show-fewer = Dangos llai o argymhellion
-shopping-callout-not-opted-in-integrated-reminder-manage-settings = Rheoli gosodiadau
 shopping-opt-in-integrated-privacy-policy-and-terms-of-use = Mae'r Gwiriwr Adolygu yn cael ei bweru gan { -fakespot-brand-full-name }. Drwy ddewis “{ shopping-opt-in-integrated-button }“ rydych yn cytuno i <a data-l10n-name="privacy_policy">hysbysiad preifatrwydd</a> { -brand-product-name }  ac <a data-l10n-name="terms_of_use">amodau defnydd</a> { -fakespot-brand-name }.
 shopping-opt-in-integrated-button = Rhowch gynnig ar y Gwirydd Adolygiadau
 

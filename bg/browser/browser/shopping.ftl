@@ -129,7 +129,6 @@ shopping-onboarding-welcome-steps-indicator-label =
 
 ## Messages for callout for users not opted into the sidebar integrated version of Review Checker.
 
-shopping-callout-not-opted-in-integrated-reminder-show-fewer = По-малко препоръки
 
 ## Message strings for Review Checker's empty states.
 

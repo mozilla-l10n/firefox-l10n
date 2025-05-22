@@ -369,8 +369,6 @@ addon-detail-private-browsing-disallow = Huwag Payagan
 addon-badge-recommended2 =
     .title = Inirerekomenda lamang ng { -brand-product-name } ang mga extension na pasok sa aming mga pamantayan pagdating sa seguridad at performance
     .aria-label = { addon-badge-recommended2.title }
-addon-badge-recommended3 =
-    .title = Inirerekomenda lamang ng { -brand-product-name } ang mga extension na pasok sa aming mga pamantayan pagdating sa seguridad at performance
 
 ##
 
@@ -443,4 +441,7 @@ plugins-widevine-description = Ang plugin na ito ay nagbibigay-daan sa pag-playb
 
 ## Headings for the Permissions tab in `about:addons` when the data collection
 ## feature is enabled.
+
+
+## Mapping Engine IDs from AI models to how that feature represented by the engine Id is described in the used by section in local model management
 

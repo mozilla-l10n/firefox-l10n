@@ -1205,10 +1205,6 @@ popup-notification-addon-privatebrowsing-checkbox2 =
 popup-notification-addon-technical-and-interaction-checkbox =
     .label = שיתוף נתונים טכניים ונתוני אינטראקציה עם מפתח ההרחבה
     .accesskey = ש
-# Note: Access key is set to P to match "Private" in the corresponding localized label.
-popup-notification-addon-privatebrowsing-checkbox =
-    .label = הפעלה בחלונות פרטיים
-    .accesskey = ה
 
 ## Pop-up warning
 

@@ -44,8 +44,6 @@ sidebar-context-menu-customize-sidebar =
 
 ## Labels for sidebar history context menu items
 
-sidebar-history-context-menu-delete-page =
-    .label = Ջնջել պատմությունից
 
 ## Labels for sidebar menu items.
 
@@ -99,8 +97,6 @@ sidebar-menu-history-header =
     .heading = Պատմություն
 sidebar-menu-syncedtabs-header =
     .heading = Ներդիրներ այլ սարքերից
-sidebar-menu-bookmarks-header =
-    .heading = Էջանիշեր
 sidebar-panel-header-close-button =
     .tooltiptext = Փակել
 

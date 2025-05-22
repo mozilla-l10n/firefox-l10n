@@ -298,14 +298,6 @@ addon-options-button =
     .aria-label = Aukera gehiago
 # Explanatory introduction to the list of recommended add-ons. The action word
 # ("recommends") in the final sentence is a link to external documentation.
-discopane-intro2 =
-    Hedapen eta itxurekin { -brand-product-name } pertsonaliza dezakezu. Pribatutasunari bultzada eman,
-    produktibitatea areagotu, multimedia hobetu, { -brand-product-name }(r)en itxura aldatu eta
-    gehiago egin dezakete. Software programa txiki hauek hirugarren batzuek eginak dira askotan.
-    Hona hemen { -brand-product-name }(e)k <a data-l10n-name="learn-more-trigger">gomendatzen</a>
-    dituen hautapen bat, aparteko segurtasun, errendimendu eta funtzionaltasunerako.
-# Explanatory introduction to the list of recommended add-ons. The action word
-# ("recommends") in the final sentence is a link to external documentation.
 # We hard code "Firefox" because we do not want to imply that a Firefox fork is
 # making this recommendation.
 discopane-intro3 =
@@ -443,8 +435,6 @@ addon-badge-line3 =
 addon-badge-verified2 =
     .title = Gehigarri hau berrikusi egin da gure segurtasun- eta errendimendu-estandarrak betetzeko
     .aria-label = { addon-badge-verified2.title }
-addon-badge-recommended3 =
-    .title = Segurtasun eta errendimendurako gure estandarrak betetzen dituzten hedapenak gomendatzen ditu { -brand-product-name }(e)k
 # We hard code "Mozilla" in the string below because the extensions are built
 # by Mozilla and we don't want forks to display "by Fork".
 addon-badge-line4 =
@@ -456,8 +446,6 @@ addon-badge-line4 =
 # like the words "our" or "we".
 addon-badge-verified4 =
     .title = Gehigarri hau berrikusi egin da segurtasun- eta errendimendu-estandarrak betetzeko
-addon-badge-verified3 =
-    .title = Gehigarri hau berrikusi egin da gure segurtasun- eta errendimendu-estandarrak betetzeko
 # This string needs to work in the context of other forks that are not Firefox
 # or built by Mozilla. In particular, we do not want to imply that an
 # organisation other than Mozilla or the Firefox team are making the
@@ -560,4 +548,7 @@ plugins-widevine-description = Plugin honek zifratutako multimediaren erreproduk
 
 ## Headings for the Permissions tab in `about:addons` when the data collection
 ## feature is enabled.
+
+
+## Mapping Engine IDs from AI models to how that feature represented by the engine Id is described in the used by section in local model management
 

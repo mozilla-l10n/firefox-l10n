@@ -277,9 +277,6 @@ shopping-callout-not-opted-in-integrated-paragraph1 = Schakel Beoordelingscontro
 shopping-callout-not-opted-in-integrated-paragraph2 = Door ‘{ shopping-opt-in-integrated-button }’ te selecteren, gaat u akkoord met de <a data-l10n-name="privacy_policy">privacyverklaring</a> van { -brand-product-name } en  de <a data-l10n-name="terms_of_use">gebruiksvoorwaarden</a> van { -fakespot-brand-full-name }.
 shopping-callout-not-opted-in-integrated-reminder-dismiss-button = Sluiten
 shopping-callout-not-opted-in-integrated-reminder-accept-button = Beoordelingscontrole inschakelen
-shopping-callout-not-opted-in-integrated-reminder-do-not-show = Deze aanbeveling niet meer tonen
-shopping-callout-not-opted-in-integrated-reminder-show-fewer = Minder aanbevelingen tonen
-shopping-callout-not-opted-in-integrated-reminder-manage-settings = Instellingen beheren
 shopping-opt-in-integrated-privacy-policy-and-terms-of-use = Beoordelingscontrole wordt mogelijk gemaakt door { -fakespot-brand-full-name }. Door ‘{ shopping-opt-in-integrated-button }’ te selecteren, gaat u akkoord met de <a data-l10n-name="privacy_policy">privacyverklaring</a> van { -brand-product-name } en de <a data-l10n-name="terms_of_use">gebruiksvoorwaarden</a> van { -fakespot-brand-name }.
 shopping-opt-in-integrated-button = Probeer beoordelingscontrole
 

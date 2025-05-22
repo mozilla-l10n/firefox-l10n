@@ -319,3 +319,6 @@ plugins-widevine-name = గూగుల్ ఇంక్ అందించిన
 ## Headings for the Permissions tab in `about:addons` when the data collection
 ## feature is enabled.
 
+
+## Mapping Engine IDs from AI models to how that feature represented by the engine Id is described in the used by section in local model management
+

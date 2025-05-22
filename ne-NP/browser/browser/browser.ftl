@@ -1013,10 +1013,6 @@ firefox-relay-offer-legal-notice = "इमेल मास्क प्रयो
 popup-notification-addon-install-unsigned =
     .value = (अप्रमाणित)
 popup-notification-xpinstall-prompt-learn-more = एड-अनहरू सुरक्षित रूपमा स्थापना गर्ने बारे थप जान्नुहोस्
-# Note: Access key is set to P to match "Private" in the corresponding localized label.
-popup-notification-addon-privatebrowsing-checkbox =
-    .label = निजी विन्डोजमा चलाउनुहोस्
-    .accesskey = P
 
 ## Pop-up warning
 

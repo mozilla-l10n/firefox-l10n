@@ -19,10 +19,6 @@ sidebar-history-date-prev-month =
     .heading = { DATETIME($date, month: "long", year: "numeric") }
 sidebar-history-delete =
     .title = Eliminar do historial
-sidebar-history-sort-by-date =
-    .label = Ordenar pola data
-sidebar-history-sort-by-site =
-    .label = Ordenar polo sitio
 sidebar-history-clear =
     .label = Borrar historial
 

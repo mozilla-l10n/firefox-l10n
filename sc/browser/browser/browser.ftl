@@ -1200,10 +1200,6 @@ popup-notification-xpinstall-prompt-block-url = Ammustra detàllios
 popup-notification-addon-privatebrowsing-checkbox2 =
     .label = Permite chi custa estensione funtzionet in ventanas privadas
     .accesskey = p
-# Note: Access key is set to P to match "Private" in the corresponding localized label.
-popup-notification-addon-privatebrowsing-checkbox =
-    .label = Imprea in is ventanas privadas
-    .accesskey = p
 
 ## Pop-up warning
 

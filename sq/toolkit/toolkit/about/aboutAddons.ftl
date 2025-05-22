@@ -308,15 +308,6 @@ addon-options-button =
     .aria-label = Më tepër Mundësi
 # Explanatory introduction to the list of recommended add-ons. The action word
 # ("recommends") in the final sentence is a link to external documentation.
-discopane-intro2 =
-    Zgjerimet dhe temat ju lejojnë të përshtatni { -brand-product-name }-in. Ato mund
-    të përforcojnë privatësinë, të zgjerojnë prodhimtarinë, të përmirësojnë media,
-    të ndryshojnë pamjen e { -brand-product-name }-it dhe shumë të tjera. Këto programe
-    të veckël software-i shpesh zhvillohen nga një palë e tretë. Ja një përzgjedhje që
-    { -brand-product-name } <a data-l10n-name="learn-more-trigger">rekomandon</a> për siguri,
-    funksionim dhe funksione jashtë të zakonshmes.
-# Explanatory introduction to the list of recommended add-ons. The action word
-# ("recommends") in the final sentence is a link to external documentation.
 # We hard code "Firefox" because we do not want to imply that a Firefox fork is
 # making this recommendation.
 discopane-intro3 =
@@ -455,8 +446,6 @@ addon-badge-line3 =
 addon-badge-verified2 =
     .title = Ky zgjerim është shqyrtuar për të qenë në pajtim me standardet tona për sigurinë dhe punimin.
     .aria-label = { addon-badge-verified2.title }
-addon-badge-recommended3 =
-    .title = { -brand-product-name } rekomandon vetëm zgjerime që pajohen me standadet tona mbi sigurinë dhe funksionimin
 # We hard code "Mozilla" in the string below because the extensions are built
 # by Mozilla and we don't want forks to display "by Fork".
 addon-badge-line4 =
@@ -468,8 +457,6 @@ addon-badge-line4 =
 # like the words "our" or "we".
 addon-badge-verified4 =
     .title = Ky zgjerim është shqyrtuar për të qenë në pajtim me standarde për sigurinë dhe punimin
-addon-badge-verified3 =
-    .title = Ky zgjerim është shqyrtuar për të qenë në pajtim me standardet tona për sigurinë dhe punimin.
 # This string needs to work in the context of other forks that are not Firefox
 # or built by Mozilla. In particular, we do not want to imply that an
 # organisation other than Mozilla or the Firefox team are making the
@@ -572,4 +559,7 @@ plugins-widevine-description = Kjo shtojcë bën të mundur luajtje mediash të 
 
 ## Headings for the Permissions tab in `about:addons` when the data collection
 ## feature is enabled.
+
+
+## Mapping Engine IDs from AI models to how that feature represented by the engine Id is described in the used by section in local model management
 

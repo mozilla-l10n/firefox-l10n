@@ -25,10 +25,6 @@ sidebar-history-date-prev-month =
     .heading = { DATETIME($date, month: "long", year: "numeric") }
 sidebar-history-delete =
     .title = Fuortsmite út skiednis
-sidebar-history-sort-by-date =
-    .label = Sortearje op datum
-sidebar-history-sort-by-site =
-    .label = Sortearje op website
 sidebar-history-clear =
     .label = Skiednis wiskje
 sidebar-history-sort-by-heading = Sortearje op:
@@ -105,8 +101,6 @@ sidebar-context-menu-close-remote-tab =
 
 ## Labels for sidebar history context menu items
 
-sidebar-history-context-menu-delete-page =
-    .label = Fuortsmite út skiednis
 sidebar-history-context-menu-delete-page-2 =
     .label = Side út skiednis fuortsmite
 sidebar-history-context-menu-bookmark-page =
@@ -166,8 +160,6 @@ sidebar-menu-history-header =
     .heading = Skiednis
 sidebar-menu-syncedtabs-header =
     .heading = Ljepblêden fan oare apparaten
-sidebar-menu-bookmarks-header =
-    .heading = Blêdwizers
 sidebar-menu-cpm-header =
     .heading = Wachtwurden
 sidebar-panel-header-close-button =

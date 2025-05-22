@@ -371,8 +371,6 @@ addon-detail-private-browsing-disallow = Niy zwolej
 addon-badge-recommended2 =
     .title = { -brand-product-name } rykōmynduje ino rozszyrzynia, co trzimiōm sie naszych sztandardōw bezpieczyństwa i fungowanio
     .aria-label = { addon-badge-recommended2.title }
-addon-badge-recommended3 =
-    .title = { -brand-product-name } rykōmynduje ino rozszyrzynia, co trzimiōm sie naszych sztandardōw bezpieczyństwa i fungowanio
 
 ##
 
@@ -445,4 +443,7 @@ plugins-widevine-description = Te rozszyrzynie dowo puszczać zaszyfrowane mydia
 
 ## Headings for the Permissions tab in `about:addons` when the data collection
 ## feature is enabled.
+
+
+## Mapping Engine IDs from AI models to how that feature represented by the engine Id is described in the used by section in local model management
 

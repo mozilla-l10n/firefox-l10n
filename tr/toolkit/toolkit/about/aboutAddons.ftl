@@ -306,9 +306,6 @@ addon-options-button =
     .aria-label = Diğer seçenekler
 # Explanatory introduction to the list of recommended add-ons. The action word
 # ("recommends") in the final sentence is a link to external documentation.
-discopane-intro2 = Uzantılar ve temalar { -brand-product-name } tarayıcınızı özelleştirmenizi sağlar. Gizliliğinizi artırabilir, veriminizi yükseltebilir, multimedya oynatmayı iyileştirebilir, { -brand-product-name } tarayıcısının görünümünü değiştirebilir ve çok daha fazlasını yapabilirler. Bu küçük yazılım programları genellikle üçüncü şahıslar tarafından geliştirilir. Mükemmel güvenlik, performans ve işlevsellik için { -brand-product-name } ekibinin <a data-l10n-name="learn-more-trigger">önerdiği</a> bazı uzantı ve temaları keşfedin.
-# Explanatory introduction to the list of recommended add-ons. The action word
-# ("recommends") in the final sentence is a link to external documentation.
 # We hard code "Firefox" because we do not want to imply that a Firefox fork is
 # making this recommendation.
 discopane-intro3 = Uzantılar ve temalar { -brand-product-name } tarayıcınızı özelleştirmenizi sağlar. Gizliliğinizi artırabilir, veriminizi yükseltebilir, multimedya oynatmayı iyileştirebilir, { -brand-product-name } tarayıcısının görünümünü değiştirebilir ve çok daha fazlasını yapabilirler. Bu küçük yazılım programları genellikle üçüncü şahıslar tarafından geliştirilir. Mükemmel güvenlik, performans ve işlevsellik için Firefox’un <a data-l10n-name="learn-more-trigger">önerdiği</a> bazı uzantı ve temaları keşfedin.
@@ -441,8 +438,6 @@ addon-badge-line3 =
 addon-badge-verified2 =
     .title = Bu uzantı incelendi, güvenlik ve performans standartlarımızı karşıladığı onaylandı
     .aria-label = { addon-badge-verified2.title }
-addon-badge-recommended3 =
-    .title = { -brand-product-name } yalnızca güvenlik ve performans standartlarımızı karşılayan uzantıları önerir
 # We hard code "Mozilla" in the string below because the extensions are built
 # by Mozilla and we don't want forks to display "by Fork".
 addon-badge-line4 =
@@ -454,8 +449,6 @@ addon-badge-line4 =
 # like the words "our" or "we".
 addon-badge-verified4 =
     .title = Bu uzantı incelendi, güvenlik ve performans standartlarını karşıladığı onaylandı
-addon-badge-verified3 =
-    .title = Bu uzantı incelendi, güvenlik ve performans standartlarımızı karşıladığı onaylandı
 # This string needs to work in the context of other forks that are not Firefox
 # or built by Mozilla. In particular, we do not want to imply that an
 # organisation other than Mozilla or the Firefox team are making the
@@ -563,3 +556,6 @@ addon-permissions-required-data-collection = Toplanması gereken veriler:
 addon-permissions-optional-data-collection = Toplanması isteğe bağlı veriler:
 # Name of the Permissions tab in `about:addons` when the data collection feature is enabled.
 permissions-data-addon-button = İzinler ve veriler
+
+## Mapping Engine IDs from AI models to how that feature represented by the engine Id is described in the used by section in local model management
+

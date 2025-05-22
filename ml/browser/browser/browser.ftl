@@ -1092,10 +1092,6 @@ popup-notification-addon-install-unsigned =
     .value = (പരിശോധിച്ചിട്ടില്ലാത്തതു്)
 popup-notification-xpinstall-prompt-learn-more = ആഡ്-ഓണുകൾ സുരക്ഷിതമായി സ്ഥാപിക്കുന്നതിനെക്കുറിച്ചു് കൂടുതലറിയുക.
 popup-notification-xpinstall-prompt-block-url = വിശദാംശങ്ങൾ കാണുക
-# Note: Access key is set to P to match "Private" in the corresponding localized label.
-popup-notification-addon-privatebrowsing-checkbox =
-    .label = സ്വകാര്യ ജാലകങ്ങളിൽ പ്രവർത്തിപ്പിക്കുക
-    .accesskey = സ
 
 ## Pop-up warning
 

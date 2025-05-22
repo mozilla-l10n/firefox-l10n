@@ -59,7 +59,6 @@ history-section-label = Povijest
 item-history-and-downloads =
     .label = Povijest pregledavanja i preuzimanja
     .accesskey = v
-item-history-and-downloads-description = Briše povijest pretraživanja, web stranica i preuzimanja
 item-history-form-data-downloads =
     .label = Povijest
     .accesskey = v

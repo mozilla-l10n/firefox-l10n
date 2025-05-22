@@ -213,9 +213,6 @@ shopping-onboarding-welcome-steps-indicator-label =
 
 shopping-callout-opt-in-integrated-headline = Tzemreḍ ad tamneḍ leṛyuy-a?
 shopping-callout-not-opted-in-integrated-reminder-dismiss-button = Zgel
-shopping-callout-not-opted-in-integrated-reminder-do-not-show = Ur d-skanay ara awelleh-a tikkelt tayeḍ
-shopping-callout-not-opted-in-integrated-reminder-show-fewer = Sken cwiṭ n yiwellihen
-shopping-callout-not-opted-in-integrated-reminder-manage-settings = Sefrek iɣewwaren
 shopping-opt-in-integrated-button = Ɛreḍ amsenqad n yilɣa
 
 ## Message strings for Review Checker's empty states.

@@ -310,14 +310,6 @@ addon-options-button =
     .aria-label = Lisää valintoja
 # Explanatory introduction to the list of recommended add-ons. The action word
 # ("recommends") in the final sentence is a link to external documentation.
-discopane-intro2 =
-    Laajennusten ja teemojen avulla voit muokata { -brand-product-name }ia. Ne voivat lisätä yksityisyyttä,
-    tehostaa tuottavuutta, parantaa mediaa, muuttaa { -brand-product-name }in ulkoasua ja
-    niin paljon muuta. Nämä pienet ohjelmistot ovat usein kolmannen osapuolen kehittämiä. Tässä
-    valikoima { -brand-product-name }in <a data-l10n-name="learn-more-trigger">suosittelemia</a>
-    turvallisuuden, suorituskyvyn ja toiminnallisuuden takaamiseksi.
-# Explanatory introduction to the list of recommended add-ons. The action word
-# ("recommends") in the final sentence is a link to external documentation.
 # We hard code "Firefox" because we do not want to imply that a Firefox fork is
 # making this recommendation.
 discopane-intro3 =
@@ -451,8 +443,6 @@ addon-badge-line3 =
 addon-badge-verified2 =
     .title = Tämä laajennnus on katselmoitu, ja se täyttää standardimme turvallisuuden ja suorituskyvyn suhteen.
     .aria-label = { addon-badge-verified2.title }
-addon-badge-recommended3 =
-    .title = { -brand-product-name } suosittelee vain laajennuksia, jotka täyttävät standardimme turvallisuuden ja suorituskyvyn suhteen
 # We hard code "Mozilla" in the string below because the extensions are built
 # by Mozilla and we don't want forks to display "by Fork".
 addon-badge-line4 =
@@ -464,8 +454,6 @@ addon-badge-line4 =
 # like the words "our" or "we".
 addon-badge-verified4 =
     .title = Tämä laajennnus on katselmoitu, ja se täyttää turvallisuuden ja suorituskyvyn standardit
-addon-badge-verified3 =
-    .title = Tämä laajennnus on katselmoitu, ja se täyttää standardimme turvallisuuden ja suorituskyvyn suhteen.
 # This string needs to work in the context of other forks that are not Firefox
 # or built by Mozilla. In particular, we do not want to imply that an
 # organisation other than Mozilla or the Firefox team are making the
@@ -568,4 +556,7 @@ plugins-widevine-description = Tämä liitännäinen mahdollistaa Encrypted Medi
 
 ## Headings for the Permissions tab in `about:addons` when the data collection
 ## feature is enabled.
+
+
+## Mapping Engine IDs from AI models to how that feature represented by the engine Id is described in the used by section in local model management
 

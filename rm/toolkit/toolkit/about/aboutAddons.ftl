@@ -300,14 +300,6 @@ addon-options-button =
     .aria-label = Ulteriuras opziuns
 # Explanatory introduction to the list of recommended add-ons. The action word
 # ("recommends") in the final sentence is a link to external documentation.
-discopane-intro2 =
-    Extensiuns e designs ta permettan da persunalisar { -brand-product-name }. Els pon augmentar la protecziun da datas,
-    meglierar la productivitad, optimar multimedia, midar l’apparientscha da { -brand-product-name } e
-    bler dapli. Quests pitschens programs vegnan savens sviluppads da terzas partidas. Qua
-    ina selecziun che { -brand-product-name }<a data-l10n-name="learn-more-trigger">recumonda</a>
-    per segirezza, prestaziun e funcziunalitad excepziunala.
-# Explanatory introduction to the list of recommended add-ons. The action word
-# ("recommends") in the final sentence is a link to external documentation.
 # We hard code "Firefox" because we do not want to imply that a Firefox fork is
 # making this recommendation.
 discopane-intro3 =
@@ -446,8 +438,6 @@ addon-badge-line3 =
 addon-badge-verified2 =
     .title = Questa extensiun è vegnida controllada per garantir noss standard da segirezza e performanza
     .aria-label = { addon-badge-verified2.title }
-addon-badge-recommended3 =
-    .title = { -brand-product-name } recumonda mo extensiuns che correspundan a noss standards da segirezza e prestaziun
 # We hard code "Mozilla" in the string below because the extensions are built
 # by Mozilla and we don't want forks to display "by Fork".
 addon-badge-line4 =
@@ -459,8 +449,6 @@ addon-badge-line4 =
 # like the words "our" or "we".
 addon-badge-verified4 =
     .title = Questa extensiun è vegnida controllada per garantir standards da segirezza e performanza
-addon-badge-verified3 =
-    .title = Questa extensiun è vegnida controllada per garantir noss standard da segirezza e performanza
 # This string needs to work in the context of other forks that are not Firefox
 # or built by Mozilla. In particular, we do not want to imply that an
 # organisation other than Mozilla or the Firefox team are making the
@@ -563,4 +551,7 @@ plugins-widevine-description = Quest plug-in pussibilitescha la lectura da media
 
 ## Headings for the Permissions tab in `about:addons` when the data collection
 ## feature is enabled.
+
+
+## Mapping Engine IDs from AI models to how that feature represented by the engine Id is described in the used by section in local model management
 

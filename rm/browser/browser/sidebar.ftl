@@ -25,10 +25,6 @@ sidebar-history-date-prev-month =
     .heading = { DATETIME($date, month: "long", year: "numeric") }
 sidebar-history-delete =
     .title = Stizzar da la cronologia
-sidebar-history-sort-by-date =
-    .label = Zavrar tenor data
-sidebar-history-sort-by-site =
-    .label = Zavrar tenor website
 sidebar-history-clear =
     .label = Stizzar la cronologia
 sidebar-history-sort-by-heading = Zavrar tenor:
@@ -99,8 +95,6 @@ sidebar-context-menu-close-remote-tab =
 
 ## Labels for sidebar history context menu items
 
-sidebar-history-context-menu-delete-page =
-    .label = Stizzar da la cronologia
 
 ## Labels for sidebar menu items.
 
@@ -156,8 +150,6 @@ sidebar-menu-history-header =
     .heading = Cronologia
 sidebar-menu-syncedtabs-header =
     .heading = Tabs dad auters apparats
-sidebar-menu-bookmarks-header =
-    .heading = Segnapaginas
 sidebar-menu-cpm-header =
     .heading = Pleds-clav
 sidebar-panel-header-close-button =

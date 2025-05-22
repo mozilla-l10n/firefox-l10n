@@ -60,7 +60,6 @@ item-history-and-downloads =
     .label = 瀏覽與下載記錄
     .accesskey = B
 item-history-and-downloads-description2 = 清除網站與下載紀錄
-item-history-and-downloads-description = 清除搜尋、網站紀錄與下載紀錄
 item-history-form-data-downloads =
     .label = 瀏覽紀錄
     .accesskey = H

@@ -25,10 +25,6 @@ sidebar-history-date-prev-month =
     .heading = { DATETIME($date, month: "long", year: "numeric") }
 sidebar-history-delete =
     .title = Xóa khỏi lịch sử
-sidebar-history-sort-by-date =
-    .label = Sắp xếp theo ngày
-sidebar-history-sort-by-site =
-    .label = Sắp xếp theo trang web
 sidebar-history-clear =
     .label = Xóa lịch sử
 sidebar-history-sort-by-heading = Sắp xếp theo:
@@ -105,8 +101,6 @@ sidebar-context-menu-close-remote-tab =
 
 ## Labels for sidebar history context menu items
 
-sidebar-history-context-menu-delete-page =
-    .label = Xóa khỏi lịch sử
 sidebar-history-context-menu-delete-page-2 =
     .label = Xóa trang từ lịch sử
 sidebar-history-context-menu-bookmark-page =
@@ -166,8 +160,6 @@ sidebar-menu-history-header =
     .heading = Lịch sử
 sidebar-menu-syncedtabs-header =
     .heading = Thẻ từ thiết bị khác
-sidebar-menu-bookmarks-header =
-    .heading = Dấu trang
 sidebar-menu-cpm-header =
     .heading = Mật khẩu
 sidebar-panel-header-close-button =

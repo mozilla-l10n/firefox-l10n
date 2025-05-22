@@ -277,9 +277,6 @@ shopping-callout-not-opted-in-integrated-paragraph1 = Öğrenmek için { -brand-
 shopping-callout-not-opted-in-integrated-paragraph2 = “{ shopping-opt-in-integrated-button } seçeneğini seçtiğinizde { -brand-product-name } <a data-l10n-name="privacy_policy">gizlilik bildirimini</a> ve { -fakespot-brand-full-name } <a data-l10n-name="terms_of_use">kullanım koşullarını</a> kabul etmiş olursunuz.
 shopping-callout-not-opted-in-integrated-reminder-dismiss-button = Kapat
 shopping-callout-not-opted-in-integrated-reminder-accept-button = Değerlendirme kontrolcüsünü aç
-shopping-callout-not-opted-in-integrated-reminder-do-not-show = Bu öneriyi bir daha gösterme
-shopping-callout-not-opted-in-integrated-reminder-show-fewer = Daha az öneri göster
-shopping-callout-not-opted-in-integrated-reminder-manage-settings = Ayarları yönet
 shopping-opt-in-integrated-privacy-policy-and-terms-of-use = Değerlendirme Kontrolcüsü { -fakespot-brand-full-name } altyapısını kullanır. “{ shopping-opt-in-integrated-button } seçeneğini seçtiğinizde { -brand-product-name } <a data-l10n-name="privacy_policy">gizlilik bildirimini</a> ve { -fakespot-brand-name } <a data-l10n-name="terms_of_use">kullanım koşullarını</a> kabul etmiş olursunuz.
 shopping-opt-in-integrated-button = Değerlendirme kontrolcüsünü deneyin
 

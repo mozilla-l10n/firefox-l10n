@@ -1165,10 +1165,6 @@ popup-notification-addon-install-unsigned =
     .value = (Gun dearbhadh)
 popup-notification-xpinstall-prompt-learn-more = Barrachd fiosrachaidh mu stàladh tèarainte de thuilleadain
 popup-notification-xpinstall-prompt-block-url = Faic am mion-fhiosrachadh
-# Note: Access key is set to P to match "Private" in the corresponding localized label.
-popup-notification-addon-privatebrowsing-checkbox =
-    .label = Ruith ann an uinneagan prìobhaideach
-    .accesskey = R
 
 ## Pop-up warning
 

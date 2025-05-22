@@ -59,7 +59,6 @@ history-section-label = Ferill
 item-history-and-downloads =
     .label = Vafra og niðurhals ferla
     .accesskey = V
-item-history-and-downloads-description = Hreinsar feril leitar, vefsvæða og niðurhals
 item-history-form-data-downloads =
     .label = Ferill
     .accesskey = F

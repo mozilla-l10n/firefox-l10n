@@ -278,14 +278,10 @@ addon-badge-line3 =
 addon-badge-verified2 =
     .title = Esta estensión revisóse pa cumplir colos nuesos estándares de seguranza y rindimientu
     .aria-label = { addon-badge-verified2.title }
-addon-badge-recommended3 =
-    .title = { -brand-product-name } aconseya namás les estensiones que cumplan colos nuesos estándares de seguranza y rindimientu
 # We hard code "Mozilla" in the string below because the extensions are built
 # by Mozilla and we don't want forks to display "by Fork".
 addon-badge-line4 =
     .title = Estensión oficial fecha por Mozilla. Cumple colos estándares de seguranza y rindimientu
-addon-badge-verified3 =
-    .title = Esta estensión revisóse pa cumplir colos nuesos estándares de seguranza y rindimientu
 
 ##
 
@@ -359,4 +355,7 @@ plugins-widevine-description = Esti plugin activa la reproducción del conteníu
 
 ## Headings for the Permissions tab in `about:addons` when the data collection
 ## feature is enabled.
+
+
+## Mapping Engine IDs from AI models to how that feature represented by the engine Id is described in the used by section in local model management
 

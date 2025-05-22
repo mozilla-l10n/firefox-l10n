@@ -296,9 +296,6 @@ addon-options-button =
     .aria-label = 更多选项
 # Explanatory introduction to the list of recommended add-ons. The action word
 # ("recommends") in the final sentence is a link to external documentation.
-discopane-intro2 = 您可通过安装扩展和主题来定制 { -brand-product-name }，强化隐私保护、提升浏览效率、改进媒体体验、更改 { -brand-product-name } 外观，还有更多妙用。这些小型软件程序大多由第三方开发。以下是一些 { -brand-product-name } <a data-l10n-name="learn-more-trigger">推荐</a>的附加组件，它们在安全、性能、功能等方面表现优秀。
-# Explanatory introduction to the list of recommended add-ons. The action word
-# ("recommends") in the final sentence is a link to external documentation.
 # We hard code "Firefox" because we do not want to imply that a Firefox fork is
 # making this recommendation.
 discopane-intro3 = 您可通过安装扩展和主题来定制 { -brand-product-name }，强化隐私保护、提升浏览效率、改进媒体体验、更改 { -brand-product-name } 外观，还有更多妙用。这些小型软件程序大多由第三方开发。以下是一些 Firefox <a data-l10n-name="learn-more-trigger">推荐</a>的附加组件，它们在安全、性能、功能等方面表现优秀。
@@ -430,8 +427,6 @@ addon-badge-line3 =
 addon-badge-verified2 =
     .title = 此扩展已通过审核，符合我们的安全和性能标准
     .aria-label = { addon-badge-verified2.title }
-addon-badge-recommended3 =
-    .title = { -brand-product-name } 只推荐符合我们的安全和性能标准的扩展。
 # We hard code "Mozilla" in the string below because the extensions are built
 # by Mozilla and we don't want forks to display "by Fork".
 addon-badge-line4 =
@@ -442,8 +437,6 @@ addon-badge-line4 =
 # security or performance reviews. As such, we avoid personalising language
 # like the words "our" or "we".
 addon-badge-verified4 =
-    .title = 此扩展已通过审核，符合我们的安全和性能标准
-addon-badge-verified3 =
     .title = 此扩展已通过审核，符合我们的安全和性能标准
 # This string needs to work in the context of other forks that are not Firefox
 # or built by Mozilla. In particular, we do not want to imply that an
@@ -552,3 +545,6 @@ addon-permissions-required-data-collection = 必要的数据收集：
 addon-permissions-optional-data-collection = 可选的数据收集：
 # Name of the Permissions tab in `about:addons` when the data collection feature is enabled.
 permissions-data-addon-button = 权限与数据
+
+## Mapping Engine IDs from AI models to how that feature represented by the engine Id is described in the used by section in local model management
+

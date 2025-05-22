@@ -277,9 +277,6 @@ shopping-callout-not-opted-in-integrated-paragraph1 = Active el verificador de r
 shopping-callout-not-opted-in-integrated-paragraph2 = Al seleccionar “{ shopping-opt-in-integrated-button }“, acepta la <a data-l10n-name="privacy_policy">nota de privacidad</a> de { -brand-product-name } y los <a data-l10n-name="terms_of_use">términos de uso</a> de { -fakespot-brand-full-name }.
 shopping-callout-not-opted-in-integrated-reminder-dismiss-button = Descartar
 shopping-callout-not-opted-in-integrated-reminder-accept-button = Activar verificador de revisiones
-shopping-callout-not-opted-in-integrated-reminder-do-not-show = No mostrar esta recomendación nuevamente
-shopping-callout-not-opted-in-integrated-reminder-show-fewer = Mostrar menos recomendaciones
-shopping-callout-not-opted-in-integrated-reminder-manage-settings = Administrar preferencias
 shopping-opt-in-integrated-privacy-policy-and-terms-of-use = El verificador de revisiones funciona con tecnología de{ -fakespot-brand-full-name }. Al seleccionar “{ shopping-opt-in-integrated-button }“, acepta la <a data-l10n-name="privacy_policy">nota de privacidad</a> de { -brand-product-name } y los <a data-l10n-name="terms_of_use">términos de uso</a> de { -fakespot-brand-name }.
 shopping-opt-in-integrated-button = Probar el verificador de revisiones
 

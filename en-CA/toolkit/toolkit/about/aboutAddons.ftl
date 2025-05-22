@@ -297,14 +297,6 @@ find-more-themes = Find more themes
 # used for screen readers.
 addon-options-button =
     .aria-label = More Options
-# Explanatory introduction to the list of recommended add-ons. The action word
-# ("recommends") in the final sentence is a link to external documentation.
-discopane-intro2 =
-    Extensions and themes let you customize { -brand-product-name }. They can boost privacy,
-    enhance productivity, improve media, change the way { -brand-product-name } looks, and
-    so much more. These small software programs are often developed by a third party. Here’s
-    a selection { -brand-product-name } <a data-l10n-name="learn-more-trigger">recommends</a>
-    for exceptional security, performance, and functionality.
 
 ## Add-on actions
 
@@ -434,14 +426,10 @@ addon-badge-line3 =
 addon-badge-verified2 =
     .title = This extension has been reviewed to meet our standards for security and performance
     .aria-label = { addon-badge-verified2.title }
-addon-badge-recommended3 =
-    .title = { -brand-product-name } only recommends extensions that meet our standards for security and performance
 # We hard code "Mozilla" in the string below because the extensions are built
 # by Mozilla and we don't want forks to display "by Fork".
 addon-badge-line4 =
     .title = Official extension built by Mozilla. Meets security and performance standards
-addon-badge-verified3 =
-    .title = This extension has been reviewed to meet our standards for security and performance
 
 ##
 
@@ -537,4 +525,7 @@ plugins-widevine-description = This plugin enables playback of encrypted media i
 
 ## Headings for the Permissions tab in `about:addons` when the data collection
 ## feature is enabled.
+
+
+## Mapping Engine IDs from AI models to how that feature represented by the engine Id is described in the used by section in local model management
 

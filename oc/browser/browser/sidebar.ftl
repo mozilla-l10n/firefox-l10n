@@ -19,10 +19,6 @@ sidebar-history-date-prev-month =
     .heading = { DATETIME($date, month: "long", year: "numeric") }
 sidebar-history-delete =
     .title = Suprimir de l’istoric
-sidebar-history-sort-by-date =
-    .label = Triar per data
-sidebar-history-sort-by-site =
-    .label = Triar per site
 sidebar-history-clear =
     .label = Escafar l'istoric
 
@@ -66,8 +62,6 @@ sidebar-context-menu-close-remote-tab =
 
 ## Labels for sidebar history context menu items
 
-sidebar-history-context-menu-delete-page =
-    .label = Suprimir de l’istoric
 
 ## Labels for sidebar menu items.
 

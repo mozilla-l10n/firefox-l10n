@@ -379,8 +379,6 @@ addon-detail-quarantined-domains-disallow = Nu permite
 addon-badge-recommended2 =
     .title = { -brand-product-name } recomandă numai extensiile care ne întrunesc standardele de securitate și performanță
     .aria-label = { addon-badge-recommended2.title }
-addon-badge-recommended3 =
-    .title = { -brand-product-name } recomandă numai extensiile care ne întrunesc standardele de securitate și performanță
 
 ##
 
@@ -455,4 +453,7 @@ plugins-widevine-description = Acest plugin permite redarea fișierelor multimed
 
 ## Headings for the Permissions tab in `about:addons` when the data collection
 ## feature is enabled.
+
+
+## Mapping Engine IDs from AI models to how that feature represented by the engine Id is described in the used by section in local model management
 

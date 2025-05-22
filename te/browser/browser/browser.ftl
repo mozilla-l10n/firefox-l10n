@@ -927,10 +927,6 @@ popup-notification-addon-install-unsigned =
     .value = (నిర్ధారించబడనిది)
 popup-notification-xpinstall-prompt-learn-more = పొడగింతలను సురక్షితంగా స్థాపించుకోవడం గురించి ఇంకా తెలుసుకోండి
 popup-notification-xpinstall-prompt-block-url = వివరాలను చూడండి
-# Note: Access key is set to P to match "Private" in the corresponding localized label.
-popup-notification-addon-privatebrowsing-checkbox =
-    .label = అంతరంగిక కిటికీలలో నడుపు
-    .accesskey = P
 
 ## Pop-up warning
 

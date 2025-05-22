@@ -277,9 +277,6 @@ shopping-callout-not-opted-in-integrated-paragraph1 = 开启 { -brand-product-na
 shopping-callout-not-opted-in-integrated-paragraph2 = 选择“{ shopping-opt-in-integrated-button }”即代表您同意 { -brand-product-name } 的<a data-l10n-name="privacy_policy">隐私政策</a>和 { -fakespot-brand-full-name } 的<a data-l10n-name="terms_of_use">使用条款</a>。
 shopping-callout-not-opted-in-integrated-reminder-dismiss-button = 知道了
 shopping-callout-not-opted-in-integrated-reminder-accept-button = 开启核查评价
-shopping-callout-not-opted-in-integrated-reminder-do-not-show = 不再显示此建议
-shopping-callout-not-opted-in-integrated-reminder-show-fewer = 减少显示建议
-shopping-callout-not-opted-in-integrated-reminder-manage-settings = 管理设置
 shopping-opt-in-integrated-privacy-policy-and-terms-of-use = “核查评价”由 { -fakespot-brand-full-name } 提供支持，选择“{ shopping-opt-in-integrated-button }”即代表您同意 { -brand-product-name } 的<a data-l10n-name="privacy_policy">隐私声明</a>和 { -fakespot-brand-name } 的<a data-l10n-name="terms_of_use">使用条款</a>。
 shopping-opt-in-integrated-button = 试试核查评价
 

@@ -414,14 +414,10 @@ addon-badge-line3 =
 addon-badge-verified2 =
     .title = Овај додатак је прегледан и задовољава наше стандарде безбедности и перформанси
     .aria-label = { addon-badge-verified2.title }
-addon-badge-recommended3 =
-    .title = { -brand-product-name } препоручује само додатке који задовољавају наше стандарде безбедности и перформанси
 # We hard code "Mozilla" in the string below because the extensions are built
 # by Mozilla and we don't want forks to display "by Fork".
 addon-badge-line4 =
     .title = Званични додатак организације Mozilla. Задовољава стандарде безбедности и перформанси
-addon-badge-verified3 =
-    .title = Овај додатак је прегледан и задовољава наше стандарде безбедности и перформанси
 
 ##
 
@@ -517,4 +513,7 @@ plugins-widevine-description = Ова додатна компонента омо
 
 ## Headings for the Permissions tab in `about:addons` when the data collection
 ## feature is enabled.
+
+
+## Mapping Engine IDs from AI models to how that feature represented by the engine Id is described in the used by section in local model management
 

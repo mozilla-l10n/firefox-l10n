@@ -1203,10 +1203,6 @@ popup-notification-addon-privatebrowsing-checkbox2 =
 popup-notification-addon-technical-and-interaction-checkbox =
     .label = 分享技術與互動資料給擴充套件開發者
     .accesskey = S
-# Note: Access key is set to P to match "Private" in the corresponding localized label.
-popup-notification-addon-privatebrowsing-checkbox =
-    .label = 於隱私視窗中執行
-    .accesskey = P
 
 ## Pop-up warning
 

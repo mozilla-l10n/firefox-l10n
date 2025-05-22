@@ -25,10 +25,6 @@ sidebar-history-date-prev-month =
     .heading = { DATETIME($date, month: "long", year: "numeric") }
 sidebar-history-delete =
     .title = Smazat z historie
-sidebar-history-sort-by-date =
-    .label = Řadit podle data
-sidebar-history-sort-by-site =
-    .label = Řadit podle serveru
 sidebar-history-clear =
     .label = Vymazat historii
 sidebar-history-sort-by-heading = Řazení:
@@ -113,8 +109,6 @@ sidebar-context-menu-close-remote-tab =
 
 ## Labels for sidebar history context menu items
 
-sidebar-history-context-menu-delete-page =
-    .label = Smazat z historie
 sidebar-history-context-menu-delete-page-2 =
     .label = Smazat stránku z historie
 sidebar-history-context-menu-bookmark-page =
@@ -174,8 +168,6 @@ sidebar-menu-history-header =
     .heading = Historie
 sidebar-menu-syncedtabs-header =
     .heading = Panely z jiných zařízení
-sidebar-menu-bookmarks-header =
-    .heading = Záložky
 sidebar-menu-cpm-header =
     .heading = Hesla
 sidebar-panel-header-close-button =

@@ -1208,10 +1208,6 @@ popup-notification-addon-privatebrowsing-checkbox2 =
 popup-notification-addon-technical-and-interaction-checkbox =
     .label = Deildu tæknilegum gögnum og gagnvirknigögnum með höfundi forritsaukans
     .accesskey = k
-# Note: Access key is set to P to match "Private" in the corresponding localized label.
-popup-notification-addon-privatebrowsing-checkbox =
-    .label = Keyra í huliðsgluggum
-    .accesskey = h
 
 ## Pop-up warning
 

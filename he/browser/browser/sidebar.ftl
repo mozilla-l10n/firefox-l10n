@@ -25,10 +25,6 @@ sidebar-history-date-prev-month =
     .heading = { DATETIME($date, month: "long", year: "numeric") }
 sidebar-history-delete =
     .title = מחיקה מההיסטוריה
-sidebar-history-sort-by-date =
-    .label = מיון לפי תאריך
-sidebar-history-sort-by-site =
-    .label = מיון לפי אתר
 sidebar-history-clear =
     .label = ניקוי היסטוריה
 sidebar-history-sort-by-heading = מיון לפי:
@@ -105,8 +101,6 @@ sidebar-context-menu-close-remote-tab =
 
 ## Labels for sidebar history context menu items
 
-sidebar-history-context-menu-delete-page =
-    .label = מחיקה מההיסטוריה
 sidebar-history-context-menu-delete-page-2 =
     .label = מחיקת הדף מההיסטוריה
 sidebar-history-context-menu-bookmark-page =
@@ -166,8 +160,6 @@ sidebar-menu-history-header =
     .heading = היסטוריה
 sidebar-menu-syncedtabs-header =
     .heading = לשוניות ממכשירים אחרים
-sidebar-menu-bookmarks-header =
-    .heading = סימניות
 sidebar-menu-cpm-header =
     .heading = ססמאות
 sidebar-panel-header-close-button =

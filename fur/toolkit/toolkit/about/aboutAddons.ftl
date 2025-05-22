@@ -306,9 +306,6 @@ find-more-themes = Cjate plui temis
 # used for screen readers.
 addon-options-button =
     .aria-label = Plui opzions
-# Explanatory introduction to the list of recommended add-ons. The action word
-# ("recommends") in the final sentence is a link to external documentation.
-discopane-intro2 = Estensions e temis ti permetin di personalizâ { -brand-product-name }. A puedin judâti a potenziâ la tô riservatece, incressi la produtivitât, miorâ la esperience cui contignûts multimediâi, cambiâ l’aspiet di { -brand-product-name } e tant altri. Chestis piçulis aplicazions software a son dispès svilupadis di tiercis parts. Chi tu cjatis une selezion di elements <a data-l10n-name="learn-more-trigger">conseâts</a> di { -brand-product-name } pe sigurece, prestazions e funzionalitâts ecezionâls.
 
 ## Add-on actions
 
@@ -438,14 +435,10 @@ addon-badge-line3 =
 addon-badge-verified2 =
     .title = Cheste estension e je stade verificade pal rispiet dai standards di sigurece e prestazions
     .aria-label = { addon-badge-verified2.title }
-addon-badge-recommended3 =
-    .title = { -brand-product-name } al permet dome lis estensions che a sodisfin i nestris standards di sigurece e prestazions
 # We hard code "Mozilla" in the string below because the extensions are built
 # by Mozilla and we don't want forks to display "by Fork".
 addon-badge-line4 =
     .title = Estension uficiâl realizade di Mozilla. E rispiete i standards di sigurece e prestazions
-addon-badge-verified3 =
-    .title = Cheste estension e je stade verificade pal rispiet dai standards di sigurece e prestazions
 
 ##
 
@@ -541,4 +534,7 @@ plugins-widevine-description = Chest plugin al abilite la riproduzion di flus mu
 
 ## Headings for the Permissions tab in `about:addons` when the data collection
 ## feature is enabled.
+
+
+## Mapping Engine IDs from AI models to how that feature represented by the engine Id is described in the used by section in local model management
 

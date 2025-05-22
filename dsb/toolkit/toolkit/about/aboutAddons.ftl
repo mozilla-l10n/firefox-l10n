@@ -304,14 +304,6 @@ addon-options-button =
     .aria-label = Dalšne nastajenja
 # Explanatory introduction to the list of recommended add-ons. The action word
 # ("recommends") in the final sentence is a link to external documentation.
-discopane-intro2 =
-    Rozšyrjenja a drastwy wam zmóžnjaju, { -brand-product-name } pśiměriś. Mógu priwatnosć pówušyś,
-    produktiwitu pówušyś, medije pólěpšyś, naglěd { -brand-product-name } změniś a
-    wjele wěcej. Toś te małe programy se cesto wót tśeśich wuwijaju. How jo
-    wuběrk, kótaryž { -brand-product-name } <a data-l10n-name="learn-more-trigger">dopórucujo</a>
-    za wósebnjejšu wěstotu, wósebnjejše wugbaśe a wósebnjejšu funkcionalnosć.
-# Explanatory introduction to the list of recommended add-ons. The action word
-# ("recommends") in the final sentence is a link to external documentation.
 # We hard code "Firefox" because we do not want to imply that a Firefox fork is
 # making this recommendation.
 discopane-intro3 =
@@ -451,8 +443,6 @@ addon-badge-line3 =
 addon-badge-verified2 =
     .title = Toś to rozšyrjenje jo se pśeglědało, aby našym standardam za wěstotu a wugbaśe wótpowědował.
     .aria-label = { addon-badge-verified2.title }
-addon-badge-recommended3 =
-    .title = { -brand-product-name } jano rozšyrjenja dopórucujo, kótarež našym standardam za wěstotu a wugbaśe wótpowěduju.
 # We hard code "Mozilla" in the string below because the extensions are built
 # by Mozilla and we don't want forks to display "by Fork".
 addon-badge-line4 =
@@ -464,8 +454,6 @@ addon-badge-line4 =
 # like the words "our" or "we".
 addon-badge-verified4 =
     .title = Toś to rozšyrjenje jo se pśeglědało, aby standardam za wěstotu a wugbaśe wótpowědował.
-addon-badge-verified3 =
-    .title = Toś to rozšyrjenje jo se pśeglědało, aby našym standardam za wěstotu a wugbaśe wótpowědował.
 # This string needs to work in the context of other forks that are not Firefox
 # or built by Mozilla. In particular, we do not want to imply that an
 # organisation other than Mozilla or the Firefox team are making the
@@ -573,3 +561,6 @@ addon-permissions-required-data-collection = Trjebne gromaźenje datow:
 addon-permissions-optional-data-collection = Opcionalne gromaźenje datow:
 # Name of the Permissions tab in `about:addons` when the data collection feature is enabled.
 permissions-data-addon-button = Pšawa a daty
+
+## Mapping Engine IDs from AI models to how that feature represented by the engine Id is described in the used by section in local model management
+

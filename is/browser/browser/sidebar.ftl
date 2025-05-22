@@ -25,10 +25,6 @@ sidebar-history-date-prev-month =
     .heading = { DATETIME($date, month: "long", year: "numeric") }
 sidebar-history-delete =
     .title = Eyða úr ferli
-sidebar-history-sort-by-date =
-    .label = Raða eftir dagsetningu
-sidebar-history-sort-by-site =
-    .label = Raða eftir vefsvæðum
 sidebar-history-clear =
     .label = Hreinsa feril
 sidebar-history-sort-by-heading = Raða eftir:
@@ -105,8 +101,6 @@ sidebar-context-menu-close-remote-tab =
 
 ## Labels for sidebar history context menu items
 
-sidebar-history-context-menu-delete-page =
-    .label = Eyða úr ferli
 sidebar-history-context-menu-delete-page-2 =
     .label = Eyða síðu úr vafurferli
 sidebar-history-context-menu-bookmark-page =
@@ -166,8 +160,6 @@ sidebar-menu-history-header =
     .heading = Ferill
 sidebar-menu-syncedtabs-header =
     .heading = Flipar frá öðrum tækjum
-sidebar-menu-bookmarks-header =
-    .heading = Bókamerki
 sidebar-menu-cpm-header =
     .heading = Lykilorð
 sidebar-panel-header-close-button =

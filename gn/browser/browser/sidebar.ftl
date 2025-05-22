@@ -25,10 +25,6 @@ sidebar-history-date-prev-month =
     .heading = { DATETIME($date, month: "long", year: "numeric") }
 sidebar-history-delete =
     .title = Emboguete tembiasakuégui
-sidebar-history-sort-by-date =
-    .label = Arange rupive
-sidebar-history-sort-by-site =
-    .label = Tenda rupive
 sidebar-history-clear =
     .label = Embogue tembiasakue
 sidebar-history-sort-by-heading = Oñemoĩporã:
@@ -105,8 +101,6 @@ sidebar-context-menu-close-remote-tab =
 
 ## Labels for sidebar history context menu items
 
-sidebar-history-context-menu-delete-page =
-    .label = Emboguete tembiasakuégui
 sidebar-history-context-menu-delete-page-2 =
     .label = Emboguete tembiasakue kuatiaroguégui
 sidebar-history-context-menu-bookmark-page =
@@ -166,8 +160,6 @@ sidebar-menu-history-header =
     .heading = Tembiasakue
 sidebar-menu-syncedtabs-header =
     .heading = Tendaykekuéra ambue mba’e’okagua
-sidebar-menu-bookmarks-header =
-    .heading = Techaukaha
 sidebar-menu-cpm-header =
     .heading = Ñe’ẽñemikuéra
 sidebar-panel-header-close-button =

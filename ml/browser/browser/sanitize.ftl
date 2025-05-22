@@ -54,7 +54,6 @@ history-section-label = നാള്‍വഴി
 item-history-and-downloads =
     .label = തിരച്ചിലും ഇറക്കിവയ്ക്കൽ നാള്‍വഴിയും
     .accesskey = ഡ
-item-history-and-downloads-description = തിരച്ചിൽ നാൾവഴിയും വെബിട നാൾവഴിയും ഇറക്കിവയ്ക്കൽ നാൾവഴിയും മായ്ക്കും
 item-history-form-data-downloads =
     .label = നാള്‍വഴി
     .accesskey = ന

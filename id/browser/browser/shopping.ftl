@@ -277,9 +277,6 @@ shopping-callout-not-opted-in-integrated-paragraph1 = Aktifkan Pemeriksa Ulasan 
 shopping-callout-not-opted-in-integrated-paragraph2 = Dengan memilih“{ shopping-opt-in-integrated-button }”, Anda menyetujui <a data-l10n-name="privacy_policy">pemberitahuan privasi</a> dari { -brand-product-name } dan <a data-l10n-name="terms_of_use">persyaratan penggunaan</a> dari { -fakespot-brand-full-name }.
 shopping-callout-not-opted-in-integrated-reminder-dismiss-button = Tutup
 shopping-callout-not-opted-in-integrated-reminder-accept-button = Aktifkan Pemeriksa Ulasan
-shopping-callout-not-opted-in-integrated-reminder-do-not-show = Jangan tampilkan rekomendasi ini lagi
-shopping-callout-not-opted-in-integrated-reminder-show-fewer = Tampilkan lebih sedikit rekomendasi
-shopping-callout-not-opted-in-integrated-reminder-manage-settings = Kelola pengaturan
 shopping-opt-in-integrated-privacy-policy-and-terms-of-use = Pemeriksa Ulasan didukung oleh { -fakespot-brand-full-name }. Dengan memilih “{ shopping-opt-in-integrated-button }“, Anda menyetujui <a data-l10n-name="privacy_policy">pemberitahuan privasi</a> dari { -brand-product-name } dan <a data-l10n-name="terms_of_use">persyaratan penggunaan</a> dari { -fakespot-brand-name }.
 shopping-opt-in-integrated-button = Coba Pemeriksa Tinjauan
 

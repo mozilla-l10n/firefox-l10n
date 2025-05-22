@@ -1063,10 +1063,6 @@ popup-notification-addon-install-unsigned =
     .value = (Neprovjeren)
 popup-notification-xpinstall-prompt-learn-more = Saznajte više o sigurnoj instalaciji add-ona
 popup-notification-xpinstall-prompt-block-url = Pokaži detalje
-# Note: Access key is set to P to match "Private" in the corresponding localized label.
-popup-notification-addon-privatebrowsing-checkbox =
-    .label = Pokreni u privatnim prozorima
-    .accesskey = P
 
 ## Pop-up warning
 

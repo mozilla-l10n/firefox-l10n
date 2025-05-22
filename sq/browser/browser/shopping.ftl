@@ -277,9 +277,6 @@ shopping-callout-not-opted-in-integrated-paragraph1 = Që ta gjeni, aktivizoni K
 shopping-callout-not-opted-in-integrated-paragraph2 = Duke përzgjedhur “{ shopping-opt-in-integrated-button }” pajtoheni me <a data-l10n-name="privacy_policy">shënim privatësie</a> të { -brand-product-name }-it dhe <a data-l10n-name="terms_of_use">kushte përdorimi</a> nga { -fakespot-brand-full-name }.
 shopping-callout-not-opted-in-integrated-reminder-dismiss-button = Hidhe tej
 shopping-callout-not-opted-in-integrated-reminder-accept-button = Aktivizoni Kontrollorin e Shqyrtimeve
-shopping-callout-not-opted-in-integrated-reminder-do-not-show = Mos e shfaq më këtë rekomandim
-shopping-callout-not-opted-in-integrated-reminder-show-fewer = Shfaq më pak rekomandime
-shopping-callout-not-opted-in-integrated-reminder-manage-settings = Administroni rregullime
 shopping-opt-in-integrated-privacy-policy-and-terms-of-use = Kontrollor Shqyrtimesh bazohet në { -fakespot-brand-full-name }. Duke përzgjedhur “{ shopping-opt-in-integrated-button }“, pajtoheni me <a data-l10n-name="privacy_policy">shënim privatësie</a> të { -brand-product-name } dhe <a data-l10n-name="terms_of_use">terma përdorimi</a> nga { -fakespot-brand-name }.
 shopping-opt-in-integrated-button = Provoni Kontrollor Shqyrtimesh
 

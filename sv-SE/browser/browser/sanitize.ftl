@@ -60,7 +60,6 @@ item-history-and-downloads =
     .label = Besökta sidor och filhämtningshistorik
     .accesskey = B
 item-history-and-downloads-description2 = Rensar webbplats- och nedladdningshistorik
-item-history-and-downloads-description = Rensar sök-, webbplats- och nedladdningshistorik
 item-history-form-data-downloads =
     .label = Historik
     .accesskey = H

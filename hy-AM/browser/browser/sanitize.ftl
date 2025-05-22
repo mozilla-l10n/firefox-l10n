@@ -59,7 +59,6 @@ item-history-and-downloads =
     .label = Դիտարկումների և ներբեռնումների պատմությունը
     .accesskey = Դ
 item-history-and-downloads-description2 = Մաքրում է կայքի և ներբեռնումների պատմությունը
-item-history-and-downloads-description = Մաքրում է որոնման, կայքի և ներբեռնումների պատմությունը
 item-history-form-data-downloads =
     .label = Պատմություն
     .accesskey = Պ

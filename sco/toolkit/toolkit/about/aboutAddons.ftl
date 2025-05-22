@@ -392,14 +392,10 @@ addon-badge-line3 =
 addon-badge-verified2 =
     .title = This extension has been pruived tae meet oor staunarts fur siccarness and performance
     .aria-label = { addon-badge-verified2.title }
-addon-badge-recommended3 =
-    .title = { -brand-product-name } anely recommends extensions that meet oor staunarts fur siccarness and performance
 # We hard code "Mozilla" in the string below because the extensions are built
 # by Mozilla and we don't want forks to display "by Fork".
 addon-badge-line4 =
     .title = Offeecial extension pit thegither by Mozilla. Meets security and performance staunarts
-addon-badge-verified3 =
-    .title = This extension has been pruived tae meet oor staunarts fur siccarness and performance
 
 ##
 
@@ -475,4 +471,7 @@ plugins-widevine-description = This plugin enables playback o encryptit media in
 
 ## Headings for the Permissions tab in `about:addons` when the data collection
 ## feature is enabled.
+
+
+## Mapping Engine IDs from AI models to how that feature represented by the engine Id is described in the used by section in local model management
 

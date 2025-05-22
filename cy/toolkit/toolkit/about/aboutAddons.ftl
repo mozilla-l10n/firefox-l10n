@@ -312,14 +312,6 @@ addon-options-button =
     .aria-label = Rhagor o Ddewisiadau
 # Explanatory introduction to the list of recommended add-ons. The action word
 # ("recommends") in the final sentence is a link to external documentation.
-discopane-intro2 =
-    Mae estyniadau a themâu yn gadael i chi addasu { -brand-product-name }. Gallan nhw hybu preifatrwydd,
-    gwella cynhyrchiant, gwella cyfryngau, newid y ffordd y mae { -brand-product-name } yn edrych, a
-    cymaint mwy. Mae'r rhaglenni meddalwedd bach hyn yn aml yn cael eu datblygu gan drydydd parti. Dyma
-    mae detholiad { -brand-product-name } <a data-l10n-name="learn-more-trigger">yn eu hargymell</a>
-    ar gyfer diogelwch, perfformiad, ac ymarferoldeb eithriadol.
-# Explanatory introduction to the list of recommended add-ons. The action word
-# ("recommends") in the final sentence is a link to external documentation.
 # We hard code "Firefox" because we do not want to imply that a Firefox fork is
 # making this recommendation.
 discopane-intro3 =
@@ -462,8 +454,6 @@ addon-badge-line3 =
 addon-badge-verified2 =
     .title = Mae'r estyniad hwn wedi'i adolygu i fodloni ein safonau ar gyfer diogelwch a pherfformiad
     .aria-label = { addon-badge-verified2.title }
-addon-badge-recommended3 =
-    .title = Dim ond estyniadau sy'n cwrdd â'n safonau ar gyfer diogelwch a pherfformiad y mae { -brand-product-name } yn eu hargymell
 # We hard code "Mozilla" in the string below because the extensions are built
 # by Mozilla and we don't want forks to display "by Fork".
 addon-badge-line4 =
@@ -475,8 +465,6 @@ addon-badge-line4 =
 # like the words "our" or "we".
 addon-badge-verified4 =
     .title = Mae'r estyniad hwn wedi'i adolygu i fodloni safonau diogelwch a pherfformiad
-addon-badge-verified3 =
-    .title = Mae'r estyniad hwn wedi'i adolygu i fodloni ein safonau ar gyfer diogelwch a pherfformiad
 # This string needs to work in the context of other forks that are not Firefox
 # or built by Mozilla. In particular, we do not want to imply that an
 # organisation other than Mozilla or the Firefox team are making the
@@ -584,3 +572,6 @@ addon-permissions-required-data-collection = Casglu data gofynnol:
 addon-permissions-optional-data-collection = Casglu data dewisol:
 # Name of the Permissions tab in `about:addons` when the data collection feature is enabled.
 permissions-data-addon-button = Caniatâd a data
+
+## Mapping Engine IDs from AI models to how that feature represented by the engine Id is described in the used by section in local model management
+

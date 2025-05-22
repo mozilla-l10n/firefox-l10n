@@ -25,10 +25,6 @@ sidebar-history-date-prev-month =
     .heading = { DATETIME($date, month: "long", year: "numeric") }
 sidebar-history-delete =
     .title = Geçmişten sil
-sidebar-history-sort-by-date =
-    .label = Tarihe göre sırala
-sidebar-history-sort-by-site =
-    .label = Siteye göre sırala
 sidebar-history-clear =
     .label = Geçmişi temizle
 sidebar-history-sort-by-heading = Sıralama:
@@ -105,8 +101,6 @@ sidebar-context-menu-close-remote-tab =
 
 ## Labels for sidebar history context menu items
 
-sidebar-history-context-menu-delete-page =
-    .label = Geçmişten sil
 sidebar-history-context-menu-delete-page-2 =
     .label = Sayfayı geçmişten sil
 sidebar-history-context-menu-bookmark-page =
@@ -166,8 +160,6 @@ sidebar-menu-history-header =
     .heading = Geçmiş
 sidebar-menu-syncedtabs-header =
     .heading = Diğer cihazlardaki sekmeler
-sidebar-menu-bookmarks-header =
-    .heading = Yer imleri
 sidebar-menu-cpm-header =
     .heading = Parolalar
 sidebar-panel-header-close-button =

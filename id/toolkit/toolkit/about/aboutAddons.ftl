@@ -297,14 +297,6 @@ find-more-themes = Temukan lebih banyak tema
 # used for screen readers.
 addon-options-button =
     .aria-label = Opsi Lainnya
-# Explanatory introduction to the list of recommended add-ons. The action word
-# ("recommends") in the final sentence is a link to external documentation.
-discopane-intro2 =
-    Ekstensi dan tema memungkinkan Anda menyesuaikan { -brand-product-name }. Keduanya dapat meningkatkan privasi,
-    meningkatkan produktivitas, meningkatkan media, mengubah tampilan { -brand-product-name }, dan
-    lebih banyak lagi. Program perangkat lunak kecil ini sering dikembangkan oleh pihak ketiga. 
-    Berikut adalah <a data-l10n-name="learn-more-trigger">rekomendasi</a> pilihan { -brand-product-name }
-    untuk keamanan, kinerja, dan fungsionalitas yang luar biasa.
 
 ## Add-on actions
 
@@ -433,14 +425,10 @@ addon-badge-line3 =
 addon-badge-verified2 =
     .title = Ekstensi ini telah ditinjau untuk memenuhi standar keamanan dan kinerja kami
     .aria-label = { addon-badge-verified2.title }
-addon-badge-recommended3 =
-    .title = { -brand-product-name } hanya menyarankan ekstensi yang memenuhi standar keamanan dan kinerja kami.
 # We hard code "Mozilla" in the string below because the extensions are built
 # by Mozilla and we don't want forks to display "by Fork".
 addon-badge-line4 =
     .title = Ekstensi resmi yang dibuat oleh Mozilla, memenuhi standar keamanan dan kinerja
-addon-badge-verified3 =
-    .title = Ekstensi ini telah ditinjau untuk memenuhi standar keamanan dan kinerja kami
 
 ##
 
@@ -536,4 +524,7 @@ plugins-widevine-description = Plugin ini memungkinkan pemutaran media terenkrip
 
 ## Headings for the Permissions tab in `about:addons` when the data collection
 ## feature is enabled.
+
+
+## Mapping Engine IDs from AI models to how that feature represented by the engine Id is described in the used by section in local model management
 

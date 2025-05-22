@@ -293,13 +293,6 @@ find-more-themes = Көбірек темаларды табу
 # used for screen readers.
 addon-options-button =
     .aria-label = Көбірек опциялар
-# Explanatory introduction to the list of recommended add-ons. The action word
-# ("recommends") in the final sentence is a link to external documentation.
-discopane-intro2 =
-    Кеңейтулер мен темалар сізге { -brand-product-name } баптауға мүмкіндік береді. Олар жекелікті мен өнімділікті арттыруға,
-    мультимедианы жақсартуға, { -brand-product-name } сыртқы түрін өзгертуге және т.б. мүмкіндік береді. Бұл шағын
-    бағдарламалық қамтаманы көбінесе үшінші тарап әзірлейді. Мұнда ерекше қауіпсіздік, өнімділік және функционалдылық үшін
-    { -brand-product-name } <a data-l10n-name="learn-more-trigger">ұсынатын таңдау</a> берілген.
 
 ## Add-on actions
 
@@ -428,14 +421,10 @@ addon-badge-line3 =
 addon-badge-verified2 =
     .title = Бұл кеңейту қауіпсіздік пен өнімділік стандарттарына сай келетініне тексерілді
     .aria-label = { addon-badge-verified2.title }
-addon-badge-recommended3 =
-    .title = { -brand-product-name } тек біздің қауіпсіздік және өнімділік стандарттарына сай келетін кеңейтулерді ұсынады
 # We hard code "Mozilla" in the string below because the extensions are built
 # by Mozilla and we don't want forks to display "by Fork".
 addon-badge-line4 =
     .title = Mozilla компаниясы жасаған ресми кеңейту. Қауіпсіздік және өнімділік стандарттарына сәйкес келеді
-addon-badge-verified3 =
-    .title = Бұл кеңейту қауіпсіздік пен өнімділік стандарттарына сай келетініне тексерілді
 
 ##
 
@@ -531,4 +520,7 @@ plugins-widevine-description = Бұл плагин шифрленген меди
 
 ## Headings for the Permissions tab in `about:addons` when the data collection
 ## feature is enabled.
+
+
+## Mapping Engine IDs from AI models to how that feature represented by the engine Id is described in the used by section in local model management
 

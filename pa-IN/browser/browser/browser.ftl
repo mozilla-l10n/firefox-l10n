@@ -1202,10 +1202,6 @@ popup-notification-xpinstall-prompt-block-url = ਵੇਰਵਿਆਂ ਨੂੰ 
 popup-notification-addon-privatebrowsing-checkbox2 =
     .label = ਪ੍ਰਾਈਵੇਟ ਵਿੰਡੋਆਂ ਵਿੱਚ ਇਕਸਟੈਨਸ਼ਨ ਚੱਲਣ ਦੀ ਮਨਜ਼ੂਰੀ
     .accesskey = p
-# Note: Access key is set to P to match "Private" in the corresponding localized label.
-popup-notification-addon-privatebrowsing-checkbox =
-    .label = ਪ੍ਰਾਈਵੇਟ ਵਿੰਡੋ ਵਿੱਚ ਚਲਾਓ
-    .accesskey = P
 
 ## Pop-up warning
 

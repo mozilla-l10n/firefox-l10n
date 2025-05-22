@@ -1168,10 +1168,6 @@ popup-notification-addon-install-unsigned =
     .value = (непроверено)
 popup-notification-xpinstall-prompt-learn-more = Научете повече за безопасното инсталиране на добавки
 popup-notification-xpinstall-prompt-block-url = Вижте подробности
-# Note: Access key is set to P to match "Private" in the corresponding localized label.
-popup-notification-addon-privatebrowsing-checkbox =
-    .label = Да работи в поверителни прозорци
-    .accesskey = п
 
 ## Pop-up warning
 

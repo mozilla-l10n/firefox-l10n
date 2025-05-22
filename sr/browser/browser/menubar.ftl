@@ -23,11 +23,11 @@ menu-application-services =
     .label = Услуге
 menu-application-hide-this =
     .label =
-        Сакриј { -brand-shorter-name.gender ->
-            [masculine] { -brand-shorter-name(case: "acc") }
-            [feminine] { -brand-shorter-name(case: "acc") }
-            [neuter] { -brand-shorter-name(case: "acc") }
-           *[other] програм { -brand-shorter-name }
+        { -brand-shorter-name.gender ->
+            [masculine] Сакриј { -brand-shorter-name(case: "acc") }
+            [feminine] Сакриј { -brand-shorter-name(case: "acc") }
+            [neuter] Сакриј { -brand-shorter-name(case: "acc") }
+           *[other] Сакриј програм { -brand-shorter-name }
         }
 menu-application-hide-other =
     .label = Сакриј остале
@@ -45,19 +45,19 @@ menu-quit =
 # This menu-quit-mac string is only used on macOS.
 menu-quit-mac =
     .label =
-        Изађи из { -brand-shorter-name.gender ->
-            [masculine] { -brand-shorter-name(case: "gen") }
-            [feminine] { -brand-shorter-name(case: "gen") }
-            [neuter] { -brand-shorter-name(case: "gen") }
-           *[other] програма { -brand-shorter-name }
+        { -brand-shorter-name.gender ->
+            [masculine] Изађи из { -brand-shorter-name(case: "gen") }
+            [feminine] Изађи из { -brand-shorter-name(case: "gen") }
+            [neuter] Изађи из { -brand-shorter-name(case: "gen") }
+           *[other] Изађи из програма { -brand-shorter-name }
         }
 menu-about =
     .label =
-        О { -brand-shorter-name.gender ->
-            [masculine] { -brand-shorter-name(case: "loc") }
-            [feminine] { -brand-shorter-name(case: "loc") }
-            [neuter] { -brand-shorter-name(case: "loc") }
-           *[other] програму { -brand-shorter-name }
+        { -brand-shorter-name.gender ->
+            [masculine] О { -brand-shorter-name(case: "loc") }
+            [feminine] О { -brand-shorter-name(case: "loc") }
+            [neuter] О { -brand-shorter-name(case: "loc") }
+           *[other] О програму { -brand-shorter-name }
         }
     .accesskey = О
 
@@ -297,12 +297,12 @@ menu-tools-sync-now =
     .accesskey = С
 menu-tools-fxa-re-auth =
     .label =
-        Поново се повежи са { -brand-product-name.gender ->
-            [masculine] { -brand-product-name(case: "ins") }
-            [feminine] { -brand-product-name(case: "ins") }
-            [neuter] { -brand-product-name(case: "ins") }
-           *[other] програмом { -brand-product-name }
-        }…
+        { -brand-product-name.gender ->
+            [masculine] Поново се повежи са { -brand-product-name(case: "ins") }…
+            [feminine] Поново се повежи са { -brand-product-name(case: "ins") }…
+            [neuter] Поново се повежи са { -brand-product-name(case: "ins") }…
+           *[other] Поново се повежи са програмом { -brand-product-name }…
+        }
     .accesskey = П
 menu-tools-browser-tools =
     .label = Алатке прегледача

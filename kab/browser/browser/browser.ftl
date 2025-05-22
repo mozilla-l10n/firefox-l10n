@@ -1187,10 +1187,6 @@ popup-notification-xpinstall-prompt-block-url = Wali talqayt
 popup-notification-addon-privatebrowsing-checkbox2 =
     .label = Sireg asiɣzef ad yeddu deg usfaylu uslig
     .accesskey = S
-# Note: Access key is set to P to match "Private" in the corresponding localized label.
-popup-notification-addon-privatebrowsing-checkbox =
-    .label = Sker deg usfaylu uslig
-    .accesskey = S
 
 ## Pop-up warning
 

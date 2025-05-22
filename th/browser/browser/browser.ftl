@@ -1196,10 +1196,6 @@ popup-notification-xpinstall-prompt-block-url = ดูรายละเอี�
 popup-notification-addon-privatebrowsing-checkbox2 =
     .label = อนุญาตให้ส่วนขยายทำงานในหน้าต่างส่วนตัว
     .accesskey = อ
-# Note: Access key is set to P to match "Private" in the corresponding localized label.
-popup-notification-addon-privatebrowsing-checkbox =
-    .label = เรียกใช้ในหน้าต่างส่วนตัว
-    .accesskey = ส
 
 ## Pop-up warning
 

@@ -294,9 +294,6 @@ addon-options-button =
     .aria-label = 更多選項
 # Explanatory introduction to the list of recommended add-ons. The action word
 # ("recommends") in the final sentence is a link to external documentation.
-discopane-intro2 = 您可以使用擴充套件與佈景主題來自訂 { -brand-product-name }。您可以安裝它們來擴充隱私保護、加強生產力、改善媒體功能，調整 { -brand-product-name } 外觀，還有滿滿其他功能。這些小軟體通常都是由第三方打造的，以下是一系列 { -brand-product-name } <a data-l10n-name="learn-more-trigger">推薦的</a>，在安全性、效能、功能上均有傑出表現的套件。
-# Explanatory introduction to the list of recommended add-ons. The action word
-# ("recommends") in the final sentence is a link to external documentation.
 # We hard code "Firefox" because we do not want to imply that a Firefox fork is
 # making this recommendation.
 discopane-intro3 = 您可以使用擴充套件與佈景主題來自訂 { -brand-product-name }。您可以安裝它們來擴充隱私保護、加強生產力、改善媒體功能，調整 { -brand-product-name } 外觀，還有滿滿其他功能。這些小軟體通常都是由第三方打造的，以下是一系列 Firefox <a data-l10n-name="learn-more-trigger">推薦的</a>，在安全性、效能、功能上均有傑出表現的套件。
@@ -428,8 +425,6 @@ addon-badge-line3 =
 addon-badge-verified2 =
     .title = 我們檢查過此擴充套件，確認符合安全性與運作效能標準
     .aria-label = { addon-badge-verified2.title }
-addon-badge-recommended3 =
-    .title = { -brand-product-name } 僅推薦符合我們的安全性與效能標準的擴充套件
 # We hard code "Mozilla" in the string below because the extensions are built
 # by Mozilla and we don't want forks to display "by Fork".
 addon-badge-line4 =
@@ -441,8 +436,6 @@ addon-badge-line4 =
 # like the words "our" or "we".
 addon-badge-verified4 =
     .title = 我們審查過此擴充套件，確認符合安全性與運作效能標準
-addon-badge-verified3 =
-    .title = 我們檢查過此擴充套件，確認符合安全性與運作效能標準
 # This string needs to work in the context of other forks that are not Firefox
 # or built by Mozilla. In particular, we do not want to imply that an
 # organisation other than Mozilla or the Firefox team are making the
@@ -550,3 +543,6 @@ addon-permissions-required-data-collection = 必需收集的資料：
 addon-permissions-optional-data-collection = 選擇性收集的資料：
 # Name of the Permissions tab in `about:addons` when the data collection feature is enabled.
 permissions-data-addon-button = 權限與資料
+
+## Mapping Engine IDs from AI models to how that feature represented by the engine Id is described in the used by section in local model management
+

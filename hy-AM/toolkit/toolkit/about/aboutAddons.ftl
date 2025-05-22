@@ -287,12 +287,6 @@ addon-options-button =
     .aria-label = Լրացուցիչ ընտրանքներ
 # Explanatory introduction to the list of recommended add-ons. The action word
 # ("recommends") in the final sentence is a link to external documentation.
-discopane-intro2 =
-    Ընդլայնումները և ոճերը հնարավորություն են տալիս ձեզ հարմարեցնել { -brand-product-name }-ը: Դրանք կարող են խթանել անվտանգությունը, կատարելագործել արտադրողականությունը, լավարկել մեդիան, փոխել { -brand-product-name }-ի տեսքը և շատ ավելին: Այս փոքրիկ ծրագրաշարային ծրագրերը հաճախ ստեղծվել են երրորդ կողմից: Ահա դրանցից մի քանիսը, որոնք { -brand-product-name }
-    <a data-l10n-name="learn-more-trigger">խորհուրդ է տրվում</a>՝ բացառիկ
-    անվտանգության, արդյունավետության և գործառություն համար։
-# Explanatory introduction to the list of recommended add-ons. The action word
-# ("recommends") in the final sentence is a link to external documentation.
 # We hard code "Firefox" because we do not want to imply that a Firefox fork is
 # making this recommendation.
 discopane-intro3 =
@@ -423,14 +417,10 @@ addon-badge-line3 =
 addon-badge-verified2 =
     .title = Այս ընդլայնումը գնահատվել է՝ անվտանգության և արտադրողականության մեր չափանիշներին համապատասխանելու համար
     .aria-label = { addon-badge-verified2.title }
-addon-badge-recommended3 =
-    .title = { -brand-product-name }-ը միայն խորհուրդ է տալիս ընդլայնումներ, որոնք համապատասխանում են անվտանգության և արտադրողականության մեր չափանիշներին
 # We hard code "Mozilla" in the string below because the extensions are built
 # by Mozilla and we don't want forks to display "by Fork".
 addon-badge-line4 =
     .title = Պաշտոնական ընդլայնում, հավաքված Mozilla-ի կողմից: Համապատասխանում է անվտանգության և արտադրողականության չափանիշներին
-addon-badge-verified3 =
-    .title = Այս ընդլայնումը գնահատվել է՝ անվտանգության և արտադրողականության մեր չափանիշներին համապատասխանելու համար
 
 ##
 
@@ -506,4 +496,7 @@ plugins-widevine-description = Այս բաղադրիչը հնարավորութ�
 
 ## Headings for the Permissions tab in `about:addons` when the data collection
 ## feature is enabled.
+
+
+## Mapping Engine IDs from AI models to how that feature represented by the engine Id is described in the used by section in local model management
 

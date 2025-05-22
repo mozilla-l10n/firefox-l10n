@@ -1198,10 +1198,6 @@ popup-notification-xpinstall-prompt-block-url = Sjå detaljar
 popup-notification-addon-privatebrowsing-checkbox2 =
     .label = Tillat utvidingar å køyre i private vindauge
     .accesskey = u
-# Note: Access key is set to P to match "Private" in the corresponding localized label.
-popup-notification-addon-privatebrowsing-checkbox =
-    .label = Køyr i privat vindauge
-    .accesskey = P
 
 ## Pop-up warning
 

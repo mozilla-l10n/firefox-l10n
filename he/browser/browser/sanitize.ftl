@@ -60,7 +60,6 @@ item-history-and-downloads =
     .label = היסטוריית גלישה והורדות
     .accesskey = ה
 item-history-and-downloads-description2 = מנקה את היסטוריית האתרים וההורדות
-item-history-and-downloads-description = מנקה את היסטוריית החיפוש, האתרים וההורדות
 item-history-form-data-downloads =
     .label = היסטוריה
     .accesskey = ה

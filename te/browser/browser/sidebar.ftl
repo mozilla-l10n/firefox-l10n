@@ -25,8 +25,6 @@ sidebar-context-menu-copy-link =
 
 ## Labels for sidebar history context menu items
 
-sidebar-history-context-menu-delete-page =
-    .label = చరిత్ర నుండి తొలగించు
 
 ## Labels for sidebar menu items.
 

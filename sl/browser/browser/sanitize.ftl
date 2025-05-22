@@ -60,7 +60,6 @@ item-history-and-downloads =
     .label = zgodovino brskanja in prenosov
     .accesskey = B
 item-history-and-downloads-description2 = Počisti zgodovino strani in prenosov
-item-history-and-downloads-description = Počisti zgodovino iskanja, strani in prenosov
 item-history-form-data-downloads =
     .label = Zgodovino
     .accesskey = g

@@ -298,14 +298,6 @@ find-more-themes = Finna fleiri þemu
 # used for screen readers.
 addon-options-button =
     .aria-label = Fleiri valkostir
-# Explanatory introduction to the list of recommended add-ons. The action word
-# ("recommends") in the final sentence is a link to external documentation.
-discopane-intro2 =
-    Forritsaukar og þemu gera þér kleift að sérsníða { -brand-product-name }. Þeir geta aukið friðhelgi einkalífsins,
-    aukið afköst, bætt margmiðlun, breyta því hvernig { -brand-product-name } lítur út og
-    margt fleira. Þessi litlu hugbúnaðarforrit eru oft þróuð af utanaðkomandi aðilum. Hér má sjá
-    úrval slíks sem{ -brand-product-name } <a data-l10n-name="learn-more-trigger">mælir með</a>
-    til að tryggja einstakt öryggi, afköst og aukna virkni.
 
 ## Add-on actions
 
@@ -435,14 +427,10 @@ addon-badge-line3 =
 addon-badge-verified2 =
     .title = Þessi forritsauki hefur verið yfirfarinn til að uppfylla staðla okkar um öryggi og afköst
     .aria-label = { addon-badge-verified2.title }
-addon-badge-recommended3 =
-    .title = { -brand-product-name } mælir aðeins með forritsaukum sem uppfylla staðla okkar um öryggi og afköst
 # We hard code "Mozilla" in the string below because the extensions are built
 # by Mozilla and we don't want forks to display "by Fork".
 addon-badge-line4 =
     .title = Opinber forritsauki byggður af Mozilla. Uppfyllir öryggis- og afkastastaðla
-addon-badge-verified3 =
-    .title = Þessi forritsauki hefur verið yfirfarinn til að uppfylla staðla okkar um öryggi og afköst
 
 ##
 
@@ -538,4 +526,7 @@ plugins-widevine-description = Þetta tengiforrit býður upp á afspilun dulkó
 
 ## Headings for the Permissions tab in `about:addons` when the data collection
 ## feature is enabled.
+
+
+## Mapping Engine IDs from AI models to how that feature represented by the engine Id is described in the used by section in local model management
 

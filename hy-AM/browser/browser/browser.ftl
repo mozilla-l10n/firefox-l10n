@@ -1169,10 +1169,6 @@ popup-notification-addon-install-unsigned =
     .value = (Չստուգված)
 popup-notification-xpinstall-prompt-learn-more = Իմացեք ավելին հավելումների ապահով տեղակայման մասին
 popup-notification-xpinstall-prompt-block-url = Դիտել մանրամասները
-# Note: Access key is set to P to match "Private" in the corresponding localized label.
-popup-notification-addon-privatebrowsing-checkbox =
-    .label = Աշխատեցնել գաղտնի պատուհաններում
-    .accesskey = P
 
 ## Pop-up warning
 

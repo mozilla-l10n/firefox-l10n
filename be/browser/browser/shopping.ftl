@@ -279,9 +279,6 @@ shopping-callout-not-opted-in-integrated-paragraph1 = Уключыце прав�
 shopping-callout-not-opted-in-integrated-paragraph2 = Націскаючы «{ shopping-opt-in-integrated-button }», вы згаджаецеся з <a data-l10n-name="privacy_policy">палітыкай прыватнасці</a> { -brand-product-name } і <a data-l10n-name="terms_of_use">ўмовамі карыстання</a> { -fakespot-brand-full-name }.
 shopping-callout-not-opted-in-integrated-reminder-dismiss-button = Адхіліць
 shopping-callout-not-opted-in-integrated-reminder-accept-button = Уключыць Праверку водгукаў
-shopping-callout-not-opted-in-integrated-reminder-do-not-show = Больш не паказваць гэту рэкамендацыю
-shopping-callout-not-opted-in-integrated-reminder-show-fewer = Паказваць менш рэкамендацый
-shopping-callout-not-opted-in-integrated-reminder-manage-settings = Кіраваць наладамі
 shopping-opt-in-integrated-privacy-policy-and-terms-of-use = Праверка водгукаў працуе на базе { -fakespot-brand-full-name }. Націскаючы «{ shopping-opt-in-integrated-button }», вы згаджаецеся з <a data-l10n-name="privacy_policy">палітыкай прыватнасці</a> { -brand-product-name } і <a data-l10n-name="terms_of_use">ўмовамі карыстання</a> { -fakespot-brand-name }.
 shopping-opt-in-integrated-button = Паспрабаваць праверку водгукаў
 

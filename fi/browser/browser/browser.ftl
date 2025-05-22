@@ -1195,10 +1195,6 @@ popup-notification-addon-privatebrowsing-checkbox2 =
 popup-notification-addon-technical-and-interaction-checkbox =
     .label = Jaa teknisiä ja vuorovaikutustietoja laajennuskehittäjän kanssa
     .accesskey = s
-# Note: Access key is set to P to match "Private" in the corresponding localized label.
-popup-notification-addon-privatebrowsing-checkbox =
-    .label = Suorita yksityisissä ikkunoissa
-    .accesskey = S
 
 ## Pop-up warning
 

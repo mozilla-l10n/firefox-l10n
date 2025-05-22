@@ -1219,10 +1219,6 @@ popup-notification-xpinstall-prompt-block-url = اعرض التفاصيل
 popup-notification-addon-privatebrowsing-checkbox2 =
     .label = اسمح لامتداد بأن يعمل في النوافذ الخاصة
     .accesskey = م
-# Note: Access key is set to P to match "Private" in the corresponding localized label.
-popup-notification-addon-privatebrowsing-checkbox =
-    .label = تشغيله في النوافذ الخاصة
-    .accesskey = ف
 
 ## Pop-up warning
 

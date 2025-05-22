@@ -305,14 +305,6 @@ addon-options-button =
     .aria-label = Fler alternativ
 # Explanatory introduction to the list of recommended add-ons. The action word
 # ("recommends") in the final sentence is a link to external documentation.
-discopane-intro2 =
-    Tillägg och teman låter dig anpassa { -brand-product-name }. De kan stärka integriteten,
-    förbättra produktiviteten, förbättra media, ändra hur { -brand-product-name } ser ut och
-    så mycket mer. Dessa små program är ofta utvecklade av en tredje part. Här är
-    ett urval { -brand-product-name } <a data-l10n-name="learn-more-trigger">rekommenderar</a>
-    för exceptionell säkerhet, prestanda och funktionalitet.
-# Explanatory introduction to the list of recommended add-ons. The action word
-# ("recommends") in the final sentence is a link to external documentation.
 # We hard code "Firefox" because we do not want to imply that a Firefox fork is
 # making this recommendation.
 discopane-intro3 = Tillägg och teman låter dig anpassa { -brand-product-name }. De kan öka integriteten och förbättra produktiviteten, ändra hur { -brand-product-name } ser ut och så mycket mer. Dessa små program är ofta utvecklade av en tredje part. Här är ett urval som Firefox <a data-l10n-name="learn-more-trigger">rekommenderar</a> för exceptionell säkerhet, prestanda och funktionalitet.
@@ -445,8 +437,6 @@ addon-badge-line3 =
 addon-badge-verified2 =
     .title = Denna tillägg har granskats för att uppfylla våra standarder för säkerhet och prestanda
     .aria-label = { addon-badge-verified2.title }
-addon-badge-recommended3 =
-    .title = { -brand-product-name } rekommenderar endast tillägg som uppfyller våra standarder för säkerhet och prestanda
 # We hard code "Mozilla" in the string below because the extensions are built
 # by Mozilla and we don't want forks to display "by Fork".
 addon-badge-line4 =
@@ -458,8 +448,6 @@ addon-badge-line4 =
 # like the words "our" or "we".
 addon-badge-verified4 =
     .title = Detta tillägg har granskats för att uppfylla standarder för säkerhet och prestanda
-addon-badge-verified3 =
-    .title = Denna tillägg har granskats för att uppfylla våra standarder för säkerhet och prestanda
 # This string needs to work in the context of other forks that are not Firefox
 # or built by Mozilla. In particular, we do not want to imply that an
 # organisation other than Mozilla or the Firefox team are making the
@@ -567,3 +555,6 @@ addon-permissions-required-data-collection = Obligatorisk datainsamling:
 addon-permissions-optional-data-collection = Valfri datainsamling:
 # Name of the Permissions tab in `about:addons` when the data collection feature is enabled.
 permissions-data-addon-button = Behörigheter och data
+
+## Mapping Engine IDs from AI models to how that feature represented by the engine Id is described in the used by section in local model management
+

@@ -951,10 +951,6 @@ popup-notification-addon-install-unsigned =
     .value = (සත්‍යාපනය නොකළ)
 popup-notification-xpinstall-prompt-learn-more = එක්කහු ආරක්‍ෂිතව ස්ථාපනය ගැන තව දැනගන්න
 popup-notification-xpinstall-prompt-block-url = විස්තර බලන්න
-# Note: Access key is set to P to match "Private" in the corresponding localized label.
-popup-notification-addon-privatebrowsing-checkbox =
-    .label = පෞද්. කවුළු වල ධාවනය
-    .accesskey = P
 
 ## Pop-up warning
 

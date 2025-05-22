@@ -25,10 +25,6 @@ sidebar-history-date-prev-month =
     .heading = { DATETIME($date, month: "long", year: "numeric") }
 sidebar-history-delete =
     .title = 從瀏覽紀錄刪除
-sidebar-history-sort-by-date =
-    .label = 依照日期排序
-sidebar-history-sort-by-site =
-    .label = 依照網站排序
 sidebar-history-clear =
     .label = 清除瀏覽紀錄
 sidebar-history-sort-by-heading = 排序依照：
@@ -105,8 +101,6 @@ sidebar-context-menu-close-remote-tab =
 
 ## Labels for sidebar history context menu items
 
-sidebar-history-context-menu-delete-page =
-    .label = 從瀏覽紀錄刪除
 sidebar-history-context-menu-delete-page-2 =
     .label = 從瀏覽紀錄刪除頁面
 sidebar-history-context-menu-bookmark-page =
@@ -166,8 +160,6 @@ sidebar-menu-history-header =
     .heading = 瀏覽紀錄
 sidebar-menu-syncedtabs-header =
     .heading = 其他裝置的分頁
-sidebar-menu-bookmarks-header =
-    .heading = 書籤
 sidebar-menu-cpm-header =
     .heading = 密碼
 sidebar-panel-header-close-button =

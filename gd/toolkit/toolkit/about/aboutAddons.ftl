@@ -404,14 +404,10 @@ addon-badge-line3 =
 addon-badge-verified2 =
     .title = Chaidh an leudachan seo a sgrùdadh is tha e a’ coileanadh nan stannardan againn a thaobh tèarainteachd is dèanadas
     .aria-label = { addon-badge-verified2.title }
-addon-badge-recommended3 =
-    .title = Cha mhol { -brand-product-name } ach leudachain a choileanas na stannardan againn a thaobh tèarainteachd is dèanadas
 # We hard code "Mozilla" in the string below because the extensions are built
 # by Mozilla and we don't want forks to display "by Fork".
 addon-badge-line4 =
     .title = Leudachan oifigeil le Mozilla. Tha e a’ coileanadh nan stannardan a thaobh tèarainteachd is dèanadas
-addon-badge-verified3 =
-    .title = Chaidh an leudachan seo a sgrùdadh is tha e a’ coileanadh nan stannardan againn a thaobh tèarainteachd is dèanadas
 
 ##
 
@@ -492,4 +488,7 @@ plugins-widevine-description = This plugin enables playback of encrypted media i
 
 ## Headings for the Permissions tab in `about:addons` when the data collection
 ## feature is enabled.
+
+
+## Mapping Engine IDs from AI models to how that feature represented by the engine Id is described in the used by section in local model management
 

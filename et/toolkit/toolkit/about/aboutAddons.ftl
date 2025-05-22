@@ -388,14 +388,10 @@ addon-badge-line3 =
 addon-badge-verified2 =
     .title = See laiendus on kontrollitud ja vastab meie turva- ning jõudlusstandarditele
     .aria-label = { addon-badge-verified2.title }
-addon-badge-recommended3 =
-    .title = { -brand-product-name } soovitab ainult meie turvalisuse ja jõudluse standarditele vastavaid laiendusi
 # We hard code "Mozilla" in the string below because the extensions are built
 # by Mozilla and we don't want forks to display "by Fork".
 addon-badge-line4 =
     .title = Mozilla loodud ametlik laiendus. Vastab turva- ja jõudlusstandarditele
-addon-badge-verified3 =
-    .title = See laiendus on kontrollitud ja vastab meie turva- ning jõudlusstandarditele
 
 ##
 
@@ -476,4 +472,7 @@ plugins-widevine-description = See plugin võimaldab krüptitud meedia esitamist
 
 ## Headings for the Permissions tab in `about:addons` when the data collection
 ## feature is enabled.
+
+
+## Mapping Engine IDs from AI models to how that feature represented by the engine Id is described in the used by section in local model management
 

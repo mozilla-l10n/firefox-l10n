@@ -7,10 +7,6 @@ menu-view-genai-chat =
 
 ## Labels for sidebar history panel
 
-sidebar-history-sort-by-date =
-    .label = දිනය අනුව වර්ගනය
-sidebar-history-sort-by-site =
-    .label = අඩවිය අනුව වර්ගනය
 
 ## Labels for sidebar search
 

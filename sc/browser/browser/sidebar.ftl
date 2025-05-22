@@ -25,10 +25,6 @@ sidebar-history-date-prev-month =
     .heading = { DATETIME($date, month: "long", year: "numeric") }
 sidebar-history-delete =
     .title = Cantzella dae sa cronologia
-sidebar-history-sort-by-date =
-    .label = Assenta dae sa data
-sidebar-history-sort-by-site =
-    .label = Assenta dae su situ
 sidebar-history-clear =
     .label = Isbòida sa cronologia
 
@@ -90,8 +86,6 @@ sidebar-context-menu-close-remote-tab =
 
 ## Labels for sidebar history context menu items
 
-sidebar-history-context-menu-delete-page =
-    .label = Cantzella dae sa cronologia
 
 ## Labels for sidebar menu items.
 
@@ -147,8 +141,6 @@ sidebar-menu-history-header =
     .heading = Cronologia
 sidebar-menu-syncedtabs-header =
     .heading = Ischedas dae àteros dispositivos
-sidebar-menu-bookmarks-header =
-    .heading = Sinnalibros
 sidebar-menu-cpm-header =
     .heading = Craes
 sidebar-panel-header-close-button =

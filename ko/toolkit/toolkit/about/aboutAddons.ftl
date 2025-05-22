@@ -301,14 +301,6 @@ addon-options-button =
     .aria-label = 추가 옵션
 # Explanatory introduction to the list of recommended add-ons. The action word
 # ("recommends") in the final sentence is a link to external documentation.
-discopane-intro2 =
-    확장 기능과 테마를 사용하면 { -brand-product-name }를 사용자 지정할 수 있습니다.
-    개인정보 보호 강화, 생산성 향상, 미디어 개선, { -brand-product-name } 외관 변경 등 
-    다양한 작업을 수행할 수 있습니다. 이 작은 소프트웨어 프로그램은 종종 
-    제3자에 의해 개발됩니다. 여기에 뛰어난 보안, 성능 및 기능을 위해 { -brand-product-name }가 
-    <a data-l10n-name="learn-more-trigger">추천</a>하는 선정된 부가 기능들이 있습니다.
-# Explanatory introduction to the list of recommended add-ons. The action word
-# ("recommends") in the final sentence is a link to external documentation.
 # We hard code "Firefox" because we do not want to imply that a Firefox fork is
 # making this recommendation.
 discopane-intro3 =
@@ -445,8 +437,6 @@ addon-badge-line3 =
 addon-badge-verified2 =
     .title = 이 확장 기능은 보안 및 성능 표준을 충족하는 것으로 검토되었습니다
     .aria-label = { addon-badge-verified2.title }
-addon-badge-recommended3 =
-    .title = { -brand-product-name }는 보안 및 성능 표준을 충족하는 확장 기능만 추천함
 # We hard code "Mozilla" in the string below because the extensions are built
 # by Mozilla and we don't want forks to display "by Fork".
 addon-badge-line4 =
@@ -457,8 +447,6 @@ addon-badge-line4 =
 # security or performance reviews. As such, we avoid personalising language
 # like the words "our" or "we".
 addon-badge-verified4 =
-    .title = 이 확장 기능은 보안 및 성능 표준을 충족하는 것으로 검토되었습니다
-addon-badge-verified3 =
     .title = 이 확장 기능은 보안 및 성능 표준을 충족하는 것으로 검토되었습니다
 # This string needs to work in the context of other forks that are not Firefox
 # or built by Mozilla. In particular, we do not want to imply that an
@@ -567,3 +555,6 @@ addon-permissions-required-data-collection = 필수 데이터 수집:
 addon-permissions-optional-data-collection = 선택적 정보 수집:
 # Name of the Permissions tab in `about:addons` when the data collection feature is enabled.
 permissions-data-addon-button = 권한 및 데이터
+
+## Mapping Engine IDs from AI models to how that feature represented by the engine Id is described in the used by section in local model management
+

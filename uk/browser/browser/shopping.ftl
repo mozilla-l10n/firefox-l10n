@@ -277,9 +277,6 @@ shopping-callout-not-opted-in-integrated-paragraph1 = Увімкніть зас�
 shopping-callout-not-opted-in-integrated-paragraph2 = Вибираючи “{ shopping-opt-in-integrated-button }”, ви приймаєте <a data-l10n-name="privacy_policy">Положення про приватність</a> { -brand-product-name } і <a data-l10n-name="terms_of_use">Умови використання</a> { -fakespot-brand-full-name }.
 shopping-callout-not-opted-in-integrated-reminder-dismiss-button = Відхилити
 shopping-callout-not-opted-in-integrated-reminder-accept-button = Увімкнути засіб перевірки відгуків
-shopping-callout-not-opted-in-integrated-reminder-do-not-show = Більше не показувати цю рекомендацію
-shopping-callout-not-opted-in-integrated-reminder-show-fewer = Показувати менше рекомендацій
-shopping-callout-not-opted-in-integrated-reminder-manage-settings = Керувати налаштуваннями
 shopping-opt-in-integrated-privacy-policy-and-terms-of-use = Засіб перевірки відгуків працює на основі { -fakespot-brand-full-name }. Вибираючи “{ shopping-opt-in-integrated-button }“, ви приймаєте <a data-l10n-name="privacy_policy">Положення про приватність</a> { -brand-product-name } і <a data-l10n-name="terms_of_use">Умови використання</a> { -fakespot-brand-name }.
 shopping-opt-in-integrated-button = Спробуйте засіб перевірки відгуків
 

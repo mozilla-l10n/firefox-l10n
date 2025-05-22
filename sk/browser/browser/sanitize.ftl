@@ -60,7 +60,6 @@ item-history-and-downloads =
     .label = História prehliadania a zoznam stiahnutých súborov
     .accesskey = H
 item-history-and-downloads-description2 = Vymaže históriu stránok a sťahovania
-item-history-and-downloads-description = Vymaže históriu vyhľadávania, stránok a sťahovania
 item-history-form-data-downloads =
     .label = História
     .accesskey = H

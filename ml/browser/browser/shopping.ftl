@@ -124,8 +124,6 @@ shopping-opt-in-integrated-headline = തീൎച്ചയോടു് വാ�
 ## Messages for callout for users not opted into the sidebar integrated version of Review Checker.
 
 shopping-callout-not-opted-in-integrated-reminder-dismiss-button = കളയുക
-shopping-callout-not-opted-in-integrated-reminder-show-fewer = കുറച്ച് ശുപാർശകൾ കാണിക്കുക
-shopping-callout-not-opted-in-integrated-reminder-manage-settings = ക്രമീകരണങ്ങളെ നിയന്ത്രിക്കുക
 
 ## Message strings for Review Checker's empty states.
 

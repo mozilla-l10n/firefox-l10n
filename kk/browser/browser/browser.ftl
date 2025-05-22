@@ -1200,10 +1200,6 @@ popup-notification-xpinstall-prompt-block-url = Ақпаратын қарау
 popup-notification-addon-privatebrowsing-checkbox2 =
     .label = Кеңейтуге жекелік шолу терезелерінде орындалуға рұқсат ету
     .accesskey = ж
-# Note: Access key is set to P to match "Private" in the corresponding localized label.
-popup-notification-addon-privatebrowsing-checkbox =
-    .label = Жекелік шолу режиміндегі терезелерде орындау
-    .accesskey = к
 
 ## Pop-up warning
 

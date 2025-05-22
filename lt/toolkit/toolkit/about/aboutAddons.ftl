@@ -401,14 +401,10 @@ addon-badge-line3 =
 addon-badge-verified2 =
     .title = Šis priedas buvo peržiūrėtas ir atitinka mūsų saugumo bei našumo standartus
     .aria-label = { addon-badge-verified2.title }
-addon-badge-recommended3 =
-    .title = „{ -brand-product-name }“ rekomenduoja tik mūsų saugumo ir našumo reikalavimus atitinkančius priedus
 # We hard code "Mozilla" in the string below because the extensions are built
 # by Mozilla and we don't want forks to display "by Fork".
 addon-badge-line4 =
     .title = Oficialus „Mozilla“ sukurtas priedas. Atitinka saugumo ir našumo standartus
-addon-badge-verified3 =
-    .title = Šis priedas buvo peržiūrėtas ir atitinka mūsų saugumo bei našumo standartus
 
 ##
 
@@ -488,4 +484,7 @@ plugins-widevine-description = Šis papildinys leidžia atkurti užšifruotą tu
 
 ## Headings for the Permissions tab in `about:addons` when the data collection
 ## feature is enabled.
+
+
+## Mapping Engine IDs from AI models to how that feature represented by the engine Id is described in the used by section in local model management
 

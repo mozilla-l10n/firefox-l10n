@@ -262,9 +262,6 @@ shopping-opt-in-integrated-headline = ਭਰੋਸੇ ਨਾਲ ਖਰੀਦਦ�
 shopping-callout-opt-in-integrated-headline = ਕੀ ਤੁਸੀਂ ਇਹ ਰੀਵਿਊ ਉੱਤੇ ਭਰੋਸਾ ਕਰ ਸਕਦੇ ਹੋ?
 shopping-callout-not-opted-in-integrated-reminder-dismiss-button = ਖ਼ਾਰਜ ਕਰੋ
 shopping-callout-not-opted-in-integrated-reminder-accept-button = ਰੀਵਿਊ ਚੈਕਰ ਨੂੰ ਚਾਲੂ ਕਰੋ
-shopping-callout-not-opted-in-integrated-reminder-do-not-show = ਇਹ ਸਿਫ਼ਾਰਸ਼ ਮੁੜ ਕੇ ਨਾ ਦਿਖਾਓ
-shopping-callout-not-opted-in-integrated-reminder-show-fewer = ਸਿਫ਼ਾਰਸ਼ਾਂ ਥੋੜ੍ਹੀਆਂ ਘੱਟ ਦਿਖਾਓ
-shopping-callout-not-opted-in-integrated-reminder-manage-settings = ਸੈਟਿੰਗਾਂ ਦਾ ਇੰਤਜ਼ਾਮ ਕਰੋ
 shopping-opt-in-integrated-button = ਰੀਵਿਊ ਚੈਕਰ ਅਜ਼ਮਾਓ
 
 ## Message strings for Review Checker's empty states.

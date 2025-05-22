@@ -277,9 +277,6 @@ shopping-callout-not-opted-in-integrated-paragraph1 = Ŝaltu la kontrolilon de r
 shopping-callout-not-opted-in-integrated-paragraph2 = Se vi elektas “{ shopping-opt-in-integrated-button }“ vi akceptas la <a data-l10n-name="privacy_policy">politikon pri privateco</a> de { -brand-product-name } kaj la <a data-l10n-name="terms_of_use">kondiĉojn de uzo</a> de { -fakespot-brand-full-name }.
 shopping-callout-not-opted-in-integrated-reminder-dismiss-button = Ignori
 shopping-callout-not-opted-in-integrated-reminder-accept-button = Ŝalti la kontrolilon de recenzoj
-shopping-callout-not-opted-in-integrated-reminder-do-not-show = Ne plu montri tiun ĉi rekomendon
-shopping-callout-not-opted-in-integrated-reminder-show-fewer = Montri malpli da rekomendoj
-shopping-callout-not-opted-in-integrated-reminder-manage-settings = Administri agordojn
 shopping-opt-in-integrated-privacy-policy-and-terms-of-use = La kontrolilo de recenzoj estas pelata de { -fakespot-brand-full-name }. Se vi elektas “{ shopping-opt-in-integrated-button }“ vi akceptas la <a data-l10n-name="privacy_policy">politikon pri privateco</a> de { -brand-product-name } kaj la <a data-l10n-name="terms_of_use">kondiĉojn de uzo</a> de { -fakespot-brand-name }.
 shopping-opt-in-integrated-button = Provi la kontrolilon de recenzoj
 

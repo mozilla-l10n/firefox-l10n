@@ -23,10 +23,6 @@ sidebar-history-date-prev-month =
     .heading = { DATETIME($date, month: "long", year: "numeric") }
 sidebar-history-delete =
     .title = ہسٹری کنوں مٹاؤ
-sidebar-history-sort-by-date =
-    .label = تریخ دے لحاظ نال چھانٹی کرو
-sidebar-history-sort-by-site =
-    .label = سائٹ دے لحاظ نال چھانٹی کرو
 sidebar-history-clear =
     .label = تاریخ صاف کرو
 
@@ -70,8 +66,6 @@ sidebar-context-menu-close-remote-tab =
 
 ## Labels for sidebar history context menu items
 
-sidebar-history-context-menu-delete-page =
-    .label = ہسٹری کنوں مٹاؤ
 
 ## Labels for sidebar menu items.
 

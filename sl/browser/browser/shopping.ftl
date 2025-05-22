@@ -277,9 +277,6 @@ shopping-callout-not-opted-in-integrated-paragraph1 = Vključite pregledovalnik 
 shopping-callout-not-opted-in-integrated-paragraph2 = Z izbiro “{ shopping-opt-in-integrated-button }“ se strinjate z <a data-l10n-name="privacy_policy">obvestilom o zasebnosti { -brand-product-name(sklon: "rodilnik") }</a> in <a data-l10n-name="terms_of_use">pogoji uporabe { -fakespot-brand-full-name(sklon: "rodilnik") }</a>.
 shopping-callout-not-opted-in-integrated-reminder-dismiss-button = Zapri
 shopping-callout-not-opted-in-integrated-reminder-accept-button = Vklopi pregledovalnik mnenj
-shopping-callout-not-opted-in-integrated-reminder-do-not-show = Tega priporočila ne prikazuj več
-shopping-callout-not-opted-in-integrated-reminder-show-fewer = Prikazuj manj priporočil
-shopping-callout-not-opted-in-integrated-reminder-manage-settings = Nastavitve
 shopping-opt-in-integrated-privacy-policy-and-terms-of-use = Pregledovalnik mnenj poganja { -fakespot-brand-full-name }. Z izbiro “{ shopping-opt-in-integrated-button }“ se strinjate z <a data-l10n-name="privacy_policy">obvestilom o zasebnosti { -brand-product-name(sklon: "rodilnik") }</a> in <a data-l10n-name="terms_of_use">pogoji uporabe { -fakespot-brand-name(sklon: "rodilnik") }</a>.
 shopping-opt-in-integrated-button = Preizkusite pregledovalnik mnenj
 

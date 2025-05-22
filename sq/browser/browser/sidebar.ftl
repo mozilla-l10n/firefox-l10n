@@ -25,10 +25,6 @@ sidebar-history-date-prev-month =
     .heading = { DATETIME($date, month: "long", year: "numeric") }
 sidebar-history-delete =
     .title = Fshije prej Historiku
-sidebar-history-sort-by-date =
-    .label = Renditi sipas datash
-sidebar-history-sort-by-site =
-    .label = Renditi sipas sajtesh
 sidebar-history-clear =
     .label = Spastro historikun
 sidebar-history-sort-by-heading = Renditi sipas:
@@ -105,8 +101,6 @@ sidebar-context-menu-close-remote-tab =
 
 ## Labels for sidebar history context menu items
 
-sidebar-history-context-menu-delete-page =
-    .label = Fshije prej Historiku
 sidebar-history-context-menu-delete-page-2 =
     .label = Fshije Faqen nga Historiku
 sidebar-history-context-menu-bookmark-page =
@@ -166,8 +160,6 @@ sidebar-menu-history-header =
     .heading = Historik
 sidebar-menu-syncedtabs-header =
     .heading = Skeda prej pajisjesh të tjera
-sidebar-menu-bookmarks-header =
-    .heading = Faqerojtës
 sidebar-menu-cpm-header =
     .heading = Fjalëkalime
 sidebar-panel-header-close-button =

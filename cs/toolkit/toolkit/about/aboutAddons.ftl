@@ -344,17 +344,6 @@ addon-options-button =
     .aria-label = Více možností
 # Explanatory introduction to the list of recommended add-ons. The action word
 # ("recommends") in the final sentence is a link to external documentation.
-discopane-intro2 =
-    { -brand-product-name.case-status ->
-        [with-cases] Rozšíření a vzhledy vám umožní přizpůsobit si { -brand-product-name(case: "acc") }. Mohou zlepšit soukromí, zvýšit produktivitu, vylepšit multimédia, změnit vzhled { -brand-product-name(case: "gen") } a mnohem více. Tyto malé programy jsou často vyvíjeny třetí stranou. Zde je výběr { -brand-product-name(case: "gen") } <a data-l10n-name="learn-more-trigger">doporučených</a> doplňků, které jsou bezpečné, výkonné a funkční.
-       *[no-cases]
-            Rozšíření a vzhledy vám umožní přizpůsobit si aplikaci { -brand-product-name }. Mohou zlepšit soukromí,
-            zvýšit produktivitu, vylepšit multimédia, změnit vzhled aplikace { -brand-product-name } a
-            mnohem více. Tyto malé programy jsou často vyvíjeny třetí stranou. Zde je
-            výběr aplikací { -brand-product-name } <a data-l10n-name="learn-more-trigger">doporučených</a> doplňků, které jsou bezpečné, výkonné a funkční.
-    }
-# Explanatory introduction to the list of recommended add-ons. The action word
-# ("recommends") in the final sentence is a link to external documentation.
 # We hard code "Firefox" because we do not want to imply that a Firefox fork is
 # making this recommendation.
 discopane-intro3 =
@@ -514,8 +503,6 @@ addon-badge-line3 =
 addon-badge-verified2 =
     .title = U tohoto rozšíření bylo zkontrolováno, že splňuje naše standardy ohledně zabezpečení a výkonu
     .aria-label = { addon-badge-verified2.title }
-addon-badge-recommended3 =
-    .title = { -brand-product-name } doporučuje jen rozšíření, která splňují naše standardy pro bezpečnost a výkon
 # We hard code "Mozilla" in the string below because the extensions are built
 # by Mozilla and we don't want forks to display "by Fork".
 addon-badge-line4 =
@@ -527,8 +514,6 @@ addon-badge-line4 =
 # like the words "our" or "we".
 addon-badge-verified4 =
     .title = Toto rozšíření bylo zkontrolováno, aby splňovalo normy pro zabezpečení a výkon.
-addon-badge-verified3 =
-    .title = U tohoto rozšíření bylo zkontrolováno, že splňuje naše standardy ohledně zabezpečení a výkonu
 # This string needs to work in the context of other forks that are not Firefox
 # or built by Mozilla. In particular, we do not want to imply that an
 # organisation other than Mozilla or the Firefox team are making the
@@ -664,3 +649,6 @@ addon-permissions-required-data-collection = Požadovaný sběr dat:
 addon-permissions-optional-data-collection = Volitelný sběr dat:
 # Name of the Permissions tab in `about:addons` when the data collection feature is enabled.
 permissions-data-addon-button = Oprávnění a data
+
+## Mapping Engine IDs from AI models to how that feature represented by the engine Id is described in the used by section in local model management
+

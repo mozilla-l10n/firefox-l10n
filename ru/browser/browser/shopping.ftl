@@ -279,9 +279,6 @@ shopping-callout-not-opted-in-integrated-paragraph1 = Включите Пров�
 shopping-callout-not-opted-in-integrated-paragraph2 = Нажимая «{ shopping-opt-in-integrated-button }», вы соглашаетесь с <a data-l10n-name="privacy_policy">уведомлением о конфиденциальности</a> { -brand-product-name } и <a data-l10n-name="terms_of_use">условиями использования</a> { -fakespot-brand-full-name }.
 shopping-callout-not-opted-in-integrated-reminder-dismiss-button = Скрыть
 shopping-callout-not-opted-in-integrated-reminder-accept-button = Включить Проверку отзывов
-shopping-callout-not-opted-in-integrated-reminder-do-not-show = Больше не показывать эту рекомендацию
-shopping-callout-not-opted-in-integrated-reminder-show-fewer = Показывать меньше рекомендаций
-shopping-callout-not-opted-in-integrated-reminder-manage-settings = Управление настройками
 shopping-opt-in-integrated-privacy-policy-and-terms-of-use = Проверка отзывов работает на базе { -fakespot-brand-full-name }. Нажимая «{ shopping-opt-in-integrated-button }», вы соглашаетесь с <a data-l10n-name="privacy_policy">уведомлением о конфиденциальности</a> { -brand-product-name } и <a data-l10n-name="terms_of_use">условиями использования</a> { -fakespot-brand-name }.
 shopping-opt-in-integrated-button = Попробуйте Проверку отзывов
 

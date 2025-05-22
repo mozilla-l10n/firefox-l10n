@@ -25,10 +25,6 @@ sidebar-history-date-prev-month =
     .heading = { DATETIME($date, month: "long", year: "numeric") }
 sidebar-history-delete =
     .title = ਅਤੀਤ ਵਿੱਚੋਂ ਹਟਾਓ
-sidebar-history-sort-by-date =
-    .label = ਤਾਰੀਖ ਰਾਹੀਂ ਲੜੀਬੱਧ
-sidebar-history-sort-by-site =
-    .label = ਸਾਈਟ ਰਾਹੀਂ ਲੜੀਬੱਧ
 sidebar-history-clear =
     .label = ਅਤੀਤ ਨੂੰ ਮਿਟਾਓ
 sidebar-history-sort-by-heading = ਲੜੀਬੱਧ:
@@ -105,8 +101,6 @@ sidebar-context-menu-close-remote-tab =
 
 ## Labels for sidebar history context menu items
 
-sidebar-history-context-menu-delete-page =
-    .label = ਅਤੀਤ ਵਿੱਚੋਂ ਹਟਾਓ
 sidebar-history-context-menu-delete-page-2 =
     .label = ਅਤੀਤ ਤੋਂ ਸਫ਼ੇ ਨੂੰ ਮਿਟਾਓ
 sidebar-history-context-menu-bookmark-page =
@@ -166,8 +160,6 @@ sidebar-menu-history-header =
     .heading = ਅਤੀਤ
 sidebar-menu-syncedtabs-header =
     .heading = ਹੋਰ ਡਿਵਾਈਸਾਂ ਤੋਂ ਟੈਬਾਂ
-sidebar-menu-bookmarks-header =
-    .heading = ਬੁੱਕਮਾਰਕ
 sidebar-menu-cpm-header =
     .heading = ਪਾਸਵਰਡ
 sidebar-panel-header-close-button =

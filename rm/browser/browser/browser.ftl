@@ -1189,10 +1189,6 @@ popup-notification-addon-install-unsigned =
     .value = (Betg verifitgà)
 popup-notification-xpinstall-prompt-learn-more = Vegnir a savair dapli davart l'installaziun da supplements a moda segira
 popup-notification-xpinstall-prompt-block-url = Mussar detagls
-# Note: Access key is set to P to match "Private" in the corresponding localized label.
-popup-notification-addon-privatebrowsing-checkbox =
-    .label = Exequir en fanestras privatas
-    .accesskey = p
 
 ## Pop-up warning
 

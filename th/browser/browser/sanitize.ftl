@@ -59,7 +59,6 @@ history-section-label = ประวัติ
 item-history-and-downloads =
     .label = ประวัติการเรียกดูและการดาวน์โหลด
     .accesskey = ป
-item-history-and-downloads-description = ล้างประวัติการค้นหา ไซต์ และการดาวน์โหลด
 item-history-form-data-downloads =
     .label = ประวัติ
     .accesskey = ป

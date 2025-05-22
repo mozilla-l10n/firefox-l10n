@@ -25,10 +25,6 @@ sidebar-history-date-prev-month =
     .heading = { DATETIME($date, month: "long", year: "numeric") }
 sidebar-history-delete =
     .title = Нест кардан аз таърих
-sidebar-history-sort-by-date =
-    .label = Мураттаб кардан аз рӯи ном
-sidebar-history-sort-by-site =
-    .label = Мураттаб кардан аз рӯи сомона
 sidebar-history-clear =
     .label = Пок кардани таърих
 sidebar-history-sort-by-heading = Мураттаб аз рӯи:
@@ -105,8 +101,6 @@ sidebar-context-menu-close-remote-tab =
 
 ## Labels for sidebar history context menu items
 
-sidebar-history-context-menu-delete-page =
-    .label = Нест кардан аз таърих
 sidebar-history-context-menu-delete-page-2 =
     .label = Нест кардани саҳифа аз таърих
 sidebar-history-context-menu-bookmark-page =
@@ -166,8 +160,6 @@ sidebar-menu-history-header =
     .heading = Таърих
 sidebar-menu-syncedtabs-header =
     .heading = Варақаҳо аз дастгоҳҳои дигар
-sidebar-menu-bookmarks-header =
-    .heading = Хатбаракҳо
 sidebar-menu-cpm-header =
     .heading = Ниҳонвожаҳо
 sidebar-panel-header-close-button =

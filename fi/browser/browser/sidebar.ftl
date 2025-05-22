@@ -25,10 +25,6 @@ sidebar-history-date-prev-month =
     .heading = { DATETIME($date, month: "long", year: "numeric") }
 sidebar-history-delete =
     .title = Poista historiasta
-sidebar-history-sort-by-date =
-    .label = Järjestä päiväyksen mukaan
-sidebar-history-sort-by-site =
-    .label = Järjestä sivuston mukaan
 sidebar-history-clear =
     .label = Tyhjennä historia
 sidebar-history-sort-by-heading = Järjestys:
@@ -105,8 +101,6 @@ sidebar-context-menu-close-remote-tab =
 
 ## Labels for sidebar history context menu items
 
-sidebar-history-context-menu-delete-page =
-    .label = Poista historiasta
 sidebar-history-context-menu-delete-page-2 =
     .label = Poista sivu historiasta
 sidebar-history-context-menu-bookmark-page =
@@ -166,8 +160,6 @@ sidebar-menu-history-header =
     .heading = Historia
 sidebar-menu-syncedtabs-header =
     .heading = Välilehdet muista laitteista
-sidebar-menu-bookmarks-header =
-    .heading = Kirjanmerkit
 sidebar-menu-cpm-header =
     .heading = Salasanat
 sidebar-panel-header-close-button =

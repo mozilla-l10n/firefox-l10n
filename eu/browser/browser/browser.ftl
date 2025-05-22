@@ -1183,10 +1183,6 @@ popup-notification-xpinstall-prompt-block-url = Ikusi xehetasunak
 popup-notification-addon-privatebrowsing-checkbox2 =
     .label = Baimendu hedapen honi leiho pribatuetan exekutatzea
     .accesskey = d
-# Note: Access key is set to P to match "Private" in the corresponding localized label.
-popup-notification-addon-privatebrowsing-checkbox =
-    .label = Exekutatu leiho pribatuetan
-    .accesskey = b
 
 ## Pop-up warning
 

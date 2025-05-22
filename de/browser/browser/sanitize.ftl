@@ -60,7 +60,6 @@ item-history-and-downloads =
     .label = Besuchte Seiten & Download-Chronik
     .accesskey = B
 item-history-and-downloads-description2 = Löscht die Chronik von Websites und Downloads
-item-history-and-downloads-description = Löscht die Such-, Website- und Download-Chronik
 item-history-form-data-downloads =
     .label = Chronik
     .accesskey = C

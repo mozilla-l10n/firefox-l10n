@@ -60,7 +60,6 @@ item-history-and-downloads =
     .label = Lịch sử duyệt web & tải xuống
     .accesskey = d
 item-history-and-downloads-description2 = Xóa lịch sử trang web và tải xuống
-item-history-and-downloads-description = Xóa lịch sử tìm kiếm, trang web và tải xuống
 item-history-form-data-downloads =
     .label = Lịch sử
     .accesskey = H

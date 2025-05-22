@@ -25,10 +25,6 @@ sidebar-history-date-prev-month =
     .heading = { DATETIME($date, month: "long", year: "numeric") }
 sidebar-history-delete =
     .title = Kkes seg umazray
-sidebar-history-sort-by-date =
-    .label = Asmizzwer s wazemz
-sidebar-history-sort-by-site =
-    .label = Smizzwer s usmel
 sidebar-history-clear =
     .label = Sfeḍ amazray
 sidebar-history-sort-by-heading = Smizwer s:
@@ -101,8 +97,6 @@ sidebar-context-menu-close-remote-tab =
 
 ## Labels for sidebar history context menu items
 
-sidebar-history-context-menu-delete-page =
-    .label = Kkes seg umazray
 sidebar-history-context-menu-delete-page-2 =
     .label = Kkes asebter seg uzray
 sidebar-history-context-menu-bookmark-page =
@@ -162,8 +156,6 @@ sidebar-menu-history-header =
     .heading = Azray
 sidebar-menu-syncedtabs-header =
     .heading = Iccaren seg ibenkan nniḍen
-sidebar-menu-bookmarks-header =
-    .heading = Ticraḍ n yisebtar
 sidebar-menu-cpm-header =
     .heading = Awalen n uεeddi
 sidebar-panel-header-close-button =

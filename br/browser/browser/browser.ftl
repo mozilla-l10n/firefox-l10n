@@ -1153,10 +1153,6 @@ popup-notification-xpinstall-prompt-block-url = Gwelet ar munudoù
 popup-notification-addon-privatebrowsing-checkbox2 =
     .label = Aotren an askouezhioù da vezañ lañset er prenestroù merdeiñ prevez
     .accesskey = p
-# Note: Access key is set to P to match "Private" in the corresponding localized label.
-popup-notification-addon-privatebrowsing-checkbox =
-    .label = Lañsañ en ur prenestr prevez
-    .accesskey = p
 
 ## Pop-up warning
 

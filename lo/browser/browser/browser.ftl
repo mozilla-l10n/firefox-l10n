@@ -990,10 +990,6 @@ popup-notification-addon-install-unsigned =
     .value = (ບໍ່ໄດ້ຮັບການຢືນຢັນ)
 popup-notification-xpinstall-prompt-learn-more = ສຶກສາເພີ່ມເຕີມກ່ຽວກັບການຕິດຕັ້ງ add-ons ຢ່າງປອດໄພ
 popup-notification-xpinstall-prompt-block-url = ເບິ່ງລາຍລະອຽດ
-# Note: Access key is set to P to match "Private" in the corresponding localized label.
-popup-notification-addon-privatebrowsing-checkbox =
-    .label = ດໍາເນີນການໃນ Windows ສ່ວນຕົວ
-    .accesskey = P
 
 ## Pop-up warning
 
