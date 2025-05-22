@@ -29,3 +29,5 @@ confirmation-hint-duplicate-tabs-closed =
         [one] Έκλεισε { $tabCount } καρτέλα
        *[other] Έκλεισαν { $tabCount } καρτέλες
     }
+# Subtle notification shown when Extensions button moves into the application menu.
+confirmation-hint-extensions-button-hidden = Μετακινήθηκε στο μενού

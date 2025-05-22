@@ -81,6 +81,8 @@ addon-removal-title = Αφαίρεση του { $name };
 addon-removal-message = Αφαίρεση του { $name } από το { -brand-shorter-name };
 addon-removal-button = Αφαίρεση
 addon-removal-abuse-report-checkbox = Αναφορά επέκτασης στη { -vendor-short-name }
+# "it" refers to the local AI model that is paired to the AI feature
+addon-mlmodel-removal-body = Αν χρησιμοποιήσετε τις λειτουργίες ή τις επεκτάσεις που αξιοποιούν αυτό το μοντέλο, θα προστεθεί ξανά.
 # Variables:
 #   $addonCount (Number): the number of add-ons being downloaded
 addon-downloading-and-verifying =

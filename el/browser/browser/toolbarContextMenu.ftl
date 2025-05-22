@@ -59,6 +59,10 @@ toolbar-context-menu-auto-hide-downloads-button-2 =
 toolbar-context-menu-always-open-downloads-panel =
     .label = Εμφάνιση πίνακα κατά την έναρξη της λήψης
     .accesskey = Ε
+# Label of checkbox menu item to toggle visibility of Extensions Button.
+toolbar-context-menu-always-show-extensions-button =
+    .label = Να εμφανίζεται πάντα στη γραμμή εργαλείων
+    .accesskey = α
 toolbar-context-menu-remove-from-toolbar =
     .label = Αφαίρεση από τη γραμμή εργαλείων
     .accesskey = Α

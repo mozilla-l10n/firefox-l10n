@@ -566,6 +566,10 @@ addon-permissions-required-data-collection = Συλλογή υποχρεωτικ
 addon-permissions-optional-data-collection = Συλλογή προαιρετικών δεδομένων:
 # Name of the Permissions tab in `about:addons` when the data collection feature is enabled.
 permissions-data-addon-button = Δικαιώματα και δεδομένα
+# This is a description for extension that use this AI model
+# Variables:
+#   $extensionName (String) - Name of the extension
+mlmodel-extension-label = Χρησιμοποιείται από την επέκταση { $extensionName }
 
 ## Mapping Engine IDs from AI models to how that feature represented by the engine Id is described in the used by section in local model management
 

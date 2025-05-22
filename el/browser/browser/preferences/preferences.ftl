@@ -515,6 +515,8 @@ performance-default-content-process-count =
 ## General Section - Browsing
 
 browsing-title = Περιήγηση
+browsing-group-label =
+    .aria-label = Περιήγηση
 browsing-use-autoscroll =
     .label = Χρήση αυτόματης κύλισης
     .accesskey = α
