@@ -82,7 +82,7 @@ addon-removal-message = Ta bort { $name } från { -brand-shorter-name }?
 addon-removal-button = Ta bort
 addon-removal-abuse-report-checkbox = Rapportera detta tillägg till { -vendor-short-name }
 # "it" refers to the local AI model that is paired to the AI feature
-addon-mlmodel-removal-body = Om du använder de funktioner eller utökningar som använder den här modellen, kommer den att läggas till igen.
+addon-mlmodel-removal-body = Om du använder de funktioner eller tillägg som använder den här modellen, kommer de att läggas till igen.
 # Variables:
 #   $addonCount (Number): the number of add-ons being downloaded
 addon-downloading-and-verifying =

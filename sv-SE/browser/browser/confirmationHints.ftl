@@ -30,4 +30,4 @@ confirmation-hint-duplicate-tabs-closed =
        *[other] Stängde { $tabCount } flikar
     }
 # Subtle notification shown when Extensions button moves into the application menu.
-confirmation-hint-extensions-button-hidden = Flyttad till menyn
+confirmation-hint-extensions-button-hidden = Flyttad till meny
