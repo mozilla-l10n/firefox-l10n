@@ -8,6 +8,7 @@
 ## Check menubar.ftl for reference.
 
 recently-closed-menu-reopen-all-tabs = Vrati sve tabove
+recently-closed-menu-reopen-all-windows = Ponovo otvorite sve prozore
 
 ## These strings are used in the app menu,
 ## and should follow the same capitalization (sentence case for English).
