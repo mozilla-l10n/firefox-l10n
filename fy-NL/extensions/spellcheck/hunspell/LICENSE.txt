@@ -1,0 +1,44 @@
+FRYSK
+
+Jo wurde freonlik fersocht om dit bestân (LICENSE) mei te fersprieden 
+by elke kopy/ôflate ferzje fan dizze Fryske wurdlist (fy-NL.dic/fy-NL.aff).
+It brûken en fersprieden fan dizze bestannen mei allinnich
+ûnder de betingsten fan de yn dit bestân neamde lisinsje.
+
+De wurdlist foar de staveringshifker is basearre op de 
+Foarkarswurdlist foar it Frysk, dy't offisjeel fêststeld is troch de 
+Provinsje Fryslân en beskikber is op https://frisian.eu/#nav-down. 
+
+Ferzje: 20250522
+
+
+ENGLISH
+
+Please include this file (LICENSE) with every copy/derived work of 
+this Frisian word list (fy-NL.dic/fy-NL.aff). Use and distribution of 
+these files fall under terms and conditions of the license mentioned 
+in this file.
+
+The wordlist for the spellchecker is based on the Foarkarswurdlist 
+for Frisian, which was officially ratified by the Provincie Fryslân
+and available on https://frisian.eu/#nav-down. 
+
+Version: 20250522
+
+--------------------------------------------------------------------------
+
+Copyright [2025] [Fryske Akademy]
+
+Licensed under the Apache License, Version 2.0 (the "License");
+you may not use this file except in compliance with the License.
+You may obtain a copy of the License at
+
+    http://www.apache.org/licenses/LICENSE-2.0
+
+Unless required by applicable law or agreed to in writing, software
+distributed under the License is distributed on an "AS IS" BASIS,
+WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+See the License for the specific language governing permissions and
+limitations under the License.
+
+--------------------------------------------------------------------------
