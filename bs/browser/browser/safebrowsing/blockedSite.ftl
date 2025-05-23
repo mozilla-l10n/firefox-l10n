@@ -30,10 +30,13 @@ safeb-blocked-phishing-page-learn-more = Saznajte više o obmanjujućim stranica
 ## Variables
 ##  $sitename (string) - Domain name for the blocked page
 
+safeb-blocked-malware-page-error-desc-override-sumo = <span data-l10n-name='sitename'>{ $sitename }</span> je <a data-l10n-name='error_desc_link'>prijavljen da sadrži zlonamjerni softver</a>. Možete <a data-l10n-name='ignore_warning_link'>ignorisati rizik</a> i posjetiti ovu nesigurnu stranicu.
+safeb-blocked-malware-page-error-desc-no-override-sumo = <span data-l10n-name='sitename'>{ $sitename }</span> je <a data-l10n-name='error_desc_link'>prijavljen da sadrži zlonamjeran softver</a>.
 
 ## Variables
 ##  $sitename (string) - Domain name for the blocked page
 
+safeb-blocked-malware-page-learn-more-sumo = Saznajte više o { -brand-short-name } zaštiti od phishinga i štetnog softvera na <a data-l10n-name='firefox_support'>support.mozilla.org</a>.
 
 ## Variables
 ##  $sitename (string) - Domain name for the blocked page
