@@ -3,8 +3,8 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 screenshot-toolbarbutton =
-    .label = Acquisisci schermata
-    .tooltiptext = Acquisisci schermata
+    .label = Cattura schermata
+    .tooltiptext = Cattura schermata
 screenshot-shortcut =
     .key = S
 screenshots-instructions = Trascina o fai clic su una pagina per selezionare un’area della pagina. Premi ESC per annullare.
@@ -66,6 +66,11 @@ screenshots-component-copy-button-2 = Copia
 screenshots-component-download-button-2 = Scarica
     .title = Scarica ({ $shortcut })
     .aria-label = Scarica
+# Variables
+#   $shortcut (String) - A keyboard shortcut for the screenshot command.
+screenshot-toolbar-button =
+    .label = Cattura schermata
+    .tooltiptext = Cattura schermata ({ $shortcut })
 
 ## The below strings are used to capture keydown events so the strings should
 ## not be changed unless the keyboard layout in the locale requires it.

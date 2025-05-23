@@ -401,7 +401,7 @@ quickactions-restart = Riavvia { -brand-short-name }
 quickactions-cmd-restart = riavvia
 # Opens the screenshot tool
 quickactions-screenshot3 = Cattura schermata
-quickactions-cmd-screenshot2 = screenshot, schermata, cattura schermata
+quickactions-cmd-screenshot2 = screenshot, schermata, cattura schermata, acquisisci schermata
 quickactions-cmd-screenshot = schermata, screenshot
 # Opens about:preferences
 quickactions-settings2 = Gestisci impostazioni

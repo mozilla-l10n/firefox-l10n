@@ -155,7 +155,7 @@ profiler-popup-start-recording-button =
 profiler-popup-discard-button =
     .label = Rimuovi
 profiler-popup-capture-button =
-    .label = Acquisisci
+    .label = Cattura
 profiler-popup-start-shortcut =
     { PLATFORM() ->
         [macos] ⌃⇧1
@@ -297,4 +297,3 @@ appmenu-edit-profile =
     .aria-label = Modifica profilo
 appmenu-profiles-2 =
     .label = Profili
-
