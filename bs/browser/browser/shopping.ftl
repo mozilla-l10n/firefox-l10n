@@ -169,9 +169,16 @@ shopping-callout-not-opted-in-reminder-close-button = Odbaci
 shopping-callout-not-opted-in-reminder-ignore-checkbox = Ne prikazuj ponovo
 shopping-callout-not-opted-in-reminder-img-alt =
     .aria-label = Apstraktna ilustracija tri recenzije proizvoda. Jedna ima simbol upozorenja koji ukazuje na to da možda nije pouzdana.
+shopping-callout-disabled-auto-open-title = Provjera recenzija je sada zatvorena prema zadanim postavkama
+shopping-callout-disabled-auto-open-subtitle = Kliknite na ikonu cijene u adresnoj traci kad god želite provjeriti možete li vjerovati recenzijama proizvoda.
+shopping-callout-disabled-auto-open-button = Razumijem
+shopping-callout-opted-out-title = Provjera recenzija je isključena
+shopping-callout-opted-out-subtitle = Da biste ga ponovo uključili, kliknite na ikonu cijene u adresnoj traci i slijedite upute.
+shopping-callout-opted-out-button = Razumijem
 
 ## Onboarding message strings.
 
+shopping-onboarding-headline = Isprobajte naš pouzdani vodič za recenzije proizvoda
 
 ## Review Checker in Integrated sidebar
 
