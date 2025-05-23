@@ -49,7 +49,7 @@ unified-extensions-mb-quarantined-domain-message-3 =
     .heading = Oĩ jepysokue ñoñemoneĩriva
     .message = Emo’ã hag̃ua mba’ekuaarã, ndahetái jepysokue omoñe’ẽ ha omoambuekuaa mba’ekuaarã ko tendápe. Eiporu jepysokue ñemboheko emoneĩ hag̃ua tenda omochi’ĩva { -vendor-short-name }.
 unified-extensions-mb-quarantined-domain-learn-more = Eikuaave
-    .aria-label = Eikuaave: Oĩ jepysokue ojepurukuaa’ỹva
+    .aria-label = Eikuaave: Oĩ jepysokue ojeporukuaa’ỹva
 unified-extensions-mb-about-addons-link = Eho jepysokue myatyrõhápe
 # Variables:
 #   $extensionName (String) - Name of the extension disabled through a soft-block.

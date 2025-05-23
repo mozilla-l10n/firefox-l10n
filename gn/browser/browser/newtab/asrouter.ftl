@@ -334,5 +334,5 @@ multi-cta-fox-doodle-pin-checkbox =
        *[other] Embjuaju { -brand-short-name } tembiaporã rendáre
     }
 multi-cta-fox-doodle-start-browsing-primary-button-label = Eñepyrũ eikundaha
-multi-cta-fox-doodle-main-browser-primary-button-label = Ajapo { -brand-short-name }-gui che kundahára aipuruvéva
+multi-cta-fox-doodle-main-browser-primary-button-label = Ajapo { -brand-short-name }-gui che kundahára aiporuvéva
 multi-cta-fox-doodle-quick-reminder-subtitle = Peteĩ ñemomandu’a ikatuha ereko ne kundahára, oma’ẽva tekoñemi, erohoryvéva namombyryiete ndehegui.
