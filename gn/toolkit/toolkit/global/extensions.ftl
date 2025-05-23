@@ -103,6 +103,7 @@ webext-perms-host-description-multiple-domains =
 
 ## Strings for data collection permissions in the permission prompt.
 
+webext-perms-description-data-none = Mboguatahára he’i ko jepysokue noikotevẽiha mba’ekuaarã ñembyaty.
 # Variables:
 #   $extension (String): replaced with the localized name of the extension.
 webext-perms-optional-text-with-data-collection = { $extension } ojerure ñemboheko jo’ávare
