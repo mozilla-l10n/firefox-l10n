@@ -81,6 +81,8 @@ addon-removal-title = ¿Emboguete { $name }?
 addon-removal-message = ¿Embogue { $name } { -brand-shorter-name }-gui?
 addon-removal-button = Mboguete
 addon-removal-abuse-report-checkbox = Emomarandu ko jepysokue rehegua { -vendor-short-name }-pe
+# "it" refers to the local AI model that is paired to the AI feature
+addon-mlmodel-removal-body = Oiporúramo tembiapoite térã jepysokue oiporúva koichagua, oñembojuaju jeýta.
 # Variables:
 #   $addonCount (Number): the number of add-ons being downloaded
 addon-downloading-and-verifying =
