@@ -31,3 +31,5 @@ confirmation-hint-duplicate-tabs-closed =
         [many] Zavřeno { $tabCount } panelů
        *[other] Zavřeno { $tabCount } panelů
     }
+# Subtle notification shown when Extensions button moves into the application menu.
+confirmation-hint-extensions-button-hidden = Přesunuto do nabídky

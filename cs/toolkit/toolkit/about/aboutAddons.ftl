@@ -649,6 +649,10 @@ addon-permissions-required-data-collection = Požadovaný sběr dat:
 addon-permissions-optional-data-collection = Volitelný sběr dat:
 # Name of the Permissions tab in `about:addons` when the data collection feature is enabled.
 permissions-data-addon-button = Oprávnění a data
+# This is a description for extension that use this AI model
+# Variables:
+#   $extensionName (String) - Name of the extension
+mlmodel-extension-label = Používáno rozšířením { $extensionName }
 
 ## Mapping Engine IDs from AI models to how that feature represented by the engine Id is described in the used by section in local model management
 
