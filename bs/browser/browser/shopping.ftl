@@ -96,15 +96,40 @@ shopping-settings-recommendations-toggle =
     .label = Prikaži oglase u Provjeri recenzija
 shopping-settings-recommendations-learn-more2 = Povremeno ćete vidjeti oglase za relevantne proizvode. Oglašavamo samo proizvode s pouzdanim recenzijama. <a data-l10n-name="review-quality-url">Saznajte više</a>
 shopping-settings-opt-out-button = Isključite provjeru recenzije
+powered-by-fakespot = Alat za provjeru recenzija pokreće <a data-l10n-name="fakespot-link">{ -fakespot-brand-full-name }</a>.
+shopping-settings-auto-open-toggle =
+    .label = Automatski otvori Provjeru recenzija
+# Description text for regions where we support three sites. Sites are limited to Amazon, Walmart and Best Buy.
+# Variables:
+#   $firstSite (String) - The first shopping page name
+#   $secondSite (String) - The second shopping page name
+#   $thirdSite (String) - The third shopping page name
+shopping-settings-auto-open-description-three-sites = Kada pregledate proizvode na { $firstSite }, { $secondSite } i { $thirdSite }
+# Description text for regions where we support only one site (e.g. currently used in FR/DE with Amazon).
+# Variables:
+#   $currentSite (String) - The current shopping page name
+shopping-settings-auto-open-description-single-site = Kada pregledate proizvode na { $currentSite }
+shopping-settings-sidebar-enabled-state = Provjera recenzija je <strong>Uključena</strong>
 
 ## Strings for the adjusted rating component
 
+# "Adjusted rating" means a star rating that has been adjusted to include only
+# reliable reviews.
+shopping-adjusted-rating-label =
+    .label = Prilagođena ocjena
+shopping-adjusted-rating-unreliable-reviews = Nepouzdane recenzije su uklonjene
+shopping-adjusted-rating-based-reliable-reviews = Na osnovu pouzdanih recenzija
 
 ## Strings for the review reliability component
 
+shopping-review-reliability-label =
+    .label = Koliko su ove recenzije pouzdane?
 
 ## Strings for the analysis explainer component
 
+shopping-analysis-explainer-label =
+    .label = Kako utvrđujemo kvalitet recenzija
+shopping-analysis-explainer-intro2 = Koristimo AI tehnologiju od { -fakespot-brand-full-name } kako bismo provjerili pouzdanost recenzija proizvoda. Ovo će vam pomoći samo da procijenite kvalitet recenzije, a ne kvalitet proizvoda.
 
 ## Strings for UrlBar button
 
@@ -131,6 +156,19 @@ shopping-settings-opt-out-button = Isključite provjeru recenzije
 ## "price tag" refers to the price tag icon displayed in the address bar to
 ## access the feature.
 
+shopping-callout-pdp-opted-in-subtitle = Otvorite Provjeru recenzija da biste vidjeli prilagođenu ocjenu iz koje su uklonjene nepouzdane recenzije. Osim toga, pogledajte istaknute dijelove nedavnih autentičnih recenzija.
+shopping-callout-closed-not-opted-in-title = Jedan klik do pouzdanih recenzija
+shopping-callout-closed-not-opted-in-subtitle = Isprobajte Provjeru recenzija kad god vidite cijenu. Brzo dobijte uvide od stvarnih kupaca - prije nego što kupite.
+shopping-callout-closed-not-opted-in-revised-title = Jedan klik do pouzdanih recenzija
+shopping-callout-closed-not-opted-in-revised-subtitle = Samo kliknite ikonu cijene u adresnoj traci da biste se vratili na Provjeru recenzija.
+shopping-callout-closed-not-opted-in-revised-button = Razumijem
+shopping-callout-not-opted-in-reminder-title = Kupujte s povjerenjem
+shopping-callout-not-opted-in-reminder-subtitle = Niste sigurni da li su recenzije proizvoda stvarne ili lažne? Alat za provjeru recenzija od { -brand-product-name } vam može pomoći.
+shopping-callout-not-opted-in-reminder-open-button = Otvori provjeru recenzije
+shopping-callout-not-opted-in-reminder-close-button = Odbaci
+shopping-callout-not-opted-in-reminder-ignore-checkbox = Ne prikazuj ponovo
+shopping-callout-not-opted-in-reminder-img-alt =
+    .aria-label = Apstraktna ilustracija tri recenzije proizvoda. Jedna ima simbol upozorenja koji ukazuje na to da možda nije pouzdana.
 
 ## Onboarding message strings.
 
