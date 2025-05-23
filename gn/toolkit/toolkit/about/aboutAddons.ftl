@@ -557,3 +557,5 @@ mlmodel-extension-label = Oiporúva pe jepysokue { $extensionName }
 mlmodel-about-inference = { -brand-short-name } oiporu kóva about:inference ndive
 mlmodel-link-preview = { -brand-short-name } oiporu kóva oguereko hag̃ua kyta ohecha ypývo juajuha
 mlmodel-pdfjs = { -brand-short-name } oiporu kóva omoheñói hag̃ua moñe’ẽrã mokõiháva ta’ãngakuéra oñembojuajúva PDF rehe
+mlmodel-smart-tab-topic-engine = { -brand-short-name } oiporu kóva he’i hag̃ua téra tendayke atýpe g̃uarã
+mlmodel-smart-tab-embedding-engine = { -brand-short-name } oiporu kóva he’i hag̃ua tendayke tendayke atýpe g̃uarã
