@@ -29,3 +29,5 @@ confirmation-hint-duplicate-tabs-closed =
         [one] { $tabCount } lap bezárva
        *[other] { $tabCount } lap bezárva
     }
+# Subtle notification shown when Extensions button moves into the application menu.
+confirmation-hint-extensions-button-hidden = Áthelyezve a menübe

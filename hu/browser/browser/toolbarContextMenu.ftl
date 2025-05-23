@@ -60,6 +60,10 @@ toolbar-context-menu-auto-hide-downloads-button-2 =
 toolbar-context-menu-always-open-downloads-panel =
     .label = Panel megjelenítése, amikor a letöltés kezdődik
     .accesskey = P
+# Label of checkbox menu item to toggle visibility of Extensions Button.
+toolbar-context-menu-always-show-extensions-button =
+    .label = Megjelenítés az Eszköztárban mindig
+    .accesskey = m
 toolbar-context-menu-remove-from-toolbar =
     .label = Eltávolítás az eszköztárról
     .accesskey = e

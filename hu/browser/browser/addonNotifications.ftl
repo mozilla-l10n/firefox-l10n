@@ -81,6 +81,8 @@ addon-removal-title = Eltávolítja a következőt: { $name }?
 addon-removal-message = Eltávolítja a(z) { $name } kiegészítőt a { -brand-shorter-name }ból?
 addon-removal-button = Eltávolítás
 addon-removal-abuse-report-checkbox = A kiegészítő jelentése a { -vendor-short-name } felé
+# "it" refers to the local AI model that is paired to the AI feature
+addon-mlmodel-removal-body = Ha azokat a funkciókat vagy kiegészítőket használja, amelyek használják ezt a modellt, akkor újra hozzáadásra kerül.
 # Variables:
 #   $addonCount (Number): the number of add-ons being downloaded
 addon-downloading-and-verifying =

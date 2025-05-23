@@ -515,6 +515,8 @@ performance-default-content-process-count =
 ## General Section - Browsing
 
 browsing-title = Böngészés
+browsing-group-label =
+    .aria-label = Böngészés
 browsing-use-autoscroll =
     .label = Automatikus görgetés
     .accesskey = u

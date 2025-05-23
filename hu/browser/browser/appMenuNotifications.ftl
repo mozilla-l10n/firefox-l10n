@@ -44,6 +44,9 @@ appmenu-addon-private-browsing-installed2 =
     .buttonlabel = Rendben
     .buttonaccesskey = R
 appmenu-addon-post-install-message3 = Kezelje a kiegészítőit és témáit az alkalmazásmenün keresztül.
+# This string is used in the confirmation popup displayed after an extension
+# has been installed, when the data collection feature is enabled.
+appmenu-addon-post-install-message-with-data-collection = Az engedélyeket és adatbeállításokat bármikor frissítheti a <a data-l10n-name="settings-link">kiegészítő beállításaiban</a>.
 appmenu-addon-post-install-incognito-checkbox =
     .label = A kiegészítő futtatásának engedélyezése privát ablakokban
     .accesskey = e
