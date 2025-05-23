@@ -25,3 +25,5 @@ confirmation-hint-screenshot-copied = Đã sao chép ảnh chụp màn hình!
 # Variables:
 #   $tabCount (Number): The number of duplicate tabs closed, at least 1.
 confirmation-hint-duplicate-tabs-closed = Đóng { $tabCount } thẻ
+# Subtle notification shown when Extensions button moves into the application menu.
+confirmation-hint-extensions-button-hidden = Đã chuyển sang menu

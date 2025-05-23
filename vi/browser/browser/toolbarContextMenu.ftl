@@ -59,6 +59,10 @@ toolbar-context-menu-auto-hide-downloads-button-2 =
 toolbar-context-menu-always-open-downloads-panel =
     .label = Hiển thị bảng điều khiển khi bắt đầu tải xuống
     .accesskey = S
+# Label of checkbox menu item to toggle visibility of Extensions Button.
+toolbar-context-menu-always-show-extensions-button =
+    .label = Luôn hiển thị trên thanh công cụ
+    .accesskey = A
 toolbar-context-menu-remove-from-toolbar =
     .label = Xóa khỏi thanh công cụ
     .accesskey = R
