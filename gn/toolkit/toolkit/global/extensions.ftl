@@ -105,6 +105,18 @@ webext-perms-host-description-multiple-domains =
 
 webext-perms-description-data-none = Mboguatahára he’i ko jepysokue noikotevẽiha mba’ekuaarã ñembyaty.
 # Variables:
+#    $permissions (String): a list of data collection permissions formatted with `Intl.ListFormat` using the "narrow" style.
+webext-perms-description-data-some = Mboguatahára he’i ko jepysokue ombyatyha: { $permissions }
+# Variables:
+#    $permissions (String): a list of data collection permissions formatted with `Intl.ListFormat` using the "narrow" style.
+webext-perms-description-data-some-update = Mboguatahára he’i ko jepysokue ombyatýta: { $permissions }
+# Variables:
+#    $permissions (String): a list of data collection permissions formatted with `Intl.ListFormat` using the "narrow" style.
+webext-perms-description-data-some-optional = Mboguatahára he’i ko jepysokue ombyatyseha: { $permissions }
+# Variables:
+#   $extension (String): replaced with the localized name of the extension.
+webext-perms-update-text-with-data-collection = { $extension } oikotevẽ ñemboheko pyahu hekopyahu hag̃ua
+# Variables:
 #   $extension (String): replaced with the localized name of the extension.
 webext-perms-optional-text-with-data-collection = { $extension } ojerure ñemboheko jo’ávare
 # Variables:
