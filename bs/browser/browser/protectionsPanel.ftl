@@ -22,12 +22,26 @@ protections-popup-footer-protection-label-standard = Standardno
 protections-panel-etp-more-info =
     .aria-label = Više informacija o poboljšanoj zaštiti od praćenja
 protections-panel-etp-on-header = Poboljšana zaštita od praćenja je UKLJUČENA za ovu stranicu
+protections-panel-etp-off-header = Poboljšana zaštita od praćenja je ISKLJUČENA za ovu stranicu
+# The link to be clicked to open the sub-panel view
+protections-panel-site-not-working = Stranica ne radi?
+# The heading/title of the sub-panel view
+protections-panel-site-not-working-view =
+    .title = Stranica ne radi?
 
 ## Text for the toggles shown when ETP is enabled/disabled for a given site.
 ## .description is transferred into a separate paragraph by the moz-toggle
 ## custom element code.
 ##   $host (String): the hostname of the site that is being displayed.
 
+protections-panel-etp-toggle-on =
+    .label = Napredna zaštita od praćenja
+    .description = Uključeno za ovu stranicu
+    .aria-label = Napredna zaštita od praćenja: Uključeno za { $host }
+protections-panel-etp-toggle-off =
+    .label = Napredna zaštita od praćenja
+    .description = Isključeno za ovu stranicu
+    .aria-label = Napredna zaštita od praćenja: Isključeno za { $host }
 
 ## The "Allowed" header also includes a "Why?" link that, when hovered, shows
 ## a tooltip explaining why these items were not blocked in the page.
