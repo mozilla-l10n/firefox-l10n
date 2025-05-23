@@ -1,5 +1,6 @@
-version 123.2024.16.151
 *** ADENDO PARA A VERSÃO PT-BR ***
+
+Version 140.2025.142.1267
 
 A versão pt-BR foi criada como um trabalho derivado do dicionário
 pt-PT, portanto preservando suas licenças.
@@ -13,7 +14,7 @@ Abaixo segue o README da versão pt-PT.
 
 This is a Portuguese (Portugal) dictionary for Hunspell:
 
-Copyright (C) 2006-2009  José João de Almeida <jj@di.uminho.pt> , 
+Copyright (C) 2006-2009  José João de Almeida <jj@di.uminho.pt> ,
 	Rui Vilela <ruivilela@di.uminho.pt> ,
 	Alberto Simões <ambs@di.uminho.pt>
 
@@ -24,7 +25,7 @@ All dictionary files and associated programs are currently covered by
 the (GPL/LGPL/MPL), by this order. See also COPYING file for more
 details, if available.
 
-Regarding license versions: 
+Regarding license versions:
      1. GPL Version 2
      2. LGPL Version 2.1
      3. MPL Version 1.1
