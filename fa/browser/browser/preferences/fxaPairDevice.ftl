@@ -7,5 +7,6 @@ fxa-pair-device-dialog-sync2 =
 fxa-qrcode-pair-title = ‏{ -brand-product-name } را در تلفن همراه یا تبلت خود همگام‌سازی کنید
 fxa-qrcode-pair-step1 = ۱. { -brand-product-name } را در دستگاه همراه خود باز کنید.
 fxa-qrcode-pair-step2-signin = ۲. به منو بروید (<img data-l10n-name=\"ios-menu-icon\"/> در iOS یا <img data-l10n-name=\"android-menu-icon\"/> در اندروید) و روی <strong>همگام‌سازی و ذخیره داده‌ها</strong> ضربه بزنید.
+fxa-qrcode-pair-step3 = ۳. روی <strong>آماده برای اسکن</strong> ضربه بزنید و تلفن خود را روی این کد نگه دارید.
 fxa-qrcode-error-title = اتصال موفق نبود.
 fxa-qrcode-error-body = تلاش مجدد.
