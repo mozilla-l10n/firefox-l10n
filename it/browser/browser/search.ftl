@@ -83,7 +83,7 @@ add-engine-keyword-placeholder =
 
 ## The following strings are used as error messages.
 
-add-engine-keyword-exists = Questa parola chiave è già in uso. Provane un‘altra.
+add-engine-keyword-exists = Questa parola chiave è già in uso. Provane un’altra.
 add-engine-name-exists = Questo nome è già in uso. Scegli un altro nome.
 add-engine-no-name = Aggiungi un nome.
 add-engine-no-url = Inserire un URL.
