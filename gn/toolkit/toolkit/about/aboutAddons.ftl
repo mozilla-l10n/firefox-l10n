@@ -547,6 +547,13 @@ addon-permissions-required-data-collection = Mba’ekuaarã ñembyaty tekotevẽ
 addon-permissions-optional-data-collection = Mba’ekuaarã ñembyaty eipotáronte:
 # Name of the Permissions tab in `about:addons` when the data collection feature is enabled.
 permissions-data-addon-button = Ñemoneĩ ha mba’ekuaarã
+# This is a description for extension that use this AI model
+# Variables:
+#   $extensionName (String) - Name of the extension
+mlmodel-extension-label = Oiporúva pe jepysokue { $extensionName }
 
 ## Mapping Engine IDs from AI models to how that feature represented by the engine Id is described in the used by section in local model management
 
+mlmodel-about-inference = { -brand-short-name } oiporu kóva about:inference ndive
+mlmodel-link-preview = { -brand-short-name } oiporu kóva oguereko hag̃ua kyta ohecha ypývo juajuha
+mlmodel-pdfjs = { -brand-short-name } oiporu kóva omoheñói hag̃ua moñe’ẽrã mokõiháva ta’ãngakuéra oñembojuajúva PDF rehe
