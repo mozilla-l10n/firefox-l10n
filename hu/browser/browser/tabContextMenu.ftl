@@ -134,3 +134,11 @@ tab-context-send-tabs-to-device =
            *[other] { $tabCount } lap küldése az eszközre
         }
     .accesskey = k
+tab-context-unload-n-tabs =
+    .label =
+        { $tabCount ->
+            [1] Lap kiürítése
+            [one] Lap kiürítése
+           *[other] { $tabCount } lap kiürítése
+        }
+    .accesskey = r

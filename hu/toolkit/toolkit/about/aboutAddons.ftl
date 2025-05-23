@@ -564,6 +564,15 @@ addon-permissions-required-data-collection = Szükséges adatgyűjtés:
 addon-permissions-optional-data-collection = Nem kötelező adatgyűjtés:
 # Name of the Permissions tab in `about:addons` when the data collection feature is enabled.
 permissions-data-addon-button = Engedélyek és adatok
+# This is a description for extension that use this AI model
+# Variables:
+#   $extensionName (String) - Name of the extension
+mlmodel-extension-label = A(z) { $extensionName } kiegészítő használja
 
 ## Mapping Engine IDs from AI models to how that feature represented by the engine Id is described in the used by section in local model management
 
+mlmodel-about-inference = A { -brand-short-name } használja az about:inference oldalon
+mlmodel-link-preview = A { -brand-short-name } használja a kulcspontok előállításakor a hivatkozások előnézetekor
+mlmodel-pdfjs = A { -brand-short-name } használja arra, hogy alternatív szövegeket hozzon létre a PDF-hez hozzáadott képekhez
+mlmodel-smart-tab-topic-engine = A { -brand-short-name } használja, hogy neveket javasoljon a lapcsoportjaihoz
+mlmodel-smart-tab-embedding-engine = A { -brand-short-name } használja, hogy lapokat javasoljon a lapcsoportjaihoz

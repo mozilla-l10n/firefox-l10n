@@ -121,6 +121,13 @@ webext-perms-description-data-some-optional = A fejlesztő szerint a kiegészít
 # Variables:
 #   $extension (String): replaced with the localized name of the extension.
 webext-perms-update-text-with-data-collection = A(z) { $extension } új beállításokat igényel a frissítéshez
+webext-perms-update-list-intro-with-data-collection = Szakítsa meg, hogy megtartsa a jelenlegi verziót és a beállításokat, vagy frissítsen, hogy az új verziót kapja meg, és jóváhagyja a változásokat.
+# Variables:
+#   $extension (String): replaced with the localized name of the extension.
+webext-perms-optional-text-with-data-collection = A(z) { $extension } további beállításokat igényel
+# Variables:
+#   $extension (String): replaced with the localized name of the extension.
+webext-perms-optional-text-with-data-collection-only = A(z) { $extension } további adatgyűjtést igényel
 
 ## Headers used in the webextension permissions dialog for synthetic add-ons.
 ## The part of the string describing what privileges the extension gives should be consistent
