@@ -81,6 +81,8 @@ addon-removal-title = Xóa { $name }?
 addon-removal-message = Gỡ bỏ { $name } từ { -brand-shorter-name }?
 addon-removal-button = Xóa
 addon-removal-abuse-report-checkbox = Báo cáo tiện ích mở rộng này cho { -vendor-short-name }
+# "it" refers to the local AI model that is paired to the AI feature
+addon-mlmodel-removal-body = Nếu bạn sử dụng các tính năng hoặc tiện ích mở rộng sử dụng mô hình này, nó sẽ được thêm lại.
 # Variables:
 #   $addonCount (Number): the number of add-ons being downloaded
 addon-downloading-and-verifying = Đang tải và xác thực { $addonCount } tiện ích…

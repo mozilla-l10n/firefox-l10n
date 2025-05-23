@@ -503,6 +503,8 @@ performance-default-content-process-count =
 ## General Section - Browsing
 
 browsing-title = Duyệt
+browsing-group-label =
+    .aria-label = Duyệt
 browsing-use-autoscroll =
     .label = Tự động cuộn
     .accesskey = u
