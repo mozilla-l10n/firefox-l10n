@@ -29,3 +29,5 @@ confirmation-hint-duplicate-tabs-closed =
         [one] Oñemboty { $tabCount } tendayke
        *[other] Oñemboty { $tabCount } tendaykekuéra
     }
+# Subtle notification shown when Extensions button moves into the application menu.
+confirmation-hint-extensions-button-hidden = Poravohápe guerovapyre

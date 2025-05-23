@@ -60,6 +60,10 @@ toolbar-context-menu-auto-hide-downloads-button-2 =
 toolbar-context-menu-always-open-downloads-panel =
     .label = Ehechauka ta’ãngarupa oñepyrũvo ñemboguejy
     .accesskey = S
+# Label of checkbox menu item to toggle visibility of Extensions Button.
+toolbar-context-menu-always-show-extensions-button =
+    .label = Ehechauka meme temboporu rupa
+    .accesskey = A
 toolbar-context-menu-remove-from-toolbar =
     .label = Tembiporu rendágui mboguete
     .accesskey = R

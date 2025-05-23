@@ -514,6 +514,8 @@ performance-default-content-process-count =
 ## General Section - Browsing
 
 browsing-title = Kundaha
+browsing-group-label =
+    .aria-label = Kundaha
 browsing-use-autoscroll =
     .label = Oku’éva ijehegui jeporu
     .accesskey = a
