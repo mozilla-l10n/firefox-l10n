@@ -515,6 +515,8 @@ performance-default-content-process-count =
 ## General Section - Browsing
 
 browsing-title = Gezinti
+browsing-group-label =
+    .aria-label = Gezinti
 browsing-use-autoscroll =
     .label = Otomatik kaydırmayı kullan
     .accesskey = a

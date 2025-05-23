@@ -81,6 +81,8 @@ addon-removal-title = { $name } kaldırılsın mı?
 addon-removal-message = { $name }, { -brand-shorter-name } tarayıcınızdan kaldırılsın mı?
 addon-removal-button = Kaldır
 addon-removal-abuse-report-checkbox = Bu uzantıyı { -vendor-short-name }’ya şikâyet et
+# "it" refers to the local AI model that is paired to the AI feature
+addon-mlmodel-removal-body = Bu modeli kullanan özellikleri veya uzantıları kullanırsanız model yeniden eklenecektir.
 # Variables:
 #   $addonCount (Number): the number of add-ons being downloaded
 addon-downloading-and-verifying =
