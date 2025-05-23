@@ -81,6 +81,8 @@ addon-removal-title = Вилучити { $name }?
 addon-removal-message = Вилучити { $name } з { -brand-shorter-name }?
 addon-removal-button = Вилучити
 addon-removal-abuse-report-checkbox = Поскаржитись на це розширення до { -vendor-short-name }
+# "it" refers to the local AI model that is paired to the AI feature
+addon-mlmodel-removal-body = Якщо ви користуєтеся функціями або розширеннями, що використовують цю модель, її буде додано повторно.
 # Variables:
 #   $addonCount (Number): the number of add-ons being downloaded
 addon-downloading-and-verifying =
