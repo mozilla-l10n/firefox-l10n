@@ -30,16 +30,24 @@ searchbar-icon =
 ## $oldEngine (String) - the search engine to be removed.
 ## $newEngine (String) - the search engine to replace the removed search engine.
 
+removed-search-engine-message = <strong>Vaš zadani pretraživač je promijenjen.</strong> { $oldEngine } više nije dostupan kao zadani pretraživač u { -brand-short-name }. { $newEngine } je sada vaš zadani pretraživač. Da biste promijenili na drugi zadani pretraživač, idite u postavke. <label data-l10n-name="remove-search-engine-article">Saznajte više</label>
+removed-search-engine-message2 = <strong>Vaš zadani pretraživač je promijenjen.</strong> { $oldEngine } više nije dostupan kao zadani pretraživač u { -brand-short-name }. { $newEngine } je sada vaš zadani pretraživač. Da biste promijenili na drugi zadani pretraživač, idite u postavke.
+remove-search-engine-button = OK
 
 ## Infobar shown when default search engine is reset due to an issue reading the settings file.
 ## Variables
 ## $newEngine (String) - the name of the new default search engine.
 
+reset-search-settings-message = Zbog tehničkog problema, vaš zadani pretraživač je vraćen na { $newEngine }. Da biste promijenili zadani pretraživač, idite u postavke.
+reset-search-settings-button = OK
 
 ## Infobar shown when user is prompted to install search engine.
 ## Variables
 ## $engineName (String) - the name of the search engine to install.
 
+install-search-engine = Dodati { $engineName } kao pretraživač?
+install-search-engine-add = Dodaj
+install-search-engine-no = Ne
 
 ## These strings are used for the add engine dialog when adding a custom search engine
 ## in settings or when adding an HTML form as a search engine.
@@ -49,8 +57,10 @@ add-engine-window =
     .style = min-width: 32em;
 add-engine-button = Dodajte prilagođeni pretraživač
 add-engine-name = Naziv pretraživača
+add-engine-keyword = Ključna riječ
 add-engine-url = URL pretraživača, koristite %s umjesto pojma za pretraživanje
 add-engine-dialog =
     .buttonlabelaccept = Dodaj pretraživač
     .buttonaccesskeyaccept = A
 engine-name-exists = Pretraživač s tim imenom već postoji
+engine-keyword-exists = Pretraživač s tom ključnom riječi već postoji
