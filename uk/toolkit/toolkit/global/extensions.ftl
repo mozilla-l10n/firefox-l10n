@@ -11,7 +11,7 @@
 ##   $extension (String): replaced with the localized name of the extension.
 
 webext-perms-header = Додати { $extension }?
-webext-perms-header-with-perms = Додати { $extension }? Це розширення матиме дозвіл:
+webext-perms-header-with-perms = Додати { $extension }? Це розширення матиме такі дозволи:
 webext-perms-header-unsigned = Додати { $extension }? Це розширення неперевірене. Зловмисні розширення можуть викрадати вашу особисту інформацію, або компрометувати ваш комп'ютер. Додавайте його лише якщо ви впевнені в надійності джерела.
 webext-perms-header-unsigned-with-perms = Додати { $extension }? Це розширення неперевірене. Зловмисні розширення можуть викрадати вашу особисту інформацію, або компрометувати ваш комп'ютер. Додавайте його лише якщо ви впевнені в надійності джерела. Це розширення матиме дозвіл:
 webext-perms-sideload-header = { $extension } додано
@@ -56,7 +56,7 @@ webext-perms-sideload-cancel =
 webext-perms-update-text2 = Розширення { $extension } оновлено. Ви повинні схвалити нові дозволи, перш ніж буде встановлено оновлену версію. Якщо вибрати "Скасувати", збережеться ваша поточна версія розширення.
 # Variables:
 #   $extension (String): replaced with the localized name of the extension.
-webext-perms-update-text = { $extension } було оновлено. Ви повинні схвалити нові дозволи перед встановленням оновленої версії. Вибравши “Скасувати”, розширення не оновиться і ви продовжите користуватися поточною версією. Це розширення матиме дозвіл:
+webext-perms-update-text = { $extension } було оновлено. Ви повинні схвалити нові дозволи перед встановленням оновленої версії. Вибравши “Скасувати”, розширення не оновиться і ви продовжите користуватися поточною версією. Це розширення матиме такі дозволи:
 webext-perms-update-accept =
     .label = Оновити
     .accesskey = н
