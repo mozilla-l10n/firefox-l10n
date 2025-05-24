@@ -116,6 +116,7 @@ webext-perms-description-data-some-optional = Mboguatahára he’i ko jepysokue 
 # Variables:
 #   $extension (String): replaced with the localized name of the extension.
 webext-perms-update-text-with-data-collection = { $extension } oikotevẽ ñemboheko pyahu hekopyahu hag̃ua
+webext-perms-update-list-intro-with-data-collection = Ehejarei ereko hag̃ua apopyre ha ñemboheko ag̃agua, térã embohekopyahu apopyre ha emoneĩ umi ambuepyre.
 # Variables:
 #   $extension (String): replaced with the localized name of the extension.
 webext-perms-optional-text-with-data-collection = { $extension } ojerure ñemboheko jo’ávare
