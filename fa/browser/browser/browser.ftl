@@ -350,7 +350,6 @@ quickactions-bookmarks2 = مدیریت نشانک‌ها
 quickactions-cmd-bookmarks = نشانک‌ها
 # Opens a SUMO article explaining how to clear history
 quickactions-clearrecenthistory = پاک کردن تاریخچهٔ اخیر
-quickactions-cmd-clearrecenthistory = پاک کردن تاریخچهٔ اخیر، تاریخچه
 # Opens a SUMO article explaining how to clear history
 quickactions-clearhistory = پاک کردن تاریخچه
 quickactions-cmd-clearhistory = پاک کردن تاریخچه
