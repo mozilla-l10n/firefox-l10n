@@ -206,6 +206,9 @@ urlbar-result-menu-dont-show-weather-suggestions =
 # A message shown in the urlbar when the user submits feedback on a suggestion
 # (e.g., it shows an inaccurate location, it's shown too often, etc.).
 urlbar-feedback-acknowledgment = താങ്കളുടെ പ്രതികരണത്തിനു് നന്ദി
+# A message shown in the urlbar when the user dismisses weather suggestions.
+# Weather suggestions won't be shown at all anymore.
+urlbar-dismissal-acknowledgment-weather = താങ്ങളുടെ പ്രതികരണത്തിനു് നന്ദി. ഇനി നിങ്ങൾക്കു് കാലാവസ്ഥ അറിയിപ്പുകൾ കാണണ്ടി വരുത്തില്ല
 
 ## Prompts users to use the Urlbar when they open a new tab or visit the
 ## homepage of their default search engine.
@@ -1094,6 +1097,10 @@ popup-notification-addon-install-unsigned =
     .value = (പരിശോധിച്ചിട്ടില്ലാത്തതു്)
 popup-notification-xpinstall-prompt-learn-more = ആഡ്-ഓണുകൾ സുരക്ഷിതമായി സ്ഥാപിക്കുന്നതിനെക്കുറിച്ചു് കൂടുതലറിയുക.
 popup-notification-xpinstall-prompt-block-url = വിശദാംശങ്ങൾ കാണുക
+# Note: Access key is set to p to match "private" in the corresponding localized label.
+popup-notification-addon-privatebrowsing-checkbox2 =
+    .label = സ്വകാര്യ ജാലകങ്ങളിൽ പ്രവർത്തിക്കുന്നതിന് ഈ വിപുലീകരണത്തിനെ അനുവദിക്കുക
+    .accesskey = സ
 
 ## Pop-up warning
 
@@ -1143,3 +1150,4 @@ file-picker-crashed-show-in-folder =
 
 ## Onboarding Finish Setup checklist
 
+onboarding-checklist-button-label = സജ്ജീകരണം തീൎക്കുവിൻ
