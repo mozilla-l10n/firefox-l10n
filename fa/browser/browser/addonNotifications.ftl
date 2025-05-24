@@ -81,6 +81,8 @@ addon-removal-title = { $name } حذف شود؟
 addon-removal-message = حذف { $name } از { -brand-shorter-name }؟
 addon-removal-button = حذف
 addon-removal-abuse-report-checkbox = گزارش این افزونه به { -vendor-short-name }
+# "it" refers to the local AI model that is paired to the AI feature
+addon-mlmodel-removal-body = اگر از ویژگی‌ها یا افزونه‌هایی که از این مدل استفاده می‌کنند بهره ببرید، دوباره اضافه خواهد شد.
 # Variables:
 #   $addonCount (Number): the number of add-ons being downloaded
 addon-downloading-and-verifying =
