@@ -6,6 +6,7 @@
 ## These strings are used in the about:preferences moreFromMozilla page
 
 more-from-moz-firefox-mobile-title-1 = { -brand-product-name } برای موبایل
+more-from-moz-mozilla-vpn-title = { -mozilla-vpn-brand-name }
 more-from-moz-learn-more-link = بیشتر بدانید
 
 ## These strings are for the Firefox Relay card in about:preferences moreFromMozilla page
