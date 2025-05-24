@@ -162,6 +162,9 @@ main-context-menu-copy-phone =
 main-context-menu-copy-link-simple =
     .label = رونوشت از پیوند
     .accesskey = پ
+main-context-menu-preview-link =
+    .label = پیش‌نمایش پیوند
+    .accesskey = ن
 # "Copy Clean Link" means that Firefox will remove things from the link you
 # copied, like items that identify you for advertising purposes, and other items
 # sites add into URLs to help them deliver a certain browsing experience.
@@ -323,6 +326,9 @@ main-context-menu-manage-passwords =
 main-context-menu-keyword =
     .label = افزودن یک کلیدواژه به این جست‌وجو…
     .accesskey = ک
+main-context-menu-add-engine =
+    .label = افزودن موتور جست‌وجو
+    .accesskey = ا
 main-context-menu-link-send-to-device =
     .label = ارسال پیوند به دستگاه
     .accesskey = د
