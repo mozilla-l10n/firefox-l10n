@@ -29,6 +29,8 @@ about-logging-no-log-modules = Nessuno
 about-logging-no-log-file = Nessuno
 about-logging-logging-preset-selector-text = Preset di registrazione:
 about-logging-with-profiler-stacks-checkbox = Attiva analisi dello stack per messaggi di log
+about-logging-menu =
+    .title = Opzioni avanzate
 
 ## Logging presets
 
