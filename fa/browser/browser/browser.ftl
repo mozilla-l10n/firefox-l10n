@@ -190,6 +190,12 @@ urlbar-result-menu-tip-get-help =
 urlbar-result-menu-dismiss-suggestion =
     .label = رد این پیشنهاد
     .accesskey = ر
+urlbar-result-menu-learn-more-about-firefox-suggest =
+    .label = دربارهٔ { -firefox-suggest-brand-name } بیشتر بدانید
+    .accesskey = ب
+urlbar-result-menu-manage-firefox-suggest =
+    .label = مدیریت { -firefox-suggest-brand-name }
+    .accesskey = م
 # Some urlbar suggestions show the user's approximate location as automatically
 # detected by Firefox (e.g., weather suggestions), and this menu item lets the
 # user tell Firefox that the location is not accurate. Typically the location
@@ -344,6 +350,7 @@ quickactions-bookmarks2 = مدیریت نشانک‌ها
 quickactions-cmd-bookmarks = نشانک‌ها
 # Opens a SUMO article explaining how to clear history
 quickactions-clearrecenthistory = پاک کردن تاریخچهٔ اخیر
+quickactions-cmd-clearrecenthistory = پاک کردن تاریخچهٔ اخیر، تاریخچه
 # Opens a SUMO article explaining how to clear history
 quickactions-clearhistory = پاک کردن تاریخچه
 quickactions-cmd-clearhistory = پاک کردن تاریخچه
