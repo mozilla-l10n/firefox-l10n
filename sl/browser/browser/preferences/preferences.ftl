@@ -521,6 +521,8 @@ performance-default-content-process-count =
 ## General Section - Browsing
 
 browsing-title = Brskanje
+browsing-group-label =
+    .aria-label = Brskanje
 browsing-use-autoscroll =
     .label = Uporabljaj samodrsenje
     .accesskey = a
