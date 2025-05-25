@@ -46,6 +46,21 @@ webext-perms-extra-warning-userScripts-short = Los scripts no verificados pueden
 ##
 ## This is used when the data collection permissions are required.
 
+webext-perms-description-data-short-authenticationInfo = información de autenticación
+webext-perms-description-data-short-bookmarksInfo = marcadores
+webext-perms-description-data-short-browsingActivity = actividad de navegación
+webext-perms-description-data-short-financialAndPaymentInfo = información financiera y de pagos
+webext-perms-description-data-short-healthInfo = información de salud
+webext-perms-description-data-short-locationInfo = ubicación
+webext-perms-description-data-short-personalCommunications = comunicaciones personales
+webext-perms-description-data-short-personallyIdentifyingInfo = información de identificación personal
+webext-perms-description-data-short-searchTerms = términos de búsqueda
+webext-perms-description-data-short-technicalAndInteraction = datos técnicos y de interacción
+webext-perms-description-data-short-websiteActivity = actividad del sitio web
+webext-perms-description-data-short-websiteContent = contenido del sitio web
 
 ## Long form to be used in `about:addons` when these data collection permissions are optional.
 
+webext-perms-description-data-long-authenticationInfo = Compartir información de autenticación con el desarrollador de la extensión
+webext-perms-description-data-long-bookmarksInfo = Compartir información de marcadores con el desarrollador de la extensión
+webext-perms-description-data-long-browsingActivity = Compartir la actividad de navegación con el desarrollador de la extensión

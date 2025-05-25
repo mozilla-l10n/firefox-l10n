@@ -405,6 +405,8 @@ quickactions-cmd-screenshot2 = snimka ekrana, snimi ekran
 quickactions-cmd-screenshot = snimka ekrana
 # Opens about:preferences
 quickactions-settings2 = Upravljaj postavkama
+# "manage" should match the corresponding command, which is “Manage settings” in English.
+quickactions-cmd-settings2 = postavke, opcije, upravljanje
 quickactions-cmd-settings = postavke, osobne postavke, mogućnosti
 # Opens about:addons page in the themes section
 quickactions-themes = Upravljaj temama
@@ -414,7 +416,8 @@ quickactions-update = Aktualiziraj { -brand-short-name }
 quickactions-cmd-update = aktualiziraj
 # Opens the view-source UI with current pages source
 quickactions-viewsource2 = Prikaži izvorni kod stranice
-quickactions-cmd-viewsource = pogledaj izvorni kod, izvorni kod
+quickactions-cmd-viewsource2 = prikaži izvorni kod, izvorni kod, izvorni kod stranice
+quickactions-cmd-viewsource = prikaži izvorni kod, izvorni kod
 # Tooltip text for the help button shown in the result.
 quickactions-learn-more =
     .title = Saznaj više o brzim radnjama
@@ -731,6 +734,17 @@ urlbar-result-action-undefined-calculator-result = nedefinirano
 #  $result (String): the string representation for a result in scientific notation
 #  (e.g. "1.0e17").
 urlbar-result-action-calculator-result-scientific-notation = = { $result }
+# Shows the result of a formula expression being calculated, this is used for numbers >= 1.
+# The last = sign will be shown as part of the result (e.g. "= 2").
+# Variables
+#  $result (String): the string representation for a formula result
+urlbar-result-action-calculator-result-3 = = { NUMBER($result, useGrouping: "false", maximumFractionDigits: 8) }
+# Shows the result of a formula expression being calculated, to a maximum of 9 significant
+# digits. This is used for numbers < 1.
+# The last = sign will be shown as part of the result (e.g. "= 0.333333333").
+# Variables
+#  $result (String): the string representation for a formula result
+urlbar-result-action-calculator-result-decimal = = { NUMBER($result, maximumSignificantDigits: 9) }
 
 ## Strings used for buttons in the urlbar
 
@@ -1009,6 +1023,9 @@ panel-save-update-password = Lozinka
 # "More" item in macOS share menu
 menu-share-more =
     .label = Više…
+menu-share-copy-link =
+    .label = Kopiraj poveznicu
+    .accesskey = K
 ui-tour-info-panel-close =
     .tooltiptext = Zatvori
 
@@ -1186,6 +1203,15 @@ popup-notification-addon-install-unsigned =
     .value = (Nepotvrđeno)
 popup-notification-xpinstall-prompt-learn-more = Naučite više o sigurnom instaliranju dodataka
 popup-notification-xpinstall-prompt-block-url = Pogledaj detalje
+# Note: Access key is set to p to match "private" in the corresponding localized label.
+popup-notification-addon-privatebrowsing-checkbox2 =
+    .label = Dozvoli proširenju da radi u privatnom prozoru
+    .accesskey = p
+# This string is similar to `webext-perms-description-data-long-technicalAndInteraction`
+# but it is used in the install prompt, and it needs an access key.
+popup-notification-addon-technical-and-interaction-checkbox =
+    .label = Dijeli tehničke podatke i podatke o interakciji s programerom proširenja
+    .accesskey = D
 
 ## Pop-up warning
 
@@ -1245,3 +1271,4 @@ file-picker-crashed-show-in-folder =
 
 ## Onboarding Finish Setup checklist
 
+onboarding-checklist-button-label = Dovrši postavljanje
