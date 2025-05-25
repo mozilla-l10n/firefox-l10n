@@ -516,9 +516,37 @@ newtab-section-mangage-topics-followed-topics-empty-state = Još nisi pratio/la 
 newtab-section-mangage-topics-blocked-topics = Blokirane
 newtab-section-mangage-topics-blocked-topics-empty-state = Još nisi blokirao/la nijednu temu.
 newtab-custom-wallpaper-title = Prilagođene slike pozadine su ovdje
+# 'Make firefox yours" means to customize or personalize
+newtab-custom-wallpaper-subtitle = Prenesi vlastitu sliku pozadine ili odaberi prilagođenu za tvoj { -brand-product-name }.
+newtab-custom-wallpaper-cta = Isprobaj
 
 ## Strings for download mobile highlight
 
+newtab-download-mobile-highlight-title = Preuzmi { -brand-product-name } za mobilne uređaje
+# "Scan the code" refers to scanning the QR code that appears above the body text that leads to Firefox for mobile download.
+newtab-download-mobile-highlight-body-variant-a = Skeniraj kod za sigurno pregledavanje na putu.
+newtab-download-mobile-highlight-body-variant-b = Nastavi tamo gdje si stao/la prilikom sinkronizacije kartica, lozinki i više.
+newtab-download-mobile-highlight-body-variant-c = Znaš li da { -brand-product-name } možeš ponijeti sa sobom? Isti preglednik. U tvom džepu.
+newtab-download-mobile-highlight-image =
+    .aria-label = QR kod za preuzimanje { -brand-product-name }a za mobilne uređaje
 
 ## Strings for reporting ads and content
 
+newtab-report-content-why-reporting-this =
+    .label = Zašto ovo prijavljuješ?
+newtab-report-ads-reason-not-interested =
+    .label = Ne zanima me
+newtab-report-ads-reason-inappropriate =
+    .label = Nije prikladno
+newtab-report-ads-reason-seen-it-too-many-times =
+    .label = Vidio/vidjela sam to previše puta
+newtab-report-content-wrong-category =
+    .label = Kriva kategorija
+newtab-report-content-outdated =
+    .label = Zastarjelo
+newtab-report-content-inappropriate-offensive =
+    .label = Neprikladno ili uvredljivo
+newtab-report-content-spam-misleading =
+    .label = Nametljivo ili obmanjujuće
+newtab-report-cancel = Odustani
+newtab-report-submit = Pošalji
