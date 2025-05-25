@@ -190,6 +190,29 @@ urlbar-result-menu-tip-get-help =
 urlbar-result-menu-dismiss-suggestion =
     .label = Odbaci ovaj prijedlog
     .accesskey = O
+urlbar-result-menu-learn-more-about-firefox-suggest =
+    .label = Saznaj više o { -firefox-suggest-brand-name }u
+    .accesskey = S
+urlbar-result-menu-manage-firefox-suggest =
+    .label = Upravljaj { -firefox-suggest-brand-name }om
+    .accesskey = U
+# Some urlbar suggestions show the user's approximate location as automatically
+# detected by Firefox (e.g., weather suggestions), and this menu item lets the
+# user tell Firefox that the location is not accurate. Typically the location
+# will be a city name, or a city name combined with the name of its parent
+# administrative region (e.g., a province, prefecture, or state).
+urlbar-result-menu-report-inaccurate-location =
+    .label = Prijavi netočnu lokaciju
+urlbar-result-menu-show-less-frequently =
+    .label = Prikaži rjeđe
+urlbar-result-menu-dont-show-weather-suggestions =
+    .label = Ne prikazuj prijedloge za vremensku prognozu
+# A message shown in the urlbar when the user submits feedback on a suggestion
+# (e.g., it shows an inaccurate location, it's shown too often, etc.).
+urlbar-feedback-acknowledgment = Hvala ti povratnim informacijama
+# A message shown in the urlbar when the user dismisses weather suggestions.
+# Weather suggestions won't be shown at all anymore.
+urlbar-dismissal-acknowledgment-weather = Hvala ti na povratnim informacijama. Više nećeš vidjeti prijedloge za vremensku prognozu.
 
 ## Prompts users to use the Urlbar when they open a new tab or visit the
 ## homepage of their default search engine.
@@ -321,10 +344,17 @@ search-one-offs-actions =
 
 # Opens the about:addons page in the home / recommendations section
 quickactions-addons = Pregledaj dodatke
+# In English we provide multiple spellings for "add-ons". If that's not
+# applicable to your language, only use the correct spelling (don't repeat the
+# same word).
+quickactions-cmd-addons3 = proširenja, teme, dodaci
 quickactions-cmd-addons2 = dodaci
 # Opens the bookmarks library window
 quickactions-bookmarks2 = Upravljaj zabilješkama
 quickactions-cmd-bookmarks = zabilješke
+# Opens a SUMO article explaining how to clear history
+quickactions-clearrecenthistory = Izbriši nedavnu povijest
+quickactions-cmd-clearrecenthistory = izbriši nedavnu povijest, povijest
 # Opens a SUMO article explaining how to clear history
 quickactions-clearhistory = Obriši povijest
 quickactions-cmd-clearhistory = obriši povijest
@@ -334,6 +364,15 @@ quickactions-cmd-downloads = preuzimanja
 # Opens about:addons page in the extensions section
 quickactions-extensions = Upravljaj proširenjima
 quickactions-cmd-extensions = proširenja
+# Opens Firefox View
+quickactions-firefoxview = Otvori { -firefoxview-brand-name }
+# English is using "view" and "open view", since the feature name is
+# "Firefox View". If you have translated the name in your language, you
+# should use a word related to the existing translation.
+quickactions-cmd-firefoxview = otvori { -firefoxview-brand-name }, { -firefoxview-brand-name }, otvori pogled, pogled
+# Opens SUMO home page
+quickactions-help = { -brand-product-name } pomoć
+quickactions-cmd-help = pomoć, podrška
 # Opens the devtools web inspector
 quickactions-inspector2 = Otvori alate za programere
 quickactions-cmd-inspector = inspektor, programerski alati
