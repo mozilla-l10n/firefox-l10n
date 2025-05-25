@@ -102,18 +102,54 @@ contextual-manager-passwords-alert-list =
 contextual-manager-passwords-breached-origin-heading-and-message =
     .heading = Preporučuje se mijenjenje lozinke
     .message = Prijavljeno je da su lozinke s ove web stranice ukradene ili procurile. Promijeni lozinku da bi zaštitio/la svoj račun.
+contextual-manager-passwords-breached-origin-link-message = Kako { -brand-product-name } saznaje o krađi podataka?
+contextual-manager-passwords-change-password-button = Promijeni lozinku
+contextual-manager-passwords-vulnerable-password-heading-and-message =
+    .heading = Preporučuje se mijenjenje lozinke
+    .message = Ova se lozinka lako pogođa. Promijeni lozinku da bi zaštitio/la svoj račun.
+contextual-manager-passwords-vulnerable-password-link-message = Kako { -brand-product-name } zna da je lozinka slaba?
+contextual-manager-passwords-no-username-heading-and-message =
+    .heading = Dodaj korisničko ime
+    .message = Dodaj ga za bržu prijavu.
+contextual-manager-passwords-add-username-button = Dodaj korisničko ime
 
 ## Login Form
 
 contextual-manager-passwords-create-label =
     .label = Dodaj lozinku
+contextual-manager-passwords-edit-label =
+    .label = Uredi lozinku
+contextual-manager-passwords-remove-label =
+    .title = Ukloni lozinku
+contextual-manager-passwords-origin-tooltip = Upiši točnu adresu s koje ćeš se prijavljivati na ovu stranicu.
+contextual-manager-passwords-username-tooltip = Upiši korisničko ime, e-mail adresu ili broj računa koji koristiš za prijavu.
+contextual-manager-passwords-password-tooltip = Upiši lozinku koja se koristi za prijavu na ovaj račun.
 
 ## Password Card
 
 contextual-manager-passwords-list-label =
     .aria-label = Lozinke
+contextual-manager-website-icon =
+    .alt = Ikona web stranice
 contextual-manager-copy-icon =
     .alt = Kopiraj
+contextual-manager-check-icon-username =
+    .alt = Kopirano
+contextual-manager-check-icon-password =
+    .alt = Kopirano
+contextual-manager-alert-icon =
+    .alt = Upozorenje
+# Variables
+#   $url (string) - The url associated with the login
+contextual-manager-origin-login-line =
+    .aria-label = Posjeti { $url }
+    .title = Posjeti { $url }
+# "(Warning)" indicates that a login's origin field has an alert icon.
+# Variables
+#   $url (string) - The url associated with the login
+contextual-manager-origin-login-line-with-alert =
+    .aria-label = Posjeti { $url } (Upozorenje)
+    .title = Posjeti { $url } (Upozorenje)
 
 ## When the user has no saved passwords, we display the following messages to inform the user they can save
 ## their passwords safely and securely in Firefox:
