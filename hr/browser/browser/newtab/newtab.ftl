@@ -375,6 +375,11 @@ newtab-wallpaper-storm-sky = Olujno nebo
 newtab-wallpaper-sky-with-pink-clouds = Nebo s ružičastim oblacima
 newtab-wallpaper-red-panda-yawns-in-a-tree = Crvena panda zijeva na drvetu
 newtab-wallpaper-white-mountains = Bijele planine
+newtab-wallpaper-hot-air-balloons = Različite boje balona na vrući zrak tijekom dana
+newtab-wallpaper-starry-canyon = Plava zvjezdana noć
+newtab-wallpaper-suspension-bridge = Fotografija sivog visećeg mosta tijekom dana
+newtab-wallpaper-sand-dunes = Bijele pješčane dine
+newtab-wallpaper-palm-trees = Silueta kokosovih palmi tijekom zlatnog sata
 # Variables
 #   $author_string (String) - The name of the creator of the photo.
 #   $webpage_string (String) - The name of the webpage where the photo is located.

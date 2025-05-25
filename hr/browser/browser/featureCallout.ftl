@@ -81,6 +81,7 @@ bookmarks-toolbar-callout-1-primary-button-label = Dodaj zabilješku
 bookmarks-toolbar-callout-1-secondary-button-label = Ne hvala
 # Visible if user adds a bookmark in callout 1, bookmarks toolbar is set to always show when this message renders
 bookmarks-toolbar-callout-2a-title = Jednostavno dodaj više zabilješki
+bookmarks-toolbar-callout-2a-subtitle = Povuci i ispusti kartice ovdje kako bi ti tvoje omiljene web stranice bile nadohvat ruke.
 bookmarks-toolbar-callout-2a-primary-button-label = Razumijem
 
 ## Perplexity callout strings
@@ -95,6 +96,7 @@ sidebar-button-callout-vertical-tabs = Za prikaz kartica odaberi gumb bočne tra
 ## Sidebar Vertical Tabs Strings
 
 vertical-tabs-callout-1-title = Gubiš pregled zbog previše kartica?
+vertical-tabs-callout-1-subtitle = Isprobaj naš novi okomiti raspored kartica za brzi pregled popisa kartica. Rani testeri javljaju da im ovaj raspored pomaže da se osjećaju organiziranije. Prebaci na okomiti raspored bilo kada.
 vertical-tabs-callout-1-cta-button = Isprobaj okomite kartice
 
 ## Sidebar Vertical Tabs Pinning Strings
