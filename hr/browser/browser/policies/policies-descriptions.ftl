@@ -130,6 +130,8 @@ policy-SearchSuggestEnabled = Aktiviraj ili deaktiviraj prijedloge za pretraživ
 # For more information, see https://wikipedia.org/wiki/PKCS_11
 policy-SecurityDevices2 = Dodaj ili izbriši PKCS #11 module.
 policy-ShowHomeButton = Prikaži gumb početne stranice u alatnoj traci.
+# ”You represent that...” means ”You confirm/declare that...”
+policy-SkipTermsOfUse2 = Ne prikazuj uvjete korištenja i napomene o privatnosti prilikom pokretanja. Izjavljuješ da prihvaćaš i da imaš ovlaštenje prihvatiti uvjete korištenja u ime svih pojedinaca kojima omogućiš pristup ovom pregledniku.
 policy-SSLVersionMax = Postavi maksimalnu SSL verziju.
 policy-SSLVersionMin = Postavi minimalnu SSL verziju.
 policy-StartDownloadsInTempDirectory = Prisili pokretanje preuzimanja u lokalno, privremeno mjesto umjesto u standardnu mapu za preuzimanje.

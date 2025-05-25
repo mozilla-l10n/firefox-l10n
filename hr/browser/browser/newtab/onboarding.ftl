@@ -25,6 +25,8 @@ return-to-amo-subtitle = Super, imaš { -brand-short-name }
 return-to-amo-addon-title = Sada instalirajmo <img data-l10n-name="icon"/> <b>{ $addon-name }</b>.
 return-to-amo-add-extension-label = Dodaj proširenje
 return-to-amo-add-theme-label = Dodaj temu
+return-to-amo-theme-install-complete-label = Tema je instalirana
+return-to-amo-extension-install-complete-label = Proširenje je instalirano
 
 ##  Variables: $addon-name (String) - Name of the add-on to be installed
 
@@ -446,6 +448,11 @@ onboarding-checklist-sign-up = Registriraj se ili se prijavi na svoj račun
 
 tab-groups-onboarding-feature-callout-title = Isprobaj grupe kartica za manje nereda, bolje fokusiranje
 tab-groups-onboarding-feature-callout-subtitle = Uredi popis kartica povlačenjem jedne kartice na drugu za stvaranje tvoje prve grupe.
+tab-groups-onboarding-create-group-title-2 = Pronađi svoje grupe kartica u bilo kojem trenutku.
+tab-groups-onboarding-create-group-no-alltabs-button-title = Pronađi svoje grupe pretraživanjem u adresnoj traci.
+tab-groups-onboarding-saved-groups-title-2 = Kada zatvoriš grupu kartica, ovdje je možeš ponovo otvoriti u bilo kojem trenutku.
+tab-groups-onboarding-saved-groups-no-alltabs-button-title-2 = Pronađi svoje zatvorene grupe pretraživanjem u adresnoj traci.
+tab-groups-onboarding-session-restore-title = Ponovo otvori svoje grupe kartica u bilo kojem trenutku.
 tab-groups-onboarding-dismiss = U redu
 
 ## Multi Profiles feature onboarding messages
