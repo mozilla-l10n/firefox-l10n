@@ -89,6 +89,7 @@ contextual-manager-passwords-remove-all-confirm-button =
         [few] Ukloni sve
        *[other] Ukloni sve
     }
+contextual-manager-passwords-origin-label = Web stranica
 contextual-manager-passwords-update-password-success-button = Gotovo
 contextual-manager-passwords-delete-password-success-button = Gotovo
 # This message is displayed to make sure that a user wants to delete an existing login.

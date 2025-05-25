@@ -46,6 +46,9 @@ webext-perms-extra-warning-userScripts-short = Neprovjerena skripta mogu predsta
 ##
 ## This is used when the data collection permissions are required.
 
+webext-perms-description-data-short-websiteActivity = aktivnost web stranice
+webext-perms-description-data-short-websiteContent = sadržaj web stranice
 
 ## Long form to be used in `about:addons` when these data collection permissions are optional.
 
+webext-perms-description-data-long-websiteActivity = Dijeli aktivnost web stranice s programerom proširenja
