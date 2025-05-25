@@ -62,12 +62,20 @@ split-dismiss-button-show-fewer-option =
 # Opens about:preferences#general-cfrfeatures
 split-dismiss-button-manage-settings-option =
     .label = Upravljaj postavkama
+# Accessibility label for dropdown menu button
+split-dismiss-button-default-label =
+    .title = Više opcija
 
 ## Login Status Advisory Callout (points to the account icon)
 
+# The 'account icon' is the toolbar button with a 'profile' icon of a human
+# head/shoulders. It's for dealing with your Mozilla account. When hovering the
+# icon, the tooltip says 'Account'.
+login-status-advisory-title = Odjavljen/a si. Klikni ikonu računa za prijavu.
 
 ## Bookmarks toolbar callout strings
 
+bookmarks-toolbar-callout-1-title = Dodati ovu stranicu na alatnu traku zabilješki?
 
 ## Perplexity callout strings
 

@@ -190,7 +190,27 @@ contextual-manager-passwords-no-passwords-found-message = Nije pronađena nijedn
 
 # This string encourages the user to save their passwords in Firefox (the "safe spot").
 contextual-manager-passwords-no-passwords-header = Spremi svoje lozinke na sigurno mjesto.
+# This string informs that we (Firefox) store all passwords securely and will notify them of any breaches and alerts their
+# passwords may be involved in.
+contextual-manager-passwords-no-passwords-message = Sve lozinke su šifrirane i mi ćemo pratiti i prijaviti sve povrede koje se tebe tiču.
+# This string encourages the user to save their passwords to Firefox again.
+contextual-manager-passwords-no-passwords-get-started-message = Dodaj ih ovdje da bi započeo/la.
+# This string is displayed in a button. If the user clicks it, they will be taken to a form to create a new password.
+contextual-manager-passwords-add-manually = Dodaj ručno
 
 ## When the user cancels a login that's currently being edited, we display a message to confirm whether
 ## or not the user wants to discard their current edits to the login.
 
+contextual-manager-passwords-discard-changes-heading-and-message =
+    .heading = Zatvoriti bez spremanja?
+    .message = Tvoje se promjene neće spremiti.
+contextual-manager-passwords-discard-changes-close-button = Zatvori
+contextual-manager-passwords-discard-changes-go-back-button = Idi natrag
+#   $total (number) - Total number of passwords
+contextual-manager-passwords-remove-all-passwords-checkbox =
+    { $total ->
+        [1] Da, ukloni lozinku
+        [one] Da, ukloni lozinku
+        [few] Da, ukloni lozinke
+       *[other] Da, ukloni lozinke
+    }
