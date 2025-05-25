@@ -130,15 +130,15 @@ shopping-review-reliability-label =
 shopping-analysis-explainer-label =
     .label = Kako utvrđujemo kvalitet recenzija
 shopping-analysis-explainer-intro2 = Koristimo AI tehnologiju od { -fakespot-brand-full-name } kako bismo provjerili pouzdanost recenzija proizvoda. Ovo će vam pomoći samo da procijenite kvalitet recenzije, a ne kvalitet proizvoda.
-shopping-analysis-explainer-grades-intro = Svakoj recenziji proizvoda dodjeljujemo *slovnu ocjenu* od A do F.
-shopping-analysis-explainer-adjusted-rating-description = Prilagođena ocjena se zasniva samo na recenzijama za koje smatramo da su pouzdane.
+shopping-analysis-explainer-grades-intro = Svakoj recenziji proizvoda dodjeljujemo <strong>slovnu ocjenu</strong> od A do F.
+shopping-analysis-explainer-adjusted-rating-description = <strong>Prilagođena ocjena</strong> se zasniva samo na recenzijama za koje smatramo da su pouzdane.
 shopping-analysis-explainer-learn-more2 = Saznajte više o tome <a data-l10n-name="review-quality-url">kako { -fakespot-brand-name } određuje kvalitet recenzije</a>.
 # This string includes the short brand name of one of the three supported
 # websites, which will be inserted without being translated.
 #  $retailer (String) - capitalized name of the shopping website, for example, "Amazon".
 shopping-analysis-explainer-highlights-description = <strong>Istaknute stavke</strong> su iz recenzija { $retailer } u posljednjih 80 dana za koje smatramo da su pouzdane.
 # Fallback for analysis highlights explainer if the retailer is ever unknown
-shopping-analysis-explainer-highlights-description-unknown-retailer = **Istaknute recenzije** su iz recenzija u posljednjih 80 dana za koje smatramo da su pouzdane.
+shopping-analysis-explainer-highlights-description-unknown-retailer = <strong>Istaknute recenzije</strong> su iz recenzija u posljednjih 80 dana za koje smatramo da su pouzdane.
 shopping-analysis-explainer-review-grading-scale-reliable = Pouzdane recenzije. Vjerujemo da su recenzije vjerovatno od stvarnih kupaca koji su ostavili iskrene, nepristrasne recenzije.
 shopping-analysis-explainer-review-grading-scale-mixed = Vjerujemo da postoji mješavina pouzdanih i nepouzdanih recenzija.
 shopping-analysis-explainer-review-grading-scale-unreliable = Nepouzdane recenzije. Vjerujemo da su recenzije vjerovatno lažne ili od pristrasnih recenzenata.
