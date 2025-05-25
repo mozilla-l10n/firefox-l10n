@@ -150,10 +150,46 @@ contextual-manager-origin-login-line =
 contextual-manager-origin-login-line-with-alert =
     .aria-label = Posjeti { $url } (Upozorenje)
     .title = Posjeti { $url } (Upozorenje)
+# Variables
+#   $username (string) - The username associated with the login
+contextual-manager-username-login-line =
+    .aria-label = Kopiraj korisničko ime { $username }
+    .title = Kopiraj korisničko ime { $username }
+# "(Warning)" indicates that a login's username field has an alert icon.
+# Variables
+#   $username (string) - The username associated with the login
+contextual-manager-username-login-line-with-alert =
+    .aria-label = Kopiraj korisničko ime { $username } (Upozorenje)
+    .title = Kopiraj korisničko ime { $username } (Upozorenje)
+contextual-manager-password-login-line =
+    .aria-label = Kopiraj lozinku
+    .title = Kopiraj lozinku
+# "(Warning)" indicates that a login's password field has an alert icon.
+contextual-manager-password-login-line-with-alert =
+    .aria-label = Kopiraj lozinku (Upozorenje)
+    .title = Kopiraj lozinku (Upozorenje)
+contextual-manager-edit-login-button = Uredi
+    .tooltiptext = Uredi lozinku
+contextual-manager-view-alert-heading =
+    .heading = Prikaži upozorenje
+contextual-manager-view-alert-button =
+    .tooltiptext = Pregledaj upozorenje
+contextual-manager-show-password-button =
+    .aria-label = Prikaži lozinku
+    .title = Prikaži lozinku
+contextual-manager-hide-password-button =
+    .aria-label = Sakrij lozinku
+    .title = Sakrij lozinku
+# The message displayed when the search text does not match any of the user's saved logins.
+contextual-manager-passwords-no-passwords-found-header =
+    .heading = Nije pronađena nijedna lozinka
+contextual-manager-passwords-no-passwords-found-message = Nije pronađena nijedna lozinka. Traži jedan drugi pojam i pokušaj ponovo.
 
 ## When the user has no saved passwords, we display the following messages to inform the user they can save
 ## their passwords safely and securely in Firefox:
 
+# This string encourages the user to save their passwords in Firefox (the "safe spot").
+contextual-manager-passwords-no-passwords-header = Spremi svoje lozinke na sigurno mjesto.
 
 ## When the user cancels a login that's currently being edited, we display a message to confirm whether
 ## or not the user wants to discard their current edits to the login.
