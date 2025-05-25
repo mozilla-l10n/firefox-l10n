@@ -34,6 +34,8 @@ sidebar-history-sort-option-site =
     .label = Web stranica
 sidebar-history-sort-option-date-and-site =
     .label = Datum i web stranica
+sidebar-history-sort-option-last-visited =
+    .label = Zadnja posjećena
 
 ## Labels for sidebar search
 
@@ -59,6 +61,10 @@ sidebar-show-on-the-right =
     .label = Premjesti bočnu traku na desnu stranu
 sidebar-show-on-the-left =
     .label = Premjesti bočnu traku na lijevu stranu
+# Option to automatically expand the collapsed sidebar when the mouse pointer
+# hovers over it.
+expand-sidebar-on-hover =
+    .label = Proširi bočnu traku prilikom prelaska mišem
 
 ## Labels for sidebar context menu items
 
@@ -68,6 +74,8 @@ sidebar-context-menu-remove-extension =
     .label = Ukloni proširenje
 sidebar-context-menu-report-extension =
     .label = Prijavi proširenje
+sidebar-context-menu-open-in-tab =
+    .label = Otvori u novoj kartici
 sidebar-context-menu-open-in-window =
     .label = Otvori u novom prozoru
 sidebar-context-menu-open-in-private-window =
@@ -76,6 +84,12 @@ sidebar-context-menu-bookmark-tab =
     .label = Zabilježi karticu…
 sidebar-context-menu-copy-link =
     .label = Kopiraj poveznicu
+sidebar-context-menu-hide-sidebar =
+    .label = Sakrij bočnu traku
+sidebar-context-menu-enable-vertical-tabs =
+    .label = Uključi okomite kartice
+sidebar-context-menu-customize-sidebar =
+    .label = Prilagodi bočnu traku
 # Variables:
 #   $deviceName (String) - The name of the device the user is closing a tab for
 sidebar-context-menu-close-remote-tab =
