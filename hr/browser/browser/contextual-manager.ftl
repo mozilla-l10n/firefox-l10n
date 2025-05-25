@@ -121,7 +121,37 @@ contextual-manager-passwords-remove-all-confirm-button =
         [few] Ukloni sve
        *[other] Ukloni sve
     }
+# Message to confirm the removal of all saved passwords when user DOES NOT HAVE SYNC
+#   $total (number) - Total number of passwords
+contextual-manager-passwords-remove-all-message =
+    { $total ->
+        [1] Ovo će ukloniti u { -brand-short-name(case: "loc") } spremljenu lozinku i sva upozorenja o curenju podataka. Ovu radnju ne možeš poništiti.
+        [one] Ovo će ukloniti u { -brand-short-name(case: "loc") } spremljenu lozinku i sva upozorenja o curenju podataka. Ovu radnju ne možeš poništiti.
+        [few] Ovo će ukloniti u { -brand-short-name(case: "loc") } spremljene lozinke i sva upozorenja o curenju podataka. Ovu radnju ne možeš poništiti.
+       *[other] Ovo će ukloniti u { -brand-short-name(case: "loc") } spremljene lozinke i sva upozorenja o curenju podataka. Ovu radnju ne možeš poništiti.
+    }
+# Message for modal to confirm the removal of all saved passwords when user HAS SYNC
+#   $total (number) - Total number of passwords
+contextual-manager-passwords-remove-all-message-sync =
+    { $total ->
+        [1] Ovo će ukloniti u { -brand-short-name(case: "loc") } spremljenu lozinku na svim tvojim sinkroniziranim uređajima. Ovo će također ukloniti sva upozorenja o curenju podataka. Ovu radnju ne možeš poništiti.
+        [one] Ovo će ukloniti u { -brand-short-name(case: "loc") } spremljenu lozinku na svim tvojim sinkroniziranim uređajima. Ovo će također ukloniti sva upozorenja o curenju podataka. Ovu radnju ne možeš poništiti.
+        [few] Ovo će ukloniti sve u { -brand-short-name(case: "loc") } spremljene lozinke na svim tvojim sinkroniziranim uređajima. Ovo će također ukloniti sva upozorenja o curenju podataka. Ovu radnju ne možeš poništiti.
+       *[other] Ovo će ukloniti sve u { -brand-short-name(case: "loc") } spremljene lozinke na svim tvojim sinkroniziranim uređajima. Ovo će također ukloniti sva upozorenja o curenju podataka. Ovu radnju ne možeš poništiti.
+    }
 contextual-manager-passwords-origin-label = Web stranica
+# The attribute .data-after describes the text that should be displayed for the ::after pseudo-selector
+contextual-manager-passwords-username-label = Korisničko ime
+    .data-after = Kopirano
+# The attribute .data-after describes the text that should be displayed for the ::after pseudo-selector
+contextual-manager-passwords-password-label = Lozinka
+    .data-after = Kopirano
+contextual-manager-passwords-radiogroup-label =
+    .aria-label = Filtriraj lozinke
+# Variables
+#   $url (string) - The url associated with the new login
+contextual-manager-passwords-add-password-success-heading =
+    .heading = Lozinka je dodana za { $url }
 contextual-manager-passwords-update-password-success-button = Gotovo
 contextual-manager-passwords-delete-password-success-button = Gotovo
 # This message is displayed to make sure that a user wants to delete an existing login.
