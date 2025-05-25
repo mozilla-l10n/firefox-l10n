@@ -380,6 +380,7 @@ newtab-wallpaper-starry-canyon = Plava zvjezdana noć
 newtab-wallpaper-suspension-bridge = Fotografija sivog visećeg mosta tijekom dana
 newtab-wallpaper-sand-dunes = Bijele pješčane dine
 newtab-wallpaper-palm-trees = Silueta kokosovih palmi tijekom zlatnog sata
+newtab-wallpaper-blue-flowers = Fotografija cvjetajućih plavih latica izbliza
 # Variables
 #   $author_string (String) - The name of the creator of the photo.
 #   $webpage_string (String) - The name of the webpage where the photo is located.
