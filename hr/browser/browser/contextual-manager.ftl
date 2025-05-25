@@ -20,6 +20,7 @@ contextual-manager-passwords-command-export = Izvezi lozinke
 contextual-manager-passwords-command-remove-all = Ukloni sve lozinke
 contextual-manager-passwords-command-settings = Postavke
 contextual-manager-passwords-command-help = Pomoć
+contextual-manager-passwords-os-auth-dialog-caption = { -brand-full-name }
 # This message can be seen when attempting to export a password in about:logins on Windows.
 contextual-manager-passwords-export-os-auth-dialog-message-win = Za izvoz tvojih lozinki, upiši svoje Windows podatke za prijavu. To pomaže zaštiti sigurnost tvojih računa.
 # This message can be seen when attempting to export a password in about:logins
@@ -42,6 +43,7 @@ contextual-manager-passwords-copy-password-os-auth-dialog-message-win = Za kopir
 # The MacOS string is preceded by the operating system with "Firefox is trying to ".
 # Only provide the reason that account verification is needed. Do not put a complete sentence here.
 contextual-manager-passwords-copy-password-os-auth-dialog-message-macosx = kopiraj spremljenu lozinku
+contextual-manager-passwords-import-file-picker-title = Uvezi lozinke
 contextual-manager-passwords-import-file-picker-import-button = Uvezi
 # A description for the .csv file format that may be shown as the file type
 # filter by the operating system.
@@ -57,15 +59,33 @@ contextual-manager-passwords-import-file-picker-tsv-filter-title =
         [macos] TSV dokument
        *[other] TSV datoteka
     }
+contextual-manager-passwords-import-success-heading =
+    .heading = Lozinke su uvezene
+# Variables
+#   $added (number) - Number of added passwords
+#   $modified (number) - Number of modified passwords
+contextual-manager-passwords-import-success-message = Nove: { $added }, Aktualizirane: { $modified }
+contextual-manager-passwords-import-detailed-report = Pogledaj detaljan izvještaj
 contextual-manager-passwords-import-success-button = Gotovo
 contextual-manager-passwords-import-error-heading-and-message =
     .heading = Nije moguće uvesti lozinke
     .message = Provjeri sadrži li tvoja datoteka stupac za web stranice, korisnička imena i lozinke.
+contextual-manager-passwords-import-error-button-try-again = Pokušaj ponovo
 contextual-manager-passwords-import-error-button-cancel = Odustani
+contextual-manager-passwords-import-learn-more = Saznaj više o uvozu lozinki
+contextual-manager-passwords-export-success-heading =
+    .heading = Lozinke su izvezene
 contextual-manager-passwords-export-success-button = Gotovo
+# Export passwords to file dialog
+contextual-manager-export-passwords-dialog-title = Izvesti lozinke u datoteku?
+# This string recommends to the user that they delete the exported password file that is saved on their local machine.
+contextual-manager-export-passwords-dialog-message = Nakon izvoza preporučujemo da je izbrišeš kako drugi koji možda koriste ovaj uređaj ne bi mogli vidjeti tvoje lozinke.
 contextual-manager-export-passwords-dialog-confirm-button = Nastavi s izvozom
 # Title of the file picker dialog
 contextual-manager-passwords-export-file-picker-title = Izvezi lozinke iz { -brand-short-name(case: "gen") }
+# The default file name shown in the file picker when exporting saved logins.
+# The resultant filename will end in .csv (added in code).
+contextual-manager-passwords-export-file-picker-default-filename = lozinke
 contextual-manager-passwords-export-file-picker-export-button = Izvezi
 # A description for the .csv file format that may be shown as the file type
 # filter by the operating system.
@@ -73,6 +93,15 @@ contextual-manager-passwords-export-file-picker-csv-filter-title =
     { PLATFORM() ->
         [macos] CSV dokument
        *[other] CSV datoteka
+    }
+# Confirm the removal of all saved passwords
+#   $total (number) - Total number of passwords
+contextual-manager-passwords-remove-all-title =
+    { $total ->
+        [1] Ukloniti lozinku?
+        [one] Ukloniti lozinku?
+        [few] Ukloniti sve { $total } lozinke?
+       *[other] Ukloniti svih { $total } lozinki?
     }
 # Checkbox label to confirm the removal of saved passwords
 #   $total (number) - Total number of passwords
