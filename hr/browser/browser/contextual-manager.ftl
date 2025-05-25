@@ -6,12 +6,19 @@ contextual-manager-filter-input =
     .placeholder = Pretraži lozinke
     .key = F
     .aria-label = Pretraži lozinke
+contextual-manager-menu-more-options-button =
+    .title = Više opcija
+contextual-manager-more-options-popup =
+    .aria-label = Više opcija
 
 ## Passwords
 
 contextual-manager-passwords-command-create = Dodaj lozinku
 contextual-manager-passwords-command-import-from-browser = Uvezi iz drugog preglednika…
 contextual-manager-passwords-command-import = Uvezi iz datoteke…
+contextual-manager-passwords-command-export = Izvezi lozinke
+contextual-manager-passwords-command-remove-all = Ukloni sve lozinke
+contextual-manager-passwords-command-settings = Postavke
 contextual-manager-passwords-command-help = Pomoć
 # This message can be seen when attempting to export a password in about:logins on Windows.
 contextual-manager-passwords-export-os-auth-dialog-message-win = Za izvoz tvojih lozinki, upiši svoje Windows podatke za prijavu. To pomaže zaštiti sigurnost tvojih računa.
@@ -90,6 +97,11 @@ contextual-manager-passwords-remove-login-card-title = Ukloniti lozinku?
 contextual-manager-passwords-remove-login-card-remove-button = Ukloni
 # This message gives the user the option to cancel their attempt to remove a login.
 contextual-manager-passwords-remove-login-card-cancel-button = Odustani
+contextual-manager-passwords-alert-list =
+    .aria-label = Popis upozorenja
+contextual-manager-passwords-breached-origin-heading-and-message =
+    .heading = Preporučuje se mijenjenje lozinke
+    .message = Prijavljeno je da su lozinke s ove web stranice ukradene ili procurile. Promijeni lozinku da bi zaštitio/la svoj račun.
 
 ## Login Form
 
