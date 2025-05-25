@@ -61,6 +61,10 @@ toolbar-context-menu-auto-hide-downloads-button-2 =
 toolbar-context-menu-always-open-downloads-panel =
     .label = Prikaži ploču kada preuzimanje počne
     .accesskey = P
+# Label of checkbox menu item to toggle visibility of Extensions Button.
+toolbar-context-menu-always-show-extensions-button =
+    .label = Uvijek prikaži u alatnoj traci
+    .accesskey = U
 toolbar-context-menu-remove-from-toolbar =
     .label = Ukloni iz alatne trake
     .accesskey = r

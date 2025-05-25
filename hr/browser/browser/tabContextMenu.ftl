@@ -137,3 +137,12 @@ tab-context-send-tabs-to-device =
            *[other] Pošalji { $tabCount } kartica na uređaj
         }
     .accesskey = o
+tab-context-unload-n-tabs =
+    .label =
+        { $tabCount ->
+            [1] Ukloni { $tabCount } karticu
+            [one] Ukloni { $tabCount } karticu
+            [few] Ukloni { $tabCount } kartice
+           *[other] Ukloni { $tabCount } kartica
+        }
+    .accesskey = U
