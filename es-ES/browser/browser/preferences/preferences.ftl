@@ -515,6 +515,8 @@ performance-default-content-process-count =
 ## General Section - Browsing
 
 browsing-title = Navegación
+browsing-group-label =
+    .aria-label = Navegación
 browsing-use-autoscroll =
     .label = Usar desplazamiento automático
     .accesskey = a
@@ -649,6 +651,8 @@ home-prefs-weather-header =
     .label = El tiempo
 home-prefs-weather-description = El pronóstico para hoy de un vistazo
 home-prefs-weather-learn-more-link = Saber más
+home-prefs-mission-message = Nuestros patrocinadores apoyan nuestra misión de construir una web mejor
+home-prefs-mission-message-learn-more-link = Descubra cómo
 # Variables:
 #   $num (number) - Number of rows displayed
 home-prefs-sections-rows-option =
@@ -725,6 +729,9 @@ search-keyword-warning-title = Palabra clave duplicada
 #   $name (string) - Name of a search engine.
 search-keyword-warning-engine = Ha seleccionado una palabra clave que está siendo usada por "{ $name }". Por favor, seleccione otra.
 search-keyword-warning-bookmark = Ha seleccionado una palabra clave que está siendo usada por otro marcador. Por favor, seleccione otra.
+remove-engine-confirmation = ¿Está seguro de querer eliminar este buscador?
+remove-engine-remove = Eliminar
+remove-addon-engine-alert = Para eliminar este buscador, elimine el complemento asociado.
 
 ## Containers Section
 

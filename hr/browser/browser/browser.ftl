@@ -375,6 +375,7 @@ quickactions-help = { -brand-product-name } pomoć
 quickactions-cmd-help = pomoć, podrška
 # Opens the devtools web inspector
 quickactions-inspector2 = Otvori alate za programere
+quickactions-cmd-inspector2 = inspektor, programerski alati
 quickactions-cmd-inspector = inspektor, programerski alati
 # Opens about:logins
 quickactions-logins2 = Upravljaj lozinkama
@@ -387,6 +388,7 @@ quickactions-print2 = Ispiši stranicu
 quickactions-cmd-print = ispis
 # Opens the print dialog at the save to PDF option
 quickactions-savepdf = Spremi stranicu kao PDF
+quickactions-cmd-savepdf2 = pdf, spremi stranicu
 quickactions-cmd-savepdf = pdf
 # Opens a new private browsing window
 quickactions-private2 = Otvori privatni prozor
@@ -399,6 +401,7 @@ quickactions-restart = Ponovo pokreni { -brand-short-name }
 quickactions-cmd-restart = ponovo pokreni
 # Opens the screenshot tool
 quickactions-screenshot3 = Snimi ekran
+quickactions-cmd-screenshot2 = snimka ekrana, snimi ekran
 quickactions-cmd-screenshot = snimka ekrana
 # Opens about:preferences
 quickactions-settings2 = Upravljaj postavkama
