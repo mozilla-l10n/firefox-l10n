@@ -152,14 +152,47 @@ contextual-manager-passwords-radiogroup-label =
 #   $url (string) - The url associated with the new login
 contextual-manager-passwords-add-password-success-heading =
     .heading = Lozinka je dodana za { $url }
+contextual-manager-passwords-add-password-success-button = Prikaži
+# Variables
+#   $url (string) - The url associated with the existing login
+contextual-manager-passwords-password-already-exists-error-heading =
+    .heading = Lozinka i korisničko ime za { $url } već postoje
+contextual-manager-passwords-password-already-exists-error-button = Idi na lozinku
+contextual-manager-passwords-update-password-success-heading =
+    .heading = Lozinka je spremljena
 contextual-manager-passwords-update-password-success-button = Gotovo
+# Message to confirm successful removal of a password/passwords.
+#   $total (number) - Total number of passwords
+contextual-manager-passwords-delete-password-success-heading =
+    .heading =
+        { $total ->
+            [1] Lozinka je uklonjena
+            [one] Lozinka je uklonjena
+            [few] Lozinke su uklonjene
+           *[other] Lozinke su uklonjene
+        }
 contextual-manager-passwords-delete-password-success-button = Gotovo
+#
+# Radiobutton label to display total number of passwords
+#   $total (number) - Total number of passwords
+contextual-manager-passwords-radiobutton-all = Sve ({ $total })
+# Radiobutton label to display total number of alerts
+#   $total (number) - Total number of alerts
+contextual-manager-passwords-radiobutton-alerts = Upozorenja ({ $total })
 # This message is displayed to make sure that a user wants to delete an existing login.
 contextual-manager-passwords-remove-login-card-title = Ukloniti lozinku?
+# This message warns the user that deleting a login is permanent.
+contextual-manager-passwords-remove-login-card-message = Ovo ne može poništiti.
+# This message gives the user an option to go back to the edit login form.
+contextual-manager-passwords-remove-login-card-back-message = Natrag
 # This message confirms that the user wants to remove an existing login.
 contextual-manager-passwords-remove-login-card-remove-button = Ukloni
 # This message gives the user the option to cancel their attempt to remove a login.
 contextual-manager-passwords-remove-login-card-cancel-button = Odustani
+contextual-manager-passwords-alert-card =
+    .aria-label = Upozorenja lozinki
+contextual-manager-passwords-alert-back-button =
+    .label = Natrag
 contextual-manager-passwords-alert-list =
     .aria-label = Popis upozorenja
 contextual-manager-passwords-breached-origin-heading-and-message =

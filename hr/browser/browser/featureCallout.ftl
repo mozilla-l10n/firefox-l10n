@@ -83,10 +83,16 @@ bookmarks-toolbar-callout-1-secondary-button-label = Ne hvala
 bookmarks-toolbar-callout-2a-title = Jednostavno dodaj više zabilješki
 bookmarks-toolbar-callout-2a-subtitle = Povuci i ispusti kartice ovdje kako bi ti tvoje omiljene web stranice bile nadohvat ruke.
 bookmarks-toolbar-callout-2a-primary-button-label = Razumijem
+# Reverts the bookmarks toolbar to the default setting
+bookmarks-toolbar-callout-2a-secondary-button-label = Sakrij alatnu traku
 bookmarks-toolbar-callout-2b-subtitle = Možeš dodati i druge web stranice koje češće posjećuješ. Jednostavno povuci i ispusti kartice ovdje kako bi ti omiljene web stranice bile nadohvat ruke.
+# Reverts the bookmarks toolbar to the default setting
+bookmarks-toolbar-callout-2b-secondary-button-label = Ne hvala
 
 ## Perplexity callout strings
 
+perplexity-callout-theme-1-title = Trebaš točan odgovor, odmah?
+perplexity-callout-theme-2-title = Isprobaj Perplexity: novi način pretraživanja
 
 ## Sidebar Strings
 
@@ -99,12 +105,16 @@ sidebar-button-callout-vertical-tabs = Za prikaz kartica odaberi gumb bočne tra
 vertical-tabs-callout-1-title = Gubiš pregled zbog previše kartica?
 vertical-tabs-callout-1-subtitle = Isprobaj naš novi okomiti raspored kartica za brzi pregled popisa kartica. Rani testeri javljaju da im ovaj raspored pomaže da se osjećaju organiziranije. Prebaci na okomiti raspored bilo kada.
 vertical-tabs-callout-1-cta-button = Isprobaj okomite kartice
+vertical-tabs-callout-2-cta-button = Isprobaj sada
 
 ## Sidebar Vertical Tabs Pinning Strings
 
+sidebar-pins-callout-cta-button = Prikvači karticu
 
 ## Sidebar Onboarding Strings
 
+sidebar-customization-callout-1-title = Bočna traka: tvoje mjesto za alate i kartice
+sidebar-customization-callout-callout-button = Prilagodi bočnu traku
 
 ## Sidebar Callout Survey Strings
 

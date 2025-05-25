@@ -734,6 +734,8 @@ search-keyword-warning-title = Postojeća ključna riječ
 search-keyword-warning-engine = Odabrana je ključna riječ koju trenutačno koristi "{ $name }". Odaberi jednu drugu.
 search-keyword-warning-bookmark = Odabrana je ključna riječ koju koristi zabilješka. Odaberi jednu drugu.
 remove-engine-confirmation = Stvarno želiš ukloniti ovu tražilicu?
+remove-engine-remove = Ukloni
+remove-addon-engine-alert = Za uklanjanje ove tražilice ukloni povezani dodatak.
 
 ## Containers Section
 
@@ -1151,6 +1153,8 @@ cookie-banner-blocker-checkbox-label =
 
 addressbar-header = Adresna traka
 addressbar-suggest = Pri korištenju adresne trake, predloži
+# When Firefox Suggest is enabled, this replaces `addressbar-header`.
+addressbar-header-firefox-suggest = Adresna traka – { -firefox-suggest-brand-name }
 addressbar-locbar-history-option =
     .label = Povijest pregledavanja
     .accesskey = P
