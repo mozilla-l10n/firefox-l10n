@@ -76,6 +76,12 @@ login-status-advisory-title = Odjavljen/a si. Klikni ikonu računa za prijavu.
 ## Bookmarks toolbar callout strings
 
 bookmarks-toolbar-callout-1-title = Dodati ovu stranicu na alatnu traku zabilješki?
+bookmarks-toolbar-callout-1-subtitle = Tvoja će se zabilješka spremiti ispod adresne trake za brzi pristup.
+bookmarks-toolbar-callout-1-primary-button-label = Dodaj zabilješku
+bookmarks-toolbar-callout-1-secondary-button-label = Ne hvala
+# Visible if user adds a bookmark in callout 1, bookmarks toolbar is set to always show when this message renders
+bookmarks-toolbar-callout-2a-title = Jednostavno dodaj više zabilješki
+bookmarks-toolbar-callout-2a-primary-button-label = Razumijem
 
 ## Perplexity callout strings
 
@@ -88,6 +94,8 @@ sidebar-button-callout-vertical-tabs = Za prikaz kartica odaberi gumb bočne tra
 
 ## Sidebar Vertical Tabs Strings
 
+vertical-tabs-callout-1-title = Gubiš pregled zbog previše kartica?
+vertical-tabs-callout-1-cta-button = Isprobaj okomite kartice
 
 ## Sidebar Vertical Tabs Pinning Strings
 
