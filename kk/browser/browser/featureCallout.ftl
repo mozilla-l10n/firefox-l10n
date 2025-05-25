@@ -78,6 +78,8 @@ login-status-advisory-title = Сіз жүйеден шықтыңыз. Жүйег
 bookmarks-toolbar-callout-1-title = Бұл сайтты сіздің бетбелгілер панеліне қосу керек пе?
 bookmarks-toolbar-callout-1-primary-button-label = Бетбелгіні қосу
 bookmarks-toolbar-callout-1-secondary-button-label = Жоқ, рахмет
+# Visible if user adds a bookmark in callout 1, bookmarks toolbar is set to always show when this message renders
+bookmarks-toolbar-callout-2a-title = Қосымша бетбелгілерді оңай қосыңыз
 bookmarks-toolbar-callout-2a-primary-button-label = Түсіндім
 # Reverts the bookmarks toolbar to the default setting
 bookmarks-toolbar-callout-2a-secondary-button-label = Құралдар панелін жасыру
@@ -100,6 +102,7 @@ sidebar-button-callout-vertical-tabs = Бертерді көрсету үшін 
 
 ## Sidebar Vertical Tabs Strings
 
+vertical-tabs-callout-1-title = Көптеген беттерден шаршадыңыз ба?
 vertical-tabs-callout-1-cta-button = Вертикалды беттерді қолданып көру
 vertical-tabs-callout-2-cta-button = Қазір қолданып көру
 vertical-tabs-callout-2-title = Көптеген беттерді ашық ұстау керек пе? Тік беттерді қолданып көріңіз.

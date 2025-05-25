@@ -32,6 +32,10 @@ sidebar-history-sort-option-date =
     .label = Күні
 sidebar-history-sort-option-site =
     .label = Сайт
+sidebar-history-sort-option-date-and-site =
+    .label = Күні және сайт
+sidebar-history-sort-option-last-visited =
+    .label = Соңғы қаралған
 
 ## Labels for sidebar search
 
@@ -66,6 +70,10 @@ sidebar-context-menu-remove-extension =
     .label = Кеңейтуді өшіру
 sidebar-context-menu-report-extension =
     .label = Кеңейтуге шағым жіберу
+sidebar-context-menu-open-in-tab =
+    .label = Жаңа бетте ашу
+sidebar-context-menu-open-in-container-tab =
+    .label = Жаңа контейнерлік бетте ашу
 sidebar-context-menu-open-in-window =
     .label = Жаңа терезеде ашу
 sidebar-context-menu-open-in-private-window =
