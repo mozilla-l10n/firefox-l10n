@@ -398,8 +398,16 @@ feature-highlight-wallpaper =
 
 ## Celestial
 
+# “Celestial” referring to astronomy; positioned in or relating to the sky,
+# or outer space as observed in astronomy.
+# Not to be confused with religious definition of the word.
+newtab-wallpaper-category-title-celestial = Nebesko
 newtab-wallpaper-celestial-lunar-eclipse = Pomrčina mjeseca
+newtab-wallpaper-celestial-earth-night = Noćna fotografija iz niske orbite Zemlje
 newtab-wallpaper-celestial-starry-sky = Zvjezdano nebo
+newtab-wallpaper-celestial-eclipse-time-lapse = Ubrzana snimka pomrčine Mjeseca
+newtab-wallpaper-celestial-black-hole = Ilustracija galaksije sa crnom rupom
+newtab-wallpaper-celestial-river = Satelitska snimka rijeke
 
 ## New Tab Weather
 
@@ -492,6 +500,8 @@ newtab-section-unblock-button = Odblokiraj
 ## Confirmation modal for blocking a section
 
 newtab-section-cancel-button = Ne sada
+newtab-section-confirm-block-topic-p1 = Stvarno želiš blokirati ovu temu?
+newtab-section-confirm-block-topic-p2 = Blokirane teme se više neće pojavljivati u tvom feedu.
 # Variables:
 #   $topic (string) - Name of topic that user is blocking
 newtab-section-block-topic-button = Blokiraj temu „{ $topic }”
@@ -505,6 +515,7 @@ newtab-section-mangage-topics-followed-topics = Praćene
 newtab-section-mangage-topics-followed-topics-empty-state = Još nisi pratio/la nijednu temu.
 newtab-section-mangage-topics-blocked-topics = Blokirane
 newtab-section-mangage-topics-blocked-topics-empty-state = Još nisi blokirao/la nijednu temu.
+newtab-custom-wallpaper-title = Prilagođene slike pozadine su ovdje
 
 ## Strings for download mobile highlight
 
