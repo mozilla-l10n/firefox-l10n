@@ -21,6 +21,9 @@ cert-error-trust-symantec = Certifikati koje izdaju GeoTrust, RapidSSL, Symantec
 # Variables:
 #   $hostname (string) - Hostname of the website with cert error.
 cert-error-trust-certificate-transparency = { -brand-short-name } ne vjeruje računalu { $hostname } jer nije mogao dokazati da ispunjava zahtjeve transparentnosti javnih certifikata.
+# Variables:
+#   $hostname (string) - Hostname of the website with cert error.
+cert-error-revoked = Web stranice dokazuju svoj identitet putem certifikata. { -brand-short-name } ne vjeruje računalu { $hostname } jer koristi certifikat koji je opozvan.
 cert-error-untrusted-default = Certifikat ne dolazi iz pouzdanog izvora.
 # Variables:
 #   $hostname (string) - Hostname of the website with cert error.
@@ -118,6 +121,7 @@ contentEncodingError-title = Greška kodiranja sadržaja
 unsafeContentType-title = Nesiguran tip datoteke
 netReset-title = Veza je prekinuta
 netTimeout-title = Vezi je isteklo vrijeme
+httpErrorPage-title = Čini se da postoji problem s ovom web stranicom
 serverError-title = Čini se da postoji problem s ovom web stranicom
 unknownProtocolFound-title = Nepoznata vrsta adrese
 proxyConnectFailure-title = Proxy server odbija veze

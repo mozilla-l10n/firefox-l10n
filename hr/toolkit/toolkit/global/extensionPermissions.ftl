@@ -52,3 +52,4 @@ webext-perms-description-data-short-websiteContent = sadržaj web stranice
 ## Long form to be used in `about:addons` when these data collection permissions are optional.
 
 webext-perms-description-data-long-websiteActivity = Dijeli aktivnost web stranice s programerom proširenja
+webext-perms-description-data-long-websiteContent = Dijeli sadržaj web stranice s programerom proširenja

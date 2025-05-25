@@ -13,6 +13,7 @@ neterror-captive-portal-page-title = Prijava na mrežu
 neterror-dns-not-found-title = Server nije pronađen
 neterror-malformed-uri-page-title = Neispravan URL
 general-body-title = Oprez. Nešto nije u redu.
+problem-with-this-site-title = Čini se da postoji problem s ovom web stranicom
 
 ## Error page actions
 
@@ -44,6 +45,7 @@ neterror-load-error-connection = Ako ne možeš učitati niti jednu stranicu, pr
 neterror-load-error-firewall = Ako je tvoje računalo ili mreža zaštićena vatrozidom ili proxyem, provjeri ima li { -brand-short-name } dozvolu za pristup internetu.
 # This warning is only shown on macOS Sequoia and later (see bug 1929377)
 neterror-load-osx-permission = Ako pokušavaš učitati stranicu lokalne mreže, provjeri je li { -brand-short-name } dobio dozvole lokalne mreže u postavkama privatnosti i sigurnosti macOS-a.
+neterror-http-error-page = Provjeri jesi li ispravno upisao/la adresu web stranice.
 neterror-captive-portal = Za upotrebu interneta, moraš se najprije prijaviti na ovu mreži.
 # Variables:
 # $hostAndPath (String) - a suggested site (e.g. "www.example.com") that the user may have meant instead.

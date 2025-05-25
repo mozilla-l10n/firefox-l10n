@@ -83,6 +83,7 @@ bookmarks-toolbar-callout-1-secondary-button-label = Ne hvala
 bookmarks-toolbar-callout-2a-title = Jednostavno dodaj više zabilješki
 bookmarks-toolbar-callout-2a-subtitle = Povuci i ispusti kartice ovdje kako bi ti tvoje omiljene web stranice bile nadohvat ruke.
 bookmarks-toolbar-callout-2a-primary-button-label = Razumijem
+bookmarks-toolbar-callout-2b-subtitle = Možeš dodati i druge web stranice koje češće posjećuješ. Jednostavno povuci i ispusti kartice ovdje kako bi ti omiljene web stranice bile nadohvat ruke.
 
 ## Perplexity callout strings
 

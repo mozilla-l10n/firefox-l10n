@@ -58,6 +58,9 @@ contextual-manager-passwords-import-file-picker-tsv-filter-title =
        *[other] TSV datoteka
     }
 contextual-manager-passwords-import-success-button = Gotovo
+contextual-manager-passwords-import-error-heading-and-message =
+    .heading = Nije moguće uvesti lozinke
+    .message = Provjeri sadrži li tvoja datoteka stupac za web stranice, korisnička imena i lozinke.
 contextual-manager-passwords-import-error-button-cancel = Odustani
 contextual-manager-passwords-export-success-button = Gotovo
 contextual-manager-export-passwords-dialog-confirm-button = Nastavi s izvozom
