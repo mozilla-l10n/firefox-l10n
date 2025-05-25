@@ -266,11 +266,13 @@ shopping-onboarding-welcome-steps-indicator-label =
 
 ## Callout for where to find Review Checker when the sidebar closes
 
+shopping-integrated-callout-no-logo-sidebar-closed-subtitle = Odaberi gumb bočne trake i pogledaj je li možeš vjerovati recenzijama proizvoda.
 
 ## Strings for a notification card about Review Checker's new position in the sidebar.
 ## The card will only appear for users that have the default sidebar position, which is on the left side for non RTL locales.
 ## Review Checker in the sidebar is only available to US users at this time, so we can assume that the default position is on the left side.
 
+shopping-integrated-new-position-notification-title = Ista provjera recenzija, novo mjesto
 
 ## Combined setting for auto-open and auto-close.
 

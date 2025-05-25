@@ -266,6 +266,10 @@ preferences-web-appearance-choice-input-dark =
     .aria-description = { preferences-web-appearance-choice-tooltip-dark.title }
 # This can appear when using windows HCM or "Override colors: always" without
 # system colors.
+preferences-web-appearance-override-warning3 =
+    .message = Tvoje postavke kontrole kontrasta poništavaju izgled web stranice.
+# This can appear when using windows HCM or "Override colors: always" without
+# system colors.
 preferences-web-appearance-override-warning = Tvoj izbor boja nadvladava izgled web stranice. <a data-l10n-name="colors-link">Upravljaj bojama</a>
 # This can appear when using windows HCM or "Override colors: always" without
 # system colors.
@@ -274,6 +278,17 @@ preferences-web-appearance-override-warning2 =
 # This message contains one link. It can be moved within the sentence as needed
 # to adapt to your language, but should not be changed.
 preferences-web-appearance-footer = Upravljaj temama za { -brand-short-name } u sekciji <a data-l10n-name="themes-link">Dodaci i teme</a>
+preferences-contrast-control-header = Kontrola kontrasta
+preferences-contrast-control-description = Web stranice imaju razne prednje i pozadinske boje. Konfiguriraj { -brand-short-name } tako da koristiš iste boje na svim web stranicama radi bolje čitljivosti.
+preferences-contrast-control-use-platform-settings =
+    .label = Automatski (koristi postavke sustava)
+    .accesskey = A
+preferences-contrast-control-off =
+    .label = Isključeno
+    .accesskey = I
+preferences-contrast-control-custom =
+    .label = Prilagođeno
+    .accesskey = P
 preferences-colors-header = Boje
 preferences-colors-description = Prepiši standardne { -brand-short-name } boje za tekst, pozadinu web stranice i poveznice.
 preferences-colors-manage-button =
@@ -503,6 +518,8 @@ performance-default-content-process-count =
 ## General Section - Browsing
 
 browsing-title = Pregledavanje
+browsing-group-label =
+    .aria-label = Pregledavanje
 browsing-use-autoscroll =
     .label = Koristi automatsko klizanje
     .accesskey = a
@@ -637,6 +654,8 @@ home-prefs-weather-header =
     .label = Vremenska prognoza
 home-prefs-weather-description = Današnja prognoza ukratko
 home-prefs-weather-learn-more-link = Saznajte više
+home-prefs-mission-message = Naši sponzori podržavaju našu misiju u izgradnji boljeg weba
+home-prefs-mission-message-learn-more-link = Saznaj kako
 # Variables:
 #   $num (number) - Number of rows displayed
 home-prefs-sections-rows-option =
@@ -714,6 +733,7 @@ search-keyword-warning-title = Postojeća ključna riječ
 #   $name (string) - Name of a search engine.
 search-keyword-warning-engine = Odabrana je ključna riječ koju trenutačno koristi "{ $name }". Odaberi jednu drugu.
 search-keyword-warning-bookmark = Odabrana je ključna riječ koju koristi zabilješka. Odaberi jednu drugu.
+remove-engine-confirmation = Stvarno želiš ukloniti ovu tražilicu?
 
 ## Containers Section
 
