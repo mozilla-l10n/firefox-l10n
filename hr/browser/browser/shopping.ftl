@@ -273,6 +273,23 @@ shopping-integrated-callout-no-logo-sidebar-closed-subtitle = Odaberi gumb bočn
 ## Review Checker in the sidebar is only available to US users at this time, so we can assume that the default position is on the left side.
 
 shopping-integrated-new-position-notification-title = Ista provjera recenzija, novo mjesto
+shopping-integrated-new-position-notification-move-right-subtitle = Zadrži alat za provjeru recenzija i ostatak { -brand-product-name } bočne trake ovdje – ili ih premjesti na desnu stranu. Prebaci sada ili bilo kada u <a data-l10n-name="sidebar_settings">postavkama bočne trake</a>.
+shopping-integrated-new-position-notification-move-left-subtitle = Zadrži alat za provjeru recenzija i ostatak { -brand-product-name } bočne trake ovdje – ili ih premjesti na lijevu stranu. Prebaci sada ili bilo kada u <a data-l10n-name="sidebar_settings">postavkama bočne trake</a>.
+shopping-integrated-new-position-notification-move-right-button = Premjesti desno
+shopping-integrated-new-position-notification-move-left-button = Premjesti lijevo
+shopping-integrated-new-position-notification-dismiss-button = Razumijem
 
 ## Combined setting for auto-open and auto-close.
 
+shopping-settings-auto-open-and-close-toggle =
+    .label = Automatski otvori i zatvori provjeru recenzija
+# Description text for regions where we support three sites. Sites are limited to Amazon, Walmart and Best Buy.
+# Variables:
+#   $firstSite (String) - The first shopping page name
+#   $secondSite (String) - The second shopping page name
+#   $thirdSite (String) - The third shopping page name
+shopping-settings-auto-open-and-close-description-three-sites = Otvara se kada gledaš proizvode na { $firstSite }, { $secondSite } i { $thirdSite } i zatvara se kada te stranice napustiš
+# Description text for regions where we support only one site (e.g. currently used in FR/DE with Amazon).
+# Variables:
+#   $currentSite (String) - The current shopping page name
+shopping-settings-auto-open-and-close-description-single-site = Otvara se kada gledaš proizvode na { $currentSite } i zatvara se kada tu stranicu napustiš

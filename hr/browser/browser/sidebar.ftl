@@ -27,6 +27,13 @@ sidebar-history-delete =
     .title = Izbriši iz povijesti
 sidebar-history-clear =
     .label = Izbriši povijest
+sidebar-history-sort-by-heading = Razvrstaj po:
+sidebar-history-sort-option-date =
+    .label = Datum
+sidebar-history-sort-option-site =
+    .label = Web stranica
+sidebar-history-sort-option-date-and-site =
+    .label = Datum i web stranica
 
 ## Labels for sidebar search
 
