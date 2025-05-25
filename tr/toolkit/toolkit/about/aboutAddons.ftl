@@ -563,3 +563,8 @@ mlmodel-extension-label = { $extensionName } uzantısı tarafından kullanılıy
 
 ## Mapping Engine IDs from AI models to how that feature represented by the engine Id is described in the used by section in local model management
 
+mlmodel-about-inference = { -brand-short-name }, about:inference sayfasında bunu kullanır
+mlmodel-link-preview = { -brand-short-name }, bağlantıları ön izlediğinizde önemli noktaları oluşturmak için bunu kullanır
+mlmodel-pdfjs = { -brand-short-name }, PDF’lere eklediğiniz resimlere alternatif metin oluşturmak için bunu kullanır
+mlmodel-smart-tab-topic-engine = { -brand-short-name }, sekme gruplarınıza isim önermek için bunu kullanır
+mlmodel-smart-tab-embedding-engine = { -brand-short-name }, sekme gruplarınıza sekme önermek için bunu kullanır
