@@ -1240,6 +1240,7 @@ content-blocking-private-windows = Sadržaj za praćenje u privatnim prozorima
 content-blocking-cross-site-cookies-in-all-windows2 = Međustranični kolačići u svim prozorima
 content-blocking-cross-site-tracking-cookies = Međustranični kolačići za praćenje
 content-blocking-all-cross-site-cookies-private-windows = Međustranični kolačići u privatnim prozorima
+content-blocking-cross-site-tracking-cookies-plus-isolate = Međustranični kolačići za praćenje i izoliranje preostalih kolačića
 content-blocking-social-media-trackers = Programi za praćenje s društvenih mreža
 content-blocking-all-cookies = Sve kolačiće
 content-blocking-unvisited-cookies = Kolačići neposjećenih stranica

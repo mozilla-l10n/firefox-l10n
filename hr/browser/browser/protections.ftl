@@ -43,8 +43,8 @@ graph-today = Danas
 graph-legend-description = Dijagram sadrži ukupni broj svake vrste programa za praćenje koji su ovaj tjedan bili blokirani.
 social-tab-title = Programi za praćenje s društvenih mreža
 social-tab-contant = Društvene mreže postavljaju programe za praćenje na druge web stranice kako bi pratili što radiš, vidiš i gledaš na mreži. To omogućava društvenim medijima saznati o tebi više od onoga što dijeliš na svojim profilima na društvenim mrežama. <a data-l10n-name="learn-more-link">Saznaj više</a>
-cookie-tab-title = Kolačići za praćenje između web stranica
-cookie-tab-content = Ovi kolačići te prate od web stranice do web stranice, kako bi prikupili podatke o tome što radiš na mreži. Postavljaju ih treće strane poput oglašivača i analitičkih tvrtki. Blokiranje kolačića za praćenje među web stranicama, smanjuje broj oglasa koji te prate. <a data-l10n-name="learn-more-link">Saznaj više</a>
+cookie-tab-title = Međustranični kolačići za praćenje
+cookie-tab-content = Ovi kolačići te prate od web stranice do web stranice, kako bi prikupili podatke o tome što radiš na mreži. Postavljaju ih treće strane poput oglašivača i analitičkih tvrtki. Blokiranje međustraničnih kolačića za praćenje smanjuje broj oglasa koji te prate. <a data-l10n-name="learn-more-link">Saznaj više</a>
 tracker-tab-title = Sadržaj za praćenje
 tracker-tab-description = Web stranice mogu učitati vanjske reklame, video materijal i drugi sadržaj koji sadržava kod za praćenje. Blokiranje sadržaja za praćenje može ubrzati učitavanje stranica, ali neke tipke, obrasci ili polja za prijavu možda neće raditi. <a data-l10n-name="learn-more-link">Saznaj više</a>
 fingerprinter-tab-title = Prikupljači digitalnih otisaka
@@ -187,12 +187,12 @@ bar-tooltip-social =
            *[other] { $count } programa za praćenje s društvenih mreža { $percentage }
         }
 bar-tooltip-cookie =
-    .title = Kolačići za praćenje među web lokacijama
+    .title = Međustranični kolačići za praćenje
     .aria-label =
         { $count ->
-            [one] { $count } kolačić za praćenje među web lokacijama ({ $percentage }%)
-            [few] { $count } kolačića za praćenje među web lokacijama ({ $percentage }%)
-           *[other] { $count } kolačića za praćenje među web lokacijama ({ $percentage }%)
+            [one] { $count } međustranični kolačić za praćenje ({ $percentage } %)
+            [few] { $count } međustranična kolačića za praćenje ({ $percentage } %)
+           *[other] { $count } međustraničnih kolačića za praćenje ({ $percentage } %)
         }
 bar-tooltip-tracker =
     .title = Sadržaj za praćenje
