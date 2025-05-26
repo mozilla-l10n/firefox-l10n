@@ -95,10 +95,10 @@ login-list-item-subtitle-new-login = Upiši svoje podatke za prijavu
 login-list-item-title-new-login2 = Dodaj lozinku
 login-list-item-subtitle-missing-username = (nema korisničkog imena)
 about-logins-list-item-breach-icon =
-    .title = Hakirana web-stranica
+    .title = Hakirana web stranica
 about-logins-list-item-vulnerable-password-icon =
     .title = Ranjiva lozinka
-about-logins-list-section-breach = Hakirane web-stranice
+about-logins-list-section-breach = Hakirane web stranice
 about-logins-list-section-vulnerable = Ranjive lozinke
 about-logins-list-section-nothing = Bez upozorenja
 about-logins-list-section-today = Danas
@@ -330,8 +330,8 @@ confirm-discard-changes-dialog-confirm-button = Odbaci
 
 ## Breach Alert notification
 
-about-logins-breach-alert-title = Hakirana web-stranica
-breach-alert-text = Lozinke su procurile ili su ukradene s ove web-stranice od zadnjeg aktualiziranja tvojih podataka za prijavu. Za zaštitu svog računa, promijeni lozinku.
+about-logins-breach-alert-title = Hakirana web stranica
+breach-alert-text = Lozinke su procurile ili su ukradene s ove web stranice od zadnjeg aktualiziranja tvojih podataka za prijavu. Za zaštitu svog računa, promijeni lozinku.
 about-logins-breach-alert-date = Curenje podataka dogodilo se { DATETIME($date, day: "numeric", month: "long", year: "numeric") }
 # Variables:
 #   $hostname (String) - The hostname of the website associated with the login, e.g. "example.com"

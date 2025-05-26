@@ -80,7 +80,7 @@ firefox-relay-and-fxa-opt-in-confirmation-enable-button-with-domain =
 ## The "with-domain-and-value-prop" variation of the Relay offer popup
 
 firefox-relay-and-fxa-popup-notification-header-with-domain-and-value-prop = Zaštiti se od neželjene pošte s maskom za e-mail adresu
-firefox-relay-and-fxa-popup-notification-first-sentence-with-domain-and-value-prop = Zaštiti se od neželjene pošte skrivanjem tvoje prave adrese pomoću <label data-l10n-name="firefox-relay-learn-more-url">maske e-mail adrese</label>. I dalje ćeš primati e-poštu s <label data-l10n-name="firefox-fxa-and-relay-offer-domain">ove web-stranice</label> u tvoju uobičajenu dolaznu poštu, s maskiranom adresom.
+firefox-relay-and-fxa-popup-notification-first-sentence-with-domain-and-value-prop = Zaštiti se od neželjene pošte skrivanjem tvoje prave adrese pomoću <label data-l10n-name="firefox-relay-learn-more-url">maske e-mail adrese</label>. I dalje ćeš primati e-poštu s <label data-l10n-name="firefox-fxa-and-relay-offer-domain">ove web stranice</label> u tvoju uobičajenu dolaznu poštu, s maskiranom adresom.
 firefox-relay-and-fxa-popup-notification-second-sentence-with-domain-and-value-prop = Za korištenje maske za e-mail adrese najprije se registriraj ili se prijavi na tvoj račun
 firefox-relay-and-fxa-opt-in-confirmation-enable-button-with-domain-and-value-prop =
     .label = Dalje

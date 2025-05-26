@@ -40,7 +40,7 @@ permissions-remove-all =
 permission-dialog =
     .buttonlabelaccept = Spremi promjene
     .buttonaccesskeyaccept = S
-permissions-autoplay-menu = Standardno za sve web-stranice:
+permissions-autoplay-menu = Standardno za sve web stranice:
 permissions-searchbox =
     .placeholder = Traži web stranicu
 permissions-capabilities-autoplay-allow =
@@ -76,7 +76,7 @@ permissions-invalid-uri-label = Upiši valjano ime glavnog računala
 permissions-exceptions-etp-window2 =
     .title = Iznimke za poboljšanu zaštitu od praćenja
     .style = { permissions-window2.style }
-permissions-exceptions-manage-etp-desc = Možeš odrediti web-stranice za koje je isključena poboljšana zaštita od praćenja. Upiši točnu adresu stranice kojom želiš upravljati, a zatim pritisni „Dodaj iznimku”.
+permissions-exceptions-manage-etp-desc = Možeš odrediti web stranice za koje je isključena poboljšana zaštita od praćenja. Upiši točnu adresu stranice kojom želiš upravljati, a zatim pritisni „Dodaj iznimku”.
 
 ## Exceptions - Cookies
 
@@ -98,7 +98,7 @@ permissions-exceptions-https-only-desc2 = „Samo HTTPS” modus možeš isklju�
 permissions-exceptions-popup-window2 =
     .title = Dopuštene stranice - skočni prozori
     .style = { permissions-window2.style }
-permissions-exceptions-popup-desc = Možeš odrediti web-stranice, koje smiju prikazivati skočne prozore. Upiši točnu adresu web-stranice kojoj to želiš dozvoliti, te klikni na „Dozvoli”.
+permissions-exceptions-popup-desc = Možeš odrediti web stranice, koje smiju prikazivati skočne prozore. Upiši točnu adresu web stranice kojoj to želiš dozvoliti, te klikni na „Dozvoli”.
 
 ## Exceptions - Saved Logins
 
@@ -119,7 +119,7 @@ permissions-exceptions-saved-passwords-desc = { -brand-short-name } neće sprema
 permissions-exceptions-addons-window2 =
     .title = Dopuštene stranice - Instalacija dodataka
     .style = { permissions-window2.style }
-permissions-exceptions-addons-desc = Možeš odrediti web-stranice, koje smiju instalirati dodatke. Upiši točnu adresu web-stranice kojoj to želiš dozvoliti, te klikni na „Dozvoli”.
+permissions-exceptions-addons-desc = Možeš odrediti web stranice, koje smiju instalirati dodatke. Upiši točnu adresu web stranice kojoj to želiš dozvoliti, te klikni na „Dozvoli”.
 
 ## Site Permissions - Autoplay
 
@@ -185,7 +185,7 @@ permissions-site-microphone-disable-desc = Ovo će spriječiti traženje pristup
 permissions-site-speaker-window =
     .title = Postavke – Dozvole za zvučnik
     .style = { permissions-window2.style }
-permissions-site-speaker-desc = Sljedeće web-stranice su zatražila biranje izlaznog audio uređaja. Možeš odrediti web-stranice koje smiju odabrati izlazni audio uređaj.
+permissions-site-speaker-desc = Sljedeće web stranice su zatražila biranje izlaznog audio uređaja. Možeš odrediti web stranice koje smiju odabrati izlazni audio uređaj.
 permissions-exceptions-doh-window =
     .title = Iznimke web stranica za DNS preko HTTPS
     .style = { permissions-window2.style }

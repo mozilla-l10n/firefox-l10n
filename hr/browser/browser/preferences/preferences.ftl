@@ -247,8 +247,8 @@ browser-layout-show-sidebar-desc = Brzo pristupi zabilješkama, karticama s tele
 ## General Section - Language & Appearance
 
 language-and-appearance-header = Jezik i izgled
-preferences-web-appearance-header = Izgled web-stranice
-preferences-web-appearance-description = Neke web-stranice prilagođavaju svoju shemu boja prema tvojim preferencijama. Odaberi koju shemu boja želiš koristiti na tim stranicama.
+preferences-web-appearance-header = Izgled web stranice
+preferences-web-appearance-description = Neke web stranice prilagođavaju svoju shemu boja prema tvojim preferencijama. Odaberi koju shemu boja želiš koristiti na tim stranicama.
 preferences-web-appearance-choice-auto = Automatski
 preferences-web-appearance-choice-light = Svijetla
 preferences-web-appearance-choice-dark = Tamna
@@ -1119,7 +1119,7 @@ sitedata-option-block-cross-site-tracking-cookies =
 sitedata-option-block-cross-site-cookies =
     .label = Kolačići za praćenje među web lokacijama i izoliranje drugih među straničnih kolačića
 sitedata-option-block-unvisited =
-    .label = Kolačići neposjećenih web-stranica
+    .label = Kolačići neposjećenih web stranica
 sitedata-option-block-all-cross-site-cookies =
     .label = Svi kolačići za praćenje među web lokacijama (može uzrokovati neispravno učitavanje web stranice)
 sitedata-option-block-all =
@@ -1233,7 +1233,7 @@ enhanced-tracking-protection-setting-custom =
 ##
 
 content-blocking-etp-standard-desc = Uravnoteženo za zaštitu i performansu. Stranice će se normalno učitavati.
-content-blocking-etp-strict-desc = Jača zaštita, ali može prouzročiti probleme nekim web-stanicama ili sadržajima.
+content-blocking-etp-strict-desc = Jača zaštita, ali može prouzročiti probleme nekim web stranicama ili sadržajima.
 content-blocking-etp-custom-desc = Odaberi programe za praćenje i skripte koje želiš blokirati.
 content-blocking-etp-blocking-desc = { -brand-short-name } blokira sljedeće:
 content-blocking-private-windows = Sadržaj za praćenje u privatnim prozorima
@@ -1469,7 +1469,7 @@ space-alert-under-5gb-message2 = <strong>{ -brand-short-name(case: "dat") } pone
 ## Privacy Section - HTTPS-Only
 
 httpsonly-header = „Samo HTTPS” modus
-httpsonly-description3 = Dozvoljava samo sigurne veze s web-stranicama. { -brand-short-name } će pitati prije nesigurnog povezivanja.
+httpsonly-description3 = Dozvoljava samo sigurne veze s web stranicama. { -brand-short-name } će pitati prije nesigurnog povezivanja.
 httpsonly-learn-more2 = Kako funkcionira modus „Samo HTTPS”
 httpsonly-description = HTTPS pruža sigurnu, šifriranu vezu između { -brand-short-name(case: "gen") } i web stranica koje posjećuješ. Većina web stranica podržava HTTPS, a ako je aktiviran „Samo HTTPS” modus, tada će { -brand-short-name } nadograditi sve veze na HTTPS.
 httpsonly-learn-more = Saznaj više
