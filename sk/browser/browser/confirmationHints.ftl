@@ -31,3 +31,5 @@ confirmation-hint-duplicate-tabs-closed =
         [many] Bolo zatvorených { $tabCount } kariet
        *[other] Bolo zatvorených { $tabCount } kariet
     }
+# Subtle notification shown when Extensions button moves into the application menu.
+confirmation-hint-extensions-button-hidden = Presunuté do ponuky

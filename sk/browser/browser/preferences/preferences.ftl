@@ -518,6 +518,8 @@ performance-default-content-process-count =
 ## General Section - Browsing
 
 browsing-title = Prehliadanie
+browsing-group-label =
+    .aria-label = Prehliadanie
 browsing-use-autoscroll =
     .label = Použiť automatický posun
     .accesskey = a

@@ -81,6 +81,8 @@ addon-removal-title = Odstrániť { $name }?
 addon-removal-message = Odstrániť { $name } z prehliadača { -brand-shorter-name }?
 addon-removal-button = Odstrániť
 addon-removal-abuse-report-checkbox = Nahlásiť toto rozšírenie spoločnosti { -vendor-short-name }
+# "it" refers to the local AI model that is paired to the AI feature
+addon-mlmodel-removal-body = Ak použijete funkcie alebo rozšírenia, ktoré tento model používajú, bude znova pridaný.
 # Variables:
 #   $addonCount (Number): the number of add-ons being downloaded
 addon-downloading-and-verifying =

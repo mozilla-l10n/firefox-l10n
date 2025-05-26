@@ -566,6 +566,15 @@ addon-permissions-required-data-collection = Požadovaný zber údajov:
 addon-permissions-optional-data-collection = Voliteľný zber údajov:
 # Name of the Permissions tab in `about:addons` when the data collection feature is enabled.
 permissions-data-addon-button = Povolenia a údaje
+# This is a description for extension that use this AI model
+# Variables:
+#   $extensionName (String) - Name of the extension
+mlmodel-extension-label = Používané rozšírením { $extensionName }
 
 ## Mapping Engine IDs from AI models to how that feature represented by the engine Id is described in the used by section in local model management
 
+mlmodel-about-inference = { -brand-short-name } toto používa na podstránke about:inference
+mlmodel-link-preview = { -brand-short-name } toto používa na generovanie kľúčových bodov pri zobrazovaní ukážok odkazov
+mlmodel-pdfjs = { -brand-short-name } toto používa na vytvorenie alternatívneho textu pre obrázky, ktoré pridávate do súborov PDF
+mlmodel-smart-tab-topic-engine = { -brand-short-name } toto používa na navrhovanie názvov pre vaše skupiny kariet
+mlmodel-smart-tab-embedding-engine = { -brand-short-name } toto používa na navrhovanie kariet pre vaše skupiny kariet
