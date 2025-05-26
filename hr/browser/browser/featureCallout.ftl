@@ -85,7 +85,10 @@ bookmarks-toolbar-callout-2a-subtitle = Povuci i ispusti kartice ovdje kako bi t
 bookmarks-toolbar-callout-2a-primary-button-label = Razumijem
 # Reverts the bookmarks toolbar to the default setting
 bookmarks-toolbar-callout-2a-secondary-button-label = Sakrij alatnu traku
+# Visible if user declines to add a bookmark in callout 1, bookmarks toolbar is set to always show when this message renders
+bookmarks-toolbar-callout-2b-title = Zadržati tvoju alatnu traku sa zabilješkama otvorenom?
 bookmarks-toolbar-callout-2b-subtitle = Možeš dodati i druge web stranice koje češće posjećuješ. Jednostavno povuci i ispusti kartice ovdje kako bi ti omiljene web stranice bile nadohvat ruke.
+bookmarks-toolbar-callout-2b-primary-button-label = Zadrži otvoreno
 # Reverts the bookmarks toolbar to the default setting
 bookmarks-toolbar-callout-2b-secondary-button-label = Ne hvala
 
@@ -106,9 +109,13 @@ vertical-tabs-callout-1-title = Gubiš pregled zbog previše kartica?
 vertical-tabs-callout-1-subtitle = Isprobaj naš novi okomiti raspored kartica za brzi pregled popisa kartica. Rani testeri javljaju da im ovaj raspored pomaže da se osjećaju organiziranije. Prebaci na okomiti raspored bilo kada.
 vertical-tabs-callout-1-cta-button = Isprobaj okomite kartice
 vertical-tabs-callout-2-cta-button = Isprobaj sada
+vertical-tabs-callout-2-title = Zadržati puno otvorenih kartica? Isprobaj okomite kartice.
+vertical-tabs-callout-2-subtitle = Ovaj raspored olakšava brzo pregledavanje tvog popisa kartica. Osim toga možeš prilagoditi širinu za prikaz više ili manje naslova kartica.
 
 ## Sidebar Vertical Tabs Pinning Strings
 
+sidebar-pins-callout-title = Gubiš pregled nad tvojim važnim karticama?
+sidebar-pins-callout-subtitle = Pokušaj ih prikvačiti, što će ih zadržati na vrhu popisa kartica. Desnom tipkom miša klikni karticu koju želiš prikvačiti, a zatim odaberi funkciju „Prikvači karticu”.
 sidebar-pins-callout-cta-button = Prikvači karticu
 
 ## Sidebar Onboarding Strings
