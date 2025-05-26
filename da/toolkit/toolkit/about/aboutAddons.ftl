@@ -582,3 +582,5 @@ mlmodel-extension-label = Brugt af udvidelsen { $extensionName }
 mlmodel-about-inference = { -brand-short-name } bruger denne model på about:inference
 mlmodel-link-preview = { -brand-short-name } bruger denne model til at oprette hovedpunkter, når du forhåndsviser links
 mlmodel-pdfjs = { -brand-short-name } bruger denne model til at oprette alternative tekster til billeder, du føjer til PDF-filer
+mlmodel-smart-tab-topic-engine = { -brand-short-name } bruger denne model til at foreslå navne til dine fanebladsgrupper
+mlmodel-smart-tab-embedding-engine = { -brand-short-name } bruger denne model til at forslå faneblade til dine fanebladsgrupper
