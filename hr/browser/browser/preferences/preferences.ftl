@@ -1155,6 +1155,11 @@ addressbar-header = Adresna traka
 addressbar-suggest = Pri korištenju adresne trake, predloži
 # When Firefox Suggest is enabled, this replaces `addressbar-header`.
 addressbar-header-firefox-suggest = Adresna traka – { -firefox-suggest-brand-name }
+# When Firefox Suggest is enabled, this replaces `addressbar-suggest`.
+addressbar-suggest-firefox-suggest = Odaberi vrstu prijedloga koji se prikazuju u adresnoj traci.
+# When Firefox Suggest is enabled, a "Learn more" link appears at the end of
+# `addressbar-suggest-firefox-suggest`.
+addressbar-locbar-firefox-suggest-learn-more = Saznaj više
 addressbar-locbar-history-option =
     .label = Povijest pregledavanja
     .accesskey = P
@@ -1187,7 +1192,18 @@ addressbar-locbar-showrecentsearches-option =
 addressbar-locbar-showtrendingsuggestions-option =
     .label = Prikaži popularne prijedloge za pretraživanje
     .accesskey = t
+# Nonsponsored suggestions refers to Firefox Suggest suggestions like Wikipedia.
+addressbar-locbar-suggest-nonsponsored-option =
+    .label = { -brand-short-name } prijedlozi
+addressbar-locbar-suggest-nonsponsored-desc = Dobij prijedloge s weba koji se odnose na tvoju pretragu.
+addressbar-locbar-suggest-sponsored-option =
+    .label = Prijedlozi od sponzora
+addressbar-locbar-suggest-sponsored-desc = Podrži { -brand-short-name } s povremenim sponzoriranim prijedlozima.
 addressbar-quickactions-learn-more = Saznaj više
+addressbar-dismissed-suggestions-label = Odbačeni prijedlozi
+addressbar-restore-dismissed-suggestions-description = Obnovi odbačene prijedloge od sponzora i { -brand-short-name }.
+addressbar-restore-dismissed-suggestions-button =
+    .label = Obnovi
 
 ## Privacy Section - Content Blocking
 
@@ -1352,6 +1368,8 @@ collection-header2 = { -brand-short-name } – prikupljanje i upotreba podataka
     .searchkeywords = telemetrija
 preferences-collection-description = Nastojimo pružiti izbor i prikupiti samo potrebne podatke za poboljšanje { -brand-product-name }a za sve.
 preferences-collection-privacy-notice = Pogledaj napomenu o privatnosti
+preferences-across-profiles = Ove se postavke primjenjuju na svaki { -brand-product-name } profil na ovom uređaju.
+preferences-view-profiles = Prikaži sve profile
 collection-description = Želimo ti omogućiti izbor i prikupljati samo ono što nam treba da bismo pružali i unaprijedili { -brand-short-name } za sve. Uvijek pitamo za dozvolu prije nego što počnemo primati osobne informacije.
 collection-privacy-notice = Napomena o privatnosti
 collection-health-report-telemetry-disabled = Više ne dopuštaš { -vendor-short-name } snimanje tehničkih podataka i podataka o interakciji. Svi stari podaci biti će izbrisani u roku od 30 dana.
