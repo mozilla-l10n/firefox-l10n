@@ -45,4 +45,4 @@ download-ui-cancel-downloads-ok =
 download-ui-file-executable-security-warning-title = Otvoriti izvršnu datoteku?
 # Variables:
 #   $executable (String): The executable file to be opened.
-download-ui-file-executable-security-warning = „{ $executable }” je izvršna datoteka. Izvršne datoteke mogu sadržavati viruse ili neki drugi maliciozni kȏd koji može oštetiti tvoje računalo. Oprez pri pokretanju ove datoteke. Zaista želiš pokrenuti „{ $executable }”?
+download-ui-file-executable-security-warning = „{ $executable }” je izvršna datoteka. Izvršne datoteke mogu sadržavati viruse ili neki drugi maliciozni kod koji može oštetiti tvoje računalo. Oprez pri pokretanju ove datoteke. Zaista želiš pokrenuti „{ $executable }”?

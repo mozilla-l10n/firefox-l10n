@@ -45,8 +45,8 @@ social-tab-title = Programi za praćenje s društvenih mreža
 social-tab-contant = Društvene mreže postavljaju programe za praćenje na druge web stranice kako bi pratili što radiš, vidiš i gledaš na mreži. To omogućava društvenim medijima saznati o tebi više od onoga što dijeliš na svojim profilima na društvenim mrežama. <a data-l10n-name="learn-more-link">Saznaj više</a>
 cookie-tab-title = Kolačići za praćenje između web stranica
 cookie-tab-content = Ovi kolačići te prate od web stranice do web stranice, kako bi prikupili podatke o tome što radiš na mreži. Postavljaju ih treće strane poput oglašivača i analitičkih tvrtki. Blokiranje kolačića za praćenje među web stranicama, smanjuje broj oglasa koji te prate. <a data-l10n-name="learn-more-link">Saznaj više</a>
-tracker-tab-title = Praćenje sadržaja
-tracker-tab-description = Web stranice mogu učitati vanjske reklame, video materijal i drugi sadržaj koji sadržava kod za praćenje. Blokiranje praćenja sadržaja može ubrzati učitavanje stranica, ali neke tipke, obrasci ili polja za prijavu možda neće raditi. <a data-l10n-name="learn-more-link">Saznaj više</a>
+tracker-tab-title = Sadržaj za praćenje
+tracker-tab-description = Web stranice mogu učitati vanjske reklame, video materijal i drugi sadržaj koji sadržava kod za praćenje. Blokiranje sadržaja za praćenje može ubrzati učitavanje stranica, ali neke tipke, obrasci ili polja za prijavu možda neće raditi. <a data-l10n-name="learn-more-link">Saznaj više</a>
 fingerprinter-tab-title = Prikupljači digitalnih otisaka
 fingerprinter-tab-content = Prikupljači digitalnih otisaka prikupljaju postavke tvog preglednika i računala kako bi stvorili tvoj profil. Pomoću ovog digitalnog otiska mogu te pratiti na različitim web stranicama. <a data-l10n-name="learn-more-link">Saznaj više</a>
 cryptominer-tab-title = Kripto-rudari
@@ -195,12 +195,12 @@ bar-tooltip-cookie =
            *[other] { $count } kolačića za praćenje među web lokacijama ({ $percentage }%)
         }
 bar-tooltip-tracker =
-    .title = Praćenje sadržaja
+    .title = Sadržaj za praćenje
     .aria-label =
         { $count ->
-            [one] { $count } praćenje sadržaja { $percentage }
-            [few] { $count } praćenja sadržaja { $percentage }
-           *[other] { $count } praćenja sadržaja { $percentage }
+            [one] { $count } sadržaj za praćenje { $percentage }
+            [few] { $count } sadržaja za praćenje { $percentage }
+           *[other] { $count } sadržaja za praćenje { $percentage }
         }
 bar-tooltip-fingerprinter =
     .title = Prikupljači digitalnih otisaka
