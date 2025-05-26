@@ -572,6 +572,13 @@ addon-permissions-required-data-collection = Påkrævet indsamling af data:
 addon-permissions-optional-data-collection = Valgfri indsamling af data:
 # Name of the Permissions tab in `about:addons` when the data collection feature is enabled.
 permissions-data-addon-button = Tilladelser og data
+# This is a description for extension that use this AI model
+# Variables:
+#   $extensionName (String) - Name of the extension
+mlmodel-extension-label = Brugt af udvidelsen { $extensionName }
 
 ## Mapping Engine IDs from AI models to how that feature represented by the engine Id is described in the used by section in local model management
 
+mlmodel-about-inference = { -brand-short-name } bruger denne model på about:inference
+mlmodel-link-preview = { -brand-short-name } bruger denne model til at oprette hovedpunkter, når du forhåndsviser links
+mlmodel-pdfjs = { -brand-short-name } bruger denne model til at oprette alternative tekster til billeder, du føjer til PDF-filer
