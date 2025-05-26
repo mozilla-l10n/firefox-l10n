@@ -202,6 +202,9 @@ migration-safari-password-import-step4 = Koristi opciju „Odaberi datoteku” z
 migration-chrome-windows-password-import-header = Kako uvesti lozinke iz Chromea
 migration-chrome-windows-password-import-steps-header = U Chromeu:
 migration-chrome-windows-password-import-step1 = Otvori glavni izbornik <img data-l10n-name="chrome-icon-3dots"/> i idi na Lozinke i automatsko ispunjavanje > Google upravljač lozinki.
+migration-chrome-windows-password-import-step2 = U izborniku odaberi „Postavke”.
+migration-chrome-windows-password-import-step3 = Odaberi „Preuzmi datoteku” i spremi je na svoj uređaj.
+migration-chrome-windows-password-import-step4 = Vrati se ovamo i odaberi „Odaberi datoteku” za završavanje uvoza.
 migration-manual-password-import-skip-button = Preskoči
 migration-manual-password-import-select-button = Odaberi datoteku
 migration-safari-password-import-skip-button = Preskoči

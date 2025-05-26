@@ -96,6 +96,11 @@ bookmarks-toolbar-callout-2b-secondary-button-label = Ne hvala
 
 perplexity-callout-theme-1-title = Trebaš točan odgovor, odmah?
 perplexity-callout-theme-2-title = Isprobaj Perplexity: novi način pretraživanja
+perplexity-callout-theme-2-subtitle-1 = Pitaj Perplexity. Dobit ćeš potpune odgovore, uključujući izvore.
+perplexity-callout-theme-2-subtitle-2 = Postavljaj pitanja. Dobij potpune, dobro citirane odgovore.
+perplexity-callout-primary-label = Pitaj Perplexity
+perplexity-callout-secondary-label-1 = Odbaci
+perplexity-callout-secondary-label-2 = Razumijem
 
 ## Sidebar Strings
 
@@ -122,6 +127,8 @@ sidebar-pins-callout-cta-button = Prikvači karticu
 
 sidebar-customization-callout-1-title = Bočna traka: tvoje mjesto za alate i kartice
 sidebar-customization-callout-callout-button = Prilagodi bočnu traku
+sidebar-customization-callout-dismiss-button = Sakrij bočnu traku
+sidebar-customization-callout-2-title = Prilagodi bočnu traku { -brand-product-name }a
 
 ## Sidebar Callout Survey Strings
 

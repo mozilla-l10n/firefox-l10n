@@ -111,8 +111,11 @@ genai-options-about-chatbot =
 ## Chatbot onboarding
 
 genai-onboarding-header = Sažimaj, skupljaj ideje i još mnogo toga dok pregledavaš
+genai-onboarding-choose-header = Odaberi UI chatbot koji želiš koristiti u bočnoj traci { -brand-short-name }a
 # "Switch anytime" refers to allowing the user to switch to a different chatbot.
 genai-onboarding-description = Odaberi UI chatbot u bočnoj traci { -brand-short-name(case: "gen") }. Prikazat ćemo detalje o svakom chatbotu kada ga odabereš. Promijeni bilo kada. <a data-l10n-name="learn-more">Saznaj više</a>
+# "Switch anytime" refers to allowing the user to switch to a different chatbot.
+genai-onboarding-choose-description = Promijeni bilo kada. Za pomoć pri odabiru, <a data-l10n-name="learn-more">saznaj više o svakom chatbotu</a>.
 genai-onboarding-primary = Nastavi
 genai-onboarding-secondary = Zatvori
 genai-onboarding-claude-tooltip =
@@ -136,6 +139,9 @@ genai-onboarding-lechat-learn = Saznaj više o Le Chat
 genai-onboarding-select-header = Odaberi tekst za prikaz prijedloga
 genai-onboarding-select-description = Kada odabereš tekst, predložit ćemo upite koje možeš poslati chatbotu. Ako želiš, možeš upisati i vlastite upite.
 genai-onboarding-select-primary = Započni chat
+genai-chatbot-contextual-title = Koristi UI chatbot bez mijenjanja kartica
+genai-chatbot-contextual-subtitle = Razgovaraj i pregledavaj istovremeno kada dodaš UI chatbot u bočnu traku { -brand-short-name }a.
+genai-chatbot-contextual-button = Odaberi chatbot
 
 ## Chatbot onboarding choices
 ## These describe features/capabilities of chatbot providers. These are not buttons/actions.
@@ -160,6 +166,25 @@ genai-onboarding-lechat-price = Besplatno; potreban je račun
 
 ## Model Optin Component
 
+genai-model-optin-continue =
+    .label = Nastavi
+genai-model-optin-optout =
+    .label = Odustani
+genai-model-optin-cancel =
+    .label = Odustani
 
 ## Link previews
 
+# ‘min’ is short for “minute”
+# ‘mins’ is short for “minutes”
+# An estimate for how long it takes to read an article,
+# expressed as a range covering both slow and fast readers.
+# Variables:
+#   $rangePlural (String): The plural category of the range, using the same set as for numbers.
+#   $range (String): The range of minutes as a localised string. Examples: "3-7", "~1".
+link-preview-reading-time =
+    { $rangePlural ->
+        [one] Vrijeme čitanja: { $range } min
+        [few] Vrijeme čitanja: { $range } min
+       *[other] Vrijeme čitanja: { $range } min
+    }
