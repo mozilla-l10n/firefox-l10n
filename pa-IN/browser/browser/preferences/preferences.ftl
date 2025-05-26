@@ -511,6 +511,8 @@ performance-default-content-process-count =
 ## General Section - Browsing
 
 browsing-title = ਬਰਾਊਜ਼ਿੰਗ
+browsing-group-label =
+    .aria-label = ਬਰਾਊਜ਼ਿੰਗ
 browsing-use-autoscroll =
     .label = ਆਟੋ-ਸਕਰੋਲਿੰਗ ਨੂੰ ਵਰਤੋਂ
     .accesskey = a
@@ -645,6 +647,7 @@ home-prefs-weather-header =
     .label = ਮੌਸਮ
 home-prefs-weather-description = ਅੱਜ ਦੀ ਭਵਿੱਖਬਾਣੀ ਲਈ ਨਜ਼ਰਸਾਨੀ
 home-prefs-weather-learn-more-link = ਹੋਰ ਜਾਣੋ
+home-prefs-mission-message-learn-more-link = ਸਮਝੋ ਕਿ ਕਿਵੇਂ
 # Variables:
 #   $num (number) - Number of rows displayed
 home-prefs-sections-rows-option =
