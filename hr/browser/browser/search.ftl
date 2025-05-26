@@ -38,6 +38,7 @@ remove-search-engine-button = U redu
 ## Variables
 ## $newEngine (String) - the name of the new default search engine.
 
+reset-search-settings-button = U redu
 
 ## Infobar shown when user is prompted to install search engine.
 ## Variables
@@ -55,8 +56,10 @@ add-engine-window =
     .style = min-width: 32em;
 add-engine-button = Dodaj drugu tražilicu
 add-engine-name = Ime tražilice
+add-engine-keyword = Ključna riječ
 add-engine-url = URL tražilice, koristi %s umjesto pojma za pretraživanje
 add-engine-dialog =
     .buttonlabelaccept = Dodaj tražilicu
     .buttonaccesskeyaccept = D
 engine-name-exists = Tražilica s tim imenom već postoji
+engine-keyword-exists = Tražilica s tom ključnom riječi već postoji

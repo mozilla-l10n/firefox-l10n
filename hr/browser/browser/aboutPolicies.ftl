@@ -3,6 +3,8 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 about-policies-title = Pravila za poduzeća
+aboutpolicies-page-heading =
+    .heading = Informacije o pravilima
 # 'Active' is used to describe the policies that are currently active
 active-policies-tab = Aktivno
 errors-tab = Greške

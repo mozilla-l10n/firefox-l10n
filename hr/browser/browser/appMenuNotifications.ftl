@@ -44,6 +44,9 @@ appmenu-addon-private-browsing-installed2 =
     .buttonlabel = U redu
     .buttonaccesskey = U
 appmenu-addon-post-install-message3 = Upravljaj svojim dodacima i temama iz izbornika aplikacije.
+# This string is used in the confirmation popup displayed after an extension
+# has been installed, when the data collection feature is enabled.
+appmenu-addon-post-install-message-with-data-collection = Aktualiziraj dozvole i postavke podataka u bilo kojem trenutku u <a data-l10n-name="settings-link">postavkama proširenja</a>.
 appmenu-addon-post-install-incognito-checkbox =
     .label = Dozvoli ovom dodatku da radi u privatnom prozoru
     .accesskey = a
