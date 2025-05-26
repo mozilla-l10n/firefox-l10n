@@ -639,7 +639,7 @@ home-prefs-weather-header =
     .label = 날씨
 home-prefs-weather-description = 오늘의 일기예보를 한눈에
 home-prefs-weather-learn-more-link = 더 알아보기
-home-prefs-mission-message = 스폰서는 더 나은 웹을 구축하는 우리의 사명을 지원합니다
+home-prefs-mission-message = 스폰서는 더 나은 웹을 만들려는 우리의 사명을 지원합니다
 home-prefs-mission-message-learn-more-link = 방법 알아보기
 # Variables:
 #   $num (number) - Number of rows displayed
