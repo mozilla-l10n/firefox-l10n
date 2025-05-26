@@ -96,6 +96,8 @@ bookmarks-toolbar-callout-2b-secondary-button-label = Ne hvala
 
 perplexity-callout-theme-1-title = Trebaš točan odgovor, odmah?
 perplexity-callout-theme-2-title = Isprobaj Perplexity: novi način pretraživanja
+perplexity-callout-theme-1-subtitle-1 = Isprobaj Perplexity. Odaberi tražilicu putem gumba za pretraživanje kada želiš potpune odgovore, uključujući izvore.
+perplexity-callout-theme-1-subtitle-2 = Postavljaj pitanja. Dobij potpune, dobro citirane odgovore. Da bi isprobao/la Perplexity, odaberi tražilicu putem gumba za pretraživanje.
 perplexity-callout-theme-2-subtitle-1 = Pitaj Perplexity. Dobit ćeš potpune odgovore, uključujući izvore.
 perplexity-callout-theme-2-subtitle-2 = Postavljaj pitanja. Dobij potpune, dobro citirane odgovore.
 perplexity-callout-primary-label = Pitaj Perplexity
@@ -126,9 +128,11 @@ sidebar-pins-callout-cta-button = Prikvači karticu
 ## Sidebar Onboarding Strings
 
 sidebar-customization-callout-1-title = Bočna traka: tvoje mjesto za alate i kartice
+sidebar-customization-callout-1-subtitle = Bočna traka { -brand-product-name }a omogućuje brz pristup povijesti pregledavanja, karticama s drugih uređaja i uI chatbotu – sve to bez napuštanja glavnog prikaza.
 sidebar-customization-callout-callout-button = Prilagodi bočnu traku
 sidebar-customization-callout-dismiss-button = Sakrij bočnu traku
 sidebar-customization-callout-2-title = Prilagodi bočnu traku { -brand-product-name }a
+sidebar-customization-callout-2-subtitle = Dodaj i ukloni alate. Postavi kartice u bočnu traku. Isprobaj UI chatbot. Prilagodi bočnu traku kako ti odgovara.
 
 ## Sidebar Callout Survey Strings
 
