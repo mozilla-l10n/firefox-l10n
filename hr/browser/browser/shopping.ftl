@@ -262,6 +262,7 @@ shopping-opt-in-integrated-headline = Kupuj s povjerenjem
 shopping-callout-opt-in-integrated-headline = Možeš li vjerovati ovim recenzijama?
 # Appears underneath shopping-opt-in-integrated-headline to answer the question 'Can you trust these reviews?'
 shopping-callout-not-opted-in-integrated-paragraph1 = Uključi provjeru recenzija od { -brand-product-name }a da bi to saznao/la. Pokreće ga { -fakespot-brand-full-name } i koristi UI tehnologiju za analizu recenzija.
+shopping-callout-not-opted-in-integrated-paragraph2 = Označavanjem gumba „{ shopping-opt-in-integrated-button }” prihvaćaš { -brand-product-name }ovu <a data-l10n-name="privacy_policy">napomenu o privatnosti</a> i { -fakespot-brand-full-name }ove <a data-l10n-name="terms_of_use">uvjete korištenja</a>.
 shopping-callout-not-opted-in-integrated-reminder-dismiss-button = Odbaci
 shopping-callout-not-opted-in-integrated-reminder-accept-button = Uključi provjeru recenzija
 shopping-opt-in-integrated-button = Isprobaj provjeru recenzija
