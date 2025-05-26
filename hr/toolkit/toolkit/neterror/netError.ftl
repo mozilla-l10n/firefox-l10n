@@ -92,17 +92,17 @@ neterror-unknown-socket-type-psm-installed = Provjeri ima li tvoje računalo ins
 neterror-unknown-socket-type-server-config = Moguće da je greška povezana s neuobičajenim postavkama servera.
 neterror-not-cached-intro = Traženi dokument nije dostupan u priručnoj memoriji { -brand-short-name }a.
 neterror-not-cached-sensitive = . Iz sigurnosnih razloga, { -brand-short-name } neće automatski ponovo zatražiti osjetljive dokumente.
-neterror-not-cached-try-again = Pritisni gumb „Pokušaj ponovo” za ponovno traženje dokumenta s web-stranice.
+neterror-not-cached-try-again = Pritisni gumb „Pokušaj ponovo” za ponovno traženje dokumenta s web stranice.
 neterror-net-offline = Klikni na „Pokušaj ponovo” za prebacivanje na mrežni modus i ponovo učitaj stranicu.
 neterror-proxy-resolve-failure-settings = Provjeri postavke za proxy.
 neterror-proxy-resolve-failure-connection = Provjeri ima li tvoje računalo ispravnu vezu s mrežom.
 neterror-proxy-resolve-failure-firewall = Ako je tvoje računalo zaštićeno vatrozidom ili proxyem, provjeri ima li { -brand-short-name } dozvolu za pristupanje webu.
 neterror-proxy-connect-failure-settings = Provjeri proxy postavke i potvrdi da su ispravne.
 neterror-proxy-connect-failure-contact-admin = Kontaktiraj administratora mreže i provjeri da proxy server radi.
-neterror-content-encoding-error = Kontaktiraj vlasnike web-stranice i obavijesti ih o ovom problemu.
-neterror-unsafe-content-type = Kontaktiraj vlasnike web-stranice i obavijesti ih o ovom problemu.
+neterror-content-encoding-error = Kontaktiraj vlasnike web stranice i obavijesti ih o ovom problemu.
+neterror-unsafe-content-type = Kontaktiraj vlasnike web stranice i obavijesti ih o ovom problemu.
 neterror-nss-failure-not-verified = Stranicu koju pokušavaš vidjeti nije moguće prikazati, jer nije moguće provjeriti autentičnost primljenih podataka.
-neterror-nss-failure-contact-website = Kontaktiraj vlasnike web-stranice i obavijesti ih o ovom problemu.
+neterror-nss-failure-contact-website = Kontaktiraj vlasnike web stranice i obavijesti ih o ovom problemu.
 # Variables:
 # $hostname (String) - Hostname of the website to which the user was trying to connect.
 certerror-intro = { -brand-short-name } je otkrio potencijalnu prijetnju sigurnosti i nije nastavio na <b>{ $hostname }</b>. Ukoliko posjetiš ovu web stranicu, napadači mogu pokušati ukrasti informacije kao što su tvoje lozinke, e-poruke ili podatke kreditne kartice.
@@ -111,13 +111,13 @@ certerror-intro = { -brand-short-name } je otkrio potencijalnu prijetnju sigurno
 certerror-sts-intro = { -brand-short-name } je otkrio potencijalnu prijetnju sigurnosti i nije nastavio na <b>{ $hostname }</b> iz razloga što ova stranica zahtjeva sigurnu vezu.
 # Variables:
 # $hostname (String) - Hostname of the website to which the user was trying to connect.
-certerror-expired-cert-intro = { -brand-short-name } je otkrio problem i nije nastavio na <b>{ $hostname }</b>. Ova je web-stranica pogrešno konfigurirana ili je sat tvog računala pogrešno postavljen.
+certerror-expired-cert-intro = { -brand-short-name } je otkrio problem i nije nastavio na <b>{ $hostname }</b>. Ova je web stranica pogrešno konfigurirana ili je sat tvog računala pogrešno postavljen.
 # Variables:
 # $hostname (String) - Hostname of the website to which the user was trying to connect.
 # $mitm (String) - The name of the software intercepting communications between you and the website (or “man in the middle”)
 certerror-mitm = <b>{ $hostname }</b> je vjerojatno sigurna stranica, ali se s njom ne može uspostaviti sigurna veza. Uzrok problemu je program <b>{ $mitm }</b>, koji se nalazi na tvom računalu ili tvojoj mreži.
 neterror-corrupted-content-intro = Stranicu koju pokušavaš vidjeti nije moguće prikazati zbog greške u prijenosu podataka.
-neterror-corrupted-content-contact-website = Kontaktiraj vlasnike web-stranice i obavijesti ih o ovom problemu.
+neterror-corrupted-content-contact-website = Kontaktiraj vlasnike web stranice i obavijesti ih o ovom problemu.
 # Do not translate "SSL_ERROR_UNSUPPORTED_VERSION".
 neterror-sslv3-used = Napredna informacija: SSL_ERROR_UNSUPPORTED_VERSION
 # Variables:
@@ -130,18 +130,18 @@ neterror-inadequate-security-code = Kod greške: NS_ERROR_NET_INADEQUATE_SECURIT
 # $now (Date) - The current datetime, to be formatted as a date
 neterror-clock-skew-error = Tvoje računalo misli da je { DATETIME($now, dateStyle: "medium") }, što sprečava { -brand-short-name } da se sigurno poveže. Za posjećivanje servera <b>{ $hostname }</b>, aktualiziraj sat tvog računala na trenutačni datum, vrijeme i vremensku zonu te onda aktualiziraj <b>{ $hostname }</b>.
 neterror-network-protocol-error-intro = Stranicu koju pokušavaš vidjeti nije moguće prikazati zbog greške u mrežnom protokolu.
-neterror-network-protocol-error-contact-website = Kontaktiraj vlasnike web-stranice i obavijesti ih o ovom problemu.
-certerror-expired-cert-second-para = Vjerojatno je certifikat web-stranice istekao, što sprečava { -brand-short-name } da se sigurno poveže. Ukoliko posjetiš ovu web-stranicu, napadači mogu pokušati ukrasti tvoje lozinke, e-poruke ili podatke kreditne kartice.
-certerror-expired-cert-sts-second-para = Vjerojatno je certifikat web-stranice istekao, što sprečava { -brand-short-name } da se sigurno poveže.
+neterror-network-protocol-error-contact-website = Kontaktiraj vlasnike web stranice i obavijesti ih o ovom problemu.
+certerror-expired-cert-second-para = Vjerojatno je certifikat web stranice istekao, što sprečava { -brand-short-name } da se sigurno poveže. Ukoliko posjetiš ovu web stranicu, napadači mogu pokušati ukrasti tvoje lozinke, e-poruke ili podatke kreditne kartice.
+certerror-expired-cert-sts-second-para = Vjerojatno je certifikat web stranice istekao, što sprečava da se { -brand-short-name } sigurno poveže.
 certerror-what-can-you-do-about-it-title = Što možeš učiniti po tom pitanju?
-certerror-unknown-issuer-what-can-you-do-about-it-website = Problem se najvjerojatnije nalazi u web-stranici i ne možeš ništa učiniti, kako bi se problem riješio.
+certerror-unknown-issuer-what-can-you-do-about-it-website = Problem se najvjerojatnije nalazi u web stranici i ne možeš ništa učiniti, kako bi se problem riješio.
 certerror-unknown-issuer-what-can-you-do-about-it-contact-admin = Ukoliko se nalaziš u korporativnoj mreži ili koristiš antivirusni program, za pomoć možeš kontaktirati timove za podršku. O problemu možeš obavijestiti i administratora web stranice.
 # Variables:
 # $hostname (String) - Hostname of the website to which the user was trying to connect.
 # $now (Date) - The current datetime, to be formatted as a date
 certerror-expired-cert-what-can-you-do-about-it-clock = Sat tvog računala postavljen je na { DATETIME($now, dateStyle: "medium") }. Provjeri datum, vrijeme i vremensku zonu u postavkama sustava i onda aktualiziraj <b>{ $hostname }</b>.
-certerror-expired-cert-what-can-you-do-about-it-contact-website = Ukoliko je tvoj sat već postavljen na ispravno vrijeme, web-stranica je vjerojatno pogrešno konfigurirana i ne možeš ništa učiniti kako bi se riješio ovaj problem. Možeš obavijestiti administratora web-stranice o ovom problemu.
-certerror-bad-cert-domain-what-can-you-do-about-it = Problem se najvjerojatnije nalazi u web-stranici i ne možeš ništa učiniti, kako bi se problem riješio.. Možeš obavijestiti administratora web-stranice o ovom problemu.
+certerror-expired-cert-what-can-you-do-about-it-contact-website = Ukoliko je tvoj sat već postavljen na ispravno vrijeme, web stranica je vjerojatno pogrešno konfigurirana i ne možeš ništa učiniti kako bi se riješio ovaj problem. Možeš obavijestiti administratora web stranice o ovom problemu.
+certerror-bad-cert-domain-what-can-you-do-about-it = Problem se najvjerojatnije nalazi u web stranici i ne možeš ništa učiniti, kako bi se problem riješio.. Možeš obavijestiti administratora web stranice o ovom problemu.
 certerror-mitm-what-can-you-do-about-it-antivirus = Ukoliko tvoj antivirusni program uključuje funkcije skeniranja sigurnih veza (koje se često zove “web skeniranje” ili “https skeniranje”), možeš isključiti ovu funkciju. Ukoliko to ne riješi problem, možeš ukloniti i ponovo instalirati antivirusni program.
 certerror-mitm-what-can-you-do-about-it-corporate = Ako se nalaziš u korporativnoj mreži, možeš kontaktirati svoj IT odjel.
 # Variables:

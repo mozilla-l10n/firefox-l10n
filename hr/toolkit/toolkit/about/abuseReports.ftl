@@ -70,22 +70,22 @@ abuse-report-settings-suggestions-search = Promijeni svoje standardne postavke z
 abuse-report-settings-suggestions-homepage = Izmijenite svoju početnu stranicu ili novu karticu
 abuse-report-deceptive-reason-v2 = Tvrdi da je nešto što nije
 abuse-report-deceptive-example = Primjer: Obmanjujući opis ili slike
-abuse-report-broken-reason-extension-v2 = Ne radi, slama web-stranice ili usporava { -brand-product-name }
-abuse-report-broken-reason-sitepermission-v2 = Ne radi, ne prikazuje web-stranice ispravno ili usporava { -brand-product-name }
+abuse-report-broken-reason-extension-v2 = Ne radi, ne prikazuje web stranice ispravno ili usporava { -brand-product-name }
+abuse-report-broken-reason-sitepermission-v2 = Ne radi, ne prikazuje web stranice ispravno ili usporava { -brand-product-name }
 abuse-report-broken-reason-theme-v2 = Ne radi ili slama prikaz preglednika
 abuse-report-broken-example = Primjer: Funkcije su spore, teško ih je koristiti ili ne rade, dijelovi web stranica se ne mogu učitati ili čudno izgledaju
 abuse-report-broken-suggestions-extension =
     Čini se da se radi o grešci. Pored slanja prijave ovdje, najbolji način za
     rješavanje funkcionalnih problema je, da kontaktiraš programera proširenja.
-    Podatke o programeru potraži na <a data-l10n-name="support-link">web-stranici dodatka</a>.
+    Podatke o programeru potraži na <a data-l10n-name="support-link">web stranici dodatka</a>.
 abuse-report-broken-suggestions-sitepermission =
     Čini se da se radi o grešci. Pored slanja prijave ovdje, najbolji način za
     rješavanje funkcionalnih problema je da kontaktirate programera web stranice.
-    Podatke o programeru potražite na <a data-l10n-name="support-link">web-stranici dodatka</a>.
+    Podatke o programeru potražite na <a data-l10n-name="support-link">web stranici dodatka</a>.
 abuse-report-broken-suggestions-theme =
     Čini se da se radi o grešci. Pored slanja prijave ovdje, najbolji način za
     rješavanje funkcionalnih problema je da kontaktiraš programera teme.
-    Podatke o programeru potraži na <a data-l10n-name="support-link">web-stranici dodatka</a>.
+    Podatke o programeru potraži na <a data-l10n-name="support-link">web stranici dodatka</a>.
 abuse-report-policy-reason-v2 = Sadrži mržnju, nasilan ili ilegalan sadržaj
 abuse-report-policy-suggestions =
     Napomena: Problemi s autorskim pravima i zaštitnim znakovima moraju se prijaviti u

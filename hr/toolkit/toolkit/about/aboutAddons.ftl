@@ -139,9 +139,9 @@ addon-category-available-updates-title =
 addon-category-recent-updates = Nedavna aktualiziranja
 addon-category-recent-updates-title =
     .title = Nedavna aktualiziranja
-addon-category-sitepermission = Dozvole web-mjesta
+addon-category-sitepermission = Dozvole web stranice
 addon-category-sitepermission-title =
-    .title = Dozvole web-mjesta
+    .title = Dozvole web stranice
 # String displayed in about:addons in the Site Permissions section
 # Variables:
 #  $host (string) - DNS host name for which the webextension enables permissions
