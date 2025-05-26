@@ -7,6 +7,8 @@ profile-window-body = Zadrži svoj rad i osobno pregledavanje, uključujući stv
 # This checkbox appears in the Choose profile window that appears when the browser is opened. "Show this" refers to this window, which is displayed when the checkbox is enabled.
 profile-window-checkbox-label-2 =
     .label = Odaberi profil kada se { -brand-short-name } otvori
+# This subcopy appears below the checkbox when it is unchecked
+profile-window-checkbox-subcopy = { -brand-short-name } će se otvoriti s tvojim zadnjim korištenim profilom.
 profile-window-create-profile = Stvori profil
 profile-card-edit-button =
     .title = Uredi profil
@@ -82,6 +84,12 @@ profiles-light-theme = Svijetla
 profiles-dark-theme = Tamna
 # The default system theme
 profiles-system-theme = Sustav
+# This light theme features sunny colors such as goldenrod and pale yellow. Its name evokes the color of a marigold flower. This name can be translated directly if it's easily understood in your language, or adapted to a more natural sounding name that fits the color scheme.
+profiles-marigold-theme-2 = Žuto-narančasta
+# This light theme features various shades of soft, muted purples. Its name evokes the color of a lavender flower. This name can be translated directly if it's easily understood in your language, or adapted to a more natural sounding name that fits the color scheme.
+profiles-lavender-theme-2 = Blijeda lavanda
+# This light theme features very pale green tones. Its name evokes the color of pale green mint ice cream. This name can be translated directly if it's easily understood in your language, or adapted to a more natural sounding name that fits the color scheme.
+profiles-lichen-theme-2 = Zelena metvica
 
 ## Alternative text for default profile icons
 
