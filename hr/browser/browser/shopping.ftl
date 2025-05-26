@@ -259,11 +259,17 @@ shopping-opt-in-integrated-headline = Kupuj s povjerenjem
 
 ## Messages for callout for users not opted into the sidebar integrated version of Review Checker.
 
+shopping-callout-opt-in-integrated-headline = Možeš li vjerovati ovim recenzijama?
+# Appears underneath shopping-opt-in-integrated-headline to answer the question 'Can you trust these reviews?'
+shopping-callout-not-opted-in-integrated-paragraph1 = Uključi provjeru recenzija od { -brand-product-name }a da bi to saznao/la. Pokreće ga { -fakespot-brand-full-name } i koristi UI tehnologiju za analizu recenzija.
+shopping-callout-not-opted-in-integrated-reminder-dismiss-button = Odbaci
+shopping-callout-not-opted-in-integrated-reminder-accept-button = Uključi provjeru recenzija
 shopping-opt-in-integrated-button = Isprobaj provjeru recenzija
 
 ## Message strings for Review Checker's empty states.
 
 shopping-empty-state-header = Spremno za provjeru recenzija
+shopping-empty-state-supported-site = Pogledaj proizvod i { -brand-product-name } će provjeriti jesu li recenzije pouzdane.
 # We show a list of sites supported by Review Checker whenever a user opens the feature in an unsupported site.
 # This string will be displayed above the list of sites. The list will be hardcoded and does not require localization.
 shopping-empty-state-non-supported-site = Provjera recenzija radi kada kupuješ na:
