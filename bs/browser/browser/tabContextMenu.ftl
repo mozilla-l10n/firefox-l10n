@@ -6,14 +6,26 @@
 ## Variables:
 ##  $tabCount (Number): the number of tabs that are affected by the action.
 
+tab-context-new-tab =
+    .label = Novi tab
+    .accesskey = w
 reload-tab =
     .label = Obnovi tab
     .accesskey = O
+select-all-tabs =
+    .label = Odaberi sve tabove
+    .accesskey = S
 tab-context-play-tab =
     .label = Reproduciraj tab
     .accesskey = p
+tab-context-play-tabs =
+    .label = Reproduciraj tabove
+    .accesskey = y
 duplicate-tab =
     .label = Dupliciraj tab
+    .accesskey = D
+duplicate-tabs =
+    .label = Dupliciraj tabove
     .accesskey = D
 # The following string is displayed on a menuitem that will close the tabs from the start of the tabstrip to the currently targeted tab (excluding the currently targeted and any other selected tabs).
 # In left-to-right languages this should use "Left" and in right-to-left languages this should use "Right".
