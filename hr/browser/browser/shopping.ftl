@@ -259,12 +259,18 @@ shopping-opt-in-integrated-headline = Kupuj s povjerenjem
 
 ## Messages for callout for users not opted into the sidebar integrated version of Review Checker.
 
+shopping-opt-in-integrated-button = Isprobaj provjeru recenzija
 
 ## Message strings for Review Checker's empty states.
 
+shopping-empty-state-header = Spremno za provjeru recenzija
+# We show a list of sites supported by Review Checker whenever a user opens the feature in an unsupported site.
+# This string will be displayed above the list of sites. The list will be hardcoded and does not require localization.
+shopping-empty-state-non-supported-site = Provjera recenzija radi kada kupuješ na:
 
 ## Confirm disabling Review Checker for newly opted out users
 
+shopping-integrated-callout-opted-out-title = Provjera recenzija je isključena
 
 ## Callout for where to find Review Checker when the sidebar closes
 
