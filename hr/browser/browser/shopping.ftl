@@ -277,6 +277,7 @@ shopping-callout-not-opted-in-integrated-paragraph1 = Uključi provjeru recenzij
 shopping-callout-not-opted-in-integrated-paragraph2 = Označavanjem gumba „{ shopping-opt-in-integrated-button }” prihvaćaš { -brand-product-name }ovu <a data-l10n-name="privacy_policy">napomenu o privatnosti</a> i { -fakespot-brand-full-name }ove <a data-l10n-name="terms_of_use">uvjete korištenja</a>.
 shopping-callout-not-opted-in-integrated-reminder-dismiss-button = Odbaci
 shopping-callout-not-opted-in-integrated-reminder-accept-button = Uključi provjeru recenzija
+shopping-opt-in-integrated-privacy-policy-and-terms-of-use = Provjeru recenzija pokreće { -fakespot-brand-full-name }. Označavanjem gumba „{ shopping-opt-in-integrated-button }” prihvaćaš { -brand-product-name }ovu <a data-l10n-name="privacy_policy">napomenu o privatnosti</a> i { -fakespot-brand-name }ove <a data-l10n-name="terms_of_use">uvjete korištenja</a>.
 shopping-opt-in-integrated-button = Isprobaj provjeru recenzija
 
 ## Message strings for Review Checker's empty states.
@@ -290,9 +291,12 @@ shopping-empty-state-non-supported-site = Provjera recenzija radi kada kupuješ 
 ## Confirm disabling Review Checker for newly opted out users
 
 shopping-integrated-callout-opted-out-title = Provjera recenzija je isključena
+shopping-integrated-callout-opted-out-subtitle = Za ponovno uključivanje odaberi oznaku sa cijenom u bočnoj traci i uključi provjeru recenzija.
 
 ## Callout for where to find Review Checker when the sidebar closes
 
+shopping-integrated-callout-sidebar-closed-title = Vrati se na provjeru recenzija
+shopping-integrated-callout-sidebar-closed-subtitle = Odaberi oznaku sa cijenom u bočnoj traci i pogledaj je li možeš vjerovati recenzijama proizvoda.
 shopping-integrated-callout-no-logo-sidebar-closed-subtitle = Odaberi gumb bočne trake i pogledaj je li možeš vjerovati recenzijama proizvoda.
 
 ## Strings for a notification card about Review Checker's new position in the sidebar.
