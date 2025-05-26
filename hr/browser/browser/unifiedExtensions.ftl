@@ -28,7 +28,7 @@ unified-extensions-item-messagebar-softblocked = { $extensionName } krši Mozill
 ## Extension's context menu
 
 unified-extensions-context-menu-pin-to-toolbar =
-    .label = Prikači na alatnu traku
+    .label = Prikvači na alatnu traku
 unified-extensions-context-menu-manage-extension =
     .label = Upravljaj proširenjem
 unified-extensions-context-menu-remove-extension =

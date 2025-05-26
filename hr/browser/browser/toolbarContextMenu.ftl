@@ -53,7 +53,7 @@ toolbar-context-menu-report-extension =
 # ("Menu Bar") and personalbarCmd ("Bookmarks Toolbar"), so they should
 # have different access keys.
 toolbar-context-menu-pin-to-overflow-menu =
-    .label = Zakači u dodatni izbornik
+    .label = Prikvači u dodatni izbornik
     .accesskey = Z
 toolbar-context-menu-auto-hide-downloads-button-2 =
     .label = Sakrij tipku kada je prazno (H)
@@ -77,7 +77,7 @@ toolbar-context-menu-view-customize-toolbar-2 =
 # This is only ever shown when toolbar-context-menu-pin-to-overflow-menu
 # is hidden, so they can share access keys.
 toolbar-context-menu-pin-to-toolbar =
-    .label = Prikači na alatnu traku
+    .label = Prikvači na alatnu traku
     .accesskey = P
 toolbar-context-menu-bookmarks-toolbar-always-show-2 =
     .label = Uvijek prikaži
