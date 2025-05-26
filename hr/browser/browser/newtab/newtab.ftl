@@ -117,6 +117,9 @@ newtab-menu-delete-pocket = Izbriši iz { -pocket-brand-name(case: "gen") }
 newtab-menu-archive-pocket = Arhiviraj u { -pocket-brand-name }
 newtab-menu-show-privacy-info = Naši sponzori i tvoja privatnost
 newtab-menu-about-fakespot = O proširenju { -fakespot-brand-name }
+# Report is a verb (i.e. report issue with the content).
+newtab-menu-report = Prijavi
+newtab-menu-report-content = Prijavi ovaj sadržaj
 # Context menu option to personalize New Tab recommended stories by blocking a section of stories,
 # e.g. "Sports". "Block" is a verb here.
 newtab-menu-section-block = Blokiraj
@@ -126,6 +129,9 @@ newtab-menu-section-unfollow = Prestani pratiti temu
 
 ## Context menu options for sponsored stories and new ad formats on New Tab.
 
+newtab-menu-manage-sponsored-content = Upravljaj sponzoriranim sadržajem
+newtab-menu-our-sponsors-and-your-privacy = Naši sponzori i tvoja privatnost
+newtab-menu-report-this-ad = Prijavi ovaj oglas
 
 ## Message displayed in a modal window to explain privacy and provide context for sponsored content.
 
@@ -367,6 +373,10 @@ newtab-wallpaper-abstract-purple = Ljubičasti oblici
 newtab-wallpaper-abstract-orange = Narančasti oblici
 newtab-wallpaper-gradient-orange = Gradijent narančaste i ružičaste
 newtab-wallpaper-abstract-blue-purple = Plavi i ljubičasti oblici
+newtab-wallpaper-abstract-white-curves = Bijela sa zasjenjenim krivuljama
+newtab-wallpaper-abstract-purple-green = Gradijent ljubičaste boje i zelenog svjetla
+newtab-wallpaper-abstract-blue-purple-waves = Plavi i ljubičasti valoviti oblici
+newtab-wallpaper-abstract-black-waves = Crni valoviti oblici
 
 ## Celestial
 
