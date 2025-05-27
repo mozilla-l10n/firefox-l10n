@@ -559,6 +559,14 @@ addon-permissions-required-data-collection = Coleta de dados necessária:
 addon-permissions-optional-data-collection = Coleta de dados opcional:
 # Name of the Permissions tab in `about:addons` when the data collection feature is enabled.
 permissions-data-addon-button = Permissões e dados
+# This is a description for extension that use this AI model
+# Variables:
+#   $extensionName (String) - Name of the extension
+mlmodel-extension-label = Usado pela extensão { $extensionName }
 
 ## Mapping Engine IDs from AI models to how that feature represented by the engine Id is described in the used by section in local model management
 
+mlmodel-about-inference = O { -brand-short-name } usa isso em about:inference
+mlmodel-pdfjs = O { -brand-short-name } usa isto para criar texto alternativo em imagens que você adiciona a documentos PDF
+mlmodel-smart-tab-topic-engine = O { -brand-short-name } usa isto para sugerir nomes para seus grupos de abas
+mlmodel-smart-tab-embedding-engine = O { -brand-short-name } usa isto para sugerir abas para seus grupos de abas
