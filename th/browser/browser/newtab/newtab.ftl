@@ -523,9 +523,40 @@ newtab-section-mangage-topics-followed-topics = ติดตามอยู่
 newtab-section-mangage-topics-followed-topics-empty-state = คุณยังไม่ได้ติดตามหัวข้อใดๆ
 newtab-section-mangage-topics-blocked-topics = ปิดกั้นอยู่
 newtab-section-mangage-topics-blocked-topics-empty-state = คุณยังไม่ได้ปิดกั้นหัวข้อใดๆ
+newtab-custom-wallpaper-title = รูปพื้นหลังกำหนดเองอยู่ตรงนี้
+# 'Make firefox yours" means to customize or personalize
+newtab-custom-wallpaper-subtitle = อัปโหลดรูปพื้นหลังของคุณเองหรือเลือกสีกำหนดเองเพื่อปรับแต่ง { -brand-product-name } ในแบบของคุณ
+newtab-custom-wallpaper-cta = ลองเลย
 
 ## Strings for download mobile highlight
 
+newtab-download-mobile-highlight-title = ดาวน์โหลด { -brand-product-name } สำหรับมือถือ
+# "Scan the code" refers to scanning the QR code that appears above the body text that leads to Firefox for mobile download.
+newtab-download-mobile-highlight-body-variant-a = สแกนโค้ดเพื่อท่องเว็บอย่างปลอดภัยขณะเดินทาง
+newtab-download-mobile-highlight-body-variant-b = ท่องเว็บต่อจากที่ค้างไว้ได้เมื่อคุณซิงค์แท็บ รหัสผ่าน และอื่นๆ ของคุณ
+newtab-download-mobile-highlight-body-variant-c = คุณรู้ไหมว่าคุณสามารถใช้ { -brand-product-name } ขณะเดินทางได้? นำเบราว์เซอร์ตัวเดียวกันนี้มาไว้ในกระเป๋าของคุณ
+newtab-download-mobile-highlight-image =
+    .aria-label = คิวอาร์โค้ดสำหรับดาวน์โหลด { -brand-product-name } สำหรับมือถือ
 
 ## Strings for reporting ads and content
 
+newtab-report-content-why-reporting-this =
+    .label = ทำไมคุณถึงรายงานสิ่งนี้?
+newtab-report-ads-reason-not-interested =
+    .label = ฉันไม่สนใจ
+newtab-report-ads-reason-inappropriate =
+    .label = มันไม่เหมาะสม
+newtab-report-ads-reason-seen-it-too-many-times =
+    .label = ฉันเห็นมันมาหลายครั้งเกินไปแล้ว
+newtab-report-content-wrong-category =
+    .label = หมวดหมู่ผิด
+newtab-report-content-outdated =
+    .label = ล้าสมัย
+newtab-report-content-inappropriate-offensive =
+    .label = ไม่เหมาะสมหรือก้าวร้าว
+newtab-report-content-spam-misleading =
+    .label = สแปมหรือทำให้เข้าใจผิด
+newtab-report-cancel = ยกเลิก
+newtab-report-submit = ส่ง
+newtab-toast-thanks-for-reporting =
+    .message = ขอบคุณที่รายงานสิ่งนี้

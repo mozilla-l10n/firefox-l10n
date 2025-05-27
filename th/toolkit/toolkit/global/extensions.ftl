@@ -96,6 +96,25 @@ webext-perms-host-description-multiple-domains = เข้าถึงข้อ�
 
 ## Strings for data collection permissions in the permission prompt.
 
+webext-perms-description-data-none = ผู้พัฒนาระบุว่าส่วนขยายนี้ไม่ต้องการการรวบรวมข้อมูล
+# Variables:
+#    $permissions (String): a list of data collection permissions formatted with `Intl.ListFormat` using the "narrow" style.
+webext-perms-description-data-some = ผู้พัฒนาระบุว่าส่วนขยายนี้รวบรวม: { $permissions }
+# Variables:
+#    $permissions (String): a list of data collection permissions formatted with `Intl.ListFormat` using the "narrow" style.
+webext-perms-description-data-some-update = ผู้พัฒนาระบุว่าส่วนขยายจะรวบรวม: { $permissions }
+# Variables:
+#    $permissions (String): a list of data collection permissions formatted with `Intl.ListFormat` using the "narrow" style.
+webext-perms-description-data-some-optional = ผู้พัฒนาระบุว่าส่วนขยายต้องการรวบรวม: { $permissions }
+# Variables:
+#   $extension (String): replaced with the localized name of the extension.
+webext-perms-update-text-with-data-collection = { $extension } ต้องการการตั้งค่าใหม่เพื่ออัปเดต
+# Variables:
+#   $extension (String): replaced with the localized name of the extension.
+webext-perms-optional-text-with-data-collection = { $extension } ขอการตั้งค่าเพิ่มเติม
+# Variables:
+#   $extension (String): replaced with the localized name of the extension.
+webext-perms-optional-text-with-data-collection-only = { $extension } ขอการรวบรวมข้อมูลเพิ่มเติม
 
 ## Headers used in the webextension permissions dialog for synthetic add-ons.
 ## The part of the string describing what privileges the extension gives should be consistent

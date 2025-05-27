@@ -8,8 +8,10 @@
 preonboarding-title = ยินดีต้อนรับสู่ { -brand-product-name }
 preonboarding-subtitle = การดำเนินการต่อถือว่าคุณยอมรับเงื่อนไขการใช้งาน { -brand-product-name } และประกาศความเป็นส่วนตัวของเรา และเพื่อช่วยปรับปรุงเบราว์เซอร์ { -brand-product-name } จะส่งข้อมูลการวินิจฉัยและการโต้ตอบไปยัง { -vendor-short-name }
 preonboarding-primary-cta = ยืนยันและดำเนินการต่อ
+preonboarding-primary-cta-v2 = ดำเนินการต่อ
 # Labels for header style button that toggles showing the terms of use, privacy notice, and data preferences checklist
 preonboarding-manage-and-read-header = จัดการการตั้งค่าการรวบรวมข้อมูลและอ่านเงื่อนไขการใช้งานและประกาศความเป็นส่วนตัวของเรา
+preonboarding-manage-and-read-header-v2 = อ่านเงื่อนไขการใช้งานและประกาศความเป็นส่วนตัว จัดการการตั้งค่าเพิ่มเติม
 # Label for header style button that toggles showing the Terms of Use
 preonboarding-terms-of-use-header-button-title = อ่านข้อกำหนดการใช้งานของเรา
 # Label for header style button that toggles showing the Privacy Notice
@@ -18,8 +20,10 @@ preonboarding-privacy-notice-header-button-title = อ่านประกา�
 preonboarding-manage-data-header-button-title = จัดการข้อมูลการวินิจฉัยและการโต้ตอบ
 # Labels for header style button that toggles showing the Terms of Use (Variant B)
 preonboarding-terms-of-use-header-button-title-b = เงื่อนไขการใช้งาน { -brand-product-name }
+preonboarding-terms-of-use-header-button-title-b-v2 = เงื่อนไขการใช้งาน
 # Labels for header style button that toggles showing the Privacy Notice (Variant B)
 preonboarding-privacy-notice-header-button-title-b = ประกาศความเป็นส่วนตัวของ { -brand-product-name }
+preonboarding-privacy-notice-header-button-title-b-v2 = ประกาศความเป็นส่วนตัว
 # Description under label for header style buttons
 preonboarding-header-button-description = อ่านเพิ่มเติม
 # New user onboarding checklist

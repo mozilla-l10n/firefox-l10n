@@ -38,6 +38,8 @@ remove-search-engine-button = ตกลง
 ## Variables
 ## $newEngine (String) - the name of the new default search engine.
 
+reset-search-settings-message = เนื่องจากปัญหาทางเทคนิค เครื่องมือค้นหาเริ่มต้นของคุณจึงถูกเปลี่ยนกลับเป็น { $newEngine } เมื่อต้องการเปลี่ยนเครื่องมือค้นหาเริ่มต้น ให้ไปที่การตั้งค่า
+reset-search-settings-button = ตกลง
 
 ## Infobar shown when user is prompted to install search engine.
 ## Variables
