@@ -5,11 +5,11 @@
 
 ## Generative AI (GenAI) Settings section
 
-genai-settings-chat-chatgpt-links = Odabirom ChatGPT-a pristajete na OpenAI <a data-l10n-name="link1">Uvjete korištenja</a> i <a data-l10n-name="link2">Pravila privatnosti</a>.
-genai-settings-chat-claude-links = Odabirom Anthropic Claude pristajete na Anthropic <a data-l10n-name="link1">Uvjete pružanja usluge za potrošače</a>, <a data-l10n-name="link2">Pravila korištenja</a> i <a data-l10n-name="link3">Pravila privatnosti</a>.
+genai-settings-chat-chatgpt-links = Odabirom ChatGPT-a prihvaćaš <a data-l10n-name="link1">uvjete korištenja</a> i <a data-l10n-name="link2">politiku privatnosti</a> tvrtke OpenAI.
+genai-settings-chat-claude-links = Odabirom Anthropic Claude prihvaćaš <a data-l10n-name="link1">uvjete pružanja usluge za potrošače</a>, <a data-l10n-name="link2">pravila korištenja</a> i <a data-l10n-name="link3">politiku privatnosti</a> tvrtke Anthropic.
 genai-settings-chat-copilot-links = Odabirom Copilota pristajete na <a data-l10n-name="link1">Uvjete Copilot AI Experiences</a> i <a data-l10n-name="link2">Microsoftovu izjavu o privatnosti</a>.
-genai-settings-chat-gemini-links = Odabirom Google Gemini pristajete na <a data-l10n-name="link1">Googleove uvjete pružanja usluge</a>, <a data-l10n-name="link2">pravila o zabranjenoj upotrebi generativne umjetne inteligencije</a> i <a data-l10n-name="link3">Obavijest o privatnosti Gemini Apps</a>.
-genai-settings-chat-huggingchat-links = Odabirom HuggingChat pristajete na <a data-l10n-name="link1">Obavijest o privatnosti za HuggingChat</a> i <a data-l10n-name="link2">Pravila privatnosti za Hugging Face</a>.
+genai-settings-chat-gemini-links = Odabirom Google Gemini prihvaćaš <a data-l10n-name="link1">Googleove uvjete pružanja usluge</a>, <a data-l10n-name="link2">pravila o zabranjenoj upotrebi generativne umjetne inteligencije</a> i <a data-l10n-name="link3">Gemini Apps-ovu napomenu o privatnosti</a>.
+genai-settings-chat-huggingchat-links = Odabirom HuggingChat-a prihvaćaš <a data-l10n-name="link1">HuggingChat napomenu o privatnosti </a> i <a data-l10n-name="link2">Hugging Face politiku privatnosti</a>.
 genai-settings-chat-lechat-links = Odabirom Le Chat Mistral, pristajete na Mistral AI <a data-l10n-name="link1">Uvjete usluge</a> i <a data-l10n-name="link2">Pravila privatnosti</a>.
 genai-settings-chat-localhost-links = Donesi vlastiti privatni lokalni chatbot kao što je <a data-l10n-name="link1">llamafile</a> iz grupe inovacija od { -vendor-short-name }.
 
