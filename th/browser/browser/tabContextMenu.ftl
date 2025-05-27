@@ -126,3 +126,10 @@ tab-context-move-tabs =
 tab-context-send-tabs-to-device =
     .label = ส่ง { $tabCount } แท็บไปยังอุปกรณ์
     .accesskey = ส
+tab-context-unload-n-tabs =
+    .label =
+        { $tabCount ->
+            [1] เลิกโหลดแท็บ
+           *[other] เลิกโหลด { $tabCount } แท็บ
+        }
+    .accesskey = ล

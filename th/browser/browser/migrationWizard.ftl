@@ -192,6 +192,12 @@ migration-safari-password-import-step1 = ใน Safari ให้เปิดเ�
 migration-safari-password-import-step2 = เลือกปุ่ม <img data-l10n-name="safari-icon-3dots"/> แล้วเลือก “ส่งออกรหัสผ่านทั้งหมด”
 migration-safari-password-import-step3 = บันทึกไฟล์รหัสผ่าน
 migration-safari-password-import-step4 = ใช้ “เลือกไฟล์” ด้านล่างเพื่อเลือกไฟล์รหัสผ่านที่คุณได้บันทึกไว้
+migration-chrome-windows-password-import-header = วิธีนำเข้ารหัสผ่านจาก Chrome
+migration-chrome-windows-password-import-steps-header = ใน Chrome:
+migration-chrome-windows-password-import-step1 = เปิดเมนูหลัก <img data-l10n-name="chrome-icon-3dots"/> แล้วไปที่ รหัสผ่านและการป้อนข้อความอัตโนมัติ > เครื่องมือจัดการรหัสผ่านบน Google
+migration-chrome-windows-password-import-step2 = เลือก “การตั้งค่า” จากเมนู
+migration-chrome-windows-password-import-step3 = เลือก “ดาวน์โหลดไฟล์” แล้วบันทึกไฟล์นั้นลงในอุปกรณ์ของคุณ
+migration-chrome-windows-password-import-step4 = กลับมาที่นี่แล้ว “เลือกไฟล์” เพื่อนำเข้าให้เสร็จ
 migration-manual-password-import-skip-button = ข้าม
 migration-manual-password-import-select-button = เลือกไฟล์
 migration-safari-password-import-skip-button = ข้าม

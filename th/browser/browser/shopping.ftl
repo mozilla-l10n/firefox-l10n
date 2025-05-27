@@ -256,6 +256,18 @@ shopping-onboarding-welcome-steps-indicator-label =
 
 # Opt-in message strings for Review Checker when it is integrated into the global sidebar.
 shopping-opt-in-integrated-headline = ซื้อของอย่างมั่นใจ
+# Description text for regions where we support three sites. Sites are limited to Amazon, Walmart and Best Buy.
+# Variables:
+#   $firstSite (String) - The first shopping page name
+#   $secondSite (String) - The second shopping page name
+#   $thirdSite (String) - The third shopping page name
+shopping-opt-in-integrated-subtitle = เปิดเครื่องมือตรวจสอบบทวิจารณ์จาก { -brand-product-name } เพื่อดูว่าบทวิจารณ์ผลิตภัณฑ์น่าเชื่อถือแค่ไหนก่อนที่คุณจะตัดสินใจซื้อ เครื่องมือนี้ใช้เทคโนโลยี AI วิเคราะห์บทวิจารณ์และจะทำงานเมื่อคุณซื้อสินค้าบน { $firstSite }, { $secondSite } และ { $thirdSite } <a data-l10n-name="learn_more">เรียนรู้เพิ่มเติม</a>
+# Description text for regions where we support three sites. Sites are limited to Amazon, Walmart and Best Buy.
+# Variables:
+#   $firstSite (String) - The first shopping page name
+#   $secondSite (String) - The second shopping page name
+#   $thirdSite (String) - The third shopping page name
+shopping-opt-in-integrated-subtitle-unsupported-site = เครื่องมือตรวจสอบบทวิจารณ์จาก { -brand-product-name } ช่วยให้คุณรู้ได้ว่าบทวิจารณ์ของผลิตภัณฑ์นั้นน่าเชื่อถือแค่ไหน ก่อนที่คุณจะตัดสินใจซื้อ เครื่องมือนี้ใช้เทคโนโลยี AI วิเคราะห์บทวิจารณ์และจะทำงานเมื่อคุณซื้อสินค้าบน { $firstSite }, { $secondSite } และ { $thirdSite } <a data-l10n-name="learn_more">เรียนรู้เพิ่มเติม</a>
 
 ## Messages for callout for users not opted into the sidebar integrated version of Review Checker.
 
@@ -292,6 +304,8 @@ shopping-integrated-callout-no-logo-sidebar-closed-subtitle = เลือกป
 ## Review Checker in the sidebar is only available to US users at this time, so we can assume that the default position is on the left side.
 
 shopping-integrated-new-position-notification-title = เครื่องมือตรวจสอบบทวิจารณ์ตัวเดิม แต่ย้ายที่ใหม่
+shopping-integrated-new-position-notification-move-right-subtitle = ให้เครื่องมือตรวจสอบบทวิจารณ์และส่วนที่เหลือของแถบข้าง { -brand-product-name } แสดงที่นี่ หรือย้ายไปไว้ด้านขวา คุณสามารถสลับได้เลย หรือจะสลับทีหลังก็ได้ใน<a data-l10n-name="sidebar_settings">การตั้งค่าแถบข้าง</a>
+shopping-integrated-new-position-notification-move-left-subtitle = ให้เครื่องมือตรวจสอบบทวิจารณ์และส่วนที่เหลือของแถบข้าง { -brand-product-name } แสดงที่นี่ หรือย้ายไปไว้ด้านซ้าย คุณสามารถสลับได้เลย หรือจะสลับทีหลังก็ได้ใน<a data-l10n-name="sidebar_settings">การตั้งค่าแถบข้าง</a>
 shopping-integrated-new-position-notification-move-right-button = ย้ายไปทางขวา
 shopping-integrated-new-position-notification-move-left-button = ย้ายไปทางซ้าย
 shopping-integrated-new-position-notification-dismiss-button = เข้าใจแล้ว
