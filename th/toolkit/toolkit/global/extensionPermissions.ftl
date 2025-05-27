@@ -46,6 +46,30 @@ webext-perms-extra-warning-userScripts-short = สคริปต์ที่ไ
 ##
 ## This is used when the data collection permissions are required.
 
+webext-perms-description-data-short-authenticationInfo = ข้อมูลการยืนยันตัวตน
+webext-perms-description-data-short-bookmarksInfo = ที่คั่นหน้า
+webext-perms-description-data-short-browsingActivity = กิจกรรมการเรียกดู
+webext-perms-description-data-short-financialAndPaymentInfo = ข้อมูลการเงินและการชำระเงิน
+webext-perms-description-data-short-healthInfo = ข้อมูลสุขภาพ
+webext-perms-description-data-short-locationInfo = ตำแหน่งที่ตั้ง
+webext-perms-description-data-short-personalCommunications = การสื่อสารส่วนบุคคล
+webext-perms-description-data-short-personallyIdentifyingInfo = ข้อมูลที่ระบุตัวบุคคลได้
+webext-perms-description-data-short-searchTerms = คำค้นหา
+webext-perms-description-data-short-technicalAndInteraction = ข้อมูลทางเทคนิคและการโต้ตอบ
+webext-perms-description-data-short-websiteActivity = กิจกรรมเว็บไซต์
+webext-perms-description-data-short-websiteContent = เนื้อหาเว็บไซต์
 
 ## Long form to be used in `about:addons` when these data collection permissions are optional.
 
+webext-perms-description-data-long-authenticationInfo = แบ่งปันข้อมูลการยืนยันตัวตนกับผู้พัฒนาส่วนขยาย
+webext-perms-description-data-long-bookmarksInfo = แบ่งปันข้อมูลที่คั่นหน้ากับผู้พัฒนาส่วนขยาย
+webext-perms-description-data-long-browsingActivity = แบ่งปันข้อมูลกิจกรรมการเรียกดูกับผู้พัฒนาส่วนขยาย
+webext-perms-description-data-long-financialAndPaymentInfo = แบ่งปันข้อมูลการเงินและการชำระเงินกับผู้พัฒนาส่วนขยาย
+webext-perms-description-data-long-healthInfo = แบ่งปันข้อมูลสุขภาพกับผู้พัฒนาส่วนขยาย
+webext-perms-description-data-long-locationInfo = แบ่งปันข้อมูลตำแหน่งที่ตั้งกับผู้พัฒนาส่วนขยาย
+webext-perms-description-data-long-personalCommunications = แบ่งปันการสื่อสารส่วนบุคคลกับนักพัฒนาส่วนขยาย
+webext-perms-description-data-long-personallyIdentifyingInfo = แบ่งปันข้อมูลที่ระบุตัวบุคคลได้กับผู้พัฒนาส่วนขยาย
+webext-perms-description-data-long-searchTerms = แบ่งปันคำค้นหากับผู้พัฒนาส่วนขยาย
+webext-perms-description-data-long-technicalAndInteraction = แบ่งปันข้อมูลทางเทคนิคและการโต้ตอบกับผู้พัฒนาส่วนขยาย
+webext-perms-description-data-long-websiteActivity = แบ่งปันกิจกรรมเว็บไซต์กับผู้พัฒนาส่วนขยาย
+webext-perms-description-data-long-websiteContent = แบ่งปันเนื้อหาเว็บไซต์กับผู้พัฒนาส่วนขยาย
