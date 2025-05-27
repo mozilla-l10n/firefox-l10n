@@ -59,6 +59,10 @@ toolbar-context-menu-auto-hide-downloads-button-2 =
 toolbar-context-menu-always-open-downloads-panel =
     .label = 下载开始时显示面板
     .accesskey = S
+# Label of checkbox menu item to toggle visibility of Extensions Button.
+toolbar-context-menu-always-show-extensions-button =
+    .label = 总是在工具栏中显示
+    .accesskey = A
 toolbar-context-menu-remove-from-toolbar =
     .label = 从工具栏中移除
     .accesskey = R

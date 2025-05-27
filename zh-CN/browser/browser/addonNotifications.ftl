@@ -81,6 +81,8 @@ addon-removal-title = 确定要移除“{ $name }”吗？
 addon-removal-message = 移除 { -brand-shorter-name } 中的“{ $name }”吗？
 addon-removal-button = 移除
 addon-removal-abuse-report-checkbox = 向 { -vendor-short-name } 举报此扩展
+# "it" refers to the local AI model that is paired to the AI feature
+addon-mlmodel-removal-body = 在使用需依靠此模型运作的功能或扩展时，其将重新添加。
 # Variables:
 #   $addonCount (Number): the number of add-ons being downloaded
 addon-downloading-and-verifying = 正在下载并验证 { $addonCount } 个附加组件…

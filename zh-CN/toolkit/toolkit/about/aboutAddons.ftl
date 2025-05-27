@@ -545,6 +545,15 @@ addon-permissions-required-data-collection = 必要的数据收集：
 addon-permissions-optional-data-collection = 可选的数据收集：
 # Name of the Permissions tab in `about:addons` when the data collection feature is enabled.
 permissions-data-addon-button = 权限与数据
+# This is a description for extension that use this AI model
+# Variables:
+#   $extensionName (String) - Name of the extension
+mlmodel-extension-label = 扩展“{ $extensionName }”使用此模型
 
 ## Mapping Engine IDs from AI models to how that feature represented by the engine Id is described in the used by section in local model management
 
+mlmodel-about-inference = { -brand-short-name } 在 about:inference 中使用此模型
+mlmodel-link-preview = { -brand-short-name } 使用此模型在您预览链接时列举要点
+mlmodel-pdfjs = { -brand-short-name } 使用此模型为您添加到 PDF 的图像创建替换文字
+mlmodel-smart-tab-topic-engine = { -brand-short-name } 使用此模型建议标签页群组名称
+mlmodel-smart-tab-embedding-engine = { -brand-short-name } 使用此模型为标签页群组建议标签页
