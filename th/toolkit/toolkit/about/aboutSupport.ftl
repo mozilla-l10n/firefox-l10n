@@ -15,6 +15,10 @@ support-addons-type = ชนิด
 support-addons-enabled = ถูกเปิดใช้งาน
 support-addons-version = รุ่น
 support-addons-id = ID
+# In the add-on world, locations are where the addon files are stored. Each
+# location has name. For instance: app-system-addons, app-builtin,
+# app-temporary, etc.
+support-addons-location-name = ตำแหน่งที่ตั้ง
 legacy-user-stylesheets-title = สไตล์ชีตผู้ใช้แบบเดิม
 legacy-user-stylesheets-enabled = ใช้งานอยู่
 legacy-user-stylesheets-stylesheet-types = สไตล์ชีต

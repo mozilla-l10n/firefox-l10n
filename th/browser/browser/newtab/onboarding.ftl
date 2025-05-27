@@ -25,6 +25,8 @@ return-to-amo-subtitle = เยี่ยม คุณได้ติดตั้
 return-to-amo-addon-title = ตอนนี้มาติดตั้ง <img data-l10n-name="icon"/> <b>{ $addon-name }</b> กันเลย
 return-to-amo-add-extension-label = เพิ่มส่วนขยาย
 return-to-amo-add-theme-label = เพิ่มชุดตกแต่ง
+return-to-amo-theme-install-complete-label = ติดตั้งชุดตกแต่งแล้ว
+return-to-amo-extension-install-complete-label = ติดตั้งส่วนขยายแล้ว
 
 ##  Variables: $addon-name (String) - Name of the add-on to be installed
 
