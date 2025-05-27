@@ -26,4 +26,4 @@ identity-credential-sign-in-button =
     .label = Prijavi se
     .accesskey = P
 identity-credential-policy-title = Koristi { $provider } kao pružatelja usluge prijave
-identity-credential-policy-description = Prijava na { $host } s { $provider } računom podliježe njihovim <label data-l10n-name="privacy-url">pravilima o privatnosti</label> i <label data-l10n-name="tos-url">uvjetima usluge</label>.
+identity-credential-policy-description = Prijava na { $host } s { $provider } računom podliježe njihovim <label data-l10n-name="privacy-url">politikama privatnosti</label> i <label data-l10n-name="tos-url">uvjetima usluge</label>.
