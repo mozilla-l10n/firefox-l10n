@@ -66,8 +66,30 @@ about-logging-unknown-profiler-preset = ไม่รู้จักค่าท�
 about-logging-unknown-option = ไม่รู้จักตัวเลือก about:logging “{ $k }“
 about-logging-configuration-url-ignored = เพิกเฉย URL การกำหนดค่าแล้ว
 about-logging-file-and-profiler-override = ไม่สามารถบังคับให้ส่งออกไฟล์และแทนที่ตัวเลือกตัวสร้างโปรไฟล์พร้อมกันได้
+# Variables:
+#   $errorText (string) - The received error message, inserted as is.
+about-logging-unknown-error = เกิดข้อผิดพลาด: { $errorText }
 about-logging-configured-via-url = ตัวเลือกที่กำหนดค่าผ่าน URL
 
 ## The upload interface is shown only with the preference toolkit.aboutLogging.uploadProfileToCloud
 ## set to true. It is false by default, except on Android.
 
+about-logging-upload-question = ข้อมูลโปรไฟล์ได้ถูกตรวจจับแล้ว คุณต้องการบันทึกหรืออัปโหลดข้อมูลนี้?
+about-logging-save-button = บันทึก
+about-logging-upload-button = อัปโหลด
+# Variables:
+#   $path (string) - The path where the profile can be found.
+about-logging-saved = บันทึกลงใน { $path } แล้ว
+# Variables:
+#   $percent (number) - The upload completion progress, to be displayed as a percentage. This is a value between 0 and 1.
+about-logging-uploading-progress = กำลังอัปโหลดข้อมูลโปรไฟล์: { NUMBER($percent, maximumSignificantDigits: 2, style: "percent") }
+# Variables:
+#   $url (string) - The URL where the profile can be found
+about-logging-uploaded = อัปโหลดไปยัง <a data-l10n-name="uploaded-message-url">{ $url }</a> แล้ว
+about-logging-share-uploaded-url = <img data-l10n-name="share-image"/> แบ่งปัน URL
+# Variables:
+#   $errorText (string) - The received error message, inserted as is.
+about-logging-upload-error = เกิดข้อผิดพลาดขณะอัปโหลดโปรไฟล์: { $errorText }
+# Variables:
+#   $errorText (string) - The received error message, inserted as is.
+about-logging-save-error = เกิดข้อผิดพลาดขณะบันทึกไฟล์: { $errorText }
