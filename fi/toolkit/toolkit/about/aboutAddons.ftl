@@ -557,6 +557,7 @@ plugins-widevine-description = Tämä liitännäinen mahdollistaa Encrypted Medi
 ## Headings for the Permissions tab in `about:addons` when the data collection
 ## feature is enabled.
 
+addon-permissions-required-data-collection = Pakollinen tiedonkeruu:
 
 ## Mapping Engine IDs from AI models to how that feature represented by the engine Id is described in the used by section in local model management
 

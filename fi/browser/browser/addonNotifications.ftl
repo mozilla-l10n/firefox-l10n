@@ -81,6 +81,8 @@ addon-removal-title = Poistetaanko { $name }?
 addon-removal-message = Poistetaanko ”{ $name }” { -brand-shorter-name }-selaimesta?
 addon-removal-button = Poista
 addon-removal-abuse-report-checkbox = Raportoi tämä laajennus { -vendor-short-name }lle
+# "it" refers to the local AI model that is paired to the AI feature
+addon-mlmodel-removal-body = Jos käytät tämän mallin ominaisuuksia tai mallia käyttäviä laajennuksia, se lisätään uudelleen.
 # Variables:
 #   $addonCount (Number): the number of add-ons being downloaded
 addon-downloading-and-verifying =
