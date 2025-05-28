@@ -127,7 +127,12 @@ cert-error-path-len-constraint-invalid = ‏{ -brand-short-name } חסם את ה
 cert-error-invalid-key = ‏{ -brand-short-name } חסם את הביקור שלך לאתר זה מכיוון שלאישור האבטחה שסופק עבור { $hostname } יש מפתח שאינו חוקי. סביר להניח שהוא קטן מדי כדי להיות מאובטח.
 cert-error-unknown-critical-extension = ‏{ -brand-short-name } חסם את הביקור שלך לאתר זה מכיוון שאישור האבטחה שסופק עבור { $hostname } מכיל הרחבה קריטית שאינה נתמכת.
 cert-error-extension-value-invalid = ‏{ -brand-short-name } חסם את הביקור שלך לאתר זה מכיוון שאישור האבטחה שסופק עבור { $hostname } מכיל הרחבה לא חוקית.
+cert-error-untrusted-issuer = ‏{ -brand-short-name } חסם את הביקור שלך לאתר זה מכיוון שאישור האבטחה שסופק עבור { $hostname } סופק על־ידי רשות אישורים שאינה מהימנה יותר.
+cert-error-untrusted-cert = ‏{ -brand-short-name } חסם את הביקור שלך לאתר זה מכיוון שאישור האבטחה שסופק עבור { $hostname } מסומן כלא מהימן.
 cert-error-invalid-integer-encoding = ‏{ -brand-short-name } חסם את הביקור שלך לאתר זה מכיוון שאישור האבטחה שסופק עבור { $hostname } מכיל קידוד שגוי של מספר שלם וחיובי. הסיבות הנפוצות לכך הן מספרי סידוריים שליליים, שאריות שליליות של RSA וקידודים ארוכים מהנדרש.
+cert-error-unsupported-keyalg = ‏{ -brand-short-name } חסם את הביקור שלך לאתר זה מכיוון שאישור האבטחה שסופק עבור { $hostname } מכיל סוג מפתח שאינו נתמך.
+cert-error-issuer-no-longer-trusted = ‏{ -brand-short-name } חסם את הביקור שלך לאתר זה מכיוון שרשות האישורים שהנפיקה את אישור האבטחה שסופק עבור { $hostname } אינה מהימנה יותר.
+cert-error-signature-algorithm-mismatch = ‏{ -brand-short-name } חסם את הביקור שלך לאתר זה מכיוון שאלגוריתם החתימה של אישור האבטחה שסופק עבור { $hostname } אינו תואם לשדה אלגוריתם החתימה שלו.
 
 ## Messages used for certificate error titles
 
