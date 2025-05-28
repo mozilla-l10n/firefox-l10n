@@ -92,3 +92,15 @@ add-engine-missing-terms-post-data = Arama teriminin yerine %s eklemeyi deneyin.
 
 ## The following strings are used as labels for the dialog's buttons.
 
+# buttonlabelextra1 is the label of a button to open the advanced section
+# of the dialog.
+add-engine-dialog2 =
+    .buttonlabelaccept = Motoru ekle
+    .buttonaccesskeyaccept = M
+    .buttonlabelextra1 = Gelişmiş
+# buttonlabelextra1 is the label of a button to open the advanced section
+# of the dialog.
+edit-engine-dialog =
+    .buttonlabelaccept = Motoru kaydet
+    .buttonaccesskeyaccept = M
+    .buttonlabelextra1 = Gelişmiş
