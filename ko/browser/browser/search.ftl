@@ -83,6 +83,11 @@ add-engine-keyword-placeholder =
 
 ## The following strings are used as error messages.
 
+add-engine-keyword-exists = 이 키워드는 이미 사용 중입니다. 다른 것을 시도해 보세요.
+add-engine-name-exists = 이미 사용 중인 이름입니다. 다른 것을 선택하세요.
+add-engine-no-name = 이름을 추가하세요.
+add-engine-no-url = URL을 입력하세요.
+add-engine-invalid-url = 해당 URL이 올바르지 않습니다. 확인 후 다시 시도해 주세요.
 
 ## The following strings are used as labels for the dialog's buttons.
 

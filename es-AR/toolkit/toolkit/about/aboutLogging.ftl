@@ -15,6 +15,8 @@ about-logging-set-log-file = Establecer archivo de registro
 about-logging-set-log-modules = Establecer módulos de registro
 about-logging-start-logging = Iniciar registro
 about-logging-stop-logging = Detener registro
+about-logging-copy-as-url = Copiar configuración actual como URL
+about-logging-url-copied = Configuración de registro copiada al portapapeles como URL preestablecida
 about-logging-buttons-disabled = Registro configurado a través de variables de entorno, configuración dinámica no disponible.
 about-logging-some-elements-disabled = Registro configurado a través de URL, algunas opciones de configuración no están disponibles
 about-logging-info = Información:
@@ -27,6 +29,8 @@ about-logging-no-log-modules = Ninguno
 about-logging-no-log-file = Ninguno
 about-logging-logging-preset-selector-text = Registro preestablecido:
 about-logging-with-profiler-stacks-checkbox = Habilitar seguimientos de pila para mensajes de registro
+about-logging-menu =
+    .title = Opciones avanzadas
 
 ## Logging presets
 
