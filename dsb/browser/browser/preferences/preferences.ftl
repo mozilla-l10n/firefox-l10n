@@ -729,6 +729,9 @@ search-remove-engine =
 search-add-engine =
     .label = Pśidaś
     .accesskey = P
+search-edit-engine =
+    .label = Wobźěłaś
+    .accesskey = b
 search-find-more-link = Dalšne pytnice pytaś
 # This warning is displayed when the chosen keyword is already in use
 # ('Duplicate' is an adjective)

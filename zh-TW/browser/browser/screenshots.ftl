@@ -66,6 +66,11 @@ screenshots-component-copy-button-2 = 複製
 screenshots-component-download-button-2 = 下載
     .title = 下載（{ $shortcut }）
     .aria-label = 下載
+# Variables
+#   $shortcut (String) - A keyboard shortcut for the screenshot command.
+screenshot-toolbar-button =
+    .label = 畫面擷圖
+    .tooltiptext = 拍攝畫面擷圖（{ $shortcut }）
 
 ## The below strings are used to capture keydown events so the strings should
 ## not be changed unless the keyboard layout in the locale requires it.

@@ -121,6 +121,10 @@ cert-error-revoked-certificate = 由於簽發給 { $hostname } 的憑證已遭�
 cert-error-bad-signature = 由於簽發給 { $hostname } 的憑證簽章無效，{ -brand-short-name } 封鎖了您對此網站的造訪。
 cert-error-key-pinning-failure = 由於簽發給 { $hostname } 的憑證使用了未預期的公鑰，{ -brand-short-name } 封鎖了您對此網站的造訪。
 cert-error-bad-der = 由於簽發給 { $hostname } 的憑證並未正確編碼，{ -brand-short-name } 封鎖了您對此網站的造訪。
+cert-error-cert-not-in-name-space = 由於簽發給 { $hostname } 的憑證並未遵循簽發者的名稱限制，{ -brand-short-name } 封鎖了您對此網站的造訪。
+cert-error-inadequate-cert-type = 由於簽發給 { $hostname } 的憑證並未被允許做為網站伺服器使用，{ -brand-short-name } 封鎖了您對此網站的造訪。
+cert-error-path-len-constraint-invalid = 由於簽發給 { $hostname } 的憑證與根憑證間的路徑有太多中介憑證，{ -brand-short-name } 封鎖了您對此網站的造訪。
+cert-error-invalid-key = 由於簽發給 { $hostname } 的憑證金鑰無效（最常見的原因是金鑰太小，不夠安全），{ -brand-short-name } 封鎖了您對此網站的造訪。
 
 ## Messages used for certificate error titles
 

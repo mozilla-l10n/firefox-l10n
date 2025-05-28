@@ -723,6 +723,10 @@ search-keyword-warning-title = 關鍵字重複
 #   $name (string) - Name of a search engine.
 search-keyword-warning-engine = 您選用的關鍵字目前正被「{ $name }」所使用，請另選一個。
 search-keyword-warning-bookmark = 您選用的關鍵字目前正被書籤項目所使用，請另選一個。
+# This warning is displayed when the chosen name is already in use.
+# Variables:
+#   $name (string) - Name of a search engine.
+edit-engine-name-warning-duplicate = 已有名稱為「{ $name }」的搜尋引擎，請改用其他名稱。
 remove-engine-confirmation = 您確定要刪除此搜尋引擎嗎？
 remove-engine-remove = 移除
 remove-addon-engine-alert = 若要移除此搜尋引擎，請先移除相關的附加元件。

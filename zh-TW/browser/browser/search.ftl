@@ -63,6 +63,7 @@ add-engine-url2 = 網址（使用 %s 取代搜尋詞彙部分）
 add-engine-keyword2 = 關鍵字（選填）
 # POST and GET refer to the HTTP methods.
 add-engine-post-data = POST 資料（使用 %s 取代搜尋詞彙部分，若使用 GET 方法請留空）
+add-engine-suggest-url = 搜尋建議網址（使用 %s 取代搜尋詞彙部分，選填）
 add-engine-keyword = 關鍵字
 add-engine-url = 搜尋引擎網址，使用 %s 放置在要被取代為搜尋詞彙的位置
 add-engine-dialog =
@@ -82,9 +83,16 @@ add-engine-keyword-placeholder =
 
 ## The following strings are used as error messages.
 
+add-engine-keyword-exists = 該關鍵字已被使用，請改用其他關鍵字。
+add-engine-name-exists = 該名稱已被使用，請改用其他名稱。
 add-engine-no-name = 請輸入名稱。
 add-engine-no-url = 請輸入網址。
 add-engine-invalid-url = 網址看起來不正確，請確認後再試一次。
+add-engine-invalid-protocol = 網址看來不正確，請使用以 http 或 https 開頭的網址。
+# This error is shown when the user typed URL is missing %s.
+add-engine-missing-terms-url = 請將 %s 放置於搜尋詞彙的位置，搜尋時就會自動取代。
+# This error is shown when the user typed post data is missing %s.
+add-engine-missing-terms-post-data = 請將 %s 放置於搜尋詞彙的位置，搜尋時就會自動取代。
 
 ## The following strings are used as labels for the dialog's buttons.
 

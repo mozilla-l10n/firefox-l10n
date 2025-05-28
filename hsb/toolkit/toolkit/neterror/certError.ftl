@@ -127,9 +127,11 @@ cert-error-path-len-constraint-invalid = { -brand-short-name } je waš wopyt na 
 cert-error-invalid-key = { -brand-short-name } je waš wopyt na tutym sydle zablokował, dokelž certifikat, kotryž je so za { $hostname } k dispoziciji stajił, ma njepłaćiwy kluč. Najskerje je přemały, zo by wěsty był.
 cert-error-unknown-critical-extension = { -brand-short-name } je waš wopyt na tutym sydle zablokował, dokelž certifikat, kotryž je so za { $hostname } k dispoziciji stajił, njepodpěrane kritiske rozšěrjenje wobsahuje.
 cert-error-extension-value-invalid = { -brand-short-name } je waš wopyt na tutym sydle zablokował, dokelž certifikat, kotryž je so za { $hostname } k dispoziciji stajił, njepłaćiwe rozšěrjenje wobsahuje.
+cert-error-untrusted-issuer = { -brand-short-name } je waš wopyt na tutym sydle zablokował, dokelž certifikat, kotryž je so za { $hostname } k dispoziciji stajił, kotryž je so wot certifikowanskeje awtority wudał, kotraž hižo dowěry hódna njeje.
 cert-error-untrusted-cert = { -brand-short-name } je waš wopyt na tutym sydle zablokował, dokelž certifikat, kotryž je so za { $hostname } k dispoziciji stajił, je jako dowěry njehódny markěrowany.
 cert-error-invalid-integer-encoding = { -brand-short-name } je waš wopyt na tutym sydle zablokował, dokelž certifikat, kotryž je so za { $hostname } k dispoziciji stajił, njepłaćiwe kodowanje cyłeje ličby wobsahuje. Huste zawiny móža być: negatiwne serijowe čisła, negatiwne RSA-module a kodowanja, kotrež su dlěše hač trěbne.
 cert-error-unsupported-keyalg = { -brand-short-name } je waš wopyt na tutym sydle zablokował, dokelž certifikat, kotryž je so za { $hostname } k dispoziciji stajił, ma njepodpěrany klučowy typ.
+cert-error-issuer-no-longer-trusted = { -brand-short-name } je waš wopyt na tutym sydle zablokował, dokelž certifikowanska awtorita, kotraž je certifikat wudał, kotryž so za { $hostname } k dispoziciji stajił, hižo dowěry hódna njeje.
 cert-error-signature-algorithm-mismatch = { -brand-short-name } je waš wopyt na tutym sydle zablokował, dokelž algoritmus signatury certifikata, kotryž je so za { $hostname } k dispoziciji stajił, polu algoritmusa signatury njewotpowěduje.
 
 ## Messages used for certificate error titles
