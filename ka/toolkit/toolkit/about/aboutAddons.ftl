@@ -572,6 +572,11 @@ mlmodel-extension-label = იყენებს გაფართოება {
 
 ## Mapping Engine IDs from AI models to how that feature represented by the engine Id is described in the used by section in local model management
 
+mlmodel-about-inference = { -brand-short-name } იყენებს გვერდისთვის about:inference
+mlmodel-link-preview = { -brand-short-name } იყენებს ბმულების შეთვალიერებისას საკვანძო საკითხების გამოსაყოფად.
+mlmodel-pdfjs = { -brand-short-name } იყენებს PDF-ში ჩასასმელ სურათზე დართული წარწერის შესაქმნელად
+mlmodel-smart-tab-topic-engine = { -brand-short-name } იყენებს თქვენი ჩანართების ჯგუფებისთვის სახელების შემოსათავაზებლად
+mlmodel-smart-tab-embedding-engine = { -brand-short-name } იყენებს ჩანართების ჯგუფებში დასამატებელი ჩანართების შემოსათავაზებლად
 # AI Model will be downloaded on the users device and used locally
 addon-category-mlmodel = მოწყობილობაზე გაშვებული AI
 addon-category-mlmodel-title =

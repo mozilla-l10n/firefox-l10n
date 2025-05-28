@@ -59,6 +59,10 @@ toolbar-context-menu-auto-hide-downloads-button-2 =
 toolbar-context-menu-always-open-downloads-panel =
     .label = გამოჩნდეს ჩამოტვირთვის დაწყებისას
     .accesskey = ტ
+# Label of checkbox menu item to toggle visibility of Extensions Button.
+toolbar-context-menu-always-show-extensions-button =
+    .label = ყოველთვის ჩანდეს ხელსაწყოთა ზოლზე
+    .accesskey = ყ
 toolbar-context-menu-remove-from-toolbar =
     .label = ხელსაწყოთა ზოლიდან მოცილება
     .accesskey = ა
