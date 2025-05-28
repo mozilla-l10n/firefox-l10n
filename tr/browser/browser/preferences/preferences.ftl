@@ -721,6 +721,9 @@ search-remove-engine =
 search-add-engine =
     .label = Ekle
     .accesskey = E
+search-edit-engine =
+    .label = Düzenle
+    .accesskey = D
 search-find-more-link = Daha fazla arama motoru bul
 # This warning is displayed when the chosen keyword is already in use
 # ('Duplicate' is an adjective)
@@ -729,6 +732,10 @@ search-keyword-warning-title = Tekrarlanan Anahtar Kelime
 #   $name (string) - Name of a search engine.
 search-keyword-warning-engine = Şu anda “{ $name }” tarafından kullanılan bir anahtar kelime seçtiniz. Lütfen başka bir şey seçin.
 search-keyword-warning-bookmark = Şu anda bir yer imi tarafından kullanılan bir anahtar kelime seçtiniz. Lütfen başka bir şey seçin.
+# This warning is displayed when the chosen name is already in use.
+# Variables:
+#   $name (string) - Name of a search engine.
+edit-engine-name-warning-duplicate = “{ $name }” adında bir arama motoru zaten var. Lütfen başka bir ad seçin.
 remove-engine-confirmation = Bu arama motorunu silmek istediğinizden emin misiniz?
 remove-engine-remove = Sil
 remove-addon-engine-alert = Bu arama motorunu silebilmek için ilgili eklentiyi kaldırın.

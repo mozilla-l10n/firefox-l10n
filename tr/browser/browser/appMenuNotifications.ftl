@@ -47,6 +47,9 @@ appmenu-addon-post-install-message3 = Eklentilerinizi ve temalarınızı uygulam
 # This string is used in the confirmation popup displayed after an extension
 # has been installed, when the data collection feature is enabled.
 appmenu-addon-post-install-message-with-data-collection = İzinleri ve veri tercihlerini istediğiniz zaman <a data-l10n-name="settings-link">uzantı ayarlarından</a> güncelleyebilirsiniz.
+appmenu-addon-post-install-pin-toolbarbutton-checkbox =
+    .label = Uzantıyı araç çubuğuna sabitle
+    .accesskey = U
 appmenu-addon-post-install-incognito-checkbox =
     .label = Bu uzantının gizli pencerelerde çalışmasına izin ver
     .accesskey = B

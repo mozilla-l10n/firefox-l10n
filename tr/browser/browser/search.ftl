@@ -54,8 +54,12 @@ install-search-engine-no = Ekleme
 add-engine-window =
     .title = Arama motoru ekle
     .style = min-width: 32em;
+edit-engine-window =
+    .title = Arama motorunu düzenle
+    .style = min-width: 32em;
 add-engine-button = Özel motor ekle
 add-engine-name = Arama motoru adı
+add-engine-keyword2 = Anahtar kelime (isteğe bağlı)
 add-engine-keyword = Anahtar kelime
 add-engine-url = Motor adresi. Aranacak terim yerine %s koyun
 add-engine-dialog =
@@ -66,6 +70,12 @@ engine-keyword-exists = Bu anahtar kelimeyi kullanan bir motor zaten var
 
 ## The following placeholders are shown in the inputs when adding a new engine.
 
+add-engine-name-placeholder =
+    .placeholder = örnek: Mozilla Developer Network
+add-engine-url-placeholder =
+    .placeholder = örnek: https://developer.mozilla.com/search?q=%s
+add-engine-keyword-placeholder =
+    .placeholder = örnek: @mdn
 
 ## The following strings are used as error messages.
 

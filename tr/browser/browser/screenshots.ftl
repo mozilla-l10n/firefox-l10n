@@ -66,6 +66,11 @@ screenshots-component-copy-button-2 = Kopyala
 screenshots-component-download-button-2 = İndir
     .title = İndir ({ $shortcut })
     .aria-label = İndir
+# Variables
+#   $shortcut (String) - A keyboard shortcut for the screenshot command.
+screenshot-toolbar-button =
+    .label = Ekran görüntüsü
+    .tooltiptext = Ekran görüntüsü al ({ $shortcut })
 
 ## The below strings are used to capture keydown events so the strings should
 ## not be changed unless the keyboard layout in the locale requires it.
