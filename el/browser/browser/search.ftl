@@ -79,6 +79,14 @@ add-engine-keyword-placeholder =
 
 ## The following strings are used as error messages.
 
+add-engine-no-name = Παρακαλούμε προσθέστε όνομα.
+add-engine-no-url = Παρακαλώ εισάγετε ένα URL.
+add-engine-invalid-url = Αυτό το URL δεν φαίνεται σωστό. Παρακαλούμε ελέγξτε το και δοκιμάστε ξανά.
+add-engine-invalid-protocol = Αυτό το URL δεν φαίνεται σωστό. Χρησιμοποιήστε URL που ξεκινά με http ή https.
+# This error is shown when the user typed URL is missing %s.
+add-engine-missing-terms-url = Δοκιμάστε να συμπεριλάβετε το %s στη θέση του όρου αναζήτησης.
+# This error is shown when the user typed post data is missing %s.
+add-engine-missing-terms-post-data = Δοκιμάστε να συμπεριλάβετε το %s στη θέση του όρου αναζήτησης.
 
 ## The following strings are used as labels for the dialog's buttons.
 

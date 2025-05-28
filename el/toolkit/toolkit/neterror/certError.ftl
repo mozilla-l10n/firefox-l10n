@@ -117,6 +117,12 @@ fp-learn-more-about-time-related-errors = Μάθετε περισσότερα σ
 ## Variables:
 ##   $hostname (string) - Hostname of the website with cert error.
 
+cert-error-revoked-certificate = Το { -brand-short-name } απέκλεισε την επίσκεψή σας σε αυτόν τον ιστότοπο, επειδή το πιστοποιητικό του { $hostname } έχει ανακληθεί και δεν είναι πλέον αξιόπιστο.
+cert-error-bad-signature = Το { -brand-short-name } απέκλεισε την επίσκεψή σας σε αυτόν τον ιστότοπο, επειδή η υπογραφή στο πιστοποιητικό για το { $hostname } δεν είναι έγκυρη.
+cert-error-key-pinning-failure = Το { -brand-short-name } απέκλεισε την επίσκεψή σας σε αυτόν τον ιστότοπο, επειδή το πιστοποιητικό για το { $hostname } χρησιμοποιεί διαφορετικό δημόσιο κλειδί από το αναμενόμενο.
+cert-error-bad-der = Το { -brand-short-name } απέκλεισε την επίσκεψή σας σε αυτόν τον ιστότοπο, επειδή το πιστοποιητικό του { $hostname } δεν έχει κωδικοποιηθεί σωστά.
+cert-error-inadequate-cert-type = Το { -brand-short-name } απέκλεισε την επίσκεψή σας σε αυτόν τον ιστότοπο, επειδή δεν επιτρέπεται η χρήση του πιστοποιητικού για το { $hostname } από διακομιστή ιστού.
+cert-error-invalid-key = Το { -brand-short-name } απέκλεισε την επίσκεψή σας σε αυτόν τον ιστότοπο, επειδή το πιστοποιητικό για το { $hostname } δεν έχει έγκυρο κλειδί. Πιθανότατα, είναι πολύ μικρό για να είναι ασφαλές.
 
 ## Messages used for certificate error titles
 

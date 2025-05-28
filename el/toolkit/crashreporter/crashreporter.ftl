@@ -51,3 +51,4 @@ crashreporter-error-no-home-dir = Απουσία αρχικού καταλόγο
 # $to (String) - the destination path
 crashreporter-error-moving-path = Αποτυχία μετακίνησης από { $from } σε { $to }
 crashreporter-error-version-eol = Λήξη ισχύος έκδοσης: οι αναφορές καταρρεύσεων δεν γίνονται πλέον αποδεκτές.
+crashreporter-error-failed-to-generate-minidump = Η εφαρμογή απέτυχε να δημιουργήσει πληροφορίες κατάρρευσης.
