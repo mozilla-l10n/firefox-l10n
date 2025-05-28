@@ -66,6 +66,11 @@ screenshots-component-copy-button-2 = Нусха бардоштан
 screenshots-component-download-button-2 = Боргирӣ кардан
     .title = Боргирӣ кардан (тугмаи «{ $shortcut }»)
     .aria-label = Боргирӣ кардан
+# Variables
+#   $shortcut (String) - A keyboard shortcut for the screenshot command.
+screenshot-toolbar-button =
+    .label = Акси экран
+    .tooltiptext = Гирифтани акси экран ({ $shortcut })
 
 ## The below strings are used to capture keydown events so the strings should
 ## not be changed unless the keyboard layout in the locale requires it.

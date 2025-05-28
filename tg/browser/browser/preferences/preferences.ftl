@@ -720,6 +720,9 @@ search-remove-engine =
 search-add-engine =
     .label = Илова кардан
     .accesskey = И
+search-edit-engine =
+    .label = Таҳрир кардан
+    .accesskey = Т
 search-find-more-link = Ёфтани низомҳои ҷустуҷӯии бештар
 # This warning is displayed when the chosen keyword is already in use
 # ('Duplicate' is an adjective)
