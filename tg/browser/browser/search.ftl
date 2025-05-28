@@ -70,9 +70,31 @@ engine-keyword-exists = Низоми ҷустуҷӯӣ бо чунин калим
 
 ## The following placeholders are shown in the inputs when adding a new engine.
 
+add-engine-name-placeholder =
+    .placeholder = барои мисол, Шабакаи барномасозони «Mozilla»
+add-engine-url-placeholder =
+    .placeholder = барои мисол, https://developer.mozilla.com/search?q=%s
+add-engine-keyword-placeholder =
+    .placeholder = барои мисол, @mdn
 
 ## The following strings are used as error messages.
 
+add-engine-no-name = Лутфан, номеро илова кунед.
+add-engine-no-url = Лутфан, нишонии «URL»-ро ворид кунед.
+add-engine-invalid-url = Чунин ба назар мерасад, ки ин нишонии «URL» нодуруст аст. Лутфан, онро санҷед ва аз нав кӯшиш намоед.
+add-engine-invalid-protocol = Чунин ба назар мерасад, ки ин нишонии «URL» нодуруст аст. Лутфан, нишонии «URL»-ро истифода баред, ки бо «http» ё «https» сар мешавад.
 
 ## The following strings are used as labels for the dialog's buttons.
 
+# buttonlabelextra1 is the label of a button to open the advanced section
+# of the dialog.
+add-engine-dialog2 =
+    .buttonlabelaccept = Илова кардани низоми ҷустуҷӯӣ
+    .buttonaccesskeyaccept = И
+    .buttonlabelextra1 = Иловагӣ
+# buttonlabelextra1 is the label of a button to open the advanced section
+# of the dialog.
+edit-engine-dialog =
+    .buttonlabelaccept = Нигоҳ доштани низоми ҷустуҷӯӣ
+    .buttonaccesskeyaccept = Н
+    .buttonlabelextra1 = Иловагӣ
