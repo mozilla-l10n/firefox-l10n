@@ -651,6 +651,9 @@ home-prefs-weather-header =
     .label = It waar
 home-prefs-weather-description = It waar fan hjoed yn ien eachopslach.
 home-prefs-weather-learn-more-link = Mear ynfo
+# "Support" here means to help sustain or contribute to something, especially through funding or sponsorship.
+home-prefs-support-firefox-header =
+    .label = { -brand-product-name } stypje
 home-prefs-mission-message = Us sponsors stypje ús misje om in better web te bouwen
 home-prefs-mission-message-learn-more-link = Lês hjir hoe
 # Variables:
@@ -721,6 +724,9 @@ search-remove-engine =
 search-add-engine =
     .label = Tafoegje
     .accesskey = T
+search-edit-engine =
+    .label = Bewurkje
+    .accesskey = w
 search-find-more-link = Mear sykmasinen fine
 # This warning is displayed when the chosen keyword is already in use
 # ('Duplicate' is an adjective)
@@ -729,6 +735,10 @@ search-keyword-warning-title = Dûbel kaaiwurd
 #   $name (string) - Name of a search engine.
 search-keyword-warning-engine = Jo hawwe in kaaiwurd keazen dat op dit stuit yn gebrûk is troch ‘{ $name }’. Selektearje asjebleaft in oar.
 search-keyword-warning-bookmark = Jo hawwe in kaaiwurd keazen dat op dit stuit yn gebrûk is troch in blêdwizer. Selektearje asjebleaft in oar.
+# This warning is displayed when the chosen name is already in use.
+# Variables:
+#   $name (string) - Name of a search engine.
+edit-engine-name-warning-duplicate = Der is al in sykmasine mei de namme ‘{ $name }’. Kies in oare namme.
 remove-engine-confirmation = Binne jo wis dat jo dizze sykmasine fuortsmite wolle?
 remove-engine-remove = Fuortsmite
 remove-addon-engine-alert = Smyt de assosjearre add-on fuort om dizze sykmasine fuort te smiten.

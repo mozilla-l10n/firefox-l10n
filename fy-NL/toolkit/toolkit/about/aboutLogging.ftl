@@ -27,6 +27,8 @@ about-logging-no-log-modules = Gjin
 about-logging-no-log-file = Gjin
 about-logging-logging-preset-selector-text = Foarynstelling logging:
 about-logging-with-profiler-stacks-checkbox = Stacktraces foar lochboekberjochten ynskeakelje
+about-logging-menu =
+    .title = Avansearre opsjes
 
 ## Logging presets
 

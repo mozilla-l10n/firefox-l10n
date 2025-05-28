@@ -579,3 +579,20 @@ mlmodel-link-preview = { -brand-short-name } brûkt dit om wichtige punten te ge
 mlmodel-pdfjs = { -brand-short-name } brûkt dit om alt-tekst te meitsjen foar ôfbyldingen dy’t jo oan PDF’s tafoegje
 mlmodel-smart-tab-topic-engine = { -brand-short-name } brûkt dit om nammen foar jo ljepblêdgroepen foar te stellen
 mlmodel-smart-tab-embedding-engine = { -brand-short-name } brûkt dit om ljepblêden foar jo ljepblêdgroepen foar te stellen
+# AI Model will be downloaded on the users device and used locally
+addon-category-mlmodel = AI op apparaat
+addon-category-mlmodel-title =
+    .title = AI op apparaat
+mlmodel-heading = AI-modellen op apparaat beheare
+# Label for button that when clicked removed local model
+mlmodel-remove-addon-button =
+    .aria-label = Fuortsmite
+# Label for the aggregated value of all files for a model
+mlmodel-addon-detail-totalsize-label = Bestânsgrutte
+mlmodel-addon-detail-last-used-label = Lêst brûkt
+# This is a section label to describe what extensions or features use a specific local AI model
+mlmodel-addon-detail-used-by-label = Brûkt troch
+# This is a section label to describe the link to the model card on the Hugging Face website
+mlmodel-addon-detail-model-card = Modelkaart
+# This is a label for the Model Card link to Hugging face
+mlmodel-addon-detail-model-card-link-label = Besjen op Hugging Face

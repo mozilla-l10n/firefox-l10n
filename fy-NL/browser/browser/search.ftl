@@ -54,8 +54,13 @@ install-search-engine-no = Nee
 add-engine-window =
     .title = Sykmasine tafoegje
     .style = min-width: 32em;
+edit-engine-window =
+    .title = Sykmasine bewurkje
+    .style = min-width: 32em;
 add-engine-button = Oanpaste sykmasine tafoegje…
 add-engine-name = Namme sykmasine
+add-engine-url2 = URL mei %s op it plak fan de sykterm
+add-engine-keyword2 = Trefwurd (opsjoneel)
 add-engine-keyword = Trefwurd
 add-engine-url = URL fan sykmasine, brûk %s op it plak fan de sykterm
 add-engine-dialog =
@@ -66,9 +71,23 @@ engine-keyword-exists = Der bestiet al in sykmasine mei dat trefwurd
 
 ## The following placeholders are shown in the inputs when adding a new engine.
 
+add-engine-name-placeholder =
+    .placeholder = byg. Mozilla Developer Network
+add-engine-url-placeholder =
+    .placeholder = byg. https://developer.mozilla.com/search?q=%s
+add-engine-keyword-placeholder =
+    .placeholder = byg. @mdn
 
 ## The following strings are used as error messages.
 
+add-engine-no-name = Foegje in namme ta.
+add-engine-no-url = Fier in URL yn.
 
 ## The following strings are used as labels for the dialog's buttons.
 
+# buttonlabelextra1 is the label of a button to open the advanced section
+# of the dialog.
+add-engine-dialog2 =
+    .buttonlabelaccept = Sykmasine tafoegje
+    .buttonaccesskeyaccept = t
+    .buttonlabelextra1 = Avansearre

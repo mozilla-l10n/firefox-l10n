@@ -48,7 +48,7 @@ appmenu-addon-post-install-message3 = Hantera dina tillägg och teman via applik
 # has been installed, when the data collection feature is enabled.
 appmenu-addon-post-install-message-with-data-collection = Uppdatera behörigheter och datainställningar när som helst i <a data-l10n-name="settings-link">tilläggsinställningarna</a>.
 appmenu-addon-post-install-pin-toolbarbutton-checkbox =
-    .label = Fäst tillägg i verktygsfältet
+    .label = Fäst tillägg till verktygsfältet
     .accesskey = F
 appmenu-addon-post-install-incognito-checkbox =
     .label = Tillåt att detta tillägg körs i privata fönster

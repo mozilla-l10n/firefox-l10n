@@ -653,7 +653,7 @@ home-prefs-weather-description = Dagens prognos i korthet
 home-prefs-weather-learn-more-link = Läs mer
 # "Support" here means to help sustain or contribute to something, especially through funding or sponsorship.
 home-prefs-support-firefox-header =
-    .label = Support { -brand-product-name }
+    .label = Stöd { -brand-product-name }
 home-prefs-mission-message = Våra sponsorer stöder vårt uppdrag att bygga en bättre webb
 home-prefs-mission-message-learn-more-link = Ta reda på hur
 # Variables:

@@ -63,7 +63,7 @@ add-engine-url2 = Webbadress med %s istället för sökord
 add-engine-keyword2 = Sökord (valfritt)
 # POST and GET refer to the HTTP methods.
 add-engine-post-data = POST-data med %s istället för sökord (lämna tomt i GET)
-add-engine-suggest-url = FörslagsURL med %s istället för sökord (valfritt)
+add-engine-suggest-url = Förslags-URL med %s istället för sökterm (valfritt)
 add-engine-keyword = Nyckelord
 add-engine-url = Sökmotorns URL, använd %s istället för söktermen
 add-engine-dialog =
@@ -83,8 +83,8 @@ add-engine-keyword-placeholder =
 
 ## The following strings are used as error messages.
 
-add-engine-keyword-exists = Nyckelordet används redan. Prova en annan.
-add-engine-name-exists = Namnet används redan. Vänligen välj en annan.
+add-engine-keyword-exists = Nyckelordet används redan. Prova ett annat.
+add-engine-name-exists = Namnet används redan. Vänligen välj ett annat.
 add-engine-no-name = Vänligen lägg till ett namn.
 add-engine-no-url = Skriv in en URL.
 add-engine-invalid-url = Den webbadressen ser inte rätt ut. Kontrollera och försök igen.
