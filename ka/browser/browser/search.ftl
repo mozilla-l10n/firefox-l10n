@@ -56,6 +56,7 @@ add-engine-window =
     .style = min-width: 32em;
 add-engine-button = მორგებული საძიებოს დამატება
 add-engine-name = საძიებო სისტემის სახელი
+add-engine-keyword2 = საკვანძო სიტყვა (არასავალდებულო)
 add-engine-keyword = საკვანძო სიტყვა
 add-engine-url = საძიებოს ბმული, მოსაძიებელ ფრაზად მიუთითეთ %s
 add-engine-dialog =
@@ -66,9 +67,20 @@ engine-keyword-exists = საძიებო ამ საკვანძო �
 
 ## The following placeholders are shown in the inputs when adding a new engine.
 
+add-engine-name-placeholder =
+    .placeholder = მაგ., Mozilla-ს შემმუშავებელთა ქსელი
+add-engine-url-placeholder =
+    .placeholder = მაგ., https://developer.mozilla.com/search?q=%s
+add-engine-keyword-placeholder =
+    .placeholder = მაგ., @mdn
 
 ## The following strings are used as error messages.
 
+add-engine-keyword-exists = ეს საკვანძო სიტყვა უკვე გამოიყენება. სცადეთ სხვა.
+add-engine-name-exists = ეს სახელი უკვე გამოიყენება. გთხოვთ სხვა შეარჩიეთ.
+add-engine-no-name = გთხოვთ მიუთითოთ სახელი.
+add-engine-no-url = გთხოვთ შეიყვანოთ ბმული.
+add-engine-invalid-url = ეს ბმული უმართებულოა. გთხოვთ გადაამოწმოთ და კვლავ სცადოთ.
 
 ## The following strings are used as labels for the dialog's buttons.
 
