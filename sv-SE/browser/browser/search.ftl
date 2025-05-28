@@ -54,8 +54,16 @@ install-search-engine-no = Nej
 add-engine-window =
     .title = Lägg till sökmotor
     .style = min-width: 32em;
+edit-engine-window =
+    .title = Redigera sökmotor
+    .style = min-width: 32em;
 add-engine-button = Lägg till anpassad sökmotor
 add-engine-name = Sökmotorns namn
+add-engine-url2 = Webbadress med %s istället för sökord
+add-engine-keyword2 = Sökord (valfritt)
+# POST and GET refer to the HTTP methods.
+add-engine-post-data = POST-data med %s istället för sökord (lämna tomt i GET)
+add-engine-suggest-url = FörslagsURL med %s istället för sökord (valfritt)
 add-engine-keyword = Nyckelord
 add-engine-url = Sökmotorns URL, använd %s istället för söktermen
 add-engine-dialog =
@@ -66,9 +74,37 @@ engine-keyword-exists = En sökmotor med det nyckelordet finns redan
 
 ## The following placeholders are shown in the inputs when adding a new engine.
 
+add-engine-name-placeholder =
+    .placeholder = t.ex. Mozilla Developer Network
+add-engine-url-placeholder =
+    .placeholder = t.ex. https://developer.mozilla.com/search?q=%s
+add-engine-keyword-placeholder =
+    .placeholder = t.ex. @mdn
 
 ## The following strings are used as error messages.
 
+add-engine-keyword-exists = Nyckelordet används redan. Prova en annan.
+add-engine-name-exists = Namnet används redan. Vänligen välj en annan.
+add-engine-no-name = Vänligen lägg till ett namn.
+add-engine-no-url = Skriv in en URL.
+add-engine-invalid-url = Den webbadressen ser inte rätt ut. Kontrollera och försök igen.
+add-engine-invalid-protocol = Den webbadressen ser inte rätt ut. Använd en webbadress som börjar med http eller https.
+# This error is shown when the user typed URL is missing %s.
+add-engine-missing-terms-url = Försök inkludera %s istället för söktermen.
+# This error is shown when the user typed post data is missing %s.
+add-engine-missing-terms-post-data = Försök inkludera %s istället för söktermen.
 
 ## The following strings are used as labels for the dialog's buttons.
 
+# buttonlabelextra1 is the label of a button to open the advanced section
+# of the dialog.
+add-engine-dialog2 =
+    .buttonlabelaccept = Lägg till sökmotor
+    .buttonaccesskeyaccept = A
+    .buttonlabelextra1 = Avancerat
+# buttonlabelextra1 is the label of a button to open the advanced section
+# of the dialog.
+edit-engine-dialog =
+    .buttonlabelaccept = Spara sökmotor
+    .buttonaccesskeyaccept = S
+    .buttonlabelextra1 = Avancerat

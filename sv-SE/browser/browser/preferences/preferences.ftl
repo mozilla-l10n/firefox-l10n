@@ -651,6 +651,9 @@ home-prefs-weather-header =
     .label = Väder
 home-prefs-weather-description = Dagens prognos i korthet
 home-prefs-weather-learn-more-link = Läs mer
+# "Support" here means to help sustain or contribute to something, especially through funding or sponsorship.
+home-prefs-support-firefox-header =
+    .label = Support { -brand-product-name }
 home-prefs-mission-message = Våra sponsorer stöder vårt uppdrag att bygga en bättre webb
 home-prefs-mission-message-learn-more-link = Ta reda på hur
 # Variables:
@@ -721,6 +724,9 @@ search-remove-engine =
 search-add-engine =
     .label = Lägg till
     .accesskey = L
+search-edit-engine =
+    .label = Redigera
+    .accesskey = R
 search-find-more-link = Hitta fler sökmotorer
 # This warning is displayed when the chosen keyword is already in use
 # ('Duplicate' is an adjective)
@@ -729,6 +735,10 @@ search-keyword-warning-title = Duplicera nyckelord
 #   $name (string) - Name of a search engine.
 search-keyword-warning-engine = Du har valt ett nyckelord som redan används av “{ $name }”. Var god välj ett annat.
 search-keyword-warning-bookmark = Du har valt ett nyckelord som redan används av ett bokmärke. Var god välj ett annat.
+# This warning is displayed when the chosen name is already in use.
+# Variables:
+#   $name (string) - Name of a search engine.
+edit-engine-name-warning-duplicate = Det finns redan en sökmotor med namnet "{ $name }". Välj ett annat namn.
 remove-engine-confirmation = Är du säker på att du vill ta bort den här sökmotorn?
 remove-engine-remove = Ta bort
 remove-addon-engine-alert = För att ta bort denna sökmotor, ta bort det tillhörande tillägget.

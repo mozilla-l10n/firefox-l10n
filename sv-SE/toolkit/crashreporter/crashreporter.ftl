@@ -51,3 +51,4 @@ crashreporter-error-no-home-dir = Saknad hemkatalog
 # $to (String) - the destination path
 crashreporter-error-moving-path = Det gick inte att flytta { $from } till { $to }
 crashreporter-error-version-eol = Versionens slutdatum: kraschrapporter accepteras inte längre.
+crashreporter-error-failed-to-generate-minidump = Programmet kunde inte generera kraschinformation.

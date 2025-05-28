@@ -117,6 +117,22 @@ fp-learn-more-about-time-related-errors = Läs mer om felsökning av tidsrelater
 ## Variables:
 ##   $hostname (string) - Hostname of the website with cert error.
 
+cert-error-revoked-certificate = { -brand-short-name } blockerade ditt besök på den här webbplatsen eftersom certifikatet som tillhandahålls för { $hostname } har återkallats och inte är tillförlitligt längre.
+cert-error-bad-signature = { -brand-short-name } blockerade ditt besök på den här webbplatsen eftersom signaturen på certifikatet som tillhandahålls för { $hostname } inte är giltig.
+cert-error-key-pinning-failure = { -brand-short-name } blockerade ditt besök på den här webbplatsen eftersom certifikatet som tillhandahålls för { $hostname } använder en annan publik nyckel än förväntat.
+cert-error-bad-der = { -brand-short-name } blockerade ditt besök på den här webbplatsen eftersom certifikatet för { $hostname } inte är korrekt kodat.
+cert-error-cert-not-in-name-space = { -brand-short-name } blockerade ditt besök på den här webbplatsen eftersom certifikatet som tillhandahålls för { $hostname } inte följer namnbegränsningarna för ett certifikat som utfärdade det.
+cert-error-inadequate-cert-type = { -brand-short-name } blockerade ditt besök på den här webbplatsen eftersom certifikatet som tillhandahålls för { $hostname } inte får användas av en webbserver.
+cert-error-path-len-constraint-invalid = { -brand-short-name } blockerade ditt besök på den här webbplatsen eftersom certifikatet som tillhandahålls för { $hostname } har för många mellanliggande certifikat i sökvägen till rotcertifikatet.
+cert-error-invalid-key = { -brand-short-name } blockerade ditt besök på den här webbplatsen eftersom certifikatet som tillhandahålls för { $hostname } har en ogiltig nyckel. Troligtvis är den för liten för att vara säker.
+cert-error-unknown-critical-extension = { -brand-short-name } blockerade ditt besök på den här webbplatsen eftersom certifikatet som tillhandahålls för { $hostname } innehåller ett kritiskt tillägg som inte stöds.
+cert-error-extension-value-invalid = { -brand-short-name } blockerade ditt besök på den här webbplatsen eftersom certifikatet som tillhandahålls för { $hostname } innehåller ett ogiltigt tillägg.
+cert-error-untrusted-issuer = { -brand-short-name } blockerade ditt besök på den här webbplatsen eftersom certifikatet som tillhandahålls för { $hostname } utfärdades av en certifikatutfärdare som inte är tillförlitlig längre.
+cert-error-untrusted-cert = { -brand-short-name } blockerade ditt besök på den här webbplatsen eftersom certifikatet som tillhandahålls för { $hostname } är markerat som icke betrott.
+cert-error-invalid-integer-encoding = { -brand-short-name } blockerade ditt besök på den här webbplatsen eftersom certifikatet som tillhandahålls för { $hostname } innehåller en ogiltig kodning av ett heltal. Vanliga orsaker är negativa serienummer, negativa RSA-moduler och kodning som är längre än nödvändigt.
+cert-error-unsupported-keyalg = { -brand-short-name } blockerade ditt besök på den här webbplatsen eftersom certifikatet som tillhandahålls för { $hostname } har en nyckeltyp som inte stöds.
+cert-error-issuer-no-longer-trusted = { -brand-short-name } blockerade ditt besök på den här webbplatsen eftersom certifikatutfärdaren som utfärdade certifikatet som tillhandahålls för { $hostname } inte är tillförlitlig längre.
+cert-error-signature-algorithm-mismatch = { -brand-short-name } blockerade ditt besök på den här webbplatsen eftersom signaturalgoritmen för certifikatet som tillhandahålls för { $hostname } inte matchar dess signaturalgoritmfält.
 
 ## Messages used for certificate error titles
 
