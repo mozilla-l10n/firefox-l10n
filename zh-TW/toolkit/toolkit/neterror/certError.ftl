@@ -117,6 +117,10 @@ fp-learn-more-about-time-related-errors = 了解如何排除時間錯誤的問�
 ## Variables:
 ##   $hostname (string) - Hostname of the website with cert error.
 
+cert-error-revoked-certificate = 由於簽發給 { $hostname } 的憑證已遭撤銷，不再受信任，{ -brand-short-name } 封鎖了您對此網站的造訪。
+cert-error-bad-signature = 由於簽發給 { $hostname } 的憑證簽章無效，{ -brand-short-name } 封鎖了您對此網站的造訪。
+cert-error-key-pinning-failure = 由於簽發給 { $hostname } 的憑證使用了未預期的公鑰，{ -brand-short-name } 封鎖了您對此網站的造訪。
+cert-error-bad-der = 由於簽發給 { $hostname } 的憑證並未正確編碼，{ -brand-short-name } 封鎖了您對此網站的造訪。
 
 ## Messages used for certificate error titles
 

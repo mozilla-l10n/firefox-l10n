@@ -578,6 +578,7 @@ addon-category-mlmodel = KI na graće
 addon-category-mlmodel-title =
     .title = KI na graće
 mlmodel-heading = Modele KI na graće rjadować
+mlmodel-description = Někotre funkcije a rozšěrjenja w { -brand-short-name } so přez modele KI podpěruja, kotrež lokalnje na wašim graće funguja. Tute wašnje postupowanja wašu priwatnosć škita a, we wjele padach, wukon pospěšuje. <a data-l10n-name="learn-more">Dalše informacije</a>
 # Label for button that when clicked removed local model
 mlmodel-remove-addon-button =
     .aria-label = Wotstronić

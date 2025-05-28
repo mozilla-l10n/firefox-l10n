@@ -15,6 +15,7 @@ about-logging-set-log-file = 設定記錄檔
 about-logging-set-log-modules = 設定記錄模組
 about-logging-start-logging = 開始記錄
 about-logging-stop-logging = 停止紀錄
+about-logging-copy-as-url = 將目前設定複製成網址
 about-logging-buttons-disabled = 已透過環境變數設定記錄功能，無法動態調整。
 about-logging-some-elements-disabled = 已透過網址設定記錄功能，無法動態調整某些設定。
 about-logging-info = 資訊：
@@ -27,6 +28,8 @@ about-logging-no-log-modules = 無
 about-logging-no-log-file = 無
 about-logging-logging-preset-selector-text = 預設記錄類型：
 about-logging-with-profiler-stacks-checkbox = 開啟紀錄訊息的堆疊追蹤
+about-logging-menu =
+    .title = 進階選項
 
 ## Logging presets
 
