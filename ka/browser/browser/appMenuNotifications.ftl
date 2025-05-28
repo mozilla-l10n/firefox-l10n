@@ -47,6 +47,9 @@ appmenu-addon-post-install-message3 = მართეთ თქვენი დ�
 # This string is used in the confirmation popup displayed after an extension
 # has been installed, when the data collection feature is enabled.
 appmenu-addon-post-install-message-with-data-collection = ცვალეთ ნებართვებისა და მონაცემების მახასიათებლები ნებისმიერ დროს <a data-l10n-name="settings-link">გაფართოების პარამეტრებიდან</a>.
+appmenu-addon-post-install-pin-toolbarbutton-checkbox =
+    .label = მიამაგრეთ გაფართოება ხელსაწყოთა ზოლზე
+    .accesskey = მ
 appmenu-addon-post-install-incognito-checkbox =
     .label = ნების დართვა, რომ გაეშვას პირად ფანჯრებში
     .accesskey = დ

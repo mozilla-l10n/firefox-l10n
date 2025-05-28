@@ -29,3 +29,5 @@ confirmation-hint-duplicate-tabs-closed =
         [one] დაიხუროს { $tabCount } ჩანართი
        *[other] დაიხუროს { $tabCount } ჩანართი
     }
+# Subtle notification shown when Extensions button moves into the application menu.
+confirmation-hint-extensions-button-hidden = გადატანილია მენიუში
