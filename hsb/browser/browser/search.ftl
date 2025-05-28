@@ -61,6 +61,9 @@ add-engine-button = Swójsku pytawu přidać
 add-engine-name = Mjeno pytawy
 add-engine-url2 = URL z %s město pytanskeho wuraza
 add-engine-keyword2 = Klučowe słowo (opcionalny)
+# POST and GET refer to the HTTP methods.
+add-engine-post-data = Daty POST z %s město pytanskeho wuraza (za GET prózdny wostajić)
+add-engine-suggest-url = URL-namjety z %s město pytanskeho wuraza (na přeće)
 add-engine-keyword = Klučowe słowo
 add-engine-url = URL pytawy, wužiwajće %s město pytanskeho wuraza
 add-engine-dialog =
@@ -80,9 +83,12 @@ add-engine-keyword-placeholder =
 
 ## The following strings are used as error messages.
 
+add-engine-keyword-exists = Tute klučowe słowo so hižo wužiwa. Spytajće druhe.
 add-engine-name-exists = Tute mjeno so hižo wužiwa. Prošu wubjerće druhe.
 add-engine-no-name = Prošu přidajće mjeno.
 add-engine-no-url = Prošu zapodajće URL.
+add-engine-invalid-url = Tutón URL prawje njewupada. Prošu přepruwujće jón a spytajće hišće raz.
+add-engine-invalid-protocol = Tutón URL prawje njewupada. Wužiwajće URL, kotryž so z http abo https započina.
 # This error is shown when the user typed URL is missing %s.
 add-engine-missing-terms-url = Spytajće %s město pytanskeho wuraza zapřijeć
 # This error is shown when the user typed post data is missing %s.

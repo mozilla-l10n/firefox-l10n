@@ -47,6 +47,9 @@ appmenu-addon-post-install-message3 = Διαχειριστείτε τα πρόσ
 # This string is used in the confirmation popup displayed after an extension
 # has been installed, when the data collection feature is enabled.
 appmenu-addon-post-install-message-with-data-collection = Ενημερώστε τις προτιμήσεις δικαιωμάτων και δεδομένων ανά πάσα στιγμή στις <a data-l10n-name="settings-link">ρυθμίσεις της επέκτασης</a>.
+appmenu-addon-post-install-pin-toolbarbutton-checkbox =
+    .label = Καρφίτσωμα επέκτασης στη γραμμή εργαλείων
+    .accesskey = Κ
 appmenu-addon-post-install-incognito-checkbox =
     .label = Να επιτρέπεται η εκτέλεσή του σε ιδιωτικά παράθυρα
     .accesskey = Ν

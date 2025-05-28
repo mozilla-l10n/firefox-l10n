@@ -651,6 +651,9 @@ home-prefs-weather-header =
     .label = Καιρός
 home-prefs-weather-description = Σημερινή πρόγνωση με μια ματιά
 home-prefs-weather-learn-more-link = Μάθετε περισσότερα
+# "Support" here means to help sustain or contribute to something, especially through funding or sponsorship.
+home-prefs-support-firefox-header =
+    .label = Υποστηρίξτε τη { -brand-product-name }
 home-prefs-mission-message = Οι χορηγοί μας υποστηρίζουν την αποστολή μας για ένα καλύτερο διαδίκτυο
 home-prefs-mission-message-learn-more-link = Μάθετε πώς
 # Variables:
@@ -732,6 +735,10 @@ search-keyword-warning-title = Διπλή λέξη-κλειδί
 #   $name (string) - Name of a search engine.
 search-keyword-warning-engine = Έχετε επιλέξει μια λέξη-κλειδί που χρησιμοποιείται ήδη από το «{ $name }». Επιλέξτε κάποια άλλη.
 search-keyword-warning-bookmark = Έχετε επιλέξει μια λέξη-κλειδί που χρησιμοποιείται ήδη από έναν σελιδοδείκτη. Επιλέξτε κάποια άλλη.
+# This warning is displayed when the chosen name is already in use.
+# Variables:
+#   $name (string) - Name of a search engine.
+edit-engine-name-warning-duplicate = Υπάρχει ήδη μια μηχανή αναζήτησης με το όνομα «{ $name }». Επιλέξτε ένα άλλο όνομα.
 remove-engine-confirmation = Θέλετε σίγουρα να αφαιρέσετε αυτήν τη μηχανή αναζήτησης;
 remove-engine-remove = Αφαίρεση
 remove-addon-engine-alert = Για να αφαιρέσετε αυτήν τη μηχανή αναζήτησης, καταργήστε το σχετικό πρόσθετο.

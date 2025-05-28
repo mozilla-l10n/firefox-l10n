@@ -59,6 +59,7 @@ edit-engine-window =
     .style = min-width: 32em;
 add-engine-button = Προσθήκη προσαρμοσμένης μηχανής
 add-engine-name = Όνομα μηχανής αναζήτησης
+add-engine-keyword2 = Λέξη-κλειδί (προαιρετικό)
 add-engine-keyword = Λέξη-κλειδί
 add-engine-url = URL μηχανής, χρησιμοποιήστε το %s αντί του όρου αναζήτησης
 add-engine-dialog =

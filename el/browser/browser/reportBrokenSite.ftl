@@ -12,6 +12,15 @@ report-broken-site-panel-reason-label = Τι δεν λειτουργεί;
 report-broken-site-panel-reason-optional-label = Τι δεν λειτουργεί; (προαιρετικό)
 report-broken-site-panel-reason-choose =
     .label = Επιλέξτε λόγο
+report-broken-site-panel-reason-load =
+    .label = Ο ιστότοπος δεν φορτώνεται
+# These terms are referring to ecommerce websites
+report-broken-site-panel-reason-checkout =
+    .label = Αδυναμία πληρωμής ή ολοκλήρωσης αγοράς
+report-broken-site-panel-reason-slow2 =
+    .label = Ο ιστότοπος είναι αργός
+report-broken-site-panel-reason-media2 =
+    .label = Το βίντεο δεν αναπαράγεται ή δεν φορτώνεται
 report-broken-site-panel-reason-content2 =
     .label = Απουσία περιεχομένου
 report-broken-site-panel-reason-account2 =
