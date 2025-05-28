@@ -820,6 +820,9 @@ urlbar-group-recent-searches =
 #  $engine (String): the name of the search engine providing the trending suggestions
 urlbar-group-trending =
     .label = { $engine } გთავაზობთ ხშირად მოძიებულს
+# Label shown above sponsored suggestions in the urlbar results.
+urlbar-group-sponsored =
+    .label = დამკვეთისგან
 # The result menu labels shown next to trending results.
 urlbar-result-menu-trending-dont-show =
     .label = არ გამოჩნდეს ხშირად მოძიებული

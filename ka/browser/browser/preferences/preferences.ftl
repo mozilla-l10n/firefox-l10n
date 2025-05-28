@@ -515,6 +515,8 @@ performance-default-content-process-count =
 ## General Section - Browsing
 
 browsing-title = გვერდების მონახულება
+browsing-group-label =
+    .aria-label = გვერდების მონახულება
 browsing-use-autoscroll =
     .label = თვითგადაადგილების გამოყენება
     .accesskey = თ
@@ -719,6 +721,9 @@ search-remove-engine =
 search-add-engine =
     .label = დამატება
     .accesskey = ტ
+search-edit-engine =
+    .label = ჩასწორება
+    .accesskey = წ
 search-find-more-link = სხვა საძიებო სისტემების მონახვა
 # This warning is displayed when the chosen keyword is already in use
 # ('Duplicate' is an adjective)
@@ -727,6 +732,10 @@ search-keyword-warning-title = საკვანძო სიტყვა უ�
 #   $name (string) - Name of a search engine.
 search-keyword-warning-engine = თქვენ მიერ შერჩეულ საკვანძო სიტყვას უკვე იყენებს "{ $name }". გთხოვთ, შეარჩიოთ სხვა.
 search-keyword-warning-bookmark = თქვენ მიერ შერჩეულ საკვანძო სიტყვას უკვე იყენებს სანიშნი. გთხოვთ, შეარჩიოთ სხვა.
+# This warning is displayed when the chosen name is already in use.
+# Variables:
+#   $name (string) - Name of a search engine.
+edit-engine-name-warning-duplicate = საძიებო უკვე არსებობს სახელით „{ $name }“. გთხოვთ, აირჩიოთ სხვა სახელი.
 remove-engine-confirmation = ნამდვილად გსურთ ამ საძიებოს მოცილება?
 remove-engine-remove = მოცილება
 remove-addon-engine-alert = ამ საძიებო სისტემის მოსაცილებლად მოაცილეთ შესაბამისი დამატება.
