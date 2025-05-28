@@ -577,3 +577,16 @@ mlmodel-smart-tab-embedding-engine = { -brand-short-name } to wužiwa, zo by raj
 addon-category-mlmodel = KI na graće
 addon-category-mlmodel-title =
     .title = KI na graće
+mlmodel-heading = Modele KI na graće rjadować
+# Label for button that when clicked removed local model
+mlmodel-remove-addon-button =
+    .aria-label = Wotstronić
+# Label for the aggregated value of all files for a model
+mlmodel-addon-detail-totalsize-label = Datajowa wulkosć
+mlmodel-addon-detail-last-used-label = Posledni raz wužity
+# This is a section label to describe what extensions or features use a specific local AI model
+mlmodel-addon-detail-used-by-label = Wužity wot
+# This is a section label to describe the link to the model card on the Hugging Face website
+mlmodel-addon-detail-model-card = Modelowa karta
+# This is a label for the Model Card link to Hugging face
+mlmodel-addon-detail-model-card-link-label = Na Hugging Face pokazać

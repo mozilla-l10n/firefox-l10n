@@ -27,6 +27,8 @@ about-logging-no-log-modules = Žadyn
 about-logging-no-log-file = Žadyn
 about-logging-logging-preset-selector-text = Přednastajenje za protokolowanje:
 about-logging-with-profiler-stacks-checkbox = Staplowe přesćěhanja za protokolowe zdźělenki zmóžnić
+about-logging-menu =
+    .title = Rozšěrjene nastajenja
 
 ## Logging presets
 
