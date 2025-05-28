@@ -29,3 +29,5 @@ confirmation-hint-duplicate-tabs-closed =
         [one] Lét att { $tabCount } fane
        *[other] Lét att { $tabCount } faner
     }
+# Subtle notification shown when Extensions button moves into the application menu.
+confirmation-hint-extensions-button-hidden = Flytta til meny
