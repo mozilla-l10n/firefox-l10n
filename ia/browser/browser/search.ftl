@@ -60,6 +60,10 @@ edit-engine-window =
 add-engine-button = Adder motor personalisate
 add-engine-name = Nomine del motor de recerca
 add-engine-url2 = URL con %s al posto del termino di recerca
+add-engine-keyword2 = Parola clave (optional)
+# POST and GET refer to the HTTP methods.
+add-engine-post-data = Datos de POST con %s al posto de termino de recerca (lassar vacue pro GET)
+add-engine-suggest-url = URL pro suggestiones con %s al posto del termino de recerca (optional)
 add-engine-keyword = Parola clave
 add-engine-url = URL del motor, usa %s in loco del termino de recerca
 add-engine-dialog =
@@ -70,11 +74,25 @@ engine-keyword-exists = Un motor con ille parola clave jam existe
 
 ## The following placeholders are shown in the inputs when adding a new engine.
 
+add-engine-name-placeholder =
+    .placeholder = p. ex., Rete del disveloppatores de Mozilla
+add-engine-url-placeholder =
+    .placeholder = p.ex., https://developer.mozilla.com/search?q=%s
+add-engine-keyword-placeholder =
+    .placeholder = p. ex., @mdn
 
 ## The following strings are used as error messages.
 
+add-engine-keyword-exists = Ille parola clave es jam usate. Tenta un altere.
+add-engine-name-exists = Ille nomine es jam usate. Selige un altere.
+add-engine-no-name = Adde un nomine.
+add-engine-no-url = Insere un URL.
+add-engine-invalid-url = Ille URL non appare ben. Verifica lo e retenta.
+add-engine-invalid-protocol = Ille URL non appare ben. Usa un URL que comencia con http o https.
 # This error is shown when the user typed URL is missing %s.
 add-engine-missing-terms-url = Tenta includer %s al posto del termino de recerca.
+# This error is shown when the user typed post data is missing %s.
+add-engine-missing-terms-post-data = Tenta includer %s al posto del termino de recerca.
 
 ## The following strings are used as labels for the dialog's buttons.
 

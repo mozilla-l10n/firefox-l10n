@@ -121,6 +121,18 @@ cert-error-revoked-certificate = { $hostname }에 대해 제공한 인증서가 
 cert-error-bad-signature = { $hostname }에 대해 제공한 인증서의 서명이 유효하지 않기 때문에 { -brand-short-name }에서 이 사이트 방문을 차단했습니다.
 cert-error-key-pinning-failure = { $hostname }에 대해 제공된 인증서가 예상과 다른 공개 키를 사용하고 있기 때문에 { -brand-short-name }가 이 사이트 방문을 차단했습니다.
 cert-error-bad-der = { $hostname }에 대해 제공한 인증서가 제대로 인코딩되지 않았기 때문에 { -brand-short-name }가 이 사이트 방문을 차단했습니다.
+cert-error-cert-not-in-name-space = { $hostname }에 대해 제공된 인증서가 이를 발급한 인증서의 이름 제약을 따르지 않기 때문에 { -brand-short-name }가 이 사이트 방문을 차단했습니다.
+cert-error-inadequate-cert-type = { $hostname }에 제공된 인증서를 웹 서버에서 사용하도록 허용하지 않았기 때문에 { -brand-short-name }가 이 사이트 방문을 차단했습니다.
+cert-error-path-len-constraint-invalid = { $hostname }에 대해 제공된 인증서가 루트 인증서 경로에 있는 중간 인증서가 너무 많아 { -brand-short-name }가 이 사이트 방문을 차단했습니다.
+cert-error-invalid-key = { $hostname }에 대해 제공된 인증서가 유효하지 않은 키를 포함하고 있기 때문에 { -brand-short-name }가 이 사이트 방문을 차단했습니다. 대부분 너무 작아서 안전하지 않습니다.
+cert-error-unknown-critical-extension = { $hostname }에 대해 제공된 인증서가 지원하지 않는 중요한 확장을 포함하고 있기 때문에 { -brand-short-name }가 이 사이트 방문을 차단했습니다.
+cert-error-extension-value-invalid = { $hostname }에 대해 제공된 인증서가 유효하지 않은 확장을 포함하고 있기 때문에 { -brand-short-name }가 이 사이트 방문을 차단했습니다.
+cert-error-untrusted-issuer = { $hostname }에 대해 제공한 인증서가 더 이상 신뢰할 수 없는 인증 기관에서 발급했기 때문에 { -brand-short-name }가 이 사이트 방문을 차단했습니다.
+cert-error-untrusted-cert = { $hostname }에 대해 제공한 인증서가 신뢰되지 않음으로 표시되어 { -brand-short-name }가 이 사이트 방문을 차단했습니다.
+cert-error-invalid-integer-encoding = { $hostname }에 대해 제공된 인증서가 유효하지 않은 정수 인코딩을 포함하고 있기 때문에 { -brand-short-name }가 이 사이트 방문을 차단했습니다. 일반적인 원인은 음수 일련 번호, 음수 RSA moduli 및 필요 이상으로 긴 인코딩입니다.
+cert-error-unsupported-keyalg = { $hostname }에 대해 제공된 인증서가 지원하지 않는 키 유형을 포함하고 있기 때문에 { -brand-short-name }가 이 사이트 방문을 차단했습니다.
+cert-error-issuer-no-longer-trusted = { $hostname }에 대해 제공된 인증서를 발급한 인증 기관이 더 이상 신뢰되지 않기 때문에 { -brand-short-name }에서 이 사이트 방문을 차단했습니다.
+cert-error-signature-algorithm-mismatch = { $hostname }에 대해 제공된 인증서의 서명 알고리즘이 서명 알고리즘 필드와 일치하지 않기 때문에 { -brand-short-name }가 이 사이트 방문을 차단했습니다.
 
 ## Messages used for certificate error titles
 

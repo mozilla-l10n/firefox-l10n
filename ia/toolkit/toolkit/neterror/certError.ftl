@@ -117,6 +117,16 @@ fp-learn-more-about-time-related-errors = Saper plus sur le resolution de proble
 ## Variables:
 ##   $hostname (string) - Hostname of the website with cert error.
 
+cert-error-revoked-certificate = { -brand-short-name } blocava tu visita a iste sito perque le certificato fornite pro { $hostname } ha essite revocate e non plus es de confidentia.
+cert-error-bad-signature = { -brand-short-name } blocava tu visita a iste sito perque le firma sur le certificato fornite pro { $hostname } non es valide.
+cert-error-key-pinning-failure = { -brand-short-name } blocava tu visita a iste sito perque le certificato fornite pro { $hostname } usa un clave public differente que expectate.
+cert-error-bad-der = { -brand-short-name } blocava tu visita a iste sito perque le certificato fornite pro { $hostname } non es correctemente codificate.
+cert-error-cert-not-in-name-space = { -brand-short-name } blocava tu visita a iste sito perque le certificato fornite pro { $hostname } non seque le limitationes de nomine de un certificato que lo publicava.
+cert-error-inadequate-cert-type = { -brand-short-name } blocava tu visita a iste sito perque le certificato fornite pro { $hostname } non es permittite esser usate per un servitor de web.
+cert-error-path-len-constraint-invalid = { -brand-short-name } blocava tu visita a iste sito perque le certificato fornite pro { $hostname } ha troppe certificatos intermedie in le route al certificato radice.
+cert-error-invalid-key = { -brand-short-name } blocava tu visita a iste sito perque le certificato fornite pro { $hostname } ha un clave que es non valide. Multo probabilemente, illo es troppo micre pro esser secur.
+cert-error-unknown-critical-extension = { -brand-short-name } blocava tu visita a iste sito perque le certificato fornite pro { $hostname } contine un extension critic non supportate.
+cert-error-extension-value-invalid = { -brand-short-name } blocava tu visita a iste sito perque le certificato fornite pro { $hostname } contine un extension non valide.
 
 ## Messages used for certificate error titles
 
