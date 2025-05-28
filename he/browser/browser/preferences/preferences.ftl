@@ -651,6 +651,9 @@ home-prefs-weather-header =
     .label = מזג אוויר
 home-prefs-weather-description = תחזית היום במבט חטוף
 home-prefs-weather-learn-more-link = מידע נוסף
+# "Support" here means to help sustain or contribute to something, especially through funding or sponsorship.
+home-prefs-support-firefox-header =
+    .label = תמיכה ב־{ -brand-product-name }
 home-prefs-mission-message = נותני החסות שלנו תומכים במשימה שלנו לבנות אינטרנט טוב יותר
 home-prefs-mission-message-learn-more-link = כיצד?
 # Variables:
@@ -721,6 +724,9 @@ search-remove-engine =
 search-add-engine =
     .label = הוספה
     .accesskey = ה
+search-edit-engine =
+    .label = עריכה
+    .accesskey = ע
 search-find-more-link = מנועי חיפוש נוספים
 # This warning is displayed when the chosen keyword is already in use
 # ('Duplicate' is an adjective)
@@ -729,6 +735,10 @@ search-keyword-warning-title = מילת מפתח כפולה
 #   $name (string) - Name of a search engine.
 search-keyword-warning-engine = בחרת להשתמש במילת מפתח שנמצאת כרגע בשימוש על־ידי ״{ $name }״. נא לבחור במילה אחרת.
 search-keyword-warning-bookmark = בחרת להשתמש במילת מפתח שנמצאת כרגע בשימוש על־ידי סימנייה. נא לבחור במילה אחרת.
+# This warning is displayed when the chosen name is already in use.
+# Variables:
+#   $name (string) - Name of a search engine.
+edit-engine-name-warning-duplicate = כבר קיים מנוע חיפוש בשם ״{ $name }״. נא לבחור בשם אחר.
 remove-engine-confirmation = האם ברצונך להסיר את מנוע חיפוש זה?
 remove-engine-remove = הסרה
 remove-addon-engine-alert = כדי להסיר את מנוע חיפוש זה, יש להסיר את התוספת המשוייכת אליו.
