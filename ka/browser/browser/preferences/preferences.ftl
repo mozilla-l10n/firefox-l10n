@@ -651,6 +651,9 @@ home-prefs-weather-header =
     .label = ამინდი
 home-prefs-weather-description = მოსალოდნელი ამინდისთვის თვალის შევლება
 home-prefs-weather-learn-more-link = ვრცლად
+# "Support" here means to help sustain or contribute to something, especially through funding or sponsorship.
+home-prefs-support-firefox-header =
+    .label = შეეწიეთ – { -brand-product-name }
 home-prefs-mission-message = ჩვენი დამკვეთები მხარს უჭერენ ჩვენს მიზანს უკეთესი ვებსივრცის ჩამოსაყალიბებლად
 home-prefs-mission-message-learn-more-link = იხილეთ, როგორ
 # Variables:
