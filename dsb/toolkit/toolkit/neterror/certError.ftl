@@ -118,16 +118,19 @@ fp-learn-more-about-time-related-errors = Zgóńśo wěcej wó rozwězowanju na 
 ##   $hostname (string) - Hostname of the website with cert error.
 
 cert-error-revoked-certificate = { -brand-short-name } jo blokěrował waš woglěd na toś tom sedle, dokulaž certifikat, kótaryž jo se stajił za { $hostname } k dispoziciji, jo se wótwołał a wěcej njejo gódny.
-cert-error-bad-signature = { -brand-short-name } jo blokěrował waš woglěd na toś tem sedle, dokulaž signatura na certifikaśe, kótaryž jo se stajił za { $hostname } k dispoziciji, njejo płaśiwy.
+cert-error-bad-signature = { -brand-short-name } jo blokěrował waš woglěd na toś tom sedle, dokulaž signatura na certifikaśe, kótaryž jo se stajił za { $hostname } k dispoziciji, njejo płaśiwy.
 cert-error-key-pinning-failure = { -brand-short-name } jo blokěrował waš woglěd na toś tom sedle, dokulaž certifikat, kótaryž jo se stajił za { $hostname } k dispoziciji, drugi zjawny kluc wužywa ako jo se wótcakał.
-cert-error-bad-der = { -brand-short-name } jo blokěrował waš woglěd na toś tem sedle, dokulaž certifikat, kótaryž jo se stajił za { $hostname } k dispoziciji, njejo pórědnje skoděrowany.
+cert-error-bad-der = { -brand-short-name } jo blokěrował waš woglěd na toś tom sedle, dokulaž certifikat, kótaryž jo se stajił za { $hostname } k dispoziciji, njejo pórědnje skoděrowany.
 cert-error-cert-not-in-name-space = { -brand-short-name } jo blokěrował waš woglěd na toś tom sedle, dokulaž certifikat, kótaryž jo se stajił za { $hostname } k dispoziciji, mjenowym wobgranicowanjam certifikata njeslědujo, kótaryž jo jen wudał.
 cert-error-inadequate-cert-type = { -brand-short-name } jo blokěrował waš woglěd na toś tym sedle, dokulaž certifikat, kótaryž jo se stajił za { $hostname } k dispoziciji, njesmějo se pśez webserwer wužywaś.
 cert-error-path-len-constraint-invalid = { -brand-short-name } jo blokěrował waš woglěd na toś tom sedle, dokulaž certifikat, kótaryž jo se stajił za { $hostname } k dispoziciji, ma pśewjele mjazycertifikatow w sćažce k stawnemu certifikatoju.
 cert-error-invalid-key = { -brand-short-name } jo blokěrował waš woglěd na toś tom sedle, dokulaž certifikat, kótaryž jo se stajił za { $hostname } k dispoziciji, ma njepłaśiwy kluc. Nejskerjej jo pśemały, aby wěsty był.
-cert-error-unknown-critical-extension = { -brand-short-name } jo blokěrował waš woglěd na toś tem sedle, dokulaž certifikat, kótaryž jo se stajił za { $hostname } k dispoziciji, njepódpěrane kritiske rozšyrjenje wopśimujo.
-cert-error-extension-value-invalid = { -brand-short-name } jo blokěrował waš woglěd na toś tem sedle, dokulaž certifikat, kótaryž jo se stajił za { $hostname } k dispoziciji, njepłaśiwe rozšyrjenje wopśimujo.
-cert-error-untrusted-cert = { -brand-short-name } jo blokěrował waš woglěd na toś tem sedle, dokulaž certifikat, kótaryž jo se stajił za { $hostname } k dispoziciji, jo markěrowany ako dowěry njegódny.
+cert-error-unknown-critical-extension = { -brand-short-name } jo blokěrował waš woglěd na toś tom sedle, dokulaž certifikat, kótaryž jo se stajił za { $hostname } k dispoziciji, njepódpěrane kritiske rozšyrjenje wopśimujo.
+cert-error-extension-value-invalid = { -brand-short-name } jo blokěrował waš woglěd na toś tom sedle, dokulaž certifikat, kótaryž jo se stajił za { $hostname } k dispoziciji, njepłaśiwe rozšyrjenje wopśimujo.
+cert-error-untrusted-issuer = { -brand-short-name } jo blokěrował waš woglěd na toś tom sedle, dokulaž certifikat, kótaryž jo se stajił za { $hostname } k dispoziciji, jo se wudał wót awtority certificěrowanja, kótaraž wěcej njejo dowěry gódna.
+cert-error-untrusted-cert = { -brand-short-name } jo blokěrował waš woglěd na toś tom sedle, dokulaž certifikat, kótaryž jo se stajił za { $hostname } k dispoziciji, jo markěrowany ako dowěry njegódny.
+cert-error-unsupported-keyalg = { -brand-short-name } jo blokěrował waš woglěd na toś tom sedle, dokulaž certifikat, kótaryž jo se stajił za { $hostname } k dispoziciji, ma njepódpěrany klucowy typ.
+cert-error-signature-algorithm-mismatch = { -brand-short-name } jo blokěrował waš woglěd na toś tom sedle, dokulaž algoritmus signatury certifikata, kótaryž jo se stajił za { $hostname } k dispoziciji, póloju algoritmusa signatury njewótpowědujo.
 
 ## Messages used for certificate error titles
 
