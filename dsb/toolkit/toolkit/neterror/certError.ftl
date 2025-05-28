@@ -129,7 +129,9 @@ cert-error-unknown-critical-extension = { -brand-short-name } jo blokěrował wa
 cert-error-extension-value-invalid = { -brand-short-name } jo blokěrował waš woglěd na toś tom sedle, dokulaž certifikat, kótaryž jo se stajił za { $hostname } k dispoziciji, njepłaśiwe rozšyrjenje wopśimujo.
 cert-error-untrusted-issuer = { -brand-short-name } jo blokěrował waš woglěd na toś tom sedle, dokulaž certifikat, kótaryž jo se stajił za { $hostname } k dispoziciji, jo se wudał wót awtority certificěrowanja, kótaraž wěcej njejo dowěry gódna.
 cert-error-untrusted-cert = { -brand-short-name } jo blokěrował waš woglěd na toś tom sedle, dokulaž certifikat, kótaryž jo se stajił za { $hostname } k dispoziciji, jo markěrowany ako dowěry njegódny.
+cert-error-invalid-integer-encoding = { -brand-short-name } jo blokěrował waš woglěd na sedle, dokulaž  certifikat, kótaryž jo se stajił za { $hostname } k dispoziciji, njepłaśiwe koděrowanje cełeje licby wopśimujo. Ceste zawiny mógu byś: negatiwne serijowe numery, negatiwne RSA-module a koděrowanja, kótarež su dlejše ako trjebne.
 cert-error-unsupported-keyalg = { -brand-short-name } jo blokěrował waš woglěd na toś tom sedle, dokulaž certifikat, kótaryž jo se stajił za { $hostname } k dispoziciji, ma njepódpěrany klucowy typ.
+cert-error-issuer-no-longer-trusted = { -brand-short-name } jo blokěrował waš woglěd na toś tom sedle, dokulaž awtorita certificěrowanja, kótaraž jo wudała certifikat, kótaryž jo se stajił za { $hostname } k dispoziciji, njejo wěcej dowěry gódna.
 cert-error-signature-algorithm-mismatch = { -brand-short-name } jo blokěrował waš woglěd na toś tom sedle, dokulaž algoritmus signatury certifikata, kótaryž jo se stajił za { $hostname } k dispoziciji, póloju algoritmusa signatury njewótpowědujo.
 
 ## Messages used for certificate error titles
