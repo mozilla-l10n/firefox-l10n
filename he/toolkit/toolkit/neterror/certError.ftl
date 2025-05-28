@@ -117,6 +117,8 @@ fp-learn-more-about-time-related-errors = מידע נוסף על פתרון בע
 ## Variables:
 ##   $hostname (string) - Hostname of the website with cert error.
 
+cert-error-revoked-certificate = ‏{ -brand-short-name } חסם את הביקור שלך לאתר זה מכיוון שאישור האבטחה שסופק עבור { $hostname } נשלל ואינו מהימן יותר.
+cert-error-bad-signature = ‏{ -brand-short-name } חסם את הביקור שלך לאתר זה מכיוון שהחתימה על אישור האבטחה שסופק עבור { $hostname } אינה חוקית.
 
 ## Messages used for certificate error titles
 

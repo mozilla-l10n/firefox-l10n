@@ -550,3 +550,21 @@ mlmodel-link-preview = ‏{ -brand-short-name } משתמש בזה כדי ליי�
 mlmodel-pdfjs = ‏{ -brand-short-name } משתמש בזה כדי לייצר טקסט חלופי עבור תמונות שמוסיפים לקובצי PDF
 mlmodel-smart-tab-topic-engine = ‏{ -brand-short-name } משתמש בזה כדי להציע שמות עבור קבוצות הלשוניות שלך
 mlmodel-smart-tab-embedding-engine = ‏{ -brand-short-name } משתמש בזה כדי להציע לשוניות עבור קבוצות הלשוניות שלך
+# AI Model will be downloaded on the users device and used locally
+addon-category-mlmodel = בינה מלאכותית במכשיר
+addon-category-mlmodel-title =
+    .title = בינה מלאכותית במכשיר
+mlmodel-heading = ניהול מודלים של בינה מלאכותית במכשיר
+mlmodel-description = חלק מהאפשרויות וההרחבות ב־{ -brand-short-name } מופעלות על־ידי מודלים של בינה מלאכותית שעובדים באופן מקומי במכשיר שלך. גישה זו מגינה על הפרטיות שלך, וברוב המקרים מאיצה את הביצועים. <a data-l10n-name="learn-more">מידע נוסף</a>
+# Label for button that when clicked removed local model
+mlmodel-remove-addon-button =
+    .aria-label = הסרה
+# Label for the aggregated value of all files for a model
+mlmodel-addon-detail-totalsize-label = גודל הקובץ
+mlmodel-addon-detail-last-used-label = שימוש אחרון
+# This is a section label to describe what extensions or features use a specific local AI model
+mlmodel-addon-detail-used-by-label = בשימוש על־ידי
+# This is a section label to describe the link to the model card on the Hugging Face website
+mlmodel-addon-detail-model-card = כרטיס מודל
+# This is a label for the Model Card link to Hugging face
+mlmodel-addon-detail-model-card-link-label = הצגה ב־Hugging Face

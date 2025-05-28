@@ -15,6 +15,8 @@ about-logging-set-log-file = הגדרת קובץ רישום
 about-logging-set-log-modules = הגדרת מודולי רישום
 about-logging-start-logging = התחלת רישום
 about-logging-stop-logging = הפסקת רישום
+about-logging-copy-as-url = העתקת ההגדרות הנוכחיות ככתובת אתר
+about-logging-url-copied = הגדרות הרישום הועתקו ללוח העריכה ככתובת
 about-logging-buttons-disabled = הרישום מוגדר באמצעות משתני סביבה ולכן הגדרה דינמית אינה זמינה.
 about-logging-some-elements-disabled = הרישום מוגדר באמצעות כתובת URL, חלק מאפשרויות התצורה אינן זמינות
 about-logging-info = מידע:
@@ -26,6 +28,8 @@ about-logging-logging-to-profiler = רישום ל־{ -profiler-brand-name }
 about-logging-no-log-modules = ללא
 about-logging-no-log-file = ללא
 about-logging-logging-preset-selector-text = ערכת רישום:
+about-logging-menu =
+    .title = אפשרויות מתקדמות
 
 ## Logging presets
 
