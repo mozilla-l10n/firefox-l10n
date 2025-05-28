@@ -54,8 +54,12 @@ install-search-engine-no = Ně
 add-engine-window =
     .title = Pytawu přidać
     .style = min-width: 32em;
+edit-engine-window =
+    .title = Pytawu wobdźěłać
+    .style = min-width: 32em;
 add-engine-button = Swójsku pytawu přidać
 add-engine-name = Mjeno pytawy
+add-engine-keyword2 = Klučowe słowo (opcionalny)
 add-engine-keyword = Klučowe słowo
 add-engine-url = URL pytawy, wužiwajće %s město pytanskeho wuraza
 add-engine-dialog =
@@ -66,9 +70,30 @@ engine-keyword-exists = Pytawa z tym klučowym słowom hižo eksistuje
 
 ## The following placeholders are shown in the inputs when adding a new engine.
 
+add-engine-name-placeholder =
+    .placeholder = na př. syć wuwiwarjow Mozilla
+add-engine-url-placeholder =
+    .placeholder = na př. https://developer.mozilla.com/search?q=%s
+add-engine-keyword-placeholder =
+    .placeholder = na př. @mdn
 
 ## The following strings are used as error messages.
 
+add-engine-name-exists = Tute mjeno so hižo wužiwa. Prošu wubjerće druhe.
+add-engine-no-name = Prošu přidajće mjeno.
+add-engine-no-url = Prošu zapodajće URL.
 
 ## The following strings are used as labels for the dialog's buttons.
 
+# buttonlabelextra1 is the label of a button to open the advanced section
+# of the dialog.
+add-engine-dialog2 =
+    .buttonlabelaccept = Pytawu přidać
+    .buttonaccesskeyaccept = P
+    .buttonlabelextra1 = Rozšěrjene
+# buttonlabelextra1 is the label of a button to open the advanced section
+# of the dialog.
+edit-engine-dialog =
+    .buttonlabelaccept = Pytawu składować
+    .buttonaccesskeyaccept = s
+    .buttonlabelextra1 = Rozšěrjene

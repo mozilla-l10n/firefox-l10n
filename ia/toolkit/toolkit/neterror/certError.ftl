@@ -127,6 +127,12 @@ cert-error-path-len-constraint-invalid = { -brand-short-name } blocava tu visita
 cert-error-invalid-key = { -brand-short-name } blocava tu visita a iste sito perque le certificato fornite pro { $hostname } ha un clave que es non valide. Multo probabilemente, illo es troppo micre pro esser secur.
 cert-error-unknown-critical-extension = { -brand-short-name } blocava tu visita a iste sito perque le certificato fornite pro { $hostname } contine un extension critic non supportate.
 cert-error-extension-value-invalid = { -brand-short-name } blocava tu visita a iste sito perque le certificato fornite pro { $hostname } contine un extension non valide.
+cert-error-untrusted-issuer = { -brand-short-name } blocava tu visita a iste sito perque le certificato fornite pro { $hostname } era publicate per un autoritate de certification que non plus es de confidentia.
+cert-error-untrusted-cert = { -brand-short-name } blocava tu visita a iste sito perque le certificato fornite pro { $hostname } es marcate como non de confidentia.
+cert-error-invalid-integer-encoding = { -brand-short-name } blocava tu visita a iste sito perque le certificato fornite pro { $hostname } contine un codification de un numero integre non valide. I.a. le numeros serial negative, le modulos RSA negative, e le codificationes plus longe que necessari es causas commun.
+cert-error-unsupported-keyalg = { -brand-short-name } blocava tu visita a iste sito perque le certificato fornite pro { $hostname } ha un typo de clave non supportate.
+cert-error-issuer-no-longer-trusted = { -brand-short-name } blocava tu visita a iste sito perque le autoritate de certification que emitteva le certificato fornite pro { $hostname } non plus es de confidentia.
+cert-error-signature-algorithm-mismatch = { -brand-short-name } blocava tu visita a iste sito perque le algorithmo de firma del certificato fornite pro { $hostname } non concorda con su campo de algorithmo de firma.
 
 ## Messages used for certificate error titles
 

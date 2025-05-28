@@ -573,3 +573,7 @@ mlmodel-link-preview = { -brand-short-name } to wužiwa, zo by klučowe dypki ge
 mlmodel-pdfjs = { -brand-short-name } to wužiwa, zo by alternatiwny tekst za wobrazy wutworił, kotrež datajam PDF přidawaće
 mlmodel-smart-tab-topic-engine = { -brand-short-name } to wužiwa, zo by mjeno za waše skupiny rajtarkow namjetował
 mlmodel-smart-tab-embedding-engine = { -brand-short-name } to wužiwa, zo by rajtarki za waše skupiny rajtarkow namjetował
+# AI Model will be downloaded on the users device and used locally
+addon-category-mlmodel = KI na graće
+addon-category-mlmodel-title =
+    .title = KI na graće

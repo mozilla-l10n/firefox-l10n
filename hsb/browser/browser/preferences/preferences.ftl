@@ -657,6 +657,9 @@ home-prefs-weather-header =
     .label = Wjedro
 home-prefs-weather-description = Dźensniša wjedrowa předpowědź na jedyn pohlad
 home-prefs-weather-learn-more-link = Dalše informacije
+# "Support" here means to help sustain or contribute to something, especially through funding or sponsorship.
+home-prefs-support-firefox-header =
+    .label = { -brand-product-name } podpěrać
 home-prefs-mission-message = Naši sponsorojo našu misiju podpěruja, zo bychu lěpši web tworili
 home-prefs-mission-message-learn-more-link = Zhońće kak
 # Variables:
@@ -729,6 +732,9 @@ search-remove-engine =
 search-add-engine =
     .label = Přidać
     .accesskey = P
+search-edit-engine =
+    .label = Wobdźěłać
+    .accesskey = d
 search-find-more-link = Dalše pytawy pytać
 # This warning is displayed when the chosen keyword is already in use
 # ('Duplicate' is an adjective)
