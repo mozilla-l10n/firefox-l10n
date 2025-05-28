@@ -651,6 +651,9 @@ home-prefs-weather-header =
     .label = Veður
 home-prefs-weather-description = Spá dagsins í hnotskurn
 home-prefs-weather-learn-more-link = Kanna nánar
+# "Support" here means to help sustain or contribute to something, especially through funding or sponsorship.
+home-prefs-support-firefox-header =
+    .label = Styddu við { -brand-product-name }
 home-prefs-mission-message = Styrktaraðilar okkar styðja markmið okkar að byggja upp betri vef
 home-prefs-mission-message-learn-more-link = Finndu út hvernig
 # Variables:
@@ -721,6 +724,9 @@ search-remove-engine =
 search-add-engine =
     .label = Bæta við
     .accesskey = a
+search-edit-engine =
+    .label = Breyta
+    .accesskey = e
 search-find-more-link = Finna fleiri leitarvélar
 # This warning is displayed when the chosen keyword is already in use
 # ('Duplicate' is an adjective)

@@ -53,8 +53,15 @@ install-search-engine-no = Nei
 add-engine-window =
     .title = Bæta við leitarvél
     .style = min-width: 32em;
+edit-engine-window =
+    .title = Breyta leitarvél
+    .style = min-width: 32em;
 add-engine-button = Bæta við sérsniðinni leitarvél
 add-engine-name = Heiti leitarvélar
+add-engine-url2 = Vefslóð með %s í stað leitarorða
+add-engine-keyword2 = Leitarorð (valfrjálst)
+# POST and GET refer to the HTTP methods.
+add-engine-post-data = POST-gögn með %s í stað leitarorða (skilja eftir autt fyrir GET)
 add-engine-keyword = Stikkorð
 add-engine-url = Slóð á leitarvél, notaðu %s í stað leitarorðsins
 add-engine-dialog =

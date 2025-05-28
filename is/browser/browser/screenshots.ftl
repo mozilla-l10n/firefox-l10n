@@ -66,6 +66,11 @@ screenshots-component-copy-button-2 = Afrita
 screenshots-component-download-button-2 = Sækja
     .title = Sækja ({ $shortcut })
     .aria-label = Sækja
+# Variables
+#   $shortcut (String) - A keyboard shortcut for the screenshot command.
+screenshot-toolbar-button =
+    .label = Skjámynd
+    .tooltiptext = Taktu skjámynd ({ $shortcut })
 
 ## The below strings are used to capture keydown events so the strings should
 ## not be changed unless the keyboard layout in the locale requires it.
