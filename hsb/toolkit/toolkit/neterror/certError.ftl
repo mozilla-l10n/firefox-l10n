@@ -117,9 +117,11 @@ fp-learn-more-about-time-related-errors = Zhońće wjace wo rozrisowanju na čas
 ## Variables:
 ##   $hostname (string) - Hostname of the website with cert error.
 
+cert-error-revoked-certificate = { -brand-short-name } je waš wopyt na tutym sydle zablokował, dokelž certifikat, kotryž je so za { $hostname } k dispoziciji stajił, je so wotwołał a hižo dowěry hódny njeje.
 cert-error-bad-signature = { -brand-short-name } je waš wopyt na tutym sydle zablokował, dokelž signatura na certifikaće, kotryž je so za { $hostname } k dispoziciji stajił, płaćiwy njeje.
 cert-error-key-pinning-failure = { -brand-short-name } je waš wopyt na tutym sydle zablokował, dokelž certifikat, kotryž je so za { $hostname } k dispoziciji stajił, druhi zjawny kluč wužiwa, hač je so wočakował.
 cert-error-bad-der = { -brand-short-name } je waš wopyt na tutym sydle zablokował, dokelž certifikat, kotryž je so za { $hostname } k dispoziciji stajił, porjadnje koděrowany njeje.
+cert-error-cert-not-in-name-space = { -brand-short-name } je waš wopyt na tutym sydle zablokował, dokelž certifikat, kotryž je so za { $hostname } k dispoziciji stajił, mjenowym wobmjezowanjam certifikata njeslěduje, kotryž je jón wudał.
 cert-error-inadequate-cert-type = { -brand-short-name } je waš wopyt na tutym sydle zablokował, dokelž certifikat, kotryž je so za { $hostname } k dispoziciji stajił, njesmě so přez webserwer wužiwać.
 cert-error-invalid-key = { -brand-short-name } je waš wopyt na tutym sydle zablokował, dokelž certifikat, kotryž je so za { $hostname } k dispoziciji stajił, ma njepłaćiwy kluč. Najskerje je přemały, zo by wěsty był.
 cert-error-unknown-critical-extension = { -brand-short-name } je waš wopyt na tutym sydle zablokował, dokelž certifikat, kotryž je so za { $hostname } k dispoziciji stajił, njepodpěrane kritiske rozšěrjenje wobsahuje.

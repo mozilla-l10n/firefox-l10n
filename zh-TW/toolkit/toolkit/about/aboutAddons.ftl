@@ -560,3 +560,14 @@ addon-category-mlmodel = 本機裝置上的 AI
 addon-category-mlmodel-title =
     .title = 本機裝置上的 AI
 mlmodel-heading = 管理本機裝置上的 AI 模型
+mlmodel-description = { -brand-short-name } 當中的部分功能與擴充套件是由安裝於您的裝置上的 AI 模型所提供的。模型只能在您的裝置上運作，可以保護您的隱私，且在許多情境下效能都比較優秀。<a data-l10n-name="learn-more">更多資訊</a>
+# Label for button that when clicked removed local model
+mlmodel-remove-addon-button =
+    .aria-label = 移除
+# Label for the aggregated value of all files for a model
+mlmodel-addon-detail-totalsize-label = 檔案大小
+mlmodel-addon-detail-last-used-label = 上次使用
+# This is a section label to describe what extensions or features use a specific local AI model
+mlmodel-addon-detail-used-by-label = 可用於
+# This is a section label to describe the link to the model card on the Hugging Face website
+mlmodel-addon-detail-model-card = 模型卡
