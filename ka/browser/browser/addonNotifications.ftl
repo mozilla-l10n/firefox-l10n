@@ -81,6 +81,8 @@ addon-removal-title = მოცილდეს { $name }?
 addon-removal-message = { $name } გაფართოებას ამოშლის { -brand-shorter-name }, გნებავთ?
 addon-removal-button = ამოშლა
 addon-removal-abuse-report-checkbox = გაფართოების შესახებ საჩივარი { -vendor-short-name }-ს
+# "it" refers to the local AI model that is paired to the AI feature
+addon-mlmodel-removal-body = თუ იყენებთ შესაძლებლობას ან გაფართოებას, რომელიც ამ მოდელით სარგებლობს, ხელახლა დაემატება.
 # Variables:
 #   $addonCount (Number): the number of add-ons being downloaded
 addon-downloading-and-verifying =

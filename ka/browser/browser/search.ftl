@@ -54,11 +54,18 @@ install-search-engine-no = არა
 add-engine-window =
     .title = საძიებო სისტემის დამატება
     .style = min-width: 32em;
+edit-engine-window =
+    .title = საძიებოს ჩასწორება
+    .style = min-width: 32em;
 add-engine-button = მორგებული საძიებოს დამატება
 add-engine-name = საძიებო სისტემის სახელი
+add-engine-url2 = ბმული და %s საძებნი ფრაზის ადგილას
 add-engine-keyword2 = საკვანძო სიტყვა (არასავალდებულო)
+# POST and GET refer to the HTTP methods.
+add-engine-post-data = POST-გადაცემისას დაურთეთ %s საძებნი ფრაზის ადგილას (დატოვეთ ცარიელი GET-გადაცემისას)
+add-engine-suggest-url = შემოთავაზებების ბმული და %s საძებნი ფრაზის ადგილას (არასავალდებულო)
 add-engine-keyword = საკვანძო სიტყვა
-add-engine-url = საძიებოს ბმული, მოსაძიებელ ფრაზად მიუთითეთ %s
+add-engine-url = საძიებოს ბმული, გამოიყენეთ %s საძებნი ფრაზის ადგილას
 add-engine-dialog =
     .buttonlabelaccept = საძიებოს დამატება
     .buttonaccesskeyaccept = დ
@@ -77,10 +84,27 @@ add-engine-keyword-placeholder =
 ## The following strings are used as error messages.
 
 add-engine-keyword-exists = ეს საკვანძო სიტყვა უკვე გამოიყენება. სცადეთ სხვა.
-add-engine-name-exists = ეს სახელი უკვე გამოიყენება. გთხოვთ სხვა შეარჩიეთ.
+add-engine-name-exists = ეს სახელი უკვე გამოიყენება. გთხოვთ სხვა შეარჩიოთ.
 add-engine-no-name = გთხოვთ მიუთითოთ სახელი.
 add-engine-no-url = გთხოვთ შეიყვანოთ ბმული.
 add-engine-invalid-url = ეს ბმული უმართებულოა. გთხოვთ გადაამოწმოთ და კვლავ სცადოთ.
+add-engine-invalid-protocol = ეს ბმული უმართებულოა. გამოიყენეთ ისეთი, რომელსაც თავსართად ექნება http ან https.
+# This error is shown when the user typed URL is missing %s.
+add-engine-missing-terms-url = ეცადეთ დაურთოთ %s საძებნი ფრაზის ადგილას.
+# This error is shown when the user typed post data is missing %s.
+add-engine-missing-terms-post-data = ეცადეთ დაურთოთ %s საძებნი ფრაზის ადგილას.
 
 ## The following strings are used as labels for the dialog's buttons.
 
+# buttonlabelextra1 is the label of a button to open the advanced section
+# of the dialog.
+add-engine-dialog2 =
+    .buttonlabelaccept = საძიებოს დამატება
+    .buttonaccesskeyaccept = ტ
+    .buttonlabelextra1 = გაფართოებული
+# buttonlabelextra1 is the label of a button to open the advanced section
+# of the dialog.
+edit-engine-dialog =
+    .buttonlabelaccept = საძიებოს შენახვა
+    .buttonaccesskeyaccept = ნ
+    .buttonlabelextra1 = გაფართოებული
