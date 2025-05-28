@@ -639,6 +639,9 @@ home-prefs-weather-header =
     .label = 날씨
 home-prefs-weather-description = 오늘의 일기예보를 한눈에
 home-prefs-weather-learn-more-link = 더 알아보기
+# "Support" here means to help sustain or contribute to something, especially through funding or sponsorship.
+home-prefs-support-firefox-header =
+    .label = { -brand-product-name } 지원
 home-prefs-mission-message = 스폰서는 더 나은 웹을 만들려는 우리의 사명을 지원합니다
 home-prefs-mission-message-learn-more-link = 방법 알아보기
 # Variables:
@@ -705,6 +708,9 @@ search-remove-engine =
 search-add-engine =
     .label = 추가
     .accesskey = A
+search-edit-engine =
+    .label = 편집
+    .accesskey = E
 search-find-more-link = 검색 엔진 더 찾기
 # This warning is displayed when the chosen keyword is already in use
 # ('Duplicate' is an adjective)
@@ -713,6 +719,10 @@ search-keyword-warning-title = 키워드 복사
 #   $name (string) - Name of a search engine.
 search-keyword-warning-engine = "{ $name }"에서 이미 사용 중인 키워드를 선택했습니다. 다른 것을 선택하세요.
 search-keyword-warning-bookmark = 북마크에서 이미 사용 중인 키워드를 선택했습니다. 다른 것을 선택하세요.
+# This warning is displayed when the chosen name is already in use.
+# Variables:
+#   $name (string) - Name of a search engine.
+edit-engine-name-warning-duplicate = 이미 “{ $name }” 이름의 검색 엔진이 있습니다. 다른 이름을 선택해 주세요.
 remove-engine-confirmation = 이 검색 엔진을 제거하시겠습니까?
 remove-engine-remove = 제거
 remove-addon-engine-alert = 이 검색 엔진을 제거하려면 관련 부가 기능도 삭제하세요.

@@ -111,7 +111,7 @@ webext-perms-host-description-multiple-domains =
 webext-perms-description-data-none = El desarrollador dice que esta extensión no requiere recopilación de datos.
 # Variables:
 #    $permissions (String): a list of data collection permissions formatted with `Intl.ListFormat` using the "narrow" style.
-webext-perms-description-data-some = El desarrollador dice que esta extensión recopila: { $permisos }
+webext-perms-description-data-some = El desarrollador dice que esta extensión recopila: { $permissions }
 # Variables:
 #    $permissions (String): a list of data collection permissions formatted with `Intl.ListFormat` using the "narrow" style.
 webext-perms-description-data-some-update = El desarrollador dice que la extensión recopilará: { $permissions }
