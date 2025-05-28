@@ -119,6 +119,9 @@ fp-learn-more-about-time-related-errors = מידע נוסף על פתרון בע
 
 cert-error-revoked-certificate = ‏{ -brand-short-name } חסם את הביקור שלך לאתר זה מכיוון שאישור האבטחה שסופק עבור { $hostname } נשלל ואינו מהימן יותר.
 cert-error-bad-signature = ‏{ -brand-short-name } חסם את הביקור שלך לאתר זה מכיוון שהחתימה על אישור האבטחה שסופק עבור { $hostname } אינה חוקית.
+cert-error-invalid-key = ‏{ -brand-short-name } חסם את הביקור שלך לאתר זה מכיוון שלאישור האבטחה שסופק עבור { $hostname } יש מפתח שאינו חוקי. סביר להניח שהוא קטן מדי כדי להיות מאובטח.
+cert-error-extension-value-invalid = ‏{ -brand-short-name } חסם את הביקור שלך לאתר זה מכיוון שאישור האבטחה שסופק עבור { $hostname } מכיל הרחבה לא חוקית.
+cert-error-invalid-integer-encoding = ‏{ -brand-short-name } חסם את הביקור שלך לאתר זה מכיוון שאישור האבטחה שסופק עבור { $hostname } מכיל קידוד שגוי של מספר שלם וחיובי. הסיבות הנפוצות לכך הן מספרי סידוריים שליליים, שאריות שליליות של RSA וקידודים ארוכים מהנדרש.
 
 ## Messages used for certificate error titles
 
