@@ -567,3 +567,11 @@ mlmodel-smart-tab-topic-engine = { -brand-short-name } usa isto pro suggerer nom
 mlmodel-smart-tab-embedding-engine = { -brand-short-name } usa isto pro suggerer schedas pro tu gruppos de schedas
 # AI Model will be downloaded on the users device and used locally
 addon-category-mlmodel = IA sur apparato
+# Label for button that when clicked removed local model
+mlmodel-remove-addon-button =
+    .aria-label = Remover
+# Label for the aggregated value of all files for a model
+mlmodel-addon-detail-totalsize-label = Dimension de file
+mlmodel-addon-detail-last-used-label = Ultimemente usate
+# This is a section label to describe what extensions or features use a specific local AI model
+mlmodel-addon-detail-used-by-label = Usate per

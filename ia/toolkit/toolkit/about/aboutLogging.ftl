@@ -27,6 +27,8 @@ about-logging-no-log-modules = Nemo
 about-logging-no-log-file = Nemo
 about-logging-logging-preset-selector-text = Pre-configuration del registration:
 about-logging-with-profiler-stacks-checkbox = Activar le traciamento del pila pro messages de registration
+about-logging-menu =
+    .title = Optiones avantiate
 
 ## Logging presets
 
