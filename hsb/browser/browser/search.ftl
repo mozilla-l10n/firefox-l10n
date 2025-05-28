@@ -59,6 +59,7 @@ edit-engine-window =
     .style = min-width: 32em;
 add-engine-button = Swójsku pytawu přidać
 add-engine-name = Mjeno pytawy
+add-engine-url2 = URL z %s město pytanskeho wuraza
 add-engine-keyword2 = Klučowe słowo (opcionalny)
 add-engine-keyword = Klučowe słowo
 add-engine-url = URL pytawy, wužiwajće %s město pytanskeho wuraza
@@ -82,6 +83,10 @@ add-engine-keyword-placeholder =
 add-engine-name-exists = Tute mjeno so hižo wužiwa. Prošu wubjerće druhe.
 add-engine-no-name = Prošu přidajće mjeno.
 add-engine-no-url = Prošu zapodajće URL.
+# This error is shown when the user typed URL is missing %s.
+add-engine-missing-terms-url = Spytajće %s město pytanskeho wuraza zapřijeć
+# This error is shown when the user typed post data is missing %s.
+add-engine-missing-terms-post-data = Spytajće %s město pytanskeho wuraza zapřijeć
 
 ## The following strings are used as labels for the dialog's buttons.
 

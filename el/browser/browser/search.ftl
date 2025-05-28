@@ -54,6 +54,9 @@ install-search-engine-no = Όχι
 add-engine-window =
     .title = Προσθήκη μηχανής αναζήτησης
     .style = min-width: 32em;
+edit-engine-window =
+    .title = Επεξεργασία μηχανής αναζήτησης
+    .style = min-width: 32em;
 add-engine-button = Προσθήκη προσαρμοσμένης μηχανής
 add-engine-name = Όνομα μηχανής αναζήτησης
 add-engine-keyword = Λέξη-κλειδί
@@ -66,9 +69,27 @@ engine-keyword-exists = Υπάρχει ήδη μια μηχανή με αυτή�
 
 ## The following placeholders are shown in the inputs when adding a new engine.
 
+add-engine-name-placeholder =
+    .placeholder = π.χ. Mozilla Developer Network
+add-engine-url-placeholder =
+    .placeholder = π.χ. https://developer.mozilla.com/search?q=%s
+add-engine-keyword-placeholder =
+    .placeholder = π.χ. @mdn
 
 ## The following strings are used as error messages.
 
 
 ## The following strings are used as labels for the dialog's buttons.
 
+# buttonlabelextra1 is the label of a button to open the advanced section
+# of the dialog.
+add-engine-dialog2 =
+    .buttonlabelaccept = Προσθήκη μηχανής
+    .buttonaccesskeyaccept = Π
+    .buttonlabelextra1 = Σύνθετα
+# buttonlabelextra1 is the label of a button to open the advanced section
+# of the dialog.
+edit-engine-dialog =
+    .buttonlabelaccept = Αποθήκευση μηχανής
+    .buttonaccesskeyaccept = Α
+    .buttonlabelextra1 = Σύνθετα

@@ -66,6 +66,11 @@ screenshots-component-copy-button-2 = Αντιγραφή
 screenshots-component-download-button-2 = Λήψη
     .title = Λήψη ({ $shortcut })
     .aria-label = Λήψη
+# Variables
+#   $shortcut (String) - A keyboard shortcut for the screenshot command.
+screenshot-toolbar-button =
+    .label = Στιγμιότυπο οθόνης
+    .tooltiptext = Λήψη στιγμιότυπου οθόνης ({ $shortcut })
 
 ## The below strings are used to capture keydown events so the strings should
 ## not be changed unless the keyboard layout in the locale requires it.

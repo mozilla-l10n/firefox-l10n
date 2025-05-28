@@ -15,6 +15,7 @@ about-logging-set-log-file = Protokolowu dataju postajić
 about-logging-set-log-modules = Protokolowe module postajić
 about-logging-start-logging = Protokolowanje započeć
 about-logging-stop-logging = Protokolowanje skónčić
+about-logging-copy-as-url = Aktualne nastajenja jako URL kopěrować
 about-logging-buttons-disabled = Protokolowanje je přez wokolinowe wariable skonfigurowane, dynamiska konfiguracija k dispoziciji njeje.
 about-logging-some-elements-disabled = Protokolowanje je přez URL skonfigurowane, někotre konfiguraciske nastajenja k dispoziciji njejsu
 about-logging-info = Info:

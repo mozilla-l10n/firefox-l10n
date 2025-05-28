@@ -117,6 +117,7 @@ fp-learn-more-about-time-related-errors = Zhońće wjace wo rozrisowanju na čas
 ## Variables:
 ##   $hostname (string) - Hostname of the website with cert error.
 
+cert-error-invalid-integer-encoding = { -brand-short-name } je waš wopyt na tutym sydle zablokował, dokelž certifikat, kotryž je so za { $hostname } k dispoziciji stajił, njepłaćiwe kodowanje cyłeje ličby wobsahuje. Huste zawiny móža być: negatiwne serijowe čisła, negatiwne RSA-module a kodowanja, kotrež su dlěše hač trěbne.
 
 ## Messages used for certificate error titles
 

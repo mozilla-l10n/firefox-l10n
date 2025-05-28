@@ -721,6 +721,9 @@ search-remove-engine =
 search-add-engine =
     .label = Προσθήκη
     .accesskey = Π
+search-edit-engine =
+    .label = Επεξεργασία
+    .accesskey = Ε
 search-find-more-link = Εύρεση περισσότερων μηχανών αναζήτησης
 # This warning is displayed when the chosen keyword is already in use
 # ('Duplicate' is an adjective)
