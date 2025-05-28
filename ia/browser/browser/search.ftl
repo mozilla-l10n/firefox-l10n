@@ -73,6 +73,20 @@ engine-keyword-exists = Un motor con ille parola clave jam existe
 
 ## The following strings are used as error messages.
 
+# This error is shown when the user typed URL is missing %s.
+add-engine-missing-terms-url = Tenta includer %s al posto del termino de recerca.
 
 ## The following strings are used as labels for the dialog's buttons.
 
+# buttonlabelextra1 is the label of a button to open the advanced section
+# of the dialog.
+add-engine-dialog2 =
+    .buttonlabelaccept = Adder motor
+    .buttonaccesskeyaccept = A
+    .buttonlabelextra1 = Avantiate
+# buttonlabelextra1 is the label of a button to open the advanced section
+# of the dialog.
+edit-engine-dialog =
+    .buttonlabelaccept = Salvar motor
+    .buttonaccesskeyaccept = S
+    .buttonlabelextra1 = Avantiate

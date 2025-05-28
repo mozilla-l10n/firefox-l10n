@@ -565,3 +565,5 @@ mlmodel-link-preview = { -brand-short-name } usa isto pro generar punctos clave 
 mlmodel-pdfjs = { -brand-short-name } usa isto pro crear texto alternative pro imagines addite a files PDF
 mlmodel-smart-tab-topic-engine = { -brand-short-name } usa isto pro suggerer nomines pro tu gruppos de schedas
 mlmodel-smart-tab-embedding-engine = { -brand-short-name } usa isto pro suggerer schedas pro tu gruppos de schedas
+# AI Model will be downloaded on the users device and used locally
+addon-category-mlmodel = IA sur apparato
