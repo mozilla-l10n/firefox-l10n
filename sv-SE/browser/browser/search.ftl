@@ -86,7 +86,7 @@ add-engine-keyword-placeholder =
 add-engine-keyword-exists = Nyckelordet används redan. Prova ett annat.
 add-engine-name-exists = Namnet används redan. Vänligen välj ett annat.
 add-engine-no-name = Vänligen lägg till ett namn.
-add-engine-no-url = Skriv in en URL.
+add-engine-no-url = Ange en webbadress.
 add-engine-invalid-url = Den webbadressen ser inte rätt ut. Kontrollera och försök igen.
 add-engine-invalid-protocol = Den webbadressen ser inte rätt ut. Använd en webbadress som börjar med http eller https.
 # This error is shown when the user typed URL is missing %s.
@@ -100,7 +100,7 @@ add-engine-missing-terms-post-data = Försök inkludera %s istället för sökte
 # of the dialog.
 add-engine-dialog2 =
     .buttonlabelaccept = Lägg till sökmotor
-    .buttonaccesskeyaccept = A
+    .buttonaccesskeyaccept = L
     .buttonlabelextra1 = Avancerat
 # buttonlabelextra1 is the label of a button to open the advanced section
 # of the dialog.

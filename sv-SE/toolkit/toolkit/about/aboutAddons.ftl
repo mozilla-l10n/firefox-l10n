@@ -572,7 +572,7 @@ addon-category-mlmodel = AI på enheten
 addon-category-mlmodel-title =
     .title = AI på enheten
 mlmodel-heading = Hantera AI-modeller på enheten
-mlmodel-description = Vissa funktioner och tillägg i { -brand-short-name } drivs av AI-modeller som fungerar lokalt på din enhet. Detta tillvägagångssätt skyddar din integritet och, i många fall, snabbar upp prestanda. <a data-l10n-name="learn-more">Läs mer</a>
+mlmodel-description = Vissa funktioner och tillägg i { -brand-short-name } drivs av AI-modeller som fungerar lokalt på din enhet. Detta tillvägagångssätt skyddar din integritet och i många fall, snabbar upp prestanda. <a data-l10n-name="learn-more">Läs mer</a>
 # Label for button that when clicked removed local model
 mlmodel-remove-addon-button =
     .aria-label = Ta bort
@@ -582,6 +582,6 @@ mlmodel-addon-detail-last-used-label = Senast använd
 # This is a section label to describe what extensions or features use a specific local AI model
 mlmodel-addon-detail-used-by-label = Används av
 # This is a section label to describe the link to the model card on the Hugging Face website
-mlmodel-addon-detail-model-card = Modell kort
+mlmodel-addon-detail-model-card = Modellkort
 # This is a label for the Model Card link to Hugging face
 mlmodel-addon-detail-model-card-link-label = Visa på Hugging Face
