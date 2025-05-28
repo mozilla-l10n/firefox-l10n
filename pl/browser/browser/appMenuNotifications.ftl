@@ -47,6 +47,9 @@ appmenu-addon-post-install-message3 = Zarządzaj dodatkami i motywami w menu a
 # This string is used in the confirmation popup displayed after an extension
 # has been installed, when the data collection feature is enabled.
 appmenu-addon-post-install-message-with-data-collection = W <a data-l10n-name="settings-link">ustawieniach rozszerzenia</a> można w każdej chwili zmienić uprawnienia i preferencje zbierania danych.
+appmenu-addon-post-install-pin-toolbarbutton-checkbox =
+    .label = Przypnij rozszerzenie do paska narzędzi
+    .accesskey = P
 appmenu-addon-post-install-incognito-checkbox =
     .label = To rozszerzenie może działać w oknach prywatnych
     .accesskey = T
