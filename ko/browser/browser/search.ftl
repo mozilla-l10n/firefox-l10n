@@ -88,6 +88,11 @@ add-engine-name-exists = 이미 사용 중인 이름입니다. 다른 것을 선
 add-engine-no-name = 이름을 추가하세요.
 add-engine-no-url = URL을 입력하세요.
 add-engine-invalid-url = 해당 URL이 올바르지 않습니다. 확인 후 다시 시도해 주세요.
+add-engine-invalid-protocol = 해당 URL이 올바르지 않습니다. http 또는 https로 시작하는 URL을 사용하세요.
+# This error is shown when the user typed URL is missing %s.
+add-engine-missing-terms-url = 검색어 대신 %s를 사용해 보세요.
+# This error is shown when the user typed post data is missing %s.
+add-engine-missing-terms-post-data = 검색어 대신 %s를 사용해 보세요.
 
 ## The following strings are used as labels for the dialog's buttons.
 
