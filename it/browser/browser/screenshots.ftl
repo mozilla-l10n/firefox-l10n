@@ -88,3 +88,4 @@ screenshots-component-copy-key = C
 screenshots-overlay-selection-region-size-3 = { $width } × { $height }
 screenshots-overlay-preview-face-label =
     .aria-label = Seleziona questa regione
+

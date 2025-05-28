@@ -97,3 +97,4 @@ about-logging-upload-error = Si è verificato un errore durante il caricamento d
 # Variables:
 #   $errorText (string) - The received error message, inserted as is.
 about-logging-save-error = Si è verificato un errore durante il salvataggio del file: { $errorText }
+
