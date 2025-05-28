@@ -12,6 +12,10 @@ cert-error-trust-expired-issuer = سرٹیفیكیٹ چھَ نئ بروسئ  م�
 cert-error-trust-self-signed = سرٹیفیكیٹ چھَ نئ بروسئ مند كیازئ كئ اَتھ چھُ دستخت كر۪یتھ
 cert-error-untrusted-default = سرٹئفیكیٹ چھئ نئ آمژ بروسئ مند زریعئ پیٹھئ
 
+## Variables:
+##   $hostname (string) - Hostname of the website with cert error.
+
+
 ## Messages used for certificate error titles
 
 connectionFailure-title = ہیك نئ رٲبطئ كر۪یتھ

@@ -48,8 +48,7 @@ install-search-engine = Rnu { $engineName } d amsedday n unadi,
 install-search-engine-add = Rnu
 install-search-engine-no = Ala
 
-## These strings are used for the add engine dialog when adding a custom search engine
-## in settings or when adding an HTML form as a search engine.
+## The following strings are used as input labels.
 
 add-engine-window =
     .title = Rnu amsedday n unadi
@@ -63,3 +62,12 @@ add-engine-dialog =
     .buttonaccesskeyaccept = A
 engine-name-exists = Amsedday n unadi s yisem-a yella yakan
 engine-keyword-exists = Amsedday n unadi s wawal-a tasarut yella yakan
+
+## The following placeholders are shown in the inputs when adding a new engine.
+
+
+## The following strings are used as error messages.
+
+
+## The following strings are used as labels for the dialog's buttons.
+

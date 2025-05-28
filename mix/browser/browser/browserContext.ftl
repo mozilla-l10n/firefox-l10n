@@ -54,9 +54,7 @@ main-context-menu-open-link =
     .label = Kuna enlace
     .accesskey = O
 
-## The access keys for "Copy Link" and "Copy Email Address"
-## should be the same if possible; the two context menu items
-## are mutually exclusive.
+##
 
 
 ## Media (video/audio) controls

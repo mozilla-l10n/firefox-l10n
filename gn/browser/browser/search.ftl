@@ -48,8 +48,7 @@ install-search-engine = ¿Embojuaju { $engineName } jehekaha mongu’eháramo?
 install-search-engine-add = Mbojuaju
 install-search-engine-no = Nahániri
 
-## These strings are used for the add engine dialog when adding a custom search engine
-## in settings or when adding an HTML form as a search engine.
+## The following strings are used as input labels.
 
 add-engine-window =
     .title = Embojuaju hekaha
@@ -63,3 +62,12 @@ add-engine-dialog =
     .buttonaccesskeyaccept = A
 engine-name-exists = Oĩma jehekaha ko térape jehaipyre
 engine-keyword-exists = Oĩma jehekaha hérava ko ñe’ẽñemícha
+
+## The following placeholders are shown in the inputs when adding a new engine.
+
+
+## The following strings are used as error messages.
+
+
+## The following strings are used as labels for the dialog's buttons.
+

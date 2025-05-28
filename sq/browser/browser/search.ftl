@@ -49,8 +49,7 @@ install-search-engine = Të shtohet { $engineName } si një motor kërkimesh?
 install-search-engine-add = Shtoje
 install-search-engine-no = Jo
 
-## These strings are used for the add engine dialog when adding a custom search engine
-## in settings or when adding an HTML form as a search engine.
+## The following strings are used as input labels.
 
 add-engine-window =
     .title = Shtoni Motor Kërkimesh
@@ -64,3 +63,12 @@ add-engine-dialog =
     .buttonaccesskeyaccept = S
 engine-name-exists = Ka tashmë një motor me këtë emër
 engine-keyword-exists = Ka tashmë një motor me këtë fjalëkyç
+
+## The following placeholders are shown in the inputs when adding a new engine.
+
+
+## The following strings are used as error messages.
+
+
+## The following strings are used as labels for the dialog's buttons.
+

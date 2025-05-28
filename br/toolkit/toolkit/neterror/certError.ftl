@@ -69,6 +69,10 @@ open-in-new-window-for-csp-or-xfo-error = Digeriñ al lec’hienn en ur prenestr
 #   $hostname (string) - Hostname of the website blocked by csp or xfo error.
 csp-xfo-blocked-long-desc = Evit gwareziñ ho surentez, { $hostname } na aotreo ket { -brand-short-name } da ziskouez ar bajenn ma vez ul lec’hienn all enkorfet enni. Evit gwelout ar bajenn-mañ ho peus ezhomm da zigeriñ anezhi en ur prenestr nevez.
 
+## Variables:
+##   $hostname (string) - Hostname of the website with cert error.
+
+
 ## Messages used for certificate error titles
 
 connectionFailure-title = Ne c’haller ket kennaskañ

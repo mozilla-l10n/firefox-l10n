@@ -49,8 +49,7 @@ install-search-engine = Agiuntar { $engineName } sco maschina da tschertgar?
 install-search-engine-add = Agiuntar
 install-search-engine-no = Na
 
-## These strings are used for the add engine dialog when adding a custom search engine
-## in settings or when adding an HTML form as a search engine.
+## The following strings are used as input labels.
 
 add-engine-window =
     .title = Agiuntar ina maschina da tschertgar
@@ -64,3 +63,12 @@ add-engine-dialog =
     .buttonaccesskeyaccept = A
 engine-name-exists = Ina maschina da tschertgar cun quest num exista gia
 engine-keyword-exists = Igl exista gia ina maschina da retschertga cun quest chavazzin
+
+## The following placeholders are shown in the inputs when adding a new engine.
+
+
+## The following strings are used as error messages.
+
+
+## The following strings are used as labels for the dialog's buttons.
+

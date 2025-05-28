@@ -105,9 +105,7 @@ main-context-menu-save-link =
     .label = தொடுப்பை இவ்வாறு சேமி…
     .accesskey = k
 
-## The access keys for "Copy Link" and "Copy Email Address"
-## should be the same if possible; the two context menu items
-## are mutually exclusive.
+##
 
 main-context-menu-copy-email =
     .label = மின்னஞ்சல் முகவரியை நகலெடு

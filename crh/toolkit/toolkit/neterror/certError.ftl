@@ -56,6 +56,10 @@ cert-error-details-hsts-label = HTTP Sıqı Naqliye Emniyeti: { $hasHSTS }
 cert-error-details-key-pinning-label = HTTP Aleniy Anahtar Tüyremesi: { $hasHPKP }
 cert-error-details-cert-chain-label = Şeadetname zıncırı:
 
+## Variables:
+##   $hostname (string) - Hostname of the website with cert error.
+
+
 ## Messages used for certificate error titles
 
 connectionFailure-title = Bağlanılalmay

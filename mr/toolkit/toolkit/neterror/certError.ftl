@@ -62,6 +62,10 @@ cert-error-details-key-pinning-label = HTTP Public Key Pinning: { $hasHPKP }
 cert-error-details-cert-chain-label = प्रमाणपत्र चैन:
 open-in-new-window-for-csp-or-xfo-error = नवीन विंडोमध्ये साइट उघडा
 
+## Variables:
+##   $hostname (string) - Hostname of the website with cert error.
+
+
 ## Messages used for certificate error titles
 
 connectionFailure-title = जोडणी होऊ शकत नाही

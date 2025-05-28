@@ -58,6 +58,10 @@ cert-error-details-key-pinning-label = HTTP राइजोनि साबि �
 cert-error-details-cert-chain-label = चार्टिफिकेटनि जिनजिरि:
 open-in-new-window-for-csp-or-xfo-error = गोदान उइन्ड'आव साइटखौ खेव
 
+## Variables:
+##   $hostname (string) - Hostname of the website with cert error.
+
+
 ## Messages used for certificate error titles
 
 connectionFailure-title = फोनांजाब खालामनो हायाखै

@@ -68,6 +68,10 @@ open-in-new-window-for-csp-or-xfo-error = Abrir el sitiu nuna ventana nueva
 #   $hostname (string) - Hostname of the website blocked by csp or xfo error.
 csp-xfo-blocked-long-desc = Pa protexer la to seguranza, { $hostname } nun va permitir que { -brand-short-name } amuese la páxina si otru sitiu la incrustó. Pa ver esta páxina, tienes d'abrila nuna ventana nueva.
 
+## Variables:
+##   $hostname (string) - Hostname of the website with cert error.
+
+
 ## Messages used for certificate error titles
 
 connectionFailure-title = Nun ye posible conectase

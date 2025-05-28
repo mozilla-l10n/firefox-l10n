@@ -16,6 +16,10 @@ cert-error-untrusted-default = Die sertifikaat kom nie van 'n vertroude bron nie
 cert-error-details-hsts-label = HTTP streng oordragsekuriteit: { $hasHSTS }
 cert-error-details-cert-chain-label = Sertifikaaatketting:
 
+## Variables:
+##   $hostname (string) - Hostname of the website with cert error.
+
+
 ## Messages used for certificate error titles
 
 connectionFailure-title = Kan nie koppel nie

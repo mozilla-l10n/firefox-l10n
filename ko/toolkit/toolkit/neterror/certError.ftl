@@ -114,6 +114,10 @@ fp-learn-more-about-secure-connection-failures = 보안 연결 실패에 대해 
 fp-learn-more-about-cert-issues = 이러한 종류의 인증서 문제에 대해 더 알아보기
 fp-learn-more-about-time-related-errors = 시간 관련 오류 해결에 대해 더 알아보기
 
+## Variables:
+##   $hostname (string) - Hostname of the website with cert error.
+
+
 ## Messages used for certificate error titles
 
 connectionFailure-title = 연결할 수 없음

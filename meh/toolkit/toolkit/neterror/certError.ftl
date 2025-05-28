@@ -65,6 +65,10 @@ cert-error-details-key-pinning-label = Tee clave pública HTTP: { $hasHPKP }
 cert-error-details-cert-chain-label = Cadena de certificado:
 open-in-new-window-for-csp-or-xfo-error = Síne nuu iin ventana jíía
 
+## Variables:
+##   $hostname (string) - Hostname of the website with cert error.
+
+
 ## Messages used for certificate error titles
 
 connectionFailure-title = Ntu nkuvi kivɨ

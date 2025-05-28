@@ -49,8 +49,7 @@ install-search-engine = 要将“{ $engineName }”添加为搜索引擎吗？
 install-search-engine-add = 添加
 install-search-engine-no = 取消
 
-## These strings are used for the add engine dialog when adding a custom search engine
-## in settings or when adding an HTML form as a search engine.
+## The following strings are used as input labels.
 
 add-engine-window =
     .title = 添加搜索引擎
@@ -64,3 +63,12 @@ add-engine-dialog =
     .buttonaccesskeyaccept = A
 engine-name-exists = 已存在同名搜索引擎
 engine-keyword-exists = 其他搜索引擎已使用此关键词
+
+## The following placeholders are shown in the inputs when adding a new engine.
+
+
+## The following strings are used as error messages.
+
+
+## The following strings are used as labels for the dialog's buttons.
+

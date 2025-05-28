@@ -114,6 +114,10 @@ fp-learn-more-about-secure-connection-failures = Dysgu rhagor am fethiannau cysy
 fp-learn-more-about-cert-issues = Dysgu rhagor am y mathau hyn o faterion tystysgrifau
 fp-learn-more-about-time-related-errors = Dysgu rhagor am ddatrys gwallau sy'n gysylltiedig ag amser
 
+## Variables:
+##   $hostname (string) - Hostname of the website with cert error.
+
+
 ## Messages used for certificate error titles
 
 connectionFailure-title = Methu cysylltu

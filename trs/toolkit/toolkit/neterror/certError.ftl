@@ -68,6 +68,10 @@ open-in-new-window-for-csp-or-xfo-error = Na’nīn sitio riña a’ngô bentan�
 #   $hostname (string) - Hostname of the website blocked by csp or xfo error.
 csp-xfo-blocked-long-desc = Da’ dūgumij sò’, { $hostname } sī gâ’nïnj { -brand-short-name } da’ nāyi’nïn pâjina sisī a’ngô sitio nâ’nïnj man. Da’ gā’ue gīni’iājt pajinâ nan nī da’uît nā’nïnt man riña a’ngô bendtanâ nākàa.
 
+## Variables:
+##   $hostname (string) - Hostname of the website with cert error.
+
+
 ## Messages used for certificate error titles
 
 connectionFailure-title = Na'ue gatu riña internet ma

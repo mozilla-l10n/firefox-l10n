@@ -114,6 +114,10 @@ fp-learn-more-about-secure-connection-failures = Tìm hiểu thêm về lỗi k�
 fp-learn-more-about-cert-issues = Tìm hiểu thêm về các vấn đề liên quan đến chứng chỉ này
 fp-learn-more-about-time-related-errors = Tìm hiểu thêm về cách khắc phục các lỗi liên quan đến thời gian
 
+## Variables:
+##   $hostname (string) - Hostname of the website with cert error.
+
+
 ## Messages used for certificate error titles
 
 connectionFailure-title = Không thể kết nối

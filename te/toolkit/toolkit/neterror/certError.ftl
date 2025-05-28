@@ -53,6 +53,10 @@ cert-error-details-key-pinning-label = HTTP పబ్లిక్ కీ పి�
 cert-error-details-cert-chain-label = ధృవీకరణపత్రం చైన్:
 open-in-new-window-for-csp-or-xfo-error = సైటును కొత్త కిటికీలో తెరువు
 
+## Variables:
+##   $hostname (string) - Hostname of the website with cert error.
+
+
 ## Messages used for certificate error titles
 
 connectionFailure-title = సంధానం సాధ్యం కావడంలేదు

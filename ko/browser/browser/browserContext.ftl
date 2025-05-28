@@ -149,9 +149,7 @@ main-context-menu-save-link-to-pocket =
     .label = 링크를 { -pocket-brand-name }에 저장
     .accesskey = o
 
-## The access keys for "Copy Link" and "Copy Email Address"
-## should be the same if possible; the two context menu items
-## are mutually exclusive.
+##
 
 main-context-menu-copy-email =
     .label = 메일 주소 복사

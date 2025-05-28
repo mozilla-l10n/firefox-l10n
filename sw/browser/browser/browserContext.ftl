@@ -68,9 +68,7 @@ main-context-menu-save-link =
     .label = Hifadhi Kiungo Kama…
     .accesskey = n
 
-## The access keys for "Copy Link" and "Copy Email Address"
-## should be the same if possible; the two context menu items
-## are mutually exclusive.
+##
 
 main-context-menu-copy-email =
     .label = Nakili Anwani ya Baruapepe

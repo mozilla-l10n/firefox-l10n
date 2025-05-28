@@ -114,6 +114,10 @@ fp-learn-more-about-secure-connection-failures = Ďalšie informácie o zlyhania
 fp-learn-more-about-cert-issues = Ďalšie informácie o týchto typoch problémov s certifikátmi
 fp-learn-more-about-time-related-errors = Ďalšie informácie o odstraňovaní chýb súvisiacich s časom
 
+## Variables:
+##   $hostname (string) - Hostname of the website with cert error.
+
+
 ## Messages used for certificate error titles
 
 connectionFailure-title = Nedá sa pripojiť

@@ -26,6 +26,10 @@ cert-error-details-hsts-label = HTTP mustahkam transport xavfsizligi: { $hasHSTS
 cert-error-details-key-pinning-label = HTTP ochiq kalitni qistirish: { $hasHPKP }
 cert-error-details-cert-chain-label = Sertifikat zanjiri:
 
+## Variables:
+##   $hostname (string) - Hostname of the website with cert error.
+
+
 ## Messages used for certificate error titles
 
 connectionFailure-title = Ulana olmadi

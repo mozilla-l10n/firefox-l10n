@@ -38,8 +38,7 @@ searchbar-icon =
 ## $engineName (String) - the name of the search engine to install.
 
 
-## These strings are used for the add engine dialog when adding a custom search engine
-## in settings or when adding an HTML form as a search engine.
+## The following strings are used as input labels.
 
 add-engine-window =
     .title = Chisó ka̱a̱ nánuku
@@ -51,3 +50,12 @@ add-engine-dialog =
     .buttonlabelaccept = Chisó ka̱a̱ nánuku
     .buttonaccesskeyaccept = A
 engine-name-exists = A íyo iin ka̱a̱ nánuku ji sivɨ a tajinu
+
+## The following placeholders are shown in the inputs when adding a new engine.
+
+
+## The following strings are used as error messages.
+
+
+## The following strings are used as labels for the dialog's buttons.
+

@@ -10,6 +10,10 @@ cert-error-trust-expired-issuer = Saan a matalkan ti sertipiko gapu ta nagpason 
 cert-error-trust-self-signed = Saan a matalkan daytoy a sertipiko gapu ta impirmana a mismo.
 cert-error-untrusted-default = Saan nga aggapu ti sertipiko iti natalkan a sipud.
 
+## Variables:
+##   $hostname (string) - Hostname of the website with cert error.
+
+
 ## Messages used for certificate error titles
 
 connectionFailure-title = Saan a makisilpo

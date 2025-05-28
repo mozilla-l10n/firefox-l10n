@@ -68,6 +68,10 @@ open-in-new-window-for-csp-or-xfo-error = Open Site in New Windae
 #   $hostname (string) - Hostname of the website blocked by csp or xfo error.
 csp-xfo-blocked-long-desc = Fur tae bield yer siccarness, { $hostname } willnae lat { -brand-short-name } kythe the page gin anither site has embeddit it. Tae see this page, ye'll need tae open it in a new windae.
 
+## Variables:
+##   $hostname (string) - Hostname of the website with cert error.
+
+
 ## Messages used for certificate error titles
 
 connectionFailure-title = No able tae connect

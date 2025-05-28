@@ -49,8 +49,7 @@ install-search-engine = Adder { $engineName } como motor de recerca?
 install-search-engine-add = Adder
 install-search-engine-no = No
 
-## These strings are used for the add engine dialog when adding a custom search engine
-## in settings or when adding an HTML form as a search engine.
+## The following strings are used as input labels.
 
 add-engine-window =
     .title = Adder motor de recerca
@@ -64,3 +63,12 @@ add-engine-dialog =
     .buttonaccesskeyaccept = m
 engine-name-exists = Un motor con iste nomine jam existe.
 engine-keyword-exists = Un motor con ille parola clave jam existe
+
+## The following placeholders are shown in the inputs when adding a new engine.
+
+
+## The following strings are used as error messages.
+
+
+## The following strings are used as labels for the dialog's buttons.
+

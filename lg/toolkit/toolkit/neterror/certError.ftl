@@ -11,6 +11,10 @@ cert-error-trust-expired-issuer = Olukusa terwesigika kubanga olukusa lw'eyagiga
 cert-error-trust-self-signed = Olukusa terwesigika kubanga lweteerako omukono.
 cert-error-untrusted-default = Olukusa teruva mu kkubo lyesigika.
 
+## Variables:
+##   $hostname (string) - Hostname of the website with cert error.
+
+
 ## Messages used for certificate error titles
 
 connectionFailure-title = Tekisobose kuyungibwa

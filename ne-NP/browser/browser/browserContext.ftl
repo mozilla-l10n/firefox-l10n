@@ -149,9 +149,7 @@ main-context-menu-save-link-to-pocket =
     .label = लिङ्क सुरक्षित गर्नुहोस् { -pocket-brand-name } मा
     .accesskey = o
 
-## The access keys for "Copy Link" and "Copy Email Address"
-## should be the same if possible; the two context menu items
-## are mutually exclusive.
+##
 
 main-context-menu-copy-email =
     .label = इमेल ठेगाना प्रतिलिपि गर्नुहोस्

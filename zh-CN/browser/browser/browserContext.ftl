@@ -149,9 +149,7 @@ main-context-menu-save-link-to-pocket =
     .label = 保存链接到 { -pocket-brand-name }
     .accesskey = o
 
-## The access keys for "Copy Link" and "Copy Email Address"
-## should be the same if possible; the two context menu items
-## are mutually exclusive.
+##
 
 main-context-menu-copy-email =
     .label = 复制邮件地址

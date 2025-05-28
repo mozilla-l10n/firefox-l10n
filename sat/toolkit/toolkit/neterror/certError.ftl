@@ -69,6 +69,10 @@ open-in-new-window-for-csp-or-xfo-error = ᱱᱟᱶᱟ ᱣᱤᱱᱰᱳ ᱨᱮ �
 #   $hostname (string) - Hostname of the website blocked by csp or xfo error.
 csp-xfo-blocked-long-desc = ᱟᱢᱟᱜ ᱨᱩᱠᱷᱤᱭᱟᱹ ᱞᱟᱹᱜᱤᱫ, { $hostname } ᱫᱚ { -brand-short-name } ᱵᱷᱮᱜᱟᱨ ᱥᱟᱭᱤᱴ ᱮᱢ ᱛᱚᱵᱮᱫ ᱠᱟᱫ ᱥᱟᱦᱴᱟ ᱵᱟᱭ ᱮᱢ ᱪᱷᱚᱣᱟᱜᱼᱟᱭ ᱾ ᱱᱚᱶᱟ ᱥᱟᱦᱴᱟ ᱧᱮᱱ ᱞᱟᱹᱜᱤᱜ, ᱟᱢ ᱫᱚ ᱱᱚᱶᱟ ᱱᱟᱶᱟ ᱣᱤᱱᱰᱳ ᱨᱮ ᱠᱷᱩᱞᱟᱹ ᱛᱮ ᱦᱩᱭᱟᱢᱟ ᱾
 
+## Variables:
+##   $hostname (string) - Hostname of the website with cert error.
+
+
 ## Messages used for certificate error titles
 
 connectionFailure-title = ᱡᱩᱲᱟᱹᱣ ᱵᱟᱝ ᱦᱩᱭᱩᱜ ᱠᱟᱱᱟ

@@ -19,6 +19,10 @@ cert-error-details-hsts-label = HTTP Strict Transport Security: { $hasHSTS }
 cert-error-details-key-pinning-label = HTTP baytal kufal kanjiyan: { $hasHPKP }
 cert-error-details-cert-chain-label = Tabatiyan-tiira tenjiri:
 
+## Variables:
+##   $hostname (string) - Hostname of the website with cert error.
+
+
 ## Messages used for certificate error titles
 
 connectionFailure-title = Ši hin ka ciya

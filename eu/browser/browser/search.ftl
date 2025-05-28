@@ -46,8 +46,7 @@ remove-search-engine-button = Ados
 install-search-engine-add = Gehitu
 install-search-engine-no = Ez
 
-## These strings are used for the add engine dialog when adding a custom search engine
-## in settings or when adding an HTML form as a search engine.
+## The following strings are used as input labels.
 
 add-engine-window =
     .title = Gehitu bilaketa-motorra
@@ -61,3 +60,12 @@ add-engine-dialog =
     .buttonaccesskeyaccept = G
 engine-name-exists = Dagoeneko badago izen hori duen bilaketa-motor bat
 engine-keyword-exists = Gako-hitz hori duen motor bat badago lehendik ere
+
+## The following placeholders are shown in the inputs when adding a new engine.
+
+
+## The following strings are used as error messages.
+
+
+## The following strings are used as labels for the dialog's buttons.
+

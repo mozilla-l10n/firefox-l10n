@@ -149,9 +149,7 @@ main-context-menu-save-link-to-pocket =
     .label = Захаваць спасылку ў { -pocket-brand-name }
     .accesskey = ў
 
-## The access keys for "Copy Link" and "Copy Email Address"
-## should be the same if possible; the two context menu items
-## are mutually exclusive.
+##
 
 main-context-menu-copy-email =
     .label = Капіяваць адрас электроннай пошты

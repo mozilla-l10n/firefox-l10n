@@ -45,8 +45,7 @@ install-search-engine = أضِف { $engineName } كمحرك بحث؟
 install-search-engine-add = أضِف
 install-search-engine-no = لا
 
-## These strings are used for the add engine dialog when adding a custom search engine
-## in settings or when adding an HTML form as a search engine.
+## The following strings are used as input labels.
 
 add-engine-window =
     .title = أضِف محرك بحث
@@ -58,3 +57,12 @@ add-engine-dialog =
     .buttonlabelaccept = أضِف محركًا
     .buttonaccesskeyaccept = ض
 engine-name-exists = يوجد بالفعل محرك بهذا الاسم
+
+## The following placeholders are shown in the inputs when adding a new engine.
+
+
+## The following strings are used as error messages.
+
+
+## The following strings are used as labels for the dialog's buttons.
+

@@ -42,8 +42,7 @@ remove-search-engine-button = ÜTZ
 ## $engineName (String) - the name of the search engine to install.
 
 
-## These strings are used for the add engine dialog when adding a custom search engine
-## in settings or when adding an HTML form as a search engine.
+## The following strings are used as input labels.
 
 add-engine-window =
     .title = Titz'aqatisäx Kanob'äl
@@ -55,3 +54,12 @@ add-engine-dialog =
     .buttonlabelaccept = Titz'aqatisäx Kanob'äl
     .buttonaccesskeyaccept = t
 engine-name-exists = K'o chik jun kanob'äl ke ri' rub'i'
+
+## The following placeholders are shown in the inputs when adding a new engine.
+
+
+## The following strings are used as error messages.
+
+
+## The following strings are used as labels for the dialog's buttons.
+

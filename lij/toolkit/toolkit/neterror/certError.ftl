@@ -36,6 +36,10 @@ cert-error-details-key-pinning-label = Key Pinning HTTP pubrico: { $hasHPKP }
 cert-error-details-cert-chain-label = Cadenna de certificati:
 open-in-new-window-for-csp-or-xfo-error = Arvi o scito inte 'n neuvo barcon
 
+## Variables:
+##   $hostname (string) - Hostname of the website with cert error.
+
+
 ## Messages used for certificate error titles
 
 connectionFailure-title = No riescio a conetime

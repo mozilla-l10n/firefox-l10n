@@ -111,6 +111,10 @@ fp-learn-more-about-secure-connection-failures = Lue lisää suojatun yhteyden v
 fp-learn-more-about-cert-issues = Lue lisää tällaisista varmenneongelmista
 fp-learn-more-about-time-related-errors = Lue lisää aikaan liittyvien virheiden vianetsinnästä
 
+## Variables:
+##   $hostname (string) - Hostname of the website with cert error.
+
+
 ## Messages used for certificate error titles
 
 connectionFailure-title = Yhdistäminen epäonnistui

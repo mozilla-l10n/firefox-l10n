@@ -47,6 +47,10 @@ cert-error-details-cert-chain-label = සහතික දාමය:
 open-in-new-window-for-csp-or-xfo-error = නව කවුළුවකින් අඩවිය අරින්න
 fp-learn-more-about-secure-connection-failures = අසාර්ථක ආරක්‍ෂිත සම්බන්‍ධතා ගැන තව දැනගන්න
 
+## Variables:
+##   $hostname (string) - Hostname of the website with cert error.
+
+
 ## Messages used for certificate error titles
 
 connectionFailure-title = සම්බන්ධ වීමට නොහැකිය

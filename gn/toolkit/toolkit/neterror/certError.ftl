@@ -88,6 +88,10 @@ fp-learn-more-about-secure-connection-failures = Eikuaave jeike katu jejavy rehe
 fp-learn-more-about-cert-issues = Eikuaave ko apañuái kuatia’atã ndive rehegua
 fp-learn-more-about-time-related-errors = Eikuaave mba’éichapa emoĩporãta jejavy arange rehegua
 
+## Variables:
+##   $hostname (string) - Hostname of the website with cert error.
+
+
 ## Messages used for certificate error titles
 
 connectionFailure-title = Ndaikatúi eike

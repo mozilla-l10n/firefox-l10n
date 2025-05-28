@@ -20,6 +20,10 @@ cert-error-details-hsts-label = Slándáil Dhian Aistrithe HTTP: { $hasHSTS }
 cert-error-details-key-pinning-label = Pionnáil Eochrach Poiblí HTTP: { $hasHPKP }
 cert-error-details-cert-chain-label = Slabhra teastais:
 
+## Variables:
+##   $hostname (string) - Hostname of the website with cert error.
+
+
 ## Messages used for certificate error titles
 
 connectionFailure-title = Ní féidir ceangal

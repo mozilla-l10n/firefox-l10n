@@ -68,6 +68,10 @@ open-in-new-window-for-csp-or-xfo-error = Buksan ang Site sa Bagong Window
 #   $hostname (string) - Hostname of the website blocked by csp or xfo error.
 csp-xfo-blocked-long-desc = Para maprotektahan ang iyong seguridad, hindi papayagan ng { $hostname } ang { -brand-short-name } na ipakita ang pahina kung ito ay naka-embed sa isa pang site. Para makita ang pahinang ito, kailangan mong buksan ito sa bagong window.
 
+## Variables:
+##   $hostname (string) - Hostname of the website with cert error.
+
+
 ## Messages used for certificate error titles
 
 connectionFailure-title = Hindi makakonekta

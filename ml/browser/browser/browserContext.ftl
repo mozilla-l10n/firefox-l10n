@@ -149,9 +149,7 @@ main-context-menu-save-link-to-pocket =
     .label = കണ്ണി { -pocket-brand-name }ലേക്ക് സൂക്ഷിച്ചു് വയ്ക്കുക
     .accesskey = o
 
-## The access keys for "Copy Link" and "Copy Email Address"
-## should be the same if possible; the two context menu items
-## are mutually exclusive.
+##
 
 main-context-menu-copy-email =
     .label = ഇ-മെയില്‍ വിലാസം പകര്‍ത്തുക

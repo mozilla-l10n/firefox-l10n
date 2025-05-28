@@ -114,6 +114,10 @@ fp-learn-more-about-secure-connection-failures = Маълумоти бештар
 fp-learn-more-about-cert-issues = Маълумоти бештар дар бораи ин намудҳои мушкилиҳои гувоҳинома
 fp-learn-more-about-time-related-errors = Маълумоти бештар дар бораи ислоҳ кардани хатоҳои марбут ба вақт
 
+## Variables:
+##   $hostname (string) - Hostname of the website with cert error.
+
+
 ## Messages used for certificate error titles
 
 connectionFailure-title = Пайваст ғайриимкон аст

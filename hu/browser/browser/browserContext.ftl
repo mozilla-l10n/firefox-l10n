@@ -149,9 +149,7 @@ main-context-menu-save-link-to-pocket =
     .label = Hivatkozás mentése a { -pocket-brand-name }be
     .accesskey = o
 
-## The access keys for "Copy Link" and "Copy Email Address"
-## should be the same if possible; the two context menu items
-## are mutually exclusive.
+##
 
 main-context-menu-copy-email =
     .label = E-mail cím másolása

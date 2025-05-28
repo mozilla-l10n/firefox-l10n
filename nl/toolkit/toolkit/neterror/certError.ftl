@@ -114,6 +114,10 @@ fp-learn-more-about-secure-connection-failures = Meer info over mislukte beveili
 fp-learn-more-about-cert-issues = Meer info over dit soort certificaatproblemen
 fp-learn-more-about-time-related-errors = Meer info over het oplossen van tijdgerelateerde fouten
 
+## Variables:
+##   $hostname (string) - Hostname of the website with cert error.
+
+
 ## Messages used for certificate error titles
 
 connectionFailure-title = Kan geen verbinding maken

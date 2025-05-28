@@ -49,8 +49,7 @@ install-search-engine = «{ $engineName }»-ро ҳамчун низоми ҷу�
 install-search-engine-add = Илова кардан
 install-search-engine-no = Не
 
-## These strings are used for the add engine dialog when adding a custom search engine
-## in settings or when adding an HTML form as a search engine.
+## The following strings are used as input labels.
 
 add-engine-window =
     .title = Илова кардани низоми ҷустуҷӯӣ
@@ -64,3 +63,12 @@ add-engine-dialog =
     .buttonaccesskeyaccept = И
 engine-name-exists = Низоми ҷустуҷӯӣ бо чунин ном аллакай вуҷуд дорад
 engine-keyword-exists = Низоми ҷустуҷӯӣ бо чунин калимаи калидӣ аллакай вуҷуд дорад
+
+## The following placeholders are shown in the inputs when adding a new engine.
+
+
+## The following strings are used as error messages.
+
+
+## The following strings are used as labels for the dialog's buttons.
+

@@ -59,9 +59,7 @@ main-context-menu-save-link =
     .label = Idulin ti Kasilpo kas...
     .accesskey = K
 
-## The access keys for "Copy Link" and "Copy Email Address"
-## should be the same if possible; the two context menu items
-## are mutually exclusive.
+##
 
 main-context-menu-copy-email =
     .label = Kopiaen ti Pagtaengan nga E-Mail

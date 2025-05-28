@@ -96,9 +96,7 @@ main-context-menu-open-link-new-private-window =
     .label = Link an enger neier privater Fënster opmaachen
     .accesskey = P
 
-## The access keys for "Copy Link" and "Copy Email Address"
-## should be the same if possible; the two context menu items
-## are mutually exclusive.
+##
 
 
 ## Media (video/audio) controls

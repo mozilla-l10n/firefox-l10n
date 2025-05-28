@@ -114,6 +114,10 @@ fp-learn-more-about-secure-connection-failures = Scuvierç di plui sui erôrs de
 fp-learn-more-about-cert-issues = Scuvierç di plui su chescj gjenars di problemis sui certificâts
 fp-learn-more-about-time-related-errors = Scuvierç di plui su la risoluzion dai problemis relatîfs a date e ore
 
+## Variables:
+##   $hostname (string) - Hostname of the website with cert error.
+
+
 ## Messages used for certificate error titles
 
 connectionFailure-title = Impussibil conetisi

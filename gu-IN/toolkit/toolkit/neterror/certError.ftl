@@ -64,6 +64,10 @@ cert-error-details-hsts-label = HTTP સખત પરિવહન સુરક�
 cert-error-details-key-pinning-label = HTTP સાર્વજનિક કી પિનિંગ: { $hasHPKP }
 cert-error-details-cert-chain-label = પ્રમાણપત્ર સાંકળ:
 
+## Variables:
+##   $hostname (string) - Hostname of the website with cert error.
+
+
 ## Messages used for certificate error titles
 
 connectionFailure-title = જોડાવામાં અસમર્થ

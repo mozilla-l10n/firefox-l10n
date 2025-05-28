@@ -114,6 +114,10 @@ fp-learn-more-about-secure-connection-failures = 了解安全連線失敗的更�
 fp-learn-more-about-cert-issues = 了解這些憑證問題的更多資訊
 fp-learn-more-about-time-related-errors = 了解如何排除時間錯誤的問題
 
+## Variables:
+##   $hostname (string) - Hostname of the website with cert error.
+
+
 ## Messages used for certificate error titles
 
 connectionFailure-title = 連線失敗

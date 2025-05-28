@@ -42,7 +42,15 @@ remove-search-engine-button = సరే
 ## $engineName (String) - the name of the search engine to install.
 
 
-## These strings are used for the add engine dialog when adding a custom search engine
-## in settings or when adding an HTML form as a search engine.
+## The following strings are used as input labels.
 
 engine-name-exists = ఆ పేరుతో ఒక యంత్రం ఇప్పటికే ఉంది
+
+## The following placeholders are shown in the inputs when adding a new engine.
+
+
+## The following strings are used as error messages.
+
+
+## The following strings are used as labels for the dialog's buttons.
+

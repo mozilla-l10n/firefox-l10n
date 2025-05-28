@@ -108,9 +108,7 @@ main-context-menu-save-link-to-pocket =
     .label = រក្សាទុកតំណទៅ { -pocket-brand-name }
     .accesskey = ទ
 
-## The access keys for "Copy Link" and "Copy Email Address"
-## should be the same if possible; the two context menu items
-## are mutually exclusive.
+##
 
 main-context-menu-copy-email =
     .label = ចម្លង​អាសយដ្ឋានអ៊ីមែល

@@ -114,6 +114,10 @@ fp-learn-more-about-secure-connection-failures = Zgóńśo wěcej wó wěstych z
 fp-learn-more-about-cert-issues = Zgóńśo wěcej wó toś tych družynach certifikatowych problemow
 fp-learn-more-about-time-related-errors = Zgóńśo wěcej wó rozwězowanju na cas póśěgowanych zmólkow
 
+## Variables:
+##   $hostname (string) - Hostname of the website with cert error.
+
+
 ## Messages used for certificate error titles
 
 connectionFailure-title = Zwisk njejo móžny

@@ -64,6 +64,10 @@ cert-error-details-hsts-label = HTTP  Iyak'ib'al ti' teqol b'en: { $hasHSTS }
 cert-error-details-key-pinning-label = HTTP la chit aaq'kan texhlal: { $hasHPKP }
 cert-error-details-cert-chain-label = Imolq'it tib' u tu'aale':
 
+## Variables:
+##   $hostname (string) - Hostname of the website with cert error.
+
+
 ## Messages used for certificate error titles
 
 connectionFailure-title = Ye'xh kam ni tuch taq'onve'

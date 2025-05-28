@@ -105,9 +105,7 @@ main-context-menu-save-link =
     .label = လင့်ခ်ကို သိမ်းမည်…
     .accesskey = k
 
-## The access keys for "Copy Link" and "Copy Email Address"
-## should be the same if possible; the two context menu items
-## are mutually exclusive.
+##
 
 main-context-menu-copy-email =
     .label = အီးမေးလ် လိပ်စာကို ကူးယူပါ

@@ -62,6 +62,10 @@ open-in-new-window-for-csp-or-xfo-error = साइट नयाँ विन्
 #   $hostname (string) - Hostname of the website blocked by csp or xfo error.
 csp-xfo-blocked-long-desc = तपाइँको सुरक्षा को रक्षा गर्न को लागी, { $hostname } ले { -brand-short-name } लाई पृष्ठ प्रदर्शन गर्न अनुमति दिँदैन यदि अर्को साइटले यसलाई इम्बेड गरेको छ भने। यो पृष्ठ हेर्न को लागी, तपाइँ एक नयाँ विन्डो मा खोल्नुपर्नेछ ।
 
+## Variables:
+##   $hostname (string) - Hostname of the website with cert error.
+
+
 ## Messages used for certificate error titles
 
 connectionFailure-title = जडान गर्न असमर्थ

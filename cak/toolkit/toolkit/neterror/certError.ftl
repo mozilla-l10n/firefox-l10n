@@ -69,6 +69,10 @@ open-in-new-window-for-csp-or-xfo-error = Tijaq Ruxaq pa jun K'ak'a' Tzuwäch
 #   $hostname (string) - Hostname of the website blocked by csp or xfo error.
 csp-xfo-blocked-long-desc = Richin nichajïx ri ajikomal, man xtuya' ta q'ij ri { $hostname } chi re ri { -brand-short-name } richin nuk'üt pe ri ruxaq we jun chik ruxaq k'amaya'l ruch'ikib'an. Richin nitz'et re ruxaq re', k'o chi nijaq pa jun k'ak'a' tzuwäch.
 
+## Variables:
+##   $hostname (string) - Hostname of the website with cert error.
+
+
 ## Messages used for certificate error titles
 
 connectionFailure-title = Man tikirel ta nok

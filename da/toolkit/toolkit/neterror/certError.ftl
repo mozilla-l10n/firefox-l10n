@@ -114,6 +114,10 @@ fp-learn-more-about-secure-connection-failures = Læs mere om fejl med at oprett
 fp-learn-more-about-cert-issues = Læs mere om denne slags certifikat-problemer
 fp-learn-more-about-time-related-errors = Læs mere om at fejlsøge tids-relaterede problemer
 
+## Variables:
+##   $hostname (string) - Hostname of the website with cert error.
+
+
 ## Messages used for certificate error titles
 
 connectionFailure-title = Ude af stand til at oprette forbindelse

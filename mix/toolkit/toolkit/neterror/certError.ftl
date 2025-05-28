@@ -7,6 +7,10 @@
 cert-error-intro = { $hostname } ni´inu iin tutu ntu íyo vaa.
 cert-error-details-cert-chain-label = Tu'un certificado
 
+## Variables:
+##   $hostname (string) - Hostname of the website with cert error.
+
+
 ## Messages used for certificate error titles
 
 deniedPortAccess-title = Ma kùu kivu nu dirección yòo

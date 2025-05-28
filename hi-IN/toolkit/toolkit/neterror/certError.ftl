@@ -61,6 +61,10 @@ cert-error-details-key-pinning-label = HTTP सार्वजनिक कु�
 cert-error-details-cert-chain-label = प्रमाणपत्र विवरण:
 open-in-new-window-for-csp-or-xfo-error = नए विंडो पर साइट खोलें
 
+## Variables:
+##   $hostname (string) - Hostname of the website with cert error.
+
+
 ## Messages used for certificate error titles
 
 connectionFailure-title = कनेक्ट करने में असमर्थ

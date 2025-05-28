@@ -69,6 +69,10 @@ open-in-new-window-for-csp-or-xfo-error = Fosgail an làrach ann an uinneag ùr
 #   $hostname (string) - Hostname of the website blocked by csp or xfo error.
 csp-xfo-blocked-long-desc = Gus do thèarainteachd a dhìon, cha leig { $hostname } le { -brand-short-name } an duilleag a thaisbeanadh ma tha làrach eile leabaichte na bhroinn. Feumaidh tu an duilleag seo fhosgladh ann an uinneag ùr mus fhaic thu e.
 
+## Variables:
+##   $hostname (string) - Hostname of the website with cert error.
+
+
 ## Messages used for certificate error titles
 
 connectionFailure-title = Cha ghabh ceangal a dhèanamh ris

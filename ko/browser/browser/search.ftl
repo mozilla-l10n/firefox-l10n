@@ -49,8 +49,7 @@ install-search-engine = { $engineName } 검색 엔진을 추가하시겠습니�
 install-search-engine-add = 추가
 install-search-engine-no = 아니오
 
-## These strings are used for the add engine dialog when adding a custom search engine
-## in settings or when adding an HTML form as a search engine.
+## The following strings are used as input labels.
 
 add-engine-window =
     .title = 검색 엔진 추가
@@ -64,3 +63,12 @@ add-engine-dialog =
     .buttonaccesskeyaccept = A
 engine-name-exists = 해당 이름의 엔진이 이미 있음
 engine-keyword-exists = 해당 키워드를 가진 엔진이 이미 존재함
+
+## The following placeholders are shown in the inputs when adding a new engine.
+
+
+## The following strings are used as error messages.
+
+
+## The following strings are used as labels for the dialog's buttons.
+

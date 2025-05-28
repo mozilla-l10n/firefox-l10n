@@ -54,6 +54,10 @@ cert-error-details-hsts-label = HTTP Keselamatan Pengangkutan Rapi: { $hasHSTS }
 cert-error-details-key-pinning-label = HTTP Penyematan Kunci Awam: { $hasHPKP }
 cert-error-details-cert-chain-label = Rantaian sijil:
 
+## Variables:
+##   $hostname (string) - Hostname of the website with cert error.
+
+
 ## Messages used for certificate error titles
 
 connectionFailure-title = Tidak dapat menyambung

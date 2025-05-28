@@ -65,9 +65,7 @@ main-context-menu-save-link =
     .label = Aar jëmu buum gi ci…
     .accesskey = j
 
-## The access keys for "Copy Link" and "Copy Email Address"
-## should be the same if possible; the two context menu items
-## are mutually exclusive.
+##
 
 main-context-menu-copy-email =
     .label = Duppi màkkaanu i meel

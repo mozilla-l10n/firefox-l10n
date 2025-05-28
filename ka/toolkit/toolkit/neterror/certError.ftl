@@ -114,6 +114,10 @@ fp-learn-more-about-secure-connection-failures = ვრცლად უსაფ
 fp-learn-more-about-cert-issues = ვრცლად ამ სახის სერტიფიკატების საკითხების შესახებ
 fp-learn-more-about-time-related-errors = ვრცლად არეული საათით გამოწვეული ხარვეზების მოგვარების შესახებ
 
+## Variables:
+##   $hostname (string) - Hostname of the website with cert error.
+
+
 ## Messages used for certificate error titles
 
 connectionFailure-title = დაკავშირება ვერ მოხერხდა

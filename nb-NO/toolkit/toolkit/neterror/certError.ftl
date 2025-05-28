@@ -93,6 +93,10 @@ fp-learn-more-about-secure-connection-failures = Les mer om feil med sikker tilk
 fp-learn-more-about-cert-issues = Les mer om slike sertifikatproblemer
 fp-learn-more-about-time-related-errors = Finn ut mer om feilsøking av tidsrelaterte feil
 
+## Variables:
+##   $hostname (string) - Hostname of the website with cert error.
+
+
 ## Messages used for certificate error titles
 
 connectionFailure-title = Kan ikke koble til

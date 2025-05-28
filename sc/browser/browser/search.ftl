@@ -48,8 +48,7 @@ install-search-engine = Boles agiùnghere { $engineName } a is motores de chirca
 install-search-engine-add = Agiunghe
 install-search-engine-no = Nono
 
-## These strings are used for the add engine dialog when adding a custom search engine
-## in settings or when adding an HTML form as a search engine.
+## The following strings are used as input labels.
 
 add-engine-window =
     .title = Agiunghe unu motore de chirca
@@ -63,3 +62,12 @@ add-engine-dialog =
     .buttonaccesskeyaccept = A
 engine-name-exists = Esistit giai unu motore cun custu nòmine
 engine-keyword-exists = Esistit giai unu motore cun custu faeddu crae
+
+## The following placeholders are shown in the inputs when adding a new engine.
+
+
+## The following strings are used as error messages.
+
+
+## The following strings are used as labels for the dialog's buttons.
+

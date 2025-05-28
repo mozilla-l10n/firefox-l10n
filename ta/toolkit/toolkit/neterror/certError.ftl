@@ -49,6 +49,10 @@ cert-error-details-key-pinning-label = HTTP பொது விசை பிண�
 cert-error-details-cert-chain-label = சான்றிதழ் சங்கிலி:
 open-in-new-window-for-csp-or-xfo-error = புதிய சாளரத்தில் இணைப்பைத் திற
 
+## Variables:
+##   $hostname (string) - Hostname of the website with cert error.
+
+
 ## Messages used for certificate error titles
 
 connectionFailure-title = இணைக்க முடியவில்லை

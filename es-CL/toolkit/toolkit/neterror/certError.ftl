@@ -114,6 +114,10 @@ fp-learn-more-about-secure-connection-failures = Obtén más información acerca
 fp-learn-more-about-cert-issues = Obtén más información acerca de este tipo de problemas de certificados.
 fp-learn-more-about-time-related-errors = Obtén más información acerca de cómo solucionar errores relacionados con el tiempo
 
+## Variables:
+##   $hostname (string) - Hostname of the website with cert error.
+
+
 ## Messages used for certificate error titles
 
 connectionFailure-title = No se pudo conectar

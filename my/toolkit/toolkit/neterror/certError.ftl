@@ -57,6 +57,10 @@ open-in-new-window-for-csp-or-xfo-error = ဆိုက်ကို ဝင်း�
 #   $hostname (string) - Hostname of the website blocked by csp or xfo error.
 csp-xfo-blocked-long-desc = သင်၏လုံခြုံရေးကိုကာကွယ်ရန် { -brand-short-name } သည် အခြားဆိုဒ် တစ်ခု ပေါင်းစပ် နေသော { $hostname } ၏ စာမျက်နှာအားဖော်ပြခွင့်မပြုပါ။ ဤစာမျက်နှာကို ကြည့်လိုပါက သင် ၎င်းကို ဝင်းဒိုး အသစ် တွင် ဖွင့်ရန်လိုသည်။
 
+## Variables:
+##   $hostname (string) - Hostname of the website with cert error.
+
+
 ## Messages used for certificate error titles
 
 connectionFailure-title = မချိတ်ဆက်နိုင်ပါ

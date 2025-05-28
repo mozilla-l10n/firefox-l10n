@@ -149,9 +149,7 @@ main-context-menu-save-link-to-pocket =
     .label = Sarva su ligòngiu in { -pocket-brand-name }
     .accesskey = S
 
-## The access keys for "Copy Link" and "Copy Email Address"
-## should be the same if possible; the two context menu items
-## are mutually exclusive.
+##
 
 main-context-menu-copy-email =
     .label = Còpia s'indiritzu

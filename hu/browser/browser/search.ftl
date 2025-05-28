@@ -49,8 +49,7 @@ install-search-engine = Hozzáadja keresőszolgáltatásként ezt: { $engineName
 install-search-engine-add = Hozzáadás
 install-search-engine-no = Nem
 
-## These strings are used for the add engine dialog when adding a custom search engine
-## in settings or when adding an HTML form as a search engine.
+## The following strings are used as input labels.
 
 add-engine-window =
     .title = Keresőszolgáltatás hozzáadása
@@ -64,3 +63,12 @@ add-engine-dialog =
     .buttonaccesskeyaccept = a
 engine-name-exists = Már létezik ilyen nevű keresőszolgáltatás
 engine-keyword-exists = Már létezik keresőszolgáltatás ezzel a kulcsszóval
+
+## The following placeholders are shown in the inputs when adding a new engine.
+
+
+## The following strings are used as error messages.
+
+
+## The following strings are used as labels for the dialog's buttons.
+

@@ -46,8 +46,7 @@ remove-search-engine-button = ٹھیک ہے
 install-search-engine-add = شامل کرو
 install-search-engine-no = کو
 
-## These strings are used for the add engine dialog when adding a custom search engine
-## in settings or when adding an HTML form as a search engine.
+## The following strings are used as input labels.
 
 add-engine-window =
     .title = ڳولݨ انجݨ شامل کرو
@@ -59,3 +58,12 @@ add-engine-dialog =
     .buttonlabelaccept = انجݨ شامل کرو
     .buttonaccesskeyaccept = A
 engine-name-exists = ایں ناں دا ہک انجݨ پہلے کنوں موجود ہے۔
+
+## The following placeholders are shown in the inputs when adding a new engine.
+
+
+## The following strings are used as error messages.
+
+
+## The following strings are used as labels for the dialog's buttons.
+

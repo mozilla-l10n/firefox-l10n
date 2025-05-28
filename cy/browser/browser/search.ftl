@@ -49,8 +49,7 @@ install-search-engine = Ychwanegu { $engineName } fel peiriant chwilio?
 install-search-engine-add = Ychwanegu
 install-search-engine-no = Na
 
-## These strings are used for the add engine dialog when adding a custom search engine
-## in settings or when adding an HTML form as a search engine.
+## The following strings are used as input labels.
 
 add-engine-window =
     .title = Ychwanegu Peiriant Chwilio
@@ -64,3 +63,12 @@ add-engine-dialog =
     .buttonaccesskeyaccept = P
 engine-name-exists = Mae peiriant o'r enw yna'n bodoli eisoes.
 engine-keyword-exists = Mae peiriant gyda'r allweddair hwnnw eisoes yn bodoli
+
+## The following placeholders are shown in the inputs when adding a new engine.
+
+
+## The following strings are used as error messages.
+
+
+## The following strings are used as labels for the dialog's buttons.
+

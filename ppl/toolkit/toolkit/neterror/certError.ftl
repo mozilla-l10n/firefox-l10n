@@ -15,6 +15,10 @@ cert-error-trust-unknown-issuer = Ne sitios tik ne matapan kiejekuat inhidentida
 cert-error-trust-cert-invalid = Ne certificado tesu muyulmati ika se certificadoj CA tesu yek kititanij.
 cert-error-trust-untrusted-issuer = Ne certificadoj tesu muyulmati ika ne icertificadoj ne ká kititania tesu muyulmati.
 
+## Variables:
+##   $hostname (string) - Hostname of the website with cert error.
+
+
 ## Messages used for certificate error titles
 
 

@@ -114,6 +114,10 @@ fp-learn-more-about-secure-connection-failures = Güvenli bağlantı hataları h
 fp-learn-more-about-cert-issues = Bu tür sertifika sorunları hakkında daha fazla bilgi alın
 fp-learn-more-about-time-related-errors = Saatle ilgili hataları giderme hakkında daha fazla bilgi
 
+## Variables:
+##   $hostname (string) - Hostname of the website with cert error.
+
+
 ## Messages used for certificate error titles
 
 connectionFailure-title = Bağlanılamadı

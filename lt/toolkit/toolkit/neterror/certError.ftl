@@ -69,6 +69,10 @@ open-in-new-window-for-csp-or-xfo-error = Atverti svetainę naujame lange
 #   $hostname (string) - Hostname of the website blocked by csp or xfo error.
 csp-xfo-blocked-long-desc = Kad apsaugotų jūsų saugumą, { $hostname } neleis „{ -brand-short-name }“ parodyti tinklalapio, jei jis yra įterptas kitoje svetainėje. Norėdami matyti šį tinklalapį, turite jį atverti naujame lange.
 
+## Variables:
+##   $hostname (string) - Hostname of the website with cert error.
+
+
 ## Messages used for certificate error titles
 
 connectionFailure-title = Nepavyko užmegzti ryšio

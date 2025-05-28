@@ -48,8 +48,7 @@ install-search-engine = { $engineName } іздеу жүйесі ретінде �
 install-search-engine-add = Қосу
 install-search-engine-no = Жоқ
 
-## These strings are used for the add engine dialog when adding a custom search engine
-## in settings or when adding an HTML form as a search engine.
+## The following strings are used as input labels.
 
 add-engine-window =
     .title = Іздеу жүйесін қосу
@@ -62,3 +61,12 @@ add-engine-dialog =
     .buttonlabelaccept = Жүйені қосу
     .buttonaccesskeyaccept = о
 engine-name-exists = Осылай аталатын іздеу жүйесі бар болып тұр
+
+## The following placeholders are shown in the inputs when adding a new engine.
+
+
+## The following strings are used as error messages.
+
+
+## The following strings are used as labels for the dialog's buttons.
+

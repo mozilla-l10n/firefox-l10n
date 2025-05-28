@@ -49,8 +49,7 @@ install-search-engine = { $engineName } tafoegje as sykmasine?
 install-search-engine-add = Tafoegje
 install-search-engine-no = Nee
 
-## These strings are used for the add engine dialog when adding a custom search engine
-## in settings or when adding an HTML form as a search engine.
+## The following strings are used as input labels.
 
 add-engine-window =
     .title = Sykmasine tafoegje
@@ -64,3 +63,12 @@ add-engine-dialog =
     .buttonaccesskeyaccept = t
 engine-name-exists = Der bestiet al in sykmasine mei dy namme
 engine-keyword-exists = Der bestiet al in sykmasine mei dat trefwurd
+
+## The following placeholders are shown in the inputs when adding a new engine.
+
+
+## The following strings are used as error messages.
+
+
+## The following strings are used as labels for the dialog's buttons.
+

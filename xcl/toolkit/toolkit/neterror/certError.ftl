@@ -16,6 +16,10 @@ cert-error-symantec-distrust-admin = Մարթ է ծանուցանել վարչի
 cert-error-details-cert-chain-label = Շղթայ վկայագրի՝
 open-in-new-window-for-csp-or-xfo-error = Բանալ զկայս ի նորում պատուհանի
 
+## Variables:
+##   $hostname (string) - Hostname of the website with cert error.
+
+
 ## Messages used for certificate error titles
 
 connectionFailure-title = Չէ հնար կապակցել

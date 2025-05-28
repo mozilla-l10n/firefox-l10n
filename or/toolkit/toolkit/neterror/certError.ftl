@@ -37,6 +37,10 @@ cert-error-details-hsts-label = HTTP କଠୋର ପରିବହନ ସୁର�
 cert-error-details-key-pinning-label = ଏଚଟିଟିପି ପବ୍ଲିକ କି ପିନିଙ୍ଗ { $hasHPKP }
 cert-error-details-cert-chain-label = ସାର୍ଟିଫିକେଟ ଚେନ
 
+## Variables:
+##   $hostname (string) - Hostname of the website with cert error.
+
+
 ## Messages used for certificate error titles
 
 connectionFailure-title = ସଂଯୋଗ କରିବାରେ ଅସମର୍ଥ

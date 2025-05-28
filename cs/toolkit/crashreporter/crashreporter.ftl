@@ -43,7 +43,13 @@ crashreporter-checkbox-send-report =
                 [neuter] Upozornit { -vendor-short-name(case: "acc") } na tento pád, aby ho mohlo opravit.
                *[other] Upozornit organizaci { -vendor-short-name } na tento pád, aby ho mohla opravit.
             }
-       *[no-cases] Upozornit organizaci { -vendor-short-name } na tento pád, aby ho mohla opravit.
+       *[no-cases]
+            { -vendor-short-name.gender ->
+                [masculine] Upozornit organizaci { -vendor-short-name } na tento pád, aby ho mohla opravit.
+                [feminine] Upozornit organizaci { -vendor-short-name } na tento pád, aby ho mohla opravit.
+                [neuter] Upozornit organizaci { -vendor-short-name } na tento pád, aby ho mohla opravit.
+               *[other] Upozornit organizaci { -vendor-short-name } na tento pád, aby ho mohla opravit.
+            }
     }
 crashreporter-checkbox-include-url = Zahrnout i adresu stránky, kde došlo k pádu.
 crashreporter-send-report =

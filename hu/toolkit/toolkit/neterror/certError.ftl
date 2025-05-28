@@ -114,6 +114,10 @@ fp-learn-more-about-secure-connection-failures = Tudjon meg többet a biztonság
 fp-learn-more-about-cert-issues = Tudjon meg többet az ilyen tanúsítványproblémákról
 fp-learn-more-about-time-related-errors = Tudjon meg többet az idővel kapcsolatos hibák elhárításáról
 
+## Variables:
+##   $hostname (string) - Hostname of the website with cert error.
+
+
 ## Messages used for certificate error titles
 
 connectionFailure-title = A kapcsolódás sikertelen

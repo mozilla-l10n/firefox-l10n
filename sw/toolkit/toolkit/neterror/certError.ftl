@@ -7,6 +7,10 @@
 cert-error-intro = { $hostname } inatumia cheti batili cha usalama
 cert-error-trust-unknown-issuer-intro = Mtu anaweza kuwa anajaribu kuiga tovuti na haufai kuendelea.
 
+## Variables:
+##   $hostname (string) - Hostname of the website with cert error.
+
+
 ## Messages used for certificate error titles
 
 connectionFailure-title = Imeshindwa kuunganisha

@@ -69,6 +69,10 @@ open-in-new-window-for-csp-or-xfo-error = Ava sait uues aknas
 #   $hostname (string) - Hostname of the website blocked by csp or xfo error.
 csp-xfo-blocked-long-desc = Sinu turvalisuse tagamiseks ei luba sait { $hostname } { -brand-short-name }il seda lehte teise saidi sees kuvada. Selle lehe nägemiseks pead selle avama uues aknas.
 
+## Variables:
+##   $hostname (string) - Hostname of the website with cert error.
+
+
 ## Messages used for certificate error titles
 
 connectionFailure-title = Viga ühendumisel
