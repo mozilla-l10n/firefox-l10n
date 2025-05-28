@@ -117,6 +117,10 @@ fp-learn-more-about-time-related-errors = 시간 관련 오류 해결에 대해 
 ## Variables:
 ##   $hostname (string) - Hostname of the website with cert error.
 
+cert-error-revoked-certificate = { $hostname }에 대해 제공한 인증서가 폐기되어 더 이상 신뢰되지 않기 때문에 { -brand-short-name }가 이 사이트 방문을 차단했습니다.
+cert-error-bad-signature = { $hostname }에 대해 제공한 인증서의 서명이 유효하지 않기 때문에 { -brand-short-name }에서 이 사이트 방문을 차단했습니다.
+cert-error-key-pinning-failure = { $hostname }에 대해 제공된 인증서가 예상과 다른 공개 키를 사용하고 있기 때문에 { -brand-short-name }가 이 사이트 방문을 차단했습니다.
+cert-error-bad-der = { $hostname }에 대해 제공한 인증서가 제대로 인코딩되지 않았기 때문에 { -brand-short-name }가 이 사이트 방문을 차단했습니다.
 
 ## Messages used for certificate error titles
 

@@ -567,3 +567,21 @@ mlmodel-link-preview = { -brand-short-name }는 사용자가 링크를 미리 �
 mlmodel-pdfjs = { -brand-short-name }는 사용자가 PDF에 추가하는 이미지에 대한 대체 텍스트를 생성하기 위해 이것을 사용함
 mlmodel-smart-tab-topic-engine = { -brand-short-name }는 탭 그룹의 이름을 제안하는데 이것을 사용함
 mlmodel-smart-tab-embedding-engine = { -brand-short-name }는 탭 그룹에 탭을 제안하는데 이것을 사용함
+# AI Model will be downloaded on the users device and used locally
+addon-category-mlmodel = 온디바이스 AI
+addon-category-mlmodel-title =
+    .title = 온디바이스 AI
+mlmodel-heading = 온디바이스 AI 모델 관리
+mlmodel-description = { -brand-short-name }의 일부 기능 및 확장 기능은 사용자 기기에서 로컬로 작동하는 AI 모델에 의해 제공됩니다. 이 접근 방식은 개인 정보를 보호하고, 많은 경우 성능을 향상시킵니다. <a data-l10n-name="learn-more">더 알아보기</a>
+# Label for button that when clicked removed local model
+mlmodel-remove-addon-button =
+    .aria-label = 제거
+# Label for the aggregated value of all files for a model
+mlmodel-addon-detail-totalsize-label = 파일 크기
+mlmodel-addon-detail-last-used-label = 마지막 사용
+# This is a section label to describe what extensions or features use a specific local AI model
+mlmodel-addon-detail-used-by-label = 사용됨
+# This is a section label to describe the link to the model card on the Hugging Face website
+mlmodel-addon-detail-model-card = 모델 카드
+# This is a label for the Model Card link to Hugging face
+mlmodel-addon-detail-model-card-link-label = Hugging Face에서 보기

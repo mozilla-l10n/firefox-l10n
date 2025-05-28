@@ -15,6 +15,8 @@ about-logging-set-log-file = 로그 파일 설정
 about-logging-set-log-modules = 로그 모듈 설정
 about-logging-start-logging = 로깅 시작
 about-logging-stop-logging = 로깅 중지
+about-logging-copy-as-url = 현재 설정을 URL로 복사
+about-logging-url-copied = 로깅 설정이 프리셋 URL로 클립보드에 복사됨
 about-logging-buttons-disabled = 환경 변수를 통해 구성된 로깅, 동적 구성을 사용할 수 없습니다.
 about-logging-some-elements-disabled = URL을 통해 구성된 로깅, 일부 구성 옵션을 사용할 수 없습니다.
 about-logging-info = 정보:
@@ -27,6 +29,8 @@ about-logging-no-log-modules = 없음
 about-logging-no-log-file = 없음
 about-logging-logging-preset-selector-text = 로깅 프리셋:
 about-logging-with-profiler-stacks-checkbox = 로그 메시지에 대한 스택 추적 활성화
+about-logging-menu =
+    .title = 고급 옵션
 
 ## Logging presets
 

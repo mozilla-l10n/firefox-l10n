@@ -66,6 +66,11 @@ screenshots-component-copy-button-2 = 복사
 screenshots-component-download-button-2 = 다운로드
     .title = 다운로드 ({ $shortcut })
     .aria-label = 다운로드
+# Variables
+#   $shortcut (String) - A keyboard shortcut for the screenshot command.
+screenshot-toolbar-button =
+    .label = 스크린샷
+    .tooltiptext = 스크린샷 찍기 ({ $shortcut })
 
 ## The below strings are used to capture keydown events so the strings should
 ## not be changed unless the keyboard layout in the locale requires it.

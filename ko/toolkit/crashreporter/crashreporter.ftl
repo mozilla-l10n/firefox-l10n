@@ -51,3 +51,4 @@ crashreporter-error-no-home-dir = 홈 디렉터리가 없음
 # $to (String) - the destination path
 crashreporter-error-moving-path = { $from }을(를) { $to }(으)로 이동하지 못함
 crashreporter-error-version-eol = 버전 수명 종료: 충돌 보고서가 더 이상 허용되지 않습니다.
+crashreporter-error-failed-to-generate-minidump = 애플리케이션이 충돌 정보를 생성하지 못했습니다.

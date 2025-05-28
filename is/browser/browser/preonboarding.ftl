@@ -11,6 +11,7 @@ preonboarding-primary-cta = Samþykkja og halda áfram
 preonboarding-primary-cta-v2 = Halda áfram
 # Labels for header style button that toggles showing the terms of use, privacy notice, and data preferences checklist
 preonboarding-manage-and-read-header = Sýslaðu með stillingar á gagnasöfnun og lestu notkunarskilmála okkar og um meðferð okkar á persónuupplýsingum
+preonboarding-manage-and-read-header-v2 = Lestu notkunarskilmála og persónuverndaryfirlýsingu. Sýslaðu með viðbótarstillingar.
 # Label for header style button that toggles showing the Terms of Use
 preonboarding-terms-of-use-header-button-title = Lestu notkunarskilmála okkar
 # Label for header style button that toggles showing the Privacy Notice
