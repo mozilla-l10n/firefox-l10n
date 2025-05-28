@@ -119,7 +119,13 @@ fp-learn-more-about-time-related-errors = מידע נוסף על פתרון בע
 
 cert-error-revoked-certificate = ‏{ -brand-short-name } חסם את הביקור שלך לאתר זה מכיוון שאישור האבטחה שסופק עבור { $hostname } נשלל ואינו מהימן יותר.
 cert-error-bad-signature = ‏{ -brand-short-name } חסם את הביקור שלך לאתר זה מכיוון שהחתימה על אישור האבטחה שסופק עבור { $hostname } אינה חוקית.
+cert-error-key-pinning-failure = ‏{ -brand-short-name } חסם את הביקור שלך לאתר זה מכיוון שאישור האבטחה שסופק עבור { $hostname } משתמש במפתח ציבורי שונה מהמצופה.
+cert-error-bad-der = ‏{ -brand-short-name } חסם את הביקור שלך לאתר זה מכיוון שאישור האבטחה שסופק עבור { $hostname } אינו מקודד כראוי.
+cert-error-cert-not-in-name-space = ‏{ -brand-short-name } חסם את הביקור שלך לאתר זה מכיוון שאישור האבטחה שסופק עבור { $hostname } אינו עומד באילוצי השם של אישור אבטחה שהנפיק אותו.
+cert-error-inadequate-cert-type = ‏{ -brand-short-name } חסם את הביקור שלך לאתר זה מכיוון שאישור האבטחה שסופק עבור { $hostname } אינו מורשה לשימוש על־ידי שרת אינטרנט.
+cert-error-path-len-constraint-invalid = ‏{ -brand-short-name } חסם את הביקור שלך לאתר זה מכיוון שאישור האבטחה שסופק עבור { $hostname } מכיל יותר מדי אישורי ביניים בנתיב לאישור הבסיס.
 cert-error-invalid-key = ‏{ -brand-short-name } חסם את הביקור שלך לאתר זה מכיוון שלאישור האבטחה שסופק עבור { $hostname } יש מפתח שאינו חוקי. סביר להניח שהוא קטן מדי כדי להיות מאובטח.
+cert-error-unknown-critical-extension = ‏{ -brand-short-name } חסם את הביקור שלך לאתר זה מכיוון שאישור האבטחה שסופק עבור { $hostname } מכיל הרחבה קריטית שאינה נתמכת.
 cert-error-extension-value-invalid = ‏{ -brand-short-name } חסם את הביקור שלך לאתר זה מכיוון שאישור האבטחה שסופק עבור { $hostname } מכיל הרחבה לא חוקית.
 cert-error-invalid-integer-encoding = ‏{ -brand-short-name } חסם את הביקור שלך לאתר זה מכיוון שאישור האבטחה שסופק עבור { $hostname } מכיל קידוד שגוי של מספר שלם וחיובי. הסיבות הנפוצות לכך הן מספרי סידוריים שליליים, שאריות שליליות של RSA וקידודים ארוכים מהנדרש.
 
