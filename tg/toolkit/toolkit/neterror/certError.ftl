@@ -117,6 +117,8 @@ fp-learn-more-about-time-related-errors = Маълумоти бештар дар
 ## Variables:
 ##   $hostname (string) - Hostname of the website with cert error.
 
+cert-error-revoked-certificate = «{ -brand-short-name }» воридшавии шуморо ба ин сомона манъ кард, зеро ки гувоҳиномаи таъминшуда барои «{ $hostname }» бекор карда шудааст ва дигар эътимод надорад.
+cert-error-bad-signature = «{ -brand-short-name }» воридшавии шуморо ба ин сомона манъ кард, зеро ки имзои гувоҳиномаи таъминшуда барои «{ $hostname }» беэътибор аст.
 
 ## Messages used for certificate error titles
 

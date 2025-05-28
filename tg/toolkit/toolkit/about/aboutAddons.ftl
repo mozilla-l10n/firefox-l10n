@@ -579,6 +579,7 @@ addon-category-mlmodel = Зеҳни сунъӣ (AI) дар дастгоҳ
 addon-category-mlmodel-title =
     .title = Зеҳни сунъӣ (AI) дар дастгоҳ
 mlmodel-heading = Идоракунии моделҳои зеҳни сунъӣ (AI) дар дастгоҳ
+mlmodel-description = Баъзе хусусиятҳо ва васеъшавиҳо дар «{ -brand-short-name }» дар асоси моделҳои зеҳни сунъӣ (AI) сохта шудаанд, ки дар дастгоҳи шумо ба таври маҳаллӣ кор мекунанд. Ин равиш махфияти шуморо муҳофизат мекунад ва дар бисёр мавридҳо иҷроишро суръат мебахшад. <a data-l10n-name="learn-more">Маълумоти бештар</a>
 # Label for button that when clicked removed local model
 mlmodel-remove-addon-button =
     .aria-label = Тоза кардан
