@@ -651,6 +651,9 @@ home-prefs-weather-header =
     .label = Meteo
 home-prefs-weather-description = Prevision hodierne a un colpo de oculos
 home-prefs-weather-learn-more-link = Pro saper plus
+# "Support" here means to help sustain or contribute to something, especially through funding or sponsorship.
+home-prefs-support-firefox-header =
+    .label = Supporta { -brand-product-name }
 home-prefs-mission-message = Nostre patrocinatores supporta nostre mission pro construer un web melior
 home-prefs-mission-message-learn-more-link = Discoperi como
 # Variables:
@@ -721,6 +724,9 @@ search-remove-engine =
 search-add-engine =
     .label = Adder
     .accesskey = A
+search-edit-engine =
+    .label = Rediger
+    .accesskey = R
 search-find-more-link = Adder plus motores de recerca
 # This warning is displayed when the chosen keyword is already in use
 # ('Duplicate' is an adjective)
