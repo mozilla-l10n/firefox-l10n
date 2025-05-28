@@ -60,6 +60,10 @@ edit-engine-window =
 add-engine-button = הוספת מנוע מותאם אישית
 add-engine-name = שם מנוע החיפוש
 add-engine-url2 = כתובת עם %s במקום מונח החיפוש
+add-engine-keyword2 = מילת מפתח (אופציונלי)
+# POST and GET refer to the HTTP methods.
+add-engine-post-data = נתוני POST עם %s במקום מונח החיפוש (יש להשאיר ריק עבור GET)
+add-engine-suggest-url = כתובת אתר להצעות עם %s במקום מונח החיפוש (אופציונלי)
 add-engine-keyword = מילת מפתח
 add-engine-url = כתובת האתר של המנוע, יש להשתמש ב־‎%s במקום של מונח החיפוש
 add-engine-dialog =
@@ -73,6 +77,28 @@ engine-keyword-exists = כבר קיים מנוע עם מילת מפתח זו
 
 ## The following strings are used as error messages.
 
+add-engine-keyword-exists = מילת מפתח זו כבר נמצאת בשימוש. נא לנסות מילת מפתח אחרת.
+add-engine-name-exists = שם זה כבר נמצא בשימוש. נא לבחור בשם אחר.
+add-engine-no-name = נא להוסיף שם.
+add-engine-no-url = נא להזין כתובת.
+add-engine-invalid-url = כתובת האתר הזאת לא נראית נכונה. נא לבדוק ולנסות שוב.
+add-engine-invalid-protocol = כתובת האתר הזאת לא נראית נכונה. נא להשתמש בכתובת המתחילה ב־http או https.
+# This error is shown when the user typed URL is missing %s.
+add-engine-missing-terms-url = כדאי לנסות לכלול %s במקום מונח החיפוש.
+# This error is shown when the user typed post data is missing %s.
+add-engine-missing-terms-post-data = כדאי לנסות לכלול %s במקום מונח החיפוש.
 
 ## The following strings are used as labels for the dialog's buttons.
 
+# buttonlabelextra1 is the label of a button to open the advanced section
+# of the dialog.
+add-engine-dialog2 =
+    .buttonlabelaccept = הוספת מנוע
+    .buttonaccesskeyaccept = ה
+    .buttonlabelextra1 = מתקדם
+# buttonlabelextra1 is the label of a button to open the advanced section
+# of the dialog.
+edit-engine-dialog =
+    .buttonlabelaccept = שמירת מנוע
+    .buttonaccesskeyaccept = ש
+    .buttonlabelextra1 = מתקדם

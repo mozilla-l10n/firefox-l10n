@@ -51,3 +51,4 @@ crashreporter-error-no-home-dir = חסרה ספריית בית
 # $to (String) - the destination path
 crashreporter-error-moving-path = ההעברה מ־{ $from } אל { $to } נכשלה
 crashreporter-error-version-eol = סוף החיים של הגרסה: דיווחי קריסה אינם מתקבלים עוד.
+crashreporter-error-failed-to-generate-minidump = היישום נכשל ביצירת מידע על הקריסה.
