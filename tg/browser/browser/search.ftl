@@ -83,6 +83,8 @@ add-engine-keyword-placeholder =
 
 ## The following strings are used as error messages.
 
+add-engine-keyword-exists = Ин калимаи калидӣ аллакай истифода мешавад. Калимаи дигареро кӯшиш кунед.
+add-engine-name-exists = Ин ном аллакай истифода мешавад. Лутфан, номи дигареро кӯшиш кунед.
 add-engine-no-name = Лутфан, номеро илова кунед.
 add-engine-no-url = Лутфан, нишонии «URL»-ро ворид кунед.
 add-engine-invalid-url = Чунин ба назар мерасад, ки ин нишонии «URL» нодуруст аст. Лутфан, онро санҷед ва аз нав кӯшиш намоед.

@@ -574,9 +574,20 @@ mlmodel-link-preview = «{ -brand-short-name }» инро барои эҷод к
 mlmodel-pdfjs = «{ -brand-short-name }» инро барои эҷод кардани матни иловагӣ дар тасвирҳое, ки шумо ба файлҳои «PDF» илова мекунед, истифода мебарад
 mlmodel-smart-tab-topic-engine = «{ -brand-short-name }» инро барои пешниҳод кардани номҳо дар гурӯҳҳои варақаҳои шумо истифода мебарад
 mlmodel-smart-tab-embedding-engine = «{ -brand-short-name }» инро барои пешниҳод кардани варақаҳо дар гурӯҳҳои варақаҳои шумо истифода мебарад
+# AI Model will be downloaded on the users device and used locally
+addon-category-mlmodel = Зеҳни сунъӣ (AI) дар дастгоҳ
+addon-category-mlmodel-title =
+    .title = Зеҳни сунъӣ (AI) дар дастгоҳ
+mlmodel-heading = Идоракунии моделҳои зеҳни сунъӣ (AI) дар дастгоҳ
 # Label for button that when clicked removed local model
 mlmodel-remove-addon-button =
     .aria-label = Тоза кардан
 # Label for the aggregated value of all files for a model
 mlmodel-addon-detail-totalsize-label = Андозаи файл
 mlmodel-addon-detail-last-used-label = Истифодашудаи охирин
+# This is a section label to describe what extensions or features use a specific local AI model
+mlmodel-addon-detail-used-by-label = Истифода аз ҷониби
+# This is a section label to describe the link to the model card on the Hugging Face website
+mlmodel-addon-detail-model-card = Корти модел
+# This is a label for the Model Card link to Hugging face
+mlmodel-addon-detail-model-card-link-label = Намоиш додан дар «Hugging Face»
