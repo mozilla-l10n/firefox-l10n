@@ -54,8 +54,15 @@ install-search-engine-no = 不要
 add-engine-window =
     .title = 新增搜尋引擎
     .style = min-width: 32em;
+edit-engine-window =
+    .title = 編輯搜尋引擎
+    .style = min-width: 32em;
 add-engine-button = 新增自訂搜尋引擎
 add-engine-name = 搜尋引擎名稱
+add-engine-url2 = 網址（使用 %s 取代搜尋詞彙部分）
+add-engine-keyword2 = 關鍵字（選填）
+# POST and GET refer to the HTTP methods.
+add-engine-post-data = POST 資料（使用 %s 取代搜尋詞彙部分，若使用 GET 方法請留空）
 add-engine-keyword = 關鍵字
 add-engine-url = 搜尋引擎網址，使用 %s 放置在要被取代為搜尋詞彙的位置
 add-engine-dialog =
@@ -66,9 +73,24 @@ engine-keyword-exists = 已有使用該關鍵字的搜尋引擎存在
 
 ## The following placeholders are shown in the inputs when adding a new engine.
 
+add-engine-name-placeholder =
+    .placeholder = 例如：Mozilla Developer Network
+add-engine-url-placeholder =
+    .placeholder = 例如：https://developer.mozilla.com/search?q=%s
+add-engine-keyword-placeholder =
+    .placeholder = 例如：@mdn
 
 ## The following strings are used as error messages.
 
+add-engine-no-name = 請輸入名稱。
+add-engine-no-url = 請輸入網址。
+add-engine-invalid-url = 網址看起來不正確，請確認後再試一次。
 
 ## The following strings are used as labels for the dialog's buttons.
 
+# buttonlabelextra1 is the label of a button to open the advanced section
+# of the dialog.
+add-engine-dialog2 =
+    .buttonlabelaccept = 新增搜尋引擎
+    .buttonaccesskeyaccept = A
+    .buttonlabelextra1 = 進階
