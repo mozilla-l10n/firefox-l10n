@@ -651,6 +651,9 @@ home-prefs-weather-header =
     .label = Weer
 home-prefs-weather-description = De weersverwachting van vandaag in een oogopslag.
 home-prefs-weather-learn-more-link = Meer info
+# "Support" here means to help sustain or contribute to something, especially through funding or sponsorship.
+home-prefs-support-firefox-header =
+    .label = { -brand-product-name } ondersteunen
 home-prefs-mission-message = Onze sponsors steunen onze missie om een beter web te bouwen
 home-prefs-mission-message-learn-more-link = Lees hier hoe
 # Variables:
@@ -721,6 +724,9 @@ search-remove-engine =
 search-add-engine =
     .label = Toevoegen
     .accesskey = T
+search-edit-engine =
+    .label = Bewerken
+    .accesskey = w
 search-find-more-link = Meer zoekmachines zoeken
 # This warning is displayed when the chosen keyword is already in use
 # ('Duplicate' is an adjective)
@@ -729,6 +735,10 @@ search-keyword-warning-title = Dubbel sleutelwoord
 #   $name (string) - Name of a search engine.
 search-keyword-warning-engine = U hebt een sleutelwoord gekozen dat momenteel wordt gebruikt door ‘{ $name }’. Kies een ander.
 search-keyword-warning-bookmark = U hebt een sleutelwoord gekozen dat momenteel wordt gebruikt door een bladwijzer. Kies een ander.
+# This warning is displayed when the chosen name is already in use.
+# Variables:
+#   $name (string) - Name of a search engine.
+edit-engine-name-warning-duplicate = Er is al een zoekmachine met de naam ‘{ $name }’. Kies een andere naam.
 remove-engine-confirmation = Weet u zeker dat u deze zoekmachine wilt verwijderen?
 remove-engine-remove = Verwijderen
 remove-addon-engine-alert = Verwijder de geassocieerde add-on om deze zoekmachine te verwijderen.

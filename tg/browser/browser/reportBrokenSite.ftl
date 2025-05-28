@@ -12,6 +12,11 @@ report-broken-site-panel-reason-label = Чӣ вайрон шудааст?
 report-broken-site-panel-reason-optional-label = Чӣ вайрон шудааст? (интихобӣ)
 report-broken-site-panel-reason-choose =
     .label = Сабаберо интихоб намоед
+report-broken-site-panel-reason-load =
+    .label = Сомона бор намешавад
+# These terms are referring to ecommerce websites
+report-broken-site-panel-reason-checkout =
+    .label = Пардохт, тафтиш ё харид ғайриимкон аст
 report-broken-site-panel-reason-slow2 =
     .label = Сомона суст аст
 report-broken-site-panel-reason-media2 =

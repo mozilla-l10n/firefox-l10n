@@ -59,6 +59,7 @@ edit-engine-window =
     .style = min-width: 32em;
 add-engine-button = Илова кардани низоми ҷустуҷӯии фармоишӣ
 add-engine-name = Номи низоми ҷустуҷӯӣ
+add-engine-url2 = Нишонии «URL» бо «%s» дар ҷойи вожаи ҷустуҷӯӣ
 add-engine-keyword2 = Калимаи калидӣ (интихобӣ)
 add-engine-keyword = Калимаи калидӣ
 add-engine-url = Нишонии URL-и низоми ҷустуҷӯӣ, ба ҷойи вожаи ҷустуҷӯӣ аз %s истифода баред
@@ -83,6 +84,10 @@ add-engine-no-name = Лутфан, номеро илова кунед.
 add-engine-no-url = Лутфан, нишонии «URL»-ро ворид кунед.
 add-engine-invalid-url = Чунин ба назар мерасад, ки ин нишонии «URL» нодуруст аст. Лутфан, онро санҷед ва аз нав кӯшиш намоед.
 add-engine-invalid-protocol = Чунин ба назар мерасад, ки ин нишонии «URL» нодуруст аст. Лутфан, нишонии «URL»-ро истифода баред, ки бо «http» ё «https» сар мешавад.
+# This error is shown when the user typed URL is missing %s.
+add-engine-missing-terms-url = Кӯшиш кунед, ки «%s» ба ҷойи вожаи ҷустуҷӯӣ ҷойгир намоед.
+# This error is shown when the user typed post data is missing %s.
+add-engine-missing-terms-post-data = Кӯшиш кунед, ки «%s» ба ҷойи вожаи ҷустуҷӯӣ ҷойгир намоед.
 
 ## The following strings are used as labels for the dialog's buttons.
 

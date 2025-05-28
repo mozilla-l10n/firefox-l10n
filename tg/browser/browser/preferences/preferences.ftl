@@ -650,6 +650,9 @@ home-prefs-weather-header =
     .label = Обу ҳаво
 home-prefs-weather-description = Ҳолати обу ҳаво барои имрӯз
 home-prefs-weather-learn-more-link = Маълумоти бештар
+# "Support" here means to help sustain or contribute to something, especially through funding or sponsorship.
+home-prefs-support-firefox-header =
+    .label = Дастгирӣ кардани «{ -brand-product-name }»
 home-prefs-mission-message = Сарпарастони мо рисолати моро барои ташкили таҷрибаи беҳтарини Интернет дастгирӣ менамоянд
 home-prefs-mission-message-learn-more-link = Бифаҳмед, ки чӣ тавр
 # Variables:
@@ -731,6 +734,10 @@ search-keyword-warning-title = Калимаи калидии такрорӣ
 #   $name (string) - Name of a search engine.
 search-keyword-warning-engine = Шумо калимаи калидиеро интихоб кардед, ки айни замон аз ҷониби «{ $name }» истифода мешавад. Лутфан калимаи дигареро интихоб кунед.
 search-keyword-warning-bookmark = Шумо калимаи калидиеро интихоб кардед, ки айни замон аз ҷониби хатбарак истифода мешавад. Лутфан калимаи дигареро интихоб кунед.
+# This warning is displayed when the chosen name is already in use.
+# Variables:
+#   $name (string) - Name of a search engine.
+edit-engine-name-warning-duplicate = Низоми ҷустуҷӯӣ бо чунин ном «{ $name }» аллакай вуҷуд дорад. Лутфан, номи дигареро интихоб кунед.
 remove-engine-confirmation = Шумо мутмаин ҳастед, ки мехоҳед ин низоми ҷустуҷӯиро тоза намоед?
 remove-engine-remove = Тоза кардан
 remove-addon-engine-alert = Барои тоза кардани ин низоми ҷустуҷӯӣ, ҷузъи иловагии алоқамандро тоза намоед.
