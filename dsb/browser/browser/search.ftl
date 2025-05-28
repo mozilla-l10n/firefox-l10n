@@ -83,9 +83,16 @@ add-engine-keyword-placeholder =
 
 ## The following strings are used as error messages.
 
+add-engine-keyword-exists = Toś to klucowe słowo se južo wužywa. Wopytajśo druge.
 add-engine-name-exists = Mě se južo wužywa. Pšosym wubjeŕśo druge.
 add-engine-no-name = Pšosym pśidajśo mě.
 add-engine-no-url = Pšosym zapódajśo URL.
+add-engine-invalid-url = Toś ten URL pšawje njewuglěda. Pšosym pśeglědujśo jen a wopytajśo hyšći raz.
+add-engine-invalid-protocol = Toś ten URL pšawje njewuglěda. Wužywajśo URL, kótaryž se z http abo https zachopina.
+# This error is shown when the user typed URL is missing %s.
+add-engine-missing-terms-url = Wopytajśo %s město pytańskego wuraza zapśimjeś.
+# This error is shown when the user typed post data is missing %s.
+add-engine-missing-terms-post-data = Wopytajśo %s město pytańskego wuraza zapśimjeś.
 
 ## The following strings are used as labels for the dialog's buttons.
 

@@ -117,6 +117,8 @@ fp-learn-more-about-time-related-errors = Zgóńśo wěcej wó rozwězowanju na 
 ## Variables:
 ##   $hostname (string) - Hostname of the website with cert error.
 
+cert-error-revoked-certificate = { -brand-short-name } jo blokěrował waš woglěd na toś tom sedle, dokulaž certifikat, kótaryž jo se stajił za { $hostname } k dispoziciji, jo se wótwołał a wěcej njejo gódny.
+cert-error-bad-signature = { -brand-short-name } jo blokěrował waš woglěd na toś tem sedle, dokulaž signatura na certifikaśe, kótaryž jo se stajił za { $hostname } k dispoziciji, njejo płaśiwy.
 
 ## Messages used for certificate error titles
 

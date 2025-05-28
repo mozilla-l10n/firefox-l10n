@@ -51,3 +51,4 @@ crashreporter-error-no-home-dir = Felujucy startowy zapis
 # $to (String) - the destination path
 crashreporter-error-moving-path = Pśesunjenje wót { $from } do { $to } njejo se raźiło
 crashreporter-error-version-eol = Kóńc žywjenja wersije: Rozpšawy wowalenjow se wěcej njeakceptěruju.
+crashreporter-error-failed-to-generate-minidump = Nałoženjeju njejo se raźiło, informacije wó wowalenju generěrowaś.

@@ -578,6 +578,7 @@ addon-category-mlmodel = KI na rěźe
 addon-category-mlmodel-title =
     .title = KI na rěźe
 mlmodel-heading = Modele KI na rěźe zastojaś
+mlmodel-description = Někotare funkcije a rozšyrjenja w { -brand-short-name } se pśez modele KI pódpěraju, kótarež lokalnje na wašom rěźe funkcioněruju. Toś ten nałog póstupowanja wašu priwatnosć šćita a, we wjele padach, wugbaśe póspěšujo. <a data-l10n-name="learn-more">Dalšne informacije</a>
 # Label for button that when clicked removed local model
 mlmodel-remove-addon-button =
     .aria-label = Wótwónoźeś
