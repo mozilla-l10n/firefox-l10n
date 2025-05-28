@@ -81,6 +81,8 @@ addon-removal-title = Fjarlægja { $name }?
 addon-removal-message = Fjarlægja { $name } úr { -brand-shorter-name }?
 addon-removal-button = Fjarlægja
 addon-removal-abuse-report-checkbox = Tilkynna þessa viðbót til { -vendor-short-name }
+# "it" refers to the local AI model that is paired to the AI feature
+addon-mlmodel-removal-body = Ef þú notar eiginleikana eða forritsaukann sem styðjast við þetta líkan, verður honum bætt við aftur.
 # Variables:
 #   $addonCount (Number): the number of add-ons being downloaded
 addon-downloading-and-verifying =

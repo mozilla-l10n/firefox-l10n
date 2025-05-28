@@ -47,6 +47,9 @@ appmenu-addon-post-install-message3 = Sýslaðu með viðbætur þínar og þemu
 # This string is used in the confirmation popup displayed after an extension
 # has been installed, when the data collection feature is enabled.
 appmenu-addon-post-install-message-with-data-collection = Uppfærðu heimildir og kjörstillingar gagna hvenær sem er í <a data-l10n-name="settings-link">stillingum viðbótarinnar</a>.
+appmenu-addon-post-install-pin-toolbarbutton-checkbox =
+    .label = Festa forritsauka við tækjastikuna
+    .accesskey = F
 appmenu-addon-post-install-incognito-checkbox =
     .label = Leyfa þessum forritsauka að keyra í huliðsgluggum
     .accesskey = L

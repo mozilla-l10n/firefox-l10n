@@ -62,6 +62,7 @@ add-engine-url2 = Vefslóð með %s í stað leitarorða
 add-engine-keyword2 = Leitarorð (valfrjálst)
 # POST and GET refer to the HTTP methods.
 add-engine-post-data = POST-gögn með %s í stað leitarorða (skilja eftir autt fyrir GET)
+add-engine-suggest-url = Tillöguslóð með %s í stað leitarorða (valfrjálst)
 add-engine-keyword = Stikkorð
 add-engine-url = Slóð á leitarvél, notaðu %s í stað leitarorðsins
 add-engine-dialog =
@@ -72,9 +73,34 @@ engine-keyword-exists = Leitarvél með því stikkorði er þegar til
 
 ## The following placeholders are shown in the inputs when adding a new engine.
 
+add-engine-name-placeholder =
+    .placeholder = t.d. Mozilla Developer Network
+add-engine-url-placeholder =
+    .placeholder = t.d. https://developer.mozilla.com/search?q=%s
+add-engine-keyword-placeholder =
+    .placeholder = t.d. @mdn
 
 ## The following strings are used as error messages.
 
+add-engine-keyword-exists = Þetta leitarorð er þegar í notkun. Prófaðu eitthvað annað.
+add-engine-name-exists = Þetta nafn er þegar í notkun. Prófaðu eitthvað annað.
+add-engine-no-name = Bættu við nafni.
+add-engine-no-url = Settu inn vefslóð.
+add-engine-invalid-url = Þessi vefslóð lítur ekki rétt út. Yfirfarðu hana og reyndu aftur.
+# This error is shown when the user typed post data is missing %s.
+add-engine-missing-terms-post-data = Prófaðu að setja %s inn í stað leitarorðsins.
 
 ## The following strings are used as labels for the dialog's buttons.
 
+# buttonlabelextra1 is the label of a button to open the advanced section
+# of the dialog.
+add-engine-dialog2 =
+    .buttonlabelaccept = Bæta við leitarvél
+    .buttonaccesskeyaccept = A
+    .buttonlabelextra1 = Nánar
+# buttonlabelextra1 is the label of a button to open the advanced section
+# of the dialog.
+edit-engine-dialog =
+    .buttonlabelaccept = Vista leitarvél
+    .buttonaccesskeyaccept = S
+    .buttonlabelextra1 = Nánar
