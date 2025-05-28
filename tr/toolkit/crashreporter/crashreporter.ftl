@@ -51,3 +51,4 @@ crashreporter-error-no-home-dir = Başlangıç dizini eksik
 # $to (String) - the destination path
 crashreporter-error-moving-path = { $from } kaynağından { $to } hedefine taşınamadı
 crashreporter-error-version-eol = Sürüm desteği bitti: Çökme raporları artık kabul edilmemektedir.
+crashreporter-error-failed-to-generate-minidump = Uygulama çökme bilgisi oluşturamadı.

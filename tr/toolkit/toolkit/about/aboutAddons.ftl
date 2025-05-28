@@ -568,3 +568,15 @@ mlmodel-link-preview = { -brand-short-name }, bağlantıları ön izlediğinizde
 mlmodel-pdfjs = { -brand-short-name }, PDF’lere eklediğiniz resimlere alternatif metin oluşturmak için bunu kullanır
 mlmodel-smart-tab-topic-engine = { -brand-short-name }, sekme gruplarınıza isim önermek için bunu kullanır
 mlmodel-smart-tab-embedding-engine = { -brand-short-name }, sekme gruplarınıza sekme önermek için bunu kullanır
+# Label for button that when clicked removed local model
+mlmodel-remove-addon-button =
+    .aria-label = Kaldır
+# Label for the aggregated value of all files for a model
+mlmodel-addon-detail-totalsize-label = Dosya boyutu
+mlmodel-addon-detail-last-used-label = Son kullanım
+# This is a section label to describe what extensions or features use a specific local AI model
+mlmodel-addon-detail-used-by-label = Kullanan
+# This is a section label to describe the link to the model card on the Hugging Face website
+mlmodel-addon-detail-model-card = Model kartı
+# This is a label for the Model Card link to Hugging face
+mlmodel-addon-detail-model-card-link-label = Hugging Face’te görüntüle

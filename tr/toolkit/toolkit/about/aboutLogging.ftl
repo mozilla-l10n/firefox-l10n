@@ -17,6 +17,7 @@ about-logging-set-log-file = Log dosyasını ayarla
 about-logging-set-log-modules = Log modüllerini ayarla
 about-logging-start-logging = Log tutmayı başlat
 about-logging-stop-logging = Log tutmayı durdur
+about-logging-copy-as-url = Geçerli ayarları URL olarak kopyala
 about-logging-buttons-disabled = Log kaydı, ortam değişkenleri aracılığıyla yapılandırıldı; dinamik yapılandırma kullanılamıyor.
 about-logging-some-elements-disabled = Log kaydı URL aracılığıyla yapılandırıldığı için bazı yapılandırma seçenekleri kullanılamıyor
 about-logging-info = Bilgi:
@@ -29,6 +30,8 @@ about-logging-no-log-modules = Yok
 about-logging-no-log-file = Yok
 about-logging-logging-preset-selector-text = Log kaydı ön ayarı:
 about-logging-with-profiler-stacks-checkbox = Log mesajları için yığın izini etkinleştir
+about-logging-menu =
+    .title = Gelişmiş seçenekler
 
 ## Logging presets
 

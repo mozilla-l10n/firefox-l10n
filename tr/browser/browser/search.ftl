@@ -79,6 +79,16 @@ add-engine-keyword-placeholder =
 
 ## The following strings are used as error messages.
 
+add-engine-keyword-exists = Bu anahtar kelime zaten kullanılıyor. Farklı bir anahtar kelime deneyin.
+add-engine-name-exists = Bu ad zaten kullanılıyor. Lütfen başka bir ad seçin.
+add-engine-no-name = Lütfen bir ad ekleyin.
+add-engine-no-url = Lütfen bir URL yazın.
+add-engine-invalid-url = Bu URL doğru görünmüyor. Lütfen kontrol edip yeniden deneyin.
+add-engine-invalid-protocol = Bu URL doğru görünmüyor. http veya https ile başlayan bir URL kullanın.
+# This error is shown when the user typed URL is missing %s.
+add-engine-missing-terms-url = Arama teriminin yerine %s eklemeyi deneyin.
+# This error is shown when the user typed post data is missing %s.
+add-engine-missing-terms-post-data = Arama teriminin yerine %s eklemeyi deneyin.
 
 ## The following strings are used as labels for the dialog's buttons.
 
