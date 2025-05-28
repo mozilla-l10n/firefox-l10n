@@ -117,6 +117,22 @@ fp-learn-more-about-time-related-errors = Meer info over het oplossen van tijdge
 ## Variables:
 ##   $hostname (string) - Hostname of the website with cert error.
 
+cert-error-revoked-certificate = { -brand-short-name } heeft uw bezoek aan deze website geblokkeerd, omdat het certificaat voor { $hostname } is ingetrokken en niet meer wordt vertrouwd.
+cert-error-bad-signature = { -brand-short-name } heeft uw bezoek aan deze website geblokkeerd, omdat de ondertekening op het voor { $hostname } verstrekte certificaat niet geldig is.
+cert-error-key-pinning-failure = { -brand-short-name } heeft uw bezoek aan deze website geblokkeerd, omdat het voor { $hostname } verstrekte certificaat een andere publieke sleutel gebruikt dan verwacht.
+cert-error-bad-der = { -brand-short-name } heeft uw bezoek aan deze website geblokkeerd, omdat het voor { $hostname } verstrekte certificaat niet juist is versleuteld.
+cert-error-cert-not-in-name-space = { -brand-short-name } heeft uw bezoek aan deze website geblokkeerd, omdat het voor { $hostname } verstrekte certificaat niet de naambeperkingen volgt van een certificaat dat het heeft uitgegeven.
+cert-error-inadequate-cert-type = { -brand-short-name } heeft uw bezoek aan deze website geblokkeerd, omdat het voor { $hostname } verstrekte certificaat niet mag worden gebruikt door een webserver.
+cert-error-path-len-constraint-invalid = { -brand-short-name } heeft uw bezoek aan deze website geblokkeerd, omdat het voor { $hostname } verstrekte certificaat te veel tussencertificaten in het pad naar het rootcertificaat bevat.
+cert-error-invalid-key = { -brand-short-name } heeft uw bezoek aan deze website geblokkeerd, omdat het voor { $hostname } verstrekte certificaat een ongeldige sleutel bevat. Hoogstwaarschijnlijk is deze te klein om veilig te zijn.
+cert-error-unknown-critical-extension = { -brand-short-name } heeft uw bezoek aan deze website geblokkeerd, omdat het voor { $hostname } verstrekte certificaat een niet-ondersteunde kritieke extensie bevat.
+cert-error-extension-value-invalid = { -brand-short-name } heeft uw bezoek aan deze website geblokkeerd, omdat het voor { $hostname } verstrekte certificaat een ongeldige extensie bevat.
+cert-error-untrusted-issuer = { -brand-short-name } heeft uw bezoek aan deze website geblokkeerd, omdat het voor { $hostname } verstrekte certificaat is uitgegeven door een certificaatautoriteit die niet meer wordt vertrouwd.
+cert-error-untrusted-cert = { -brand-short-name } heeft uw bezoek aan deze website geblokkeerd, omdat het voor { $hostname } verstrekte certificaat als niet vertrouwd is gemarkeerd.
+cert-error-invalid-integer-encoding = { -brand-short-name } heeft uw bezoek aan deze website geblokkeerd, omdat het voor { $hostname } verstrekte certificaat een ongeldige codering van een integer bevat. Gebruikelijke oorzaken zijn negatieve serienummers, negatieve RSA-moduli en coderingen die langer zijn dan nodig.
+cert-error-unsupported-keyalg = { -brand-short-name } heeft uw bezoek aan deze website geblokkeerd, omdat het voor { $hostname } verstrekte certificaat een niet-ondersteund sleuteltype heeft.
+cert-error-issuer-no-longer-trusted = { -brand-short-name } heeft uw bezoek aan deze website geblokkeerd, omdat de certificaatautoriteit die het voor { $hostname } verstrekte certificaat heeft uitgegeven niet meer wordt vertrouwd.
+cert-error-signature-algorithm-mismatch = { -brand-short-name } heeft uw bezoek aan deze website geblokkeerd, omdat het ondertekeningsalgoritme van het voor { $hostname } verstrekte certificaat niet overeenkomt met het veld voor het ondertekeningsalgoritme.
 
 ## Messages used for certificate error titles
 

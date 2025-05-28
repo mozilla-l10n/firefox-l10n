@@ -54,8 +54,16 @@ install-search-engine-no = Nee
 add-engine-window =
     .title = Zoekmachine toevoegen
     .style = min-width: 32em;
+edit-engine-window =
+    .title = Zoekmachine bewerken
+    .style = min-width: 32em;
 add-engine-button = Aangepaste zoekmachine toevoegen
 add-engine-name = Naam zoekmachine
+add-engine-url2 = URL met %s op de plaats van de zoekterm
+add-engine-keyword2 = Trefwoord (optioneel)
+# POST and GET refer to the HTTP methods.
+add-engine-post-data = POST-gegevens met %s in plaats van de zoekterm (leeg laten voor GET)
+add-engine-suggest-url = URL voor suggesties met %s op plaats van zoekterm (optioneel)
 add-engine-keyword = Trefwoord
 add-engine-url = URL van zoekmachine, gebruik %s op de plaats van de zoekterm
 add-engine-dialog =
@@ -66,9 +74,37 @@ engine-keyword-exists = Er bestaat al een zoekmachine met dat trefwoord
 
 ## The following placeholders are shown in the inputs when adding a new engine.
 
+add-engine-name-placeholder =
+    .placeholder = b.v. Mozilla Developer Network
+add-engine-url-placeholder =
+    .placeholder = b.v. https://developer.mozilla.com/search?q=%s
+add-engine-keyword-placeholder =
+    .placeholder = b.v. @mdn
 
 ## The following strings are used as error messages.
 
+add-engine-keyword-exists = Dat trefwoord wordt al gebruikt. Probeer een andere.
+add-engine-name-exists = Die naam wordt al gebruikt. Kies een andere.
+add-engine-no-name = Voeg een naam toe.
+add-engine-no-url = Voer een URL in.
+add-engine-invalid-url = Die URL ziet er niet goed uit. Controleer deze en probeer het opnieuw.
+add-engine-invalid-protocol = Die URL ziet er niet goed uit. Gebruik een URL die begint met http of https.
+# This error is shown when the user typed URL is missing %s.
+add-engine-missing-terms-url = Probeer %s op te nemen op de plaats van de zoekterm.
+# This error is shown when the user typed post data is missing %s.
+add-engine-missing-terms-post-data = Probeer %s op te nemen op de plaats van de zoekterm.
 
 ## The following strings are used as labels for the dialog's buttons.
 
+# buttonlabelextra1 is the label of a button to open the advanced section
+# of the dialog.
+add-engine-dialog2 =
+    .buttonlabelaccept = Zoekmachine toevoegen
+    .buttonaccesskeyaccept = t
+    .buttonlabelextra1 = Geavanceerd
+# buttonlabelextra1 is the label of a button to open the advanced section
+# of the dialog.
+edit-engine-dialog =
+    .buttonlabelaccept = Zoekmachine opslaan
+    .buttonaccesskeyaccept = o
+    .buttonlabelextra1 = Geavanceerd

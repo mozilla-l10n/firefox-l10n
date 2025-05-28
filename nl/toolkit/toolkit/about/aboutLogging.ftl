@@ -17,6 +17,8 @@ about-logging-set-log-file = Logbestand instellen
 about-logging-set-log-modules = Logmodules instellen
 about-logging-start-logging = Registratie starten
 about-logging-stop-logging = Registratie stoppen
+about-logging-copy-as-url = Huidige instellingen als URL kopiëren
+about-logging-url-copied = Logboekinstellingen als een vooraf ingestelde URL naar het klembord gekopieerd
 about-logging-buttons-disabled = Logging geconfigureerd via omgevingsvariabelen, dynamische configuratie niet beschikbaar.
 about-logging-some-elements-disabled = Logging geconfigureerd via URL, sommige configuratie-opties zijn niet beschikbaar
 about-logging-info = Info:
@@ -29,6 +31,8 @@ about-logging-no-log-modules = Geen
 about-logging-no-log-file = Geen
 about-logging-logging-preset-selector-text = Voorinstelling logging:
 about-logging-with-profiler-stacks-checkbox = Stacktraces voor logboekberichten inschakelen
+about-logging-menu =
+    .title = Geavanceerde opties
 
 ## Logging presets
 

@@ -51,3 +51,4 @@ crashreporter-error-no-home-dir = Hoofdmap ontbreekt
 # $to (String) - the destination path
 crashreporter-error-moving-path = Kan niet van { $from } naar { $to } verplaatsen
 crashreporter-error-version-eol = Einde levensduur versie: crashrapporten worden niet meer geaccepteerd.
+crashreporter-error-failed-to-generate-minidump = De toepassing kan geen crashgegevens genereren.

@@ -61,6 +61,9 @@ add-engine-button = Илова кардани низоми ҷустуҷӯии ф
 add-engine-name = Номи низоми ҷустуҷӯӣ
 add-engine-url2 = Нишонии «URL» бо «%s» дар ҷойи вожаи ҷустуҷӯӣ
 add-engine-keyword2 = Калимаи калидӣ (интихобӣ)
+# POST and GET refer to the HTTP methods.
+add-engine-post-data = Маълумоти «POST» бо «%s» дар ҷойи вожаи ҷустуҷӯӣ (барои «GET» холӣ монед)
+add-engine-suggest-url = Нишонии «URL»-ро бо «%s» дар ҷойи вожаи ҷустуҷӯӣ пешниҳод мекунад (интихобӣ)
 add-engine-keyword = Калимаи калидӣ
 add-engine-url = Нишонии URL-и низоми ҷустуҷӯӣ, ба ҷойи вожаи ҷустуҷӯӣ аз %s истифода баред
 add-engine-dialog =
