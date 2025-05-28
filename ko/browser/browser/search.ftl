@@ -54,8 +54,16 @@ install-search-engine-no = 아니오
 add-engine-window =
     .title = 검색 엔진 추가
     .style = min-width: 32em;
+edit-engine-window =
+    .title = 검색 엔진 편집
+    .style = min-width: 32em;
 add-engine-button = 사용자 지정 엔진 추가
 add-engine-name = 검색 엔진 이름
+add-engine-url2 = 검색어 대신 %s를 사용한 URL
+add-engine-keyword2 = 키워드 (선택 사항)
+# POST and GET refer to the HTTP methods.
+add-engine-post-data = 검색어 대신 %s를 사용한 POST 데이터 (GET의 경우 비워둠)
+add-engine-suggest-url = 검색어 대신 %s를 사용한 제안 URL (선택 사항)
 add-engine-keyword = 키워드
 add-engine-url = 엔진 URL, 검색어 대신 %s 사용
 add-engine-dialog =
@@ -66,9 +74,27 @@ engine-keyword-exists = 해당 키워드를 가진 엔진이 이미 존재함
 
 ## The following placeholders are shown in the inputs when adding a new engine.
 
+add-engine-name-placeholder =
+    .placeholder = 예, Mozilla Developer Network
+add-engine-url-placeholder =
+    .placeholder = 예, https://developer.mozilla.com/search?q=%s
+add-engine-keyword-placeholder =
+    .placeholder = 예, @mdn
 
 ## The following strings are used as error messages.
 
 
 ## The following strings are used as labels for the dialog's buttons.
 
+# buttonlabelextra1 is the label of a button to open the advanced section
+# of the dialog.
+add-engine-dialog2 =
+    .buttonlabelaccept = 엔진 추가
+    .buttonaccesskeyaccept = A
+    .buttonlabelextra1 = 고급
+# buttonlabelextra1 is the label of a button to open the advanced section
+# of the dialog.
+edit-engine-dialog =
+    .buttonlabelaccept = 엔진 저장
+    .buttonaccesskeyaccept = S
+    .buttonlabelextra1 = 고급
