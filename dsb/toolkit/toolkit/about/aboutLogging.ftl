@@ -15,6 +15,8 @@ about-logging-set-log-file = Protokolowu dataju póstajiś
 about-logging-set-log-modules = Protokolowe module póstajiś
 about-logging-start-logging = Protokolěrowanje zachopiś
 about-logging-stop-logging = Protokolěrowanje skóńcyś
+about-logging-copy-as-url = Aktualne nastajenja ako URL kopěrowaś
+about-logging-url-copied = Pśizjawjeńske nastajenja su se kopěrowali do mjazywótkłada ako pśednastajony URL.
 about-logging-buttons-disabled = Protokolěrowanje jo pśez wariable wokoliny konfigurěrowane, dynamiska konfiguracija njejo k dispoziciji.
 about-logging-some-elements-disabled = Protokolěrowanje jo pśez URL konfigurěrowane, někotare konfiguraciske nastajenja njejsu k dispoziciji
 about-logging-info = Info:
@@ -27,6 +29,8 @@ about-logging-no-log-modules = Žeden
 about-logging-no-log-file = Žeden
 about-logging-logging-preset-selector-text = sednastajenje za protokolěrowanje:
 about-logging-with-profiler-stacks-checkbox = Štaplowe pśeslědowanja za protokolowe powěźeńki zmóžniś
+about-logging-menu =
+    .title = Rozšyrjone nastajenja
 
 ## Logging presets
 

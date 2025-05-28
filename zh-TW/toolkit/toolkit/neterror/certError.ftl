@@ -125,6 +125,11 @@ cert-error-cert-not-in-name-space = 由於簽發給 { $hostname } 的憑證並�
 cert-error-inadequate-cert-type = 由於簽發給 { $hostname } 的憑證並未被允許做為網站伺服器使用，{ -brand-short-name } 封鎖了您對此網站的造訪。
 cert-error-path-len-constraint-invalid = 由於簽發給 { $hostname } 的憑證與根憑證間的路徑有太多中介憑證，{ -brand-short-name } 封鎖了您對此網站的造訪。
 cert-error-invalid-key = 由於簽發給 { $hostname } 的憑證金鑰無效（最常見的原因是金鑰太小，不夠安全），{ -brand-short-name } 封鎖了您對此網站的造訪。
+cert-error-unknown-critical-extension = 由於簽發給 { $hostname } 的憑證包含不受支援的 Critical 擴充欄位，{ -brand-short-name } 封鎖了您對此網站的造訪。
+cert-error-extension-value-invalid = 由於簽發給 { $hostname } 的憑證包含無效擴充欄位，{ -brand-short-name } 封鎖了您對此網站的造訪。
+cert-error-untrusted-issuer = 由於簽發給 { $hostname } 的憑證是由不再受信任的憑證機構所簽發的，{ -brand-short-name } 封鎖了您對此網站的造訪。
+cert-error-untrusted-cert = 由於簽發給 { $hostname } 的憑證被標示為不可信任，{ -brand-short-name } 封鎖了您對此網站的造訪。
+cert-error-invalid-integer-encoding = 由於簽發給 { $hostname } 的憑證包含無效整數編碼（常見的原因可能是用了負數的序號、負的 RSA moduli，以及比需要長度還長的編碼），{ -brand-short-name } 封鎖了您對此網站的造訪。
 
 ## Messages used for certificate error titles
 

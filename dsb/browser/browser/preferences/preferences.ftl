@@ -657,6 +657,9 @@ home-prefs-weather-header =
     .label = Wjedro
 home-prefs-weather-description = Źinsajšna wjedrowa pśedpowěsć na jadno póglědnjenje
 home-prefs-weather-learn-more-link = Dalšne informacije
+# "Support" here means to help sustain or contribute to something, especially through funding or sponsorship.
+home-prefs-support-firefox-header =
+    .label = { -brand-product-name } pódpěraś
 home-prefs-mission-message = Naše sponsory našu misiju pódpěraju, aby lěpšy web twórili
 home-prefs-mission-message-learn-more-link = Zgóńśo kak
 # Variables:
@@ -740,6 +743,10 @@ search-keyword-warning-title = Klucowe słowo duplicěrowaś
 #   $name (string) - Name of a search engine.
 search-keyword-warning-engine = Sćo klucowe słowo wubrał, kótarež wužywa se rowno wót "{ $name }". Pšosym wubjeŕśo druge.
 search-keyword-warning-bookmark = Sćo klucowe słowo wubrał, kótarež wužiwa se rowno wót cytańskich znemjenjow. Pšosym wubjeŕśo druge.
+# This warning is displayed when the chosen name is already in use.
+# Variables:
+#   $name (string) - Name of a search engine.
+edit-engine-name-warning-duplicate = Dajo južo pytnica z mjenim „{ $name }“. Pšosym wubjeŕśo druge mě.
 remove-engine-confirmation = Cośo toś tu pytnicu napšawdu wótwónoźeś?
 remove-engine-remove = Wótwónoźeś
 remove-addon-engine-alert = Aby toś tu pytnicu wótwónoźeł, wótwónoźćo zwězany dodank.

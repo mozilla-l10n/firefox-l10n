@@ -573,3 +573,20 @@ mlmodel-link-preview = { -brand-short-name } to wužywa, aby klucowe dypki gener
 mlmodel-pdfjs = { -brand-short-name } to wužywa, aby alternatiwny tekst za wobraze napórał, kótarež datajam PDF pśidawaśo
 mlmodel-smart-tab-topic-engine = { -brand-short-name } to wužywa, aby mě za waše kupki rejtarikow naraźił
 mlmodel-smart-tab-embedding-engine = { -brand-short-name } to wužywa, aby rejtariki za waše kupki rejtarikow naraźił
+# AI Model will be downloaded on the users device and used locally
+addon-category-mlmodel = KI na rěźe
+addon-category-mlmodel-title =
+    .title = KI na rěźe
+mlmodel-heading = Modele KI na rěźe zastojaś
+# Label for button that when clicked removed local model
+mlmodel-remove-addon-button =
+    .aria-label = Wótwónoźeś
+# Label for the aggregated value of all files for a model
+mlmodel-addon-detail-totalsize-label = Datajowa wjelikosć
+mlmodel-addon-detail-last-used-label = Slědny raz wužyty
+# This is a section label to describe what extensions or features use a specific local AI model
+mlmodel-addon-detail-used-by-label = Wužyty wót
+# This is a section label to describe the link to the model card on the Hugging Face website
+mlmodel-addon-detail-model-card = Modelowa kórta
+# This is a label for the Model Card link to Hugging face
+mlmodel-addon-detail-model-card-link-label = Na Hugging Face pokazaś

@@ -47,6 +47,9 @@ appmenu-addon-post-install-message3 = Zastojśo swóje dodanki a drastwy z menij
 # This string is used in the confirmation popup displayed after an extension
 # has been installed, when the data collection feature is enabled.
 appmenu-addon-post-install-message-with-data-collection = Aktualizěrujśo pšawa a daty kuždy cas w <a data-l10n-name="settings-link">nastajenjach rozšyrjenja</a>.
+appmenu-addon-post-install-pin-toolbarbutton-checkbox =
+    .label = Rozšyrjenje k symbolowej rědce pśipěś
+    .accesskey = R
 appmenu-addon-post-install-incognito-checkbox =
     .label = Toś to rozšyrjenje w priwatnych woknach dowóliś
     .accesskey = T
