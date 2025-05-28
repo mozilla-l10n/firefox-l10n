@@ -4,7 +4,7 @@
 
 about-policies-title = Pravila za poduzeća
 aboutpolicies-page-heading =
-    .heading = Informacije o pravilima
+    .heading = Informacije o politikama
 # 'Active' is used to describe the policies that are currently active
 active-policies-tab = Aktivno
 errors-tab = Greške
