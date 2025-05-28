@@ -110,6 +110,10 @@ about-debugging-profiler-dialog-title2 = نمایه‌ساز
 
 # Debug Targets strings
 
+# Text of a button displayed next to debug targets of "runtime" pages. Clicking on this
+# button will open a DevTools toolbox that will allow inspecting the target.
+# A target can be an addon, a tab, a worker...
+about-debugging-debug-target-inspect-button = بازرسی
 # Text of a button displayed for a temporary extension loaded in the "This Firefox" page.
 # Clicking on the button will reload the extension.
 about-debugging-tmp-extension-reload-button = بازخوانی

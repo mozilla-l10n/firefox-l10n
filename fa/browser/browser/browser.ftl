@@ -363,8 +363,10 @@ quickactions-cmd-extensions = افزونه‌ها
 quickactions-firefoxview = باز کردن { -firefoxview-brand-name }
 # Opens SUMO home page
 quickactions-help = راهنمای { -brand-product-name }
+quickactions-cmd-help = کمک, پشتیبانی
 # Opens the devtools web inspector
 quickactions-inspector2 = گشایش ابزارهای توسعه دهنده
+quickactions-cmd-inspector2 = بازرس, بازرسی, ابزارهای توسعه
 quickactions-cmd-inspector = بازرسی, ابزارهای توسعه
 # Opens about:logins
 quickactions-logins2 = مدیریت گذرواژه‌ها
@@ -401,6 +403,7 @@ quickactions-update = به‌روز رسانی { -brand-short-name }
 quickactions-cmd-update = به‌روز رسانی
 # Opens the view-source UI with current pages source
 quickactions-viewsource2 = نمایش کدمنبع صفحه
+quickactions-cmd-viewsource2 = مشاهده منبع, منبع, منبع صفحه
 quickactions-cmd-viewsource = مشاهدهٔ منبع, منبع
 # Tooltip text for the help button shown in the result.
 quickactions-learn-more =
