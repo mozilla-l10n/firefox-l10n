@@ -555,3 +555,8 @@ mlmodel-link-preview = { -brand-short-name } 使用此功能，在預覽鏈結�
 mlmodel-pdfjs = { -brand-short-name } 使用此功能，為您新增到 PDF 檔案的圖片產生替代文字
 mlmodel-smart-tab-topic-engine = { -brand-short-name } 使用此功能，為您的分頁群組建議名稱
 mlmodel-smart-tab-embedding-engine = { -brand-short-name } 使用此功能，為您的分頁群組建議可加入的分頁
+# AI Model will be downloaded on the users device and used locally
+addon-category-mlmodel = 本機裝置上的 AI
+addon-category-mlmodel-title =
+    .title = 本機裝置上的 AI
+mlmodel-heading = 管理本機裝置上的 AI 模型

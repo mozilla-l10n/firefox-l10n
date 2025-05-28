@@ -120,8 +120,13 @@ fp-learn-more-about-time-related-errors = Zhońće wjace wo rozrisowanju na čas
 cert-error-bad-signature = { -brand-short-name } je waš wopyt na tutym sydle zablokował, dokelž signatura na certifikaće, kotryž je so za { $hostname } k dispoziciji stajił, płaćiwy njeje.
 cert-error-key-pinning-failure = { -brand-short-name } je waš wopyt na tutym sydle zablokował, dokelž certifikat, kotryž je so za { $hostname } k dispoziciji stajił, druhi zjawny kluč wužiwa, hač je so wočakował.
 cert-error-bad-der = { -brand-short-name } je waš wopyt na tutym sydle zablokował, dokelž certifikat, kotryž je so za { $hostname } k dispoziciji stajił, porjadnje koděrowany njeje.
+cert-error-inadequate-cert-type = { -brand-short-name } je waš wopyt na tutym sydle zablokował, dokelž certifikat, kotryž je so za { $hostname } k dispoziciji stajił, njesmě so přez webserwer wužiwać.
+cert-error-invalid-key = { -brand-short-name } je waš wopyt na tutym sydle zablokował, dokelž certifikat, kotryž je so za { $hostname } k dispoziciji stajił, ma njepłaćiwy kluč. Najskerje je přemały, zo by wěsty był.
+cert-error-unknown-critical-extension = { -brand-short-name } je waš wopyt na tutym sydle zablokował, dokelž certifikat, kotryž je so za { $hostname } k dispoziciji stajił, njepodpěrane kritiske rozšěrjenje wobsahuje.
 cert-error-extension-value-invalid = { -brand-short-name } je waš wopyt na tutym sydle zablokował, dokelž certifikat, kotryž je so za { $hostname } k dispoziciji stajił, njepłaćiwe rozšěrjenje wobsahuje.
+cert-error-untrusted-cert = { -brand-short-name } je waš wopyt na tutym sydle zablokował, dokelž certifikat, kotryž je so za { $hostname } k dispoziciji stajił, je jako dowěry njehódny markěrowany.
 cert-error-invalid-integer-encoding = { -brand-short-name } je waš wopyt na tutym sydle zablokował, dokelž certifikat, kotryž je so za { $hostname } k dispoziciji stajił, njepłaćiwe kodowanje cyłeje ličby wobsahuje. Huste zawiny móža być: negatiwne serijowe čisła, negatiwne RSA-module a kodowanja, kotrež su dlěše hač trěbne.
+cert-error-unsupported-keyalg = { -brand-short-name } je waš wopyt na tutym sydle zablokował, dokelž certifikat, kotryž je so za { $hostname } k dispoziciji stajił, ma njepodpěrany klučowy typ.
 
 ## Messages used for certificate error titles
 

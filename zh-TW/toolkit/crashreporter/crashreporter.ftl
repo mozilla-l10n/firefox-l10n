@@ -51,3 +51,4 @@ crashreporter-error-no-home-dir = 缺少家目錄
 # $to (String) - the destination path
 crashreporter-error-moving-path = 無法將 { $from } 移動至 { $to }
 crashreporter-error-version-eol = 版本過舊：已不再接受錯誤回報。
+crashreporter-error-failed-to-generate-minidump = 應用程式產生錯誤資訊時發生錯誤。

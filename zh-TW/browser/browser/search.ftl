@@ -94,3 +94,9 @@ add-engine-dialog2 =
     .buttonlabelaccept = 新增搜尋引擎
     .buttonaccesskeyaccept = A
     .buttonlabelextra1 = 進階
+# buttonlabelextra1 is the label of a button to open the advanced section
+# of the dialog.
+edit-engine-dialog =
+    .buttonlabelaccept = 儲存搜尋引擎
+    .buttonaccesskeyaccept = S
+    .buttonlabelextra1 = 進階
