@@ -57,7 +57,11 @@ bookmarks-toolbar-callout-1-secondary-button-label = വേണ്ട, നന്�
 # Visible if user adds a bookmark in callout 1, bookmarks toolbar is set to always show when this message renders
 bookmarks-toolbar-callout-2a-title = ഇനിയും അടയാളക്കുറിപ്പുകൾ എളുപ്പത്തോടു് ചേൎക്കുക
 bookmarks-toolbar-callout-2a-primary-button-label = പിടികിട്ടി
+# Reverts the bookmarks toolbar to the default setting
+bookmarks-toolbar-callout-2a-secondary-button-label = കരുപ്പട്ട മറയ്ക്കുക
 bookmarks-toolbar-callout-2b-primary-button-label = തുറന്നിടുക
+# Reverts the bookmarks toolbar to the default setting
+bookmarks-toolbar-callout-2b-secondary-button-label = വേണ്ട, നന്ദി
 
 ## Perplexity callout strings
 

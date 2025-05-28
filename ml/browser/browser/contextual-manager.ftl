@@ -264,3 +264,10 @@ contextual-manager-passwords-discard-changes-heading-and-message =
     .message = താങ്ങളുടെ മാറ്റങ്ങൾ കരുതിവയ്ക്കപ്പെടുത്തില്ല
 contextual-manager-passwords-discard-changes-close-button = അടയ്ക്കുക
 contextual-manager-passwords-discard-changes-go-back-button = പിന്നോട്ടു്
+#   $total (number) - Total number of passwords
+contextual-manager-passwords-remove-all-passwords-checkbox =
+    { $total ->
+        [1] അതെ, രഹസ്യവാക്കുകൾ മാറ്റുക
+        [one] അതെ, രഹസ്യവാക്കുകൾ മാറ്റുക
+       *[other] അതെ, രഹസ്യവാക്കുകൾ മാറ്റുക
+    }

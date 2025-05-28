@@ -29,3 +29,5 @@ confirmation-hint-duplicate-tabs-closed =
         [one] { $tabCount } ടാബു അടച്ചു
        *[other] { $tabCount } ടാബുകൾ അടച്ചു
     }
+# Subtle notification shown when Extensions button moves into the application menu.
+confirmation-hint-extensions-button-hidden = കുറിപ്പടിയിലോട്ടു് മാറ്റി

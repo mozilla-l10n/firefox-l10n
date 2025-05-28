@@ -763,6 +763,9 @@ urlbar-group-recent-searches =
 #  $engine (String): the name of the search engine providing the trending suggestions
 urlbar-group-trending =
     .label = { $engine }-ൽ ട്രെൻഡിംഗ്
+# Label shown above sponsored suggestions in the urlbar results.
+urlbar-group-sponsored =
+    .label = പണമടച്ചു് പ്രചരിപ്പിച്ചതു്
 urlbar-result-menu-trending-why =
     .label = എന്തുകൊണ്ട് ഞാനിത് കാണുന്നു
     .accesskey = എ
