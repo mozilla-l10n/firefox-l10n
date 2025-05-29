@@ -80,7 +80,7 @@ storage-tree-labels-cookies = Cookies
 storage-tree-labels-local-storage = Lokalno spremište
 storage-tree-labels-session-storage = Spremište sesija
 storage-tree-labels-indexed-db = Indexed DB
-storage-tree-labels-cache = Spremište priručne memorije
+storage-tree-labels-cache = Spremište predmemorije
 storage-tree-labels-extension-storage = Spremište proširenja
 
 ##

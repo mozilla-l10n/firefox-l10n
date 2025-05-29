@@ -112,9 +112,9 @@ options-sourceeditor-keybinding-default-label = Standard
 # The heading (this item is also used in perftools.ftl)
 options-context-advanced-settings = Napredne postavke
 # The label for the checkbox that toggles the HTTP cache on or off
-options-disable-http-cache-label = Onemogući HTTP predmemoriju (kada je kutija alata otvorena)
+options-disable-http-cache-label = Deaktiviraj HTTP predmemoriju (kada je kutija alata otvorena)
 options-disable-http-cache-tooltip =
-    .title = Uključivanjem ove mogućnosti, onemogućit će se HTTP predmemorija za sve kartice na kojima su otvoreni alati. Ova mogućnost nema utjecaja na service workere.
+    .title = Uključivanjem ove mogućnosti, deaktivirat će se HTTP predmemorija za sve kartice s otvorenom kutijom alata. Ova mogućnost nema utjecaja na service workere.
 # The label for checkbox that toggles JavaScript on or off
 options-disable-javascript-label = Onemogući JavaScript *
 options-disable-javascript-tooltip =
