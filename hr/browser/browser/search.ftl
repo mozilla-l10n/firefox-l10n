@@ -76,9 +76,35 @@ engine-keyword-exists = Tražilica s tom ključnom riječi već postoji
 
 add-engine-name-placeholder =
     .placeholder = npr. Mozilla Developer Network
+add-engine-url-placeholder =
+    .placeholder = npr. https://developer.mozilla.com/search?q=%s
+add-engine-keyword-placeholder =
+    .placeholder = npr. @mdn
 
 ## The following strings are used as error messages.
 
+add-engine-keyword-exists = Ta se ključna riječ već koristi. Pokušaj koristiti jednu drugu ključnu riječ.
+add-engine-name-exists = To se ime već koristi. Odaberi jedno drugo ime.
+add-engine-no-name = Dodaj ime.
+add-engine-no-url = Upiši URL.
+add-engine-invalid-url = Taj URL ne izgleda ispravno. Provjeri ga i pokušaj ponovo.
+add-engine-invalid-protocol = Taj URL ne izgleda ispravno. Koristi URL koji počinje s http ili https.
+# This error is shown when the user typed URL is missing %s.
+add-engine-missing-terms-url = Pokušaj uključiti %s umjesto pojma za pretraživanje.
+# This error is shown when the user typed post data is missing %s.
+add-engine-missing-terms-post-data = Pokušaj uključiti %s umjesto pojma za pretraživanje.
 
 ## The following strings are used as labels for the dialog's buttons.
 
+# buttonlabelextra1 is the label of a button to open the advanced section
+# of the dialog.
+add-engine-dialog2 =
+    .buttonlabelaccept = Dodaj tražilicu
+    .buttonaccesskeyaccept = D
+    .buttonlabelextra1 = Napredno
+# buttonlabelextra1 is the label of a button to open the advanced section
+# of the dialog.
+edit-engine-dialog =
+    .buttonlabelaccept = Spremi tražilicu
+    .buttonaccesskeyaccept = S
+    .buttonlabelextra1 = Napredno
