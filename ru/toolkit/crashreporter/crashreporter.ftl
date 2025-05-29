@@ -51,3 +51,4 @@ crashreporter-error-no-home-dir = Отсутствует домашний кат
 # $to (String) - the destination path
 crashreporter-error-moving-path = Не удалось переместить { $from } в { $to }
 crashreporter-error-version-eol = Конец жизненного цикла версии: сообщения о падениях больше не принимаются.
+crashreporter-error-failed-to-generate-minidump = Приложение не может сгенерировать информацию о падении.

@@ -56,6 +56,7 @@ add-engine-window =
     .style = min-width: 32em;
 add-engine-button = Добавить персональную поисковую систему
 add-engine-name = Имя поисковой системы
+add-engine-keyword2 = Ключевое слово (необязательно)
 add-engine-keyword = Краткое имя
 add-engine-url = URL-адрес системы с параметром %s вместо запроса
 add-engine-dialog =
@@ -66,9 +67,19 @@ engine-keyword-exists = Система с этим кратким именем �
 
 ## The following placeholders are shown in the inputs when adding a new engine.
 
+add-engine-name-placeholder =
+    .placeholder = напр., Mozilla Developer Network
+add-engine-url-placeholder =
+    .placeholder = напр., https://developer.mozilla.com/search?q=%s
 
 ## The following strings are used as error messages.
 
+add-engine-keyword-exists = Это ключевое слово уже используется. Попробуйте другое.
+add-engine-name-exists = Это имя уже используется. Пожалуйста, выберите другое.
+add-engine-no-name = Пожалуйста, добавьте имя.
+add-engine-no-url = Пожалуйста, введите URL.
+add-engine-invalid-url = Этот URL не выглядит правильным. Пожалуйста, проверьте его и попробуйте снова.
+add-engine-invalid-protocol = Этот URL не выглядит правильным. Используйте URL, начинающийся с http или https.
 
 ## The following strings are used as labels for the dialog's buttons.
 
