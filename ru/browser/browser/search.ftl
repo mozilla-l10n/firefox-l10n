@@ -54,9 +54,16 @@ install-search-engine-no = Нет
 add-engine-window =
     .title = Добавить поисковую систему
     .style = min-width: 32em;
+edit-engine-window =
+    .title = Изменить поисковую систему
+    .style = min-width: 32em;
 add-engine-button = Добавить персональную поисковую систему
 add-engine-name = Имя поисковой системы
+add-engine-url2 = URL с %s вместо поискового запроса
 add-engine-keyword2 = Ключевое слово (необязательно)
+# POST and GET refer to the HTTP methods.
+add-engine-post-data = Данные POST с %s вместо запроса (оставьте пустым для GET)
+add-engine-suggest-url = URL предложений с %s вместо поискового запроса (необязательно)
 add-engine-keyword = Краткое имя
 add-engine-url = URL-адрес системы с параметром %s вместо запроса
 add-engine-dialog =
@@ -71,6 +78,8 @@ add-engine-name-placeholder =
     .placeholder = напр., Mozilla Developer Network
 add-engine-url-placeholder =
     .placeholder = напр., https://developer.mozilla.com/search?q=%s
+add-engine-keyword-placeholder =
+    .placeholder = напр., @mdn
 
 ## The following strings are used as error messages.
 
@@ -80,6 +89,22 @@ add-engine-no-name = Пожалуйста, добавьте имя.
 add-engine-no-url = Пожалуйста, введите URL.
 add-engine-invalid-url = Этот URL не выглядит правильным. Пожалуйста, проверьте его и попробуйте снова.
 add-engine-invalid-protocol = Этот URL не выглядит правильным. Используйте URL, начинающийся с http или https.
+# This error is shown when the user typed URL is missing %s.
+add-engine-missing-terms-url = Попробуйте включить %s вместо поискового запроса.
+# This error is shown when the user typed post data is missing %s.
+add-engine-missing-terms-post-data = Попробуйте включить %s вместо поискового запроса.
 
 ## The following strings are used as labels for the dialog's buttons.
 
+# buttonlabelextra1 is the label of a button to open the advanced section
+# of the dialog.
+add-engine-dialog2 =
+    .buttonlabelaccept = Добавить систему
+    .buttonaccesskeyaccept = Ф
+    .buttonlabelextra1 = Дополнительно
+# buttonlabelextra1 is the label of a button to open the advanced section
+# of the dialog.
+edit-engine-dialog =
+    .buttonlabelaccept = Сохранить систему
+    .buttonaccesskeyaccept = Ы
+    .buttonlabelextra1 = Дополнительно

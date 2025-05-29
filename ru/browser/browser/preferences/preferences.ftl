@@ -728,6 +728,9 @@ search-remove-engine =
 search-add-engine =
     .label = Добавить
     .accesskey = в
+search-edit-engine =
+    .label = Изменить
+    .accesskey = У
 search-find-more-link = Найти другие поисковые системы
 # This warning is displayed when the chosen keyword is already in use
 # ('Duplicate' is an adjective)
@@ -736,6 +739,10 @@ search-keyword-warning-title = Ключевое слово уже использ
 #   $name (string) - Name of a search engine.
 search-keyword-warning-engine = Выбранное ключевое слово уже используется «{ $name }». Пожалуйста, выберите другое.
 search-keyword-warning-bookmark = Выбранное ключевое слово уже используется одной из закладок. Пожалуйста, выберите другое.
+# This warning is displayed when the chosen name is already in use.
+# Variables:
+#   $name (string) - Name of a search engine.
+edit-engine-name-warning-duplicate = Поисковая система с именем «{ $name }» уже существует. Пожалуйста, выберите другое имя.
 remove-engine-confirmation = Вы уверены, что хотите удалить эту поисковую систему?
 remove-engine-remove = Удалить
 remove-addon-engine-alert = Чтобы удалить эту поисковую систему, удалите связанное с ней дополнение.

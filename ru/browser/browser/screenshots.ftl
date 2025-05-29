@@ -66,6 +66,11 @@ screenshots-component-copy-button-2 = Копировать
 screenshots-component-download-button-2 = Загрузить
     .title = Загрузить ({ $shortcut })
     .aria-label = Загрузить
+# Variables
+#   $shortcut (String) - A keyboard shortcut for the screenshot command.
+screenshot-toolbar-button =
+    .label = Скриншот
+    .tooltiptext = Сделать скриншот ({ $shortcut })
 
 ## The below strings are used to capture keydown events so the strings should
 ## not be changed unless the keyboard layout in the locale requires it.

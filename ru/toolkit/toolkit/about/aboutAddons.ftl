@@ -583,3 +583,14 @@ addon-category-mlmodel = ИИ на устройстве
 addon-category-mlmodel-title =
     .title = ИИ на устройстве
 mlmodel-heading = Управление моделями ИИ на устройстве
+mlmodel-description = Некоторые функции и расширения в { -brand-short-name } созданы на основе моделей ИИ, которые работают локально на вашем устройстве. Этот подход защищает вашу приватность и во многих случаях повышает производительность. <a data-l10n-name="learn-more">Подробнее</a>
+# Label for button that when clicked removed local model
+mlmodel-remove-addon-button =
+    .aria-label = Удалить
+# Label for the aggregated value of all files for a model
+mlmodel-addon-detail-totalsize-label = Размер файла
+mlmodel-addon-detail-last-used-label = Последнее использование
+# This is a section label to describe what extensions or features use a specific local AI model
+mlmodel-addon-detail-used-by-label = Используется
+# This is a section label to describe the link to the model card on the Hugging Face website
+mlmodel-addon-detail-model-card = Карточка модели
