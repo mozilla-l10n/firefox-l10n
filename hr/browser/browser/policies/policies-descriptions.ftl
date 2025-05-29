@@ -31,7 +31,7 @@ policy-CertificatesDescription = Dodaj certifikate ili koristite ugrađene certi
 policy-ContentAnalysis = Aktiviraj ili deaktiviraj vezu sa agentom za sprečavanje gubljenja podataka.
 policy-Cookies = Dozvoli ili zabrani internetskim stranicama postavljanje kolačića.
 # Containers in this context is referring to container tabs in Firefox.
-policy-Containers = Postavite politike vezane za kontejnere.
+policy-Containers = Postavi politike za kontejnere.
 policy-DisableAccounts = Deaktiviraj usluge za koje su potrebni računi, uključujući sinkronizaciju.
 policy-DisabledCiphers = Deaktiviraj šifratore.
 policy-DefaultDownloadDirectory = Postavi standardnu mapu za preuzimanje.
