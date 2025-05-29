@@ -51,3 +51,4 @@ crashreporter-error-no-home-dir = Hiányzó saját könyvtár
 # $to (String) - the destination path
 crashreporter-error-moving-path = A(z) { $from } áthelyezése sikertelen ide: { $to }
 crashreporter-error-version-eol = A verzió életciklusa lejárt: a hibajelentések már nem fogadhatók el.
+crashreporter-error-failed-to-generate-minidump = Az alkalmazás nem tudott összeomlási információkat előállítani.

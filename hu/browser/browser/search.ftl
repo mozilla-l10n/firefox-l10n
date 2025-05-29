@@ -84,6 +84,27 @@ add-engine-keyword-placeholder =
 ## The following strings are used as error messages.
 
 add-engine-keyword-exists = A kulcsszó már használatban van. Próbálkozzon egy másikkal.
+add-engine-name-exists = Ez a név már használatban van. Válasszon egy másikat.
+add-engine-no-name = Adjon meg egy nevet.
+add-engine-no-url = Adjon meg egy webcímet.
+add-engine-invalid-url = A webcím nem tűnik helyesnek. Ellenőrizze, és próbálja újra.
+add-engine-invalid-protocol = A webcím nem tűnik helyesnek. Használjon http-vel vagy https-sel kezdődő webcímet.
+# This error is shown when the user typed URL is missing %s.
+add-engine-missing-terms-url = Írja a %s kifejezést a keresési kifejezés helyére.
+# This error is shown when the user typed post data is missing %s.
+add-engine-missing-terms-post-data = Írja a %s kifejezést a keresési kifejezés helyére.
 
 ## The following strings are used as labels for the dialog's buttons.
 
+# buttonlabelextra1 is the label of a button to open the advanced section
+# of the dialog.
+add-engine-dialog2 =
+    .buttonlabelaccept = Keresőszolgáltatás hozzáadása
+    .buttonaccesskeyaccept = a
+    .buttonlabelextra1 = Speciális
+# buttonlabelextra1 is the label of a button to open the advanced section
+# of the dialog.
+edit-engine-dialog =
+    .buttonlabelaccept = Keresőszolgáltatás mentése
+    .buttonaccesskeyaccept = m
+    .buttonlabelextra1 = Speciális
