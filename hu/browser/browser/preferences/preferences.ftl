@@ -651,6 +651,9 @@ home-prefs-weather-header =
     .label = Időjárás
 home-prefs-weather-description = A mai előrejelzés egy pillantásnyira
 home-prefs-weather-learn-more-link = További tudnivalók
+# "Support" here means to help sustain or contribute to something, especially through funding or sponsorship.
+home-prefs-support-firefox-header =
+    .label = Támogassa a { -brand-product-name }ot
 home-prefs-mission-message = Szponzoraink támogatják a küldetésünket, hogy jobb webet építsünk
 home-prefs-mission-message-learn-more-link = Tudja meg hogyan
 # Variables:
@@ -721,6 +724,9 @@ search-remove-engine =
 search-add-engine =
     .label = Hozzáadás
     .accesskey = a
+search-edit-engine =
+    .label = Szerkesztés
+    .accesskey = e
 search-find-more-link = További keresőszolgáltatások felvétele
 # This warning is displayed when the chosen keyword is already in use
 # ('Duplicate' is an adjective)
@@ -729,6 +735,10 @@ search-keyword-warning-title = Duplikált kulcsszó
 #   $name (string) - Name of a search engine.
 search-keyword-warning-engine = Olyan kulcsszót választott, amelyet jelenleg „{ $name }” használ. Válasszon másikat.
 search-keyword-warning-bookmark = Olyan kulcsszót választott, amelyet jelenleg egy könyvjelző használ. Válasszon másikat.
+# This warning is displayed when the chosen name is already in use.
+# Variables:
+#   $name (string) - Name of a search engine.
+edit-engine-name-warning-duplicate = Már van „{ $name }” nevű keresőszolgáltatás. Válasszon másik nevet.
 remove-engine-confirmation = Biztos, hogy törli ezt a keresőszolgáltatást?
 remove-engine-remove = Eltávolítás
 remove-addon-engine-alert = A keresőszolgáltatás törléséhez távolítsa el a kapcsolódó kiegészítőt.
