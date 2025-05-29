@@ -12,6 +12,13 @@ report-broken-site-panel-reason-label = Što je pokvareno?
 report-broken-site-panel-reason-optional-label = Što je pokvareno? (opcionalno)
 report-broken-site-panel-reason-choose =
     .label = Odaberi razlog
+report-broken-site-panel-reason-load =
+    .label = Stranica se ne učitava
+# These terms are referring to ecommerce websites
+report-broken-site-panel-reason-checkout =
+    .label = Nije moguće platiti, obaviti kupnju ili pregledati proizvode
+report-broken-site-panel-reason-slow2 =
+    .label = Stranica je spora
 report-broken-site-panel-reason-slow =
     .label = Stranica je spora ili ne radi
 report-broken-site-panel-reason-media =

@@ -118,6 +118,9 @@ fp-learn-more-about-time-related-errors = Dysgu rhagor am ddatrys gwallau sy'n g
 ##   $hostname (string) - Hostname of the website with cert error.
 
 cert-error-revoked-certificate = Mae { -brand-short-name } wedi rhwystro eich ymweliad â'r wefan hon oherwydd bod y dystysgrif ddarparwyd ar gyfer { $hostname } wedi'i dirymu a does dim modd ymddiried ynddi bellach.
+cert-error-bad-signature = Mae { -brand-short-name } wedi rhwystro eich ymweliad â'r wefan hon oherwydd nad yw'r llofnod ar y dystysgrif ddarparwyd ar gyfer { $hostname } yn ddilys.
+cert-error-key-pinning-failure = Mae { -brand-short-name } wedi rhwystro eich ymweliad â'r wefan hon oherwydd bod y dystysgrif ddarparwyd ar gyfer { $hostname } wedi'i dirymu a does dim modd ymddiried ynddi bellach.
+cert-error-bad-der = Mae { -brand-short-name } wedi rhwystro eich ymweliad â'r wefan hon oherwydd nad yw'r llofnod ar y dystysgrif ddarparwyd ar gyfer { $hostname } yn ddilys.
 
 ## Messages used for certificate error titles
 
