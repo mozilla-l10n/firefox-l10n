@@ -17,6 +17,11 @@ experimental-features-media-jxl =
     .label = Mediji: JPEG XL
 experimental-features-devtools-compatibility-panel =
     .label = Alati za programere: ploča kompatibilnosti
+# about:home should be kept in English, as it refers to the the URI for
+# the internal default home page.
+experimental-features-abouthome-startup-cache =
+    .label = about:home predmemorija pokretanja
+experimental-features-abouthome-startup-cache-description = Predmemorija za početni about:home dokument koji se prema standardnim postavkama učitava pri pokretanju. Svrha predmemorije je poboljšanje performanse pri pokretanju.
 # "Service Worker" is an API name and is usually not translated.
 experimental-features-devtools-serviceworker-debugger-support =
     .label = Alati za programere: Otklanjanje grešaka pomoću Service workera
