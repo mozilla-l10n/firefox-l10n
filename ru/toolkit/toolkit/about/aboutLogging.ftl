@@ -15,6 +15,8 @@ about-logging-set-log-file = Указать файл журнала
 about-logging-set-log-modules = Указать модули журнала
 about-logging-start-logging = Начать ведение журнала
 about-logging-stop-logging = Остановить ведение журнала
+about-logging-copy-as-url = Копировать текущие настройки как URL
+about-logging-url-copied = Параметры ведения журнала скопированы в буфер обмена как предустановленный URL
 about-logging-buttons-disabled = Ведение журнала настроено через переменные среды, динамическая настройка недоступна.
 about-logging-some-elements-disabled = Ведение журнала настроено через сетевой адрес, некоторые настройки конфигурации недоступны
 about-logging-info = Информация:
@@ -27,6 +29,8 @@ about-logging-no-log-modules = Нет
 about-logging-no-log-file = Нет
 about-logging-logging-preset-selector-text = Предустановка ведения журнала:
 about-logging-with-profiler-stacks-checkbox = Включить трассировку стека для сообщений журнала
+about-logging-menu =
+    .title = Дополнительные настройки
 
 ## Logging presets
 

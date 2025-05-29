@@ -594,3 +594,5 @@ mlmodel-addon-detail-last-used-label = Последнее использован
 mlmodel-addon-detail-used-by-label = Используется
 # This is a section label to describe the link to the model card on the Hugging Face website
 mlmodel-addon-detail-model-card = Карточка модели
+# This is a label for the Model Card link to Hugging face
+mlmodel-addon-detail-model-card-link-label = Открыть на Hugging Face
