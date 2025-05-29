@@ -5,7 +5,7 @@
 clear-site-data-window2 =
     .title = Izbriši podatke
     .style = min-width: 35em
-clear-site-data-description = Brisanje svih kolačića i podataka stranice koje je { -brand-short-name } spremio, može prouzročiti odjavljivanje s web stranica i brisanje izvanmrežnog web sadržaja. Brisanje sadržaja iz priručne memorije neće utjecati na tvoje prijave.
+clear-site-data-description = Brisanje svih kolačića i podataka stranice koje je { -brand-short-name } spremio, može prouzročiti odjavljivanje s web stranica i brisanje izvanmrežnog web sadržaja. Brisanje sadržaja iz predmemorije neće utjecati na tvoje prijave.
 clear-site-data-close-key =
     .key = w
 # The parameters in parentheses in this string describe disk usage
@@ -31,7 +31,7 @@ clear-site-data-cookies-info = Moguće je da ćeš se odjaviti s web stranica, a
 #   $amount (Number) - Amount of cache currently stored on disk
 #   $unit (String) - Abbreviation of the unit that $amount is in, e.g. "MB"
 clear-site-data-cache-with-data =
-    .label = Web sadržaj u priručnoj memoriji ({ $amount } { $unit })
+    .label = Web sadržaj u predmemoriji ({ $amount } { $unit })
     .accesskey = W
 # This string is a placeholder for while the data used to fill
 # clear-site-data-cache-with-data is loading. This placeholder is usually
@@ -39,7 +39,7 @@ clear-site-data-cache-with-data =
 # or the same as clear-site-data-cache-with-data (except the amount and unit),
 # to avoid flickering.
 clear-site-data-cache-empty =
-    .label = Web sadržaj u priručnoj memoriji
+    .label = Web sadržaj u predmemoriji
     .accesskey = W
 clear-site-data-cache-info = Web stranice će morati ponovo učitati slike i podatke
 clear-site-data-dialog =

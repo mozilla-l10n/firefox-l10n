@@ -81,8 +81,8 @@ item-active-logins =
     .label = Aktivne prijave
     .accesskey = A
 item-cache =
-    .label = Međuspremnik
-    .accesskey = s
+    .label = Predmemorija
+    .accesskey = a
 # Variables:
 #   $amount (Number) - Amount of cached data
 #   $unit (String) - Abbreviation of the unit that $amount is in, e.g. "MB"
