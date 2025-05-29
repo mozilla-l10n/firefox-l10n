@@ -581,3 +581,13 @@ addon-category-mlmodel = Eszközön lévő MI
 addon-category-mlmodel-title =
     .title = Eszközön lévő MI
 mlmodel-heading = Eszközön lévő MI modellek kezelése
+# Label for button that when clicked removed local model
+mlmodel-remove-addon-button =
+    .aria-label = Eltávolítás
+# Label for the aggregated value of all files for a model
+mlmodel-addon-detail-totalsize-label = Fájlméret
+mlmodel-addon-detail-last-used-label = Legutóbbi használat
+# This is a section label to describe what extensions or features use a specific local AI model
+mlmodel-addon-detail-used-by-label = Használja:
+# This is a section label to describe the link to the model card on the Hugging Face website
+mlmodel-addon-detail-model-card = Modellkártya

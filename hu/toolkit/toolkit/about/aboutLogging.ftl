@@ -17,6 +17,8 @@ about-logging-set-log-file = Naplófájl beállítása
 about-logging-set-log-modules = Naplómodulok beállítása
 about-logging-start-logging = Naplózás elkezdése
 about-logging-stop-logging = Naplózás leállítása
+about-logging-copy-as-url = Jelenlegi beállítások másolása webcímként
+about-logging-url-copied = A naplózási beállítások a vágólapra másolva előre beállított webcímként
 about-logging-buttons-disabled = A naplózás környezeti változókkal lett beállítva, a dinamikus konfiguráció nem érhető el.
 about-logging-some-elements-disabled = A naplózás webcím alapján lett beállítva, néhány konfigurációs lehetőség nem érhető el
 about-logging-info = Információ:
@@ -29,6 +31,8 @@ about-logging-no-log-modules = Nincs
 about-logging-no-log-file = Nincs
 about-logging-logging-preset-selector-text = Naplózási előbeállítás:
 about-logging-with-profiler-stacks-checkbox = Veremkiíratások engedélyezése a naplóüzeneteknél
+about-logging-menu =
+    .title = Speciális beállítások
 
 ## Logging presets
 
