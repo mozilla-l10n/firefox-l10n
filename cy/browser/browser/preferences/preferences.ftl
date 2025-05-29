@@ -663,6 +663,9 @@ home-prefs-weather-header =
     .label = Y Tywydd
 home-prefs-weather-description = Cipolwg ar ragolygon tywydd heddiw
 home-prefs-weather-learn-more-link = Rhagor
+# "Support" here means to help sustain or contribute to something, especially through funding or sponsorship.
+home-prefs-support-firefox-header =
+    .label = Cefnogwch { -brand-product-name }
 home-prefs-mission-message = Mae ein noddwyr yn cefnogi ein cenhadaeth i adeiladu gwe well
 home-prefs-mission-message-learn-more-link = Dyma sut
 # Variables:
@@ -737,6 +740,9 @@ search-remove-engine =
 search-add-engine =
     .label = Ychwanegu
     .accesskey = Y
+search-edit-engine =
+    .label = Golygu
+    .accesskey = G
 search-find-more-link = Ychwanegu peiriannau chwilio eraill
 # This warning is displayed when the chosen keyword is already in use
 # ('Duplicate' is an adjective)
@@ -745,6 +751,10 @@ search-keyword-warning-title = Allweddair Dyblyg
 #   $name (string) - Name of a search engine.
 search-keyword-warning-engine = Rydych wedi defnyddio allweddair sy'n cael ei ddefnyddio gan "{ $name }". Dewiswch un arall.
 search-keyword-warning-bookmark = Rydych wedi defnyddio allweddair sy'n cael ei ddefnyddio gan nod tudalen. Dewiswch un arall.
+# This warning is displayed when the chosen name is already in use.
+# Variables:
+#   $name (string) - Name of a search engine.
+edit-engine-name-warning-duplicate = Mae peiriant chwilio eisoes o'r enw “{ $name }”. Dewiswch enw arall.
 remove-engine-confirmation = Ydych chi'n siŵr eich bod am dynnu'r peiriant chwilio hwn?
 remove-engine-remove = Tynnu
 remove-addon-engine-alert = I dynnu'r peiriant chwilio hwn, tynnwch yr ychwanegyn cysylltiedig.
