@@ -117,6 +117,7 @@ fp-learn-more-about-time-related-errors = Dysgu rhagor am ddatrys gwallau sy'n g
 ## Variables:
 ##   $hostname (string) - Hostname of the website with cert error.
 
+cert-error-revoked-certificate = Mae { -brand-short-name } wedi rhwystro eich ymweliad â'r wefan hon oherwydd bod y dystysgrif ddarparwyd ar gyfer { $hostname } wedi'i dirymu a does dim modd ymddiried ynddi bellach.
 
 ## Messages used for certificate error titles
 

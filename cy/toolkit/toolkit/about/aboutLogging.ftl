@@ -16,6 +16,7 @@ about-logging-set-log-modules = Gosod Modiwlau Cofnodi
 about-logging-start-logging = Cychwyn Cofnodi
 about-logging-stop-logging = Peidio Cofnodi
 about-logging-copy-as-url = Copïo'r gosodiadau cyfredol fel URL
+about-logging-url-copied = Gosodiadau logio wedi'u copïo i'r clipfwrdd fel URL rhagosodedig
 about-logging-buttons-disabled = Mae'r cofnodi wedi'i ffurfweddu trwy newidynnau amgylcheddol, nid yw ffurfweddu deinamig ar gael.
 about-logging-some-elements-disabled = Mae'r cofnodi wedi'i ffurfweddu trwy URL, nid oes rhai dewisiadau ffurfweddu ar gael
 about-logging-info = Gwybodaeth:
@@ -28,6 +29,8 @@ about-logging-no-log-modules = Dim
 about-logging-no-log-file = Dim
 about-logging-logging-preset-selector-text = Rhagosodiad cofnodi:
 about-logging-with-profiler-stacks-checkbox = Galluogi olion stac ar gyfer negeseuon cofnodion
+about-logging-menu =
+    .title = Dewisiadau uwch
 
 ## Logging presets
 
