@@ -9,7 +9,7 @@ urlbar-translations-button =
 # not be translated, as it is a reflection of the un-localized BETA icon that is in the
 # panel.
 urlbar-translations-button2 =
-    .tooltiptext = Prevedi ovu stranicu - beta
+    .tooltiptext = Prevedi ovu stranicu – beta
 # Note that here "Beta" should not be translated, as it is a reflection of the
 # un-localized BETA icon that is in the panel.
 urlbar-translations-button-intro =
