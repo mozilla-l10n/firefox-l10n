@@ -117,6 +117,10 @@ fp-learn-more-about-time-related-errors = Learn more about troubleshooting time-
 ## Variables:
 ##   $hostname (string) - Hostname of the website with cert error.
 
+cert-error-revoked-certificate = { -brand-short-name } blocked your visit to this site because the certificate provided for { $hostname } has been revoked and isn’t trusted anymore.
+cert-error-bad-signature = { -brand-short-name } blocked your visit to this site because the signature on the certificate provided for { $hostname } isn’t valid.
+cert-error-key-pinning-failure = { -brand-short-name } blocked your visit to this site because the certificate provided for { $hostname } uses a different public key than expected.
+cert-error-bad-der = { -brand-short-name } blocked your visit to this site because the certificate provided for { $hostname } isn’t properly encoded.
 
 ## Messages used for certificate error titles
 
