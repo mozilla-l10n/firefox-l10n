@@ -51,3 +51,4 @@ crashreporter-error-no-home-dir = Cyfeiriadur cartref coll
 # $to (String) - the destination path
 crashreporter-error-moving-path = Wedi methu â symud { $from } i { $to }
 crashreporter-error-version-eol = Diwedd oes fersiwn: nid yw adroddiadau chwalu bellach yn cael eu derbyn.
+crashreporter-error-failed-to-generate-minidump = Methodd y rhaglen â chynhyrchu manylion y chwalfa.

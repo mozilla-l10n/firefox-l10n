@@ -54,8 +54,16 @@ install-search-engine-no = Na
 add-engine-window =
     .title = Ychwanegu Peiriant Chwilio
     .style = min-width: 32em;
+edit-engine-window =
+    .title = Golygu Peiriant Chwilio
+    .style = min-width: 32em;
 add-engine-button = Ychwanegu Peiriant Cyfaddas
 add-engine-name = Enw peiriant chwilio
+add-engine-url2 = URL gyda %s yn lle'r term chwilio
+add-engine-keyword2 = Allweddair (dewisol)
+# POST and GET refer to the HTTP methods.
+add-engine-post-data = Data POST gyda %s yn lle'r term chwilio (gadewch yn wag ar gyfer GET)
+add-engine-suggest-url = URL awgrymiadau gyda %s yn lle'r term chwilio (dewisol)
 add-engine-keyword = Allweddair
 add-engine-url = URL y peiriant, defnyddiwch %s yn lle'r term chwilio
 add-engine-dialog =
@@ -66,9 +74,37 @@ engine-keyword-exists = Mae peiriant gyda'r allweddair hwnnw eisoes yn bodoli
 
 ## The following placeholders are shown in the inputs when adding a new engine.
 
+add-engine-name-placeholder =
+    .placeholder = e.e., Mozilla Developer Network
+add-engine-url-placeholder =
+    .placeholder = e.e., https://developer.mozilla.com/search?q=%s
+add-engine-keyword-placeholder =
+    .placeholder = e.e., @mdn
 
 ## The following strings are used as error messages.
 
+add-engine-keyword-exists = Mae'r allweddair hwnnw eisoes yn cael ei ddefnyddio. Rhowch gynnig ar un gwahanol.
+add-engine-name-exists = Mae'r enw hwnnw eisoes yn cael ei ddefnyddio. Dewiswch un arall.
+add-engine-no-name = Ychwanegwch enw.
+add-engine-no-url = Rhowch URL.
+add-engine-invalid-url = Dyw'r URL hwnnw ddim yn edrych yn iawn. Gwiriwch ef a cheisiwch eto.
+add-engine-invalid-protocol = Dyw'r URL hwnnw ddim yn edrych yn iawn. Defnyddiwch URL sy'n dechrau gyda http neu https.
+# This error is shown when the user typed URL is missing %s.
+add-engine-missing-terms-url = Ceisiwch gynnwys %s yn lle'r term chwilio.
+# This error is shown when the user typed post data is missing %s.
+add-engine-missing-terms-post-data = URL gyda %s yn lle'r term chwilio
 
 ## The following strings are used as labels for the dialog's buttons.
 
+# buttonlabelextra1 is the label of a button to open the advanced section
+# of the dialog.
+add-engine-dialog2 =
+    .buttonlabelaccept = Ychwanegu Peiriant
+    .buttonaccesskeyaccept = Y
+    .buttonlabelextra1 = Uwch
+# buttonlabelextra1 is the label of a button to open the advanced section
+# of the dialog.
+edit-engine-dialog =
+    .buttonlabelaccept = Cadw Peiriant
+    .buttonaccesskeyaccept = C
+    .buttonlabelextra1 = Uwch

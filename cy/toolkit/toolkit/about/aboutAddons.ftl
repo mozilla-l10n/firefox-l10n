@@ -584,3 +584,21 @@ mlmodel-link-preview = Mae { -brand-short-name } yn defnyddio hwn i gynhyrchu pw
 mlmodel-pdfjs = Mae { -brand-short-name } yn defnyddio hwn i greu testun amgen ar gyfer delweddau rydych yn eu hychwanegu at ffeiliau PDF
 mlmodel-smart-tab-topic-engine = Mae { -brand-short-name } yn defnyddio hwn i awgrymu enwau ar gyfer eich grwpiau tab
 mlmodel-smart-tab-embedding-engine = Mae { -brand-short-name } yn defnyddio hwn i awgrymu tabiau ar gyfer eich grwpiau tabiau
+# AI Model will be downloaded on the users device and used locally
+addon-category-mlmodel = AI Ar-ddyfais
+addon-category-mlmodel-title =
+    .title = AI Ar-ddyfais
+mlmodel-heading = Rheoli Modelau AI Ar-Ddyfais
+mlmodel-description = Mae rhai nodweddion ac estyniadau yn { -brand-short-name } yn cael eu pweru gan fodelau AI sy'n gweithio'n lleol ar eich dyfais. Mae'r dull hwn yn amddiffyn eich preifatrwydd ac, mewn llawer o achosion, yn cyflymu perfformiad. <a data-l10n-name="learn-more">Dysgu rhagor</a>
+# Label for button that when clicked removed local model
+mlmodel-remove-addon-button =
+    .aria-label = Tynnu
+# Label for the aggregated value of all files for a model
+mlmodel-addon-detail-totalsize-label = Maint ffeil
+mlmodel-addon-detail-last-used-label = Defnyddiwyd Diwethaf
+# This is a section label to describe what extensions or features use a specific local AI model
+mlmodel-addon-detail-used-by-label = Defnyddiwyd gan
+# This is a section label to describe the link to the model card on the Hugging Face website
+mlmodel-addon-detail-model-card = Cerdyn model
+# This is a label for the Model Card link to Hugging face
+mlmodel-addon-detail-model-card-link-label = Gweld ar Hugging Face

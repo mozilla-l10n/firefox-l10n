@@ -66,6 +66,11 @@ screenshots-component-copy-button-2 = Copïo
 screenshots-component-download-button-2 = Llwytho i lawr
     .title = Llwytho i lawr ( { $shortcut } )
     .aria-label = Llwytho i lawr
+# Variables
+#   $shortcut (String) - A keyboard shortcut for the screenshot command.
+screenshot-toolbar-button =
+    .label = Llun sgrin
+    .tooltiptext = Cymryd llun sgrin ({ $shortcut })
 
 ## The below strings are used to capture keydown events so the strings should
 ## not be changed unless the keyboard layout in the locale requires it.
