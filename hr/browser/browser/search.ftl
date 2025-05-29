@@ -54,8 +54,16 @@ install-search-engine-no = Ne
 add-engine-window =
     .title = Dodaj tražilicu
     .style = min-width: 32em;
+edit-engine-window =
+    .title = Uredi tražilicu
+    .style = min-width: 32em;
 add-engine-button = Dodaj drugu tražilicu
 add-engine-name = Ime tražilice
+add-engine-url2 = URL s %s umjesto pojma za pretraživanje
+add-engine-keyword2 = Ključna riječ (opcionalno)
+# POST and GET refer to the HTTP methods.
+add-engine-post-data = POST podaci s %s umjesto pojma za pretraživanje (ostavi prazno za GET)
+add-engine-suggest-url = URL prijedloga s %s umjesto pojma za pretraživanje (opcionalno)
 add-engine-keyword = Ključna riječ
 add-engine-url = URL tražilice, koristi %s umjesto pojma za pretraživanje
 add-engine-dialog =
@@ -66,6 +74,8 @@ engine-keyword-exists = Tražilica s tom ključnom riječi već postoji
 
 ## The following placeholders are shown in the inputs when adding a new engine.
 
+add-engine-name-placeholder =
+    .placeholder = npr. Mozilla Developer Network
 
 ## The following strings are used as error messages.
 
