@@ -568,6 +568,12 @@ mlmodel-link-preview = { -brand-short-name }, bağlantıları ön izlediğinizde
 mlmodel-pdfjs = { -brand-short-name }, PDF’lere eklediğiniz resimlere alternatif metin oluşturmak için bunu kullanır
 mlmodel-smart-tab-topic-engine = { -brand-short-name }, sekme gruplarınıza isim önermek için bunu kullanır
 mlmodel-smart-tab-embedding-engine = { -brand-short-name }, sekme gruplarınıza sekme önermek için bunu kullanır
+# AI Model will be downloaded on the users device and used locally
+addon-category-mlmodel = Yerel YZ
+addon-category-mlmodel-title =
+    .title = Yerel YZ
+mlmodel-heading = Cihazınızdaki yapay zekâ modellerini yönetin
+mlmodel-description = Bazı { -brand-short-name } özellikleri ve uzantıları, cihazınızda yerel olarak çalışan yapay zekâ modellerine dayanır. Bu yaklaşım hem gizliliğinizi korur hem de çoğu zaman performansı artırır. <a data-l10n-name="learn-more">Daha fazla bilgi alın</a>
 # Label for button that when clicked removed local model
 mlmodel-remove-addon-button =
     .aria-label = Kaldır
