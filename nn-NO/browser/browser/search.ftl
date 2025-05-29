@@ -68,6 +68,8 @@ engine-keyword-exists = Det finst allereie ein søkjemotor med det søkjeordet
 
 ## The following strings are used as error messages.
 
+add-engine-no-name = Legg til eit namn.
+add-engine-no-url = Skriv inn ein URL.
 
 ## The following strings are used as labels for the dialog's buttons.
 

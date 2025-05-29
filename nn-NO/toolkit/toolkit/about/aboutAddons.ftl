@@ -534,3 +534,13 @@ plugins-widevine-description = Dette programtillegget gjer det mogleg å spele a
 
 ## Mapping Engine IDs from AI models to how that feature represented by the engine Id is described in the used by section in local model management
 
+# Label for button that when clicked removed local model
+mlmodel-remove-addon-button =
+    .aria-label = Fjern
+# Label for the aggregated value of all files for a model
+mlmodel-addon-detail-totalsize-label = Filstorleik
+mlmodel-addon-detail-last-used-label = Sist brukt
+# This is a section label to describe what extensions or features use a specific local AI model
+mlmodel-addon-detail-used-by-label = Brukt av
+# This is a section label to describe the link to the model card on the Hugging Face website
+mlmodel-addon-detail-model-card = Modellkort

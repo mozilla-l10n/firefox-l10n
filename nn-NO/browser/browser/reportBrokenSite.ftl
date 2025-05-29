@@ -12,6 +12,13 @@ report-broken-site-panel-reason-label = Kva er øydelagt?
 report-broken-site-panel-reason-optional-label = Kva er øydelagt? (valfritt)
 report-broken-site-panel-reason-choose =
     .label = Vel grunn
+report-broken-site-panel-reason-load =
+    .label = Nettstaden lastar seg ikkje inn
+# These terms are referring to ecommerce websites
+report-broken-site-panel-reason-checkout =
+    .label = Kan ikkje betale, sjekke ut eller handle
+report-broken-site-panel-reason-slow2 =
+    .label = Nettstaden er treg
 report-broken-site-panel-reason-content2 =
     .label = Manglande innhald
 report-broken-site-panel-reason-slow =
