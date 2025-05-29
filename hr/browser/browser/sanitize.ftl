@@ -87,10 +87,10 @@ item-cache =
 #   $amount (Number) - Amount of cached data
 #   $unit (String) - Abbreviation of the unit that $amount is in, e.g. "MB"
 item-cached-content-with-size =
-    .label = Privremeno spremljene datoteke i stranice ({ $amount } { $unit })
+    .label = Privremeno predmemorirane datoteke i stranice ({ $amount } { $unit })
     .accesskey = d
 item-cached-content =
-    .label = Privremeno spremljene datoteke i stranice
+    .label = Privremeno predmemorirane datoteke i stranice
     .accesskey = d
 item-cached-content-description = Briše stavke koje pomažu web stranicama da se brže učitaju
 item-form-search-history =

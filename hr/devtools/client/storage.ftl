@@ -23,7 +23,7 @@ storage-table-type-sessionstorage-hint = Pregledaj i uredi spremište sesije oda
 storage-table-type-indexeddb-hint = Pregledaj i izbriši unose u IndexedDB odabirom hosta. <a data-l10n-name="learn-more-link">Saznaj više</a>
 # Hint shown when the cache storage type is selected. Clicking the link will open
 # https://firefox-source-docs.mozilla.org/devtools-user/storage_inspector/cache_storage/
-storage-table-type-cache-hint = Pregledaj i izbriši unose u spremištu predmemorije odabirom hosta. <a data-l10n-name="learn-more-link">Saznaj više</a>
+storage-table-type-cache-hint = Pregledaj i izbriši unose u spremištu predmemorije odabirom spremišta. <a data-l10n-name="learn-more-link">Saznaj više</a>
 # Hint shown when the extension storage type is selected. Clicking the link will open
 # https://firefox-source-docs.mozilla.org/devtools-user/storage_inspector/extension_storage/
 storage-table-type-extensionstorage-hint = Pregledaj i uredi spremište proširenja odabirom hosta. <a data-l10n-name="learn-more-link">Saznaj više</a>

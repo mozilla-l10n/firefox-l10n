@@ -74,9 +74,16 @@ engine-keyword-exists = Már létezik keresőszolgáltatás ezzel a kulcsszóval
 
 ## The following placeholders are shown in the inputs when adding a new engine.
 
+add-engine-name-placeholder =
+    .placeholder = például: Mozilla Developer Network
+add-engine-url-placeholder =
+    .placeholder = például: https://developer.mozilla.com/search?q=%s
+add-engine-keyword-placeholder =
+    .placeholder = például: @mdn
 
 ## The following strings are used as error messages.
 
+add-engine-keyword-exists = A kulcsszó már használatban van. Próbálkozzon egy másikkal.
 
 ## The following strings are used as labels for the dialog's buttons.
 

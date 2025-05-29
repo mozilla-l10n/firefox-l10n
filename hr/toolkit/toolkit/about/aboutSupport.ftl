@@ -133,14 +133,13 @@ sandbox-sys-call-log-title = Odbijeni pozivi sustava
 sandbox-sys-call-index = #
 sandbox-sys-call-age = prije nekoliko sekundi
 sandbox-sys-call-pid = PID
-sandbox-sys-call-tid = TID
 sandbox-sys-call-proc-type = Vrsta procesa
 sandbox-sys-call-number = Poziv sustava
 sandbox-sys-call-args = Argumenti
 troubleshoot-mode-title = Dijagnosticiranje problema
 restart-in-troubleshoot-mode-label = Modus za rješavanje problema …
-clear-startup-cache-title = Pokušaj poništiti predmemoriju pokretanja
-clear-startup-cache-label = Poništi predmemoriju pokretanja …
+clear-startup-cache-title = Pokušaj izbrisati predmemoriju pokretanja
+clear-startup-cache-label = Izbriši predmemoriju pokretanja …
 startup-cache-dialog-title2 = Ponovno pokrenuti { -brand-short-name } za čišćenje predmemorije pokretanja?
 startup-cache-dialog-body2 = Ovo neće promijeniti tvoje postavke ni ukloniti proširenja.
 restart-button-label = Pokreni ponovo
@@ -294,7 +293,6 @@ webgl1-extensions = WebGL 1 dodaci
 webgl2-wsiinfo = WSI informacije upravljačkog programa WebGL 2
 webgl2-renderer = Iscrtavač upravljačkog programa WebGL 2
 webgl2-version = Verzija upravljačkog programa WebGL 2
-webgl2-driver-extensions = Dodaci upravljačkog programa WebGL 2
 webgl2-extensions = WebGL 2 dodaci
 # Variables
 # $failureCode (string) - String that can be searched in the source tree.
@@ -325,14 +323,13 @@ sandbox-proc-type-content = sadržaj
 sandbox-proc-type-file = sadržaj datoteke
 sandbox-proc-type-media-plugin = priključak za medije
 sandbox-proc-type-data-decoder = dekoder podataka
-startup-cache-title = Predmemorija pokretanja
-startup-cache-disk-cache-path = Staza predmemorije diska
+startup-cache-title = Predmemorija pokretanjasandbox-sys-call-tid = TID
+startup-cache-disk-cache-path = Staza predmemorije diskalauncher-process-status-2 = Prisilno onemogućeno
 startup-cache-ignore-disk-cache = Zanemari predmemoriju diska
-startup-cache-found-disk-cache-on-init = Pronađena je predmemorija diska pri inicijaliziranju
-startup-cache-wrote-to-disk-cache = Zapisano u predmemoriju diska
+startup-cache-found-disk-cache-on-init = Pronađena je predmemorija diska pri inicijaliziranjusupport-printing-modified-settings = Izmijenjene postavke ispisa
+startup-cache-wrote-to-disk-cache = Zapisano u predmemoriju diskawebgl2-driver-extensions = Dodaci upravljačkog programa WebGL 2
 launcher-process-status-0 = Aktivirano
 launcher-process-status-1 = Onemogućeno zbog kvara
-launcher-process-status-2 = Prisilno onemogućeno
 launcher-process-status-unknown = Nepoznato stanje
 # Variables
 # $remoteWindows (integer) - Number of remote windows
@@ -377,7 +374,6 @@ policies-error = Greška
 support-printing-title = Ispisivanje
 support-printing-troubleshoot = Otklanjanje grešaka
 support-printing-clear-settings-button = Očisti spremljene postavke ispisa
-support-printing-modified-settings = Izmijenjene postavke ispisa
 support-printing-prefs-name = Ime
 support-printing-prefs-value = Vrijednost
 
