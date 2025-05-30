@@ -51,3 +51,4 @@ crashreporter-error-no-home-dir = Thiếu thư mục home
 # $to (String) - the destination path
 crashreporter-error-moving-path = Không thể di chuyển { $from } đến { $to }
 crashreporter-error-version-eol = Phiên bản đã lỗi thời: báo cáo sự cố không còn được chấp nhận.
+crashreporter-error-failed-to-generate-minidump = Ứng dụng không thể truy xuất thông tin sự cố.

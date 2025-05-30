@@ -15,6 +15,8 @@ about-logging-set-log-file = Đặt tập tin nhật ký
 about-logging-set-log-modules = Đặt module nhật ký
 about-logging-start-logging = Bắt đầu ghi
 about-logging-stop-logging = Dừng ghi
+about-logging-copy-as-url = Sao chép cài đặt hiện tại dưới dạng URL
+about-logging-url-copied = Đã sao chép cài đặt ghi nhật ký vào khay nhớ tạm dưới dạng URL được cài đặt trước
 about-logging-buttons-disabled = Ghi nhật ký được định cấu hình thông qua các biến môi trường, cấu hình động không khả dụng.
 about-logging-some-elements-disabled = Ghi nhật ký được định cấu hình qua URL, một số tùy chọn cấu hình hiện không khả dụng
 about-logging-info = Thông tin:
@@ -27,6 +29,8 @@ about-logging-no-log-modules = Không
 about-logging-no-log-file = Không
 about-logging-logging-preset-selector-text = Ghi nhật ký đặt trước:
 about-logging-with-profiler-stacks-checkbox = Bật dấu vết ngăn xếp (stack trace) cho tin nhắn nhật ký
+about-logging-menu =
+    .title = Tùy chọn nâng cao
 
 ## Logging presets
 

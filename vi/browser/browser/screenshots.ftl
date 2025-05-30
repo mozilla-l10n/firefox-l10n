@@ -66,6 +66,11 @@ screenshots-component-copy-button-2 = Sao chép
 screenshots-component-download-button-2 = Tải xuống
     .title = Tải xuống ({ $shortcut })
     .aria-label = Tải xuống
+# Variables
+#   $shortcut (String) - A keyboard shortcut for the screenshot command.
+screenshot-toolbar-button =
+    .label = Chụp màn hình
+    .tooltiptext = Chụp màn hình ({ $shortcut })
 
 ## The below strings are used to capture keydown events so the strings should
 ## not be changed unless the keyboard layout in the locale requires it.
