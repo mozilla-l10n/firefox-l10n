@@ -578,3 +578,21 @@ mlmodel-link-preview = { -brand-short-name } sử dụng cái này để tạo r
 mlmodel-pdfjs = { -brand-short-name } sử dụng cái này để tạo văn bản thay thế cho hình ảnh bạn thêm vào PDF
 mlmodel-smart-tab-topic-engine = { -brand-short-name } sử dụng cái này để gợi ý tên cho nhóm thẻ của bạn
 mlmodel-smart-tab-embedding-engine = { -brand-short-name } sử dụng cái này để đề xuất các thẻ cho nhóm thẻ của bạn
+# AI Model will be downloaded on the users device and used locally
+addon-category-mlmodel = AI trên thiết bị
+addon-category-mlmodel-title =
+    .title = AI trên thiết bị
+mlmodel-heading = Quản lý mô hình AI trên thiết bị
+mlmodel-description = Một số tính năng và tiện ích mở rộng trong { -brand-short-name } được hỗ trợ bởi các mô hình AI hoạt động cục bộ trên thiết bị của bạn. Cách tiếp cận này bảo vệ quyền riêng tư của bạn và trong nhiều trường hợp, tăng tốc hiệu suất. <a data-l10n-name="learn-more">Tìm hiểu thêm</a>
+# Label for button that when clicked removed local model
+mlmodel-remove-addon-button =
+    .aria-label = Xóa
+# Label for the aggregated value of all files for a model
+mlmodel-addon-detail-totalsize-label = Kích cỡ tập tin
+mlmodel-addon-detail-last-used-label = Sử dụng lần cuối
+# This is a section label to describe what extensions or features use a specific local AI model
+mlmodel-addon-detail-used-by-label = Được sử dụng bởi
+# This is a section label to describe the link to the model card on the Hugging Face website
+mlmodel-addon-detail-model-card = Model card
+# This is a label for the Model Card link to Hugging face
+mlmodel-addon-detail-model-card-link-label = Xem trên Hugging Face

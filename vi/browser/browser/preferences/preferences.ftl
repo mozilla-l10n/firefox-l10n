@@ -639,6 +639,9 @@ home-prefs-weather-header =
     .label = Thời tiết
 home-prefs-weather-description = Sơ lược về dự báo hôm nay
 home-prefs-weather-learn-more-link = Tìm hiểu thêm
+# "Support" here means to help sustain or contribute to something, especially through funding or sponsorship.
+home-prefs-support-firefox-header =
+    .label = Hỗ trợ cho { -brand-product-name }
 home-prefs-mission-message = Các nhà tài trợ của chúng tôi hỗ trợ sứ mệnh của chúng tôi là xây dựng một trang web tốt hơn
 home-prefs-mission-message-learn-more-link = Tìm hiểu cách thức
 # Variables:
@@ -705,6 +708,9 @@ search-remove-engine =
 search-add-engine =
     .label = Thêm
     .accesskey = A
+search-edit-engine =
+    .label = Chỉnh sửa
+    .accesskey = E
 search-find-more-link = Tìm các công cụ tìm kiếm khác
 # This warning is displayed when the chosen keyword is already in use
 # ('Duplicate' is an adjective)
@@ -713,6 +719,10 @@ search-keyword-warning-title = Nhân bản Từ khóa
 #   $name (string) - Name of a search engine.
 search-keyword-warning-engine = Bạn đã chọn một từ khóa hiện đang được dùng bởi "{ $name }". Vui lòng chọn từ khác.
 search-keyword-warning-bookmark = Bạn đã chọn một từ khóa hiện đang được dùng bởi một dấu trang. Vui lòng chọn từ khác.
+# This warning is displayed when the chosen name is already in use.
+# Variables:
+#   $name (string) - Name of a search engine.
+edit-engine-name-warning-duplicate = Đã có một công cụ tìm kiếm có tên “{ $name }”. Vui lòng chọn tên khác.
 remove-engine-confirmation = Bạn có chắc chắn muốn xóa công cụ tìm kiếm này không?
 remove-engine-remove = Xóa
 remove-addon-engine-alert = Để xóa công cụ tìm kiếm này, hãy xóa tiện ích có liên quan.
