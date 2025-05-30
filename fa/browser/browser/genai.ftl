@@ -26,6 +26,8 @@ genai-prompts-simplify =
 
 ## Chatbot header
 
+genai-header-close-button =
+    .title = بستن
 genai-options-show-shortcut =
     .label = نمایش میانبر هنگام انتخاب متن
 genai-options-hide-shortcut =
