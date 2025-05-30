@@ -272,7 +272,12 @@ discopane-notice-recommendations = Certaines de ces recommandations sont personn
 discopane-notice-recommendations2 =
     .message = Certaines de ces recommandations sont personnalisées. Cette sélection se fonde sur d’autres extensions que vous avez installées, les préférences de votre profil et les statistiques d’utilisation.
 discopane-notice-learn-more = En savoir plus
+# Notice for the colorway theme removal
+colorway-removal-notice-message =
+    .heading = Vos thèmes de coloris ont été supprimés.
+    .message = { -brand-product-name } a mis à jour sa collection de coloris. Nous avons supprimé la ou les anciennes versions de votre liste « Thèmes enregistrés ». Obtenez les nouvelles versions sur le site des modules complémentaires.
 colorway-removal-notice-learn-more = En savoir plus
+colorway-removal-notice-button = Obtenir des thèmes de coloris mis à jour
 privacy-policy = Politique de confidentialité
 # Refers to the author of an add-on, shown below the name of the add-on.
 # Variables:
@@ -541,8 +546,19 @@ plugins-widevine-description = Ce plugin permet la lecture de contenus chiffrés
 ## Headings for the Permissions tab in `about:addons` when the data collection
 ## feature is enabled.
 
+addon-permissions-required-data-collection = Collecte de données obligatoire :
+addon-permissions-optional-data-collection = Collecte de données facultative :
 # Name of the Permissions tab in `about:addons` when the data collection feature is enabled.
 permissions-data-addon-button = Autorisations et données
+# This is a description for extension that use this AI model
+# Variables:
+#   $extensionName (String) - Name of the extension
+mlmodel-extension-label = Utilisé par l’extension { $extensionName }
 
 ## Mapping Engine IDs from AI models to how that feature represented by the engine Id is described in the used by section in local model management
 
+mlmodel-about-inference = { -brand-short-name } l’utilise dans about:inference
+mlmodel-link-preview = { -brand-short-name } l’utilise pour générer des points clés quand vous prévisualisez des liens
+mlmodel-pdfjs = { -brand-short-name } l’utilise pour créer le texte alternatif des images que vous ajoutez aux fichiers PDF
+mlmodel-smart-tab-topic-engine = { -brand-short-name } l’utilise pour suggérer les noms de vos groupes d’onglets
+mlmodel-smart-tab-embedding-engine = { -brand-short-name } l’utilise pour suggérer des onglets à ajouter à vos groupes d’onglets
