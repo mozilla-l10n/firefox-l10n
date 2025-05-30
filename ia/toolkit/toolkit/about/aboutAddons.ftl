@@ -570,7 +570,6 @@ addon-category-mlmodel = IA sur apparato
 addon-category-mlmodel-title =
     .title = IA sur apparato
 mlmodel-heading = Gerer modellos de IA sur apparato
-mlmodel-description = Alcun functiones e extensiones in { -brand-short-name } es supportate per modellos de IA que functiona localmente sur tu apparato. Iste approche protege tu confidentialitate e, in multe casos, accelera le prestationes.
 # Label for button that when clicked removed local model
 mlmodel-remove-addon-button =
     .aria-label = Remover
