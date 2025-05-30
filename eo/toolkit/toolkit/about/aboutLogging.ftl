@@ -15,6 +15,8 @@ about-logging-set-log-file = Elekti registran dosieron
 about-logging-set-log-modules = Elekti registrajn modulojn
 about-logging-start-logging = Komenci registri
 about-logging-stop-logging = Fini registri
+about-logging-copy-as-url = Kopii nunajn agordojn kiel URL
+about-logging-url-copied = Registraj agordoj kopiitaj al la tondujo kiel antaŭagorda URL
 about-logging-buttons-disabled = Registro agordita de ĉirkaŭaĵaj variantoj, ne disponeblas la dinamika agordado.
 about-logging-some-elements-disabled = Registro agordita de URL, kelkaj agordaj elektebloj ne disponeblas
 about-logging-info = Informo:
@@ -27,6 +29,8 @@ about-logging-no-log-modules = Neniu
 about-logging-no-log-file = Neniu
 about-logging-logging-preset-selector-text = Antaŭdifinita agordaro de registro:
 about-logging-with-profiler-stacks-checkbox = Aktivigi stakajn spurojn por registraj mesaĝoj
+about-logging-menu =
+    .title = Spertulaj agordoj
 
 ## Logging presets
 

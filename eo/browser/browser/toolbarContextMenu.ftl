@@ -59,6 +59,10 @@ toolbar-context-menu-auto-hide-downloads-button-2 =
 toolbar-context-menu-always-open-downloads-panel =
     .label = Montri panelon kiam elŝuto komenciĝas
     .accesskey = M
+# Label of checkbox menu item to toggle visibility of Extensions Button.
+toolbar-context-menu-always-show-extensions-button =
+    .label = Ĉiam montri en ilaro
+    .accesskey = i
 toolbar-context-menu-remove-from-toolbar =
     .label = Forigi el ilarstrio
     .accesskey = f

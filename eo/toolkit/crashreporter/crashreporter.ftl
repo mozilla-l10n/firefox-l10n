@@ -51,3 +51,4 @@ crashreporter-error-no-home-dir = Mankanta dosierujo de uzanto
 # $to (String) - the destination path
 crashreporter-error-moving-path = Ne eblis movi { $from } al { $to }
 crashreporter-error-version-eol = Fino de vivo de tiu ĉi versio: raportoj de paneoj ne plu estos akceptitaj.
+crashreporter-error-failed-to-generate-minidump = La programo ne sukcesis krei la informon pri paneo.

@@ -545,6 +545,20 @@ addon-permissions-required-data-collection = Postulata kolekto de datumoj:
 addon-permissions-optional-data-collection = Nedeviga kolekto de datumoj:
 # Name of the Permissions tab in `about:addons` when the data collection feature is enabled.
 permissions-data-addon-button = Permesoj kaj datumoj
+# This is a description for extension that use this AI model
+# Variables:
+#   $extensionName (String) - Name of the extension
+mlmodel-extension-label = Uzita de la etendaĵo { $extensionName }
 
 ## Mapping Engine IDs from AI models to how that feature represented by the engine Id is described in the used by section in local model management
 
+mlmodel-about-inference = { -brand-short-name } uzas tion ĉi en about:inference
+mlmodel-link-preview = { -brand-short-name } uzas tion ĉi por eltiri ĉefajn punktojn kiam vi antaŭvidas ligilojn
+mlmodel-pdfjs = { -brand-short-name } uzas tion ĉi por krei alternativajn tekstojn por bildoj, kiujn vi aldonas al dosieroj PDF
+mlmodel-smart-tab-topic-engine = { -brand-short-name } uzas tion ĉi por sugesti nomojn por viaj grupoj de langetoj
+mlmodel-smart-tab-embedding-engine = { -brand-short-name } uzas tion ĉi por sugesti langetojn por viaj grupoj de langetoj
+# AI Model will be downloaded on the users device and used locally
+addon-category-mlmodel = AI en la aparato
+addon-category-mlmodel-title =
+    .title = AI en la aparato
+mlmodel-heading = Administri modelojn de AI en la aparato
