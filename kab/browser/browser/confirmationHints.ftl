@@ -29,3 +29,5 @@ confirmation-hint-duplicate-tabs-closed =
         [one] Yettwamdel { $tabCount } yiccer
        *[other] Ttwamedlen { $tabCount } waccaren
     }
+# Subtle notification shown when Extensions button moves into the application menu.
+confirmation-hint-extensions-button-hidden = Yettwasenkez ɣer wumuɣ

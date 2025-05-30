@@ -75,6 +75,7 @@ bookmarks-toolbar-callout-1-secondary-button-label = Ala, tanemmirt
 bookmarks-toolbar-callout-2a-primary-button-label = Awi-t
 # Reverts the bookmarks toolbar to the default setting
 bookmarks-toolbar-callout-2a-secondary-button-label = Ffer afeggag n yifecka
+bookmarks-toolbar-callout-2b-primary-button-label = Eǧǧ-it yeldi
 # Reverts the bookmarks toolbar to the default setting
 bookmarks-toolbar-callout-2b-secondary-button-label = Ala, tanemmirt
 
