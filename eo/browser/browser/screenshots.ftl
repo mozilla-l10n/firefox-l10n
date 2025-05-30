@@ -66,6 +66,11 @@ screenshots-component-copy-button-2 = Kopii
 screenshots-component-download-button-2 = Elŝuti
     .title = Elŝuti ({ $shortcut })
     .aria-label = Elŝuti
+# Variables
+#   $shortcut (String) - A keyboard shortcut for the screenshot command.
+screenshot-toolbar-button =
+    .label = Ekrankopio
+    .tooltiptext = Fari ekrankopion ({ $shortcut })
 
 ## The below strings are used to capture keydown events so the strings should
 ## not be changed unless the keyboard layout in the locale requires it.

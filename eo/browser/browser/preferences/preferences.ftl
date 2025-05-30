@@ -515,6 +515,8 @@ performance-default-content-process-count =
 ## General Section - Browsing
 
 browsing-title = Retumo
+browsing-group-label =
+    .aria-label = Retumo
 browsing-use-autoscroll =
     .label = Uzi aŭtomatan rulumon
     .accesskey = a
@@ -649,6 +651,9 @@ home-prefs-weather-header =
     .label = Vetero
 home-prefs-weather-description = Rapida rigardo al la veterprognozo hodiaŭa
 home-prefs-weather-learn-more-link = Pli da informo
+# "Support" here means to help sustain or contribute to something, especially through funding or sponsorship.
+home-prefs-support-firefox-header =
+    .label = Helpi { -brand-product-name }
 home-prefs-mission-message = Niaj patronoj subtenas nian mision: krei pli bonan interreton.
 home-prefs-mission-message-learn-more-link = Malkovri kiel
 # Variables:
@@ -719,6 +724,9 @@ search-remove-engine =
 search-add-engine =
     .label = Aldoni
     .accesskey = A
+search-edit-engine =
+    .label = Modifi
+    .accesskey = M
 search-find-more-link = Serĉi pli da serĉiloj
 # This warning is displayed when the chosen keyword is already in use
 # ('Duplicate' is an adjective)
@@ -727,6 +735,10 @@ search-keyword-warning-title = Duobligita kategoria vorto
 #   $name (string) - Name of a search engine.
 search-keyword-warning-engine = Vi elektis kategorian vorton kiu estas nuntempe uzata de "{ $name }". Bonvolu elekti alian.
 search-keyword-warning-bookmark = Vi elektis kategorian vorton kiu estas nuntempe uzata de legosigno. Bonvolu elekti alian.
+# This warning is displayed when the chosen name is already in use.
+# Variables:
+#   $name (string) - Name of a search engine.
+edit-engine-name-warning-duplicate = Jam ekzistas serĉilo nomata “{ $name }”. Bonvolu elekti alian nomon.
 remove-engine-confirmation = Ĉu vi certe volas forigi tiun ĉi serĉilon?
 remove-engine-remove = Forigi
 remove-addon-engine-alert = Por forigi tiun ĉi serĉilon, forigu la asociitan aldonaĵon.

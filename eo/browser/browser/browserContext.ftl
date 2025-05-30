@@ -160,6 +160,9 @@ main-context-menu-copy-phone =
 main-context-menu-copy-link-simple =
     .label = Kopii ligilon
     .accesskey = l
+main-context-menu-preview-link =
+    .label = Antaŭvidi ligilon
+    .accesskey = l
 # "Copy Clean Link" means that Firefox will remove things from the link you
 # copied, like items that identify you for advertising purposes, and other items
 # sites add into URLs to help them deliver a certain browsing experience.
