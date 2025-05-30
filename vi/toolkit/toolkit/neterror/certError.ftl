@@ -117,6 +117,22 @@ fp-learn-more-about-time-related-errors = Tìm hiểu thêm về cách khắc ph
 ## Variables:
 ##   $hostname (string) - Hostname of the website with cert error.
 
+cert-error-revoked-certificate = { -brand-short-name } đã chặn lượt truy cập của bạn đến trang web này vì chứng chỉ được cung cấp cho { $hostname } đã bị thu hồi và không còn đáng tin cậy nữa.
+cert-error-bad-signature = { -brand-short-name } đã chặn lượt truy cập của bạn đến trang web này vì chữ ký trên chứng chỉ được cung cấp cho { $hostname } không hợp lệ.
+cert-error-key-pinning-failure = { -brand-short-name } đã chặn lượt truy cập của bạn đến trang web này vì chứng chỉ được cung cấp cho { $hostname } sử dụng khóa công khai khác với dự kiến.
+cert-error-bad-der = { -brand-short-name } đã chặn lượt truy cập của bạn đến trang web này vì chứng chỉ được cung cấp cho { $hostname } không được mã hóa đúng cách.
+cert-error-cert-not-in-name-space = { -brand-short-name } đã chặn lượt truy cập của bạn đến trang web này vì chứng chỉ được cung cấp cho { $hostname } không tuân theo các ràng buộc về tên của chứng chỉ đã cấp nó.
+cert-error-inadequate-cert-type = { -brand-short-name } đã chặn lượt truy cập của bạn đến trang web này vì chứng chỉ được cung cấp cho { $hostname } không được phép sử dụng bởi máy chủ web.
+cert-error-path-len-constraint-invalid = { -brand-short-name } đã chặn lượt truy cập của bạn đến trang web này vì chứng chỉ được cung cấp cho { $hostname } có quá nhiều chứng chỉ trung gian trên đường dẫn (path) đến chứng chỉ gốc.
+cert-error-invalid-key = { -brand-short-name } đã chặn lượt truy cập của bạn đến trang web này vì chứng chỉ được cung cấp cho { $hostname } có khóa không hợp lệ. Nhiều khả năng là nó quá nhỏ để bảo mật.
+cert-error-unknown-critical-extension = { -brand-short-name } đã chặn lượt truy cập của bạn đến trang web này vì chứng chỉ được cung cấp cho { $hostname } chứa phần mở rộng quan trọng không được hỗ trợ.
+cert-error-extension-value-invalid = { -brand-short-name } đã chặn lượt truy cập của bạn đến trang web này vì chứng chỉ được cung cấp cho { $hostname } chứa phần mở rộng không hợp lệ.
+cert-error-untrusted-issuer = { -brand-short-name } đã chặn lượt truy cập của bạn đến trang web này vì chứng chỉ được cung cấp cho { $hostname } được cấp bởi một cơ quan cấp chứng chỉ không còn đáng tin cậy nữa.
+cert-error-untrusted-cert = { -brand-short-name } đã chặn lượt truy cập của bạn đến trang web này vì chứng chỉ được cung cấp cho { $hostname } được đánh dấu là không đáng tin cậy.
+cert-error-invalid-integer-encoding = { -brand-short-name } đã chặn lượt truy cập của bạn đến trang web này vì chứng chỉ được cung cấp cho { $hostname } chứa mã hóa không hợp lệ của một số nguyên. Các nguyên nhân phổ biến bao gồm số sê-ri âm, mô-đun RSA âm và mã hóa dài hơn mức cần thiết.
+cert-error-unsupported-keyalg = { -brand-short-name } đã chặn lượt truy cập của bạn đến trang web này vì chứng chỉ được cung cấp cho { $hostname } có kiểu khoá (key type) không được hỗ trợ.
+cert-error-issuer-no-longer-trusted = { -brand-short-name } đã chặn lượt truy cập của bạn đến trang web này vì chứng chỉ được cung cấp cho { $hostname } không còn đáng tin cậy nữa.
+cert-error-signature-algorithm-mismatch = { -brand-short-name } đã chặn lượt truy cập của bạn đến trang web này vì chứng chỉ được cung cấp cho { $hostname } không khớp với trường thuật toán chữ ký của nó.
 
 ## Messages used for certificate error titles
 
