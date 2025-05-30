@@ -47,3 +47,7 @@ experimental-features-link-previews-description-no-ai =
         [macos] Per ottenere ulteriori informazioni su una pagina web prima di fare clic, passa il mouse sopra un link e premi Maiuscole (⇧) più Opzione (⌥) o Alt. Le anteprime possono includere dettagli come titolo e tempo di lettura. <a data-l10n-name="connect">Condividi la tua opinione</a>
        *[other] Per ottenere ulteriori informazioni su una pagina web prima di fare clic, passa il mouse sopra un link e premi Maiusc + Alt. Le anteprime possono includere dettagli come titolo e tempo di lettura. <a data-l10n-name="connect">Condividi la tua opinione</a>
     }
+# New Tab Sections with follow and block
+experimental-features-newtab-sections-follow-block =
+    .label = Sezioni per argomento e funzioni Segui/Blocca per le storie nella pagina Nuova scheda
+experimental-features-newtab-sections-follow-block-description = Organizza le storie nella pagina Nuova scheda in sezioni tematiche (sport, alimentazione, intrattenimento e altro) per un’esperienza più strutturata e leggibile. Utilizza i nuovi controlli Segui e Blocca per personalizzare i contenuti da visualizzare. <a data-l10n-name="connect">Condividi la tua opinione</a>
