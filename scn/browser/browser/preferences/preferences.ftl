@@ -892,7 +892,9 @@ permissions-addon-exceptions =
 
 ## Privacy Section - Data Collection
 
-collection-header = Cullizziuni e usu di dati di { -brand-short-name }
+collection-header = Ricota e usu dî dati di { -brand-short-name }
+collection-header2 = Ricota e usu dî dati di { -brand-short-name }
+    .searchkeywords = tilimitrìa
 collection-description = Ni sfurzamu di dàriti aḍḍijuti e arricògghiri sulu chiḍḍu chi ni serbi pi furniri e ammigghiurari { -brand-short-name } pi tutti. Dumannamu sempri u pirmissu prima d'arricìviri nfurmazzioni pirsunali.
 collection-privacy-notice = Abbisu di privatizza
 collection-health-report-telemetry-disabled = Nun sta' pirmittennu cchiù a { -vendor-short-name } di cògghiri dati tècnici e supra ê ntirazzioni. Tutti i dati vecchi sarannu scancillati nna 30 jorna.
