@@ -59,6 +59,7 @@ edit-engine-window =
 add-engine-button = Embojuaju hekaha momba’epyre
 add-engine-name = Hekaha réra
 add-engine-url2 = URL %s ndive pe jehekaha rendaguépe
+add-engine-keyword2 = Ñe’ẽ karaku (eipotárõ)
 add-engine-keyword = Ñe’ẽñemi
 add-engine-url = Hekaha URL, eiporu %s ayvureko ehekaséva rendápe
 add-engine-dialog =
@@ -69,6 +70,12 @@ engine-keyword-exists = Oĩma jehekaha hérava ko ñe’ẽñemícha
 
 ## The following placeholders are shown in the inputs when adding a new engine.
 
+add-engine-name-placeholder =
+    .placeholder = ej., Mozilla Developer Network
+add-engine-url-placeholder =
+    .placeholder = e.g., https://developer.mozilla.com/search?q=%s
+add-engine-keyword-placeholder =
+    .placeholder = e.g., @mdn
 
 ## The following strings are used as error messages.
 
