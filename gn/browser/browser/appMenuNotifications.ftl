@@ -47,6 +47,9 @@ appmenu-addon-post-install-message3 = Eñangareko ne moĩmbaha ha téma tembipor
 # This string is used in the confirmation popup displayed after an extension
 # has been installed, when the data collection feature is enabled.
 appmenu-addon-post-install-message-with-data-collection = Embohekopyahu ñemoneĩ ha mba’ekuaarã erohoryvéva ejapose vove <a data-l10n-name="settings-link">jepysokue ñemboheko</a> ndive.
+appmenu-addon-post-install-pin-toolbarbutton-checkbox =
+    .label = Emboja jepysokue tembiporu rupáre
+    .accesskey = P
 appmenu-addon-post-install-incognito-checkbox =
     .label = Emoneĩ ko jepysokue oñembohekóvo Windows ñemiguápe
     .accesskey = A
