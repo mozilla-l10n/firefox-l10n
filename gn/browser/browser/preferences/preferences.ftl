@@ -650,6 +650,9 @@ home-prefs-weather-header =
     .label = Arapytu
 home-prefs-weather-description = Ehecha arapytu reko ko ára rehegua
 home-prefs-weather-learn-more-link = Eikuaave
+# "Support" here means to help sustain or contribute to something, especially through funding or sponsorship.
+home-prefs-support-firefox-header =
+    .label = Eipytyvõ { -brand-product-name }
 home-prefs-mission-message = Ore ykekohára oipytyvõ romombareteve hag̃ua ñanduti rogue
 home-prefs-mission-message-learn-more-link = Eikuaa mba’éichapa
 # Variables:
@@ -720,6 +723,9 @@ search-remove-engine =
 search-add-engine =
     .label = Mbojuaju
     .accesskey = A
+search-edit-engine =
+    .label = Mbosako’i
+    .accesskey = E
 search-find-more-link = Ejuhu hetave hekaha mongu’eha
 # This warning is displayed when the chosen keyword is already in use
 # ('Duplicate' is an adjective)

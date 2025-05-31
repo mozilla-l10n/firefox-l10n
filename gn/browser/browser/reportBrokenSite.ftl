@@ -12,6 +12,13 @@ report-broken-site-panel-reason-label = Mba’épa oñembyai
 report-broken-site-panel-reason-optional-label = Mba’épa oñembyai (eipotárõ)
 report-broken-site-panel-reason-choose =
     .label = Ere mba’érepa
+report-broken-site-panel-reason-load =
+    .label = Tenda nomyanyhẽi
+# These terms are referring to ecommerce websites
+report-broken-site-panel-reason-checkout =
+    .label = Nahepyme’ẽkuaái, ndajoguakuaái
+report-broken-site-panel-reason-slow2 =
+    .label = Tenda imbegue
 report-broken-site-panel-reason-slow =
     .label = Tenda imbegue térã ndoikói
 report-broken-site-panel-reason-media =
