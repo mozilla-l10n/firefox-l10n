@@ -654,6 +654,9 @@ home-prefs-weather-header =
     .label = Надвор'е
 home-prefs-weather-description = Кароткі прагноз на сёння
 home-prefs-weather-learn-more-link = Падрабязней
+# "Support" here means to help sustain or contribute to something, especially through funding or sponsorship.
+home-prefs-support-firefox-header =
+    .label = Падтрымаць { -brand-product-name }
 home-prefs-mission-message = Нашы спонсары падтрымліваюць нашу місію па стварэнні лепшага Інтэрнэту
 home-prefs-mission-message-learn-more-link = Даведацца, як
 # Variables:
@@ -725,6 +728,9 @@ search-remove-engine =
 search-add-engine =
     .label = Дадаць
     .accesskey = Д
+search-edit-engine =
+    .label = Змяніць
+    .accesskey = З
 search-find-more-link = Знайсці іншыя пашукавікі
 # This warning is displayed when the chosen keyword is already in use
 # ('Duplicate' is an adjective)
@@ -733,6 +739,10 @@ search-keyword-warning-title = Паўторнае ключавое слова
 #   $name (string) - Name of a search engine.
 search-keyword-warning-engine = Вы выбралі ключавое слова, якое зараз ужываецца для "{ $name }". Выберыце, калі ласка, іншае.
 search-keyword-warning-bookmark = Вы выбралі ключавое слова, якое зараз ужываецца закладкай. Выберыце, калі ласка, іншае.
+# This warning is displayed when the chosen name is already in use.
+# Variables:
+#   $name (string) - Name of a search engine.
+edit-engine-name-warning-duplicate = Пошукавая сістэма з назвай «{ $name }» ужо ёсць. Калі ласка, выберыце іншую назву.
 remove-engine-confirmation = Вы ўпэўнены, што хочаце выдаліць гэту пошукавую сістэму?
 remove-engine-remove = Выдаліць
 remove-addon-engine-alert = Каб выдаліць гэтую пошукавую сістэму, выдаліце адпаведны дадатак.
@@ -1221,13 +1231,13 @@ content-blocking-rfp-incompatibility-warning = Вы выкарыстоўваец
 
 # "Standard" in this case is an adjective, meaning "default" or "normal".
 enhanced-tracking-protection-setting-standard =
-    .label = Стандартна
+    .label = Стандартная
     .accesskey = т
 enhanced-tracking-protection-setting-strict =
-    .label = Строга
+    .label = Строгая
     .accesskey = р
 enhanced-tracking-protection-setting-custom =
-    .label = Адмыслова
+    .label = Адмысловая
     .accesskey = с
 
 ##
