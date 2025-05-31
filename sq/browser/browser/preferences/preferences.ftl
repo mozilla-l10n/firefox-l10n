@@ -515,6 +515,8 @@ performance-default-content-process-count =
 ## General Section - Browsing
 
 browsing-title = Shfletim
+browsing-group-label =
+    .aria-label = Shfletim
 browsing-use-autoscroll =
     .label = Përdor vetërrëshqitje
     .accesskey = v
@@ -649,6 +651,10 @@ home-prefs-weather-header =
     .label = Moti
 home-prefs-weather-description = Parashikimi për sot me një vështrim
 home-prefs-weather-learn-more-link = Mësoni më tepër
+# "Support" here means to help sustain or contribute to something, especially through funding or sponsorship.
+home-prefs-support-firefox-header =
+    .label = Përkrahni { -brand-product-name }
+home-prefs-mission-message-learn-more-link = Mësoni se si
 # Variables:
 #   $num (number) - Number of rows displayed
 home-prefs-sections-rows-option =
@@ -717,6 +723,9 @@ search-remove-engine =
 search-add-engine =
     .label = Shtoje
     .accesskey = S
+search-edit-engine =
+    .label = Përpunoni
+    .accesskey = P
 search-find-more-link = Gjeni më tepër motorë kërkimesh
 # This warning is displayed when the chosen keyword is already in use
 # ('Duplicate' is an adjective)
@@ -725,6 +734,7 @@ search-keyword-warning-title = Fjalëkyç i Përsëdytur
 #   $name (string) - Name of a search engine.
 search-keyword-warning-engine = Keni zgjedhur një fjalëkyç që hëpërhë po përdoret nga "{ $name }". Ju lutemi, përzgjidhni një tjetër.
 search-keyword-warning-bookmark = Zgjodhët një fjalëkyç që hëpërhë po përdoret nga një faqerojtës. Ju lutemi, përzgjidhni një tjetër.
+remove-engine-remove = Hiqe
 
 ## Containers Section
 

@@ -8,6 +8,7 @@
 preonboarding-title = Mirë se vini te { -brand-product-name }
 preonboarding-subtitle = Duke vazhduar, pajtoheni me Termat e Përdorimit për { -brand-product-name } dhe Shënimin tonë mbi Privatësinë. Që të ndihmoni të përmirësohet shfletuesi, { -brand-product-name }-i dërgon te { -vendor-short-name } të dhëna diagnostikimi dhe ndërveprimi.
 preonboarding-primary-cta = Ripohojeni dhe vazhdoni
+preonboarding-primary-cta-v2 = Vazhdo
 # Labels for header style button that toggles showing the terms of use, privacy notice, and data preferences checklist
 preonboarding-manage-and-read-header = Administroni rregullime mbledhjeje të dhënash dhe lexoni Rregullat tona të Përdorimit dhe Shënimin tonë mbi Privatësinë
 preonboarding-manage-and-read-header-v2 = Lexoni Kushte Përdorimi dhe Shënim Mbi Privatësinë. Administroni rregullime të tjera.
