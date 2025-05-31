@@ -578,6 +578,11 @@ mlmodel-link-preview = Χρησιμοποιείται από το { -brand-short
 mlmodel-pdfjs = Χρησιμοποιείται από το { -brand-short-name } για τη δημιουργία εναλλακτικού κειμένου για τις εικόνες που προσθέτετε σε αρχεία PDF
 mlmodel-smart-tab-topic-engine = Χρησιμοποιείται από το { -brand-short-name } για την πρόταση ονομάτων για τις ομάδες καρτελών σας
 mlmodel-smart-tab-embedding-engine = Χρησιμοποιείται από το { -brand-short-name } για την πρόταση καρτελών για τις ομάδες καρτελών σας
+# AI Model will be downloaded on the users device and used locally
+addon-category-mlmodel = ΤΝ συσκευής
+addon-category-mlmodel-title =
+    .title = ΤΝ συσκευής
+mlmodel-heading = Διαχείριση μοντέλων ΤΝ συσκευής
 # Label for button that when clicked removed local model
 mlmodel-remove-addon-button =
     .aria-label = Αφαίρεση
@@ -588,3 +593,5 @@ mlmodel-addon-detail-last-used-label = Τελευταία χρήση
 mlmodel-addon-detail-used-by-label = Χρήση από
 # This is a section label to describe the link to the model card on the Hugging Face website
 mlmodel-addon-detail-model-card = Κάρτα μοντέλου
+# This is a label for the Model Card link to Hugging face
+mlmodel-addon-detail-model-card-link-label = Προβολή στο Hugging Face

@@ -59,7 +59,11 @@ edit-engine-window =
     .style = min-width: 32em;
 add-engine-button = Προσθήκη προσαρμοσμένης μηχανής
 add-engine-name = Όνομα μηχανής αναζήτησης
+add-engine-url2 = URL με το «%s» στη θέση του όρου αναζήτησης
 add-engine-keyword2 = Λέξη-κλειδί (προαιρετικό)
+# POST and GET refer to the HTTP methods.
+add-engine-post-data = Δεδομένα POST με το «%s» στη θέση του όρου αναζήτησης (αφήστε το κενό για το GET)
+add-engine-suggest-url = URL προτάσεων με το «%s» στη θέση του όρου αναζήτησης (προαιρετικό)
 add-engine-keyword = Λέξη-κλειδί
 add-engine-url = URL μηχανής, χρησιμοποιήστε το %s αντί του όρου αναζήτησης
 add-engine-dialog =
@@ -79,6 +83,8 @@ add-engine-keyword-placeholder =
 
 ## The following strings are used as error messages.
 
+add-engine-keyword-exists = Αυτή η λέξη-κλειδί χρησιμοποιείται ήδη. Δοκιμάστε μια άλλη.
+add-engine-name-exists = Αυτό το όνομα χρησιμοποιείται ήδη. Δοκιμάστε ένα άλλο.
 add-engine-no-name = Παρακαλούμε προσθέστε όνομα.
 add-engine-no-url = Παρακαλώ εισάγετε ένα URL.
 add-engine-invalid-url = Αυτό το URL δεν φαίνεται σωστό. Παρακαλούμε ελέγξτε το και δοκιμάστε ξανά.
