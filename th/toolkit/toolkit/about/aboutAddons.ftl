@@ -280,7 +280,12 @@ discopane-notice-recommendations2 =
         บางคำแนะนำเหล่านี้ถูกปรับเปลี่ยนตามแบบส่วนบุคคล ซึ่งขึ้นอยู่กับส่วนขยายอื่นที่คุณติดตั้ง
         ค่าปรับแต่งโปรไฟล์ และสถิติการใช้งาน
 discopane-notice-learn-more = เรียนรู้เพิ่มเติม
+# Notice for the colorway theme removal
+colorway-removal-notice-message =
+    .heading = ชุดตกแต่งชุดรูปแบบสีของคุณถูกเอาออกแล้ว
+    .message = { -brand-product-name } ได้อัปเดตคอลเลกชันชุดรูปแบบสีใหม่ เราได้เอารุ่นเก่าออกจากรายชื่อ “ชุดตกแต่งที่บันทึกไว้” ของคุณแล้ว ให้รับรุ่นใหม่บนไซต์ส่วนเสริม
 colorway-removal-notice-learn-more = เรียนรู้เพิ่มเติม
+colorway-removal-notice-button = รับชุดตกแต่งชุดรูปแบบสีที่อัปเดตแล้ว
 privacy-policy = นโยบายความเป็นส่วนตัว
 # Refers to the author of an add-on, shown below the name of the add-on.
 # Variables:
@@ -548,6 +553,10 @@ plugins-widevine-description = ปลั๊กอินนี้ช่วยใ�
 ## Headings for the Permissions tab in `about:addons` when the data collection
 ## feature is enabled.
 
+addon-permissions-required-data-collection = การรวบรวมข้อมูลที่ต้องการ:
+addon-permissions-optional-data-collection = การรวบรวมข้อมูลที่เป็นทางเลือก:
+# Name of the Permissions tab in `about:addons` when the data collection feature is enabled.
+permissions-data-addon-button = การกำหนดสิทธิ์และข้อมูล
 
 ## Mapping Engine IDs from AI models to how that feature represented by the engine Id is described in the used by section in local model management
 

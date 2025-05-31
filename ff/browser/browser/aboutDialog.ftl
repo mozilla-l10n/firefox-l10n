@@ -9,7 +9,7 @@ update-checkForUpdatesButton =
     .label = Yiyloo kesɗitine
     .accesskey = Y
 update-updateButton =
-    .label = Huɓɓitde ngam hesɗitinde { -brand-shorter-name }
+    .label = Hurmitin ngam hesɗitinde { -brand-shorter-name }
     .accesskey = R
 update-checkingForUpdates = Nana yiyloo ɓeyditte…
 
