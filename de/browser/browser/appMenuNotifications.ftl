@@ -47,6 +47,9 @@ appmenu-addon-post-install-message3 = Add-ons und Themes können über das Anwen
 # This string is used in the confirmation popup displayed after an extension
 # has been installed, when the data collection feature is enabled.
 appmenu-addon-post-install-message-with-data-collection = Aktualisieren Sie Berechtigungen und Dateneinstellungen jederzeit in den <a data-l10n-name="settings-link">Erweiterungseinstellungen</a>.
+appmenu-addon-post-install-pin-toolbarbutton-checkbox =
+    .label = Erweiterung an Symbolleiste anheften
+    .accesskey = a
 appmenu-addon-post-install-incognito-checkbox =
     .label = Ausführen der Erweiterung in privaten Fenstern erlauben
     .accesskey = e
