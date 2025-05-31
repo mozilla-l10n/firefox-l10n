@@ -117,6 +117,7 @@ fp-learn-more-about-time-related-errors = Saatle ilgili hataları giderme hakkı
 ## Variables:
 ##   $hostname (string) - Hostname of the website with cert error.
 
+cert-error-revoked-certificate = { $hostname } için sağlanan sertifika iptal edildiği için ve artık güvenilir olmadığı için { -brand-short-name } bu siteyi ziyaret etmenizi engelledi.
 cert-error-untrusted-cert = { $hostname } için sağlanan sertifika güvenilmez olarak işaretlendiği için { -brand-short-name } bu siteyi ziyaret etmenizi engelledi.
 
 ## Messages used for certificate error titles
