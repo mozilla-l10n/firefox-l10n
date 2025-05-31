@@ -15,6 +15,7 @@ about-logging-set-log-file = Ορισμός αρχείου καταγραφής
 about-logging-set-log-modules = Ορισμός μονάδων καταγραφής
 about-logging-start-logging = Έναρξη καταγραφής
 about-logging-stop-logging = Τερματισμός καταγραφής
+about-logging-copy-as-url = Αντιγραφή τρεχουσών ρυθμίσεων ως URL
 about-logging-buttons-disabled = Η καταγραφή διαμορφώθηκε μέσω μεταβλητών περιβάλλοντος, η δυναμική διαμόρφωση δεν είναι διαθέσιμη.
 about-logging-some-elements-disabled = Η καταγραφή διαμορφώθηκε μέσω URL, ορισμένες επιλογές δεν είναι διαθέσιμες
 about-logging-info = Πληροφορίες:
