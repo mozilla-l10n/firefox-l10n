@@ -559,3 +559,14 @@ mlmodel-link-preview = { -brand-short-name } oiporu kóva oguereko hag̃ua kyta 
 mlmodel-pdfjs = { -brand-short-name } oiporu kóva omoheñói hag̃ua moñe’ẽrã mokõiháva ta’ãngakuéra oñembojuajúva PDF rehe
 mlmodel-smart-tab-topic-engine = { -brand-short-name } oiporu kóva he’i hag̃ua téra tendayke atýpe g̃uarã
 mlmodel-smart-tab-embedding-engine = { -brand-short-name } oiporu kóva he’i hag̃ua tendayke tendayke atýpe g̃uarã
+# AI Model will be downloaded on the users device and used locally
+addon-category-mlmodel = IA mba’e’okápe
+addon-category-mlmodel-title =
+    .title = IA mba’e’okápe
+mlmodel-heading = Eñangareko peteĩva IA rehe mba’e’okápe
+# Label for button that when clicked removed local model
+mlmodel-remove-addon-button =
+    .aria-label = Mboguete
+# Label for the aggregated value of all files for a model
+mlmodel-addon-detail-totalsize-label = Marandurenda tuichakue
+mlmodel-addon-detail-last-used-label = Ojeporúva ipahápe

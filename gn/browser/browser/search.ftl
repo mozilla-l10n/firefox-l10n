@@ -84,3 +84,15 @@ add-engine-no-url = Emoinge peteĩ URL.
 
 ## The following strings are used as labels for the dialog's buttons.
 
+# buttonlabelextra1 is the label of a button to open the advanced section
+# of the dialog.
+add-engine-dialog2 =
+    .buttonlabelaccept = Embojuaju Jehekaha
+    .buttonaccesskeyaccept = A
+    .buttonlabelextra1 = Jehasapyre
+# buttonlabelextra1 is the label of a button to open the advanced section
+# of the dialog.
+edit-engine-dialog =
+    .buttonlabelaccept = Eñongatu Jehekaha
+    .buttonaccesskeyaccept = S
+    .buttonlabelextra1 = Jehasapyre
