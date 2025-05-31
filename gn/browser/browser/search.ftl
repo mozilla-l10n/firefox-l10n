@@ -79,6 +79,8 @@ add-engine-keyword-placeholder =
 
 ## The following strings are used as error messages.
 
+add-engine-no-name = Ambojuaju téra.
+add-engine-no-url = Emoinge peteĩ URL.
 
 ## The following strings are used as labels for the dialog's buttons.
 
