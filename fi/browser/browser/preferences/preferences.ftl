@@ -721,6 +721,9 @@ search-remove-engine =
 search-add-engine =
     .label = Lisää
     .accesskey = L
+search-edit-engine =
+    .label = Muokkaa
+    .accesskey = M
 search-find-more-link = Etsi lisää hakukoneita
 # This warning is displayed when the chosen keyword is already in use
 # ('Duplicate' is an adjective)
@@ -729,6 +732,10 @@ search-keyword-warning-title = Pikakomento jo käytössä
 #   $name (string) - Name of a search engine.
 search-keyword-warning-engine = Annettu pikakomento on jo kirjanmerkillä ”{ $name }”. Kirjoita uusi pikakomento.
 search-keyword-warning-bookmark = Annettu pikakomento on jo toisella kirjanmerkillä. Kirjoita uusi pikakomento.
+# This warning is displayed when the chosen name is already in use.
+# Variables:
+#   $name (string) - Name of a search engine.
+edit-engine-name-warning-duplicate = Hakukone nimeltä ”{ $name }” on jo olemassa. Valitse toinen nimi.
 remove-engine-confirmation = Haluatko varmasti poistaa tämän hakukoneen?
 remove-engine-remove = Poista
 remove-addon-engine-alert = Poistaaksesi tämän hakukoneen, poista siihen liittyvä lisäosa.
