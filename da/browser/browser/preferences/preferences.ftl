@@ -651,6 +651,9 @@ home-prefs-weather-header =
     .label = Vejr
 home-prefs-weather-description = Dagens vejrudsigt
 home-prefs-weather-learn-more-link = Lær mere
+# "Support" here means to help sustain or contribute to something, especially through funding or sponsorship.
+home-prefs-support-firefox-header =
+    .label = Støt { -brand-product-name }
 home-prefs-mission-message = Vores sponsorer støtter vores mission om at bygge et bedre internet
 home-prefs-mission-message-learn-more-link = Find ud af hvordan
 # Variables:
@@ -721,6 +724,9 @@ search-remove-engine =
 search-add-engine =
     .label = Tilføj
     .accesskey = T
+search-edit-engine =
+    .label = Rediger
+    .accesskey = R
 search-find-more-link = Find flere søgetjenester
 # This warning is displayed when the chosen keyword is already in use
 # ('Duplicate' is an adjective)
@@ -729,6 +735,10 @@ search-keyword-warning-title = Genvej findes allerede
 #   $name (string) - Name of a search engine.
 search-keyword-warning-engine = Du har valgt en genvej som allerede bruges af "{ $name }". Vælg venligst en anden.
 search-keyword-warning-bookmark = Du har valgt en genvej som bruges af et bogmærke. Vælg venligst en anden.
+# This warning is displayed when the chosen name is already in use.
+# Variables:
+#   $name (string) - Name of a search engine.
+edit-engine-name-warning-duplicate = Der findes allerede en søgetjeneste med navnet "{ $name }". Vælg et andet navn.
 remove-engine-confirmation = Er du sikker på, at du vil fjerne denne søgetjeneste?
 remove-engine-remove = Fjern
 remove-addon-engine-alert = For at fjerne denne søgetjeneste skal du fjerne den tilknyttede tilføjelse.

@@ -823,6 +823,9 @@ urlbar-group-recent-searches =
 #  $engine (String): the name of the search engine providing the trending suggestions
 urlbar-group-trending =
     .label = Populært på { $engine }
+# Label shown above sponsored suggestions in the urlbar results.
+urlbar-group-sponsored =
+    .label = Sponsoreret
 # The result menu labels shown next to trending results.
 urlbar-result-menu-trending-dont-show =
     .label = Vis ikke populære søgninger

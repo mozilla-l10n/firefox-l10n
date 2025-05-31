@@ -15,6 +15,7 @@ about-logging-set-log-file = Emopyenda marandurenda jehaipy
 about-logging-set-log-modules = Emopyenda jehaipy ra’ãha
 about-logging-start-logging = Ta’ãha moñepyrũ
 about-logging-stop-logging = Ta’ãha jejoko
+about-logging-copy-as-url = Emonguatia ñemboheko ag̃agua URL ramo
 about-logging-buttons-disabled = Teraguapy mbohekopyre jeregua rehegua, ñemboheko oku’éva ojeporukuaa’ỹva.
 about-logging-some-elements-disabled = Oñembohekopyre URL rupive, oĩ ñemboheko poravopyrã ndojeporukuaáiva
 about-logging-info = Marandu:

@@ -47,6 +47,9 @@ appmenu-addon-post-install-message3 = Håndter dine tilføjelser og temaer i pro
 # This string is used in the confirmation popup displayed after an extension
 # has been installed, when the data collection feature is enabled.
 appmenu-addon-post-install-message-with-data-collection = Opdater tilladelser og data-indstillinger når som helst i <a data-l10n-name="settings-link">indstillingerne for udvidelser</a>.
+appmenu-addon-post-install-pin-toolbarbutton-checkbox =
+    .label = Fastgør udvidelsen til værktøjslinjen
+    .accesskey = F
 appmenu-addon-post-install-incognito-checkbox =
     .label = Tillad denne udvidelse at virke i private vinduer.
     .accesskey = T
