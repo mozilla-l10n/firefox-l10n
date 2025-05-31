@@ -22,3 +22,4 @@
 
 ## Firefox Translations language management in about:preferences.
 
+translations-manage-delete-button = Kustuta
