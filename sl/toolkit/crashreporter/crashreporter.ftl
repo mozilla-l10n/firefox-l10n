@@ -51,3 +51,4 @@ crashreporter-error-no-home-dir = Manjkajoč domači imenik
 # $to (String) - the destination path
 crashreporter-error-moving-path = Premikanje { $from } v { $to } ni uspelo
 crashreporter-error-version-eol = Konec podpore: poročil o sesutjih te različice ne sprejemamo več.
+crashreporter-error-failed-to-generate-minidump = Aplikacija ni uspela ustvariti podatkov o sesutju.

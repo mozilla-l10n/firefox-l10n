@@ -578,3 +578,15 @@ mlmodel-link-preview = { -brand-short-name } z njegovo uporabo ustvarja ključne
 mlmodel-pdfjs = { -brand-short-name } z njegovo uporabo ustvarja nadomestno besedilo za slike, ki jih dodate v datoteke PDF
 mlmodel-smart-tab-topic-engine = { -brand-short-name } z njegovo uporabo predlaga imena za skupine zavihkov
 mlmodel-smart-tab-embedding-engine = { -brand-short-name } z njegovo uporabo predlaga zavihke za skupine zavihkov
+# Label for button that when clicked removed local model
+mlmodel-remove-addon-button =
+    .aria-label = Odstrani
+# Label for the aggregated value of all files for a model
+mlmodel-addon-detail-totalsize-label = Velikost datoteke
+mlmodel-addon-detail-last-used-label = Nazadnje uporabljen
+# This is a section label to describe what extensions or features use a specific local AI model
+mlmodel-addon-detail-used-by-label = Uporablja
+# This is a section label to describe the link to the model card on the Hugging Face website
+mlmodel-addon-detail-model-card = Kartica modela
+# This is a label for the Model Card link to Hugging face
+mlmodel-addon-detail-model-card-link-label = Prikaži na Hugging Face

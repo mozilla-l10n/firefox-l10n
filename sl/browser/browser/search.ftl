@@ -87,6 +87,24 @@ add-engine-keyword-exists = Ta ključna beseda se že uporablja. Poskusite z dru
 add-engine-name-exists = To ime se že uporablja. Izberite drugačno.
 add-engine-no-name = Poimenujte iskalnik.
 add-engine-no-url = Vnesite URL.
+add-engine-invalid-url = Ta URL ni videti pravilen. Preverite in poskusite znova.
+add-engine-invalid-protocol = Ta URL ni videti pravilen. Uporabite naslov, ki se začenja s http ali https.
+# This error is shown when the user typed URL is missing %s.
+add-engine-missing-terms-url = Poskusite na mestu iskalne poizvedbe vključiti %s.
+# This error is shown when the user typed post data is missing %s.
+add-engine-missing-terms-post-data = Poskusite na mestu iskalne poizvedbe vključiti %s.
 
 ## The following strings are used as labels for the dialog's buttons.
 
+# buttonlabelextra1 is the label of a button to open the advanced section
+# of the dialog.
+add-engine-dialog2 =
+    .buttonlabelaccept = Dodaj iskalnik
+    .buttonaccesskeyaccept = D
+    .buttonlabelextra1 = Napredno
+# buttonlabelextra1 is the label of a button to open the advanced section
+# of the dialog.
+edit-engine-dialog =
+    .buttonlabelaccept = Shrani iskalnik
+    .buttonaccesskeyaccept = S
+    .buttonlabelextra1 = Napredno
