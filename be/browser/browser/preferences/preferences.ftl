@@ -31,7 +31,7 @@ settings-page-title = Налады
 # Do not translate.
 search-input-box2 =
     .style = width: 15.4em
-    .placeholder = Шукаць у наладах
+    .placeholder = Пошук у наладах
 managed-notice = Вашым браўзерам кіруе ваша арганізацыя.
 managed-notice-info-icon =
     .alt = інфармацыя
