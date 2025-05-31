@@ -54,8 +54,16 @@ install-search-engine-no = Ne
 add-engine-window =
     .title = Dodaj iskalnik
     .style = min-width: 32em;
+edit-engine-window =
+    .title = Uredi iskalnik
+    .style = min-width: 32em;
 add-engine-button = Dodaj iskalnik po meri
 add-engine-name = Ime iskalnika
+add-engine-url2 = Naslov URL z %s na mestu iskalnega izraza
+add-engine-keyword2 = Ključna beseda (neobvezno)
+# POST and GET refer to the HTTP methods.
+add-engine-post-data = Podatki POST z %s na mestu iskalnega izraza (pustite prazno za GET)
+add-engine-suggest-url = URL s predlogi z %s na mestu iskalnega izraza (neobvezno)
 add-engine-keyword = Ključna beseda
 add-engine-url = Spletni naslov iskalnika – na mestu iskalne poizvedbe uporabite %s
 add-engine-dialog =
@@ -66,9 +74,19 @@ engine-keyword-exists = Iskalnik s to ključno besedo že obstaja
 
 ## The following placeholders are shown in the inputs when adding a new engine.
 
+add-engine-name-placeholder =
+    .placeholder = npr. Mozilla Developer Network
+add-engine-url-placeholder =
+    .placeholder = npr. https://developer.mozilla.com/search?q=%s
+add-engine-keyword-placeholder =
+    .placeholder = npr. @mdn
 
 ## The following strings are used as error messages.
 
+add-engine-keyword-exists = Ta ključna beseda se že uporablja. Poskusite z drugačno.
+add-engine-name-exists = To ime se že uporablja. Izberite drugačno.
+add-engine-no-name = Poimenujte iskalnik.
+add-engine-no-url = Vnesite URL.
 
 ## The following strings are used as labels for the dialog's buttons.
 

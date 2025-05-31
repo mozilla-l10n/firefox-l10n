@@ -657,6 +657,9 @@ home-prefs-weather-header =
     .label = Vreme
 home-prefs-weather-description = Kratek pogled na današnjo napoved
 home-prefs-weather-learn-more-link = Več o tem
+# "Support" here means to help sustain or contribute to something, especially through funding or sponsorship.
+home-prefs-support-firefox-header =
+    .label = Podprite { -brand-product-name(sklon: "tožilnik") }
 home-prefs-mission-message = Naši sponzorji podpirajo naše poslanstvo ustvarjanja boljšega spleta
 home-prefs-mission-message-learn-more-link = Spoznajte, kako
 # Variables:
@@ -729,6 +732,9 @@ search-remove-engine =
 search-add-engine =
     .label = Dodaj
     .accesskey = D
+search-edit-engine =
+    .label = Uredi
+    .accesskey = U
 search-find-more-link = Najdi več iskalnikov
 # This warning is displayed when the chosen keyword is already in use
 # ('Duplicate' is an adjective)
@@ -737,6 +743,10 @@ search-keyword-warning-title = Podvojena ključna beseda
 #   $name (string) - Name of a search engine.
 search-keyword-warning-engine = Izbrali ste ključno besedo, ki jo trenutno uporablja "{ $name }". Prosim, izberite drugo.
 search-keyword-warning-bookmark = Izbrali ste ključno besedo, ki jo trenutno uporablja zaznamek. Prosim, izberite drugo.
+# This warning is displayed when the chosen name is already in use.
+# Variables:
+#   $name (string) - Name of a search engine.
+edit-engine-name-warning-duplicate = Iskalnik z imenom "{ $name }" že obstaja. Izberite drugačno ime.
 remove-engine-confirmation = Ali ste prepričani, da želite odstraniti ta iskalnik?
 remove-engine-remove = Odstrani
 remove-addon-engine-alert = Za odstranitev tega iskalnika odstranite z njim povezan dodatek.
