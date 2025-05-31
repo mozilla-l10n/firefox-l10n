@@ -66,6 +66,11 @@ screenshots-component-copy-button-2 = Kopier
 screenshots-component-download-button-2 = Hent
     .title = Hent ({ $shortcut })
     .aria-label = Hent
+# Variables
+#   $shortcut (String) - A keyboard shortcut for the screenshot command.
+screenshot-toolbar-button =
+    .label = Skærmbillede
+    .tooltiptext = Tag et skærmbillede ({ $shortcut })
 
 ## The below strings are used to capture keydown events so the strings should
 ## not be changed unless the keyboard layout in the locale requires it.

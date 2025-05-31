@@ -51,3 +51,4 @@ crashreporter-error-no-home-dir = Manglende hjem-mappe
 # $to (String) - the destination path
 crashreporter-error-moving-path = Kunne ikke flytte { $from } til { $to }
 crashreporter-error-version-eol = Versionen understøttes ikke længere og fejlrapporter accepteres ikke.
+crashreporter-error-failed-to-generate-minidump = Programmet kunne ikke oprette oplysninger om nedbrud.

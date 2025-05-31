@@ -16,6 +16,7 @@ about-logging-set-log-modules = Emopyenda jehaipy ra’ãha
 about-logging-start-logging = Ta’ãha moñepyrũ
 about-logging-stop-logging = Ta’ãha jejoko
 about-logging-copy-as-url = Emonguatia ñemboheko ag̃agua URL ramo
+about-logging-url-copied = Emboheko jehaikue embohasáva kuatiajokohápe URL ypyguávarõ
 about-logging-buttons-disabled = Teraguapy mbohekopyre jeregua rehegua, ñemboheko oku’éva ojeporukuaa’ỹva.
 about-logging-some-elements-disabled = Oñembohekopyre URL rupive, oĩ ñemboheko poravopyrã ndojeporukuaáiva
 about-logging-info = Marandu:
@@ -28,6 +29,8 @@ about-logging-no-log-modules = Avave
 about-logging-no-log-file = Avave
 about-logging-logging-preset-selector-text = Mboheraguapy ypygua:
 about-logging-with-profiler-stacks-checkbox = Emyandy píla resa’ỹijoha ñe’ẽmondo jehaipyrãme g̃uarã
+about-logging-menu =
+    .title = Jeporavorã opapotáva
 
 ## Logging presets
 

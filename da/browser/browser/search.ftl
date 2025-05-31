@@ -54,8 +54,16 @@ install-search-engine-no = Nej
 add-engine-window =
     .title = Tilføj søgetjeneste
     .style = min-width: 32em;
+edit-engine-window =
+    .title = Rediger søgetjeneste
+    .style = min-width: 32em;
 add-engine-button = Tilføj tilpasset søgetjeneste
 add-engine-name = Navn på søgetjeneste
+add-engine-url2 = URL med %s i stedet for søgeterm
+add-engine-keyword2 = Genvej (valgfrit)
+# POST and GET refer to the HTTP methods.
+add-engine-post-data = POST-data med %s i stedet for søgeterm (hvis feltet er tomt, anvendes GET)
+add-engine-suggest-url = URL til forslag med %s i stedet for søgeterm (valgfrit)
 add-engine-keyword = Genvej
 add-engine-url = URL til søgetjeneste, brug %s til at repræsentere søgestrengen
 add-engine-dialog =
@@ -66,9 +74,37 @@ engine-keyword-exists = Der eksisterer allerede en søgetjeneste med denne genve
 
 ## The following placeholders are shown in the inputs when adding a new engine.
 
+add-engine-name-placeholder =
+    .placeholder = fx Mozilla Developer Network
+add-engine-url-placeholder =
+    .placeholder = fx https://developer.mozilla.com/search?q=%s
+add-engine-keyword-placeholder =
+    .placeholder = fx @mdn
 
 ## The following strings are used as error messages.
 
+add-engine-keyword-exists = Genvejen er allerede i brug. Prøv med en anden.
+add-engine-name-exists = Navnet er allerede i brug. Vælg et andet.
+add-engine-no-name = Tilføj et navn.
+add-engine-no-url = Indtast en webadresse.
+add-engine-invalid-url = URL'en ser ikke rigtig ud. Undersøg adressen og prøv igen.
+add-engine-invalid-protocol = URL'en ser ikke rigtig ud. Brug en URL, der starter med http eller https.
+# This error is shown when the user typed URL is missing %s.
+add-engine-missing-terms-url = Prøv at inkludere %s i stedet for søgetermen.
+# This error is shown when the user typed post data is missing %s.
+add-engine-missing-terms-post-data = Prøv at inkludere %s i stedet for søgetermen.
 
 ## The following strings are used as labels for the dialog's buttons.
 
+# buttonlabelextra1 is the label of a button to open the advanced section
+# of the dialog.
+add-engine-dialog2 =
+    .buttonlabelaccept = Tilføj søgetjeneste
+    .buttonaccesskeyaccept = T
+    .buttonlabelextra1 = Avanceret
+# buttonlabelextra1 is the label of a button to open the advanced section
+# of the dialog.
+edit-engine-dialog =
+    .buttonlabelaccept = Gem søgetjeneste
+    .buttonaccesskeyaccept = G
+    .buttonlabelextra1 = Avanceret
