@@ -66,6 +66,11 @@ screenshots-component-copy-button-2 = Monguatia
 screenshots-component-download-button-2 = Emboguejy
     .title = Mboguejy ({ $shortcut })
     .aria-label = Mboguejy
+# Variables
+#   $shortcut (String) - A keyboard shortcut for the screenshot command.
+screenshot-toolbar-button =
+    .label = Mba’erechaha japyhy
+    .tooltiptext = Ejapo mba’erechaha japyhy ({ $shortcut })
 
 ## The below strings are used to capture keydown events so the strings should
 ## not be changed unless the keyboard layout in the locale requires it.
