@@ -518,6 +518,8 @@ performance-default-content-process-count =
 ## General Section - Browsing
 
 browsing-title = Агляданне
+browsing-group-label =
+    .aria-label = Агляданне
 browsing-use-autoscroll =
     .label = Выкарыстоўваць аўтаматычную пракрутку
     .accesskey = с
