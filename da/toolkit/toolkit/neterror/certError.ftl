@@ -123,6 +123,7 @@ cert-error-unknown-critical-extension = { -brand-short-name } blokerede dit bes�
 cert-error-extension-value-invalid = { -brand-short-name } blokerede dit besøg på webstedet, fordi certifikatet for { $hostname } indeholder en ugyldig udvidelse.
 cert-error-invalid-integer-encoding = { -brand-short-name } blokerede dit besøg på webstedet, fordi certifikatet for { $hostname } indeholder en ugyldig kodning af et heltal. Typiske årsager kan være brugen af negative serienumre, negative RSA-moduli og kodninger, der er længere end nødvendigt.
 cert-error-unsupported-keyalg = { -brand-short-name } blokerede dit besøg på webstedet, fordi certifikatet for { $hostname } har en nøgletype, som ikke er understøttet.
+cert-error-signature-algorithm-mismatch = { -brand-short-name } blokerede dit besøg på webstedet, fordi signatur-algoritmen for certifikatet for { $hostname } ikke stemmer overens med certifikatets felt for signatur-algoritmer.
 
 ## Messages used for certificate error titles
 
