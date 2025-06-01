@@ -51,3 +51,4 @@ crashreporter-error-no-home-dir = Diretório 'home' faltando
 # $to (String) - the destination path
 crashreporter-error-moving-path = Falha ao mover { $from } para { $to }
 crashreporter-error-version-eol = Não há mais suporte a esta versão: relatórios de travamento não são mais aceitos.
+crashreporter-error-failed-to-generate-minidump = O aplicativo falhou ao gerar informações de falha.

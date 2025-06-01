@@ -571,3 +571,16 @@ mlmodel-link-preview = O { -brand-short-name } usa isso para gerar pontos chave 
 mlmodel-pdfjs = O { -brand-short-name } usa isto para criar texto alternativo em imagens que você adiciona a documentos PDF
 mlmodel-smart-tab-topic-engine = O { -brand-short-name } usa isto para sugerir nomes para seus grupos de abas
 mlmodel-smart-tab-embedding-engine = O { -brand-short-name } usa isto para sugerir abas para seus grupos de abas
+# AI Model will be downloaded on the users device and used locally
+addon-category-mlmodel = Inteligência artificial no dispositivo
+addon-category-mlmodel-title =
+    .title = Inteligência artificial no dispositivo
+mlmodel-heading = Gerenciar modelos de inteligência artificial no dispositivo
+# Label for button that when clicked removed local model
+mlmodel-remove-addon-button =
+    .aria-label = Remover
+# Label for the aggregated value of all files for a model
+mlmodel-addon-detail-totalsize-label = Tamanho do arquivo:
+mlmodel-addon-detail-last-used-label = Último uso
+# This is a section label to describe what extensions or features use a specific local AI model
+mlmodel-addon-detail-used-by-label = Usado por

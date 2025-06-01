@@ -86,6 +86,25 @@ add-engine-keyword-placeholder =
 add-engine-keyword-exists = Esta palavra-chave já está sendo usada. Tente outra.
 add-engine-name-exists = Este nome já está em uso. Escolha outro.
 add-engine-no-name = Adicione um nome.
+add-engine-no-url = Insira uma URL.
+add-engine-invalid-url = Esta URL não parece correta. Verifique e tente novamente.
+add-engine-invalid-protocol = Esta URL não parece correta. Use uma URL que comece com http ou https.
+# This error is shown when the user typed URL is missing %s.
+add-engine-missing-terms-url = Experimente incluir %s no lugar do termo de pesquisa.
+# This error is shown when the user typed post data is missing %s.
+add-engine-missing-terms-post-data = Experimente incluir %s no lugar do termo de pesquisa.
 
 ## The following strings are used as labels for the dialog's buttons.
 
+# buttonlabelextra1 is the label of a button to open the advanced section
+# of the dialog.
+add-engine-dialog2 =
+    .buttonlabelaccept = Adicionar mecanismo
+    .buttonaccesskeyaccept = A
+    .buttonlabelextra1 = Avançado
+# buttonlabelextra1 is the label of a button to open the advanced section
+# of the dialog.
+edit-engine-dialog =
+    .buttonlabelaccept = Salvar mecanismo
+    .buttonaccesskeyaccept = S
+    .buttonlabelextra1 = Avançado
