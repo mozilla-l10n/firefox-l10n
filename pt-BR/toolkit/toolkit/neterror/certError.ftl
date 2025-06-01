@@ -129,6 +129,10 @@ cert-error-unknown-critical-extension = O { -brand-short-name } bloqueou sua vis
 cert-error-extension-value-invalid = O { -brand-short-name } bloqueou sua visita a este site porque o certificado fornecido por { $hostname } contém uma extensão inválida.
 cert-error-untrusted-issuer = O { -brand-short-name } bloqueou sua visita a este site porque o certificado fornecido por { $hostname } foi emitido por uma autoridade certificadora que não é mais confiável.
 cert-error-untrusted-cert = O { -brand-short-name } bloqueou sua visita a este site porque o certificado fornecido por { $hostname } está marcado como não confiável.
+cert-error-invalid-integer-encoding = O { -brand-short-name } bloqueou sua visita a este site porque o certificado fornecido por { $hostname } contém uma codificação inválida de um inteiro. Causas comuns incluem números de série negativos, módulos RSA negativos e codificações maiores do que o necessário.
+cert-error-unsupported-keyalg = O { -brand-short-name } bloqueou sua visita a este site porque o certificado fornecido por { $hostname } tem um tipo de chave não suportado.
+cert-error-issuer-no-longer-trusted = O { -brand-short-name } bloqueou sua visita a este site porque a autoridade certificadora que expediu o certificado fornecido por { $hostname } não é mais confiável.
+cert-error-signature-algorithm-mismatch = O { -brand-short-name } bloqueou sua visita a este site porque o algoritmo de assinatura do certificado fornecido por { $hostname } não corresponde ao seu campo de algoritmo de assinatura.
 
 ## Messages used for certificate error titles
 

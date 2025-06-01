@@ -576,6 +576,7 @@ addon-category-mlmodel = Inteligência artificial no dispositivo
 addon-category-mlmodel-title =
     .title = Inteligência artificial no dispositivo
 mlmodel-heading = Gerenciar modelos de inteligência artificial no dispositivo
+mlmodel-description = Alguns recursos e extensões do { -brand-short-name } são baseados em modelos de inteligência artificial que funcionam localmente em seu dispositivo. Esta abordagem protege sua privacidade e, em muitos casos, acelera o desempenho. <a data-l10n-name="learn-more">Saiba mais</a>
 # Label for button that when clicked removed local model
 mlmodel-remove-addon-button =
     .aria-label = Remover
