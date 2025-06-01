@@ -15,6 +15,8 @@ about-logging-set-log-file = Configurar arquivo de log
 about-logging-set-log-modules = Configurar módulos de log
 about-logging-start-logging = Iniciar registro em log
 about-logging-stop-logging = Parar registro em log
+about-logging-copy-as-url = Copiar configurações atuais como URL
+about-logging-url-copied = Configurações de log copiadas para a área de transferência como uma URL predefinida
 about-logging-buttons-disabled = Registro de log configurado por meio de variáveis de ambiente, configuração dinâmica indisponível.
 about-logging-some-elements-disabled = Registro de log configurado via URL, algumas opções de configuração estão indisponíveis
 about-logging-info = Informações:
@@ -27,6 +29,8 @@ about-logging-no-log-modules = Nenhum
 about-logging-no-log-file = Nenhum
 about-logging-logging-preset-selector-text = Ajuste prévio de registro de log:
 about-logging-with-profiler-stacks-checkbox = Ativar stack trace em mensagens de log
+about-logging-menu =
+    .title = Opções avançadas
 
 ## Logging presets
 

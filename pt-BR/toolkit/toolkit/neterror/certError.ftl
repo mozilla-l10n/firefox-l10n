@@ -117,6 +117,18 @@ fp-learn-more-about-time-related-errors = Saiba mais sobre como solucionar erros
 ## Variables:
 ##   $hostname (string) - Hostname of the website with cert error.
 
+cert-error-revoked-certificate = O { -brand-short-name } bloqueou sua visita a este site porque o certificado fornecido por { $hostname } foi revogado e não é mais confiável.
+cert-error-bad-signature = O { -brand-short-name } bloqueou sua visita a este site porque a assinatura no certificado fornecido por { $hostname } não é válida.
+cert-error-key-pinning-failure = O { -brand-short-name } bloqueou sua visita a este site porque o certificado fornecido por { $hostname } usa uma chave pública diferente da esperada.
+cert-error-bad-der = O { -brand-short-name } bloqueou sua visita a este site porque o certificado fornecido por { $hostname } não está codificado corretamente.
+cert-error-cert-not-in-name-space = O { -brand-short-name } bloqueou sua visita a este site porque o certificado fornecido por { $hostname } não segue as restrições de nome de um certificado que o emitiu.
+cert-error-inadequate-cert-type = O { -brand-short-name } bloqueou sua visita a este site porque o certificado fornecido por { $hostname } não pode ser usado por um servidor web.
+cert-error-path-len-constraint-invalid = O { -brand-short-name } bloqueou sua visita a este site porque o certificado fornecido por { $hostname } tem certificados intermediários demais no caminho para o certificado raiz.
+cert-error-invalid-key = O { -brand-short-name } bloqueou sua visita a este site porque o certificado fornecido por { $hostname } tem uma chave inválida. Provavelmente é pequeno demais para ser seguro.
+cert-error-unknown-critical-extension = O { -brand-short-name } bloqueou sua visita a este site porque o certificado fornecido por { $hostname } contém uma extensão crítica não suportada.
+cert-error-extension-value-invalid = O { -brand-short-name } bloqueou sua visita a este site porque o certificado fornecido por { $hostname } contém uma extensão inválida.
+cert-error-untrusted-issuer = O { -brand-short-name } bloqueou sua visita a este site porque o certificado fornecido por { $hostname } foi emitido por uma autoridade certificadora que não é mais confiável.
+cert-error-untrusted-cert = O { -brand-short-name } bloqueou sua visita a este site porque o certificado fornecido por { $hostname } está marcado como não confiável.
 
 ## Messages used for certificate error titles
 
