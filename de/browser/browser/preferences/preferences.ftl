@@ -515,6 +515,8 @@ performance-default-content-process-count =
 ## General Section - Browsing
 
 browsing-title = Surfen
+browsing-group-label =
+    .aria-label = Surfen
 browsing-use-autoscroll =
     .label = Automatischen Bildlauf aktivieren
     .accesskey = A
@@ -649,6 +651,9 @@ home-prefs-weather-header =
     .label = Wetter
 home-prefs-weather-description = Die heutige Wettervorhersage auf einen Blick
 home-prefs-weather-learn-more-link = Weitere Informationen
+# "Support" here means to help sustain or contribute to something, especially through funding or sponsorship.
+home-prefs-support-firefox-header =
+    .label = { -brand-product-name } unterstützen
 home-prefs-mission-message = Unsere Sponsoren unterstützen unsere Mission, ein besseres Internet zu schaffen
 home-prefs-mission-message-learn-more-link = Erfahren, wie das geht
 # Variables:
@@ -719,6 +724,9 @@ search-remove-engine =
 search-add-engine =
     .label = Hinzufügen
     .accesskey = H
+search-edit-engine =
+    .label = Bearbeiten
+    .accesskey = B
 search-find-more-link = Weitere Suchmaschinen hinzufügen
 # This warning is displayed when the chosen keyword is already in use
 # ('Duplicate' is an adjective)
@@ -727,6 +735,10 @@ search-keyword-warning-title = Schlüsselwort duplizieren
 #   $name (string) - Name of a search engine.
 search-keyword-warning-engine = Sie haben ein Schlüsselwort ausgewählt, das bereits von "{ $name }" verwendet wird, bitte wählen Sie ein anderes.
 search-keyword-warning-bookmark = Sie haben ein Schlüsselwort ausgewählt, das bereits von einem Lesezeichen verwendet wird, bitte wählen Sie ein anderes.
+# This warning is displayed when the chosen name is already in use.
+# Variables:
+#   $name (string) - Name of a search engine.
+edit-engine-name-warning-duplicate = Es gibt bereits eine Suchmaschine mit dem Namen "{ $name }". Bitte wählen Sie einen anderen Namen.
 remove-engine-confirmation = Soll diese Suchmaschine wirklich entfernt werden?
 remove-engine-remove = Entfernen
 remove-addon-engine-alert = Um diese Suchmaschine zu entfernen, entfernen Sie das zugehörige Add-on.
