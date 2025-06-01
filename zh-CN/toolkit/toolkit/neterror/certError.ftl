@@ -117,6 +117,8 @@ fp-learn-more-about-time-related-errors = 详细了解时间相关错误的解�
 ## Variables:
 ##   $hostname (string) - Hostname of the website with cert error.
 
+cert-error-revoked-certificate = { -brand-short-name } 已拦截您对该网站的访问，因为 { $hostname } 的证书已被吊销，不再受信任。
+cert-error-bad-signature = { -brand-short-name } 已拦截您对该网站的访问，因为 { $hostname } 提供的证书签名无效。
 
 ## Messages used for certificate error titles
 
