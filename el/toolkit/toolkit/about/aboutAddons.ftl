@@ -583,6 +583,7 @@ addon-category-mlmodel = ΤΝ συσκευής
 addon-category-mlmodel-title =
     .title = ΤΝ συσκευής
 mlmodel-heading = Διαχείριση μοντέλων ΤΝ συσκευής
+mlmodel-description = Ορισμένες δυνατότητες και επεκτάσεις του { -brand-short-name } βασίζονται σε μοντέλα τεχνητής νοημοσύνης, τα οποία λειτουργούν τοπικά στη συσκευή σας. Αυτή η προσέγγιση προστατεύει το απόρρητό σας και, σε πολλές περιπτώσεις, βελτιώνει τις επιδόσεις. <a data-l10n-name="learn-more">Μάθετε περισσότερα</a>
 # Label for button that when clicked removed local model
 mlmodel-remove-addon-button =
     .aria-label = Αφαίρεση
