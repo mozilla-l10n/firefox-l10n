@@ -647,6 +647,9 @@ home-prefs-weather-header =
     .label = 天气
 home-prefs-weather-description = 速览今日天气预报
 home-prefs-weather-learn-more-link = 详细了解
+# "Support" here means to help sustain or contribute to something, especially through funding or sponsorship.
+home-prefs-support-firefox-header =
+    .label = 支持 { -brand-product-name }
 home-prefs-mission-message = 我们的赞助商可支持我们的使命，即建设更好的互联网
 home-prefs-mission-message-learn-more-link = 了解其方式
 # Variables:
@@ -713,6 +716,9 @@ search-remove-engine =
 search-add-engine =
     .label = 添加
     .accesskey = A
+search-edit-engine =
+    .label = 编辑
+    .accesskey = E
 search-find-more-link = 寻找更多搜索引擎
 # This warning is displayed when the chosen keyword is already in use
 # ('Duplicate' is an adjective)

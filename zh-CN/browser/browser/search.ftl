@@ -54,6 +54,9 @@ install-search-engine-no = 取消
 add-engine-window =
     .title = 添加搜索引擎
     .style = min-width: 32em;
+edit-engine-window =
+    .title = 编辑搜索引擎
+    .style = min-width: 32em;
 add-engine-button = 添加自定义引擎
 add-engine-name = 搜索引擎名称
 add-engine-keyword = 关键词
@@ -66,6 +69,10 @@ engine-keyword-exists = 其他搜索引擎已使用此关键词
 
 ## The following placeholders are shown in the inputs when adding a new engine.
 
+add-engine-name-placeholder =
+    .placeholder = 例如：Mozilla 开发者网络
+add-engine-keyword-placeholder =
+    .placeholder = 例如：@mdn
 
 ## The following strings are used as error messages.
 

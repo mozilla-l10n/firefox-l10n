@@ -557,3 +557,6 @@ mlmodel-link-preview = { -brand-short-name } 使用此模型在您预览链接�
 mlmodel-pdfjs = { -brand-short-name } 使用此模型为您添加到 PDF 的图像创建替换文字
 mlmodel-smart-tab-topic-engine = { -brand-short-name } 使用此模型建议标签页群组名称
 mlmodel-smart-tab-embedding-engine = { -brand-short-name } 使用此模型为标签页群组建议标签页
+# Label for button that when clicked removed local model
+mlmodel-remove-addon-button =
+    .aria-label = 移除
