@@ -27,6 +27,8 @@ about-logging-no-log-modules = 无
 about-logging-no-log-file = 无
 about-logging-logging-preset-selector-text = 日志预设置：
 about-logging-with-profiler-stacks-checkbox = 启用日志消息的堆栈跟踪
+about-logging-menu =
+    .title = 高级选项
 
 ## Logging presets
 

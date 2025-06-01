@@ -59,6 +59,8 @@ edit-engine-window =
     .style = min-width: 32em;
 add-engine-button = 添加自定义引擎
 add-engine-name = 搜索引擎名称
+add-engine-url2 = 在网址中用 %s 代替搜索词
+add-engine-keyword2 = 关键字（可选）
 add-engine-keyword = 关键词
 add-engine-url = 搜索引擎 URL，用 %s 替换搜索词
 add-engine-dialog =
@@ -71,11 +73,27 @@ engine-keyword-exists = 其他搜索引擎已使用此关键词
 
 add-engine-name-placeholder =
     .placeholder = 例如：Mozilla 开发者网络
+add-engine-url-placeholder =
+    .placeholder = 例如：https://developer.mozilla.com/search?q=%s
 add-engine-keyword-placeholder =
     .placeholder = 例如：@mdn
 
 ## The following strings are used as error messages.
 
+add-engine-no-name = 请添加名称。
+add-engine-no-url = 请输入网址。
 
 ## The following strings are used as labels for the dialog's buttons.
 
+# buttonlabelextra1 is the label of a button to open the advanced section
+# of the dialog.
+add-engine-dialog2 =
+    .buttonlabelaccept = 添加引擎
+    .buttonaccesskeyaccept = A
+    .buttonlabelextra1 = 高级
+# buttonlabelextra1 is the label of a button to open the advanced section
+# of the dialog.
+edit-engine-dialog =
+    .buttonlabelaccept = 保存引擎
+    .buttonaccesskeyaccept = S
+    .buttonlabelextra1 = 高级

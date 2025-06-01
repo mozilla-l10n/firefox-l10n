@@ -816,6 +816,9 @@ urlbar-group-recent-searches =
 #  $engine (String): the name of the search engine providing the trending suggestions
 urlbar-group-trending =
     .label = { $engine } 热门搜索
+# Label shown above sponsored suggestions in the urlbar results.
+urlbar-group-sponsored =
+    .label = 赞助推广
 # The result menu labels shown next to trending results.
 urlbar-result-menu-trending-dont-show =
     .label = 不再显示热门搜索

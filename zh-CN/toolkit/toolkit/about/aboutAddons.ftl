@@ -560,3 +560,6 @@ mlmodel-smart-tab-embedding-engine = { -brand-short-name } 使用此模型为标
 # Label for button that when clicked removed local model
 mlmodel-remove-addon-button =
     .aria-label = 移除
+# Label for the aggregated value of all files for a model
+mlmodel-addon-detail-totalsize-label = 文件大小
+mlmodel-addon-detail-last-used-label = 上次使用

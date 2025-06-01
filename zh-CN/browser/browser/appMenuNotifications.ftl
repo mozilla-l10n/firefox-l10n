@@ -47,6 +47,9 @@ appmenu-addon-post-install-message3 = 通过应用程序菜单管理扩展和主
 # This string is used in the confirmation popup displayed after an extension
 # has been installed, when the data collection feature is enabled.
 appmenu-addon-post-install-message-with-data-collection = 可随时在<a data-l10n-name="settings-link">扩展设置</a>中更新权限和数据首选项。
+appmenu-addon-post-install-pin-toolbarbutton-checkbox =
+    .label = 将扩展固定到工具栏
+    .accesskey = P
 appmenu-addon-post-install-incognito-checkbox =
     .label = 允许此扩展在隐私窗口中运行
     .accesskey = A
