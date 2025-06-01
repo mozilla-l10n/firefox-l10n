@@ -563,3 +563,7 @@ mlmodel-remove-addon-button =
 # Label for the aggregated value of all files for a model
 mlmodel-addon-detail-totalsize-label = 文件大小
 mlmodel-addon-detail-last-used-label = 上次使用
+# This is a section label to describe the link to the model card on the Hugging Face website
+mlmodel-addon-detail-model-card = 模型卡片
+# This is a label for the Model Card link to Hugging face
+mlmodel-addon-detail-model-card-link-label = 到 Hugging Face 查看
