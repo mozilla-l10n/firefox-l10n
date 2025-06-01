@@ -650,7 +650,7 @@ home-prefs-weather-learn-more-link = 详细了解
 # "Support" here means to help sustain or contribute to something, especially through funding or sponsorship.
 home-prefs-support-firefox-header =
     .label = 支持 { -brand-product-name }
-home-prefs-mission-message = 我们的赞助商可支持我们的使命，即建设更好的互联网
+home-prefs-mission-message = 建设一个更好的互联网的使命，离不开我们赞助商的支持
 home-prefs-mission-message-learn-more-link = 了解其方式
 # Variables:
 #   $num (number) - Number of rows displayed
