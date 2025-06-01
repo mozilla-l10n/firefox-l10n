@@ -7,6 +7,8 @@ profile-window-body = مرورگری‌های کاری و شخصی خود، شا
 # This checkbox appears in the Choose profile window that appears when the browser is opened. "Show this" refers to this window, which is displayed when the checkbox is enabled.
 profile-window-checkbox-label-2 =
     .label = هنگامی که { -brand-short-name } باز می‌شود، یک نمایه انتخاب کنید.
+# This subcopy appears below the checkbox when it is unchecked
+profile-window-checkbox-subcopy = { -brand-short-name } با نمایه‌ای که اخیرا استفاده کرده‌اید باز خواهد شد.
 profile-window-create-profile = ایجاد نمایه
 profile-card-edit-button =
     .title = ویرایش نمایه
@@ -46,6 +48,8 @@ new-profile-page-input-placeholder =
 new-profile-page-done-button =
     .label = ویرایش‌ها انجام شد
 profile-window-title-2 = { -brand-short-name } - انتخاب یک نمایه
+profile-window-logo =
+    .alt = آرم { -brand-short-name }
 
 ## Delete profile dialogue that allows users to review what they will lose if they choose to delete their profile. Each item (open windows, etc.) is displayed in a table, followed by a column with the number of items.
 
@@ -83,6 +87,9 @@ profiles-system-theme = سیستم
 
 ## Alternative text for default profile icons
 
+book-avatar-alt =
+    .alt = کتاب
 
 ## Labels for default avatar icons
 
+book-avatar = کتاب
