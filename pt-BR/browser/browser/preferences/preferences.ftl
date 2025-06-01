@@ -651,6 +651,9 @@ home-prefs-weather-header =
     .label = Tempo
 home-prefs-weather-description = Visão geral da previsão para hoje
 home-prefs-weather-learn-more-link = Saiba mais
+# "Support" here means to help sustain or contribute to something, especially through funding or sponsorship.
+home-prefs-support-firefox-header =
+    .label = Apoie o { -brand-product-name }
 home-prefs-mission-message = Nossos patrocinadores apoiam nossa missão de construir uma web melhor
 home-prefs-mission-message-learn-more-link = Descubra como
 # Variables:
@@ -721,6 +724,9 @@ search-remove-engine =
 search-add-engine =
     .label = Adicionar
     .accesskey = A
+search-edit-engine =
+    .label = Editar
+    .accesskey = E
 search-find-more-link = Procurar mais mecanismos de pesquisa
 # This warning is displayed when the chosen keyword is already in use
 # ('Duplicate' is an adjective)
@@ -729,6 +735,10 @@ search-keyword-warning-title = Atalho duplicado
 #   $name (string) - Name of a search engine.
 search-keyword-warning-engine = Este atalho já está sendo usado para o “{ $name }”. Escolha outro.
 search-keyword-warning-bookmark = Este atalho já está sendo usado em um favorito. Escolha outro.
+# This warning is displayed when the chosen name is already in use.
+# Variables:
+#   $name (string) - Name of a search engine.
+edit-engine-name-warning-duplicate = Já existe um mecanismo de pesquisa com o nome “{ $name }”. Escolha outro nome.
 remove-engine-confirmation = Tem certeza que quer remover este mecanismo de pesquisa?
 remove-engine-remove = Remover
 remove-addon-engine-alert = Para remover este mecanismo de pesquisa, remova a extensão associada.

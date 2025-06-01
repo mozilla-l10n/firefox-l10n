@@ -47,6 +47,9 @@ appmenu-addon-post-install-message3 = Gerencie suas extensões e temas através 
 # This string is used in the confirmation popup displayed after an extension
 # has been installed, when the data collection feature is enabled.
 appmenu-addon-post-install-message-with-data-collection = Atualize permissões e preferências de dados quando quiser nas <a data-l10n-name="settings-link">configurações da extensão</a>.
+appmenu-addon-post-install-pin-toolbarbutton-checkbox =
+    .label = Fixar extensão na barra de ferramentas
+    .accesskey = F
 appmenu-addon-post-install-incognito-checkbox =
     .label = Permitir esta extensão em janelas privativas
     .accesskey = P
