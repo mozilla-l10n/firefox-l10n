@@ -659,7 +659,7 @@ home-prefs-weather-description = Kratek pogled na današnjo napoved
 home-prefs-weather-learn-more-link = Več o tem
 # "Support" here means to help sustain or contribute to something, especially through funding or sponsorship.
 home-prefs-support-firefox-header =
-    .label = Podprite { -brand-product-name(sklon: "tožilnik") }
+    .label = Podprite { -brand-product-name(sklon: "tozilnik") }
 home-prefs-mission-message = Naši sponzorji podpirajo naše poslanstvo ustvarjanja boljšega spleta
 home-prefs-mission-message-learn-more-link = Spoznajte, kako
 # Variables:
