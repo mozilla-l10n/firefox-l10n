@@ -54,8 +54,16 @@ install-search-engine-no = Não
 add-engine-window =
     .title = Adicionar mecanismo de pesquisa
     .style = min-width: 32em;
+edit-engine-window =
+    .title = Editar mecanismo de pesquisa
+    .style = min-width: 32em;
 add-engine-button = Adicionar mecanismo personalizado
 add-engine-name = Nome do mecanismo de pesquisa
+add-engine-url2 = URL com %s no lugar do termo de pesquisa
+add-engine-keyword2 = Palavra-chave (opcional)
+# POST and GET refer to the HTTP methods.
+add-engine-post-data = Dados POST com %s no lugar do termo de pesquisa (deixe vazio para GET)
+add-engine-suggest-url = URL de sugestões com %s no lugar do termo de pesquisa (opcional)
 add-engine-keyword = Atalho
 add-engine-url = URL do mecanismo, use %s no lugar do termo de pesquisa
 add-engine-dialog =
@@ -66,9 +74,18 @@ engine-keyword-exists = Já existe um mecanismo com este atalho
 
 ## The following placeholders are shown in the inputs when adding a new engine.
 
+add-engine-name-placeholder =
+    .placeholder = por exemplo, Mozilla Developer Network
+add-engine-url-placeholder =
+    .placeholder = por exemplo, https://developer.mozilla.com/search?q=%s
+add-engine-keyword-placeholder =
+    .placeholder = por exemplo, @mdn
 
 ## The following strings are used as error messages.
 
+add-engine-keyword-exists = Esta palavra-chave já está sendo usada. Tente outra.
+add-engine-name-exists = Este nome já está em uso. Escolha outro.
+add-engine-no-name = Adicione um nome.
 
 ## The following strings are used as labels for the dialog's buttons.
 
