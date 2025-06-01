@@ -557,6 +557,11 @@ mlmodel-link-preview = { -brand-short-name } 使用此模型在您预览链接�
 mlmodel-pdfjs = { -brand-short-name } 使用此模型为您添加到 PDF 的图像创建替换文字
 mlmodel-smart-tab-topic-engine = { -brand-short-name } 使用此模型建议标签页群组名称
 mlmodel-smart-tab-embedding-engine = { -brand-short-name } 使用此模型为标签页群组建议标签页
+# AI Model will be downloaded on the users device and used locally
+addon-category-mlmodel = 端侧 AI
+addon-category-mlmodel-title =
+    .title = 端侧 AI
+mlmodel-heading = 管理端侧 AI 模型
 mlmodel-description = { -brand-short-name } 的部分功能和扩展由运行在您设备本地的 AI 模型驱动。这种做法可以保护您的隐私，并提升多个场景下的性能。 <a data-l10n-name="learn-more">详细了解</a>
 # Label for button that when clicked removed local model
 mlmodel-remove-addon-button =
@@ -564,6 +569,8 @@ mlmodel-remove-addon-button =
 # Label for the aggregated value of all files for a model
 mlmodel-addon-detail-totalsize-label = 文件大小
 mlmodel-addon-detail-last-used-label = 上次使用
+# This is a section label to describe what extensions or features use a specific local AI model
+mlmodel-addon-detail-used-by-label = 用于
 # This is a section label to describe the link to the model card on the Hugging Face website
 mlmodel-addon-detail-model-card = 模型卡片
 # This is a label for the Model Card link to Hugging face
