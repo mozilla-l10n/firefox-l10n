@@ -84,6 +84,7 @@ add-engine-keyword-placeholder =
 ## The following strings are used as error messages.
 
 add-engine-keyword-exists = Esa palabra clave ya se está usando. Pruebe con una diferente.
+add-engine-name-exists = Ese nombre ya se está usando. Pruebe con uno diferente.
 
 ## The following strings are used as labels for the dialog's buttons.
 
