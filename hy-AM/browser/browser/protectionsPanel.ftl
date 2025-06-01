@@ -20,9 +20,9 @@ protections-popup-footer-protection-label-standard = Ստանդարտ
 
 # The text a screen reader speaks when focused on the info button.
 protections-panel-etp-more-info =
-    .aria-label = Հետագծումից ընդլայնված պաշտպանության մասին լրացուցիչ տեղեկություններ
-protections-panel-etp-on-header = Ընդլայնված պաշտպանությունը հետագծումից ՄԻԱՑՎԱԾ է այս կայքում
-protections-panel-etp-off-header = Ընդլայնված պաշտպանությունը հետագծումից ԱՆՋԱՏՎԱԾ է այս կայքում
+    .aria-label = Լրացուցիչ տեղեկություններ բարելավված հետագծման պաշտպանության մասին
+protections-panel-etp-on-header = Բարելավված պաշտպանությունը հետագծումից ՄԻԱՑՎԱԾ է այս կայքում
+protections-panel-etp-off-header = Բարելավված պաշտպանությունը հետագծումից ԱՆՋԱՏՎԱԾ է այս կայքում
 # The link to be clicked to open the sub-panel view
 protections-panel-site-not-working = Կայքը չի՞ աշխատում:
 # The heading/title of the sub-panel view
@@ -34,6 +34,14 @@ protections-panel-site-not-working-view =
 ## custom element code.
 ##   $host (String): the hostname of the site that is being displayed.
 
+protections-panel-etp-toggle-on =
+    .label = Բարելավված հետագծման պաշտպանություն
+    .description = Այս կայքում
+    .aria-label = Բարելավված հետագծման պաշտպանություն. Միացված է { $host }-ի համար
+protections-panel-etp-toggle-off =
+    .label = Բարելավված հետագծման պաշտպանություն
+    .description = Անջատված է այս կայքի համար
+    .aria-label = Բարելավված հետագծման պաշտպանություն. Անջատված է { $host }-ի համար
 
 ## The "Allowed" header also includes a "Why?" link that, when hovered, shows
 ## a tooltip explaining why these items were not blocked in the page.

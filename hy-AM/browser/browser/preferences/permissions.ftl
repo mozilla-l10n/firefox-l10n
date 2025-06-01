@@ -74,7 +74,7 @@ permissions-invalid-uri-label = Նշեք հանգույցի վավեր անու�
 ## Exceptions - Tracking Protection
 
 permissions-exceptions-etp-window2 =
-    .title = Բացառություններ հաետագծման պաշտապանությունը կատարելագրծելու համար։
+    .title = Բացառություններ հբարելավված հետագծման պաշտպանության համար
     .style = { permissions-window2.style }
 
 ## Exceptions - Cookies

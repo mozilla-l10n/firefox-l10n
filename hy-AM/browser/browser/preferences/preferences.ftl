@@ -1071,7 +1071,7 @@ addressbar-restore-dismissed-suggestions-button =
 
 ## Privacy Section - Content Blocking
 
-content-blocking-enhanced-tracking-protection = Կատարելագործում է Հետևման պաշտպանությունը
+content-blocking-enhanced-tracking-protection = Բարելավվում է հետագծման պաշտպանությունը
 content-blocking-section-top-level-description = Հետևողները հետևում են ձեզ առցանց ձեր զննարկման հատկությունների և հետաքրքրությունների մասին տեղեկություն հավաքելու համար։ { -brand-short-name }-ը արգելափակում է այս հետևումներից և այլ վնասարար գրվածքներից շատերը։
 content-blocking-learn-more = Իմանալ ավելին
 

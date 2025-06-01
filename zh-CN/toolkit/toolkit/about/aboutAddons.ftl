@@ -557,6 +557,7 @@ mlmodel-link-preview = { -brand-short-name } 使用此模型在您预览链接�
 mlmodel-pdfjs = { -brand-short-name } 使用此模型为您添加到 PDF 的图像创建替换文字
 mlmodel-smart-tab-topic-engine = { -brand-short-name } 使用此模型建议标签页群组名称
 mlmodel-smart-tab-embedding-engine = { -brand-short-name } 使用此模型为标签页群组建议标签页
+mlmodel-description = { -brand-short-name } 的部分功能和扩展由运行在您设备本地的 AI 模型驱动。这种做法可以保护您的隐私，并提升多个场景下的性能。 <a data-l10n-name="learn-more">详细了解</a>
 # Label for button that when clicked removed local model
 mlmodel-remove-addon-button =
     .aria-label = 移除
