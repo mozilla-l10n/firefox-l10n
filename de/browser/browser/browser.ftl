@@ -820,6 +820,9 @@ urlbar-group-recent-searches =
 #  $engine (String): the name of the search engine providing the trending suggestions
 urlbar-group-trending =
     .label = Beliebt bei { $engine }
+# Label shown above sponsored suggestions in the urlbar results.
+urlbar-group-sponsored =
+    .label = Gesponsert
 # The result menu labels shown next to trending results.
 urlbar-result-menu-trending-dont-show =
     .label = Beliebte Suchanfragen nicht anzeigen
