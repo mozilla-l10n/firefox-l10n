@@ -54,8 +54,16 @@ install-search-engine-no = No
 add-engine-window =
     .title = Añadir buscador
     .style = min-width: 32em;
+edit-engine-window =
+    .title = Editar buscador
+    .style = min-width: 32em;
 add-engine-button = Añadir buscador personalizado
 add-engine-name = Nombre del buscador
+add-engine-url2 = URL con %s en lugar del término de búsqueda
+add-engine-keyword2 = Palabra clave (opcional)
+# POST and GET refer to the HTTP methods.
+add-engine-post-data = Datos POST con %s en lugar del término de búsqueda (dejar en blanco para GET)
+add-engine-suggest-url = URL de sugerencias con %s en lugar del término de búsqueda (opcional)
 add-engine-keyword = Palabra clave
 add-engine-url = URL del buscador, usar %s en el lugar del término de búsqueda
 add-engine-dialog =
@@ -66,9 +74,16 @@ engine-keyword-exists = Ya existe un buscador con esa palabra clave
 
 ## The following placeholders are shown in the inputs when adding a new engine.
 
+add-engine-name-placeholder =
+    .placeholder = p.ej. Mozilla Developer Network
+add-engine-url-placeholder =
+    .placeholder = p.ej. https://developer.mozilla.com/search?q=%s
+add-engine-keyword-placeholder =
+    .placeholder = p.ej. @mdn
 
 ## The following strings are used as error messages.
 
+add-engine-keyword-exists = Esa palabra clave ya se está usando. Pruebe con una diferente.
 
 ## The following strings are used as labels for the dialog's buttons.
 
