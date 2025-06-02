@@ -81,6 +81,8 @@ addon-removal-title = Gjavâ { $name }?
 addon-removal-message = Gjavâ { $name } di { -brand-shorter-name }?
 addon-removal-button = Gjave
 addon-removal-abuse-report-checkbox = Segnale cheste estension a { -vendor-short-name }
+# "it" refers to the local AI model that is paired to the AI feature
+addon-mlmodel-removal-body = Se tu dopris funzions o estensions che a doprin chest model, al vignarà zontât di gnûf.
 # Variables:
 #   $addonCount (Number): the number of add-ons being downloaded
 addon-downloading-and-verifying =

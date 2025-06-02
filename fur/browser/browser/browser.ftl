@@ -196,6 +196,23 @@ urlbar-result-menu-learn-more-about-firefox-suggest =
 urlbar-result-menu-manage-firefox-suggest =
     .label = Gjestìs { -firefox-suggest-brand-name }
     .accesskey = G
+# Some urlbar suggestions show the user's approximate location as automatically
+# detected by Firefox (e.g., weather suggestions), and this menu item lets the
+# user tell Firefox that the location is not accurate. Typically the location
+# will be a city name, or a city name combined with the name of its parent
+# administrative region (e.g., a province, prefecture, or state).
+urlbar-result-menu-report-inaccurate-location =
+    .label = Segnale posizion imprecise
+urlbar-result-menu-show-less-frequently =
+    .label = Mostre mancul dispès
+urlbar-result-menu-dont-show-weather-suggestions =
+    .label = No sta mostrâ sugjeriments sul meteo
+# A message shown in the urlbar when the user submits feedback on a suggestion
+# (e.g., it shows an inaccurate location, it's shown too often, etc.).
+urlbar-feedback-acknowledgment = Graciis pe tô opinion
+# A message shown in the urlbar when the user dismisses weather suggestions.
+# Weather suggestions won't be shown at all anymore.
+urlbar-dismissal-acknowledgment-weather = Graciis pe tô opinion. No tu viodarâs plui sugjeriments meteorologjics.
 
 ## Prompts users to use the Urlbar when they open a new tab or visit the
 ## homepage of their default search engine.
@@ -327,6 +344,10 @@ search-one-offs-actions =
 
 # Opens the about:addons page in the home / recommendations section
 quickactions-addons = Visualize components adizionâi
+# In English we provide multiple spellings for "add-ons". If that's not
+# applicable to your language, only use the correct spelling (don't repeat the
+# same word).
+quickactions-cmd-addons3 = estensions, temis, components adizionâi
 quickactions-cmd-addons2 = components adizionâi
 # Opens the bookmarks library window
 quickactions-bookmarks2 = Gjestìs segnelibris
@@ -367,6 +388,7 @@ quickactions-print2 = Stampe pagjine
 quickactions-cmd-print = stampe
 # Opens the print dialog at the save to PDF option
 quickactions-savepdf = Salve pagjine come PDF
+quickactions-cmd-savepdf2 = pdf, salve pagjine
 quickactions-cmd-savepdf = pdf
 # Opens a new private browsing window
 quickactions-private2 = Vierç barcon privât
@@ -383,6 +405,8 @@ quickactions-cmd-screenshot2 = schermade, videade, cature une schermade
 quickactions-cmd-screenshot = videade
 # Opens about:preferences
 quickactions-settings2 = Gjestìs impostazions
+# "manage" should match the corresponding command, which is “Manage settings” in English.
+quickactions-cmd-settings2 = impostazions, preferencis, opzions, gjestìs
 quickactions-cmd-settings = impostazions, preferencis, opzions
 # Opens about:addons page in the themes section
 quickactions-themes = Gjestìs temis
