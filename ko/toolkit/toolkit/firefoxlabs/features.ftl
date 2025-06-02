@@ -47,3 +47,7 @@ experimental-features-link-previews-description-no-ai =
         [macos] 누르기 전에 웹 페이지에 대한 자세한 내용을 보려면 링크 위에 마우스를 놓고 Shift(⇧) + Option(⌥) 또는 Alt를 누르세요. 미리보기에는 제목 및 읽기 시간과 같은 자세한 정보가 포함될 수 있습니다. <a data-l10n-name = "connect">의견 공유</a>
        *[other] 누르기 전에 웹 페이지에 대한 자세한 내용을 보려면 링크 위에 마우스를 놓고 Shift + Alt를 누르세요. 미리보기에는 제목 및 읽기 시간과 같은 자세한 정보가 포함될 수 있습니다. <a data-l10n-name = "connect">의견 공유</a>
     }
+# New Tab Sections with follow and block
+experimental-features-newtab-sections-follow-block =
+    .label = 새 탭 이야기에 대한 주제 섹션과 팔로우/차단
+experimental-features-newtab-sections-follow-block-description = 새 탭 페이지의 이야기를 주제 섹션( 스포츠, 음식, 연예 등)으로 구성하여 보다 체계적이고 쉽게 스캔할 수 있습니다. 새로운 팔로우 및 차단 컨트롤을 사용하여 표시할 콘텐츠를 맞춤 설정할 수 있습니다. <a data-l10n-name="connect">의견 공유</a>

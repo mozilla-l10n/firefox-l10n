@@ -59,6 +59,8 @@ edit-engine-window =
     .style = min-width: 32em;
 add-engine-button = Añadir motor personalizado
 add-engine-name = Nombre del motor de búsqueda
+add-engine-url2 = URL con %s en lugar del término de búsqueda
+add-engine-keyword2 = Palabra clave (opcional)
 add-engine-keyword = Palabra clave
 add-engine-url = URL del motor, usa %s en lugar del término de búsqueda
 add-engine-dialog =
@@ -69,9 +71,19 @@ engine-keyword-exists = Ya existe un motor con esa palabra clave
 
 ## The following placeholders are shown in the inputs when adding a new engine.
 
+add-engine-name-placeholder =
+    .placeholder = por ejemplo, Mozilla Developer Network
+add-engine-url-placeholder =
+    .placeholder = por ejemplo, https://developer.mozilla.com/search?q=%s
+add-engine-keyword-placeholder =
+    .placeholder = por ejemplo, @mdn
 
 ## The following strings are used as error messages.
 
+add-engine-keyword-exists = Esa palabra clave ya está en uso. Prueba con otra.
+add-engine-name-exists = Ese nombre ya está en uso. Por favor elige otro.
+add-engine-no-name = Por favor, añade un nombre.
+add-engine-no-url = Por favor ingresa una URL.
 
 ## The following strings are used as labels for the dialog's buttons.
 

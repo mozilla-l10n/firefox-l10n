@@ -375,6 +375,7 @@ tab-groups-onboarding-dismiss = حسنا
 ## Multi Profiles feature onboarding messages
 
 multi-profile-spotlight-cta = أنشئ ملفًا شخصيًا
+multi-profile-callout-subtitle = تتيح لك الملفات الشخصية الاحتفاظ بمعلومات تصفحك، مثل تأريخ البحث وكلمات السر، منفصلة تمامًا.
 multi-profile-callout-cta = أنشئ ملفًا شخصيًا
 
 ## Desktop to Mobile Adoption feature callout strings
