@@ -78,11 +78,13 @@ bookmarks-toolbar-callout-2a-primary-button-label = فهمت
 bookmarks-toolbar-callout-2a-secondary-button-label = أخفِ شريط الأدوات
 # Visible if user declines to add a bookmark in callout 1, bookmarks toolbar is set to always show when this message renders
 bookmarks-toolbar-callout-2b-title = أبقِ شريط أدوات العلامات مفتوحًا؟
+bookmarks-toolbar-callout-2b-primary-button-label = أبقِ مفتوحًا
 # Reverts the bookmarks toolbar to the default setting
 bookmarks-toolbar-callout-2b-secondary-button-label = لا، شكرًا
 
 ## Perplexity callout strings
 
+perplexity-callout-theme-1-title = تحتاج إلى الإجابة الصحيحة على الفور؟
 perplexity-callout-theme-2-subtitle-1 = اسأل Perplexity. ستحصل على إجابات شاملة، مع مصادر مُضمّنة.
 perplexity-callout-theme-2-subtitle-2 = اطرح أسئلة. احصل على إجابات كاملة وموثقة.
 perplexity-callout-primary-label = اسأل Perplexity

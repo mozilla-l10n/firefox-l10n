@@ -289,12 +289,19 @@ launch-on-login-infobar-final-reject-button = لا، شكرًا
 
 ## Tail Fox Set Default Spotlight
 
+# This title is displayed together with the picture of a running fox with a long tail.
+# In English, this is a figure of speech meaning 'stop something from following you'.
+# If the localization of this message is challenging, consider using a simplified
+# alternative as a reference for translation: 'Keep unwanted trackers away'.
+tail-fox-spotlight-title = أبعد المتتبعين المزعجين عن ذيلك
 tail-fox-spotlight-subtitle = قل وداعًا لمتتبعات الإعلانات المزعجة واستمتع بتجربة إنترنت أكثر أمانًا وسرعة.
 tail-fox-spotlight-primary-button = افتح روابطي ب { -brand-short-name }
 tail-fox-spotlight-secondary-button = ليس الآن
 
 ## Root Certificate Succession Infobar
 
+root-certificate-succession-infobar-january-message = <strong>قد تبدأ الإصدارات الأقدم من { -brand-short-name } في مواجهة مشكلات في 14 يناير 2025.</strong>
+root-certificate-succession-infobar-march-message = <strong>حدِّث للاستمرار في استخدام { -brand-short-name } بعد 14 مارس 2025.</strong>
 root-certificate-succession-infobar-link = لماذا أحتاج إلى التحديث؟
 root-certificate-succession-infobar-primary-button =
     .label = حدّث الآن
@@ -306,6 +313,7 @@ root-certificate-succession-infobar-secondary-button =
 ## Root Certificate Succession Windows Background Notification
 
 root-certificate-windows-background-notification-title = لقد فاتك تحديث مهم لـ { -brand-short-name }
+root-certificate-windows-background-notification-subtitle = ستتوقف أجزاء من المتصفح عن العمل قريبًا إذا لم تُحدِّثه. الآن هو الوقت المناسب للحصول على أحدث ميزاتنا وحمايتنا.
 root-certificate-windows-background-notification-learn-more-button = اطّلع على المزيد
 root-certificate-windows-background-notification-update-button = حدِّث { -brand-short-name }
 
@@ -316,11 +324,16 @@ fxa-menu-message-close-button =
     .aria-label = أغلق
 fxa-menu-message-sign-up-button = سجّل حسابًا
 fxa-menu-message-sync-devices-primary-text = زامِن كل أجهزتك
+fxa-menu-message-sync-devices-secondary-text = احصل على معلوماتك على الفور — مثل العلامات وكلمات السر — في أي مكان تستخدم فيه { -brand-short-name }.
 fxa-menu-message-sync-devices-collapsed-text = زامِن كل أجهزتك
 fxa-menu-message-backup-data-primary-text = انسخ بيانات متصفحك احتياطيًا
+fxa-menu-message-backup-data-secondary-text = حماية العلامات وكلمات السر والمعلومات الأخرى على جميع أجهزتك تلقائيًا.
 fxa-menu-message-backup-data-collapsed-text = انسخ بيانات المتصفح احتياطيًا
+fxa-menu-message-backup-sync-primary-text = أبقِ على بياناتك آمنة ومتزامنة
+fxa-menu-message-backup-sync-secondary-text = المزامنة تعمل نُسخة احتياطية لمعظم بياناتك حتى تتمكن من الوصول إليها في أي مكان تستخدمه { -brand-short-name }.
 fxa-menu-message-backup-sync-collapsed-text = مزامنة البيانات والنسخ الاحتياطي
 fxa-menu-message-mobile-primary-text = أرسل الألسنة إلى هاتفك
+fxa-menu-message-mobile-secondary-text = استأنف من حيث توقفت على الفور عندما تُزامن ألسنتك مع جهاز محمول.
 fxa-menu-message-mobile-collapsed-text = زامِن مع هاتفك
 
 ## Multi-CTA Fox Doodle Spotlight
@@ -330,3 +343,5 @@ multi-cta-fox-doodle-set-default-checkbox = اضبط { -brand-short-name } لي�
 multi-cta-fox-doodle-pin-startmenu-checkbox = ثبّت { -brand-short-name } في قائمة البدء
 multi-cta-fox-doodle-start-browsing-primary-button-label = ابدأ التصفح
 multi-cta-fox-doodle-main-browser-primary-button-label = اضبط { -brand-short-name } ليكون متصفّحي الرئيسي
+multi-cta-fox-doodle-quick-reminder-subtitle = فيما يلي تذكير سريع بأنه يمكنك الاحتفاظ بمتصفحك المفضل الذي يركز على الخصوصية بنقرة واحدة فقط.
+multi-cta-fox-doodle-msix-privacy-focused-subtitle = حافظ على متصفحك المفضل الذي يُركز على الخصوصية بنقرة واحدة. عيّن { -brand-short-name } كمتصفحك المبدئي لفتح الروابط، ثم ثبّته على شريط المهام وقائمة البدء.

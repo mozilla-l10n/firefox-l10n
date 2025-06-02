@@ -33,6 +33,7 @@ firefoxview-tabpickup-step-signin-header = بدِّل بسلاسة بين الأ
 firefoxview-tabpickup-step-signin-description = للحصول على علامات تبويب هاتفك هنا، قم أولاً بتسجيل الدخول أو إنشاء حساب.
 firefoxview-tabpickup-step-signin-primarybutton = واصِل
 firefoxview-syncedtabs-signin-header-2 = { -brand-product-name } الخاص بك على جميع أجهزتك
+firefoxview-syncedtabs-signin-description-2 = لرؤية الألسنة المفتوحة على هاتفك وعلى الأجهزة الأخرى، لِج أو سجِّل حساب. باستخدام الحساب، يمكنك أيضًا مزامنة كلمات السر، والتأريخ، وغير ذلك.
 firefoxview-syncedtabs-signin-primarybutton-2 = لج
 firefoxview-syncedtabs-signin-header = اسحب الألسنة من أي مكان
 firefoxview-syncedtabs-signin-primarybutton = لج أو سجل حسابًا
@@ -40,6 +41,7 @@ firefoxview-tabpickup-adddevice-header = زامن { -brand-product-name } على
 firefoxview-tabpickup-adddevice-description = قم بتنزيل { -brand-product-name } للجوال وقم بتسجيل الدخول من هناك.
 firefoxview-tabpickup-adddevice-learn-how = اطّلع على الطريقة
 firefoxview-tabpickup-adddevice-primarybutton = احصل على { -brand-product-name } للجوال
+firefoxview-syncedtabs-adddevice-header-2 = اسحب الألسنة من أي مكان
 firefoxview-syncedtabs-adddevice-primarybutton = جرّب { -brand-product-name } للجوال
 firefoxview-tabpickup-synctabs-header = فعّل مزامنة علامات التبويب
 firefoxview-tabpickup-synctabs-description = السماح لـ{ -brand-short-name } بمشاركة علامات التبويب بين الأجهزة.
@@ -145,6 +147,10 @@ firefoxview-search-text-box-opentabs =
 # Variables:
 #   $query (String) - The search query used for searching through browser history.
 firefoxview-search-results-header = نتائج البحث عن "{ $query }"
+firefoxview-sort-history-by-date-label = رتّب حسب التاريخ
+firefoxview-sort-history-by-site-label = رتّب حسب الموقع
+firefoxview-sort-open-tabs-by-recency-label = رتّب حسب النشاط الأخير
+firefoxview-sort-open-tabs-by-order-label = رتّب حسب اللسان
 # Variables:
 #   $url (string) - URL that will be opened in the new tab
 firefoxview-opentabs-tab-row =
@@ -218,8 +224,14 @@ firefoxview-tabs =
 
 firefoxview-opentabs-pinned-tab =
     .title = بدّل إلى { $tabTitle }
+# This tooltip will be shown for a pinned tab whose URL is currently bookmarked.
+firefoxview-opentabs-bookmarked-pinned-tab =
+    .title = بدّل إلى (مُعلّمة) { $tabTitle }
 
 ## These tooltips will be displayed when hovering over an unpinned Open Tab
 ## Variables:
 ##   $url (string) - URL of tab that will be opened when selected
 
+# This tooltip will be shown for an unpinned tab whose URL is currently bookmarked.
+firefoxview-opentabs-bookmarked-tab =
+    .title = (مُعلّمة) { $url }
