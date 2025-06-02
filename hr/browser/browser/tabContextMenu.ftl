@@ -140,9 +140,9 @@ tab-context-send-tabs-to-device =
 tab-context-unload-n-tabs =
     .label =
         { $tabCount ->
-            [1] Ukloni { $tabCount } karticu
-            [one] Ukloni { $tabCount } karticu
-            [few] Ukloni { $tabCount } kartice
-           *[other] Ukloni { $tabCount } kartica
+            [1] Isključi { $tabCount } karticu
+            [one] Isključi { $tabCount } karticu
+            [few] Isključi { $tabCount } kartice
+           *[other] Isključi { $tabCount } kartica
         }
-    .accesskey = U
+    .accesskey = I

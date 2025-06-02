@@ -10,6 +10,8 @@ about-processes-column-action =
 
 ## Tooltips
 
+about-processes-shutdown-process =
+    .title = Isključi kartice i prekini proces
 about-processes-shutdown-tab =
     .title = Zatvori karticu
 
