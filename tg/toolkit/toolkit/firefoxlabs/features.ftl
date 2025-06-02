@@ -50,3 +50,4 @@ experimental-features-link-previews-description-no-ai =
 # New Tab Sections with follow and block
 experimental-features-newtab-sections-follow-block =
     .label = Қисмҳои мавзуӣ ва имкони пайгирӣ/манъкунӣ барои варақаҳои нави мақолаҳо
+experimental-features-newtab-sections-follow-block-description = Мақолаҳоро дар саҳифаи варақаи нави худ барои таҷрибаи ботартиб ва осонфаҳм ба қисмҳои мавзуӣ (Варзиш, Ғизо, Фароғат ва мавзуъҳои дигар) мураттаб кунед. Барои ба тартиб даровардани муҳтавое, ки шумо мамошо мекунед, лутфан, аз имкони нави «Пайгирӣ кардан» ва «Манъ кардан» истифода баред. <a data-l10n-name="connect">Назари худро изҳор намоед</a>
