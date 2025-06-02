@@ -49,7 +49,7 @@ remote-node-picker-notice-hide-button = 隐藏
 # The text displayed in a toolbox notification message which is only displayed
 # if prefers-reduced-motion is enabled (via OS-level settings or by using the
 # ui.prefersReducedMotion=1 preference).
-simple-highlighters-message = 当启用 prefers-reduced-motion 时，可以在设置面板中启用更简单的高亮显示，可以避免颜色闪烁。
+simple-highlighters-message = 启用 prefers-reduced-motion 后，可在设置面板中启用较简单的高亮显示，避免颜色闪烁。
 # Text displayed in a button inside the "simple-highlighters-message" toolbox
 # notification. "Settings" here refers to the DevTools settings panel.
 simple-highlighters-settings-button = 打开设置
