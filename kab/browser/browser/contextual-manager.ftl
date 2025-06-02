@@ -158,6 +158,8 @@ contextual-manager-passwords-alert-card =
     .aria-label = Ḥader awal n uεeddi
 contextual-manager-passwords-alert-back-button =
     .label = Ɣer deffir
+contextual-manager-passwords-alert-list =
+    .aria-label = Tabdart n wulɣuten
 contextual-manager-passwords-breached-origin-link-message = Amek i yeẓra { -brand-product-name } ɣef trewla n yisefka?
 contextual-manager-passwords-change-password-button = Snifel awal n uεeddi
 contextual-manager-passwords-vulnerable-password-link-message = Amek i yeẓra { -brand-product-name } awal n uεeddi ur yeǧhid ara?
@@ -194,6 +196,12 @@ contextual-manager-alert-icon =
 contextual-manager-origin-login-line =
     .aria-label = Rzu ɣer { $url }
     .title = Rzu ɣer { $url }
+# "(Warning)" indicates that a login's origin field has an alert icon.
+# Variables
+#   $url (string) - The url associated with the login
+contextual-manager-origin-login-line-with-alert =
+    .aria-label = Rzu ɣer { $url } (Alɣu)
+    .title = Rzu ɣer { $url } (Alɣu)
 # Variables
 #   $username (string) - The username associated with the login
 contextual-manager-username-login-line =
