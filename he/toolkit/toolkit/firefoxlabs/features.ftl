@@ -43,3 +43,6 @@ experimental-features-link-previews-description-no-ai =
         [macos] כדי ללמוד עוד על דף אינטרנט לפני הלחיצה, ניתן לרחף על קישור באמצעות העכבר וללחוץ על Shift (⇧) בשילוב Option (⌥) או Alt. תצוגות מקדימות עשויות לכלול פרטים כמו כותרת וזמן קריאה. <a data-l10n-name="connect">שיתוף משוב</a>
        *[other] כדי ללמוד עוד על דף אינטרנט לפני הלחיצה, ניתן לרחף על קישור באמצעות העכבר וללחוץ על שילוב המקשים Shift + Alt. תצוגות מקדימות עשויות לכלול פרטים כמו כותרת וזמן קריאה. <a data-l10n-name="connect">שיתוף משוב</a>
     }
+# New Tab Sections with follow and block
+experimental-features-newtab-sections-follow-block =
+    .label = מדורי נושא ומעקב/חסימה עבור סיפורים בלשונית חדשה
