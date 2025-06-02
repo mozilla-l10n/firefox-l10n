@@ -74,8 +74,12 @@ engine-keyword-exists = כבר קיים מנוע עם מילת מפתח זו
 
 ## The following placeholders are shown in the inputs when adding a new engine.
 
+add-engine-name-placeholder =
+    .placeholder = לדוגמה, Mozilla Developer Network
 add-engine-url-placeholder =
-    .placeholder = למשל, https://developer.mozilla.com/search?q=%s
+    .placeholder = לדוגמה, https://developer.mozilla.com/search?q=%s
+add-engine-keyword-placeholder =
+    .placeholder = לדוגמה, ‎@mdn
 
 ## The following strings are used as error messages.
 
