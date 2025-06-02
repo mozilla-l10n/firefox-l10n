@@ -105,6 +105,8 @@ sidebar-history-context-menu-delete-page-2 =
     .label = Нест кардани саҳифа аз таърих
 sidebar-history-context-menu-bookmark-page =
     .label = Гузоштани хатбарак барои ин саҳифа…
+sidebar-history-context-menu-delete-pages =
+    .label = Нест кардани саҳифаҳо аз таърих
 
 ## Labels for sidebar menu items.
 
