@@ -31,7 +31,7 @@ experimental-features-contextual-password-manager =
 experimental-features-contextual-password-manager-description = Користуйтеся своїми паролями безпосередньо в бічній панелі. Більше не потрібно шукати чи скидати паролі, коли ви намагаєтесь увійти. Щоб скористатися цією функцією, виберіть паролі на бічній панелі. Потім перейдіть до загальних налаштувань і в розділі "Подання браузера" виберіть "Показати бічну панель". Потім налаштуйте бічну панель, вибравши паролі. Якщо ви спробуєте, <a data-l10n-name="connect">повідомте нам своє враження</a>.
 # New Tab Custom Wallpapers
 experimental-features-custom-wallpaper =
-    .label = Виберіть власні шпалери або колір для нової вкладки
+    .label = Вибір власних шпалер або кольору для нової вкладки
 experimental-features-custom-wallpaper-description = Вивантажте власне зображення або виберіть особливий колір тла для нової вкладки.
 # Link Previews with AI
 experimental-features-link-previews =
