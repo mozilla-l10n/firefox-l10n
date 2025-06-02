@@ -120,6 +120,7 @@ fp-learn-more-about-time-related-errors = Læs mere om at fejlsøge tids-relater
 cert-error-revoked-certificate = { -brand-short-name } blokerede dit besøg på webstedet, fordi certifikatet for { $hostname } er blevet tilbagekaldt og der ikke længere stoles på det.
 cert-error-bad-signature = { -brand-short-name } blokerede dit besøg på webstedet, fordi signaturen på certifikatet for { $hostname } ikke er gyldig.
 cert-error-key-pinning-failure = { -brand-short-name } blokerede dit besøg på webstedet, fordi certifikatet for { $hostname } bruger en anden offentlig nøgle end forventet.
+cert-error-bad-der = { -brand-short-name } blokerede dit besøg på webstedet, fordi certifikatet for { $hostname } ikke er korrekt kodet.
 cert-error-cert-not-in-name-space = { -brand-short-name } blokerede dit besøg på webstedet, fordi certifikatet for { $hostname } ikke følger et udstedende certifikats navnebegrænsninger.
 cert-error-inadequate-cert-type = { -brand-short-name } blokerede dit besøg på webstedet, fordi certifikatet for { $hostname } ikke må bruges af en webserver.
 cert-error-path-len-constraint-invalid = { -brand-short-name } blokerede dit besøg på webstedet, fordi certifikatet for { $hostname } har for mange mellemliggende certifikater i stien til rodcertifikatet.
