@@ -128,6 +128,7 @@ cert-error-invalid-key = { -brand-short-name } blokerede dit besøg på webstede
 cert-error-unknown-critical-extension = { -brand-short-name } blokerede dit besøg på webstedet, fordi certifikatet for { $hostname } indeholder en kritisk udvidelse, som ikke er understøttet.
 cert-error-extension-value-invalid = { -brand-short-name } blokerede dit besøg på webstedet, fordi certifikatet for { $hostname } indeholder en ugyldig udvidelse.
 cert-error-untrusted-issuer = { -brand-short-name } blokerede dit besøg på webstedet, fordi certifikatet for { $hostname } er udstedt af en certifikatautoritet, der ikke længere stoles på.
+cert-error-untrusted-cert = { -brand-short-name } blokerede dit besøg på webstedet, fordi certifikatet for { $hostname } er markeret som et certifikat, der ikke stoles på.
 cert-error-invalid-integer-encoding = { -brand-short-name } blokerede dit besøg på webstedet, fordi certifikatet for { $hostname } indeholder en ugyldig kodning af et heltal. Typiske årsager kan være brugen af negative serienumre, negative RSA-moduli og kodninger, der er længere end nødvendigt.
 cert-error-unsupported-keyalg = { -brand-short-name } blokerede dit besøg på webstedet, fordi certifikatet for { $hostname } har en nøgletype, som ikke er understøttet.
 cert-error-issuer-no-longer-trusted = { -brand-short-name } blokerede dit besøg på webstedet, fordi der ikke længere stoles på certifikatautoriten, som udstedte certifikatet for { $hostname }.
