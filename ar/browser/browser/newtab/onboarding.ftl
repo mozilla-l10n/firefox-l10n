@@ -25,6 +25,8 @@ return-to-amo-subtitle = هذا رائع، لديك الآن { -brand-short-name
 return-to-amo-addon-title = هيا نثبّت لك <img data-l10n-name="icon"/> <b>{ $addon-name }</b>.
 return-to-amo-add-extension-label = أضِف الامتداد
 return-to-amo-add-theme-label = أضِف السمة
+return-to-amo-theme-install-complete-label = ثُبتت السمة
+return-to-amo-extension-install-complete-label = ثُبتت الامتداد
 
 ##  Variables: $addon-name (String) - Name of the add-on to be installed
 
@@ -294,11 +296,13 @@ mr2022-onboarding-default-image-alt =
 
 onboarding-device-migration-title = مرحبا بعودتك!
 onboarding-device-migration-subtitle = لِج إلى { -fxaccount-brand-name(capitalization: "sentence") } لتجلب علاماتك وكلمات السر والتأريخ معك على جهازك الجديد.
+onboarding-device-migration-subtitle2 = لِج إلى حسابك لجلب العلامات وكلمات السر وسجلك معك إلى جهازك الجديد.
 onboarding-device-migration-primary-button-label = لِج
 
 ## Add-ons Picker screen
 
 amo-picker-title = خصّص { -brand-short-name }
+amo-picker-subtitle = تُعتبر الامتدادات بمثابة تطبيقات لمتصفحك، وهي تتيح لك حماية كلمات السر، وتنزيل مقاطع الفيديو، والعثور على العروض، وحظر الإعلانات المزعجة، وتغيير مظهر متصفحك، وغير ذلك الكثير.
 amo-picker-install-button-label = أضِف إلى { -brand-short-name }
 amo-picker-install-complete-label = مُثبت
 amo-picker-collection-link = استكشف المزيد من الإضافات
@@ -337,6 +341,18 @@ onboarding-many-tabs-title = ألسنتك، بأسلوبك
 onboarding-many-tabs-subtitle = هل تُبقي الكثير من الألسنة مفتوحة؟ جرّب وضع الألسنة على الجانب لعرض أكثر انسيابية. أو اجعلها كلاسيكية بوضع الألسنة في الأعلى. غيّرها في أي وقت.
 # Setup screen for vertical tabs - focused variation
 onboarding-focused-tabs-title = اختر تخطيط لسانك
+# Text underneath an image used for selecting browser tabs to appear on the side of the browser.
+onboarding-new-vertical-tabs-label = الألسنة على الجانب
+# Text underneath an image used for selecting browser tabs to appear at the top of the browser.
+onboarding-new-horizontal-tabs-label = الألسنة في الأعلى
+# Setup screen for vertical tabs for existing users
+onboarding-existing-tabs-title = الألسنة العمودية موجودة هنا
+# Setup screen for vertical tabs for existing users
+onboarding-existing-tabs-title2 = مقدمة عن الألسنة العمودية
+# Setup screen for vertical tabs for existing users - "Switch it up" refers to switching between horizontal and vertical tabs.
+onboarding-existing-tabs-subtitle = جرّب الألسنة الجانبية. غيّرها متى شئت من إعدادات الشريط الجانبي.
+# Text underneath an image used for selecting browser tabs to appear on the side of the browser.
+onboarding-existing-vertical-tabs-label = جرّب الألسنة العمودية
 onboarding-flair-text = جديد!
 # Text underneath an image used for selecting browser tabs to appear at the top of the browser.
 onboarding-existing-horizontal-tabs-label = حافظ على الألسنة الأفقية
@@ -345,6 +361,7 @@ onboarding-genai-sidebar-secondary-button = ابدأ التصفح
 
 ## New user onboarding checklist
 
+onboarding-checklist-subtitle = أكمل هذه الخطوات للحصول على أقصى استفادة من تجربة تصفحك.
 onboarding-checklist-set-default = اضبط { -brand-short-name } ليكون متصفّحي المبدئي
 onboarding-checklist-pin = ثبّت { -brand-short-name } في شريط المهام
 onboarding-checklist-import = استورِدها من المتصفّح السابق
@@ -352,6 +369,7 @@ onboarding-checklist-extension = أضِف امتدادة
 
 ## Tab Groups feature onboarding strings
 
+tab-groups-onboarding-saved-groups-no-alltabs-button-title-2 = ابحث عن مجموعاتك المغلقة عن طريق البحث عنها في شريط العناوين.
 tab-groups-onboarding-dismiss = حسنا
 
 ## Multi Profiles feature onboarding messages
@@ -363,3 +381,5 @@ multi-profile-callout-cta = أنشئ ملفًا شخصيًا
 
 dismiss-button-label = أهمِل
 sync-to-mobile-button-label = زامن مع الجوّال
+desktop-to-mobile-qr-code-alt =
+    .aria-label = رمز QR لتنزيل { -brand-product-name } للجوال

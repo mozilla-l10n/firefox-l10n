@@ -4,10 +4,13 @@
 
 sidebar-menu-bookmarks =
     .label = العلامات
+sidebar-menu-bookmarks-2 = العلامات
 sidebar-menu-history =
     .label = التأريخ
 sidebar-menu-synced-tabs =
     .label = الألسنة المُزامنة
+sidebar-menu-megalist =
+    .label = كلمات السر
 sidebar-menu-close =
     .label = أغلِق الشريط الجانبي
 sidebar-close-button =

@@ -105,6 +105,8 @@ sidebar-history-context-menu-delete-page-2 =
     .label = Stronu z historije zhašeć
 sidebar-history-context-menu-bookmark-page =
     .label = Stronu jako zapołožku składować …
+sidebar-history-context-menu-delete-pages =
+    .label = Strony z historije zhašeć
 
 ## Labels for sidebar menu items.
 

@@ -93,13 +93,13 @@ contextual-manager-passwords-export-file-picker-csv-filter-title =
 #   $total (number) - Total number of passwords
 contextual-manager-passwords-remove-all-confirm =
     { $total ->
-        [1] نعم، أزل كلمة المرور
-        [zero] نعم، أزل كلمات المرور
-        [one] نعم، أزل كلمة المرور
-        [two] نعم، أزل كلمتي المرور
-        [few] نعم، أزل كلمات المرور
-        [many] نعم، أزل كلمات المرور
-       *[other] نعم، أزل كلمات المرور
+        [1] نعم، أزل كلمة السر
+        [zero] نعم، أزل كلمات السر
+        [one] نعم، أزل كلمة السر
+        [two] نعم، أزل كلمتي السر
+        [few] نعم، أزل كلمات السر
+        [many] نعم، أزل كلمات السر
+       *[other] نعم، أزل كلمات السر
     }
 # Button label to confirm removal of saved passwords
 #   $total (number) - Total number of passwords
