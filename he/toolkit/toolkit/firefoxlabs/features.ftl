@@ -46,3 +46,4 @@ experimental-features-link-previews-description-no-ai =
 # New Tab Sections with follow and block
 experimental-features-newtab-sections-follow-block =
     .label = מדורי נושא ומעקב/חסימה עבור סיפורים בלשונית חדשה
+experimental-features-newtab-sections-follow-block-description = ארגון את הסיפורים בדף הלשונית החדשה שלך לפי נושאים (ספורט, אוכל, בידור ועוד) לקבלת חוויה קלה יותר לסריקה. ניתן להשתמש בבקרות המעקב והחסימה החדשות שלנו כדי להתאים אישית את התוכן המוצג. <a data-l10n-name="connect">שיתוף משוב</a>
