@@ -47,3 +47,7 @@ experimental-features-link-previews-description-no-ai =
         [macos] För att lära dig mer om en webbsida innan du klickar, håll muspekaren över en länk och tryck på Shift (⇧) plus Option (⌥) eller Alt. Förhandsgranskningar kan innehålla detaljer som titel och lästid. <a data-l10n-name="connect">Dela feedback</a>
        *[other] Om du vill veta mer om en webbsida innan du klickar, håll muspekaren över en länk och tryck på Shift + Alt. Förhandsgranskningar kan innehålla detaljer som titel och lästid. <a data-l10n-name="connect">Dela feedback</a>
     }
+# New Tab Sections with follow and block
+experimental-features-newtab-sections-follow-block =
+    .label = Ämnesektioner och följ/blockera berättelser om nya flikar
+experimental-features-newtab-sections-follow-block-description = Ordna berättelserna på din ny fliksida i ämnessektioner (Sport, Mat, Underhållning och mer) för en mer strukturerad och lättskannad upplevelse. Använd våra nya följ- och blockeringskontroller för att anpassa vilket innehåll du ser. <a data-l10n-name="connect">Dela feedback</a>
