@@ -61,6 +61,9 @@ add-engine-button = Pridať vlastný vyhľadávací modul
 add-engine-name = Názov vyhľadávacieho modulu
 add-engine-url2 = Adresa URL s %s namiesto hľadaného výrazu
 add-engine-keyword2 = Kľúčové slovo (voliteľné)
+# POST and GET refer to the HTTP methods.
+add-engine-post-data = POST dáta s %s namiesto hľadaného výrazu (ponechajte prázdne pre GET)
+add-engine-suggest-url = URL adresa návrhov s %s namiesto hľadaného výrazu (voliteľné)
 add-engine-keyword = Kľúčové slovo
 add-engine-url = URL vyhľadávacieho modulu, dopyt nahraďte “%s”
 add-engine-dialog =
@@ -71,6 +74,8 @@ engine-keyword-exists = Vyhľadávač s týmto kľúčovým slovom už existuje
 
 ## The following placeholders are shown in the inputs when adding a new engine.
 
+add-engine-name-placeholder =
+    .placeholder = napr. Mozilla Developer Network
 add-engine-url-placeholder =
     .placeholder = napr. https://developer.mozilla.com/search?q=%s
 add-engine-keyword-placeholder =
@@ -91,3 +96,15 @@ add-engine-missing-terms-post-data = Skúste namiesto hľadaného výrazu zadať
 
 ## The following strings are used as labels for the dialog's buttons.
 
+# buttonlabelextra1 is the label of a button to open the advanced section
+# of the dialog.
+add-engine-dialog2 =
+    .buttonlabelaccept = Pridať vyhľadávač
+    .buttonaccesskeyaccept = P
+    .buttonlabelextra1 = Rozšírené
+# buttonlabelextra1 is the label of a button to open the advanced section
+# of the dialog.
+edit-engine-dialog =
+    .buttonlabelaccept = Uložiť vyhľadávač
+    .buttonaccesskeyaccept = U
+    .buttonlabelextra1 = Rozšírené

@@ -654,6 +654,9 @@ home-prefs-weather-header =
     .label = Počasie
 home-prefs-weather-description = Dnešná predpoveď v skratke
 home-prefs-weather-learn-more-link = Ďalšie informácie
+# "Support" here means to help sustain or contribute to something, especially through funding or sponsorship.
+home-prefs-support-firefox-header =
+    .label = Podporiť { -brand-product-name }
 home-prefs-mission-message = Naši sponzori podporujú našu misiu budovať lepší web
 home-prefs-mission-message-learn-more-link = Pozrite sa ako
 # Variables:

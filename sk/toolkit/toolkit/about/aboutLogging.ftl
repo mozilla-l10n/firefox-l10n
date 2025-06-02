@@ -16,6 +16,7 @@ about-logging-set-log-modules = Nastaviť moduly protokolu
 about-logging-start-logging = Spustiť záznam protokolu
 about-logging-stop-logging = Zastaviť záznam protokolu
 about-logging-copy-as-url = Kopírovať aktuálne nastavenia ako URL adresu
+about-logging-url-copied = Nastavenia protokolovania boli skopírované do schránky ako URL adresa predvoľby
 about-logging-buttons-disabled = Protokolovanie je nakonfigurované prostredníctvom premenných prostredia, dynamická konfigurácia nie je k dispozícii.
 about-logging-some-elements-disabled = Protokolovanie je nakonfigurované prostredníctvom adresy URL, niektoré možnosti konfigurácie nie sú k dispozícii.
 about-logging-info = Informácie:
