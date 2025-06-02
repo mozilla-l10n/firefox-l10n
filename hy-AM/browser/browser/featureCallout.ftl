@@ -81,6 +81,7 @@ bookmarks-toolbar-callout-2b-secondary-button-label = Ոչ, շնորհակալ �
 ## Perplexity callout strings
 
 perplexity-callout-theme-1-title = Անմիջապես ճիշտ պատասխանն է պետք՞։
+perplexity-callout-secondary-label-1 = Բաց թողնել
 perplexity-callout-secondary-label-2 = Հասկացա
 
 ## Sidebar Strings

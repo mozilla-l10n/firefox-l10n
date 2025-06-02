@@ -196,6 +196,13 @@ urlbar-result-menu-learn-more-about-firefox-suggest =
 urlbar-result-menu-manage-firefox-suggest =
     .label = Կառավարել { -firefox-suggest-brand-name }-ը
     .accesskey = M
+urlbar-result-menu-show-less-frequently =
+    .label = Ցուցադրել հազվադեպ
+urlbar-result-menu-dont-show-weather-suggestions =
+    .label = Չցուցադրել եղանակի առաջարկներ
+# A message shown in the urlbar when the user submits feedback on a suggestion
+# (e.g., it shows an inaccurate location, it's shown too often, etc.).
+urlbar-feedback-acknowledgment = Շնորհակալություն Ձեր արձագանքի համար:
 
 ## Prompts users to use the Urlbar when they open a new tab or visit the
 ## homepage of their default search engine.
@@ -799,6 +806,9 @@ urlbar-group-recent-searches =
 #  $engine (String): the name of the search engine providing the trending suggestions
 urlbar-group-trending =
     .label = Թրենդային { $engine }-ում
+# Label shown above sponsored suggestions in the urlbar results.
+urlbar-group-sponsored =
+    .label = Հովանավորված
 # The result menu labels shown next to trending results.
 urlbar-result-menu-trending-dont-show =
     .label = Մի ցուցադրեք թրենդային որոնումները
