@@ -33,3 +33,5 @@ confirmation-hint-duplicate-tabs-closed =
         [many] أُغلق { $tabCount } لسانًا
        *[other] أُغلق { $tabCount } لسان
     }
+# Subtle notification shown when Extensions button moves into the application menu.
+confirmation-hint-extensions-button-hidden = نُقِل إلى القائمة

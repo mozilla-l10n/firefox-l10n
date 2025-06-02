@@ -81,6 +81,8 @@ addon-removal-title = أتريد إزالة { $name }؟
 addon-removal-message = أأُزيل { $name } من { -brand-shorter-name }؟
 addon-removal-button = أزِل
 addon-removal-abuse-report-checkbox = أبلِغ { -vendor-short-name } عن هذا الامتداد
+# "it" refers to the local AI model that is paired to the AI feature
+addon-mlmodel-removal-body = إذا كنت تستخدم الميزات أو الامتدادات التي تستخدم هذا النموذج، فسيتم إعادة إضافته.
 # Variables:
 #   $addonCount (Number): the number of add-ons being downloaded
 addon-downloading-and-verifying =

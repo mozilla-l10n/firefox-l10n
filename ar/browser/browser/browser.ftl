@@ -839,6 +839,9 @@ urlbar-group-recent-searches =
 #  $engine (String): the name of the search engine providing the trending suggestions
 urlbar-group-trending =
     .label = الشائع في { $engine }
+# Label shown above sponsored suggestions in the urlbar results.
+urlbar-group-sponsored =
+    .label = نتيجة مموّلة
 # The result menu labels shown next to trending results.
 urlbar-result-menu-trending-dont-show =
     .label = لا تعرض عمليات البحث الشائعة
@@ -1219,6 +1222,11 @@ popup-notification-xpinstall-prompt-block-url = اعرض التفاصيل
 popup-notification-addon-privatebrowsing-checkbox2 =
     .label = اسمح لامتداد بأن يعمل في النوافذ الخاصة
     .accesskey = م
+# This string is similar to `webext-perms-description-data-long-technicalAndInteraction`
+# but it is used in the install prompt, and it needs an access key.
+popup-notification-addon-technical-and-interaction-checkbox =
+    .label = مشاركة البيانات الفنية والتفاعلية مع مطور الامتداد
+    .accesskey = و
 
 ## Pop-up warning
 

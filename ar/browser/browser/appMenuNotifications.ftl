@@ -44,6 +44,12 @@ appmenu-addon-private-browsing-installed2 =
     .buttonlabel = حسنا
     .buttonaccesskey = ح
 appmenu-addon-post-install-message3 = أدِر الإضافات والسمات لديك عبر قائمة التطبيق.
+# This string is used in the confirmation popup displayed after an extension
+# has been installed, when the data collection feature is enabled.
+appmenu-addon-post-install-message-with-data-collection = يُمكنك تحديث تصاريح وتفضيلات البيانات في أي وقت في <a data-l10n-name="settings-link">إعدادات الامتداد</a>.
+appmenu-addon-post-install-pin-toolbarbutton-checkbox =
+    .label = ثبّت الامتداد على شريط الأدوات
+    .accesskey = د
 appmenu-addon-post-install-incognito-checkbox =
     .label = اسمح لهذا الامتداد بأن يعمل في النوافذ الخاصة
     .accesskey = س
