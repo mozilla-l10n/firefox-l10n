@@ -78,9 +78,16 @@ bookmarks-toolbar-callout-2a-primary-button-label = فهمت
 bookmarks-toolbar-callout-2a-secondary-button-label = أخفِ شريط الأدوات
 # Visible if user declines to add a bookmark in callout 1, bookmarks toolbar is set to always show when this message renders
 bookmarks-toolbar-callout-2b-title = أبقِ شريط أدوات العلامات مفتوحًا؟
+# Reverts the bookmarks toolbar to the default setting
+bookmarks-toolbar-callout-2b-secondary-button-label = لا، شكرًا
 
 ## Perplexity callout strings
 
+perplexity-callout-theme-2-subtitle-1 = اسأل Perplexity. ستحصل على إجابات شاملة، مع مصادر مُضمّنة.
+perplexity-callout-theme-2-subtitle-2 = اطرح أسئلة. احصل على إجابات كاملة وموثقة.
+perplexity-callout-primary-label = اسأل Perplexity
+perplexity-callout-secondary-label-1 = أهمِل
+perplexity-callout-secondary-label-2 = فهمت
 
 ## Sidebar Strings
 
@@ -96,6 +103,7 @@ vertical-tabs-callout-2-title = هل تُبقي الكثير من الألسنة
 ## Sidebar Vertical Tabs Pinning Strings
 
 sidebar-pins-callout-title = هل فقدت مسار الألسنة المهمة لديك؟
+sidebar-pins-callout-cta-button = ثبّت اللسان
 
 ## Sidebar Onboarding Strings
 
@@ -123,3 +131,4 @@ unified-search-callout-primary-label = التالي
 unified-search-callout-secondary-label = أهمِل
 unified-search-engines-callout-title = ابحث باستخدام اختصار
 unified-search-engines-callout-primary-label = فهمت
+actions-callout-title = أكمل المهام الشائعة أو الوصول إلى الإعدادات الأساسية

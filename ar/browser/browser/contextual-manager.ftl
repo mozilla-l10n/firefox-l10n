@@ -61,9 +61,15 @@ contextual-manager-passwords-import-file-picker-tsv-filter-title =
     }
 contextual-manager-passwords-import-success-heading =
     .heading = استوردت كلمات السر
+# Variables
+#   $added (number) - Number of added passwords
+#   $modified (number) - Number of modified passwords
+contextual-manager-passwords-import-success-message = جديد: { $added }، حُدِّث: { $modified }
+contextual-manager-passwords-import-detailed-report = اعرض التقرير المفصل
 contextual-manager-passwords-import-success-button = تمّ
 contextual-manager-passwords-import-error-button-try-again = حاول مجددًا
 contextual-manager-passwords-import-error-button-cancel = ألغِ
+contextual-manager-passwords-import-learn-more = تعرف على كيفية استيراد كلمات السرّ
 contextual-manager-passwords-export-success-heading =
     .heading = صُدّرت كلمات السر
 contextual-manager-passwords-export-success-button = تمّ
@@ -115,21 +121,42 @@ contextual-manager-passwords-username-label = اسم المستخدم
 contextual-manager-passwords-password-label = كلمة السر
     .data-after = نُسخ
 contextual-manager-passwords-add-password-success-button = اعرض
+contextual-manager-passwords-password-already-exists-error-button = انتقل إلى كلمة السرّ
+contextual-manager-passwords-update-password-success-heading =
+    .heading = حُفظت كلمة السر
 contextual-manager-passwords-update-password-success-button = تمّ
 contextual-manager-passwords-delete-password-success-button = تمّ
+#
+# Radiobutton label to display total number of passwords
+#   $total (number) - Total number of passwords
+contextual-manager-passwords-radiobutton-all = الكل ({ $total })
+# Radiobutton label to display total number of alerts
+#   $total (number) - Total number of alerts
+contextual-manager-passwords-radiobutton-alerts = التنبيهات ({ $total })
 # This message is displayed to make sure that a user wants to delete an existing login.
 contextual-manager-passwords-remove-login-card-title = إزالة كلمة السر؟
+# This message warns the user that deleting a login is permanent.
+contextual-manager-passwords-remove-login-card-message = لا يمكنك التراجع عن هذا.
+# This message gives the user an option to go back to the edit login form.
+contextual-manager-passwords-remove-login-card-back-message = السابق
 # This message confirms that the user wants to remove an existing login.
 contextual-manager-passwords-remove-login-card-remove-button = أزِل
 # This message gives the user the option to cancel their attempt to remove a login.
 contextual-manager-passwords-remove-login-card-cancel-button = ألغِ
+contextual-manager-passwords-alert-card =
+    .aria-label = تنبيهات كلمة السر
 contextual-manager-passwords-alert-back-button =
     .label = السابق
+contextual-manager-passwords-alert-list =
+    .aria-label = قائمة التنبيهات
+contextual-manager-passwords-add-username-button = أضف اسم المستخدم
 
 ## Login Form
 
 contextual-manager-passwords-create-label =
     .label = أضِف كلمة سر
+contextual-manager-passwords-edit-label =
+    .label = حرّر كلمة السر
 contextual-manager-passwords-remove-label =
     .title = أزِل كلمة السر
 
@@ -139,6 +166,17 @@ contextual-manager-passwords-list-label =
     .aria-label = كلمات السر
 contextual-manager-copy-icon =
     .alt = انسخ
+contextual-manager-alert-icon =
+    .alt = تحذير
+# Variables
+#   $url (string) - The url associated with the login
+contextual-manager-origin-login-line =
+    .aria-label = زُر { $url }
+    .title = زُر { $url }
+contextual-manager-edit-login-button = حرّر
+    .tooltiptext = حرّر كلمة السر
+contextual-manager-view-alert-heading =
+    .heading = اعرض التنبيه
 
 ## When the user has no saved passwords, we display the following messages to inform the user they can save
 ## their passwords safely and securely in Firefox:
