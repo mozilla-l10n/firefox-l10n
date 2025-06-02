@@ -118,7 +118,18 @@ fp-learn-more-about-time-related-errors = Saatle ilgili hataları giderme hakkı
 ##   $hostname (string) - Hostname of the website with cert error.
 
 cert-error-revoked-certificate = { $hostname } için sağlanan sertifika iptal edildiği için ve artık güvenilir olmadığı için { -brand-short-name } bu siteyi ziyaret etmenizi engelledi.
+cert-error-bad-signature = { $hostname } için sağlanan sertifika imzası geçerli olmadığı için { -brand-short-name } bu siteyi ziyaret etmenizi engelledi.
+cert-error-key-pinning-failure = { $hostname } için sağlanan sertifika beklenenden farklı bir ortak anahtar kullandığı için { -brand-short-name } bu siteyi ziyaret etmenizi engelledi.
+cert-error-bad-der = { $hostname } için sağlanan sertifika düzgün kodlanmadığından { -brand-short-name } bu siteyi ziyaret etmenizi engelledi.
+cert-error-inadequate-cert-type = { $hostname } için sağlanan sertifikanın hiçbir web sunucusu tarafından kullanılmasına izin verilmediği için { -brand-short-name } bu siteyi ziyaret etmenizi engelledi.
+cert-error-invalid-key = { $hostname } için sağlanan sertifika geçersiz bir anahtara sahip olduğu için { -brand-short-name } bu siteyi ziyaret etmenizi engelledi. Büyük olasılıkla anahtar güvenli olamayacak kadar küçük.
+cert-error-unknown-critical-extension = { $hostname } için sağlanan sertifika desteklenmeyen kritik bir uzantı içerdiğinden { -brand-short-name } bu siteyi ziyaret etmenizi engelledi.
+cert-error-extension-value-invalid = { $hostname } için sağlanan sertifika geçersiz bir uzantı içerdiğinden { -brand-short-name } bu siteyi ziyaret etmenizi engelledi.
+cert-error-untrusted-issuer = { $hostname } için sağlanan sertifika artık güvenilmeyen bir sertifika makamı tarafından verildiği için { -brand-short-name } bu siteyi ziyaret etmenizi engelledi.
 cert-error-untrusted-cert = { $hostname } için sağlanan sertifika güvenilmez olarak işaretlendiği için { -brand-short-name } bu siteyi ziyaret etmenizi engelledi.
+cert-error-unsupported-keyalg = { $hostname } için sağlanan sertifika desteklenmeyen bir anahtar türüne sahip olduğu için { -brand-short-name } bu siteye ziyaret etmenizi engelledi.
+cert-error-issuer-no-longer-trusted = { $hostname } için sağlanan sertifikayı yayımlayan sertifika makamına artık güvenilmediği için { -brand-short-name } bu siteyi ziyaret etmenizi engelledi.
+cert-error-signature-algorithm-mismatch = { $hostname } için sağlanan sertifikanın imza algoritması sitenin imza algoritması alanıyla eşleşmediği için { -brand-short-name } bu siteyi ziyaret etmenizi engelledi.
 
 ## Messages used for certificate error titles
 

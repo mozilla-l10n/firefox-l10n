@@ -59,7 +59,11 @@ edit-engine-window =
     .style = min-width: 32em;
 add-engine-button = Özel motor ekle
 add-engine-name = Arama motoru adı
+add-engine-url2 = Aranacak terimin yerine %s gelecek şekilde URL
 add-engine-keyword2 = Anahtar kelime (isteğe bağlı)
+# POST and GET refer to the HTTP methods.
+add-engine-post-data = Aranacak terimin yerine %s gelecek şekilde POST verisi (GET için boş bırakın)
+add-engine-suggest-url = Aranacak terimin yerine %s gelecek şekilde öneri URL’si (isteğe bağlı)
 add-engine-keyword = Anahtar kelime
 add-engine-url = Motor adresi. Aranacak terim yerine %s koyun
 add-engine-dialog =
