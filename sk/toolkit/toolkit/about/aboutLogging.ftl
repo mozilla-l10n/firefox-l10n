@@ -15,6 +15,7 @@ about-logging-set-log-file = Nastaviť súbor protokolu
 about-logging-set-log-modules = Nastaviť moduly protokolu
 about-logging-start-logging = Spustiť záznam protokolu
 about-logging-stop-logging = Zastaviť záznam protokolu
+about-logging-copy-as-url = Kopírovať aktuálne nastavenia ako URL adresu
 about-logging-buttons-disabled = Protokolovanie je nakonfigurované prostredníctvom premenných prostredia, dynamická konfigurácia nie je k dispozícii.
 about-logging-some-elements-disabled = Protokolovanie je nakonfigurované prostredníctvom adresy URL, niektoré možnosti konfigurácie nie sú k dispozícii.
 about-logging-info = Informácie:
@@ -27,6 +28,8 @@ about-logging-no-log-modules = Žiadne
 about-logging-no-log-file = Žiadny
 about-logging-logging-preset-selector-text = Predvoľba protokolovania:
 about-logging-with-profiler-stacks-checkbox = Povoliť výpis zásobníka pre správy z protokolu
+about-logging-menu =
+    .title = Rozšírené nastavenia
 
 ## Logging presets
 

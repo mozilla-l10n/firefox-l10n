@@ -117,6 +117,22 @@ fp-learn-more-about-time-related-errors = Ďalšie informácie o odstraňovaní 
 ## Variables:
 ##   $hostname (string) - Hostname of the website with cert error.
 
+cert-error-revoked-certificate = { -brand-short-name } zablokoval vašu návštevu tejto stránky, pretože certifikát poskytnutý pre { $hostname } je označený ako nedôveryhodný.
+cert-error-bad-signature = { -brand-short-name } zablokoval vašu návštevu tejto stránky, pretože podpis na certifikáte poskytnutom pre { $hostname } nie je platný.
+cert-error-key-pinning-failure = { -brand-short-name } zablokoval vašu návštevu tejto stránky, pretože certifikát poskytnutý pre { $hostname } používa iný verejný kľúč, ako sa očakávalo.
+cert-error-bad-der = { -brand-short-name } zablokoval vašu návštevu tejto stránky, pretože certifikát poskytnutý pre { $hostname } nie je správne zakódovaný.
+cert-error-cert-not-in-name-space = { -brand-short-name } zablokoval vašu návštevu tejto stránky, pretože certifikát poskytnutý pre { $hostname } nespĺňa obmedzenia názvu certifikátu, ktorý ho vydal.
+cert-error-inadequate-cert-type = { -brand-short-name } zablokoval vašu návštevu tejto stránky, pretože certifikát poskytnutý pre { $hostname } nie je povolený webovým serverom.
+cert-error-path-len-constraint-invalid = { -brand-short-name } zablokoval vašu návštevu tejto stránky, pretože certifikát poskytnutý pre { $hostname } má v ceste ku koreňovému certifikátu príliš veľa prechodných certifikátov.
+cert-error-invalid-key = { -brand-short-name } zablokoval vašu návštevu tejto stránky, pretože certifikát poskytnutý pre { $hostname } má neplatný kľúč. S najväčšou pravdepodobnosťou je príliš malý na to, aby bol bezpečný.
+cert-error-unknown-critical-extension = { -brand-short-name } zablokoval vašu návštevu tejto stránky, pretože certifikát poskytnutý pre { $hostname } obsahuje nepodporované kritické rozšírenie.
+cert-error-extension-value-invalid = { -brand-short-name } zablokoval vašu návštevu tejto stránky, pretože certifikát poskytnutý pre { $hostname } obsahuje neplatnú príponu.
+cert-error-untrusted-issuer = { -brand-short-name } zablokoval vašu návštevu tejto stránky, pretože certifikát poskytnutý pre { $hostname } bol vydaný certifikačnou autoritou, ktorá už nie je nedôveryhodná.
+cert-error-untrusted-cert = { -brand-short-name } zablokoval vašu návštevu tejto stránky, pretože certifikát poskytnutý pre { $hostname } je označený ako nedôveryhodný.
+cert-error-invalid-integer-encoding = { -brand-short-name } zablokoval vašu návštevu tejto stránky, pretože certifikát poskytnutý pre { $hostname } obsahuje neplatné kódovanie celého čísla. Medzi bežné príčiny patria záporné sériové čísla, záporné RSA moduly a kódovania, ktoré sú dlhšie, ako je potrebné.
+cert-error-unsupported-keyalg = { -brand-short-name } zablokoval vašu návštevu tejto stránky, pretože certifikát poskytnutý pre { $hostname } má nepodporovaný typ kľúča.
+cert-error-issuer-no-longer-trusted = { -brand-short-name } zablokoval vašu návštevu tejto stránky, pretože certifikačná autorita, ktorá vydala certifikát poskytnutý pre { $hostname }, už nie je dôveryhodná.
+cert-error-signature-algorithm-mismatch = { -brand-short-name } zablokoval vašu návštevu tejto stránky, pretože podpisový algoritmus certifikátu poskytnutého pre { $hostname } sa nezhoduje s jeho poľom podpisového algoritmu.
 
 ## Messages used for certificate error titles
 

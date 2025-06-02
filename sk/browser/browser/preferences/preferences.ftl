@@ -725,6 +725,9 @@ search-remove-engine =
 search-add-engine =
     .label = Pridať
     .accesskey = P
+search-edit-engine =
+    .label = Upraviť
+    .accesskey = U
 search-find-more-link = Nájsť ďalšie vyhľadávacie moduly
 # This warning is displayed when the chosen keyword is already in use
 # ('Duplicate' is an adjective)
@@ -733,6 +736,10 @@ search-keyword-warning-title = Duplicitné kľúčové slovo
 #   $name (string) - Name of a search engine.
 search-keyword-warning-engine = Zadali ste kľúčové slovo, ktoré je v súčasnosti používané modulom "{ $name }". Vyberte nejaké iné.
 search-keyword-warning-bookmark = Zadali ste kľúčové slovo, ktoré je v súčasnosti používané jednou zo záložiek. Vyberte nejaké iné.
+# This warning is displayed when the chosen name is already in use.
+# Variables:
+#   $name (string) - Name of a search engine.
+edit-engine-name-warning-duplicate = Vyhľadávač s názvom “{ $name }” už existuje. Vyberte si iný názov.
 remove-engine-confirmation = Naozaj chcete odstrániť tento vyhľadávací modul?
 remove-engine-remove = Odstrániť
 remove-addon-engine-alert = Ak chcete odstrániť tento vyhľadávací modul, odstráňte príslušný doplnok.

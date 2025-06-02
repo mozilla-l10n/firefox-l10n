@@ -51,3 +51,4 @@ crashreporter-error-no-home-dir = Chýbajúci domovský priečinok
 # $to (String) - the destination path
 crashreporter-error-moving-path = Nepodarilo sa presunúť z { $from } do { $to }
 crashreporter-error-version-eol = Verzia s ukončenou podporou: správy o zlyhaní už nie sú akceptované.
+crashreporter-error-failed-to-generate-minidump = Aplikácii sa nepodarilo vygenerovať informácie o zlyhaní.

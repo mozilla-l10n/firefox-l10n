@@ -578,3 +578,9 @@ mlmodel-link-preview = { -brand-short-name } toto používa na generovanie kľú
 mlmodel-pdfjs = { -brand-short-name } toto používa na vytvorenie alternatívneho textu pre obrázky, ktoré pridávate do súborov PDF
 mlmodel-smart-tab-topic-engine = { -brand-short-name } toto používa na navrhovanie názvov pre vaše skupiny kariet
 mlmodel-smart-tab-embedding-engine = { -brand-short-name } toto používa na navrhovanie kariet pre vaše skupiny kariet
+# Label for button that when clicked removed local model
+mlmodel-remove-addon-button =
+    .aria-label = Odstrániť
+# Label for the aggregated value of all files for a model
+mlmodel-addon-detail-totalsize-label = Veľkosť súboru
+mlmodel-addon-detail-last-used-label = Naposledy použité

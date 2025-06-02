@@ -54,8 +54,13 @@ install-search-engine-no = Nie
 add-engine-window =
     .title = Pridať vyhľadávací modul
     .style = min-width: 32em;
+edit-engine-window =
+    .title = Upraviť vyhľadávač
+    .style = min-width: 32em;
 add-engine-button = Pridať vlastný vyhľadávací modul
 add-engine-name = Názov vyhľadávacieho modulu
+add-engine-url2 = Adresa URL s %s namiesto hľadaného výrazu
+add-engine-keyword2 = Kľúčové slovo (voliteľné)
 add-engine-keyword = Kľúčové slovo
 add-engine-url = URL vyhľadávacieho modulu, dopyt nahraďte “%s”
 add-engine-dialog =
@@ -66,9 +71,23 @@ engine-keyword-exists = Vyhľadávač s týmto kľúčovým slovom už existuje
 
 ## The following placeholders are shown in the inputs when adding a new engine.
 
+add-engine-url-placeholder =
+    .placeholder = napr. https://developer.mozilla.com/search?q=%s
+add-engine-keyword-placeholder =
+    .placeholder = napr. @mdn
 
 ## The following strings are used as error messages.
 
+add-engine-keyword-exists = Toto kľúčové slovo sa už používa. Skúste iné.
+add-engine-name-exists = Tento názov sa už používa. Zvoľte iný.
+add-engine-no-name = Prosím, pridajte názov.
+add-engine-no-url = Zadajte URL adresu.
+add-engine-invalid-url = Táto URL adresa nevyzerá správne. Skontrolujte ju a skúste to znova.
+add-engine-invalid-protocol = Táto URL adresa nevyzerá správne. Použite URL adresu, ktorá začína reťazcom http alebo https.
+# This error is shown when the user typed URL is missing %s.
+add-engine-missing-terms-url = Skúste namiesto hľadaného výrazu zadať %s.
+# This error is shown when the user typed post data is missing %s.
+add-engine-missing-terms-post-data = Skúste namiesto hľadaného výrazu zadať %s.
 
 ## The following strings are used as labels for the dialog's buttons.
 
