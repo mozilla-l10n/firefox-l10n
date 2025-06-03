@@ -135,6 +135,8 @@ genai-onboarding-lechat-learn = Le Chat ਬਾਰੇ ਹੋਰ ਸਿੱਖੋ
 genai-onboarding-select-header = ਸੁਝਾਅ ਵੇਖਣ ਲਈ ਲਿਖਤ ਨੂੰ ਚੁਣੋ
 genai-onboarding-select-description = ਜਦੋਂ ਵੀ ਤੁਸੀਂ ਲਿਖਤ ਨੂੰ ਚੁਣਦੇ ਹੋ ਤਾਂ ਅਸੀਂ ਤੁਹਾਨੂੰ ਚੈਟ-ਬੋਟ ਨੂੰ ਭੇਜਣ ਲਈ ਪਰੌਂਟ ਦਾ ਸੁਝਾਅ ਦੇਵਾਂਗੇ। ਤੁਸੀਂ ਖੁਦ ਵੀ ਆਪਣੇ ਪਰੌਂਟ ਲਿਖ ਸਕਦੇ ਹੋ।
 genai-onboarding-select-primary = ਚੈਟ ਕਰਨੀ ਸ਼ੁਰੂ ਕਰੋ
+genai-chatbot-contextual-title = ਬਿਨਾਂ ਟੈਬਾਂ ਨੂੰ ਬਦਲੇ AI ਚੈਟਬੋਟ ਨੂੰ ਵਰਤੋਂ
+genai-chatbot-contextual-subtitle = ਜਦੋਂ ਤੁਸੀਂ { -brand-short-name } ਬਾਹੀ ਵਿੱਚ AI ਚੈਟਬੋਟ ਨੂੰ ਜੋੜ ਲੈਂਦੇ ਹੋ ਤਾਂ ਚੈਟ ਅਤੇ ਬਰਾਊਜ਼ ਨਾਲ ਨਾਲ ਕਰ ਸਕਦੇ ਹੋ।
 genai-chatbot-contextual-button = ਕਿਸੇ ਚੈਟ-ਬੋਟ ਨੂੰ ਚੁਣੋ
 
 ## Chatbot onboarding choices

@@ -533,6 +533,10 @@ newtab-custom-wallpaper-cta = ਅਜ਼ਮਾਓ
 ## Strings for download mobile highlight
 
 newtab-download-mobile-highlight-title = ਮੋਬਾਈਲ ਲਈ { -brand-product-name } ਨੂੰ ਡਾਊਨਲੋਡ ਕਰੋ
+# "Scan the code" refers to scanning the QR code that appears above the body text that leads to Firefox for mobile download.
+newtab-download-mobile-highlight-body-variant-a = ਰਾਹ ਵਿੱਚ ਸੁਰੱਖਿਅਤ ਢੰਗ ਨਾਲ ਬਰਾਊਜ਼ ਕਰਨ ਵਾਸਤੇ ਕੋਡ ਨੂੰ ਸਕੈਨ ਕਰੋ।
+newtab-download-mobile-highlight-image =
+    .aria-label = ਮੋਬਾਈਲ ਵਾਸਤੇ { -brand-product-name } ਡਾਊਨਲੋਡ ਕਰਨ ਲਈ QR ਕੋਡ
 
 ## Strings for reporting ads and content
 
