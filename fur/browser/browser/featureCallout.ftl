@@ -87,9 +87,22 @@ bookmarks-toolbar-callout-2a-primary-button-label = Capît
 bookmarks-toolbar-callout-2a-secondary-button-label = Plate sbare dai struments
 # Visible if user declines to add a bookmark in callout 1, bookmarks toolbar is set to always show when this message renders
 bookmarks-toolbar-callout-2b-title = Tignî vierte la sbare dai segnelibris?
+bookmarks-toolbar-callout-2b-subtitle = Tu puedis zontâ altris sîts che tu visitis dispès. Ti baste strissinâ e molâ lis schedis achì par tignî i tiei sîts web preferîts sot man.
+bookmarks-toolbar-callout-2b-primary-button-label = Ten vierte
+# Reverts the bookmarks toolbar to the default setting
+bookmarks-toolbar-callout-2b-secondary-button-label = No graciis
 
 ## Perplexity callout strings
 
+perplexity-callout-theme-1-title = Ti coventie la rispueste juste daurman?
+perplexity-callout-theme-2-title = Prove Perplexity: une gnove maniere par cirî
+perplexity-callout-theme-1-subtitle-1 = Prove Perplexity. Sielzilu dal boton di ricercje cuant che tu vûs rispuestis completis, fonts includudis.
+perplexity-callout-theme-1-subtitle-2 = Fâs domandis. Oten rispuestis completis e ben documentadis. Par provâ Perplexity, sielzilu dal boton di ricercje.
+perplexity-callout-theme-2-subtitle-1 = Domande a Perplexity. Tu ricevarâs rispuestis completis, fonts di informazion includudis.
+perplexity-callout-theme-2-subtitle-2 = Fâs domandis. Oten rispuestis completis e ben documentadis.
+perplexity-callout-primary-label = Domande a Perplexity
+perplexity-callout-secondary-label-1 = Siere
+perplexity-callout-secondary-label-2 = Capît
 
 ## Sidebar Strings
 

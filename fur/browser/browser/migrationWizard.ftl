@@ -196,6 +196,12 @@ migration-safari-password-import-step1 = In Safari, vierç il menù “Safari”
 migration-safari-password-import-step2 = Selezione il boton <img data-l10n-name="safari-icon-3dots"/> e sielç “Espuarte dutis lis passwords”
 migration-safari-password-import-step3 = Salve il file des passwords
 migration-safari-password-import-step4 = Dopre “Selezione file” chi sot par sielzi il file des passwords che tu âs salvât
+migration-chrome-windows-password-import-header = Cemût impuartâ lis passwords di Chrome
+migration-chrome-windows-password-import-steps-header = In Chrome:
+migration-chrome-windows-password-import-step1 = Vierç il menù principâl <img data-l10n-name="chrome-icon-3dots"/> e va su Passwords e compilazion automatiche > Gjestion des passwords di Google.
+migration-chrome-windows-password-import-step2 = Selezione “Impostazions” dal menù.
+migration-chrome-windows-password-import-step3 = Sielç “Discjame file” e salvilu sul to dispositîf.
+migration-chrome-windows-password-import-step4 = Torne achì e dopre “Selezione file” par completâ la importazion.
 migration-manual-password-import-skip-button = Salte
 migration-manual-password-import-select-button = Selezione file
 migration-safari-password-import-skip-button = Salte
