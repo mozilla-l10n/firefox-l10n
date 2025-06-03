@@ -24,8 +24,8 @@ origin-title = Origino: { $originTitle }
 scope = <strong>Amplekso:</strong> { $name }
 script-spec = <strong>Skripta specifo:</strong> <a data-l10n-name="link">{ $url }</a>
 current-worker-url = <strong>URL de nuna Worker:</strong> <a data-l10n-name="link">{ $url }</a>
-active-cache-name = <strong>Nomo de aktiva staplo:</strong> { $name }
-waiting-cache-name = <strong>Nomo de atendanta staplo:</strong> { $name }
+active-cache-name = <strong>Nomo de aktiva stokejo:</strong> { $name }
+waiting-cache-name = <strong>Nomo de atendanta stokejo:</strong> { $name }
 push-end-point-waiting = <strong>Flanko de «Push»:</strong> { waiting }
 push-end-point-result = <strong>Flanko de «Push»:</strong> { $name }
 # This term is used as a button label (verb, not noun).

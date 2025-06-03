@@ -139,7 +139,7 @@ places-manage-bookmarks =
 places-forget-about-this-site-confirmation-title = Forgesi tiun ĉi retejon
 # Variables:
 # $hostOrBaseDomain (string) - The base domain (or host in case there is no base domain) for which data is being removed
-places-forget-about-this-site-confirmation-msg = Tiu ĉi ago forigos ĉiujn datumojn, kiuj estas rilatitaj kun { $hostOrBaseDomain }. Tio inkluzivas historion, kuketojn, staplon kaj preferojn pri enhavo. Rilatitaj legosignoj kaj pasvortoj ne estos forigitaj. Ĉu vi certe volas daŭrigi?
+places-forget-about-this-site-confirmation-msg = Tiu ĉi ago forigos ĉiujn datumojn, kiuj estas rilatitaj kun { $hostOrBaseDomain }. Tio inkluzivas historion, kuketojn, stokejon kaj preferojn pri enhavo. Rilatitaj legosignoj kaj pasvortoj ne estos forigitaj. Ĉu vi certe volas daŭrigi?
 places-forget-about-this-site-forget = Forgesi
 places-library3 =
     .title = Biblioteko

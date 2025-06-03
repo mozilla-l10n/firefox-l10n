@@ -1101,7 +1101,7 @@ sitedata-total-size-calculating = Kalkulo de datuma kaj stapla grando de retejoâ
 # Variables:
 #   $value (number) - Value of the unit (for example: 4.6, 500)
 #   $unit (string) - Name of the unit (for example: "bytes", "KB")
-sitedata-total-size = Viaj konservitaj kuketoj, retejaj datumoj kaj staplo uzas nuntempe { $value } { $unit } da diska spaco.
+sitedata-total-size = Viaj konservitaj kuketoj, retejaj datumoj kaj stokejo uzas nuntempe { $value } { $unit } da diska spaco.
 sitedata-learn-more = Pli da informo
 sitedata-delete-on-close =
     .label = Forigi kuketojn kaj retejajn datumojn je fermo de { -brand-short-name }

@@ -5,7 +5,7 @@
 clear-site-data-window2 =
     .title = Viŝi datumojn
     .style = min-width: 35em
-clear-site-data-description = Viŝo de ĉiuj kuketoj kaj datumoj de retejo konservitaj de { -brand-short-name } povus okazigi finon de viaj seancoj en retejoj kaj forigon de teksaĵaj malkonektitaĵoj.  Viŝo de la staplo ne efikos sur viaj seancoj.
+clear-site-data-description = Viŝo de ĉiuj kuketoj kaj datumoj de retejo konservitaj de { -brand-short-name } povus okazigi finon de viaj seancoj en retejoj kaj forigon de teksaĵaj malkonektitaĵoj.  Viŝo de la stokejo ne efikos sur viaj seancoj.
 clear-site-data-close-key =
     .key = w
 # The parameters in parentheses in this string describe disk usage
@@ -31,7 +31,7 @@ clear-site-data-cookies-info = Viŝinte, viaj seancoj en retejoj povus esti fini
 #   $amount (Number) - Amount of cache currently stored on disk
 #   $unit (String) - Abbreviation of the unit that $amount is in, e.g. "MB"
 clear-site-data-cache-with-data =
-    .label = Teksaĵa enhavo en staplo ({ $amount } { $unit })
+    .label = Teksaĵa enhavo en stokejo ({ $amount } { $unit })
     .accesskey = S
 # This string is a placeholder for while the data used to fill
 # clear-site-data-cache-with-data is loading. This placeholder is usually
@@ -39,7 +39,7 @@ clear-site-data-cache-with-data =
 # or the same as clear-site-data-cache-with-data (except the amount and unit),
 # to avoid flickering.
 clear-site-data-cache-empty =
-    .label = Staplo de teksaĵa enhavo
+    .label = Stokejo de teksaĵa enhavo
     .accesskey = S
 clear-site-data-cache-info = Tio postulos al retejo reŝargadon de bildoj kaj datumoj
 clear-site-data-dialog =

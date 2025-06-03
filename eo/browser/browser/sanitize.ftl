@@ -81,8 +81,8 @@ item-active-logins =
     .label = Aktivaj akreditadoj
     .accesskey = A
 item-cache =
-    .label = Staplo
-    .accesskey = A
+    .label = Stokejo
+    .accesskey = S
 # Variables:
 #   $amount (Number) - Amount of cached data
 #   $unit (String) - Abbreviation of the unit that $amount is in, e.g. "MB"

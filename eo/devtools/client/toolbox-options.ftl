@@ -112,9 +112,9 @@ options-sourceeditor-keybinding-default-label = Normaj
 # The heading (this item is also used in perftools.ftl)
 options-context-advanced-settings = Spertulaj agordoj
 # The label for the checkbox that toggles the HTTP cache on or off
-options-disable-http-cache-label = Malaktivigi la staplon de HTTP (kiam la ilujo estas malfermita)
+options-disable-http-cache-label = Malaktivigi la stokejo de HTTP (kiam la ilujo estas malfermita)
 options-disable-http-cache-tooltip =
-    .title = Ŝalto de tiu ĉi elekteblo malaktivigos la staplon de HTTP por ĉiuj langetoj, kiuj havas la ilujon malfermita. Tio ne koncernas la Service Workers.
+    .title = Ŝalto de tiu ĉi elekteblo malaktivigos la stokejon de HTTP por ĉiuj langetoj, kiuj havas la ilujon malfermita. Tio ne koncernas la Service Workers.
 # The label for checkbox that toggles JavaScript on or off
 options-disable-javascript-label = Malŝalti JavaScript *
 options-disable-javascript-tooltip =
