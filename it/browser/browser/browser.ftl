@@ -200,7 +200,7 @@ urlbar-result-menu-manage-firefox-suggest =
 # detected by Firefox (e.g., weather suggestions), and this menu item lets the
 # user tell Firefox that the location is not accurate. Typically the location
 # will be a city name, or a city name combined with the name of its parent
-# administrative region (e.g., a province, prefecture, or state).
+# administrative division (e.g., a province, prefecture, or state).
 urlbar-result-menu-report-inaccurate-location =
     .label = Segnala posizione non precisa
 urlbar-result-menu-show-less-frequently =
@@ -1262,4 +1262,3 @@ file-picker-crashed-show-in-folder =
 ## Onboarding Finish Setup checklist
 
 onboarding-checklist-button-label = Completa la configurazione
-
