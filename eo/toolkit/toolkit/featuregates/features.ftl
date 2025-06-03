@@ -27,8 +27,8 @@ experimental-features-cookie-samesite-none-requires-secure2-description = Kuketo
 # about:home should be kept in English, as it refers to the the URI for
 # the internal default home page.
 experimental-features-abouthome-startup-cache =
-    .label = about:home komenca staplo
-experimental-features-abouthome-startup-cache-description = Staplo por la komenca dokumento about:home, kiu estas norme ŝargita komence. La celo de tiu ĉi staplo estas plibonigi la efikecon de starto.
+    .label = about:home komenca stokejo
+experimental-features-abouthome-startup-cache-description = Staplo por la komenca dokumento about:home, kiu estas norme ŝargita komence. La celo de tiu ĉi stokejo estas plibonigi la efikecon de starto.
 # "Service Worker" is an API name and is usually not translated.
 experimental-features-devtools-serviceworker-debugger-support =
     .label = Iloj por programistoj: senerarigo de Service worker
