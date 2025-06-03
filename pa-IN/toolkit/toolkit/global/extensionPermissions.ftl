@@ -52,6 +52,7 @@ webext-perms-description-data-short-financialAndPaymentInfo = ਵਿੱਤੀ �
 webext-perms-description-data-short-healthInfo = ਸਥਿਤੀ ਸੰਬੰਧੀ ਜਾਣਕਾਰੀ
 webext-perms-description-data-short-locationInfo = ਟਿਕਾਣਾ
 webext-perms-description-data-short-personalCommunications = ਨਿੱਜੀ ਪੱਤਰ-ਵਿਹਾਰ
+webext-perms-description-data-short-personallyIdentifyingInfo = ਨਿੱਜੀ ਪਛਾਣਕਰਤਾ ਜਾਣਕਾਰੀ
 
 ## Long form to be used in `about:addons` when these data collection permissions are optional.
 

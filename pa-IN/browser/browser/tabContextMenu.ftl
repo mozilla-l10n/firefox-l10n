@@ -131,3 +131,10 @@ tab-context-send-tabs-to-device =
            *[other] { $tabCount } ਟੈਬਾਂ ਡਿਵਾਈਸ 'ਤੇ ਭੇਜੋ
         }
     .accesskey = n
+tab-context-unload-n-tabs =
+    .label =
+        { $tabCount ->
+            [1] ਟੈਬ ਨੂੰ ਅਣ-ਲੋਡ ਕਰੋ
+           *[other] Unload { $tabCount } Tabs
+        }
+    .accesskey = Unload { $tabCount } Tabs
