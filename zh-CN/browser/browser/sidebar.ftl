@@ -105,6 +105,8 @@ sidebar-history-context-menu-delete-page-2 =
     .label = 从历史记录中删除页面
 sidebar-history-context-menu-bookmark-page =
     .label = 将页面加入书签…
+sidebar-history-context-menu-delete-pages =
+    .label = 从历史记录中删除页面
 
 ## Labels for sidebar menu items.
 

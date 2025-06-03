@@ -129,6 +129,8 @@ cert-error-unknown-critical-extension = A { -brand-short-name } blokkolta az old
 cert-error-extension-value-invalid = A { -brand-short-name } blokkolta az oldalt, mert a(z) { $hostname } tanúsítványkibocsátója érvénytelen kiegészítést tartalmaz.
 cert-error-untrusted-issuer = A { -brand-short-name } blokkolta az oldalt, mert a(z) { $hostname } tanúsítványát olyan kibocsátó állította ki, amelyik már nem megbízható.
 cert-error-untrusted-cert = A { -brand-short-name } blokkolta az oldalt, mert a(z) { $hostname } tanúsítványa nincs megbízhatónak jelölve.
+cert-error-invalid-integer-encoding = A { -brand-short-name } blokkolta az oldalt, mert a(z) { $hostname } érvénytelen egészszám-kódolást tartalmazó tanúsítványt mutatott be. Ezt gyakran negatív sorozatszámok, negatív RSA modulusok, és a szükségesnél hosszabb kódolások okozzák.
+cert-error-unsupported-keyalg = A { -brand-short-name } blokkolta az oldalt, mert a(z) { $hostname } tanúsítványának kulcstípusa nem támogatott.
 
 ## Messages used for certificate error titles
 
