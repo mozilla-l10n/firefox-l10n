@@ -50,6 +50,14 @@ webext-perms-description-data-short-authenticationInfo = hollësi mirëfilltësi
 webext-perms-description-data-short-bookmarksInfo = faqerojtës
 webext-perms-description-data-short-browsingActivity = veprimtari shfletimi
 webext-perms-description-data-short-financialAndPaymentInfo = hollësi pagesash dhe financiare
+webext-perms-description-data-short-healthInfo = hollësi shëndetësore
+webext-perms-description-data-short-locationInfo = vendndodhje
+webext-perms-description-data-short-personalCommunications = komunikime personale
+webext-perms-description-data-short-personallyIdentifyingInfo = hollësi që lejojnë identifikim personal
+webext-perms-description-data-short-searchTerms = terma kërkimi
+webext-perms-description-data-short-technicalAndInteraction = të dhëna teknike dhe ndërveprimesh
+webext-perms-description-data-short-websiteActivity = veprimtari sajti
+webext-perms-description-data-short-websiteContent = lëndë sajti
 
 ## Long form to be used in `about:addons` when these data collection permissions are optional.
 

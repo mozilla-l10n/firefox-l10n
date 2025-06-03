@@ -105,6 +105,8 @@ sidebar-history-context-menu-delete-page-2 =
     .label = Pagina uit geschiedenis verwijderen
 sidebar-history-context-menu-bookmark-page =
     .label = Bladwijzer voor pagina maken…
+sidebar-history-context-menu-delete-pages =
+    .label = Pagina’s uit geschiedenis verwijderen
 
 ## Labels for sidebar menu items.
 
