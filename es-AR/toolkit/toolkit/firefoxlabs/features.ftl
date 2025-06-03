@@ -47,3 +47,7 @@ experimental-features-link-previews-description-no-ai =
         [macos] Para obtener más información sobre una página web antes de hacer clic, pase el cursor sobre un enlace y presione Mayúsculas (⇧) más Opción (⌥) o Alt. Las vistas previas pueden incluir detalles como el título y el tiempo de lectura. <a data-l10n-name="connect">Compartir opinión</a>
        *[other] Para obtener más información sobre una página web antes de hacer clic, pase el cursor sobre un enlace y presione Mayúsculas + Alt. Las vistas previas pueden incluir detalles como el título y el tiempo de lectura. <a data-l10n-name="connect">Compartir opinión</a>
     }
+# New Tab Sections with follow and block
+experimental-features-newtab-sections-follow-block =
+    .label = Secciones de tema y Seguir/Bloquear para nuevas historias
+experimental-features-newtab-sections-follow-block-description = Organice las historias en la página Nueva pestaña en secciones temáticas (Deportes, Comida, Entretenimiento y más) para una experiencia más estructurada y fácil de leer. Use nuestros nuevos controles Seguir y Bloquear para personalizar el contenido que se ve. <a data-l10n-name="connect">Compartir opinión</a>
