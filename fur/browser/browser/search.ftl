@@ -38,6 +38,8 @@ remove-search-engine-button = Va ben
 ## Variables
 ## $newEngine (String) - the name of the new default search engine.
 
+reset-search-settings-message = Par vie di un probleme tecnic, { $newEngine } al è stât ripristinât come motôr di ricercje predefinît. Par modificâ il motôr di ricercje predefinît, va tes impostazions.
+reset-search-settings-button = Va ben
 
 ## Infobar shown when user is prompted to install search engine.
 ## Variables
@@ -52,8 +54,15 @@ install-search-engine-no = No
 add-engine-window =
     .title = Zonte motôr di ricercje
     .style = min-width: 32em;
+edit-engine-window =
+    .title = Modifiche motôr di ricercje
+    .style = min-width: 32em;
 add-engine-button = Zonte motôr personalizât
 add-engine-name = Cîr motôr di ricercje
+add-engine-url2 = URL cun %s al puest dal tiermin di cirî
+add-engine-keyword2 = Peraule clâf (facoltative)
+# POST and GET refer to the HTTP methods.
+add-engine-post-data = Dâts POST cun %s al puest dal tiermin di cirî (lasse vueit par GET)
 add-engine-keyword = Peraule clâf
 add-engine-url = URL dal motôr, dopre %s al puest dal tiermin di cirî
 add-engine-dialog =

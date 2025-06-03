@@ -59,6 +59,7 @@ history-section-label = Cronologjie
 item-history-and-downloads =
     .label = Cronologjie di navigazion e file discjariâts
     .accesskey = n
+item-history-and-downloads-description2 = Al nete la cronologjie di navigazion e dai discjariâts
 item-history-form-data-downloads =
     .label = Cronologjie
     .accesskey = C
