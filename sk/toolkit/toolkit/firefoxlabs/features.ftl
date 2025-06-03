@@ -47,3 +47,7 @@ experimental-features-link-previews-description-no-ai =
         [macos] Ak sa chcete dozvedieť viac o webovej stránke pred kliknutím, umiestnite kurzor myši na odkaz a stlačte kláves Shift (⇧) plus Option (⌥) alebo Alt. Ukážky môžu obsahovať podrobnosti, ako je názov a čas čítania. <a data-l10n-name="connect">Zdieľať spätnú väzbu</a>
        *[other] Ak sa chcete dozvedieť viac o webovej stránke pred kliknutím, umiestnite kurzor myši na odkaz a stlačte kláves Shift + Alt. Ukážky môžu obsahovať podrobnosti, ako je názov a čas čítania. <a data-l10n-name="connect">Zdieľať spätnú väzbu</a>
     }
+# New Tab Sections with follow and block
+experimental-features-newtab-sections-follow-block =
+    .label = Sekcie tém a sledovanie/blokovanie pre príbehy na novej karte
+experimental-features-newtab-sections-follow-block-description = Usporiadajte si články na stránke Nová karta do tematických sekcií (Šport, Jedlo, Zábava a ďalšie) pre štruktúrovanejší a ľahšie čitateľný zážitok. Použite naše nové ovládacie prvky Sledovať a Blokovať na prispôsobenie obsahu, ktorý sa vám zobrazuje. <a data-l10n-name="connect">Zdieľať spätnú väzbu</a>
