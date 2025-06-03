@@ -54,8 +54,13 @@ install-search-engine-no = Jo
 add-engine-window =
     .title = Shtoni Motor Kërkimesh
     .style = min-width: 32em;
+edit-engine-window =
+    .title = Përpunoni Motor Kërkimesh
+    .style = min-width: 32em;
 add-engine-button = Shtoni Motor Vetjak
 add-engine-name = Emër motori kërkimesh
+add-engine-url2 = URL me %s, në vend se term kërkimi
+add-engine-keyword2 = Fjalëkyçe (opsionale)
 add-engine-keyword = Fjalëkyç
 add-engine-url = URL motori, përdorni %s në vend të termit të kërkimit
 add-engine-dialog =
@@ -66,9 +71,32 @@ engine-keyword-exists = Ka tashmë një motor me këtë fjalëkyç
 
 ## The following placeholders are shown in the inputs when adding a new engine.
 
+add-engine-name-placeholder =
+    .placeholder = p.sh., Rrjeti i Zhvilluesve Mozilla
+add-engine-url-placeholder =
+    .placeholder = p.sh., https://developer.mozilla.com/search?q=%s
+add-engine-keyword-placeholder =
+    .placeholder = p.sh., @mdn
 
 ## The following strings are used as error messages.
 
+add-engine-keyword-exists = Ajo fjalëkyçe është e përdorur tashmë. Provoni një të ndryshme.
+add-engine-name-exists = Ai emër është përdorur tashmë. Ju lutemi, zgjidhni një tjetër.
+add-engine-no-name = Ju lutemi, shtoni një emër.
+add-engine-no-url = Ju lutemi, jepni një URL.
+add-engine-invalid-url = Ajo URL s’duket në rregull. Ju lutemi, kontrollojeni dhe riprovoni.
 
 ## The following strings are used as labels for the dialog's buttons.
 
+# buttonlabelextra1 is the label of a button to open the advanced section
+# of the dialog.
+add-engine-dialog2 =
+    .buttonlabelaccept = Shtoni Motor
+    .buttonaccesskeyaccept = S
+    .buttonlabelextra1 = Të mëtejshme
+# buttonlabelextra1 is the label of a button to open the advanced section
+# of the dialog.
+edit-engine-dialog =
+    .buttonlabelaccept = Ruaje Motorin
+    .buttonaccesskeyaccept = R
+    .buttonlabelextra1 = Të mëtejshme

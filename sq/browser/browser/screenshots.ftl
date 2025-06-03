@@ -66,6 +66,11 @@ screenshots-component-copy-button-2 = Kopjoje
 screenshots-component-download-button-2 = Shkarkoje
     .title = Shkarko ({ $shortcut })
     .aria-label = Shkarko
+# Variables
+#   $shortcut (String) - A keyboard shortcut for the screenshot command.
+screenshot-toolbar-button =
+    .label = Foto ekrani
+    .tooltiptext = Bëni një foto ekrani ({ $shortcut })
 
 ## The below strings are used to capture keydown events so the strings should
 ## not be changed unless the keyboard layout in the locale requires it.
