@@ -534,6 +534,27 @@ newtab-custom-wallpaper-cta = Provilu
 
 ## Strings for download mobile highlight
 
+newtab-download-mobile-highlight-title = Discjame { -brand-product-name } par dispositîfs mobii
+# "Scan the code" refers to scanning the QR code that appears above the body text that leads to Firefox for mobile download.
+newtab-download-mobile-highlight-body-variant-a = Scansione il codiç par navigâ in sigurece dapardut.
+newtab-download-mobile-highlight-body-variant-b = Ripie di dulà che tu jeris restât sincronizant schedis, passwords e tant altri.
+newtab-download-mobile-highlight-body-variant-c = Savevistu che tu puedis simpri puartâ daûr { -brand-product-name }? Il stes navigadôr, te tô sachete.
+newtab-download-mobile-highlight-image =
+    .aria-label = Codiç QR par discjariâ { -brand-product-name } par dispositîfs mobii
 
 ## Strings for reporting ads and content
 
+newtab-report-content-why-reporting-this =
+    .label = Parcè stâstu segnalant cheste publicitât?
+newtab-report-ads-reason-not-interested =
+    .label = No mi interesse
+newtab-report-ads-reason-inappropriate =
+    .label = E je inadate
+newtab-report-ads-reason-seen-it-too-many-times =
+    .label = Le ai viodude masse voltis
+newtab-report-content-wrong-category =
+    .label = Categorie sbaliade
+newtab-report-content-outdated =
+    .label = Vecje
+newtab-report-content-inappropriate-offensive =
+    .label = Inadate o ofensive

@@ -119,6 +119,9 @@ fp-learn-more-about-time-related-errors = Scuvierç di plui su la risoluzion dai
 
 cert-error-revoked-certificate = { -brand-short-name } al à blocât la tô visite a chest sît parcè che il certificât furnît par { $hostname } al è stât revocât e nol è plui atendibil.
 cert-error-bad-signature = { -brand-short-name } al à blocât la tô visite a chest sît parcè che la firme sul certificât furnît par { $hostname } no je valide.
+cert-error-key-pinning-failure = { -brand-short-name } al à blocât la tô visite a chest sît parcè che il certificât furnît par { $hostname } al dopre une clâf publiche divierse di chê previodude.
+cert-error-bad-der = { -brand-short-name } al à blocât la tô visite a chest sît parcè che il certificât furnît par { $hostname } nol è codificât ben.
+cert-error-cert-not-in-name-space = { -brand-short-name } al à blocât la tô visite a chest sît parcè che il certificât furnît par { $hostname } nol rispiete i vincui relatîfs al non stabilîts di un certificât che lu à emetût.
 
 ## Messages used for certificate error titles
 
@@ -127,6 +130,7 @@ deniedPortAccess-title = Cheste direzion e je sometude a restrizions
 # "Hmm" is a sound made when considering or puzzling over something.
 # You don't have to include it in your translation if your language does not have a written word like this.
 dnsNotFound-title = Hmm... No rivìn a cjatâ chel sît.
+internet-connection-offline-title = Al somee che al sedi vignût fûr un probleme cu la conession a internet.
 dns-not-found-trr-only-title2 = Potenziâl risi pe sigurece cirint chest domini
 dns-not-found-native-fallback-title2 = Potenziâl risi pe sigurece tal cirî chest domini
 fileNotFound-title = File no cjatât
