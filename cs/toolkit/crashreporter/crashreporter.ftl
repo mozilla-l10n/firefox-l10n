@@ -97,3 +97,4 @@ crashreporter-error-no-home-dir = Chybějící domovský adresář
 # $to (String) - the destination path
 crashreporter-error-moving-path = Nepodařilo se přesunout z { $from } do { $to }
 crashreporter-error-version-eol = Nepodporovaná verze: hlášení jejích pádů už nejsou přijímána.
+crashreporter-error-failed-to-generate-minidump = Aplikaci se nepodařilo vygenerovat informace o pádu.

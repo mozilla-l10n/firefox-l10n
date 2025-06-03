@@ -113,6 +113,8 @@ sidebar-history-context-menu-delete-page-2 =
     .label = Smazat stránku z historie
 sidebar-history-context-menu-bookmark-page =
     .label = Přidat stránku do záložek…
+sidebar-history-context-menu-delete-pages =
+    .label = Smazat stránky z historie
 
 ## Labels for sidebar menu items.
 

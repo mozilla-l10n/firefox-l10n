@@ -27,6 +27,8 @@ about-logging-no-log-modules = Žádný
 about-logging-no-log-file = Žádný
 about-logging-logging-preset-selector-text = Přednastavené protokolování:
 about-logging-with-profiler-stacks-checkbox = Povolit výpis zásobníku pro zprávy protokolu
+about-logging-menu =
+    .title = Rozšířené možnosti
 
 ## Logging presets
 
