@@ -851,6 +851,9 @@ search-remove-engine =
 search-add-engine =
     .label = Přidat
     .accesskey = P
+search-edit-engine =
+    .label = Upravit
+    .accesskey = U
 search-find-more-link = Přidat další vyhledávače
 # This warning is displayed when the chosen keyword is already in use
 # ('Duplicate' is an adjective)

@@ -47,3 +47,6 @@ experimental-features-link-previews-description-no-ai =
         [macos] Zo byšće wjace wo webstronje zhonił, prjedy hač klikaće, stajće kursor myški nad wotkaz a tłóčće Umsch (⇧) + option (⌥) abo Alt. Přehlady móža podrobnosće kaž titul a čitanski čas wobsahować. <a data-l10n-name="connect">Zdźělće nam swoje měnjenje</a>
        *[other] Zo byšće wjace wo webstronje zhonił, prjedy hač klikaće, stajće kursor myški nad wotkaz a tłóčće Umsch (⇧) + Alt. Přehlady móža podrobnosće kaž titul a čitanski čas wobsahować. <a data-l10n-name="connect">Zdźělće nam swoje měnjenje</a>
     }
+# New Tab Sections with follow and block
+experimental-features-newtab-sections-follow-block =
+    .label = Temowe wotrězki a Slědować/Blokować za stawiznički strony Nowy rajtark

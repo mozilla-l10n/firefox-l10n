@@ -47,3 +47,7 @@ experimental-features-link-previews-description-no-ai =
         [macos] Aby wěcej wó webboku zgónił, nježli až klikaśo, stajśo kursor myški nad wótkaz a tłocćo Umsch (⇧) + option (⌥) abo Alt. Pśeglědy mógu drobnostki ako titel a cytański cas wopśimowaś. <a data-l10n-name="connect">Dajśo nam swójo měnjenje k wěsći</a>
        *[other] Aby wěcej wó webboku zgónił, nježli až klikaśo, stajśo kursor myški nad wótkaz a tłocćo Umsch (⇧) + Alt. Pśeglědy mógu drobnostki ako titel a cytański cas wopśimowaś. <a data-l10n-name="connect">Dajśo nam swójo měnjenje k wěsći</a>
     }
+# New Tab Sections with follow and block
+experimental-features-newtab-sections-follow-block =
+    .label = Temowe wótrězki a Slědowaś/Blokěrowaś za tšojeńka boka Nowy rejtarik
+experimental-features-newtab-sections-follow-block-description = Organizěrujśo tšojeńka na wašom boku Nowy rejtarik w temowych wótrězkach (sport, caroba, rozwjaselenje a wěcej) za wěcej strukturěrowane dožywjenje, kótarež dajo se lažko scannowaś. Wužywajśo našej wóźeńskej elementa Slědowaś a Blokěrowaś, aby pśiměrił, kótare wopśimjeśe wiźiśo. <a data-l10n-name="connect">Měnjenje źěliś</a>

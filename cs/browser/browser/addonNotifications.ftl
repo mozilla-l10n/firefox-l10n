@@ -103,6 +103,8 @@ addon-removal-abuse-report-checkbox =
         [with-cases] Nahlásit toto rozšíření { -vendor-short-name(case: "dat") }
        *[no-cases] Nahlásit toto rozšíření organizaci { -vendor-short-name }
     }
+# "it" refers to the local AI model that is paired to the AI feature
+addon-mlmodel-removal-body = Pokud používáte funkce nebo rozšíření, která používají tento model, budou znovu přidány.
 # Variables:
 #   $addonCount (Number): the number of add-ons being downloaded
 addon-downloading-and-verifying =
