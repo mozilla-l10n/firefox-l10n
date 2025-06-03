@@ -131,6 +131,8 @@ cert-error-untrusted-issuer = A { -brand-short-name } blokkolta az oldalt, mert 
 cert-error-untrusted-cert = A { -brand-short-name } blokkolta az oldalt, mert a(z) { $hostname } tanúsítványa nincs megbízhatónak jelölve.
 cert-error-invalid-integer-encoding = A { -brand-short-name } blokkolta az oldalt, mert a(z) { $hostname } érvénytelen egészszám-kódolást tartalmazó tanúsítványt mutatott be. Ezt gyakran negatív sorozatszámok, negatív RSA modulusok, és a szükségesnél hosszabb kódolások okozzák.
 cert-error-unsupported-keyalg = A { -brand-short-name } blokkolta az oldalt, mert a(z) { $hostname } tanúsítványának kulcstípusa nem támogatott.
+cert-error-issuer-no-longer-trusted = A { -brand-short-name } blokkolta az oldalt, mert a(z) { $hostname } tanúsítványának hitelesítésszolgáltatója már nem megbízható.
+cert-error-signature-algorithm-mismatch = A { -brand-short-name } blokkolta ezt az oldalt, mert a(z) { $hostname } számára megadott tanúsítvány aláírási algoritmusa nem egyezik meg az aláírásának algoritmus mezőjével.
 
 ## Messages used for certificate error titles
 
