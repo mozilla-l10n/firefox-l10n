@@ -47,3 +47,6 @@ experimental-features-link-previews-description-no-ai =
         [macos] 要在點擊連結前就先了解網頁內容，請將滑鼠游標移到該鏈結上，按下 Shift (⇧) + Option (⌥) 或 Alt。預覽資訊可能會包含標題、閱讀時間長度等等。<a data-l10n-name="connect">提供意見回饋</a>
        *[other] 要在點擊連結前就先了解網頁內容，請將滑鼠游標移到該鏈結上，按下 Shift + Alt。預覽資訊可能會包含標題、閱讀時間長度等等。<a data-l10n-name="connect">提供意見回饋</a>
     }
+# New Tab Sections with follow and block
+experimental-features-newtab-sections-follow-block =
+    .label = 主題區段與關注/封鎖新分頁文章
