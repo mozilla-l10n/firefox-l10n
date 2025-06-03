@@ -47,3 +47,7 @@ experimental-features-link-previews-description-no-ai =
         [macos] Ha többet szeretne megtudni a webhelyről, még mielőtt kattintana, vigye az egeret a hivatkozás fölé, és nyomja meg a Shift (⇧) + Option (⌥) vagy Alt billentyűkombinációt. Az előnézetek olyan részleteket tartalmazhatnak, mint a cím és az olvasási idő. <a data-l10n-name="connect">Visszajelzés megosztása</a>
        *[other] Ha többet szeretne megtudni a webhelyről, még mielőtt kattintana, vigye az egeret a hivatkozás fölé, és nyomja meg a Shift + Alt billentyűkombinációt. Az előnézetek olyan részleteket tartalmazhatnak, mint a cím és az olvasási idő. <a data-l10n-name="connect">Visszajelzés megosztása</a>
     }
+# New Tab Sections with follow and block
+experimental-features-newtab-sections-follow-block =
+    .label = Témaszakaszok és követés/blokkolás az Új lap oldal történeteihez
+experimental-features-newtab-sections-follow-block-description = Szervezze a történeteket az Új lap oldalon témacsoportokba (Sport, Étel, Szórakozás és egyebek) a strukturáltabb és könnyen áttekinthető élmény érdekében. Használja az új Követés és Blokkolás vezérlőket a látott tartalmak testreszabásához. <a data-l10n-name="connect">Visszajelzés megosztása</a>

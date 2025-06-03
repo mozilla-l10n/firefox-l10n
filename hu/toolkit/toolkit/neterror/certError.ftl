@@ -117,6 +117,9 @@ fp-learn-more-about-time-related-errors = Tudjon meg többet az idővel kapcsola
 ## Variables:
 ##   $hostname (string) - Hostname of the website with cert error.
 
+cert-error-revoked-certificate = A { -brand-short-name } blokkolta az oldalt, mert a(z) { $hostname } tanúsítványát visszavonták, és már nem megbízható.
+cert-error-bad-signature = A { -brand-short-name } blokkolta az oldalt, mert a(z) { $hostname } tanúsítványának aláírása nem érvényes.
+cert-error-key-pinning-failure = A { -brand-short-name } blokkolta az oldal felkeresését, mert a(z) { $hostname } számára megadott tanúsítvány a várttól eltérő nyilvános kulcsot használ.
 
 ## Messages used for certificate error titles
 

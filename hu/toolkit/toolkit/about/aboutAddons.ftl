@@ -581,6 +581,7 @@ addon-category-mlmodel = Eszközön lévő MI
 addon-category-mlmodel-title =
     .title = Eszközön lévő MI
 mlmodel-heading = Eszközön lévő MI modellek kezelése
+mlmodel-description = A { -brand-short-name } egyes funkciói és kiegészítői helyben működő MI modelleket használnak. Ez a megoldás védi a magánszféráját, és számos esetben nagyobb teljesítményt eredményez. <a data-l10n-name="learn-more">További tudnivalók</a>
 # Label for button that when clicked removed local model
 mlmodel-remove-addon-button =
     .aria-label = Eltávolítás
@@ -591,3 +592,5 @@ mlmodel-addon-detail-last-used-label = Legutóbbi használat
 mlmodel-addon-detail-used-by-label = Használja:
 # This is a section label to describe the link to the model card on the Hugging Face website
 mlmodel-addon-detail-model-card = Modellkártya
+# This is a label for the Model Card link to Hugging face
+mlmodel-addon-detail-model-card-link-label = Megtekintés a Hugging Face-en

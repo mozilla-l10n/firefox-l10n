@@ -105,6 +105,8 @@ sidebar-history-context-menu-delete-page-2 =
     .label = Oldal törlése az előzményekből
 sidebar-history-context-menu-bookmark-page =
     .label = Lap könyvjelzőzése…
+sidebar-history-context-menu-delete-pages =
+    .label = Oldalak törlése az előzményekből
 
 ## Labels for sidebar menu items.
 
