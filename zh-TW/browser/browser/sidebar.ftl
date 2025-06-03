@@ -105,6 +105,8 @@ sidebar-history-context-menu-delete-page-2 =
     .label = 從瀏覽紀錄刪除頁面
 sidebar-history-context-menu-bookmark-page =
     .label = 將頁面加入書籤…
+sidebar-history-context-menu-delete-pages =
+    .label = 從瀏覽紀錄刪除頁面
 
 ## Labels for sidebar menu items.
 
