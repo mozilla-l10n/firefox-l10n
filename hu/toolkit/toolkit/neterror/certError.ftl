@@ -120,6 +120,9 @@ fp-learn-more-about-time-related-errors = Tudjon meg többet az idővel kapcsola
 cert-error-revoked-certificate = A { -brand-short-name } blokkolta az oldalt, mert a(z) { $hostname } tanúsítványát visszavonták, és már nem megbízható.
 cert-error-bad-signature = A { -brand-short-name } blokkolta az oldalt, mert a(z) { $hostname } tanúsítványának aláírása nem érvényes.
 cert-error-key-pinning-failure = A { -brand-short-name } blokkolta az oldal felkeresését, mert a(z) { $hostname } számára megadott tanúsítvány a várttól eltérő nyilvános kulcsot használ.
+cert-error-bad-der = A { -brand-short-name } blokkolta az oldalt, mert a(z) { $hostname } tanúsítványa nem megfelelően van kódolva.
+cert-error-cert-not-in-name-space = A { -brand-short-name } blokkolta az oldalt, mert a(z) { $hostname } számára megadott tanúsítvány nem követi az azt kibocsátó tanúsítvány névkorlátozásait.
+cert-error-inadequate-cert-type = A { -brand-short-name } blokkolta az oldal felkeresését, mert a(z) { $hostname } számára megadott tanúsítvány nem engedélyezi, hogy webkiszolgáló használja.
 
 ## Messages used for certificate error titles
 
