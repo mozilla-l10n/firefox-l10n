@@ -44,6 +44,12 @@ appmenu-addon-private-browsing-installed2 =
     .buttonlabel = ਠੀਕ ਹੈ
     .buttonaccesskey = O
 appmenu-addon-post-install-message3 = ਐਪਲੀਕੇਸ਼ਨ ਮੇਨੂ ਰਾਹੀਂ ਆਪਣੀਆਂ ਐਡ-ਆਨ ਤੇ ਥੀਮ ਦਾ ਇੰਤਜ਼ਾਮ ਕਰੋ।
+# This string is used in the confirmation popup displayed after an extension
+# has been installed, when the data collection feature is enabled.
+appmenu-addon-post-install-message-with-data-collection = ਇਜਾਜ਼ਤਾਂ ਅਤੇ ਡਾਟਾ ਪਸੰਦਾਂ ਨੂੰ ਕਿਸੇ ਵੀ ਸਮੇਂ <a data-l10n-name="settings-link">ਇਕਸਟੈਨਸ਼ਨ ਸੈਟਿੰਗਾਂ</a> ਵਿੱਚ ਅੱਪਡੇਟ ਕੀਤਾ ਜਾ ਸਕਦਾ ਹੈ।
+appmenu-addon-post-install-pin-toolbarbutton-checkbox =
+    .label = ਇਕਸਟੈਨਸ਼ਨ ਨੂੰ ਟੂਲਬਾਰ ਵਿੱਚ ਟੰਗੋ
+    .accesskey = P
 appmenu-addon-post-install-incognito-checkbox =
     .label = ਇਸ ਇਕਸਟੈਨਸ਼ਨ ਨੂੰ ਪ੍ਰਾਈਵੇਟ ਵਿੰਡੋਜ਼ ਵਿੱਚ ਚੱਲਣ ਦੀ ਇਜਾਜ਼ਤ ਦਿਓ
     .accesskey = A

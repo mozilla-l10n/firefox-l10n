@@ -145,7 +145,7 @@ webrtc-indicator-menuitem-sharing-browser-with-n-tabs =
 ## Variables:
 ##   $origin (String): the website origin (e.g. www.mozilla.org).
 
-webrtc-allow-share-audio-capture = Dopustiti stranici { $origin } slušanje zvuka ove kartice?
+webrtc-allow-share-audio-capture = Dopustiti stranici { $origin } da sluša zvukove ove kartice?
 webrtc-allow-share-camera = Dopustiti stranici { $origin } korištenje tvoje kamere?
 webrtc-allow-share-microphone = Dopustiti stranici { $origin } korištenje tvojeg mikrofona?
 webrtc-allow-share-screen = Dozvoliti stranici { $origin } da vidi tvoj ekran?
