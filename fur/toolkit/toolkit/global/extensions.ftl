@@ -18,9 +18,22 @@ webext-perms-sideload-header = { $extension } zontât
 webext-perms-optional-perms-header2 = { $extension } al domande permès in plui
 webext-perms-optional-perms-header = { $extension } al domande permès adizionâi.
 webext-perms-header2 = Zonte { $extension }
+webext-perms-list-intro-unsigned = Cheste estension che no je stade verificade, e podarès meti a risi la tô riservatece o comprometi il to dispositîf. Zontile nome se tu ti fidis de sô origjin.
 
 ## Headers used in the webextension permissions dialog, inside the content.
 
+webext-perms-header-required-perms = Permès obligatoris:
+webext-perms-header-optional-settings = Impostazions facoltativis:
+webext-perms-header-update-required-perms = Gnûfs permès obligatoris:
+webext-perms-header-optional-required-perms = Gnûfs permès:
+webext-perms-header-data-collection-perms = Racuelte dâts obligatorie:
+webext-perms-header-data-collection-is-none = Racuelte dâts:
+# This is a header used in the add-ons "update" prompt, shown when the new
+# version requires new data collection permissions.
+webext-perms-header-update-data-collection-perms = Gnove racuelte dâts obligatorie:
+# This is a header used in the add-ons "optional" prompt, shown when the
+# extension requests new data collection permissions programmatically.
+webext-perms-header-optional-data-collection-perms = Gnove racuelte dâts:
 
 ##
 
