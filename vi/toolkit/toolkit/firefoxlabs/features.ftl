@@ -47,3 +47,7 @@ experimental-features-link-previews-description-no-ai =
         [macos] Để tìm hiểu thêm về một trang web trước khi bạn nhấp, hãy di chuột qua một liên kết và nhấn Shift (⇧) + Option (⌥) hoặc Alt. Bản xem trước có thể bao gồm các chi tiết như tiêu đề và thời gian đọc. <a data-l10n-name="connect">Chia sẻ phản hồi</a>
        *[other] Để tìm hiểu thêm về một trang web trước khi bạn nhấp, hãy di chuột qua một liên kết và nhấn Shift + Alt. Bản xem trước có thể bao gồm các chi tiết như tiêu đề và thời gian đọc. <a data-l10n-name="connect">Chia sẻ phản hồi</a>
     }
+# New Tab Sections with follow and block
+experimental-features-newtab-sections-follow-block =
+    .label = Phần chủ đề và Theo dõi/Chặn cho Câu chuyện trên thẻ mới
+experimental-features-newtab-sections-follow-block-description = Sắp xếp các câu chuyện trên trang Thẻ mới của bạn thành các phần chủ đề (thể thao, thực phẩm, giải trí và nhiều hơn nữa) để có trải nghiệm có cấu trúc hơn và dễ quét hơn. Sử dụng các tuỳ chọn Theo dõi và Chặn của chúng tôi để tùy chỉnh nội dung bạn thấy. <a data-l10n-name="connect">Chia sẻ phản hồi</a>
