@@ -51,3 +51,4 @@ experimental-features-link-previews-description-no-ai =
 experimental-features-newtab-sections-follow-block =
     .label = Sezioni per argomento e funzioni Segui/Blocca per le storie nella pagina Nuova scheda
 experimental-features-newtab-sections-follow-block-description = Organizza le storie nella pagina Nuova scheda in sezioni tematiche (sport, alimentazione, intrattenimento e altro) per un’esperienza più strutturata e leggibile. Utilizza i nuovi controlli Segui e Blocca per personalizzare i contenuti da visualizzare. <a data-l10n-name="connect">Condividi la tua opinione</a>
+
