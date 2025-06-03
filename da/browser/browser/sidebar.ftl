@@ -105,6 +105,8 @@ sidebar-history-context-menu-delete-page-2 =
     .label = Slet side fra historik
 sidebar-history-context-menu-bookmark-page =
     .label = Bogmærk side…
+sidebar-history-context-menu-delete-pages =
+    .label = Slet sider fra historik
 
 ## Labels for sidebar menu items.
 
