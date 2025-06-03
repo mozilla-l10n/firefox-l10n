@@ -125,6 +125,10 @@ cert-error-cert-not-in-name-space = A { -brand-short-name } blokkolta az oldalt,
 cert-error-inadequate-cert-type = A { -brand-short-name } blokkolta az oldal felkeresését, mert a(z) { $hostname } számára megadott tanúsítvány nem engedélyezi, hogy webkiszolgáló használja.
 cert-error-path-len-constraint-invalid = A { -brand-short-name } blokkolta az oldal felkeresését, mert a(z) { $hostname } számára megadott tanúsítvány túl sok közbülső tanúsítványt tartalmaz a gyökértanúsítvány útvonalában.
 cert-error-invalid-key = A { -brand-short-name } blokkolta az oldal felkeresését, mert a(z) { $hostname } számára megadott tanúsítvány kulcsa érvénytelen. Valószínűleg túl kicsi ahhoz, hogy biztonságos legyen.
+cert-error-unknown-critical-extension = A { -brand-short-name } blokkolta az oldalt, mert a(z) { $hostname } tanúsítványkibocsátója nem támogatott kritikus kiegészítést tartalmaz.
+cert-error-extension-value-invalid = A { -brand-short-name } blokkolta az oldalt, mert a(z) { $hostname } tanúsítványkibocsátója érvénytelen kiegészítést tartalmaz.
+cert-error-untrusted-issuer = A { -brand-short-name } blokkolta az oldalt, mert a(z) { $hostname } tanúsítványát olyan kibocsátó állította ki, amelyik már nem megbízható.
+cert-error-untrusted-cert = A { -brand-short-name } blokkolta az oldalt, mert a(z) { $hostname } tanúsítványa nincs megbízhatónak jelölve.
 
 ## Messages used for certificate error titles
 
