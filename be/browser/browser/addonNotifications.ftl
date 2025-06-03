@@ -81,6 +81,8 @@ addon-removal-title = Выдаліць { $name }?
 addon-removal-message = Выдаліць { $name } з { -brand-shorter-name }?
 addon-removal-button = Выдаліць
 addon-removal-abuse-report-checkbox = Паведаміць пра гэта пашырэнне ў { -vendor-short-name }
+# "it" refers to the local AI model that is paired to the AI feature
+addon-mlmodel-removal-body = Калі вы карыстаецеся функцыямі або пашырэннямі, якія выкарыстоўваюць гэту мадэль, яна будзе дададзена зноў.
 # Variables:
 #   $addonCount (Number): the number of add-ons being downloaded
 addon-downloading-and-verifying =

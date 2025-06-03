@@ -105,6 +105,8 @@ sidebar-history-context-menu-delete-page-2 =
     .label = Xóa trang từ lịch sử
 sidebar-history-context-menu-bookmark-page =
     .label = Đánh dấu trang…
+sidebar-history-context-menu-delete-pages =
+    .label = Xóa trang khỏi lịch sử
 
 ## Labels for sidebar menu items.
 
