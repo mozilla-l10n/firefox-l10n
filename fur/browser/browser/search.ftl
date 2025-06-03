@@ -63,6 +63,7 @@ add-engine-url2 = URL cun %s al puest dal tiermin di cirî
 add-engine-keyword2 = Peraule clâf (facoltative)
 # POST and GET refer to the HTTP methods.
 add-engine-post-data = Dâts POST cun %s al puest dal tiermin di cirî (lasse vueit par GET)
+add-engine-suggest-url = URL pai sugjeriments cun %s al puest dal tiermin di cirî (facoltatîf)
 add-engine-keyword = Peraule clâf
 add-engine-url = URL dal motôr, dopre %s al puest dal tiermin di cirî
 add-engine-dialog =
@@ -73,9 +74,37 @@ engine-keyword-exists = Al esist bielzà un motôr di ricercje cun chê peraule 
 
 ## The following placeholders are shown in the inputs when adding a new engine.
 
+add-engine-name-placeholder =
+    .placeholder = p.e. Mozilla Developer Network
+add-engine-url-placeholder =
+    .placeholder = p.e. https://developer.mozilla.com/search?q=%s
+add-engine-keyword-placeholder =
+    .placeholder = p.e. @mdn
 
 ## The following strings are used as error messages.
 
+add-engine-keyword-exists = Cheste peraule clâf e je za doprade. Prove cuntune altre.
+add-engine-name-exists = Chest non al è za doprât. Sielç un altri non.
+add-engine-no-name = Zonte un non.
+add-engine-no-url = Par plasê inserìs un URL.
+add-engine-invalid-url = Chest URL nol somee just. Controlilu e torne prove.
+add-engine-invalid-protocol = Chest URL nol somee just. Dopre un URL che al scomence par http o https.
+# This error is shown when the user typed URL is missing %s.
+add-engine-missing-terms-url = Prove a includi %s al puest dal tiermin di cirî.
+# This error is shown when the user typed post data is missing %s.
+add-engine-missing-terms-post-data = Prove a includi %s al puest dal tiermin di cirî.
 
 ## The following strings are used as labels for the dialog's buttons.
 
+# buttonlabelextra1 is the label of a button to open the advanced section
+# of the dialog.
+add-engine-dialog2 =
+    .buttonlabelaccept = Zonte motôr
+    .buttonaccesskeyaccept = Z
+    .buttonlabelextra1 = Avanzât
+# buttonlabelextra1 is the label of a button to open the advanced section
+# of the dialog.
+edit-engine-dialog =
+    .buttonlabelaccept = Salve motôr
+    .buttonaccesskeyaccept = S
+    .buttonlabelextra1 = Avanzât

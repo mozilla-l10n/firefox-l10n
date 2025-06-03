@@ -133,3 +133,11 @@ tab-context-send-tabs-to-device =
            *[other] Mande { $tabCount } schedis al dispositîf
         }
     .accesskey = n
+tab-context-unload-n-tabs =
+    .label =
+        { $tabCount ->
+            [1] Discjame schede
+            [one] Discjame schede
+           *[other] Discjame { $tabCount } schedis
+        }
+    .accesskey = D

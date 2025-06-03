@@ -27,6 +27,15 @@ sidebar-history-delete =
     .title = Elimine de cronologjie
 sidebar-history-clear =
     .label = Nete la cronologjie
+sidebar-history-sort-by-heading = Ordene par:
+sidebar-history-sort-option-date =
+    .label = Date
+sidebar-history-sort-option-site =
+    .label = Sît
+sidebar-history-sort-option-date-and-site =
+    .label = Date e sît
+sidebar-history-sort-option-last-visited =
+    .label = Ultime visite
 
 ## Labels for sidebar search
 
@@ -65,10 +74,16 @@ sidebar-context-menu-remove-extension =
     .label = Gjave estension
 sidebar-context-menu-report-extension =
     .label = Segnale estension
+sidebar-context-menu-open-in-tab =
+    .label = Vierç intune gnove schede
+sidebar-context-menu-open-in-container-tab =
+    .label = Vierç intune gnove schede contignidôr
 sidebar-context-menu-open-in-window =
     .label = Vierç intun gnûf barcon
 sidebar-context-menu-open-in-private-window =
     .label = Vierç intun gnûf barcon privât
+sidebar-context-menu-forget-site =
+    .label = Nete vie ducj i dâts pal sît web…
 sidebar-context-menu-bookmark-tab =
     .label = Zonte schede tai segnelibris…
 sidebar-context-menu-copy-link =
@@ -86,6 +101,12 @@ sidebar-context-menu-close-remote-tab =
 
 ## Labels for sidebar history context menu items
 
+sidebar-history-context-menu-delete-page-2 =
+    .label = Elimine pagjine de cronologjie
+sidebar-history-context-menu-bookmark-page =
+    .label = Zonte pagjine tai segnelibris…
+sidebar-history-context-menu-delete-pages =
+    .label = Elimine pagjinis de cronologjie
 
 ## Labels for sidebar menu items.
 
