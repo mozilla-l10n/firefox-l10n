@@ -49,5 +49,5 @@ experimental-features-link-previews-description-no-ai =
     }
 # New Tab Sections with follow and block
 experimental-features-newtab-sections-follow-block =
-    .label = Ämnesektioner och följ/blockera berättelser om nya flikar
-experimental-features-newtab-sections-follow-block-description = Ordna berättelserna på din ny fliksida i ämnessektioner (Sport, Mat, Underhållning och mer) för en mer strukturerad och lättskannad upplevelse. Använd våra nya följ- och blockeringskontroller för att anpassa vilket innehåll du ser. <a data-l10n-name="connect">Dela feedback</a>
+    .label = Ämnesektioner och följ/blockera för berättelser på nya flikar
+experimental-features-newtab-sections-follow-block-description = Organisera berättelser på sidan Ny flik i ämnesavsnitt (Sport, Mat, Underhållning med mera) för en mer strukturerad och lättläst upplevelse. Använd våra nya kontroller för att följa och blockera för att anpassa vilket innehåll du ser. <a data-l10n-name="connect">Dela feedback</a>
