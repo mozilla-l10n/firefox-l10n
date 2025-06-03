@@ -127,6 +127,7 @@ cert-error-unknown-critical-extension = { $hostname } için sağlanan sertifika 
 cert-error-extension-value-invalid = { $hostname } için sağlanan sertifika geçersiz bir uzantı içerdiğinden { -brand-short-name } bu siteyi ziyaret etmenizi engelledi.
 cert-error-untrusted-issuer = { $hostname } için sağlanan sertifika artık güvenilmeyen bir sertifika makamı tarafından verildiği için { -brand-short-name } bu siteyi ziyaret etmenizi engelledi.
 cert-error-untrusted-cert = { $hostname } için sağlanan sertifika güvenilmez olarak işaretlendiği için { -brand-short-name } bu siteyi ziyaret etmenizi engelledi.
+cert-error-invalid-integer-encoding = { $hostname } için sağlanan sertifika geçersiz bir tamsayı kodlaması içerdiğinden { -brand-short-name } bu siteyi ziyaret etmenizi engelledi. Bunun sebepleri arasında negatif seri numaraları, negatif RSA modülleri ve gereğinden daha uzun kodlamalar olabilir.
 cert-error-unsupported-keyalg = { $hostname } için sağlanan sertifika desteklenmeyen bir anahtar türüne sahip olduğu için { -brand-short-name } bu siteye ziyaret etmenizi engelledi.
 cert-error-issuer-no-longer-trusted = { $hostname } için sağlanan sertifikayı yayımlayan sertifika makamına artık güvenilmediği için { -brand-short-name } bu siteyi ziyaret etmenizi engelledi.
 cert-error-signature-algorithm-mismatch = { $hostname } için sağlanan sertifikanın imza algoritması sitenin imza algoritması alanıyla eşleşmediği için { -brand-short-name } bu siteyi ziyaret etmenizi engelledi.

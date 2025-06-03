@@ -105,6 +105,8 @@ sidebar-history-context-menu-delete-page-2 =
     .label = Sayfayı geçmişten sil
 sidebar-history-context-menu-bookmark-page =
     .label = Yer imlerine ekle…
+sidebar-history-context-menu-delete-pages =
+    .label = Sayfaları geçmişten sil
 
 ## Labels for sidebar menu items.
 
