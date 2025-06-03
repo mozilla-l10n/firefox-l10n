@@ -46,6 +46,28 @@ webext-perms-extra-warning-userScripts-short = I scripts no verificâts a puedin
 ##
 ## This is used when the data collection permissions are required.
 
+webext-perms-description-data-short-browsingActivity = ativitât di navigazion
+webext-perms-description-data-short-financialAndPaymentInfo = informazions finanziariis e di paiament
+webext-perms-description-data-short-healthInfo = informazions su la salût
+webext-perms-description-data-short-locationInfo = posizion
+webext-perms-description-data-short-personalCommunications = comunicazions personâls
+webext-perms-description-data-short-personallyIdentifyingInfo = informazions di identificazion personâl
+webext-perms-description-data-short-searchTerms = tiermins di ricercje
+webext-perms-description-data-short-technicalAndInteraction = dâts tecnics e di interazion
+webext-perms-description-data-short-websiteActivity = ativitât tai sîts web
+webext-perms-description-data-short-websiteContent = contignût dai sîts web
 
 ## Long form to be used in `about:addons` when these data collection permissions are optional.
 
+webext-perms-description-data-long-authenticationInfo = Condivît informazions di autenticazion cul svilupadôr de estension
+webext-perms-description-data-long-bookmarksInfo = Condivît informazions sui segnelibris cul svilupadôr de estension
+webext-perms-description-data-long-browsingActivity = Condivît ativitâts di navigazion cul svilupadôr de estension
+webext-perms-description-data-long-financialAndPaymentInfo = Condivît informazions finanziariis e sui metodis di paiament cul svilupadôr de estension
+webext-perms-description-data-long-healthInfo = Condivît informazions su la salût cul svilupadôr de estension
+webext-perms-description-data-long-locationInfo = Condivît informazions su la posizion cul svilupadôr de estension
+webext-perms-description-data-long-personalCommunications = Condivît comunicazions personâls cul svilupadôr de estension
+webext-perms-description-data-long-personallyIdentifyingInfo = Condivît informazions di identificazion personâl cul svilupadôr de estension
+webext-perms-description-data-long-searchTerms = Condivît tiermins di ricercje cul svilupadôr de estension
+webext-perms-description-data-long-technicalAndInteraction = Condivît i dâts tecnics e di interazion cul svilupadôr de estension
+webext-perms-description-data-long-websiteActivity = Condivît ativitâts tai sîts web cul svilupadôr de estension
+webext-perms-description-data-long-websiteContent = Condivît contignût dai sîts web cul svilupadôr de estension

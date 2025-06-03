@@ -15,7 +15,9 @@ webext-perms-header-with-perms = Zontâ { $extension }? Cheste estension e varà
 webext-perms-header-unsigned = Zontâ { $extension }? Cheste estension no je verificade. Lis estensions malevulis a puedin robâ lis tôs informazions privadis o comprometi il computer. Zontile dome se tu sês sigûr de sô origjin.
 webext-perms-header-unsigned-with-perms = Zontâ { $extension }? Cheste estension no je verificade. Lis estensions malevulis a puedin robâ lis tôs informazions privadis o comprometi il computer. Zontile dome se tu sês sigûr de sô origjin. Cheste estension e varà i permès par:
 webext-perms-sideload-header = { $extension } zontât
+webext-perms-optional-perms-header2 = { $extension } al domande permès in plui
 webext-perms-optional-perms-header = { $extension } al domande permès adizionâi.
+webext-perms-header2 = Zonte { $extension }
 
 ## Headers used in the webextension permissions dialog, inside the content.
 
