@@ -20,6 +20,12 @@ webext-perms-header2 = { $extension } ਨੂੰ ਜੋੜੋ
 
 ## Headers used in the webextension permissions dialog, inside the content.
 
+webext-perms-header-required-perms = ਚਾਹੀਦੀਆਂ ਇਜਾਜ਼ਤਾਂ:
+webext-perms-header-optional-settings = ਚੋਣਵੀਆਂ ਸੈਟਿੰਗਾਂ:
+webext-perms-header-update-required-perms = ਨਵੀਆਂ ਚਾਹੀਦੀਆਂ ਇਜਾਜ਼ਤਾਂ:
+webext-perms-header-optional-required-perms = ਨਵੀਆਂ ਇਜਾਜ਼ਤਾਂ:
+webext-perms-header-data-collection-perms = ਲੋੜੀਂਦੀ ਡਾਟਾ ਇਕੱਤਰਤਾ:
+webext-perms-header-data-collection-is-none = ਡਾਟਾ ਇਕੱਤਰਤਾ:
 
 ##
 
