@@ -123,6 +123,8 @@ cert-error-key-pinning-failure = A { -brand-short-name } blokkolta az oldal felk
 cert-error-bad-der = A { -brand-short-name } blokkolta az oldalt, mert a(z) { $hostname } tanúsítványa nem megfelelően van kódolva.
 cert-error-cert-not-in-name-space = A { -brand-short-name } blokkolta az oldalt, mert a(z) { $hostname } számára megadott tanúsítvány nem követi az azt kibocsátó tanúsítvány névkorlátozásait.
 cert-error-inadequate-cert-type = A { -brand-short-name } blokkolta az oldal felkeresését, mert a(z) { $hostname } számára megadott tanúsítvány nem engedélyezi, hogy webkiszolgáló használja.
+cert-error-path-len-constraint-invalid = A { -brand-short-name } blokkolta az oldal felkeresését, mert a(z) { $hostname } számára megadott tanúsítvány túl sok közbülső tanúsítványt tartalmaz a gyökértanúsítvány útvonalában.
+cert-error-invalid-key = A { -brand-short-name } blokkolta az oldal felkeresését, mert a(z) { $hostname } számára megadott tanúsítvány kulcsa érvénytelen. Valószínűleg túl kicsi ahhoz, hogy biztonságos legyen.
 
 ## Messages used for certificate error titles
 
