@@ -16,6 +16,11 @@ report-broken-site-panel-reason-label = Co je nefunkční?
 report-broken-site-panel-reason-optional-label = Co je nefunkční? (volitelné)
 report-broken-site-panel-reason-choose =
     .label = Vyberte důvod
+report-broken-site-panel-reason-load =
+    .label = Stránka se nenačítá
+# These terms are referring to ecommerce websites
+report-broken-site-panel-reason-checkout =
+    .label = Nelze zaplatit nebo nakupovat
 report-broken-site-panel-reason-slow2 =
     .label = Stránka je pomalá
 report-broken-site-panel-reason-media2 =

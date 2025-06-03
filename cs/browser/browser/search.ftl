@@ -92,9 +92,26 @@ engine-keyword-exists = Vyhledávač s tímto klíčovým slovem již existuje
 
 ## The following placeholders are shown in the inputs when adding a new engine.
 
+add-engine-url-placeholder =
+    .placeholder = např. https://developer.mozilla.com/search?q=%s
+add-engine-keyword-placeholder =
+    .placeholder = např. @mdn
 
 ## The following strings are used as error messages.
 
+add-engine-no-name = Zadejte prosím jméno.
 
 ## The following strings are used as labels for the dialog's buttons.
 
+# buttonlabelextra1 is the label of a button to open the advanced section
+# of the dialog.
+add-engine-dialog2 =
+    .buttonlabelaccept = Přidat vyhledávač
+    .buttonaccesskeyaccept = P
+    .buttonlabelextra1 = Pokročilé
+# buttonlabelextra1 is the label of a button to open the advanced section
+# of the dialog.
+edit-engine-dialog =
+    .buttonlabelaccept = Uložit vyhledávač
+    .buttonaccesskeyaccept = U
+    .buttonlabelextra1 = Pokročilé
