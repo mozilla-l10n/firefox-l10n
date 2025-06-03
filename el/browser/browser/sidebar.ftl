@@ -105,6 +105,8 @@ sidebar-history-context-menu-delete-page-2 =
     .label = Διαγραφή σελίδας από το ιστορικό
 sidebar-history-context-menu-bookmark-page =
     .label = Προσθήκη σελιδοδείκτη…
+sidebar-history-context-menu-delete-pages =
+    .label = Διαγραφή σελίδων από το ιστορικό
 
 ## Labels for sidebar menu items.
 
