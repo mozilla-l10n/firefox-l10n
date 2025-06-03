@@ -51,3 +51,4 @@ crashreporter-error-no-home-dir = 缺少主目录
 # $to (String) - the destination path
 crashreporter-error-moving-path = 将 { $from } 移动到 { $to } 时失败
 crashreporter-error-version-eol = 版本生命周期已结束，不再接受崩溃报告。
+crashreporter-error-failed-to-generate-minidump = 应用程序未能生成崩溃信息。

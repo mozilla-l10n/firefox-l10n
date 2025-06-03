@@ -80,8 +80,16 @@ add-engine-keyword-placeholder =
 
 ## The following strings are used as error messages.
 
+add-engine-keyword-exists = 此关键词已被占用，请尝试使用其他关键词。
+add-engine-name-exists = 此名称已被占用，请选择其他名称。
 add-engine-no-name = 请添加名称。
 add-engine-no-url = 请输入网址。
+add-engine-invalid-url = 此网址似乎有误，请检查后重试。
+add-engine-invalid-protocol = 此网址似乎有误，请使用以 http 或 https 开头的网址。
+# This error is shown when the user typed URL is missing %s.
+add-engine-missing-terms-url = 请尝试用 %s 代替搜索词。
+# This error is shown when the user typed post data is missing %s.
+add-engine-missing-terms-post-data = 请尝试用 %s 代替搜索词。
 
 ## The following strings are used as labels for the dialog's buttons.
 

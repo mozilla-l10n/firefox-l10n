@@ -727,6 +727,10 @@ search-keyword-warning-title = 关键词重复
 #   $name (string) - Name of a search engine.
 search-keyword-warning-engine = 您选择的关键词已用于“{ $name }”，请换一个。
 search-keyword-warning-bookmark = 您选择的关键词已用于某个书签，请换一个。
+# This warning is displayed when the chosen name is already in use.
+# Variables:
+#   $name (string) - Name of a search engine.
+edit-engine-name-warning-duplicate = 已有名为“{ $name }”的搜索引擎，请选择其他名称。
 remove-engine-confirmation = 您确定要移除此搜索引擎吗？
 remove-engine-remove = 移除
 remove-addon-engine-alert = 若要移除此搜索引擎，请先移除关联的附加组件。
