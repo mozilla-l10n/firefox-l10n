@@ -29,3 +29,5 @@ confirmation-hint-duplicate-tabs-closed =
         [one] Sierade { $tabCount } schede
        *[other] Sieradis { $tabCount } schedis
     }
+# Subtle notification shown when Extensions button moves into the application menu.
+confirmation-hint-extensions-button-hidden = Spostât sul menù

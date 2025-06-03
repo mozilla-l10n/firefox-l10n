@@ -62,12 +62,31 @@ split-dismiss-button-show-fewer-option =
 # Opens about:preferences#general-cfrfeatures
 split-dismiss-button-manage-settings-option =
     .label = Gjestìs impostazions
+# Accessibility label for dropdown menu button
+split-dismiss-button-default-label =
+    .title = Altris opzions
 
 ## Login Status Advisory Callout (points to the account icon)
 
+# The 'account icon' is the toolbar button with a 'profile' icon of a human
+# head/shoulders. It's for dealing with your Mozilla account. When hovering the
+# icon, the tooltip says 'Account'.
+login-status-advisory-title = Tu sês disconetût/disconetude. Fâs clic su la icone dal account par jentrâ.
 
 ## Bookmarks toolbar callout strings
 
+bookmarks-toolbar-callout-1-title = Zontâ chest sît ae sbare dai segnelibris?
+bookmarks-toolbar-callout-1-subtitle = Il segnelibri al vignarà salvât juste sot de sbare de direzion par vê un acès svelt al sît.
+bookmarks-toolbar-callout-1-primary-button-label = Zonte segnelibri
+bookmarks-toolbar-callout-1-secondary-button-label = No graciis
+# Visible if user adds a bookmark in callout 1, bookmarks toolbar is set to always show when this message renders
+bookmarks-toolbar-callout-2a-title = Zonte cun facilitât altris segnelibris
+bookmarks-toolbar-callout-2a-subtitle = Tu puedis strissinâ e molâ lis schedis achì par tignî sot man i tiei sîts preferîts.
+bookmarks-toolbar-callout-2a-primary-button-label = Capît
+# Reverts the bookmarks toolbar to the default setting
+bookmarks-toolbar-callout-2a-secondary-button-label = Plate sbare dai struments
+# Visible if user declines to add a bookmark in callout 1, bookmarks toolbar is set to always show when this message renders
+bookmarks-toolbar-callout-2b-title = Tignî vierte la sbare dai segnelibris?
 
 ## Perplexity callout strings
 

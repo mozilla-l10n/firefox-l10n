@@ -296,3 +296,10 @@ contextual-manager-passwords-discard-changes-heading-and-message =
     .message = Lis modifichis no vignaran salvadis.
 contextual-manager-passwords-discard-changes-close-button = Siere
 contextual-manager-passwords-discard-changes-go-back-button = Torne indaûr
+#   $total (number) - Total number of passwords
+contextual-manager-passwords-remove-all-passwords-checkbox =
+    { $total ->
+        [1] Sì, gjave la password
+        [one] Sì, gjave la password
+       *[other] Sì, gjave lis passwords
+    }

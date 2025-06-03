@@ -1204,6 +1204,11 @@ popup-notification-xpinstall-prompt-block-url = Viôt i detais
 popup-notification-addon-privatebrowsing-checkbox2 =
     .label = Permet ae estension di zirâ tai barcons privâts
     .accesskey = p
+# This string is similar to `webext-perms-description-data-long-technicalAndInteraction`
+# but it is used in the install prompt, and it needs an access key.
+popup-notification-addon-technical-and-interaction-checkbox =
+    .label = Condivît i dâts tecnics e di interazion cul svilupadôr de estension
+    .accesskey = s
 
 ## Pop-up warning
 
@@ -1257,3 +1262,4 @@ file-picker-crashed-show-in-folder =
 
 ## Onboarding Finish Setup checklist
 
+onboarding-checklist-button-label = Finìs la configurazion
