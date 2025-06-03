@@ -105,6 +105,8 @@ sidebar-history-context-menu-delete-page-2 =
     .label = Poista sivu historiasta
 sidebar-history-context-menu-bookmark-page =
     .label = Lisää sivu kirjanmerkkeihin…
+sidebar-history-context-menu-delete-pages =
+    .label = Poista sivut historiasta
 
 ## Labels for sidebar menu items.
 

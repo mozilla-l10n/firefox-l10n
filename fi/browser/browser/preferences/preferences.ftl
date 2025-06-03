@@ -651,6 +651,9 @@ home-prefs-weather-header =
     .label = Sää
 home-prefs-weather-description = Tämän päivän ennuste yhdellä vilkaisulla
 home-prefs-weather-learn-more-link = Lue lisää
+# "Support" here means to help sustain or contribute to something, especially through funding or sponsorship.
+home-prefs-support-firefox-header =
+    .label = Tue { -brand-product-name }ia
 home-prefs-mission-message = Sponsorimme tukevat tehtäväämme rakentaa parempaa Internetiä
 home-prefs-mission-message-learn-more-link = Lue lisää
 # Variables:
