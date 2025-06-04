@@ -589,3 +589,16 @@ addon-category-mlmodel = IA sul dispositîf
 addon-category-mlmodel-title =
     .title = IA sul dispositîf
 mlmodel-heading = Gjestìs i modei di IA sul dispositîf
+mlmodel-description = Cualchi funzion e estension di { -brand-short-name } e dopre modei di inteligjence artificiâl che a funzionin in locâl sul to dispositîf. Cheste metodiche e protêç la tô riservatece e in tancj câs e sveltìs lis prestazions. <a data-l10n-name="learn-more">Altris informazions</a>
+# Label for button that when clicked removed local model
+mlmodel-remove-addon-button =
+    .aria-label = Gjave
+# Label for the aggregated value of all files for a model
+mlmodel-addon-detail-totalsize-label = Dimension file
+mlmodel-addon-detail-last-used-label = Ultime doprade
+# This is a section label to describe what extensions or features use a specific local AI model
+mlmodel-addon-detail-used-by-label = Doprât di
+# This is a section label to describe the link to the model card on the Hugging Face website
+mlmodel-addon-detail-model-card = Schede model
+# This is a label for the Model Card link to Hugging face
+mlmodel-addon-detail-model-card-link-label = Viôt su Hugging Face

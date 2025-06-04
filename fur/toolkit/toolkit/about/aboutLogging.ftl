@@ -15,6 +15,8 @@ about-logging-set-log-file = Imposte file di regjistri
 about-logging-set-log-modules = Imposte modui di regjistri
 about-logging-start-logging = Comence regjistri
 about-logging-stop-logging = Ferme regjistri
+about-logging-copy-as-url = Copie lis impostazions atuâls tant che URL
+about-logging-url-copied = Impostazions di regjistrazion copiadis intes notis tant che URL prestabilît
 about-logging-buttons-disabled = Regjistrazion configurade midiant variabilis di ambient, configurazion dinamiche no disponibile.
 about-logging-some-elements-disabled = Regjistrazion configurade midiant URL, cualchi opzion di configurazion no je disponibile
 about-logging-info = Informazions:
@@ -27,6 +29,8 @@ about-logging-no-log-modules = Nissun
 about-logging-no-log-file = Nissun
 about-logging-logging-preset-selector-text = Pre-configurazion di regjistrazion:
 about-logging-with-profiler-stacks-checkbox = Ative analisi dal stack pai messaçs di regjistri
+about-logging-menu =
+    .title = Opzions avanzadis
 
 ## Logging presets
 
@@ -66,8 +70,30 @@ about-logging-unknown-profiler-preset = Pre-configurazion dal profiladôr “{ $
 about-logging-unknown-option = Opzion di about:logging “{ $k }“ no cognossude
 about-logging-configuration-url-ignored = URL di configurazion ignorât
 about-logging-file-and-profiler-override = Impussibil sfuarçâ il file di jessude e tal stes timp passâ parsore aes opzions dal profiladôr
+# Variables:
+#   $errorText (string) - The received error message, inserted as is.
+about-logging-unknown-error = Al è capitât un erôr: { $errorText }
 about-logging-configured-via-url = Opzion configurade midiant URL
 
 ## The upload interface is shown only with the preference toolkit.aboutLogging.uploadProfileToCloud
 ## set to true. It is false by default, except on Android.
 
+about-logging-upload-question = I dâts dal profîl a son stâts cjapâts sù. Desideristu salvâju o cjariâju?
+about-logging-save-button = Salve
+about-logging-upload-button = Cjame
+# Variables:
+#   $path (string) - The path where the profile can be found.
+about-logging-saved = Salvât in { $path }
+# Variables:
+#   $percent (number) - The upload completion progress, to be displayed as a percentage. This is a value between 0 and 1.
+about-logging-uploading-progress = Daûr a cjariâ in rêt i dâts dal profîl: { NUMBER($percent, maximumSignificantDigits: 2, style: "percent") }
+# Variables:
+#   $url (string) - The URL where the profile can be found
+about-logging-uploaded = Cjariât su <a data-l10n-name="uploaded-message-url">{ $url }</a>
+about-logging-share-uploaded-url = <img data-l10n-name="share-image"/> Condivît URL
+# Variables:
+#   $errorText (string) - The received error message, inserted as is.
+about-logging-upload-error = Al è capitât un erôr intant che al vignive cjariât in rêt il profîl: { $errorText }
+# Variables:
+#   $errorText (string) - The received error message, inserted as is.
+about-logging-save-error = Al è capitât un erôr intant che al vignive salvât il file: { $errorText }

@@ -46,6 +46,8 @@ webext-perms-extra-warning-userScripts-short = I scripts no verificâts a puedin
 ##
 ## This is used when the data collection permissions are required.
 
+webext-perms-description-data-short-authenticationInfo = informazions di autenticazion
+webext-perms-description-data-short-bookmarksInfo = segnelibris
 webext-perms-description-data-short-browsingActivity = ativitât di navigazion
 webext-perms-description-data-short-financialAndPaymentInfo = informazions finanziariis e di paiament
 webext-perms-description-data-short-healthInfo = informazions su la salût
