@@ -293,6 +293,8 @@ colorway-removal-notice-message =
         { -brand-product-name } al à inzornât la racuelte di tonalitâts. O vin gjavât
         lis versions vecjis de tô liste “Temis salvâts”. Oten lis gnovis versions sul
         sît dai components adizionâi.
+colorway-removal-notice-learn-more = Plui informazions
+colorway-removal-notice-button = Oten tonalitâts inzornadis
 privacy-policy = Politiche pe riservatece
 # Refers to the author of an add-on, shown below the name of the add-on.
 # Variables:
@@ -313,6 +315,16 @@ find-more-themes = Cjate plui temis
 # used for screen readers.
 addon-options-button =
     .aria-label = Plui opzions
+# Explanatory introduction to the list of recommended add-ons. The action word
+# ("recommends") in the final sentence is a link to external documentation.
+# We hard code "Firefox" because we do not want to imply that a Firefox fork is
+# making this recommendation.
+discopane-intro3 =
+    Estensions e temis ti permetin di personalizâ { -brand-product-name }. A puedin judâti a potenziâ la tô riservatece,
+    incressi la produtivitât, miorâ la esperience cui contignûts multimediâi, cambiâ l’aspiet di { -brand-product-name } e
+    tant altri. Chestis piçulis aplicazions software a son dispès svilupadis di tierçs. Chi
+    tu cjatis une selezion di elements <a data-l10n-name="learn-more-trigger">conseâts</a> di Firefox
+    par vê sigurece, prestazions e funzionalitâts ecezionâls.
 
 ## Add-on actions
 
@@ -446,6 +458,20 @@ addon-badge-verified2 =
 # by Mozilla and we don't want forks to display "by Fork".
 addon-badge-line4 =
     .title = Estension uficiâl realizade di Mozilla. E rispiete i standards di sigurece e prestazions
+# This string needs to work in the context of other forks that are not Firefox
+# or built by Mozilla. In particular, we do not want to imply that an
+# organisation other than Mozilla or the Firefox team are performing the
+# security or performance reviews. As such, we avoid personalising language
+# like the words "our" or "we".
+addon-badge-verified4 =
+    .title = Cheste estension e je stade verificade par garantî il rispiet dai standards di sigurece e des prestazions
+# This string needs to work in the context of other forks that are not Firefox
+# or built by Mozilla. In particular, we do not want to imply that an
+# organisation other than Mozilla or the Firefox team are making the
+# recommendation. As such, we hard code "Firefox" and avoid personalising
+# language like the words "our" or "we".
+addon-badge-recommended4 =
+    .title = Firefox al consee dome estensions che a sodisfin i standards di sigurece e di prestazion
 
 ##
 
@@ -542,6 +568,24 @@ plugins-widevine-description = Chest plugin al abilite la riproduzion di flus mu
 ## Headings for the Permissions tab in `about:addons` when the data collection
 ## feature is enabled.
 
+addon-permissions-required-data-collection = Racuelte di dâts obligatorie:
+addon-permissions-optional-data-collection = Racuelte dâts facoltative:
+# Name of the Permissions tab in `about:addons` when the data collection feature is enabled.
+permissions-data-addon-button = Permès e dâts
+# This is a description for extension that use this AI model
+# Variables:
+#   $extensionName (String) - Name of the extension
+mlmodel-extension-label = Doprât de estension { $extensionName }
 
 ## Mapping Engine IDs from AI models to how that feature represented by the engine Id is described in the used by section in local model management
 
+mlmodel-about-inference = { -brand-short-name } al dopre chest model in about:inference
+mlmodel-link-preview = { -brand-short-name } al dopre chest model par gjenerâ ponts clâf cuant che tu visualizis in anteprime i colegaments
+mlmodel-pdfjs = { -brand-short-name } al dopre chest model par creâ test alternatîf pes imagjis che tu zontis ai PDFs
+mlmodel-smart-tab-topic-engine = { -brand-short-name } al dopre chest model par sugjerî nons pai grups di schedis
+mlmodel-smart-tab-embedding-engine = { -brand-short-name } al dopre chest model par sugjerî schedis pai grups di schedis
+# AI Model will be downloaded on the users device and used locally
+addon-category-mlmodel = IA sul dispositîf
+addon-category-mlmodel-title =
+    .title = IA sul dispositîf
+mlmodel-heading = Gjestìs i modei di IA sul dispositîf
