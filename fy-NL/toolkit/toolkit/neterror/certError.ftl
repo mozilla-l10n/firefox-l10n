@@ -129,6 +129,10 @@ cert-error-unknown-critical-extension = { -brand-short-name } hat jo besite oan 
 cert-error-extension-value-invalid = { -brand-short-name } hat jo besite oan dizze website blokkearre, omdat it foar { $hostname } levere sertifikaat in ûnjildige ekstinsje befettet.
 cert-error-untrusted-issuer = { -brand-short-name } hat jo besite oan dizze website blokkearre, omdat it foar { $hostname } levere sertifikaat útjûn is troch in sertifikaatautoriteit dy’t net mear fertroud wurdt.
 cert-error-untrusted-cert = { -brand-short-name } hat jo besite oan dizze website blokkearre, omdat it foar { $hostname } levere sertifikaat as net fertroud markearre is.
+cert-error-invalid-integer-encoding = { -brand-short-name } hat jo besite oan dizze side blokkearre, omdat it foar { $hostname } levere sertifikaat in ûnjildige kodearring fan in hiel getal befettet. Gebrûklike oarsaken binne negative searjenûmers, negative RSA-moduli en kodearringen dy’t langer binne as nedich.
+cert-error-unsupported-keyalg = { -brand-short-name } hat jo besite oan dizze website blokkearre, omdat it foar { $hostname } levere sertifikaat in net-stipe kaaitype hat.
+cert-error-issuer-no-longer-trusted = { -brand-short-name } hat jo besite oan dizze website blokkearre, omdat de sertifikaatautoriteit dy’t it foar { $hostname } levere sertifikaat útjûn hat net mear fertroud wurdt.
+cert-error-signature-algorithm-mismatch = { -brand-short-name } hat jo besite oan dizze website blokkearre, omdat it ûndertekeningsalgoritme fan it foar { $hostname } levere sertifikaat net oerienkomt mei it fjild foar it ûndertekeningsalgoritme.
 
 ## Messages used for certificate error titles
 
