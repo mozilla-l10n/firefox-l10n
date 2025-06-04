@@ -286,6 +286,13 @@ discopane-notice-recommendations2 =
         Cualchidun di chescj conseis al è personalizât. A son basâts su lis altris
         estensions instaladis, preferencis dal profîl e statistichis di utilizazion.
 discopane-notice-learn-more = Plui informazions
+# Notice for the colorway theme removal
+colorway-removal-notice-message =
+    .heading = Lis tonalitâts a son stadis gjavadis.
+    .message =
+        { -brand-product-name } al à inzornât la racuelte di tonalitâts. O vin gjavât
+        lis versions vecjis de tô liste “Temis salvâts”. Oten lis gnovis versions sul
+        sît dai components adizionâi.
 privacy-policy = Politiche pe riservatece
 # Refers to the author of an add-on, shown below the name of the add-on.
 # Variables:

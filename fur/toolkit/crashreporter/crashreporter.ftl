@@ -51,3 +51,4 @@ crashreporter-error-no-home-dir = E mancje la cartele home
 # $to (String) - the destination path
 crashreporter-error-moving-path = Nol è stât pussibil eseguî il spostament di { $from } a { $to }
 crashreporter-error-version-eol = Fin vite de version: lis segnalazions di colàs no vegnin plui acetadis.
+crashreporter-error-failed-to-generate-minidump = La aplicazion no je rivade a gjenerâ informazions sul colàs.
