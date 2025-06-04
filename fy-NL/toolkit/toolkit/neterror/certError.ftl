@@ -119,6 +119,7 @@ fp-learn-more-about-time-related-errors = Mear ynfo oer it oplossen fan tiidrela
 
 cert-error-revoked-certificate = { -brand-short-name } hat jo besite oan dizze website blokkearre, omdat it sertifikaat foar { $hostname } ynlutsen is en net mear fertroud wurdt.
 cert-error-bad-signature = { -brand-short-name } hat jo besite oan dizze website blokkearre, omdat de ûndertekening op it foar { $hostname } levere sertifikaat net jildich is.
+cert-error-key-pinning-failure = { -brand-short-name } hat jo besite oan dizze website blokkearre, omdat it foar { $hostname } levere sertifikaat in oare publike kaai brûkt as ferwachte.
 
 ## Messages used for certificate error titles
 
