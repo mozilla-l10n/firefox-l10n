@@ -117,6 +117,10 @@ fp-learn-more-about-time-related-errors = ვრცლად არეული 
 ## Variables:
 ##   $hostname (string) - Hostname of the website with cert error.
 
+cert-error-revoked-certificate = { -brand-short-name } გიზღუდავთ ამ საიტზე შესვლას, ვინაიდან სერტიფიკატი, რომელსაც იძლევა { $hostname }, გაუქმებულია და აღარ მიიჩნევა სანდოდ.
+cert-error-bad-signature = { -brand-short-name } გიზღუდავთ ამ საიტზე შესვლას, ვინაიდან ხელმოწერა სერტიფიკატზე, რომელსაც იძლევა { $hostname }, დაუმოწმებელია.
+cert-error-key-pinning-failure = { -brand-short-name } გიზღუდავთ ამ საიტზე შესვლას, ვინაიდან სერტიფიკატი, რომელსაც იძლევა { $hostname }, იყენებს მოსალოდნელისგან განსხვავებულ საჯარო გასაღებს.
+cert-error-bad-der = { -brand-short-name } გიზღუდავთ ამ საიტზე შესვლას, ვინაიდან სერტიფიკატი, რომელსაც იძლევა { $hostname }, არაა სათანადოდ დაშიფრული.
 
 ## Messages used for certificate error titles
 
