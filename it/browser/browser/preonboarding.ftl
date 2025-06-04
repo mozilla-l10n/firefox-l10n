@@ -6,7 +6,7 @@
 ## Preonboarding modal screen strings
 
 preonboarding-title = Benvenuti in { -brand-product-name }
-preonboarding-subtitle = Proseguendo accetti le condizioni di di utilizzo di { -brand-product-name } e la nostra Informativa sulla privacy. Per migliorare il browser, { -brand-product-name } invia dati diagnostici e di interazione a { -vendor-short-name }.
+preonboarding-subtitle = Proseguendo accetti le condizioni di utilizzo di { -brand-product-name } e la nostra Informativa sulla privacy. Per migliorare il browser, { -brand-product-name } invia dati diagnostici e di interazione a { -vendor-short-name }.
 preonboarding-primary-cta = Conferma e continua
 preonboarding-primary-cta-v2 = Continua
 # Labels for header style button that toggles showing the terms of use, privacy notice, and data preferences checklist
