@@ -54,6 +54,10 @@ neterror-dns-not-found-hint-header = <strong>ਜੇ ਤੁਸੀਂ ਸਹੀ �
 neterror-dns-not-found-hint-try-again = ਮੁੜ ਕੋਸ਼ਿਸ਼ ਕਰ ਸਕਦੇ ਹੋ
 neterror-dns-not-found-hint-check-network = ਆਪਣੇ ਨੈੱਟਵਰਕ ਕਨੈਕਸ਼ਨ ਦੀ ਜਾਂਚ ਕਰੋ
 neterror-dns-not-found-hint-firewall = ਜਾਂਚ ਕਰੋ ਕਿ { -brand-short-name } ਨੂੰ ਵੈੱਬ ਲਈ ਪਹੁੰਚ ਕਰਨ ਦੀ ਇਜਾਜ਼ਤ ਹੈ (ਤੁਸੀਂ ਕਨੈਕਟ ਤਾਂ ਹੋ ਸਕਦੇ ਹੋ, ਪਰ ਫਾਇਰਵਾਲ ਦੇ ਪਿੱਛੇ)
+neterror-dns-not-found-offline-hint-header = <strong>ਇਸ ਬਾਰੇ ਤੁਸੀਂ ਕੀ ਕਰ ਸਕਦੇ ਹੋ?</strong>
+neterror-dns-not-found-offline-hint-different-device = ਵੱਖਰੇ ਡਿਵਾਈਸ ਨਾਲ ਕਨੈਕਟ ਕਰਕੇ ਵੇਖੋ।
+neterror-dns-not-found-offline-hint-modem = ਆਪਣੇ ਮਾਡਮ ਜਾਂ ਰਾਊਟਰ ਦੀ ਜਾਂਚ ਕਰੋ।
+neterror-dns-not-found-offline-hint-reconnect = Wi-Fi ਨਾਲੋਂ ਡਿਸ-ਕਨੈਕਟ ਹੋ ਕੇ ਫੇਰ ਕਨੈਕਟ ਕਰੋ।
 
 ## TRR-only specific messages
 ## Variables:
