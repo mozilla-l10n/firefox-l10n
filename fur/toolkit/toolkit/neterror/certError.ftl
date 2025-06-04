@@ -123,6 +123,14 @@ cert-error-key-pinning-failure = { -brand-short-name } al à blocât la tô visi
 cert-error-bad-der = { -brand-short-name } al à blocât la tô visite a chest sît parcè che il certificât furnît par { $hostname } nol è codificât ben.
 cert-error-cert-not-in-name-space = { -brand-short-name } al à blocât la tô visite a chest sît parcè che il certificât furnît par { $hostname } nol rispiete i vincui relatîfs al non stabilîts di un certificât che lu à emetût.
 cert-error-invalid-key = { -brand-short-name } al à blocât la tô visite a chest sît parcè che il certificât furnît par { $hostname } al conten une clâf che no je valide. Al è facil che e sedi masse piçule par jessi sigure.
+cert-error-unknown-critical-extension = { -brand-short-name } al à blocât la tô visite a chest sît parcè che il certificât furnît par { $hostname } al conten une estension critiche che no je supuartade.
+cert-error-extension-value-invalid = { -brand-short-name } al à blocât la tô visite a chest sît parcè che il certificât furnît par { $hostname } al conten une estension che no je valide.
+cert-error-untrusted-issuer = { -brand-short-name } al à blocât la tô visite a chest sît parcè che il certificât furnît par { $hostname } al è stât mandât fûr di une autoritât di certificazion che no je plui atendibile.
+cert-error-untrusted-cert = { -brand-short-name } al à blocât la tô visite a chest sît parcè che il certificât furnît par { $hostname } al è segnât tant che no atendibil.
+cert-error-invalid-integer-encoding = { -brand-short-name } al à blocât la tô visite a chest sît parcè che il certificât furnît par { $hostname } al conten une codifiche di un numar intîr che no je valide. Lis causis plui usuâls a includin numars di serie negatîfs, modui RSA negatîfs e codifichis plui lungjis di ce che al covente.
+cert-error-unsupported-keyalg = { -brand-short-name } al à blocât la tô visite a chest sît parcè che il certificât furnît par { $hostname } al à un gjenar di clâf che nol è supuartât.
+cert-error-issuer-no-longer-trusted = { -brand-short-name } al à blocât la tô visite a chest sît parcè che la autoritât di certificazion che e à mandât fûr il certificât furnît par { $hostname } no je plui atendibile.
+cert-error-signature-algorithm-mismatch = { -brand-short-name } al à blocât la tô visite a chest sît parcè che l’algoritmi di firme dal certificât furnît par { $hostname } nol corispuint al cjamp dal certificât relatîf al algoritmi di firme.
 
 ## Messages used for certificate error titles
 
