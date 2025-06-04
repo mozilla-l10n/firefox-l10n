@@ -47,3 +47,7 @@ experimental-features-link-previews-description-no-ai =
         [macos] 若要在点击链接前预先了解网页内容，可将指针悬停在链接上，然后按下 Shift (⇧) 和 Option (⌥)  或 Alt。预览中可能包含标题和阅读所需时间等详细信息。<a data-l10n-name="connect">Share feedback</a>
        *[other] 若要在点击链接前预先了解网页内容，可将指针悬停在链接上，然后按下 Shift + Alt。预览中可能包含标题和阅读所需时间等详细信息。<a data-l10n-name="connect">Share feedback</a>
     }
+# New Tab Sections with follow and block
+experimental-features-newtab-sections-follow-block =
+    .label = 新标签页文章的主题分组和关注/屏蔽
+experimental-features-newtab-sections-follow-block-description = 将新标签页上的文章按主题（例如体育、美食、娱乐等）分组，浏览体验更直观有序。还可使用全新的“关注”和“屏蔽”控制方式来定制您想看的内容。<a data-l10n-name="connect">分享反馈</a>

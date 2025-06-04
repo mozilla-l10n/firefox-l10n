@@ -119,6 +119,20 @@ fp-learn-more-about-time-related-errors = 详细了解时间相关错误的解�
 
 cert-error-revoked-certificate = { -brand-short-name } 已拦截您对该网站的访问，因为提供给 { $hostname } 的证书已被吊销，不再受信任。
 cert-error-bad-signature = { -brand-short-name } 已拦截您对该网站的访问，因为提供给 { $hostname } 的证书签名无效。
+cert-error-key-pinning-failure = { -brand-short-name } 已拦截您对该网站的访问，因为提供给 { $hostname } 的证书使用了非预期的公钥。
+cert-error-bad-der = { -brand-short-name } 已拦截您对该网站的访问，因为提供给 { $hostname } 的证书存在编码错误。
+cert-error-cert-not-in-name-space = { -brand-short-name } 已拦截您对该网站的访问，这是由于为 { $hostname } 颁发证书的一个上游证书具有名称约束，而该网站获得的证书不符合此约束。
+cert-error-inadequate-cert-type = { -brand-short-name } 已拦截您对该网站的访问，因为提供给 { $hostname } 的证书不允许由 Web 服务器使用。
+cert-error-path-len-constraint-invalid = { -brand-short-name } 已拦截您对该网站的访问，因为提供给 { $hostname } 的证书链中，中间证书数量超过标准限制。
+cert-error-invalid-key = { -brand-short-name } 已拦截您对该网站的访问，因为提供给 { $hostname } 的证书存在无效密钥。这很可能是因为密钥长度过短，无法确保安全。
+cert-error-unknown-critical-extension = { -brand-short-name } 已拦截您对该网站的访问，因为提供给 { $hostname } 的证书包含不受支持的关键扩展。
+cert-error-extension-value-invalid = { -brand-short-name } 已拦截您对该网站的访问，因为提供给 { $hostname } 的证书包含无效扩展。
+cert-error-untrusted-issuer = { -brand-short-name } 已拦截您对该网站的访问，因为颁发提供给 { $hostname } 的证书的证书授权机构已不再受信任。
+cert-error-untrusted-cert = { -brand-short-name } 已拦截您对该网站的访问，因为提供给 { $hostname } 的证书已被标记为不可信。
+cert-error-invalid-integer-encoding = { -brand-short-name } 已拦截您对该网站的访问，因为提供给 { $hostname } 的证书包含无效的整数编码。造成此情况的常见因素包括：负值序列号、负 RSA 模数，以及冗余整数编码。
+cert-error-unsupported-keyalg = { -brand-short-name } 已拦截您对该网站的访问，因为提供给 { $hostname } 的证书存在不受支持的密钥类型。
+cert-error-issuer-no-longer-trusted = { -brand-short-name } 已拦截您对该网站的访问，因为颁发提供给 { $hostname } 的证书的证书授权机构已不再受信任。
+cert-error-signature-algorithm-mismatch = { -brand-short-name } 已拦截您对该网站的访问，因为提供给 { $hostname } 的证书的签名算法与其签名算法字段信息不一致。
 
 ## Messages used for certificate error titles
 
