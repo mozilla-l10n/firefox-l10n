@@ -129,6 +129,8 @@ cert-error-unknown-critical-extension = { -brand-short-name } გიზღუდ
 cert-error-extension-value-invalid = { -brand-short-name } გიზღუდავთ ამ საიტზე შესვლას, ვინაიდან სერტიფიკატი, რომელსაც იძლევა { $hostname }, შეიცავს უმართებულო გაფართოებას.
 cert-error-untrusted-issuer = { -brand-short-name } გიზღუდავთ ამ საიტზე შესვლას, ვინაიდან სერტიფიკატი, რომელსაც იძლევა { $hostname }, გაცემულია უფლებამოსილი მხარისგან, რომელიც სანდოდ აღარაა მიჩნეული.
 cert-error-untrusted-cert = { -brand-short-name } გიზღუდავთ ამ საიტზე შესვლას, ვინაიდან სერტიფიკატი, რომელსაც იძლევა { $hostname }, მონიშნულია არასანდოდ.
+cert-error-invalid-integer-encoding = { -brand-short-name } გიზღუდავთ ამ საიტზე შესვლას, ვინაიდან სერტიფიკატი, რომელსაც იძლევა { $hostname }, შეიცავს მთელი რიცხვის არასწორ დაშიფვრას. ჩვეულებრივ, ამის გამომწვევია დართული უარყოფითი სერიული ნომრები, უარყოფითი RSA-მოდულები და საჭიროზე გრძელი დაშიფვრები.
+cert-error-unsupported-keyalg = { -brand-short-name } გიზღუდავთ ამ საიტზე შესვლას, ვინაიდან სერტიფიკატი, რომელსაც იძლევა { $hostname }, მხარდაუჭერელი სახის გასაღებითაა.
 
 ## Messages used for certificate error titles
 
