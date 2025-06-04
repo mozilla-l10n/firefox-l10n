@@ -120,6 +120,15 @@ fp-learn-more-about-time-related-errors = Mear ynfo oer it oplossen fan tiidrela
 cert-error-revoked-certificate = { -brand-short-name } hat jo besite oan dizze website blokkearre, omdat it sertifikaat foar { $hostname } ynlutsen is en net mear fertroud wurdt.
 cert-error-bad-signature = { -brand-short-name } hat jo besite oan dizze website blokkearre, omdat de ûndertekening op it foar { $hostname } levere sertifikaat net jildich is.
 cert-error-key-pinning-failure = { -brand-short-name } hat jo besite oan dizze website blokkearre, omdat it foar { $hostname } levere sertifikaat in oare publike kaai brûkt as ferwachte.
+cert-error-bad-der = { -brand-short-name } hat jo besite oan dizze website blokkearre, omdat it foar { $hostname } levere sertifikaat net krekt fersifere is.
+cert-error-cert-not-in-name-space = { -brand-short-name } hat jo besite oan dizze website blokkearre, omdat it foar { $hostname } levere sertifikaat net de nammebeheiningen folget fan in sertifikaat dat it útjûn hat.
+cert-error-inadequate-cert-type = { -brand-short-name } hat jo besite oan dizze website blokkearre, omdat it foar { $hostname } levere sertifikaat net brûkt wurde mei troch in webserver.
+cert-error-path-len-constraint-invalid = { -brand-short-name } hat jo besite oan dizze website blokkearre, omdat it foar { $hostname } levere sertifikaat te folle tuskensertifikaten yn it paad nei it rootsertifikaat befettet.
+cert-error-invalid-key = { -brand-short-name } hat jo besite oan dizze website blokkearre, omdat it foar { $hostname } levere sertifikaat in ûnjildige kaai befettet. Heechstwierskynlik is dizze te lyts om feilich te wêzen.
+cert-error-unknown-critical-extension = { -brand-short-name } hat jo besite oan dizze website blokkearre, omdat it foar { $hostname } levere sertifikaat in net-stipe kritike ekstinsje befettet.
+cert-error-extension-value-invalid = { -brand-short-name } hat jo besite oan dizze website blokkearre, omdat it foar { $hostname } levere sertifikaat in ûnjildige ekstinsje befettet.
+cert-error-untrusted-issuer = { -brand-short-name } hat jo besite oan dizze website blokkearre, omdat it foar { $hostname } levere sertifikaat útjûn is troch in sertifikaatautoriteit dy’t net mear fertroud wurdt.
+cert-error-untrusted-cert = { -brand-short-name } hat jo besite oan dizze website blokkearre, omdat it foar { $hostname } levere sertifikaat as net fertroud markearre is.
 
 ## Messages used for certificate error titles
 
