@@ -105,6 +105,8 @@ sidebar-history-context-menu-delete-page-2 =
     .label = Eliminar página del historial
 sidebar-history-context-menu-bookmark-page =
     .label = Marcar página…
+sidebar-history-context-menu-delete-pages =
+    .label = Eliminar páginas del historial
 
 ## Labels for sidebar menu items.
 

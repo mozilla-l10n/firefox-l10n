@@ -61,6 +61,7 @@ add-engine-button = Añadir motor personalizado
 add-engine-name = Nombre del motor de búsqueda
 add-engine-url2 = URL con %s en lugar del término de búsqueda
 add-engine-keyword2 = Palabra clave (opcional)
+add-engine-suggest-url = URL de sugerencias con %s en lugar del término de búsqueda (opcional)
 add-engine-keyword = Palabra clave
 add-engine-url = URL del motor, usa %s en lugar del término de búsqueda
 add-engine-dialog =
@@ -84,6 +85,24 @@ add-engine-keyword-exists = Esa palabra clave ya está en uso. Prueba con otra.
 add-engine-name-exists = Ese nombre ya está en uso. Por favor elige otro.
 add-engine-no-name = Por favor, añade un nombre.
 add-engine-no-url = Por favor ingresa una URL.
+add-engine-invalid-url = Esa URL no parece correcta. Revísala y vuelve a intentarlo.
+add-engine-invalid-protocol = Esa URL no parece correcta. Usa una URL que empiece por http o https.
+# This error is shown when the user typed URL is missing %s.
+add-engine-missing-terms-url = Prueba con incluir %s en lugar del término de búsqueda.
+# This error is shown when the user typed post data is missing %s.
+add-engine-missing-terms-post-data = Prueba con incluir %s en lugar del término de búsqueda.
 
 ## The following strings are used as labels for the dialog's buttons.
 
+# buttonlabelextra1 is the label of a button to open the advanced section
+# of the dialog.
+add-engine-dialog2 =
+    .buttonlabelaccept = Añadir motor
+    .buttonaccesskeyaccept = A
+    .buttonlabelextra1 = Avanzado
+# buttonlabelextra1 is the label of a button to open the advanced section
+# of the dialog.
+edit-engine-dialog =
+    .buttonlabelaccept = Guardar motor
+    .buttonaccesskeyaccept = S
+    .buttonlabelextra1 = Avanzado

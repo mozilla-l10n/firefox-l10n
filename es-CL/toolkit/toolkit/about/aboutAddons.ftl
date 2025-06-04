@@ -557,3 +557,21 @@ mlmodel-link-preview = { -brand-short-name } usa esto para generar puntos clave 
 mlmodel-pdfjs = { -brand-short-name } usa esto para crear texto alternativo para las imágenes que añades a los PDF
 mlmodel-smart-tab-topic-engine = { -brand-short-name } usa esto para sugerir nombres para tus grupos de pestañas
 mlmodel-smart-tab-embedding-engine = { -brand-short-name } usa esto para sugerir pestañas para tus grupos de pestañas
+# AI Model will be downloaded on the users device and used locally
+addon-category-mlmodel = IA en el dispositivo
+addon-category-mlmodel-title =
+    .title = IA en el dispositivo
+mlmodel-heading = Administrar modelos de IA en el dispositivo
+mlmodel-description = Algunas funciones y extensiones de { -brand-short-name } se basan en modelos de IA que funcionan localmente en tu dispositivo. Este enfoque protege tu privacidad y, en muchos casos, mejora el rendimiento. <a data-l10n-name="learn-more">Aprender más</a>
+# Label for button that when clicked removed local model
+mlmodel-remove-addon-button =
+    .aria-label = Eliminar
+# Label for the aggregated value of all files for a model
+mlmodel-addon-detail-totalsize-label = Tamaño del archivo
+mlmodel-addon-detail-last-used-label = Último uso
+# This is a section label to describe what extensions or features use a specific local AI model
+mlmodel-addon-detail-used-by-label = Utilizado por
+# This is a section label to describe the link to the model card on the Hugging Face website
+mlmodel-addon-detail-model-card = Ficha del modelo
+# This is a label for the Model Card link to Hugging face
+mlmodel-addon-detail-model-card-link-label = Ver en Hugging Face

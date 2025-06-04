@@ -50,3 +50,4 @@ experimental-features-link-previews-description-no-ai =
 # New Tab Sections with follow and block
 experimental-features-newtab-sections-follow-block =
     .label = თემებად დაყოფა და მიდევნება/შეზღუდვა ახალი ჩანართში
+experimental-features-newtab-sections-follow-block-description = დაალაგეთ ამბები ახალი ჩანართის გვერდზე თემატურად (სპორტი, საკვები, გართობა და სხვა) უკეთ მოწესრიგებისა და თვალის ადვილად შესავლებად. მიდევნებისა და შეზღუდვის ახალი სამართავი კი საშუალებას მოგცემთ აირჩიოთ, თუ რა მასალის ნახვა გსურთ.<a data-l10n-name="connect">გამოგვეხმაურეთ</a>
