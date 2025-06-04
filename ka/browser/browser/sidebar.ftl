@@ -105,6 +105,8 @@ sidebar-history-context-menu-delete-page-2 =
     .label = გვერდის ისტორიიდან ამოშლა
 sidebar-history-context-menu-bookmark-page =
     .label = გვერდის ჩანიშვნა…
+sidebar-history-context-menu-delete-pages =
+    .label = გვერდების ისტორიიდან ამოშლა
 
 ## Labels for sidebar menu items.
 

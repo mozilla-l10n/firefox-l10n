@@ -47,3 +47,6 @@ experimental-features-link-previews-description-no-ai =
         [macos] თუ გსურთ გაეცნოთ ვებგვერდის მონაცემებს დაწკაპებამდე, გადაატარეთ მაჩვენებელი ბმულს და დააჭირეთ Shift (⇧) + Option (⌥) ან Alt. შეთვალიერებისას იხილავთ სათაურსა და სრულად წაკითხვის დროს. <a data-l10n-name="connect">გამოგვეხმაურეთ</a>
        *[other] თუ გსურთ გაეცნოთ ვებგვერდის მონაცემებს დაწკაპებამდე, გადაატარეთ მაჩვენებელი ბმულს და დააჭირეთ Shift + Alt. შეთვალიერებისას იხილავთ სათაურსა და სრულად წაკითხვის დროს. <a data-l10n-name="connect">გამოგვეხმაურეთ</a>
     }
+# New Tab Sections with follow and block
+experimental-features-newtab-sections-follow-block =
+    .label = თემებად დაყოფა და მიდევნება/შეზღუდვა ახალი ჩანართში
