@@ -61,6 +61,9 @@ add-engine-button = Oanpaste sykmasine tafoegje…
 add-engine-name = Namme sykmasine
 add-engine-url2 = URL mei %s op it plak fan de sykterm
 add-engine-keyword2 = Trefwurd (opsjoneel)
+# POST and GET refer to the HTTP methods.
+add-engine-post-data = POST-gegevens mei %s yn stee fan de sykterm (leech litte foar GET)
+add-engine-suggest-url = URL foar suggestjes mei %s op plak fan sykterm (opsjoneel)
 add-engine-keyword = Trefwurd
 add-engine-url = URL fan sykmasine, brûk %s op it plak fan de sykterm
 add-engine-dialog =
@@ -80,8 +83,16 @@ add-engine-keyword-placeholder =
 
 ## The following strings are used as error messages.
 
+add-engine-keyword-exists = Dat trefwurd wurdt al brûkt. Probearje in oare.
+add-engine-name-exists = Dy namme wurdt al brûkt. Kies in oare.
 add-engine-no-name = Foegje in namme ta.
 add-engine-no-url = Fier in URL yn.
+add-engine-invalid-url = Dy URL sjocht der net goed út. Kontrolearje dizze en probearje it opnij.
+add-engine-invalid-protocol = Dy URL sjocht der net goed út. Brûk in URL dy’t begjint mei http of https.
+# This error is shown when the user typed URL is missing %s.
+add-engine-missing-terms-url = Probearje %s op te nimmen op it plak fan de sykterm.
+# This error is shown when the user typed post data is missing %s.
+add-engine-missing-terms-post-data = Probearje %s op te nimmen op it plak fan de sykterm.
 
 ## The following strings are used as labels for the dialog's buttons.
 
