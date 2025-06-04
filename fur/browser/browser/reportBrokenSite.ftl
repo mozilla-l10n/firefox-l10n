@@ -12,6 +12,15 @@ report-broken-site-panel-reason-label = Ce no funzionial?
 report-broken-site-panel-reason-optional-label = Ce no funzionial? (facoltatîf)
 report-broken-site-panel-reason-choose =
     .label = Sielç un motîf
+report-broken-site-panel-reason-load =
+    .label = Il sît no si cjarie
+# These terms are referring to ecommerce websites
+report-broken-site-panel-reason-checkout =
+    .label = Impussibil paiâ, lâ ae casse o comprâ
+report-broken-site-panel-reason-slow2 =
+    .label = Il sît al è lent
+report-broken-site-panel-reason-media2 =
+    .label = Il video nol ven riprodot o cjariât
 report-broken-site-panel-reason-content2 =
     .label = A mancjin contignûts
 report-broken-site-panel-reason-account2 =

@@ -7,6 +7,8 @@ profile-window-body = Manten separadis lis ativitâts lavorativis e chês person
 # This checkbox appears in the Choose profile window that appears when the browser is opened. "Show this" refers to this window, which is displayed when the checkbox is enabled.
 profile-window-checkbox-label-2 =
     .label = Sielç un profîl cuant che tu vierzis { -brand-short-name }
+# This subcopy appears below the checkbox when it is unchecked
+profile-window-checkbox-subcopy = { -brand-short-name } al vignarà viert cul profîl doprât plui di resint.
 profile-window-create-profile = Cree un profîl
 profile-card-edit-button =
     .title = Modifiche profîl
@@ -34,6 +36,9 @@ edit-profile-page-avatar-header-2 =
     .label = Avatar
 edit-profile-page-delete-button =
     .label = Elimine
+edit-profile-page-avatar-selector-opener-link = Modifiche
+avatar-selector-icon-tab = Icone
+avatar-selector-custom-tab = Personalizât
 edit-profile-page-no-name = Da un non a chest profîl par judâti a cjatâlu plui indevant. Tu puedis cambiâi non cuant che tu vûs.
 edit-profile-page-duplicate-name = Non dal profîl za in ûs. Prove cuntun altri non.
 edit-profile-page-profile-saved = Salvât

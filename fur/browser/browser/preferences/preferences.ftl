@@ -263,6 +263,10 @@ preferences-web-appearance-choice-input-dark =
     .aria-description = { preferences-web-appearance-choice-tooltip-dark.title }
 # This can appear when using windows HCM or "Override colors: always" without
 # system colors.
+preferences-web-appearance-override-warning3 =
+    .message = Lis tôs impostazions di control dal contrast a stan sostituint l'aspiet dai sîts web.
+# This can appear when using windows HCM or "Override colors: always" without
+# system colors.
 preferences-web-appearance-override-warning = L'aspiet dal sît web al è stât sostituît de tô selezion di colôrs. <a data-l10n-name="colors-link"> Gjestìs i colôrs</a>
 # This can appear when using windows HCM or "Override colors: always" without
 # system colors.
@@ -511,6 +515,8 @@ performance-default-content-process-count =
 ## General Section - Browsing
 
 browsing-title = Navigazion
+browsing-group-label =
+    .aria-label = Navigazion
 browsing-use-autoscroll =
     .label = Dopre scoriment automatic
     .accesskey = a
@@ -645,6 +651,11 @@ home-prefs-weather-header =
     .label = Meteo
 home-prefs-weather-description = Previsions par vuê cuntune voglade
 home-prefs-weather-learn-more-link = Plui informazions
+# "Support" here means to help sustain or contribute to something, especially through funding or sponsorship.
+home-prefs-support-firefox-header =
+    .label = Prudele { -brand-product-name }
+home-prefs-mission-message = I nestris prudeladôrs a sostegnin la nestre mission di fâ sù un web miôr
+home-prefs-mission-message-learn-more-link = Scuvierç cemût
 # Variables:
 #   $num (number) - Number of rows displayed
 home-prefs-sections-rows-option =
@@ -713,6 +724,9 @@ search-remove-engine =
 search-add-engine =
     .label = Zonte
     .accesskey = Z
+search-edit-engine =
+    .label = Modifiche
+    .accesskey = e
 search-find-more-link = Cjate altris motôrs di ricercje
 # This warning is displayed when the chosen keyword is already in use
 # ('Duplicate' is an adjective)
@@ -721,6 +735,13 @@ search-keyword-warning-title = Peraule clâf duplicade
 #   $name (string) - Name of a search engine.
 search-keyword-warning-engine = Tu âs sielzût une peraule clâf za doprade par "{ $name }". Sielç une altre.
 search-keyword-warning-bookmark = Tu âs sielzût une peraule clâf za doprade par un segnelibri. Sielç une altre.
+# This warning is displayed when the chosen name is already in use.
+# Variables:
+#   $name (string) - Name of a search engine.
+edit-engine-name-warning-duplicate = Al esist za un motôr di ricercje cul non “{ $name }”. Sielç un altri non.
+remove-engine-confirmation = Desideristu pardabon gjavâ chest motôr di ricercje?
+remove-engine-remove = Gjave
+remove-addon-engine-alert = Par gjavâ chest motôr di ricercje gjave il component adizionâl associât.
 
 ## Containers Section
 
