@@ -130,7 +130,7 @@ mr2-onboarding-start-browsing-button-label = Оғоз кардани тамош�
 ##   $appLanguage (String) - The name of the language shipping in the browser build, e.g. "English (EN)"
 
 onboarding-live-language-header = Забони худро интихоб намоед
-mr2022-onboarding-live-language-text = «{ -brand-short-name }» бо забони шумо ҳарф мезанад
+mr2022-onboarding-live-language-text = Барномаи «{ -brand-short-name }» бо забони шумо ҳарф мезанад
 mr2022-language-mismatch-subtitle = Ба шарофати ҷамъияти умумиҷаҳонии мо, браузери интернетии «{ -brand-short-name }» ба зиёда аз 90 забон тарҷума карда шудааст. Чунин менамояд, ки низоми шумо аз забони «{ $systemLanguage }» истифода мебарад, он вақте ки браузери «{ -brand-short-name }» аз забони «{ $appLanguage }» истифода мебарад.
 onboarding-live-language-button-label-downloading = Боргирии бастаи забон барои «{ $negotiatedLanguage }»…
 onboarding-live-language-waiting-button = Гирифтани забонҳои дастрас…
