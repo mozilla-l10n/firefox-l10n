@@ -131,6 +131,8 @@ cert-error-untrusted-issuer = { -brand-short-name } გიზღუდავთ 
 cert-error-untrusted-cert = { -brand-short-name } გიზღუდავთ ამ საიტზე შესვლას, ვინაიდან სერტიფიკატი, რომელსაც იძლევა { $hostname }, მონიშნულია არასანდოდ.
 cert-error-invalid-integer-encoding = { -brand-short-name } გიზღუდავთ ამ საიტზე შესვლას, ვინაიდან სერტიფიკატი, რომელსაც იძლევა { $hostname }, შეიცავს მთელი რიცხვის არასწორ დაშიფვრას. ჩვეულებრივ, ამის გამომწვევია დართული უარყოფითი სერიული ნომრები, უარყოფითი RSA-მოდულები და საჭიროზე გრძელი დაშიფვრები.
 cert-error-unsupported-keyalg = { -brand-short-name } გიზღუდავთ ამ საიტზე შესვლას, ვინაიდან სერტიფიკატი, რომელსაც იძლევა { $hostname }, მხარდაუჭერელი სახის გასაღებითაა.
+cert-error-issuer-no-longer-trusted = { -brand-short-name } გიზღუდავთ ამ საიტზე შესვლას, ვინაიდან სერტიფიკატი, რომელსაც იძლევა { $hostname }, გაცემულია უფლებამოსილი მხარის მიერ, რომელიც აღარ მიიჩნევა სანდოდ.
+cert-error-signature-algorithm-mismatch = { -brand-short-name } გიზღუდავთ ამ საიტზე შესვლას, ვინაიდან იმ სერტიფიკატის ხელმოწერის ალგორითმი, რომელსაც იძლევა { $hostname }, არ ეკუთვნის მისი ხელმოწერის ალგორითმის სივრცეს.
 
 ## Messages used for certificate error titles
 
