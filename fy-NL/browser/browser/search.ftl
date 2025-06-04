@@ -102,3 +102,9 @@ add-engine-dialog2 =
     .buttonlabelaccept = Sykmasine tafoegje
     .buttonaccesskeyaccept = t
     .buttonlabelextra1 = Avansearre
+# buttonlabelextra1 is the label of a button to open the advanced section
+# of the dialog.
+edit-engine-dialog =
+    .buttonlabelaccept = Sykmasine bewarje
+    .buttonaccesskeyaccept = y
+    .buttonlabelextra1 = Avansearre

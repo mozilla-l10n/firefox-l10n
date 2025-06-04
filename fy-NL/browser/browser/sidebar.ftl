@@ -105,6 +105,8 @@ sidebar-history-context-menu-delete-page-2 =
     .label = Side út skiednis fuortsmite
 sidebar-history-context-menu-bookmark-page =
     .label = Blêdwizer foar side meitsje…
+sidebar-history-context-menu-delete-pages =
+    .label = Siden út skiednis fuortsmite
 
 ## Labels for sidebar menu items.
 

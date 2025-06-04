@@ -51,3 +51,4 @@ crashreporter-error-no-home-dir = Haadmap ûntbrekt
 # $to (String) - the destination path
 crashreporter-error-moving-path = Kin net fan { $from } nei { $to } ferpleatse
 crashreporter-error-version-eol = Ein libbensdoer ferzje: ûngelokrapporten wurde net mear akseptearre.
+crashreporter-error-failed-to-generate-minidump = De tapassing kin gjin ûngelokgegevens generearje.

@@ -584,6 +584,7 @@ addon-category-mlmodel = AI op apparaat
 addon-category-mlmodel-title =
     .title = AI op apparaat
 mlmodel-heading = AI-modellen op apparaat beheare
+mlmodel-description = Guon funksjes en útwreidingen yn { -brand-short-name } wurde mooglik makke troch AI-modellen dy’t lokaal op jo apparaat wurkje. Dizze oanpak beskermet jo privacy en ferbetteret yn in protte gefallen de prestaasjes. <a data-l10n-name="learn-more">Mear ynfo</a>
 # Label for button that when clicked removed local model
 mlmodel-remove-addon-button =
     .aria-label = Fuortsmite
