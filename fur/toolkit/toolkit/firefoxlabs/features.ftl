@@ -41,6 +41,12 @@ experimental-features-link-previews-description =
         [macos] Par vê plui informazions suntune pagjine web prime di fâ clic, passe il mouse parsore di un colegament e frache Maiusc (⇧) plui Opzion (⌥) o Alt. Lis anteprimis a puedin includi detais come il titul e il timp di leture. Par cualchi pagjine web, la IA e pues ancje lei il test de pagjine e creâ une liste cui ponts significatîfs. La IA e je perfezionade par lei e gjenerâ tescj par inglês. Par dâ prioritât ae tô riservatece, la IA e ven eseguide in locâl sul to computer. <a data-l10n-name="connect">Condivît la tô opinion</a>
        *[other] Par vê plui informazions suntune pagjine web prime di fâ clic, passe il mouse parsore di un colegament e frache Maiusc + Alt. Lis anteprimis a puedin includi detais come il titul e il timp di leture. Par cualchi pagjine web, la IA e pues ancje lei il test de pagjine e creâ une liste cui ponts significatîfs. La IA e je perfezionade par lei e gjenerâ tescj par inglês. Par dâ prioritât ae tô riservatece, la IA e ven eseguide in locâl sul to computer. <a data-l10n-name="connect">Condivît la tô opinion</a>
     }
+# This version of the link previews description does not mention AI.
+experimental-features-link-previews-description-no-ai =
+    { PLATFORM() ->
+        [macos] Par otignî altris informazions suntune pagjine web, prime di fâ clic, passe parsore cul mouse sore di un colegament e frache Maiusc (⇧)  plui Opzion (⌥) o Alt. Lis anteprimis a puedin includi detais come titul e timp di leture. <a data-l10n-name="connect">Condivît la tô opinion</a>
+       *[other] Par otignî altris informazions suntune pagjine web, prime di fâ clic, passe parsore cul mouse sore di un colegament e frache Maiusc + Alt. Lis anteprimis a puedin includi detais come titul e timp di leture. <a data-l10n-name="connect">Condivît la tô opinion</a>
+    }
 # New Tab Sections with follow and block
 experimental-features-newtab-sections-follow-block =
     .label = Sezions par argoment e funzions Sta daûr/Bloche pes storiis te pagjine Gnove schede
