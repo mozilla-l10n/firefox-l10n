@@ -122,6 +122,13 @@ cert-error-bad-signature = { -brand-short-name } გიზღუდავთ ა
 cert-error-key-pinning-failure = { -brand-short-name } გიზღუდავთ ამ საიტზე შესვლას, ვინაიდან სერტიფიკატი, რომელსაც იძლევა { $hostname }, იყენებს მოსალოდნელისგან განსხვავებულ საჯარო გასაღებს.
 cert-error-bad-der = { -brand-short-name } გიზღუდავთ ამ საიტზე შესვლას, ვინაიდან სერტიფიკატი, რომელსაც იძლევა { $hostname }, არაა სათანადოდ დაშიფრული.
 cert-error-cert-not-in-name-space = { -brand-short-name } გიზღუდავთ ამ საიტზე შესვლას, ვინაიდან სერტიფიკატი, რომელსაც იძლევა { $hostname }, არაა სათანადოდ დაშიფრული.
+cert-error-inadequate-cert-type = { -brand-short-name } გიზღუდავთ ამ საიტზე შესვლას, ვინაიდან სერტიფიკატი, რომელსაც იძლევა { $hostname }, არაა ნებადართული ვებსერვერისთვის.
+cert-error-path-len-constraint-invalid = { -brand-short-name } გიზღუდავთ ამ საიტზე შესვლას, ვინაიდან სერტიფიკატი, რომელსაც იძლევა { $hostname }, უამრავი შუალედური სერტიფიკატითაა წარმოდგენილი ძირეულ მისამართამდე.
+cert-error-invalid-key = { -brand-short-name } გიზღუდავთ ამ საიტზე შესვლას, ვინაიდან სერტიფიკატი, რომელსაც იძლევა { $hostname }, უმართებულო გასაღებითაა. სავარაუდოდ, მეტად მცირე ზომისაა უსაფრთხოებისთვის.
+cert-error-unknown-critical-extension = { -brand-short-name } გიზღუდავთ ამ საიტზე შესვლას, ვინაიდან სერტიფიკატი, რომელსაც იძლევა { $hostname }, შეიცავს უკიდურესად საჭირო მხარდაუჭერელ გაფართოებას.
+cert-error-extension-value-invalid = { -brand-short-name } გიზღუდავთ ამ საიტზე შესვლას, ვინაიდან სერტიფიკატი, რომელსაც იძლევა { $hostname }, შეიცავს უმართებულო გაფართოებას.
+cert-error-untrusted-issuer = { -brand-short-name } გიზღუდავთ ამ საიტზე შესვლას, ვინაიდან სერტიფიკატი, რომელსაც იძლევა { $hostname }, გაცემულია უფლებამოსილი მხარისგან, რომელიც სანდოდ აღარაა მიჩნეული.
+cert-error-untrusted-cert = { -brand-short-name } გიზღუდავთ ამ საიტზე შესვლას, ვინაიდან სერტიფიკატი, რომელსაც იძლევა { $hostname }, მონიშნულია არასანდოდ.
 
 ## Messages used for certificate error titles
 
