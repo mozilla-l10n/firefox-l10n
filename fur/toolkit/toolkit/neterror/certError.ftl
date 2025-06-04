@@ -122,6 +122,7 @@ cert-error-bad-signature = { -brand-short-name } al à blocât la tô visite a c
 cert-error-key-pinning-failure = { -brand-short-name } al à blocât la tô visite a chest sît parcè che il certificât furnît par { $hostname } al dopre une clâf publiche divierse di chê previodude.
 cert-error-bad-der = { -brand-short-name } al à blocât la tô visite a chest sît parcè che il certificât furnît par { $hostname } nol è codificât ben.
 cert-error-cert-not-in-name-space = { -brand-short-name } al à blocât la tô visite a chest sît parcè che il certificât furnît par { $hostname } nol rispiete i vincui relatîfs al non stabilîts di un certificât che lu à emetût.
+cert-error-inadequate-cert-type = { -brand-short-name } al à blocât la tô visite a chest sît parcè che un servidôr web nol pues doprâ il certificât furnît par { $hostname }.
 cert-error-invalid-key = { -brand-short-name } al à blocât la tô visite a chest sît parcè che il certificât furnît par { $hostname } al conten une clâf che no je valide. Al è facil che e sedi masse piçule par jessi sigure.
 cert-error-unknown-critical-extension = { -brand-short-name } al à blocât la tô visite a chest sît parcè che il certificât furnît par { $hostname } al conten une estension critiche che no je supuartade.
 cert-error-extension-value-invalid = { -brand-short-name } al à blocât la tô visite a chest sît parcè che il certificât furnît par { $hostname } al conten une estension che no je valide.
