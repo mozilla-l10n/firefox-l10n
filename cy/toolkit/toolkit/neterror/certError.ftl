@@ -121,6 +121,18 @@ cert-error-revoked-certificate = Mae { -brand-short-name } wedi rhwystro eich ym
 cert-error-bad-signature = Mae { -brand-short-name } wedi rhwystro eich ymweliad â'r wefan hon oherwydd nad yw'r llofnod ar y dystysgrif ddarparwyd ar gyfer { $hostname } yn ddilys.
 cert-error-key-pinning-failure = Mae { -brand-short-name } wedi rhwystro eich ymweliad â'r wefan hon oherwydd bod y dystysgrif ddarparwyd ar gyfer { $hostname } wedi'i dirymu a does dim modd ymddiried ynddi bellach.
 cert-error-bad-der = Mae { -brand-short-name } wedi rhwystro eich ymweliad â'r wefan hon oherwydd nad yw'r llofnod ar y dystysgrif ddarparwyd ar gyfer { $hostname } yn ddilys.
+cert-error-cert-not-in-name-space = Rhwystrodd { -brand-short-name } eich ymweliad â'r wefan hon oherwydd nid yw'r dystysgrif a ddarparwyd ar gyfer { $hostname } yn dilyn cyfyngiadau enw tystysgrif a'i rhoddodd.
+cert-error-inadequate-cert-type = Rhwystrodd { -brand-short-name } eich ymweliad â'r wefan hon oherwydd nad yw'r gweinydd gwe yn cael caniatâd i ddefnyddio'r dystysgrif a ddarparwyd ar gyfer { $hostname }.
+cert-error-path-len-constraint-invalid = Mae { -brand-short-name } wedi rhwystro eich ymweliad â'r wefan hon oherwydd nad yw'r llofnod ar y dystysgrif ddarparwyd ar gyfer { $hostname } yn ddilys.
+cert-error-invalid-key = Mae { -brand-short-name } wedi rhwystro eich ymweliad â'r wefan hon oherwydd bod gan y dystysgrif a ddarparwyd ar gyfer { $hostname } allwedd sy'n annilys. Yn fwyaf tebygol, mae'n rhy fach i fod yn ddiogel.
+cert-error-unknown-critical-extension = Rhwystrodd { -brand-short-name } eich ymweliad â'r wefan hon oherwydd bod y dystysgrif a ddarparwyd ar gyfer { $hostname } yn cynnwys estyniad critigol nad yw'n cael ei gefnogi.
+cert-error-extension-value-invalid = Mae { -brand-short-name } wedi rhwystro eich ymweliad â'r wefan hon oherwydd bod y dystysgrif a ddarparwyd ar gyfer { $hostname } yn cynnwys estyniad annilys.
+cert-error-untrusted-issuer = Mae { -brand-short-name } wedi rhwystro eich ymweliad â'r wefan hon oherwydd bod y dystysgrif a ddarparwyd ar gyfer { $hostname } wedi'i chyhoeddi gan awdurdod tystysgrifau nad yw'n ymddiried ynddi mwyach.
+cert-error-untrusted-cert = Mae { -brand-short-name } wedi rhwystro eich ymweliad â'r wefan hon oherwydd bod y dystysgrif a ddarparwyd ar gyfer { $hostname } wedi'i nodi fel un nad oes ymddiriedaeth ynddi.
+cert-error-invalid-integer-encoding = Mae { -brand-short-name } wedi rhwystro eich ymweliad â'r wefan hon oherwydd bod y dystysgrif a ddarparwyd ar gyfer { $hostname } yn cynnwys amgodiad annilys o gyfanrif. Mae achosion cyffredin yn cynnwys rhifau cyfresol negyddol, modwli RSA negyddol, ac amgodiadau sy'n hirach nag sydd ei angen.
+cert-error-unsupported-keyalg = Rhwystrodd { -brand-short-name } eich ymweliad â'r wefan hon oherwydd bod gan y dystysgrif a ddarparwyd ar gyfer { $hostname } y math allwedd nad yw'n ei gefnogi.
+cert-error-issuer-no-longer-trusted = Rhwystrodd { -brand-short-name } eich ymweliad â'r wefan hon oherwydd nid yw'r awdurdod tystysgrifau a gyhoeddodd y dystysgrif a ddarparwyd ar gyfer { $hostname } yn ymddiried ynddo mwyach.
+cert-error-signature-algorithm-mismatch = Rhwystrodd { -brand-short-name } eich ymweliad â'r wefan hon oherwydd nid yw algorithm llofnod y dystysgrif a ddarparwyd ar gyfer { $hostname } yn cyd-fynd â'i faes algorithm llofnod.
 
 ## Messages used for certificate error titles
 

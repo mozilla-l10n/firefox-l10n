@@ -50,3 +50,4 @@ experimental-features-link-previews-description-no-ai =
 # New Tab Sections with follow and block
 experimental-features-newtab-sections-follow-block =
     .label = Adrannau Pynciau a Dilyn/Bloc ar gyfer Straeon Tabiau Newydd
+experimental-features-newtab-sections-follow-block-description = Trefnwch y straeon ar eich tudalen Tab Newydd yn adrannau pwnc (Chwaraeon, Bwyd, Adloniant a mwy) i gael profiad mwy strwythuredig a hawdd ei sganio. Defnyddiwch ein rheolyddion Dilyn a Rhwystro newydd i gyfaddasu pa gynnwys rydych yn ei weld. <a data-l10n-name="connect">Rhannu adborth</a>
