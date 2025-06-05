@@ -47,3 +47,7 @@ experimental-features-link-previews-description-no-ai =
         [macos] Houd de muisaanwijzer boven een koppeling en druk op Shift (⇧) plus Option (⌥) of Alt om meer over een webpagina te lezen voordat u klikt. Voorbeelden kunnen details zoals titel en leestijd bevatten. <a data-l10n-name="connect">Feedback delen</a>
        *[other] Houd de muisaanwijzer boven een koppeling en druk op Shift + Alt om meer over een webpagina te lezen voordat u klikt. Voorbeelden kunnen details zoals titel en leestijd bevatten. <a data-l10n-name="connect">Feedback delen</a>
     }
+# New Tab Sections with follow and block
+experimental-features-newtab-sections-follow-block =
+    .label = Onderwerpsecties en volgen/blokkeren voor nieuwe tabbladverhalen
+experimental-features-newtab-sections-follow-block-description = Orden de verhalen op uw Nieuw-tabbladpagina in onderwerpsecties (Sport, Eten, Amusement en meer) voor een meer gestructureerde en eenvoudig te scannen ervaring. Gebruik onze nieuwe volg- en blokkeringsknoppen om aan te passen welke inhoud u ziet. <a data-l10n-name="connect">Feedback delen</a>

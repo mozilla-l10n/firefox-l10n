@@ -50,4 +50,4 @@ experimental-features-link-previews-description-no-ai =
 # New Tab Sections with follow and block
 experimental-features-newtab-sections-follow-block =
     .label = Underwerpseksjes en Folgje/Blokkearje foar ferhalen op nije ljepblêden
-experimental-features-newtab-sections-follow-block-description = Organisearje de ferhalen op jo nije-ljepblêdside yn ûnderwerpseksjes (sport, iten, ferdivedaasje en mear) foar in mear strukturearre en makliker te scannen ûnderfining. Brûk ús nije Folgje- en Blokkearje-kontrôles om oan te passen hokker ynhâld jo sjogge. <a data-l10n-name="connect">Diel kommentaar</a>
+experimental-features-newtab-sections-follow-block-description = Organisearje de ferhalen op jo Nije-ljepblêdside yn ûnderwerpseksjes (Sport, Iten, Ferdivedaasje en mear) foar in mear strukturearre en makliker te scannen ûnderfining. Brûk ús nije folch- en blokkearingsknoppen om oan te passen hokker ynhâld jo sjogge. <a data-l10n-name="connect">Kommentaar diele</a>
