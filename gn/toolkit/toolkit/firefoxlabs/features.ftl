@@ -35,3 +35,6 @@ experimental-features-custom-wallpaper-description = Ehupi ne mba’erechaha rug
 # Link Previews with AI
 experimental-features-link-previews =
     .label = Juajuha recha ypyha
+# New Tab Sections with follow and block
+experimental-features-newtab-sections-follow-block =
+    .label = Téma rendakuéra ha Tapykueho/Joko tembiasakue pyahurã

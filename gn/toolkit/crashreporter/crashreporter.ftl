@@ -51,3 +51,4 @@ crashreporter-error-no-home-dir = Noĩri marandurenda’aty ñepyrũha
 # $to (String) - the destination path
 crashreporter-error-moving-path = Ojavy emongu’évo { $from } { $to }-pe
 crashreporter-error-version-eol = Hekove ru’ã: noñemoneĩvéima marandu jejavy rehegua.
+crashreporter-error-failed-to-generate-minidump = Tembiporu’i iñapañuái omoheñóivo marandu jejavygua.
