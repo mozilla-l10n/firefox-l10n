@@ -318,6 +318,9 @@ newtab-custom-recent-toggle =
 newtab-custom-weather-toggle =
     .label = Meteo
     .description = Panoramica delle previsioni meteo per oggi
+newtab-custom-trending-search-toggle =
+    .label = Ricerche di tendenza
+    .description = Argomenti popolari e cercati di frequente
 newtab-custom-close-button = Chiudi
 newtab-custom-settings = Gestisci altre impostazioni
 
@@ -568,3 +571,9 @@ newtab-toast-thanks-for-reporting =
 
 ## Strings for trending searches
 
+# "Trending on Google" refers to the trending topics coming from Google Search, usually seen when a user is focused on the search bar
+newtab-trending-searches-trending-on-google = Di tendenza su Google
+newtab-trending-searches-show-trending =
+    .title = Mostra ricerche di tendenza
+newtab-trending-searches-hide-trending =
+    .title = Nascondi ricerche di tendenza
