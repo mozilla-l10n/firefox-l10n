@@ -734,6 +734,10 @@ search-keyword-warning-title = Jehero jo’apyre
 #   $name (string) - Name of a search engine.
 search-keyword-warning-engine = Eiporavókuri peteĩ jehero oiporúmava "{ $name }". Ikatúpiko eiporavo ambue.
 search-keyword-warning-bookmark = Eiporavókuri peteĩ jehero oiporúmava ambue techaukaha. Ikatúpiko eiporavo ambue.
+# This warning is displayed when the chosen name is already in use.
+# Variables:
+#   $name (string) - Name of a search engine.
+edit-engine-name-warning-duplicate = Oĩma peteĩ hekaha hérava “{ $name }”. Ikatúnepa eiporavomi ambue téra.
 remove-engine-confirmation = Emboguese añetehápepa ko jehekaha
 remove-engine-remove = Mboguete
 remove-addon-engine-alert = Emboguete hag̃ua ko jehekaha, embogue pe moĩmbaha hesegua.
