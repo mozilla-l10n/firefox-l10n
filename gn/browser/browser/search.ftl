@@ -60,6 +60,8 @@ add-engine-button = Embojuaju hekaha momba’epyre
 add-engine-name = Hekaha réra
 add-engine-url2 = URL %s ndive pe jehekaha rendaguépe
 add-engine-keyword2 = Ñe’ẽ karaku (eipotárõ)
+# POST and GET refer to the HTTP methods.
+add-engine-post-data = POST mba’ekuaarã %s ndive hekaha porurekorãngue (eheja nandi GET-pe)
 add-engine-keyword = Ñe’ẽñemi
 add-engine-url = Hekaha URL, eiporu %s ayvureko ehekaséva rendápe
 add-engine-dialog =
