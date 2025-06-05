@@ -62,6 +62,7 @@ add-engine-url2 = URL %s ndive pe jehekaha rendaguépe
 add-engine-keyword2 = Ñe’ẽ karaku (eipotárõ)
 # POST and GET refer to the HTTP methods.
 add-engine-post-data = POST mba’ekuaarã %s ndive hekaha porurekorãngue (eheja nandi GET-pe)
+add-engine-suggest-url = URL ñemoñe’ẽ %s ndive hekaha porurekorãngue (eipotáramo)
 add-engine-keyword = Ñe’ẽñemi
 add-engine-url = Hekaha URL, eiporu %s ayvureko ehekaséva rendápe
 add-engine-dialog =
@@ -81,8 +82,11 @@ add-engine-keyword-placeholder =
 
 ## The following strings are used as error messages.
 
+add-engine-keyword-exists = Pe ñe’ẽ ñemi ojeporúma. Eiporu ambuéva ndive.
+add-engine-name-exists = Pe ñe’ẽ ñemi ojeporumahína. Eiporukuaa ambuéva ndive.
 add-engine-no-name = Ambojuaju téra.
 add-engine-no-url = Emoinge peteĩ URL.
+add-engine-invalid-url = Pe URL ha’ete ku ndoikoporãiva. Eiporujey ha upéi eha’ãjey.
 
 ## The following strings are used as labels for the dialog's buttons.
 
