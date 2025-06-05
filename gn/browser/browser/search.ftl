@@ -87,6 +87,11 @@ add-engine-name-exists = Pe ñe’ẽ ñemi ojeporumahína. Eiporukuaa ambuéva 
 add-engine-no-name = Ambojuaju téra.
 add-engine-no-url = Emoinge peteĩ URL.
 add-engine-invalid-url = Pe URL ha’ete ku ndoikoporãiva. Eiporujey ha upéi eha’ãjey.
+add-engine-invalid-protocol = Pe URL ha’ete ndoikóiva. Eiporu URL oñepyrũva http térã https rupive.
+# This error is shown when the user typed URL is missing %s.
+add-engine-missing-terms-url = Eñeha’ã emoinge %s pe hekaha porurekorãngue.
+# This error is shown when the user typed post data is missing %s.
+add-engine-missing-terms-post-data = Eñeha’ã emoinge %s pe hekaha porurekorãngue.
 
 ## The following strings are used as labels for the dialog's buttons.
 

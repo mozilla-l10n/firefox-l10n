@@ -105,6 +105,8 @@ sidebar-history-context-menu-delete-page-2 =
     .label = Emboguete tembiasakue kuatiaroguégui
 sidebar-history-context-menu-bookmark-page =
     .label = Embojuaju kuatiarogue techaukaháre…
+sidebar-history-context-menu-delete-pages =
+    .label = Emboguete kuatiarogu rembiasakue
 
 ## Labels for sidebar menu items.
 
