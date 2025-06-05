@@ -146,14 +146,14 @@ webrtc-indicator-menuitem-sharing-browser-with-n-tabs =
 ##   $origin (String): the website origin (e.g. www.mozilla.org).
 
 webrtc-allow-share-audio-capture = Dopustiti stranici { $origin } da sluša zvukove ove kartice?
-webrtc-allow-share-camera = Dopustiti stranici { $origin } korištenje tvoje kamere?
-webrtc-allow-share-microphone = Dopustiti stranici { $origin } korištenje tvojeg mikrofona?
+webrtc-allow-share-camera = Dopustiti da { $origin } koristi tvoju kameru?
+webrtc-allow-share-microphone = Dopustiti da { $origin } koristi tvoj mikrofon?
 webrtc-allow-share-screen = Dozvoliti stranici { $origin } da vidi tvoj ekran?
 # "Speakers" is used in a general sense that might include headphones or
 # another audio output connection.
 webrtc-allow-share-speaker = Dozvoliti { $origin } da koristi druge zvučnike?
-webrtc-allow-share-camera-and-microphone = Dopustiti stranici { $origin } korištenje kamere i mikrofona?
-webrtc-allow-share-camera-and-audio-capture = Dopustiti stranici { $origin } korištenje kamere i slušanje zvuka ove kartice?
+webrtc-allow-share-camera-and-microphone = Dopustiti da { $origin } koristi tvoju kameru i mikrofon?
+webrtc-allow-share-camera-and-audio-capture = Dopustiti da { $origin } koristi tvoju kameru i sluša zvuk ove kartice?
 webrtc-allow-share-screen-and-microphone = Dozvoliti stranici { $origin } da koristi tvoj mikrofon i da vidi tvo ekran?
 webrtc-allow-share-screen-and-audio-capture = Dozvoliti stranici { $origin } da sluša zvuk ove kartice i da vidi tvoj ekran?
 
