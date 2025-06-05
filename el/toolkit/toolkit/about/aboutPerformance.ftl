@@ -25,7 +25,7 @@ type-tab = Καρτέλα
 type-subframe = Υποπλαίσιο
 type-tracker = Ιχνηλάτης
 type-addon = Πρόσθετο
-type-browser = Φυλλομετρητής
+type-browser = Πρόγραμμα περιήγησης
 type-worker = Worker
 type-other = Άλλο
 

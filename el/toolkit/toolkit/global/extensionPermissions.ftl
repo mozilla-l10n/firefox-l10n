@@ -27,12 +27,12 @@ webext-perms-description-pkcs11 = Παροχή κρυπτογραφικών υπ
 webext-perms-description-privacy = Ανάγνωση και τροποποίηση ρυθμίσεων απορρήτου
 webext-perms-description-proxy = Έλεγχο των ρυθμίσεων διακομιστή μεσολάβησης του φυλλομετρητή
 webext-perms-description-sessions = Πρόσβαση στις πρόσφατα κλεισμένες καρτέλες
-webext-perms-description-tabs = Πρόσβαση στις καρτέλες του φυλλομετρητή
+webext-perms-description-tabs = Πρόσβαση στις καρτέλες του προγράμματος περιήγησης
 webext-perms-description-tabHide = Απόκρυψη και εμφάνιση καρτελών του φυλλομετρητή
 webext-perms-description-topSites = Πρόσβαση στο ιστορικό περιήγησης
 webext-perms-description-trialML = Λήψη και εκτέλεση μοντέλων ΤΝ στη συσκευή
 webext-perms-description-userScripts = Να επιτρέπεται σε μη επαληθευμένα σενάρια τρίτων η πρόσβαση στα δεδομένα σας
-webext-perms-description-webNavigation = Πρόσβαση στη δραστηριότητα του φυλλομετρητή κατά την πλοήγηση
+webext-perms-description-webNavigation = Πρόσβαση στη δραστηριότητα του προγράμματος περιήγησης κατά την πλοήγηση
 
 ## The userScripts permission includes an additional explanation that is
 ## displayed prominently near the usual permission description.
