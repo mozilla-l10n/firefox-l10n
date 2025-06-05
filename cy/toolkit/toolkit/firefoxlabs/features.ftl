@@ -47,3 +47,6 @@ experimental-features-link-previews-description-no-ai =
         [macos] I ddysgu rhagor am dudalen we cyn clicio, gallwch hofran dros ddolen a phwyso Shift + Alt. Gall y rhagolwg gynnwys manylion fel teitl ac amser darllen. <a data-l10n-name="connect">Rhannu adborth</a>
        *[other] I ddysgu rhagor am dudalen we cyn clicio, gallwch hofran dros ddolen a phwyso Shift + Alt. Gall y rhagolygon gynnwys manylion fel teitl ac amser darllen. <a data-l10n-name="connect">Rhannu adborth</a>
     }
+# New Tab Sections with follow and block
+experimental-features-newtab-sections-follow-block =
+    .label = Adrannau Pynciau a Dilyn/Bloc ar gyfer Straeon Tabiau Newydd

@@ -105,6 +105,8 @@ sidebar-history-context-menu-delete-page-2 =
     .label = Dileu Tudalen o Hanes
 sidebar-history-context-menu-bookmark-page =
     .label = Gosod Nod i Dudalen…
+sidebar-history-context-menu-delete-pages =
+    .label = Dileu Tudalennau o Hanes
 
 ## Labels for sidebar menu items.
 
