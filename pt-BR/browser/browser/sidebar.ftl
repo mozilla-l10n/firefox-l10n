@@ -105,6 +105,8 @@ sidebar-history-context-menu-delete-page-2 =
     .label = Excluir página do histórico
 sidebar-history-context-menu-bookmark-page =
     .label = Adicionar página aos favoritos…
+sidebar-history-context-menu-delete-pages =
+    .label = Excluir páginas do histórico
 
 ## Labels for sidebar menu items.
 
