@@ -1372,6 +1372,7 @@ permissions-addon-exceptions =
 collection-header = { -brand-short-name } Ñembyaty ha mba’ekuaarã jeporu
 collection-header2 = { -brand-short-name } Ñembyaty ha mba’ekuaarã jeporu
     .searchkeywords = telemetría
+preferences-collection-description = Roñeha’ãmbaite heta mba’erã ha rombyaty umi mba’ekuaarã tekotevẽvante oiko porãve hag̃ua { -brand-product-name } opavavépe g̃uarã.
 preferences-collection-privacy-notice = Ehecha marandu’i ñemi rehegua
 preferences-across-profiles = Ño ñemboheko oiko opaite mba’ete { -brand-product-name } pegua ko mba’e’okápe.
 preferences-view-profiles = Ehechapa mba’etekuéra
