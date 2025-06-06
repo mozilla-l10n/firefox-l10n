@@ -141,17 +141,23 @@ contextual-manager-passwords-remove-login-card-remove-button = Հեռացնել
 contextual-manager-passwords-remove-login-card-cancel-button = Չեղարկել
 contextual-manager-passwords-alert-back-button =
     .label = Ետ
+contextual-manager-passwords-alert-list =
+    .aria-label = Ծանուցումների ցանկ
 contextual-manager-passwords-change-password-button = Փոխել գաղտնաբառը
 
 ## Login Form
 
 contextual-manager-passwords-create-label =
     .label = Ավելացնել գաղտնաբառ
+contextual-manager-passwords-remove-label =
+    .title = Հեռացնել գաղտնաբառը
 
 ## Password Card
 
 contextual-manager-passwords-list-label =
     .aria-label = Գաղտնաբառեր
+contextual-manager-website-icon =
+    .alt = Կայքի պատկերակ
 contextual-manager-copy-icon =
     .alt = Պատճենել
 contextual-manager-check-icon-username =
@@ -197,6 +203,8 @@ contextual-manager-passwords-no-passwords-found-header =
 ## When the user has no saved passwords, we display the following messages to inform the user they can save
 ## their passwords safely and securely in Firefox:
 
+# This string encourages the user to save their passwords in Firefox (the "safe spot").
+contextual-manager-passwords-no-passwords-header = Պահպանեք ձեր գաղտնաբառերը անվտանգ տեղում։
 # This string is displayed in a button. If the user clicks it, they will be taken to a form to create a new password.
 contextual-manager-passwords-add-manually = Ձեռքով ավելացնել
 

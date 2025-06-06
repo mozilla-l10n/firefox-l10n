@@ -70,6 +70,7 @@ policy-Handlers = Կարգավորել սկզբնադիր հավելվածներ
 policy-HardwareAcceleration = Եթե կեղծ է՝ անջատել սարքի արագացումը։
 # “lock” means that the user won’t be able to change this setting
 policy-Homepage = Սահմանեք և ընտրովի կողպեք տնէջը։
+policy-HttpsOnlyMode = Թույլատրել Միայն HTTPS ռեժիմի միացումը։
 policy-InstallAddonsPermission = Թույլատրել որոշ կայքերին տեղադրել հավելումներ։
 policy-LegacyProfiles = Անջատեք առանձնահատկությունը, որն ամրացնում է առանձին պրոֆիլ յուրաքանչյուր տեղադրման համար
 

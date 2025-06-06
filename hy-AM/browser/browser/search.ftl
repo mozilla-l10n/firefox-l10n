@@ -53,6 +53,7 @@ add-engine-window =
     .style = min-width: 32em;
 add-engine-button = Ավելացնել հարմարեցված որոնիչ
 add-engine-name = Որոնիչի անունը
+add-engine-keyword2 = Հիմնաբառ (ըստ ցանկության)
 add-engine-keyword = Հիմնաբառ
 add-engine-url = Որոնիչի URL, օգտագործեք %s-ը որոնման եզրույթի փոխարեն
 add-engine-dialog =
@@ -62,9 +63,23 @@ engine-name-exists = Այս անունով որոնիչ արդեն առկա է
 
 ## The following placeholders are shown in the inputs when adding a new engine.
 
+add-engine-keyword-placeholder =
+    .placeholder = օրինակ՝ @mdn
 
 ## The following strings are used as error messages.
 
 
 ## The following strings are used as labels for the dialog's buttons.
 
+# buttonlabelextra1 is the label of a button to open the advanced section
+# of the dialog.
+add-engine-dialog2 =
+    .buttonlabelaccept = Հավելել որոնիչ
+    .buttonaccesskeyaccept = A
+    .buttonlabelextra1 = Լրացուցիչ
+# buttonlabelextra1 is the label of a button to open the advanced section
+# of the dialog.
+edit-engine-dialog =
+    .buttonlabelaccept = Պահպանել որոնիչը
+    .buttonaccesskeyaccept = S
+    .buttonlabelextra1 = Ընդլայնված

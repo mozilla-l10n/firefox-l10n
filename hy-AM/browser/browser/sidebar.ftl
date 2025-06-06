@@ -7,16 +7,33 @@ menu-view-genai-chat =
 
 ## Labels for sidebar history panel
 
+# Variables:
+#   $date (string) - Date to be formatted based on locale
+sidebar-history-date-today =
+    .heading = Այսօր՝ { DATETIME($date, dateStyle: "full") }
+sidebar-history-date-yesterday =
+    .heading = Երեկ՝ { DATETIME($date, dateStyle: "full") }
+sidebar-history-date-this-month =
+    .heading = { DATETIME($date, dateStyle: "full") }
+sidebar-history-date-prev-month =
+    .heading = { DATETIME($date, month: "long", year: "numeric") }
 sidebar-history-delete =
     .title = Ջնջել պատմությունից
 sidebar-history-clear =
     .label = Մաքրել պատմությունը
+sidebar-history-sort-by-heading = Տեսակավարել ըստ՝
 
 ## Labels for sidebar search
 
+# "Search" is a noun (as in "Results of the search for")
+# Variables:
+#   $query (String) - The search query used for searching through browser history.
+sidebar-search-results-header =
+    .heading = «{ $query }»-ի որոնման արդյունքները
 
 ## Labels for sidebar customize panel
 
+sidebar-customize-extensions-header = Կողագոտու ընդլայնումներ
 sidebar-customize-firefox-tools-header =
     .label = { -brand-product-name }--ի գործիքներ
 sidebar-customize-firefox-settings = Կառավարել { -brand-short-name }-ի կարգավորումները

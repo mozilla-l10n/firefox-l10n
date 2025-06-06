@@ -6,6 +6,7 @@ shopping-page-title = { -brand-product-name } գնումներ
 # Title for page showing where a user can check the
 # review quality of online shopping product reviews
 shopping-main-container-title = Կարծիքների ստուգիչ
+shopping-beta-marker = Beta
 shopping-close-button =
     .title = Փակել
 # This string is for notifying screen reader users that the

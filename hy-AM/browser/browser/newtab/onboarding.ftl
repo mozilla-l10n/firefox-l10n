@@ -227,6 +227,7 @@ mr2022-onboarding-get-started-primary-button-label = Տեղակայեք վայր
 ## These strings will be used on the welcome page
 ## when Firefox is already set to default and pinned.
 
+mr2022-onboarding-import-header = Կայծակնային արագ տեղակայում
 mr2022-onboarding-import-primary-button-label-no-attribution = Ներմուծել նախորդ դիտարկիչից
 
 ## If your language uses grammatical genders, in the description for the
@@ -340,6 +341,8 @@ onboarding-new-user-survey-familiarity-based-option-4 = Օգտագործել ե�
 onboarding-new-tabs-title = Ասեք մեզ, թե որտեղ եք ցանկանում ձեր ներդիրները
 # Setup screen for vertical tabs - "Switch it up" refers to switching between horizontal and vertical tabs.
 onboarding-new-tabs-subtitle = Միացրեք այն, երբ ցանկանում եք, կողագոտու կարգավորումներում:
+# Setup screen for vertical tabs - focused variation
+onboarding-focused-tabs-title = Ընտրեք ձեր ներդիրի դասավորությունը
 # Text underneath an image used for selecting browser tabs to appear on the side of the browser.
 onboarding-new-vertical-tabs-label = Ներդիրները կողքից
 # Text underneath an image used for selecting browser tabs to appear at the top of the browser.
@@ -377,8 +380,11 @@ tab-groups-onboarding-dismiss = Լավ
 
 ## Multi Profiles feature onboarding messages
 
+multi-profile-callout-cta = Ստեղծել պրոֆիլ
 
 ## Desktop to Mobile Adoption feature callout strings
 
+# If translating the headline is challenging, consider using a simplified alternative as a reference: 'Sync your browsing with Firefox for mobile.'
+desktop-to-mobile-headline = Ներբեռնեք, համաժամեցրեք և գնացեք։
 dismiss-button-label = Բաց թողնել
 sync-to-mobile-button-label = Համաժամեցեք բջջայինի հետ

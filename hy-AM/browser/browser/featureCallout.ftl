@@ -71,9 +71,13 @@ split-dismiss-button-default-label =
 
 bookmarks-toolbar-callout-1-primary-button-label = Ավելացնել Էջանիշ
 bookmarks-toolbar-callout-1-secondary-button-label = Ոչ, շնորհակալ եմ
+# Visible if user adds a bookmark in callout 1, bookmarks toolbar is set to always show when this message renders
+bookmarks-toolbar-callout-2a-title = Հեշտությամբ ավելացրեք ավելի շատ էջանիշներ
 bookmarks-toolbar-callout-2a-primary-button-label = Հասկացա
 # Reverts the bookmarks toolbar to the default setting
 bookmarks-toolbar-callout-2a-secondary-button-label = Թաքցնել գործիքաշերտը
+# Visible if user declines to add a bookmark in callout 1, bookmarks toolbar is set to always show when this message renders
+bookmarks-toolbar-callout-2b-title = Բաց պահե՞լ էջանիշների գործիքագոտին:
 bookmarks-toolbar-callout-2b-primary-button-label = Բաց պահել
 # Reverts the bookmarks toolbar to the default setting
 bookmarks-toolbar-callout-2b-secondary-button-label = Ոչ, շնորհակալ եմ
@@ -92,6 +96,7 @@ sidebar-button-callout-vertical-tabs = Ձեր ներդիրները ցուցադ�
 
 ## Sidebar Vertical Tabs Strings
 
+vertical-tabs-callout-1-title = Ծանրաբեռնվա՞ծ եք չափազանց շատ ներդիրներով։
 vertical-tabs-callout-1-subtitle = Փորձեք մեր նոր ուղղահայաց ներդիրների դասավորությունը՝ ձեր ներդիրների ցանկը արագ սկանավորելու համար: Վաղ փորձարկողները հայտնում են, որ այս դասավորությունը օգնում է նրանց ավելի կազմակերպված զգալ: Անցեք ցանկացած ժամանակ:
 vertical-tabs-callout-1-cta-button = Փորձեք ուղղահայաց ներդիրները
 vertical-tabs-callout-2-cta-button = Փորձել հիմա

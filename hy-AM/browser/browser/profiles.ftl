@@ -30,10 +30,14 @@ edit-profile-page-avatar-header-2 =
     .label = Ավատար
 edit-profile-page-delete-button =
     .label = Ջնջել
+avatar-selector-icon-tab = Պատկերակ
+avatar-selector-custom-tab = Հարմարեցված
 edit-profile-page-profile-saved = Պահված
 new-profile-page-title = Նոր պրոֆիլ
 new-profile-page-header = Հարմարեցրեք ձեր նոր պրոֆիլը
 new-profile-page-learn-more = Իմանալ ավելին
+new-profile-page-done-button =
+    .label = Խմբագրումն ավարտված է
 profile-window-title-2 = { -brand-short-name } - ընտրեք պրոֆիլ
 profile-window-logo =
     .alt = { -brand-short-name }-ի լոգո
@@ -46,6 +50,7 @@ delete-profile-page-title = Ջնջել { $profilename } պրոֆիլը
 # Variables
 #   $profilename (String) - The name of the profile.
 delete-profile-header = Ջնջե՞լ { $profilename } պրոֆիլը:
+delete-profile-description = { -brand-short-name }-ը մշտապես կջնջի հետևյալ տվյալները այս սարքից՝
 # Open is an adjective, as in "browser windows currently open".
 delete-profile-windows = Բացված պատուհանները
 # Open is an adjective, as in "browser tabs currently open".
@@ -66,9 +71,17 @@ delete-profile-confirm = Ջնջել
 
 # The default light theme
 profiles-light-theme = Light
+# The default dark theme
+profiles-dark-theme = Մուգ
+# The default system theme
+profiles-system-theme = Համակարգային
+# This light theme features sunny colors such as goldenrod and pale yellow. Its name evokes the color of a marigold flower. This name can be translated directly if it's easily understood in your language, or adapted to a more natural sounding name that fits the color scheme.
+profiles-marigold-theme-2 = Նարգիզ դեղին
 
 ## Alternative text for default profile icons
 
+book-avatar-alt =
+    .alt = Գիրք
 
 ## Labels for default avatar icons
 

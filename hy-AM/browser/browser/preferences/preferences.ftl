@@ -221,12 +221,25 @@ preferences-web-appearance-description = Որոշ կայքեր հարմարեց�
 preferences-web-appearance-choice-auto = Ինքնաշխատ
 preferences-web-appearance-choice-light = Լուսավոր
 preferences-web-appearance-choice-dark = Մուգ
+preferences-web-appearance-choice-input-auto =
+    .aria-description = { preferences-web-appearance-choice-tooltip-auto.title }
+preferences-web-appearance-choice-input-light =
+    .aria-description = { preferences-web-appearance-choice-tooltip-light.title }
+preferences-web-appearance-choice-input-dark =
+    .aria-description = { preferences-web-appearance-choice-tooltip-dark.title }
 # This message contains one link. It can be moved within the sentence as needed
 # to adapt to your language, but should not be changed.
 preferences-web-appearance-footer = Կառավարեք { -brand-short-name } ձևավորումները <a data-l10n-name="themes-link">Ընդլայնումներ և Ձևավորումներում</a>
+preferences-contrast-control-header = Ցայտնության կառավարում
 preferences-contrast-control-use-platform-settings =
     .label = Ինքնաշխատ (օգտագործել համակարգի կարգավորումները)
     .accesskey = A
+preferences-contrast-control-off =
+    .label = Անջ.
+    .accesskey = O
+preferences-contrast-control-custom =
+    .label = Հարմարեցված
+    .accesskey = C
 preferences-colors-header = Գույներ
 preferences-colors-description = Չեղարկել { -brand-short-name }-ի սկզբնադիր գույները տեքստի, կայքի խորքի և հղումների համար:
 preferences-colors-manage-button =
@@ -445,6 +458,8 @@ performance-default-content-process-count =
 ## General Section - Browsing
 
 browsing-title = Դիտարկում
+browsing-group-label =
+    .aria-label = Դիտարկում
 browsing-use-autoscroll =
     .label = Օգտվել ինքնաոլորումից
     .accesskey = ի
@@ -568,6 +583,13 @@ home-prefs-recent-activity-description = Վերջին կայքերի և բովա
 home-prefs-snippets-header =
     .label = Հատվածներ
 home-prefs-snippets-description-new = Հուշումներ, նորություններ { -vendor-short-name }-ից և { -brand-product-name }-ից
+home-prefs-weather-header =
+    .label = Եղանակ
+home-prefs-weather-learn-more-link = Իմանալ ավելին
+# "Support" here means to help sustain or contribute to something, especially through funding or sponsorship.
+home-prefs-support-firefox-header =
+    .label = { -brand-product-name }-ի աջակցում
+home-prefs-mission-message-learn-more-link = Իմացեք, թե ինչպես
 # Variables:
 #   $num (number) - Number of rows displayed
 home-prefs-sections-rows-option =
@@ -632,6 +654,9 @@ search-remove-engine =
 search-add-engine =
     .label = Ավելացնել
     .accesskey = A
+search-edit-engine =
+    .label = Խմբագրել
+    .accesskey = E
 search-find-more-link = Գտնել լրացուցիչ որոնիչներ
 # This warning is displayed when the chosen keyword is already in use
 # ('Duplicate' is an adjective)
@@ -640,6 +665,9 @@ search-keyword-warning-title = Կրկնել հիմաբառը
 #   $name (string) - Name of a search engine.
 search-keyword-warning-engine = Դուք ընտրել եք կրկնվող հիմաբառ, որը արդեն օգտագործվում է "{ $name }" -ի կողմից: Խնդրում ենք ընտրել մեկ ուրիշը:
 search-keyword-warning-bookmark = Դուք ընտրեցիք հիմնաբառ, որը այս պահին օգտագործվում է էջանիշի կողմից: Խնդրում եմ ընտրեք մեկ ուրիշը:
+remove-engine-confirmation = Վստա՞հ եք, որ ուզում եք հեռացնել այս որոնիչը:
+remove-engine-remove = Հեռացնել
+remove-addon-engine-alert = Այս որոնիչը հեռացնելու համար հեռացրեք հարակցված հավելումը:
 
 ## Containers Section
 
@@ -682,6 +710,8 @@ sync-profile-picture =
 sync-profile-picture-with-alt =
     .tooltiptext = Փոխել պրոֆիլի նկարը
     .alt = Փոխել պրոֆիլի նկարը
+sync-profile-picture-account-problem =
+    .alt = Հաշվի պրոֆիլի նկար
 fxa-login-rejected-warning =
     .alt = Նախագուշացում
 sync-sign-out =
@@ -1027,7 +1057,10 @@ sitedata-cookies-exceptions =
 
 ## Privacy Section - Cookie Banner Blocking
 
+cookie-banner-blocker-header = Թխուկների ազդերիզի արգելափակիչ
 cookie-banner-learn-more = Իմանալ ավելին
+forms-handle-cookie-banners =
+    .label = Նվազեցնել թխուկների ազդերիզները
 
 ## Privacy Section - Address Bar
 
@@ -1066,6 +1099,7 @@ addressbar-locbar-showrecentsearches-option =
     .label = Ցուցադրել վերջին որոնումները
     .accesskey = վ
 addressbar-quickactions-learn-more = Իմանալ ավելին
+addressbar-dismissed-suggestions-label = Մերժված առաջարկներ
 addressbar-restore-dismissed-suggestions-button =
     .label = Վերականգնել
 
@@ -1144,6 +1178,18 @@ content-blocking-cryptominers-label =
 content-blocking-fingerprinters-label =
     .label = Մատնահետքեր
     .accesskey = F
+# Browser fingerprinting is a method of tracking users by the configuration and settings information (their "digital fingerprint")
+# that is visible to websites they browse, rather than traditional tracking methods such as IP addresses and unique cookies.
+#
+# The known fingerprinters are those that are known for collecting browser fingerprints from user devices.
+content-blocking-known-fingerprinters-label =
+    .label = Հայտնի մատնահետքեր
+    .accesskey = K
+# The suspected fingerprinters are those that we are uncertain about browser fingerprinting activities. But they could
+# possibly acquire browser fingerprints because of the behavior on accessing APIs that expose browser fingerprints.
+content-blocking-suspected-fingerprinters-label =
+    .label = Կասկածելի մատնահետքեր
+    .accesskey = S
 
 ## Privacy Section - Tracking
 
@@ -1249,6 +1295,7 @@ collection-backlogged-crash-reports-with-link = Թույլատրել { -brand-sh
     .accesskey = c
 collection-backlogged-crash-reports = Թույլատրել { -brand-short-name }-ին ուղարկել հետաձգված վթարի զեկույցներ առանց ձեր գիտության
     .accesskey = c
+privacy-segmentation-section-header = Նոր հնարավորություններ, որոնք կբարելավեն ձեր զննարկիչը
 privacy-segmentation-radio-on =
     .label = Ցուցադրել մանրամասն տեղեկություն
 

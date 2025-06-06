@@ -117,6 +117,14 @@ fp-learn-more-about-time-related-errors = En savoir plus sur le dépannage des e
 ## Variables:
 ##   $hostname (string) - Hostname of the website with cert error.
 
+cert-error-revoked-certificate = { -brand-short-name } a bloqué votre visite sur ce site, car le certificat fourni pour { $hostname } a été révoqué et n’est plus digne de confiance.
+cert-error-bad-signature = { -brand-short-name } a bloqué votre visite sur ce site, car la signature du certificat fourni pour { $hostname } n’est pas valide.
+cert-error-key-pinning-failure = { -brand-short-name } a bloqué votre visite sur ce site, car le certificat fourni pour { $hostname } utilise une clé publique autre que celle attendue.
+cert-error-bad-der = { -brand-short-name } a bloqué votre visite sur ce site, car le certificat fourni pour { $hostname } n’est pas correctement encodé.
+cert-error-inadequate-cert-type = { -brand-short-name } a bloqué votre visite sur ce site, car le certificat fourni pour { $hostname } n’est pas autorisé pour l’utilisation par un serveur web.
+cert-error-path-len-constraint-invalid = { -brand-short-name } a bloqué votre visite sur ce site, car le certificat fourni pour { $hostname } contient trop de certificats intermédiaires sur le chemin vers le certificat racine.
+cert-error-invalid-key = { -brand-short-name } a bloqué votre visite sur ce site, car le certificat fourni pour { $hostname } possède une clé invalide. Elle est très probablement trop petite pour être sécurisée.
+cert-error-unknown-critical-extension = { -brand-short-name } a bloqué votre visite sur ce site, car le certificat fourni pour { $hostname } contient une extension critique non prise en charge.
 
 ## Messages used for certificate error titles
 
