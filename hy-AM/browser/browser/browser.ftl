@@ -1186,8 +1186,8 @@ popup-notification-xpinstall-prompt-block-url = Դիտել մանրամասնե�
 #   $popupCount (Number): the number of pop-ups blocked.
 popup-warning-message =
     { $popupCount ->
-        [one] { -brand-short-name } կանխվել է թռուցիկի բացումը այս կայքից:
-       *[other] { -brand-short-name } կանխել է { $popupCount } թռուցիկի բացումը:
+        [one] { -brand-short-name }-ը կանխել է թռուցիկի բացումը այս կայքից:
+       *[other] { -brand-short-name }-ը կանխել է { $popupCount } թռուցիկի բացումը:
     }
 # The singular form is left out for English, since the number of blocked pop-ups is always greater than 1.
 # Variables:
