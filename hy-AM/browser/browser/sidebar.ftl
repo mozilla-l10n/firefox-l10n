@@ -22,6 +22,14 @@ sidebar-history-delete =
 sidebar-history-clear =
     .label = Մաքրել պատմությունը
 sidebar-history-sort-by-heading = Տեսակավարել ըստ՝
+sidebar-history-sort-option-date =
+    .label = Ամսաթվի
+sidebar-history-sort-option-site =
+    .label = Կայքի
+sidebar-history-sort-option-date-and-site =
+    .label = Ամսաթվի և կայքի
+sidebar-history-sort-option-last-visited =
+    .label = Վերջին այցելության
 
 ## Labels for sidebar search
 
@@ -39,10 +47,14 @@ sidebar-customize-firefox-tools-header =
 sidebar-customize-firefox-settings = Կառավարել { -brand-short-name }-ի կարգավորումները
 sidebar-vertical-tabs =
     .label = Ուղղահայաց ներդիրներ
+sidebar-settings =
+    .label = Կողագոտու կարգավորումներ
 sidebar-hide-tabs-and-sidebar =
     .label = Թաքցնել ներդիրները և կողագոտին
 sidebar-show-on-the-right =
     .label = Տեղափոխել Կողագոտին աջ
+sidebar-show-on-the-left =
+    .label = Տեղափոխել Կողագոտին ձախ
 # Option to automatically expand the collapsed sidebar when the mouse pointer
 # hovers over it.
 expand-sidebar-on-hover =
@@ -52,12 +64,30 @@ expand-sidebar-on-hover =
 
 sidebar-context-menu-manage-extension =
     .label = Կառավարել ընդլայնումը
+sidebar-context-menu-remove-extension =
+    .label = Հեռացնել ընդլայնումը
+sidebar-context-menu-report-extension =
+    .label = Զեկուցել ընդլայնման մասին
+sidebar-context-menu-open-in-tab =
+    .label = Բացել նոր ներդիրում
+sidebar-context-menu-open-in-window =
+    .label = Բացել նոր պատուհանում
+sidebar-context-menu-open-in-private-window =
+    .label = Բացել նոր գաղտնի պատուհանում
+sidebar-context-menu-bookmark-tab =
+    .label = Էջանշել ներդիրը...
+sidebar-context-menu-copy-link =
+    .label = Պատճենել հղումը
 sidebar-context-menu-hide-sidebar =
     .label = Թաքցնել կողագոտին
 sidebar-context-menu-enable-vertical-tabs =
     .label = Միացնել ուղղահայաց ներդիրները
 sidebar-context-menu-customize-sidebar =
     .label = Հարմարեցնել կողագոտին
+# Variables:
+#   $deviceName (String) - The name of the device the user is closing a tab for
+sidebar-context-menu-close-remote-tab =
+    .label = Փակել ներդիրը { $deviceName }-ում
 
 ## Labels for sidebar history context menu items
 

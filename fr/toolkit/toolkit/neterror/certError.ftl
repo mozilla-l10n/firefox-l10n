@@ -125,6 +125,13 @@ cert-error-inadequate-cert-type = { -brand-short-name } a bloqué votre visite s
 cert-error-path-len-constraint-invalid = { -brand-short-name } a bloqué votre visite sur ce site, car le certificat fourni pour { $hostname } contient trop de certificats intermédiaires sur le chemin vers le certificat racine.
 cert-error-invalid-key = { -brand-short-name } a bloqué votre visite sur ce site, car le certificat fourni pour { $hostname } possède une clé invalide. Elle est très probablement trop petite pour être sécurisée.
 cert-error-unknown-critical-extension = { -brand-short-name } a bloqué votre visite sur ce site, car le certificat fourni pour { $hostname } contient une extension critique non prise en charge.
+cert-error-extension-value-invalid = { -brand-short-name } a bloqué votre visite sur ce site, car le certificat fourni pour { $hostname } contient une extension invalide.
+cert-error-untrusted-issuer = { -brand-short-name } a bloqué votre visite sur ce site, car le certificat fourni pour { $hostname } a été émis par une autorité de certification qui n’est plus digne de confiance.
+cert-error-untrusted-cert = { -brand-short-name } a bloqué votre visite sur ce site, car le certificat fourni pour { $hostname } est marqué comme non digne de confiance.
+cert-error-invalid-integer-encoding = { -brand-short-name } a bloqué votre visite sur ce site, car le certificat fourni pour { $hostname } contient un entier mal encodé. Les raisons les plus fréquentes sont des numéros de série négatifs, des modules RSA négatifs ou des encodages plus longs que nécessaire.
+cert-error-unsupported-keyalg = { -brand-short-name } a bloqué votre visite sur ce site, car le certificat fourni pour { $hostname } possède un type de clé non pris en charge.
+cert-error-issuer-no-longer-trusted = { -brand-short-name } a bloqué votre visite sur ce site, car l’autorité de certification qui a délivré le certificat fourni pour { $hostname } n’est plus digne de confiance.
+cert-error-signature-algorithm-mismatch = { -brand-short-name } a bloqué votre visite sur ce site, car l’algorithme de signature du certificat fourni pour { $hostname } ne correspond pas au champ d’algorithme de signature.
 
 ## Messages used for certificate error titles
 

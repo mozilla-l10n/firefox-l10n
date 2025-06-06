@@ -34,6 +34,10 @@ fxa-menu-sign-out =
     .label = Դուրս գալ…
 fxa-menu-sync-title = Համաժամեցնել
 fxa-menu-sync-description = Համացանցային հասանելիություն՝ ամեն վայրից
+fxa-avatar-sign-in = Մուտք գործել
+fxa-avatar-sign-up = Գրանցվել
+fxa-avatar-tooltip =
+    .tooltiptext = Մուտք գործեք ձեր հաշիվ
 sync-setup-verify-continue = Շարունակել
 sync-setup-verify-title = Միացնել զգուշացումը
 
