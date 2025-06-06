@@ -198,6 +198,10 @@ migration-safari-password-import-step3 = Lagre passordfilen
 migration-safari-password-import-step4 = Bruk «Velg fil» nedenfor for å velge passordfilen du lagret
 migration-chrome-windows-password-import-header = Slik importerer du passord fra Chrome
 migration-chrome-windows-password-import-steps-header = I Chrome:
+migration-chrome-windows-password-import-step1 = Åpne hovedmenyen <img data-l10n-name="chrome-icon-3dots"/> og gå til Passord og autofyll > Google Passordbehandling.
+migration-chrome-windows-password-import-step2 = Velg «Innstillinger» fra menyen.
+migration-chrome-windows-password-import-step3 = Velg «Last ned fil» og lagre den på enheten din.
+migration-chrome-windows-password-import-step4 = Gå tilbake hit og trykk på «Velg fil» for å fullføre importen.
 migration-manual-password-import-skip-button = Hopp over
 migration-manual-password-import-select-button = Velg fil
 migration-safari-password-import-skip-button = Hopp over
