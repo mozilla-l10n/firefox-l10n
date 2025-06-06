@@ -1195,6 +1195,15 @@ popup-notification-addon-install-unsigned =
     .value = (Ubekreftet)
 popup-notification-xpinstall-prompt-learn-more = Les mer om sikker installering av utvidelser
 popup-notification-xpinstall-prompt-block-url = Se detaljer
+# Note: Access key is set to p to match "private" in the corresponding localized label.
+popup-notification-addon-privatebrowsing-checkbox2 =
+    .label = Tillat at utvidelsen kjører i private vinduer
+    .accesskey = p
+# This string is similar to `webext-perms-description-data-long-technicalAndInteraction`
+# but it is used in the install prompt, and it needs an access key.
+popup-notification-addon-technical-and-interaction-checkbox =
+    .label = Del tekniske data og interaksjonsdata med utvidelsesutvikleren
+    .accesskey = D
 
 ## Pop-up warning
 
@@ -1248,3 +1257,4 @@ file-picker-crashed-show-in-folder =
 
 ## Onboarding Finish Setup checklist
 
+onboarding-checklist-button-label = Fullfør oppsettet

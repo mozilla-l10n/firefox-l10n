@@ -29,3 +29,5 @@ confirmation-hint-duplicate-tabs-closed =
         [one] Lukket { $tabCount } fane
        *[other] Lukket { $tabCount } faner
     }
+# Subtle notification shown when Extensions button moves into the application menu.
+confirmation-hint-extensions-button-hidden = Flytt til meny
