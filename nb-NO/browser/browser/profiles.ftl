@@ -7,6 +7,8 @@ profile-window-body = Hold jobben og den personlige surfingen din, inkludert tin
 # This checkbox appears in the Choose profile window that appears when the browser is opened. "Show this" refers to this window, which is displayed when the checkbox is enabled.
 profile-window-checkbox-label-2 =
     .label = Velg en profil når { -brand-short-name } åpnes
+# This subcopy appears below the checkbox when it is unchecked
+profile-window-checkbox-subcopy = { -brand-short-name } vil åpne med profilen du brukte sist.
 profile-window-create-profile = Opprett en profil
 profile-card-edit-button =
     .title = Rediger profil
@@ -34,6 +36,9 @@ edit-profile-page-avatar-header-2 =
     .label = Avatar
 edit-profile-page-delete-button =
     .label = Slett
+edit-profile-page-avatar-selector-opener-link = Rediger
+avatar-selector-icon-tab = Ikon
+avatar-selector-custom-tab = Tilpasset
 edit-profile-page-no-name = Gi denne profilen et navn for å hjelpe deg med å finne den senere. Bytt navn når som helst.
 edit-profile-page-duplicate-name = Profilnavnet er allerede i bruk. Prøv et annet navn.
 edit-profile-page-profile-saved = Lagret
@@ -82,6 +87,20 @@ profiles-light-theme = Lys
 profiles-dark-theme = Mørk
 # The default system theme
 profiles-system-theme = System
+# This light theme features sunny colors such as goldenrod and pale yellow. Its name evokes the color of a marigold flower. This name can be translated directly if it's easily understood in your language, or adapted to a more natural sounding name that fits the color scheme.
+profiles-marigold-theme-2 = Gul ringblomst
+# This light theme features various shades of soft, muted purples. Its name evokes the color of a lavender flower. This name can be translated directly if it's easily understood in your language, or adapted to a more natural sounding name that fits the color scheme.
+profiles-lavender-theme-2 = Blek lavendel
+# This light theme features very pale green tones. Its name evokes the color of pale green mint ice cream. This name can be translated directly if it's easily understood in your language, or adapted to a more natural sounding name that fits the color scheme.
+profiles-lichen-theme-2 = Myntegrønn
+# This light theme features various shades of pink ranging from pale to bold. Its name evokes the color of a pink magnolia flower. This name can be translated directly if it's easily understood in your language, or adapted to a more natural sounding name that fits the color scheme.
+profiles-magnolia-theme-2 = Rosa magnolia
+# Ocean blue is a dark theme that features very dark blues and black. Its name evokes the color of the deep ocean water. This name can be translated directly if it's easily understood in your language, or adapted to a more natural sounding name that fits the color scheme.
+profiles-ocean-theme-2 = Havblå
+# This dark theme features warm oranges, dark mahogany browns, and earthy red/brown colors. The name evokes the earthy colors of brick masonry. This name can be translated directly if it's easily understood in your language, or adapted to a more natural sounding name that fits the color scheme.
+profiles-terracotta-theme-2 = Mursteinsrød
+# This dark theme features forest green, dusky green with a gray undertone, and a muted sage green. Its name evokes the rich color of green moss in the forest. This name can be translated directly if its easily understood in your language, or adapted to a more natural sounding name that fits the color scheme.
+profiles-moss-theme-2 = Mosegrønn
 
 ## Alternative text for default profile icons
 

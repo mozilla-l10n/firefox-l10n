@@ -270,6 +270,12 @@ preferences-web-appearance-override-warning2 =
 # This message contains one link. It can be moved within the sentence as needed
 # to adapt to your language, but should not be changed.
 preferences-web-appearance-footer = Behandle { -brand-short-name }-temaer i <a data-l10n-name="themes-link">Tillegg og temaer</a>
+preferences-contrast-control-off =
+    .label = Av
+    .accesskey = A
+preferences-contrast-control-custom =
+    .label = Tilpasset
+    .accesskey = T
 preferences-colors-header = Farger
 preferences-colors-description = Overstyr { -brand-short-name } sine standardfarger for tekst, nettsidebakgrunner og lenker.
 preferences-colors-manage-button =
@@ -499,6 +505,8 @@ performance-default-content-process-count =
 ## General Section - Browsing
 
 browsing-title = Nettlesing
+browsing-group-label =
+    .aria-label = Nettlesing
 browsing-use-autoscroll =
     .label = Bruk automatisk rulling
     .accesskey = B
@@ -633,6 +641,11 @@ home-prefs-weather-header =
     .label = Vær
 home-prefs-weather-description = Dagens værmelding i korte trekk
 home-prefs-weather-learn-more-link = Les mer
+# "Support" here means to help sustain or contribute to something, especially through funding or sponsorship.
+home-prefs-support-firefox-header =
+    .label = Støtt { -brand-product-name }
+home-prefs-mission-message = Våre sponsorer støtter vårt oppdrag om å bygge et bedre internett
+home-prefs-mission-message-learn-more-link = Finn ut hvordan
 # Variables:
 #   $num (number) - Number of rows displayed
 home-prefs-sections-rows-option =
@@ -701,6 +714,9 @@ search-remove-engine =
 search-add-engine =
     .label = Legg til
     .accesskey = L
+search-edit-engine =
+    .label = Rediger
+    .accesskey = R
 search-find-more-link = Finn flere søkemotorer
 # This warning is displayed when the chosen keyword is already in use
 # ('Duplicate' is an adjective)
@@ -709,6 +725,13 @@ search-keyword-warning-title = Duplikat nøkkelord
 #   $name (string) - Name of a search engine.
 search-keyword-warning-engine = Du har valgt et nøkkelord som allerede brukes av «{ $name }». Velg et annet nøkkelord.
 search-keyword-warning-bookmark = Du har valgt et nøkkelord som brukes av et annet bokmerke. Velg et annet nøkkelord.
+# This warning is displayed when the chosen name is already in use.
+# Variables:
+#   $name (string) - Name of a search engine.
+edit-engine-name-warning-duplicate = Det finnes allerede en søkemotor med navnet «{ $name }». Velg et annet navn.
+remove-engine-confirmation = Er du sikker på at du vil fjerne denne søkemotoren?
+remove-engine-remove = Fjern
+remove-addon-engine-alert = For å fjerne denne søkemotoren, fjern det tilknyttede tillegget.
 
 ## Containers Section
 
@@ -1171,7 +1194,9 @@ addressbar-locbar-suggest-nonsponsored-option =
 addressbar-locbar-suggest-nonsponsored-desc = Få forslag fra nettet relatert til søket ditt
 addressbar-locbar-suggest-sponsored-option =
     .label = Forslag fra sponsorer
+addressbar-locbar-suggest-sponsored-desc = Støtt { -brand-short-name } med sporadiske sponsede forslag.
 addressbar-quickactions-learn-more = Les mer
+addressbar-dismissed-suggestions-label = Forkastede forslag
 addressbar-restore-dismissed-suggestions-button =
     .label = Gjenopprett
 
@@ -1338,6 +1363,7 @@ collection-header2 = Datainnsamling og bruk for { -brand-short-name }
     .searchkeywords = telemetri
 preferences-collection-description = Vi streber etter å gi deg valg og samler bare inn minimalt med data som er nødvendig for å forbedre { -brand-product-name } for alle.
 preferences-collection-privacy-notice = Vis personvernbestemmelser
+preferences-view-profiles = Vis alle profiler
 collection-description = Vi prøver alltid å gi deg valg og samler bare det vi trenger for å levere og forbedre { -brand-short-name } for alle. Vi ber alltid om tillatelse før vi aksepterer personopplysninger.
 collection-privacy-notice = Personvernbestemmelser
 collection-health-report-telemetry-disabled = Du tillater ikke lenger { -vendor-short-name } å samle inn teknisk data og data om bruk. Alle tidligere data vil bli slettet innen 30 dager.
@@ -1428,6 +1454,7 @@ space-alert-under-5gb-message2 = <strong>{ -brand-short-name } er i ferd med å 
 ## Privacy Section - HTTPS-Only
 
 httpsonly-header = Kun-HTTPS-modus
+httpsonly-description3 = Tillater kun sikre tilkoblinger til nettsteder. { -brand-short-name } vil spørre, før en usikker tilkobling opprettes.
 httpsonly-learn-more2 = Hvordan kun-HTTPS-modus fungerer
 httpsonly-description = HTTPS gir en sikker, kryptert forbindelse mellom { -brand-short-name } og nettstedene du besøker. De fleste nettsteder støtter HTTPS, og hvis kun-HTTPS er aktivert, vil { -brand-short-name } oppgradere alle tilkoblinger til HTTPS.
 httpsonly-learn-more = Les mer
