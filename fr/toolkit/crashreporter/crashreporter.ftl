@@ -51,3 +51,4 @@ crashreporter-error-no-home-dir = Répertoire home manquant
 # $to (String) - the destination path
 crashreporter-error-moving-path = Impossible de déplacer { $from } vers { $to }
 crashreporter-error-version-eol = Fin de vie de cette version : les rapports de plantage ne sont plus acceptés.
+crashreporter-error-failed-to-generate-minidump = L’application n’a pas réussi à générer les informations de plantage.

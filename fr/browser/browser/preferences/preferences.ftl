@@ -721,6 +721,9 @@ search-remove-engine =
 search-add-engine =
     .label = Ajouter
     .accesskey = A
+search-edit-engine =
+    .label = Modifier
+    .accesskey = M
 search-find-more-link = Découvrir d’autres moteurs de recherche
 # This warning is displayed when the chosen keyword is already in use
 # ('Duplicate' is an adjective)
@@ -729,6 +732,10 @@ search-keyword-warning-title = Doublon de mot-clé
 #   $name (string) - Name of a search engine.
 search-keyword-warning-engine = Vous avez choisi un mot-clé qui est déjà utilisé par « { $name } ». Veuillez en choisir un autre.
 search-keyword-warning-bookmark = Vous avez choisi un mot-clé qui est déjà utilisé par un marque-page. Veuillez en choisir un autre.
+# This warning is displayed when the chosen name is already in use.
+# Variables:
+#   $name (string) - Name of a search engine.
+edit-engine-name-warning-duplicate = Un moteur de recherche nommé « { $name } » existe déjà. Choisissez un autre nom.
 remove-engine-confirmation = Voulez-vous vraiment supprimer ce moteur de recherche ?
 remove-engine-remove = Supprimer
 remove-addon-engine-alert = Pour supprimer ce moteur de recherche, supprimez le module associé.

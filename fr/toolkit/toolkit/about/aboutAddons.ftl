@@ -562,3 +562,16 @@ mlmodel-link-preview = { -brand-short-name } l’utilise pour générer des poin
 mlmodel-pdfjs = { -brand-short-name } l’utilise pour créer le texte alternatif des images que vous ajoutez aux fichiers PDF
 mlmodel-smart-tab-topic-engine = { -brand-short-name } l’utilise pour suggérer les noms de vos groupes d’onglets
 mlmodel-smart-tab-embedding-engine = { -brand-short-name } l’utilise pour suggérer des onglets à ajouter à vos groupes d’onglets
+mlmodel-description = Certaines fonctionnalités et extensions de { -brand-short-name } s’appuient sur des modèles d’IA qui fonctionnent localement sur votre appareil. Cette approche protège votre vie privée et, dans de nombreux cas, améliore les performances. <a data-l10n-name="learn-more">En savoir plus</a>
+# Label for button that when clicked removed local model
+mlmodel-remove-addon-button =
+    .aria-label = Supprimer
+# Label for the aggregated value of all files for a model
+mlmodel-addon-detail-totalsize-label = Taille du fichier
+mlmodel-addon-detail-last-used-label = Dernière utilisation
+# This is a section label to describe what extensions or features use a specific local AI model
+mlmodel-addon-detail-used-by-label = Utilisé par
+# This is a section label to describe the link to the model card on the Hugging Face website
+mlmodel-addon-detail-model-card = Carte du modèle
+# This is a label for the Model Card link to Hugging face
+mlmodel-addon-detail-model-card-link-label = Voir sur Hugging Face

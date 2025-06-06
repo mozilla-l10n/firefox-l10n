@@ -15,6 +15,7 @@ about-logging-set-log-file = Définir un fichier de journalisation
 about-logging-set-log-modules = Définir des modules de journalisation
 about-logging-start-logging = Lancer la journalisation
 about-logging-stop-logging = Arrêter la journalisation
+about-logging-copy-as-url = Copier les paramètres actuels comme URL
 about-logging-buttons-disabled = La journalisation est configurée par les variables d’environnement, la configuration dynamique n’est pas disponible.
 about-logging-some-elements-disabled = La journalisation est configurée par URL, certaines options de configuration ne sont pas disponibles
 about-logging-info = Informations :
