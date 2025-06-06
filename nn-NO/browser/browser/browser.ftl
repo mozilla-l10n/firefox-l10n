@@ -405,6 +405,8 @@ quickactions-cmd-screenshot2 = skjermbilde, ta eit skjermbilde
 quickactions-cmd-screenshot = skjermbilete
 # Opens about:preferences
 quickactions-settings2 = Handsam innstillingar
+# "manage" should match the corresponding command, which is “Manage settings” in English.
+quickactions-cmd-settings2 = innstillingar, preferansar, alternativ, handsame
 quickactions-cmd-settings = val, innstillingar, alternativ
 # Opens about:addons page in the themes section
 quickactions-themes = Handsam tema
