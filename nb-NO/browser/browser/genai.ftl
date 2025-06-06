@@ -60,12 +60,16 @@ genai-shortcuts-hide =
 
 ## Chatbot header
 
+genai-chatbot-title = AI-chatbot
 genai-header-options-button =
     .title = Åpne meny
 genai-header-close-button =
     .title = Lukk
 genai-provider-view-details =
     .label = Vis samtalerobot-detaljer
+# $provider (string) - name of the provider
+genai-options-reload-provider =
+    .label = Oppdater { $provider }
 genai-options-show-shortcut =
     .label = Vis snarvei når du velger tekst
 genai-options-hide-shortcut =
@@ -98,16 +102,32 @@ genai-onboarding-select-header = Marker tekst for å se forslag
 ## Chatbot onboarding choices
 ## These describe features/capabilities of chatbot providers. These are not buttons/actions.
 
+genai-onboarding-claude-generate = Generer tekst og kode
 genai-onboarding-claude-analyze = Analyser dokumenter og bilder
+genai-onboarding-claude-price = Gratis og betalte alternativer; konto kreves
+genai-onboarding-chatgpt-generate = Generer tekst, bilder og kode
+genai-onboarding-chatgpt-analyze = Analyser dokumenter og bilder
+genai-onboarding-chatgpt-price = Gratis og betalte alternativer; konto kreves for enkelte land og oppgaver
+genai-onboarding-copilot-generate = Generer tekst, bilder og kode
 genai-onboarding-copilot-analyze = Analyser bilder
 genai-onboarding-copilot-price = Gratis og betalte alternativer; konto kreves for enkelte oppgaver
 genai-onboarding-gemini-generate = Generer tekst, bilder og kode
+genai-onboarding-gemini-analyze = Analyser bilder (gratis) og dokumenter (betalt)
+genai-onboarding-gemini-price = Gratis og betalte alternativer; konto kreves
 genai-onboarding-huggingchat-generate = Generer tekst og kode
+genai-onboarding-huggingchat-switch = Veksle mellom et mangfoldig sett med åpne modeller
+genai-onboarding-huggingchat-price-2 = Gratis; konto kreves etter et visst antall forespørsler
 genai-onboarding-lechat-generate = Generer tekst og kode
 genai-onboarding-lechat-price = Gratis; konto kreves
 
 ## Model Optin Component
 
+genai-model-optin-continue =
+    .label = Fortsett
+genai-model-optin-optout =
+    .label = Avbryt
+genai-model-optin-cancel =
+    .label = Avbryt
 
 ## Link previews
 
