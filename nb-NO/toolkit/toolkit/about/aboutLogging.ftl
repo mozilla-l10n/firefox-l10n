@@ -16,6 +16,7 @@ about-logging-set-log-modules = Velg loggmoduler
 about-logging-start-logging = Start loggføring
 about-logging-stop-logging = Stopp loggføring
 about-logging-copy-as-url = Kopier gjeldende innstillinger som URL
+about-logging-url-copied = Loggingsinnstillinger kopiert til utklippstavlen som en forhåndsinnstilt URL
 about-logging-buttons-disabled = Logging konfigurert via miljøvariabler, dynamisk konfigurasjon er ikke tilgjengelig.
 about-logging-some-elements-disabled = Logging konfigurert via URL, noen konfigurasjonsalternativer er ikke tilgjengelige
 about-logging-info = Info:
@@ -28,6 +29,8 @@ about-logging-no-log-modules = Ingen
 about-logging-no-log-file = Ingen
 about-logging-logging-preset-selector-text = Forhåndsvalg for logging:
 about-logging-with-profiler-stacks-checkbox = Aktiver stack-sporing for loggmeldinger
+about-logging-menu =
+    .title = Avanserte innstillinger
 
 ## Logging presets
 

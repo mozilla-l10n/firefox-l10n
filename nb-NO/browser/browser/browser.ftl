@@ -196,6 +196,23 @@ urlbar-result-menu-learn-more-about-firefox-suggest =
 urlbar-result-menu-manage-firefox-suggest =
     .label = Behandle { -firefox-suggest-brand-name }
     .accesskey = B
+# Some urlbar suggestions show the user's approximate location as automatically
+# detected by Firefox (e.g., weather suggestions), and this menu item lets the
+# user tell Firefox that the location is not accurate. Typically the location
+# will be a city name, or a city name combined with the name of its parent
+# administrative region (e.g., a province, prefecture, or state).
+urlbar-result-menu-report-inaccurate-location =
+    .label = Rapporter unøyaktig plassering
+urlbar-result-menu-show-less-frequently =
+    .label = Vis sjeldnere
+urlbar-result-menu-dont-show-weather-suggestions =
+    .label = Ikke vis værforslag
+# A message shown in the urlbar when the user submits feedback on a suggestion
+# (e.g., it shows an inaccurate location, it's shown too often, etc.).
+urlbar-feedback-acknowledgment = Takk for tilbakemeldingen
+# A message shown in the urlbar when the user dismisses weather suggestions.
+# Weather suggestions won't be shown at all anymore.
+urlbar-dismissal-acknowledgment-weather = Takk for tilbakemeldingen din. Du vil ikke lenger se værforslag.
 
 ## Prompts users to use the Urlbar when they open a new tab or visit the
 ## homepage of their default search engine.
@@ -327,6 +344,10 @@ search-one-offs-actions =
 
 # Opens the about:addons page in the home / recommendations section
 quickactions-addons = Vis tillegg
+# In English we provide multiple spellings for "add-ons". If that's not
+# applicable to your language, only use the correct spelling (don't repeat the
+# same word).
+quickactions-cmd-addons3 = utvidelser, temaer, tillegg
 quickactions-cmd-addons2 = tillegg
 # Opens the bookmarks library window
 quickactions-bookmarks2 = Behandle bokmerker
@@ -363,6 +384,7 @@ quickactions-print2 = Skriv ut side
 quickactions-cmd-print = utskrift, skriv ut
 # Opens the print dialog at the save to PDF option
 quickactions-savepdf = Lagre side som PDF
+quickactions-cmd-savepdf2 = pdf, lagre side
 quickactions-cmd-savepdf = pdf
 # Opens a new private browsing window
 quickactions-private2 = Åpne privat vindu
@@ -379,6 +401,8 @@ quickactions-cmd-screenshot2 = skjermbilde, ta et skjermbilde
 quickactions-cmd-screenshot = skjermbilde, skjermdump
 # Opens about:preferences
 quickactions-settings2 = Behandle innstillinger
+# "manage" should match the corresponding command, which is “Manage settings” in English.
+quickactions-cmd-settings2 = innstillinger, preferanser, alternativer, behandle
 quickactions-cmd-settings = valg, innstillinger, alternativer
 # Opens about:addons page in the themes section
 quickactions-themes = Behandle temaer
@@ -388,6 +412,7 @@ quickactions-update = Oppdater { -brand-short-name }
 quickactions-cmd-update = oppdater
 # Opens the view-source UI with current pages source
 quickactions-viewsource2 = Vis kildekode
+quickactions-cmd-viewsource2 = vis kilde, kilde, sidekilde
 quickactions-cmd-viewsource = se kilde, kilde
 # Tooltip text for the help button shown in the result.
 quickactions-learn-more =
@@ -791,6 +816,9 @@ urlbar-group-recent-searches =
 #  $engine (String): the name of the search engine providing the trending suggestions
 urlbar-group-trending =
     .label = Populær på { $engine }
+# Label shown above sponsored suggestions in the urlbar results.
+urlbar-group-sponsored =
+    .label = Sponset
 # The result menu labels shown next to trending results.
 urlbar-result-menu-trending-dont-show =
     .label = Ikke vis populære søk

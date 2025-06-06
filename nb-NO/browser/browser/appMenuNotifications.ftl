@@ -44,6 +44,12 @@ appmenu-addon-private-browsing-installed2 =
     .buttonlabel = OK
     .buttonaccesskey = O
 appmenu-addon-post-install-message3 = Behandle utvidelser og temaer via applikasjonsmenyen.
+# This string is used in the confirmation popup displayed after an extension
+# has been installed, when the data collection feature is enabled.
+appmenu-addon-post-install-message-with-data-collection = Oppdater tillatelser og datainnstillinger når som helst i <a data-l10n-name="settings-link">innstillingene for utvidelsen</a>.
+appmenu-addon-post-install-pin-toolbarbutton-checkbox =
+    .label = Fest utvidelsen til verktøylinjen
+    .accesskey = F
 appmenu-addon-post-install-incognito-checkbox =
     .label = Tillat at denne utvidelsen kjøres i private vindu
     .accesskey = a
