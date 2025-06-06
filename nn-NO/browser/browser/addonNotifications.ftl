@@ -81,6 +81,8 @@ addon-removal-title = Fjerne { $name }?
 addon-removal-message = Fjerne { $name } frå { -brand-shorter-name }?
 addon-removal-button = Fjern
 addon-removal-abuse-report-checkbox = Rapporter denne utvidinga til { -vendor-short-name }
+# "it" refers to the local AI model that is paired to the AI feature
+addon-mlmodel-removal-body = Dersom du brukar funksjonane eller utvidingane som brukar denne modellen, vil han bli lagt til på nytt.
 # Variables:
 #   $addonCount (Number): the number of add-ons being downloaded
 addon-downloading-and-verifying =
