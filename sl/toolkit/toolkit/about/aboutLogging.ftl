@@ -29,6 +29,8 @@ about-logging-no-log-modules = brez
 about-logging-no-log-file = brez
 about-logging-logging-preset-selector-text = Prednastavitev beleženja:
 about-logging-with-profiler-stacks-checkbox = Omogoči sledi skladov za dnevniška sporočila
+about-logging-menu =
+    .title = Napredne možnosti
 
 ## Logging presets
 

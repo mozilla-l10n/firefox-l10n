@@ -105,6 +105,8 @@ sidebar-history-context-menu-delete-page-2 =
     .label = Izbriši stran iz zgodovine
 sidebar-history-context-menu-bookmark-page =
     .label = Dodaj stran med zaznamke …
+sidebar-history-context-menu-delete-pages =
+    .label = Izbriši strani iz zgodovine
 
 ## Labels for sidebar menu items.
 

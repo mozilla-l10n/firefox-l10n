@@ -117,6 +117,12 @@ fp-learn-more-about-time-related-errors = Več o odpravljanju s časom povezanih
 ## Variables:
 ##   $hostname (string) - Hostname of the website with cert error.
 
+cert-error-path-len-constraint-invalid = { -brand-short-name } vam je preprečil obisk tega spletnega mesta, ker digitalno potrdilo, ki ga je predložilo { $hostname }, na poti do korenskega potrdila vsebuje preveč vmesnih potrdil.
+cert-error-invalid-key = { -brand-short-name } vam je preprečil obisk tega spletnega mesta, ker je v digitalnem potrdilu za { $hostname } ključ, ki je neveljaven. Najverjetneje je premajhen, da bi bil varen.
+cert-error-unknown-critical-extension = { -brand-short-name } vam je preprečil obisk tega spletnega mesta, ker digitalno potrdilo za { $hostname } vsebuje nepodprto kritično razširitev.
+cert-error-extension-value-invalid = { -brand-short-name } vam je preprečil obisk tega spletnega mesta, ker digitalno potrdilo, ki ga je predložilo { $hostname }, vsebuje neveljavno razširitev.
+cert-error-untrusted-issuer = { -brand-short-name } vam je preprečil obisk tega spletnega mesta, ker je digitalno potrdilo, ki ga uporablja { $hostname }, izdal overitelj, ki več ne uživa zaupanja.
+cert-error-untrusted-cert = { -brand-short-name } vam je preprečil obisk tega spletnega mesta, ker je digitalno potrdilo, ki ga uporablja { $hostname }, označeno kot ne zaupanja vredno.
 
 ## Messages used for certificate error titles
 
