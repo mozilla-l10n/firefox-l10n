@@ -276,6 +276,7 @@ preferences-web-appearance-override-warning2 =
 # to adapt to your language, but should not be changed.
 preferences-web-appearance-footer = Eñangareko téma { -brand-short-name } mba’ére <a data-l10n-name="themes-link">Jepysokue ha téma</a> rupi
 preferences-contrast-control-header = Mbojovake rehegua
+preferences-contrast-control-description = Umi ñanduti rogue oreko heta sa’y tenondegua ha tuguápe. Emboheko { -brand-short-name } eiporu hag̃ua erekovavoi opaite ñanduti roguépe ha péicha taiporãve.
 preferences-contrast-control-use-platform-settings =
     .label = Ijeheguíva (oiporu apopyvusu ñemboheko)
     .accesskey = A
