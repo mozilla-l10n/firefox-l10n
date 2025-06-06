@@ -62,12 +62,35 @@ split-dismiss-button-show-fewer-option =
 # Opens about:preferences#general-cfrfeatures
 split-dismiss-button-manage-settings-option =
     .label = Behandle innstillinger
+# Accessibility label for dropdown menu button
+split-dismiss-button-default-label =
+    .title = Flere innstillinger
 
 ## Login Status Advisory Callout (points to the account icon)
 
+# The 'account icon' is the toolbar button with a 'profile' icon of a human
+# head/shoulders. It's for dealing with your Mozilla account. When hovering the
+# icon, the tooltip says 'Account'.
+login-status-advisory-title = Du er logget ut. Klikk på kontoikonet for å logge inn.
 
 ## Bookmarks toolbar callout strings
 
+bookmarks-toolbar-callout-1-title = Legge til dette nettstedet i bokmerkeverktøylinjen din?
+bookmarks-toolbar-callout-1-subtitle = Bokmerket ditt lagres rett under adressefeltet for rask tilgang.
+bookmarks-toolbar-callout-1-primary-button-label = Legg til bokmerke
+bookmarks-toolbar-callout-1-secondary-button-label = Nei takk
+# Visible if user adds a bookmark in callout 1, bookmarks toolbar is set to always show when this message renders
+bookmarks-toolbar-callout-2a-title = Legg enkelt til flere bokmerker
+bookmarks-toolbar-callout-2a-subtitle = Du kan dra og slippe faner hit for å ha flere av favorittnettstedene dine innen rekkevidde.
+bookmarks-toolbar-callout-2a-primary-button-label = Jeg forstår
+# Reverts the bookmarks toolbar to the default setting
+bookmarks-toolbar-callout-2a-secondary-button-label = Skjul verktøylinje
+# Visible if user declines to add a bookmark in callout 1, bookmarks toolbar is set to always show when this message renders
+bookmarks-toolbar-callout-2b-title = Vil du holde bokmerkeverktøylinjen åpen?
+bookmarks-toolbar-callout-2b-subtitle = Du kan legge til andre nettsteder du besøker oftere. Bare dra og slipp faner hit for å ha favorittnettstedene dine innen rekkevidde.
+bookmarks-toolbar-callout-2b-primary-button-label = Hold åpen
+# Reverts the bookmarks toolbar to the default setting
+bookmarks-toolbar-callout-2b-secondary-button-label = Nei takk
 
 ## Perplexity callout strings
 

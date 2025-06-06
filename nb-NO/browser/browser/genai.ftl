@@ -29,6 +29,10 @@ genai-prompts-quiz =
 genai-prompts-explain =
     .label = Forklar dette
     .value = Forklar nøkkelbegrepene i dette utvalget ved å bruke enkle ord. Bruk også eksempler.
+# Prompt purpose: writing tool that helps users with spelling and grammar mistakes and produce a response that identifies errors and rewrites the inputted text correctly
+genai-prompts-proofread =
+    .label = Korrekturlesing
+    .value = Korrekturles teksten for stave- og grammatikkfeil. Identifiser eventuelle feil og legg ved en korrigert versjon av teksten. Oppretthold meningsfullheten og den faktiske nøyaktigheten, og skriv ut listen over foreslåtte rettelser først, etterfulgt av den endelige, korrigerte versjonen av teksten.
 # This prompt is added to the beginning of selection prompts sent to a chatbot.
 # $tabTitle (string) - title of the webpage
 # $selection (string) - selected text
@@ -41,11 +45,18 @@ genai-menu-ask-generic =
 # $provider (string) - name of the provider
 genai-menu-ask-provider =
     .label = Spør { $provider }
+genai-menu-remove-generic =
+    .label = Fjern AI-chatbot
+# $provider (string) - name of the provider
+genai-menu-remove-provider =
+    .label = Fjern { $provider }
 genai-input-ask-generic =
     .placeholder = Spør AI chatbot…
 # $provider (string) - name of the provider
 genai-input-ask-provider =
     .placeholder = Spør { $provider }…
+genai-shortcuts-hide =
+    .label = Skjul chatbot-snarvei
 
 ## Chatbot header
 
