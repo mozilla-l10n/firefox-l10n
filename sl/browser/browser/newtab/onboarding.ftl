@@ -213,7 +213,7 @@ mr2022-onboarding-existing-pin-checkbox-label = Dodaj tudi zasebno brskanje { -b
 
 # This string is the title used when the user already has pinned the browser, but has not set default.
 mr2022-onboarding-set-default-title = Nastavite { -brand-short-name } za svoj priljubljeni brskalnik
-mr2022-onboarding-set-default-primary-button-label = Nastavi { -brand-short-name } kot privzeti brskalnik
+mr2022-onboarding-set-default-primary-button-label = Nastavi { -brand-short-name(sklon: "tozilnik") } kot privzeti brskalnik
 # When translating "zip", please feel free to pick a verb that signifies movement and/or exploration
 # and makes sense in the context of navigating the web.
 mr2022-onboarding-set-default-subtitle = Uporabite brskalnik, ki ga podpira neprofitna organizacija. Varujemo vašo zasebnost, medtem ko brskate po spletu.
@@ -437,7 +437,7 @@ onboarding-genai-sidebar-secondary-button = Začni z brskanjem
 
 onboarding-checklist-title = Dokončaj nastavitev { -brand-short-name(sklon: "rodilnik") }
 onboarding-checklist-subtitle = Izvedite naslednje korake in kar najbolje izkoristite brskalnik.
-onboarding-checklist-set-default = Nastavi { -brand-short-name } kot privzeti brskalnik
+onboarding-checklist-set-default = Nastavi { -brand-short-name(sklon: "tozilnik") } kot privzeti brskalnik
 onboarding-checklist-pin = Pripni { -brand-short-name } v opravilno vrstico
 onboarding-checklist-import = Uvozi iz prejšnjega brskalnika
 onboarding-checklist-extension = Dodaj razširitev
