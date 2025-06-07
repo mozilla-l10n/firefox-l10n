@@ -731,8 +731,13 @@ search-keyword-warning-title = Kopiere stikkord
 #   $name (string) - Name of a search engine.
 search-keyword-warning-engine = Du har valt eit nøkkelord som allereie er i bruk av «{ $name }». Vel eit anna nøkkelord.
 search-keyword-warning-bookmark = Du har valt eit nøkkelord som allereie vert brukt av eit bokmerke. Vel eit anna nøkkelord.
+# This warning is displayed when the chosen name is already in use.
+# Variables:
+#   $name (string) - Name of a search engine.
+edit-engine-name-warning-duplicate = Det finst allereie ein søkjemotor med namnet «{ $name }». Vel eit anna namn.
 remove-engine-confirmation = Er du sikker på at du vil fjerne denne søkjemotoren?
 remove-engine-remove = Fjern
+remove-addon-engine-alert = For å fjerne denne søkjemotoren, fjern det tilknytte tillegget.
 
 ## Containers Section
 
