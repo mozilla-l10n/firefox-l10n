@@ -13,6 +13,7 @@ neterror-captive-portal-page-title = Logg inn på nettverket
 neterror-dns-not-found-title = Serveren ikke funnet
 neterror-malformed-uri-page-title = Ugyldig nettadresse
 general-body-title = Vær forsiktig. Noe ser ikke riktig ut.
+problem-with-this-site-title = Det ser ut til at det er et problem med dette nettstedet
 
 ## Error page actions
 
@@ -53,6 +54,10 @@ neterror-dns-not-found-hint-header = <strong>Hvis du skrev inn riktig adresse, k
 neterror-dns-not-found-hint-try-again = Prøv igjen senere
 neterror-dns-not-found-hint-check-network = Sjekk nettverkstilkoblingen
 neterror-dns-not-found-hint-firewall = Sjekk at { -brand-short-name } har tillatelse til å få tilgang til nettet (du kan være tilkoblet, men bak en brannmur)
+neterror-dns-not-found-offline-hint-header = <strong>Hva kan du gjøre med det?</strong>
+neterror-dns-not-found-offline-hint-different-device = Prøv å koble til på en annen enhet.
+neterror-dns-not-found-offline-hint-modem = Sjekk modemet eller ruteren din.
+neterror-dns-not-found-offline-hint-reconnect = Koble fra og koble til Wi-Fi på nytt.
 
 ## TRR-only specific messages
 ## Variables:

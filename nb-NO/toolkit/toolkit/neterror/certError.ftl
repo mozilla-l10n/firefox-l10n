@@ -96,6 +96,7 @@ fp-learn-more-about-time-related-errors = Finn ut mer om feilsøking av tidsrela
 ## Variables:
 ##   $hostname (string) - Hostname of the website with cert error.
 
+cert-error-path-len-constraint-invalid = { -brand-short-name } blokkerte besøket ditt til dette nettstedet fordi sertifikatet som er oppgitt for { $hostname } har for mange mellomliggende sertifikater i stien til rotsertifikatet.
 
 ## Messages used for certificate error titles
 
