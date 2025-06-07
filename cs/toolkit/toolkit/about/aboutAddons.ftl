@@ -656,6 +656,11 @@ mlmodel-extension-label = Používáno rozšířením { $extensionName }
 
 ## Mapping Engine IDs from AI models to how that feature represented by the engine Id is described in the used by section in local model management
 
+# AI Model will be downloaded on the users device and used locally
+addon-category-mlmodel = Umělá inteligence na zařízení
+addon-category-mlmodel-title =
+    .title = Umělá inteligence na zařízení
+mlmodel-heading = Správa modelů umělé inteligence na zařízení
 # Label for button that when clicked removed local model
 mlmodel-remove-addon-button =
     .aria-label = Odebrat
