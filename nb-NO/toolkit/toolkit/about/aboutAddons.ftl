@@ -538,6 +538,26 @@ plugins-widevine-description = Dette programtillegget gjør det mulig å spille 
 ## Headings for the Permissions tab in `about:addons` when the data collection
 ## feature is enabled.
 
+# Name of the Permissions tab in `about:addons` when the data collection feature is enabled.
+permissions-data-addon-button = Tillatelser og data
 
 ## Mapping Engine IDs from AI models to how that feature represented by the engine Id is described in the used by section in local model management
 
+mlmodel-link-preview = { -brand-short-name } bruker denne modellen til å generere hovedpunkter når du forhåndsviser lenker
+# AI Model will be downloaded on the users device and used locally
+addon-category-mlmodel = AI på enheten
+addon-category-mlmodel-title =
+    .title = AI på enheten
+mlmodel-heading = Behandle AI-modeller på enheten
+# Label for button that when clicked removed local model
+mlmodel-remove-addon-button =
+    .aria-label = Fjern
+# Label for the aggregated value of all files for a model
+mlmodel-addon-detail-totalsize-label = Filstørrelse
+mlmodel-addon-detail-last-used-label = Sist brukt
+# This is a section label to describe what extensions or features use a specific local AI model
+mlmodel-addon-detail-used-by-label = Brukt av
+# This is a section label to describe the link to the model card on the Hugging Face website
+mlmodel-addon-detail-model-card = Modellkort
+# This is a label for the Model Card link to Hugging face
+mlmodel-addon-detail-model-card-link-label = Vis på Hugging Face

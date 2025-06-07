@@ -27,6 +27,15 @@ sidebar-history-delete =
     .title = Slett fra historikk
 sidebar-history-clear =
     .label = Tøm historikk
+sidebar-history-sort-by-heading = Sorter etter:
+sidebar-history-sort-option-date =
+    .label = Dato
+sidebar-history-sort-option-site =
+    .label = Nettsted
+sidebar-history-sort-option-date-and-site =
+    .label = Dato og nettsted
+sidebar-history-sort-option-last-visited =
+    .label = Sist besøkt
 
 ## Labels for sidebar search
 
@@ -52,6 +61,10 @@ sidebar-show-on-the-right =
     .label = Flytt sidestolpe til høyre
 sidebar-show-on-the-left =
     .label = Flytt sidestolpe til venstre
+# Option to automatically expand the collapsed sidebar when the mouse pointer
+# hovers over it.
+expand-sidebar-on-hover =
+    .label = Utvid sidestolpen når du holder musepekeren over
 
 ## Labels for sidebar context menu items
 
@@ -61,10 +74,16 @@ sidebar-context-menu-remove-extension =
     .label = Fjern utvidelse
 sidebar-context-menu-report-extension =
     .label = Rapporter utvidelse
+sidebar-context-menu-open-in-tab =
+    .label = Åpne i ny fane
+sidebar-context-menu-open-in-container-tab =
+    .label = Åpne i ny beholderfane
 sidebar-context-menu-open-in-window =
     .label = Åpne i nytt vindu
 sidebar-context-menu-open-in-private-window =
     .label = Åpne i nytt privat vindu
+sidebar-context-menu-forget-site =
+    .label = Fjern alle data for nettstedet…
 sidebar-context-menu-bookmark-tab =
     .label = Bokmerk fane…
 sidebar-context-menu-copy-link =
@@ -82,6 +101,12 @@ sidebar-context-menu-close-remote-tab =
 
 ## Labels for sidebar history context menu items
 
+sidebar-history-context-menu-delete-page-2 =
+    .label = Slett side fra historikken
+sidebar-history-context-menu-bookmark-page =
+    .label = Bokmerk side…
+sidebar-history-context-menu-delete-pages =
+    .label = Slett sider fra historikken
 
 ## Labels for sidebar menu items.
 
