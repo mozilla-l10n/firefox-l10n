@@ -776,6 +776,13 @@ home-prefs-weather-header =
     .label = Počasí
 home-prefs-weather-description = Přehled dnešní předpovědi
 home-prefs-weather-learn-more-link = Zjistit více
+# "Support" here means to help sustain or contribute to something, especially through funding or sponsorship.
+home-prefs-support-firefox-header =
+    .label =
+        { -brand-product-name.case-status ->
+            [with-cases] Podpořte { -brand-product-name(case: "acc") }
+           *[no-cases] Podpořte aplikaci { -brand-product-name }
+        }
 home-prefs-mission-message = Naši sponzoři podporují naši misi budovat lepší web
 home-prefs-mission-message-learn-more-link = Zjistěte jak
 # Variables:
