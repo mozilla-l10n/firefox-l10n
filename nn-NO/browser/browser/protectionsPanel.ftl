@@ -81,6 +81,7 @@ protections-panel-smartblock-blocking-toggle =
     .label = Tillat { $trackername }
 #  $trackername (String): the name of the tracker that is currently being blocked.
 smartblock-placeholder-title = { $trackername } sporarar og innhald blokkert
+smartblock-placeholder-desc = { -brand-short-name }-innstillingane dine sperra dette innhaldet frå å spore deg på tvers av nettstadar eller bli brukt til annonser.
 #  $websitehost (String): host of website with blocked content.
 smartblock-placeholder-button-text = Tillat på { $websitehost }
 

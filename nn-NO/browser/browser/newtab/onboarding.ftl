@@ -448,6 +448,7 @@ onboarding-checklist-sign-up = Registrer deg eller logg inn på kontoen din
 tab-groups-onboarding-feature-callout-title = Prøv fanegrupper for mindre rot, og meir fokus
 tab-groups-onboarding-feature-callout-subtitle = Bli organisert ved å dra ei fane oppå ei anna for å opprette den første gruppa di.
 tab-groups-onboarding-create-group-title-2 = Finn fanegruppene dine her når som helst.
+tab-groups-onboarding-create-group-no-alltabs-button-title = Finn fanegruppene dine ved å søkje etter dei i adresselinja.
 tab-groups-onboarding-saved-groups-title-2 = Når du let att ei fanegruppe, kan du når som helst opne den på nytt her.
 tab-groups-onboarding-saved-groups-no-alltabs-button-title-2 = Finn dei attlatne gruppene dine ved å søkje etter dei i adresselinja.
 tab-groups-onboarding-session-restore-title = Opne fanegruppene dine på nytt her, når som helst.
@@ -456,8 +457,10 @@ tab-groups-onboarding-dismiss = OK
 ## Multi Profiles feature onboarding messages
 
 multi-profile-spotlight-title = Sei hei til { -brand-product-name }-profilar
+multi-profile-spotlight-body = Byt enkelt mellom arbeid og moro når du surfar. Profilar held nettlesarinformasjonen din, medrekna søkehistorikk og passord, heilt kvar for seg slik at du kan halde orden.
 multi-profile-spotlight-cta = Opprett ein profil
 multi-profile-callout-title = Lag ulike profilar for arbeid og moro
+multi-profile-callout-subtitle = Profilar held nettlesarinformasjonen din, inkludert søkehistorikk og passord, heilt kvar for seg.
 multi-profile-callout-cta = Opprett ein profil
 
 ## Desktop to Mobile Adoption feature callout strings

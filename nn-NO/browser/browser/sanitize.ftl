@@ -59,6 +59,7 @@ history-section-label = Historikk
 item-history-and-downloads =
     .label = Nettlesing- og nedlastingshistorikk
     .accesskey = e
+item-history-and-downloads-description2 = Fjernar nettstads- og nedlastingshistorikk
 item-history-form-data-downloads =
     .label = Historikk
     .accesskey = H
