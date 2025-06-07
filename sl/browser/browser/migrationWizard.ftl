@@ -193,7 +193,7 @@ migration-wizard-progress-done-header = Podatki so uspešno uvoženi
 # if all resources were imported successfully.
 migration-wizard-progress-done-with-warnings-header = Uvoz podatkov dokončan
 migration-wizard-progress-icon-in-progress =
-    .aria-label = Uvažanje ...
+    .aria-label = Uvažanje …
 migration-wizard-progress-icon-completed =
     .aria-label = Dokončano
 migration-safari-password-import-header = Uvozi gesla iz brskalnika Safari
