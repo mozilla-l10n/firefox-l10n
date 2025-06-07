@@ -80,8 +80,16 @@ install-search-engine-no = Ne
 add-engine-window =
     .title = Přidat vyhledávač
     .style = min-width: 32em;
+edit-engine-window =
+    .title = Upravit vyhledávač
+    .style = min-width: 32em;
 add-engine-button = Přidat vlastní vyhledávač
 add-engine-name = Název vyhledávače
+add-engine-url2 = Adresa URL s %s na místě hledaného výrazu
+add-engine-keyword2 = Klíčové slovo (volitelné)
+# POST and GET refer to the HTTP methods.
+add-engine-post-data = POST data s %s na místě vyhledávaného výrazu (ponechte prázdné pro GET)
+add-engine-suggest-url = URL pro návrhy s %s na místě hledaného výrazu (volitelné)
 add-engine-keyword = Klíčové slovo
 add-engine-url = URL vyhledávače, dotaz nahraďte „%s“
 add-engine-dialog =
@@ -92,6 +100,8 @@ engine-keyword-exists = Vyhledávač s tímto klíčovým slovem již existuje
 
 ## The following placeholders are shown in the inputs when adding a new engine.
 
+add-engine-name-placeholder =
+    .placeholder = např. Mozilla Developer Network
 add-engine-url-placeholder =
     .placeholder = např. https://developer.mozilla.com/search?q=%s
 add-engine-keyword-placeholder =
@@ -99,7 +109,10 @@ add-engine-keyword-placeholder =
 
 ## The following strings are used as error messages.
 
+add-engine-keyword-exists = Toto klíčové slovo je již použito. Zkuste použít jiné.
+add-engine-name-exists = Tento název je již používán. Zvolte prosím jiný.
 add-engine-no-name = Zadejte prosím jméno.
+add-engine-no-url = Zadajte URL adresu.
 add-engine-invalid-url = Tato URL adresa se nezdá být v pořádku. Zkontrolujte ji a zkuste to znovu.
 add-engine-invalid-protocol = Tato URL adresa se nezdá být v pořádku. Použijte URL adresu, která začíná http nebo https.
 # This error is shown when the user typed URL is missing %s.

@@ -869,6 +869,10 @@ search-keyword-warning-title = Použité klíčové slovo
 #   $name (string) - Name of a search engine.
 search-keyword-warning-engine = Zvolili jste klíčové slovo, které už je použito pro „{ $name }“. Zvolte prosím jiné.
 search-keyword-warning-bookmark = Zvolili jste klíčové slovo, které už je použito pro záložku. Zvolte prosím jiné.
+# This warning is displayed when the chosen name is already in use.
+# Variables:
+#   $name (string) - Name of a search engine.
+edit-engine-name-warning-duplicate = Vyhledávač s názvem „{ $name }“ už existuje. Zvolte prosím jiný název.
 remove-engine-confirmation = Opravdu chcete odstranit tento vyhledávač?
 remove-engine-remove = Odebrat
 remove-addon-engine-alert = Chcete-li tento vyhledávač odstranit, odstraňte související doplněk.

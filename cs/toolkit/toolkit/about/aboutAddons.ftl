@@ -656,6 +656,7 @@ mlmodel-extension-label = Používáno rozšířením { $extensionName }
 
 ## Mapping Engine IDs from AI models to how that feature represented by the engine Id is described in the used by section in local model management
 
+mlmodel-about-inference = { -brand-short-name } to používá na stránce about:inference
 # AI Model will be downloaded on the users device and used locally
 addon-category-mlmodel = Umělá inteligence na zařízení
 addon-category-mlmodel-title =
