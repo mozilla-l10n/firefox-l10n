@@ -420,6 +420,12 @@ onboarding-vertical-tabs-tooltip =
 # Description for vertical tabs image
 onboarding-vertical-tabs-description =
     .aria-description = Eit nettlesarvindauge som viser faner langs sida av skjermen som del av { -brand-shorter-name }-sidestolpen.
+# Tooltip displayed on hover for horizontal tabs image
+onboarding-horizontal-tabs-tooltip =
+    .title = Eit nettlesarvindauge som viser faner øvst oppe.
+# Description for horizontal tabs image
+onboarding-horizontal-tabs-description =
+    .aria-description = Eit nettlesarvindauge som viser faner øvst oppe.
 # Additional setup card for setting up aichatbot in the sidebar
 onboarding-genai-sidebar-title = Prøv ein samtalerobot i sidefeltet
 # Setup card for setting up AI chatbot in the sidebar; "Providers" refers to AI chatbot providers (e.g. OpenAI, etc). "Switch anytime" refers to allowing the user to switch to a different chatbot.
