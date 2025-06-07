@@ -201,6 +201,7 @@ migration-chrome-windows-password-import-steps-header = I Chrome:
 migration-chrome-windows-password-import-step1 = Opne hovudmenyen <img data-l10n-name="chrome-icon-3dots"/> og gå til Passord og autofyll > Google Passordhandsaming.
 migration-chrome-windows-password-import-step2 = Vel «Innstillingar» frå menyen.
 migration-chrome-windows-password-import-step3 = Vel «Last ned fil» og lagre ho på eininga di.
+migration-chrome-windows-password-import-step4 = Gå tilbake hit og trykk på «Vel fil» for å fullføre importen.
 migration-manual-password-import-skip-button = Hopp over
 migration-manual-password-import-select-button = Vel fil
 migration-safari-password-import-skip-button = Hopp over

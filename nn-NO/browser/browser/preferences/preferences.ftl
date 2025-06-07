@@ -650,6 +650,7 @@ home-prefs-weather-learn-more-link = Les meir
 # "Support" here means to help sustain or contribute to something, especially through funding or sponsorship.
 home-prefs-support-firefox-header =
     .label = Støtt { -brand-product-name }
+home-prefs-mission-message = Sponsorane våre støttar oppdraget vårt om å byggje eit betre internett
 home-prefs-mission-message-learn-more-link = Finn ut korleis
 # Variables:
 #   $num (number) - Number of rows displayed
@@ -730,6 +731,7 @@ search-keyword-warning-title = Kopiere stikkord
 #   $name (string) - Name of a search engine.
 search-keyword-warning-engine = Du har valt eit nøkkelord som allereie er i bruk av «{ $name }». Vel eit anna nøkkelord.
 search-keyword-warning-bookmark = Du har valt eit nøkkelord som allereie vert brukt av eit bokmerke. Vel eit anna nøkkelord.
+remove-engine-confirmation = Er du sikker på at du vil fjerne denne søkjemotoren?
 remove-engine-remove = Fjern
 
 ## Containers Section

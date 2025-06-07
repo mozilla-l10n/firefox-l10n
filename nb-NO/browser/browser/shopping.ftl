@@ -192,6 +192,10 @@ shopping-survey-thanks =
 
 shopping-survey-opted-out-multiselect-label = Fortell oss hvorfor du deaktiverte vurderingskontrolløren. Velg flere om nødvendig.
 shopping-survey-thanks-title = Takk for tilbakemeldingen!
+shopping-survey-opted-out-hard-to-understand = Det er vanskelig å forstå
+shopping-survey-opted-out-too-slow = Det er for tregt
+shopping-survey-opted-out-not-accurate = Det er ikke nøyaktig
+shopping-survey-opted-out-not-helpful = Det er ikke nyttig for meg
 
 ## Shopping Feature Callout strings.
 ## "price tag" refers to the price tag icon displayed in the address bar to
