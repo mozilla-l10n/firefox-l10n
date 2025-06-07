@@ -37,12 +37,20 @@ webext-perms-description-webNavigation = Kcem ɣer urmud n yiminig mi ara tettin
 ## The userScripts permission includes an additional explanation that is
 ## displayed prominently near the usual permission description.
 
+# A shorter warning is displayed in UI surfaces with little room, such as a permission prompt.
+webext-perms-extra-warning-userScripts-short = Iskripten ur nettwasenqed ara zemren ad qemmṛen s tɣellist d uqader n tmeddurt tusligt. Selkem ala iskripten i d-yettwawin seg isiɣzaf neɣ seg iɣbula i tettamneḍ.
 
 ## Short form to be used in lists or in a string (`webext-perms-description-data-some`)
 ## that formats some of the data collection permissions below using `Intl.ListFormat`.
 ##
 ## This is used when the data collection permissions are required.
 
+webext-perms-description-data-short-bookmarksInfo = ticraḍ n isebtar
+webext-perms-description-data-short-locationInfo = adig
+webext-perms-description-data-short-searchTerms = nadi awalen
+webext-perms-description-data-short-technicalAndInteraction = isefka n tetiknikt d umyigew
+webext-perms-description-data-short-websiteActivity = Aarmud deg usmel web
+webext-perms-description-data-short-websiteContent = Agbur n usmel web
 
 ## Long form to be used in `about:addons` when these data collection permissions are optional.
 
