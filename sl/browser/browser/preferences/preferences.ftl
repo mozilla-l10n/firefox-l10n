@@ -1413,7 +1413,7 @@ addon-recommendations-description = Prejemajte priporočila za razširitve, ki b
 # or builds with no Telemetry support available.
 collection-health-report-disabled2 = Pošiljanje podatkov je za to nastavitev graditve onemogočeno.
 collection-backlogged-crash-reports2 =
-    .label = Samodejno pošlji poročila o sesutjih
+    .label = Samodejno pošiljaj poročila o sesutjih
     .accesskey = č
 collection-backlogged-crash-reports-description = To { -vendor-short-name(sklon: "dajalnik") } omogoča ugotoviti vzroke težav z brskalnikom in jih odpraviti. Poročila lahko vključujejo osebne ali občutljive podatke.
 addon-recommendations =
