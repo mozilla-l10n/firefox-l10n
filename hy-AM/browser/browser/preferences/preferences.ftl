@@ -1351,6 +1351,9 @@ httpsonly-radio-enabled =
     .label = Միացնել Միայն HTTPS կերպը բոլոր պատուհաններում
 httpsonly-radio-enabled-pbm =
     .label = Միացնել Միայն HTTPS կերպը միայն գաղտնի պատուհաններում
+httpsonly-radio-disabled3 =
+    .label = Չմիացնել Միայն HTTPS կերպը
+    .description = { -brand-short-name }-ը դեռ կարող է արդիացնել որոշ կապակցումներ
 httpsonly-radio-disabled =
     .label = Չմիացնել Միայն HTTPS կերպը
 
