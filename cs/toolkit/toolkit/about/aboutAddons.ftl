@@ -657,6 +657,8 @@ mlmodel-extension-label = Používáno rozšířením { $extensionName }
 ## Mapping Engine IDs from AI models to how that feature represented by the engine Id is described in the used by section in local model management
 
 mlmodel-about-inference = { -brand-short-name } to používá na stránce about:inference
+mlmodel-smart-tab-topic-engine = { -brand-short-name } toto používá k navrhování názvů vašich skupin panelů
+mlmodel-smart-tab-embedding-engine = { -brand-short-name } toto používá k navrhování panelů pro vaše skupiny panelů
 # AI Model will be downloaded on the users device and used locally
 addon-category-mlmodel = Umělá inteligence na zařízení
 addon-category-mlmodel-title =
@@ -668,6 +670,8 @@ mlmodel-remove-addon-button =
 # Label for the aggregated value of all files for a model
 mlmodel-addon-detail-totalsize-label = Velikost souboru
 mlmodel-addon-detail-last-used-label = Naposledy použito
+# This is a section label to describe what extensions or features use a specific local AI model
+mlmodel-addon-detail-used-by-label = Používá
 # This is a section label to describe the link to the model card on the Hugging Face website
 mlmodel-addon-detail-model-card = Karta modelu
 # This is a label for the Model Card link to Hugging face
