@@ -28,7 +28,7 @@ tracking-protection-icon-active-container =
 tracking-protection-icon-disabled = Pojačana zaštita od praćenja je ISKLJUČENA za ovu stranicu.
 tracking-protection-icon-disabled-container =
     .aria-label = { tracking-protection-icon-disabled }
-tracking-protection-icon-no-trackers-detected = Nisu otkriveni pratitelji poznati { -brand-short-name } na ovoj stranici.
+tracking-protection-icon-no-trackers-detected = Na ovoj stranici nisu otkriveni programi za praćenje koje { -brand-short-name } pozna.
 tracking-protection-icon-no-trackers-detected-container =
     .aria-label = { tracking-protection-icon-no-trackers-detected }
 
