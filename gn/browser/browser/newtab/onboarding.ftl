@@ -345,6 +345,7 @@ onboarding-device-migration-primary-button-label = Eñepyrũ tembiapo
 ## Add-ons Picker screen
 
 amo-picker-title = Emomba’e nde { -brand-short-name }
+amo-picker-subtitle = Umi jepysokue ha’e tembiporu’i kundahárape g̃uarã ha omoneĩ ñe’ẽñemi ñemo’ã, ta’ãngamýi mboguyjy, joguarã jejuhu, ñemurã vai jekoko, kundahára rechaha moambue ha hetave.
 amo-picker-install-button-label = Embojuaju { -brand-short-name } rehe
 amo-picker-install-complete-label = Oñemohendapyréva
 amo-picker-collection-link = Ejepovyvyve moĩmbaháre
