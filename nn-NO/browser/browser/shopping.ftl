@@ -190,7 +190,7 @@ shopping-survey-thanks =
 ## Shopping opted-out survey strings
 ## Opt-out survey options are displayed as checkboxes and the user can select one or many.
 
-shopping-survey-opted-out-multiselect-label = Fortel oss kvifor du har slått av Review Checker. Vel fleire om nødvendig.
+shopping-survey-opted-out-multiselect-label = Fortel oss kvifor du har slått av vurderingskontrolløren. Vel fleire om nødvendig.
 shopping-survey-thanks-title = Takk for tilbakemeldinga di!
 shopping-survey-opted-out-hard-to-understand = Det er vanskeleg å forstå
 shopping-survey-opted-out-too-slow = Det går for tregt
@@ -256,10 +256,24 @@ shopping-onboarding-welcome-steps-indicator-label =
 
 # Opt-in message strings for Review Checker when it is integrated into the global sidebar.
 shopping-opt-in-integrated-headline = Handl med sjølvtillit
+# Description text for regions where we support three sites. Sites are limited to Amazon, Walmart and Best Buy.
+# Variables:
+#   $firstSite (String) - The first shopping page name
+#   $secondSite (String) - The second shopping page name
+#   $thirdSite (String) - The third shopping page name
+shopping-opt-in-integrated-subtitle = Slå på vurderingskontrolløren frå { -brand-product-name } for å sjå kor pålitelege produktvurderingane er før du kjøper noko. Den brukar AI-teknologi for å analysere vurderingar, og fungerer når du handlar frå { $firstSite }, { $secondSite } og { $thirdSite }. <a data-l10n-name="learn_more">Les meir</a>
+# Description text for regions where we support three sites. Sites are limited to Amazon, Walmart and Best Buy.
+# Variables:
+#   $firstSite (String) - The first shopping page name
+#   $secondSite (String) - The second shopping page name
+#   $thirdSite (String) - The third shopping page name
+shopping-opt-in-integrated-subtitle-unsupported-site = Vurderingskontrolløren frå { -brand-product-name } hjelper deg å vite kor påliteleg vurderingane for eit produkt er, før du kjøper. Han brukar AI-teknologi for å analysere vurderingar, og fungerer når du handlar frå { $firstSite }, { $secondSite } og { $thirdSite }. <a data-l10n-name="learn_more">Les meir</a>
 
 ## Messages for callout for users not opted into the sidebar integrated version of Review Checker.
 
 shopping-callout-opt-in-integrated-headline = Kan du stole på desse vurderingane?
+# Appears underneath shopping-opt-in-integrated-headline to answer the question 'Can you trust these reviews?'
+shopping-callout-not-opted-in-integrated-paragraph1 = Slå på vurderingskontrolløren frå { -brand-product-name } for å finne ut. Han blir driven av { -fakespot-brand-full-name } og brukar AI-teknologi for å analysere vurderingar.
 shopping-callout-not-opted-in-integrated-reminder-dismiss-button = Ignorer
 shopping-callout-not-opted-in-integrated-reminder-accept-button = Slå på vurderingskontrolløren
 shopping-opt-in-integrated-button = Prøv vurderingskontrolløren

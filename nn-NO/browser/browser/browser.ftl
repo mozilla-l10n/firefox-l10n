@@ -1203,6 +1203,11 @@ popup-notification-xpinstall-prompt-block-url = Sjå detaljar
 popup-notification-addon-privatebrowsing-checkbox2 =
     .label = Tillat utvidingar å køyre i private vindauge
     .accesskey = u
+# This string is similar to `webext-perms-description-data-long-technicalAndInteraction`
+# but it is used in the install prompt, and it needs an access key.
+popup-notification-addon-technical-and-interaction-checkbox =
+    .label = Del tekniske data og interaksjonsdata med utvidingsutviklaren
+    .accesskey = D
 
 ## Pop-up warning
 
