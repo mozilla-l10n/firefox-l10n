@@ -361,6 +361,7 @@ quickactions-print2 = Moullañ ar bajenn
 quickactions-cmd-print = moullañ
 # Opens the print dialog at the save to PDF option
 quickactions-savepdf = Enrollañ ar bajenn evel PDF
+quickactions-cmd-savepdf2 = pdf, enrollañ ar bajenn
 quickactions-cmd-savepdf = pdf
 # Opens a new private browsing window
 quickactions-private2 = Digeriñ ur prenestr prevez

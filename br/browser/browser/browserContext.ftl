@@ -160,6 +160,9 @@ main-context-menu-copy-phone =
 main-context-menu-copy-link-simple =
     .label = Eilañ an ere
     .accesskey = E
+main-context-menu-preview-link =
+    .label = Alberz al liamm
+    .accesskey = A
 # This command copies the link, removing additional
 # query parameters used to track users across sites.
 main-context-menu-strip-on-share-link =
