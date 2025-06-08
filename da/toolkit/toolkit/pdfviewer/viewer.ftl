@@ -547,7 +547,6 @@ pdfjs-editor-undo-bar-close-button-label = Luk
 
 ## Add a signature dialog
 
-pdfjs-editor-add-signature-dialog-label = Modal-vinduet gør det muligt for brugeren at oprette en underskrift, som kan føjes til PDF-dokumenter. Brugeren kan redigere navnet (der også fungerer som alternativ tekst) og eventuelt gemme signaturen, så den kan bruges igen.
 pdfjs-editor-add-signature-dialog-title = Tilføj en underskrift
 
 ## Tab names
