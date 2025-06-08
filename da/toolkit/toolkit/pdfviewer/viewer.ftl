@@ -565,7 +565,7 @@ pdfjs-editor-add-signature-image-button = Billede
 pdfjs-editor-add-signature-type-input =
     .aria-label = Indtast din signatur
     .placeholder = Indtast din signatur
-pdfjs-editor-add-signature-draw-placeholder = Tegn din underskrift
+pdfjs-editor-add-signature-draw-placeholder = Tegn din signatur
 pdfjs-editor-add-signature-draw-thickness-range-label = Tykkelse
 # Variables:
 #   $thickness (Number) - the thickness (in pixels) of the line used to draw a signature.
