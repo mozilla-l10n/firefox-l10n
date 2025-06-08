@@ -50,3 +50,4 @@ experimental-features-link-previews-description-no-ai =
 # New Tab Sections with follow and block
 experimental-features-newtab-sections-follow-block =
     .label = Secciones por tema y Seguir/Bloquear para nuevas historias
+experimental-features-newtab-sections-follow-block-description = Organice las historias en su página de Nueva Pestaña en secciones temáticas (Deportes, Gastronomía, Entretenimiento y más) para obtener una experiencia más estructurada y legible. Utilice nuestros nuevos controles de Seguir y Bloquear para personalizar el contenido a visualizar. <a data-l10n-name="connect">Comparta su opinión</a>.
