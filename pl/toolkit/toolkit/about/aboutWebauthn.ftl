@@ -106,9 +106,9 @@ about-webauthn-auth-option-setminpinlength = Ustaw minimalną długość PIN-u
 about-webauthn-auth-option-makecreduvnotrqd = MakeCredential bez weryfikacji użytkownika
 about-webauthn-auth-option-alwaysuv = Zawsze wymagaj weryfikacji użytkownika
 # Shows when boolean value for an option is True. True should not be translated.
-about-webauthn-auth-option-true = Prawda
+about-webauthn-auth-option-true = True
 # Shows when boolean value of an option is False. False should not be translated.
-about-webauthn-auth-option-false = Fałsz
+about-webauthn-auth-option-false = False
 # If the value is missing (null), it means a certain feature is not supported.
 about-webauthn-auth-option-null = Nieobsługiwane
 
@@ -137,9 +137,9 @@ about-webauthn-auth-info-aaguid = AAGUID
 about-webauthn-auth-info-extensions = Rozszerzenia
 about-webauthn-auth-info-versions = Wersje
 # Shows when boolean value for an info field is True. True should not be translated.
-about-webauthn-auth-info-true = Prawda
+about-webauthn-auth-info-true = True
 # Shows when boolean value for an info field is False. False should not be translated.
-about-webauthn-auth-info-false = Fałsz
+about-webauthn-auth-info-false = False
 about-webauthn-auth-info-null = Nieobsługiwane
 
 ## Bio enrollment sample feedbacks
