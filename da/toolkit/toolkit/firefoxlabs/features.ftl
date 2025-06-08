@@ -47,3 +47,6 @@ experimental-features-link-previews-description-no-ai =
         [macos] Få mere at vide om en webside, inden du klikker: Hold markøren over linket og klik på Skift (⇧) + Alternativ (⌥) eller Alt. Forhåndsvisning kan inkludere detaljer som titel og hvor lang tid, det tager at læse indholdet. <a data-l10n-name="connect">Del feedback</a>
        *[other] Få mere at vide om en webside, inden du klikker: Hold markøren over linket og klik på Skift + Alt. Forhåndsvisning kan inkludere detaljer som titel og hvor lang tid, det tager at læse indholdet. <a data-l10n-name="connect">Del feedback</a>
     }
+# New Tab Sections with follow and block
+experimental-features-newtab-sections-follow-block =
+    .label = Emne-afsnit og Følg/Bloker for historier på siden Nyt Faneblad
