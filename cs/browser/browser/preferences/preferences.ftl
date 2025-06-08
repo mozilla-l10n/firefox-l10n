@@ -969,7 +969,7 @@ prefs-syncing-button =
 
 ## The list of things currently syncing.
 
-sync-syncing-across-devices-heading = Synchronizujete tyto položky ve všech připojených zařízeních:
+sync-syncing-across-devices-heading = Tyto položky synchronizujete ve všech připojených zařízeních:
 sync-currently-syncing-bookmarks = Záložky
 sync-currently-syncing-history = Historie
 sync-currently-syncing-tabs = Otevřené panely

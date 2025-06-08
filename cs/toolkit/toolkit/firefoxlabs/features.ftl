@@ -51,3 +51,7 @@ experimental-features-link-previews-description-no-ai =
         [macos] Pokud se chcete o webové stránce dozvědět více než na ni klepnete, najeďte na odkaz a stiskněte Shift (⇧) plus Option (⌥) nebo Alt. Náhledy mohou obsahovat detaily jako nadpis a čas čtení. <a data-l10n-name="connect">Sdílet zpětnou vazbu</a>
        *[other] Pokud se chcete o webové stránce dozvědět více než na ni klepnete, najeďte na odkaz a stiskněte Shift + Alt. Náhledy mohou obsahovat detaily jako nadpis a čas čtení. <a data-l10n-name="connect">Sdílet zpětnou vazbu</a>
     }
+# New Tab Sections with follow and block
+experimental-features-newtab-sections-follow-block =
+    .label = Sekce témat a sledování/blokování pro příběhy na novém panelu
+experimental-features-newtab-sections-follow-block-description = Články na novém panelu si můžete uspořádat do tematických sekcí (Sport, Jídlo, Zábava a další), abyste je měli lépe strukturované a snadno je našli. Použijte naše nové ovládací prvky Sledovat a Blokovat a přizpůsobte si tím, jaký obsah má být zobrazen. <a data-l10n-name="connect">Sdílet zpětnou vazbu</a>
