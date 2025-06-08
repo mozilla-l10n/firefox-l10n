@@ -18,6 +18,7 @@ about-logging-set-log-modules = Log modüllerini ayarla
 about-logging-start-logging = Log tutmayı başlat
 about-logging-stop-logging = Log tutmayı durdur
 about-logging-copy-as-url = Geçerli ayarları URL olarak kopyala
+about-logging-url-copied = Log ayarları ön tanımlı URL şeklinde panoya kopyalandı
 about-logging-buttons-disabled = Log kaydı, ortam değişkenleri aracılığıyla yapılandırıldı; dinamik yapılandırma kullanılamıyor.
 about-logging-some-elements-disabled = Log kaydı URL aracılığıyla yapılandırıldığı için bazı yapılandırma seçenekleri kullanılamıyor
 about-logging-info = Bilgi:

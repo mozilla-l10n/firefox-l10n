@@ -47,3 +47,7 @@ experimental-features-link-previews-description-no-ai =
         [macos] Bir web sayfasına tıklamadan önce sayfa hakkında bilgi almak isterseniz bağlantının üzerine gelip  Shift (⇧) + Option (⌥) veya Alt tuşlarına basın. Ön izlemede sayfa başlığı ve okuma süresi gibi ayrıntıları görebilirsiniz. <a data-l10n-name="connect">Görüşlerinizi paylaşın</a>
        *[other] Bir web sayfasına tıklamadan önce sayfa hakkında bilgi almak isterseniz bağlantının üzerine gelip Shift + Alt tuşlarına basın. Ön izlemede sayfa başlığı ve okuma süresi gibi ayrıntıları görebilirsiniz. <a data-l10n-name="connect">Görüşlerinizi paylaşın</a>
     }
+# New Tab Sections with follow and block
+experimental-features-newtab-sections-follow-block =
+    .label = Yeni Sekme makaleleri için konu bölümleri ve takip etme/engelleme
+experimental-features-newtab-sections-follow-block-description = Daha yapılandırılmış ve göz atması kolay bir deneyim için Yeni Sekme sayfanızdaki makaleleri konulara (Spor, Yemek, Eğlence vb.) ayırın. Yeni “Takip et” ve “Engelle” düğmelerimizi kullanarak hangi içerikleri görmek istediğinizi özelleştirebilirsiniz. <a data-l10n-name="connect">Görüşlerinizi paylaşın</a>
