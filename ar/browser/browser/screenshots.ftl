@@ -64,6 +64,11 @@ screenshots-component-copy-button-2 = انسخ
 screenshots-component-download-button-2 = نزّل
     .title = نزّل ({ $shortcut })
     .aria-label = نزّل
+# Variables
+#   $shortcut (String) - A keyboard shortcut for the screenshot command.
+screenshot-toolbar-button =
+    .label = لقطة شاشة
+    .tooltiptext = التقط لقطة شاشة ({ $shortcut })
 
 ## The below strings are used to capture keydown events so the strings should
 ## not be changed unless the keyboard layout in the locale requires it.
