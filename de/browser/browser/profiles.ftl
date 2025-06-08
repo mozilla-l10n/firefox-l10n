@@ -36,6 +36,7 @@ edit-profile-page-avatar-header-2 =
     .label = Profilbild
 edit-profile-page-delete-button =
     .label = Löschen
+edit-profile-page-avatar-selector-opener-link = Bearbeiten
 edit-profile-page-no-name = Benennen Sie dieses Profil, damit Sie es später leichter finden. Benennen Sie es jederzeit um.
 edit-profile-page-duplicate-name = Profilname wird bereits verwendet. Probieren Sie einen neuen Namen aus.
 edit-profile-page-profile-saved = Gespeichert

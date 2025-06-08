@@ -657,6 +657,8 @@ mlmodel-extension-label = Používáno rozšířením { $extensionName }
 ## Mapping Engine IDs from AI models to how that feature represented by the engine Id is described in the used by section in local model management
 
 mlmodel-about-inference = { -brand-short-name } to používá na stránce about:inference
+mlmodel-link-preview = { -brand-short-name } toto používá ke generování klíčových bodů když provádíte náhledy odkazů
+mlmodel-pdfjs = { -brand-short-name } toto používá k vytváření alternativního textu pro obrázky, které přidáváte do souborů PDF
 mlmodel-smart-tab-topic-engine = { -brand-short-name } toto používá k navrhování názvů vašich skupin panelů
 mlmodel-smart-tab-embedding-engine = { -brand-short-name } toto používá k navrhování panelů pro vaše skupiny panelů
 # AI Model will be downloaded on the users device and used locally
@@ -664,6 +666,11 @@ addon-category-mlmodel = Umělá inteligence na zařízení
 addon-category-mlmodel-title =
     .title = Umělá inteligence na zařízení
 mlmodel-heading = Správa modelů umělé inteligence na zařízení
+mlmodel-description =
+    { -brand-short-name.case-status ->
+        [with-cases] Některé funkce a rozšíření ve { -brand-short-name(case: "gen") } jsou postaveny na modelech umělé inteligence, které fungují lokálně na vašem zařízení. Tento přístup chrání vaše soukromí a v mnoha případech i zrychluje výkon. <a data-l10n-name="learn-more">Zjistit více</a>
+       *[no-cases] Některé funkce a rozšíření v aplikaci { -brand-short-name } jsou postaveny na modelech umělé inteligence, které fungují lokálně na vašem zařízení. Tento přístup chrání vaše soukromí a v mnoha případech i zrychluje výkon. <a data-l10n-name="learn-more">Zjistit více</a>
+    }
 # Label for button that when clicked removed local model
 mlmodel-remove-addon-button =
     .aria-label = Odebrat
