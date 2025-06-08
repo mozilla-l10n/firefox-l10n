@@ -34,6 +34,7 @@ xpinstall-prompt-install =
 
 # These messages are shown when a website invokes navigator.requestMIDIAccess.
 
+site-permission-install-first-prompt-midi-header = Stu situ sta addumannannu l'accessu ê to dispusitivi MIDI (Musical Instrument Digital Interface). L'accessu ê dispusitivi po èssiri abbilitatu doppu chi nziti na juncitina.
 
 ##
 
