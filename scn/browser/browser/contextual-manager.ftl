@@ -10,8 +10,8 @@ contextual-manager-filter-input =
 ## Passwords
 
 contextual-manager-passwords-command-create = Junci chiavi
-contextual-manager-passwords-command-import-from-browser = Mporta di n'autru navicaturi…
-contextual-manager-passwords-command-import = Mporta d'un pricu…
+contextual-manager-passwords-command-import-from-browser = Mporta di n’autru navicaturi…
+contextual-manager-passwords-command-import = Mporta d’un pricu…
 contextual-manager-passwords-command-help = Ajutu
 # This message can be seen when attempting to export a password in about:logins on Windows.
 contextual-manager-passwords-export-os-auth-dialog-message-win = Pi espurtari i to chiavi, metti i cridinziali di Windows. Chistu serbi a prutèggiri e mantèniri sicuri i to cunti.
@@ -53,7 +53,7 @@ contextual-manager-passwords-import-file-picker-tsv-filter-title =
 contextual-manager-passwords-import-success-button = Fattu
 contextual-manager-passwords-import-error-button-cancel = Sfai
 contextual-manager-passwords-export-success-button = Fattu
-contextual-manager-export-passwords-dialog-confirm-button = Cuntinua cu l'espurtazzioni
+contextual-manager-export-passwords-dialog-confirm-button = Cuntinua cu l’espurtazzioni
 # Title of the file picker dialog
 contextual-manager-passwords-export-file-picker-title = Esporta chiavi di { -brand-short-name }
 contextual-manager-passwords-export-file-picker-export-button = Esporta

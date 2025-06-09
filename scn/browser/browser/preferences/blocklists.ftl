@@ -5,7 +5,7 @@
 blocklist-window2 =
     .title = Lista dî bloccu
     .style = min-width: 55em
-blocklist-description = Scarta a lista ca { -brand-short-name } usa pi firmari i trazzatura 'n linia. I listi vennu furnuti di <a data-l10n-name="disconnect-link" title="Disconnect">Disconnect</a>.
+blocklist-description = Scarta a lista ca { -brand-short-name } usa pi firmari i trazzatura ’n linia. I listi vennu furnuti di <a data-l10n-name="disconnect-link" title="Disconnect">Disconnect</a>.
 blocklist-close-key =
     .key = w
 blocklist-treehead-list =

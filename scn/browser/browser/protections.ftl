@@ -26,22 +26,22 @@ graph-today = Oji
 # This string is used to describe the graph for screenreader users.
 graph-legend-description = Gràficu cû nùmmaru tutali di trazzatura bluccati sta simana, spartuti pi tipu.
 social-tab-title = Trazzatura dî riti suciali
-social-tab-contant = I riti suciali mèttinu trazzatura nni autri siti pi sicutari chiḍḍu chi fai 'n linia. Chistu pirmetti ê cumpagnìi di aviri cchiù nfurmazzioni supra di tia sparti di chiḍḍu chi sparti nnê to prufili. <a data-l10n-name="learn-more-link">Cchiù nfurmazzioni</a>
+social-tab-contant = I riti suciali mèttinu trazzatura nni autri siti pi sicutari chiḍḍu chi fai ’n linia. Chistu pirmetti ê cumpagnìi di aviri cchiù nfurmazzioni supra di tia sparti di chiḍḍu chi sparti nnê to prufili. <a data-l10n-name="learn-more-link">Cchiù nfurmazzioni</a>
 cookie-tab-title = Viscotta di trazzatura ntirsitu
-cookie-tab-content = Sti viscotta ti sicùtanu d'un situ a n'autru pi cògghiri dati supra a soccu fai 'n linia. Vennu misi di parti terzi, pi scempru agginzìi pubblicitari o cumpagnìi d'anàlisi dî dati. Bluccari sti viscotta veni a diri arridùciri u nùmmaru di pubblicità ca ti sicùtanu riti riti. <a data-l10n-name="learn-more-link">Cchiù nfurmazzioni</a>
+cookie-tab-content = Sti viscotta ti sicùtanu d’un situ a n’autru pi cògghiri dati supra a soccu fai ’n linia. Vennu misi di parti terzi, pi scempru agginzìi pubblicitari o cumpagnìi d’anàlisi dî dati. Bluccari sti viscotta veni a diri arridùciri u nùmmaru di pubblicità ca ti sicùtanu riti riti. <a data-l10n-name="learn-more-link">Cchiù nfurmazzioni</a>
 tracker-tab-title = Cuntinutu trazzanti
-tracker-tab-description = I siti web ponnu carricari pubblicità, vidiu e autri cuntinuti cu còdici trazzanti. Bluccari sti cuntinuti po fari carricari sti siti cchiù lesti, ma certi buttuna, mòduli e panneḍḍi d'accessu putìssiru nun funziunari cchiù. <a data-l10n-name="learn-more-link">Cchiù nfurmazzioni</a>
-fingerprinter-tab-title = Giniratura d'urmi diggitali
-fingerprinter-tab-content = I giniratura d'urmi diggitali cògghinu mpustazzioni dû to navicaturi o computer pi criari un prufilu di tia. Usannu st'urma diggitali, ti ponnu assicutari supra a siti diversi. <a data-l10n-name="learn-more-link">Cchiù nfurmazzioni</a>
+tracker-tab-description = I siti web ponnu carricari pubblicità, vidiu e autri cuntinuti cu còdici trazzanti. Bluccari sti cuntinuti po fari carricari sti siti cchiù lesti, ma certi buttuna, mòduli e panneḍḍi d’accessu putìssiru nun funziunari cchiù. <a data-l10n-name="learn-more-link">Cchiù nfurmazzioni</a>
+fingerprinter-tab-title = Giniratura d’urmi diggitali
+fingerprinter-tab-content = I giniratura d’urmi diggitali cògghinu mpustazzioni dû to navicaturi o computer pi criari un prufilu di tia. Usannu st’urma diggitali, ti ponnu assicutari supra a siti diversi. <a data-l10n-name="learn-more-link">Cchiù nfurmazzioni</a>
 cryptominer-tab-title = Minatura di crittumunita
 cryptominer-tab-content = I minatura di crittumunita ùsanu a putenza dû to sistema pi criari munita diggitali. Sti prugrammi cunzùmanu a battirìa, fannu addivintari cchiù lentu u to computer e ti ponnu custari assai nnâ bulletta elèttrica. <a data-l10n-name="learn-more-link">Cchiù nfurmazzioni</a>
 lockwise-title = Nun ti scurdari cchiù nuḍḍa chiavi
-lockwise-header-content-logged-in = Sarba i to chiavi 'n manera sicura e sincrunìzzali cu tutti i to dispusitivi.
+lockwise-header-content-logged-in = Sarba i to chiavi ’n manera sicura e sincrunìzzali cu tutti i to dispusitivi.
 monitor-title = Stai accura ê viulazzioni dî dati
 monitor-link = Comu funziona
 monitor-header-content-no-account = Cuntrolla { -monitor-brand-name } pi vìdiri si avisti quarchi viulazzioni dî dati, e nfòrmati supra ê novi viulazzioni.
-monitor-header-content-signed-in = { -monitor-brand-name } t'abbisa si i to dati spùntanu nna quarchi viulazziuni di dati canusciuta.
-auto-scan = Cuntrullatu 'n autumàticu oji
+monitor-header-content-signed-in = { -monitor-brand-name } t’abbisa si i to dati spùntanu nna quarchi viulazziuni di dati canusciuta.
+auto-scan = Cuntrullatu ’n autumàticu oji
 # This string is displayed after a large numeral that indicates the total number
 # of email addresses being monitored. Don’t add $count to
 # your localization, because it would result in the number showing twice.
@@ -96,11 +96,11 @@ bar-tooltip-tracker =
            *[other] { $count } cuntinuti trazzanti ({ $percentage }%)
         }
 bar-tooltip-fingerprinter =
-    .title = Giniratura d'urmi diggitali
+    .title = Giniratura d’urmi diggitali
     .aria-label =
         { $count ->
-            [one] { $count } giniraturi d'urmi diggitali ({ $percentage }%)
-           *[other] { $count } giniratura d'urmi diggitali ({ $percentage }%)
+            [one] { $count } giniraturi d’urmi diggitali ({ $percentage }%)
+           *[other] { $count } giniratura d’urmi diggitali ({ $percentage }%)
         }
 bar-tooltip-cryptominer =
     .title = Minatura di crittumunita

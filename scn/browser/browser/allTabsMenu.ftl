@@ -17,7 +17,7 @@ all-tabs-menu-close-duplicate-tabs =
 all-tabs-menu-close-all-duplicate-tabs =
     .label = Chiuji tutti i schedi duppi
 all-tabs-menu-synced-tabs =
-    .label = Schedi di l'autri dispusitivi
+    .label = Schedi di l’autri dispusitivi
 # "Recent" refers to tab groups being sorted in recently used order. We show up
 # to five of these in this section.
 all-tabs-menu-recent-tab-groups-header = Gruppi dî schedi ricenti

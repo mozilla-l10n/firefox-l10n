@@ -40,15 +40,15 @@ appmenu-remote-tabs-sign-into-sync =
 # This is shown beneath the name of a device when that device has no open tabs
 appmenu-remote-tabs-notabs = Nuḍḍa scheda raputa
 # This is shown when Sync is configured but syncing tabs is disabled.
-appmenu-remote-tabs-tabsnotsyncing = Attiva a sincrunizzazzioni dî schedi pi vìdiri na lista dî schedi di l'autri dispusitivi.
+appmenu-remote-tabs-tabsnotsyncing = Attiva a sincrunizzazzioni dî schedi pi vìdiri na lista dî schedi di l’autri dispusitivi.
 appmenu-remote-tabs-opensettings =
     .label = Mpustazzioni
 # This is shown when Sync is configured but this appears to be the only device attached to
 # the account. We also show links to download Firefox for android/ios.
-appmenu-remote-tabs-noclients = Vo' vìdiri cca i to schedi di l'autri dispusitivi?
+appmenu-remote-tabs-noclients = Vo’ vìdiri cca i to schedi di l’autri dispusitivi?
 appmenu-remote-tabs-connectdevice =
-    .label = Culleja n'autru dispusitivu
-appmenu-remote-tabs-welcome = Vidi na lista dî schedi di l'autri dispusitivi.
+    .label = Culleja n’autru dispusitivu
+appmenu-remote-tabs-welcome = Vidi na lista dî schedi di l’autri dispusitivi.
 appmenu-remote-tabs-unverified = U to cuntu àvi a èssiri virificatu.
 appmenuitem-fxa-toolbar-sync-now2 = Sincrunizza ora
 appmenuitem-fxa-sign-in = Trasi nne { -brand-product-name }
@@ -133,7 +133,7 @@ appmenu-get-help =
     .label = Addumanna ajutu
     .accesskey = h
 appmenu-help-more-troubleshooting-info =
-    .label = Autri nfurmazzioni p'arrisòrbiri prubblemi
+    .label = Autri nfurmazzioni p’arrisòrbiri prubblemi
     .accesskey = t
 appmenu-help-share-ideas =
     .label = Sparti pinzeri e cummenti…

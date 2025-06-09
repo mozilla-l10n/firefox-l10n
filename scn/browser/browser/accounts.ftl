@@ -32,7 +32,7 @@ account-send-tab-to-device-singledevice-status = Nuḍḍu dispusitivu cullijatu
 # Redirects to a marketing page.
 account-send-tab-to-device-singledevice-learnmore = Cchiù nfurmazzioni supra a comu mannari schedi…
 # Redirects to an FxAccounts page that tells to you to connect another device.
-account-send-tab-to-device-connectdevice = Culleja n'autru dispusitivu…
+account-send-tab-to-device-connectdevice = Culleja n’autru dispusitivu…
 
 ## Displayed in the Send Tabs context menu when right clicking a tab, a page or a link
 ## and the Sync account is unverified. Redirects to the Sync preferences page.
@@ -52,7 +52,7 @@ account-connection-title-2 = Cuntu
 #   $deviceName (String): the name of the new device
 account-connection-connected-with = Stu computer è cullijatu cu { $deviceName }.
 # Used when the name of the new device is not known.
-account-connection-connected-with-noname = Stu computer ora è cullijatu c'un dispusitivu novu.
+account-connection-connected-with-noname = Stu computer ora è cullijatu c’un dispusitivu novu.
 # Used in a notification shown after a Firefox account is connected to the current device.
 account-connection-connected = Sissiuni raputa
 # Used in a notification shown after the Firefox account was disconnected remotely.

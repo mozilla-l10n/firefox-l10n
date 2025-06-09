@@ -31,7 +31,7 @@ clear-time-duration-prefix =
 clear-time-duration-value-last-hour =
     .label = ùrtima ura
 clear-time-duration-value-last-2-hours =
-    .label = ùrtimi du' uri
+    .label = ùrtimi du’ uri
 clear-time-duration-value-last-4-hours =
     .label = ùrtimi quattru uri
 clear-time-duration-value-today =
@@ -64,7 +64,7 @@ data-section-label = Dati
 item-offline-apps =
     .label = Dati fora linia dî siti
     .accesskey = D
-sanitize-everything-undo-warning = St'azziuni nun si po sfari.
+sanitize-everything-undo-warning = St’azziuni nun si po sfari.
 window-close =
     .key = w
 sanitize-button-ok =
@@ -80,4 +80,4 @@ sanitize-everything-warning = Tutta a crunuluggìa sarà scancillata.
 # Warning that appears when "Time range to clear" is set to "Everything" in Clear
 # Recent History dialog, provided that the user has modified the default set of
 # history items to clear.
-sanitize-selected-warning = Tutti l'elementi scartati sarannu scancillati.
+sanitize-selected-warning = Tutti l’elementi scartati sarannu scancillati.

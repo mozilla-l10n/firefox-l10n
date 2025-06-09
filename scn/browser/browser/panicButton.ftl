@@ -3,7 +3,7 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 panic-button-open-new-window = Grapi na finestra nova
-panic-button-undo-warning = St'azziuni nun si po sfari.
+panic-button-undo-warning = St’azziuni nun si po sfari.
 panic-button-forget-button =
     .label = Scorda!
 
@@ -11,11 +11,11 @@ panic-button-forget-button =
 ## panic-main-timeframe-desc. For example: "Forget the last: Five minutes".
 ## Please ensure that this remains the case in the translation.
 
-panic-main-timeframe-desc = Scorda l'ùrtimu:
+panic-main-timeframe-desc = Scorda l’ùrtimu:
 panic-button-5min =
     .label = Cincu minuti
 panic-button-2hr =
-    .label = Du' uri
+    .label = Du’ uri
 panic-button-day =
     .label = 24 uri
 

@@ -11,7 +11,7 @@
 neterror-copy-to-clipboard-button = Copia u testu nnô pitazzu
 neterror-learn-more-link = Cchiù nfurmazzioni…
 neterror-pref-reset-button = Ricùpira i mpustazzioni pridifinuti
-neterror-return-to-previous-page-button = Vai nn'arrè
+neterror-return-to-previous-page-button = Vai nn’arrè
 neterror-try-again-button = Torna a prova
 
 ##
@@ -19,8 +19,8 @@ neterror-try-again-button = Torna a prova
 
 ## Specific error messages
 
-neterror-load-error-firewall = Si u to computer o a riti è prutetta d'un tagghiafocu o un proxy, cuntrolla chi { -brand-short-name } àvi u pirmissu d'accèdiri â riti.
-neterror-dns-not-found-hint-firewall = Cuntrolla chi { -brand-short-name } àvi u pirmissu d'accèdiri â riti (putissi èssiri cullijatu ma prutettu d'un tagghiafocu)
+neterror-load-error-firewall = Si u to computer o a riti è prutetta d’un tagghiafocu o un proxy, cuntrolla chi { -brand-short-name } àvi u pirmissu d’accèdiri â riti.
+neterror-dns-not-found-hint-firewall = Cuntrolla chi { -brand-short-name } àvi u pirmissu d’accèdiri â riti (putissi èssiri cullijatu ma prutettu d’un tagghiafocu)
 
 ## TRR-only specific messages
 ## Variables:
@@ -35,4 +35,4 @@ neterror-dns-not-found-hint-firewall = Cuntrolla chi { -brand-short-name } àvi 
 
 ##
 
-neterror-proxy-resolve-failure-firewall = Si u to computer o a riti è prutetta d'un tagghiafocu o un proxy, cuntrolla chi { -brand-short-name } àvi u pirmissu d'accèdiri â riti.
+neterror-proxy-resolve-failure-firewall = Si u to computer o a riti è prutetta d’un tagghiafocu o un proxy, cuntrolla chi { -brand-short-name } àvi u pirmissu d’accèdiri â riti.

@@ -25,5 +25,5 @@ profile-manager-work-offline =
     .label = Travagghia scullijatu
     .accesskey = T
 profile-manager-use-selected =
-    .label = Usa u prufilu scartatu senza addumannàrimi all'abbìu
+    .label = Usa u prufilu scartatu senza addumannàrimi all’abbìu
     .accesskey = U

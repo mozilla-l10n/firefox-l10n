@@ -7,7 +7,7 @@
 
 site-data-settings-window =
     .title = Manija viscotta e dati dî siti
-site-data-settings-description = Sti siti sàrbanu cookie e dati nnô to computer. { -brand-short-name } sarba i dati di l'archiviu pirmanenti finu a quannu tu dicidi di scancillàrili, mentri i dati dî siti nni l'archiviu timpuraniu vennu scancillati quannu abbisogna spazziu.
+site-data-settings-description = Sti siti sàrbanu cookie e dati nnô to computer. { -brand-short-name } sarba i dati di l’archiviu pirmanenti finu a quannu tu dicidi di scancillàrili, mentri i dati dî siti nni l’archiviu timpuraniu vennu scancillati quannu abbisogna spazziu.
 site-data-search-textbox =
     .placeholder = Riscedi siti
     .accesskey = R

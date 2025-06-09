@@ -2,13 +2,13 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-page-title = Nfurmazzioni p'arrisòrbiri i prubblemi
+page-title = Nfurmazzioni p’arrisòrbiri i prubblemi
 page-subtitle = Sta pàggina cunteni nfurmazzioni tècnichi ca ti ponnu èssiri utili quannu stai pruvannu ad arrisòrbiri quarchi prubblema. Si stai circannu i risposti ê dumanni cchiù friquenti supra a { -brand-short-name }, cuntrolla u nostru <a data-l10n-name="support-link">situ dû supportu</a>.
 crashes-title = Signalijazzioni dî blocchi
 crashes-id = ID signalijazzioni
 crashes-send-date = Mannata
 crashes-all-reports = Tutti i signalijazzioni dî blocchi
-crashes-no-config = St'applicazzioni nun fu cunfijurata pi mustrari i signalijazzioni di bloccu anòmalu.
+crashes-no-config = St’applicazzioni nun fu cunfijurata pi mustrari i signalijazzioni di bloccu anòmalu.
 support-addons-name = Nomu
 support-addons-version = Virsiuni
 support-addons-id = ID
@@ -29,7 +29,7 @@ app-basics-title = Nfurmazzioni di basi
 app-basics-name = Nomu
 app-basics-version = Virsiuni
 app-basics-build-id = ID cumpilazziuni
-app-basics-update-channel = Canali d'attualizzazziuni
+app-basics-update-channel = Canali d’attualizzazziuni
 # This message refers to the folder used to store updates on the device,
 # as in "Folder for updates". "Update" is a noun, not a verb.
 app-basics-update-dir =
@@ -37,7 +37,7 @@ app-basics-update-dir =
         [linux] Carpetta attualizzazziuni
        *[other] Carpetta attualizzazziuni
     }
-app-basics-update-history = Crunuluggìa di l'attualizzazzioni
+app-basics-update-history = Crunuluggìa di l’attualizzazzioni
 library-version-title = Virsioni libbrarìi
 
 ## Media titles

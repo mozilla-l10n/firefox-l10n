@@ -5,7 +5,7 @@
 printpreview-simplify-page-checkbox =
     .label = Simplìfica pàggina
     .accesskey = S
-    .tooltiptext = Sta pàggina nun po' èssiri simplificata 'n manera autumàtica
+    .tooltiptext = Sta pàggina nun po’ èssiri simplificata ’n manera autumàtica
 printpreview-simplify-page-checkbox-enabled =
     .label = { printpreview-simplify-page-checkbox.label }
     .accesskey = { printpreview-simplify-page-checkbox.accesskey }

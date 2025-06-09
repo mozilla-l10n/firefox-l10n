@@ -25,8 +25,8 @@ webext-perms-add =
 webext-perms-cancel =
     .label = Sfai
     .accesskey = S
-webext-perms-sideload-text = N'autru prugramma nnô to computer nzitau na juncitina ca po strammari a to navicazzioni. Pi favuri talìa arrè i richiesti di pirmissi di sta juncitina e scarta «Abbìlita» o «Sfai» (pi lassalla disabbilitata).
-webext-perms-sideload-text-no-perms = N'autru prugramma nnô to computer nzitau na juncitina ca po strammari a to navicazzioni. Pi favuri scarta «Abbìlita» o «Sfai» (pi lassalla disabbilitata).
+webext-perms-sideload-text = N’autru prugramma nnô to computer nzitau na juncitina ca po strammari a to navicazzioni. Pi favuri talìa arrè i richiesti di pirmissi di sta juncitina e scarta «Abbìlita» o «Sfai» (pi lassalla disabbilitata).
+webext-perms-sideload-text-no-perms = N’autru prugramma nnô to computer nzitau na juncitina ca po strammari a to navicazzioni. Pi favuri scarta «Abbìlita» o «Sfai» (pi lassalla disabbilitata).
 webext-perms-sideload-enable =
     .label = Abbìlita
     .accesskey = A
@@ -52,7 +52,7 @@ webext-perms-host-description-wildcard = Accèdiri ê to dati pî siti nnô dumi
 #     hosts for which this webextension is requesting permission.
 webext-perms-host-description-too-many-wildcards =
     { $domainCount ->
-        [one] Accèdiri ê to dati nna n'autru duminiu
+        [one] Accèdiri ê to dati nna n’autru duminiu
        *[other] Accèdiri ê to dati nna { $domainCount } autri dumini
     }
 # Variables:
@@ -63,7 +63,7 @@ webext-perms-host-description-one-site = Accèdiri ê to dati pi { $domain }
 #     hosts for which this webextension is requesting permission.
 webext-perms-host-description-too-many-sites =
     { $domainCount ->
-        [one] Accèdiri ê to dati nna n'autru situ
+        [one] Accèdiri ê to dati nna n’autru situ
        *[other] Accèdiri ê to dati nna { $domainCount } autri siti
     }
 

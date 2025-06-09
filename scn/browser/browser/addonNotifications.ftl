@@ -13,7 +13,7 @@ xpinstall-prompt-message = Stai pruvannu a nzitari na juncitina di { $host }. Pr
 ##
 
 xpinstall-prompt-header-unknown = Pirmèttiri a stu situ scanusciutu di nzitari na juncitina?
-xpinstall-prompt-message-unknown = Sta' pruvannu a nzitari na juncitina d'un situ scanusciutu. Pènzacci si ài fiducia nna stu situ, prima di cuntinuari.
+xpinstall-prompt-message-unknown = Sta’ pruvannu a nzitari na juncitina d’un situ scanusciutu. Pènzacci si ài fiducia nna stu situ, prima di cuntinuari.
 xpinstall-prompt-dont-allow =
     .label = Nun u pirmèttiri
     .accesskey = D
@@ -34,13 +34,13 @@ xpinstall-prompt-install =
 
 # These messages are shown when a website invokes navigator.requestMIDIAccess.
 
-site-permission-install-first-prompt-midi-header = Stu situ sta addumannannu l'accessu ê to dispusitivi MIDI (Musical Instrument Digital Interface). L'accessu ê dispusitivi po èssiri abbilitatu doppu chi nziti na juncitina.
+site-permission-install-first-prompt-midi-header = Stu situ sta addumannannu l’accessu ê to dispusitivi MIDI (Musical Instrument Digital Interface). L’accessu ê dispusitivi po èssiri abbilitatu doppu chi nziti na juncitina.
 
 ##
 
-xpinstall-disabled-locked = U nzitamentu dî prugrammi fu sdisabbilitatu di l'amministraturi dû sistema.
+xpinstall-disabled-locked = U nzitamentu dî prugrammi fu sdisabbilitatu di l’amministraturi dû sistema.
 xpinstall-disabled-by-policy = U nzitamentu dî prugrammi fu sdisabbilitatu dâ to urganizzazzioni.
-xpinstall-disabled = P'accamora u nzitamentu dî prugrammi è sdisabbilitatu. Ammacca «Abbìlita» e torna a prova.
+xpinstall-disabled = P’accamora u nzitamentu dî prugrammi è sdisabbilitatu. Ammacca «Abbìlita» e torna a prova.
 xpinstall-disabled-button =
     .label = Abbìlita
     .accesskey = n
@@ -48,9 +48,9 @@ xpinstall-disabled-button =
 # Variables:
 #   $addonName (String): the name of the add-on.
 #   $addonId (String): the ID of add-on.
-addon-install-blocked-by-policy = { $addonName } ({ $addonId }) fu bluccatu di l'amministraturi dû to sistema.
+addon-install-blocked-by-policy = { $addonName } ({ $addonId }) fu bluccatu di l’amministraturi dû to sistema.
 # This message is shown when the installation of add-ons from a domain is blocked by enterprise policy.
-addon-domain-blocked-by-policy = L'amministraturi dû to sistema bluccau a stu situ di addumannàriti di nzitari prugrammi nnô to computer.
+addon-domain-blocked-by-policy = L’amministraturi dû to sistema bluccau a stu situ di addumannàriti di nzitari prugrammi nnô to computer.
 # This message is shown when the installation of an add-on is blocked by enterprise policy.
 # Variables:
 #   $addonName (String): the name of the add-on.
@@ -58,7 +58,7 @@ addon-domain-blocked-by-policy = L'amministraturi dû to sistema bluccau a stu s
 addon-installation-blocked-by-policy = { $addonName } ({ $addonId }) fu bluccatu dâ to urganizzazzioni.
 # This message is shown when the installation of add-ons from a domain is blocked by enterprise policy.
 addon-install-domain-blocked-by-policy = A to urganizzazzioni bluccau a stu situ di addumannàriti di nzitari prugrammi nnô to computer.
-addon-install-full-screen-blocked = Nun è pussìbbili nzitari na juncitina quannu sì, o prima di tràsiri, 'n mudalità a tuttu schirmu.
+addon-install-full-screen-blocked = Nun è pussìbbili nzitari na juncitina quannu sì, o prima di tràsiri, ’n mudalità a tuttu schirmu.
 # Variables:
 #   $addonName (String): the localized name of the sideloaded add-on.
 webext-perms-sideload-menu-item = { $addonName } fu junciutu a { -brand-short-name }
@@ -74,10 +74,10 @@ webext-imported-addons = Cumpleta u nzitamentu dî stinneri mpurtati nne { -bran
 
 # Variables:
 #  $name (String): The name of the add-on that will be removed.
-addon-removal-title = Vo' livari { $name }?
+addon-removal-title = Vo’ livari { $name }?
 # Variables:
 #   $name (String): the name of the extension which is about to be removed.
-addon-removal-message = Vo' livari { $name } di { -brand-shorter-name }?
+addon-removal-message = Vo’ livari { $name } di { -brand-shorter-name }?
 addon-removal-button = Leva
 addon-removal-abuse-report-checkbox = Riporta stu stinneriu a { -vendor-short-name }
 # Variables:
@@ -116,13 +116,13 @@ addon-confirm-install-some-unsigned-message = Accura: stu situ vulissi nzitari {
 ## Variables:
 ##   $addonName (String): the add-on name.
 
-addon-install-error-network-failure = Mpussìbbili scarricari a juncitina pi n'erruri di cunnissiuni.
-addon-install-error-incorrect-hash = Mpussìbbili nzitari a juncitina picchì nun appatta cu soccu s'aspittava { -brand-short-name }.
+addon-install-error-network-failure = Mpussìbbili scarricari a juncitina pi n’erruri di cunnissiuni.
+addon-install-error-incorrect-hash = Mpussìbbili nzitari a juncitina picchì nun appatta cu soccu s’aspittava { -brand-short-name }.
 addon-install-error-corrupt-file = Mpussìbbili nzitari a juncitina scarricata di stu situ picchì u pricu parissi difittusu.
 addon-install-error-file-access = Mpussìbbili nzitari «{ $addonName }» picchì { -brand-short-name } nun potti canciari i prichi nicissari.
 addon-install-error-not-signed = { -brand-short-name } firmau stu situ di nzitari na juncitina nun virificata.
-addon-local-install-error-network-failure = Mpussìbbili nzitari a juncitina pi n'erruri dû sistema.
-addon-local-install-error-incorrect-hash = Mpussìbbili nzitari sta juncitina picchì nun appatta cu soccu s'aspittava { -brand-short-name }.
+addon-local-install-error-network-failure = Mpussìbbili nzitari a juncitina pi n’erruri dû sistema.
+addon-local-install-error-incorrect-hash = Mpussìbbili nzitari sta juncitina picchì nun appatta cu soccu s’aspittava { -brand-short-name }.
 addon-local-install-error-corrupt-file = Mpussìbbili nzitari sta juncitina picchì parissi difittusa.
 addon-local-install-error-file-access = Mpussìbbili nzitari «{ $addonName }» picchì { -brand-short-name } nun potti canciari i prichi nicissari.
 addon-local-install-error-not-signed = Mpussìbbili nzitari sta juncitina picchì nun fu virificata.

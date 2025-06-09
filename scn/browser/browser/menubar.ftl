@@ -22,7 +22,7 @@ menu-application-services =
 menu-application-hide-this =
     .label = Ammuccia { -brand-shorter-name }
 menu-application-hide-other =
-    .label = Ammuccia l'autri
+    .label = Ammuccia l’autri
 
 ##
 
@@ -74,7 +74,7 @@ menu-file-print =
     .label = Stampa…
     .accesskey = S
 menu-file-import-from-another-browser =
-    .label = Mporta di n'autru navicaturi…
+    .label = Mporta di n’autru navicaturi…
     .accesskey = g
 menu-file-go-offline =
     .label = Travagghia scullijatu

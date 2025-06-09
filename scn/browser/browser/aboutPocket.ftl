@@ -11,12 +11,12 @@
 # Placeholder text for tag input
 pocket-panel-saved-add-tags =
     .placeholder = Junci Tichetti
-pocket-panel-saved-error-generic = Cci fu n'erruri pruvannu a sarbari nne { -pocket-brand-name }.
+pocket-panel-saved-error-generic = Cci fu n’erruri pruvannu a sarbari nne { -pocket-brand-name }.
 pocket-panel-saved-error-tag-length = I tichetti sunnu limitati a 25 caràttiri
 pocket-panel-saved-error-only-links = Poi sarbari sulu i lijami
 pocket-panel-saved-error-not-saved = Pàggina nun sarbata
 pocket-panel-saved-error-no-internet = Hâ èssiri cullijatu â riti pi sarbari nne { -pocket-brand-name }. Pi favuri cullèjati â riti e prova arrè.
-pocket-panel-saved-error-remove = Cci fu n'erruri pruvannu a livari sta pàggina.
+pocket-panel-saved-error-remove = Cci fu n’erruri pruvannu a livari sta pàggina.
 pocket-panel-saved-page-removed = Pàggina livata
 pocket-panel-saved-page-saved = Sarbatu nne { -pocket-brand-name }
 pocket-panel-saved-page-saved-b = Sarbatu nne { -pocket-brand-name }!

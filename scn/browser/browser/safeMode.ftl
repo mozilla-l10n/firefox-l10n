@@ -5,4 +5,4 @@
 refresh-profile =
     .label = Ricàrrica { -brand-short-name }
 # Shown on the safe mode dialog after multiple startup crashes.
-auto-safe-mode-description = { -brand-short-name } si chiujìu 'n manera anòmala duranti l'abbìu. Putissi èssiri pi curpa di na juncitina o di autri prubblemi. Po' pruvari ad arrisòrbiri stu prubblema câ mudalità sicura.
+auto-safe-mode-description = { -brand-short-name } si chiujìu ’n manera anòmala duranti l’abbìu. Putissi èssiri pi curpa di na juncitina o di autri prubblemi. Po’ pruvari ad arrisòrbiri stu prubblema câ mudalità sicura.

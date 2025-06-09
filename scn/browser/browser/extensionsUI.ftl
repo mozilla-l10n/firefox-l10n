@@ -6,7 +6,7 @@
 #   $addonName (String): localized named of the extension that is asking to change the default search engine.
 #   $currentEngine (String): name of the current search engine.
 #   $newEngine (String): name of the new search engine.
-webext-default-search-description = { $addonName } vulissi canciari u to muturi di risciduta pridifinitu di { $currentEngine } a { $newEngine }. Vo' cuntinuari?
+webext-default-search-description = { $addonName } vulissi canciari u to muturi di risciduta pridifinitu di { $currentEngine } a { $newEngine }. Vo’ cuntinuari?
 webext-default-search-yes =
     .label = Se
     .accesskey = S

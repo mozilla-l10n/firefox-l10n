@@ -5,4 +5,4 @@
 # This string is used as part of the Picture-in-Picture video toggle button when
 # the mouse is hovering it.
 videocontrols-picture-in-picture-label = Mmàggini-nnâ-Mmàggini
-videocontrols-status-picture-in-picture = Stu vidiu veni ripruduttu 'n mudalità mmàggini-nnâ-mmàggini.
+videocontrols-status-picture-in-picture = Stu vidiu veni ripruduttu ’n mudalità mmàggini-nnâ-mmàggini.

@@ -9,6 +9,6 @@
 # refactoring them in some way, the script will need updating.
 
 ssl-error-mac-computation-failure = U càrculu dû MAC sfallìu.
-ssl-error-user-canceled-alert = L'autru utenti sfici a niguzziazziuni dâ cunnissiuni.
-sec-error-user-cancelled = L'utenti ammaccò Sfai.
+ssl-error-user-canceled-alert = L’autru utenti sfici a niguzziazziuni dâ cunnissiuni.
+sec-error-user-cancelled = L’utenti ammaccò Sfai.
 xp-sec-fortezza-bad-pin = Còdici PIN nun vàlitu

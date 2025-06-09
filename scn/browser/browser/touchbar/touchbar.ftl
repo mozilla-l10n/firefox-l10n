@@ -4,7 +4,7 @@
 
 # Strings in this file are used to localize button titles displayed on the
 # MacBook Touch Bar.
-back = Nn'arrè
+back = Nn’arrè
 forward = Avanti
 reload = Càrrica arrè
 home = Pàggina mastra

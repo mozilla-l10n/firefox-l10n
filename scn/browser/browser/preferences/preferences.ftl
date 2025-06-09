@@ -49,8 +49,8 @@ close-button =
 
 ## Browser Restart Dialog
 
-feature-enable-requires-restart = { -brand-short-name } s'àvi a riabbiari p'abbilitari sta funziunalità.
-feature-disable-requires-restart = { -brand-short-name } s'àvi a riabbiari pi disabbilitari sta funziunalità.
+feature-enable-requires-restart = { -brand-short-name } s’àvi a riabbiari p’abbilitari sta funziunalità.
+feature-disable-requires-restart = { -brand-short-name } s’àvi a riabbiari pi disabbilitari sta funziunalità.
 should-restart-title = Riabbìa { -brand-short-name }
 should-restart-ok = Riabbìa { -brand-short-name } ora
 cancel-no-restart-button = Sfai
@@ -71,7 +71,7 @@ restart-later = Riabbìa doppu
 #
 # <img data-l10n-name="addons-icon"/> will be replaced with Add-ons icon
 # <img data-l10n-name="menu-icon"/> will be replaced with Menu icon
-extension-controlled-enable = P'abbilitari u stinneriu vai nnî <img data-l10n-name="addons-icon"/> Juncitini nnô minù <img data-l10n-name="menu-icon"/>.
+extension-controlled-enable = P’abbilitari u stinneriu vai nnî <img data-l10n-name="addons-icon"/> Juncitini nnô minù <img data-l10n-name="menu-icon"/>.
 
 ## Preferences UI Search Results
 
@@ -95,7 +95,7 @@ disable-extension =
     .label = Sdisabbìlita stinneriu
 tabs-group-header = Schedi
 ctrl-tab-recently-used-order =
-    .label = Ctrl+Tab scurri i schedi nna l'ùrdini d'usu ricenti
+    .label = Ctrl+Tab scurri i schedi nna l’ùrdini d’usu ricenti
     .accesskey = T
 open-new-link-as-tabs =
     .label = Grapi i lijami nnê schedi mmeci ca nna finestri novi
@@ -104,7 +104,7 @@ warn-on-open-many-tabs =
     .label = Abbìsami quannu ràpiri cchiù schedi po rallintari { -brand-short-name }
     .accesskey = d
 show-tabs-in-taskbar =
-    .label = Mustra antiprima dâ scheda nnâ barra di l'applicazzioni di Windows
+    .label = Mustra antiprima dâ scheda nnâ barra di l’applicazzioni di Windows
     .accesskey = W
 browser-containers-enabled =
     .label = Abbìlita schedi cuntinituri
@@ -113,15 +113,15 @@ browser-containers-learn-more = Cchiù nfurmazzioni
 browser-containers-settings =
     .label = Mpustazzioni…
     .accesskey = i
-containers-disable-alert-title = Vo' chiùjiri tutti i schedi cuntinituri?
+containers-disable-alert-title = Vo’ chiùjiri tutti i schedi cuntinituri?
 
 ## Variables:
 ##   $tabCount (number) - Number of tabs
 
 containers-disable-alert-desc =
     { $tabCount ->
-        [one] Si disabbìliti i schedi cuntinituri ora, { $tabCount } scheda cuntinituri veni chiusa. Sì sicuru ca vo' disabbilitari i schedi cuntinituri?
-       *[other] Si disabbìliti i schedi cuntinituri ora, { $tabCount } schedi cuntinituri vennu chiusi. Sì sicuru ca vo' disabbilitari i schedi cuntinituri?
+        [one] Si disabbìliti i schedi cuntinituri ora, { $tabCount } scheda cuntinituri veni chiusa. Sì sicuru ca vo’ disabbilitari i schedi cuntinituri?
+       *[other] Si disabbìliti i schedi cuntinituri ora, { $tabCount } schedi cuntinituri vennu chiusi. Sì sicuru ca vo’ disabbilitari i schedi cuntinituri?
     }
 containers-disable-alert-ok-button =
     { $tabCount ->
@@ -137,8 +137,8 @@ containers-remove-alert-title = Livari stu cuntinituri?
 #   $count (number) - Number of tabs that will be closed.
 containers-remove-alert-msg =
     { $count ->
-        [one] Si levi stu cuntinituri ora, { $count } scheda cuntinituri veni chiusa. Sì sicuru ca vo' livari stu cuntinituri?
-       *[other] Si levi stu cuntinituri ora, { $count } schedi cuntinituri vennu chiusi. Sì sicuru ca vo' livari stu cuntinituri?
+        [one] Si levi stu cuntinituri ora, { $count } scheda cuntinituri veni chiusa. Sì sicuru ca vo’ livari stu cuntinituri?
+       *[other] Si levi stu cuntinituri ora, { $count } schedi cuntinituri vennu chiusi. Sì sicuru ca vo’ livari stu cuntinituri?
     }
 containers-remove-ok-button = Leva stu cuntinituri
 containers-remove-cancel-button = Nun livari stu cuntinituri
@@ -173,10 +173,10 @@ choose-browser-language-description = Scarta i lingui di usari pi mustrari i min
 manage-browser-languages-button =
     .label = Mposta artirnativi…
     .accesskey = a
-confirm-browser-language-change-description = Riabbìa { -brand-short-name } p'applicari sti canciamenti
+confirm-browser-language-change-description = Riabbìa { -brand-short-name } p’applicari sti canciamenti
 confirm-browser-language-change-button = Sarba e riabbìa
 translate-web-pages =
-    .label = Traduci cuntinutu 'n riti
+    .label = Traduci cuntinutu ’n riti
     .accesskey = T
 # The <img> element is replaced by the logo of the provider
 # used to provide machine translations for web pages.
@@ -185,7 +185,7 @@ translate-exceptions =
     .label = Eccizzioni…
     .accesskey = z
 check-user-spelling =
-    .label = Cuntrolla l'ortugrafìa mentri dìggiti
+    .label = Cuntrolla l’ortugrafìa mentri dìggiti
     .accesskey = t
 
 ## General Section - Files and Applications
@@ -209,7 +209,7 @@ download-always-ask-where =
     .label = Addumanna sempri unni sarbari i prichi
     .accesskey = A
 applications-header = Applicazzioni
-applications-description = Scarta comu { -brand-short-name } tratta i prichi ca scàrrichi dâ riti o l'applicazzioni ca usi mentri nàvighi.
+applications-description = Scarta comu { -brand-short-name } tratta i prichi ca scàrrichi dâ riti o l’applicazzioni ca usi mentri nàvighi.
 applications-filter =
     .placeholder = Riscedi tipi di prichi o applicazzioni
 applications-type-column =
@@ -232,8 +232,8 @@ applications-use-app =
 applications-use-app-default =
     .label = Usa { $app-name } (pridifinutu)
 applications-use-other =
-    .label = Usa n'autra app…
-applications-select-helper = Scarta n'applicazzioni d'assistenza
+    .label = Usa n’autra app…
+applications-select-helper = Scarta n’applicazzioni d’assistenza
 applications-manage-app =
     .label = Minutagghi applicazzioni…
 applications-always-ask =
@@ -276,29 +276,29 @@ play-drm-content =
     .accesskey = P
 play-drm-content-learn-more = Cchiù nfurmazzioni
 update-application-title = Attualizzi di { -brand-short-name }
-update-application-description = Teni { -brand-short-name } attualizzatu p'aviri megghiu pristazzioni, stabbilità e sicurizza.
+update-application-description = Teni { -brand-short-name } attualizzatu p’aviri megghiu pristazzioni, stabbilità e sicurizza.
 # Variables:
 # $version (string) - Firefox version
-update-application-version = Virsiuni { $version } <a data-l10n-name="learn-more">Quali su' i nuvità</a>
+update-application-version = Virsiuni { $version } <a data-l10n-name="learn-more">Quali su’ i nuvità</a>
 update-history =
-    .label = Mustra crunuluggìa di l'attualizzi…
+    .label = Mustra crunuluggìa di l’attualizzi…
     .accesskey = M
 update-application-allow-description = Pirmetti a { -brand-short-name } di
 update-application-auto =
-    .label = Nzita 'n autumàticu l'attualizzi (cunzigghiatu)
+    .label = Nzita ’n autumàticu l’attualizzi (cunzigghiatu)
     .accesskey = N
 update-application-check-choose =
-    .label = Cuntrolla si cci su' attualizzi (ma addumànnami si i vogghiu nzitari)
+    .label = Cuntrolla si cci su’ attualizzi (ma addumànnami si i vogghiu nzitari)
     .accesskey = C
 update-application-manual =
-    .label = Nun cuntrullari mai si cci su' attualizzi (nun cunzigghiatu)
+    .label = Nun cuntrullari mai si cci su’ attualizzi (nun cunzigghiatu)
     .accesskey = N
-update-application-warning-cross-user-setting = Sta mpustazziuni s'appreca a tutti i cunti di Windows e i prufili di { -brand-short-name } ca ùsanu stu nzitamentu di { -brand-short-name }.
+update-application-warning-cross-user-setting = Sta mpustazziuni s’appreca a tutti i cunti di Windows e i prufili di { -brand-short-name } ca ùsanu stu nzitamentu di { -brand-short-name }.
 update-application-use-service =
-    .label = Usa un sirbizzu di suttafunnu pi nzitari l'attualizzi
+    .label = Usa un sirbizzu di suttafunnu pi nzitari l’attualizzi
     .accesskey = b
 update-in-progress-title = Staju attualizzannu
-update-in-progress-message = Vo' chi { -brand-short-name } cuntinuassi cu l'attualizzu?
+update-in-progress-message = Vo’ chi { -brand-short-name } cuntinuassi cu l’attualizzu?
 update-in-progress-ok-button = &Stagghia
 # Continue is the cancel button so pressing escape or using a platform standard
 # method of closing the UI will not discard the update.
@@ -310,10 +310,10 @@ performance-title = Pristazziuni
 performance-use-recommended-settings-checkbox =
     .label = Usa i mpustazzioni raccumannati
     .accesskey = U
-performance-use-recommended-settings-desc = Sti mpustazzioni su' fatti apposta pi l'hardware e u sistema upirativu dû to computer.
+performance-use-recommended-settings-desc = Sti mpustazzioni su’ fatti apposta pi l’hardware e u sistema upirativu dû to computer.
 performance-settings-learn-more = Cchiù nfurmazzioni
 performance-allow-hw-accel =
-    .label = Usa l'accillirazziuni hardware quannu dispunìbbili
+    .label = Usa l’accillirazziuni hardware quannu dispunìbbili
     .accesskey = r
 performance-limit-content-process-option = Lìmiti di prucessi pû cuntinutu
     .accesskey = l
@@ -443,8 +443,8 @@ search-bar-hidden =
 search-bar-shown =
     .label = Junci sbarra di risciduta nnâ sbarra dî strumenti
 search-engine-default-header = Muturi di risciduta pridifinutu
-search-engine-default-desc-2 = Chistu è u to muturi di risciduta pridifinutu pâ barra dû nnirizzu e chiḍḍa di risciduta. Po' canciallu quannu voi.
-search-engine-default-private-desc-2 = Scarta n'autru muturi di risciduta sulu pî finestri privati.
+search-engine-default-desc-2 = Chistu è u to muturi di risciduta pridifinutu pâ barra dû nnirizzu e chiḍḍa di risciduta. Po’ canciallu quannu voi.
+search-engine-default-private-desc-2 = Scarta n’autru muturi di risciduta sulu pî finestri privati.
 search-separate-default-engine =
     .label = Usa stu muturi di risciduta nnê finestri privati
     .accesskey = U
@@ -466,7 +466,7 @@ search-show-suggestions-above-history-option =
 search-show-suggestions-private-windows =
     .label = Mustra suggirimenti di risciduta nnê finestri privati
 search-suggestions-cant-show = I suggirimenti di risciduta nun vennu mustrati nnê risurtati dâ barra dû nnirizzu picchì cunfijurasti { -brand-short-name } pi nun sarbari mai a crunuluggìa.
-search-one-click-desc = Scarta l'autri mutura di risciduta ca cumparìscinu sutta â barra dû nnirizzu e â barra di risciduta quannu accuminci a mèttiri na palora-chiavi.
+search-one-click-desc = Scarta l’autri mutura di risciduta ca cumparìscinu sutta â barra dû nnirizzu e â barra di risciduta quannu accuminci a mèttiri na palora-chiavi.
 search-choose-engine-column =
     .label = Muturi di risciduta
 search-choose-keyword-column =
@@ -483,8 +483,8 @@ search-find-more-link = Trova autri mutura di risciduta
 search-keyword-warning-title = Dùplica palora-chiavi
 # Variables:
 #   $name (string) - Name of a search engine.
-search-keyword-warning-engine = Scartasti na palora-chiavi ca a stu mumentu veni usata di “{ $name }”. Scàrtanni n'autra.
-search-keyword-warning-bookmark = Scartasti na palora-chiavi ca a stu mumentu veni usati di nu nzingalibbru. Scàrtanni n'autra.
+search-keyword-warning-engine = Scartasti na palora-chiavi ca a stu mumentu veni usata di “{ $name }”. Scàrtanni n’autra.
+search-keyword-warning-bookmark = Scartasti na palora-chiavi ca a stu mumentu veni usati di nu nzingalibbru. Scàrtanni n’autra.
 
 ## Containers Section
 
@@ -584,7 +584,7 @@ sync-engine-history =
     .accesskey = r
 sync-engine-tabs =
     .label = Schedi graputi
-    .tooltiptext = Na lista di soccu cc'è graputu nna tutti i to dispusitivi sincrunizzati
+    .tooltiptext = Na lista di soccu cc’è graputu nna tutti i to dispusitivi sincrunizzati
     .accesskey = t
 sync-engine-logins-passwords =
     .label = Cridinziali e chiavi
@@ -615,7 +615,7 @@ sync-device-name-cancel =
 sync-device-name-save =
     .label = Sarba
     .accesskey = b
-sync-connect-another-device = Culleja n'autru dispusitivu
+sync-connect-another-device = Culleja n’autru dispusitivu
 
 ## These strings are shown in a desktop notification after the
 ## user requests we resend a verification email.
@@ -625,7 +625,7 @@ sync-verification-sent-title = Virìfica mannata
 #   $email (String): Email address of user's Firefox account.
 sync-verification-sent-body = Na lijami di virìfica fu mannatu a { $email }.
 sync-verification-not-sent-title = Nun fu pussìbbili mannari nuḍḍa virìfica
-sync-verification-not-sent-body = P'accamora nun putemu mannari na virìfica, torna a prova cchiù tardu.
+sync-verification-not-sent-body = P’accamora nun putemu mannari na virìfica, torna a prova cchiù tardu.
 
 ## Privacy Section
 
@@ -655,7 +655,7 @@ forms-breach-alerts =
 forms-breach-alerts-learn-more-link = Cchiù nfurmazzioni
 # Checkbox which controls filling saved logins into fields automatically when they appear, in some cases without user interaction.
 forms-fill-logins-and-passwords =
-    .label = Metti 'n autumàticu cunti e chiavi
+    .label = Metti ’n autumàticu cunti e chiavi
     .accesskey = M
 forms-saved-logins =
     .label = Cridinziali sarbati…
@@ -694,7 +694,7 @@ history-remember-option-never =
     .label = Nun ricurdari mai a crunuluggìa
 history-remember-option-custom =
     .label = Usa mpustazzioni pirsunalizzati pâ crunuluggìa
-history-remember-description = { -brand-short-name } s'arricorda dâ to navicazzioni, dî scarricamenti, dî mòduli e dâ crunuluggìa di risciduta.
+history-remember-description = { -brand-short-name } s’arricorda dâ to navicazzioni, dî scarricamenti, dî mòduli e dâ crunuluggìa di risciduta.
 history-dontremember-description = { -brand-short-name } usarà i stissi mpustazzioni pâ navicazzioni privata, e nun ricurdarà nuḍḍa crunuluggìa mentri chi nàvighi nnâ Riti.
 history-private-browsing-permanent =
     .label = Usa sempri a mudalità di navicazzioni privata
@@ -780,7 +780,7 @@ addressbar-suggestions-settings = Cancia i prifirenzi pî suggirimenti di muturi
 ## Privacy Section - Content Blocking
 
 content-blocking-enhanced-tracking-protection = Prutizziuni avanzata dû trazzamentu
-content-blocking-section-top-level-description = I trazzatura t'assicùtanu riti riti pi cògghiri nfurmazzioni supra ê to abbitùdini e ntiressi. { -brand-short-name } blocca assai di sti trazzatura e autri prugrammi dannusi.
+content-blocking-section-top-level-description = I trazzatura t’assicùtanu riti riti pi cògghiri nfurmazzioni supra ê to abbitùdini e ntiressi. { -brand-short-name } blocca assai di sti trazzatura e autri prugrammi dannusi.
 content-blocking-learn-more = Cchiù nfurmazzioni
 
 ## These strings are used to define the different levels of
@@ -806,15 +806,15 @@ content-blocking-cross-site-tracking-cookies = Viscotta di trazzatura ntirsitu
 content-blocking-social-media-trackers = Trazzatura dî riti suciali
 content-blocking-all-cookies = Tutti i viscotta
 content-blocking-unvisited-cookies = Viscotta di siti nun visitati
-content-blocking-all-windows-tracking-content = Cuntinuti trazzanti 'n tutti i finestri
+content-blocking-all-windows-tracking-content = Cuntinuti trazzanti ’n tutti i finestri
 content-blocking-cryptominers = Crittuminatura
-content-blocking-fingerprinters = Giniratura d'urmi diggitali
+content-blocking-fingerprinters = Giniratura d’urmi diggitali
 
 # The tcp-rollout strings are no longer used for the rollout but for tcp-by-default in the standard section
 
 content-blocking-warning-title = Accura!
 content-blocking-warning-learn-how = Vidi comu
-content-blocking-reload-description = Ài a ricarricari i schedi p'appricari sti canciamenti.
+content-blocking-reload-description = Ài a ricarricari i schedi p’appricari sti canciamenti.
 content-blocking-reload-tabs-button =
     .label = Ricàrrica tutti i schedi
     .accesskey = R
@@ -840,7 +840,7 @@ content-blocking-cryptominers-label =
 # Browser fingerprinting is a method of tracking users by the configuration and settings information (their "digital fingerprint")
 # that is visible to websites they browse, rather than traditional tracking methods such as IP addresses and unique cookies.
 content-blocking-fingerprinters-label =
-    .label = Giniratura d'urmi diggitali
+    .label = Giniratura d’urmi diggitali
     .accesskey = G
 
 ## Privacy Section - Tracking
@@ -895,9 +895,9 @@ permissions-addon-exceptions =
 collection-header = Ricota e usu dî dati di { -brand-short-name }
 collection-header2 = Ricota e usu dî dati di { -brand-short-name }
     .searchkeywords = tilimitrìa
-collection-description = Ni sfurzamu di dàriti aḍḍijuti e arricògghiri sulu chiḍḍu chi ni serbi pi furniri e fari megghiu { -brand-short-name } pi tutti. Dumannamu sempri u pirmissu prima d'arricìviri nfurmazzioni pirsunali.
+collection-description = Ni sfurzamu di dàriti aḍḍijuti e arricògghiri sulu chiḍḍu chi ni serbi pi furniri e fari megghiu { -brand-short-name } pi tutti. Dumannamu sempri u pirmissu prima d’arricìviri nfurmazzioni pirsunali.
 collection-privacy-notice = Abbisu di privatizza
-collection-health-report-telemetry-disabled = Nun sta' pirmittennu cchiù a { -vendor-short-name } di cògghiri dati tècnici e supra ê ntirazzioni. Tutti i dati vecchi sarannu scancillati nna 30 jorna.
+collection-health-report-telemetry-disabled = Nun sta’ pirmittennu cchiù a { -vendor-short-name } di cògghiri dati tècnici e supra ê ntirazzioni. Tutti i dati vecchi sarannu scancillati nna 30 jorna.
 collection-health-report-telemetry-disabled-link = Cchiù nfurmazzioni
 collection-health-report =
     .label = Pirmetti a { -brand-short-name } di mannari dati tècnici e di ntirazziuni a { -vendor-short-name }
@@ -931,7 +931,7 @@ security-block-downloads =
     .label = Blocca i scarricamenti piriculusi
     .accesskey = p
 security-block-uncommon-software =
-    .label = T'abbisa di prugrammi nun vuluti e nun cumuni
+    .label = T’abbisa di prugrammi nun vuluti e nun cumuni
     .accesskey = c
 
 ## Privacy Section - Certificates

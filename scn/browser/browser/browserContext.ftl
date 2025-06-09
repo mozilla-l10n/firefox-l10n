@@ -8,12 +8,12 @@
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the Go Back command.
 main-context-menu-back-2 =
-    .tooltiptext = Vai na pàggina nn'arrè ({ $shortcut })
-    .aria-label = Nn'arrè
+    .tooltiptext = Vai na pàggina nn’arrè ({ $shortcut })
+    .aria-label = Nn’arrè
     .accesskey = a
 # This menuitem is only visible on macOS
 main-context-menu-back-mac =
-    .label = Nn'arrè
+    .label = Nn’arrè
     .accesskey = a
 navbar-tooltip-back-2 =
     .value = { main-context-menu-back-2.tooltiptext }

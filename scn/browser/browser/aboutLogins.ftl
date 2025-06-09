@@ -25,8 +25,8 @@ fxaccounts-avatar-button =
 menu =
     .title = Grapi u minù
 # This menuitem is only visible on Windows and macOS
-about-logins-menu-menuitem-import-from-another-browser = Mporta di n'autru navicaturi…
-about-logins-menu-menuitem-import-from-a-file = Mporta d'un pricu…
+about-logins-menu-menuitem-import-from-another-browser = Mporta di n’autru navicaturi…
+about-logins-menu-menuitem-import-from-a-file = Mporta d’un pricu…
 about-logins-menu-menuitem-export-logins = Esporta cridinziali…
 about-logins-menu-menuitem-remove-all-logins = Leva tutti i cridinziali…
 about-logins-menu-menuitem-export-logins2 = Esporta chiavi…
@@ -87,7 +87,7 @@ about-logins-login-list-empty-search-title = Nuḍḍa cridinziali truvata
 about-logins-login-list-empty-search-title2 = Nuḍḍa chiavi truvata
 about-logins-login-list-empty-search-description = Nun cci sunnu risurtati pâ to risciduta.
 login-list-item-title-new-login = Nova cridinziali
-login-list-item-subtitle-new-login = Metti i cridinziali d'accessu
+login-list-item-subtitle-new-login = Metti i cridinziali d’accessu
 login-list-item-title-new-login2 = Junci chiavi
 login-list-item-subtitle-missing-username = (nuḍḍu nomu utenti)
 about-logins-list-item-breach-icon =
@@ -105,16 +105,16 @@ about-logins-list-section-week = Ùrtimi 7 jorna
 
 about-logins-login-intro-heading-logged-out2 = Stai circannu i to cridinziali sarbati? Abbìa a sincrunizzazzioni o mpòrtali.
 about-logins-login-intro-heading-logged-in = Nuḍḍa cridinziali sincrunizzata truvata.
-login-intro-description = Si sarbasti i to cridinziali nne { -brand-product-name } nta n'autru dispusitivu, i po' ricupirari accussì:
+login-intro-description = Si sarbasti i to cridinziali nne { -brand-product-name } nta n’autru dispusitivu, i po’ ricupirari accussì:
 login-intro-instructions-fxa = Cria o trasi nne { -fxaccount-brand-name } nnô dispusitivu unni sarbasti i cridinziali.
 about-logins-login-intro-heading-message = Sarba i to chiavi nnôn locu sicuru
-login-intro-description2 = Tutti i chiavi chi sarbi nne { -brand-product-name } sunnu cifrati. Cchiù assai, stamu accura ê viulazzioni e t'abbisamu si fusti curputu. <a data-l10n-name="breach-alert-link">Cchiù nfurmazzioni</a>
+login-intro-description2 = Tutti i chiavi chi sarbi nne { -brand-product-name } sunnu cifrati. Cchiù assai, stamu accura ê viulazzioni e t’abbisamu si fusti curputu. <a data-l10n-name="breach-alert-link">Cchiù nfurmazzioni</a>
 login-intro-instructions-fxa2 = Cria o trasi nnô to cuntu nnô dispusitivu unni sarbasti i cridinziali.
 login-intro-instructions-fxa-settings = Vai nne Mpustazzioni > Sincrunizzazzioni > Attiva sincrunizzazzioni… marca a caseḍḍa Cridinziali e chiavi.
-login-intro-instructions-fxa-passwords-help = Vìsita u <a data-l10n-name="passwords-help-link">supportu pî chiavi</a> p'aviri ajutu.
-about-logins-intro-browser-only-import = Si i to cridinziali sunnu sarbati nta n'autru navicaturi, i poi <a data-l10n-name="import-link">mpurtari nne { -brand-product-name }</a>
-about-logins-intro-import2 = Si i to cridinziali sunnu sarbati fora di { -brand-product-name }, i poi <a data-l10n-name="import-browser-link">mpurtari di n'autru navicaturi</a> o <a data-l10n-name="import-file-link">d'un pricu</a>
-about-logins-intro-import3 = Ammacca u sìmmulu cchiù pi jùnciri na chiavi. Poi macari <a data-l10n-name="import-browser-link">mpurtari chiavi di n'autru navicaturi</a> o d'<a data-l10n-name="import-file-link">un pricu</a>.
+login-intro-instructions-fxa-passwords-help = Vìsita u <a data-l10n-name="passwords-help-link">supportu pî chiavi</a> p’aviri ajutu.
+about-logins-intro-browser-only-import = Si i to cridinziali sunnu sarbati nta n’autru navicaturi, i poi <a data-l10n-name="import-link">mpurtari nne { -brand-product-name }</a>
+about-logins-intro-import2 = Si i to cridinziali sunnu sarbati fora di { -brand-product-name }, i poi <a data-l10n-name="import-browser-link">mpurtari di n’autru navicaturi</a> o <a data-l10n-name="import-file-link">d’un pricu</a>
+about-logins-intro-import3 = Ammacca u sìmmulu cchiù pi jùnciri na chiavi. Poi macari <a data-l10n-name="import-browser-link">mpurtari chiavi di n’autru navicaturi</a> o d’<a data-l10n-name="import-file-link">un pricu</a>.
 
 ## Login
 
@@ -219,11 +219,11 @@ confirmation-dialog-cancel-button = Sfai
 confirmation-dialog-dismiss-button =
     .title = Sfai
 about-logins-confirm-remove-dialog-title = Livari sta cridinziali?
-confirm-delete-dialog-message = St'azziuni nun si po sfari.
+confirm-delete-dialog-message = St’azziuni nun si po sfari.
 # Title for modal to confirm the removal of one saved password
 about-logins-confirm-delete-dialog-title = Livari a chiavi?
 # Message for modal to confirm the removal of one saved password
-about-logins-confirm-delete-dialog-message = Nun poi sfari st'azzioni.
+about-logins-confirm-delete-dialog-message = Nun poi sfari st’azzioni.
 about-logins-confirm-remove-dialog-confirm-button = Leva
 
 ## Variables
@@ -248,9 +248,9 @@ about-logins-confirm-remove-all-dialog-title =
     }
 about-logins-confirm-remove-all-dialog-message =
     { $count ->
-        [1] Chistu scancella a cridinziali sarbata nne { -brand-short-name } e tutti l'abbisi di viulazzioni chi affàccianu cca. Nun poi sfari sta cosa.
-        [one] Chistu scancella a cridinziali sarbata nne { -brand-short-name } e tutti l'abbisi di viulazzioni chi affàccianu cca. Nun poi sfari sta cosa.
-       *[other] Chistu scancella i cridinziali sarbati nne { -brand-short-name } e tutti l'abbisi di viulazzioni chi affàccianu cca. Nun poi sfari sta cosa.
+        [1] Chistu scancella a cridinziali sarbata nne { -brand-short-name } e tutti l’abbisi di viulazzioni chi affàccianu cca. Nun poi sfari sta cosa.
+        [one] Chistu scancella a cridinziali sarbata nne { -brand-short-name } e tutti l’abbisi di viulazzioni chi affàccianu cca. Nun poi sfari sta cosa.
+       *[other] Chistu scancella i cridinziali sarbati nne { -brand-short-name } e tutti l’abbisi di viulazzioni chi affàccianu cca. Nun poi sfari sta cosa.
     }
 about-logins-confirm-remove-all-sync-dialog-title =
     { $count ->
@@ -259,9 +259,9 @@ about-logins-confirm-remove-all-sync-dialog-title =
     }
 about-logins-confirm-remove-all-sync-dialog-message =
     { $count ->
-        [1] Chistu scancella a cridinziali sarbata nne { -brand-short-name } nta tutti i dispusitivi sincrunizzati nnô to { -fxaccount-brand-name }. Chistu scancella macari tutti l'abbisi di viulazzioni chi affàccianu cca. Nun poi sfari sta cosa.
-        [one] Chistu scancella a cridinziali sarbata nne { -brand-short-name } nta tutti i dispusitivi sincrunizzati nnô to { -fxaccount-brand-name }. Chistu scancella macari tutti l'abbisi di viulazzioni chi affàccianu cca. Nun poi sfari sta cosa.
-       *[other] Chistu scancella tutti i cridinziali sarbati nne { -brand-short-name } nta tutti i dispusitivi sincrunizzati nnô to { -fxaccount-brand-name }. Chistu scancella macari tutti l'abbisi di viulazzioni chi affàccianu cca. Nun poi sfari sta cosa.
+        [1] Chistu scancella a cridinziali sarbata nne { -brand-short-name } nta tutti i dispusitivi sincrunizzati nnô to { -fxaccount-brand-name }. Chistu scancella macari tutti l’abbisi di viulazzioni chi affàccianu cca. Nun poi sfari sta cosa.
+        [one] Chistu scancella a cridinziali sarbata nne { -brand-short-name } nta tutti i dispusitivi sincrunizzati nnô to { -fxaccount-brand-name }. Chistu scancella macari tutti l’abbisi di viulazzioni chi affàccianu cca. Nun poi sfari sta cosa.
+       *[other] Chistu scancella tutti i cridinziali sarbati nne { -brand-short-name } nta tutti i dispusitivi sincrunizzati nnô to { -fxaccount-brand-name }. Chistu scancella macari tutti l’abbisi di viulazzioni chi affàccianu cca. Nun poi sfari sta cosa.
     }
 # Checkbox for modal to confirm the removal of saved passwords
 about-logins-confirm-remove-all-dialog-checkbox-label2 =
@@ -279,9 +279,9 @@ about-logins-confirm-remove-all-dialog-title2 =
 # Message for modal to confirm the removal of saved passwords when user is NOT synced
 about-logins-confirm-remove-all-dialog-message2 =
     { $count ->
-        [1] Chistu scancella a chiavi sarbata nne { -brand-short-name } e tutti l'abbisi di viulazzioni. Nun poi sfari sta cosa.
-        [one] Chistu scancella a chiavi sarbata nne { -brand-short-name } e tutti l'abbisi di viulazzioni. Nun poi sfari sta cosa.
-       *[other] Chistu scancella tutti i chiavi sarbati nne { -brand-short-name } e tutti l'abbisi di viulazzioni. Nun poi sfari sta cosa.
+        [1] Chistu scancella a chiavi sarbata nne { -brand-short-name } e tutti l’abbisi di viulazzioni. Nun poi sfari sta cosa.
+        [one] Chistu scancella a chiavi sarbata nne { -brand-short-name } e tutti l’abbisi di viulazzioni. Nun poi sfari sta cosa.
+       *[other] Chistu scancella tutti i chiavi sarbati nne { -brand-short-name } e tutti l’abbisi di viulazzioni. Nun poi sfari sta cosa.
     }
 # Title for modal to confirm the removal of all saved passwords when user IS SYNCED
 about-logins-confirm-remove-all-sync-dialog-title2 =
@@ -292,21 +292,21 @@ about-logins-confirm-remove-all-sync-dialog-title2 =
 # Message for modal to confirm the removal of saved passwords when user IS synced.
 about-logins-confirm-remove-all-sync-dialog-message3 =
     { $count ->
-        [1] Chistu scancella a chiavi sarbata nne { -brand-short-name } nta tutti i dispusitivi sincrunizzati. Chistu scancella macari tutti l'abbisi di viulazzioni chi affàccianu cca. Nun poi sfari sta cosa.
-        [one] Chistu scancella a chiavi sarbata nne { -brand-short-name } nta tutti i dispusitivi sincrunizzati. Chistu scancella macari tutti l'abbisi di viulazzioni chi affàccianu cca. Nun poi sfari sta cosa.
-       *[other] Chistu scancella tutti i chiavi sarbati nne { -brand-short-name } nta tutti i dispusitivi sincrunizzati. Chistu scancella macari tutti l'abbisi di viulazzioni chi affàccianu cca. Nun poi sfari sta cosa.
+        [1] Chistu scancella a chiavi sarbata nne { -brand-short-name } nta tutti i dispusitivi sincrunizzati. Chistu scancella macari tutti l’abbisi di viulazzioni chi affàccianu cca. Nun poi sfari sta cosa.
+        [one] Chistu scancella a chiavi sarbata nne { -brand-short-name } nta tutti i dispusitivi sincrunizzati. Chistu scancella macari tutti l’abbisi di viulazzioni chi affàccianu cca. Nun poi sfari sta cosa.
+       *[other] Chistu scancella tutti i chiavi sarbati nne { -brand-short-name } nta tutti i dispusitivi sincrunizzati. Chistu scancella macari tutti l’abbisi di viulazzioni chi affàccianu cca. Nun poi sfari sta cosa.
     }
 
 ##
 
 about-logins-confirm-export-dialog-title = Esporta cridinziali e chiavi
-about-logins-confirm-export-dialog-message = I to chiavi vennu sarbati comu testu liggìbbili (pi scempru, Chi@v1T!nta), adunca stai accura chi cu' è-è chi po' ràpiri u pricu i po' vìdiri.
+about-logins-confirm-export-dialog-message = I to chiavi vennu sarbati comu testu liggìbbili (pi scempru, Chi@v1T!nta), adunca stai accura chi cu’ è-è chi po’ ràpiri u pricu i po’ vìdiri.
 about-logins-confirm-export-dialog-confirm-button = Esporta…
-about-logins-confirm-export-dialog-title2 = Abbisu supra a l'espurtazzioni dî chiavi
+about-logins-confirm-export-dialog-title2 = Abbisu supra a l’espurtazzioni dî chiavi
 about-logins-confirm-export-dialog-message2 =
-    Quannu fai n'espurtazzioni, i to chiavi vennu sarbati nnôn pricu comu testu liggìbbili.
-    Quannu finisti di usari u pricu, ti raccumannamu di scancillàrilu accussì nuḍḍu autru po' vìdiri i to chiavi.
-about-logins-confirm-export-dialog-confirm-button2 = Cuntinua cu l'espurtazzioni
+    Quannu fai n’espurtazzioni, i to chiavi vennu sarbati nnôn pricu comu testu liggìbbili.
+    Quannu finisti di usari u pricu, ti raccumannamu di scancillàrilu accussì nuḍḍu autru po’ vìdiri i to chiavi.
+about-logins-confirm-export-dialog-confirm-button2 = Cuntinua cu l’espurtazzioni
 about-logins-alert-import-title = Mpurtazzioni finuta
 about-logins-alert-import-message = Vidi un riportu chî minutagghi dâ mpurtazzioni
 confirm-discard-changes-dialog-title = Voi sfari i canciamenti nun sarbati?
@@ -316,7 +316,7 @@ confirm-discard-changes-dialog-confirm-button = Scarta
 ## Breach Alert notification
 
 about-logins-breach-alert-title = Viulazzioni dû situ
-breach-alert-text = Di l'ùrtima vota chi canciasti sta cridinziali, foru arrubbati o foru spartuti chiavi di stu situ. Cancia a to chiavi pi prutèggiri u to cuntu.
+breach-alert-text = Di l’ùrtima vota chi canciasti sta cridinziali, foru arrubbati o foru spartuti chiavi di stu situ. Cancia a to chiavi pi prutèggiri u to cuntu.
 about-logins-breach-alert-date = Sta viulazzioni mmattìu u { DATETIME($date, day: "numeric", month: "long", year: "numeric") }
 # Variables:
 #   $hostname (String) - The hostname of the website associated with the login, e.g. "example.com"
@@ -325,7 +325,7 @@ about-logins-breach-alert-link = Vìsita { $hostname }
 ## Vulnerable Password notification
 
 about-logins-vulnerable-alert-title = Chiavi vurniràbbili
-about-logins-vulnerable-alert-text2 = Sta chiavi fu usata cu n'autru cuntu chi fu parti di na viulazzioni di dati. Usari sempri i stissi cridinziali metti a rìsicu tutti i to cunti. Cancia sta chiavi.
+about-logins-vulnerable-alert-text2 = Sta chiavi fu usata cu n’autru cuntu chi fu parti di na viulazzioni di dati. Usari sempri i stissi cridinziali metti a rìsicu tutti i to cunti. Cancia sta chiavi.
 # Variables:
 #   $hostname (String) - The hostname of the website associated with the login, e.g. "example.com"
 about-logins-vulnerable-alert-link = Vìsita { $hostname }
@@ -337,9 +337,9 @@ about-logins-vulnerable-alert-learn-more-link = Cchiù nfurmazzioni
 # a new login that is identical to an existing saved login.
 # Variables:
 #   $loginTitle (String) - The title of the website associated with the login.
-about-logins-error-message-duplicate-login-with-link = Cc'è già na cridinziali pi { $loginTitle } cu stu nomu utenti. <a data-l10n-name="duplicate-link">Vo' jiri â cridinziali prisenti?</a>
+about-logins-error-message-duplicate-login-with-link = Cc’è già na cridinziali pi { $loginTitle } cu stu nomu utenti. <a data-l10n-name="duplicate-link">Vo’ jiri â cridinziali prisenti?</a>
 # This is a generic error message.
-about-logins-error-message-default = Cci fu n'erruri pruvannu a sarbari sta chiavi.
+about-logins-error-message-default = Cci fu n’erruri pruvannu a sarbari sta chiavi.
 
 ## Login Export Dialog
 
@@ -422,7 +422,7 @@ about-logins-import-dialog-items-error =
 about-logins-import-dialog-done = Fattu
 about-logins-import-dialog-error-title = Erruri di mpurtazzioni
 about-logins-import-dialog-error-conflicting-values-title = Cci sunnu valuri diversi pâ stissa cridinziali
-about-logins-import-dialog-error-conflicting-values-description = Pi scempru: cchiù assai d'un nomu utenti, chiavi, nnirizzi, ecc. pi na cridinziali.
+about-logins-import-dialog-error-conflicting-values-description = Pi scempru: cchiù assai d’un nomu utenti, chiavi, nnirizzi, ecc. pi na cridinziali.
 about-logins-import-dialog-error-file-format-title = Prubblema cû furmatu dû pricu
 about-logins-import-dialog-error-file-format-description = Màncanu o sunnu sbagghiati i tistati dî culonni. Stai accura chi u pricu cunteni i culonni pî nomi utenti, i chiavi e i nnirizzi.
 about-logins-import-dialog-error-file-permission-title = Mpussìbbili lèggiri u pricu
@@ -443,7 +443,7 @@ about-logins-import-report-row-index = Ringu { $number }
 about-logins-import-report-row-description-no-change = Duppiu: currispunnenza pricisa di na cridinziali già esistenti
 about-logins-import-report-row-description-modified = Cridinziali esistenti attualizzata
 about-logins-import-report-row-description-added = Nova cridinziali junciuta
-about-logins-import-report-row-description-no-change2 = Duppiu: currispunnenza pricisa di n'elimentu già esistenti
+about-logins-import-report-row-description-no-change2 = Duppiu: currispunnenza pricisa di n’elimentu già esistenti
 about-logins-import-report-row-description-modified2 = Elimentu esistenti attualizzatu
 about-logins-import-report-row-description-added2 = Nova chiavi junciuta
 about-logins-import-report-row-description-error = Erruri: campu mancanti
@@ -452,7 +452,7 @@ about-logins-import-report-row-description-error = Erruri: campu mancanti
 ## Variables:
 ##  $field (String) - The name of the field from the CSV file for example url, username or password
 
-about-logins-import-report-row-description-error-multiple-values = Erruri: cchiù assai d'un valuri pi { $field }
+about-logins-import-report-row-description-error-multiple-values = Erruri: cchiù assai d’un valuri pi { $field }
 about-logins-import-report-row-description-error-missing-field = Erruri: manca { $field }
 
 ##

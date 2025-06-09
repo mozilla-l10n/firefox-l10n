@@ -43,7 +43,7 @@ unified-extensions-mb-blocklist-warning-single =
     .heading = { $extensionName } sdisabbilitatu
     .message =
         Stu stinneriu va contra ê pulìtichi di Mozilla e fu sdisabbilitatu.
-        U po' abbilitari arrè nnê mpustazzioni, ma po' èssiri un rìsicu.
+        U po’ abbilitari arrè nnê mpustazzioni, ma po’ èssiri un rìsicu.
 # Variables:
 #   $extensionName (String) - Name of the extension disabled through a hard-block.
 unified-extensions-mb-blocklist-error-single =

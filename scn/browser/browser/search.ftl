@@ -8,7 +8,7 @@
 ## Variables
 ## $location-url (String) - the URL of the OpenSearch engine that was attempted to be installed.
 
-opensearch-error-duplicate-desc = { -brand-short-name } nun potti nzitari a juncitina di risciduta di “{ $location-url }” picchì già cc'è un muturi di risciduta cû stissu nomu.
+opensearch-error-duplicate-desc = { -brand-short-name } nun potti nzitari a juncitina di risciduta di “{ $location-url }” picchì già cc’è un muturi di risciduta cû stissu nomu.
 
 ##
 

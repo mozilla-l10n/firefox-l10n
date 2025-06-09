@@ -66,7 +66,7 @@ permissions-exceptions-etp-window2 =
 permissions-exceptions-cookie-window2 =
     .title = Eccizzioni - Viscotta e dati dû situ
     .style = { permissions-window2.style }
-permissions-exceptions-cookie-desc = Po' spicificari quali siti ponnu o nun ponnu mai usari viscotta e dati dû situ. Dìggita u nnirizzu giustu dû situ ca vo' manijari e poi ammacca Blocca, Pirmetti pi sta sissiuni o Pirmetti.
+permissions-exceptions-cookie-desc = Po’ spicificari quali siti ponnu o nun ponnu mai usari viscotta e dati dû situ. Dìggita u nnirizzu giustu dû situ ca vo’ manijari e poi ammacca Blocca, Pirmetti pi sta sissiuni o Pirmetti.
 
 ## Exceptions - HTTPS-Only Mode
 
@@ -76,7 +76,7 @@ permissions-exceptions-cookie-desc = Po' spicificari quali siti ponnu o nun ponn
 permissions-exceptions-popup-window2 =
     .title = Siti cunzintuti - Finestri autumàtichi
     .style = { permissions-window2.style }
-permissions-exceptions-popup-desc = Po' spicificari quali siti ponnu ràpiri finestri autumàtichi. Dìggita u nnirizzu giustu dû situ ô quali ci u vo' pirmèttiri e poi ammacca Pirmetti.
+permissions-exceptions-popup-desc = Po’ spicificari quali siti ponnu ràpiri finestri autumàtichi. Dìggita u nnirizzu giustu dû situ ô quali ci u vo’ pirmèttiri e poi ammacca Pirmetti.
 
 ## Exceptions - Saved Logins
 
@@ -93,21 +93,21 @@ permissions-exceptions-saved-logins-desc = I cridinziali pî siti appressu nun v
 permissions-exceptions-addons-window2 =
     .title = Siti pirmisi - Nzitamentu dî juncitini
     .style = { permissions-window2.style }
-permissions-exceptions-addons-desc = Po' spicificari quali siti ponnu nzitari i juncitini. Scrivi u nnirizzu pricisu dû situ chi vo' abbilitari e doppu ammacca Pirmetti.
+permissions-exceptions-addons-desc = Po’ spicificari quali siti ponnu nzitari i juncitini. Scrivi u nnirizzu pricisu dû situ chi vo’ abbilitari e doppu ammacca Pirmetti.
 
 ## Site Permissions - Autoplay
 
 permissions-site-autoplay-window2 =
     .title = Mpustazzioni - Ripruduzzioni autumàtica
     .style = { permissions-window2.style }
-permissions-site-autoplay-desc = Cca po' spicificari i siti chi nun ànnu a rispittari i mpustazzioni pridifinuti pâ ripruduzzioni autumàtica.
+permissions-site-autoplay-desc = Cca po’ spicificari i siti chi nun ànnu a rispittari i mpustazzioni pridifinuti pâ ripruduzzioni autumàtica.
 
 ## Site Permissions - Notifications
 
 permissions-site-notification-window2 =
     .title = Mpustazzioni - Pirmissi di nutìfica
     .style = { permissions-window2.style }
-permissions-site-notification-desc = I siti appressu dumannaru di mannàriti nutìfichi. Po' spicificari quali siti ponnu mannari nutìfichi. Po' puru bluccari novi dumanni pû pirmissu di nutìfica.
+permissions-site-notification-desc = I siti appressu dumannaru di mannàriti nutìfichi. Po’ spicificari quali siti ponnu mannari nutìfichi. Po’ puru bluccari novi dumanni pû pirmissu di nutìfica.
 permissions-site-notification-disable-label =
     .label = Blocca i novi dumanni di pirmissu di nutìfica
 permissions-site-notification-disable-desc = Chistu mpidisci ê siti ca nun cumparìscinu supra di dumannari u pirmissu di mannari nutìfichi. Bluccari i nutìfichi putissi ncippari certi carattirìstichi dû situ.
@@ -117,40 +117,40 @@ permissions-site-notification-disable-desc = Chistu mpidisci ê siti ca nun cump
 permissions-site-location-window2 =
     .title = Mpustazzioni - Pirmissi di lucalizzazzioni
     .style = { permissions-window2.style }
-permissions-site-location-desc = I siti appressu dumannaru di accèdiri â to pusizzioni. Po' spicificari quali siti ponnu accèdiri â to pusizzioni. Po' puru bluccari i novi dumanni d'accessu â to pusizzioni.
+permissions-site-location-desc = I siti appressu dumannaru di accèdiri â to pusizzioni. Po’ spicificari quali siti ponnu accèdiri â to pusizzioni. Po’ puru bluccari i novi dumanni d’accessu â to pusizzioni.
 permissions-site-location-disable-label =
-    .label = Blocca i novi dumanni d'accessu â to pusizzioni
-permissions-site-location-disable-desc = Chistu mpidisci ê siti ca nun cumparìscinu supra di dumannari u pirmissu di accèdiri â to pusizzioni. Bluccari l'accessu â to pusizzioni putissi rùmpiri certi carattarìstichi dû situ.
+    .label = Blocca i novi dumanni d’accessu â to pusizzioni
+permissions-site-location-disable-desc = Chistu mpidisci ê siti ca nun cumparìscinu supra di dumannari u pirmissu di accèdiri â to pusizzioni. Bluccari l’accessu â to pusizzioni putissi rùmpiri certi carattarìstichi dû situ.
 
 ## Site Permissions - Virtual Reality
 
 permissions-site-xr-window2 =
     .title = Mpustazzioni - Pirmissi pâ rialtà virtuali
     .style = { permissions-window2.style }
-permissions-site-xr-desc = Sti siti addumannaru accessu ê to dispusitivi pâ rialtà virtuali. Po' spicificari quali siti ànnu stu pirmissu, e po' macari bluccari i novi richiesti d'accessu ê to dispusitivi pâ rialtà virtuali.
+permissions-site-xr-desc = Sti siti addumannaru accessu ê to dispusitivi pâ rialtà virtuali. Po’ spicificari quali siti ànnu stu pirmissu, e po’ macari bluccari i novi richiesti d’accessu ê to dispusitivi pâ rialtà virtuali.
 permissions-site-xr-disable-label =
-    .label = Blocca i novi richiesti d'accessu ê to dispusitivi pâ rialtà virtuali.
-permissions-site-xr-disable-desc = Chistu bluccarà tutti i siti ca nun sunnu elincati cca supra d'addumannàriti accessu ê dispusitivi pâ rialtà virtuali. Bluccari st'accessu po' bluccari u funziunamentu di certi siti.
+    .label = Blocca i novi richiesti d’accessu ê to dispusitivi pâ rialtà virtuali.
+permissions-site-xr-disable-desc = Chistu bluccarà tutti i siti ca nun sunnu elincati cca supra d’addumannàriti accessu ê dispusitivi pâ rialtà virtuali. Bluccari st’accessu po’ bluccari u funziunamentu di certi siti.
 
 ## Site Permissions - Camera
 
 permissions-site-camera-window2 =
     .title = Mpustazzioni - Pirmissi fotucàmmira
     .style = { permissions-window2.style }
-permissions-site-camera-desc = I siti appressu dumannaru di accèdiri â fotucàmmira. Po' spicificari quali siti ponnu accèdiri â fotucàmmira. Po' puru bluccari i novi dumanni d'accessu â fotucàmmira.
+permissions-site-camera-desc = I siti appressu dumannaru di accèdiri â fotucàmmira. Po’ spicificari quali siti ponnu accèdiri â fotucàmmira. Po’ puru bluccari i novi dumanni d’accessu â fotucàmmira.
 permissions-site-camera-disable-label =
-    .label = Blocca i novi dumanni d'accessu â fotucàmmira
-permissions-site-camera-disable-desc = Chistu mpidisci ê siti ca nun cumparìscinu supra di dumannari u pirmissu d'accèdiri â fotucàmmira. Bluccari l'accessu â fotucàmmira putissi rùmpiri certi carattarìstichi dû situ.
+    .label = Blocca i novi dumanni d’accessu â fotucàmmira
+permissions-site-camera-disable-desc = Chistu mpidisci ê siti ca nun cumparìscinu supra di dumannari u pirmissu d’accèdiri â fotucàmmira. Bluccari l’accessu â fotucàmmira putissi rùmpiri certi carattarìstichi dû situ.
 
 ## Site Permissions - Microphone
 
 permissions-site-microphone-window2 =
     .title = Mpustazzioni - Pirmissi micròfunu
     .style = { permissions-window2.style }
-permissions-site-microphone-desc = I siti appressu dumannaru di accèdiri ô micròfunu. Po' spicificari quali siti ponnu accèdiri ô micròfunu. Po' puru bluccari i novi dumanni d'accessu ô micròfunu.
+permissions-site-microphone-desc = I siti appressu dumannaru di accèdiri ô micròfunu. Po’ spicificari quali siti ponnu accèdiri ô micròfunu. Po’ puru bluccari i novi dumanni d’accessu ô micròfunu.
 permissions-site-microphone-disable-label =
-    .label = Blocca i novi dumanni d'accessu ô micròfunu
-permissions-site-microphone-disable-desc = Chistu mpidisci ê siti ca nun cumparìscinu supra di dumannari u pirmissu di accèdiri ô micròfunu. Bluccari l'accessu ô micròfunu putissi ncippari certi carattirìstichi dû situ.
+    .label = Blocca i novi dumanni d’accessu ô micròfunu
+permissions-site-microphone-disable-desc = Chistu mpidisci ê siti ca nun cumparìscinu supra di dumannari u pirmissu di accèdiri ô micròfunu. Bluccari l’accessu ô micròfunu putissi ncippari certi carattirìstichi dû situ.
 
 ## Site Permissions - Speaker
 ##

@@ -7,4 +7,4 @@ delete-confirm-title = Sì sicuru?
 date-crashed-heading = Data dû ncidenti
 date-submitted-heading = Data mannata
 no-reports-label = Nun fu mannata nuḍḍa signalijazzioni di scasciu.
-no-config-label = St'applicazzioni nun fu cunfijurata pi mustrari i signalijazzioni di scasciu. S'àvi a mpustari a prifirenza <code>breakpad.reportURL</code>.
+no-config-label = St’applicazzioni nun fu cunfijurata pi mustrari i signalijazzioni di scasciu. S’àvi a mpustari a prifirenza <code>breakpad.reportURL</code>.

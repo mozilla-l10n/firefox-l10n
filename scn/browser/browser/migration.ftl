@@ -6,8 +6,8 @@ migration-wizard =
     .title = Mpurtazziuni cunnuciuta
 import-from =
     { PLATFORM() ->
-        [windows] Mporta i prifirenzi, i nzingalibbra, a crunuluggìa, i chiavi e l'autri dati di:
-       *[other] Mporta i prifirenzi, i nzingalibbra, a crunuluggìa, i chiavi e l'autri dati di:
+        [windows] Mporta i prifirenzi, i nzingalibbra, a crunuluggìa, i chiavi e l’autri dati di:
+       *[other] Mporta i prifirenzi, i nzingalibbra, a crunuluggìa, i chiavi e l’autri dati di:
     }
 import-from-bookmarks = Mporta i nzingalibbra di:
 import-from-ie =
@@ -34,7 +34,7 @@ import-from-firefox =
 import-from-360se =
     .label = 360 Secure Browser
     .accesskey = 3
-no-migration-sources = Nun potti truvari nuḍḍu prugramma ca cc'àvi dati di nzingalibbra, crunuluggìa o chiavi.
+no-migration-sources = Nun potti truvari nuḍḍu prugramma ca cc’àvi dati di nzingalibbra, crunuluggìa o chiavi.
 import-source-page-title = Mporta mpustazzioni e dati
 import-items-page-title = Cosi di pigghiari
 import-items-description = Scarta quali cosi mpurtari:

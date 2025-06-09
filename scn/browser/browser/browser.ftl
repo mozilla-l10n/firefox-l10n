@@ -25,11 +25,11 @@ urlbar-web-notification-anchor =
 urlbar-midi-notification-anchor =
     .tooltiptext = Grapi quatru MIDI
 urlbar-eme-notification-anchor =
-    .tooltiptext = Manija l'usu dî prugrammi DRM
+    .tooltiptext = Manija l’usu dî prugrammi DRM
 urlbar-web-authn-anchor =
-    .tooltiptext = Grapi quatru d'autinticazziuni pî riti
+    .tooltiptext = Grapi quatru d’autinticazziuni pî riti
 urlbar-canvas-notification-anchor =
-    .tooltiptext = Manija pirmissi d'estrazziuni dâ tila
+    .tooltiptext = Manija pirmissi d’estrazziuni dâ tila
 urlbar-web-rtc-share-microphone-notification-anchor =
     .tooltiptext = Manija a spartuta dû micròfunu cu stu situ
 urlbar-default-notification-anchor =
@@ -43,17 +43,17 @@ urlbar-storage-access-anchor =
 urlbar-web-rtc-share-screen-notification-anchor =
     .tooltiptext = Manija a spartuta dî finestri o dû schirmu cu stu situ
 urlbar-indexed-db-notification-anchor =
-    .tooltiptext = Grapi quatru di l'archiviu fora linia
+    .tooltiptext = Grapi quatru di l’archiviu fora linia
 urlbar-password-notification-anchor =
     .tooltiptext = Grapi u quatru dî missaggi di sarbataggiu dî chiavi
 urlbar-plugins-notification-anchor =
-    .tooltiptext = Manija l'usu dî juncitini
+    .tooltiptext = Manija l’usu dî juncitini
 urlbar-web-rtc-share-devices-notification-anchor =
     .tooltiptext = Manija a spartuta dâ fotucàmmara o dû micròfunu cu stu situ
 urlbar-autoplay-notification-anchor =
     .tooltiptext = Grapi quatru dâ ripruduzzioni autumàtica
 urlbar-persistent-storage-notification-anchor =
-    .tooltiptext = Sarba dati nni l'archiviu pirmanenti
+    .tooltiptext = Sarba dati nni l’archiviu pirmanenti
 urlbar-addons-notification-anchor =
     .tooltiptext = Grapi u quatru dî missaggi di nzitamentu dî juncitini
 urlbar-tip-help-icon =
@@ -75,7 +75,7 @@ urlbar-search-mode-bookmarks = Nzingalibbra
 urlbar-geolocation-blocked =
     .tooltiptext = Bluccasti i nfurmazzioni supra â to pusizzioni pi stu situ.
 urlbar-xr-blocked =
-    .tooltiptext = Bluccasti l'accessu ê dispusitivi pâ rialtà virtuali pi stu situ.
+    .tooltiptext = Bluccasti l’accessu ê dispusitivi pâ rialtà virtuali pi stu situ.
 urlbar-web-notifications-blocked =
     .tooltiptext = Bluccasti i nutìfichi pi stu situ.
 urlbar-camera-blocked =
@@ -85,7 +85,7 @@ urlbar-microphone-blocked =
 urlbar-screen-blocked =
     .tooltiptext = Bluccasti a spartuta dû to schirmu pi stu situ.
 urlbar-persistent-storage-blocked =
-    .tooltiptext = Bluccasti l'archiviu pirmanenti pi stu situ.
+    .tooltiptext = Bluccasti l’archiviu pirmanenti pi stu situ.
 urlbar-popup-blocked =
     .tooltiptext = Bluccasti i finestri assummanti pi stu situ.
 urlbar-autoplay-media-blocked =
@@ -93,7 +93,7 @@ urlbar-autoplay-media-blocked =
 urlbar-canvas-blocked =
     .tooltiptext = Bluccasti a strazzioni dî dati dâ tila pi stu situ.
 urlbar-midi-blocked =
-    .tooltiptext = Bluccasti l'accessu MIDI pi stu situ.
+    .tooltiptext = Bluccasti l’accessu MIDI pi stu situ.
 urlbar-install-blocked =
     .tooltiptext = Bluccasti u nzitamentu dî juncitini pi stu situ.
 # Variables
@@ -177,7 +177,7 @@ bookmark-panel-remove =
         }
     .accesskey = C
 bookmark-panel-show-editor-checkbox =
-    .label = Mustra l'edituri quannu sarbi
+    .label = Mustra l’edituri quannu sarbi
     .accesskey = s
 # Width of the bookmark panel.
 # Should be large enough to fully display the Done and
@@ -194,15 +194,15 @@ identity-passive-loaded = Parti di sta pàggina nun sunnu sicuri (comu i mmàggi
 identity-active-loaded = Disabbilitasti a prutizziuni nta sta pàggina.
 identity-insecure-login-forms = I firmati scritti nta sta pàggina cùrrinu rìsicu.
 identity-permissions-storage-access-header = Viscotta ntirsitu
-identity-permissions-reload-hint = Putissi abbisugnari a carricari arrè a pàggina p'appricari i canciamenti.
+identity-permissions-reload-hint = Putissi abbisugnari a carricari arrè a pàggina p’appricari i canciamenti.
 identity-description-insecure = A cunnissiuni a stu situ nun è privata. I nfurmazzioni chi manni putìssiru èssiri visti di autri (comu chiavi, missaggi, carti di crèditu, …).
-identity-description-insecure-login-forms = I nfurmazzioni d'accessu chi metti nna sta pàggina nun su' sicuri, e putìssiru èssiri ntircittati.
+identity-description-insecure-login-forms = I nfurmazzioni d’accessu chi metti nna sta pàggina nun su’ sicuri, e putìssiru èssiri ntircittati.
 identity-description-weak-cipher-intro = A to cunnissiuni a stu situ usa un cifrariu fraccu e nun è privata.
 identity-description-weak-cipher-risk = Autri ponnu vìdiri i to nfurmazzioni o canciari u cumpurtamentu dû situ web.
 identity-description-active-blocked2 = { -brand-short-name } bluccau parti di sta pàggina ca nun èranu sicuri.
 identity-description-passive-loaded = A to cunnissiuni nun è privata e i nfurmazzioni chi sparti cu stu situ putìssiru èssiri visti di autri.
 identity-description-passive-loaded-insecure2 = Stu situ cunteni cuntinutu ca nun è sicuru (comu i mmàggini).
-identity-description-passive-loaded-mixed2 = Puru ca { -brand-short-name } bluccau parti dû cuntinutu, cc'è ancora cuntinutu supra a sta pàggina chi nun è sicuru (comu i mmàggini).
+identity-description-passive-loaded-mixed2 = Puru ca { -brand-short-name } bluccau parti dû cuntinutu, cc’è ancora cuntinutu supra a sta pàggina chi nun è sicuru (comu i mmàggini).
 identity-description-active-loaded = Stu situ cunteni cuntinutu ca nun è sicuru (comu i script) e a to cunnissiuni nun è privata.
 identity-description-active-loaded-insecure = I nfurmazzioni chi sparti cu stu situ putìssiru èssiri visti di autri (comu chiavi, missaggi, carti di crèditu, …).
 identity-more-info-link-text =
@@ -227,7 +227,7 @@ browser-window-close-button =
 
 browser-import-button2 =
     .label = Mporta nzingalibbra…
-    .tooltiptext = Mporta nzingalibbra di n'autru navicaturi nne { -brand-short-name }.
+    .tooltiptext = Mporta nzingalibbra di n’autru navicaturi nne { -brand-short-name }.
 
 ## WebRTC Pop-up notifications
 
@@ -561,7 +561,7 @@ unified-extensions-button-blocklisted =
 
 ## Autorefresh blocker
 
-refresh-blocked-redirect-label = { -brand-short-name } bluccau sta pàggina di purtàriti 'n autumàticu a n'autra pàggina.
+refresh-blocked-redirect-label = { -brand-short-name } bluccau sta pàggina di purtàriti ’n autumàticu a n’autra pàggina.
 refresh-blocked-allow =
     .label = Pirmetti
     .accesskey = P

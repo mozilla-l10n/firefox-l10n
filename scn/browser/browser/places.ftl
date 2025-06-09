@@ -51,7 +51,7 @@ places-maintenance-button-mac =
     .label = Mporta e Sarba
     .tooltiptext = Mporta e sarba i to nzingalibbra
 places-import-bookmarks-from-html =
-    .label = Mporta nzingalibbra d'un pricu HTML…
+    .label = Mporta nzingalibbra d’un pricu HTML…
     .accesskey = M
 places-export-bookmarks-to-html =
     .label = Sarba nzingalibbra nnôn pricu HTML…
@@ -73,4 +73,4 @@ places-search-history =
 
 ##
 
-places-locked-prompt = U sistema dî nzingalibbra e dâ crunuluggìa nun funziona picchì unu dî prichi di { -brand-short-name } veni usatu di n'autra applicazzioni. Certi prugrammi di sicurizza ponnu causari stu prubblema.
+places-locked-prompt = U sistema dî nzingalibbra e dâ crunuluggìa nun funziona picchì unu dî prichi di { -brand-short-name } veni usatu di n’autra applicazzioni. Certi prugrammi di sicurizza ponnu causari stu prubblema.
