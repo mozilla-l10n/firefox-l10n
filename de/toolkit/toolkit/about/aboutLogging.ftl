@@ -27,6 +27,8 @@ about-logging-no-log-modules = Keine
 about-logging-no-log-file = Keine
 about-logging-logging-preset-selector-text = Voreinstellung für die Protokollierung:
 about-logging-with-profiler-stacks-checkbox = Stack-Traces für Log-Meldungen aktivieren
+about-logging-menu =
+    .title = Erweiterte Optionen
 
 ## Logging presets
 

@@ -570,3 +570,11 @@ permissions-data-addon-button = Berechtigungen und Daten
 
 ## Mapping Engine IDs from AI models to how that feature represented by the engine Id is described in the used by section in local model management
 
+# Label for button that when clicked removed local model
+mlmodel-remove-addon-button =
+    .aria-label = Entfernen
+# Label for the aggregated value of all files for a model
+mlmodel-addon-detail-totalsize-label = Dateigröße
+mlmodel-addon-detail-last-used-label = Zuletzt verwendet
+# This is a section label to describe what extensions or features use a specific local AI model
+mlmodel-addon-detail-used-by-label = Verwendet von
