@@ -24,6 +24,9 @@ fxa-menu-sign-out =
     .label = പുറത്തുക്കടക്കുക…
 fxa-menu-sync-title = സമന്വയം
 fxa-menu-sync-description = ഗോളാന്തരവല എല്ലായിടത്തിൽ നിന്നു് ഉപയോഗിക്കുക
+fxa-avatar-sign-up = അംഗത്തമെടുക്കുക
+fxa-avatar-tooltip =
+    .tooltiptext = അക്കൗണ്ടിലേക്കു് പ്രവേശിക്കുക
 sync-setup-verify-continue = തുടരുക
 sync-setup-verify-title = കൂട്ടിചേര്‍ക്കൽമുന്നറിയിപ്പ്
 
