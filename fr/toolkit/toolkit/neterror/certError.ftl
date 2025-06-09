@@ -121,6 +121,7 @@ cert-error-revoked-certificate = { -brand-short-name } a bloqué votre visite su
 cert-error-bad-signature = { -brand-short-name } a bloqué votre visite sur ce site, car la signature du certificat fourni pour { $hostname } n’est pas valide.
 cert-error-key-pinning-failure = { -brand-short-name } a bloqué votre visite sur ce site, car le certificat fourni pour { $hostname } utilise une clé publique autre que celle attendue.
 cert-error-bad-der = { -brand-short-name } a bloqué votre visite sur ce site, car le certificat fourni pour { $hostname } n’est pas correctement encodé.
+cert-error-cert-not-in-name-space = { -brand-short-name } a bloqué votre visite sur ce site, car le certificat fourni pour { $hostname } ne suit pas les contraintes de nom d’un certificat qui l’a délivré.
 cert-error-inadequate-cert-type = { -brand-short-name } a bloqué votre visite sur ce site, car le certificat fourni pour { $hostname } n’est pas autorisé pour l’utilisation par un serveur web.
 cert-error-path-len-constraint-invalid = { -brand-short-name } a bloqué votre visite sur ce site, car le certificat fourni pour { $hostname } contient trop de certificats intermédiaires sur le chemin vers le certificat racine.
 cert-error-invalid-key = { -brand-short-name } a bloqué votre visite sur ce site, car le certificat fourni pour { $hostname } possède une clé invalide. Elle est très probablement trop petite pour être sécurisée.
