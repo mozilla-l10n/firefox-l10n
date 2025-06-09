@@ -106,7 +106,7 @@ download-utils-time-left-single = بقي { $time }
 #   $time1 (string) - Time left, including a unit
 #   $time2 (string) - Smaller measure of time left, including a unit
 download-utils-time-left-double = بقي { $time1 }‏ { $time2 }
-download-utils-time-few-seconds = بقي بضع ثوان
+download-utils-time-few-seconds = بقي بضع ثوانِ
 download-utils-time-unknown = بقي وقت غير معروف
 # Variables:
 #   $scheme (string) - URI scheme like data: jar: about:
