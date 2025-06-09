@@ -120,7 +120,7 @@ translations-panel-restore-button =
 
 translations-manage-header = Prijevodi
 translations-manage-settings-button =
-    .label = Postavke…
+    .label = Postavke …
     .accesskey = t
 translations-manage-description = Preuzmi jezike za izvanmrežni prijevod.
 translations-manage-all-language = Svi jezici

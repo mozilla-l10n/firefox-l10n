@@ -58,7 +58,7 @@ perftools-button-save-settings = Spremi postavke i idi natrag
 perftools-button-restart = Pokreni ponovo
 perftools-button-add-directory = Dodaj mapu
 perftools-button-remove-directory = Ukloni odabrano
-perftools-button-edit-settings = Uredi postavke…
+perftools-button-edit-settings = Uredi postavke …
 
 ## More actions menu
 
