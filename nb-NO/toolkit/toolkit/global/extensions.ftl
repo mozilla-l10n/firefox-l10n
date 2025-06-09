@@ -16,7 +16,7 @@ webext-perms-header-unsigned = Legge til { $extension }? Denne utvidelsen er ikk
 webext-perms-header-unsigned-with-perms = Legge til { $extension }? Denne utvidelsen er ikke bekreftet. Skadelige utvidelser kan stjele dine privatopplysninger eller kompromittere din datamaskin. Legg kun til denne utvidelsen om du stoler på kilden. Denne utvidelsen vil ha tillatelse til å:
 webext-perms-sideload-header = { $extension } lagt til
 webext-perms-optional-perms-header = { $extension } ber om ytterligere tillatelser.
-webext-perms-header2 = Legg til { $utvidelse }
+webext-perms-header2 = Legg til { $extension }
 webext-perms-list-intro-unsigned = Denne ubekreftede utvidelsen kan sette personvernet ditt i fare eller kompromittere enheten din. Legg den bare til hvis du stoler på kilden.
 
 ## Headers used in the webextension permissions dialog, inside the content.
