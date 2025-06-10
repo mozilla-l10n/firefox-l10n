@@ -40,7 +40,7 @@ policy-DisableBuiltinPDFViewer = Deaktiviraj PDF.js, ugrađeni preglednik PDF da
 policy-DisableDefaultBrowserAgent = Spriječi standardnog agenta preglednika da poduzima bilo kakve radnje. Primjenjivo samo na Windowsu; druge platforme nemaju agenta.
 policy-DisableDeveloperTools = Blokiraj pristup programerskim alatima.
 policy-DisableEncryptedClientHello = Deaktiviraj upotrebu TLS funkcije Encrypted Client Hello (ECH).
-policy-DisableFeedbackCommands = Onemogući naredbe za slanje povratnih informacija u izborniku pomoći (Pošalji povratne informacije i Prijavi obmanjujuću stranicu).
+policy-DisableFeedbackCommands = Deaktiviraj naredbe za slanje povratnih informacija u izborniku pomoći (Pošalji povratne informacije i Prijavi obmanjujuću stranicu).
 policy-DisableFirefoxAccounts = Onemogući usluge koje se temelje na { -fxaccount-brand-name }u, uključujući sinkronizaciju.
 # This string is in the process of being deprecated in favor of policy-DisableAccounts.
 policy-DisableFirefoxAccounts1 = Deaktiviraj usluge za koje su potrebni računi, uključujući sinkronizaciju.

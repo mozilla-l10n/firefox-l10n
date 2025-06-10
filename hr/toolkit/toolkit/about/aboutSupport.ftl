@@ -296,7 +296,7 @@ webgl2-version = Verzija upravljačkog programa WebGL 2
 webgl2-extensions = WebGL 2 dodaci
 # Variables
 # $failureCode (string) - String that can be searched in the source tree.
-unknown-failure = Blokiran; kȏd neuspjeha { $failureCode }
+unknown-failure = Dodano na popis blokiranih; kod greške { $failureCode }
 d3d11layers-crash-guard = D3D11 kompozitor
 glcontext-crash-guard = OpenGL
 wmfvpxvideo-crash-guard = WMF VPX video dekoder

@@ -43,6 +43,8 @@ webext-perms-description-webNavigation = Навигация кезіндегі �
 ##
 ## This is used when the data collection permissions are required.
 
+webext-perms-description-data-short-authenticationInfo = аутентификация ақпараты
+webext-perms-description-data-short-bookmarksInfo = бетбелгілер
 
 ## Long form to be used in `about:addons` when these data collection permissions are optional.
 

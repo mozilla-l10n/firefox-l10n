@@ -66,6 +66,11 @@ screenshots-component-copy-button-2 = Көшіріп алу
 screenshots-component-download-button-2 = Жүктеп алу
     .title = Жүктеп алу ({ $shortcut })
     .aria-label = Жүктеп алу
+# Variables
+#   $shortcut (String) - A keyboard shortcut for the screenshot command.
+screenshot-toolbar-button =
+    .label = Скриншот
+    .tooltiptext = Скриншот түсіру ({ $shortcut })
 
 ## The below strings are used to capture keydown events so the strings should
 ## not be changed unless the keyboard layout in the locale requires it.

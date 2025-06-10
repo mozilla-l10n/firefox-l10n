@@ -50,10 +50,10 @@ cert-error-expired-now = Web stranice dokazuju svoj identitet putem certifikata,
 cert-error-not-yet-valid-now = Web stranice dokazuju svoj identitet putem certifikata, koji vrijede samo određeno vrijeme. Certifikat za { $hostname } vrijedit će tek od { $not-before-local-time }.
 # Variables:
 #   $error (string) - NSS error code string that specifies type of cert error. e.g. unknown issuer, invalid cert, etc.
-cert-error-code-prefix = Kȏd greške: { $error }
+cert-error-code-prefix = Kod greške: { $error }
 # Variables:
 #   $error (string) - NSS error code string that specifies type of cert error. e.g. unknown issuer, invalid cert, etc.
-cert-error-code-prefix-link = Kȏd greške: <a data-l10n-name="error-code-link">{ $error }</a>
+cert-error-code-prefix-link = Kod greške: <a data-l10n-name="error-code-link">{ $error }</a>
 # Variables:
 #   $hostname (string) - Hostname of the website with SSL error.
 #   $errorMessage (string) - Error message corresponding to the type of error we are experiencing.
@@ -90,7 +90,7 @@ fp-certerror-not-yet-valid-why-dangerous-body = Web stranice koriste certifikate
 fp-certerror-expired-what-can-you-do-body = Sat tvog uređaja je postavljen na { DATETIME($date, month: "numeric", day: "numeric", year: "numeric") }. Ako je to točno, vjerojatno je web stranica uzrok za sigurnosni problem. Ako je krivo, možeš ga promijeniti u postavkama sustava tvog uređaja.
 # Variables:
 #   $error (string) - NSS error code string that specifies type of cert error. e.g. unknown issuer, invalid cert, etc.
-fp-cert-error-code = Kȏd greške: { $error }
+fp-cert-error-code = Kod greške: { $error }
 # Variables:
 #   $datetime (Date) - Current datetime.
 fp-datetime = { DATETIME($datetime, month: "short", year: "numeric", day: "numeric") } { DATETIME($datetime, timeStyle: "long") }

@@ -47,7 +47,16 @@ webext-perms-extra-warning-userScripts-short = Ikkje stadfesta skript kan utgjer
 ## This is used when the data collection permissions are required.
 
 webext-perms-description-data-short-bookmarksInfo = bokmerke
+webext-perms-description-data-short-browsingActivity = nettlesaraktivitet
+webext-perms-description-data-short-healthInfo = helseinformasjon
 webext-perms-description-data-short-locationInfo = plassering
+webext-perms-description-data-short-personalCommunications = personleg kommunikasjon
+webext-perms-description-data-short-personallyIdentifyingInfo = personleg identifiserbar informasjon
+webext-perms-description-data-short-searchTerms = søkeord
+webext-perms-description-data-short-technicalAndInteraction = tekniske data og samhandlingsdata
+webext-perms-description-data-short-websiteActivity = nettstad-aktivitet
+webext-perms-description-data-short-websiteContent = nettstad-innhald
 
 ## Long form to be used in `about:addons` when these data collection permissions are optional.
 
+webext-perms-description-data-long-technicalAndInteraction = Del tekniske data og interaksjonsdata med utvidingsutviklaren

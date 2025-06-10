@@ -17,6 +17,7 @@ webext-perms-header-unsigned-with-perms = Leggje til { $extension }? Denne utvid
 webext-perms-sideload-header = { $extension } lagt til
 webext-perms-optional-perms-header = { $extension } ber om ytterlegare løyve.
 webext-perms-header2 = Legg til { $extension }
+webext-perms-list-intro-unsigned = Denne ikkje-stadfesta utvidinga kan sette personvernet ditt i fare eller kompromittere eininga di. Legg henne berre til dersom du stolar på kjelda.
 
 ## Headers used in the webextension permissions dialog, inside the content.
 

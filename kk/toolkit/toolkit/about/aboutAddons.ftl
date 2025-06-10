@@ -524,3 +524,15 @@ plugins-widevine-description = Бұл плагин шифрленген меди
 
 ## Mapping Engine IDs from AI models to how that feature represented by the engine Id is described in the used by section in local model management
 
+# Label for button that when clicked removed local model
+mlmodel-remove-addon-button =
+    .aria-label = Өшіру
+# Label for the aggregated value of all files for a model
+mlmodel-addon-detail-totalsize-label = Файл өлшемі
+mlmodel-addon-detail-last-used-label = Соңғы қолданылған
+# This is a section label to describe what extensions or features use a specific local AI model
+mlmodel-addon-detail-used-by-label = Қолданған
+# This is a section label to describe the link to the model card on the Hugging Face website
+mlmodel-addon-detail-model-card = Модель картасы
+# This is a label for the Model Card link to Hugging face
+mlmodel-addon-detail-model-card-link-label = Hugging Face ішінде ашу

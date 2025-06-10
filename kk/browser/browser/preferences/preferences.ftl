@@ -510,6 +510,8 @@ performance-default-content-process-count =
 ## General Section - Browsing
 
 browsing-title = Сайттарды қарау
+browsing-group-label =
+    .aria-label = Сайттарды қарау
 browsing-use-autoscroll =
     .label = Автоматты айналдыруды қолдану
     .accesskey = в
@@ -644,6 +646,9 @@ home-prefs-weather-header =
     .label = Ауа райы
 home-prefs-weather-description = Бүгінгі қысқаша болжам
 home-prefs-weather-learn-more-link = Көбірек білу
+# "Support" here means to help sustain or contribute to something, especially through funding or sponsorship.
+home-prefs-support-firefox-header =
+    .label = { -brand-product-name } қолдау
 home-prefs-mission-message-learn-more-link = Қалай екенін білу
 # Variables:
 #   $num (number) - Number of rows displayed
@@ -713,6 +718,9 @@ search-remove-engine =
 search-add-engine =
     .label = Қосу
     .accesskey = о
+search-edit-engine =
+    .label = Түзету
+    .accesskey = е
 search-find-more-link = Көбірек іздеу қызметтерін қосу
 # This warning is displayed when the chosen keyword is already in use
 # ('Duplicate' is an adjective)

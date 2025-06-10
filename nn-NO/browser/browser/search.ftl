@@ -66,6 +66,12 @@ engine-keyword-exists = Det finst allereie ein søkjemotor med det søkjeordet
 
 ## The following placeholders are shown in the inputs when adding a new engine.
 
+add-engine-name-placeholder =
+    .placeholder = til dømes Mozilla Developer Network
+add-engine-url-placeholder =
+    .placeholder = til dømes https://developer.mozilla.com/search?q=%s
+add-engine-keyword-placeholder =
+    .placeholder = til dømes @mdn
 
 ## The following strings are used as error messages.
 
