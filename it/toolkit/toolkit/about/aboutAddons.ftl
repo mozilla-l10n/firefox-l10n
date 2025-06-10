@@ -497,6 +497,9 @@ shortcuts-heading = Gestione scorciatoie da tastiera
 default-heading-search-label = Trova altri componenti aggiuntivi
 addons-heading-search-input =
     .placeholder = Cerca in addons.mozilla.org
+addons-heading-search-button =
+    .title = Cerca in addons.mozilla.org
+    .aria-label = Cerca in addons.mozilla.org
 addon-page-options-button =
     .title = Strumenti per tutti i componenti aggiuntivi
 
