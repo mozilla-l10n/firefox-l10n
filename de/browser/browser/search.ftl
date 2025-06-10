@@ -60,6 +60,7 @@ edit-engine-window =
 add-engine-button = Benutzerdefinierte Suchmaschine hinzufügen
 add-engine-name = Name der Suchmaschine
 add-engine-url2 = URL mit %s anstelle des Suchbegriffs
+add-engine-keyword2 = Schlüsselwort (optional)
 add-engine-keyword = Schlüsselwort
 add-engine-url = Suchmaschinen-URL, %s anstelle des Suchbegriffs verwenden
 add-engine-dialog =
@@ -70,9 +71,16 @@ engine-keyword-exists = Eine Suchmaschine mit diesem Schlüsselwort existiert be
 
 ## The following placeholders are shown in the inputs when adding a new engine.
 
+add-engine-url-placeholder =
+    .placeholder = z. B. https://developer.mozilla.com/search?q=%s
+add-engine-keyword-placeholder =
+    .placeholder = z. B. @mdn
 
 ## The following strings are used as error messages.
 
+add-engine-keyword-exists = Dieses Schlüsselwort wird bereits verwendet. Probieren Sie ein anderes aus.
+add-engine-name-exists = Dieser Name wird bereits verwendet. Bitte wählen Sie einen anderen aus.
+add-engine-no-name = Bitte fügen Sie einen Namen hinzu.
 
 ## The following strings are used as labels for the dialog's buttons.
 

@@ -567,9 +567,15 @@ addon-permissions-required-data-collection = Benötigte Datenerhebung:
 addon-permissions-optional-data-collection = Optionale Datenerhebung:
 # Name of the Permissions tab in `about:addons` when the data collection feature is enabled.
 permissions-data-addon-button = Berechtigungen und Daten
+# This is a description for extension that use this AI model
+# Variables:
+#   $extensionName (String) - Name of the extension
+mlmodel-extension-label = Verwendet von der Erweiterung { $extensionName }
 
 ## Mapping Engine IDs from AI models to how that feature represented by the engine Id is described in the used by section in local model management
 
+mlmodel-smart-tab-topic-engine = { -brand-short-name } verwendet dies, um Namen für Ihre Tab-Gruppen vorzuschlagen
+mlmodel-smart-tab-embedding-engine = { -brand-short-name } verwendet dies, um Tabs für Ihre Tab-Gruppen vorzuschlagen
 # Label for button that when clicked removed local model
 mlmodel-remove-addon-button =
     .aria-label = Entfernen

@@ -81,6 +81,8 @@ addon-removal-title = { $name } ਨੂੰ ਹਟਾਉਣਾ ਹੈ?
 addon-removal-message = { $name } ਨੂੰ { -brand-shorter-name } ਵਿੱਚੋਂ ਹਟਾਉਣਾ ਹੈ?
 addon-removal-button = ਹਟਾਓ
 addon-removal-abuse-report-checkbox = ਇਸ ਇਕਸਟੈਨਸ਼ਨ ਬਾਰੇ { -vendor-short-name } ਨੂੰ ਰਿਪੋਰਟ ਦਿਓ
+# "it" refers to the local AI model that is paired to the AI feature
+addon-mlmodel-removal-body = ਜੇ ਤੁਸੀਂ ਇਸ ਮਾਡਲ ਨੂੰ ਵਰਤਣ ਵਾਲੇ ਕਿਸੇ ਫ਼ੀਚਰ ਜਾਂ ਇਕਸਟੈਨਸ਼ਨ ਨੂੰ ਵਰਤ ਰਹੇ ਹੋ ਤਾਂ ਇਸ ਨੂੰ ਮੁੜ-ਜੋੜੋ।
 # Variables:
 #   $addonCount (Number): the number of add-ons being downloaded
 addon-downloading-and-verifying =

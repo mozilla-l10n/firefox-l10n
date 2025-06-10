@@ -7,7 +7,7 @@
 
 neterror-page-title = 頁面載入發生問題
 certerror-page-title = 警告：本網站可能有安全性風險
-certerror-sts-page-title = 未連線: 潛在的安全性問題
+certerror-sts-page-title = 未連線：可能有安全性問題
 neterror-blocked-by-policy-page-title = 已封鎖頁面
 neterror-captive-portal-page-title = 登入到網路
 neterror-dns-not-found-title = 找不到伺服器
@@ -126,12 +126,12 @@ certerror-mitm = <b>{ $hostname }</b> 應該是一個安全的網站，但無法
 neterror-corrupted-content-intro = 因為在資料傳輸過程當中偵測到錯誤，無法顯示您正要檢視的頁面。
 neterror-corrupted-content-contact-website = 請向網站擁有者回報此問題。
 # Do not translate "SSL_ERROR_UNSUPPORTED_VERSION".
-neterror-sslv3-used = 進階資訊: SSL_ERROR_UNSUPPORTED_VERSION
+neterror-sslv3-used = 進階資訊：SSL_ERROR_UNSUPPORTED_VERSION
 # Variables:
 # $hostname (String) - Hostname of the website to which the user was trying to connect.
 neterror-inadequate-security-intro = <b>{ $hostname }</b> 使用過時的安全性技術，容易遭受攻擊。攻擊者可以簡單地得知您認為安全的資訊。網站管理員修正伺服器設定後您才能連線至此網站。
 # Do not translate "NS_ERROR_NET_INADEQUATE_SECURITY".
-neterror-inadequate-security-code = 錯誤代碼: NS_ERROR_NET_INADEQUATE_SECURITY
+neterror-inadequate-security-code = 錯誤代碼：NS_ERROR_NET_INADEQUATE_SECURITY
 # Variables:
 # $hostname (String) - Hostname of the website to which the user was trying to connect.
 # $now (Date) - The current datetime, to be formatted as a date

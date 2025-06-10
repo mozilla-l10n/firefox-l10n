@@ -105,6 +105,8 @@ sidebar-history-context-menu-delete-page-2 =
     .label = Seite aus Chronik löschen
 sidebar-history-context-menu-bookmark-page =
     .label = Lesezeichen für Seite hinzufügen…
+sidebar-history-context-menu-delete-pages =
+    .label = Seiten aus Chronik löschen
 
 ## Labels for sidebar menu items.
 

@@ -822,6 +822,9 @@ urlbar-group-recent-searches =
 #  $engine (String): the name of the search engine providing the trending suggestions
 urlbar-group-trending =
     .label = { $engine } ਉੱਤੇ ਰੁਝਾਨ
+# Label shown above sponsored suggestions in the urlbar results.
+urlbar-group-sponsored =
+    .label = ਸਪੌਂਸਰ ਕੀਤੇ
 # The result menu labels shown next to trending results.
 urlbar-result-menu-trending-dont-show =
     .label = ਖੋਜਾਂ ਦੇ ਰੁਝਾਨ ਨਾ ਦਿਖਾਓ
@@ -1202,6 +1205,11 @@ popup-notification-xpinstall-prompt-block-url = ਵੇਰਵਿਆਂ ਨੂੰ 
 popup-notification-addon-privatebrowsing-checkbox2 =
     .label = ਪ੍ਰਾਈਵੇਟ ਵਿੰਡੋਆਂ ਵਿੱਚ ਇਕਸਟੈਨਸ਼ਨ ਚੱਲਣ ਦੀ ਮਨਜ਼ੂਰੀ
     .accesskey = p
+# This string is similar to `webext-perms-description-data-long-technicalAndInteraction`
+# but it is used in the install prompt, and it needs an access key.
+popup-notification-addon-technical-and-interaction-checkbox =
+    .label = ਤਕਨੀਕੀ ਅਤੇ ਤਾਲਮੇਲ ਡਾਟੇ ਨੂੰ ਇਕਸਟੈਸ਼ਨ ਡਿਵੈਲਪਰ ਨਾਲ ਸਾਂਝਾ ਕਰੋ
+    .accesskey = S
 
 ## Pop-up warning
 
