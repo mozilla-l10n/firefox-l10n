@@ -51,3 +51,4 @@ crashreporter-error-no-home-dir = Kotihakemisto puuttuu
 # $to (String) - the destination path
 crashreporter-error-moving-path = Kohdetta { $from } ei voitu siirtää sijaintiin { $to }
 crashreporter-error-version-eol = Version käyttöikä loppu: virheraportteja ei enää hyväksytä.
+crashreporter-error-failed-to-generate-minidump = Sovellus ei onnistunut luomaan tietoja kaatumiseen liittyen.
