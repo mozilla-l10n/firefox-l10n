@@ -63,4 +63,4 @@ show-addon =
 item =
     .title =
         Pošiljke od učitavanja: { $totalDispatches } ({ $totalDuration } ms)
-        Pošiljke u posljednjim sekundama: { $dispatchesSincePrevious } ({ $durationSincePrevious } ms)
+        Pošiljke u zadnjim sekundama: { $dispatchesSincePrevious } ({ $durationSincePrevious } ms)

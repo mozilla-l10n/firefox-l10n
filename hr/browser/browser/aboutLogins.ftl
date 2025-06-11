@@ -103,7 +103,7 @@ about-logins-list-section-vulnerable = Ranjive lozinke
 about-logins-list-section-nothing = Bez upozorenja
 about-logins-list-section-today = Danas
 about-logins-list-section-yesterday = Jučer
-about-logins-list-section-week = Posljednjih 7 dana
+about-logins-list-section-week = Zadnjih 7 dana
 
 ## Introduction screen
 
