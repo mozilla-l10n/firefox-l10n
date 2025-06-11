@@ -117,6 +117,7 @@ tabbrowser-unblock-tab-audio-aria-label =
 #   $tabCount (Number): The number of tabs that will be closed.
 tabbrowser-confirm-close-tabs-title =
     { $tabCount ->
+        [one] Zapri { $tabCount } zavihek?
         [two] Zapri { $tabCount } zavihka?
         [few] Zapri { $tabCount } zavihke?
        *[other] Zapri { $tabCount } zavihkov?
@@ -133,6 +134,7 @@ tabbrowser-confirm-close-tabs-checkbox = Vprašaj za potrditev pred zapiranjem v
 #   $windowCount (Number): The number of windows that will be closed.
 tabbrowser-confirm-close-windows-title =
     { $windowCount ->
+        [one] Zapri { $windowCount } okno?
         [two] Zapri { $windowCount } okni?
         [few] Zapri { $windowCount } okna?
        *[other] Zapri { $windowCount } oken?
@@ -228,7 +230,8 @@ tabbrowser-tab-audio-playing-description = Predvaja zvok
 tabbrowser-ctrl-tab-list-all-tabs =
     .label =
         { $tabCount ->
-            [two] Prikaži oba dva zavihka
+            [one] Prikaži { $tabCount } zavihek
+            [two] Prikaži oba { $tabCount } zavihka
             [few] Prikaži vse { $tabCount } zavihke
            *[other] Prikaži vseh { $tabCount } zavihkov
         }

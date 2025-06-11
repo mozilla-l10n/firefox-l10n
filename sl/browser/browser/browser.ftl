@@ -1236,6 +1236,7 @@ popup-warning-message =
 #   $popupCount (Number): the number of pop-ups blocked.
 popup-warning-exceeded-message =
     { $popupCount ->
+        [one] { -brand-short-name } je strani preprečil, da bi odprla več kot { $popupCount } pojavno okno.
         [two] { -brand-short-name } je strani preprečil, da bi odprla več kot { $popupCount } pojavni okni.
         [few] { -brand-short-name } je strani preprečil, da bi odprla več kot { $popupCount } pojavna okna.
        *[other] { -brand-short-name } je strani preprečil, da bi odprla več kot { $popupCount } pojavnih oken.

@@ -121,6 +121,7 @@ addon-confirm-install-unsigned-message =
 #   $addonCount (Number): the number of add-ons being installed (at least 2)
 addon-confirm-install-some-unsigned-message =
     { $addonCount ->
+        [one] Pozor: stran želi v { -brand-short-name } namestiti { $addonCount } dodatek, od katerih je vsaj en nepotrjen. Nadaljujte na lastno odgovornost.
         [two] Pozor: stran želi v { -brand-short-name } namestiti { $addonCount } dodatka, od katerih je vsaj en nepotrjen. Nadaljujte na lastno odgovornost.
         [few] Pozor: stran želi v { -brand-short-name } namestiti { $addonCount } dodatke, od katerih je vsaj en nepotrjen. Nadaljujte na lastno odgovornost.
        *[other] Pozor: stran želi v { -brand-short-name } namestiti { $addonCount } dodatkov, od katerih je vsaj en nepotrjen. Nadaljujte na lastno odgovornost.
