@@ -47,10 +47,6 @@ serviceworker-worker-status-stopped = Zaustavljeno
 serviceworker-empty-intro2 = Nije pronađen nijedan service worker
 # Link will open https://developer.mozilla.org/docs/Web/API/Service_Worker_API/Using_Service_Workers
 serviceworker-empty-intro-link = Saznaj više
-# Text displayed when there are no Service Workers to display for the current page,
-# introducing hints to debug Service Worker issues.
-# <a> and <span> are links that will open the webconsole and the debugger, respectively.
-serviceworker-empty-suggestions2 = Ako bi trenutna stranica trebala imati service worker, možeš potražiti greške u <a>konzoli</a> ili prelistati svoju registraciju service workera u <span>programu za pronalaženje grešaka</span>.
 # Suggestion to go to about:debugging in order to see Service Workers for all domains.
 # Link will open about:debugging in a new tab.
 serviceworker-empty-suggestions-aboutdebugging2 = Pregledaj service workere s drugih domena

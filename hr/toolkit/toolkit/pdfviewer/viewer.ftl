@@ -49,8 +49,8 @@ pdfjs-download-button =
 # Length of the translation matters since we are in a mobile context, with limited screen estate.
 pdfjs-download-button-label = Preuzimanja
 pdfjs-bookmark-button =
-    .title = Trenutna stranica (pogledajte URL s trenutne stranice)
-pdfjs-bookmark-button-label = Trenutna stranica
+    .title = Trenutačna stranica (pogledaj URL s trenutačne stranice)
+pdfjs-bookmark-button-label = Trenutačna stranica
 
 ##  Secondary toolbar and context menu
 
@@ -309,8 +309,8 @@ pdfjs-editor-ink-button =
     .title = Crtanje
 pdfjs-editor-ink-button-label = Crtanje
 pdfjs-editor-stamp-button =
-    .title = Dodajte ili uredite slike
-pdfjs-editor-stamp-button-label = Dodajte ili uredite slike
+    .title = Dodaj ili uredi slike
+pdfjs-editor-stamp-button-label = Dodaj ili uredi slike
 pdfjs-editor-highlight-button =
     .title = Istakni
 pdfjs-editor-highlight-button-label = Istakni
@@ -318,6 +318,9 @@ pdfjs-highlight-floating-button1 =
     .title = Istakni
     .aria-label = Istakni
 pdfjs-highlight-floating-button-label = Istakni
+pdfjs-editor-signature-button =
+    .title = Dodaj potpis
+pdfjs-editor-signature-button-label = Dodaj potpis
 
 ## Default editor aria labels
 
@@ -348,6 +351,9 @@ pdfjs-editor-stamp-add-image-button-label = Dodaj sliku
 pdfjs-editor-free-highlight-thickness-input = Debljina
 pdfjs-editor-free-highlight-thickness-title =
     .title = Promjeni debljinu pri isticanju drugih stavki osim teksta
+pdfjs-editor-signature-add-signature-button =
+    .title = Dodaj novi potpis
+pdfjs-editor-signature-add-signature-button-label = Dodaj novi potpis
 # .default-content is used as a placeholder in an empty text editor.
 pdfjs-free-text2 =
     .aria-label = Uređivač teksta
@@ -521,6 +527,8 @@ pdfjs-editor-undo-bar-close-button-label = Zatvori
 
 ## Add a signature dialog
 
+pdfjs-editor-add-signature-dialog-label = Ovaj prozor omogućuje korisniku stvoriti potpis i dodati ga u PDF dokument. Korisnik može urediti ime (koje služi i kao alternativni tekst) i opcionalno spremiti potpis za ponovnu upotrebu.
+pdfjs-editor-add-signature-dialog-title = Dodaj potpis
 
 ## Tab names
 

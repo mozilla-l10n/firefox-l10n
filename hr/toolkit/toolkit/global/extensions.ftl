@@ -121,7 +121,7 @@ webext-site-perms-description-gated-perms-midi =
 ##   $hostname (String): will be replaced by the DNS host name for which a webextension enables permissions.
 
 webext-site-perms-header-with-perms = Dodaj { $extension }? Ovaj dodatak daje sljedeće mogućnosti { $hostname }:
-webext-site-perms-header-unsigned-with-perms = Dodaj { $extension }? Ovaj dodatak nije provjeren. Zlonamjerni dodaci mogu ukrasti vaše privatne podatke ili ugroziti računalo. Dodajte ga samo ako vjerujete njegovom izvoru. Ovaj dodatak daje sljedeće mogućnosti { $hostname }:
+webext-site-perms-header-unsigned-with-perms = Dodati { $extension }? Ovaj dodatak nije provjeren. Zlonamjerni dodaci mogu ukrasti tvoje privatne podatke ili ugroziti tvoje računalo. Dodaj ga samo ako vjeruješ njegovom izvoru. Ovaj dodatak pruža sljedeće mogućnosti { $hostname }:
 
 ## These should remain in sync with permissions.NAME.label in sitePermissions.properties
 
