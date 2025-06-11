@@ -226,6 +226,14 @@ tab-context-move-tab-to-new-group =
            *[other] G
         }
     .accesskey = G
+tab-context-move-tab-to-group =
+    .label =
+        { $tabCount ->
+            [1] Հավելել ներդիրը խմբում
+            [one] Հավելել ներդիրները խմբում
+           *[other] Հավելել ներդիրները խմբում
+        }
+    .accesskey = G
 tab-group-editor-action-new-tab =
     .label = Նոր ներդիր խմբում
 tab-group-editor-action-new-window =
@@ -236,6 +244,16 @@ tab-group-editor-action-ungroup =
     .label = Ապախմբավորել ներդիրները
 tab-group-editor-action-delete =
     .label = Ջնջել խումբը
+# Variables:
+#  $groupCount (Number): the number of tab groups that are affected by the action.
+tab-context-ungroup-tab =
+    .label =
+        { $groupCount ->
+            [1] Հեռացնել խմբից
+            [one] Հեռացնել խմբերից
+           *[other] Հեռացնել խմբերից
+        }
+    .accesskey = R
 
 ## Open/saved tab group context menu
 
