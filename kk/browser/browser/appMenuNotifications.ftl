@@ -44,6 +44,12 @@ appmenu-addon-private-browsing-installed2 =
     .buttonlabel = ОК
     .buttonaccesskey = о
 appmenu-addon-post-install-message3 = Қосымшалар мен темаларды қолданба мәзірі арқылы басқарыңыз.
+# This string is used in the confirmation popup displayed after an extension
+# has been installed, when the data collection feature is enabled.
+appmenu-addon-post-install-message-with-data-collection = Рұқсаттар мен деректерге қатысты параметрлерді кез келген уақытта <a data-l10n-name="settings-link">кеңейту параметрлерінен</a> өзгертуге болады.
+appmenu-addon-post-install-pin-toolbarbutton-checkbox =
+    .label = Кеңейтуді құралдар тақтасына бекіту
+    .accesskey = б
 appmenu-addon-post-install-incognito-checkbox =
     .label = Бұл кеңейтуге жекелік шолу терезелерінде орындалуға рұқсат ету
     .accesskey = а
