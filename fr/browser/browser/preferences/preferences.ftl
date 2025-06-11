@@ -651,6 +651,9 @@ home-prefs-weather-header =
     .label = Météo
 home-prefs-weather-description = Les prévisions du jour en un clin d’œil
 home-prefs-weather-learn-more-link = En savoir plus
+# "Support" here means to help sustain or contribute to something, especially through funding or sponsorship.
+home-prefs-support-firefox-header =
+    .label = Apportez votre soutien à { -brand-product-name }
 home-prefs-mission-message = Nos sponsors soutiennent notre mission de créer un meilleur Web
 home-prefs-mission-message-learn-more-link = Découvrir comment
 # Variables:

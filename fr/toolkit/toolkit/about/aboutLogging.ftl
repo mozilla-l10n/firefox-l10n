@@ -28,6 +28,8 @@ about-logging-no-log-modules = Aucun
 about-logging-no-log-file = Aucun
 about-logging-logging-preset-selector-text = Réglage de journalisation :
 about-logging-with-profiler-stacks-checkbox = Activer les traces d’appels pour les messages du journal.
+about-logging-menu =
+    .title = Options avancées
 
 ## Logging presets
 

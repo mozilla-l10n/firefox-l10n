@@ -562,6 +562,11 @@ mlmodel-link-preview = { -brand-short-name } l’utilise pour générer des poin
 mlmodel-pdfjs = { -brand-short-name } l’utilise pour créer le texte alternatif des images que vous ajoutez aux fichiers PDF
 mlmodel-smart-tab-topic-engine = { -brand-short-name } l’utilise pour suggérer les noms de vos groupes d’onglets
 mlmodel-smart-tab-embedding-engine = { -brand-short-name } l’utilise pour suggérer des onglets à ajouter à vos groupes d’onglets
+# AI Model will be downloaded on the users device and used locally
+addon-category-mlmodel = IA sur l’appareil
+addon-category-mlmodel-title =
+    .title = IA sur l’appareil
+mlmodel-heading = Gérer les modèles d’IA sur l’appareil
 mlmodel-description = Certaines fonctionnalités et extensions de { -brand-short-name } s’appuient sur des modèles d’IA qui fonctionnent localement sur votre appareil. Cette approche protège votre vie privée et, dans de nombreux cas, améliore les performances. <a data-l10n-name="learn-more">En savoir plus</a>
 # Label for button that when clicked removed local model
 mlmodel-remove-addon-button =
