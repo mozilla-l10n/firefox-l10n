@@ -55,7 +55,7 @@ about-reader-toolbar-lineheightplus =
 
 about-reader-font-type-serif = Serifni
 about-reader-font-type-sans-serif = Bezserifni
-about-reader-font-type-monospace = Monospace
+about-reader-font-type-monospace = Fiksne širine
 
 ## Reader View toolbar buttons
 
@@ -85,7 +85,7 @@ about-reader-custom-colors-visited-links = Posjećene poveznice
     .title = Uredi boju
 about-reader-custom-colors-selection-highlight = Marker za čitanje naglas
     .title = Uredi boju
-about-reader-reset-button = Obnovi standardne
+about-reader-reset-button = Obnovi standardne vrijednosti
 about-reader-custom-colors-foreground2 =
     .label = Tekst
     .title = Uredi boju
@@ -113,7 +113,7 @@ about-reader-font-weight-regular = Normalno
 about-reader-font-weight-bold = Podebljano
 about-reader-layout-header = Raspored
 about-reader-slider-label-spacing-standard = Standardno
-about-reader-slider-label-spacing-wide = Širok
+about-reader-slider-label-spacing-wide = Široko
 about-reader-content-width-label =
     .label = Širina sadržaja
 about-reader-line-spacing-label =
