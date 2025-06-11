@@ -61,6 +61,8 @@ add-engine-button = Añadir motor personalizado
 add-engine-name = Nombre del motor de búsqueda
 add-engine-url2 = URL con %s en lugar del término de búsqueda
 add-engine-keyword2 = Palabra clave (opcional)
+# POST and GET refer to the HTTP methods.
+add-engine-post-data = Datos POST con %s en lugar del término de búsqueda (dejar vacío para GET)
 add-engine-suggest-url = URL de sugerencias con %s en lugar del término de búsqueda (opcional)
 add-engine-keyword = Palabra clave
 add-engine-url = URL del motor, usa %s en lugar del término de búsqueda

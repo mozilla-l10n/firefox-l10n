@@ -47,3 +47,7 @@ experimental-features-link-previews-description-no-ai =
         [macos] Para aprender más acerca de una página web antes de hacer clic, pasa el cursor sobre un enlace y presiona Shift (⇧) m+as Option (⌥) o Alt. Las vistas previas pueden incluir detalles como el título y el tiempo de lectura. <a data-l10n-name="connect">Compartir comentarios</a>
        *[other] Para aprender más acerca de una página web antes de hacer clic, pasa el cursor sobre un enlace y presiona Shift + Alt. Las vistas previas pueden incluir detalles como el título y el tiempo de lectura. <a data-l10n-name="connect">Compartir comentarios</a>
     }
+# New Tab Sections with follow and block
+experimental-features-newtab-sections-follow-block =
+    .label = Secciones por tema y Seguir/Bloquear para nuevas historias
+experimental-features-newtab-sections-follow-block-description = Organiza las historias en tu página de Nueva Pestaña en secciones temáticas (Deportes, Gastronomía, Entretenimiento y más) para obtener una experiencia más estructurada y legible. Utiliza nuestros nuevos controles de Seguir y Bloquear para personalizar el contenido a visualizar. <a data-l10n-name="connect">Comparte tu opinión</a>.
