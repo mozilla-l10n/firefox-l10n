@@ -59,7 +59,7 @@ about-reader-font-type-monospace = Monospace
 
 ## Reader View toolbar buttons
 
-about-reader-toolbar-close = Zatvori pregled čitača
+about-reader-toolbar-close = Zatvori prikaz čitača
 about-reader-toolbar-type-controls = Kontrole tipova
 about-reader-toolbar-text-layout-controls = Tekst i raspored
 about-reader-toolbar-theme-controls = Tema
