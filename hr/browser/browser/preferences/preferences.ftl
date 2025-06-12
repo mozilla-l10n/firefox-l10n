@@ -1272,7 +1272,7 @@ content-blocking-known-and-suspected-fingerprinters = Poznati i sumnjivi prikupl
 # The tcp-rollout strings are no longer used for the rollout but for tcp-by-default in the standard section
 
 # "Contains" here means "isolates", "limits".
-content-blocking-etp-standard-tcp-rollout-description = Potpuna zaštita kolačića izolira kolačiće na stranicu koja ih je postavila, tako da ih programi za praćenje ne mogu koristiti da vas prate između stranica koje posjećujete.
+content-blocking-etp-standard-tcp-rollout-description = Potpuna zaštita kolačića izolira kolačiće na stranicu koja ih je postavila, tako da ih programi za praćenje ne mogu koristiti da te prate po stranicama koje posjećuješ.
 content-blocking-etp-standard-tcp-rollout-learn-more = Saznaj više
 content-blocking-etp-standard-tcp-title = Uključuje potpunu zaštitu kolačića, našu najmoćniju funkciju za privatnost ikada
 content-blocking-warning-title = Upozorenje!
