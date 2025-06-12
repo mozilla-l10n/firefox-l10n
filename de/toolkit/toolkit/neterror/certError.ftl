@@ -117,6 +117,10 @@ fp-learn-more-about-time-related-errors = Weitere Informationen über die Behebu
 ## Variables:
 ##   $hostname (string) - Hostname of the website with cert error.
 
+cert-error-revoked-certificate = { -brand-short-name } hat Ihren Besuch auf dieser Website blockiert, da das für { $hostname } bereitgestellte Zertifikat widerrufen wurde und ihm nicht mehr vertraut wird.
+cert-error-bad-signature = { -brand-short-name } hat Ihren Besuch auf dieser Website blockiert, da die Signatur des Zertifikats für { $hostname } nicht gültig ist.
+cert-error-key-pinning-failure = { -brand-short-name } hat Ihren Besuch auf dieser Website blockiert, weil das für { $hostname } bereitgestellte Zertifikat einen anderen öffentlichen Schlüssel verwendet als erwartet.
+cert-error-bad-der = { -brand-short-name } hat Ihren Besuch auf dieser Website blockiert, da das Zertifikat für { $hostname } nicht korrekt kodiert ist.
 
 ## Messages used for certificate error titles
 

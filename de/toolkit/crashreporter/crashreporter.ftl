@@ -51,3 +51,4 @@ crashreporter-error-no-home-dir = Fehlendes Benutzerverzeichnis
 # $to (String) - the destination path
 crashreporter-error-moving-path = { $from } konnte nicht nach { $to } verschoben werden
 crashreporter-error-version-eol = Ende der Lebensdauer der Version: Absturzberichte werden nicht mehr akzeptiert.
+crashreporter-error-failed-to-generate-minidump = Die Anwendung konnte keine Absturzinformationen generieren.

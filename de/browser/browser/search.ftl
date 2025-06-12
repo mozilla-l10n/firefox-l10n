@@ -96,3 +96,15 @@ add-engine-missing-terms-post-data = Versuchen Sie, anstelle des Suchbegriffs %s
 
 ## The following strings are used as labels for the dialog's buttons.
 
+# buttonlabelextra1 is the label of a button to open the advanced section
+# of the dialog.
+add-engine-dialog2 =
+    .buttonlabelaccept = Suchmaschine hinzufügen
+    .buttonaccesskeyaccept = h
+    .buttonlabelextra1 = Erweitert
+# buttonlabelextra1 is the label of a button to open the advanced section
+# of the dialog.
+edit-engine-dialog =
+    .buttonlabelaccept = Suchmaschine speichern
+    .buttonaccesskeyaccept = s
+    .buttonlabelextra1 = Erweitert

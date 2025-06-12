@@ -577,6 +577,9 @@ mlmodel-extension-label = Verwendet von der Erweiterung { $extensionName }
 
 ## Mapping Engine IDs from AI models to how that feature represented by the engine Id is described in the used by section in local model management
 
+mlmodel-about-inference = { -brand-short-name } verwendet dies bei about:inference
+mlmodel-link-preview = { -brand-short-name } verwendet dies, um wichtige Punkte in der Vorschau von Links zu generieren
+mlmodel-pdfjs = { -brand-short-name } verwendet dies, um Alternativ-Text für Grafiken zu erstellen, die Sie zu PDFs hinzufügen
 mlmodel-smart-tab-topic-engine = { -brand-short-name } verwendet dies, um Namen für Ihre Tab-Gruppen vorzuschlagen
 mlmodel-smart-tab-embedding-engine = { -brand-short-name } verwendet dies, um Tabs für Ihre Tab-Gruppen vorzuschlagen
 # Label for button that when clicked removed local model
@@ -587,3 +590,7 @@ mlmodel-addon-detail-totalsize-label = Dateigröße
 mlmodel-addon-detail-last-used-label = Zuletzt verwendet
 # This is a section label to describe what extensions or features use a specific local AI model
 mlmodel-addon-detail-used-by-label = Verwendet von
+# This is a section label to describe the link to the model card on the Hugging Face website
+mlmodel-addon-detail-model-card = Modellkarte
+# This is a label for the Model Card link to Hugging face
+mlmodel-addon-detail-model-card-link-label = Auf Hugging Face anschauen
