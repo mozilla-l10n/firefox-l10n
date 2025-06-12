@@ -185,6 +185,9 @@ downloads-details =
 
 ## These strings are displayed in the private browsing view of the downloads panel
 
+downloads-private-browsing-accept-button =
+    .label = Aikũmby
+    .accesskey = G
 
 ## Displayed when a site attempts to automatically download many files.
 ## Variables:
