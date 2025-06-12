@@ -18,7 +18,7 @@ site-data-column-cookies =
 site-data-column-storage =
     .label = Spremište
 site-data-column-last-used =
-    .label = Zadnje korišteno
+    .label = Zadnji put korišteno
 # This label is used in the "Host" column for local files, which have no host.
 site-data-local-file-host = (lokalna datoteka)
 site-data-remove-selected =
