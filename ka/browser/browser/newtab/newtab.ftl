@@ -574,4 +574,5 @@ newtab-trending-searches-show-trending =
     .title = ხშირად მოძიებულის ჩვენება
 newtab-trending-searches-hide-trending =
     .title = ხშირად მოძიებულის დამალვა
+newtab-trending-searches-learn-more = ვრცლად
 newtab-trending-searches-dismiss = ხშირად მოძიებულის დამალვა
