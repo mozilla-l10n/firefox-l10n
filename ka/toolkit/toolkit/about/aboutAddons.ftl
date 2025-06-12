@@ -500,6 +500,9 @@ shortcuts-heading = გაფართოებების ღილაკე�
 default-heading-search-label = სხვა დამატებების მონახვა
 addons-heading-search-input =
     .placeholder = addons.mozilla.org საიტზე მოძიება
+addons-heading-search-button =
+    .title = addons.mozilla.org საიტზე ძიება
+    .aria-label = addons.mozilla.org საიტზე ძიება
 addon-page-options-button =
     .title = ხელსაწყოები ყველა დამატებისთვის
 
