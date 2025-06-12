@@ -185,6 +185,9 @@ downloads-details =
 
 ## These strings are displayed in the private browsing view of the downloads panel
 
+downloads-private-browsing-details =
+    .title = 파일이 기기에 남아 있음
+downloads-private-browsing-message = 사생활 보호 창을 닫는 경우에도 이 기기를 사용하는 모든 사람은 다운로드 내역을 볼 수 있습니다.
 
 ## Displayed when a site attempts to automatically download many files.
 ## Variables:
