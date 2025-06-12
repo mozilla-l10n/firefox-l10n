@@ -187,6 +187,7 @@ downloads-details =
 
 downloads-private-browsing-details =
     .title = Os arquivos permanecem em seu dispositivo
+downloads-private-browsing-message = Qualquer um que use este dispositivo pode ver arquivos baixados, mesmo após fechar todas as janelas privativas.
 downloads-private-browsing-delete-button =
     .label = Excluir arquivos automaticamente
     .accesskey = x
