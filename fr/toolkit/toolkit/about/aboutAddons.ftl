@@ -485,6 +485,9 @@ shortcuts-heading = Gestion des raccourcis d’extensions
 default-heading-search-label = Découvrez davantage de modules
 addons-heading-search-input =
     .placeholder = Rechercher sur addons.mozilla.org
+addons-heading-search-button =
+    .title = Rechercher sur addons.mozilla.org
+    .aria-label = Rechercher sur addons.mozilla.org
 addon-page-options-button =
     .title = Outils pour tous les modules
 

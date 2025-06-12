@@ -22,7 +22,7 @@ content-blocking-cookies-view-blocked-label =
 #   $domain (String): the domain of the site.
 content-blocking-cookies-view-remove-button =
     .tooltiptext = Izbriši iznimku kolačića za { $domain }
-tracking-protection-icon-active = Blokira programe za praćenje društvenih medija, međustranične kolačiće za praćenje i prikupljače digitalnih otisaka.
+tracking-protection-icon-active = Blokira programe za praćenje od društvenih medija, međustranične kolačiće za praćenje i prikupljače digitalnih otisaka.
 tracking-protection-icon-active-container =
     .aria-label = { tracking-protection-icon-active }
 tracking-protection-icon-disabled = Pojačana zaštita od praćenja je ISKLJUČENA za ovu stranicu.
@@ -55,7 +55,7 @@ protections-blocking-cookies-unvisited =
 protections-blocking-tracking-content =
     .title = Sadržaj za praćenje je blokiran
 protections-blocking-social-media-trackers =
-    .title = Pratitelji društvenih mreža su blokirani
+    .title = Programi za praćenje od društvenih mreža
 protections-not-blocking-fingerprinters =
     .title = Ne blokira jedinstvene otiske
 protections-not-blocking-cryptominers =
@@ -69,7 +69,7 @@ protections-not-blocking-cross-site-tracking-cookies =
 protections-not-blocking-tracking-content =
     .title = Ne blokira sadržaj za praćenje
 protections-not-blocking-social-media-trackers =
-    .title = Ne blokira pratitelje društvenih mreža
+    .title = Ne blokira programe za praćenje od društvenih mreža
 
 ## Footer and Milestones sections in the Protections Panel
 ## Variables:

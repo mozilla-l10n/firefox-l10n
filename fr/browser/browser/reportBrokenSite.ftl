@@ -14,6 +14,9 @@ report-broken-site-panel-reason-choose =
     .label = Choisissez un motif
 report-broken-site-panel-reason-load =
     .label = Le site ne se charge pas
+# These terms are referring to ecommerce websites
+report-broken-site-panel-reason-checkout =
+    .label = Je ne peux pas payer ou faire des achats
 report-broken-site-panel-reason-slow2 =
     .label = Le site est lent
 report-broken-site-panel-reason-media2 =
