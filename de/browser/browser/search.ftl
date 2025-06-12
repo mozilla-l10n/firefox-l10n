@@ -61,6 +61,9 @@ add-engine-button = Benutzerdefinierte Suchmaschine hinzufügen
 add-engine-name = Name der Suchmaschine
 add-engine-url2 = URL mit %s anstelle des Suchbegriffs
 add-engine-keyword2 = Schlüsselwort (optional)
+# POST and GET refer to the HTTP methods.
+add-engine-post-data = POST-Daten mit %s anstelle des Suchbegriffs (für GET leer lassen)
+add-engine-suggest-url = Vorschlags-URL mit %s anstelle des Suchbegriffs (optional)
 add-engine-keyword = Schlüsselwort
 add-engine-url = Suchmaschinen-URL, %s anstelle des Suchbegriffs verwenden
 add-engine-dialog =
@@ -71,6 +74,8 @@ engine-keyword-exists = Eine Suchmaschine mit diesem Schlüsselwort existiert be
 
 ## The following placeholders are shown in the inputs when adding a new engine.
 
+add-engine-name-placeholder =
+    .placeholder = z. B. Mozilla Developer Network
 add-engine-url-placeholder =
     .placeholder = z. B. https://developer.mozilla.com/search?q=%s
 add-engine-keyword-placeholder =
@@ -81,6 +86,13 @@ add-engine-keyword-placeholder =
 add-engine-keyword-exists = Dieses Schlüsselwort wird bereits verwendet. Probieren Sie ein anderes aus.
 add-engine-name-exists = Dieser Name wird bereits verwendet. Bitte wählen Sie einen anderen aus.
 add-engine-no-name = Bitte fügen Sie einen Namen hinzu.
+add-engine-no-url = Bitte geben Sie eine Internetadresse ein.
+add-engine-invalid-url = Diese Adresse scheint nicht korrekt zu sein. Bitte überprüfen Sie diese und versuchen Sie es erneut.
+add-engine-invalid-protocol = Diese Adresse scheint nicht korrekt zu sein. Verwenden Sie eine Adresse, die mit http oder https beginnt.
+# This error is shown when the user typed URL is missing %s.
+add-engine-missing-terms-url = Versuchen Sie, anstelle des Suchbegriffs %s einzufügen.
+# This error is shown when the user typed post data is missing %s.
+add-engine-missing-terms-post-data = Versuchen Sie, anstelle des Suchbegriffs %s einzufügen.
 
 ## The following strings are used as labels for the dialog's buttons.
 

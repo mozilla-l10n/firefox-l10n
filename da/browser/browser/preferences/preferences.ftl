@@ -361,6 +361,9 @@ download-choose-folder =
 download-always-ask-where =
     .label = Spørg mig altid, hvor filer skal gemmes
     .accesskey = a
+download-private-browsing-delete =
+    .label = Slet filer hentet i privat browsing, når alle private vinduer bliver lukket
+    .accesskey = S
 applications-header = Programmer
 applications-description = Vælg, hvordan { -brand-short-name } håndterer hentede filer og eksterne programmer.
 applications-filter =
@@ -653,6 +656,7 @@ home-prefs-weather-description = Dagens vejrudsigt
 home-prefs-weather-learn-more-link = Lær mere
 home-prefs-trending-search-header =
     .label = Populære søgninger
+home-prefs-trending-search-description = Populære og ofte søgte emner
 # "Support" here means to help sustain or contribute to something, especially through funding or sponsorship.
 home-prefs-support-firefox-header =
     .label = Støt { -brand-product-name }
