@@ -571,3 +571,7 @@ newtab-toast-thanks-for-reporting =
 newtab-trending-searches-trending-on-google = Ҳавасангез дар «Google»
 newtab-trending-searches-show-trending =
     .title = Намоиш додани ҷустуҷӯҳои ҳавасангез
+newtab-trending-searches-hide-trending =
+    .title = Пинҳон кардани ҷустуҷӯҳои ҳавасангез
+newtab-trending-searches-learn-more = Маълумоти бештар
+newtab-trending-searches-dismiss = Пинҳон кардани ҷустуҷӯҳои ҳавасангез
