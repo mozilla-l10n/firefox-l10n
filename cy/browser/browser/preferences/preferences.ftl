@@ -667,7 +667,7 @@ home-prefs-weather-header =
 home-prefs-weather-description = Cipolwg ar ragolygon tywydd heddiw
 home-prefs-weather-learn-more-link = Rhagor
 home-prefs-trending-search-header =
-    .label = Chwilio sy'n trendio
+    .label = Tueddiadau chwilio
 home-prefs-trending-search-description = Pynciau chwilio aml a phoblogaidd
 # "Support" here means to help sustain or contribute to something, especially through funding or sponsorship.
 home-prefs-support-firefox-header =

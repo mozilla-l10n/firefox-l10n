@@ -507,6 +507,9 @@ shortcuts-heading = Rheoli Estyniad Llwybrau Byr
 default-heading-search-label = Canfod rhagor o ychwanegion
 addons-heading-search-input =
     .placeholder = Search addons.mozilla.org
+addons-heading-search-button =
+    .title = Chwilio addons.mozilla.org
+    .aria-label = Chwilio addons.mozilla.org
 addon-page-options-button =
     .title = Offer ar gyfer pob ychwanegyn
 
