@@ -686,6 +686,8 @@ urlbar-result-action-visit = 방문
 # Variables
 # $container (String): the name of the target container
 urlbar-result-action-switch-tab-with-container = 탭 전환 · <span>{ $container }</span>
+# Used when the target tab is in a tab group that doesn't have a label.
+urlbar-result-action-tab-group-unnamed = 이름없는 그룹
 # Allows the user to visit a URL that was previously copied to the clipboard.
 urlbar-result-action-visit-from-clipboard = 클립보드에서 방문
 # Directs a user to press the Tab key to perform a search with the specified

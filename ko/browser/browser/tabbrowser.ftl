@@ -231,8 +231,8 @@ tab-group-editor-color-selector2-red = 빨간색
 #                          of tab-group-name-default.
 tab-group-description = { $tabGroupName } — 탭 그룹
 tab-context-unnamed-group =
-    .label = 익명 그룹
-tab-group-name-default = 익명 그룹
+    .label = 이름없는 그룹
+tab-group-name-default = 이름없는 그룹
 
 ## Variables:
 ##  $tabCount (Number): the number of tabs that are affected by the action.
