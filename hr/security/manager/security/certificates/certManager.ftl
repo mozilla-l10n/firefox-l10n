@@ -156,7 +156,7 @@ temporary-override = Privremeno
 
 ## Add Security Exception dialog
 
-add-exception-branded-warning = Promijenit ćeš na način na koji { -brand-short-name } identificira ovu web stranicu.
+add-exception-branded-warning = Promijenit ćeš način na koji { -brand-short-name } identificira ovu web stranicu.
 add-exception-invalid-header = Ova se stranica pokušava identificirati s neispravnim informacijama.
 add-exception-domain-mismatch-short = Pogrešna stranica
 add-exception-domain-mismatch-long = Certifikat pripada drugoj stranici, što može značiti da netko pokušava krivotvoriti ovu stranicu.

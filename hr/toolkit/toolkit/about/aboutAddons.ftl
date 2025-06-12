@@ -225,7 +225,7 @@ shortcuts-modifier-mac = Uključi Ctrl, Alt ili ⌘
 shortcuts-modifier-other = Uključi Ctrl ili Alt
 shortcuts-invalid = Nepodržana kombinacija
 shortcuts-letter = Upiši slovo
-shortcuts-system = Nije moguće izmijeniti { -brand-short-name } prečac
+shortcuts-system = Nije moguće zamijeniti { -brand-short-name } prečac
 # String displayed in warning label when there is a duplicate shortcut
 shortcuts-duplicate = Duplikat prečice
 # String displayed when a keyboard shortcut is already assigned to more than one add-on
