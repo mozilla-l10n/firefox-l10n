@@ -183,6 +183,9 @@ downloads-history =
 downloads-details =
     .title = 下載項目詳情
 
+## These strings are displayed in the private browsing view of the downloads panel
+
+
 ## Displayed when a site attempts to automatically download many files.
 ## Variables:
 ##   $num (number) - Number of blocked downloads.
@@ -190,8 +193,8 @@ downloads-details =
 
 downloads-files-not-downloaded =
     { $num ->
-       *[one] 未下載檔案。
         [other] 未下載 { $num } 個檔案。
+       *[one] 未下載檔案。
     }
 downloads-blocked-from-url = 封鎖了來自 { $url } 的下載項目。
 downloads-blocked-download-detailed-info = { $url } 嘗試自動下載多個檔案，可能是這個網站發生問題，或是嘗試在您的電腦上亂儲存無用擋案。

@@ -558,3 +558,6 @@ newtab-report-cancel = 取消
 newtab-report-submit = 提交
 newtab-toast-thanks-for-reporting =
     .message = 感谢反馈。
+
+## Strings for trending searches
+

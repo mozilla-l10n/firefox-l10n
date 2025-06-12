@@ -53,6 +53,9 @@ downloads-cmd-retry-panel =
 downloads-retry-download =
     .value = B'an unpajte ti' teq'ol ku'tzan
 
+## These strings are displayed in the private browsing view of the downloads panel
+
+
 ## Displayed when a site attempts to automatically download many files.
 ## Variables:
 ##   $num (number) - Number of blocked downloads.

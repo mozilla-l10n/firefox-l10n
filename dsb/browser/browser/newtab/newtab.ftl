@@ -565,3 +565,6 @@ newtab-report-cancel = Pśetergnuś
 newtab-report-submit = Wótpósłaś
 newtab-toast-thanks-for-reporting =
     .message = Wjeliki źěk, až sćo dał to k wěsći.
+
+## Strings for trending searches
+

@@ -562,3 +562,6 @@ newtab-report-cancel = Heja
 newtab-report-submit = Mondo
 newtab-toast-thanks-for-reporting =
     .message = Aguyje emomarandu haguére.
+
+## Strings for trending searches
+

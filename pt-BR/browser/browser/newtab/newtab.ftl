@@ -559,3 +559,6 @@ newtab-report-cancel = Cancelar
 newtab-report-submit = Enviar
 newtab-toast-thanks-for-reporting =
     .message = Obrigado por informar isto.
+
+## Strings for trending searches
+

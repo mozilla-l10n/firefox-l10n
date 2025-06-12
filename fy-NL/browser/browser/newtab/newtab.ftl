@@ -563,3 +563,6 @@ newtab-report-cancel = Annulearje
 newtab-report-submit = Yntsjinje
 newtab-toast-thanks-for-reporting =
     .message = Tank foar it melden.
+
+## Strings for trending searches
+

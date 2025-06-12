@@ -565,3 +565,6 @@ newtab-report-cancel = Přetorhnyć
 newtab-report-submit = Wotpósłać
 newtab-toast-thanks-for-reporting =
     .message = Wulki dźak, zo sće to zdźělił.
+
+## Strings for trending searches
+

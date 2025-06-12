@@ -563,3 +563,6 @@ newtab-report-cancel = Mégse
 newtab-report-submit = Elküldés
 newtab-toast-thanks-for-reporting =
     .message = Köszönjük, hogy bejelentette.
+
+## Strings for trending searches
+

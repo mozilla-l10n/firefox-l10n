@@ -196,7 +196,7 @@ urlbar-result-menu-manage-firefox-suggest =
 # detected by Firefox (e.g., weather suggestions), and this menu item lets the
 # user tell Firefox that the location is not accurate. Typically the location
 # will be a city name, or a city name combined with the name of its parent
-# administrative region (e.g., a province, prefecture, or state).
+# administrative division (e.g., a province, prefecture, or state).
 urlbar-result-menu-report-inaccurate-location =
     .label = തെറ്റായയിടമെന്നു് അറിയിക്കുക
 urlbar-result-menu-show-less-frequently =

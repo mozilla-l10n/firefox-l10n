@@ -183,6 +183,9 @@ downloads-history =
 downloads-details =
     .title = 下载详情
 
+## These strings are displayed in the private browsing view of the downloads panel
+
+
 ## Displayed when a site attempts to automatically download many files.
 ## Variables:
 ##   $num (number) - Number of blocked downloads.
@@ -190,8 +193,8 @@ downloads-details =
 
 downloads-files-not-downloaded =
     { $num ->
-       *[one] 未下载文件。
         [other] 未下载 { $num } 个文件。
+       *[one] 未下载文件。
     }
 downloads-blocked-from-url = 已阻止来自 { $url } 的多个下载。
 downloads-blocked-download-detailed-info = { $url } 尝试自动下载多个文件。该网站可能临时异常，或是试图在您的设备上存储垃圾文件。

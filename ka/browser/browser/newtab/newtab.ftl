@@ -562,3 +562,6 @@ newtab-report-cancel = გაუქმება
 newtab-report-submit = გაგზავნა
 newtab-toast-thanks-for-reporting =
     .message = გმადლობთ, რომ მოგვახსენეთ.
+
+## Strings for trending searches
+

@@ -183,6 +183,9 @@ downloads-history =
 downloads-details =
     .title = 다운로드 상세 정보
 
+## These strings are displayed in the private browsing view of the downloads panel
+
+
 ## Displayed when a site attempts to automatically download many files.
 ## Variables:
 ##   $num (number) - Number of blocked downloads.

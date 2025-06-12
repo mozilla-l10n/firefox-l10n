@@ -133,6 +133,9 @@ downloads-history =
 downloads-details =
     .title = Detalles de la descarga
 
+## These strings are displayed in the private browsing view of the downloads panel
+
+
 ## Displayed when a site attempts to automatically download many files.
 ## Variables:
 ##   $num (number) - Number of blocked downloads.
