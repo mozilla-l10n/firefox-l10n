@@ -490,6 +490,9 @@ shortcuts-heading = Hantera genvägar för tillägg
 default-heading-search-label = Hitta fler tillägg
 addons-heading-search-input =
     .placeholder = Sök på addons.mozilla.org
+addons-heading-search-button =
+    .title = Sök på addons.mozilla.org
+    .aria-label = Sök på addons.mozilla.org
 addon-page-options-button =
     .title = Verktyg för alla tillägg
 
