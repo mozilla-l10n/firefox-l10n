@@ -5,3 +5,4 @@
 # Breadcrumb is a navigational aid that shows users their current location within a menu hierarchy and allows easy navigation back to previous levels.
 moz-breadcrumb-group-nav =
     .aria-label = Barra di navigazione
+
