@@ -121,6 +121,18 @@ cert-error-revoked-certificate = { -brand-short-name } hat Ihren Besuch auf dies
 cert-error-bad-signature = { -brand-short-name } hat Ihren Besuch auf dieser Website blockiert, da die Signatur des Zertifikats für { $hostname } nicht gültig ist.
 cert-error-key-pinning-failure = { -brand-short-name } hat Ihren Besuch auf dieser Website blockiert, weil das für { $hostname } bereitgestellte Zertifikat einen anderen öffentlichen Schlüssel verwendet als erwartet.
 cert-error-bad-der = { -brand-short-name } hat Ihren Besuch auf dieser Website blockiert, da das Zertifikat für { $hostname } nicht korrekt kodiert ist.
+cert-error-cert-not-in-name-space = { -brand-short-name } hat Ihren Besuch auf dieser Website blockiert, weil das für { $hostname } bereitgestellte Zertifikat nicht den Namensbeschränkungen eines Zertifikats entspricht, das es ausgestellt hat.
+cert-error-inadequate-cert-type = { -brand-short-name } hat Ihren Besuch auf dieser Website blockiert, weil das für { $hostname } bereitgestellte Zertifikat nicht von einem Web-Server verwendet werden darf.
+cert-error-path-len-constraint-invalid = { -brand-short-name } hat Ihren Besuch auf dieser Website blockiert, weil das für { $hostname } bereitgestellte Zertifikat zu viele Zwischenzertifikate im Pfad zum Stammzertifikat hat.
+cert-error-invalid-key = { -brand-short-name } hat Ihren Besuch auf dieser Website blockiert, da das Zertifikat für { $hostname } einen ungültigen Schlüssel enthält. Höchstwahrscheinlich ist er zu klein, um sicher zu sein.
+cert-error-unknown-critical-extension = { -brand-short-name } hat Ihren Besuch auf dieser Website blockiert, da das für { $hostname } bereitgestellte Zertifikat eine nicht unterstützte kritische Erweiterung enthält.
+cert-error-extension-value-invalid = { -brand-short-name } hat Ihren Besuch auf dieser Website blockiert, da das für { $hostname } bereitgestellte Zertifikat eine ungültige Erweiterung enthält.
+cert-error-untrusted-issuer = { -brand-short-name } hat Ihren Besuch auf dieser Website blockiert, weil das für { $hostname } bereitgestellte Zertifikat von einer Zertifizierungsstelle ausgestellt wurde, der nicht mehr vertraut wird.
+cert-error-untrusted-cert = { -brand-short-name } hat Ihren Besuch auf dieser Website blockiert, weil das Zertifikat für { $hostname } als nicht vertrauenswürdig markiert ist.
+cert-error-invalid-integer-encoding = { -brand-short-name } hat Ihren Besuch auf dieser Website blockiert, da das bereitgestellte Zertifikat für { $hostname } die ungültige Kodierung einer ganzen Zahl enthält. Häufige Ursachen sind negative Seriennummern, negative RSA-Module und Kodierungen, die länger als notwendig sind.
+cert-error-unsupported-keyalg = { -brand-short-name } hat Ihren Besuch auf dieser Website blockiert, weil das Zertifikat für { $hostname } einen nicht unterstützten Schlüsseltyp hat.
+cert-error-issuer-no-longer-trusted = { -brand-short-name } hat Ihren Besuch auf dieser Website blockiert, weil der Zertifizierungsstelle, die das Zertifikat für { $hostname } ausgestellt hat, nicht mehr vertraut wird.
+cert-error-signature-algorithm-mismatch = { -brand-short-name } hat Ihren Besuch auf dieser Website blockiert, da der Signatur-Algorithmus des Zertifikats, das für { $hostname } bereitgestellt wurde, nicht mit dem Signatur-Algorithmus-Feld übereinstimmt.
 
 ## Messages used for certificate error titles
 
