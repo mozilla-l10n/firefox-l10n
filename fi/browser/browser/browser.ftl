@@ -691,6 +691,8 @@ urlbar-result-action-visit = Avaa
 # Variables
 # $container (String): the name of the target container
 urlbar-result-action-switch-tab-with-container = Vaihda välilehteen · <span>{ $container }</span>
+# Used when the target tab is in a tab group that doesn't have a label.
+urlbar-result-action-tab-group-unnamed = Nimetön ryhmä
 # Allows the user to visit a URL that was previously copied to the clipboard.
 urlbar-result-action-visit-from-clipboard = Siirry leikepöydällä olevaan osoitteeseen
 # Directs a user to press the Tab key to perform a search with the specified
@@ -728,6 +730,25 @@ urlbar-result-action-undefined-calculator-result = määrittämätön
 #  $result (String): the string representation for a result in scientific notation
 #  (e.g. "1.0e17").
 urlbar-result-action-calculator-result-scientific-notation = = { $result }
+# The title of a weather suggestion in the urlbar. The temperature and unit
+# substring should be inside a <strong> tag. If the temperature and unit are not
+# adjacent in the localization, it's OK to include only the temperature in the
+# tag.
+# Variables:
+#   $temperature (number) - The temperature value
+#   $unit (String) - The unit for the temperature, either "C" or "F"
+#   $city (String) - The name of the city the weather data is for
+#   $region (String) - The name of the city's region. Depending on the user's
+#       location in relation to the city, this may be the name or abbreviation
+#       of one of the city's administrative divisions like a province or state,
+#       or it may be the name of the city's country.
+urlbar-result-weather-title = <strong>{ $temperature }°{ $unit }</strong>, { $city }, { $region }
+# Shows the name of the provider of weather data in a weather suggestion in the
+# urlbar.
+# Variables:
+#   $provider (String) - The name of the weather-data provider. It will be the
+#       name of a company, organization, or service.
+urlbar-result-weather-provider-sponsored = { $provider } · Sponsoroitu
 
 ## Strings used for buttons in the urlbar
 
@@ -1252,3 +1273,5 @@ file-picker-crashed-show-in-folder =
 ## Onboarding Finish Setup checklist
 
 onboarding-checklist-button-label = Viimeistele määritys
+onboarding-finish-setup-button-label =
+    .label = Viimeistele määritys

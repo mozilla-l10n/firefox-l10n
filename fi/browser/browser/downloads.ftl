@@ -185,6 +185,8 @@ downloads-details =
 
 ## These strings are displayed in the private browsing view of the downloads panel
 
+downloads-private-browsing-details =
+    .title = Tiedostot pysyvät laitteellasi
 
 ## Displayed when a site attempts to automatically download many files.
 ## Variables:
