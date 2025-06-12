@@ -494,6 +494,9 @@ shortcuts-heading = Gerenciar atalhos de extensões
 default-heading-search-label = Encontrar mais extensões
 addons-heading-search-input =
     .placeholder = Pesquisar em addons.mozilla.org
+addons-heading-search-button =
+    .title = Pesquisar em addons.mozilla.org
+    .aria-label = Pesquisar em addons.mozilla.org
 addon-page-options-button =
     .title = Ferramentas para todas as extensões
 
