@@ -188,6 +188,12 @@ downloads-details =
 downloads-private-browsing-details =
     .title = 파일이 기기에 남아 있음
 downloads-private-browsing-message = 사생활 보호 창을 닫는 경우에도 이 기기를 사용하는 모든 사람은 다운로드 내역을 볼 수 있습니다.
+downloads-private-browsing-delete-button =
+    .label = 자동으로 파일 삭제
+    .accesskey = D
+downloads-private-browsing-accept-button =
+    .label = 확인
+    .accesskey = G
 
 ## Displayed when a site attempts to automatically download many files.
 ## Variables:
