@@ -496,6 +496,9 @@ shortcuts-heading = Tastowe skrótšenki rozšěrjenjow rjadować
 default-heading-search-label = Dalše přidatki pytać
 addons-heading-search-input =
     .placeholder = Na addons.mozilla.org pytać
+addons-heading-search-button =
+    .title = addons.mozilla.org přepytać
+    .aria-label = addons.mozilla.org přepytać
 addon-page-options-button =
     .title = Nastroje za wšě přidatki
 

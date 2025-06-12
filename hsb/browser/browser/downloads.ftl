@@ -187,7 +187,7 @@ downloads-details =
 
 downloads-private-browsing-details =
     .title = Dataje na wašim graće wostawaja
-downloads-private-browsing-message = Kóždy, kiž tutón grat wužiwa, móže sćehnjenja widźiće, samo hdyž wšě priwatne wokna začinjeće.
+downloads-private-browsing-message = Kóždy, kiž tutón grat wužiwa, móže sćehnjenja widźeć, samo hdyž wšě priwatne wokna začinjeće.
 downloads-private-browsing-delete-button =
     .label = Dataje awtomatisce zhašeć
     .accesskey = h

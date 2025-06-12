@@ -185,6 +185,15 @@ downloads-details =
 
 ## These strings are displayed in the private browsing view of the downloads panel
 
+downloads-private-browsing-details =
+    .title = Dataje na wašom rěźe wóstawaju
+downloads-private-browsing-message = Kuždy, kenž toś ten rěd wužywa, móžo ześěgnjenja wiźeś, samo gaby wšykne priwatne wokna zacynjaśo.
+downloads-private-browsing-delete-button =
+    .label = Dataje awtomatiski lašowaś
+    .accesskey = l
+downloads-private-browsing-accept-button =
+    .label = Som zrozměł
+    .accesskey = z
 
 ## Displayed when a site attempts to automatically download many files.
 ## Variables:
