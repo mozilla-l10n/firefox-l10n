@@ -105,7 +105,7 @@ extension-controlling-privacy-containers = <img data-l10n-name="icon"/> <strong>
 extension-controlling-websites-content-blocking-all-trackers = <img data-l10n-name="icon"/> <strong>{ $name }</strong> kontrolira ovu postavku.
 # This string is shown to notify the user that their proxy configuration preferences
 # are being controlled by an extension.
-extension-controlling-proxy-config = <img data-l10n-name ="icon"/> <strong>{ $name }</strong> kontrolira kako se { -brand-short-name } povezuje na Internet.
+extension-controlling-proxy-config = <img data-l10n-name ="icon"/> <strong>{ $name }</strong> kontrolira kako se { -brand-short-name } povezuje na internet.
 # This string is shown after the user disables an extension to notify the user
 # how to enable an extension that they disabled.
 #
@@ -566,7 +566,7 @@ browsing-cfr-recommendations-learn-more = Saznaj više
 ## General Section - Proxy
 
 network-settings-title = Postavke mreže
-network-proxy-connection-description = Postavi kako se { -brand-short-name } spaja na Internet.
+network-proxy-connection-description = Postavi kako se { -brand-short-name } spaja na internet.
 network-proxy-connection-learn-more = Saznaj više
 network-proxy-connection-settings =
     .label = Postavke …
@@ -1186,7 +1186,7 @@ addressbar-locbar-clipboard-option =
     .label = Međuspremnik
     .accesskey = M
 addressbar-locbar-openpage-option =
-    .label = Otvori kartice
+    .label = Otvorene kartice
     .accesskey = O
 # Shortcuts refers to the shortcut tiles on the new tab page, previously known as top sites. Translation should be consistent.
 addressbar-locbar-shortcuts-option =
