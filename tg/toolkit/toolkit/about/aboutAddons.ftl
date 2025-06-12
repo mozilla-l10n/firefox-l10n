@@ -497,6 +497,9 @@ shortcuts-heading = Идоракунии миёнбурҳои васеъшавӣ
 default-heading-search-label = Ёфтани ҷузъҳои иловагии бештар
 addons-heading-search-input =
     .placeholder = Ҷустуҷӯ дар addons.mozilla.org
+addons-heading-search-button =
+    .title = Ҷустуҷӯ дар addons.mozilla.org
+    .aria-label = Ҷустуҷӯ дар addons.mozilla.org
 addon-page-options-button =
     .title = Абзорҳо барои ҳамаи ҷузъҳои иловагӣ
 
