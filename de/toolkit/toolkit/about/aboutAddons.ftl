@@ -502,6 +502,9 @@ shortcuts-heading = Tastenkombinationen von Erweiterungen verwalten
 default-heading-search-label = Weitere Add-ons finden
 addons-heading-search-input =
     .placeholder = Auf addons.mozilla.org suchen
+addons-heading-search-button =
+    .title = Auf addons.mozilla.org suchen
+    .aria-label = Auf addons.mozilla.org suchen
 addon-page-options-button =
     .title = Werkzeuge für alle Add-ons
 

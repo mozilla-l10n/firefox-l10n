@@ -566,3 +566,4 @@ newtab-toast-thanks-for-reporting =
 
 ## Strings for trending searches
 
+newtab-trending-searches-learn-more = Weitere Informationen
