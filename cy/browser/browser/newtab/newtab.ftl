@@ -578,3 +578,7 @@ newtab-toast-thanks-for-reporting =
 newtab-trending-searches-trending-on-google = Yn trendio ar Google
 newtab-trending-searches-show-trending =
     .title = Dangos y chwilio sy'n trendio
+newtab-trending-searches-hide-trending =
+    .title = Cuddio'r chwilio sy'n trendio
+newtab-trending-searches-learn-more = Dysgu rhagor
+newtab-trending-searches-dismiss = Cuddio'r chwilio sy'n trendio
