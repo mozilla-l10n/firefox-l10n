@@ -507,6 +507,9 @@ shortcuts-heading = Håndter genveje til dine udvidelser
 default-heading-search-label = Find flere udvidelser
 addons-heading-search-input =
     .placeholder = Søg på addons.mozilla.org
+addons-heading-search-button =
+    .title = Søg på addons.mozilla.org
+    .aria-label = Søg på addons.mozilla.org
 addon-page-options-button =
     .title = Indstillinger for alle tilføjelser
 

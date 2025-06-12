@@ -651,6 +651,8 @@ home-prefs-weather-header =
     .label = Vejr
 home-prefs-weather-description = Dagens vejrudsigt
 home-prefs-weather-learn-more-link = Lær mere
+home-prefs-trending-search-header =
+    .label = Populære søgninger
 # "Support" here means to help sustain or contribute to something, especially through funding or sponsorship.
 home-prefs-support-firefox-header =
     .label = Støt { -brand-product-name }
