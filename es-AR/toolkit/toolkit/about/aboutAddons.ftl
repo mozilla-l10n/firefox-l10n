@@ -496,6 +496,9 @@ shortcuts-heading = Administrar accesos directos de extensión
 default-heading-search-label = Buscar más complementos
 addons-heading-search-input =
     .placeholder = Buscar en addons.mozilla.org
+addons-heading-search-button =
+    .title = Buscar en addons.mozilla.org
+    .aria-label = Buscar en addons.mozilla.org
 addon-page-options-button =
     .title = Herramientas para todos los complementos
 
