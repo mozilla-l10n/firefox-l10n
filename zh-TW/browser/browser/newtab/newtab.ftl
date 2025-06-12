@@ -312,6 +312,9 @@ newtab-custom-recent-toggle =
 newtab-custom-weather-toggle =
     .label = 天氣
     .description = 快速了解本日天氣
+newtab-custom-trending-search-toggle =
+    .label = 熱門搜尋
+    .description = 熱門與常見搜尋主題
 newtab-custom-close-button = 關閉
 newtab-custom-settings = 管理更多設定
 
@@ -562,3 +565,10 @@ newtab-toast-thanks-for-reporting =
 
 ## Strings for trending searches
 
+# "Trending on Google" refers to the trending topics coming from Google Search, usually seen when a user is focused on the search bar
+newtab-trending-searches-trending-on-google = Google 上的熱門搜尋主題
+newtab-trending-searches-show-trending =
+    .title = 顯示熱門搜尋主題
+newtab-trending-searches-hide-trending =
+    .title = 隱藏熱門搜尋主題
+newtab-trending-searches-learn-more = 更多資訊
