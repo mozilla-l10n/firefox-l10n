@@ -756,6 +756,12 @@ urlbar-result-action-calculator-result-decimal = = { NUMBER($result, maximumSign
 #       of one of the city's administrative divisions like a province or state,
 #       or it may be the name of the city's country.
 urlbar-result-weather-title = <strong>{ $temperature }°{ $unit }</strong> en { $city }, { $region }
+# Shows the name of the provider of weather data in a weather suggestion in the
+# urlbar.
+# Variables:
+#   $provider (String) - The name of the weather-data provider. It will be the
+#       name of a company, organization, or service.
+urlbar-result-weather-provider-sponsored = { $provider } · Patrocinado
 
 ## Strings used for buttons in the urlbar
 
@@ -1278,3 +1284,5 @@ file-picker-crashed-show-in-folder =
 ## Onboarding Finish Setup checklist
 
 onboarding-checklist-button-label = Finalizar configuración
+onboarding-finish-setup-button-label =
+    .label = Finalizar configuración
