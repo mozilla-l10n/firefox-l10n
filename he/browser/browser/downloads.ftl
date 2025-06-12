@@ -218,6 +218,15 @@ downloads-details =
 
 ## These strings are displayed in the private browsing view of the downloads panel
 
+downloads-private-browsing-details =
+    .title = הקבצים נשארים במכשיר שלך
+downloads-private-browsing-message = כל מי שמשתמש במכשיר הזה יכול לראות את ההורדות, גם לאחר סגירת כל החלונות הפרטיים.
+downloads-private-browsing-delete-button =
+    .label = מחיקת קבצים באופן אוטומטי
+    .accesskey = מ
+downloads-private-browsing-accept-button =
+    .label = הבנתי
+    .accesskey = ה
 
 ## Displayed when a site attempts to automatically download many files.
 ## Variables:
