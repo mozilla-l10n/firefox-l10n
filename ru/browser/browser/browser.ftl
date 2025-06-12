@@ -695,6 +695,8 @@ urlbar-result-action-visit = Посетить
 # Variables
 # $container (String): the name of the target container
 urlbar-result-action-switch-tab-with-container = Перейти на вкладку · <span>{ $container }</span>
+# Used when the target tab is in a tab group that doesn't have a label.
+urlbar-result-action-tab-group-unnamed = Безымянная группа
 # Allows the user to visit a URL that was previously copied to the clipboard.
 urlbar-result-action-visit-from-clipboard = Посетить из буфера обмена
 # Directs a user to press the Tab key to perform a search with the specified

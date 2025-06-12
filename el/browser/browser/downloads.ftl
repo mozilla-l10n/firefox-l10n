@@ -185,6 +185,15 @@ downloads-details =
 
 ## These strings are displayed in the private browsing view of the downloads panel
 
+downloads-private-browsing-details =
+    .title = Τα αρχεία παραμένουν στη συσκευή σας
+downloads-private-browsing-message = Όλοι όσοι χρησιμοποιούν αυτήν τη συσκευή θα μπορούν να δουν τις λήψεις, ακόμα και όταν κλείσετε όλα τα ιδιωτικά παράθυρα.
+downloads-private-browsing-delete-button =
+    .label = Αυτόματη διαγραφή αρχείων
+    .accesskey = Α
+downloads-private-browsing-accept-button =
+    .label = Το κατάλαβα
+    .accesskey = Τ
 
 ## Displayed when a site attempts to automatically download many files.
 ## Variables:
