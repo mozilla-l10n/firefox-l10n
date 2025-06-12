@@ -91,6 +91,7 @@ perftools-onboarding-message = <b>Novo</b>: { -profiler-brand-name } je sada int
 # The same labels and descriptions are also defined in appmenu.ftl.
 
 perftools-presets-web-developer-label = Web programer
+perftools-presets-web-developer-description = Preporučena unaprijed postavljena postavka za otklanjanje grešaka u većini web aplikacija, s niskom potrošnjom resursa.
 perftools-presets-firefox-label = { -brand-shorter-name }
 perftools-presets-firefox-description = Preporučena zadana postavka za profiliranje { -brand-shorter-name(case: "gen") }.
 perftools-presets-graphics-label = Slike
@@ -100,7 +101,7 @@ perftools-presets-media-description2 = Zadana postavka za istraživanje audio i 
 perftools-presets-networking-label = Mrežno povezivanje
 perftools-presets-networking-description = Zadana postavka za istraživanje grešaka mrežnog povezivanja u { -brand-shorter-name(case: "loc") }.
 # "Power" is used in the sense of energy (electricity used by the computer).
-perftools-presets-power-label = Struja
+perftools-presets-power-label = Energija
 perftools-presets-power-description = Zadana postavka za istraživanje grešaka potrošnje energije u { -brand-shorter-name(case: "loc") }.
 perftools-presets-debug-label = Otklanjanje grešaka
 perftools-presets-debug-description = Preporučene postavke za otklanjanje grešaka u { -brand-shorter-name(case: "loc") }. Visoko opterećenje, nemoj koristiti za rad koji zahtijeva performanse, već za fokusiranje na razumijevanje ponašanja preglednika.

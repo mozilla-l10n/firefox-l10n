@@ -184,7 +184,7 @@ profiler-popup-capture-shortcut =
 # devtools/client/performance-new/shared/background.sys.mjs
 # Please take care that the same values are also defined in devtools' perftools.ftl.
 
-profiler-popup-presets-web-developer-description = Preporučene postavke za većinu otklanjanja pogrešaka u web aplikacijama s malim opterećenjem.
+profiler-popup-presets-web-developer-description = Preporučena unaprijed postavljena postavka za otklanjanje grešaka u većini web aplikacija, s niskom potrošnjom resursa.
 profiler-popup-presets-web-developer-label =
     .label = Web programer
 profiler-popup-presets-firefox-description = Preporučena zadana postavka za profiliranje { -brand-shorter-name(case: "gen") }.
@@ -202,7 +202,7 @@ profiler-popup-presets-networking-label =
 profiler-popup-presets-power-description = Zadana postavka za istraživanje grešaka potrošnje energije u { -brand-shorter-name(case: "loc") }.
 # "Power" is used in the sense of energy (electricity used by the computer).
 profiler-popup-presets-power-label =
-    .label = Struja
+    .label = Energija
 profiler-popup-presets-debug-description = Preporučene postavke za otklanjanje grešaka u { -brand-shorter-name(case: "loc") }. Visoko opterećenje, nemoj koristiti za rad koji zahtijeva performanse, već za fokusiranje na razumijevanje ponašanja preglednika.
 profiler-popup-presets-debug-label =
     .label = Otklanjanje grešaka
