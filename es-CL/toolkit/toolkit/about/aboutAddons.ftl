@@ -480,6 +480,9 @@ shortcuts-heading = Gestionar atajos de extensiones
 default-heading-search-label = Encuentra más complementos
 addons-heading-search-input =
     .placeholder = Buscar en addons.mozilla.org
+addons-heading-search-button =
+    .title = Buscar en addons.mozilla.org
+    .aria-label = Buscar en addons.mozilla.org
 addon-page-options-button =
     .title = Herramientas para todos los complementos
 

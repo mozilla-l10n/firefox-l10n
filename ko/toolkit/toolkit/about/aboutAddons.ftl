@@ -490,6 +490,9 @@ shortcuts-heading = 확장 기능 단축키 관리
 default-heading-search-label = 부가 기능 더 찾기
 addons-heading-search-input =
     .placeholder = addons.mozilla.org 검색
+addons-heading-search-button =
+    .title = addons.mozilla.org 검색
+    .aria-label = addons.mozilla.org 검색
 addon-page-options-button =
     .title = 부가 기능 도구
 
