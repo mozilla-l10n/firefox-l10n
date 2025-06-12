@@ -315,6 +315,9 @@ newtab-custom-recent-toggle =
 newtab-custom-weather-toggle =
     .label = ამინდი
     .description = დღევანდელი ამინდისთვის თვალის შევლება
+newtab-custom-trending-search-toggle =
+    .label = ხშირად მოძიებული
+    .description = საყოველთაოდ მოდებული და ფართოდ გავრცელებული
 newtab-custom-close-button = დახურვა
 newtab-custom-settings = დამატებითი პარამეტრების მართვა
 
@@ -565,3 +568,10 @@ newtab-toast-thanks-for-reporting =
 
 ## Strings for trending searches
 
+# "Trending on Google" refers to the trending topics coming from Google Search, usually seen when a user is focused on the search bar
+newtab-trending-searches-trending-on-google = Google ხშირად მოძიებულით
+newtab-trending-searches-show-trending =
+    .title = ხშირად მოძიებულის ჩვენება
+newtab-trending-searches-hide-trending =
+    .title = ხშირად მოძიებულის დამალვა
+newtab-trending-searches-dismiss = ხშირად მოძიებულის დამალვა
