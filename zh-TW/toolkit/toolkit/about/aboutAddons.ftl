@@ -478,6 +478,9 @@ shortcuts-heading = 管理擴充套件快速鍵
 default-heading-search-label = 看更多附加元件！
 addons-heading-search-input =
     .placeholder = 在 addons.mozilla.org 搜尋
+addons-heading-search-button =
+    .title = 在 addons.mozilla.org 搜尋
+    .aria-label = 在 addons.mozilla.org 搜尋
 addon-page-options-button =
     .title = 所有附加元件的工具
 
