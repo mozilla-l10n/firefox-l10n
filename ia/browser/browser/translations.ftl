@@ -37,9 +37,9 @@ translations-panel-displayname-beta =
 
 translations-panel-settings-manage-languages =
     .label = Gerer le linguas
-translations-panel-settings-about = Re le traductiones in { -brand-shorter-name }
+translations-panel-settings-about = A proposito del traductiones in { -brand-shorter-name }
 translations-panel-settings-about2 =
-    .label = Re le traductiones in { -brand-shorter-name }
+    .label = A proposito del traductiones in { -brand-shorter-name }
 # Text displayed for the option to always translate a given language
 # Variables:
 #   $language (string) - The localized display name of the detected language
@@ -72,7 +72,7 @@ translations-panel-translate-cancel =
     .label = Cancellar
 translations-panel-learn-more-link = Pro saper plus
 translations-panel-intro-header = Discoperi le traductiones private in { -brand-shorter-name }
-translations-panel-intro-description = Pro respectar tu confidentialiate, le traductiones non lassa jammais tu apparato. Nove linguas e meliorationes venira tosto!
+translations-panel-intro-description = Pro respectar tu confidentialitate, le traductiones non lassa jammais tu apparato. Nove linguas e meliorationes venira tosto!
 translations-panel-error-translating = Il habeva un problema traducente. Retenta.
 translations-panel-error-load-languages = Impossibile cargar linguas
 translations-panel-error-load-languages-hint = Verifica tu connexion a internet e retenta.
