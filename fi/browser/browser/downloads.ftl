@@ -187,6 +187,13 @@ downloads-details =
 
 downloads-private-browsing-details =
     .title = Tiedostot pysyvät laitteellasi
+downloads-private-browsing-message = Kuka tahansa tätä laitetta käyttävä voi nähdä lataukset, myös sen jälkeen kun suljet kaikki yksityiset ikkunat.
+downloads-private-browsing-delete-button =
+    .label = Poista tiedostot automaattisesti
+    .accesskey = d
+downloads-private-browsing-accept-button =
+    .label = Selvä
+    .accesskey = S
 
 ## Displayed when a site attempts to automatically download many files.
 ## Variables:
