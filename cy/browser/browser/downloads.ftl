@@ -185,6 +185,15 @@ downloads-details =
 
 ## These strings are displayed in the private browsing view of the downloads panel
 
+downloads-private-browsing-details =
+    .title = Mae ffeiliau'n aros ar eich dyfais
+downloads-private-browsing-message = Gall unrhyw un sy'n defnyddio'r ddyfais hon weld y llwytho i lawr, hyd yn oed pan fyddwch chi'n cau pob ffenestr breifat.
+downloads-private-browsing-delete-button =
+    .label = Dileu ffeiliau'n awtomatig
+    .accesskey = D
+downloads-private-browsing-accept-button =
+    .label = Iawn
+    .accesskey = I
 
 ## Displayed when a site attempts to automatically download many files.
 ## Variables:
