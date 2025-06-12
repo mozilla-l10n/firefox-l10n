@@ -662,6 +662,7 @@ home-prefs-weather-description = Źinsajšna wjedrowa pśedpowěsć na jadno pó
 home-prefs-weather-learn-more-link = Dalšne informacije
 home-prefs-trending-search-header =
     .label = Woblubowane pytanja
+home-prefs-trending-search-description = Popularne a cesto pytane temy
 # "Support" here means to help sustain or contribute to something, especially through funding or sponsorship.
 home-prefs-support-firefox-header =
     .label = { -brand-product-name } pódpěraś
