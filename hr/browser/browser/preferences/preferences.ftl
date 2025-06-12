@@ -197,7 +197,7 @@ browser-containers-enabled =
 browser-containers-learn-more = Saznaj više
 browser-containers-settings =
     .label = Postavke …
-    .accesskey = t
+    .accesskey = o
 containers-disable-alert-title = Zatvoriti sve kontejnerske kartice?
 
 ## Variables:
@@ -1346,6 +1346,9 @@ permissions-microphone-settings =
     .accesskey = t
 # Short form for "the act of choosing sound output devices and redirecting audio to the chosen devices".
 permissions-speaker = Izbor zvučnika
+permissions-speaker-settings =
+    .label = Postavke …
+    .accesskey = t
 permissions-notification = Obavijesti
 permissions-notification-settings =
     .label = Postavke …
