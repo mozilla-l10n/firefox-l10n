@@ -501,6 +501,9 @@ shortcuts-heading = Управление горячими клавишами р�
 default-heading-search-label = Найти больше дополнений
 addons-heading-search-input =
     .placeholder = Поиск на addons.mozilla.org
+addons-heading-search-button =
+    .title = Поиск на addons.mozilla.org
+    .aria-label = Поиск на addons.mozilla.org
 addon-page-options-button =
     .title = Инструменты для всех дополнений
 

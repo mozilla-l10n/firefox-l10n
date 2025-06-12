@@ -566,3 +566,9 @@ newtab-toast-thanks-for-reporting =
 
 ## Strings for trending searches
 
+newtab-trending-searches-show-trending =
+    .title = Εμφάνιση δημοφιλών αναζητήσεων
+newtab-trending-searches-hide-trending =
+    .title = Απόκρυψη δημοφιλών αναζητήσεων
+newtab-trending-searches-learn-more = Μάθετε περισσότερα
+newtab-trending-searches-dismiss = Απόκρυψη δημοφιλών αναζητήσεων

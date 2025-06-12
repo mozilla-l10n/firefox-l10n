@@ -501,6 +501,9 @@ shortcuts-heading = Διαχείριση συντομεύσεων επεκτάσ
 default-heading-search-label = Εύρεση περισσότερων προσθέτων
 addons-heading-search-input =
     .placeholder = Αναζήτηση στο addons.mozilla.org
+addons-heading-search-button =
+    .title = Αναζήτηση στο addons.mozilla.org
+    .aria-label = Αναζήτηση στο addons.mozilla.org
 addon-page-options-button =
     .title = Εργαλεία για όλα τα πρόσθετα
 

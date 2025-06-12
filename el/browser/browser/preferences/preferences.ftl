@@ -651,6 +651,8 @@ home-prefs-weather-header =
     .label = Καιρός
 home-prefs-weather-description = Σημερινή πρόγνωση με μια ματιά
 home-prefs-weather-learn-more-link = Μάθετε περισσότερα
+home-prefs-trending-search-header =
+    .label = Δημοφιλείς αναζητήσεις
 # "Support" here means to help sustain or contribute to something, especially through funding or sponsorship.
 home-prefs-support-firefox-header =
     .label = Υποστηρίξτε τη { -brand-product-name }

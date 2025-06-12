@@ -185,6 +185,15 @@ downloads-details =
 
 ## These strings are displayed in the private browsing view of the downloads panel
 
+downloads-private-browsing-details =
+    .title = Файлы остаются на вашем устройстве
+downloads-private-browsing-message = Любой, кто использует это устройство, сможет видеть загрузки, даже если вы закроете все приватные окна.
+downloads-private-browsing-delete-button =
+    .label = Автоматически удалять файлы
+    .accesskey = В
+downloads-private-browsing-accept-button =
+    .label = Понятно
+    .accesskey = П
 
 ## Displayed when a site attempts to automatically download many files.
 ## Variables:
