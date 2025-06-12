@@ -185,6 +185,15 @@ downloads-details =
 
 ## These strings are displayed in the private browsing view of the downloads panel
 
+downloads-private-browsing-details =
+    .title = Filerne bliver på din enhed
+downloads-private-browsing-message = Alle, som bruger denne enhed, kan se filhentninger - selv hvis du lukker alle private vinduer.
+downloads-private-browsing-delete-button =
+    .label = Slet filer automatisk
+    .accesskey = S
+downloads-private-browsing-accept-button =
+    .label = Forstået
+    .accesskey = F
 
 ## Displayed when a site attempts to automatically download many files.
 ## Variables:

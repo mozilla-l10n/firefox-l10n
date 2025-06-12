@@ -188,6 +188,12 @@ downloads-details =
 downloads-private-browsing-details =
     .title = Dateien bleiben auf Ihrem Gerät
 downloads-private-browsing-message = Jeder, der dieses Gerät verwendet, kann Downloads sehen, auch wenn Sie alle privaten Fenster schließen.
+downloads-private-browsing-delete-button =
+    .label = Dateien automatisch löschen
+    .accesskey = l
+downloads-private-browsing-accept-button =
+    .label = Verstanden
+    .accesskey = V
 
 ## Displayed when a site attempts to automatically download many files.
 ## Variables:
