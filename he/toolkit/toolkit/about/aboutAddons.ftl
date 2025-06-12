@@ -473,6 +473,9 @@ shortcuts-heading = ניהול קיצורי דרך להרחבות
 default-heading-search-label = חיפוש תוספות נוספות
 addons-heading-search-input =
     .placeholder = חיפוש ב־addons.mozilla.org
+addons-heading-search-button =
+    .title = חיפוש ב־addons.mozilla.org
+    .aria-label = חיפוש ב־addons.mozilla.org
 addon-page-options-button =
     .title = כלים עבור כל התוספות
 

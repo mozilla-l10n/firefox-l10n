@@ -565,3 +565,9 @@ newtab-toast-thanks-for-reporting =
 
 # "Trending on Google" refers to the trending topics coming from Google Search, usually seen when a user is focused on the search bar
 newtab-trending-searches-trending-on-google = פופולרי ב־Google
+newtab-trending-searches-show-trending =
+    .title = הצגת חיפושים פופולריים
+newtab-trending-searches-hide-trending =
+    .title = הסתרת חיפושים פופולריים
+newtab-trending-searches-learn-more = מידע נוסף
+newtab-trending-searches-dismiss = הסתרת חיפושים פופולריים
