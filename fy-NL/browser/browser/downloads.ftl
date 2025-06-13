@@ -185,6 +185,15 @@ downloads-details =
 
 ## These strings are displayed in the private browsing view of the downloads panel
 
+downloads-private-browsing-details =
+    .title = Bestannen bliuwe op jo apparaat
+downloads-private-browsing-message = Elkenien dy’t dit apparaat brûkt, kin downloads sjen, sels as jo alle priveefinsters slute.
+downloads-private-browsing-delete-button =
+    .label = Bestannen automatysk fuortsmite
+    .accesskey = f
+downloads-private-browsing-accept-button =
+    .label = Begrepen
+    .accesskey = B
 
 ## Displayed when a site attempts to automatically download many files.
 ## Variables:

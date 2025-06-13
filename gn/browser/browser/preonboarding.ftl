@@ -6,6 +6,7 @@
 ## Preonboarding modal screen strings
 
 preonboarding-title = Eg̃uahẽporãite { -brand-product-name }-pe
+preonboarding-subtitle = Eku’ejeývo, emoneĩ { -brand-product-name } jeporu reko ha ore marandu’i ñemigua. Oipytyvõ hag̃ua oiko porãvévo kundahára, { -brand-product-name } omondo mba’ekuaarã ha ñemongu’e { -vendor-short-name }-pe.
 preonboarding-primary-cta = Emonei ha eku’ejey
 preonboarding-primary-cta-v2 = Ku’ejey
 # Labels for header style button that toggles showing the terms of use, privacy notice, and data preferences checklist
