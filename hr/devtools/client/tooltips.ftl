@@ -108,8 +108,13 @@ inactive-text-overflow-when-no-overflow-fix = Pokušaj dodati <strong>overflow:h
 inactive-css-no-size-containment-fix = Pokušaj postaviti njegovo <strong>display</strong> svojstvo na nešto drugo od <strong>none</strong>, <strong>contents</strong>, <strong>table</strong> ili <strong>inline-table</strong> i provjeri da se ne nalazi unutar tablice ili ruby segmenta. { learn-more }
 inactive-css-not-for-internal-table-elements-fix = Pokušaj postaviti vrijednost za <strong>display</strong> svojstvo na nešto drugo od <strong>table-cell</strong>, <strong>table-column</strong>, <strong>table-row</strong>, <strong>table-column-group</strong>, <strong>table-row-group</strong> ili <strong>table-footer-group</strong>. { learn-more }
 inactive-css-not-for-internal-table-elements-except-table-cells-fix = Pokušaj postaviti vrijednost za <strong>display</strong> svojstvo na nešto drugo od <strong>table-column</strong>, <strong>table-row</strong>, <strong>table-column-group</strong>, <strong>table-row-group</strong> ili <strong>table-footer-group</strong>. { learn-more }
+inactive-css-not-table-fix = Pokušaj dodati <strong>display:table</strong> ili <strong>display:inline-table</strong>. { learn-more }
 inactive-css-collapsed-table-borders-fix = Pokušaj dodati <strong>border-collapse:separate</strong>. { learn-more }
+inactive-css-not-table-cell-fix = Pokušaj dodati <strong>display:table-cell</strong>. { learn-more }
+inactive-scroll-padding-when-not-scroll-container-fix = Pokušaj dodati <strong>overflow:auto</strong>, <strong>overflow:scroll</strong> ili <strong>overflow:hidden</strong>. { learn-more }
 inactive-css-border-image-fix = U nadređenom elementu tablice ukloni svojstvo ili promijeni vrijednost <strong>border-collapse</strong> na vrijednost koja nije <strong>collapse</strong>. { learn-more }
+inactive-css-resize-fix = Pokušaj postaviti <strong>overflow</strong> na vrijednost koja nije <strong>visible</strong> ili pokušaj ciljati zamijenjeni element koji ga podržava. { learn-more }
+inactive-css-ruby-element-fix = Pokušaj promijeniti veličinu fonta ruby teksta. { learn-more }
 
 ## In the Rule View when a CSS property may have compatibility issues with other browsers
 ## we display an icon. When this icon is hovered this message is displayed to explain why

@@ -85,6 +85,13 @@ client-auth-cert-details-issued-by = Izdano od: { $issuedBy }
 # Variables:
 # $storedOn (String) - The name of the token holding the certificate (for example, "OS Client Cert Token (Modern)")
 client-auth-cert-details-stored-on = Spremljeno na: { $storedOn }
+client-auth-cert-remember-label = Zapamti ovu odluku:
+client-auth-cert-remember-never =
+    .label = Jednom
+client-auth-cert-remember-always =
+    .label = Stalno
+client-auth-cert-remember-temporarily =
+    .label = Za ovu sesiju
 client-auth-cert-remember-box =
     .label = Zapamti ovu odluku
 
