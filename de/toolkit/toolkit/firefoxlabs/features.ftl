@@ -47,3 +47,7 @@ experimental-features-link-previews-description-no-ai =
         [macos] Um mehr über eine Webseite zu erfahren, bevor Sie sie anklicken, bewegen Sie die Maus über einen Link und drücken Sie Umschalt (⇧) plus Option (⌥) oder Alt. Vorschauen können Details wie Titel und Lesezeit enthalten. <a data-l10n-name="connect">Sagen Sie uns Ihre Meinung</a>
        *[other] Um mehr über eine Webseite zu erfahren, bevor Sie sie anklicken, bewegen Sie die Maus über einen Link und drücken Sie Umschalt + Alt. Vorschauen können Details wie Titel und Lesezeit enthalten. <a data-l10n-name="connect">Sagen Sie uns Ihre Meinung</a>
     }
+# New Tab Sections with follow and block
+experimental-features-newtab-sections-follow-block =
+    .label = Themenbereiche und Folgen/Blockieren für Geschichten unter Neuer Tab
+experimental-features-newtab-sections-follow-block-description = Gliedern Sie die Geschichten auf Ihrer Neuer-Tab-Seite in Themenbereiche (Sport, Essen, Unterhaltung, etc.), für ein strukturierteres und übersichtlicheres Erlebnis. Verwenden Sie unsere neuen Einstellungsmöglichkeiten "Folgen" und "Blockieren", um anzupassen, welche Inhalte Sie sehen. <a data-l10n-name="connect">Sagen Sie uns Ihre Meinung</a>
