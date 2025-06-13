@@ -582,6 +582,12 @@ mlmodel-link-preview = { -brand-short-name } verwendet dies, um wichtige Punkte 
 mlmodel-pdfjs = { -brand-short-name } verwendet dies, um Alternativ-Text für Grafiken zu erstellen, die Sie zu PDFs hinzufügen
 mlmodel-smart-tab-topic-engine = { -brand-short-name } verwendet dies, um Namen für Ihre Tab-Gruppen vorzuschlagen
 mlmodel-smart-tab-embedding-engine = { -brand-short-name } verwendet dies, um Tabs für Ihre Tab-Gruppen vorzuschlagen
+# AI Model will be downloaded on the users device and used locally
+addon-category-mlmodel = Geräteinterne KI
+addon-category-mlmodel-title =
+    .title = Geräteinterne KI
+mlmodel-heading = Geräteinterne KI-Modelle verwalten
+mlmodel-description = Einige Funktionen und Erweiterungen in { -brand-short-name } nutzen KI-Modelle, die lokal auf Ihrem Gerät arbeiten. Dieser Ansatz schützt Ihre Privatsphäre und beschleunigt in vielen Fällen die Leistung. <a data-l10n-name="learn-more">Weitere Informationen</a>
 # Label for button that when clicked removed local model
 mlmodel-remove-addon-button =
     .aria-label = Entfernen

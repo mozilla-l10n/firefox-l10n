@@ -488,6 +488,9 @@ shortcuts-heading = Gerer le accessos directe al extensiones
 default-heading-search-label = Cercar altere additivos
 addons-heading-search-input =
     .placeholder = Cercar sur addons.mozilla.org
+addons-heading-search-button =
+    .title = Cercar sur addons.mozilla.org
+    .aria-label = Cercar sur addons.mozilla.org
 addon-page-options-button =
     .title = Instrumentos pro tote le additivos
 
