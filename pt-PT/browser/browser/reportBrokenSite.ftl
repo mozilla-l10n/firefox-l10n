@@ -12,6 +12,15 @@ report-broken-site-panel-reason-label = O que não está a funcionar?
 report-broken-site-panel-reason-optional-label = O que não está a funcionar? (opcional)
 report-broken-site-panel-reason-choose =
     .label = Escolha o motivo
+report-broken-site-panel-reason-load =
+    .label = O site não carrega
+# These terms are referring to ecommerce websites
+report-broken-site-panel-reason-checkout =
+    .label = Não é possível pagar, finalizar a compra ou comprar
+report-broken-site-panel-reason-slow2 =
+    .label = O site é lento
+report-broken-site-panel-reason-media2 =
+    .label = O vídeo não está a ser carregado ou em reprodução
 report-broken-site-panel-reason-slow =
     .label = Site lento ou não funciona
 report-broken-site-panel-reason-media =

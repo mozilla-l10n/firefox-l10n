@@ -361,6 +361,9 @@ download-choose-folder =
 download-always-ask-where =
     .label = Perguntar sempre onde guardar ficheiros
     .accesskey = a
+download-private-browsing-delete =
+    .label = Eliminar os ficheiros transferidos na navegação privada quando todas as janelas privadas são fechadas
+    .accesskey = l
 applications-header = Aplicações
 applications-description = Escolha como o { -brand-short-name } manuseia os ficheiros que transfere da web ou as aplicações que utiliza enquanto navega.
 applications-filter =
@@ -515,6 +518,8 @@ performance-default-content-process-count =
 ## General Section - Browsing
 
 browsing-title = Navegação
+browsing-group-label =
+    .aria-label = Navegação
 browsing-use-autoscroll =
     .label = Utilizar deslocação automática
     .accesskey = a
@@ -649,6 +654,12 @@ home-prefs-weather-header =
     .label = Meteorologia
 home-prefs-weather-description = Um relance da previsão para hoje
 home-prefs-weather-learn-more-link = Saber mais
+home-prefs-trending-search-header =
+    .label = Pesquisas em alta
+home-prefs-trending-search-description = Tópicos populares e pesquisados com frequência
+# "Support" here means to help sustain or contribute to something, especially through funding or sponsorship.
+home-prefs-support-firefox-header =
+    .label = Apoiar o { -brand-product-name }
 home-prefs-mission-message = Os nossos patrocinadores apoiam a nossa missão para construir uma Internet melhor
 home-prefs-mission-message-learn-more-link = Descubra como
 # Variables:
@@ -719,6 +730,9 @@ search-remove-engine =
 search-add-engine =
     .label = Adicionar
     .accesskey = A
+search-edit-engine =
+    .label = Editar
+    .accesskey = E
 search-find-more-link = Encontrar mais motores de pesquisa
 # This warning is displayed when the chosen keyword is already in use
 # ('Duplicate' is an adjective)
@@ -727,6 +741,10 @@ search-keyword-warning-title = Palavra-chave duplicada
 #   $name (string) - Name of a search engine.
 search-keyword-warning-engine = Escolheu uma palavra-chave que está atualmente a ser utilizada por “{ $name }”. Por favor, selecione outra.
 search-keyword-warning-bookmark = Escolheu uma palavra-chave que está a ser utilizada por um marcador. Por favor, escolha outra.
+# This warning is displayed when the chosen name is already in use.
+# Variables:
+#   $name (string) - Name of a search engine.
+edit-engine-name-warning-duplicate = Já existe um motor de pesquisa com o nome "{ $name }". Escolha outro nome.
 remove-engine-confirmation = Tem a certeza de que pretende remover este motor de pesquisa?
 remove-engine-remove = Remover
 remove-addon-engine-alert = Para remover este motor de pesquisa, remova o extra associado.
