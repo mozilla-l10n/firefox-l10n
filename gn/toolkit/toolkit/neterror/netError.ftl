@@ -43,6 +43,8 @@ neterror-generic-error = { -brand-short-name } ndaikatúi omyanyhẽ ko kuatiaro
 neterror-load-error-try-again = Pe tenda ikatu hína ndojeporukuaái sapy’aitemi térã ojeporuetereihína. Eha’ãjey ag̃amieve.
 neterror-load-error-connection = Ndaikatúiramo emyanyhẽ mba’eveichagua kuatiarogue, ehechajey ijeikekatu nemohendaha ñanduti peguápe.
 neterror-load-error-firewall = Nemohendaha térã ñanduti omo’ã chupe tatakytĩha térã proxy, ehecháke { -brand-short-name } oguerekópa moneĩ oike hag̃ua ñandutípe.
+# This warning is only shown on macOS Sequoia and later (see bug 1929377)
+neterror-load-osx-permission = Oñeha’ãramo oñemyanyhẽ peteĩ kuatiarogue upepegua, ehechajey oñemoneĩpa pe ñanduti upepeguágui { -brand-short-name }-pe macOS Privacy ha Security ñembohekorãme.
 neterror-http-error-page = Ehechajey ehai porãpa ñanduti renda réra.
 neterror-captive-portal = Eñepyrũ tembiapo ko ñandutípe eike mboyve ambue ñandutípe.
 # Variables:
@@ -159,6 +161,7 @@ certerror-mitm-what-can-you-do-about-it-attack-sts = Ndereikuaa porãiramo ko <b
 # $hostname (String) - Hostname of the website to which the user was trying to connect.
 certerror-what-should-i-do-bad-sts-cert-explanation = <b>{ $hostname }</b> oguereko tekorosã porureko hérava HTTP Strict transporte Security (HSTS), he’iséva { -brand-short-name } oiketaha hendive tekorosãme. Ndaikatúi embojuaju oĩ’ỹva eike hag̃ua ko tendápe.
 cert-error-trust-certificate-transparency-what-can-you-do-about-it = Ikatuhína ndaha’éi mba’evete, oikokuaa haguére apañuái upe tenda ndive.
+certerror-blocked-by-corp-headers-description = Sapy’ánte, umi ñanduti renda omboheko ñemo’ã ijupe ha tapichakuérape g̃uarã ani hag̃ua ojoaju ambue ñanduti renda ndive.
 certerror-coop-learn-more = Eikuaave teñoiha juasáva porureko rehegua (COOP)
 certerror-coep-learn-more = Eikuaave teñoiha juasáva porureko oñondivegua rehegua (COOP)
 # Variables:
