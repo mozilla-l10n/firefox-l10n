@@ -72,7 +72,7 @@ client-auth-cert-details-serial-number = Seriennummer: { $serialNumber }
 # Variables:
 # $notBefore (String) - The date before which the certificate is not valid (e.g. Apr 21, 2023, 1:47:53 PM UTC)
 # $notAfter (String) - The date after which the certificate is not valid
-client-auth-cert-details-validity-period = Gültig vom { $notBefore } bis { $notAfter }
+client-auth-cert-details-validity-period = Gültig von { $notBefore } bis { $notAfter }
 # Variables:
 # $keyUsages (String) - A list of already-localized key usages for which the certificate may be used
 client-auth-cert-details-key-usages = Verwendungen des Schlüssels: { $keyUsages }
