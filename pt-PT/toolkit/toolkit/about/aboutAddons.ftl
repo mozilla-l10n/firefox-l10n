@@ -501,6 +501,9 @@ shortcuts-heading = Gerir atalhos de extensões
 default-heading-search-label = Encontrar mais extras
 addons-heading-search-input =
     .placeholder = Pesquisar addons.mozilla.org
+addons-heading-search-button =
+    .title = Pesquisar addons.mozilla.org
+    .aria-label = Pesquisar addons.mozilla.org
 addon-page-options-button =
     .title = Ferramentas para todos os extras
 
@@ -566,9 +569,32 @@ addon-permissions-required-data-collection = Recolha de dados necessária:
 addon-permissions-optional-data-collection = Recolha de dados opcional:
 # Name of the Permissions tab in `about:addons` when the data collection feature is enabled.
 permissions-data-addon-button = Permissões e dados
+# This is a description for extension that use this AI model
+# Variables:
+#   $extensionName (String) - Name of the extension
+mlmodel-extension-label = Utilizado pela extensão { $extensionName }
 
 ## Mapping Engine IDs from AI models to how that feature represented by the engine Id is described in the used by section in local model management
 
+mlmodel-about-inference = O { -brand-short-name } utiliza isto em about:inference
+mlmodel-link-preview = O { -brand-short-name } utiliza isto para gerar pontos-chave quando pré-visualiza ligações
+mlmodel-pdfjs = O { -brand-short-name } utiliza isto para criar texto alternativo para as imagens que adiciona aos PDF
+mlmodel-smart-tab-topic-engine = O { -brand-short-name } utiliza esta informação para sugerir nomes para os seus grupos de separadores
+mlmodel-smart-tab-embedding-engine = O { -brand-short-name } utiliza esta informação para sugerir separadores para os seus grupos de separadores
+# AI Model will be downloaded on the users device and used locally
+addon-category-mlmodel = IA no dispositivo
+addon-category-mlmodel-title =
+    .title = IA no dispositivo
+mlmodel-heading = Gerir modelos de IA no dispositivo
+mlmodel-description = Algumas funcionalidades e extensões no { -brand-short-name } são suportados por modelos de IA que funcionam localmente no seu dispositivo. Esta abordagem protege a sua privacidade e, em muitos casos, melhora o desempenho. <a data-l10n-name="learn-more">Saber mais</a>
+# Label for button that when clicked removed local model
+mlmodel-remove-addon-button =
+    .aria-label = Remover
+# Label for the aggregated value of all files for a model
+mlmodel-addon-detail-totalsize-label = Tamanho do ficheiro
+mlmodel-addon-detail-last-used-label = Última utilização
+# This is a section label to describe what extensions or features use a specific local AI model
+mlmodel-addon-detail-used-by-label = Utilizado por
 # This is a section label to describe the link to the model card on the Hugging Face website
 mlmodel-addon-detail-model-card = Cartão do modelo
 # This is a label for the Model Card link to Hugging face
