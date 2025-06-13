@@ -312,6 +312,9 @@ newtab-custom-recent-toggle =
 newtab-custom-weather-toggle =
     .label = Meteo
     .description = Prevision hodierne a un colpo de oculos
+newtab-custom-trending-search-toggle =
+    .label = Recercas popular
+    .description = Themas popular e frequentemente recercate
 newtab-custom-close-button = Clauder
 newtab-custom-settings = Gerer altere parametros
 
@@ -562,4 +565,6 @@ newtab-toast-thanks-for-reporting =
 
 ## Strings for trending searches
 
+newtab-trending-searches-hide-trending =
+    .title = Celar recercas popular
 newtab-trending-searches-learn-more = Pro saper plus
