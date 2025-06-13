@@ -47,6 +47,9 @@ appmenu-addon-post-install-message3 = افزونه‌ها و تم‌های خو�
 # This string is used in the confirmation popup displayed after an extension
 # has been installed, when the data collection feature is enabled.
 appmenu-addon-post-install-message-with-data-collection = هر زمان که خواستید، مجوزها و ترجیحات مربوط به داده را در <a data-l10n-name="settings-link">تنظیمات افزونه</a> به‌روز کنید.
+appmenu-addon-post-install-pin-toolbarbutton-checkbox =
+    .label = سنجاق کردن افزونه به نوار ابزار
+    .accesskey = س
 appmenu-addon-post-install-incognito-checkbox =
     .label = به این افزونه اجازه‌ی اجرا در پنجره خصوصی را بده
     .accesskey = ب

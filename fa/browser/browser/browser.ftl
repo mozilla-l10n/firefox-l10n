@@ -119,7 +119,7 @@ browser-main-window-default-title = { -brand-full-name }
 ##
 
 urlbar-identity-button =
-    .aria-label = نمایش اطلاعات سایت
+    .aria-label = نمایش اطلاعات وبگاه
 
 ## Tooltips for images appearing in the address bar
 
