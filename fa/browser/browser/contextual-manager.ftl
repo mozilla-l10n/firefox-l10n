@@ -125,6 +125,14 @@ contextual-manager-passwords-remove-all-message =
         [one] این کار، گذرواژهٔ ذخیره شدهٔ شما در { -brand-short-name } و هرگونه هشدار نشت اطلاعات را پاک خواهد کرد. این اقدام قابل بازگردانی نیست.
        *[other] این کار، گذرواژه‌های ذخیره شدهٔ شما در { -brand-short-name } و هرگونه هشدار نشت اطلاعات را پاک خواهد کرد. این اقدام قابل بازگردانی نیست.
     }
+# Message for modal to confirm the removal of all saved passwords when user HAS SYNC
+#   $total (number) - Total number of passwords
+contextual-manager-passwords-remove-all-message-sync =
+    { $total ->
+        [1] این اقدام گذرواژه ذخیره‌شده در { -brand-short-name } را از همه دستگاه‌های همگام‌شده شما حذف کرده و تمام هشدارهای نقص امنیتی را پاک می‌کند. این عمل قابل بازگشت نیست.
+        [one] این اقدام تمام گذرواژه‌های ذخیره‌شده در { -brand-short-name } را از همه دستگاه‌های همگام‌شده شما حذف کرده و تمام هشدارهای نقص امنیتی را پاک می‌کند. این عمل قابل بازگشت نیست.
+       *[other] این اقدام تمام گذرواژه‌های ذخیره‌شده در { -brand-short-name } را از همه دستگاه‌های همگام‌شده شما حذف کرده و تمام هشدارهای نقص امنیتی را پاک می‌کند. این عمل قابل بازگشت نیست.
+    }
 contextual-manager-passwords-origin-label = تارنما
 # The attribute .data-after describes the text that should be displayed for the ::after pseudo-selector
 contextual-manager-passwords-username-label = نام کاربری
@@ -143,6 +151,7 @@ contextual-manager-passwords-add-password-success-button = نمایش
 #   $url (string) - The url associated with the existing login
 contextual-manager-passwords-password-already-exists-error-heading =
     .heading = گذرواژه و نام کاربری برای { $url } از قبل وجود دارد
+contextual-manager-passwords-password-already-exists-error-button = رفتن به گذرواژه
 contextual-manager-passwords-update-password-success-heading =
     .heading = گذرواژه ذخیره شد
 contextual-manager-passwords-update-password-success-button = انجام شد
@@ -167,12 +176,16 @@ contextual-manager-passwords-radiobutton-alerts = هشدارها ({ $total })
 contextual-manager-passwords-remove-login-card-title = گذرواژه حذف شود؟
 # This message warns the user that deleting a login is permanent.
 contextual-manager-passwords-remove-login-card-message = نمی‌توانید این کار را برگردانید.
+# This message gives the user an option to go back to the edit login form.
+contextual-manager-passwords-remove-login-card-back-message = بازگشت
 # This message confirms that the user wants to remove an existing login.
 contextual-manager-passwords-remove-login-card-remove-button = برداشتن
 # This message gives the user the option to cancel their attempt to remove a login.
 contextual-manager-passwords-remove-login-card-cancel-button = لغو
 contextual-manager-passwords-alert-card =
     .aria-label = هشدارهای گذرواژه
+contextual-manager-passwords-alert-back-button =
+    .label = بازگشت
 contextual-manager-passwords-alert-list =
     .aria-label = فهرست هشدار
 contextual-manager-passwords-breached-origin-heading-and-message =
@@ -197,6 +210,7 @@ contextual-manager-passwords-edit-label =
     .label = ویرایش گذرواژه
 contextual-manager-passwords-remove-label =
     .title = حذف گذرواژه
+contextual-manager-passwords-origin-tooltip = نشانی دقیق مکانی را که در آن به این وبگاه وارد می‌شوید، وارد کنید.
 
 ## Password Card
 
