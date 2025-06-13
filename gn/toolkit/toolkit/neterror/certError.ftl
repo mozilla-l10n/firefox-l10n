@@ -98,6 +98,7 @@ cert-error-path-len-constraint-invalid = { -brand-short-name } ojoko nde jeike k
 cert-error-invalid-key = { -brand-short-name } ojoko nde jeike ko tendápe ndojejapóigui hekopete kuatia’atã oñeme’ẽva { $hostname }-pe orekóre ñe’ẽñemi oiko’ỹva. Ikatúre, michĩeterei hekorosã hag̃ua.
 cert-error-unknown-critical-extension = { -brand-short-name } ojoko nde jeike ko tendápe ndojejapóigui hekopete pe kuatia’atã oñeme’ẽva { $hostname }-pe oreko jepysokue vai ndojokupytýiva.
 cert-error-extension-value-invalid = { -brand-short-name } ojoko nde jeike ko tendápe ndojejapóigui hekopete pe kuatia’atã oñeme’ẽva { $hostname }-pe oreko jepysokue oiko’ỹva.
+cert-error-issuer-no-longer-trusted = { -brand-short-name } ojoko nde jeike ko tendápe ndojejapóigui hekopete pe kuatia’atã oñeme’ẽva { $hostname }-pe g̃uarã ndaha’evéima jeroviaha.
 
 ## Messages used for certificate error titles
 
@@ -156,3 +157,4 @@ fp-certerror-hide-advanced-button = Eñomi opapotáva
 ##   $hostname (String) - Hostname of the website to which the user was trying to connect.
 
 fp-certerror-override-exception-button = Ejapo { $hostname } ndive (ivaikuaa)
+fp-certerror-expired-into = { -brand-short-name } ohechakuaa tekorosã apañuái <strong>{ $hostname }</strong> ndive. Térã tenda noñembohekoporãi térã mba’e’oka aravopapaha oñemohenda arange/aravo oĩvaívape.
