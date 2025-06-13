@@ -187,6 +187,10 @@ downloads-details =
 
 downloads-private-browsing-details =
     .title = Umi marandurenda opyta mba’e’okápe
+downloads-private-browsing-message = Oimeraẽ oipurúva ko mba’e’oka ikatu ohecha umi ñemboguejy, jepémo oñemboty ovetãita ñemigua.
+downloads-private-browsing-delete-button =
+    .label = Emboguete marandurenda ijehegui
+    .accesskey = D
 downloads-private-browsing-accept-button =
     .label = Aikũmby
     .accesskey = G

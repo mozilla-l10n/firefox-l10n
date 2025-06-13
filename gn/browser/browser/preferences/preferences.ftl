@@ -651,6 +651,9 @@ home-prefs-weather-header =
     .label = Arapytu
 home-prefs-weather-description = Ehecha arapytu reko ko ára rehegua
 home-prefs-weather-learn-more-link = Eikuaave
+home-prefs-trending-search-header =
+    .label = Jeheka ojejapovéva
+home-prefs-trending-search-description = Umi téma ojeguerohory ha ojehekavéva
 # "Support" here means to help sustain or contribute to something, especially through funding or sponsorship.
 home-prefs-support-firefox-header =
     .label = Eipytyvõ { -brand-product-name }
