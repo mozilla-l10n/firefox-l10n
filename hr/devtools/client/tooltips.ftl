@@ -51,6 +51,7 @@ inactive-css-no-size-containment = <strong>{ $property }</strong> nema učinka n
 inactive-css-not-for-internal-table-elements = <strong>{ $property }</strong> ne utječe na interne elemente tablice.
 inactive-css-not-for-internal-table-elements-except-table-cells = <strong>{ $property }</strong> ne utječe na interne elemente tablice, osim na polja tablice.
 inactive-css-not-table = <strong>{ $property }</strong> ne utječe na ovaj element jer nije tablica.
+inactive-css-collapsed-table-borders = <strong>{ $property }</strong> nema učinka na ovaj element jer je to tablica sa zajedničkim rubovima.
 inactive-css-not-table-cell = <strong>{ $property }</strong> ne utječe na ovaj element jer nije polje tablice.
 
 ## In the Rule View when a CSS property cannot be successfully applied we display
