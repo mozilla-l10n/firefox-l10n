@@ -15,6 +15,8 @@ about-logging-set-log-file = Definir ficheiro de registo
 about-logging-set-log-modules = Definir módulos de registo
 about-logging-start-logging = Começar a registar
 about-logging-stop-logging = Parar de registar
+about-logging-copy-as-url = Copiar definições atuais como um URL
+about-logging-url-copied = As definições de registo copiadas para a área de transferência como um URL modelo
 about-logging-buttons-disabled = Registo ativado através de variáveis de ambiente; configuração dinâmica indisponível.
 about-logging-some-elements-disabled = Registo configurado via URL; algumas opções de configuração estão indisponíveis
 about-logging-info = Informação:
@@ -27,6 +29,8 @@ about-logging-no-log-modules = Nenhum
 about-logging-no-log-file = Nenhum
 about-logging-logging-preset-selector-text = Modelo de registo:
 about-logging-with-profiler-stacks-checkbox = Ativar rastreamentos da stack para as mensagens de registo
+about-logging-menu =
+    .title = Opções avançadas
 
 ## Logging presets
 

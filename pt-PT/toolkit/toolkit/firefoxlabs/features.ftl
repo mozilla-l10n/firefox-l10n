@@ -47,3 +47,7 @@ experimental-features-link-previews-description-no-ai =
         [macos] Para saber mais sobre uma página web antes de clicar, passe o rato sobre uma ligação e pressione Shift (⇧) + Opção (⌥) ou Alt. As pré-visualizações podem incluir detalhes, como o título e o tempo de leitura. <a data-l10n-name="connect">Partilhar feedback</a>
        *[other] Para saber mais sobre uma página web antes de clicar, passe o rato sobre uma ligação e pressione Shift + Alt. As pré-visualizações podem incluir detalhes, como o título e o tempo de leitura. <a data-l10n-name="connect">Partilhar feedback</a>
     }
+# New Tab Sections with follow and block
+experimental-features-newtab-sections-follow-block =
+    .label = Secções de temas e opções de Seguimento/Bloqueio para histórias em novos separadores
+experimental-features-newtab-sections-follow-block-description = Organize as histórias na sua página de novo separador em secções de tópicos (Desporto, Comida, Entretenimento e muito mais) para uma experiência mais estruturada e fácil de analisar. Utilize os nossos novos controlos Seguir e Bloquear para personalizar o conteúdo que vê. <a data-l10n-name="connect">Partilhar feedback</a>

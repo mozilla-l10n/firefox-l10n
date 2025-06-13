@@ -54,8 +54,16 @@ install-search-engine-no = Não
 add-engine-window =
     .title = Adicionar motor de pesquisa
     .style = min-width: 35em;
+edit-engine-window =
+    .title = Editar motor de pesquisa
+    .style = min-width: 32em;
 add-engine-button = Adicionar motor personalizado
 add-engine-name = Nome do motor de pesquisa
+add-engine-url2 = URL com %s a designar a posição do termo de pesquisa
+add-engine-keyword2 = Palavra-chave (opcional)
+# POST and GET refer to the HTTP methods.
+add-engine-post-data = Dados POST com %s a designar a posição do termo de pesquisa (deixe vazio para GET)
+add-engine-suggest-url = Sugestões de URL com %s a indicar a posição do termo de pesquisa (opcional)
 add-engine-keyword = Palavra-chave
 add-engine-url = Endereço do motor, utilize %s em substituição do termo de pesquisa
 add-engine-dialog =
@@ -66,6 +74,12 @@ engine-keyword-exists = Já existe um motor com essa palavra-chave
 
 ## The following placeholders are shown in the inputs when adding a new engine.
 
+add-engine-name-placeholder =
+    .placeholder = por exemplo, Mozilla Developer Network
+add-engine-url-placeholder =
+    .placeholder = por exemplo, https://developer.mozilla.com/search?q=%s
+add-engine-keyword-placeholder =
+    .placeholder = por exemplo, @mdn
 
 ## The following strings are used as error messages.
 

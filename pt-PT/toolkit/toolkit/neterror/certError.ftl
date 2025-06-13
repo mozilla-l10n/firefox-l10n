@@ -117,6 +117,11 @@ fp-learn-more-about-time-related-errors = Saber mais sobre a resolução de prob
 ## Variables:
 ##   $hostname (string) - Hostname of the website with cert error.
 
+cert-error-revoked-certificate = O { -brand-short-name } bloqueou a sua visita a este site porque o certificado fornecido para { $hostname } foi revogado e já não é confiável.
+cert-error-bad-signature = O { -brand-short-name } bloqueou a sua visita a este site porque a assinatura no certificado fornecido para { $hostname } não é válida.
+cert-error-key-pinning-failure = O { -brand-short-name } bloqueou a sua visita a este site porque o certificado fornecido para { $hostname } utiliza uma chave pública diferente do esperado.
+cert-error-bad-der = O { -brand-short-name } bloqueou a sua visita a este site porque o certificado fornecido para { $hostname } não está corretamente codificado.
+cert-error-cert-not-in-name-space = O { -brand-short-name } bloqueou a sua visita a este site porque o certificado fornecido para { $hostname } não segue as restrições de nome do certificado que o emitiu.
 
 ## Messages used for certificate error titles
 
