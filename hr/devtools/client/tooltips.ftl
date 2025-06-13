@@ -56,6 +56,7 @@ inactive-css-not-table-cell = <strong>{ $property }</strong> ne utječe na ovaj 
 inactive-scroll-padding-when-not-scroll-container = <strong>{ $property }</strong> nema učinka na ovaj element jer se ne pomiče.
 inactive-css-border-image = <strong>{ $property }</strong> nema učinka na ovaj element jer se ne može primijeniti na interne elemente tablice gdje je <strong>border-collapse</strong> postavljen na <strong>collapse</strong> na nadređenom elementu tablice.
 inactive-css-resize = <strong>{ $property }</strong> nema učinka na ovaj element jer se može primijeniti samo na elemente s overflow vrijednošću koja nije visible, te na određene zamijenjene elemente, kao što su textarea elementi.
+inactive-css-ruby-element = <strong>{ $property }</strong> nema učinka na ovaj element jer je to ruby ​​​​element. Njegovu veličinu određuje veličina fonta ruby ​​​​teksta.
 
 ## In the Rule View when a CSS property cannot be successfully applied we display
 ## an icon. When this icon is hovered this message is displayed to explain why
@@ -66,6 +67,8 @@ inactive-css-resize = <strong>{ $property }</strong> nema učinka na ovaj elemen
 ##   $property (string) - A CSS property name e.g. "color".
 ##   $display (string) - A CSS display value e.g. "inline-block".
 
+inactive-css-highlight-pseudo-elements-not-supported = <strong>{ $property }</strong> nije podržano kod isticanja pseudoelemenata.
+inactive-css-cue-pseudo-element-not-supported = <strong>{ $property }</strong> nije podržano kod ::cue pseudo-elements.
 # Variables:
 #   $lineCount (integer) - The number of lines the element has.
 inactive-css-text-wrap-balance-lines-exceeded =
@@ -74,6 +77,7 @@ inactive-css-text-wrap-balance-lines-exceeded =
         [few] <strong>{ $property }</strong> ne utječe na ovaj element jer sadrži više od { $lineCount } redaka.
        *[other] <strong>{ $property }</strong> ne utječe na ovaj element jer sadrži više od { $lineCount } redaka.
     }
+inactive-css-text-wrap-balance-fragmented = <strong>{ $property }</strong> nema učinka na ovaj element jer je fragmentiran, tj. njegov je sadržaj podijeljen na više stupaca ili stranica.
 inactive-css-no-width-height = <strong>{ $property }</strong> ne utječe na ovaj element jer se njegova širina i visina ne mogu postaviti.
 
 ## In the Rule View when a CSS property cannot be successfully applied we display
@@ -82,7 +86,9 @@ inactive-css-no-width-height = <strong>{ $property }</strong> ne utječe na ovaj
 ## not be translated.
 
 inactive-css-not-grid-or-flex-container-fix = Pokušaj dodati <strong>display:grid</strong> ili <strong>display:flex</strong>. { learn-more }
+inactive-css-not-grid-or-flex-or-block-container-fix = Pokušaj dodati <strong>display:grid</strong>, <strong>display:flex</strong> ili <strong>display:block</strong>. { learn-more }
 inactive-css-not-grid-or-flex-container-or-multicol-container-fix = Pokušaj dodati <strong>display:grid</strong>, <strong>display:flex</strong> ili <strong>columns:2</strong>. { learn-more }
+inactive-css-not-multicol-container-fix = Pokušaj dodati <strong>column-count</strong> ili <strong>column-width</strong>. { learn-more }
 inactive-css-not-grid-item-fix-2 = Pokušaj dodati <strong>display:grid</strong> ili <strong>display:inline-grid</strong> nadređenom elementu stavke. { learn-more }
 inactive-css-not-grid-container-fix = Pokušaj dodati <strong>display:grid</strong> ili <strong>display:inline-grid</strong>. { learn-more }
 inactive-css-not-flex-item-fix-2 = Pokušaj dodati <strong>display:flex</strong> ili <strong>display:inline-flex</strong> nadređenom elementu stavke. { learn-more }

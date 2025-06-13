@@ -206,6 +206,10 @@ tab-group-editor-cancel =
     .accesskey = C
 tab-group-editor-color-selector =
     .aria-label = Boja grupe tabova
+tab-group-editor-color-selector2-blue = Plava
+    .title = Plava
+tab-group-editor-color-selector2-purple = Ljubičasta
+    .title = Ljubičasta
 tab-context-unnamed-group =
     .label = Neimenovana grupa
 tab-group-name-default = Neimenovana grupa
@@ -233,6 +237,14 @@ tab-context-move-tab-to-group =
     .accesskey = G
 tab-group-editor-action-new-tab =
     .label = Novi tab u grupi
+tab-group-editor-action-new-window =
+    .label = Premjesti grupu u novi prozor
+tab-group-editor-action-save =
+    .label = Sačuvaj i zatvori grupu
+tab-group-editor-action-ungroup =
+    .label = Razgrupiraj tabove
+tab-group-editor-action-delete =
+    .label = Izbriši grupu
 
 ## Open/saved tab group context menu
 

@@ -82,6 +82,22 @@ move-to-new-window =
 tab-context-close-multiple-tabs =
     .label = Zatvori više tabova
     .accesskey = v
+tab-context-close-duplicate-tabs =
+    .label = Zatvori duple tabove
+    .accesskey = u
+tab-context-share-url =
+    .label = Dijeli
+    .accesskey = h
+# In left-to-right languages this should use "Right" and in right-to-left languages this should use "Left" to indicate the direction a new tab will open.
+tab-context-new-tab-open =
+    .label = Novi tab desno
+    .accesskey = w
+tab-context-new-tab-open-vertical =
+    .label = Novi tab ispod
+    .accesskey = w
+tab-context-new-group =
+    .label = Nova grupa
+    .accesskey = G
 
 ## Variables:
 ##  $tabCount (Number): the number of tabs that are affected by the action.
@@ -104,3 +120,30 @@ tab-context-close-n-tabs =
            *[other] Zatvori tab
         }
     .accesskey = o
+tab-context-move-tabs =
+    .label =
+        { $tabCount ->
+            [1] Premjesti tab
+            [one] Premjesti tab
+            [few] Premjesti taba
+           *[other] Premjesti tabova
+        }
+    .accesskey = v
+tab-context-send-tabs-to-device =
+    .label =
+        { $tabCount ->
+            [1] Pošalji tab na uređaj
+            [one] Pošalji { $tabCount } tab na uređaj
+            [few] Pošalji { $tabCount } taba na uređaj
+           *[other] Pošalji { $tabCount } tabova na uređaj
+        }
+    .accesskey = n
+tab-context-unload-n-tabs =
+    .label =
+        { $tabCount ->
+            [1] Isprazni tab
+            [one] Isprazni { $tabCount } tab
+            [few] Isprazni { $tabCount } taba
+           *[other] Isprazni { $tabCount } tabova
+        }
+    .accesskey = U
