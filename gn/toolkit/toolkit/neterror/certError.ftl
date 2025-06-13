@@ -95,6 +95,7 @@ cert-error-bad-der = { -brand-short-name } ojoko nde jeike ko tendápe ndojejap�
 cert-error-cert-not-in-name-space = { -brand-short-name } ojoko nde jeike ko tendápe ndojejapóigui hekopete pe kuatia’atã oñeme’ẽva { $hostname }-pe g̃uarã ndohapykuehói téra jejoko pe kuatia’atã ome’ẽva’ekue.
 cert-error-inadequate-cert-type = { -brand-short-name } ojoko nde jeike ko tendápe ndojejapóigui hekopete kuatia’atã oñeme’ẽva { $hostname }-pe g̃uarã ndoiporukuaái ñanduti apopyvusu.
 cert-error-path-len-constraint-invalid = { -brand-short-name } ojoko nde jeike ko tendápe ndojejapóigui hekopete pe kuatia’atã oñeme’ẽva { $hostname }-pe oreko rehe heta kuatia’atã mbytegua pe kuatia’atã ypygua rapépe.
+cert-error-invalid-key = { -brand-short-name } ojoko nde jeike ko tendápe ndojejapóigui hekopete kuatia’atã oñeme’ẽva { $hostname }-pe orekóre ñe’ẽñemi oiko’ỹva. Ikatúre, michĩeterei hekorosã hag̃ua.
 
 ## Messages used for certificate error titles
 
