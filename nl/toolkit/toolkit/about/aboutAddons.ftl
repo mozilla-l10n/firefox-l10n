@@ -506,6 +506,9 @@ shortcuts-heading = Extensiesneltoetsen beheren
 default-heading-search-label = Meer add-ons zoeken
 addons-heading-search-input =
     .placeholder = addons.mozilla.org doorzoeken
+addons-heading-search-button =
+    .title = addons.mozilla.org doorzoeken
+    .aria-label = addons.mozilla.org doorzoeken
 addon-page-options-button =
     .title = Hulpmiddelen voor alle add-ons
 
