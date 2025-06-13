@@ -185,6 +185,15 @@ downloads-details =
 
 ## These strings are displayed in the private browsing view of the downloads panel
 
+downloads-private-browsing-details =
+    .title = 文件会保留在您的设备上
+downloads-private-browsing-message = 即使您关闭所有隐私窗口，使用此设备的所有用户都仍可看到下载的文件。
+downloads-private-browsing-delete-button =
+    .label = 自动删除文件
+    .accesskey = D
+downloads-private-browsing-accept-button =
+    .label = 知道了
+    .accesskey = G
 
 ## Displayed when a site attempts to automatically download many files.
 ## Variables:
