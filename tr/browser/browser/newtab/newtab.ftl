@@ -312,6 +312,9 @@ newtab-custom-recent-toggle =
 newtab-custom-weather-toggle =
     .label = Hava durumu
     .description = Bugünkü hava durumu tahmini
+newtab-custom-trending-search-toggle =
+    .label = Gündemdeki aramalar
+    .description = Popüler ve sıkça aranan konular
 newtab-custom-close-button = Kapat
 newtab-custom-settings = Diğer ayarları yönet
 

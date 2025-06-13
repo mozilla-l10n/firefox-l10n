@@ -361,6 +361,9 @@ download-choose-folder =
 download-always-ask-where =
     .label = Dosyaların nereye kaydedileceğini her zaman sor
     .accesskey = o
+download-private-browsing-delete =
+    .label = Tüm gizli pencereler kapatıldığında gizli gezintide indirilen dosyaları sil
+    .accesskey = T
 applications-header = Uygulamalar
 applications-description = { -brand-short-name } tarayıcısının web’den indirdiğiniz dosyaları veya web’de gezinirken kullandığınız uygulamaları nasıl ele alacağını seçin.
 applications-filter =
@@ -651,6 +654,7 @@ home-prefs-weather-header =
     .label = Hava durumu
 home-prefs-weather-description = Bugünkü hava durumu tahmini
 home-prefs-weather-learn-more-link = Daha fazla bilgi al
+home-prefs-trending-search-description = Popüler ve sıkça aranan konular
 # "Support" here means to help sustain or contribute to something, especially through funding or sponsorship.
 home-prefs-support-firefox-header =
     .label = { -brand-product-name } tarayıcısını destekleyin

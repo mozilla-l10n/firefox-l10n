@@ -491,6 +491,9 @@ shortcuts-heading = Uzantı kısayollarını yönet
 default-heading-search-label = Daha fazla eklenti bul
 addons-heading-search-input =
     .placeholder = addons.mozilla.org’da ara
+addons-heading-search-button =
+    .title = addons.mozilla.org’da ara
+    .aria-label = addons.mozilla.org’da ara
 addon-page-options-button =
     .title = Tüm eklentiler için araçlar
 
