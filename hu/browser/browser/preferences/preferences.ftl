@@ -654,6 +654,9 @@ home-prefs-weather-header =
     .label = Időjárás
 home-prefs-weather-description = A mai előrejelzés egy pillantásnyira
 home-prefs-weather-learn-more-link = További tudnivalók
+home-prefs-trending-search-header =
+    .label = Felkapott keresések
+home-prefs-trending-search-description = Népszerű és gyakran keresett témák
 # "Support" here means to help sustain or contribute to something, especially through funding or sponsorship.
 home-prefs-support-firefox-header =
     .label = Támogassa a { -brand-product-name }ot

@@ -499,6 +499,9 @@ shortcuts-heading = Kiegészítő-gyorsbillentyűk kezelése
 default-heading-search-label = Több kiegészítő keresése
 addons-heading-search-input =
     .placeholder = Keresés itt: addons.mozilla.org
+addons-heading-search-button =
+    .title = Keresés itt: addons.mozilla.org
+    .aria-label = Keresés itt: addons.mozilla.org
 addon-page-options-button =
     .title = Eszközök minden kiegészítőhöz
 
