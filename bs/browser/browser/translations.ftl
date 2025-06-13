@@ -139,3 +139,107 @@ translations-manage-language-remove-all-button =
     .label = Ukloni sve
     .accesskey = e
 translations-manage-error-download = Došlo je do problema prilikom preuzimanja jezičkih datoteka. Pokušajte ponovo.
+translations-manage-error-delete = Došlo je do greške prilikom brisanja jezičkih datoteka. Pokušajte ponovo.
+translations-manage-error-remove = Došlo je do greške prilikom uklanjanja jezičkih datoteka. Pokušajte ponovo.
+translations-manage-error-list = Nije moguće dobiti listu dostupnih jezika za prevođenje. Osvježite stranicu da pokušate ponovo.
+translations-settings-title =
+    .title = Postavke prijevoda
+    .style = min-width: 36em
+translations-settings-close-key =
+    .key = w
+translations-settings-always-translate-langs-description = Prevod će se izvršiti automatski za sljedeće jezike
+translations-settings-never-translate-langs-description = Prijevod neće biti ponuđen za sljedeće jezike
+translations-settings-never-translate-sites-description = Prijevod neće biti ponuđen za sljedeće stranice
+translations-settings-languages-column =
+    .label = Jezici
+translations-settings-remove-language-button =
+    .label = Ukloni jezik
+    .accesskey = R
+translations-settings-remove-all-languages-button =
+    .label = Ukloni sve jezike
+    .accesskey = e
+translations-settings-sites-column =
+    .label = Web stranice
+translations-settings-remove-site-button =
+    .label = Ukloni stranicu
+    .accesskey = S
+translations-settings-remove-all-sites-button =
+    .label = Ukloni sve stranice
+    .accesskey = m
+translations-settings-close-dialog =
+    .buttonlabelaccept = Zatvori
+    .buttonaccesskeyaccept = C
+# Text displayed in the right-click context menu for translating
+# selected text to a yet-to-be-determined language.
+main-context-menu-translate-selection =
+    .label = Prevedi odabrano…
+    .accesskey = n
+# Text displayed in the right-click context menu for translating
+# selected text to a target language.
+#
+# Variables:
+#   $language (string) - The localized display name of the target language
+main-context-menu-translate-selection-to-language =
+    .label = Prevedi odabrano na { $language }
+    .accesskey = n
+# Text displayed in the right-click context menu for translating
+# the text of a hyperlink to a yet-to-be-determined language.
+main-context-menu-translate-link-text =
+    .label = Prevedi tekst linka…
+    .accesskey = n
+# Text displayed in the right-click context menu for translating
+# the text of a hyperlink to a target language.
+#
+# Variables:
+#   $language (string) - The localized display name of the target language
+main-context-menu-translate-link-text-to-language =
+    .label = Prevedi tekst linka na { $language }
+    .accesskey = n
+# Text displayed in the select translations panel header.
+select-translations-panel-header = Prijevod
+# Text displayed above the from-language dropdown menu.
+select-translations-panel-from-label = Sa
+# Text displayed above the to-language dropdown menu.
+select-translations-panel-to-label = Na
+# Text displayed above the try-another-source-language dropdown menu.
+select-translations-panel-try-another-language-label = Pokušajte s drugim izvornim jezikom
+select-translations-panel-cancel-button =
+    .label = Otkaži
+# Text displayed on the copy button before it is clicked.
+select-translations-panel-copy-button =
+    .label = Kopiraj
+# Text displayed on the copy button after it is clicked.
+select-translations-panel-copy-button-copied =
+    .label = Kopirano
+select-translations-panel-done-button =
+    .label = Gotovo
+select-translations-panel-translate-full-page-button =
+    .label = Prevedi cijelu stranicu
+select-translations-panel-translate-button =
+    .label = Prevedi
+select-translations-panel-try-again-button =
+    .label = Pokušaj ponovo
+# Text displayed as a placeholder when the panel is idle.
+select-translations-panel-idle-placeholder-text = Prevedeni tekst će se pojaviti ovdje.
+# Text displayed as a placeholder when the panel is actively translating.
+select-translations-panel-translating-placeholder-text = Prevođenje…
+select-translations-panel-init-failure-message =
+    .message = Učitavanje jezika nije uspjelo. Provjerite internetsku vezu i pokušajte ponovo.
+# Text displayed when the translation fails to complete.
+select-translations-panel-translation-failure-message =
+    .message = Došlo je do problema pri prevođenju. Molimo pokušajte ponovo.
+# If your language requires declining the language name, a possible solution
+# is to adapt the structure of the phrase, or use a support noun, e.g.
+# `Sorry, we don't support the language yet: { $language }
+#
+# Variables:
+#   $language (string) - The language of the document.
+select-translations-panel-unsupported-language-message-known =
+    .message = Žao nam je, još uvijek ne podržavamo { $language }.
+select-translations-panel-unsupported-language-message-unknown =
+    .message = Žao nam je, još uvijek ne podržavamo ovaj jezik.
+# Text displayed on the menuitem that opens the Translation Settings page.
+select-translations-panel-open-translations-settings-menuitem =
+    .label = Postavke prijevoda
+# An announcement made to assistive technology when the translation is complete
+select-translations-panel-translation-complete-announcement = Prijevod završen
