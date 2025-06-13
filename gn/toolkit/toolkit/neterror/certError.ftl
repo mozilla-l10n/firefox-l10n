@@ -93,6 +93,8 @@ fp-learn-more-about-time-related-errors = Eikuaave mba’éichapa emoĩporãta j
 
 cert-error-bad-der = { -brand-short-name } ojoko nde jeike ko tendápe ndojejapóigui hekopete pe kuatia’atã oñeme’ẽva { $hostname }-pe g̃uarã.
 cert-error-cert-not-in-name-space = { -brand-short-name } ojoko nde jeike ko tendápe ndojejapóigui hekopete pe kuatia’atã oñeme’ẽva { $hostname }-pe g̃uarã ndohapykuehói téra jejoko pe kuatia’atã ome’ẽva’ekue.
+cert-error-inadequate-cert-type = { -brand-short-name } ojoko nde jeike ko tendápe ndojejapóigui hekopete kuatia’atã oñeme’ẽva { $hostname }-pe g̃uarã ndoiporukuaái ñanduti apopyvusu.
+cert-error-path-len-constraint-invalid = { -brand-short-name } ojoko nde jeike ko tendápe ndojejapóigui hekopete pe kuatia’atã oñeme’ẽva { $hostname }-pe oreko rehe heta kuatia’atã mbytegua pe kuatia’atã ypygua rapépe.
 
 ## Messages used for certificate error titles
 
