@@ -91,6 +91,8 @@ fp-learn-more-about-time-related-errors = Eikuaave mba’éichapa emoĩporãta j
 ## Variables:
 ##   $hostname (string) - Hostname of the website with cert error.
 
+cert-error-bad-der = { -brand-short-name } ojoko nde jeike ko tendápe ndojejapóigui hekopete pe kuatia’atã oñeme’ẽva { $hostname }-pe g̃uarã.
+cert-error-cert-not-in-name-space = { -brand-short-name } ojoko nde jeike ko tendápe ndojejapóigui hekopete pe kuatia’atã oñeme’ẽva { $hostname }-pe g̃uarã ndohapykuehói téra jejoko pe kuatia’atã ome’ẽva’ekue.
 
 ## Messages used for certificate error titles
 
