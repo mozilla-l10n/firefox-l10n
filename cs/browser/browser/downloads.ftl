@@ -189,6 +189,9 @@ downloads-details =
 
 ## These strings are displayed in the private browsing view of the downloads panel
 
+downloads-private-browsing-details =
+    .title = Soubory zůstanou na vašem zařízení
+downloads-private-browsing-message = Každý, kdo použije toto zařízení, uvidí stažené soubory, i když zavřete všechna anonymní okna.
 
 ## Displayed when a site attempts to automatically download many files.
 ## Variables:

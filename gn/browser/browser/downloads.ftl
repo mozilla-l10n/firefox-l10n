@@ -185,6 +185,8 @@ downloads-details =
 
 ## These strings are displayed in the private browsing view of the downloads panel
 
+downloads-private-browsing-details =
+    .title = Umi marandurenda opyta mba’e’okápe
 downloads-private-browsing-accept-button =
     .label = Aikũmby
     .accesskey = G
