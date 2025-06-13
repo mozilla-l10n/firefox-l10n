@@ -502,6 +502,9 @@ shortcuts-heading = Utwreidingsfluchtoetsen beheare
 default-heading-search-label = Mear add-ons sykje
 addons-heading-search-input =
     .placeholder = addons.mozilla.org trochsykje
+addons-heading-search-button =
+    .title = addons.mozilla.org trochsykje
+    .aria-label = addons.mozilla.org trochsykje
 addon-page-options-button =
     .title = Ark foar alle add-ons
 
