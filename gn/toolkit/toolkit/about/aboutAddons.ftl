@@ -482,6 +482,9 @@ shortcuts-heading = Eñangareko jepysokue jeike pya’eháre
 default-heading-search-label = Ehekave moĩmbaha
 addons-heading-search-input =
     .placeholder = Eheka addons.mozilla.org
+addons-heading-search-button =
+    .title = Eheka addons.mozilla.org
+    .aria-label = Eheka addons.mozilla.org
 addon-page-options-button =
     .title = Tembiporu opaite moĩmbahápe g̃uarã
 
