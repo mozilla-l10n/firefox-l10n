@@ -211,6 +211,8 @@ contextual-manager-passwords-edit-label =
 contextual-manager-passwords-remove-label =
     .title = حذف گذرواژه
 contextual-manager-passwords-origin-tooltip = نشانی دقیق مکانی را که در آن به این وبگاه وارد می‌شوید، وارد کنید.
+contextual-manager-passwords-username-tooltip = نام‌کاربری، نشانی رایانامه یا شماره حساب کاربری که برای ورود استفاده می‌کنید را وارد کنید.
+contextual-manager-passwords-password-tooltip = گذرواژه‌ای که برای ورود به این حساب کاربری استفاده می‌شود را وارد کنید.
 
 ## Password Card
 
@@ -218,6 +220,12 @@ contextual-manager-passwords-list-label =
     .aria-label = گذرواژه‌ها
 contextual-manager-copy-icon =
     .alt = رونوشت
+contextual-manager-check-icon-username =
+    .alt = رونوشت شد
+contextual-manager-check-icon-password =
+    .alt = رونوشت شد
+contextual-manager-alert-icon =
+    .alt = هشدار
 contextual-manager-edit-login-button = ویرایش
     .tooltiptext = ویرایش گذرواژه
 contextual-manager-view-alert-heading =
