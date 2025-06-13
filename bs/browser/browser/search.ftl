@@ -54,8 +54,16 @@ install-search-engine-no = Ne
 add-engine-window =
     .title = Dodaj pretraživač
     .style = min-width: 32em;
+edit-engine-window =
+    .title = Uredi pretraživač
+    .style = min-width: 32em;
 add-engine-button = Dodajte prilagođeni pretraživač
 add-engine-name = Naziv pretraživača
+add-engine-url2 = URL sa %s umjesto pojma za pretragu
+add-engine-keyword2 = Ključna riječ (opciono)
+# POST and GET refer to the HTTP methods.
+add-engine-post-data = POST podaci sa %s umjesto pojma za pretragu (ostavite prazno za GET)
+add-engine-suggest-url = URL prijedloga sa %s umjesto pojma za pretragu (opciono)
 add-engine-keyword = Ključna riječ
 add-engine-url = URL pretraživača, koristite %s umjesto pojma za pretraživanje
 add-engine-dialog =
@@ -66,9 +74,37 @@ engine-keyword-exists = Pretraživač s tom ključnom riječi već postoji
 
 ## The following placeholders are shown in the inputs when adding a new engine.
 
+add-engine-name-placeholder =
+    .placeholder = npr. Mozilla Developer Network
+add-engine-url-placeholder =
+    .placeholder = npr. https://developer.mozilla.com/search?q=%s
+add-engine-keyword-placeholder =
+    .placeholder = npr. @mdn
 
 ## The following strings are used as error messages.
 
+add-engine-keyword-exists = Ta ključna riječ se već koristi. Pokušajte s drugom.
+add-engine-name-exists = To ime se već koristi. Molimo odaberite drugo.
+add-engine-no-name = Molimo dodajte ime.
+add-engine-no-url = Molimo da unesete URL.
+add-engine-invalid-url = Taj URL ne izgleda ispravno. Molimo provjerite ga i pokušajte ponovo.
+add-engine-invalid-protocol = Taj URL ne izgleda ispravno. Koristite URL koji počinje sa http ili https.
+# This error is shown when the user typed URL is missing %s.
+add-engine-missing-terms-url = Pokušajte uključiti %s umjesto pojma za pretragu.
+# This error is shown when the user typed post data is missing %s.
+add-engine-missing-terms-post-data = Pokušajte uključiti %s umjesto pojma za pretragu.
 
 ## The following strings are used as labels for the dialog's buttons.
 
+# buttonlabelextra1 is the label of a button to open the advanced section
+# of the dialog.
+add-engine-dialog2 =
+    .buttonlabelaccept = Dodaj pretraživač
+    .buttonaccesskeyaccept = A
+    .buttonlabelextra1 = Napredno
+# buttonlabelextra1 is the label of a button to open the advanced section
+# of the dialog.
+edit-engine-dialog =
+    .buttonlabelaccept = Sačuvaj pretraživač
+    .buttonaccesskeyaccept = S
+    .buttonlabelextra1 = Napredno

@@ -53,6 +53,9 @@ inactive-css-not-for-internal-table-elements-except-table-cells = <strong>{ $pro
 inactive-css-not-table = <strong>{ $property }</strong> ne utječe na ovaj element jer nije tablica.
 inactive-css-collapsed-table-borders = <strong>{ $property }</strong> nema učinka na ovaj element jer je to tablica sa zajedničkim rubovima.
 inactive-css-not-table-cell = <strong>{ $property }</strong> ne utječe na ovaj element jer nije polje tablice.
+inactive-scroll-padding-when-not-scroll-container = <strong>{ $property }</strong> nema učinka na ovaj element jer se ne pomiče.
+inactive-css-border-image = <strong>{ $property }</strong> nema učinka na ovaj element jer se ne može primijeniti na interne elemente tablice gdje je <strong>border-collapse</strong> postavljen na <strong>collapse</strong> na nadređenom elementu tablice.
+inactive-css-resize = <strong>{ $property }</strong> nema učinka na ovaj element jer se može primijeniti samo na elemente s overflow vrijednošću koja nije visible, te na određene zamijenjene elemente, kao što su textarea elementi.
 
 ## In the Rule View when a CSS property cannot be successfully applied we display
 ## an icon. When this icon is hovered this message is displayed to explain why
