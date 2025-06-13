@@ -279,7 +279,7 @@ mr2022-onboarding-colorway-description-innovator = <b>Sćo inowator.</b> Wiźiś
 mr2022-onboarding-mobile-download-title = Skócćo wót laptopa do telefona a zasej slědk
 mr2022-onboarding-mobile-download-subtitle = Wobstarajśo se rejtariki z jadnogo rěda a cyńśo tam dalej, gaž sćo pśestał na drugem rěźe. Mimo togo móžośo swóje cytańske znamjenja a gronidła synchronizěrowaś, źožkuli { -brand-product-name } wužywaśo.
 mr2022-onboarding-mobile-download-cta-text = Scannujśo QR-kod, aby { -brand-product-name } za swój mobilny rěd dostał abo <a data-l10n-name="download-label">sćelśo se ześěgnjeński wótkaz.</a>
-mr2022-onboarding-no-mobile-download-cta-text = Skannujśo QR-kod, aby se { -brand-product-name } za mobilny rěd wobstarał.
+mr2022-onboarding-no-mobile-download-cta-text = Scannujśo QR-kod, aby se { -brand-product-name } za mobilny rěd wobstarał.
 
 ## MR2022 Upgrade Dialog screens
 ## Pin private window screen shown only for users who don't have Firefox private pinned

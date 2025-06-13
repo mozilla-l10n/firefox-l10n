@@ -6,7 +6,7 @@ contentanalysis-alert-title = Analyza wopśimjeśa
 # Variables:
 #   $content - Description of the content being warned about, such as "clipboard" or "aFile.txt"
 contentanalysis-slow-agent-notification = Rěd Analyza wopśimjeśa dłujko trjeba, aby za resursu „{ $content }“ wótegronił
-contentanalysis-slow-agent-dialog-header = Skannujo se
+contentanalysis-slow-agent-dialog-header = Scannujo se
 # Variables:
 #   $agent - The name of the DLP agent doing the analysis
 #   $filename - Name of the file being analyzed, such as "aFile.txt"

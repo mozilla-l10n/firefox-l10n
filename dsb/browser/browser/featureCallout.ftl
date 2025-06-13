@@ -41,7 +41,7 @@ callout-pdfjs-draw-title = Signěrujśo dokumenty z našym nowym kresleńskim r�
 # “Mark up” refers to the process of “annotating” or adding free hand text or diagramming to the document.
 callout-pdfjs-draw-body-a = Anotěrujśo PDF a składujśo pón swóje změny.
 # “Mark up” refers to the process of “annotating” or adding free hand text or diagramming to the document.
-callout-pdfjs-draw-body-b = Nigda wěcej śišćaś a skannowaś. Anotěrujśo PDF a składujśo pón swóje změny.
+callout-pdfjs-draw-body-b = Nigda wěcej śišćaś a scannowaś. Anotěrujśo PDF a składujśo pón swóje změny.
 callout-pdfjs-draw-button = Som to zrozměł!
 
 ## Firefox View Discoverability Strings
