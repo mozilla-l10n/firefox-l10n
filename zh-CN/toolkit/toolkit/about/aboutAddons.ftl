@@ -480,6 +480,9 @@ shortcuts-heading = 管理扩展快捷键
 default-heading-search-label = 寻找更多附加组件
 addons-heading-search-input =
     .placeholder = 搜索 addons.mozilla.org
+addons-heading-search-button =
+    .title = 搜索 addons.mozilla.org
+    .aria-label = 搜索 addons.mozilla.org
 addon-page-options-button =
     .title = 用于所有附加组件的工具
 
