@@ -15,3 +15,5 @@ places-bookmarks-restore-format-error = Ustøttet filtype.
 places-bookmarks-restore-parse-error = Klarte ikke behandle sikkerhetskopien.
 places-bookmarks-import = Importer bokmerkefil
 places-bookmarks-export = Eksporter bokmerkefil
+places-bookmarks-paste-error-title = Ugyldig(e) nettadresse(r) funnet
+places-bookmarks-paste-error-message-header = Følgende nettadresse(r) kunne ikke legges til i bokmerkene dine. Prøv å sjekke formateringen og legge dem til på nytt.

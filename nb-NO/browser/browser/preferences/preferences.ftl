@@ -239,6 +239,7 @@ browser-layout-vertical-tabs =
 browser-layout-vertical-tabs-desc = Vis på siden, i sidestolpen
 browser-layout-show-sidebar =
     .label = Vis sidestolpe
+browser-layout-show-sidebar-desc = Få rask tilgang til bokmerker, faner fra telefonen, AI-chatroboter og mer uten å forlate hovedvisningen.
 
 ## General Section - Language & Appearance
 
@@ -262,6 +263,10 @@ preferences-web-appearance-choice-input-dark =
     .aria-description = { preferences-web-appearance-choice-tooltip-dark.title }
 # This can appear when using windows HCM or "Override colors: always" without
 # system colors.
+preferences-web-appearance-override-warning3 =
+    .message = Kontrastinnstillingene dine overstyrer nettstedets utseende.
+# This can appear when using windows HCM or "Override colors: always" without
+# system colors.
 preferences-web-appearance-override-warning = Fargevalgene dine overstyrer nettstedets utseende. <a data-l10n-name="colors-link">Behandle farger</a>
 # This can appear when using windows HCM or "Override colors: always" without
 # system colors.
@@ -270,6 +275,11 @@ preferences-web-appearance-override-warning2 =
 # This message contains one link. It can be moved within the sentence as needed
 # to adapt to your language, but should not be changed.
 preferences-web-appearance-footer = Behandle { -brand-short-name }-temaer i <a data-l10n-name="themes-link">Tillegg og temaer</a>
+preferences-contrast-control-header = Kontrastkontroll
+preferences-contrast-control-description = Nettsteder har en rekke forgrunns- og bakgrunnsfarger. Konfigurer { -brand-short-name } til å bruke de samme fargene på tvers av nettsteder for forbedret lesbarhet.
+preferences-contrast-control-use-platform-settings =
+    .label = Automatisk (bruk systeminnstillinger)
+    .accesskey = A
 preferences-contrast-control-off =
     .label = Av
     .accesskey = A
@@ -351,6 +361,9 @@ download-choose-folder =
 download-always-ask-where =
     .label = Spør deg alltid hvor filer skal lagres
     .accesskey = a
+download-private-browsing-delete =
+    .label = Slett filer som er lastet ned i privat nettlesing når alle private vinduer er lukket
+    .accesskey = S
 applications-header = Program
 applications-description = Velg hvordan { -brand-short-name } håndterer filer du henter fra nettet eller programmene du bruker når du surfer.
 applications-filter =
@@ -641,6 +654,9 @@ home-prefs-weather-header =
     .label = Vær
 home-prefs-weather-description = Dagens værmelding i korte trekk
 home-prefs-weather-learn-more-link = Les mer
+home-prefs-trending-search-header =
+    .label = Populære søk
+home-prefs-trending-search-description = Populære og ofte søkte emner
 # "Support" here means to help sustain or contribute to something, especially through funding or sponsorship.
 home-prefs-support-firefox-header =
     .label = Støtt { -brand-product-name }
@@ -1197,6 +1213,7 @@ addressbar-locbar-suggest-sponsored-option =
 addressbar-locbar-suggest-sponsored-desc = Støtt { -brand-short-name } med sporadiske sponsede forslag.
 addressbar-quickactions-learn-more = Les mer
 addressbar-dismissed-suggestions-label = Forkastede forslag
+addressbar-restore-dismissed-suggestions-description = Gjenopprett avviste forslag fra sponsorer og { -brand-short-name }.
 addressbar-restore-dismissed-suggestions-button =
     .label = Gjenopprett
 
@@ -1379,11 +1396,19 @@ collection-health-report =
     .label = Tillat { -brand-short-name } å sende tekniske data og data for bruk til { -vendor-short-name }
     .accesskey = r
 collection-health-report-link = Les mer
+collection-health-report-description = Dette hjelper oss med å forbedre funksjoner, ytelse og stabilitet i { -brand-product-name }.
 collection-studies2 =
     .label = Installer og kjør studier
+collection-studies-description = Prøv nye funksjoner og idéer før de blir tilgjengelige for alle.
 collection-studies =
     .label = Tillat { -brand-short-name } å installere og kjøre studier
 collection-studies-link = Vis { -brand-short-name }-studier
+addon-recommendations2 =
+    .label = Tillat tilpassede anbefalinger for utvidelser
+addon-recommendations-description = Få anbefalinger for utvidelser for å forbedre nettleseropplevelsen din.
+# This message is displayed above disabled data sharing options in developer builds
+# or builds with no Telemetry support available.
+collection-health-report-disabled2 = Datarapportering er deaktivert for denne byggekonfigurasjonen.
 collection-backlogged-crash-reports2 =
     .label = Send inn krasjrapporter automatisk
     .accesskey = k
