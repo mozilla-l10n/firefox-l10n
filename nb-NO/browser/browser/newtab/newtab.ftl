@@ -315,6 +315,9 @@ newtab-custom-recent-toggle =
 newtab-custom-weather-toggle =
     .label = Vær
     .description = Dagens værmelding i korte trekk
+newtab-custom-trending-search-toggle =
+    .label = Populære søk
+    .description = Populære og ofte søkte emner
 newtab-custom-close-button = Lukk
 newtab-custom-settings = Behandle flere innstillinger
 
@@ -374,6 +377,7 @@ newtab-wallpaper-abstract-blue-purple = Blå og lilla former
 newtab-wallpaper-abstract-white-curves = Hvit med skraverte kurver
 newtab-wallpaper-abstract-purple-green = Fargeovergang med lilla og grønt lys
 newtab-wallpaper-abstract-blue-purple-waves = Blå og lilla bølgete former
+newtab-wallpaper-abstract-black-waves = Svarte bølgeformer
 
 ## Celestial
 
@@ -384,9 +388,12 @@ newtab-wallpaper-storm-sky = Stormhimmel
 newtab-wallpaper-sky-with-pink-clouds = Himmel med rosa skyer
 newtab-wallpaper-red-panda-yawns-in-a-tree = Rød panda som gjesper i et tre
 newtab-wallpaper-white-mountains = Hvite fjell
+newtab-wallpaper-hot-air-balloons = Varmluftsballonger i forskjellige farger på dagtid
 newtab-wallpaper-starry-canyon = Blå stjerneklar natt
+newtab-wallpaper-suspension-bridge = Bilde av en grå hengebro om dagen
 newtab-wallpaper-sand-dunes = Hvite sanddyner
 newtab-wallpaper-palm-trees = Silhuett av kokospalmer under den gyldne timen
+newtab-wallpaper-blue-flowers = Nærbilde av blåblomstrede blomster i full blomst
 # Variables
 #   $author_string (String) - The name of the creator of the photo.
 #   $webpage_string (String) - The name of the webpage where the photo is located.

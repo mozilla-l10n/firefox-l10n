@@ -94,6 +94,15 @@ bookmarks-toolbar-callout-2b-secondary-button-label = Nei takk
 
 ## Perplexity callout strings
 
+perplexity-callout-theme-1-title = Trenger du det riktige svaret, med en gang?
+perplexity-callout-theme-2-title = Prøv Perplexity: en ny måte å søke på
+perplexity-callout-theme-1-subtitle-1 = Prøv Perplexity. Velg det fra søkeknappen når du vil ha fullstendige svar, inkludert kilder.
+perplexity-callout-theme-1-subtitle-2 = Still spørsmål. Få fullstendige, godt siterte svar. For å prøve Perplexity, velg det fra søkeknappen.
+perplexity-callout-theme-2-subtitle-1 = Spør Perplexity. Du får fullstendige svar, inkludert kilder.
+perplexity-callout-theme-2-subtitle-2 = Still spørsmål. Få fullstendige, godt siterte svar.
+perplexity-callout-primary-label = Spør Perplexity
+perplexity-callout-secondary-label-1 = Ignorer
+perplexity-callout-secondary-label-2 = Jeg forstår
 
 ## Sidebar Strings
 
@@ -119,9 +128,11 @@ sidebar-pins-callout-cta-button = Fest fane
 ## Sidebar Onboarding Strings
 
 sidebar-customization-callout-1-title = Sidestolpe: stedet for verktøy og faner
+sidebar-customization-callout-1-subtitle = { -brand-product-name }-sidestolpen gir deg rask tilgang til nettleserhistorikken din, faner fra andre enheter og en AI-chatbot — uten å forlate hovedvisningen.
 sidebar-customization-callout-callout-button = Tilpass sidestolpe
 sidebar-customization-callout-dismiss-button = Skjul sidestolpe
 sidebar-customization-callout-2-title = Gjør { -brand-product-name }-sidestolpen til din egen
+sidebar-customization-callout-2-subtitle = Legg til og fjern verktøy. Plasser fanene dine i sidestolpen. Prøv en AI-chatbot. Hvordan du tilpasser sidestolpen er opp til deg.
 
 ## Sidebar Callout Survey Strings
 

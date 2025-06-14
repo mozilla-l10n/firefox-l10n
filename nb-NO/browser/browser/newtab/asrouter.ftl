@@ -336,3 +336,9 @@ multi-cta-fox-doodle-pin-checkbox =
 multi-cta-fox-doodle-start-browsing-primary-button-label = Begynn å surfe
 multi-cta-fox-doodle-main-browser-primary-button-label = Gjør { -brand-short-name } til min hovednettleser
 multi-cta-fox-doodle-quick-reminder-subtitle = Her er en rask påminnelse om at du kan ha din favorittnettleser med fokus på personvern kun ett klikk unna.
+multi-cta-fox-doodle-privacy-focused-subtitle =
+    { PLATFORM() ->
+        [macos] Ha din favorittnettleser med fokus på personvern bare ett klikk unna. Angi { -brand-short-name } som standardnettleser for å åpne lenker og behold den i Dock.
+       *[other] Ha din favorittnettleser med fokus på personvern bare ett klikk unna. Angi { -brand-short-name } som standardnettleser for å åpne lenker og fest den til oppgavelinjen.
+    }
+multi-cta-fox-doodle-msix-privacy-focused-subtitle = Ha din favorittnettleser med fokus på personvern bare ett klikk unna. Angi { -brand-short-name } som standardnettleser for å åpne lenker, og fest den til oppgavelinjen og Start-menyen.
