@@ -278,6 +278,10 @@ discopane-notice-recommendations2 =
         Neki prijedlozi su specifični za tebe, jer se temelje na drugim već instaliranim
         proširenjima, na postavkama profila ili na statistici korištenja.
 discopane-notice-learn-more = Saznaj više
+# Notice for the colorway theme removal
+colorway-removal-notice-message =
+    .heading = Tvoje teme kolorita su uklonjene.
+    .message = { -brand-product-name } je aktualizirao svoju zbirku kolorita. Uklonili smo stare verzije s popisa „Spremljene teme”. Preuzmi nove verzije na stranici s dodacima.
 privacy-policy = Politika privatnosti
 # Refers to the author of an add-on, shown below the name of the add-on.
 # Variables:
@@ -432,6 +436,13 @@ addon-badge-verified2 =
 # by Mozilla and we don't want forks to display "by Fork".
 addon-badge-line4 =
     .title = Službeno proširenje koje je izradila Mozilla. Udovoljava standardima sigurnosti i performansi
+# This string needs to work in the context of other forks that are not Firefox
+# or built by Mozilla. In particular, we do not want to imply that an
+# organisation other than Mozilla or the Firefox team are making the
+# recommendation. As such, we hard code "Firefox" and avoid personalising
+# language like the words "our" or "we".
+addon-badge-recommended4 =
+    .title = Firefox preporučuje samo proširenja koja udovoljavaju našim standardima za sigurnost i performanse
 
 ##
 
@@ -467,6 +478,9 @@ shortcuts-heading = Upravljaj prečacima dodataka
 default-heading-search-label = Pronađi daljnje dodatke
 addons-heading-search-input =
     .placeholder = Pretraži addons.mozilla.org
+addons-heading-search-button =
+    .title = Pretraži addons.mozilla.org
+    .aria-label = Pretraži addons.mozilla.org
 addon-page-options-button =
     .title = Alati za sve dodatke
 
@@ -528,6 +542,19 @@ plugins-widevine-description = Ovaj dodatak omogućuje reprodukciju kodiranih me
 ## Headings for the Permissions tab in `about:addons` when the data collection
 ## feature is enabled.
 
+addon-permissions-required-data-collection = Potrebna zbirka podataka:
+addon-permissions-optional-data-collection = Opcionalna zbirka podataka:
+# Name of the Permissions tab in `about:addons` when the data collection feature is enabled.
+permissions-data-addon-button = Dozvole i podaci
+# This is a description for extension that use this AI model
+# Variables:
+#   $extensionName (String) - Name of the extension
+mlmodel-extension-label = Koristi ga proširenje { $extensionName }
 
 ## Mapping Engine IDs from AI models to how that feature represented by the engine Id is described in the used by section in local model management
 
+mlmodel-about-inference = { -brand-short-name } koristi ovo na about:inference
+mlmodel-link-preview = { -brand-short-name } koristi ovo za generiranje ključnih točaka prilikom pregleda poveznica
+mlmodel-pdfjs = { -brand-short-name } koristi ovo za stvaranje alternativnog teksta za slike koje dodaješ u PDF datoteke
+mlmodel-smart-tab-topic-engine = { -brand-short-name } koristi ovo za predlaganje imena za tvoje grupe kartica
+mlmodel-smart-tab-embedding-engine = { -brand-short-name } koristi ovo za predlaganje kartica za tvoje grupe kartica
