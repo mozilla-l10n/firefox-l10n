@@ -15,6 +15,10 @@ about-glean-interface-description =
     je biblioteka za prikupljanje podataka koja se koristi u { -vendor-short-name } projektima.
     Ovo je sučelje dizajnirano za ručno korištenje programera i testera za
     <a data-l10n-name="fog-link">ručno testiranje instrumentacije</a>.
+about-glean-category-about-glean = Informacije o { -glean-brand-name }
+about-glean-category-manual-testing = Ručno testiranje
+about-glean-category-adhoc-testing = Ad hoc testiranje
+about-glean-category-about-data = Informacije o podacima
 about-glean-upload-enabled = Prijenos podataka je aktiviran.
 about-glean-upload-disabled = Prijenos podataka je deaktiviran.
 about-glean-upload-enabled-local = Prijenos podataka je aktiviran samo za slanje na lokalni server.
