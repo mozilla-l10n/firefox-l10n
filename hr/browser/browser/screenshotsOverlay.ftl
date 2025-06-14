@@ -3,6 +3,6 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 screenshots-overlay-cancel-button = Odustani
-screenshots-overlay-instructions = Povuci ili pritisni na stranicu za biranje područja. Pritisni ESC za prekid.
+screenshots-overlay-instructions = Povuci ili pritisni na stranicu za biranje regije. Pritisni ESC za prekid.
 screenshots-overlay-download-button = Preuzmi
 screenshots-overlay-copy-button = Kopiraj
