@@ -8,6 +8,9 @@
 newtab-page-title = Nuova scheda
 newtab-settings-button =
     .title = Personalizza la pagina Nuova scheda
+newtab-customize-panel-icon-button =
+    .title = Personalizza questa pagina
+newtab-customize-panel-icon-button-label = Personalizza
 newtab-personalize-settings-icon-label =
     .title = Personalizza Nuova scheda
     .aria-label = Impostazioni

@@ -129,6 +129,8 @@ sidebar-menu-review-checker-label =
     .label = Verifica recensioni
 sidebar-menu-contextual-password-manager-label =
     .label = Password
+sidebar-menu-more-tools-label =
+    .label = Altri strumenti
 
 ## Tooltips for sidebar menu items.
 
