@@ -104,6 +104,7 @@ sidebar-button-callout-vertical-tabs = Бертерді көрсету үшін 
 ## Sidebar Vertical Tabs Strings
 
 vertical-tabs-callout-1-title = Көптеген беттерден шаршадыңыз ба?
+vertical-tabs-callout-1-subtitle = Бетбелгілер тізімін жылдам шолу үшін тік беттердің жаңа орналасуын қолданып көріңіз. Алғашқы сынақтан өткізушілер бұл орналасу өздерін реттелген сезінуге көмектесетінін айтты. Қалаған кезде ауыстыра аласыз.
 vertical-tabs-callout-1-cta-button = Вертикалды беттерді қолданып көру
 vertical-tabs-callout-2-cta-button = Қазір қолданып көру
 vertical-tabs-callout-2-title = Көптеген беттерді ашық ұстау керек пе? Тік беттерді қолданып көріңіз.

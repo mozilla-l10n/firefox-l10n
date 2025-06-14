@@ -185,6 +185,12 @@ downloads-details =
 
 ## These strings are displayed in the private browsing view of the downloads panel
 
+downloads-private-browsing-delete-button =
+    .label = Файлдарды автоматты түрде өшіру
+    .accesskey = ш
+downloads-private-browsing-accept-button =
+    .label = Түсіндім
+    .accesskey = Т
 
 ## Displayed when a site attempts to automatically download many files.
 ## Variables:

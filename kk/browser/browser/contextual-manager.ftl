@@ -144,6 +144,8 @@ contextual-manager-passwords-radiobutton-all = Барлығы ({ $total })
 contextual-manager-passwords-radiobutton-alerts = Ескертулер ({ $total })
 # This message is displayed to make sure that a user wants to delete an existing login.
 contextual-manager-passwords-remove-login-card-title = Парольді өшіру керек пе?
+# This message warns the user that deleting a login is permanent.
+contextual-manager-passwords-remove-login-card-message = Мұны қайтаруға болмайды.
 # This message gives the user an option to go back to the edit login form.
 contextual-manager-passwords-remove-login-card-back-message = Артқа
 # This message confirms that the user wants to remove an existing login.
@@ -152,6 +154,10 @@ contextual-manager-passwords-remove-login-card-remove-button = Өшіру
 contextual-manager-passwords-remove-login-card-cancel-button = Бас тарту
 contextual-manager-passwords-alert-back-button =
     .label = Артқа
+contextual-manager-passwords-breached-origin-heading-and-message =
+    .heading = Парольді өзгерту ұсынылады
+    .message = Осы веб-сайт парольдері ұрланған немесе жария болып кеткені хабарланды. Тіркелгіңізді қорғау үшін пароліңізді өзгертіңіз.
+contextual-manager-passwords-breached-origin-link-message = { -brand-product-name } бұзушылықтар туралы қалай біледі?
 contextual-manager-passwords-change-password-button = Парольді өзгерту
 contextual-manager-passwords-no-username-heading-and-message =
     .heading = Пайдаланушы атын қосу
