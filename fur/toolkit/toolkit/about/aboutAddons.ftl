@@ -507,6 +507,9 @@ shortcuts-heading = Gjestìs lis scurtis des estensions
 default-heading-search-label = Cjate altris components adizionâi
 addons-heading-search-input =
     .placeholder = Cîr in addons.mozilla.org
+addons-heading-search-button =
+    .title = Cîr in addons.mozilla.org
+    .aria-label = Cîr in addons.mozilla.org
 addon-page-options-button =
     .title = Struments par ducj i components adizionâi
 
