@@ -130,3 +130,5 @@ webext-site-perms-midi-sysex = Pristup MIDI uređajima sa SysEx podrškom
 
 ## Colorway theme migration
 
+webext-colorway-theme-migration-notification-message = <b>Tvoja tema kolorita je uklonjena.</b> { -brand-shorter-name } je aktualizirao svoju zbirku kolorita. Najnovije verzije možeš pronaći na stranici s dodacima.
+webext-colorway-theme-migration-notification-button = Nabavi aktualizirane kolorite

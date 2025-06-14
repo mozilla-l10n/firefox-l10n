@@ -282,6 +282,7 @@ discopane-notice-learn-more = Saznaj više
 colorway-removal-notice-message =
     .heading = Tvoje teme kolorita su uklonjene.
     .message = { -brand-product-name } je aktualizirao svoju zbirku kolorita. Uklonili smo stare verzije s popisa „Spremljene teme”. Preuzmi nove verzije na stranici s dodacima.
+colorway-removal-notice-button = Nabavi aktualizirane teme kolorita
 privacy-policy = Politika privatnosti
 # Refers to the author of an add-on, shown below the name of the add-on.
 # Variables:
@@ -558,3 +559,21 @@ mlmodel-link-preview = { -brand-short-name } koristi ovo za generiranje ključni
 mlmodel-pdfjs = { -brand-short-name } koristi ovo za stvaranje alternativnog teksta za slike koje dodaješ u PDF datoteke
 mlmodel-smart-tab-topic-engine = { -brand-short-name } koristi ovo za predlaganje imena za tvoje grupe kartica
 mlmodel-smart-tab-embedding-engine = { -brand-short-name } koristi ovo za predlaganje kartica za tvoje grupe kartica
+# AI Model will be downloaded on the users device and used locally
+addon-category-mlmodel = Umjetna inteligencija na uređaju
+addon-category-mlmodel-title =
+    .title = Umjetna inteligencija na uređaju
+mlmodel-heading = Upravljaj modelima umjetne inteligencije na uređaju
+mlmodel-description = Neke funkcije i proširenja u { -brand-short-name(case: "loc") } pokreću UI modeli koji rade lokalno na tvom uređaju. Ovaj pristup štiti tvoju privatnost i, u mnogim slučajevima, ubrzava performansu. <a data-l10n-name="learn-more">Saznaj više</a>
+# Label for button that when clicked removed local model
+mlmodel-remove-addon-button =
+    .aria-label = Ukloni
+# Label for the aggregated value of all files for a model
+mlmodel-addon-detail-totalsize-label = Veličina datoteke
+mlmodel-addon-detail-last-used-label = Zadnji put korišteno
+# This is a section label to describe what extensions or features use a specific local AI model
+mlmodel-addon-detail-used-by-label = Korišteno od
+# This is a section label to describe the link to the model card on the Hugging Face website
+mlmodel-addon-detail-model-card = Kartica modela
+# This is a label for the Model Card link to Hugging face
+mlmodel-addon-detail-model-card-link-label = Prikaži na Hugging Face
