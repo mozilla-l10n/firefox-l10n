@@ -192,6 +192,12 @@ downloads-details =
 downloads-private-browsing-details =
     .title = Soubory zůstanou na vašem zařízení
 downloads-private-browsing-message = Každý, kdo použije toto zařízení, uvidí stažené soubory, i když zavřete všechna anonymní okna.
+downloads-private-browsing-delete-button =
+    .label = Mazat soubory automaticky
+    .accesskey = M
+downloads-private-browsing-accept-button =
+    .label = Rozumím
+    .accesskey = R
 
 ## Displayed when a site attempts to automatically download many files.
 ## Variables:
