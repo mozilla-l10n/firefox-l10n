@@ -185,6 +185,15 @@ downloads-details =
 
 ## These strings are displayed in the private browsing view of the downloads panel
 
+downloads-private-browsing-details =
+    .title = I files a restin sul to dispositîf
+downloads-private-browsing-message = Ducj chei che a doprin chest dispositîf a puedin viodi i files discjariâts, ancje dopo che tu âs sierât ducj i barcons privâts.
+downloads-private-browsing-delete-button =
+    .label = Elimine i files in automatic
+    .accesskey = E
+downloads-private-browsing-accept-button =
+    .label = Capît
+    .accesskey = C
 
 ## Displayed when a site attempts to automatically download many files.
 ## Variables:
