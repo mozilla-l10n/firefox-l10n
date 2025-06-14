@@ -366,6 +366,10 @@ quickactions-extensions = Behandle utvidelser
 quickactions-cmd-extensions = utvidelser
 # Opens Firefox View
 quickactions-firefoxview = Åpne { -firefoxview-brand-name }
+# English is using "view" and "open view", since the feature name is
+# "Firefox View". If you have translated the name in your language, you
+# should use a word related to the existing translation.
+quickactions-cmd-firefoxview = åpne { -firefoxview-brand-name }, { -firefoxview-brand-name }, åpne oversikt, oversikt
 # Opens SUMO home page
 quickactions-help = { -brand-product-name }-hjelp
 quickactions-cmd-help = hjelp, støtte, support
@@ -686,6 +690,8 @@ urlbar-result-action-visit = Besøk
 # Variables
 # $container (String): the name of the target container
 urlbar-result-action-switch-tab-with-container = Bytt til fane · <span>{ $container }</span>
+# Used when the target tab is in a tab group that doesn't have a label.
+urlbar-result-action-tab-group-unnamed = Navnløs gruppe
 # Allows the user to visit a URL that was previously copied to the clipboard.
 urlbar-result-action-visit-from-clipboard = Besøk fra utklippstavlen
 # Directs a user to press the Tab key to perform a search with the specified
@@ -734,6 +740,25 @@ urlbar-result-action-calculator-result-3 = = { NUMBER($result, useGrouping: "fal
 # Variables
 #  $result (String): the string representation for a formula result
 urlbar-result-action-calculator-result-decimal = = { NUMBER($result, maximumSignificantDigits: 9) }
+# The title of a weather suggestion in the urlbar. The temperature and unit
+# substring should be inside a <strong> tag. If the temperature and unit are not
+# adjacent in the localization, it's OK to include only the temperature in the
+# tag.
+# Variables:
+#   $temperature (number) - The temperature value
+#   $unit (String) - The unit for the temperature, either "C" or "F"
+#   $city (String) - The name of the city the weather data is for
+#   $region (String) - The name of the city's region. Depending on the user's
+#       location in relation to the city, this may be the name or abbreviation
+#       of one of the city's administrative divisions like a province or state,
+#       or it may be the name of the city's country.
+urlbar-result-weather-title = <strong>{ $temperature } °{ $unit }</strong> i { $city }, { $region }
+# Shows the name of the provider of weather data in a weather suggestion in the
+# urlbar.
+# Variables:
+#   $provider (String) - The name of the weather-data provider. It will be the
+#       name of a company, organization, or service.
+urlbar-result-weather-provider-sponsored = { $provider } · Sponset
 
 ## Strings used for buttons in the urlbar
 
@@ -1258,3 +1283,5 @@ file-picker-crashed-show-in-folder =
 ## Onboarding Finish Setup checklist
 
 onboarding-checklist-button-label = Fullfør oppsettet
+onboarding-finish-setup-button-label =
+    .label = Fullfør oppsettet
