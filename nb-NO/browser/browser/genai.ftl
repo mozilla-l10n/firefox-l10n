@@ -8,6 +8,9 @@
 genai-settings-chat-chatgpt-links = Ved å velge ChatGPT samtykker du i OpenAIs <a data-l10n-name="link1">bruksvilkår</a> og <a data-l10n-name="link2">personvernsbestemmelser</a>.
 genai-settings-chat-claude-links = Ved å velge Anthropic Claude samtykker du i Anthropics <a data-l10n-name="link1">bruksvilkår for forbrukere</a>, <a data-l10n-name="link2">bruksbestemmelser</a> og <a data-l10n-name="link3">personvernsbestemmelser</a>.
 genai-settings-chat-copilot-links = Ved å velge Copilot godtar du <a data-l10n-name="link1">vilkårene for Copilot AI-opplevelser</a> og <a data-l10n-name="link2">Microsofts personvernerklæring</a>.
+genai-settings-chat-gemini-links = Ved å velge Google Gemini godtar du <a data-l10n-name="link1">Googles tjenestevilkår</a>, <a data-l10n-name="link2">retningslinjene for forbudt bruk av generativ AI</a> og <a data-l10n-name="link3">personvernerklæringen for Gemini-apper</a>.
+genai-settings-chat-huggingchat-links = Ved å velge HuggingChat godtar du <a data-l10n-name="link1">HuggingChats personvernerklæring</a> og <a data-l10n-name="link2">personvernerklæringen for Hugging Face</a>.
+genai-settings-chat-lechat-links = Ved å velge Le Chat Mistral godtar du Mistral AIs <a data-l10n-name="link1">tjenestevilkår</a> og <a data-l10n-name="link2">personvernerklæring</a>.
 genai-settings-chat-localhost-links = Ta med din egen private lokale samtalerobot som <a data-l10n-name="link1">llamafile</a> fra { -vendor-short-name }s innovasjonsgruppe.
 
 ## Chatbot prompts
@@ -98,10 +101,17 @@ genai-options-show-shortcut =
     .label = Vis snarvei når du velger tekst
 genai-options-hide-shortcut =
     .label = Skjul snarvei når du velger tekst
+genai-options-about-chatbot =
+    .label = Om AI-chatboter i { -brand-short-name }
 
 ## Chatbot onboarding
 
+genai-onboarding-header = Oppsummer, idémyldre og mer mens du surfer
 genai-onboarding-choose-header = Velg en AI-chatbot som skal brukes i { -brand-short-name }-sidestolpen
+# "Switch anytime" refers to allowing the user to switch to a different chatbot.
+genai-onboarding-description = Velg en AI-chatbot du vil bruke i { -brand-short-name }-sidestolpen. Vi viser detaljer om hver chatbot når du velger den. Bytt når som helst. <a data-l10n-name="learn-more">Les mer</a>
+# "Switch anytime" refers to allowing the user to switch to a different chatbot.
+genai-onboarding-choose-description = Bytt når som helst. For hjelp med å velge, <a data-l10n-name="learn-more">les mer om hver chatbot</a>.
 genai-onboarding-primary = Fortsett
 genai-onboarding-secondary = Lukk
 genai-onboarding-claude-tooltip =
@@ -123,6 +133,11 @@ genai-onboarding-lechat-tooltip =
     .title = Le Chat Mistral
 genai-onboarding-lechat-learn = Les mer om Le Chat
 genai-onboarding-select-header = Marker tekst for å se forslag
+genai-onboarding-select-description = Når du velger tekst, foreslår vi spørsmål du kan sende til chatboten. Du kan også skrive inn dine egne spørsmål.
+genai-onboarding-select-primary = Begynn å chatte
+genai-chatbot-contextual-title = Bruk en AI-chatbot uten å bytte faner
+genai-chatbot-contextual-subtitle = Chat og surf side om side når du legger til en AI-chatbot i { -brand-short-name }-sidestolpen.
+genai-chatbot-contextual-button = Velg en chatbot
 
 ## Chatbot onboarding choices
 ## These describe features/capabilities of chatbot providers. These are not buttons/actions.
@@ -156,3 +171,15 @@ genai-model-optin-cancel =
 
 ## Link previews
 
+# ‘min’ is short for “minute”
+# ‘mins’ is short for “minutes”
+# An estimate for how long it takes to read an article,
+# expressed as a range covering both slow and fast readers.
+# Variables:
+#   $rangePlural (String): The plural category of the range, using the same set as for numbers.
+#   $range (String): The range of minutes as a localised string. Examples: "3-7", "~1".
+link-preview-reading-time =
+    { $rangePlural ->
+        [one] { $range } minutt lesetid
+       *[other] { $range } minutter lesetid
+    }
