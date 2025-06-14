@@ -501,6 +501,9 @@ shortcuts-heading = Správa klávesových skratiek pre rozšírenia
 default-heading-search-label = Zobraziť ďalšie doplnky
 addons-heading-search-input =
     .placeholder = Hľadať na addons.mozilla.org
+addons-heading-search-button =
+    .title = Hľadať na addons.mozilla.org
+    .aria-label = Hľadať na addons.mozilla.org
 addon-page-options-button =
     .title = Nástroje pre všetky doplnky
 

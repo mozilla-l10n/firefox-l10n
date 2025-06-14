@@ -361,6 +361,9 @@ download-choose-folder =
 download-always-ask-where =
     .label = Να γίνεται πάντα ερώτηση για την τοποθεσία αποθήκευσης αρχείων
     .accesskey = α
+download-private-browsing-delete =
+    .label = Διαγραφή αρχείων λήψης της ιδιωτικής περιήγησης κατά το κλείσιμο όλων των ιδιωτικών παραθύρων
+    .accesskey = Δ
 applications-header = Εφαρμογές
 applications-description = Επιλέξτε πώς θα χειρίζεται το { -brand-short-name } τα αρχεία λήψης από το διαδίκτυο ή τις εφαρμογές που χρησιμοποιείτε κατά την περιήγηση.
 applications-filter =
@@ -653,6 +656,7 @@ home-prefs-weather-description = Σημερινή πρόγνωση με μια �
 home-prefs-weather-learn-more-link = Μάθετε περισσότερα
 home-prefs-trending-search-header =
     .label = Δημοφιλείς αναζητήσεις
+home-prefs-trending-search-description = Δημοφιλή και συνήθη θέματα αναζήτησης
 # "Support" here means to help sustain or contribute to something, especially through funding or sponsorship.
 home-prefs-support-firefox-header =
     .label = Υποστηρίξτε τη { -brand-product-name }

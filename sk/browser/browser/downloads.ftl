@@ -185,6 +185,15 @@ downloads-details =
 
 ## These strings are displayed in the private browsing view of the downloads panel
 
+downloads-private-browsing-details =
+    .title = Súbory zostávajú vo vašom zariadení
+downloads-private-browsing-message = Stiahnuté súbory si môže zobraziť ktokoľvek, kto toto zariadenie používa, a to aj po zatvorení všetkých súkromných okien.
+downloads-private-browsing-delete-button =
+    .label = Súbory odstraňovať automaticky
+    .accesskey = S
+downloads-private-browsing-accept-button =
+    .label = Rozumiem
+    .accesskey = R
 
 ## Displayed when a site attempts to automatically download many files.
 ## Variables:
