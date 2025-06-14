@@ -5,6 +5,9 @@
 
 ## Generative AI (GenAI) Settings section
 
+genai-settings-chat-chatgpt-links = Ved å velge ChatGPT samtykker du i OpenAIs <a data-l10n-name="link1">bruksvilkår</a> og <a data-l10n-name="link2">personvernsbestemmelser</a>.
+genai-settings-chat-claude-links = Ved å velge Anthropic Claude samtykker du i Anthropics <a data-l10n-name="link1">bruksvilkår for forbrukere</a>, <a data-l10n-name="link2">bruksbestemmelser</a> og <a data-l10n-name="link3">personvernsbestemmelser</a>.
+genai-settings-chat-copilot-links = Ved å velge Copilot godtar du <a data-l10n-name="link1">vilkårene for Copilot AI-opplevelser</a> og <a data-l10n-name="link2">Microsofts personvernerklæring</a>.
 genai-settings-chat-localhost-links = Ta med din egen private lokale samtalerobot som <a data-l10n-name="link1">llamafile</a> fra { -vendor-short-name }s innovasjonsgruppe.
 
 ## Chatbot prompts
@@ -55,18 +58,39 @@ genai-input-ask-generic =
 # $provider (string) - name of the provider
 genai-input-ask-provider =
     .placeholder = Spør { $provider }…
+# $selectionLength (number) - selected text length
+# $maxLength (number) - max length of what can be selected
+genai-shortcuts-selected-warning-generic =
+    .heading = AI-chatboten vil ikke få hele utvalget ditt
+    .message =
+        { $selectionLength ->
+           *[other] Du har valgt omtrent { $selectionLength } tegn. Maksimalt antall tegn vi kan sende til AI-chatboten er omtrent { $maxLength }.
+        }
+# $provider (string) - name of the provider
+# $selectionLength (number) - selected text length
+# $maxLength (number) - max length of what can be selected
+genai-shortcuts-selected-warning =
+    .heading = { $provider } vil ikke motta hele utvalget ditt.
+    .message =
+        { $selectionLength ->
+           *[other] Du har valgt omtrent { $selectionLength } tegn. Maksimalt antall tegn vi kan sende til { $provider } er omtrent { $maxLength }.
+        }
 genai-shortcuts-hide =
     .label = Skjul chatbot-snarvei
 
 ## Chatbot header
 
 genai-chatbot-title = AI-chatbot
+genai-header-provider-menu =
+    .title = Velg en chatbot
 genai-header-options-button =
     .title = Åpne meny
 genai-header-close-button =
     .title = Lukk
 genai-provider-view-details =
     .label = Vis samtalerobot-detaljer
+genai-options-reload-generic =
+    .label = Last inn AI-chatboten på nytt
 # $provider (string) - name of the provider
 genai-options-reload-provider =
     .label = Oppdater { $provider }
@@ -77,6 +101,7 @@ genai-options-hide-shortcut =
 
 ## Chatbot onboarding
 
+genai-onboarding-choose-header = Velg en AI-chatbot som skal brukes i { -brand-short-name }-sidestolpen
 genai-onboarding-primary = Fortsett
 genai-onboarding-secondary = Lukk
 genai-onboarding-claude-tooltip =
