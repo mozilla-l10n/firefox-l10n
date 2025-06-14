@@ -539,6 +539,10 @@ newtab-report-content-spam-misleading =
     .label = Спам немесе жаңылыстыру
 newtab-report-cancel = Бас тарту
 newtab-report-submit = Жіберу
+newtab-toast-thanks-for-reporting =
+    .message = Бұл туралы хабарлағаныңыз үшін рахмет.
 
 ## Strings for trending searches
 
+# "Trending on Google" refers to the trending topics coming from Google Search, usually seen when a user is focused on the search bar
+newtab-trending-searches-trending-on-google = Google-да әйгілі
