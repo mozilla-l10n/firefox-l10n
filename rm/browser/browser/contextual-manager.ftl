@@ -291,3 +291,9 @@ contextual-manager-passwords-discard-changes-heading-and-message =
     .message = Tias modificaziuns na vegnan betg memorisadas.
 contextual-manager-passwords-discard-changes-close-button = Serrar
 contextual-manager-passwords-discard-changes-go-back-button = Turnar
+#   $total (number) - Total number of passwords
+contextual-manager-passwords-remove-all-passwords-checkbox =
+    { $total ->
+        [1] Gea, allontanar il pled-clav
+       *[other] Gea, allontanar ils pleds-clav
+    }

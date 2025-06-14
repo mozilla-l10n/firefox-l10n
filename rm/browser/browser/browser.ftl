@@ -344,6 +344,10 @@ search-one-offs-actions =
 
 # Opens the about:addons page in the home / recommendations section
 quickactions-addons = Mussar ils supplements
+# In English we provide multiple spellings for "add-ons". If that's not
+# applicable to your language, only use the correct spelling (don't repeat the
+# same word).
+quickactions-cmd-addons3 = extensiuns, designs, supplements
 quickactions-cmd-addons2 = supplements
 # Opens the bookmarks library window
 quickactions-bookmarks2 = Administrar ils segnapaginas
@@ -384,6 +388,7 @@ quickactions-print2 = Stampar la pagina
 quickactions-cmd-print = stampar
 # Opens the print dialog at the save to PDF option
 quickactions-savepdf = Memorisar la pagina sco PDF
+quickactions-cmd-savepdf2 = pdf, memorisar la pagina
 quickactions-cmd-savepdf = pdf
 # Opens a new private browsing window
 quickactions-private2 = Avrir ina fanestra en il modus privat
@@ -400,6 +405,8 @@ quickactions-cmd-screenshot2 = maletg dal visur, screenshot, far ina foto
 quickactions-cmd-screenshot = maletg dal visur
 # Opens about:preferences
 quickactions-settings2 = Administrar ils parameters
+# "manage" should match the corresponding command, which is “Manage settings” in English.
+quickactions-cmd-settings2 = parameters, preferenzas, opziuns, administrar
 quickactions-cmd-settings = parameters, preferenzas, opziuns
 # Opens about:addons page in the themes section
 quickactions-themes = Administrar ils designs
@@ -683,6 +690,8 @@ urlbar-result-action-visit = Visitar
 # Variables
 # $container (String): the name of the target container
 urlbar-result-action-switch-tab-with-container = Midar al tab · <span>{ $container }</span>
+# Used when the target tab is in a tab group that doesn't have a label.
+urlbar-result-action-tab-group-unnamed = Gruppa senza num
 # Allows the user to visit a URL that was previously copied to the clipboard.
 urlbar-result-action-visit-from-clipboard = Visitar l'URL da l'archiv provisoric
 # Directs a user to press the Tab key to perform a search with the specified
@@ -731,6 +740,25 @@ urlbar-result-action-calculator-result-3 = = { NUMBER($result, useGrouping: "fal
 # Variables
 #  $result (String): the string representation for a formula result
 urlbar-result-action-calculator-result-decimal = = { NUMBER($result, maximumSignificantDigits: 9) }
+# The title of a weather suggestion in the urlbar. The temperature and unit
+# substring should be inside a <strong> tag. If the temperature and unit are not
+# adjacent in the localization, it's OK to include only the temperature in the
+# tag.
+# Variables:
+#   $temperature (number) - The temperature value
+#   $unit (String) - The unit for the temperature, either "C" or "F"
+#   $city (String) - The name of the city the weather data is for
+#   $region (String) - The name of the city's region. Depending on the user's
+#       location in relation to the city, this may be the name or abbreviation
+#       of one of the city's administrative divisions like a province or state,
+#       or it may be the name of the city's country.
+urlbar-result-weather-title = { $city }, { $region }: <strong>{ $temperature }°{ $unit }</strong>
+# Shows the name of the provider of weather data in a weather suggestion in the
+# urlbar.
+# Variables:
+#   $provider (String) - The name of the weather-data provider. It will be the
+#       name of a company, organization, or service.
+urlbar-result-weather-provider-sponsored = { $provider } · Sponsurisà
 
 ## Strings used for buttons in the urlbar
 
@@ -813,6 +841,9 @@ urlbar-group-recent-searches =
 #  $engine (String): the name of the search engine providing the trending suggestions
 urlbar-group-trending =
     .label = Trend sin { $engine }
+# Label shown above sponsored suggestions in the urlbar results.
+urlbar-group-sponsored =
+    .label = Sponsurisà
 # The result menu labels shown next to trending results.
 urlbar-result-menu-trending-dont-show =
     .label = Betg mussar trends da tschertga
@@ -1189,6 +1220,15 @@ popup-notification-addon-install-unsigned =
     .value = (Betg verifitgà)
 popup-notification-xpinstall-prompt-learn-more = Vegnir a savair dapli davart l'installaziun da supplements a moda segira
 popup-notification-xpinstall-prompt-block-url = Mussar detagls
+# Note: Access key is set to p to match "private" in the corresponding localized label.
+popup-notification-addon-privatebrowsing-checkbox2 =
+    .label = Permetter che l’extensiun vegnia exequida en fanestras privatas
+    .accesskey = p
+# This string is similar to `webext-perms-description-data-long-technicalAndInteraction`
+# but it is used in the install prompt, and it needs an access key.
+popup-notification-addon-technical-and-interaction-checkbox =
+    .label = Cundivider datas tecnicas e datas d’interacziun cun il sviluppader da l’extensiun
+    .accesskey = s
 
 ## Pop-up warning
 
@@ -1242,3 +1282,6 @@ file-picker-crashed-show-in-folder =
 
 ## Onboarding Finish Setup checklist
 
+onboarding-checklist-button-label = Finir la configuraziun
+onboarding-finish-setup-button-label =
+    .label = Finir la configuraziun
