@@ -52,6 +52,7 @@ community-2 = { -brand-short-name } ᱫᱚ ᱥᱟᱡᱟᱣᱠᱟᱱᱟ ᱫᱟᱨ
 helpus = ᱜᱚᱲᱚ ᱮᱢ ᱥᱟᱱᱟᱢ ᱠᱟᱱᱟ? <label data-l10n-name="helpus-donateLink">ᱫᱟᱱ ᱢᱮ</label> ᱟᱨ ᱵᱟᱝ <label data-l10n-name="helpus-getInvolvedLink">ᱪᱷᱩᱴᱟᱣᱜ ᱢᱮ!</label>
 bottomLinks-license = ᱞᱟᱭᱥᱮᱱᱥ ᱮᱢ ᱞᱟᱹᱭ ᱥᱚᱫᱚᱨ
 bottom-links-terms = ᱵᱮᱵᱷᱟᱨ ᱨᱮᱭᱟᱜ ᱥᱚᱨᱛᱚ
+bottom-links-privacy = ᱫᱟᱱᱟᱝ ᱠᱷᱚᱵᱚᱨ
 bottomLinks-rights = ᱵᱮᱵᱷᱨᱤᱡ ᱦᱚᱠ ᱠᱚ ᱢᱩᱪᱟᱹᱫ
 bottomLinks-privacy = ᱩᱠᱩᱣᱟᱜ ᱱᱤᱛᱤ
 # Example of resulting string: 66.0.1 (64-bit)
