@@ -275,7 +275,7 @@ appmenu-developer-tools-subheader = ბრაუზერის ხელსა�
 appmenu-developer-tools-extensions =
     .label = გაფართოებები შემმუშავებელთათვის
 appmenuitem-report-broken-site =
-    .label = გაუმართავი საიტის მოხსენება
+    .label = არეული საიტის მოხსენება
 
 ## Panel for privacy and security products
 

@@ -2,10 +2,10 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-report-broken-site-mainview-title = გაუმართავი საიტის მოხსენება
+report-broken-site-mainview-title = არეული საიტის მოხსენება
 report-broken-site-panel-header =
-    .label = გაუმართავი საიტის მოხსენება
-    .title = გაუმართავი საიტის მოხსენება
+    .label = არეული საიტის მოხსენება
+    .title = არეული საიტის მოხსენება
 report-broken-site-panel-intro = დაგვეხმარეთ, რომ გავაუმჯობესოთ { -brand-product-name } ყველასთვის. { -vendor-short-name } თქვენ მიერ გამოგზავნილ მონაცემებს იყენებს ვებსაიტზე ხარვეზების მოსაგვარებლად.
 report-broken-site-panel-url = ბმული
 report-broken-site-panel-reason-label = რა დაზიანდა?

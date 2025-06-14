@@ -164,8 +164,8 @@ protections-panel-cookie-banner-view-turn-off-label =
 protections-panel-cookie-banner-view-turn-on-label =
     .label = ჩართვა
 protections-panel-report-broken-site =
-    .label = გაუმართავი საიტის მოხსენება
-    .title = გაუმართავი საიტის მოხსენება
+    .label = არეული საიტის მოხსენება
+    .title = არეული საიტის მოხსენება
 
 ## Protections panel info message
 
