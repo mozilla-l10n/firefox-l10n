@@ -579,4 +579,3 @@ newtab-trending-searches-hide-trending =
     .title = Nascondi ricerche di tendenza
 newtab-trending-searches-learn-more = Ulteriori informazioni
 newtab-trending-searches-dismiss = Nascondi ricerche di tendenza
-
