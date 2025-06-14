@@ -654,6 +654,8 @@ home-prefs-weather-header =
     .label = Hava durumu
 home-prefs-weather-description = Bugünkü hava durumu tahmini
 home-prefs-weather-learn-more-link = Daha fazla bilgi al
+home-prefs-trending-search-header =
+    .label = Gündemdeki aramalar
 home-prefs-trending-search-description = Popüler ve sıkça aranan konular
 # "Support" here means to help sustain or contribute to something, especially through funding or sponsorship.
 home-prefs-support-firefox-header =
