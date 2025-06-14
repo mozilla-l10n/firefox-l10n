@@ -3,6 +3,8 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 about-policies-title = ᱮᱱᱴᱚᱨᱯᱨᱟᱭᱤᱡᱽ ᱱᱤᱛᱤ
+aboutpolicies-page-heading =
+    .heading = ᱯᱚᱞᱤᱥᱤ ᱠᱚ ᱵᱟᱨᱮᱛᱮ
 # 'Active' is used to describe the policies that are currently active
 active-policies-tab = ᱩᱥᱨᱟᱹᱣ
 errors-tab = ᱵᱷᱩᱞᱠᱚ

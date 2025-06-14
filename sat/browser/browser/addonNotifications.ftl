@@ -81,6 +81,8 @@ addon-removal-title = { $name } ᱚᱪᱚᱜᱟᱢ ᱥᱮ?
 addon-removal-message = { -brand-shorter-name } ᱠᱷᱚᱱ { $name } ᱚᱪᱚᱜᱽᱟᱢ ᱥᱮ ?
 addon-removal-button = ᱚᱪᱚᱜᱽ ᱢᱮ
 addon-removal-abuse-report-checkbox = ᱱᱚᱶᱟ ᱯᱟᱥᱱᱟᱣ ᱫᱚ { -vendor-short-name } ᱛᱮ ᱠᱷᱚᱵᱚᱨ ᱢᱮ
+# "it" refers to the local AI model that is paired to the AI feature
+addon-mlmodel-removal-body = ᱡᱩᱫᱤ ᱟᱢ ᱱᱚᱣᱟ ᱢᱚᱰᱮᱞ ᱵᱮᱵᱷᱟᱨ ᱯᱷᱤᱪᱟᱨ ᱥᱮ ᱮᱠᱥᱴᱮᱱᱥᱚᱱ ᱮᱢ ᱵᱮᱵᱷᱟᱨ ᱮᱫᱟ, ᱱᱚᱣᱟ ᱫᱚᱦᱲᱟ ᱥᱮᱞᱮᱫᱚᱜᱼᱟ ᱾
 # Variables:
 #   $addonCount (Number): the number of add-ons being downloaded
 addon-downloading-and-verifying =
