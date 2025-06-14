@@ -81,6 +81,8 @@ addon-removal-title = Allontanar { $name }?
 addon-removal-message = Allontanar { $name } da { -brand-shorter-name }?
 addon-removal-button = Allontanar
 addon-removal-abuse-report-checkbox = Rapportar questa extensiun a { -vendor-short-name }
+# "it" refers to the local AI model that is paired to the AI feature
+addon-mlmodel-removal-body = Sche ti utiliseschas las funcziunalitads u extensiuns che utiliseschan quest model, vegn el puspè agiuntà.
 # Variables:
 #   $addonCount (Number): the number of add-ons being downloaded
 addon-downloading-and-verifying =
