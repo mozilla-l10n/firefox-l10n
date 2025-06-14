@@ -8,6 +8,7 @@
 -fog-brand-name = FOG
 -glean-brand-name = Glean
 glean-sdk-brand-name = { -glean-brand-name } SDK
+glean-debug-ping-viewer-brand-name = { -glean-brand-name } preglednik pingova za otklanjanje grešaka
 about-glean-page-title2 = O { -glean-brand-name }
 about-glean-header = O { -glean-brand-name }
 about-glean-interface-description =
