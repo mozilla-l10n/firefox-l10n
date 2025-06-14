@@ -425,12 +425,18 @@ onboarding-checklist-sign-up = Registrer deg eller logg inn på kontoen din
 ## Tab Groups feature onboarding strings
 
 tab-groups-onboarding-feature-callout-title = Prøv fanegrupper for mindre rot, mer fokus
+tab-groups-onboarding-feature-callout-subtitle = Organiser fanene dine ved å dra én fane oppå en annen for å opprette den første gruppen.
+tab-groups-onboarding-create-group-title-2 = Finn fanegruppene dine her når som helst.
 tab-groups-onboarding-create-group-no-alltabs-button-title = Finn gruppene dine ved å søke etter dem i adresselinjen.
+tab-groups-onboarding-saved-groups-title-2 = Når du lukker en fanegruppe, kan du åpne den på nytt her når som helst.
+tab-groups-onboarding-saved-groups-no-alltabs-button-title-2 = Finn dine lukkede grupper ved å søke etter dem i adressefeltet.
 tab-groups-onboarding-session-restore-title = Gjenåpne fanegruppene dine her når som helst.
 tab-groups-onboarding-dismiss = OK
 
 ## Multi Profiles feature onboarding messages
 
+multi-profile-spotlight-title = Si hei til { -brand-product-name }-profiler
+multi-profile-spotlight-body = Bytt enkelt mellom å bruke nettleseren til jobb og fritid. Profiler holder nettleserdata som søkelogg og passord helt adskilt, slik at du kan holde orden.
 multi-profile-spotlight-cta = Opprett en profil
 multi-profile-callout-title = Lag forskjellige profiler for jobb og fritid
 multi-profile-callout-subtitle = Profiler lar deg holde nettleserinformasjonen din, som søkehistorikk og passord, helt adskilt.

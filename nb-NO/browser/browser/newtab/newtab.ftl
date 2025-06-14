@@ -418,6 +418,8 @@ newtab-wallpaper-category-title-celestial = Rommet
 newtab-wallpaper-celestial-lunar-eclipse = Måneformørkelse
 newtab-wallpaper-celestial-earth-night = Nattbilde fra lav jordbane
 newtab-wallpaper-celestial-starry-sky = Stjernehimmel
+newtab-wallpaper-celestial-eclipse-time-lapse = Tidsforløpet til en måneformørkelse
+newtab-wallpaper-celestial-black-hole = Illustrasjon av en galakse med et sort hull
 newtab-wallpaper-celestial-river = Satellittbilde av elv
 
 ## New Tab Weather
@@ -526,12 +528,24 @@ newtab-section-mangage-topics-followed-topics = Fulgt
 newtab-section-mangage-topics-followed-topics-empty-state = Du har ikke fulgt noen emner ennå.
 newtab-section-mangage-topics-blocked-topics = Blokkert
 newtab-section-mangage-topics-blocked-topics-empty-state = Du har ikke blokkert noen emner ennå.
+newtab-custom-wallpaper-title = Nå kan du velge din egen bakgrunn
+# 'Make firefox yours" means to customize or personalize
+newtab-custom-wallpaper-subtitle = Last opp ditt eget bakgrunnsbilde eller velg en egendefinert farge for å gjøre { -brand-product-name } til ditt eget.
+newtab-custom-wallpaper-cta = Prøv det
 
 ## Strings for download mobile highlight
 
+newtab-download-mobile-highlight-title = Last ned { -brand-product-name } for mobil
+# "Scan the code" refers to scanning the QR code that appears above the body text that leads to Firefox for mobile download.
+newtab-download-mobile-highlight-body-variant-a = Skann koden for å surfe trygt på farten.
+newtab-download-mobile-highlight-body-variant-b = Fortsett der du sluttet når du synkroniserer faner, passord og mer.
 
 ## Strings for reporting ads and content
 
+newtab-report-content-why-reporting-this =
+    .label = Hvorfor rapporterer du dette?
+newtab-report-ads-reason-not-interested =
+    .label = Jeg er ikke interessert
 newtab-report-submit = Send
 newtab-toast-thanks-for-reporting =
     .message = Takk for at du rapporterte dette.
