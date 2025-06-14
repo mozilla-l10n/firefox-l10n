@@ -754,7 +754,7 @@ urlbar-result-action-calculator-result-decimal = = { NUMBER($result, maximumSign
 #       location in relation to the city, this may be the name or abbreviation
 #       of one of the city's administrative divisions like a province or state,
 #       or it may be the name of the city's country.
-urlbar-result-weather-title = { $region }, { $city } şu anda <strong>{ $temerature } °{ $unit }</strong>
+urlbar-result-weather-title = { $region }, { $city } şu anda <strong>{ $temperature } °{ $unit }</strong>
 # Shows the name of the provider of weather data in a weather suggestion in the
 # urlbar.
 # Variables:

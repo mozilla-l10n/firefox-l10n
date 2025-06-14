@@ -61,6 +61,9 @@ add-engine-button = 添加自定义引擎
 add-engine-name = 搜索引擎名称
 add-engine-url2 = 在网址中用 %s 代替搜索词
 add-engine-keyword2 = 关键字（选填）
+# POST and GET refer to the HTTP methods.
+add-engine-post-data = POST 数据，用 %s 代替搜索词（若使用 GET 方法请留空）
+add-engine-suggest-url = 搜索建议网址，用 %s 代替搜索词（选填）
 add-engine-keyword = 关键词
 add-engine-url = 搜索引擎 URL，用 %s 替换搜索词
 add-engine-dialog =
