@@ -163,6 +163,46 @@ cert-error-inadequate-cert-type =
         [with-cases] { -brand-short-name } zablokoval vaši návštěvu tohoto webu, protože certifikát poskytnutý pro { $hostname } není webovým serverem povolen.
        *[no-cases] Aplikace { -brand-short-name } zablokovala vaši návštěvu tohoto webu, protože certifikát poskytnutý pro { $hostname } není webovým serverem povolen.
     }
+cert-error-path-len-constraint-invalid =
+    { -brand-short-name.case-status ->
+        [with-cases] { -brand-short-name } zablokoval vaši návštěvu tohoto webu, protože certifikát poskytnutý pro { $hostname } má v cestě ke kořenovému certifikátu příliš mnoho zprostředkujících certifikátů.
+       *[no-cases] Aplikace { -brand-short-name } zablokovala vaši návštěvu tohoto webu, protože certifikát poskytnutý pro { $hostname } má v cestě ke kořenovému certifikátu příliš mnoho zprostředkujících certifikátů.
+    }
+cert-error-invalid-key =
+    { -brand-short-name.case-status ->
+        [with-cases] { -brand-short-name } zablokoval vaši návštěvu tohoto webu, protože certifikát poskytnutý pro { $hostname } má neplatný klíč. S největší pravděpodobností je příliš malý na to, aby byl bezpečný.
+       *[no-cases] Aplikace { -brand-short-name } zablokovala vaši návštěvu tohoto webu, protože certifikát poskytnutý pro { $hostname } má neplatný klíč. S největší pravděpodobností je příliš malý na to, aby byl bezpečný.
+    }
+cert-error-unknown-critical-extension =
+    { -brand-short-name.case-status ->
+        [with-cases] { -brand-short-name } zablokoval vaši návštěvu tohoto webu, protože certifikát poskytnutý pro { $hostname } obsahuje nepodporované kritické rozšíření.
+       *[no-cases] Aplikce { -brand-short-name } zablokovala vaši návštěvu tohoto webu, protože certifikát poskytnutý pro { $hostname } obsahuje nepodporované kritické rozšíření.
+    }
+cert-error-extension-value-invalid =
+    { -brand-short-name.case-status ->
+        [with-cases] { -brand-short-name } zablokoval vaši návštěvu tohoto webu, protože certifikát poskytnutý pro { $hostname } obsahuje neplatné rozšíření.
+       *[no-cases] Aplikace { -brand-short-name } zablokovala vaši návštěvu tohoto webu, protože certifikát poskytnutý pro { $hostname } obsahuje neplatné rozšíření.
+    }
+cert-error-untrusted-issuer =
+    { -brand-short-name.case-status ->
+        [with-cases] { -brand-short-name } zablokoval vaši návštěvu tohoto webu, protože certifikát poskytnutý pro { $hostname } byl vydán certifikační autoritou, která již není důvěryhodná.
+       *[no-cases] Aplikace { -brand-short-name } zablokovala vaši návštěvu tohoto webu, protože certifikát poskytnutý pro { $hostname } byl vydán certifikační autoritou, která již není důvěryhodná.
+    }
+cert-error-untrusted-cert =
+    { -brand-short-name.case-status ->
+        [with-cases] { -brand-short-name } zablokoval vaši návštěvu tohoto webu, protože certifikát poskytnutý pro { $hostname } je označen jako nedůvěryhodný.
+       *[no-cases] Aplikace { -brand-short-name } zablokovala vaši návštěvu tohoto webu, protože certifikát poskytnutý pro { $hostname } je označen jako nedůvěryhodný.
+    }
+cert-error-invalid-integer-encoding =
+    { -brand-short-name.case-status ->
+        [with-cases] { -brand-short-name } zablokoval vaši návštěvu tohoto webu, protože certifikát poskytnutý pro { $hostname } obsahuje neplatné kódování celého čísla. Mezi běžné příčiny patří záporná sériová čísla, záporné moduly RSA a kódování delší, než je nutné.
+       *[no-cases] Aplikace { -brand-short-name } zablokovala vaši návštěvu tohoto webu, protože certifikát poskytnutý pro { $hostname } obsahuje neplatné kódování celého čísla. Mezi běžné příčiny patří záporná sériová čísla, záporné moduly RSA a kódování delší, než je nutné.
+    }
+cert-error-unsupported-keyalg =
+    { -brand-short-name.case-status ->
+        [with-cases] { -brand-short-name } zablokoval vaši návštěvu tohoto webu, protože certifikát poskytnutý pro { $hostname } má nepodporovaný typ klíče.
+       *[no-cases] Aplikace { -brand-short-name } zablokovala vaši návštěvu tohoto webu, protože certifikát poskytnutý pro { $hostname } má nepodporovaný typ klíče.
+    }
 
 ## Messages used for certificate error titles
 

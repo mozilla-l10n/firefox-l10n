@@ -2,6 +2,7 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+crashreporter-branded-title = { -brand-short-name } izvjestitelj o prekidu rada programa
 crashreporter-apology = Oprosti
 crashreporter-crashed-and-restore = { -brand-short-name } je imao problem i prekinuo je rad. Pokušat ćemo obnoviti tvoje kartice i prozore kada se ponovo pokrene.
 crashreporter-plea = Da biste nam pomogli u ispravljanju problema, možete nam poslati izvještaj rušenja.
