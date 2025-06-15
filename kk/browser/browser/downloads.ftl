@@ -185,6 +185,8 @@ downloads-details =
 
 ## These strings are displayed in the private browsing view of the downloads panel
 
+downloads-private-browsing-details =
+    .title = Файлдар сіздің құрылғыңызда қалады
 downloads-private-browsing-delete-button =
     .label = Файлдарды автоматты түрде өшіру
     .accesskey = ш
