@@ -81,6 +81,8 @@ addon-removal-title = Ĉu forigi { $name }?
 addon-removal-message = Ĉu forigi { $name } el { -brand-shorter-name }?
 addon-removal-button = Forigi
 addon-removal-abuse-report-checkbox = Denunci tiun ĉi etendaĵon al { -vendor-short-name }
+# "it" refers to the local AI model that is paired to the AI feature
+addon-mlmodel-removal-body = Se vi uzas trajtojn aŭ etendaĵojn kiuj bezonas tiun ĉi modelon, ĝi estos denove aldonita.
 # Variables:
 #   $addonCount (Number): the number of add-ons being downloaded
 addon-downloading-and-verifying =
