@@ -122,6 +122,8 @@ cert-error-bad-signature = { -brand-short-name } blokis vian viziton al tiu ĉi 
 cert-error-key-pinning-failure = { -brand-short-name } blokis vian viziton al tiu ĉi retejo ĉar la atestilo provizita por { $hostname } uzas publikan ŝlosilon, kiu ne kongruas kun la atendita.
 cert-error-bad-der = { -brand-short-name } blokis vian viziton al tiu ĉi retejo ĉar la atestilo provizita por { $hostname } ne estas korekte kodita.
 cert-error-cert-not-in-name-space = { -brand-short-name } blokis vian viziton al tiu ĉi retejo ĉar la atestilo provizita por { $hostname } ne plenumas la limigojn nomajn de la eldoninta atestilo.
+cert-error-issuer-no-longer-trusted = { -brand-short-name } blokis vian viziton al tiu ĉi retejo ĉar la atestila aŭtoritato kiu eldonis la atestilon provizitan por { $hostname } ne plu estas fidata.
+cert-error-signature-algorithm-mismatch = { -brand-short-name } blokis vian viziton al tiu ĉi retejo ĉar la subskriba algoritmo de la atestilo provizita por { $hostname } ne kongruas kun la kampo pri subskriba algoritmo.
 
 ## Messages used for certificate error titles
 
