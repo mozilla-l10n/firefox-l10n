@@ -480,6 +480,9 @@ shortcuts-heading = Administri alirklavojn de etendaĵoj
 default-heading-search-label = Serĉi pli da aldonaĵoj
 addons-heading-search-input =
     .placeholder = Serĉi en addons.mozilla.org
+addons-heading-search-button =
+    .title = Serĉi en addons.mozilla.org
+    .aria-label = Serĉi en addons.mozilla.org
 addon-page-options-button =
     .title = Iloj por ĉiuj aldonaĵoj
 

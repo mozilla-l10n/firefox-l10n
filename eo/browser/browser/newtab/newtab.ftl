@@ -312,6 +312,9 @@ newtab-custom-recent-toggle =
 newtab-custom-weather-toggle =
     .label = Vetero
     .description = Rapida rigardo al la veterprognozo hodiaŭa
+newtab-custom-trending-search-toggle =
+    .label = Popularaj serĉoj
+    .description = Popularaj kaj ofte serĉitaj temoj
 newtab-custom-close-button = Fermi
 newtab-custom-settings = Administri aliajn agordojn
 
@@ -562,3 +565,11 @@ newtab-toast-thanks-for-reporting =
 
 ## Strings for trending searches
 
+# "Trending on Google" refers to the trending topics coming from Google Search, usually seen when a user is focused on the search bar
+newtab-trending-searches-trending-on-google = Popularaĵoj en Google
+newtab-trending-searches-show-trending =
+    .title = Montri popularajn serĉojn
+newtab-trending-searches-hide-trending =
+    .title = Kaŝi popularajn serĉojn
+newtab-trending-searches-learn-more = Pli da informo
+newtab-trending-searches-dismiss = Kaŝi popularajn serĉojn

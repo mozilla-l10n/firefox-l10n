@@ -23,6 +23,11 @@ sidebar-history-date-this-month =
     .heading = { DATETIME($date, dateStyle: "full") }
 sidebar-history-date-prev-month =
     .heading = { DATETIME($date, month: "long", year: "numeric") }
+# When history is sorted by site, this heading is used in place of a domain, in
+# order to group sites that do not come from an outside host.
+# For example, this would be the heading for all file:/// URLs in history.
+sidebar-history-site-localhost =
+    .heading = (lokaj dosieroj)
 sidebar-history-delete =
     .title = Forigi el la historio
 sidebar-history-clear =
@@ -105,6 +110,8 @@ sidebar-history-context-menu-delete-page-2 =
     .label = Forigu paĝon el la historio
 sidebar-history-context-menu-bookmark-page =
     .label = Aldoni paĝon al legosignoj…
+sidebar-history-context-menu-delete-pages =
+    .label = Forigi paĝojn el la historio
 
 ## Labels for sidebar menu items.
 
