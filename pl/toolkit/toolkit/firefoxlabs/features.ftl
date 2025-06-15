@@ -33,3 +33,6 @@ experimental-features-contextual-password-manager-description = Umożliwia dost�
 experimental-features-custom-wallpaper =
     .label = Wybór innej tapety lub koloru dla nowej karty
 experimental-features-custom-wallpaper-description = Umożliwia ustawienie własnej tapety lub wybranie dowolnego koloru tła nowej karty.
+# Link Previews with AI
+experimental-features-link-previews =
+    .label = Podgląd odnośników
