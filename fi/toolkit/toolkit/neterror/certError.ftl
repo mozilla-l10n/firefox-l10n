@@ -114,6 +114,15 @@ fp-learn-more-about-time-related-errors = Lue lisää aikaan liittyvien virheide
 ## Variables:
 ##   $hostname (string) - Hostname of the website with cert error.
 
+cert-error-revoked-certificate = { -brand-short-name } esti vierailusi tälle sivustolle, koska sivustolle { $hostname } annettu varmenne on kumottu eikä siihen enää luoteta.
+cert-error-bad-signature = { -brand-short-name } esti vierailusi tälle sivustolle, koska sivustolle { $hostname } annetun varmenteen allekirjoitus ei ole kelvollinen.
+cert-error-key-pinning-failure = { -brand-short-name } esti vierailusi tälle sivustolle, koska sivustolle { $hostname } annettu varmenne käyttää erilaista julkista avainta kuin mitä odotettiin.
+cert-error-bad-der = { -brand-short-name } esti vierailusi tälle sivustolle, koska sivustolle { $hostname } annettua varmennetta ei ole koodattu oikein.
+cert-error-cert-not-in-name-space = { -brand-short-name } esti vierailusi tälle sivustolle, koska sivustolle { $hostname } annettu varmenne ei noudata sen myöntäneen varmenteen nimirajoituksia.
+cert-error-inadequate-cert-type = { -brand-short-name } esti vierailusi tälle sivustolle, koska sivustolle { $hostname } annettua varmennetta ei sallita käytettävän verkkopalvelimen toimesta.
+cert-error-path-len-constraint-invalid = { -brand-short-name } esti vierailusi tälle sivustolle, koska sivustolle { $hostname } annetulla varmenteella on liian monta välivarmennetta juurivarmenteen polussa.
+cert-error-invalid-key = { -brand-short-name } esti vierailusi tälle sivustolle, koska sivustolle { $hostname } annetussa varmenteessa on virheellinen avain. Todennäköisesti se on liian pieni ollakseen turvallinen.
+cert-error-unknown-critical-extension = { -brand-short-name } esti vierailusi tälle sivustolle, koska sivustolle { $hostname } annettu varmenne sisältää ei-tuetun kriittisen päätteen.
 
 ## Messages used for certificate error titles
 
