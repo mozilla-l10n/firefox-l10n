@@ -15,6 +15,7 @@ about-logging-set-log-file = Пазначыць файл журнала
 about-logging-set-log-modules = Пазначыць модулі журнала
 about-logging-start-logging = Пачаць вядзенне журнала
 about-logging-stop-logging = Спыніць вядзенне журнала
+about-logging-copy-as-url = Скапіяваць бягучыя налады як URL-адрас
 about-logging-buttons-disabled = Вядзенне журнала наладжана з дапамогай пераменных асяроддзя, дынамічная канфігурацыя недаступная.
 about-logging-some-elements-disabled = Вядзенне журнала наладжана праз URL, некаторыя параметры канфігурацыі недаступныя
 about-logging-info = Інфармацыя:
