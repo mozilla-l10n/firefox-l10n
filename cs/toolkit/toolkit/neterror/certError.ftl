@@ -143,6 +143,16 @@ cert-error-bad-signature =
         [with-cases] { -brand-short-name } zablokoval vaši návštěvu tohoto webu, protože podpis na certifikátu poskytnutém pro { $hostname } není platný.
        *[no-cases] Aplikace { -brand-short-name } zablokovala vaši návštěvu tohoto webu, protože podpis na certifikátu poskytnutém pro { $hostname } není platný.
     }
+cert-error-key-pinning-failure =
+    { -brand-short-name.case-status ->
+        [with-cases] { -brand-short-name } zablokoval vaši návštěvu tohoto webu, protože certifikát poskytnutý pro { $hostname } používá jiný veřejný klíč, než se očekávalo.
+       *[no-cases] Aplikace { -brand-short-name } zablokovala vaši návštěvu tohoto webu, protože certifikát poskytnutý pro { $hostname } používá jiný veřejný klíč, než se očekávalo.
+    }
+cert-error-bad-der =
+    { -brand-short-name.case-status ->
+        [with-cases] { -brand-short-name } zablokoval vaši návštěvu tohoto webu, protože certifikát poskytnutý pro { $hostname } není správně zakódován.
+       *[no-cases] Aplikace { -brand-short-name } zablokovala vaši návštěvu tohoto webu, protože certifikát poskytnutý pro { $hostname } není správně zakódován.
+    }
 
 ## Messages used for certificate error titles
 
