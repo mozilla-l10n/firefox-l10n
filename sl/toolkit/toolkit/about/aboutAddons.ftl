@@ -501,6 +501,9 @@ shortcuts-heading = Upravljanje bližnjic razširitev
 default-heading-search-label = Poišči več dodatkov
 addons-heading-search-input =
     .placeholder = Iskanje po addons.mozilla.org
+addons-heading-search-button =
+    .title = Iskanje po addons.mozilla.org
+    .aria-label = Iskanje po addons.mozilla.org
 addon-page-options-button =
     .title = Orodja za vse dodatke
 

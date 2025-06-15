@@ -185,6 +185,15 @@ downloads-details =
 
 ## These strings are displayed in the private browsing view of the downloads panel
 
+downloads-private-browsing-details =
+    .title = Datoteke bodo ostale na napravi
+downloads-private-browsing-message = Prenose bo lahko videl kdorkoli, ki bo uporabljal to napravo, tudi potem ko zaprete vsa zasebna okna.
+downloads-private-browsing-delete-button =
+    .label = Samodejno izbriši datoteke
+    .accesskey = i
+downloads-private-browsing-accept-button =
+    .label = Razumem
+    .accesskey = R
 
 ## Displayed when a site attempts to automatically download many files.
 ## Variables:

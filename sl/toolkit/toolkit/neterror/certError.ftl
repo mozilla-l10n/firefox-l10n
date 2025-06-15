@@ -117,12 +117,19 @@ fp-learn-more-about-time-related-errors = Več o odpravljanju s časom povezanih
 ## Variables:
 ##   $hostname (string) - Hostname of the website with cert error.
 
+cert-error-revoked-certificate = { -brand-short-name } vam je preprečil obisk tega spletnega mesta, ker je bilo digitalno potrdilo, ki ga uporablja { $hostname }, preklicano in se mu ne zaupa več.
+cert-error-bad-signature = { -brand-short-name } vam je preprečil obisk tega spletnega mesta, ker podpis digitalnega potrdila, ki ga uporablja { $hostname }, ni veljaven.
+cert-error-key-pinning-failure = { -brand-short-name } vam je preprečil obisk tega spletnega mesta, ker digitalno potrdilo za { $hostname } uporablja drug javni ključ, kot je bilo pričakovano.
+cert-error-bad-der = { -brand-short-name } vam je preprečil obisk tega spletnega mesta, ker digitalno potrdilo, ki ga uporablja { $hostname }, ni pravilno kodirano.
+cert-error-inadequate-cert-type = { -brand-short-name } vam je preprečil obisk tega spletnega mesta, ker digitalnega potrdila, ki ga uporablja { $hostname }, ne bi smel uporabljati spletni strežnik.
 cert-error-path-len-constraint-invalid = { -brand-short-name } vam je preprečil obisk tega spletnega mesta, ker digitalno potrdilo, ki ga je predložilo { $hostname }, na poti do korenskega potrdila vsebuje preveč vmesnih potrdil.
 cert-error-invalid-key = { -brand-short-name } vam je preprečil obisk tega spletnega mesta, ker je v digitalnem potrdilu za { $hostname } ključ, ki je neveljaven. Najverjetneje je premajhen, da bi bil varen.
 cert-error-unknown-critical-extension = { -brand-short-name } vam je preprečil obisk tega spletnega mesta, ker digitalno potrdilo za { $hostname } vsebuje nepodprto kritično razširitev.
 cert-error-extension-value-invalid = { -brand-short-name } vam je preprečil obisk tega spletnega mesta, ker digitalno potrdilo, ki ga je predložilo { $hostname }, vsebuje neveljavno razširitev.
 cert-error-untrusted-issuer = { -brand-short-name } vam je preprečil obisk tega spletnega mesta, ker je digitalno potrdilo, ki ga uporablja { $hostname }, izdal overitelj, ki več ne uživa zaupanja.
 cert-error-untrusted-cert = { -brand-short-name } vam je preprečil obisk tega spletnega mesta, ker je digitalno potrdilo, ki ga uporablja { $hostname }, označeno kot ne zaupanja vredno.
+cert-error-unsupported-keyalg = { -brand-short-name } vam je preprečil obisk tega spletnega mesta, ker digitalno potrdilo, ki ga uporablja { $hostname }, vsebuje nepodprto vrsto ključa.
+cert-error-issuer-no-longer-trusted = { -brand-short-name } vam je preprečil obisk tega spletnega mesta, ker izdajatelj digitalnega potrdila, ki ga uporablja { $hostname }, ne velja več za vrednega zaupanja.
 
 ## Messages used for certificate error titles
 

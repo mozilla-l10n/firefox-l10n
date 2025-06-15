@@ -47,3 +47,6 @@ experimental-features-link-previews-description-no-ai =
         [macos] Če želite izvedeti več o spletni strani, pred klikom pomaknite miško nad povezavo in pritisnite Shift (⇧) in Option (⌥) ali Alt. Predogledi lahko vključujejo podrobnosti, kot sta naslov in čas branja. <a data-l10n-name="connect">Sporočite povratne informacije</a>
        *[other] Če želite izvedeti več o spletni strani, pred klikom pomaknite miško nad povezavo in pritisnite Shift + Alt. Predogledi lahko vključujejo podrobnosti, kot sta naslov in čas branja. <a data-l10n-name="connect">Sporočite povratne informacije</a>
     }
+# New Tab Sections with follow and block
+experimental-features-newtab-sections-follow-block =
+    .label = Tematski razdelki in možnost sledenja/blokiranja za zgodbe na novem zavihku

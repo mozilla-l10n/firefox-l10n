@@ -12,6 +12,8 @@ about-webauthn-page-title = O WebAuthn
 ## Section titles
 
 about-webauthn-info-section-title = Podatki o napravi
+about-webauthn-info-subsection-title = Podatki o orodju za preverjanje pristnosti
+about-webauthn-options-subsection-title = Možnosti orodja za preverjanje pristnosti
 about-webauthn-pin-section-title = Upravljanje PIN
 about-webauthn-credential-management-section-title = Upravljanje poverilnic
 about-webauthn-pin-required-section-title = Zahtevana je koda PIN
@@ -21,12 +23,24 @@ about-webauthn-bio-enrollment-section-title = Biometrično vpisovanje
 
 ## Info field texts
 
+about-webauthn-text-connect-device = Povežite varnostni žeton.
 about-webauthn-text-not-available = Ni na voljo na tej platformi.
 
 ## Results label
 
 about-webauthn-results-success = Uspelo je!
 about-webauthn-results-general-error = Napaka!
+# Variables:
+#  $retriesLeft (Number): number of tries left
+about-webauthn-results-pin-invalid-error =
+    { $retriesLeft ->
+        [0] Napaka: Nepravilen PIN. Poskusite znova.
+        [one] Napaka: Nepravilen PIN. Poskusite znova. Imate še { $retriesLeft } poskus.
+        [two] Napaka: Nepravilen PIN. Poskusite znova. Imate še { $retriesLeft } poskusa.
+        [few] Napaka: Nepravilen PIN. Poskusite znova. Imate še { $retriesLeft } poskuse.
+       *[other] Napaka: Nepravilen PIN. Poskusite znova. Imate še { $retriesLeft } poskusov.
+    }
+about-webauthn-results-pin-blocked-error = Napaka: Izkoriščeni so vsi poskusi in naprava se je po preveč vnosih napačne kode PIN zaklenila. Napravo je treba ponastaviti.
 about-webauthn-results-pin-not-set-error = Napaka: PIN ni nastavljen. Ta postopek zahteva zaščito s kodo PIN.
 about-webauthn-results-pin-too-short-error = Napaka: Vneseni PIN je prekratek.
 about-webauthn-results-pin-too-long-error = Napaka: Vneseni PIN je predolg.
@@ -39,6 +53,8 @@ about-webauthn-new-pin-label = Nov PIN:
 about-webauthn-repeat-pin-label = Ponovite novi PIN:
 about-webauthn-current-pin-label = Trenutni PIN:
 about-webauthn-pin-required-label = Vnesite svoj PIN:
+about-webauthn-credential-list-subsection-title = Poverilnice:
+about-webauthn-credential-list-empty = V napravi ni bilo najti poverilnic.
 about-webauthn-confirm-deletion-label = Izbrisali boste:
 
 ## Buttons
