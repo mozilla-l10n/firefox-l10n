@@ -59,6 +59,10 @@ toolbar-context-menu-auto-hide-downloads-button-2 =
 toolbar-context-menu-always-open-downloads-panel =
     .label = ਜਦੋਂ ਡਾਊਨਲੋਡ ਸ਼ੁਰੂ ਹੋਵੇ ਤਾਂ ਪੈਨਲ ਦਿਖਾਓ
     .accesskey = S
+# Label of checkbox menu item to toggle visibility of Extensions Button.
+toolbar-context-menu-always-show-extensions-button =
+    .label = ਹਮੇਸ਼ਾਂ ਟੂਲਬਾਰ ਵਿੱਚ ਵੇਖਾਓ
+    .accesskey = A
 toolbar-context-menu-remove-from-toolbar =
     .label = ਟੂਲਬਾਰ 'ਚੋਂ ਹਟਾਓ
     .accesskey = R

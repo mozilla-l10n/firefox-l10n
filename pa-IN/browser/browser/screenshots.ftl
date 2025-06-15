@@ -66,6 +66,11 @@ screenshots-component-copy-button-2 = ਕਾਪੀ
 screenshots-component-download-button-2 = ਡਾਊਨਲੋਡ
     .title = ਡਾਊਨਲੋਡ ਕਰੋ ({ $shortcut })
     .aria-label = ਡਾਊਨਲੋਡ ਕਰੋ
+# Variables
+#   $shortcut (String) - A keyboard shortcut for the screenshot command.
+screenshot-toolbar-button =
+    .label = ਸਕਰੀਨਸ਼ਾਟ
+    .tooltiptext = ਸਕਰੀਨਸ਼ਾਟ ਲਵੋ ({ $shortcut })
 
 ## The below strings are used to capture keydown events so the strings should
 ## not be changed unless the keyboard layout in the locale requires it.

@@ -70,9 +70,28 @@ engine-keyword-exists = ਉਸ ਸ਼ਬਦ ਨਾਲ ਇੰਜਣ ਪਹਿਲਾ�
 
 ## The following placeholders are shown in the inputs when adding a new engine.
 
+add-engine-url-placeholder =
+    .placeholder = ਜਿਵੇਂ, https://developer.mozilla.com/search?q=%s
+add-engine-keyword-placeholder =
+    .placeholder = ਜਿਵੇਂ @mdn
 
 ## The following strings are used as error messages.
 
+add-engine-no-name = ਨਾਂ ਜੋੜੋ ਜੀ।
+add-engine-no-url = URL ਦਿਓ ਜੀ।
+add-engine-invalid-url = ਇਹ URL ਠੀਕ ਨਹੀਂ ਜਾਪਦਾ ਹੈ। ਇਸ ਦੀ ਜਾਂਚ ਕਰਕੇ ਫੇਰ ਕੋਸ਼ਿਸ਼ ਕਰੋ।
 
 ## The following strings are used as labels for the dialog's buttons.
 
+# buttonlabelextra1 is the label of a button to open the advanced section
+# of the dialog.
+add-engine-dialog2 =
+    .buttonlabelaccept = ਇੰਜਣ ਨੂੰ ਜੋੜੋ
+    .buttonaccesskeyaccept = A
+    .buttonlabelextra1 = ਤਕਨੀਕੀ
+# buttonlabelextra1 is the label of a button to open the advanced section
+# of the dialog.
+edit-engine-dialog =
+    .buttonlabelaccept = ਇੰਜਣ ਨੂੰ ਸੰਭਾਲੋ
+    .buttonaccesskeyaccept = S
+    .buttonlabelextra1 = ਤਕਨੀਕੀ

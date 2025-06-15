@@ -263,6 +263,10 @@ preferences-web-appearance-choice-input-dark =
     .aria-description = { preferences-web-appearance-choice-tooltip-dark.title }
 # This can appear when using windows HCM or "Override colors: always" without
 # system colors.
+preferences-web-appearance-override-warning3 =
+    .message = ਤੁਹਾਡੀ ਰੰਗ ਕਨਟਾਰਸਟ ਕੰਟਰੋਲ ਸੈਟਿੰਗਾਂ ਵੈੱਬਸਾਈਟ ਦੀ ਦਿੱਖ ਨੂੰ ਅਣਡਿੱਠਾ ਕਰ ਦਿੰਦੀਆਂ ਹਨ।
+# This can appear when using windows HCM or "Override colors: always" without
+# system colors.
 preferences-web-appearance-override-warning = ਤੁਹਾਡੀ ਰੰਗ ਚੋਣਾਂ ਵੈੱਬਸਾਈਟ ਦੀ ਦਿੱਖ ਨੂੰ ਅਣਡਿੱਠਾ ਕਰ ਦਿੰਦੀਆਂ ਹਨ। <a data-l10n-name="colors-link">ਰੰਗਾਂ ਦਾ ਇੰਤਜ਼ਾਮ ਕਰੋ</a>
 # This can appear when using windows HCM or "Override colors: always" without
 # system colors.
@@ -357,6 +361,9 @@ download-choose-folder =
 download-always-ask-where =
     .label = ਹਮੇਸ਼ਾ ਤੁਹਾਨੂੰ ਪੁੱਛੇ ਕਿ ਫਾਈਲਾਂ ਕਿੱਥੇ ਸੰਭਾਲਣੀਆਂ ਹਨ
     .accesskey = A
+download-private-browsing-delete =
+    .label = ਜਦੋਂ ਵੀ ਪ੍ਰਾਈਵੇਟ ਵਿੰਡੋ ਬੰਦ ਕੀਤੀ ਜਾਵੇ ਤਾਂ ਪ੍ਰਾਈਵੇਟ ਬਰਾਊਜ਼ਿੰਗ ਦੌਰਾਨ ਡਾਊਨਲੋਡ ਕੀਤੀਆਂ ਫ਼ਾਇਲਾਂ ਨੂੰ ਹਟਾਓ
+    .accesskey = D
 applications-header = ਐਪਲੀਕੇਸ਼ਨਾਂ
 applications-description = ਚੁਣੋ ਕਿ ਬਰਾਊਜ਼ ਕਰਨ ਦੇ ਦੌਰਾਨ ਵੈੱਬ ਤੋਂ ਜਾਂ ਤੁਹਾਡੇ ਵਲੋਂ ਵਰਤੀਆਂ ਐਪਲੀਕੇਸ਼ਨਾਂ ਰਾਹੀਂ ਤੁਹਾਡੇ ਵਲੋਂ ਡਾਊਨਲੋਡ ਕੀਤੀਆਂ ਫ਼ਾਇਲਾਂ ਨਾਲ { -brand-short-name } ਕਿਵੇਂ ਕੰਮ ਕਰੇ।
 applications-filter =
@@ -653,6 +660,7 @@ home-prefs-trending-search-description = ਹਰਮਨਪਿਆਰੇ ਅਤੇ �
 # "Support" here means to help sustain or contribute to something, especially through funding or sponsorship.
 home-prefs-support-firefox-header =
     .label = { -brand-product-name } ਲਈ ਸਹਿਯੋਗ
+home-prefs-mission-message = ਸਾਡੇ ਸਪੌਂਸ ਵਧੀਆ ਵੈੱਬ ਬਣਾਉਣ ਦੇ ਸਾਡੇ ਟੀਚੇ ਵਿੱਚ ਸਹਿਯੋਗ ਕਰਦੇ ਹਨ।
 home-prefs-mission-message-learn-more-link = ਸਮਝੋ ਕਿ ਕਿਵੇਂ
 # Variables:
 #   $num (number) - Number of rows displayed

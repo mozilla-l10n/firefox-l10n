@@ -464,6 +464,9 @@ shortcuts-heading = ਇਕਸਟੈਨਸ਼ਨ ਸ਼ਾਰਟਕੱਟਾਂ ਦਾ 
 default-heading-search-label = ਹੋਰ ਐਡ-ਆਨ ਲੱਭੋ
 addons-heading-search-input =
     .placeholder = addons.mozilla.org ਨੂੰ ਖੋਜੋ
+addons-heading-search-button =
+    .title = addons.mozilla.org ਉੱਤੇ ਖੋਜੋ
+    .aria-label = addons.mozilla.org ਉੱਤੇ ਖੋਜੋ
 addon-page-options-button =
     .title = ਸਭ ਐਡ-ਆਨ ਲਈ ਟੂਲ
 
@@ -525,8 +528,32 @@ plugins-widevine-description = ਇਹ ਪਲੱਗਇਨ ਇੰਕ੍ਰਿਪ�
 ## Headings for the Permissions tab in `about:addons` when the data collection
 ## feature is enabled.
 
+addon-permissions-required-data-collection = ਲੋੜੀਂਦੀ ਡਾਟਾ ਇਕੱਤਰਤਾ:
+addon-permissions-optional-data-collection = ਚੋਣਵੀਂ ਡਾਟਾ ਇਕੱਤਰਤਾ:
 # Name of the Permissions tab in `about:addons` when the data collection feature is enabled.
 permissions-data-addon-button = ਇਜਾਜ਼ਤਾਂ ਅਤੇ ਡਾਟਾ
+# This is a description for extension that use this AI model
+# Variables:
+#   $extensionName (String) - Name of the extension
+mlmodel-extension-label = { $extensionName } ਇਕਸਟੈਨਸ਼ਨ ਵਲੋਂ ਵਰਤਿਆ
 
 ## Mapping Engine IDs from AI models to how that feature represented by the engine Id is described in the used by section in local model management
 
+mlmodel-about-inference = { -brand-short-name } ਇਸ ਨੂੰ about:inference ਉੱਤੇ ਵਰਤਦਾ ਹੈ
+# AI Model will be downloaded on the users device and used locally
+addon-category-mlmodel = ਡਿਵਾਈਸ ਉੱਤੇ AI
+addon-category-mlmodel-title =
+    .title = ਡਿਵਾਈਸ ਉੱਤੇ AI
+mlmodel-heading = ਡਿਵਾਈਸ ਉੱਤੇ AI ਮਾਡਲਾਂ ਦਾ ਇੰਤਜ਼ਾਮ
+# Label for button that when clicked removed local model
+mlmodel-remove-addon-button =
+    .aria-label = ਹਟਾਓ
+# Label for the aggregated value of all files for a model
+mlmodel-addon-detail-totalsize-label = ਫ਼ਾਇਲ ਦਾ ਆਕਾਰ
+mlmodel-addon-detail-last-used-label = ਆਖਰੀ ਵਰਤੋਂ
+# This is a section label to describe what extensions or features use a specific local AI model
+mlmodel-addon-detail-used-by-label = ਵਲੋਂ ਵਰਤਿਆ
+# This is a section label to describe the link to the model card on the Hugging Face website
+mlmodel-addon-detail-model-card = ਮਾਡਲ ਕਾਰਡ
+# This is a label for the Model Card link to Hugging face
+mlmodel-addon-detail-model-card-link-label = Hugging Face ਉੱਤੇ ਵੇਖੋ

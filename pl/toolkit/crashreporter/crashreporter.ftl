@@ -51,3 +51,4 @@ crashreporter-error-no-home-dir = Brak katalogu domowego
 # $to (String) - the destination path
 crashreporter-error-moving-path = Przeniesienie { $from } do { $to } się nie powiodło
 crashreporter-error-version-eol = Niewspierana wersja: zgłoszenia awarii nie są już przyjmowane.
+crashreporter-error-failed-to-generate-minidump = Program nie był w stanie wygenerować informacji o awarii.

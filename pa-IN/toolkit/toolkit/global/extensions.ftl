@@ -15,6 +15,7 @@ webext-perms-header-with-perms = { $extension } ਜੋੜਨ ਹੈ? ਇਹ ਇ�
 webext-perms-header-unsigned = { $extension } ਜੋੜਨ ਹੈ? ਇਹ ਇਕਸਟੈਨਸ਼ਨ ਦੀ ਜਾਂਚ ਨਹੀਂ ਕੀਤੀ ਹੋਈ ਹੈ। ਦੋਖੀ ਇਕਸਟੈਨਸ਼ਨਾਂ ਤੁਹਾਡੀ ਪ੍ਰਾਈਵੇਟ ਜਾਣਕਾਰੀ ਚੋਰੀ ਕਰਨ ਸਕਦੀਆਂ ਹਨ ਜਾਂ ਤੁਹਾਡੇ ਕੰਪਿਊਟਰ ਲਈ ਸੰਨ੍ਹ ਲਾ ਸਕਦੀਆਂ ਹਨ। ਜੇ ਤੁਹਾਨੂੰ ਇਸ ਦੇ ਸਰੋਤ ਉੱਤੇ ਭਰੋਸਾ ਹੈ ਤਾਂ ਹੀ ਇਸ ਨੂੰ ਜੋੜੋ।
 webext-perms-header-unsigned-with-perms = { $extension } ਨੂੰ ਜੋੜਨਾ ਹੈ? ਇਹ ਇਕਸਟੈਨਸ਼ਨ ਦੀ ਜਾਂਚ ਨਹੀਂ ਕੀਤੀ ਹੋਈ ਹੈ। ਦੋਖੀ ਇਕਸਟੈਨਸ਼ਨਾਂ ਤੁਹਾਡੀ ਪ੍ਰਾਈਵੇਟ ਜਾਣਕਾਰੀ ਚੋਰੀ ਕਰਨ ਸਕਦੀਆਂ ਹਨ ਜਾਂ ਤੁਹਾਡੇ ਕੰਪਿਊਟਰ ਲਈ ਸੰਨ੍ਹ ਲਾ ਸਕਦੀਆਂ ਹਨ। ਜੇ ਤੁਹਾਨੂੰ ਇਸ ਦੇ ਸਰੋਤ ਉੱਤੇ ਭਰੋਸਾ ਹੈ ਤਾਂ ਹੀ ਇਸ ਨੂੰ ਜੋੜੋ। ਇਹ ਇਕਸਟੈਨਸ਼ਨ ਨੂੰ ਇਜਾਜ਼ਤਾਂ ਚਾਹੀਦੀਆਂ ਹੋਣਗੀਆਂ:
 webext-perms-sideload-header = { $extension } ਨੂੰ ਜੋੜਿਆ ਗਿਆ
+webext-perms-optional-perms-header2 = { $extension } ਨੇ ਹੋਰ ਇਜਾਜ਼ਤਾਂ ਦੀ ਮੰਗ ਕੀਤੀ ਹੈ
 webext-perms-optional-perms-header = { $extension } ਨੇ ਹੋਰ ਇਜਾਜ਼ਤਾਂ ਦੀ ਮੰਗ ਕੀਤੀ ਹੈ।
 webext-perms-header2 = { $extension } ਨੂੰ ਜੋੜੋ
 
@@ -26,6 +27,12 @@ webext-perms-header-update-required-perms = ਨਵੀਆਂ ਚਾਹੀਦੀ�
 webext-perms-header-optional-required-perms = ਨਵੀਆਂ ਇਜਾਜ਼ਤਾਂ:
 webext-perms-header-data-collection-perms = ਲੋੜੀਂਦੀ ਡਾਟਾ ਇਕੱਤਰਤਾ:
 webext-perms-header-data-collection-is-none = ਡਾਟਾ ਇਕੱਤਰਤਾ:
+# This is a header used in the add-ons "update" prompt, shown when the new
+# version requires new data collection permissions.
+webext-perms-header-update-data-collection-perms = ਨਵੀਂ ਲੋੜੀਂਦੀ ਡਾਟਾ ਇਕੱਤਰਤਾ:
+# This is a header used in the add-ons "optional" prompt, shown when the
+# extension requests new data collection permissions programmatically.
+webext-perms-header-optional-data-collection-perms = ਨਵੀਂ ਡਾਟਾ ਇਕੱਤਰਤਾ:
 
 ##
 
@@ -96,6 +103,15 @@ webext-perms-host-description-multiple-domains =
 
 ## Strings for data collection permissions in the permission prompt.
 
+# Variables:
+#   $extension (String): replaced with the localized name of the extension.
+webext-perms-update-text-with-data-collection = { $extension } ਨੇ ਅੱਪਡੇਟ ਲਈ ਹੋਰ ਸੈਟਿੰਗਾਂ ਦੀ ਮੰਗ ਕੀਤੀ ਹੈ
+# Variables:
+#   $extension (String): replaced with the localized name of the extension.
+webext-perms-optional-text-with-data-collection = { $extension } ਨੇ ਹੋਰ ਸੈਟਿੰਗਾਂ ਦੀ ਮੰਗ ਕੀਤੀ ਹੈ
+# Variables:
+#   $extension (String): replaced with the localized name of the extension.
+webext-perms-optional-text-with-data-collection-only = { $extension } ਨੇ ਹੋਰ ਡਾਟਾ ਇਕੱਤਰਤਾ ਦੀ ਮੰਗ ਕੀਤੀ ਹੈ
 
 ## Headers used in the webextension permissions dialog for synthetic add-ons.
 ## The part of the string describing what privileges the extension gives should be consistent

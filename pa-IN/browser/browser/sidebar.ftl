@@ -23,6 +23,11 @@ sidebar-history-date-this-month =
     .heading = { DATETIME($date, dateStyle: "full") }
 sidebar-history-date-prev-month =
     .heading = { DATETIME($date, month: "long", year: "numeric") }
+# When history is sorted by site, this heading is used in place of a domain, in
+# order to group sites that do not come from an outside host.
+# For example, this would be the heading for all file:/// URLs in history.
+sidebar-history-site-localhost =
+    .heading = (ਲੋਕਲ ਫਾਈਲਾਂ)
 sidebar-history-delete =
     .title = ਅਤੀਤ ਵਿੱਚੋਂ ਹਟਾਓ
 sidebar-history-clear =
@@ -105,6 +110,8 @@ sidebar-history-context-menu-delete-page-2 =
     .label = ਅਤੀਤ ਤੋਂ ਸਫ਼ੇ ਨੂੰ ਮਿਟਾਓ
 sidebar-history-context-menu-bookmark-page =
     .label = …ਸਫ਼ੇ ਨੂੰ ਬੁੱਕਮਾਰਕ ਕਰੋ
+sidebar-history-context-menu-delete-pages =
+    .label = ਅਤੀਤ ਵਿੱਚੋਂ ਸਫ਼ਿਆਂ ਨੂੰ ਹਟਾਓ
 
 ## Labels for sidebar menu items.
 
