@@ -78,6 +78,8 @@ contextual-manager-passwords-export-success-heading =
 contextual-manager-passwords-export-success-button = ਮੁਕੰਮਲ
 # Export passwords to file dialog
 contextual-manager-export-passwords-dialog-title = ਪਾਸਵਰਡਾਂ ਨੂੰ ਫ਼ਾਇਲ ਵਿੱਚ ਐਕਸਪੋਰਟ ਕਰਨਾ ਹੈ?
+# This string recommends to the user that they delete the exported password file that is saved on their local machine.
+contextual-manager-export-passwords-dialog-message = ਐਕਸਪੋਰਟ ਕਰਨ ਦੇ ਬਾਅਦ ਅਸੀਂ ਇਸ ਨੂੰ ਹਟਾਉਣ ਦੀ ਸਿਫ਼ਾਰਸ਼ ਕਰਦੇ ਹਾਂ ਤਾਂ ਕਿ ਹੋਰ ਕੋਈ, ਜੋ ਇਸ ਡਿਵਾਈਸ ਨੂੰ ਵਰਤਦੇ ਹਨ, ਤੁਹਾਡੇ ਪਾਸਵਰਡ ਨੂੰ ਨਾ ਵੇਖ ਸਕਣ।
 contextual-manager-export-passwords-dialog-confirm-button = ਐਕਸਪੋਰਟ ਕਰਨਾ ਜਾਰੀ ਰੱਖੋ
 # Title of the file picker dialog
 contextual-manager-passwords-export-file-picker-title = { -brand-short-name } ਤੋਂ ਪਾਸਵਰਡਾਂ ਨੂੰ ਐਕਸਪੋਰਟ ਕਰੋ
@@ -113,6 +115,20 @@ contextual-manager-passwords-remove-all-confirm-button =
         [1] ਹਟਾਓ
         [one] ਹਟਾਓ
        *[other] ਸਭ ਨੂੰ ਹਟਾਓ
+    }
+# Message to confirm the removal of all saved passwords when user DOES NOT HAVE SYNC
+#   $total (number) - Total number of passwords
+contextual-manager-passwords-remove-all-message =
+    { $total ->
+        [1] ਇਹ  { -brand-short-name } ਵਿੱਚ ਸੰਭਾਲੇ ਪਾਸਵਰਡ ਅਤੇ ਕਿਸੇ ਵੀ ਸੰਨ੍ਹਮਾਰੀ ਚੇਤਾਵਨੀਆਂ ਨੂੰ ਹਟਾਏਗਾ। ਤੁਸੀਂ ਇਸ ਕਾਰਵਾਈ ਨੂੰ ਵਾਪਸ ਨਹੀਂ ਕਰ ਸਕੋਗੇ।
+       *[other] This will remove the passwords saved to { -brand-short-name } and any breach alerts. You cannot undo this action.
+    }
+# Message for modal to confirm the removal of all saved passwords when user HAS SYNC
+#   $total (number) - Total number of passwords
+contextual-manager-passwords-remove-all-message-sync =
+    { $total ->
+        [1] ਇਹ ਤੁਹਾਡੇ ਸਾਰੇ ਸਿੰਕ ਕੀਤੇ ਡਿਵਾਈਸ ਉੱਤੇ { -brand-short-name } ਵਿੱਚ ਸੰਭਾਲੇ ਪਾਸਵਰਡ ਅਤੇ ਕਿਸੇ ਵੀ ਸੰਨ੍ਹਮਾਰੀ ਚੇਤਾਵਨੀਆਂ ਨੂੰ ਹਟਾਏਗਾ। ਤੁਸੀਂ ਇਹ ਕਾਰਵਾਈ ਨੂੰ ਵਾਪਸ ਨਹੀਂ ਲੈ ਸਕਦੇ ਹੋ।
+       *[other] This will remove all passwords saved to { -brand-short-name } on all your synced devices and remove any breach alerts. You cannot undo this action.
     }
 contextual-manager-passwords-origin-label = ਵੈੱਬਸਾਈਟ
 # The attribute .data-after describes the text that should be displayed for the ::after pseudo-selector
@@ -190,6 +206,7 @@ contextual-manager-passwords-edit-label =
     .label = ਪਾਸਵਰਡ ਨੂੰ ਸੋਧੋ
 contextual-manager-passwords-remove-label =
     .title = ਪਾਸਵਰਡ ਨੂੰ ਹਟਾਓ
+contextual-manager-passwords-origin-tooltip = ਪੂਰਾ ਸਹੀ ਸਿਰਨਾਵਾਂ ਦਿਓ, ਜਿੱਥੇ ਤੁਸੀਂ ਇਸ ਸਾਈਟ ਲਈ ਸਾਈਨ ਇਨ ਕਰੋਗੇ।
 contextual-manager-passwords-username-tooltip = ਵਰਤੋਂਕਾਰ-ਨਾਂ, ਈਮੇਲ ਸਿਰਨਾਵਾਂ ਜਾਂ ਖਾਤਾ ਨੰਬਰ, ਜੋ ਤੁਸੀਂ ਸਾਈਨ ਇਨ ਕਰਨ ਲਈ ਵਰਤਦੇ ਹੋ, ਦਿਓ।
 contextual-manager-passwords-password-tooltip = ਇਸ ਖਾਤੇ ਵਿੱਚ ਸਾਈਨ ਇਨ ਕਰਨ ਲਈ ਵਰਤਿਆ ਜਾਂਦਾ ਪਾਸਵਰਡ ਦਿਓ।
 

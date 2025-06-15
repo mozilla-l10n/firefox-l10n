@@ -697,6 +697,8 @@ urlbar-result-action-visit = otwórz stronę
 # Variables
 # $container (String): the name of the target container
 urlbar-result-action-switch-tab-with-container = przełącz na kartę · <span>{ $container }</span>
+# Used when the target tab is in a tab group that doesn't have a label.
+urlbar-result-action-tab-group-unnamed = grupa bez nazwy
 # Allows the user to visit a URL that was previously copied to the clipboard.
 urlbar-result-action-visit-from-clipboard = otwórz stronę ze schowka
 # Directs a user to press the Tab key to perform a search with the specified

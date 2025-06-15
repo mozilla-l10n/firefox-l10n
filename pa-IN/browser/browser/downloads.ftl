@@ -185,6 +185,15 @@ downloads-details =
 
 ## These strings are displayed in the private browsing view of the downloads panel
 
+downloads-private-browsing-details =
+    .title = ਫ਼ਾਇਲਾਂ ਤੁਹਾਡੇ ਡਿਵਾਈਸ ਉੱਤੇ ਰਹਿੰਦੀਆਂ ਹਨ
+downloads-private-browsing-message = ਇਸ ਡਿਵਾਈਸ ਨੂੰ ਵਰਤਣ ਵਾਲਾ ਕੋਈ ਵੀ ਡਾਊਨਲੋਡ ਨੂੰ ਵੇਖ ਸਕਦਾ ਹੈ, ਭਾਵੇਂ ਕਿ ਤੁਸੀਂ ਸਾਰੀਆਂ ਪ੍ਰਾਈਵੇਟ ਵਿੰਡੋਆਂ ਬੰਦ ਕਰ ਦਿੱਤੀਆਂ ਹੋਣ।
+downloads-private-browsing-delete-button =
+    .label = ਫ਼ਾਇਲਾਂ ਨੂੰ ਆਪਣੇ-ਆਪ ਹਟਾਓ
+    .accesskey = D
+downloads-private-browsing-accept-button =
+    .label = ਸਮਝੇ
+    .accesskey = G
 
 ## Displayed when a site attempts to automatically download many files.
 ## Variables:
