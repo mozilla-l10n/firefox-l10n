@@ -122,6 +122,13 @@ cert-error-bad-signature = { -brand-short-name } blokis vian viziton al tiu ĉi 
 cert-error-key-pinning-failure = { -brand-short-name } blokis vian viziton al tiu ĉi retejo ĉar la atestilo provizita por { $hostname } uzas publikan ŝlosilon, kiu ne kongruas kun la atendita.
 cert-error-bad-der = { -brand-short-name } blokis vian viziton al tiu ĉi retejo ĉar la atestilo provizita por { $hostname } ne estas korekte kodita.
 cert-error-cert-not-in-name-space = { -brand-short-name } blokis vian viziton al tiu ĉi retejo ĉar la atestilo provizita por { $hostname } ne plenumas la limigojn nomajn de la eldoninta atestilo.
+cert-error-inadequate-cert-type = { -brand-short-name } blokis vian viziton al tiu ĉi retejo ĉar la atestilo provizita por { $hostname } ne rajtas esti uzata de retejo (teksaĵa servilo).
+cert-error-path-len-constraint-invalid = { -brand-short-name } blokis vian viziton al tiu ĉi retejo ĉar la atestilo provizita por { $hostname } havas tro multe da interaj atestiloj en la vojo al la radika atestilo.
+cert-error-invalid-key = { -brand-short-name } blokis vian viziton al tiu ĉi retejo ĉar la atestilo provizita por { $hostname } havas nevalidan ŝlosilon. Tre verŝajne ĝi estas tro eta por esti sekura.
+cert-error-unknown-critical-extension = { -brand-short-name } blokis vian viziton al tiu ĉi retejo ĉar la atestilo provizita por { $hostname } enhavas nesubtenatan nepran etendaĵon.
+cert-error-extension-value-invalid = { -brand-short-name } blokis vian viziton al tiu ĉi retejo ĉar la atestilo provizita por { $hostname } enhavas nevalidan etendaĵon.
+cert-error-untrusted-issuer = { -brand-short-name } blokis vian viziton al tiu ĉi retejo ĉar la atestilo provizita por { $hostname } estis eldonita de atestila aŭtoritato, kiu ne plu estas fidata.
+cert-error-untrusted-cert = { -brand-short-name } blokis vian viziton al tiu ĉi retejo ĉar la atestilo provizita por { $hostname } estas markita kiel nefidata.
 cert-error-issuer-no-longer-trusted = { -brand-short-name } blokis vian viziton al tiu ĉi retejo ĉar la atestila aŭtoritato kiu eldonis la atestilon provizitan por { $hostname } ne plu estas fidata.
 cert-error-signature-algorithm-mismatch = { -brand-short-name } blokis vian viziton al tiu ĉi retejo ĉar la subskriba algoritmo de la atestilo provizita por { $hostname } ne kongruas kun la kampo pri subskriba algoritmo.
 

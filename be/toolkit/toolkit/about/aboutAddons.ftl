@@ -581,3 +581,12 @@ mlmodel-extension-label = Выкарыстоўваецца пашырэннем 
 ## Mapping Engine IDs from AI models to how that feature represented by the engine Id is described in the used by section in local model management
 
 mlmodel-about-inference = { -brand-short-name } выкарыстоўвае гэта на about:inference
+mlmodel-link-preview = { -brand-short-name } выкарыстоўвае гэта, каб пералічваць ключавыя моманты пры папярэднім праглядзе спасылак
+mlmodel-pdfjs = { -brand-short-name } выкарыстоўвае гэта, каб ствараць альтэрнатыўны тэкст для выяў, якія вы дадаяце ў файлы PDF
+mlmodel-smart-tab-topic-engine = { -brand-short-name } выкарыстоўвае гэта, каб прапаноўваць назвы для вашых груп картак
+mlmodel-smart-tab-embedding-engine = { -brand-short-name } выкарыстоўвае гэта, каб прапаноўваць карткі для вашых груп картак
+# AI Model will be downloaded on the users device and used locally
+addon-category-mlmodel = Штучны інтэлект на прыладзе
+addon-category-mlmodel-title =
+    .title = Штучны інтэлект на прыладзе
+mlmodel-heading = Кіраванне мадэлямі штучнага інтэлекту на прыладзе
