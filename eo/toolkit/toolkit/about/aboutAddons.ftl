@@ -565,3 +565,16 @@ addon-category-mlmodel = AI en la aparato
 addon-category-mlmodel-title =
     .title = AI en la aparato
 mlmodel-heading = Administri modelojn de AI en la aparato
+mlmodel-description = Kelkaj trajtoj kaj etendaĵoj en { -brand-short-name } funkcias danke al modelo A.I. kiu ruliĝas surloke, en via aparato. La surloka funkciado protektas vian privatecon kaj, en pluraj okazoj, estas pli rapida. <a data-l10n-name="learn-more">Pli da informo</a>
+# Label for button that when clicked removed local model
+mlmodel-remove-addon-button =
+    .aria-label = Forigi
+# Label for the aggregated value of all files for a model
+mlmodel-addon-detail-totalsize-label = Grando de dosiero
+mlmodel-addon-detail-last-used-label = Laste uzita
+# This is a section label to describe what extensions or features use a specific local AI model
+mlmodel-addon-detail-used-by-label = Uzita de
+# This is a section label to describe the link to the model card on the Hugging Face website
+mlmodel-addon-detail-model-card = Karto de la modelo
+# This is a label for the Model Card link to Hugging face
+mlmodel-addon-detail-model-card-link-label = Montri en Hugging Face
