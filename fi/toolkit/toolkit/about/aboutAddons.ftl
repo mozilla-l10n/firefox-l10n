@@ -496,6 +496,9 @@ shortcuts-heading = Laajennusten pikanäppäinten hallinta
 default-heading-search-label = Etsi lisää lisäosia
 addons-heading-search-input =
     .placeholder = Etsi addons.mozilla.org-sivustolta
+addons-heading-search-button =
+    .title = Etsi addons.mozilla.org-sivustolta
+    .aria-label = Etsi addons.mozilla.org-sivustolta
 addon-page-options-button =
     .title = Työkaluja kaikille lisäosille
 
@@ -568,6 +571,17 @@ mlmodel-extension-label = Käytetään laajennuksessa { $extensionName }
 
 ## Mapping Engine IDs from AI models to how that feature represented by the engine Id is described in the used by section in local model management
 
+mlmodel-about-inference = { -brand-short-name } käyttää tätä sivulla about:inference
+mlmodel-link-preview = { -brand-short-name } käyttää tätä keskeisimpien asioiden luomiseen, kun esikatselet linkkejä
+mlmodel-pdfjs = { -brand-short-name } käyttää tätä luodakseen vaihtoehtoisen alt-tekstin PDF-tiedostoihin lisättäville kuville
+mlmodel-smart-tab-topic-engine = { -brand-short-name } käyttää tätä ehdottaakseen nimiä välilehtiryhmille
+mlmodel-smart-tab-embedding-engine = { -brand-short-name } käyttää tätä ehdottaakseen välilehtiä välilehtiryhmiin
+# AI Model will be downloaded on the users device and used locally
+addon-category-mlmodel = Laitteessa sijaitseva tekoäly
+addon-category-mlmodel-title =
+    .title = Laitteessa sijaitseva tekoäly
+mlmodel-heading = Hallitse laitteessa sijaitsevia tekoälymalleja
+mlmodel-description = Jotkin { -brand-short-name }in ominaisuudet ja laajennukset perustuvat tekoälymalleihin, jotka toimivat paikallisesti laitteellasi. Tämä lähestymistapa suojaa yksityisyyttäsi ja monissa tapauksissa nopeuttaa suorituskykyä. <a data-l10n-name="learn-more">Lisätietoja</a>
 # Label for button that when clicked removed local model
 mlmodel-remove-addon-button =
     .aria-label = Poista
