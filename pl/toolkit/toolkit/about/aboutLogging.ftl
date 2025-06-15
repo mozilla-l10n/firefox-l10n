@@ -15,6 +15,8 @@ about-logging-set-log-file = Ustaw plik dziennika
 about-logging-set-log-modules = Ustaw moduły
 about-logging-start-logging = Rozpocznij zapisywanie
 about-logging-stop-logging = Zatrzymaj zapisywanie
+about-logging-copy-as-url = Skopiuj obecne ustawienia jako adres URL
+about-logging-url-copied = Skopiowano ustawienia zapisywania do schowka jako adres URL z ustawieniami
 about-logging-buttons-disabled = Zapisywanie do dziennika skonfigurowane za pomocą zmiennych środowiskowych, dynamiczna konfiguracja jest niedostępna.
 about-logging-some-elements-disabled = Zapisywanie do dziennika skonfigurowane za pomocą adresu URL, część opcji konfiguracji jest niedostępna
 about-logging-info = Informacje:
@@ -27,6 +29,8 @@ about-logging-no-log-modules = Brak
 about-logging-no-log-file = Brak
 about-logging-logging-preset-selector-text = Ustawienie:
 about-logging-with-profiler-stacks-checkbox = Ślady stosów dla komunikatów dziennika
+about-logging-menu =
+    .title = Zaawansowane
 
 ## Logging presets
 

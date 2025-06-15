@@ -30,3 +30,5 @@ confirmation-hint-duplicate-tabs-closed =
         [few] Zamknięto { $tabCount } karty
        *[many] Zamknięto { $tabCount } kart
     }
+# Subtle notification shown when Extensions button moves into the application menu.
+confirmation-hint-extensions-button-hidden = Przeniesiono do menu

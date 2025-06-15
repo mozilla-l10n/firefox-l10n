@@ -30,6 +30,9 @@ appmenu-update-restart2 =
     .secondarybuttonlabel = ᱵᱚᱸᱫ
     .secondarybuttonaccesskey = m
 appmenu-update-restart-message2 = { -brand-shorter-name } ᱨᱮᱭᱟᱜ ᱱᱮᱼᱱᱮ ᱦᱟᱹᱞᱤᱭᱟᱹᱠ ᱦᱟᱢᱮᱴ ᱢᱮ ᱾ ᱠᱷᱩᱞᱟᱹ ᱴᱮᱵᱽ ᱟᱨ ᱣᱤᱱᱰᱳ ᱠᱚ ᱫᱚ ᱫᱩᱦᱲᱟᱹ ᱫᱚᱦᱚᱜᱼᱟ ᱾
+appmenu-theme-installed =
+    .secondarybuttonlabel = ᱨᱩᱣᱟᱹᱲ
+    .secondarybuttonaccesskey = ᱨ
 appmenu-update-other-instance =
     .label = { -brand-shorter-name } ᱫᱚ ᱱᱟᱶᱟ ᱵᱷᱟᱹᱨᱥᱚᱱ ᱛᱮ ᱟᱡ ᱛᱮ ᱵᱟᱭ ᱦᱟᱹᱞᱤᱭᱟᱹᱠᱚᱜ ᱫᱟᱲᱮᱭᱟᱫᱟ ᱾
     .buttonlabel = ᱡᱮᱞᱠᱟᱛᱮ { -brand-shorter-name } ᱛᱮ ᱦᱟᱹᱞᱤᱭᱟᱹᱠ ᱢᱮ
@@ -41,6 +44,9 @@ appmenu-addon-private-browsing-installed2 =
     .buttonlabel = ᱴᱷᱤᱠ ᱜᱮ
     .buttonaccesskey = ᱴ
 appmenu-addon-post-install-message3 = ᱮᱯᱞᱤᱠᱮᱥᱚᱱ ᱢᱮᱱᱩ ᱛᱮ ᱮᱰᱼᱚᱱᱥ ᱟᱨ ᱛᱷᱤᱢ ᱠᱚ ᱢᱮᱱᱮᱡᱽ ᱢᱮ ᱾
+# This string is used in the confirmation popup displayed after an extension
+# has been installed, when the data collection feature is enabled.
+appmenu-addon-post-install-message-with-data-collection = <a data-l10n-name="settings-link">ᱮᱠᱥᱴᱮᱱᱥᱚᱱ ᱥᱮᱴᱤᱝ</a> ᱨᱮ ᱡᱟᱦᱟᱸ ᱚᱠᱛᱚ ᱨᱮ ᱦᱚᱸ ᱟᱹᱭᱫᱟᱹᱨ ᱟᱨ ᱰᱟᱴᱟ ᱠᱩᱥᱤᱠᱚ ᱦᱟᱹᱞᱤᱭᱟᱹᱠ ᱢᱮ ᱾
 appmenu-addon-post-install-incognito-checkbox =
     .label = ᱱᱤᱡᱚᱨ ᱣᱤᱱᱰᱳ ᱨᱮ ᱱᱚᱶᱟ ᱵᱤᱥᱤᱞ ᱦᱮᱸᱥᱮᱨᱤᱭᱟᱹ ᱪᱷᱚᱭ ᱢᱮ
     .accesskey = A
