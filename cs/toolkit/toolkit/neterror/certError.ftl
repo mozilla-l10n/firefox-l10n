@@ -203,6 +203,16 @@ cert-error-unsupported-keyalg =
         [with-cases] { -brand-short-name } zablokoval vaši návštěvu tohoto webu, protože certifikát poskytnutý pro { $hostname } má nepodporovaný typ klíče.
        *[no-cases] Aplikace { -brand-short-name } zablokovala vaši návštěvu tohoto webu, protože certifikát poskytnutý pro { $hostname } má nepodporovaný typ klíče.
     }
+cert-error-issuer-no-longer-trusted =
+    { -brand-short-name.case-status ->
+        [with-cases] { -brand-short-name } zablokoval vaši návštěvu tohoto webu, protože certifikační autorita, která vydala certifikát poskytnutý pro { $hostname }, již není důvěryhodná.
+       *[no-cases] Aplikace { -brand-short-name } zablokovala vaši návštěvu tohoto webu, protože certifikační autorita, která vydala certifikát poskytnutý pro { $hostname }, již není důvěryhodná.
+    }
+cert-error-signature-algorithm-mismatch =
+    { -brand-short-name.case-status ->
+        [with-cases] { -brand-short-name } zablokoval vaši návštěvu tohoto webu, protože algoritmus podpisu certifikátu poskytnutého pro { $hostname } neodpovídá jeho poli algoritmu podpisu.
+       *[no-cases] Aplikace { -brand-short-name } zablokovala vaši návštěvu tohoto webu, protože algoritmus podpisu certifikátu poskytnutého pro { $hostname } neodpovídá jeho poli algoritmu podpisu.
+    }
 
 ## Messages used for certificate error titles
 

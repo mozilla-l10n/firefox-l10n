@@ -6,9 +6,10 @@ crashreporter-branded-title = { -brand-short-name } izvjestitelj o prekidu rada 
 crashreporter-apology = Oprosti
 crashreporter-crashed-and-restore = { -brand-short-name } je imao problem i prekinuo je rad. Pokušat ćemo obnoviti tvoje kartice i prozore kada se ponovo pokrene.
 crashreporter-plea = Da biste nam pomogli u ispravljanju problema, možete nam poslati izvještaj rušenja.
+crashreporter-information = Ovaj se program pokreće nakon prekida rada programa kako bi { -vendor-short-name } primio informacije o problemu. Ne bi se trebao izravno pokretati.
 # $details (String) - the reason that a crash report cannot be submitted
 crashreporter-error-details = Detaljji: { $details }
-crashreporter-no-run-message = Ovaj program pokreće se nakon rušenja kako bi prijavio problem programerima programa. Ne bi se smio izravno pokretati.
+crashreporter-no-run-message = Ovaj se program pokreće nakon prekida rada programa kako bi prijavio problem proizvođaču programa. Ne bi se trebao izravno pokretati.
 crashreporter-button-details = Detalji …
 crashreporter-loading-details = Učitavanje …
 crashreporter-view-report-title = Sadržaj izvještaja

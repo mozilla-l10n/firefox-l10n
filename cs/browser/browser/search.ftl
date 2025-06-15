@@ -11,10 +11,10 @@
 opensearch-error-duplicate-title = Chyba instalace
 opensearch-error-duplicate-desc =
     { -brand-short-name.gender ->
-        [masculine] { -brand-short-name } nemohl nainstalovat vyhledávač z „{ $location-url }“, protože už existuje jiný se stejným názvem.
-        [feminine] { -brand-short-name } nemohla nainstalovat vyhledávač z „{ $location-url }“, protože už existuje jiný se stejným názvem.
-        [neuter] { -brand-short-name } nemohlo nainstalovat vyhledávač z „{ $location-url }“, protože už existuje jiný se stejným názvem.
-       *[other] Aplikace { -brand-short-name } nemohla nainstalovat vyhledávač z „{ $location-url }“, protože už existuje jiný se stejným názvem.
+        [masculine] { -brand-short-name } nemohl nainstalovat vyhledávací modul z „{ $location-url }“, protože už existuje jiný se stejným názvem.
+        [feminine] { -brand-short-name } nemohla nainstalovat vyhledávací modul z „{ $location-url }“, protože už existuje jiný se stejným názvem.
+        [neuter] { -brand-short-name } nemohlo nainstalovat vyhledávací modul z „{ $location-url }“, protože už existuje jiný se stejným názvem.
+       *[other] Aplikace { -brand-short-name } nemohla nainstalovat vyhledávací modul z „{ $location-url }“, protože už existuje jiný se stejným názvem.
     }
 opensearch-error-format-title = Neplatný formát
 opensearch-error-format-desc =

@@ -80,7 +80,7 @@ addon-removal-title = Ukloniti { $name }?
 #   $name (String): the name of the extension which is about to be removed.
 addon-removal-message = Ukloniti { $name } iz { -brand-shorter-name(case: "gen") }?
 addon-removal-button = Ukloni
-addon-removal-abuse-report-checkbox = Prijavi ovaj dodatak prodavaču { -vendor-short-name }
+addon-removal-abuse-report-checkbox = Prijavi ovaj dodatak proizvođaču { -vendor-short-name }
 # "it" refers to the local AI model that is paired to the AI feature
 addon-mlmodel-removal-body = Ako koristiš funkcije ili proširenja koja koriste ovaj model, on će se ponovo dodati.
 # Variables:

@@ -1135,7 +1135,7 @@ filepicker-blocked-infobar = Tvoja je organizacija blokirala pristup lokalnim da
 
 ## Mozilla data reporting notification (Telemetry, Firefox Health Report, etc)
 
-data-reporting-notification-message = { -brand-short-name } automatski šalje određene podatke kako bi { -vendor-short-name } poboljšala tvoje iskustvo.
+data-reporting-notification-message = { -brand-short-name } automatski šalje određene podatke kako bi { -vendor-short-name } poboljšao tvoje iskustvo.
 data-reporting-notification-button =
     .label = Odaberi što dijelim
     .accesskey = O
