@@ -204,7 +204,7 @@ mr2022-onboarding-get-started-primary-button-label = Настройва се з�
 ## when Firefox is already set to default and pinned.
 
 mr2022-onboarding-import-header = Светкавично-бърза настройка
-mr2022-onboarding-import-subtitle = Настройте { -brand-short-name } както ви харесва. Добавете своите отметки, пароли и всичко друго от стария си четец.
+mr2022-onboarding-import-subtitle = Настройте { -brand-short-name } както ви харесва. Добавете вашите отметки, пароли и други от стария ви браузър.
 mr2022-onboarding-import-primary-button-label-no-attribution = Внасяне от предишен четец
 
 ## If your language uses grammatical genders, in the description for the

@@ -181,6 +181,8 @@ tabbrowser-manager-close-tab =
 
 ## Tab Groups
 
+tab-group-editor-color-selector2-purple = Porpra
+    .title = Porpra
 
 ## Variables:
 ##  $tabCount (Number): the number of tabs that are affected by the action.
