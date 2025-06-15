@@ -47,3 +47,7 @@ experimental-features-link-previews-description-no-ai =
         [macos] Saat lisätietoja verkkosivusta ennen sen napsauttamista viemällä hiiren osoittimen linkin päälle ja painamalla Shift (⇧) ja Option (⌥) tai Alt. Esikatselut voivat sisältää tietoja, kuten otsikon ja lukuajan. <a data-l10n-name="connect">Jaa palautetta</a>
        *[other] Saat lisätietoja verkkosivusta ennen sen napsauttamista viemällä hiiren osoittimen linkin päälle ja painamalla Shift + Alt. Esikatselut voivat sisältää tietoja, kuten otsikon ja lukuajan. <a data-l10n-name="connect">Jaa palautetta</a>
     }
+# New Tab Sections with follow and block
+experimental-features-newtab-sections-follow-block =
+    .label = Aiheosiot ja seuraa/estä uusien välilehtien tarinoita
+experimental-features-newtab-sections-follow-block-description = Järjestä Uusi välilehti -sivun tarinat aihealueisiin (Urheilu, Ruoka, Viihde ja paljon muuta) jäsennellymmän ja helpommin selattavan käyttökokemuksen saamiseksi. Käytä uusia Seuraa- ja Estä-säätimiä mukauttaaksesi näkemääsi sisältöä. <a data-l10n-name="connect">Jaa palautetta</a>

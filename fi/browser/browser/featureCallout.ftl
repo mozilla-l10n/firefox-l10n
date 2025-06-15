@@ -99,6 +99,8 @@ perplexity-callout-theme-2-title = Kokeile Perplexityä: uusi tapa hakea
 perplexity-callout-theme-1-subtitle-1 = Kokeile Perplexityä. Valitse se hakupainikkeesta, kun haluat täydelliset vastaukset lähteineen.
 perplexity-callout-theme-1-subtitle-2 = Esitä kysymyksiä. Saat kattavia, hyvin siteerattuja vastauksia. Kokeile Perplexityä valitsemalla se hakupainikkeesta.
 perplexity-callout-theme-2-subtitle-1 = Kysy Perplexityltä. Saat täydelliset vastaukset, lähteet mukaan lukien.
+perplexity-callout-theme-2-subtitle-2 = Esitä kysymyksiä. Saat kattavia ja hyvin siteerattuja vastauksia.
+perplexity-callout-primary-label = Kysy Perplexityltä
 perplexity-callout-secondary-label-1 = Hylkää
 perplexity-callout-secondary-label-2 = Selvä
 

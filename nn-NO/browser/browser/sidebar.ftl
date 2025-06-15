@@ -23,6 +23,11 @@ sidebar-history-date-this-month =
     .heading = { DATETIME($date, dateStyle: "full") }
 sidebar-history-date-prev-month =
     .heading = { DATETIME($date, month: "long", year: "numeric") }
+# When history is sorted by site, this heading is used in place of a domain, in
+# order to group sites that do not come from an outside host.
+# For example, this would be the heading for all file:/// URLs in history.
+sidebar-history-site-localhost =
+    .heading = (lokale filer)
 sidebar-history-delete =
     .title = Slett frå historikk
 sidebar-history-clear =
@@ -82,6 +87,8 @@ sidebar-context-menu-open-in-window =
     .label = Opne i nytt vindauge
 sidebar-context-menu-open-in-private-window =
     .label = Opne i nytt privat vindauge
+sidebar-context-menu-forget-site =
+    .label = Fjern alle data for nettstaden…
 sidebar-context-menu-bookmark-tab =
     .label = Bokmerk fane…
 sidebar-context-menu-copy-link =
@@ -99,8 +106,12 @@ sidebar-context-menu-close-remote-tab =
 
 ## Labels for sidebar history context menu items
 
+sidebar-history-context-menu-delete-page-2 =
+    .label = Slett side frå historikken
 sidebar-history-context-menu-bookmark-page =
     .label = Bokmerk side…
+sidebar-history-context-menu-delete-pages =
+    .label = Slett sider frå historikken
 
 ## Labels for sidebar menu items.
 
