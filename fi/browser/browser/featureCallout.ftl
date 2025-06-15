@@ -95,6 +95,10 @@ bookmarks-toolbar-callout-2b-secondary-button-label = Ei kiitos
 ## Perplexity callout strings
 
 perplexity-callout-theme-1-title = Tarvitsetko oikean vastauksen heti?
+perplexity-callout-theme-2-title = Kokeile Perplexityä: uusi tapa hakea
+perplexity-callout-theme-1-subtitle-1 = Kokeile Perplexityä. Valitse se hakupainikkeesta, kun haluat täydelliset vastaukset lähteineen.
+perplexity-callout-theme-1-subtitle-2 = Esitä kysymyksiä. Saat kattavia, hyvin siteerattuja vastauksia. Kokeile Perplexityä valitsemalla se hakupainikkeesta.
+perplexity-callout-theme-2-subtitle-1 = Kysy Perplexityltä. Saat täydelliset vastaukset, lähteet mukaan lukien.
 perplexity-callout-secondary-label-1 = Hylkää
 perplexity-callout-secondary-label-2 = Selvä
 

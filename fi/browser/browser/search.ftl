@@ -54,19 +54,55 @@ install-search-engine-no = Ei
 add-engine-window =
     .title = Lisää hakukone
     .style = min-width: 32em;
+edit-engine-window =
+    .title = Muokkaa hakukonetta
+    .style = min-width: 32em;
 add-engine-button = Lisää mukautettu hakukone
 add-engine-name = Hakukoneen nimi
+add-engine-url2 = URL-osoite, jossa hakusanan tilalla on %s
+add-engine-keyword2 = Avainsana (valinnainen)
+add-engine-suggest-url = Ehdotusten URL-osoite, jossa hakusanan tilalla on %s (valinnainen)
+add-engine-keyword = Avainsana
 add-engine-url = Hakukoneen osoite, käytä merkkijonoa %s hakuehdon sijaan
 add-engine-dialog =
     .buttonlabelaccept = Lisää hakukone
     .buttonaccesskeyaccept = L
 engine-name-exists = Hakukone samalla nimellä on jo olemassa
+engine-keyword-exists = Hakukone samalla avainsanalla on jo olemassa
 
 ## The following placeholders are shown in the inputs when adding a new engine.
 
+add-engine-name-placeholder =
+    .placeholder = esim. Mozilla Developer Network
+add-engine-url-placeholder =
+    .placeholder = esim. https://developer.mozilla.com/search?q=%s
+add-engine-keyword-placeholder =
+    .placeholder = esim. @mdn
 
 ## The following strings are used as error messages.
 
+add-engine-keyword-exists = Avainsana on jo käytössä. Kokeile toista.
+add-engine-name-exists = Kyseinen nimi on jo käytössä. Valitse toinen nimi.
+add-engine-no-name = Lisää nimi.
+add-engine-no-url = Kirjoita osoite.
+add-engine-invalid-url = URL-osoite ei näytä oikealta. Tarkista se ja yritä uudelleen.
+add-engine-invalid-protocol = URL-osoite ei näytä oikealta. Käytä URL-osoitetta, jonka alussa on joko http tai https.
+# This error is shown when the user typed URL is missing %s.
+add-engine-missing-terms-url = Kokeile lisätä %s hakusanan paikalle.
+# This error is shown when the user typed post data is missing %s.
+add-engine-missing-terms-post-data = Kokeile lisätä %s hakusanan paikalle.
 
 ## The following strings are used as labels for the dialog's buttons.
 
+# buttonlabelextra1 is the label of a button to open the advanced section
+# of the dialog.
+add-engine-dialog2 =
+    .buttonlabelaccept = Lisää hakukone
+    .buttonaccesskeyaccept = A
+    .buttonlabelextra1 = Lisäasetukset
+# buttonlabelextra1 is the label of a button to open the advanced section
+# of the dialog.
+edit-engine-dialog =
+    .buttonlabelaccept = Tallenna hakukone
+    .buttonaccesskeyaccept = T
+    .buttonlabelextra1 = Lisäasetukset

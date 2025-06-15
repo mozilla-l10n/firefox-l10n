@@ -690,6 +690,8 @@ urlbar-result-action-visit = Besøk
 # Variables
 # $container (String): the name of the target container
 urlbar-result-action-switch-tab-with-container = Byt til fane · <span>{ $container }</span>
+# Used when the target tab is in a tab group that doesn't have a label.
+urlbar-result-action-tab-group-unnamed = Namnlaus gruppe
 # Allows the user to visit a URL that was previously copied to the clipboard.
 urlbar-result-action-visit-from-clipboard = Besøk frå utklippstavla
 # Directs a user to press the Tab key to perform a search with the specified
@@ -1262,3 +1264,5 @@ file-picker-crashed-show-in-folder =
 ## Onboarding Finish Setup checklist
 
 onboarding-checklist-button-label = Fullfør oppsett
+onboarding-finish-setup-button-label =
+    .label = Fullfør oppsettet

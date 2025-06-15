@@ -316,6 +316,9 @@ newtab-custom-recent-toggle =
 newtab-custom-weather-toggle =
     .label = Sää
     .description = Päivän sääennuste yhdellä vilkaisulla
+newtab-custom-trending-search-toggle =
+    .label = Nousussa olevat haut
+    .description = Suosittuja ja usein haettuja aiheita
 newtab-custom-close-button = Sulje
 newtab-custom-settings = Muokkaa lisää asetuksia
 
@@ -566,3 +569,11 @@ newtab-toast-thanks-for-reporting =
 
 ## Strings for trending searches
 
+# "Trending on Google" refers to the trending topics coming from Google Search, usually seen when a user is focused on the search bar
+newtab-trending-searches-trending-on-google = Nousussa Googlessa
+newtab-trending-searches-show-trending =
+    .title = Näytä nousussa olevat haut
+newtab-trending-searches-hide-trending =
+    .title = Piilota nousussa olevat haut
+newtab-trending-searches-learn-more = Lue lisää
+newtab-trending-searches-dismiss = Piilota nousussa olevat haut

@@ -34,5 +34,9 @@ default-browser-guidance-notification-body-instruction-win10 =
     Vaihe 1: Siirry kohtaan Asetukset > Oletussovellukset
     Vaihe 2: Vieritä alas kohtaan "Selain"
     Vaihe 3: Valitse { -brand-short-name }
+# Quoted text are keywords to look for in the Windows Settings app.
+default-browser-guidance-notification-body-instruction-win11 =
+    Vaihe 1: Siirry kohtaan Asetukset > Oletussovellukset
+    Vaihe 2: Valitse "Aseta oletus" selaimelle { -brand-short-name }
 default-browser-guidance-notification-info-page = Näytä minulle
 default-browser-guidance-notification-dismiss = Valmis
