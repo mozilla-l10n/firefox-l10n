@@ -121,6 +121,14 @@ cert-error-revoked-certificate = { -brand-short-name } zablokował otwarcie tej 
 cert-error-bad-signature = { -brand-short-name } zablokował otwarcie tej witryny, ponieważ podpis certyfikatu dostarczonego dla adresu { $hostname } nie jest prawidłowy.
 cert-error-key-pinning-failure = { -brand-short-name } zablokował otwarcie tej witryny, ponieważ certyfikat dostarczony dla adresu { $hostname } używa innego klucza publicznego niż oczekiwano.
 cert-error-bad-der = { -brand-short-name } zablokował otwarcie tej witryny, ponieważ certyfikat dostarczony dla adresu { $hostname } nie jest właściwie zakodowany.
+cert-error-cert-not-in-name-space = { -brand-short-name } zablokował otwarcie tej witryny, ponieważ certyfikat dostarczony dla adresu { $hostname } nie jest zgodny z ograniczeniami nazw certyfikatu, który go wystawił.
+cert-error-inadequate-cert-type = { -brand-short-name } zablokował otwarcie tej witryny, ponieważ certyfikat dostarczony dla adresu { $hostname } nie może być używany przez serwer WWW.
+cert-error-path-len-constraint-invalid = { -brand-short-name } zablokował otwarcie tej witryny, ponieważ certyfikat dostarczony dla adresu { $hostname } ma zbyt wiele certyfikatów pośrednich na ścieżce do certyfikatu głównego.
+cert-error-invalid-key = { -brand-short-name } zablokował otwarcie tej witryny, ponieważ certyfikat dostarczony dla adresu { $hostname } ma klucz, który jest nieprawidłowy. Najprawdopodobniej jest za mały, aby zapewnić bezpieczeństwo.
+cert-error-unknown-critical-extension = { -brand-short-name } zablokował otwarcie tej witryny, ponieważ certyfikat dostarczony dla adresu { $hostname } zawiera nieobsługiwane krytyczne rozszerzenie.
+cert-error-extension-value-invalid = { -brand-short-name } zablokował otwarcie tej witryny, ponieważ certyfikat dostarczony dla adresu { $hostname } zawiera nieprawidłowe rozszerzenie.
+cert-error-untrusted-issuer = { -brand-short-name } zablokował otwarcie tej witryny, ponieważ certyfikat dostarczony dla adresu { $hostname } został wystawiony przez organ certyfikacji, który nie jest już zaufany.
+cert-error-untrusted-cert = { -brand-short-name } zablokował otwarcie tej witryny, ponieważ certyfikat dostarczony dla adresu { $hostname } jest oznaczony jako niezaufany.
 
 ## Messages used for certificate error titles
 
