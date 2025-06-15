@@ -54,8 +54,16 @@ install-search-engine-no = Не
 add-engine-window =
     .title = Дадаць пашукавік
     .style = min-width: 32em;
+edit-engine-window =
+    .title = Змяніць пашукавік
+    .style = min-width: 32em;
 add-engine-button = Дадаць уласны пашукавік
 add-engine-name = Назва пашукавіка
+add-engine-url2 = URL-адрас з %s на месцы пошукавага тэрміна
+add-engine-keyword2 = Ключавое слова (неабавязкова)
+# POST and GET refer to the HTTP methods.
+add-engine-post-data = POST-дадзеныя з %s замест пошукавага тэрміна (пакіньце пустым для GET)
+add-engine-suggest-url = URL-адрас прапаноў з %s замест пошукавага тэрміна (неабавязкова)
 add-engine-keyword = Ключавое слова
 add-engine-url = URL-адрас пашукавіка, выкарыстоўвайце %s замест пошукавага тэрміна
 add-engine-dialog =
