@@ -117,6 +117,8 @@ fp-learn-more-about-time-related-errors = Pli da informo pri solvo de problemoj 
 ## Variables:
 ##   $hostname (string) - Hostname of the website with cert error.
 
+cert-error-revoked-certificate = { -brand-short-name } blokis vian viziton al tiu ĉi retejo ĉar la atestilo provizita por { $hostname } estis revokita kaj do ne plu fidinda.
+cert-error-bad-signature = { -brand-short-name } blokis vian viziton al tiu ĉi retejo ĉar la subskribo en la atestilo provizita por { $hostname } ne estas valida.
 
 ## Messages used for certificate error titles
 

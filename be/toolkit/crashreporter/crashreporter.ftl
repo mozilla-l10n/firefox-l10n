@@ -51,3 +51,4 @@ crashreporter-error-no-home-dir = Адсутнічае хатні каталог
 # $to (String) - the destination path
 crashreporter-error-moving-path = Не ўдалося перамясціць { $from } у { $to }
 crashreporter-error-version-eol = Канец жыццёвага цыкла версіі: справаздачы аб збоях больш не прымаюцца.
+crashreporter-error-failed-to-generate-minidump = Праграме не ўдалося стварыць інфармацыю пра збой.

@@ -61,6 +61,10 @@ toolbar-context-menu-auto-hide-downloads-button-2 =
 toolbar-context-menu-always-open-downloads-panel =
     .label = Паказваць панэль, калі пачынаецца сцягванне
     .accesskey = ы
+# Label of checkbox menu item to toggle visibility of Extensions Button.
+toolbar-context-menu-always-show-extensions-button =
+    .label = Заўсёды паказваць на паліцы прылад
+    .accesskey = З
 toolbar-context-menu-remove-from-toolbar =
     .label = Выдаліць з паліцы прылад
     .accesskey = В
