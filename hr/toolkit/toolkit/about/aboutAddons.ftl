@@ -282,6 +282,7 @@ discopane-notice-learn-more = Saznaj više
 colorway-removal-notice-message =
     .heading = Tvoje teme kolorita su uklonjene.
     .message = { -brand-product-name } je aktualizirao svoju zbirku kolorita. Uklonili smo stare verzije s popisa „Spremljene teme”. Preuzmi nove verzije na stranici s dodacima.
+colorway-removal-notice-learn-more = Saznaj više
 colorway-removal-notice-button = Nabavi aktualizirane teme kolorita
 privacy-policy = Politika privatnosti
 # Refers to the author of an add-on, shown below the name of the add-on.
@@ -437,6 +438,13 @@ addon-badge-verified2 =
 # by Mozilla and we don't want forks to display "by Fork".
 addon-badge-line4 =
     .title = Službeno proširenje koje je izradila Mozilla. Udovoljava standardima sigurnosti i performansi
+# This string needs to work in the context of other forks that are not Firefox
+# or built by Mozilla. In particular, we do not want to imply that an
+# organisation other than Mozilla or the Firefox team are performing the
+# security or performance reviews. As such, we avoid personalising language
+# like the words "our" or "we".
+addon-badge-verified4 =
+    .title = Ovo je proširenje pregledano kako bi udovoljilo našim standardima za sigurnost i performancu.
 # This string needs to work in the context of other forks that are not Firefox
 # or built by Mozilla. In particular, we do not want to imply that an
 # organisation other than Mozilla or the Firefox team are making the

@@ -38,6 +38,11 @@ about-glean-moz-official = <code>MOZILLA_OFFICIAL</code>: { $moz-official-define
 about-glean-about-testing-header = O testiranju
 # This message is an option in a dropdown filled with untranslated names of pings.
 about-glean-no-ping-label = (ne šalji nijedan ping)
+controls-button-label-verbose = Primijeni postavke i pošalji ping
+about-glean-feedback-settings-only =
+    .message = Postavke su primijenjene!
+about-glean-feedback-settings-and-ping =
+    .message = Postavke su primijenjene i ping je poslan!
 about-glean-about-data-header = O podacima
 about-glean-about-data-list-item-about-telemetry =
     Za pregledavanje podataka koji se prikupljaju starom telemetrijom, pogledaj
