@@ -47,3 +47,6 @@ experimental-features-link-previews-description-no-ai =
         [macos] Por scii pli pri retpaĝo, antaŭ ol alklaki ĝin, metu la montrilon super la ligilon kaj premu Maj (⇧) kaj Alt aŭ Option (⌥). Antaŭmontro povas inkluzivi detalojn kiel titolon kaj tempon de legado.<a data-l10n-name="connect">Dividi komentojn</a>
        *[other] Por scii pli pri retpaĝo, antaŭ ol alklaki ĝin, metu la montrilon super la ligilon kaj premu Maj (⇧) kaj Alt. Antaŭmontro povas inkluzivi detalojn kiel titolon kaj tempon de legado.<a data-l10n-name="connect">Dividi komentojn</a>
     }
+# New Tab Sections with follow and block
+experimental-features-newtab-sections-follow-block =
+    .label = Temaj sekcioj kaj agordoj por sekvi kaj bloki artikolojn en novaj langetoj

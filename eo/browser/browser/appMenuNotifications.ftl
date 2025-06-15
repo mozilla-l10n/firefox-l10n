@@ -47,6 +47,9 @@ appmenu-addon-post-install-message3 = Administru viajn aldonaĵojn kaj etosojn e
 # This string is used in the confirmation popup displayed after an extension
 # has been installed, when the data collection feature is enabled.
 appmenu-addon-post-install-message-with-data-collection = Ĝisdatigu la permesojn kaj preferojn pri datumoj iam ajn, en la <a data-l10n-name="settings-link">agordoj de etendaĵo</a>.
+appmenu-addon-post-install-pin-toolbarbutton-checkbox =
+    .label = Alpingli etendaĵon al ilaro
+    .accesskey = A
 appmenu-addon-post-install-incognito-checkbox =
     .label = Permesi al tiu ĉi etendaĵo funkcii en privataj fenestroj
     .accesskey = P
