@@ -58,15 +58,21 @@ edit-engine-window =
     .style = min-width: 32em;
 add-engine-button = Таңдауыңызша жүйені қосу
 add-engine-name = Іздеу жүйесінің аты
+add-engine-keyword2 = Кілт сөз (міндетті емес)
 add-engine-keyword = Кілтсөз
 add-engine-url = Жүйенің URL адресі, ізделетін жолдың орнына %s қолданыңыз
 add-engine-dialog =
     .buttonlabelaccept = Жүйені қосу
     .buttonaccesskeyaccept = о
 engine-name-exists = Осылай аталатын іздеу жүйесі бар болып тұр
+engine-keyword-exists = Бұл кілт сөзбен іздеу жүйесі бар болып тұр
 
 ## The following placeholders are shown in the inputs when adding a new engine.
 
+add-engine-url-placeholder =
+    .placeholder = мыс., https://developer.mozilla.com/search?q=%s
+add-engine-keyword-placeholder =
+    .placeholder = мыс., @mdn
 
 ## The following strings are used as error messages.
 

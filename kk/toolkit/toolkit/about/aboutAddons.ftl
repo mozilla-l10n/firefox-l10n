@@ -460,6 +460,9 @@ shortcuts-heading = Кеңейтудің пернетақта жарлықтар
 default-heading-search-label = Көбірек қосымшаларды табу
 addons-heading-search-input =
     .placeholder = addons.mozilla.org-ға іздеу
+addons-heading-search-button =
+    .title = addons.mozilla.org сайтынан іздеу
+    .aria-label = addons.mozilla.org сайтынан іздеу
 addon-page-options-button =
     .title = Барлық қосымшалар үшін құралдар
 
@@ -521,6 +524,11 @@ plugins-widevine-description = Бұл плагин шифрленген меди
 ## Headings for the Permissions tab in `about:addons` when the data collection
 ## feature is enabled.
 
+addon-permissions-required-data-collection = Міндетті деректерді жинау:
+# This is a description for extension that use this AI model
+# Variables:
+#   $extensionName (String) - Name of the extension
+mlmodel-extension-label = { $extensionName } кеңейтуімен қолданылуда
 
 ## Mapping Engine IDs from AI models to how that feature represented by the engine Id is described in the used by section in local model management
 

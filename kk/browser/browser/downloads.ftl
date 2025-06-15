@@ -187,6 +187,7 @@ downloads-details =
 
 downloads-private-browsing-details =
     .title = Файлдар сіздің құрылғыңызда қалады
+downloads-private-browsing-message = Бұл құрылғыны пайдаланатын кез келген адам жүктеп алынған файлдарды көре алады, жеке терезелердің барлығын жапқан жағдайда да.
 downloads-private-browsing-delete-button =
     .label = Файлдарды автоматты түрде өшіру
     .accesskey = ш

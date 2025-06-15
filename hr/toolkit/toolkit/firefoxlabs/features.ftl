@@ -23,3 +23,7 @@ experimental-features-group-webpage-display =
     .label = Prikaz web stranice
 experimental-features-group-customize-browsing =
     .label = Prilagodi svoje pregledavanje
+# New Tab Custom Wallpapers
+experimental-features-custom-wallpaper =
+    .label = Odaberi prilagođenu pozadinu ili boju za novu karticu
+experimental-features-custom-wallpaper-description = Prenesi vlastitu sliku pozadine ili odaberi prilagođenu boju za pozadinu nove kartice.

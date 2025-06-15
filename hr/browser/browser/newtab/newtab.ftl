@@ -532,7 +532,7 @@ newtab-section-mangage-topics-blocked-topics = Blokirane
 newtab-section-mangage-topics-blocked-topics-empty-state = Još nisi blokirao/la nijednu temu.
 newtab-custom-wallpaper-title = Prilagođene slike pozadine su ovdje
 # 'Make firefox yours" means to customize or personalize
-newtab-custom-wallpaper-subtitle = Prenesi vlastitu sliku pozadine ili odaberi prilagođenu za tvoj { -brand-product-name }.
+newtab-custom-wallpaper-subtitle = Prenesi vlastitu sliku pozadine ili odaberi prilagođenu boju za tvoj { -brand-product-name }.
 newtab-custom-wallpaper-cta = Isprobaj
 
 ## Strings for download mobile highlight
