@@ -493,6 +493,9 @@ shortcuts-heading = Zarządzanie skrótami rozszerzeń
 default-heading-search-label = Znajdź więcej dodatków
 addons-heading-search-input =
     .placeholder = Szukaj na stronie addons.mozilla.org
+addons-heading-search-button =
+    .title = Szukaj na stronie addons.mozilla.org
+    .aria-label = Szukaj na stronie addons.mozilla.org
 addon-page-options-button =
     .title = Narzędzia dla wszystkich dodatków
 
@@ -558,6 +561,33 @@ addon-permissions-required-data-collection = Wymagane zbieranie danych:
 addon-permissions-optional-data-collection = Opcjonalne zbieranie danych:
 # Name of the Permissions tab in `about:addons` when the data collection feature is enabled.
 permissions-data-addon-button = Uprawnienia i dane
+# This is a description for extension that use this AI model
+# Variables:
+#   $extensionName (String) - Name of the extension
+mlmodel-extension-label = Używane przez rozszerzenie { $extensionName }
 
 ## Mapping Engine IDs from AI models to how that feature represented by the engine Id is described in the used by section in local model management
 
+mlmodel-about-inference = { -brand-short-name } używa tego na about:inference
+mlmodel-link-preview = { -brand-short-name } używa tego do generowania punktów kluczowych podczas podglądu odnośników
+mlmodel-pdfjs = { -brand-short-name } używa tego do tworzenia tekstu alternatywnego dla obrazów dodawanych do plików PDF
+mlmodel-smart-tab-topic-engine = { -brand-short-name } używa tego do podpowiadania nazw grup kart
+mlmodel-smart-tab-embedding-engine = { -brand-short-name } używa tego do podpowiadania kart grup kart
+# AI Model will be downloaded on the users device and used locally
+addon-category-mlmodel = Sztuczna inteligencja na urządzeniu
+addon-category-mlmodel-title =
+    .title = Sztuczna inteligencja na urządzeniu
+mlmodel-heading = Zarządzaj modelami sztucznej inteligencji na urządzeniu
+mlmodel-description = Niektóre funkcje i rozszerzenia { -brand-short-name(case: "gen") } korzystają z modeli sztucznej inteligencji działających lokalnie na Twoim urządzeniu. Takie podejście chroni Twoją prywatność i w wielu przypadkach przyspiesza działanie. <a data-l10n-name="learn-more">Więcej informacji</a>
+# Label for button that when clicked removed local model
+mlmodel-remove-addon-button =
+    .aria-label = Usuń
+# Label for the aggregated value of all files for a model
+mlmodel-addon-detail-totalsize-label = Rozmiar pliku
+mlmodel-addon-detail-last-used-label = Ostatnie użycie
+# This is a section label to describe what extensions or features use a specific local AI model
+mlmodel-addon-detail-used-by-label = Używane przez
+# This is a section label to describe the link to the model card on the Hugging Face website
+mlmodel-addon-detail-model-card = Karta modelu
+# This is a label for the Model Card link to Hugging face
+mlmodel-addon-detail-model-card-link-label = Otwórz na Hugging Face
