@@ -174,7 +174,7 @@ mr2022-background-update-toast-secondary-button-label = Podsjeti me kasnije
 
 ## Firefox View CFR
 
-firefoxview-cfr-primarybutton = Isprobaj ga
+firefoxview-cfr-primarybutton = Isprobaj
     .accesskey = I
 firefoxview-cfr-secondarybutton = Ne sada
     .accesskey = N
