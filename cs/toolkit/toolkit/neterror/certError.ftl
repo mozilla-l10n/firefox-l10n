@@ -138,6 +138,11 @@ cert-error-revoked-certificate =
         [with-cases] { -brand-short-name } zablokoval vaši návštěvu této stránky, protože poskytnutý certifikát byl pro server { $hostname } zneplatněn a již není považován za důvěryhodný.
        *[no-cases] Aplikace { -brand-short-name } zablokovala vaši návštěvu této stránky, protože poskytnutý certifikát byl pro server { $hostname } zneplatněn a již není považován za důvěryhodný.
     }
+cert-error-bad-signature =
+    { -brand-short-name.case-status ->
+        [with-cases] { -brand-short-name } zablokoval vaši návštěvu tohoto webu, protože podpis na certifikátu poskytnutém pro { $hostname } není platný.
+       *[no-cases] Aplikace { -brand-short-name } zablokovala vaši návštěvu tohoto webu, protože podpis na certifikátu poskytnutém pro { $hostname } není platný.
+    }
 
 ## Messages used for certificate error titles
 
