@@ -47,7 +47,7 @@ detail-contributions-button = Wspomóż
     .title = Wspomóż rozwój tego dodatku
     .accesskey = s
 detail-update-type =
-    .value = Aktualizacje automatyczne
+    .value = Aktualizacje automatyczne:
 detail-update-default =
     .label = ustawienia domyślne
     .tooltiptext = Instaluj aktualizacje automatycznie tylko, jeśli takie jest domyślne ustawienie
@@ -385,7 +385,7 @@ pending-uninstall-description = Usunięto dodatek <span data-l10n-name="addon-na
 pending-uninstall-description2 =
     .message = Usunięto dodatek { $addon }.
 pending-uninstall-undo-button = Cofnij
-addon-detail-updates-label = Automatyczne aktualizacje
+addon-detail-updates-label = Automatyczne aktualizacje:
 addon-detail-updates-radio-default = ustawienia domyślne
 addon-detail-updates-radio-on = włączone
 addon-detail-updates-radio-off = wyłączone
