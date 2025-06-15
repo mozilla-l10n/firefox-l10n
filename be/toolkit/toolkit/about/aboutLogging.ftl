@@ -16,6 +16,7 @@ about-logging-set-log-modules = Пазначыць модулі журнала
 about-logging-start-logging = Пачаць вядзенне журнала
 about-logging-stop-logging = Спыніць вядзенне журнала
 about-logging-copy-as-url = Скапіяваць бягучыя налады як URL-адрас
+about-logging-url-copied = Налады журналявання скапіяваны ў буфер абмену як загадзя зададзены URL-адрас
 about-logging-buttons-disabled = Вядзенне журнала наладжана з дапамогай пераменных асяроддзя, дынамічная канфігурацыя недаступная.
 about-logging-some-elements-disabled = Вядзенне журнала наладжана праз URL, некаторыя параметры канфігурацыі недаступныя
 about-logging-info = Інфармацыя:
@@ -28,6 +29,8 @@ about-logging-no-log-modules = Няма
 about-logging-no-log-file = Няма
 about-logging-logging-preset-selector-text = Папярэдняя налада вядзення журнала:
 about-logging-with-profiler-stacks-checkbox = Уключыць трасіроўку стэка для паведамленняў журнала
+about-logging-menu =
+    .title = Дадатковыя параметры
 
 ## Logging presets
 
