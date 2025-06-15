@@ -30,6 +30,7 @@ webext-perms-description-sessions = Dostęp do ostatnio zamkniętych kart
 webext-perms-description-tabs = Dostęp do kart przeglądarki
 webext-perms-description-tabHide = Ukrywanie i wyświetlanie kart przeglądarki
 webext-perms-description-topSites = Dostęp do historii przeglądania
+webext-perms-description-trialML = Pobieranie i uruchamianie modeli sztucznej inteligencji na urządzeniu użytkownika
 webext-perms-description-userScripts = Zezwalanie niezweryfikowanym skryptom zewnętrznym na dostęp do danych użytkownika
 webext-perms-description-webNavigation = Dostęp do aktywności przeglądarki podczas nawigacji
 
