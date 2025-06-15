@@ -129,6 +129,8 @@ cert-error-unknown-critical-extension = { -brand-short-name } blokis vian vizito
 cert-error-extension-value-invalid = { -brand-short-name } blokis vian viziton al tiu ĉi retejo ĉar la atestilo provizita por { $hostname } enhavas nevalidan etendaĵon.
 cert-error-untrusted-issuer = { -brand-short-name } blokis vian viziton al tiu ĉi retejo ĉar la atestilo provizita por { $hostname } estis eldonita de atestila aŭtoritato, kiu ne plu estas fidata.
 cert-error-untrusted-cert = { -brand-short-name } blokis vian viziton al tiu ĉi retejo ĉar la atestilo provizita por { $hostname } estas markita kiel nefidata.
+cert-error-invalid-integer-encoding = { -brand-short-name } blokis vian viziton al tiu ĉi retejo ĉar la atestilo provizita por { $hostname } enhavas nevalidan enkodigon de nombro. Oftaj kialoj estas negativaj seriaj nombroj, negativaj moduloj RSA kaj enkodigoj, kiuj estas nenecese longaj.
+cert-error-unsupported-keyalg = { -brand-short-name } blokis vian viziton al tiu ĉi retejo ĉar la atestilo provizita por { $hostname } havas nesubtenatan tipon de ŝlosilo.
 cert-error-issuer-no-longer-trusted = { -brand-short-name } blokis vian viziton al tiu ĉi retejo ĉar la atestila aŭtoritato kiu eldonis la atestilon provizitan por { $hostname } ne plu estas fidata.
 cert-error-signature-algorithm-mismatch = { -brand-short-name } blokis vian viziton al tiu ĉi retejo ĉar la subskriba algoritmo de la atestilo provizita por { $hostname } ne kongruas kun la kampo pri subskriba algoritmo.
 

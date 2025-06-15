@@ -590,3 +590,16 @@ addon-category-mlmodel = Штучны інтэлект на прыладзе
 addon-category-mlmodel-title =
     .title = Штучны інтэлект на прыладзе
 mlmodel-heading = Кіраванне мадэлямі штучнага інтэлекту на прыладзе
+mlmodel-description = Некаторыя функцыі і пашырэнні ў { -brand-short-name } працуюць на аснове мадэляў штучнага інтэлекту, якія працуюць лакальна на вашай прыладзе. Такі падыход ахоўвае вашу прыватнасць і ў многіх выпадках павышае прадукцыйнасць. <a data-l10n-name="learn-more">Даведацца больш</a>
+# Label for button that when clicked removed local model
+mlmodel-remove-addon-button =
+    .aria-label = Выдаліць
+# Label for the aggregated value of all files for a model
+mlmodel-addon-detail-totalsize-label = Памер файла
+mlmodel-addon-detail-last-used-label = Апошняе выкарыстанне
+# This is a section label to describe what extensions or features use a specific local AI model
+mlmodel-addon-detail-used-by-label = Выкарыстоўваецца
+# This is a section label to describe the link to the model card on the Hugging Face website
+mlmodel-addon-detail-model-card = Карта мадэлі
+# This is a label for the Model Card link to Hugging face
+mlmodel-addon-detail-model-card-link-label = Адкрыць на Hugging Face
