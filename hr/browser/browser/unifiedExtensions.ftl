@@ -43,7 +43,7 @@ unified-extensions-context-menu-move-widget-down =
 ## Notifications
 
 unified-extensions-mb-quarantined-domain-title = Neki dodaci nisu dozvoljeni
-unified-extensions-mb-quarantined-domain-message = Samo neka proširenja koja nadzire { -vendor-short-name } su dozvoljena na ovoj stranici kao zaštite tvojih podataka.
+unified-extensions-mb-quarantined-domain-message = Samo neka proširenja koja nadzire { -vendor-short-name } su dozvoljena na ovoj stranici kako bi zaštitila tvoje podatake.
 # .heading is processed by moz-message-bar to be used as a heading attribute
 unified-extensions-mb-quarantined-domain-message-3 =
     .heading = Neka proširenja nisu dozvoljena

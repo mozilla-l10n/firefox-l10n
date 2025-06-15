@@ -671,7 +671,7 @@ addon-category-mlmodel-title =
 mlmodel-heading = Správa modelů umělé inteligence na zařízení
 mlmodel-description =
     { -brand-short-name.case-status ->
-        [with-cases] Některé funkce a rozšíření ve { -brand-short-name(case: "gen") } jsou postaveny na modelech umělé inteligence, které fungují lokálně na vašem zařízení. Tento přístup chrání vaše soukromí a v mnoha případech i zrychluje výkon. <a data-l10n-name="learn-more">Zjistit více</a>
+        [with-cases] Některé funkce a rozšíření ve { -brand-short-name(case: "loc") } jsou postaveny na modelech umělé inteligence, které fungují lokálně na vašem zařízení. Tento přístup chrání vaše soukromí a v mnoha případech i zrychluje výkon. <a data-l10n-name="learn-more">Zjistit více</a>
        *[no-cases] Některé funkce a rozšíření v aplikaci { -brand-short-name } jsou postaveny na modelech umělé inteligence, které fungují lokálně na vašem zařízení. Tento přístup chrání vaše soukromí a v mnoha případech i zrychluje výkon. <a data-l10n-name="learn-more">Zjistit více</a>
     }
 # Label for button that when clicked removed local model

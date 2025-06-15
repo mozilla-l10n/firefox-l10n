@@ -134,9 +134,11 @@ fp-learn-more-about-time-related-errors = Zjistěte více o řešení chyb souvi
 ##   $hostname (string) - Hostname of the website with cert error.
 
 cert-error-revoked-certificate =
-    { -brand-short-name.case-status ->
-        [with-cases] { -brand-short-name } zablokoval vaši návštěvu této stránky, protože poskytnutý certifikát byl pro server { $hostname } zneplatněn a již není považován za důvěryhodný.
-       *[no-cases] Aplikace { -brand-short-name } zablokovala vaši návštěvu této stránky, protože poskytnutý certifikát byl pro server { $hostname } zneplatněn a již není považován za důvěryhodný.
+    { -brand-short-name.gender ->
+        [masculine] { -brand-short-name } zablokoval vaši návštěvu této stránky, protože poskytnutý certifikát byl pro server { $hostname } zneplatněn a již není považován za důvěryhodný.
+        [feminine] { -brand-short-name } zablokovala vaši návštěvu této stránky, protože poskytnutý certifikát byl pro server { $hostname } zneplatněn a již není považován za důvěryhodný.
+        [neuter] { -brand-short-name } zablokovalo vaši návštěvu této stránky, protože poskytnutý certifikát byl pro server { $hostname } zneplatněn a již není považován za důvěryhodný.
+       *[other] Aplikace { -brand-short-name } zablokovala vaši návštěvu této stránky, protože poskytnutý certifikát byl pro server { $hostname } zneplatněn a již není považován za důvěryhodný.
     }
 cert-error-bad-signature =
     { -brand-short-name.case-status ->

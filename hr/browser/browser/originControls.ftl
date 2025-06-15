@@ -33,7 +33,7 @@ origin-controls-option-always-on =
 ## messages. They currently appear in the unified extensions panel.
 
 origin-controls-state-no-access = Ne može čitati i mijenjati podatke na ovoj stranici
-origin-controls-state-quarantined = Nije dozvoljeno od strane { -vendor-short-name } na ovoj stranici
+origin-controls-state-quarantined = Nije dozvoljeno od proizvođača { -vendor-short-name } na ovoj stranici
 origin-controls-state-always-on = Može uvijek čitati i mijenjati podatke na ovoj stranici
 origin-controls-state-when-clicked = Potrebna je dozvola za čitanje i promjenu podataka
 origin-controls-state-hover-run-visit-only = Pokreni samo za ovaj posjet
@@ -61,4 +61,4 @@ origin-controls-toolbar-button-quarantined =
     .label = { $extensionTitle }
     .tooltiptext =
         { $extensionTitle }
-        Nije dozvoljeno od strane { -vendor-short-name } na ovoj stranici
+        Nije dozvoljeno od proizvođača { -vendor-short-name } na ovoj stranici
