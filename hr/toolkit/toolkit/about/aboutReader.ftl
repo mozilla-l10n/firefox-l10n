@@ -130,3 +130,5 @@ about-reader-text-alignment-center =
     .title = Centriraj tekst
 about-reader-text-alignment-right =
     .title = Poravnaj tekst desno
+about-reader-text-alignment-justify =
+    .title = Poravnaj tekst

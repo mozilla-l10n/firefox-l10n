@@ -15,7 +15,14 @@ support-addons-type = Vrsta
 support-addons-enabled = Aktivirano
 support-addons-version = Verzija
 support-addons-id = ID
+# In the add-on world, locations are where the addon files are stored. Each
+# location has name. For instance: app-system-addons, app-builtin,
+# app-temporary, etc.
+support-addons-location-name = Mjesto
+legacy-user-stylesheets-title = Stari korisnički stilski predlošci
 legacy-user-stylesheets-enabled = Aktivno
+legacy-user-stylesheets-stylesheet-types = Stilski predlošci
+legacy-user-stylesheets-no-stylesheets-found = Nema stilskih predložaka
 security-software-title = Sigurnosni softver
 security-software-type = Vrsta
 security-software-name = Ime
