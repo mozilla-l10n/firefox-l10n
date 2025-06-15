@@ -326,7 +326,7 @@ newtab-custom-settings = Upravljaj dodatnim postavkama
 ## New Tab Wallpapers
 
 newtab-wallpaper-title = Pozadine
-newtab-wallpaper-reset = Obnovi na standardno
+newtab-wallpaper-reset = Obnovi na standardnu pozadinu
 newtab-wallpaper-upload-image = Prenesi sliku
 newtab-wallpaper-custom-color = Odaberi boju
 # Variables

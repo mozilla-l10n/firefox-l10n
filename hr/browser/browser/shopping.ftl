@@ -240,7 +240,7 @@ shopping-onboarding-dynamic-subtitle-1 = Provjeri pouzdanost recenzija proizvoda
 shopping-onboarding-single-subtitle = Provjeri pouzdanost recenzija proizvoda na <b>{ $currentSite }</b> prije kupnje. Provjera recenzija, eksperimentalna { -brand-product-name } funkcija je ugrađena izravno u preglednik.
 shopping-onboarding-body = Koristeći snagu { -fakespot-brand-full-name }, pomažemo vam da izbjegnete pristrane i neautentične recenzije. Naš AI model stalno se poboljšava kako bi vas zaštitio dok kupujete. <a data-l10n-name="learn_more">Saznajte više</a>
 shopping-onboarding-opt-in-privacy-policy-and-terms-of-use3 = Odabirom opcije „{ shopping-onboarding-opt-in-button }” prihvaćaš { -brand-product-name } <a data-l10n-name="privacy_policy">politiku privatnosti</a> i { -fakespot-brand-name } <a data-l10n-name="terms_of_use">uvjete korištenja.</a>
-shopping-onboarding-opt-in-button = Da, probaj
+shopping-onboarding-opt-in-button = Da, isprobaj
 shopping-onboarding-not-now-button = Ne sada
 shopping-onboarding-dialog-close-button =
     .title = Zatvori

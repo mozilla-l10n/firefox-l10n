@@ -159,3 +159,4 @@ fp-certerror-hide-advanced-button = Sakrij napredno
 ##   $hostname (String) - Hostname of the website to which the user was trying to connect.
 
 fp-certerror-override-exception-button = Nastavi na { $hostname } (riskantno)
+fp-certerror-intro = { -brand-short-name } je ustanovio potencijalno ozbiljan sigurnosni problem s <strong>{ $hostname }</strong>. Netko tko se pretvara da je ta web stranica bi mogao pokušati ukrasti stvari poput podataka o kreditnim karticama, lozinke ili e-mail adrese.
