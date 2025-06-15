@@ -158,6 +158,11 @@ cert-error-cert-not-in-name-space =
         [with-cases] { -brand-short-name } zablokoval vaši návštěvu tohoto webu, protože certifikát poskytnutý pro { $hostname } nesplňuje omezení názvu certifikátu, pro který byl vydán.
        *[no-cases] Aplikace { -brand-short-name } zablokovala vaši návštěvu tohoto webu, protože certifikát poskytnutý pro { $hostname } nesplňuje omezení názvu certifikátu, pro který byl vydán.
     }
+cert-error-inadequate-cert-type =
+    { -brand-short-name.case-status ->
+        [with-cases] { -brand-short-name } zablokoval vaši návštěvu tohoto webu, protože certifikát poskytnutý pro { $hostname } není webovým serverem povolen.
+       *[no-cases] Aplikace { -brand-short-name } zablokovala vaši návštěvu tohoto webu, protože certifikát poskytnutý pro { $hostname } není webovým serverem povolen.
+    }
 
 ## Messages used for certificate error titles
 
