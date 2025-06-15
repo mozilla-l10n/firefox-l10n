@@ -129,6 +129,9 @@ cert-error-unknown-critical-extension = { -brand-short-name } zablokował otwarc
 cert-error-extension-value-invalid = { -brand-short-name } zablokował otwarcie tej witryny, ponieważ certyfikat dostarczony dla adresu { $hostname } zawiera nieprawidłowe rozszerzenie.
 cert-error-untrusted-issuer = { -brand-short-name } zablokował otwarcie tej witryny, ponieważ certyfikat dostarczony dla adresu { $hostname } został wystawiony przez organ certyfikacji, który nie jest już zaufany.
 cert-error-untrusted-cert = { -brand-short-name } zablokował otwarcie tej witryny, ponieważ certyfikat dostarczony dla adresu { $hostname } jest oznaczony jako niezaufany.
+cert-error-invalid-integer-encoding = { -brand-short-name } zablokował otwarcie tej witryny, ponieważ certyfikat dostarczony dla adresu { $hostname } zawiera nieprawidłowe kodowanie liczb. Typowe przyczyny to ujemne numery seryjne, ujemne moduli RSA i niepotrzebne już kodowania.
+cert-error-unsupported-keyalg = { -brand-short-name } zablokował otwarcie tej witryny, ponieważ certyfikat dostarczony dla adresu { $hostname } ma nieobsługiwany typ klucza.
+cert-error-issuer-no-longer-trusted = { -brand-short-name } zablokował otwarcie tej witryny, ponieważ organ certyfikacji, który wystawił certyfikat dostarczony dla adresu { $hostname }, nie jest już zaufany.
 
 ## Messages used for certificate error titles
 
