@@ -61,6 +61,8 @@ add-engine-button = Lisää mukautettu hakukone
 add-engine-name = Hakukoneen nimi
 add-engine-url2 = URL-osoite, jossa hakusanan tilalla on %s
 add-engine-keyword2 = Avainsana (valinnainen)
+# POST and GET refer to the HTTP methods.
+add-engine-post-data = POST-data, %s on hakusanan tilalla (jätä tyhjäksi GET-metodin käyttämiseksi)
 add-engine-suggest-url = Ehdotusten URL-osoite, jossa hakusanan tilalla on %s (valinnainen)
 add-engine-keyword = Avainsana
 add-engine-url = Hakukoneen osoite, käytä merkkijonoa %s hakuehdon sijaan
