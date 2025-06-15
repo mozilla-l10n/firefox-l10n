@@ -8,9 +8,9 @@
 # Variables:
 #   $addon-name (string) - Name of the add-on being reported
 abuse-report-dialog-title = Prijava za { $addon-name }
-abuse-report-title-extension = Prijavi ovaj dodatak prodavaču { -vendor-short-name }
-abuse-report-title-sitepermission = Prijavite dodatak s dozvolama stranice prema { -vendor-short-name }
-abuse-report-title-theme = Prijavi ovu temu prodavaču { -vendor-short-name }
+abuse-report-title-extension = Prijavi ovaj dodatak proizvođaču { -vendor-short-name }
+abuse-report-title-sitepermission = Prijavi dodatak s dozvolama stranice proizvođaču { -vendor-short-name }
+abuse-report-title-theme = Prijavi ovu temu proizvođaču { -vendor-short-name }
 abuse-report-subtitle = Što je problem?
 # Variables:
 #   $author-name (string) - Name of the add-on author
@@ -22,7 +22,7 @@ abuse-report-submit-description = Opišite problem (opcionalno)
 abuse-report-textarea =
     .placeholder = Lakše nam je ispraviti pogrešku ukoliko znamo detalje problema. Opiši događaj. Hvala, što nam pomažeš održati web zdravim.
 abuse-report-submit-note =
-    Napomena: Nemojte unositi osobne podatke (kao što su ime, adresa e-pošte, broj telefona, adresa).
+    Napomena: Nemoj unositi osobne podatke (kao što su ime, e-mail adresa, broj telefona, adresa).
     { -vendor-short-name } trajno čuva zapise ovih izvještaja.
 
 ## Panel buttons.

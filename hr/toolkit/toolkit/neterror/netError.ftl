@@ -35,7 +35,7 @@ neterror-disable-native-feedback-warning = Uvijek nastavi
 ##
 
 neterror-pref-reset = Izgleda da tvoje postavke sigurnosti mreže možda ovo uzrokuju. Želiš li obnoviti standardne postavke?
-neterror-error-reporting-automatic = Prijavi greške poput ove i pomogni { -vendor-short-name } identificirati i blokirati zlonamjerne stranice
+neterror-error-reporting-automatic = Prijavi greške poput ove i pomogni da { -vendor-short-name } identificira i blokira zlonamjerne stranice
 
 ## Specific error messages
 
