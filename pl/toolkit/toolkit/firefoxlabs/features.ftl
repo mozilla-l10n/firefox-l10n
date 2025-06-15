@@ -36,3 +36,18 @@ experimental-features-custom-wallpaper-description = Umożliwia ustawienie włas
 # Link Previews with AI
 experimental-features-link-previews =
     .label = Podgląd odnośników
+experimental-features-link-previews-description =
+    { PLATFORM() ->
+        [macos] Aby dowiedzieć się więcej o stronie internetowej przed kliknięciem, najedź na odnośnik i naciśnij klawisze Shift (⇧) plus Option (⌥) lub Alt. Podgląd może zawierać takie informacje, jak tytuł i czas potrzebny do przeczytania. Na niektórych stronach sztuczna inteligencja może także przeanalizować jej tekst i wygenerować kluczowe punkty. Sztuczna inteligencja jest zoptymalizowana do analizowania i generowania tekstu po angielsku. Aby zapewnić Ci prywatność, sztuczna inteligencja działa lokalnie na Twoim komputerze. <a data-l10n-name="connect">Podziel się opinią</a>
+       *[other] Aby dowiedzieć się więcej o stronie internetowej przed kliknięciem, najedź na odnośnik i naciśnij klawisze Shift + Alt. Podgląd może zawierać takie informacje, jak tytuł i czas potrzebny do przeczytania. Na niektórych stronach sztuczna inteligencja może także przeanalizować jej tekst i wygenerować kluczowe punkty. Sztuczna inteligencja jest zoptymalizowana do analizowania i generowania tekstu po angielsku. Aby zapewnić Ci prywatność, sztuczna inteligencja działa lokalnie na Twoim komputerze. <a data-l10n-name="connect">Podziel się opinią</a>
+    }
+# This version of the link previews description does not mention AI.
+experimental-features-link-previews-description-no-ai =
+    { PLATFORM() ->
+        [macos] Aby dowiedzieć się więcej o stronie internetowej przed kliknięciem, najedź na odnośnik i naciśnij klawisze Shift (⇧) plus Option (⌥) lub Alt. Podgląd może zawierać takie informacje, jak tytuł i czas potrzebny do przeczytania. <a data-l10n-name="connect">Podziel się opinią</a>
+       *[other] Aby dowiedzieć się więcej o stronie internetowej przed kliknięciem, najedź na odnośnik i naciśnij klawisze Shift + Alt. Podgląd może zawierać takie informacje, jak tytuł i czas potrzebny do przeczytania. <a data-l10n-name="connect">Podziel się opinią</a>
+    }
+# New Tab Sections with follow and block
+experimental-features-newtab-sections-follow-block =
+    .label = Sekcje tematyczne i obserwowanie/blokowanie artykułów na stronie nowej karty
+experimental-features-newtab-sections-follow-block-description = Organizuj artykuły na stronie nowej karty w sekcjach tematycznych (sport, jedzenie, rozrywka i nie tylko), aby zachować porządek i łatwiej je przeglądać. Korzystaj z nowych przycisków „Obserwuj” i „Zablokuj”, aby dostosować wyświetlane treści. <a data-l10n-name="connect">Podziel się opinią</a>
