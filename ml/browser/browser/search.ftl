@@ -75,3 +75,15 @@ add-engine-no-url = ദയവായി ഒരു യുആര്‍എല്‍ 
 
 ## The following strings are used as labels for the dialog's buttons.
 
+# buttonlabelextra1 is the label of a button to open the advanced section
+# of the dialog.
+add-engine-dialog2 =
+    .buttonlabelaccept = തിരയൽയന്ത്രം ചേൎക്കുക
+    .buttonaccesskeyaccept = ത
+    .buttonlabelextra1 = കൂടുതൽ
+# buttonlabelextra1 is the label of a button to open the advanced section
+# of the dialog.
+edit-engine-dialog =
+    .buttonlabelaccept = തിരയൽയന്ത്രം കരുതിവയ്ക്കുക
+    .buttonaccesskeyaccept = ക
+    .buttonlabelextra1 = കൂടുതൽ

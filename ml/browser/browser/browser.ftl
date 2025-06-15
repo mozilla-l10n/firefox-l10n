@@ -457,6 +457,7 @@ identity-https-only-dropdown-off =
     .label = അണച്ചതു്
 identity-https-only-dropdown-off-temporarily =
     .label = തല്ക്കാലം അണച്ചിരിക്കുന്നു
+identity-permissions-storage-access-header = വെബ്ബിടക്കുറുകെ കുക്കികൾ
 identity-permissions-storage-access-learn-more = കൂടുതല്‍ അറിയുക
 identity-permissions-reload-hint = മാറ്റങ്ങൾ പ്രയോഗത്തിൽ വരുവാൻ പേജ് വീണ്ടും ലോഡുചെയ്യേണ്ടി വന്നേക്കാം.
 identity-clear-site-data =
