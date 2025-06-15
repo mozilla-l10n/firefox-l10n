@@ -54,8 +54,16 @@ install-search-engine-no = Ne
 add-engine-window =
     .title = Aldoni serĉilon
     .style = min-width: 32em;
+edit-engine-window =
+    .title = Modifi serĉilon
+    .style = min-width: 32em;
 add-engine-button = Aldoni personecigitan serĉilon
 add-engine-name = Nomo de serĉilo
+add-engine-url2 = Retadreso kun %s anstataŭ serĉa teksto
+add-engine-keyword2 = Ŝlosilvorto (nedeviga)
+# POST and GET refer to the HTTP methods.
+add-engine-post-data = Datumoj POST kun %s anstataŭ serĉa teksto (lasi malplena por GET)
+add-engine-suggest-url = Retadreso de sugestoj kun %s anstataŭ serĉa teksto (nedeviga)
 add-engine-keyword = Ŝlosilvorto
 add-engine-url = Retadreso de serĉilo, uzu %s anstataŭ la serĉan tekston
 add-engine-dialog =
@@ -66,9 +74,37 @@ engine-keyword-exists = Jam ekzistas serĉilo kun tiu ŝlosilvorto
 
 ## The following placeholders are shown in the inputs when adding a new engine.
 
+add-engine-name-placeholder =
+    .placeholder = ekzemple, Mozilla Developer Network
+add-engine-url-placeholder =
+    .placeholder = ekzemple, https://developer.mozilla.com/search?q=%s
+add-engine-keyword-placeholder =
+    .placeholder = ekzemple, @mdn
 
 ## The following strings are used as error messages.
 
+add-engine-keyword-exists = Tiu ŝlosilvorto jam estas uzata. Provu alian.
+add-engine-name-exists = Tiu nomo jam estas uzata. Bonvolu elekti alian.
+add-engine-no-name = Bonvolu aldoni nomon.
+add-engine-no-url = Bonvolu tajpi retadreson.
+add-engine-invalid-url = Tiu retadreso ne aspektas ĝuste. Bonvolu kontroli ĝin kaj provu denove.
+add-engine-invalid-protocol = Tiu retadreso ne aspektas ĝuste. Uzu retadreson kiu komenciĝas per http aŭ https.
+# This error is shown when the user typed URL is missing %s.
+add-engine-missing-terms-url = Provu aldoni %s anstataŭ la serĉan tekston.
+# This error is shown when the user typed post data is missing %s.
+add-engine-missing-terms-post-data = Provu aldoni %s anstataŭ la serĉan tekston.
 
 ## The following strings are used as labels for the dialog's buttons.
 
+# buttonlabelextra1 is the label of a button to open the advanced section
+# of the dialog.
+add-engine-dialog2 =
+    .buttonlabelaccept = Aldoni serĉilon
+    .buttonaccesskeyaccept = A
+    .buttonlabelextra1 = Spertula
+# buttonlabelextra1 is the label of a button to open the advanced section
+# of the dialog.
+edit-engine-dialog =
+    .buttonlabelaccept = Konservi serĉilon
+    .buttonaccesskeyaccept = K
+    .buttonlabelextra1 = Spertula
