@@ -505,6 +505,9 @@ shortcuts-heading = Кіраваць спалучэннямі клавіш па�
 default-heading-search-label = Знайсці больш дадаткаў
 addons-heading-search-input =
     .placeholder = Пошук на addons.mozilla.org
+addons-heading-search-button =
+    .title = Пошук на addons.mozilla.org
+    .aria-label = Пошук па сайце addons.mozilla.org
 addon-page-options-button =
     .title = Прылады для ўсіх дадаткаў
 
@@ -570,6 +573,11 @@ addon-permissions-required-data-collection = Неабходны збор дад�
 addon-permissions-optional-data-collection = Неабавязковы збор дадзеных:
 # Name of the Permissions tab in `about:addons` when the data collection feature is enabled.
 permissions-data-addon-button = Дазволы і дадзеныя
+# This is a description for extension that use this AI model
+# Variables:
+#   $extensionName (String) - Name of the extension
+mlmodel-extension-label = Выкарыстоўваецца пашырэннем { $extensionName }
 
 ## Mapping Engine IDs from AI models to how that feature represented by the engine Id is described in the used by section in local model management
 
+mlmodel-about-inference = { -brand-short-name } выкарыстоўвае гэта на about:inference

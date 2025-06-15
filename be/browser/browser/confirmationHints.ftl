@@ -30,3 +30,5 @@ confirmation-hint-duplicate-tabs-closed =
         [few] Закрыты { $tabCount } карткі
        *[many] Закрыта { $tabCount } картак
     }
+# Subtle notification shown when Extensions button moves into the application menu.
+confirmation-hint-extensions-button-hidden = Перамешчана ў меню

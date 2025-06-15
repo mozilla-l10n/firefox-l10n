@@ -119,6 +119,9 @@ fp-learn-more-about-time-related-errors = Pli da informo pri solvo de problemoj 
 
 cert-error-revoked-certificate = { -brand-short-name } blokis vian viziton al tiu ĉi retejo ĉar la atestilo provizita por { $hostname } estis revokita kaj do ne plu fidinda.
 cert-error-bad-signature = { -brand-short-name } blokis vian viziton al tiu ĉi retejo ĉar la subskribo en la atestilo provizita por { $hostname } ne estas valida.
+cert-error-key-pinning-failure = { -brand-short-name } blokis vian viziton al tiu ĉi retejo ĉar la atestilo provizita por { $hostname } uzas publikan ŝlosilon, kiu ne kongruas kun la atendita.
+cert-error-bad-der = { -brand-short-name } blokis vian viziton al tiu ĉi retejo ĉar la atestilo provizita por { $hostname } ne estas korekte kodita.
+cert-error-cert-not-in-name-space = { -brand-short-name } blokis vian viziton al tiu ĉi retejo ĉar la atestilo provizita por { $hostname } ne plenumas la limigojn nomajn de la eldoninta atestilo.
 
 ## Messages used for certificate error titles
 
