@@ -50,3 +50,4 @@ experimental-features-link-previews-description-no-ai =
 # New Tab Sections with follow and block
 experimental-features-newtab-sections-follow-block =
     .label = Temaj sekcioj kaj agordoj por sekvi kaj bloki artikolojn en novaj langetoj
+experimental-features-newtab-sections-follow-block-description = Organizu viajn artikolojn en viaj novaj langetoj, laŭ temaj sekcioj (sportoj, manĝaĵo, distro kaj pli) por havi pli strukturitan kaj facilan sperton dum vi tralegas. Uzu niajn novajn regilojn Sekvi kaj Bloki por personecigi la enhavon, kiun vi vidos. <a data-l10n-name="connect">Dividi komentojn</a>
