@@ -74,9 +74,37 @@ engine-keyword-exists = Рухавік з такім ключавым слов�
 
 ## The following placeholders are shown in the inputs when adding a new engine.
 
+add-engine-name-placeholder =
+    .placeholder = напр., Сетка распрацоўшчыкаў Mozilla
+add-engine-url-placeholder =
+    .placeholder = напр., https://developer.mozilla.com/search?q=%s
+add-engine-keyword-placeholder =
+    .placeholder = напр., @mdn
 
 ## The following strings are used as error messages.
 
+add-engine-keyword-exists = Гэта ключавое слова ўжо ўжываецца. Паспрабуйце іншае.
+add-engine-name-exists = Гэта назва ўжо выкарыстоўваецца. Калі ласка, выберыце іншую.
+add-engine-no-name = Калі ласка, дадайце назву.
+add-engine-no-url = Увядзіце, калі ласка, URL.
+add-engine-invalid-url = Гэты URL-адрас выглядае няправільным. Праверце яго і паспрабуйце яшчэ раз.
+add-engine-invalid-protocol = Гэты URL выглядае няправільным. Выкарыстайце URL, які пачынаецца з http або https.
+# This error is shown when the user typed URL is missing %s.
+add-engine-missing-terms-url = Паспрабуйце замест пошукавага тэрміна ўключыць %s.
+# This error is shown when the user typed post data is missing %s.
+add-engine-missing-terms-post-data = Паспрабуйце замест пошукавага тэрміна ўключыць %s.
 
 ## The following strings are used as labels for the dialog's buttons.
 
+# buttonlabelextra1 is the label of a button to open the advanced section
+# of the dialog.
+add-engine-dialog2 =
+    .buttonlabelaccept = Дадаць сістэму
+    .buttonaccesskeyaccept = Д
+    .buttonlabelextra1 = Адмыслова
+# buttonlabelextra1 is the label of a button to open the advanced section
+# of the dialog.
+edit-engine-dialog =
+    .buttonlabelaccept = Захаваць сістэму
+    .buttonaccesskeyaccept = З
+    .buttonlabelextra1 = Адмыслова
