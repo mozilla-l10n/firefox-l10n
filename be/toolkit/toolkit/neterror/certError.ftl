@@ -119,6 +119,12 @@ fp-learn-more-about-time-related-errors = Падрабязней пра выра
 
 cert-error-revoked-certificate = { -brand-short-name } заблакаваў наведванне гэтага сайта, бо сертыфікат, прадстаўлены для { $hostname }, быў адкліканы і больш не з'яўляецца давераным.
 cert-error-bad-signature = { -brand-short-name } заблакаваў наведванне гэтага сайта, таму што подпіс на сертыфікаце, прадстаўленым для { $hostname }, несапраўдны.
+cert-error-key-pinning-failure = { -brand-short-name } заблакаваў наведванне гэтага сайта, таму што сертыфікат, прадстаўлены для { $hostname }, выкарыстоўвае іншы адкрыты ключ, чым чакалася.
+cert-error-bad-der = { -brand-short-name } заблакаваў наведванне гэтага сайта, таму што сертыфікат, прадстаўлены для { $hostname }, не закадаваны належным чынам.
+cert-error-cert-not-in-name-space = { -brand-short-name } заблакаваў наведванне гэтага сайт, таму што сертыфікат, прадстаўлены для { $hostname }, не адпавядае абмежаванням назвы ад сертыфіката, які яго выдаў.
+cert-error-inadequate-cert-type = { -brand-short-name } заблакаваў наведванне гэтага сайта, бо сертыфікат, прадстаўлены для { $hostname }, не дазволены для выкарыстання вэб-серверам.
+cert-error-path-len-constraint-invalid = { -brand-short-name } заблакаваў наведванне гэтага сайта, таму што сертыфікат, прадстаўлены для { $hostname }, мае занадта шмат прамежкавых сертыфікатаў на шляху да каранёвага сертыфіката.
+cert-error-invalid-key = { -brand-short-name } заблакаваў наведванне гэтага сайта, таму што сертыфікат, прадстаўлены для { $hostname }, мае нядзейсны ключ. Хутчэй за ўсё, ён занадта малы, каб быць бяспечным.
 
 ## Messages used for certificate error titles
 
