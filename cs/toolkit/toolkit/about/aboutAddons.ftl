@@ -560,6 +560,9 @@ shortcuts-heading = Správa klávesových zkratek pro rozšíření
 default-heading-search-label = Najít další doplňky
 addons-heading-search-input =
     .placeholder = Vyhledat na addons.mozilla.org
+addons-heading-search-button =
+    .title = Hledat na addons.mozilla.org
+    .aria-label = Hledat na addons.mozilla.org
 addon-page-options-button =
     .title = Nástroje doplňků
 
