@@ -68,6 +68,7 @@ sslv3Used-title = സുരക്ഷിതമായി കണക്ട് ചെ
 inadequateSecurityError-title = താങ്കളുടെ കണക്ഷന്‍ സുരക്ഷിതമല്ല
 blockedByPolicy-title = തടഞ്ഞ താൾ
 clockSkewError-title = താങ്ങളുടെ ഗണനികത്തിലുള്ള മണിയിൽ തെറ്റുണ്ടു്.
+networkProtocolError-title = ശൃംഖല പെരുമാറ്റച്ചട്ടപ്പിഴവു്
 
 ## Felt Privacy V1 Strings
 

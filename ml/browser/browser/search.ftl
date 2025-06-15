@@ -36,6 +36,7 @@ remove-search-engine-button = ശരി
 ## Variables
 ## $newEngine (String) - the name of the new default search engine.
 
+reset-search-settings-button = ശരി
 
 ## Infobar shown when user is prompted to install search engine.
 ## Variables
@@ -52,6 +53,7 @@ add-engine-window =
     .style = min-width: 32em;
 add-engine-button = ഇഷ്‌ടാനുസൃത തിരയൽ യന്ത്രം ചേൎക്കുക
 add-engine-name = തിരയൽ യന്ത്രത്തിന്റെ പേരു്
+add-engine-keyword2 = പെരുമുരി (വേണമെങ്കിലിടാം)
 add-engine-keyword = പെരുമുരി
 add-engine-url = തിരച്ചിൽ യന്ത്ര URL, തിരയൽ പദത്തിന് പകരം %s ഉപയോഗിക്കുക
 add-engine-dialog =
@@ -62,9 +64,14 @@ engine-keyword-exists = ആ പെരുമുരിയുള്ള ഒരു �
 
 ## The following placeholders are shown in the inputs when adding a new engine.
 
+add-engine-keyword-placeholder =
+    .placeholder = ഉദാ. @mdn
 
 ## The following strings are used as error messages.
 
+add-engine-keyword-exists = ആ പെരുമുരി മുമ്പേതന്നെ ഉപയോഗിച്ചുകൊണ്ടിരിക്കുന്നു. മറ്റൊരെണ്ണമിട്ടുന്നോക്കുക.
+add-engine-no-name = ദയവായിയൊരു പേരു് ചേൎക്കുക
+add-engine-no-url = ദയവായി ഒരു യുആര്‍എല്‍ നല്‍കുക.
 
 ## The following strings are used as labels for the dialog's buttons.
 
