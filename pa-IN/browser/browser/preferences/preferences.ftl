@@ -647,6 +647,12 @@ home-prefs-weather-header =
     .label = ਮੌਸਮ
 home-prefs-weather-description = ਅੱਜ ਦੀ ਭਵਿੱਖਬਾਣੀ ਲਈ ਨਜ਼ਰਸਾਨੀ
 home-prefs-weather-learn-more-link = ਹੋਰ ਜਾਣੋ
+home-prefs-trending-search-header =
+    .label = ਰੁਝਾਨ ਵਿੱਚ ਖੋਜਾਂ
+home-prefs-trending-search-description = ਹਰਮਨਪਿਆਰੇ ਅਤੇ ਅਕਸਰ ਖੋਜੇ ਗਏ ਵਿਸ਼ੇ
+# "Support" here means to help sustain or contribute to something, especially through funding or sponsorship.
+home-prefs-support-firefox-header =
+    .label = { -brand-product-name } ਲਈ ਸਹਿਯੋਗ
 home-prefs-mission-message-learn-more-link = ਸਮਝੋ ਕਿ ਕਿਵੇਂ
 # Variables:
 #   $num (number) - Number of rows displayed
@@ -716,6 +722,9 @@ search-remove-engine =
 search-add-engine =
     .label = ਜੋੜੋ
     .accesskey = A
+search-edit-engine =
+    .label = ਸੋਧੋ
+    .accesskey = E
 search-find-more-link = ਹੋਰ ਖੋਜ ਇੰਜਣ ਲੱਭੋ
 # This warning is displayed when the chosen keyword is already in use
 # ('Duplicate' is an adjective)
@@ -724,6 +733,9 @@ search-keyword-warning-title = ਡੁਪਲੀਕੇਟ ਸ਼ਬਦ
 #   $name (string) - Name of a search engine.
 search-keyword-warning-engine = ਤੁਸੀਂ ਸ਼ਬਦ ਨੂੰ ਚੁਣਿਆ ਹੈ, ਜੋ ਕਿ ਇਸ ਸਮੇਂ "{ $name }" ਵਰਤੋਂ ਵਰਤਿਆ ਜਾ ਰਿਹਾ ਹੈ। ਹੋਰ ਨੂੰ ਚੁਣੋ ਜੀ।
 search-keyword-warning-bookmark = ਤੁਸੀਂ ਸ਼ਬਦ ਨੂੰ ਚੁਣਿਆ ਹੈ, ਜੋ ਕਿ ਇਸ ਸਮੇਂ ਬੁੱਕਮਾਰਕ ਵਰਤੋਂ ਲਈ ਵਰਤਿਆ ਜਾ ਰਿਹਾ ਹੈ। ਹੋਰ ਨੂੰ ਚੁਣੋ ਜੀ।
+remove-engine-confirmation = ਕੀ ਤੁਸੀਂ ਇਸ ਖੋਜ ਇੰਜਣ ਨੂੰ ਹਟਾਉਣਾ ਚਾਹੁੰਦੇ ਹੋ?
+remove-engine-remove = ਹਟਾਓ
+remove-addon-engine-alert = ਇਸ ਖੋਜ ਇੰਜਣ ਨੂੰ ਹਟਾਉਣ ਲਈ, ਸੰਬੰਧਿਤ ਐਡ-ਆਨ ਨੂੰ ਹਟਾਓ।
 
 ## Containers Section
 

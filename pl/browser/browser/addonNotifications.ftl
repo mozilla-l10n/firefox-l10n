@@ -81,6 +81,8 @@ addon-removal-title = Czy usunąć „{ $name }”?
 addon-removal-message = Czy usunąć rozszerzenie „{ $name }” z { -brand-shorter-name(case: "gen") }?
 addon-removal-button = Usuń
 addon-removal-abuse-report-checkbox = Zgłoś to rozszerzenie do { -vendor-short-name(case: "gen") }
+# "it" refers to the local AI model that is paired to the AI feature
+addon-mlmodel-removal-body = Jeśli korzystasz z funkcji lub rozszerzeń wykorzystujących ten model, zostanie on dodany ponownie.
 # Variables:
 #   $addonCount (Number): the number of add-ons being downloaded
 addon-downloading-and-verifying =
