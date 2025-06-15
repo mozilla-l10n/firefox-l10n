@@ -107,3 +107,11 @@ storage-idb-delete-blocked = Il database “{ $dbName }” verrà eliminato dopo
 # Variables:
 #   $dbName (String) - Name of the database
 storage-idb-delete-error = Impossibile eliminare il database “{ $dbName }”
+# Error notification when cookie could not be created (e.g. because it's invalid).
+# Variables:
+#   $errorString (String) - Platform error message
+storage-cookie-create-error = Impossibile creare il cookie: “{ $errorString }”.
+# Error notification when cookie could not be edited (e.g. because it's invalid).
+# Variables:
+#   $errorString (String) - Platform error message
+storage-cookie-edit-error = Impossibile aggiornare il cookie: “{ $errorString }”.
