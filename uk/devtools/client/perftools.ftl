@@ -142,20 +142,20 @@ perftools-onboarding-close-button =
 # The same labels and descriptions are also defined in appmenu.ftl.
 
 perftools-presets-web-developer-label = Веброзробник
-perftools-presets-web-developer-description = Рекомендовані налаштування для налагодження більшості вебпрограм. З низьким споживанням ресурсів.
+perftools-presets-web-developer-description = Рекомендовані задані параметри з низьким споживанням ресурсів для налагодження більшості вебпрограм.
 perftools-presets-firefox-label = { -brand-shorter-name }
-perftools-presets-firefox-description = Рекомендовані налаштування для профілювання { -brand-shorter-name }.
+perftools-presets-firefox-description = Рекомендовані задані параметри для профілювання { -brand-shorter-name }.
 perftools-presets-graphics-label = Графіка
-perftools-presets-graphics-description = Налаштування для виявлення помилок графіки в { -brand-shorter-name }.
+perftools-presets-graphics-description = Задані параметри для виявлення помилок графіки в { -brand-shorter-name }.
 perftools-presets-media-label = Медіа
-perftools-presets-media-description2 = Налаштування для виявлення помилок аудіо та відео в { -brand-shorter-name }.
+perftools-presets-media-description2 = Задані параметри для виявлення помилок аудіо та відео в { -brand-shorter-name }.
 perftools-presets-networking-label = Мережа
-perftools-presets-networking-description = Налаштування для виявлення помилок мережі в { -brand-shorter-name }.
+perftools-presets-networking-description = Задані параметри для виявлення помилок мережі в { -brand-shorter-name }.
 # "Power" is used in the sense of energy (electricity used by the computer).
 perftools-presets-power-label = Потужність
-perftools-presets-power-description = Налаштування для виявлення помилок використання потужності { -brand-shorter-name } із низьким накладанням.
+perftools-presets-power-description = Задані параметри з низьким споживанням ресурсів для виявлення помилок використання потужності { -brand-shorter-name }.
 perftools-presets-debug-label = Налагодження
-perftools-presets-debug-description = Типові задані параметри для налагодження у { -brand-shorter-name }. Високе споживання ресурсів. Не використовуйте для високопродуктивних завдань, а щоб зрозуміти поведінку браузера.
+perftools-presets-debug-description = Задані параметри для налагодження у { -brand-shorter-name }. Високе споживання ресурсів. Не використовуйте для високопродуктивних завдань, а щоб зрозуміти поведінку браузера.
 perftools-presets-custom-label = Власні
 
 ##

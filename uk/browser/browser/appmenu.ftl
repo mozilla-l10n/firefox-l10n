@@ -184,26 +184,26 @@ profiler-popup-capture-shortcut =
 # devtools/client/performance-new/shared/background.sys.mjs
 # Please take care that the same values are also defined in devtools' perftools.ftl.
 
-profiler-popup-presets-web-developer-description = Рекомендовані налаштування для налагодження більшості вебпрограм. З низьким споживанням ресурсів.
+profiler-popup-presets-web-developer-description = Рекомендовані задані параметри з низьким споживанням ресурсів для налагодження більшості вебпрограм.
 profiler-popup-presets-web-developer-label =
     .label = Веброзробник
-profiler-popup-presets-firefox-description = Рекомендовані налаштування для профілювання { -brand-shorter-name }.
+profiler-popup-presets-firefox-description = Рекомендовані задані параметри для профілювання { -brand-shorter-name }.
 profiler-popup-presets-firefox-label =
     .label = { -brand-shorter-name }
-profiler-popup-presets-graphics-description = Налаштування для виявлення помилок графіки в { -brand-shorter-name }.
+profiler-popup-presets-graphics-description = Задані параметри для виявлення помилок графіки в { -brand-shorter-name }.
 profiler-popup-presets-graphics-label =
     .label = Графіка
-profiler-popup-presets-media-description2 = Налаштування для виявлення помилок аудіо та відео в { -brand-shorter-name }.
+profiler-popup-presets-media-description2 = Задані параметри для виявлення помилок аудіо та відео в { -brand-shorter-name }.
 profiler-popup-presets-media-label =
     .label = Медіа
-profiler-popup-presets-networking-description = Налаштування для виявлення помилок мережі в { -brand-shorter-name }.
+profiler-popup-presets-networking-description = Задані параметри для виявлення помилок мережі в { -brand-shorter-name }.
 profiler-popup-presets-networking-label =
     .label = Мережа
-profiler-popup-presets-power-description = Налаштування для виявлення помилок використання потужності { -brand-shorter-name } із низьким накладанням.
+profiler-popup-presets-power-description = Задані параметри з низьким споживанням ресурсів для виявлення помилок використання потужності { -brand-shorter-name }.
 # "Power" is used in the sense of energy (electricity used by the computer).
 profiler-popup-presets-power-label =
     .label = Потужність
-profiler-popup-presets-debug-description = Типові задані параметри для налагодження у { -brand-shorter-name }. Високе споживання ресурсів. Не використовуйте для високопродуктивних завдань, а щоб зрозуміти поведінку браузера.
+profiler-popup-presets-debug-description = Задані параметри для налагодження у { -brand-shorter-name }. Високе споживання ресурсів. Не використовуйте для високопродуктивних завдань, а щоб зрозуміти поведінку браузера.
 profiler-popup-presets-debug-label =
     .label = Налагодження
 profiler-popup-presets-custom-label =

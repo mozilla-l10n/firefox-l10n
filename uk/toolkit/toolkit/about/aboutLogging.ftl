@@ -25,7 +25,7 @@ about-logging-logging-to-file = Запис у файл
 about-logging-logging-to-profiler = Запис до { -profiler-brand-name }
 about-logging-no-log-modules = Немає
 about-logging-no-log-file = Немає
-about-logging-logging-preset-selector-text = Попереднє налаштування журналювання:
+about-logging-logging-preset-selector-text = Заданий параметр журналювання:
 about-logging-with-profiler-stacks-checkbox = Увімкнути трасування стека для повідомлень журналу
 
 ## Logging presets
@@ -61,8 +61,8 @@ about-logging-error = Помилка:
 ##
 
 about-logging-invalid-output = Недійсне значення “{ $v }“ для ключа “{ $k }“
-about-logging-unknown-logging-preset = Невідоме попереднє налаштування журналювання “{ $v }“
-about-logging-unknown-profiler-preset = Невідоме попереднє налаштування профайлера “{ $v }“
+about-logging-unknown-logging-preset = Невідомий заданий параметр журналювання “{ $v }“
+about-logging-unknown-profiler-preset = Невідомий заданий параметр профілювання “{ $v }“
 about-logging-unknown-option = Невідомий параметр about:logging “{ $k }“
 about-logging-configuration-url-ignored = URL конфігурації проігноровано
 about-logging-file-and-profiler-override = Не можна примусово виводити файл і одночасно перевизначати параметри профайлера
