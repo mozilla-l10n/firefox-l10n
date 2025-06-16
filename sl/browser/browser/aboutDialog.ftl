@@ -16,7 +16,7 @@ update-checkingForUpdates = Preverjanje posodobitev …
 ## Variables:
 ##   $transfer (string) - Transfer progress.
 
-settings-update-downloading = <img data-l10n-name="icon"/>Prenašanje posodobitev — <label data-l10n-name="download-status">{ $transfer }</label>
+settings-update-downloading = <img data-l10n-name="icon"/>Prenašanje posodobitve – <label data-l10n-name="download-status">{ $transfer }</label>
 aboutdialog-update-downloading = Prenašanje posodobitve – <label data-l10n-name="download-status">{ $transfer }</label>
 
 ##

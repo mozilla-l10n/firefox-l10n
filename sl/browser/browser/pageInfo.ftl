@@ -242,4 +242,4 @@ media-block-image =
 page-info-page =
     .title = Podatki o strani – { $website }
 page-info-frame =
-    .title = Podatki o okvirju: { $website }
+    .title = Podatki o okvirju – { $website }
