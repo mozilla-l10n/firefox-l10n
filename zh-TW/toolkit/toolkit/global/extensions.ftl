@@ -23,7 +23,7 @@ webext-perms-list-intro-unsigned = 這套擴充套件未經驗證，可能會導
 ## Headers used in the webextension permissions dialog, inside the content.
 
 webext-perms-header-required-perms = 必要權限：
-webext-perms-header-optional-settings = 選用權限：
+webext-perms-header-optional-settings = 選用設定：
 webext-perms-header-update-required-perms = 新增的必要權限：
 webext-perms-header-optional-required-perms = 新增的權限：
 webext-perms-header-data-collection-perms = 必需收集的資料：
