@@ -12,7 +12,7 @@ callout-primary-complete-button-label = فهمت!
 # "Tab pickup" refers to the section in Firefox View that displays open
 # tabs from other devices
 callout-firefox-view-tab-pickup-title = انتقل بين الأجهزة مع خاصية التقاط الألسنة
-callout-firefox-view-tab-pickup-subtitle = التقط علامات التبويب المفتوحة بسرعة من هاتفك وافتحها هنا لتحقيق أقصى قدر من التدفق.
+callout-firefox-view-tab-pickup-subtitle = التقط الألسنة المفتوحة بسرعة من هاتفك وافتحها هنا لتحقيق أقصى قدر من التدفق.
 callout-firefox-view-recently-closed-title = أعد الألسنة المغلقة في لمح البصر
 callout-firefox-view-recently-closed-subtitle = ستظهر هنا جميع الألسنة المغلقة بطريقة سحريَّة. لا تقلق أبدًا بشأن إغلاق الموقع عن طريق الخطأ مرة أخرى.
 callout-firefox-view-colorways-title = أضِف دفقة من لون
@@ -46,7 +46,7 @@ callout-pdfjs-draw-button = فهمت!
 
 ## Firefox View Discoverability Strings
 
-fx-view-discoverability-title = ألم تقصد إغلاق علامة التبويب هذه؟
+fx-view-discoverability-title = ألم تقصد إغلاق اللسان هذا؟
 fx-view-discoverability-subtitle = اعثر عليها وافتحها بسرعة هنا، نحتفظ لك بسجل للألسنة المغلقة مؤخرًا.
 fx-view-discoverability-primary-button-label = افتح { -firefoxview-brand-name }
 fx-view-discoverability-secondary-button-label = أهمِل

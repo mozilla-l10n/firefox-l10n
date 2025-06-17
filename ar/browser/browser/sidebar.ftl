@@ -39,7 +39,7 @@ sidebar-customize-firefox-tools-header =
     .label = أدوات { -brand-product-name }
 sidebar-customize-firefox-settings = إدارة إعدادات { -brand-short-name }
 sidebar-vertical-tabs =
-    .label = علامات التبويب العمودية
+    .label = ألسنة العمودية
 
 ## Labels for sidebar context menu items
 
@@ -60,7 +60,7 @@ sidebar-context-menu-copy-link =
 # Variables:
 #   $deviceName (String) - The name of the device the user is closing a tab for
 sidebar-context-menu-close-remote-tab =
-    .label = أغلق علامة التبويب على { $deviceName }
+    .label = أغلق اللسان على { $deviceName }
 
 ## Labels for sidebar history context menu items
 
@@ -70,7 +70,7 @@ sidebar-context-menu-close-remote-tab =
 sidebar-menu-history-label =
     .label = التأريخ
 sidebar-menu-synced-tabs-label =
-    .label = علامات التبويب من أجهزة أخرى
+    .label = ألسنة من أجهزة أخرى
 sidebar-menu-bookmarks-label =
     .label = العلامات
 sidebar-menu-customize-label =
@@ -110,7 +110,7 @@ sidebar-menu-customize-header =
 sidebar-menu-history-header =
     .heading = تاريخ
 sidebar-menu-syncedtabs-header =
-    .heading = علامات التبويب من أجهزة أخرى
+    .heading = ألسنة من أجهزة أخرى
 sidebar-panel-header-close-button =
     .tooltiptext = أغلق
 
@@ -118,7 +118,7 @@ sidebar-panel-header-close-button =
 
 sidebar-customize-title = تخصيص الشريط الجانبي
 sidebar-history-title = تاريخ
-sidebar-syncedtabs-title = علامات التبويب من أجهزة أخرى
+sidebar-syncedtabs-title = ألسنة من أجهزة أخرى
 
 ## Context for closing synced tabs when hovering over the items
 
@@ -127,7 +127,7 @@ sidebar-syncedtabs-title = علامات التبويب من أجهزة أخرى
 # Variables:
 #   $deviceName (String) - the name of the device the user is closing a tab for
 synced-tabs-context-close-tab-title =
-    .title = أغلق علامة التبويب على { $deviceName }
+    .title = أغلق اللسان على { $deviceName }
 show-sidebars =
     .tooltiptext = أظهر الأشرطة الجانبية
     .label = الأشرطة الجانبية

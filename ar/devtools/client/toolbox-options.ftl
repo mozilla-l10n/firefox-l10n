@@ -74,7 +74,7 @@ options-sourceeditor-autoclosebrackets-label = أغلِق الأقواس تلق�
 options-sourceeditor-expandtab-tooltip =
     .title = استخدم المسافات بدل محرف الجدولة
 options-sourceeditor-expandtab-label = أزِح مستخدما المسافات
-options-sourceeditor-tabsize-label = حجم التبويب
+options-sourceeditor-tabsize-label = حجم اللسان
 options-sourceeditor-keybinding-label = ربطات المفاتيح
 options-sourceeditor-keybinding-default-label = المبدئي
 
