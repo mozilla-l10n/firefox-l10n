@@ -51,3 +51,4 @@ crashreporter-error-no-home-dir = Відсутній домашній катал
 # $to (String) - the destination path
 crashreporter-error-moving-path = Не вдалося перемістити { $from } до { $to }
 crashreporter-error-version-eol = Версія більше не підтримується: звіти про збої для цієї версії не приймаються.
+crashreporter-error-failed-to-generate-minidump = Програмі не вдалося згенерувати інформацію про збій.

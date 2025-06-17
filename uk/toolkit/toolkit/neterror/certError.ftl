@@ -117,6 +117,22 @@ fp-learn-more-about-time-related-errors = Докладніше про усуне
 ## Variables:
 ##   $hostname (string) - Hostname of the website with cert error.
 
+cert-error-revoked-certificate = { -brand-short-name } заблокував відвідування цього сайту, оскільки сертифікат, наданий для { $hostname }, було відкликано, і він більше не є довіреним.
+cert-error-bad-signature = { -brand-short-name } заблокував відвідування цього сайту, оскільки підпис на сертифікаті, наданому для { $hostname }, недійсний.
+cert-error-key-pinning-failure = { -brand-short-name } заблокував відвідування цього сайту, оскільки сертифікат, наданий для { $hostname }, використовує інший відкритий ключ, ніж очікувалося.
+cert-error-bad-der = { -brand-short-name } заблокував відвідування цього сайту, оскільки сертифікат, наданий для { $hostname }, не закодовано належним чином.
+cert-error-cert-not-in-name-space = { -brand-short-name } заблокував відвідування цього сайту, оскільки сертифікат, наданий для { $hostname }, не відповідає обмеженням імені сертифіката, який його видав.
+cert-error-inadequate-cert-type = { -brand-short-name } заблокував відвідування цього сайту, оскільки сертифікат, наданий для { $hostname }, не дозволено використовувати вебсерверу.
+cert-error-path-len-constraint-invalid = { -brand-short-name } заблокував відвідування цього сайту, оскільки сертифікат, наданий для { $hostname }, містить забагато проміжних сертифікатів на шляху до кореневого сертифіката.
+cert-error-invalid-key = { -brand-short-name } заблокував відвідування цього сайту, оскільки сертифікат, наданий для { $hostname }, має недійсний ключ. Найімовірніше, він замалий, щоб бути безпечним.
+cert-error-unknown-critical-extension = { -brand-short-name } заблокував відвідування цього сайту, оскільки сертифікат, наданий для { $hostname }, містить непідтримуване критичне розширення.
+cert-error-extension-value-invalid = { -brand-short-name } заблокував відвідування цього сайту, оскільки сертифікат, наданий для { $hostname }, містить недійсне розширення.
+cert-error-untrusted-issuer = { -brand-short-name } заблокував відвідування цього сайту, оскільки сертифікат, наданий для { $hostname }, виданий центром сертифікації, який більше не вважається довіреним.
+cert-error-untrusted-cert = { -brand-short-name } заблокував відвідування цього сайту, оскільки сертифікат, наданий для { $hostname }, позначено як недовірений.
+cert-error-invalid-integer-encoding = { -brand-short-name } заблокував відвідування цього сайту, оскільки сертифікат, наданий для { $hostname }, містить недійсне кодування цілого числа. Зазвичай причинами цього є від'ємні значення серійних номерів, від'ємні значення RSA moduli, а також кодування, що є довшими, ніж необхідно.
+cert-error-unsupported-keyalg = { -brand-short-name } заблокував відвідування цього сайту, оскільки сертифікат, наданий для { $hostname }, має непідтримуваний тип ключа.
+cert-error-issuer-no-longer-trusted = { -brand-short-name } заблокував відвідування цього сайту, оскільки центр сертифікації, який видав сертифікат, наданий для { $hostname }, більше не вважається довіреним.
+cert-error-signature-algorithm-mismatch = { -brand-short-name } заблокував відвідування цього сайту, оскільки алгоритм підпису сертифіката, наданого для { $hostname }, не відповідає полю алгоритму підпису.
 
 ## Messages used for certificate error titles
 

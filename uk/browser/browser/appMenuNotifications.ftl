@@ -47,6 +47,9 @@ appmenu-addon-post-install-message3 = Керуйте своїми додатка
 # This string is used in the confirmation popup displayed after an extension
 # has been installed, when the data collection feature is enabled.
 appmenu-addon-post-install-message-with-data-collection = Оновлюйте дозволи та налаштування даних будь-коли в <a data-l10n-name="settings-link">налаштуваннях розширення</a>.
+appmenu-addon-post-install-pin-toolbarbutton-checkbox =
+    .label = Закріпити розширення на панелі інструментів
+    .accesskey = З
 appmenu-addon-post-install-incognito-checkbox =
     .label = Дозволити цьому розширенню виконуватися в приватних вікнах
     .accesskey = л

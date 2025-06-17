@@ -150,7 +150,7 @@ perftools-presets-graphics-description = Задані параметри для 
 perftools-presets-media-label = Медіа
 perftools-presets-media-description2 = Задані параметри для виявлення помилок аудіо та відео в { -brand-shorter-name }.
 perftools-presets-networking-label = Мережа
-perftools-presets-networking-description = Задані параметри для виявлення помилок мережі в { -brand-shorter-name }.
+perftools-presets-networking-description = Задані параметри для виявлення мережевих помилок у { -brand-shorter-name }.
 # "Power" is used in the sense of energy (electricity used by the computer).
 perftools-presets-power-label = Потужність
 perftools-presets-power-description = Задані параметри з низьким споживанням ресурсів для виявлення помилок використання потужності { -brand-shorter-name }.

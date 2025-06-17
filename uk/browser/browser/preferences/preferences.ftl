@@ -364,6 +364,9 @@ download-choose-folder =
 download-always-ask-where =
     .label = Завжди запитувати де зберегти файли
     .accesskey = ж
+download-private-browsing-delete =
+    .label = Видаляти файли, завантажені в режимі приватного перегляду, після закриття всіх приватних вікон
+    .accesskey = я
 applications-header = Програми
 applications-description = Оберіть, як { -brand-short-name } оброблятиме файли, які ви завантажуєте з Інтернету, або програми, якими ви користуєтесь під час перегляду.
 applications-filter =
@@ -654,6 +657,12 @@ home-prefs-weather-header =
     .label = Погода
 home-prefs-weather-description = Точний прогноз погоди на сьогодні
 home-prefs-weather-learn-more-link = Докладніше
+home-prefs-trending-search-header =
+    .label = Популярні пошукові запити
+home-prefs-trending-search-description = Популярні пошукові запити
+# "Support" here means to help sustain or contribute to something, especially through funding or sponsorship.
+home-prefs-support-firefox-header =
+    .label = Підтримка { -brand-product-name }
 home-prefs-mission-message = Наші спонсори підтримують нашу місію зі створення кращого інтернету
 home-prefs-mission-message-learn-more-link = Дізнайтеся як
 # Variables:
@@ -725,6 +734,9 @@ search-remove-engine =
 search-add-engine =
     .label = Додати
     .accesskey = т
+search-edit-engine =
+    .label = Редагувати
+    .accesskey = г
 search-find-more-link = Знайти інші пошукові системи
 # This warning is displayed when the chosen keyword is already in use
 # ('Duplicate' is an adjective)
@@ -733,6 +745,10 @@ search-keyword-warning-title = Ключове слово вже використ
 #   $name (string) - Name of a search engine.
 search-keyword-warning-engine = Ви вибрали ключове слово, яке вже використовується для “{ $name }”. Вкажіть інше.
 search-keyword-warning-bookmark = Ви вибрали ключове слово, яке вже використовується для закладки. Вкажіть інше.
+# This warning is displayed when the chosen name is already in use.
+# Variables:
+#   $name (string) - Name of a search engine.
+edit-engine-name-warning-duplicate = Вже є пошукова система з назвою "{ $name }". Вкажіть іншу назву.
 remove-engine-confirmation = Ви дійсно хочете вилучити цю пошукову систему?
 remove-engine-remove = Вилучити
 remove-addon-engine-alert = Щоб вилучити цю пошукову систему, видаліть пов'язаний з нею додаток.

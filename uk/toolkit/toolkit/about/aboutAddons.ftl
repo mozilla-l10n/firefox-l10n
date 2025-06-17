@@ -500,6 +500,9 @@ shortcuts-heading = Керувати комбінаціями клавіш ро�
 default-heading-search-label = Знайти більше додатків
 addons-heading-search-input =
     .placeholder = Пошук на addons.mozilla.org
+addons-heading-search-button =
+    .title = Пошук на addons.mozilla.org
+    .aria-label = Пошук на addons.mozilla.org
 addon-page-options-button =
     .title = Інструменти для всіх додатків
 
@@ -577,3 +580,21 @@ mlmodel-link-preview = { -brand-short-name } використовує це дл�
 mlmodel-pdfjs = { -brand-short-name } використовує це для створення альтернативного тексту зображень, які ви додаєте до PDF-файлів
 mlmodel-smart-tab-topic-engine = { -brand-short-name } використовує це, щоб пропонувати назви для ваших груп вкладок
 mlmodel-smart-tab-embedding-engine = { -brand-short-name } використовує це, щоб пропонувати вкладки для ваших груп вкладок
+# AI Model will be downloaded on the users device and used locally
+addon-category-mlmodel = ШІ на пристрої
+addon-category-mlmodel-title =
+    .title = ШІ на пристрої
+mlmodel-heading = Керування моделями ШІ на пристрої
+mlmodel-description = Деякі функції та розширення в { -brand-short-name } працюють на основі моделей штучного інтелекту, локально на вашому пристрої. Такий підхід захищає вашу приватність і в багатьох випадках вдосконалює продуктивність. <a data-l10n-name="learn-more">Докладніше</a>
+# Label for button that when clicked removed local model
+mlmodel-remove-addon-button =
+    .aria-label = Вилучити
+# Label for the aggregated value of all files for a model
+mlmodel-addon-detail-totalsize-label = Розмір файлу
+mlmodel-addon-detail-last-used-label = Востаннє використано
+# This is a section label to describe what extensions or features use a specific local AI model
+mlmodel-addon-detail-used-by-label = Використовується
+# This is a section label to describe the link to the model card on the Hugging Face website
+mlmodel-addon-detail-model-card = Картка моделі
+# This is a label for the Model Card link to Hugging face
+mlmodel-addon-detail-model-card-link-label = Переглянути на Hugging Face
