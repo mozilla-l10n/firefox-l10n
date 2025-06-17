@@ -185,6 +185,8 @@ media-capabilities-enumerate = Räkna upp databasen
 
 media-codec-support-sw-decoding = Programvaruavkodning
 media-codec-support-hw-decoding = Hårdvaruavkodning
+media-codec-support-sw-encoding = Programvarukodning
+media-codec-support-hw-encoding = Hårdvarukodning
 media-codec-support-codec-name = Namn på codec
 media-codec-support-supported = Stöds
 media-codec-support-unsupported = Stöds inte

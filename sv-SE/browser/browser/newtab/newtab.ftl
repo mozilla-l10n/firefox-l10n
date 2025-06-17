@@ -8,6 +8,9 @@
 newtab-page-title = Ny flik
 newtab-settings-button =
     .title = Anpassa sidan för Ny flik
+newtab-customize-panel-icon-button =
+    .title = Anpassa sidan
+newtab-customize-panel-icon-button-label = Anpassa
 newtab-personalize-settings-icon-label =
     .title = Anpassa ny flik
     .aria-label = Inställningar

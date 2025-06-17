@@ -34,6 +34,10 @@ contentanalysis-operationtype-clipboard = urklipp
 contentanalysis-operationtype-dropped-text = släppt text
 contentanalysis-operationtype-print = skriva ut
 #   $filename - The filename associated with the request, such as "aFile.txt"
+contentanalysis-upload-description = uppladdning av "{ $filename }"
+#   $filename - The filename associated with the request, such as "aFile.txt"
+contentanalysis-download-description = nedladdning av "{ $filename }"
+#   $filename - The filename associated with the request, such as "aFile.txt"
 contentanalysis-customdisplaystring-description = uppladdning av "{ $filename }"
 contentanalysis-warndialogtitle = Det här innehållet kan vara osäkert
 # Variables:
@@ -75,6 +79,10 @@ contentanalysis-block-dialog-title-upload-file = Du har inte behörighet att lad
 # Variables:
 #   $filename - Name of the file that was blocked, such as "aFile.txt"
 contentanalysis-block-dialog-body-upload-file = Enligt din organisations dataskyddspolicy har du inte tillåtelse att ladda upp filen "{ $filename }". Kontakta din administratör för mer information.
+contentanalysis-block-dialog-title-download-file = Du har inte behörighet att ladda ner den här filen
+# Variables:
+#   $filename - Name of the file that was blocked, such as "aFile.txt"
+contentanalysis-block-dialog-body-download-file = Enligt din organisations dataskyddspolicy har du inte tillåtelse att ladda ner filen "{ $filename }". Kontakta din administratör för mer information.
 contentanalysis-block-dialog-title-clipboard = Du har inte tillåtelse att klistra in det här innehållet
 contentanalysis-block-dialog-body-clipboard = Enligt din organisations dataskyddspolicy har du inte tillåtelse att klistra in detta innehåll. Kontakta din administratör för mer information.
 contentanalysis-block-dialog-title-dropped-text = Du har inte tillåtelse att dra och släppa detta innehåll

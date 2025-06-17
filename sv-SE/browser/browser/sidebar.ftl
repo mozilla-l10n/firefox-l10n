@@ -125,6 +125,8 @@ sidebar-menu-customize-label =
     .label = Anpassa sidofält
 sidebar-menu-contextual-password-manager-label =
     .label = Lösenord
+sidebar-menu-more-tools-label =
+    .label = Fler verktyg
 
 ## Tooltips for sidebar menu items.
 
