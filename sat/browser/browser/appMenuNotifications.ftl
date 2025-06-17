@@ -47,6 +47,9 @@ appmenu-addon-post-install-message3 = ᱮᱯᱞᱤᱠᱮᱥᱚᱱ ᱢᱮᱱᱩ �
 # This string is used in the confirmation popup displayed after an extension
 # has been installed, when the data collection feature is enabled.
 appmenu-addon-post-install-message-with-data-collection = <a data-l10n-name="settings-link">ᱮᱠᱥᱴᱮᱱᱥᱚᱱ ᱥᱮᱴᱤᱝ</a> ᱨᱮ ᱡᱟᱦᱟᱸ ᱚᱠᱛᱚ ᱨᱮ ᱦᱚᱸ ᱟᱹᱭᱫᱟᱹᱨ ᱟᱨ ᱰᱟᱴᱟ ᱠᱩᱥᱤᱠᱚ ᱦᱟᱹᱞᱤᱭᱟᱹᱠ ᱢᱮ ᱾
+appmenu-addon-post-install-pin-toolbarbutton-checkbox =
+    .label = ᱴᱩᱞᱵᱟᱨ ᱨᱮ ᱮᱠᱥᱴᱮᱱᱥᱚᱱ ᱞᱟᱴᱷᱟᱭ ᱢᱮ
+    .accesskey = P
 appmenu-addon-post-install-incognito-checkbox =
     .label = ᱱᱤᱡᱚᱨ ᱣᱤᱱᱰᱳ ᱨᱮ ᱱᱚᱶᱟ ᱵᱤᱥᱤᱞ ᱦᱮᱸᱥᱮᱨᱤᱭᱟᱹ ᱪᱷᱚᱭ ᱢᱮ
     .accesskey = A
