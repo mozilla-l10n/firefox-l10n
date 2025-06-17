@@ -21,9 +21,6 @@ cert-error-trust-symantec = I certificati rilasciati da GeoTrust, RapidSSL, Syma
 # Variables:
 #   $hostname (string) - Hostname of the website with cert error.
 cert-error-trust-certificate-transparency = { -brand-short-name } non ritiene { $hostname } attendibile in quanto non è riuscito a dimostrare di soddisfare i requisiti di trasparenza per certificati pubblici.
-# Variables:
-#   $hostname (string) - Hostname of the website with cert error.
-cert-error-revoked = I siti web garantiscono la propria identità attraverso certificati. { -brand-short-name } non considera { $hostname } attendibile in quanto utilizza un certificato che è stato revocato.
 cert-error-untrusted-default = Il certificato non proviene da una fonte attendibile.
 # Variables:
 #   $hostname (string) - Hostname of the website with cert error.
@@ -193,4 +190,3 @@ fp-certerror-hide-advanced-button = Nascondi avanzate
 fp-certerror-override-exception-button = Procedi su { $hostname } (rischioso)
 fp-certerror-intro = { -brand-short-name } ha rilevato un potenziale problema di sicurezza con <strong>{ $hostname }</strong>. Un soggetto che finge di essere il sito potrebbe cercare di rubare informazioni su carte di credito, password o email.
 fp-certerror-expired-into = { -brand-short-name } ha rilevato un problema di sicurezza con <strong>{ $hostname }</strong>. Il sito non è configurato correttamente o l’orologio del dispositivo è impostato su una data/ora sbagliata.
-
