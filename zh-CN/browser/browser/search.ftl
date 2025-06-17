@@ -59,11 +59,11 @@ edit-engine-window =
     .style = min-width: 32em;
 add-engine-button = 添加自定义引擎
 add-engine-name = 搜索引擎名称
-add-engine-url2 = 在网址中用 %s 代替搜索词
+add-engine-url2 = 网址（用 %s 代替搜索词）
 add-engine-keyword2 = 关键字（选填）
 # POST and GET refer to the HTTP methods.
 add-engine-post-data = POST 数据，用 %s 代替搜索词（若使用 GET 方法请留空）
-add-engine-suggest-url = 搜索建议网址，用 %s 代替搜索词（选填）
+add-engine-suggest-url = 搜索建议网址（选填，用 %s 代替搜索词）
 add-engine-keyword = 关键词
 add-engine-url = 搜索引擎 URL，用 %s 替换搜索词
 add-engine-dialog =
@@ -99,7 +99,7 @@ add-engine-missing-terms-post-data = 请尝试用 %s 代替搜索词。
 # buttonlabelextra1 is the label of a button to open the advanced section
 # of the dialog.
 add-engine-dialog2 =
-    .buttonlabelaccept = 添加引擎
+    .buttonlabelaccept = 添加搜索引擎
     .buttonaccesskeyaccept = A
     .buttonlabelextra1 = 高级
 # buttonlabelextra1 is the label of a button to open the advanced section
