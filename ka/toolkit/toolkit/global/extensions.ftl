@@ -26,11 +26,11 @@ webext-perms-header-required-perms = მოთხოვნილი ნება
 webext-perms-header-optional-settings = დამატებითი პარამეტრები:
 webext-perms-header-update-required-perms = ახლად მოთხოვნილი ნებართვები:
 webext-perms-header-optional-required-perms = ახალი ნებართვები:
-webext-perms-header-data-collection-perms = მნიშვნელოვან მონაცემთა აღრიცხვა:
+webext-perms-header-data-collection-perms = აუცილებელ მონაცემთა აღრიცხვა:
 webext-perms-header-data-collection-is-none = მონაცემთა აღრიცხვა:
 # This is a header used in the add-ons "update" prompt, shown when the new
 # version requires new data collection permissions.
-webext-perms-header-update-data-collection-perms = ახალ მნიშვნელოვან მონაცემთა აღრიცხვა:
+webext-perms-header-update-data-collection-perms = ახალ აუცილებელ მონაცემთა აღრიცხვა:
 # This is a header used in the add-ons "optional" prompt, shown when the
 # extension requests new data collection permissions programmatically.
 webext-perms-header-optional-data-collection-perms = ახალ მონაცემთა აღრიცხვა:
