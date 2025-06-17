@@ -34,6 +34,10 @@ contentanalysis-operationtype-clipboard = appunti
 contentanalysis-operationtype-dropped-text = testo trascinato
 contentanalysis-operationtype-print = stampa
 #   $filename - The filename associated with the request, such as "aFile.txt"
+contentanalysis-upload-description = caricamento di “{ $filename }”
+#   $filename - The filename associated with the request, such as "aFile.txt"
+contentanalysis-download-description = download di “{ $filename }”
+#   $filename - The filename associated with the request, such as "aFile.txt"
 contentanalysis-customdisplaystring-description = caricamento di “{ $filename }”
 contentanalysis-warndialogtitle = Questi contenuti potrebbero essere non sicuri
 # Variables:
@@ -75,6 +79,10 @@ contentanalysis-block-dialog-title-upload-file = Non hai il permesso di caricare
 # Variables:
 #   $filename - Name of the file that was blocked, such as "aFile.txt"
 contentanalysis-block-dialog-body-upload-file = I criteri per la protezione dei dati stabiliti dalla tua organizzazione non consentono di caricare il file “{ $filename }”. Contatta il tuo amministratore per ulteriori informazioni.
+contentanalysis-block-dialog-title-download-file = Non hai il permesso di scaricare questo file
+# Variables:
+#   $filename - Name of the file that was blocked, such as "aFile.txt"
+contentanalysis-block-dialog-body-download-file = I criteri per la protezione dei dati stabiliti dalla tua organizzazione non consentono di scaricare il file “{ $filename }”. Contatta il tuo amministratore per ulteriori informazioni.
 contentanalysis-block-dialog-title-clipboard = Non hai il permesso di incollare questo contenuto
 contentanalysis-block-dialog-body-clipboard = I criteri per la protezione dei dati stabiliti dalla tua organizzazione non consentono di incollare questo contenuto. Contatta il tuo amministratore per ulteriori informazioni.
 contentanalysis-block-dialog-title-dropped-text = Non hai il permesso di trascinare questo contenuto
