@@ -185,6 +185,14 @@ downloads-details =
 
 ## These strings are displayed in the private browsing view of the downloads panel
 
+downloads-private-browsing-details =
+    .title = Skrár eru geymdar á tækinu þínu
+downloads-private-browsing-delete-button =
+    .label = Eyða skrám sjálfkrafa
+    .accesskey = E
+downloads-private-browsing-accept-button =
+    .label = Náði því
+    .accesskey = v
 
 ## Displayed when a site attempts to automatically download many files.
 ## Variables:
