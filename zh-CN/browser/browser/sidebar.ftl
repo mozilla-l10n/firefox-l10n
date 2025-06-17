@@ -120,7 +120,7 @@ sidebar-menu-genai-chat-label =
 sidebar-menu-history-label =
     .label = 历史记录
 sidebar-menu-synced-tabs-label =
-    .label = 其他设备标签页
+    .label = 其他设备上的标签页
 sidebar-menu-bookmarks-label =
     .label = 书签
 sidebar-menu-customize-label =
@@ -176,7 +176,7 @@ sidebar-panel-header-close-button =
 
 sidebar-customize-title = 定制侧栏
 sidebar-history-title = 历史记录
-sidebar-syncedtabs-title = 其他设备标签页
+sidebar-syncedtabs-title = 其他设备上的标签页
 
 ## Context for closing synced tabs when hovering over the items
 
