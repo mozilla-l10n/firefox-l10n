@@ -75,8 +75,6 @@ sidebar-menu-bookmarks-label =
     .label = Обележивачи
 sidebar-menu-customize-label =
     .label = Прилагоди бочни панел
-sidebar-menu-review-checker-label =
-    .label = Прегледач рецензија
 
 ## Tooltips for sidebar menu items.
 

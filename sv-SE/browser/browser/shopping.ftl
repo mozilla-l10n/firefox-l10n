@@ -89,9 +89,6 @@ shopping-show-less-button = Visa mindre
 
 shopping-settings-label =
     .label = Inställningar
-shopping-settings-recommendations-toggle2 =
-    .label = Visa rekommendationer och sponsrat innehåll
-shopping-settings-recommendations-learn-more3 = { -brand-product-name } delar inte dina personuppgifter, så dessa rekommendationer kommer inte att följa dig runt på internet. <a data-l10n-name="review-quality-url">Läs mer</a>
 shopping-settings-recommendations-toggle =
     .label = Visa annonser i recensionsgranskaren
 shopping-settings-recommendations-learn-more2 = Du ser då och då annonser för relevanta produkter. Vi annonserar endast produkter med pålitliga recensioner. <a data-l10n-name="review-quality-url">Läs mer</a>
@@ -118,7 +115,6 @@ shopping-settings-sidebar-enabled-state = Recensionsgranskaren är <strong>På</
 shopping-adjusted-rating-label =
     .label = Justerat betyg
 shopping-adjusted-rating-unreliable-reviews = Opålitliga recensioner har tagits bort
-shopping-adjusted-rating-based-reliable-reviews = Baserat på tillförlitliga recensioner
 
 ## Strings for the review reliability component
 
@@ -137,8 +133,6 @@ shopping-analysis-explainer-learn-more2 = Läs mer om <a data-l10n-name="review-
 # websites, which will be inserted without being translated.
 #  $retailer (String) - capitalized name of the shopping website, for example, "Amazon".
 shopping-analysis-explainer-highlights-description = <strong>Höjdpunkter</strong> kommer från { $retailer }-recensioner inom de senaste 80 dagarna som vi anser vara pålitliga.
-# Fallback for analysis highlights explainer if the retailer is ever unknown
-shopping-analysis-explainer-highlights-description-unknown-retailer = <strong>Höjdpunkter</strong> kommer från recensioner under de senaste 80 dagarna som vi anser vara tillförlitliga.
 shopping-analysis-explainer-review-grading-scale-reliable = Pålitliga recensioner. Vi tror att recensionerna troligen kommer från riktiga kunder som lämnat ärliga, opartiska recensioner.
 shopping-analysis-explainer-review-grading-scale-mixed = Vi tror att det finns en blandning av pålitliga och opålitliga recensioner.
 shopping-analysis-explainer-review-grading-scale-unreliable = Opålitliga recensioner. Vi tror att recensionerna sannolikt är falska eller från partiska granskare.
@@ -165,7 +159,6 @@ shopping-unanalyzed-product-analyze-button = Kontrollera recensionens kvalitet
 
 more-to-consider-ad-label =
     .label = Mer att tänka på
-shopping-sponsored-label = Sponsrad
 ad-by-fakespot = Annons av { -fakespot-brand-name }
 
 ## Shopping survey strings.
@@ -186,18 +179,6 @@ shopping-survey-submit-button-label = Skicka in
 shopping-survey-terms-link = Användarvillkor
 shopping-survey-thanks =
     .heading = Tack för din feedback!
-
-## Shopping opted-out survey strings
-## Opt-out survey options are displayed as checkboxes and the user can select one or many.
-
-shopping-survey-opted-out-multiselect-label = Berätta för oss varför du stängde av recensionsgranskaren. Välj flera om det behövs.
-shopping-survey-thanks-title = Tack för din feedback!
-shopping-survey-opted-out-hard-to-understand = Den är svår att förstå
-shopping-survey-opted-out-too-slow = Den är för långsam
-shopping-survey-opted-out-not-accurate = Den stämmer inte
-shopping-survey-opted-out-not-helpful = Den hjälper mig inte
-shopping-survey-opted-out-check-myself = Jag kontrollerar hellre recensioner själv
-shopping-survey-opted-out-other = Annat
 
 ## Shopping Feature Callout strings.
 ## "price tag" refers to the price tag icon displayed in the address bar to
@@ -251,76 +232,3 @@ shopping-onboarding-dialog-close-button =
 #   $total (Int) - Total number of pages
 shopping-onboarding-welcome-steps-indicator-label =
     .aria-label = Framsteg: steg { $current } av { $total }
-
-## Review Checker in Integrated sidebar
-
-# Opt-in message strings for Review Checker when it is integrated into the global sidebar.
-shopping-opt-in-integrated-headline = Handla med förtroende
-# Description text for regions where we support three sites. Sites are limited to Amazon, Walmart and Best Buy.
-# Variables:
-#   $firstSite (String) - The first shopping page name
-#   $secondSite (String) - The second shopping page name
-#   $thirdSite (String) - The third shopping page name
-shopping-opt-in-integrated-subtitle = Aktivera recensionsgranskaren från { -brand-product-name } för att se hur tillförlitliga produktrecensioner är innan du köper. Den använder AI-teknik för att analysera recensioner och fungerar när du handlar på { $firstSite }, { $secondSite } och { $thirdSite }. <a data-l10n-name="learn_more">Läs mer</a>
-# Description text for regions where we support three sites. Sites are limited to Amazon, Walmart and Best Buy.
-# Variables:
-#   $firstSite (String) - The first shopping page name
-#   $secondSite (String) - The second shopping page name
-#   $thirdSite (String) - The third shopping page name
-shopping-opt-in-integrated-subtitle-unsupported-site = Recensionsgranskaren från { -brand-product-name } hjälper dig att veta hur tillförlitliga en produkts recensioner är, innan du köper. Den använder AI-teknik för att analysera recensioner och fungerar när du handlar på { $firstSite }, { $secondSite } och { $thirdSite }. <a data-l10n-name="learn_more">Läs mer</a>
-
-## Messages for callout for users not opted into the sidebar integrated version of Review Checker.
-
-shopping-callout-opt-in-integrated-headline = Kan du lita på dessa recensioner?
-# Appears underneath shopping-opt-in-integrated-headline to answer the question 'Can you trust these reviews?'
-shopping-callout-not-opted-in-integrated-paragraph1 = Aktivera recensionsgranskaren från { -brand-product-name } för att ta reda på det. Den drivs av { -fakespot-brand-full-name } och använder AI-teknik för att analysera recensioner.
-shopping-callout-not-opted-in-integrated-paragraph2 = Genom att välja "{ shopping-opt-in-integrated-button }" godkänner du { -brand-product-name }:s <a data-l10n-name="privacy_policy">sekretessmeddelande</a> och { -fakespot-brand-full-name }:s <a data-l10n-name="terms_of_use">användarvillkor</a>.
-shopping-callout-not-opted-in-integrated-reminder-dismiss-button = Ignorera
-shopping-callout-not-opted-in-integrated-reminder-accept-button = Aktivera recensionsgranskaren
-shopping-opt-in-integrated-privacy-policy-and-terms-of-use = Recensionsgranskaren drivs av { -fakespot-brand-full-name }. Genom att välja "{ shopping-opt-in-integrated-button }" godkänner du { -brand-product-name }:s <a data-l10n-name="privacy_policy">sekretessmeddelande</a> och { -fakespot-brand-name }:s <a data-l10n-name="terms_of_use">användarvillkor.</a>
-shopping-opt-in-integrated-button = Testa recensionsgranskaren
-
-## Message strings for Review Checker's empty states.
-
-shopping-empty-state-header = Redo att kontrollera recensioner
-shopping-empty-state-supported-site = Visa en produkt och { -brand-product-name } kommer att kontrollera om recensionerna är tillförlitliga.
-# We show a list of sites supported by Review Checker whenever a user opens the feature in an unsupported site.
-# This string will be displayed above the list of sites. The list will be hardcoded and does not require localization.
-shopping-empty-state-non-supported-site = Recensionsgranskaren fungerar när du handlar på:
-
-## Confirm disabling Review Checker for newly opted out users
-
-shopping-integrated-callout-opted-out-title = Recensionsgranskaren är avstängd
-shopping-integrated-callout-opted-out-subtitle = För att slå på den igen, välj prislappen i sidofältet och aktivera recensionsgranskaren.
-
-## Callout for where to find Review Checker when the sidebar closes
-
-shopping-integrated-callout-sidebar-closed-title = Gå tillbaka till recensionsgranskaren
-shopping-integrated-callout-sidebar-closed-subtitle = Välj prislappen i sidofältet för att se om du kan lita på en produkts recensioner.
-shopping-integrated-callout-no-logo-sidebar-closed-subtitle = Välj sidofältsknappen för att se om du kan lita på en produkts recensioner.
-
-## Strings for a notification card about Review Checker's new position in the sidebar.
-## The card will only appear for users that have the default sidebar position, which is on the left side for non RTL locales.
-## Review Checker in the sidebar is only available to US users at this time, so we can assume that the default position is on the left side.
-
-shopping-integrated-new-position-notification-title = Samma recensionsgranskare, ny plats
-shopping-integrated-new-position-notification-move-right-subtitle = Behåll recensionsgranskaren och resten av sidofältet i { -brand-product-name } här — eller flytta dem till höger. Byt nu eller när som helst i <a data-l10n-name="sidebar_settings">inställningarna för sidofält</a>.
-shopping-integrated-new-position-notification-move-left-subtitle = Behåll recensionsgranskaren och resten av sidofältet i { -brand-product-name } här — eller flytta dem till vänster. Byt nu eller när som helst i <a data-l10n-name="sidebar_settings">inställningarna för sidofält</a>.
-shopping-integrated-new-position-notification-move-right-button = Flytta höger
-shopping-integrated-new-position-notification-move-left-button = Flytta vänster
-shopping-integrated-new-position-notification-dismiss-button = Jag förstår
-
-## Combined setting for auto-open and auto-close.
-
-shopping-settings-auto-open-and-close-toggle =
-    .label = Öppna och stäng recensionsgranskaren automatiskt
-# Description text for regions where we support three sites. Sites are limited to Amazon, Walmart and Best Buy.
-# Variables:
-#   $firstSite (String) - The first shopping page name
-#   $secondSite (String) - The second shopping page name
-#   $thirdSite (String) - The third shopping page name
-shopping-settings-auto-open-and-close-description-three-sites = Öppnas när du visar produkter på { $firstSite }, { $secondSite } och { $thirdSite } och stängs när du lämnar
-# Description text for regions where we support only one site (e.g. currently used in FR/DE with Amazon).
-# Variables:
-#   $currentSite (String) - The current shopping page name
-shopping-settings-auto-open-and-close-description-single-site = Öppnas när du visar produkter på { $currentSite } och stängs när du lämnar

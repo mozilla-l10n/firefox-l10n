@@ -64,13 +64,6 @@ add-engine-keyword2 = Trefwurd (opsjoneel)
 # POST and GET refer to the HTTP methods.
 add-engine-post-data = POST-gegevens mei %s yn stee fan de sykterm (leech litte foar GET)
 add-engine-suggest-url = URL foar suggestjes mei %s op plak fan sykterm (opsjoneel)
-add-engine-keyword = Trefwurd
-add-engine-url = URL fan sykmasine, brûk %s op it plak fan de sykterm
-add-engine-dialog =
-    .buttonlabelaccept = Sykmasine tafoegje
-    .buttonaccesskeyaccept = t
-engine-name-exists = Der bestiet al in sykmasine mei dy namme
-engine-keyword-exists = Der bestiet al in sykmasine mei dat trefwurd
 
 ## The following placeholders are shown in the inputs when adding a new engine.
 

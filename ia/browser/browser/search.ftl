@@ -64,13 +64,6 @@ add-engine-keyword2 = Parola clave (optional)
 # POST and GET refer to the HTTP methods.
 add-engine-post-data = Datos de POST con %s al posto de termino de recerca (lassar vacue pro GET)
 add-engine-suggest-url = URL pro suggestiones con %s al posto del termino de recerca (optional)
-add-engine-keyword = Parola clave
-add-engine-url = URL del motor, usa %s in loco del termino de recerca
-add-engine-dialog =
-    .buttonlabelaccept = Adder motor
-    .buttonaccesskeyaccept = m
-engine-name-exists = Un motor con iste nomine jam existe.
-engine-keyword-exists = Un motor con ille parola clave jam existe
 
 ## The following placeholders are shown in the inputs when adding a new engine.
 

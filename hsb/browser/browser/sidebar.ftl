@@ -4,8 +4,6 @@
 
 menu-view-genai-chat =
     .label = AI Chatbot
-menu-view-review-checker =
-    .label = Kontrola pohódnoćenjow
 menu-view-contextual-password-manager =
     .label = Hesła
 sidebar-options-menu-button =
@@ -125,8 +123,6 @@ sidebar-menu-bookmarks-label =
     .label = Zapołožki
 sidebar-menu-customize-label =
     .label = Bóčnicu přiměrić
-sidebar-menu-review-checker-label =
-    .label = Kontrola pohódnoćenjow
 sidebar-menu-contextual-password-manager-label =
     .label = Hesła
 

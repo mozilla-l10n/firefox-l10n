@@ -4,8 +4,6 @@
 
 menu-view-genai-chat =
     .label = AI Chatbot
-menu-view-review-checker =
-    .label = Amsenqad n tamawt
 menu-view-contextual-password-manager =
     .label = Awalen n uεeddi
 sidebar-options-menu-button =
@@ -114,8 +112,6 @@ sidebar-menu-bookmarks-label =
     .label = Ticraḍ n isebtar
 sidebar-menu-customize-label =
     .label = Sagen afeggag adigan
-sidebar-menu-review-checker-label =
-    .label = Amsenqad n tamawt
 sidebar-menu-contextual-password-manager-label =
     .label = Awalen n uεeddi
 

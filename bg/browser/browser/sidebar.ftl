@@ -4,8 +4,6 @@
 
 menu-view-genai-chat =
     .label = AI Чатбот
-menu-view-review-checker =
-    .label = Проверка на отзиви
 sidebar-options-menu-button =
     .title = Отваряне на меню
 
@@ -79,8 +77,6 @@ sidebar-menu-bookmarks-label =
     .label = Отметки
 sidebar-menu-customize-label =
     .label = Приспособяване на страничната лента
-sidebar-menu-review-checker-label =
-    .label = Проверка на отзиви
 
 ## Tooltips for sidebar menu items.
 

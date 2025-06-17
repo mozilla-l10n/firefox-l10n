@@ -55,13 +55,6 @@ add-engine-window =
     .style = min-width: 32em;
 add-engine-button = Agiunghe unu motore personalizadu
 add-engine-name = Chirca su nòmine de su motore
-add-engine-keyword = Faeddu crae
-add-engine-url = URL de su motore. Imprea %s in logu de su tèrmine de chirca
-add-engine-dialog =
-    .buttonlabelaccept = Agiunghe su motore
-    .buttonaccesskeyaccept = A
-engine-name-exists = Esistit giai unu motore cun custu nòmine
-engine-keyword-exists = Esistit giai unu motore cun custu faeddu crae
 
 ## The following placeholders are shown in the inputs when adding a new engine.
 

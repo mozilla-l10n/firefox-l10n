@@ -4,8 +4,6 @@
 
 menu-view-genai-chat =
     .label = Yapay zekâ sohbet botu
-menu-view-review-checker =
-    .label = Değerlendirme kontrolcüsü
 menu-view-contextual-password-manager =
     .label = Parolalar
 sidebar-options-menu-button =
@@ -125,8 +123,6 @@ sidebar-menu-bookmarks-label =
     .label = Yer imleri
 sidebar-menu-customize-label =
     .label = Kenar çubuğunu özelleştir
-sidebar-menu-review-checker-label =
-    .label = Değerlendirme kontrolcüsü
 sidebar-menu-contextual-password-manager-label =
     .label = Parolalar
 

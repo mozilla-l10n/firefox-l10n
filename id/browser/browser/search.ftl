@@ -54,13 +54,6 @@ add-engine-window =
     .style = min-width: 32em;
 add-engine-button = Tambahkan Mesin Khusus
 add-engine-name = Nama mesin pencari
-add-engine-keyword = Kata Kunci
-add-engine-url = URL mesin, gunakan %s sebagai pengganti istilah pencarian
-add-engine-dialog =
-    .buttonlabelaccept = Tambahkan Mesin
-    .buttonaccesskeyaccept = a
-engine-name-exists = Mesin dengan nama tersebut sudah ada
-engine-keyword-exists = Mesin dengan kata kunci tersebut sudah ada
 
 ## The following placeholders are shown in the inputs when adding a new engine.
 

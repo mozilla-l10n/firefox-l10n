@@ -21,9 +21,6 @@ cert-error-trust-symantec = Certifikaty, kotrež su GeoTrust, RapidSSL, Symantec
 # Variables:
 #   $hostname (string) - Hostname of the website with cert error.
 cert-error-trust-certificate-transparency = { -brand-short-name } { $hostname } njedowěrja, dokelž njemóžeše dopokazać, zo žadanja transparency za zjawne certifikaty spjelnja.
-# Variables:
-#   $hostname (string) - Hostname of the website with cert error.
-cert-error-revoked = Websydła swoju identitu přez certifikaty dopokazuja. { -brand-short-name } { $hostname } njedowěrja, dokelž certifikat wužiwa, kotryž je so wotwołał.
 cert-error-untrusted-default = Certifikat njepochadźa z dowěry hódneho žórła.
 # Variables:
 #   $hostname (string) - Hostname of the website with cert error.

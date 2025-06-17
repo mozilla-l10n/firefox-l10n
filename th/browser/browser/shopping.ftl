@@ -89,9 +89,6 @@ shopping-show-less-button = แสดงน้อยลง
 
 shopping-settings-label =
     .label = การตั้งค่า
-shopping-settings-recommendations-toggle2 =
-    .label = แสดงคำแนะนำและเนื้อหาที่ได้รับการสนับสนุน
-shopping-settings-recommendations-learn-more3 = { -brand-product-name } จะไม่แบ่งปันข้อมูลส่วนตัวของคุณ ดังนั้นคำแนะนำเหล่านี้จะไม่ติดตามคุณไปบนโลกอินเทอร์เน็ต <a data-l10n-name="review-quality-url">เรียนรู้เพิ่มเติม</a>
 shopping-settings-recommendations-toggle =
     .label = แสดงโฆษณาในเครื่องมือตรวจสอบบทวิจารณ์
 shopping-settings-recommendations-learn-more2 = คุณจะเห็นโฆษณาสำหรับผลิตภัณฑ์ที่เกี่ยวข้องเป็นครั้งคราว เราจะโฆษณาเฉพาะผลิตภัณฑ์ที่มีบทวิจารณ์ที่เชื่อถือได้เท่านั้น <a data-l10n-name="review-quality-url">เรียนรู้เพิ่มเติม</a>
@@ -118,7 +115,6 @@ shopping-settings-sidebar-enabled-state = เครื่องมือตร�
 shopping-adjusted-rating-label =
     .label = คะแนนที่ปรับแล้ว
 shopping-adjusted-rating-unreliable-reviews = เอาบทวิจารณ์ที่ไม่น่าเชื่อถือออกแล้ว
-shopping-adjusted-rating-based-reliable-reviews = อ้างอิงจากบทวิจารณ์ที่เชื่อถือได้
 
 ## Strings for the review reliability component
 
@@ -137,8 +133,6 @@ shopping-analysis-explainer-learn-more2 = เรียนรู้เพิ่�
 # websites, which will be inserted without being translated.
 #  $retailer (String) - capitalized name of the shopping website, for example, "Amazon".
 shopping-analysis-explainer-highlights-description = <strong>ไฮไลต์</strong>มาจากบทวิจารณ์ใน { $retailer } ภายใน 80 วันที่ผ่านมา ซึ่งเราเชื่อว่าน่าเชื่อถือ
-# Fallback for analysis highlights explainer if the retailer is ever unknown
-shopping-analysis-explainer-highlights-description-unknown-retailer = <strong>ไฮไลต์</strong>มาจากบทวิจารณ์ภายใน 80 วันที่ผ่านมา ซึ่งเราเชื่อว่าน่าเชื่อถือ
 shopping-analysis-explainer-review-grading-scale-reliable = บทวิจารณ์ที่น่าเชื่อถือ เราเชื่อว่าบทวิจารณ์นั้นน่าจะมาจากลูกค้าจริงซึ่งให้คำวิจารณ์อย่างตรงไปตรงมาและไม่มีอคติ
 shopping-analysis-explainer-review-grading-scale-mixed = เราเชื่อว่ามีทั้งบทวิจารณ์ที่น่าเชื่อถือและไม่น่าเชื่อถือปะปนกัน
 shopping-analysis-explainer-review-grading-scale-unreliable = บทวิจารณ์ที่ไม่น่าเชื่อถือ เราเชื่อว่าบทวิจารณ์นั้นน่าจะเป็นของปลอมหรือมาจากผู้วิจารณ์ที่มีอคติ
@@ -165,7 +159,6 @@ shopping-unanalyzed-product-analyze-button = ตรวจสอบคุณภ�
 
 more-to-consider-ad-label =
     .label = ลองดูเพิ่ม
-shopping-sponsored-label = ได้รับการสนับสนุน
 ad-by-fakespot = โฆษณาโดย { -fakespot-brand-name }
 
 ## Shopping survey strings.
@@ -186,18 +179,6 @@ shopping-survey-submit-button-label = ส่ง
 shopping-survey-terms-link = เงื่อนไขการใช้งาน
 shopping-survey-thanks =
     .heading = ขอบคุณสำหรับข้อคิดเห็นของคุณ!
-
-## Shopping opted-out survey strings
-## Opt-out survey options are displayed as checkboxes and the user can select one or many.
-
-shopping-survey-opted-out-multiselect-label = โปรดแจ้งให้เราทราบว่าทำไมคุณจึงปิดเครื่องมือตรวจสอบบทวิจารณ์ ให้เลือกหลายข้อถ้าต้องการ
-shopping-survey-thanks-title = ขอบคุณสำหรับข้อคิดเห็นของคุณ!
-shopping-survey-opted-out-hard-to-understand = มันเข้าใจยาก
-shopping-survey-opted-out-too-slow = มันช้าเกินไป
-shopping-survey-opted-out-not-accurate = มันไม่แม่นยำ
-shopping-survey-opted-out-not-helpful = มันไม่มีประโยชน์กับฉัน
-shopping-survey-opted-out-check-myself = ฉันอยากตรวจสอบบทวิจารณ์ด้วยตัวเองมากกว่า
-shopping-survey-opted-out-other = อื่นๆ
 
 ## Shopping Feature Callout strings.
 ## "price tag" refers to the price tag icon displayed in the address bar to
@@ -251,76 +232,3 @@ shopping-onboarding-dialog-close-button =
 #   $total (Int) - Total number of pages
 shopping-onboarding-welcome-steps-indicator-label =
     .aria-label = ความคืบหน้า: ขั้นตอนที่ { $current } จาก { $total }
-
-## Review Checker in Integrated sidebar
-
-# Opt-in message strings for Review Checker when it is integrated into the global sidebar.
-shopping-opt-in-integrated-headline = ซื้อของอย่างมั่นใจ
-# Description text for regions where we support three sites. Sites are limited to Amazon, Walmart and Best Buy.
-# Variables:
-#   $firstSite (String) - The first shopping page name
-#   $secondSite (String) - The second shopping page name
-#   $thirdSite (String) - The third shopping page name
-shopping-opt-in-integrated-subtitle = เปิดเครื่องมือตรวจสอบบทวิจารณ์จาก { -brand-product-name } เพื่อดูว่าบทวิจารณ์ผลิตภัณฑ์น่าเชื่อถือแค่ไหนก่อนที่คุณจะตัดสินใจซื้อ เครื่องมือนี้ใช้เทคโนโลยี AI วิเคราะห์บทวิจารณ์และจะทำงานเมื่อคุณซื้อสินค้าบน { $firstSite }, { $secondSite } และ { $thirdSite } <a data-l10n-name="learn_more">เรียนรู้เพิ่มเติม</a>
-# Description text for regions where we support three sites. Sites are limited to Amazon, Walmart and Best Buy.
-# Variables:
-#   $firstSite (String) - The first shopping page name
-#   $secondSite (String) - The second shopping page name
-#   $thirdSite (String) - The third shopping page name
-shopping-opt-in-integrated-subtitle-unsupported-site = เครื่องมือตรวจสอบบทวิจารณ์จาก { -brand-product-name } ช่วยให้คุณรู้ได้ว่าบทวิจารณ์ของผลิตภัณฑ์นั้นน่าเชื่อถือแค่ไหน ก่อนที่คุณจะตัดสินใจซื้อ เครื่องมือนี้ใช้เทคโนโลยี AI วิเคราะห์บทวิจารณ์และจะทำงานเมื่อคุณซื้อสินค้าบน { $firstSite }, { $secondSite } และ { $thirdSite } <a data-l10n-name="learn_more">เรียนรู้เพิ่มเติม</a>
-
-## Messages for callout for users not opted into the sidebar integrated version of Review Checker.
-
-shopping-callout-opt-in-integrated-headline = คุณเชื่อถือบทวิจารณ์เหล่านี้ได้หรือไม่
-# Appears underneath shopping-opt-in-integrated-headline to answer the question 'Can you trust these reviews?'
-shopping-callout-not-opted-in-integrated-paragraph1 = เปิดใช้เครื่องมือตรวจสอบบทวิจารณ์จาก { -brand-product-name } เพื่อค้นพบ เครื่องมือนี้ขับเคลื่อนโดย { -fakespot-brand-full-name } และใช้เทคโนโลยี AI เพื่อวิเคราะห์บทวิจารณ์
-shopping-callout-not-opted-in-integrated-paragraph2 = เมื่อเลือก “{ shopping-opt-in-integrated-button }” ถือว่าคุณยอมรับ<a data-l10n-name="privacy_policy">ประกาศความเป็นส่วนตัว</a>ของ { -brand-product-name } และ<a data-l10n-name="terms_of_use">ข้อกำหนดการใช้งาน</a>ของ { -fakespot-brand-full-name }
-shopping-callout-not-opted-in-integrated-reminder-dismiss-button = ปิด
-shopping-callout-not-opted-in-integrated-reminder-accept-button = เปิดใช้เครื่องมือตรวจสอบบทวิจารณ์
-shopping-opt-in-integrated-privacy-policy-and-terms-of-use = เครื่องมือตรวจสอบบทวิจารณ์ขับเคลื่อนโดย { -fakespot-brand-full-name } เมื่อเลือก “{ shopping-opt-in-integrated-button }” ถือว่าคุณยอมรับ<a data-l10n-name="privacy_policy">ประกาศความเป็นส่วนตัว</a>ของ { -brand-product-name } และ<a data-l10n-name="terms_of_use">ข้อกำหนดการใช้งาน</a>ของ { -fakespot-brand-name }
-shopping-opt-in-integrated-button = ลองใช้เครื่องมือตรวจสอบบทวิจารณ์
-
-## Message strings for Review Checker's empty states.
-
-shopping-empty-state-header = พร้อมที่จะตรวจสอบบทวิจารณ์
-shopping-empty-state-supported-site = ดูผลิตภัณฑ์แล้ว { -brand-product-name } จะตรวจสอบว่าบทวิจารณ์น่าเชื่อถือหรือไม่
-# We show a list of sites supported by Review Checker whenever a user opens the feature in an unsupported site.
-# This string will be displayed above the list of sites. The list will be hardcoded and does not require localization.
-shopping-empty-state-non-supported-site = เครื่องมือตรวจสอบบทวิจารณ์สามารถใช้งานได้เมื่อคุณซื้อสินค้าบน:
-
-## Confirm disabling Review Checker for newly opted out users
-
-shopping-integrated-callout-opted-out-title = เครื่องมือตรวจสอบบทวิจารณ์ปิดอยู่
-shopping-integrated-callout-opted-out-subtitle = เมื่อต้องการเปิดกลับมาใหม่ ให้เลือกป้ายราคาในแถบข้างแล้วเปิดเครื่องมือตรวจสอบบทวิจารณ์
-
-## Callout for where to find Review Checker when the sidebar closes
-
-shopping-integrated-callout-sidebar-closed-title = เปิดเครื่องมือตรวจสอบบทวิจารณ์ใหม่
-shopping-integrated-callout-sidebar-closed-subtitle = เลือกป้ายราคาในแถบข้างเพื่อดูว่าคุณเชื่อถือบทวิจารณ์ของผลิตภัณฑ์ได้หรือไม่
-shopping-integrated-callout-no-logo-sidebar-closed-subtitle = เลือกปุ่มแถบข้างเพื่อดูว่าคุณเชื่อถือบทวิจารณ์ของผลิตภัณฑ์ได้หรือไม่
-
-## Strings for a notification card about Review Checker's new position in the sidebar.
-## The card will only appear for users that have the default sidebar position, which is on the left side for non RTL locales.
-## Review Checker in the sidebar is only available to US users at this time, so we can assume that the default position is on the left side.
-
-shopping-integrated-new-position-notification-title = เครื่องมือตรวจสอบบทวิจารณ์ตัวเดิม แต่ย้ายที่ใหม่
-shopping-integrated-new-position-notification-move-right-subtitle = ให้เครื่องมือตรวจสอบบทวิจารณ์และส่วนที่เหลือของแถบข้าง { -brand-product-name } แสดงที่นี่ หรือย้ายไปไว้ด้านขวา คุณสามารถสลับได้เลย หรือจะสลับทีหลังก็ได้ใน<a data-l10n-name="sidebar_settings">การตั้งค่าแถบข้าง</a>
-shopping-integrated-new-position-notification-move-left-subtitle = ให้เครื่องมือตรวจสอบบทวิจารณ์และส่วนที่เหลือของแถบข้าง { -brand-product-name } แสดงที่นี่ หรือย้ายไปไว้ด้านซ้าย คุณสามารถสลับได้เลย หรือจะสลับทีหลังก็ได้ใน<a data-l10n-name="sidebar_settings">การตั้งค่าแถบข้าง</a>
-shopping-integrated-new-position-notification-move-right-button = ย้ายไปทางขวา
-shopping-integrated-new-position-notification-move-left-button = ย้ายไปทางซ้าย
-shopping-integrated-new-position-notification-dismiss-button = เข้าใจแล้ว
-
-## Combined setting for auto-open and auto-close.
-
-shopping-settings-auto-open-and-close-toggle =
-    .label = เปิดและปิดเครื่องมือตรวจสอบบทวิจารณ์โดยอัตโนมัติ
-# Description text for regions where we support three sites. Sites are limited to Amazon, Walmart and Best Buy.
-# Variables:
-#   $firstSite (String) - The first shopping page name
-#   $secondSite (String) - The second shopping page name
-#   $thirdSite (String) - The third shopping page name
-shopping-settings-auto-open-and-close-description-three-sites = เปิดเมื่อคุณดูผลิตภัณฑ์บน { $firstSite }, { $secondSite } และ { $thirdSite } และปิดเมื่อคุณออก
-# Description text for regions where we support only one site (e.g. currently used in FR/DE with Amazon).
-# Variables:
-#   $currentSite (String) - The current shopping page name
-shopping-settings-auto-open-and-close-description-single-site = เปิดเมื่อคุณดูผลิตภัณฑ์บน { $currentSite } และปิดเมื่อคุณออก

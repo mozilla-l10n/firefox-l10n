@@ -51,11 +51,6 @@ add-engine-window =
     .style = min-width: 32em;
 add-engine-button = اضافه کردن موتور سفارشی
 add-engine-name = نام موتور جست‌وجو
-add-engine-url = آدرس موتور، از %s در مکانِ مربوط به عبارت جست‌وجو استفاده کنید
-add-engine-dialog =
-    .buttonlabelaccept = افزودن موتور
-    .buttonaccesskeyaccept = A
-engine-name-exists = موتوری با این نام از قبل وجود دارد
 
 ## The following placeholders are shown in the inputs when adding a new engine.
 

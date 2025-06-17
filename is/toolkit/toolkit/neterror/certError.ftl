@@ -21,9 +21,6 @@ cert-error-trust-symantec = Skilríki útgefin af GeoTrust, RapidSSL, Symantec, 
 # Variables:
 #   $hostname (string) - Hostname of the website with cert error.
 cert-error-trust-certificate-transparency = { -brand-short-name } treystir ekki { $hostname } vegna þess að ekki var hægt að sanna að það uppfylli kröfur um gagnsæi opinberra skilríkja.
-# Variables:
-#   $hostname (string) - Hostname of the website with cert error.
-cert-error-revoked = Vefsvæði staðfesta auðkenni sitt með skilríkjum. { -brand-short-name } treystir ekki { $hostname } því þar er notað skilríki sem hefur verið afturkallað.
 cert-error-untrusted-default = Skilríkið kemur ekki frá traustum aðila.
 # Variables:
 #   $hostname (string) - Hostname of the website with cert error.

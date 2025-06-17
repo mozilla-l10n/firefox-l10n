@@ -64,13 +64,6 @@ add-engine-keyword2 = Ключевое слово (необязательно)
 # POST and GET refer to the HTTP methods.
 add-engine-post-data = Данные POST с %s вместо запроса (оставьте пустым для GET)
 add-engine-suggest-url = URL предложений с %s вместо поискового запроса (необязательно)
-add-engine-keyword = Краткое имя
-add-engine-url = URL-адрес системы с параметром %s вместо запроса
-add-engine-dialog =
-    .buttonlabelaccept = Добавить систему
-    .buttonaccesskeyaccept = и
-engine-name-exists = Система с таким именем уже существует
-engine-keyword-exists = Система с этим кратким именем уже существует
 
 ## The following placeholders are shown in the inputs when adding a new engine.
 

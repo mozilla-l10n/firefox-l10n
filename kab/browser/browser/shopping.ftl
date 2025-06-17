@@ -80,8 +80,6 @@ shopping-show-less-button = Sken drus
 
 shopping-settings-label =
     .label = Iɣewwaren
-shopping-settings-recommendations-toggle2 =
-    .label = Sken agbur imwelleh d ugbur s lmendad
 shopping-settings-recommendations-toggle =
     .label = Sken adellel deg umsenqad n tamawt
 shopping-settings-opt-out-button = Sens Amsenqed n tamawin
@@ -104,7 +102,6 @@ shopping-settings-auto-open-description-single-site = Mira twaliḍ ifarisen ɣe
 shopping-adjusted-rating-label =
     .label = Aktazal yettwaseɣta
 shopping-adjusted-rating-unreliable-reviews = Yir alɣu yettwakkes
-shopping-adjusted-rating-based-reliable-reviews = Deg taffa n yiwenniten yettwamanen
 
 ## Strings for the review reliability component
 
@@ -122,8 +119,6 @@ shopping-analysis-explainer-adjusted-rating-description = Alɣu n <strong>amwati
 # websites, which will be inserted without being translated.
 #  $retailer (String) - capitalized name of the shopping website, for example, "Amazon".
 shopping-analysis-explainer-highlights-description = <strong>Asebruraq</strong> seg { $retailer } n yiceggiren deg 80 n wussan-a ineggura i nettwali yella lettkal fell-asen.
-# Fallback for analysis highlights explainer if the retailer is ever unknown
-shopping-analysis-explainer-highlights-description-unknown-retailer = <strong>Asebruraq</strong> seg yiceggiren deg 80 n wussan-a ineggura i nettwali yella lettkal fell-asen.
 shopping-analysis-explainer-review-grading-scale-reliable = Iceggiren igerrzen. Nettwali iceggiren zemren ad d-ilin seg yimsaɣen n tidet i d-yeǧǧan iceggiren imeɣtiyen, ur nebni ɣef tḥila.
 shopping-analysis-explainer-review-grading-scale-mixed = Nettwali iwellihen sdukklen iwellihen inaflasen d yiwellihen arinaflasen.
 shopping-analysis-explainer-review-grading-scale-unreliable = Iceggiren ur yettwamanen ara. Nettwali iceggiren zemren ad ilin d tikellax neɣ kkan-d seg yimciggar ur nesεi azal.
@@ -150,7 +145,6 @@ shopping-unanalyzed-product-analyze-button = Senqed tɣara n yilɣa
 
 more-to-consider-ad-label =
     .label = Ugar n tamawt
-shopping-sponsored-label = S lmendad
 ad-by-fakespot = Adellel sɣur { -fakespot-brand-name }
 
 ## Shopping survey strings.
@@ -169,16 +163,6 @@ shopping-survey-submit-button-label = Azen
 shopping-survey-terms-link = Tiwtilin n useqdec
 shopping-survey-thanks =
     .heading = Tanemmirt ɣef tekti yinek!
-
-## Shopping opted-out survey strings
-## Opt-out survey options are displayed as checkboxes and the user can select one or many.
-
-shopping-survey-thanks-title = Tanemmirt ɣef tekti yinek!
-shopping-survey-opted-out-hard-to-understand = Yewεer aṭas i gezzu
-shopping-survey-opted-out-too-slow = Ẓẓay mliḥ
-shopping-survey-opted-out-not-accurate = Mačči d usdid
-shopping-survey-opted-out-not-helpful = Ur iyi-nfiε ara
-shopping-survey-opted-out-other = Wayeḍ
 
 ## Shopping Feature Callout strings.
 ## "price tag" refers to the price tag icon displayed in the address bar to
@@ -205,32 +189,3 @@ shopping-onboarding-dialog-close-button =
 #   $total (Int) - Total number of pages
 shopping-onboarding-welcome-steps-indicator-label =
     .aria-label = Asesfar:takkayt { $current } n { $total }
-
-## Review Checker in Integrated sidebar
-
-
-## Messages for callout for users not opted into the sidebar integrated version of Review Checker.
-
-shopping-callout-opt-in-integrated-headline = Tzemreḍ ad tamneḍ leṛyuy-a?
-shopping-callout-not-opted-in-integrated-reminder-dismiss-button = Zgel
-shopping-opt-in-integrated-button = Ɛreḍ amsenqad n yilɣa
-
-## Message strings for Review Checker's empty states.
-
-
-## Confirm disabling Review Checker for newly opted out users
-
-
-## Callout for where to find Review Checker when the sidebar closes
-
-
-## Strings for a notification card about Review Checker's new position in the sidebar.
-## The card will only appear for users that have the default sidebar position, which is on the left side for non RTL locales.
-## Review Checker in the sidebar is only available to US users at this time, so we can assume that the default position is on the left side.
-
-shopping-integrated-new-position-notification-move-right-button = Senkez ɣer yeffus
-shopping-integrated-new-position-notification-move-left-button = Senkez ɣer zelmeḍ
-shopping-integrated-new-position-notification-dismiss-button = Awi-t
-
-## Combined setting for auto-open and auto-close.
-

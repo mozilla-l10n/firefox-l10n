@@ -89,9 +89,6 @@ shopping-show-less-button = ਘੱਟ ਵੇਖਾਓ
 
 shopping-settings-label =
     .label = ਸੈਟਿੰਗਾਂ
-shopping-settings-recommendations-toggle2 =
-    .label = ਸਿਫ਼ਾਰਸਾਂ ਅਤੇ ਸਪੌਂਸਰ ਕੀਤੀ ਸਮੱਗਰੀ ਵੇਖਾਓ
-shopping-settings-recommendations-learn-more3 = { -brand-product-name } ਤੁਹਾਡੇ ਨਿੱਜੀ ਡਾਟੇ ਨੂੰ ਸਾਂਝਾ ਨਹੀਂ ਕਰਦਾ ਹੈ, ਇਸਕਰਕੇ ਇਹ ਸਿਫ਼ਾਰਸ਼ਾਂ ਇੰਟਰਨੈੱਟ ਉੱਤੇ ਤੁਹਾਡੀ ਸੂਹ ਨਹੀਂ ਲੈਣਗੀਆਂ। <a data-l10n-name="review-quality-url">ਹੋਰ ਜਾਣੋ</a>
 shopping-settings-recommendations-toggle =
     .label = ਰੀਵਿਊ ਚੈਕਰ ਵਿੱਚ ਇਸ਼ਤਿਹਾਰ ਵੇਖਾਓ
 shopping-settings-recommendations-learn-more2 = ਤੁਸੀਂ ਕਦੇ ਕਦਾਈ ਸੰਬੰਧਿਤ ਉਤਪਾਦਾਂ ਲਈ ਇਸ਼ਤਿਹਾਰ ਵੇਖੋਗੇ। ਅਸੀਂ ਭਰੋਸੇਯੋਗ ਰੀਵਿਊ ਵਾਲੇ ਉਤਪਾਦ ਲਈ ਹੀ ਇਸ਼ਤਿਹਾਰ ਦਿੰਦੇ ਹਾਂ। <a data-l10n-name="review-quality-url">ਹੋਰ ਸਿੱਖੋ</a>
@@ -118,7 +115,6 @@ shopping-settings-sidebar-enabled-state = ਰੀਵਿਊ ਚੈਕਰ <strong>�
 shopping-adjusted-rating-label =
     .label = ਅਡਜੱਸਟ ਕੀਤੀ ਰੇਟਿੰਗ
 shopping-adjusted-rating-unreliable-reviews = ਗ਼ੈਰ-ਭਰੋਸੇਯੋਗ ਰੀਵਿਊ ਹਟਾਏ
-shopping-adjusted-rating-based-reliable-reviews = ਭਰੋਸੇਯੋਗ ਰੀਵਿਊਆਂ ਉੱਤੇ ਅਧਾਰਿਤ
 
 ## Strings for the review reliability component
 
@@ -137,8 +133,6 @@ shopping-analysis-explainer-learn-more2 = ਜਾਣੋ ਕਿ <a data-l10n-name=
 # websites, which will be inserted without being translated.
 #  $retailer (String) - capitalized name of the shopping website, for example, "Amazon".
 shopping-analysis-explainer-highlights-description = ਪਿਛਲੇ 80 ਦਿਨਾਂ ਵਿੱਚ { $retailer } ਰੀਵਿਊਆਂ ਵਿੱਚੋਂ <strong>ਹਾਈਲਾਈਟ</strong> ਹਨ, ਜੋ ਸਾਨੂੰ ਜਾਪਦਾ ਹੈ ਕਿ ਭਰੋਸੇਯੋਗ ਹਨ।
-# Fallback for analysis highlights explainer if the retailer is ever unknown
-shopping-analysis-explainer-highlights-description-unknown-retailer = ਪਿਛਲੇ 80 ਦਿਨਾਂ ਵਿੱਚ ਰੀਵਿਊਆਂ ਵਿੱਚੋਂ <strong>ਹਾਈਲਾਈਟ</strong> ਹਨ, ਜੋ ਸਾਨੂੰ ਜਾਪਦਾ ਹੈ ਕਿ ਭਰੋਸੇਯੋਗ ਹਨ।
 shopping-analysis-explainer-review-grading-scale-reliable = ਭਰੋਸੇਯੋਗ ਰੀਵਿਊ। ਅਸੀਂ ਮੰਨਦੇ ਹਾਂ ਕਿ ਰੀਵਿਊ ਅਸਲ ਗਾਹਕ ਵਲੋਂ ਹਨ, ਜਿਸ ਨੇ ਇਮਾਨਦਾਰੀ ਨਾਲ ਨਿਰਪੱਖ ਰੀਵਿਊ ਦਿੱਤੇ ਹਨ।
 shopping-analysis-explainer-review-grading-scale-mixed = ਅਸੀਂ ਮੰਨਦੇ ਹਾਂ ਕਿ ਭਰੋਸੇਯੋਗ ਅਤੇ ਗ਼ੈਰ-ਭਰੋਸੇਯੋਗ ਰੀਵਿਊ ਰਲਵੇਂ ਰੂਪ ਵਿੱਚ ਹੁੰਦੇ ਹਨ।
 shopping-analysis-explainer-review-grading-scale-unreliable = ਗ਼ੈਰਭਰੋਸੇਯੋਗ ਰੀਵਿਊ। ਅਸੀਂ ਮੰਨਦੇ ਹਾਂ ਕਿ ਰੀਵਿਊ ਨਕਲੀ, ਫ਼ਰਜ਼ੀ ਹੋਣ ਜਾਂ ਪੱਖਪਾਤੀ ਰੀਵਿਊ ਦੇਣ ਵਾਲਿਆਂ ਵਲੋਂ ਹੋਣ ਸਕਦੇ ਹਨ।
@@ -165,7 +159,6 @@ shopping-unanalyzed-product-analyze-button = ਰੀਵਿਊ ਕੁਆਲਟੀ 
 
 more-to-consider-ad-label =
     .label = ਵਿਚਾਰਨ ਲਈ ਹੋਰ
-shopping-sponsored-label = ਸਪੌਂਸਰ ਕੀਤੇ
 ad-by-fakespot = { -fakespot-brand-name } ਵਲੋਂ ਇਸ਼ਤਿਹਾਰ
 
 ## Shopping survey strings.
@@ -186,18 +179,6 @@ shopping-survey-submit-button-label = ਭੇਜੋ
 shopping-survey-terms-link = ਵਰਤਣ ਦੀ ਸ਼ਰਤਾਂ
 shopping-survey-thanks =
     .heading = ਤੁਹਾਡੀ ਫ਼ੀਡਬੈਕ ਲਈ ਤੁਹਾਡਾ ਧੰਨਵਾਦ ਹੈ!
-
-## Shopping opted-out survey strings
-## Opt-out survey options are displayed as checkboxes and the user can select one or many.
-
-shopping-survey-opted-out-multiselect-label = ਕਿਰਪਾ ਕਰਕੇ ਸਾਨੂੰ ਦੱਸੋ ਕਿ ਤੁਸੀਂ ਰੀਵਿਊ ਚੈਕਰ ਨੂੰ ਬੰਦ ਕਿਉਂ ਕੀਤਾ ਹੈ। ਜੇ ਲੋੜ ਪਵੇ ਤਾਂ ਕਈ ਸਾਰਿਆਂ ਦੀ ਚੋਣ ਕਰੋ।
-shopping-survey-thanks-title = ਤੁਹਾਡੇ ਸੁਝਾਅ ਲਈ ਧੰਨਵਾਦ ਹੈ!
-shopping-survey-opted-out-hard-to-understand = ਇਸ ਨੂੰ ਸਮਝਣਾ ਔਖਾ ਹੈ
-shopping-survey-opted-out-too-slow = ਇਹ ਬਹੁਤ ਹੌਲੀ ਹੈ
-shopping-survey-opted-out-not-accurate = ਇਹ ਦਰੁਸਤ ਨਹੀਂ ਹੈ
-shopping-survey-opted-out-not-helpful = ਇਹ ਮੇਰੇ ਲਈ ਮਦਦਗਾਰ ਨਹੀਂ ਹੈ
-shopping-survey-opted-out-check-myself = ਮੈਂ ਖੁਦ ਰੀਵਿਊ ਵੇਖਣਾ ਚਾਹੁੰਦਾ/ਚਾਹੁੰਦੀ ਹਾਂ
-shopping-survey-opted-out-other = ਹੋਰ
 
 ## Shopping Feature Callout strings.
 ## "price tag" refers to the price tag icon displayed in the address bar to
@@ -251,42 +232,3 @@ shopping-onboarding-dialog-close-button =
 #   $total (Int) - Total number of pages
 shopping-onboarding-welcome-steps-indicator-label =
     .aria-label = ਤਰੱਕੀ: { $total } ਵਿੱਚੋਂ { $current } ਪੜਾਅ
-
-## Review Checker in Integrated sidebar
-
-# Opt-in message strings for Review Checker when it is integrated into the global sidebar.
-shopping-opt-in-integrated-headline = ਭਰੋਸੇ ਨਾਲ ਖਰੀਦਦਾਰੀ ਕਰੋ
-
-## Messages for callout for users not opted into the sidebar integrated version of Review Checker.
-
-shopping-callout-opt-in-integrated-headline = ਕੀ ਤੁਸੀਂ ਇਹ ਰੀਵਿਊ ਉੱਤੇ ਭਰੋਸਾ ਕਰ ਸਕਦੇ ਹੋ?
-shopping-callout-not-opted-in-integrated-reminder-dismiss-button = ਖ਼ਾਰਜ ਕਰੋ
-shopping-callout-not-opted-in-integrated-reminder-accept-button = ਰੀਵਿਊ ਚੈਕਰ ਨੂੰ ਚਾਲੂ ਕਰੋ
-shopping-opt-in-integrated-button = ਰੀਵਿਊ ਚੈਕਰ ਅਜ਼ਮਾਓ
-
-## Message strings for Review Checker's empty states.
-
-shopping-empty-state-header = ਰੀਵਿਊ ਦੀ ਜਾਂਚ ਲਈ ਤਿਆਰ
-# We show a list of sites supported by Review Checker whenever a user opens the feature in an unsupported site.
-# This string will be displayed above the list of sites. The list will be hardcoded and does not require localization.
-shopping-empty-state-non-supported-site = ਜਦੋਂ ਵੀ ਤੁਸੀਂ ਇੱਥੇ ਖਰੀਦਦਾਰੀ ਕਰਦੇ ਹੋ ਤਾਂ ਰੀਵਿਊ ਚੈਕਰ ਕੰਮ ਕਰਦਾ ਹੈ:
-
-## Confirm disabling Review Checker for newly opted out users
-
-shopping-integrated-callout-opted-out-title = ਰੀਵਿਊ ਚੈਕਰ ਬੰਦ ਹੈ
-
-## Callout for where to find Review Checker when the sidebar closes
-
-
-## Strings for a notification card about Review Checker's new position in the sidebar.
-## The card will only appear for users that have the default sidebar position, which is on the left side for non RTL locales.
-## Review Checker in the sidebar is only available to US users at this time, so we can assume that the default position is on the left side.
-
-shopping-integrated-new-position-notification-move-right-button = ਸੱਜੇ ਭੇਜੋ
-shopping-integrated-new-position-notification-move-left-button = ਖੱਬੇ ਭੇਜੋ
-shopping-integrated-new-position-notification-dismiss-button = ਸਮਝੇ
-
-## Combined setting for auto-open and auto-close.
-
-shopping-settings-auto-open-and-close-toggle =
-    .label = ਆਪਣੇ-ਆਪ ਰੀਵਿਊ ਚੈਕਰ ਨੂੰ ਖੋਲ੍ਹੋ ਅਤੇ ਬੰਦ ਕਰੋ

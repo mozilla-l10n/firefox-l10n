@@ -4,8 +4,6 @@
 
 menu-view-genai-chat =
     .label = AI Chatbot
-menu-view-review-checker =
-    .label = Kontrola recenzií
 menu-view-contextual-password-manager =
     .label = Heslá
 sidebar-options-menu-button =
@@ -125,8 +123,6 @@ sidebar-menu-bookmarks-label =
     .label = Záložky
 sidebar-menu-customize-label =
     .label = Prispôsobiť bočný panel
-sidebar-menu-review-checker-label =
-    .label = Kontrola recenzií
 sidebar-menu-contextual-password-manager-label =
     .label = Heslá
 

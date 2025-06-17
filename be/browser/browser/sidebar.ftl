@@ -4,8 +4,6 @@
 
 menu-view-genai-chat =
     .label = Чат-бот ШІ
-menu-view-review-checker =
-    .label = Праверка водгукаў
 menu-view-contextual-password-manager =
     .label = Паролі
 sidebar-options-menu-button =
@@ -125,8 +123,6 @@ sidebar-menu-bookmarks-label =
     .label = Закладкі
 sidebar-menu-customize-label =
     .label = Уладкаванне бакавой панэлі
-sidebar-menu-review-checker-label =
-    .label = Праверка водгукаў
 sidebar-menu-contextual-password-manager-label =
     .label = Паролі
 

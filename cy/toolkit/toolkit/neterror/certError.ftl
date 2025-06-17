@@ -21,9 +21,6 @@ cert-error-trust-symantec = Nid yw tystysgrifau a gyhoeddwyd gan GeoTrust, Rapid
 # Variables:
 #   $hostname (string) - Hostname of the website with cert error.
 cert-error-trust-certificate-transparency = Nid yw { -brand-short-name } yn ymddiried yn { $hostname } oherwydd nid yw'n gallu profi ei fod yn bodloni gofynion tryloywder tystysgrif gyhoeddus.
-# Variables:
-#   $hostname (string) - Hostname of the website with cert error.
-cert-error-revoked = Mae gwefannau'n profi eu hunaniaeth drwy dystysgrifau. Nid yw { -brand-short-name } yn ymddiried yn y wefan hon gan ei fod yn defnyddio tystysgrif nad yw'n ddilys ar gyfer { $hostname }.
 cert-error-untrusted-default = Nid yw'r dystysgrif yn dod o fan gellir ymddiried ynddo.
 # Variables:
 #   $hostname (string) - Hostname of the website with cert error.

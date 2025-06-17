@@ -4,8 +4,6 @@
 
 menu-view-genai-chat =
     .label = Robot IA Fjalosjesh
-menu-view-review-checker =
-    .label = Kontrollor Shqyrtimesh
 menu-view-contextual-password-manager =
     .label = Fjalëkalime
 sidebar-options-menu-button =
@@ -118,8 +116,6 @@ sidebar-menu-bookmarks-label =
     .label = Faqerojtës
 sidebar-menu-customize-label =
     .label = Përshtatni anështyllën
-sidebar-menu-review-checker-label =
-    .label = Kontrollor Shqyrtimesh
 sidebar-menu-contextual-password-manager-label =
     .label = Fjalëkalime
 

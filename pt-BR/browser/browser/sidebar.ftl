@@ -4,8 +4,6 @@
 
 menu-view-genai-chat =
     .label = Chatbot de inteligência artificial
-menu-view-review-checker =
-    .label = Verificador de avaliações
 menu-view-contextual-password-manager =
     .label = Senhas
 sidebar-options-menu-button =
@@ -125,8 +123,6 @@ sidebar-menu-bookmarks-label =
     .label = Favoritos
 sidebar-menu-customize-label =
     .label = Personalizar painel lateral
-sidebar-menu-review-checker-label =
-    .label = Verificador de avaliações
 sidebar-menu-contextual-password-manager-label =
     .label = Senhas
 

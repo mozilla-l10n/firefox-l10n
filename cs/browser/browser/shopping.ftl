@@ -93,9 +93,6 @@ shopping-show-less-button = Zobrazit méně
 
 shopping-settings-label =
     .label = Nastavení
-shopping-settings-recommendations-toggle2 =
-    .label = Zobrazovat doporučení a sponzorovaný obsah
-shopping-settings-recommendations-learn-more3 = { -brand-product-name } nesdílí vaše osobní údaje, proto vás tato doporučení nebudou po internetu pronásledovat. <a data-l10n-name="review-quality-url">Zjistit více</a>
 shopping-settings-recommendations-toggle =
     .label = Zobrazovat reklamy v kontrole recenzí
 shopping-settings-recommendations-learn-more2 = Občas se vám zobrazí reklamy na příslušné produkty. Inzerujeme pouze produkty se spolehlivými recenzemi. <a data-l10n-name="review-quality-url">Dozvědět se více</a>
@@ -122,7 +119,6 @@ shopping-settings-sidebar-enabled-state = Kontrola recenzí je <strong>zapnuta</
 shopping-adjusted-rating-label =
     .label = Upravené hodnocení
 shopping-adjusted-rating-unreliable-reviews = Nespolehlivé recenze odebrány
-shopping-adjusted-rating-based-reliable-reviews = Na základě spolehlivých recenzí
 
 ## Strings for the review reliability component
 
@@ -141,8 +137,6 @@ shopping-analysis-explainer-learn-more2 = Přečtěte si další informace o tom
 # websites, which will be inserted without being translated.
 #  $retailer (String) - capitalized name of the shopping website, for example, "Amazon".
 shopping-analysis-explainer-highlights-description = <strong>Výběr</strong> z recenzí { $retailer } za posledních 80 dní, které považujeme za spolehlivé.
-# Fallback for analysis highlights explainer if the retailer is ever unknown
-shopping-analysis-explainer-highlights-description-unknown-retailer = <strong>Výběr</strong> z recenzí za posledních 80 dní, které považujeme za spolehlivé.
 shopping-analysis-explainer-review-grading-scale-reliable = Spolehlivé recenze. Věříme, že recenze pocházejí pravděpodobně od skutečných zákazníků, kteří zanechali upřímné a nezaujaté recenze.
 shopping-analysis-explainer-review-grading-scale-mixed = Věříme, že je zde směs spolehlivých a nespolehlivých recenzí.
 shopping-analysis-explainer-review-grading-scale-unreliable = Nespolehlivé recenze. Domníváme se, že tyto recenze jsou pravděpodobně falešné a nebo od zaujatých recenzentů.
@@ -169,7 +163,6 @@ shopping-unanalyzed-product-analyze-button = Zkontrolovat kvalitu recenzí
 
 more-to-consider-ad-label =
     .label = Další ke zvážení
-shopping-sponsored-label = Sponzorováno
 ad-by-fakespot = Reklama od { -fakespot-brand-name(case: "gen") }
 
 ## Shopping survey strings.
@@ -198,18 +191,6 @@ shopping-survey-submit-button-label = Odeslat
 shopping-survey-terms-link = Zásady používání
 shopping-survey-thanks =
     .heading = Děkujeme za vaši zpětnou vazbu!
-
-## Shopping opted-out survey strings
-## Opt-out survey options are displayed as checkboxes and the user can select one or many.
-
-shopping-survey-opted-out-multiselect-label = Dejte nám prosím vědět, proč jste vypnuli Kontrolu recenzí. Můžete vybrat více možností, pokud je to potřeba.
-shopping-survey-thanks-title = Děkujeme za vaši zpětnou vazbu!
-shopping-survey-opted-out-hard-to-understand = Je těžké tomu porozumět
-shopping-survey-opted-out-too-slow = Je příliš pomalá
-shopping-survey-opted-out-not-accurate = Není to přesné
-shopping-survey-opted-out-not-helpful = Není pro mě užitečná
-shopping-survey-opted-out-check-myself = Raději si recenze zkontroluji sám
-shopping-survey-opted-out-other = Jiné
 
 ## Shopping Feature Callout strings.
 ## "price tag" refers to the price tag icon displayed in the address bar to
@@ -271,88 +252,3 @@ shopping-onboarding-dialog-close-button =
 #   $total (Int) - Total number of pages
 shopping-onboarding-welcome-steps-indicator-label =
     .aria-label = Postup: krok { $current } z { $total }
-
-## Review Checker in Integrated sidebar
-
-# Opt-in message strings for Review Checker when it is integrated into the global sidebar.
-shopping-opt-in-integrated-headline = Nakupujte s důvěrou
-# Description text for regions where we support three sites. Sites are limited to Amazon, Walmart and Best Buy.
-# Variables:
-#   $firstSite (String) - The first shopping page name
-#   $secondSite (String) - The second shopping page name
-#   $thirdSite (String) - The third shopping page name
-shopping-opt-in-integrated-subtitle =
-    { -brand-product-name.case-status ->
-        [with-cases] Zapněte si Kontrolu recenzí { -brand-product-name(case: "gen") } a zjistěte, jak spolehlivé jsou recenze produktů ještě před nákupem. Je využívána technologie AI pro analýzu recenzí a funguje při nakupování na { $firstSite }, { $secondSite } a { $thirdSite }. <a data-l10n-name="learn_more">Zjistit více</a>
-       *[no-cases] Zapněte si Kontrolu recenzí aplikace { -brand-product-name } a zjistěte, jak spolehlivé jsou recenze produktů ještě před nákupem. Je využívána technologie AI pro analýzu recenzí a funguje při nakupování na { $firstSite }, { $secondSite } a { $thirdSite }. <a data-l10n-name="learn_more">Zjistit více</a>
-    }
-# Description text for regions where we support three sites. Sites are limited to Amazon, Walmart and Best Buy.
-# Variables:
-#   $firstSite (String) - The first shopping page name
-#   $secondSite (String) - The second shopping page name
-#   $thirdSite (String) - The third shopping page name
-shopping-opt-in-integrated-subtitle-unsupported-site =
-    { -brand-product-name.case-status ->
-        [with-cases] Kontrola recenzí { -brand-product-name(case: "gen") } vám pomůže zjistit, jak spolehlivé jsou recenze produktu ještě před nákupem. Využívá technologii AI pro analýzu recenzí a funguje při nakupování na { $firstSite }, { $secondSite } a { $thirdSite }. <a data-l10n-name="learn_more">Zjistit více</a>
-       *[no-cases] Kontrola recenzí aplikace { -brand-product-name } vám pomůže zjistit, jak spolehlivé jsou recenze produktu ještě před nákupem. Využívá technologii AI pro analýzu recenzí a funguje při nakupování na { $firstSite }, { $secondSite } a { $thirdSite }. <a data-l10n-name="learn_more">Zjistit více</a>
-    }
-
-## Messages for callout for users not opted into the sidebar integrated version of Review Checker.
-
-shopping-callout-opt-in-integrated-headline = Můžete těmto recenzím věřit?
-# Appears underneath shopping-opt-in-integrated-headline to answer the question 'Can you trust these reviews?'
-shopping-callout-not-opted-in-integrated-paragraph1 =
-    { -brand-product-name.case-status ->
-        [with-cases] Zapněte Kontrolu recenzí { -brand-product-name(case: "gen") } abyste to zjistili. Zajišťuje ji { -fakespot-brand-full-name } a k analýze recenzí používá technologii AI.
-       *[no-cases] Zapněte Kontrolu recenzí aplikace { -brand-product-name } abyste to zjistili. Zajišťuje ji { -fakespot-brand-full-name } a k analýze recenzí používá technologii AI.
-    }
-shopping-callout-not-opted-in-integrated-paragraph2 = Vybráním “{ shopping-opt-in-integrated-button }” souhlasíte se <a data-l10n-name="privacy_policy">zásadami ochrany soukromí</a> { -brand-product-name } a <a data-l10n-name="terms_of_use">zásadami používání</a> služby { -fakespot-brand-full-name }.
-shopping-callout-not-opted-in-integrated-reminder-dismiss-button = Zavřít
-shopping-callout-not-opted-in-integrated-reminder-accept-button = Zapnout kontrolu recenzí
-shopping-opt-in-integrated-privacy-policy-and-terms-of-use = Kontrolu recenzí zajišťuje { -fakespot-brand-full-name }. Výběrem možnosti “{ shopping-opt-in-integrated-button }” souhlasíte se <a data-l10n-name="privacy_policy">zásadami ochrany osobních údajů</a> { -brand-product-name } a <a data-l10n-name="terms_of_use">podmínkami používání</a> { -fakespot-brand-name }.
-shopping-opt-in-integrated-button = Vyzkoušet kontrolu recenzí
-
-## Message strings for Review Checker's empty states.
-
-shopping-empty-state-header = Připraveno ke kontrole recenzí
-shopping-empty-state-supported-site = Zobrazte si produkt a { -brand-product-name } zkontroluje, zda jsou jeho recenze spolehlivé.
-# We show a list of sites supported by Review Checker whenever a user opens the feature in an unsupported site.
-# This string will be displayed above the list of sites. The list will be hardcoded and does not require localization.
-shopping-empty-state-non-supported-site = Kontrola recenzí funguje, když nakupujete na:
-
-## Confirm disabling Review Checker for newly opted out users
-
-shopping-integrated-callout-opted-out-title = Kontrola recenzí je vypnuta
-shopping-integrated-callout-opted-out-subtitle = Pro její opětovné zapnutí vyberte cenovku v postranní liště a zapněte kontrolu recenzí.
-
-## Callout for where to find Review Checker when the sidebar closes
-
-shopping-integrated-callout-sidebar-closed-title = Zpět ke Kontrole recenzí
-shopping-integrated-callout-sidebar-closed-subtitle = Vyberte cenovku v postranní liště a zjistěte, zda můžete důvěřovat recenzím produktu.
-shopping-integrated-callout-no-logo-sidebar-closed-subtitle = Klepněte na tlačítko postranní lišty a zkontrolujte, zda můžete důvěřovat recenzím produktu.
-
-## Strings for a notification card about Review Checker's new position in the sidebar.
-## The card will only appear for users that have the default sidebar position, which is on the left side for non RTL locales.
-## Review Checker in the sidebar is only available to US users at this time, so we can assume that the default position is on the left side.
-
-shopping-integrated-new-position-notification-title = Stejná Kontrola recenzí na novém místě
-shopping-integrated-new-position-notification-move-right-subtitle = Ponechte Kontrolu recenzí a zbytek postranní lišty { -brand-product-name(case: "gen") } zde — nebo je přesuňte doprava. Přepnout můžete hned nebo později v <a data-l10n-name="sidebar_settings">nastavení postranní lišty</a>.
-shopping-integrated-new-position-notification-move-left-subtitle = Ponechte Kontrolu recenzí a zbytek postranní lišty { -brand-product-name(case: "gen") } zde — nebo je přesuňte doleva. Přepnout můžete hned nebo později v <a data-l10n-name="sidebar_settings">nastavení postranní lišty</a>.
-shopping-integrated-new-position-notification-move-right-button = Přesunout doprava
-shopping-integrated-new-position-notification-move-left-button = Přesunout doleva
-shopping-integrated-new-position-notification-dismiss-button = Rozumím
-
-## Combined setting for auto-open and auto-close.
-
-shopping-settings-auto-open-and-close-toggle =
-    .label = Automaticky otevírat a zavírat kontrolu recenzí
-# Description text for regions where we support three sites. Sites are limited to Amazon, Walmart and Best Buy.
-# Variables:
-#   $firstSite (String) - The first shopping page name
-#   $secondSite (String) - The second shopping page name
-#   $thirdSite (String) - The third shopping page name
-shopping-settings-auto-open-and-close-description-three-sites = Otevře se při prohlížení produktů na { $firstSite }, { $secondSite } a { $thirdSite } a zavře se, když stránku opustíte
-# Description text for regions where we support only one site (e.g. currently used in FR/DE with Amazon).
-# Variables:
-#   $currentSite (String) - The current shopping page name
-shopping-settings-auto-open-and-close-description-single-site = Otevře se při prohlížení produktů na { $currentSite } a zavře se, když stránku opustíte

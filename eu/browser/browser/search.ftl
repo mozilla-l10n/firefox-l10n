@@ -53,13 +53,6 @@ add-engine-window =
     .style = min-width: 32em;
 add-engine-button = Gehitu bilaketa-motor pertsonalizatua
 add-engine-name = Bilaketa-motorraren izena
-add-engine-keyword = Gako-hitza
-add-engine-url = Bilaketa-motorraren URLa, erabili %s bilaketa-terminoaren tokian
-add-engine-dialog =
-    .buttonlabelaccept = Gehitu bilaketa-motorra
-    .buttonaccesskeyaccept = G
-engine-name-exists = Dagoeneko badago izen hori duen bilaketa-motor bat
-engine-keyword-exists = Gako-hitz hori duen motor bat badago lehendik ere
 
 ## The following placeholders are shown in the inputs when adding a new engine.
 

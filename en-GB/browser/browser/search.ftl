@@ -64,13 +64,6 @@ add-engine-keyword2 = Keyword (optional)
 # POST and GET refer to the HTTP methods.
 add-engine-post-data = POST data with %s in place of search term (leave empty for GET)
 add-engine-suggest-url = Suggestions URL with %s in place of search term (optional)
-add-engine-keyword = Keyword
-add-engine-url = Engine URL, use %s in place of the search term
-add-engine-dialog =
-    .buttonlabelaccept = Add Engine
-    .buttonaccesskeyaccept = A
-engine-name-exists = An engine with that name already exists
-engine-keyword-exists = An engine with that keyword already exists
 
 ## The following placeholders are shown in the inputs when adding a new engine.
 

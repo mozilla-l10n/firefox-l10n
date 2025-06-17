@@ -89,9 +89,6 @@ shopping-show-less-button = 덜 보기
 
 shopping-settings-label =
     .label = 설정
-shopping-settings-recommendations-toggle2 =
-    .label = 추천 및 스폰서 콘텐츠 표시
-shopping-settings-recommendations-learn-more3 = { -brand-product-name }는 개인 데이터를 공유하지 않으므로 이러한 추천 항목은 인터넷에서 사용자를 따라다니지 않습니다. <a data-l10n-name="review-quality-url">더 알아보기</a>
 shopping-settings-recommendations-toggle =
     .label = 리뷰 검사기에 광고 표시
 shopping-settings-recommendations-learn-more2 = 관련 제품에 대한 광고가 가끔 표시됩니다. 믿을 수 있는 리뷰가 있는 제품만을 광고합니다. <a data-l10n-name="review-quality-url">더 알아보기</a>
@@ -118,7 +115,6 @@ shopping-settings-sidebar-enabled-state = 리뷰 검사기가 <strong>켜짐</st
 shopping-adjusted-rating-label =
     .label = 조정된 평점
 shopping-adjusted-rating-unreliable-reviews = 신뢰할 수 없는 리뷰는 삭제됨
-shopping-adjusted-rating-based-reliable-reviews = 신뢰할 수 있는 리뷰에 바탕
 
 ## Strings for the review reliability component
 
@@ -139,8 +135,6 @@ shopping-analysis-explainer-learn-more2 = <a data-l10n-name="review-quality-url"
 # websites, which will be inserted without being translated.
 #  $retailer (String) - capitalized name of the shopping website, for example, "Amazon".
 shopping-analysis-explainer-highlights-description = <strong>하이라이트</strong>는 지난 80일 동안 신뢰할 수 있는 { $retailer } 리뷰에서 나온 것입니다.
-# Fallback for analysis highlights explainer if the retailer is ever unknown
-shopping-analysis-explainer-highlights-description-unknown-retailer = <strong>하이라이트</strong>는 지난 80일 동안 신뢰할 수 있는 리뷰에서 나온 것입니다.
 shopping-analysis-explainer-review-grading-scale-reliable = 신뢰할 수 있는 리뷰. 솔직하고 공정한 리뷰를 남긴 실제 고객의 리뷰일 가능성이 높다고 생각합니다.
 shopping-analysis-explainer-review-grading-scale-mixed = 신뢰할 수 있는 리뷰와 신뢰할 수 없는 리뷰가 혼합되어 있다고 생각합니다.
 shopping-analysis-explainer-review-grading-scale-unreliable = 신뢰할 수 없는 리뷰. 리뷰가 가짜이거나 편향된 리뷰어의 리뷰일 가능성이 있다고 생각합니다.
@@ -167,7 +161,6 @@ shopping-unanalyzed-product-analyze-button = 리뷰 품질 확인
 
 more-to-consider-ad-label =
     .label = 더 보기
-shopping-sponsored-label = 스폰서
 ad-by-fakespot = { -fakespot-brand-name }의 광고
 
 ## Shopping survey strings.
@@ -188,18 +181,6 @@ shopping-survey-submit-button-label = 제출
 shopping-survey-terms-link = 이용 약관
 shopping-survey-thanks =
     .heading = 의견을 보내 주셔서 감사합니다!
-
-## Shopping opted-out survey strings
-## Opt-out survey options are displayed as checkboxes and the user can select one or many.
-
-shopping-survey-opted-out-multiselect-label = 리뷰 검사기를 끄신 이유를 알려주세요. 필요한 경우 여러 개를 선택하세요.
-shopping-survey-thanks-title = 의견을 보내 주셔서 감사합니다!
-shopping-survey-opted-out-hard-to-understand = 이해하기 어려움
-shopping-survey-opted-out-too-slow = 너무 느림
-shopping-survey-opted-out-not-accurate = 정확하지 않음
-shopping-survey-opted-out-not-helpful = 도움이 되지 않음
-shopping-survey-opted-out-check-myself = 리뷰를 직접 확인
-shopping-survey-opted-out-other = 기타
 
 ## Shopping Feature Callout strings.
 ## "price tag" refers to the price tag icon displayed in the address bar to
@@ -253,76 +234,3 @@ shopping-onboarding-dialog-close-button =
 #   $total (Int) - Total number of pages
 shopping-onboarding-welcome-steps-indicator-label =
     .aria-label = 진행률: { $current } / { $total } 단계
-
-## Review Checker in Integrated sidebar
-
-# Opt-in message strings for Review Checker when it is integrated into the global sidebar.
-shopping-opt-in-integrated-headline = 자신있게 쇼핑하세요
-# Description text for regions where we support three sites. Sites are limited to Amazon, Walmart and Best Buy.
-# Variables:
-#   $firstSite (String) - The first shopping page name
-#   $secondSite (String) - The second shopping page name
-#   $thirdSite (String) - The third shopping page name
-shopping-opt-in-integrated-subtitle = 구매하기 전에 { -brand-product-name }의 리뷰 검사기를 켜서 제품 리뷰가 얼마나 신뢰할 수 있는지 확인하세요. AI 기술을 사용하여 { $firstSite }, { $secondSite } 및 { $thirdSite }에서 쇼핑할 때 리뷰를 분석합니다. <a data-l10n-name="learn_more">더 알아보기</a>
-# Description text for regions where we support three sites. Sites are limited to Amazon, Walmart and Best Buy.
-# Variables:
-#   $firstSite (String) - The first shopping page name
-#   $secondSite (String) - The second shopping page name
-#   $thirdSite (String) - The third shopping page name
-shopping-opt-in-integrated-subtitle-unsupported-site = { -brand-product-name }의 리뷰 검사기는 구매하기 전에 제품 리뷰가 얼마나 신뢰할 수 있는지 확인하는 데 도움이 됩니다. AI 기술을 사용하여 { $firstSite }, { $secondSite } 및 { $thirdSite }에서 쇼핑할 때 리뷰를 분석합니다. <a data-l10n-name="learn_more">더 알아보기</a>
-
-## Messages for callout for users not opted into the sidebar integrated version of Review Checker.
-
-shopping-callout-opt-in-integrated-headline = 이 리뷰들을 신뢰할 수 있습니까?
-# Appears underneath shopping-opt-in-integrated-headline to answer the question 'Can you trust these reviews?'
-shopping-callout-not-opted-in-integrated-paragraph1 = { -brand-product-name }의 리뷰 검사기를 켜서 확인해 보세요. { -fakespot-brand-full-name }에 의해 구동되며 AI 기술을 사용하여 리뷰를 분석합니다.
-shopping-callout-not-opted-in-integrated-paragraph2 = “{ shopping-opt-in-integrated-button }”을 선택하면 { -brand-product-name }의 <a data-l10n-name="privacy_policy">개인정보처리방침</a> 및 { -fakespot-brand-full-name }의 <a data-l10n-name="terms_of_use">이용 약관</a>에 동의하게 됩니다.
-shopping-callout-not-opted-in-integrated-reminder-dismiss-button = 닫기
-shopping-callout-not-opted-in-integrated-reminder-accept-button = 리뷰 검사기 켜기
-shopping-opt-in-integrated-privacy-policy-and-terms-of-use = 리뷰 검사기는 { -fakespot-brand-full-name }에 의해 구동됩니다.  "{ shopping-opt-in-integrated-button }"을 선택하면 { -brand-product-name }의 <a data-l10n-name="privacy_policy">개인정보처리방침</a> 및 { -fakespot-brand-name }의 <a data-l10n-name="terms_of_use">이용 약관</a>에 동의하게 됩니다.
-shopping-opt-in-integrated-button = 리뷰 검사기 사용해보기
-
-## Message strings for Review Checker's empty states.
-
-shopping-empty-state-header = 리뷰 확인 준비 완료
-shopping-empty-state-supported-site = 제품을 보고 { -brand-product-name }가 리뷰가 신뢰할 수 있는지 확인합니다.
-# We show a list of sites supported by Review Checker whenever a user opens the feature in an unsupported site.
-# This string will be displayed above the list of sites. The list will be hardcoded and does not require localization.
-shopping-empty-state-non-supported-site = 리뷰 검사기는 쇼핑할 때 작동합니다:
-
-## Confirm disabling Review Checker for newly opted out users
-
-shopping-integrated-callout-opted-out-title = 리뷰 검사기가 꺼짐
-shopping-integrated-callout-opted-out-subtitle = 다시 켜려면, 사이드바에서 가격표를 선택하고 리뷰 검사기를 켜세요.
-
-## Callout for where to find Review Checker when the sidebar closes
-
-shopping-integrated-callout-sidebar-closed-title = 리뷰 검사기로 돌아가기
-shopping-integrated-callout-sidebar-closed-subtitle = 사이드바에서 가격표를 선택하여 신뢰할 수 있는 제품 리뷰인지 확인하세요.
-shopping-integrated-callout-no-logo-sidebar-closed-subtitle = 사이드바 버튼을 선택하여 제품 리뷰를 신뢰할 수 있는지 확인하세요.
-
-## Strings for a notification card about Review Checker's new position in the sidebar.
-## The card will only appear for users that have the default sidebar position, which is on the left side for non RTL locales.
-## Review Checker in the sidebar is only available to US users at this time, so we can assume that the default position is on the left side.
-
-shopping-integrated-new-position-notification-title = 같은 리뷰 검사기, 새 지점
-shopping-integrated-new-position-notification-move-right-subtitle = 리뷰 검사기와 나머지 { -brand-product-name } 사이드바를 여기에 유지하거나 오른쪽으로 이동하세요. <a data-l10n-name="sidebar_settings">사이드바 설정</a>에서 지금 또는 언제든지 전환할 수 있습니다.
-shopping-integrated-new-position-notification-move-left-subtitle = 리뷰 검사기와 나머지 { -brand-product-name } 사이드바를 여기에 유지하거나 왼쪽으로 이동하세요. <a data-l10n-name="sidebar_settings">사이드바 설정</a>에서 지금 또는 언제든지 전환할 수 있습니다.
-shopping-integrated-new-position-notification-move-right-button = 오른쪽으로 이동
-shopping-integrated-new-position-notification-move-left-button = 왼쪽으로 이동
-shopping-integrated-new-position-notification-dismiss-button = 확인
-
-## Combined setting for auto-open and auto-close.
-
-shopping-settings-auto-open-and-close-toggle =
-    .label = 리뷰 검사기를 자동으로 열고 닫기
-# Description text for regions where we support three sites. Sites are limited to Amazon, Walmart and Best Buy.
-# Variables:
-#   $firstSite (String) - The first shopping page name
-#   $secondSite (String) - The second shopping page name
-#   $thirdSite (String) - The third shopping page name
-shopping-settings-auto-open-and-close-description-three-sites = { $firstSite }, { $secondSite } 및 { $thirdSite }에서 제품을 볼 때 열고, 떠나면 닫음
-# Description text for regions where we support only one site (e.g. currently used in FR/DE with Amazon).
-# Variables:
-#   $currentSite (String) - The current shopping page name
-shopping-settings-auto-open-and-close-description-single-site = { $currentSite }에서 제품을 볼 때 열고, 나갈 때 닫음

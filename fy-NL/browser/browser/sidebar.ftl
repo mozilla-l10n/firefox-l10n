@@ -4,8 +4,6 @@
 
 menu-view-genai-chat =
     .label = AI-chatbot
-menu-view-review-checker =
-    .label = Beoardielingskontrôle
 menu-view-contextual-password-manager =
     .label = Wachtwurden
 sidebar-options-menu-button =
@@ -125,8 +123,6 @@ sidebar-menu-bookmarks-label =
     .label = Blêdwizers
 sidebar-menu-customize-label =
     .label = Sidebalke oanpasse
-sidebar-menu-review-checker-label =
-    .label = Beoardielingskontrôle
 sidebar-menu-contextual-password-manager-label =
     .label = Wachtwurden
 

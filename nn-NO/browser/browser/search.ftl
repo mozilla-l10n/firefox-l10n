@@ -56,13 +56,6 @@ add-engine-window =
     .style = min-width: 32em;
 add-engine-button = Legg til eigendefinert søkjemotor
 add-engine-name = Søkjemotornamn
-add-engine-keyword = Nøkkelord
-add-engine-url = Søkjemotor-adresse, bruk %s i staden for søkeordet
-add-engine-dialog =
-    .buttonlabelaccept = Legg til søkjemotor
-    .buttonaccesskeyaccept = L
-engine-name-exists = Ein søkjemotor med det namnet finst allereie
-engine-keyword-exists = Det finst allereie ein søkjemotor med det søkjeordet
 
 ## The following placeholders are shown in the inputs when adding a new engine.
 

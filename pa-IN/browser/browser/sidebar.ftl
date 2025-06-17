@@ -4,8 +4,6 @@
 
 menu-view-genai-chat =
     .label = AI ਚੈਟਬੋਟ
-menu-view-review-checker =
-    .label = ਰੀਵਿਊ ਚੈਕਰ
 menu-view-contextual-password-manager =
     .label = ਪਾਸਵਰਡ
 sidebar-options-menu-button =
@@ -125,8 +123,6 @@ sidebar-menu-bookmarks-label =
     .label = ਬੁੱਕਮਾਰਕ
 sidebar-menu-customize-label =
     .label = ਬਾਹੀ ਨੂੰ ਕਸਟਮਾਈਜ਼ ਕਰੋ
-sidebar-menu-review-checker-label =
-    .label = ਰੀਵਿਊ ਚੈਕਰ
 sidebar-menu-contextual-password-manager-label =
     .label = ਪਾਸਵਰਡ
 

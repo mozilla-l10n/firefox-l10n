@@ -119,7 +119,6 @@ newtab-menu-show-privacy-info = I nestris patrocinadôrs e la tô riservatece
 newtab-menu-about-fakespot = Informazions su { -fakespot-brand-name }
 # Report is a verb (i.e. report issue with the content).
 newtab-menu-report = Segnale
-newtab-menu-report-content = Segnale chest contignût
 # Context menu option to personalize New Tab recommended stories by blocking a section of stories,
 # e.g. "Sports". "Block" is a verb here.
 newtab-menu-section-block = Bloche

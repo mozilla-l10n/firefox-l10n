@@ -89,9 +89,6 @@ shopping-show-less-button = 顯示更少
 
 shopping-settings-label =
     .label = 設定
-shopping-settings-recommendations-toggle2 =
-    .label = 顯示推薦與贊助內容
-shopping-settings-recommendations-learn-more3 = { -brand-product-name } 不會將您的個人資料與他人分享，這些建議設定不會在網路上偷偷跟蹤您。<a data-l10n-name="review-quality-url">更多資訊</a>
 shopping-settings-recommendations-toggle =
     .label = 在商品評論檢查器中顯示廣告
 shopping-settings-recommendations-learn-more2 = 您會偶而看到相關商品的廣告，我們僅會推薦評論品質可靠的商品。<a data-l10n-name="review-quality-url">了解更多資訊</a>
@@ -118,7 +115,6 @@ shopping-settings-sidebar-enabled-state = 商品評論檢查器<strong>已開啟
 shopping-adjusted-rating-label =
     .label = 調整後評分
 shopping-adjusted-rating-unreliable-reviews = 已移除不可靠的評論
-shopping-adjusted-rating-based-reliable-reviews = 根據可靠評論調整
 
 ## Strings for the review reliability component
 
@@ -137,8 +133,6 @@ shopping-analysis-explainer-learn-more2 = 了解<a data-l10n-name="review-qualit
 # websites, which will be inserted without being translated.
 #  $retailer (String) - capitalized name of the shopping website, for example, "Amazon".
 shopping-analysis-explainer-highlights-description = <strong>重點資訊</strong>是根據過去 80 天中，我們相信是可靠的 { $retailer } 評論所整理出的資訊。
-# Fallback for analysis highlights explainer if the retailer is ever unknown
-shopping-analysis-explainer-highlights-description-unknown-retailer = <strong>重點資訊</strong>是根據過去 80 天中，我們相信是可靠的評論所整理出的資訊。
 shopping-analysis-explainer-review-grading-scale-reliable = 評論可靠。我們相信此商品的評論內容很可能是來自實際客戶所留下真實而中立的評論。
 shopping-analysis-explainer-review-grading-scale-mixed = 我們相信此商品評論混和了可靠與不可靠的評論。
 shopping-analysis-explainer-review-grading-scale-unreliable = 評論不可靠。我們相信此商品的評論內容很可能是由虛假或偏頗的評論者所留下。
@@ -165,7 +159,6 @@ shopping-unanalyzed-product-analyze-button = 檢查評論品質
 
 more-to-consider-ad-label =
     .label = 可參考其他產品
-shopping-sponsored-label = 贊助項目
 ad-by-fakespot = { -fakespot-brand-name } 提供的商品廣告
 
 ## Shopping survey strings.
@@ -186,18 +179,6 @@ shopping-survey-submit-button-label = 送出
 shopping-survey-terms-link = 使用條款
 shopping-survey-thanks =
     .heading = 感謝您的意見回饋！
-
-## Shopping opted-out survey strings
-## Opt-out survey options are displayed as checkboxes and the user can select one or many.
-
-shopping-survey-opted-out-multiselect-label = 請告訴我們為什麼您關閉了商品評論檢查器，選項可多選。
-shopping-survey-thanks-title = 感謝您的意見回饋！
-shopping-survey-opted-out-hard-to-understand = 很難懂
-shopping-survey-opted-out-too-slow = 運作太慢了
-shopping-survey-opted-out-not-accurate = 資訊不精準
-shopping-survey-opted-out-not-helpful = 對我沒有幫助
-shopping-survey-opted-out-check-myself = 我想要自己檢查商品評論
-shopping-survey-opted-out-other = 其他
 
 ## Shopping Feature Callout strings.
 ## "price tag" refers to the price tag icon displayed in the address bar to
@@ -251,76 +232,3 @@ shopping-onboarding-dialog-close-button =
 #   $total (Int) - Total number of pages
 shopping-onboarding-welcome-steps-indicator-label =
     .aria-label = 進度：第 { $current } 步，共 { $total } 步
-
-## Review Checker in Integrated sidebar
-
-# Opt-in message strings for Review Checker when it is integrated into the global sidebar.
-shopping-opt-in-integrated-headline = 購物更放心
-# Description text for regions where we support three sites. Sites are limited to Amazon, Walmart and Best Buy.
-# Variables:
-#   $firstSite (String) - The first shopping page name
-#   $secondSite (String) - The second shopping page name
-#   $thirdSite (String) - The third shopping page name
-shopping-opt-in-integrated-subtitle = 開啟 { -brand-product-name } 商品評論檢查器，讓您在購物前可以確認購物網站上的商品評論有多可靠。商品評論檢查器可透過 AI 技術分析 { $firstSite }、{ $secondSite } 及 { $thirdSite } 上的評論內容。<a data-l10n-name="learn_more">更多資訊</a>
-# Description text for regions where we support three sites. Sites are limited to Amazon, Walmart and Best Buy.
-# Variables:
-#   $firstSite (String) - The first shopping page name
-#   $secondSite (String) - The second shopping page name
-#   $thirdSite (String) - The third shopping page name
-shopping-opt-in-integrated-subtitle-unsupported-site = { -brand-product-name } 商品評論檢查器，可幫助您確認購物網站上的商品評論有多可靠。商品評論檢查器可透過 AI 技術分析 { $firstSite }、{ $secondSite } 及 { $thirdSite } 上的評論內容。<a data-l10n-name="learn_more">更多資訊</a>
-
-## Messages for callout for users not opted into the sidebar integrated version of Review Checker.
-
-shopping-callout-opt-in-integrated-headline = 這些商品評論可信嗎？
-# Appears underneath shopping-opt-in-integrated-headline to answer the question 'Can you trust these reviews?'
-shopping-callout-not-opted-in-integrated-paragraph1 = 開啟 { -brand-product-name } 的商品評論檢查器即可確認。本服務是由 { -fakespot-brand-full-name } 推出，使用 AI 技術分析商品評價。
-shopping-callout-not-opted-in-integrated-paragraph2 = 選擇「{ shopping-opt-in-integrated-button }」，代表您同意 { -brand-product-name } 的<a data-l10n-name="privacy_policy">隱私權公告</a>與 { -fakespot-brand-full-name } 的<a data-l10n-name="terms_of_use">使用條款</a>。
-shopping-callout-not-opted-in-integrated-reminder-dismiss-button = 知道了！
-shopping-callout-not-opted-in-integrated-reminder-accept-button = 開啟商品評論檢查器
-shopping-opt-in-integrated-privacy-policy-and-terms-of-use = 商品評論檢查器是由 { -fakespot-brand-full-name } 提供。選擇「{ shopping-opt-in-integrated-button }」，代表您同意 { -brand-product-name } 的<a data-l10n-name="privacy_policy">隱私權公告</a>與 { -fakespot-brand-name } 的<a data-l10n-name="terms_of_use">使用條款</a>。
-shopping-opt-in-integrated-button = 試用商品評論檢查器
-
-## Message strings for Review Checker's empty states.
-
-shopping-empty-state-header = 已可檢查商品評論
-shopping-empty-state-supported-site = 打開一套商品，{ -brand-product-name } 會為您檢查評論是否可靠。
-# We show a list of sites supported by Review Checker whenever a user opens the feature in an unsupported site.
-# This string will be displayed above the list of sites. The list will be hardcoded and does not require localization.
-shopping-empty-state-non-supported-site = 您在下列網站購物時，可使用商品評論檢查器：
-
-## Confirm disabling Review Checker for newly opted out users
-
-shopping-integrated-callout-opted-out-title = 商品評論檢查器已關閉
-shopping-integrated-callout-opted-out-subtitle = 若要再次開啟，請在側邊欄選擇價格標籤，即可開啟商品評論檢查器。
-
-## Callout for where to find Review Checker when the sidebar closes
-
-shopping-integrated-callout-sidebar-closed-title = 返回商品評論檢查器
-shopping-integrated-callout-sidebar-closed-subtitle = 在側邊欄選擇價格標籤，即可看看商品評論是否可信。
-shopping-integrated-callout-no-logo-sidebar-closed-subtitle = 選擇側邊欄中的按鈕，即可看看商品評論是否可信。
-
-## Strings for a notification card about Review Checker's new position in the sidebar.
-## The card will only appear for users that have the default sidebar position, which is on the left side for non RTL locales.
-## Review Checker in the sidebar is only available to US users at this time, so we can assume that the default position is on the left side.
-
-shopping-integrated-new-position-notification-title = 一樣的商品評論檢查器，全新位置
-shopping-integrated-new-position-notification-move-right-subtitle = 將商品評論檢查器及其他 { -brand-product-name } 側邊欄保留於此處，或移動至右方。可以現在切換，也可以之後隨時再到<a data-l10n-name="sidebar_settings">側邊欄選項</a>切換。
-shopping-integrated-new-position-notification-move-left-subtitle = 將商品評論檢查器及其他 { -brand-product-name } 側邊欄保留於此處，或移動至左方。可以現在切換，也可以之後隨時再到<a data-l10n-name="sidebar_settings">側邊欄選項</a>切換。
-shopping-integrated-new-position-notification-move-right-button = 移到右邊
-shopping-integrated-new-position-notification-move-left-button = 移到左邊
-shopping-integrated-new-position-notification-dismiss-button = 知道了！
-
-## Combined setting for auto-open and auto-close.
-
-shopping-settings-auto-open-and-close-toggle =
-    .label = 自動開啟與關閉商品評論檢查器
-# Description text for regions where we support three sites. Sites are limited to Amazon, Walmart and Best Buy.
-# Variables:
-#   $firstSite (String) - The first shopping page name
-#   $secondSite (String) - The second shopping page name
-#   $thirdSite (String) - The third shopping page name
-shopping-settings-auto-open-and-close-description-three-sites = 當您在 { $firstSite }、{ $secondSite } 或 { $thirdSite } 檢視商品時自動開啟，結束後自動關閉
-# Description text for regions where we support only one site (e.g. currently used in FR/DE with Amazon).
-# Variables:
-#   $currentSite (String) - The current shopping page name
-shopping-settings-auto-open-and-close-description-single-site = 當您在 { $currentSite } 檢視商品時開啟，並在離開時關閉

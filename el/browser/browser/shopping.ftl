@@ -89,9 +89,6 @@ shopping-show-less-button = Εμφάνιση λιγότερων
 
 shopping-settings-label =
     .label = Ρυθμίσεις
-shopping-settings-recommendations-toggle2 =
-    .label = Εμφάνιση προτάσεων και χορηγούμενου περιεχομένου
-shopping-settings-recommendations-learn-more3 = Το { -brand-product-name } δεν κοινοποιεί τα προσωπικά σας δεδομένα, επομένως αυτές οι προτάσεις δεν θα σας ακολουθούν σε όλο το διαδίκτυο. <a data-l10n-name="review-quality-url">Μάθετε περισσότερα</a>
 shopping-settings-recommendations-toggle =
     .label = Εμφάνιση διαφημίσεων στον Έλεγχο κριτικών
 shopping-settings-recommendations-learn-more2 = Θα βλέπετε περιστασιακά διαφημίσεις για σχετικά προϊόντα. Διαφημίζουμε μόνο προϊόντα με αξιόπιστες κριτικές. <a data-l10n-name="review-quality-url">Μάθετε περισσότερα</a>
@@ -118,7 +115,6 @@ shopping-settings-sidebar-enabled-state = Ο Έλεγχος κριτικών ε�
 shopping-adjusted-rating-label =
     .label = Αναπροσαρμοσμένη βαθμολογία
 shopping-adjusted-rating-unreliable-reviews = Οι αναξιόπιστες κριτικές αφαιρέθηκαν
-shopping-adjusted-rating-based-reliable-reviews = Με βάση αξιόπιστες κριτικές
 
 ## Strings for the review reliability component
 
@@ -137,8 +133,6 @@ shopping-analysis-explainer-learn-more2 = Μάθετε περισσότερα σ
 # websites, which will be inserted without being translated.
 #  $retailer (String) - capitalized name of the shopping website, for example, "Amazon".
 shopping-analysis-explainer-highlights-description = Τα <strong>σημαντικά σημεία</strong> προέρχονται από κριτικές για το { $retailer }, οι οποίες γράφτηκαν τις τελευταίες 80 ημέρες και πιστεύουμε ότι είναι αξιόπιστες.
-# Fallback for analysis highlights explainer if the retailer is ever unknown
-shopping-analysis-explainer-highlights-description-unknown-retailer = Τα <strong>σημαντικά σημεία</strong> προέρχονται από κριτικές που γράφτηκαν τις τελευταίες 80 ημέρες και πιστεύουμε ότι είναι αξιόπιστες.
 shopping-analysis-explainer-review-grading-scale-reliable = Αξιόπιστες κριτικές. Πιστεύουμε ότι οι κριτικές προέρχονται πιθανότατα από πραγματικούς πελάτες, που άφησαν ειλικρινείς και αντικειμενικές κριτικές.
 shopping-analysis-explainer-review-grading-scale-mixed = Πιστεύουμε ότι υπάρχει ένας συνδυασμός αξιόπιστων και αναξιόπιστων κριτικών.
 shopping-analysis-explainer-review-grading-scale-unreliable = Αναξιόπιστες κριτικές. Πιστεύουμε ότι οι κριτικές είναι μάλλον ψευδείς ή προέρχονται από άτομα που μεροληπτούν.
@@ -165,7 +159,6 @@ shopping-unanalyzed-product-analyze-button = Έλεγχος ποιότητας �
 
 more-to-consider-ad-label =
     .label = Περισσότερες εναλλακτικές
-shopping-sponsored-label = Χορηγία
 ad-by-fakespot = Διαφήμιση από το { -fakespot-brand-name }
 
 ## Shopping survey strings.
@@ -186,18 +179,6 @@ shopping-survey-submit-button-label = Υποβολή
 shopping-survey-terms-link = Όροι χρήσης
 shopping-survey-thanks =
     .heading = Ευχαριστούμε για τα σχόλιά σας!
-
-## Shopping opted-out survey strings
-## Opt-out survey options are displayed as checkboxes and the user can select one or many.
-
-shopping-survey-opted-out-multiselect-label = Πείτε μας γιατί απενεργοποιήσατε τον Έλεγχο κριτικών. Επιλέξτε πολλαπλούς λόγους εάν χρειάζεται.
-shopping-survey-thanks-title = Ευχαριστούμε για τα σχόλιά σας!
-shopping-survey-opted-out-hard-to-understand = Είναι δύσκολο στην κατανόηση
-shopping-survey-opted-out-too-slow = Είναι πολύ αργό
-shopping-survey-opted-out-not-accurate = Δεν είναι ακριβές
-shopping-survey-opted-out-not-helpful = Δεν μου είναι χρήσιμο
-shopping-survey-opted-out-check-myself = Προτιμώ να ελέγχω τις κριτικές μόνος/-η μου
-shopping-survey-opted-out-other = Άλλο
 
 ## Shopping Feature Callout strings.
 ## "price tag" refers to the price tag icon displayed in the address bar to
@@ -251,76 +232,3 @@ shopping-onboarding-dialog-close-button =
 #   $total (Int) - Total number of pages
 shopping-onboarding-welcome-steps-indicator-label =
     .aria-label = Πρόοδος: βήμα { $current } από { $total }
-
-## Review Checker in Integrated sidebar
-
-# Opt-in message strings for Review Checker when it is integrated into the global sidebar.
-shopping-opt-in-integrated-headline = Αγοράστε με αυτοπεποίθηση
-# Description text for regions where we support three sites. Sites are limited to Amazon, Walmart and Best Buy.
-# Variables:
-#   $firstSite (String) - The first shopping page name
-#   $secondSite (String) - The second shopping page name
-#   $thirdSite (String) - The third shopping page name
-shopping-opt-in-integrated-subtitle = Ενεργοποιήστε τον Έλεγχο κριτικών από το { -brand-product-name } για να δείτε πόσο αξιόπιστες είναι οι κριτικές ενός προϊόντος, πριν το αγοράσετε. Χρησιμοποιεί τεχνολογία τεχνητής νοημοσύνης για την ανάλυση των κριτικών και λειτουργεί όταν κάνετε αγορές από το { $firstSite }, το { $secondSite } και το { $thirdSite }. <a data-l10n-name="learn_more">Μάθετε περισσότερα</a>
-# Description text for regions where we support three sites. Sites are limited to Amazon, Walmart and Best Buy.
-# Variables:
-#   $firstSite (String) - The first shopping page name
-#   $secondSite (String) - The second shopping page name
-#   $thirdSite (String) - The third shopping page name
-shopping-opt-in-integrated-subtitle-unsupported-site = Ο Έλεγχος κριτικών από το { -brand-product-name } σάς βοηθά να μάθετε πόσο αξιόπιστες είναι οι κριτικές ενός προϊόντος, πριν το αγοράσετε. Χρησιμοποιεί τεχνολογία τεχνητής νοημοσύνης για την ανάλυση των κριτικών και λειτουργεί όταν κάνετε αγορές από το { $firstSite }, το { $secondSite } και το { $thirdSite }. <a data-l10n-name="learn_more">Μάθετε περισσότερα</a>
-
-## Messages for callout for users not opted into the sidebar integrated version of Review Checker.
-
-shopping-callout-opt-in-integrated-headline = Μπορείτε να εμπιστευτείτε αυτές τις κριτικές;
-# Appears underneath shopping-opt-in-integrated-headline to answer the question 'Can you trust these reviews?'
-shopping-callout-not-opted-in-integrated-paragraph1 = Ενεργοποιήστε τον Έλεγχο κριτικών από το { -brand-product-name } για να το διαπιστώσετε. Παρέχεται από το { -fakespot-brand-full-name } και χρησιμοποιεί τεχνολογία τεχνητής νοημοσύνης για την ανάλυση των κριτικών.
-shopping-callout-not-opted-in-integrated-paragraph2 = Επιλέγοντας «{ shopping-opt-in-integrated-button }», συμφωνείτε με τη <a data-l10n-name="privacy_policy">Σημείωση απορρήτου</a> του { -brand-product-name } και τους <a data-l10n-name="terms_of_use">Όρους χρήσης</a> του { -fakespot-brand-full-name }.
-shopping-callout-not-opted-in-integrated-reminder-dismiss-button = Απόρριψη
-shopping-callout-not-opted-in-integrated-reminder-accept-button = Ενεργοποίηση Ελέγχου κριτικών
-shopping-opt-in-integrated-privacy-policy-and-terms-of-use = Ο Έλεγχος κριτικών λειτουργεί με την υποστήριξη του { -fakespot-brand-full-name }. Επιλέγοντας «{ shopping-opt-in-integrated-button }» συμφωνείτε με την <a data-l10n-name="privacy_policy">σημείωση απορρήτου</a> του { -brand-product-name } και με τους <a data-l10n-name="terms_of_use">όρους χρήσης</a> του { -fakespot-brand-name }.
-shopping-opt-in-integrated-button = Δοκιμή Ελέγχου κριτικών
-
-## Message strings for Review Checker's empty states.
-
-shopping-empty-state-header = Ο έλεγχος κριτικών είναι έτοιμος
-shopping-empty-state-supported-site = Δείτε ένα προϊόν και το { -brand-product-name } θα ελέγξει αν οι κριτικές είναι αξιόπιστες.
-# We show a list of sites supported by Review Checker whenever a user opens the feature in an unsupported site.
-# This string will be displayed above the list of sites. The list will be hardcoded and does not require localization.
-shopping-empty-state-non-supported-site = Ο Έλεγχος κριτικών λειτουργεί όταν κάνετε αγορές στα:
-
-## Confirm disabling Review Checker for newly opted out users
-
-shopping-integrated-callout-opted-out-title = Ο Έλεγχος κριτικών είναι ανενεργός
-shopping-integrated-callout-opted-out-subtitle = Για να τον ενεργοποιήσετε ξανά, επιλέξτε το εικονίδιο-καρτελάκι στην πλαϊνή γραμμή και ενεργοποιήστε τον Έλεγχο κριτικών.
-
-## Callout for where to find Review Checker when the sidebar closes
-
-shopping-integrated-callout-sidebar-closed-title = Επιστροφή στον Έλεγχο κριτικών
-shopping-integrated-callout-sidebar-closed-subtitle = Επιλέξτε το εικονίδιο-καρτελάκι στην πλαϊνή γραμμή για να δείτε αν μπορείτε να εμπιστευτείτε τις κριτικές ενός προϊόντος.
-shopping-integrated-callout-no-logo-sidebar-closed-subtitle = Επιλέξτε το κουμπί της πλαϊνής γραμμής για να δείτε αν μπορείτε να εμπιστευτείτε τις κριτικές ενός προϊόντος.
-
-## Strings for a notification card about Review Checker's new position in the sidebar.
-## The card will only appear for users that have the default sidebar position, which is on the left side for non RTL locales.
-## Review Checker in the sidebar is only available to US users at this time, so we can assume that the default position is on the left side.
-
-shopping-integrated-new-position-notification-title = Ο ίδιος Έλεγχος κριτικών, σε νέο μέρος
-shopping-integrated-new-position-notification-move-right-subtitle = Διατηρήστε τον Έλεγχο κριτικών και τα υπόλοιπα εργαλεία της πλαϊνής γραμμής του { -brand-product-name } εδώ ή μετακινήστε τα στα δεξιά. Αλλάξτε τη θέση τώρα ή ανά πάσα στιγμή στις <a data-l10n-name="sidebar_settings">ρυθμίσεις της πλαϊνής γραμμής</a>.
-shopping-integrated-new-position-notification-move-left-subtitle = Διατηρήστε τον Έλεγχο κριτικών και τα υπόλοιπα εργαλεία της πλαϊνής γραμμής του { -brand-product-name } εδώ ή μετακινήστε τα στα αριστερά. Αλλάξτε τη θέση τώρα ή ανά πάσα στιγμή στις <a data-l10n-name="sidebar_settings">ρυθμίσεις της πλαϊνής γραμμής</a>.
-shopping-integrated-new-position-notification-move-right-button = Μετακίνηση δεξιά
-shopping-integrated-new-position-notification-move-left-button = Μετακίνηση αριστερά
-shopping-integrated-new-position-notification-dismiss-button = Το κατάλαβα
-
-## Combined setting for auto-open and auto-close.
-
-shopping-settings-auto-open-and-close-toggle =
-    .label = Αυτόματο άνοιγμα και κλείσιμο Ελέγχου κριτικών
-# Description text for regions where we support three sites. Sites are limited to Amazon, Walmart and Best Buy.
-# Variables:
-#   $firstSite (String) - The first shopping page name
-#   $secondSite (String) - The second shopping page name
-#   $thirdSite (String) - The third shopping page name
-shopping-settings-auto-open-and-close-description-three-sites = Ανοίγει όταν βλέπετε προϊόντα στα { $firstSite }, { $secondSite } και { $thirdSite } και κλείνει όταν αποχωρείτε
-# Description text for regions where we support only one site (e.g. currently used in FR/DE with Amazon).
-# Variables:
-#   $currentSite (String) - The current shopping page name
-shopping-settings-auto-open-and-close-description-single-site = Ανοίγει όταν βλέπετε προϊόντα στο { $currentSite } και κλείνει όταν αποχωρείτε

@@ -21,9 +21,6 @@ cert-error-trust-symantec = אישורים שהונפקו על־ידי GeoTrust,
 # Variables:
 #   $hostname (string) - Hostname of the website with cert error.
 cert-error-trust-certificate-transparency = ‏{ -brand-short-name } לא נותן אמון ב־{ $hostname } מכיוון שהוא לא הוכיח שהוא עומד בדרישות השקיפות של אישורים ציבוריים.
-# Variables:
-#   $hostname (string) - Hostname of the website with cert error.
-cert-error-revoked = אתרים מוכיחים את זהותם באמצעות אישורי אבטחה. { -brand-short-name } לא נותן אמון ב־{ $hostname } מכיוון שהוא משתמש באישור אבטחה שבוטל.
 cert-error-untrusted-default = האישור לא מגיע ממקור מהימן.
 # Variables:
 #   $hostname (string) - Hostname of the website with cert error.

@@ -89,9 +89,6 @@ shopping-show-less-button = მოკლედ
 
 shopping-settings-label =
     .label = პარამეტრები
-shopping-settings-recommendations-toggle2 =
-    .label = დამკვეთების შეთავაზებებისა და მასალის ჩვენება
-shopping-settings-recommendations-learn-more3 = { -brand-product-name } არ აზიარებს თქვენს პირად მონაცემებს, ასე რომ ეს შემოთავაზებები არ გამოგყვებათ სხვა გვერდებზეც. <a data-l10n-name="review-quality-url">ვრცლად</a>
 shopping-settings-recommendations-toggle =
     .label = რეკლამების ჩვენება მიმოხილვის შემმოწმებელში
 shopping-settings-recommendations-learn-more2 = დროდადრო იხილავთ რეკლამებს გასაყიდი ნაწარმის შესაბამისად. მხოლოდ საიმედო მიმოხილვების მქონეს შემოგთავაზებთ. <a data-l10n-name="review-quality-url">ვრცლად</a>
@@ -118,7 +115,6 @@ shopping-settings-sidebar-enabled-state = მიმოხილვის შე�
 shopping-adjusted-rating-label =
     .label = შესწორებული შეფასება
 shopping-adjusted-rating-unreliable-reviews = არასანდო მიმოხილვების გამოკლებით
-shopping-adjusted-rating-based-reliable-reviews = სანდო მიმოხილვების მიხედვით
 
 ## Strings for the review reliability component
 
@@ -137,8 +133,6 @@ shopping-analysis-explainer-learn-more2 = იხილეთ ვრცლად,
 # websites, which will be inserted without being translated.
 #  $retailer (String) - capitalized name of the shopping website, for example, "Amazon".
 shopping-analysis-explainer-highlights-description = <strong>გამოსარჩევი</strong> ბოლო 80 დღეში { $retailer }-ის სანდოდ მიჩნეული მიმოხილვებიდან.
-# Fallback for analysis highlights explainer if the retailer is ever unknown
-shopping-analysis-explainer-highlights-description-unknown-retailer = <strong>გამოსარჩევი</strong> ბოლო 80 დღეში სანდოდ მიჩნეული მიმოხილვებიდან.
 shopping-analysis-explainer-review-grading-scale-reliable = სანდოა მიმოხილვები. მიგვაჩნია, რომ ეს მიმოხილვები მეტწილად ნამდვილი მომხმარებლების დატოვებულია პატიოსნად და მიუკერძოებლად.
 shopping-analysis-explainer-review-grading-scale-mixed = მიგვაჩნია, რომ შერეულადაა სანდო და არასანდო მიმოხილვები.
 shopping-analysis-explainer-review-grading-scale-unreliable = არასანდოა მიმოხილვები. მიგვაჩნია, რომ ეს მიმოხილვები მეტწილად ყალბი ან მიკერძოებული მიმომხილველებისგანაა.
@@ -165,7 +159,6 @@ shopping-unanalyzed-product-analyze-button = მიმოხილვის ხ�
 
 more-to-consider-ad-label =
     .label = სხვა მსგავსი
-shopping-sponsored-label = დამკვეთებისგან
 ad-by-fakespot = რეკლამა – { -fakespot-brand-name }
 
 ## Shopping survey strings.
@@ -186,18 +179,6 @@ shopping-survey-submit-button-label = გაგზავნა
 shopping-survey-terms-link = გამოყენების პირობები
 shopping-survey-thanks =
     .heading = გმადლობთ გამოხმაურებისთვის!
-
-## Shopping opted-out survey strings
-## Opt-out survey options are displayed as checkboxes and the user can select one or many.
-
-shopping-survey-opted-out-multiselect-label = გთხოვთ, გვაცნობოთ, რატომ გათიშეთ მიმოხილვის შემმოწმებელი. თუ საჭიროა, რამდენიმე პასუხი მიუთითეთ.
-shopping-survey-thanks-title = გმადლობთ გამოხმაურებისთვის!
-shopping-survey-opted-out-hard-to-understand = ძნელად გასაგებია
-shopping-survey-opted-out-too-slow = ზედმეტად ნელია
-shopping-survey-opted-out-not-accurate = არაზუსტია
-shopping-survey-opted-out-not-helpful = არ გამომადგა
-shopping-survey-opted-out-check-myself = მირჩევნია თავად გადავამოწმო მიმოხივლები
-shopping-survey-opted-out-other = სხვა
 
 ## Shopping Feature Callout strings.
 ## "price tag" refers to the price tag icon displayed in the address bar to
@@ -251,76 +232,3 @@ shopping-onboarding-dialog-close-button =
 #   $total (Int) - Total number of pages
 shopping-onboarding-welcome-steps-indicator-label =
     .aria-label = წინსვლა: ნაბიჯი { $current }, სულ { $total }
-
-## Review Checker in Integrated sidebar
-
-# Opt-in message strings for Review Checker when it is integrated into the global sidebar.
-shopping-opt-in-integrated-headline = შეიძინეთ თავდაჯერებულად
-# Description text for regions where we support three sites. Sites are limited to Amazon, Walmart and Best Buy.
-# Variables:
-#   $firstSite (String) - The first shopping page name
-#   $secondSite (String) - The second shopping page name
-#   $thirdSite (String) - The third shopping page name
-shopping-opt-in-integrated-subtitle = ჩართეთ მიმოხილვების შემმოწმებელი, რომელსაც { -brand-product-name } გთავაზობთ, რომ შეძენამდე გაარკვიოთ, რამდენად სანდოა ნაწარმის მიმოხილვები. იყენებს ხელოვნური ინტელექტის საშუალებებს მიმოხილვების გასარჩევად და მუშაობს, როცა საყიდლებისთვის გამოიყენება { $firstSite }, { $secondSite } და { $thirdSite }. <a data-l10n-name="learn_more">იხილეთ ვრცლად</a>
-# Description text for regions where we support three sites. Sites are limited to Amazon, Walmart and Best Buy.
-# Variables:
-#   $firstSite (String) - The first shopping page name
-#   $secondSite (String) - The second shopping page name
-#   $thirdSite (String) - The third shopping page name
-shopping-opt-in-integrated-subtitle-unsupported-site = მიმოხილვების შემმოწმებელი, რომელსაც { -brand-product-name } გთავაზობთ, გეხმარებათ გაარკვიოთ, რამდენად სანდოა შესაძენი ნაწარმის მიმოხილვები. იყენებს ხელოვნური ინტელექტის საშუალებებს მიმოხილვების გასარჩევად და მუშაობს, როცა საყიდლებისთვის გამოიყენება { $firstSite }, { $secondSite } და { $thirdSite }. <a data-l10n-name="learn_more">იხილეთ ვრცლად</a>
-
-## Messages for callout for users not opted into the sidebar integrated version of Review Checker.
-
-shopping-callout-opt-in-integrated-headline = შეგიძლიათ ენდოთ ამ მიმოხილვებს?
-# Appears underneath shopping-opt-in-integrated-headline to answer the question 'Can you trust these reviews?'
-shopping-callout-not-opted-in-integrated-paragraph1 = ჩართეთ მიმოხილვების შემმოწმებელი, რომელსაც გთავაზობთ { -brand-product-name } და გაარკვიეთ. მის მუშაობას უზრუნველყოფს { -fakespot-brand-full-name } და იყენებს ხელოვნური ინტელექტის საშუალებებს მიმოხილვების გასარჩევად.
-shopping-callout-not-opted-in-integrated-paragraph2 = თუ მზად ხართ აირჩიოთ „{ shopping-opt-in-integrated-button }“, ამით ეთანხმებით <a data-l10n-name="privacy_policy">პირადულობის განაცხადს</a>, რომელსაც ადგენს { -brand-product-name } და <a data-l10n-name="terms_of_use">გამოყენების პირობებს</a>, რომელსაც გთავაზობთ { -fakespot-brand-full-name }.
-shopping-callout-not-opted-in-integrated-reminder-dismiss-button = აცილება
-shopping-callout-not-opted-in-integrated-reminder-accept-button = ჩართეთ მიმოხილვის შემმოწმებელი
-shopping-opt-in-integrated-privacy-policy-and-terms-of-use = მიმოხილვების შემმოწმებლის მუშაობას უზრუნველყოფს { -fakespot-brand-full-name }. თუ მზად ხართ აირჩიოთ „{ shopping-opt-in-integrated-button }“, ამით ეთანხმებით <a data-l10n-name="privacy_policy">პირადულობის განაცხადს</a>, რომელსაც ადგენს { -brand-product-name } და <a data-l10n-name="terms_of_use">გამოყენების პირობებს</a>, რომელსაც გთავაზობთ { -fakespot-brand-name }.
-shopping-opt-in-integrated-button = გამოცადეთ მიმოხილვის შემმოწმებელი
-
-## Message strings for Review Checker's empty states.
-
-shopping-empty-state-header = მზადაა მიმოხილვების შესამოწმებლად
-shopping-empty-state-supported-site = დაათვალიერეთ საყიდლები და { -brand-product-name } გადაამოწმებს მიმოხილვების სანდოობას.
-# We show a list of sites supported by Review Checker whenever a user opens the feature in an unsupported site.
-# This string will be displayed above the list of sites. The list will be hardcoded and does not require localization.
-shopping-empty-state-non-supported-site = მიმოხილვის შემმოწმებელი იმუშავებს, როცა საყიდლებისთვის გახსნილია:
-
-## Confirm disabling Review Checker for newly opted out users
-
-shopping-integrated-callout-opted-out-title = მიმოხილვის შემმოწმებელი გამორთულია
-shopping-integrated-callout-opted-out-subtitle = დასაბრუნებლად აირჩიეთ ფასის ნიშანი გვერდით ზოლზე და ჩართეთ მიმოხილვის შემმოწმებელი.
-
-## Callout for where to find Review Checker when the sidebar closes
-
-shopping-integrated-callout-sidebar-closed-title = დაბრუნება მიმოხილვის შემმოწმებელზე
-shopping-integrated-callout-sidebar-closed-subtitle = აირჩიეთ ფასის ნიშანი გვერდით ზოლში, რომ ნახოთ, სანდოა თუ არა ნაწარმის მიმოხილვები.
-shopping-integrated-callout-no-logo-sidebar-closed-subtitle = აირჩიეთ გვერდით ზოლის ღილაკი, რომ ნახოთ, სანდოა თუ არა ნაწარმის მიმოხილვები.
-
-## Strings for a notification card about Review Checker's new position in the sidebar.
-## The card will only appear for users that have the default sidebar position, which is on the left side for non RTL locales.
-## Review Checker in the sidebar is only available to US users at this time, so we can assume that the default position is on the left side.
-
-shopping-integrated-new-position-notification-title = მიმოხილვის ნაცნობი შემმოწმებელი ახალ ადგილას
-shopping-integrated-new-position-notification-move-right-subtitle = დატოვეთ მიმოხილვების შემმოწმებელი და მთლიანად { -brand-product-name } გვერდითი ზოლი აქ — ან გადაიტანეთ მარჯვნივ. შეგიძლიათ ახლავე ან ნებისმიერ დროს <a data-l10n-name="sidebar_settings">გვერდითი ზოლის პარამეტრებიდან</a>.
-shopping-integrated-new-position-notification-move-left-subtitle = დატოვეთ მიმოხილვების შემმოწმებელი და მთლიანად { -brand-product-name } გვერდითი ზოლი აქ — ან გადაიტანეთ მარცხნივ. შეგიძლიათ ახლავე ან ნებისმიერ დროს <a data-l10n-name="sidebar_settings">გვერდითი ზოლის პარამეტრებიდან</a>.
-shopping-integrated-new-position-notification-move-right-button = მარჯვნივ გადატანა
-shopping-integrated-new-position-notification-move-left-button = მარცხნივ გადატანა
-shopping-integrated-new-position-notification-dismiss-button = გასაგებია
-
-## Combined setting for auto-open and auto-close.
-
-shopping-settings-auto-open-and-close-toggle =
-    .label = მიმოხილვების შემმოწმებლის თავისით გახსნა და დახურვა
-# Description text for regions where we support three sites. Sites are limited to Amazon, Walmart and Best Buy.
-# Variables:
-#   $firstSite (String) - The first shopping page name
-#   $secondSite (String) - The second shopping page name
-#   $thirdSite (String) - The third shopping page name
-shopping-settings-auto-open-and-close-description-three-sites = გაიხსნება, როცა საყიდლებისთვის გამოიყენება { $firstSite }, { $secondSite } და { $thirdSite }, ხოლო დაიხურება მათი დატოვებისთანავე
-# Description text for regions where we support only one site (e.g. currently used in FR/DE with Amazon).
-# Variables:
-#   $currentSite (String) - The current shopping page name
-shopping-settings-auto-open-and-close-description-single-site = გაიხსნება, როცა საყიდლებისთვის გამოიყენება { $currentSite } და დაიხურება დატოვებისთანავე

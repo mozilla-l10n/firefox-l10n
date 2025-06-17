@@ -21,9 +21,6 @@ cert-error-trust-symantec = GeoTrust, RapidSSL, Symantec, Thawte ve VeriSign tar
 # Variables:
 #   $hostname (string) - Hostname of the website with cert error.
 cert-error-trust-certificate-transparency = { -brand-short-name }, genel sertifika şeffaflığı gereksinimlerini karşıladığını kanıtlayamadığı için { $hostname } sitesine güvenmiyor.
-# Variables:
-#   $hostname (string) - Hostname of the website with cert error.
-cert-error-revoked = Web siteleri, kimliklerini kanıtlamak için sertifikaları kullanır. { -brand-short-name }, iptal edilmiş bir sertifika kullandığı için { $hostname } sitesine güvenmiyor.
 cert-error-untrusted-default = Sertifika güvenilir bir kaynaktan gelmiyor.
 # Variables:
 #   $hostname (string) - Hostname of the website with cert error.

@@ -51,11 +51,6 @@ add-engine-window =
     .style = min-width: 38em;
 add-engine-button = Cuir einnsean gnàthaichte ris
 add-engine-name = Ainm an einnsein-luirg
-add-engine-url = URL an einnsein, cleachd %s an àite na h-abairt-luirg
-add-engine-dialog =
-    .buttonlabelaccept = Cuir einnsean ris
-    .buttonaccesskeyaccept = e
-engine-name-exists = Tha einnsean ann mu thràth air a bheil an t-ainm seo
 
 ## The following placeholders are shown in the inputs when adding a new engine.
 

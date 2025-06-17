@@ -62,8 +62,6 @@ sidebar-menu-bookmarks-label =
     .label = Sinedoù
 sidebar-menu-customize-label =
     .label = Personelaat ar varrenn gostez
-sidebar-menu-review-checker-label =
-    .label = Gwirier alioù
 
 ## Tooltips for sidebar menu items.
 

@@ -4,8 +4,6 @@
 
 menu-view-genai-chat =
     .label = Chatbot IA
-menu-view-review-checker =
-    .label = Verificaziun da recensiuns
 menu-view-contextual-password-manager =
     .label = Pleds-clav
 sidebar-options-menu-button =
@@ -108,8 +106,6 @@ sidebar-menu-bookmarks-label =
     .label = Segnapaginas
 sidebar-menu-customize-label =
     .label = Persunalisar la trav laterala
-sidebar-menu-review-checker-label =
-    .label = Verificaziun da recensiuns
 sidebar-menu-contextual-password-manager-label =
     .label = Pleds-clav
 

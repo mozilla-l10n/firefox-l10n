@@ -64,13 +64,6 @@ add-engine-keyword2 = Genvej (valgfrit)
 # POST and GET refer to the HTTP methods.
 add-engine-post-data = POST-data med %s i stedet for søgeterm (hvis feltet er tomt, anvendes GET)
 add-engine-suggest-url = URL til forslag med %s i stedet for søgeterm (valgfrit)
-add-engine-keyword = Genvej
-add-engine-url = URL til søgetjeneste, brug %s til at repræsentere søgestrengen
-add-engine-dialog =
-    .buttonlabelaccept = Tilføj søgetjeneste
-    .buttonaccesskeyaccept = T
-engine-name-exists = Der eksisterer allerede en søgetjeneste med dette navn
-engine-keyword-exists = Der eksisterer allerede en søgetjeneste med denne genvej
 
 ## The following placeholders are shown in the inputs when adding a new engine.
 

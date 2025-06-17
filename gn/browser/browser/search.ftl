@@ -63,13 +63,6 @@ add-engine-keyword2 = Ñe’ẽ karaku (eipotárõ)
 # POST and GET refer to the HTTP methods.
 add-engine-post-data = POST mba’ekuaarã %s ndive hekaha porurekorãngue (eheja nandi GET-pe)
 add-engine-suggest-url = URL ñemoñe’ẽ %s ndive hekaha porurekorãngue (eipotáramo)
-add-engine-keyword = Ñe’ẽñemi
-add-engine-url = Hekaha URL, eiporu %s ayvureko ehekaséva rendápe
-add-engine-dialog =
-    .buttonlabelaccept = Embojuaju Jehekaha
-    .buttonaccesskeyaccept = A
-engine-name-exists = Oĩma jehekaha ko térape jehaipyre
-engine-keyword-exists = Oĩma jehekaha hérava ko ñe’ẽñemícha
 
 ## The following placeholders are shown in the inputs when adding a new engine.
 

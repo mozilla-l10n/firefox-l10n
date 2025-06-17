@@ -49,11 +49,6 @@ add-engine-window =
     .style = min-width: 32em;
 add-engine-button = Titz'aqatisäx Ichinan Kanob'äl
 add-engine-name = Rub'i' ri kanob'äl
-add-engine-url = URL richin kanob'äl, tawokisaj %s pa ruk'exel ri tzij nakanoj
-add-engine-dialog =
-    .buttonlabelaccept = Titz'aqatisäx Kanob'äl
-    .buttonaccesskeyaccept = t
-engine-name-exists = K'o chik jun kanob'äl ke ri' rub'i'
 
 ## The following placeholders are shown in the inputs when adding a new engine.
 

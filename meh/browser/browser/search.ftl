@@ -45,11 +45,6 @@ add-engine-window =
     .style = min-width: 32em;
 add-engine-button = Chisó iin ka̱a̱ nánuku kuvi noo'o ni'i
 add-engine-name = Sivɨ ka̱a̱ nánuku
-add-engine-url = URL ka̱a̱, ni'i %s je ntu ni'i tu'un nánuku
-add-engine-dialog =
-    .buttonlabelaccept = Chisó ka̱a̱ nánuku
-    .buttonaccesskeyaccept = A
-engine-name-exists = A íyo iin ka̱a̱ nánuku ji sivɨ a tajinu
 
 ## The following placeholders are shown in the inputs when adding a new engine.
 

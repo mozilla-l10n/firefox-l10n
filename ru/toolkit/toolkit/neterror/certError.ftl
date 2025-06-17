@@ -21,9 +21,6 @@ cert-error-trust-symantec = Сертификаты, выпущенные GeoTrus
 # Variables:
 #   $hostname (string) - Hostname of the website with cert error.
 cert-error-trust-certificate-transparency = { -brand-short-name } не доверяет { $hostname }, потому что он не смог подтвердить, что он соответствует требованиям прозрачности публичных сертификатов.
-# Variables:
-#   $hostname (string) - Hostname of the website with cert error.
-cert-error-revoked = Веб-сайты подтверждают свою подлинность с помощью сертификатов. { -brand-short-name } не доверяет { $hostname }, потому что он использует сертификат, который был отозван.
 cert-error-untrusted-default = К источнику, издавшему сертификат, нет доверия.
 # Variables:
 #   $hostname (string) - Hostname of the website with cert error.

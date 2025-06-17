@@ -90,13 +90,6 @@ add-engine-keyword2 = Klíčové slovo (volitelné)
 # POST and GET refer to the HTTP methods.
 add-engine-post-data = POST data s %s na místě vyhledávaného výrazu (ponechte prázdné pro GET)
 add-engine-suggest-url = URL pro návrhy s %s na místě hledaného výrazu (volitelné)
-add-engine-keyword = Klíčové slovo
-add-engine-url = URL vyhledávače, dotaz nahraďte „%s“
-add-engine-dialog =
-    .buttonlabelaccept = Přidat vyhledávač
-    .buttonaccesskeyaccept = P
-engine-name-exists = Vyhledávač s tímto názvem už máte nastavený
-engine-keyword-exists = Vyhledávač s tímto klíčovým slovem již existuje
 
 ## The following placeholders are shown in the inputs when adding a new engine.
 

@@ -4,8 +4,6 @@
 
 menu-view-genai-chat =
     .label = แชทบอต AI
-menu-view-review-checker =
-    .label = เครื่องมือตรวจสอบบทวิจารณ์
 menu-view-contextual-password-manager =
     .label = รหัสผ่าน
 sidebar-options-menu-button =
@@ -118,8 +116,6 @@ sidebar-menu-bookmarks-label =
     .label = ที่คั่นหน้า
 sidebar-menu-customize-label =
     .label = ปรับแต่งแถบข้าง
-sidebar-menu-review-checker-label =
-    .label = เครื่องมือตรวจสอบบทวิจารณ์
 sidebar-menu-contextual-password-manager-label =
     .label = รหัสผ่าน
 

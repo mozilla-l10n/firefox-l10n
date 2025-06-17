@@ -64,13 +64,6 @@ add-engine-keyword2 = Калимаи калидӣ (интихобӣ)
 # POST and GET refer to the HTTP methods.
 add-engine-post-data = Маълумоти «POST» бо «%s» дар ҷойи вожаи ҷустуҷӯӣ (барои «GET» холӣ монед)
 add-engine-suggest-url = Нишонии «URL»-ро бо «%s» дар ҷойи вожаи ҷустуҷӯӣ пешниҳод мекунад (интихобӣ)
-add-engine-keyword = Калимаи калидӣ
-add-engine-url = Нишонии URL-и низоми ҷустуҷӯӣ, ба ҷойи вожаи ҷустуҷӯӣ аз %s истифода баред
-add-engine-dialog =
-    .buttonlabelaccept = Илова кардани низоми ҷустуҷӯӣ
-    .buttonaccesskeyaccept = И
-engine-name-exists = Низоми ҷустуҷӯӣ бо чунин ном аллакай вуҷуд дорад
-engine-keyword-exists = Низоми ҷустуҷӯӣ бо чунин калимаи калидӣ аллакай вуҷуд дорад
 
 ## The following placeholders are shown in the inputs when adding a new engine.
 

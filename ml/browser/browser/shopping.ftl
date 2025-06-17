@@ -64,7 +64,6 @@ shopping-settings-label =
 
 more-to-consider-ad-label =
     .label = പരിഗണിക്കാൻ കൂടുതൽ
-shopping-sponsored-label = പണം കൊണ്ടു് പ്രചരിപ്പിച്ചതു്
 ad-by-fakespot = { -fakespot-brand-name }-യുടെ പരസ്യം
 
 ## Shopping survey strings.
@@ -83,13 +82,6 @@ shopping-survey-submit-button-label = സമൎപ്പിക്കുക
 shopping-survey-terms-link = ഉപയോഗനിബന്ധനകള്‍
 shopping-survey-thanks =
     .heading = താങ്കളുടെ പ്രതികരണത്തിനു് നന്ദി
-
-## Shopping opted-out survey strings
-## Opt-out survey options are displayed as checkboxes and the user can select one or many.
-
-shopping-survey-thanks-title = താങ്കളുടെ പ്രതികരണത്തിനു് നന്ദി
-shopping-survey-opted-out-hard-to-understand = മനസ്സിലാക്കാൻ എളുപ്പമല്ല
-shopping-survey-opted-out-other = മറ്റുള്ളവ
 
 ## Shopping Feature Callout strings.
 ## "price tag" refers to the price tag icon displayed in the address bar to
@@ -115,32 +107,3 @@ shopping-onboarding-dialog-close-button =
 #   $total (Int) - Total number of pages
 shopping-onboarding-welcome-steps-indicator-label =
     .aria-label = മുന്നേറ്റം: { $total }-ൽ { $current }-ആം പടി
-
-## Review Checker in Integrated sidebar
-
-# Opt-in message strings for Review Checker when it is integrated into the global sidebar.
-shopping-opt-in-integrated-headline = തീൎച്ചയോടു് വാങ്ങുക
-
-## Messages for callout for users not opted into the sidebar integrated version of Review Checker.
-
-shopping-callout-not-opted-in-integrated-reminder-dismiss-button = കളയുക
-
-## Message strings for Review Checker's empty states.
-
-
-## Confirm disabling Review Checker for newly opted out users
-
-
-## Callout for where to find Review Checker when the sidebar closes
-
-
-## Strings for a notification card about Review Checker's new position in the sidebar.
-## The card will only appear for users that have the default sidebar position, which is on the left side for non RTL locales.
-## Review Checker in the sidebar is only available to US users at this time, so we can assume that the default position is on the left side.
-
-shopping-integrated-new-position-notification-move-right-button = വലത്തോട്ടു് നീക്കുക
-shopping-integrated-new-position-notification-move-left-button = ഇടത്തോട്ടു് നീക്കുക
-shopping-integrated-new-position-notification-dismiss-button = പിടി കിട്ടി
-
-## Combined setting for auto-open and auto-close.
-

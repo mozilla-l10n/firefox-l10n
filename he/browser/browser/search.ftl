@@ -64,13 +64,6 @@ add-engine-keyword2 = מילת מפתח (אופציונלי)
 # POST and GET refer to the HTTP methods.
 add-engine-post-data = נתוני POST עם ‎%s במקום מונח החיפוש (יש להשאיר ריק עבור GET)
 add-engine-suggest-url = כתובת אתר להצעות עם ‎%s במקום מונח החיפוש (אופציונלי)
-add-engine-keyword = מילת מפתח
-add-engine-url = כתובת האתר של המנוע, יש להשתמש ב־‎%s במקום מונח החיפוש
-add-engine-dialog =
-    .buttonlabelaccept = הוספת מנוע
-    .buttonaccesskeyaccept = ה
-engine-name-exists = כבר קיים מנוע עם שם זה
-engine-keyword-exists = כבר קיים מנוע עם מילת מפתח זו
 
 ## The following placeholders are shown in the inputs when adding a new engine.
 

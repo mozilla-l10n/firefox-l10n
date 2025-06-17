@@ -64,13 +64,6 @@ add-engine-keyword2 = Peraule clâf (facoltative)
 # POST and GET refer to the HTTP methods.
 add-engine-post-data = Dâts POST cun %s al puest dal tiermin di cirî (lasse vueit par GET)
 add-engine-suggest-url = URL pai sugjeriments cun %s al puest dal tiermin di cirî (facoltatîf)
-add-engine-keyword = Peraule clâf
-add-engine-url = URL dal motôr, dopre %s al puest dal tiermin di cirî
-add-engine-dialog =
-    .buttonlabelaccept = Zonte Motôr
-    .buttonaccesskeyaccept = Z
-engine-name-exists = Al esist za un motôr cun chel non
-engine-keyword-exists = Al esist bielzà un motôr di ricercje cun chê peraule clâf
 
 ## The following placeholders are shown in the inputs when adding a new engine.
 

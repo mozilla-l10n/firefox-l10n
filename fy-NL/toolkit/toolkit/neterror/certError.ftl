@@ -21,9 +21,6 @@ cert-error-trust-symantec = Sertifikaten dy’t troch GeoTrust, RapidSSL, Symant
 # Variables:
 #   $hostname (string) - Hostname of the website with cert error.
 cert-error-trust-certificate-transparency = { -brand-short-name } fertrout { $hostname } net, omdat it net bewize koe dat it foldocht oan easken foar iepenbiere sertifikaattransparânsje.
-# Variables:
-#   $hostname (string) - Hostname of the website with cert error.
-cert-error-revoked = Websites bewize harren identiteit fia sertifikaten. { -brand-short-name } fertrout { $hostname } net, omdat it in sertifikaat brûkt dat ynlutsen is.
 cert-error-untrusted-default = It sertifikaat komt net fan in fertroude boarne.
 # Variables:
 #   $hostname (string) - Hostname of the website with cert error.

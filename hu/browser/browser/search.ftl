@@ -64,13 +64,6 @@ add-engine-keyword2 = Kulcsszó (nem kötelező)
 # POST and GET refer to the HTTP methods.
 add-engine-post-data = POST adatok, %s jelöli a keresőkifejezés helyét (GET esetén hagyja üresen)
 add-engine-suggest-url = Javaslati webcím, amelyben %s jelöli a keresőkifejezés helyét (nem kötelező)
-add-engine-keyword = Kulcsszó
-add-engine-url = Keresőszolgáltatás webcíme, írja a %s szöveget a keresőkifejezés helyére
-add-engine-dialog =
-    .buttonlabelaccept = Keresőszolgáltatás hozzáadása
-    .buttonaccesskeyaccept = a
-engine-name-exists = Már létezik ilyen nevű keresőszolgáltatás
-engine-keyword-exists = Már létezik keresőszolgáltatás ezzel a kulcsszóval
 
 ## The following placeholders are shown in the inputs when adding a new engine.
 

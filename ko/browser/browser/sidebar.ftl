@@ -4,8 +4,6 @@
 
 menu-view-genai-chat =
     .label = AI 챗봇
-menu-view-review-checker =
-    .label = 리뷰 검사기
 menu-view-contextual-password-manager =
     .label = 비밀번호
 sidebar-options-menu-button =
@@ -125,8 +123,6 @@ sidebar-menu-bookmarks-label =
     .label = 북마크
 sidebar-menu-customize-label =
     .label = 사이드바 사용자 지정
-sidebar-menu-review-checker-label =
-    .label = 리뷰 검사기
 sidebar-menu-contextual-password-manager-label =
     .label = 비밀번호
 

@@ -4,8 +4,6 @@
 
 menu-view-genai-chat =
     .label = AI chatbot
-menu-view-review-checker =
-    .label = Provjera recenzije
 menu-view-contextual-password-manager =
     .label = Lozinke
 sidebar-options-menu-button =
@@ -118,8 +116,6 @@ sidebar-menu-bookmarks-label =
     .label = Zabilješke
 sidebar-menu-customize-label =
     .label = Prilagodi bočnu traku
-sidebar-menu-review-checker-label =
-    .label = Provjera recenzije
 sidebar-menu-contextual-password-manager-label =
     .label = Lozinke
 

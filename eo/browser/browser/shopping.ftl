@@ -89,9 +89,6 @@ shopping-show-less-button = Montri malpli
 
 shopping-settings-label =
     .label = Agordoj
-shopping-settings-recommendations-toggle2 =
-    .label = Montri rekomenditan kaj patronitan enhavon
-shopping-settings-recommendations-learn-more3 = { -brand-product-name } ne dividas viajn personajn datumojn, tial tiuj ĉi rekomendoj ne sekvos vin tra la reto. <a data-l10n-name="review-quality-url">Pli da informo</a>
 shopping-settings-recommendations-toggle =
     .label = Montri reklamojn en la kontrolilo de recenzoj
 shopping-settings-recommendations-learn-more2 = De tempo al tempo vi vidos reklamojn pri elstaraj produktoj. Ni nur reklamas produktojn kun fidindaj recenzoj. <a data-l10n-name="review-quality-url">Pli da informo</a>
@@ -118,7 +115,6 @@ shopping-settings-sidebar-enabled-state = La kontrolilo de recenzoj estas <stron
 shopping-adjusted-rating-label =
     .label = Alĝustigita taksado
 shopping-adjusted-rating-unreliable-reviews = Nefidindaj recenzoj forigitaj
-shopping-adjusted-rating-based-reliable-reviews = Bazita sur fidindaj recenzoj
 
 ## Strings for the review reliability component
 
@@ -137,8 +133,6 @@ shopping-analysis-explainer-learn-more2 = Pli da informo pri <a data-l10n-name="
 # websites, which will be inserted without being translated.
 #  $retailer (String) - capitalized name of the shopping website, for example, "Amazon".
 shopping-analysis-explainer-highlights-description = <strong>Elstaraĵoj</strong> venas el recenzoj de { $retailer }, kiujn ni opinias fidindaj kaj okazis dum la lastaj 80 tagoj.
-# Fallback for analysis highlights explainer if the retailer is ever unknown
-shopping-analysis-explainer-highlights-description-unknown-retailer = <strong>Elstaraĵoj</strong> venas el recenzoj, kiuj okazis dum la lastaj 80 tagoj kaj kiujn ni opinias fidindaj.
 shopping-analysis-explainer-review-grading-scale-reliable = Fidindaj recenzoj. Ni pensas ke tiuj venas el verŝajnaj veraj klientoj, kiuj donis sincerajn kaj objektivajn recenzojn.
 shopping-analysis-explainer-review-grading-scale-mixed = Ni pensas ke estas miksaĵo de findindaj kaj nefidindaj recenzoj.
 shopping-analysis-explainer-review-grading-scale-unreliable = Nefidindaj recenzoj. Ni pensas ke tiuj estas verŝajne ĉu malveraj ĉu donitaj de neobjektivaj recenzintoj.
@@ -165,7 +159,6 @@ shopping-unanalyzed-product-analyze-button = Kontroli kvaliton de recenzoj
 
 more-to-consider-ad-label =
     .label = Alternativaj produktoj
-shopping-sponsored-label = Patronita
 ad-by-fakespot = Reklamo de { -fakespot-brand-name }
 
 ## Shopping survey strings.
@@ -186,18 +179,6 @@ shopping-survey-submit-button-label = Sendi
 shopping-survey-terms-link = Kondiĉoj de uzo
 shopping-survey-thanks =
     .heading = Dankon pro via opinio!
-
-## Shopping opted-out survey strings
-## Opt-out survey options are displayed as checkboxes and the user can select one or many.
-
-shopping-survey-opted-out-multiselect-label = Bonvolu rakonti al ni kial vi malŝaltis la kontrolilo de recenzoj. Elektu plurajn eblojn se bezonatas.
-shopping-survey-thanks-title = Dankon pro via opinio!
-shopping-survey-opted-out-hard-to-understand = Ĝi ne estas facile komprenebla
-shopping-survey-opted-out-too-slow = Ĝi tro malrapidas
-shopping-survey-opted-out-not-accurate = Ĝi ne estas korekta
-shopping-survey-opted-out-not-helpful = Ĝi ne utilas por mi
-shopping-survey-opted-out-check-myself = Mi preferas mem kontroli recenzojn
-shopping-survey-opted-out-other = Aliaj kialoj
 
 ## Shopping Feature Callout strings.
 ## "price tag" refers to the price tag icon displayed in the address bar to
@@ -251,76 +232,3 @@ shopping-onboarding-dialog-close-button =
 #   $total (Int) - Total number of pages
 shopping-onboarding-welcome-steps-indicator-label =
     .aria-label = Progreso: paŝo { $current } de { $total }
-
-## Review Checker in Integrated sidebar
-
-# Opt-in message strings for Review Checker when it is integrated into the global sidebar.
-shopping-opt-in-integrated-headline = Aĉetumu senzorge
-# Description text for regions where we support three sites. Sites are limited to Amazon, Walmart and Best Buy.
-# Variables:
-#   $firstSite (String) - The first shopping page name
-#   $secondSite (String) - The second shopping page name
-#   $thirdSite (String) - The third shopping page name
-shopping-opt-in-integrated-subtitle = Ŝaltu la kontrolilon de recenzoj de { -brand-product-name } por vidi kiel fidindaj estas la recenzoj, antaŭ ol vi aĉetas. Ĝi uzas A.I. teknologion por analizi recenzojn kaj funkcias kiam vi aĉetas ĉe { $firstSite }, { $secondSite } kaj { $thirdSite }. <a data-l10n-name="learn_more">Pli da informo</a>
-# Description text for regions where we support three sites. Sites are limited to Amazon, Walmart and Best Buy.
-# Variables:
-#   $firstSite (String) - The first shopping page name
-#   $secondSite (String) - The second shopping page name
-#   $thirdSite (String) - The third shopping page name
-shopping-opt-in-integrated-subtitle-unsupported-site = La kontrolilo de recenzoj de { -brand-product-name } helpas vin scii kiel fidindaj estas la recenzoj de produkto, antaŭ ol vi ĝin aĉetas. Ĝi uzas A.I. teknologion por analizi recenzojn kaj funkcias kiam vi aĉetas ĉe { $firstSite }, { $secondSite } kaj { $thirdSite }. <a data-l10n-name="learn_more">Pli da informo</a>
-
-## Messages for callout for users not opted into the sidebar integrated version of Review Checker.
-
-shopping-callout-opt-in-integrated-headline = Ĉu vi povas fidi tiujn ĉi recenzojn?
-# Appears underneath shopping-opt-in-integrated-headline to answer the question 'Can you trust these reviews?'
-shopping-callout-not-opted-in-integrated-paragraph1 = Ŝaltu la kontrolilon de recenzoj de { -brand-product-name } por scii. Ĝi estas pelata de { -fakespot-brand-full-name } kaj uzas A.I. teknologion por analizi recenzojn.
-shopping-callout-not-opted-in-integrated-paragraph2 = Se vi elektas “{ shopping-opt-in-integrated-button }“ vi akceptas la <a data-l10n-name="privacy_policy">politikon pri privateco</a> de { -brand-product-name } kaj la <a data-l10n-name="terms_of_use">kondiĉojn de uzo</a> de { -fakespot-brand-full-name }.
-shopping-callout-not-opted-in-integrated-reminder-dismiss-button = Ignori
-shopping-callout-not-opted-in-integrated-reminder-accept-button = Ŝalti la kontrolilon de recenzoj
-shopping-opt-in-integrated-privacy-policy-and-terms-of-use = La kontrolilo de recenzoj estas pelata de { -fakespot-brand-full-name }. Se vi elektas “{ shopping-opt-in-integrated-button }“ vi akceptas la <a data-l10n-name="privacy_policy">politikon pri privateco</a> de { -brand-product-name } kaj la <a data-l10n-name="terms_of_use">kondiĉojn de uzo</a> de { -fakespot-brand-name }.
-shopping-opt-in-integrated-button = Provi la kontrolilon de recenzoj
-
-## Message strings for Review Checker's empty states.
-
-shopping-empty-state-header = Preta kontroli recenzojn
-shopping-empty-state-supported-site = Rigardu produkton kaj { -brand-product-name } kontrolos ĉu la recenzoj estas fidindaj.
-# We show a list of sites supported by Review Checker whenever a user opens the feature in an unsupported site.
-# This string will be displayed above the list of sites. The list will be hardcoded and does not require localization.
-shopping-empty-state-non-supported-site = La kontrolilo de recenzoj funkcias kiam vi aĉetas ĉe:
-
-## Confirm disabling Review Checker for newly opted out users
-
-shopping-integrated-callout-opted-out-title = La kontrolilo de recenzoj estas malŝaltita
-shopping-integrated-callout-opted-out-subtitle = Por reŝalti ĝin, elektu la prezan etikedon en la flanka strio kaj ŝaltu la kontrolilon de recenzoj.
-
-## Callout for where to find Review Checker when the sidebar closes
-
-shopping-integrated-callout-sidebar-closed-title = Reen al la kontrolilo de recenzoj
-shopping-integrated-callout-sidebar-closed-subtitle = Elektu la prezan etikedon en la flanka strio por vidi ĉu vi povas fidi la recenzojn de produkto.
-shopping-integrated-callout-no-logo-sidebar-closed-subtitle = Elektu la butonon en la flanka strio por vidi ĉu vi povas fidi la recenzojn de produkto.
-
-## Strings for a notification card about Review Checker's new position in the sidebar.
-## The card will only appear for users that have the default sidebar position, which is on the left side for non RTL locales.
-## Review Checker in the sidebar is only available to US users at this time, so we can assume that the default position is on the left side.
-
-shopping-integrated-new-position-notification-title = Sama kontrolilo de recenzoj, en alia loko.
-shopping-integrated-new-position-notification-move-right-subtitle = Gardu la kontrolilon de recenzoj kaj la ceteron de la flanka strio de { -brand-product-name } ĉi tie, aŭ movu ilin dekstren. Ŝanĝu tion iam ajn en la <a data-l10n-name="sidebar_settings">agordoj de la flanka strio</a>.
-shopping-integrated-new-position-notification-move-left-subtitle = Gardu la kontrolilon de recenzoj kaj la ceteron de la flanka strio de { -brand-product-name } ĉi tie, aŭ movu ilin maldekstren. Ŝanĝu tion iam ajn en la <a data-l10n-name="sidebar_settings">agordoj de la flanka strio</a>.
-shopping-integrated-new-position-notification-move-right-button = Movi dekstren
-shopping-integrated-new-position-notification-move-left-button = Movi maldekstren
-shopping-integrated-new-position-notification-dismiss-button = Mi komprenis
-
-## Combined setting for auto-open and auto-close.
-
-shopping-settings-auto-open-and-close-toggle =
-    .label = Aŭtomate malfermi kaj fermi la kontrolilon de recenzoj
-# Description text for regions where we support three sites. Sites are limited to Amazon, Walmart and Best Buy.
-# Variables:
-#   $firstSite (String) - The first shopping page name
-#   $secondSite (String) - The second shopping page name
-#   $thirdSite (String) - The third shopping page name
-shopping-settings-auto-open-and-close-description-three-sites = Ĝi malfermiĝas kiam vi vidas produktojn ĉe { $firstSite }, { $secondSite } kaj { $thirdSite }. Ĝi fermiĝas kiam vi forlasas la retejon.
-# Description text for regions where we support only one site (e.g. currently used in FR/DE with Amazon).
-# Variables:
-#   $currentSite (String) - The current shopping page name
-shopping-settings-auto-open-and-close-description-single-site = Ĝi malfermiĝas kiam vi vidas produktojn ĉe { $currentSite } kaj fermiĝas kiam vi forlasas la retejon.

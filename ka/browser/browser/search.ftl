@@ -64,13 +64,6 @@ add-engine-keyword2 = საკვანძო სიტყვა (არას�
 # POST and GET refer to the HTTP methods.
 add-engine-post-data = POST-გადაცემისას დაურთეთ %s საძებნი ფრაზის ადგილას (დატოვეთ ცარიელი GET-გადაცემისას)
 add-engine-suggest-url = შემოთავაზებების ბმული და %s საძებნი ფრაზის ადგილას (არასავალდებულო)
-add-engine-keyword = საკვანძო სიტყვა
-add-engine-url = საძიებოს ბმული, გამოიყენეთ %s საძებნი ფრაზის ადგილას
-add-engine-dialog =
-    .buttonlabelaccept = საძიებოს დამატება
-    .buttonaccesskeyaccept = დ
-engine-name-exists = საძიებო სისტემა ამ სახელით უკვე არსებობს
-engine-keyword-exists = საძიებო ამ საკვანძო სიტყვით უკვე არსებობს
 
 ## The following placeholders are shown in the inputs when adding a new engine.
 

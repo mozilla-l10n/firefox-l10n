@@ -4,8 +4,6 @@
 
 menu-view-genai-chat =
     .label = A.I. dialoganto
-menu-view-review-checker =
-    .label = Kontrolilo de recenzoj
 menu-view-contextual-password-manager =
     .label = Pasvortoj
 sidebar-options-menu-button =
@@ -125,8 +123,6 @@ sidebar-menu-bookmarks-label =
     .label = Legosignoj
 sidebar-menu-customize-label =
     .label = Personecigi la flankan strion
-sidebar-menu-review-checker-label =
-    .label = Kontrolilo de recenzoj
 sidebar-menu-contextual-password-manager-label =
     .label = Pasvortoj
 

@@ -47,11 +47,6 @@ add-engine-window =
     .style = min-width: 32em;
 add-engine-button = ماتۆڕێکی گەڕانی خوازراو زیادکە
 add-engine-name = ناوی ماتۆڕی گەڕان
-add-engine-url = بەستەری ماتۆڕەکە، %s بەکار بهێنە لە جێگای وشەی گەڕاندا.
-add-engine-dialog =
-    .buttonlabelaccept = ماتۆڕ زیادکە
-    .buttonaccesskeyaccept = A
-engine-name-exists = ماتۆڕێک بەو ناوە خۆی هەیە
 
 ## The following placeholders are shown in the inputs when adding a new engine.
 

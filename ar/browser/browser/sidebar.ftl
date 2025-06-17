@@ -2,8 +2,6 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-menu-view-review-checker =
-    .label = مدقق المراجعة
 sidebar-options-menu-button =
     .title = افتح القائمة
 
@@ -75,8 +73,6 @@ sidebar-menu-bookmarks-label =
     .label = العلامات
 sidebar-menu-customize-label =
     .label = تخصيص الشريط الجانبي
-sidebar-menu-review-checker-label =
-    .label = مدقق المراجعة
 
 ## Tooltips for sidebar menu items.
 

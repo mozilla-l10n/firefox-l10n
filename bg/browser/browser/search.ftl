@@ -49,11 +49,6 @@ add-engine-window =
     .style = min-width: 32em;
 add-engine-button = Добавяне на търсеща машина от потребител
 add-engine-name = Име на търсеща машина
-add-engine-url = Аддрес на търсачка, използвайте %s вместо търсената фраза
-add-engine-dialog =
-    .buttonlabelaccept = Добавяне на машина
-    .buttonaccesskeyaccept = а
-engine-name-exists = Машина с това име вече съществува
 
 ## The following placeholders are shown in the inputs when adding a new engine.
 

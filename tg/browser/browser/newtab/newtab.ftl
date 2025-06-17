@@ -119,7 +119,6 @@ newtab-menu-show-privacy-info = Сарпарастони мо ва махфия�
 newtab-menu-about-fakespot = Дар бораи «{ -fakespot-brand-name }»
 # Report is a verb (i.e. report issue with the content).
 newtab-menu-report = Гузориш додан
-newtab-menu-report-content = Гузориш дар бораи ин муҳтаво
 # Context menu option to personalize New Tab recommended stories by blocking a section of stories,
 # e.g. "Sports". "Block" is a verb here.
 newtab-menu-section-block = Манъ кардан

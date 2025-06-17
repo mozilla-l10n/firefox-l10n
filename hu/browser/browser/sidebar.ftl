@@ -4,8 +4,6 @@
 
 menu-view-genai-chat =
     .label = MI csevegőbot
-menu-view-review-checker =
-    .label = Értékelés-ellenőrző
 menu-view-contextual-password-manager =
     .label = Jelszavak
 sidebar-options-menu-button =
@@ -125,8 +123,6 @@ sidebar-menu-bookmarks-label =
     .label = Könyvjelzők
 sidebar-menu-customize-label =
     .label = Oldalsáv testreszabása
-sidebar-menu-review-checker-label =
-    .label = Értékelés-ellenőrző
 sidebar-menu-contextual-password-manager-label =
     .label = Jelszavak
 

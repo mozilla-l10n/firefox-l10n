@@ -4,8 +4,6 @@
 
 menu-view-genai-chat =
     .label = AI 聊天機器人
-menu-view-review-checker =
-    .label = 商品評論檢查器
 menu-view-contextual-password-manager =
     .label = 密碼
 sidebar-options-menu-button =
@@ -125,8 +123,6 @@ sidebar-menu-bookmarks-label =
     .label = 書籤
 sidebar-menu-customize-label =
     .label = 自訂側邊欄
-sidebar-menu-review-checker-label =
-    .label = 商品評論檢查器
 sidebar-menu-contextual-password-manager-label =
     .label = 密碼
 

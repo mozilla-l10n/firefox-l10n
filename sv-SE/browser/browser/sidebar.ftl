@@ -4,8 +4,6 @@
 
 menu-view-genai-chat =
     .label = AI Chatbot
-menu-view-review-checker =
-    .label = Recensionsgranskare
 menu-view-contextual-password-manager =
     .label = Lösenord
 sidebar-options-menu-button =
@@ -125,8 +123,6 @@ sidebar-menu-bookmarks-label =
     .label = Bokmärken
 sidebar-menu-customize-label =
     .label = Anpassa sidofält
-sidebar-menu-review-checker-label =
-    .label = Recensionsgranskare
 sidebar-menu-contextual-password-manager-label =
     .label = Lösenord
 

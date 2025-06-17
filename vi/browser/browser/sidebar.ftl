@@ -4,8 +4,6 @@
 
 menu-view-genai-chat =
     .label = Chatbot AI
-menu-view-review-checker =
-    .label = Trình kiểm tra đánh giá
 menu-view-contextual-password-manager =
     .label = Mật khẩu
 sidebar-options-menu-button =
@@ -120,8 +118,6 @@ sidebar-menu-bookmarks-label =
     .label = Dấu trang
 sidebar-menu-customize-label =
     .label = Tùy biến thanh lề
-sidebar-menu-review-checker-label =
-    .label = Trình kiểm tra đánh giá
 sidebar-menu-contextual-password-manager-label =
     .label = Mật khẩu
 

@@ -18,9 +18,6 @@ cert-error-trust-signature-algorithm-disabled = Aselkin d araɣelsan acku ittuzm
 cert-error-trust-expired-issuer = Aselkin d araqelsan acku aselkin n ubadu it-id-yefkan izri.
 cert-error-trust-self-signed = Aselkin-agi d aranelkan acku d uzmilman.
 cert-error-trust-symantec = Iselkinen id-ssufuɣen GeoTrust, RapidSSL, Symantec, Thawte, akked VeriSign uɣalen ttwaḥsaben d araɣelsanen acku iduba n iselkinen-agi ur sawḍen ara ad ḍefren insayen n tɣellist.
-# Variables:
-#   $hostname (string) - Hostname of the website with cert error.
-cert-error-revoked = Ismal web sssebganen-d timagit-nsen s yiselkinen. { -brand-short-name } ur yumin ara asmel { $hostname }  acku yesseqdac aselkin yettwagedlen.
 cert-error-untrusted-default = Aselkin-agi ur d yusi ara seg uɣbalu anelkan.
 # Variables:
 #   $hostname (string) - Hostname of the website with cert error.

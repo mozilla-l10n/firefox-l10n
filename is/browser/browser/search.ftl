@@ -63,13 +63,6 @@ add-engine-keyword2 = Leitarorð (valfrjálst)
 # POST and GET refer to the HTTP methods.
 add-engine-post-data = POST-gögn með %s í stað leitarorða (skilja eftir autt fyrir GET)
 add-engine-suggest-url = Tillöguslóð með %s í stað leitarorða (valfrjálst)
-add-engine-keyword = Stikkorð
-add-engine-url = Slóð á leitarvél, notaðu %s í stað leitarorðsins
-add-engine-dialog =
-    .buttonlabelaccept = Bæta við leitarvél
-    .buttonaccesskeyaccept = a
-engine-name-exists = Leitarvél með því nafni er þegar til
-engine-keyword-exists = Leitarvél með því stikkorði er þegar til
 
 ## The following placeholders are shown in the inputs when adding a new engine.
 

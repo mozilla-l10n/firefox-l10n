@@ -51,11 +51,6 @@ add-engine-window =
     .style = min-width: 32em;
 add-engine-button = Engadir motor personalizado
 add-engine-name = Nome do motor de busca
-add-engine-url = URL do motor, use %s no lugar do termo de busca
-add-engine-dialog =
-    .buttonlabelaccept = Engadir motor
-    .buttonaccesskeyaccept = E
-engine-name-exists = Xa existe un motor con ese nome
 
 ## The following placeholders are shown in the inputs when adding a new engine.
 

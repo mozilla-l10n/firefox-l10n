@@ -4,8 +4,6 @@
 
 menu-view-genai-chat =
     .label = Bot Obrolan AI
-menu-view-review-checker =
-    .label = Pemeriksa Ulasan
 menu-view-contextual-password-manager =
     .label = Sandi
 sidebar-options-menu-button =
@@ -99,8 +97,6 @@ sidebar-menu-bookmarks-label =
     .label = Markah
 sidebar-menu-customize-label =
     .label = Sesuaikan bilah sisi
-sidebar-menu-review-checker-label =
-    .label = Pemeriksa Ulasan
 sidebar-menu-contextual-password-manager-label =
     .label = Sandi
 

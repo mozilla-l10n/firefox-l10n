@@ -51,11 +51,6 @@ add-engine-window =
     .style = min-width: 32em;
 add-engine-button = Przidej włosno wyszukowarka
 add-engine-name = Miano wyszukowarki
-add-engine-url = URL wyszukowarki, użyj %s na plac szukanego tekstu
-add-engine-dialog =
-    .buttonlabelaccept = Przidej wyszukowarka
-    .buttonaccesskeyaccept = P
-engine-name-exists = Wyszukowarka z mianym, co już je
 
 ## The following placeholders are shown in the inputs when adding a new engine.
 

@@ -89,9 +89,6 @@ shopping-show-less-button = Mostrar menos
 
 shopping-settings-label =
     .label = Ajustes
-shopping-settings-recommendations-toggle2 =
-    .label = Mostrar recomendaciones y contenido patrocinado
-shopping-settings-recommendations-learn-more3 = { -brand-product-name } no comparte tu información personal, así que estas recomendaciones no te seguirán por todo el internet. <a data-l10n-name="review-quality-url">Saber más</a>
 shopping-settings-recommendations-toggle =
     .label = Mostrar anuncios en Review Checker
 shopping-settings-recommendations-learn-more2 = Verá anuncios ocasionales de productos relevantes. Solo anunciamos productos con reseñas confiables. <a data-l10n-name="review-quality-url">Más información</a>
@@ -118,7 +115,6 @@ shopping-settings-sidebar-enabled-state = El Review Checker está <strong>habili
 shopping-adjusted-rating-label =
     .label = Calificación ajustada
 shopping-adjusted-rating-unreliable-reviews = Se eliminaron las reseñas poco confiables
-shopping-adjusted-rating-based-reliable-reviews = Basado en reseñas confiables
 
 ## Strings for the review reliability component
 
@@ -137,8 +133,6 @@ shopping-analysis-explainer-learn-more2 = Obtén más información acerca de <a 
 # websites, which will be inserted without being translated.
 #  $retailer (String) - capitalized name of the shopping website, for example, "Amazon".
 shopping-analysis-explainer-highlights-description = Los <strong>puntos destacados</strong> provienen de reseñas de { $retailer } de los últimos 80 días que creemos que son confiables.
-# Fallback for analysis highlights explainer if the retailer is ever unknown
-shopping-analysis-explainer-highlights-description-unknown-retailer = Los <strong>destacados</strong> son de reseñas de los últimos 80 días que creemos que son confiables.
 shopping-analysis-explainer-review-grading-scale-reliable = Revisiones confiables. Creemos que las reseñas probablemente provienen de clientes reales que dejaron reseñas honestas e imparciales.
 shopping-analysis-explainer-review-grading-scale-mixed = Creemos que hay una combinación de reseñas confiables y no confiables.
 shopping-analysis-explainer-review-grading-scale-unreliable = Revisiones poco confiables. Creemos que las reseñas probablemente sean falsas o provengan de revisores sesgados.
@@ -165,7 +159,6 @@ shopping-unanalyzed-product-analyze-button = Comprobar la calidad de la reseña
 
 more-to-consider-ad-label =
     .label = Más para considerar
-shopping-sponsored-label = Patrocinado
 ad-by-fakespot = Anuncio de { -fakespot-brand-name }
 
 ## Shopping survey strings.
@@ -186,18 +179,6 @@ shopping-survey-submit-button-label = Enviar
 shopping-survey-terms-link = Términos de uso
 shopping-survey-thanks =
     .heading = ¡Gracias por tus comentarios!
-
-## Shopping opted-out survey strings
-## Opt-out survey options are displayed as checkboxes and the user can select one or many.
-
-shopping-survey-opted-out-multiselect-label = Por favor, indícanos por qué desactivaste el verificador de reseñas. Selecciona varias opciones si es necesario.
-shopping-survey-thanks-title = ¡Gracias por tus comentarios!
-shopping-survey-opted-out-hard-to-understand = Es complicado de entender
-shopping-survey-opted-out-too-slow = Es muy lento
-shopping-survey-opted-out-not-accurate = No es preciso
-shopping-survey-opted-out-not-helpful = No es útil para mi
-shopping-survey-opted-out-check-myself = Prefiero revisar las reseñas yo mismo
-shopping-survey-opted-out-other = Otra
 
 ## Shopping Feature Callout strings.
 ## "price tag" refers to the price tag icon displayed in the address bar to
@@ -251,26 +232,3 @@ shopping-onboarding-dialog-close-button =
 #   $total (Int) - Total number of pages
 shopping-onboarding-welcome-steps-indicator-label =
     .aria-label = Progreso: paso { $current } de { $total }
-
-## Review Checker in Integrated sidebar
-
-
-## Messages for callout for users not opted into the sidebar integrated version of Review Checker.
-
-
-## Message strings for Review Checker's empty states.
-
-
-## Confirm disabling Review Checker for newly opted out users
-
-
-## Callout for where to find Review Checker when the sidebar closes
-
-
-## Strings for a notification card about Review Checker's new position in the sidebar.
-## The card will only appear for users that have the default sidebar position, which is on the left side for non RTL locales.
-## Review Checker in the sidebar is only available to US users at this time, so we can assume that the default position is on the left side.
-
-
-## Combined setting for auto-open and auto-close.
-

@@ -48,11 +48,6 @@ remove-search-engine-button = ຕົກລົງ
 
 add-engine-button = ເພີ່ມ Custom Engine
 add-engine-name = ຊື່ເຄື່ອງມືການຄົ້ນຫາ
-add-engine-url = URL ຂອງເຄື່ອງຈັກ, ໃຊ້ %s ແທນຄໍາຄົ້ນຫາ
-add-engine-dialog =
-    .buttonlabelaccept = ເພີ່ມເຄື່ອງມື
-    .buttonaccesskeyaccept = A
-engine-name-exists = ເຄື່ອງຈັກທີ່ມີຊື່ນັ້ນມີຢູ່ແລ້ວ
 
 ## The following placeholders are shown in the inputs when adding a new engine.
 

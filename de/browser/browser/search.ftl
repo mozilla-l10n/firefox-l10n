@@ -64,13 +64,6 @@ add-engine-keyword2 = Schlüsselwort (optional)
 # POST and GET refer to the HTTP methods.
 add-engine-post-data = POST-Daten mit %s anstelle des Suchbegriffs (für GET leer lassen)
 add-engine-suggest-url = Vorschlags-URL mit %s anstelle des Suchbegriffs (optional)
-add-engine-keyword = Schlüsselwort
-add-engine-url = Suchmaschinen-URL, %s anstelle des Suchbegriffs verwenden
-add-engine-dialog =
-    .buttonlabelaccept = Suchmaschine hinzufügen
-    .buttonaccesskeyaccept = h
-engine-name-exists = Eine Suchmaschine mit diesem Namen existiert bereits
-engine-keyword-exists = Eine Suchmaschine mit diesem Schlüsselwort existiert bereits
 
 ## The following placeholders are shown in the inputs when adding a new engine.
 

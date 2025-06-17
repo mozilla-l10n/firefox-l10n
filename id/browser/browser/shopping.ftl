@@ -89,9 +89,6 @@ shopping-show-less-button = Lebih sedikit
 
 shopping-settings-label =
     .label = Pengaturan
-shopping-settings-recommendations-toggle2 =
-    .label = Tampilkan rekomendasi dan konten bersponsor
-shopping-settings-recommendations-learn-more3 = { -brand-product-name } tidak membagikan data pribadi Anda, jadi rekomendasi ini tidak akan mengikuti Anda di internet. <a data-l10n-name="review-quality-url">Pelajari lebih lanjut</a>
 shopping-settings-recommendations-toggle =
     .label = Tampilkan iklan di Pemeriksa Ulasan
 shopping-settings-recommendations-learn-more2 = Kadang Anda akan melihat iklan untuk produk yang relevan. Kami hanya mengiklankan produk dengan ulasan yang dapat diandalkan. <a data-l10n-name="review-quality-url">Pelajari lebih lanjut</a>
@@ -118,7 +115,6 @@ shopping-settings-sidebar-enabled-state = Review Checker sedang <strong>Aktif</s
 shopping-adjusted-rating-label =
     .label = Peringkat yang disesuaikan
 shopping-adjusted-rating-unreliable-reviews = Ulasan yang tidak dapat diandalkan dihapus
-shopping-adjusted-rating-based-reliable-reviews = Berdasarkan ulasan yang andal
 
 ## Strings for the review reliability component
 
@@ -137,8 +133,6 @@ shopping-analysis-explainer-learn-more2 = Pelajari lebih lanjut tentang <a data-
 # websites, which will be inserted without being translated.
 #  $retailer (String) - capitalized name of the shopping website, for example, "Amazon".
 shopping-analysis-explainer-highlights-description = <strong>Sorotan</strong> berasal dari ulasan { $retailer } dalam 80 hari terakhir yang kami yakini dapat diandalkan.
-# Fallback for analysis highlights explainer if the retailer is ever unknown
-shopping-analysis-explainer-highlights-description-unknown-retailer = <strong>Sorotan</strong> berasal dari ulasan { $retailer } dalam 80 hari terakhir yang kami yakini dapat diandalkan.
 shopping-analysis-explainer-review-grading-scale-reliable = Ulasan terpercaya. Kami yakin ulasan tersebut boleh jadi berasal dari pelanggan tulen yang meninggalkan ulasan yang jujur dan tidak bias.
 shopping-analysis-explainer-review-grading-scale-mixed = Kami percaya ada percampuran ulasan yang terpercaya dan yang tidak dapat diandalkan.
 shopping-analysis-explainer-review-grading-scale-unreliable = Ulasan yang tidak dapat diandalkan. Kami yakin ulasan tersebut kemungkinan palsu atau dari pengulas yang bias.
@@ -165,7 +159,6 @@ shopping-unanalyzed-product-analyze-button = Periksa kualitas ulasan
 
 more-to-consider-ad-label =
     .label = Lebih banyak untuk dipertimbangkan
-shopping-sponsored-label = Bersponsor
 ad-by-fakespot = Iklan oleh { -fakespot-brand-name }
 
 ## Shopping survey strings.
@@ -186,18 +179,6 @@ shopping-survey-submit-button-label = Kirim
 shopping-survey-terms-link = Ketentuan penggunaan
 shopping-survey-thanks =
     .heading = Terima kasih atas masukan Anda!
-
-## Shopping opted-out survey strings
-## Opt-out survey options are displayed as checkboxes and the user can select one or many.
-
-shopping-survey-opted-out-multiselect-label = Beri tahu kami mengapa Anda menonaktifkan Pemeriksa Ulasan. Pilih beberapa jika diperlukan.
-shopping-survey-thanks-title = Terima kasih atas masukan Anda!
-shopping-survey-opted-out-hard-to-understand = Sulit dimengerti
-shopping-survey-opted-out-too-slow = Terlalu lambat
-shopping-survey-opted-out-not-accurate = Tidak akurat
-shopping-survey-opted-out-not-helpful = Tidak membantu saya
-shopping-survey-opted-out-check-myself = Saya lebih suka memeriksa ulasan sendiri
-shopping-survey-opted-out-other = Lainnya
 
 ## Shopping Feature Callout strings.
 ## "price tag" refers to the price tag icon displayed in the address bar to
@@ -251,76 +232,3 @@ shopping-onboarding-dialog-close-button =
 #   $total (Int) - Total number of pages
 shopping-onboarding-welcome-steps-indicator-label =
     .aria-label = Kemajuan: langkah { $current } dari { $total }
-
-## Review Checker in Integrated sidebar
-
-# Opt-in message strings for Review Checker when it is integrated into the global sidebar.
-shopping-opt-in-integrated-headline = Belanja dengan percaya diri
-# Description text for regions where we support three sites. Sites are limited to Amazon, Walmart and Best Buy.
-# Variables:
-#   $firstSite (String) - The first shopping page name
-#   $secondSite (String) - The second shopping page name
-#   $thirdSite (String) - The third shopping page name
-shopping-opt-in-integrated-subtitle = Aktifkan Pemeriksa Ulasan dari { -brand-product-name } untuk melihat seberapa andal ulasan produk, sebelum Anda membeli. Ini menggunakan teknologi AI untuk menganalisis ulasan dan bekerja saat Anda berbelanja di { $firstSite }, { $secondSite }, dan { $thirdSite }. <a data-l10n-name="learn_more">Pelajari lebih lanjut</a>
-# Description text for regions where we support three sites. Sites are limited to Amazon, Walmart and Best Buy.
-# Variables:
-#   $firstSite (String) - The first shopping page name
-#   $secondSite (String) - The second shopping page name
-#   $thirdSite (String) - The third shopping page name
-shopping-opt-in-integrated-subtitle-unsupported-site = Pemeriksa Ulasan dari { -brand-product-name } membantu Anda mengetahui seberapa andal ulasan suatu produk, sebelum Anda membeli. Ini menggunakan teknologi AI untuk menganalisis ulasan dan bekerja saat Anda berbelanja di { $firstSite }, { $secondSite }, dan { $thirdSite }. <a data-l10n-name="learn_more">Pelajari lebih lanjut</a>
-
-## Messages for callout for users not opted into the sidebar integrated version of Review Checker.
-
-shopping-callout-opt-in-integrated-headline = Bisakah Anda mempercayai ulasan-ulasan ini?
-# Appears underneath shopping-opt-in-integrated-headline to answer the question 'Can you trust these reviews?'
-shopping-callout-not-opted-in-integrated-paragraph1 = Aktifkan Pemeriksa Ulasan dari { -brand-product-name } untuk mengetahuinya. Ini didukung oleh { -fakespot-brand-full-name } dan menggunakan teknologi AI untuk menganalisis ulasan.
-shopping-callout-not-opted-in-integrated-paragraph2 = Dengan memilih“{ shopping-opt-in-integrated-button }”, Anda menyetujui <a data-l10n-name="privacy_policy">pemberitahuan privasi</a> dari { -brand-product-name } dan <a data-l10n-name="terms_of_use">persyaratan penggunaan</a> dari { -fakespot-brand-full-name }.
-shopping-callout-not-opted-in-integrated-reminder-dismiss-button = Tutup
-shopping-callout-not-opted-in-integrated-reminder-accept-button = Aktifkan Pemeriksa Ulasan
-shopping-opt-in-integrated-privacy-policy-and-terms-of-use = Pemeriksa Ulasan didukung oleh { -fakespot-brand-full-name }. Dengan memilih “{ shopping-opt-in-integrated-button }“, Anda menyetujui <a data-l10n-name="privacy_policy">pemberitahuan privasi</a> dari { -brand-product-name } dan <a data-l10n-name="terms_of_use">persyaratan penggunaan</a> dari { -fakespot-brand-name }.
-shopping-opt-in-integrated-button = Coba Pemeriksa Tinjauan
-
-## Message strings for Review Checker's empty states.
-
-shopping-empty-state-header = Siap memeriksa ulasan
-shopping-empty-state-supported-site = Lihat produk dan { -brand-product-name } akan memeriksa apakah ulasannya dapat dipercaya.
-# We show a list of sites supported by Review Checker whenever a user opens the feature in an unsupported site.
-# This string will be displayed above the list of sites. The list will be hardcoded and does not require localization.
-shopping-empty-state-non-supported-site = Pemeriksa Ulasan berfungsi saat Anda berbelanja di:
-
-## Confirm disabling Review Checker for newly opted out users
-
-shopping-integrated-callout-opted-out-title = Pemeriksa Ulasan nonaktif
-shopping-integrated-callout-opted-out-subtitle = Untuk mengaktifkannya kembali, pilih label harga di bilah samping dan aktifkan Pemeriksa Ulasan.
-
-## Callout for where to find Review Checker when the sidebar closes
-
-shopping-integrated-callout-sidebar-closed-title = Kembali ke Pemeriksa Ulasan
-shopping-integrated-callout-sidebar-closed-subtitle = Pilih label harga di bilah samping untuk melihat apakah Anda dapat mempercayai ulasan produk.
-shopping-integrated-callout-no-logo-sidebar-closed-subtitle = Pilih tombol bilah samping untuk melihat apakah Anda dapat mempercayai ulasan produk.
-
-## Strings for a notification card about Review Checker's new position in the sidebar.
-## The card will only appear for users that have the default sidebar position, which is on the left side for non RTL locales.
-## Review Checker in the sidebar is only available to US users at this time, so we can assume that the default position is on the left side.
-
-shopping-integrated-new-position-notification-title = Pemeriksa Ulasan yang sama, posisi baru
-shopping-integrated-new-position-notification-move-right-subtitle = Simpan Pemeriksa Ulasan dan bilah samping { -brand-product-name } lainnya di sini — atau pindahkan ke kanan. Beralih sekarang atau kapan saja di <a data-l10n-name="sidebar_settings">pengaturan bilah samping</a>.
-shopping-integrated-new-position-notification-move-left-subtitle = Simpan Pemeriksa Ulasan dan bilah samping { -brand-product-name } lainnya di sini — atau pindahkan ke kiri. Beralih sekarang atau kapan saja di <a data-l10n-name="sidebar_settings">pengaturan bilah samping</a>.
-shopping-integrated-new-position-notification-move-right-button = Pindahkan ke kanan
-shopping-integrated-new-position-notification-move-left-button = Pindahkan ke kiri
-shopping-integrated-new-position-notification-dismiss-button = Mengerti
-
-## Combined setting for auto-open and auto-close.
-
-shopping-settings-auto-open-and-close-toggle =
-    .label = Buka dan tutup Pemeriksa Ulasan secara otomatis
-# Description text for regions where we support three sites. Sites are limited to Amazon, Walmart and Best Buy.
-# Variables:
-#   $firstSite (String) - The first shopping page name
-#   $secondSite (String) - The second shopping page name
-#   $thirdSite (String) - The third shopping page name
-shopping-settings-auto-open-and-close-description-three-sites = Terbuka saat Anda melihat produk di { $firstSite }, { $secondSite }, dan { $thirdSite }, dan tertutup saat Anda meninggalkan laman tersebut
-# Description text for regions where we support only one site (e.g. currently used in FR/DE with Amazon).
-# Variables:
-#   $currentSite (String) - The current shopping page name
-shopping-settings-auto-open-and-close-description-single-site = Terbuka saat Anda melihat produk di { $currentSite } dan tertutup saat Anda meninggalkan laman tersebut

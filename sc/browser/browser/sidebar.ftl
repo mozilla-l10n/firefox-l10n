@@ -4,8 +4,6 @@
 
 menu-view-genai-chat =
     .label = Chatbot IA
-menu-view-review-checker =
-    .label = Verificadore de retzensiones
 menu-view-contextual-password-manager =
     .label = Craes
 sidebar-options-menu-button =
@@ -99,8 +97,6 @@ sidebar-menu-bookmarks-label =
     .label = Sinnalibros
 sidebar-menu-customize-label =
     .label = Personaliza sa barra laterale
-sidebar-menu-review-checker-label =
-    .label = Verificadore de retzensiones
 sidebar-menu-contextual-password-manager-label =
     .label = Craes
 

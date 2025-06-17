@@ -51,11 +51,6 @@ add-engine-window =
     .style = min-width: 32em;
 add-engine-button = Lisa kohandatud otsingumootor
 add-engine-name = Otsingumootori nimi
-add-engine-url = Sisesta URK, kasutades otsingufraasi asukoha tähistamiseks %s
-add-engine-dialog =
-    .buttonlabelaccept = Lisa otsingumootor
-    .buttonaccesskeyaccept = L
-engine-name-exists = Sellise nimega otsingumootor on juba olemas
 
 ## The following placeholders are shown in the inputs when adding a new engine.
 

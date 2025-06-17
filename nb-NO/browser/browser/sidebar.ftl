@@ -4,8 +4,6 @@
 
 menu-view-genai-chat =
     .label = AI-chatbot
-menu-view-review-checker =
-    .label = Vurderingskontrollør
 menu-view-contextual-password-manager =
     .label = Passord
 sidebar-options-menu-button =
@@ -120,8 +118,6 @@ sidebar-menu-bookmarks-label =
     .label = Bokmerker
 sidebar-menu-customize-label =
     .label = Tilpass sidestolpe
-sidebar-menu-review-checker-label =
-    .label = Vurderingskontrollør
 sidebar-menu-contextual-password-manager-label =
     .label = Passord
 

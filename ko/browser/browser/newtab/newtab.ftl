@@ -119,7 +119,6 @@ newtab-menu-show-privacy-info = 우리의 스폰서와 개인 정보 보호
 newtab-menu-about-fakespot = { -fakespot-brand-name } 정보
 # Report is a verb (i.e. report issue with the content).
 newtab-menu-report = 신고
-newtab-menu-report-content = 이 콘텐츠 신고
 # Context menu option to personalize New Tab recommended stories by blocking a section of stories,
 # e.g. "Sports". "Block" is a verb here.
 newtab-menu-section-block = 차단

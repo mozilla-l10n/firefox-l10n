@@ -64,13 +64,6 @@ add-engine-keyword2 = Trefwoord (optioneel)
 # POST and GET refer to the HTTP methods.
 add-engine-post-data = POST-gegevens met %s in plaats van de zoekterm (leeg laten voor GET)
 add-engine-suggest-url = URL voor suggesties met %s op plaats van zoekterm (optioneel)
-add-engine-keyword = Trefwoord
-add-engine-url = URL van zoekmachine, gebruik %s op de plaats van de zoekterm
-add-engine-dialog =
-    .buttonlabelaccept = Zoekmachine toevoegen
-    .buttonaccesskeyaccept = t
-engine-name-exists = Er bestaat al een zoekmachine met die naam
-engine-keyword-exists = Er bestaat al een zoekmachine met dat trefwoord
 
 ## The following placeholders are shown in the inputs when adding a new engine.
 

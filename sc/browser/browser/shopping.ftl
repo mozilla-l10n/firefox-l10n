@@ -89,9 +89,6 @@ shopping-show-less-button = Ammustra·nde prus pagu
 
 shopping-settings-label =
     .label = Cunfiguratzione
-shopping-settings-recommendations-toggle2 =
-    .label = Ammustra cussìgios e cuntenutos patrotzinados
-shopping-settings-recommendations-learn-more3 = { -brand-product-name } non cumpartzit is datos tuos: custos cussìgios no t’ant a sighire aterue in internet. <a data-l10n-name="review-quality-url">Àteras informatziones</a>
 shopping-settings-recommendations-toggle =
     .label = Ammustra publitzidade in su verificadore de retzensiones
 shopping-settings-recommendations-learn-more2 = Dias pòdere bìdere publitzidades pro produtos rilevantes. Promovimus isceti produtos cun retzensiones fidadas. <a data-l10n-name="review-quality-url">Àteras informatziones</a>
@@ -118,7 +115,6 @@ shopping-settings-sidebar-enabled-state = Su verificadore de retzensiones est <s
 shopping-adjusted-rating-label =
     .label = Valutatzione assentada
 shopping-adjusted-rating-unreliable-reviews = Retzensiones non fidadas bogadas
-shopping-adjusted-rating-based-reliable-reviews = Basadu subra retzensiones fidadas
 
 ## Strings for the review reliability component
 
@@ -137,8 +133,6 @@ shopping-analysis-explainer-learn-more2 = Àteras informatziones in pitzus de <a
 # websites, which will be inserted without being translated.
 #  $retailer (String) - capitalized name of the shopping website, for example, "Amazon".
 shopping-analysis-explainer-highlights-description = Is elementos <strong>in evidèntzia</strong> benent dae is retzensiones in { $retailer } de is ùrtimas 80 dies chi cunsideramus fidadas.
-# Fallback for analysis highlights explainer if the retailer is ever unknown
-shopping-analysis-explainer-highlights-description-unknown-retailer = Is elementos <strong>in evidèntzia</strong> benent dae is retzensiones de is ùrtimas 80 dies chi cunsideramus fidadas.
 shopping-analysis-explainer-review-grading-scale-reliable = Retzensiones fidadas. Pensamus chi is retzensiones est probàbile chi bèngiant dae clientes reales chi ant lassadu retzensiones sintzeras e ogetivas.
 shopping-analysis-explainer-review-grading-scale-mixed = Pensamus chi ddoe at unu misturu de retzensiones fidadas e non fidadas.
 shopping-analysis-explainer-review-grading-scale-unreliable = Retzensiones non fidadas. Pensamus chi is retzensiones est probàbile chi siant farsas o bèngiant dae utentes no ogetivos.
@@ -165,7 +159,6 @@ shopping-unanalyzed-product-analyze-button = Controlla sa calidade de sa retzens
 
 more-to-consider-ad-label =
     .label = Àteru de cunsiderare
-shopping-sponsored-label = Patrotzinadu
 ad-by-fakespot = Publitzidade dae { -fakespot-brand-name }
 
 ## Shopping survey strings.
@@ -186,18 +179,6 @@ shopping-survey-submit-button-label = Imbia
 shopping-survey-terms-link = Cunditziones de su servìtziu
 shopping-survey-thanks =
     .heading = Gràtzias de s’opinione tua!
-
-## Shopping opted-out survey strings
-## Opt-out survey options are displayed as checkboxes and the user can select one or many.
-
-shopping-survey-opted-out-multiselect-label = Faghe·nos ischire pro ite as disativadu su Verificadore de retzensiones. Podes seberare prus de una resone.
-shopping-survey-thanks-title = Gràtzias pro s’opinione tua!
-shopping-survey-opted-out-hard-to-understand = Est malu a cumprèndere
-shopping-survey-opted-out-too-slow = Istentat tropu
-shopping-survey-opted-out-not-accurate = No est coidadosu
-shopping-survey-opted-out-not-helpful = Non m’agiudat
-shopping-survey-opted-out-check-myself = Preferu a m’averiguare is retzensiones a sa sola
-shopping-survey-opted-out-other = Àteru
 
 ## Shopping Feature Callout strings.
 ## "price tag" refers to the price tag icon displayed in the address bar to
@@ -251,36 +232,3 @@ shopping-onboarding-dialog-close-button =
 #   $total (Int) - Total number of pages
 shopping-onboarding-welcome-steps-indicator-label =
     .aria-label = Progressu: passu { $current } de { $total }
-
-## Review Checker in Integrated sidebar
-
-# Opt-in message strings for Review Checker when it is integrated into the global sidebar.
-shopping-opt-in-integrated-headline = Còmpora cun cunfiàntzia
-
-## Messages for callout for users not opted into the sidebar integrated version of Review Checker.
-
-shopping-callout-not-opted-in-integrated-reminder-dismiss-button = Iscarta
-shopping-callout-not-opted-in-integrated-reminder-accept-button = Ativa su verificadore de retzensiones
-shopping-opt-in-integrated-button = Proa su verificadore de retzensiones
-
-## Message strings for Review Checker's empty states.
-
-
-## Confirm disabling Review Checker for newly opted out users
-
-shopping-integrated-callout-opted-out-title = Su verificadore de retzensiones est disativadu
-
-## Callout for where to find Review Checker when the sidebar closes
-
-shopping-integrated-callout-sidebar-closed-title = Torra a su verificadore de retzensiones
-
-## Strings for a notification card about Review Checker's new position in the sidebar.
-## The card will only appear for users that have the default sidebar position, which is on the left side for non RTL locales.
-## Review Checker in the sidebar is only available to US users at this time, so we can assume that the default position is on the left side.
-
-shopping-integrated-new-position-notification-move-right-button = Move a dereta
-shopping-integrated-new-position-notification-move-left-button = Move a manca
-shopping-integrated-new-position-notification-dismiss-button = Apo cumprèndidu
-
-## Combined setting for auto-open and auto-close.
-

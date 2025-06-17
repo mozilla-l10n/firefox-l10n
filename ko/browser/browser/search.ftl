@@ -64,13 +64,6 @@ add-engine-keyword2 = 키워드 (선택 사항)
 # POST and GET refer to the HTTP methods.
 add-engine-post-data = 검색어 대신 %s를 사용한 POST 데이터 (GET의 경우 비워둠)
 add-engine-suggest-url = 검색어 대신 %s를 사용한 제안 URL (선택 사항)
-add-engine-keyword = 키워드
-add-engine-url = 엔진 URL, 검색어 대신 %s 사용
-add-engine-dialog =
-    .buttonlabelaccept = 엔진 추가
-    .buttonaccesskeyaccept = A
-engine-name-exists = 해당 이름의 엔진이 이미 있음
-engine-keyword-exists = 해당 키워드를 가진 엔진이 이미 존재함
 
 ## The following placeholders are shown in the inputs when adding a new engine.
 

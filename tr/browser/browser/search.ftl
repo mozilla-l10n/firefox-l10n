@@ -64,13 +64,6 @@ add-engine-keyword2 = Anahtar kelime (isteğe bağlı)
 # POST and GET refer to the HTTP methods.
 add-engine-post-data = Aranacak terimin yerine %s gelecek şekilde POST verisi (GET için boş bırakın)
 add-engine-suggest-url = Aranacak terimin yerine %s gelecek şekilde öneri URL’si (isteğe bağlı)
-add-engine-keyword = Anahtar kelime
-add-engine-url = Motor adresi. Aranacak terim yerine %s koyun
-add-engine-dialog =
-    .buttonlabelaccept = Motor ekle
-    .buttonaccesskeyaccept = e
-engine-name-exists = Bu isimde bir motor zaten var
-engine-keyword-exists = Bu anahtar kelimeyi kullanan bir motor zaten var
 
 ## The following placeholders are shown in the inputs when adding a new engine.
 

@@ -89,9 +89,6 @@ shopping-show-less-button = Vis mindre
 
 shopping-settings-label =
     .label = Innstillinger
-shopping-settings-recommendations-toggle2 =
-    .label = Vis anbefalinger og sponset innhold
-shopping-settings-recommendations-learn-more3 = { -brand-product-name } deler ikke dine personlige data, så disse anbefalingene følger deg ikke rundt på internett. <a data-l10n-name="review-quality-url">Finn ut mer</a>
 shopping-settings-recommendations-toggle =
     .label = Vis annonser i vurderingskontrollen
 shopping-settings-recommendations-learn-more2 = Du ser sporadiske annonser for relevante produkter. Vi annonserer kun produkter med pålitelige anmeldelser. <a data-l10n-name="review-quality-url">Les mer</a>
@@ -118,7 +115,6 @@ shopping-settings-sidebar-enabled-state = Vurderingskontrollør er <strong>på</
 shopping-adjusted-rating-label =
     .label = Justert vurdering
 shopping-adjusted-rating-unreliable-reviews = Upålitelige vuderinger er fjernet
-shopping-adjusted-rating-based-reliable-reviews = Basert på pålitelige vurderinger
 
 ## Strings for the review reliability component
 
@@ -137,8 +133,6 @@ shopping-analysis-explainer-learn-more2 = Les mer om <a data-l10n-name="review-q
 # websites, which will be inserted without being translated.
 #  $retailer (String) - capitalized name of the shopping website, for example, "Amazon".
 shopping-analysis-explainer-highlights-description = <strong>Høydepunkter</strong> er fra { $retailer }-vurderinger i løpet av de siste 80 dagene som vi mener er pålitelige.
-# Fallback for analysis highlights explainer if the retailer is ever unknown
-shopping-analysis-explainer-highlights-description-unknown-retailer = <strong>Høydepunkter</strong> er fra vurderinger i løpet av de siste 80 dagene som vi mener er pålitelige.
 shopping-analysis-explainer-review-grading-scale-reliable = Pålitelige vurderinger. Vi tror at vurderingene sannsynligvis kommer fra ekte kunder som har gitt ærlige, objektive vurderinger.
 shopping-analysis-explainer-review-grading-scale-mixed = Vi tror det er en blanding av pålitelige og upålitelige vurderinger.
 shopping-analysis-explainer-review-grading-scale-unreliable = Upålitelige vurderinger. Vi mener vurderingene sannsynligvis er falske eller fra partiske vurderere.
@@ -165,7 +159,6 @@ shopping-unanalyzed-product-analyze-button = Kontrollerer kvaliteten på vurderi
 
 more-to-consider-ad-label =
     .label = Mer å vurdere
-shopping-sponsored-label = Sponset
 ad-by-fakespot = Reklame fra { -fakespot-brand-name }
 
 ## Shopping survey strings.
@@ -186,18 +179,6 @@ shopping-survey-submit-button-label = Send inn
 shopping-survey-terms-link = Brukervilkår
 shopping-survey-thanks =
     .heading = Takk for tilbakemeldingen!
-
-## Shopping opted-out survey strings
-## Opt-out survey options are displayed as checkboxes and the user can select one or many.
-
-shopping-survey-opted-out-multiselect-label = Fortell oss hvorfor du deaktiverte vurderingskontrolløren. Velg flere om nødvendig.
-shopping-survey-thanks-title = Takk for tilbakemeldingen!
-shopping-survey-opted-out-hard-to-understand = Det er vanskelig å forstå
-shopping-survey-opted-out-too-slow = Det er for tregt
-shopping-survey-opted-out-not-accurate = Det er ikke nøyaktig
-shopping-survey-opted-out-not-helpful = Det er ikke nyttig for meg
-shopping-survey-opted-out-check-myself = Jeg vil heller sjekke vurderinger selv
-shopping-survey-opted-out-other = Annen
 
 ## Shopping Feature Callout strings.
 ## "price tag" refers to the price tag icon displayed in the address bar to
@@ -251,38 +232,3 @@ shopping-onboarding-dialog-close-button =
 #   $total (Int) - Total number of pages
 shopping-onboarding-welcome-steps-indicator-label =
     .aria-label = Fremdrift: trinn { $current } av { $total }
-
-## Review Checker in Integrated sidebar
-
-# Opt-in message strings for Review Checker when it is integrated into the global sidebar.
-shopping-opt-in-integrated-headline = Handle med selvtillit
-
-## Messages for callout for users not opted into the sidebar integrated version of Review Checker.
-
-shopping-callout-opt-in-integrated-headline = Kan du stole på disse anmeldelsene?
-shopping-callout-not-opted-in-integrated-reminder-dismiss-button = Ignorer
-shopping-callout-not-opted-in-integrated-reminder-accept-button = Slå på vurderingskontrolløren
-shopping-opt-in-integrated-button = Prøv vurderingskontrolløren
-
-## Message strings for Review Checker's empty states.
-
-shopping-empty-state-header = Klar til å sjekke anmeldelser
-
-## Confirm disabling Review Checker for newly opted out users
-
-
-## Callout for where to find Review Checker when the sidebar closes
-
-
-## Strings for a notification card about Review Checker's new position in the sidebar.
-## The card will only appear for users that have the default sidebar position, which is on the left side for non RTL locales.
-## Review Checker in the sidebar is only available to US users at this time, so we can assume that the default position is on the left side.
-
-shopping-integrated-new-position-notification-move-right-button = Flytt til høyre
-shopping-integrated-new-position-notification-move-left-button = Flytt til venstre
-shopping-integrated-new-position-notification-dismiss-button = Jeg forstår
-
-## Combined setting for auto-open and auto-close.
-
-shopping-settings-auto-open-and-close-toggle =
-    .label = Åpne og lukk vurderingskontrolløren automatisk

@@ -119,7 +119,6 @@ newtab-menu-show-privacy-info = Οι χορηγοί μας και το απόρ�
 newtab-menu-about-fakespot = Σχετικά με το { -fakespot-brand-name }
 # Report is a verb (i.e. report issue with the content).
 newtab-menu-report = Αναφορά
-newtab-menu-report-content = Αναφορά περιεχομένου
 # Context menu option to personalize New Tab recommended stories by blocking a section of stories,
 # e.g. "Sports". "Block" is a verb here.
 newtab-menu-section-block = Φραγή

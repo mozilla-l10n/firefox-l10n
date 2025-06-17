@@ -25,13 +25,6 @@ cert-error-trust-symantec = S ohledem na provinění společností GeoTrust, Rap
 # Variables:
 #   $hostname (string) - Hostname of the website with cert error.
 cert-error-trust-certificate-transparency = { -brand-short-name } nedůvěřuje serveru { $hostname }, protože nemohl prokázat, že splňuje požadavky na transparentnost veřejného certifikátu.
-# Variables:
-#   $hostname (string) - Hostname of the website with cert error.
-cert-error-revoked =
-    { -brand-short-name.case-status ->
-        [with-cases] Webové stránky prokazují svou identitu pomocí certifikátů. { -brand-short-name } nedůvěřuje { $hostname }, protože používá certifikát, který byl zneplatněn.
-       *[no-cases] Webové stránky prokazují svou identitu pomocí certifikátů. Aplikace { -brand-short-name } nedůvěřuje { $hostname }, protože používá certifikát, který byl zneplatněn.
-    }
 cert-error-untrusted-default = Certifikát nepochází z důvěryhodného zdroje.
 # Variables:
 #   $hostname (string) - Hostname of the website with cert error.

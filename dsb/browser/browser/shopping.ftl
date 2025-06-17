@@ -89,9 +89,6 @@ shopping-show-less-button = Mjenjej pokazaś
 
 shopping-settings-label =
     .label = Nastajenja
-shopping-settings-recommendations-toggle2 =
-    .label = Pórucenja a sponserowane wopśimjeśe pokazaś
-shopping-settings-recommendations-learn-more3 = { -brand-product-name } waše wósobinske daty njeźěle, togodla toś te pórucenja njebudu wam pśez internet slědowaś. <a data-l10n-name="review-quality-url">Dalšne informacije</a>
 shopping-settings-recommendations-toggle =
     .label = Wabjenje w kontroli pógódnośenjow pokazaś
 shopping-settings-recommendations-learn-more2 = Buźośo wótergi wabjenje za relewantne produkty wiźeś. Wabimy jano za produkty ze spušćobnymi pógódnośenjami. <a data-l10n-name="review-quality-url">Dalšne informacije</a>
@@ -118,7 +115,6 @@ shopping-settings-sidebar-enabled-state = Kontrola pógódnośenjow jo <strong>z
 shopping-adjusted-rating-label =
     .label = Pśměrjone pógódnośowanje
 shopping-adjusted-rating-unreliable-reviews = Njespušćobne pógódnośenja wótwónoźone
-shopping-adjusted-rating-based-reliable-reviews = Bazěrujo na spušćobnych pógódnośenjach
 
 ## Strings for the review reliability component
 
@@ -139,8 +135,6 @@ shopping-analysis-explainer-learn-more2 = Zgóńśo wěcej wó tom, <a data-l10n
 # websites, which will be inserted without being translated.
 #  $retailer (String) - capitalized name of the shopping website, for example, "Amazon".
 shopping-analysis-explainer-highlights-description = <strong>Wjerški</strong> su z pógódnośenjow { $retailer } w běgu slědnych 80 dnjow, kótarež mamy za spušćobne.
-# Fallback for analysis highlights explainer if the retailer is ever unknown
-shopping-analysis-explainer-highlights-description-unknown-retailer = <strong>Wjerški</strong> su z pógódnośenjow w běgu slědnych 80 dnjow, kótarež mamy za spušćobne.
 shopping-analysis-explainer-review-grading-scale-reliable = Spušćobne pógódnośenja. Myslimy se, až pógódnośenja su nejskerjej wót wopšawdnych kupcow, kótarež su zawóstajili spšawne, bźezpśedsudkowe pógódnośenja.
 shopping-analysis-explainer-review-grading-scale-mixed = Wěrimy, až dajo měšańcu spušćobnych a njespušćobnych pógódnośenjow.
 shopping-analysis-explainer-review-grading-scale-unreliable = Njespušćobne pógódnośenja. Myslimy se, až pógódnośenja su nejskerjej sfalšowane abo wót pógódnośujucych z pśedsudkami.
@@ -167,7 +161,6 @@ shopping-unanalyzed-product-analyze-button = Kwalitu pógódnośenjow kontrolěr
 
 more-to-consider-ad-label =
     .label = Dalšne móžnosći
-shopping-sponsored-label = Sponserowany
 ad-by-fakespot = Wabjenje wót { -fakespot-brand-name }
 
 ## Shopping survey strings.
@@ -188,18 +181,6 @@ shopping-survey-submit-button-label = Wótpósłaś
 shopping-survey-terms-link = Wužywańske wuměnjenja
 shopping-survey-thanks =
     .heading = Źěkujomy se za waš komentar!
-
-## Shopping opted-out survey strings
-## Opt-out survey options are displayed as checkboxes and the user can select one or many.
-
-shopping-survey-opted-out-multiselect-label = Pšosym dajśo nam k wěsći, cogodla sćo znjemóžnił kontrolu pógódnośenjow. Móžośo někotare móžnosći wubraś, jolic trjeba.
-shopping-survey-thanks-title = Źěkujomy se za waš komentar!
-shopping-survey-opted-out-hard-to-understand = Jo śěžko rozměś
-shopping-survey-opted-out-too-slow = Jo pśepómały
-shopping-survey-opted-out-not-accurate = Njejo dokradny
-shopping-survey-opted-out-not-helpful = Njejo wužytny za mnjo
-shopping-survey-opted-out-check-myself = Pśeglědujom lubjej pógódnośenja sam
-shopping-survey-opted-out-other = Druge
 
 ## Shopping Feature Callout strings.
 ## "price tag" refers to the price tag icon displayed in the address bar to
@@ -253,76 +234,3 @@ shopping-onboarding-dialog-close-button =
 #   $total (Int) - Total number of pages
 shopping-onboarding-welcome-steps-indicator-label =
     .aria-label = Póstup: kšac { $current } z { $total }
-
-## Review Checker in Integrated sidebar
-
-# Opt-in message strings for Review Checker when it is integrated into the global sidebar.
-shopping-opt-in-integrated-headline = Nakupujśo z dowěru
-# Description text for regions where we support three sites. Sites are limited to Amazon, Walmart and Best Buy.
-# Variables:
-#   $firstSite (String) - The first shopping page name
-#   $secondSite (String) - The second shopping page name
-#   $thirdSite (String) - The third shopping page name
-shopping-opt-in-integrated-subtitle = Zmóžniśo kontrolu pógódnośenjow z { -brand-product-name }, aby wiźeł, kak spušćobne pógódnośenja produktow su, nježli až kupujośo. Wužywa technologiju KI, aby pógódnośenja analyzěrowała a funkcioněrujo, gaž na { $firstSite }, { $secondSite } a { $thirdSite } nakupujośo. <a data-l10n-name="learn_more">Dalšne informacije</a>
-# Description text for regions where we support three sites. Sites are limited to Amazon, Walmart and Best Buy.
-# Variables:
-#   $firstSite (String) - The first shopping page name
-#   $secondSite (String) - The second shopping page name
-#   $thirdSite (String) - The third shopping page name
-shopping-opt-in-integrated-subtitle-unsupported-site = Kontrola pógódnośenjow z { -brand-product-name } wam pomaga zgóniś, kak spušćobne pógódnośenja produkta su, nježli až kupujośo. Wužywa technologiju KI, aby pógódnośenja analyzěrowała a funkcioněrujo, gaž na { $firstSite }, { $secondSite } a { $thirdSite } nakupujośo. <a data-l10n-name="learn_more">Dalšne informacije</a>
-
-## Messages for callout for users not opted into the sidebar integrated version of Review Checker.
-
-shopping-callout-opt-in-integrated-headline = Móžośo toś tym pógódnośenjam dowěriś?
-# Appears underneath shopping-opt-in-integrated-headline to answer the question 'Can you trust these reviews?'
-shopping-callout-not-opted-in-integrated-paragraph1 = Zmóžniśo kontrolu pógódnośenjow z { -brand-product-name } a namakajśo to wen. Spěchujo se pśez { -fakespot-brand-full-name } a wužywa technologiju KI, aby pógódnośenja analyzěrowała.
-shopping-callout-not-opted-in-integrated-paragraph2 = Gaž “{ shopping-opt-in-integrated-button }“ wuběraśo, zwolijośo do <a data-l10n-name="privacy_policy">powěźeńki priwatnosći</a> { -brand-product-name } a <a data-l10n-name="terms_of_use">wužywańskich wuměnjenjow</a> { -fakespot-brand-full-name }.
-shopping-callout-not-opted-in-integrated-reminder-dismiss-button = Zachyśiś
-shopping-callout-not-opted-in-integrated-reminder-accept-button = Kontrolu pógódnośenjow zmóžniś
-shopping-opt-in-integrated-privacy-policy-and-terms-of-use = Kontrola pógódnośenjow se wót { -fakespot-brand-full-name } pódpěra. Gaž “{ shopping-opt-in-integrated-button }“ wuběraśo, zwolijośo do <a data-l10n-name="privacy_policy">powěźeńki priwatnosći</a> { -brand-product-name } a <a data-l10n-name="terms_of_use">wužywańskich wuměnjenjow</a> { -fakespot-brand-name }.
-shopping-opt-in-integrated-button = Kontrolu pógódnośenjow wopytaś
-
-## Message strings for Review Checker's empty states.
-
-shopping-empty-state-header = Gótowy, aby pógódnośenja kontrolěrował
-shopping-empty-state-supported-site = Woglědajśo se produkt a { -brand-product-name } buźo kontrolěrowaś, lěc pógódnośenja su spušćobne.
-# We show a list of sites supported by Review Checker whenever a user opens the feature in an unsupported site.
-# This string will be displayed above the list of sites. The list will be hardcoded and does not require localization.
-shopping-empty-state-non-supported-site = Kontrola pógódnośenjow funkcioněrujo, gaž nakupujośo na:
-
-## Confirm disabling Review Checker for newly opted out users
-
-shopping-integrated-callout-opted-out-title = Kontrola pógódnośenjow jo znjemóžnjona
-shopping-integrated-callout-opted-out-subtitle = Aby ju znowego zmóžnił, wubjeŕśo płaśiznowe wobznamjenje w bocnicy a zmóžniśo kontrolu pógódnośenjow.
-
-## Callout for where to find Review Checker when the sidebar closes
-
-shopping-integrated-callout-sidebar-closed-title = Slědk ku kontroli pógódnośenjow
-shopping-integrated-callout-sidebar-closed-subtitle = Wubjeŕśo płaśiznowe wobznamjenje w bocnicy, aby wiźeł, lěc móžośo pógódnośenjam produkta dowěriś.
-shopping-integrated-callout-no-logo-sidebar-closed-subtitle = Wubjeŕśo tłocašk bocnice, aby wiźeł, lěc móžośo pógódnośenjam produkta dowěriś.
-
-## Strings for a notification card about Review Checker's new position in the sidebar.
-## The card will only appear for users that have the default sidebar position, which is on the left side for non RTL locales.
-## Review Checker in the sidebar is only available to US users at this time, so we can assume that the default position is on the left side.
-
-shopping-integrated-new-position-notification-title = Samska kontrola pógódnośenjow, nowe městno
-shopping-integrated-new-position-notification-move-right-subtitle = Wóstajśo kontrolu pógódnośenjow a zbytk bocnice { -brand-product-name } how – abo pśesuńśo jej dopšawa. Změńśo něnto abo kuždy cas w <a data-l10n-name="sidebar_settings">nastajenjach bocnice</a>.
-shopping-integrated-new-position-notification-move-left-subtitle = Wóstajśo kontrolu pógódnośenjow a zbytk bocnice { -brand-product-name } how – abo pśesuńśo jej dolěwa. Změńśo něnto abo kuždy cas w <a data-l10n-name="sidebar_settings">nastajenjach bocnice</a>.
-shopping-integrated-new-position-notification-move-right-button = Napšawo pśesunuś
-shopping-integrated-new-position-notification-move-left-button = Nalěwo pśesunuś
-shopping-integrated-new-position-notification-dismiss-button = Som zrozměł
-
-## Combined setting for auto-open and auto-close.
-
-shopping-settings-auto-open-and-close-toggle =
-    .label = Kontrolu pógódnośenjow awtomatiski wócyniś a zacyniś
-# Description text for regions where we support three sites. Sites are limited to Amazon, Walmart and Best Buy.
-# Variables:
-#   $firstSite (String) - The first shopping page name
-#   $secondSite (String) - The second shopping page name
-#   $thirdSite (String) - The third shopping page name
-shopping-settings-auto-open-and-close-description-three-sites = Wócynja se, gaž se produkty na { $firstSite }, { $secondSite } a { $thirdSite } woglědujośo a zacynja se, gaž spušćaśo
-# Description text for regions where we support only one site (e.g. currently used in FR/DE with Amazon).
-# Variables:
-#   $currentSite (String) - The current shopping page name
-shopping-settings-auto-open-and-close-description-single-site = Wócynja se, gaž se na { $currentSite } produkty woglědujośo a zacynja se, gaž sedło spušćaśo

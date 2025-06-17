@@ -89,9 +89,6 @@ shopping-show-less-button = Vis færre
 
 shopping-settings-label =
     .label = Indstillinger
-shopping-settings-recommendations-toggle2 =
-    .label = Vis anbefalinger og sponsoreret indhold
-shopping-settings-recommendations-learn-more3 = { -brand-product-name } deler ikke dine personlige data, så disse anbefalinger kommer ikke til at følge dig rundt på nettet. <a data-l10n-name="review-quality-url">Læs mere</a>
 shopping-settings-recommendations-toggle =
     .label = Vis reklamer i verificering af anmeldelser
 shopping-settings-recommendations-learn-more2 = Du vil til tider få vist reklamer for relevante produkter. Vi reklamerer kun for produkter med pålidelige anmeldelser. <a data-l10n-name="review-quality-url">Læs mere</a>
@@ -118,7 +115,6 @@ shopping-settings-sidebar-enabled-state = Verificering af anmeldelser er <strong
 shopping-adjusted-rating-label =
     .label = Justeret bedømmelse
 shopping-adjusted-rating-unreliable-reviews = Upålidelige anmeldelser er blevet fjernet
-shopping-adjusted-rating-based-reliable-reviews = Baseret på pålidelige anmeldelser
 
 ## Strings for the review reliability component
 
@@ -137,8 +133,6 @@ shopping-analysis-explainer-learn-more2 = Læs mere om, <a data-l10n-name="revie
 # websites, which will be inserted without being translated.
 #  $retailer (String) - capitalized name of the shopping website, for example, "Amazon".
 shopping-analysis-explainer-highlights-description = <strong>Højdepunkter</strong> stammer fra { $retailer }-anmeldelser fra de seneste 80 dage, som vi vurderer er pålidelige.
-# Fallback for analysis highlights explainer if the retailer is ever unknown
-shopping-analysis-explainer-highlights-description-unknown-retailer = <strong>Højdepunkter</strong> stammer fra anmeldelser fra de seneste 80 dage, som vi vurderer er pålidelige.
 shopping-analysis-explainer-review-grading-scale-reliable = Pålidelige anmeldelser. Vi vurderer, at anmeldelserne sandsynligvis stammer fra rigtige kunder, der har givet ærlige og upartiske anmeldelser.
 shopping-analysis-explainer-review-grading-scale-mixed = Vi vurderer, at der findes en blanding af pålidelige og upålidelige anmeldelser.
 shopping-analysis-explainer-review-grading-scale-unreliable = Upålidelige anmeldelser. Vi vurderer, at anmeldelserne sandsynligvis er forfalskede eller stammer fra partiske anmeldere.
@@ -165,7 +159,6 @@ shopping-unanalyzed-product-analyze-button = Kontroller kvalitet af anmeldelser
 
 more-to-consider-ad-label =
     .label = Mere at overveje
-shopping-sponsored-label = Sponsoreret
 ad-by-fakespot = Reklame fra { -fakespot-brand-name }
 
 ## Shopping survey strings.
@@ -186,18 +179,6 @@ shopping-survey-submit-button-label = Indsend
 shopping-survey-terms-link = Betingelser for brug
 shopping-survey-thanks =
     .heading = Tak for tilbagemeldingen!
-
-## Shopping opted-out survey strings
-## Opt-out survey options are displayed as checkboxes and the user can select one or many.
-
-shopping-survey-opted-out-multiselect-label = Fortæl os gerne, hvorfor du slog Verificering af anmeldelser fra. Vælg gerne flere udsagn, hvis du har behov for det.
-shopping-survey-thanks-title = Tak for tilbagemeldingen!
-shopping-survey-opted-out-hard-to-understand = Funktionen er svær at forstå
-shopping-survey-opted-out-too-slow = Funktionen er for langsom
-shopping-survey-opted-out-not-accurate = Funktionen er ikke nøjagtig
-shopping-survey-opted-out-not-helpful = Funktionen hjælper mig ikke
-shopping-survey-opted-out-check-myself = Jeg vil hellere kontrollere anmeldelser selv
-shopping-survey-opted-out-other = Andet
 
 ## Shopping Feature Callout strings.
 ## "price tag" refers to the price tag icon displayed in the address bar to
@@ -251,76 +232,3 @@ shopping-onboarding-dialog-close-button =
 #   $total (Int) - Total number of pages
 shopping-onboarding-welcome-steps-indicator-label =
     .aria-label = Status: Skridt { $current } af { $total }
-
-## Review Checker in Integrated sidebar
-
-# Opt-in message strings for Review Checker when it is integrated into the global sidebar.
-shopping-opt-in-integrated-headline = Vær tryg når du handler
-# Description text for regions where we support three sites. Sites are limited to Amazon, Walmart and Best Buy.
-# Variables:
-#   $firstSite (String) - The first shopping page name
-#   $secondSite (String) - The second shopping page name
-#   $thirdSite (String) - The third shopping page name
-shopping-opt-in-integrated-subtitle = Aktiver funktionen Verificering af anmeldelser fra { -brand-product-name } for at se, hvor pålidelige anmeldelserne af et produkt er, før du handler. Funktionen bruger AI-teknologi til at analysere anmeldelser og fungerer, når du handler på { $firstSite }, { $secondSite } og { $thirdSite }. <a data-l10n-name="learn_more">Læs mere</a>
-# Description text for regions where we support three sites. Sites are limited to Amazon, Walmart and Best Buy.
-# Variables:
-#   $firstSite (String) - The first shopping page name
-#   $secondSite (String) - The second shopping page name
-#   $thirdSite (String) - The third shopping page name
-shopping-opt-in-integrated-subtitle-unsupported-site = Funktionen Verificering af anmeldelser fra { -brand-product-name } hjælper dig med at gennemskue, hvor pålidelige anmeldelserne af et produkt er, før du handler. Funktionen bruger AI-teknologi til at analysere anmeldelser og fungerer, når du handler på { $firstSite }, { $secondSite } og { $thirdSite }. <a data-l10n-name="learn_more">Læs mere</a>
-
-## Messages for callout for users not opted into the sidebar integrated version of Review Checker.
-
-shopping-callout-opt-in-integrated-headline = Kan du stole på anmeldelserne?
-# Appears underneath shopping-opt-in-integrated-headline to answer the question 'Can you trust these reviews?'
-shopping-callout-not-opted-in-integrated-paragraph1 = Aktiver funktionen Verificering af anmeldelser fra { -brand-product-name } for at finde ud af det. Funktionen bruger AI-teknologi fra { -fakespot-brand-full-name } til at analysere anmeldelser.
-shopping-callout-not-opted-in-integrated-paragraph2 = Ved at vælge “{ shopping-opt-in-integrated-button }” accepterer du { -brand-product-name }' <a data-l10n-name="privacy_policy">privatlivserklæring</a> samt { -fakespot-brand-full-name }s <a data-l10n-name="terms_of_use">betingelser for brug.</a>
-shopping-callout-not-opted-in-integrated-reminder-dismiss-button = Afvis
-shopping-callout-not-opted-in-integrated-reminder-accept-button = Aktiver Verificering af anmeldelser
-shopping-opt-in-integrated-privacy-policy-and-terms-of-use = Verificering af anmeldelser er leveret af { -fakespot-brand-full-name }. Ved at vælge “{ shopping-opt-in-integrated-button }” accepterer du { -brand-product-name }' <a data-l10n-name="privacy_policy">privatlivserklæring</a> samt { -fakespot-brand-name }s <a data-l10n-name="terms_of_use">betingelser for brug.</a>
-shopping-opt-in-integrated-button = Prøv Verificering af anmeldelser
-
-## Message strings for Review Checker's empty states.
-
-shopping-empty-state-header = Klar til at analysere anmeldelser
-shopping-empty-state-supported-site = Vis et produkt for at få { -brand-product-name } til at analysere, om anmeldelserne er pålidelige.
-# We show a list of sites supported by Review Checker whenever a user opens the feature in an unsupported site.
-# This string will be displayed above the list of sites. The list will be hardcoded and does not require localization.
-shopping-empty-state-non-supported-site = Verificering af anmeldelser virker, når du handler på:
-
-## Confirm disabling Review Checker for newly opted out users
-
-shopping-integrated-callout-opted-out-title = Verificering af anmeldelser er slået fra
-shopping-integrated-callout-opted-out-subtitle = For at aktivere funktionen igen skal du klikke på prismærket i sidepanelet og slå Verificering af anmeldelser til.
-
-## Callout for where to find Review Checker when the sidebar closes
-
-shopping-integrated-callout-sidebar-closed-title = Vend tilbage til Verificering af anmeldelser
-shopping-integrated-callout-sidebar-closed-subtitle = Vælg prismærket i sidepanelet for at se, om du kan stole på anmeldelserne af et produkt.
-shopping-integrated-callout-no-logo-sidebar-closed-subtitle = Klik på knappen i sidepanelet for at se, om du kan stole på anmeldelserne af et produkt.
-
-## Strings for a notification card about Review Checker's new position in the sidebar.
-## The card will only appear for users that have the default sidebar position, which is on the left side for non RTL locales.
-## Review Checker in the sidebar is only available to US users at this time, so we can assume that the default position is on the left side.
-
-shopping-integrated-new-position-notification-title = Samme Verificering af anmeldelser, nyt sted
-shopping-integrated-new-position-notification-move-right-subtitle = Behold Verificering af anmeldelser og resten af sidepanelet i { -brand-product-name } på sin nuværende plads - eller flyt panelet til højre. Du kan altid ændre det i <a data-l10n-name="sidebar_settings">indstillingerne for sidepanel</a>.
-shopping-integrated-new-position-notification-move-left-subtitle = Behold Verificering af anmeldelser og resten af sidepanelet i { -brand-product-name } på sin nuværende plads - eller flyt panelet til venstre. Du kan altid ændre det i <a data-l10n-name="sidebar_settings">indstillingerne for sidepanel</a>.
-shopping-integrated-new-position-notification-move-right-button = Flyt til højre
-shopping-integrated-new-position-notification-move-left-button = Flyt til venstre
-shopping-integrated-new-position-notification-dismiss-button = Forstået
-
-## Combined setting for auto-open and auto-close.
-
-shopping-settings-auto-open-and-close-toggle =
-    .label = Åbn og luk Verificering af anmeldelser automatisk
-# Description text for regions where we support three sites. Sites are limited to Amazon, Walmart and Best Buy.
-# Variables:
-#   $firstSite (String) - The first shopping page name
-#   $secondSite (String) - The second shopping page name
-#   $thirdSite (String) - The third shopping page name
-shopping-settings-auto-open-and-close-description-three-sites = Åbner, når du kigger på produkter fra { $firstSite }, { $secondSite } og { $thirdSite } - og lukker igen, når du forlader webstedet
-# Description text for regions where we support only one site (e.g. currently used in FR/DE with Amazon).
-# Variables:
-#   $currentSite (String) - The current shopping page name
-shopping-settings-auto-open-and-close-description-single-site = Åbner, når du kigger på produkter på { $currentSite } - og lukker igen, når du forlader webstedet

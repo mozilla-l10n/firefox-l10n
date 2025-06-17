@@ -21,9 +21,6 @@ cert-error-trust-symantec = GeoTrust, RapidSSL, Symantec, Thawte, ਅਤੇ Veri
 # Variables:
 #   $hostname (string) - Hostname of the website with cert error.
 cert-error-trust-certificate-transparency = { -brand-short-name } { $hostname } ਉੱਤੇ ਭਰੋਸਾ ਨਹੀਂ ਕਰਦਾ ਹੈ, ਕਿਉਂਕਿ ਇਹ ਪਬਲਿਕ ਸਰਟੀਫਿਕੇਟ ਪਾਰਦਰਸ਼ਤਾ ਲੋੜਾਂ ਉੱਤੇ ਖ਼ਰਾ ਨਹੀਂ ਉੱਤਰਨ ਨੂੰ ਸਿੱਧ ਨਹੀਂ ਕਰ ਸਕਦਾ ਹੈ।
-# Variables:
-#   $hostname (string) - Hostname of the website with cert error.
-cert-error-revoked = ਵੈੱਬਸਾਈਟਾਂ ਸਰਟੀਫਿਕੇਟਾਂ ਰਾਹੀਂ ਆਪਣੀ ਪਛਾਣ ਸਾਬਤ ਕਰਦੀਆਂ ਹਨ। { $hostname } ਵਲੋਂ ਮਨਸੂਖ ਕੀਤੇ ਸਰਟੀਫਿਕੇਟ ਨੂੰ ਵਰਤੇ ਜਾਣ ਕਰਕੇ { -brand-short-name } ਇਸ ਉੱਤੇ ਭਰੋਸਾ ਨਹੀਂ ਕਰਦਾ ਹੈ।
 cert-error-untrusted-default = ਸਰਟੀਫਿਕੇਟ ਇੱਕ ਭਰੋਸੇਯੋਗ ਸਰੋਤ ਨਹੀਂ ਆਇਆ ਹੈ।
 # Variables:
 #   $hostname (string) - Hostname of the website with cert error.

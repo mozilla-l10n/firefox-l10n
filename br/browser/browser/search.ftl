@@ -51,11 +51,6 @@ add-engine-window =
     .style = min-width: 32em;
 add-engine-button = Ouzhpennañ ul lusker personelaet
 add-engine-name = Anv ar c'heflusker enklask
-add-engine-url = URL al lusker, implijit %s e-lec'h an termen da glask
-add-engine-dialog =
-    .buttonlabelaccept = Ouzhpennañ ul lusker
-    .buttonaccesskeyaccept = O
-engine-name-exists = Ul lusker gant an anv-se ez eus anezhañ endeo
 
 ## The following placeholders are shown in the inputs when adding a new engine.
 

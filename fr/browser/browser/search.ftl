@@ -63,13 +63,6 @@ add-engine-url2 = URL avec %s à la place de l’expression recherchée
 add-engine-keyword2 = Mot-clé (facultatif)
 # POST and GET refer to the HTTP methods.
 add-engine-post-data = Données POST avec %s à la place de l’expression recherchée (laisser vide pour GET)
-add-engine-keyword = Mot-clé
-add-engine-url = URL du moteur, utilisez %s à la place du terme de recherche
-add-engine-dialog =
-    .buttonlabelaccept = Ajouter un moteur
-    .buttonaccesskeyaccept = A
-engine-name-exists = Un moteur portant ce nom existe déjà
-engine-keyword-exists = Un moteur avec ce mot-clé existe déjà
 
 ## The following placeholders are shown in the inputs when adding a new engine.
 

@@ -71,8 +71,6 @@ sidebar-menu-bookmarks-label =
     .label = Marcapaginas
 sidebar-menu-customize-label =
     .label = Personalizar la barra laterala
-sidebar-menu-review-checker-label =
-    .label = Verificador d’avises
 
 ## Tooltips for sidebar menu items.
 

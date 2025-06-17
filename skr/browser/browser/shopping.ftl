@@ -89,8 +89,6 @@ shopping-show-less-button = گھٹ ݙکھاؤ
 
 shopping-settings-label =
     .label = ترتیباں
-shopping-settings-recommendations-toggle2 =
-    .label = سفارشاں تے سپانسر تھیا مواد ݙکھاؤ
 shopping-settings-recommendations-toggle =
     .label = ریویو چیکر وِچ اشتہارات ݙِکھاؤ
 shopping-settings-recommendations-learn-more2 = تُہاکوں متعلقہ مصنوعات کِیتے کݙان٘ہیں کݙان٘ہیں اشتہارات نظرسِن۔ اَساں صرف قابلِ بھرواسہ جائزیاں دے نال مصنوعات دی تشہیر کرین٘دے ہِسے۔ <a data-l10n-name="review-quality-url">ٻِیا ڄاݨو</a>
@@ -117,7 +115,6 @@ shopping-settings-sidebar-enabled-state = ریویو چیکر <strong>چالو</
 shopping-adjusted-rating-label =
     .label = مرتب کِیتی ڳئی درجہ بندی
 shopping-adjusted-rating-unreliable-reviews = نا قابلِ بھرواسہ تجزیے ہَٹا ݙِتّے ڳئے
-shopping-adjusted-rating-based-reliable-reviews = قابلِ اعتماد جائزیاں دی بنیاد تے
 
 ## Strings for the review reliability component
 
@@ -136,8 +133,6 @@ shopping-analysis-explainer-learn-more2 = <a data-l10n-name="review-quality-url"
 # websites, which will be inserted without being translated.
 #  $retailer (String) - capitalized name of the shopping website, for example, "Amazon".
 shopping-analysis-explainer-highlights-description = <strong>نمونے</strong>پِچھوکڑ 80 ݙیہاڑیاں دے وِچ{ $retailer } جائزیاں وِچوں ہِن جِنّھاں کوں اَساں قابلِ بھرواسہ سمجھدے ہِسے۔
-# Fallback for analysis highlights explainer if the retailer is ever unknown
-shopping-analysis-explainer-highlights-description-unknown-retailer = <strong>نمونے</strong>پِچھوکڑ 80 ݙیہاڑیاں دے وِچ جائزیاں وِچوں ہِن جِنّھاں کوں اَساں قابلِ بھرواسہ سمجھدے ہِسے۔
 shopping-analysis-explainer-review-grading-scale-reliable = قابلِ بھرواسہ جائزے۔ اَساں منین٘دے ہِسے جو جائزے ممکنہ طور تے اصلی ڳاہکاں دی طرفوں ہِن، جِنّھاں نے ایماندار، غیر جانبدارانہ جائزے چھوڑے ہِن۔
 shopping-analysis-explainer-review-grading-scale-mixed = اَساں منین٘دے ہِسے جو اِتّھاں قابلِ بھرواسہ اَتے نا قابلِ بھرواسہ جائزیاں دا مرکب ہِے۔
 shopping-analysis-explainer-review-grading-scale-unreliable = نا قابلِ بھرواسہ جائزے۔ اَساں منین٘دے ہِسے جو جائزے ممکنہ طور تے کُوڑے ہِن یا جانبدار تجزیہ کاراں دے ہِن۔
@@ -164,7 +159,6 @@ shopping-unanalyzed-product-analyze-button = جائزے دا معیار ݙیکھ
 
 more-to-consider-ad-label =
     .label = غور کرݨ کِیتے کُجھ ٻِیا
-shopping-sponsored-label = سپانسر تھئے
 ad-by-fakespot = { -fakespot-brand-name } ولوں مشہوری
 
 ## Shopping survey strings.
@@ -185,10 +179,6 @@ shopping-survey-submit-button-label = جمع کرواؤ
 shopping-survey-terms-link = ورتݨ شرطاں
 shopping-survey-thanks =
     .heading = تہاݙے فیڈبیک تے تھورائت ہیں!
-
-## Shopping opted-out survey strings
-## Opt-out survey options are displayed as checkboxes and the user can select one or many.
-
 
 ## Shopping Feature Callout strings.
 ## "price tag" refers to the price tag icon displayed in the address bar to
@@ -242,26 +232,3 @@ shopping-onboarding-dialog-close-button =
 #   $total (Int) - Total number of pages
 shopping-onboarding-welcome-steps-indicator-label =
     .aria-label = پیش رفت: مرحلہ { $current } دا { $total }
-
-## Review Checker in Integrated sidebar
-
-
-## Messages for callout for users not opted into the sidebar integrated version of Review Checker.
-
-
-## Message strings for Review Checker's empty states.
-
-
-## Confirm disabling Review Checker for newly opted out users
-
-
-## Callout for where to find Review Checker when the sidebar closes
-
-
-## Strings for a notification card about Review Checker's new position in the sidebar.
-## The card will only appear for users that have the default sidebar position, which is on the left side for non RTL locales.
-## Review Checker in the sidebar is only available to US users at this time, so we can assume that the default position is on the left side.
-
-
-## Combined setting for auto-open and auto-close.
-

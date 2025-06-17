@@ -51,11 +51,6 @@ add-engine-window =
     .style = min-width: 32em;
 add-engine-button = Pridėti tinkintą ieškyklę
 add-engine-name = Ieškyklės pavadinimas
-add-engine-url = Ieškyklės URL, naudokite %s vietoje ieškomo teksto
-add-engine-dialog =
-    .buttonlabelaccept = Pridėti ieškyklę
-    .buttonaccesskeyaccept = P
-engine-name-exists = Ieškyklė tokiu pavadinimu jau yra
 
 ## The following placeholders are shown in the inputs when adding a new engine.
 

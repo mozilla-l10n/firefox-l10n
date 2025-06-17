@@ -48,11 +48,6 @@ add-engine-window =
     .style = min-width: 32em;
 add-engine-button = Boshqa tizimni qoʻshish
 add-engine-name = Qidiruv tizimi nomi
-add-engine-url = Qidiruv tizimi URL manzili, qidiruv soʻzi oʻrniga %sdan foydalaning
-add-engine-dialog =
-    .buttonlabelaccept = Tizimni qoʻshish
-    .buttonaccesskeyaccept = A
-engine-name-exists = Bunday nomdagi qidiruv tizimi oldin qoʻshilgan
 
 ## The following placeholders are shown in the inputs when adding a new engine.
 

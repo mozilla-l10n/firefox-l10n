@@ -21,9 +21,6 @@ cert-error-trust-symantec = A GeoTrust, a RapidSSL, a Symantec, a Thawte és a V
 # Variables:
 #   $hostname (string) - Hostname of the website with cert error.
 cert-error-trust-certificate-transparency = A { -brand-short-name } nem bízik a(z) { $hostname } webhelyben, mert nem tudta bizonyítani, hogy megfelel a nyilvános tanúsítványok átláthatósági követelményeinek.
-# Variables:
-#   $hostname (string) - Hostname of the website with cert error.
-cert-error-revoked = A weboldalak tanúsítványokkal bizonyítják a személyazonosságukat. A { -brand-short-name } nem bízik a(z) { $hostname } oldalban, mert egy visszavont tanúsítványt használ.
 cert-error-untrusted-default = A tanúsítvány nem megbízható forrásból érkezik.
 # Variables:
 #   $hostname (string) - Hostname of the website with cert error.

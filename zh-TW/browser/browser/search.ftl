@@ -64,13 +64,6 @@ add-engine-keyword2 = 關鍵字（選填）
 # POST and GET refer to the HTTP methods.
 add-engine-post-data = POST 資料（使用 %s 取代搜尋詞彙部分，若使用 GET 方法請留空）
 add-engine-suggest-url = 搜尋建議網址（使用 %s 取代搜尋詞彙部分，選填）
-add-engine-keyword = 關鍵字
-add-engine-url = 搜尋引擎網址，使用 %s 放置在要被取代為搜尋詞彙的位置
-add-engine-dialog =
-    .buttonlabelaccept = 新增搜尋引擎
-    .buttonaccesskeyaccept = A
-engine-name-exists = 已有使用該名稱的搜尋引擎存在
-engine-keyword-exists = 已有使用該關鍵字的搜尋引擎存在
 
 ## The following placeholders are shown in the inputs when adding a new engine.
 

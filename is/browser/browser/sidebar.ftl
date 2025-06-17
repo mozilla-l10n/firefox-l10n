@@ -4,8 +4,6 @@
 
 menu-view-genai-chat =
     .label = Gervigreindarspjallkerfi
-menu-view-review-checker =
-    .label = Umsagnaskoðun
 menu-view-contextual-password-manager =
     .label = Lykilorð
 sidebar-options-menu-button =
@@ -118,8 +116,6 @@ sidebar-menu-bookmarks-label =
     .label = Bókamerki
 sidebar-menu-customize-label =
     .label = Sérsníða hliðarstiku
-sidebar-menu-review-checker-label =
-    .label = Umsagnaskoðun
 sidebar-menu-contextual-password-manager-label =
     .label = Lykilorð
 

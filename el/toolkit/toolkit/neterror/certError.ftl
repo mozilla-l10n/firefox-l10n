@@ -21,9 +21,6 @@ cert-error-trust-symantec = Τα πιστοποιητικά που εκδίδο�
 # Variables:
 #   $hostname (string) - Hostname of the website with cert error.
 cert-error-trust-certificate-transparency = Το { -brand-short-name } δεν εμπιστεύεται το { $hostname }, επειδή δεν μπόρεσε να αποδείξει ότι πληροί τις απαιτήσεις διαφάνειας του δημόσιου πιστοποιητικού.
-# Variables:
-#   $hostname (string) - Hostname of the website with cert error.
-cert-error-revoked = Οι ιστότοποι αποδεικνύουν την ταυτότητά τους μέσω των πιστοποιητικών. Το { -brand-short-name } δεν εμπιστεύεται το { $hostname } επειδή χρησιμοποιεί ένα πιστοποιητικό που έχει ανακληθεί.
 cert-error-untrusted-default = Το πιστοποιητικό δεν προέρχεται από έμπιστη πηγή.
 # Variables:
 #   $hostname (string) - Hostname of the website with cert error.

@@ -21,9 +21,6 @@ cert-error-trust-symantec = Varmenteisiin, joiden myöntäjänä on GeoTrust, Ra
 # Variables:
 #   $hostname (string) - Hostname of the website with cert error.
 cert-error-trust-certificate-transparency = { -brand-short-name } ei luota sivustoon { $hostname }, koska se ei pystynyt todistamaan, että se täyttää julkisen varmenteen läpinäkyvyysvaatimukset.
-# Variables:
-#   $hostname (string) - Hostname of the website with cert error.
-cert-error-revoked = Verkkosivustot todentavat identiteettinsä varmenteilla. { -brand-short-name } ei luota sivustoon { $hostname }, koska se käyttää kumottua varmennetta.
 cert-error-untrusted-default = Varmenteen lähde ei ole luotettu.
 # Variables:
 #   $hostname (string) - Hostname of the website with cert error.

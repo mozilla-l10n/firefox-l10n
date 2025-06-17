@@ -4,8 +4,6 @@
 
 menu-view-genai-chat =
     .label = AI 聊天机器人
-menu-view-review-checker =
-    .label = 核查评价
 menu-view-contextual-password-manager =
     .label = 密码
 sidebar-options-menu-button =
@@ -125,8 +123,6 @@ sidebar-menu-bookmarks-label =
     .label = 书签
 sidebar-menu-customize-label =
     .label = 定制侧栏
-sidebar-menu-review-checker-label =
-    .label = 核查评价
 sidebar-menu-contextual-password-manager-label =
     .label = 密码
 

@@ -48,9 +48,6 @@ add-engine-window =
     .style = min-width: 32em;
 add-engine-button = مخصوص انجن شامل کریں
 add-engine-name = تلاش انجن کا نام
-add-engine-dialog =
-    .buttonlabelaccept = انجن شامل کریں
-    .buttonaccesskeyaccept = A
 
 ## The following placeholders are shown in the inputs when adding a new engine.
 

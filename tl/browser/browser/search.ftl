@@ -49,11 +49,6 @@ add-engine-window =
     .style = min-width: 32em;
 add-engine-button = Magdagdag ng Custom Engine
 add-engine-name = Maghanap ng engine name
-add-engine-url = Engine URL, gamitin ang %s sa halip na search term
-add-engine-dialog =
-    .buttonlabelaccept = Magdagdag ng Engine
-    .buttonaccesskeyaccept = A
-engine-name-exists = Mayroon nang engine na may ganoong pangalan
 
 ## The following placeholders are shown in the inputs when adding a new engine.
 

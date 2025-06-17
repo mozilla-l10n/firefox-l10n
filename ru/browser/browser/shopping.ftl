@@ -89,9 +89,6 @@ shopping-show-less-button = Показать меньше
 
 shopping-settings-label =
     .label = Настройки
-shopping-settings-recommendations-toggle2 =
-    .label = Показывать рекомендации и спонсируемое содержимое
-shopping-settings-recommendations-learn-more3 = { -brand-product-name } не делится вашими личными данными, поэтому эти рекомендации не будут следовать за вами в Интернете. <a data-l10n-name="review-quality-url">Подробнее</a>
 shopping-settings-recommendations-toggle =
     .label = Показывать рекламу в инструменте проверки отзывов
 shopping-settings-recommendations-learn-more2 = Время от времени вы будете видеть рекламу соответствующих продуктов. Мы рекламируем только товары с достоверными отзывами. <a data-l10n-name="review-quality-url">Подробнее</a>
@@ -118,7 +115,6 @@ shopping-settings-sidebar-enabled-state = Проверка отзывов <stron
 shopping-adjusted-rating-label =
     .label = Скорректированный рейтинг
 shopping-adjusted-rating-unreliable-reviews = Недостоверные отзывы удалены
-shopping-adjusted-rating-based-reliable-reviews = На основе достоверных отзывов
 
 ## Strings for the review reliability component
 
@@ -137,8 +133,6 @@ shopping-analysis-explainer-learn-more2 = Узнайте больше о том,
 # websites, which will be inserted without being translated.
 #  $retailer (String) - capitalized name of the shopping website, for example, "Amazon".
 shopping-analysis-explainer-highlights-description = <strong>Основные сведения</strong> взяты из отзывов на { $retailer } за последние 80 дней, которые мы считаем надежными.
-# Fallback for analysis highlights explainer if the retailer is ever unknown
-shopping-analysis-explainer-highlights-description-unknown-retailer = <strong>Основные сведения</strong> взяты из отзывов за последние 80 дней, которые мы считаем надежными.
 shopping-analysis-explainer-review-grading-scale-reliable = Достоверные отзывы. Мы считаем, что эти отзывы, скорее всего, написаны реальными клиентами, которые оставили честные и объективные отзывы.
 shopping-analysis-explainer-review-grading-scale-mixed = Мы считаем, что здесь находится смесь достоверных и недостоверных отзывов.
 shopping-analysis-explainer-review-grading-scale-unreliable = Недостоверные отзывы. Мы считаем, что эти отзывы, скорее всего, фейковые или написаны предвзятыми рецензентами.
@@ -165,7 +159,6 @@ shopping-unanalyzed-product-analyze-button = Проверить качество
 
 more-to-consider-ad-label =
     .label = На что ещё обратить внимание
-shopping-sponsored-label = Спонсировано
 ad-by-fakespot = Реклама от { -fakespot-brand-name }
 
 ## Shopping survey strings.
@@ -186,18 +179,6 @@ shopping-survey-submit-button-label = Отправить
 shopping-survey-terms-link = Условия использования
 shopping-survey-thanks =
     .heading = Спасибо за ваш отзыв!
-
-## Shopping opted-out survey strings
-## Opt-out survey options are displayed as checkboxes and the user can select one or many.
-
-shopping-survey-opted-out-multiselect-label = Пожалуйста, расскажите нам, почему вы отключили Проверку отзывов. При необходимости выберите несколько вариантов.
-shopping-survey-thanks-title = Спасибо за ваш отзыв!
-shopping-survey-opted-out-hard-to-understand = Это трудно понять
-shopping-survey-opted-out-too-slow = Это слишком медленно
-shopping-survey-opted-out-not-accurate = Это не точно
-shopping-survey-opted-out-not-helpful = Это мне не поможет
-shopping-survey-opted-out-check-myself = Я лучше сам проверю отзывы
-shopping-survey-opted-out-other = Другое
 
 ## Shopping Feature Callout strings.
 ## "price tag" refers to the price tag icon displayed in the address bar to
@@ -251,78 +232,3 @@ shopping-onboarding-dialog-close-button =
 #   $total (Int) - Total number of pages
 shopping-onboarding-welcome-steps-indicator-label =
     .aria-label = Прогресс: шаг { $current } из { $total }
-
-## Review Checker in Integrated sidebar
-
-# Opt-in message strings for Review Checker when it is integrated into the global sidebar.
-shopping-opt-in-integrated-headline = Покупайте с уверенностью
-# Description text for regions where we support three sites. Sites are limited to Amazon, Walmart and Best Buy.
-# Variables:
-#   $firstSite (String) - The first shopping page name
-#   $secondSite (String) - The second shopping page name
-#   $thirdSite (String) - The third shopping page name
-shopping-opt-in-integrated-subtitle = Включите Проверку отзывов от { -brand-product-name }, чтобы оценивать надёжность отзывов перед покупкой. Она использует ИИ для анализа отзывов и работает на сайтах { $firstSite }, { $secondSite } и { $thirdSite }. <a data-l10n-name="learn_more">Узнать больше</a>
-# Description text for regions where we support three sites. Sites are limited to Amazon, Walmart and Best Buy.
-# Variables:
-#   $firstSite (String) - The first shopping page name
-#   $secondSite (String) - The second shopping page name
-#   $thirdSite (String) - The third shopping page name
-shopping-opt-in-integrated-subtitle-unsupported-site =
-    Проверка отзывов от { -brand-product-name } помогает понять, насколько надёжны отзывы о товаре, перед покупкой. Она использует технологии ИИ для анализа отзывов и работает при покупках на сайтах { $firstSite }, { $secondSite } и { $thirdSite }.
-    <a data-l10n-name="learn_more">Узнать больше</a>
-
-## Messages for callout for users not opted into the sidebar integrated version of Review Checker.
-
-shopping-callout-opt-in-integrated-headline = Можете ли вы доверять этим отзывам?
-# Appears underneath shopping-opt-in-integrated-headline to answer the question 'Can you trust these reviews?'
-shopping-callout-not-opted-in-integrated-paragraph1 = Включите Проверку отзывов от { -brand-product-name }, чтобы проверить, насколько можно доверять отзывам. Она работает на базе { -fakespot-brand-full-name } и использует ИИ для анализа отзывов.
-shopping-callout-not-opted-in-integrated-paragraph2 = Нажимая «{ shopping-opt-in-integrated-button }», вы соглашаетесь с <a data-l10n-name="privacy_policy">уведомлением о конфиденциальности</a> { -brand-product-name } и <a data-l10n-name="terms_of_use">условиями использования</a> { -fakespot-brand-full-name }.
-shopping-callout-not-opted-in-integrated-reminder-dismiss-button = Скрыть
-shopping-callout-not-opted-in-integrated-reminder-accept-button = Включить Проверку отзывов
-shopping-opt-in-integrated-privacy-policy-and-terms-of-use = Проверка отзывов работает на базе { -fakespot-brand-full-name }. Нажимая «{ shopping-opt-in-integrated-button }», вы соглашаетесь с <a data-l10n-name="privacy_policy">уведомлением о конфиденциальности</a> { -brand-product-name } и <a data-l10n-name="terms_of_use">условиями использования</a> { -fakespot-brand-name }.
-shopping-opt-in-integrated-button = Попробуйте Проверку отзывов
-
-## Message strings for Review Checker's empty states.
-
-shopping-empty-state-header = Готовы проверить отзывы
-shopping-empty-state-supported-site = Откройте страницу товара, и { -brand-product-name } проверит, насколько надёжны отзывы.
-# We show a list of sites supported by Review Checker whenever a user opens the feature in an unsupported site.
-# This string will be displayed above the list of sites. The list will be hardcoded and does not require localization.
-shopping-empty-state-non-supported-site = Проверка отзывов работает на следующих сайтах:
-
-## Confirm disabling Review Checker for newly opted out users
-
-shopping-integrated-callout-opted-out-title = Проверка отзывов отключена
-shopping-integrated-callout-opted-out-subtitle = Чтобы снова включить Проверку отзывов, нажмите на значок цены на боковой панели.
-
-## Callout for where to find Review Checker when the sidebar closes
-
-shopping-integrated-callout-sidebar-closed-title = Вернуться к Проверке отзывов
-shopping-integrated-callout-sidebar-closed-subtitle = Нажмите на значок с ценником в боковой панели, чтобы узнать, можно ли доверять отзывам о товаре.
-shopping-integrated-callout-no-logo-sidebar-closed-subtitle = Нажмите кнопку боковой панели, чтобы узнать, можно ли доверять отзывам о товаре.
-
-## Strings for a notification card about Review Checker's new position in the sidebar.
-## The card will only appear for users that have the default sidebar position, which is on the left side for non RTL locales.
-## Review Checker in the sidebar is only available to US users at this time, so we can assume that the default position is on the left side.
-
-shopping-integrated-new-position-notification-title = Та же Проверка отзывов, но в новом месте
-shopping-integrated-new-position-notification-move-right-subtitle = Оставьте Проверку отзывов и всю боковую панель { -brand-product-name } здесь — или переместите вправо. Переключиться можно сейчас или в любое время в <a data-l10n-name="sidebar_settings">настройках боковой панели</a>.
-shopping-integrated-new-position-notification-move-left-subtitle = Оставьте Проверку отзывов и всю боковую панель { -brand-product-name } здесь — или переместите влево. Переключиться можно сейчас или в любое время в <a data-l10n-name="sidebar_settings">настройках боковой панели</a>.
-shopping-integrated-new-position-notification-move-right-button = Переместить вправо
-shopping-integrated-new-position-notification-move-left-button = Переместить влево
-shopping-integrated-new-position-notification-dismiss-button = Понятно
-
-## Combined setting for auto-open and auto-close.
-
-shopping-settings-auto-open-and-close-toggle =
-    .label = Автоматически открывать и закрывать Проверку отзывов
-# Description text for regions where we support three sites. Sites are limited to Amazon, Walmart and Best Buy.
-# Variables:
-#   $firstSite (String) - The first shopping page name
-#   $secondSite (String) - The second shopping page name
-#   $thirdSite (String) - The third shopping page name
-shopping-settings-auto-open-and-close-description-three-sites = Открывается при просмотре товаров на { $firstSite }, { $secondSite } и { $thirdSite }, и закрывается при выходе с сайта
-# Description text for regions where we support only one site (e.g. currently used in FR/DE with Amazon).
-# Variables:
-#   $currentSite (String) - The current shopping page name
-shopping-settings-auto-open-and-close-description-single-site = Открывается при просмотре товаров на { $currentSite } и закрывается при выходе с сайта

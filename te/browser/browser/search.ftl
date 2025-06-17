@@ -44,7 +44,6 @@ remove-search-engine-button = సరే
 
 ## The following strings are used as input labels.
 
-engine-name-exists = ఆ పేరుతో ఒక యంత్రం ఇప్పటికే ఉంది
 
 ## The following placeholders are shown in the inputs when adding a new engine.
 

@@ -51,11 +51,6 @@ add-engine-window =
     .style = min-width: 32em;
 add-engine-button = Afegeix un motor personalitzat
 add-engine-name = Nom del motor de cerca
-add-engine-url = URL del motor. Utilitzeu %s en lloc del terme de cerca
-add-engine-dialog =
-    .buttonlabelaccept = Afegeix el motor
-    .buttonaccesskeyaccept = A
-engine-name-exists = Ja existeix un motor amb aquest nom.
 
 ## The following placeholders are shown in the inputs when adding a new engine.
 

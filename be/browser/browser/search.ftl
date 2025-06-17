@@ -64,13 +64,6 @@ add-engine-keyword2 = Ключавое слова (неабавязкова)
 # POST and GET refer to the HTTP methods.
 add-engine-post-data = POST-дадзеныя з %s замест пошукавага тэрміна (пакіньце пустым для GET)
 add-engine-suggest-url = URL-адрас прапаноў з %s замест пошукавага тэрміна (неабавязкова)
-add-engine-keyword = Ключавое слова
-add-engine-url = URL-адрас пашукавіка, выкарыстоўвайце %s замест пошукавага тэрміна
-add-engine-dialog =
-    .buttonlabelaccept = Дадаць рухавік
-    .buttonaccesskeyaccept = Д
-engine-name-exists = Рухавік з такою назваю ўжо існуе.
-engine-keyword-exists = Рухавік з такім ключавым словам ужо ёсць
 
 ## The following placeholders are shown in the inputs when adding a new engine.
 

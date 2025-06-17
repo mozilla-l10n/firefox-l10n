@@ -51,11 +51,6 @@ add-engine-window =
     .style = min-width: 32em;
 add-engine-button = Pievienojiet pielāgotu meklētāju
 add-engine-name = Meklētāja nosaukums
-add-engine-url = Meklētāja URL, meklēšanas teksta vietā izmantojiet %s
-add-engine-dialog =
-    .buttonlabelaccept = Pievienot meklētāju
-    .buttonaccesskeyaccept = P
-engine-name-exists = Meklētājs ar šādu nosaukumu jau pastāv
 
 ## The following placeholders are shown in the inputs when adding a new engine.
 

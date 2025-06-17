@@ -64,13 +64,6 @@ add-engine-keyword2 = Ŝlosilvorto (nedeviga)
 # POST and GET refer to the HTTP methods.
 add-engine-post-data = Datumoj POST kun %s anstataŭ serĉa teksto (lasi malplena por GET)
 add-engine-suggest-url = Retadreso de sugestoj kun %s anstataŭ serĉa teksto (nedeviga)
-add-engine-keyword = Ŝlosilvorto
-add-engine-url = Retadreso de serĉilo, uzu %s anstataŭ la serĉan tekston
-add-engine-dialog =
-    .buttonlabelaccept = Aldoni serĉilon
-    .buttonaccesskeyaccept = A
-engine-name-exists = Jam ekzistas serĉilo kun tiu nomo
-engine-keyword-exists = Jam ekzistas serĉilo kun tiu ŝlosilvorto
 
 ## The following placeholders are shown in the inputs when adding a new engine.
 

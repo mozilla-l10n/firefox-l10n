@@ -89,9 +89,6 @@ shopping-show-less-button = Shfaq më pak
 
 shopping-settings-label =
     .label = Rregullime
-shopping-settings-recommendations-toggle2 =
-    .label = Shfaq rekomandime dhe lëndë të sponsorizuar
-shopping-settings-recommendations-learn-more3 = { -brand-product-name }-i nuk i jep kujt të dhënat tuaja personale, ndaj këto rekomandime s’do t’ju ndjekin nëpër internet. <a data-l10n-name="review-quality-url">Mësoni më tepër</a>
 shopping-settings-recommendations-toggle =
     .label = Shfaq reklama te kontrollori i shqyrtimeve
 shopping-settings-recommendations-learn-more2 = Do të shihni reklama me raste, për produkte të afërt. Shfaqim reklama vetëm për produkte me shqyrtime të besueshme. <a data-l10n-name="review-quality-url">Mësoni më tepër</a>
@@ -118,7 +115,6 @@ shopping-settings-sidebar-enabled-state = Kontrollori i Shqyrtimeve është <str
 shopping-adjusted-rating-label =
     .label = Vlerësim i rregulluar
 shopping-adjusted-rating-unreliable-reviews = U hoqën shqyrtime jo të besueshme
-shopping-adjusted-rating-based-reliable-reviews = Bazuar në shqyrtime të besueshme
 
 ## Strings for the review reliability component
 
@@ -137,8 +133,6 @@ shopping-analysis-explainer-learn-more2 = Mësoni më tepër mbi <a data-l10n-na
 # websites, which will be inserted without being translated.
 #  $retailer (String) - capitalized name of the shopping website, for example, "Amazon".
 shopping-analysis-explainer-highlights-description = <strong>Gjërat në pah</strong> janë nga shqyrtime { $retailer } brenda 80 ditëve të fundit, të cilave besojmë se janë të vlefshme.
-# Fallback for analysis highlights explainer if the retailer is ever unknown
-shopping-analysis-explainer-highlights-description-unknown-retailer = <strong>Gjërat në pah</strong> janë nga shqyrtime brenda 80 ditëve të fundit, të cilave besojmë se mund t’u zihet besë.
 shopping-analysis-explainer-review-grading-scale-reliable = Shqyrtime të vlefshme. Besojmë se shqyrtimet janë, me gjasa, prej klientësh të njëmendtë, që lanë shqyrtime të ndershme, të paanshme.
 shopping-analysis-explainer-review-grading-scale-mixed = Besojmë se bëhet fjalë për një përzierje shqyrtimesh të besueshme dhe jo të besueshme.
 shopping-analysis-explainer-review-grading-scale-unreliable = Shqyrtime jo të besueshme. Besojmë se shqyrtimet ka gjasa të jenë të rreme, ose prej shqyrtuesish të anshëm.
@@ -165,7 +159,6 @@ shopping-unanalyzed-product-analyze-button = Kontrollo cilësi shqyrtimi
 
 more-to-consider-ad-label =
     .label = Më tepër për t’u marrë parasysh
-shopping-sponsored-label = E sponsorizuar
 ad-by-fakespot = Reklamë nga { -fakespot-brand-name }
 
 ## Shopping survey strings.
@@ -186,18 +179,6 @@ shopping-survey-submit-button-label = Parashtrojeni
 shopping-survey-terms-link = Kushte përdorimi
 shopping-survey-thanks =
     .heading = Faleminderit për përshtypjet tuaja!
-
-## Shopping opted-out survey strings
-## Opt-out survey options are displayed as checkboxes and the user can select one or many.
-
-shopping-survey-opted-out-multiselect-label = Ju lutemi, na bëni të ditur pse e çaktivizuar Kontrollorin e Shqyrtimeve. Përzgjidhni disa variante, nëse duhet.
-shopping-survey-thanks-title = Faleminderit për përshtypjet tuaja!
-shopping-survey-opted-out-hard-to-understand = Është e zorshme ta kuptosh
-shopping-survey-opted-out-too-slow = Është shumë i ngadaltë
-shopping-survey-opted-out-not-accurate = S’është i përpiktë
-shopping-survey-opted-out-not-helpful = S’më bën punë
-shopping-survey-opted-out-check-myself = Më mirë i shoh vetë shqyrtimet
-shopping-survey-opted-out-other = Tjetër
 
 ## Shopping Feature Callout strings.
 ## "price tag" refers to the price tag icon displayed in the address bar to
@@ -251,76 +232,3 @@ shopping-onboarding-dialog-close-button =
 #   $total (Int) - Total number of pages
 shopping-onboarding-welcome-steps-indicator-label =
     .aria-label = Ecuri: hapi { $current } nga { $total } gjithsej
-
-## Review Checker in Integrated sidebar
-
-# Opt-in message strings for Review Checker when it is integrated into the global sidebar.
-shopping-opt-in-integrated-headline = Blini me vetëbesim
-# Description text for regions where we support three sites. Sites are limited to Amazon, Walmart and Best Buy.
-# Variables:
-#   $firstSite (String) - The first shopping page name
-#   $secondSite (String) - The second shopping page name
-#   $thirdSite (String) - The third shopping page name
-shopping-opt-in-integrated-subtitle = Aktivizoni Kontrollor Shqyrtimesh nga { -brand-product-name }-i, që të shihni se sa të besueshme janë shqyrtimet e produkteve, para se të blini. Kjo përdor teknologji IA për të analizuar shqyrtimet dhe funksionon kur blini në { $firstSite }, { $secondSite } dhe { $thirdSite }. <a data-l10n-name="learn_more">Mësoni më tepër</a>
-# Description text for regions where we support three sites. Sites are limited to Amazon, Walmart and Best Buy.
-# Variables:
-#   $firstSite (String) - The first shopping page name
-#   $secondSite (String) - The second shopping page name
-#   $thirdSite (String) - The third shopping page name
-shopping-opt-in-integrated-subtitle-unsupported-site = Kontrollori i Shqyrtimeve nga { -brand-product-name } ju ndihmon të njihni se sa të besueshme janë shqyrtimet për një produkt, para se të blini. Kjo përdor teknologji IA për të analizuar shqyrtime dhe funksionon kur blini në { $firstSite }, { $secondSite } dhe { $thirdSite }. <a data-l10n-name="learn_more">Mësoni më tepër</a>
-
-## Messages for callout for users not opted into the sidebar integrated version of Review Checker.
-
-shopping-callout-opt-in-integrated-headline = A mund t’u zihet besë këtyre shqyrtimeve?
-# Appears underneath shopping-opt-in-integrated-headline to answer the question 'Can you trust these reviews?'
-shopping-callout-not-opted-in-integrated-paragraph1 = Që ta gjeni, aktivizoni Kontrollor Shqyrtimesh nga { -brand-product-name }. Bazohet në { -fakespot-brand-full-name } dhe përdor teknologji IA për të analizuar shqyrtime.
-shopping-callout-not-opted-in-integrated-paragraph2 = Duke përzgjedhur “{ shopping-opt-in-integrated-button }” pajtoheni me <a data-l10n-name="privacy_policy">shënim privatësie</a> të { -brand-product-name }-it dhe <a data-l10n-name="terms_of_use">kushte përdorimi</a> nga { -fakespot-brand-full-name }.
-shopping-callout-not-opted-in-integrated-reminder-dismiss-button = Hidhe tej
-shopping-callout-not-opted-in-integrated-reminder-accept-button = Aktivizoni Kontrollorin e Shqyrtimeve
-shopping-opt-in-integrated-privacy-policy-and-terms-of-use = Kontrollor Shqyrtimesh bazohet në { -fakespot-brand-full-name }. Duke përzgjedhur “{ shopping-opt-in-integrated-button }“, pajtoheni me <a data-l10n-name="privacy_policy">shënim privatësie</a> të { -brand-product-name } dhe <a data-l10n-name="terms_of_use">terma përdorimi</a> nga { -fakespot-brand-name }.
-shopping-opt-in-integrated-button = Provoni Kontrollor Shqyrtimesh
-
-## Message strings for Review Checker's empty states.
-
-shopping-empty-state-header = Gati për kontroll shqyrtimesh
-shopping-empty-state-supported-site = Shihni një produkt dhe { -brand-product-name } do të kontrollojë nëse shqyrtimet janë të besueshme.
-# We show a list of sites supported by Review Checker whenever a user opens the feature in an unsupported site.
-# This string will be displayed above the list of sites. The list will be hardcoded and does not require localization.
-shopping-empty-state-non-supported-site = Kontrollori i Shqyrtimeve funksionon kur blini në:
-
-## Confirm disabling Review Checker for newly opted out users
-
-shopping-integrated-callout-opted-out-title = Kontrollori i Shqyrtimeve është i çaktivizuar
-shopping-integrated-callout-opted-out-subtitle = Që ta riaktivizoni, përzgjidhni fashë çmimesh te anështylla dhe aktivizoni Kontrollor Shqyrtimesh.
-
-## Callout for where to find Review Checker when the sidebar closes
-
-shopping-integrated-callout-sidebar-closed-title = Kthehuni te Kontrollor Shqyrtimesh
-shopping-integrated-callout-sidebar-closed-subtitle = Që të shihni nëse mund t’u zini besë shqyrtimeve të një produkti, përzgjidhni fashë çmimesh te anështylla.
-shopping-integrated-callout-no-logo-sidebar-closed-subtitle = Që të shihni nëse mund t’u zini besë shqyrtimeve të një produkti, përzgjidhni butonin te anështylla.
-
-## Strings for a notification card about Review Checker's new position in the sidebar.
-## The card will only appear for users that have the default sidebar position, which is on the left side for non RTL locales.
-## Review Checker in the sidebar is only available to US users at this time, so we can assume that the default position is on the left side.
-
-shopping-integrated-new-position-notification-title = Po ai Kontrollor Shqyrtimesh, në vend të ri
-shopping-integrated-new-position-notification-move-right-subtitle = Mbajeni Kontrollorin e Shqyrtimeve dhe pjesën tjetër të anështyllës { -brand-product-name } këtu — ose shpjerini djathtas. Bëjeni tani, ose kur të doni, që nga <a data-l10n-name="sidebar_settings">rregullime anështylle</a>.
-shopping-integrated-new-position-notification-move-left-subtitle = Mbajeni Kontrollorin e Shqyrtimeve dhe pjesën tjetër të anështyllës { -brand-product-name } këtu — ose shpjerini majtas. Bëjeni tani, ose kur të doni, që nga <a data-l10n-name="sidebar_settings">rregullime anështylle</a>.
-shopping-integrated-new-position-notification-move-right-button = Lëvize djathtas
-shopping-integrated-new-position-notification-move-left-button = Lëvize majtas
-shopping-integrated-new-position-notification-dismiss-button = E mora vesh
-
-## Combined setting for auto-open and auto-close.
-
-shopping-settings-auto-open-and-close-toggle =
-    .label = Hap ose mbyll automatikisht Kontrollor Shqyrtimesh
-# Description text for regions where we support three sites. Sites are limited to Amazon, Walmart and Best Buy.
-# Variables:
-#   $firstSite (String) - The first shopping page name
-#   $secondSite (String) - The second shopping page name
-#   $thirdSite (String) - The third shopping page name
-shopping-settings-auto-open-and-close-description-three-sites = Hapet kur shihni produkte në { $firstSite }, { $secondSite } dhe { $thirdSite } dhe mbyllet kur ikni prej andej
-# Description text for regions where we support only one site (e.g. currently used in FR/DE with Amazon).
-# Variables:
-#   $currentSite (String) - The current shopping page name
-shopping-settings-auto-open-and-close-description-single-site = Hapet kur shihni produkte në { $currentSite } dhe mbyllet kur ikni prej andej

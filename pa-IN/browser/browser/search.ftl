@@ -60,13 +60,6 @@ edit-engine-window =
 add-engine-button = ਕਸਟਮ ਇੰਜਣ ਜੋੜੋ
 add-engine-name = ਖੋਜ ਇੰਜਣ ਦਾ ਨਾਂ
 add-engine-keyword2 = ਸ਼ਬਦ (ਚੋਣਵਾਂ)
-add-engine-keyword = ਸ਼ਬਦ
-add-engine-url = ਇੰਜਣ URL, ਖੋਜ ਸ਼ਬਦ ਦੀ ਥਾਂ %s ਵਰਤੋਂ
-add-engine-dialog =
-    .buttonlabelaccept = ਇੰਜਣ ਜੋੜੋ
-    .buttonaccesskeyaccept = A
-engine-name-exists = ਉਸ ਨਾਂ ਨਾਲ ਇੰਜਣ ਪਹਿਲਾਂ ਹੀ ਮੌਜੂਦ ਹੈ
-engine-keyword-exists = ਉਸ ਸ਼ਬਦ ਨਾਲ ਇੰਜਣ ਪਹਿਲਾਂ ਹੀ ਮੌਜੂਦ ਹੈ
 
 ## The following placeholders are shown in the inputs when adding a new engine.
 

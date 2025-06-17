@@ -4,8 +4,6 @@
 
 menu-view-genai-chat =
     .label = AI Chatbot
-menu-view-review-checker =
-    .label = Kontrola pógódnośenjow
 menu-view-contextual-password-manager =
     .label = Gronidła
 sidebar-options-menu-button =
@@ -125,8 +123,6 @@ sidebar-menu-bookmarks-label =
     .label = Cytańske znamjenja
 sidebar-menu-customize-label =
     .label = Bocnicu pśiměriś
-sidebar-menu-review-checker-label =
-    .label = Kontrola pógódnośenjow
 sidebar-menu-contextual-password-manager-label =
     .label = Gronidła
 

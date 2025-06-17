@@ -64,13 +64,6 @@ add-engine-keyword2 = Ključna riječ (opcionalno)
 # POST and GET refer to the HTTP methods.
 add-engine-post-data = POST podaci s %s umjesto pojma za pretraživanje (ostavi prazno za GET)
 add-engine-suggest-url = URL prijedloga s %s umjesto pojma za pretraživanje (opcionalno)
-add-engine-keyword = Ključna riječ
-add-engine-url = URL tražilice, koristi %s umjesto pojma za pretraživanje
-add-engine-dialog =
-    .buttonlabelaccept = Dodaj tražilicu
-    .buttonaccesskeyaccept = D
-engine-name-exists = Tražilica s tim imenom već postoji
-engine-keyword-exists = Tražilica s tom ključnom riječi već postoji
 
 ## The following placeholders are shown in the inputs when adding a new engine.
 

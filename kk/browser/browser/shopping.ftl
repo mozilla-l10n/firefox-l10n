@@ -89,9 +89,6 @@ shopping-show-less-button = Азырақ көрсету
 
 shopping-settings-label =
     .label = Баптаулар
-shopping-settings-recommendations-toggle2 =
-    .label = Ұсыныстар мен демеушілік мазмұнды көрсету
-shopping-settings-recommendations-learn-more3 = { -brand-product-name } жеке деректеріңізді бөліспейді, сондықтан бұл ұсыныстар интернетте сіздің артыңыздан ермейді. <a data-l10n-name="review-quality-url">Көбірек білу</a>
 shopping-settings-recommendations-toggle =
     .label = Пікірлерді тексеру құралында жарнаманы көрсету
 shopping-settings-recommendations-learn-more2 = Сәйкес өнімдерге арналған кездейсоқ жарнамаларды көресіз. Біз тек сенімді пікірлері бар өнімдерді жарнамалаймыз. <a data-l10n-name="review-quality-url">Көбірек білу</a>
@@ -118,7 +115,6 @@ shopping-settings-sidebar-enabled-state = Пікірлерді тексеру қ
 shopping-adjusted-rating-label =
     .label = Түзетілген рейтинг
 shopping-adjusted-rating-unreliable-reviews = Сенімсіз пікірлер өшірілді
-shopping-adjusted-rating-based-reliable-reviews = Сенімді пікірлерге негізделген
 
 ## Strings for the review reliability component
 
@@ -137,8 +133,6 @@ shopping-analysis-explainer-learn-more2 = <a data-l10n-name="review-quality-url"
 # websites, which will be inserted without being translated.
 #  $retailer (String) - capitalized name of the shopping website, for example, "Amazon".
 shopping-analysis-explainer-highlights-description = <strong>Маңызды сәттер</strong> { $retailer } ішінен соңғы 80 күнде алынған, біз сенімді деп ойлайтын пікірлер негізінде алынды.
-# Fallback for analysis highlights explainer if the retailer is ever unknown
-shopping-analysis-explainer-highlights-description-unknown-retailer = <strong>Маңызды сәттер</strong> соңғы 80 күнде алынған, біз сенімді деп ойлайтын пікірлер негізінде алынды.
 shopping-analysis-explainer-review-grading-scale-reliable = Сенімді пікірлер. Бұл пікірлерді шын, бейтарап пікірлер қалдырған шынайы тұтынушылар жазған деп санаймыз.
 shopping-analysis-explainer-review-grading-scale-mixed = Осында сенімді және сенімсіз пікірлер араласқан деп санаймыз.
 shopping-analysis-explainer-review-grading-scale-unreliable = Сенімсіз пікірлер. Бұл пікірлер жалған немесе біржақты шолушылар қалдырды деп санаймыз.
@@ -165,7 +159,6 @@ shopping-unanalyzed-product-analyze-button = Пікір сапасын текс�
 
 more-to-consider-ad-label =
     .label = Көбірек қарастыру үшін
-shopping-sponsored-label = Демеуленген
 ad-by-fakespot = { -fakespot-brand-name } ұсынған жарнама
 
 ## Shopping survey strings.
@@ -186,17 +179,6 @@ shopping-survey-submit-button-label = Жіберу
 shopping-survey-terms-link = Қолдану шарттары
 shopping-survey-thanks =
     .heading = Пікіріңізге рахмет!
-
-## Shopping opted-out survey strings
-## Opt-out survey options are displayed as checkboxes and the user can select one or many.
-
-shopping-survey-thanks-title = Пікіріңізге рахмет!
-shopping-survey-opted-out-hard-to-understand = Бұны түсіну қиын
-shopping-survey-opted-out-too-slow = Бұл тым баяу
-shopping-survey-opted-out-not-accurate = Бұл дәл емес
-shopping-survey-opted-out-not-helpful = Бұл маған пайдалы емес
-shopping-survey-opted-out-check-myself = Мен пікірлерді өзім тексергім келеді
-shopping-survey-opted-out-other = Басқа
 
 ## Shopping Feature Callout strings.
 ## "price tag" refers to the price tag icon displayed in the address bar to
@@ -250,33 +232,3 @@ shopping-onboarding-dialog-close-button =
 #   $total (Int) - Total number of pages
 shopping-onboarding-welcome-steps-indicator-label =
     .aria-label = Орындалу барысы: қадам { $current }, { $total } ішінен
-
-## Review Checker in Integrated sidebar
-
-
-## Messages for callout for users not opted into the sidebar integrated version of Review Checker.
-
-shopping-callout-not-opted-in-integrated-reminder-dismiss-button = Елемеу
-shopping-callout-not-opted-in-integrated-reminder-accept-button = Пікірлерді тексеру құралын іске қосу
-shopping-opt-in-integrated-button = Пікірлерді тексеру құралын қолданып көру
-
-## Message strings for Review Checker's empty states.
-
-shopping-empty-state-header = Пікірлерді тексеруге дайын
-
-## Confirm disabling Review Checker for newly opted out users
-
-
-## Callout for where to find Review Checker when the sidebar closes
-
-
-## Strings for a notification card about Review Checker's new position in the sidebar.
-## The card will only appear for users that have the default sidebar position, which is on the left side for non RTL locales.
-## Review Checker in the sidebar is only available to US users at this time, so we can assume that the default position is on the left side.
-
-shopping-integrated-new-position-notification-move-right-button = Оңға жылжыту
-shopping-integrated-new-position-notification-move-left-button = Солға жылжыту
-shopping-integrated-new-position-notification-dismiss-button = Түсіндім
-
-## Combined setting for auto-open and auto-close.
-

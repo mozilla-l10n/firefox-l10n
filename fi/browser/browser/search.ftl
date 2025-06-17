@@ -64,13 +64,6 @@ add-engine-keyword2 = Avainsana (valinnainen)
 # POST and GET refer to the HTTP methods.
 add-engine-post-data = POST-data, %s on hakusanan tilalla (jätä tyhjäksi GET-metodin käyttämiseksi)
 add-engine-suggest-url = Ehdotusten URL-osoite, jossa hakusanan tilalla on %s (valinnainen)
-add-engine-keyword = Avainsana
-add-engine-url = Hakukoneen osoite, käytä merkkijonoa %s hakuehdon sijaan
-add-engine-dialog =
-    .buttonlabelaccept = Lisää hakukone
-    .buttonaccesskeyaccept = L
-engine-name-exists = Hakukone samalla nimellä on jo olemassa
-engine-keyword-exists = Hakukone samalla avainsanalla on jo olemassa
 
 ## The following placeholders are shown in the inputs when adding a new engine.
 

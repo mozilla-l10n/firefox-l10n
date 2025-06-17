@@ -56,13 +56,6 @@ add-engine-window =
     .style = min-width: 32em;
 add-engine-button = เพิ่มเครื่องมือกำหนดเอง
 add-engine-name = ชื่อเครื่องมือค้นหา
-add-engine-keyword = คำสำคัญ
-add-engine-url = URL ของเครื่องมือ ใช้ %s แทนคำค้นหา
-add-engine-dialog =
-    .buttonlabelaccept = เพิ่มเครื่องมือ
-    .buttonaccesskeyaccept = พ
-engine-name-exists = มีเครื่องมือค้นหาชื่อนี้แล้ว
-engine-keyword-exists = มีเครื่องมือค้นหาที่มีคำสำคัญนี้แล้ว
 
 ## The following placeholders are shown in the inputs when adding a new engine.
 

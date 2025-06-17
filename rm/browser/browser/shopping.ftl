@@ -89,9 +89,6 @@ shopping-show-less-button = Mussar damain
 
 shopping-settings-label =
     .label = Parameters
-shopping-settings-recommendations-toggle2 =
-    .label = Mussar recumandaziuns e cuntegn sponsurà
-shopping-settings-recommendations-learn-more3 = { -brand-product-name } na cundivida betg tias datas persunalas, uschia che questas recumandaziuns na ta suondan betg en l’internet. <a data-l10n-name="review-quality-url">Ulteriuras infurmaziuns</a>
 shopping-settings-recommendations-toggle =
     .label = Mussar reclamas en la verificaziun da recensiuns
 shopping-settings-recommendations-learn-more2 = Ti vegns a vesair reclamas occasiunalas per products relevants. Nus faschain mo reclama per products cun recensiuns fidablas. <a data-l10n-name="review-quality-url">Ulteriuras infurmaziuns</a>
@@ -118,7 +115,6 @@ shopping-settings-sidebar-enabled-state = La verificaziun da recensiuns è <stro
 shopping-adjusted-rating-label =
     .label = Valitaziun rectifitgada
 shopping-adjusted-rating-unreliable-reviews = Allontanà recensiuns dubiusas
-shopping-adjusted-rating-based-reliable-reviews = A basa da recensiuns fidablas
 
 ## Strings for the review reliability component
 
@@ -139,8 +135,6 @@ shopping-analysis-explainer-learn-more2 = Ve a savair pli detagliadamain <a data
 # websites, which will be inserted without being translated.
 #  $retailer (String) - capitalized name of the shopping website, for example, "Amazon".
 shopping-analysis-explainer-highlights-description = Ils elements <strong>accentuads</strong> derivan da las recensiun sin { $retailer } dals ultims 80 dis che nus tegnain per fidablas.
-# Fallback for analysis highlights explainer if the retailer is ever unknown
-shopping-analysis-explainer-highlights-description-unknown-retailer = Ils elements <strong>accentuads</strong> derivan da las recensiuns dals ultims 80 dis che nus tegnain per fidablas.
 shopping-analysis-explainer-review-grading-scale-reliable = Recensiuns fidablas. Nus cartain che las recensiuns èn cun auta probabilitad da dretgs clients che han scrit recensiuns onestas independentas.
 shopping-analysis-explainer-review-grading-scale-mixed = Nus cartain ch'i sa tracta dad ina maschaida da recensiuns fidablas e dubiusas.
 shopping-analysis-explainer-review-grading-scale-unreliable = Revistas dubiusas. Nus cartain che las recensiuns èn sfalsifitgadas u da recensents partischants.
@@ -167,7 +161,6 @@ shopping-unanalyzed-product-analyze-button = Controllar la qualitad da las recen
 
 more-to-consider-ad-label =
     .label = Dapli pussaivladads
-shopping-sponsored-label = Sponsurà
 ad-by-fakespot = Reclama da { -fakespot-brand-name }
 
 ## Shopping survey strings.
@@ -188,18 +181,6 @@ shopping-survey-submit-button-label = Trametter
 shopping-survey-terms-link = Cundiziuns d'utilisaziun
 shopping-survey-thanks =
     .heading = Grazia per tes resun!
-
-## Shopping opted-out survey strings
-## Opt-out survey options are displayed as checkboxes and the user can select one or many.
-
-shopping-survey-opted-out-multiselect-label = Ans fa per plaschair a savair pertge che ti has deactivà la verificaziun da recensiuns. Ti pos era tscherner pliras respostas.
-shopping-survey-thanks-title = Grazia per tes resun!
-shopping-survey-opted-out-hard-to-understand = Igl è grev da chapir
-shopping-survey-opted-out-too-slow = Igl è memia plaun
-shopping-survey-opted-out-not-accurate = I n’è betg correct
-shopping-survey-opted-out-not-helpful = I na ma gida betg
-shopping-survey-opted-out-check-myself = Jau preferesch da sez verifitgar las recensiuns
-shopping-survey-opted-out-other = Auter
 
 ## Shopping Feature Callout strings.
 ## "price tag" refers to the price tag icon displayed in the address bar to
@@ -253,76 +234,3 @@ shopping-onboarding-dialog-close-button =
 #   $total (Int) - Total number of pages
 shopping-onboarding-welcome-steps-indicator-label =
     .aria-label = Progress: pass { $current } da { $total }
-
-## Review Checker in Integrated sidebar
-
-# Opt-in message strings for Review Checker when it is integrated into the global sidebar.
-shopping-opt-in-integrated-headline = Far cumissiuns plain fidanza
-# Description text for regions where we support three sites. Sites are limited to Amazon, Walmart and Best Buy.
-# Variables:
-#   $firstSite (String) - The first shopping page name
-#   $secondSite (String) - The second shopping page name
-#   $thirdSite (String) - The third shopping page name
-shopping-opt-in-integrated-subtitle = Activescha la verificaziun da recensiuns da { -brand-product-name } per pudair valitar sche las recensiuns da products èn fidablas, avant che cumprar. La funcziun dovra tecnologia dad IA per analisar las recensiuns e funcziuna per cumpras sin { $firstSite }, { $secondSite } e { $thirdSite }. <a data-l10n-name="learn_more">Ulteriuras infurmaziuns</a>
-# Description text for regions where we support three sites. Sites are limited to Amazon, Walmart and Best Buy.
-# Variables:
-#   $firstSite (String) - The first shopping page name
-#   $secondSite (String) - The second shopping page name
-#   $thirdSite (String) - The third shopping page name
-shopping-opt-in-integrated-subtitle-unsupported-site = La verificaziun da recensiuns da { -brand-product-name } gida a valitar sche las recensiuns da products èn fidablas, avant che cumprar. La funcziun dovra tecnologia dad IA per analisar las recensiuns e funcziuna per cumpras sin { $firstSite }, { $secondSite } e { $thirdSite }. <a data-l10n-name="learn_more">Ulteriuras infurmaziuns</a>
-
-## Messages for callout for users not opted into the sidebar integrated version of Review Checker.
-
-shopping-callout-opt-in-integrated-headline = Pos ti ta fidar da questas recensiuns?
-# Appears underneath shopping-opt-in-integrated-headline to answer the question 'Can you trust these reviews?'
-shopping-callout-not-opted-in-integrated-paragraph1 = Activescha la verificaziun da recensiuns da { -brand-product-name } per chattar ora. Ella funcziuna grazia a { -fakespot-brand-full-name } e fa diever da tecnologia dad IA per analisar las recensiuns.
-shopping-callout-not-opted-in-integrated-paragraph2 = Cun tscherner «{ shopping-opt-in-integrated-button }» acceptas ti la <a data-l10n-name="privacy_policy">decleraziun davart la protecziun da datas</a> da { -brand-product-name } e las <a data-l10n-name="terms_of_use">cundiziuns d’utilisaziun</a> da { -fakespot-brand-full-name }.
-shopping-callout-not-opted-in-integrated-reminder-dismiss-button = Serrar
-shopping-callout-not-opted-in-integrated-reminder-accept-button = Activar la verificaziun da recensiuns
-shopping-opt-in-integrated-privacy-policy-and-terms-of-use = La verificaziun da recensiuns funcziuna grazia a { -fakespot-brand-full-name }. Cun tscherner «{ shopping-opt-in-integrated-button }» acceptas ti la <a data-l10n-name="privacy_policy">decleraziun davart la protecziun da datas</a> da { -brand-product-name } e las <a data-l10n-name="terms_of_use">cundiziuns d’utilisaziun</a> da { -fakespot-brand-name }.
-shopping-opt-in-integrated-button = Emprova la verificaziun da recensiuns
-
-## Message strings for Review Checker's empty states.
-
-shopping-empty-state-header = Pront per controllar las recensiuns
-shopping-empty-state-supported-site = Mussa in product e { -brand-product-name } vegn a controllar sche las recensiuns èn fidablas.
-# We show a list of sites supported by Review Checker whenever a user opens the feature in an unsupported site.
-# This string will be displayed above the list of sites. The list will be hardcoded and does not require localization.
-shopping-empty-state-non-supported-site = La verificaziun da recensiuns funcziuna cun far cumpras sin:
-
-## Confirm disabling Review Checker for newly opted out users
-
-shopping-integrated-callout-opted-out-title = La verificaziun da recensiuns è deactivada
-shopping-integrated-callout-opted-out-subtitle = Per la reactivar, tscherna l’etichetta da pretsch en la trav laterala ed activescha la verificaziun da recensiuns.
-
-## Callout for where to find Review Checker when the sidebar closes
-
-shopping-integrated-callout-sidebar-closed-title = Turnar a la verificaziun da recensiuns
-shopping-integrated-callout-sidebar-closed-subtitle = Tscherna l’etichetta da pretsch en la trav laterala per vesair sche ti pos ta fidar da las recensiuns d’in product.
-shopping-integrated-callout-no-logo-sidebar-closed-subtitle = Tscherna il buttun en la trav laterala per vesair sche ti pos ta fidar da las recensiuns d’in product.
-
-## Strings for a notification card about Review Checker's new position in the sidebar.
-## The card will only appear for users that have the default sidebar position, which is on the left side for non RTL locales.
-## Review Checker in the sidebar is only available to US users at this time, so we can assume that the default position is on the left side.
-
-shopping-integrated-new-position-notification-title = La medema verificaziun da recensiuns, ma in nov lieu
-shopping-integrated-new-position-notification-move-right-subtitle = Mantegna qua la verificaziun da recensiuns ed il rest da la trav laterala da { -brand-product-name } –  u la sposta a dretga. Mida ussa u da tut temp en ils <a data-l10n-name="sidebar_settings">parameters da la trav laterala</a>.
-shopping-integrated-new-position-notification-move-left-subtitle = Mantegna qua la verificaziun da recensiuns ed il rest da la trav laterala da { -brand-product-name } –  u la sposta a sanestra. Mida ussa u da tut temp en ils <a data-l10n-name="sidebar_settings">parameters da la trav laterala</a>.
-shopping-integrated-new-position-notification-move-right-button = Spustar a dretga
-shopping-integrated-new-position-notification-move-left-button = Spustar a sanestra
-shopping-integrated-new-position-notification-dismiss-button = Chapì
-
-## Combined setting for auto-open and auto-close.
-
-shopping-settings-auto-open-and-close-toggle =
-    .label = Avrir e serrar automaticamain la verificaziun da recensiuns
-# Description text for regions where we support three sites. Sites are limited to Amazon, Walmart and Best Buy.
-# Variables:
-#   $firstSite (String) - The first shopping page name
-#   $secondSite (String) - The second shopping page name
-#   $thirdSite (String) - The third shopping page name
-shopping-settings-auto-open-and-close-description-three-sites = S’avra cura che ti consulteschas products sin { $firstSite }, { $secondSite } e { $thirdSite } e sa serra cura che ti sortas
-# Description text for regions where we support only one site (e.g. currently used in FR/DE with Amazon).
-# Variables:
-#   $currentSite (String) - The current shopping page name
-shopping-settings-auto-open-and-close-description-single-site = S’avra cura che ti consulteschas products sin { $currentSite } e sa serra cura che ti sortas

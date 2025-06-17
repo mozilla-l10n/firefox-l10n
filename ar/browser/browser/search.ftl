@@ -52,11 +52,6 @@ add-engine-window =
     .style = min-width: 32em;
 add-engine-button = أضِف محركًا مخصصًا
 add-engine-name = اسم محرك البحث
-add-engine-url = مسار المحرّك، استعمل ”‎%s“ مكان عبارة البحث
-add-engine-dialog =
-    .buttonlabelaccept = أضِف محركًا
-    .buttonaccesskeyaccept = ض
-engine-name-exists = يوجد بالفعل محرك بهذا الاسم
 
 ## The following placeholders are shown in the inputs when adding a new engine.
 

@@ -51,11 +51,6 @@ add-engine-window =
     .style = min-width: 32em;
 add-engine-button = ᱱᱤᱡᱚᱨᱟᱜ ᱤᱧᱡᱤᱱ ᱥᱮᱞᱮᱫ ᱢᱮ
 add-engine-name = ᱥᱮᱸᱫᱽᱨᱟ ᱤᱧᱡᱤᱱ ᱧᱩᱛᱩᱢ
-add-engine-url = ᱤᱧᱡᱤᱱ URL, ᱥᱮᱱᱫᱽᱨᱟ ᱟᱹᱲᱟᱹ ᱡᱟᱭᱜᱟ ᱨᱮ %s ᱵᱟᱵᱷᱟᱨ ᱢᱮ
-add-engine-dialog =
-    .buttonlabelaccept = ᱤᱧᱡᱤᱱ ᱥᱮᱞᱮᱫ ᱢᱮ
-    .buttonaccesskeyaccept = A
-engine-name-exists = ᱢᱤᱫᱴᱟᱝᱟᱜ ᱤᱧᱡᱤᱱ ᱚᱱᱟ ᱧᱩᱛᱩᱢ ᱛᱮ ᱢᱟᱲᱟᱝ ᱠᱷᱚᱱ ᱜᱮ ᱢᱮᱱᱟᱜᱼᱟ ᱾
 
 ## The following placeholders are shown in the inputs when adding a new engine.
 

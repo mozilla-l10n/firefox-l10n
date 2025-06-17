@@ -89,9 +89,6 @@ shopping-show-less-button = Mostrar menos
 
 shopping-settings-label =
     .label = Ajustes
-shopping-settings-recommendations-toggle2 =
-    .label = Mostrar recomendaciones y contenido patrocinado
-shopping-settings-recommendations-learn-more3 = { -brand-product-name } no comparte tus datos personales, por lo que estas recomendaciones no te seguirán por Internet. <a data-l10n-name="review-quality-url">Aprender más</a>
 shopping-settings-recommendations-toggle =
     .label = Mostrar anuncios en el verificador de reseñas
 shopping-settings-recommendations-learn-more2 = Verás publicidades ocasional de productos relevantes. Sólo publicitamos productos con revisiones confiables. <a data-l10n-name="review-quality-url">Aprender más</a>
@@ -118,7 +115,6 @@ shopping-settings-sidebar-enabled-state = El verificador de reseñas está <stro
 shopping-adjusted-rating-label =
     .label = Calificación ajustada
 shopping-adjusted-rating-unreliable-reviews = Se eliminaron las reseñas poco confiables
-shopping-adjusted-rating-based-reliable-reviews = Basado en revisiones confiables
 
 ## Strings for the review reliability component
 
@@ -139,8 +135,6 @@ shopping-analysis-explainer-learn-more2 = Obtén más información acerca de <a 
 # websites, which will be inserted without being translated.
 #  $retailer (String) - capitalized name of the shopping website, for example, "Amazon".
 shopping-analysis-explainer-highlights-description = Los <strong>puntos destacados</strong> provienen de reseñas de { $retailer } de los últimos 80 días que creemos que son confiables.
-# Fallback for analysis highlights explainer if the retailer is ever unknown
-shopping-analysis-explainer-highlights-description-unknown-retailer = Los <strong>puntos destacados</strong> provienen de reseñas de los últimos 80 días que creemos que son confiables.
 shopping-analysis-explainer-review-grading-scale-reliable = Revisiones confiables. Creemos que las reseñas probablemente provienen de clientes reales que dejaron reseñas honestas e imparciales.
 shopping-analysis-explainer-review-grading-scale-mixed = Creemos que hay una combinación de reseñas confiables y no confiables.
 shopping-analysis-explainer-review-grading-scale-unreliable = Reseñas poco fiables. Creemos que las reseñas probablemente son falsas o provienen de revisores sesgados.
@@ -167,7 +161,6 @@ shopping-unanalyzed-product-analyze-button = Comprobar la calidad de la reseña
 
 more-to-consider-ad-label =
     .label = Más para considerar
-shopping-sponsored-label = Patrocinado
 ad-by-fakespot = Anuncio de { -fakespot-brand-name }
 
 ## Shopping survey strings.
@@ -188,18 +181,6 @@ shopping-survey-submit-button-label = Enviar
 shopping-survey-terms-link = Términos de uso
 shopping-survey-thanks =
     .heading = ¡Gracias por tus comentarios!
-
-## Shopping opted-out survey strings
-## Opt-out survey options are displayed as checkboxes and the user can select one or many.
-
-shopping-survey-opted-out-multiselect-label = Por favor, indícanos por qué desactivaste el verificador de reseñas. Selecciona varias opciones si es necesario.
-shopping-survey-thanks-title = ¡Gracias por tus comentarios!
-shopping-survey-opted-out-hard-to-understand = Es difícil de entender
-shopping-survey-opted-out-too-slow = Es muy lento
-shopping-survey-opted-out-not-accurate = No es exacto
-shopping-survey-opted-out-not-helpful = No me sirve
-shopping-survey-opted-out-check-myself = Prefiero revisar las reseñas yo mismo
-shopping-survey-opted-out-other = Otro
 
 ## Shopping Feature Callout strings.
 ## "price tag" refers to the price tag icon displayed in the address bar to
@@ -253,76 +234,3 @@ shopping-onboarding-dialog-close-button =
 #   $total (Int) - Total number of pages
 shopping-onboarding-welcome-steps-indicator-label =
     .aria-label = Progreso: paso { $current } de { $total }
-
-## Review Checker in Integrated sidebar
-
-# Opt-in message strings for Review Checker when it is integrated into the global sidebar.
-shopping-opt-in-integrated-headline = Compra con confianza
-# Description text for regions where we support three sites. Sites are limited to Amazon, Walmart and Best Buy.
-# Variables:
-#   $firstSite (String) - The first shopping page name
-#   $secondSite (String) - The second shopping page name
-#   $thirdSite (String) - The third shopping page name
-shopping-opt-in-integrated-subtitle = Activa el Verificador de reseñas de { -brand-product-name } para comprobar la fiabilidad de las reseñas de productos antes de comprar. Utiliza tecnología de IA para analizar las reseñas y funciona al comprar en { $firstSite }, { $secondSite } y { $thirdSite }. <a data-l10n-name="learn_more">Aprender más</a>
-# Description text for regions where we support three sites. Sites are limited to Amazon, Walmart and Best Buy.
-# Variables:
-#   $firstSite (String) - The first shopping page name
-#   $secondSite (String) - The second shopping page name
-#   $thirdSite (String) - The third shopping page name
-shopping-opt-in-integrated-subtitle-unsupported-site = El verificador de reseñas de { -brand-product-name } te ayuda a conocer cuán fiables son las reseñas de productos antes de comprar. Utiliza tecnología de IA para analizar las reseñas y funciona al comprar en { $firstSite }, { $secondSite } y { $thirdSite }. <a data-l10n-name="learn_more">Aprender más</a>
-
-## Messages for callout for users not opted into the sidebar integrated version of Review Checker.
-
-shopping-callout-opt-in-integrated-headline = ¿Puedes confiar en estas reseñas?
-# Appears underneath shopping-opt-in-integrated-headline to answer the question 'Can you trust these reviews?'
-shopping-callout-not-opted-in-integrated-paragraph1 = Activa el Verificador de Reseñas de { -brand-product-name } para descubrirlo. Funciona con { -fakespot-brand-full-name } y utiliza tecnología de IA para analizar las reseñas.
-shopping-callout-not-opted-in-integrated-paragraph2 = Al seleccionar "{ shopping-opt-in-integrated-button }", aceptas el <a data-l10n-name="privacy_policy">aviso de privacidad</a> de { -brand-product-name } y los <a data-l10n-name="terms_of_use">términos de uso</a> de { -fakespot-brand-full-name }.
-shopping-callout-not-opted-in-integrated-reminder-dismiss-button = Ocultar
-shopping-callout-not-opted-in-integrated-reminder-accept-button = Activar el verificador de reseñas
-shopping-opt-in-integrated-privacy-policy-and-terms-of-use = El verificador de reseñas funciona con { -fakespot-brand-full-name }. Al seleccionar "{ shopping-opt-in-integrated-button }", aceptas el <a data-l10n-name="privacy_policy">aviso de privacidad</a> de { -brand-product-name } y los <a data-l10n-name="terms_of_use">términos de uso</a> de { -fakespot-brand-name }.
-shopping-opt-in-integrated-button = Probar el verificador de reseñas
-
-## Message strings for Review Checker's empty states.
-
-shopping-empty-state-header = Listo para verificar reseñas
-shopping-empty-state-supported-site = Revisa un producto y { -brand-product-name } comprobará si las reseñas son confiables.
-# We show a list of sites supported by Review Checker whenever a user opens the feature in an unsupported site.
-# This string will be displayed above the list of sites. The list will be hardcoded and does not require localization.
-shopping-empty-state-non-supported-site = El verificador de reseñas funciona cuando compras en:
-
-## Confirm disabling Review Checker for newly opted out users
-
-shopping-integrated-callout-opted-out-title = El verificador de reseñas está desactivado
-shopping-integrated-callout-opted-out-subtitle = Para volver a activarlo, selecciona la etiqueta de precio en la barra lateral y activa el verificador de reseñas.
-
-## Callout for where to find Review Checker when the sidebar closes
-
-shopping-integrated-callout-sidebar-closed-title = Regresar al verificador de reseñas
-shopping-integrated-callout-sidebar-closed-subtitle = Selecciona la etiqueta de precio en la barra lateral para ver si puedes confiar en las reseñas de un producto.
-shopping-integrated-callout-no-logo-sidebar-closed-subtitle = Selecciona el botón de la barra lateral para ver si puede confiar en las reseñas de un producto.
-
-## Strings for a notification card about Review Checker's new position in the sidebar.
-## The card will only appear for users that have the default sidebar position, which is on the left side for non RTL locales.
-## Review Checker in the sidebar is only available to US users at this time, so we can assume that the default position is on the left side.
-
-shopping-integrated-new-position-notification-title = El mismo verificador de reseñas, nueva ubicación
-shopping-integrated-new-position-notification-move-right-subtitle = Mantén el verificador de reseñas y el resto de la barra lateral de { -brand-product-name } aquí o muévelos a la derecha. Cámbialos ahora o en cualquier momento en la <a data-l10n-name="sidebar_settings">configuración de la barra lateral</a>.
-shopping-integrated-new-position-notification-move-left-subtitle = Mantén el verificador de reseñas y el resto de la barra lateral de { -brand-product-name } aquí o muévelos a la izquierda. Cámbialos ahora o en cualquier momento en la <a data-l10n-name="sidebar_settings">configuración de la barra lateral</a>.
-shopping-integrated-new-position-notification-move-right-button = Mover a la derecha
-shopping-integrated-new-position-notification-move-left-button = Mover a la izquierda
-shopping-integrated-new-position-notification-dismiss-button = Entendido
-
-## Combined setting for auto-open and auto-close.
-
-shopping-settings-auto-open-and-close-toggle =
-    .label = Abrir y cerrar automáticamente el Verificador de reseñas
-# Description text for regions where we support three sites. Sites are limited to Amazon, Walmart and Best Buy.
-# Variables:
-#   $firstSite (String) - The first shopping page name
-#   $secondSite (String) - The second shopping page name
-#   $thirdSite (String) - The third shopping page name
-shopping-settings-auto-open-and-close-description-three-sites = Se abre cuando veas productos en { $firstSite }, { $secondSite } y { $thirdSite }, y se cierra cuando sales
-# Description text for regions where we support only one site (e.g. currently used in FR/DE with Amazon).
-# Variables:
-#   $currentSite (String) - The current shopping page name
-shopping-settings-auto-open-and-close-description-single-site = Se abre cuando ves productos en { $currentSite } y se cierra cuando sales

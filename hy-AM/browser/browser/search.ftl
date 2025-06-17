@@ -54,12 +54,6 @@ add-engine-window =
 add-engine-button = Ավելացնել հարմարեցված որոնիչ
 add-engine-name = Որոնիչի անունը
 add-engine-keyword2 = Հիմնաբառ (ըստ ցանկության)
-add-engine-keyword = Հիմնաբառ
-add-engine-url = Որոնիչի URL, օգտագործեք %s-ը որոնման եզրույթի փոխարեն
-add-engine-dialog =
-    .buttonlabelaccept = Հավելել որոնիչը
-    .buttonaccesskeyaccept = A
-engine-name-exists = Այս անունով որոնիչ արդեն առկա է
 
 ## The following placeholders are shown in the inputs when adding a new engine.
 

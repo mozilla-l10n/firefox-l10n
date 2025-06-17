@@ -4,8 +4,6 @@
 
 menu-view-genai-chat =
     .label = AI chatbot
-menu-view-review-checker =
-    .label = Marandu’i rechajeyha
 menu-view-contextual-password-manager =
     .label = Ñe’ẽñemikuéra
 sidebar-options-menu-button =
@@ -125,8 +123,6 @@ sidebar-menu-bookmarks-label =
     .label = Techaukaha
 sidebar-menu-customize-label =
     .label = Embohéra ta’ãngarupa ykegua
-sidebar-menu-review-checker-label =
-    .label = Marandu’i rechajeyha
 sidebar-menu-contextual-password-manager-label =
     .label = Ñe’ẽñemi
 

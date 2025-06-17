@@ -53,11 +53,6 @@ add-engine-window =
     .style = min-width: 32em;
 add-engine-button = حسب ضرورت انجن شامل کرو۔
 add-engine-name = ڳولݨ انجݨ ناں
-add-engine-url = انجݨ URL، ڳولݨ دی اصطلاح دی جاہ %s استعمال کرو۔
-add-engine-dialog =
-    .buttonlabelaccept = انجݨ شامل کرو
-    .buttonaccesskeyaccept = A
-engine-name-exists = ایں ناں دا ہک انجݨ پہلے کنوں موجود ہے۔
 
 ## The following placeholders are shown in the inputs when adding a new engine.
 

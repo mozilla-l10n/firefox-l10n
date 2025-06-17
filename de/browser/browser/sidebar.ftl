@@ -4,8 +4,6 @@
 
 menu-view-genai-chat =
     .label = KI-Chatbot
-menu-view-review-checker =
-    .label = Review Checker
 menu-view-contextual-password-manager =
     .label = Passwörter
 sidebar-options-menu-button =
@@ -125,8 +123,6 @@ sidebar-menu-bookmarks-label =
     .label = Lesezeichen
 sidebar-menu-customize-label =
     .label = Sidebar anpassen
-sidebar-menu-review-checker-label =
-    .label = Review Checker
 sidebar-menu-contextual-password-manager-label =
     .label = Passwörter
 

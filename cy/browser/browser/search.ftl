@@ -64,13 +64,6 @@ add-engine-keyword2 = Allweddair (dewisol)
 # POST and GET refer to the HTTP methods.
 add-engine-post-data = Data POST gyda %s yn lle'r term chwilio (gadewch yn wag ar gyfer GET)
 add-engine-suggest-url = URL awgrymiadau gyda %s yn lle'r term chwilio (dewisol)
-add-engine-keyword = Allweddair
-add-engine-url = URL y peiriant, defnyddiwch %s yn lle'r term chwilio
-add-engine-dialog =
-    .buttonlabelaccept = Ychwanegu Peiriant
-    .buttonaccesskeyaccept = P
-engine-name-exists = Mae peiriant o'r enw yna'n bodoli eisoes.
-engine-keyword-exists = Mae peiriant gyda'r allweddair hwnnw eisoes yn bodoli
 
 ## The following placeholders are shown in the inputs when adding a new engine.
 

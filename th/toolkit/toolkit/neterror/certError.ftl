@@ -21,9 +21,6 @@ cert-error-trust-symantec = ใบรับรองที่ออกโดย 
 # Variables:
 #   $hostname (string) - Hostname of the website with cert error.
 cert-error-trust-certificate-transparency = { -brand-short-name } ไม่เชื่อถือ { $hostname } เนื่องจากไม่สามารถพิสูจน​์ได้ว่าสอดคล้องตามข้อกำหนดความโปร่งใสสำหรับใบรับรองสาธารณะ
-# Variables:
-#   $hostname (string) - Hostname of the website with cert error.
-cert-error-revoked = เว็บไซต์จะพิสูจน์ข้อมูลประจำตัวของตนเองผ่านใบรับรอง { -brand-short-name } ไม่เชื่อถือ { $hostname } เนื่องจากใช้ใบรับรองที่ถูกเพิกถอนแล้ว
 cert-error-untrusted-default = ใบรับรองไม่ได้มาจากแหล่งที่ได้รับความเชื่อถือ
 # Variables:
 #   $hostname (string) - Hostname of the website with cert error.

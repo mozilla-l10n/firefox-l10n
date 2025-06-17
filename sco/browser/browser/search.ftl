@@ -48,11 +48,6 @@ add-engine-window =
     .style = min-width: 32em;
 add-engine-button = Eik On Custom Engine
 add-engine-name = Airt-oot engine nemme
-add-engine-url = Engine URL, yaise %s insteid o the sairch term
-add-engine-dialog =
-    .buttonlabelaccept = Eik On Engine
-    .buttonaccesskeyaccept = A
-engine-name-exists = An engine wi thon nemme awready exists
 
 ## The following placeholders are shown in the inputs when adding a new engine.
 

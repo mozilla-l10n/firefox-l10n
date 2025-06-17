@@ -41,11 +41,6 @@ add-engine-window =
     .style = min-width: 32em;
 add-engine-button = নিজৰ হিচাপে ইঞ্জিন যোগ কৰক
 add-engine-name = ছাৰ্চ ইঞ্জিনৰ নাম
-add-engine-url = ইঞ্জিন URLএ সন্ধানৰ শব্দৰ ঠাইত %s ব্যৱহাৰ কৰে
-add-engine-dialog =
-    .buttonlabelaccept = ইঞ্জিন যোগ কৰক
-    .buttonaccesskeyaccept = A
-engine-name-exists = সেই নামৰ এটা ইঞ্জিন ইতিমধ্যে আছেই
 
 ## The following placeholders are shown in the inputs when adding a new engine.
 

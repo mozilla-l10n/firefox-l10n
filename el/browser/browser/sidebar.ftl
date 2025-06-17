@@ -4,8 +4,6 @@
 
 menu-view-genai-chat =
     .label = Chatbot ΤΝ
-menu-view-review-checker =
-    .label = Έλεγχος κριτικών
 menu-view-contextual-password-manager =
     .label = Κωδικοί πρόσβασης
 sidebar-options-menu-button =
@@ -125,8 +123,6 @@ sidebar-menu-bookmarks-label =
     .label = Σελιδοδείκτες
 sidebar-menu-customize-label =
     .label = Προσαρμογή πλαϊνής γραμμής
-sidebar-menu-review-checker-label =
-    .label = Έλεγχος κριτικών
 sidebar-menu-contextual-password-manager-label =
     .label = Κωδικοί πρόσβασης
 

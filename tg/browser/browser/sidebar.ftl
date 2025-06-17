@@ -4,8 +4,6 @@
 
 menu-view-genai-chat =
     .label = Чат-боти зеҳни сунъӣ «AI»
-menu-view-review-checker =
-    .label = Абзори тафтиши тақризҳо
 menu-view-contextual-password-manager =
     .label = Ниҳонвожаҳо
 sidebar-options-menu-button =
@@ -125,8 +123,6 @@ sidebar-menu-bookmarks-label =
     .label = Хатбаракҳо
 sidebar-menu-customize-label =
     .label = Фармоишдиҳии навори ҷонибӣ
-sidebar-menu-review-checker-label =
-    .label = Абзори тафтиши тақризҳо
 sidebar-menu-contextual-password-manager-label =
     .label = Ниҳонвожаҳо
 

@@ -89,9 +89,6 @@ shopping-show-less-button = Sýna minna
 
 shopping-settings-label =
     .label = Stillingar
-shopping-settings-recommendations-toggle2 =
-    .label = Sýna tillögur og kostað efni
-shopping-settings-recommendations-learn-more3 = { -brand-product-name } deilir ekki persónulegum gögnum þínum, þannig að þessar ráðleggingar munu ekki fylgja þér á internetinu. <a data-l10n-name="review-quality-url">Frekari upplýsingar</a>
 shopping-settings-recommendations-toggle =
     .label = Birta auglýsingar í umsagnaskoðun
 shopping-settings-recommendations-learn-more2 = Þú munt sjá einstaka auglýsingar fyrir tengdar vörur. Allar auglýsingar verða að uppfylla gæðastaðla okkar vegna umsagna. <a data-l10n-name="review-quality-url">Frekari upplýsingar</a>
@@ -118,7 +115,6 @@ shopping-settings-sidebar-enabled-state = Umsagnaskoðun er <strong>virk</strong
 shopping-adjusted-rating-label =
     .label = Aðlöguð einkunn
 shopping-adjusted-rating-unreliable-reviews = Óáreiðanlegar umsagnir fjarlægðar
-shopping-adjusted-rating-based-reliable-reviews = Byggt á áreiðanlegum umsögnum
 
 ## Strings for the review reliability component
 
@@ -139,8 +135,6 @@ shopping-analysis-explainer-learn-more2 = Frekari upplýsingar um <a data-l10n-n
 # websites, which will be inserted without being translated.
 #  $retailer (String) - capitalized name of the shopping website, for example, "Amazon".
 shopping-analysis-explainer-highlights-description = <strong>Hápunktar</strong> eru úr umsögnum um { $retailer } frá síðustu 80 dögum sem við teljum vera áreiðanlegar.
-# Fallback for analysis highlights explainer if the retailer is ever unknown
-shopping-analysis-explainer-highlights-description-unknown-retailer = <strong>Hápunktar</strong> eru úr umsögnum frá síðustu 80 dögum sem við teljum vera áreiðanlegar.
 shopping-analysis-explainer-review-grading-scale-reliable = Áreiðanlegar umsagnir. Við teljum að umsagnirnar séu líklega frá raunverulegum viðskiptavinum sem hafa skilið eftir heiðarlegar og óhlutdrægar umsagnir.
 shopping-analysis-explainer-review-grading-scale-mixed = Við teljum að þarna sé blanda af áreiðanlegum og óáreiðanlegum umsögnum.
 shopping-analysis-explainer-review-grading-scale-unreliable = Óáreiðanlegar umsagnir. Við teljum að umsagnirnar séu líklega falsaðar eða frá hlutdrægum þátttakendum.
@@ -167,7 +161,6 @@ shopping-unanalyzed-product-analyze-button = Athugaðu gæði umsagna
 
 more-to-consider-ad-label =
     .label = Fleira sem mætti skoða
-shopping-sponsored-label = Kostað
 ad-by-fakespot = Auglýsing frá { -fakespot-brand-name }
 
 ## Shopping survey strings.
@@ -188,18 +181,6 @@ shopping-survey-submit-button-label = Senda inn
 shopping-survey-terms-link = Notkunarskilmálar
 shopping-survey-thanks =
     .heading = Takk fyrir álit þitt!
-
-## Shopping opted-out survey strings
-## Opt-out survey options are displayed as checkboxes and the user can select one or many.
-
-shopping-survey-opted-out-multiselect-label = Láttu okkur vita hvers vegna þú slökktir á umsagnaskoðuninni. Veldu margar ef þörf krefur.
-shopping-survey-thanks-title = Takk fyrir álit þitt!
-shopping-survey-opted-out-hard-to-understand = Það er erfitt að skilja þetta
-shopping-survey-opted-out-too-slow = Það er of hægvirkt
-shopping-survey-opted-out-not-accurate = Það er ekki nákvæmt
-shopping-survey-opted-out-not-helpful = Það er ekki gagnlegt fyrir mig
-shopping-survey-opted-out-check-myself = Ég vil frekar skoða umsagnir sjálf/ur
-shopping-survey-opted-out-other = Annað
 
 ## Shopping Feature Callout strings.
 ## "price tag" refers to the price tag icon displayed in the address bar to
@@ -253,46 +234,3 @@ shopping-onboarding-dialog-close-button =
 #   $total (Int) - Total number of pages
 shopping-onboarding-welcome-steps-indicator-label =
     .aria-label = Framvinda: skref { $current } af { $total }
-
-## Review Checker in Integrated sidebar
-
-# Opt-in message strings for Review Checker when it is integrated into the global sidebar.
-shopping-opt-in-integrated-headline = Verslaðu áhyggjulaust
-
-## Messages for callout for users not opted into the sidebar integrated version of Review Checker.
-
-shopping-callout-opt-in-integrated-headline = Geturðu treyst þessum umsögnum?
-shopping-callout-not-opted-in-integrated-reminder-dismiss-button = Afgreiða
-shopping-callout-not-opted-in-integrated-reminder-accept-button = Kveikja á umsagnaskoðun
-shopping-opt-in-integrated-button = Prófaðu umsagnaskoðun
-
-## Message strings for Review Checker's empty states.
-
-shopping-empty-state-header = Tilbúið í að yfirfara umsagnir
-# We show a list of sites supported by Review Checker whenever a user opens the feature in an unsupported site.
-# This string will be displayed above the list of sites. The list will be hardcoded and does not require localization.
-shopping-empty-state-non-supported-site = Umsagnaskoðunin virkar þegar þú verslar á:
-
-## Confirm disabling Review Checker for newly opted out users
-
-shopping-integrated-callout-opted-out-title = Slökkt er á umsagnaskoðun
-
-## Callout for where to find Review Checker when the sidebar closes
-
-
-## Strings for a notification card about Review Checker's new position in the sidebar.
-## The card will only appear for users that have the default sidebar position, which is on the left side for non RTL locales.
-## Review Checker in the sidebar is only available to US users at this time, so we can assume that the default position is on the left side.
-
-shopping-integrated-new-position-notification-move-right-button = Færa til hægri
-shopping-integrated-new-position-notification-move-left-button = Færa til vinstri
-shopping-integrated-new-position-notification-dismiss-button = Náði því
-
-## Combined setting for auto-open and auto-close.
-
-shopping-settings-auto-open-and-close-toggle =
-    .label = Opna og loka umsagnaskoðun sjálfkrafa
-# Description text for regions where we support only one site (e.g. currently used in FR/DE with Amazon).
-# Variables:
-#   $currentSite (String) - The current shopping page name
-shopping-settings-auto-open-and-close-description-single-site = Opnast þegar þú skoðar vörur á { $currentSite } og lokast þegar þú ferð af síðu

@@ -89,9 +89,6 @@ shopping-show-less-button = Show less
 
 shopping-settings-label =
     .label = Settings
-shopping-settings-recommendations-toggle2 =
-    .label = Show recommendations and sponsored content
-shopping-settings-recommendations-learn-more3 = { -brand-product-name } doesn’t share your personal data, so these recommendations won’t follow you around the internet. <a data-l10n-name="review-quality-url">Learn more</a>
 shopping-settings-recommendations-toggle =
     .label = Show ads in Review Checker
 shopping-settings-recommendations-learn-more2 = You’ll see occasional ads for relevant products. We only advertise products with reliable reviews. <a data-l10n-name="review-quality-url">Learn more</a>
@@ -118,7 +115,6 @@ shopping-settings-sidebar-enabled-state = Review Checker is <strong>On</strong>
 shopping-adjusted-rating-label =
     .label = Adjusted rating
 shopping-adjusted-rating-unreliable-reviews = Unreliable reviews removed
-shopping-adjusted-rating-based-reliable-reviews = Based on reliable reviews
 
 ## Strings for the review reliability component
 
@@ -137,8 +133,6 @@ shopping-analysis-explainer-learn-more2 = Learn more about <a data-l10n-name="re
 # websites, which will be inserted without being translated.
 #  $retailer (String) - capitalized name of the shopping website, for example, "Amazon".
 shopping-analysis-explainer-highlights-description = <strong>Highlights</strong> are from { $retailer } reviews within the last 80 days that we believe to be reliable.
-# Fallback for analysis highlights explainer if the retailer is ever unknown
-shopping-analysis-explainer-highlights-description-unknown-retailer = <strong>Highlights</strong> are from reviews within the last 80 days that we believe to be reliable.
 shopping-analysis-explainer-review-grading-scale-reliable = Reliable reviews. We believe the reviews are likely from real customers who left honest, unbiased reviews.
 shopping-analysis-explainer-review-grading-scale-mixed = We believe there’s a mix of reliable and unreliable reviews.
 shopping-analysis-explainer-review-grading-scale-unreliable = Unreliable reviews. We believe the reviews are likely fake or from biased reviewers.
@@ -165,7 +159,6 @@ shopping-unanalyzed-product-analyze-button = Check review quality
 
 more-to-consider-ad-label =
     .label = More to consider
-shopping-sponsored-label = Sponsored
 ad-by-fakespot = Ad by { -fakespot-brand-name }
 
 ## Shopping survey strings.
@@ -186,18 +179,6 @@ shopping-survey-submit-button-label = Submit
 shopping-survey-terms-link = Terms of use
 shopping-survey-thanks =
     .heading = Thanks for your feedback!
-
-## Shopping opted-out survey strings
-## Opt-out survey options are displayed as checkboxes and the user can select one or many.
-
-shopping-survey-opted-out-multiselect-label = Please let us know why you turned off Review Checker. Select multiple if needed.
-shopping-survey-thanks-title = Thanks for your feedback!
-shopping-survey-opted-out-hard-to-understand = It’s hard to understand
-shopping-survey-opted-out-too-slow = It’s too slow
-shopping-survey-opted-out-not-accurate = It’s not accurate
-shopping-survey-opted-out-not-helpful = It’s not helpful to me
-shopping-survey-opted-out-check-myself = I’d rather check reviews myself
-shopping-survey-opted-out-other = Other
 
 ## Shopping Feature Callout strings.
 ## "price tag" refers to the price tag icon displayed in the address bar to
@@ -251,76 +232,3 @@ shopping-onboarding-dialog-close-button =
 #   $total (Int) - Total number of pages
 shopping-onboarding-welcome-steps-indicator-label =
     .aria-label = Progress: step { $current } of { $total }
-
-## Review Checker in Integrated sidebar
-
-# Opt-in message strings for Review Checker when it is integrated into the global sidebar.
-shopping-opt-in-integrated-headline = Shop with confidence
-# Description text for regions where we support three sites. Sites are limited to Amazon, Walmart and Best Buy.
-# Variables:
-#   $firstSite (String) - The first shopping page name
-#   $secondSite (String) - The second shopping page name
-#   $thirdSite (String) - The third shopping page name
-shopping-opt-in-integrated-subtitle = Turn on Review Checker from { -brand-product-name } to see how reliable product reviews are, before you buy. It uses AI technology to analyze reviews and works when you shop on { $firstSite }, { $secondSite }, and { $thirdSite }. <a data-l10n-name="learn_more">Learn more</a>
-# Description text for regions where we support three sites. Sites are limited to Amazon, Walmart and Best Buy.
-# Variables:
-#   $firstSite (String) - The first shopping page name
-#   $secondSite (String) - The second shopping page name
-#   $thirdSite (String) - The third shopping page name
-shopping-opt-in-integrated-subtitle-unsupported-site = Review Checker from { -brand-product-name } helps you know how reliable a product’s reviews are, before you buy. It uses AI technology to analyse reviews and works when you shop on { $firstSite }, { $secondSite }, and { $thirdSite }. <a data-l10n-name="learn_more">Learn more</a>
-
-## Messages for callout for users not opted into the sidebar integrated version of Review Checker.
-
-shopping-callout-opt-in-integrated-headline = Can you trust these reviews?
-# Appears underneath shopping-opt-in-integrated-headline to answer the question 'Can you trust these reviews?'
-shopping-callout-not-opted-in-integrated-paragraph1 = Turn on Review Checker from { -brand-product-name } to find out. It’s powered by { -fakespot-brand-full-name } and uses AI technology to analyse reviews.
-shopping-callout-not-opted-in-integrated-paragraph2 = By selecting “{ shopping-opt-in-integrated-button }” you agree to { -brand-product-name }’s <a data-l10n-name="privacy_policy">privacy notice</a> and { -fakespot-brand-full-name }’s <a data-l10n-name="terms_of_use">terms of use</a>.
-shopping-callout-not-opted-in-integrated-reminder-dismiss-button = Dismiss
-shopping-callout-not-opted-in-integrated-reminder-accept-button = Turn on Review Checker
-shopping-opt-in-integrated-privacy-policy-and-terms-of-use = Review Checker is powered by { -fakespot-brand-full-name }. By selecting “{ shopping-opt-in-integrated-button }” you agree to { -brand-product-name }’s <a data-l10n-name="privacy_policy">privacy notice</a> and { -fakespot-brand-name }’s <a data-l10n-name="terms_of_use">terms of use</a>.
-shopping-opt-in-integrated-button = Try Review Checker
-
-## Message strings for Review Checker's empty states.
-
-shopping-empty-state-header = Ready to check reviews
-shopping-empty-state-supported-site = View a product and { -brand-product-name } will check if the reviews are reliable.
-# We show a list of sites supported by Review Checker whenever a user opens the feature in an unsupported site.
-# This string will be displayed above the list of sites. The list will be hardcoded and does not require localization.
-shopping-empty-state-non-supported-site = Review Checker works when you shop on:
-
-## Confirm disabling Review Checker for newly opted out users
-
-shopping-integrated-callout-opted-out-title = Review Checker is off
-shopping-integrated-callout-opted-out-subtitle = To turn it back on, select the price tag in the sidebar and turn on Review Checker.
-
-## Callout for where to find Review Checker when the sidebar closes
-
-shopping-integrated-callout-sidebar-closed-title = Get back to Review Checker
-shopping-integrated-callout-sidebar-closed-subtitle = Select the price tag in the sidebar to see if you can trust a product’s reviews.
-shopping-integrated-callout-no-logo-sidebar-closed-subtitle = Select the sidebar button to see if you can trust a product’s reviews.
-
-## Strings for a notification card about Review Checker's new position in the sidebar.
-## The card will only appear for users that have the default sidebar position, which is on the left side for non RTL locales.
-## Review Checker in the sidebar is only available to US users at this time, so we can assume that the default position is on the left side.
-
-shopping-integrated-new-position-notification-title = Same Review Checker, new spot
-shopping-integrated-new-position-notification-move-right-subtitle = Keep Review Checker and the rest of the { -brand-product-name } sidebar here — or move them to the right. Switch now or anytime in <a data-l10n-name="sidebar_settings">sidebar settings</a>.
-shopping-integrated-new-position-notification-move-left-subtitle = Keep Review Checker and the rest of the { -brand-product-name } sidebar here — or move them to the left. Switch now or anytime in <a data-l10n-name="sidebar_settings">sidebar settings</a>.
-shopping-integrated-new-position-notification-move-right-button = Move right
-shopping-integrated-new-position-notification-move-left-button = Move left
-shopping-integrated-new-position-notification-dismiss-button = Got it
-
-## Combined setting for auto-open and auto-close.
-
-shopping-settings-auto-open-and-close-toggle =
-    .label = Automatically open and close Review Checker
-# Description text for regions where we support three sites. Sites are limited to Amazon, Walmart and Best Buy.
-# Variables:
-#   $firstSite (String) - The first shopping page name
-#   $secondSite (String) - The second shopping page name
-#   $thirdSite (String) - The third shopping page name
-shopping-settings-auto-open-and-close-description-three-sites = Opens when you view products on { $firstSite }, { $secondSite }, and { $thirdSite } and closes when you leave
-# Description text for regions where we support only one site (e.g. currently used in FR/DE with Amazon).
-# Variables:
-#   $currentSite (String) - The current shopping page name
-shopping-settings-auto-open-and-close-description-single-site = Opens when you view products on { $currentSite } and closes when you leave

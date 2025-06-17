@@ -64,13 +64,6 @@ add-engine-keyword2 = Klucowe słowo (opcionalny)
 # POST and GET refer to the HTTP methods.
 add-engine-post-data = Daty POST z %s město pytańskego wuraza (za GET prozny wóstajiś)
 add-engine-suggest-url = URL-naraźenja z %s město pytańskego wuraza (na žycenje)
-add-engine-keyword = Klucowe słowo
-add-engine-url = URL pytnice, wužywajśo %s město pytańskego wuraza
-add-engine-dialog =
-    .buttonlabelaccept = Pytnicu pśidaś
-    .buttonaccesskeyaccept = P
-engine-name-exists = Pytnica z tym mjenim južo eksistěrujo
-engine-keyword-exists = Pytnica z klucowym słowom južo eksistěrujo
 
 ## The following placeholders are shown in the inputs when adding a new engine.
 

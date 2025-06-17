@@ -60,9 +60,6 @@ shopping-show-less-button = Прикажи мање
 
 shopping-settings-label =
     .label = Подешавања
-shopping-settings-recommendations-toggle2 =
-    .label = Прикажи препоруке и спонзорисани садржај
-shopping-settings-recommendations-learn-more3 = { -brand-product-name } не дели ваше личне податке, тако да вас ове препоруке неће пратити на мрежи. <a data-l10n-name="review-quality-url">Сазнајте више</a>
 shopping-settings-recommendations-toggle =
     .label = Приказуј огласе у прегледачу рецензија
 shopping-settings-recommendations-learn-more2 = Видећете повремено огласе за релевантне производе. Оглашавамо само производе са поузданим рецензијама. <a data-l10n-name="review-quality-url">Сазнајте више</a>
@@ -89,7 +86,6 @@ shopping-settings-sidebar-enabled-state = Прегледач рецензија 
 shopping-adjusted-rating-label =
     .label = Прилагођена оцена
 shopping-adjusted-rating-unreliable-reviews = Непоуздане рецензије су уклоњене
-shopping-adjusted-rating-based-reliable-reviews = На основу поузданих рецензија
 
 ## Strings for the review reliability component
 
@@ -108,8 +104,6 @@ shopping-analysis-explainer-learn-more2 = Сазнајте више о томе 
 # websites, which will be inserted without being translated.
 #  $retailer (String) - capitalized name of the shopping website, for example, "Amazon".
 shopping-analysis-explainer-highlights-description = <strong>Истакнуто</strong> је из { $retailer } рецензија у последњих 80 дана за које верујемо да су поуздане.
-# Fallback for analysis highlights explainer if the retailer is ever unknown
-shopping-analysis-explainer-highlights-description-unknown-retailer = <strong>Истакнуто</strong> је из рецензија у последњих 80 дана за које верујемо да су поуздане.
 shopping-analysis-explainer-review-grading-scale-reliable = Поуздане рецензије. Верујемо да су рецензије вероватно оставили стварни купци који су искрени и непристрасни.
 shopping-analysis-explainer-review-grading-scale-mixed = Верујемо да постоји мешавина поузданих и непоузданих рецензија.
 shopping-analysis-explainer-review-grading-scale-unreliable = Непоуздане рецензије. Верујемо да су рецензије вероватно лажне или од пристрасних рецензената.
@@ -136,7 +130,6 @@ shopping-unanalyzed-product-analyze-button = Проверите квалитет
 
 more-to-consider-ad-label =
     .label = Више за разматрање
-shopping-sponsored-label = Спонзорисано
 ad-by-fakespot = { -fakespot-brand-name } оглас
 
 ## Shopping survey strings.
@@ -158,10 +151,6 @@ shopping-survey-terms-link = Услови коришћења
 shopping-survey-thanks =
     .heading = Хвала на повратним информацијама!
 
-## Shopping opted-out survey strings
-## Opt-out survey options are displayed as checkboxes and the user can select one or many.
-
-
 ## Shopping Feature Callout strings.
 ## "price tag" refers to the price tag icon displayed in the address bar to
 ## access the feature.
@@ -170,27 +159,4 @@ shopping-callout-not-opted-in-reminder-close-button = Одбаци
 shopping-callout-not-opted-in-reminder-ignore-checkbox = Не приказуј поново
 
 ## Onboarding message strings.
-
-
-## Review Checker in Integrated sidebar
-
-
-## Messages for callout for users not opted into the sidebar integrated version of Review Checker.
-
-
-## Message strings for Review Checker's empty states.
-
-
-## Confirm disabling Review Checker for newly opted out users
-
-
-## Callout for where to find Review Checker when the sidebar closes
-
-
-## Strings for a notification card about Review Checker's new position in the sidebar.
-## The card will only appear for users that have the default sidebar position, which is on the left side for non RTL locales.
-## Review Checker in the sidebar is only available to US users at this time, so we can assume that the default position is on the left side.
-
-
-## Combined setting for auto-open and auto-close.
 

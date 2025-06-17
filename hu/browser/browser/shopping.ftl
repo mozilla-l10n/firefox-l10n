@@ -89,9 +89,6 @@ shopping-show-less-button = Kevesebb megjelenítése
 
 shopping-settings-label =
     .label = Beállítások
-shopping-settings-recommendations-toggle2 =
-    .label = Ajánlások és szponzorált tartalmak megjelenítése
-shopping-settings-recommendations-learn-more3 = A { -brand-product-name } nem osztja meg a személyes adatait, így ezek az ajánlások nem követik Önt az interneten. <a data-l10n-name="review-quality-url">További tudnivalók</a>
 shopping-settings-recommendations-toggle =
     .label = Reklámok megjelenítése az értékelés-ellenőrzőben
 shopping-settings-recommendations-learn-more2 = Alkalmanként releváns termékek hirdetéseit fogja látni. Csak megbízható értékeléssel rendelkező termékeket hirdetünk. <a data-l10n-name="review-quality-url">További tudnivalók</a>
@@ -118,7 +115,6 @@ shopping-settings-sidebar-enabled-state = Értékelés-ellenőrző <strong>be</s
 shopping-adjusted-rating-label =
     .label = Módosított értékelés
 shopping-adjusted-rating-unreliable-reviews = A nem megbízható értékelések eltávolítva
-shopping-adjusted-rating-based-reliable-reviews = Megbízható értékelések alapján
 
 ## Strings for the review reliability component
 
@@ -139,8 +135,6 @@ shopping-analysis-explainer-learn-more2 = Tudjon meg többet arról, <a data-l10
 # websites, which will be inserted without being translated.
 #  $retailer (String) - capitalized name of the shopping website, for example, "Amazon".
 shopping-analysis-explainer-highlights-description = A <strong>kiemelések</strong> a(z) { $retailer } értékeléseinek az elmúlt 80 napból származó és megbízhatónak ítélt elemei.
-# Fallback for analysis highlights explainer if the retailer is ever unknown
-shopping-analysis-explainer-highlights-description-unknown-retailer = A <strong>kiemelések</strong> az értékelések az elmúlt 80 napból származó és megbízhatónak ítélt elemei.
 shopping-analysis-explainer-review-grading-scale-reliable = Megbízható értékelések. Úgy gondoljuk, hogy az értékelések valószínűleg valódi vásárlóktól származnak, akik őszinte, elfogulatlan értékelést írtak.
 shopping-analysis-explainer-review-grading-scale-mixed = Úgy gondoljuk, hogy vegyesen vannak megbízható és nem megbízható értékelések.
 shopping-analysis-explainer-review-grading-scale-unreliable = Nem megbízható értékelések. Úgy gondoljuk, hogy az értékelések hamisak vagy elfogult értékelőktől származnak.
@@ -167,7 +161,6 @@ shopping-unanalyzed-product-analyze-button = Értékelési minőség ellenőrzé
 
 more-to-consider-ad-label =
     .label = További megfontolandó információk
-shopping-sponsored-label = Szponzorált
 ad-by-fakespot = A { -fakespot-brand-name } hirdetése
 
 ## Shopping survey strings.
@@ -188,18 +181,6 @@ shopping-survey-submit-button-label = Elküldés
 shopping-survey-terms-link = Használati feltételek
 shopping-survey-thanks =
     .heading = Köszönjük visszajelzését!
-
-## Shopping opted-out survey strings
-## Opt-out survey options are displayed as checkboxes and the user can select one or many.
-
-shopping-survey-opted-out-multiselect-label = Tudassa velünk, hogy miért kapcsolta ki az Értékelés-ellenőrzőt, Válasszon több lehetőséget, ha szükséges.
-shopping-survey-thanks-title = Köszönjük visszajelzését.
-shopping-survey-opted-out-hard-to-understand = Nehezen érthető
-shopping-survey-opted-out-too-slow = Túl lassú
-shopping-survey-opted-out-not-accurate = Nem pontos
-shopping-survey-opted-out-not-helpful = Nem hasznos számomra
-shopping-survey-opted-out-check-myself = Inkább magam ellenőrizném az értékeléseket
-shopping-survey-opted-out-other = Egyéb
 
 ## Shopping Feature Callout strings.
 ## "price tag" refers to the price tag icon displayed in the address bar to
@@ -253,76 +234,3 @@ shopping-onboarding-dialog-close-button =
 #   $total (Int) - Total number of pages
 shopping-onboarding-welcome-steps-indicator-label =
     .aria-label = Haladás: { $current }. / { $total } lépés
-
-## Review Checker in Integrated sidebar
-
-# Opt-in message strings for Review Checker when it is integrated into the global sidebar.
-shopping-opt-in-integrated-headline = Vásároljon magabiztosan
-# Description text for regions where we support three sites. Sites are limited to Amazon, Walmart and Best Buy.
-# Variables:
-#   $firstSite (String) - The first shopping page name
-#   $secondSite (String) - The second shopping page name
-#   $thirdSite (String) - The third shopping page name
-shopping-opt-in-integrated-subtitle = Kapcsolja be a { -brand-product-name } értékelés-ellenőrzőjét, hogy vásárlás előtt lássa, mennyire megbízhatóak a termékértékelések. MI technológiát használ az értékelések elemzéséhez, és akkor működik, ha az { $firstSite }, a { $secondSite } és a { $thirdSite } oldalakon vásárol. <a data-l10n-name="learn_more">További információk</a>
-# Description text for regions where we support three sites. Sites are limited to Amazon, Walmart and Best Buy.
-# Variables:
-#   $firstSite (String) - The first shopping page name
-#   $secondSite (String) - The second shopping page name
-#   $thirdSite (String) - The third shopping page name
-shopping-opt-in-integrated-subtitle-unsupported-site = A { -brand-product-name } értékelés-ellenőrzője segít, hogy vásárlás előtt tudja, mennyire megbízhatóak a termékértékelések. MI technológiát használ az értékelések elemzéséhez, és akkor működik, ha az { $firstSite }, a { $secondSite } és a { $thirdSite } oldalakon vásárol. <a data-l10n-name="learn_more">További információk</a>
-
-## Messages for callout for users not opted into the sidebar integrated version of Review Checker.
-
-shopping-callout-opt-in-integrated-headline = Megbízhat ezekben az értékelésekben?
-# Appears underneath shopping-opt-in-integrated-headline to answer the question 'Can you trust these reviews?'
-shopping-callout-not-opted-in-integrated-paragraph1 = Kapcsolja be a { -brand-product-name } értékelések-ellenőrzőjét, hogy megtudja. A { -fakespot-brand-full-name }ra épül, és MI technológiát használ az értékelések elemzéséhez.
-shopping-callout-not-opted-in-integrated-paragraph2 = Az „{ shopping-opt-in-integrated-button }” kiválasztásával elfogadja a { -brand-product-name } <a data-l10n-name="privacy_policy">adatvédelmi nyilatkozatát</a> és a { -fakespot-brand-full-name } <a data-l10n-name="terms_of_use">felhasználási feltételeit.</a>
-shopping-callout-not-opted-in-integrated-reminder-dismiss-button = Eltüntetés
-shopping-callout-not-opted-in-integrated-reminder-accept-button = Értékelés-ellenőrző bekapcsolása
-shopping-opt-in-integrated-privacy-policy-and-terms-of-use = Az Értékelés-ellenőrző a { -fakespot-brand-full-name }ra épül Az „{ shopping-opt-in-integrated-button }” kiválasztásával elfogadja a { -brand-product-name } <a data-l10n-name="privacy_policy">adatvédelmi nyilatkozatát</a> és a { -fakespot-brand-name } <a data-l10n-name="terms_of_use">felhasználási feltételeit.</a>
-shopping-opt-in-integrated-button = Próbálja ki az értékelés-ellenőrzőt
-
-## Message strings for Review Checker's empty states.
-
-shopping-empty-state-header = Készen áll az értékelések ellenőrzésére
-shopping-empty-state-supported-site = Nézzen meg egy terméket, és a { -brand-product-name } ellenőrzi, hogy az értékelések megbízhatóak-e.
-# We show a list of sites supported by Review Checker whenever a user opens the feature in an unsupported site.
-# This string will be displayed above the list of sites. The list will be hardcoded and does not require localization.
-shopping-empty-state-non-supported-site = Az értékelés-ellenőrző akkor működik, ha a következő helyeken vásárol:
-
-## Confirm disabling Review Checker for newly opted out users
-
-shopping-integrated-callout-opted-out-title = Az értékelés-ellenőrző ki van kapcsolva
-shopping-integrated-callout-opted-out-subtitle = A visszakapcsoláshoz válassza ki az árcédulát az oldalsávban, és kapcsolja be az értékelés-ellenőrzőt.
-
-## Callout for where to find Review Checker when the sidebar closes
-
-shopping-integrated-callout-sidebar-closed-title = Térjen vissza az értékelés-ellenőrzőhöz
-shopping-integrated-callout-sidebar-closed-subtitle = Válassza az árcédulát az oldalsávban, hogy megnézze, megbízhat-e egy termék értékelésében.
-shopping-integrated-callout-no-logo-sidebar-closed-subtitle = Válassza az oldalsávgombot, hogy megnézze, megbízhat-e egy termék értékelésében.
-
-## Strings for a notification card about Review Checker's new position in the sidebar.
-## The card will only appear for users that have the default sidebar position, which is on the left side for non RTL locales.
-## Review Checker in the sidebar is only available to US users at this time, so we can assume that the default position is on the left side.
-
-shopping-integrated-new-position-notification-title = Ugyanaz az értékelés-ellenőrző, új helyen
-shopping-integrated-new-position-notification-move-right-subtitle = Tartsa itt az Értékelés-ellenőrzőt és a { -brand-product-name } oldalsáv többi részét – vagy helyezze át jobbra. Váltson most vagy bármikor az <a data-l10n-name="sidebar_settings">oldalsáv beállításaiban</a>.
-shopping-integrated-new-position-notification-move-left-subtitle = Tartsa itt az Értékelés-ellenőrzőt és a { -brand-product-name } oldalsáv többi részét – vagy helyezze át balra. Váltson most vagy bármikor az <a data-l10n-name="sidebar_settings">oldalsáv beállításaiban</a>.
-shopping-integrated-new-position-notification-move-right-button = Áthelyezés jobbra
-shopping-integrated-new-position-notification-move-left-button = Áthelyezés balra
-shopping-integrated-new-position-notification-dismiss-button = Megértettem!
-
-## Combined setting for auto-open and auto-close.
-
-shopping-settings-auto-open-and-close-toggle =
-    .label = Értékelés-ellenőrző automatikus megnyitása és bezárása
-# Description text for regions where we support three sites. Sites are limited to Amazon, Walmart and Best Buy.
-# Variables:
-#   $firstSite (String) - The first shopping page name
-#   $secondSite (String) - The second shopping page name
-#   $thirdSite (String) - The third shopping page name
-shopping-settings-auto-open-and-close-description-three-sites = A termékek megtekintésekor nyílik meg ezeken a webhelyeken: { $firstSite }, { $secondSite } és { $thirdSite }. Távozáskor bezárul.
-# Description text for regions where we support only one site (e.g. currently used in FR/DE with Amazon).
-# Variables:
-#   $currentSite (String) - The current shopping page name
-shopping-settings-auto-open-and-close-description-single-site = Megnyílik, ha termékeket néz a(z) { $currentSite } oldalon, és bezárul, ha kilép onnan

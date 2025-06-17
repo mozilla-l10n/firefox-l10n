@@ -21,9 +21,6 @@ cert-error-trust-symantec = Dëshmitë e lëshuara nga GeoTrust, RapidSSL, Syman
 # Variables:
 #   $hostname (string) - Hostname of the website with cert error.
 cert-error-trust-certificate-transparency = { -brand-short-name } s’i zë besë { $hostname }, ngaqë s’provoi dot se plotëson domosdoshmëri transparence dëshmish.
-# Variables:
-#   $hostname (string) - Hostname of the website with cert error.
-cert-error-revoked = Sajtet e dëshmojnë identitetin e tyre përmes dëshmish. { -brand-short-name }-i nuk i zë besë { $hostname }, ngaqë përdor një dëshmi që është shfuqizuar.
 cert-error-untrusted-default = Dëshmia nuk vjen nga një burim i besuar.
 # Variables:
 #   $hostname (string) - Hostname of the website with cert error.

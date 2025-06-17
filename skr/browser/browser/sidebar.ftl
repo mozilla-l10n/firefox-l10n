@@ -4,8 +4,6 @@
 
 menu-view-genai-chat =
     .label = اے آئی چیٹ بوٹ
-menu-view-review-checker =
-    .label = نظرثانی پڑتالݨ آلا
 sidebar-options-menu-button =
     .title = مینیو کھولو
 
@@ -79,8 +77,6 @@ sidebar-menu-bookmarks-label =
     .label = نشانیاں
 sidebar-menu-customize-label =
     .label = سائیڈ بار مرضی مطابق بݨاؤ
-sidebar-menu-review-checker-label =
-    .label = نظرثانی پڑتالݨ آلا
 
 ## Tooltips for sidebar menu items.
 

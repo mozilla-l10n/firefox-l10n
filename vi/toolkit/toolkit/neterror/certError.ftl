@@ -21,9 +21,6 @@ cert-error-trust-symantec = Chứng nhận do GeoTrust, RapidSSL, Symantec, Thaw
 # Variables:
 #   $hostname (string) - Hostname of the website with cert error.
 cert-error-trust-certificate-transparency = { -brand-short-name } không tin tưởng { $hostname } bởi vì nó không thể chứng minh nó đáp ứng các yêu cầu về tính minh bạch của chứng chỉ công khai.
-# Variables:
-#   $hostname (string) - Hostname of the website with cert error.
-cert-error-revoked = Các trang web chứng minh danh tính của họ thông qua chứng nhận. { -brand-short-name } không tin tưởng { $hostname } bởi vì nó sử dụng một chứng nhận đã bị thu hồi.
 cert-error-untrusted-default = Chứng nhận không thuộc về một nguồn đáng tin cậy.
 # Variables:
 #   $hostname (string) - Hostname of the website with cert error.

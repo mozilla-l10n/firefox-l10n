@@ -41,8 +41,6 @@ shopping-highlight-shipping = Доставка
 
 ## Strings for the settings card
 
-shopping-settings-recommendations-toggle2 =
-    .label = Показване на препоръки и спонсорирано съдържание
 shopping-settings-recommendations-toggle =
     .label = Показване на реклами при проверка на отзиви
 shopping-settings-opt-out-button = Изключване на проверката на отзиви
@@ -92,10 +90,6 @@ ad-by-fakespot = Реклама от { -fakespot-brand-name }
 shopping-survey-headline = Помогнете ни да подобрим { -brand-product-name }
 shopping-survey-question-one = Доколко сте доволни от работата на Проверката на отзиви в { -brand-product-name }?
 
-## Shopping opted-out survey strings
-## Opt-out survey options are displayed as checkboxes and the user can select one or many.
-
-
 ## Shopping Feature Callout strings.
 ## "price tag" refers to the price tag icon displayed in the address bar to
 ## access the feature.
@@ -123,26 +117,3 @@ shopping-onboarding-not-now-button = Не сега
 #   $total (Int) - Total number of pages
 shopping-onboarding-welcome-steps-indicator-label =
     .aria-label = Напредък: стъпка { $current } от { $total }
-
-## Review Checker in Integrated sidebar
-
-
-## Messages for callout for users not opted into the sidebar integrated version of Review Checker.
-
-
-## Message strings for Review Checker's empty states.
-
-
-## Confirm disabling Review Checker for newly opted out users
-
-
-## Callout for where to find Review Checker when the sidebar closes
-
-
-## Strings for a notification card about Review Checker's new position in the sidebar.
-## The card will only appear for users that have the default sidebar position, which is on the left side for non RTL locales.
-## Review Checker in the sidebar is only available to US users at this time, so we can assume that the default position is on the left side.
-
-
-## Combined setting for auto-open and auto-close.
-

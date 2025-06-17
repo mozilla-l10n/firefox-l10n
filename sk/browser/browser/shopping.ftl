@@ -89,9 +89,6 @@ shopping-show-less-button = Zobraziť menej
 
 shopping-settings-label =
     .label = Nastavenia
-shopping-settings-recommendations-toggle2 =
-    .label = Zobrazovať odporúčania a sponzorovaný obsah
-shopping-settings-recommendations-learn-more3 = { -brand-product-name } nezdieľa vaše osobné údaje, takže tieto odporúčania vás nebudú na internete sledovať. <a data-l10n-name="review-quality-url">Ďalšie informácie</a>
 shopping-settings-recommendations-toggle =
     .label = Zobrazovať reklamy v nástroji Kontrola recenzií
 shopping-settings-recommendations-learn-more2 = Príležitostne sa vám budú zobrazovať reklamy na relevantné produkty. Inzerujeme iba produkty so spoľahlivými recenziami. <a data-l10n-name="review-quality-url">Ďalšie informácie</a>
@@ -118,7 +115,6 @@ shopping-settings-sidebar-enabled-state = Kontrola recenzií je <strong>zapnutá
 shopping-adjusted-rating-label =
     .label = Upravené hodnotenie
 shopping-adjusted-rating-unreliable-reviews = Nespoľahlivé recenzie boli odstránené
-shopping-adjusted-rating-based-reliable-reviews = Na základe spoľahlivých recenzií
 
 ## Strings for the review reliability component
 
@@ -137,8 +133,6 @@ shopping-analysis-explainer-learn-more2 = Pozrite si ďalšie informácie o tom,
 # websites, which will be inserted without being translated.
 #  $retailer (String) - capitalized name of the shopping website, for example, "Amazon".
 shopping-analysis-explainer-highlights-description = <strong>Najdôležitejšie informácie</strong> pochádzajú z recenzií v obchode { $retailer } uverejnených za posledných 80 dní, ktoré považujeme za spoľahlivé.
-# Fallback for analysis highlights explainer if the retailer is ever unknown
-shopping-analysis-explainer-highlights-description-unknown-retailer = <strong>Najdôležitejšie informácie</strong> pochádzajú z recenzií za posledných 80 dní, ktoré považujeme za spoľahlivé.
 shopping-analysis-explainer-review-grading-scale-reliable = Spoľahlivé recenzie. Veríme, že recenzie sú pravdepodobne od skutočných zákazníkov, ktorí zanechali úprimné a nezaujaté recenzie.
 shopping-analysis-explainer-review-grading-scale-mixed = Myslíme si, že je tu mix spoľahlivých a nespoľahlivých recenzií.
 shopping-analysis-explainer-review-grading-scale-unreliable = Nespoľahlivé recenzie. Sme presvedčení, že recenzie sú pravdepodobne falošné alebo od zaujatých recenzentov.
@@ -165,7 +159,6 @@ shopping-unanalyzed-product-analyze-button = Skontrolovať kvalitu recenzií
 
 more-to-consider-ad-label =
     .label = Ďalšie na zváženie
-shopping-sponsored-label = Sponzorované
 ad-by-fakespot = Reklama od { -fakespot-brand-name }
 
 ## Shopping survey strings.
@@ -186,18 +179,6 @@ shopping-survey-submit-button-label = Odoslať
 shopping-survey-terms-link = Podmienky používania
 shopping-survey-thanks =
     .heading = Ďakujeme za vašu spätnú väzbu.
-
-## Shopping opted-out survey strings
-## Opt-out survey options are displayed as checkboxes and the user can select one or many.
-
-shopping-survey-opted-out-multiselect-label = Dajte nám vedieť, prečo ste vypli Kontrolu recenzií. Môžete vybrať viacero dôvodov.
-shopping-survey-thanks-title = Ďakujeme za vašu spätnú väzbu.
-shopping-survey-opted-out-hard-to-understand = Je to ťažké ju pochopiť
-shopping-survey-opted-out-too-slow = Je príliš pomalá
-shopping-survey-opted-out-not-accurate = Nie je presná
-shopping-survey-opted-out-not-helpful = Nie je pre mňa užitočná
-shopping-survey-opted-out-check-myself = Radšej si pozriem recenzie sám
-shopping-survey-opted-out-other = Iné
 
 ## Shopping Feature Callout strings.
 ## "price tag" refers to the price tag icon displayed in the address bar to
@@ -251,76 +232,3 @@ shopping-onboarding-dialog-close-button =
 #   $total (Int) - Total number of pages
 shopping-onboarding-welcome-steps-indicator-label =
     .aria-label = Priebeh: krok { $current } z { $total }
-
-## Review Checker in Integrated sidebar
-
-# Opt-in message strings for Review Checker when it is integrated into the global sidebar.
-shopping-opt-in-integrated-headline = Nakupujte s istotou
-# Description text for regions where we support three sites. Sites are limited to Amazon, Walmart and Best Buy.
-# Variables:
-#   $firstSite (String) - The first shopping page name
-#   $secondSite (String) - The second shopping page name
-#   $thirdSite (String) - The third shopping page name
-shopping-opt-in-integrated-subtitle = Zapnite Kontrolu recenzií od { -brand-product-name(case: "gen") } a zistite, aké spoľahlivé sú recenzie produktov ešte pred nákupom. Používa technológiu AI na analýzu recenzií a funguje, keď nakupujete na stránkach { $firstSite }, { $secondSite } a { $thirdSite }. <a data-l10n-name="learn_more">Ďalšie informácie</a>
-# Description text for regions where we support three sites. Sites are limited to Amazon, Walmart and Best Buy.
-# Variables:
-#   $firstSite (String) - The first shopping page name
-#   $secondSite (String) - The second shopping page name
-#   $thirdSite (String) - The third shopping page name
-shopping-opt-in-integrated-subtitle-unsupported-site = Kontrola recenzií od { -brand-product-name(case: "gen") } vám pomôže zistiť, aké spoľahlivé sú recenzie produktu, ešte pred kúpou. Používa technológiu AI na analýzu recenzií a funguje, keď nakupujete na stránkach { $firstSite }, { $secondSite } a { $thirdSite }. <a data-l10n-name="learn_more">Ďalšie informácie</a>
-
-## Messages for callout for users not opted into the sidebar integrated version of Review Checker.
-
-shopping-callout-opt-in-integrated-headline = Môžete veriť týmto recenziám?
-# Appears underneath shopping-opt-in-integrated-headline to answer the question 'Can you trust these reviews?'
-shopping-callout-not-opted-in-integrated-paragraph1 = Ak to chcete zistiť, zapnite Kontrolu recenzií od { -brand-product-name(case: "gen") }. Využíva technológiu { -fakespot-brand-full-name } a na analýzu recenzií používa technológiu AI.
-shopping-callout-not-opted-in-integrated-paragraph2 = Kliknutím na tlačidlo “{ shopping-opt-in-integrated-button }” súhlasíte s <a data-l10n-name="privacy_policy">Vyhlásením o ochrane osobných údajov</a> { -brand-product-name(case: "gen") } a <a data-l10n-name="terms_of_use">Podmienkami používania služby</a> od { -fakespot-brand-full-name }.
-shopping-callout-not-opted-in-integrated-reminder-dismiss-button = Zavrieť
-shopping-callout-not-opted-in-integrated-reminder-accept-button = Zapnúť Kontrolu recenzií
-shopping-opt-in-integrated-privacy-policy-and-terms-of-use = Kontrola recenzií využíva technológiu { -fakespot-brand-full-name }. Kliknutím na tlačidlo “{ shopping-opt-in-integrated-button }” súhlasíte s <a data-l10n-name="privacy_policy">Vyhlásením o ochrane osobných údajov</a> { -brand-product-name(case: "gen") } a <a data-l10n-name="terms_of_use">Podmienkami používania služby</a> od { -fakespot-brand-name }.
-shopping-opt-in-integrated-button = Vyskúšajte Kontrolu recenzií
-
-## Message strings for Review Checker's empty states.
-
-shopping-empty-state-header = Pripravené na kontrolu recenzií
-shopping-empty-state-supported-site = Pozrite si produkt a { -brand-product-name } skontroluje, či sú recenzie spoľahlivé.
-# We show a list of sites supported by Review Checker whenever a user opens the feature in an unsupported site.
-# This string will be displayed above the list of sites. The list will be hardcoded and does not require localization.
-shopping-empty-state-non-supported-site = Kontrola recenzií funguje, keď nakupujete na:
-
-## Confirm disabling Review Checker for newly opted out users
-
-shopping-integrated-callout-opted-out-title = Kontrola recenzií je vypnutá
-shopping-integrated-callout-opted-out-subtitle = Ak ju chcete znova zapnúť, vyberte cenovku na bočnom paneli a zapnite Kontrolu recenzií.
-
-## Callout for where to find Review Checker when the sidebar closes
-
-shopping-integrated-callout-sidebar-closed-title = Získajte späť Kontrolu recenzií
-shopping-integrated-callout-sidebar-closed-subtitle = Vyberte cenovku na bočnom paneli a zistite, či môžete dôverovať recenziám k produktu.
-shopping-integrated-callout-no-logo-sidebar-closed-subtitle = Ak chcete zistiť, či môžete dôverovať recenziám produktu, vyberte tlačidlo na bočnom paneli.
-
-## Strings for a notification card about Review Checker's new position in the sidebar.
-## The card will only appear for users that have the default sidebar position, which is on the left side for non RTL locales.
-## Review Checker in the sidebar is only available to US users at this time, so we can assume that the default position is on the left side.
-
-shopping-integrated-new-position-notification-title = Rovnaká Kontrola recenzií, nové miesto
-shopping-integrated-new-position-notification-move-right-subtitle = Kontrolu recenzií a zvyšok bočného panela { -brand-product-name(case: "gen") } ponechajte tu — alebo ho presuňte doprava. Prepnúť môžete teraz alebo kedykoľvek v <a data-l10n-name="sidebar_settings">nastaveniach bočného panela</a>.
-shopping-integrated-new-position-notification-move-left-subtitle = Kontrolu recenzií a zvyšok bočného panela { -brand-product-name(case: "gen") } ponechajte tu — alebo ho presuňte doľava. Prepnúť môžete teraz alebo kedykoľvek v <a data-l10n-name="sidebar_settings">nastaveniach bočného panela</a>.
-shopping-integrated-new-position-notification-move-right-button = Presunúť doprava
-shopping-integrated-new-position-notification-move-left-button = Presunúť doľava
-shopping-integrated-new-position-notification-dismiss-button = Rozumiem
-
-## Combined setting for auto-open and auto-close.
-
-shopping-settings-auto-open-and-close-toggle =
-    .label = Automaticky otvárať a zatvárať nástroj Kontrola recenzií
-# Description text for regions where we support three sites. Sites are limited to Amazon, Walmart and Best Buy.
-# Variables:
-#   $firstSite (String) - The first shopping page name
-#   $secondSite (String) - The second shopping page name
-#   $thirdSite (String) - The third shopping page name
-shopping-settings-auto-open-and-close-description-three-sites = Spustí sa pri prezeraní produktov na stránkach { $firstSite }, { $secondSite } a { $thirdSite } a ukončí sa, keď z nich odídete
-# Description text for regions where we support only one site (e.g. currently used in FR/DE with Amazon).
-# Variables:
-#   $currentSite (String) - The current shopping page name
-shopping-settings-auto-open-and-close-description-single-site = Spustí sa pri prezeraní produktov na stránkach { $currentSite } a ukončí sa, keď z nich odídete

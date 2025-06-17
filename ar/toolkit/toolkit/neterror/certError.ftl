@@ -21,9 +21,6 @@ cert-error-trust-symantec = لم تعد الشهادات التي تُصدرها
 # Variables:
 #   $hostname (string) - Hostname of the website with cert error.
 cert-error-trust-certificate-transparency = لا يثق { -brand-short-name } في { $hostname } لأنه لم يتمكن من إثبات أنه يلبي متطلبات شفافية الشهادة العامة.
-# Variables:
-#   $hostname (string) - Hostname of the website with cert error.
-cert-error-revoked = تثبت مواقع الويب هويتها عبر الشهادات. لا يثق { -brand-short-name } في { $hostname } لأنه يستخدم شهادة نُقضت.
 cert-error-untrusted-default = لم تأت هذه الشهادة من مصدر موثوق.
 # Variables:
 #   $hostname (string) - Hostname of the website with cert error.

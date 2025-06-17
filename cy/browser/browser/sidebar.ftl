@@ -4,8 +4,6 @@
 
 menu-view-genai-chat =
     .label = Sgwrsfot AI
-menu-view-review-checker =
-    .label = Gwirydd Adolygiadau
 menu-view-contextual-password-manager =
     .label = Cyfrineiriau
 sidebar-options-menu-button =
@@ -125,8 +123,6 @@ sidebar-menu-bookmarks-label =
     .label = Nodau Tudalen
 sidebar-menu-customize-label =
     .label = Cyfaddasu'r bar offer
-sidebar-menu-review-checker-label =
-    .label = Gwirydd Adolygiadau
 sidebar-menu-contextual-password-manager-label =
     .label = Cyfrineiriau
 

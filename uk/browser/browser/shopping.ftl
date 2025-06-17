@@ -89,9 +89,6 @@ shopping-show-less-button = Показати менше
 
 shopping-settings-label =
     .label = Налаштування
-shopping-settings-recommendations-toggle2 =
-    .label = Показувати рекомендації та спонсоровані матеріали
-shopping-settings-recommendations-learn-more3 = { -brand-product-name } не поширює ваші особисті дані, тому ці рекомендації не переслідуватимуть вас в інтернеті. <a data-l10n-name="review-quality-url">Докладніше</a>
 shopping-settings-recommendations-toggle =
     .label = Показувати рекламу в засобі перевірки відгуків
 shopping-settings-recommendations-learn-more2 = Ви періодично бачитимете рекламу схожих товарів. Ми рекламуємо лише продукти, які мають надійні відгуки. <a data-l10n-name="review-quality-url">Докладніше</a>
@@ -118,7 +115,6 @@ shopping-settings-sidebar-enabled-state = Перевірку відгуків <s
 shopping-adjusted-rating-label =
     .label = Скоригований рейтинг
 shopping-adjusted-rating-unreliable-reviews = Сумнівні відгуки прибрано
-shopping-adjusted-rating-based-reliable-reviews = На основі надійних відгуків
 
 ## Strings for the review reliability component
 
@@ -137,8 +133,6 @@ shopping-analysis-explainer-learn-more2 = Дізнайтеся, <a data-l10n-nam
 # websites, which will be inserted without being translated.
 #  $retailer (String) - capitalized name of the shopping website, for example, "Amazon".
 shopping-analysis-explainer-highlights-description = <strong>Обрані</strong> беруться з відгуків { $retailer } за останні 80 днів, які ми вважаємо надійними.
-# Fallback for analysis highlights explainer if the retailer is ever unknown
-shopping-analysis-explainer-highlights-description-unknown-retailer = <strong>Обрані</strong> беруться з відгуків за останні 80 днів, які ми вважаємо надійними.
 shopping-analysis-explainer-review-grading-scale-reliable = Надійні – чесні, неупереджені відгуки, найімовірніше від справжніх замовників.
 shopping-analysis-explainer-review-grading-scale-mixed = Ми вважаємо, що тут поєднано надійні та сумнівні відгуки.
 shopping-analysis-explainer-review-grading-scale-unreliable = Сумнівні – нечесні відгуки, найімовірніше від упереджених оглядачів.
@@ -165,7 +159,6 @@ shopping-unanalyzed-product-analyze-button = Перевірити якість �
 
 more-to-consider-ad-label =
     .label = Більше товарів
-shopping-sponsored-label = Спонсоровано
 ad-by-fakespot = Реклама від { -fakespot-brand-name }
 
 ## Shopping survey strings.
@@ -186,18 +179,6 @@ shopping-survey-submit-button-label = Надіслати
 shopping-survey-terms-link = Умови користування
 shopping-survey-thanks =
     .heading = Дякуємо за ваш відгук!
-
-## Shopping opted-out survey strings
-## Opt-out survey options are displayed as checkboxes and the user can select one or many.
-
-shopping-survey-opted-out-multiselect-label = Будь ласка, повідомте нам, чому ви вимкнули засіб перевірки відгуків. Можна вибрати декілька варіантів.
-shopping-survey-thanks-title = Дякуємо за ваш відгук!
-shopping-survey-opted-out-hard-to-understand = Він незрозумілий
-shopping-survey-opted-out-too-slow = Занадто повільний
-shopping-survey-opted-out-not-accurate = Неточні результати
-shopping-survey-opted-out-not-helpful = Мені це не потрібно
-shopping-survey-opted-out-check-myself = Краще перевірятиму відгуки особисто
-shopping-survey-opted-out-other = Інше
 
 ## Shopping Feature Callout strings.
 ## "price tag" refers to the price tag icon displayed in the address bar to
@@ -251,76 +232,3 @@ shopping-onboarding-dialog-close-button =
 #   $total (Int) - Total number of pages
 shopping-onboarding-welcome-steps-indicator-label =
     .aria-label = Перебіг: крок { $current } з { $total }
-
-## Review Checker in Integrated sidebar
-
-# Opt-in message strings for Review Checker when it is integrated into the global sidebar.
-shopping-opt-in-integrated-headline = Купуйте впевнено
-# Description text for regions where we support three sites. Sites are limited to Amazon, Walmart and Best Buy.
-# Variables:
-#   $firstSite (String) - The first shopping page name
-#   $secondSite (String) - The second shopping page name
-#   $thirdSite (String) - The third shopping page name
-shopping-opt-in-integrated-subtitle = Увімкніть засіб перевірки відгуків від { -brand-product-name }, щоб дізнатися, наскільки надійні відгуки про продукт, перш ніж купувати. Він використовує технологію ШІ для аналізу відгуків і працює на { $firstSite }, { $secondSite } і { $thirdSite }. <a data-l10n-name="learn_more">Докладніше</a>
-# Description text for regions where we support three sites. Sites are limited to Amazon, Walmart and Best Buy.
-# Variables:
-#   $firstSite (String) - The first shopping page name
-#   $secondSite (String) - The second shopping page name
-#   $thirdSite (String) - The third shopping page name
-shopping-opt-in-integrated-subtitle-unsupported-site = Засіб перевірки відгуків від { -brand-product-name } допоможе вам дізнатися, наскільки достовірні відгуки про продукт, перш ніж купувати. Він використовує технологію ШІ для аналізу відгуків і працює на { $firstSite }, { $secondSite } і { $thirdSite }. <a data-l10n-name="learn_more">Докладніше</a>
-
-## Messages for callout for users not opted into the sidebar integrated version of Review Checker.
-
-shopping-callout-opt-in-integrated-headline = Чи можете ви довіряти цим відгукам?
-# Appears underneath shopping-opt-in-integrated-headline to answer the question 'Can you trust these reviews?'
-shopping-callout-not-opted-in-integrated-paragraph1 = Увімкніть засіб перевірки відгуків від { -brand-product-name }, щоб дізнатися. Він працює на основі { -fakespot-brand-full-name } і використовує технологію ШІ для аналізу відгуків.
-shopping-callout-not-opted-in-integrated-paragraph2 = Вибираючи “{ shopping-opt-in-integrated-button }”, ви приймаєте <a data-l10n-name="privacy_policy">Положення про приватність</a> { -brand-product-name } і <a data-l10n-name="terms_of_use">Умови використання</a> { -fakespot-brand-full-name }.
-shopping-callout-not-opted-in-integrated-reminder-dismiss-button = Відхилити
-shopping-callout-not-opted-in-integrated-reminder-accept-button = Увімкнути засіб перевірки відгуків
-shopping-opt-in-integrated-privacy-policy-and-terms-of-use = Засіб перевірки відгуків працює на основі { -fakespot-brand-full-name }. Вибираючи “{ shopping-opt-in-integrated-button }“, ви приймаєте <a data-l10n-name="privacy_policy">Положення про приватність</a> { -brand-product-name } і <a data-l10n-name="terms_of_use">Умови використання</a> { -fakespot-brand-name }.
-shopping-opt-in-integrated-button = Спробуйте засіб перевірки відгуків
-
-## Message strings for Review Checker's empty states.
-
-shopping-empty-state-header = Готовий перевірити відгуків
-shopping-empty-state-supported-site = Перегляньте продукт, і { -brand-product-name } перевірить надійність відгуків.
-# We show a list of sites supported by Review Checker whenever a user opens the feature in an unsupported site.
-# This string will be displayed above the list of sites. The list will be hardcoded and does not require localization.
-shopping-empty-state-non-supported-site = Перевірка відгуків працює, коли ви робите покупки на:
-
-## Confirm disabling Review Checker for newly opted out users
-
-shopping-integrated-callout-opted-out-title = Засіб перевірки відгуків вимкнено
-shopping-integrated-callout-opted-out-subtitle = Щоб увімкнути його знову, виберіть ярлик цінника на бічній панелі.
-
-## Callout for where to find Review Checker when the sidebar closes
-
-shopping-integrated-callout-sidebar-closed-title = Повернутися до засобу перевірки відгуків
-shopping-integrated-callout-sidebar-closed-subtitle = Виберіть ярлик цінника на бічній панелі, щоб дізнатися, чи можна довіряти відгукам про продукт.
-shopping-integrated-callout-no-logo-sidebar-closed-subtitle = Натисніть кнопку на бічній панелі, щоб дізнатися, чи можна довіряти відгукам про продукт.
-
-## Strings for a notification card about Review Checker's new position in the sidebar.
-## The card will only appear for users that have the default sidebar position, which is on the left side for non RTL locales.
-## Review Checker in the sidebar is only available to US users at this time, so we can assume that the default position is on the left side.
-
-shopping-integrated-new-position-notification-title = Той самий засіб перевірки відгуків у новому розташуванні
-shopping-integrated-new-position-notification-move-right-subtitle = Зберігайте засіб перевірки відгуків та інші елементи бічної панелі { -brand-product-name } тут, або перемістіть їх праворуч. Перемкніть зараз або будь-коли згодом у <a data-l10n-name="sidebar_settings">налаштуваннях бічної панелі</a>.
-shopping-integrated-new-position-notification-move-left-subtitle = Зберігайте засіб перевірки відгуків та інші елементи бічної панелі { -brand-product-name } тут, або перемістіть їх ліворуч. Перекніть зараз або будь-коли згодом у <a data-l10n-name="sidebar_settings">налаштуваннях бічної панелі</a>.
-shopping-integrated-new-position-notification-move-right-button = Перемістити праворуч
-shopping-integrated-new-position-notification-move-left-button = Перемістити ліворуч
-shopping-integrated-new-position-notification-dismiss-button = Зрозуміло
-
-## Combined setting for auto-open and auto-close.
-
-shopping-settings-auto-open-and-close-toggle =
-    .label = Автоматично відкривати й закривати засіб перевірки відгуків
-# Description text for regions where we support three sites. Sites are limited to Amazon, Walmart and Best Buy.
-# Variables:
-#   $firstSite (String) - The first shopping page name
-#   $secondSite (String) - The second shopping page name
-#   $thirdSite (String) - The third shopping page name
-shopping-settings-auto-open-and-close-description-three-sites = Відкривається, коли ви переглядаєте продукти на { $firstSite }, { $secondSite } і { $thirdSite }, і закривається, коли ви йдете з сайту
-# Description text for regions where we support only one site (e.g. currently used in FR/DE with Amazon).
-# Variables:
-#   $currentSite (String) - The current shopping page name
-shopping-settings-auto-open-and-close-description-single-site = Відкривається, коли ви переглядаєте продукти на { $currentSite }, і закривається, коли ви йдете з сайту

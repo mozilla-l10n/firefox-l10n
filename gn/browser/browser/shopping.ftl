@@ -89,8 +89,6 @@ shopping-show-less-button = Ehechauka’ive
 
 shopping-settings-label =
     .label = Ñemboheko
-shopping-settings-recommendations-toggle2 =
-    .label = Ehechauka ñemoñe’ẽ ha tetepy jeykekóva
 shopping-settings-recommendations-toggle =
     .label = Ehechauka ñemurã marandu’i rechajeyhápe
 shopping-settings-recommendations-learn-more2 = Ehecháta ñemurã sapy’apy’a apopyre iporãva rehegua. Romoherakuã apopyre ojejeroviaha oñónte. <a data-l10n-name="review-quality-url">Eikuaave</a>
@@ -117,7 +115,6 @@ shopping-settings-sidebar-enabled-state = Pe marandu’i rechajeyha <strong>hend
 shopping-adjusted-rating-label =
     .label = Ñeha’ãmby ha’etéva
 shopping-adjusted-rating-unreliable-reviews = Oñemboguéta marandu’i jerovia’ỹha
-shopping-adjusted-rating-based-reliable-reviews = Oiko hechajey jeroviahápe
 
 ## Strings for the review reliability component
 
@@ -136,8 +133,6 @@ shopping-analysis-explainer-learn-more2 = Eikuaave <a data-l10n-name="review-qua
 # websites, which will be inserted without being translated.
 #  $retailer (String) - capitalized name of the shopping website, for example, "Amazon".
 shopping-analysis-explainer-highlights-description = Umi <strong>momba’eguasupyre</strong> ou { $retailer } jehechajeýgui 80 ára ohasaramóvape roikuaáva ejeroviakuaaha.
-# Fallback for analysis highlights explainer if the retailer is ever unknown
-shopping-analysis-explainer-highlights-description-unknown-retailer = Umi <strong>mba’eguasúva</strong> ou jehechajey 80 ára ohasaramovévagui ikatúvare ejerovia.
 shopping-analysis-explainer-review-grading-scale-reliable = Hechajey jeroviaha. Roguerovia marandu’i ouha joguaháragui ohejáva umi marandu’i oñanduháicha ha ñaña’ỹre.
 shopping-analysis-explainer-review-grading-scale-mixed = Roikuaa oĩha marandu’i jeroviaha ha jerovia’ỹha.
 shopping-analysis-explainer-review-grading-scale-unreliable = Marandu’i jerovia’iveha. Roikuaa marandu’i ikatuha japu térã ou hechajeyhára iñañávagui.
@@ -164,7 +159,6 @@ shopping-unanalyzed-product-analyze-button = Ehechajey marandu’i porãngue
 
 more-to-consider-ad-label =
     .label = Ehecha emomba’e hag̃ua
-shopping-sponsored-label = Pytyvõpyréva
 ad-by-fakespot = { -fakespot-brand-name } moñemurã
 
 ## Shopping survey strings.
@@ -185,18 +179,6 @@ shopping-survey-submit-button-label = Emondo
 shopping-survey-terms-link = Jeporurã reko
 shopping-survey-thanks =
     .heading = ¡Aguyje nde jehaipyrére!
-
-## Shopping opted-out survey strings
-## Opt-out survey options are displayed as checkboxes and the user can select one or many.
-
-shopping-survey-opted-out-multiselect-label = Mba’érepiko eipe’a pe jehechajey rechaha. Eiporavokuaa hetaháicha eikotevẽramo.
-shopping-survey-thanks-title = ¡Aguyje ne remiandu rehe!
-shopping-survey-opted-out-hard-to-understand = Hasyeterei iñeikumby
-shopping-survey-opted-out-too-slow = Embegueterei
-shopping-survey-opted-out-not-accurate = Noĩporãi
-shopping-survey-opted-out-not-helpful = Ndoikói chéve g̃uarã
-shopping-survey-opted-out-check-myself = Ahechase chete marandu’ikuéra
-shopping-survey-opted-out-other = Ambue
 
 ## Shopping Feature Callout strings.
 ## "price tag" refers to the price tag icon displayed in the address bar to
@@ -250,59 +232,3 @@ shopping-onboarding-dialog-close-button =
 #   $total (Int) - Total number of pages
 shopping-onboarding-welcome-steps-indicator-label =
     .aria-label = Jeku’e: jeguata { $current } { $total } rehegua
-
-## Review Checker in Integrated sidebar
-
-# Opt-in message strings for Review Checker when it is integrated into the global sidebar.
-shopping-opt-in-integrated-headline = Ejogua jeroviápe
-
-## Messages for callout for users not opted into the sidebar integrated version of Review Checker.
-
-shopping-callout-opt-in-integrated-headline = ¿Ejeroviáta ko jehechajeypyrére?
-shopping-callout-not-opted-in-integrated-reminder-dismiss-button = Mboyke
-shopping-callout-not-opted-in-integrated-reminder-accept-button = Emyandy hechajey rechaha
-shopping-opt-in-integrated-privacy-policy-and-terms-of-use = Pe marandu’i rechajeyha oku’e { -fakespot-brand-full-name } ndive. Eiporavóvo “{ shopping-opt-in-integrated-button }“, emoneĩ <a data-l10n-name="privacy_policy">ñemigua marandu’i</a> { -brand-product-name } ha <a data-l10n-name="terms_of_use">jeporurã reko</a> { -fakespot-brand-name }-pegua.
-shopping-opt-in-integrated-button = Eiporu hechajey rechaha
-
-## Message strings for Review Checker's empty states.
-
-shopping-empty-state-header = Oĩma techajey rechaha
-shopping-empty-state-supported-site = Ehecha apopyry ha { -brand-product-name } oma’ẽjeýta umi jehechapyre ojegueroviápa.
-# We show a list of sites supported by Review Checker whenever a user opens the feature in an unsupported site.
-# This string will be displayed above the list of sites. The list will be hardcoded and does not require localization.
-shopping-empty-state-non-supported-site = Pe jehechajeyha rechaha oiko ejoguáramo pe:
-
-## Confirm disabling Review Checker for newly opted out users
-
-shopping-integrated-callout-opted-out-title = Marandu’i rechajeyha oñembogue
-shopping-integrated-callout-opted-out-subtitle = Emyandy jey hag̃ua, eiporavo tepykue tenda yképe ha emyandy pe temiandu rechajeyha.
-
-## Callout for where to find Review Checker when the sidebar closes
-
-shopping-integrated-callout-sidebar-closed-title = Ejevy jehechajey rechahápe
-shopping-integrated-callout-sidebar-closed-subtitle = Eiporavo pe tepykue tenda yképe ehecha hag̃ua ejeroviátapa pe apopyre je’epyrére.
-shopping-integrated-callout-no-logo-sidebar-closed-subtitle = Eiporavo pe votõ tenda ykepegua ehecha hag̃ua ejeroviátapa pe apopyre hechapyrére.
-
-## Strings for a notification card about Review Checker's new position in the sidebar.
-## The card will only appear for users that have the default sidebar position, which is on the left side for non RTL locales.
-## Review Checker in the sidebar is only available to US users at this time, so we can assume that the default position is on the left side.
-
-shopping-integrated-new-position-notification-title = Marandu’i rechajeyhaite, tendaite pyahu
-shopping-integrated-new-position-notification-move-right-button = Emongu’e akatúa gotyo
-shopping-integrated-new-position-notification-move-left-button = Emongu’e asu gotyo
-shopping-integrated-new-position-notification-dismiss-button = Aikũmby
-
-## Combined setting for auto-open and auto-close.
-
-shopping-settings-auto-open-and-close-toggle =
-    .label = Ijuruja ha oñemboty ijehegui marandu’i rechajeyha
-# Description text for regions where we support three sites. Sites are limited to Amazon, Walmart and Best Buy.
-# Variables:
-#   $firstSite (String) - The first shopping page name
-#   $secondSite (String) - The second shopping page name
-#   $thirdSite (String) - The third shopping page name
-shopping-settings-auto-open-and-close-description-three-sites = Embojuruja ehechávo apopyre { $firstSite }, { $secondSite }, ha { $thirdSite }-pe ha emboty esẽnguévo
-# Description text for regions where we support only one site (e.g. currently used in FR/DE with Amazon).
-# Variables:
-#   $currentSite (String) - The current shopping page name
-shopping-settings-auto-open-and-close-description-single-site = Embojuruja ema’ẽvo apopyre rehe { $currentSite } ha emboty esẽnguévo

@@ -4,8 +4,6 @@
 
 menu-view-genai-chat =
     .label = צ’אט בוט AI
-menu-view-review-checker =
-    .label = בודק הסקירות
 menu-view-contextual-password-manager =
     .label = ססמאות
 sidebar-options-menu-button =
@@ -120,8 +118,6 @@ sidebar-menu-bookmarks-label =
     .label = סימניות
 sidebar-menu-customize-label =
     .label = התאמה אישית של סרגל הצד
-sidebar-menu-review-checker-label =
-    .label = בודק הסקירות
 sidebar-menu-contextual-password-manager-label =
     .label = ססמאות
 

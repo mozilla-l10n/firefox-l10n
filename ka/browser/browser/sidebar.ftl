@@ -4,8 +4,6 @@
 
 menu-view-genai-chat =
     .label = AI-თანამოსაუბრე
-menu-view-review-checker =
-    .label = მიმოხილვის შემმოწმებელი
 menu-view-contextual-password-manager =
     .label = პაროლები
 sidebar-options-menu-button =
@@ -125,8 +123,6 @@ sidebar-menu-bookmarks-label =
     .label = სანიშნები
 sidebar-menu-customize-label =
     .label = გვერდითი ზოლის მორგება
-sidebar-menu-review-checker-label =
-    .label = მიმოხილვის შემმოწმებელი
 sidebar-menu-contextual-password-manager-label =
     .label = პაროლები
 

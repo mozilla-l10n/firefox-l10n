@@ -4,8 +4,6 @@
 
 menu-view-genai-chat =
     .label = AI-Chatbot
-menu-view-review-checker =
-    .label = Verificering af anmeldelser
 menu-view-contextual-password-manager =
     .label = Adgangskoder
 sidebar-options-menu-button =
@@ -125,8 +123,6 @@ sidebar-menu-bookmarks-label =
     .label = Bogmærker
 sidebar-menu-customize-label =
     .label = Tilpas sidepanel
-sidebar-menu-review-checker-label =
-    .label = Verificering af anmeldelser
 sidebar-menu-contextual-password-manager-label =
     .label = Adgangskoder
 

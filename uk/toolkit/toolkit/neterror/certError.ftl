@@ -21,9 +21,6 @@ cert-error-trust-symantec = Сертифікати, видані GeoTrust, Rapid
 # Variables:
 #   $hostname (string) - Hostname of the website with cert error.
 cert-error-trust-certificate-transparency = { -brand-short-name } не довіряє { $hostname }, оскільки не зміг довести його відповідність вимогам прозорості загальнодоступних сертифікатів.
-# Variables:
-#   $hostname (string) - Hostname of the website with cert error.
-cert-error-revoked = Вебсайти підтверджують свою справжність за допомогою сертифікатів. { -brand-short-name } не довіряє { $hostname }, оскільки він використовує сертифікат, який було відкликано.
 cert-error-untrusted-default = Сертифікат надійшов з неперевіреного джерела.
 # Variables:
 #   $hostname (string) - Hostname of the website with cert error.

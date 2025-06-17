@@ -115,7 +115,6 @@ shopping-settings-sidebar-enabled-state = El verificador de ressenyes està <str
 shopping-adjusted-rating-label =
     .label = Valoració ajustada
 shopping-adjusted-rating-unreliable-reviews = S’han eliminat les ressenyes poc fiables
-shopping-adjusted-rating-based-reliable-reviews = Basat en ressenyes fiables
 
 ## Strings for the review reliability component
 
@@ -134,8 +133,6 @@ shopping-analysis-explainer-learn-more2 = Més informació sobre <a data-l10n-na
 # websites, which will be inserted without being translated.
 #  $retailer (String) - capitalized name of the shopping website, for example, "Amazon".
 shopping-analysis-explainer-highlights-description = Els <strong>destacats</strong> provenen de ressenyes de { $retailer } dels darrers 80 dies que creiem que són fiables.
-# Fallback for analysis highlights explainer if the retailer is ever unknown
-shopping-analysis-explainer-highlights-description-unknown-retailer = Els <strong>destacats</strong> provenen de ressenyes dels darrers 80 dies que creiem que són fiables.
 shopping-analysis-explainer-review-grading-scale-reliable = Les ressenyes són fiables. Creiem que probablement són de clients reals honestos i no estan esbiaixades.
 shopping-analysis-explainer-review-grading-scale-mixed = Creiem que hi ha una barreja de ressenyes fiables i poc fiables.
 shopping-analysis-explainer-review-grading-scale-unreliable = Les ressenyes són poc fiables. Creiem que poden ser falses o esbiaixades.
@@ -182,10 +179,6 @@ shopping-survey-submit-button-label = Envia
 shopping-survey-terms-link = Condicions d'ús
 shopping-survey-thanks =
     .heading = Gràcies per la vostra opinió
-
-## Shopping opted-out survey strings
-## Opt-out survey options are displayed as checkboxes and the user can select one or many.
-
 
 ## Shopping Feature Callout strings.
 ## "price tag" refers to the price tag icon displayed in the address bar to
@@ -239,26 +232,3 @@ shopping-onboarding-dialog-close-button =
 #   $total (Int) - Total number of pages
 shopping-onboarding-welcome-steps-indicator-label =
     .aria-label = Progrés: pas { $current } de { $total }
-
-## Review Checker in Integrated sidebar
-
-
-## Messages for callout for users not opted into the sidebar integrated version of Review Checker.
-
-
-## Message strings for Review Checker's empty states.
-
-
-## Confirm disabling Review Checker for newly opted out users
-
-
-## Callout for where to find Review Checker when the sidebar closes
-
-
-## Strings for a notification card about Review Checker's new position in the sidebar.
-## The card will only appear for users that have the default sidebar position, which is on the left side for non RTL locales.
-## Review Checker in the sidebar is only available to US users at this time, so we can assume that the default position is on the left side.
-
-
-## Combined setting for auto-open and auto-close.
-

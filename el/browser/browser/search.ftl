@@ -64,13 +64,6 @@ add-engine-keyword2 = Λέξη-κλειδί (προαιρετικό)
 # POST and GET refer to the HTTP methods.
 add-engine-post-data = Δεδομένα POST με το «%s» στη θέση του όρου αναζήτησης (αφήστε το κενό για το GET)
 add-engine-suggest-url = URL προτάσεων με το «%s» στη θέση του όρου αναζήτησης (προαιρετικό)
-add-engine-keyword = Λέξη-κλειδί
-add-engine-url = URL μηχανής, χρησιμοποιήστε το %s αντί του όρου αναζήτησης
-add-engine-dialog =
-    .buttonlabelaccept = Προσθήκη μηχανής
-    .buttonaccesskeyaccept = A
-engine-name-exists = Υπάρχει ήδη μια μηχανή με το ίδιο όνομα
-engine-keyword-exists = Υπάρχει ήδη μια μηχανή με αυτήν τη λέξη-κλειδί
 
 ## The following placeholders are shown in the inputs when adding a new engine.
 

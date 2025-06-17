@@ -89,9 +89,6 @@ shopping-show-less-button = Daha az göster
 
 shopping-settings-label =
     .label = Ayarlar
-shopping-settings-recommendations-toggle2 =
-    .label = Önerileri ve sponsorlu içerikleri göster
-shopping-settings-recommendations-learn-more3 = { -brand-product-name } kişisel verilerinizi paylaşmaz, yani internette gezinirken bu öneriler bir daha karşınıza çıkmaz. <a data-l10n-name="review-quality-url">Daha fazla bilgi alın</a>
 shopping-settings-recommendations-toggle =
     .label = Değerlendirme kontrolcüsünde reklamları göster
 shopping-settings-recommendations-learn-more2 = Ara sıra ilginizi çekebilecek ürünlerin reklamlarını göreceksiniz. Yalnızca güvenilir değerlendirmelere sahip ürünlerin reklamını yapıyoruz. <a data-l10n-name="review-quality-url">Bilgi alın</a>
@@ -118,7 +115,6 @@ shopping-settings-sidebar-enabled-state = Değerlendirme kontrolcüsü <strong>a
 shopping-adjusted-rating-label =
     .label = Düzeltilmiş puan
 shopping-adjusted-rating-unreliable-reviews = Güvenilmez değerlendirmeler kaldırıldı
-shopping-adjusted-rating-based-reliable-reviews = Güvenilir değerlendirmelere dayanarak
 
 ## Strings for the review reliability component
 
@@ -137,8 +133,6 @@ shopping-analysis-explainer-learn-more2 = <a data-l10n-name="review-quality-url"
 # websites, which will be inserted without being translated.
 #  $retailer (String) - capitalized name of the shopping website, for example, "Amazon".
 shopping-analysis-explainer-highlights-description = <strong>Öne çıkanlar</strong> son 80 gün içindeki güvenilir olduğunu düşündüğümüz { $retailer } değerlendirmelerinden alınmıştır.
-# Fallback for analysis highlights explainer if the retailer is ever unknown
-shopping-analysis-explainer-highlights-description-unknown-retailer = <strong>Öne çıkanlar</strong> son 80 gün içindeki güvenilir olduğunu düşündüğümüz değerlendirmelerden alınmıştır.
 shopping-analysis-explainer-review-grading-scale-reliable = Güvenilir değerlendirmeler. Değerlendirmelerin büyük olasılıkla dürüst, tarafsız incelemeler yazan gerçek müşterilerden geldiğini düşünüyoruz.
 shopping-analysis-explainer-review-grading-scale-mixed = Güvenilir ve güvenilmez değerlendirmelerin bir karışımı olduğunu düşünüyoruz.
 shopping-analysis-explainer-review-grading-scale-unreliable = Güvenilmez değerlendirmeler. Değerlendirmelerin büyük ihtimalle sahte olduğunu veya önyargılı kişilerden geldiğini düşünüyoruz.
@@ -165,7 +159,6 @@ shopping-unanalyzed-product-analyze-button = Değerlendirme kalitesini kontrol e
 
 more-to-consider-ad-label =
     .label = İlginizi çekebilir
-shopping-sponsored-label = Sponsorlu
 ad-by-fakespot = { -fakespot-brand-name } reklamı
 
 ## Shopping survey strings.
@@ -186,18 +179,6 @@ shopping-survey-submit-button-label = Gönder
 shopping-survey-terms-link = Kullanım koşulları
 shopping-survey-thanks =
     .heading = Geri bildiriminiz için teşekkürler!
-
-## Shopping opted-out survey strings
-## Opt-out survey options are displayed as checkboxes and the user can select one or many.
-
-shopping-survey-opted-out-multiselect-label = Değerlendirme Kontrolcüsü’nü neden kapattığınızı bize söyler misiniz? İsterseniz birden çok seçim yapabilirsiniz.
-shopping-survey-thanks-title = Geri bildiriminiz için teşekkürler!
-shopping-survey-opted-out-hard-to-understand = Anlaması zor
-shopping-survey-opted-out-too-slow = Çok yavaş
-shopping-survey-opted-out-not-accurate = Bilgiler doğru değil
-shopping-survey-opted-out-not-helpful = Bana faydası yok
-shopping-survey-opted-out-check-myself = İncelemelere kendim bakmayı tercih ederim
-shopping-survey-opted-out-other = Diğer
 
 ## Shopping Feature Callout strings.
 ## "price tag" refers to the price tag icon displayed in the address bar to
@@ -251,76 +232,3 @@ shopping-onboarding-dialog-close-button =
 #   $total (Int) - Total number of pages
 shopping-onboarding-welcome-steps-indicator-label =
     .aria-label = İlerleme: adım { $current } / { $total }
-
-## Review Checker in Integrated sidebar
-
-# Opt-in message strings for Review Checker when it is integrated into the global sidebar.
-shopping-opt-in-integrated-headline = Güvenle alışveriş yapın
-# Description text for regions where we support three sites. Sites are limited to Amazon, Walmart and Best Buy.
-# Variables:
-#   $firstSite (String) - The first shopping page name
-#   $secondSite (String) - The second shopping page name
-#   $thirdSite (String) - The third shopping page name
-shopping-opt-in-integrated-subtitle = Satın almadan önce ürün yorumlarının ne kadar güvenilir olduğunu görmek için { -brand-product-name } Değerlendirme Kontrolcüsü’nü açabilirsiniz. Yorumlar yapay zekâ teknolojisiyle analiz edilir. { $firstSite }, { $secondSite } ve { $thirdSite } sitelerinde çalışır. <a data-l10n-name="learn_more">Daha fazla bilgi alın</a>
-# Description text for regions where we support three sites. Sites are limited to Amazon, Walmart and Best Buy.
-# Variables:
-#   $firstSite (String) - The first shopping page name
-#   $secondSite (String) - The second shopping page name
-#   $thirdSite (String) - The third shopping page name
-shopping-opt-in-integrated-subtitle-unsupported-site = { -brand-product-name } Değerlendirme Kontrolcüsü, satın almadan önce ürün yorumlarının ne kadar güvenilir olduğunu anlamanızı sağlar. Yorumlar yapay zekâ teknolojisiyle analiz edilir. { $firstSite }, { $secondSite } ve { $thirdSite } sitelerinde çalışır. <a data-l10n-name="learn_more">Daha fazla bilgi alın</a>
-
-## Messages for callout for users not opted into the sidebar integrated version of Review Checker.
-
-shopping-callout-opt-in-integrated-headline = Bu değerlendirmelere güvenebilir misiniz?
-# Appears underneath shopping-opt-in-integrated-headline to answer the question 'Can you trust these reviews?'
-shopping-callout-not-opted-in-integrated-paragraph1 = Öğrenmek için { -brand-product-name } Değerlendirme Kontrolcüsü’nü açın. { -fakespot-brand-full-name } altyapısını kullanır ve değerlendirmeleri yapay zekâ teknolojisiyle analiz eder.
-shopping-callout-not-opted-in-integrated-paragraph2 = “{ shopping-opt-in-integrated-button } seçeneğini seçtiğinizde { -brand-product-name } <a data-l10n-name="privacy_policy">gizlilik bildirimini</a> ve { -fakespot-brand-full-name } <a data-l10n-name="terms_of_use">kullanım koşullarını</a> kabul etmiş olursunuz.
-shopping-callout-not-opted-in-integrated-reminder-dismiss-button = Kapat
-shopping-callout-not-opted-in-integrated-reminder-accept-button = Değerlendirme kontrolcüsünü aç
-shopping-opt-in-integrated-privacy-policy-and-terms-of-use = Değerlendirme Kontrolcüsü { -fakespot-brand-full-name } altyapısını kullanır. “{ shopping-opt-in-integrated-button } seçeneğini seçtiğinizde { -brand-product-name } <a data-l10n-name="privacy_policy">gizlilik bildirimini</a> ve { -fakespot-brand-name } <a data-l10n-name="terms_of_use">kullanım koşullarını</a> kabul etmiş olursunuz.
-shopping-opt-in-integrated-button = Değerlendirme kontrolcüsünü deneyin
-
-## Message strings for Review Checker's empty states.
-
-shopping-empty-state-header = Değerlendirmeleri kontrol etmeye hazır
-shopping-empty-state-supported-site = Bir ürüne baktığınızda { -brand-product-name } değerlendirmelerin güvenilir olup olmadığını kontrol edecektir.
-# We show a list of sites supported by Review Checker whenever a user opens the feature in an unsupported site.
-# This string will be displayed above the list of sites. The list will be hardcoded and does not require localization.
-shopping-empty-state-non-supported-site = Değerlendirme kontrolcüsü aşağıdaki sitelerde çalışır:
-
-## Confirm disabling Review Checker for newly opted out users
-
-shopping-integrated-callout-opted-out-title = Değerlendirme kontrolcüsü kapalı
-shopping-integrated-callout-opted-out-subtitle = Yeniden etkinleştirmek isterseniz kenar çubuğundan fiyat etiketini seçip değerlendirme kontrolcüsünü açın.
-
-## Callout for where to find Review Checker when the sidebar closes
-
-shopping-integrated-callout-sidebar-closed-title = Değerlendirme kontrolcüsüne dön
-shopping-integrated-callout-sidebar-closed-subtitle = Bir ürünün değerlendirmelerine güvenip güvenemeyeceğinizi öğrenmek için kenar çubuğundaki fiyat etiketini seçin.
-shopping-integrated-callout-no-logo-sidebar-closed-subtitle = Bir ürünün değerlendirmelerine güvenip güvenemeyeceğinizi öğrenmek için kenar çubuğu düğmesini seçin.
-
-## Strings for a notification card about Review Checker's new position in the sidebar.
-## The card will only appear for users that have the default sidebar position, which is on the left side for non RTL locales.
-## Review Checker in the sidebar is only available to US users at this time, so we can assume that the default position is on the left side.
-
-shopping-integrated-new-position-notification-title = Değerlendirme kontrolcüsü yeni yerinde
-shopping-integrated-new-position-notification-move-right-subtitle = Değerlendirme Kontrolcüsü ve diğer { -brand-product-name } kenar çubuğu öğelerini burada tutabilir veya sağa taşıyabilirsiniz. <a data-l10n-name="sidebar_settings">Kenar çubuğu ayarlarından</a> istediğiniz zaman tercihinizi değiştirebilirsiniz.
-shopping-integrated-new-position-notification-move-left-subtitle = Değerlendirme Kontrolcüsü ve diğer { -brand-product-name } kenar çubuğu öğelerini burada tutabilir veya sola taşıyabilirsiniz. <a data-l10n-name="sidebar_settings">Kenar çubuğu ayarlarından</a> istediğiniz zaman tercihinizi değiştirebilirsiniz.
-shopping-integrated-new-position-notification-move-right-button = Sağa taşı
-shopping-integrated-new-position-notification-move-left-button = Sola taşı
-shopping-integrated-new-position-notification-dismiss-button = Anladım
-
-## Combined setting for auto-open and auto-close.
-
-shopping-settings-auto-open-and-close-toggle =
-    .label = Değerlendirme kontrolcüsünü otomatik olarak aç ve kapat
-# Description text for regions where we support three sites. Sites are limited to Amazon, Walmart and Best Buy.
-# Variables:
-#   $firstSite (String) - The first shopping page name
-#   $secondSite (String) - The second shopping page name
-#   $thirdSite (String) - The third shopping page name
-shopping-settings-auto-open-and-close-description-three-sites = { $firstSite }, { $secondSite } ve { $thirdSite } sitelerindeki ürünleri görüntülediğinizde açılır ve sitelerden çıktığınızda kapanır
-# Description text for regions where we support only one site (e.g. currently used in FR/DE with Amazon).
-# Variables:
-#   $currentSite (String) - The current shopping page name
-shopping-settings-auto-open-and-close-description-single-site = { $currentSite } sitesindeki ürünlere baktığınızda açılır, siteden çıktığınızda kapanır

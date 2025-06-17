@@ -64,13 +64,6 @@ add-engine-keyword2 = Sökord (valfritt)
 # POST and GET refer to the HTTP methods.
 add-engine-post-data = POST-data med %s istället för sökord (lämna tomt i GET)
 add-engine-suggest-url = Förslags-URL med %s istället för sökterm (valfritt)
-add-engine-keyword = Nyckelord
-add-engine-url = Sökmotorns URL, använd %s istället för söktermen
-add-engine-dialog =
-    .buttonlabelaccept = Lägg till sökmotor
-    .buttonaccesskeyaccept = L
-engine-name-exists = En sökmotor med det namnet finns redan
-engine-keyword-exists = En sökmotor med det nyckelordet finns redan
 
 ## The following placeholders are shown in the inputs when adding a new engine.
 

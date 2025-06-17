@@ -21,9 +21,6 @@ cert-error-trust-symantec = GeoTrust나 RapidSSL, Symantec, Thawte, VeriSign이 
 # Variables:
 #   $hostname (string) - Hostname of the website with cert error.
 cert-error-trust-certificate-transparency = { -brand-short-name }는 { $hostname } 사이트가 공공 인증서 투명성 요구사항을 충족한다는 것을 증명할 수 없기 때문에 신뢰하지 않습니다.
-# Variables:
-#   $hostname (string) - Hostname of the website with cert error.
-cert-error-revoked = 웹 사이트는 인증서로 신원을 증명합니다. { -brand-short-name }는 폐기된 인증서를 사용하고 있는 { $hostname }를 신뢰하지 않습니다.
 cert-error-untrusted-default = 신뢰할 수 있는 출처의 인증서가 아닙니다.
 # Variables:
 #   $hostname (string) - Hostname of the website with cert error.

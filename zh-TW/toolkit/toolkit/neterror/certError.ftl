@@ -21,9 +21,6 @@ cert-error-trust-symantec = 由於憑證簽發組織過去未遵循安全的運�
 # Variables:
 #   $hostname (string) - Hostname of the website with cert error.
 cert-error-trust-certificate-transparency = 由於 { $hostname } 提供的憑證不符合公開憑證透明度要求，{ -brand-short-name } 無法信任該網域。
-# Variables:
-#   $hostname (string) - Hostname of the website with cert error.
-cert-error-revoked = 網站會透過憑證來證明自己的身分。因為伺服器送出已廢止的憑證，{ -brand-short-name } 無法信任 { $hostname }。
 cert-error-untrusted-default = 憑證不是來自受信任的來源。
 # Variables:
 #   $hostname (string) - Hostname of the website with cert error.

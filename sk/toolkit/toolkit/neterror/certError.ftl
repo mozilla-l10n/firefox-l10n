@@ -21,9 +21,6 @@ cert-error-trust-symantec = Kvôli bezpečnostným previneniam spoločností Geo
 # Variables:
 #   $hostname (string) - Hostname of the website with cert error.
 cert-error-trust-certificate-transparency = { -brand-short-name } nedôveruje serveru { $hostname }, pretože nevie dokázať, že spĺňa požiadavky na transparentnosť verejných certifikátov.
-# Variables:
-#   $hostname (string) - Hostname of the website with cert error.
-cert-error-revoked = Webové stránky preukazujú svoju identitu prostredníctvom certifikátov. { -brand-short-name } nedôveruje serveru { $hostname }, pretože používa certifikát, ktorý bol odvolaný.
 cert-error-untrusted-default = Certifikát nepochádza z dôveryhodného zdroja.
 # Variables:
 #   $hostname (string) - Hostname of the website with cert error.

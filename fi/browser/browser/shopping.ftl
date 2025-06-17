@@ -89,9 +89,6 @@ shopping-show-less-button = Näytä vähemmän
 
 shopping-settings-label =
     .label = Asetukset
-shopping-settings-recommendations-toggle2 =
-    .label = Näytä suosituksia ja sponsoroitua sisältöä
-shopping-settings-recommendations-learn-more3 = { -brand-product-name } ei jaa henkilökohtaisia tietojasi, joten nämä suositukset eivät seuraa sinua Internetissä. <a data-l10n-name="review-quality-url">Lisätietoja</a>
 shopping-settings-recommendations-toggle =
     .label = Näytä mainoksia arvostelujen tarkistimessa
 shopping-settings-opt-out-button = Poista arvostelujen tarkistus käytöstä
@@ -117,7 +114,6 @@ shopping-settings-sidebar-enabled-state = Arvostelujen tarkistus on <strong>pä�
 shopping-adjusted-rating-label =
     .label = Oikaistu arvosana
 shopping-adjusted-rating-unreliable-reviews = Epäluotettavat arvostelut poistettu
-shopping-adjusted-rating-based-reliable-reviews = Luotettavien arvostelujen pohjalta
 
 ## Strings for the review reliability component
 
@@ -162,7 +158,6 @@ shopping-unanalyzed-product-analyze-button = Tarkista arvostelun laatu
 
 more-to-consider-ad-label =
     .label = Lisää harkittavaa
-shopping-sponsored-label = Sponsoroitu
 ad-by-fakespot = Mainostaja { -fakespot-brand-name }
 
 ## Shopping survey strings.
@@ -183,18 +178,6 @@ shopping-survey-submit-button-label = Lähetä
 shopping-survey-terms-link = Käyttöehdot
 shopping-survey-thanks =
     .heading = Kiitos palautteestasi!
-
-## Shopping opted-out survey strings
-## Opt-out survey options are displayed as checkboxes and the user can select one or many.
-
-shopping-survey-opted-out-multiselect-label = Kerro meille, miksi poistit arvostelujen tarkistuksen käytöstä. Valitse tarvittaessa useita syitä.
-shopping-survey-thanks-title = Kiitos palautteestasi!
-shopping-survey-opted-out-hard-to-understand = Sitä on vaikea ymmärtää
-shopping-survey-opted-out-too-slow = Se on liian hidas
-shopping-survey-opted-out-not-accurate = Se ei ole tarkka
-shopping-survey-opted-out-not-helpful = Siitä ei ole minulle hyötyä
-shopping-survey-opted-out-check-myself = Tarkistan arvostelut mieluummin itse
-shopping-survey-opted-out-other = Muu
 
 ## Shopping Feature Callout strings.
 ## "price tag" refers to the price tag icon displayed in the address bar to
@@ -235,54 +218,3 @@ shopping-onboarding-dialog-close-button =
 #   $total (Int) - Total number of pages
 shopping-onboarding-welcome-steps-indicator-label =
     .aria-label = Edistyminen: vaihe { $current }/{ $total }
-
-## Review Checker in Integrated sidebar
-
-# Opt-in message strings for Review Checker when it is integrated into the global sidebar.
-shopping-opt-in-integrated-headline = Tee ostoksia luottavaisin mielin
-
-## Messages for callout for users not opted into the sidebar integrated version of Review Checker.
-
-shopping-callout-opt-in-integrated-headline = Voitko luottaa näihin arvosteluihin?
-shopping-callout-not-opted-in-integrated-reminder-dismiss-button = Hylkää
-shopping-callout-not-opted-in-integrated-reminder-accept-button = Ota arvostelujen tarkistus käyttöön
-shopping-opt-in-integrated-button = Kokeile arvostelujen tarkistusta
-
-## Message strings for Review Checker's empty states.
-
-shopping-empty-state-header = Valmiina tarkistamaan arvostelut
-shopping-empty-state-supported-site = Katso tuotetta ja { -brand-product-name } tarkistaa, ovatko arvostelut luotettavia.
-# We show a list of sites supported by Review Checker whenever a user opens the feature in an unsupported site.
-# This string will be displayed above the list of sites. The list will be hardcoded and does not require localization.
-shopping-empty-state-non-supported-site = Arvostelujen tarkistus toimii, kun teet ostoksia:
-
-## Confirm disabling Review Checker for newly opted out users
-
-shopping-integrated-callout-opted-out-title = Arvostelujen tarkistus on pois päältä
-
-## Callout for where to find Review Checker when the sidebar closes
-
-
-## Strings for a notification card about Review Checker's new position in the sidebar.
-## The card will only appear for users that have the default sidebar position, which is on the left side for non RTL locales.
-## Review Checker in the sidebar is only available to US users at this time, so we can assume that the default position is on the left side.
-
-shopping-integrated-new-position-notification-title = Sama arvostelujen tarkistus, uusi paikka
-shopping-integrated-new-position-notification-move-right-button = Siirrä oikealle
-shopping-integrated-new-position-notification-move-left-button = Siirrä vasemmalle
-shopping-integrated-new-position-notification-dismiss-button = Selvä
-
-## Combined setting for auto-open and auto-close.
-
-shopping-settings-auto-open-and-close-toggle =
-    .label = Avaa ja sulje arvostelujen tarkistus automaattisesti
-# Description text for regions where we support three sites. Sites are limited to Amazon, Walmart and Best Buy.
-# Variables:
-#   $firstSite (String) - The first shopping page name
-#   $secondSite (String) - The second shopping page name
-#   $thirdSite (String) - The third shopping page name
-shopping-settings-auto-open-and-close-description-three-sites = Avautuu, kun tarkastelet tuotteita sivustoilla { $firstSite }, { $secondSite } ja { $thirdSite }, ja sulkeutuu sivustoilta poistuessasi
-# Description text for regions where we support only one site (e.g. currently used in FR/DE with Amazon).
-# Variables:
-#   $currentSite (String) - The current shopping page name
-shopping-settings-auto-open-and-close-description-single-site = Avautuu, kun tarkastelet tuotteita sivustolla { $currentSite }, ja sulkeutuu, kun poistut sivustolta

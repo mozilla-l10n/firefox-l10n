@@ -64,13 +64,6 @@ add-engine-keyword2 = Palavra-chave (opcional)
 # POST and GET refer to the HTTP methods.
 add-engine-post-data = Dados POST com %s no lugar do termo de pesquisa (deixe vazio para GET)
 add-engine-suggest-url = URL de sugestões com %s no lugar do termo de pesquisa (opcional)
-add-engine-keyword = Atalho
-add-engine-url = URL do mecanismo, use %s no lugar do termo de pesquisa
-add-engine-dialog =
-    .buttonlabelaccept = Adicionar mecanismo
-    .buttonaccesskeyaccept = A
-engine-name-exists = Já existe um mecanismo com este nome
-engine-keyword-exists = Já existe um mecanismo com este atalho
 
 ## The following placeholders are shown in the inputs when adding a new engine.
 

@@ -4,8 +4,6 @@
 
 menu-view-genai-chat =
     .label = AI-chatbot
-menu-view-review-checker =
-    .label = Beoordelingscontrole
 menu-view-contextual-password-manager =
     .label = Wachtwoorden
 sidebar-options-menu-button =
@@ -125,8 +123,6 @@ sidebar-menu-bookmarks-label =
     .label = Bladwijzers
 sidebar-menu-customize-label =
     .label = Zijbalk aanpassen
-sidebar-menu-review-checker-label =
-    .label = Beoordelingscontrole
 sidebar-menu-contextual-password-manager-label =
     .label = Wachtwoorden
 

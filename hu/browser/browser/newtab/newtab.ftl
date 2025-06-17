@@ -119,7 +119,6 @@ newtab-menu-show-privacy-info = Támogatóink és az Ön adatvédelme
 newtab-menu-about-fakespot = A { -fakespot-brand-name } névjegye
 # Report is a verb (i.e. report issue with the content).
 newtab-menu-report = Jelentés
-newtab-menu-report-content = Tartalom jelentése
 # Context menu option to personalize New Tab recommended stories by blocking a section of stories,
 # e.g. "Sports". "Block" is a verb here.
 newtab-menu-section-block = Tiltás

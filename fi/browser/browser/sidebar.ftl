@@ -4,8 +4,6 @@
 
 menu-view-genai-chat =
     .label = AI-chatbotti
-menu-view-review-checker =
-    .label = Arvostelujen tarkistin
 menu-view-contextual-password-manager =
     .label = Salasanat
 sidebar-options-menu-button =
@@ -125,8 +123,6 @@ sidebar-menu-bookmarks-label =
     .label = Kirjanmerkit
 sidebar-menu-customize-label =
     .label = Muokkaa sivupalkkia
-sidebar-menu-review-checker-label =
-    .label = Arvostelujen tarkistin
 sidebar-menu-contextual-password-manager-label =
     .label = Salasanat
 

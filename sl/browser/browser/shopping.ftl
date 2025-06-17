@@ -89,9 +89,6 @@ shopping-show-less-button = Prikaži manj
 
 shopping-settings-label =
     .label = Nastavitve
-shopping-settings-recommendations-toggle2 =
-    .label = Prikazuj priporočila in sponzorirano vsebino
-shopping-settings-recommendations-learn-more3 = { -brand-product-name } ne deli vaših osebnih podatkov, zato vam ta priporočila ne bodo sledila po internetu. <a data-l10n-name="review-quality-url">Več o tem</a>
 shopping-settings-recommendations-toggle =
     .label = Prikaži oglase v pregledovalniku mnenj
 shopping-settings-recommendations-learn-more2 = Občasno boste videli oglase za primerne izdelke. Oglašujemo samo izdelke z zanesljivimi ocenami. <a data-l10n-name="review-quality-url">Več o tem</a>
@@ -118,7 +115,6 @@ shopping-settings-sidebar-enabled-state = Pregledovalnik mnenj je <strong>vklju�
 shopping-adjusted-rating-label =
     .label = Prilagojena ocena
 shopping-adjusted-rating-unreliable-reviews = Nezanesljiva mnenja odstranjena
-shopping-adjusted-rating-based-reliable-reviews = Temelji na zanesljivih mnenjih
 
 ## Strings for the review reliability component
 
@@ -137,8 +133,6 @@ shopping-analysis-explainer-learn-more2 = Spoznajte več o tem, <a data-l10n-nam
 # websites, which will be inserted without being translated.
 #  $retailer (String) - capitalized name of the shopping website, for example, "Amazon".
 shopping-analysis-explainer-highlights-description = <strong>Poudarki</strong> so vzeti iz mnenj v trgovini { $retailer } v zadnjih 80 dneh, za katera menimo, da so zanesljiva.
-# Fallback for analysis highlights explainer if the retailer is ever unknown
-shopping-analysis-explainer-highlights-description-unknown-retailer = <strong>Poudarki</strong> so vzeti iz mnenj v zadnjih 80 dneh, za katera menimo, da so zanesljiva.
 shopping-analysis-explainer-review-grading-scale-reliable = Zanesljiva mnenja. Verjamemo, da so jih napisale resnične stranke, ki so pustile poštene in nepristranske ocene.
 shopping-analysis-explainer-review-grading-scale-mixed = Menimo, da obstaja mešanica zanesljivih in nezanesljivih mnenj.
 shopping-analysis-explainer-review-grading-scale-unreliable = Nezanesljiva mnenja. Menimo, da so verjetno lažna ali pa so jih napisali pristranski ocenjevalci.
@@ -165,7 +159,6 @@ shopping-unanalyzed-product-analyze-button = Preveri kakovost mnenj
 
 more-to-consider-ad-label =
     .label = Več za razmislek
-shopping-sponsored-label = Sponzorirano
 ad-by-fakespot = Oglas { -fakespot-brand-name }a
 
 ## Shopping survey strings.
@@ -186,18 +179,6 @@ shopping-survey-submit-button-label = Pošlji
 shopping-survey-terms-link = Pogoji uporabe
 shopping-survey-thanks =
     .heading = Hvala za vaš komentar!
-
-## Shopping opted-out survey strings
-## Opt-out survey options are displayed as checkboxes and the user can select one or many.
-
-shopping-survey-opted-out-multiselect-label = Prosimo, sporočite nam, zakaj ste izklopili pregledovalnik mnenj. Če želite, lahko izberete več kot en odgovor.
-shopping-survey-thanks-title = Hvala za vaše mnenje!
-shopping-survey-opted-out-hard-to-understand = Težko ga je razumeti
-shopping-survey-opted-out-too-slow = Je prepočasen
-shopping-survey-opted-out-not-accurate = Ne daje točnih rezultatov
-shopping-survey-opted-out-not-helpful = Ni mi v pomoč
-shopping-survey-opted-out-check-myself = Ocene raje preverjam sam/-a
-shopping-survey-opted-out-other = Drugo
 
 ## Shopping Feature Callout strings.
 ## "price tag" refers to the price tag icon displayed in the address bar to
@@ -251,76 +232,3 @@ shopping-onboarding-dialog-close-button =
 #   $total (Int) - Total number of pages
 shopping-onboarding-welcome-steps-indicator-label =
     .aria-label = Napredek: korak { $current } od { $total }
-
-## Review Checker in Integrated sidebar
-
-# Opt-in message strings for Review Checker when it is integrated into the global sidebar.
-shopping-opt-in-integrated-headline = Nakupujte z zaupanjem
-# Description text for regions where we support three sites. Sites are limited to Amazon, Walmart and Best Buy.
-# Variables:
-#   $firstSite (String) - The first shopping page name
-#   $secondSite (String) - The second shopping page name
-#   $thirdSite (String) - The third shopping page name
-shopping-opt-in-integrated-subtitle = Vključite pregledovalnik mnenj v { -brand-product-name(sklon: "mestnik") } in pred nakupom preverite, kako zanesljiva so mnenja o izdelkih. Za analizo mnenj uporablja tehnologijo umetne inteligence in deluje, ko nakupujete v trgovinah { $firstSite }, { $secondSite } in { $thirdSite }. <a data-l10n-name="learn_more">Več o tem</a>
-# Description text for regions where we support three sites. Sites are limited to Amazon, Walmart and Best Buy.
-# Variables:
-#   $firstSite (String) - The first shopping page name
-#   $secondSite (String) - The second shopping page name
-#   $thirdSite (String) - The third shopping page name
-shopping-opt-in-integrated-subtitle-unsupported-site = Pregledovalnik mnenj v { -brand-product-name(sklon: "mestnik") } vam pomaga pred nakupom preveriti, kako zanesljiva so mnenja o izdelkih. Za analizo mnenj uporablja tehnologijo umetne inteligence in deluje, ko nakupujete v trgovinah { $firstSite }, { $secondSite } in { $thirdSite }. <a data-l10n-name="learn_more">Več o tem</a>
-
-## Messages for callout for users not opted into the sidebar integrated version of Review Checker.
-
-shopping-callout-opt-in-integrated-headline = Lahko zaupate tem mnenjem?
-# Appears underneath shopping-opt-in-integrated-headline to answer the question 'Can you trust these reviews?'
-shopping-callout-not-opted-in-integrated-paragraph1 = Vključite pregledovalnik mnenj za { -brand-product-name } in ugotovite. Poganja ga { -fakespot-brand-full-name } in za analizo mnenj uporablja tehnologijo umetne inteligence.
-shopping-callout-not-opted-in-integrated-paragraph2 = Z izbiro “{ shopping-opt-in-integrated-button }“ se strinjate z <a data-l10n-name="privacy_policy">obvestilom o zasebnosti { -brand-product-name(sklon: "rodilnik") }</a> in <a data-l10n-name="terms_of_use">pogoji uporabe { -fakespot-brand-full-name(sklon: "rodilnik") }</a>.
-shopping-callout-not-opted-in-integrated-reminder-dismiss-button = Zapri
-shopping-callout-not-opted-in-integrated-reminder-accept-button = Vklopi pregledovalnik mnenj
-shopping-opt-in-integrated-privacy-policy-and-terms-of-use = Pregledovalnik mnenj poganja { -fakespot-brand-full-name }. Z izbiro “{ shopping-opt-in-integrated-button }“ se strinjate z <a data-l10n-name="privacy_policy">obvestilom o zasebnosti { -brand-product-name(sklon: "rodilnik") }</a> in <a data-l10n-name="terms_of_use">pogoji uporabe { -fakespot-brand-name(sklon: "rodilnik") }</a>.
-shopping-opt-in-integrated-button = Preizkusite pregledovalnik mnenj
-
-## Message strings for Review Checker's empty states.
-
-shopping-empty-state-header = Pripravljen na pregled mnenj
-shopping-empty-state-supported-site = Oglejte si izdelek in { -brand-product-name } bo preveril, ali so mnenja zanesljiva.
-# We show a list of sites supported by Review Checker whenever a user opens the feature in an unsupported site.
-# This string will be displayed above the list of sites. The list will be hardcoded and does not require localization.
-shopping-empty-state-non-supported-site = Pregledovalnik mnenj deluje, ko nakupujete v naslednjih trgovinah:
-
-## Confirm disabling Review Checker for newly opted out users
-
-shopping-integrated-callout-opted-out-title = Pregledovalnik mnenj je izključen
-shopping-integrated-callout-opted-out-subtitle = Če ga želite znova vklopiti, v stranski vrstici izberite listek s ceno in vklopite pregledovalnik mnenj.
-
-## Callout for where to find Review Checker when the sidebar closes
-
-shopping-integrated-callout-sidebar-closed-title = Nazaj na pregledovalnik mnenj
-shopping-integrated-callout-sidebar-closed-subtitle = Izberite listek s ceno v stranski vrstici in preverite, ali lahko zaupate mnenjem o izdelku.
-shopping-integrated-callout-no-logo-sidebar-closed-subtitle = Izberite gumb v stranski vrstici in preverite, ali lahko zaupate mnenjem o izdelku.
-
-## Strings for a notification card about Review Checker's new position in the sidebar.
-## The card will only appear for users that have the default sidebar position, which is on the left side for non RTL locales.
-## Review Checker in the sidebar is only available to US users at this time, so we can assume that the default position is on the left side.
-
-shopping-integrated-new-position-notification-title = Isti pregledovalnik mnenj, novo mesto
-shopping-integrated-new-position-notification-move-right-subtitle = Pregledovalnik mnenj in preostalo vsebino stranske vrstice { -brand-product-name(sklon: "rodilnik") } lahko obdržite tukaj ali premaknete na desno. Preklopite zdaj ali kadarkoli pozneje v <a data-l10n-name="sidebar_settings">nastavitvah stranske vrstice</a>.
-shopping-integrated-new-position-notification-move-left-subtitle = Pregledovalnik mnenj in preostalo vsebino stranske vrstice { -brand-product-name(sklon: "rodilnik") } lahko obdržite tukaj ali premaknete na levo. Preklopite zdaj ali kadarkoli pozneje v <a data-l10n-name="sidebar_settings">nastavitvah stranske vrstice</a>.
-shopping-integrated-new-position-notification-move-right-button = Premakni desno
-shopping-integrated-new-position-notification-move-left-button = Premakni levo
-shopping-integrated-new-position-notification-dismiss-button = Razumem
-
-## Combined setting for auto-open and auto-close.
-
-shopping-settings-auto-open-and-close-toggle =
-    .label = Samodejno odpri in zapri pregledovalnik mnenj
-# Description text for regions where we support three sites. Sites are limited to Amazon, Walmart and Best Buy.
-# Variables:
-#   $firstSite (String) - The first shopping page name
-#   $secondSite (String) - The second shopping page name
-#   $thirdSite (String) - The third shopping page name
-shopping-settings-auto-open-and-close-description-three-sites = Odpre se ob ogledu izdelkov v trgovinah { $firstSite }, { $secondSite } ter { $thirdSite } in se zapre, ko jih zapustite
-# Description text for regions where we support only one site (e.g. currently used in FR/DE with Amazon).
-# Variables:
-#   $currentSite (String) - The current shopping page name
-shopping-settings-auto-open-and-close-description-single-site = Odpre se ob ogledu izdelkov na strani { $currentSite } in se zapre, ko jih zapustite

@@ -64,13 +64,6 @@ add-engine-keyword2 = Từ khoá (không bắt buộc)
 # POST and GET refer to the HTTP methods.
 add-engine-post-data = Dữ liệu POST với %s thay cho từ khóa tìm kiếm (để trống nếu là GET)
 add-engine-suggest-url = URL lấy đề xuất với %s thay cho từ khoá tìm kiếm (không bắt buộc)
-add-engine-keyword = Từ khóa
-add-engine-url = URL công cụ, sử dụng %s thay cho cụm từ tìm kiếm
-add-engine-dialog =
-    .buttonlabelaccept = Thêm công cụ tìm kiếm
-    .buttonaccesskeyaccept = A
-engine-name-exists = Một công cụ có tên đó đã tồn tại
-engine-keyword-exists = Một công cụ có từ khóa đó đã tồn tại
 
 ## The following placeholders are shown in the inputs when adding a new engine.
 

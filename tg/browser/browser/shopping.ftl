@@ -89,9 +89,6 @@ shopping-show-less-button = Камтар нишон диҳед
 
 shopping-settings-label =
     .label = Танзимот
-shopping-settings-recommendations-toggle2 =
-    .label = Намоиш додани тавсияҳо ва муҳтавои сарпарастӣ
-shopping-settings-recommendations-learn-more3 = «{ -brand-product-name }» маълумоти шахсии шуморо мубодила намекунад, аз ин рӯ ин тавсияҳо шуморо дар саросари Интернет пайгирӣ намекунанд. <a data-l10n-name="review-quality-url">Маълумоти бештар</a>
 shopping-settings-recommendations-toggle =
     .label = Намоиш додани реклама дар абзори тафтиши тақризҳо
 shopping-settings-recommendations-learn-more2 = Баъзе вақт шумо рекламаи тасодуфиро барои маҳсулоти дахлдор мебинед. Мо танҳо он маҳсулотеро таблиғ мекунем, ки дорои тақризҳои боэътимод мебошад. <a data-l10n-name="review-quality-url">Маълумоти бештар</a>
@@ -118,7 +115,6 @@ shopping-settings-sidebar-enabled-state = Абзори тафтиши тақри
 shopping-adjusted-rating-label =
     .label = Баҳодиҳии санҷида дурустшуда
 shopping-adjusted-rating-unreliable-reviews = Тақризҳои беэътимод тоза карда шудаанд
-shopping-adjusted-rating-based-reliable-reviews = Дар асоси тақризҳои беэътимод
 
 ## Strings for the review reliability component
 
@@ -137,8 +133,6 @@ shopping-analysis-explainer-learn-more2 = Маълумоти бештар гир
 # websites, which will be inserted without being translated.
 #  $retailer (String) - capitalized name of the shopping website, for example, "Amazon".
 shopping-analysis-explainer-highlights-description = <strong>Нуқтаҳои асосӣ</strong> аз тақризҳои «{ $retailer }» ба хулоса омаданд, ки дар давоми 80 рӯзи охир ҷамъ карда шудаанд ва онҳо ба умеди мо боэътимод мебошанд.
-# Fallback for analysis highlights explainer if the retailer is ever unknown
-shopping-analysis-explainer-highlights-description-unknown-retailer = <strong>Нуқтаҳои асосӣ</strong> аз тақризҳо ба хулоса омаданд, ки дар давоми 80 рӯзи охир ҷамъ карда шудаанд ва онҳо ба умеди мо боэътимод мебошанд.
 shopping-analysis-explainer-review-grading-scale-reliable = Тақризҳои боэътимод. Мо боварӣ дорем, ки тақризҳо аз муштариёни ҳақиқӣ ба таври ростқавл ва беғаразона пешниҳод карда шудаанд.
 shopping-analysis-explainer-review-grading-scale-mixed = Мо боварӣ дорем, ки ҳозир будани маҷмӯи тақризҳои боэътимод ва беэътимод имконпазир аст.
 shopping-analysis-explainer-review-grading-scale-unreliable = Тақризҳои беэътимод. Мо боварӣ дорем, ки чунин тақризҳо аз тақризгарони қалбақӣ ва боғараз ворид карда шудаанд.
@@ -165,7 +159,6 @@ shopping-unanalyzed-product-analyze-button = Ҷанҷиши сифати тақ�
 
 more-to-consider-ad-label =
     .label = Боз чӣ бояд ба назар гирифта шавад
-shopping-sponsored-label = Сарпарастӣ
 ad-by-fakespot = Реклама аз ҷониби «{ -fakespot-brand-name }»
 
 ## Shopping survey strings.
@@ -186,18 +179,6 @@ shopping-survey-submit-button-label = Пешниҳод кардан
 shopping-survey-terms-link = Шартҳои истифода
 shopping-survey-thanks =
     .heading = Ташаккур барои изҳори назари шумо!
-
-## Shopping opted-out survey strings
-## Opt-out survey options are displayed as checkboxes and the user can select one or many.
-
-shopping-survey-opted-out-multiselect-label = Лутфан, ба мо маълумот диҳед, ки чаро шумо «Абзори тафтиши тақризҳо»-ро хомӯш кардед. Агар лозим бошад, якҷанд ҷавобро интихоб намоед.
-shopping-survey-thanks-title = Ташаккур барои изҳори назари шумо!
-shopping-survey-opted-out-hard-to-understand = Ин душворфаҳм аст
-shopping-survey-opted-out-too-slow = Ин хеле суст аст
-shopping-survey-opted-out-not-accurate = Ин дақиқ нест
-shopping-survey-opted-out-not-helpful = Ин ба ман муфид нест
-shopping-survey-opted-out-check-myself = Беҳтар, агар ман тақризҳоро худам тафтиш кунам
-shopping-survey-opted-out-other = Дигар
 
 ## Shopping Feature Callout strings.
 ## "price tag" refers to the price tag icon displayed in the address bar to
@@ -251,76 +232,3 @@ shopping-onboarding-dialog-close-button =
 #   $total (Int) - Total number of pages
 shopping-onboarding-welcome-steps-indicator-label =
     .aria-label = Пешравӣ: қадами { $current } аз { $total }
-
-## Review Checker in Integrated sidebar
-
-# Opt-in message strings for Review Checker when it is integrated into the global sidebar.
-shopping-opt-in-integrated-headline = Бо эътимод харид кунед
-# Description text for regions where we support three sites. Sites are limited to Amazon, Walmart and Best Buy.
-# Variables:
-#   $firstSite (String) - The first shopping page name
-#   $secondSite (String) - The second shopping page name
-#   $thirdSite (String) - The third shopping page name
-shopping-opt-in-integrated-subtitle = Абзори тафтиши тақризҳоро аз ҷониби «{ -brand-product-name }» фаъол созед ва пеш аз хариди маҳсул, аз назар гузаронед, ки то чӣ андоза тақризҳо дар бораи ин маҳсул боэътимод мебошанд. Ин абзор барои таҳлил кардани тақризҳо аз технологияи зеҳни сунъӣ (AI) истифода мебарад ва вақте ки шумо дар сомонаҳои { $firstSite }, { $secondSite }, ва { $thirdSite } харидорӣ мекунед, он фаъол карда мешавад. <a data-l10n-name="learn_more">Маълумоти бештар</a>
-# Description text for regions where we support three sites. Sites are limited to Amazon, Walmart and Best Buy.
-# Variables:
-#   $firstSite (String) - The first shopping page name
-#   $secondSite (String) - The second shopping page name
-#   $thirdSite (String) - The third shopping page name
-shopping-opt-in-integrated-subtitle-unsupported-site = Абзори тафтиши тақризҳо аз ҷониби «{ -brand-product-name }» ба шумо ёрӣ медиҳад, то тавонед пеш аз хариди маҳсул, аз назар гузаронед, ки то чӣ андоза тақризҳо дар бораи ин маҳсул боэътимод мебошанд. Ин абзор барои таҳлил кардани тақризҳо аз технологияи зеҳни сунъӣ (AI) истифода мебарад ва вақте ки шумо дар сомонаҳои { $firstSite }, { $secondSite }, ва { $thirdSite } харидорӣ мекунед, он фаъол карда мешавад. <a data-l10n-name="learn_more">Маълумоти бештар</a>
-
-## Messages for callout for users not opted into the sidebar integrated version of Review Checker.
-
-shopping-callout-opt-in-integrated-headline = Оё шумо ба ин тақризҳо бовар карда метавонед?
-# Appears underneath shopping-opt-in-integrated-headline to answer the question 'Can you trust these reviews?'
-shopping-callout-not-opted-in-integrated-paragraph1 = Абзори тафтиши тақризҳоро аз ҷониби «{ -brand-product-name }» фаъол созед ва онро озмоед. Ин абзор аз ҷониби «{ -fakespot-brand-full-name }» дастгирӣ карда мешавад ва барои таҳлил кардани тақризҳо аз технологияи зеҳни сунъӣ (AI) истифода мебарад.
-shopping-callout-not-opted-in-integrated-paragraph2 = Бо интихоб кардани «{ shopping-opt-in-integrated-button }» шумо бо <a data-l10n-name="privacy_policy">сиёсати махфияти</a> «{ -brand-product-name }» ва <a data-l10n-name="terms_of_use">шартҳои истифодаи</a> «{ -fakespot-brand-full-name }» розӣ мешавед.
-shopping-callout-not-opted-in-integrated-reminder-dismiss-button = Нодида гузарондан
-shopping-callout-not-opted-in-integrated-reminder-accept-button = Фаъол кардани абзори тафтиши тақризҳо
-shopping-opt-in-integrated-privacy-policy-and-terms-of-use = Абзори тафтиши тақризҳо аз ҷониби «{ -fakespot-brand-full-name }» дастгирӣ карда мешавад. Бо интихоб кардани «{ shopping-opt-in-integrated-button }» шумо бо <a data-l10n-name="privacy_policy">сиёсати махфияти</a> «{ -brand-product-name }» ва <a data-l10n-name="terms_of_use">шартҳои истифодаи</a> «{ -fakespot-brand-name }» розӣ мешавед.
-shopping-opt-in-integrated-button = Озмудани абзори тафтиши тақризҳо
-
-## Message strings for Review Checker's empty states.
-
-shopping-empty-state-header = Барои тафтиши тақризҳо омода аст
-shopping-empty-state-supported-site = Маҳсулеро аз назар гузаронед ва «{ -brand-product-name }» тафтиш мекунад, ки агар тақризҳо боэътимод бошанд.
-# We show a list of sites supported by Review Checker whenever a user opens the feature in an unsupported site.
-# This string will be displayed above the list of sites. The list will be hardcoded and does not require localization.
-shopping-empty-state-non-supported-site = «Абзори тафтиши тақризҳо» ҳангоми харидории шумо дар сомонаҳоми зерин кор мекунад:
-
-## Confirm disabling Review Checker for newly opted out users
-
-shopping-integrated-callout-opted-out-title = Абзори тафтиши тақризҳо хомӯш аст
-shopping-integrated-callout-opted-out-subtitle = Барои аз нав фаъол кардани он, барчаспи нархро аз рӯйи навори ҷонибӣ интихоб намоед ва «Абзори тафтиши тақризҳо»-ро фаъол созед.
-
-## Callout for where to find Review Checker when the sidebar closes
-
-shopping-integrated-callout-sidebar-closed-title = Бозгашт ба «Абзори тафтиши тақризҳо»
-shopping-integrated-callout-sidebar-closed-subtitle = Барчаспи нархро аз рӯйи навори ҷонибӣ интихоб кунед ва аз назар гузаронед, ки агар тақризҳои маҳсули интихобшуда эътимоднок бошанд.
-shopping-integrated-callout-no-logo-sidebar-closed-subtitle = Тугмаи навори ҷонибиро интихоб кунед ва аз назар гузаронед, ки агар тақризҳои маҳсули интихобшуда эътимоднок бошанд.
-
-## Strings for a notification card about Review Checker's new position in the sidebar.
-## The card will only appear for users that have the default sidebar position, which is on the left side for non RTL locales.
-## Review Checker in the sidebar is only available to US users at this time, so we can assume that the default position is on the left side.
-
-shopping-integrated-new-position-notification-title = Ҳамон абзори тафтиши тақризҳо, аммо дар ҷойи нав
-shopping-integrated-new-position-notification-move-right-subtitle = Ба ихтиёри худ «Абзори тафтиши тақризҳо» ва тамоми навори ҷонибии «{ -brand-product-name }»-ро дар ин ҷой нигоҳ доред — ё ҳар дуи онҳоро аз тарафи рост ҷойгир намоед. Шумо метавонед ҷойгиршавии онҳоро ҳоли ҳозир ё дар вақти дилхоҳ тавассути <a data-l10n-name="sidebar_settings">танзимоти навори ҷонибӣ</a> иваз намоед.
-shopping-integrated-new-position-notification-move-left-subtitle = Ба ихтиёри худ «Абзори тафтиши тақризҳо» ва тамоми навори ҷонибии «{ -brand-product-name }»-ро дар ин ҷой нигоҳ доред — ё ҳар дуи онҳоро аз тарафи чап ҷойгир намоед. Шумо метавонед ҷойгиршавии онҳоро ҳоли ҳозир ё дар вақти дилхоҳ тавассути <a data-l10n-name="sidebar_settings">танзимоти навори ҷонибӣ</a> иваз намоед.
-shopping-integrated-new-position-notification-move-right-button = Ба тарафи рост гузоштан
-shopping-integrated-new-position-notification-move-left-button = Ба тарафи чап гузоштан
-shopping-integrated-new-position-notification-dismiss-button = Фаҳмидам
-
-## Combined setting for auto-open and auto-close.
-
-shopping-settings-auto-open-and-close-toggle =
-    .label = Ба таври худкор кушодан ва пӯшидани «Абзори тафтиши тақризҳо»
-# Description text for regions where we support three sites. Sites are limited to Amazon, Walmart and Best Buy.
-# Variables:
-#   $firstSite (String) - The first shopping page name
-#   $secondSite (String) - The second shopping page name
-#   $thirdSite (String) - The third shopping page name
-shopping-settings-auto-open-and-close-description-three-sites = Ҳангоми дидани маҳсулот дар сомонаҳои { $firstSite }, { $secondSite } ва { $thirdSite } кушода мешавад ва ҳангоми рафтан аз сомонаҳои пешбинишуда пӯшида мешавад
-# Description text for regions where we support only one site (e.g. currently used in FR/DE with Amazon).
-# Variables:
-#   $currentSite (String) - The current shopping page name
-shopping-settings-auto-open-and-close-description-single-site = Ҳангоми дидани маҳсулот дар сомонаи { $currentSite } кушода мешавад ва ҳангоми рафтан аз ин сомонаи пешбинишуда пӯшида мешавад

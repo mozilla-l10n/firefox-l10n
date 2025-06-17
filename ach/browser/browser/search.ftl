@@ -47,10 +47,6 @@ add-engine-window =
     .title = Med Ingin me Yeny
     .style = min-width: 32em;
 add-engine-name = Nying ingin me yeny
-add-engine-dialog =
-    .buttonlabelaccept = Med Ingin
-    .buttonaccesskeyaccept = M
-engine-name-exists = Ingin matye ki nying eno ni dong tye
 
 ## The following placeholders are shown in the inputs when adding a new engine.
 

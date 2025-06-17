@@ -21,9 +21,6 @@ cert-error-trust-symantec = Гувоҳномаҳое, ки аз тарафи Geo
 # Variables:
 #   $hostname (string) - Hostname of the website with cert error.
 cert-error-trust-certificate-transparency = «{ -brand-short-name }» ба { $hostname } эътимод надорад, зеро ки он наметавонад исбот кунад, ки он ба талаботи шаффофияти гувоҳиномаи ҷамъиятӣ мувофиқ аст.
-# Variables:
-#   $hostname (string) - Hostname of the website with cert error.
-cert-error-revoked = Сомонаҳо айнияти худро ба воситаи гувоҳномаҳо тасдиқ мекунанд. Браузери «{ -brand-short-name }» ба ин сомона дар нишонии { $hostname } эътимод надорад, зеро ки он аз гувоҳномае истифода мебарад, ки аз тарафи мақомоти иҷозатдиҳанда бекор карда шудааст.
 cert-error-untrusted-default = Гувоҳнома аз манбаи беэътимод бароварда шудааст.
 # Variables:
 #   $hostname (string) - Hostname of the website with cert error.

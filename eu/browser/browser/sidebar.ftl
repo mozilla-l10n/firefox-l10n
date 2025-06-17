@@ -4,8 +4,6 @@
 
 menu-view-genai-chat =
     .label = AA txaterako bota
-menu-view-review-checker =
-    .label = Balorazioen egiaztatzailea
 sidebar-options-menu-button =
     .title = Ireki menua
 
@@ -85,8 +83,6 @@ sidebar-menu-bookmarks-label =
     .label = Laster-markak
 sidebar-menu-customize-label =
     .label = Pertsonalizatu alboko barra
-sidebar-menu-review-checker-label =
-    .label = Balorazioen egiaztatzailea
 
 ## Tooltips for sidebar menu items.
 

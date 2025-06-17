@@ -4,8 +4,6 @@
 
 menu-view-genai-chat =
     .label = Chatbot de IA
-menu-view-review-checker =
-    .label = Verificador de reseñas
 menu-view-contextual-password-manager =
     .label = Contraseñas
 sidebar-options-menu-button =
@@ -125,8 +123,6 @@ sidebar-menu-bookmarks-label =
     .label = Marcadores
 sidebar-menu-customize-label =
     .label = Personalizar barra lateral
-sidebar-menu-review-checker-label =
-    .label = Verificador de reseñas
 sidebar-menu-contextual-password-manager-label =
     .label = Contraseñas
 

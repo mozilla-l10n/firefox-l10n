@@ -89,9 +89,6 @@ shopping-show-less-button = להציג פחות
 
 shopping-settings-label =
     .label = הגדרות
-shopping-settings-recommendations-toggle2 =
-    .label = הצגת המלצות ותוכן ממומן
-shopping-settings-recommendations-learn-more3 = ‏{ -brand-product-name } לא משתף את הנתונים האישיים שלך, כך שההמלצות האלה לא יעקבו אחריך ברחבי הרשת. <a data-l10n-name="review-quality-url">מידע נוסף</a>
 shopping-settings-recommendations-toggle =
     .label = הצגת פרסומות בבודק הסקירות
 shopping-settings-recommendations-learn-more2 = מדי פעם יוצגו פרסומות עבור מוצרים רלוונטיים. אנו מפרסמים רק מוצרים בעלי סקירות אמינות. <a data-l10n-name="review-quality-url">מידע נוסף</a>
@@ -118,7 +115,6 @@ shopping-settings-sidebar-enabled-state = בודק הסקירות <strong>מופ
 shopping-adjusted-rating-label =
     .label = דירוג מותאם
 shopping-adjusted-rating-unreliable-reviews = סקירות בלתי אמינות הוסרו
-shopping-adjusted-rating-based-reliable-reviews = מבוסס על סקירות אמינות
 
 ## Strings for the review reliability component
 
@@ -137,8 +133,6 @@ shopping-analysis-explainer-learn-more2 = מידע נוסף על <a data-l10n-na
 # websites, which will be inserted without being translated.
 #  $retailer (String) - capitalized name of the shopping website, for example, "Amazon".
 shopping-analysis-explainer-highlights-description = <strong>הדגשים</strong> הם מסקירות של { $retailer } במהלך 80 הימים האחרונים, שאנו מאמינים שהן אמינות.
-# Fallback for analysis highlights explainer if the retailer is ever unknown
-shopping-analysis-explainer-highlights-description-unknown-retailer = <strong>הדגשים</strong> הם מסקירות במהלך 80 הימים האחרונים, שאנו מאמינים שהן אמינות.
 shopping-analysis-explainer-review-grading-scale-reliable = סקירות אמינות. אנו מאמינים שהסקירות הן ככל הנראה מלקוחות אמיתיים שהשאירו סקירות כנות ושאינן משוחדות.
 shopping-analysis-explainer-review-grading-scale-mixed = אנו מאמינים שיש שילוב של סקירות אמינות ובלתי אמינות.
 shopping-analysis-explainer-review-grading-scale-unreliable = סקירות בלתי אמינות. אנו מאמינים שהסקירות כנראה מזויפות או של סוקרים מוטים או משוחדים.
@@ -163,7 +157,6 @@ shopping-unanalyzed-product-analyze-button = בדיקת איכות הסקירו�
 
 ## Strings for the advertisement
 
-shopping-sponsored-label = ממומן
 ad-by-fakespot = פרסומת מאת { -fakespot-brand-name }
 
 ## Shopping survey strings.
@@ -184,18 +177,6 @@ shopping-survey-submit-button-label = שליחה
 shopping-survey-terms-link = תנאי שימוש
 shopping-survey-thanks =
     .heading = תודה על המשוב שלך!
-
-## Shopping opted-out survey strings
-## Opt-out survey options are displayed as checkboxes and the user can select one or many.
-
-shopping-survey-opted-out-multiselect-label = נשמע לשמוע מדוע כיבית את בודק הסקירות. ניתן לסמן מספר אפשרויות אם יש בכך צורך.
-shopping-survey-thanks-title = תודה על המשוב שלך!
-shopping-survey-opted-out-hard-to-understand = זה קשה להבנה
-shopping-survey-opted-out-too-slow = זה איטי מידי
-shopping-survey-opted-out-not-accurate = זה לא מדויק
-shopping-survey-opted-out-not-helpful = זה לא מועיל לי
-shopping-survey-opted-out-check-myself = אעדיף לבדוק סקירות בעצמי
-shopping-survey-opted-out-other = אחר
 
 ## Shopping Feature Callout strings.
 ## "price tag" refers to the price tag icon displayed in the address bar to
@@ -249,76 +230,3 @@ shopping-onboarding-dialog-close-button =
 #   $total (Int) - Total number of pages
 shopping-onboarding-welcome-steps-indicator-label =
     .aria-label = התקדמות: שלב { $current } מתוך { $total }
-
-## Review Checker in Integrated sidebar
-
-# Opt-in message strings for Review Checker when it is integrated into the global sidebar.
-shopping-opt-in-integrated-headline = לבצע רכישות בביטחון
-# Description text for regions where we support three sites. Sites are limited to Amazon, Walmart and Best Buy.
-# Variables:
-#   $firstSite (String) - The first shopping page name
-#   $secondSite (String) - The second shopping page name
-#   $thirdSite (String) - The third shopping page name
-shopping-opt-in-integrated-subtitle = ניתן להפעיל את בודק הסקירות של { -brand-product-name } כדי לראות עד כמה סקירות של מוצרים אמינות, לפני ביצוע הרכישה. הבודק משתמש בטכנולוגיה של בינה מלאכותית כדי לנתח סקירות ועובד בעת רכישה ב־{ $firstSite }, ‏{ $secondSite } ו־{ $thirdSite }. <a data-l10n-name="learn_more">מידע נוסף</a>
-# Description text for regions where we support three sites. Sites are limited to Amazon, Walmart and Best Buy.
-# Variables:
-#   $firstSite (String) - The first shopping page name
-#   $secondSite (String) - The second shopping page name
-#   $thirdSite (String) - The third shopping page name
-shopping-opt-in-integrated-subtitle-unsupported-site = בודק הסקירות של { -brand-product-name } מסייע לך לדעת עד כמה סקירות של מוצרים אמינות, לפני ביצוע הרכישה. הבודק משתמש בטכנולוגיה של בינה מלאכותית כדי לנתח סקירות ועובד בעת רכישה ב־{ $firstSite }, ‏{ $secondSite } ו־{ $thirdSite }. <a data-l10n-name="learn_more">מידע נוסף</a>
-
-## Messages for callout for users not opted into the sidebar integrated version of Review Checker.
-
-shopping-callout-opt-in-integrated-headline = האם ניתן לסמוך על הסקירות האלה?
-# Appears underneath shopping-opt-in-integrated-headline to answer the question 'Can you trust these reviews?'
-shopping-callout-not-opted-in-integrated-paragraph1 = ניתן להפעיל את בודק הסקירות של { -brand-product-name } כדי לגלות. הוא מופעל באמצעות { -fakespot-brand-full-name } ומשתמש בטכנולוגיה של בינה מלאכותית כדי לנתח סקירות.
-shopping-callout-not-opted-in-integrated-paragraph2 = בחירה באפשרות ״{ shopping-opt-in-integrated-button }״ מהווה הסכמה ל<a data-l10n-name="privacy_policy">הצהרת הפרטיות</a> של { -brand-product-name } ול<a data-l10n-name="terms_of_use">תנאי השימוש</a> של { -fakespot-brand-full-name }.
-shopping-callout-not-opted-in-integrated-reminder-dismiss-button = סגירה
-shopping-callout-not-opted-in-integrated-reminder-accept-button = הפעלת בודק הסקירות
-shopping-opt-in-integrated-privacy-policy-and-terms-of-use = בודק הסקירות מופעל על־ידי { -fakespot-brand-full-name }. בחירה באפשרות ״{ shopping-opt-in-integrated-button }״ מהווה הסכמה ל<a data-l10n-name="privacy_policy">הצהרת הפרטיות</a> של { -brand-product-name } ול<a data-l10n-name="terms_of_use">תנאי השימוש</a> של { -fakespot-brand-name }.
-shopping-opt-in-integrated-button = לנסות את בודק הסקירות
-
-## Message strings for Review Checker's empty states.
-
-shopping-empty-state-header = מוכן לבדוק סקירות
-shopping-empty-state-supported-site = ניתן לצפות במוצר מסוים ו־{ -brand-product-name } יבדוק אם הסקירות אמינות.
-# We show a list of sites supported by Review Checker whenever a user opens the feature in an unsupported site.
-# This string will be displayed above the list of sites. The list will be hardcoded and does not require localization.
-shopping-empty-state-non-supported-site = בודק הסקירות עובד בעת רכישה באתרים הבאים:
-
-## Confirm disabling Review Checker for newly opted out users
-
-shopping-integrated-callout-opted-out-title = בודק הסקירות כבוי
-shopping-integrated-callout-opted-out-subtitle = כדי להפעיל אותו מחדש, יש לבחור את תג המחיר בסרגל הצד ולהפעיל את בודק הסקירות.
-
-## Callout for where to find Review Checker when the sidebar closes
-
-shopping-integrated-callout-sidebar-closed-title = חזרה לבודק הסקירות
-shopping-integrated-callout-sidebar-closed-subtitle = יש לבחור בתג המחיר בסרגל הצד כדי לראות אם ניתן לסמוך על סקירות של המוצר.
-shopping-integrated-callout-no-logo-sidebar-closed-subtitle = יש לבחור בכפתור בסרגל הצד כדי לראות אם ניתן לסמוך על סקירות של המוצר.
-
-## Strings for a notification card about Review Checker's new position in the sidebar.
-## The card will only appear for users that have the default sidebar position, which is on the left side for non RTL locales.
-## Review Checker in the sidebar is only available to US users at this time, so we can assume that the default position is on the left side.
-
-shopping-integrated-new-position-notification-title = אותו בודק הסקירות, במקום חדש
-shopping-integrated-new-position-notification-move-right-subtitle = אפשר להשאיר את בודק הסקירות ואת סרגל הצד של { -brand-product-name } כאן - או להעביר אותם לצד ימין. אפשר להחליף בין המיקומים בכל עת ב<a data-l10n-name="sidebar_settings">הגדרות סרגל הצד</a>.
-shopping-integrated-new-position-notification-move-left-subtitle = אפשר להשאיר את בודק הסקירות ואת סרגל הצד של { -brand-product-name } כאן - או להעביר אותם לצד שמאל. אפשר להחליף בין המיקומים בכל עת ב<a data-l10n-name="sidebar_settings">הגדרות סרגל הצד</a>.
-shopping-integrated-new-position-notification-move-right-button = העברה לצד ימין
-shopping-integrated-new-position-notification-move-left-button = העברה לצד שמאל
-shopping-integrated-new-position-notification-dismiss-button = הבנתי
-
-## Combined setting for auto-open and auto-close.
-
-shopping-settings-auto-open-and-close-toggle =
-    .label = פתיחה וסגירה אוטומטית של בודק הסקירות
-# Description text for regions where we support three sites. Sites are limited to Amazon, Walmart and Best Buy.
-# Variables:
-#   $firstSite (String) - The first shopping page name
-#   $secondSite (String) - The second shopping page name
-#   $thirdSite (String) - The third shopping page name
-shopping-settings-auto-open-and-close-description-three-sites = נפתח בעת צפייה במוצרים ב־{ $firstSite }, ‏{ $secondSite } ו־{ $thirdSite }, ונסגר כשעוזבים את האתר
-# Description text for regions where we support only one site (e.g. currently used in FR/DE with Amazon).
-# Variables:
-#   $currentSite (String) - The current shopping page name
-shopping-settings-auto-open-and-close-description-single-site = נפתח בעת צפייה במוצרים ב־{ $currentSite } ונסגר כשעוזבים את האתר
