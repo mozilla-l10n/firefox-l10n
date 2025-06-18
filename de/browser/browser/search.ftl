@@ -8,7 +8,7 @@
 ## Variables
 ## $location-url (String) - the URL of the OpenSearch engine that was attempted to be installed.
 
-opensearch-error-duplicate-title = Installations-Fehler
+opensearch-error-duplicate-title = Installationsfehler
 opensearch-error-duplicate-desc = { -brand-short-name } konnte die Suchmaschine von "{ $location-url }" nicht herunterladen, da bereits eine Suchmaschine mit demselben Namen existiert.
 opensearch-error-format-title = Ungültiges Format
 opensearch-error-format-desc = { -brand-short-name } konnte die Suchmaschine unter { $location-url } nicht installieren.
