@@ -11,6 +11,10 @@ contentanalysis-slow-agent-dialog-body-file-and-more =
         [one] ‏{ $agent } סוקר את ״{ $filename }״ ופריט אחד נוסף כנגד מדיניות הנתונים של הארגון שלך. זה ייקח כמה רגעים.
        *[other] ‏{ $agent } סוקר את ״{ $filename }״ ו־{ $count } פריטים נוספים כנגד מדיניות הנתונים של הארגון שלך. זה ייקח כמה רגעים.
     }
+#   $filename - The filename associated with the request, such as "aFile.txt"
+contentanalysis-upload-description = העלאה של ״{ $filename }״
+#   $filename - The filename associated with the request, such as "aFile.txt"
+contentanalysis-download-description = הורדה של ״{ $filename }״
 contentanalysis-warndialogtitle = תוכן זה עשוי להיות לא בטוח
 # Variables:
 #   $content - Description of the content being warned about, such as "clipboard" or "aFile.txt"
@@ -24,3 +28,7 @@ contentanalysis-block-message = הארגון שלך משתמש בתוכנה למ
 #   $agent - The name of the DLP agent doing the analysis
 #   $contentName - Description of the content, such as "clipboard" or "aFile.txt"
 contentanalysis-timeout-block-error-message-content = תם הזמן הקצוב לחיבור אל { $agent }. ‏{ $contentName } נחסם.
+contentanalysis-block-dialog-title-download-file = אין לך הרשאה להוריד את הקובץ הזה
+# Variables:
+#   $filename - Name of the file that was blocked, such as "aFile.txt"
+contentanalysis-block-dialog-body-download-file = על פי מדיניות הגנת הנתונים של הארגון שלך, אין לך הרשאה להוריד את הקובץ ״{ $filename }״. נא לפנות למנהל המערכת שלך לקבלת מידע נוסף.
