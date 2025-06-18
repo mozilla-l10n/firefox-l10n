@@ -188,6 +188,8 @@ media-capabilities-enumerate = 列舉資料庫
 
 media-codec-support-sw-decoding = 軟體解碼
 media-codec-support-hw-decoding = 硬體解碼
+media-codec-support-sw-encoding = 軟體編碼
+media-codec-support-hw-encoding = 硬體編碼
 media-codec-support-codec-name = 解碼器名稱
 media-codec-support-supported = 支援
 media-codec-support-unsupported = 不支援
