@@ -8,6 +8,9 @@
 newtab-page-title = Nyt faneblad
 newtab-settings-button =
     .title = Tilpas siden Nyt faneblad
+newtab-customize-panel-icon-button =
+    .title = Tilpas denne side
+newtab-customize-panel-icon-button-label = Tilpas
 newtab-personalize-settings-icon-label =
     .title = Tilpas nyt faneblad
     .aria-label = Indstillinger

@@ -125,6 +125,8 @@ sidebar-menu-customize-label =
     .label = Tilpas sidepanel
 sidebar-menu-contextual-password-manager-label =
     .label = Adgangskoder
+sidebar-menu-more-tools-label =
+    .label = Flere værktøjer
 
 ## Tooltips for sidebar menu items.
 
