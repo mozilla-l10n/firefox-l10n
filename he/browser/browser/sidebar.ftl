@@ -21,6 +21,11 @@ sidebar-history-date-this-month =
     .heading = { DATETIME($date, dateStyle: "full") }
 sidebar-history-date-prev-month =
     .heading = { DATETIME($date, month: "long", year: "numeric") }
+# When history is sorted by site, this heading is used in place of a domain, in
+# order to group sites that do not come from an outside host.
+# For example, this would be the heading for all file:/// URLs in history.
+sidebar-history-site-localhost =
+    .heading = (קבצים מקומיים)
 sidebar-history-delete =
     .title = מחיקה מההיסטוריה
 sidebar-history-clear =
@@ -120,6 +125,8 @@ sidebar-menu-customize-label =
     .label = התאמה אישית של סרגל הצד
 sidebar-menu-contextual-password-manager-label =
     .label = ססמאות
+sidebar-menu-more-tools-label =
+    .label = כלים נוספים
 
 ## Tooltips for sidebar menu items.
 

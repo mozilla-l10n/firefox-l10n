@@ -8,6 +8,9 @@
 newtab-page-title = לשונית חדשה
 newtab-settings-button =
     .title = התאמה אישית של דף הלשונית החדשה שלך
+newtab-customize-panel-icon-button =
+    .title = התאמה אישית של דף זה
+newtab-customize-panel-icon-button-label = התאמה אישית
 newtab-personalize-settings-icon-label =
     .title = התאמה אישית של דף הלשונית החדשה
     .aria-label = הגדרות
