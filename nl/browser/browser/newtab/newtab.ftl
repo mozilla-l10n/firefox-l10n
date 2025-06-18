@@ -8,6 +8,9 @@
 newtab-page-title = Nieuw tabblad
 newtab-settings-button =
     .title = Uw Nieuw-tabbladpagina aanpassen
+newtab-customize-panel-icon-button =
+    .title = Deze pagina aanpassen
+newtab-customize-panel-icon-button-label = Aanpassen
 newtab-personalize-settings-icon-label =
     .title = Nieuw tabblad personaliseren
     .aria-label = Instellingen

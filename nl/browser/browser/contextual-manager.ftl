@@ -156,6 +156,8 @@ contextual-manager-passwords-password-already-exists-error-button = Naar wachtwo
 contextual-manager-passwords-update-password-success-heading =
     .heading = Wachtwoord opgeslagen
 contextual-manager-passwords-update-password-success-button = Gereed
+contextual-manager-passwords-update-username-success-heading =
+    .heading = Gebruikersnaam opgeslagen
 # Message to confirm successful removal of a password/passwords.
 #   $total (number) - Total number of passwords
 contextual-manager-passwords-delete-password-success-heading =

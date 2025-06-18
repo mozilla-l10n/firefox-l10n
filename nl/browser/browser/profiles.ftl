@@ -39,6 +39,12 @@ edit-profile-page-delete-button =
 edit-profile-page-avatar-selector-opener-link = Bewerken
 avatar-selector-icon-tab = Pictogram
 avatar-selector-custom-tab = Aangepast
+avatar-selector-cancel-button =
+    .label = Annuleren
+avatar-selector-save-button =
+    .label = Opslaan
+avatar-selector-upload-file = Een bestand uploaden
+avatar-selector-drag-file = Of sleep een bestand hierheen
 edit-profile-page-no-name = Geef dit profiel een naam, zodat u het later kunt vinden. U kunt de naam op elk gewenst moment wijzigen.
 edit-profile-page-duplicate-name = Profielnaam wordt al gebruikt. Probeer een nieuwe naam.
 edit-profile-page-profile-saved = Opgeslagen
@@ -116,6 +122,8 @@ shopping-avatar-alt =
     .alt = Winkelwagen
 star-avatar-alt =
     .alt = Ster
+custom-avatar-alt =
+    .alt = Aangepaste avatar
 
 ## Labels for default avatar icons
 

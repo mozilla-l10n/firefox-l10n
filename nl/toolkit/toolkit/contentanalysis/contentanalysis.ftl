@@ -34,6 +34,10 @@ contentanalysis-operationtype-clipboard = klembord
 contentanalysis-operationtype-dropped-text = geplakte tekst
 contentanalysis-operationtype-print = afdrukken
 #   $filename - The filename associated with the request, such as "aFile.txt"
+contentanalysis-upload-description = upload van ‘{ $filename }’
+#   $filename - The filename associated with the request, such as "aFile.txt"
+contentanalysis-download-description = download van ‘{ $filename }’
+#   $filename - The filename associated with the request, such as "aFile.txt"
 contentanalysis-customdisplaystring-description = upload van ‘{ $filename }’
 contentanalysis-warndialogtitle = Deze inhoud is mogelijk onveilig
 # Variables:
@@ -75,6 +79,10 @@ contentanalysis-block-dialog-title-upload-file = U mag dit bestand niet uploaden
 # Variables:
 #   $filename - Name of the file that was blocked, such as "aFile.txt"
 contentanalysis-block-dialog-body-upload-file = Volgens het gegevensbeschermingsbeleid van uw organisatie mag u het bestand ‘{ $filename }’ niet uploaden. Neem contact op met uw beheerder voor meer info.
+contentanalysis-block-dialog-title-download-file = U mag dit bestand niet downloaden
+# Variables:
+#   $filename - Name of the file that was blocked, such as "aFile.txt"
+contentanalysis-block-dialog-body-download-file = Volgens het gegevensbeschermingsbeleid van uw organisatie mag u het bestand ‘{ $filename }’ niet downloaden. Neem contact op met uw beheerder voor meer info.
 contentanalysis-block-dialog-title-clipboard = U mag deze inhoud niet plakken
 contentanalysis-block-dialog-body-clipboard = Volgens het gegevensbeschermingsbeleid van uw organisatie mag u deze inhoud niet plakken. Neem contact op met uw beheerder voor meer info.
 contentanalysis-block-dialog-title-dropped-text = U mag deze inhoud niet verslepen

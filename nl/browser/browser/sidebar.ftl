@@ -125,6 +125,8 @@ sidebar-menu-customize-label =
     .label = Zijbalk aanpassen
 sidebar-menu-contextual-password-manager-label =
     .label = Wachtwoorden
+sidebar-menu-more-tools-label =
+    .label = Meer hulpmiddelen
 
 ## Tooltips for sidebar menu items.
 
