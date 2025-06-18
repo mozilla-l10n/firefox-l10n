@@ -125,6 +125,8 @@ sidebar-menu-customize-label =
     .label = Προσαρμογή πλαϊνής γραμμής
 sidebar-menu-contextual-password-manager-label =
     .label = Κωδικοί πρόσβασης
+sidebar-menu-more-tools-label =
+    .label = Περισσότερα εργαλεία
 
 ## Tooltips for sidebar menu items.
 

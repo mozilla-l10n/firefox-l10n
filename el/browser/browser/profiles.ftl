@@ -39,6 +39,12 @@ edit-profile-page-delete-button =
 edit-profile-page-avatar-selector-opener-link = Επεξεργασία
 avatar-selector-icon-tab = Εικονίδιο
 avatar-selector-custom-tab = Προσαρμοσμένο
+avatar-selector-cancel-button =
+    .label = Ακύρωση
+avatar-selector-save-button =
+    .label = Αποθήκευση
+avatar-selector-upload-file = Μεταφόρτωση αρχείου
+avatar-selector-drag-file = Ή σύρετε ένα αρχείο εδώ
 edit-profile-page-no-name = Δώστε ένα όνομα στο προφίλ για να το βρείτε πιο εύκολα αργότερα. Μπορείτε να το μετονομάσετε ανά πάσα στιγμή.
 edit-profile-page-duplicate-name = Το όνομα προφίλ χρησιμοποιείται ήδη. Δοκιμάστε ένα νέο όνομα.
 edit-profile-page-profile-saved = Αποθηκεύτηκε
@@ -116,6 +122,8 @@ shopping-avatar-alt =
     .alt = Καλάθι αγορών
 star-avatar-alt =
     .alt = Αστέρι
+custom-avatar-alt =
+    .alt = Προσαρμοσμένο avatar
 
 ## Labels for default avatar icons
 

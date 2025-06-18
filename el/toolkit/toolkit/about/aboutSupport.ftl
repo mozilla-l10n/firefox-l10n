@@ -188,6 +188,8 @@ media-capabilities-enumerate = Απαρίθμηση βάσης δεδομένω�
 
 media-codec-support-sw-decoding = Αποκωδικοποίηση λογισμικού
 media-codec-support-hw-decoding = Αποκωδικοποίηση υλικού
+media-codec-support-sw-encoding = Κωδικοποίηση λογισμικού
+media-codec-support-hw-encoding = Κωδικοποίηση υλικού
 media-codec-support-codec-name = Όνομα κωδικοποιητή
 media-codec-support-supported = Υποστηρίζεται
 media-codec-support-unsupported = Δεν υποστηρίζεται

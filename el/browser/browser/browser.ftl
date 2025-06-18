@@ -1090,6 +1090,8 @@ navbar-accessible =
     .aria-label = Πλοήγηση
 navbar-downloads =
     .label = Λήψεις
+navbar-overflow-2 =
+    .tooltiptext = Περισσότερα εργαλεία
 navbar-overflow =
     .tooltiptext = Περισσότερα εργαλεία…
 # Variables:

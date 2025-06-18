@@ -34,6 +34,10 @@ contentanalysis-operationtype-clipboard = πρόχειρο
 contentanalysis-operationtype-dropped-text = εναποθετημένο κείμενο
 contentanalysis-operationtype-print = εκτύπωση
 #   $filename - The filename associated with the request, such as "aFile.txt"
+contentanalysis-upload-description = μεταφόρτωση του «{ $filename }»
+#   $filename - The filename associated with the request, such as "aFile.txt"
+contentanalysis-download-description = λήψη του «{ $filename }»
+#   $filename - The filename associated with the request, such as "aFile.txt"
 contentanalysis-customdisplaystring-description = μεταφόρτωση του «{ $filename }»
 contentanalysis-warndialogtitle = Το περιεχόμενο ενδέχεται να μην είναι ασφαλές
 # Variables:
@@ -75,6 +79,7 @@ contentanalysis-block-dialog-title-upload-file = Δεν επιτρέπεται �
 # Variables:
 #   $filename - Name of the file that was blocked, such as "aFile.txt"
 contentanalysis-block-dialog-body-upload-file = Σύμφωνα με την πολιτική προστασίας δεδομένων του οργανισμού σας, δεν επιτρέπεται να μεταφορτώσετε το αρχείο «{ $filename }». Επικοινωνήστε με τον διαχειριστή για περισσότερες πληροφορίες.
+contentanalysis-block-dialog-title-download-file = Δεν επιτρέπεται να κάνετε λήψη αυτού του αρχείου
 contentanalysis-block-dialog-title-clipboard = Δεν επιτρέπεται να επικολλήσετε αυτό το περιεχόμενο
 contentanalysis-block-dialog-body-clipboard = Σύμφωνα με την πολιτική προστασίας δεδομένων του οργανισμού σας, δεν επιτρέπεται να επικολλήσετε αυτό το περιεχόμενο. Επικοινωνήστε με τον διαχειριστή για περισσότερες πληροφορίες.
 contentanalysis-block-dialog-title-dropped-text = Δεν επιτρέπεται να αποθέσετε αυτό το περιεχόμενο

@@ -151,6 +151,8 @@ contextual-manager-passwords-password-already-exists-error-button = Μετάβα
 contextual-manager-passwords-update-password-success-heading =
     .heading = Ο κωδικός πρόσβασης αποθηκεύτηκε
 contextual-manager-passwords-update-password-success-button = Τέλος
+contextual-manager-passwords-update-username-success-heading =
+    .heading = Το όνομα χρήστη αποθηκεύτηκε
 # Message to confirm successful removal of a password/passwords.
 #   $total (number) - Total number of passwords
 contextual-manager-passwords-delete-password-success-heading =
