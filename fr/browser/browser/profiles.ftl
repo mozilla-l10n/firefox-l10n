@@ -39,6 +39,12 @@ edit-profile-page-delete-button =
 edit-profile-page-avatar-selector-opener-link = Modifier
 avatar-selector-icon-tab = Icône
 avatar-selector-custom-tab = Personnalisé
+avatar-selector-cancel-button =
+    .label = Annuler
+avatar-selector-save-button =
+    .label = Enregistrer
+avatar-selector-upload-file = Envoyez un fichier
+avatar-selector-drag-file = ou faites glisser un fichier ici
 edit-profile-page-no-name = Donnez un nom à ce profil pour le retrouver plus tard. Renommez-le à tout moment.
 edit-profile-page-duplicate-name = Ce nom de profil est déjà utilisé. Utilisez un autre nom.
 edit-profile-page-profile-saved = Enregistré
@@ -116,6 +122,8 @@ shopping-avatar-alt =
     .alt = Chariot
 star-avatar-alt =
     .alt = Étoile
+custom-avatar-alt =
+    .alt = Avatar personnalisé
 
 ## Labels for default avatar icons
 

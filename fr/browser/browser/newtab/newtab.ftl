@@ -8,6 +8,9 @@
 newtab-page-title = Nouvel onglet
 newtab-settings-button =
     .title = Personnaliser la page Nouvel onglet
+newtab-customize-panel-icon-button =
+    .title = Personnaliser cette page
+newtab-customize-panel-icon-button-label = Personnaliser
 newtab-personalize-settings-icon-label =
     .title = Personnaliser la page Nouvel onglet
     .aria-label = Paramètres

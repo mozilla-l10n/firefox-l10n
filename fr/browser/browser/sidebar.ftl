@@ -125,6 +125,8 @@ sidebar-menu-customize-label =
     .label = Personnaliser le panneau latéral
 sidebar-menu-contextual-password-manager-label =
     .label = Mots de passe
+sidebar-menu-more-tools-label =
+    .label = Outils supplémentaires
 
 ## Tooltips for sidebar menu items.
 
