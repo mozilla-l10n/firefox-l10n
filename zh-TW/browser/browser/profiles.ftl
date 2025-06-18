@@ -39,6 +39,12 @@ edit-profile-page-delete-button =
 edit-profile-page-avatar-selector-opener-link = 編輯
 avatar-selector-icon-tab = 圖示
 avatar-selector-custom-tab = 自訂
+avatar-selector-cancel-button =
+    .label = 取消
+avatar-selector-save-button =
+    .label = 儲存
+avatar-selector-upload-file = 上傳檔案
+avatar-selector-drag-file = 或將檔案拖曳至此處
 edit-profile-page-no-name = 為此設定檔命名，方便之後尋找，可以隨時再更名。
 edit-profile-page-duplicate-name = 已有這個名稱的設定檔，請改用其他名稱。
 edit-profile-page-profile-saved = 已儲存
@@ -116,6 +122,8 @@ shopping-avatar-alt =
     .alt = 購物車
 star-avatar-alt =
     .alt = 星星
+custom-avatar-alt =
+    .alt = 自訂大頭照
 
 ## Labels for default avatar icons
 
