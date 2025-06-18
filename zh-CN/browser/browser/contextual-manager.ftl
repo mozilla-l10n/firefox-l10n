@@ -151,6 +151,8 @@ contextual-manager-passwords-password-already-exists-error-button = 转到密码
 contextual-manager-passwords-update-password-success-heading =
     .heading = 密码已保存
 contextual-manager-passwords-update-password-success-button = 完成
+contextual-manager-passwords-update-username-success-heading =
+    .heading = 用户名已保存
 # Message to confirm successful removal of a password/passwords.
 #   $total (number) - Total number of passwords
 contextual-manager-passwords-delete-password-success-heading =

@@ -1086,6 +1086,8 @@ navbar-accessible =
     .aria-label = 导航
 navbar-downloads =
     .label = 下载
+navbar-overflow-2 =
+    .tooltiptext = 更多工具
 navbar-overflow =
     .tooltiptext = 更多工具…
 # Variables:

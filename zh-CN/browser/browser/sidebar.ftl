@@ -125,6 +125,8 @@ sidebar-menu-customize-label =
     .label = 定制侧栏
 sidebar-menu-contextual-password-manager-label =
     .label = 密码
+sidebar-menu-more-tools-label =
+    .label = 更多工具
 
 ## Tooltips for sidebar menu items.
 
