@@ -107,3 +107,11 @@ storage-idb-delete-blocked = Database ‘{ $dbName }’ sil fuortsmiten wurde ne
 # Variables:
 #   $dbName (String) - Name of the database
 storage-idb-delete-error = Database ‘{ $dbName }’ koe net fuortsmiten wurde.
+# Error notification when cookie could not be created (e.g. because it's invalid).
+# Variables:
+#   $errorString (String) - Platform error message
+storage-cookie-create-error = Cookie koe net oanmakke wurde: ’{ $errorString }’.
+# Error notification when cookie could not be edited (e.g. because it's invalid).
+# Variables:
+#   $errorString (String) - Platform error message
+storage-cookie-edit-error = Cookie koe net bywurke wurde: ’{ $errorString }’.

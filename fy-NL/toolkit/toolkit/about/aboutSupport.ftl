@@ -188,6 +188,8 @@ media-capabilities-enumerate = Database ynventarisearje
 
 media-codec-support-sw-decoding = Software-dekodearring
 media-codec-support-hw-decoding = Hardware-dekodearring
+media-codec-support-sw-encoding = Softwarekodearring
+media-codec-support-hw-encoding = Hardwarekodearring
 media-codec-support-codec-name = Codecnamme
 media-codec-support-supported = Stipe
 media-codec-support-unsupported = Net stipe

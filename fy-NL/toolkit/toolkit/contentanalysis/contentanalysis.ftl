@@ -34,6 +34,10 @@ contentanalysis-operationtype-clipboard = klamboerd
 contentanalysis-operationtype-dropped-text = plakte tekst
 contentanalysis-operationtype-print = ôfdrukke
 #   $filename - The filename associated with the request, such as "aFile.txt"
+contentanalysis-upload-description = oplaad fan ‘{ $filename }’
+#   $filename - The filename associated with the request, such as "aFile.txt"
+contentanalysis-download-description = download fan ‘{ $filename }’
+#   $filename - The filename associated with the request, such as "aFile.txt"
 contentanalysis-customdisplaystring-description = oplaad fan ‘{ $filename }’
 contentanalysis-warndialogtitle = Dizze ynhâld is mooglik ûnfeilich
 # Variables:
@@ -75,6 +79,10 @@ contentanalysis-block-dialog-title-upload-file = Jo meie dit bestân net oplade
 # Variables:
 #   $filename - Name of the file that was blocked, such as "aFile.txt"
 contentanalysis-block-dialog-body-upload-file = Neffens it gegevensbeskermingsbelied fan jo organisaasje meie jo it bestân ‘{ $filename }’ net oplade. Nim kontakt op mei jo behearder foar mear ynfo.
+contentanalysis-block-dialog-title-download-file = Jo meie dit bestân net downloade
+# Variables:
+#   $filename - Name of the file that was blocked, such as "aFile.txt"
+contentanalysis-block-dialog-body-download-file = Neffens it gegevensbeskermingsbelied fan jo organisaasje meie jo it bestân ‘{ $filename }’ net downloade. Nim kontakt op mei jo behearder foar mear ynfo.
 contentanalysis-block-dialog-title-clipboard = Jo meie dizze ynhâld net plakke
 contentanalysis-block-dialog-body-clipboard = Neffens it gegevensbeskermingsbelied fan jo organisaasje meie jo dizze ynhâld net plakke. Nim kontakt op mei jo behearder foar mear ynfo.
 contentanalysis-block-dialog-title-dropped-text = Jo meie dizze ynhâld net ferslepe

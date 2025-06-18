@@ -39,6 +39,12 @@ edit-profile-page-delete-button =
 edit-profile-page-avatar-selector-opener-link = Bewurkje
 avatar-selector-icon-tab = Piktogram
 avatar-selector-custom-tab = Oanpast
+avatar-selector-cancel-button =
+    .label = Annulearje
+avatar-selector-save-button =
+    .label = Bewarje
+avatar-selector-upload-file = In bestân oplade
+avatar-selector-drag-file = Of sleep in bestân hjirhinne
 edit-profile-page-no-name = Jou dit profyl in namme, sadat jo it letter fine kinne. Jo kinne de namme op elk winske momint wizigje.
 edit-profile-page-duplicate-name = Profylnamme is al yn gebrûk. Probearje in nije namme.
 edit-profile-page-profile-saved = Bewarre
@@ -116,6 +122,8 @@ shopping-avatar-alt =
     .alt = Winkelwein
 star-avatar-alt =
     .alt = Stjer
+custom-avatar-alt =
+    .alt = Oanpaste avatar
 
 ## Labels for default avatar icons
 

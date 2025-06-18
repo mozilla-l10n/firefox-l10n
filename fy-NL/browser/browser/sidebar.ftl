@@ -125,6 +125,8 @@ sidebar-menu-customize-label =
     .label = Sidebalke oanpasse
 sidebar-menu-contextual-password-manager-label =
     .label = Wachtwurden
+sidebar-menu-more-tools-label =
+    .label = Mear ark
 
 ## Tooltips for sidebar menu items.
 
