@@ -44,7 +44,7 @@ printui-two-sided-printing = Երկկողմանի տպագրություն
 printui-two-sided-printing-off = Անջ.
 # Section title for miscellaneous print options
 printui-options = Ընտրանքներ
-printui-headers-footers-checkbox = Տպել էջագլուխները և էջատակները
+printui-headers-footers-checkbox = Տպել էջագլուխները և էջատակերը
 printui-backgrounds-checkbox = Տպել խորքերը
 
 ## The "Format" section, select a version of the website to print. Radio
@@ -57,6 +57,8 @@ printui-source-label = Ձևաչափ
 printui-source-radio = Բնօրինակ
 # Option for printing just the content a user selected prior to printing.
 printui-selection-radio = Ընտրում
+# Option for "simplifying" the page by printing the Reader View version.
+printui-simplify-page-radio = Պարզեցված
 
 ##
 
@@ -69,7 +71,7 @@ printui-margins-min = Նվազագույն
 printui-margins-none = Չկա
 printui-margins-custom-inches = Ընտրված (դյույմ)
 printui-margins-custom-mm = Հարմարեցված (մմ)
-printui-system-dialog-link = Տպելիս օգտագործել համակարգի երկխոսությունը…
+printui-system-dialog-link = Տպելու համակարգի պատուհանը…
 printui-primary-button = Տպել
 printui-cancel-button = Չեղարկել
 printui-close-button = Փակել
