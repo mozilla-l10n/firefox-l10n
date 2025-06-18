@@ -113,6 +113,7 @@ sidebar-button-callout-vertical-tabs = Ehechauka hag̃ua ne rendayke, eiporavo v
 ## Sidebar Vertical Tabs Strings
 
 vertical-tabs-callout-1-title = ¿Chemokañy hetaiterei tendayke?
+vertical-tabs-callout-1-subtitle = Eiporu ore rendayke pyahu oñembo’ýva emoha’ãnga hag̃ua ne rendayke rysýi. Umi porúhára ñepyrũgua omombe’u kóva oipytyvõha oñeñandúvo tekoporãme. Emoambue upéi.
 vertical-tabs-callout-1-cta-button = Eiporu tendayke oñembo’ýva
 vertical-tabs-callout-2-cta-button = Eiporu ko’ág̃a
 vertical-tabs-callout-2-title = ¿Ereko heta tendayke ijurujáva? Eiporu tendayke oñembo’ýva.

@@ -156,6 +156,8 @@ contextual-manager-passwords-password-already-exists-error-button = Eho ñe’�
 contextual-manager-passwords-update-password-success-heading =
     .heading = Ñe’ẽñemi ñongatupyre
 contextual-manager-passwords-update-password-success-button = Apopyre
+contextual-manager-passwords-update-username-success-heading =
+    .heading = Poruhára réra ñongatupyre
 # Message to confirm successful removal of a password/passwords.
 #   $total (number) - Total number of passwords
 contextual-manager-passwords-delete-password-success-heading =

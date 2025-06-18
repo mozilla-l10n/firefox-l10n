@@ -31,6 +31,13 @@ pending-crash-reports-send =
     .label = Mondo
 pending-crash-reports-always-send =
     .label = Ñemondo tapia
+# Variables:
+#   $reportCount (Number): the number of pending crash reports
+requested-crash-reports-message =
+    { $reportCount ->
+        [one] Ereko marandu’i jejavygua oho’ỹva umi jajavy ojehapykuehóva rehe, emondóramo ore pytyvõta iporãvévo { -brand-product-name }. Oñembotývo ko marandu’i omboykéta ko’ã marandu’i.
+       *[other] Ereko { $reportCount } marandu’i jejavygua oho’ỹva umi jajavy ojehapykuehóva rehe, emondóramo ore pytyvõta iporãvévo { -brand-product-name }. Oñembotývo ko marandu’i omboykéta ko’ã marandu’i.
+    }
 requested-crash-reports-dont-show-again =
     .label = Anive tohechauka
     .accesskey = D
