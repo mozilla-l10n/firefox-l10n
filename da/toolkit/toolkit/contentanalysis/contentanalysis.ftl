@@ -34,6 +34,10 @@ contentanalysis-operationtype-clipboard = udklipsholder
 contentanalysis-operationtype-dropped-text = sluppet tekst
 contentanalysis-operationtype-print = udskrift
 #   $filename - The filename associated with the request, such as "aFile.txt"
+contentanalysis-upload-description = upload af "{ $filename }"
+#   $filename - The filename associated with the request, such as "aFile.txt"
+contentanalysis-download-description = hentning af "{ $filename }"
+#   $filename - The filename associated with the request, such as "aFile.txt"
 contentanalysis-customdisplaystring-description = upload af "{ $filename }"
 contentanalysis-warndialogtitle = Dette indhold kan være usikkert
 # Variables:
@@ -76,6 +80,12 @@ contentanalysis-block-dialog-title-upload-file = Du har ikke tilladelse til at u
 #   $filename - Name of the file that was blocked, such as "aFile.txt"
 contentanalysis-block-dialog-body-upload-file =
     Din organisations politik for databeskyttelse tillader ikke, at du uploader filen "{ $filename }".
+    Kontakt din administrator for at få mere at vide.
+contentanalysis-block-dialog-title-download-file = Du har ikke tilladelse til at hente denne fil
+# Variables:
+#   $filename - Name of the file that was blocked, such as "aFile.txt"
+contentanalysis-block-dialog-body-download-file =
+    Din organisations politik for databeskyttelse tillader ikke, at du henter filen "{ $filename }".
     Kontakt din administrator for at få mere at vide.
 contentanalysis-block-dialog-title-clipboard = Du har ikke tilladelse til at indsætte dette indhold.
 contentanalysis-block-dialog-body-clipboard = Din organisations politik for databeskyttelse tillader ikke, at du indsætter dette indhold. Kontakt din administrator for at få mere at vide.

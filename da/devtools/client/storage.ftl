@@ -107,3 +107,11 @@ storage-idb-delete-blocked = Databasen { $dbName } bliver slettet, når alle for
 # Variables:
 #   $dbName (String) - Name of the database
 storage-idb-delete-error = Databasen { $dbName } kunne ikke slettes.
+# Error notification when cookie could not be created (e.g. because it's invalid).
+# Variables:
+#   $errorString (String) - Platform error message
+storage-cookie-create-error = Cookie kunne ikke oprettes: "{ $errorString }".
+# Error notification when cookie could not be edited (e.g. because it's invalid).
+# Variables:
+#   $errorString (String) - Platform error message
+storage-cookie-edit-error = Cookie kunne ikke opdateres: "{ $errorString }".
