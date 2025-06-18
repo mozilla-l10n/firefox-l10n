@@ -34,6 +34,10 @@ contentanalysis-operationtype-clipboard = kuatiajokoha
 contentanalysis-operationtype-dropped-text = moñe’ẽrã ho’áva
 contentanalysis-operationtype-print = Mbokuatia
 #   $filename - The filename associated with the request, such as "aFile.txt"
+contentanalysis-upload-description = “{ $filename }” ñemyanyhẽ
+#   $filename - The filename associated with the request, such as "aFile.txt"
+contentanalysis-download-description = “{ $filename }” ñemboguejy
+#   $filename - The filename associated with the request, such as "aFile.txt"
 contentanalysis-customdisplaystring-description = “{ $filename }” ñemyanyhẽ
 contentanalysis-warndialogtitle = Ko tetepy ikatu nahekorosãi
 # Variables:

@@ -185,6 +185,8 @@ media-capabilities-enumerate = Embopapapy mba’ekuaarã guapyha
 
 media-codec-support-sw-decoding = Software Jepapapy’o
 media-codec-support-hw-decoding = Hardware Jepapapy’o
+media-codec-support-sw-encoding = Software Mbopapapy
+media-codec-support-hw-encoding = Hardware Mbopapapy
 media-codec-support-codec-name = Codec Réra
 media-codec-support-supported = Pytyvõpyre
 media-codec-support-unsupported = Oñepytyvõ’ỹva
