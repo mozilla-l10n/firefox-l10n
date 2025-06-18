@@ -748,6 +748,46 @@ urlbar-result-action-calculator-result-3 = = { NUMBER($result, useGrouping: "fal
 # Variables
 #  $result (String): the string representation for a formula result
 urlbar-result-action-calculator-result-decimal = = { NUMBER($result, maximumSignificantDigits: 9) }
+# The title of a weather suggestion in the urlbar. The temperature and unit
+# substring should be inside a <strong> tag. If the temperature and unit are not
+# adjacent in the localization, it's OK to include only the temperature in the
+# tag.
+# Variables:
+#   $temperature (number) - The temperature value
+#   $unit (String) - The unit for the temperature, either "C" or "F"
+#   $city (String) - The name of the city the weather data is for
+#   $region (String) - The name of the city's region or country. Depending on
+#       the user's location in relation to the city, this may be the name or
+#       abbreviation of one of the city's administrative divisions like a
+#       province or state, or it may be the name of the city's country.
+urlbar-result-weather-title = { $city }, { $region } ᱨᱮ <strong>{ $temperature }°{ $unit }</strong>
+# The title of a weather suggestion in the urlbar including a region and
+# country. The temperature and unit substring should be inside a <strong> tag.
+# If the temperature and unit are not adjacent in the localization, it's OK to
+# include only the temperature in the tag.
+# Variables:
+#   $temperature (number) - The temperature value
+#   $unit (String) - The unit for the temperature, either "C" or "F"
+#   $city (String) - The name of the city the weather data is for
+#   $region (String) - The name or abbreviation of one of the city's
+#       administrative divisions like a province or state.
+#   $country (String) - The name of the city's country.
+urlbar-result-weather-title-with-country = { $city }, { $region }, { $country } ᱨᱮ <strong>{ $temperature }°{ $unit }</strong>
+# The title of a weather suggestion in the urlbar only including the city. The
+# temperature and unit substring should be inside a <strong> tag. If the
+# temperature and unit are not adjacent in the localization, it's OK to include
+# only the temperature in the tag.
+# Variables:
+#   $temperature (number) - The temperature value
+#   $unit (String) - The unit for the temperature, either "C" or "F"
+#   $city (String) - The name of the city the weather data is for
+urlbar-result-weather-title-city-only = { $city } ᱨᱮ <strong>{ $temperature }°{ $unit }</strong>
+# Shows the name of the provider of weather data in a weather suggestion in the
+# urlbar.
+# Variables:
+#   $provider (String) - The name of the weather-data provider. It will be the
+#       name of a company, organization, or service.
+urlbar-result-weather-provider-sponsored = { $provider } · ᱥᱯᱚᱱᱥᱚᱨ ᱟᱠᱟᱱ
 
 ## Strings used for buttons in the urlbar
 
@@ -830,6 +870,9 @@ urlbar-group-recent-searches =
 #  $engine (String): the name of the search engine providing the trending suggestions
 urlbar-group-trending =
     .label = { $engine } ᱨᱮ ᱴᱨᱮᱱᱰᱤᱝᱚᱜ ᱠᱟᱱᱟ
+# Label shown above sponsored suggestions in the urlbar results.
+urlbar-group-sponsored =
+    .label = ᱠᱟᱹᱢᱤᱼᱤᱭᱟᱹ
 # The result menu labels shown next to trending results.
 urlbar-result-menu-trending-dont-show =
     .label = ᱴᱨᱮᱱᱰᱤᱝ ᱥᱮᱸᱫᱽᱨᱟ ᱟᱞᱚᱢ ᱩᱫᱩᱜᱼᱟ
@@ -1026,6 +1069,9 @@ panel-save-update-password = ᱫᱟᱱᱟᱝ ᱥᱟᱵᱟᱫᱽ
 # "More" item in macOS share menu
 menu-share-more =
     .label = ᱟᱨᱦᱚᱸ…
+menu-share-copy-link =
+    .label = ᱞᱤᱝᱠ ᱱᱚᱠᱚᱞ ᱢᱮ
+    .accesskey = ᱞ
 ui-tour-info-panel-close =
     .tooltiptext = ᱵᱚᱸᱫ ᱢᱮ
 
@@ -1073,6 +1119,8 @@ navbar-accessible =
     .aria-label = ᱯᱟᱱᱛᱮ ᱚᱲᱟᱜ
 navbar-downloads =
     .label = ᱟᱹᱛᱩᱨ ᱟᱬᱜᱚ
+navbar-overflow-2 =
+    .tooltiptext = ᱵᱟᱹᱲᱛᱤ ᱦᱟᱹᱛᱤᱭᱟᱨ ᱠᱚ
 navbar-overflow =
     .tooltiptext = ᱵᱟᱹᱲᱛᱤ ᱴᱩᱞᱥ…
 # Variables:
@@ -1157,6 +1205,11 @@ unified-extensions-button-quarantined =
 ## Unified extensions button when some extensions are disabled (e.g. through add-ons blocklist).
 ## Note that the new line is intentionally part of the tooltip.
 
+unified-extensions-button-blocklisted =
+    .label = ᱮᱠᱥᱴᱮᱱᱥᱚᱱ
+    .tooltiptext =
+        ᱮᱠᱥᱴᱮᱱᱥᱚᱱ
+        ᱛᱤᱱᱟᱹᱜ ᱜᱟᱱ ᱮᱠᱥᱴᱮᱱᱥᱚᱱ ᱫᱚ ᱚᱠᱟᱹᱡᱽᱣᱟᱹ ᱜᱮᱭᱟ
 
 ## Private browsing reset button
 
@@ -1198,6 +1251,15 @@ popup-notification-addon-install-unsigned =
     .value = (ᱵᱟᱝ ᱧᱮᱞ ᱢᱤᱞᱟᱹᱣ)
 popup-notification-xpinstall-prompt-learn-more = ᱮᱰ-ᱚᱱ ᱵᱚᱦᱟᱞ ᱨᱩᱠᱷᱤᱭᱟᱹ ᱵᱟᱵᱚᱛ ᱰᱷᱮᱨ ᱥᱮᱬᱟᱭ ᱢᱮ
 popup-notification-xpinstall-prompt-block-url = ᱵᱤᱵᱨᱟᱬ ᱧᱮᱞ ᱢᱮ
+# Note: Access key is set to p to match "private" in the corresponding localized label.
+popup-notification-addon-privatebrowsing-checkbox2 =
+    .label = ᱯᱨᱟᱭᱣᱮᱴ ᱣᱤᱱᱰᱚᱣ ᱨᱮ ᱮᱠᱥᱴᱮᱱᱥᱚᱱ ᱪᱟᱹᱞᱩ ᱞᱟᱹᱜᱤᱫ ᱫᱟᱣ ᱮᱢᱚᱜ ᱢᱮ
+    .accesskey = ᱯ
+# This string is similar to `webext-perms-description-data-long-technicalAndInteraction`
+# but it is used in the install prompt, and it needs an access key.
+popup-notification-addon-technical-and-interaction-checkbox =
+    .label = ᱮᱠᱥᱴᱮᱱᱥᱚᱱ ᱰᱮᱵᱷᱞᱚᱯᱟᱨ ᱥᱟᱶ ᱴᱮᱠᱱᱤᱠᱟᱞ ᱟᱨ ᱤᱱᱴᱟᱨᱮᱠᱥᱚᱱ ᱰᱟᱴᱟ ᱦᱟᱹᱴᱤᱧ ᱢᱮ
+    .accesskey = ᱮ
 
 ## Pop-up warning
 
@@ -1256,3 +1318,6 @@ file-picker-crashed-show-in-folder =
 
 ## Onboarding Finish Setup checklist
 
+onboarding-checklist-button-label = ᱥᱮᱴᱟᱯ ᱪᱟᱵᱟᱭ ᱢᱮ
+onboarding-finish-setup-button-label =
+    .label = ᱥᱮᱴᱟᱯ ᱪᱟᱵᱟᱭ ᱢᱮ

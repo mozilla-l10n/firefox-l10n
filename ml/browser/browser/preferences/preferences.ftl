@@ -721,9 +721,19 @@ forms-ask-to-save-logins =
 # by searching for the former term "logins". It's not displayed in the UI.
 pane-privacy-passwords-header = ഒളിവാക്കുകൾ
     .searchkeywords = പ്രവേശനങ്ങൾ
+# Checkbox to control whether UI is shown to users to save or fill logins/passwords.
+forms-ask-to-save-passwords =
+    .label = ഒളിവാക്കുകളിലേക്കു് ചേൎക്കാൻ ആവശ്യപ്പെടുക
+    .accesskey = ആ
 forms-exceptions =
     .label = ഒഴിവാക്കേണ്ടവ…
     .accesskey = x
+forms-generate-passwords =
+    .label = കരുത്തുറ്റ ഒളിവാക്കുകളുണ്ടാക്കുക
+    .accesskey = ക
+forms-suggest-passwords =
+    .label = കരുത്തുറ്റ ഒളിവാക്കുകൾ നൽകുക
+    .accesskey = ന
 forms-breach-alerts-learn-more-link = കൂടുതല്‍ അറിയുക
 relay-integration-learn-more-link = കൂടുതല്‍ അറിയുക
 # Checkbox which controls filling saved logins into fields automatically when they appear, in some cases without user interaction.
@@ -733,6 +743,10 @@ forms-fill-logins-and-passwords =
 forms-saved-logins =
     .label = ശേഖരിച്ചിട്ടുള്ള പ്രവേശനങ്ങള്‍…
     .accesskey = L
+# Checkbox which controls filling saved logins into fields automatically when they appear, in some cases without user interaction.
+forms-fill-usernames-and-passwords =
+    .label = തന്നെതാനെ ഉപയോക്തൃപ്പേരുകളും ഒളിവാക്കുകളും പൂരിപ്പിക്കുക
+    .accesskey = പ
 forms-saved-passwords =
     .label = കരുതിവച്ച ഒളിവാക്കുകൾ
     .accesskey = ക

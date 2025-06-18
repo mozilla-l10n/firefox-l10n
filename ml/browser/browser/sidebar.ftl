@@ -4,6 +4,8 @@
 
 menu-view-genai-chat =
     .label = നിൎമിതബുദ്ധി സല്ലാപയന്ത്രമനുഷ്യൻ
+menu-view-contextual-password-manager =
+    .label = ഒളിവാക്കുകൾ
 sidebar-options-menu-button =
     .title = കുറിപ്പടികട്ട തുറക്കുക
 
@@ -72,6 +74,8 @@ sidebar-menu-bookmarks-label =
     .label = അടയാളക്കുറിപ്പുകള്‍
 sidebar-menu-customize-label =
     .label = അണിവക്കം ഇഷ്ടമ്പോലെയാക്കുക
+sidebar-menu-contextual-password-manager-label =
+    .label = ഒളിവാക്കുകൾ
 
 ## Tooltips for sidebar menu items.
 

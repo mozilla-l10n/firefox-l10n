@@ -86,10 +86,26 @@ contextual-manager-passwords-update-password-success-button = ᱦᱩᱭᱮᱱᱟ
 contextual-manager-passwords-delete-password-success-button = ᱦᱩᱭᱮᱱᱟ
 # This message is displayed to make sure that a user wants to delete an existing login.
 contextual-manager-passwords-remove-login-card-title = ᱫᱟᱱᱟᱝ ᱥᱟᱵᱟᱫᱽ ᱚᱪᱚᱜᱽᱟᱢ ᱥᱮ ?
+# This message gives the user an option to go back to the edit login form.
+contextual-manager-passwords-remove-login-card-back-message = ᱛᱟᱭᱚᱢ
 # This message confirms that the user wants to remove an existing login.
 contextual-manager-passwords-remove-login-card-remove-button = ᱚᱪᱚᱜᱽ
 # This message gives the user the option to cancel their attempt to remove a login.
 contextual-manager-passwords-remove-login-card-cancel-button = ᱵᱟᱹᱰᱨᱟᱹ
+contextual-manager-passwords-alert-card =
+    .aria-label = ᱫᱟᱱᱟᱝ ᱥᱟᱵᱟᱫ ᱤᱛᱞᱟᱹᱭ
+contextual-manager-passwords-alert-back-button =
+    .label = ᱛᱟᱭᱚᱢ
+contextual-manager-passwords-alert-list =
+    .aria-label = ᱤᱛᱞᱟᱹᱭ ᱞᱤᱥᱴᱤ
+contextual-manager-passwords-breached-origin-heading-and-message =
+    .heading = ᱫᱟᱱᱟᱝ ᱥᱟᱵᱟᱫ ᱵᱚᱫᱚᱞ ᱞᱟᱹᱜᱤᱫ ᱥᱚᱞᱦᱟ ᱮᱢ ᱟᱠᱟᱱᱟ
+    .message = ᱱᱚᱶᱟ ᱣᱮᱵᱽᱥᱟᱭᱤᱴ ᱨᱮᱭᱟᱜ ᱯᱟᱥᱣᱟᱨᱰ ᱠᱩᱢᱲᱩ ᱥᱮ ᱞᱤᱠ ᱨᱮᱭᱟᱜ ᱠᱷᱚᱵᱚᱨ ᱧᱟᱢ ᱟᱠᱟᱱᱟ ᱾ ᱟᱢᱟᱜ ᱮᱠᱟᱣᱩᱱᱴ ᱨᱩᱠᱷᱤᱭᱟᱹ ᱞᱟᱹᱜᱤᱫ ᱟᱢᱟᱜ ᱯᱟᱥᱣᱟᱨᱰ ᱵᱚᱫᱚᱞ ᱢᱮ᱾
+contextual-manager-passwords-breached-origin-link-message = ᱪᱤᱠᱟᱹᱛᱮ { -brand-product-name } ᱵᱽᱨᱤᱪ ᱵᱟᱵᱚᱛ ᱵᱟᱲᱟᱭᱟᱭ?
+contextual-manager-passwords-change-password-button = ᱫᱟᱱᱟᱝ ᱥᱟᱵᱟᱫ ᱵᱚᱫᱚᱞ ᱢᱮ
+contextual-manager-passwords-vulnerable-password-heading-and-message =
+    .heading = ᱫᱟᱱᱟᱝ ᱥᱟᱵᱟᱫ ᱵᱚᱫᱚᱞ ᱞᱟᱹᱜᱤᱫ ᱥᱚᱞᱦᱟ ᱮᱢ ᱟᱠᱟᱱᱟ
+    .message = ᱱᱚᱣᱟ ᱫᱟᱱᱟᱝ ᱥᱟᱵᱟᱫ ᱫᱚ ᱟᱞᱜᱟ ᱛᱮ ᱟᱴᱠᱟᱨ ᱜᱟᱱᱚᱜᱼᱟ ᱾ ᱟᱢᱟᱜ ᱮᱠᱟᱣᱩᱱᱴ ᱨᱩᱠᱷᱤᱭᱟᱹ ᱞᱟᱹᱜᱤᱫ ᱟᱢᱟᱜ ᱯᱟᱥᱣᱟᱨᱰ ᱵᱚᱫᱚᱞ ᱢᱮ ᱾
 
 ## Login Form
 
