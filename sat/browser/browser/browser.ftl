@@ -51,6 +51,65 @@ browser-main-window-title = { -brand-full-name }
 # The non-variable portion of this MUST match the translation of
 # "PRIVATE_BROWSING_SHORTCUT_TITLE" in custom.properties
 private-browsing-shortcut-text-2 = { -brand-shortcut-name } ᱱᱤᱡᱚᱨᱟᱜ ᱵᱽᱨᱟᱣᱡᱤᱝ
+# These are the default window titles everywhere except macOS.
+# .data-title-default and .data-title-private are used when the web content
+# opened has no title:
+#
+# default - "Mozilla Firefox"
+# private - "Mozilla Firefox (Private Browsing)"
+#
+# .data-content-title-default and .data-content-title-private are for use when
+# there *is* a content title.
+#
+# .data-title-default-with-profile, .data-title-private-with-profile,
+# .data-content-title-default-with-profile,
+# .data-content-title-private-with-profile are used when there a
+# SelectableProfileService.current profile exists.
+#
+# Variables:
+#  $content-title (String): the title of the web content.
+#  $profile-name (String): the name of the current profile.
+browser-main-window-titles =
+    .data-title-default = { -brand-full-name }
+    .data-title-private = { -brand-full-name } ᱯᱨᱟᱭᱣᱮᱴ ᱵᱽᱨᱟᱣᱩᱡᱤᱝ
+    .data-title-default-with-profile = { $profile-name } — { -brand-full-name }
+    .data-title-private-with-profile = { $profile-name } — { -brand-full-name } ᱯᱨᱟᱭᱣᱮᱴ ᱵᱽᱨᱟᱣᱩᱡᱤᱝ
+    .data-content-title-default = { $content-title } — { -brand-full-name }
+    .data-content-title-private = { $content-title } — { -brand-full-name } ᱯᱨᱟᱭᱣᱮᱴ ᱵᱽᱨᱟᱣᱩᱡᱤᱝ
+    .data-content-title-default-with-profile = { $content-title } — { $profile-name } — { -brand-full-name }
+    .data-content-title-private-with-profile = { $content-title } — { $profile-name } — { -brand-full-name } ᱯᱨᱟᱭᱣᱮᱴ ᱵᱽᱨᱟᱣᱩᱡᱤᱝ
+# These are the default window titles on macOS.
+# .data-title-default and .data-title-private are used when the web content
+# opened has no title:
+#
+#
+# "default" - "Mozilla Firefox"
+# "private" - "Mozilla Firefox — (Private Browsing)"
+#
+# .data-content-title-default and .data-content-title-private are for use when
+# there *is* a content title.
+# Do not use the brand name in these, as we do on non-macOS.
+#
+# .data-title-default-with-profile, .data-title-private-with-profile,
+# .data-content-title-default-with-profile,
+# .data-content-title-private-with-profile are used when there a
+# SelectableProfileService.current profile exists.
+#
+# Also note the other subtle difference here: we use a `-` to separate the
+# brand name from `(Private Browsing)`, which does not happen on other OSes.
+#
+# Variables:
+#  $content-title (String): the title of the web content.
+#  $profile-name (String): the name of the current profile.
+browser-main-window-titles-mac =
+    .data-title-default = { -brand-full-name }
+    .data-title-private = { -brand-full-name } — ᱯᱨᱟᱭᱣᱮᱴ ᱵᱽᱨᱟᱣᱩᱡᱤᱝ
+    .data-title-default-with-profile = { $profile-name } — { -brand-full-name }
+    .data-title-private-with-profile = { $profile-name } — { -brand-full-name } ᱯᱨᱟᱭᱣᱮᱴ ᱵᱽᱨᱟᱣᱩᱡᱤᱝ
+    .data-content-title-default = { $content-title }
+    .data-content-title-private = { $content-title } — ᱯᱨᱟᱭᱣᱮᱴ ᱵᱽᱨᱟᱣᱩᱡᱤᱝ
+    .data-content-title-default-with-profile = { $content-title } — { $profile-name }
+    .data-content-title-private-with-profile = { $content-title } — { $profile-name } — ᱯᱨᱟᱭᱣᱮᱴ ᱵᱽᱨᱟᱣᱩᱡᱤᱝ
 # This gets set as the initial title, and is overridden as soon as we start
 # updating the titlebar based on loaded tabs or private browsing state.
 # This should match the `data-title-default` attribute in both
@@ -128,6 +187,32 @@ urlbar-result-menu-remove-from-history =
 urlbar-result-menu-tip-get-help =
     .label = ᱜᱚᱲᱚ ᱤᱫᱤ ᱢᱮ
     .accesskey = h
+urlbar-result-menu-dismiss-suggestion =
+    .label = ᱱᱚᱣᱟ ᱥᱚᱞᱦᱟ ᱠᱷᱟᱨᱟᱯ ᱢᱮ
+    .accesskey = ᱱ
+urlbar-result-menu-learn-more-about-firefox-suggest =
+    .label = { -firefox-suggest-brand-name } ᱵᱟᱵᱚᱛ ᱵᱟᱹᱲᱛᱤ ᱵᱟᱲᱟᱭ ᱢᱮ
+    .accesskey = ᱵ
+urlbar-result-menu-manage-firefox-suggest =
+    .label = { -firefox-suggest-brand-name } ᱢᱮᱱᱮᱡ ᱢᱮ
+    .accesskey = ᱢ
+# Some urlbar suggestions show the user's approximate location as automatically
+# detected by Firefox (e.g., weather suggestions), and this menu item lets the
+# user tell Firefox that the location is not accurate. Typically the location
+# will be a city name, or a city name combined with the name of its parent
+# administrative division (e.g., a province, prefecture, or state).
+urlbar-result-menu-report-inaccurate-location =
+    .label = ᱵᱟᱝ ᱴᱷᱤᱠ ᱴᱷᱟᱶ ᱠᱷᱚᱵᱚᱨ ᱢᱮ
+urlbar-result-menu-show-less-frequently =
+    .label = ᱵᱟᱨᱭᱟ ᱵᱟᱨᱭᱟ ᱠᱚᱢ ᱩᱫᱩᱜ ᱢᱮ
+urlbar-result-menu-dont-show-weather-suggestions =
+    .label = ᱦᱚᱭ ᱦᱤᱥᱤᱫ ᱥᱚᱞᱦᱟ ᱟᱞᱚᱢ ᱩᱫᱩᱜᱼᱟ
+# A message shown in the urlbar when the user submits feedback on a suggestion
+# (e.g., it shows an inaccurate location, it's shown too often, etc.).
+urlbar-feedback-acknowledgment = ᱟᱢᱟᱜ ᱴᱤᱯᱚᱬᱤ ᱞᱟᱹᱜᱤᱫ ᱥᱟᱯᱲᱟᱣ
+# A message shown in the urlbar when the user dismisses weather suggestions.
+# Weather suggestions won't be shown at all anymore.
+urlbar-dismissal-acknowledgment-weather = ᱟᱢᱟᱜ ᱢᱚᱱᱚᱛ ᱞᱟᱹᱜᱤᱫ ᱥᱟᱨᱦᱟᱣ ᱾ ᱟᱢ ᱦᱚᱭ ᱦᱤᱥᱤᱫ ᱥᱚᱞᱦᱟ ᱟᱨ ᱵᱟᱢ ᱧᱮᱞ ᱧᱟᱢᱟ᱾
 
 ## Prompts users to use the Urlbar when they open a new tab or visit the
 ## homepage of their default search engine.
@@ -259,10 +344,17 @@ search-one-offs-actions =
 
 # Opens the about:addons page in the home / recommendations section
 quickactions-addons = ᱮᱰ-ᱚᱱ ᱧᱮᱞ ᱢᱮ
+# In English we provide multiple spellings for "add-ons". If that's not
+# applicable to your language, only use the correct spelling (don't repeat the
+# same word).
+quickactions-cmd-addons3 = ᱮᱠᱥᱴᱮᱱᱥᱚᱱ, ᱛᱷᱤᱢ, ᱮᱰᱰᱚᱱ, ᱮᱰ-ᱚᱱᱥ
 quickactions-cmd-addons2 = ᱮᱰ-ᱚᱱ ᱠᱚ
 # Opens the bookmarks library window
 quickactions-bookmarks2 = ᱵᱩᱠᱢᱟᱨᱠ ᱠᱚ ᱢᱮᱱᱮᱡᱽ ᱢᱮ
 quickactions-cmd-bookmarks = ᱵᱩᱠᱢᱟᱨᱠ ᱠᱚ
+# Opens a SUMO article explaining how to clear history
+quickactions-clearrecenthistory = ᱱᱤᱛᱚᱜᱼᱟᱜ ᱱᱟᱜᱟᱢ ᱯᱷᱟᱨᱪᱟᱭ ᱢᱮ
+quickactions-cmd-clearrecenthistory = ᱱᱤᱛᱚᱜᱼᱟᱜ ᱱᱟᱜᱟᱢ ᱯᱷᱟᱨᱪᱟᱭ ᱢᱮ, ᱱᱟᱜᱟᱢ
 # Opens a SUMO article explaining how to clear history
 quickactions-clearhistory = ᱦᱤᱛᱟᱹᱞ ᱯᱷᱟᱨᱪᱟᱭ ᱢᱮ
 quickactions-cmd-clearhistory = ᱦᱤᱛᱟᱹᱞ ᱯᱷᱟᱨᱪᱟᱭ ᱢᱮ
@@ -272,8 +364,18 @@ quickactions-cmd-downloads = ᱰᱟᱣᱱᱞᱚᱰ ᱠᱚ
 # Opens about:addons page in the extensions section
 quickactions-extensions = ᱮᱠᱮᱴᱮᱱᱮᱚᱱ ᱠᱚ ᱢᱮᱱᱟᱡᱽ ᱢᱮ
 quickactions-cmd-extensions = ᱮᱠᱥᱴᱮᱱᱥᱚᱱ ᱠᱚ
+# Opens Firefox View
+quickactions-firefoxview = { -firefoxview-brand-name } ᱡᱷᱤᱡᱽ ᱢᱮ
+# English is using "view" and "open view", since the feature name is
+# "Firefox View". If you have translated the name in your language, you
+# should use a word related to the existing translation.
+quickactions-cmd-firefoxview = { -firefoxview-brand-name } ᱡᱷᱤᱡᱽ ᱢᱮ, { -firefoxview-brand-name }, ᱡᱷᱤᱡ ᱧᱮᱞ, ᱧᱮᱞ
+# Opens SUMO home page
+quickactions-help = { -brand-product-name } ᱜᱚᱲᱚ
+quickactions-cmd-help = ᱜᱚᱲᱚ, ᱜᱚᱲᱚ
 # Opens the devtools web inspector
 quickactions-inspector2 = ᱰᱮᱵᱷᱞᱚᱯᱚᱨ ᱦᱟᱹᱛᱷᱤᱭᱟᱹᱨ ᱠᱚ ᱡᱷᱤᱡᱽ ᱢᱮ
+quickactions-cmd-inspector2 = ᱤᱱᱥᱯᱮᱠᱴᱚᱨ, ᱫᱮᱣ ᱴᱩᱞᱥ, ᱫᱮᱣ ᱴᱩᱞᱥ
 quickactions-cmd-inspector = ᱤᱱᱥᱯᱮᱠᱴᱚᱨ, ᱰᱮᱣᱦᱟᱹᱛᱤᱭᱟᱨ ᱠᱚ
 # Opens about:logins
 quickactions-logins2 = ᱫᱟᱱᱟᱝ ᱥᱟᱵᱟᱫ ᱢᱮᱱᱮᱡᱽ ᱢᱮ
@@ -286,6 +388,7 @@ quickactions-print2 = ᱥᱟᱦᱴᱟ ᱪᱷᱟᱯᱟᱭ ᱢᱮ
 quickactions-cmd-print = ᱪᱷᱟᱯᱟ
 # Opens the print dialog at the save to PDF option
 quickactions-savepdf = PDF ᱞᱮᱠᱟ ᱥᱟᱦᱴᱟ ᱥᱟᱺᱪᱟᱣ ᱢᱮ
+quickactions-cmd-savepdf2 = pdf, ᱥᱟᱦᱴᱟ ᱥᱟᱧᱪᱟᱣ ᱢᱮ
 quickactions-cmd-savepdf = pdf
 # Opens a new private browsing window
 quickactions-private2 = ᱯᱨᱟᱭᱣᱮᱴ ᱣᱤᱱᱰᱳ ᱡᱷᱤᱡᱽ ᱢᱮ
@@ -298,9 +401,12 @@ quickactions-restart = { -brand-short-name } ᱫᱩᱦᱲᱟᱹ ᱮᱦᱚᱵ ᱢ
 quickactions-cmd-restart = ᱫᱚᱦᱲᱟ ᱮᱦᱚᱵ
 # Opens the screenshot tool
 quickactions-screenshot3 = ᱢᱤᱫᱴᱟᱝ ᱥᱠᱨᱤᱱᱥᱚᱴ ᱤᱫᱤᱢᱮ
+quickactions-cmd-screenshot2 = ᱥᱠᱨᱤᱱ ᱥᱚᱴ, ᱢᱤᱫ ᱥᱠᱨᱤᱱ ᱥᱚᱴ ᱦᱟᱛᱟᱣ ᱢᱮ
 quickactions-cmd-screenshot = ᱥᱠᱨᱤᱱᱥᱚᱴ
 # Opens about:preferences
 quickactions-settings2 = ᱥᱟᱡᱟᱣ ᱠᱚ ᱢᱮᱱᱮᱡᱽ ᱢᱮ
+# "manage" should match the corresponding command, which is “Manage settings” in English.
+quickactions-cmd-settings2 = ᱥᱟᱡᱟᱣ ᱠᱚ, ᱠᱩᱥᱤᱭᱟᱜ ᱠᱚ, ᱢᱚᱱᱮ ᱛᱮᱭᱟᱜ ᱠᱚ, ᱢᱮᱱᱮᱡᱽ ᱢᱮ
 quickactions-cmd-settings = ᱥᱟᱡᱟᱣ ᱠᱚ, ᱠᱩᱥᱤᱭᱟᱜ ᱠᱚ, ᱢᱚᱱᱮ ᱛᱮᱭᱟᱜ ᱠᱚ
 # Opens about:addons page in the themes section
 quickactions-themes = ᱛᱷᱤᱢ ᱢᱮᱱᱮᱡᱽ ᱢᱮ
@@ -310,10 +416,15 @@ quickactions-update = { -brand-short-name } ᱦᱟᱹᱞᱤᱭᱟᱠ ᱢᱮ
 quickactions-cmd-update = ᱦᱟᱹᱞᱤᱭᱟᱹᱠ
 # Opens the view-source UI with current pages source
 quickactions-viewsource2 = ᱥᱟᱦᱴᱟ ᱢᱩᱞ ᱧᱮᱞ ᱢᱮ
+quickactions-cmd-viewsource2 = ᱥᱨᱚᱛ ᱧᱮᱞ ᱢᱮ, ᱥᱨᱚᱛ, ᱥᱟᱦᱴᱟ ᱥᱨᱚᱛ
 quickactions-cmd-viewsource = ᱥᱨᱚᱛ ᱧᱮᱞ ᱢᱮ, ᱥᱨᱚᱛ
 # Tooltip text for the help button shown in the result.
 quickactions-learn-more =
     .title = ᱞᱚᱜᱚᱱ ᱠᱟᱹᱢᱤ ᱦᱚᱨᱟ ᱠᱚ ᱵᱟᱵᱚᱫ ᱵᱟᱲᱛᱤ ᱪᱮᱫ ᱢᱮ
+# Will be shown to users the first configurable number of times
+# they experience actions giving them instructions on how to
+# select the action shown by pressing the tab key.
+press-tab-label = ᱵᱟᱪᱷᱟᱣ ᱞᱟᱹᱜᱤᱫ ᱴᱮᱵᱽ ᱞᱤᱱ ᱢᱮ :
 
 ## Bookmark Panel
 
@@ -587,6 +698,8 @@ urlbar-result-action-visit = ᱦᱤᱨᱤ
 # Variables
 # $container (String): the name of the target container
 urlbar-result-action-switch-tab-with-container = <span>{ $container }</span> · ᱴᱮᱵᱽ ᱨᱮ ᱵᱚᱫᱚᱞ ᱢᱮ
+# Used when the target tab is in a tab group that doesn't have a label.
+urlbar-result-action-tab-group-unnamed = ᱵᱤᱱ ᱧᱩᱛᱩᱢ ᱜᱟᱫᱮᱞ
 # Allows the user to visit a URL that was previously copied to the clipboard.
 urlbar-result-action-visit-from-clipboard = ᱨᱮᱴᱚᱯᱵᱚᱰ ᱠᱷᱚᱱ ᱪᱟᱞᱟᱜ ᱢᱮ
 # Directs a user to press the Tab key to perform a search with the specified
@@ -616,6 +729,25 @@ urlbar-result-action-copy-to-clipboard = ᱱᱚᱠᱚᱞ
 # Variables
 #  $result (String): the string representation for a formula result
 urlbar-result-action-calculator-result = = { $result }
+# The string returned for an undefined calculator result such as when dividing by 0
+urlbar-result-action-undefined-calculator-result = ᱵᱟᱝ ᱩᱱᱩᱫᱩᱜ
+# Shows the result of a formula expression being calculated, in scientific notation.
+# The last = sign will be shown as part of the result (e.g. "= 1.0e17").
+# Variables
+#  $result (String): the string representation for a result in scientific notation
+#  (e.g. "1.0e17").
+urlbar-result-action-calculator-result-scientific-notation = = { $result }
+# Shows the result of a formula expression being calculated, this is used for numbers >= 1.
+# The last = sign will be shown as part of the result (e.g. "= 2").
+# Variables
+#  $result (String): the string representation for a formula result
+urlbar-result-action-calculator-result-3 = = { NUMBER($result, useGrouping: "false", maximumFractionDigits: 8) }
+# Shows the result of a formula expression being calculated, to a maximum of 9 significant
+# digits. This is used for numbers < 1.
+# The last = sign will be shown as part of the result (e.g. "= 0.333333333").
+# Variables
+#  $result (String): the string representation for a formula result
+urlbar-result-action-calculator-result-decimal = = { NUMBER($result, maximumSignificantDigits: 9) }
 
 ## Strings used for buttons in the urlbar
 
@@ -666,6 +798,12 @@ urlbar-result-action-search-bookmarks = ᱵᱩᱠᱢᱟᱨᱠ ᱠᱚ ᱥᱮᱸ�
 urlbar-result-action-search-history = ᱥᱮᱸᱫᱽᱨᱟ ᱱᱟᱜᱟᱢ ᱠᱚ
 urlbar-result-action-search-tabs = ᱴᱮᱵᱽ ᱠᱚ ᱥᱮᱸᱫᱽᱨᱟᱭ ᱢᱮ
 urlbar-result-action-search-actions = ᱥᱮᱸᱫᱽᱨᱟ ᱠᱟᱹᱢᱤ ᱠᱚ :
+# Label for a quickaction result used to switch to an open tab group.
+#  $group (String): the name of the tab group to switch to
+urlbar-result-action-switch-to-tabgroup = { $group } ᱨᱮ ᱵᱚᱫᱚᱞ ᱢᱮ
+# Label for a quickaction result used to re-opan a saved tab group.
+#  $group (String): the name of the tab group to re-open
+urlbar-result-action-open-saved-tabgroup = { $group } ᱡᱷᱤᱡᱽ ᱢᱮ
 
 ## Labels shown above groups of urlbar results
 

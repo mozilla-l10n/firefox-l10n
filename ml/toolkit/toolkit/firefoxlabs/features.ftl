@@ -5,3 +5,6 @@
 # Search during IME
 experimental-features-ime-search =
     .label = വിലാസപ്പട്ട: IME ഉണ്ടാക്കലിൽ ഫലങ്ങൾ കാണിക്കുക
+# Contextual Password Manager in sidebar
+experimental-features-contextual-password-manager =
+    .label = അണിവക്കത്തിൽ ഒളിവാക്കുകൾ
