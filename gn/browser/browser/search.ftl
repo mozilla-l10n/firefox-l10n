@@ -38,6 +38,7 @@ remove-search-engine-button = MONEĨ
 ## Variables
 ## $newEngine (String) - the name of the new default search engine.
 
+reset-search-settings-message = Oguereko rupi peteĩ apañuái, pe jehekaha ypyguáva iñambue jey { $newEngine }-pe. Emoambue hag̃ua pe jehekaha ypyguáva, eike moĩporãhápe.
 reset-search-settings-button = MONEĨ
 
 ## Infobar shown when user is prompted to install search engine.

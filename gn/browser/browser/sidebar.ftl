@@ -125,6 +125,8 @@ sidebar-menu-customize-label =
     .label = Embohéra ta’ãngarupa ykegua
 sidebar-menu-contextual-password-manager-label =
     .label = Ñe’ẽñemi
+sidebar-menu-more-tools-label =
+    .label = Heta tembiporu
 
 ## Tooltips for sidebar menu items.
 
