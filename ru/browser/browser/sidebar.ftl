@@ -125,6 +125,8 @@ sidebar-menu-customize-label =
     .label = Настройка боковой панели
 sidebar-menu-contextual-password-manager-label =
     .label = Пароли
+sidebar-menu-more-tools-label =
+    .label = Другие инструменты
 
 ## Tooltips for sidebar menu items.
 

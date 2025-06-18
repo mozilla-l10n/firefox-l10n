@@ -107,3 +107,7 @@ storage-idb-delete-blocked = База данных «{ $dbName }» будет у
 # Variables:
 #   $dbName (String) - Name of the database
 storage-idb-delete-error = База данных «{ $dbName }» не может быть удалена.
+# Error notification when cookie could not be created (e.g. because it's invalid).
+# Variables:
+#   $errorString (String) - Platform error message
+storage-cookie-create-error = Не удалось создать куку: «{ $errorString }».

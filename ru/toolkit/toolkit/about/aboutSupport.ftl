@@ -185,6 +185,8 @@ media-capabilities-enumerate = Вывести записи из базы дан�
 
 media-codec-support-sw-decoding = Программное декодирование
 media-codec-support-hw-decoding = Аппаратное декодирование
+media-codec-support-sw-encoding = Программное кодирование
+media-codec-support-hw-encoding = Аппаратное кодирование
 media-codec-support-codec-name = Название кодека
 media-codec-support-supported = Поддерживается
 media-codec-support-unsupported = Не поддерживается
