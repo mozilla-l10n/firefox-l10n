@@ -107,3 +107,11 @@ storage-idb-delete-blocked = Mba’ekuaarã renda “{ $dbName }” oguepáta o�
 # Variables:
 #   $dbName (String) - Name of the database
 storage-idb-delete-error = Mba’ekuaarã renda “{ $dbName }” ndoguetekuaái.
+# Error notification when cookie could not be created (e.g. because it's invalid).
+# Variables:
+#   $errorString (String) - Platform error message
+storage-cookie-create-error = Ndaikatúi emoheñói kookie: “{ $errorString }”.
+# Error notification when cookie could not be edited (e.g. because it's invalid).
+# Variables:
+#   $errorString (String) - Platform error message
+storage-cookie-edit-error = Ndaikatúi embohekopyahu kookie: “{ $errorString }”.
