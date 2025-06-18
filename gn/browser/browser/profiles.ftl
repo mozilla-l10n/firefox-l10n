@@ -122,6 +122,8 @@ shopping-avatar-alt =
     .alt = Mba’yruguata’i jejoguaha
 star-avatar-alt =
     .alt = Mbyja
+custom-avatar-alt =
+    .alt = Avatar mboavapyre
 
 ## Labels for default avatar icons
 
