@@ -106,11 +106,18 @@ contextual-manager-passwords-change-password-button = ᱫᱟᱱᱟᱝ ᱥᱟᱵ�
 contextual-manager-passwords-vulnerable-password-heading-and-message =
     .heading = ᱫᱟᱱᱟᱝ ᱥᱟᱵᱟᱫ ᱵᱚᱫᱚᱞ ᱞᱟᱹᱜᱤᱫ ᱥᱚᱞᱦᱟ ᱮᱢ ᱟᱠᱟᱱᱟ
     .message = ᱱᱚᱣᱟ ᱫᱟᱱᱟᱝ ᱥᱟᱵᱟᱫ ᱫᱚ ᱟᱞᱜᱟ ᱛᱮ ᱟᱴᱠᱟᱨ ᱜᱟᱱᱚᱜᱼᱟ ᱾ ᱟᱢᱟᱜ ᱮᱠᱟᱣᱩᱱᱴ ᱨᱩᱠᱷᱤᱭᱟᱹ ᱞᱟᱹᱜᱤᱫ ᱟᱢᱟᱜ ᱯᱟᱥᱣᱟᱨᱰ ᱵᱚᱫᱚᱞ ᱢᱮ ᱾
+contextual-manager-passwords-vulnerable-password-link-message = ᱪᱤᱠᱟᱹᱛᱮ { -brand-product-name } ᱫᱩᱨᱵᱩᱨ ᱫᱟᱱᱟᱝ ᱥᱟᱵᱟᱫᱽ ᱵᱟᱵᱚᱛ ᱵᱟᱲᱟᱭᱟᱭ ?
+contextual-manager-passwords-no-username-heading-and-message =
+    .heading = ᱢᱤᱫ ᱵᱮᱵᱷᱟᱨᱤᱭᱟᱹ ᱧᱩᱛᱩᱢ ᱥᱮᱞᱮᱫ ᱢᱮ
+    .message = ᱞᱚᱜᱚᱱ ᱥᱟᱭᱤᱱ ᱞᱟᱹᱜᱤᱫ ᱢᱤᱫ ᱥᱮᱞᱮᱫ ᱢᱮ ᱾
+contextual-manager-passwords-add-username-button = ᱵᱮᱵᱷᱟᱨᱤᱭᱟᱹ ᱧᱩᱛᱩᱢ ᱥᱮᱞᱮᱫ ᱢᱮ
 
 ## Login Form
 
 contextual-manager-passwords-create-label =
     .label = ᱫᱟᱱᱟᱝ ᱥᱟᱵᱟᱫᱽ ᱥᱮᱞᱮᱫ ᱢᱮ
+contextual-manager-passwords-edit-label =
+    .label = ᱫᱟᱱᱟᱝ ᱥᱟᱵᱟᱫᱽ ᱥᱟᱯᱲᱟᱣ ᱢᱮ
 
 ## Password Card
 
