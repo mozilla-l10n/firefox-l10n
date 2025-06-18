@@ -3,26 +3,25 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 aboutDialog-title =
-    .title = { -brand-full-name } பற்றி
+    .title = { -brand-full-name } அறிமுகம்
 releaseNotes-link = புதியவைகள்
 update-checkForUpdatesButton =
-    .label = புதியவை உள்ளதா எனப்பார்
+    .label = புதிய பதிப்பு உள்ளதா எனப் பாருங்கள்
     .accesskey = C
 update-updateButton =
-    .label = { -brand-shorter-name } புதுப்பிக்க மீள்துவக்கு
+    .label = { -brand-shorter-name } புதுப்பிக்க மீள் துவக்கு
     .accesskey = R
-update-checkingForUpdates = புதுப்பித்தல்களுக்கு சரிபார்க்கிறது…
+update-checkingForUpdates = புதிய பதிப்பு உள்ளதா எனப் பார்க்கிறது…
 
 ## Variables:
 ##   $transfer (string) - Transfer progress.
 
-settings-update-downloading = <img data-l10n-name="icon"/>புதுப்பித்தல்களைப் பதிவிறக்குகிறது — <label data-l10n-name="download-status">{ $transfer }</label>
+settings-update-downloading = <img data-l10n-name="icon"/>புதிய பதிப்புகளைப் பதிவிறக்குகிறது — <label data-l10n-name="download-status">{ $transfer }</label>
 aboutdialog-update-downloading = புதுப்பிப்பைப் பதிவிறக்குகிறது — <label data-l10n-name="download-status">{ $transfer }</label>
 
 ##
 
-update-applying = மேம்படுத்தலை செயல்படுத்துகிறது...
-update-failed = புதுப்பித்தல் தோல்வியுற்றது. <label data-l10n-name="failed-link">சமீபத்திய பதிப்பைப் பதிவிறக்கவும்</label>
+update-applying = புதுப்பிப்பைப் செயல்படுத்துகிறது…
 update-failed-main = புதுப்பித்தல் தோல்வியுற்றது. <a data-l10n-name="failed-link-main">சமீபத்திய பதிப்பைப் பதிவிறக்கவும்</a>
 update-adminDisabled = புதுப்பித்தல்கள் உங்கள் கணினி நிர்வாகி மூலம் செயல்நீக்கப்பட்டுள்ளன
 update-noUpdatesFound = { -brand-short-name } புத்தம் புதியது
