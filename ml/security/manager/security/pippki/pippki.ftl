@@ -2,20 +2,20 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-password-quality-meter = രഹസ്യവാക്കിന്റെ നിലവാരം
+password-quality-meter = ഒളിവാക്കിന്റെ നിലവാരം
 
 ## Change Password dialog
 
 change-device-password-window =
-    .title = രഹസ്യവാക്കു് മാറ്റുക
+    .title = ഒളിവാക്കു് മാറ്റുക
 # Variables:
 # $tokenName (String) - Security device of the change password dialog
 change-password-token = സുരക്ഷ ഉപകരണങ്ങള്‍: { $tokenName }
-change-password-old = നിലവിലുള്ള രഹസ്യവാക്കു്:
-change-password-new = പുതിയ രഹസ്യവാക്കു്:
-change-password-reenter = പുതിയ രഹസ്യവാക്കു് (വീണ്ടും):
-pippki-failed-pw-change = രഹസ്യവാക്കു് മാറ്റുവാൻ പറ്റുന്നില്ല
-pippki-pw-erased-ok = താങ്ങൾ താങ്ങളുടെ രഹസ്യവാക്കെ മായ്ചു. { pippki-pw-empty-warning }
+change-password-old = നിലവിലുള്ള ഒളിവാക്കു്:
+change-password-new = പുതിയ ഒളിവാക്കു്:
+change-password-reenter = പുതിയ ഒളിവാക്കു് (വീണ്ടും):
+pippki-failed-pw-change = ഒളിവാക്കു് മാറ്റുവാൻ പറ്റുന്നില്ല
+pippki-pw-erased-ok = താങ്ങൾ താങ്ങളുടെ ഒളിവാക്കെ മായ്ചു. { pippki-pw-empty-warning }
 
 ## Reset Primary Password dialog
 

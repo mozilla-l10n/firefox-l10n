@@ -5,7 +5,7 @@
 tabmodalprompt-username =
     .value = ഉപയോക്തൃപ്പേരു്:
 tabmodalprompt-password =
-    .value = രഹസ്യവാക്കു്:
+    .value = ഒളിവാക്കു്:
 tabmodalprompt-ok-button =
     .label = ശരി
 tabmodalprompt-cancel-button =

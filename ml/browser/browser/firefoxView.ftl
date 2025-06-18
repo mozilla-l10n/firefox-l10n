@@ -55,9 +55,9 @@ firefoxview-tabpickup-sync-error-header = സമന്വയിപ്പിക�
 firefoxview-tabpickup-sync-error-primarybutton = വീണ്ടും ശ്രമിയ്ക്കുക
 firefoxview-tabpickup-sync-disconnected-header = തുടരാൻ വേണ്ടി സമന്വയം തുടങ്ങിവയ്ക്കുക
 firefoxview-tabpickup-sync-disconnected-primarybutton = ക്രമീകരണങ്ങളിൽ സമന്വയത്തിനെ തുടങ്ങിവയ്ക്കുക
-firefoxview-tabpickup-password-locked-header = ടാബുകൾ കാണാൻ താങ്ങളുടെ ഒന്നാമത്തെ രഹസ്യവാക്കു് നൽകുക
+firefoxview-tabpickup-password-locked-header = ടാബുകൾ കാണാൻ താങ്ങളുടെ ഒന്നാമത്തെ ഒളിവാക്കു് നൽകുക
 firefoxview-tabpickup-password-locked-link = കൂടുതലറിയുക
-firefoxview-tabpickup-password-locked-primarybutton = പ്രധാനരഹസ്യവാക്കു് നല്കുക
+firefoxview-tabpickup-password-locked-primarybutton = പ്രധാനഒളിവാക്കു് നല്കുക
 firefoxview-syncedtab-password-locked-link = <a data-l10n-name="syncedtab-password-locked-link">കൂടുതൽ അറിയുക</a>
 firefoxview-tabpickup-signed-out-header = വീണ്ടും ബന്ധിപ്പിക്കുന്നതിന് പ്രവേശിക്കുക
 firefoxview-tabpickup-signed-out-primarybutton = പ്രവേശിക്കുക

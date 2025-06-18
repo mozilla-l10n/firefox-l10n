@@ -26,7 +26,7 @@ appmenuitem-history =
 appmenuitem-downloads =
     .label = ഇറക്കിവയ്ക്കലുകൾ
 appmenuitem-passwords =
-    .label = രഹസ്യവാക്കുകൾ
+    .label = ഒളിവാക്കുകൾ
 appmenuitem-extensions-and-themes =
     .label = വിപുലീകരണങ്ങളും അലങ്കാരങ്ങളും
 appmenuitem-extensions =
@@ -116,7 +116,7 @@ appmenu-fxa-setup-sync-new = തുടങ്ങി വയ്ക്കുക
 appmenuitem-save-page =
     .label = താള്‍ ഇങ്ങനെ സൂക്ഷിക്കുക
 appmenuitem-fxa-sync-off-title = സമന്വയം അണച്ചിരിക്കുന്നു
-appmenuitem-fxa-sync-off-description = താങ്കളുടെ അടയാളക്കുറിപ്പുകളും രഹസ്യവാക്കുകളും തുടങ്ങിയവ എല്ലായിടത്തും നിന്നു് ലഭ്യമാക്കുന്നു
+appmenuitem-fxa-sync-off-description = താങ്കളുടെ അടയാളക്കുറിപ്പുകളും ഒളിവാക്കുകളും തുടങ്ങിയവ എല്ലായിടത്തും നിന്നു് ലഭ്യമാക്കുന്നു
 
 ## What's New panel in App menu.
 

@@ -35,7 +35,7 @@ migration-wizard-migrator-display-name-chromium-edge = മൈക്രോസോ�
 migration-wizard-migrator-display-name-chromium-edge-beta = മൈക്രോസോഫ്റ്റ് എഡ്ജ് ബീറ്റ
 migration-wizard-migrator-display-name-edge-legacy = മൈക്രോസോഫ്റ്റ് എഡ്ജ് ലെഗസി
 migration-wizard-migrator-display-name-firefox = Firefox
-migration-wizard-migrator-display-name-file-password-csv = CSV ഫയലിൽ നിന്നുള്ള രഹസ്യവാക്കുകൾ
+migration-wizard-migrator-display-name-file-password-csv = CSV ഫയലിൽ നിന്നുള്ള ഒളിവാക്കുകൾ
 migration-wizard-migrator-display-name-file-bookmarks = HTML ഫയലിൽ നിന്നുള്ള അടയാളക്കുറിപ്പുകൾ
 migration-wizard-migrator-display-name-ie = മൈക്രൊസോഫ്റ്റ്‌ ഇന്റര്‍നെറ്റ്‌ എക്സ്പ്ലോറര്‍
 migration-wizard-migrator-display-name-opera = Opera
@@ -67,8 +67,8 @@ migration-bookmarks-option-label = അടയാളക്കുറിപ്പു
 # Favorites is used for Bookmarks when importing from Internet Explorer or
 # Edge, as this is the terminology for bookmarks on those browsers.
 migration-favorites-option-label = പ്രിയപ്പെട്ടവ
-migration-logins-and-passwords-option-label = കരുതിവച്ച രഹസ്യവാക്കുകളും പ്രവേശിക്കലുകളും
-migration-passwords-option-label = കരുതിവച്ച രഹസ്യവാക്കുകൾ
+migration-logins-and-passwords-option-label = കരുതിവച്ച ഒളിവാക്കുകളും പ്രവേശിക്കലുകളും
+migration-passwords-option-label = കരുതിവച്ച ഒളിവാക്കുകൾ
 migration-history-option-label = പരതൽ നാൾവഴി
 migration-extensions-option-label = വിപുലീകരണങ്ങൾ
 migration-form-autofill-option-label = താനെപ്പൂരിപ്പിക്കൽ ഡാറ്റ
@@ -76,12 +76,12 @@ migration-payment-methods-option-label = പണമടക്കൽ മുറക�
 migration-cookies-option-label = കുക്കികള്‍
 migration-session-option-label = ടാബുകളും ജാലകങ്ങളും
 migration-otherdata-option-label = മറ്റു വിവരങ്ങള്‍
-migration-passwords-from-file-progress-header = രഹസ്യവാക്കുഫയലിനു് ഇറക്കുമതിക്കുക
-migration-passwords-from-file-success-header = രഹസ്യവാക്കുകളെ വിജയകരമായി ഇറക്കുമതിച്ചു
-migration-passwords-from-file = രഹസ്യവാക്കുകൾക്കായി ഫയൽ പരിശോധിക്കുന്നു
-migration-passwords-new = പുതിയ രഹസ്യവാക്കുകൾ
-migration-passwords-updated = നിലവിലുള്ള രഹസ്യവാക്കുകൾ
-migration-passwords-from-file-picker-title = രഹസ്യവാക്കുഫയലിനു് ഇറക്കുമതിക്കുക
+migration-passwords-from-file-progress-header = ഒളിവാക്കുഫയലിനു് ഇറക്കുമതിക്കുക
+migration-passwords-from-file-success-header = ഒളിവാക്കുകളെ വിജയകരമായി ഇറക്കുമതിച്ചു
+migration-passwords-from-file = ഒളിവാക്കുകൾക്കായി ഫയൽ പരിശോധിക്കുന്നു
+migration-passwords-new = പുതിയ ഒളിവാക്കുകൾ
+migration-passwords-updated = നിലവിലുള്ള ഒളിവാക്കുകൾ
+migration-passwords-from-file-picker-title = ഒളിവാക്കുഫയലിനു് ഇറക്കുമതിക്കുക
 # A description for the .csv file format that may be shown as the file type
 # filter by the operating system.
 migration-passwords-from-file-csv-filter-title =
@@ -158,7 +158,7 @@ migration-list-bookmark-label = അടയാളക്കുറിപ്പുക
 # “favorites” refers to bookmarks in Edge and Internet Explorer. Use the same terminology
 # if the browser is available in your language.
 migration-list-favorites-label = പ്രിയപ്പെട്ടതു്
-migration-list-password-label = രഹസ്യവാക്കുകൾ
+migration-list-password-label = ഒളിവാക്കുകൾ
 migration-list-history-label = നാള്‍വഴി
 migration-list-extensions-label = വിപുലീകരണങ്ങൾ
 migration-list-autofill-label = താനെപ്പൂരിപ്പിക്കൽ ഡാറ്റ
@@ -179,9 +179,9 @@ migration-wizard-progress-icon-in-progress =
     .aria-label = ഇറക്കുമതിച്ചുകൊണ്ടിരിക്കുന്നു…
 migration-wizard-progress-icon-completed =
     .aria-label = കഴിഞ്ഞു
-migration-safari-password-import-header = സഫാരിയിൽ നിന്നു് രഹസ്യവാക്കുകളെ ഇറക്കുമതിക്കുക
-migration-safari-password-import-steps-header = സഫാരി രഹസ്യവാക്കുകളെ ഇറക്കുമതിക്കാൻ
-migration-safari-password-import-step3 = രഹസ്യവാക്കുഫയലിനെ കരുതിവയ്ക്കുക
+migration-safari-password-import-header = സഫാരിയിൽ നിന്നു് ഒളിവാക്കുകളെ ഇറക്കുമതിക്കുക
+migration-safari-password-import-steps-header = സഫാരി ഒളിവാക്കുകളെ ഇറക്കുമതിക്കാൻ
+migration-safari-password-import-step3 = ഒളിവാക്കുഫയലിനെ കരുതിവയ്ക്കുക
 migration-chrome-windows-password-import-steps-header = ക്രോമിൽ:
 migration-manual-password-import-skip-button = ഒഴിവാക്കുക
 migration-manual-password-import-select-button = ഫയൽ തിരഞ്ഞെടുക്കുക
@@ -245,8 +245,8 @@ migration-wizard-progress-extensions-addons-link = { -brand-short-name }-ഇന�
 #  $quantity (Number): the number of successfully imported passwords
 migration-wizard-progress-success-passwords =
     { $quantity ->
-        [one] { $quantity } രഹസ്യവാക്കു്
-       *[other] { $quantity } രഹസ്യവാക്കുകൾ
+        [one] { $quantity } ഒളിവാക്കു്
+       *[other] { $quantity } ഒളിവാക്കുകൾ
     }
 # Shown in the migration wizard after importing payment methods from another
 # browser has completed.

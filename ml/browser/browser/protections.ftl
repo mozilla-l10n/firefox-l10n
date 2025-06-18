@@ -31,20 +31,20 @@ fingerprinter-tab-title = വിരലടയാളപ്പിന്തുടൎ
 protections-close-button2 =
     .aria-label = അടയ്ക്കുക
     .title = അടയ്ക്കുക
-lockwise-title = ഇനി ഒരിക്കലുമൊരു രഹസ്യവാക്കു് ഓൎത്തുവയ്ക്കാൻ ആവിശ്യമില്ല
-passwords-title-logged-in = രഹസ്യവാക്കുകളുടെ കൈകാര്യം ചെയ്യുക
-protection-report-passwords-save-passwords-button = രഹസ്യവാക്കുകൾ കരുതിവയ്ക്കുക
-    .title = രഹസ്യവാക്കുകൾ കരുതിവയ്ക്കുക
-protection-report-passwords-manage-passwords-button = രഹസ്യവാക്കുകളുടെ കൈകാര്യം ചെയ്യുക
-    .title = രഹസ്യവാക്കുകളുടെ കൈകാര്യം ചെയ്യുക
+lockwise-title = ഇനി ഒരിക്കലുമൊരു ഒളിവാക്കു് ഓൎത്തുവയ്ക്കാൻ ആവിശ്യമില്ല
+passwords-title-logged-in = ഒളിവാക്കുകളുടെ കൈകാര്യം ചെയ്യുക
+protection-report-passwords-save-passwords-button = ഒളിവാക്കുകൾ കരുതിവയ്ക്കുക
+    .title = ഒളിവാക്കുകൾ കരുതിവയ്ക്കുക
+protection-report-passwords-manage-passwords-button = ഒളിവാക്കുകളുടെ കൈകാര്യം ചെയ്യുക
+    .title = ഒളിവാക്കുകളുടെ കൈകാര്യം ചെയ്യുക
 # While English doesn't use the number in the plural form, you can add $count to your language
 # if needed for grammatical reasons.
 # Variables:
 # $count (Number) - Number of passwords stored in Lockwise.
 lockwise-scanned-text-no-breached-logins =
     { $count ->
-        [one] 1 രഹസ്യവാക്കു് സുരക്ഷിതമായി കരുതിവച്ചിരിക്കുന്നു
-       *[other] താങ്ങളുടെ രഹസ്യവാക്കുകൾ സുരക്ഷിതമായി കരുതിവച്ചിട്ടുണ്ടു്
+        [one] 1 ഒളിവാക്കു് സുരക്ഷിതമായി കരുതിവച്ചിരിക്കുന്നു
+       *[other] താങ്ങളുടെ ഒളിവാക്കുകൾ സുരക്ഷിതമായി കരുതിവച്ചിട്ടുണ്ടു്
     }
 lockwise-how-it-works-link = ഇതു് എങ്ങനെ നടക്കുന്നു
 monitor-link = ഇതു് എങ്ങനെ നടക്കുന്നു

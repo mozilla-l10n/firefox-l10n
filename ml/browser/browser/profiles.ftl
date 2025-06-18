@@ -56,7 +56,7 @@ delete-profile-tabs = തുറന്ന ടാബുകള്‍
 delete-profile-bookmarks = അടയാളക്കുറിപ്പുകള്‍
 delete-profile-history = നാൾവഴി (ചെന്ന താളുകളും കുക്കികളം വെബ്സ്ഥാന ദത്തയും)
 delete-profile-autofill = തനുപ്പൂരിപ്പികൽ ദത്ത (വിലാസങ്ങളും പണമടക്കൽമുറകളും)
-delete-profile-logins = രഹസ്യവാക്കുകൾ
+delete-profile-logins = ഒളിവാക്കുകൾ
 
 ##
 

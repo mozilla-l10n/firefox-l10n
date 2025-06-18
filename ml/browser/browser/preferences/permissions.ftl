@@ -106,9 +106,9 @@ permissions-exceptions-saved-logins-desc = ഇനിപ്പറയുന്ന 
 ## Exceptions - Saved Passwords
 
 permissions-exceptions-saved-passwords-window =
-    .title = വിട്ടുവീഴ്ചകൾ - കരുതിവച്ച രഹസ്യവാക്കുകൾ
+    .title = വിട്ടുവീഴ്ചകൾ - കരുതിവച്ച ഒളിവാക്കുകൾ
     .style = { permissions-window2.style }
-permissions-exceptions-saved-passwords-desc = ഇവിടെ എഴുതിയിരിക്കുന്ന വെബിടങ്ങളുടെ രഹസ്യവാക്കുകൾ { -brand-short-name } കരുതിവയ്ക്കത്തില്ല
+permissions-exceptions-saved-passwords-desc = ഇവിടെ എഴുതിയിരിക്കുന്ന വെബിടങ്ങളുടെ ഒളിവാക്കുകൾ { -brand-short-name } കരുതിവയ്ക്കത്തില്ല
 
 ## Exceptions - Add-ons
 

@@ -6,8 +6,8 @@ migration-wizard =
     .title = ഇറക്കുമതി സഹായി
 import-from =
     { PLATFORM() ->
-        [windows] സാധ്യതകളും അടയാളക്കുറിപ്പുകളും നാൾവഴിയും രഹസ്യവാക്കുകളും മറ്റ്‌ വിവരങ്ങളും ഇറക്കുമതി ചെയ്യുക
-       *[other] മുൻഗണനകളും അടയാളക്കുറിപ്പുകളും നാൾവഴിയും രഹസ്യവാക്കുകളും മറ്റ്‌ വിവരങ്ങളും ഇറക്കുമതി ചെയ്യുക
+        [windows] സാധ്യതകളും അടയാളക്കുറിപ്പുകളും നാൾവഴിയും ഒളിവാക്കുകളും മറ്റ്‌ വിവരങ്ങളും ഇറക്കുമതി ചെയ്യുക
+       *[other] മുൻഗണനകളും അടയാളക്കുറിപ്പുകളും നാൾവഴിയും ഒളിവാക്കുകളും മറ്റ്‌ വിവരങ്ങളും ഇറക്കുമതി ചെയ്യുക
     }
 import-from-bookmarks = ഇവിടെ നിന്നും അടയാളങ്ങള്‍ ഇറക്കുമതി ചെയ്യുക
 import-from-ie =
@@ -55,7 +55,7 @@ import-from-360se =
 import-from-opera-gx =
     .label = ഓപ്പറ GX
     .accesskey = ഓ
-no-migration-sources = അടയാളക്കുറിപ്പുകളോ നാൾവഴിയോ രഹസ്യവാക്കുകളോ ഉള്ള ഒരു പ്രയോഗമെങ്കിലും കണ്ടുപിടിക്കാൻ പറ്റിയില്ല.
+no-migration-sources = അടയാളക്കുറിപ്പുകളോ നാൾവഴിയോ ഒളിവാക്കുകളോ ഉള്ള ഒരു പ്രയോഗമെങ്കിലും കണ്ടുപിടിക്കാൻ പറ്റിയില്ല.
 import-source-page-title = സെറ്റിങ്ങുകളും വിവരങ്ങളും ഇറക്കുമതി ചെയ്യുക
 import-items-page-title = Import ചെയ്യേണ്ട വസ്തുക്കള്‍
 import-items-description = Import ചെയ്യേണ്ട വസ്തുക്കള്‍ തിരഞ്ഞെടുക്കുക
@@ -106,11 +106,11 @@ browser-data-history-label =
 # This string should use the same phrase for "logins and passwords" as the
 # label in the main hamburger menu that opens about:logins.
 browser-data-passwords-checkbox =
-    .label = കരുതിവച്ച ഉപയോക്തൃനാമങ്ങളും രഹസ്യവാക്കുകളും
+    .label = കരുതിവച്ച ഉപയോക്തൃനാമങ്ങളും ഒളിവാക്കുകളും
 # This string should use the same phrase for "logins and passwords" as the
 # label in the main hamburger menu that opens about:logins.
 browser-data-passwords-label =
-    .value = കരുതിവച്ച ഉപയോക്തൃനാമങ്ങളും രഹസ്യവാക്കുകളും
+    .value = കരുതിവച്ച ഉപയോക്തൃനാമങ്ങളും ഒളിവാക്കുകളും
 browser-data-bookmarks-checkbox =
     .label =
         { $browser ->

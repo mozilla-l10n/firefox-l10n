@@ -301,7 +301,7 @@ main-context-menu-use-saved-login =
     .accesskey = ഉ
 # Displayed when there are saved passwords and the user clicks inside a username or password field
 main-context-menu-use-saved-password =
-    .label = കരുതിവച്ച രഹസ്യവാക്കിനെ ഉപയോഗിക്കുക
+    .label = കരുതിവച്ച ഒളിവാക്കിനെ ഉപയോഗിക്കുക
     .accesskey = ഉ
 
 ##
@@ -310,13 +310,13 @@ main-context-menu-use-relay-mask =
     .label = { -relay-brand-short-name }-ന്റെ ഇ-തപാൽ പൊയ്മുഖം ഉപയോഗിക്കുക
     .accesskey = ഉ
 main-context-menu-suggest-strong-password =
-    .label = ഒരു മുരട്ടായ രഹസ്യവാക്കു് പറഞ്ഞു തരുക
+    .label = ഒരു മുരട്ടായ ഒളിവാക്കു് പറഞ്ഞു തരുക
     .accesskey = പ
 main-context-menu-manage-logins2 =
     .label = പ്രവേശനങ്ങളെ കൈകാര്യം ചെയ്യുക
     .accesskey = ക
 main-context-menu-manage-passwords =
-    .label = രഹസ്യവാക്കുകളുടെ കൈകാര്യം ചെയ്യുക
+    .label = ഒളിവാക്കുകളുടെ കൈകാര്യം ചെയ്യുക
     .accesskey = ക
 main-context-menu-keyword =
     .label = ഈ തിരച്ചിലിനു വേണ്ടി ഒരു പെരുമുരി ചേര്‍ക്കുക…
@@ -390,5 +390,5 @@ main-context-menu-open-link-in-container-tab =
     .label = { $containerName } ടാബിൽ കണ്ണി തുറക്കുക
     .accesskey = ത
 main-context-menu-reveal-password =
-    .label = രഹസ്യവാക്കു് വെളിപ്പെടുത്തുക
+    .label = ഒളിവാക്കു് വെളിപ്പെടുത്തുക
     .accesskey = വ
