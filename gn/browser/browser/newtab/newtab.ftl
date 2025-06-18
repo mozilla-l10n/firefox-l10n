@@ -8,6 +8,9 @@
 newtab-page-title = Tendayke Pyahu
 newtab-settings-button =
     .title = Eñemomba’e ne Tendayke Pyahu roguére
+newtab-customize-panel-icon-button =
+    .title = Emboava ko kuatiarogue
+newtab-customize-panel-icon-button-label = Ñemomba’ete
 newtab-personalize-settings-icon-label =
     .title = Eñemomba’e tendayke pyahúre
     .aria-label = Ñemboheko
