@@ -52,7 +52,7 @@ contentanalysis-notification-title = Indholdsanalyse
 contentanalysis-genericresponse-message = Indholdsanalyse svarede med { $response } for ressourcen { $content }
 # Variables:
 #   $content - Description of the content being blocked, such as "clipboard" or "aFile.txt"
-contentanalysis-block-message = Din organisation bruger værktøj til forhindring af datatab, hvilket har blokeret indholdet { $content }.
+contentanalysis-block-message = Din organisation bruger software til at forhindre tab af data. Softwaren har blokeret dette indhold: { $content }.
 # Variables:
 #   $agent - The name of the DLP agent doing the analysis
 #   $content - Localized text describing the content being blocked, such as "Paste denied."
