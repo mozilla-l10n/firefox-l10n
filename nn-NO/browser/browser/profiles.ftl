@@ -39,6 +39,11 @@ edit-profile-page-delete-button =
 edit-profile-page-avatar-selector-opener-link = Rediger
 avatar-selector-icon-tab = Ikon
 avatar-selector-custom-tab = Tilpassa
+avatar-selector-cancel-button =
+    .label = Avbryt
+avatar-selector-save-button =
+    .label = Lagre
+avatar-selector-upload-file = Last opp ei fil
 edit-profile-page-no-name = Gi denne profilen eit namn for å hjelpe deg med å finne han seinare. Byt namn når som helst.
 edit-profile-page-duplicate-name = Profilnamnet er allereie i bruk.
 edit-profile-page-profile-saved = Lagra
@@ -116,6 +121,8 @@ shopping-avatar-alt =
     .alt = Handlevogn
 star-avatar-alt =
     .alt = Stjerne
+custom-avatar-alt =
+    .alt = Tilpass avatar
 
 ## Labels for default avatar icons
 

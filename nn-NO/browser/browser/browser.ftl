@@ -1090,6 +1090,8 @@ navbar-accessible =
     .aria-label = Navigasjon
 navbar-downloads =
     .label = Nedlastingar
+navbar-overflow-2 =
+    .tooltiptext = Fleire verktøy
 navbar-overflow =
     .tooltiptext = Fleire verktøy…
 # Variables:

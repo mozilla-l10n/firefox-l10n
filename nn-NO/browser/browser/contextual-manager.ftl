@@ -151,6 +151,8 @@ contextual-manager-passwords-password-already-exists-error-button = Gå til pass
 contextual-manager-passwords-update-password-success-heading =
     .heading = Passord lagra
 contextual-manager-passwords-update-password-success-button = Ferdig
+contextual-manager-passwords-update-username-success-heading =
+    .heading = Brukarnamn lagra
 # Message to confirm successful removal of a password/passwords.
 #   $total (number) - Total number of passwords
 contextual-manager-passwords-delete-password-success-heading =

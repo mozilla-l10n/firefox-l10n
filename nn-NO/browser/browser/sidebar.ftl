@@ -125,6 +125,8 @@ sidebar-menu-customize-label =
     .label = Tilpass sidestolpe
 sidebar-menu-contextual-password-manager-label =
     .label = Passord
+sidebar-menu-more-tools-label =
+    .label = Fleire verktøy
 
 ## Tooltips for sidebar menu items.
 
