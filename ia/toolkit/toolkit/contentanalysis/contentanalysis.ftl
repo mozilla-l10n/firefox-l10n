@@ -34,6 +34,8 @@ contentanalysis-operationtype-clipboard = area de transferentia
 contentanalysis-operationtype-dropped-text = texto deponite
 contentanalysis-operationtype-print = imprimer
 #   $filename - The filename associated with the request, such as "aFile.txt"
+contentanalysis-upload-description = cargamento de “{ $filename }”
+#   $filename - The filename associated with the request, such as "aFile.txt"
 contentanalysis-customdisplaystring-description = cargamento de “{ $filename }”
 contentanalysis-warndialogtitle = Iste contento pote esser non secur
 # Variables:
