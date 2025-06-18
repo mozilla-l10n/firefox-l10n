@@ -177,10 +177,27 @@ contextual-manager-edit-login-button = حرّر
     .tooltiptext = حرّر كلمة السر
 contextual-manager-view-alert-heading =
     .heading = اعرض التنبيه
+contextual-manager-view-alert-button =
+    .tooltiptext = تنبيه المراجعة
+contextual-manager-show-password-button =
+    .aria-label = أظهر كلمة السر
+    .title = أظهر كلمة السر
+contextual-manager-hide-password-button =
+    .aria-label = أخفِ كلمة السر
+    .title = أخفِ كلمة السر
+# The message displayed when the search text does not match any of the user's saved logins.
+contextual-manager-passwords-no-passwords-found-header =
+    .heading = لم يُعثر على كلمات السر
+contextual-manager-passwords-no-passwords-found-message = لم يُعثر على كلمات السر. ابحث عن مصطلح آخر وحاول مرة أخرى.
 
 ## When the user has no saved passwords, we display the following messages to inform the user they can save
 ## their passwords safely and securely in Firefox:
 
+# This string encourages the user to save their passwords in Firefox (the "safe spot").
+contextual-manager-passwords-no-passwords-header = احفظ كلمات سرك في مكان آمن.
+# This string informs that we (Firefox) store all passwords securely and will notify them of any breaches and alerts their
+# passwords may be involved in.
+contextual-manager-passwords-no-passwords-message = جميع كلمات سرك مُعمّاة وسنراقب أي تسريبات ونرسل لك تنبيهات في حالة تأثرك بها.
 # This string encourages the user to save their passwords to Firefox again.
 contextual-manager-passwords-no-passwords-get-started-message = أضفهم هنا للبدء.
 # This string is displayed in a button. If the user clicks it, they will be taken to a form to create a new password.

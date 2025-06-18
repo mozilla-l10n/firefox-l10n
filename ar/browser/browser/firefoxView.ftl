@@ -36,6 +36,7 @@ firefoxview-syncedtabs-signin-header-2 = { -brand-product-name } الخاص بك
 firefoxview-syncedtabs-signin-description-2 = لرؤية الألسنة المفتوحة على هاتفك وعلى الأجهزة الأخرى، لِج أو سجِّل حساب. باستخدام الحساب، يمكنك أيضًا مزامنة كلمات السر، والتأريخ، وغير ذلك.
 firefoxview-syncedtabs-signin-primarybutton-2 = لج
 firefoxview-syncedtabs-signin-header = اسحب الألسنة من أي مكان
+firefoxview-syncedtabs-signin-description = لرؤية ألسنتك من أي مكان تستخدم فيه { -brand-product-name }، لِج إلى حسابك. إذا لم يكن لديك حساب، فسنقوم بإرشادك خلال خطوات التسجيل.
 firefoxview-syncedtabs-signin-primarybutton = لج أو سجل حسابًا
 firefoxview-tabpickup-adddevice-header = زامن { -brand-product-name } على هاتفك أو جهازك اللوحي
 firefoxview-tabpickup-adddevice-description = قم بتنزيل { -brand-product-name } للجوال وقم بتسجيل الدخول من هناك.
@@ -88,6 +89,10 @@ firefoxview-collapse-button-show =
     .title = اعرض القائمة
 firefoxview-collapse-button-hide =
     .title = أخفِ القائمة
+firefoxview-overview-nav = التصفح الأخير
+    .title = التصفح الأخير
+firefoxview-overview-header = التصفح الأخير
+    .title = التصفح الأخير
 
 ## History in this context refers to browser history
 
@@ -113,6 +118,7 @@ firefoxview-recently-closed-header = الألسنة المُغلقة مؤخرً�
 
 firefoxview-synced-tabs-nav = ألسنة من أجهزة أخرى
     .title = ألسنة من أجهزة أخرى
+firefoxview-synced-tabs-header = ألسنة من أجهزة أخرى
 
 ##
 
