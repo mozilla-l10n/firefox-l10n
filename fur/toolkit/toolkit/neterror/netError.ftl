@@ -129,7 +129,7 @@ neterror-corrupted-content-contact-website = Par plasê contate i proprietaris d
 neterror-sslv3-used = Informazions avanzadis: SSL_ERROR_UNSUPPORTED_VERSION
 # Variables:
 # $hostname (String) - Hostname of the website to which the user was trying to connect.
-neterror-inadequate-security-intro = <b>{ $hostname }</b> al dopre  une tecnologjie di sigurece sorpassade e vulnerabile ai atacs. Un malintenzionât al pues rivelâ un facilitât informazions che tu pensavis che a fossin al sigûr. L'aministradôr dal sît web al varà bisugne di comedâ il servidôr prime che tu podeis visitâ il sît.
+neterror-inadequate-security-intro = <b>{ $hostname }</b> al dopre  une tecnologjie di sigurece sorpassade e vulnerabile ai atacs. Un malintenzionât al pues palesâ cun facilitât informazions che tu pensavis che a fossin al sigûr. L'aministradôr dal sît web al varà bisugne di comedâ il servidôr prime che tu podeis visitâ il sît.
 # Do not translate "NS_ERROR_NET_INADEQUATE_SECURITY".
 neterror-inadequate-security-code = Error code: NS_ERROR_NET_INADEQUATE_SECURITY
 # Variables:

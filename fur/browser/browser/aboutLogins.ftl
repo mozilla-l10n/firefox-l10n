@@ -189,7 +189,7 @@ about-logins-edit-login-os-auth-dialog-message2-macosx = modificâ la password s
 about-logins-reveal-password-os-auth-dialog-message-win = Par visualizâ la tô password, inserìs lis tôs credenziâls di acès di Windows. Chest al jude a protezi la sigurece dai tiei accounts.
 # This message can be seen when attempting to reveal a password in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
-about-logins-reveal-password-os-auth-dialog-message-macosx = rivelâ la password salvade
+about-logins-reveal-password-os-auth-dialog-message-macosx = palesâ la password salvade
 # This message can be seen when attempting to copy a password in about:logins on Windows.
 about-logins-copy-password-os-auth-dialog-message-win = Par copiâ la tô password, inserìs lis tôs credenziâls di acès di Windows. Chest al jude a protezi la sigurece dai tiei accounts.
 # This message can be seen when attempting to copy a password in about:logins

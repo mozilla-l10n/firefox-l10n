@@ -32,7 +32,7 @@ contextual-manager-passwords-export-os-auth-dialog-message-macosx = espuartâ li
 contextual-manager-passwords-reveal-password-os-auth-dialog-message-win = Par visualizâ la tô password, inserìs lis tôs credenziâls di acès di Windows. Chest al jude a protezi la sigurece dai tiei accounts.
 # The MacOS string is preceded by the operating system with "Firefox is trying to ".
 # Only provide the reason that account verification is needed. Do not put a complete sentence here.
-contextual-manager-passwords-reveal-password-os-auth-dialog-message-macosx = rivelâ la password salvade
+contextual-manager-passwords-reveal-password-os-auth-dialog-message-macosx = palesâ la password salvade
 # This message can be seen when attempting to edit a login in contextual password manager on Windows.
 contextual-manager-passwords-edit-password-os-auth-dialog-message-win = Par modificâ la password, inserìs lis credenziâls di acès a Windows. Chest al jude a garantî la sigurece dai tiei accounts.
 # The MacOS string is preceded by the operating system with "Firefox is trying to ".
