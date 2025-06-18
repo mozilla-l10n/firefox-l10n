@@ -188,6 +188,8 @@ media-capabilities-enumerate = 枚举数据库
 
 media-codec-support-sw-decoding = 软件解码
 media-codec-support-hw-decoding = 硬件解码
+media-codec-support-sw-encoding = 软件编码
+media-codec-support-hw-encoding = 硬件编码
 media-codec-support-codec-name = 编解码器名称
 media-codec-support-supported = 已支持
 media-codec-support-unsupported = 不支持

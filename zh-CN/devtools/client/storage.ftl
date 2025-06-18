@@ -107,3 +107,11 @@ storage-idb-delete-blocked = 数据库“{ $dbName }”将在所有连接关闭�
 # Variables:
 #   $dbName (String) - Name of the database
 storage-idb-delete-error = 数据库“{ $dbName }”未能删除。
+# Error notification when cookie could not be created (e.g. because it's invalid).
+# Variables:
+#   $errorString (String) - Platform error message
+storage-cookie-create-error = 无法创建 Cookie：“{ $errorString }”。
+# Error notification when cookie could not be edited (e.g. because it's invalid).
+# Variables:
+#   $errorString (String) - Platform error message
+storage-cookie-edit-error = 无法更新 Cookie：“{ $errorString }”。
