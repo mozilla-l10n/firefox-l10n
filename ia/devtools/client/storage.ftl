@@ -111,3 +111,7 @@ storage-idb-delete-error = Le base de datos “{ $dbName }” non ha potite esse
 # Variables:
 #   $errorString (String) - Platform error message
 storage-cookie-create-error = Le cookie non pote esser create: “{ $errorString }”.
+# Error notification when cookie could not be edited (e.g. because it's invalid).
+# Variables:
+#   $errorString (String) - Platform error message
+storage-cookie-edit-error = Le cookie non pote esser actualisate: “{ $errorString }”.

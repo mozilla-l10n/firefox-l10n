@@ -125,6 +125,8 @@ sidebar-menu-customize-label =
     .label = Personalisar le barra lateral
 sidebar-menu-contextual-password-manager-label =
     .label = Contrasignos
+sidebar-menu-more-tools-label =
+    .label = Altere utensiles
 
 ## Tooltips for sidebar menu items.
 

@@ -36,6 +36,8 @@ contentanalysis-operationtype-print = imprimer
 #   $filename - The filename associated with the request, such as "aFile.txt"
 contentanalysis-upload-description = cargamento de “{ $filename }”
 #   $filename - The filename associated with the request, such as "aFile.txt"
+contentanalysis-download-description = discargamento de “{ $filename }”
+#   $filename - The filename associated with the request, such as "aFile.txt"
 contentanalysis-customdisplaystring-description = cargamento de “{ $filename }”
 contentanalysis-warndialogtitle = Iste contento pote esser non secur
 # Variables:
@@ -77,6 +79,10 @@ contentanalysis-block-dialog-title-upload-file = Tu non ha permisso de cargar is
 # Variables:
 #   $filename - Name of the file that was blocked, such as "aFile.txt"
 contentanalysis-block-dialog-body-upload-file = Sub le politicas de protection de datos de tu organisation, tu non ha le permisso de cargar le file  “{ $filename }”. Contacta tu administrator pro altere informationes.
+contentanalysis-block-dialog-title-download-file = Tu non ha permisso de discargar iste file
+# Variables:
+#   $filename - Name of the file that was blocked, such as "aFile.txt"
+contentanalysis-block-dialog-body-download-file = Sub le politicas de protection de datos de tu organisation, tu non ha le permisso de discargar le file  “{ $filename }”. Contacta tu administrator pro altere informationes.
 contentanalysis-block-dialog-title-clipboard = Tu non ha permisso de collar iste contento
 contentanalysis-block-dialog-body-clipboard = Sub le politicas de protection de datos de tu organisation, tu non ha le permisso de collar iste contento. Contacta tu administrator pro altere informationes.
 contentanalysis-block-dialog-title-dropped-text = Tu non ha permisso de deponer iste contento

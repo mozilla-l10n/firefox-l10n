@@ -39,6 +39,12 @@ edit-profile-page-delete-button =
 edit-profile-page-avatar-selector-opener-link = Rediger
 avatar-selector-icon-tab = Icone
 avatar-selector-custom-tab = Personalisate
+avatar-selector-cancel-button =
+    .label = Cancellar
+avatar-selector-save-button =
+    .label = Salvar
+avatar-selector-upload-file = Cargar un file
+avatar-selector-drag-file = O traher un file ci
 edit-profile-page-no-name = Nomina iste profilo pro adjutar te a trovar lo plus tarde. Renomina lo quandocunque.
 edit-profile-page-duplicate-name = Nomine de profilo jam in uso. Tenta un nove nomine.
 edit-profile-page-profile-saved = Salvate
@@ -116,6 +122,8 @@ shopping-avatar-alt =
     .alt = Carretta de compras
 star-avatar-alt =
     .alt = Stella
+custom-avatar-alt =
+    .alt = Avatar personalisate
 
 ## Labels for default avatar icons
 

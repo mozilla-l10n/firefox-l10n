@@ -8,6 +8,9 @@
 newtab-page-title = Nove scheda
 newtab-settings-button =
     .title = Personalisar tu pagina de nove scheda
+newtab-customize-panel-icon-button =
+    .title = Personalisar iste pagina
+newtab-customize-panel-icon-button-label = Personalisar
 newtab-personalize-settings-icon-label =
     .title = Personalisar le scheda nove
     .aria-label = Parametros
