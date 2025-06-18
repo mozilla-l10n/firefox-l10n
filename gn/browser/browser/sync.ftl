@@ -53,6 +53,9 @@ sync-setup-verify-description = Ambue poruhára omoñepyrũmara’e ombojuehe ko
 # Dialog 1 - different account signing in without option to merge
 sync-profile-different-account-title = Ehupytýma hu’ã ko mba’etépe g̃uarã
 sync-profile-different-account-header = Ko mba’ete oñembojuehe ñepyrũrã mba’ete ambuéva ndive
+# Variables:
+#   $acctEmail (String) - Email of the account signing into sync.
+sync-profile-different-account-description = Ne mba’ekuaarã ereko hag̃ua eipotaháicha ha tekorosãme, peteĩteĩva mba’ete { -brand-product-name } rehegua, ikatu oñembojuehe peteĩ mba’etérente. Eike hag̃ua { $acctEmail }-pe, ejapo mba’ete pyahu.
 # Dialog 1 - different account signing in with merge option
 sync-profile-different-account-title-merge = Mba’ete oñembojuehe ñepyrũrã mba’ete ambuéva ndive
 # Dialog 2 - account signed in on another profile without option to merge
