@@ -44,6 +44,7 @@ avatar-selector-cancel-button =
 avatar-selector-save-button =
     .label = Składowaś
 avatar-selector-upload-file = Dataju nagraś
+avatar-selector-drag-file = Abo śěgniśo dataju sem
 edit-profile-page-no-name = Pómjeńśo toś ten profil, aby jen pózdźej zasej namakał. Pśemjeńśo jen kuždy cas.
 edit-profile-page-duplicate-name = Profilowe mě se južo wužywa. Wopytajśo nowe mě.
 edit-profile-page-profile-saved = Skłaźony
@@ -121,6 +122,8 @@ shopping-avatar-alt =
     .alt = Nakupowański wózyk
 star-avatar-alt =
     .alt = Gwězda
+custom-avatar-alt =
+    .alt = Swójski awatar
 
 ## Labels for default avatar icons
 

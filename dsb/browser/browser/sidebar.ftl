@@ -125,6 +125,8 @@ sidebar-menu-customize-label =
     .label = Bocnicu pśiměriś
 sidebar-menu-contextual-password-manager-label =
     .label = Gronidła
+sidebar-menu-more-tools-label =
+    .label = Dalšne rědy
 
 ## Tooltips for sidebar menu items.
 

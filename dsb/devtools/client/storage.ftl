@@ -107,3 +107,11 @@ storage-idb-delete-blocked = Datowa banka “{ $dbName }' se wualšujo, za tym a
 # Variables:
 #   $dbName (String) - Name of the database
 storage-idb-delete-error = Datowa banka “{ $dbName }” njedajo se lašowaś.
+# Error notification when cookie could not be created (e.g. because it's invalid).
+# Variables:
+#   $errorString (String) - Platform error message
+storage-cookie-create-error = Cookie njedajo se napóraś: „{ $errorString }“.
+# Error notification when cookie could not be edited (e.g. because it's invalid).
+# Variables:
+#   $errorString (String) - Platform error message
+storage-cookie-edit-error = Cookie njedajo se aktualizěrowaś: „{ $errorString }“.

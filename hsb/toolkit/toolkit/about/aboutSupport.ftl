@@ -185,8 +185,8 @@ media-capabilities-enumerate = Datowu banku naličić
 
 media-codec-support-sw-decoding = Softwarowe dekodowanje
 media-codec-support-hw-decoding = Hardwarowe dekodowanje
-media-codec-support-sw-encoding = Softwarowe dekodowanje
-media-codec-support-hw-encoding = Hardwarowe dekodowanje
+media-codec-support-sw-encoding = Softwarowe kodowanje
+media-codec-support-hw-encoding = Hardwarowe kodowanje
 media-codec-support-codec-name = Mjeno Codec
 media-codec-support-supported = Podpěrany
 media-codec-support-unsupported = Njepodpěrany

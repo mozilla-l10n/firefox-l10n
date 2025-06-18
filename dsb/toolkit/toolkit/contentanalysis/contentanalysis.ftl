@@ -36,6 +36,10 @@ contentanalysis-operationtype-clipboard = mjazywótkład
 contentanalysis-operationtype-dropped-text = pušćony tekst
 contentanalysis-operationtype-print = śišćaś
 #   $filename - The filename associated with the request, such as "aFile.txt"
+contentanalysis-upload-description = nagraśe “{ $filename }”
+#   $filename - The filename associated with the request, such as "aFile.txt"
+contentanalysis-download-description = ześěgnjenje “{ $filename }”
+#   $filename - The filename associated with the request, such as "aFile.txt"
 contentanalysis-customdisplaystring-description = Nagraśe “{ $filename }”
 contentanalysis-warndialogtitle = Toś to wopśimjeśe jo snaź njewěste
 # Variables:
@@ -77,6 +81,10 @@ contentanalysis-block-dialog-title-upload-file = Njesmějośo toś tu dataju nag
 # Variables:
 #   $filename - Name of the file that was blocked, such as "aFile.txt"
 contentanalysis-block-dialog-body-upload-file = Pó pšawidłach šćita datow swójeje organizacije njesmějośo dataju „{ $filename }“ nagraś. Stajśo se ze swójim administratorom za dalšne informacije.
+contentanalysis-block-dialog-title-download-file = Njesmějośo toś tu dataju ześěgnuś
+# Variables:
+#   $filename - Name of the file that was blocked, such as "aFile.txt"
+contentanalysis-block-dialog-body-download-file = Pó pšawidłach šćita datow swójeje organizacije njesmějośo dataju „{ $filename }“ ześěgnuś. Stajśo se ze swójim administratorom za dalšne informacije.
 contentanalysis-block-dialog-title-clipboard = Njesmějośo toś to wopśimjeśe zasajźiś
 contentanalysis-block-dialog-body-clipboard = Pó pšawidłach šćita datow swójeje organizacije njesmějośo toś to wopśimjeśe zasajźiś. Stajśo se ze swójim administratorom za dalšne informacije.
 contentanalysis-block-dialog-title-dropped-text = Njesmějośo toś to wopśimjeśe pušćiś
