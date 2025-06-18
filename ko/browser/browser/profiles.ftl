@@ -39,6 +39,12 @@ edit-profile-page-delete-button =
 edit-profile-page-avatar-selector-opener-link = 편집
 avatar-selector-icon-tab = 아이콘
 avatar-selector-custom-tab = 사용자 지정
+avatar-selector-cancel-button =
+    .label = 취소
+avatar-selector-save-button =
+    .label = 저장
+avatar-selector-upload-file = 파일 업로드
+avatar-selector-drag-file = 또는 여기로 파일을 끌어서 놓기
 edit-profile-page-no-name = 나중에 쉽게 찾을 수 있도록 프로필의 이름을 지정하세요. 언제든지 이름을 변경할 수 있습니다.
 edit-profile-page-duplicate-name = 이미 사용 중인 프로필 이름입니다. 새로운 이름을 입력하세요.
 edit-profile-page-profile-saved = 저장됨
@@ -116,6 +122,8 @@ shopping-avatar-alt =
     .alt = 장바구니
 star-avatar-alt =
     .alt = 별
+custom-avatar-alt =
+    .alt = 아바타 사용자 지정
 
 ## Labels for default avatar icons
 

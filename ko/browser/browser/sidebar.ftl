@@ -125,6 +125,8 @@ sidebar-menu-customize-label =
     .label = 사이드바 사용자 지정
 sidebar-menu-contextual-password-manager-label =
     .label = 비밀번호
+sidebar-menu-more-tools-label =
+    .label = 도구 더보기
 
 ## Tooltips for sidebar menu items.
 

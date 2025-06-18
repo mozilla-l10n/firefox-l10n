@@ -8,6 +8,9 @@
 newtab-page-title = 새 탭
 newtab-settings-button =
     .title = 새 탭 페이지 사용자 지정
+newtab-customize-panel-icon-button =
+    .title = 이 페이지 사용자 지정
+newtab-customize-panel-icon-button-label = 사용자 지정
 newtab-personalize-settings-icon-label =
     .title = 새 탭 개인화
     .aria-label = 설정

@@ -30,6 +30,10 @@ contentanalysis-operationtype-clipboard = 클립보드
 contentanalysis-operationtype-dropped-text = 드롭된 텍스트
 contentanalysis-operationtype-print = 인쇄
 #   $filename - The filename associated with the request, such as "aFile.txt"
+contentanalysis-upload-description = “{ $filename }” 업로드
+#   $filename - The filename associated with the request, such as "aFile.txt"
+contentanalysis-download-description = “{ $filename }” 다운로드
+#   $filename - The filename associated with the request, such as "aFile.txt"
 contentanalysis-customdisplaystring-description = “{ $filename }” 업로드
 contentanalysis-warndialogtitle = 이 콘텐츠는 안전하지 않을 수 있음
 # Variables:
@@ -71,6 +75,10 @@ contentanalysis-block-dialog-title-upload-file = 이 파일을 업로드할 권�
 # Variables:
 #   $filename - Name of the file that was blocked, such as "aFile.txt"
 contentanalysis-block-dialog-body-upload-file = 사용자 조직의 데이터 보호 정책에 따라 '{ $filename }' 파일을 업로드하는 것이 허용되지 않습니다. 자세한 내용은 관리자에게 문의하세요.
+contentanalysis-block-dialog-title-download-file = 이 파일을 다운로드할 권한이 없음
+# Variables:
+#   $filename - Name of the file that was blocked, such as "aFile.txt"
+contentanalysis-block-dialog-body-download-file = 사용자 조직의 데이터 보호 정책에 따라 '{ $filename }' 파일을 다운로드하는 것이 허용되지 않습니다. 자세한 내용은 관리자에게 문의하세요.
 contentanalysis-block-dialog-title-clipboard = 이 콘텐츠를 붙여넣을 수 있는 권한이 없습니다.
 contentanalysis-block-dialog-body-clipboard = 사용자 조직의 데이터 보호 정책에 따라 이 콘텐츠를 붙여넣는 것이 허용되지 않습니다. 자세한 내용은 관리자에게 문의하세요.
 contentanalysis-block-dialog-title-dropped-text = 이 콘텐츠를 끌어서 놓을 권한이 없습니다.

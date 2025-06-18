@@ -185,6 +185,8 @@ media-capabilities-enumerate = 데이터베이스 열거
 
 media-codec-support-sw-decoding = 소프트웨어 디코딩
 media-codec-support-hw-decoding = 하드웨어 디코딩
+media-codec-support-sw-encoding = 소프트웨어 인코딩
+media-codec-support-hw-encoding = 하드웨어 인코딩
 media-codec-support-codec-name = 코덱 이름
 media-codec-support-supported = 지원됨
 media-codec-support-unsupported = 지원 안 됨
