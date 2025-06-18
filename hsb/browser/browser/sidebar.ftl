@@ -125,6 +125,8 @@ sidebar-menu-customize-label =
     .label = Bóčnicu přiměrić
 sidebar-menu-contextual-password-manager-label =
     .label = Hesła
+sidebar-menu-more-tools-label =
+    .label = Dalše nastroje
 
 ## Tooltips for sidebar menu items.
 

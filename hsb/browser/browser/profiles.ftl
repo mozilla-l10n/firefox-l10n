@@ -39,6 +39,12 @@ edit-profile-page-delete-button =
 edit-profile-page-avatar-selector-opener-link = Wobdźěłać
 avatar-selector-icon-tab = Symbol
 avatar-selector-custom-tab = Swójski
+avatar-selector-cancel-button =
+    .label = Přetorhnyć
+avatar-selector-save-button =
+    .label = Składować
+avatar-selector-upload-file = Dataju nahrać
+avatar-selector-drag-file = Abo ćehńće dataju sem
 edit-profile-page-no-name = Pomjenujće tutón profil, zo byšće jón pozdźišo zaso namakał. Přemjenujće jón kóždy čas.
 edit-profile-page-duplicate-name = Profilowe mjeno so hižo wužiwa. Spytajće nowe mjeno.
 edit-profile-page-profile-saved = Składowany
@@ -116,6 +122,8 @@ shopping-avatar-alt =
     .alt = Nakupowanski wozyčk
 star-avatar-alt =
     .alt = Hwězda
+custom-avatar-alt =
+    .alt = Swójski awatar
 
 ## Labels for default avatar icons
 
