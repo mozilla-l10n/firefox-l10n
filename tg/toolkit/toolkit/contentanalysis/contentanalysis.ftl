@@ -34,6 +34,10 @@ contentanalysis-operationtype-clipboard = ҳофизаи муваққатӣ
 contentanalysis-operationtype-dropped-text = матни гузаронидашуда
 contentanalysis-operationtype-print = чоп кардан
 #   $filename - The filename associated with the request, such as "aFile.txt"
+contentanalysis-upload-description = боркунии «{ $filename }»
+#   $filename - The filename associated with the request, such as "aFile.txt"
+contentanalysis-download-description = боргирии «{ $filename }»
+#   $filename - The filename associated with the request, such as "aFile.txt"
 contentanalysis-customdisplaystring-description = боркунии «{ $filename }»
 contentanalysis-warndialogtitle = Ин муҳтаво метавонад хатарнок бошад
 # Variables:
@@ -75,6 +79,7 @@ contentanalysis-block-dialog-title-upload-file = Шумо барои бор ка
 # Variables:
 #   $filename - Name of the file that was blocked, such as "aFile.txt"
 contentanalysis-block-dialog-body-upload-file = Тибқи сиёсати ҳифзи маълумоти ташкилоти шумо, ба шумо барои бор кардани файли «{ $filename }» иҷозат дода нашудааст. Барои маълумоти бештар бо маъмури низом дар тамос шавед.
+contentanalysis-block-dialog-title-download-file = Шумо барои боргирӣ кардани ин файл иҷозат надоред
 contentanalysis-block-dialog-title-clipboard = Шумо барои гузоштани ин муҳтаво иҷозат надоред
 contentanalysis-block-dialog-body-clipboard = Тибқи сиёсати ҳифзи маълумоти ташкилоти шумо, ба шумо барои гузоштани ин муҳтаво иҷозат дода нашудааст. Барои маълумоти бештар бо маъмури низом дар тамос шавед.
 contentanalysis-block-dialog-title-dropped-text = Шумо барои ҷойгир кардани ин муҳтаво иҷозат надоред

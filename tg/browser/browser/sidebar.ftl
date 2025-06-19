@@ -125,6 +125,8 @@ sidebar-menu-customize-label =
     .label = Фармоишдиҳии навори ҷонибӣ
 sidebar-menu-contextual-password-manager-label =
     .label = Ниҳонвожаҳо
+sidebar-menu-more-tools-label =
+    .label = Абзорҳои бештар
 
 ## Tooltips for sidebar menu items.
 

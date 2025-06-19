@@ -8,6 +8,9 @@
 newtab-page-title = Варақаи нав
 newtab-settings-button =
     .title = Танзим кардани саҳифаи худ дар варақаи нав
+newtab-customize-panel-icon-button =
+    .title = Фармоишдиҳии ин саҳифа
+newtab-customize-panel-icon-button-label = Фармоишдиҳӣ
 newtab-personalize-settings-icon-label =
     .title = Шахсисозии варақаи нав
     .aria-label = Танзимот

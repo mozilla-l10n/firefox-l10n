@@ -39,6 +39,11 @@ edit-profile-page-delete-button =
 edit-profile-page-avatar-selector-opener-link = Таҳрир кардан
 avatar-selector-icon-tab = Нишона
 avatar-selector-custom-tab = Фармоишӣ
+avatar-selector-cancel-button =
+    .label = Бекор кардан
+avatar-selector-save-button =
+    .label = Нигоҳ доштан
+avatar-selector-upload-file = Бор кардани файл
 edit-profile-page-no-name = Ин профилро номгузорӣ кунед, то тавонед онро дертар ба осонӣ пайдо кунед. Шумо метавонед номро дар вақти дилхоҳ иваз намоед.
 edit-profile-page-duplicate-name = Номи профил аллакай истифода мешавад. Номи наверо кӯшиш кунед.
 edit-profile-page-profile-saved = Нигоҳ дошта шуд
@@ -116,6 +121,8 @@ shopping-avatar-alt =
     .alt = Сабади харидорӣ
 star-avatar-alt =
     .alt = Ситора
+custom-avatar-alt =
+    .alt = Аватари фармоишӣ
 
 ## Labels for default avatar icons
 

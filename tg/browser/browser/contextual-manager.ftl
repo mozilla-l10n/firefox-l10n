@@ -151,6 +151,8 @@ contextual-manager-passwords-password-already-exists-error-button = Гузари
 contextual-manager-passwords-update-password-success-heading =
     .heading = Ниҳонвожа нигоҳ дошта шуд
 contextual-manager-passwords-update-password-success-button = Тайёр
+contextual-manager-passwords-update-username-success-heading =
+    .heading = Номи корбар нигоҳ дошта шуд
 # Message to confirm successful removal of a password/passwords.
 #   $total (number) - Total number of passwords
 contextual-manager-passwords-delete-password-success-heading =
