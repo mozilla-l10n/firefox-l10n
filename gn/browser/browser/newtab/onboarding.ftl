@@ -397,6 +397,8 @@ onboarding-many-tabs-title = Ne rendayke, ha’eháicha
 onboarding-many-tabs-subtitle = ¿Ereko heta tendayke jurujápe? Ehecha emohenda yke gotyo ehecha hag̃ua hasy’ỹ hag̃uáicha. Térã emantene ymaveguaréicha tendayke ndive. Emoambue ejapose vove.
 # Setup screen for vertical tabs - focused variation
 onboarding-focused-tabs-title = Eiporavo tendayke ra’ãngarã
+# Setup screen for vertical tabs - subtitle for focused variation
+onboarding-focused-tabs-subtitle = Jehechauka nepytyvõva epáy hag̃ua, eiporu umi tendayke ykegua. Térã eiporavo ojeporumeméva tendayke oĩva yvate gotyo. Emoambue ejapose vove.
 # Text underneath an image used for selecting browser tabs to appear on the side of the browser.
 onboarding-new-vertical-tabs-label = Tendayke yke gotyo
 # Text underneath an image used for selecting browser tabs to appear at the top of the browser.
