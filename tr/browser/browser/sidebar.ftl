@@ -125,6 +125,8 @@ sidebar-menu-customize-label =
     .label = Kenar çubuğunu özelleştir
 sidebar-menu-contextual-password-manager-label =
     .label = Parolalar
+sidebar-menu-more-tools-label =
+    .label = Daha fazla araç
 
 ## Tooltips for sidebar menu items.
 

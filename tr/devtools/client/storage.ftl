@@ -107,3 +107,11 @@ storage-idb-delete-blocked = Tüm bağlantılar kapatıldıktan sonra “{ $dbNa
 # Variables:
 #   $dbName (String) - Name of the database
 storage-idb-delete-error = “{ $dbName }” veritabanı silinemedi.
+# Error notification when cookie could not be created (e.g. because it's invalid).
+# Variables:
+#   $errorString (String) - Platform error message
+storage-cookie-create-error = Çerez oluşturulamadı: “{ $errorString }”.
+# Error notification when cookie could not be edited (e.g. because it's invalid).
+# Variables:
+#   $errorString (String) - Platform error message
+storage-cookie-edit-error = Çerez güncellenemedi: “{ $errorString }”.

@@ -156,6 +156,8 @@ contextual-manager-passwords-password-already-exists-error-button = Parolaya git
 contextual-manager-passwords-update-password-success-heading =
     .heading = Parola kaydedildi
 contextual-manager-passwords-update-password-success-button = Tamam
+contextual-manager-passwords-update-username-success-heading =
+    .heading = Kullanıcı adı kaydedildi
 # Message to confirm successful removal of a password/passwords.
 #   $total (number) - Total number of passwords
 contextual-manager-passwords-delete-password-success-heading =

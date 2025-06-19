@@ -39,6 +39,12 @@ edit-profile-page-delete-button =
 edit-profile-page-avatar-selector-opener-link = Düzenle
 avatar-selector-icon-tab = Simge
 avatar-selector-custom-tab = Özel
+avatar-selector-cancel-button =
+    .label = Vazgeç
+avatar-selector-save-button =
+    .label = Kaydet
+avatar-selector-upload-file = Dosya yükle
+avatar-selector-drag-file = Veya dosyayı buraya sürükle
 edit-profile-page-no-name = Daha sonra bulmanıza yardımcı olması için bu profile bir ad verin. Daha sonra adını değiştirebilirsiniz.
 edit-profile-page-duplicate-name = Bu profil adı zaten kullanılıyor. Yeni bir ad deneyin.
 edit-profile-page-profile-saved = Kaydedildi
@@ -116,6 +122,8 @@ shopping-avatar-alt =
     .alt = Alışveriş arabası
 star-avatar-alt =
     .alt = Yıldız
+custom-avatar-alt =
+    .alt = Özel avatar
 
 ## Labels for default avatar icons
 

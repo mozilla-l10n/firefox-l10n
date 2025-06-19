@@ -34,6 +34,8 @@ contentanalysis-operationtype-clipboard = pano
 contentanalysis-operationtype-dropped-text = sürüklenip bırakılan metin
 contentanalysis-operationtype-print = yazdır
 #   $filename - The filename associated with the request, such as "aFile.txt"
+contentanalysis-download-description = “{ $filename }” indirmesi
+#   $filename - The filename associated with the request, such as "aFile.txt"
 contentanalysis-customdisplaystring-description = “{ $filename }” yüklemesi
 contentanalysis-warndialogtitle = Bu içerik güvensiz olabilir
 # Variables:
@@ -75,6 +77,10 @@ contentanalysis-block-dialog-title-upload-file = Bu dosyayı yüklemenize izin v
 # Variables:
 #   $filename - Name of the file that was blocked, such as "aFile.txt"
 contentanalysis-block-dialog-body-upload-file = Kuruluşunuzun veri koruma ilkelerine göre “{ $filename }” dosyasını yükleme izniniz bulunmuyor. Daha fazla bilgi için yöneticinizle iletişime geçin.
+contentanalysis-block-dialog-title-download-file = Bu dosyayı indirmenize izin verilmiyor
+# Variables:
+#   $filename - Name of the file that was blocked, such as "aFile.txt"
+contentanalysis-block-dialog-body-download-file = Kuruluşunuzun veri koruma ilkelerine göre “{ $filename }” dosyasını indirme izniniz bulunmuyor. Daha fazla bilgi için yöneticinizle iletişime geçin.
 contentanalysis-block-dialog-title-clipboard = Bu içeriği yapıştırmanıza izin verilmiyor
 contentanalysis-block-dialog-body-clipboard = Kuruluşunuzun veri koruma ilkelerine göre bu içeriği yapıştırma izniniz bulunmuyor. Daha fazla bilgi için yöneticinizle iletişime geçin.
 contentanalysis-block-dialog-title-dropped-text = Bu içeriği sürükleyip bırakmanıza izin verilmiyor
