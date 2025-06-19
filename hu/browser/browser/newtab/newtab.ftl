@@ -8,6 +8,9 @@
 newtab-page-title = Új lap
 newtab-settings-button =
     .title = Az Új lap oldal személyre szabása
+newtab-customize-panel-icon-button =
+    .title = Oldal testreszabása
+newtab-customize-panel-icon-button-label = Testreszabás
 newtab-personalize-settings-icon-label =
     .title = Új lap testreszabása
     .aria-label = Beállítások

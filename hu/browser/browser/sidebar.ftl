@@ -125,6 +125,8 @@ sidebar-menu-customize-label =
     .label = Oldalsáv testreszabása
 sidebar-menu-contextual-password-manager-label =
     .label = Jelszavak
+sidebar-menu-more-tools-label =
+    .label = További eszközök
 
 ## Tooltips for sidebar menu items.
 

@@ -39,6 +39,12 @@ edit-profile-page-delete-button =
 edit-profile-page-avatar-selector-opener-link = Szerkesztés
 avatar-selector-icon-tab = Ikon
 avatar-selector-custom-tab = Egyéni
+avatar-selector-cancel-button =
+    .label = Mégse
+avatar-selector-save-button =
+    .label = Mentés
+avatar-selector-upload-file = Fájl feltöltése
+avatar-selector-drag-file = Vagy húzzon ide egy fájlt
 edit-profile-page-no-name = Nevezze el ezt a profilt, hogy később segítsen megtalálni. Nevezze át bármikor.
 edit-profile-page-duplicate-name = A profilnév már használatban van. Próbáljon meg egy új nevet.
 edit-profile-page-profile-saved = Mentve
@@ -116,6 +122,8 @@ shopping-avatar-alt =
     .alt = Bevásárlókosár
 star-avatar-alt =
     .alt = Csillag
+custom-avatar-alt =
+    .alt = Egyéni profilkép
 
 ## Labels for default avatar icons
 
