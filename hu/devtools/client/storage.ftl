@@ -107,3 +107,11 @@ storage-idb-delete-blocked = „{ $dbName }” adatbázis törlésre kerül az �
 # Variables:
 #   $dbName (String) - Name of the database
 storage-idb-delete-error = „{ $dbName }” adatbázis nem törölhető.
+# Error notification when cookie could not be created (e.g. because it's invalid).
+# Variables:
+#   $errorString (String) - Platform error message
+storage-cookie-create-error = A süti nem hozható létre: „{ $errorString }”.
+# Error notification when cookie could not be edited (e.g. because it's invalid).
+# Variables:
+#   $errorString (String) - Platform error message
+storage-cookie-edit-error = A süti nem frissíthető: „{ $errorString }”.

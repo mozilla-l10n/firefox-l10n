@@ -185,6 +185,8 @@ media-capabilities-enumerate = Adatbázis felsorolása
 
 media-codec-support-sw-decoding = Szoftveres dekódolás
 media-codec-support-hw-decoding = Hardveres dekódolás
+media-codec-support-sw-encoding = Szoftveres kódolás
+media-codec-support-hw-encoding = Hardveres kódolás
 media-codec-support-codec-name = Kodeknév
 media-codec-support-supported = Támogatott
 media-codec-support-unsupported = Nem támogatott
