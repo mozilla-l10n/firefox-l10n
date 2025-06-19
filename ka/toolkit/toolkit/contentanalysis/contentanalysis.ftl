@@ -34,6 +34,10 @@ contentanalysis-operationtype-clipboard = აღებული ასლი
 contentanalysis-operationtype-dropped-text = განთავსებული ტექსტი
 contentanalysis-operationtype-print = ამობეჭდვა
 #   $filename - The filename associated with the request, such as "aFile.txt"
+contentanalysis-upload-description = აიტვირთოს „{ $filename }“
+#   $filename - The filename associated with the request, such as "aFile.txt"
+contentanalysis-download-description = ჩამოიტვირთოს „{ $filename }“
+#   $filename - The filename associated with the request, such as "aFile.txt"
 contentanalysis-customdisplaystring-description = ატვირთვა – „{ $filename }“
 contentanalysis-warndialogtitle = შიგთავსი შეიძლება სახიფათო იყოს
 # Variables:
@@ -74,7 +78,11 @@ contentanalysis-timeout-block-error-message-content = { $agent } უკავშ
 contentanalysis-block-dialog-title-upload-file = არ გაქვთ ამ ფაილის ატვირთვის ნებართვა.
 # Variables:
 #   $filename - Name of the file that was blocked, such as "aFile.txt"
-contentanalysis-block-dialog-body-upload-file = თქვენი დაწესებულების მონაცემთა დაცვის დებულებების შესაბამისად არ გაქვთ უფლება, რომ ატვირთოთ „{ $filename }“. მიმართეთ ზედამხედველს დამატებითი ინფორმაციისთვის.
+contentanalysis-block-dialog-body-upload-file = თქვენი დაწესებულების მონაცემთა დაცვის დებულებების შესაბამისად არ გაქვთ უფლება, რომ ატვირთოთ „{ $filename }“. მიმართეთ ხელმძღვანელობას დამატებითი ინფორმაციისთვის.
+contentanalysis-block-dialog-title-download-file = არ გაქვთ ამ ფაილის ჩამოტვირთვის ნებართვა.
+# Variables:
+#   $filename - Name of the file that was blocked, such as "aFile.txt"
+contentanalysis-block-dialog-body-download-file = თქვენი დაწესებულების მონაცემთა დაცვის დებულებების შესაბამისად არ გაქვთ უფლება, რომ ჩამოტვირთოთ „{ $filename }“. მიმართეთ ხელმძღვანელობას დამატებითი ინფორმაციისთვის.
 contentanalysis-block-dialog-title-clipboard = არ გაქვთ ამ მასალის შიგთავსის ჩასმის ნებართვა.
 contentanalysis-block-dialog-body-clipboard = თქვენი დაწესებულების მონაცემთა დაცვის დებულებების შესაბამისად არ გაქვთ უფლება, რომ ჩასვათ ამ მასალის შიგთავსი. მიმართეთ ზედამხედველს დამატებითი ინფორმაციისთვის.
 contentanalysis-block-dialog-title-dropped-text = არ გაქვთ ამ მასალის ჩავლებით განთავსების ნებართვა.

@@ -125,6 +125,8 @@ sidebar-menu-customize-label =
     .label = გვერდითი ზოლის მორგება
 sidebar-menu-contextual-password-manager-label =
     .label = პაროლები
+sidebar-menu-more-tools-label =
+    .label = სხვა ხელსაწყოები
 
 ## Tooltips for sidebar menu items.
 

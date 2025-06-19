@@ -185,6 +185,8 @@ media-capabilities-enumerate = მონაცემთა ბაზის გ�
 
 media-codec-support-sw-decoding = პროგრამული გაშიფვრა
 media-codec-support-hw-decoding = აპარატურული გაშიფვრა
+media-codec-support-sw-encoding = პროგრამული დაშიფვრა
+media-codec-support-hw-encoding = აპარატურული დაშიფვრა
 media-codec-support-codec-name = მშიფრავის დასახელება
 media-codec-support-supported = მხარდაჭერილი
 media-codec-support-unsupported = მხარდაუჭერელი

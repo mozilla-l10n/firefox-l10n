@@ -39,6 +39,12 @@ edit-profile-page-delete-button =
 edit-profile-page-avatar-selector-opener-link = ჩასწორება
 avatar-selector-icon-tab = ხატულა
 avatar-selector-custom-tab = მორგებული
+avatar-selector-cancel-button =
+    .label = გაუქმება
+avatar-selector-save-button =
+    .label = შენახვა
+avatar-selector-upload-file = ატვირთეთ ფაილი
+avatar-selector-drag-file = ან ჩავლებით გადმოტანეთ
 edit-profile-page-no-name = დაარქვით რამე, მომავალში ადვილად რომ იპოვოთ. გადარქმევა ნებისმიერ დროს შეიძლება.
 edit-profile-page-duplicate-name = პროფილის სახელი უკვე გამოიყენება. სცადეთ ახალი სახელი.
 edit-profile-page-profile-saved = შენახულია
@@ -116,6 +122,8 @@ shopping-avatar-alt =
     .alt = საყიდლების კალათა
 star-avatar-alt =
     .alt = ვარსკვლავი
+custom-avatar-alt =
+    .alt = მორგებული გამოსახულება
 
 ## Labels for default avatar icons
 

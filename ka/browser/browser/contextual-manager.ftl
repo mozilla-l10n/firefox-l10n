@@ -156,6 +156,8 @@ contextual-manager-passwords-password-already-exists-error-button = გადა
 contextual-manager-passwords-update-password-success-heading =
     .heading = პაროლი შენახულია
 contextual-manager-passwords-update-password-success-button = მზადაა
+contextual-manager-passwords-update-username-success-heading =
+    .heading = მომხმ. სახელი შენახულია
 # Message to confirm successful removal of a password/passwords.
 #   $total (number) - Total number of passwords
 contextual-manager-passwords-delete-password-success-heading =

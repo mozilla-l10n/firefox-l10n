@@ -8,6 +8,9 @@
 newtab-page-title = ახალი ჩანართი
 newtab-settings-button =
     .title = მოირგეთ ახალი ჩანართის გვერდი
+newtab-customize-panel-icon-button =
+    .title = ამ გვერდის მორგება
+newtab-customize-panel-icon-button-label = მორგება
 newtab-personalize-settings-icon-label =
     .title = ახალი ჩანართის მორგება
     .aria-label = პარამეტრები
