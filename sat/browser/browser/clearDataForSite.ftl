@@ -10,3 +10,4 @@ clear-data-for-site-browsing-history = ᱵᱽᱨᱟᱣᱡᱤᱝ ᱟᱨ ᱰᱟᱣ
 clear-data-for-site-cookies = ᱠᱩᱠᱤᱡᱽ ᱟᱨ ᱥᱟᱭᱤᱴ ᱰᱟᱴᱟ, ᱡᱟᱦᱟᱸ ᱫᱚ ᱟᱢ ᱥᱟᱭᱤᱴ ᱠᱷᱚᱱ ᱥᱟᱭᱤᱱ ᱟᱣᱩᱴ ᱫᱟᱲᱮᱭᱟᱢᱟᱭ
 clear-data-for-site-cache = ᱠᱮᱪ ᱠᱟᱱ ᱨᱮᱫ ᱠᱚ ᱟᱨ ᱥᱟᱦᱴᱟ ᱠᱚ
 cclear-data-for-site-permissions = ᱟᱹᱭᱫᱟᱹᱨ ᱟᱨ ᱠᱩᱥᱤᱠᱚ
+clear-data-for-site-exceptions = ᱵᱩᱠᱢᱟᱨᱠ ᱟᱨ ᱥᱟᱧᱪᱟᱣ ᱟᱠᱟᱱ ᱯᱟᱥᱣᱟᱨᱰ ᱵᱟᱝ ᱢᱮᱴᱟᱣᱚᱜᱼᱟ

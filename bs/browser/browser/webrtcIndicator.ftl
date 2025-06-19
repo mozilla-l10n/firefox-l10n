@@ -6,6 +6,9 @@
 ## These strings are used so that the window has a title in tools that
 ## enumerate/look for window titles. It is not normally visible anywhere.
 
+webrtc-indicator-title = { -brand-short-name } — Indikator dijeljenja
+webrtc-indicator-window =
+    .title = { -brand-short-name } — Indikator dijeljenja
 
 ## Used as list items in sharing menu
 
@@ -29,11 +32,31 @@ webrtc-sharing-menuitem =
 webrtc-sharing-menu =
     .label = Tabovi koji dijele uređaje
     .accesskey = u
+webrtc-sharing-window = Dijelite drugi prozor aplikacije.
+webrtc-sharing-browser-window = Dijelite { -brand-short-name }.
+webrtc-sharing-screen = Dijelite cijeli ekran.
+webrtc-stop-sharing-button = Zaustavi dijeljenje
+webrtc-microphone-unmuted =
+    .title = Isključi mikrofon
+webrtc-microphone-muted =
+    .title = Uključi mikrofon
+webrtc-camera-unmuted =
+    .title = Isključi kameru
+webrtc-camera-muted =
+    .title = Uključi kameru
+webrtc-minimize =
+    .title = Indikator minimiziranja
 
 ## These strings will display as a tooltip on supported systems where we show
 ## device sharing state in the OS notification area. We do not use these strings
 ## on macOS, as global menu bar items do not have native tooltips.
 
+webrtc-camera-system-menu =
+    .label = Dijelite svoju kameru. Kliknite za kontrolu dijeljenja.
+webrtc-microphone-system-menu =
+    .label = Dijelite svoj mikrofon. Kliknite za kontrolu dijeljenja.
+webrtc-screen-system-menu =
+    .label = Dijelite prozor ili ekran. Kliknite za kontrolu dijeljenja.
 
 ## Tooltips used by the legacy global sharing indicator
 
@@ -122,14 +145,44 @@ webrtc-indicator-menuitem-sharing-browser-with-n-tabs =
 ## Variables:
 ##   $origin (String): the website origin (e.g. www.mozilla.org).
 
+webrtc-allow-share-audio-capture = Dozvoliti aplikaciji { $origin } da sluša zvuk ovog taba?
+webrtc-allow-share-camera = Dozvoliti aplikaciji { $origin } da koristi vašu kameru?
+webrtc-allow-share-microphone = Dozvoliti aplikaciji { $origin } da koristi vaš mikrofon?
+webrtc-allow-share-screen = Dozvoliti aplikaciji { $origin } da vidi vaš ekran?
+# "Speakers" is used in a general sense that might include headphones or
+# another audio output connection.
+webrtc-allow-share-speaker = Dozvoliti { $origin } da koristi druge zvučnike?
+webrtc-allow-share-camera-and-microphone = Dozvoliti aplikaciji { $origin } da koristi vašu kameru i mikrofon?
+webrtc-allow-share-camera-and-audio-capture = Dozvoliti aplikaciji { $origin } da koristi vašu kameru i sluša zvuk s ovog taba?
+webrtc-allow-share-screen-and-microphone = Dozvoliti aplikaciji { $origin } da koristi vaš mikrofon i vidi vaš ekran?
+webrtc-allow-share-screen-and-audio-capture = Dozvoliti aplikaciji { $origin } da sluša zvuk ovog taba i vidi vaš ekran?
 
 ## Special phrasing for sharing devices when the origin is a file url.
 
+webrtc-allow-share-audio-capture-with-file = Dozvoliti ovoj lokalnoj datoteci da sluša zvuk ovog taba?
+webrtc-allow-share-camera-with-file = Dozvoliti ovoj lokalnoj datoteci korištenje vaše kamere?
+webrtc-allow-share-microphone-with-file = Dozvoliti ovoj lokalnoj datoteci korištenje vašeg mikrofona?
+webrtc-allow-share-screen-with-file = Dozvoliti ovoj lokalnoj datoteci da vidi vaš ekran?
+# "Speakers" is used in a general sense that might include headphones or
+# another audio output connection.
+webrtc-allow-share-speaker-with-file = Dozvoliti ovoj lokalnoj datoteci korištenje drugih zvučnika?
+webrtc-allow-share-camera-and-microphone-with-file = Dozvoliti ovoj lokalnoj datoteci korištenje vaše kamere i mikrofona?
+webrtc-allow-share-camera-and-audio-capture-with-file = Dozvoliti ovoj lokalnoj datoteci korištenje vaše kamere i slušanje zvuka s ovog taba?
+webrtc-allow-share-screen-and-microphone-with-file = Dozvoliti ovoj lokalnoj datoteci da koristi vaš mikrofon i vidi vaš ekran?
+webrtc-allow-share-screen-and-audio-capture-with-file = Dozvoliti ovoj lokalnoj datoteci da sluša zvuk ovog taba i vidi vaš ekran?
 
 ## Variables:
 ##   $origin (String): the first party origin.
 ##   $thirdParty (String): the third party origin.
 
+webrtc-allow-share-audio-capture-unsafe-delegation = Dozvoliti { $origin } da da { $thirdParty } dozvolu za slušanje zvuka ovog taba?
+webrtc-allow-share-camera-unsafe-delegation = Dozvoliti { $origin } da { $thirdParty } pristupi vašoj kameri?
+webrtc-allow-share-microphone-unsafe-delegation = Dozvoliti { $origin } da { $thirdParty } pristupi vašem mikrofonu?
+webrtc-allow-share-screen-unsafe-delegation = Dozvoliti { $origin } da da { $thirdParty } dozvolu za pregled vašeg ekrana?
+# "Speakers" is used in a general sense that might include headphones or
+# another audio output connection.
+webrtc-allow-share-speaker-unsafe-delegation = Dozvoliti { $origin } da { $thirdParty } pristupi drugim zvučnicima?
+webrtc-allow-share-camera-and-microphone-unsafe-delegation = Dozvoliti { $origin } da { $thirdParty } pristupi vašoj kameri i mikrofonu?
 
 ##
 
