@@ -183,11 +183,18 @@ webrtc-allow-share-screen-unsafe-delegation = Dozvoliti { $origin } da da { $thi
 # another audio output connection.
 webrtc-allow-share-speaker-unsafe-delegation = Dozvoliti { $origin } da { $thirdParty } pristupi drugim zvučnicima?
 webrtc-allow-share-camera-and-microphone-unsafe-delegation = Dozvoliti { $origin } da { $thirdParty } pristupi vašoj kameri i mikrofonu?
+webrtc-allow-share-camera-and-audio-capture-unsafe-delegation = Dozvoliti { $origin } da { $thirdParty } pristupi vašoj kameri i sluša zvuk s ovog taba?
+webrtc-allow-share-screen-and-microphone-unsafe-delegation = Dozvoliti { $origin } da { $thirdParty } pristupi vašem mikrofonu i vidi vaš ekran?
+webrtc-allow-share-screen-and-audio-capture-unsafe-delegation = Dozvoliti { $origin } da { $thirdParty } dozvoli slušanje zvuka ovog taba i pregled vašeg ekrana?
 
 ##
 
+webrtc-share-screen-warning = Dijelite ekrane samo sa stranicama kojim vjerujete. Dijeljenje može omogućiti obmanjujućim stranicama da pregledaju i kradu vaše privatne podatke.
+webrtc-share-browser-warning = Dijelite { -brand-short-name } samo sa stranicama kojima vjerujete. Dijeljenje može omogućiti prevarantskim stranicama da pretražuju vaše stranice i ukradu vaše privatne podatke.
 webrtc-share-screen-learn-more = Saznajte više
+webrtc-pick-window-or-screen = Odaberite prozor ili ekran
 webrtc-share-entire-screen = Cijeli ekran
+webrtc-share-pipe-wire-portal = Koristite postavke operativnog sistema
 # Variables:
 #   $monitorIndex (String): screen number (digits 1, 2, etc).
 webrtc-share-monitor = Ekran { $monitorIndex }
@@ -206,10 +213,23 @@ webrtc-share-application =
 webrtc-action-allow =
     .label = Dozvoli
     .accesskey = D
+webrtc-action-block =
+    .label = Blokiraj
+    .accesskey = B
+webrtc-action-always-block =
+    .label = Uvijek blokiraj
+    .accesskey = w
+webrtc-action-not-now =
+    .label = Ne sada
+    .accesskey = N
 
 ##
 
 webrtc-remember-allow-checkbox = Zapamti ovu odluku
+webrtc-remember-allow-checkbox-camera = Zapamti za sve kamere
+webrtc-remember-allow-checkbox-microphone = Zapamti za sve mikrofone
+webrtc-remember-allow-checkbox-camera-and-microphone = Zapamtite za sve kamere i mikrofone
+webrtc-mute-notifications-checkbox = Isključi obavještenja web stranice tokom dijeljenja
 webrtc-reason-for-no-permanent-allow-screen = { -brand-short-name } ne može dopustiti stalan pristup vašem ekranu.
 webrtc-reason-for-no-permanent-allow-audio = { -brand-short-name } ne može dozvoliti stalan pristup audiu vašeg taba bez upita koji tab želite podijeliti.
 webrtc-reason-for-no-permanent-allow-insecure = Vaša veza na ovu stranicu nije sigurna. Da bi vas zaštitio, { -brand-short-name } će dozvoliti pristup samo za ovu sesiju.
