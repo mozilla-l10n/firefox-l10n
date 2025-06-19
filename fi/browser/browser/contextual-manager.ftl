@@ -154,6 +154,8 @@ contextual-manager-passwords-password-already-exists-error-button = Siirry salas
 contextual-manager-passwords-update-password-success-heading =
     .heading = Salasana tallennettu
 contextual-manager-passwords-update-password-success-button = Valmis
+contextual-manager-passwords-update-username-success-heading =
+    .heading = Käyttäjätunnus tallennettu
 # Message to confirm successful removal of a password/passwords.
 #   $total (number) - Total number of passwords
 contextual-manager-passwords-delete-password-success-heading =
