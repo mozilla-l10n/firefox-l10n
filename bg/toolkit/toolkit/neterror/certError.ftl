@@ -75,10 +75,15 @@ fp-certerror-view-certificate-link = Преглед на сертификата 
 fp-certerror-return-to-previous-page-recommended-button = Връщане назад (препоръчително)
 # This string appears after the following string: "What makes the site look dangerous?" (fp-certerror-why-site-dangerous)
 fp-certerror-unknown-issuer-why-dangerous-body = Има проблем със сертификата на сайта. Възможно е злонамерено лице да се опитва да имитира сайта. Сайтовете използват сертификати, издадени от удостоверител на сертификати, за да докажат, че наистина са тези, за които се представят. { -brand-short-name } не се доверява на този сайт, защото не можем да определим кой е издал сертификата, дали е самоподписан или дали сайтът не изпраща междинни сертификати, на които може да се има доверие.
+fp-certerror-self-signed-important-note = ВАЖНА ЗАБЕЛЕЖКА: Ако се опитвате да посетите този сайт през служебна интранет мрежа, вашият ИТ персонал може да използва самоподписани сертификати. Те могат да ви помогнат да проверите тяхната автентичност.
+# Variables:
+#   $error (string) - NSS error code string that specifies type of cert error. e.g. unknown issuer, invalid cert, etc.
+fp-cert-error-code = Код на грешка: { $errorCode }
 
 ## Variables:
 ##   $hostname (string) - Hostname of the website with cert error.
 
+cert-error-unknown-critical-extension = { -brand-short-name } блокира посещението ви на този сайт, защото предоставеният за { $hostname } сертификат съдържа неподдържано критично разширение.
 
 ## Messages used for certificate error titles
 
@@ -87,6 +92,7 @@ deniedPortAccess-title = Този адрес е ограничен
 # "Hmm" is a sound made when considering or puzzling over something.
 # You don't have to include it in your translation if your language does not have a written word like this.
 dnsNotFound-title = Хмм. Страницата не е намерена
+internet-connection-offline-title = Изглежда, че има проблем с интернет връзката ви.
 dns-not-found-trr-only-title2 = Възможен риск за сигурността при търсене на този домейн
 fileNotFound-title = Файлът не е намерен
 fileAccessDenied-title = Достъпът до файла е отказан
@@ -102,6 +108,7 @@ contentEncodingError-title = Грешка в кодировката на съд�
 unsafeContentType-title = Опасен вид файл
 netReset-title = Връзката е прекъсната
 netTimeout-title = Времето за осъществяване на връзка изтече
+serverError-title = Изглежда, че има проблем с този сайт
 unknownProtocolFound-title = Адресът не е разпознат
 proxyConnectFailure-title = Мрежовият посредник отказва връзката
 proxyResolveFailure-title = Мрежовия посредник не може да бъде открит
@@ -121,6 +128,13 @@ certerror-mitm-title = Софтуер пречи на { -brand-short-name } да
 
 ## Felt Privacy V1 Strings
 
+fp-certerror-page-title = Предупреждение: Риск за сигурността
+fp-certerror-body-title = Бъдете внимателни. Нещо не изглежда както трябва.
+fp-certerror-why-site-dangerous = Какво прави сайтът да изглежда опасен?
+fp-certerror-what-can-you-do = Какво можете да направите?
+fp-certerror-advanced-title = Разширени
+fp-certerror-advanced-button = Разширени
+fp-certerror-hide-advanced-button = Скриване на разширените настройки
 
 ## Variables:
 ##   $hostname (String) - Hostname of the website to which the user was trying to connect.
