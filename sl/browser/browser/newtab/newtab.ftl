@@ -415,7 +415,7 @@ feature-highlight-wallpaper =
 # “Celestial” referring to astronomy; positioned in or relating to the sky,
 # or outer space as observed in astronomy.
 # Not to be confused with religious definition of the word.
-newtab-wallpaper-category-title-celestial = Nebeški
+newtab-wallpaper-category-title-celestial = Nebesna
 newtab-wallpaper-celestial-lunar-eclipse = Lunin mrk
 newtab-wallpaper-celestial-earth-night = Nočna fotografija iz nizke orbite Zemlje
 newtab-wallpaper-celestial-starry-sky = Zvezdnato nebo
