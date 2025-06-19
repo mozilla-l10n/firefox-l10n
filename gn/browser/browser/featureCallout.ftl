@@ -117,6 +117,7 @@ vertical-tabs-callout-1-subtitle = Eiporu ore rendayke pyahu oñembo’ýva emoh
 vertical-tabs-callout-1-cta-button = Eiporu tendayke oñembo’ýva
 vertical-tabs-callout-2-cta-button = Eiporu ko’ág̃a
 vertical-tabs-callout-2-title = ¿Ereko heta tendayke ijurujáva? Eiporu tendayke oñembo’ýva.
+vertical-tabs-callout-2-subtitle = Ko diseño rupi ndahasýi ojehecha pya’e hag̃ua tendayke rysýi. Ikatu avei emohenda ipekue ehecha hag̃ua heta térã sa’ive tendayke reratee.
 
 ## Sidebar Vertical Tabs Pinning Strings
 

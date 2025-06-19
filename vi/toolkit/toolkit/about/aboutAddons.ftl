@@ -501,6 +501,9 @@ shortcuts-heading = Quản lý phím tắt tiện ích mở rộng
 default-heading-search-label = Tìm thêm tiện ích
 addons-heading-search-input =
     .placeholder = Tìm kiếm addons.mozilla.org
+addons-heading-search-button =
+    .title = Tìm kiếm addons.mozilla.org
+    .aria-label = Tìm kiếm addons.mozilla.org
 addon-page-options-button =
     .title = Công cụ cho tất cả tiện ích
 

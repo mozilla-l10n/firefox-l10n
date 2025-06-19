@@ -107,3 +107,11 @@ storage-idb-delete-blocked = Cơ sở dữ liệu “{ $dbName }” sẽ bị x�
 # Variables:
 #   $dbName (String) - Name of the database
 storage-idb-delete-error = Không thể xóa cơ sở dữ liệu “{ $dbName }”.
+# Error notification when cookie could not be created (e.g. because it's invalid).
+# Variables:
+#   $errorString (String) - Platform error message
+storage-cookie-create-error = Không thể tạo cookie: “{ $errorString }”.
+# Error notification when cookie could not be edited (e.g. because it's invalid).
+# Variables:
+#   $errorString (String) - Platform error message
+storage-cookie-edit-error = Không thể cập nhật cookie: “{ $errorString }”.

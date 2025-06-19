@@ -8,6 +8,9 @@
 newtab-page-title = Thẻ mới
 newtab-settings-button =
     .title = Tùy biến trang thẻ mới
+newtab-customize-panel-icon-button =
+    .title = Tuỳ chỉnh trang này
+newtab-customize-panel-icon-button-label = Tùy chỉnh
 newtab-personalize-settings-icon-label =
     .title = Cá nhân hóa thẻ mới
     .aria-label = Cài đặt
@@ -314,6 +317,9 @@ newtab-custom-recent-toggle =
 newtab-custom-weather-toggle =
     .label = Thời tiết
     .description = Sơ lược về dự báo hôm nay
+newtab-custom-trending-search-toggle =
+    .label = Tìm kiếm thịnh hành
+    .description = Các chủ đề phổ biến và được tìm kiếm thường xuyên
 newtab-custom-close-button = Đóng
 newtab-custom-settings = Quản lý các cài đặt khác
 
@@ -564,3 +570,11 @@ newtab-toast-thanks-for-reporting =
 
 ## Strings for trending searches
 
+# "Trending on Google" refers to the trending topics coming from Google Search, usually seen when a user is focused on the search bar
+newtab-trending-searches-trending-on-google = Thịnh hành trên Google
+newtab-trending-searches-show-trending =
+    .title = Hiển thị tìm kiếm thịnh hành
+newtab-trending-searches-hide-trending =
+    .title = Ẩn tìm kiếm thịnh hành
+newtab-trending-searches-learn-more = Tìm hiểu thêm
+newtab-trending-searches-dismiss = Ẩn tìm kiếm thịnh hành

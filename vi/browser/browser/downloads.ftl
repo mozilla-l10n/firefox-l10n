@@ -185,6 +185,15 @@ downloads-details =
 
 ## These strings are displayed in the private browsing view of the downloads panel
 
+downloads-private-browsing-details =
+    .title = Các tập tin vẫn nằm trên thiết bị của bạn
+downloads-private-browsing-message = Bất kỳ ai sử dụng thiết bị này đều có thể xem nội dung tải xuống, ngay cả khi bạn đóng tất cả cửa sổ riêng tư.
+downloads-private-browsing-delete-button =
+    .label = Tự động xóa các tập tin
+    .accesskey = D
+downloads-private-browsing-accept-button =
+    .label = Đã hiểu
+    .accesskey = G
 
 ## Displayed when a site attempts to automatically download many files.
 ## Variables:

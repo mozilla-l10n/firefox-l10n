@@ -39,6 +39,12 @@ edit-profile-page-delete-button =
 edit-profile-page-avatar-selector-opener-link = Chỉnh sửa
 avatar-selector-icon-tab = Biểu tượng
 avatar-selector-custom-tab = Tùy chọn
+avatar-selector-cancel-button =
+    .label = Hủy bỏ
+avatar-selector-save-button =
+    .label = Lưu
+avatar-selector-upload-file = Tải lên một tập tin
+avatar-selector-drag-file = Hoặc kéo tập tin tại đây
 edit-profile-page-no-name = Đặt tên cho hồ sơ này để giúp bạn tìm thấy nó sau này. Có thể đổi tên bất cứ lúc nào.
 edit-profile-page-duplicate-name = Tên hồ sơ đã được sử dụng. Hãy thử một tên khác.
 edit-profile-page-profile-saved = Đã lưu
@@ -116,6 +122,8 @@ shopping-avatar-alt =
     .alt = Giỏ hàng
 star-avatar-alt =
     .alt = Dấu sao
+custom-avatar-alt =
+    .alt = Tuỳ chỉnh ảnh đại diện
 
 ## Labels for default avatar icons
 
