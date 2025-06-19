@@ -298,4 +298,3 @@ contextual-manager-passwords-remove-all-passwords-checkbox =
         [1] Sì, elimina la password
        *[other] Sì, elimina le password
     }
-
