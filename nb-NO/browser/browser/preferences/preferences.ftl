@@ -1380,6 +1380,7 @@ collection-header2 = Datainnsamling og bruk for { -brand-short-name }
     .searchkeywords = telemetri
 preferences-collection-description = Vi streber etter å gi deg valg og samler bare inn minimalt med data som er nødvendig for å forbedre { -brand-product-name } for alle.
 preferences-collection-privacy-notice = Vis personvernbestemmelser
+preferences-across-profiles = Disse innstillingene gjelder for alle { -brand-product-name }-profiler på denne enheten.
 preferences-view-profiles = Vis alle profiler
 collection-description = Vi prøver alltid å gi deg valg og samler bare det vi trenger for å levere og forbedre { -brand-short-name } for alle. Vi ber alltid om tillatelse før vi aksepterer personopplysninger.
 collection-privacy-notice = Personvernbestemmelser
