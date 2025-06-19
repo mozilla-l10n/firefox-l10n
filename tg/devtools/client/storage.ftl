@@ -107,3 +107,11 @@ storage-idb-delete-blocked = Пас аз баста шудани ҳамаи па
 # Variables:
 #   $dbName (String) - Name of the database
 storage-idb-delete-error = Пойгоҳи иттилоотии «{ $dbName }» нест карда намешавад.
+# Error notification when cookie could not be created (e.g. because it's invalid).
+# Variables:
+#   $errorString (String) - Platform error message
+storage-cookie-create-error = Куки эҷод карда нашуд: «{ $errorString }».
+# Error notification when cookie could not be edited (e.g. because it's invalid).
+# Variables:
+#   $errorString (String) - Platform error message
+storage-cookie-edit-error = Куки нав карда нашуд: «{ $errorString }».

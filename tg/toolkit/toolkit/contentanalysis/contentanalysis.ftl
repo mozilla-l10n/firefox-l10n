@@ -80,6 +80,9 @@ contentanalysis-block-dialog-title-upload-file = Шумо барои бор ка
 #   $filename - Name of the file that was blocked, such as "aFile.txt"
 contentanalysis-block-dialog-body-upload-file = Тибқи сиёсати ҳифзи маълумоти ташкилоти шумо, ба шумо барои бор кардани файли «{ $filename }» иҷозат дода нашудааст. Барои маълумоти бештар бо маъмури низом дар тамос шавед.
 contentanalysis-block-dialog-title-download-file = Шумо барои боргирӣ кардани ин файл иҷозат надоред
+# Variables:
+#   $filename - Name of the file that was blocked, such as "aFile.txt"
+contentanalysis-block-dialog-body-download-file = Тибқи сиёсати ҳифзи маълумоти ташкилоти шумо, ба шумо барои боргирӣ кардани файли «{ $filename }» иҷозат дода нашудааст. Барои маълумоти бештар бо маъмури низом дар тамос шавед.
 contentanalysis-block-dialog-title-clipboard = Шумо барои гузоштани ин муҳтаво иҷозат надоред
 contentanalysis-block-dialog-body-clipboard = Тибқи сиёсати ҳифзи маълумоти ташкилоти шумо, ба шумо барои гузоштани ин муҳтаво иҷозат дода нашудааст. Барои маълумоти бештар бо маъмури низом дар тамос шавед.
 contentanalysis-block-dialog-title-dropped-text = Шумо барои ҷойгир кардани ин муҳтаво иҷозат надоред

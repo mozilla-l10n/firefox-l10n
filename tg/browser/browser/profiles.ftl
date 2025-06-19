@@ -44,6 +44,7 @@ avatar-selector-cancel-button =
 avatar-selector-save-button =
     .label = Нигоҳ доштан
 avatar-selector-upload-file = Бор кардани файл
+avatar-selector-drag-file = Ё файлро ба ин ҷой кашед
 edit-profile-page-no-name = Ин профилро номгузорӣ кунед, то тавонед онро дертар ба осонӣ пайдо кунед. Шумо метавонед номро дар вақти дилхоҳ иваз намоед.
 edit-profile-page-duplicate-name = Номи профил аллакай истифода мешавад. Номи наверо кӯшиш кунед.
 edit-profile-page-profile-saved = Нигоҳ дошта шуд
