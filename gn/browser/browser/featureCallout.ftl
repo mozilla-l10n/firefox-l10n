@@ -122,6 +122,7 @@ vertical-tabs-callout-2-subtitle = Ko diseño rupi ndahasýi ojehecha pya’e ha
 ## Sidebar Vertical Tabs Pinning Strings
 
 sidebar-pins-callout-title = ¿Okañy tendayke ojeporuvéva rapykuere?
+sidebar-pins-callout-subtitle = Eñeha’ã emboja opytameme hag̃ua yvateve tendayke rysýipe. Eikutu votõ akatuagua tendayke embojaséva ha, upéi, eiporavo Tendayke Mboja.
 sidebar-pins-callout-cta-button = Emboja tendayke
 
 ## Sidebar Onboarding Strings
