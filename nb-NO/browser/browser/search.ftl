@@ -38,6 +38,8 @@ remove-search-engine-button = OK
 ## Variables
 ## $newEngine (String) - the name of the new default search engine.
 
+reset-search-settings-message = På grunn av et teknisk problem er standardsøkemotor endret tilbake til { $newEngine }. Gå til innstillinger for å endre standard søkemotor.
+reset-search-settings-button = OK
 
 ## Infobar shown when user is prompted to install search engine.
 ## Variables
@@ -52,11 +54,25 @@ install-search-engine-no = Nei
 add-engine-window =
     .title = Legg til søkemotor
     .style = min-width: 32em;
+edit-engine-window =
+    .title = Rediger søkemotor
+    .style = min-width: 32em;
 add-engine-button = Legg til egendefinert søkemotor
 add-engine-name = Søkemotornavn
+add-engine-url2 = Nettadresse med %s i stedet for søkeord
+add-engine-keyword2 = Nøkkelord (valgfritt)
+# POST and GET refer to the HTTP methods.
+add-engine-post-data = POST-data med %s i stedet for søkeordet (la feltet stå tomt for GET)
+add-engine-suggest-url = Forslags-nettadresse med %s i stedet for søkeord (valgfritt)
 
 ## The following placeholders are shown in the inputs when adding a new engine.
 
+add-engine-name-placeholder =
+    .placeholder = f.eks. Mozilla Developer Network
+add-engine-url-placeholder =
+    .placeholder = f.eks. https://developer.mozilla.com/search?q=%s
+add-engine-keyword-placeholder =
+    .placeholder = f.eks. @mdn
 
 ## The following strings are used as error messages.
 
