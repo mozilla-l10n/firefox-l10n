@@ -51,3 +51,70 @@ serviceworker-empty-intro-link = Saznajte više
 # introducing hints to debug Service Worker issues.
 # <a> and <span> are links that will open the webconsole and the debugger, respectively.
 serviceworker-empty-suggestions2 = Ako bi trenutna stranica trebala imati service workera, možete potražiti greške u <a>konzoli</a> ili prelistati svoju registraciju service workera u <span>ispravljaču grešaka</span>.
+# Suggestion to go to about:debugging in order to see Service Workers for all domains.
+# Link will open about:debugging in a new tab.
+serviceworker-empty-suggestions-aboutdebugging2 = Pogledajte service workere iz drugih domena
+# Header for the Manifest page when we have an actual manifest
+manifest-view-header = Manifest aplikacije
+# Header for the Manifest page when there's no manifest to inspect
+manifest-empty-intro2 = Nije otkriven manifest web aplikacije
+# The link will open https://developer.mozilla.org/en-US/docs/Web/Manifest
+manifest-empty-intro-link = Naučite kako dodati manifest
+# Header for the Errors and Warnings section of Manifest inspection displayed in the application panel.
+manifest-item-warnings = Greške i upozorenja
+# Header for the Identity section of Manifest inspection displayed in the application panel.
+manifest-item-identity = Identitet
+# Header for the Presentation section of Manifest inspection displayed in the application panel.
+manifest-item-presentation = Prezentacija
+# Header for the Icon section of Manifest inspection displayed in the application panel.
+manifest-item-icons = Ikone
+# Text displayed while we are loading the manifest file
+manifest-loading = Učitavanje manifesta…
+# Text displayed when the manifest has been successfully loaded
+manifest-loaded-ok = Manifest učitan.
+# Text displayed as a caption when there has been an error while trying to
+# load the manifest
+manifest-loaded-error = Došlo je do greške prilikom učitavanja manifesta:
+# Text displayed as an error when there has been a Firefox DevTools error while
+# trying to load the manifest
+manifest-loaded-devtools-error = Greška u Firefox DevTools-u
+# Text displayed when the page has no manifest available
+manifest-non-existing = Nije pronađen manifest za pregled.
+# Text displayed when the page has a manifest embedded in a Data URL and
+# thus we cannot link to it.
+manifest-json-link-data-url = Manifest je ugrađen u URL podataka.
+# Text displayed at manifest icons to label their purpose, as declared
+# in the manifest.
+# Variables:
+#   $purpose (string) - Manifest purpose
+manifest-icon-purpose = Svrha: <code>{ $purpose }</code>
+# Text displayed as the alt attribute for <img> tags showing the icons in the
+# manifest.
+manifest-icon-img =
+    .alt = Ikona
+# Text displayed as the title attribute for <img> tags showing the icons in the
+# manifest.
+# Variables:
+#   $sizes (string) - User-dependent string that has been parsed as a
+#                     space-separated list of `<width>x<height>` sizes or
+#                     the keyword `any`.
+manifest-icon-img-title = Ikona s veličinama: { $sizes }
+# Text displayed as the title attribute for <img> tags showing the icons in the
+# manifest, in case there's no icon size specified by the user
+manifest-icon-img-title-no-sizes = Ikona neodređene veličine
+# Sidebar navigation item for Manifest sidebar item section
+sidebar-item-manifest = Manifest
+    .alt = Ikona manifesta
+    .title = Manifest
+# Sidebar navigation item for Service Workers sidebar item section
+sidebar-item-service-workers = Service workeri
+    .alt = Ikona service workera
+    .title = Service workeri
+# Text for the ALT and TITLE attributes of the warning icon
+icon-warning =
+    .alt = Ikona upozorenja
+    .title = Upozorenje
+# Text for the ALT and TITLE attributes of the error icon
+icon-error =
+    .alt = Ikona greške
+    .title = Greška
