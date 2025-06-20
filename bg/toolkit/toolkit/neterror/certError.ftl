@@ -87,7 +87,7 @@ fp-certerror-self-signed-what-can-you-do-body = Не много. Вероятн�
 fp-certerror-self-signed-important-note = ВАЖНА ЗАБЕЛЕЖКА: Ако се опитвате да посетите този сайт през служебна интранет мрежа, вашият ИТ персонал може да използва самоподписани сертификати. Те могат да ви помогнат да проверите тяхната автентичност.
 # Variables:
 #   $error (string) - NSS error code string that specifies type of cert error. e.g. unknown issuer, invalid cert, etc.
-fp-cert-error-code = Код на грешка: { $errorCode }
+fp-cert-error-code = Код на грешка: { $error }
 
 ## Variables:
 ##   $hostname (string) - Hostname of the website with cert error.

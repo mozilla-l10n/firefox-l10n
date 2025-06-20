@@ -39,7 +39,6 @@ inactive-css-first-letter-pseudo-element-not-supported = <strong>{ $property }</
 inactive-css-placeholder-pseudo-element-not-supported = <strong>{ $property }</strong> nije podržano na pseudoelementima ::placeholder.
 inactive-css-property-because-of-display = <strong>{ $property }</strong> ne utječe na ovaj element jer sadrži prikaz <strong>{ $display }</strong>.
 inactive-css-not-display-block-on-floated = Vrijednost za <strong>display</strong> promijenjena je u <strong>block</strong> jer je element postavljen na <strong>float</strong>.
-inactive-css-not-display-block-on-floated-2 = Vrijednost za <strong>display</strong> promijenjena je u <strong>block</strong> jer je element postavljen na <strong>float</strong>.
 inactive-css-only-non-grid-or-flex-item = <strong>{ $property }</strong> nema učinka jer se ne može koristiti na grid ili flex elementima.
 inactive-css-not-block = <strong>{ $property }</strong> ne utječe na ovaj element jer se primijenjuje samo na elemente na razini bloka.
 inactive-css-not-floated = <strong>{ $property }</strong> nema učinka jer se primjenjuje samo na float elemente.
@@ -114,7 +113,6 @@ inactive-css-not-table-cell-fix = Pokušaj dodati <strong>display:table-cell</st
 inactive-scroll-padding-when-not-scroll-container-fix = Pokušaj dodati <strong>overflow:auto</strong>, <strong>overflow:scroll</strong> ili <strong>overflow:hidden</strong>. { learn-more }
 inactive-css-border-image-fix = U nadređenom elementu tablice ukloni svojstvo ili promijeni vrijednost <strong>border-collapse</strong> na vrijednost koja nije <strong>collapse</strong>. { learn-more }
 inactive-css-resize-fix = Pokušaj postaviti <strong>overflow</strong> na vrijednost koja nije <strong>visible</strong> ili pokušaj ciljati zamijenjeni element koji ga podržava. { learn-more }
-inactive-css-ruby-element-fix = Pokušaj promijeniti veličinu fonta ruby teksta. { learn-more }
 
 ## In the Rule View when a CSS property may have compatibility issues with other browsers
 ## we display an icon. When this icon is hovered this message is displayed to explain why
