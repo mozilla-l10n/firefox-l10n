@@ -104,31 +104,157 @@ contextual-manager-passwords-remove-all-title =
        *[other] Ukloniti sve { $total } lozinke?
     }
 contextual-manager-passwords-origin-label = Web stranica
+# The attribute .data-after describes the text that should be displayed for the ::after pseudo-selector
+contextual-manager-passwords-username-label = Korisničko ime
+    .data-after = Kopirano
+# The attribute .data-after describes the text that should be displayed for the ::after pseudo-selector
+contextual-manager-passwords-password-label = Lozinka
+    .data-after = Kopirano
+contextual-manager-passwords-radiogroup-label =
+    .aria-label = Filtriraj lozinke
+# Variables
+#   $url (string) - The url associated with the new login
+contextual-manager-passwords-add-password-success-heading =
+    .heading = Lozinka je dodana za { $url }
+contextual-manager-passwords-add-password-success-button = Prikaz
+# Variables
+#   $url (string) - The url associated with the existing login
+contextual-manager-passwords-password-already-exists-error-heading =
+    .heading = Lozinka i korisničko ime za { $url } već postoje
+contextual-manager-passwords-password-already-exists-error-button = Idi na lozinku
+contextual-manager-passwords-update-password-success-heading =
+    .heading = Lozinka je sačuvana
 contextual-manager-passwords-update-password-success-button = Gotovo
+contextual-manager-passwords-update-username-success-heading =
+    .heading = Korisničko ime sačuvano
 contextual-manager-passwords-delete-password-success-button = Gotovo
+#
+# Radiobutton label to display total number of passwords
+#   $total (number) - Total number of passwords
+contextual-manager-passwords-radiobutton-all = Sve ({ $total })
+# Radiobutton label to display total number of alerts
+#   $total (number) - Total number of alerts
+contextual-manager-passwords-radiobutton-alerts = Upozorenja ({ $total })
 # This message is displayed to make sure that a user wants to delete an existing login.
 contextual-manager-passwords-remove-login-card-title = Ukloniti lozinku?
+# This message warns the user that deleting a login is permanent.
+contextual-manager-passwords-remove-login-card-message = Ovo ne možete poništiti.
+# This message gives the user an option to go back to the edit login form.
+contextual-manager-passwords-remove-login-card-back-message = Nazad
 # This message confirms that the user wants to remove an existing login.
 contextual-manager-passwords-remove-login-card-remove-button = Ukloni
 # This message gives the user the option to cancel their attempt to remove a login.
 contextual-manager-passwords-remove-login-card-cancel-button = Otkaži
+contextual-manager-passwords-alert-card =
+    .aria-label = Upozorenja lozinki
+contextual-manager-passwords-alert-back-button =
+    .label = Nazad
+contextual-manager-passwords-alert-list =
+    .aria-label = Lista upozorenja
+contextual-manager-passwords-breached-origin-heading-and-message =
+    .heading = Preporučuje se promjena lozinke
+    .message = Prijavljeno je da su lozinke s ove web stranice ukradene ili procurile. Promijenite lozinku kako biste zaštitili svoj račun.
+contextual-manager-passwords-breached-origin-link-message = Kako { -brand-product-name } zna o povredama sigurnosti?
+contextual-manager-passwords-change-password-button = Promijeni lozinku
+contextual-manager-passwords-vulnerable-password-heading-and-message =
+    .heading = Preporučuje se promjena lozinke
+    .message = Ovu lozinku je lako pogoditi. Promijenite lozinku kako biste zaštitili svoj račun.
+contextual-manager-passwords-vulnerable-password-link-message = Kako { -brand-product-name } zna za slabe lozinke?
+contextual-manager-passwords-no-username-heading-and-message =
+    .heading = Dodajte korisničko ime
+    .message = Dodajte jedno za bržu prijavu.
+contextual-manager-passwords-add-username-button = Dodajte korisničko ime
 
 ## Login Form
 
 contextual-manager-passwords-create-label =
     .label = Dodaj lozinku
+contextual-manager-passwords-edit-label =
+    .label = Uredi lozinku
+contextual-manager-passwords-remove-label =
+    .title = Ukloni lozinku
+contextual-manager-passwords-origin-tooltip = Unesite tačnu adresu putem koje ćete se prijaviti na ovu stranicu.
+contextual-manager-passwords-username-tooltip = Unesite korisničko ime, email adresu ili broj računa koji koristite za prijavu.
+contextual-manager-passwords-password-tooltip = Unesite lozinku koja se koristi za prijavu na ovaj račun.
 
 ## Password Card
 
 contextual-manager-passwords-list-label =
     .aria-label = Lozinke
+contextual-manager-website-icon =
+    .alt = Ikona web stranice
 contextual-manager-copy-icon =
     .alt = Kopiraj
+contextual-manager-check-icon-username =
+    .alt = Kopirano
+contextual-manager-check-icon-password =
+    .alt = Kopirano
+contextual-manager-alert-icon =
+    .alt = Upozorenje
+# Variables
+#   $url (string) - The url associated with the login
+contextual-manager-origin-login-line =
+    .aria-label = Posjetite { $url }
+    .title = Posjetite { $url }
+# "(Warning)" indicates that a login's origin field has an alert icon.
+# Variables
+#   $url (string) - The url associated with the login
+contextual-manager-origin-login-line-with-alert =
+    .aria-label = Posjetite { $url } (Upozorenje)
+    .title = Posjetite { $url } (Upozorenje)
+# Variables
+#   $username (string) - The username associated with the login
+contextual-manager-username-login-line =
+    .aria-label = Kopiraj korisničko ime { $username }
+    .title = Kopiraj korisničko ime { $username }
+# "(Warning)" indicates that a login's username field has an alert icon.
+# Variables
+#   $username (string) - The username associated with the login
+contextual-manager-username-login-line-with-alert =
+    .aria-label = Kopiraj korisničko ime { $username } (Upozorenje)
+    .title = Kopiraj korisničko ime { $username } (Upozorenje)
+contextual-manager-password-login-line =
+    .aria-label = Kopiraj lozinku
+    .title = Kopiraj lozinku
+# "(Warning)" indicates that a login's password field has an alert icon.
+contextual-manager-password-login-line-with-alert =
+    .aria-label = Kopiraj lozinku (Upozorenje)
+    .title = Kopiraj lozinku (Upozorenje)
+contextual-manager-edit-login-button = Uredi
+    .tooltiptext = Uredi lozinku
+contextual-manager-view-alert-heading =
+    .heading = Prikaži upozorenje
+contextual-manager-view-alert-button =
+    .tooltiptext = Pregledaj upozorenje
+contextual-manager-show-password-button =
+    .aria-label = Prikaži lozinku
+    .title = Prikaži lozinku
+contextual-manager-hide-password-button =
+    .aria-label = Sakrij lozinku
+    .title = Sakrij lozinku
+# The message displayed when the search text does not match any of the user's saved logins.
+contextual-manager-passwords-no-passwords-found-header =
+    .heading = Nije pronađena nijedna lozinka
+contextual-manager-passwords-no-passwords-found-message = Nije pronađena nijedna lozinka. Pretražite drugi pojam i pokušajte ponovo.
 
 ## When the user has no saved passwords, we display the following messages to inform the user they can save
 ## their passwords safely and securely in Firefox:
 
+# This string encourages the user to save their passwords in Firefox (the "safe spot").
+contextual-manager-passwords-no-passwords-header = Sačuvajte svoje lozinke na sigurnom mjestu.
+# This string informs that we (Firefox) store all passwords securely and will notify them of any breaches and alerts their
+# passwords may be involved in.
+contextual-manager-passwords-no-passwords-message = Sve lozinke su šifrovane i pratit ćemo moguće povrede i upozorenja ako ste pogođeni.
+# This string encourages the user to save their passwords to Firefox again.
+contextual-manager-passwords-no-passwords-get-started-message = Dodajte ih ovdje da biste započeli.
+# This string is displayed in a button. If the user clicks it, they will be taken to a form to create a new password.
+contextual-manager-passwords-add-manually = Dodaj ručno
 
 ## When the user cancels a login that's currently being edited, we display a message to confirm whether
 ## or not the user wants to discard their current edits to the login.
 
+contextual-manager-passwords-discard-changes-heading-and-message =
+    .heading = Zatvoriti bez spremanja?
+    .message = Vaše promjene neće biti sačuvane.
+contextual-manager-passwords-discard-changes-close-button = Zatvori
+contextual-manager-passwords-discard-changes-go-back-button = Idi nazad
