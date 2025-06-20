@@ -34,6 +34,10 @@ contentanalysis-operationtype-clipboard = área de transferência
 contentanalysis-operationtype-dropped-text = texto arrastado
 contentanalysis-operationtype-print = imprimir
 #   $filename - The filename associated with the request, such as "aFile.txt"
+contentanalysis-upload-description = envio de “{ $filename }”
+#   $filename - The filename associated with the request, such as "aFile.txt"
+contentanalysis-download-description = download de “{ $filename }”
+#   $filename - The filename associated with the request, such as "aFile.txt"
 contentanalysis-customdisplaystring-description = envio de “{ $filename }”
 contentanalysis-warndialogtitle = Este conteúdo pode não ser seguro
 # Variables:
@@ -75,6 +79,10 @@ contentanalysis-block-dialog-title-upload-file = Você não tem permissão para 
 # Variables:
 #   $filename - Name of the file that was blocked, such as "aFile.txt"
 contentanalysis-block-dialog-body-upload-file = Conforme a política de proteção de dados da sua organização, você não tem permissão para enviar o arquivo “{ $filename }”. Entre em contato com um administrador para obter mais informações.
+contentanalysis-block-dialog-title-download-file = Você não tem permissão para baixar este arquivo
+# Variables:
+#   $filename - Name of the file that was blocked, such as "aFile.txt"
+contentanalysis-block-dialog-body-download-file = Conforme a política de proteção de dados da sua organização, você não tem permissão para baixar o arquivo “{ $filename }”. Entre em contato com um administrador para obter mais informações.
 contentanalysis-block-dialog-title-clipboard = Você não tem permissão para colar este conteúdo
 contentanalysis-block-dialog-body-clipboard = Conforme a política de proteção de dados da sua organização, você não tem permissão para colar este conteúdo. Entre em contato com um administrador para obter mais informações.
 contentanalysis-block-dialog-title-dropped-text = Você não tem permissão para arrastar e soltar este conteúdo
