@@ -30,5 +30,5 @@ appmenu-addon-private-browsing-installed2 =
     .buttonlabel = Bonu
     .buttonaccesskey = O
 appmenu-addon-post-install-incognito-checkbox =
-    .label = Pirmetti a stu stinneriu di travagghiari ntê Finestri privati
+    .label = Pirmèttici a stu stinneriu d'abbiàrisi nnê Finestri privati
     .accesskey = A
