@@ -438,8 +438,7 @@ onboarding-genai-sidebar-secondary-button = Gezinmeye başla
 
 onboarding-checklist-title = { -brand-short-name } kurulumunu tamamlayın
 onboarding-checklist-subtitle = Tarayıcınızdan en iyi şekilde yararlanmak için bu adımları tamamlayın.
-onboarding-checklist-set-default = { -brand-short-name } tarayıcısını varsayılan tarayıcım yap
-onboarding-checklist-pin = { -brand-short-name } tarayıcısını görev çubuğuma sabitle
+onboarding-checklist-set-default = { -brand-short-name } tarayıcısını varsayılan tarayıcınız yapın
 onboarding-checklist-import = Önceki tarayıcımdan içe aktar
 onboarding-checklist-extension = Bir uzantı ekle
 onboarding-checklist-sign-up = Hesap aç veya hesaba giriş yap
