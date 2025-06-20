@@ -61,15 +61,13 @@ webext-perms-description-data-short-websiteContent = περιεχόμενο ισ
 
 ## Long form to be used in `about:addons` when these data collection permissions are optional.
 
-webext-perms-description-data-long-authenticationInfo = Κοινοποίηση πληροφοριών ταυτοποίησης με τον προγραμματιστή της επέκτασης
-webext-perms-description-data-long-bookmarksInfo = Κοινοποίηση πληροφοριών σελιδοδεικτών με τον προγραμματιστή της επέκτασης
-webext-perms-description-data-long-browsingActivity = Κοινοποίηση δραστηριότητας περιήγησης με τον προγραμματιστή της επέκτασης
-webext-perms-description-data-long-financialAndPaymentInfo = Κοινοποίηση οικονομικών στοιχείων και πληροφοριών πληρωμών με τον προγραμματιστή της επέκτασης
-webext-perms-description-data-long-healthInfo = Κοινοποίηση πληροφοριών υγείας με τον προγραμματιστή της επέκτασης
-webext-perms-description-data-long-locationInfo = Κοινοποίηση πληροφοριών τοποθεσίας με τον προγραμματιστή της επέκτασης
-webext-perms-description-data-long-personalCommunications = Κοινοποίηση προσωπικών επικοινωνιών με τον προγραμματιστή της επέκτασης
-webext-perms-description-data-long-personallyIdentifyingInfo = Κοινοποίηση δεδομένων προσωπικού χαρακτήρα στον προγραμματιστή της επέκτασης
-webext-perms-description-data-long-searchTerms = Κοινοποίηση όρων αναζήτησης με τον προγραμματιστή της επέκτασης
-webext-perms-description-data-long-technicalAndInteraction = Κοινοποίηση τεχνικών δεδομένων και δεδομένων αλληλεπίδρασης με τον προγραμματιστή της επέκτασης
-webext-perms-description-data-long-websiteActivity = Κοινοποίηση δραστηριότητας ιστοτόπων με τον προγραμματιστή της επέκτασης
-webext-perms-description-data-long-websiteContent = Κοινοποίηση περιεχομένου ιστοτόπων με τον προγραμματιστή της επέκτασης
+webext-perms-description-data-long-authenticationInfo = Κοινοποίηση πληροφοριών ταυτοποίησης στον δημιουργό της επέκτασης
+webext-perms-description-data-long-bookmarksInfo = Κοινοποίηση πληροφοριών σελιδοδεικτών στον δημιουργό της επέκτασης
+webext-perms-description-data-long-browsingActivity = Κοινοποίηση δραστηριότητας περιήγησης στον δημιουργό της επέκτασης
+webext-perms-description-data-long-financialAndPaymentInfo = Κοινοποίηση οικονομικών στοιχείων και πληροφοριών πληρωμών στον δημιουργό της επέκτασης
+webext-perms-description-data-long-healthInfo = Κοινοποίηση πληροφοριών υγείας στον δημιουργό της επέκτασης
+webext-perms-description-data-long-locationInfo = Κοινοποίηση πληροφοριών τοποθεσίας στον δημιουργό της επέκτασης
+webext-perms-description-data-long-personalCommunications = Κοινοποίηση προσωπικών επικοινωνιών στον δημιουργό της επέκτασης
+webext-perms-description-data-long-personallyIdentifyingInfo = Κοινοποίηση δεδομένων προσωπικού χαρακτήρα στον δημιουργό της επέκτασης
+webext-perms-description-data-long-searchTerms = Κοινοποίηση όρων αναζήτησης στον δημιουργό της επέκτασης
+webext-perms-description-data-long-technicalAndInteraction = Κοινοποίηση τεχνικών δεδομένων και δεδομένων αλληλεπίδρασης στον δημιουργό της επέκτασης
