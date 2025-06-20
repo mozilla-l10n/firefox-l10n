@@ -103,6 +103,7 @@ contextual-manager-passwords-remove-all-title =
         [few] Ukloniti { $total } lozinke?
        *[other] Ukloniti sve { $total } lozinke?
     }
+contextual-manager-passwords-origin-label = Web stranica
 contextual-manager-passwords-update-password-success-button = Gotovo
 contextual-manager-passwords-delete-password-success-button = Gotovo
 # This message is displayed to make sure that a user wants to delete an existing login.

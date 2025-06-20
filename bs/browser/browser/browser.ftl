@@ -388,6 +388,7 @@ quickactions-print2 = Štampaj stranicu
 quickactions-cmd-print = štampaj
 # Opens the print dialog at the save to PDF option
 quickactions-savepdf = Sačuvaj stranicu kao PDF
+quickactions-cmd-savepdf2 = pdf, sačuvaj stranicu
 quickactions-cmd-savepdf = pdf
 # Opens a new private browsing window
 quickactions-private2 = Otvori privatni prozor
@@ -400,9 +401,12 @@ quickactions-restart = Restartuj { -brand-short-name }
 quickactions-cmd-restart = restart
 # Opens the screenshot tool
 quickactions-screenshot3 = Napravi snimak ekrana
+quickactions-cmd-screenshot2 = snimak ekrana, napravi snimak ekrana
 quickactions-cmd-screenshot = snimak ekrana
 # Opens about:preferences
 quickactions-settings2 = Upravljaj postavkama
+# "manage" should match the corresponding command, which is “Manage settings” in English.
+quickactions-cmd-settings2 = postavke, preferencije, opcije, upravljanje
 quickactions-cmd-settings = postavke, lične postavke, mogućnosti
 # Opens about:addons page in the themes section
 quickactions-themes = Upravljaj temama
@@ -412,10 +416,15 @@ quickactions-update = Ažuriraj { -brand-short-name }
 quickactions-cmd-update = ažuriraj
 # Opens the view-source UI with current pages source
 quickactions-viewsource2 = Pregled izvornog koda stranice
+quickactions-cmd-viewsource2 = pogledajte izvor, izvor, izvor stranice
 quickactions-cmd-viewsource = pogledaj izvor, izvor
 # Tooltip text for the help button shown in the result.
 quickactions-learn-more =
     .title = Saznajte više o Brzim radnjama
+# Will be shown to users the first configurable number of times
+# they experience actions giving them instructions on how to
+# select the action shown by pressing the tab key.
+press-tab-label = Pritisnite tab da biste odabrali:
 
 ## Bookmark Panel
 
@@ -689,6 +698,8 @@ urlbar-result-action-visit = Posjeti
 # Variables
 # $container (String): the name of the target container
 urlbar-result-action-switch-tab-with-container = Prebaci na tab · <span>{ $container }</span>
+# Used when the target tab is in a tab group that doesn't have a label.
+urlbar-result-action-tab-group-unnamed = Neimenovana grupa
 # Allows the user to visit a URL that was previously copied to the clipboard.
 urlbar-result-action-visit-from-clipboard = Posjetite iz međuspremnika
 # Directs a user to press the Tab key to perform a search with the specified
@@ -718,6 +729,38 @@ urlbar-result-action-copy-to-clipboard = Kopiraj
 # Variables
 #  $result (String): the string representation for a formula result
 urlbar-result-action-calculator-result = = { $result }
+# The string returned for an undefined calculator result such as when dividing by 0
+urlbar-result-action-undefined-calculator-result = nedefinirano
+# Shows the result of a formula expression being calculated, in scientific notation.
+# The last = sign will be shown as part of the result (e.g. "= 1.0e17").
+# Variables
+#  $result (String): the string representation for a result in scientific notation
+#  (e.g. "1.0e17").
+urlbar-result-action-calculator-result-scientific-notation = = { $result }
+# Shows the result of a formula expression being calculated, this is used for numbers >= 1.
+# The last = sign will be shown as part of the result (e.g. "= 2").
+# Variables
+#  $result (String): the string representation for a formula result
+urlbar-result-action-calculator-result-3 = = { NUMBER($result, useGrouping: "false", maximumFractionDigits: 8) }
+# Shows the result of a formula expression being calculated, to a maximum of 9 significant
+# digits. This is used for numbers < 1.
+# The last = sign will be shown as part of the result (e.g. "= 0.333333333").
+# Variables
+#  $result (String): the string representation for a formula result
+urlbar-result-action-calculator-result-decimal = = { NUMBER($result, maximumSignificantDigits: 9) }
+# The title of a weather suggestion in the urlbar. The temperature and unit
+# substring should be inside a <strong> tag. If the temperature and unit are not
+# adjacent in the localization, it's OK to include only the temperature in the
+# tag.
+# Variables:
+#   $temperature (number) - The temperature value
+#   $unit (String) - The unit for the temperature, either "C" or "F"
+#   $city (String) - The name of the city the weather data is for
+#   $region (String) - The name of the city's region or country. Depending on
+#       the user's location in relation to the city, this may be the name or
+#       abbreviation of one of the city's administrative divisions like a
+#       province or state, or it may be the name of the city's country.
+urlbar-result-weather-title = <strong>{ $temperature }°{ $unit }</strong> u { $city }, { $region }
 # The title of a weather suggestion in the urlbar including a region and
 # country. The temperature and unit substring should be inside a <strong> tag.
 # If the temperature and unit are not adjacent in the localization, it's OK to
@@ -739,6 +782,12 @@ urlbar-result-weather-title-with-country = <strong>{ $temperature }°{ $unit }</
 #   $unit (String) - The unit for the temperature, either "C" or "F"
 #   $city (String) - The name of the city the weather data is for
 urlbar-result-weather-title-city-only = <strong>{ $temperature }°{ $unit }</strong> in { $city }
+# Shows the name of the provider of weather data in a weather suggestion in the
+# urlbar.
+# Variables:
+#   $provider (String) - The name of the weather-data provider. It will be the
+#       name of a company, organization, or service.
+urlbar-result-weather-provider-sponsored = { $provider } · Sponzorisano
 
 ## Strings used for buttons in the urlbar
 
@@ -792,6 +841,9 @@ urlbar-result-action-search-actions = Pretraži radnje
 # Label for a quickaction result used to switch to an open tab group.
 #  $group (String): the name of the tab group to switch to
 urlbar-result-action-switch-to-tabgroup = Prebaci se na { $group }
+# Label for a quickaction result used to re-opan a saved tab group.
+#  $group (String): the name of the tab group to re-open
+urlbar-result-action-open-saved-tabgroup = Otvori { $group }
 
 ## Labels shown above groups of urlbar results
 
