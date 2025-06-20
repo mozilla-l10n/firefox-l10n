@@ -43,7 +43,7 @@ import-migrating-description = Staju mpurtannu sti cosi…
 import-select-profile-page-title = Scarta u profilu
 import-select-profile-description = Chisti sunu i profila ca poi scègghiri:
 import-done-description = Chisti sunnu i cosi ca potti pigghiari:
-import-close-source-browser = Pi favuri vidi si u navicaturi ca scartasti fu chiusu prima di cuntinuari.
+import-close-source-browser = Pi favuri virìfica si chiudisti u navicaturi ca scartasti prima di cuntinuari.
 imported-safari-reading-list = Lista di littura (di Safari)
 
 ## Browser data types

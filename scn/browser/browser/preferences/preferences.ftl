@@ -623,8 +623,8 @@ sync-connect-another-device = Culleja n’autru dispusitivu
 sync-verification-sent-title = Virìfica mannata
 # Variables:
 #   $email (String): Email address of user's Firefox account.
-sync-verification-sent-body = Na lijami di virìfica fu mannatu a { $email }.
-sync-verification-not-sent-title = Nun fu pussìbbili mannari nuḍḍa virìfica
+sync-verification-sent-body = Mannammu na lijami di virìfica a { $email }.
+sync-verification-not-sent-title = Nun pòttimu mannari nuḍḍa virìfica
 sync-verification-not-sent-body = P’accamora nun putemu mannari na virìfica, torna a prova cchiù tardu.
 
 ## Privacy Section
