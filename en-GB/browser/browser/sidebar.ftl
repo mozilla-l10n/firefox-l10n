@@ -125,6 +125,8 @@ sidebar-menu-customize-label =
     .label = Customise sidebar
 sidebar-menu-contextual-password-manager-label =
     .label = Passwords
+sidebar-menu-more-tools-label =
+    .label = More tools
 
 ## Tooltips for sidebar menu items.
 
