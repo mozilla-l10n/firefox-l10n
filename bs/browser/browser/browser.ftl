@@ -370,8 +370,12 @@ quickactions-firefoxview = Otvori { -firefoxview-brand-name }
 # "Firefox View". If you have translated the name in your language, you
 # should use a word related to the existing translation.
 quickactions-cmd-firefoxview = otvori { -firefoxview-brand-name }, { -firefoxview-brand-name }, otvori prikaz, prikaz
+# Opens SUMO home page
+quickactions-help = { -brand-product-name } pomoć
+quickactions-cmd-help = pomoć, podrška
 # Opens the devtools web inspector
 quickactions-inspector2 = Otvori alate za programere
+quickactions-cmd-inspector2 = inspektor, razvojni alati, razvojni alati
 quickactions-cmd-inspector = inspektor, programerski alati
 # Opens about:logins
 quickactions-logins2 = Upravljaj lozinkama

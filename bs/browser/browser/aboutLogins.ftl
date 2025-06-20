@@ -233,6 +233,61 @@ about-logins-confirm-remove-dialog-confirm-button = Ukloni
 ## Variables
 ##   $count (number) - Number of items
 
+about-logins-confirm-remove-all-dialog-confirm-button-label =
+    { $count ->
+        [1] Ukloni
+        [one] Ukloni
+        [few] Ukloni sve
+       *[other] Ukloni sve
+    }
+about-logins-confirm-remove-all-dialog-checkbox-label =
+    { $count ->
+        [1] Da, ukloni ovu prijavu
+        [one] Da, ukloni ovu prijavu
+        [few] Da, ukloni ove prijave
+       *[other] Da, ukloni ove prijave
+    }
+about-logins-confirm-remove-all-dialog-title =
+    { $count ->
+        [one] Ukloniti { $count } prijavu?
+        [few] Ukloniti sve { $count } prijave?
+       *[other] Ukloniti svih { $count } prijava?
+    }
+about-logins-confirm-remove-all-dialog-message =
+    { $count ->
+        [1] Ovo će ukloniti prijavu koju ste sačuvali u { -brand-short-name }, kao i sva sigurnosna upozorenja prikazana ovdje. Ova radnja se ne može poništiti.
+        [one] Ovo će ukloniti prijavu koju ste sačuvali u { -brand-short-name }, kao i sva sigurnosna upozorenja prikazana ovdje. Ova radnja se ne može poništiti.
+        [few] Ovo će ukloniti prijave koje ste sačuvali u { -brand-short-name }, kao i sva sigurnosna upozorenja prikazana ovdje. Ova radnja se ne može poništiti.
+       *[other] Ovo će ukloniti prijave koje ste sačuvali u { -brand-short-name }, kao i sva sigurnosna upozorenja prikazana ovdje. Ova radnja se ne može poništiti.
+    }
+about-logins-confirm-remove-all-sync-dialog-title =
+    { $count ->
+        [one] Ukloniti { $count } prijavu sa svih uređaja?
+        [few] Ukloniti sve { $count } prijave sa svih uređaja?
+       *[other] Ukloniti svih { $count } prijava sa svih uređaja?
+    }
+about-logins-confirm-remove-all-sync-dialog-message =
+    { $count ->
+        [1] Ovo će ukloniti prijavu koju ste sačuvali u { -brand-short-name } na svim uređajima koji su sinhronizovani s vašim { -fxaccount-brand-name }. Takođe će biti uklonjena sigurnosna upozorenja prikazana ovdje. Ova radnja se ne može poništiti.
+        [one] Ovo će ukloniti prijavu koju ste sačuvali u { -brand-short-name } na svim uređajima koji su sinhronizovani s vašim { -fxaccount-brand-name }. Takođe će biti uklonjena sigurnosna upozorenja prikazana ovdje. Ova radnja se ne može poništiti.
+        [few] Ovo će ukloniti prijave koje ste sačuvali u { -brand-short-name } na svim uređajima koji su sinhronizovani s vašim { -fxaccount-brand-name }. Takođe će biti uklonjena sigurnosna upozorenja prikazana ovdje. Ova radnja se ne može poništiti.
+       *[other] Ovo će ukloniti sve prijave koje ste sačuvali u { -brand-short-name } na svim uređajima koji su sinhronizovani s vašim { -fxaccount-brand-name }. Takođe će biti uklonjena sigurnosna upozorenja prikazana ovdje. Ova radnja se ne može poništiti.
+    }
+# Checkbox for modal to confirm the removal of saved passwords
+about-logins-confirm-remove-all-dialog-checkbox-label2 =
+    { $count ->
+        [1] Da, ukloni lozinku
+        [one] Da, ukloni lozinku
+        [few] Da, ukloni lozinke
+       *[other] Da, ukloni lozinke
+    }
+# Title for modal to confirm the removal of all saved passwords when user is NOT synced
+about-logins-confirm-remove-all-dialog-title2 =
+    { $count ->
+        [one] Ukloniti { $count } lozinku?
+        [few] Ukloniti sve { $count } lozinke?
+       *[other] Ukloniti svih { $count } lozinki?
+    }
 
 ##
 

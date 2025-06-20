@@ -51,3 +51,33 @@ unified-extensions-mb-quarantined-domain-message-3 =
 unified-extensions-mb-quarantined-domain-learn-more = Les mer
     .aria-label = Les mer: Enkelte utvidelser er ikke tillatt
 unified-extensions-mb-about-addons-link = Gå til utvidelsesinnstillinger
+# Variables:
+#   $extensionName (String) - Name of the extension disabled through a soft-block.
+unified-extensions-mb-blocklist-warning-single =
+    .heading = { $extensionName } deaktivert
+    .message =
+        Denne utvidelsen bryter med Mozillas retningslinjer og er deaktivert.
+        Du kan aktivere den i innstillingene, men dette kan være risikabelt.
+# Variables:
+#   $extensionName (String) - Name of the extension disabled through a hard-block.
+unified-extensions-mb-blocklist-error-single =
+    .heading = { $extensionName } deaktivert
+    .message = Denne utvidelsen bryter med Mozillas retningslinjer og er deaktivert.
+# Variables:
+#   $extensionsCount (Number) - Number of extensions disabled through both soft and hard-blocks (always going to be greater than 1)
+unified-extensions-mb-blocklist-warning-multiple =
+    .heading =
+        { $extensionsCount ->
+           *[other] { $extensionsCount } utvidelser deaktivert
+        }
+    .message =
+        Noen dine utvidelser er deaktivert fordi de bryter med Mozillas retningslinjer.
+        Du kan aktivere dem i innstillingene, men dette kan være risikabelt.
+# Variables:
+#   $extensionsCount (Number) - Number of extensions disabled through hard-blocks.
+unified-extensions-mb-blocklist-error-multiple =
+    .heading =
+        { $extensionsCount ->
+           *[other] { $extensionsCount } utvidelser deaktivert
+        }
+    .message = Noen av dine utvidelser er deaktivert fordi de bryter med Mozillas retningslinjer.
