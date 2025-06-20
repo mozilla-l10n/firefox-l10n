@@ -71,3 +71,5 @@ webext-perms-description-data-long-personalCommunications = Κοινοποίησ
 webext-perms-description-data-long-personallyIdentifyingInfo = Κοινοποίηση δεδομένων προσωπικού χαρακτήρα στον δημιουργό της επέκτασης
 webext-perms-description-data-long-searchTerms = Κοινοποίηση όρων αναζήτησης στον δημιουργό της επέκτασης
 webext-perms-description-data-long-technicalAndInteraction = Κοινοποίηση τεχνικών δεδομένων και δεδομένων αλληλεπίδρασης στον δημιουργό της επέκτασης
+webext-perms-description-data-long-websiteActivity = Κοινοποίηση δραστηριότητας ιστοτόπων στον δημιουργό της επέκτασης
+webext-perms-description-data-long-websiteContent = Κοινοποίηση περιεχομένου ιστοτόπων στον δημιουργό της επέκτασης

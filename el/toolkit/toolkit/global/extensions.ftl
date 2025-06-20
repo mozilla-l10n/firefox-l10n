@@ -107,16 +107,16 @@ webext-perms-host-description-multiple-domains =
 
 ## Strings for data collection permissions in the permission prompt.
 
-webext-perms-description-data-none = Ο προγραμματιστής δηλώνει ότι αυτή η επέκταση δεν απαιτεί συλλογή δεδομένων.
+webext-perms-description-data-none = Ο δημιουργός δηλώνει ότι αυτή η επέκταση δεν απαιτεί συλλογή δεδομένων.
 # Variables:
 #    $permissions (String): a list of data collection permissions formatted with `Intl.ListFormat` using the "narrow" style.
-webext-perms-description-data-some = Ο προγραμματιστής δηλώνει ότι αυτή η επέκταση συλλέγει: { $permissions }
+webext-perms-description-data-some = Ο δημιουργός δηλώνει ότι αυτή η επέκταση συλλέγει: { $permissions }
 # Variables:
 #    $permissions (String): a list of data collection permissions formatted with `Intl.ListFormat` using the "narrow" style.
-webext-perms-description-data-some-update = Ο προγραμματιστής δηλώνει ότι αυτή η επέκταση θα συλλέξει: { $permissions }
+webext-perms-description-data-some-update = Ο δημιουργός δηλώνει ότι αυτή η επέκταση θα συλλέξει: { $permissions }
 # Variables:
 #    $permissions (String): a list of data collection permissions formatted with `Intl.ListFormat` using the "narrow" style.
-webext-perms-description-data-some-optional = Ο προγραμματιστής δηλώνει ότι αυτή η επέκταση θέλει να συλλέξει: { $permissions }
+webext-perms-description-data-some-optional = Ο δημιουργός δηλώνει ότι αυτή η επέκταση θέλει να συλλέξει: { $permissions }
 # Variables:
 #   $extension (String): replaced with the localized name of the extension.
 webext-perms-update-text-with-data-collection = Το { $extension } απαιτεί νέες ρυθμίσεις για την ενημέρωση
