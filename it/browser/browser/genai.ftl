@@ -51,11 +51,20 @@ genai-menu-ask-generic =
 # $provider (string) - name of the provider
 genai-menu-ask-provider =
     .label = Chiedi a { $provider }
+genai-menu-open-generic =
+    .label = Apri chatbot IA
+# $provider (string) - name of the provider
+genai-menu-open-provider =
+    .label = Apri { $provider }
 genai-menu-remove-generic =
     .label = Rimuovi chatbot IA
 # $provider (string) - name of the provider
 genai-menu-remove-provider =
     .label = Rimuovi { $provider }
+genai-menu-remove-sidebar =
+    .label = Rimuovi dalla barra laterale
+genai-menu-new-badge = Novità
+genai-menu-summarize-page = Riepiloga pagina
 genai-input-ask-generic =
     .placeholder = Chiedi al chatbot IA…
 # $provider (string) - name of the provider
@@ -74,6 +83,10 @@ genai-shortcuts-selected-warning =
     .message = Hai selezionato circa { $selectionLength } caratteri. Il numero di caratteri che possiamo inviare a { $provider } è di circa { $maxLength }.
 genai-shortcuts-hide =
     .label = Nascondi scorciatoia per i chatbot
+genai-menu-no-provider =
+    .label = Chiedi a un chatbot IA
+genai-menu-choose-chatbot =
+    .label = Scegli un chatbot AI
 
 ## Chatbot header
 
@@ -100,6 +113,7 @@ genai-options-about-chatbot =
 
 ## Chatbot footer
 
+genai-page-button-summarize = Riepiloga pagina
 
 ## Chatbot onboarding
 

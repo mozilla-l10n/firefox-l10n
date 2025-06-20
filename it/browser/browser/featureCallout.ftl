@@ -106,6 +106,11 @@ perplexity-callout-secondary-label-2 = OK
 
 ## Account Adoption Passwords callout strings
 
+# Suggestion to backup passwords by signing up for Mozilla account and using sync
+fxa-adoption-passwords-title = Password salvata. Facciamo un backup.
+fxa-adoption-passwords-subtitle = Proteggi le tue password sincronizzandole con i tuoi dispositivi usando la crittografia.
+# Opens Mozilla accounts sign-up page
+fxa-adoption-passwords-primary-button-label = Registrati
 
 ## Sidebar Strings
 
@@ -130,6 +135,14 @@ sidebar-pins-callout-cta-button = Appunta scheda
 
 ## Pinning Tabs Strings
 
+pin-tabs-callout-1-title = Tieni le schede più importanti a portata di mano
+pin-tabs-callout-1-subtitle = Trascina una scheda all’inizio della barra delle schede per appuntarla. Oppure fai clic con il pulsante destro del mouse e scegli Appunta scheda.
+pin-tabs-callout-cta-1-button = Appunta questa scheda
+pin-tabs-callout-2-title = Appunta le schede che visiti di più
+pin-tabs-callout-2-subtitle = Per appuntare una scheda, trascinala all’inizio della barra delle schede. Oppure fai clic con il pulsante destro del mouse e scegli Appunta scheda.
+pin-tabs-callout-cta-2-button = Appunta questa scheda
+pin-tabs-callout-3-title = Tieni i siti più importanti a portata di mano
+pin-tabs-callout-4-title = Appunta i siti che visiti di più
 
 ## Sidebar Onboarding Strings
 
