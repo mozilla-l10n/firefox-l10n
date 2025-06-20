@@ -1413,6 +1413,7 @@ collection-health-report-disabled2 = Datarapportering er deaktivert for denne by
 collection-backlogged-crash-reports2 =
     .label = Send inn krasjrapporter automatisk
     .accesskey = k
+collection-backlogged-crash-reports-description = Dette hjelper { -vendor-short-name } med å diagnostisere og fikse problemer med nettleseren. Rapporter kan inneholde personlige eller sensitive data.
 addon-recommendations =
     .label = Tillat { -brand-short-name } å komme med tilpassede utvidelsesanbefalinger
 addon-recommendations-link = Les mer
