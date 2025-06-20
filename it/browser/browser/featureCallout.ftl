@@ -104,6 +104,9 @@ perplexity-callout-primary-label = Chiedi a Perplexity
 perplexity-callout-secondary-label-1 = Chiudi
 perplexity-callout-secondary-label-2 = OK
 
+## Account Adoption Passwords callout strings
+
+
 ## Sidebar Strings
 
 sidebar-button-callout-title = Mostra i titoli delle schede nella barra laterale
@@ -124,6 +127,9 @@ vertical-tabs-callout-2-subtitle = Questo layout ti permette di esaminare più v
 sidebar-pins-callout-title = Perdi traccia delle schede più importanti?
 sidebar-pins-callout-subtitle = Prova ad appuntarle, in questo modo rimarranno sempre in cima all’elenco delle schede. Fai clic con il pulsante destro del mouse su una scheda, quindi scegli Appunta scheda.
 sidebar-pins-callout-cta-button = Appunta scheda
+
+## Pinning Tabs Strings
+
 
 ## Sidebar Onboarding Strings
 
