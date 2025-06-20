@@ -160,6 +160,9 @@ main-context-menu-copy-phone =
 main-context-menu-copy-link-simple =
     .label = Kopiraj link
     .accesskey = L
+main-context-menu-preview-link =
+    .label = Pregled linka
+    .accesskey = r
 # "Copy Clean Link" means that Firefox will remove things from the link you
 # copied, like items that identify you for advertising purposes, and other items
 # sites add into URLs to help them deliver a certain browsing experience.
@@ -321,6 +324,9 @@ main-context-menu-manage-passwords =
 main-context-menu-keyword =
     .label = Dodaj ključnu riječ za ovu pretragu…
     .accesskey = k
+main-context-menu-add-engine =
+    .label = Dodaj pretraživač
+    .accesskey = S
 main-context-menu-link-send-to-device =
     .label = Pošalji link na uređaj
     .accesskey = u

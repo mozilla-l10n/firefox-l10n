@@ -76,6 +76,28 @@ add-engine-keyword-placeholder =
 
 ## The following strings are used as error messages.
 
+add-engine-keyword-exists = Det nøkkelordet er allerede i bruk. Prøv et annet.
+add-engine-name-exists = Navnet er allerede i bruk. Velg et annet.
+add-engine-no-name = Legg til et navn.
+add-engine-no-url = Skriv inn en nettadresse.
+add-engine-invalid-url = Nettadressen ser ikke riktig ut. Sjekk den og prøv på nytt.
+add-engine-invalid-protocol = Nettadressen ser ikke riktig ut. Bruk en nettadresse som starter med http eller https.
+# This error is shown when the user typed URL is missing %s.
+add-engine-missing-terms-url = Prøv å inkludere %s i stedet for søkeordet.
+# This error is shown when the user typed post data is missing %s.
+add-engine-missing-terms-post-data = Prøv å inkludere %s i stedet for søkeordet.
 
 ## The following strings are used as labels for the dialog's buttons.
 
+# buttonlabelextra1 is the label of a button to open the advanced section
+# of the dialog.
+add-engine-dialog2 =
+    .buttonlabelaccept = Legg til søkemotor
+    .buttonaccesskeyaccept = L
+    .buttonlabelextra1 = Avansert
+# buttonlabelextra1 is the label of a button to open the advanced section
+# of the dialog.
+edit-engine-dialog =
+    .buttonlabelaccept = Lagre søkemotor
+    .buttonaccesskeyaccept = L
+    .buttonlabelextra1 = Avansert

@@ -47,6 +47,9 @@ appmenu-addon-post-install-message3 = Upravljajte svojim dodacima i temama putem
 # This string is used in the confirmation popup displayed after an extension
 # has been installed, when the data collection feature is enabled.
 appmenu-addon-post-install-message-with-data-collection = Ažurirajte dozvole i postavke podataka bilo kada u <a data-l10n-name="settings-link">postavkama ekstenzije</a>.
+appmenu-addon-post-install-pin-toolbarbutton-checkbox =
+    .label = Zakačite ekstenziju na alatnu traku
+    .accesskey = P
 appmenu-addon-post-install-incognito-checkbox =
     .label = Dozvolite ovoj ekstenziji da radi u privatnim prozorima
     .accesskey = A

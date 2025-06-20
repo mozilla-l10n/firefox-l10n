@@ -51,6 +51,70 @@ browser-main-window-title = { -brand-full-name }
 # The non-variable portion of this MUST match the translation of
 # "PRIVATE_BROWSING_SHORTCUT_TITLE" in custom.properties
 private-browsing-shortcut-text-2 = { -brand-shortcut-name } privatno pretraživanje
+# These are the default window titles everywhere except macOS.
+# .data-title-default and .data-title-private are used when the web content
+# opened has no title:
+#
+# default - "Mozilla Firefox"
+# private - "Mozilla Firefox (Private Browsing)"
+#
+# .data-content-title-default and .data-content-title-private are for use when
+# there *is* a content title.
+#
+# .data-title-default-with-profile, .data-title-private-with-profile,
+# .data-content-title-default-with-profile,
+# .data-content-title-private-with-profile are used when there a
+# SelectableProfileService.current profile exists.
+#
+# Variables:
+#  $content-title (String): the title of the web content.
+#  $profile-name (String): the name of the current profile.
+browser-main-window-titles =
+    .data-title-default = { -brand-full-name }
+    .data-title-private = { -brand-full-name } privatno pregledanje
+    .data-title-default-with-profile = { $profile-name } — { -brand-full-name }
+    .data-title-private-with-profile = { $profile-name } — { -brand-full-name } privatno pregledanje
+    .data-content-title-default = { $content-title } — { -brand-full-name }
+    .data-content-title-private = { $content-title } — { -brand-full-name } privatno pregledanje
+    .data-content-title-default-with-profile = { $content-title } — { $profile-name } — { -brand-full-name }
+    .data-content-title-private-with-profile = { $content-title } — { $profile-name } — { -brand-full-name } privatno pregledanje
+# These are the default window titles on macOS.
+# .data-title-default and .data-title-private are used when the web content
+# opened has no title:
+#
+#
+# "default" - "Mozilla Firefox"
+# "private" - "Mozilla Firefox — (Private Browsing)"
+#
+# .data-content-title-default and .data-content-title-private are for use when
+# there *is* a content title.
+# Do not use the brand name in these, as we do on non-macOS.
+#
+# .data-title-default-with-profile, .data-title-private-with-profile,
+# .data-content-title-default-with-profile,
+# .data-content-title-private-with-profile are used when there a
+# SelectableProfileService.current profile exists.
+#
+# Also note the other subtle difference here: we use a `-` to separate the
+# brand name from `(Private Browsing)`, which does not happen on other OSes.
+#
+# Variables:
+#  $content-title (String): the title of the web content.
+#  $profile-name (String): the name of the current profile.
+browser-main-window-titles-mac =
+    .data-title-default = { -brand-full-name }
+    .data-title-private = { -brand-full-name } — privatno pregledanje
+    .data-title-default-with-profile = { $profile-name } — { -brand-full-name }
+    .data-title-private-with-profile = { $profile-name } — { -brand-full-name } privatno pregledanje
+    .data-content-title-default = { $content-title }
+    .data-content-title-private = { $content-title } — privatno pregledanje
+    .data-content-title-default-with-profile = { $content-title } — { $profile-name }
+    .data-content-title-private-with-profile = { $content-title } — { $profile-name } — privatno pregledanje
+# This gets set as the initial title, and is overridden as soon as we start
+# updating the titlebar based on loaded tabs or private browsing state.
+# This should match the `data-title-default` attribute in both
+# `browser-main-window` and `browser-main-window-mac`.
+browser-main-window-default-title = { -brand-full-name }
 
 ##
 
@@ -123,6 +187,32 @@ urlbar-result-menu-remove-from-history =
 urlbar-result-menu-tip-get-help =
     .label = Potražite pomoć
     .accesskey = h
+urlbar-result-menu-dismiss-suggestion =
+    .label = Odbaci ovaj prijedlog
+    .accesskey = D
+urlbar-result-menu-learn-more-about-firefox-suggest =
+    .label = Saznajte više o { -firefox-suggest-brand-name }
+    .accesskey = L
+urlbar-result-menu-manage-firefox-suggest =
+    .label = Upravljanje { -firefox-suggest-brand-name }
+    .accesskey = M
+# Some urlbar suggestions show the user's approximate location as automatically
+# detected by Firefox (e.g., weather suggestions), and this menu item lets the
+# user tell Firefox that the location is not accurate. Typically the location
+# will be a city name, or a city name combined with the name of its parent
+# administrative division (e.g., a province, prefecture, or state).
+urlbar-result-menu-report-inaccurate-location =
+    .label = Prijavi netačnu lokaciju
+urlbar-result-menu-show-less-frequently =
+    .label = Prikaži rjeđe
+urlbar-result-menu-dont-show-weather-suggestions =
+    .label = Ne prikazuj prijedloge za vremensku prognozu
+# A message shown in the urlbar when the user submits feedback on a suggestion
+# (e.g., it shows an inaccurate location, it's shown too often, etc.).
+urlbar-feedback-acknowledgment = Hvala na vašim povratnim informacijama
+# A message shown in the urlbar when the user dismisses weather suggestions.
+# Weather suggestions won't be shown at all anymore.
+urlbar-dismissal-acknowledgment-weather = Hvala na povratnim informacijama. Više nećete vidjeti prijedloge za vremensku prognozu.
 
 ## Prompts users to use the Urlbar when they open a new tab or visit the
 ## homepage of their default search engine.
@@ -254,10 +344,17 @@ search-one-offs-actions =
 
 # Opens the about:addons page in the home / recommendations section
 quickactions-addons = Prikaži dodatke
+# In English we provide multiple spellings for "add-ons". If that's not
+# applicable to your language, only use the correct spelling (don't repeat the
+# same word).
+quickactions-cmd-addons3 = ekstenzije, teme, dodaci, dodaci
 quickactions-cmd-addons2 = dodaci
 # Opens the bookmarks library window
 quickactions-bookmarks2 = Upravljaj oznakama
 quickactions-cmd-bookmarks = oznake
+# Opens a SUMO article explaining how to clear history
+quickactions-clearrecenthistory = Obriši nedavnu historiju
+quickactions-cmd-clearrecenthistory = jasna nedavna historija, historija
 # Opens a SUMO article explaining how to clear history
 quickactions-clearhistory = Očisti historiju
 quickactions-cmd-clearhistory = očisti historiju
@@ -267,6 +364,12 @@ quickactions-cmd-downloads = preuzimanja
 # Opens about:addons page in the extensions section
 quickactions-extensions = Upravljaj ekstenzijama
 quickactions-cmd-extensions = ekstenzije
+# Opens Firefox View
+quickactions-firefoxview = Otvori { -firefoxview-brand-name }
+# English is using "view" and "open view", since the feature name is
+# "Firefox View". If you have translated the name in your language, you
+# should use a word related to the existing translation.
+quickactions-cmd-firefoxview = otvori { -firefoxview-brand-name }, { -firefoxview-brand-name }, otvori prikaz, prikaz
 # Opens the devtools web inspector
 quickactions-inspector2 = Otvori alate za programere
 quickactions-cmd-inspector = inspektor, programerski alati
@@ -611,6 +714,27 @@ urlbar-result-action-copy-to-clipboard = Kopiraj
 # Variables
 #  $result (String): the string representation for a formula result
 urlbar-result-action-calculator-result = = { $result }
+# The title of a weather suggestion in the urlbar including a region and
+# country. The temperature and unit substring should be inside a <strong> tag.
+# If the temperature and unit are not adjacent in the localization, it's OK to
+# include only the temperature in the tag.
+# Variables:
+#   $temperature (number) - The temperature value
+#   $unit (String) - The unit for the temperature, either "C" or "F"
+#   $city (String) - The name of the city the weather data is for
+#   $region (String) - The name or abbreviation of one of the city's
+#       administrative divisions like a province or state.
+#   $country (String) - The name of the city's country.
+urlbar-result-weather-title-with-country = <strong>{ $temperature }°{ $unit }</strong> in { $city }, { $region }, { $country }
+# The title of a weather suggestion in the urlbar only including the city. The
+# temperature and unit substring should be inside a <strong> tag. If the
+# temperature and unit are not adjacent in the localization, it's OK to include
+# only the temperature in the tag.
+# Variables:
+#   $temperature (number) - The temperature value
+#   $unit (String) - The unit for the temperature, either "C" or "F"
+#   $city (String) - The name of the city the weather data is for
+urlbar-result-weather-title-city-only = <strong>{ $temperature }°{ $unit }</strong> in { $city }
 
 ## Strings used for buttons in the urlbar
 
@@ -690,6 +814,9 @@ urlbar-group-recent-searches =
 #  $engine (String): the name of the search engine providing the trending suggestions
 urlbar-group-trending =
     .label = U trendu na { $engine }
+# Label shown above sponsored suggestions in the urlbar results.
+urlbar-group-sponsored =
+    .label = Sponzorisano
 # The result menu labels shown next to trending results.
 urlbar-result-menu-trending-dont-show =
     .label = Ne prikazuj popularna pretraživanja
@@ -886,6 +1013,9 @@ panel-save-update-password = Lozinka
 # "More" item in macOS share menu
 menu-share-more =
     .label = Više...
+menu-share-copy-link =
+    .label = Kopiraj link
+    .accesskey = L
 ui-tour-info-panel-close =
     .tooltiptext = Zatvori
 
@@ -933,6 +1063,8 @@ navbar-accessible =
     .aria-label = Navigacija
 navbar-downloads =
     .label = Preuzimanja
+navbar-overflow-2 =
+    .tooltiptext = Više alata
 navbar-overflow =
     .tooltiptext = Više alata…
 # Variables:
@@ -1063,6 +1195,15 @@ popup-notification-addon-install-unsigned =
     .value = (Neprovjeren)
 popup-notification-xpinstall-prompt-learn-more = Saznajte više o sigurnoj instalaciji add-ona
 popup-notification-xpinstall-prompt-block-url = Pokaži detalje
+# Note: Access key is set to p to match "private" in the corresponding localized label.
+popup-notification-addon-privatebrowsing-checkbox2 =
+    .label = Dozvoli ekstenziji da radi u privatnim prozorima
+    .accesskey = p
+# This string is similar to `webext-perms-description-data-long-technicalAndInteraction`
+# but it is used in the install prompt, and it needs an access key.
+popup-notification-addon-technical-and-interaction-checkbox =
+    .label = Podijelite tehničke podatke i podatke o interakciji s programerom ekstenzije
+    .accesskey = S
 
 ## Pop-up warning
 
@@ -1122,3 +1263,6 @@ file-picker-crashed-show-in-folder =
 
 ## Onboarding Finish Setup checklist
 
+onboarding-checklist-button-label = Završi podešavanje
+onboarding-finish-setup-button-label =
+    .label = Završi podešavanje
