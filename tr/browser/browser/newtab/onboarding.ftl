@@ -439,9 +439,10 @@ onboarding-genai-sidebar-secondary-button = Gezinmeye başla
 onboarding-checklist-title = { -brand-short-name } kurulumunu tamamlayın
 onboarding-checklist-subtitle = Tarayıcınızdan en iyi şekilde yararlanmak için bu adımları tamamlayın.
 onboarding-checklist-set-default = { -brand-short-name } tarayıcısını varsayılan tarayıcınız yapın
-onboarding-checklist-import = Önceki tarayıcımdan içe aktar
-onboarding-checklist-extension = Bir uzantı ekle
-onboarding-checklist-sign-up = Hesap aç veya hesaba giriş yap
+onboarding-checklist-pin = { -brand-short-name } tarayıcısını görev çubuğuna sabitleyin
+onboarding-checklist-import = Önceki tarayıcınızdaki verileri içe aktarın
+onboarding-checklist-extension = Bir uzantı ekleyin
+onboarding-checklist-sign-up = Hesap açın veya hesaba giriş yapın
 
 ## Tab Groups feature onboarding strings
 

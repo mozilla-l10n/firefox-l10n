@@ -34,6 +34,8 @@ contentanalysis-operationtype-clipboard = pano
 contentanalysis-operationtype-dropped-text = sürüklenip bırakılan metin
 contentanalysis-operationtype-print = yazdır
 #   $filename - The filename associated with the request, such as "aFile.txt"
+contentanalysis-upload-description = “{ $filename }” yüklemesi
+#   $filename - The filename associated with the request, such as "aFile.txt"
 contentanalysis-download-description = “{ $filename }” indirmesi
 #   $filename - The filename associated with the request, such as "aFile.txt"
 contentanalysis-customdisplaystring-description = “{ $filename }” yüklemesi

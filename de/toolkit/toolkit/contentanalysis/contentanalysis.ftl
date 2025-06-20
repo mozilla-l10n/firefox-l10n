@@ -76,6 +76,9 @@ contentanalysis-block-dialog-title-upload-file = Sie sind nicht berechtigt, dies
 #   $filename - Name of the file that was blocked, such as "aFile.txt"
 contentanalysis-block-dialog-body-upload-file = Laut den Datenschutzrichtlinien Ihres Unternehmens sind Sie nicht berechtigt, die Datei "{ $filename }" hochzuladen. Kontaktieren Sie Ihren Administrator für weitere Informationen.
 contentanalysis-block-dialog-title-download-file = Sie haben nicht die Erlaubnis, diese Datei herunterzuladen
+# Variables:
+#   $filename - Name of the file that was blocked, such as "aFile.txt"
+contentanalysis-block-dialog-body-download-file = Laut den Datenschutzrichtlinien Ihres Unternehmens sind Sie nicht berechtigt, die Datei "{ $filename }" herunterzuladen. Kontaktieren Sie Ihren Administrator für weitere Informationen.
 contentanalysis-block-dialog-title-clipboard = Sie sind nicht berechtigt, diesen Inhalt einzufügen
 contentanalysis-block-dialog-body-clipboard = Laut den Datenschutzrichtlinien Ihres Unternehmens sind Sie nicht berechtigt, diesen Inhalt einzufügen. Kontaktieren Sie Ihren Administrator für weitere Informationen.
 contentanalysis-block-dialog-title-dropped-text = Sie sind nicht berechtigt, diesen Inhalt hierhin zu ziehen

@@ -188,6 +188,8 @@ media-capabilities-enumerate = Veritabanını numaralandır
 
 media-codec-support-sw-decoding = Yazılımsal çözme
 media-codec-support-hw-decoding = Donanımsal çözme
+media-codec-support-sw-encoding = Yazılımsal kodlama
+media-codec-support-hw-encoding = Donanımsal kodlama
 media-codec-support-codec-name = Codec adı
 media-codec-support-supported = Destekleniyor
 media-codec-support-unsupported = Desteklenmiyor
