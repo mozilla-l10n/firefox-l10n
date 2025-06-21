@@ -130,3 +130,10 @@ tab-context-send-tabs-to-device =
            *[other] Send { $tabCount } faner til enhet
         }
     .accesskey = n
+tab-context-unload-n-tabs =
+    .label =
+        { $tabCount ->
+            [1] Frigjør fane
+           *[other] Unload { $tabCount } Tabs
+        }
+    .accesskey = F

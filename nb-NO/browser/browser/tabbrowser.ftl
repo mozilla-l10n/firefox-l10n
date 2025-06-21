@@ -8,6 +8,19 @@ tabbrowser-menuitem-close-tab =
     .label = Lukk fane
 tabbrowser-menuitem-close =
     .label = Lukk
+# Displayed within the tooltip on tabs inside of a tab group.
+# Variables:
+#   $tabGroupName (String): the user-defined name of the current tab group.
+tabbrowser-tab-tooltip-tab-group = { $tabGroupName }
+# Displayed within the tooltip on tabs in a container.
+# Variables:
+#   $containerName (String): the name of the current container.
+tabbrowser-tab-tooltip-container = { $containerName }
+# Displayed within the tooltip on tabs inside of a tab group if the tab is also in a container.
+# Variables:
+#   $tabGroupName (String): the user-defined name of the current tab group.
+#   $containerName (String): the name of the current container.
+tabbrowser-tab-tooltip-tab-group-container = { $tabGroupName } — { $containerName }
 # Displayed as a tooltip on container tabs
 # Variables:
 #   $title (String): the title of the current tab.
@@ -272,6 +285,8 @@ tab-group-editor-action-new-window =
     .label = Flytt gruppe til nytt vindu
 tab-group-editor-action-save =
     .label = Lagre og lukk gruppe
+tab-group-editor-action-ungroup =
+    .label = Opphev gruppering av faner
 tab-group-editor-action-delete =
     .label = Slett gruppe
 tab-group-editor-done =
