@@ -392,6 +392,8 @@ onboarding-new-tabs-title = Fortell oss hvor du vil ha fanene dine
 onboarding-new-tabs-subtitle = Slå den opp når du vil i sidestolpeinnstillingene.
 # Setup screen for vertical tabs - too many tabs variation
 onboarding-many-tabs-title = Dine faner, på din måte
+# Setup screen for vertical tabs - subtitle for too many tabs variation
+onboarding-many-tabs-subtitle = Har du mange faner åpne? Prøv fanene på siden for en mer strømlinjeformet visning. Eller hold på det klassiske med faner øverst. Bytt når som helst.
 # Setup screen for vertical tabs - focused variation
 onboarding-focused-tabs-title = Velg faneoppsett
 # Setup screen for vertical tabs - subtitle for focused variation
@@ -411,11 +413,29 @@ onboarding-existing-vertical-tabs-label = Prøv vertikale faner
 onboarding-flair-text = Nyhet!
 # Text underneath an image used for selecting browser tabs to appear at the top of the browser.
 onboarding-existing-horizontal-tabs-label = Behold horisontale faner
+# Tooltip displayed on hover for vertical tabs image
+onboarding-vertical-tabs-tooltip =
+    .title = Et nettleservindu som viser faner langs siden av skjermen som en del av { -brand-shorter-name }-sidestolpen.
+# Description for vertical tabs image
+onboarding-vertical-tabs-description =
+    .aria-description = Et nettleservindu som viser faner langs siden av skjermen som en del av { -brand-shorter-name }-sidestolpen.
+# Tooltip displayed on hover for horizontal tabs image
+onboarding-horizontal-tabs-tooltip =
+    .title = Et nettleservindu som viser faner øverst.
+# Description for horizontal tabs image
+onboarding-horizontal-tabs-description =
+    .aria-description = Et nettleservindu som viser faner øverst.
+# Additional setup card for setting up aichatbot in the sidebar
+onboarding-genai-sidebar-title = Prøv en AI-chatbot i sidestolpen
+# Setup card for setting up AI chatbot in the sidebar; "Providers" refers to AI chatbot providers (e.g. OpenAI, etc). "Switch anytime" refers to allowing the user to switch to a different chatbot.
+onboarding-genai-sidebar-subtitle = Oppsummer innhold på nettet, ha en idédugnad, lag utkast til meldinger — alt mens du surfer. Velg mellom flere leverandører. Bytt når som helst. <a data-l10n-name="learn-more">Les mer</a>
 onboarding-genai-sidebar-primary-button = Velg en samtalerobot
 onboarding-genai-sidebar-secondary-button = Begynn å surfe
 
 ## New user onboarding checklist
 
+onboarding-checklist-title = Fullfør oppsettet av { -brand-short-name }
+onboarding-checklist-subtitle = Fullfør disse trinnene for å få mest mulig ut av nettleseropplevelsen din.
 onboarding-checklist-set-default = Gjør { -brand-short-name } til standardnettleser
 onboarding-checklist-pin = Fest { -brand-short-name } til oppgavelinjen
 onboarding-checklist-import = Importer fra tidligere nettleser
