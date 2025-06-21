@@ -73,6 +73,17 @@ open-in-new-window-for-csp-or-xfo-error = Åpne nettsted i nytt vindu
 csp-xfo-blocked-long-desc = For å ta vare på sikkerheten din, vil { $hostname } ikke tillate at { -brand-short-name } viser siden hvis et annet nettsted har bygd den inn. For å se denne siden, må du åpne den i et nytt vindu.
 fp-certerror-view-certificate-link = Vis nettstedets sertifikat
 fp-certerror-return-to-previous-page-recommended-button = Gå tilbake (anbefalt)
+# This string appears after the following string: "What makes the site look dangerous?" (fp-certerror-why-site-dangerous)
+# Variables:
+#   $hostname (String) - Hostname of the website to which the user was trying to connect.
+#   $validHosts (String) - Valid hostnames.
+fp-certerror-bad-domain-why-dangerous-body = Nettstedet er konfigurert til å kun tillate sikre tilkoblinger, men det er et problem med nettstedets sertifikat. Det er mulig at en ondsinnet aktør prøver å utgi seg for å være nettstedet. Nettsteder bruker sertifikater utstedt av en sertifiseringsinstans for å bevise at de virkelig er den de utgir seg for å være. { -brand-short-name } stoler ikke på dette nettstedet fordi sertifikatet ikke er gyldig for { $hostname }. Sertifikatet er bare gyldig for: { $validHosts }.
+# This string appears after the following string: "What can you do about it?" (fp-certerror-what-can-you-do)
+fp-certerror-bad-domain-what-can-you-do-body = Sannsynligvis ingenting, siden det er sannsynlig at det er et problem med selve nettstedet. Nettsteder bruker sertifikater utstedt av en sertifiseringsinstans for å bevise at de virkelig er den de utgir seg for å være. Men hvis du er på et bedriftsnettverk, kan det hende at supportteamet ditt har mer informasjon. Hvis du bruker antivirusprogramvare, kan du prøve å søke etter potensielle konflikter eller kjente problemer.
+# This string appears after the following string: "What makes the site look dangerous?" (fp-certerror-why-site-dangerous)
+fp-certerror-unknown-issuer-why-dangerous-body = Det er et problem med nettstedets sertifikat. Det er mulig at en ondsinnet aktør prøver å utgi seg for å være nettstedet. Nettsteder bruker sertifikater utstedt av en sertifiseringsinstans for å bevise at de virkelig er den de utgir seg for å være. { -brand-short-name } stoler ikke på dette nettstedet fordi vi ikke kan se hvem som utstedte sertifikatet, det er selvsignert, eller nettstedet sender ikke mellomliggende sertifikater vi stoler på.
+# This string appears after the following string: "What can you do about it?" (fp-certerror-what-can-you-do)
+fp-certerror-unknown-issuer-what-can-you-do-body = Sannsynligvis ingenting, siden det sannsynligvis er et problem med selve nettstedet. Men hvis du er på et bedriftsnettverk, kan det hende at supportteamet ditt har mer informasjon. Hvis du bruker antivirusprogramvare, må det kanskje konfigureres til å fungere med { -brand-short-name }.
 # This string appears after the following string: "What can you do about it?" (fp-certerror-what-can-you-do)
 fp-certerror-self-signed-what-can-you-do-body = Ikke mye. Det er sannsynlig at det er et problem med selve nettstedet.
 # This string appears after the following string: "What makes the site look dangerous?" (fp-certerror-why-site-dangerous)
@@ -97,6 +108,10 @@ fp-learn-more-about-time-related-errors = Finn ut mer om feilsøking av tidsrela
 ##   $hostname (string) - Hostname of the website with cert error.
 
 cert-error-path-len-constraint-invalid = { -brand-short-name } blokkerte besøket ditt til dette nettstedet fordi sertifikatet som er oppgitt for { $hostname } har for mange mellomliggende sertifikater i stien til rotsertifikatet.
+cert-error-invalid-integer-encoding = { -brand-short-name } blokkerte besøket ditt til dette nettstedet fordi sertifikatet som er oppgitt for { $hostname } inneholder en ugyldig koding av et heltall. Vanlige årsaker inkluderer negative serienumre, negative RSA-moduler og kodinger som er lengre enn nødvendig.
+cert-error-unsupported-keyalg = { -brand-short-name } blokkerte besøket ditt til dette nettstedet fordi sertifikatet som er oppgitt for { $hostname } har en nøkkeltype som ikke støttes.
+cert-error-issuer-no-longer-trusted = { -brand-short-name } blokkerte besøket ditt til dette nettstedet fordi sertifiseringsinstansen som utstedte sertifikatet som ble gitt for { $hostname } ikke lenger er klarert.
+cert-error-signature-algorithm-mismatch = { -brand-short-name } blokkerte besøket ditt til dette nettstedet fordi signaturalgoritmen til sertifikatet som er oppgitt for { $hostname } ikke samsvarer med signaturalgoritmefeltet.
 
 ## Messages used for certificate error titles
 
