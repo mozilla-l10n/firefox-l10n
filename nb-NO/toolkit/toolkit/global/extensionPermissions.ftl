@@ -64,3 +64,5 @@ webext-perms-description-data-short-websiteContent = nettstedsinnhold
 webext-perms-description-data-long-authenticationInfo = Del autentiseringsinformasjon med utvidelsesutvikleren
 webext-perms-description-data-long-bookmarksInfo = Del bokmerkeinformasjon med utvidelsesutvikleren
 webext-perms-description-data-long-browsingActivity = Del nettleseraktivitet med utvidelsesutvikleren
+webext-perms-description-data-long-financialAndPaymentInfo = Del finansielle opplysninger og betalingsinformasjon med utvidelsesutvikleren
+webext-perms-description-data-long-healthInfo = Del helseinformasjon med utvidelsesutvikleren

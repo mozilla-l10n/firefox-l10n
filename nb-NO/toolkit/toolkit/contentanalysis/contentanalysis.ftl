@@ -25,6 +25,10 @@ contentanalysis-operationtype-clipboard = utklippstavle
 contentanalysis-operationtype-dropped-text = sluppet tekst
 contentanalysis-operationtype-print = skriv ut
 #   $filename - The filename associated with the request, such as "aFile.txt"
+contentanalysis-upload-description = opplasting av «{ $filename }»
+#   $filename - The filename associated with the request, such as "aFile.txt"
+contentanalysis-download-description = nedlasting av «{ $filename }»
+#   $filename - The filename associated with the request, such as "aFile.txt"
 contentanalysis-customdisplaystring-description = opplasting av «{ $filename }»
 contentanalysis-warndialogtitle = Dette innholdet kan være usikkert
 # Variables:
@@ -58,10 +62,18 @@ contentanalysis-error-message-upload-file = Opplasting av «{ $filename }» ble 
 contentanalysis-error-message-dropped-text = Dra og slipp nektet.
 contentanalysis-error-message-clipboard = Lim inn nektet.
 contentanalysis-error-message-print = Utskrift nektet.
+# Variables:
+#   $agent - The name of the DLP agent doing the analysis
+#   $contentName - Description of the content, such as "clipboard" or "aFile.txt"
+contentanalysis-timeout-block-error-message-content = Forbindelsen til { $agent } ble tidsavbrutt. { $contentName } er blokkert.
 contentanalysis-block-dialog-title-upload-file = Du har ikke tillatelse til å laste opp denne filen
 # Variables:
 #   $filename - Name of the file that was blocked, such as "aFile.txt"
 contentanalysis-block-dialog-body-upload-file = I henhold til organisasjonens retningslinjer for databeskyttelse har du ikke tillatelse til å laste opp filen «{ $filename }». Kontakt administratoren din for mer informasjon.
+contentanalysis-block-dialog-title-download-file = Du har ikke tillatelse til å laste ned denne filen
+# Variables:
+#   $filename - Name of the file that was blocked, such as "aFile.txt"
+contentanalysis-block-dialog-body-download-file = I henhold til organisasjonens retningslinjer for databeskyttelse har du ikke tillatelse til å laste ned filen «{ $filename }». Kontakt administratoren din for mer informasjon.
 contentanalysis-block-dialog-title-clipboard = Du har ikke tillatelse til å lime inn dette innholdet
 contentanalysis-block-dialog-body-clipboard = I henhold til organisasjonens retningslinjer for databeskyttelse har du ikke tillatelse til å lime inn dette innholdet. Kontakt administratoren din for mer informasjon.
 contentanalysis-block-dialog-title-dropped-text = Du har ikke tillatelse til å dra og slippe dette innholdet
