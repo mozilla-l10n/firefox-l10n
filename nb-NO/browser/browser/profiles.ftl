@@ -44,6 +44,7 @@ avatar-selector-cancel-button =
 avatar-selector-save-button =
     .label = Lagre
 avatar-selector-upload-file = Last opp en fil
+avatar-selector-drag-file = Eller dra en fil hit
 edit-profile-page-no-name = Gi denne profilen et navn for å hjelpe deg med å finne den senere. Bytt navn når som helst.
 edit-profile-page-duplicate-name = Profilnavnet er allerede i bruk. Prøv et annet navn.
 edit-profile-page-profile-saved = Lagret
@@ -121,6 +122,8 @@ shopping-avatar-alt =
     .alt = Handlevogn
 star-avatar-alt =
     .alt = Stjerne
+custom-avatar-alt =
+    .alt = Tilpasset avatar
 
 ## Labels for default avatar icons
 

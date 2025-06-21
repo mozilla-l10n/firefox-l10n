@@ -289,6 +289,7 @@ colorway-removal-notice-message =
         den/de gamle versjonen(e) fra listen over «Lagrede temaer». Få nye versjoner
         på tilleggssiden.
 colorway-removal-notice-learn-more = Les mer
+colorway-removal-notice-button = Få oppdaterte fargesammensettingstemaer
 privacy-policy = Personvernbestemmelser
 # Refers to the author of an add-on, shown below the name of the add-on.
 # Variables:
@@ -442,6 +443,20 @@ addon-badge-verified2 =
 # by Mozilla and we don't want forks to display "by Fork".
 addon-badge-line4 =
     .title = Offisiell utvidelse utviklet av Mozilla. Oppfyller sikkerhets- og ytelsesstandarder.
+# This string needs to work in the context of other forks that are not Firefox
+# or built by Mozilla. In particular, we do not want to imply that an
+# organisation other than Mozilla or the Firefox team are performing the
+# security or performance reviews. As such, we avoid personalising language
+# like the words "our" or "we".
+addon-badge-verified4 =
+    .title = Denne utvidelsen er gjennomgått for å oppfylle standarder for sikkerhet og ytelse.
+# This string needs to work in the context of other forks that are not Firefox
+# or built by Mozilla. In particular, we do not want to imply that an
+# organisation other than Mozilla or the Firefox team are making the
+# recommendation. As such, we hard code "Firefox" and avoid personalising
+# language like the words "our" or "we".
+addon-badge-recommended4 =
+    .title = Firefox anbefaler bare utvidelser som oppfyller standarder for sikkerhet og ytelse.
 
 ##
 
@@ -477,6 +492,9 @@ shortcuts-heading = Håndter snarveier for utvidelser
 default-heading-search-label = Finn flere utvidelser
 addons-heading-search-input =
     .placeholder = Søk på addons.mozilla.org
+addons-heading-search-button =
+    .title = Søk på addons.mozilla.org
+    .aria-label = Søk på addons.mozilla.org
 addon-page-options-button =
     .title = Verktøy for alle utvidelser
 
@@ -538,12 +556,22 @@ plugins-widevine-description = Dette programtillegget gjør det mulig å spille 
 ## Headings for the Permissions tab in `about:addons` when the data collection
 ## feature is enabled.
 
+addon-permissions-required-data-collection = Nødvendig datainnsamling:
+addon-permissions-optional-data-collection = Valgfri datainnsamling:
 # Name of the Permissions tab in `about:addons` when the data collection feature is enabled.
 permissions-data-addon-button = Tillatelser og data
+# This is a description for extension that use this AI model
+# Variables:
+#   $extensionName (String) - Name of the extension
+mlmodel-extension-label = Brukes av utvidelsen { $extensionName }
 
 ## Mapping Engine IDs from AI models to how that feature represented by the engine Id is described in the used by section in local model management
 
+mlmodel-about-inference = { -brand-short-name } bruker dette på about:inference
 mlmodel-link-preview = { -brand-short-name } bruker denne modellen til å generere hovedpunkter når du forhåndsviser lenker
+mlmodel-pdfjs = { -brand-short-name } bruker dette til å lage alt-tekst for bilder du legger til i PDF-er
+mlmodel-smart-tab-topic-engine = { -brand-short-name } bruker dette til å foreslå navn for dine fanegrupper
+mlmodel-smart-tab-embedding-engine = { -brand-short-name } bruker dette til å foreslå faner for dine fanegrupper
 # AI Model will be downloaded on the users device and used locally
 addon-category-mlmodel = AI på enheten
 addon-category-mlmodel-title =
