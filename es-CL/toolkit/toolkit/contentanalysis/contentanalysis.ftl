@@ -34,6 +34,10 @@ contentanalysis-operationtype-clipboard = portapapeles
 contentanalysis-operationtype-dropped-text = texto descartado
 contentanalysis-operationtype-print = imprimir
 #   $filename - The filename associated with the request, such as "aFile.txt"
+contentanalysis-upload-description = carga de “{ $filename }”
+#   $filename - The filename associated with the request, such as "aFile.txt"
+contentanalysis-download-description = descarga de “{ $filename }”
+#   $filename - The filename associated with the request, such as "aFile.txt"
 contentanalysis-customdisplaystring-description = carga de “{ $filename }”
 contentanalysis-warndialogtitle = Este contenido puede no ser seguro
 # Variables:
@@ -75,6 +79,10 @@ contentanalysis-block-dialog-title-upload-file = No tienes permiso para subir es
 # Variables:
 #   $filename - Name of the file that was blocked, such as "aFile.txt"
 contentanalysis-block-dialog-body-upload-file = Según las políticas de protección de datos de tu organización, no tienes permitido subir el archivo "{ $filename }". Ponte en contacto con tu administrador para obtener más información.
+contentanalysis-block-dialog-title-download-file = No tienes permiso para bajar este archivo
+# Variables:
+#   $filename - Name of the file that was blocked, such as "aFile.txt"
+contentanalysis-block-dialog-body-download-file = Según las políticas de protección de datos de tu organización, no tienes permitido bajar el archivo "{ $filename }". Ponte en contacto con tu administrador para obtener más información.
 contentanalysis-block-dialog-title-clipboard = No tienes permitido pegar este contenido.
 contentanalysis-block-dialog-body-clipboard = Según las políticas de protección de datos de tu organización, no tienes permitido pegar este contenido. Ponte en contacto con tu administrador para obtener más información.
 contentanalysis-block-dialog-title-dropped-text = No tienes permitido soltar este contenido.
