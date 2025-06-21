@@ -125,6 +125,8 @@ sidebar-menu-customize-label =
     .label = Personalizar barra lateral
 sidebar-menu-contextual-password-manager-label =
     .label = Contraseñas
+sidebar-menu-more-tools-label =
+    .label = Más herramientas
 
 ## Tooltips for sidebar menu items.
 
