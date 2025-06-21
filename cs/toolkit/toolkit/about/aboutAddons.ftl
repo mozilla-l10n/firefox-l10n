@@ -315,7 +315,13 @@ discopane-notice-learn-more = Zjistit více
 # Notice for the colorway theme removal
 colorway-removal-notice-message =
     .heading = Vaše palety barev byly odstraněny.
-    .message = { -brand-product-name } aktualizoval svoji kolekci palet barev. Odstranili jsme staré verze z vašeho listu „Uložené motivy“. Získejte nové verze na stránce doplňků.
+    .message =
+        { -brand-product-name.gender ->
+            [masculine] { -brand-product-name } aktualizoval svoji kolekci palet barev. Odstranili jsme staré verze z vašeho listu „Uložené motivy“. Získejte nové verze na stránce doplňků.
+            [feminine] { -brand-product-name } aktualizovala svoji kolekci palet barev. Odstranili jsme staré verze z vašeho listu „Uložené motivy“. Získejte nové verze na stránce doplňků.
+            [neuter] { -brand-product-name } aktualizovalo svoji kolekci palet barev. Odstranili jsme staré verze z vašeho listu „Uložené motivy“. Získejte nové verze na stránce doplňků.
+           *[other] Aplikace { -brand-product-name } aktualizovala svoji kolekci palet barev. Odstranili jsme staré verze z vašeho listu „Uložené motivy“. Získejte nové verze na stránce doplňků.
+        }
 colorway-removal-notice-learn-more = Zjistit více
 colorway-removal-notice-button = Získejte aktualizované palety barev
 privacy-policy = Zásady ochrany osobních údajů
