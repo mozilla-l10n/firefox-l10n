@@ -125,6 +125,8 @@ contextual-manager-passwords-password-already-exists-error-button = انتقل �
 contextual-manager-passwords-update-password-success-heading =
     .heading = حُفظت كلمة السر
 contextual-manager-passwords-update-password-success-button = تمّ
+contextual-manager-passwords-update-username-success-heading =
+    .heading = حُفظ اسم المستخدم
 contextual-manager-passwords-delete-password-success-button = تمّ
 #
 # Radiobutton label to display total number of passwords
@@ -164,8 +166,14 @@ contextual-manager-passwords-remove-label =
 
 contextual-manager-passwords-list-label =
     .aria-label = كلمات السر
+contextual-manager-website-icon =
+    .alt = أيقونة الموقع
 contextual-manager-copy-icon =
     .alt = انسخ
+contextual-manager-check-icon-username =
+    .alt = نُسخ
+contextual-manager-check-icon-password =
+    .alt = نُسخ
 contextual-manager-alert-icon =
     .alt = تحذير
 # Variables
@@ -173,6 +181,13 @@ contextual-manager-alert-icon =
 contextual-manager-origin-login-line =
     .aria-label = زُر { $url }
     .title = زُر { $url }
+contextual-manager-password-login-line =
+    .aria-label = انسخ كلمة السر
+    .title = انسخ كلمة السر
+# "(Warning)" indicates that a login's password field has an alert icon.
+contextual-manager-password-login-line-with-alert =
+    .aria-label = انسخ كلمة السر (تحذير)
+    .title = انسخ كلمة السر (تحذير)
 contextual-manager-edit-login-button = حرّر
     .tooltiptext = حرّر كلمة السر
 contextual-manager-view-alert-heading =

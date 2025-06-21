@@ -22,6 +22,8 @@ address-capture-cancel-button =
     .accessKey = غ
 address-capture-learn-more-button =
     .label = اطلع على المزيد
+address-capture-open-menu-button =
+    .aria-label = افتح القائمة
 # The dialog title for editing addresses in browser preferences.
 autofill-edit-address-title = حرّر العنوان
 autofill-address-given-name = الاسم الأول
