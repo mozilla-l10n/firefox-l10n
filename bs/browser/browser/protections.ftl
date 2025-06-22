@@ -194,3 +194,27 @@ bar-tooltip-cookie =
             [few] { $count } međustranična kolačića za praćenje ({ $percentage }%)
            *[other] { $count } međustraničnih kolačića za praćenje ({ $percentage }%)
         }
+bar-tooltip-tracker =
+    .title = Sadržaj za praćenje
+    .aria-label =
+        { $count ->
+            [one] { $count } sadržaj za praćenje ({ $percentage }%)
+            [few] { $count } sadržaja za praćenje ({ $percentage }%)
+           *[other] { $count } sadržaja za praćenje ({ $percentage }%)
+        }
+bar-tooltip-fingerprinter =
+    .title = Sakupljači digitalnih otisaka
+    .aria-label =
+        { $count ->
+            [one] { $count } sakupljač digitalnih otisaka ({ $percentage }%)
+            [few] { $count } sakupljača digitalnih otisaka ({ $percentage }%)
+           *[other] { $count } sakupljača digitalnih otisaka ({ $percentage }%)
+        }
+bar-tooltip-cryptominer =
+    .title = Kripto rudari
+    .aria-label =
+        { $count ->
+            [one] { $count } kripto rudar ({ $percentage }%)
+            [few] { $count } kripto rudara ({ $percentage }%)
+           *[other] { $count } kripto rudara ({ $percentage }%)
+        }

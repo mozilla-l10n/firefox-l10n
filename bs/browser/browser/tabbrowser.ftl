@@ -52,6 +52,15 @@ tabbrowser-close-tabs-tooltip =
 ## Variables:
 ##   $tabCount (Number): The number of tabs that will be affected.
 
+# Variables:
+#   $shortcut (String): The keyboard shortcut for "Mute tab".
+tabbrowser-mute-tab-audio-tooltip =
+    .label =
+        { $tabCount ->
+            [one] Isključi zvuk na tabu ({ $shortcut })
+            [few] Isključi zvuk na { $tabCount } taba ({ $shortcut })
+           *[other] Isključi zvuk na { $tabCount } tabova ({ $shortcut })
+        }
 
 ## Tooltips for tab audio control
 

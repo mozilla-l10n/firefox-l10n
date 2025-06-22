@@ -21,6 +21,11 @@ sidebar-history-date-this-month =
     .heading = { DATETIME($date, dateStyle: "full") }
 sidebar-history-date-prev-month =
     .heading = { DATETIME($date, month: "long", year: "numeric") }
+# When history is sorted by site, this heading is used in place of a domain, in
+# order to group sites that do not come from an outside host.
+# For example, this would be the heading for all file:/// URLs in history.
+sidebar-history-site-localhost =
+    .heading = (lokalne datoteke)
 sidebar-history-delete =
     .title = Izbriši iz historije
 sidebar-history-clear =
@@ -103,6 +108,8 @@ sidebar-history-context-menu-delete-page-2 =
     .label = Izbriši stranicu iz historije
 sidebar-history-context-menu-bookmark-page =
     .label = Zabilježi stranicu…
+sidebar-history-context-menu-delete-pages =
+    .label = Izbriši stranice iz historije
 
 ## Labels for sidebar menu items.
 
@@ -118,6 +125,8 @@ sidebar-menu-customize-label =
     .label = Prilagodi bočnu traku
 sidebar-menu-contextual-password-manager-label =
     .label = Lozinke
+sidebar-menu-more-tools-label =
+    .label = Više alata
 
 ## Tooltips for sidebar menu items.
 
