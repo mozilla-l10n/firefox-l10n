@@ -40,3 +40,9 @@ experimental-features-link-previews-description =
         [macos] For å lære mer om en nettside før du klikker, hold musepekeren over en kobling og trykk Shift (⇧) pluss Option (⌥) eller Alt. Forhåndsvisninger kan inneholde detaljer som tittel og lesetid. For noen nettsider kan AI også lese sideteksten og generere nøkkelpunkter. AI er optimalisert for å lese og generere engelsk tekst. For å prioritere personvernet ditt, kjører AI lokalt på datamaskinen din. <a data-l10n-name="connect">Del tilbakemelding</a>
        *[other] For å lære mer om en nettside før du klikker, hold musepekeren over en kobling og trykk Shift + Alt. Forhåndsvisninger kan inneholde detaljer som tittel og lesetid. For noen nettsider kan AI også lese sideteksten og generere nøkkelpunkter. AI er optimalisert for å lese og generere engelsk tekst. For å prioritere personvernet ditt, kjører AI lokalt på datamaskinen din. <a data-l10n-name="connect">Del tilbakemelding</a>
     }
+# This version of the link previews description does not mention AI.
+experimental-features-link-previews-description-no-ai =
+    { PLATFORM() ->
+        [macos] For å lære mer om en nettside før du klikker, hold musepekeren over en lenke og trykk Shift (⇧) pluss Option (⌥) eller Alt. Forhåndsvisninger kan inkludere detaljer som tittel og lesetid. <a data-l10n-name="connect">Del tilbakemeldinger</a>
+       *[other] For å lære mer om en nettside før du klikker, hold musepekeren over en lenke og trykk Shift + Alt. Forhåndsvisninger kan inneholde detaljer som tittel og lesetid. <a data-l10n-name="connect">Del tilbakemeldinger</a>
+    }
