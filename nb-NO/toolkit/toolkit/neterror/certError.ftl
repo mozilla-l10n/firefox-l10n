@@ -86,6 +86,7 @@ fp-certerror-unknown-issuer-why-dangerous-body = Det er et problem med nettstede
 fp-certerror-unknown-issuer-what-can-you-do-body = Sannsynligvis ingenting, siden det sannsynligvis er et problem med selve nettstedet. Men hvis du er på et bedriftsnettverk, kan det hende at supportteamet ditt har mer informasjon. Hvis du bruker antivirusprogramvare, må det kanskje konfigureres til å fungere med { -brand-short-name }.
 # This string appears after the following string: "What can you do about it?" (fp-certerror-what-can-you-do)
 fp-certerror-self-signed-what-can-you-do-body = Ikke mye. Det er sannsynlig at det er et problem med selve nettstedet.
+fp-certerror-self-signed-important-note = VIKTIG: Hvis du prøver å besøke dette nettstedet på et bedriftsintranett, kan det være at deres IT-personale bruker selvsignerte sertifikater. De kan hjelpe deg med å sjekke sertifikatets gyldighet.
 # This string appears after the following string: "What makes the site look dangerous?" (fp-certerror-why-site-dangerous)
 # Variables:
 #   $date (Date) - Certificate expiration date.
@@ -107,6 +108,9 @@ fp-learn-more-about-time-related-errors = Finn ut mer om feilsøking av tidsrela
 ## Variables:
 ##   $hostname (string) - Hostname of the website with cert error.
 
+cert-error-revoked-certificate = { -brand-short-name } blokkerte besøket ditt til dette nettstedet fordi sertifikatet som ble gitt for { $hostname } er tilbakekalt og ikke lenger er klarert.
+cert-error-bad-signature = { -brand-short-name } blokkerte besøket ditt til dette nettstedet fordi signaturen på sertifikatet som er oppgitt for { $hostname } ikke er gyldig.
+cert-error-key-pinning-failure = { -brand-short-name } blokkerte besøket ditt til dette nettstedet fordi sertifikatet som er oppgitt for { $hostname } bruker en annen offentlig nøkkel enn forventet.
 cert-error-path-len-constraint-invalid = { -brand-short-name } blokkerte besøket ditt til dette nettstedet fordi sertifikatet som er oppgitt for { $hostname } har for mange mellomliggende sertifikater i stien til rotsertifikatet.
 cert-error-invalid-integer-encoding = { -brand-short-name } blokkerte besøket ditt til dette nettstedet fordi sertifikatet som er oppgitt for { $hostname } inneholder en ugyldig koding av et heltall. Vanlige årsaker inkluderer negative serienumre, negative RSA-moduler og kodinger som er lengre enn nødvendig.
 cert-error-unsupported-keyalg = { -brand-short-name } blokkerte besøket ditt til dette nettstedet fordi sertifikatet som er oppgitt for { $hostname } har en nøkkeltype som ikke støttes.
