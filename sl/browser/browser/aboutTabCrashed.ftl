@@ -19,4 +19,4 @@ crashed-comment =
 crashed-include-URL-2 = Vključi naslove strani, ki ste jih imeli odprte, ko se je { -brand-short-name } sesul
 crashed-report-sent = Poročilo o sesutju je že bilo poslano. Hvala, da pomagate izboljševati { -brand-short-name(sklon: "tozilnik") }!
 crashed-request-auto-submit-title = Poročilo o zavihkih v ozadju
-crashed-auto-submit-checkbox-2 = Posodobi nastavitve za samodejno pošiljanje poročil ob sesutju { -brand-short-name(sklon: "rodilnik") }
+crashed-auto-submit-checkbox-2 = Dovoli samodejno pošiljanje poročil o sesutjih { -brand-short-name(sklon: "rodilnik") }

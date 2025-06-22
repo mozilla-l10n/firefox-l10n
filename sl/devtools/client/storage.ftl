@@ -107,3 +107,11 @@ storage-idb-delete-blocked = Podatkovna zbirka “{ $dbName }” bo izbrisana, k
 # Variables:
 #   $dbName (String) - Name of the database
 storage-idb-delete-error = Podatkovne zbirke “{ $dbName }” ni bilo mogoče izbrisati.
+# Error notification when cookie could not be created (e.g. because it's invalid).
+# Variables:
+#   $errorString (String) - Platform error message
+storage-cookie-create-error = Piškotka ni bilo mogoče ustvariti: »{ $errorString }«.
+# Error notification when cookie could not be edited (e.g. because it's invalid).
+# Variables:
+#   $errorString (String) - Platform error message
+storage-cookie-edit-error = Piškotka ni bilo mogoče posodobiti: »{ $errorString }«.

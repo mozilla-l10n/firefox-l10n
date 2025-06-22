@@ -39,6 +39,12 @@ edit-profile-page-delete-button =
 edit-profile-page-avatar-selector-opener-link = Uredi
 avatar-selector-icon-tab = Ikona
 avatar-selector-custom-tab = Po meri
+avatar-selector-cancel-button =
+    .label = Prekliči
+avatar-selector-save-button =
+    .label = Shrani
+avatar-selector-upload-file = Naloži datoteko
+avatar-selector-drag-file = Ali povlecite datoteko sem
 edit-profile-page-no-name = Nadenite profilu ime, s katerim ga boste lažje našli. Kadarkoli ga lahko preimenujete.
 edit-profile-page-duplicate-name = Ime profila se že uporablja. Poskusite z drugačnim imenom.
 edit-profile-page-profile-saved = Shranjeno
@@ -116,6 +122,8 @@ shopping-avatar-alt =
     .alt = Nakupovalni voziček
 star-avatar-alt =
     .alt = Zvezdica
+custom-avatar-alt =
+    .alt = Slika profila po meri
 
 ## Labels for default avatar icons
 

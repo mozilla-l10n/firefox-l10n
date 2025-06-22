@@ -188,6 +188,8 @@ media-capabilities-enumerate = Oštevilči bazo podatkov
 
 media-codec-support-sw-decoding = Programsko dekodiranje
 media-codec-support-hw-decoding = Strojno dekodiranje
+media-codec-support-sw-encoding = Kodiranje programske opreme
+media-codec-support-hw-encoding = Kodiranje strojne opreme
 media-codec-support-codec-name = Ime kodeka
 media-codec-support-supported = Podprt
 media-codec-support-unsupported = Nepodprt

@@ -36,6 +36,8 @@ contentanalysis-operationtype-clipboard = odložišče
 contentanalysis-operationtype-dropped-text = spuščeno besedilo
 contentanalysis-operationtype-print = natisni
 #   $filename - The filename associated with the request, such as "aFile.txt"
+contentanalysis-download-description = prenos »{ $filename }«
+#   $filename - The filename associated with the request, such as "aFile.txt"
 contentanalysis-customdisplaystring-description = naloži { $filename }
 contentanalysis-warndialogtitle = Ta vsebina morda ni varna
 # Variables:
@@ -77,6 +79,10 @@ contentanalysis-block-dialog-title-upload-file = Za nalaganje te datoteke nimate
 # Variables:
 #   $filename - Name of the file that was blocked, such as "aFile.txt"
 contentanalysis-block-dialog-body-upload-file = Po pravilnikih o varstvu podatkov vaše organizacije nimate dovoljenja za nalaganje datoteke "{ $filename }". Za več informacij se obrnite na skrbnika.
+contentanalysis-block-dialog-title-download-file = Za prenos te datoteke nimate dovoljenja
+# Variables:
+#   $filename - Name of the file that was blocked, such as "aFile.txt"
+contentanalysis-block-dialog-body-download-file = Po pravilnikih o varstvu podatkov vaše organizacije nimate dovoljenja za prenos datoteke »{ $filename }«. Za več informacij se obrnite na skrbnika.
 contentanalysis-block-dialog-title-clipboard = Za lepljenje te vsebine nimate dovoljenja
 contentanalysis-block-dialog-body-clipboard = Po pravilnikih o varstvu podatkov vaše organizacije nimate dovoljenja za lepljenje te vsebine. Za več informacij se obrnite na skrbnika.
 contentanalysis-block-dialog-title-dropped-text = Za spuščanje te vsebine nimate dovoljenja

@@ -125,6 +125,8 @@ sidebar-menu-customize-label =
     .label = Prilagodi stransko vrstico
 sidebar-menu-contextual-password-manager-label =
     .label = Gesla
+sidebar-menu-more-tools-label =
+    .label = Več orodij
 
 ## Tooltips for sidebar menu items.
 
