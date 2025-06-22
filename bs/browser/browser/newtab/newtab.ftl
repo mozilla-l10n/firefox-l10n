@@ -8,6 +8,9 @@
 newtab-page-title = Novi tab
 newtab-settings-button =
     .title = Prilagodite svoju početnu stranicu novog taba
+newtab-customize-panel-icon-button =
+    .title = Prilagodi ovu stranicu
+newtab-customize-panel-icon-button-label = Prilagodi
 newtab-personalize-settings-icon-label =
     .title = Personalizujte novi tab
     .aria-label = Postavke
@@ -316,6 +319,9 @@ newtab-custom-recent-toggle =
 newtab-custom-weather-toggle =
     .label = Vrijeme
     .description = Ukratko o današnjoj prognozi
+newtab-custom-trending-search-toggle =
+    .label = Popularne pretrage
+    .description = Popularne i često tražene teme
 newtab-custom-close-button = Zatvori
 newtab-custom-settings = Upravljajte više postavki
 

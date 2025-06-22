@@ -103,6 +103,42 @@ contextual-manager-passwords-remove-all-title =
         [few] Ukloniti { $total } lozinke?
        *[other] Ukloniti sve { $total } lozinke?
     }
+# Checkbox label to confirm the removal of saved passwords
+#   $total (number) - Total number of passwords
+contextual-manager-passwords-remove-all-confirm =
+    { $total ->
+        [1] Da, ukloni lozinku
+        [one] Da, ukloni lozinku
+        [few] Da, ukloni lozinke
+       *[other] Da, ukloni lozinke
+    }
+# Button label to confirm removal of saved passwords
+#   $total (number) - Total number of passwords
+contextual-manager-passwords-remove-all-confirm-button =
+    { $total ->
+        [1] Ukloni
+        [one] Ukloni
+        [few] Ukloni sve
+       *[other] Ukloni sve
+    }
+# Message to confirm the removal of all saved passwords when user DOES NOT HAVE SYNC
+#   $total (number) - Total number of passwords
+contextual-manager-passwords-remove-all-message =
+    { $total ->
+        [1] Ovim ćete ukloniti vašu lozinku sačuvanu u { -brand-short-name } i sve obavijesti o povredi sigurnosti. Ovu akciju nije moguće opozvati.
+        [one] Ovim ćete ukloniti vašu lozinku sačuvanu u { -brand-short-name } i sve obavijesti o povredi sigurnosti. Ovu akciju nije moguće opozvati.
+        [few] Ovim ćete ukloniti lozinke sačuvane u { -brand-short-name } i sve obavijesti o povredi sigurnosti. Ovu akciju nije moguće opozvati.
+       *[other] Ovim ćete ukloniti lozinki sačuvane u { -brand-short-name } i sve obavijesti o povredi sigurnosti. Ovu akciju nije moguće opozvati.
+    }
+# Message for modal to confirm the removal of all saved passwords when user HAS SYNC
+#   $total (number) - Total number of passwords
+contextual-manager-passwords-remove-all-message-sync =
+    { $total ->
+        [1] Ovim ćete ukloniti lozinku sačuvanu u { -brand-short-name } na svim vašim uređajima koji su sinhronizovani i ukloniti sve obavijesti o povredi sigurnosti. Ovu radnju nije moguće opozvati.
+        [one] Ovim ćete ukloniti lozinku sačuvanu u { -brand-short-name } na svim vašim uređajima koji su sinhronizovani i ukloniti sve obavijesti o povredi sigurnosti. Ovu radnju nije moguće opozvati.
+        [few] Ovim ćete ukloniti lozinke sačuvane u { -brand-short-name } na svim vašim uređajima koji su sinhronizovani i ukloniti sve obavijesti o povredi sigurnosti. Ovu radnju nije moguće opozvati.
+       *[other] Ovim ćete ukloniti lozinki sačuvane u { -brand-short-name } na svim vašim uređajima koji su sinhronizovani i ukloniti sve obavijesti o povredi sigurnosti. Ovu radnju nije moguće opozvati.
+    }
 contextual-manager-passwords-origin-label = Web stranica
 # The attribute .data-after describes the text that should be displayed for the ::after pseudo-selector
 contextual-manager-passwords-username-label = Korisničko ime
@@ -127,6 +163,16 @@ contextual-manager-passwords-update-password-success-heading =
 contextual-manager-passwords-update-password-success-button = Gotovo
 contextual-manager-passwords-update-username-success-heading =
     .heading = Korisničko ime sačuvano
+# Message to confirm successful removal of a password/passwords.
+#   $total (number) - Total number of passwords
+contextual-manager-passwords-delete-password-success-heading =
+    .heading =
+        { $total ->
+            [1] Lozinka uklonjena
+            [one] Lozinka uklonjena
+            [few] Lozinke uklonjene
+           *[other] Lozinki uklonjeno
+        }
 contextual-manager-passwords-delete-password-success-button = Gotovo
 #
 # Radiobutton label to display total number of passwords
@@ -258,3 +304,11 @@ contextual-manager-passwords-discard-changes-heading-and-message =
     .message = Vaše promjene neće biti sačuvane.
 contextual-manager-passwords-discard-changes-close-button = Zatvori
 contextual-manager-passwords-discard-changes-go-back-button = Idi nazad
+#   $total (number) - Total number of passwords
+contextual-manager-passwords-remove-all-passwords-checkbox =
+    { $total ->
+        [1] Da, ukloni lozinku
+        [one] Da, ukloni lozinku
+        [few] Da, ukloni lozinke
+       *[other] Da, ukloni lozinke
+    }

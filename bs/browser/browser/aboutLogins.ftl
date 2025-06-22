@@ -516,6 +516,18 @@ about-logins-import-report-modified2 =
         [few] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">postojeće stavke su ažurirane</div>
        *[other] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">postojećih stavki je ažurirano</div>
     }
+about-logins-import-report-no-change2 =
+    { $count ->
+        [one] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">duplikat stavke</div> <div data-l10n-name="not-imported">(nije uvezena)</div>
+        [few] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">duplikata stavki</div> <div data-l10n-name="not-imported">(nisu uvezene)</div>
+       *[other] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">duplikata stavki</div> <div data-l10n-name="not-imported">(nije uvezeno)</div>
+    }
+about-logins-import-report-error =
+    { $count ->
+        [one] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">greška</div> <div data-l10n-name="not-imported">(nije uvezena)</div>
+        [few] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">greške</div> <div data-l10n-name="not-imported">(nisu uvezene)</div>
+       *[other] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">grešaka</div> <div data-l10n-name="not-imported">(nije uvezeno)</div>
+    }
 
 ## Logins import report page
 
