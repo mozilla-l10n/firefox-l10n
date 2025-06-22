@@ -303,6 +303,14 @@ about-logins-confirm-remove-all-sync-dialog-title2 =
         [few] Ukloniti sve { $count } lozinke sa svih uređaja?
        *[other] Ukloniti svih { $count } lozinki sa svih uređaja?
     }
+# Message for modal to confirm the removal of saved passwords when user IS synced.
+about-logins-confirm-remove-all-sync-dialog-message3 =
+    { $count ->
+        [1] Ovo će ukloniti lozinku sačuvanu u { -brand-short-name } na svim vašim sinhronizovanim uređajima. Takođe će biti uklonjena sva sigurnosna upozorenja prikazana ovdje. Ova radnja se ne može poništiti.
+        [one] Ovo će ukloniti lozinku sačuvanu u { -brand-short-name } na svim vašim sinhronizovanim uređajima. Takođe će biti uklonjena sva sigurnosna upozorenja prikazana ovdje. Ova radnja se ne može poništiti.
+        [few] Ovo će ukloniti lozinke sačuvane u { -brand-short-name } na svim vašim sinhronizovanim uređajima. Takođe će biti uklonjena sva sigurnosna upozorenja prikazana ovdje. Ova radnja se ne može poništiti.
+       *[other] Ovo će ukloniti sve lozinke sačuvane u { -brand-short-name } na svim vašim sinhronizovanim uređajima. Takođe će biti uklonjena sva sigurnosna upozorenja prikazana ovdje. Ova radnja se ne može poništiti.
+    }
 
 ##
 
@@ -396,6 +404,48 @@ about-logins-import-file-picker-tsv-filter-title =
 ##  $count (number) - The number of affected elements
 
 about-logins-import-dialog-title = Uvoz završen
+about-logins-import-dialog-items-added =
+    { $count ->
+        [one] <span>Dodane nove prijave:</span> <span data-l10n-name="count">{ $count }</span>
+        [few] <span>Dodane nove prijave:</span> <span data-l10n-name="count">{ $count }</span>
+       *[other] <span>Dodane nove prijave:</span> <span data-l10n-name="count">{ $count }</span>
+    }
+about-logins-import-dialog-items-modified =
+    { $count ->
+        [one] <span>Ažurirane postojeće prijave:</span> <span data-l10n-name="count">{ $count }</span>
+        [few] <span>Ažurirane postojeće prijave:</span> <span data-l10n-name="count">{ $count }</span>
+       *[other] <span>Ažurirane postojeće prijave:</span> <span data-l10n-name="count">{ $count }</span>
+    }
+about-logins-import-dialog-items-no-change =
+    { $count ->
+        [one] <span>Pronađene duple prijave:</span> <span data-l10n-name="count">{ $count }</span> <span data-l10n-name="meta">(nije uvezeno)</span>
+        [few] <span>Pronađene duple prijave:</span> <span data-l10n-name="count">{ $count }</span> <span data-l10n-name="meta">(nije uvezeno)</span>
+       *[other] <span>Pronađene duple prijave:</span> <span data-l10n-name="count">{ $count }</span> <span data-l10n-name="meta">(nije uvezeno)</span>
+    }
+about-logins-import-dialog-items-added2 =
+    { $count ->
+        [one] <span>Broj novo dodanih lozinki:</span> <span data-l10n-name="count">{ $count }</span>
+        [few] <span>Broj novo dodanih lozinki:</span> <span data-l10n-name="count">{ $count }</span>
+       *[other] <span>Broj novo dodanih lozinki:</span> <span data-l10n-name="count">{ $count }</span>
+    }
+about-logins-import-dialog-items-modified2 =
+    { $count ->
+        [one] <span>Ažurirani postojeći unosi:</span> <span data-l10n-name="count">{ $count }</span>
+        [few] <span>Ažurirani postojeći unosi:</span> <span data-l10n-name="count">{ $count }</span>
+       *[other] <span>Ažurirani postojeći unosi:</span> <span data-l10n-name="count">{ $count }</span>
+    }
+about-logins-import-dialog-items-no-change2 =
+    { $count ->
+        [one] <span>Pronađeni dupli unosi:</span> <span data-l10n-name="count">{ $count }</span> <span data-l10n-name="meta">(nisu uvezeni)</span >
+        [few] <span>Pronađeni dupli unosi:</span> <span data-l10n-name="count">{ $count }</span> <span data-l10n-name="meta">(nisu uvezeni)</span >
+       *[other] <span>Pronađeni dupli unosi:</span> <span data-l10n-name="count">{ $count }</span> <span data-l10n-name="meta">(nisu uvezeni)</span >
+    }
+about-logins-import-dialog-items-error =
+    { $count ->
+        [one] <span>Greške:</span> <span data-l10n-name="count">{ $count }</span> <span data-l10n-name="meta">(nije uvezeno)</span>
+        [few] <span>Greške:</span> <span data-l10n-name="count">{ $count }</span> <span data-l10n-name="meta">(nije uvezeno)</span>
+       *[other] <span>Greške:</span> <span data-l10n-name="count">{ $count }</span> <span data-l10n-name="meta">(nije uvezeno)</span>
+    }
 about-logins-import-dialog-done = Gotovo
 about-logins-import-dialog-error-title = Greška pri uvozu
 about-logins-import-dialog-error-conflicting-values-title = Više suprotstavljenih vrijednosti za jednu prijavu
@@ -436,6 +486,36 @@ about-logins-import-report-row-description-error-missing-field = Greška: nedost
 ## Variables:
 ##  $count (number) - The number of affected elements
 
+about-logins-import-report-added =
+    { $count ->
+        [one] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">nova prijava je dodana</div>
+        [few] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">nove prijave su dodane</div>
+       *[other] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">novih prijava je dodano</div>
+    }
+about-logins-import-report-modified =
+    { $count ->
+        [one] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">postojeća prijava je ažurirana</div>
+        [few] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">postojeće prijave su ažurirane</div>
+       *[other] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">postojećih prijava je ažurirano</div>
+    }
+about-logins-import-report-no-change =
+    { $count ->
+        [one] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">duplikat prijave</div> <div data-l10n-name="not-imported">(nije uvezena)</div>
+        [few] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">duplikati prijava</div> <div data-l10n-name="not-imported">(nisu uvezene)</div>
+       *[other] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">duplikata prijava</div> <div data-l10n-name="not-imported">(nije uvezeno)</div>
+    }
+about-logins-import-report-added2 =
+    { $count ->
+        [one] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">nova lozinka je dodana</div>
+        [few] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">nove lozinke su dodane</div>
+       *[other] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">novih lozinki je dodano</div>
+    }
+about-logins-import-report-modified2 =
+    { $count ->
+        [one] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">postojeća stavka je ažurirana</div>
+        [few] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">postojeće stavke su ažurirane</div>
+       *[other] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">postojećih stavki je ažurirano</div>
+    }
 
 ## Logins import report page
 
