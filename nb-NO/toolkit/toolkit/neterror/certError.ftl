@@ -111,6 +111,7 @@ fp-learn-more-about-time-related-errors = Finn ut mer om feilsøking av tidsrela
 cert-error-revoked-certificate = { -brand-short-name } blokkerte besøket ditt til dette nettstedet fordi sertifikatet som ble gitt for { $hostname } er tilbakekalt og ikke lenger er klarert.
 cert-error-bad-signature = { -brand-short-name } blokkerte besøket ditt til dette nettstedet fordi signaturen på sertifikatet som er oppgitt for { $hostname } ikke er gyldig.
 cert-error-key-pinning-failure = { -brand-short-name } blokkerte besøket ditt til dette nettstedet fordi sertifikatet som er oppgitt for { $hostname } bruker en annen offentlig nøkkel enn forventet.
+cert-error-bad-der = { -brand-short-name } blokkerte besøket ditt til dette nettstedet fordi sertifikatet som ble gitt for { $hostname } ikke er riktig kodet.
 cert-error-path-len-constraint-invalid = { -brand-short-name } blokkerte besøket ditt til dette nettstedet fordi sertifikatet som er oppgitt for { $hostname } har for mange mellomliggende sertifikater i stien til rotsertifikatet.
 cert-error-invalid-integer-encoding = { -brand-short-name } blokkerte besøket ditt til dette nettstedet fordi sertifikatet som er oppgitt for { $hostname } inneholder en ugyldig koding av et heltall. Vanlige årsaker inkluderer negative serienumre, negative RSA-moduler og kodinger som er lengre enn nødvendig.
 cert-error-unsupported-keyalg = { -brand-short-name } blokkerte besøket ditt til dette nettstedet fordi sertifikatet som er oppgitt for { $hostname } har en nøkkeltype som ikke støttes.
@@ -124,6 +125,7 @@ deniedPortAccess-title = Tilgang til denne adressen er begrenset
 # "Hmm" is a sound made when considering or puzzling over something.
 # You don't have to include it in your translation if your language does not have a written word like this.
 dnsNotFound-title = Hmm. Vi har problemer med å finne nettstedet.
+internet-connection-offline-title = Det ser ut til at det er et problem med internett-tilkoblingen din.
 dns-not-found-trr-only-title2 = Mulig sikkerhetsrisiko ved å søke opp dette domenet
 dns-not-found-native-fallback-title2 = Mulig sikkerhetsrisiko ved å søke opp dette domenet
 fileNotFound-title = Fil ikke funnet
