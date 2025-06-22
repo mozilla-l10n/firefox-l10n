@@ -72,6 +72,11 @@ sync-account-in-use-description = Du kan kun knytte denne kontoen til én profil
 # Dialog 2 - account signed in on another profile with merge option
 sync-account-already-signed-in-header = Denne kontoen er logget på en annen profil. Vil du synkronisere begge profilene?
 # Variables:
+#   $acctEmail (String) - Email of the account signing into sync.
+#   $currentProfile (String): Name of the current profile signing in
+#   $otherProfile (String): Name of the profile that is already signed in
+sync-account-in-use-description-merge = { $acctEmail } er logget på profilen «{ $otherProfile }» på denne datamaskinen. Synkronisering av profilen «{ $currentProfile }» vil permanent kombinere data fra begge profilene, for eksempel passord og bokmerker.
+# Variables:
 #   $profileName (String) - Name of the profile to switch to
 sync-button-switch-profile = Bytt til «{ $profileName }»
 sync-button-create-profile = Opprett en ny profil

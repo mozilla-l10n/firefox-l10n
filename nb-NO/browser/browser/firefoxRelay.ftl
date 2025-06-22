@@ -41,6 +41,9 @@ firefox-relay-opt-in-confirmation-disable =
 firefox-relay-opt-in-confirmation-postpone =
     .label = Ikke nå
     .accesskey = k
+firefox-relay-and-fxa-opt-in-confirmation-enable-button =
+    .label = Logg inn på { -brand-product-name } og bruk e-postalias
+    .accesskey = L
 firefox-relay-and-fxa-opt-in-confirmation-enable-button-sign-up =
     .label = Registrer deg
     .accesskey = R
@@ -53,21 +56,30 @@ firefox-relay-and-fxa-opt-in-confirmation-postpone =
 
 ## The "control" variation of the Relay offer popup
 
+firefox-relay-offer-legal-notice-control = Ved å registrere deg og opprette et e-postalias, godtar du <label data-l10n-name="tos-url">tjenestevilkårene</label> og <label data-l10n-name="privacy-url">personvernerklæringen</label>.
 
 ## The "basic-info" variation of the Relay offer popup
 
+firefox-relay-and-fxa-popup-notification-header-basic-info = Forhindre spam med et gratis e-postalias
+firefox-relay-and-fxa-popup-notification-first-sentence-basic-info = Forhindre spam ved å skjule din virkelige e-postadresse med et gratis <label data-l10n-name="firefox-relay-learn-more-url">e-postalias</label>. E-poster fra <label data-l10n-name="firefox-fxa-and-relay-offer-domain">dette nettstedet</label> vil fortsatt komme til innboksen din, men med e-postadressen din skjult.
+firefox-relay-and-fxa-popup-notification-second-sentence-basic-info = Først må du registrere deg eller logge inn på kontoen din for å bruke en e-postalias
 firefox-relay-and-fxa-opt-in-confirmation-enable-button-basic-info =
     .label = Registrer deg
     .accesskey = R
 
 ## The "with-domain" variation of the Relay offer popup
 
+firefox-relay-and-fxa-popup-notification-header-with-domain = Få ett gratis e-postalias
+firefox-relay-and-fxa-popup-notification-first-sentence-with-domain = Beskytt innboksen din mot spam ved å bruke et gratis <label data-l10n-name="firefox-relay-learn-more-url">e-postalias</label> for å skjule din virkelige adresse. E-poster fra <label data-l10n-name="firefox-fxa-and-relay-offer-domain">dette nettstedet</label> vil fortsatt komme til innboksen din, men med e-postadressen din skjult.
+firefox-relay-and-fxa-popup-notification-second-sentence-with-domain = Først må du registrere deg eller logge inn på kontoen din for å bruke en e-postalias
 firefox-relay-and-fxa-opt-in-confirmation-enable-button-with-domain =
     .label = Registrer deg
     .accesskey = R
 
 ## The "with-domain-and-value-prop" variation of the Relay offer popup
 
+firefox-relay-and-fxa-popup-notification-header-with-domain-and-value-prop = Beskytt mot spam med et e-postalias
+firefox-relay-and-fxa-popup-notification-first-sentence-with-domain-and-value-prop = Beskytt mot spam ved å skjule din virkelige adresse med et <label data-l10n-name="firefox-relay-learn-more-url">e-postalias</label>. Du vil fortsatt motta e-post fra <label data-l10n-name="firefox-fxa-and-relay-offer-domain">dette nettstedet</label> i din vanlige innboks, men din virkelige e-postadresse er skjult.
 firefox-relay-and-fxa-opt-in-confirmation-enable-button-with-domain-and-value-prop =
     .label = Neste
     .accesskey = N

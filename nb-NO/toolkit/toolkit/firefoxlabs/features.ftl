@@ -28,6 +28,7 @@ experimental-features-group-customize-browsing =
 # Contextual Password Manager in sidebar
 experimental-features-contextual-password-manager =
     .label = Passord i sidestolpen
+experimental-features-contextual-password-manager-description = Få tilgang til passordene dine direkte fra sidefeltet. Du trenger ikke lenger å lete eller tilbakestille passord når du prøver å logge inn. For å bruke denne funksjonen, velg passord i sidestolpen. Gå deretter til de generelle innstillingene og velg Vis sidestolpe under nettleseroppsett. Tilpass deretter sidestolpen ved å velge passord. Hvis du prøver funksjonen, <a data-l10n-name="connect">gi oss beskjed om hva du synes</a>.
 # New Tab Custom Wallpapers
 experimental-features-custom-wallpaper =
     .label = Velg en egendefinert bakgrunn eller farge for Ny fane
@@ -49,3 +50,4 @@ experimental-features-link-previews-description-no-ai =
 # New Tab Sections with follow and block
 experimental-features-newtab-sections-follow-block =
     .label = Emneseksjoner og følg/blokker for artikler på ny fane-siden
+experimental-features-newtab-sections-follow-block-description = Organiser artiklene på ny fane-siden din i emneseksjoner (sport, mat, underholdning og mer) for en mer strukturert og brukervennlig opplevelse. Bruk de nye følg- og blokker-kontrollene våre for å tilpasse hvilket innhold du ser. <a data-l10n-name="connect">Del tilbakemeldinger</a>
