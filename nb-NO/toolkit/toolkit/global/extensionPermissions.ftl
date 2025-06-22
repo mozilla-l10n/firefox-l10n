@@ -61,15 +61,15 @@ webext-perms-description-data-short-websiteContent = nettstedsinnhold
 
 ## Long form to be used in `about:addons` when these data collection permissions are optional.
 
-webext-perms-description-data-long-authenticationInfo = Del autentiseringsinformasjon med utvidelsesutvikleren
-webext-perms-description-data-long-bookmarksInfo = Del bokmerkeinformasjon med utvidelsesutvikleren
-webext-perms-description-data-long-browsingActivity = Del nettleseraktivitet med utvidelsesutvikleren
-webext-perms-description-data-long-financialAndPaymentInfo = Del finansielle opplysninger og betalingsinformasjon med utvidelsesutvikleren
-webext-perms-description-data-long-healthInfo = Del helseinformasjon med utvidelsesutvikleren
-webext-perms-description-data-long-locationInfo = Del posisjonsinformasjon med utvidelsesutvikleren
-webext-perms-description-data-long-personalCommunications = Del personlig kommunikasjon med utvidelsesutvikleren
-webext-perms-description-data-long-personallyIdentifyingInfo = Del personlig identifiserbar informasjon med utvidelsesutvikleren
-webext-perms-description-data-long-searchTerms = Del søkeord med utvidelsesutvikleren
-webext-perms-description-data-long-technicalAndInteraction = Del tekniske data og interaksjonsdata med utvidelsesutvikleren
-webext-perms-description-data-long-websiteActivity = Del nettstedsaktivitet med utvidelsesutvikleren
+webext-perms-description-data-long-authenticationInfo = Del autentiseringsinformasjon med utvikler av utvidelsen
+webext-perms-description-data-long-bookmarksInfo = Del bokmerkeinformasjon med utvikler av utvidelsen
+webext-perms-description-data-long-browsingActivity = Del nettleseraktivitet med utvikler av utvidelsen
+webext-perms-description-data-long-financialAndPaymentInfo = Del finansielle opplysninger og betalingsinformasjon med utvikler av utvidelsen
+webext-perms-description-data-long-healthInfo = Del helseinformasjon med utvikler av utvidelsen
+webext-perms-description-data-long-locationInfo = Del posisjonsinformasjon med utvikler av utvidelsen
+webext-perms-description-data-long-personalCommunications = Del personlig kommunikasjon med utvikler av utvidelsen
+webext-perms-description-data-long-personallyIdentifyingInfo = Del personlig identifiserbar informasjon med utvikler av utvidelsen
+webext-perms-description-data-long-searchTerms = Del søkeord med utvikler av utvidelsen
+webext-perms-description-data-long-technicalAndInteraction = Del tekniske data og interaksjonsdata med utvikler av utvidelsen
+webext-perms-description-data-long-websiteActivity = Del nettstedsaktivitet med utvikler av utvidelsen
 webext-perms-description-data-long-websiteContent = Del nettstedsinnhold med utvidelsesutvikler

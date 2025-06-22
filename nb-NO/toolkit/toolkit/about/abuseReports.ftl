@@ -76,7 +76,7 @@ abuse-report-broken-reason-theme-v2 = Den virker ikke eller ødelegger nettsiden
 abuse-report-broken-example = For eksempel: Funksjoner er trege, vanskelig å bruke, eller fungerer ikke; deler av nettsteder vil ikke laste eller ser uvanlige ut
 abuse-report-broken-suggestions-extension =
     Det høres ut som om du har identifisert en feil. I tillegg til å sende inn en rapport her, så er den beste måten
-    for å få en funksjonell feil løst på er å kontakte utvidelsesutvikleren.
+    for å få en funksjonell feil løst på er å kontakte utvikler av utvidelsen.
     <a data-l10n-name="support-link">Besøk utvidelsens nettsted</a> for å få informasjon om utvikleren.
 abuse-report-broken-suggestions-sitepermission =
     Det høres ut som om du har identifisert en feil. I tillegg til å sende inn en rapport her, så er den beste måten
