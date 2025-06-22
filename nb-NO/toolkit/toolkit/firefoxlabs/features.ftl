@@ -46,3 +46,6 @@ experimental-features-link-previews-description-no-ai =
         [macos] For å lære mer om en nettside før du klikker, hold musepekeren over en lenke og trykk Shift (⇧) pluss Option (⌥) eller Alt. Forhåndsvisninger kan inkludere detaljer som tittel og lesetid. <a data-l10n-name="connect">Del tilbakemeldinger</a>
        *[other] For å lære mer om en nettside før du klikker, hold musepekeren over en lenke og trykk Shift + Alt. Forhåndsvisninger kan inneholde detaljer som tittel og lesetid. <a data-l10n-name="connect">Del tilbakemeldinger</a>
     }
+# New Tab Sections with follow and block
+experimental-features-newtab-sections-follow-block =
+    .label = Emneseksjoner og følg/blokker for artikler på ny fane-siden
