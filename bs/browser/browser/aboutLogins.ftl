@@ -288,6 +288,21 @@ about-logins-confirm-remove-all-dialog-title2 =
         [few] Ukloniti sve { $count } lozinke?
        *[other] Ukloniti svih { $count } lozinki?
     }
+# Message for modal to confirm the removal of saved passwords when user is NOT synced
+about-logins-confirm-remove-all-dialog-message2 =
+    { $count ->
+        [1] Ovo će ukloniti lozinku sačuvanu u { -brand-short-name } i sva sigurnosna upozorenja. Ova radnja se ne može poništiti.
+        [one] Ovo će ukloniti lozinku sačuvanu u { -brand-short-name } i sva sigurnosna upozorenja. Ova radnja se ne može poništiti.
+        [few] Ovo će ukloniti lozinke sačuvane u { -brand-short-name } i sva sigurnosna upozorenja. Ova radnja se ne može poništiti.
+       *[other] Ovo će ukloniti lozinke sačuvane u { -brand-short-name } i sva sigurnosna upozorenja. Ova radnja se ne može poništiti.
+    }
+# Title for modal to confirm the removal of all saved passwords when user IS SYNCED
+about-logins-confirm-remove-all-sync-dialog-title2 =
+    { $count ->
+        [one] Ukloniti { $count } lozinku sa svih uređaja?
+        [few] Ukloniti sve { $count } lozinke sa svih uređaja?
+       *[other] Ukloniti svih { $count } lozinki sa svih uređaja?
+    }
 
 ##
 
