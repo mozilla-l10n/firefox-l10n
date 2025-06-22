@@ -362,6 +362,7 @@ onboarding-gratitude-security-and-privacy-title = { -brand-short-name } passer p
 onboarding-gratitude-security-and-privacy-subtitle = Takk for at du bruker { -brand-short-name }, støttet av Mozilla Foundation. Med din støtte jobber vi for å gjøre internett tryggere og mer tilgjengelig for alle.
 # Sign up or Sign in screen
 onboarding-sign-up-title = Synkroniser dine data på tvers av enheter
+onboarding-sign-up-description = Registrer en konto, så lagres all viktig informasjon — passord, bokmerker og mer — sikkert og er tilgjengelig når du logger deg på en hvilken som helst enhet.
 onboarding-sign-up-button = Registrer deg eller logg inn
 onboarding-sign-up-secondary-button = Begynn å surfe
 

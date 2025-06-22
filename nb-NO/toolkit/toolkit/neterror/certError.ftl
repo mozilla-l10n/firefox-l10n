@@ -84,6 +84,8 @@ fp-certerror-bad-domain-what-can-you-do-body = Sannsynligvis ingenting, siden de
 fp-certerror-unknown-issuer-why-dangerous-body = Det er et problem med nettstedets sertifikat. Det er mulig at en ondsinnet aktør prøver å utgi seg for å være nettstedet. Nettsteder bruker sertifikater utstedt av en sertifiseringsinstans for å bevise at de virkelig er den de utgir seg for å være. { -brand-short-name } stoler ikke på dette nettstedet fordi vi ikke kan se hvem som utstedte sertifikatet, det er selvsignert, eller nettstedet sender ikke mellomliggende sertifikater vi stoler på.
 # This string appears after the following string: "What can you do about it?" (fp-certerror-what-can-you-do)
 fp-certerror-unknown-issuer-what-can-you-do-body = Sannsynligvis ingenting, siden det sannsynligvis er et problem med selve nettstedet. Men hvis du er på et bedriftsnettverk, kan det hende at supportteamet ditt har mer informasjon. Hvis du bruker antivirusprogramvare, må det kanskje konfigureres til å fungere med { -brand-short-name }.
+# This string appears after the following string: "What makes the site look dangerous?" (fp-certerror-why-site-dangerous)
+fp-certerror-self-signed-why-dangerous-body = Fordi det er et problem med nettstedets sertifikat. Nettsteder bruker sertifikater utstedt av en sertifiseringsinstans for å bevise at de virkelig er den de utgir seg for å være. Dette nettstedets sertifikat er selvsignert. Det ble ikke utstedt av en anerkjent sertifiseringsinstans – så vi stoler ikke på det som standard.
 # This string appears after the following string: "What can you do about it?" (fp-certerror-what-can-you-do)
 fp-certerror-self-signed-what-can-you-do-body = Ikke mye. Det er sannsynlig at det er et problem med selve nettstedet.
 fp-certerror-self-signed-important-note = VIKTIG: Hvis du prøver å besøke dette nettstedet på et bedriftsintranett, kan det være at deres IT-personale bruker selvsignerte sertifikater. De kan hjelpe deg med å sjekke sertifikatets gyldighet.
@@ -91,6 +93,10 @@ fp-certerror-self-signed-important-note = VIKTIG: Hvis du prøver å besøke det
 # Variables:
 #   $date (Date) - Certificate expiration date.
 fp-certerror-expired-why-dangerous-body = Nettsteder bruker sertifikater utstedt av en sertifikatutsteder for å bevise at de virkelig er den de sier de er. { -brand-short-name } stoler ikke på dette nettstedet fordi det ser ut til at sertifikatet utløp { DATETIME($date, month: "numeric", day: "numeric", year: "numeric") }.
+# This string appears after the following string: "What makes the site look dangerous?" (fp-certerror-why-site-dangerous)
+# Variables:
+#   $date (Date) - Certificate start date.
+fp-certerror-not-yet-valid-why-dangerous-body = Nettsteder bruker sertifikater utstedt av en sertifiseringsinstans for å bevise at de virkelig er den de utgir seg for å være. { -brand-short-name } stoler ikke på dette nettstedet fordi det ser ut til at sertifikatet ikke vil være gyldig før { DATETIME($date, month: "numeric", day: "numeric", year: "numeric") }.
 # This string appears after the following string: "What can you do about it?" (fp-certerror-what-can-you-do)
 # Variables:
 #   $date (Date) - Clock date.
