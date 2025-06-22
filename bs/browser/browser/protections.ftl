@@ -115,12 +115,52 @@ info-known-breaches-found =
         [few] Poznate sigurnosne povrede su otkrile vaše podatke.
        *[other] Poznatih sigurnosnih povreda otkrilo je vaše podatke.
     }
+# This string is displayed after a large numeral that indicates the total number
+# of known data breaches that are marked as resolved by the user. Don’t add $count
+# to your localization, because it would result in the number showing twice.
+info-known-breaches-resolved =
+    { $count ->
+        [one] Poznata sigurnosna povreda označena kao riješena.
+        [few] Poznate sigurnosne povrede označene su kao riješene.
+       *[other] Poznatih sigurnosnih povreda označeno je kao riješeno.
+    }
+# This string is displayed after a large numeral that indicates the total number
+# of exposed passwords. Don’t add $count to
+# your localization, because it would result in the number showing twice.
+info-exposed-passwords-found =
+    { $count ->
+        [one] Lozinka je otkrivena u svim sigurnosnim povredama.
+        [few] Lozinke su otkrivene u svim sigurnosnim povredama.
+       *[other] Lozinki je otkriveno u svim sigurnosnim povredama.
+    }
+# This string is displayed after a large numeral that indicates the total number
+# of exposed passwords that are marked as resolved by the user. Don’t add $count
+# to your localization, because it would result in the number showing twice.
+info-exposed-passwords-resolved =
+    { $count ->
+        [one] Lozinka je otkrivena u neriješenim sigurnosnim povredama.
+        [few] Lozinke su otkrivene u neriješenim sigurnosnim povredama.
+       *[other] Lozinki je otkriveno u neriješenim sigurnosnim povredama.
+    }
 monitor-no-breaches-title = Dobre vijesti!
 monitor-no-breaches-description = Nemate poznatih kršenja sigurnosti. Obavijestit ćemo vas ako se to promijeni.
+monitor-view-report-link = Prikaži izvještaj
+    .title = Riješite sigurnosne povrede na { -monitor-brand-short-name }
 monitor-breaches-unresolved-title = Riješite svoje prekršaje
 monitor-breaches-unresolved-description = Nakon što pregledate detalje o kršenju sigurnosti i poduzmete korake za zaštitu svojih podataka, možete označiti kršenja kao riješena.
+monitor-manage-breaches-link = Upravljaj sigurnosnim povredama
+    .title = Upravljajte sigurnosnim povredama na { -monitor-brand-short-name }
 monitor-breaches-resolved-title = Odlično! Riješili ste sve poznate probleme/propuste.
 monitor-breaches-resolved-description = Ako se vaša e-mail adresa pojavi u nekim novim povredama sigurnosti, obavijestit ćemo vas.
+# Variables:
+# $numBreachesResolved (Number) - Number of breaches marked as resolved by the user on Monitor.
+# $numBreaches (Number) - Number of breaches in which a user's data was involved, detected by Monitor.
+monitor-partial-breaches-title =
+    { $numBreaches ->
+        [one] { $numBreachesResolved } od { $numBreaches } povrede označena kao riješena.
+        [few] { $numBreachesResolved } od { $numBreaches } povrede označene kao riješene.
+       *[other] { $numBreachesResolved } od { $numBreaches } povreda označeno kao riješeno.
+    }
 # Variables:
 # $percentageResolved (Number) - Percentage of breaches marked as resolved by a user on Monitor.
 monitor-partial-breaches-percentage = { $percentageResolved }% završeno
