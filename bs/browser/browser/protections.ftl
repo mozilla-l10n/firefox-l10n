@@ -65,6 +65,14 @@ protection-report-passwords-save-passwords-button = Sačuvaj lozinke
     .title = Sačuvaj lozinke
 protection-report-passwords-manage-passwords-button = Upravljaj lozinkama
     .title = Upravljaj lozinkama
+# Variables:
+# $count (Number) - Number of passwords exposed in data breaches.
+lockwise-scanned-text-breached-logins =
+    { $count ->
+        [one] 1 lozinka je možda bila izložena u sigurnosnom incidentu.
+        [few] { $count } lozinke su možda bile izložene u sigurnosnom incidentu.
+       *[other] { $count } lozinki je možda bilo izloženo u sigurnosnom incidentu.
+    }
 lockwise-how-it-works-link = Kako to radi
 monitor-title = Pazite na povrede podataka
 monitor-link = Kako to radi

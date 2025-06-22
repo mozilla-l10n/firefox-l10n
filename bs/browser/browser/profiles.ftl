@@ -41,6 +41,10 @@ avatar-selector-icon-tab = Ikona
 avatar-selector-custom-tab = Prilagođeno
 avatar-selector-cancel-button =
     .label = Otkaži
+avatar-selector-save-button =
+    .label = Sačuvaj
+avatar-selector-upload-file = Učitaj datoteku
+avatar-selector-drag-file = Ili prevucite datoteku ovdje
 edit-profile-page-no-name = Imenujte ovaj profil kako biste ga lakše pronašli kasnije. Preimenujte ga bilo kada.
 edit-profile-page-duplicate-name = Ime profila je već u upotrebi. Pokušajte s novim imenom.
 edit-profile-page-profile-saved = Sačuvano
@@ -118,6 +122,8 @@ shopping-avatar-alt =
     .alt = Kolica za kupovinu
 star-avatar-alt =
     .alt = Zvjezdica
+custom-avatar-alt =
+    .alt = Prilagođeni avatar
 
 ## Labels for default avatar icons
 
