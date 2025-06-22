@@ -364,6 +364,9 @@ download-choose-folder =
 download-always-ask-where =
     .label = Uvijek vas pitati gdje želite spasiti fajl
     .accesskey = a
+download-private-browsing-delete =
+    .label = Izbriši datoteke preuzete u privatnom pregledavanju kada su svi privatni prozori zatvoreni
+    .accesskey = D
 applications-header = Aplikacije
 applications-description = Izaberite kako { -brand-short-name } upravlja fajlovima koje preuzmete sa weba ili aplikacijama koje koristite za vrijeme surfanja.
 applications-filter =
@@ -518,6 +521,8 @@ performance-default-content-process-count =
 ## General Section - Browsing
 
 browsing-title = Surfanje
+browsing-group-label =
+    .aria-label = Pregledavanje
 browsing-use-autoscroll =
     .label = Koristi autoscrolling
     .accesskey = a
@@ -652,6 +657,12 @@ home-prefs-weather-header =
     .label = Vrijeme
 home-prefs-weather-description = Današnja prognoza ukratko
 home-prefs-weather-learn-more-link = Saznajte više
+home-prefs-trending-search-header =
+    .label = Popularne pretrage
+home-prefs-trending-search-description = Popularne i često tražene teme
+# "Support" here means to help sustain or contribute to something, especially through funding or sponsorship.
+home-prefs-support-firefox-header =
+    .label = Podržite { -brand-product-name }
 home-prefs-mission-message = Naši sponzori podržavaju našu misiju izgradnje bolje web stranice
 home-prefs-mission-message-learn-more-link = Saznajte kako
 # Variables:
@@ -723,6 +734,9 @@ search-remove-engine =
 search-add-engine =
     .label = Dodaj
     .accesskey = A
+search-edit-engine =
+    .label = Uredi
+    .accesskey = E
 search-find-more-link = Pronađi još pretraživača
 # This warning is displayed when the chosen keyword is already in use
 # ('Duplicate' is an adjective)
@@ -731,6 +745,10 @@ search-keyword-warning-title = Duplicirana ključna riječ
 #   $name (string) - Name of a search engine.
 search-keyword-warning-engine = Izabrali ste ključnu riječ koju trenutno koristi "{ $name }". Molimo izaberite drugu.
 search-keyword-warning-bookmark = Izabrali ste ključnu riječ koju trenutno koristi zabilješka. Molimo izaberite drugu.
+# This warning is displayed when the chosen name is already in use.
+# Variables:
+#   $name (string) - Name of a search engine.
+edit-engine-name-warning-duplicate = Već postoji pretraživač s nazivom “{ $name }”. Molimo odaberite drugi naziv.
 remove-engine-confirmation = Jeste li sigurni da želite ukloniti ovaj pretraživač?
 remove-engine-remove = Ukloni
 remove-addon-engine-alert = Da biste uklonili ovu tražilicu, uklonite povezani dodatak.
