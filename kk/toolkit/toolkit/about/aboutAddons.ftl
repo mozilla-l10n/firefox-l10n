@@ -525,6 +525,8 @@ plugins-widevine-description = Бұл плагин шифрленген меди
 ## feature is enabled.
 
 addon-permissions-required-data-collection = Міндетті деректерді жинау:
+# Name of the Permissions tab in `about:addons` when the data collection feature is enabled.
+permissions-data-addon-button = Рұқсаттар мен деректер
 # This is a description for extension that use this AI model
 # Variables:
 #   $extensionName (String) - Name of the extension
