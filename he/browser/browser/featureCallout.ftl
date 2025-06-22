@@ -99,9 +99,9 @@ sidebar-button-callout-vertical-tabs = כדי לצפות בלשוניות שלך
 
 vertical-tabs-callout-1-title = התחלת ללכת לאיבוד מרוב לשוניות?
 vertical-tabs-callout-1-subtitle = ניתן לנסות את פריסת הלשוניות האנכיות החדשה שלנו כדי לסרוק במהירות את רשימת הלשוניות שלך. נסיינים מוקדמים מדווחים שהפריסה הזו עוזרת להם להרגיש מאורגנים יותר. ניתן להחזיר בחזרה לפריסה הקודמת בכל עת.
-vertical-tabs-callout-1-cta-button = נסו לשוניות אנוכיות
+vertical-tabs-callout-1-cta-button = נסו לשוניות אנכיות
 vertical-tabs-callout-2-cta-button = לנסות כעת
-vertical-tabs-callout-2-title = יש לך הרבה לשוניות פתוחות? אולי כדאי לנסות לשוניות אנוכיות.
+vertical-tabs-callout-2-title = יש לך הרבה לשוניות פתוחות? אולי כדאי לנסות לשוניות אנכיות.
 vertical-tabs-callout-2-subtitle = פריסה זו מקלה על סריקה מהירה של רשימת הלשוניות שלך. בנוסף, באפשרותך להתאים את הרוחב כדי לראות יותר או פחות מכותרות הלשוניות שלך.
 
 ## Sidebar Vertical Tabs Pinning Strings

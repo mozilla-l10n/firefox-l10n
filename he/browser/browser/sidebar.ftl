@@ -55,7 +55,7 @@ sidebar-customize-firefox-tools-header =
     .label = כלים של { -brand-product-name }
 sidebar-customize-firefox-settings = ניהול הגדרות { -brand-short-name }
 sidebar-vertical-tabs =
-    .label = לשוניות אנוכיות
+    .label = לשוניות אנכיות
 sidebar-settings =
     .label = הגדרות סרגל הצד
 sidebar-hide-tabs-and-sidebar =
@@ -94,7 +94,7 @@ sidebar-context-menu-copy-link =
 sidebar-context-menu-hide-sidebar =
     .label = הסתרת סרגל הצד
 sidebar-context-menu-enable-vertical-tabs =
-    .label = הפעלת לשוניות אנוכיות
+    .label = הפעלת לשוניות אנכיות
 sidebar-context-menu-customize-sidebar =
     .label = התאמה אישית של סרגל הצד
 # Variables:

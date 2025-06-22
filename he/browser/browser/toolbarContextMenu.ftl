@@ -30,9 +30,9 @@ toolbar-context-menu-reopen-closed-tabs =
         }
     .accesskey = מ
 toolbar-context-turn-on-vertical-tabs =
-    .label = הפעלת לשוניות אנוכיות
+    .label = הפעלת לשוניות אנכיות
 toolbar-context-turn-off-vertical-tabs =
-    .label = כיבוי לשוניות אנוכיות
+    .label = כיבוי לשוניות אנכיות
 toolbar-context-customize-sidebar =
     .label = התאמה אישית של סרגל הצד
 toolbar-context-menu-manage-extension =

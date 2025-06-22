@@ -360,13 +360,13 @@ onboarding-new-vertical-tabs-label = לשוניות בצד
 # Text underneath an image used for selecting browser tabs to appear at the top of the browser.
 onboarding-new-horizontal-tabs-label = לשוניות למעלה
 # Setup screen for vertical tabs for existing users
-onboarding-existing-tabs-title = לשוניות אנוכיות נמצאות כאן
+onboarding-existing-tabs-title = לשוניות אנכיות נמצאות כאן
 # Setup screen for vertical tabs for existing users
-onboarding-existing-tabs-title2 = היכרות עם לשוניות אנוכיות
+onboarding-existing-tabs-title2 = היכרות עם לשוניות אנכיות
 # Setup screen for vertical tabs for existing users - "Switch it up" refers to switching between horizontal and vertical tabs.
 onboarding-existing-tabs-subtitle = נסו את הלשוניות שלכם בצד. החליפו בין המצבים בכל עת בהגדרות סרגל הצד.
 # Text underneath an image used for selecting browser tabs to appear on the side of the browser.
-onboarding-existing-vertical-tabs-label = נסו לשוניות אנוכיות
+onboarding-existing-vertical-tabs-label = נסו לשוניות אנכיות
 onboarding-flair-text = חדש!
 # Text underneath an image used for selecting browser tabs to appear at the top of the browser.
 onboarding-existing-horizontal-tabs-label = להישאר עם לשוניות אופקיות
