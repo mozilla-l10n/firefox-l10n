@@ -168,6 +168,8 @@ monitor-partial-breaches-motivation-title-start = Odličan početak!
 monitor-partial-breaches-motivation-title-middle = Samo tako nastavi!
 monitor-partial-breaches-motivation-title-end = Skoro gotovo! Samo tako nastavi.
 monitor-partial-breaches-motivation-description = Riješite preostale probleme s propustima na { -monitor-brand-short-name }.
+monitor-resolve-breaches-link = Riješi sigurnosne povrede
+    .title = Riješite sigurnosne povrede na { -monitor-brand-short-name }
 
 ## The title attribute is used to display the type of protection.
 ## The aria-label is spoken by screen readers to make the visual graph accessible to blind users.
@@ -176,3 +178,19 @@ monitor-partial-breaches-motivation-description = Riješite preostale probleme s
 ##   $count (Number) - Number of specific trackers
 ##   $percentage (Number) - Percentage this type of tracker contributes to the whole graph
 
+bar-tooltip-social =
+    .title = Praćenja s društvenih mreža
+    .aria-label =
+        { $count ->
+            [one] { $count } pratioc s društvenih mreža ({ $percentage }%)
+            [few] { $count } pratioca s društvenih mreža ({ $percentage }%)
+           *[other] { $count } pratilaca s društvenih mreža ({ $percentage }%)
+        }
+bar-tooltip-cookie =
+    .title = Međustranični kolačići za praćenje
+    .aria-label =
+        { $count ->
+            [one] { $count } međustranični kolačić za praćenje ({ $percentage }%)
+            [few] { $count } međustranična kolačića za praćenje ({ $percentage }%)
+           *[other] { $count } međustraničnih kolačića za praćenje ({ $percentage }%)
+        }
