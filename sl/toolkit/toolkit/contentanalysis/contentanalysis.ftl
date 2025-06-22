@@ -36,6 +36,8 @@ contentanalysis-operationtype-clipboard = odložišče
 contentanalysis-operationtype-dropped-text = spuščeno besedilo
 contentanalysis-operationtype-print = natisni
 #   $filename - The filename associated with the request, such as "aFile.txt"
+contentanalysis-upload-description = nalaganje »{ $filename }«
+#   $filename - The filename associated with the request, such as "aFile.txt"
 contentanalysis-download-description = prenos »{ $filename }«
 #   $filename - The filename associated with the request, such as "aFile.txt"
 contentanalysis-customdisplaystring-description = naloži { $filename }
