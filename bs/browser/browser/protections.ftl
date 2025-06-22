@@ -73,6 +73,16 @@ lockwise-scanned-text-breached-logins =
         [few] { $count } lozinke su možda bile izložene u sigurnosnom incidentu.
        *[other] { $count } lozinki je možda bilo izloženo u sigurnosnom incidentu.
     }
+# While English doesn't use the number in the plural form, you can add $count to your language
+# if needed for grammatical reasons.
+# Variables:
+# $count (Number) - Number of passwords stored in Lockwise.
+lockwise-scanned-text-no-breached-logins =
+    { $count ->
+        [one] 1 lozinka je sigurno sačuvana.
+        [few] { $count } lozinke su sigurno sačuvane.
+       *[other] Vaše lozinke se sigurno čuvaju.
+    }
 lockwise-how-it-works-link = Kako to radi
 monitor-title = Pazite na povrede podataka
 monitor-link = Kako to radi
@@ -95,6 +105,15 @@ info-monitored-emails =
         [one] Praćena email adresa
         [few] Praćene email adrese
        *[other] Praćenih email adresa
+    }
+# This string is displayed after a large numeral that indicates the total number
+# of known data breaches. Don’t add $count to
+# your localization, because it would result in the number showing twice.
+info-known-breaches-found =
+    { $count ->
+        [one] Poznata sigurnosna povreda je otkrila vaše podatke.
+        [few] Poznate sigurnosne povrede su otkrile vaše podatke.
+       *[other] Poznatih sigurnosnih povreda otkrilo je vaše podatke.
     }
 monitor-no-breaches-title = Dobre vijesti!
 monitor-no-breaches-description = Nemate poznatih kršenja sigurnosti. Obavijestit ćemo vas ako se to promijeni.
