@@ -61,6 +61,36 @@ tabbrowser-mute-tab-audio-tooltip =
             [few] Isključi zvuk na { $tabCount } taba ({ $shortcut })
            *[other] Isključi zvuk na { $tabCount } tabova ({ $shortcut })
         }
+# Variables:
+#   $shortcut (String): The keyboard shortcut for "Unmute tab".
+tabbrowser-unmute-tab-audio-tooltip =
+    .label =
+        { $tabCount ->
+            [one] Uključi zvuk na tabu ({ $shortcut })
+            [few] Uključi zvuk na { $tabCount } taba ({ $shortcut })
+           *[other] Uključi zvuk na { $tabCount } tabova ({ $shortcut })
+        }
+tabbrowser-mute-tab-audio-background-tooltip =
+    .label =
+        { $tabCount ->
+            [one] Isključi zvuk na tabu
+            [few] Isključi zvuk na { $tabCount } tabova
+           *[other] Isključi zvuk na { $tabCount } tabova
+        }
+tabbrowser-unmute-tab-audio-background-tooltip =
+    .label =
+        { $tabCount ->
+            [one] Uključi zvuk na tabu
+            [few] Uključi zvuk na { $tabCount } tabova
+           *[other] Uključi zvuk na { $tabCount } tabova
+        }
+tabbrowser-unblock-tab-audio-tooltip =
+    .label =
+        { $tabCount ->
+            [one] Reproduciraj tab
+            [few] Reproduciraj { $tabCount } taba
+           *[other] Reproduciraj { $tabCount } taba
+        }
 
 ## Tooltips for tab audio control
 
@@ -132,6 +162,14 @@ tabbrowser-confirm-close-tab-only-button = Zatvori trenutni tab
 ## Confirmation dialog when opening multiple tabs simultaneously
 
 tabbrowser-confirm-open-multiple-tabs-title = Potvrdi otvaranje
+# Variables:
+#   $tabCount (Number): The number of tabs that will be opened.
+tabbrowser-confirm-open-multiple-tabs-message =
+    { $tabCount ->
+        [one] Upravo ćete otvoriti 1 tab. Ovo može usporiti { -brand-short-name } dok se stranice učitavaju. Jeste li sigurni da želite nastaviti?
+        [few] Upravo ćete otvoriti { $tabCount } taba. Ovo može usporiti { -brand-short-name } dok se stranice učitavaju. Jeste li sigurni da želite nastaviti?
+       *[other] Upravo ćete otvoriti { $tabCount } tabova. Ovo može usporiti { -brand-short-name } dok se stranice učitavaju. Jeste li sigurni da želite nastaviti?
+    }
 tabbrowser-confirm-open-multiple-tabs-button = Otvori tabove
 tabbrowser-confirm-open-multiple-tabs-checkbox = Upozori me kada otvaranje više tabova može usporiti { -brand-short-name }
 
@@ -219,6 +257,14 @@ tab-group-editor-color-selector2-blue = Plava
     .title = Plava
 tab-group-editor-color-selector2-purple = Ljubičasta
     .title = Ljubičasta
+tab-group-editor-color-selector2-cyan = Cijan
+    .title = Cijan
+tab-group-editor-color-selector2-orange = Narandžasta
+    .title = Narandžasta
+tab-group-editor-color-selector2-yellow = Žuta
+    .title = Žuta
+tab-group-editor-color-selector2-pink = Roza
+    .title = Roza
 tab-group-editor-color-selector2-green = Zelena
     .title = Zelena
 tab-group-editor-color-selector2-gray = Siva
@@ -264,9 +310,29 @@ tab-group-editor-action-ungroup =
     .label = Razgrupiraj tabove
 tab-group-editor-action-delete =
     .label = Izbriši grupu
+tab-group-editor-done =
+    .label = Gotovo
+    .accessKey = D
+tab-context-reopen-tab-group =
+    .label = Ponovo otvori grupu tabova
+# Variables:
+#  $groupCount (Number): the number of tab groups that are affected by the action.
+tab-context-ungroup-tab =
+    .label =
+        { $groupCount ->
+            [1] Ukloni iz grupe
+            [one] Ukloni iz grupe
+            [few] Ukloni iz grupa
+           *[other] Ukloni iz grupa
+        }
+    .accesskey = R
 
 ## Open/saved tab group context menu
 
+# For a tab group open in any window, clicking this will create a new
+# window and move this tab group to that new window.
+tab-group-context-move-to-new-window =
+    .label = Premjesti grupu u novi prozor
 # For a tab group open in a different window from the one that the
 # user is using to access the tab group menu, move that tab group into the
 # user's current window.
