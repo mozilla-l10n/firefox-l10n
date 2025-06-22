@@ -310,6 +310,13 @@ find-more-themes = Finn flere tema
 # used for screen readers.
 addon-options-button =
     .aria-label = Flere innstillinger
+# Explanatory introduction to the list of recommended add-ons. The action word
+# ("recommends") in the final sentence is a link to external documentation.
+# We hard code "Firefox" because we do not want to imply that a Firefox fork is
+# making this recommendation.
+discopane-intro3 =
+    Utvidelser og temaer lar deg tilpasse { -brand-product-name }. De kan øke personvernet, forbedre produktiviteten, forbedre media, endre hvordan { -brand-product-name } ser ut og mye mer. Disse små programvarene er ofte utviklet av en tredjepart. Her er et utvalg Firefox <a data-l10n-name="learn-more-trigger">anbefaler</a> for
+    eksepsjonell sikkerhet, ytelse og funksjonalitet.
 
 ## Add-on actions
 
@@ -577,6 +584,7 @@ addon-category-mlmodel = AI på enheten
 addon-category-mlmodel-title =
     .title = AI på enheten
 mlmodel-heading = Behandle AI-modeller på enheten
+mlmodel-description = Noen funksjoner og utvidelser i { -brand-short-name } drives av AI-modeller som fungerer lokalt på enheten din. Denne tilnærmingen beskytter personvernet ditt og øker i mange tilfeller ytelsen. <a data-l10n-name="learn-more">Les mer</a>
 # Label for button that when clicked removed local model
 mlmodel-remove-addon-button =
     .aria-label = Fjern
