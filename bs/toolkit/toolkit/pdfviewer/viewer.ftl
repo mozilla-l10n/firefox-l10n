@@ -376,6 +376,14 @@ pdfjs-editor-add-signature-dialog-title = Dodaj potpis
 
 ## Tab names
 
+# Type is a verb (you can type your name as signature)
+pdfjs-editor-add-signature-type-button = Ukucaj
+    .title = Ukucaj
+# Draw is a verb (you can draw your signature)
+pdfjs-editor-add-signature-draw-button = Napiši
+    .title = Napiši
+pdfjs-editor-add-signature-image-button = Slika
+    .title = Slika
 
 ## Tab panels
 
