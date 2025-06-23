@@ -363,6 +363,7 @@ onboarding-gratitude-security-and-privacy-title = { -brand-short-name } oĩ tapi
 onboarding-gratitude-security-and-privacy-subtitle = Aguyje eiporu haguére { -brand-short-name }, oykekóva Fundación Mozilla. Nepytyvõ rupive, romba’apo Ñanduti hekorosã ha ijuruja hag̃ua opavavetépe g̃uarã.
 # Sign up or Sign in screen
 onboarding-sign-up-title = Embojuehe opavave mba’e’oka ndive
+onboarding-sign-up-description = Eñemboheraguapy ereko hag̃ua mba’ete ha opaite marandu guasu — ñe’ẽñemi, techaukaha ha hetave — oñeñongatúta tekorosãme ha erekóta eike vove oimeraẽ mba’e’okápe.
 onboarding-sign-up-button = Emoinge térã eñemboheraguapy
 onboarding-sign-up-secondary-button = Eñepyrũ eikundaha
 
