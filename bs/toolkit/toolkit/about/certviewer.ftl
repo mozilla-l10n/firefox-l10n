@@ -70,13 +70,51 @@ certificate-viewer-validity = Validnost
 certificate-viewer-subject-alt-names = Alt nazivi predmeta
 certificate-viewer-public-key-info = Informacije o javnom ključu
 certificate-viewer-miscellaneous = Razno
+certificate-viewer-fingerprints = Digitalni otisci
+certificate-viewer-basic-constraints = Osnovna ograničenja
+certificate-viewer-key-usages = Upotreba ključa
+certificate-viewer-extended-key-usages = Proširena upotreba ključeva
+certificate-viewer-ocsp-stapling = OCSP potvrđivanje
+certificate-viewer-subject-key-id = ID ključa subjekta
+certificate-viewer-authority-key-id = ID ključa ovlaštenja
+certificate-viewer-authority-info-aia = Informacije o ovlaštenju (AIA)
+certificate-viewer-certificate-policies = Pravila certifikata
+certificate-viewer-embedded-scts = Ugrađeni SCT-ovi
+certificate-viewer-crl-endpoints = CRL krajnje tačke
+# This message is used as a row header in the Miscellaneous section.
+# The associated data cell contains links to download the certificate.
+certificate-viewer-download = Preuzmi
+# This message is used to replace boolean values (true/false) in several certificate fields, e.g. Certificate Authority
+# Variables:
+#   $boolean (String) - true/false value for the specific field
+certificate-viewer-boolean =
+    { $boolean ->
+        [true] Da
+       *[false] Ne
+    }
 
 ## Variables:
 ##   $fileName (String) - The file name to save the PEM data in, derived from the common name from the certificate being displayed.
 
+certificate-viewer-download-pem = PEM (certifikat)
+    .download = { $fileName }.pem
+certificate-viewer-download-pem-chain = PEM (lanac)
+    .download = { $fileName }-chain.pem
+# The title attribute for Critical Extension icon
+certificate-viewer-critical-extension =
+    .title = Ova ekstenzija je označena kao kritična, što znači da klijenti moraju odbiti certifikat ako ga ne razumiju.
+certificate-viewer-export = Izvezi
+    .download = { $fileName }.pem
 
 ##
 
+# Label for a tab where we haven't found a better label:
+certificate-viewer-unknown-group-label = (nepoznato)
 
 ## Labels for tabs displayed in stand-alone about:certificate page
 
+certificate-viewer-tab-mine = Vaši certifikati
+certificate-viewer-tab-people = Ljudi
+certificate-viewer-tab-servers = Serveri
+certificate-viewer-tab-ca = Certifikacijska tijela
+certificate-viewer-tab-unkonwn = Nepoznato

@@ -2,6 +2,9 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+crashreporter-branded-title = { -brand-short-name } izvještaj o padu sistema
+crashreporter-apology = Žao nam je
+crashreporter-crashed-and-restore = { -brand-short-name } je imao problem i srušio se. Pokušat ćemo vratiti vaše kartice i prozore kada se ponovo pokrene.
 crashreporter-plea = Kako bi nam pomogli u dijagnozi i otklanjanju problema možete nam poslati izvještaj o rušenju.
 # $details (String) - the reason that a crash report cannot be submitted
 crashreporter-error-details = Details: { $details }
