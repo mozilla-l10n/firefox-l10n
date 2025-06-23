@@ -6,6 +6,8 @@ crashreporter-branded-title = { -brand-short-name } izvještaj o padu sistema
 crashreporter-apology = Žao nam je
 crashreporter-crashed-and-restore = { -brand-short-name } je imao problem i srušio se. Pokušat ćemo vratiti vaše kartice i prozore kada se ponovo pokrene.
 crashreporter-plea = Kako bi nam pomogli u dijagnozi i otklanjanju problema možete nam poslati izvještaj o rušenju.
+crashreporter-information = Ova aplikacija se pokreće nakon pada sistema kako bi se problem prijavio na { -vendor-short-name }. Ne bi se trebala pokretati direktno.
+crashreporter-error = { -brand-short-name } je imao problem i srušio se. Nažalost, prijavitelj pada nije u mogućnosti poslati izvještaj o ovom padu.
 # $details (String) - the reason that a crash report cannot be submitted
 crashreporter-error-details = Details: { $details }
 crashreporter-no-run-message = Ova aplikacija je pokrenuta nakon rušenja da bi se prijavio problem izdavaču aplikacije. Ovu aplikaciju ne biste trebali pokretati direktno.

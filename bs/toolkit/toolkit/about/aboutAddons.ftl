@@ -119,6 +119,9 @@ extensions-warning-update-security2 =
     .message = Sigurnosna provjera nadogradnje za add-one je onemogućena. Možete biti kompromitovani putem nadogradnje.
 extensions-warning-update-security-button = Omogući
     .title = Omogući provjeravanje sigurnosti nadogradnje add-ona
+extensions-warning-imported-addons2 =
+    .message = Molimo vas da završite instalaciju ekstenzija koje su uvezene u { -brand-short-name }.
+extensions-warning-imported-addons-button = Instalirajte ekstenzije
 
 ## Strings connected to add-on updates
 
@@ -155,6 +158,10 @@ addon-updates-manual-updates-found = Prikaži dostupne nadogradnje
 
 addon-install-from-file = Instaliraj Add-on iz fajla…
     .accesskey = I
+# Like `addon-install-from-file` but used when the `extensions.webextensions.prefer-update-over-install-for-existing-addon`
+# pref is set.
+addon-install-or-update-from-file = Instaliraj ili ažuriraj dodatak iz datoteke…
+    .accesskey = I
 addon-install-from-file-dialog-title = Izaberite add-on za instalaciju
 addon-install-from-file-filter-name = Add-oni
 addon-open-about-debugging = Debagiranje add-ona
@@ -162,6 +169,39 @@ addon-open-about-debugging = Debagiranje add-ona
 
 ## Extension shortcut management
 
+# This is displayed in the page options menu
+addon-manage-extensions-shortcuts = Upravljaj prečicama za ekstenzije
+    .accesskey = S
+shortcuts-no-addons = Nemate omogućena nijedna proširenja.
+shortcuts-no-commands = Sljedeća proširenja nemaju prečice:
+shortcuts-input =
+    .placeholder = Upišite prečicu
+# Accessible name for a trashcan icon button that removes an existent shortcut
+shortcuts-remove-button =
+    .aria-label = Ukloni prečicu
+shortcuts-browserAction2 = Aktiviraj dugme na alatnoj traci
+shortcuts-pageAction = Aktiviraj radnju stranice
+shortcuts-sidebarAction = Uključi/isključi bočnu traku
+shortcuts-modifier-mac = Uključite Ctrl, Alt ili ⌘
+shortcuts-modifier-other = Uključite Ctrl ili Alt
+shortcuts-invalid = Nevažeća kombinacija
+shortcuts-letter = Upišite slovo
+shortcuts-system = Ne može se poništiti prečica { -brand-short-name }
+# String displayed in warning label when there is a duplicate shortcut
+shortcuts-duplicate = Duplikat prečice
+# String displayed when a keyboard shortcut is already assigned to more than one add-on
+# Variables:
+#   $shortcut (string) - Shortcut string for the add-on
+shortcuts-duplicate-warning-message = { $shortcut } se koristi kao prečica u više od jednog slučaja. Duplikatne prečice mogu uzrokovati neočekivano ponašanje.
+# String displayed when a keyboard shortcut is already assigned to more than one add-on
+# Variables:
+#   $shortcut (string) - Shortcut string for the add-on
+shortcuts-duplicate-warning-message2 =
+    .message = { $shortcut } se koristi kao prečica u više od jednog slučaja. Duplikatne prečice mogu uzrokovati neočekivano ponašanje.
+# String displayed when a keyboard shortcut is already used by another add-on
+# Variables:
+#   $addon (string) - Name of the add-on
+shortcuts-exists = Već u upotrebi od strane { $addon }
 
 ## Recommended add-ons page
 
