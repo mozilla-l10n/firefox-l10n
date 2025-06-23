@@ -35,6 +35,10 @@ contentanalysis-operationtype-clipboard = буфер обміну
 contentanalysis-operationtype-dropped-text = пропущений текст
 contentanalysis-operationtype-print = друк
 #   $filename - The filename associated with the request, such as "aFile.txt"
+contentanalysis-upload-description = вивантаження “{ $filename }”
+#   $filename - The filename associated with the request, such as "aFile.txt"
+contentanalysis-download-description = завантаження “{ $filename }”
+#   $filename - The filename associated with the request, such as "aFile.txt"
 contentanalysis-customdisplaystring-description = вивантаження “{ $filename }”
 contentanalysis-warndialogtitle = Цей вміст може бути небезпечним
 # Variables:
@@ -76,6 +80,10 @@ contentanalysis-block-dialog-title-upload-file = Вам не дозволено 
 # Variables:
 #   $filename - Name of the file that was blocked, such as "aFile.txt"
 contentanalysis-block-dialog-body-upload-file = Згідно з політикою захисту даних вашої організації, вам не дозволено вивантажувати файл “{ $filename }”. Зверніться до свого адміністратора для отримання подробиць.
+contentanalysis-block-dialog-title-download-file = Вам не дозволено завантажувати цей файл
+# Variables:
+#   $filename - Name of the file that was blocked, such as "aFile.txt"
+contentanalysis-block-dialog-body-download-file = Згідно з політикою захисту даних вашої організації, вам не дозволено завантажувати файл “{ $filename }”. Зверніться до свого адміністратора для отримання додаткової інформації.
 contentanalysis-block-dialog-title-clipboard = Вам не дозволено вставляти цей вміст
 contentanalysis-block-dialog-body-clipboard = Згідно з політикою захисту даних вашої організації, вам не дозволено вставляти цей вміст. Зверніться до свого адміністратора для отримання подробиць.
 contentanalysis-block-dialog-title-dropped-text = Вам не дозволено перетягувати цей вміст

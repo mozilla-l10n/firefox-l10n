@@ -39,6 +39,12 @@ edit-profile-page-delete-button =
 edit-profile-page-avatar-selector-opener-link = Редагувати
 avatar-selector-icon-tab = Піктограма
 avatar-selector-custom-tab = Власний
+avatar-selector-cancel-button =
+    .label = Скасувати
+avatar-selector-save-button =
+    .label = Зберегти
+avatar-selector-upload-file = Вивантажити файл
+avatar-selector-drag-file = Або перетягніть файл сюди
 edit-profile-page-no-name = Назвіть цей профіль, щоб потім його було легше знайти. Змінити назву можна будь-коли.
 edit-profile-page-duplicate-name = Назва профілю вже використовується. Спробуйте іншу.
 edit-profile-page-profile-saved = Збережено
@@ -116,6 +122,8 @@ shopping-avatar-alt =
     .alt = Кошик для покупок
 star-avatar-alt =
     .alt = Зірка
+custom-avatar-alt =
+    .alt = Власний аватар
 
 ## Labels for default avatar icons
 

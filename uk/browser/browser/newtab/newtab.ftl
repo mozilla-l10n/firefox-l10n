@@ -8,6 +8,9 @@
 newtab-page-title = Нова вкладка
 newtab-settings-button =
     .title = Налаштуйте свою сторінку нової вкладки
+newtab-customize-panel-icon-button =
+    .title = Налаштувати цю сторінку
+newtab-customize-panel-icon-button-label = Налаштувати
 newtab-personalize-settings-icon-label =
     .title = Персоналізувати нову вкладку
     .aria-label = Налаштування

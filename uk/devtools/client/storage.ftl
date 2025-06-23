@@ -107,3 +107,11 @@ storage-idb-delete-blocked = База даних “{ $dbName }” видали�
 # Variables:
 #   $dbName (String) - Name of the database
 storage-idb-delete-error = База даних “{ $dbName }” не може бути видалена.
+# Error notification when cookie could not be created (e.g. because it's invalid).
+# Variables:
+#   $errorString (String) - Platform error message
+storage-cookie-create-error = Не вдалося створити файл cookie: “{ $errorString }”.
+# Error notification when cookie could not be edited (e.g. because it's invalid).
+# Variables:
+#   $errorString (String) - Platform error message
+storage-cookie-edit-error = Не вдалося оновити файл cookie: “{ $errorString }”.
