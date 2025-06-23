@@ -202,12 +202,95 @@ shortcuts-duplicate-warning-message2 =
 # Variables:
 #   $addon (string) - Name of the add-on
 shortcuts-exists = Već u upotrebi od strane { $addon }
+# Variables:
+#   $numberToShow (number) - Number of other elements available to show
+shortcuts-card-expand-button =
+    { $numberToShow ->
+        [one] Prikaži još { $numberToShow }
+        [few] Prikaži još { $numberToShow }
+       *[other] Prikaži još { $numberToShow }
+    }
+shortcuts-card-collapse-button = Prikaži manje
+header-back-button =
+    .title = Idi nazad
 
 ## Recommended add-ons page
 
+# Explanatory introduction to the list of recommended add-ons. The action word
+# ("recommends") in the final sentence is a link to external documentation.
+discopane-intro =
+    Ekstenzije i teme su poput aplikacija za vaš preglednik i omogućavaju vam da
+    zaštitite lozinke, preuzmete videozapise, pronađete ponude, blokirate dosadne oglase, promijenite
+    izgled vašeg preglednika i još mnogo toga. Ove male softverske programe
+    često razvija treća strana. Evo izbora { -brand-product-name }
+    <a data-l10n-name="learn-more-trigger">preporuka</a> za izuzetnu
+    sigurnost, performanse i funkcionalnost.
+# Notice to make user aware that the recommendations are personalized.
+discopane-notice-recommendations = Neke od ovih preporuka su personalizirane. Zasnovane su na drugim ekstenzijama koje ste instalirali, postavkama profila i statistikama korištenja.
+# Notice to make user aware that the recommendations are personalized.
+discopane-notice-recommendations2 =
+    .message = Neke od ovih preporuka su personalizirane. Zasnovane su na drugim ekstenzijama koje ste instalirali, postavkama profila i statistikama korištenja.
+discopane-notice-learn-more = Saznajte više
+# Notice for the colorway theme removal
+colorway-removal-notice-message =
+    .heading = Vaše teme boja su uklonjene.
+    .message =
+        { -brand-product-name } je ažurirao svoju kolekciju boja. Uklonili smo
+        staru(e) verziju(e) sa vaše liste “Sačuvane teme”. Preuzmite nove verzije
+        na web stranici s dodacima.
+colorway-removal-notice-learn-more = Saznajte više
+colorway-removal-notice-button = Preuzmite ažurirane teme boja
+privacy-policy = Polica privatnosti
+# Refers to the author of an add-on, shown below the name of the add-on.
+# Variables:
+#   $author (string) - The name of the add-on developer.
+created-by-author = od <a data-l10n-name="author">{ $author }</a>
+# Shows the number of daily users of the add-on.
+# Variables:
+#   $dailyUsers (number) - The number of daily users.
+user-count = Korisnici: { $dailyUsers }
+install-extension-button = Dodaj u { -brand-product-name }
+install-theme-button = Instaliraj temu
+# The label of the button that appears after installing an add-on. Upon click,
+# the detailed add-on view is opened, from where the add-on can be managed.
+manage-addon-button = Upravljaj
+find-more-addons = Pronađite još dodataka
+find-more-themes = Pronađite više tema
+# This is a label for the button to open the "more options" menu, it is only
+# used for screen readers.
+addon-options-button =
+    .aria-label = Više opcija
+# Explanatory introduction to the list of recommended add-ons. The action word
+# ("recommends") in the final sentence is a link to external documentation.
+# We hard code "Firefox" because we do not want to imply that a Firefox fork is
+# making this recommendation.
+discopane-intro3 =
+    Ekstenzije i teme vam omogućavaju da prilagodite { -brand-product-name }. One mogu poboljšati privatnost,
+    povećati produktivnost, poboljšati medije, promijeniti izgled { -brand-product-name } i
+    mnogo više. Ove male softverske programe često razvijaju treće strane. Evo
+    izbora koje Firefox <a data-l10n-name="learn-more-trigger">preporučuje</a> za
+    izuzetnu sigurnost, performanse i funkcionalnost.
 
 ## Add-on actions
 
+report-addon-button = Prijavi
+remove-addon-button = Ukloni
+# The link will always be shown after the other text.
+remove-addon-disabled-button = Ne može se ukloniti <a data-l10n-name="link">Zašto?</a>
+disable-addon-button = Onemogući
+enable-addon-button = Omogući
+# This is used for the toggle on the extension card, it's a checkbox and this
+# is always its label.
+extension-enable-addon-button-label =
+    .aria-label = Omogući
+preferences-addon-button =
+    { PLATFORM() ->
+        [windows] Postavke
+       *[other] Postavke
+    }
+details-addon-button = Detalji
+release-notes-addon-button = Napomene o izdanju
+permissions-addon-button = Dozvole
 
 ## Pending uninstall message bar
 
@@ -219,9 +302,43 @@ shortcuts-exists = Već u upotrebi od strane { $addon }
 ## This is the tooltip text for the recommended badges for an extension in about:addons. The
 ## badge is a small icon displayed next to an extension when it is recommended on AMO.
 
+# We hard code "Mozilla" in the string below because the extensions are built
+# by Mozilla and we don't want forks to display "by Fork".
+addon-badge-line4 =
+    .title = Zvanična ekstenzija koju je izradila Mozilla. Ispunjava standarde sigurnosti i performansi.
+# This string needs to work in the context of other forks that are not Firefox
+# or built by Mozilla. In particular, we do not want to imply that an
+# organisation other than Mozilla or the Firefox team are performing the
+# security or performance reviews. As such, we avoid personalising language
+# like the words "our" or "we".
+addon-badge-verified4 =
+    .title = Ova ekstenzija je pregledano kako bi se ispunili standardi sigurnosti i performansi
+# This string needs to work in the context of other forks that are not Firefox
+# or built by Mozilla. In particular, we do not want to imply that an
+# organisation other than Mozilla or the Firefox team are making the
+# recommendation. As such, we hard code "Firefox" and avoid personalising
+# language like the words "our" or "we".
+addon-badge-recommended4 =
+    .title = Firefox preporučuje samo ekstenzije koje ispunjavaju standarde sigurnosti i performansi
 
 ##
 
+recent-updates-heading = Nedavna ažuriranja
+release-notes-loading = Učitavanje…
+release-notes-error = Oprostite, ali došlo je do greške prilikom učitavanja napomena o izdanju.
+addon-permissions-empty2 = Ova ekstenzija ne zahtijeva nikakva odobrenja.
+addon-permissions-empty = Ova ekstenzija ne zahtijeva nikakva odobrenja
+addon-permissions-required = Potrebne dozvole za osnovnu funkcionalnost:
+addon-permissions-optional = Opcionalne dozvole za dodatne funkcionalnosti:
+addon-permissions-learnmore = Saznajte više o dozvolama
+recommended-extensions-heading = Preporučene ekstenzije
+recommended-themes-heading = Preporučene teme
+# Variables:
+#   $hostname (string) - Host where the permissions are granted
+addon-sitepermissions-required = Omogućava sljedeće mogućnosti za <span data-l10n-name="hostname">{ $hostname } </span>:
+# A recommendation for the Firefox Color theme shown at the bottom of the theme
+# list view. The "Firefox Color" name itself should not be translated.
+recommended-theme-1 = Osjećate se kreativno? <a data-l10n-name="link">Napravite vlastitu temu uz Firefox Color.</a>
 
 ## Page headings
 
