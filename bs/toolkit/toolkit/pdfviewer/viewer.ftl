@@ -214,22 +214,112 @@ pdfjs-web-fonts-disabled = Web fontovi su onemogućeni: nemoguće koristiti uba�
 
 ## Editing
 
+pdfjs-editor-stamp-button =
+    .title = Dodajte ili uredite slike
+pdfjs-editor-stamp-button-label = Dodajte ili uredite slike
+pdfjs-editor-highlight-button =
+    .title = Istaknite
+pdfjs-editor-highlight-button-label = Istaknite
+pdfjs-highlight-floating-button1 =
+    .title = Istaknite
+    .aria-label = Istaknite
+pdfjs-highlight-floating-button-label = Istaknite
+pdfjs-editor-signature-button =
+    .title = Dodaj potpis
+pdfjs-editor-signature-button-label = Dodaj potpis
 
 ## Default editor aria labels
 
+# “Highlight” is a noun, the string is used on the editor for highlights.
+pdfjs-editor-highlight-editor =
+    .aria-label = Uređivač istaknutih elemenata
+# “Drawing” is a noun, the string is used on the editor for drawings.
+pdfjs-editor-ink-editor =
+    .aria-label = Uređivač crteža
+# Used when a signature editor is selected/hovered.
+# Variables:
+#   $description (String) - a string describing/labeling the signature.
+pdfjs-editor-signature-editor1 =
+    .aria-description = Uređivač potpisa: { $description }
+pdfjs-editor-stamp-editor =
+    .aria-label = Uređivač slika
 
 ## Remove button for the various kind of editor.
 
+pdfjs-editor-remove-ink-button =
+    .title = Ukloni crtež
+pdfjs-editor-remove-freetext-button =
+    .title = Ukloni tekst
+pdfjs-editor-remove-stamp-button =
+    .title = Ukloni sliku
+pdfjs-editor-remove-highlight-button =
+    .title = Ukloni istaknuti dio
+pdfjs-editor-remove-signature-button =
+    .title = Ukloni potpis
 
 ##
 
+# Editor Parameters
+pdfjs-editor-free-text-color-input = Boja
+pdfjs-editor-free-text-size-input = Veličina
+pdfjs-editor-ink-color-input = Boja
+pdfjs-editor-ink-thickness-input = Debljina
+pdfjs-editor-ink-opacity-input = Neprozirnost
+pdfjs-editor-stamp-add-image-button =
+    .title = Dodaj sliku
+pdfjs-editor-stamp-add-image-button-label = Dodaj sliku
+# This refers to the thickness of the line used for free highlighting (not bound to text)
+pdfjs-editor-free-highlight-thickness-input = Debljina
+pdfjs-editor-free-highlight-thickness-title =
+    .title = Promijenite debljinu prilikom označavanja stavki koje nisu tekst
+pdfjs-editor-add-signature-container =
+    .aria-label = Kontrole potpisa i sačuvani potpisi
+pdfjs-editor-signature-add-signature-button =
+    .title = Dodaj novi potpis
+pdfjs-editor-signature-add-signature-button-label = Dodaj novi potpis
+# Used on the button to use an already saved signature.
+# Variables:
+#   $description (String) - a string describing/labeling the signature.
+pdfjs-editor-add-saved-signature-button =
+    .title = Sačuvani potpis: { $description }
+# .default-content is used as a placeholder in an empty text editor.
+pdfjs-free-text2 =
+    .aria-label = Uređivač teksta
+    .default-content = Počnite kucati…
+pdfjs-free-text =
+    .aria-label = Uređivač teksta
+pdfjs-free-text-default-content = Počnite kucati…
+pdfjs-ink =
+    .aria-label = Uređivač crtanja
+pdfjs-ink-canvas =
+    .aria-label = Slika koju je kreirao korisnik
 
 ## Alt-text dialog
 
+pdfjs-editor-alt-text-button-label = Alternativni tekst
+pdfjs-editor-alt-text-edit-button =
+    .aria-label = Uredi alternativni tekst
+pdfjs-editor-alt-text-edit-button-label = Uredi alternativni tekst
+pdfjs-editor-alt-text-dialog-label = Odaberite opciju
+pdfjs-editor-alt-text-dialog-description = Alternativni tekst (Alt tekst) pomaže kada ljudi ne mogu vidjeti sliku ili kada se ona ne učitava.
+pdfjs-editor-alt-text-add-description-label = Dodajte opis
+pdfjs-editor-alt-text-add-description-description = Ciljajte na 1-2 rečenice koje opisuju temu, okruženje ili radnju.
+pdfjs-editor-alt-text-mark-decorative-label = Označi kao dekorativno
+pdfjs-editor-alt-text-mark-decorative-description = Ovo se koristi za ukrasne slike, poput okvira ili vodenih žigova.
+pdfjs-editor-alt-text-cancel-button = Otkaži
+pdfjs-editor-alt-text-save-button = Sačuvaj
+pdfjs-editor-alt-text-decorative-tooltip = Označeno kao dekorativno
+# .placeholder: This is a placeholder for the alt text input area
+pdfjs-editor-alt-text-textarea =
+    .placeholder = Na primjer, „Mladić sjeda za stol da jede obrok“
+# Alternative text (alt text) helps when people can't see the image.
+pdfjs-editor-alt-text-button =
+    .aria-label = Alternativni tekst
 
 ## Editor resizers
 ## This is used in an aria label to help to understand the role of the resizer.
 
+pdfjs-editor-resizer-label-top-left = Gornji lijevi ugao — promjena veličine
 
 ## Color picker
 
@@ -244,12 +334,45 @@ pdfjs-web-fonts-disabled = Web fontovi su onemogućeni: nemoguće koristiti uba�
 
 ## Image alt-text settings
 
+pdfjs-editor-alt-text-settings-create-model-description = Predlaže opise kako bi pomogao ljudima koji ne vide sliku ili kada se slika ne učitava.
+# Variables:
+#   $totalSize (Number) - the total size (in MB) of the AI model.
+pdfjs-editor-alt-text-settings-download-model-label = Alternativni tekst AI model ({ $totalSize } MB)
+pdfjs-editor-alt-text-settings-ai-model-description = Radi lokalno na vašem uređaju tako da vaši podaci ostaju privatni. Potrebno za automatski alternativni tekst.
+pdfjs-editor-alt-text-settings-delete-model-button = Izbriši
+pdfjs-editor-alt-text-settings-download-model-button = Preuzmi
+pdfjs-editor-alt-text-settings-downloading-model-button = Preuzimam…
+pdfjs-editor-alt-text-settings-editor-title = Uređivač alternativnog teksta
+pdfjs-editor-alt-text-settings-show-dialog-button-label = Odmah prikaži uređivač alternativnog teksta prilikom dodavanja slike
+pdfjs-editor-alt-text-settings-show-dialog-description = Pomaže vam da osigurate da sve vaše slike imaju alternativni tekst.
+pdfjs-editor-alt-text-settings-close-button = Zatvori
 
 ## "Annotations removed" bar
 
+pdfjs-editor-undo-bar-message-highlight = Istaknuto je uklonjeno
+pdfjs-editor-undo-bar-message-freetext = Tekst uklonjen
+pdfjs-editor-undo-bar-message-ink = Crtež uklonjen
+pdfjs-editor-undo-bar-message-stamp = Slika uklonjena
+pdfjs-editor-undo-bar-message-signature = Potpis uklonjen
+# Variables:
+#   $count (Number) - the number of removed annotations.
+pdfjs-editor-undo-bar-message-multiple =
+    { $count ->
+        [one] { $count } bilješka uklonjena
+        [few] { $count } bilješke uklonjene
+       *[other] { $count } bilješki uklonjeno
+    }
+pdfjs-editor-undo-bar-undo-button =
+    .title = Poništi
+pdfjs-editor-undo-bar-undo-button-label = Poništi
+pdfjs-editor-undo-bar-close-button =
+    .title = Zatvori
+pdfjs-editor-undo-bar-close-button-label = Zatvori
 
 ## Add a signature dialog
 
+pdfjs-editor-add-signature-dialog-label = Ovaj modalni prozor omogućava korisniku da kreira potpis koji će dodati PDF dokumentu. Korisnik može urediti ime (koje služi i kao alternativni tekst) i opcionalno sačuvati potpis za ponovnu upotrebu.
+pdfjs-editor-add-signature-dialog-title = Dodaj potpis
 
 ## Tab names
 

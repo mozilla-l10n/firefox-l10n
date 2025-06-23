@@ -52,11 +52,16 @@ neterror-dns-not-found-trr-unknown-host2 = Ovu web stranicu nije pronašla domen
 neterror-dns-not-found-trr-server-problem = Došlo je do problema sa { $trrDomain }.
 neterror-dns-not-found-bad-trr-url = Nevažeći URL.
 neterror-dns-not-found-system-sleep = Sistem je u režimu spavanja.
+neterror-dns-not-found-trr-unknown-problem = Neočekivani problem.
 
 ## Native fallback specific messages
 ## Variables:
 ##   $trrDomain (String) - Hostname of the DNS over HTTPS server that is currently in use.
 
+neterror-dns-not-found-native-fallback-reason = { -brand-short-name } ne može zaštititi vaš zahtjev za adresu ove stranice putem našeg pouzdanog DNS resolvera. Evo zašto:
+neterror-dns-not-found-native-fallback-reason2 = { -brand-short-name } ne može zaštititi vaš zahtjev za adresu ove stranice putem našeg sigurnog DNS provajdera. Evo zašto:
+neterror-dns-not-found-native-fallback-heuristic = DNS preko HTTPS-a je onemogućen na vašoj mreži.
+neterror-dns-not-found-native-fallback-not-confirmed2 = { -brand-short-name } se nije mogao povezati s { $trrDomain }.
 
 ##
 
@@ -78,8 +83,24 @@ neterror-proxy-connect-failure-settings = Provjerite da li su postavke proxyja i
 neterror-proxy-connect-failure-contact-admin = Kontaktirajte vašeg mrežnog administratora kako biste provjerili da li proxy server radi.
 neterror-content-encoding-error = Molimo da kontaktirate vlasnike web stranice kako biste ih informisali o ovom problemu.
 neterror-unsafe-content-type = Molimo da kontaktirate vlasnike web stranice kako biste ih informisali o ovom problemu.
+# Variables:
+# $hostname (String) - Hostname of the website to which the user was trying to connect.
+neterror-basic-http-auth = { -brand-short-name } ne vjeruje { $hostname } jer veza nije sigurna. Pokušajte promijeniti URL u HTTPS.
 neterror-nss-failure-not-verified = Stranica koju pokušavate otvoriti ne može biti prikazana jer autentičnost primljenih podataka nije moguće provjeriti.
 neterror-nss-failure-contact-website = Molimo da kontaktirate vlasnike web stranice i da ih obavijestite o ovom problemu.
+# Variables:
+# $hostname (String) - Hostname of the website to which the user was trying to connect.
+certerror-intro = { -brand-short-name } je otkrio potencijalnu sigurnosnu prijetnju i nije nastavio s <b>{ $hostname }</b>. Ako posjetite ovu stranicu, napadači bi mogli pokušati ukrasti informacije poput vaših lozinki, e-mailova ili podataka o kreditnoj kartici.
+# Variables:
+# $hostname (String) - Hostname of the website to which the user was trying to connect.
+certerror-sts-intro = { -brand-short-name } je otkrio potencijalnu sigurnosnu prijetnju i nije nastavio na <b>{ $hostname }</b> jer ova web stranica zahtijeva sigurnu vezu.
+# Variables:
+# $hostname (String) - Hostname of the website to which the user was trying to connect.
+certerror-expired-cert-intro = { -brand-short-name } je otkrio problem i nije nastavio sa <b>{ $hostname }</b>. Web stranica je ili pogrešno konfigurirana ili je sat vašeg računara postavljen na pogrešno vrijeme.
+# Variables:
+# $hostname (String) - Hostname of the website to which the user was trying to connect.
+# $mitm (String) - The name of the software intercepting communications between you and the website (or “man in the middle”)
+certerror-mitm = <b>{ $hostname }</b> je najvjerovatnije sigurna stranica, ali nije moguće uspostaviti sigurnu vezu. Ovaj problem uzrokuje <b>{ $mitm }</b>, koji je ili softver na vašem računaru ili vašoj mreži.
 neterror-corrupted-content-intro = Stranica koju želite pogledati ne može biti prikazana usljed greške u prijenosu.
 neterror-corrupted-content-contact-website = Molimo da obavijestite vlasnike web stranice o ovom problemu.
 # Do not translate "SSL_ERROR_UNSUPPORTED_VERSION".
@@ -89,3 +110,39 @@ neterror-sslv3-used = Napredna info: SSL_ERROR_UNSUPPORTED_VERSION
 neterror-inadequate-security-intro = <b>{ $hostname }</b> koristi sigurnosne tehnologije koje su zastarjele i podložne napadima. Napadač može jednostavno otkriti informacije za koje ste smatrali da su sigurne. Administrator web stranice će trebati popraviti server prije nego što možete posjetiti stranicu.
 # Do not translate "NS_ERROR_NET_INADEQUATE_SECURITY".
 neterror-inadequate-security-code = Kod greške: NS_ERROR_NET_INADEQUATE_SECURITY
+# Variables:
+# $hostname (String) - Hostname of the website to which the user was trying to connect.
+# $now (Date) - The current datetime, to be formatted as a date
+neterror-clock-skew-error = Vaš računar misli da je { DATETIME($now, dateStyle: "medium") }, što sprečava { -brand-short-name } da se sigurno poveže. Da biste posjetili <b>{ $hostname }</b>, ažurirajte sat računara u postavkama sistema na trenutni datum, vrijeme i vremensku zonu, a zatim osvježite <b>{ $hostname }</b>.
+neterror-network-protocol-error-intro = Stranica koju pokušavate pregledati ne može se prikazati jer je otkrivena greška u mrežnom protokolu.
+neterror-network-protocol-error-contact-website = Molimo da kontaktirate vlasnike web stranice kako biste ih informisali o ovom problemu.
+certerror-expired-cert-second-para = Vjerovatno je da je certifikat web stranice istekao, što sprječava { -brand-short-name } da se sigurno poveže. Ako posjetite ovu stranicu, napadači bi mogli pokušati ukrasti informacije poput vaših lozinki, e-mail adresa ili podataka o kreditnoj kartici.
+certerror-expired-cert-sts-second-para = Vjerovatno je da je certifikat web stranice istekao, što sprječava { -brand-short-name } da se sigurno poveže.
+certerror-what-can-you-do-about-it-title = Šta možete učiniti povodom toga?
+certerror-unknown-issuer-what-can-you-do-about-it-website = Problem je najvjerovatnije s web stranicom i ne možete ništa učiniti da ga riješite.
+certerror-unknown-issuer-what-can-you-do-about-it-contact-admin = Ako ste na korporativnoj mreži ili koristite antivirusni softver, možete se obratiti timovima za podršku za pomoć. Također možete obavijestiti administratora web stranice o problemu.
+# Variables:
+# $hostname (String) - Hostname of the website to which the user was trying to connect.
+# $now (Date) - The current datetime, to be formatted as a date
+certerror-expired-cert-what-can-you-do-about-it-clock = Sat vašeg računara je postavljen na { DATETIME($now, dateStyle: "medium") }. Provjerite da li je na računaru postavljen ispravan datum, vrijeme i vremenska zona u postavkama sistema, a zatim osvježite <b>{ $hostname }</b>.
+certerror-expired-cert-what-can-you-do-about-it-contact-website = Ako je vaš sat već podešen na tačno vrijeme, web stranica je vjerovatno pogrešno konfigurirana i ne možete ništa učiniti da riješite problem. Možete obavijestiti administratora web stranice o problemu.
+certerror-bad-cert-domain-what-can-you-do-about-it = Problem je najvjerovatnije povezan s web stranicom i ne možete ništa učiniti da ga riješite. Možete obavijestiti administratora web stranice o problemu.
+certerror-mitm-what-can-you-do-about-it-antivirus = Ako vaš antivirusni softver uključuje funkciju koja skenira šifrirane veze (često se naziva “web skeniranje” ili “https skeniranje”), možete onemogućiti tu funkciju. Ako to ne uspije, možete ukloniti i ponovo instalirati antivirusni softver.
+certerror-mitm-what-can-you-do-about-it-corporate = Ako ste na korporativnoj mreži, možete kontaktirati IT odjel.
+# Variables:
+# $mitm (String) - The name of the software intercepting communications between you and the website (or “man in the middle”)
+certerror-mitm-what-can-you-do-about-it-attack = Ako niste upoznati sa <b>{ $mitm }</b>, onda bi ovo mogao biti napad i ne biste trebali nastavljati s posjetom stranici.
+# Variables:
+# $mitm (String) - The name of the software intercepting communications between you and the website (or “man in the middle”)
+certerror-mitm-what-can-you-do-about-it-attack-sts = Ako niste upoznati sa <b>{ $mitm }</b>, onda bi ovo mogao biti napad i ne možete ništa učiniti da pristupite stranici.
+# Variables:
+# $hostname (String) - Hostname of the website to which the user was trying to connect.
+certerror-what-should-i-do-bad-sts-cert-explanation = <b>{ $hostname }</b> ima sigurnosnu politiku pod nazivom HTTP Strict Transport Security (HSTS), što znači da se { -brand-short-name } može sigurno povezati samo s njim. Ne možete dodati izuzetak za posjetu ovoj stranici.
+cert-error-trust-certificate-transparency-what-can-you-do-about-it = Vjerovatno ništa, jer je vjerovatno da postoji problem sa samom stranicom.
+certerror-blocked-by-corp-headers-description = Ponekad web stranice postavljaju zaštitu za sebe i ljude poput vas od neželjenih interakcija s drugim stranicama.
+certerror-coop-learn-more = Saznajte više o pravilima otvaranja za osobe s invaliditetom (COOP)
+certerror-coep-learn-more = Saznajte više o pravilima za ugrađivanje u druge izvore (COEP)
+# Variables:
+#   $responsestatus (string) - HTTP response status code (e.g., 500).
+#   $responsestatustext (string) - HTTP response status text (e.g., "Internal Server Error").
+neterror-response-status-code = Kod greške: { $responsestatus } { $responsestatustext }
