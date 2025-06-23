@@ -332,6 +332,10 @@ fission-status-enabled-by-env = Omogućeno okruženjem
 fission-status-disabled-by-env = Onemogućeno okruženjem
 fission-status-enabled-by-default = Onemogućeno prema zadanim postavkama
 fission-status-disabled-by-default = Onemogućeno prema zadanim postavkama
+fission-status-enabled-by-user-pref = Omogućio korisnik
+fission-status-disabled-by-user-pref = Onemogućio korisnik
+fission-status-disabled-by-e10s-other = E10s onemogućen
+fission-status-enabled-by-rollout = Omogućeno postepenim uvođenjem
 async-pan-zoom = Asinhrono pomicanje/uvećanje
 apz-none = ništa
 wheel-enabled = omogućen ulaz točkićem
@@ -339,6 +343,7 @@ touch-enabled = omogućen ulaz dodirom
 drag-enabled = omogućeno povlačenje scrollbara
 keyboard-enabled = tastatura omogućena
 autoscroll-enabled = autoscroll omogućen
+zooming-enabled = glatko zumiranje prstima aktivirano
 
 ## Variables
 ## $preferenceKey (string) - String ID of preference
@@ -354,15 +359,52 @@ policies-error = Greška
 
 ## Printing section
 
+support-printing-title = Štampanje
+support-printing-troubleshoot = Rješavanje problema
+support-printing-clear-settings-button = Obriši sačuvane postavke štampanja
+support-printing-modified-settings = Izmijenjene postavke štampanja
+support-printing-prefs-name = Naziv
+support-printing-prefs-value = Vrijednost
 
 ## Remote Settings sections
 
+support-remote-settings-title = Udaljene postavke
+support-remote-settings-status = Status
+support-remote-settings-status-ok = OK
+# Status when synchronization is not working.
+support-remote-settings-status-broken = Ne radi
+support-remote-settings-last-check = Posljednja provjera
+support-remote-settings-local-timestamp = Lokalna vremenska oznaka
+support-remote-settings-sync-history = Historija
+support-remote-settings-sync-history-status = Status
+support-remote-settings-sync-history-datetime = Datum
+support-remote-settings-sync-history-infos = Informacije
 
 ## Normandy sections
 
+support-remote-experiments-title = Udaljeni eksperimenti
+support-remote-experiments-name = Naziv
+support-remote-experiments-branch = Eksperimentalna grana
+support-remote-experiments-see-about-studies = Pogledajte <a data-l10n-name="support-about-studies-link">about:studies</a> za više informacija, uključujući kako onemogućiti pojedinačne eksperimente ili onemogućiti { -brand-short-name } da u budućnosti izvodi ovu vrstu eksperimenta.
+support-remote-features-title = Udaljene funkcije
+support-remote-features-name = Naziv
+support-remote-features-status = Status
 
 ## Pointing devices
 
+pointing-device-mouse = Miš
+pointing-device-touchscreen = Ekran osjetljiv na dodir
+pointing-device-pen-digitizer = Digitalizator olovke
+pointing-device-none = Nema pokazivačkih uređaja
 
 ## Content Analysis (DLP)
 
+# DLP stands for Data Loss Prevention, an industry term for external software
+# that enterprises can set up to prevent sensitive data from being transferred
+# to external websites.
+content-analysis-title = Analiza sadržaja (DLP)
+content-analysis-active = Aktivno
+content-analysis-connected-to-agent = Povezano s agentom
+content-analysis-agent-path = Putanja agenta
+content-analysis-agent-failed-signature-verification = Neuspješna provjera potpisa agenta
+content-analysis-request-count = Broj zahtjeva
