@@ -39,6 +39,12 @@ edit-profile-page-delete-button =
 edit-profile-page-avatar-selector-opener-link = Upraviť
 avatar-selector-icon-tab = Ikona
 avatar-selector-custom-tab = Vlastný
+avatar-selector-cancel-button =
+    .label = Zrušiť
+avatar-selector-save-button =
+    .label = Uložiť
+avatar-selector-upload-file = Nahrajte súbor
+avatar-selector-drag-file = alebo sem presuňte súbor
 edit-profile-page-no-name = Pomenujte tento profil, aby ste ho neskôr našli. Kedykoľvek ho môžete premenovať.
 edit-profile-page-duplicate-name = Názov profilu sa už používa. Skúste iný názov.
 edit-profile-page-profile-saved = Uložený
@@ -116,6 +122,8 @@ shopping-avatar-alt =
     .alt = Nákupný košík
 star-avatar-alt =
     .alt = Hviezdička
+custom-avatar-alt =
+    .alt = Vlastný avatar
 
 ## Labels for default avatar icons
 

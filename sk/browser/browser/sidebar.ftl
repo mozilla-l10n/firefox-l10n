@@ -125,6 +125,8 @@ sidebar-menu-customize-label =
     .label = Prispôsobiť bočný panel
 sidebar-menu-contextual-password-manager-label =
     .label = Heslá
+sidebar-menu-more-tools-label =
+    .label = Ďalšie nástroje
 
 ## Tooltips for sidebar menu items.
 
