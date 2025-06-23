@@ -88,6 +88,8 @@ fp-learn-more-about-time-related-errors = Eikuaave mba’éichapa emoĩporãta j
 ## Variables:
 ##   $hostname (string) - Hostname of the website with cert error.
 
+cert-error-bad-signature = { -brand-short-name } ojoko nde jeike ko tendápe pe kuatia’atã ñemboheraguapy oñeme’ẽva { $hostname }-pe g̃uarã ndoikói.
+cert-error-key-pinning-failure = { -brand-short-name } ojoko nde jeike ko tendápe upe kuatia’atã oñeme’ẽva { $hostname }-pe g̃uarã oiporu rupi ñe’ẽñemi iñambuéva oñeha’ãrõvagui.
 cert-error-bad-der = { -brand-short-name } ojoko nde jeike ko tendápe ndojejapóigui hekopete pe kuatia’atã oñeme’ẽva { $hostname }-pe g̃uarã.
 cert-error-cert-not-in-name-space = { -brand-short-name } ojoko nde jeike ko tendápe ndojejapóigui hekopete pe kuatia’atã oñeme’ẽva { $hostname }-pe g̃uarã ndohapykuehói téra jejoko pe kuatia’atã ome’ẽva’ekue.
 cert-error-inadequate-cert-type = { -brand-short-name } ojoko nde jeike ko tendápe ndojejapóigui hekopete kuatia’atã oñeme’ẽva { $hostname }-pe g̃uarã ndoiporukuaái ñanduti apopyvusu.
