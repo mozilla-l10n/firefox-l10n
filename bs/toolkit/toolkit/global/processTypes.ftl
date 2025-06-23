@@ -46,6 +46,10 @@ process-type-utility = IPC akter u sandboxu
 process-type-utility-actor-audio-decoder-generic = Uslužni generički audio dekoder
 process-type-utility-actor-audio-decoder-applemedia = Uslužni program AppleMedia
 process-type-utility-actor-audio-decoder-wmf = Uslužni program Windows Media Foundation
+process-type-utility-actor-mf-media-engine = Uslužni program Media Foundation Engine
+process-type-utility-actor-js-oracle = Uslužni program JavaScript Oracle
+process-type-utility-actor-windows-utils = Uslužni program Windows Utils
+process-type-utility-actor-windows-file-dialog = Uslužni program dijaloški okvir Windows datoteke
 
 ##
 ## Other

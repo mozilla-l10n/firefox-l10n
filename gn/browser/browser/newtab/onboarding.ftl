@@ -458,6 +458,7 @@ tab-groups-onboarding-dismiss = MONEĨ
 ## Multi Profiles feature onboarding messages
 
 multi-profile-spotlight-title = Emomaitei { -brand-product-name } mba’etekuéra
+multi-profile-spotlight-body = Eva pya’e ñeikundaha tembiapo ha ñembosaraigua. Umi mba’ete oñongatumem marandu ñeikundahagua, oikehápe jeheka rembiasakue ha ñe’ẽñemi, mombyrymbyry oĩ hag̃uáicha hekopete.
 multi-profile-spotlight-cta = Emoheñói mba’ete
 multi-profile-callout-title = Emoheñói heta mba’ete emba’apo ha ñembosarairã
 multi-profile-callout-subtitle = Umi mba’ete omoneĩ eikuaavévo marandu ñeikundaha rehegua, ikatúva jeheka rembiasakue ha ñe’ẽñemi, oñondive’ỹva.
