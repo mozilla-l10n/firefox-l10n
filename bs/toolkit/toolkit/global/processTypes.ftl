@@ -16,9 +16,14 @@ process-type-privilegedmozilla = Privilegovani Mozilla sadržaj
 process-type-extension = Ekstenzija
 # process used to open file:// URLs
 process-type-file = Lokalni fajl
+# process used to instantiate new child processes
+process-type-forkserver = Fork server
 # process used to isolate a webpage from other web pages
 # to improve security
 process-type-webisolated = Izolirani web sadržaj
+# process used to isolate a ServiceWorker to improve
+# performance
+process-type-webserviceworker = Izolirani Service Worker
 # process preallocated; may change to other types
 process-type-prealloc = Prealocirano
 
@@ -34,6 +39,13 @@ process-type-gpu = GPU
 process-type-socket = Socket
 # process used to decode media
 process-type-rdd = RDD
+# process used to run inference
+process-type-inference = Zaključak
+# process used to run some IPC actor in their own sandbox
+process-type-utility = IPC akter u sandboxu
+process-type-utility-actor-audio-decoder-generic = Uslužni generički audio dekoder
+process-type-utility-actor-audio-decoder-applemedia = Uslužni program AppleMedia
+process-type-utility-actor-audio-decoder-wmf = Uslužni program Windows Media Foundation
 
 ##
 ## Other

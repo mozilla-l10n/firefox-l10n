@@ -11,11 +11,29 @@
 ##   $extension (String): replaced with the localized name of the extension.
 
 webext-perms-header = Dodati { $extension }?
+webext-perms-header-with-perms = Dodati { $extension }? Ova ekstenzija će imati dozvolu za:
+webext-perms-header-unsigned = Dodati { $extension }? Ova ekstenzija nije verifikovana. Zlonamjerne ekstenzije mogu ukrasti vaše privatne podatke ili ugroziti vaš računar. Dodajte je samo ako vjerujete izvoru.
+webext-perms-header-unsigned-with-perms = Dodati { $extension }? Ova ekstenzija nije verifikovana. Zlonamjerne ekstenzije mogu ukrasti vaše privatne podatke ili ugroziti vaš računar. Dodajte je samo ako vjerujete izvoru. Ova ekstenzija će imati dozvolu za:
 webext-perms-sideload-header = { $extension } dodan
+webext-perms-optional-perms-header2 = { $extension } zahtijeva dodatne dozvole
 webext-perms-optional-perms-header = { $extension } zahtijeva dodatne dozvole.
+webext-perms-header2 = Dodaj { $extension }
+webext-perms-list-intro-unsigned = Ova neprovjerena ekstenzija može ugroziti vašu privatnost ili kompromitovati vaš uređaj. Dodajte je samo ako vjerujete izvoru.
 
 ## Headers used in the webextension permissions dialog, inside the content.
 
+webext-perms-header-required-perms = Potrebne dozvole:
+webext-perms-header-optional-settings = Opcionalne postavke:
+webext-perms-header-update-required-perms = Nove potrebne dozvole:
+webext-perms-header-optional-required-perms = Nove dozvole:
+webext-perms-header-data-collection-perms = Potrebno prikupljanje podataka:
+webext-perms-header-data-collection-is-none = Prikupljanje podataka:
+# This is a header used in the add-ons "update" prompt, shown when the new
+# version requires new data collection permissions.
+webext-perms-header-update-data-collection-perms = Novo obavezno prikupljanje podataka:
+# This is a header used in the add-ons "optional" prompt, shown when the
+# extension requests new data collection permissions programmatically.
+webext-perms-header-optional-data-collection-perms = Novo prikupljanje podataka:
 
 ##
 
@@ -33,6 +51,12 @@ webext-perms-sideload-enable =
 webext-perms-sideload-cancel =
     .label = Otkaži
     .accesskey = O
+# Variables:
+#   $extension (String): replaced with the localized name of the extension.
+webext-perms-update-text2 = { $extension } je ažurirano. Morate odobriti nove dozvole prije nego što se ažurirana verzija instalira. Odabirom opcije “Otkaži” zadržat ćete trenutnu verziju ekstenzije.
+# Variables:
+#   $extension (String): replaced with the localized name of the extension.
+webext-perms-update-text = { $extension } je ažurirano. Morate odobriti nove dozvole prije nego što se ažurirana verzija instalira. Odabirom opcije “Otkaži” zadržat ćete trenutnu verziju ekstenzije. Ova ekstenzija će imati dozvolu za:
 webext-perms-update-accept =
     .label = Nadogradi
     .accesskey = N
