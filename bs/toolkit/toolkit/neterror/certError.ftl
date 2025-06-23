@@ -72,6 +72,42 @@ open-in-new-window-for-csp-or-xfo-error = Otvori stranicu u novom prozoru
 #   $hostname (string) - Hostname of the website blocked by csp or xfo error.
 csp-xfo-blocked-long-desc = Iz sigurnosnih razloga, { $hostname } ne dopušta da { -brand-short-name } prikaže stranicu, ako je ugrađena u drugu web stranicu. Za prikaz ove stranice, otvori je u novom prozoru.
 fp-certerror-view-certificate-link = Pogledajte certifikat web stranice
+fp-certerror-return-to-previous-page-recommended-button = Nazad (Preporučeno)
+# This string appears after the following string: "What makes the site look dangerous?" (fp-certerror-why-site-dangerous)
+# Variables:
+#   $hostname (String) - Hostname of the website to which the user was trying to connect.
+#   $validHosts (String) - Valid hostnames.
+fp-certerror-bad-domain-why-dangerous-body = Stranica je postavljena tako da dozvoljava samo sigurne veze, ali postoji problem s certifikatom stranice. Moguće je da zlonamjerni akter pokušava da se lažno predstavlja kao stranica. Stranice koriste certifikate koje izdaje tijelo za izdavanje certifikata kako bi dokazale da su zaista oni za koje se predstavljaju. { -brand-short-name } ne vjeruje ovoj stranici jer njen certifikat nije važeći za { $hostname }. Certifikat je važeći samo za: { $validHosts }.
+# This string appears after the following string: "What can you do about it?" (fp-certerror-what-can-you-do)
+fp-certerror-bad-domain-what-can-you-do-body = Vjerovatno ništa, jer je vjerovatno da postoji problem sa samom web stranicom. Web stranice koriste certifikate koje izdaje tijelo za izdavanje certifikata kako bi dokazale da su zaista oni za koje se predstavljaju. Ali ako ste na korporativnoj mreži, vaš tim za podršku možda ima više informacija. Ako koristite antivirusni softver, pokušajte pretražiti potencijalne konflikte ili poznate probleme.
+# This string appears after the following string: "What makes the site look dangerous?" (fp-certerror-why-site-dangerous)
+fp-certerror-unknown-issuer-why-dangerous-body = Postoji problem s certifikatom web stranice. Moguće je da zlonamjerni akter pokušava lažno predstavljati web stranicu. Web stranice koriste certifikate koje izdaje tijelo za izdavanje certifikata kako bi dokazale da su zaista oni za koje se predstavljaju. { -brand-short-name } ne vjeruje ovoj web stranici jer ne možemo utvrditi ko je izdao certifikat, jer je samopotpisan ili web stranica ne šalje posredničke certifikate kojima vjerujemo.
+# This string appears after the following string: "What can you do about it?" (fp-certerror-what-can-you-do)
+fp-certerror-unknown-issuer-what-can-you-do-body = Vjerovatno ništa, jer je vjerovatno da postoji problem sa samom web stranicom. Ali ako ste na korporativnoj mreži, vaš tim za podršku možda ima više informacija. Ako koristite antivirusni softver, možda će ga trebati konfigurirati da radi sa { -brand-short-name }.
+# This string appears after the following string: "What makes the site look dangerous?" (fp-certerror-why-site-dangerous)
+fp-certerror-self-signed-why-dangerous-body = Zato što postoji problem s certifikatom web stranice. Web stranice koriste certifikate koje izdaje tijelo za izdavanje certifikata kako bi dokazale da su zaista ono što tvrde da jesu. Certifikat ove web stranice je samopotpisan. Nije ga izdalo priznato tijelo za izdavanje certifikata – tako da mu ne vjerujemo po defaultu.
+# This string appears after the following string: "What can you do about it?" (fp-certerror-what-can-you-do)
+fp-certerror-self-signed-what-can-you-do-body = Ne mnogo. Vjerovatno je problem sa samom stranicom.
+fp-certerror-self-signed-important-note = VAŽNA NAPOMENA: Ako pokušavate posjetiti ovu stranicu na korporativnom intranetu, vaše IT osoblje može koristiti samopotpisane certifikate. Oni vam mogu pomoći da provjerite njihovu autentičnost.
+# This string appears after the following string: "What makes the site look dangerous?" (fp-certerror-why-site-dangerous)
+# Variables:
+#   $date (Date) - Certificate expiration date.
+fp-certerror-expired-why-dangerous-body = Web stranice koriste certifikate koje izdaje tijelo za izdavanje certifikata kako bi dokazale da su zaista oni za koje se predstavljaju. { -brand-short-name } ne vjeruje ovoj web stranici jer izgleda da je certifikat istekao { DATETIME($date, month: "numeric", day: "numeric", year: "numeric") }.
+# This string appears after the following string: "What makes the site look dangerous?" (fp-certerror-why-site-dangerous)
+# Variables:
+#   $date (Date) - Certificate start date.
+fp-certerror-not-yet-valid-why-dangerous-body = Web stranice koriste certifikate koje izdaje tijelo za izdavanje certifikata kako bi dokazale da su zaista ono što tvrde da jesu. { -brand-short-name } ne vjeruje ovoj web-stranici jer izgleda da certifikat neće biti važeći do { DATETIME($date, month: "numeric", day: "numeric", year: "numeric") }.
+# This string appears after the following string: "What can you do about it?" (fp-certerror-what-can-you-do)
+# Variables:
+#   $date (Date) - Clock date.
+fp-certerror-expired-what-can-you-do-body = Sat na vašem uređaju je postavljen na { DATETIME($date, month: "numeric", day: "numeric", year: "numeric") }. Ako je ovo tačno, sigurnosni problem vjerovatno je sa samom web stranicom. Ako je pogrešno, možete to promijeniti u sistemskim postavkama vašeg uređaja.
+# Variables:
+#   $error (string) - NSS error code string that specifies type of cert error. e.g. unknown issuer, invalid cert, etc.
+fp-cert-error-code = Kod greške: { $error }
+# Variables:
+#   $datetime (Date) - Current datetime.
+fp-datetime = { DATETIME($datetime, month: "short", year: "numeric", day: "numeric") } { DATETIME($datetime, timeStyle: "long") }
+fp-learn-more-about-secure-connection-failures = Saznajte više o greškama u sigurnoj vezi
 
 ## Variables:
 ##   $hostname (string) - Hostname of the website with cert error.

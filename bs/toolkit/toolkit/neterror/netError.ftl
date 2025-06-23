@@ -30,12 +30,28 @@ neterror-load-error-try-again = Web stranica je možda privremeno nedostupna ili
 neterror-load-error-connection = Ukoliko ne možete učitati niti jednu stranicu, provjerite mrežnu konekciju vašeg računara.
 neterror-load-error-firewall = Ako su vaš računar ili mreža zaštićeni firewallom ili proxyjem, provjerite da li { -brand-short-name } ima dozvoljen pristup Webu.
 neterror-captive-portal = Morate se prijaviti na ovu mrežu da biste mogli pristupiti internetu.
+neterror-dns-not-found-hint-check-network = Provjerite mrežnu vezu
+neterror-dns-not-found-hint-firewall = Provjerite da li { -brand-short-name } ima dozvolu za pristup webu (možda ste povezani, ali iza zaštitnog zida)
+neterror-dns-not-found-offline-hint-header = <strong>Šta možete učiniti povodom toga?</strong>
+neterror-dns-not-found-offline-hint-different-device = Pokušajte se povezati na drugom uređaju.
+neterror-dns-not-found-offline-hint-modem = Provjerite svoj modem ili ruter.
+neterror-dns-not-found-offline-hint-reconnect = Isključite se i ponovo se povežite na Wi-Fi.
 
 ## TRR-only specific messages
 ## Variables:
 ##   $hostname (String) - Hostname of the website to which the user was trying to connect.
 ##   $trrDomain (String) - Hostname of the DNS over HTTPS server that is currently in use.
 
+neterror-dns-not-found-trr-only-reason = { -brand-short-name } ne može zaštititi vaš zahtjev za adresu ove stranice putem našeg pouzdanog DNS resolvera. Evo zašto:
+neterror-dns-not-found-trr-only-reason2 = { -brand-short-name } ne može zaštititi vaš zahtjev za adresu ove stranice putem našeg sigurnog DNS provajdera. Evo zašto:
+neterror-dns-not-found-trr-third-party-warning2 = Možete nastaviti sa svojim zadanim DNS resolverom. Međutim, treća strana bi mogla vidjeti koje web stranice posjećujete.
+neterror-dns-not-found-trr-only-could-not-connect = { -brand-short-name } se nije mogao povezati s { $trrDomain }.
+neterror-dns-not-found-trr-only-timeout = Veza sa { $trrDomain } trajala je duže nego što se očekivalo.
+neterror-dns-not-found-trr-offline = Niste povezani na internet.
+neterror-dns-not-found-trr-unknown-host2 = Ovu web stranicu nije pronašla domena { $trrDomain }.
+neterror-dns-not-found-trr-server-problem = Došlo je do problema sa { $trrDomain }.
+neterror-dns-not-found-bad-trr-url = Nevažeći URL.
+neterror-dns-not-found-system-sleep = Sistem je u režimu spavanja.
 
 ## Native fallback specific messages
 ## Variables:
