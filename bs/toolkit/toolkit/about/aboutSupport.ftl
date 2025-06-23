@@ -9,9 +9,20 @@ crashes-id = Izvještaj broj
 crashes-send-date = Poslano
 crashes-all-reports = Svi izvještaji o rušenju
 crashes-no-config = Ova aplikacija nije konfigurisana da prikazuje izvještaje o rušenju.
+support-addons-title = Dodaci
 support-addons-name = Naziv
+support-addons-type = Vrsta
+support-addons-enabled = Omogućeno
 support-addons-version = Verzija
 support-addons-id = ID
+# In the add-on world, locations are where the addon files are stored. Each
+# location has name. For instance: app-system-addons, app-builtin,
+# app-temporary, etc.
+support-addons-location-name = Lokacija
+legacy-user-stylesheets-title = Zastarjeli korisnički stilski listovi
+legacy-user-stylesheets-enabled = Aktivno
+legacy-user-stylesheets-stylesheet-types = Stilski listovi
+legacy-user-stylesheets-no-stylesheets-found = Nisu pronađeni stilski listovi
 security-software-title = Sigurnosni softver
 security-software-type = Tip
 security-software-name = Naziv
@@ -29,6 +40,7 @@ app-basics-title = Osnove aplikacije
 app-basics-name = Naziv
 app-basics-version = Verzija
 app-basics-build-id = Build ID
+app-basics-distribution-id = ID distribucije
 app-basics-update-channel = Kanal za nadograđivanje
 # This message refers to the folder used to store updates on the device,
 # as in "Folder for updates". "Update" is a noun, not a verb.
@@ -50,24 +62,43 @@ app-basics-enabled-plugins = Omogućeni plugini
 app-basics-build-config = Konfiguracija verzije
 app-basics-user-agent = Korisnički agent
 app-basics-os = OS
+app-basics-os-theme = Tema za OS
+# Rosetta is Apple's translation process to run apps containing x86_64
+# instructions on Apple Silicon. This should remain in English.
+app-basics-rosetta = Prevedeno Rosettom
 app-basics-memory-use = Upotreba memorije
 app-basics-performance = Performanse
 app-basics-service-workers = Registrovani Service Workeri
+app-basics-third-party = Moduli trećih strana
 app-basics-profiles = Profili
 app-basics-launcher-process-status = Pokretački proces
 app-basics-multi-process-support = Multiprocesni prozori
+app-basics-fission-support = Fisioni prozori
 app-basics-remote-processes-count = Udaljeni procesi
 app-basics-enterprise-policies = Enterprise police
 app-basics-location-service-key-google = Google Location Service Key
 app-basics-safebrowsing-key-google = Google Safebrowsing Key
 app-basics-key-mozilla = Mozilla Location Service Key
 app-basics-safe-mode = Sigurni režim
+app-basics-memory-size = Veličina memorije (RAM)
+app-basics-disk-available = Dostupan prostor na disku
+app-basics-pointing-devices = Pokazni uređaji
+# Variables:
+#   $value (number) - Amount of data being stored
+#   $unit (string) - The unit of data being stored (e.g. MB)
+app-basics-data-size = { $value } { $unit }
 show-dir-label =
     { PLATFORM() ->
         [macos] Prikaži u Finderu
         [windows] Otvori folder
        *[other] Otvori direktorij
     }
+environment-variables-title = Varijable okruženja
+environment-variables-name = Naziv
+environment-variables-value = Vrijednost
+experimental-features-title = Eksperimentalne mogućnosti
+experimental-features-name = Naziv
+experimental-features-value = Vrijednost
 modified-key-prefs-title = Važne promijenjene postavke
 modified-prefs-name = Naziv
 modified-prefs-value = Vrijednost
@@ -85,9 +116,15 @@ graphics-gpu2-title = GPU #2
 graphics-decision-log-title = Zapisnik odluka
 graphics-crash-guards-title = Onemogućene osobine čuvara rušenja
 graphics-workarounds-title = Zaobilazna rješenja
+graphics-device-pixel-ratios = Omjeri piksela prozorskog uređaja
 # Windowing system in use on Linux (e.g. X11, Wayland).
 graphics-window-protocol = Protokol prozora
+# Desktop environment in use on Linux (e.g. GNOME, KDE, XFCE, etc).
+graphics-desktop-environment = Okruženje radne površine
 place-database-title = Baza podataka mjesta
+place-database-stats = Statistika
+place-database-stats-show = Prikaži statistiku
+place-database-stats-hide = Sakrij statistiku
 place-database-integrity = Integritet
 place-database-verify-integrity = Verifikuj integritet
 a11y-title = Pristupačnost
@@ -291,6 +328,10 @@ launcher-process-status-unknown = Nepoznat status
 # $remoteWindows (integer) - Number of remote windows
 # $totalWindows (integer) - Number of total windows
 multi-process-windows = { $remoteWindows }/{ $totalWindows }
+fission-status-enabled-by-env = Omogućeno okruženjem
+fission-status-disabled-by-env = Onemogućeno okruženjem
+fission-status-enabled-by-default = Onemogućeno prema zadanim postavkama
+fission-status-disabled-by-default = Onemogućeno prema zadanim postavkama
 async-pan-zoom = Asinhrono pomicanje/uvećanje
 apz-none = ništa
 wheel-enabled = omogućen ulaz točkićem

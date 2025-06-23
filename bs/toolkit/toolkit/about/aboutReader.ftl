@@ -36,6 +36,44 @@ about-reader-toolbar-type-controls = Kontrole tipova
 ## The .title element is used to make the editing functionality
 ## clear and give context for screen reader users.
 
+about-reader-custom-colors-background2 =
+    .label = Pozadina
+    .title = Uredi boju
+about-reader-custom-colors-unvisited-links2 =
+    .label = Neposjećeni linkovi
+    .title = Uredi boju
+about-reader-custom-colors-visited-links2 =
+    .label = Posjećeni linkovi
+    .title = Uredi boju
+about-reader-custom-colors-selection-highlight2 =
+    .label = Marker za čitanje naglas
+    .title = Uredi boju
 
 ## Reader View text and layout menu
 
+about-reader-font-type-selector-label = Font
+about-reader-font-weight-selector-label = Debljina fonta
+about-reader-font-weight-light = Svijetla
+about-reader-font-weight-regular = Normalno
+about-reader-font-weight-bold = Podebljano
+about-reader-layout-header = Raspored
+about-reader-slider-label-spacing-standard = Standardno
+about-reader-slider-label-spacing-wide = Široko
+about-reader-content-width-label =
+    .label = Širina sadržaja
+about-reader-line-spacing-label =
+    .label = Razmak između redova
+about-reader-advanced-layout-header = Napredno
+about-reader-character-spacing-label =
+    .label = Razmak između znakova
+about-reader-word-spacing-label =
+    .label = Razmak između riječi
+about-reader-text-alignment-label = Poravnanje teksta
+about-reader-text-alignment-left =
+    .title = Poravnaj tekst lijevo
+about-reader-text-alignment-center =
+    .title = Centriraj tekst
+about-reader-text-alignment-right =
+    .title = Poravnaj tekst desno
+about-reader-text-alignment-justify =
+    .title = Poravnaj tekst

@@ -343,6 +343,20 @@ recommended-theme-1 = Osjećate se kreativno? <a data-l10n-name="link">Napravite
 ## Page headings
 
 extension-heading = Upravljanje vašim ekstenzijama
+theme-heading = Upravljajte svojim temama
+plugin-heading = Upravljajte svojim priključcima
+dictionary-heading = Upravljajte svojim rječnicima
+locale-heading = Upravljajte svojim jezicima
+updates-heading = Upravljajte svojim ažuriranjima
+sitepermission-heading = Upravljajte dozvolama svoje web stranice
+discover-heading = Personalizirajte svoj { -brand-short-name }
+shortcuts-heading = Upravljaj prečicama za ekstenzije
+default-heading-search-label = Pronađite još dodataka
+addons-heading-search-input =
+    .placeholder = Pretražite addons.mozilla.org
+addons-heading-search-button =
+    .title = Pretražite addons.mozilla.org
+    .aria-label = Pretražite addons.mozilla.org
 addon-page-options-button =
     .title = Alati za sve add-one
 
@@ -357,6 +371,7 @@ details-notification-incompatible = { $name } je nekompatibilan sa { -brand-shor
 #   $version (string) - Application version.
 details-notification-incompatible2 =
     .message = { $name } je nekompatibilan sa { -brand-short-name } { $version }.
+details-notification-incompatible-link = Više informacija
 details-notification-unsigned-and-disabled = { $name } nije mogao biti verifikovan za rad u { -brand-short-name } te je onemogućen.
 details-notification-unsigned-and-disabled2 =
     .message = { $name } nije mogao biti verifikovan za rad u { -brand-short-name } te je onemogućen.
@@ -364,10 +379,24 @@ details-notification-unsigned-and-disabled-link = Više informacija
 details-notification-unsigned = { $name } nije mogao biti verifikovan za rad u { -brand-short-name }. Nastavite s oprezom.
 details-notification-unsigned2 =
     .message = { $name } nije mogao biti verifikovan za rad u { -brand-short-name }. Nastavite s oprezom.
+details-notification-hard-blocked-extension =
+    .message = Ova ekstenzija je blokirana zbog kršenja Mozilla pravila i onemogućena je.
+details-notification-hard-blocked-other =
+    .message = Ovaj dodatak je blokiran zbog kršenja Mozillinih pravila i onemogućen je.
 details-notification-unsigned-link = Više informacija
 details-notification-blocked = { $name } je onemogućen pošto uzrokuje probleme vezane za sigurnost i stabilnost.
 details-notification-blocked2 =
     .message = { $name } je onemogućen pošto uzrokuje probleme vezane za sigurnost i stabilnost.
+details-notification-blocked-link2 = Pogledajte detalje
+details-notification-soft-blocked-extension-disabled =
+    .message = Ova ekstenzija je ograničena zbog kršenja Mozilla pravila i onemogućena je. Možete je omogućiti, ali ovo može biti rizično.
+details-notification-soft-blocked-extension-enabled =
+    .message = Ova ekstenzija krši Mozillinu politiku. Upotreba može biti rizična.
+details-notification-soft-blocked-other-disabled =
+    .message = Ovaj dodatak je ograničen zbog kršenja Mozillinih pravila i onemogućen je. Možete ga omogućiti, ali to može biti rizično.
+details-notification-soft-blocked-other-enabled =
+    .message = Ovaj dodatak krši Mozilline politike. Njegovo korištenje može biti rizično.
+details-notification-softblocked-link2 = Pogledajte detalje
 details-notification-blocked-link = Više informacija
 details-notification-softblocked = { $name } je poznat po tome što uzrokuje probleme vezane za stabilnost ili sigurnost.
 details-notification-softblocked2 =
@@ -384,10 +413,33 @@ plugins-gmp-privacy-info = Informacije o privatnosti
 plugins-openh264-name = OpenH264 Video Codec je omogućio Cisco Systems, Inc.
 plugins-openh264-description = Ovaj priključak je automatski instalirala Mozilla da bi se zadovoljili uvjeti WebRTC specifikacije i omogućili WebRTC pozivi s uređajima koji zahtijevaju H.264 video kodek. Posjetite http://www.openh264.org/ da biste vidjeli izvorni kod kodeka i saznali više o implementaciji.
 plugins-widevine-name = Widevine Content Decryption Module omogućuje Google Inc.
+plugins-widevine-description = Ovaj dodatak omogućava reprodukciju šifrovanih medija u skladu sa specifikacijom za proširenja šifrovanih medija. Šifrovane medije obično koriste web stranice za zaštitu od kopiranja premium medijskog sadržaja. Posjetite https://www.w3.org/TR/encrypted-media/ za više informacija o proširenjima šifrovanih medija.
 
 ## Headings for the Permissions tab in `about:addons` when the data collection
 ## feature is enabled.
 
+addon-permissions-required-data-collection = Potrebno prikupljanje podataka:
+addon-permissions-optional-data-collection = Opcionalno prikupljanje podataka:
+# Name of the Permissions tab in `about:addons` when the data collection feature is enabled.
+permissions-data-addon-button = Dozvole i podaci
+# This is a description for extension that use this AI model
+# Variables:
+#   $extensionName (String) - Name of the extension
+mlmodel-extension-label = Koristi ga ekstenzija { $extensionName }
 
 ## Mapping Engine IDs from AI models to how that feature represented by the engine Id is described in the used by section in local model management
 
+mlmodel-about-inference = { -brand-short-name } koristi ovo na about:inference
+mlmodel-link-preview = { -brand-short-name } koristi ovo za generisanje ključnih tačaka prilikom pregleda linkova
+mlmodel-pdfjs = { -brand-short-name } koristi ovo za kreiranje alternativnog teksta za slike koje dodajete u PDF-ove
+mlmodel-smart-tab-topic-engine = { -brand-short-name } koristi ovo da predloži nazive za vaše grupe tabova
+mlmodel-smart-tab-embedding-engine = { -brand-short-name } koristi ovo da predloži tabove za vaše grupe tabova
+# AI Model will be downloaded on the users device and used locally
+addon-category-mlmodel = Umjetna inteligencija na uređaju
+addon-category-mlmodel-title =
+    .title = Umjetna inteligencija na uređaju
+mlmodel-heading = Upravljanje AI modelima na uređaju
+mlmodel-description = Neke funkcije i ekstenzije u { -brand-short-name } pokreću AI modeli koji rade lokalno na vašem uređaju. Ovaj pristup štiti vašu privatnost i, u mnogim slučajevima, ubrzava performanse. <a data-l10n-name="learn-more">Saznajte više</a>
+# Label for button that when clicked removed local model
+mlmodel-remove-addon-button =
+    .aria-label = Ukloni
