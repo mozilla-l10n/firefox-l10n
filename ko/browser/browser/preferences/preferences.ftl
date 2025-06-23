@@ -1500,7 +1500,7 @@ preferences-doh-status-disabled = 꺼짐
 #   $reason (string) - A string representation of the reason DoH is not active. For example NS_ERROR_UNKNOWN_HOST or TRR_RCODE_FAIL.
 preferences-doh-status-not-active = 활성 안 됨 ({ $reason })
 preferences-doh-group-message = 보안 DNS 활성화 수준:
-preferences-doh-group-message2 = DNS over HTTPS 방식:
+preferences-doh-group-message2 = DNS over HTTPS 보호 수준:
 preferences-doh-expand-section =
     .tooltiptext = 추가 정보
 preferences-doh-setting-default =
