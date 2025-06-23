@@ -95,6 +95,9 @@ cert-error-path-len-constraint-invalid = { -brand-short-name } ojoko nde jeike k
 cert-error-invalid-key = { -brand-short-name } ojoko nde jeike ko tendápe ndojejapóigui hekopete kuatia’atã oñeme’ẽva { $hostname }-pe orekóre ñe’ẽñemi oiko’ỹva. Ikatúre, michĩeterei hekorosã hag̃ua.
 cert-error-unknown-critical-extension = { -brand-short-name } ojoko nde jeike ko tendápe ndojejapóigui hekopete pe kuatia’atã oñeme’ẽva { $hostname }-pe oreko jepysokue vai ndojokupytýiva.
 cert-error-extension-value-invalid = { -brand-short-name } ojoko nde jeike ko tendápe ndojejapóigui hekopete pe kuatia’atã oñeme’ẽva { $hostname }-pe oreko jepysokue oiko’ỹva.
+cert-error-untrusted-cert = { -brand-short-name } ojoko nde jeike ko tendápe upe kuatia’atã oñeme’ẽva { $hostname }-pe oñembokurusu rehe hekorosã’ỹvaramo.
+cert-error-invalid-integer-encoding = { -brand-short-name } ojoko nde jeike ko tendápe upe kuatia’atã oñeme’ẽva { $hostname }-pe g̃uarã oguereko rehe ñembopapapy oiko’ỹva. Ko’ãva ikatu oiko oguerekóramo papapy syryry mbotovéva, RSA ayvu mbotovéva ra’ãha ha mbopapapy ipukuetereíva oikotevẽ’ỹre.
+cert-error-unsupported-keyalg = { -brand-short-name } ojoko nde jeike ko tendápe upe kuatia’atã oñeme’ẽva { $hostname }-pe g̃uarã oguereko rupi ñe’ẽñemi ojokupyty’ỹva.
 cert-error-issuer-no-longer-trusted = { -brand-short-name } ojoko nde jeike ko tendápe ndojejapóigui hekopete pe kuatia’atã oñeme’ẽva { $hostname }-pe g̃uarã ndaha’evéima jeroviaha.
 cert-error-signature-algorithm-mismatch = { -brand-short-name } ojoko nde jeike ko tendápe algoritmo teraguapyha kuatia’atã oñeme’ẽva { $hostname }-pe g̃uarã ndojokupytýi rehe pe algoritmo teraguapyha kora rehe.
 
