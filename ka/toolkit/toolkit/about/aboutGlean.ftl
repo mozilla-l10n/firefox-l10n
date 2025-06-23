@@ -13,7 +13,7 @@ about-glean-page-title2 = { -glean-brand-name }-ის შესახებ
 about-glean-header = { -glean-brand-name }-ის შესახებ
 about-glean-interface-description =
     <a data-l10n-name="glean-sdk-doc-link">{ glean-sdk-brand-name }</a>
-    მონაცემთა აღმრიცხველი ბიბლიოთეკაა { -vendor-short-name }-პროექტებში.
+    მონაცემთა აღმრიცხველი ბიბლიოთეკაა, რომელსაც იყენებს { -vendor-short-name } პროექტებში.
     ეს გვერდი შემმუშავებლებისა და შემმოწმებლებისთვისაა სხვადასხვა
     <a data-l10n-name="fog-link">ხელსაწყოს ხელით გამოსაცდელად</a>.
 about-glean-category-about-glean = { -glean-brand-name } – შესახებ
