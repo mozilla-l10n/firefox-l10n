@@ -63,7 +63,7 @@ add-engine-url2 = URL com %s a designar a posição do termo de pesquisa
 add-engine-keyword2 = Palavra-chave (opcional)
 # POST and GET refer to the HTTP methods.
 add-engine-post-data = Dados POST com %s a designar a posição do termo de pesquisa (deixe vazio para GET)
-add-engine-suggest-url = Sugestões de URL com %s a indicar a posição do termo de pesquisa (opcional)
+add-engine-suggest-url = URL de sugestões com %s a indicar a posição do termo de pesquisa (opcional)
 
 ## The following placeholders are shown in the inputs when adding a new engine.
 
