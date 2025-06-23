@@ -18,6 +18,9 @@ cert-error-trust-signature-algorithm-disabled = Certifikat nije povjerljiv jer j
 cert-error-trust-expired-issuer = Certifikat nije povjerljiv jer je certifikat izdavača istekao.
 cert-error-trust-self-signed = Ovaj certifikat nije povjerljiv jer je samopotpisan.
 cert-error-trust-symantec = Certifikati koje izdaju GeoTrust, RapidSSL, Symantec, Thawte i VeriSign više se ne smatraju sigurnima, jer ta certifikacijska tijela u prošlosti nisu slijedila sigurnosne prakse.
+# Variables:
+#   $hostname (string) - Hostname of the website with cert error.
+cert-error-trust-certificate-transparency = { -brand-short-name } ne vjeruje { $hostname } jer nije mogao dokazati da ispunjava zahtjeve transparentnosti javnih certifikata.
 cert-error-untrusted-default = Certifikat ne dolazi od pouzdanog izvora.
 # Variables:
 #   $hostname (string) - Hostname of the website with cert error.
@@ -56,6 +59,7 @@ cert-error-ssl-connection-error = Došlo je do greške tokom povezivanja sa { $h
 #   $hostname (string) - Hostname of the website with cert error.
 cert-error-symantec-distrust-description = Web stranice dokazuju svoj identitet putem certifikata koje izdaju certifikacijska tijela. Većina browsera više ne vjeruje certifikatima koje izdaju GeoTrust, RapidSSL, Symantec, Thawte i VeriSign. { $hostname } koristi certifikat jednog od ovih izdavatelja, pa se identitet web stranice ne može dokazati.
 cert-error-symantec-distrust-admin = O ovom problemu možeš obavijestiti administratora web stranice.
+cert-error-old-tls-version = Ova web stranica možda ne podržava TLS 1.2 protokol, što je minimalna verzija koju podržava { -brand-short-name }.
 # Variables:
 #   $hasHSTS (Boolean) - Indicates whether HSTS header is present.
 cert-error-details-hsts-label = HTTP Strict Transport Security: { $hasHSTS }
@@ -67,6 +71,7 @@ open-in-new-window-for-csp-or-xfo-error = Otvori stranicu u novom prozoru
 # Variables:
 #   $hostname (string) - Hostname of the website blocked by csp or xfo error.
 csp-xfo-blocked-long-desc = Iz sigurnosnih razloga, { $hostname } ne dopušta da { -brand-short-name } prikaže stranicu, ako je ugrađena u drugu web stranicu. Za prikaz ove stranice, otvori je u novom prozoru.
+fp-certerror-view-certificate-link = Pogledajte certifikat web stranice
 
 ## Variables:
 ##   $hostname (string) - Hostname of the website with cert error.

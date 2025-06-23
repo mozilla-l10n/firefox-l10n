@@ -42,5 +42,26 @@ findbar-fast-find-links =
     .placeholder = Brza pretraga (samo linkovi)
 findbar-case-sensitive-status =
     .value = (Osjetljivo na mala i velika slova)
+findbar-match-diacritics-status =
+    .value = (Podudarni dijakritički znakovi)
 findbar-entire-word-status =
     .value = (Samo cijele riječi)
+# Variables:
+#   $current (Number): Index of the currently selected match
+#   $total (Number): Total count of matches
+findbar-found-matches =
+    .value =
+        { $total ->
+            [one] { $current } od { $total } podudaranja
+            [few] { $current } od { $total } podudaranja
+           *[other] { $current } od { $total } podudaranja
+        }
+# Variables:
+#   $limit (Number): Total count of matches allowed before counting stops
+findbar-found-matches-count-limit =
+    .value =
+        { $limit ->
+            [one] Više od { $limit } podudaranja
+            [few] Više od { $limit } podudaranja
+           *[other] Više od { $limit } podudaranja
+        }

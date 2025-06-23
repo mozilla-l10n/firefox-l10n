@@ -28,12 +28,23 @@ videocontrols-casting-button-label =
 # as a text-track label
 videocontrols-closed-caption-off =
     .offlabel = Isključeno
+# This string is used as part of the Picture-in-Picture video toggle button when
+# the mouse is hovering it.
+videocontrols-picture-in-picture-label = Slika u slici
+# This string is used as the label for a variation of the Picture-in-Picture video
+# toggle button when the mouse is hovering over the video.
+videocontrols-picture-in-picture-toggle-label2 = Izdvoji ovaj video
+# This string is used as part of a variation of the Picture-in-Picture video toggle
+# button. When using this variation, this string appears below the toggle when the
+# mouse hovers the toggle.
+videocontrols-picture-in-picture-explainer3 = Više ekrana je zabavnije. Reproduciraj ovaj video dok radiš druge stvari.
 videocontrols-error-aborted = Učitavanje videa zaustavljeno.
 videocontrols-error-network = Prikazivanje videa prekinuto usljed greške na mreži.
 videocontrols-error-decode = Video ne može biti prikazan zbog greške u fajlu.
 videocontrols-error-src-not-supported = Video format ili MIME tip nije podržan.
 videocontrols-error-no-source = Nije pronađen niti jedan video sa podržanim formatom i MIME tipom.
 videocontrols-error-generic = Prikazivanje videa prekinuto usljed nepoznate greške.
+videocontrols-status-picture-in-picture = Ovaj video se reprodukuje u režimu slike u slici.
 # This message shows the current position and total video duration
 #
 # Variables:
