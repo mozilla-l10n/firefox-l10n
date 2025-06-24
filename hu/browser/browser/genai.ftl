@@ -106,6 +106,9 @@ genai-options-hide-shortcut =
 genai-options-about-chatbot =
     .label = A { -brand-short-name } MI csevegőbotjainak névjegye
 
+## Chatbot footer
+
+
 ## Chatbot onboarding
 
 genai-onboarding-header = Összegezzen és ötleteljen böngészés közben

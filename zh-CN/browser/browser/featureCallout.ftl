@@ -104,6 +104,9 @@ perplexity-callout-primary-label = 询问 Perplexity
 perplexity-callout-secondary-label-1 = 知道了
 perplexity-callout-secondary-label-2 = 明白了
 
+## Account Adoption Passwords callout strings
+
+
 ## Sidebar Strings
 
 sidebar-button-callout-title = 在侧栏中显示标签页标题
@@ -124,6 +127,9 @@ vertical-tabs-callout-2-subtitle = 此布局可让您轻松纵览标签页列。
 sidebar-pins-callout-title = 重要的标签页总在躲猫猫？
 sidebar-pins-callout-subtitle = 试试把它们固定起来，保持显示在标签页列顶部。只需右键点击需要固定的标签页，然后选择“固定标签页”即可。
 sidebar-pins-callout-cta-button = 固定标签页
+
+## Pinning Tabs Strings
+
 
 ## Sidebar Onboarding Strings
 

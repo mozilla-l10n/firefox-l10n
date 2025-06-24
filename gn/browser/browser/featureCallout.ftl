@@ -104,6 +104,9 @@ perplexity-callout-primary-label = Eporandu Perplexity-pe
 perplexity-callout-secondary-label-1 = Mboyke
 perplexity-callout-secondary-label-2 = Aikũmby
 
+## Account Adoption Passwords callout strings
+
+
 ## Sidebar Strings
 
 sidebar-button-callout-title = Ehechauka tendayke reratee tenda yképe
@@ -124,6 +127,9 @@ vertical-tabs-callout-2-subtitle = Ko diseño rupi ndahasýi ojehecha pya’e ha
 sidebar-pins-callout-title = ¿Okañy tendayke ojeporuvéva rapykuere?
 sidebar-pins-callout-subtitle = Eñeha’ã emboja opytameme hag̃ua yvateve tendayke rysýipe. Eikutu votõ akatuagua tendayke embojaséva ha, upéi, eiporavo Tendayke Mboja.
 sidebar-pins-callout-cta-button = Emboja tendayke
+
+## Pinning Tabs Strings
+
 
 ## Sidebar Onboarding Strings
 

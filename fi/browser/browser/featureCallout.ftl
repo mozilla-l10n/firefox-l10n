@@ -104,6 +104,9 @@ perplexity-callout-primary-label = Kysy Perplexityltä
 perplexity-callout-secondary-label-1 = Hylkää
 perplexity-callout-secondary-label-2 = Selvä
 
+## Account Adoption Passwords callout strings
+
+
 ## Sidebar Strings
 
 sidebar-button-callout-title = Näytä välilehtien otsikot sivupalkissa
@@ -124,6 +127,9 @@ vertical-tabs-callout-2-subtitle = Tämän asettelun avulla välilehtiluettelosi
 sidebar-pins-callout-title = Ovatko tärkeät välilehdet kateissa?
 sidebar-pins-callout-subtitle = Kokeile kiinnittää välilehdet, jolloin ne pysyvät välilehtiluettelosi kärjessä. Napsauta hiiren oikealla painikkeella välilehteä, jonka haluat kiinnittää, ja valitse sitten Kiinnitä välilehti.
 sidebar-pins-callout-cta-button = Kiinnitä välilehti
+
+## Pinning Tabs Strings
+
 
 ## Sidebar Onboarding Strings
 

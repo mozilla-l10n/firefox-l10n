@@ -91,6 +91,9 @@ perplexity-callout-primary-label = اسأل Perplexity
 perplexity-callout-secondary-label-1 = أهمِل
 perplexity-callout-secondary-label-2 = فهمت
 
+## Account Adoption Passwords callout strings
+
+
 ## Sidebar Strings
 
 sidebar-button-callout-title = أظهِر عناوين الألسنة في الشريط الجانبي
@@ -106,6 +109,9 @@ vertical-tabs-callout-2-title = هل تُبقي الكثير من الألسنة
 
 sidebar-pins-callout-title = هل فقدت مسار الألسنة المهمة لديك؟
 sidebar-pins-callout-cta-button = ثبّت اللسان
+
+## Pinning Tabs Strings
+
 
 ## Sidebar Onboarding Strings
 

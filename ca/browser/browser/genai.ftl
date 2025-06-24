@@ -73,6 +73,9 @@ genai-options-hide-shortcut =
 genai-options-about-chatbot =
     .label = Quant als bots de conversa d'IA en el { -brand-short-name }
 
+## Chatbot footer
+
+
 ## Chatbot onboarding
 
 genai-onboarding-header = Feu resums, pluges d'idees i molt més mentre navegueu

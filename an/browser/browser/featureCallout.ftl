@@ -27,6 +27,9 @@
 ## Perplexity callout strings
 
 
+## Account Adoption Passwords callout strings
+
+
 ## Sidebar Strings
 
 
@@ -34,6 +37,9 @@
 
 
 ## Sidebar Vertical Tabs Pinning Strings
+
+
+## Pinning Tabs Strings
 
 
 ## Sidebar Onboarding Strings

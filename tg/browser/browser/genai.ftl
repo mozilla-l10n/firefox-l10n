@@ -104,6 +104,9 @@ genai-options-hide-shortcut =
 genai-options-about-chatbot =
     .label = Дар бораи чат-ботҳои зеҳни сунъӣ «AI» дар «{ -brand-short-name }»
 
+## Chatbot footer
+
+
 ## Chatbot onboarding
 
 genai-onboarding-header = Ҳангоми истифодаи браузер натиҷаҳои худро ҷамъбаст кунед, барои ҳал кардани масъалаҳои гуногун маслиҳат кунед ё чизҳои дигар ба даст оред

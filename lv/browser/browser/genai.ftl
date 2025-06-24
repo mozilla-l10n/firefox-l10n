@@ -56,6 +56,9 @@ genai-input-ask-provider =
 ## Chatbot header
 
 
+## Chatbot footer
+
+
 ## Chatbot onboarding
 
 

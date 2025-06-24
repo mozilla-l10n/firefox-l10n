@@ -98,6 +98,9 @@ genai-options-hide-shortcut =
 genai-options-about-chatbot =
     .label = { -brand-short-name }의 AI 챗봇 정보
 
+## Chatbot footer
+
+
 ## Chatbot onboarding
 
 genai-onboarding-header = 탐색하면서 요약, 브레인스토밍 등을 하세요

@@ -19,6 +19,9 @@
 ## Chatbot header
 
 
+## Chatbot footer
+
+
 ## Chatbot onboarding
 
 

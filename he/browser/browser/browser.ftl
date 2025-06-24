@@ -1310,5 +1310,3 @@ file-picker-crashed-show-in-folder =
 ## Onboarding Finish Setup checklist
 
 onboarding-checklist-button-label = סיום ההגדרה
-onboarding-finish-setup-button-label =
-    .label = סיום ההגדרה

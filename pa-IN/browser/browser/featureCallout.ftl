@@ -99,6 +99,9 @@ perplexity-callout-primary-label = ਪਰਪਲਿਕਸਟੀ ਨੂੰ ਪੁ�
 perplexity-callout-secondary-label-1 = ਖ਼ਾਰਜ ਕਰੋ
 perplexity-callout-secondary-label-2 = ਸਮਝੇ
 
+## Account Adoption Passwords callout strings
+
+
 ## Sidebar Strings
 
 sidebar-button-callout-title = ਬਾਹੀ ਵਿੱਚ ਟੈਬਾਂ ਦੇ ਟਾਈਟਲ ਵੇਖਾਓ
@@ -116,6 +119,9 @@ vertical-tabs-callout-2-title = ਬਹੁਤ ਸਾਰੀਆਂ ਟੈਬਾਂ 
 
 sidebar-pins-callout-title = ਆਪਣੀਆਂ ਖ਼ਾਸ ਟੈਬਾਂ ਉੱਤੇ ਧਿਆਨ ਨਹੀਂ ਰਹਿੰਦਾ ਹੈ?
 sidebar-pins-callout-cta-button = ਟੈਬ ਨੂੰ ਟੰਗੋ
+
+## Pinning Tabs Strings
+
 
 ## Sidebar Onboarding Strings
 

@@ -104,6 +104,9 @@ perplexity-callout-primary-label = Preguntar a Perplexity
 perplexity-callout-secondary-label-1 = Descartar
 perplexity-callout-secondary-label-2 = Entendido
 
+## Account Adoption Passwords callout strings
+
+
 ## Sidebar Strings
 
 sidebar-button-callout-title = Mostrar los títulos de las pestañas en la barra lateral
@@ -124,6 +127,9 @@ vertical-tabs-callout-2-subtitle = Este diseño facilita escanear rápidamente s
 sidebar-pins-callout-title = ¿Perdiendo el rastro de las pestañas importantes?
 sidebar-pins-callout-subtitle = Pruebe pegarlas, lo que las mantendrá en la parte superior de la lista de pestañas. Haga clic con el botón derecho en la pestaña que quiera pegar y seleccione Pegar pestaña.
 sidebar-pins-callout-cta-button = Pegar pestaña
+
+## Pinning Tabs Strings
+
 
 ## Sidebar Onboarding Strings
 

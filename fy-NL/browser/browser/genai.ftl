@@ -104,6 +104,9 @@ genai-options-hide-shortcut =
 genai-options-about-chatbot =
     .label = Oer AI-chatbots yn { -brand-short-name }
 
+## Chatbot footer
+
+
 ## Chatbot onboarding
 
 genai-onboarding-header = Gearfetsje, brainstoarmje, en mear wylst jo sneupe

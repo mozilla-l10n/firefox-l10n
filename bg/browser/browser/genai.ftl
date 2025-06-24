@@ -82,6 +82,9 @@ genai-options-hide-shortcut =
 genai-options-about-chatbot =
     .label = Относно AI чатботовете в { -brand-short-name }
 
+## Chatbot footer
+
+
 ## Chatbot onboarding
 
 genai-onboarding-header = Обобщавайте, обмисляйте и още, докато разглеждате

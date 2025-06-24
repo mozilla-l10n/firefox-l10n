@@ -104,6 +104,9 @@ perplexity-callout-primary-label = Freegje it Perplexity
 perplexity-callout-secondary-label-1 = Slute
 perplexity-callout-secondary-label-2 = Begrepen
 
+## Account Adoption Passwords callout strings
+
+
 ## Sidebar Strings
 
 sidebar-button-callout-title = Ljepblêdtitels yn de sydbalke toane
@@ -124,6 +127,9 @@ vertical-tabs-callout-2-subtitle = Dizze yndieling makket it maklik om jo list m
 sidebar-pins-callout-title = Ferlieze jo jo wichtige ljepblêden?
 sidebar-pins-callout-subtitle = Probearje se fêst te setten, sadat se boppe oan jo list mei ljepblêden bliuwe. Klik mei de rjochtermûsknop op in ljepblêd dat jo fêstsette wolle, kies dan Ljepblêd fêstsette.
 sidebar-pins-callout-cta-button = Ljepblêd fêstsette
+
+## Pinning Tabs Strings
+
 
 ## Sidebar Onboarding Strings
 

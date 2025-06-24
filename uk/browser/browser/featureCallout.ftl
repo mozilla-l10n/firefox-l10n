@@ -104,6 +104,9 @@ perplexity-callout-primary-label = Запитайте Perplexity
 perplexity-callout-secondary-label-1 = Відхилити
 perplexity-callout-secondary-label-2 = Зрозуміло
 
+## Account Adoption Passwords callout strings
+
+
 ## Sidebar Strings
 
 sidebar-button-callout-title = Показувати заголовки вкладок на бічній панелі
@@ -124,6 +127,9 @@ vertical-tabs-callout-2-subtitle = Це подання дає змогу бач�
 sidebar-pins-callout-title = Важко зосередитися на важливих вкладках?
 sidebar-pins-callout-subtitle = Спробуйте прикріпити їх, щоб бачити у верхній частині списку вкладок. Клацніть правою кнопкою миші вкладку, а потім виберіть "Прикріпити вкладку".
 sidebar-pins-callout-cta-button = Прикріпити вкладку
+
+## Pinning Tabs Strings
+
 
 ## Sidebar Onboarding Strings
 

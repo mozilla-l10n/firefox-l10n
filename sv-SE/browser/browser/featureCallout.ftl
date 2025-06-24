@@ -104,6 +104,9 @@ perplexity-callout-primary-label = Fråga Perplexity
 perplexity-callout-secondary-label-1 = Ignorera
 perplexity-callout-secondary-label-2 = Jag förstår
 
+## Account Adoption Passwords callout strings
+
+
 ## Sidebar Strings
 
 sidebar-button-callout-title = Visa fliktitlar i sidofältet
@@ -124,6 +127,9 @@ vertical-tabs-callout-2-subtitle = Denna layout gör det enkelt att snabbt skann
 sidebar-pins-callout-title = Tappar du bort dina viktiga flikar?
 sidebar-pins-callout-subtitle = Försök att fästa dem, vilket håller dem högst upp på listan med flikar. Högerklicka på en flik som du vill fästa och välj sedan Fäst flik.
 sidebar-pins-callout-cta-button = Fäst flik
+
+## Pinning Tabs Strings
+
 
 ## Sidebar Onboarding Strings
 

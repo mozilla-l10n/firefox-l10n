@@ -104,6 +104,9 @@ genai-options-hide-shortcut =
 genai-options-about-chatbot =
     .label = { -brand-short-name } ਵਿੱਚ AI ਚੈਟ-ਬੋਟ ਬਾਰੇ
 
+## Chatbot footer
+
+
 ## Chatbot onboarding
 
 genai-onboarding-header = ਬਰਾਊਜ਼ ਕਰਦੇ ਸਮੇਂ ਹੀ ਸਾਰ ਵੇਖੋ, ਦਿਮਾਗ ਲੜਾਓ ਤੇ ਹੋਰ ਕਈ ਕੁਝ ਕਰੋ

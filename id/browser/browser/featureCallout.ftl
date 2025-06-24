@@ -75,6 +75,9 @@ split-dismiss-button-default-label =
 ## Perplexity callout strings
 
 
+## Account Adoption Passwords callout strings
+
+
 ## Sidebar Strings
 
 sidebar-button-callout-title = Tampilkan judul tab di bilah samping
@@ -95,6 +98,9 @@ vertical-tabs-callout-2-subtitle = Tata letak ini memudahkan untuk memindai daft
 sidebar-pins-callout-title = Kehilangan jejak tab penting Anda?
 sidebar-pins-callout-subtitle = Coba sematkan, yang membuatnya tetap di bagian atas daftar tab Anda. Klik kanan pada tab yang ingin Anda sematkan, lalu pilih Sematkan Tab.
 sidebar-pins-callout-cta-button = Sematkan tab
+
+## Pinning Tabs Strings
+
 
 ## Sidebar Onboarding Strings
 

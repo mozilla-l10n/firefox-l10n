@@ -32,6 +32,9 @@ genai-header-close-button =
 genai-options-reload-provider =
     .label = Adkargañ { $provider }
 
+## Chatbot footer
+
+
 ## Chatbot onboarding
 
 genai-onboarding-primary = Kenderc’hel

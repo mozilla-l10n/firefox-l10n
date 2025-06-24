@@ -59,6 +59,9 @@ callout-pdfjs-draw-button = Ngà nikà man
 ## Perplexity callout strings
 
 
+## Account Adoption Passwords callout strings
+
+
 ## Sidebar Strings
 
 
@@ -66,6 +69,9 @@ callout-pdfjs-draw-button = Ngà nikà man
 
 
 ## Sidebar Vertical Tabs Pinning Strings
+
+
+## Pinning Tabs Strings
 
 
 ## Sidebar Onboarding Strings

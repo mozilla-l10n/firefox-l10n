@@ -93,6 +93,9 @@ bookmarks-toolbar-callout-2b-secondary-button-label = Non, grazas
 
 perplexity-callout-theme-2-title = Proba Perplexity: unha nova forma de buscar
 
+## Account Adoption Passwords callout strings
+
+
 ## Sidebar Strings
 
 sidebar-button-callout-title = Mostra os títulos das lapelas na barra lateral
@@ -111,6 +114,9 @@ vertical-tabs-callout-2-subtitle = Este deseño facilita a exploración rápida 
 ## Sidebar Vertical Tabs Pinning Strings
 
 sidebar-pins-callout-cta-button = Fixar pestana
+
+## Pinning Tabs Strings
+
 
 ## Sidebar Onboarding Strings
 

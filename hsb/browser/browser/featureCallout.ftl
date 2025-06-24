@@ -104,6 +104,9 @@ perplexity-callout-primary-label = Perplexity so prašeć
 perplexity-callout-secondary-label-1 = Zaćisnyć
 perplexity-callout-secondary-label-2 = Sym zrozumił
 
+## Account Adoption Passwords callout strings
+
+
 ## Sidebar Strings
 
 sidebar-button-callout-title = Titule rajtarkow w bóčnicy pokazać
@@ -124,6 +127,9 @@ vertical-tabs-callout-2-subtitle = Tute wuhotowanje wam spěšne skenowanje waš
 sidebar-pins-callout-title = Zhubjeće čaru swojich wažnych rajtarkow?
 sidebar-pins-callout-subtitle = Spytajśo je připjeć, štož je horjeka we wašej lisćinje rajtarkow wostaji. Klikńće z prawej tastu na rajtark, kotryž chceće připjeć a wubjerće potom Rajtark připjeć.
 sidebar-pins-callout-cta-button = Rajtark připinyć
+
+## Pinning Tabs Strings
+
 
 ## Sidebar Onboarding Strings
 

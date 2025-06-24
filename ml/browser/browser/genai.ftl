@@ -40,6 +40,9 @@ genai-options-show-shortcut =
 genai-options-hide-shortcut =
     .label = എഴുത്തു് തിരഞ്ഞെടുക്കുമ്പോഴു് കുറുക്കുവഴി മറയ്ക്കുക
 
+## Chatbot footer
+
+
 ## Chatbot onboarding
 
 genai-onboarding-primary = തുടരുക

@@ -108,6 +108,9 @@ genai-options-hide-shortcut =
 genai-options-about-chatbot =
     .label = O UI chatbotovima u { -brand-short-name(case: "loc") }
 
+## Chatbot footer
+
+
 ## Chatbot onboarding
 
 genai-onboarding-header = Sažimaj, skupljaj ideje i još mnogo toga dok pregledavaš

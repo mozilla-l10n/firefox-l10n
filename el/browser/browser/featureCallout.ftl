@@ -104,6 +104,9 @@ perplexity-callout-primary-label = Ρωτήστε το Perplexity
 perplexity-callout-secondary-label-1 = Απόρριψη
 perplexity-callout-secondary-label-2 = Το κατάλαβα
 
+## Account Adoption Passwords callout strings
+
+
 ## Sidebar Strings
 
 sidebar-button-callout-title = Εμφάνιση τίτλων καρτελών στην πλαϊνή γραμμή
@@ -124,6 +127,9 @@ vertical-tabs-callout-2-subtitle = Αυτή η διάταξη διευκολύν
 sidebar-pins-callout-title = Χάνετε τις σημαντικές σας καρτέλες;
 sidebar-pins-callout-subtitle = Δοκιμάστε να τις καρφιτσώσετε, ώστε να παραμένουν στο πάνω μέρος της λίστας των καρτελών. Κάντε δεξί κλικ στην καρτέλα που θέλετε να καρφιτσώσετε και επιλέξτε «Καρφίτσωμα καρτέλας».
 sidebar-pins-callout-cta-button = Καρφίτσωμα καρτέλας
+
+## Pinning Tabs Strings
+
 
 ## Sidebar Onboarding Strings
 

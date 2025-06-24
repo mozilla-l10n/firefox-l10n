@@ -65,6 +65,9 @@ genai-options-hide-shortcut =
 genai-options-about-chatbot =
     .label = Informatziones in pitzus de is chatbots de IA de { -brand-short-name }
 
+## Chatbot footer
+
+
 ## Chatbot onboarding
 
 genai-onboarding-primary = Sighi

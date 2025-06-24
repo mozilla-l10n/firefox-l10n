@@ -110,6 +110,9 @@ genai-options-hide-shortcut =
 genai-options-about-chatbot =
     .label = Wo chatbotach w { -brand-short-name }
 
+## Chatbot footer
+
+
 ## Chatbot onboarding
 
 genai-onboarding-header = Zjimać, namakanje idejow a wjace, hdyž přehladujeće

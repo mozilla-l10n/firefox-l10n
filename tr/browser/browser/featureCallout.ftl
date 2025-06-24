@@ -104,6 +104,9 @@ perplexity-callout-primary-label = Perplexity’ye sorun
 perplexity-callout-secondary-label-1 = Kapat
 perplexity-callout-secondary-label-2 = Anladım
 
+## Account Adoption Passwords callout strings
+
+
 ## Sidebar Strings
 
 sidebar-button-callout-title = Sekme başlıklarını kenar çubuğunda göster
@@ -124,6 +127,9 @@ vertical-tabs-callout-2-subtitle = Bu düzen, sekme listenize hızlıca göz atm
 sidebar-pins-callout-title = Önemli sekmelerinizi gözden kaçırıyor musunuz?
 sidebar-pins-callout-subtitle = Sekmeleri sabitleyerek onları listenin en başına alabilirsiniz. Sabitlemek istediğiniz sekmeye sağ tıklayıp “Sekmeyi sabitle”yi seçin.
 sidebar-pins-callout-cta-button = Sekmeyi sabitle
+
+## Pinning Tabs Strings
+
 
 ## Sidebar Onboarding Strings
 

@@ -1284,5 +1284,3 @@ file-picker-crashed-show-in-folder =
 ## Onboarding Finish Setup checklist
 
 onboarding-checklist-button-label = Finìs la configurazion
-onboarding-finish-setup-button-label =
-    .label = Finìs la configurazion

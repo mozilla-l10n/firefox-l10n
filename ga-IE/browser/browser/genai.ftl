@@ -29,6 +29,9 @@ genai-header-options-button =
 genai-header-close-button =
     .title = Dún
 
+## Chatbot footer
+
+
 ## Chatbot onboarding
 
 genai-onboarding-chatgpt-tooltip =

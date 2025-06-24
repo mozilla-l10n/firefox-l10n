@@ -34,6 +34,9 @@ genai-header-options-button =
 genai-header-close-button =
     .title = أغلق
 
+## Chatbot footer
+
+
 ## Chatbot onboarding
 
 genai-onboarding-primary = واصِل

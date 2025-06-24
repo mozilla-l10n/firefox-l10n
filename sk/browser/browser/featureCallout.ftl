@@ -104,6 +104,9 @@ perplexity-callout-primary-label = Opýtajte sa Perplexity
 perplexity-callout-secondary-label-1 = Zavrieť
 perplexity-callout-secondary-label-2 = Rozumiem
 
+## Account Adoption Passwords callout strings
+
+
 ## Sidebar Strings
 
 sidebar-button-callout-title = Zobrazovať názvy kariet na bočnom paneli
@@ -124,6 +127,9 @@ vertical-tabs-callout-2-subtitle = Toto rozloženie uľahčuje rýchle skenovani
 sidebar-pins-callout-title = Strácate prehľad o svojich dôležitých kartách?
 sidebar-pins-callout-subtitle = Skúste ich pripnúť, vďaka čomu budú na začiatku zoznamu kariet. Kliknite pravým tlačidlom myši na kartu, ktorú chcete pripnúť, a potom vyberte položku Pripnúť kartu.
 sidebar-pins-callout-cta-button = Pripnúť kartu
+
+## Pinning Tabs Strings
+
 
 ## Sidebar Onboarding Strings
 

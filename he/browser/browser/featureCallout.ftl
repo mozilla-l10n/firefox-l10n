@@ -89,6 +89,9 @@ perplexity-callout-primary-label = לשאול את Perplexity
 perplexity-callout-secondary-label-1 = סגירה
 perplexity-callout-secondary-label-2 = הבנתי
 
+## Account Adoption Passwords callout strings
+
+
 ## Sidebar Strings
 
 sidebar-button-callout-title = הצגת כותרות של לשוניות בסרגל הצד
@@ -109,6 +112,9 @@ vertical-tabs-callout-2-subtitle = פריסה זו מקלה על סריקה מה
 sidebar-pins-callout-title = התחלת לאבד מעקב אחרי הלשוניות החשובות שלך?
 sidebar-pins-callout-subtitle = ניתן לנסות לנעוץ אותם, מה שמשאיר אותם בראש רשימת הלשוניות שלך. עושים זאת על־ידי לחיצה על לחצן העכבר הימני על לשונית שברצונך להצמיד, ולאחר מכן בחירה באפשרות ״נעיצת לשונית״.
 sidebar-pins-callout-cta-button = נעיצת לשונית
+
+## Pinning Tabs Strings
+
 
 ## Sidebar Onboarding Strings
 

@@ -104,6 +104,9 @@ perplexity-callout-primary-label = Demandu al Perplexity
 perplexity-callout-secondary-label-1 = Ignori
 perplexity-callout-secondary-label-2 = Mi komprenis
 
+## Account Adoption Passwords callout strings
+
+
 ## Sidebar Strings
 
 sidebar-button-callout-title = Montri titolojn de langetoj en la flanka strio
@@ -124,6 +127,9 @@ vertical-tabs-callout-2-subtitle = Tiu aranĝo permesas rapidan trarigardon de v
 sidebar-pins-callout-title = Ĉu vi ne plu facile retrovas viajn gravajn langetojn?
 sidebar-pins-callout-subtitle = Provu alplingli ilin, kio tenas ilin ĉe la komenco de via listo de langetoj. Alklaku per la deksta butono la alpinglotan langeton kaj poste elektu Alpingli langeton.
 sidebar-pins-callout-cta-button = Alpingli langeton
+
+## Pinning Tabs Strings
+
 
 ## Sidebar Onboarding Strings
 

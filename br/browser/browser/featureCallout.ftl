@@ -81,6 +81,9 @@ bookmarks-toolbar-callout-2a-secondary-button-label = Kuzhat ar varrenn ostilho�
 perplexity-callout-secondary-label-1 = Argas
 perplexity-callout-secondary-label-2 = Komprenet am eus
 
+## Account Adoption Passwords callout strings
+
+
 ## Sidebar Strings
 
 
@@ -91,6 +94,9 @@ vertical-tabs-callout-1-cta-button = Esaeit an ivinelloù a-serzh
 ## Sidebar Vertical Tabs Pinning Strings
 
 sidebar-pins-callout-cta-button = Spilhennañ an ivinell-mañ
+
+## Pinning Tabs Strings
+
 
 ## Sidebar Onboarding Strings
 

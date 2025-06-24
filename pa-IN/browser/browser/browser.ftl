@@ -1285,5 +1285,3 @@ file-picker-crashed-show-in-folder =
 ## Onboarding Finish Setup checklist
 
 onboarding-checklist-button-label = ਸੈਟਅੱਪ ਮੁਕੰਮਲ
-onboarding-finish-setup-button-label =
-    .label = ਸੈਟਅੱਪ ਮੁਕੰਮਲ

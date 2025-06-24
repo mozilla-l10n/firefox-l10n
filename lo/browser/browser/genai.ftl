@@ -58,6 +58,9 @@ genai-options-show-shortcut =
 genai-options-hide-shortcut =
     .label = ເຊື່ອງທາງລັດໃນເວລາເລືອກຂໍ້ຄວາມ
 
+## Chatbot footer
+
+
 ## Chatbot onboarding
 
 genai-onboarding-primary = ສືບຕໍ່

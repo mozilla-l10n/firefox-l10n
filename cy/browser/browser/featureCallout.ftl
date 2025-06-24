@@ -104,6 +104,9 @@ perplexity-callout-primary-label = Gofynnwch i Perplexity
 perplexity-callout-secondary-label-1 = Cau
 perplexity-callout-secondary-label-2 = Iawn
 
+## Account Adoption Passwords callout strings
+
+
 ## Sidebar Strings
 
 sidebar-button-callout-title = Dangos teitlau tabiau yn y bar ochr
@@ -124,6 +127,9 @@ vertical-tabs-callout-2-subtitle = Mae'r cynllun hwn yn ei gwneud hi'n hawdd sga
 sidebar-pins-callout-title = Colli golwg ar eich tabiau pwysig?
 sidebar-pins-callout-subtitle = Ceisiwch eu pinio, sy'n eu cadw ar frig eich rhestr o dabiau. De-gliciwch ar dab i'w binio, yna dewis Pinio Tab.
 sidebar-pins-callout-cta-button = Pinio Tab
+
+## Pinning Tabs Strings
+
 
 ## Sidebar Onboarding Strings
 

@@ -106,6 +106,9 @@ genai-options-hide-shortcut =
 genai-options-about-chatbot =
     .label = Informazions sui chatbots IA in { -brand-short-name }
 
+## Chatbot footer
+
+
 ## Chatbot onboarding
 
 genai-onboarding-header = Fâs un sunt, gjenere ideis e tant altri intant che tu navighis

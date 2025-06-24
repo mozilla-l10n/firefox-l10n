@@ -104,6 +104,9 @@ perplexity-callout-primary-label = Perplexity se pšašaś
 perplexity-callout-secondary-label-1 = Zachyśiś
 perplexity-callout-secondary-label-2 = Som zrozměł
 
+## Account Adoption Passwords callout strings
+
+
 ## Sidebar Strings
 
 sidebar-button-callout-title = Titele rejtarikow w bocnicy pokazaś
@@ -124,6 +127,9 @@ vertical-tabs-callout-2-subtitle = Toś to wugótowanje wam malsne scannowanje w
 sidebar-pins-callout-title = Zgubujośo ceru swójich wažnych rejtarikow?
 sidebar-pins-callout-subtitle = Wopytajśo je pśipněś, což je górjejce w swójej lisćinje rejtarikow wóstajijo. Klikniśo z pšaweju tastu na rejtarik, kótaryž cośo pśipněś a wubjeŕśo pón Rejtarik pśipněś.
 sidebar-pins-callout-cta-button = Rejtarik pśipěś
+
+## Pinning Tabs Strings
+
 
 ## Sidebar Onboarding Strings
 

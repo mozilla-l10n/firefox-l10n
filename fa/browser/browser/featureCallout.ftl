@@ -74,6 +74,9 @@ bookmarks-toolbar-callout-1-primary-button-label = افزودن نشانک
 
 perplexity-callout-primary-label = از پرپلکسیتی بپرسید
 
+## Account Adoption Passwords callout strings
+
+
 ## Sidebar Strings
 
 sidebar-button-callout-title = عنوان زبانه‌ها را در نوار کناری نشان بده
@@ -83,6 +86,9 @@ sidebar-button-callout-subtitle = از دکمه نوار کناری برای گ�
 
 
 ## Sidebar Vertical Tabs Pinning Strings
+
+
+## Pinning Tabs Strings
 
 
 ## Sidebar Onboarding Strings

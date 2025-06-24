@@ -31,6 +31,9 @@ fx-view-discoverability-subtitle = Găsește-le și redeschide-le rapid de aici.
 ## Perplexity callout strings
 
 
+## Account Adoption Passwords callout strings
+
+
 ## Sidebar Strings
 
 
@@ -38,6 +41,9 @@ fx-view-discoverability-subtitle = Găsește-le și redeschide-le rapid de aici.
 
 
 ## Sidebar Vertical Tabs Pinning Strings
+
+
+## Pinning Tabs Strings
 
 
 ## Sidebar Onboarding Strings

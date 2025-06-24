@@ -1307,5 +1307,3 @@ file-picker-crashed-show-in-folder =
 ## Onboarding Finish Setup checklist
 
 onboarding-checklist-button-label = Emohu’ã ñemboheko
-onboarding-finish-setup-button-label =
-    .label = Emohu’ã ñemboheko

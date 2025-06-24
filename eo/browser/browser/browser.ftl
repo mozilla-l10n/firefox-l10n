@@ -1283,5 +1283,3 @@ file-picker-crashed-show-in-folder =
 ## Onboarding Finish Setup checklist
 
 onboarding-checklist-button-label = Fini agordadon
-onboarding-finish-setup-button-label =
-    .label = Fini agordadon

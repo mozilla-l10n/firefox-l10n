@@ -63,6 +63,9 @@ genai-options-reload-provider =
 genai-options-about-chatbot =
     .label = { -brand-short-name } وچ اے آئی چیٹ بوٹاں بارے
 
+## Chatbot footer
+
+
 ## Chatbot onboarding
 
 genai-onboarding-primary = جاری

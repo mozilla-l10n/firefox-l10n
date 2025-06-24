@@ -104,6 +104,9 @@ perplexity-callout-primary-label = Hỏi Perplexity
 perplexity-callout-secondary-label-1 = Bỏ qua
 perplexity-callout-secondary-label-2 = Đã hiểu
 
+## Account Adoption Passwords callout strings
+
+
 ## Sidebar Strings
 
 sidebar-button-callout-title = Hiển thị tiêu đề thẻ trong thanh lề
@@ -124,6 +127,9 @@ vertical-tabs-callout-2-subtitle = Bố cục này giúp dễ dàng quét danh s
 sidebar-pins-callout-title = Quên các thẻ quan trọng của bạn?
 sidebar-pins-callout-subtitle = Hãy thử ghim chúng, giữ chúng ở đầu danh sách các thẻ của bạn. Nhấp chuột phải vào một thẻ bạn muốn ghim, sau đó chọn Ghim thẻ.
 sidebar-pins-callout-cta-button = Ghim thẻ
+
+## Pinning Tabs Strings
+
 
 ## Sidebar Onboarding Strings
 

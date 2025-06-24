@@ -105,6 +105,9 @@ genai-options-hide-shortcut =
 genai-options-about-chatbot =
     .label = Umi AI chatbots in { -brand-short-name }
 
+## Chatbot footer
+
+
 ## Chatbot onboarding
 
 genai-onboarding-header = Emombyky, akãngetaita ha hetave eikundaha aja

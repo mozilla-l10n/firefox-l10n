@@ -84,6 +84,9 @@ bookmarks-toolbar-callout-2b-secondary-button-label = Ez, eskerrik asko
 perplexity-callout-secondary-label-1 = Baztertu
 perplexity-callout-secondary-label-2 = Ulertuta
 
+## Account Adoption Passwords callout strings
+
+
 ## Sidebar Strings
 
 sidebar-button-callout-title = Erakutsi fitxen izenburuak alboko barran
@@ -104,6 +107,9 @@ vertical-tabs-callout-2-subtitle = Diseinu honekin erraza da zure fitxen zerrend
 sidebar-pins-callout-title = Zure fitxa garrantzitsuenak aurkitu ezinda zabiltza?
 sidebar-pins-callout-subtitle = Saiatu hauek ainguratzen, zure fitxen zerrendaren goiko partean manten daitezen. Ainguratzeko, egin eskuin-klika fitxan eta aukeratu 'Ainguratu fitxa'.
 sidebar-pins-callout-cta-button = Ainguratu fitxa
+
+## Pinning Tabs Strings
+
 
 ## Sidebar Onboarding Strings
 

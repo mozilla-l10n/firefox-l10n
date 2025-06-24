@@ -82,6 +82,9 @@ bookmarks-toolbar-callout-1-primary-button-label = Agiunghe sinnalibru
 ## Perplexity callout strings
 
 
+## Account Adoption Passwords callout strings
+
+
 ## Sidebar Strings
 
 sidebar-button-callout-title = Ammustra tìtulos de is ischedas in sa barra laterale
@@ -102,6 +105,9 @@ vertical-tabs-callout-2-subtitle = Custa dispositzione ti permitit de bìdere a 
 sidebar-pins-callout-title = Ti ses perdende is ischedas de importu?
 sidebar-pins-callout-subtitle = Proa a ddas apicare, pro chi abarrent in artu de sa lista de ischedas. Incarca cun su butone deretu in s’ischeda chi boles apicare, e pustis sèbera Apica s’ischeda.
 sidebar-pins-callout-cta-button = Apica s’ischeda
+
+## Pinning Tabs Strings
+
 
 ## Sidebar Onboarding Strings
 

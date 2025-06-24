@@ -124,6 +124,9 @@ perplexity-callout-primary-label = Zeptejte se Perplexity
 perplexity-callout-secondary-label-1 = Zavřít
 perplexity-callout-secondary-label-2 = Rozumím
 
+## Account Adoption Passwords callout strings
+
+
 ## Sidebar Strings
 
 sidebar-button-callout-title = Zobrazovat názvy panelů v postranní liště
@@ -144,6 +147,9 @@ vertical-tabs-callout-2-subtitle = Toto rozložení usnadňuje rychlé procháze
 sidebar-pins-callout-title = Ztrácíte přehled o důležitých panelech?
 sidebar-pins-callout-subtitle = Zkuste si je připnout, abyste je měli na začátku seznamu panelů. Klepněte pravým tlačítkem myši na panel, který chcete připnout, a vyberte možnost Připnout panel.
 sidebar-pins-callout-cta-button = Připnout panel
+
+## Pinning Tabs Strings
+
 
 ## Sidebar Onboarding Strings
 

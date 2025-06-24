@@ -104,6 +104,9 @@ perplexity-callout-primary-label = Perplexity에 질문
 perplexity-callout-secondary-label-1 = 닫기
 perplexity-callout-secondary-label-2 = 확인
 
+## Account Adoption Passwords callout strings
+
+
 ## Sidebar Strings
 
 sidebar-button-callout-title = 사이드바에 탭 제목 표시
@@ -124,6 +127,9 @@ vertical-tabs-callout-2-subtitle = 이 레이아웃을 사용하면 탭 목록�
 sidebar-pins-callout-title = 중요한 탭을 잃어버리셨나요?
 sidebar-pins-callout-subtitle = 탭 목록 상단에 유지되도록 고정해 보세요. 고정하려는 탭을 마우스 오른쪽 버튼으로 누른 다음 탭 고정을 선택하세요.
 sidebar-pins-callout-cta-button = 탭 고정
+
+## Pinning Tabs Strings
+
 
 ## Sidebar Onboarding Strings
 

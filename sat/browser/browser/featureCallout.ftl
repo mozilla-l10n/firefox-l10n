@@ -72,6 +72,9 @@ split-dismiss-button-manage-settings-option =
 ## Perplexity callout strings
 
 
+## Account Adoption Passwords callout strings
+
+
 ## Sidebar Strings
 
 sidebar-button-callout-title = ᱥᱟᱭᱤᱰᱵᱟᱨ ᱨᱮ ᱴᱮᱵᱽ ᱴᱟᱭᱤᱴᱟᱞ ᱩᱫᱩᱜ ᱢᱮ
@@ -81,6 +84,9 @@ sidebar-button-callout-subtitle = ᱥᱟᱭᱤᱰᱵᱟᱨ ᱯᱟᱥᱱᱟᱣ �
 
 
 ## Sidebar Vertical Tabs Pinning Strings
+
+
+## Pinning Tabs Strings
 
 
 ## Sidebar Onboarding Strings

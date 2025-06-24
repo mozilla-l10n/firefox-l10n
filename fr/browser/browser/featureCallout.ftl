@@ -104,6 +104,9 @@ perplexity-callout-primary-label = Demandez à Perplexity
 perplexity-callout-secondary-label-1 = Ignorer
 perplexity-callout-secondary-label-2 = J’ai compris
 
+## Account Adoption Passwords callout strings
+
+
 ## Sidebar Strings
 
 sidebar-button-callout-title = Afficher le titre des onglets dans le panneau latéral
@@ -124,6 +127,9 @@ vertical-tabs-callout-2-subtitle = Cette disposition facilite le contrôle rapid
 sidebar-pins-callout-title = Vous perdez la trace de vos onglets importants ?
 sidebar-pins-callout-subtitle = Essayez de les épingler pour les conserver en haut de la liste des onglets. Effectuez un clic droit sur un onglet que vous souhaitez épingler, puis choisissez Épingler cet onglet.
 sidebar-pins-callout-cta-button = Épingler cet onglet
+
+## Pinning Tabs Strings
+
 
 ## Sidebar Onboarding Strings
 

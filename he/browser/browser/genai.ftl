@@ -78,6 +78,9 @@ genai-options-hide-shortcut =
 genai-options-about-chatbot =
     .label = על אודות צ’אט בוטים של AI ב־{ -brand-short-name }
 
+## Chatbot footer
+
+
 ## Chatbot onboarding
 
 genai-onboarding-header = סיכום טקסט, סיעור מוחות ועוד תוך כדי גלישה

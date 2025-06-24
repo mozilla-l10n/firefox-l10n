@@ -43,6 +43,9 @@ split-dismiss-button-manage-settings-option =
 ## Perplexity callout strings
 
 
+## Account Adoption Passwords callout strings
+
+
 ## Sidebar Strings
 
 
@@ -51,6 +54,9 @@ split-dismiss-button-manage-settings-option =
 vertical-tabs-callout-2-cta-button = Féach anois é
 
 ## Sidebar Vertical Tabs Pinning Strings
+
+
+## Pinning Tabs Strings
 
 
 ## Sidebar Onboarding Strings

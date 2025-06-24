@@ -104,6 +104,9 @@ perplexity-callout-primary-label = 詢問 Perplexity
 perplexity-callout-secondary-label-1 = 知道了！
 perplexity-callout-secondary-label-2 = 知道了！
 
+## Account Adoption Passwords callout strings
+
+
 ## Sidebar Strings
 
 sidebar-button-callout-title = 在側邊欄顯示分頁標題
@@ -124,6 +127,9 @@ vertical-tabs-callout-2-subtitle = 此版面設計讓您可以只需一眼就輕
 sidebar-pins-callout-title = 覺得不容易管理重要分頁嗎？
 sidebar-pins-callout-subtitle = 可以對分頁按右鍵，選擇「釘選分頁」，讓這些重要分頁保留在清單頂部。
 sidebar-pins-callout-cta-button = 釘選分頁
+
+## Pinning Tabs Strings
+
 
 ## Sidebar Onboarding Strings
 

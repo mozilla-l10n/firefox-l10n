@@ -104,6 +104,9 @@ perplexity-callout-primary-label = Vprašaj Perplexity
 perplexity-callout-secondary-label-1 = Skrij
 perplexity-callout-secondary-label-2 = Razumem
 
+## Account Adoption Passwords callout strings
+
+
 ## Sidebar Strings
 
 sidebar-button-callout-title = V stranski vrstici prikaži naslove zavihkov
@@ -124,6 +127,9 @@ vertical-tabs-callout-2-subtitle = Ta postavitev olajša hitro pregledovanje sez
 sidebar-pins-callout-title = Izgubljate pregled nad pomembnimi zavihki?
 sidebar-pins-callout-subtitle = Poskusite jih pripeti na začetek seznama zavihkov. Z desno miškino tipko kliknite zavihek, ki ga želite pripeti, in izberite Pripni zavihek.
 sidebar-pins-callout-cta-button = Pripni zavihek
+
+## Pinning Tabs Strings
+
 
 ## Sidebar Onboarding Strings
 

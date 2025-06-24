@@ -1316,5 +1316,3 @@ file-picker-crashed-show-in-folder =
 ## Onboarding Finish Setup checklist
 
 onboarding-checklist-button-label = Завершити налаштування
-onboarding-finish-setup-button-label =
-    .label = Завершити налаштування

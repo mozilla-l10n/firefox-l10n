@@ -78,6 +78,9 @@ genai-options-hide-shortcut =
 genai-options-about-chatbot =
     .label = О AI чет-ботовима у { -brand-short-name }-у
 
+## Chatbot footer
+
+
 ## Chatbot onboarding
 
 genai-onboarding-header = Сажимајте, разрађујте идеје и још много тога док прегледате

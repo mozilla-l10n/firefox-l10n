@@ -95,6 +95,9 @@ perplexity-callout-primary-label = Perplexity сұрау
 perplexity-callout-secondary-label-1 = Елемеу
 perplexity-callout-secondary-label-2 = Түсіндім
 
+## Account Adoption Passwords callout strings
+
+
 ## Sidebar Strings
 
 sidebar-button-callout-title = Беттер атауларын бүйір панельде көрсету
@@ -112,6 +115,9 @@ vertical-tabs-callout-2-title = Көптеген беттерді ашық ұс�
 ## Sidebar Vertical Tabs Pinning Strings
 
 sidebar-pins-callout-cta-button = Бетті бекіту
+
+## Pinning Tabs Strings
+
 
 ## Sidebar Onboarding Strings
 

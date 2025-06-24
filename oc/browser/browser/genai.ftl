@@ -23,6 +23,9 @@ genai-header-options-button =
 genai-header-close-button =
     .title = Tampar
 
+## Chatbot footer
+
+
 ## Chatbot onboarding
 
 genai-onboarding-primary = Contunhar

@@ -104,6 +104,9 @@ perplexity-callout-primary-label = Pitaj Perplexity
 perplexity-callout-secondary-label-1 = Odbaci
 perplexity-callout-secondary-label-2 = Razumijem
 
+## Account Adoption Passwords callout strings
+
+
 ## Sidebar Strings
 
 sidebar-button-callout-title = Prikaži naslove kartica u bočnoj traci
@@ -124,6 +127,9 @@ vertical-tabs-callout-2-subtitle = Ovaj raspored olakšava brzo pregledavanje tv
 sidebar-pins-callout-title = Gubiš pregled nad tvojim važnim karticama?
 sidebar-pins-callout-subtitle = Pokušaj ih prikvačiti, što će ih zadržati na vrhu popisa kartica. Desnom tipkom miša klikni karticu koju želiš prikvačiti, a zatim odaberi funkciju „Prikvači karticu”.
 sidebar-pins-callout-cta-button = Prikvači karticu
+
+## Pinning Tabs Strings
+
 
 ## Sidebar Onboarding Strings
 

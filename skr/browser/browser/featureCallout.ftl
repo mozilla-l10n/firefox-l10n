@@ -71,6 +71,9 @@ split-dismiss-button-manage-settings-option =
 ## Perplexity callout strings
 
 
+## Account Adoption Passwords callout strings
+
+
 ## Sidebar Strings
 
 
@@ -78,6 +81,9 @@ split-dismiss-button-manage-settings-option =
 
 
 ## Sidebar Vertical Tabs Pinning Strings
+
+
+## Pinning Tabs Strings
 
 
 ## Sidebar Onboarding Strings

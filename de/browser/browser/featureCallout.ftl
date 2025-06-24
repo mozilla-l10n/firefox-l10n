@@ -104,6 +104,9 @@ perplexity-callout-primary-label = Perplexity fragen
 perplexity-callout-secondary-label-1 = Verwerfen
 perplexity-callout-secondary-label-2 = Verstanden
 
+## Account Adoption Passwords callout strings
+
+
 ## Sidebar Strings
 
 sidebar-button-callout-title = Tab-Titel in der Sidebar anzeigen
@@ -124,6 +127,9 @@ vertical-tabs-callout-2-subtitle = Dieses Layout erleichtert das schnelle Scanne
 sidebar-pins-callout-title = Verlieren Sie die Übersicht über Ihre wichtigen Tabs?
 sidebar-pins-callout-subtitle = Versuchen Sie, die Tabs anzuheften, damit sie weiter oben in der Liste Ihrer Tabs angezeigt werden. Klicken Sie mit der rechten Maustaste auf den Tab, den Sie anheften möchten, und wählen Sie dann "Tab anheften".
 sidebar-pins-callout-cta-button = Tab anheften
+
+## Pinning Tabs Strings
+
 
 ## Sidebar Onboarding Strings
 

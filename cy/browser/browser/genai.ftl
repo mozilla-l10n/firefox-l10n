@@ -114,6 +114,9 @@ genai-options-hide-shortcut =
 genai-options-about-chatbot =
     .label = Ynghylch y sgyrsfotiau AI yn { -brand-short-name }
 
+## Chatbot footer
+
+
 ## Chatbot onboarding
 
 genai-onboarding-header = Crynhoi, trafod syniadau, a mwy wrth i chi bori

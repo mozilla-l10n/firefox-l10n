@@ -104,6 +104,9 @@ perplexity-callout-primary-label = Vraag het Perplexity
 perplexity-callout-secondary-label-1 = Sluiten
 perplexity-callout-secondary-label-2 = Begrepen
 
+## Account Adoption Passwords callout strings
+
+
 ## Sidebar Strings
 
 sidebar-button-callout-title = Tabbladtitels in de zijbalk tonen
@@ -124,6 +127,9 @@ vertical-tabs-callout-2-subtitle = Deze indeling maakt het eenvoudig om snel uw 
 sidebar-pins-callout-title = Raakt u uw belangrijke tabbladen kwijt?
 sidebar-pins-callout-subtitle = Probeer ze vast te zetten, zodat ze bovenaan uw lijst met tabbladen blijven. Klik met de rechtermuisknop op een tabblad dat u wilt vastmaken en kies vervolgens Tabblad vastmaken.
 sidebar-pins-callout-cta-button = Tabblad vastmaken
+
+## Pinning Tabs Strings
+
 
 ## Sidebar Onboarding Strings
 

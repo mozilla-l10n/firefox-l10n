@@ -89,6 +89,9 @@ bookmarks-toolbar-callout-2a-secondary-button-label = Zuppentar la trav da simbo
 ## Perplexity callout strings
 
 
+## Account Adoption Passwords callout strings
+
+
 ## Sidebar Strings
 
 sidebar-button-callout-title = Mussar ils titels dals tabs en la panela laterala
@@ -109,6 +112,9 @@ vertical-tabs-callout-2-subtitle = Questa disposiziun renda simpel dad avair ina
 sidebar-pins-callout-title = Perdas ord vista tes tabs impurtants?
 sidebar-pins-callout-subtitle = Emprova d’als fixar; quai als tegna sisum sin la glista da tes tabs. Clicca cun la tasta dretga da la mieur sin in tab che ti vuls fixar e tscherna lura «Fixar il tab».
 sidebar-pins-callout-cta-button = Fixar il tab
+
+## Pinning Tabs Strings
+
 
 ## Sidebar Onboarding Strings
 

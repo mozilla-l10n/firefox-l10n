@@ -31,6 +31,9 @@ callout-primary-complete-button-label = យល់ហើយ!
 ## Perplexity callout strings
 
 
+## Account Adoption Passwords callout strings
+
+
 ## Sidebar Strings
 
 
@@ -38,6 +41,9 @@ callout-primary-complete-button-label = យល់ហើយ!
 
 
 ## Sidebar Vertical Tabs Pinning Strings
+
+
+## Pinning Tabs Strings
 
 
 ## Sidebar Onboarding Strings

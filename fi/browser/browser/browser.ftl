@@ -1284,5 +1284,3 @@ file-picker-crashed-show-in-folder =
 ## Onboarding Finish Setup checklist
 
 onboarding-checklist-button-label = Viimeistele määritys
-onboarding-finish-setup-button-label =
-    .label = Viimeistele määritys

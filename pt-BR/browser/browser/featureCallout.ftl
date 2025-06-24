@@ -104,6 +104,9 @@ perplexity-callout-primary-label = Pergunte ao Perplexity
 perplexity-callout-secondary-label-1 = Descartar
 perplexity-callout-secondary-label-2 = Entendi
 
+## Account Adoption Passwords callout strings
+
+
 ## Sidebar Strings
 
 sidebar-button-callout-title = Mostrar títulos de abas no painel lateral
@@ -124,6 +127,9 @@ vertical-tabs-callout-2-subtitle = Esse layout facilita examinar rapidamente a l
 sidebar-pins-callout-title = Está difícil encontrar suas abas mais importantes?
 sidebar-pins-callout-subtitle = Experimente fixar, mantendo no topo da lista de abas. Clique com o botão direito em uma aba e escolha Fixar aba.
 sidebar-pins-callout-cta-button = Fixar aba
+
+## Pinning Tabs Strings
+
 
 ## Sidebar Onboarding Strings
 

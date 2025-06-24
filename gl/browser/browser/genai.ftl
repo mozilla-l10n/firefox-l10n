@@ -39,6 +39,9 @@ genai-options-reload-provider =
 genai-options-hide-shortcut =
     .label = Ocultar o atallo ao seleccionar texto
 
+## Chatbot footer
+
+
 ## Chatbot onboarding
 
 genai-onboarding-primary = Continuar

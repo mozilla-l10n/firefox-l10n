@@ -104,6 +104,9 @@ perplexity-callout-primary-label = Pitajte Perplexity
 perplexity-callout-secondary-label-1 = Odbaci
 perplexity-callout-secondary-label-2 = Razumijem
 
+## Account Adoption Passwords callout strings
+
+
 ## Sidebar Strings
 
 sidebar-button-callout-title = Prikaži naslove tabove na bočnoj traci
@@ -124,6 +127,9 @@ vertical-tabs-callout-2-subtitle = Ovaj raspored olakšava brzo skeniranje liste
 sidebar-pins-callout-title = Gubite li pregled važnih tabova?
 sidebar-pins-callout-subtitle = Pokušajte ih zakačiti, što će ih zadržati na vrhu liste tabova. Kliknite desnim tasterom miša na tab koji želite zakačiti, a zatim odaberite Zakači tab.
 sidebar-pins-callout-cta-button = Zakači tab
+
+## Pinning Tabs Strings
+
 
 ## Sidebar Onboarding Strings
 

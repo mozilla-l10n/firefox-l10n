@@ -72,6 +72,9 @@ split-dismiss-button-manage-settings-option =
 ## Perplexity callout strings
 
 
+## Account Adoption Passwords callout strings
+
+
 ## Sidebar Strings
 
 sidebar-button-callout-title = Заглавия на разделите в страничната лента
@@ -85,6 +88,9 @@ vertical-tabs-callout-2-cta-button = Опитайте сега
 vertical-tabs-callout-2-title = Дръжте ли много отворени раздели? Опитайте с вертикални раздели.
 
 ## Sidebar Vertical Tabs Pinning Strings
+
+
+## Pinning Tabs Strings
 
 
 ## Sidebar Onboarding Strings

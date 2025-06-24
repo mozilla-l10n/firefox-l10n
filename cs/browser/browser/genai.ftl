@@ -118,6 +118,9 @@ genai-options-about-chatbot =
            *[no-cases] O AI chatbotech v aplikaci { -brand-short-name }
         }
 
+## Chatbot footer
+
+
 ## Chatbot onboarding
 
 genai-onboarding-header = Shrnutí, brainstorming a mnohem více při procházení webu

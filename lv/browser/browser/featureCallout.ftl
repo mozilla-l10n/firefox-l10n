@@ -72,6 +72,9 @@ split-dismiss-button-manage-settings-option =
 ## Perplexity callout strings
 
 
+## Account Adoption Passwords callout strings
+
+
 ## Sidebar Strings
 
 sidebar-button-callout-title = Sānjoslā rādīt ciļņu virsrakstus
@@ -81,6 +84,9 @@ sidebar-button-callout-subtitle = Izmantojiet sānjoslas pogu, lai izvērstu sā
 
 
 ## Sidebar Vertical Tabs Pinning Strings
+
+
+## Pinning Tabs Strings
 
 
 ## Sidebar Onboarding Strings

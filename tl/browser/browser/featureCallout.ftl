@@ -48,6 +48,9 @@ continuous-onboarding-firefox-view-tab-pickup-primary-button-label = Magsimula
 ## Perplexity callout strings
 
 
+## Account Adoption Passwords callout strings
+
+
 ## Sidebar Strings
 
 
@@ -55,6 +58,9 @@ continuous-onboarding-firefox-view-tab-pickup-primary-button-label = Magsimula
 
 
 ## Sidebar Vertical Tabs Pinning Strings
+
+
+## Pinning Tabs Strings
 
 
 ## Sidebar Onboarding Strings

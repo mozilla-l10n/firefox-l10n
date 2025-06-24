@@ -33,6 +33,9 @@ genai-options-show-shortcut =
 genai-options-hide-shortcut =
     .label = پنهان کردن میانبر هنگام انتخاب متن
 
+## Chatbot footer
+
+
 ## Chatbot onboarding
 
 genai-onboarding-primary = ادامه

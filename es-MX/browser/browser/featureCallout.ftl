@@ -72,6 +72,9 @@ split-dismiss-button-manage-settings-option =
 ## Perplexity callout strings
 
 
+## Account Adoption Passwords callout strings
+
+
 ## Sidebar Strings
 
 sidebar-button-callout-title = Mostrar títulos de las pestañas en la barra lateral
@@ -82,6 +85,9 @@ sidebar-button-callout-vertical-tabs = Para mostrar tus pestañas, selecciona el
 
 
 ## Sidebar Vertical Tabs Pinning Strings
+
+
+## Pinning Tabs Strings
 
 
 ## Sidebar Onboarding Strings

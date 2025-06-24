@@ -104,6 +104,9 @@ perplexity-callout-primary-label = Ask Perplexity
 perplexity-callout-secondary-label-1 = Dismiss
 perplexity-callout-secondary-label-2 = Got it
 
+## Account Adoption Passwords callout strings
+
+
 ## Sidebar Strings
 
 sidebar-button-callout-title = Show tab titles in the sidebar
@@ -124,6 +127,9 @@ vertical-tabs-callout-2-subtitle = This layout makes it easy to quickly scan you
 sidebar-pins-callout-title = Losing track of your important tabs?
 sidebar-pins-callout-subtitle = Try pinning them, which keeps them at the top of your list of tabs. Right-click on a tab you want to pin, then choose Pin Tab.
 sidebar-pins-callout-cta-button = Pin tab
+
+## Pinning Tabs Strings
+
 
 ## Sidebar Onboarding Strings
 

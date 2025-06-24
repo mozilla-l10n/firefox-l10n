@@ -104,6 +104,9 @@ perplexity-callout-primary-label = Domande a Perplexity
 perplexity-callout-secondary-label-1 = Siere
 perplexity-callout-secondary-label-2 = Capît
 
+## Account Adoption Passwords callout strings
+
+
 ## Sidebar Strings
 
 sidebar-button-callout-title = Mostre i titui des schedis te sbare laterâl
@@ -124,6 +127,9 @@ vertical-tabs-callout-2-subtitle = Cheste disposizion ti permet di esaminâ intu
 sidebar-pins-callout-title = Pierdistu il segn des schedis plui impuartantis?
 sidebar-pins-callout-subtitle = Prove a fissâlis, in chest mût tu lis tegnis simpri insom de liste des schedis. Fâs clic cul boton diestri dal mouse suntune schede, duncje sielç Fisse schede.
 sidebar-pins-callout-cta-button = Fisse schede
+
+## Pinning Tabs Strings
+
 
 ## Sidebar Onboarding Strings
 

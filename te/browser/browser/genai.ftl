@@ -21,6 +21,9 @@
 genai-header-close-button =
     .title = మూసివేయి
 
+## Chatbot footer
+
+
 ## Chatbot onboarding
 
 genai-onboarding-primary = కొనసాగించు

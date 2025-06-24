@@ -56,6 +56,9 @@ genai-options-hide-shortcut =
 genai-options-about-chatbot =
     .label = Ɣef AI chatbots deg { -brand-short-name }
 
+## Chatbot footer
+
+
 ## Chatbot onboarding
 
 genai-onboarding-primary = Kemmel

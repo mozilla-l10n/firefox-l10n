@@ -95,6 +95,9 @@ bookmarks-toolbar-callout-2b-secondary-button-label = Nie, dziękuję
 ## Perplexity callout strings
 
 
+## Account Adoption Passwords callout strings
+
+
 ## Sidebar Strings
 
 sidebar-button-callout-title = Widoczne tytuły kart na panelu bocznym
@@ -115,6 +118,9 @@ vertical-tabs-callout-2-subtitle = Ten układ ułatwia szybkie przejrzenie listy
 sidebar-pins-callout-title = Gubisz ważne karty?
 sidebar-pins-callout-subtitle = Spróbuj je przypiąć, dzięki czemu będą na górze listy kart. Kliknij wybraną kartę prawym przyciskiem myszy, a następnie wybierz „Przypnij kartę”.
 sidebar-pins-callout-cta-button = Przypnij kartę
+
+## Pinning Tabs Strings
+
 
 ## Sidebar Onboarding Strings
 

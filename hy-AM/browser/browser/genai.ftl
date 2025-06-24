@@ -63,6 +63,9 @@ genai-options-hide-shortcut =
 genai-options-about-chatbot =
     .label = ԱԲ չաթբոտերի մասին { -brand-short-name }-ում
 
+## Chatbot footer
+
+
 ## Chatbot onboarding
 
 genai-onboarding-header = Ամփոփեք, մտագրոհ և ավելին դիտարկման ընթացքում

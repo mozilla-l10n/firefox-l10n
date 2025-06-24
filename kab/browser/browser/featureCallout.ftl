@@ -84,6 +84,9 @@ bookmarks-toolbar-callout-2b-secondary-button-label = Ala, tanemmirt
 perplexity-callout-secondary-label-1 = Zgel
 perplexity-callout-secondary-label-2 = Awi-t
 
+## Account Adoption Passwords callout strings
+
+
 ## Sidebar Strings
 
 sidebar-button-callout-title = Sken izwal n waccaren deg ufeggag adisan
@@ -96,6 +99,9 @@ vertical-tabs-callout-2-cta-button = Ԑreḍ tura
 ## Sidebar Vertical Tabs Pinning Strings
 
 sidebar-pins-callout-cta-button = Rzi iccer
+
+## Pinning Tabs Strings
+
 
 ## Sidebar Onboarding Strings
 

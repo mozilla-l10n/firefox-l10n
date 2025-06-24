@@ -98,6 +98,9 @@ genai-options-hide-shortcut =
 genai-options-about-chatbot =
     .label = 關於 { -brand-short-name } 的 AI 聊天機器人功能
 
+## Chatbot footer
+
+
 ## Chatbot onboarding
 
 genai-onboarding-header = 一邊上網，一邊摘要、腦力激盪，還有更多功能

@@ -1298,5 +1298,3 @@ file-picker-crashed-show-in-folder =
 ## Onboarding Finish Setup checklist
 
 onboarding-checklist-button-label = 설정 완료
-onboarding-finish-setup-button-label =
-    .label = 설정 완료

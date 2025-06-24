@@ -104,6 +104,9 @@ perplexity-callout-primary-label = Demanda a Perplexity.
 perplexity-callout-secondary-label-1 = Dimitter
 perplexity-callout-secondary-label-2 = Comprendite
 
+## Account Adoption Passwords callout strings
+
+
 ## Sidebar Strings
 
 sidebar-button-callout-title = Monstrar titulos de scheda in le barra lateral
@@ -124,6 +127,9 @@ vertical-tabs-callout-2-subtitle = Iste disposition rende facile scander rapidem
 sidebar-pins-callout-title = Perde tu tracia de tu schedas importante?
 sidebar-pins-callout-subtitle = Tentar fixar los, que los mantene al culmine de tu lista de schedas. Clicca dextre sur un scheda que tu vole fixar, pois selige Fixar scheda.
 sidebar-pins-callout-cta-button = Clavar le scheda
+
+## Pinning Tabs Strings
+
 
 ## Sidebar Onboarding Strings
 

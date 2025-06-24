@@ -98,6 +98,9 @@ genai-options-hide-shortcut =
 genai-options-about-chatbot =
     .label = Tentang bot obrolan AI dalam { -brand-short-name }
 
+## Chatbot footer
+
+
 ## Chatbot onboarding
 
 genai-onboarding-header = Meringkas, bertukar pikiran, dan banyak lagi saat Anda menjelajah

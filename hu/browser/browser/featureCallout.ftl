@@ -104,6 +104,9 @@ perplexity-callout-primary-label = Kérdezze a Perplexityt
 perplexity-callout-secondary-label-1 = Eltüntetés
 perplexity-callout-secondary-label-2 = Megértettem
 
+## Account Adoption Passwords callout strings
+
+
 ## Sidebar Strings
 
 sidebar-button-callout-title = Lapcímek megjelenítése az oldalsávban
@@ -124,6 +127,9 @@ vertical-tabs-callout-2-subtitle = Ez az elrendezés megkönnyíti a lapok list�
 sidebar-pins-callout-title = Nem tudja követni a fontos lapjait?
 sidebar-pins-callout-subtitle = Próbálja meg őket rögzíteni, így a laplista tetején maradnak. Kattintson jobb gombbal a rögzítendő lapra, majd válassza a Lap rögzítése menüpontot.
 sidebar-pins-callout-cta-button = Lap rögzítése
+
+## Pinning Tabs Strings
+
 
 ## Sidebar Onboarding Strings
 

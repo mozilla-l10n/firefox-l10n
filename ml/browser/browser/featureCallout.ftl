@@ -68,6 +68,9 @@ bookmarks-toolbar-callout-2b-secondary-button-label = വേണ്ട, നന്
 perplexity-callout-secondary-label-1 = കളയുക
 perplexity-callout-secondary-label-2 = മനസ്സിലായി
 
+## Account Adoption Passwords callout strings
+
+
 ## Sidebar Strings
 
 sidebar-button-callout-title = അണിവക്കത്തിൽ ടാബുതലക്കെട്ടുകൾ കാണിക്കുക
@@ -82,6 +85,9 @@ vertical-tabs-callout-2-cta-button = ഇപ്പോൾ ശ്രമിച്ച
 ## Sidebar Vertical Tabs Pinning Strings
 
 sidebar-pins-callout-cta-button = ടാബിൽ കുത്തിസൂചിയിടുക
+
+## Pinning Tabs Strings
+
 
 ## Sidebar Onboarding Strings
 

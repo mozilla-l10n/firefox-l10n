@@ -1286,5 +1286,3 @@ file-picker-crashed-show-in-folder =
 ## Onboarding Finish Setup checklist
 
 onboarding-checklist-button-label = Ljúka uppsetningu
-onboarding-finish-setup-button-label =
-    .label = Ljúka uppsetningu

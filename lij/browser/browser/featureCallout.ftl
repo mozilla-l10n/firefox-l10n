@@ -33,6 +33,9 @@ callout-pdfjs-draw-button = Reçevuo!
 ## Perplexity callout strings
 
 
+## Account Adoption Passwords callout strings
+
+
 ## Sidebar Strings
 
 
@@ -40,6 +43,9 @@ callout-pdfjs-draw-button = Reçevuo!
 
 
 ## Sidebar Vertical Tabs Pinning Strings
+
+
+## Pinning Tabs Strings
 
 
 ## Sidebar Onboarding Strings

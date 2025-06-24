@@ -104,6 +104,9 @@ perplexity-callout-primary-label = Аз «Perplexity» пурсед
 perplexity-callout-secondary-label-1 = Нодида гузарондан
 perplexity-callout-secondary-label-2 = Фаҳмидам
 
+## Account Adoption Passwords callout strings
+
+
 ## Sidebar Strings
 
 sidebar-button-callout-title = Нишон додани сарлавҳаҳои варақаҳо дар навори ҷонибӣ
@@ -124,6 +127,9 @@ vertical-tabs-callout-2-subtitle = Ин тарҳбандӣ ҷустуҷӯи зу
 sidebar-pins-callout-title = Варақаҳои муҳим ё лозимаи худро доим гум мекунед?
 sidebar-pins-callout-subtitle = Кӯшиш кунед, ки онҳоро васл намоед, то онҳо дар ин ҳолат дар болои рӯйхати варақаҳои шумо ҷойи аввал гиранд. Ба варақае, ки мехоҳед васл кунед, бо тугмаи рости муш зер намоед, баъд имкони «Васл кардани варақа»-ро интихоб намоед.
 sidebar-pins-callout-cta-button = Васл кардани варақа
+
+## Pinning Tabs Strings
+
 
 ## Sidebar Onboarding Strings
 

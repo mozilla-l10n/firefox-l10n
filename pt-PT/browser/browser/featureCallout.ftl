@@ -104,6 +104,9 @@ perplexity-callout-primary-label = Pergunte ao Perflexity
 perplexity-callout-secondary-label-1 = Ignorar
 perplexity-callout-secondary-label-2 = Percebi
 
+## Account Adoption Passwords callout strings
+
+
 ## Sidebar Strings
 
 sidebar-button-callout-title = Mostrar títulos de separadores na barra lateral
@@ -124,6 +127,9 @@ vertical-tabs-callout-2-subtitle = Este esquema facilita a verificação rápida
 sidebar-pins-callout-title = Perdeu a noção dos seus separadores importantes?
 sidebar-pins-callout-subtitle = Experimente fixá-los para os manter no topo da sua lista de separadores. Clique com o botão direito num separador que pretende fixar e escolha Fixar separador.
 sidebar-pins-callout-cta-button = Fixar separador
+
+## Pinning Tabs Strings
+
 
 ## Sidebar Onboarding Strings
 

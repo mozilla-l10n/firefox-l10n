@@ -83,6 +83,9 @@ genai-options-hide-shortcut =
 genai-options-about-chatbot =
     .label = { -brand-short-name } ішіндегі ЖИ чат-боттары туралы
 
+## Chatbot footer
+
+
 ## Chatbot onboarding
 
 genai-onboarding-header = Шолу кезінде қорытындылау, ми шабуылын жасау және т.б

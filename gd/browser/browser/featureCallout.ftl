@@ -72,6 +72,9 @@ split-dismiss-button-manage-settings-option =
 ## Perplexity callout strings
 
 
+## Account Adoption Passwords callout strings
+
+
 ## Sidebar Strings
 
 sidebar-button-callout-title = Seall ainmean nan tabaichean air a’ bhàr-taoibh
@@ -81,6 +84,9 @@ sidebar-button-callout-subtitle = Cleachd putan a’ bhàr-taoibh airson am bàr
 
 
 ## Sidebar Vertical Tabs Pinning Strings
+
+
+## Pinning Tabs Strings
 
 
 ## Sidebar Onboarding Strings

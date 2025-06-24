@@ -1306,5 +1306,3 @@ file-picker-crashed-show-in-folder =
 ## Onboarding Finish Setup checklist
 
 onboarding-checklist-button-label = Ба анҷом расонидани танзимот
-onboarding-finish-setup-button-label =
-    .label = Ба анҷом расонидани танзимот

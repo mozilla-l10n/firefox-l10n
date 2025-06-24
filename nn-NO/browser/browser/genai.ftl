@@ -101,6 +101,9 @@ genai-options-hide-shortcut =
 genai-options-about-chatbot =
     .label = Om AI-samtalerobotar i { -brand-short-name }
 
+## Chatbot footer
+
+
 ## Chatbot onboarding
 
 genai-onboarding-header = Samanfatt, ha ein idédugnad, og meir medan du surfar

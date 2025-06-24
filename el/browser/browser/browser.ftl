@@ -1306,5 +1306,3 @@ file-picker-crashed-show-in-folder =
 ## Onboarding Finish Setup checklist
 
 onboarding-checklist-button-label = Ολοκλήρωση ρύθμισης
-onboarding-finish-setup-button-label =
-    .label = Ολοκλήρωση ρύθμισης

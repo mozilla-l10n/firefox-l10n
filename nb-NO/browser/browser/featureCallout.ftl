@@ -104,6 +104,9 @@ perplexity-callout-primary-label = Spør Perplexity
 perplexity-callout-secondary-label-1 = Ignorer
 perplexity-callout-secondary-label-2 = Jeg forstår
 
+## Account Adoption Passwords callout strings
+
+
 ## Sidebar Strings
 
 sidebar-button-callout-title = Vis fanetitler i sidestolpen
@@ -124,6 +127,9 @@ vertical-tabs-callout-2-subtitle = Denne måten å vise faner på gjør det lett
 sidebar-pins-callout-title = Mister du oversikten over viktige faner?
 sidebar-pins-callout-subtitle = Prøv å feste dem, noe som holder dem øverst på listen over faner. Høyreklikk på en fane du vil feste, og velg Fest fane.
 sidebar-pins-callout-cta-button = Fest fane
+
+## Pinning Tabs Strings
+
 
 ## Sidebar Onboarding Strings
 
