@@ -261,6 +261,22 @@ contextual-manager-view-alert-heading =
     .heading = Visualizza avviso
 contextual-manager-view-alert-button =
     .tooltiptext = Esamina avviso
+# Variables
+#   $count (number) - The number of active alerts associated with the login
+contextual-manager-view-alert-heading-2 =
+    .heading =
+        { $count ->
+            [1] Visualizza avviso
+           *[other] Visualizza avvisi
+        }
+# Variables
+#   $count (number) - The number of active alerts associated with the login
+contextual-manager-view-alert-button-2 =
+    .tooltiptext =
+        { $count ->
+            [1] Esamina avviso
+           *[other] Esamina avvisi
+        }
 contextual-manager-show-password-button =
     .aria-label = Mostra password
     .title = Mostra password
