@@ -611,6 +611,10 @@ urlbar-search-mode-indicator-close =
 # engine is unknown.
 urlbar-placeholder =
     .placeholder = Нишониеро ҷустуҷӯ кунед ё ворид намоед
+# This placeholder is used when not in search mode and searching in the urlbar
+# is disabled via the keyword.enabled pref.
+urlbar-placeholder-keyword-disabled =
+    .placeholder = Нишониеро ворид намоед
 # This placeholder is used in search mode with search engines that search the
 # entire web.
 # Variables
@@ -1306,3 +1310,6 @@ file-picker-crashed-show-in-folder =
 ## Onboarding Finish Setup checklist
 
 onboarding-checklist-button-label = Ба анҷом расонидани танзимот
+onboarding-aw-finish-setup-button =
+    .label = Ба анҷом расонидани танзимот
+    .tooltiptext = Ба анҷом расонидани танзимоти «{ -brand-short-name }»
