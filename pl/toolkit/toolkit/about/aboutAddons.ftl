@@ -577,7 +577,7 @@ mlmodel-smart-tab-embedding-engine = { -brand-short-name } używa tego do podpow
 addon-category-mlmodel = Sztuczna inteligencja na urządzeniu
 addon-category-mlmodel-title =
     .title = Sztuczna inteligencja na urządzeniu
-mlmodel-heading = Zarządzaj modelami sztucznej inteligencji na urządzeniu
+mlmodel-heading = Zarządzanie modelami sztucznej inteligencji na urządzeniu
 mlmodel-description = Niektóre funkcje i rozszerzenia { -brand-short-name(case: "gen") } korzystają z modeli sztucznej inteligencji działających lokalnie na Twoim urządzeniu. Takie podejście chroni Twoją prywatność i w wielu przypadkach przyspiesza działanie. <a data-l10n-name="learn-more">Więcej informacji</a>
 # Label for button that when clicked removed local model
 mlmodel-remove-addon-button =
