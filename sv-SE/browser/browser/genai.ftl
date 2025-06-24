@@ -64,7 +64,7 @@ genai-menu-remove-provider =
 genai-menu-remove-sidebar =
     .label = Ta bort från sidofält
 genai-menu-new-badge = Ny
-genai-menu-summarize-page = Sammanfattande sida
+genai-menu-summarize-page = Sammanfatta sida
 genai-input-ask-generic =
     .placeholder = Fråga AI chatbot…
 # $provider (string) - name of the provider
@@ -119,7 +119,7 @@ genai-options-about-chatbot =
 
 ## Chatbot footer
 
-genai-page-button-summarize = Sammanfattande sida
+genai-page-button-summarize = Sammanfatta sida
 
 ## Chatbot onboarding
 
@@ -156,8 +156,13 @@ genai-chatbot-contextual-title = Använd en AI chatbot utan att byta flikar
 genai-chatbot-contextual-subtitle = Chatta och surfa sida vid sida när du lägger till en AI-chatbot i sidofältet { -brand-short-name }.
 genai-chatbot-contextual-button = Välj en chatbot
 genai-chatbot-summarize-title = Nyhet! Sammanfatta sidor med ett klick
+genai-chatbot-summarize-button = Sammanfatta sida
 # “Summarize Page” should be consistent with the translation for the string genai-menu-summarize-page
 genai-chatbot-summarize-sidebar-provider-subtitle = Högerklicka på din AI chatbot i sidofältet och välj "Sammanfatta sida".
+# “Summarize Page” should be consistent with the translation for the string genai-menu-summarize-page
+genai-chatbot-summarize-sidebar-generic-subtitle = Högerklicka på gnistor-knappen i sidofältet och välj "Sammanfatta sida". Första gången väljer du också en AI-chatbot.
+# “Summarize page” should be consistent with the translation for the string genai-page-button-summarize
+genai-chatbot-summarize-footer-provider-subtitle = Öppna din AI-chatbot i sidofältet och välj "Sammanfatta sida" längst ner.
 genai-chatbot-summarize-footer-generic-subtitle = Lägg till en AI-chatbot i sidofältet i { -brand-short-name } för att snabbt sammanfatta sidor.
 
 ## Chatbot onboarding choices
