@@ -8,6 +8,9 @@
 newtab-page-title = Nowa karta
 newtab-settings-button =
     .title = Dostosuj stronę nowej karty
+newtab-customize-panel-icon-button =
+    .title = Dostosuj tę stronę
+newtab-customize-panel-icon-button-label = Dostosuj
 newtab-personalize-settings-icon-label =
     .title = Personalizuj nową kartę
     .aria-label = Ustawienia
