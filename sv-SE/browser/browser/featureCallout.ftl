@@ -138,11 +138,11 @@ sidebar-pins-callout-cta-button = Fäst flik
 pin-tabs-callout-1-title = Håll viktiga flikar inom räckhåll
 pin-tabs-callout-1-subtitle = Dra en flik till början av flikfältet för att fästa den. Eller högerklicka och välj Fäst flik.
 pin-tabs-callout-cta-1-button = Fäst denna flik
-pin-tabs-callout-2-title = Fäst flikar du besöker mest
+pin-tabs-callout-2-title = Fäst flikar du besöker ofta
 pin-tabs-callout-2-subtitle = För att fästa en flik, dra den till början av flikfältet. Eller högerklicka och välj Fäst flik.
 pin-tabs-callout-cta-2-button = Fäst denna flik
 pin-tabs-callout-3-title = Håll viktiga webbplatser inom räckhåll
-pin-tabs-callout-4-title = Fäst webbplatser du besöker mest
+pin-tabs-callout-4-title = Fäst webbplatser du besöker ofta
 
 ## Sidebar Onboarding Strings
 
