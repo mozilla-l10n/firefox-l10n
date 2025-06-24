@@ -276,7 +276,7 @@ contextual-manager-view-alert-button-2 =
     .tooltiptext =
         { $count ->
             [1] Granska varning
-           *[other] Visa varningar
+           *[other] Granska varningar
         }
 contextual-manager-show-password-button =
     .aria-label = Visa lösenord
