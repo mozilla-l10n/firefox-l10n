@@ -3,10 +3,16 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 addons-page-title = Upravnik add-onima
+search-header =
+    .placeholder = Pretražite addons.mozilla.org
+    .searchbuttonlabel = Pretražite
 
 ## Variables
 ##   $domain - Domain name where add-ons are available (e.g. addons.mozilla.org)
 
+list-empty-get-extensions-message = Nabavite ekstenzije i teme na <a data-l10n-name="get-extensions">{ $domain }</a>
+list-empty-get-dictionaries-message = Nabavite rječnike na <a data-l10n-name="get-extensions">{ $domain }</a>
+list-empty-get-language-packs-message = Preuzmite jezičke pakete na <a data-l10n-name="get-extensions">{ $domain }</a>
 
 ##
 
@@ -20,6 +26,9 @@ list-empty-find-updates =
     .label = Provjeri za nadogradnje
 list-empty-button =
     .label = Naučite više o add-onima
+help-button = Podrška za dodatke
+sidebar-help-button-title =
+    .title = Podrška za dodatke
 show-unsigned-extensions-button =
     .label = Neke ekstenzije nisu mogle biti verifikovane
 show-all-extensions-button =
