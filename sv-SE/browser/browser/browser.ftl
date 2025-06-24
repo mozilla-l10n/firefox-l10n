@@ -1311,5 +1311,5 @@ file-picker-crashed-show-in-folder =
 
 onboarding-checklist-button-label = Slutför installationen
 onboarding-aw-finish-setup-button =
-    .label = Slutför installationen
+    .label = Slutför konfigurationen
     .tooltiptext = Slutför konfigureringen av { -brand-short-name }

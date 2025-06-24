@@ -198,6 +198,7 @@ contextual-manager-passwords-no-username-heading-and-message =
     .heading = Legg til et brukernavn
     .message = Legg til et for å logge på raskere.
 contextual-manager-passwords-add-username-button = Legg til brukernavn
+contextual-manager-passwords-title = Passord
 
 ## Login Form
 
@@ -260,6 +261,22 @@ contextual-manager-view-alert-heading =
     .heading = Vis advarsel
 contextual-manager-view-alert-button =
     .tooltiptext = Undersøk advarsel
+# Variables
+#   $count (number) - The number of active alerts associated with the login
+contextual-manager-view-alert-heading-2 =
+    .heading =
+        { $count ->
+            [1] Vis advarsel
+           *[other] Vis advarsler
+        }
+# Variables
+#   $count (number) - The number of active alerts associated with the login
+contextual-manager-view-alert-button-2 =
+    .tooltiptext =
+        { $count ->
+            [1] Undersøk advarsel
+           *[other] Undersøk advarsler
+        }
 contextual-manager-show-password-button =
     .aria-label = Vis passord
     .title = Vis passord
