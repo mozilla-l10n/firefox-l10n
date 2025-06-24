@@ -47,12 +47,12 @@ genai-prompt-prefix-selection = I’m on page “{ $tabTitle }” with “{ $sel
 ## Chatbot menu shortcuts
 
 genai-menu-ask-generic =
-    .label = Ask AI chatbot
+    .label = Ask AI Chatbot
 # $provider (string) - name of the provider
 genai-menu-ask-provider =
     .label = Ask { $provider }
 genai-menu-remove-generic =
-    .label = Remove AI chatbot
+    .label = Remove AI Chatbot
 # $provider (string) - name of the provider
 genai-menu-remove-provider =
     .label = Remove { $provider }
