@@ -268,8 +268,7 @@ contextual-manager-view-alert-heading-2 =
     .heading =
         { $count ->
             [1] Visa varning
-            [one] Visa aviseringar
-           *[other] Visa aviseringar
+           *[other] Visa varningar
         }
 # Variables
 #   $count (number) - The number of active alerts associated with the login
@@ -277,8 +276,7 @@ contextual-manager-view-alert-button-2 =
     .tooltiptext =
         { $count ->
             [1] Granska varning
-            [one] Granska varningar
-           *[other] Granska varningar
+           *[other] Visa varningar
         }
 contextual-manager-show-password-button =
     .aria-label = Visa lösenord
