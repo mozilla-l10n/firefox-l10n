@@ -351,7 +351,7 @@ newtab-wallpaper-light-fox-anniversary = Μια αλεπού μέσα σε γρ�
 
 ## Solid Colors
 
-newtab-wallpaper-category-title-colors = Συμπαγή χρώματα
+newtab-wallpaper-category-title-colors = Αμιγή χρώματα
 newtab-wallpaper-blue = Μπλε
 newtab-wallpaper-light-blue = Ανοιχτό μπλε
 newtab-wallpaper-light-purple = Ανοιχτό μωβ
