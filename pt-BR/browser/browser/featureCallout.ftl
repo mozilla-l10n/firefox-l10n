@@ -135,6 +135,12 @@ sidebar-pins-callout-cta-button = Fixar aba
 
 ## Pinning Tabs Strings
 
+pin-tabs-callout-1-subtitle = Arraste uma aba para o início da barra de abas para fixar. Ou clique com o botão direito e escolha 'Fixar aba'.
+pin-tabs-callout-cta-1-button = Fixar esta aba
+pin-tabs-callout-2-title = Fixe abas que você mais visita
+pin-tabs-callout-2-subtitle = Para fixar qualquer aba, arraste para o início da barra de abas. Ou clique com o botão direito e escolha  'Fixar aba'.
+pin-tabs-callout-cta-2-button = Fixar esta aba
+pin-tabs-callout-4-title = Fixe os sites que você mais visita
 
 ## Sidebar Onboarding Strings
 
