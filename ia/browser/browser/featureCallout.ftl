@@ -135,6 +135,7 @@ sidebar-pins-callout-cta-button = Clavar le scheda
 
 ## Pinning Tabs Strings
 
+pin-tabs-callout-1-title = Tene a portata schedas importante
 pin-tabs-callout-cta-1-button = Clavar iste scheda
 pin-tabs-callout-2-title = Clava schedas que tu visita plus
 pin-tabs-callout-cta-2-button = Clavar iste scheda
