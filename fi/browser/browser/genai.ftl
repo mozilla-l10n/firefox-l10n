@@ -51,11 +51,20 @@ genai-menu-ask-generic =
 # $provider (string) - name of the provider
 genai-menu-ask-provider =
     .label = Kysy palvelulta { $provider }
+genai-menu-open-generic =
+    .label = Avaa AI-chatbotti
+# $provider (string) - name of the provider
+genai-menu-open-provider =
+    .label = Avaa { $provider }
 genai-menu-remove-generic =
     .label = Poista AI-chatbotti
 # $provider (string) - name of the provider
 genai-menu-remove-provider =
     .label = Poista { $provider }
+genai-menu-remove-sidebar =
+    .label = Poista sivupalkista
+genai-menu-new-badge = Uusi
+genai-menu-summarize-page = Tee yhteenveto sivusta
 genai-input-ask-generic =
     .placeholder = Kysy AI-chatbotilta…
 # $provider (string) - name of the provider
@@ -80,6 +89,10 @@ genai-shortcuts-selected-warning =
         }
 genai-shortcuts-hide =
     .label = Piilota chatbotin oikotie
+genai-menu-no-provider =
+    .label = Kysy AI-chatbotilta
+genai-menu-choose-chatbot =
+    .label = Valitse chatbotti
 
 ## Chatbot header
 
@@ -106,6 +119,7 @@ genai-options-about-chatbot =
 
 ## Chatbot footer
 
+genai-page-button-summarize = Tee yhteenveto sivusta
 
 ## Chatbot onboarding
 
@@ -141,6 +155,10 @@ genai-onboarding-select-primary = Aloita keskustelu
 genai-chatbot-contextual-title = Käytä AI-chatbottia vaihtamatta välilehtiä
 genai-chatbot-contextual-subtitle = Keskustele ja selaa rinnakkain lisäämällä AI-chatbotti { -brand-short-name }in sivupalkkiin.
 genai-chatbot-contextual-button = Valitse chatbotti
+genai-chatbot-summarize-title = Uutta! Tee yhteenveto sivuista yhdellä napsautuksella
+genai-chatbot-summarize-button = Tee yhteenveto sivusta
+# “Summarize Page” should be consistent with the translation for the string genai-menu-summarize-page
+genai-chatbot-summarize-sidebar-provider-subtitle = Napsauta hiiren kakkospainikkeella AI-chatbottia sivupalkissa ja valitse ”Tee yhteenveto sivusta”.
 
 ## Chatbot onboarding choices
 ## These describe features/capabilities of chatbot providers. These are not buttons/actions.

@@ -30,14 +30,38 @@ credit-card-save-doorhanger-description = { -brand-short-name } šifrira broj va
 credit-card-capture-save-button =
     .label = Sačuvaj
     .accessKey = S
+credit-card-capture-never-save-button =
+    .label = Nikad ne spremaj kartice
+    .accessKey = N
 
 # Used on the doorhanger when an credit card change is detected.
 
+credit-card-update-doorhanger-header = Ažurirati karticu?
+credit-card-update-doorhanger-description = Kartica za ažuriranje:
+credit-card-capture-save-new-button =
+    .label = Sačuvaj kao novu karticu
+    .accessKey = C
+credit-card-capture-update-button =
+    .label = Ažuriraj postojeću karticu
+    .accessKey = U
 # Label for the button in the dropdown menu used to clear the populated form.
 autofill-clear-form-label = Očisti autofill formu
+# Used as a label for the button, displayed at the bottom of the dropdown suggestion, to open Form Autofill browser preferences.
+autofill-manage-addresses-label = Upravljaj adresama
+# Used as a label for the button, displayed at the bottom of the dropdown suggestion, to open Form Autofill browser preferences.
+autofill-manage-payment-methods-label = Upravljajte načinima plaćanja
 
 ## These are brand names and should only be translated when a locale-specific name for that brand is in common use
 
+autofill-card-network-amex = American Express
+autofill-card-network-cartebancaire = Carte Bancaire
+autofill-card-network-diners = Diners Club
+autofill-card-network-discover = Discover
+autofill-card-network-jcb = JCB
+autofill-card-network-mastercard = MasterCard
+autofill-card-network-mir = MIR
+autofill-card-network-unionpay = Union Pay
+autofill-card-network-visa = Visa
 # The warning text that is displayed for informing users what categories are
 # about to be filled.  The text would be, for example,
 #   Also autofills organization, phone, email.

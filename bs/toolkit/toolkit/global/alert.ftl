@@ -9,3 +9,4 @@ alert-settings-title =
 
 ## Reminder Notifications
 
+notification-default-dismiss = Odbaci

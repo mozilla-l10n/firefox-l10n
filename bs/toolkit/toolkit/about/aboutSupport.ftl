@@ -190,11 +190,25 @@ media-codec-support-hw-encoding = Hardversko kodiranje
 media-codec-support-codec-name = Naziv kodeka
 media-codec-support-supported = Podržano
 media-codec-support-unsupported = Nije podržano
+media-codec-support-error = Informacije o podršci za kodeke nisu dostupne. Pokušajte ponovo nakon reprodukcije medijske datoteke.
+media-codec-support-lack-of-extension = Instaliraj ekstenziju
 
 ## Media Content Decryption Modules (CDM)
 ## See EME Spec for more explanation for following technical terms
 ## https://w3c.github.io/encrypted-media/
 
+media-content-decryption-modules-title = Informacije o modulima za dešifriranje sadržaja
+media-key-system-name = Naziv ključnog sistema
+media-video-robustness = Robusnost videa
+media-audio-robustness = Robusnost zvuka
+media-cdm-capabilities = Mogućnosti
+# Clear Lead isn't defined in the spec, which means the the first few seconds
+# are not encrypted. It allows playback to start without having to wait for
+# license response, improving video start time and user experience.
+media-cdm-clear-lead = Čisti potencijal
+# We choose 2.2 as this is the version which the video provider usually want to have in order to stream 4K video securely
+# HDCP version https://w3c.github.io/encrypted-media/#idl-def-hdcpversion
+media-hdcp-22-compatible = Kompatibilno sa HDCP 2.2
 
 ##
 

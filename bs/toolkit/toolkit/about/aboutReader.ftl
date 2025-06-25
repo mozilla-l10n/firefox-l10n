@@ -4,6 +4,14 @@
 
 about-reader-loading = Učitavanje…
 about-reader-load-error = Neuspješno učitavanje članka sa stranice
+about-reader-color-scheme-light = Svijetla
+    .title = Svijetla šema boja
+about-reader-color-scheme-dark = Tamna
+    .title = Tamna šema boja
+about-reader-color-scheme-sepia = Sepija
+    .title = Šema boja sepija
+about-reader-color-scheme-auto = Automatski
+    .title = Šema boja automatska
 about-reader-color-light-theme = Svijetla
     .title = Svijetla tema
 about-reader-color-dark-theme = Tamna

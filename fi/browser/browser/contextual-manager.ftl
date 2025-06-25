@@ -202,6 +202,7 @@ contextual-manager-passwords-no-username-heading-and-message =
     .heading = Lisää käyttäjätunnus
     .message = Lisää käyttäjätunnus kirjautuaksesi nopeammin.
 contextual-manager-passwords-add-username-button = Lisää käyttäjätunnus
+contextual-manager-passwords-title = Salasanat
 
 ## Login Form
 
@@ -264,6 +265,24 @@ contextual-manager-view-alert-heading =
     .heading = Näytä hälytys
 contextual-manager-view-alert-button =
     .tooltiptext = Katselmoi hälytys
+# Variables
+#   $count (number) - The number of active alerts associated with the login
+contextual-manager-view-alert-heading-2 =
+    .heading =
+        { $count ->
+            [1] Näytä hälytys
+            [one] Näytä hälytys
+           *[other] Näytä hälytykset
+        }
+# Variables
+#   $count (number) - The number of active alerts associated with the login
+contextual-manager-view-alert-button-2 =
+    .tooltiptext =
+        { $count ->
+            [1] Katselmoi hälytys
+            [one] Katselmoi hälytys
+           *[other] Katselmoi hälytykset
+        }
 contextual-manager-show-password-button =
     .aria-label = Näytä salasana
     .title = Näytä salasana

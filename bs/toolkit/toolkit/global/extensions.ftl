@@ -92,6 +92,10 @@ webext-perms-host-description-too-many-sites =
         [few] Pristup vašim podacima na { $domainCount } drugih stranica
        *[other] Pristup vašim podacima na { $domainCount } drugih stranica
     }
+# Variables:
+#   $domain (String): will be replaced by the DNS host name for which a webextension is requesting access (e.g., mozilla.org),
+#     $domain should be treated as plural (because it may also include all subdomains, e.g www.mozilla.org, ftp.mozilla.org).
+webext-perms-host-description-one-domain = Pristupite svojim podacima za web stranice u domenama { $domain }
 
 ## Strings for data collection permissions in the permission prompt.
 

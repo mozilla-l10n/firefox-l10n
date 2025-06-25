@@ -68,6 +68,7 @@ sidebar-show-on-the-left =
 # hovers over it.
 expand-sidebar-on-hover =
     .label = Laajenna sivupalkki hiiren päällä
+sidebar-manage-extensions = Hallitse laajennuksia
 
 ## Labels for sidebar context menu items
 
@@ -101,6 +102,10 @@ sidebar-context-menu-customize-sidebar =
 #   $deviceName (String) - The name of the device the user is closing a tab for
 sidebar-context-menu-close-remote-tab =
     .label = Sulje välilehti laitteella { $deviceName }
+sidebar-context-menu-remove-extension2 =
+    .label = Poista { -brand-short-name }ista
+sidebar-context-menu-unpin-extension =
+    .label = Poista sivupalkista
 
 ## Labels for sidebar history context menu items
 
@@ -125,6 +130,8 @@ sidebar-menu-customize-label =
     .label = Muokkaa sivupalkkia
 sidebar-menu-contextual-password-manager-label =
     .label = Salasanat
+sidebar-menu-more-tools-label =
+    .label = Lisää työkaluja
 
 ## Tooltips for sidebar menu items.
 

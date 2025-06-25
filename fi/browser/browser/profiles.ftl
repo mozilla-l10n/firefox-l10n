@@ -39,6 +39,12 @@ edit-profile-page-delete-button =
 edit-profile-page-avatar-selector-opener-link = Muokkaa
 avatar-selector-icon-tab = Kuvake
 avatar-selector-custom-tab = Mukautettu
+avatar-selector-cancel-button =
+    .label = Peruuta
+avatar-selector-save-button =
+    .label = Tallenna
+avatar-selector-upload-file = Lähetä tiedosto
+avatar-selector-drag-file = Tai vedä tiedosto tähän
 edit-profile-page-no-name = Nimeä tämä profiili, jotta tunnistat sen myöhemmin. Nimeä se uudelleen milloin tahansa.
 edit-profile-page-duplicate-name = Profiilin nimi on jo käytössä. Kokeile toista nimeä.
 edit-profile-page-profile-saved = Tallennettu
@@ -116,6 +122,8 @@ shopping-avatar-alt =
     .alt = Ostoskärryt
 star-avatar-alt =
     .alt = Tähti
+custom-avatar-alt =
+    .alt = Mukautettu profiilikuva
 
 ## Labels for default avatar icons
 

@@ -10,23 +10,38 @@
 ## to indicate the purpose of a date picker calendar and a month-year selection
 ## spinner dialogs for HTML's <input type="date">
 
+date-picker-label =
+    .aria-label = Odaberite datum
+date-spinner-label =
+    .aria-label = Odaberite mjesec i godinu
 
 ## Text of the clear button
 
+date-picker-clear-button = Očisti
 
 ## These labels are used by screenreaders and other assistive technology
 ## to indicate the purpose of buttons that leaf through months of a calendar
 
+date-picker-previous =
+    .aria-label = Prethodni mjesec
+date-picker-next =
+    .aria-label = Sljedeći mjesec
 
 ## These labels are used by screenreaders and other assistive technology
 ## to indicate the type of a value/unit that is being selected within a
 ## Month/Year date spinner dialogs on a datepicker calendar dialog
 
+date-spinner-month =
+    .aria-label = Mjesec
+date-spinner-year =
+    .aria-label = Godina
 
 ## These labels are used by screenreaders and other assistive technology
 ## to indicate the purpose of buttons that leaf through either months
 ## or years of a Month/Year date spinner on a datepicker calendar dialog
 
+date-spinner-month-previous =
+    .aria-label = Prethodni mjesec
 date-spinner-month-next =
     .aria-label = Sljedeći mjesec
 date-spinner-year-previous =

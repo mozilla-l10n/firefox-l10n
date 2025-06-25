@@ -445,6 +445,9 @@ addon-badge-recommended2 =
 addon-badge-line3 =
     .title = Zvanična ekstenzija koju je izradila Mozilla. Ispunjava standarde sigurnosti i performansi
     .aria-label = { addon-badge-line3.title }
+addon-badge-verified2 =
+    .title = Ova ekstenzija je pregledana kako bi ispunila naše standarde sigurnosti i performansi
+    .aria-label = { addon-badge-verified2.title }
 # We hard code "Mozilla" in the string below because the extensions are built
 # by Mozilla and we don't want forks to display "by Fork".
 addon-badge-line4 =
@@ -466,6 +469,7 @@ addon-badge-recommended4 =
 
 ##
 
+available-updates-heading = Dostupne nadogradnje
 recent-updates-heading = Nedavna ažuriranja
 release-notes-loading = Učitavanje…
 release-notes-error = Oprostite, ali došlo je do greške prilikom učitavanja napomena o izdanju.
@@ -586,3 +590,12 @@ mlmodel-description = Neke funkcije i ekstenzije u { -brand-short-name } pokreć
 # Label for button that when clicked removed local model
 mlmodel-remove-addon-button =
     .aria-label = Ukloni
+# Label for the aggregated value of all files for a model
+mlmodel-addon-detail-totalsize-label = Veličina datoteke
+mlmodel-addon-detail-last-used-label = Zadnja upotreba
+# This is a section label to describe what extensions or features use a specific local AI model
+mlmodel-addon-detail-used-by-label = Koristi
+# This is a section label to describe the link to the model card on the Hugging Face website
+mlmodel-addon-detail-model-card = Kartica modela
+# This is a label for the Model Card link to Hugging face
+mlmodel-addon-detail-model-card-link-label = Prikaži na Hugging Face
