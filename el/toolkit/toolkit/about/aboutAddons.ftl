@@ -582,10 +582,10 @@ mlmodel-pdfjs = Χρησιμοποιείται από το { -brand-short-name }
 mlmodel-smart-tab-topic-engine = Χρησιμοποιείται από το { -brand-short-name } για την πρόταση ονομάτων για τις ομάδες καρτελών σας
 mlmodel-smart-tab-embedding-engine = Χρησιμοποιείται από το { -brand-short-name } για την πρόταση καρτελών για τις ομάδες καρτελών σας
 # AI Model will be downloaded on the users device and used locally
-addon-category-mlmodel = ΤΝ συσκευής
+addon-category-mlmodel = Τοπική ΤΝ
 addon-category-mlmodel-title =
-    .title = ΤΝ συσκευής
-mlmodel-heading = Διαχείριση μοντέλων ΤΝ συσκευής
+    .title = Τοπική ΤΝ
+mlmodel-heading = Διαχείριση τοπικών μοντέλων τεχνητής νοημοσύνης
 mlmodel-description = Ορισμένες δυνατότητες και επεκτάσεις του { -brand-short-name } βασίζονται σε μοντέλα τεχνητής νοημοσύνης, τα οποία λειτουργούν τοπικά στη συσκευή σας. Αυτή η προσέγγιση προστατεύει το απόρρητό σας και, σε πολλές περιπτώσεις, βελτιώνει τις επιδόσεις. <a data-l10n-name="learn-more">Μάθετε περισσότερα</a>
 # Label for button that when clicked removed local model
 mlmodel-remove-addon-button =
