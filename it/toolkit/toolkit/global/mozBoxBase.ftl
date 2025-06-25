@@ -4,3 +4,4 @@
 
 moz-box-link-anchor =
     .title = Si apre in una nuova scheda
+
