@@ -611,6 +611,10 @@ urlbar-search-mode-indicator-close =
 # engine is unknown.
 urlbar-placeholder =
     .placeholder = Suche oder Adresse eingeben
+# This placeholder is used when not in search mode and searching in the urlbar
+# is disabled via the keyword.enabled pref.
+urlbar-placeholder-keyword-disabled =
+    .placeholder = Adresse eingeben
 # This placeholder is used in search mode with search engines that search the
 # entire web.
 # Variables
