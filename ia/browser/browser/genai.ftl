@@ -91,6 +91,8 @@ genai-shortcuts-selected-warning =
         }
 genai-shortcuts-hide =
     .label = Celar via breve pro chatbot
+genai-menu-no-provider =
+    .label = Demanda a un robot confabulator IA
 genai-menu-choose-chatbot =
     .label = Elige un robot confabulatori IA
 
@@ -157,6 +159,13 @@ genai-chatbot-contextual-subtitle = Chatta e naviga latere a latere addente un r
 genai-chatbot-contextual-button = Elige un robot confabulator
 genai-chatbot-summarize-title = Nove! Summarisar paginas in un clic
 genai-chatbot-summarize-button = Summarisar pagina
+# “Summarize Page” should be consistent with the translation for the string genai-menu-summarize-page
+genai-chatbot-summarize-sidebar-provider-subtitle = Clicca dextre sur tu robot confabulator IA in le barra lateral e selige “Resumer Pagina”.
+# “Summarize Page” should be consistent with the translation for the string genai-menu-summarize-page
+genai-chatbot-summarize-sidebar-generic-subtitle = Clicca dextre le button de scintillas in le barra lateral e selige “Resumer Pagina”. Le prime vice, tu alsi eligera un robot confabulator IA
+# “Summarize page” should be consistent with the translation for the string genai-page-button-summarize
+genai-chatbot-summarize-footer-provider-subtitle = Aperi tu robot confabulator IA in le barra lateral e selige “Resumer pagina” al fundo.
+genai-chatbot-summarize-footer-generic-subtitle = Adde un robot confabulator IA al barra lateral de { -brand-short-name } pro rapidemente resumer paginas.
 
 ## Chatbot onboarding choices
 ## These describe features/capabilities of chatbot providers. These are not buttons/actions.

@@ -33,6 +33,13 @@ pending-crash-reports-always-send =
     .label = Sempre inviar
 # Variables:
 #   $reportCount (Number): the number of pending crash reports
+requested-crash-reports-message-new =
+    { $reportCount ->
+        [one] Tu ha un reporto de crash non inviate correlate a crashes jam investigate, inviar lo nos adjutara meliorar { -brand-product-name }. Claudente iste aviso, tal reporto sera ignorate.
+       *[other] Tu ha { $reportCount } reportos de crash non inviate correlate a crashes jam investigate, inviar los nos adjutara meliorar { -brand-product-name }. Claudente iste aviso, tal reporto sera ignorate.
+    }
+# Variables:
+#   $reportCount (Number): the number of pending crash reports
 requested-crash-reports-message =
     { $reportCount ->
         [one] Tu ha un reporto de crash non inviate que concorda con crashes jam investigate, inviar lo nos adjutara a meliorar { -brand-product-name }. Claudente iste aviso, tal reporto sera ignorate.
