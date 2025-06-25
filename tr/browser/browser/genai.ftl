@@ -51,11 +51,20 @@ genai-menu-ask-generic =
 # $provider (string) - name of the provider
 genai-menu-ask-provider =
     .label = { $provider } sohbet botuna sor
+genai-menu-open-generic =
+    .label = Yapay zekâ sohbet botunu aç
+# $provider (string) - name of the provider
+genai-menu-open-provider =
+    .label = { $provider } botunu aç
 genai-menu-remove-generic =
     .label = YZ sohbet botunu kaldır
 # $provider (string) - name of the provider
 genai-menu-remove-provider =
     .label = { $provider } botunu kaldır
+genai-menu-remove-sidebar =
+    .label = Kenar çubuğundan kaldır
+genai-menu-new-badge = Yeni
+genai-menu-summarize-page = Sayfayı özetle
 genai-input-ask-generic =
     .placeholder = Yapay zekâ sohbet botuna sor…
 # $provider (string) - name of the provider
@@ -82,6 +91,10 @@ genai-shortcuts-selected-warning =
         }
 genai-shortcuts-hide =
     .label = Sohbet botu kısayolunu gizle
+genai-menu-no-provider =
+    .label = Yapay zekâ sohbet botuna sor
+genai-menu-choose-chatbot =
+    .label = Yapay zekâ sohbet botunuzu seçin
 
 ## Chatbot header
 
@@ -108,6 +121,7 @@ genai-options-about-chatbot =
 
 ## Chatbot footer
 
+genai-page-button-summarize = Sayfayı özetle
 
 ## Chatbot onboarding
 
@@ -143,6 +157,10 @@ genai-onboarding-select-primary = Sohbete başlayın
 genai-chatbot-contextual-title = Sekme değiştirmeden yapay zekâ sohbet botlarını kullanın
 genai-chatbot-contextual-subtitle = { -brand-short-name } kenar çubuğuna yapay zekâ sohbet botu ekleyin, bir yanda sohbet ederken öbür yanda internette gezinin.
 genai-chatbot-contextual-button = Bir sohbet botu seçin
+genai-chatbot-summarize-title = Yeni! Sayfaları tek tıklamayla özetleyin
+genai-chatbot-summarize-button = Sayfayı özetle
+# “Summarize Page” should be consistent with the translation for the string genai-menu-summarize-page
+genai-chatbot-summarize-sidebar-provider-subtitle = Kenar çubuğundan yapay zekâ sohbet botunuza sağ tıklayıp “Sayfayı özetle”yi seçin.
 
 ## Chatbot onboarding choices
 ## These describe features/capabilities of chatbot providers. These are not buttons/actions.

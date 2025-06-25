@@ -204,6 +204,7 @@ contextual-manager-passwords-no-username-heading-and-message =
     .heading = Kullanıcı adı ekle
     .message = Daha hızlı giriş yapmak için kullanıcı adı ekleyin.
 contextual-manager-passwords-add-username-button = Kullanıcı adı ekle
+contextual-manager-passwords-title = Parolalar
 
 ## Login Form
 
@@ -266,6 +267,24 @@ contextual-manager-view-alert-heading =
     .heading = Uyarıyı görüntüle
 contextual-manager-view-alert-button =
     .tooltiptext = Uyarıyı incele
+# Variables
+#   $count (number) - The number of active alerts associated with the login
+contextual-manager-view-alert-heading-2 =
+    .heading =
+        { $count ->
+            [1] Uyarıyı görüntüle
+            [one] Uyarıyı görüntüle
+           *[other] Uyarıları görüntüle
+        }
+# Variables
+#   $count (number) - The number of active alerts associated with the login
+contextual-manager-view-alert-button-2 =
+    .tooltiptext =
+        { $count ->
+            [1] Uyarıyı incele
+            [one] Uyarıyı incele
+           *[other] Uyarıları incele
+        }
 contextual-manager-show-password-button =
     .aria-label = Parolayı göster
     .title = Parolayı göster

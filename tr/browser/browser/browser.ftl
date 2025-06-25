@@ -1310,3 +1310,6 @@ file-picker-crashed-show-in-folder =
 ## Onboarding Finish Setup checklist
 
 onboarding-checklist-button-label = Kurulumu tamamla
+onboarding-aw-finish-setup-button =
+    .label = Kurulumu tamamla
+    .tooltiptext = { -brand-short-name } kurulumunu tamamlayın
