@@ -159,6 +159,10 @@ genai-chatbot-contextual-subtitle = Csevegjen és böngésszen egymás mellett, 
 genai-chatbot-contextual-button = Válasszon csevegőbotot
 genai-chatbot-summarize-title = Új! Foglalja össze az oldalakat egyetlen kattintással.
 genai-chatbot-summarize-button = Összefoglaló oldal
+# “Summarize Page” should be consistent with the translation for the string genai-menu-summarize-page
+genai-chatbot-summarize-sidebar-provider-subtitle = Kattintson jobb gombbal az MI csevegőbotjára az oldalsávban, és válassza az „Oldal összegzése” lehetőséget.
+# “Summarize Page” should be consistent with the translation for the string genai-menu-summarize-page
+genai-chatbot-summarize-sidebar-generic-subtitle = Kattintson jobb gombbal a szikra gombra az oldalsávban, és válassza az „Oldal összegzése” lehetőséget. Az első alkalommal válasszon egy MI csevegőbotot.
 # “Summarize page” should be consistent with the translation for the string genai-page-button-summarize
 genai-chatbot-summarize-footer-provider-subtitle = Nyissa meg az MI csevegőbotját az oldalsávban, és válassza alul az „Oldal összegzése” lehetőséget.
 genai-chatbot-summarize-footer-generic-subtitle = Adjon hozzá egy MI csevegőbotot a { -brand-short-name } oldalsávhoz, hogy gyorsan összegezze az oldalakat.
