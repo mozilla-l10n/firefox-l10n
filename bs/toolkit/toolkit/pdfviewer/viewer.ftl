@@ -63,6 +63,9 @@ pdfjs-cursor-text-select-tool-button-label = Alat za označavanje teksta
 pdfjs-cursor-hand-tool-button =
     .title = Omogući ručni alat
 pdfjs-cursor-hand-tool-button-label = Ručni alat
+pdfjs-spread-odd-button =
+    .title = Izradi duplerice koje počinju s neparnim stranicama
+pdfjs-spread-odd-button-label = Neparne duplerice
 pdfjs-spread-even-button =
     .title = Izradi duplerice koje počinju s parnim stranicama
 pdfjs-spread-even-button-label = Parne duplerice
@@ -437,9 +440,52 @@ pdfjs-editor-highlight-show-all-button =
 ## New alt-text dialog
 ## Group note for entire feature: Alternative text (alt text) helps when people can't see the image. This feature includes a tool to create alt text automatically using an AI model that works locally on the user's device to preserve privacy.
 
+# Modal header positioned above a text box where users can edit the alt text.
+pdfjs-editor-new-alt-text-dialog-edit-label = Uredi alternativni tekst (opis slike)
+# Modal header positioned above a text box where users can add the alt text.
+pdfjs-editor-new-alt-text-dialog-add-label = Dodaj alternativni tekst (opis slike)
+pdfjs-editor-new-alt-text-textarea =
+    .placeholder = Ovdje napišite svoj opis…
+# This text refers to the alt text box above this description. It offers a definition of alt text.
+pdfjs-editor-new-alt-text-description = Kratak opis za osobe koje ne mogu vidjeti sliku ili kada se slika ne učitava.
+# This is a required legal disclaimer that refers to the automatically created text inside the alt text box above this text. It disappears if the text is edited by a human.
+pdfjs-editor-new-alt-text-disclaimer1 = Ovaj alternativni tekst je kreiran automatski i moguće je da je netačan.
+pdfjs-editor-new-alt-text-disclaimer-learn-more-url = Saznajte više
+pdfjs-editor-new-alt-text-create-automatically-button-label = Automatski kreiraj alternativni tekst
+pdfjs-editor-new-alt-text-not-now-button = Ne sada
+pdfjs-editor-new-alt-text-error-title = Nije moguće automatski kreirati alternativni tekst
+pdfjs-editor-new-alt-text-error-description = Molimo vas da napišete vlastiti alternativni tekst ili pokušate ponovo kasnije.
+pdfjs-editor-new-alt-text-error-close-button = Zatvori
+# Variables:
+#   $totalSize (Number) - the total size (in MB) of the AI model.
+#   $downloadedSize (Number) - the downloaded size (in MB) of the AI model.
+pdfjs-editor-new-alt-text-ai-model-downloading-progress = Preuzimanje alternativnog tekstualnog AI modela ({ $downloadedSize } od { $totalSize } MB)
+    .aria-valuetext = Preuzimanje alternativnog tekstualnog AI modela ({ $downloadedSize } od { $totalSize } MB)
+# This is a button that users can click to edit the alt text they have already added.
+pdfjs-editor-new-alt-text-added-button =
+    .aria-label = Alternativni tekst je dodan
+pdfjs-editor-new-alt-text-added-button-label = Alternativni tekst je dodan
+# This is a button that users can click to open the alt text editor and add alt text when it is not present.
+pdfjs-editor-new-alt-text-missing-button =
+    .aria-label = Nedostaje alternativni tekst
+pdfjs-editor-new-alt-text-missing-button-label = Nedostaje alternativni tekst
+# This is a button that opens up the alt text modal where users should review the alt text that was automatically generated.
+pdfjs-editor-new-alt-text-to-review-button =
+    .aria-label = Alternativni tekst recenzije
+pdfjs-editor-new-alt-text-to-review-button-label = Alternativni tekst recenzije
+# "Created automatically" is a prefix that will be added to the beginning of any alt text that has been automatically generated. After the colon, the user will see/hear the actual alt text description. If the alt text has been edited by a human, this prefix will not appear.
+# Variables:
+#   $generatedAltText (String) - the generated alt-text.
+pdfjs-editor-new-alt-text-generated-alt-text-with-disclaimer = Automatski kreirano: { $generatedAltText }
 
 ## Image alt-text settings
 
+pdfjs-image-alt-text-settings-button =
+    .title = Postavke alternativnog teksta slike
+pdfjs-image-alt-text-settings-button-label = Postavke alternativnog teksta slike
+pdfjs-editor-alt-text-settings-dialog-label = Postavke alternativnog teksta slike
+pdfjs-editor-alt-text-settings-automatic-title = Automatski alternativni tekst
+pdfjs-editor-alt-text-settings-create-model-button-label = Automatski kreiraj alternativni tekst
 pdfjs-editor-alt-text-settings-create-model-description = Predlaže opise kako bi pomogao ljudima koji ne vide sliku ili kada se slika ne učitava.
 # Variables:
 #   $totalSize (Number) - the total size (in MB) of the AI model.
@@ -493,6 +539,11 @@ pdfjs-editor-add-signature-image-button = Slika
 
 ## Tab panels
 
+pdfjs-editor-add-signature-type-input =
+    .aria-label = Ukucajte svoj potpis
+    .placeholder = Ukucajte svoj potpis
+pdfjs-editor-add-signature-draw-placeholder = Napišite svoj potpis
+pdfjs-editor-add-signature-draw-thickness-range-label = Debljina
 
 ## Controls
 

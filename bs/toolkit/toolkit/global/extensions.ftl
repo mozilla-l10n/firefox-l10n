@@ -96,9 +96,41 @@ webext-perms-host-description-too-many-sites =
 #   $domain (String): will be replaced by the DNS host name for which a webextension is requesting access (e.g., mozilla.org),
 #     $domain should be treated as plural (because it may also include all subdomains, e.g www.mozilla.org, ftp.mozilla.org).
 webext-perms-host-description-one-domain = Pristupite svojim podacima za web stranice u domenama { $domain }
+# Permission string used for webextensions requesting access to 2 or more domains (and so $domainCount is expected to always
+# be >= 2, for webextensions requesting access to only one domain the `webext-perms-host-description-one-domain` string is
+# used instead).
+# Variables:
+#   $domainCount (Number): Integer indicating the number of websites domains for which this webextension is requesting permission
+#     (the list of domains will follow this string).
+webext-perms-host-description-multiple-domains =
+    { $domainCount ->
+        [one] Pristupi vašim podacima za stranice na { $domainCount } domeni
+        [few] Pristupi vašim podacima za stranice na { $domainCount } domene
+       *[other] Pristupi vašim podacima za stranice na { $domainCount } domena
+    }
 
 ## Strings for data collection permissions in the permission prompt.
 
+webext-perms-description-data-none = Programer kaže da ova ekstenzija ne zahtijeva prikupljanje podataka.
+# Variables:
+#    $permissions (String): a list of data collection permissions formatted with `Intl.ListFormat` using the "narrow" style.
+webext-perms-description-data-some = Programer kaže da ova ekstenzija prikuplja: { $permissions }
+# Variables:
+#    $permissions (String): a list of data collection permissions formatted with `Intl.ListFormat` using the "narrow" style.
+webext-perms-description-data-some-update = Programer kaže da će ekstenzija prikupljati: { $permissions }
+# Variables:
+#    $permissions (String): a list of data collection permissions formatted with `Intl.ListFormat` using the "narrow" style.
+webext-perms-description-data-some-optional = Programer kaže da ekstenzija želi prikupiti: { $permissions }
+# Variables:
+#   $extension (String): replaced with the localized name of the extension.
+webext-perms-update-text-with-data-collection = { $extension } zahtijeva nove postavke za ažuriranje
+webext-perms-update-list-intro-with-data-collection = Otkažite da biste zadržali trenutnu verziju i postavke ili ažurirajte da biste dobili novu verziju i odobrili promjene.
+# Variables:
+#   $extension (String): replaced with the localized name of the extension.
+webext-perms-optional-text-with-data-collection = { $extension } zahtijeva dodatne postavke
+# Variables:
+#   $extension (String): replaced with the localized name of the extension.
+webext-perms-optional-text-with-data-collection-only = { $extension } zahtijeva dodatno prikupljanje podataka
 
 ## Headers used in the webextension permissions dialog for synthetic add-ons.
 ## The part of the string describing what privileges the extension gives should be consistent
@@ -107,9 +139,18 @@ webext-perms-host-description-one-domain = Pristupite svojim podacima za web str
 ## Variables:
 ##   $hostname (String): the hostname of the site the add-on is being installed from.
 
+webext-site-perms-header-with-gated-perms-midi = Ovaj dodatak omogućava { $hostname } pristup vašim MIDI uređajima.
+webext-site-perms-header-with-gated-perms-midi-sysex = Ovaj dodatak omogućava { $hostname } pristup vašim MIDI uređajima (uz podršku za SysEx).
 
 ##
 
+# This string is used as description in the webextension permissions dialog for synthetic add-ons.
+# Note, the empty line is used to create a line break between the two sections.
+# Note, this string will be used as raw markup. Avoid characters like <, >, &
+webext-site-perms-description-gated-perms-midi =
+    To su obično plug-in uređaji poput audio sintisajzera, ali mogu biti i ugrađeni u vaš računar.
+    
+    Web stranicama obično nije dozvoljen pristup MIDI uređajima. Nepravilna upotreba može uzrokovati štetu ili ugroziti sigurnost.
 
 ## Headers used in the webextension permissions dialog.
 ## Note: This string will be used as raw markup. Avoid characters like <, >, &
@@ -117,9 +158,15 @@ webext-perms-host-description-one-domain = Pristupite svojim podacima za web str
 ##   $extension (String): replaced with the localized name of the extension being installed.
 ##   $hostname (String): will be replaced by the DNS host name for which a webextension enables permissions.
 
+webext-site-perms-header-with-perms = Dodati { $extension }? Ova ekstenzija daje sljedeće mogućnosti hostu { $hostname }:
+webext-site-perms-header-unsigned-with-perms = Dodati { $extension }? Ova ekstenzija nije verifikovana. Zlonamjerne ekstenzije mogu ukrasti vaše privatne podatke ili ugroziti vaš računar. Dodajte je samo ako vjerujete izvoru. Ova ekstenzija daje sljedeće mogućnosti hostu { $hostname }:
 
 ## These should remain in sync with permissions.NAME.label in sitePermissions.properties
 
+webext-site-perms-midi = Pristupite MIDI uređajima
+webext-site-perms-midi-sysex = Pristupite MIDI uređajima sa SysEx podrškom
 
 ## Colorway theme migration
 
+webext-colorway-theme-migration-notification-message = <b>Vaša tema boja je uklonjena.</b> { -brand-shorter-name } je ažurirao svoju kolekciju boja. Najnovije verzije možete pronaći na stranici s dodacima.
+webext-colorway-theme-migration-notification-button = Nabavite ažurirane kombinacije boja
