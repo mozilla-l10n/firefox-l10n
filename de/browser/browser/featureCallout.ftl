@@ -106,6 +106,8 @@ perplexity-callout-secondary-label-2 = Verstanden
 
 ## Account Adoption Passwords callout strings
 
+# Opens Mozilla accounts sign-up page
+fxa-adoption-passwords-primary-button-label = Registrieren
 
 ## Sidebar Strings
 

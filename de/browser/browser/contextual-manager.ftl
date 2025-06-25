@@ -199,6 +199,7 @@ contextual-manager-passwords-no-username-heading-and-message =
     .heading = Benutzernamen hinzufügen
     .message = Fügen Sie einen Benutzernamen hinzu, um sich schneller anzumelden.
 contextual-manager-passwords-add-username-button = Benutzernamen hinzufügen
+contextual-manager-passwords-title = Passwörter
 
 ## Login Form
 

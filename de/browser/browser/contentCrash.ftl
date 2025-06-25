@@ -33,6 +33,13 @@ pending-crash-reports-always-send =
     .label = Immer senden
 # Variables:
 #   $reportCount (Number): the number of pending crash reports
+requested-crash-reports-message-new =
+    { $reportCount ->
+        [one] Sie haben einen nicht gesendeten Absturzbericht, der sich auf Abstürze bezieht, die untersucht werden. Wenn Sie diesen absenden, helfen Sie uns, { -brand-product-name } zu verbessern. Wenn Sie diese Benachrichtigung schließen, wird dieser Bericht ignoriert.
+       *[other] Sie haben { $reportCount } nicht gesendete Absturzberichte, die sich auf Abstürze beziehen, die untersucht werden. Das Senden dieser Berichte hilft uns, { -brand-product-name } zu verbessern. Wenn Sie diese Benachrichtigung schließen, werden diese Berichte ignoriert.
+    }
+# Variables:
+#   $reportCount (Number): the number of pending crash reports
 requested-crash-reports-message =
     { $reportCount ->
         [one] Es gibt einen nicht gesendeten Absturzbericht, der zu untersuchten Abstürzen gehört. Das Senden hilft uns, { -brand-product-name } zu verbessern. Wenn Sie diese Benachrichtigung schließen, wird diese Meldung ignoriert.
