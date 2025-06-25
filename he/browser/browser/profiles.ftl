@@ -39,6 +39,12 @@ edit-profile-page-delete-button =
 edit-profile-page-avatar-selector-opener-link = עריכה
 avatar-selector-icon-tab = סמל
 avatar-selector-custom-tab = מותאם אישית
+avatar-selector-cancel-button =
+    .label = ביטול
+avatar-selector-save-button =
+    .label = שמירה
+avatar-selector-upload-file = העלאת קובץ
+avatar-selector-drag-file = או גרירת קובץ לכאן
 edit-profile-page-no-name = ניתן לתת שם לפרופיל זה כדי לסייע לך למצוא אותו מאוחר יותר. אפשר לשנות את השם שלו בכל עת.
 edit-profile-page-duplicate-name = שם הפרופיל כבר בשימוש. נא לנסות שם חדש.
 edit-profile-page-profile-saved = נשמר
@@ -116,6 +122,8 @@ shopping-avatar-alt =
     .alt = עגלת קניות
 star-avatar-alt =
     .alt = כוכב
+custom-avatar-alt =
+    .alt = תמונה מייצגת מותאמת אישית
 
 ## Labels for default avatar icons
 

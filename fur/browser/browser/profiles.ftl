@@ -39,6 +39,12 @@ edit-profile-page-delete-button =
 edit-profile-page-avatar-selector-opener-link = Modifiche
 avatar-selector-icon-tab = Icone
 avatar-selector-custom-tab = Personalizât
+avatar-selector-cancel-button =
+    .label = Anule
+avatar-selector-save-button =
+    .label = Salve
+avatar-selector-upload-file = Cjame in rêt un file
+avatar-selector-drag-file = O strissine un file achì
 edit-profile-page-no-name = Da un non a chest profîl par judâti a cjatâlu plui indevant. Tu puedis cambiâi non cuant che tu vûs.
 edit-profile-page-duplicate-name = Non dal profîl za in ûs. Prove cuntun altri non.
 edit-profile-page-profile-saved = Salvât
@@ -116,6 +122,8 @@ shopping-avatar-alt =
     .alt = Carel de spese
 star-avatar-alt =
     .alt = Stele
+custom-avatar-alt =
+    .alt = Avatar personalizât
 
 ## Labels for default avatar icons
 

@@ -656,6 +656,7 @@ home-prefs-weather-description = תחזית היום במבט חטוף
 home-prefs-weather-learn-more-link = מידע נוסף
 home-prefs-trending-search-header =
     .label = חיפושים פופולריים
+home-prefs-trending-search-description = נושאים פופולריים שאנשים מחפשים לעתים קרובות
 # "Support" here means to help sustain or contribute to something, especially through funding or sponsorship.
 home-prefs-support-firefox-header =
     .label = תמיכה ב־{ -brand-product-name }

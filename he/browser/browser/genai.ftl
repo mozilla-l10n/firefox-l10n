@@ -25,11 +25,19 @@ genai-settings-chat-localhost-links = ניתן לספק צ’אט בוט מקו�
 # $provider (string) - name of the provider
 genai-menu-ask-provider =
     .label = לשאול את { $provider }
+genai-menu-open-generic =
+    .label = פתיחת צ’אט בוט AI
+# $provider (string) - name of the provider
+genai-menu-open-provider =
+    .label = פתיחת { $provider }
 genai-menu-remove-generic =
     .label = הסרת צ’אט בוט AI
 # $provider (string) - name of the provider
 genai-menu-remove-provider =
     .label = הסרת { $provider }
+genai-menu-remove-sidebar =
+    .label = הסרה מסרגל הצד
+genai-menu-new-badge = חדש
 genai-input-ask-generic =
     .placeholder = לשאול צ’אט בוט AI…
 # $provider (string) - name of the provider
@@ -54,6 +62,8 @@ genai-shortcuts-selected-warning =
         }
 genai-shortcuts-hide =
     .label = הסתרת קיצור דרך לצ’אט בוט
+genai-menu-choose-chatbot =
+    .label = בחירת צ’אט בוט AI
 
 ## Chatbot header
 

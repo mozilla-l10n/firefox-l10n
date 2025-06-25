@@ -68,6 +68,7 @@ sidebar-show-on-the-left =
 # hovers over it.
 expand-sidebar-on-hover =
     .label = הרחבת סרגל הצד בעת ריחוף העכבר עליו
+sidebar-manage-extensions = ניהול הרחבות
 
 ## Labels for sidebar context menu items
 
@@ -101,6 +102,10 @@ sidebar-context-menu-customize-sidebar =
 #   $deviceName (String) - The name of the device the user is closing a tab for
 sidebar-context-menu-close-remote-tab =
     .label = סגירת לשונית ב־{ $deviceName }
+sidebar-context-menu-remove-extension2 =
+    .label = הסרה מ־{ -brand-short-name }
+sidebar-context-menu-unpin-extension =
+    .label = הסרה מסרגל הצד
 
 ## Labels for sidebar history context menu items
 

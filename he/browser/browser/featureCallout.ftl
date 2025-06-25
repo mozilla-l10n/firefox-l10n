@@ -124,6 +124,10 @@ pin-tabs-callout-1-title = לשמור על לשוניות חשובות בהיש�
 pin-tabs-callout-1-subtitle = ניתן לגרור לשונית לתחילת רצועת הלשוניות כדי לנעוץ אותה. או ללחוץ לחיצה ימנית ולבחור באפשרות ״נעיצת לשונית״.
 pin-tabs-callout-cta-1-button = נעיצת לשונית זו
 pin-tabs-callout-2-title = נעיצת לשוניות שבהן מבקרים הכי הרבה
+pin-tabs-callout-2-subtitle = כדי לנעוץ כל לשונית, יש לגרור אותה לתחילת רצועת הלשוניות. או ללחוץ לחיצה ימנית ולבחור באפשרות ״נעיצת לשונית״.
+pin-tabs-callout-cta-2-button = נעיצת לשונית זו
+pin-tabs-callout-3-title = לשמור על אתרים חשובים בהישג יד
+pin-tabs-callout-4-title = נעיצת אתרים שבהם מבקרים הכי הרבה
 
 ## Sidebar Onboarding Strings
 

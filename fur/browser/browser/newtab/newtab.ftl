@@ -8,6 +8,9 @@
 newtab-page-title = Gnove schede
 newtab-settings-button =
     .title = Personalize la pagjine de tô gnove schede
+newtab-customize-panel-icon-button =
+    .title = Personalize cheste pagjine
+newtab-customize-panel-icon-button-label = Personalize
 newtab-personalize-settings-icon-label =
     .title = Personalize Gnove schede
     .aria-label = Impostazions
@@ -502,6 +505,9 @@ newtab-topic-selection-button-pick-interests = Sielç i tiei interès
 newtab-section-follow-button = Sta daûr
 newtab-section-following-button = Tu stâs daûr
 newtab-section-unfollow-button = Smet di sta daûr
+# A modal may appear next to the Follow button, directing users to try out the feature
+newtab-section-follow-highlight-title = Regole di fin il to feed
+newtab-section-follow-highlight-subtitle = Sta daûr dai argoments che ti interessin par scuvierzi di plui su ce che ti plâs.
 
 ## Button to block/unblock listed topics
 ## "Block", "unblocked", and "blocked" are social media terms that refer to hiding a section of stories.

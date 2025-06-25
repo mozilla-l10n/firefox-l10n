@@ -64,6 +64,7 @@ genai-menu-remove-provider =
 genai-menu-remove-sidebar =
     .label = Gjave de sbare laterâl
 genai-menu-new-badge = Novitât
+genai-menu-summarize-page = Struc de pagjine
 genai-input-ask-generic =
     .placeholder = Domande al chatbox IA…
 # $provider (string) - name of the provider
@@ -90,6 +91,10 @@ genai-shortcuts-selected-warning =
         }
 genai-shortcuts-hide =
     .label = Plate la scurte pai chatbot
+genai-menu-no-provider =
+    .label = Domande a un chatbot IA
+genai-menu-choose-chatbot =
+    .label = Sielç un chatbot IA
 
 ## Chatbot header
 
@@ -116,6 +121,7 @@ genai-options-about-chatbot =
 
 ## Chatbot footer
 
+genai-page-button-summarize = Fâs il sunt de pagjine
 
 ## Chatbot onboarding
 
@@ -151,6 +157,15 @@ genai-onboarding-select-primary = Scomence a chatâ
 genai-chatbot-contextual-title = Dopre un chatbot IA cence cambiâ schede
 genai-chatbot-contextual-subtitle = Messaze te chat e navighe a pâr cuant che tu zontis un chatbot IA te sbare laterâl di { -brand-short-name }.
 genai-chatbot-contextual-button = Sielç un chatbot
+genai-chatbot-summarize-title = Novitât! Met in struc lis pagjinis cuntun clic
+genai-chatbot-summarize-button = Fâs il sunt de pagjine
+# “Summarize Page” should be consistent with the translation for the string genai-menu-summarize-page
+genai-chatbot-summarize-sidebar-provider-subtitle = Fâs clic cul boton diestri dal mouse su di un chatbot IA te sbare laterâl e sielç “Fâs il sunt de pagjine”.
+# “Summarize Page” should be consistent with the translation for the string genai-menu-summarize-page
+genai-chatbot-summarize-sidebar-generic-subtitle = Fâs clic cul boton diestri dal mouse sul boton cu la imagjin di faliscjis te sbare laterâl e sielç “Fâs il sunt de pagjine”. La prime volte tu varâs di sielzi il chatbot IA di doprâ.
+# “Summarize page” should be consistent with the translation for the string genai-page-button-summarize
+genai-chatbot-summarize-footer-provider-subtitle = Vierç il chatbot IA te sbare laterâl e sielç “Fâs il sunt de pagjine” in bas.
+genai-chatbot-summarize-footer-generic-subtitle = Zonte un chatbot IA ae sbare laterâl di { -brand-short-name } par meti in struc al svol lis pagjinis.
 
 ## Chatbot onboarding choices
 ## These describe features/capabilities of chatbot providers. These are not buttons/actions.
