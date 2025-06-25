@@ -204,6 +204,7 @@ contextual-manager-passwords-no-username-heading-and-message =
     .heading = Adjon hozzá egy felhasználónevet
     .message = Adjon hozzá egy felhasználónevet, hogy gyorsabban bejelentkezhessen.
 contextual-manager-passwords-add-username-button = Felhasználónév hozzáadása
+contextual-manager-passwords-title = Jelszavak
 
 ## Login Form
 
@@ -266,6 +267,24 @@ contextual-manager-view-alert-heading =
     .heading = Figyelmeztetés megtekintése
 contextual-manager-view-alert-button =
     .tooltiptext = Figyelmeztetés felülvizsgálata
+# Variables
+#   $count (number) - The number of active alerts associated with the login
+contextual-manager-view-alert-heading-2 =
+    .heading =
+        { $count ->
+            [1] Figyelmeztetés megtekintése
+            [one] Figyelmeztetés megtekintése
+           *[other] Figyelmeztetések megtekintése
+        }
+# Variables
+#   $count (number) - The number of active alerts associated with the login
+contextual-manager-view-alert-button-2 =
+    .tooltiptext =
+        { $count ->
+            [1] Figyelmeztetés felülvizsgálata
+            [one] Figyelmeztetés felülvizsgálata
+           *[other] Figyelmeztetések felülvizsgálata
+        }
 contextual-manager-show-password-button =
     .aria-label = Jelszó megjelenítése
     .title = Jelszó megjelenítése

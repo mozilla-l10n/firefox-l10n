@@ -68,6 +68,7 @@ sidebar-show-on-the-left =
 # hovers over it.
 expand-sidebar-on-hover =
     .label = Oldalsáv kibontása rámutatáskor
+sidebar-manage-extensions = Kiegészítők kezelése
 
 ## Labels for sidebar context menu items
 
@@ -101,6 +102,10 @@ sidebar-context-menu-customize-sidebar =
 #   $deviceName (String) - The name of the device the user is closing a tab for
 sidebar-context-menu-close-remote-tab =
     .label = Lap bezárása itt: { $deviceName }
+sidebar-context-menu-remove-extension2 =
+    .label = Eltávolítás a { -brand-short-name }ból
+sidebar-context-menu-unpin-extension =
+    .label = Eltávolítás az oldalsávról
 
 ## Labels for sidebar history context menu items
 

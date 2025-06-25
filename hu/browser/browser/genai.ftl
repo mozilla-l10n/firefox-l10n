@@ -51,11 +51,20 @@ genai-menu-ask-generic =
 # $provider (string) - name of the provider
 genai-menu-ask-provider =
     .label = A(z) { $provider } megkérdezése
+genai-menu-open-generic =
+    .label = MI csevegőbot megnyitása
+# $provider (string) - name of the provider
+genai-menu-open-provider =
+    .label = A(z) { $provider } megnyitása
 genai-menu-remove-generic =
     .label = MI csevegőbot eltávolítása
 # $provider (string) - name of the provider
 genai-menu-remove-provider =
     .label = A(z) { $provider } eltávolítása
+genai-menu-remove-sidebar =
+    .label = Eltávolítás az oldalsávról
+genai-menu-new-badge = Új
+genai-menu-summarize-page = Összefoglaló oldal
 genai-input-ask-generic =
     .placeholder = Az MI csevegőbot megkérdezése…
 # $provider (string) - name of the provider
@@ -82,6 +91,10 @@ genai-shortcuts-selected-warning =
         }
 genai-shortcuts-hide =
     .label = Csevegőbot indítójának elrejtése
+genai-menu-no-provider =
+    .label = MI csevegőbot megkérdezése
+genai-menu-choose-chatbot =
+    .label = MI csevegőbot választása
 
 ## Chatbot header
 
@@ -108,6 +121,7 @@ genai-options-about-chatbot =
 
 ## Chatbot footer
 
+genai-page-button-summarize = Összefoglaló oldal
 
 ## Chatbot onboarding
 
@@ -143,6 +157,11 @@ genai-onboarding-select-primary = Kezdjen csevegni
 genai-chatbot-contextual-title = Használjon egy MI csevegőbotot lapváltás nélkül
 genai-chatbot-contextual-subtitle = Csevegjen és böngésszen egymás mellett, ha felvesz egy MI csevegőbotot a { -brand-short-name } oldalsávba.
 genai-chatbot-contextual-button = Válasszon csevegőbotot
+genai-chatbot-summarize-title = Új! Foglalja össze az oldalakat egyetlen kattintással.
+genai-chatbot-summarize-button = Összefoglaló oldal
+# “Summarize page” should be consistent with the translation for the string genai-page-button-summarize
+genai-chatbot-summarize-footer-provider-subtitle = Nyissa meg az MI csevegőbotját az oldalsávban, és válassza alul az „Oldal összegzése” lehetőséget.
+genai-chatbot-summarize-footer-generic-subtitle = Adjon hozzá egy MI csevegőbotot a { -brand-short-name } oldalsávhoz, hogy gyorsan összegezze az oldalakat.
 
 ## Chatbot onboarding choices
 ## These describe features/capabilities of chatbot providers. These are not buttons/actions.

@@ -504,6 +504,9 @@ newtab-topic-selection-button-pick-interests = Válassza ki az érdeklődési k�
 newtab-section-follow-button = Követés
 newtab-section-following-button = Követés
 newtab-section-unfollow-button = Követés megszüntetése
+# A modal may appear next to the Follow button, directing users to try out the feature
+newtab-section-follow-highlight-title = Finomhangolja a hírfolyamát
+newtab-section-follow-highlight-subtitle = Kövesse az érdeklődési köreit, hogy többet lásson abból, amit kedvel.
 
 ## Button to block/unblock listed topics
 ## "Block", "unblocked", and "blocked" are social media terms that refer to hiding a section of stories.

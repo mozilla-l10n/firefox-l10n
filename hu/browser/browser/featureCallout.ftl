@@ -106,6 +106,11 @@ perplexity-callout-secondary-label-2 = Megértettem
 
 ## Account Adoption Passwords callout strings
 
+# Suggestion to backup passwords by signing up for Mozilla account and using sync
+fxa-adoption-passwords-title = Jelszó mentve. Készítsünk róla biztonsági mentést.
+fxa-adoption-passwords-subtitle = Védje meg a jelszavait azáltal, hogy titkosítva szinkronizálja azokat az eszközeire.
+# Opens Mozilla accounts sign-up page
+fxa-adoption-passwords-primary-button-label = Regisztráció
 
 ## Sidebar Strings
 
@@ -130,6 +135,12 @@ sidebar-pins-callout-cta-button = Lap rögzítése
 
 ## Pinning Tabs Strings
 
+pin-tabs-callout-1-title = Tartsa kéznél a fontos lapjait
+pin-tabs-callout-cta-1-button = Lap rögzítése
+pin-tabs-callout-2-title = Rögzítse a leggyakrabban látogatott lapokat
+pin-tabs-callout-cta-2-button = Lap rögzítése
+pin-tabs-callout-3-title = Tartsa kéznél a fontos webhelyeket
+pin-tabs-callout-4-title = Rögzítse a leggyakrabban látogatott webhelyeket
 
 ## Sidebar Onboarding Strings
 
