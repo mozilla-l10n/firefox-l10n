@@ -607,6 +607,10 @@ urlbar-search-mode-indicator-close =
 # engine is unknown.
 urlbar-placeholder =
     .placeholder = 搜索或输入网址
+# This placeholder is used when not in search mode and searching in the urlbar
+# is disabled via the keyword.enabled pref.
+urlbar-placeholder-keyword-disabled =
+    .placeholder = 输入地址
 # This placeholder is used in search mode with search engines that search the
 # entire web.
 # Variables
@@ -1296,3 +1300,6 @@ file-picker-crashed-show-in-folder =
 ## Onboarding Finish Setup checklist
 
 onboarding-checklist-button-label = 完成设置
+onboarding-aw-finish-setup-button =
+    .label = 完成设置
+    .tooltiptext = 完成对 { -brand-short-name } 的设置

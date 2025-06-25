@@ -68,6 +68,7 @@ sidebar-show-on-the-left =
 # hovers over it.
 expand-sidebar-on-hover =
     .label = 悬停时展开侧栏
+sidebar-manage-extensions = 管理扩展
 
 ## Labels for sidebar context menu items
 
@@ -101,6 +102,10 @@ sidebar-context-menu-customize-sidebar =
 #   $deviceName (String) - The name of the device the user is closing a tab for
 sidebar-context-menu-close-remote-tab =
     .label = 关闭 { $deviceName } 中的标签页
+sidebar-context-menu-remove-extension2 =
+    .label = 从 { -brand-short-name } 移除
+sidebar-context-menu-unpin-extension =
+    .label = 从侧栏移除
 
 ## Labels for sidebar history context menu items
 

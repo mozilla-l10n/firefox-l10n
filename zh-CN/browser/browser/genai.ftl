@@ -51,11 +51,20 @@ genai-menu-ask-generic =
 # $provider (string) - name of the provider
 genai-menu-ask-provider =
     .label = 询问 { $provider }
+genai-menu-open-generic =
+    .label = 打开 AI 聊天机器人
+# $provider (string) - name of the provider
+genai-menu-open-provider =
+    .label = 打开 { $provider }
 genai-menu-remove-generic =
     .label = 移除 AI 聊天机器人
 # $provider (string) - name of the provider
 genai-menu-remove-provider =
     .label = 移除 { $provider }
+genai-menu-remove-sidebar =
+    .label = 从侧栏移除
+genai-menu-new-badge = 新
+genai-menu-summarize-page = 总结页面
 genai-input-ask-generic =
     .placeholder = 询问 AI 聊天机器人…
 # $provider (string) - name of the provider
@@ -74,6 +83,10 @@ genai-shortcuts-selected-warning =
     .message = 您选中了约 { $selectionLength } 个字符，我们最多可向 { $provider } 发送约 { $maxLength } 个字符。
 genai-shortcuts-hide =
     .label = 隐藏聊天机器人快捷方式
+genai-menu-no-provider =
+    .label = 询问 AI 聊天机器人
+genai-menu-choose-chatbot =
+    .label = 选择 AI 聊天机器人
 
 ## Chatbot header
 
@@ -100,6 +113,7 @@ genai-options-about-chatbot =
 
 ## Chatbot footer
 
+genai-page-button-summarize = 总结页面
 
 ## Chatbot onboarding
 
@@ -135,6 +149,15 @@ genai-onboarding-select-primary = 开始聊天
 genai-chatbot-contextual-title = 使用 AI 聊天机器人时，无需再切换标签页
 genai-chatbot-contextual-subtitle = 在 { -brand-short-name } 侧栏中添加 AI 聊天机器人，让聊天与浏览齐驱并进。
 genai-chatbot-contextual-button = 选择聊天机器人
+genai-chatbot-summarize-title = 新功能！一键总结页面
+genai-chatbot-summarize-button = 总结页面
+# “Summarize Page” should be consistent with the translation for the string genai-menu-summarize-page
+genai-chatbot-summarize-sidebar-provider-subtitle = 右键点击侧栏中的 AI 聊天机器人，然后选择“总结页面”。
+# “Summarize Page” should be consistent with the translation for the string genai-menu-summarize-page
+genai-chatbot-summarize-sidebar-generic-subtitle = 右键点击侧栏中的星芒按钮，然后选择“总结页面”。首次使用时，需要先选择 AI 聊天机器人。
+# “Summarize page” should be consistent with the translation for the string genai-page-button-summarize
+genai-chatbot-summarize-footer-provider-subtitle = 在侧栏中打开 AI 聊天机器人，然后选择底部的“总结页面”。
+genai-chatbot-summarize-footer-generic-subtitle = 将 AI 聊天机器人添加到 { -brand-short-name } 侧栏，方便快速总结页面。
 
 ## Chatbot onboarding choices
 ## These describe features/capabilities of chatbot providers. These are not buttons/actions.

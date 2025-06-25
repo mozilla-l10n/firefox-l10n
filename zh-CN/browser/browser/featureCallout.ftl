@@ -106,6 +106,11 @@ perplexity-callout-secondary-label-2 = 明白了
 
 ## Account Adoption Passwords callout strings
 
+# Suggestion to backup passwords by signing up for Mozilla account and using sync
+fxa-adoption-passwords-title = 密码已保存，建议备份。
+fxa-adoption-passwords-subtitle = 将密码加密同步到您的其他设备，以保护密码安全。
+# Opens Mozilla accounts sign-up page
+fxa-adoption-passwords-primary-button-label = 注册
 
 ## Sidebar Strings
 
@@ -130,6 +135,14 @@ sidebar-pins-callout-cta-button = 固定标签页
 
 ## Pinning Tabs Strings
 
+pin-tabs-callout-1-title = 让重要标签页触手可及
+pin-tabs-callout-1-subtitle = 将标签页拖到标签页栏首端以将其固定，也可以右键点击并选择“固定标签页”。
+pin-tabs-callout-cta-1-button = 固定此标签页
+pin-tabs-callout-2-title = 固定常用标签页
+pin-tabs-callout-2-subtitle = 将标签页拖到标签页栏首端即可将其固定，也可以右键点击并选择“固定标签页”。
+pin-tabs-callout-cta-2-button = 固定此标签页
+pin-tabs-callout-3-title = 让重要网站触手可及
+pin-tabs-callout-4-title = 固定常用网站
 
 ## Sidebar Onboarding Strings
 
