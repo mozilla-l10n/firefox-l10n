@@ -216,6 +216,7 @@ contextual-manager-passwords-no-username-heading-and-message =
     .heading = Přidajće wužiwarske mjeno
     .message = Přidajće jo, zo byšće so spěšnišo přizjewił
 contextual-manager-passwords-add-username-button = Wužiwarske mjeno přidać
+contextual-manager-passwords-title = Hesła
 
 ## Login Form
 

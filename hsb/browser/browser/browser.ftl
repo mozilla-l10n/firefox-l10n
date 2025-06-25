@@ -622,6 +622,10 @@ urlbar-search-mode-indicator-close =
 # engine is unknown.
 urlbar-placeholder =
     .placeholder = Pytać abo adresu zapodać
+# This placeholder is used when not in search mode and searching in the urlbar
+# is disabled via the keyword.enabled pref.
+urlbar-placeholder-keyword-disabled =
+    .placeholder = Adresu zapodać
 # This placeholder is used in search mode with search engines that search the
 # entire web.
 # Variables
@@ -1325,3 +1329,6 @@ file-picker-crashed-show-in-folder =
 ## Onboarding Finish Setup checklist
 
 onboarding-checklist-button-label = Konfiguraciju dokončić
+onboarding-aw-finish-setup-button =
+    .label = Konfiguraciju dokónčić
+    .tooltiptext = Konfiguraciju { -brand-short-name } dokónčić
