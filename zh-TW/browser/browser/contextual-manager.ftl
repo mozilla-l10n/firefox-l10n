@@ -198,6 +198,7 @@ contextual-manager-passwords-no-username-heading-and-message =
     .heading = 新增使用者名稱
     .message = 新增使用者名稱讓您更快速登入。
 contextual-manager-passwords-add-username-button = 新增使用者名稱
+contextual-manager-passwords-title = 密碼
 
 ## Login Form
 
@@ -260,6 +261,22 @@ contextual-manager-view-alert-heading =
     .heading = 檢視警報
 contextual-manager-view-alert-button =
     .tooltiptext = 檢視警報內容
+# Variables
+#   $count (number) - The number of active alerts associated with the login
+contextual-manager-view-alert-heading-2 =
+    .heading =
+        { $count ->
+            [1] 檢視警報
+           *[other] 檢視警報
+        }
+# Variables
+#   $count (number) - The number of active alerts associated with the login
+contextual-manager-view-alert-button-2 =
+    .tooltiptext =
+        { $count ->
+            [1] 檢視警報內容
+           *[other] 檢視警報內容
+        }
 contextual-manager-show-password-button =
     .aria-label = 顯示密碼
     .title = 顯示密碼
