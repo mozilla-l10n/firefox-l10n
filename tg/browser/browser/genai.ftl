@@ -61,6 +61,10 @@ genai-menu-remove-generic =
 # $provider (string) - name of the provider
 genai-menu-remove-provider =
     .label = Тоза кардани «{ $provider }»
+genai-menu-remove-sidebar =
+    .label = Тоза кардан аз навори ҷонибӣ
+genai-menu-new-badge = Нав
+genai-menu-summarize-page = Баровардани хулоса дар бораи ин саҳифа
 genai-input-ask-generic =
     .placeholder = Аз чат-боти зеҳни сунъӣ «AI» пурсед…
 # $provider (string) - name of the provider
@@ -85,6 +89,10 @@ genai-shortcuts-selected-warning =
         }
 genai-shortcuts-hide =
     .label = Пинҳон кардани миёнбури чат-бот
+genai-menu-no-provider =
+    .label = Аз чат-боти зеҳни сунъӣ «AI» пурсед
+genai-menu-choose-chatbot =
+    .label = Интихоби чат-боти зеҳни сунъӣ «AI»
 
 ## Chatbot header
 
@@ -111,6 +119,7 @@ genai-options-about-chatbot =
 
 ## Chatbot footer
 
+genai-page-button-summarize = Баровардани хулоса дар бораи ин саҳифа
 
 ## Chatbot onboarding
 
@@ -146,6 +155,7 @@ genai-onboarding-select-primary = Оғоз кардани чат
 genai-chatbot-contextual-title = Аз чат-боти зеҳни сунъӣ («AI») истифода баред — гузаштан аз варақа ба варақа лозим нест
 genai-chatbot-contextual-subtitle = Ҳангоми илова кардани чат-боти зеҳни сунъӣ «AI» дар навори ҷонибии «{ -brand-short-name }», метавонед ҳамзамон суҳбат кунед ва дар паҳлӯи он дар Интернет сомонаҳоро тамошо кунед.
 genai-chatbot-contextual-button = Чат-ботеро интихоб намоед
+genai-chatbot-summarize-button = Баровардани хулоса дар бораи ин саҳифа
 
 ## Chatbot onboarding choices
 ## These describe features/capabilities of chatbot providers. These are not buttons/actions.

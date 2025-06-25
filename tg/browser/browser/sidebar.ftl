@@ -68,6 +68,7 @@ sidebar-show-on-the-left =
 # hovers over it.
 expand-sidebar-on-hover =
     .label = Баркушодани навори ҷонибӣ ҳангоми гузоштани нишондиҳандаи муш ба болои он
+sidebar-manage-extensions = Идоракунии васеъшавиҳо
 
 ## Labels for sidebar context menu items
 
@@ -101,6 +102,10 @@ sidebar-context-menu-customize-sidebar =
 #   $deviceName (String) - The name of the device the user is closing a tab for
 sidebar-context-menu-close-remote-tab =
     .label = Пӯшидани варақа дар «{ $deviceName }»
+sidebar-context-menu-remove-extension2 =
+    .label = Тоза кардан аз «{ -brand-short-name }»
+sidebar-context-menu-unpin-extension =
+    .label = Тоза кардан аз навори ҷонибӣ
 
 ## Labels for sidebar history context menu items
 
