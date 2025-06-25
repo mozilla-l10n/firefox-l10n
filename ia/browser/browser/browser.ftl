@@ -611,6 +611,10 @@ urlbar-search-mode-indicator-close =
 # engine is unknown.
 urlbar-placeholder =
     .placeholder = Insere un adresse o face un recerca
+# This placeholder is used when not in search mode and searching in the urlbar
+# is disabled via the keyword.enabled pref.
+urlbar-placeholder-keyword-disabled =
+    .placeholder = Inserer adresse
 # This placeholder is used in search mode with search engines that search the
 # entire web.
 # Variables
@@ -1306,3 +1310,6 @@ file-picker-crashed-show-in-folder =
 ## Onboarding Finish Setup checklist
 
 onboarding-checklist-button-label = Completa le configuration
+onboarding-aw-finish-setup-button =
+    .label = Finir configuration
+    .tooltiptext = Fini configurar { -brand-short-name }

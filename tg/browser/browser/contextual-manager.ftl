@@ -198,6 +198,7 @@ contextual-manager-passwords-no-username-heading-and-message =
     .heading = Илова кардани номи корбар
     .message = Барои воридшавии зуд, номи корбареро илова намоед.
 contextual-manager-passwords-add-username-button = Илова кардани номи корбар
+contextual-manager-passwords-title = Ниҳонвожаҳо
 
 ## Login Form
 
@@ -260,6 +261,22 @@ contextual-manager-view-alert-heading =
     .heading = Дидани огоҳӣ
 contextual-manager-view-alert-button =
     .tooltiptext = Баррасӣ кардани огоҳӣ
+# Variables
+#   $count (number) - The number of active alerts associated with the login
+contextual-manager-view-alert-heading-2 =
+    .heading =
+        { $count ->
+            [1] Дидани огоҳӣ
+           *[other] View alerts
+        }
+# Variables
+#   $count (number) - The number of active alerts associated with the login
+contextual-manager-view-alert-button-2 =
+    .tooltiptext =
+        { $count ->
+            [1] Баррасӣ кардани огоҳӣ
+           *[other] Review alerts
+        }
 contextual-manager-show-password-button =
     .aria-label = Намоиш додани ниҳонвожа
     .title = Намоиш додани ниҳонвожа

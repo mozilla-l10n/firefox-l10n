@@ -51,11 +51,20 @@ genai-menu-ask-generic =
 # $provider (string) - name of the provider
 genai-menu-ask-provider =
     .label = Demandar a  { $provider }
+genai-menu-open-generic =
+    .label = Open AI Chatbot
+# $provider (string) - name of the provider
+genai-menu-open-provider =
+    .label = Aperir { $provider }
 genai-menu-remove-generic =
     .label = Remover chatbot IA
 # $provider (string) - name of the provider
 genai-menu-remove-provider =
     .label = Remover { $provider }
+genai-menu-remove-sidebar =
+    .label = Remover del barra lateral
+genai-menu-new-badge = Nove
+genai-menu-summarize-page = Summarisar pagina
 genai-input-ask-generic =
     .placeholder = Demandar a chatbot IA…
 # $provider (string) - name of the provider
@@ -82,6 +91,8 @@ genai-shortcuts-selected-warning =
         }
 genai-shortcuts-hide =
     .label = Celar via breve pro chatbot
+genai-menu-choose-chatbot =
+    .label = Elige un robot confabulatori IA
 
 ## Chatbot header
 
@@ -108,6 +119,7 @@ genai-options-about-chatbot =
 
 ## Chatbot footer
 
+genai-page-button-summarize = Summarisar pagina
 
 ## Chatbot onboarding
 
@@ -143,6 +155,8 @@ genai-onboarding-select-primary = Initia a chattar
 genai-chatbot-contextual-title = Usa un robot confabulator IA sin mutar schedas
 genai-chatbot-contextual-subtitle = Chatta e naviga latere a latere addente un robot confabulator IA in le barra lateral de { -brand-short-name }.
 genai-chatbot-contextual-button = Elige un robot confabulator
+genai-chatbot-summarize-title = Nove! Summarisar paginas in un clic
+genai-chatbot-summarize-button = Summarisar pagina
 
 ## Chatbot onboarding choices
 ## These describe features/capabilities of chatbot providers. These are not buttons/actions.

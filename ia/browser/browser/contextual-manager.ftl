@@ -202,6 +202,7 @@ contextual-manager-passwords-no-username-heading-and-message =
     .heading = Adder un nomine de usator
     .message = Adder un pro signar plus velocemente.
 contextual-manager-passwords-add-username-button = Adder nomine de usator
+contextual-manager-passwords-title = Contrasignos
 
 ## Login Form
 
@@ -264,6 +265,24 @@ contextual-manager-view-alert-heading =
     .heading = Vider aviso
 contextual-manager-view-alert-button =
     .tooltiptext = Examina aviso
+# Variables
+#   $count (number) - The number of active alerts associated with the login
+contextual-manager-view-alert-heading-2 =
+    .heading =
+        { $count ->
+            [1] Vider alerta
+            [one] Vider alerta
+           *[other] Vider alertas
+        }
+# Variables
+#   $count (number) - The number of active alerts associated with the login
+contextual-manager-view-alert-button-2 =
+    .tooltiptext =
+        { $count ->
+            [1] Revider alerta
+            [one] Revider alerta
+           *[other] Revider alertas
+        }
 contextual-manager-show-password-button =
     .aria-label = Monstrar contrasigno
     .title = Monstrar contrasigno

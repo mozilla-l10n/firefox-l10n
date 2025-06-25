@@ -106,6 +106,11 @@ perplexity-callout-secondary-label-2 = Фаҳмидам
 
 ## Account Adoption Passwords callout strings
 
+# Suggestion to backup passwords by signing up for Mozilla account and using sync
+fxa-adoption-passwords-title = Ниҳонвожа нигоҳ дошта шуд. Биёед нусхаи эҳтиётии онро созем.
+fxa-adoption-passwords-subtitle = Ниҳонвожаҳои худро тавассути ҳамоҳангсозии онҳо бо дастгоҳҳои худ ва истифода аз рамзгузорӣ муҳофизат намоед.
+# Opens Mozilla accounts sign-up page
+fxa-adoption-passwords-primary-button-label = Бақайдгирӣ
 
 ## Sidebar Strings
 
@@ -130,6 +135,10 @@ sidebar-pins-callout-cta-button = Васл кардани варақа
 
 ## Pinning Tabs Strings
 
+pin-tabs-callout-1-title = Варақаҳои муҳимро ба таври дастрас нигоҳ доред
+pin-tabs-callout-cta-1-button = Васл кардани ин варақа
+pin-tabs-callout-cta-2-button = Васл кардани ин варақа
+pin-tabs-callout-3-title = Сомонаҳои муҳимро ба таври дастрас нигоҳ доред
 
 ## Sidebar Onboarding Strings
 
