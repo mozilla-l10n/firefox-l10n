@@ -544,18 +544,48 @@ pdfjs-editor-add-signature-type-input =
     .placeholder = Ukucajte svoj potpis
 pdfjs-editor-add-signature-draw-placeholder = Napišite svoj potpis
 pdfjs-editor-add-signature-draw-thickness-range-label = Debljina
+# Variables:
+#   $thickness (Number) - the thickness (in pixels) of the line used to draw a signature.
+pdfjs-editor-add-signature-draw-thickness-range =
+    .title = Debljina pisanja: { $thickness }
+pdfjs-editor-add-signature-image-placeholder = Prevucite datoteku ovdje da biste je učitali
+pdfjs-editor-add-signature-image-browse-link =
+    { PLATFORM() ->
+        [macos] Ili odaberite slikovne datoteke
+       *[other] Ili pregledajte slikovne datoteke
+    }
 
 ## Controls
 
+pdfjs-editor-add-signature-description-label = Opis (alternativni tekst)
+pdfjs-editor-add-signature-description-input =
+    .title = Opis (alternativni tekst)
+pdfjs-editor-add-signature-description-default-when-drawing = Potpis
+pdfjs-editor-add-signature-clear-button-label = Očisti potpis
+pdfjs-editor-add-signature-clear-button =
+    .title = Očisti potpis
+pdfjs-editor-add-signature-save-checkbox = Sačuvaj potpis
+pdfjs-editor-add-signature-save-warning-message = Dostigli ste ograničenje od 5 sačuvanih potpisa. Uklonite jedan da biste sačuvali više.
+pdfjs-editor-add-signature-image-upload-error-title = Nije moguće učitati sliku
+pdfjs-editor-add-signature-image-upload-error-description = Provjerite mrežnu vezu ili pokušajte s drugom slikom.
+pdfjs-editor-add-signature-error-close-button = Zatvori
 
 ## Dialog buttons
 
+pdfjs-editor-add-signature-cancel-button = Otkaži
+pdfjs-editor-add-signature-add-button = Dodaj
+pdfjs-editor-edit-signature-update-button = Ažuriraj
 
 ## Main menu for adding/removing signatures
 
+pdfjs-editor-delete-signature-button1 =
+    .title = Ukloni sačuvani potpis
+pdfjs-editor-delete-signature-button-label1 = Ukloni sačuvani potpis
 
 ## Editor toolbar
 
+pdfjs-editor-add-signature-edit-button-label = Uredi opis
 
 ## Edit signature description dialog
 
+pdfjs-editor-edit-signature-dialog-title = Uredi opis
