@@ -18,7 +18,7 @@ rights-intro-point-3 =
     web e distribuî i dâts tirâts dongje.
 rights-intro-point-4 =
     La modalitât di utilizazion dai dâts personâi, dai coments e dai sugjeriments
-    tirâts dongje di { -vendor-short-name } midiant { -brand-short-name } e je 
+    tirâts sù di { -vendor-short-name } midiant { -brand-short-name } e je 
     descrite te<a data-l10n-name="mozilla-privacy-policy-link">Politiche pe
     riservatece di { -brand-short-name }</a>.
 rights-intro-point-4-unbranded = Cualsisei politiche di privacy relatîf a chest prodot al varès di jessi listât ca.
