@@ -165,6 +165,9 @@ genai-chatbot-summarize-title = Nowy! Zjimajće strony z jednym klikom
 genai-chatbot-summarize-button = Stronu zjimać
 # “Summarize Page” should be consistent with the translation for the string genai-menu-summarize-page
 genai-chatbot-summarize-sidebar-provider-subtitle = Klikńće z prawej tastu na swój chatbot KI w bóčnicy a wubjerće „Stronu zjimać“.
+# “Summarize page” should be consistent with the translation for the string genai-page-button-summarize
+genai-chatbot-summarize-footer-provider-subtitle = Wočińće swój chatbot KI w bóčnicy a wubjerće deleka  „Stronu zjimać“.
+genai-chatbot-summarize-footer-generic-subtitle = Přidajće bóčnicy { -brand-short-name } chatbot KI, zo byšće spěšnje strony zjimał.
 
 ## Chatbot onboarding choices
 ## These describe features/capabilities of chatbot providers. These are not buttons/actions.
