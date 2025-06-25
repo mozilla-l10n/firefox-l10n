@@ -29,6 +29,9 @@ list-empty-button =
 help-button = Podrška za dodatke
 sidebar-help-button-title =
     .title = Podrška za dodatke
+addons-settings-button = Postavke za { -brand-short-name }
+sidebar-settings-button-title =
+    .title = Postavke za { -brand-short-name }
 show-unsigned-extensions-button =
     .label = Neke ekstenzije nisu mogle biti verifikovane
 show-all-extensions-button =
@@ -37,7 +40,12 @@ detail-version =
     .label = Verzija
 detail-last-updated =
     .label = Zadnja nadogradnja
+addon-detail-description-expand = Prikaži više
+addon-detail-description-collapse = Prikaži manje
 detail-contributions-description = Developer ovog add-ona vas je zamolio da podržite njegov dalji razvoj davanjem malog doprinosa.
+detail-contributions-button = Doprinesi
+    .title = Doprinesite razvoju ovog dodatka
+    .accesskey = C
 detail-update-type =
     .value = Automatske nadogradnje
 detail-update-default =
@@ -49,6 +57,21 @@ detail-update-automatic =
 detail-update-manual =
     .label = Isključeno
     .tooltiptext = Nemoj automatski nadograđivati
+# Used as a description for the option to allow or block an add-on in private windows.
+detail-private-browsing-label = Pokreni u privatnim prozorima
+# Some add-ons may elect to not run in private windows by setting incognito: not_allowed in the manifest.  This
+# cannot be overridden by the user.
+detail-private-disallowed-label = Nije dozvoljeno u privatnim prozorima
+detail-private-disallowed-description2 = Ova ekstenzija se ne pokreće tokom privatnog pregledavanja. <a data-l10n-name="learn-more">Saznajte više</a>
+# Some special add-ons are privileged, run in private windows automatically, and this permission can't be revoked
+detail-private-required-label = Zahtijeva pristup privatnim prozorima
+detail-private-required-description2 = Ova ekstenzija ima pristup vašim online aktivnostima tokom privatnog pregledavanja. <a data-l10n-name="learn-more">Saznajte više</a>
+detail-private-browsing-on =
+    .label = Dozvoli
+    .tooltiptext = Dozvolite u privatnom pregledavanju
+detail-private-browsing-off =
+    .label = Nemoj dozvoliti
+    .tooltiptext = Onemogućite u privatnom pregledavanju
 detail-home =
     .label = Web stranica
 detail-home-value =
@@ -91,6 +114,15 @@ legacy-warning-show-legacy = Prikaže zastarjele ekstenzije
 legacy-extensions =
     .value = Zastarjele ekstenzije
 legacy-extensions-description = Ove ekstenzije ne zadovoljavaju trenutne { -brand-short-name } standarde i stoga su deaktivirane. <label data-l10n-name="legacy-learn-more">Saznajte više o promjenama na add-onima</label>
+private-browsing-description2 =
+    { -brand-short-name } mijenja način na koji ekstenzije rade u privatnom pregledavanju. Sve nove ekstenzije koje dodate u
+    { -brand-short-name } neće se pokretati prema zadanim postavkama u Privatnim prozorima. Osim ako to ne dozvolite u postavkama,
+    ekstenzija neće raditi tokom privatnog pregledavanja i neće imati pristup vašim online aktivnostima
+    tamo. Napravili smo ovu promjenu kako bismo vaše privatno pregledavanje održali privatnim.
+    <label data-l10n-name="private-browsing-learn-more">Saznajte kako upravljati postavkama ekstenzija</label>
+addon-category-discover = Preporuke
+addon-category-discover-title =
+    .title = Preporuke
 addon-category-extension = Ekstenzije
 addon-category-extension-title =
     .title = Ekstenzije
@@ -112,6 +144,13 @@ addon-category-available-updates-title =
 addon-category-recent-updates = Nedavne nadogradnje
 addon-category-recent-updates-title =
     .title = Nedavne nadogradnje
+addon-category-sitepermission = Dozvole za web stranice
+addon-category-sitepermission-title =
+    .title = Dozvole za web stranice
+# String displayed in about:addons in the Site Permissions section
+# Variables:
+#  $host (string) - DNS host name for which the webextension enables permissions
+addon-sitepermission-host = Dozvole za web stranicu za { $host }
 
 ## These are global warnings
 
@@ -300,9 +339,61 @@ preferences-addon-button =
 details-addon-button = Detalji
 release-notes-addon-button = Napomene o izdanju
 permissions-addon-button = Dozvole
+extension-enabled-heading = Omogućeno
+extension-disabled-heading = Onemogućeno
+theme-enabled-heading = Omogućeno
+theme-disabled-heading2 = Sačuvane teme
+plugin-enabled-heading = Omogućeno
+plugin-disabled-heading = Onemogućeno
+dictionary-enabled-heading = Omogućeno
+dictionary-disabled-heading = Onemogućeno
+locale-enabled-heading = Omogućeno
+locale-disabled-heading = Onemogućeno
+sitepermission-enabled-heading = Omogućeno
+sitepermission-disabled-heading = Onemogućeno
+always-activate-button = Uvijek aktiviraj
+never-activate-button = Nikada ne aktiviraj
+addon-detail-author-label = Autor
+addon-detail-version-label = Verzija
+addon-detail-last-updated-label = Posljednje ažuriranje
+addon-detail-homepage-label = Početna stranica
+addon-detail-rating-label = Ocjena
+# Message for add-ons with a staged pending update.
+install-postponed-message = Ova ekstenzija će biti ažurirana kada se { -brand-short-name } ponovo pokrene.
+# Message for add-ons with a staged pending update.
+install-postponed-message2 =
+    .message = Ova ekstenzija će biti ažurirana kada se { -brand-short-name } ponovo pokrene.
+install-postponed-button = Ažuriraj odmah
+# The average rating that the add-on has received.
+# Variables:
+#   $rating (number) - A number between 0 and 5. The translation should show at most one digit after the comma.
+five-star-rating =
+    .title = Ocjena { NUMBER($rating, maximumFractionDigits: 1) } od 5
+# This string is used to show that an add-on is disabled.
+# Variables:
+#   $name (string) - The name of the add-on
+addon-name-disabled = { $name } (onemogućeno)
+# The number of reviews that an add-on has received on AMO.
+# Variables:
+#   $numberOfReviews (number) - The number of reviews received
+addon-detail-reviews-link =
+    { $numberOfReviews ->
+        [one] { $numberOfReviews } recenzija
+        [few] { $numberOfReviews } recenzije
+       *[other] { $numberOfReviews } recenzija
+    }
 
 ## Pending uninstall message bar
 
+# Variables:
+#   $addon (string) - Name of the add-on
+pending-uninstall-description = Dodatak <span data-l10n-name="addon-name">{ $addon }</span> je uklonjen.
+# Variables:
+#   $addon (string) - Name of the add-on
+pending-uninstall-description2 =
+    .message = Dodatak { $addon } je uklonjen.
+pending-uninstall-undo-button = Poništi
+addon-detail-updates-label = Dozvoli automatska ažuriranja
 
 ## "sites with restrictions" (internally called "quarantined") are special domains
 ## where add-ons are normally blocked for security reasons.
