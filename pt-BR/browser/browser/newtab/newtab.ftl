@@ -500,6 +500,7 @@ newtab-topic-selection-button-pick-interests = Escolha seus interesses
 newtab-section-follow-button = Seguir
 newtab-section-following-button = Seguindo
 newtab-section-unfollow-button = Parar de seguir
+newtab-section-follow-highlight-subtitle = Siga o que você se interessa para aparecer mais do que você gosta.
 
 ## Button to block/unblock listed topics
 ## "Block", "unblocked", and "blocked" are social media terms that refer to hiding a section of stories.

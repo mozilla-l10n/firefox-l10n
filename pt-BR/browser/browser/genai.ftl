@@ -88,6 +88,10 @@ genai-shortcuts-selected-warning =
         }
 genai-shortcuts-hide =
     .label = Ocultar atalho de chatbot
+genai-menu-no-provider =
+    .label = Perguntar a um chatbot de inteligência artificial
+genai-menu-choose-chatbot =
+    .label = Escolha um chatbot de inteligência artificial
 
 ## Chatbot header
 
@@ -114,6 +118,7 @@ genai-options-about-chatbot =
 
 ## Chatbot footer
 
+genai-page-button-summarize = Resumir página
 
 ## Chatbot onboarding
 
@@ -149,6 +154,13 @@ genai-onboarding-select-primary = Comece a conversar
 genai-chatbot-contextual-title = Use um chatbot de inteligência artificial sem mudar de aba
 genai-chatbot-contextual-subtitle = Converse e navegue lado a lado ao adicionar um chatbot de inteligência artificial ao painel lateral do { -brand-short-name }.
 genai-chatbot-contextual-button = Escolha um chatbot
+genai-chatbot-summarize-title = Novidade! Resuma páginas com um único clique
+genai-chatbot-summarize-button = Resumir página
+# “Summarize Page” should be consistent with the translation for the string genai-menu-summarize-page
+genai-chatbot-summarize-sidebar-provider-subtitle = Clique com o botão direito em seu chatbot de inteligência artificial no painel lateral e escolha “Resumir página”.
+# “Summarize page” should be consistent with the translation for the string genai-page-button-summarize
+genai-chatbot-summarize-footer-provider-subtitle = Abra seu chatbot de inteligência artificial no painel lateral e escolha “Resumir página” no final.
+genai-chatbot-summarize-footer-generic-subtitle = Adicione um chatbot de inteligência artificial à barra lateral do { -brand-short-name } para resumir páginas rapidamente.
 
 ## Chatbot onboarding choices
 ## These describe features/capabilities of chatbot providers. These are not buttons/actions.
