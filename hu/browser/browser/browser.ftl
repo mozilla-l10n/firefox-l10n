@@ -614,6 +614,10 @@ urlbar-search-mode-indicator-close =
 # engine is unknown.
 urlbar-placeholder =
     .placeholder = Keresés vagy cím
+# This placeholder is used when not in search mode and searching in the urlbar
+# is disabled via the keyword.enabled pref.
+urlbar-placeholder-keyword-disabled =
+    .placeholder = Cím megadása
 # This placeholder is used in search mode with search engines that search the
 # entire web.
 # Variables
@@ -1309,3 +1313,6 @@ file-picker-crashed-show-in-folder =
 ## Onboarding Finish Setup checklist
 
 onboarding-checklist-button-label = Beállítás befejezése
+onboarding-aw-finish-setup-button =
+    .label = Beállítás befejezése
+    .tooltiptext = A { -brand-short-name } beállításának befejezése
