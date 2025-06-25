@@ -49,5 +49,5 @@ experimental-features-link-previews-description-no-ai =
     }
 # New Tab Sections with follow and block
 experimental-features-newtab-sections-follow-block =
-    .label = Secciones de tema y Seguir/Bloquear para nuevas historias
+    .label = Secciones de tema y Seguir/Bloquear para historias en nuevas pestañas
 experimental-features-newtab-sections-follow-block-description = Organice las historias en la página Nueva pestaña en secciones temáticas (Deportes, Comida, Entretenimiento y más) para una experiencia más estructurada y fácil de leer. Use nuestros nuevos controles Seguir y Bloquear para personalizar el contenido que se ve. <a data-l10n-name="connect">Compartir opinión</a>
