@@ -204,6 +204,7 @@ contextual-manager-passwords-no-username-heading-and-message =
     .heading = Gebruikersnaam toevoegen
     .message = Voeg er een toe om sneller aan te melden.
 contextual-manager-passwords-add-username-button = Gebruikersnaam toevoegen
+contextual-manager-passwords-title = Wachtwoorden
 
 ## Login Form
 
@@ -266,6 +267,24 @@ contextual-manager-view-alert-heading =
     .heading = Waarschuwing tonen
 contextual-manager-view-alert-button =
     .tooltiptext = Waarschuwing beoordelen
+# Variables
+#   $count (number) - The number of active alerts associated with the login
+contextual-manager-view-alert-heading-2 =
+    .heading =
+        { $count ->
+            [1] Waarschuwing tonen
+            [one] Waarschuwing tonen
+           *[other] Waarschuwingen tonen
+        }
+# Variables
+#   $count (number) - The number of active alerts associated with the login
+contextual-manager-view-alert-button-2 =
+    .tooltiptext =
+        { $count ->
+            [1] Waarschuwing beoordelen
+            [one] Waarschuwing beoordelen
+           *[other] Waarschuwingen beoordelen
+        }
 contextual-manager-show-password-button =
     .aria-label = Wachtwoord tonen
     .title = Wachtwoord tonen

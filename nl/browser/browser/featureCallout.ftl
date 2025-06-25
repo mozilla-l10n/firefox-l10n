@@ -106,6 +106,11 @@ perplexity-callout-secondary-label-2 = Begrepen
 
 ## Account Adoption Passwords callout strings
 
+# Suggestion to backup passwords by signing up for Mozilla account and using sync
+fxa-adoption-passwords-title = Wachtwoord opgeslagen. Laten we een back-up maken.
+fxa-adoption-passwords-subtitle = Bescherm uw wachtwoorden door ze versleuteld met uw apparaten te synchroniseren.
+# Opens Mozilla accounts sign-up page
+fxa-adoption-passwords-primary-button-label = Registreren
 
 ## Sidebar Strings
 
@@ -130,6 +135,8 @@ sidebar-pins-callout-cta-button = Tabblad vastmaken
 
 ## Pinning Tabs Strings
 
+pin-tabs-callout-cta-1-button = Dit tabblad vastmaken
+pin-tabs-callout-cta-2-button = Dit tabblad vastmaken
 
 ## Sidebar Onboarding Strings
 
