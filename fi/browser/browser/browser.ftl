@@ -612,6 +612,10 @@ urlbar-search-mode-indicator-close =
 # engine is unknown.
 urlbar-placeholder =
     .placeholder = Kirjoita osoite tai hakusana
+# This placeholder is used when not in search mode and searching in the urlbar
+# is disabled via the keyword.enabled pref.
+urlbar-placeholder-keyword-disabled =
+    .placeholder = Kirjoita osoite
 # This placeholder is used in search mode with search engines that search the
 # entire web.
 # Variables
@@ -1091,6 +1095,8 @@ navbar-accessible =
     .aria-label = Navigointi
 navbar-downloads =
     .label = Lataukset
+navbar-overflow-2 =
+    .tooltiptext = Lisää työkaluja
 navbar-overflow =
     .tooltiptext = Lisää työkaluja…
 # Variables:
@@ -1284,3 +1290,6 @@ file-picker-crashed-show-in-folder =
 ## Onboarding Finish Setup checklist
 
 onboarding-checklist-button-label = Viimeistele määritys
+onboarding-aw-finish-setup-button =
+    .label = Viimeistele määritys
+    .tooltiptext = Viimeistele { -brand-short-name }in määritys

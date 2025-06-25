@@ -397,14 +397,54 @@ addon-detail-updates-label = Dozvoli automatska ažuriranja
 addon-detail-updates-radio-default = Zadano
 addon-detail-updates-radio-on = Uključeno
 addon-detail-updates-radio-off = Isključeno
+addon-detail-update-check-label = Provjeri za nadogradnje
+install-update-button = Ažuriraj
+# aria-label associated to the updates row to help screen readers to announce the group
+# of input controls being entered.
+addon-detail-group-label-updates =
+    .aria-label = { addon-detail-updates-label }
+# This is the tooltip text for the private browsing badge in about:addons. The
+# badge is the private browsing icon included next to the extension's name.
+addon-badge-private-browsing-allowed3 =
+    .title = Dozvoljeno u privatnim prozorima
+# This is the tooltip text for the private browsing badge in about:addons. The
+# badge is the private browsing icon included next to the extension's name.
+addon-badge-private-browsing-allowed2 =
+    .title = Dozvoljeno u privatnim prozorima
+    .aria-label = { addon-badge-private-browsing-allowed2.title }
+addon-detail-private-browsing-help = Kada je dozvoljeno, ekstenzija će imati pristup vašim online aktivnostima tokom privatnog pregledavanja. <a data-l10n-name="learn-more">Saznajte više</a>
+addon-detail-private-browsing-allow = Dozvoli
+addon-detail-private-browsing-disallow = Nemoj dozvoliti
+# aria-label associated to the private browsing row to help screen readers to announce the group
+# of input controls being entered.
+addon-detail-group-label-private-browsing =
+    .aria-label = { detail-private-browsing-label }
 
 ## "sites with restrictions" (internally called "quarantined") are special domains
 ## where add-ons are normally blocked for security reasons.
 
+# Used as a description for the option to allow or block an add-on on quarantined domains.
+addon-detail-quarantined-domains-label = Pokreni na stranicama s ograničenjima
+# Used as help text part of the quarantined domains UI controls row.
+addon-detail-quarantined-domains-help = Kada je dozvoljeno, ekstenzija će imati pristup stranicama koje su ograničene sa { -vendor-short-name }. Dozvoli samo ako vjeruješ ovoj ekstenziji.
+# Used as label and tooltip text on the radio inputs associated to the quarantined domains UI controls.
+addon-detail-quarantined-domains-allow = Dozvoli
+addon-detail-quarantined-domains-disallow = Nemoj dozvoliti
+# aria-label associated to the quarantined domains exempt row to help screen readers to announce the group.
+addon-detail-group-label-quarantined-domains =
+    .aria-label = { addon-detail-quarantined-domains-label }
 
 ## This is the tooltip text for the recommended badges for an extension in about:addons. The
 ## badge is a small icon displayed next to an extension when it is recommended on AMO.
 
+addon-badge-recommended2 =
+    .title = { -brand-product-name } preporučuje samo ekstenzije koje ispunjavaju naše standarde sigurnosti i performansi
+    .aria-label = { addon-badge-recommended2.title }
+# We hard code "Mozilla" in the string below because the extensions are built
+# by Mozilla and we don't want forks to display "by Fork".
+addon-badge-line3 =
+    .title = Zvanična ekstenzija koju je izradila Mozilla. Ispunjava standarde sigurnosti i performansi
+    .aria-label = { addon-badge-line3.title }
 # We hard code "Mozilla" in the string below because the extensions are built
 # by Mozilla and we don't want forks to display "by Fork".
 addon-badge-line4 =

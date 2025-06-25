@@ -51,11 +51,20 @@ genai-menu-ask-generic =
 # $provider (string) - name of the provider
 genai-menu-ask-provider =
     .label = Pitaj { $provider }
+genai-menu-open-generic =
+    .label = Otvori AI chatbot
+# $provider (string) - name of the provider
+genai-menu-open-provider =
+    .label = Otvori { $provider }
 genai-menu-remove-generic =
     .label = Uklonite AI chatbota
 # $provider (string) - name of the provider
 genai-menu-remove-provider =
     .label = Ukloni { $provider }
+genai-menu-remove-sidebar =
+    .label = Ukloni iz bočne trake
+genai-menu-new-badge = Novo
+genai-menu-summarize-page = Sažmi stranicu
 genai-input-ask-generic =
     .placeholder = Pitajte AI chatbot…
 # $provider (string) - name of the provider
@@ -84,6 +93,10 @@ genai-shortcuts-selected-warning =
         }
 genai-shortcuts-hide =
     .label = Sakrij prečicu za chatbot
+genai-menu-no-provider =
+    .label = Pitajte AI chatbota
+genai-menu-choose-chatbot =
+    .label = Odaberite AI chatbota
 
 ## Chatbot header
 
@@ -110,6 +123,7 @@ genai-options-about-chatbot =
 
 ## Chatbot footer
 
+genai-page-button-summarize = Sažmi stranicu
 
 ## Chatbot onboarding
 
@@ -145,6 +159,15 @@ genai-onboarding-select-primary = Počni ćaskati
 genai-chatbot-contextual-title = Koristite AI chatbot bez prebacivanja tabova
 genai-chatbot-contextual-subtitle = Čavrljajte i pretražujte istovremeno kada dodate AI chatbot u bočnu traku { -brand-short-name }.
 genai-chatbot-contextual-button = Odaberite chatbot
+genai-chatbot-summarize-title = Novo! Sažmite stranice jednim klikom
+genai-chatbot-summarize-button = Sažmi stranicu
+# “Summarize Page” should be consistent with the translation for the string genai-menu-summarize-page
+genai-chatbot-summarize-sidebar-provider-subtitle = Kliknite desnim klikom miša na svog AI chatbota u bočnoj traci i odaberite “Sažmi stranicu”.
+# “Summarize Page” should be consistent with the translation for the string genai-menu-summarize-page
+genai-chatbot-summarize-sidebar-generic-subtitle = Kliknite desnim klikom miša na dugme sa šljokicama u bočnoj traci i odaberite “Sažmi stranicu”. Prvi put ćete takođe odabrati AI chatbot.
+# “Summarize page” should be consistent with the translation for the string genai-page-button-summarize
+genai-chatbot-summarize-footer-provider-subtitle = Otvorite svog AI chatbota u bočnoj traci i odaberite “Sažmi stranicu” na dnu.
+genai-chatbot-summarize-footer-generic-subtitle = Dodajte AI chatbota u bočnu traku { -brand-short-name } kako biste brzo saželi stranice.
 
 ## Chatbot onboarding choices
 ## These describe features/capabilities of chatbot providers. These are not buttons/actions.
