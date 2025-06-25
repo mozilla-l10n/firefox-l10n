@@ -169,6 +169,8 @@ contextual-manager-passwords-password-already-exists-error-button = Přejít na 
 contextual-manager-passwords-update-password-success-heading =
     .heading = Heslo uloženo
 contextual-manager-passwords-update-password-success-button = Hotovo
+contextual-manager-passwords-update-username-success-heading =
+    .heading = Uživatelské jméno uloženo
 # Message to confirm successful removal of a password/passwords.
 #   $total (number) - Total number of passwords
 contextual-manager-passwords-delete-password-success-heading =
@@ -221,6 +223,7 @@ contextual-manager-passwords-no-username-heading-and-message =
     .heading = Přidejte uživatelské jméno
     .message = Přidejte jej pro rychlejší přihlášení.
 contextual-manager-passwords-add-username-button = Přidat uživatelské jméno
+contextual-manager-passwords-title = Hesla
 
 ## Login Form
 
