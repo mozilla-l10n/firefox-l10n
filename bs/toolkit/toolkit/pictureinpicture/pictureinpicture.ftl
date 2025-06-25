@@ -16,6 +16,27 @@ pictureinpicture-player-title = Slika-u-slici
 ## Variables:
 ##   $shortcut (String) - Keyboard shortcut to execute the command.
 
+pictureinpicture-pause-btn =
+    .aria-label = Pauza
+    .tooltip = Pauza (Razmaknica)
+pictureinpicture-play-btn =
+    .aria-label = Reproduciraj
+    .tooltip = Reproduciraj (Razmaknica)
+pictureinpicture-mute-btn =
+    .aria-label = Isključi zvuk
+    .tooltip = Isključi zvuk ({ $shortcut })
+pictureinpicture-unmute-btn =
+    .aria-label = Uključi zvuk
+    .tooltip = Uključi zvuk ({ $shortcut })
+pictureinpicture-unpip-btn =
+    .aria-label = Pošalji nazad na tab
+    .tooltip = Nazad na tab
+pictureinpicture-close-btn =
+    .aria-label = Zatvori
+    .tooltip = Zatvori ({ $shortcut })
+pictureinpicture-subtitles-btn =
+    .aria-label = Titlovi
+    .tooltip = Titlovi
 
 ##
 

@@ -63,6 +63,9 @@ pdfjs-cursor-text-select-tool-button-label = Alat za označavanje teksta
 pdfjs-cursor-hand-tool-button =
     .title = Omogući ručni alat
 pdfjs-cursor-hand-tool-button-label = Ručni alat
+pdfjs-spread-even-button =
+    .title = Izradi duplerice koje počinju s parnim stranicama
+pdfjs-spread-even-button-label = Parne duplerice
 
 ## Document properties dialog
 
@@ -71,6 +74,14 @@ pdfjs-document-properties-button =
 pdfjs-document-properties-button-label = Svojstva dokumenta...
 pdfjs-document-properties-file-name = Naziv fajla:
 pdfjs-document-properties-file-size = Veličina fajla:
+# Variables:
+#   $kb (Number) - the PDF file size in kilobytes
+#   $b (Number) - the PDF file size in bytes
+pdfjs-document-properties-size-kb = { NUMBER($kb, maximumSignificantDigits: 3) } KB ({ $b } bajtova)
+# Variables:
+#   $mb (Number) - the PDF file size in megabytes
+#   $b (Number) - the PDF file size in bytes
+pdfjs-document-properties-size-mb = { NUMBER($mb, maximumSignificantDigits: 3) } MB ({ $b } bajtova)
 # Variables:
 #   $size_kb (Number) - the PDF file size in kilobytes
 #   $size_b (Number) - the PDF file size in bytes
@@ -85,6 +96,9 @@ pdfjs-document-properties-subject = Predmet:
 pdfjs-document-properties-keywords = Ključne riječi:
 pdfjs-document-properties-creation-date = Datum kreiranja:
 pdfjs-document-properties-modification-date = Datum promjene:
+# Variables:
+#   $dateObj (Date) - the creation/modification date and time of the PDF file
+pdfjs-document-properties-date-time-string = { DATETIME($dateObj, dateStyle: "short", timeStyle: "medium") }
 # Variables:
 #   $date (Date) - the creation/modification date of the PDF file
 #   $time (Time) - the creation/modification time of the PDF file
@@ -115,6 +129,11 @@ pdfjs-document-properties-page-size-dimension-name-string = { $width } × { $hei
 
 ##
 
+# The linearization status of the document; usually called "Fast Web View" in
+# English locales of Adobe software.
+pdfjs-document-properties-linearized = Brzi web pregled:
+pdfjs-document-properties-linearized-yes = Da
+pdfjs-document-properties-linearized-no = Ne
 pdfjs-document-properties-close-button = Zatvori
 
 ## Print
@@ -131,6 +150,8 @@ pdfjs-printing-not-ready = Upozorenje: PDF nije u potpunosti učitan za štampan
 
 pdfjs-toggle-sidebar-button =
     .title = Uključi/isključi bočnu traku
+pdfjs-toggle-sidebar-notification-button =
+    .title = Uključi/isključi bočnu traku (dokument sadrži obris/priloge/slojeve)
 pdfjs-toggle-sidebar-button-label = Uključi/isključi bočnu traku
 pdfjs-document-outline-button =
     .title = Prikaži outline dokumenta (dvoklik za skupljanje/širenje svih stavki)
@@ -138,12 +159,19 @@ pdfjs-document-outline-button-label = Konture dokumenta
 pdfjs-attachments-button =
     .title = Prikaži priloge
 pdfjs-attachments-button-label = Prilozi
+pdfjs-layers-button =
+    .title = Prikaži slojeve (dvostruki klik da biste vratili sve slojeve na zadano stanje)
+pdfjs-layers-button-label = Slojevi
 pdfjs-thumbs-button =
     .title = Prikaži thumbnailove
 pdfjs-thumbs-button-label = Thumbnailovi
+pdfjs-current-outline-item-button =
+    .title = Pronađi trenutnu stavku strukture
+pdfjs-current-outline-item-button-label = Trenutna stavka strukture
 pdfjs-findbar-button =
     .title = Pronađi u dokumentu
 pdfjs-findbar-button-label = Pronađi
+pdfjs-additional-layers = Dodatni slojevi
 
 ## Thumbnails panel item (tooltip and alt text for images)
 
@@ -169,8 +197,27 @@ pdfjs-find-next-button =
 pdfjs-find-next-button-label = Sljedeće
 pdfjs-find-highlight-checkbox = Označi sve
 pdfjs-find-match-case-checkbox-label = Osjetljivost na karaktere
+pdfjs-find-match-diacritics-checkbox-label = Podudaranje dijakritika
+pdfjs-find-entire-word-checkbox-label = Cijele riječi
 pdfjs-find-reached-top = Dostigao sam vrh dokumenta, nastavljam sa dna
 pdfjs-find-reached-bottom = Dostigao sam kraj dokumenta, nastavljam sa vrha
+# Variables:
+#   $current (Number) - the index of the currently active find result
+#   $total (Number) - the total number of matches in the document
+pdfjs-find-match-count =
+    { $total ->
+        [one] { $current } od { $total } podudaranje
+        [few] { $current } od { $total } podudaranja
+       *[other] { $current } od { $total } podudaranja
+    }
+# Variables:
+#   $limit (Number) - the maximum number of matches
+pdfjs-find-match-count-limit =
+    { $limit ->
+        [one] Više od { $limit } podudaranja
+        [few] Više od { $limit } podudaranja
+       *[other] Više od { $limit } podudaranja
+    }
 pdfjs-find-not-found = Fraza nije pronađena
 
 ## Predefined zoom values
@@ -185,6 +232,10 @@ pdfjs-page-scale-percent = { $scale }%
 
 ## PDF page
 
+# Variables:
+#   $page (Number) - the page number
+pdfjs-page-landmark =
+    .aria-label = Stranica { $page }
 
 ## Loading indicator messages
 
@@ -196,6 +247,10 @@ pdfjs-rendering-error = Došlo je do greške prilikom renderiranja strane.
 
 ## Annotations
 
+# Variables:
+#   $date (Date) - the modification date of the annotation
+#   $time (Time) - the modification time of the annotation
+pdfjs-annotation-date-string = { $date }, { $time }
 # .alt: This is used as a tooltip.
 # Variables:
 #   $type (String) - an annotation type from a list defined in the PDF spec
@@ -203,6 +258,9 @@ pdfjs-rendering-error = Došlo je do greške prilikom renderiranja strane.
 # Some common types are e.g.: "Check", "Text", "Comment", "Note"
 pdfjs-text-annotation-type =
     .alt = [{ $type } pribilješka]
+# Variables:
+#   $dateObj (Date) - the modification date and time of the annotation
+pdfjs-annotation-date-time-string = { DATETIME($dateObj, dateStyle: "short", timeStyle: "medium") }
 
 ## Password
 
@@ -214,6 +272,12 @@ pdfjs-web-fonts-disabled = Web fontovi su onemogućeni: nemoguće koristiti uba�
 
 ## Editing
 
+pdfjs-editor-free-text-button =
+    .title = Tekst
+pdfjs-editor-free-text-button-label = Tekst
+pdfjs-editor-ink-button =
+    .title = Crtanje
+pdfjs-editor-ink-button-label = Crtanje
 pdfjs-editor-stamp-button =
     .title = Dodajte ili uredite slike
 pdfjs-editor-stamp-button-label = Dodajte ili uredite slike
@@ -320,13 +384,55 @@ pdfjs-editor-alt-text-button =
 ## This is used in an aria label to help to understand the role of the resizer.
 
 pdfjs-editor-resizer-label-top-left = Gornji lijevi ugao — promjena veličine
+pdfjs-editor-resizer-label-top-middle = Gore u sredini — promijeni veličinu
+pdfjs-editor-resizer-label-top-right = Gornji desni ugao — promijeni veličinu
+pdfjs-editor-resizer-label-middle-right = Sredina desno — promijeni veličinu
+pdfjs-editor-resizer-label-bottom-right = Donji desni ugao — promijeni veličinu
+pdfjs-editor-resizer-label-bottom-middle = Donji srednji dio — promijeni veličinu
+pdfjs-editor-resizer-label-bottom-left = Donji lijevi ugao — promijeni veličinu
+pdfjs-editor-resizer-label-middle-left = Sredina lijevo — promijeni veličinu
+pdfjs-editor-resizer-top-left =
+    .aria-label = Gornji lijevi ugao — promjena veličine
+pdfjs-editor-resizer-top-middle =
+    .aria-label = Gore u sredini — promijeni veličinu
+pdfjs-editor-resizer-top-right =
+    .aria-label = Gornji desni ugao — promijeni veličinu
+pdfjs-editor-resizer-middle-right =
+    .aria-label = Sredina desno — promijeni veličinu
+pdfjs-editor-resizer-bottom-right =
+    .aria-label = Donji desni ugao — promijeni veličinu
+pdfjs-editor-resizer-bottom-middle =
+    .aria-label = Donji srednji dio — promijeni veličinu
+pdfjs-editor-resizer-bottom-left =
+    .aria-label = Donji lijevi ugao — promijeni veličinu
+pdfjs-editor-resizer-middle-left =
+    .aria-label = Sredina lijevo — promijeni veličinu
 
 ## Color picker
 
+# This means "Color used to highlight text"
+pdfjs-editor-highlight-colorpicker-label = Boja isticanja
+pdfjs-editor-colorpicker-button =
+    .title = Promijeni boju
+pdfjs-editor-colorpicker-dropdown =
+    .aria-label = Izbor boja
+pdfjs-editor-colorpicker-yellow =
+    .title = Žuta
+pdfjs-editor-colorpicker-green =
+    .title = Zelena
+pdfjs-editor-colorpicker-blue =
+    .title = Plava
+pdfjs-editor-colorpicker-pink =
+    .title = Roza
+pdfjs-editor-colorpicker-red =
+    .title = Crvena
 
 ## Show all highlights
 ## This is a toggle button to show/hide all the highlights.
 
+pdfjs-editor-highlight-show-all-button-label = Prikaži sve
+pdfjs-editor-highlight-show-all-button =
+    .title = Prikaži sve
 
 ## New alt-text dialog
 ## Group note for entire feature: Alternative text (alt text) helps when people can't see the image. This feature includes a tool to create alt text automatically using an AI model that works locally on the user's device to preserve privacy.

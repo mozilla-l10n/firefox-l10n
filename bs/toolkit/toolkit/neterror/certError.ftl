@@ -108,10 +108,28 @@ fp-cert-error-code = Kod greške: { $error }
 #   $datetime (Date) - Current datetime.
 fp-datetime = { DATETIME($datetime, month: "short", year: "numeric", day: "numeric") } { DATETIME($datetime, timeStyle: "long") }
 fp-learn-more-about-secure-connection-failures = Saznajte više o greškama u sigurnoj vezi
+fp-learn-more-about-cert-issues = Saznajte više o ovim vrstama problema s certifikatima
+fp-learn-more-about-time-related-errors = Saznajte više o rješavanju problema s greškama povezanim s vremenom
 
 ## Variables:
 ##   $hostname (string) - Hostname of the website with cert error.
 
+cert-error-revoked-certificate = { -brand-short-name } je blokirao vašu posjetu ovoj stranici jer je certifikat koji je dat za { $hostname } opozvan i više mu se ne vjeruje.
+cert-error-bad-signature = { -brand-short-name } je blokirao vašu posjetu ovoj stranici jer potpis na certifikatu koji je dat za { $hostname } nije važeći.
+cert-error-key-pinning-failure = { -brand-short-name } je blokirao vašu posjetu ovoj stranici jer certifikat koji je dat za { $hostname } koristi drugačiji javni ključ od očekivanog.
+cert-error-bad-der = { -brand-short-name } je blokirao vašu posjetu ovoj stranici jer certifikat koji je dat za { $hostname } nije ispravno kodiran.
+cert-error-cert-not-in-name-space = { -brand-short-name } je blokirao vašu posjetu ovoj stranici jer certifikat koji je dat za { $hostname } ne slijedi ograničenja imena certifikata koji ga je izdao.
+cert-error-inadequate-cert-type = { -brand-short-name } je blokirao vašu posjetu ovoj stranici jer web server ne smije koristiti certifikat koji je dat za { $hostname }.
+cert-error-path-len-constraint-invalid = { -brand-short-name } je blokirao vašu posjetu ovoj stranici jer certifikat koji je dat za { $hostname } ima previše posrednih certifikata na putanji do korijenskog certifikata.
+cert-error-invalid-key = { -brand-short-name } je blokirao vašu posjetu ovoj stranici jer certifikat koji je dat za { $hostname } ima nevažeći ključ. Najvjerovatnije je premalen da bi bio siguran.
+cert-error-unknown-critical-extension = { -brand-short-name } je blokirao vašu posjetu ovoj stranici jer certifikat koji je dat za { $hostname } sadrži nepodržanu kritičnu ekstenziju.
+cert-error-extension-value-invalid = { -brand-short-name } je blokirao vašu posjetu ovoj stranici jer certifikat koji je dat za { $hostname } sadrži nevažeću ekstenziju.
+cert-error-untrusted-issuer = { -brand-short-name } je blokirao vašu posjetu ovoj stranici jer je certifikat koji je dat za { $hostname } izdao autoritet za certifikate koji više nije pouzdan.
+cert-error-untrusted-cert = { -brand-short-name } je blokirao vašu posjetu ovoj stranici jer je certifikat koji je dat za { $hostname } označen kao nepouzdan.
+cert-error-invalid-integer-encoding = { -brand-short-name } je blokirao vašu posjetu ovoj stranici jer certifikat koji je dat za { $hostname } sadrži nevažeće kodiranje cijelog broja. Uobičajeni uzroci uključuju negativne serijske brojeve, negativne RSA module i kodiranja koja su duža nego što je potrebno.
+cert-error-unsupported-keyalg = { -brand-short-name } je blokirao vašu posjetu ovoj stranici jer certifikat koji je dat za { $hostname } ima nepodržani tip ključa.
+cert-error-issuer-no-longer-trusted = { -brand-short-name } je blokirao vašu posjetu ovoj stranici jer autoritet za certifikate koji je izdao certifikat za { $hostname } više nije pouzdan.
+cert-error-signature-algorithm-mismatch = { -brand-short-name } je blokirao vašu posjetu ovoj stranici jer algoritam potpisa certifikata koji je dat za { $hostname } ne odgovara njegovom polju algoritma potpisa.
 
 ## Messages used for certificate error titles
 
@@ -120,6 +138,9 @@ deniedPortAccess-title = Pristup adresi je ograničen
 # "Hmm" is a sound made when considering or puzzling over something.
 # You don't have to include it in your translation if your language does not have a written word like this.
 dnsNotFound-title = Hmm. Imamo problema s pronalaženjem stranice.
+internet-connection-offline-title = Izgleda da postoji problem s vašom internet vezom.
+dns-not-found-trr-only-title2 = Mogući sigurnosni rizik prilikom pretraživanja ove domene
+dns-not-found-native-fallback-title2 = Mogući sigurnosni rizik prilikom pretraživanja ove domene
 fileNotFound-title = Fajl nije pronađen
 fileAccessDenied-title = Pristup fajlu je odbijen
 generic-title = Ups.
@@ -134,6 +155,8 @@ contentEncodingError-title = Greška u enkodiranju sadržaja
 unsafeContentType-title = Nesiguran tip fajla
 netReset-title = Veza je resetovana
 netTimeout-title = Veza je istekla
+httpErrorPage-title = Izgleda da postoji problem s ovom stranicom
+serverError-title = Izgleda da postoji problem s ovom stranicom
 unknownProtocolFound-title = Adresa nije razumiva
 proxyConnectFailure-title = Proxy server odbija veze
 proxyResolveFailure-title = Ne mogu da pronađem proxy server

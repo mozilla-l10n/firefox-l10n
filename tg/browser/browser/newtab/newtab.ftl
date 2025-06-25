@@ -502,6 +502,8 @@ newtab-topic-selection-button-pick-interests = Манфиатҳои худро �
 newtab-section-follow-button = Обуна шавед
 newtab-section-following-button = Обуна шуд
 newtab-section-unfollow-button = Бекор кардани обуна
+# A modal may appear next to the Follow button, directing users to try out the feature
+newtab-section-follow-highlight-title = Навори хабарҳои худро ба таври дилхоҳ танзим кунед
 
 ## Button to block/unblock listed topics
 ## "Block", "unblocked", and "blocked" are social media terms that refer to hiding a section of stories.
