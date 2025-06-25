@@ -106,6 +106,11 @@ perplexity-callout-secondary-label-2 = Som zrozměł
 
 ## Account Adoption Passwords callout strings
 
+# Suggestion to backup passwords by signing up for Mozilla account and using sync
+fxa-adoption-passwords-title = Gronidło jo se składło. Zawěsćmy jo.
+fxa-adoption-passwords-subtitle = Synchronizěrujśo swóje gronidła ze swójimi rědami ze skoděrowanim, aby swóje gronidła šćitał.
+# Opens Mozilla accounts sign-up page
+fxa-adoption-passwords-primary-button-label = Registrěrowaś
 
 ## Sidebar Strings
 
@@ -130,6 +135,8 @@ sidebar-pins-callout-cta-button = Rejtarik pśipěś
 
 ## Pinning Tabs Strings
 
+pin-tabs-callout-1-subtitle = Śěgniśo rejtarik k zachopjeńkoju rědki rejtarikow, aby jen pśipěł. Abo klikniśo z pšaweju tastu a wubjeŕśo Rejtarik pśipěś.
+pin-tabs-callout-cta-1-button = Toś ten rejtarik pśipěś
 
 ## Sidebar Onboarding Strings
 

@@ -216,6 +216,7 @@ contextual-manager-passwords-no-username-heading-and-message =
     .heading = Pśidajśo wužywaŕske mě
     .message = Pśidajśo take, aby se malsnjej pśizjawił.
 contextual-manager-passwords-add-username-button = Pśidajśo wužywaŕske mě
+contextual-manager-passwords-title = Gronidła
 
 ## Login Form
 
