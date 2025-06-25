@@ -153,6 +153,11 @@ genai-chatbot-summarize-title = 新功能！點一下即可摘要頁面內容
 genai-chatbot-summarize-button = 摘要本頁
 # “Summarize Page” should be consistent with the translation for the string genai-menu-summarize-page
 genai-chatbot-summarize-sidebar-provider-subtitle = 在側邊欄對您的 AI 聊天機器人按右鍵，選擇「摘要本頁」。
+# “Summarize Page” should be consistent with the translation for the string genai-menu-summarize-page
+genai-chatbot-summarize-sidebar-generic-subtitle = 對側邊欄中的火花按鈕按右鍵，選擇「摘要本頁」。第一次使用的時候請先選擇要使用的 AI 聊天機器人。
+# “Summarize page” should be consistent with the translation for the string genai-page-button-summarize
+genai-chatbot-summarize-footer-provider-subtitle = 在側邊欄開啟您的 AI 聊天機器人，然後選擇底部的「摘要本頁」。
+genai-chatbot-summarize-footer-generic-subtitle = 新增 AI 聊天機器人到 { -brand-short-name } 側邊欄，快速摘要頁面內容。
 
 ## Chatbot onboarding choices
 ## These describe features/capabilities of chatbot providers. These are not buttons/actions.

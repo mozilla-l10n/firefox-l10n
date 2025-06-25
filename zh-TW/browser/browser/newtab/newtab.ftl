@@ -500,6 +500,9 @@ newtab-topic-selection-button-pick-interests = 挑選您有興趣的項目
 newtab-section-follow-button = 追蹤
 newtab-section-following-button = 追蹤中
 newtab-section-unfollow-button = 取消追蹤
+# A modal may appear next to the Follow button, directing users to try out the feature
+newtab-section-follow-highlight-title = 微調您的資訊來源
+newtab-section-follow-highlight-subtitle = 追蹤您有興趣的項目，看更多想看的內容。
 
 ## Button to block/unblock listed topics
 ## "Block", "unblocked", and "blocked" are social media terms that refer to hiding a section of stories.
