@@ -68,6 +68,7 @@ sidebar-show-on-the-left =
 # hovers over it.
 expand-sidebar-on-hover =
     .label = Üzerine gelince kenar çubuğunu genişlet
+sidebar-manage-extensions = Uzantıları yönet
 
 ## Labels for sidebar context menu items
 
@@ -101,6 +102,10 @@ sidebar-context-menu-customize-sidebar =
 #   $deviceName (String) - The name of the device the user is closing a tab for
 sidebar-context-menu-close-remote-tab =
     .label = { $deviceName } cihazındaki sekmeyi kapat
+sidebar-context-menu-remove-extension2 =
+    .label = { -brand-short-name } tarayıcısından kaldır
+sidebar-context-menu-unpin-extension =
+    .label = Kenar çubuğundan kaldır
 
 ## Labels for sidebar history context menu items
 
