@@ -135,8 +135,14 @@ sidebar-pins-callout-cta-button = Tabblad vastmaken
 
 ## Pinning Tabs Strings
 
+pin-tabs-callout-1-title = Houd belangrijke tabbladen binnen handbereik
+pin-tabs-callout-1-subtitle = Sleep een tabblad naar het begin van de tabbladstrook om het vast te zetten. Of klik met de rechtermuisknop en kies Tabblad vastmaken.
 pin-tabs-callout-cta-1-button = Dit tabblad vastmaken
+pin-tabs-callout-2-title = Meest bezochte tabbladen vastmaken
+pin-tabs-callout-2-subtitle = Sleep een tabblad naar het begin van de tabbladstrook om het vast te zetten. Of klik met de rechtermuisknop en kies Tabblad vastmaken.
 pin-tabs-callout-cta-2-button = Dit tabblad vastmaken
+pin-tabs-callout-3-title = Houd belangrijke websites binnen handbereik
+pin-tabs-callout-4-title = Websites die u het vaakst bezoekt vastmaken
 
 ## Sidebar Onboarding Strings
 

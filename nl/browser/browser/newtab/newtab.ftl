@@ -504,6 +504,9 @@ newtab-topic-selection-button-pick-interests = Kies uw interesses
 newtab-section-follow-button = Volgen
 newtab-section-following-button = Volgend
 newtab-section-unfollow-button = Ontvolgen
+# A modal may appear next to the Follow button, directing users to try out the feature
+newtab-section-follow-highlight-title = Uw feed verfijnen
+newtab-section-follow-highlight-subtitle = Volg uw interesses om meer te zien van wat u leuk vindt.
 
 ## Button to block/unblock listed topics
 ## "Block", "unblocked", and "blocked" are social media terms that refer to hiding a section of stories.

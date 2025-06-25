@@ -102,6 +102,8 @@ sidebar-context-menu-customize-sidebar =
 #   $deviceName (String) - The name of the device the user is closing a tab for
 sidebar-context-menu-close-remote-tab =
     .label = Tabblad op { $deviceName } sluiten
+sidebar-context-menu-remove-extension2 =
+    .label = Verwijderen uit { -brand-short-name }
 sidebar-context-menu-unpin-extension =
     .label = Verwijderen uit zijbalk
 

@@ -157,6 +157,13 @@ genai-chatbot-contextual-subtitle = Chat en surf naast elkaar wanneer u een AI-c
 genai-chatbot-contextual-button = Kies een chatbot
 genai-chatbot-summarize-title = Nieuw! Pagina’s in een klik samenvatten
 genai-chatbot-summarize-button = Pagina samenvatten
+# “Summarize Page” should be consistent with the translation for the string genai-menu-summarize-page
+genai-chatbot-summarize-sidebar-provider-subtitle = Klik met de rechtermuisknop op uw AI-chatbot in de zijbalk en kies ‘Pagina samenvatten’.
+# “Summarize Page” should be consistent with the translation for the string genai-menu-summarize-page
+genai-chatbot-summarize-sidebar-generic-subtitle = Klik met de rechtermuisknop op de glitterknop in de zijbalk en kies ‘Pagina samenvatten’. De eerste keer kiest u ook een AI-chatbot.
+# “Summarize page” should be consistent with the translation for the string genai-page-button-summarize
+genai-chatbot-summarize-footer-provider-subtitle = Open uw AI-chatbot in de zijbalk en kies onderaan ‘Pagina samenvatten’.
+genai-chatbot-summarize-footer-generic-subtitle = Voeg een AI-chatbot toe aan de { -brand-short-name }-zijbalk om snel pagina’s samen te vatten.
 
 ## Chatbot onboarding choices
 ## These describe features/capabilities of chatbot providers. These are not buttons/actions.
