@@ -61,6 +61,10 @@ genai-menu-remove-generic =
 # $provider (string) - name of the provider
 genai-menu-remove-provider =
     .label = { $provider } verwijderen
+genai-menu-remove-sidebar =
+    .label = Verwijderen uit zijbalk
+genai-menu-new-badge = Nieuw
+genai-menu-summarize-page = Pagina samenvatten
 genai-input-ask-generic =
     .placeholder = AI-chatbot vragen…
 # $provider (string) - name of the provider
@@ -85,6 +89,10 @@ genai-shortcuts-selected-warning =
         }
 genai-shortcuts-hide =
     .label = Chatbot-snelkoppeling verbergen
+genai-menu-no-provider =
+    .label = Een AI-chatbot vragen
+genai-menu-choose-chatbot =
+    .label = Kies een AI-chatbot
 
 ## Chatbot header
 
@@ -111,6 +119,7 @@ genai-options-about-chatbot =
 
 ## Chatbot footer
 
+genai-page-button-summarize = Pagina samenvatten
 
 ## Chatbot onboarding
 
@@ -146,6 +155,8 @@ genai-onboarding-select-primary = Beginnen met chatten
 genai-chatbot-contextual-title = Gebruik een AI-chatbot zonder van tabblad te wisselen
 genai-chatbot-contextual-subtitle = Chat en surf naast elkaar wanneer u een AI-chatbot toevoegt in de zijbalk van { -brand-short-name }.
 genai-chatbot-contextual-button = Kies een chatbot
+genai-chatbot-summarize-title = Nieuw! Pagina’s in een klik samenvatten
+genai-chatbot-summarize-button = Pagina samenvatten
 
 ## Chatbot onboarding choices
 ## These describe features/capabilities of chatbot providers. These are not buttons/actions.

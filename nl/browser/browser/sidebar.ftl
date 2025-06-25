@@ -68,6 +68,7 @@ sidebar-show-on-the-left =
 # hovers over it.
 expand-sidebar-on-hover =
     .label = Zijbalk bij aanwijzen uitvouwen
+sidebar-manage-extensions = Extensies beheren
 
 ## Labels for sidebar context menu items
 
@@ -101,6 +102,8 @@ sidebar-context-menu-customize-sidebar =
 #   $deviceName (String) - The name of the device the user is closing a tab for
 sidebar-context-menu-close-remote-tab =
     .label = Tabblad op { $deviceName } sluiten
+sidebar-context-menu-unpin-extension =
+    .label = Verwijderen uit zijbalk
 
 ## Labels for sidebar history context menu items
 
