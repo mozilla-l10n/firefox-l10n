@@ -153,6 +153,11 @@ genai-chatbot-summarize-title = 새 기능! 한 번의 클릭으로 페이지 �
 genai-chatbot-summarize-button = 페이지 요약
 # “Summarize Page” should be consistent with the translation for the string genai-menu-summarize-page
 genai-chatbot-summarize-sidebar-provider-subtitle = 사이드바에서 AI 챗봇을 마우스 오른쪽 버튼으로 클릭하고 "페이지 요약"을 선택하세요.
+# “Summarize Page” should be consistent with the translation for the string genai-menu-summarize-page
+genai-chatbot-summarize-sidebar-generic-subtitle = 사이드바의 반짝이는 버튼을 마우스 오른쪽 버튼으로 클릭하고 "페이지 요약"을 선택하세요. 처음에는 AI 챗봇도 선택합니다.
+# “Summarize page” should be consistent with the translation for the string genai-page-button-summarize
+genai-chatbot-summarize-footer-provider-subtitle = 사이드바에서 AI 챗봇을 열고 하단에서 "페이지 요약"을 선택하세요.
+genai-chatbot-summarize-footer-generic-subtitle = { -brand-short-name } 사이드바에 AI 챗봇을 추가하여 페이지를 빠르게 요약하세요.
 
 ## Chatbot onboarding choices
 ## These describe features/capabilities of chatbot providers. These are not buttons/actions.

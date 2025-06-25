@@ -68,6 +68,7 @@ sidebar-show-on-the-left =
 # hovers over it.
 expand-sidebar-on-hover =
     .label = 마우스를 올려서 사이드바 펼치기
+sidebar-manage-extensions = 확장 기능 관리
 
 ## Labels for sidebar context menu items
 
@@ -101,6 +102,10 @@ sidebar-context-menu-customize-sidebar =
 #   $deviceName (String) - The name of the device the user is closing a tab for
 sidebar-context-menu-close-remote-tab =
     .label = { $deviceName }의 탭 닫기
+sidebar-context-menu-remove-extension2 =
+    .label = { -brand-short-name }에서 제거
+sidebar-context-menu-unpin-extension =
+    .label = 사이드바에서 제거
 
 ## Labels for sidebar history context menu items
 
