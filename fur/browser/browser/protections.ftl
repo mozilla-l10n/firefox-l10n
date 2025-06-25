@@ -42,11 +42,11 @@ graph-legend-description = Un grafic che al conten il numar totâl di ogni gjena
 social-tab-title = Spiis (trackers) dai social media
 social-tab-contant = I social networks a placin spiis su altris sîts web par stâti daûr su ce che tu fasis, viodis e osservis in rêt. Chest al permet aes compagniis dai social media di savê alc di plui su di te, rispiet a ce che za tu condividis sui profîi dai tiei social media. <a data-l10n-name="learn-more-link">Plui informazions</a>
 cookie-tab-title = Cookies inter-sît che a spiin
-cookie-tab-content = Chescj cookies ti stan daûr di un sît a chel altri par tirâ dongje dâts su ce che tu fasis in rêt. A vegnin stabilîts di tiercis parts tant che agjenziis publicitariis e di analisi dai dâts. Il bloc dai cookies inter-sît che a spiin al ridûs il numar di publicitâts che ti stan daûr ator pe rêt. <a data-l10n-name="learn-more-link">Plui informazions</a>
+cookie-tab-content = Chescj cookies ti stan daûr di un sît a chel altri par tirâ sù dâts su ce che tu fasis in rêt. A vegnin stabilîts di tiercis parts tant che agjenziis publicitariis e di analisi dai dâts. Il bloc dai cookies inter-sît che a spiin al ridûs il numar di publicitâts che ti stan daûr ator pe rêt. <a data-l10n-name="learn-more-link">Plui informazions</a>
 tracker-tab-title = Contignûts che ti spiin
 tracker-tab-description = I sîts web a puedin cjariâ publicitât, videos e altri contignûts esternis cul codiç par spiâti. Blocant i contignûts che ti spiin tu puedis sveltî il cjariament dai sîts, ma cualchi boton, formulari e cjamp pes credenziâls al podarès no funzionâ. <a data-l10n-name="learn-more-link">Plui informazions</a>
 fingerprinter-tab-title = Rilevadôrs di stamp numeric
-fingerprinter-tab-content = I rilevadôrs di stamp numeric a tirin dongje impostazions dal to navigadôr e dal to computer par creâ un to profîl. Doprant chest stamp numeric digjitâl, a puedin stâti daûr su diviers sîts web. <a data-l10n-name="learn-more-link">Plui informazions</a>
+fingerprinter-tab-content = I rilevadôrs di stamp numeric a tirin sù impostazions dal to navigadôr e dal to computer par creâ un to profîl. Doprant chest stamp numeric digjitâl, a puedin stâti daûr su diviers sîts web. <a data-l10n-name="learn-more-link">Plui informazions</a>
 cryptominer-tab-title = Minadôrs di criptomonede
 cryptominer-tab-content = I minadôrs di criptomonede a doprin la potence di elaborazion dal to sisteme par minâ monede digjitâl. I script par minâ la criptomonede ti cjucjin la batarie, ti morestin il computer e ti puedin fâ cressi il cont de bolete de eletricitât. <a data-l10n-name="learn-more-link">Plui informazions</a>
 protections-close-button2 =

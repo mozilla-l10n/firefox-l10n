@@ -1378,11 +1378,11 @@ permissions-addon-exceptions =
 collection-header = Racuelte e ûs dai dâts di { -brand-short-name }
 collection-header2 = Racuelte e utilizazion dâts di { -brand-short-name }
     .searchkeywords = telemetrie
-preferences-collection-description = O combatìn par dâti la pussibilitât di sielzi e i tirìn dongje dome i minims dâts necessaris par miorâ { -brand-product-name } par ducj.
+preferences-collection-description = O combatìn par dâti la pussibilitât di sielzi e i tirìn sù dome i minims dâts necessaris par miorâ { -brand-product-name } par ducj.
 preferences-collection-privacy-notice = Viôt la informative su la riservatece
 preferences-across-profiles = Chestis impostazions a vegnin aplicadis a ducj i profîi di { -brand-product-name } su chest dispositîf.
 preferences-view-profiles = Viôt ducj i profîi
-collection-description = O cirìn di dâ ai utents la pussibilitât si sielzi e tirâ dongje dome i dâts necessaris par realizâ e miorâ { -brand-short-name } par ducj. O domandìn simpri il permès prime di ricevi informazions personâls.
+collection-description = O cirìn di dâ ai utents la pussibilitât si sielzi e tirâ sù dome i dâts necessaris par realizâ e miorâ { -brand-short-name } par ducj. O domandìn simpri il permès prime di ricevi informazions personâls.
 collection-privacy-notice = Informative su la riservatece
 collection-health-report-telemetry-disabled = No tu stâs plui permetint a { -vendor-short-name } di caturâ dâts tecnics e di interazion. Ducj i dâts esistents a vignaran eliminâts chi di 30 dîs.
 collection-health-report-telemetry-disabled-link = Plui informazions
@@ -1437,7 +1437,7 @@ website-advertising-header = Impostazions pes publicitâts tai sîts web
 website-advertising-private-attribution =
     .label = Permet ai sîts web di fâ misurazions publicitariis tal rispiet de riservatece
     .accesskey = a
-website-advertising-private-attribution-description = Chest al permet ai sîts di valutâ lis prestazions dai lôr anuncis cence tirâ dongje dâts personâi.
+website-advertising-private-attribution-description = Chest al permet ai sîts di valutâ lis prestazions dai lôr anuncis cence tirâ sù dâts personâi.
 
 ## Privacy Section - Security
 ##

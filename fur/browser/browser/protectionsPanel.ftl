@@ -106,9 +106,9 @@ protections-panel-site-not-working-view-send-report = Invie une segnalazion
 
 ##
 
-protections-panel-cross-site-tracking-cookies = Chescj cookies ti stan daûr di un sît a chel altri par tirâ dongje dâts su ce che tu fasis in rêt. A son metûts impins di tiercis parts tant che agjenziis publicitariis e di analisi di dâts.
+protections-panel-cross-site-tracking-cookies = Chescj cookies ti stan daûr di un sît a chel altri par tirâ sù dâts su ce che tu fasis in rêt. A son metûts impins di tiercis parts tant che agjenziis publicitariis e di analisi di dâts.
 protections-panel-cryptominers = I minadôrs di criptomonede a doprin la potente di elaborazion dal to sisteme par minâ monede digjitâl. I scripts par minâ la criptomonede ti cjucjin la batarie, ti morestin il computer e a puedin fâ cressi il cont de bolete de eletricitât.
-protections-panel-fingerprinters = I rilevadôrs di stamp numeric a tirin dongje impostazions dal to navigadôr e dal to computer par creâ un to profîl. Doprant chest stamp numeric digjitâl, a puedin stâti daûr su diviers sîts web.
+protections-panel-fingerprinters = I rilevadôrs di stamp numeric a tirin sù impostazions dal to navigadôr e dal to computer par creâ un to profîl. Doprant chest stamp numeric digjitâl, a puedin stâti daûr su diviers sîts web.
 protections-panel-tracking-content = I sîts web a puedin cjariâ publicitât, videos e altri contignûts esternis cul codiç par spiâti. Blocant i contignûts che ti spiin tu puedis sveltî il cjariament dai sîts, ma cualchi boton, formulari e cjamp pes credenziâls al podarès no funzionâ.
 protections-panel-social-media-trackers = I social networks a placin spiis su altris sîts web par stâti daûr su ce che tu fasis, viodis e osservis in rêt. Chest al permet aes compagniis dai social media di savê alc di plui su di te, rispiet a ce che za tu condividis sui profîi dai tiei social media.
 protections-panel-description-shim-allowed = Cualchi spion segnât chi sot al è stât sblocât in mût parziâl su cheste pagjine parcè che tu âs interagjît cun lui.
