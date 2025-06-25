@@ -51,11 +51,19 @@ genai-menu-ask-generic =
 # $provider (string) - name of the provider
 genai-menu-ask-provider =
     .label = Domande a { $provider }
+genai-menu-open-generic =
+    .label = Vierç chatbot IA
+# $provider (string) - name of the provider
+genai-menu-open-provider =
+    .label = Vierç { $provider }
 genai-menu-remove-generic =
     .label = Gjave chatbot IA
 # $provider (string) - name of the provider
 genai-menu-remove-provider =
     .label = Gjave { $provider }
+genai-menu-remove-sidebar =
+    .label = Gjave de sbare laterâl
+genai-menu-new-badge = Novitât
 genai-input-ask-generic =
     .placeholder = Domande al chatbox IA…
 # $provider (string) - name of the provider

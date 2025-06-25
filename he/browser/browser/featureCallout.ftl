@@ -91,6 +91,11 @@ perplexity-callout-secondary-label-2 = הבנתי
 
 ## Account Adoption Passwords callout strings
 
+# Suggestion to backup passwords by signing up for Mozilla account and using sync
+fxa-adoption-passwords-title = הססמה נשמרה. בואו נגבה אותה.
+fxa-adoption-passwords-subtitle = ניתן להגן על הססמאות שלך על־ידי סנכרונם למכשירים שלך באמצעות הצפנה.
+# Opens Mozilla accounts sign-up page
+fxa-adoption-passwords-primary-button-label = הרשמה
 
 ## Sidebar Strings
 
@@ -115,6 +120,10 @@ sidebar-pins-callout-cta-button = נעיצת לשונית
 
 ## Pinning Tabs Strings
 
+pin-tabs-callout-1-title = לשמור על לשוניות חשובות בהישג יד
+pin-tabs-callout-1-subtitle = ניתן לגרור לשונית לתחילת רצועת הלשוניות כדי לנעוץ אותה. או ללחוץ לחיצה ימנית ולבחור באפשרות ״נעיצת לשונית״.
+pin-tabs-callout-cta-1-button = נעיצת לשונית זו
+pin-tabs-callout-2-title = נעיצת לשוניות שבהן מבקרים הכי הרבה
 
 ## Sidebar Onboarding Strings
 

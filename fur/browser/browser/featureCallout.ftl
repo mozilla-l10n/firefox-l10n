@@ -106,6 +106,11 @@ perplexity-callout-secondary-label-2 = Capît
 
 ## Account Adoption Passwords callout strings
 
+# Suggestion to backup passwords by signing up for Mozilla account and using sync
+fxa-adoption-passwords-title = Password salvade. Fasìnji un backup.
+fxa-adoption-passwords-subtitle = Protêç lis tôs passwords sincronizantlis cui tiei dispositîfs doprant la cifradure.
+# Opens Mozilla accounts sign-up page
+fxa-adoption-passwords-primary-button-label = Regjistriti
 
 ## Sidebar Strings
 
@@ -130,6 +135,14 @@ sidebar-pins-callout-cta-button = Fisse schede
 
 ## Pinning Tabs Strings
 
+pin-tabs-callout-1-title = Ten lis schedis plui impuartantis sot man
+pin-tabs-callout-1-subtitle = Strissine une schede al inizi des schedis par fissâle. Opûr fâs clic cul boton diestri dal mouse e sielç Fisse schede.
+pin-tabs-callout-cta-1-button = Fisse cheste schede
+pin-tabs-callout-2-title = Fisse lis schedis che tu visitis di plui
+pin-tabs-callout-2-subtitle = Par fissâ une schede, strissinile al inizi de sbare des schedis. Opûr fâs clic cul boton diestri dal mouse e sielç Fisse schede.
+pin-tabs-callout-cta-2-button = Fisse cheste schede
+pin-tabs-callout-3-title = Ten sot man i sîts plui impuartants
+pin-tabs-callout-4-title = Fisse i sîts che tu visitis di plui
 
 ## Sidebar Onboarding Strings
 

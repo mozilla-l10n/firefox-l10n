@@ -199,6 +199,7 @@ contextual-manager-passwords-no-username-heading-and-message =
     .heading = הוספת שם משתמש
     .message = מומלץ להוסיף שם משתמש כדי להתחבר מהר יותר.
 contextual-manager-passwords-add-username-button = הוספת שם משתמש
+contextual-manager-passwords-title = ססמאות
 
 ## Login Form
 
@@ -261,6 +262,22 @@ contextual-manager-view-alert-heading =
     .heading = הצגת התרעה
 contextual-manager-view-alert-button =
     .tooltiptext = סקירת התרעה
+# Variables
+#   $count (number) - The number of active alerts associated with the login
+contextual-manager-view-alert-heading-2 =
+    .heading =
+        { $count ->
+            [1] הצגת התרעה
+           *[other] הצגת התרעות
+        }
+# Variables
+#   $count (number) - The number of active alerts associated with the login
+contextual-manager-view-alert-button-2 =
+    .tooltiptext =
+        { $count ->
+            [1] סקירת התרעה
+           *[other] סקירת התרעות
+        }
 contextual-manager-show-password-button =
     .aria-label = הצגת הססמה
     .title = הצגת הססמה
