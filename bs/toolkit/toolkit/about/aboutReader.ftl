@@ -4,6 +4,10 @@
 
 about-reader-loading = Učitavanje…
 about-reader-load-error = Neuspješno učitavanje članka sa stranice
+about-reader-color-light-theme = Svijetla
+    .title = Svijetla tema
+about-reader-color-dark-theme = Tamna
+    .title = Tamna tema
 # An estimate for how long it takes to read an article,
 # expressed as a range covering both slow and fast readers.
 # Variables:

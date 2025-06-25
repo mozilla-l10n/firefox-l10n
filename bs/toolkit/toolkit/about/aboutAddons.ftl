@@ -394,6 +394,9 @@ pending-uninstall-description2 =
     .message = Dodatak { $addon } je uklonjen.
 pending-uninstall-undo-button = Poništi
 addon-detail-updates-label = Dozvoli automatska ažuriranja
+addon-detail-updates-radio-default = Zadano
+addon-detail-updates-radio-on = Uključeno
+addon-detail-updates-radio-off = Isključeno
 
 ## "sites with restrictions" (internally called "quarantined") are special domains
 ## where add-ons are normally blocked for security reasons.
