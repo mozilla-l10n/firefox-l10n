@@ -350,7 +350,7 @@ newtab-wallpaper-light-fox-anniversary = En rev i en gressmark med et tåkete fj
 
 ## Solid Colors
 
-newtab-wallpaper-category-title-colors = Solide farger
+newtab-wallpaper-category-title-colors = Ensfarget
 newtab-wallpaper-blue = Blå
 newtab-wallpaper-light-blue = Lyseblå
 newtab-wallpaper-light-purple = Lyselilla
@@ -503,6 +503,9 @@ newtab-topic-selection-button-pick-interests = Velg dine interesser
 newtab-section-follow-button = Følge
 newtab-section-following-button = Følger
 newtab-section-unfollow-button = Slutt å følge
+# A modal may appear next to the Follow button, directing users to try out the feature
+newtab-section-follow-highlight-title = Finjuster kilden din
+newtab-section-follow-highlight-subtitle = Følg interessene dine for å se mer av det du liker.
 
 ## Button to block/unblock listed topics
 ## "Block", "unblocked", and "blocked" are social media terms that refer to hiding a section of stories.

@@ -108,6 +108,7 @@ perplexity-callout-secondary-label-2 = Jeg forstår
 
 # Suggestion to backup passwords by signing up for Mozilla account and using sync
 fxa-adoption-passwords-title = Passordet er lagret. La oss sikkerhetskopiere det.
+fxa-adoption-passwords-subtitle = Beskytt passordene dine ved å synkronisere dem med enhetene dine med kryptering.
 # Opens Mozilla accounts sign-up page
 fxa-adoption-passwords-primary-button-label = Registrer deg
 

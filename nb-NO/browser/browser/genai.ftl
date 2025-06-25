@@ -53,6 +53,9 @@ genai-menu-ask-provider =
     .label = Spør { $provider }
 genai-menu-open-generic =
     .label = Open AI Chatbot
+# $provider (string) - name of the provider
+genai-menu-open-provider =
+    .label = Åpne { $provider }
 genai-menu-remove-generic =
     .label = Fjern AI-chatbot
 # $provider (string) - name of the provider
@@ -61,6 +64,7 @@ genai-menu-remove-provider =
 genai-menu-remove-sidebar =
     .label = Fjern fra sidestolpe
 genai-menu-new-badge = Ny
+genai-menu-summarize-page = Oppsummer side
 genai-input-ask-generic =
     .placeholder = Spør AI chatbot…
 # $provider (string) - name of the provider
@@ -85,6 +89,10 @@ genai-shortcuts-selected-warning =
         }
 genai-shortcuts-hide =
     .label = Skjul chatbot-snarvei
+genai-menu-no-provider =
+    .label = Spør en AI-chatbot
+genai-menu-choose-chatbot =
+    .label = Velg en AI-chatbot
 
 ## Chatbot header
 
@@ -111,6 +119,7 @@ genai-options-about-chatbot =
 
 ## Chatbot footer
 
+genai-page-button-summarize = Oppsummer side
 
 ## Chatbot onboarding
 
@@ -146,6 +155,15 @@ genai-onboarding-select-primary = Begynn å chatte
 genai-chatbot-contextual-title = Bruk en AI-chatbot uten å bytte faner
 genai-chatbot-contextual-subtitle = Chat og surf side om side når du legger til en AI-chatbot i { -brand-short-name }-sidestolpen.
 genai-chatbot-contextual-button = Velg en chatbot
+genai-chatbot-summarize-title = Nyhet! Oppsummer sider med ett klikk
+genai-chatbot-summarize-button = Oppsummer side
+# “Summarize Page” should be consistent with the translation for the string genai-menu-summarize-page
+genai-chatbot-summarize-sidebar-provider-subtitle = Høyreklikk på AI-chatboten din i sidestolpen og velg «Oppsummer side».
+# “Summarize Page” should be consistent with the translation for the string genai-menu-summarize-page
+genai-chatbot-summarize-sidebar-generic-subtitle = Høyreklikk på sparkles-knappen i sidestolpen og velg «Oppsummer side». Første gang velger du også en AI-chatbot.
+# “Summarize page” should be consistent with the translation for the string genai-page-button-summarize
+genai-chatbot-summarize-footer-provider-subtitle = Åpne AI-chatboten din i sidestolpen og velg «Oppsummer side» nederst.
+genai-chatbot-summarize-footer-generic-subtitle = Legg til en AI-chatbot i { -brand-short-name }-sidestolpen for å raskt oppsummere sider.
 
 ## Chatbot onboarding choices
 ## These describe features/capabilities of chatbot providers. These are not buttons/actions.
