@@ -51,11 +51,20 @@ genai-menu-ask-generic =
 # $provider (string) - name of the provider
 genai-menu-ask-provider =
     .label = { $provider }에게 물어보기
+genai-menu-open-generic =
+    .label = AI 챗봇 열기
+# $provider (string) - name of the provider
+genai-menu-open-provider =
+    .label = { $provider } 열기
 genai-menu-remove-generic =
     .label = AI 챗봇 제거
 # $provider (string) - name of the provider
 genai-menu-remove-provider =
     .label = { $provider } 제거
+genai-menu-remove-sidebar =
+    .label = 사이드바에서 제거
+genai-menu-new-badge = 새 기능
+genai-menu-summarize-page = 페이지 요약
 genai-input-ask-generic =
     .placeholder = AI 챗봇에게 물어보기…
 # $provider (string) - name of the provider
@@ -74,6 +83,10 @@ genai-shortcuts-selected-warning =
     .message = 약 { $selectionLength }자를 선택하셨습니다. { $provider } 챗봇에 보낼 수 있는 문자 수는 약 { $maxLength }자입니다.
 genai-shortcuts-hide =
     .label = 챗봇 바로 가기 숨기기
+genai-menu-no-provider =
+    .label = AI 챗봇에게 물어보기
+genai-menu-choose-chatbot =
+    .label = AI 챗봇 선택
 
 ## Chatbot header
 
@@ -100,6 +113,7 @@ genai-options-about-chatbot =
 
 ## Chatbot footer
 
+genai-page-button-summarize = 페이지 요약
 
 ## Chatbot onboarding
 
@@ -135,6 +149,10 @@ genai-onboarding-select-primary = 채팅 시작
 genai-chatbot-contextual-title = 탭을 전환하지 않고 AI 챗봇 사용하기
 genai-chatbot-contextual-subtitle = { -brand-short-name } 사이드바에 AI 챗봇을 추가하면 채팅과 탐색이 나란히 표시됩니다.
 genai-chatbot-contextual-button = 챗봇 선택
+genai-chatbot-summarize-title = 새 기능! 한 번의 클릭으로 페이지 요약
+genai-chatbot-summarize-button = 페이지 요약
+# “Summarize Page” should be consistent with the translation for the string genai-menu-summarize-page
+genai-chatbot-summarize-sidebar-provider-subtitle = 사이드바에서 AI 챗봇을 마우스 오른쪽 버튼으로 클릭하고 "페이지 요약"을 선택하세요.
 
 ## Chatbot onboarding choices
 ## These describe features/capabilities of chatbot providers. These are not buttons/actions.
