@@ -37,4 +37,4 @@ network-menu-summary-tooltip-transferred =
 #   $formattedTime (String): The formatted transfer time.
 network-menu-summary-finish = 끝: { $formattedTime }
 network-menu-summary-tooltip-finish =
-    .title = 모든 요청을 읽어들이는데 걸린 시간
+    .title = 모든 요청을 읽어들이는 데 걸린 시간

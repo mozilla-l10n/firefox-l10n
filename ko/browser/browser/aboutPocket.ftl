@@ -11,7 +11,7 @@
 # Placeholder text for tag input
 pocket-panel-saved-add-tags =
     .placeholder = 태그 추가
-pocket-panel-saved-error-generic = 오류가 발생해 { -pocket-brand-name }에 저장하는데 실패했습니다.
+pocket-panel-saved-error-generic = 오류가 발생해 { -pocket-brand-name }에 저장하는 데 실패했습니다.
 pocket-panel-saved-error-tag-length = 태그의 최대 길이는 25자로 제한됨
 pocket-panel-saved-error-only-links = 링크만 저장할 수 있음
 pocket-panel-saved-error-not-saved = 페이지를 저장하지 못했음

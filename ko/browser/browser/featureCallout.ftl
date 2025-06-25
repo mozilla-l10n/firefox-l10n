@@ -135,11 +135,14 @@ sidebar-pins-callout-cta-button = 탭 고정
 
 ## Pinning Tabs Strings
 
+pin-tabs-callout-1-title = 중요한 탭을 가까운 곳에 두기
 pin-tabs-callout-1-subtitle = 탭을 고정하려면, 탭을 탭 표시줄의 시작 부분으로 드래그하세요. 또는 마우스 오른쪽 버튼을 클릭하고 탭 고정을 선택하세요.
 pin-tabs-callout-cta-1-button = 이 탭 고정
 pin-tabs-callout-2-title = 가장 많이 방문한 탭 고정
 pin-tabs-callout-2-subtitle = 탭을 고정하려면, 탭을 탭 표시줄의 시작 부분으로 드래그하세요. 또는 마우스 오른쪽 버튼을 클릭하고 탭 고정을 선택하세요.
 pin-tabs-callout-cta-2-button = 이 탭 고정
+pin-tabs-callout-3-title = 중요한 사이트를 가까운 곳에 두기
+pin-tabs-callout-4-title = 가장 많이 방문하는 사이트 고정
 
 ## Sidebar Onboarding Strings
 

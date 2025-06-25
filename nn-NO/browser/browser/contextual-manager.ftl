@@ -199,6 +199,7 @@ contextual-manager-passwords-no-username-heading-and-message =
     .heading = Legg til eit brukarnamn
     .message = Legg til eitt for å logge inn raskare.
 contextual-manager-passwords-add-username-button = Legg til brukarnamn
+contextual-manager-passwords-title = Passord
 
 ## Login Form
 

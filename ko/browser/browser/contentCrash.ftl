@@ -29,6 +29,9 @@ pending-crash-reports-always-send =
     .label = 항상 보내기
 # Variables:
 #   $reportCount (Number): the number of pending crash reports
+requested-crash-reports-message-new = 조사 중인 충돌과 관련된 보내지 않은 충돌 보고서가 { $reportCount }개 있습니다. 보내면 { -brand-product-name }를 개선하는 데 도움이 됩니다. 이 알림을 닫으면 이 보고서가 무시됩니다.
+# Variables:
+#   $reportCount (Number): the number of pending crash reports
 requested-crash-reports-message = 현재 조사 중인 충돌 보고서와 일치하는 보내지 않은 충돌 보고서가 { $reportCount }개 있습니다. 이를 전송하면 { -brand-product-name }를 개선하는 데 도움이 됩니다. 이 알림을 닫으면 이 보고서를 무시합니다.
 requested-crash-reports-dont-show-again =
     .label = 다시 표시 안 함

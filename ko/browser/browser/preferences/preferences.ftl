@@ -305,7 +305,7 @@ choose-language-description = 웹 페이지를 표시할 기본 언어 선택
 choose-button =
     .label = 선택…
     .accesskey = o
-choose-browser-language-description = { -brand-short-name }가 메뉴, 메시지 및 알림을 표시하는데 사용할 언어를 선택하세요.
+choose-browser-language-description = { -brand-short-name }가 메뉴, 메시지 및 알림을 표시하는 데 사용할 언어를 선택하세요.
 manage-browser-languages-button =
     .label = 대체 설정…
     .accesskey = I
@@ -985,7 +985,7 @@ forms-primary-pw-use =
     .accesskey = U
 # This operation requires the user to authenticate with the operating system (device sign-in)
 forms-os-reauth =
-    .label = 비밀번호를 입력하고 관리하는데 기기 로그인 요구
+    .label = 비밀번호를 입력하고 관리하는 데 기기 로그인 요구
 forms-primary-pw-learn-more-link = 더 알아보기
 # This string uses the former name of the Primary Password feature
 # ("Master Password" in English) so that the preferences can be found
@@ -1011,7 +1011,7 @@ windows-passkey-settings-label = 시스템 설정에서 패스키 관리
 ## OS Authentication dialog
 
 # This message can be seen by trying to add a Primary Password.
-primary-password-os-auth-dialog-message-win = 기본 비밀번호를 만들려면, Windows 로그인 자격 증명을 입력하세요. 이는 계정의 보안을 보호하는데 도움이 됩니다.
+primary-password-os-auth-dialog-message-win = 기본 비밀번호를 만들려면, Windows 로그인 자격 증명을 입력하세요. 이는 계정의 보안을 보호하는 데 도움이 됩니다.
 # This message can be seen by trying to add a Primary Password.
 # The macOS strings are preceded by the operating system with "Firefox is trying to "
 # and includes subtitle of "Enter password for the user "xxx" to allow this." These
@@ -1252,7 +1252,7 @@ content-blocking-known-and-suspected-fingerprinters = 알려지거나 의심되�
 # The tcp-rollout strings are no longer used for the rollout but for tcp-by-default in the standard section
 
 # "Contains" here means "isolates", "limits".
-content-blocking-etp-standard-tcp-rollout-description = 전체 쿠키 보호는 사용자가 있는 사이트에 대한 쿠키가 포함되어 있으므로, 추적기가 사이트 간에 사용자를 팔로우하는데 쿠키를 사용할 수 없습니다.
+content-blocking-etp-standard-tcp-rollout-description = 전체 쿠키 보호는 사용자가 있는 사이트에 대한 쿠키가 포함되어 있으므로, 추적기가 사이트 간에 사용자를 팔로우하는 데 쿠키를 사용할 수 없습니다.
 content-blocking-etp-standard-tcp-rollout-learn-more = 더 알아보기
 content-blocking-etp-standard-tcp-title = 가장 강력한 개인 정보 보호 기능인 전체 쿠키 보호 포함
 content-blocking-warning-title = 주의하세요!
@@ -1397,7 +1397,7 @@ collection-health-report-disabled2 = 이 빌드 구성에서는 데이터 보고
 collection-backlogged-crash-reports2 =
     .label = 자동으로 충돌 보고서 제출
     .accesskey = c
-collection-backlogged-crash-reports-description = { -vendor-short-name }가 브라우저의 문제를 진단하고 해결하는데 도움이 됩니다. 보고서에는 개인 정보나 민감한 정보가 포함되어 있을 수 있습니다.
+collection-backlogged-crash-reports-description = { -vendor-short-name }가 브라우저의 문제를 진단하고 해결하는 데 도움이 됩니다. 보고서에는 개인 정보나 민감한 정보가 포함되어 있을 수 있습니다.
 addon-recommendations =
     .label = { -brand-short-name }가 개인화된 확장 기능 추천을 할 수 있도록 허용
 addon-recommendations-link = 더 알아보기

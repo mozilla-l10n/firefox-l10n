@@ -100,6 +100,8 @@ perplexity-callout-secondary-label-2 = Eg forstår
 
 ## Account Adoption Passwords callout strings
 
+# Opens Mozilla accounts sign-up page
+fxa-adoption-passwords-primary-button-label = Registrer deg
 
 ## Sidebar Strings
 
@@ -124,6 +126,8 @@ sidebar-pins-callout-cta-button = Fest fane
 
 ## Pinning Tabs Strings
 
+pin-tabs-callout-cta-1-button = Fest denne fana
+pin-tabs-callout-cta-2-button = Fest denne fana
 
 ## Sidebar Onboarding Strings
 
