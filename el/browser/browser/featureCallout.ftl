@@ -106,6 +106,8 @@ perplexity-callout-secondary-label-2 = Το κατάλαβα
 
 ## Account Adoption Passwords callout strings
 
+# Suggestion to backup passwords by signing up for Mozilla account and using sync
+fxa-adoption-passwords-title = Ο κωδικός πρόσβασης αποθηκεύτηκε. Ας δημιουργήσουμε ένα αντίγραφο ασφαλείας.
 # Opens Mozilla accounts sign-up page
 fxa-adoption-passwords-primary-button-label = Εγγραφή
 
@@ -132,8 +134,14 @@ sidebar-pins-callout-cta-button = Καρφίτσωμα καρτέλας
 
 ## Pinning Tabs Strings
 
+pin-tabs-callout-1-title = Κρατήστε κοντά σας τις σημαντικές καρτέλες
+pin-tabs-callout-1-subtitle = Σύρετε μια καρτέλα στην αρχή της λωρίδας καρτελών για να την καρφιτσώσετε. Ή κάντε δεξί κλικ και επιλέξτε «Καρφίτσωμα καρτέλας».
 pin-tabs-callout-cta-1-button = Καρφίτσωμα καρτέλας
+pin-tabs-callout-2-title = Καρφιτσώστε τις καρτέλες που επισκέπτεστε συχνότερα
+pin-tabs-callout-2-subtitle = Για να καρφιτσώσετε οποιαδήποτε καρτέλα, σύρετέ τη στην αρχή της λωρίδας καρτελών. Ή κάντε δεξί κλικ και επιλέξτε «Καρφίτσωμα καρτέλας».
 pin-tabs-callout-cta-2-button = Καρφίτσωμα καρτέλας
+pin-tabs-callout-3-title = Κρατήστε κοντά σας τους σημαντικούς ιστοτόπους
+pin-tabs-callout-4-title = Καρφιτσώστε τους ιστοτόπους που επισκέπτεστε συχνότερα
 
 ## Sidebar Onboarding Strings
 

@@ -108,6 +108,7 @@ perplexity-callout-secondary-label-2 = 확인
 
 # Suggestion to backup passwords by signing up for Mozilla account and using sync
 fxa-adoption-passwords-title = 암호가 저장되었습니다. 백업하세요.
+fxa-adoption-passwords-subtitle = 암호화를 통해 비밀번호를 기기에 동기화하여 보호하세요.
 # Opens Mozilla accounts sign-up page
 fxa-adoption-passwords-primary-button-label = 가입
 
@@ -134,6 +135,11 @@ sidebar-pins-callout-cta-button = 탭 고정
 
 ## Pinning Tabs Strings
 
+pin-tabs-callout-1-subtitle = 탭을 고정하려면, 탭을 탭 표시줄의 시작 부분으로 드래그하세요. 또는 마우스 오른쪽 버튼을 클릭하고 탭 고정을 선택하세요.
+pin-tabs-callout-cta-1-button = 이 탭 고정
+pin-tabs-callout-2-title = 가장 많이 방문한 탭 고정
+pin-tabs-callout-2-subtitle = 탭을 고정하려면, 탭을 탭 표시줄의 시작 부분으로 드래그하세요. 또는 마우스 오른쪽 버튼을 클릭하고 탭 고정을 선택하세요.
+pin-tabs-callout-cta-2-button = 이 탭 고정
 
 ## Sidebar Onboarding Strings
 
