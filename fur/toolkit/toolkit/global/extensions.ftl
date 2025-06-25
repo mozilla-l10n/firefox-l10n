@@ -108,16 +108,16 @@ webext-perms-host-description-multiple-domains =
 
 ## Strings for data collection permissions in the permission prompt.
 
-webext-perms-description-data-none = Il svilupadôr al dîs che cheste estension no à bisugne di tirâ dongje dâts.
+webext-perms-description-data-none = Il svilupadôr al dîs che cheste estension no à bisugne di tirâ sù dâts.
 # Variables:
 #    $permissions (String): a list of data collection permissions formatted with `Intl.ListFormat` using the "narrow" style.
-webext-perms-description-data-some = Il svilupadôr al dîs che cheste estension e tire dongje: { $permissions }
+webext-perms-description-data-some = Il svilupadôr al dîs che cheste estension e tire sù: { $permissions }
 # Variables:
 #    $permissions (String): a list of data collection permissions formatted with `Intl.ListFormat` using the "narrow" style.
-webext-perms-description-data-some-update = Il svilupadôr al dîs che la estension e tirarà dongje: { $permissions }
+webext-perms-description-data-some-update = Il svilupadôr al dîs che la estension e tirarà sù: { $permissions }
 # Variables:
 #    $permissions (String): a list of data collection permissions formatted with `Intl.ListFormat` using the "narrow" style.
-webext-perms-description-data-some-optional = Il svilupadôr al dîs che la estension e vûl tirâ dongje: { $permissions }
+webext-perms-description-data-some-optional = Il svilupadôr al dîs che la estension e vûl tirâ sù: { $permissions }
 # Variables:
 #   $extension (String): replaced with the localized name of the extension.
 webext-perms-update-text-with-data-collection = { $extension } al domande gnovis impostazions pal inzornament
@@ -127,7 +127,7 @@ webext-perms-update-list-intro-with-data-collection = Anule par mantignî la ver
 webext-perms-optional-text-with-data-collection = { $extension } al domande altris impostazions
 # Variables:
 #   $extension (String): replaced with the localized name of the extension.
-webext-perms-optional-text-with-data-collection-only = { $extension } al domande altris dâts di tirâ dongje
+webext-perms-optional-text-with-data-collection-only = { $extension } al domande altris dâts di tirâ sù
 
 ## Headers used in the webextension permissions dialog for synthetic add-ons.
 ## The part of the string describing what privileges the extension gives should be consistent

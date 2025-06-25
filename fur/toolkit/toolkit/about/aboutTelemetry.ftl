@@ -20,7 +20,7 @@ about-telemetry-more-information = Âstu bisugne di plui informazions?
 about-telemetry-firefox-data-doc = La <a data-l10n-name="data-doc-link">documentazion dai dâts di Firefox</a> e inclût vuidis su cemût lavorâ cui nestris imprescj pe gjestion dai dâts.
 about-telemetry-telemetry-client-doc = La <a data-l10n-name="client-doc-link">documentazion dal client di Firefox Telemetry</a> a inclût definizions di concets, documentazion API e referencis di dâts.
 about-telemetry-telemetry-dashboard = Cui <a data-l10n-name="dashboard-link">panei di Telemetry</a> al e pussibil visualizâ i dâts di Mozilla ricevûts cun Telemetry.
-about-telemetry-telemetry-probe-dictionary = Il <a data-l10n-name="probe-dictionary-link">dizionari des sondis</a> al conten detais e descrizions des sondis (“probe”) tiradis dongje di Telemetry.
+about-telemetry-telemetry-probe-dictionary = Il <a data-l10n-name="probe-dictionary-link">dizionari des sondis</a> al conten detais e descrizions des sondis (“probe”) tirâts sù di Telemetry.
 about-telemetry-show-in-Firefox-json-viewer = Vierç in tal visôr JSON
 about-telemetry-home-section = Home
 about-telemetry-general-data-section = Dâts gjenerai
@@ -68,8 +68,8 @@ about-telemetry-histogram-stats =
     }
 # Variables:
 #   $telemetryServerOwner (string) - the value of the toolkit.telemetry.server_owner preference. Typically "Mozilla"
-about-telemetry-page-subtitle = Cheste pagjine e mostre informazions su prestazions, hardware, utilizazion e personalizazions tirâts dongje di Telemetry. Chestis informazions a vegnin mandadis a { $telemetryServerOwner } par judâ a miorâ { -brand-full-name }.
-about-telemetry-settings-explanation = La telemetrie e sta tirant dongje { about-telemetry-data-type } e il cjariament in rêt al è <a data-l10n-name="upload-link">{ about-telemetry-upload-type }</a>.
+about-telemetry-page-subtitle = Cheste pagjine e mostre informazions su prestazions, hardware, utilizazion e personalizazions tirâts sù di Telemetry. Chestis informazions a vegnin mandadis a { $telemetryServerOwner } par judâ a miorâ { -brand-full-name }.
+about-telemetry-settings-explanation = La telemetrie e sta tirant sù { about-telemetry-data-type } e il cjariament in rêt al è <a data-l10n-name="upload-link">{ about-telemetry-upload-type }</a>.
 # Variables:
 #   $name (string) - Ping name, e.g. “saved-session”
 #   $timestamp (string) - Ping localized timestamp, e.g. “2017/07/08 10:40:46”
