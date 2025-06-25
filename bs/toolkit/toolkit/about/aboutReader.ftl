@@ -8,6 +8,14 @@ about-reader-color-light-theme = Svijetla
     .title = Svijetla tema
 about-reader-color-dark-theme = Tamna
     .title = Tamna tema
+about-reader-color-sepia-theme = Sepija
+    .title = Tema sepija
+about-reader-color-auto-theme = Automatski
+    .title = Automatska tema
+about-reader-color-gray-theme = Siva
+    .title = Siva tema
+about-reader-color-contrast-theme = Kontrast
+    .title = Kontrastna tema
 # An estimate for how long it takes to read an article,
 # expressed as a range covering both slow and fast readers.
 # Variables:
@@ -22,24 +30,57 @@ about-reader-estimated-read-time =
 
 ## Reader View text and layout menu
 
+about-reader-toolbar-minus =
+    .title = Smanji veličinu fonta
+about-reader-toolbar-plus =
+    .title = Povećajte veličinu fonta
+about-reader-toolbar-contentwidthminus =
+    .title = Smanji širinu sadržaja
+about-reader-toolbar-contentwidthplus =
+    .title = Povećaj širinu sadržaja
+about-reader-toolbar-lineheightminus =
+    .title = Smanji visinu linije
+about-reader-toolbar-lineheightplus =
+    .title = Povećaj visinu linije
 
 ## These are the styles of typeface that are options in the reader view controls.
 
 about-reader-font-type-serif = Serif
 about-reader-font-type-sans-serif = Sans-serif
+about-reader-font-type-monospace = Fiksna širina
 
 ## Reader View toolbar buttons
 
 about-reader-toolbar-close = Zatvori pregled za čitanje
 about-reader-toolbar-type-controls = Kontrole tipova
+about-reader-toolbar-text-layout-controls = Tekst i raspored
+about-reader-toolbar-theme-controls = Tema
+about-reader-toolbar-savetopocket = Sačuvaj na { -pocket-brand-name }
 
 ## Reader View colors menu
 
+about-reader-colors-menu-header = Tema
+about-reader-fxtheme-tab = Zadano
+about-reader-customtheme-tab = Prilagođeno
 
 ## These are used as labels for the custom theme color pickers.
 ## The .title element is used to make the editing functionality
 ## clear and give context for screen reader users.
 
+about-reader-custom-colors-foreground = Tekst
+    .title = Uredi boju
+about-reader-custom-colors-background = Pozadina
+    .title = Uredi boju
+about-reader-custom-colors-unvisited-links = Neposjećeni linkovi
+    .title = Uredi boju
+about-reader-custom-colors-visited-links = Posjećeni linkovi
+    .title = Uredi boju
+about-reader-custom-colors-selection-highlight = Marker za čitanje naglas
+    .title = Uredi boju
+about-reader-reset-button = Resetiraj zadane postavke
+about-reader-custom-colors-foreground2 =
+    .label = Tekst
+    .title = Uredi boju
 about-reader-custom-colors-background2 =
     .label = Pozadina
     .title = Uredi boju
@@ -55,6 +96,8 @@ about-reader-custom-colors-selection-highlight2 =
 
 ## Reader View text and layout menu
 
+about-reader-text-header = Tekst
+about-reader-text-size-label = Veličina teksta
 about-reader-font-type-selector-label = Font
 about-reader-font-weight-selector-label = Debljina fonta
 about-reader-font-weight-light = Svijetla

@@ -135,6 +135,7 @@ sidebar-pins-callout-cta-button = Rejtarik pśipěś
 
 ## Pinning Tabs Strings
 
+pin-tabs-callout-1-title = Źaržćo wažne rejtariki k ruce
 pin-tabs-callout-1-subtitle = Śěgniśo rejtarik k zachopjeńkoju rědki rejtarikow, aby jen pśipěł. Abo klikniśo z pšaweju tastu a wubjeŕśo Rejtarik pśipěś.
 pin-tabs-callout-cta-1-button = Toś ten rejtarik pśipěś
 pin-tabs-callout-2-title = Pśipniśo rejtariki, kótarež se nejcesćej woglědujośo

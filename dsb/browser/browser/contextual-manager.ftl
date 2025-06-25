@@ -290,6 +290,17 @@ contextual-manager-view-alert-heading-2 =
             [few] { $count } warnowanja pokazaś
            *[other] { $count } warnowanjow pokazaś
         }
+# Variables
+#   $count (number) - The number of active alerts associated with the login
+contextual-manager-view-alert-button-2 =
+    .tooltiptext =
+        { $count ->
+            [1] Warnowanje pśeglědowaś
+            [one] { $count } warnowanje pśeglědowaś
+            [two] { $count } warnowani pśeglědowaś
+            [few] { $count } warnowanja pśeglědowaś
+           *[other] { $count } warnowanjow pśeglědowaś
+        }
 contextual-manager-show-password-button =
     .aria-label = Gronidło pokazaś
     .title = Gronidło pokazaś

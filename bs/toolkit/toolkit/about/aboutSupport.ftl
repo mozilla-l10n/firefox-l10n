@@ -125,6 +125,12 @@ place-database-title = Baza podataka mjesta
 place-database-stats = Statistika
 place-database-stats-show = Prikaži statistiku
 place-database-stats-hide = Sakrij statistiku
+place-database-stats-entity = Entitet
+place-database-stats-count = Broj
+place-database-stats-size-kib = Veličina (KiB)
+place-database-stats-size-perc = Veličina (%)
+place-database-stats-efficiency-perc = Efikasnost (%)
+place-database-stats-sequentiality-perc = Sekvencijalnost (%)
 place-database-integrity = Integritet
 place-database-verify-integrity = Verifikuj integritet
 a11y-title = Pristupačnost
@@ -144,12 +150,20 @@ sandbox-sys-call-tid = TID
 sandbox-sys-call-proc-type = Tip procesa
 sandbox-sys-call-number = Syscall
 sandbox-sys-call-args = Argumenti
+troubleshoot-mode-title = Dijagnosticiranje problema
+restart-in-troubleshoot-mode-label = Način rješavanja problema…
+clear-startup-cache-title = Pokušajte obrisati predmemoriju pokretanja
+clear-startup-cache-label = Obriši predmemoriju pri pokretanju…
+startup-cache-dialog-title2 = Ponovo pokrenuti { -brand-short-name } da se obriše predmemorija pri pokretanju?
+startup-cache-dialog-body2 = Ovo neće promijeniti vaše postavke niti ukloniti ekstenzije.
+restart-button-label = Restartuj
 
 ## Media titles
 
 audio-backend = Audio Backend
 max-audio-channels = Max kanala
 sample-rate = Željeni sample rate
+roundtrip-latency = Latencija povratnog puta (standardna devijacija)
 media-title = Medij
 media-output-devices-title = Izlazni uređaji
 media-input-devices-title = Ulazni uređaji
@@ -163,11 +177,15 @@ media-device-channels = Kanali
 media-device-rate = Brzina
 media-device-latency = Kašnjenje
 media-capabilities-title = Mogućnosti medija
+media-codec-support-info = Informacije o podršci za kodeke
 # List all the entries of the database.
 media-capabilities-enumerate = Enumeriraj bazu podataka
 
 ## Codec support table
 
+media-codec-support-sw-decoding = Dekodiranje softvera
+media-codec-support-hw-decoding = Hardversko dekodiranje
+media-codec-support-codec-name = Naziv kodeka
 
 ## Media Content Decryption Modules (CDM)
 ## See EME Spec for more explanation for following technical terms

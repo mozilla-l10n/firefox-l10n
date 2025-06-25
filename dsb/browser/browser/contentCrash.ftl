@@ -35,6 +35,15 @@ pending-crash-reports-always-send =
     .label = Pśecej pósłaś
 # Variables:
 #   $reportCount (Number): the number of pending crash reports
+requested-crash-reports-message-new =
+    { $reportCount ->
+        [one] Maśo { $reportCount } njepósłanu rozpšawu wowalenja, kótaraž se na wowalenja póśěgujo, kótarež se pśepytuju; gaž ju sćelośo, pomagaśo nam { -brand-product-name } pólěpšyś. Gaž toś tu powěźeńku zacynjaśo, se toś te rozpšawy ignorěruju.
+        [two] Maśo { $reportCount } njepósłanej rozpšawje wowalenjowu, kótarejž se na wowalenja póśěgujotej, kótarež se pśepytuju; gaž je sćelośo, pomagaśo nam { -brand-product-name } pólěpšyś. Gaž toś tu powěźeńku zacynjaśo, se toś te rozpšawy ignorěruju.
+        [few] Maśo { $reportCount } njepósłane rozpšawy wowalenjow, kótarež se na wowalenja póśěguju, kótarež se pśepytuju; gaž je sćelośo, pomagaśo nam { -brand-product-name } pólěpšyś. Gaž toś tu powěźeńku zacynjaśo, se toś te rozpšawy ignorěruju.
+       *[other] Maśo { $reportCount } njepósłanych rozpšawow wowalenjow, kótarež se na wowalenja póśěguju, kótarež se pśepytuju; gaž je sćelośo, pomagaśo nam { -brand-product-name } pólěpšyś. Gaž toś tu powěźeńku zacynjaśo, se toś te rozpšawy ignorěruju.
+    }
+# Variables:
+#   $reportCount (Number): the number of pending crash reports
 requested-crash-reports-message =
     { $reportCount ->
         [one] Maśo { $reportCount } njepósłanych rozpšawow wowalenjow, kótaraž wowalenjam wótpowědujo, kótarež se wuslěźuju. Gaž ju sćelośo, pomagaśo nam, { -brand-product-name } pólěpšyś. Gaž toś tu powěźeńku zacynjaśo, se toś ta rozpšawa ignorěrujo.
