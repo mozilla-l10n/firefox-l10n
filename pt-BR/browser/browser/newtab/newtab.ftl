@@ -500,6 +500,8 @@ newtab-topic-selection-button-pick-interests = Escolha seus interesses
 newtab-section-follow-button = Seguir
 newtab-section-following-button = Seguindo
 newtab-section-unfollow-button = Parar de seguir
+# A modal may appear next to the Follow button, directing users to try out the feature
+newtab-section-follow-highlight-title = Personalize seu canal de notícias
 newtab-section-follow-highlight-subtitle = Siga o que você se interessa para aparecer mais do que você gosta.
 
 ## Button to block/unblock listed topics
