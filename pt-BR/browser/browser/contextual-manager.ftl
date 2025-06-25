@@ -271,6 +271,14 @@ contextual-manager-view-alert-heading-2 =
             [1] Ver alerta
            *[other] View alerts
         }
+# Variables
+#   $count (number) - The number of active alerts associated with the login
+contextual-manager-view-alert-button-2 =
+    .tooltiptext =
+        { $count ->
+            [1] Revisar alerta
+           *[other] Review alerts
+        }
 contextual-manager-show-password-button =
     .aria-label = Mostrar senha
     .title = Mostrar senha
