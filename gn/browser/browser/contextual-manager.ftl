@@ -204,6 +204,7 @@ contextual-manager-passwords-no-username-heading-and-message =
     .heading = Embojuaju poruhára réra
     .message = Embojuaju peteĩ eike hag̃ua pya’e.
 contextual-manager-passwords-add-username-button = Embojuaju poruhára réra
+contextual-manager-passwords-title = Ñe’ẽñemi
 
 ## Login Form
 
