@@ -34,6 +34,10 @@ contentanalysis-operationtype-clipboard = notis
 contentanalysis-operationtype-dropped-text = test molât
 contentanalysis-operationtype-print = stampe
 #   $filename - The filename associated with the request, such as "aFile.txt"
+contentanalysis-upload-description = cjariament in rêt di “{ $filename }”
+#   $filename - The filename associated with the request, such as "aFile.txt"
+contentanalysis-download-description = discjariament di “{ $filename }”
+#   $filename - The filename associated with the request, such as "aFile.txt"
 contentanalysis-customdisplaystring-description = cjariament in rêt di “{ $filename }”
 contentanalysis-warndialogtitle = Al è pussibil che chescj contignûts no sedin sigûrs
 # Variables:
@@ -75,6 +79,10 @@ contentanalysis-block-dialog-title-upload-file = No tu âs il permès par cjari�
 # Variables:
 #   $filename - Name of the file that was blocked, such as "aFile.txt"
 contentanalysis-block-dialog-body-upload-file = Lis politichis pe protezion dai dâts stabilidis de tô organizazion no permetin di cjariâ in rêt il file “{ $filename }”. Contate il to aministradôr par vê plui informazions.
+contentanalysis-block-dialog-title-download-file = No tu âs il permès di discjariâ chest file
+# Variables:
+#   $filename - Name of the file that was blocked, such as "aFile.txt"
+contentanalysis-block-dialog-body-download-file = In base aes politichis di protezion dai dâts de tô organizazion, no tu âs il permès par discjariâ il file “{ $filename }”. Contate il to aministradôr par vê plui informazions.
 contentanalysis-block-dialog-title-clipboard = No tu âs il permès par tacâ chest contignût
 contentanalysis-block-dialog-body-clipboard = Lis politichis pe protezion dai dâts stabilidis de tô organizazion no permetin di tacâ chest contignût. Contate il to aministradôr par vê plui informazions.
 contentanalysis-block-dialog-title-dropped-text = No tu âs il permès par strissinâ chest contignût
