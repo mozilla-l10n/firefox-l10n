@@ -136,6 +136,7 @@ sidebar-pins-callout-cta-button = Васл кардани варақа
 ## Pinning Tabs Strings
 
 pin-tabs-callout-1-title = Варақаҳои муҳимро ба таври дастрас нигоҳ доред
+pin-tabs-callout-1-subtitle = Варақаро ба оғози навори варақаҳо кашида баред, то он васл шавад. Ё бо зер кардани тугмаи рости муш дар болои варақа, имкони «Васл кардани варақа»-ро интихоб намоед.
 pin-tabs-callout-cta-1-button = Васл кардани ин варақа
 pin-tabs-callout-cta-2-button = Васл кардани ин варақа
 pin-tabs-callout-3-title = Сомонаҳои муҳимро ба таври дастрас нигоҳ доред

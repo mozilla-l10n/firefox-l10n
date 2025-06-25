@@ -137,6 +137,11 @@ sidebar-pins-callout-cta-button = Rejtarik pśipěś
 
 pin-tabs-callout-1-subtitle = Śěgniśo rejtarik k zachopjeńkoju rědki rejtarikow, aby jen pśipěł. Abo klikniśo z pšaweju tastu a wubjeŕśo Rejtarik pśipěś.
 pin-tabs-callout-cta-1-button = Toś ten rejtarik pśipěś
+pin-tabs-callout-2-title = Pśipniśo rejtariki, kótarež se nejcesćej woglědujośo
+pin-tabs-callout-2-subtitle = Aby rejtarik pśipěł, śěgniśo rejtarik k zachopjeńkoju rědki rejtarikow. Abo klikniśo z pšaweju tastu a wubjeŕśo Rejtarik pśipěś.
+pin-tabs-callout-cta-2-button = Toś ten rejtarik pśipěś
+pin-tabs-callout-3-title = Źaržćo wažne sedła k ruce
+pin-tabs-callout-4-title = Pśipniśo sedła, kótarež se nejcesćej woglědujośo
 
 ## Sidebar Onboarding Strings
 

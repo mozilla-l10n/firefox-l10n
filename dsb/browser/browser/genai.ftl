@@ -51,11 +51,20 @@ genai-menu-ask-generic =
 # $provider (string) - name of the provider
 genai-menu-ask-provider =
     .label = { $provider } se pšašaś
+genai-menu-open-generic =
+    .label = Chatbot KI wócyniś
+# $provider (string) - name of the provider
+genai-menu-open-provider =
+    .label = { $provider } wócyniś
 genai-menu-remove-generic =
     .label = Chatbot KI wótwónoźeś
 # $provider (string) - name of the provider
 genai-menu-remove-provider =
     .label = { $provider } wótwónoźeś
+genai-menu-remove-sidebar =
+    .label = Z bocnice wótwónoźeś
+genai-menu-new-badge = Nowy
+genai-menu-summarize-page = Bok zespominaś
 genai-input-ask-generic =
     .placeholder = Pšašajśo se AI chatbot
 # $provider (string) - name of the provider
@@ -86,6 +95,10 @@ genai-shortcuts-selected-warning =
         }
 genai-shortcuts-hide =
     .label = Tastowu skrotconku chatowego bota schowaś
+genai-menu-no-provider =
+    .label = Chatbota KI se pšašaś
+genai-menu-choose-chatbot =
+    .label = Wubjeŕśo chatbot KI
 
 ## Chatbot header
 
@@ -112,6 +125,7 @@ genai-options-about-chatbot =
 
 ## Chatbot footer
 
+genai-page-button-summarize = Bok zespominaś
 
 ## Chatbot onboarding
 
@@ -147,6 +161,13 @@ genai-onboarding-select-primary = Chattowaś zachopiś
 genai-chatbot-contextual-title = Wužywajśo chatbot KI bźez togo, aby rejtariki pśešaltował
 genai-chatbot-contextual-subtitle = Chattujśo a pśeglědujśo bok pó boku, gaž chatbox KI w bocnicy { -brand-short-name } pśidawaśo.
 genai-chatbot-contextual-button = Wubjeŕśo chatbot
+genai-chatbot-summarize-title = Nowy! Zespominajśo boki z jadnym kliknjenim
+genai-chatbot-summarize-button = Bok zespominaś
+# “Summarize Page” should be consistent with the translation for the string genai-menu-summarize-page
+genai-chatbot-summarize-sidebar-provider-subtitle = Klikniśo z pšaweju tastu na swój chatbot KI w bocnicy a wubjeŕśo „Bok zespominaś“.
+# “Summarize page” should be consistent with the translation for the string genai-page-button-summarize
+genai-chatbot-summarize-footer-provider-subtitle = Wócyńśo swój chatbot KI w bocnicy a wubjeŕśo dołojce „Bok zespominaś“.
+genai-chatbot-summarize-footer-generic-subtitle = Pśidajśo bocnicy { -brand-short-name } chatbot KI, aby malsnje boki zespominał.
 
 ## Chatbot onboarding choices
 ## These describe features/capabilities of chatbot providers. These are not buttons/actions.
