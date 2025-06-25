@@ -135,9 +135,13 @@ sidebar-pins-callout-cta-button = Rajtark připinyć
 
 ## Pinning Tabs Strings
 
+pin-tabs-callout-1-title = Dźeržće wažne rajtarki k ruce
+pin-tabs-callout-1-subtitle = Ćehńće rajtark k spočatkej lajsty rajtarkow, zo byšće jón připjał. Abo klikńće z prawej tastu a wubjerće Rajtark připjeć.
 pin-tabs-callout-cta-1-button = Tutón rajtark připjeć
 pin-tabs-callout-2-title = Připniće rajtarki, kotrež najhusćišo wopytujeće
+pin-tabs-callout-2-subtitle = Zo byšće rajtark připjał, ćehńće rajtark k spočatkej lajsty rajtarkow. Abo klikńće z prawej tastu a wubjerće Rajtark připjeć.
 pin-tabs-callout-cta-2-button = Tutón rajtark připjeć
+pin-tabs-callout-3-title = Dźeržće wažne sydła k ruce
 pin-tabs-callout-4-title = Připniće sydła, kotrež najhusćišo wopytujeće
 
 ## Sidebar Onboarding Strings
