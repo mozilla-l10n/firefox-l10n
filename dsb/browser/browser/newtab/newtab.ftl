@@ -506,6 +506,8 @@ newtab-topic-selection-button-pick-interests = Wubjeŕśo swóje zajmy
 newtab-section-follow-button = Slědowaś
 newtab-section-following-button = Slědujucy
 newtab-section-unfollow-button = Wěcej njeslědowaś
+# A modal may appear next to the Follow button, directing users to try out the feature
+newtab-section-follow-highlight-title = Zgłosujśo swój kanal nadrobno
 newtab-section-follow-highlight-subtitle = Slědujśo swójim zajmam, aby wěcej wó tom wiźeł, což se wam spódoba.
 
 ## Button to block/unblock listed topics

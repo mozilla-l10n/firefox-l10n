@@ -19,3 +19,35 @@ experimental-features-ime-search-description = IME (Input Method Editor) je alat
 experimental-features-auto-pip =
     .label = Slika u slici: automatsko otvaranje pri prebacivanju na drugi tab
 experimental-features-auto-pip-description = Omogući sliku u slici na aktivnim videozapisima prilikom prebacivanja tabova.
+experimental-features-group-developer-tools =
+    .label = Razvojni alati
+experimental-features-group-webpage-display =
+    .label = Prikaz web stranice
+experimental-features-group-customize-browsing =
+    .label = Prilagodite svoje pregledavanje
+# Contextual Password Manager in sidebar
+experimental-features-contextual-password-manager =
+    .label = Lozinke u bočnoj traci
+experimental-features-contextual-password-manager-description = Pristupite svojim lozinkama direktno iz bočne trake. Nema više pretraživanja ili resetiranja lozinki kada pokušavate da se prijavite. Da biste koristili ovu funkciju, odaberite lozinke u bočnoj traci. Zatim idite na opće postavke i pod rasporedom preglednika odaberite prikaži bočnu traku. Nakon toga, prilagodite bočnu traku odabirom lozinki. Ako je isprobate, <a data-l10n-name="connect">javite nam šta mislite</a>.
+# New Tab Custom Wallpapers
+experimental-features-custom-wallpaper =
+    .label = Odaberite prilagođenu pozadinu ili boju za novi tab
+experimental-features-custom-wallpaper-description = Otpremite vlastitu pozadinu ili odaberite prilagođenu boju za pozadinu novog taba.
+# Link Previews with AI
+experimental-features-link-previews =
+    .label = Pregledi linkova
+experimental-features-link-previews-description =
+    { PLATFORM() ->
+        [macos] Da biste saznali više o web-stranici prije nego što kliknete, zadržite pokazivač iznad linka i pritisnite Shift (⇧) plus Option (⌥) ili Alt. Pregledi mogu sadržavati detalje poput naslova i vremena čitanja. Za neke web-stranice, AI također može pročitati tekst stranice i generisati ključne tačke. AI je optimizovan za čitanje i generisanje teksta na engleskom jeziku. Radi zaštite vaše privatnosti, AI se pokreće lokalno na vašem računaru. <a data-l10n-name="connect">Pošaljite povratne informacije</a>
+       *[other] Da biste saznali više o web-stranici prije nego što kliknete, zadržite pokazivač iznad linka i pritisnite Shift + Alt. Pregledi mogu sadržavati detalje poput naslova i vremena čitanja. Za neke web-stranice, AI također može pročitati tekst stranice i generisati ključne tačke. AI je optimizovan za čitanje i generisanje teksta na engleskom jeziku. Radi zaštite vaše privatnosti, AI se pokreće lokalno na vašem računaru. <a data-l10n-name="connect">Pošaljite povratne informacije</a>
+    }
+# This version of the link previews description does not mention AI.
+experimental-features-link-previews-description-no-ai =
+    { PLATFORM() ->
+        [macos] Da biste saznali više o web-stranici prije nego što kliknete, zadržite pokazivač iznad linka i pritisnite Shift (⇧) plus Option (⌥) ili Alt. Pregledi mogu sadržavati detalje poput naslova i vremena čitanja. <a data-l10n-name="connect">Pošaljite povratne informacije</a>
+       *[other] Da biste saznali više o web-stranici prije nego što kliknete, zadržite pokazivač iznad linka i pritisnite Shift + Alt. Pregledi mogu sadržavati detalje poput naslova i vremena čitanja. <a data-l10n-name="connect">Pošaljite povratne informacije</a>
+    }
+# New Tab Sections with follow and block
+experimental-features-newtab-sections-follow-block =
+    .label = Odjeljci tema i praćenje/blokiranje za priče u novom tabu
+experimental-features-newtab-sections-follow-block-description = Organizirajte priče na svojoj novom tabu u tematske odjeljke (Sport, Hrana, Zabava i više) za strukturiranije i lakše pregledno iskustvo. Koristite naše nove kontrole za praćenje i blokiranje kako biste prilagodili sadržaj koji vidite. <a data-l10n-name="connect">Podijelite povratne informacije</a>

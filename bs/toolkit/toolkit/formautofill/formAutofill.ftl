@@ -5,12 +5,31 @@
 
 ## OS Prompt Dialog
 
+# The macos string is preceded by the operating system (macOS) with "Firefox is trying to ",
+# and has a period added to its end. Make sure to test in your locale.
+autofill-use-payment-method-os-prompt-macos = koristiti pohranjene informacije o načinu plaćanja
+autofill-use-payment-method-os-prompt-windows = { -brand-short-name } pokušava koristiti pohranjene informacije o načinu plaćanja. Potvrdite pristup ovom Windows računu ispod.
+autofill-use-payment-method-os-prompt-other = { -brand-short-name } pokušava koristiti pohranjene informacije o načinu plaćanja.
+# In macOS, this string is preceded by the operating system with "Firefox is trying to ",
+# and has a period added to its end. Make sure to test in your locale.
+autofill-edit-payment-method-os-prompt-macos = prikaži pohranjene informacije o načinu plaćanja
+autofill-edit-payment-method-os-prompt-windows = { -brand-short-name } pokušava prikazati pohranjene informacije o načinu plaćanja. Potvrdite pristup ovom Windows računu ispod.
+autofill-edit-payment-method-os-prompt-other = { -brand-short-name } pokušava prikazati pohranjene informacije o načinu plaćanja.
 # The links lead users to Form Autofill browser preferences.
 autofill-options-link = Opcije automatskog popunjava formulara
 autofill-options-link-osx = Postavke automatskog popunjava formulara
 
 ## The credit card capture doorhanger
 
+# If Sync is enabled and credit card sync is available,
+# this checkbox is displayed on the doorhanger shown when saving credit card.
+credit-card-doorhanger-credit-cards-sync-checkbox = Sinhroniziraj sve sačuvane kartice na svim mojim uređajima
+# Used on the doorhanger when users submit payment with credit card.
+credit-card-save-doorhanger-header = Sigurno sačuvati ovu karticu?
+credit-card-save-doorhanger-description = { -brand-short-name } šifrira broj vaše kartice. Vaš sigurnosni kod neće biti sačuvan.
+credit-card-capture-save-button =
+    .label = Sačuvaj
+    .accessKey = S
 
 # Used on the doorhanger when an credit card change is detected.
 

@@ -165,6 +165,8 @@ genai-chatbot-summarize-title = Nowy! Zespominajśo boki z jadnym kliknjenim
 genai-chatbot-summarize-button = Bok zespominaś
 # “Summarize Page” should be consistent with the translation for the string genai-menu-summarize-page
 genai-chatbot-summarize-sidebar-provider-subtitle = Klikniśo z pšaweju tastu na swój chatbot KI w bocnicy a wubjeŕśo „Bok zespominaś“.
+# “Summarize Page” should be consistent with the translation for the string genai-menu-summarize-page
+genai-chatbot-summarize-sidebar-generic-subtitle = Klikniśo z pšaweju tastu na tłocašk błyskanja w bocnicy a wubjeŕśo „Bok zespominaś“. Prědny raz teke chatbot KI wuběraśo.
 # “Summarize page” should be consistent with the translation for the string genai-page-button-summarize
 genai-chatbot-summarize-footer-provider-subtitle = Wócyńśo swój chatbot KI w bocnicy a wubjeŕśo dołojce „Bok zespominaś“.
 genai-chatbot-summarize-footer-generic-subtitle = Pśidajśo bocnicy { -brand-short-name } chatbot KI, aby malsnje boki zespominał.

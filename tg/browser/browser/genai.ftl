@@ -155,7 +155,10 @@ genai-onboarding-select-primary = Оғоз кардани чат
 genai-chatbot-contextual-title = Аз чат-боти зеҳни сунъӣ («AI») истифода баред — гузаштан аз варақа ба варақа лозим нест
 genai-chatbot-contextual-subtitle = Ҳангоми илова кардани чат-боти зеҳни сунъӣ «AI» дар навори ҷонибии «{ -brand-short-name }», метавонед ҳамзамон суҳбат кунед ва дар паҳлӯи он дар Интернет сомонаҳоро тамошо кунед.
 genai-chatbot-contextual-button = Чат-ботеро интихоб намоед
+genai-chatbot-summarize-title = Навигарӣ! Бо зер кардани танҳо як тугма, ба саҳифаҳо хулоса бароред
 genai-chatbot-summarize-button = Баровардани хулоса дар бораи ин саҳифа
+# “Summarize Page” should be consistent with the translation for the string genai-menu-summarize-page
+genai-chatbot-summarize-sidebar-provider-subtitle = Дар навори ҷонибӣ бо тугмаи рости муш ба чат-боти зеҳни сунъӣ «AI»-и худ зер кунед ва имкони «Баровардани хулоса дар бораи ин саҳифа»-ро интихоб намоед.
 
 ## Chatbot onboarding choices
 ## These describe features/capabilities of chatbot providers. These are not buttons/actions.

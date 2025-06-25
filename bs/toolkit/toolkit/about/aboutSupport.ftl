@@ -185,7 +185,11 @@ media-capabilities-enumerate = Enumeriraj bazu podataka
 
 media-codec-support-sw-decoding = Dekodiranje softvera
 media-codec-support-hw-decoding = Hardversko dekodiranje
+media-codec-support-sw-encoding = Kodiranje softvera
+media-codec-support-hw-encoding = Hardversko kodiranje
 media-codec-support-codec-name = Naziv kodeka
+media-codec-support-supported = Podržano
+media-codec-support-unsupported = Nije podržano
 
 ## Media Content Decryption Modules (CDM)
 ## See EME Spec for more explanation for following technical terms
