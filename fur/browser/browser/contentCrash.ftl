@@ -33,6 +33,13 @@ pending-crash-reports-always-send =
     .label = Invie simpri
 # Variables:
 #   $reportCount (Number): the number of pending crash reports
+requested-crash-reports-message-new =
+    { $reportCount ->
+        [one] Tu âs une segnalazion di colàs che no je stade inviade e che e je simile a altris colàs che o sin daûr a studiâ. Se tu le inviis tu podaressis judânus a miorâ { -brand-product-name }. Se tu sieris cheste notifiche la segnalazion e vignarà ignorade.
+       *[other] Tu âs { $reportCount } segnalazions di colàs che no son stadis inviadis e che a son similis a altris colàs che o sin daûr a studiâ. Se tu lis inviis tu podaressis judânus a miorâ { -brand-product-name }. Se tu sieris cheste notifiche lis segnalazions a vignaran ignoradis.
+    }
+# Variables:
+#   $reportCount (Number): the number of pending crash reports
 requested-crash-reports-message =
     { $reportCount ->
         [one] Tu âs une segnalazion di colàs no inviade che e corispuint a altris colàs che o stin studiant, se tu le inviis tu nus judarâs a miorâ { -brand-product-name }. Sierant cheste notifiche la segnalazion e vignarà ignorade.

@@ -567,4 +567,9 @@ newtab-toast-thanks-for-reporting =
 
 ## Strings for trending searches
 
+newtab-trending-searches-show-trending =
+    .title = Vis populære søk
+newtab-trending-searches-hide-trending =
+    .title = Skjul populære søk
 newtab-trending-searches-learn-more = Les meir
+newtab-trending-searches-dismiss = Skjul populære søk
