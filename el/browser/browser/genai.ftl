@@ -51,11 +51,20 @@ genai-menu-ask-generic =
 # $provider (string) - name of the provider
 genai-menu-ask-provider =
     .label = Ερώτηση στο { $provider }
+genai-menu-open-generic =
+    .label = Άνοιγμα chatbot ΤΝ
+# $provider (string) - name of the provider
+genai-menu-open-provider =
+    .label = Άνοιγμα { $provider }
 genai-menu-remove-generic =
     .label = Αφαίρεση chatbot ΤΝ
 # $provider (string) - name of the provider
 genai-menu-remove-provider =
     .label = Αφαίρεση του { $provider }
+genai-menu-remove-sidebar =
+    .label = Αφαίρεση από την πλαϊνή γραμμή
+genai-menu-new-badge = Νέο
+genai-menu-summarize-page = Σύνοψη σελίδας
 genai-input-ask-generic =
     .placeholder = Ερώτηση στο chatbot ΤΝ…
 # $provider (string) - name of the provider
@@ -80,6 +89,8 @@ genai-shortcuts-selected-warning =
         }
 genai-shortcuts-hide =
     .label = Απόκρυψη συντόμευσης chatbot
+genai-menu-no-provider =
+    .label = Ερώτηση σε chatbot ΤΝ
 
 ## Chatbot header
 
@@ -106,6 +117,7 @@ genai-options-about-chatbot =
 
 ## Chatbot footer
 
+genai-page-button-summarize = Σύνοψη σελίδας
 
 ## Chatbot onboarding
 
@@ -141,6 +153,8 @@ genai-onboarding-select-primary = Έναρξη συνομιλίας
 genai-chatbot-contextual-title = Χρησιμοποιήστε ένα chatbot ΤΝ χωρίς να αλλάξετε καρτέλες
 genai-chatbot-contextual-subtitle = Συνομιλήστε και περιηγηθείτε παράλληλα, προσθέτοντας ένα chatbot ΤΝ στην πλαϊνή γραμμή του { -brand-short-name }.
 genai-chatbot-contextual-button = Επιλέξτε ένα chatbot
+genai-chatbot-summarize-title = Νέο! Σύνοψη σελίδων με ένα κλικ
+genai-chatbot-summarize-button = Σύνοψη σελίδας
 
 ## Chatbot onboarding choices
 ## These describe features/capabilities of chatbot providers. These are not buttons/actions.

@@ -68,6 +68,7 @@ sidebar-show-on-the-left =
 # hovers over it.
 expand-sidebar-on-hover =
     .label = Ανάπτυξη πλαϊνής γραμμής με το πέρασμα του κέρσορα
+sidebar-manage-extensions = Διαχείριση επεκτάσεων
 
 ## Labels for sidebar context menu items
 
@@ -101,6 +102,10 @@ sidebar-context-menu-customize-sidebar =
 #   $deviceName (String) - The name of the device the user is closing a tab for
 sidebar-context-menu-close-remote-tab =
     .label = Κλείσιμο καρτέλας στο «{ $deviceName }»
+sidebar-context-menu-remove-extension2 =
+    .label = Αφαίρεση από το { -brand-short-name }
+sidebar-context-menu-unpin-extension =
+    .label = Αφαίρεση από την πλαϊνή γραμμή
 
 ## Labels for sidebar history context menu items
 

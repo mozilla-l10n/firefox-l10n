@@ -106,6 +106,10 @@ perplexity-callout-secondary-label-2 = 확인
 
 ## Account Adoption Passwords callout strings
 
+# Suggestion to backup passwords by signing up for Mozilla account and using sync
+fxa-adoption-passwords-title = 암호가 저장되었습니다. 백업하세요.
+# Opens Mozilla accounts sign-up page
+fxa-adoption-passwords-primary-button-label = 가입
 
 ## Sidebar Strings
 

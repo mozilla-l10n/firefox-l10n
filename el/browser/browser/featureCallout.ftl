@@ -106,6 +106,8 @@ perplexity-callout-secondary-label-2 = Το κατάλαβα
 
 ## Account Adoption Passwords callout strings
 
+# Opens Mozilla accounts sign-up page
+fxa-adoption-passwords-primary-button-label = Εγγραφή
 
 ## Sidebar Strings
 
@@ -130,6 +132,8 @@ sidebar-pins-callout-cta-button = Καρφίτσωμα καρτέλας
 
 ## Pinning Tabs Strings
 
+pin-tabs-callout-cta-1-button = Καρφίτσωμα καρτέλας
+pin-tabs-callout-cta-2-button = Καρφίτσωμα καρτέλας
 
 ## Sidebar Onboarding Strings
 

@@ -198,6 +198,7 @@ contextual-manager-passwords-no-username-heading-and-message =
     .heading = Προσθήκη ονόματος χρήστη
     .message = Προσθέστε ένα για ταχύτερη σύνδεση.
 contextual-manager-passwords-add-username-button = Προσθήκη ονόματος χρήστη
+contextual-manager-passwords-title = Κωδικοί πρόσβασης
 
 ## Login Form
 
@@ -260,6 +261,22 @@ contextual-manager-view-alert-heading =
     .heading = Προβολή ειδοποίησης
 contextual-manager-view-alert-button =
     .tooltiptext = Έλεγχος ειδοποίησης
+# Variables
+#   $count (number) - The number of active alerts associated with the login
+contextual-manager-view-alert-heading-2 =
+    .heading =
+        { $count ->
+            [1] Προβολή ειδοποίησης
+           *[other] View alerts
+        }
+# Variables
+#   $count (number) - The number of active alerts associated with the login
+contextual-manager-view-alert-button-2 =
+    .tooltiptext =
+        { $count ->
+            [1] Έλεγχος ειδοποίησης
+           *[other] Review alerts
+        }
 contextual-manager-show-password-button =
     .aria-label = Εμφάνιση κωδικού πρόσβασης
     .title = Εμφάνιση κωδικού πρόσβασης

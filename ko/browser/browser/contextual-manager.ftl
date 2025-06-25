@@ -198,6 +198,7 @@ contextual-manager-passwords-no-username-heading-and-message =
     .heading = 이름 추가
     .message = 더 빨리 로그인하려면 하나를 추가하세요.
 contextual-manager-passwords-add-username-button = 사용자 이름 추가
+contextual-manager-passwords-title = 비밀번호
 
 ## Login Form
 
@@ -260,6 +261,22 @@ contextual-manager-view-alert-heading =
     .heading = 알림 보기
 contextual-manager-view-alert-button =
     .tooltiptext = 알림 리뷰
+# Variables
+#   $count (number) - The number of active alerts associated with the login
+contextual-manager-view-alert-heading-2 =
+    .heading =
+        { $count ->
+            [1] 알림 보기
+           *[other] 알림 보기
+        }
+# Variables
+#   $count (number) - The number of active alerts associated with the login
+contextual-manager-view-alert-button-2 =
+    .tooltiptext =
+        { $count ->
+            [1] 알림 리뷰
+           *[other] 알림 리뷰
+        }
 contextual-manager-show-password-button =
     .aria-label = 비밀번호 표시
     .title = 비밀번호 표시

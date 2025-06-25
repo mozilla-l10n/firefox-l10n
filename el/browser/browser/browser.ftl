@@ -611,6 +611,10 @@ urlbar-search-mode-indicator-close =
 # engine is unknown.
 urlbar-placeholder =
     .placeholder = Αναζήτηση όρου ή εισαγωγή διεύθυνσης
+# This placeholder is used when not in search mode and searching in the urlbar
+# is disabled via the keyword.enabled pref.
+urlbar-placeholder-keyword-disabled =
+    .placeholder = Εισαγάγετε διεύθυνση
 # This placeholder is used in search mode with search engines that search the
 # entire web.
 # Variables
@@ -1306,3 +1310,6 @@ file-picker-crashed-show-in-folder =
 ## Onboarding Finish Setup checklist
 
 onboarding-checklist-button-label = Ολοκλήρωση ρύθμισης
+onboarding-aw-finish-setup-button =
+    .label = Ολοκλήρωση ρύθμισης
+    .tooltiptext = Ολοκλήρωση της ρύθμισης του { -brand-short-name }

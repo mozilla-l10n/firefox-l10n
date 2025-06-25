@@ -607,6 +607,10 @@ urlbar-search-mode-indicator-close =
 # engine is unknown.
 urlbar-placeholder =
     .placeholder = 검색어 또는 주소 입력
+# This placeholder is used when not in search mode and searching in the urlbar
+# is disabled via the keyword.enabled pref.
+urlbar-placeholder-keyword-disabled =
+    .placeholder = 주소 입력
 # This placeholder is used in search mode with search engines that search the
 # entire web.
 # Variables
@@ -1298,3 +1302,6 @@ file-picker-crashed-show-in-folder =
 ## Onboarding Finish Setup checklist
 
 onboarding-checklist-button-label = 설정 완료
+onboarding-aw-finish-setup-button =
+    .label = 설정 완료
+    .tooltiptext = { -brand-short-name } 설정 완료
