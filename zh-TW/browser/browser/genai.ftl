@@ -51,11 +51,20 @@ genai-menu-ask-generic =
 # $provider (string) - name of the provider
 genai-menu-ask-provider =
     .label = 問問 { $provider }
+genai-menu-open-generic =
+    .label = 開啟 AI 聊天機器人
+# $provider (string) - name of the provider
+genai-menu-open-provider =
+    .label = 開啟 { $provider }
 genai-menu-remove-generic =
     .label = 移除 AI 聊天機器人
 # $provider (string) - name of the provider
 genai-menu-remove-provider =
     .label = 移除 { $provider }
+genai-menu-remove-sidebar =
+    .label = 自側邊列移除
+genai-menu-new-badge = 新增
+genai-menu-summarize-page = 摘要本頁
 genai-input-ask-generic =
     .placeholder = 問問 AI 聊天機器人…
 # $provider (string) - name of the provider
@@ -74,6 +83,10 @@ genai-shortcuts-selected-warning =
     .message = 您選擇了大約 { $selectionLength } 個字，我們能傳送給 { $provider } 的最大字數約為 { $maxLength } 個字。
 genai-shortcuts-hide =
     .label = 隱藏聊天機器人捷徑
+genai-menu-no-provider =
+    .label = 問問 AI 聊天機器人
+genai-menu-choose-chatbot =
+    .label = 挑選一套機器人
 
 ## Chatbot header
 
@@ -100,6 +113,7 @@ genai-options-about-chatbot =
 
 ## Chatbot footer
 
+genai-page-button-summarize = 摘要本頁
 
 ## Chatbot onboarding
 
@@ -135,6 +149,10 @@ genai-onboarding-select-primary = 開始聊天
 genai-chatbot-contextual-title = 不用切換分頁就能直接使用 AI 聊天機器人
 genai-chatbot-contextual-subtitle = 在 { -brand-short-name } 側邊欄新增 AI 聊天機器人，即可一邊上網，一邊與機器人聊天。
 genai-chatbot-contextual-button = 挑選一套機器人
+genai-chatbot-summarize-title = 新功能！點一下即可摘要頁面內容
+genai-chatbot-summarize-button = 摘要本頁
+# “Summarize Page” should be consistent with the translation for the string genai-menu-summarize-page
+genai-chatbot-summarize-sidebar-provider-subtitle = 在側邊欄對您的 AI 聊天機器人按右鍵，選擇「摘要本頁」。
 
 ## Chatbot onboarding choices
 ## These describe features/capabilities of chatbot providers. These are not buttons/actions.

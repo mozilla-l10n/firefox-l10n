@@ -137,6 +137,12 @@ sidebar-pins-callout-cta-button = 釘選分頁
 
 pin-tabs-callout-1-title = 讓重要分頁觸手可及
 pin-tabs-callout-1-subtitle = 將分頁拖曳到分頁列開頭，或按右鍵選擇「釘選分頁」即可釘選起來。
+pin-tabs-callout-cta-1-button = 釘選此分頁
+pin-tabs-callout-2-title = 釘選您最常造訪的分頁
+pin-tabs-callout-2-subtitle = 若要釘選任何分頁，將分頁拖曳到分頁列開頭，或按右鍵選擇「釘選分頁」即可釘選起來。
+pin-tabs-callout-cta-2-button = 釘選此分頁
+pin-tabs-callout-3-title = 讓重要網站觸手可及
+pin-tabs-callout-4-title = 釘選您最常造訪的網站
 
 ## Sidebar Onboarding Strings
 
