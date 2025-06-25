@@ -55,7 +55,7 @@ chooser-dialog =
     .buttonaccesskeyaccept = O
 chooser-dialog-description = { $scheme } 링크를 열 애플리케이션을 선택하세요.
 # Please keep the emphasis around the scheme (ie the `<strong>` HTML tags).
-chooser-dialog-remember = 항상 <strong>{ $scheme }</strong> 링크를 여는데 이 애플리케이션 사용
+chooser-dialog-remember = 항상 <strong>{ $scheme }</strong> 링크를 여는 데 이 애플리케이션 사용
 chooser-dialog-remember-extra =
     { PLATFORM() ->
         [windows] { -brand-short-name } 설정에서 바꿀 수 있습니다.

@@ -101,6 +101,10 @@ sidebar-context-menu-customize-sidebar =
 #   $deviceName (String) - The name of the device the user is closing a tab for
 sidebar-context-menu-close-remote-tab =
     .label = Lat att fana på { $deviceName }
+sidebar-context-menu-remove-extension2 =
+    .label = Fjern frå { -brand-short-name }
+sidebar-context-menu-unpin-extension =
+    .label = Fjern frå sidestolpe
 
 ## Labels for sidebar history context menu items
 

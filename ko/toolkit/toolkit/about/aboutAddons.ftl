@@ -108,7 +108,7 @@ disabled-unsigned-heading =
     .value = 몇몇 부가 기능이 비활성화 됨
 disabled-unsigned-description = 다음 부가 기능은 { -brand-short-name }에서의 사용이 확인되지 않았습니다. <label data-l10n-name="find-addons">대체제를 검색</label>하거나 개발자가 확인을 받도록 요청할 수 있습니다.
 disabled-unsigned-learn-more = 사용자가 온라인에서 안전할 수 있게 노력하는 내용에 대해서 더 알아보세요.
-disabled-unsigned-devinfo = 부가 기능을 확인하는데 관심이 있는 개발자는 <label data-l10n-name="learn-more">메뉴얼</label>을 읽어보세요.
+disabled-unsigned-devinfo = 부가 기능을 확인하는 데 관심이 있는 개발자는 <label data-l10n-name="learn-more">메뉴얼</label>을 읽어보세요.
 plugin-deprecation-description = 빠진게 있습니까? 어떤 플러그인은 { -brand-short-name }에서 더 이상 지원하지 않습니다. <label data-l10n-name="learn-more">더 알아보기.</label>
 legacy-warning-show-legacy = 레거시 확장 기능 보기
 legacy-extensions =
@@ -568,8 +568,8 @@ mlmodel-extension-label = { $extensionName } 확장 기능에서 사용됨
 mlmodel-about-inference = { -brand-short-name }가 about:inference에 이것을 사용함
 mlmodel-link-preview = { -brand-short-name }는 사용자가 링크를 미리 볼 때 요점을 생성하기 위해 이것을 사용함
 mlmodel-pdfjs = { -brand-short-name }는 사용자가 PDF에 추가하는 이미지에 대한 대체 텍스트를 생성하기 위해 이것을 사용함
-mlmodel-smart-tab-topic-engine = { -brand-short-name }는 탭 그룹의 이름을 제안하는데 이것을 사용함
-mlmodel-smart-tab-embedding-engine = { -brand-short-name }는 탭 그룹에 탭을 제안하는데 이것을 사용함
+mlmodel-smart-tab-topic-engine = { -brand-short-name }는 탭 그룹의 이름을 제안하는 데 이것을 사용함
+mlmodel-smart-tab-embedding-engine = { -brand-short-name }는 탭 그룹에 탭을 제안하는 데 이것을 사용함
 # AI Model will be downloaded on the users device and used locally
 addon-category-mlmodel = 온디바이스 AI
 addon-category-mlmodel-title =

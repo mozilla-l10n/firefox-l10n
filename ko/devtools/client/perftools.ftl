@@ -32,7 +32,7 @@ perftools-description-intro =
 perftools-description-local-build =
     직접 컴파일한 빌드를 프로파일링하는 경우
     이 컴퓨터에서 빌드의 objdir을 아래 목록에 추가하여 
-    기호 정보를 조회하는데 사용할 수 있습니다.
+    기호 정보를 조회하는 데 사용할 수 있습니다.
 
 ## The controls for the interval at which the profiler samples the code.
 
@@ -120,7 +120,7 @@ perftools-thread-jvm-pool =
 
 perftools-record-all-registered-threads = 위의 선택 사항을 무시하고 등록된 모든 스레드를 기록
 perftools-tools-threads-input-label =
-    .title = 이러한 스레드 이름은 프로파일러에서 스레드의 프로파일링을 활성화하는데 사용되는 쉼표로 구분된 목록입니다. 이름은 포함할 스레드 이름과 부분적으로 일치해야 합니다. 공백에 민감합니다.
+    .title = 이러한 스레드 이름은 프로파일러에서 스레드의 프로파일링을 활성화하는 데 사용되는 쉼표로 구분된 목록입니다. 이름은 포함할 스레드 이름과 부분적으로 일치해야 합니다. 공백에 민감합니다.
 
 ## Onboarding UI labels. These labels are displayed in the new performance panel UI, when
 ## devtools.performance.new-panel-onboarding preference is true.

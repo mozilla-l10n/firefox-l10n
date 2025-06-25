@@ -88,7 +88,7 @@ fp-certerror-unknown-issuer-what-can-you-do-body = 사이트 자체에 문제가
 fp-certerror-self-signed-why-dangerous-body = 사이트의 인증서에 문제가 있기 때문입니다. 사이트는 인증 기관에서 발급한 인증서를 사용하여 신원을 증명합니다. 이 사이트의 인증서는 자체 서명되어 있습니다. 인정된 인증 기관에서 발급한 것이 아닙니다. 그래서 저희는 이를 기본적으로 신뢰하지 않습니다.
 # This string appears after the following string: "What can you do about it?" (fp-certerror-what-can-you-do)
 fp-certerror-self-signed-what-can-you-do-body = 많지 않습니다. 사이트 자체에 문제가 있을 수 있습니다.
-fp-certerror-self-signed-important-note = 중요 사항: 만약 여러분이 회사 인트라넷에서 이 사이트에 접속하려고 한다면, 여러분의 IT 직원이 자체 서명된 인증서를 사용할 수 있습니다. 그들은 사용자가 그들의 진위를 확인하는데 도움을 줄 수 있습니다.
+fp-certerror-self-signed-important-note = 중요 사항: 만약 여러분이 회사 인트라넷에서 이 사이트에 접속하려고 한다면, 여러분의 IT 직원이 자체 서명된 인증서를 사용할 수 있습니다. 그들은 사용자가 그들의 진위를 확인하는 데 도움을 줄 수 있습니다.
 # This string appears after the following string: "What makes the site look dangerous?" (fp-certerror-why-site-dangerous)
 # Variables:
 #   $date (Date) - Certificate expiration date.
@@ -137,7 +137,7 @@ connectionFailure-title = 연결할 수 없음
 deniedPortAccess-title = 이 주소는 제한되어 있음
 # "Hmm" is a sound made when considering or puzzling over something.
 # You don't have to include it in your translation if your language does not have a written word like this.
-dnsNotFound-title = 해당 사이트를 찾는데 문제가 발생했습니다.
+dnsNotFound-title = 해당 사이트를 찾는 데 문제가 발생했습니다.
 internet-connection-offline-title = 인터넷 연결에 문제가 있는 것 같습니다.
 dns-not-found-trr-only-title2 = 이 도메인을 찾는 가능한 보안 위험
 dns-not-found-native-fallback-title2 = 이 도메인을 찾는 가능한 보안 위험

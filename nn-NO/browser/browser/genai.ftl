@@ -51,11 +51,19 @@ genai-menu-ask-generic =
 # $provider (string) - name of the provider
 genai-menu-ask-provider =
     .label = Spør { $provider }
+genai-menu-open-generic =
+    .label = Opne AI Chatbot
+# $provider (string) - name of the provider
+genai-menu-open-provider =
+    .label = Opne { $provider }
 genai-menu-remove-generic =
     .label = Fjern AI chatbot
 # $provider (string) - name of the provider
 genai-menu-remove-provider =
     .label = Fjern { $provider }
+genai-menu-remove-sidebar =
+    .label = Fjern frå sidestolpe
+genai-menu-new-badge = Ny
 genai-input-ask-generic =
     .placeholder = Spør AI chatbot…
 # $provider (string) - name of the provider
@@ -77,6 +85,10 @@ genai-shortcuts-selected-warning =
         }
 genai-shortcuts-hide =
     .label = Skjul samtalerobot-snarveg
+genai-menu-no-provider =
+    .label = Spør ein AI Chatbot
+genai-menu-choose-chatbot =
+    .label = Vel ein AI Chatbot
 
 ## Chatbot header
 
