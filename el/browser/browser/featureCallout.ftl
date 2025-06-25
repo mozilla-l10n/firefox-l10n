@@ -108,6 +108,7 @@ perplexity-callout-secondary-label-2 = Το κατάλαβα
 
 # Suggestion to backup passwords by signing up for Mozilla account and using sync
 fxa-adoption-passwords-title = Ο κωδικός πρόσβασης αποθηκεύτηκε. Ας δημιουργήσουμε ένα αντίγραφο ασφαλείας.
+fxa-adoption-passwords-subtitle = Προστατέψτε τους κωδικούς πρόσβασής σας συγχρονίζοντάς τους με κρυπτογράφηση στις συσκευές σας.
 # Opens Mozilla accounts sign-up page
 fxa-adoption-passwords-primary-button-label = Εγγραφή
 

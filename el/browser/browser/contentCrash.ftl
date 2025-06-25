@@ -33,6 +33,13 @@ pending-crash-reports-always-send =
     .label = Πάντα αποστολή
 # Variables:
 #   $reportCount (Number): the number of pending crash reports
+requested-crash-reports-message-new =
+    { $reportCount ->
+        [one] Έχετε μια μη απεσταλμένη αναφορά κατάρρευσης που σχετίζεται με καταρρεύσεις που διερευνώνται· η αποστολή της θα μας βοηθήσει να βελτιώσουμε το { -brand-product-name }. Η αναφορά θα αγνοηθεί εάν κλείσετε αυτήν την ειδοποίηση.
+       *[other] Έχετε { $reportCount } μη απεσταλμένες αναφορές κατάρρευσης που σχετίζονται με καταρρεύσεις που διερευνώνται· η αποστολή τους θα μας βοηθήσει να βελτιώσουμε το { -brand-product-name }. Οι αναφορές θα αγνοηθούν εάν κλείσετε αυτήν την ειδοποίηση.
+    }
+# Variables:
+#   $reportCount (Number): the number of pending crash reports
 requested-crash-reports-message =
     { $reportCount ->
         [one] Έχετε μια μη αποσταλμένη αναφορά κατάρρευσης που αντιστοιχεί στις υπό διερεύνηση καταρρεύσεις· η αποστολή της θα μας βοηθήσει να βελτιώσουμε το { -brand-product-name }. Η αναφορά θα αγνοηθεί αν κλείσετε αυτήν την ειδοποίηση.

@@ -159,6 +159,8 @@ genai-chatbot-summarize-title = Νέο! Σύνοψη σελίδων με ένα 
 genai-chatbot-summarize-button = Σύνοψη σελίδας
 # “Summarize Page” should be consistent with the translation for the string genai-menu-summarize-page
 genai-chatbot-summarize-sidebar-provider-subtitle = Κάντε δεξί κλικ στο chatbot ΤΝ σας στην πλαϊνή γραμμή και επιλέξτε «Σύνοψη σελίδας».
+# “Summarize Page” should be consistent with the translation for the string genai-menu-summarize-page
+genai-chatbot-summarize-sidebar-generic-subtitle = Κάντε δεξί κλικ στο κουμπί σπιθών στην πλαϊνή γραμμή και επιλέξτε «Σύνοψη σελίδας». Την πρώτη φορά, θα επιλέξετε επίσης ένα chatbot τεχνητής νοημοσύνης.
 # “Summarize page” should be consistent with the translation for the string genai-page-button-summarize
 genai-chatbot-summarize-footer-provider-subtitle = Ανοίξτε το chatbot ΤΝ σας στην πλαϊνή γραμμή και επιλέξτε «Σύνοψη σελίδας» στο κάτω μέρος.
 genai-chatbot-summarize-footer-generic-subtitle = Προσθέστε ένα chatbot ΤΝ στην πλαϊνή γραμμή του { -brand-short-name } για γρήγορη σύνοψη σελίδων.
