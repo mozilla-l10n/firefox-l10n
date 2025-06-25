@@ -33,6 +33,13 @@ pending-crash-reports-always-send =
     .label = Her zaman gönder
 # Variables:
 #   $reportCount (Number): the number of pending crash reports
+requested-crash-reports-message-new =
+    { $reportCount ->
+        [one] Araştırdığımız çökmelerle ilgili gönderilmemiş bir çökme raporunuz var. Raporunuzu göndererek { -brand-product-name } tarayıcısını geliştirmemize yardımcı olabilirsiniz. Bu bildirimi kapatırsanız bu rapor görmezden gelinecektir.
+       *[other] Araştırdığımız çökmelerle ilgili { $reportCount } gönderilmemiş çökme raporunuz var. Raporlarınızı göndererek { -brand-product-name } tarayıcısını geliştirmemize yardımcı olabilirsiniz. Bu bildirimi kapatırsanız raporlar görmezden gelinecektir.
+    }
+# Variables:
+#   $reportCount (Number): the number of pending crash reports
 requested-crash-reports-message =
     { $reportCount ->
         [one] Araştırdığımız çökmelerle eşleşen gönderilmemiş bir çökme raporunuz var. Raporunuzu göndererek { -brand-product-name } tarayıcısını geliştirmemize yardımcı olabilirsiniz. Bu bildirimi kapatırsanız bu rapor görmezden gelinecektir.

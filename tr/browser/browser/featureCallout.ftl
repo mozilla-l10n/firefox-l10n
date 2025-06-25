@@ -135,6 +135,12 @@ sidebar-pins-callout-cta-button = Sekmeyi sabitle
 
 ## Pinning Tabs Strings
 
+pin-tabs-callout-1-title = Önemli sekmeleri elinizin altında tutun
+pin-tabs-callout-cta-1-button = Bu sekmeyi sabitle
+pin-tabs-callout-2-title = En çok ziyaret ettiğiniz sekmeleri sabitleyin
+pin-tabs-callout-cta-2-button = Bu sekmeyi sabitle
+pin-tabs-callout-3-title = Önemli siteleri elinizin altında tutun
+pin-tabs-callout-4-title = En çok ziyaret ettiğiniz siteleri sabitleyin
 
 ## Sidebar Onboarding Strings
 
