@@ -35,6 +35,15 @@ pending-crash-reports-always-send =
     .label = Přeco pósłać
 # Variables:
 #   $reportCount (Number): the number of pending crash reports
+requested-crash-reports-message-new =
+    { $reportCount ->
+        [one] Sće { $reportCount } njepósłanu rozprawu spada, kotraž so na spady poćahuje, kotrež so přepytuja, hdyž ju sćeleće, pomhaće nam { -brand-product-name } polěpšić. Hdyž tutu zdźělenku začinjeće, so tuta rozprawa ignoruje.
+        [two] Sće { $reportCount } njepósłanej rozprawje spadow, kotrejž so na spady poćahujetej, kotrež so přepytuja, hdyž ju sćeleće, pomhaće nam { -brand-product-name } polěpšić. Hdyž tutu zdźělenku začinjeće, so tuta rozprawa ignoruje.
+        [few] Sće { $reportCount } njepósłane rozprawy spadow, kotrež so na spady poćahuja, kotrež so přepytuja, hdyž ju sćeleće, pomhaće nam { -brand-product-name } polěpšić. Hdyž tutu zdźělenku začinjeće, so tuta rozprawa ignoruje.
+       *[other] Sće { $reportCount } njepósłanych rozprawow spadow, kotrež so na spady poćahujo, kotrež so přepytuja, hdyž ju sćeleće, pomhaće nam { -brand-product-name } polěpšić. Hdyž tutu zdźělenku začinjeće, so tuta rozprawa ignoruje.
+    }
+# Variables:
+#   $reportCount (Number): the number of pending crash reports
 requested-crash-reports-message =
     { $reportCount ->
         [one] Maće { $reportCount } njepósłanu spadowu rozprawu, kotraž spadam wotpowěduje, kotrež so wuslědźuja. Hdyž ju sćeleće, pomhaće nam, { -brand-product-name } polěpšić. Hdyž tutu zdźělenku začinjeće, so tuta rozprawa ignoruje.

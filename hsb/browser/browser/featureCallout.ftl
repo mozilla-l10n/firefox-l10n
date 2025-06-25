@@ -108,6 +108,7 @@ perplexity-callout-secondary-label-2 = Sym zrozumił
 
 # Suggestion to backup passwords by signing up for Mozilla account and using sync
 fxa-adoption-passwords-title = Hesło je so składowało. Zawěsćmy jo.
+fxa-adoption-passwords-subtitle = Synchronizujće swoje hesła ze swojimi gratami ze zaklučowanjom, zo byšće swoje hesła škitał.
 # Opens Mozilla accounts sign-up page
 fxa-adoption-passwords-primary-button-label = Registrować
 
