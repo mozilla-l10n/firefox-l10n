@@ -51,11 +51,20 @@ genai-menu-ask-generic =
 # $provider (string) - name of the provider
 genai-menu-ask-provider =
     .label = { $provider } so prašeć
+genai-menu-open-generic =
+    .label = KI chatbot wočinić
+# $provider (string) - name of the provider
+genai-menu-open-provider =
+    .label = { $provider } wočinić
 genai-menu-remove-generic =
     .label = Chatbot KI wotstronić
 # $provider (string) - name of the provider
 genai-menu-remove-provider =
     .label = { $provider } wotstronić
+genai-menu-remove-sidebar =
+    .label = Z bóčnicy wotstronić
+genai-menu-new-badge = Nowy
+genai-menu-summarize-page = Stronu zjimać
 genai-input-ask-generic =
     .placeholder = Prašejće so AI chatbot
 # $provider (string) - name of the provider
@@ -86,6 +95,10 @@ genai-shortcuts-selected-warning =
         }
 genai-shortcuts-hide =
     .label = Tastowu skrótšenku chatoweho bota schować
+genai-menu-no-provider =
+    .label = KI chatbot so prašeć
+genai-menu-choose-chatbot =
+    .label = Wubjerće chatbot KI
 
 ## Chatbot header
 
@@ -112,6 +125,7 @@ genai-options-about-chatbot =
 
 ## Chatbot footer
 
+genai-page-button-summarize = Stronu zjimać
 
 ## Chatbot onboarding
 
@@ -147,6 +161,8 @@ genai-onboarding-select-primary = Chattować započeć
 genai-chatbot-contextual-title = Wužiwajće chatbot KI, bjeztoho zo byšće rajtarki přepinał
 genai-chatbot-contextual-subtitle = Chattujće a přehladujće bok po boku, hdyž chatbox KI w bócnicy { -brand-short-name } přidawaće.
 genai-chatbot-contextual-button = Wubjerće chatbot
+genai-chatbot-summarize-title = Nowy! Zjimajće strony z jednym klikom
+genai-chatbot-summarize-button = Stronu zjimać
 
 ## Chatbot onboarding choices
 ## These describe features/capabilities of chatbot providers. These are not buttons/actions.

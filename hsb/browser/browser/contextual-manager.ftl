@@ -279,6 +279,28 @@ contextual-manager-view-alert-heading =
     .heading = Warnowanje pokazać
 contextual-manager-view-alert-button =
     .tooltiptext = Warnowanje přepruwować
+# Variables
+#   $count (number) - The number of active alerts associated with the login
+contextual-manager-view-alert-heading-2 =
+    .heading =
+        { $count ->
+            [1] Warnowanje pokazać
+            [one] { $count } warnowanje pokazać
+            [two] { $count } warnowani pokazać
+            [few] { $count } warnowanja pokazać
+           *[other] { $count } warnowanjow pokazać
+        }
+# Variables
+#   $count (number) - The number of active alerts associated with the login
+contextual-manager-view-alert-button-2 =
+    .tooltiptext =
+        { $count ->
+            [1] Warnowanje přepruwować
+            [one] { $count } warnowanje přepruwować
+            [two] { $count } warnowani přepruwować
+            [few] { $count } warnowanja přepruwować
+           *[other] { $count } warnowanjow přepruwować
+        }
 contextual-manager-show-password-button =
     .aria-label = Hesło pokazać
     .title = Hesło pokazać

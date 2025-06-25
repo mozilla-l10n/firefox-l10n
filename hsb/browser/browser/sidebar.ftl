@@ -68,6 +68,7 @@ sidebar-show-on-the-left =
 # hovers over it.
 expand-sidebar-on-hover =
     .label = Bóčnicu pod kursorom pokazać
+sidebar-manage-extensions = Rozšěrjenja rjadować
 
 ## Labels for sidebar context menu items
 
@@ -101,6 +102,10 @@ sidebar-context-menu-customize-sidebar =
 #   $deviceName (String) - The name of the device the user is closing a tab for
 sidebar-context-menu-close-remote-tab =
     .label = Rajtark na { $deviceName } začinić
+sidebar-context-menu-remove-extension2 =
+    .label = Z { -brand-short-name } wotstronić
+sidebar-context-menu-unpin-extension =
+    .label = Z bóčnicy wotstronić
 
 ## Labels for sidebar history context menu items
 
