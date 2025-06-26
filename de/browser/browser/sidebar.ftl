@@ -68,6 +68,7 @@ sidebar-show-on-the-left =
 # hovers over it.
 expand-sidebar-on-hover =
     .label = Sidebar ausklappen, wenn der Mauszeiger darauf liegt
+sidebar-manage-extensions = Erweiterungen verwalten
 
 ## Labels for sidebar context menu items
 
@@ -101,6 +102,10 @@ sidebar-context-menu-customize-sidebar =
 #   $deviceName (String) - The name of the device the user is closing a tab for
 sidebar-context-menu-close-remote-tab =
     .label = Tab auf { $deviceName } schließen
+sidebar-context-menu-remove-extension2 =
+    .label = Aus { -brand-short-name } entfernen
+sidebar-context-menu-unpin-extension =
+    .label = Aus Sidebar entfernen
 
 ## Labels for sidebar history context menu items
 
