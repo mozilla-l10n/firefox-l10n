@@ -21,6 +21,11 @@ sidebar-history-date-this-month =
     .heading = { DATETIME($date, dateStyle: "full") }
 sidebar-history-date-prev-month =
     .heading = { DATETIME($date, month: "long", year: "numeric") }
+# When history is sorted by site, this heading is used in place of a domain, in
+# order to group sites that do not come from an outside host.
+# For example, this would be the heading for all file:/// URLs in history.
+sidebar-history-site-localhost =
+    .heading = (ไฟล์ในเครื่อง)
 sidebar-history-delete =
     .title = ลบออกจากประวัติ
 sidebar-history-clear =
@@ -63,6 +68,7 @@ sidebar-show-on-the-left =
 # hovers over it.
 expand-sidebar-on-hover =
     .label = ขยายแถบข้างเมื่อเลื่อนเมาส์ไปวางแช่
+sidebar-manage-extensions = จัดการส่วนขยาย
 
 ## Labels for sidebar context menu items
 
@@ -96,6 +102,10 @@ sidebar-context-menu-customize-sidebar =
 #   $deviceName (String) - The name of the device the user is closing a tab for
 sidebar-context-menu-close-remote-tab =
     .label = ปิดแท็บบน { $deviceName }
+sidebar-context-menu-remove-extension2 =
+    .label = เอาออกจาก { -brand-short-name }
+sidebar-context-menu-unpin-extension =
+    .label = เอาออกจากแถบข้าง
 
 ## Labels for sidebar history context menu items
 
@@ -103,6 +113,8 @@ sidebar-history-context-menu-delete-page-2 =
     .label = ลบหน้าจากประวัติ
 sidebar-history-context-menu-bookmark-page =
     .label = เพิ่มที่คั่นหน้าสำหรับหน้า…
+sidebar-history-context-menu-delete-pages =
+    .label = ลบหน้าออกจากประวัติ
 
 ## Labels for sidebar menu items.
 
@@ -118,6 +130,8 @@ sidebar-menu-customize-label =
     .label = ปรับแต่งแถบข้าง
 sidebar-menu-contextual-password-manager-label =
     .label = รหัสผ่าน
+sidebar-menu-more-tools-label =
+    .label = เครื่องมือเพิ่มเติม
 
 ## Tooltips for sidebar menu items.
 
