@@ -130,6 +130,12 @@ sidebar-pins-callout-cta-button = Pripni zavihek
 
 ## Pinning Tabs Strings
 
+pin-tabs-callout-1-title = Imejte pomembne zavihke na dosegu roke
+pin-tabs-callout-cta-1-button = Pripni ta zavihek
+pin-tabs-callout-2-title = Pripnite zavihke, ki jih največ obiskujete
+pin-tabs-callout-cta-2-button = Pripni ta zavihek
+pin-tabs-callout-3-title = Imejte pomembne strani na dosegu roke
+pin-tabs-callout-4-title = Pripnite strani, ki jih največ obiskujete
 
 ## Sidebar Onboarding Strings
 

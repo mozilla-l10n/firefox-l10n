@@ -211,6 +211,7 @@ contextual-manager-passwords-no-username-heading-and-message =
     .heading = Dodaj uporabniško ime
     .message = Dodajte za hitrejšo prijavo.
 contextual-manager-passwords-add-username-button = Dodaj uporabniško ime
+contextual-manager-passwords-title = Gesla
 
 ## Login Form
 
@@ -273,6 +274,16 @@ contextual-manager-view-alert-heading =
     .heading = Prikaži opozorilo
 contextual-manager-view-alert-button =
     .tooltiptext = Preglej opozorilo
+# Variables
+#   $count (number) - The number of active alerts associated with the login
+contextual-manager-view-alert-button-2 =
+    .tooltiptext =
+        { $count ->
+            [one] Preglej opozorilo
+            [two] Preglej opozorili
+            [few] Preglej opozorila
+           *[other] Preglej opozorila
+        }
 contextual-manager-show-password-button =
     .aria-label = Prikaži geslo
     .title = Prikaži geslo

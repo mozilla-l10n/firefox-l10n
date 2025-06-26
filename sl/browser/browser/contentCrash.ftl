@@ -35,6 +35,15 @@ pending-crash-reports-always-send =
     .label = Vedno pošlji
 # Variables:
 #   $reportCount (Number): the number of pending crash reports
+requested-crash-reports-message-new =
+    { $reportCount ->
+        [one] Imate { $reportCount } neposlano poročilo o sesutju, kakršna razvijalci pravkar preiskujejo. Če nam ga boste poslali, nam bo pomagalo izboljšati { -brand-product-name(sklon: "tozilnik") }. Če zaprete to obvestilo, bo to poročilo prezrto.
+        [two] Imate { $reportCount } neposlani poročili o sesutjih, kakršna razvijalci pravkar preiskujejo. Če nam ju boste poslali, nam bosta pomagali izboljšati { -brand-product-name(sklon: "tozilnik") }. Če zaprete to obvestilo, bosta ti poročili prezrti.
+        [few] Imate { $reportCount } neposlana poročila o sesutjih, kakršna razvijalci pravkar preiskujejo. Če nam jih boste poslali, nam bodo pomagala izboljšati { -brand-product-name(sklon: "tozilnik") }. Če zaprete to obvestilo, bodo ta poročila prezrta.
+       *[other] Imate { $reportCount } neposlanih poročil o sesutjih, kakršna razvijalci pravkar preiskujejo. Če nam jih boste poslali, nam bodo pomagala izboljšati { -brand-product-name(sklon: "tozilnik") }. Če zaprete to obvestilo, bodo ta poročila prezrta.
+    }
+# Variables:
+#   $reportCount (Number): the number of pending crash reports
 requested-crash-reports-message =
     { $reportCount ->
         [one] Imate neposlano poročilo o sesutju, kakršna razvijalci pravkar preiskujejo. Če nam ga boste poslali, nam bo pomagalo izboljšati { -brand-product-name(sklon: "tozilnik") }. Če zaprete to obvestilo, bo to poročilo prezrto.

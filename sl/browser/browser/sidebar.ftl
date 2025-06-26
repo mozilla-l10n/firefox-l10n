@@ -68,6 +68,7 @@ sidebar-show-on-the-left =
 # hovers over it.
 expand-sidebar-on-hover =
     .label = Razširi stransko vrstico ob preletu z miško
+sidebar-manage-extensions = Upravljanje razširitev
 
 ## Labels for sidebar context menu items
 
@@ -101,6 +102,10 @@ sidebar-context-menu-customize-sidebar =
 #   $deviceName (String) - The name of the device the user is closing a tab for
 sidebar-context-menu-close-remote-tab =
     .label = Zapri zavihek na napravi { $deviceName }
+sidebar-context-menu-remove-extension2 =
+    .label = Odstrani iz { -brand-short-name(sklon: "rodilnik") }
+sidebar-context-menu-unpin-extension =
+    .label = Odstrani iz stranske vrstice
 
 ## Labels for sidebar history context menu items
 
