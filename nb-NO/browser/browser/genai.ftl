@@ -47,7 +47,7 @@ genai-prompt-prefix-selection = Jeg er på siden «{ $tabTitle }» med «{ $sele
 ## Chatbot menu shortcuts
 
 genai-menu-ask-generic =
-    .label = Spør AI chatbot
+    .label = Spør AI-chatbot
 # $provider (string) - name of the provider
 genai-menu-ask-provider =
     .label = Spør { $provider }
@@ -104,7 +104,7 @@ genai-header-options-button =
 genai-header-close-button =
     .title = Lukk
 genai-provider-view-details =
-    .label = Vis samtalerobot-detaljer
+    .label = Vis chatbot-detaljer
 genai-options-reload-generic =
     .label = Last inn AI-chatboten på nytt
 # $provider (string) - name of the provider
@@ -150,7 +150,7 @@ genai-onboarding-lechat-tooltip =
     .title = Le Chat Mistral
 genai-onboarding-lechat-learn = Les mer om Le Chat
 genai-onboarding-select-header = Marker tekst for å se forslag
-genai-onboarding-select-description = Når du velger tekst, foreslår vi spørsmål du kan sende til chatboten. Du kan også skrive inn dine egne spørsmål.
+genai-onboarding-select-description = Når du velger tekst, foreslår vi instrukser du kan sende til chatboten. Du kan også skrive inn dine egne instrukser.
 genai-onboarding-select-primary = Begynn å chatte
 genai-chatbot-contextual-title = Bruk en AI-chatbot uten å bytte faner
 genai-chatbot-contextual-subtitle = Chat og surf side om side når du legger til en AI-chatbot i { -brand-short-name }-sidestolpen.
