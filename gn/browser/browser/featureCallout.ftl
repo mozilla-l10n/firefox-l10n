@@ -108,6 +108,7 @@ perplexity-callout-secondary-label-2 = Aikũmby
 
 # Suggestion to backup passwords by signing up for Mozilla account and using sync
 fxa-adoption-passwords-title = Ñe’ẽñemi ñongatupyre. Ñañogatu jey ambue hendápe.
+fxa-adoption-passwords-subtitle = Emo’ã ne ñe’ẽñeminguéra embojuehévo umi ne mba’e’oka ipapapýva ndive.
 # Opens Mozilla accounts sign-up page
 fxa-adoption-passwords-primary-button-label = Eñemboheraguapy
 
@@ -134,7 +135,12 @@ sidebar-pins-callout-cta-button = Emboja tendayke
 
 ## Pinning Tabs Strings
 
+pin-tabs-callout-1-title = Ereko umi tendayke nde ykete rehe
 pin-tabs-callout-cta-1-button = Emboja ko tendayke
+pin-tabs-callout-2-title = Emboja tendayke ojeikevehague
+pin-tabs-callout-cta-2-button = Emboja ko tendayke
+pin-tabs-callout-3-title = Ereko umi tenda nde ykete rehe
+pin-tabs-callout-4-title = Emboja umi tenda ojeikevehague
 
 ## Sidebar Onboarding Strings
 

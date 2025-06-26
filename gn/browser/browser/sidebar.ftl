@@ -68,6 +68,7 @@ sidebar-show-on-the-left =
 # hovers over it.
 expand-sidebar-on-hover =
     .label = Emyasãi tenda yke embohasávo anguja’i
+sidebar-manage-extensions = Eñangareko jepysokuére
 
 ## Labels for sidebar context menu items
 

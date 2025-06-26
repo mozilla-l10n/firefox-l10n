@@ -56,6 +56,8 @@ genai-menu-remove-generic =
 # $provider (string) - name of the provider
 genai-menu-remove-provider =
     .label = Emgoguete { $provider }
+genai-menu-new-badge = Pyahu
+genai-menu-summarize-page = Emombyky kuatiarogue
 genai-input-ask-generic =
     .placeholder = Eporandu chatbot-pe IA rehegua…
 # $provider (string) - name of the provider
@@ -81,6 +83,10 @@ genai-shortcuts-selected-warning =
         }
 genai-shortcuts-hide =
     .label = Eñomi jeike pya’eha chatbot-pe
+genai-menu-no-provider =
+    .label = Eporandu chatbot IA reheguápe
+genai-menu-choose-chatbot =
+    .label = Eiporavo IA Chatbot
 
 ## Chatbot header
 
@@ -107,6 +113,7 @@ genai-options-about-chatbot =
 
 ## Chatbot footer
 
+genai-page-button-summarize = Emombyky kuatiarogue
 
 ## Chatbot onboarding
 
@@ -142,6 +149,8 @@ genai-onboarding-select-primary = Eñepyrũ echatea
 genai-chatbot-contextual-title = Eiporu chatbot IA emoambue’ỹre tendayke
 genai-chatbot-contextual-subtitle = Echatea ha eikundaha embojuajukuévo peteĩ chatbot IA { -brand-short-name } tenda yképe.
 genai-chatbot-contextual-button = Eiporavo chatbot
+genai-chatbot-summarize-title = ¡Pyahu! Emombyky kuatiarogue peteĩ jekutúpe
+genai-chatbot-summarize-button = Emombyky kuatiarogue
 
 ## Chatbot onboarding choices
 ## These describe features/capabilities of chatbot providers. These are not buttons/actions.
