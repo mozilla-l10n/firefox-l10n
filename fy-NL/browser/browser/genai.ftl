@@ -155,6 +155,15 @@ genai-onboarding-select-primary = Begjinne mei chatte
 genai-chatbot-contextual-title = Brûk in AI-chatbot sûnder fan ljepblêd te wikseljen
 genai-chatbot-contextual-subtitle = Chat en sneup njonken inoar as jo in AI-chatbot tafoegje yn de sydbalke fan { -brand-short-name }.
 genai-chatbot-contextual-button = Kies in chatbot
+genai-chatbot-summarize-title = Nij! Siden yn ien klik gearfetsje
+genai-chatbot-summarize-button = Side gearfetsje
+# “Summarize Page” should be consistent with the translation for the string genai-menu-summarize-page
+genai-chatbot-summarize-sidebar-provider-subtitle = Klik mei de rjochtermûsknop op jo AI-chatbot yn de sydbalke en kies ‘Side gearfetsje’.
+# “Summarize Page” should be consistent with the translation for the string genai-menu-summarize-page
+genai-chatbot-summarize-sidebar-generic-subtitle = Klik mei de rjochtermûsknop op de glitterknop yn de sydbalke en kies ‘Side gearfetsje’. De earste kear kieze jo ek in AI-chatbot.
+# “Summarize page” should be consistent with the translation for the string genai-page-button-summarize
+genai-chatbot-summarize-footer-provider-subtitle = Iepenje jo AI-chatbot yn de sydbalke en kies ûnderoan ‘Side gearfetsje’.
+genai-chatbot-summarize-footer-generic-subtitle = Foegje in AI-chatbot ta oan de  { -brand-short-name }-sydbalke om fluch siden gear te fetsjen.
 
 ## Chatbot onboarding choices
 ## These describe features/capabilities of chatbot providers. These are not buttons/actions.
