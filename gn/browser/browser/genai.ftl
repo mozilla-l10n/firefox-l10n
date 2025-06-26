@@ -51,11 +51,18 @@ genai-menu-ask-generic =
 # $provider (string) - name of the provider
 genai-menu-ask-provider =
     .label = Eporandu { $provider }-pe
+genai-menu-open-generic =
+    .label = Embojuruja IA chatbot
+# $provider (string) - name of the provider
+genai-menu-open-provider =
+    .label = Embojuruja { $provider }
 genai-menu-remove-generic =
     .label = Emboty IA chatbot
 # $provider (string) - name of the provider
 genai-menu-remove-provider =
     .label = Emgoguete { $provider }
+genai-menu-remove-sidebar =
+    .label = Embogue tenda ykegua
 genai-menu-new-badge = Pyahu
 genai-menu-summarize-page = Emombyky kuatiarogue
 genai-input-ask-generic =
@@ -151,6 +158,8 @@ genai-chatbot-contextual-subtitle = Echatea ha eikundaha embojuajukuévo peteĩ 
 genai-chatbot-contextual-button = Eiporavo chatbot
 genai-chatbot-summarize-title = ¡Pyahu! Emombyky kuatiarogue peteĩ jekutúpe
 genai-chatbot-summarize-button = Emombyky kuatiarogue
+# “Summarize Page” should be consistent with the translation for the string genai-menu-summarize-page
+genai-chatbot-summarize-sidebar-provider-subtitle = Eikutu IA chatbot IA tenda ykegua ha eiporavo “Kuatiarogue mombyky”.
 
 ## Chatbot onboarding choices
 ## These describe features/capabilities of chatbot providers. These are not buttons/actions.

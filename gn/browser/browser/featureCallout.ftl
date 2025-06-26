@@ -139,6 +139,7 @@ pin-tabs-callout-1-title = Ereko umi tendayke nde ykete rehe
 pin-tabs-callout-1-subtitle = Emomýi tendayke oñepyrũhápe tendayke rupa emboja hag̃ua. Térã eikutu akatúa gotyo ha eiporavo Tendayke mboja.
 pin-tabs-callout-cta-1-button = Emboja ko tendayke
 pin-tabs-callout-2-title = Emboja tendayke ojeikevehague
+pin-tabs-callout-2-subtitle = Ombojuaju hag̃ua tendayke, emomýi oñepyrũhápe tendayle rupa. Térã eikutu akatúa gotyo ha eiporavo Tendayke mbojuaju.
 pin-tabs-callout-cta-2-button = Emboja ko tendayke
 pin-tabs-callout-3-title = Ereko umi tenda nde ykete rehe
 pin-tabs-callout-4-title = Emboja umi tenda ojeikevehague

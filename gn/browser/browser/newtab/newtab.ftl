@@ -503,6 +503,8 @@ newtab-topic-selection-button-pick-interests = Eiporavo eipotáva
 newtab-section-follow-button = Tapykueho
 newtab-section-following-button = Ahapykueho
 newtab-section-unfollow-button = Ndahapykuehovéima
+# A modal may appear next to the Follow button, directing users to try out the feature
+newtab-section-follow-highlight-title = Eiporuporã nde feed
 
 ## Button to block/unblock listed topics
 ## "Block", "unblocked", and "blocked" are social media terms that refer to hiding a section of stories.
