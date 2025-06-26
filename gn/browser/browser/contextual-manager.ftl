@@ -267,6 +267,24 @@ contextual-manager-view-alert-heading =
     .heading = Ehecha kyhyjerã
 contextual-manager-view-alert-button =
     .tooltiptext = Ehechajey kyhyjerã
+# Variables
+#   $count (number) - The number of active alerts associated with the login
+contextual-manager-view-alert-heading-2 =
+    .heading =
+        { $count ->
+            [1] Ehecha kyhyjerã
+            [one] Ehecha kyhyjerã
+           *[other] Ehecha kyhyjerãkuéra
+        }
+# Variables
+#   $count (number) - The number of active alerts associated with the login
+contextual-manager-view-alert-button-2 =
+    .tooltiptext =
+        { $count ->
+            [1] Ehecha jey kyhyjerã
+            [one] Ehecha jey kyhyjerã
+           *[other] Ehecha jey kyhyjerãkuéra
+        }
 contextual-manager-show-password-button =
     .aria-label = Ehechauka Ñe’ẽñemi
     .title = Ehechauka Ñe’ẽñemi
