@@ -210,6 +210,7 @@ contextual-manager-passwords-no-username-heading-and-message =
     .heading = Добавьте имя пользователя
     .message = Укажите его, чтобы входить быстрее.
 contextual-manager-passwords-add-username-button = Добавить имя пользователя
+contextual-manager-passwords-title = Пароли
 
 ## Login Form
 

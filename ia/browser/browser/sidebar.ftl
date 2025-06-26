@@ -114,7 +114,7 @@ sidebar-history-context-menu-delete-page-2 =
 sidebar-history-context-menu-bookmark-page =
     .label = Adder pagina al marcapaginas…
 sidebar-history-context-menu-delete-pages =
-    .label = Deler paginas ab chronologia
+    .label = Deler paginas del chronologia
 
 ## Labels for sidebar menu items.
 
