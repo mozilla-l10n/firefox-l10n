@@ -62,7 +62,7 @@ toolbar-context-menu-always-open-downloads-panel =
     .accesskey = M
 # Label of checkbox menu item to toggle visibility of Extensions Button.
 toolbar-context-menu-always-show-extensions-button =
-    .label = Sempre monstrar barras de utensiles
+    .label = Sempre monstrar in le barra de utensiles
     .accesskey = S
 toolbar-context-menu-remove-from-toolbar =
     .label = Remover del barra de instrumentos

@@ -7,4 +7,4 @@ browser-utils-url-data = (podaci)
 # Used for extension URLs
 # Variables:
 #   $extension (string) - Name of the extension that generated the URL
-browser-utils-url-extension = Ekstenzija ({ $ekstenzija })
+browser-utils-url-extension = Ekstenzija ({ $extension })

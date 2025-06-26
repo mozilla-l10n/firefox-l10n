@@ -135,7 +135,7 @@ tab-context-send-tabs-to-device =
 tab-context-unload-n-tabs =
     .label =
         { $tabCount ->
-            [1] Discargar { $tabCount } Schedas
-           *[other] Unload { $tabCount } Tabs
+            [1] Liberar scheda del memoria
+           *[other] Liberar { $tabCount } schedas del memoria
         }
-    .accesskey = D
+    .accesskey = L
