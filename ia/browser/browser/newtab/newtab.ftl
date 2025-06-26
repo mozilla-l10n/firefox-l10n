@@ -501,8 +501,8 @@ newtab-section-follow-button = Sequer
 newtab-section-following-button = Sequente
 newtab-section-unfollow-button = Non plus sequer
 # A modal may appear next to the Follow button, directing users to try out the feature
-newtab-section-follow-highlight-title = Accorda finmente tu fluxo
-newtab-section-follow-highlight-subtitle = Seque tu interesses pro vider plus de cosa te place.
+newtab-section-follow-highlight-title = Perfectiona tu fluxo
+newtab-section-follow-highlight-subtitle = Seque tu interesses pro vider plus de lo que te place.
 
 ## Button to block/unblock listed topics
 ## "Block", "unblocked", and "blocked" are social media terms that refer to hiding a section of stories.
