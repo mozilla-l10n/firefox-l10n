@@ -44,6 +44,7 @@ avatar-selector-cancel-button =
 avatar-selector-save-button =
     .label = Lagre
 avatar-selector-upload-file = Last opp ei fil
+avatar-selector-drag-file = Eller drag ei fil hit
 edit-profile-page-no-name = Gi denne profilen eit namn for å hjelpe deg med å finne han seinare. Byt namn når som helst.
 edit-profile-page-duplicate-name = Profilnamnet er allereie i bruk.
 edit-profile-page-profile-saved = Lagra

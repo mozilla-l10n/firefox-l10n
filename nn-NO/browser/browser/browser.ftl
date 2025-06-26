@@ -1289,3 +1289,6 @@ file-picker-crashed-show-in-folder =
 ## Onboarding Finish Setup checklist
 
 onboarding-checklist-button-label = Fullfør oppsett
+onboarding-aw-finish-setup-button =
+    .label = Fullfør oppsettet
+    .tooltiptext = Fullfør oppsettet av { -brand-short-name }
