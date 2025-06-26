@@ -5,12 +5,12 @@
 
 ## XSLT and XPath specific errors.
 
-xslt-parse-failure = Analyse de un folio de stilo XSLT fallite.
-xpath-parse-failure = Analyse de un expression XSLT fallite.
+xslt-parse-failure = Le analyse de un folio de stilo XSLT ha fallite.
+xpath-parse-failure = Le analyse de un expression XSLT ha fallite.
 xslt-execution-failure = Transformation XSLT fallite.
 xpath-unknown-function = Function XSLT/XPath non valide.
-xslt-bad-recursion = Le folio de stilo XSLT contine (probabilemente) un recursion.
-xslt-bad-value = Valor illegal de attributo in XSLT 1.0.
+xslt-bad-recursion = Le folio de stilo XSLT (possibilemente) contine un recursion.
+xslt-bad-value = Valor de attributo non valide in XSLT 1.0.
 xslt-nodeset-expected = On expectava que un expression XPath retornava un NodeSet.
 xslt-aborted = Un transformation XSLT esseva terminate per <xsl:message>.
 xslt-network-error = Un error de rete occurreva durante que se cargava un folio de stilo XSLT:
