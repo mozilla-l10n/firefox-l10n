@@ -376,9 +376,9 @@ onboarding-new-user-survey-next-button-label = Επόμενο
 onboarding-new-user-survey-legal-link-label = Επιλέγοντας «{ onboarding-new-user-survey-next-button-label }», συμφωνείτε με τη <a data-l10n-name="privacy_notice">Σημείωση απορρήτου</a> του { -brand-product-name }
 # When translating "brand new" it means completely new.
 onboarding-new-user-survey-time-based-option-1 = Είμαι αρχάριος
-onboarding-new-user-survey-time-based-option-2 = Λιγότερο από ένα μήνα
-onboarding-new-user-survey-time-based-option-3 = Περισσότερο από ένα μήνα, τακτικά
-onboarding-new-user-survey-time-based-option-4 = Περισσότερο από ένα μήνα, περιστασιακά
+onboarding-new-user-survey-time-based-option-2 = Λιγότερο από έναν μήνα
+onboarding-new-user-survey-time-based-option-3 = Περισσότερο από έναν μήνα, τακτικά
+onboarding-new-user-survey-time-based-option-4 = Περισσότερο από έναν μήνα, περιστασιακά
 # When translating "brand new" it means completely new.
 onboarding-new-user-survey-familiarity-based-option-1 = Είμαι αρχάριος
 onboarding-new-user-survey-familiarity-based-option-2 = Το έχω χρησιμοποιήσει λίγο

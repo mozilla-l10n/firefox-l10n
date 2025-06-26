@@ -24,4 +24,4 @@ csp-error-missing-source = Η οδηγία «{ $directive }» πρέπει να 
 # Variables:
 #   $directive (String): the name of a CSP directive, such as "script-src".
 #   $scheme (String): a protocol name, such as "http", which appears as "http:", as it would in a URL.
-csp-error-illegal-host-wildcard = Οι { $scheme }: πηγές με μπαλαντέρ στις οδηγίες «{ $directive }» πρέπει να περιλαμβάνουν τουλάχιστον ένα μη γενικό υποτομέα (π.χ., *.example.com αντί για *.com)
+csp-error-illegal-host-wildcard = Οι πηγές { $scheme }: με σύμβολο υποκατάστασης στις οδηγίες «{ $directive }» πρέπει να περιλαμβάνουν τουλάχιστον έναν μη γενικό υποτομέα (π.χ. *.example.com αντί για *.com)
