@@ -159,8 +159,11 @@ genai-chatbot-summarize-title = Навигарӣ! Бо зер кардани т�
 genai-chatbot-summarize-button = Баровардани хулоса дар бораи ин саҳифа
 # “Summarize Page” should be consistent with the translation for the string genai-menu-summarize-page
 genai-chatbot-summarize-sidebar-provider-subtitle = Дар навори ҷонибӣ бо тугмаи рости муш ба чат-боти зеҳни сунъӣ «AI»-и худ зер кунед ва имкони «Баровардани хулоса дар бораи ин саҳифа»-ро интихоб намоед.
+# “Summarize Page” should be consistent with the translation for the string genai-menu-summarize-page
+genai-chatbot-summarize-sidebar-generic-subtitle = Бо тугмаи рости муш тугмаи дурахшонро дар навори ҷонибӣ зер кунед ва имкони «Баровардани хулоса дар бораи ин саҳифа»-ро интихоб намоед. Бори аввал, шумо инчунин бояд чат-боти зеҳни сунъӣ «AI»-ро интихоб кунед.
 # “Summarize page” should be consistent with the translation for the string genai-page-button-summarize
 genai-chatbot-summarize-footer-provider-subtitle = Дар навори ҷонибӣ чат-боти зеҳни сунъӣ «AI»-и худро кушоед ва имкони «Баровардани хулоса дар бораи ин саҳифа»-ро интихоб намоед.
+genai-chatbot-summarize-footer-generic-subtitle = Барои зуд баровардани хулосаҳо дар бораи саҳифаҳо, чат-боти зеҳни сунъӣ «AI»-ро ба навори ҷонибии «{ -brand-short-name }» илова намоед.
 
 ## Chatbot onboarding choices
 ## These describe features/capabilities of chatbot providers. These are not buttons/actions.
