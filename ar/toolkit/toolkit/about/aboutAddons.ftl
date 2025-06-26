@@ -17,7 +17,7 @@ list-empty-get-language-packs-message = احصل على حزم اللغات عل
 ##
 
 list-empty-installed =
-    .value = ليس لديك أي إضافات منصّبة من هذا النوع
+    .value = ليس لديك أي إضافات مثبتة من هذا النوع
 list-empty-available-updates =
     .value = لا تحديثات متوفرة
 list-empty-recent-updates =

@@ -21,7 +21,7 @@ update-full-build-name = ‏{ $name } ‏({ $buildID })
 update-details = التفاصيل
 # Variables:
 #   $date (string) - Date the last update was installed
-update-installed-on = منصّب في: { $date }
+update-installed-on = ثُبِّت في: { $date }
 # Variables:
 #   $status (string) - Status of the last update
 update-status = الحالة: { $status }
