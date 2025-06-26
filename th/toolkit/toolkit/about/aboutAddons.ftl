@@ -492,6 +492,9 @@ shortcuts-heading = จัดการทางลัดส่วนขยาย
 default-heading-search-label = ค้นหาส่วนเสริมเพิ่มเติม
 addons-heading-search-input =
     .placeholder = ค้นหา addons.mozilla.org
+addons-heading-search-button =
+    .title = ค้นหาใน addons.mozilla.org
+    .aria-label = ค้นหาใน addons.mozilla.org
 addon-page-options-button =
     .title = เครื่องมือสำหรับส่วนเสริมทั้งหมด
 
@@ -557,6 +560,33 @@ addon-permissions-required-data-collection = การรวบรวมข้�
 addon-permissions-optional-data-collection = การรวบรวมข้อมูลที่เป็นทางเลือก:
 # Name of the Permissions tab in `about:addons` when the data collection feature is enabled.
 permissions-data-addon-button = การกำหนดสิทธิ์และข้อมูล
+# This is a description for extension that use this AI model
+# Variables:
+#   $extensionName (String) - Name of the extension
+mlmodel-extension-label = ใช้โดยส่วนขยาย { $extensionName }
 
 ## Mapping Engine IDs from AI models to how that feature represented by the engine Id is described in the used by section in local model management
 
+mlmodel-about-inference = { -brand-short-name } ใช้โมเดลนี้บน about:inference
+mlmodel-link-preview = { -brand-short-name } ใช้โมเดลนี้เพื่อสร้างประเด็นสำคัญเมื่อคุณดูตัวอย่างลิงก์
+mlmodel-pdfjs = { -brand-short-name } ใช้โมเดลนี้เพื่อสร้างข้อความทดแทนสำหรับภาพที่คุณเพิ่มลงใน PDF
+mlmodel-smart-tab-topic-engine = { -brand-short-name } ใช้โมเดลนี้เพื่อแนะนำชื่อสำหรับกลุ่มแท็บของคุณ
+mlmodel-smart-tab-embedding-engine = { -brand-short-name } ใช้โมเดลนี้เพื่อแนะนำแท็บสำหรับกลุ่มแท็บของคุณ
+# AI Model will be downloaded on the users device and used locally
+addon-category-mlmodel = AI บนอุปกรณ์
+addon-category-mlmodel-title =
+    .title = AI บนอุปกรณ์
+mlmodel-heading = จัดการโมเดล AI บนอุปกรณ์
+mlmodel-description = คุณลักษณะและส่วนขยายบางอย่างใน { -brand-short-name } ขับเคลื่อนโดยโมเดล AI ซึ่งทำงานภายในเครื่องของคุณโดยตรง แนวทางนี้ช่วยปกป้องความเป็นส่วนตัวของคุณ พร้อมทั้งยังช่วยเร่งประสิทธิภาพได้ในหลายกรณี <a data-l10n-name="learn-more">เรียนรู้เพิ่มเติม</a>
+# Label for button that when clicked removed local model
+mlmodel-remove-addon-button =
+    .aria-label = เอาออก
+# Label for the aggregated value of all files for a model
+mlmodel-addon-detail-totalsize-label = ขนาดไฟล์
+mlmodel-addon-detail-last-used-label = ใช้ครั้งล่าสุด
+# This is a section label to describe what extensions or features use a specific local AI model
+mlmodel-addon-detail-used-by-label = ใช้โดย
+# This is a section label to describe the link to the model card on the Hugging Face website
+mlmodel-addon-detail-model-card = การ์ดโมเดล
+# This is a label for the Model Card link to Hugging face
+mlmodel-addon-detail-model-card-link-label = ดูบน Hugging Face

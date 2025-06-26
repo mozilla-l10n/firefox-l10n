@@ -81,6 +81,8 @@ addon-removal-title = ต้องการเอา { $name } ออกหร�
 addon-removal-message = เอา { $name } ออกจาก { -brand-shorter-name }?
 addon-removal-button = เอาออก
 addon-removal-abuse-report-checkbox = รายงานส่วนขยายนี้ไปยัง { -vendor-short-name }
+# "it" refers to the local AI model that is paired to the AI feature
+addon-mlmodel-removal-body = ถ้าคุณใช้คุณลักษณะหรือส่วนขยายที่ใช้โมเดลนี้ โมเดลนั้นจะถูกเพิ่มกลับมาอีกครั้ง
 # Variables:
 #   $addonCount (Number): the number of add-ons being downloaded
 addon-downloading-and-verifying = กำลังดาวน์โหลดและยืนยัน { $addonCount } ส่วนเสริม…

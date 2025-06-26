@@ -109,6 +109,7 @@ webext-perms-description-data-some-optional = ผู้พัฒนาระบ�
 # Variables:
 #   $extension (String): replaced with the localized name of the extension.
 webext-perms-update-text-with-data-collection = { $extension } ต้องการการตั้งค่าใหม่เพื่ออัปเดต
+webext-perms-update-list-intro-with-data-collection = ยกเลิกเพื่อเก็บรุ่นปัจจุบันและการตั้งค่าปัจจุบันของคุณไว้ หรืออัปเดตเพื่อรับรุ่นใหม่และอนุมัติการเปลี่ยนแปลง
 # Variables:
 #   $extension (String): replaced with the localized name of the extension.
 webext-perms-optional-text-with-data-collection = { $extension } ขอการตั้งค่าเพิ่มเติม

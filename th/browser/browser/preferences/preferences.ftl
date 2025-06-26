@@ -349,6 +349,9 @@ download-choose-folder =
 download-always-ask-where =
     .label = ถามคุณเสมอว่าจะบันทึกไฟล์ที่ไหน
     .accesskey = ถ
+download-private-browsing-delete =
+    .label = ลบไฟล์ที่ดาวน์โหลดจากการเรียกดูแบบส่วนตัวเมื่อปิดหน้าต่างส่วนตัวทั้งหมดแล้ว
+    .accesskey = ล
 applications-header = แอปพลิเคชัน
 applications-description = เลือกวิธีที่ { -brand-short-name } จัดการกับไฟล์ที่คุณดาวน์โหลดจากเว็บหรือแอปพลิเคชันที่คุณใช้ขณะเรียกดู
 applications-filter =
@@ -639,6 +642,12 @@ home-prefs-weather-header =
     .label = พยากรณ์อากาศ
 home-prefs-weather-description = ดูพยากรณ์อากาศประจำวันนี้ได้อย่างรวดเร็ว
 home-prefs-weather-learn-more-link = เรียนรู้เพิ่มเติม
+home-prefs-trending-search-header =
+    .label = การค้นหาที่กำลังนิยม
+home-prefs-trending-search-description = หัวข้อยอดนิยมและที่ค้นหาบ่อย
+# "Support" here means to help sustain or contribute to something, especially through funding or sponsorship.
+home-prefs-support-firefox-header =
+    .label = ร่วมสนับสนุน { -brand-product-name }
 home-prefs-mission-message = ผู้สนับสนุนของเราสนับสนุนภารกิจที่จะสร้างเว็บที่ดีขึ้น
 home-prefs-mission-message-learn-more-link = ค้นหาว่าทำอย่างไร
 # Variables:
@@ -705,6 +714,9 @@ search-remove-engine =
 search-add-engine =
     .label = เพิ่ม
     .accesskey = พ
+search-edit-engine =
+    .label = แก้ไข
+    .accesskey = ก
 search-find-more-link = ค้นหาเครื่องมือค้นหาเพิ่มเติม
 # This warning is displayed when the chosen keyword is already in use
 # ('Duplicate' is an adjective)
