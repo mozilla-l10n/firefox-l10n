@@ -192,7 +192,7 @@ downloads-private-browsing-delete-button =
     .label = Deler files automaticamente
     .accesskey = D
 downloads-private-browsing-accept-button =
-    .label = Io comprendeva
+    .label = Comprendite
     .accesskey = c
 
 ## Displayed when a site attempts to automatically download many files.

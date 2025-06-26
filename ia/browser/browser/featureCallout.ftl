@@ -107,10 +107,10 @@ perplexity-callout-secondary-label-2 = Comprendite
 ## Account Adoption Passwords callout strings
 
 # Suggestion to backup passwords by signing up for Mozilla account and using sync
-fxa-adoption-passwords-title = Contrasigno salvate. Reserva lo.
+fxa-adoption-passwords-title = Contrasigno salvate. Que nos face un copia de securitate.
 fxa-adoption-passwords-subtitle = Protege tu contrasignos synchronisante los a tu apparatos con cryptation.
 # Opens Mozilla accounts sign-up page
-fxa-adoption-passwords-primary-button-label = Inscribe te
+fxa-adoption-passwords-primary-button-label = Inscriber se
 
 ## Sidebar Strings
 
@@ -135,8 +135,7 @@ sidebar-pins-callout-cta-button = Clavar le scheda
 
 ## Pinning Tabs Strings
 
-pin-tabs-callout-1-title = Tene a portata schedas importante
-pin-tabs-callout-1-subtitle = Trahe un scheda al initio del banda de scheda pro fixar lo. O clicca dextre e selige Fixar Scheda.
+pin-tabs-callout-1-title = Tene le schedas importante a portata de mano
 pin-tabs-callout-cta-1-button = Clavar iste scheda
 pin-tabs-callout-2-title = Clava schedas que tu visita plus
 pin-tabs-callout-2-subtitle = Pro fixar alcun scheda, trahe lo al initio del banda de scheda. O clicca dextre e selige Fixar Scheda.

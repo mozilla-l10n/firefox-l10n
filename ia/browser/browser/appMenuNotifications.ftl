@@ -48,7 +48,7 @@ appmenu-addon-post-install-message3 = Gere tu additivos e themas con le menu del
 # has been installed, when the data collection feature is enabled.
 appmenu-addon-post-install-message-with-data-collection = Actualisar permissos e preferentias de datos quandocunque in le <a data-l10n-name="settings-link">parametros de extension</a>.
 appmenu-addon-post-install-pin-toolbarbutton-checkbox =
-    .label = Fixar extension a barra del instrumentos
+    .label = Fixar extension al barra de instrumentos
     .accesskey = F
 appmenu-addon-post-install-incognito-checkbox =
     .label = Permitter que iste extension se executa in fenestras private

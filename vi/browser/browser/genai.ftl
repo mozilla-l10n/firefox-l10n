@@ -51,11 +51,20 @@ genai-menu-ask-generic =
 # $provider (string) - name of the provider
 genai-menu-ask-provider =
     .label = Hỏi { $provider }
+genai-menu-open-generic =
+    .label = Mở chatbot AI
+# $provider (string) - name of the provider
+genai-menu-open-provider =
+    .label = Mở { $provider }
 genai-menu-remove-generic =
     .label = Xoá chatbot AI
 # $provider (string) - name of the provider
 genai-menu-remove-provider =
     .label = Xoá { $provider }
+genai-menu-remove-sidebar =
+    .label = Gỡ khỏi thanh lề
+genai-menu-new-badge = Mới
+genai-menu-summarize-page = Tóm tắt trang
 genai-input-ask-generic =
     .placeholder = Hỏi chatbot AI…
 # $provider (string) - name of the provider
@@ -80,6 +89,10 @@ genai-shortcuts-selected-warning =
         }
 genai-shortcuts-hide =
     .label = Ẩn lối tắt chatbot
+genai-menu-no-provider =
+    .label = Hỏi một chatbot AI
+genai-menu-choose-chatbot =
+    .label = Chọn một chatbot AI
 
 ## Chatbot header
 
@@ -106,6 +119,7 @@ genai-options-about-chatbot =
 
 ## Chatbot footer
 
+genai-page-button-summarize = Tóm tắt trang
 
 ## Chatbot onboarding
 
@@ -141,6 +155,15 @@ genai-onboarding-select-primary = Bắt đầu chat
 genai-chatbot-contextual-title = Sử dụng chatbot AI mà không cần chuyển đổi thẻ
 genai-chatbot-contextual-subtitle = Trò chuyện và duyệt song song khi bạn thêm chatbot AI trong thanh lề của { -brand-short-name }.
 genai-chatbot-contextual-button = Chọn một chatbot
+genai-chatbot-summarize-title = Mới! Tóm tắt trang chỉ bằng một cú nhấp chuột
+genai-chatbot-summarize-button = Tóm tắt trang
+# “Summarize Page” should be consistent with the translation for the string genai-menu-summarize-page
+genai-chatbot-summarize-sidebar-provider-subtitle = Nhấp chuột phải vào chatbot AI của bạn trong thanh lề và chọn “Tóm tắt trang”.
+# “Summarize Page” should be consistent with the translation for the string genai-menu-summarize-page
+genai-chatbot-summarize-sidebar-generic-subtitle = Nhấp chuột phải vào nút lấp lánh trong lề và chọn “Tóm tắt trang”. Trong lần đầu tiên, bạn cũng sẽ chọn một chatbot AI.
+# “Summarize page” should be consistent with the translation for the string genai-page-button-summarize
+genai-chatbot-summarize-footer-provider-subtitle = Mở chatbot AI của bạn trong thanh lề và chọn “Tóm tắt trang” ở cuối.
+genai-chatbot-summarize-footer-generic-subtitle = Thêm chatbot AI vào thanh lề { -brand-short-name } để tóm tắt nhanh trang.
 
 ## Chatbot onboarding choices
 ## These describe features/capabilities of chatbot providers. These are not buttons/actions.

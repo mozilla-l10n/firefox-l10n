@@ -106,6 +106,11 @@ perplexity-callout-secondary-label-2 = Đã hiểu
 
 ## Account Adoption Passwords callout strings
 
+# Suggestion to backup passwords by signing up for Mozilla account and using sync
+fxa-adoption-passwords-title = Đã lưu mật khẩu. Hãy sao lưu nó.
+fxa-adoption-passwords-subtitle = Bảo vệ mật khẩu của bạn bằng cách đồng bộ chúng với thiết bị bằng mã hóa.
+# Opens Mozilla accounts sign-up page
+fxa-adoption-passwords-primary-button-label = Đăng ký
 
 ## Sidebar Strings
 
@@ -130,6 +135,14 @@ sidebar-pins-callout-cta-button = Ghim thẻ
 
 ## Pinning Tabs Strings
 
+pin-tabs-callout-1-title = Giữ các thẻ quan trọng trong tầm tay
+pin-tabs-callout-1-subtitle = Kéo một thẻ vào đầu dải thẻ để ghim thẻ đó. Hoặc nhấp chuột phải và chọn Ghim thẻ.
+pin-tabs-callout-cta-1-button = Ghim thẻ này
+pin-tabs-callout-2-title = Ghim các thẻ bạn truy cập nhiều nhất
+pin-tabs-callout-2-subtitle = Để ghim bất kỳ thẻ nào, hãy kéo thẻ đó vào đầu dải thẻ. Hoặc nhấp chuột phải và chọn Ghim thẻ.
+pin-tabs-callout-cta-2-button = Ghim thẻ này
+pin-tabs-callout-3-title = Giữ các trang quan trọng trong tầm tay
+pin-tabs-callout-4-title = Ghim các trang web bạn truy cập nhiều nhất
 
 ## Sidebar Onboarding Strings
 

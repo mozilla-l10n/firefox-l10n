@@ -30,6 +30,10 @@ contentanalysis-operationtype-clipboard = bộ nhớ tạm
 contentanalysis-operationtype-dropped-text = văn bản đã kéo thả
 contentanalysis-operationtype-print = in
 #   $filename - The filename associated with the request, such as "aFile.txt"
+contentanalysis-upload-description = tải lên “{ $filename }”
+#   $filename - The filename associated with the request, such as "aFile.txt"
+contentanalysis-download-description = tải xuống “{ $filename }”
+#   $filename - The filename associated with the request, such as "aFile.txt"
 contentanalysis-customdisplaystring-description = tải lên của “{ $filename }”
 contentanalysis-warndialogtitle = Nội dung này có thể không an toàn
 # Variables:
@@ -71,6 +75,10 @@ contentanalysis-block-dialog-title-upload-file = Bạn không được phép t�
 # Variables:
 #   $filename - Name of the file that was blocked, such as "aFile.txt"
 contentanalysis-block-dialog-body-upload-file = Theo chính sách bảo vệ dữ liệu của tổ chức bạn, bạn không được phép tải lên tập tin “{ $filename }”. Hãy liên hệ với quản trị viên của bạn để biết thêm thông tin.
+contentanalysis-block-dialog-title-download-file = Bạn không được phép tải xuống tập tin này
+# Variables:
+#   $filename - Name of the file that was blocked, such as "aFile.txt"
+contentanalysis-block-dialog-body-download-file = Theo chính sách bảo vệ dữ liệu của tổ chức bạn, bạn không được phép tải xuống tập tin “{ $filename }”. Hãy liên hệ với quản trị viên của bạn để biết thêm thông tin.
 contentanalysis-block-dialog-title-clipboard = Bạn không được phép dán nội dung này
 contentanalysis-block-dialog-body-clipboard = Theo chính sách bảo vệ dữ liệu của tổ chức bạn, bạn không được phép dán nội dung này. Hãy liên hệ với quản trị viên của bạn để biết thêm thông tin.
 contentanalysis-block-dialog-title-dropped-text = Bạn không được phép thả nội dung này
