@@ -505,6 +505,7 @@ newtab-section-following-button = Ahapykueho
 newtab-section-unfollow-button = Ndahapykuehovéima
 # A modal may appear next to the Follow button, directing users to try out the feature
 newtab-section-follow-highlight-title = Eiporuporã nde feed
+newtab-section-follow-highlight-subtitle = Ehapykueho ndegustáva ehecha hag̃ua hetave mbaʼe.
 
 ## Button to block/unblock listed topics
 ## "Block", "unblocked", and "blocked" are social media terms that refer to hiding a section of stories.
