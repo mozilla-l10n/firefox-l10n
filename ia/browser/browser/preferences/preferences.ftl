@@ -264,7 +264,7 @@ preferences-web-appearance-choice-input-dark =
 # This can appear when using windows HCM or "Override colors: always" without
 # system colors.
 preferences-web-appearance-override-warning3 =
-    .message = Tu configurationes del controlo de contrasto substitue illos del apparentia del sitos web.
+    .message = Tu parametros de controlo de contrasto substitue le apparentia de sitos web.
 # This can appear when using windows HCM or "Override colors: always" without
 # system colors.
 preferences-web-appearance-override-warning = Tu selectiones color supplanta le apparentia del sito web.<a data-l10n-name="colors-link">Gere le colores</a>
@@ -519,7 +519,7 @@ performance-default-content-process-count =
 
 browsing-title = Navigation
 browsing-group-label =
-    .aria-label = Navigar
+    .aria-label = Navigation
 browsing-use-autoscroll =
     .label = Usar le rolamento automatic
     .accesskey = a
