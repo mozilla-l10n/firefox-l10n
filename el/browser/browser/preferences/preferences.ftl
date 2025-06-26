@@ -935,7 +935,7 @@ sync-connect-another-device = Σύνδεση άλλης συσκευής
 sync-verification-sent-title = Η επιβεβαίωση εστάλη
 # Variables:
 #   $email (String): Email address of user's Firefox account.
-sync-verification-sent-body = Έχει σταλεί ένα σύνδεσμος επαλήθευσης στην διεύθυνση { $email }.
+sync-verification-sent-body = Έχει σταλεί ένας σύνδεσμος επαλήθευσης στο { $email }.
 sync-verification-not-sent-title = Αδυναμία αποστολής επιβεβαίωσης
 sync-verification-not-sent-body = Δεν μπορούμε να στείλουμε ένα email επαλήθευσης αυτήν τη στιγμή, δοκιμάστε ξανά αργότερα.
 
