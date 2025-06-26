@@ -51,11 +51,20 @@ genai-menu-ask-generic =
 # $provider (string) - name of the provider
 genai-menu-ask-provider =
     .label = { $provider } freegje
+genai-menu-open-generic =
+    .label = AI-chatbot iepenje
+# $provider (string) - name of the provider
+genai-menu-open-provider =
+    .label = { $provider } iepenje
 genai-menu-remove-generic =
     .label = AI-chatbot fuortsmite
 # $provider (string) - name of the provider
 genai-menu-remove-provider =
     .label = { $provider } fuortsmite
+genai-menu-remove-sidebar =
+    .label = Fuortsmite út sydbalke
+genai-menu-new-badge = Nij
+genai-menu-summarize-page = Side gearfetsje
 genai-input-ask-generic =
     .placeholder = AI-chatbot freegje…
 # $provider (string) - name of the provider
@@ -80,6 +89,10 @@ genai-shortcuts-selected-warning =
         }
 genai-shortcuts-hide =
     .label = Chatbot-fluchkeppeling ferstopje
+genai-menu-no-provider =
+    .label = In AI-chatbot freegje
+genai-menu-choose-chatbot =
+    .label = Kies in AI-chatbot
 
 ## Chatbot header
 
@@ -106,6 +119,7 @@ genai-options-about-chatbot =
 
 ## Chatbot footer
 
+genai-page-button-summarize = Side gearfetsje
 
 ## Chatbot onboarding
 

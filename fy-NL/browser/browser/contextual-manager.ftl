@@ -204,6 +204,7 @@ contextual-manager-passwords-no-username-heading-and-message =
     .heading = Brûkersnamme tafoegje
     .message = Foegje der ien ta om flugger oan te melden.
 contextual-manager-passwords-add-username-button = Brûkersnamme tafoegje
+contextual-manager-passwords-title = Wachtwurden
 
 ## Login Form
 
@@ -265,7 +266,25 @@ contextual-manager-edit-login-button = Bewurkje
 contextual-manager-view-alert-heading =
     .heading = Warskôging toane
 contextual-manager-view-alert-button =
-    .tooltiptext = Warskôging beaordiele
+    .tooltiptext = Warskôging beoardiele
+# Variables
+#   $count (number) - The number of active alerts associated with the login
+contextual-manager-view-alert-heading-2 =
+    .heading =
+        { $count ->
+            [1] Warskôging toane
+            [one] Warskôging toane
+           *[other] Warskôgingen toane
+        }
+# Variables
+#   $count (number) - The number of active alerts associated with the login
+contextual-manager-view-alert-button-2 =
+    .tooltiptext =
+        { $count ->
+            [1] Warskôging beoardiele
+            [one] Warskôging beoardiele
+           *[other] Warskôgingen beoardiele
+        }
 contextual-manager-show-password-button =
     .aria-label = Wachtwurd toane
     .title = Wachtwurd toane

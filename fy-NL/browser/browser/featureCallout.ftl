@@ -106,6 +106,11 @@ perplexity-callout-secondary-label-2 = Begrepen
 
 ## Account Adoption Passwords callout strings
 
+# Suggestion to backup passwords by signing up for Mozilla account and using sync
+fxa-adoption-passwords-title = Wachtwurd bewarre. Litte wy in reservekopy meitsje.
+fxa-adoption-passwords-subtitle = Beskermje jo wachtwurden troch se fersifere mei jo apparaten mei te syngronisearjen.
+# Opens Mozilla accounts sign-up page
+fxa-adoption-passwords-primary-button-label = Registrearje
 
 ## Sidebar Strings
 
@@ -130,6 +135,14 @@ sidebar-pins-callout-cta-button = Ljepblêd fêstsette
 
 ## Pinning Tabs Strings
 
+pin-tabs-callout-1-title = Hâld wichtige ljepblêden binnen hânberik
+pin-tabs-callout-1-subtitle = Sleep in ljepblêd nei it begjin fan de ljepblêdstrook om it fêst te setten. Of klik mei de rjochtermûsknop en kies Ljepblêd fêstsette.
+pin-tabs-callout-cta-1-button = Dit ljepblêd fêstsette
+pin-tabs-callout-2-title = Meast besochte ljepblêden fêstsette
+pin-tabs-callout-2-subtitle = Sleep in ljepblêd nei it begjin fan de ljepblêdstrook om it fêst te setten. Of klik mei de rjochtermûsknop en kies Ljepblêd fêstsette.
+pin-tabs-callout-cta-2-button = Dit ljepblêd fêstsette
+pin-tabs-callout-3-title = Hâld wichtige ljepblêden binnen hânberik
+pin-tabs-callout-4-title = Websites dy’t jo it meast besykje fêstmeitsje
 
 ## Sidebar Onboarding Strings
 

@@ -614,6 +614,10 @@ urlbar-search-mode-indicator-close =
 # engine is unknown.
 urlbar-placeholder =
     .placeholder = Fier in sykterm of adres yn
+# This placeholder is used when not in search mode and searching in the urlbar
+# is disabled via the keyword.enabled pref.
+urlbar-placeholder-keyword-disabled =
+    .placeholder = Fier adres yn
 # This placeholder is used in search mode with search engines that search the
 # entire web.
 # Variables
@@ -1309,3 +1313,6 @@ file-picker-crashed-show-in-folder =
 ## Onboarding Finish Setup checklist
 
 onboarding-checklist-button-label = Ynstellen foltôgje
+onboarding-aw-finish-setup-button =
+    .label = Ynstellen foltôgje
+    .tooltiptext = Ynstellen { -brand-short-name } foltôgje
