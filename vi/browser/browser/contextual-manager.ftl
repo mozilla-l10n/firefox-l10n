@@ -198,6 +198,7 @@ contextual-manager-passwords-no-username-heading-and-message =
     .heading = Thêm tên người dùng
     .message = Thêm một cái để đăng nhập nhanh hơn.
 contextual-manager-passwords-add-username-button = Thêm tên người dùng
+contextual-manager-passwords-title = Mật khẩu
 
 ## Login Form
 
@@ -260,6 +261,22 @@ contextual-manager-view-alert-heading =
     .heading = Xem cảnh báo
 contextual-manager-view-alert-button =
     .tooltiptext = Xem lại cảnh báo
+# Variables
+#   $count (number) - The number of active alerts associated with the login
+contextual-manager-view-alert-heading-2 =
+    .heading =
+        { $count ->
+            [1] Xem cảnh báo
+           *[other] Xem cảnh báo
+        }
+# Variables
+#   $count (number) - The number of active alerts associated with the login
+contextual-manager-view-alert-button-2 =
+    .tooltiptext =
+        { $count ->
+            [1] Xem xét cảnh báo
+           *[other] Xem xét cảnh báo
+        }
 contextual-manager-show-password-button =
     .aria-label = Hiển thị mật khẩu
     .title = Hiển thị mật khẩu
