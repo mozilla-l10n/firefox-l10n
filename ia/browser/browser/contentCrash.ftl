@@ -35,8 +35,8 @@ pending-crash-reports-always-send =
 #   $reportCount (Number): the number of pending crash reports
 requested-crash-reports-message-new =
     { $reportCount ->
-        [one] Tu ha un reporto de collapso non inviate que es associate a collapsos actualmente sub investigation. Inviar lo nos adjutarea a meliorar { -brand-product-name }. Si tu claude iste aviso, iste reporto essera ignorate.
-       *[other] Tu ha { $reportCount } reportos de collapso non inviate que es associate a collapsos actualmente sub investigation. Inviar los nos adjutarea a meliorar { -brand-product-name }. Si tu claude iste aviso, iste reportos essera ignorate.
+        [one] Tu ha un reporto de collapso non inviate que es associate a collapsos actualmente sub investigation. Inviar lo pote adjutar nos a meliorar { -brand-product-name }. Si tu claude iste aviso, iste reporto essera ignorate.
+       *[other] Tu ha { $reportCount } reportos de collapso non inviate que es associate a collapsos actualmente sub investigation. Inviar los pote adjutar nos a meliorar { -brand-product-name }. Si tu claude iste aviso, iste reportos essera ignorate.
     }
 # Variables:
 #   $reportCount (Number): the number of pending crash reports
