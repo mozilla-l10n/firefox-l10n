@@ -139,6 +139,7 @@ pin-tabs-callout-1-title = Mantenga las pestañas importantes a su alcance
 pin-tabs-callout-cta-1-button = Pegar esta pestaña
 pin-tabs-callout-2-title = Pegar las pestañas más visitadas
 pin-tabs-callout-cta-2-button = Pegar esta pestaña
+pin-tabs-callout-3-title = Mantenga los sitios importantes a su alcance
 pin-tabs-callout-4-title = Pegar los sitios más visitados
 
 ## Sidebar Onboarding Strings
