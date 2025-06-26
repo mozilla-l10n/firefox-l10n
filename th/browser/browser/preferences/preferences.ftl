@@ -725,6 +725,10 @@ search-keyword-warning-title = คำสำคัญซ้ำกัน
 #   $name (string) - Name of a search engine.
 search-keyword-warning-engine = คุณได้เลือกคำสำคัญที่มีการใช้งานอยู่โดย “{ $name }” โปรดเลือกคำสำคัญอื่น
 search-keyword-warning-bookmark = คุณได้เลือกคำสำคัญที่มีการใช้งานอยู่โดยที่คั่นหน้า โปรดเลือกคำสำคัญอื่น
+# This warning is displayed when the chosen name is already in use.
+# Variables:
+#   $name (string) - Name of a search engine.
+edit-engine-name-warning-duplicate = มีเครื่องมือค้นหาชื่อ “{ $name }” อยู่แล้ว โปรดเลือกชื่ออื่น
 remove-engine-confirmation = คุณแน่ใจหรือไม่ว่าต้องการลบเครื่องมือค้นหานี้?
 remove-engine-remove = ลบ
 remove-addon-engine-alert = เมื่อต้องการลบเครื่องมือค้นหานี้ ให้ลบส่วนเสริมที่สัมพันธ์กันออก

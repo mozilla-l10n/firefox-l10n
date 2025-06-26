@@ -15,6 +15,8 @@ about-logging-set-log-file = ตั้งไฟล์ปูม
 about-logging-set-log-modules = ตั้งโมดูลบันทึก
 about-logging-start-logging = เริ่มการบันทึก
 about-logging-stop-logging = หยุดการบันทึก
+about-logging-copy-as-url = คัดลอกการตั้งค่าปัจจุบันเป็น URL
+about-logging-url-copied = คัดลอกการตั้งค่าการบันทึกไปยังคลิปบอร์ดเป็น URL ที่ตั้งไว้ล่วงหน้าแล้ว
 about-logging-buttons-disabled = การบันทึกถูกกำหนดค่าผ่านตัวแปรสภาพแวดล้อม การกำหนดค่าแบบไดนามิกไม่พร้อมใช้งาน
 about-logging-some-elements-disabled = การบันทึกถูกกำหนดค่าผ่าน URL ตัวเลือกการกำหนดค่าบางอย่างไม่สามารถใช้งานได้
 about-logging-info = ข้อมูล:
@@ -27,6 +29,8 @@ about-logging-no-log-modules = ไม่มี
 about-logging-no-log-file = ไม่มี
 about-logging-logging-preset-selector-text = ค่าที่ตั้งไว้ล่วงหน้าของการบันทึก:
 about-logging-with-profiler-stacks-checkbox = เปิดใช้งานการตามรอยสแตกสำหรับข้อความในปูม
+about-logging-menu =
+    .title = ตัวเลือกขั้นสูง
 
 ## Logging presets
 
