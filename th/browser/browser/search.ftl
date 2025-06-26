@@ -54,14 +54,50 @@ install-search-engine-no = ไม่
 add-engine-window =
     .title = เพิ่มเครื่องมือค้นหา
     .style = min-width: 32em;
+edit-engine-window =
+    .title = แก้ไขเครื่องมือค้นหา
+    .style = min-width: 32em;
 add-engine-button = เพิ่มเครื่องมือกำหนดเอง
 add-engine-name = ชื่อเครื่องมือค้นหา
+add-engine-url2 = URL พร้อม %s แทนคำค้นหา
+add-engine-keyword2 = คำสำคัญ (ไม่บังคับ)
+# POST and GET refer to the HTTP methods.
+add-engine-post-data = ข้อมูล POST พร้อม %s แทนคำค้นหา (เว้นว่างไว้สำหรับ GET)
+add-engine-suggest-url = URL คำแนะนำพร้อม %s แทนคำค้นหา (ไม่บังคับ)
 
 ## The following placeholders are shown in the inputs when adding a new engine.
 
+add-engine-name-placeholder =
+    .placeholder = เช่น Mozilla Developer Network
+add-engine-url-placeholder =
+    .placeholder = เช่น https://developer.mozilla.com/search?q=%s
+add-engine-keyword-placeholder =
+    .placeholder = เช่น @mdn
 
 ## The following strings are used as error messages.
 
+add-engine-keyword-exists = คำสำคัญดังกล่าวถูกใช้ไปแล้ว โปรดลองใช้คำอื่น
+add-engine-name-exists = ชื่อดังกล่าวถูกใช้ไปแล้ว โปรดเลือกชื่ออื่น
+add-engine-no-name = โปรดเพิ่มชื่อ
+add-engine-no-url = โปรดป้อน URL
+add-engine-invalid-url = URL นั้นดูไม่ถูกต้อง โปรดตรวจสอบและลองอีกครั้ง
+add-engine-invalid-protocol = URL นั้นดูไม่ถูกต้อง ให้ใช้ URL ที่ขึ้นต้นด้วย http หรือ https
+# This error is shown when the user typed URL is missing %s.
+add-engine-missing-terms-url = ลองระบุ %s ในส่วนของคำค้นหา
+# This error is shown when the user typed post data is missing %s.
+add-engine-missing-terms-post-data = ลองระบุ %s ในส่วนของคำค้นหา
 
 ## The following strings are used as labels for the dialog's buttons.
 
+# buttonlabelextra1 is the label of a button to open the advanced section
+# of the dialog.
+add-engine-dialog2 =
+    .buttonlabelaccept = เพิ่มเครื่องมือ
+    .buttonaccesskeyaccept = พ
+    .buttonlabelextra1 = ขั้นสูง
+# buttonlabelextra1 is the label of a button to open the advanced section
+# of the dialog.
+edit-engine-dialog =
+    .buttonlabelaccept = บันทึกเครื่องมือ
+    .buttonaccesskeyaccept = บ
+    .buttonlabelextra1 = ขั้นสูง
