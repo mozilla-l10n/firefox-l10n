@@ -94,14 +94,14 @@ bookmarks-toolbar-callout-2b-secondary-button-label = No, gratias
 
 ## Perplexity callout strings
 
-perplexity-callout-theme-1-title = Besonia tu le responsa juste, immediatemente?
+perplexity-callout-theme-1-title = Require tu le responsa juste, immediatemente?
 perplexity-callout-theme-2-title = Essaya Perplexity: un nove maniera de cercar
-perplexity-callout-theme-1-subtitle-1 = Essaya Perplexity. Elige lo ab le button de recerca quando tu vole responsas complete, fontes incluse.
-perplexity-callout-theme-1-subtitle-2 = Pone questiones. Obtene responsas complete, con bon citationes. Pro essayar Perplexity, elige lo ab le button Cercar.
-perplexity-callout-theme-2-subtitle-1 = Demanda a Perplexity. Tu obtenera responsas complete, fontes incluse.
-perplexity-callout-theme-2-subtitle-2 = Pone questiones.  Obtene responsas complete, con bon citationes.
+perplexity-callout-theme-1-subtitle-1 = Essaya Perplexity. Elige lo desde le button de recerca quando tu vole responsas complete, fontes incluse.
+perplexity-callout-theme-1-subtitle-2 = Pone questiones. Obtene responsas complete, con bon citationes. Pro essayar Perplexity, elige lo desde le button Cercar.
+perplexity-callout-theme-2-subtitle-1 = Demanda a Perplexity. Tu recipera responsas complete, fontes incluse.
+perplexity-callout-theme-2-subtitle-2 = Pone questiones. Recipe responsas complete, con bon citationes.
 perplexity-callout-primary-label = Demanda a Perplexity.
-perplexity-callout-secondary-label-1 = Dimitter
+perplexity-callout-secondary-label-1 = Clauder
 perplexity-callout-secondary-label-2 = Comprendite
 
 ## Account Adoption Passwords callout strings

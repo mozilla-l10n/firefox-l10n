@@ -154,9 +154,9 @@ genai-onboarding-lechat-learn = Saper plus re Le Chat
 genai-onboarding-select-header = Seliger texto pro vider suggestiones
 genai-onboarding-select-description = Quando tu selige texto, nos suggerera le suggestiones que tu potera inviar al chatbot. Tu alsi pote inscriber tu proprie suggestiones.
 genai-onboarding-select-primary = Initia a chattar
-genai-chatbot-contextual-title = Usa un robot confabulator IA sin mutar schedas
-genai-chatbot-contextual-subtitle = Chatta e naviga latere a latere addente un robot confabulator IA in le barra lateral de { -brand-short-name }.
-genai-chatbot-contextual-button = Elige un robot confabulator
+genai-chatbot-contextual-title = Usa un chatbot IA sin cambiar de scheda
+genai-chatbot-contextual-subtitle = Conversa e naviga latere a latere quando tu adde un chatbot IA in le barra lateral de { -brand-short-name }.
+genai-chatbot-contextual-button = Elige un chatbot
 genai-chatbot-summarize-title = Nove! Summarisar paginas in un clic
 genai-chatbot-summarize-button = Summarisar pagina
 # “Summarize Page” should be consistent with the translation for the string genai-menu-summarize-page
