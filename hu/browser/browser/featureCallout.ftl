@@ -136,8 +136,10 @@ sidebar-pins-callout-cta-button = Lap rögzítése
 ## Pinning Tabs Strings
 
 pin-tabs-callout-1-title = Tartsa kéznél a fontos lapjait
+pin-tabs-callout-1-subtitle = Húzzon egy lapot a lapsáv elejére a rögzítéséhez. Vagy kattintson rá jobb gombbal, és válassza a Lap rögzítését.
 pin-tabs-callout-cta-1-button = Lap rögzítése
 pin-tabs-callout-2-title = Rögzítse a leggyakrabban látogatott lapokat
+pin-tabs-callout-2-subtitle = Egy lap rögzítéséhez húzza a lapsáv elejére. Vagy kattintson rá jobb gombbal, és válassza a Lap rögzítését.
 pin-tabs-callout-cta-2-button = Lap rögzítése
 pin-tabs-callout-3-title = Tartsa kéznél a fontos webhelyeket
 pin-tabs-callout-4-title = Rögzítse a leggyakrabban látogatott webhelyeket
