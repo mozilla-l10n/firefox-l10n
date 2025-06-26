@@ -49,5 +49,5 @@ experimental-features-link-previews-description-no-ai =
     }
 # New Tab Sections with follow and block
 experimental-features-newtab-sections-follow-block =
-    .label = Electiones per argumento e commandos Sequer/Blocar pro Historias sur nove scheda
-experimental-features-newtab-sections-follow-block-description = Organisa le historias sur tu pagina de nove scheda in sectiones thematic (Sports, Alimentos, Intertenimento e altero) pro un experientia plus structurate e legibile. Usa nostre nove commandos Sequer e Blocar pro personalisar le contento que tu videra. <a data-l10n-name="connect">Condivide commentos</a>
+    .label = Sectiones de topico e Sequer/Blocar pro Historias sur nove scheda
+experimental-features-newtab-sections-follow-block-description = Organisa le historias sur tu pagina de nove scheda in sectiones thematic (Sports, Alimentos, Intertenimento e plus) pro un experientia plus structurate e legibile. Usa nostre nove controlos de Sequer e Blocar pro personalisar le contento que tu videra. <a data-l10n-name="connect">Dar tu opinion</a>

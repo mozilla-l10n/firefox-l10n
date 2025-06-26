@@ -273,6 +273,26 @@ contextual-manager-view-alert-heading =
     .heading = Просмотреть уведомление
 contextual-manager-view-alert-button =
     .tooltiptext = Уведомление об проверке
+# Variables
+#   $count (number) - The number of active alerts associated with the login
+contextual-manager-view-alert-heading-2 =
+    .heading =
+        { $count ->
+            [1] Просмотреть уведомление
+            [one] Просмотреть уведомление
+            [few] Просмотреть уведомления
+           *[many] Просмотреть уведомления
+        }
+# Variables
+#   $count (number) - The number of active alerts associated with the login
+contextual-manager-view-alert-button-2 =
+    .tooltiptext =
+        { $count ->
+            [1] Просмотреть уведомление
+            [one] Просмотреть уведомление
+            [few] Просмотреть уведомления
+           *[many] Просмотреть уведомления
+        }
 contextual-manager-show-password-button =
     .aria-label = Показать пароль
     .title = Показать пароль

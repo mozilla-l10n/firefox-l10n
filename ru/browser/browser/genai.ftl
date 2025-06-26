@@ -51,11 +51,20 @@ genai-menu-ask-generic =
 # $provider (string) - name of the provider
 genai-menu-ask-provider =
     .label = Спросить у { $provider }
+genai-menu-open-generic =
+    .label = Открыть ИИ-чат-бот
+# $provider (string) - name of the provider
+genai-menu-open-provider =
+    .label = Открыть { $provider }
 genai-menu-remove-generic =
     .label = Удалить ИИ-чат-бот
 # $provider (string) - name of the provider
 genai-menu-remove-provider =
     .label = Удалить { $provider }
+genai-menu-remove-sidebar =
+    .label = Удалить с боковой панели
+genai-menu-new-badge = Новый
+genai-menu-summarize-page = Резюме по странице
 genai-input-ask-generic =
     .placeholder = Спросить у ИИ-чат-бота…
 # $provider (string) - name of the provider
@@ -84,6 +93,10 @@ genai-shortcuts-selected-warning =
         }
 genai-shortcuts-hide =
     .label = Скрыть ярлык чат-бота
+genai-menu-no-provider =
+    .label = Спросить ИИ-чат-бота
+genai-menu-choose-chatbot =
+    .label = Выберите ИИ-чат-бот
 
 ## Chatbot header
 
@@ -110,6 +123,7 @@ genai-options-about-chatbot =
 
 ## Chatbot footer
 
+genai-page-button-summarize = Резюме по странице
 
 ## Chatbot onboarding
 
@@ -145,6 +159,15 @@ genai-onboarding-select-primary = Начать чат
 genai-chatbot-contextual-title = Используйте ИИ-чат-бот без переключения вкладок
 genai-chatbot-contextual-subtitle = Общайтесь и сёрфите одновременно, добавив ИИ-чат-бот на боковую панель { -brand-short-name }.
 genai-chatbot-contextual-button = Выберите чат-бот
+genai-chatbot-summarize-title = Новинка! Получайте резюме страниц одним щелчком
+genai-chatbot-summarize-button = Резюме по странице
+# “Summarize Page” should be consistent with the translation for the string genai-menu-summarize-page
+genai-chatbot-summarize-sidebar-provider-subtitle = Щёлкните правой кнопкой мыши по вашему ИИ-чат-боту на боковой панели и выберите «Резюме по странице».
+# “Summarize Page” should be consistent with the translation for the string genai-menu-summarize-page
+genai-chatbot-summarize-sidebar-generic-subtitle = Щёлкните правой кнопкой мыши по кнопке с блестками в боковой панели и выберите «Резюме по странице». В первый раз вы также выберете ИИ-чат-бот.
+# “Summarize page” should be consistent with the translation for the string genai-page-button-summarize
+genai-chatbot-summarize-footer-provider-subtitle = Откройте свой ИИ-чат-бот на боковой панели и выберите внизу «Резюме по странице».
+genai-chatbot-summarize-footer-generic-subtitle = Добавьте ИИ-чат-бот на боковую панель { -brand-short-name }, чтобы быстро получать резюме по страницам.
 
 ## Chatbot onboarding choices
 ## These describe features/capabilities of chatbot providers. These are not buttons/actions.
