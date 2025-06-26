@@ -19,8 +19,8 @@ download-ui-confirm-quit-cancel-downloads-mac =
     }
 download-ui-dont-quit-button =
     { PLATFORM() ->
-        [mac] Να μη γίνει τερματισμός
-       *[other] Να μη γίνει έξοδος
+        [mac] Να μην γίνει τερματισμός
+       *[other] Να μην γίνει έξοδος
     }
 download-ui-confirm-offline-cancel-downloads =
     { $downloadsCount ->

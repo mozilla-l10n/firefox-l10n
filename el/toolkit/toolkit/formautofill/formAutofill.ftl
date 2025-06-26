@@ -34,7 +34,7 @@ credit-card-capture-cancel-button =
     .label = Όχι τώρα
     .accessKey = ρ
 credit-card-capture-never-save-button =
-    .label = Να μη γίνεται ποτέ αποθήκευση καρτών
+    .label = Να μην γίνεται ποτέ αποθήκευση καρτών
     .accessKey = Ν
 
 # Used on the doorhanger when an credit card change is detected.
