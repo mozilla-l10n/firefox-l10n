@@ -656,7 +656,7 @@ home-prefs-weather-description = Prevision hodierne a un colpo de oculos
 home-prefs-weather-learn-more-link = Pro saper plus
 home-prefs-trending-search-header =
     .label = Recercas popular
-home-prefs-trending-search-description = Themas popular e frequentemente recercate
+home-prefs-trending-search-description = Themas popular e frequentemente cercate
 # "Support" here means to help sustain or contribute to something, especially through funding or sponsorship.
 home-prefs-support-firefox-header =
     .label = Supporta { -brand-product-name }
@@ -731,8 +731,8 @@ search-add-engine =
     .label = Adder
     .accesskey = A
 search-edit-engine =
-    .label = Rediger
-    .accesskey = R
+    .label = Modificar
+    .accesskey = M
 search-find-more-link = Adder plus motores de recerca
 # This warning is displayed when the chosen keyword is already in use
 # ('Duplicate' is an adjective)
@@ -744,7 +744,7 @@ search-keyword-warning-bookmark = Tu ha eligite un parola clave que es actualmen
 # This warning is displayed when the chosen name is already in use.
 # Variables:
 #   $name (string) - Name of a search engine.
-edit-engine-name-warning-duplicate = Jam il ha un motor de recerca con le nomine “{ $name }”. Selige un altere nomine.
+edit-engine-name-warning-duplicate = Existe ja un motor de recerca con le nomine “{ $name }”. Elige un altere nomine.
 remove-engine-confirmation = Desira tu vermente remover iste motor de recerca?
 remove-engine-remove = Remover
 remove-addon-engine-alert = Pro remover iste motor de recerca, remove le additivo associate.

@@ -136,11 +136,12 @@ sidebar-pins-callout-cta-button = Clavar le scheda
 ## Pinning Tabs Strings
 
 pin-tabs-callout-1-title = Tene le schedas importante a portata de mano
+pin-tabs-callout-1-subtitle = Trahe un scheda al initio del banda de schedas pro clavar lo. O clicca con le button dextre e selige Clavar scheda.
 pin-tabs-callout-cta-1-button = Clavar iste scheda
 pin-tabs-callout-2-title = Clava schedas que tu visita plus
-pin-tabs-callout-2-subtitle = Pro fixar alcun scheda, trahe lo al initio del banda de scheda. O clicca dextre e selige Fixar Scheda.
+pin-tabs-callout-2-subtitle = Pro clavar un scheda, trahe lo al initio del banda de schedas. O clicca con le button dextre e selige Clavar scheda.
 pin-tabs-callout-cta-2-button = Clavar iste scheda
-pin-tabs-callout-3-title = Tene a portata sitos importante
+pin-tabs-callout-3-title = Tene le schedas importante a portata de mano
 pin-tabs-callout-4-title = Clava sitos que tu visita plus
 
 ## Sidebar Onboarding Strings
