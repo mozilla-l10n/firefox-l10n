@@ -19,7 +19,7 @@ pippki-incorrect-pw = Δεν εισήγατε τον σωστό κωδικό π�
 pippki-pw-change-ok = Επιτυχής αλλαγή κωδικού πρόσβασης.
 pippki-pw-empty-warning = Δεν θα προστατεύονται οι αποθηκευμένοι κωδικοί πρόσβασης και τα ιδιωτικά κλειδιά σας.
 pippki-pw-erased-ok = Ο κωδικός πρόσβασής σας έχει διαγραφεί. { pippki-pw-empty-warning }
-pippki-pw-not-wanted = Προσοχή! Αποφασίσατε να μη χρησιμοποιήσετε κωδικό πρόσβασης. { pippki-pw-empty-warning }
+pippki-pw-not-wanted = Προειδοποίηση! Έχετε αποφασίσει να μην χρησιμοποιήσετε κωδικό πρόσβασης. { pippki-pw-empty-warning }
 pippki-pw-change2empty-in-fips-mode = Βρίσκεστε σε λειτουργία FIPS . Το FIPS απαιτεί ένα μη κενό κωδικό πρόσβασης.
 
 ## Reset Primary Password dialog
