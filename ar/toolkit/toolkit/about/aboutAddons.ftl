@@ -270,6 +270,7 @@ discopane-notice-recommendations = بعض هذه المُقترحات مخصّص
 discopane-notice-recommendations2 =
     .message = بعض هذه المُقترحات مخصّصة لك، إذ تعتمد على الامتدادات التي ثبّتها وتفضيلات الملف الشخصي وإحصاءات الاستخدام.
 discopane-notice-learn-more = اطّلع على المزيد
+colorway-removal-notice-learn-more = اطّلع على المزيد
 privacy-policy = سياسة الخصوصية
 # Refers to the author of an add-on, shown below the name of the add-on.
 # Variables:
@@ -526,3 +527,13 @@ plugins-widevine-description = تتيح هذه الملحقة تشغيل الو�
 
 ## Mapping Engine IDs from AI models to how that feature represented by the engine Id is described in the used by section in local model management
 
+# Label for button that when clicked removed local model
+mlmodel-remove-addon-button =
+    .aria-label = أزِل
+# Label for the aggregated value of all files for a model
+mlmodel-addon-detail-totalsize-label = حجم الملف
+mlmodel-addon-detail-last-used-label = آخر استخدام
+# This is a section label to describe what extensions or features use a specific local AI model
+mlmodel-addon-detail-used-by-label = يستخدمُها
+# This is a section label to describe the link to the model card on the Hugging Face website
+mlmodel-addon-detail-model-card = بطاقة نموذجية
