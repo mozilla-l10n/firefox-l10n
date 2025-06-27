@@ -51,6 +51,11 @@ genai-menu-ask-generic =
 # $provider (string) - name of the provider
 genai-menu-ask-provider =
     .label = { $provider } fragen
+genai-menu-open-generic =
+    .label = KI-Chatbot öffnen
+# $provider (string) - name of the provider
+genai-menu-open-provider =
+    .label = { $provider } öffnen
 genai-menu-remove-generic =
     .label = KI-Chatbot entfernen
 # $provider (string) - name of the provider
@@ -86,6 +91,10 @@ genai-shortcuts-selected-warning =
         }
 genai-shortcuts-hide =
     .label = Chatbot-Verknüpfung ausblenden
+genai-menu-no-provider =
+    .label = Fragen Sie einen KI-Chatbot
+genai-menu-choose-chatbot =
+    .label = Wählen Sie einen KI-Chatbot
 
 ## Chatbot header
 
@@ -112,6 +121,7 @@ genai-options-about-chatbot =
 
 ## Chatbot footer
 
+genai-page-button-summarize = Seite zusammenfassen
 
 ## Chatbot onboarding
 
@@ -147,6 +157,13 @@ genai-onboarding-select-primary = Chat starten
 genai-chatbot-contextual-title = Verwenden Sie einen KI-Chatbot, ohne Tabs zu wechseln
 genai-chatbot-contextual-subtitle = Chatten und surfen Sie Seite an Seite, wenn Sie einen KI-Chatbot in der { -brand-short-name }-Sidebar hinzufügen.
 genai-chatbot-contextual-button = Wählen Sie einen Chatbot
+genai-chatbot-summarize-title = Neu! Fassen Sie Seiten mit einem Klick zusammen
+genai-chatbot-summarize-button = Seite zusammenfassen
+# “Summarize Page” should be consistent with the translation for the string genai-menu-summarize-page
+genai-chatbot-summarize-sidebar-provider-subtitle = Klicken Sie mit der rechten Maustaste auf Ihren KI-Chatbot in der Sidebar und wählen Sie "Seite zusammenfassen".
+# “Summarize page” should be consistent with the translation for the string genai-page-button-summarize
+genai-chatbot-summarize-footer-provider-subtitle = Öffnen Sie Ihren KI-Chatbot in der Sidebar und wählen Sie unten "Seite zusammenfassen".
+genai-chatbot-summarize-footer-generic-subtitle = Fügen Sie einen KI-Chatbot in der { -brand-short-name }-Sidebar hinzu, um Seiten schnell zusammenzufassen.
 
 ## Chatbot onboarding choices
 ## These describe features/capabilities of chatbot providers. These are not buttons/actions.

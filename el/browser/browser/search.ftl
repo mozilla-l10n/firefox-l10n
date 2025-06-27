@@ -78,9 +78,9 @@ add-engine-keyword-placeholder =
 
 add-engine-keyword-exists = Αυτή η λέξη-κλειδί χρησιμοποιείται ήδη. Δοκιμάστε μια άλλη.
 add-engine-name-exists = Αυτό το όνομα χρησιμοποιείται ήδη. Δοκιμάστε ένα άλλο.
-add-engine-no-name = Παρακαλούμε προσθέστε όνομα.
-add-engine-no-url = Παρακαλώ εισάγετε ένα URL.
-add-engine-invalid-url = Αυτό το URL δεν φαίνεται σωστό. Παρακαλούμε ελέγξτε το και δοκιμάστε ξανά.
+add-engine-no-name = Προσθέστε ένα όνομα.
+add-engine-no-url = Εισαγάγετε ένα URL.
+add-engine-invalid-url = Αυτό το URL δεν φαίνεται σωστό. Ελέγξτε το και δοκιμάστε ξανά.
 add-engine-invalid-protocol = Αυτό το URL δεν φαίνεται σωστό. Χρησιμοποιήστε URL που ξεκινά με http ή https.
 # This error is shown when the user typed URL is missing %s.
 add-engine-missing-terms-url = Δοκιμάστε να συμπεριλάβετε το %s στη θέση του όρου αναζήτησης.
