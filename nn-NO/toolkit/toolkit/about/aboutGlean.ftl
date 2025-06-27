@@ -19,6 +19,7 @@ about-glean-interface-description =
 about-glean-category-about-glean = Om { -glean-brand-name }
 about-glean-category-manual-testing = Manuell testing
 about-glean-category-adhoc-testing = Ad hoc-testing
+about-glean-category-profiler = Bruk av profileringsverktøyet
 about-glean-category-about-data = Om data
 about-glean-upload-enabled = Dataopplasting er aktivert.
 about-glean-upload-disabled = Dataopplasting er deaktivert.

@@ -537,6 +537,11 @@ permissions-data-addon-button = Løyve og data
 
 ## Mapping Engine IDs from AI models to how that feature represented by the engine Id is described in the used by section in local model management
 
+# AI Model will be downloaded on the users device and used locally
+addon-category-mlmodel = AI på eininga
+addon-category-mlmodel-title =
+    .title = AI på eininga
+mlmodel-heading = Handsam AI-modellar på eininga
 # Label for button that when clicked removed local model
 mlmodel-remove-addon-button =
     .aria-label = Fjern

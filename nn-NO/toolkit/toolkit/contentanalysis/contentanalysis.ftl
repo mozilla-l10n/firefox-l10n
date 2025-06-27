@@ -25,6 +25,10 @@ contentanalysis-operationtype-clipboard = utklippstavle
 contentanalysis-operationtype-dropped-text = sleppt tekst
 contentanalysis-operationtype-print = skriv ut
 #   $filename - The filename associated with the request, such as "aFile.txt"
+contentanalysis-upload-description = opplasting av «{ $filename }»
+#   $filename - The filename associated with the request, such as "aFile.txt"
+contentanalysis-download-description = nedlasting av «{ $filename }»
+#   $filename - The filename associated with the request, such as "aFile.txt"
 contentanalysis-customdisplaystring-description = opplasting av «{ $filename }»
 contentanalysis-warndialogtitle = Dette innhaldet kan vere utrygt
 # Variables:
