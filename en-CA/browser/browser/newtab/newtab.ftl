@@ -528,6 +528,18 @@ newtab-section-mangage-topics-blocked-topics-empty-state = You have not blocked 
 
 ## Strings for reporting ads and content
 
+newtab-report-cancel = Cancel
+newtab-report-submit = Submit
+newtab-toast-thanks-for-reporting =
+    .message = Thank you for reporting this.
 
 ## Strings for trending searches
 
+# "Trending on Google" refers to the trending topics coming from Google Search, usually seen when a user is focused on the search bar
+newtab-trending-searches-trending-on-google = Trending on Google
+newtab-trending-searches-show-trending =
+    .title = Show trending searches
+newtab-trending-searches-hide-trending =
+    .title = Hide trending searches
+newtab-trending-searches-learn-more = Learn more
+newtab-trending-searches-dismiss = Hide trending searches
