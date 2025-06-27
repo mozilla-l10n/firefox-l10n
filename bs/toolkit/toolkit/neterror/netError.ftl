@@ -6,18 +6,28 @@
 ## Error page titles
 
 neterror-page-title = Problem sa učitavanjem stranice
+certerror-page-title = Upozorenje: Potencijalni sigurnosni rizik
+certerror-sts-page-title = Nisam se povezao: Potencijalni sigurnosni problem
+neterror-blocked-by-policy-page-title = Blokirana stranica
 neterror-captive-portal-page-title = Prijavi se na mrežu
 neterror-dns-not-found-title = Server nije pronađen
 neterror-malformed-uri-page-title = Neispravan URL
+general-body-title = Budite oprezni. Nešto ne izgleda kako treba.
+problem-with-this-site-title = Izgleda da postoji problem s ovom stranicom
 
 ## Error page actions
 
+neterror-advanced-button = Napredno…
 neterror-copy-to-clipboard-button = Kopiraj tekst na clipboard
 neterror-learn-more-link = Saznajte više…
 neterror-open-portal-login-page-button = Otvori stranicu za prijavu na mrežu
+neterror-override-exception-button = Prihvati rizik i nastavi
 neterror-pref-reset-button = Vrati početne postavke
 neterror-return-to-previous-page-button = Idi nazad
+neterror-return-to-previous-page-recommended-button = Idi nazad (preporučeno)
 neterror-try-again-button = Pokušaj ponovo
+neterror-add-exception-button = Uvijek nastavi za ovu stranicu
+neterror-settings-button = Promijenite postavke DNS-a
 
 ##
 

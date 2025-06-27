@@ -182,7 +182,11 @@ fp-certerror-why-site-dangerous = Šta čini da stranica izgleda opasno?
 fp-certerror-what-can-you-do = Šta možete učiniti povodom toga?
 fp-certerror-advanced-title = Napredno
 fp-certerror-advanced-button = Napredno
+fp-certerror-hide-advanced-button = Sakrij napredno
 
 ## Variables:
 ##   $hostname (String) - Hostname of the website to which the user was trying to connect.
 
+fp-certerror-override-exception-button = Nastavite na { $hostname } (Rizično)
+fp-certerror-intro = { -brand-short-name } je uočio potencijalno ozbiljan sigurnosni problem sa web stranicom <strong>{ $hostname }</strong>. Neko ko se pretvara da je ta stranica mogao bi pokušati ukrasti stvari poput podataka o kreditnoj kartici, lozinki ili e-mailova.
+fp-certerror-expired-into = { -brand-short-name } je uočio sigurnosni problem sa web stranicom <strong>{ $hostname }</strong>. Ili stranica nije ispravno postavljena ili je sat na vašem uređaju postavljen na pogrešan datum/vrijeme.
