@@ -1243,7 +1243,7 @@ enhanced-tracking-protection-setting-custom =
 
 ##
 
-content-blocking-etp-standard-desc = Барои муҳофизат ва кори самаранок мутаносиб мебошад. Саҳифаҳо ба таври одӣ бор карда мешаванд.
+content-blocking-etp-standard-desc = Барои муҳофизат ва кори самаранок мутаносиб мебошад. Саҳифаҳо ба таври оддӣ бор карда мешаванд.
 content-blocking-etp-strict-desc = Муҳофизати қавитар, аммо метавонад боиси вайрон шудани баъзеи сомонаҳо ё муҳтаво гардад.
 content-blocking-etp-custom-desc = Интихоб кунед, ки кадом васоити пайгирӣ ва скриптҳо бояд баста шаванд.
 content-blocking-etp-blocking-desc = «{ -brand-short-name }» зеринро манъ мекунад:
@@ -1453,7 +1453,7 @@ security-block-downloads =
     .label = Манъ кардани боргириҳои зараровар
     .accesskey = М
 security-block-uncommon-software =
-    .label = Огоҳ кардан дар бораи нармафзори номатлуб ва ғайриодӣ
+    .label = Огоҳ кардан дар бораи нармафзори номатлуб ва ғайриоддӣ
     .accesskey = О
 
 ## Privacy Section - Certificates

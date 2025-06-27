@@ -441,8 +441,8 @@ newtab-weather-menu-weather-display = Намоиши обу ҳаво
 # Display options are:
 # - Simple: Displays a current weather condition icon and the current temperature
 # - Detailed: Include simple information plus a short text summary: e.g. "Mostly cloudy"
-newtab-weather-menu-weather-display-option-simple = Одӣ
-newtab-weather-menu-change-weather-display-simple = Гузариш ба намуди одӣ
+newtab-weather-menu-weather-display-option-simple = Оддӣ
+newtab-weather-menu-change-weather-display-simple = Гузариш ба намуди оддӣ
 newtab-weather-menu-weather-display-option-detailed = Ботафсил
 newtab-weather-menu-change-weather-display-detailed = Гузариш ба намуди ботафсил
 newtab-weather-menu-temperature-units = Воҳидҳои ченаки ҳарорат
