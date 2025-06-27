@@ -135,7 +135,14 @@ sidebar-pins-callout-cta-button = Prikvači karticu
 
 ## Pinning Tabs Strings
 
-pin-tabs-callout-1-title = Imaj važne kartice nadohvat ruke
+pin-tabs-callout-1-title = Drži važne kartice nadohvat ruke
+pin-tabs-callout-1-subtitle = Prikvači karticu povlačeći je na početak trake kartica. Ili klikni desnom tipkom miša i odaberi „Prikvači karticu”.
+pin-tabs-callout-cta-1-button = Prikvači ovu karticu
+pin-tabs-callout-2-title = Prikvači kartice koje najčešće posjećuješ
+pin-tabs-callout-2-subtitle = Prikvači karticu povlačeći je na početak trake kartica. Ili klikni desnom tipkom miša i odaberi „Prikvači karticu”.
+pin-tabs-callout-cta-2-button = Prikvači ovu karticu
+pin-tabs-callout-3-title = Drži važne web stranice nadohvat ruke
+pin-tabs-callout-4-title = Prikvači web stranice koje najčešće posjećuješ
 
 ## Sidebar Onboarding Strings
 

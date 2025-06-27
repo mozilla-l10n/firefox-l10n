@@ -51,11 +51,20 @@ genai-menu-ask-generic =
 # $provider (string) - name of the provider
 genai-menu-ask-provider =
     .label = Pitaj { $provider }
+genai-menu-open-generic =
+    .label = Otvori UI chatbot
+# $provider (string) - name of the provider
+genai-menu-open-provider =
+    .label = Otvori { $provider }
 genai-menu-remove-generic =
     .label = Ukloni UI chatbot
 # $provider (string) - name of the provider
 genai-menu-remove-provider =
     .label = Ukloni { $provider }
+genai-menu-remove-sidebar =
+    .label = Ukloni iz bočne trake
+genai-menu-new-badge = Novi
+genai-menu-summarize-page = Sažmi stranicu
 genai-input-ask-generic =
     .placeholder = Pitaj UI chatbota …
 # $provider (string) - name of the provider
