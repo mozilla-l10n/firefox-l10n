@@ -136,9 +136,10 @@ sidebar-pins-callout-cta-button = Pegar pestaña
 ## Pinning Tabs Strings
 
 pin-tabs-callout-1-title = Mantenga las pestañas importantes a su alcance
+pin-tabs-callout-1-subtitle = Arrastre una pestaña al comienzo de la barra de pestañas para pegarla. O haga clic con el botón derecho y elija Pegar pestaña.
 pin-tabs-callout-cta-1-button = Pegar esta pestaña
 pin-tabs-callout-2-title = Pegar las pestañas más visitadas
-pin-tabs-callout-2-subtitle = Para pegar cualquier pestaña, arrastrala al comienzo de la barra de pestañas. O hacé clic con el botón derecho y elegí Pegar pestaña.
+pin-tabs-callout-2-subtitle = Para pegar cualquier pestaña, arrastrela al comienzo de la barra de pestañas. O haga clic con el botón derecho y elija Pegar pestaña.
 pin-tabs-callout-cta-2-button = Pegar esta pestaña
 pin-tabs-callout-3-title = Mantenga los sitios importantes a su alcance
 pin-tabs-callout-4-title = Pegar los sitios más visitados
