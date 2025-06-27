@@ -229,7 +229,7 @@ about-webrtc-frame-stats-heading = Στατιστικά καρέ βίντεο - 
 
 ##
 
-about-webrtc-save-page-msg = η σελίδα αποθηκεύτηκε στην διαδρομή: { $path }
+about-webrtc-save-page-msg = η σελίδα αποθηκεύτηκε στη διαδρομή: { $path }
 about-webrtc-debug-mode-off-state-msg = το αρχείο πληροφοριών μπορεί να βρεθεί στο: { $path }
 about-webrtc-debug-mode-on-state-msg = κατάσταση ελέγχου σφαλμάτων ενεργή, αρχείο καταγραφής στο: { $path }
 about-webrtc-aec-logging-off-state-msg = τα αρχεία καταγραφής μπορούν να βρεθούν στο: { $path }
@@ -237,7 +237,7 @@ about-webrtc-aec-logging-off-state-msg = τα αρχεία καταγραφής 
 # bug reports.
 # Variables:
 #  $path (String) - The path to which the file is saved.
-about-webrtc-save-page-complete-msg = Η σελίδα αποθηκεύτηκε στην διαδρομή: { $path }
+about-webrtc-save-page-complete-msg = Η σελίδα αποθηκεύτηκε στη διαδρομή: { $path }
 # This is the total number of frames encoded or decoded over an RTP stream.
 # Variables:
 #  $frames (Number) - The number of frames encoded or decoded.
