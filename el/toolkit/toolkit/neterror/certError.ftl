@@ -54,7 +54,7 @@ cert-error-code-prefix-link = Κωδικός σφάλματος: <a data-l10n-na
 # Variables:
 #   $hostname (string) - Hostname of the website with SSL error.
 #   $errorMessage (string) - Error message corresponding to the type of error we are experiencing.
-cert-error-ssl-connection-error = Προέκυψε σφάλμα κατά την σύνδεση στο { $hostname }. { $errorMessage }
+cert-error-ssl-connection-error = Προέκυψε σφάλμα κατά τη σύνδεση στο { $hostname }. { $errorMessage }
 # Variables:
 #   $hostname (string) - Hostname of the website with cert error.
 cert-error-symantec-distrust-description = Οι ιστότοποι αποδεικνύουν την ταυτότητά τους μέσω πιστοποιητικών, τα οποία εκδίδονται από αρχές πιστοποιητικών. Τα περισσότερα προγράμματα περιήγησης δεν εμπιστεύονται πλέον πιστοποιητικά από τις GeoTrust, RapidSSL, Symantec, Thawte και VeriSign. Το { $hostname } χρησιμοποιεί ένα πιστοποιητικό από μία από αυτές τις αρχές και για τον λόγο αυτό, η ταυτότητα του ιστοτόπου δεν μπορεί να αποδειχθεί.
