@@ -72,13 +72,13 @@ about-logging-configuration-url-ignored = Configuration URL ignorate
 about-logging-file-and-profiler-override = Impossibile fortiar un file de exito e al mesme tempore supplantar le optiones del profilator
 # Variables:
 #   $errorText (string) - The received error message, inserted as is.
-about-logging-unknown-error = Un error eveniva: { $errorText }
+about-logging-unknown-error = Un error ha occurrite: { $errorText }
 about-logging-configured-via-url = Option configurate per URL
 
 ## The upload interface is shown only with the preference toolkit.aboutLogging.uploadProfileToCloud
 ## set to true. It is false by default, except on Android.
 
-about-logging-upload-question = Le datos de profilo ha essite recipite. Vole tu salvar o inviar los?
+about-logging-upload-question = Le datos de profilo ha essite capturate. Vole tu salvar o inviar los?
 about-logging-save-button = Salvar
 about-logging-upload-button = Cargar
 # Variables:
@@ -86,14 +86,14 @@ about-logging-upload-button = Cargar
 about-logging-saved = Salvate a { $path }
 # Variables:
 #   $percent (number) - The upload completion progress, to be displayed as a percentage. This is a value between 0 and 1.
-about-logging-uploading-progress = Cargante datos del profilo: { NUMBER($percent, maximumSignificantDigits: 2, style: "percent") }
+about-logging-uploading-progress = Incargante le datos del profilo: { NUMBER($percent, maximumSignificantDigits: 2, style: "percent") }
 # Variables:
 #   $url (string) - The URL where the profile can be found
-about-logging-uploaded = Cargate a <a data-l10n-name="uploaded-message-url">{ $url }</a>
+about-logging-uploaded = Incargate a <a data-l10n-name="uploaded-message-url">{ $url }</a>
 about-logging-share-uploaded-url = <img data-l10n-name="share-image"/> Compartir URL
 # Variables:
 #   $errorText (string) - The received error message, inserted as is.
-about-logging-upload-error = Un error eveniva cargante le profilo: { $errorText }
+about-logging-upload-error = Un error ha occurrite durante le incargamento del profilo: { $errorText }
 # Variables:
 #   $errorText (string) - The received error message, inserted as is.
-about-logging-save-error = Un error eveniva salvante le file: { $errorText }
+about-logging-save-error = Un error ha occurrite durante le salvamento del file: { $errorText }
