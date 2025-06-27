@@ -44,8 +44,8 @@ experimental-features-link-previews-description =
 # This version of the link previews description does not mention AI.
 experimental-features-link-previews-description-no-ai =
     { PLATFORM() ->
-        [macos] Pro saper plus re un pagina web ante que tu clicca, survola un ligamine e pulsa Majusc (⇧) plus Option (⌥) o Alt. Le vistas preliminar pote includer detalios como titulo e tempore de lectura. <a data-l10n-name="connect">Comparti tu commentario</a>
-       *[other] Pro saper plus re un pagina web ante que tu clicca, survola un ligamine e pulsa Majusc + Alt. Le vistas preliminar pote includer detalios como titulo e tempore de lectura. <a data-l10n-name="connect">Comparti tu commentario</a>
+        [macos] Pro saper plus sur un pagina web ante que tu clicca, passa le mouse supra un ligamine e preme Shift (⇧) insimul a Option (⌥) o Alt. Le previsualisationes pote includer detalios como titulo e tempore de lectura. <a data-l10n-name="connect">Dar tu opinion</a>
+       *[other] Pro saper plus sur un pagina web ante que tu clicca, passa le mouse supra un ligamine e preme Shift + Alt. Le previsualisationes pote includer detalios como titulo e tempore de lectura. <a data-l10n-name="connect">Dar tu opinion</a>
     }
 # New Tab Sections with follow and block
 experimental-features-newtab-sections-follow-block =

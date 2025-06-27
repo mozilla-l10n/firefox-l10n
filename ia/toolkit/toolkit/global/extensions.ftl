@@ -15,17 +15,17 @@ webext-perms-header-with-perms = Adder { $extension }? Iste extension habera le 
 webext-perms-header-unsigned = Adder { $extension }? Iste extension non ha essite verificate. Extensiones malevolente pote robar tu informationes personal o compromitter tu computator. Solmente installa iste extension si tu confide in su origine.
 webext-perms-header-unsigned-with-perms = Adder { $extension }? Iste extension non ha essite verificate. Extensiones malevolente pote robar tu informationes personal o compromitter tu computator. Solmente installa iste extension si tu confide in su origine. Iste extension habera le permission de:
 webext-perms-sideload-header = { $extension } addite
-webext-perms-optional-perms-header2 = { $extension } require altere permissos
+webext-perms-optional-perms-header2 = { $extension } require permissiones additional
 webext-perms-optional-perms-header = { $extension } require altere permissiones.
 webext-perms-header2 = Adder { $extension }
 webext-perms-list-intro-unsigned = Iste extension non verificate poterea poner tu confidentialitate a risco o compromitter tu apparato. Solo adde lo si tu te fide del fonte.
 
 ## Headers used in the webextension permissions dialog, inside the content.
 
-webext-perms-header-required-perms = Permissos requirite:
+webext-perms-header-required-perms = Permissiones necessari:
 webext-perms-header-optional-settings = Parametros optional:
-webext-perms-header-update-required-perms = Nove permissos obligatori:
-webext-perms-header-optional-required-perms = Nove permissos:
+webext-perms-header-update-required-perms = Nove permissiones necessari:
+webext-perms-header-optional-required-perms = Nove permissiones:
 webext-perms-header-data-collection-perms = Collection de datos necessari:
 webext-perms-header-data-collection-is-none = Collection de datos:
 # This is a header used in the add-ons "update" prompt, shown when the new
@@ -53,7 +53,7 @@ webext-perms-sideload-cancel =
     .accesskey = C
 # Variables:
 #   $extension (String): replaced with the localized name of the extension.
-webext-perms-update-text2 = { $extension } ha essite actualisate. Tu debe approbar nove permissos ante que le version actualisate sera installate. Eliger “Cancellar” mantenera tu actual version del extension.
+webext-perms-update-text2 = { $extension } ha essite actualisate. Tu debe approbar nove permissiones pro poter installar le version actualisate. Eliger “Cancellar” mantenera tu version actual del extension.
 # Variables:
 #   $extension (String): replaced with the localized name of the extension.
 webext-perms-update-text = { $extension } ha essite actualisate. Tu debe approbar le nove permissiones ante que le nove version es installate. Seliger “Cancellar” mantenera le version actual de tu extension. Iste extension habera le permission de:
@@ -124,10 +124,10 @@ webext-perms-update-text-with-data-collection = { $extension } require nove para
 webext-perms-update-list-intro-with-data-collection = Cancella pro mantener tu version e parametros actual, o actualisa pro obtener le nove version e approbar le cambiamentos.
 # Variables:
 #   $extension (String): replaced with the localized name of the extension.
-webext-perms-optional-text-with-data-collection = { $extension } require parametros additional
+webext-perms-optional-text-with-data-collection = { $extension } requesta parametros additional
 # Variables:
 #   $extension (String): replaced with the localized name of the extension.
-webext-perms-optional-text-with-data-collection-only = { $extension } require collection de datos additional
+webext-perms-optional-text-with-data-collection-only = { $extension } requesta collection de datos additional
 
 ## Headers used in the webextension permissions dialog for synthetic add-ons.
 ## The part of the string describing what privileges the extension gives should be consistent
@@ -165,5 +165,5 @@ webext-site-perms-midi-sysex = Acceder al apparatos MIDI que supporta SysEx
 
 ## Colorway theme migration
 
-webext-colorway-theme-migration-notification-message = <b>Tu thema de combination de colores era removite.</b> { -brand-shorter-name } actualisava su collection de combinationes de colores. Tu pote cercar le ultime versiones sur le sito del additivos.
-webext-colorway-theme-migration-notification-button = Obtene combinationes de colores actualisate
+webext-colorway-theme-migration-notification-message = <b>Tu thema de combination de colores ha essite removite.</b> { -brand-shorter-name } ha actualisate su collection de combinationes de colores. Tu pote cercar le ultime versiones sur le sito del additivos.
+webext-colorway-theme-migration-notification-button = Obtener combinationes de colores actualisate
