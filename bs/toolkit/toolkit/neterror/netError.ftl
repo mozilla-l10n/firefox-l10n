@@ -28,6 +28,9 @@ neterror-return-to-previous-page-recommended-button = Idi nazad (preporučeno)
 neterror-try-again-button = Pokušaj ponovo
 neterror-add-exception-button = Uvijek nastavi za ovu stranicu
 neterror-settings-button = Promijenite postavke DNS-a
+neterror-view-certificate-link = Prikaži certifikat
+neterror-trr-continue-this-time = Nastavi ovaj put
+neterror-disable-native-feedback-warning = Uvijek nastavi
 
 ##
 
