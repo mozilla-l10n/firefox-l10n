@@ -334,7 +334,7 @@ multi-cta-fox-doodle-pin-checkbox =
        *[other] Καρφίτσωμα του { -brand-short-name } στη γραμμή εργασιών
     }
 multi-cta-fox-doodle-start-browsing-primary-button-label = Έναρξη περιήγησης
-multi-cta-fox-doodle-main-browser-primary-button-label = Ορισμός { -brand-short-name } ως κύριου φυλλομετρητή
+multi-cta-fox-doodle-main-browser-primary-button-label = Ορισμός του { -brand-short-name } ως προεπιλογής
 multi-cta-fox-doodle-quick-reminder-subtitle = Ακολουθεί μια γρήγορη υπενθύμιση ότι μπορείτε να έχετε το αγαπημένο σας πρόγραμμα περιήγησης που έχει ως επίκεντρο το απόρρητό σας, μόνο ένα κλικ μακριά.
 multi-cta-fox-doodle-privacy-focused-subtitle =
     { PLATFORM() ->
