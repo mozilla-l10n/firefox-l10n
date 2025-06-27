@@ -26,18 +26,20 @@ xpath-invalid-var-name = Error de interpretation XPath: nomine de variabile inva
 xpath-unexpected-end = Error de interpretation XPath: fin del expression inexpectate:
 xpath-operator-expected = Error de interpretation XPath: operator expectate:
 xpath-unclosed-literal = Error de interpretation XPath: valor litteral non terminate:
-xpath-illegal-char = Falta in le interpretation XPath: character illegal trovate:
-xpath-binary-expected = Falta in le interpretation XPath: operator binari expectate:
+xpath-bad-colon = Error de interpretation XPath: ‘:’ inexpectate:
+xpath-bad-bang = Error de interpretation XPath: ‘!’ inexpectate, le negation es not():
+xpath-illegal-char = Error de interpretation XPath: character invalide trovate:
+xpath-binary-expected = Error de interpretation XPath: operator binari expectate:
 xslt-load-blocked-error = Un folio de stilo XSLT ha essite blocate pro rationes de securitate.
 xpath-invalid-expression-evaluated = Evalutation de un expression invalide.
 xpath-unbalanced-curly-brace = Parentheses crispe non balanciate.
 xslt-bad-node-name = Creation de un elemento con un QName non valide.
-xslt-var-already-set = Un ligatura de variabile pone in umbra un altere ligatura de variabile in le mesme modello.
+xslt-var-already-set = Un ligatura de variabile obscura un altere ligatura de variabile in le mesme modello.
 xslt-call-to-key-not-allowed = Appello al function “key” non permittite.
 # Other failures, not found in the previous ones.
 # Variables:
 #   $errorCode (String) - The error code (formatted in hexadecimal)
-xslt-unknown-error = Un error incognite occurreva ({ $errorCode })
+xslt-unknown-error = Un error incognite ha occurrite ({ $errorCode })
 
 ## Messages for the XML error page.
 ##
@@ -45,5 +47,5 @@ xslt-unknown-error = Un error incognite occurreva ({ $errorCode })
 ##   $error (string) - the specific XSLT or XPath error (a translated string
 ##   from the previous section)
 
-xslt-loading-error = Error de cargar le folio de stilo: { $error }
+xslt-loading-error = Error durante le cargamento del folio de stilo: { $error }
 xslt-transform-error = Error durante le transformation XSLT: { $error }

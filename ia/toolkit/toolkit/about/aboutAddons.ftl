@@ -269,11 +269,11 @@ discopane-notice-recommendations2 =
 discopane-notice-learn-more = Saper plus
 # Notice for the colorway theme removal
 colorway-removal-notice-message =
-    .heading = Tu thema(s) de combination de colores era removite.
+    .heading = Tu thema(s) de combination de colores ha essite removite.
     .message =
-        	{ -brand-product-name } actualisava su collection de combinationes de colores. Nos removeva
-        
-        le version(es) vetere del tu lista de “Themas salvate”. Obtene nove versiones sur le sito del additivos.
+        { -brand-product-name } ha actualisate su collection de combinationes de colores.
+        Nos ha removite le version(es) ancian de tu lista de “Themas salvate”.
+        Obtene nove versiones sur le sito de additivos.
 colorway-removal-notice-learn-more = Pro saper plus
 colorway-removal-notice-button = Obtene themas de combination de colores actualisate
 privacy-policy = Politica de confidentialitate
