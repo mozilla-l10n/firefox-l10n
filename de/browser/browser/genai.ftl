@@ -56,7 +56,10 @@ genai-menu-remove-generic =
 # $provider (string) - name of the provider
 genai-menu-remove-provider =
     .label = { $provider } entfernen
+genai-menu-remove-sidebar =
+    .label = Aus Sidebar entfernen
 genai-menu-new-badge = Neu
+genai-menu-summarize-page = Seite zusammenfassen
 genai-input-ask-generic =
     .placeholder = KI-Chatbot fragen…
 # $provider (string) - name of the provider

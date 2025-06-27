@@ -106,6 +106,9 @@ perplexity-callout-secondary-label-2 = Verstanden
 
 ## Account Adoption Passwords callout strings
 
+# Suggestion to backup passwords by signing up for Mozilla account and using sync
+fxa-adoption-passwords-title = Passwort gespeichert. Jetzt sichern wir es.
+fxa-adoption-passwords-subtitle = Schützen Sie Ihre Passwörter, indem Sie diese verschlüsselt mit Ihren Geräten synchronisieren.
 # Opens Mozilla accounts sign-up page
 fxa-adoption-passwords-primary-button-label = Registrieren
 

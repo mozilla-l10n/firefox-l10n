@@ -262,6 +262,24 @@ contextual-manager-view-alert-heading =
     .heading = Warnung ansehen
 contextual-manager-view-alert-button =
     .tooltiptext = Warnung überprüfen
+# Variables
+#   $count (number) - The number of active alerts associated with the login
+contextual-manager-view-alert-heading-2 =
+    .heading =
+        { $count ->
+            [1] Warnung ansehen
+            [one] Warnung ansehen
+           *[other] Warnungen ansehen
+        }
+# Variables
+#   $count (number) - The number of active alerts associated with the login
+contextual-manager-view-alert-button-2 =
+    .tooltiptext =
+        { $count ->
+            [1] Warnung überprüfen
+            [one] Warnung überprüfen
+           *[other] Warnungen überprüfen
+        }
 contextual-manager-show-password-button =
     .aria-label = Passwort anzeigen
     .title = Passwort anzeigen
