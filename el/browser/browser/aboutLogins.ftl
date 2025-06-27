@@ -309,7 +309,7 @@ confirm-discard-changes-dialog-confirm-button = Απόρριψη
 ## Breach Alert notification
 
 about-logins-breach-alert-title = Παραβίαση ιστοτόπου
-breach-alert-text = Από την τελευταία φορά που αλλάξατε τα στοιχεία σύνδεσής σας σε αυτόν τον ιστότοπο, έχουν υπάρξει περιπτώσεις διαρροής ή κλοπής κωδικών. Για να προστατεύσετε το λογαριασμό σας, αλλάξτε τον κωδικό σας.
+breach-alert-text = Από την τελευταία φορά που αλλάξατε τα στοιχεία σύνδεσής σας σε αυτόν τον ιστότοπο, έχουν υπάρξει περιπτώσεις διαρροής ή κλοπής κωδικών πρόσβασης. Για να προστατέψετε τον λογαριασμό σας, αλλάξτε τον κωδικό πρόσβασής σας.
 about-logins-breach-alert-date = Η παραβίαση συνέβη στις { DATETIME($date, day: "numeric", month: "long", year: "numeric") }
 # Variables:
 #   $hostname (String) - The hostname of the website associated with the login, e.g. "example.com"
