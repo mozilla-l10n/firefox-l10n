@@ -75,7 +75,7 @@ options-styleeditor-label = Επεξεργασία στυλ
 # The label for the checkbox that toggles autocompletion of css in the Style Editor
 options-stylesheet-autocompletion-label = Αυτόματη συμπλήρωση CSS
 options-stylesheet-autocompletion-tooltip =
-    .title = Αυτόματη συμπλήρωση ιδιοτήτων CSS, τιμών και επιλογέων στην Επεξεργασία Στυλ καθώς πληκτρολογείτε
+    .title = Αυτόματη συμπλήρωση ιδιοτήτων CSS, τιμών και επιλογέων στην Επεξεργασία μορφοποίησης καθώς πληκτρολογείτε
 
 ## Screenshot section
 

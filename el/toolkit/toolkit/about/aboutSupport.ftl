@@ -22,7 +22,7 @@ support-addons-id = ID
 # location has name. For instance: app-system-addons, app-builtin,
 # app-temporary, etc.
 support-addons-location-name = Τοποθεσία
-legacy-user-stylesheets-title = Φύλλα στυλ χρήστη παλαιού τύπου
+legacy-user-stylesheets-title = Παλαιού τύπου φύλλα μορφοποίησης χρήστη
 legacy-user-stylesheets-enabled = Ενεργό
 legacy-user-stylesheets-stylesheet-types = Φύλλο στυλ
 legacy-user-stylesheets-no-stylesheets-found = Δεν βρέθηκαν φύλλα στυλ
