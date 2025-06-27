@@ -12,6 +12,17 @@ report-broken-site-panel-reason-label = What’s broken?
 report-broken-site-panel-reason-optional-label = What’s broken? (optional)
 report-broken-site-panel-reason-choose =
     .label = Choose reason
+report-broken-site-panel-reason-load =
+    .label = Site doesn’t load
+# These terms are referring to ecommerce websites
+report-broken-site-panel-reason-checkout =
+    .label = Can’t pay, check out or shop
+report-broken-site-panel-reason-slow2 =
+    .label = Site is slow
+report-broken-site-panel-reason-media2 =
+    .label = Video isn’t playing or loading
+report-broken-site-panel-reason-content2 =
+    .label = Missing content
 report-broken-site-panel-reason-slow =
     .label = Site slow or not working
 report-broken-site-panel-reason-media =

@@ -361,6 +361,9 @@ download-choose-folder =
 download-always-ask-where =
     .label = Always ask you where to save files
     .accesskey = A
+download-private-browsing-delete =
+    .label = Delete files downloaded in private browsing when all private windows are closed
+    .accesskey = D
 applications-header = Applications
 applications-description = Choose how { -brand-short-name } handles the files you download from the web or the applications you use while browsing.
 applications-filter =
@@ -515,6 +518,8 @@ performance-default-content-process-count =
 ## General Section - Browsing
 
 browsing-title = Browsing
+browsing-group-label =
+    .aria-label = Browsing
 browsing-use-autoscroll =
     .label = Use autoscrolling
     .accesskey = a
@@ -649,6 +654,14 @@ home-prefs-weather-header =
     .label = Weather
 home-prefs-weather-description = Today’s forecast at a glance
 home-prefs-weather-learn-more-link = Learn more
+home-prefs-trending-search-header =
+    .label = Trending searches
+home-prefs-trending-search-description = Popular and frequently searched topics
+# "Support" here means to help sustain or contribute to something, especially through funding or sponsorship.
+home-prefs-support-firefox-header =
+    .label = Support { -brand-product-name }
+home-prefs-mission-message = Our sponsors support our mission to build a better web
+home-prefs-mission-message-learn-more-link = Find out how
 # Variables:
 #   $num (number) - Number of rows displayed
 home-prefs-sections-rows-option =
@@ -717,6 +730,9 @@ search-remove-engine =
 search-add-engine =
     .label = Add
     .accesskey = A
+search-edit-engine =
+    .label = Edit
+    .accesskey = E
 search-find-more-link = Find more search engines
 # This warning is displayed when the chosen keyword is already in use
 # ('Duplicate' is an adjective)
@@ -725,6 +741,13 @@ search-keyword-warning-title = Duplicate Keyword
 #   $name (string) - Name of a search engine.
 search-keyword-warning-engine = You have chosen a keyword that is currently in use by “{ $name }”. Please select another.
 search-keyword-warning-bookmark = You have chosen a keyword that is currently in use by a bookmark. Please select another.
+# This warning is displayed when the chosen name is already in use.
+# Variables:
+#   $name (string) - Name of a search engine.
+edit-engine-name-warning-duplicate = There already is a search engine with the name “{ $name }”. Please choose another name.
+remove-engine-confirmation = Are you sure you want to remove this search engine?
+remove-engine-remove = Remove
+remove-addon-engine-alert = To remove this search engine, remove the associated add-on.
 
 ## Containers Section
 
@@ -1357,6 +1380,8 @@ collection-header2 = { -brand-short-name } Data Collection and Use
     .searchkeywords = telemetry
 preferences-collection-description = We strive to provide you with choices and collect only the minimal data necessary to improve { -brand-product-name } for everyone.
 preferences-collection-privacy-notice = View Privacy Notice
+preferences-across-profiles = These settings apply to every { -brand-product-name } profile on this device.
+preferences-view-profiles = View all profiles
 collection-description = We strive to provide you with choices and collect only what we need to provide and improve { -brand-short-name } for everyone. We always ask permission before receiving personal information.
 collection-privacy-notice = Privacy Notice
 collection-health-report-telemetry-disabled = You’re no longer allowing { -vendor-short-name } to capture technical and interaction data. All past data will be deleted within 30 days.

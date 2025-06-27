@@ -7,6 +7,8 @@ profile-window-body = Keep your work and personal browsing, including things lik
 # This checkbox appears in the Choose profile window that appears when the browser is opened. "Show this" refers to this window, which is displayed when the checkbox is enabled.
 profile-window-checkbox-label-2 =
     .label = Choose a profile when { -brand-short-name } opens
+# This subcopy appears below the checkbox when it is unchecked
+profile-window-checkbox-subcopy = { -brand-short-name } will open to your most recently used profile.
 profile-window-create-profile = Create a profile
 profile-card-edit-button =
     .title = Edit profile
@@ -34,6 +36,15 @@ edit-profile-page-avatar-header-2 =
     .label = Avatar
 edit-profile-page-delete-button =
     .label = Delete
+edit-profile-page-avatar-selector-opener-link = Edit
+avatar-selector-icon-tab = Icon
+avatar-selector-custom-tab = Custom
+avatar-selector-cancel-button =
+    .label = Cancel
+avatar-selector-save-button =
+    .label = Save
+avatar-selector-upload-file = Upload a file
+avatar-selector-drag-file = Or drag a file here
 edit-profile-page-no-name = Name this profile to help you find it later. Rename it any time.
 edit-profile-page-duplicate-name = Profile name already in use. Try a new name.
 edit-profile-page-profile-saved = Saved
@@ -82,6 +93,18 @@ profiles-light-theme = Light
 profiles-dark-theme = Dark
 # The default system theme
 profiles-system-theme = System
+# This light theme features sunny colors such as goldenrod and pale yellow. Its name evokes the color of a marigold flower. This name can be translated directly if it's easily understood in your language, or adapted to a more natural sounding name that fits the color scheme.
+profiles-marigold-theme-2 = Marigold yellow
+# This light theme features various shades of soft, muted purples. Its name evokes the color of a lavender flower. This name can be translated directly if it's easily understood in your language, or adapted to a more natural sounding name that fits the color scheme.
+profiles-lavender-theme-2 = Pale lavender
+# This light theme features very pale green tones. Its name evokes the color of pale green mint ice cream. This name can be translated directly if it's easily understood in your language, or adapted to a more natural sounding name that fits the color scheme.
+profiles-lichen-theme-2 = Minty green
+# This light theme features various shades of pink ranging from pale to bold. Its name evokes the color of a pink magnolia flower. This name can be translated directly if it's easily understood in your language, or adapted to a more natural sounding name that fits the color scheme.
+profiles-magnolia-theme-2 = Magnolia pink
+# Ocean blue is a dark theme that features very dark blues and black. Its name evokes the color of the deep ocean water. This name can be translated directly if it's easily understood in your language, or adapted to a more natural sounding name that fits the color scheme.
+profiles-ocean-theme-2 = Ocean blue
+# This dark theme features warm oranges, dark mahogany browns, and earthy red/brown colors. The name evokes the earthy colors of brick masonry. This name can be translated directly if it's easily understood in your language, or adapted to a more natural sounding name that fits the color scheme.
+profiles-terracotta-theme-2 = Brick red
 # This dark theme features forest green, dusky green with a gray undertone, and a muted sage green. Its name evokes the rich color of green moss in the forest. This name can be translated directly if its easily understood in your language, or adapted to a more natural sounding name that fits the color scheme.
 profiles-moss-theme-2 = Moss green
 
@@ -99,6 +122,8 @@ shopping-avatar-alt =
     .alt = Shopping cart
 star-avatar-alt =
     .alt = Star
+custom-avatar-alt =
+    .alt = Custom avatar
 
 ## Labels for default avatar icons
 

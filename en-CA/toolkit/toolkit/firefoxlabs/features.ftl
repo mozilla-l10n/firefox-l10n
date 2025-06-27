@@ -33,9 +33,20 @@ experimental-features-contextual-password-manager-description = Access your pass
 experimental-features-custom-wallpaper =
     .label = Choose a custom wallpaper or colour for New Tab
 experimental-features-custom-wallpaper-description = Upload your own wallpaper or pick a custom colour for your New Tab background.
+# Link Previews with AI
+experimental-features-link-previews =
+    .label = Link previews
+experimental-features-link-previews-description =
+    { PLATFORM() ->
+        [macos] To learn more about a webpage before you click, hover over a link and press Shift (⇧) plus Option (⌥) or Alt. Previews can include details like title and reading time. For some webpages, AI can also scan the page text and generate key points. The AI is optimized to read and generate English text. To prioritize your privacy, the AI runs locally on your computer. <a data-l10n-name="connect">Share feedback</a>
+       *[other] To learn more about a webpage before you click, hover over a link and press Shift + Alt. Previews can include details like title and reading time. For some webpages, AI can also scan the page text and generate key points. The AI is optimized to read and generate English text. To prioritize your privacy, the AI runs locally on your computer. <a data-l10n-name="connect">Share feedback</a>
+    }
 # This version of the link previews description does not mention AI.
 experimental-features-link-previews-description-no-ai =
     { PLATFORM() ->
         [macos] To learn more about a webpage before you click, hover over a link and press Shift (⇧) plus Option (⌥) or Alt. Previews can include details like title and reading time. <a data-l10n-name="connect">Share feedback</a>
        *[other] To learn more about a webpage before you click, hover over a link and press Shift + Alt. Previews can include details like title and reading time. <a data-l10n-name="connect">Share feedback</a>
     }
+# New Tab Sections with follow and block
+experimental-features-newtab-sections-follow-block =
+    .label = Topic Sections and Follow/Block for New Tab Stories

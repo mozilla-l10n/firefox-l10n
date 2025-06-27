@@ -206,6 +206,10 @@ addon-updates-manual-updates-found = View Available Updates
 
 addon-install-from-file = Install Add-on From File…
     .accesskey = I
+# Like `addon-install-from-file` but used when the `extensions.webextensions.prefer-update-over-install-for-existing-addon`
+# pref is set.
+addon-install-or-update-from-file = Install or Update Add-on From File…
+    .accesskey = I
 addon-install-from-file-dialog-title = Select add-on to install
 addon-install-from-file-filter-name = Add-ons
 addon-open-about-debugging = Debug Add-ons
@@ -277,6 +281,15 @@ discopane-notice-recommendations2 =
         Some of these recommendations are personalized. They are based on other
         extensions you’ve installed, profile preferences, and usage statistics.
 discopane-notice-learn-more = Learn more
+# Notice for the colorway theme removal
+colorway-removal-notice-message =
+    .heading = Your colourway theme(s) were removed.
+    .message =
+        { -brand-product-name } updated its colourways collection. We removed
+        the old version(s) from your “Saved Themes” list. Get new versions on
+        the add-ons site.
+colorway-removal-notice-learn-more = Learn more
+colorway-removal-notice-button = Get updated colourways themes
 privacy-policy = Privacy Policy
 # Refers to the author of an add-on, shown below the name of the add-on.
 # Variables:
@@ -297,6 +310,16 @@ find-more-themes = Find more themes
 # used for screen readers.
 addon-options-button =
     .aria-label = More Options
+# Explanatory introduction to the list of recommended add-ons. The action word
+# ("recommends") in the final sentence is a link to external documentation.
+# We hard code "Firefox" because we do not want to imply that a Firefox fork is
+# making this recommendation.
+discopane-intro3 =
+    Extensions and themes let you customize { -brand-product-name }. They can boost privacy,
+    enhance productivity, improve media, change the way { -brand-product-name } looks, and
+    so much more. These small software programs are often developed by a third party. Here’s
+    a selection Firefox <a data-l10n-name="learn-more-trigger">recommends</a> for
+    exceptional security, performance, and functionality.
 
 ## Add-on actions
 
@@ -430,6 +453,20 @@ addon-badge-verified2 =
 # by Mozilla and we don't want forks to display "by Fork".
 addon-badge-line4 =
     .title = Official extension built by Mozilla. Meets security and performance standards
+# This string needs to work in the context of other forks that are not Firefox
+# or built by Mozilla. In particular, we do not want to imply that an
+# organisation other than Mozilla or the Firefox team are performing the
+# security or performance reviews. As such, we avoid personalising language
+# like the words "our" or "we".
+addon-badge-verified4 =
+    .title = This extension has been reviewed to meet standards for security and performance
+# This string needs to work in the context of other forks that are not Firefox
+# or built by Mozilla. In particular, we do not want to imply that an
+# organisation other than Mozilla or the Firefox team are making the
+# recommendation. As such, we hard code "Firefox" and avoid personalising
+# language like the words "our" or "we".
+addon-badge-recommended4 =
+    .title = Firefox only recommends extensions that meet standards for security and performance
 
 ##
 
@@ -465,6 +502,9 @@ shortcuts-heading = Manage Extension Shortcuts
 default-heading-search-label = Find more add-ons
 addons-heading-search-input =
     .placeholder = Search addons.mozilla.org
+addons-heading-search-button =
+    .title = Search addons.mozilla.org
+    .aria-label = Search addons.mozilla.org
 addon-page-options-button =
     .title = Tools for all add-ons
 
@@ -526,6 +566,37 @@ plugins-widevine-description = This plugin enables playback of encrypted media i
 ## Headings for the Permissions tab in `about:addons` when the data collection
 ## feature is enabled.
 
+addon-permissions-required-data-collection = Required data collection:
+addon-permissions-optional-data-collection = Optional data collection:
+# Name of the Permissions tab in `about:addons` when the data collection feature is enabled.
+permissions-data-addon-button = Permissions and data
+# This is a description for extension that use this AI model
+# Variables:
+#   $extensionName (String) - Name of the extension
+mlmodel-extension-label = Used by the extension { $extensionName }
 
 ## Mapping Engine IDs from AI models to how that feature represented by the engine Id is described in the used by section in local model management
 
+mlmodel-about-inference = { -brand-short-name } uses this on about:inference
+mlmodel-link-preview = { -brand-short-name } uses this to generate key points when you preview links
+mlmodel-pdfjs = { -brand-short-name } uses this to create alt text for images you add to PDFs
+mlmodel-smart-tab-topic-engine = { -brand-short-name } uses this to suggest names for your tab groups
+mlmodel-smart-tab-embedding-engine = { -brand-short-name } uses this to suggest tabs for your tab groups
+# AI Model will be downloaded on the users device and used locally
+addon-category-mlmodel = On-device AI
+addon-category-mlmodel-title =
+    .title = On-device AI
+mlmodel-heading = Manage On-Device AI Models
+mlmodel-description = Some features and extensions in { -brand-short-name } are powered by AI models that work locally on your device. This approach protects your privacy and, in many cases, speeds up performance. <a data-l10n-name="learn-more">Learn more</a>
+# Label for button that when clicked removed local model
+mlmodel-remove-addon-button =
+    .aria-label = Remove
+# Label for the aggregated value of all files for a model
+mlmodel-addon-detail-totalsize-label = File size
+mlmodel-addon-detail-last-used-label = Last used
+# This is a section label to describe what extensions or features use a specific local AI model
+mlmodel-addon-detail-used-by-label = Used by
+# This is a section label to describe the link to the model card on the Hugging Face website
+mlmodel-addon-detail-model-card = Model card
+# This is a label for the Model Card link to Hugging face
+mlmodel-addon-detail-model-card-link-label = View on Hugging Face
