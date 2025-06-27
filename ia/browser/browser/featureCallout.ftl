@@ -120,18 +120,18 @@ sidebar-button-callout-vertical-tabs = Pro monstrar tu schedas, selige le button
 
 ## Sidebar Vertical Tabs Strings
 
-vertical-tabs-callout-1-title = Opprimite per troppe schedas?
-vertical-tabs-callout-1-subtitle = Tenta nostre nove disposition vertical del schedas pro rapidemente scander tu lista de schedas. Le probatores precoce reporta que iste mappa adjuta illes a sentir se plus organisate. Muta lo quandocunque tu vole.
+vertical-tabs-callout-1-title = Supercargate per tante schedas?
+vertical-tabs-callout-1-subtitle = Tenta nostre nove disposition vertical de schedas pro un vista rapide de tu lista de schedas. Le prime personas qui lo ha essayate reporta que iste disposition les adjuta a sentir se plus organisate. Cambia de disposition a tote momento.
 vertical-tabs-callout-1-cta-button = Tenta schedas vertical
-vertical-tabs-callout-2-cta-button = Tenta ora
-vertical-tabs-callout-2-title = Tene tu multe schedas aperte?
-vertical-tabs-callout-2-subtitle = Iste disposition rende facile scander rapidemente tu lista de schedas.In ultra, tu pote adjustar le largessa pro vider plus o minus de tu titulos de scheda.
+vertical-tabs-callout-2-cta-button = Tentar ora
+vertical-tabs-callout-2-title = Ha tu multe schedas aperte? Tenta le schedas vertical.
+vertical-tabs-callout-2-subtitle = Iste disposition facilita un vista rapide de tu lista de schedas. In ultra, tu pote adjustar le largessa pro vider plus o minus del titulos de tu schedas.
 
 ## Sidebar Vertical Tabs Pinning Strings
 
-sidebar-pins-callout-title = Perde tu tracia de tu schedas importante?
-sidebar-pins-callout-subtitle = Tentar fixar los, que los mantene al culmine de tu lista de schedas. Clicca dextre sur un scheda que tu vole fixar, pois selige Fixar scheda.
-sidebar-pins-callout-cta-button = Clavar le scheda
+sidebar-pins-callout-title = Es difficile trovar tu schedas importante?
+sidebar-pins-callout-subtitle = Tentar clavar los, que los mantene al culmine de tu lista de schedas. Clicca con le button dextre sur un scheda que tu vole clavar, pois selige Clavar scheda.
+sidebar-pins-callout-cta-button = Clavar scheda
 
 ## Pinning Tabs Strings
 
@@ -146,12 +146,12 @@ pin-tabs-callout-4-title = Clava sitos que tu visita plus
 
 ## Sidebar Onboarding Strings
 
-sidebar-customization-callout-1-title = Barra lateral: tu posto pro utensiles e schedas
-sidebar-customization-callout-1-subtitle = Le barra lateral de { -brand-product-name } te da accesso rapide a tu chronologia de navigation, tu schedas de altere apparatos, e a un robot confabulator IA: toto sin exir de tu vista principal.
+sidebar-customization-callout-1-title = Barra lateral: tu spatio pro utensiles e schedas
+sidebar-customization-callout-1-subtitle = Le barra lateral de { -brand-product-name } te da accesso rapide a tu chronologia de navigation, tu schedas de altere apparatos, e a un chatbot IA – toto sin exir de tu vista principal.
 sidebar-customization-callout-callout-button = Personalisar le barra lateral
 sidebar-customization-callout-dismiss-button = Celar le barra lateral
 sidebar-customization-callout-2-title = Face le barra lateral de { -brand-product-name } tu proprie
-sidebar-customization-callout-2-subtitle = Adde e remove instrumentos. Pone tu schedas in le barra lateral. Essaya un robot confabulator IA. Como tu personalisa tu barra lateral es onere tue.
+sidebar-customization-callout-2-subtitle = Adde e remove instrumentos. Pone tu schedas in le barra lateral. Essaya un chatbot IA. Es tu qui decide como tu personalisa tu barra lateral.
 
 ## Sidebar Callout Survey Strings
 

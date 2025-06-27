@@ -176,6 +176,12 @@ certerror-mitm-title = Softver sprječava da se { -brand-short-name } sigurno po
 
 ## Felt Privacy V1 Strings
 
+fp-certerror-page-title = Upozorenje: Sigurnosni rizik
+fp-certerror-body-title = Budite oprezni. Nešto ne izgleda kako treba.
+fp-certerror-why-site-dangerous = Šta čini da stranica izgleda opasno?
+fp-certerror-what-can-you-do = Šta možete učiniti povodom toga?
+fp-certerror-advanced-title = Napredno
+fp-certerror-advanced-button = Napredno
 
 ## Variables:
 ##   $hostname (String) - Hostname of the website to which the user was trying to connect.

@@ -27,14 +27,48 @@ printui-page-custom-range-input =
 # Section title for the number of copies to print
 printui-copies-label = Kopije
 printui-orientation = Orijentacija
+printui-landscape = Položeno
+printui-portrait = Uspravno
+# Section title for the printer or destination device to target
+printui-destination-label = Odredište
+printui-destination-pdf-label = Sačuvaj u PDF formatu
+printui-more-settings = Više postavki
+printui-less-settings = Manje postavki
+printui-paper-size-label = Veličina papira
+# Section title (noun) for the print scaling options
+printui-scale = Skaliranje
+printui-scale-fit-to-page-width = Prilagodi širini stranice
+# Label for input control where user can set the scale percentage
+printui-scale-pcent = Skaliranje
+# Section title (noun) for the two-sided print options
+printui-two-sided-printing = Dvostrano štampanje
+printui-two-sided-printing-off = Isključeno
+# Flip the sheet as if it were bound along its long edge.
+printui-two-sided-printing-long-edge = Okrenite po dugoj ivici
+# Flip the sheet as if it were bound along its short edge.
+printui-two-sided-printing-short-edge = Okreni po kratkoj ivici
+# Section title for miscellaneous print options
+printui-options = Opcije
+printui-headers-footers-checkbox = Štampanje zaglavlja i podnožja
+printui-backgrounds-checkbox = Štampaj pozadine
 
 ## The "Format" section, select a version of the website to print. Radio
 ## options to select between the original page, selected text only, or a version
 ## where the page is processed with "Reader View".
 
+# The section title.
+printui-source-label = Format
+# Option for printing the original page.
+printui-source-radio = Original
+# Option for printing just the content a user selected prior to printing.
+printui-selection-radio = Odabir
+# Option for "simplifying" the page by printing the Reader View version.
+printui-simplify-page-radio = Pojednostavljeno
 
 ##
 
+printui-color-mode-label = Način boje
+printui-color-mode-color = Boja
 # This is shown next to the Print button with an indefinite loading spinner
 # when the user prints a page and it is being sent to the printer.
 printui-print-progress-indicator = Štampam…
