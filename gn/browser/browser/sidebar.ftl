@@ -102,6 +102,10 @@ sidebar-context-menu-customize-sidebar =
 #   $deviceName (String) - The name of the device the user is closing a tab for
 sidebar-context-menu-close-remote-tab =
     .label = Emboty tendayke { $deviceName }-pe
+sidebar-context-menu-remove-extension2 =
+    .label = Embogue { -brand-short-name }-gui
+sidebar-context-menu-unpin-extension =
+    .label = Embogue tenda ykégui
 
 ## Labels for sidebar history context menu items
 
