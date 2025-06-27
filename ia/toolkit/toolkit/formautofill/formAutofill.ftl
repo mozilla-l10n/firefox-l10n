@@ -83,4 +83,4 @@ autofill-category-tel = telephono
 autofill-category-email = email
 # This string is used in drop down suggestion when users try to autofill credit
 # card on an insecure website (without https).
-autofill-insecure-field-warning-description = { -brand-short-name } ha detegite un sito insecur. Le completion automatic de formularios es temporarimente disactivate.
+autofill-insecure-field-warning-description = { -brand-short-name } ha detegite un sito insecur. Le completamento automatic de formularios es temporarimente disactivate.

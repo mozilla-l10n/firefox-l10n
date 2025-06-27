@@ -125,7 +125,7 @@ genai-page-button-summarize = Summarisar pagina
 
 ## Chatbot onboarding
 
-genai-onboarding-header = Resume, liberemente expone ideas, e altero quando tu naviga
+genai-onboarding-header = Summarisa, genera ideas, e plus durante que tu naviga
 genai-onboarding-choose-header = Selige un chatbot IA a usar in le barra lateral de { -brand-short-name }
 # "Switch anytime" refers to allowing the user to switch to a different chatbot.
 genai-onboarding-description = Selige un chatbot IA a usar in le barra lateral de { -brand-short-name }. Nos monstrara detalios re cata chatbot quando tu lo seligera. Muta lo quandocunque tu vole. <a data-l10n-name="learn-more">Pro saper plus</a>

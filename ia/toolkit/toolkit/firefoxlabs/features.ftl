@@ -28,11 +28,11 @@ experimental-features-group-customize-browsing =
 # Contextual Password Manager in sidebar
 experimental-features-contextual-password-manager =
     .label = Contrasignos in le barra lateral
-experimental-features-contextual-password-manager-description = Accede a tu contrasignos justo ab le barra lateral. Non plus cercar circum o remontar contrasignos quando tu tenta acceder. Pro usar iste function, selige le contrasignos in le barra lateral. Pois va a tu parametros general e sub mappa de navigator, selige monstrar barra lateral. Pois, personalisa tu barra lateral seligente le contrasignos. Si tu lo prova, <a data-l10n-name="connect">face nos saper lo que tu pensa</a>.
+experimental-features-contextual-password-manager-description = Accede a tu contrasignos justo ab le barra lateral. Pone fin al necessitate de cercar o reinitialisar contrasignos quando tu tenta aperir session. Pro usar iste function, selige le contrasignos in le barra lateral. Pois visita tu parametros general e sub Disposition del navigator, selige Monstrar barra lateral. Pois, personalisa tu barra lateral seligente le contrasignos. Si tu lo prova, <a data-l10n-name="connect">face nos saper lo que tu pensa</a>.
 # New Tab Custom Wallpapers
 experimental-features-custom-wallpaper =
-    .label = Seliger un fundo o un color personalisate pro le nove scheda
-experimental-features-custom-wallpaper-description = Carga tu proprie fundo o selige un color personalisate pro le fundo de tu Nove scheda.
+    .label = Selige un fundo o color personalisate pro le pagina de nove scheda
+experimental-features-custom-wallpaper-description = Incarga tu proprie fundo o selige un color personalisate pro le fundo de tu pagina de nove scheda.
 # Link Previews with AI
 experimental-features-link-previews =
     .label = Previsualisationes de ligamines
