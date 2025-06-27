@@ -8,6 +8,9 @@
 newtab-page-title = Nova kartica
 newtab-settings-button =
     .title = Prilagodi stranicu za nove kartice
+newtab-customize-panel-icon-button =
+    .title = Prilagodi ovu stranicu
+newtab-customize-panel-icon-button-label = Prilagodi
 newtab-personalize-settings-icon-label =
     .title = Personaliziraj novu karticu
     .aria-label = Postavke
@@ -502,6 +505,8 @@ newtab-topic-selection-button-pick-interests = Odaberi tvoje interese
 newtab-section-follow-button = Prati
 newtab-section-following-button = Praćenje
 newtab-section-unfollow-button = Prestani pratiti
+# A modal may appear next to the Follow button, directing users to try out the feature
+newtab-section-follow-highlight-title = Podesi svoj feed
 
 ## Button to block/unblock listed topics
 ## "Block", "unblocked", and "blocked" are social media terms that refer to hiding a section of stories.

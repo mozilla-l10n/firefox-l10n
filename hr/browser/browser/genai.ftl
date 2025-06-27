@@ -167,6 +167,7 @@ genai-chatbot-summarize-sidebar-provider-subtitle = Desnom tipkom miša klikni n
 genai-chatbot-summarize-sidebar-generic-subtitle = Desnom tipkom miša klikni svjetlucajući gumb u bočnoj traci i odaberi „Sažmi stranicu”. Prvi put ćeš također odabrati UI chatbot.
 # “Summarize page” should be consistent with the translation for the string genai-page-button-summarize
 genai-chatbot-summarize-footer-provider-subtitle = Odaberi svoj UI chatbot u bočnoj traci i na dnu odaberi „Sažmi stranicu”.
+genai-chatbot-summarize-footer-generic-subtitle = Dodaj UI chatbot u bočnu traku { -brand-short-name } za brzo sažimanje stranica.
 
 ## Chatbot onboarding choices
 ## These describe features/capabilities of chatbot providers. These are not buttons/actions.
