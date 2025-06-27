@@ -97,7 +97,7 @@ pkcs12-decode-err = Αποτυχία αποκωδικοποίησης αρχεί
 pkcs12-unknown-err-restore = Αποτυχία ανάκτησης του αρχείου  PKCS#12 για άγνωστους λόγους
 pkcs12-unknown-err-backup = Αποτυχία δημιουργίας αντιγράφου ασφαλείας του αρχείου PKCS#12 για άγνωστους λόγους.
 pkcs12-unknown-err = Η λειτουργία PKCS #12  απέτυχε για άγνωστους λόγους.
-pkcs12-info-no-smartcard-backup = Δεν είναι δυνατή η αντιγραφή πιστοποιητικών από συσκευές ασφαλείας hardware όπως οι "έξυπνες κάρτες"
+pkcs12-info-no-smartcard-backup = Δεν είναι δυνατή η αντιγραφή πιστοποιητικών από φυσικές συσκευές ασφαλείας, όπως έξυπνες κάρτες.
 pkcs12-dup-data = Το πιστοποιητικό και το ιδιωτικό κλειδί υπάρχουν ήδη στη συσκευή ασφάλειας.
 
 ## PKCS#12 file dialogs
@@ -116,7 +116,7 @@ import-email-cert-prompt = Επιλογή αρχείου που περιέχει
 
 # Variables:
 #   $certName: the name of certificate
-edit-trust-ca = Το πιστοποιητικό "{ $certName }" αντιπροσωπεύει μια Αρχή Πιστοποίησης.
+edit-trust-ca = Το πιστοποιητικό «{ $certName }» αντιπροσωπεύει μια αρχή πιστοποίησης.
 
 ## For Deleting Certificates
 

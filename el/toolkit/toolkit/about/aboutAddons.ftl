@@ -325,7 +325,7 @@ discopane-intro3 =
 report-addon-button = Αναφορά
 remove-addon-button = Αφαίρεση
 # The link will always be shown after the other text.
-remove-addon-disabled-button = Δεν μπορεί να αφαιρεθεί <a data-l10n-name="link">Γιατί;</a>
+remove-addon-disabled-button = Δεν είναι δυνατή η αφαίρεση. <a data-l10n-name="link">Γιατί;</a>
 disable-addon-button = Απενεργοποίηση
 enable-addon-button = Ενεργοποίηση
 # This is used for the toggle on the extension card, it's a checkbox and this
