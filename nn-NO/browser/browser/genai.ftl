@@ -64,6 +64,7 @@ genai-menu-remove-provider =
 genai-menu-remove-sidebar =
     .label = Fjern frå sidestolpe
 genai-menu-new-badge = Ny
+genai-menu-summarize-page = Oppsummer side
 genai-input-ask-generic =
     .placeholder = Spør AI chatbot…
 # $provider (string) - name of the provider
@@ -115,6 +116,7 @@ genai-options-about-chatbot =
 
 ## Chatbot footer
 
+genai-page-button-summarize = Oppsummer side
 
 ## Chatbot onboarding
 
@@ -147,6 +149,7 @@ genai-onboarding-lechat-learn = Les meir om Le Chat
 genai-onboarding-select-header = Marker tekst for å sjå forslag
 genai-onboarding-select-description = Når du vel tekst føreslår vi spørsmål du kan sende til samtaleroboten. Du kan òg skrive eigne spørsmål.
 genai-onboarding-select-primary = Begynn å chatte
+genai-chatbot-contextual-title = Bruk ein AI-chatbot utan å byte faner
 genai-chatbot-contextual-button = Vel ein samtalerobot
 genai-chatbot-summarize-button = Oppsummer side
 
