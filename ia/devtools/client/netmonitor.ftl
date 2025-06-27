@@ -7,7 +7,7 @@
 
 # Tooltip for the performance button in the status bar
 network-menu-summary-tooltip-perf =
-    .title = Comenciar le analyse de permormance
+    .title = Comenciar le analyse de prestationes
 network-menu-summary-tooltip-domcontentloaded =
     .title = Tempore quando occurreva le evento “DOMContentLoaded”
 network-menu-summary-tooltip-load =
@@ -23,7 +23,7 @@ network-menu-summary-requests-count =
        *[other] { $requestCount } requestas
     }
 network-menu-summary-tooltip-requests-count =
-    .title = Numero de demandas
+    .title = Numero de requestas
 # This label is displayed in the network table footer providing the
 # transferred size.
 # Variables:

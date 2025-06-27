@@ -6,7 +6,7 @@
 # by various online articles and is technical in nature.
 experimental-features-media-jxl =
     .label = Medios: JPEG XL
-experimental-features-media-jxl-description = Con iste function activate, { -brand-short-name } supporta le formato JPEG XL (JXL). Isto es un formato de file imagine meliorate que supporta sin perditas le transition ab le traditional files JPEG. Vide <a data-l10n-name="bugzilla">bug 1539075</a> pro altere detalios.
+experimental-features-media-jxl-description = Con iste function activate, { -brand-short-name } supporta le formato JPEG XL (JXL). Isto es un formato de file de imagine meliorate que supporta sin perditas le transition a partir de files JPEG traditional. Vide <a data-l10n-name="bugzilla">bug 1539075</a> pro plus detalios.
 # JS JIT Warp project
 experimental-features-js-warp =
     .label = JavaScript JIT: Warp
@@ -17,8 +17,8 @@ experimental-features-ime-search =
 experimental-features-ime-search-description = Un IME (Input Method Editor, editor a methodos de entrata) es un utensile que te permitte scriber symbolos complexe, como illos usate pro scriber in linguas est-asiatic o indic, usante un claviero standard. Iste experimento mantenera le pannello del barra de adresse aperte, monstrante le resultatos e suggestiones de recerca durante que tu usa IME pro entrar texto. Nota que le IME pote monstrar un pannello que coperi le resultatos del barra de adresse, dunque iste preferentia es solo suggerite pro IME que non usa iste typo de pannello.
 # Auto Picture-in-Picture
 experimental-features-auto-pip =
-    .label = Imagine annidate: auto aperir al mutation de scheda.
-experimental-features-auto-pip-description = Activar Imagine annidate sur le videos active mutante schedas.
+    .label = Imagine annidate: aperir automaticamente al cambio de scheda
+experimental-features-auto-pip-description = Activar Imagine annidate sur le videos active quando se cambia de scheda.
 experimental-features-group-developer-tools =
     .label = Instrumentos de disveloppamento
 experimental-features-group-webpage-display =

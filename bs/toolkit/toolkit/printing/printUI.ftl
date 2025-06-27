@@ -69,6 +69,13 @@ printui-simplify-page-radio = Pojednostavljeno
 
 printui-color-mode-label = Način boje
 printui-color-mode-color = Boja
+printui-color-mode-bw = Crno-bijelo
+printui-margins = Margine
+printui-margins-default = Zadano
+printui-margins-min = Minimalno
+printui-margins-none = Bez margina
+printui-margins-custom-inches = Prilagođeno (inči)
+printui-margins-custom-mm = Prilagođeno (mm)
 # This is shown next to the Print button with an indefinite loading spinner
 # when the user prints a page and it is being sent to the printer.
 printui-print-progress-indicator = Štampam…

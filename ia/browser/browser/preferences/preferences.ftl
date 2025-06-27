@@ -230,7 +230,7 @@ containers-remove-cancel-button = Non remover iste contentor
 settings-tabs-show-image-in-preview =
     .label = Monstrar un vista preliminar del imagine quando tu passa le mus sur un scheda
     .accessKey = n
-browser-layout-header = Mappa de navigator
+browser-layout-header = Disposition del navigator
 browser-layout-horizontal-tabs =
     .label = Schedas horizontal
 browser-layout-horizontal-tabs-desc = Monstrar al summitate del navigator
@@ -278,7 +278,7 @@ preferences-web-appearance-footer = Gere le themas de { -brand-short-name } in <
 preferences-contrast-control-header = Controlo de contrasto
 preferences-contrast-control-description = Le sitos web ha plure colores de prime plano e de fundo. Configura { -brand-short-name } pro usar le mesme colores a transverso sitos web pro legibilitate meliorate.
 preferences-contrast-control-use-platform-settings =
-    .label = Automatic (usar parametros de systema)
+    .label = Automatic (usar le parametros del systema)
     .accesskey = A
 preferences-contrast-control-off =
     .label = Disactivar
@@ -1166,7 +1166,7 @@ cookie-banner-blocker-checkbox-label =
 addressbar-header = Barra de adresse
 addressbar-suggest = Durante que tu usa le barra de adresse, suggerer
 # When Firefox Suggest is enabled, this replaces `addressbar-header`.
-addressbar-header-firefox-suggest = Barra del adresses — { -firefox-suggest-brand-name }
+addressbar-header-firefox-suggest = Barra de adresse — { -firefox-suggest-brand-name }
 # When Firefox Suggest is enabled, this replaces `addressbar-suggest`.
 addressbar-suggest-firefox-suggest = Elige le typo de suggestiones que appare in le barra de adresse.
 # When Firefox Suggest is enabled, a "Learn more" link appears at the end of
@@ -1206,10 +1206,10 @@ addressbar-locbar-showtrendingsuggestions-option =
     .accesskey = p
 # Nonsponsored suggestions refers to Firefox Suggest suggestions like Wikipedia.
 addressbar-locbar-suggest-nonsponsored-option =
-    .label = Suggestiones ab { -brand-short-name }
-addressbar-locbar-suggest-nonsponsored-desc = Recipe le suggestiones ab le web correlate a tu recerca.
+    .label = Suggestiones de { -brand-short-name }
+addressbar-locbar-suggest-nonsponsored-desc = Recipe le suggestiones del web relative a tu recerca.
 addressbar-locbar-suggest-sponsored-option =
-    .label = Suggestiones ab sponsores
+    .label = Suggestiones de sponsores
 addressbar-locbar-suggest-sponsored-desc = Supporta { -brand-short-name } con suggestiones sponsorisate occasional.
 addressbar-quickactions-learn-more = Pro saper plus
 addressbar-dismissed-suggestions-label = Suggestiones rejectate

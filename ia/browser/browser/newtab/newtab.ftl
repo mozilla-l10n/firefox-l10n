@@ -131,7 +131,7 @@ newtab-menu-section-unfollow = Non plus sequer le argumento
 
 ## Context menu options for sponsored stories and new ad formats on New Tab.
 
-newtab-menu-manage-sponsored-content = Gerer contentos sponsorisate
+newtab-menu-manage-sponsored-content = Gerer contento sponsorisate
 newtab-menu-our-sponsors-and-your-privacy = Nostre sponsores e tu confidentialitate
 newtab-menu-report-this-ad = Reportar iste annuncio
 
