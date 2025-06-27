@@ -76,6 +76,23 @@ printui-margins-min = Minimalno
 printui-margins-none = Bez margina
 printui-margins-custom-inches = Prilagođeno (inči)
 printui-margins-custom-mm = Prilagođeno (mm)
+printui-margins-custom-top = Vrh
+printui-margins-custom-top-inches = Vrh (inči)
+printui-margins-custom-top-mm = Vrh (mm)
+printui-margins-custom-bottom = Dno
+printui-margins-custom-bottom-inches = Dno (inči)
+printui-margins-custom-bottom-mm = Dno (mm)
+printui-margins-custom-left = Lijevo
+printui-margins-custom-left-inches = Lijevo (inči)
+printui-margins-custom-left-mm = Lijevo (mm)
+printui-margins-custom-right = Desno
+printui-margins-custom-right-inches = Desno (inči)
+printui-margins-custom-right-mm = Desno (mm)
+printui-system-dialog-link = Štampaj pomoću sistemskog dijaloga…
+printui-primary-button = Štampaj
+printui-primary-button-save = Sačuvaj
+printui-cancel-button = Otkaži
+printui-close-button = Zatvori
 # This is shown next to the Print button with an indefinite loading spinner
 # when the user prints a page and it is being sent to the printer.
 printui-print-progress-indicator = Štampam…
