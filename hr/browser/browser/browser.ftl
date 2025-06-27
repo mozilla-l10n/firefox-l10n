@@ -1323,3 +1323,6 @@ file-picker-crashed-show-in-folder =
 ## Onboarding Finish Setup checklist
 
 onboarding-checklist-button-label = Dovrši postavljanje
+onboarding-aw-finish-setup-button =
+    .label = Završi postavljanje
+    .tooltiptext = Završi s postavljanjem { -brand-short-name }a

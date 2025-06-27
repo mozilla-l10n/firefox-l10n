@@ -161,6 +161,8 @@ contextual-manager-passwords-password-already-exists-error-button = Idi na lozin
 contextual-manager-passwords-update-password-success-heading =
     .heading = Lozinka je spremljena
 contextual-manager-passwords-update-password-success-button = Gotovo
+contextual-manager-passwords-update-username-success-heading =
+    .heading = Korisničko ime je spremljeno
 # Message to confirm successful removal of a password/passwords.
 #   $total (number) - Total number of passwords
 contextual-manager-passwords-delete-password-success-heading =
@@ -208,6 +210,7 @@ contextual-manager-passwords-no-username-heading-and-message =
     .heading = Dodaj korisničko ime
     .message = Dodaj ga za bržu prijavu.
 contextual-manager-passwords-add-username-button = Dodaj korisničko ime
+contextual-manager-passwords-title = Lozinke
 
 ## Login Form
 
@@ -270,6 +273,26 @@ contextual-manager-view-alert-heading =
     .heading = Prikaži upozorenje
 contextual-manager-view-alert-button =
     .tooltiptext = Pregledaj upozorenje
+# Variables
+#   $count (number) - The number of active alerts associated with the login
+contextual-manager-view-alert-heading-2 =
+    .heading =
+        { $count ->
+            [1] Prikaži upozorenje
+            [one] Prikaži upozorenje
+            [few] Prikaži upozorenja
+           *[other] Prikaži upozorenja
+        }
+# Variables
+#   $count (number) - The number of active alerts associated with the login
+contextual-manager-view-alert-button-2 =
+    .tooltiptext =
+        { $count ->
+            [1] Pregledaj upozorenje
+            [one] Pregledaj upozorenje
+            [few] Pregledaj upozorenja
+           *[other] Pregledaj upozorenja
+        }
 contextual-manager-show-password-button =
     .aria-label = Prikaži lozinku
     .title = Prikaži lozinku

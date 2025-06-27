@@ -106,6 +106,11 @@ perplexity-callout-secondary-label-2 = Razumijem
 
 ## Account Adoption Passwords callout strings
 
+# Suggestion to backup passwords by signing up for Mozilla account and using sync
+fxa-adoption-passwords-title = Lozinka je spremljena. Izradimo sigurnosnu kopiju lozinke.
+fxa-adoption-passwords-subtitle = Zaštiti svoje lozinke sinkronizacijom s uređajima pomoću šifriranja.
+# Opens Mozilla accounts sign-up page
+fxa-adoption-passwords-primary-button-label = Registriraj se
 
 ## Sidebar Strings
 
@@ -130,6 +135,7 @@ sidebar-pins-callout-cta-button = Prikvači karticu
 
 ## Pinning Tabs Strings
 
+pin-tabs-callout-1-title = Imaj važne kartice nadohvat ruke
 
 ## Sidebar Onboarding Strings
 
