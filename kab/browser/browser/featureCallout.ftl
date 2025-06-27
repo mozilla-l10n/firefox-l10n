@@ -86,6 +86,8 @@ perplexity-callout-secondary-label-2 = Awi-t
 
 ## Account Adoption Passwords callout strings
 
+# Opens Mozilla accounts sign-up page
+fxa-adoption-passwords-primary-button-label = Kcem
 
 ## Sidebar Strings
 

@@ -89,6 +89,14 @@ contextual-manager-passwords-export-file-picker-csv-filter-title =
         [macos] Asemli CSV
        *[other] Afaylu CSV
     }
+# Confirm the removal of all saved passwords
+#   $total (number) - Total number of passwords
+contextual-manager-passwords-remove-all-title =
+    { $total ->
+        [1] Kkes awal n uɛeddi?
+        [one] Kkes awal n uɛeddi?
+       *[other] Kkes akk { $total } wawalen n uεeddi
+    }
 # Checkbox label to confirm the removal of saved passwords
 #   $total (number) - Total number of passwords
 contextual-manager-passwords-remove-all-confirm =
@@ -127,6 +135,8 @@ contextual-manager-passwords-password-already-exists-error-button = Ddu ɣer waw
 contextual-manager-passwords-update-password-success-heading =
     .heading = Awal uffir yettwasekles
 contextual-manager-passwords-update-password-success-button = Immed
+contextual-manager-passwords-update-username-success-heading =
+    .heading = Isem n useqdac ttwaskelsen
 # Message to confirm successful removal of a password/passwords.
 #   $total (number) - Total number of passwords
 contextual-manager-passwords-delete-password-success-heading =
@@ -167,6 +177,7 @@ contextual-manager-passwords-no-username-heading-and-message =
     .heading = Rnu isem n useqdac
     .message = Rnu wayeḍ i tuqqna s zzerb
 contextual-manager-passwords-add-username-button = Rnu isem n useqdac
+contextual-manager-passwords-title = Awalen n uεeddi
 
 ## Login Form
 
@@ -226,6 +237,15 @@ contextual-manager-view-alert-heading =
     .heading = Wali alɣu
 contextual-manager-view-alert-button =
     .tooltiptext = Senqed alɣu
+# Variables
+#   $count (number) - The number of active alerts associated with the login
+contextual-manager-view-alert-heading-2 =
+    .heading =
+        { $count ->
+            [1] Wali alɣu
+            [one] Wali alɣu
+           *[other] Wali ilɣa
+        }
 contextual-manager-show-password-button =
     .aria-label = Sken awal n uεeddi
     .title = Sken awal n uεeddi
