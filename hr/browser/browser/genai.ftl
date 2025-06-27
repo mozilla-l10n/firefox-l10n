@@ -93,6 +93,10 @@ genai-shortcuts-selected-warning =
         }
 genai-shortcuts-hide =
     .label = Sakrij prečac chatbota
+genai-menu-no-provider =
+    .label = Pitaj UI chatbot
+genai-menu-choose-chatbot =
+    .label = Odaberi UI chatbot
 
 ## Chatbot header
 
@@ -119,6 +123,7 @@ genai-options-about-chatbot =
 
 ## Chatbot footer
 
+genai-page-button-summarize = Sažmi stranicu
 
 ## Chatbot onboarding
 
@@ -154,6 +159,14 @@ genai-onboarding-select-primary = Započni chat
 genai-chatbot-contextual-title = Koristi UI chatbot bez mijenjanja kartica
 genai-chatbot-contextual-subtitle = Razgovaraj i pregledavaj istovremeno kada dodaš UI chatbot u bočnu traku { -brand-short-name }a.
 genai-chatbot-contextual-button = Odaberi chatbot
+genai-chatbot-summarize-title = Novo! Sažmi stranice jednim klikom
+genai-chatbot-summarize-button = Sažmi stranicu
+# “Summarize Page” should be consistent with the translation for the string genai-menu-summarize-page
+genai-chatbot-summarize-sidebar-provider-subtitle = Desnom tipkom miša klikni na svoj UI chatbot u bočnoj traci i odaberi „Sažmi stranicu”.
+# “Summarize Page” should be consistent with the translation for the string genai-menu-summarize-page
+genai-chatbot-summarize-sidebar-generic-subtitle = Desnom tipkom miša klikni svjetlucajući gumb u bočnoj traci i odaberi „Sažmi stranicu”. Prvi put ćeš također odabrati UI chatbot.
+# “Summarize page” should be consistent with the translation for the string genai-page-button-summarize
+genai-chatbot-summarize-footer-provider-subtitle = Odaberi svoj UI chatbot u bočnoj traci i na dnu odaberi „Sažmi stranicu”.
 
 ## Chatbot onboarding choices
 ## These describe features/capabilities of chatbot providers. These are not buttons/actions.
