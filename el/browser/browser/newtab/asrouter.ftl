@@ -122,7 +122,7 @@ cfr-doorhanger-video-support-primary-button = Ενημέρωση τώρα
 ## to the Mozilla VPN page and a link to dismiss the dialog.
 
 # This header text can be explicitly wrapped.
-spotlight-public-wifi-vpn-header = Φαίνεται πως χρησιμοποιείτε δημόσιο Wi-Fi
+spotlight-public-wifi-vpn-header = Φαίνεται ότι χρησιμοποιείτε δημόσιο Wi-Fi
 spotlight-public-wifi-vpn-body = Για να αποκρύψετε την τοποθεσία και τη διαδικτυακή σας δραστηριότητα, δοκιμάστε ένα VPN. Θα σας προστατεύει κατά την περιήγηση από δημόσια μέρη, όπως αεροδρόμια και καφετέριες.
 spotlight-public-wifi-vpn-primary-button = Προστατέψτε το απόρρητό σας με το { -mozilla-vpn-brand-name }
     .accesskey = Π
