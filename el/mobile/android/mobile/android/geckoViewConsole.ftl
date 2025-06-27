@@ -10,7 +10,7 @@ console-stacktrace-anonymous-function = <ανώνυμη>
 #   $filename (String): Source file name
 #   $functionName (String): JavaScript function name
 #   $lineNumber (String): The line number of the stacktrace call
-console-stacktrace = Ίχνος στοίβας από { $filename }, στην συνάρτηση { $functionName }, στην γραμμή { $lineNumber }.
+console-stacktrace = Ίχνος στοίβας από: { $filename }, συνάρτηση: { $functionName }, γραμμή: { $lineNumber }.
 # Variables:
 #   $name (String): user-defined name for the timer
 console-timer-start = { $name }: ο χρονομετρητής ξεκίνησε
