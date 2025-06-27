@@ -3,10 +3,10 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 styleeditor-new-button =
-    .tooltiptext = Δημιουργία και σύνδεση ενός νέου φύλλου στυλ στο έγγραφο
-    .accesskey = Ν
+    .tooltiptext = Δημιουργία και προσάρτηση νέου φύλλου μορφοποίησης στο έγγραφο
+    .accesskey = Δ
 styleeditor-import-button =
-    .tooltiptext = Εισαγωγή και επισύναψη ενός υπάρχοντος φύλλου στυλ στο έγγραφο
+    .tooltiptext = Εισαγωγή και προσάρτηση υπάρχοντος φύλλου μορφοποίησης στο έγγραφο
     .accesskey = Ε
 styleeditor-filter-input =
     .placeholder = Φιλτράρισμα φύλλων στυλ
@@ -14,9 +14,9 @@ styleeditor-visibility-toggle =
     .tooltiptext = (Απ)ενεργοποίηση ορατότητας φύλλου στυλ
     .accesskey = Α
 styleeditor-visibility-toggle-system =
-    .tooltiptext = Τα φύλλα στυλ συστήματος δεν μπορούν να απενεργοποιηθούν
+    .tooltiptext = Δεν είναι δυνατή η απενεργοποίηση των φύλλων μορφοποίησης του συστήματος
 styleeditor-save-button = Αποθήκευση
-    .tooltiptext = Αποθήκευση φύλλου στυλ σε αρχείο
+    .tooltiptext = Αποθήκευση φύλλου μορφοποίησης σε αρχείο
     .accesskey = Α
 styleeditor-options-button =
     .tooltiptext = Επιλογές επεξεργασίας στυλ

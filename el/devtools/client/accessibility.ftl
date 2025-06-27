@@ -64,5 +64,5 @@ accessibility-keyboard-issue-semantics = Τα στοιχεία με δυνατό
 accessibility-keyboard-issue-tabindex = Αποφύγετε τη χρήση της ιδιότητας <code>tabindex</code> μεγαλύτερης από μηδέν. <a>Μάθετε περισσότερα</a>
 accessibility-keyboard-issue-action = Τα διαδραστικά στοιχεία πρέπει να μπορούν να ενεργοποιηθούν με πληκτρολόγιο. <a>Μάθετε περισσότερα</a>
 accessibility-keyboard-issue-focusable = Τα διαδραστικά στοιχεία πρέπει να έχουν δυνατότητα εστίασης. <a>Μάθετε περισσότερα</a>
-accessibility-keyboard-issue-focus-visible = Το στοιχείο με δυνατότητα εστίασης ενδέχεται να μην έχει το στυλ εστίασης. <a>Μάθετε περισσότερα</a>
+accessibility-keyboard-issue-focus-visible = Το στοιχείο με δυνατότητα εστίασης ενδέχεται να μην έχει το στιλ εστίασης. <a>Μάθετε περισσότερα</a>
 accessibility-keyboard-issue-mouse-only = Τα στοιχεία με δυνατότητα κλικ πρέπει να έχουν δυνατότητα εστίασης και διαδραστική σημασιολογία. <a>Μάθετε περισσότερα</a>

@@ -336,7 +336,7 @@ newtab-wallpaper-error-max-file-size = Η εικόνα υπερέβη το όρ�
 newtab-wallpaper-error-file-type = Δεν ήταν δυνατή η μεταφόρτωση του αρχείου σας. Δοκιμάστε ξανά με έναν άλλο τύπο αρχείου.
 newtab-wallpaper-light-red-panda = Κόκκινο πάντα
 newtab-wallpaper-light-mountain = Λευκό βουνό
-newtab-wallpaper-light-sky = Ουρανός με μωβ και ροζ σύννεφα
+newtab-wallpaper-light-sky = Ουρανός με μοβ και ροζ σύννεφα
 newtab-wallpaper-light-color = Μπλε, ροζ και κίτρινα σχήματα
 newtab-wallpaper-light-landscape = Μπλε ορεινό τοπίο ομίχλης
 newtab-wallpaper-light-beach = Παραλία με φοίνικα
@@ -345,7 +345,7 @@ newtab-wallpaper-dark-color = Κόκκινα και μπλε σχήματα
 newtab-wallpaper-dark-panda = Κόκκινο πάντα στο δάσος
 newtab-wallpaper-dark-sky = Αστικό τοπίο με νυχτερινό ουρανό
 newtab-wallpaper-dark-mountain = Ορεινό τοπίο
-newtab-wallpaper-dark-city = Μωβ αστικό τοπίο
+newtab-wallpaper-dark-city = Μοβ αστικό τοπίο
 newtab-wallpaper-dark-fox-anniversary = Μια αλεπού στο πεζοδρόμιο κοντά σε ένα δάσος
 newtab-wallpaper-light-fox-anniversary = Μια αλεπού μέσα σε γρασίδι, με ένα ομιχλώδες ορεινό τοπίο
 
@@ -373,13 +373,13 @@ newtab-wallpaper-brown = Καφέ
 newtab-wallpaper-category-title-abstract = Αφηρημένο
 newtab-wallpaper-abstract-green = Πράσινα σχήματα
 newtab-wallpaper-abstract-blue = Μπλε σχήματα
-newtab-wallpaper-abstract-purple = Μωβ σχήματα
+newtab-wallpaper-abstract-purple = Μοβ σχήματα
 newtab-wallpaper-abstract-orange = Πορτοκαλί σχήματα
 newtab-wallpaper-gradient-orange = Διαβάθμιση πορτοκαλί και ροζ
-newtab-wallpaper-abstract-blue-purple = Μπλε και μωβ σχήματα
+newtab-wallpaper-abstract-blue-purple = Μπλε και μοβ σχήματα
 newtab-wallpaper-abstract-white-curves = Λευκό με σκιασμένες καμπύλες
-newtab-wallpaper-abstract-purple-green = Διαβάθμιση μωβ και πράσινου φωτός
-newtab-wallpaper-abstract-blue-purple-waves = Μπλε και μωβ κυματιστές μορφές
+newtab-wallpaper-abstract-purple-green = Διαβάθμιση μοβ και πράσινου φωτός
+newtab-wallpaper-abstract-blue-purple-waves = Μπλε και μοβ κυματιστές μορφές
 newtab-wallpaper-abstract-black-waves = Μαύρες κυματιστές μορφές
 
 ## Celestial

@@ -27,9 +27,9 @@ options-select-dev-tools-theme-label = Θέματα
 # The heading
 options-context-inspector = Επιθεώρηση
 # The label for the checkbox option to show user agent styles
-options-show-user-agent-styles-label = Εμφάνιση στυλ προγράμματος περιήγησης
+options-show-user-agent-styles-label = Εμφάνιση μορφοποιήσεων προγράμματος περιήγησης
 options-show-user-agent-styles-tooltip =
-    .title = Η ενεργοποίηση αυτού θα εμφανίσει τα προεπιλεγμένα στυλ που φορτώνονται από το πρόγραμμα περιήγησης.
+    .title = Η ενεργοποίηση αυτού θα εμφανίσει τις προεπιλεγμένες μορφοποιήσεις που φορτώνονται από το πρόγραμμα περιήγησης.
 # The label for the checkbox option to enable collapse attributes
 options-collapse-attrs-label = Κόψιμο ιδιοτήτων DOM
 options-collapse-attrs-tooltip =
