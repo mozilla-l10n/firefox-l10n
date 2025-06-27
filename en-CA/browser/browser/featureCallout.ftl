@@ -140,6 +140,9 @@ pin-tabs-callout-1-subtitle = Drag a tab to the start of the tab strip to pin it
 pin-tabs-callout-cta-1-button = Pin this tab
 pin-tabs-callout-2-title = Pin tabs you visit the most
 pin-tabs-callout-2-subtitle = To pin any tab, drag it to the start of the tab strip. Or right-click and choose Pin Tab.
+pin-tabs-callout-cta-2-button = Pin this tab
+pin-tabs-callout-3-title = Keep important sites within reach
+pin-tabs-callout-4-title = Pin sites you visit the most
 
 ## Sidebar Onboarding Strings
 

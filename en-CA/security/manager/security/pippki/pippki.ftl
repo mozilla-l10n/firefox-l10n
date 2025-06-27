@@ -88,6 +88,10 @@ client-auth-cert-details-stored-on = Stored on: { $storedOn }
 client-auth-cert-remember-label = Remember this decision:
 client-auth-cert-remember-never =
     .label = Once
+client-auth-cert-remember-always =
+    .label = Permanently
+client-auth-cert-remember-temporarily =
+    .label = For this session
 client-auth-cert-remember-box =
     .label = Remember this decision
 

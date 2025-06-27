@@ -50,3 +50,4 @@ experimental-features-link-previews-description-no-ai =
 # New Tab Sections with follow and block
 experimental-features-newtab-sections-follow-block =
     .label = Topic Sections and Follow/Block for New Tab Stories
+experimental-features-newtab-sections-follow-block-description = Organize the stories on your New Tab page into topic sections (Sports, Food, Entertainment and more) for a more structured and easy-to-scan experience. Use our new Follow and Block controls to customize what content you see. <a data-l10n-name="connect">Share feedback</a>
