@@ -159,7 +159,9 @@ genai-chatbot-contextual-button = Eiporavo chatbot
 genai-chatbot-summarize-title = ¡Pyahu! Emombyky kuatiarogue peteĩ jekutúpe
 genai-chatbot-summarize-button = Emombyky kuatiarogue
 # “Summarize Page” should be consistent with the translation for the string genai-menu-summarize-page
-genai-chatbot-summarize-sidebar-provider-subtitle = Eikutu IA chatbot IA tenda ykegua ha eiporavo “Kuatiarogue mombyky”.
+genai-chatbot-summarize-sidebar-provider-subtitle = Eikutu akatúa IA chatbot tenda ykegua ha eiporavo “Kuatiarogue mombyky”.
+# “Summarize page” should be consistent with the translation for the string genai-page-button-summarize
+genai-chatbot-summarize-footer-provider-subtitle = Embojuruja IA chatbot tenda ykegua ha eiporavo “Kuatiarogue mombyky” oĩva yvy gotyo.
 
 ## Chatbot onboarding choices
 ## These describe features/capabilities of chatbot providers. These are not buttons/actions.
