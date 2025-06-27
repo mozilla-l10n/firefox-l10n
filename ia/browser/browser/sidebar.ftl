@@ -67,7 +67,7 @@ sidebar-show-on-the-left =
 # Option to automatically expand the collapsed sidebar when the mouse pointer
 # hovers over it.
 expand-sidebar-on-hover =
-    .label = Expander barra lateral al survolo
+    .label = Expander le barra lateral al passage del mouse
 sidebar-manage-extensions = Gerer extensiones
 
 ## Labels for sidebar context menu items

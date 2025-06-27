@@ -11,7 +11,7 @@ about-processes-column-action =
 ## Tooltips
 
 about-processes-shutdown-process =
-    .title = Discargar schedas e terminar le processo
+    .title = Evacuar schedas e terminar le processo
 about-processes-kill-process =
     .title = Terminar le processo
 about-processes-shutdown-tab =
