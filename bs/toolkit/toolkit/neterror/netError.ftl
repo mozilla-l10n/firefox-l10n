@@ -35,6 +35,7 @@ neterror-disable-native-feedback-warning = Uvijek nastavi
 ##
 
 neterror-pref-reset = Izgleda da vaše postavke sigurnosti mreže uzrokuju ovo. Želite li vratiti na početne postavke?
+neterror-error-reporting-automatic = Prijavite ovakve greške kako biste pomogli da { -vendor-short-name } identifikuje i blokira zlonamjerne stranice
 
 ## Specific error messages
 
@@ -42,7 +43,15 @@ neterror-generic-error = { -brand-short-name } iz nekog razloga ne može da uči
 neterror-load-error-try-again = Web stranica je možda privremeno nedostupna ili je prezauzeta. Pokušajte ponovo za par trenutaka.
 neterror-load-error-connection = Ukoliko ne možete učitati niti jednu stranicu, provjerite mrežnu konekciju vašeg računara.
 neterror-load-error-firewall = Ako su vaš računar ili mreža zaštićeni firewallom ili proxyjem, provjerite da li { -brand-short-name } ima dozvoljen pristup Webu.
+# This warning is only shown on macOS Sequoia and later (see bug 1929377)
+neterror-load-osx-permission = Ako pokušavate učitati stranicu lokalne mreže, provjerite da li je za { -brand-short-name } odobrena dozvola za lokalnu mrežu u postavkama privatnosti i sigurnosti macOS-a.
+neterror-http-error-page = Provjerite da li ste ispravno unijeli adresu web stranice.
 neterror-captive-portal = Morate se prijaviti na ovu mrežu da biste mogli pristupiti internetu.
+# Variables:
+# $hostAndPath (String) - a suggested site (e.g. "www.example.com") that the user may have meant instead.
+neterror-dns-not-found-with-suggestion = Jeste li mislili otići na <a data-l10n-name="website">{ $hostAndPath }</a>?
+neterror-dns-not-found-hint-header = <strong>Ako ste unijeli ispravnu adresu, možete:</strong>
+neterror-dns-not-found-hint-try-again = Pokušajte ponovo kasnije
 neterror-dns-not-found-hint-check-network = Provjerite mrežnu vezu
 neterror-dns-not-found-hint-firewall = Provjerite da li { -brand-short-name } ima dozvolu za pristup webu (možda ste povezani, ali iza zaštitnog zida)
 neterror-dns-not-found-offline-hint-header = <strong>Šta možete učiniti povodom toga?</strong>

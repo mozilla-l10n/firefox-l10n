@@ -531,6 +531,9 @@ plugins-widevine-description = Dette programtillegget gjer det mogleg å spele a
 ## Headings for the Permissions tab in `about:addons` when the data collection
 ## feature is enabled.
 
+addon-permissions-optional-data-collection = Valfri datainnsamling:
+# Name of the Permissions tab in `about:addons` when the data collection feature is enabled.
+permissions-data-addon-button = Løyve og data
 
 ## Mapping Engine IDs from AI models to how that feature represented by the engine Id is described in the used by section in local model management
 

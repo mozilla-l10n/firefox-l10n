@@ -150,6 +150,7 @@ genai-onboarding-select-header = Marker tekst for å sjå forslag
 genai-onboarding-select-description = Når du vel tekst føreslår vi spørsmål du kan sende til samtaleroboten. Du kan òg skrive eigne spørsmål.
 genai-onboarding-select-primary = Begynn å chatte
 genai-chatbot-contextual-title = Bruk ein AI-chatbot utan å byte faner
+genai-chatbot-contextual-subtitle = Chat og surf side om side når du legg til ein AI-chatbot i { -brand-short-name }-sidestolpen.
 genai-chatbot-contextual-button = Vel ein samtalerobot
 genai-chatbot-summarize-button = Oppsummer side
 

@@ -39,6 +39,18 @@ pdfjs-open-file-button-label = Otvori
 pdfjs-print-button =
     .title = Štampaj
 pdfjs-print-button-label = Štampaj
+pdfjs-save-button =
+    .title = Sačuvaj
+pdfjs-save-button-label = Sačuvaj
+# Used in Firefox for Android as a tooltip for the download button (“download” is a verb).
+pdfjs-download-button =
+    .title = Preuzmi
+# Used in Firefox for Android as a label for the download button (“download” is a verb).
+# Length of the translation matters since we are in a mobile context, with limited screen estate.
+pdfjs-download-button-label = Preuzmi
+pdfjs-bookmark-button =
+    .title = Trenutna stranica (Prikaži URL sa trenutne stranice)
+pdfjs-bookmark-button-label = Trenutna stranica
 
 ##  Secondary toolbar and context menu
 
@@ -63,6 +75,17 @@ pdfjs-cursor-text-select-tool-button-label = Alat za označavanje teksta
 pdfjs-cursor-hand-tool-button =
     .title = Omogući ručni alat
 pdfjs-cursor-hand-tool-button-label = Ručni alat
+pdfjs-scroll-page-button =
+    .title = Koristite pomicanje stranice
+pdfjs-scroll-page-button-label = Pomicanje stranice
+pdfjs-scroll-vertical-button =
+    .title = Koristite vertikalno pomicanje
+pdfjs-scroll-vertical-button-label = Vertikalno pomicanje
+pdfjs-scroll-horizontal-button =
+    .title = Koristite horizontalno pomicanje
+pdfjs-scroll-horizontal-button-label = Horizontalno pomicanje
+pdfjs-scroll-wrapped-button =
+    .title = Koristite omotno pomicanje
 pdfjs-scroll-wrapped-button-label = Omotno pomicanje
 pdfjs-spread-none-button =
     .title = Ne izrađuj duplerice

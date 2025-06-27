@@ -93,6 +93,12 @@ printui-primary-button = Štampaj
 printui-primary-button-save = Sačuvaj
 printui-cancel-button = Otkaži
 printui-close-button = Zatvori
+printui-loading = Priprema pregleda
+# Reported by screen readers and other accessibility tools to indicate that
+# the print preview has focus.
+printui-preview-label =
+    .aria-label = Pregled prije štampanja
+printui-pages-per-sheet = Stranica po listu
 # This is shown next to the Print button with an indefinite loading spinner
 # when the user prints a page and it is being sent to the printer.
 printui-print-progress-indicator = Štampam…

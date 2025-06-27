@@ -68,6 +68,7 @@ sidebar-show-on-the-left =
 # hovers over it.
 expand-sidebar-on-hover =
     .label = Utvid sidestolpen ved å halde musepeikaren over
+sidebar-manage-extensions = Handsam utvidingar
 
 ## Labels for sidebar context menu items
 
