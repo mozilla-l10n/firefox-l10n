@@ -17,8 +17,8 @@ contentanalysis-slow-agent-dialog-body-file = { $agent } recense “{ $filename 
 #   $count (number) - The number of additional items in the request for analysis
 contentanalysis-slow-agent-dialog-body-file-and-more =
     { $count ->
-        [one] { $agent } recense “{ $filename }” e { $count } additional elemento con le directivas del datos de tu organisation. Isto pote prender un momento.
-       *[other] { $agent } recense “{ $filename }” e { $count } additional elementos contra le directivas del datos de tu organisation. Isto pote prender un momento.
+        [one] { $agent } verifica le conformitate de “{ $filename }” e { $count } altere elemento con le politicas de datos de tu organisation. Isto pote prender un momento.
+       *[other] { $agent } verifica le conformitate de “{ $filename }” e { $count } altere elementos con le politicas de datos de tu organisation. Isto pote prender un momento.
     }
 # Variables:
 #   $agent - The name of the DLP agent doing the analysis

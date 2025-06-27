@@ -42,8 +42,8 @@ requested-crash-reports-message-new =
 #   $reportCount (Number): the number of pending crash reports
 requested-crash-reports-message =
     { $reportCount ->
-        [one] Tu ha un reporto de crash non inviate que concorda con crashes jam investigate, inviar lo nos adjutara a meliorar { -brand-product-name }. Claudente iste aviso, tal reporto sera ignorate.
-       *[other] Tu ha { $reportCount } reportos de crash non inviate que concorda con crashes jam investigate, le invio de illos nos adjutara meliorar { -brand-product-name }. Claudente iste aviso, tal reportos sera ignorate.
+        [one] Tu ha un reporto de collapso non inviate que concorda con collapsos actualmente sub investigation. Invia lo pro adjutar nos a meliorar { -brand-product-name }. Si tu claude iste aviso, iste reporto essera ignorate.
+       *[other] Tu ha { $reportCount } reportos de collapso non inviate que concorda con collapsos actualmente sub investigation. Invia los pro adjutar nos a meliorar { -brand-product-name }. Si tu claude iste aviso, iste reportos essera ignorate.
     }
 requested-crash-reports-dont-show-again =
     .label = Non plus monstrar.

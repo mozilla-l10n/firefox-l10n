@@ -35,11 +35,11 @@ experimental-features-custom-wallpaper =
 experimental-features-custom-wallpaper-description = Carga tu proprie fundo o selige un color personalisate pro le fundo de tu Nove scheda.
 # Link Previews with AI
 experimental-features-link-previews =
-    .label = Vistas preliminar de ligamine
+    .label = Previsualisationes de ligamines
 experimental-features-link-previews-description =
     { PLATFORM() ->
-        [macos] Pro saper plus re un pagina web ante que tu clicca, survola un ligamine e pulsa Majusc (⇧) plus option (⌥) o Alt. Le vistas preliminar pote includer detalios como titulo e tempore de lectura. Pro alcun paginas web, IA pote alsi leger le texto del pagina e generar le punctos clave. Le IA es optimisate a leger e generar texto anglese. Pro dar major prioritate a tu confidentialitate, le IA functiona localmente sur tu computator. <a data-l10n-name="connect">Comparti tu commentario</a>
-       *[other] Pro saper plus re un pagina web ante que tu clicca, survola un ligamine e pulsa Majusc + Alt. Le vistas preliminar pote includer detalios como titulo e tempore de lectura. Pro alcun paginas web, IA pote alsi leger le texto del pagina e generar le punctos clave. Le IA es optimisate a leger e generar texto anglese. Pro dar major prioritate a tu confidentialitate, le IA functiona localmente sur tu computator. <a data-l10n-name="connect">Comparti tu commentario</a>
+        [macos] Pro saper plus sur un pagina web ante que tu clicca, passa le mouse supra un ligamine e preme Shift (⇧) insimul a Option (⌥) o Alt. Le previsualisationes pote includer detalios como le titulo e le tempore de lectura. Pro alcun paginas web, IA pote alsi leger le texto del pagina e generar le punctos clave. Le IA es optimisate pro leger e generar texto anglese. Pro dar major prioritate a tu confidentialitate, le IA se executa localmente sur tu computator. <a data-l10n-name="connect">Dar tu opinion</a>
+       *[other] Pro saper plus sur un pagina web ante que tu clicca, passa le mouse supra un ligamine e preme Shift + Alt. Le previsualisationes pote includer detalios como le titulo e le tempore de lectura. Pro alcun paginas web, IA pote alsi leger le texto del pagina e generar le punctos clave. Le IA es optimisate pro leger e generar texto anglese. Pro dar major prioritate a tu confidentialitate, le IA se executa localmente sur tu computator. <a data-l10n-name="connect">Dar tu opinion</a>
     }
 # This version of the link previews description does not mention AI.
 experimental-features-link-previews-description-no-ai =

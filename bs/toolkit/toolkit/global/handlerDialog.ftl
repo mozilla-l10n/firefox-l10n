@@ -12,6 +12,7 @@
 
 permission-dialog-description = Dozvoliti ovoj stranici da otvori link { $scheme }?
 permission-dialog-description-file = Dozvoliti ovoj datoteci da otvori link { $scheme }?
+permission-dialog-description-host = Dozvoliti { $host }u da otvori link { $scheme }?
 permission-dialog-description-extension = Dozvoliti ekstenziji { $extension } da otvori link { $scheme }?
 permission-dialog-description-app = Dozvoliti ovoj stranici da otvori link { $scheme } sa { $appName }?
 permission-dialog-description-host-app = Dozvoliti { $host } da otvori link { $scheme } sa { $appName }?

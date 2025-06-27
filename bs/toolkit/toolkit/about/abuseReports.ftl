@@ -19,18 +19,44 @@ abuse-report-learnmore =
     Niste sigurni koji problem odabrati?
     <a data-l10n-name="learnmore-link">Saznajte više o izvještavanju o ekstenzijama i temama</a>
 abuse-report-submit-description = Opišite problem (opciono)
+abuse-report-textarea =
+    .placeholder = Lakše nam je riješiti problem ako imamo konkretne detalje. Molimo vas da opišete s čime se suočavate. Hvala vam što nam pomažete da web bude zdrav.
+abuse-report-submit-note =
+    Napomena: Ne unosite lične podatke (kao što su ime, email adresa, broj telefona, fizička adresa).
+    { -vendor-short-name } čuva trajnu evidenciju ovih izvještaja.
 
 ## Panel buttons.
 
+abuse-report-cancel-button = Otkaži
+abuse-report-next-button = Sljedeće
+abuse-report-goback-button = Idi nazad
+abuse-report-submit-button = Pošalji
 
 ## Message bars descriptions.
 ##
 ## Variables:
 ##   $addon-name (string) - Name of the add-on
 
+abuse-report-messagebar-aborted = Izvještaj za dodatak <span data-l10n-name="addon-name">{ $addon-name }</span> je otkazan.
+abuse-report-messagebar-submitting = Slanje izvještaja za dodatak <span data-l10n-name="addon-name">{ $addon-name }</span>.
+abuse-report-messagebar-submitted = Hvala vam što ste poslali prijavu. Želite li ukloniti dodatak <span data-l10n-name="addon-name">{ $addon-name }</span>?
+abuse-report-messagebar-submitted-noremove = Hvala vam što ste poslali izvještaj.
+abuse-report-messagebar-removed-extension = Hvala vam što ste poslali prijavu. Uklonili ste ekstenziju <span data-l10n-name="addon-name">{ $addon-name }</span>.
+abuse-report-messagebar-removed-sitepermission = Hvala vam što ste poslali prijavu. Uklonili ste dodatak Dozvole za web stranicu <span data-l10n-name="addon-name">{ $addon-name }</span>.
+abuse-report-messagebar-removed-theme = Hvala vam što ste poslali izvještaj. Uklonili ste temu dodatka <span data-l10n-name="addon-name">{ $addon-name }</span>.
+abuse-report-messagebar-error = Došlo je do greške prilikom slanja izvještaja za dodatak <span data-l10n-name="addon-name">{ $addon-name }</span>.
+abuse-report-messagebar-error-recent-submit = Izvještaj za dodatak <span data-l10n-name="addon-name">{ $addon-name }</span> nije poslan jer je nedavno poslan drugi izvještaj.
 
 ## Message bars actions.
 
+abuse-report-messagebar-action-remove-extension = Da, ukloni to
+abuse-report-messagebar-action-keep-extension = Ne, zadržat ću to
+abuse-report-messagebar-action-remove-sitepermission = Da, ukloni to
+abuse-report-messagebar-action-keep-sitepermission = Ne, zadržat ću to
+abuse-report-messagebar-action-remove-theme = Da, ukloni to
+abuse-report-messagebar-action-keep-theme = Ne, zadržat ću to
+abuse-report-messagebar-action-retry = Pokušaj ponovo
+abuse-report-messagebar-action-cancel = Otkaži
 
 ## Abuse report reasons (optionally paired with related examples and/or suggestions)
 

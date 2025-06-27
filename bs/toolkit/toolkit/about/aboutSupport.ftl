@@ -293,6 +293,7 @@ try-newer-driver = Blokirano za vašu verziju grafičkog drajvera. Pokušajte na
 # there are no good translations, these are only used in about:support
 clear-type-parameters = ClearType Parametri
 compositing = Sastavljanje
+support-font-determination = Informacije o otklanjanju grešaka u vidljivosti fonta
 hardware-h264 = Hardversko H264 dekodiranje
 main-thread-no-omtc = glavna nit, bez OMTC
 yes = Da
@@ -328,11 +329,17 @@ webgl2-renderer = WebGL 2 Driver Renderer
 webgl2-version = WebGL 2 Driver verzija
 webgl2-driver-extensions = WebGL 2 Driver ekstenzije
 webgl2-extensions = WebGL 2 ekstenzije
+webgpu-default-adapter = Zadani WebGPU adapter
+webgpu-fallback-adapter = Rezervni adapter za WebGPU
+# Variables
+#   $bugNumber (string) - Bug number on Bugzilla
+support-blocklisted-bug = Na listi blokiranih zbog poznatih problema: <a data-l10n-name="bug-link">bug { $bugNumber }</a>
 # Variables
 # $failureCode (string) - String that can be searched in the source tree.
 unknown-failure = Blokiran; kod neuspjeha { $failureCode }
 d3d11layers-crash-guard = D3D11 kompozitor
 glcontext-crash-guard = OpenGL
+wmfvpxvideo-crash-guard = WMF VPX video dekoder
 reset-on-next-restart = Resetuj vrijednosti kod sljedećeg restarta
 gpu-process-kill-button = Okončaj GPU procese
 gpu-device-reset = Reset uređaja
@@ -348,14 +355,24 @@ has-seccomp-bpf = Seccomp-BPF (filtriranje sistemskih poziva)
 has-seccomp-tsync = Seccomp Thread sinhronizacija
 has-user-namespaces = Korisnički namespace-i
 has-privileged-user-namespaces = Korisnički namespace-i za privilegovane procese
+# Variables
+# $status (string) - Boolean value of hasUserNamespaces (should only be false when support-user-namespaces-unavailable is used)
+support-user-namespaces-unavailable = { $status } — Vaš sistem ne dozvoljava ovu funkciju. Ovo može ograničiti sigurnosne funkcije { -brand-short-name }a.
 can-sandbox-content = Sandboxing procesa sadržaja
 can-sandbox-media = Sandboxing media plugina
 content-sandbox-level = Sanbox nivo procesa sadržaja
 effective-content-sandbox-level = Efektivni Content Process Sandbox nivo
+content-win32k-lockdown-state = Stanje zaključavanja Win32k za proces sadržaja
+support-sandbox-gpu-level = Nivo sigurnosnog okruženja za GPU procese
 sandbox-proc-type-content = sadržaj
 sandbox-proc-type-file = sadržaj fajla
 sandbox-proc-type-media-plugin = medijski plugin
 sandbox-proc-type-data-decoder = dekoder podataka
+startup-cache-title = Keš memorija pokretanja
+startup-cache-disk-cache-path = Putanja keš memorije diska
+startup-cache-ignore-disk-cache = Zanemari keš memoriju diska
+startup-cache-found-disk-cache-on-init = Pronađena keš memorija diska prilikom inicijalizacije
+startup-cache-wrote-to-disk-cache = Zapisano u keš memoriju diska
 launcher-process-status-0 = Omogućeno
 launcher-process-status-1 = Onemogućeno zbog kvara
 launcher-process-status-2 = Prisilno onemogućeno
@@ -364,6 +381,13 @@ launcher-process-status-unknown = Nepoznat status
 # $remoteWindows (integer) - Number of remote windows
 # $totalWindows (integer) - Number of total windows
 multi-process-windows = { $remoteWindows }/{ $totalWindows }
+# Variables
+# $fissionWindows (integer) - Number of remote windows
+# $totalWindows (integer) - Number of total windows
+fission-windows = { $fissionWindows }/{ $totalWindows }
+fission-status-experiment-control = Onemogućeno eksperimentom
+fission-status-experiment-treatment = Omogućeno eksperimentom
+fission-status-disabled-by-e10s-env = Onemogućeno okruženjem
 fission-status-enabled-by-env = Omogućeno okruženjem
 fission-status-disabled-by-env = Onemogućeno okruženjem
 fission-status-enabled-by-default = Onemogućeno prema zadanim postavkama
