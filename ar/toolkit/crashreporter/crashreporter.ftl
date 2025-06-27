@@ -51,3 +51,4 @@ crashreporter-error-no-home-dir = دليل المنزل مفقود
 # $to (String) - the destination path
 crashreporter-error-moving-path = فشل نقل { $from } إلى { $to }
 crashreporter-error-version-eol = نهاية عمر الإصدار: لم تعد تقارير الإنهيار مقبولة.
+crashreporter-error-failed-to-generate-minidump = فشل التطبيق في إنشاء معلومات الإنهيار.

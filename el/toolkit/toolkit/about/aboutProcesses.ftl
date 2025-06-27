@@ -11,7 +11,7 @@ about-processes-column-action =
 ## Tooltips
 
 about-processes-shutdown-process =
-    .title = "Ξεφόρτωμα" καρτελών και τερματισμός διεργασίας
+    .title = Εκφόρτωση καρτελών και τερματισμός διεργασίας
 about-processes-kill-process =
     .title = Τερματισμός διεργασίας
 about-processes-shutdown-tab =
@@ -41,7 +41,7 @@ about-processes-browser-process = { -brand-short-name } ({ $pid })
 about-processes-web-process = Κοινόχρηστη διεργασία ιστού ({ $pid })
 about-processes-file-process = Αρχεία ({ $pid })
 about-processes-extension-process = Επεκτάσεις ({ $pid })
-about-processes-privilegedabout-process = Σελίδες "about:" ({ $pid })
+about-processes-privilegedabout-process = Σελίδες «about:» ({ $pid })
 about-processes-plugin-process = Αρθρώματα ({ $pid })
 about-processes-privilegedmozilla-process = Σελίδες της { -vendor-short-name } ({ $pid })
 about-processes-gmp-plugin-process = Αρθρώματα πολυμέσων Gecko ({ $pid })
