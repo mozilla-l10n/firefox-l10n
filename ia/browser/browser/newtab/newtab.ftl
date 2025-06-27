@@ -532,18 +532,18 @@ newtab-section-mangage-topics-blocked-topics = Blocate
 newtab-section-mangage-topics-blocked-topics-empty-state = Tu non ha ancora blocate alcun topico.
 newtab-custom-wallpaper-title = Ecce le fundos personalisate
 # 'Make firefox yours" means to customize or personalize
-newtab-custom-wallpaper-subtitle = Carga tu proprie fundo o selige un color personalisate pro tu { -brand-product-name }.
+newtab-custom-wallpaper-subtitle = Incarga tu proprie fundo o selige un color pro personalisar tu { -brand-product-name }.
 newtab-custom-wallpaper-cta = Prova lo
 
 ## Strings for download mobile highlight
 
 newtab-download-mobile-highlight-title = Discarga { -brand-product-name } pro apparatos mobile
 # "Scan the code" refers to scanning the QR code that appears above the body text that leads to Firefox for mobile download.
-newtab-download-mobile-highlight-body-variant-a = Scande le codice pro navigar al volo con securitate.
-newtab-download-mobile-highlight-body-variant-b = Reprende de ubi tu exiva quando tu synchronisa tu schedas, contrasignos, e altero.
-newtab-download-mobile-highlight-body-variant-c = Sape tu que tu pote prender { -brand-product-name } al volo?
+newtab-download-mobile-highlight-body-variant-a = Scanna le codice pro navigar con securitate quando tu es in cammino.
+newtab-download-mobile-highlight-body-variant-b = Reprende de ubi tu cessava quando tu synchronisa tu schedas, contrasignos, e plus.
+newtab-download-mobile-highlight-body-variant-c = Sape tu que tu pote prender { -brand-product-name } quando tu es in cammino? Le mesme navigator, in tu tasca.
 newtab-download-mobile-highlight-image =
-    .aria-label = Codice QR pro discargar { -brand-product-name } pro apparato mobile
+    .aria-label = Codice QR pro discargar { -brand-product-name } pro apparatos mobile
 
 ## Strings for reporting ads and content
 
@@ -552,17 +552,17 @@ newtab-report-content-why-reporting-this =
 newtab-report-ads-reason-not-interested =
     .label = Io non es interessate
 newtab-report-ads-reason-inappropriate =
-    .label = Il es inappropriate
+    .label = Es inappropriate
 newtab-report-ads-reason-seen-it-too-many-times =
-    .label = Io lo ha vidite troppe vices
+    .label = Io lo ha vidite troppo de vices
 newtab-report-content-wrong-category =
-    .label = Mal categoria
+    .label = Categoria incorrecte
 newtab-report-content-outdated =
     .label = Obsolete
 newtab-report-content-inappropriate-offensive =
     .label = Inappropriate o offensive
 newtab-report-content-spam-misleading =
-    .label = Spam o fallace
+    .label = Spam o deception
 newtab-report-cancel = Cancellar
 newtab-report-submit = Inviar
 newtab-toast-thanks-for-reporting =
