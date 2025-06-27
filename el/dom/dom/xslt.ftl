@@ -5,17 +5,17 @@
 
 ## XSLT and XPath specific errors.
 
-xslt-parse-failure = Αποτυχία ανάλυσης  XSLT stylesheet
+xslt-parse-failure = Η ανάλυση φύλλου μορφοποίησης XSLT απέτυχε.
 xpath-parse-failure = Αποτυχία ανάλυσης έκφρασης XPath
 xslt-execution-failure = Αποτυχία μετατροπής XSLT
 xpath-unknown-function = XSLT/XPath προσπάθησε να καλέσει μια άγνωστη λειτουργία.
-xslt-bad-recursion = XSLT Stylesheet (πιθανώς) να περιέχει μια αναδρομή.
+xslt-bad-recursion = Το φύλλο μορφοποίησης XSLT (πιθανώς) περιέχει αναδρομή.
 xslt-bad-value = Η τιμή γνωρίσματος δεν είναι έγκυρη στο XSLT 1.0.
 xslt-nodeset-expected = Αναμενόταν μια έκφραση XPath για επιστροφή ενός NodeSet.
 xslt-aborted = Η μετατροπή XSLT τερματίστηκε από <xsl:message>.
 xslt-network-error = Σφάλμα δικτύου κατά τη φόρτωση ενός  XSLT stylesheet
 xslt-wrong-mime-type = Ένα φύλλο μορφοποίησης XSLT δεν διαθέτει τύπο mime XML:
-xslt-load-recursion = Ένα XSLT stylesheet  έμμεσα ή άμεσα περιλαμβάνει τον εαυτό του:
+xslt-load-recursion = Ένα φύλλο μορφοποίησης XSLT περιλαμβάνει έμμεσα ή άμεσα τον εαυτό του:
 xpath-bad-argument-count = Μια λειτουργία XPath  κλήθηκε με εσφαλμένο αριθμό παραμέτρων
 xpath-bad-extension-function = Κλήθηκε μια άγνωστη λειτουργία επέκτασης XPath.
 xpath-paren-expected = Αποτυχία λήψης XPath: ‘)’ αναμενόμενο:

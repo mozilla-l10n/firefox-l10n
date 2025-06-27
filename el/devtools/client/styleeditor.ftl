@@ -11,7 +11,7 @@ styleeditor-import-button =
 styleeditor-filter-input =
     .placeholder = Φιλτράρισμα φύλλων στυλ
 styleeditor-visibility-toggle =
-    .tooltiptext = (Απ)ενεργοποίηση ορατότητας φύλλου στυλ
+    .tooltiptext = (Απ)ενεργοποίηση ορατότητας φύλλου μορφοποίησης
     .accesskey = Α
 styleeditor-visibility-toggle-system =
     .tooltiptext = Δεν είναι δυνατή η απενεργοποίηση των φύλλων μορφοποίησης του συστήματος
@@ -24,7 +24,7 @@ styleeditor-at-rules = Κανόνες «At»
 styleeditor-editor-textbox =
     .data-placeholder = Πληκτρολογήστε CSS εδώ.
 styleeditor-no-stylesheet = Αυτή η σελίδα δεν έχει φύλλο στυλ.
-styleeditor-no-stylesheet-tip = Μήπως θέλετε να <a data-l10n-name="append-new-stylesheet">προσθέσετε ένα νέο φύλλο στυλ</a>;
+styleeditor-no-stylesheet-tip = Μήπως θέλετε να <a data-l10n-name="append-new-stylesheet">προσαρτήσετε ένα νέο φύλλο μορφοποίησης</a>;
 styleeditor-open-link-new-tab =
     .label = Άνοιγμα συνδέσμου σε νέα καρτέλα
 styleeditor-copy-url =
