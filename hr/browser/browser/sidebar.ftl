@@ -68,6 +68,7 @@ sidebar-show-on-the-left =
 # hovers over it.
 expand-sidebar-on-hover =
     .label = Proširi bočnu traku prilikom prelaska mišem
+sidebar-manage-extensions = Upravljaj proširenjima
 
 ## Labels for sidebar context menu items
 
@@ -101,6 +102,10 @@ sidebar-context-menu-customize-sidebar =
 #   $deviceName (String) - The name of the device the user is closing a tab for
 sidebar-context-menu-close-remote-tab =
     .label = Zatvori karticu na { $deviceName }
+sidebar-context-menu-remove-extension2 =
+    .label = Ukloni iz { -brand-short-name }a
+sidebar-context-menu-unpin-extension =
+    .label = Ukloni iz bočne trake
 
 ## Labels for sidebar history context menu items
 
@@ -125,6 +130,8 @@ sidebar-menu-customize-label =
     .label = Prilagodi bočnu traku
 sidebar-menu-contextual-password-manager-label =
     .label = Lozinke
+sidebar-menu-more-tools-label =
+    .label = Više alata
 
 ## Tooltips for sidebar menu items.
 
