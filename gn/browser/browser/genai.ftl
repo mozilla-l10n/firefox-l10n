@@ -162,6 +162,7 @@ genai-chatbot-summarize-button = Emombyky kuatiarogue
 genai-chatbot-summarize-sidebar-provider-subtitle = Eikutu akatúa IA chatbot tenda ykegua ha eiporavo “Kuatiarogue mombyky”.
 # “Summarize page” should be consistent with the translation for the string genai-page-button-summarize
 genai-chatbot-summarize-footer-provider-subtitle = Embojuruja IA chatbot tenda ykegua ha eiporavo “Kuatiarogue mombyky” oĩva yvy gotyo.
+genai-chatbot-summarize-footer-generic-subtitle = Embojuaju IA chatbot { -brand-short-name } renda ykére emombyky hag̃ua umi kuatiarogue.
 
 ## Chatbot onboarding choices
 ## These describe features/capabilities of chatbot providers. These are not buttons/actions.
