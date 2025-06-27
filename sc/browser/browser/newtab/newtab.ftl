@@ -488,6 +488,9 @@ newtab-section-mangage-topics-followed-topics = Sighidu
 newtab-section-mangage-topics-followed-topics-empty-state = Non ses ancora sighende nissunu argumentu
 newtab-section-mangage-topics-blocked-topics = Blocadu
 newtab-section-mangage-topics-blocked-topics-empty-state = No as ancora blocadu nissunu argumentu
+newtab-custom-wallpaper-title = Immoe podes impreare isfundos personalizados
+# 'Make firefox yours" means to customize or personalize
+newtab-custom-wallpaper-subtitle = Càrriga un’isfundu tuo o sèbera unu colore pro personalizare { -brand-product-name }.
 newtab-custom-wallpaper-cta = Proa immoe
 
 ## Strings for download mobile highlight

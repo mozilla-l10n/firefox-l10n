@@ -38,6 +38,9 @@ webext-perms-sideload-cancel =
     .accesskey = l
 # Variables:
 #   $extension (String): replaced with the localized name of the extension.
+webext-perms-update-text2 = { $extension } est istada atualizada. Depes aprovare is permissos noos in antis chi sa versione noa siat installada. Si sèberas “Annulla” s’at a mantènnere sa versione atuale de s’estensione.
+# Variables:
+#   $extension (String): replaced with the localized name of the extension.
 webext-perms-update-text = { $extension } est istadu atualizadu. Depes aprovare is permissos noos in antis de s'installatzione de sa versione atualizada. Si sèberas “annulla” as a abarrare cun sa versione atuale de s'estensione. S'estensione at a tènnere permissu pro:
 webext-perms-update-accept =
     .label = Agiorna

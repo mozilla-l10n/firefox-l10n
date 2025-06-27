@@ -12,3 +12,4 @@ experimental-features-js-warp =
 # Search during IME
 experimental-features-ime-search =
     .label = Barra de indiritzos: ammustra is resurtados durante sa cumpositzione IME
+experimental-features-custom-wallpaper-description = Càrriga un’isfundu tuo o sèbera unu colore pro s’isfundu de is ischedas noas.
