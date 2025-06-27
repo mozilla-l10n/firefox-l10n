@@ -354,7 +354,7 @@ quickactions-bookmarks2 = Gerer marcapaginas
 quickactions-cmd-bookmarks = marcapaginas
 # Opens a SUMO article explaining how to clear history
 quickactions-clearrecenthistory = Vacuar le chronologia recente
-quickactions-cmd-clearrecenthistory = Vacuar le chronologia recente, chronologia
+quickactions-cmd-clearrecenthistory = vacuar le chronologia recente, chronologia
 # Opens a SUMO article explaining how to clear history
 quickactions-clearhistory = Vacuar le chronologia
 quickactions-cmd-clearhistory = vacuar chronologia
@@ -372,7 +372,7 @@ quickactions-firefoxview = Aperir { -firefoxview-brand-name }
 quickactions-cmd-firefoxview = aperir { -firefoxview-brand-name }, { -firefoxview-brand-name }, aperir view, view
 # Opens SUMO home page
 quickactions-help = Adjuta pro { -brand-product-name }
-quickactions-cmd-help = adjuta, supporto
+quickactions-cmd-help = adjuta, supporto, assistentia
 # Opens the devtools web inspector
 quickactions-inspector2 = Aperir utensiles de disveloppator
 quickactions-cmd-inspector2 = inspector, devtools, utensiles pro disveloppatores

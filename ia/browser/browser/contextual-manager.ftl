@@ -22,24 +22,24 @@ contextual-manager-passwords-command-settings = Parametros
 contextual-manager-passwords-command-help = Adjuta
 contextual-manager-passwords-os-auth-dialog-caption = { -brand-full-name }
 # This message can be seen when attempting to export a password in about:logins on Windows.
-contextual-manager-passwords-export-os-auth-dialog-message-win = Pro exportar le contrasigno, insere tu credentiales de accesso a Windows. Isto adjuta a proteger le securitate de tu contos.
+contextual-manager-passwords-export-os-auth-dialog-message-win = Pro exportar tu contrasignos, insere tu credentiales de accesso a Windows. Isto adjuta a proteger le securitate de tu contos.
 # This message can be seen when attempting to export a password in about:logins
 # The macOS strings are preceded by the operating system with "Firefox is trying to "
 # and includes subtitle of "Enter password for the user "xxx" to allow this." These
 # notes are only valid for English. only provide the reason that account verification is needed. Do not put a complete sentence here.
 contextual-manager-passwords-export-os-auth-dialog-message-macosx = exportar le contrasignos salvate
 # This message can be seen when attempting to reveal a password in contextual password manager on Windows
-contextual-manager-passwords-reveal-password-os-auth-dialog-message-win = Pro vider le contrasigno, insere tu credentiales de accesso a Windows. Isto adjuta a proteger le securitate de tu contos.
+contextual-manager-passwords-reveal-password-os-auth-dialog-message-win = Pro vider tu contrasigno, insere tu credentiales de accesso a Windows. Isto adjuta a proteger le securitate de tu contos.
 # The MacOS string is preceded by the operating system with "Firefox is trying to ".
 # Only provide the reason that account verification is needed. Do not put a complete sentence here.
-contextual-manager-passwords-reveal-password-os-auth-dialog-message-macosx = monstrar le contrasigno salvate
+contextual-manager-passwords-reveal-password-os-auth-dialog-message-macosx = revelar le contrasigno salvate
 # This message can be seen when attempting to edit a login in contextual password manager on Windows.
 contextual-manager-passwords-edit-password-os-auth-dialog-message-win = Pro modificar tu contrasigno, insere tu credentiales de accesso a Windows. Isto adjuta a proteger le securitate de tu contos.
 # The MacOS string is preceded by the operating system with "Firefox is trying to ".
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 contextual-manager-passwords-edit-password-os-auth-dialog-message-macosx = modificar le contrasigno salvate
 # This message can be seen when attempting to copy a password in contextual password manager on Windows.
-contextual-manager-passwords-copy-password-os-auth-dialog-message-win = Pro copiar le contrasigno, insere tu credentiales de accesso a Windows. Isto adjuta a proteger le securitate de tu contos.
+contextual-manager-passwords-copy-password-os-auth-dialog-message-win = Pro copiar tu contrasigno, insere tu credentiales de accesso a Windows. Isto adjuta a proteger le securitate de tu contos.
 # The MacOS string is preceded by the operating system with "Firefox is trying to ".
 # Only provide the reason that account verification is needed. Do not put a complete sentence here.
 contextual-manager-passwords-copy-password-os-auth-dialog-message-macosx = copiar le contrasigno salvate
@@ -72,17 +72,17 @@ contextual-manager-passwords-import-error-heading-and-message =
     .message = Sia certe que tu file include un columna pro sitos web, nomines de usator, e contrasignos.
 contextual-manager-passwords-import-error-button-try-again = Retentar
 contextual-manager-passwords-import-error-button-cancel = Cancellar
-contextual-manager-passwords-import-learn-more = Apprende re importar contrasignos
+contextual-manager-passwords-import-learn-more = Saper plus sur le importation de contrasignos
 contextual-manager-passwords-export-success-heading =
     .heading = Contrasignos exportate
 contextual-manager-passwords-export-success-button = Facite
 # Export passwords to file dialog
-contextual-manager-export-passwords-dialog-title = Exportar contrasignos a file?
+contextual-manager-export-passwords-dialog-title = Exportar le contrasignos in un file?
 # This string recommends to the user that they delete the exported password file that is saved on their local machine.
-contextual-manager-export-passwords-dialog-message = Post tu exportation, nos consilia deler lo proque alteres qui pote usar iste apparato non pote vider tu contrasignos.
+contextual-manager-export-passwords-dialog-message = Post le exportation, nos consilia deler lo pro impedir que alteres qui pote usar iste apparato pote vider tu contrasignos.
 contextual-manager-export-passwords-dialog-confirm-button = Continuar con le exportation
 # Title of the file picker dialog
-contextual-manager-passwords-export-file-picker-title = Exportar contrasignos ab { -brand-short-name }
+contextual-manager-passwords-export-file-picker-title = Exportar contrasignos de { -brand-short-name }
 # The default file name shown in the file picker when exporting saved logins.
 # The resultant filename will end in .csv (added in code).
 contextual-manager-passwords-export-file-picker-default-filename = contrasignos
