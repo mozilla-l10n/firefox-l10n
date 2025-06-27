@@ -106,7 +106,7 @@ genai-header-options-button =
 genai-header-close-button =
     .title = Clauder
 genai-provider-view-details =
-    .label = Vider detalios de chatbot
+    .label = Vider detalios del chatbot
 genai-options-reload-generic =
     .label = Recargar chatbot IA
 # $provider (string) - name of the provider
@@ -128,7 +128,7 @@ genai-page-button-summarize = Summarisar pagina
 genai-onboarding-header = Summarisa, genera ideas, e plus durante que tu naviga
 genai-onboarding-choose-header = Selige un chatbot IA a usar in le barra lateral de { -brand-short-name }
 # "Switch anytime" refers to allowing the user to switch to a different chatbot.
-genai-onboarding-description = Selige un chatbot IA a usar in le barra lateral de { -brand-short-name }. Nos monstrara detalios re cata chatbot quando tu lo seligera. Muta lo quandocunque tu vole. <a data-l10n-name="learn-more">Pro saper plus</a>
+genai-onboarding-description = Selige un chatbot IA a usar in le barra lateral de { -brand-short-name }. Nos monstrara detalios sur cata chatbot quando tu lo selige. Cambia de chatbot a tote momento. <a data-l10n-name="learn-more">Saper plus</a>
 # "Switch anytime" refers to allowing the user to switch to a different chatbot.
 genai-onboarding-choose-description = Cambia lo a tote momento. Pro adjutar te a eliger, <a data-l10n-name="learn-more">lege plus sur cata chatbot</a>
 genai-onboarding-primary = Continuar
@@ -151,9 +151,9 @@ genai-onboarding-huggingchat-learn = Saper plus re HuggingChat
 genai-onboarding-lechat-tooltip =
     .title = Le Chat Mistral
 genai-onboarding-lechat-learn = Saper plus re Le Chat
-genai-onboarding-select-header = Seliger texto pro vider suggestiones
-genai-onboarding-select-description = Quando tu selige texto, nos suggerera le suggestiones que tu potera inviar al chatbot. Tu alsi pote inscriber tu proprie suggestiones.
-genai-onboarding-select-primary = Initia a chattar
+genai-onboarding-select-header = Selige texto pro vider suggestiones
+genai-onboarding-select-description = Quando tu selige texto, nos suggerera le consultas que tu pote inviar al chatbot. Tu pote etiam scriber tu proprie consultas.
+genai-onboarding-select-primary = Comenciar a conversar
 genai-chatbot-contextual-title = Usa un chatbot IA sin cambiar de scheda
 genai-chatbot-contextual-subtitle = Conversa e naviga latere a latere quando tu adde un chatbot IA in le barra lateral de { -brand-short-name }.
 genai-chatbot-contextual-button = Elige un chatbot
