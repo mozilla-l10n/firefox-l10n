@@ -38,7 +38,7 @@ remove-search-engine-button = OK
 ## Variables
 ## $newEngine (String) - the name of the new default search engine.
 
-reset-search-settings-message = Per un problema technic, tu motor de recerca predefinite ha essite cambiate retro a { $newEngine }. Pro cambiar le motor de recerca predefinite, va a parametros.
+reset-search-settings-message = A causa de un problema technic, tu motor de recerca predefinite ha essite cambiate retro a { $newEngine }. Pro cambiar le motor de recerca predefinite, visita le parametros.
 reset-search-settings-button = OK
 
 ## Infobar shown when user is prompted to install search engine.

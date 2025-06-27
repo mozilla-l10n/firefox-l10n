@@ -8,7 +8,7 @@ profile-window-body = Preserva tu labor e navigation personal, includite cosas c
 profile-window-checkbox-label-2 =
     .label = Eliger un profilo quando { -brand-short-name } se aperi
 # This subcopy appears below the checkbox when it is unchecked
-profile-window-checkbox-subcopy = { -brand-short-name } aperira tu profilo plus recentemente usate.
+profile-window-checkbox-subcopy = { -brand-short-name } se aperira con tu profilo le plus recentemente usate.
 profile-window-create-profile = Crear un profilo
 profile-card-edit-button =
     .title = Rediger le profilo
@@ -106,7 +106,7 @@ profiles-ocean-theme-2 = Blau oceano
 # This dark theme features warm oranges, dark mahogany browns, and earthy red/brown colors. The name evokes the earthy colors of brick masonry. This name can be translated directly if it's easily understood in your language, or adapted to a more natural sounding name that fits the color scheme.
 profiles-terracotta-theme-2 = Rubie bricca
 # This dark theme features forest green, dusky green with a gray undertone, and a muted sage green. Its name evokes the rich color of green moss in the forest. This name can be translated directly if its easily understood in your language, or adapted to a more natural sounding name that fits the color scheme.
-profiles-moss-theme-2 = Verde musco 
+profiles-moss-theme-2 = Verde musco
 
 ## Alternative text for default profile icons
 
