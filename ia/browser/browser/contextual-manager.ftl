@@ -190,14 +190,14 @@ contextual-manager-passwords-alert-back-button =
 contextual-manager-passwords-alert-list =
     .aria-label = Lista avisos
 contextual-manager-passwords-breached-origin-heading-and-message =
-    .heading = Il es consiliate modificar contrasigno
-    .message = Contrasignos de iste sito web era reportate robate o revelate. Cambia tu contrasigno pro proteger tu conto.
-contextual-manager-passwords-breached-origin-link-message = Como sape { -brand-product-name } re le violationes?
+    .heading = Cambio de contrasigno recommendate
+    .message = Le contrasignos de iste sito web ha essite reportate como robate o divulgate. Cambia tu contrasigno pro proteger tu conto.
+contextual-manager-passwords-breached-origin-link-message = Como sape { -brand-product-name } sur le violationes de datos?
 contextual-manager-passwords-change-password-button = Cambiar le contrasigno
 contextual-manager-passwords-vulnerable-password-heading-and-message =
-    .heading = Il es consiliate modificar contrasigno
-    .message = Iste contrasigno es facilemente divinabile. Cambia tu contrasigno pro proteger tu conto.
-contextual-manager-passwords-vulnerable-password-link-message = Como sape { -brand-product-name } re le contrasignos debile?
+    .heading = Cambio de contrasigno recommendate
+    .message = Iste contrasigno es facile a divinar. Cambia tu contrasigno pro proteger tu conto.
+contextual-manager-passwords-vulnerable-password-link-message = Como sape { -brand-product-name } sur le contrasignos debile?
 contextual-manager-passwords-no-username-heading-and-message =
     .heading = Adder un nomine de usator
     .message = Adder un pro signar plus velocemente.
@@ -212,9 +212,9 @@ contextual-manager-passwords-edit-label =
     .label = Modificar le contrasigno
 contextual-manager-passwords-remove-label =
     .title = Remover contrasigno
-contextual-manager-passwords-origin-tooltip = Insere le adresse exacte ubi tu accedera a iste sito.
-contextual-manager-passwords-username-tooltip = Insere le nomine de usator, adresse email, o numero de conto que tu usa pro acceder.
-contextual-manager-passwords-password-tooltip = Insere le contrasigno usate pro acceder a iste conto.
+contextual-manager-passwords-origin-tooltip = Insere le adresse exacte ubi tu aperira session sur iste sito.
+contextual-manager-passwords-username-tooltip = Insere le nomine de usator, adresse de e-mail, o numero de conto que tu usa pro aperir session.
+contextual-manager-passwords-password-tooltip = Insere le contrasigno usate pro aperir session a iste conto.
 
 ## Password Card
 
@@ -229,7 +229,7 @@ contextual-manager-check-icon-username =
 contextual-manager-check-icon-password =
     .alt = Copiate
 contextual-manager-alert-icon =
-    .alt = Advertentia
+    .alt = Advertimento
 # Variables
 #   $url (string) - The url associated with the login
 contextual-manager-origin-login-line =
@@ -239,8 +239,8 @@ contextual-manager-origin-login-line =
 # Variables
 #   $url (string) - The url associated with the login
 contextual-manager-origin-login-line-with-alert =
-    .aria-label = Visita { $url } (aviso)
-    .title = Visita { $url } (aviso)
+    .aria-label = Visita { $url } (advertimento)
+    .title = Visita { $url } (advertimento)
 # Variables
 #   $username (string) - The username associated with the login
 contextual-manager-username-login-line =
@@ -250,21 +250,21 @@ contextual-manager-username-login-line =
 # Variables
 #   $username (string) - The username associated with the login
 contextual-manager-username-login-line-with-alert =
-    .aria-label = Copiar nomine de usator { $username } (Aviso)
-    .title = Copiar nomine de usator { $username } (Aviso)
+    .aria-label = Copiar nomine de usator { $username } (advertimento)
+    .title = Copiar nomine de usator { $username } (advertimento)
 contextual-manager-password-login-line =
     .aria-label = Copiar contrasigno
     .title = Copiar contrasigno
 # "(Warning)" indicates that a login's password field has an alert icon.
 contextual-manager-password-login-line-with-alert =
-    .aria-label = Copiar contrasigno (Aviso)
-    .title = Copiar contrasigno (Aviso)
+    .aria-label = Copiar contrasigno (advertimento)
+    .title = Copiar contrasigno (advertimento)
 contextual-manager-edit-login-button = Modificar
     .tooltiptext = Modificar contrasigno
 contextual-manager-view-alert-heading =
-    .heading = Vider aviso
+    .heading = Vider alerta
 contextual-manager-view-alert-button =
-    .tooltiptext = Examina aviso
+    .tooltiptext = Examinar alerta
 # Variables
 #   $count (number) - The number of active alerts associated with the login
 contextual-manager-view-alert-heading-2 =
@@ -298,7 +298,7 @@ contextual-manager-passwords-no-passwords-found-message = Nulle contrasigno trov
 ## their passwords safely and securely in Firefox:
 
 # This string encourages the user to save their passwords in Firefox (the "safe spot").
-contextual-manager-passwords-no-passwords-header = Salva tu contrasignos in un posto secur.
+contextual-manager-passwords-no-passwords-header = Salva tu contrasignos in un loco secur.
 # This string informs that we (Firefox) store all passwords securely and will notify them of any breaches and alerts their
 # passwords may be involved in.
 contextual-manager-passwords-no-passwords-message = Tote le contrasignos es cryptate e nos surveliara contra violationes e te avisara si illos occurre.

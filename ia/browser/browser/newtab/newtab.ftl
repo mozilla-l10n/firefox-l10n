@@ -133,7 +133,7 @@ newtab-menu-section-unfollow = Non plus sequer le argumento
 
 newtab-menu-manage-sponsored-content = Gerer contentos sponsorisate
 newtab-menu-our-sponsors-and-your-privacy = Nostre sponsores e tu confidentialitate
-newtab-menu-report-this-ad = Reportar iste annuncio publicitari
+newtab-menu-report-this-ad = Reportar iste annuncio
 
 ## Message displayed in a modal window to explain privacy and provide context for sponsored content.
 
