@@ -8,6 +8,15 @@ tabbrowser-menuitem-close-tab =
     .label = Serriñ an ivinell
 tabbrowser-menuitem-close =
     .label = Serriñ
+# Displayed within the tooltip on tabs inside of a tab group.
+# Variables:
+#   $tabGroupName (String): the user-defined name of the current tab group.
+tabbrowser-tab-tooltip-tab-group = { $tabGroupName }
+# Displayed within the tooltip on tabs inside of a tab group if the tab is also in a container.
+# Variables:
+#   $tabGroupName (String): the user-defined name of the current tab group.
+#   $containerName (String): the name of the current container.
+tabbrowser-tab-tooltip-tab-group-container = { $tabGroupName } — { $containerName }
 # Displayed as a tooltip on container tabs
 # Variables:
 #   $title (String): the title of the current tab.
@@ -220,13 +229,79 @@ tabbrowser-manager-unmute-tab =
     .tooltiptext = Divudañ an ivinell
 tabbrowser-manager-close-tab =
     .tooltiptext = Serriñ an ivinell
+# This is for tab groups that have been "saved and closed" (see tab-group-editor-action-save). It does
+# not include "deleted" tab groups (see tab-group-editor-action-delete).
+tabbrowser-manager-closed-tab-group =
+    .label = { $tabGroupName }
+    .tooltiptext = { $tabGroupName } — Serret
+tabbrowser-manager-current-window-tab-group =
+    .label = { $tabGroupName }
+    .tooltiptext = { $tabGroupName } — Prenestr a-vremañ
 
 ## Tab Groups
 
+tab-group-editor-title-create = Krouiñ ur strollad ivinelloù
+tab-group-editor-title-edit = Merañ ar strollad ivinelloù
+tab-group-editor-color-selector =
+    .aria-label = Liv ar strollad ivinelloù
+# Variables:
+#  $tabGroupName (String): The name of the tab group. Defaults to the value
+#                          of tab-group-name-default.
+tab-group-description = { $tabGroupName } — Strollad ivinelloù
+tab-context-unnamed-group =
+    .label = Strollad dizanv
+tab-group-name-default = Strollad dizanv
 
 ## Variables:
 ##  $tabCount (Number): the number of tabs that are affected by the action.
 
+tab-group-editor-action-new-tab =
+    .label = Ivinell nevez er strollad
+tab-group-editor-action-new-window =
+    .label = Dilec’hiañ ar strollad en ur prenestr nevez
+tab-group-editor-action-save =
+    .label = Enrollañ ha serriñ ar strollad
+tab-group-editor-action-ungroup =
+    .label = Distrollañ an ivinelloù
+tab-group-editor-action-delete =
+    .label = Dilemel ar strollad
+tab-context-reopen-tab-group =
+    .label = Addigeriñ ar strollad ivinelloù
+# Variables:
+#  $groupCount (Number): the number of tab groups that are affected by the action.
+tab-context-ungroup-tab =
+    .label =
+        { $groupCount ->
+            [1] Lemel diouzh ar strollad
+            [one] Lemel diouzh ar strollad
+            [two] Lemel diouzh ar strolladoù
+            [few] Lemel diouzh ar strolladoù
+            [many] Lemel diouzh ar strolladoù
+           *[other] Lemel diouzh ar strolladoù
+        }
+    .accesskey = m
 
 ## Open/saved tab group context menu
 
+# For a tab group open in any window, clicking this will create a new
+# window and move this tab group to that new window.
+tab-group-context-move-to-new-window =
+    .label = Dilec’hiañ ar strollad en ur prenestr nevez
+# For a tab group open in a different window from the one that the
+# user is using to access the tab group menu, move that tab group into the
+# user's current window.
+tab-group-context-move-to-this-window =
+    .label = Dilec’hiañ ar strollad er prenestr-mañ
+# For a tab group that is open in any window, close the tab group and
+# do not save it. For a tab group that is closed but saved by the user, clicking
+# this will forget the saved tab group.
+tab-group-context-delete =
+    .label = Dilemel ar strollad
+# For a saved tab group that is not open in any window, open the tab group
+# in the user's current window.
+tab-group-context-open-saved-group-in-this-window =
+    .label = Digeriñ ar strollad er prenestr-mañ
+# For a saved tab group that is not open in any window, create a new window and
+# open the tab group in that window.
+tab-group-context-open-saved-group-in-new-window =
+    .label = Digeriñ ar strollad e-barzh ur prenestr nevez

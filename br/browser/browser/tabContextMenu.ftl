@@ -85,6 +85,9 @@ tab-context-close-multiple-tabs =
 tab-context-share-url =
     .label = Rannañ
     .accesskey = h
+tab-context-new-group =
+    .label = Strollad nevez
+    .accesskey = S
 
 ## Variables:
 ##  $tabCount (Number): the number of tabs that are affected by the action.

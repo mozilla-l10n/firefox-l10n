@@ -106,6 +106,8 @@ perplexity-callout-secondary-label-2 = Зразумела
 
 ## Account Adoption Passwords callout strings
 
+# Opens Mozilla accounts sign-up page
+fxa-adoption-passwords-primary-button-label = Зарэгістравацца
 
 ## Sidebar Strings
 
@@ -130,6 +132,12 @@ sidebar-pins-callout-cta-button = Замацаваць картку
 
 ## Pinning Tabs Strings
 
+pin-tabs-callout-1-title = Трымайце важныя карткі пад рукой
+pin-tabs-callout-cta-1-button = Замацаваць гэту картку
+pin-tabs-callout-2-title = Замацоўвайце карткі, якія вы наведваеце найчасцей
+pin-tabs-callout-cta-2-button = Замацаваць гэту картку
+pin-tabs-callout-3-title = Трымайце важныя сайты пад рукой
+pin-tabs-callout-4-title = Замацоўвайце сайты, якія вы наведваеце найчасцей
 
 ## Sidebar Onboarding Strings
 

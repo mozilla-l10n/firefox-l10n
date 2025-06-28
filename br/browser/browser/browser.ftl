@@ -670,6 +670,8 @@ urlbar-result-action-visit = Gweladenniñ
 # Variables
 # $container (String): the name of the target container
 urlbar-result-action-switch-tab-with-container = Mont d’an ivinell · <span>{ $container }</span>
+# Used when the target tab is in a tab group that doesn't have a label.
+urlbar-result-action-tab-group-unnamed = Strollad dizanv
 # Allows the user to visit a URL that was previously copied to the clipboard.
 urlbar-result-action-visit-from-clipboard = Gweladenniñ adalek ho kolver
 # Directs a user to press the Tab key to perform a search with the specified

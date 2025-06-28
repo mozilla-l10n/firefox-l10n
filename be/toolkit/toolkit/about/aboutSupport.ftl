@@ -188,6 +188,8 @@ media-capabilities-enumerate = Пералічыць базу дадзеных
 
 media-codec-support-sw-decoding = Праграмнае дэкадаванне
 media-codec-support-hw-decoding = Апаратнае дэкадаванне
+media-codec-support-sw-encoding = Праграмнае кадаванне
+media-codec-support-hw-encoding = Апаратнае кадаванне
 media-codec-support-codec-name = Назва кодэка
 media-codec-support-supported = Падтрымліваецца
 media-codec-support-unsupported = Не падтрымліваецца
