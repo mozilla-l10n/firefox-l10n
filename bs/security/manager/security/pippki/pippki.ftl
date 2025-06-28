@@ -6,12 +6,19 @@ password-quality-meter = Mjerač kvaliteta lozinke
 
 ## Change Password dialog
 
+change-device-password-window =
+    .title = Promijeni lozinku
 # Variables:
 # $tokenName (String) - Security device of the change password dialog
 change-password-token = Sigurnosni uređaj: { $tokenName }
 change-password-old = Trenutna lozinka:
 change-password-new = Nova lozinka:
 change-password-reenter = Nova lozinka (ponovo):
+pippki-failed-pw-change = Nije moguće promijeniti lozinku.
+pippki-incorrect-pw = Niste unijeli ispravnu trenutnu lozinku. Molimo pokušajte ponovo.
+pippki-pw-change-ok = Lozinka je uspješno promijenjena.
+pippki-pw-empty-warning = Vaše pohranjene lozinke i privatni ključevi neće biti zaštićeni.
+pippki-pw-erased-ok = Izbrisali ste svoju lozinku. { pippki-pw-empty-warning }
 pippki-pw-not-wanted = Upozorenje! Odlučili ste da ne koristite lozinku. { pippki-pw-empty-warning }
 pippki-pw-change2empty-in-fips-mode = Trenutno ste u FIPS modu. FIPS zahtijeva lozinku koja nije prazna.
 

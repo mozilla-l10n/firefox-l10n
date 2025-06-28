@@ -46,6 +46,8 @@ certmgr-email =
     .label = E-mail adresa
 certmgr-serial =
     .label = Serijski broj
+certmgr-fingerprint-sha-256 =
+    .label = SHA-256 otisak
 certmgr-view =
     .label = Pogledaj…
     .accesskey = P
@@ -122,6 +124,10 @@ delete-user-cert-title =
     .title = Obrišite vaše certifikate
 delete-user-cert-confirm = Da li ste sigurno da želite obrisati ove certifikate?
 delete-user-cert-impact = Ukoliko obrišete neki od vaših certifikata, više ga nećete moći koristiti za vlastitu identifikaciju.
+delete-ssl-override-title =
+    .title = Izbriši izuzetak o serverskom certifikatu
+delete-ssl-override-confirm = Jeste li sigurni da želite izbrisati ovaj izuzetak servera?
+delete-ssl-override-impact = Ako obrišete serverski izuzetak, vratit ćete uobičajenu sigurnosnu provjeru za ovaj server i zahtjev da koristi važeći certifikat.
 delete-ca-cert-title =
     .title = Obriši ili ukloni povjerenje CA certifikatima
 delete-ca-cert-confirm = Zatražili ste brisanje ovih CA certifikata. Za predefinisane certifikate povjerljivost će biti uklonjena, što ima isti efekat. Da li ste sigurni da ih želite obrisati ili im želite ukloniti povjerenje?
@@ -136,9 +142,17 @@ delete-email-cert-impact = Ukoliko obrišete nečiji e-mail certifikat, više ne
 #   $serialNumber : the serial number of the cert in AA:BB:CC hex format.
 cert-with-serial =
     .value = Certifikat sa serijskim brojem: { $serialNumber }
+# Used to indicate that the user chose not to send a client authentication certificate to a server that requested one in a TLS handshake.
+send-no-client-certificate = Ne šalji klijentski certifikat
+# Used when no cert is stored for an override
+no-cert-stored-for-override = (Nije pohranjeno)
+# When a certificate is unavailable (for example, it has been deleted or the token it exists on has been removed).
+certificate-not-available = (Nije dostupno)
 
 ## Used to show whether an override is temporary or permanent
 
+permanent-override = Trajno
+temporary-override = Privremeno
 
 ## Add Security Exception dialog
 
