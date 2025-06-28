@@ -47,11 +47,20 @@ genai-menu-ask-generic =
 # $provider (string) - name of the provider
 genai-menu-ask-provider =
     .label = { $provider } сұрау
+genai-menu-open-generic =
+    .label = ЖИ чат-ботын ашу
+# $provider (string) - name of the provider
+genai-menu-open-provider =
+    .label = { $provider } ашу
 genai-menu-remove-generic =
     .label = ЖИ чат-ботын өшіру
 # $provider (string) - name of the provider
 genai-menu-remove-provider =
     .label = { $provider } өшіру
+genai-menu-remove-sidebar =
+    .label = Құралдар панелінен өшіру
+genai-menu-new-badge = Жаңа
+genai-menu-summarize-page = Бет қорытындысы
 genai-input-ask-generic =
     .placeholder = ЖИ чат-ботынан сұрау…
 # $provider (string) - name of the provider
