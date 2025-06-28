@@ -176,7 +176,7 @@ shopping-survey-q2-radio-2-label = No
 shopping-survey-q2-radio-3-label = Io non sape
 shopping-survey-next-button-label = Sequente
 shopping-survey-submit-button-label = Inviar
-shopping-survey-terms-link = Terminos de uso
+shopping-survey-terms-link = Conditiones de uso
 shopping-survey-thanks =
     .heading = Gratias pro tu commentario!
 
