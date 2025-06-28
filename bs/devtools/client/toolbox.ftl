@@ -11,6 +11,7 @@
 ## external links. Some of the commands have the keyboard shortcut shown next to
 ## the label.
 
+toolbox-meatball-menu-dock-bottom-label = Pričvrsti na dno
 toolbox-meatball-menu-dock-separate-window-label = Zaseban prozor
 toolbox-meatball-menu-splitconsole-label = Prikaži podijeljenu konzolu
 toolbox-meatball-menu-hideconsole-label = Sakrij podijeljenu konzolu

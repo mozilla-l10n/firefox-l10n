@@ -43,21 +43,62 @@ perftools-range-interval-milliseconds = { NUMBER($interval, maxFractionalUnits: 
 
 # The size of the memory buffer used to store things in the profiler.
 perftools-range-entries-label = Veličina bafera:
+perftools-custom-threads-label = Dodaj prilagođene teme po imenu:
+perftools-devtools-interval-label = Interval:
+perftools-devtools-threads-label = Niti:
+perftools-devtools-settings-label = Postavke
 
 ## Various statuses that affect the current state of profiling, not typically displayed.
 
+perftools-status-recording-stopped-by-another-tool = Snimanje je zaustavljeno drugim alatom.
+perftools-status-restart-required = Preglednik se mora ponovo pokrenuti da bi se omogućila ova funkcija.
 
 ## These are shown briefly when the user is waiting for the profiler to respond.
 
+perftools-request-to-stop-profiler = Zaustavljanje snimanja
+perftools-request-to-get-profile-and-stop-profiler = Snimanje profila
 
 ##
 
+perftools-button-start-recording = Započni snimanje
+perftools-button-capture-recording = Snimanje snimka
+perftools-button-cancel-recording = Otkaži snimanje
+perftools-button-save-settings = Sačuvaj postavke i idi nazad
+perftools-button-restart = Restartuj
+perftools-button-add-directory = Dodaj direktorij
+perftools-button-remove-directory = Ukloni odabrano
+perftools-button-edit-settings = Uredi postavke…
 
 ## More actions menu
 
+perftools-menu-more-actions-button =
+    .title = Više radnji
+perftools-menu-more-actions-restart-with-profiling = Ponovo pokrenite { -brand-shorter-name } sa omogućenim profiliranjem pokretanja
+perftools-menu-more-actions-copy-for-startup = Kopiraj varijable okruženja za profiliranje pokretanja
+perftools-menu-more-actions-copy-for-perf-tests = Kopiraj parametre za testove performansi
 
 ## These messages are descriptions of the threads that can be enabled for the profiler.
 
+perftools-thread-gecko-main =
+    .title = Glavni procesi i za roditeljski proces i za procese sadržaja
+perftools-thread-compositor =
+    .title = Spaja različite oslikane elemente na stranici
+perftools-thread-dom-worker =
+    .title = Ovo upravlja web workerima i service workerima
+perftools-thread-renderer =
+    .title = Kada je WebRender omogućen, nit koja izvršava OpenGL pozive
+perftools-thread-render-backend =
+    .title = Nit o WebRender RenderBackendu
+perftools-thread-timer =
+    .title = Tajmeri za obradu niti (setTimeout, setInterval, nsITimer)
+perftools-thread-style-thread =
+    .title = Izračunavanje stila je podijeljeno u više niti
+pref-thread-stream-trans =
+    .title = Prijenos mrežnog toka
+perftools-thread-socket-thread =
+    .title = Nit u kojoj mrežni kod izvršava sve blokirajuće pozive socketa
+perftools-thread-img-decoder =
+    .title = Niti za dekodiranje slika
 
 ##
 
