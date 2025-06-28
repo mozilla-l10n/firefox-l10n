@@ -21,6 +21,9 @@ genai-menu-ask-provider =
 # $provider (string) - name of the provider
 genai-menu-open-provider =
     .label = Digeriñ { $provider }
+# $provider (string) - name of the provider
+genai-menu-remove-provider =
+    .label = Lemel { $provider }
 genai-menu-new-badge = Nevez
 # $provider (string) - name of the provider
 genai-input-ask-provider =

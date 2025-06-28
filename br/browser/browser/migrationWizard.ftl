@@ -197,6 +197,7 @@ migration-safari-password-import-step1 = E Safari, digorit al lañser "Safari" h
 migration-safari-password-import-step2 = Klikit war an afell <img data-l10n-name="safari-icon-3dots"/> ha dibabit "Ezporzhiañ an holl c’herioù-tremen" (Exporter tous les mots de passe)
 migration-safari-password-import-step3 = Enrollañ restr ar gerioù-tremen
 migration-safari-password-import-step4 = Klikit war "Dibab ur restr" amañ dindan ha dibabit ar restr ho peus enrollet
+migration-chrome-windows-password-import-steps-header = E-barzh Chrome:
 migration-manual-password-import-skip-button = Tremen
 migration-manual-password-import-select-button = Diuzañ ar restr
 migration-safari-password-import-skip-button = Tremen
