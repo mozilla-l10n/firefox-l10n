@@ -115,6 +115,8 @@ inactive-scroll-padding-when-not-scroll-container-fix = Pokušaj dodati <strong>
 inactive-css-border-image-fix = U nadređenom elementu tablice ukloni svojstvo ili promijeni vrijednost <strong>border-collapse</strong> na vrijednost koja nije <strong>collapse</strong>. { learn-more }
 inactive-css-resize-fix = Pokušaj postaviti <strong>overflow</strong> na vrijednost koja nije <strong>visible</strong> ili pokušaj ciljati zamijenjeni element koji ga podržava. { learn-more }
 inactive-css-ruby-element-fix = Pokušaj promijeniti svojstvo <strong>font-size</strong> ruby ​​​​teksta. { learn-more }
+inactive-css-text-wrap-balance-lines-exceeded-fix = Pokušaj smanjiti broj redaka. { learn-more }
+inactive-css-text-wrap-balance-fragmented-fix = Izbjegavaj rastavljati sadržaj elementa, npr. uklanjanjem stupaca ili korištenjem <strong>page-break-inside:avoid</strong>. { learn-more }
 
 ## In the Rule View when a CSS property may have compatibility issues with other browsers
 ## we display an icon. When this icon is hovered this message is displayed to explain why
