@@ -5,6 +5,9 @@
 popup-notification-learn-more = Saznajte više
 popup-notification-more-actions-button =
     .aria-label = Više radnji
+popup-notification-default-button2 =
+    .label = OK
+    .accesskey = O
 popup-notification-default-button =
     .label = OK!
     .accesskey = O
