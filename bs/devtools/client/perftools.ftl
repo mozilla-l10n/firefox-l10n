@@ -7,18 +7,42 @@
 ### the remote profiling panel. There are additional profiler strings in the appmenu.ftl
 ### file that are used for the profiler popup.
 
+perftools-intro-title = Postavke profilera
+perftools-intro-description =
+    Snimci se pokreću na profiler.firefox.com u novom tabu. Svi podaci se pohranjuju
+    lokalno, ali možete odabrati da ih otpremite za dijeljenje.
 
 ## All of the headings for the various sections.
 
+perftools-heading-settings = Potpune postavke
+perftools-heading-buffer = Postavke bafera
+perftools-heading-features = Funkcije
+perftools-heading-features-default = Funkcije (Preporučeno uključeno prema zadanim postavkama)
+perftools-heading-features-disabled = Onemogućene funkcije
+perftools-heading-features-experimental = Eksperimentalno
+perftools-heading-threads = Niti
+perftools-heading-threads-jvm = JVM niti
+perftools-heading-local-build = Lokalna izrada
 
 ##
 
+perftools-description-intro =
+    Snimci se pokreću na <a>profiler.firefox.com</a> u novom tabu. Svi podaci se pohranjuju
+    lokalno, ali možete odabrati da ih otpremite za dijeljenje.
+perftools-description-local-build =
+    Ako profilirate verziju koju ste sami kompajlirali na ovom
+    računaru, dodajte objdir vaše verzije na listu ispod kako bi se
+    mogla koristiti za traženje informacija o simbolima.
 
 ## The controls for the interval at which the profiler samples the code.
 
+perftools-range-interval-label = Interval uzorkovanja:
+perftools-range-interval-milliseconds = { NUMBER($interval, maxFractionalUnits: 2) } ms
 
 ##
 
+# The size of the memory buffer used to store things in the profiler.
+perftools-range-entries-label = Veličina bafera:
 
 ## Various statuses that affect the current state of profiling, not typically displayed.
 
