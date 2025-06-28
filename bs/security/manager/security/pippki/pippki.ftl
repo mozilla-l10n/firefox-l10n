@@ -12,6 +12,8 @@ change-password-token = Sigurnosni uređaj: { $tokenName }
 change-password-old = Trenutna lozinka:
 change-password-new = Nova lozinka:
 change-password-reenter = Nova lozinka (ponovo):
+pippki-pw-not-wanted = Upozorenje! Odlučili ste da ne koristite lozinku. { pippki-pw-empty-warning }
+pippki-pw-change2empty-in-fips-mode = Trenutno ste u FIPS modu. FIPS zahtijeva lozinku koja nije prazna.
 
 ## Reset Primary Password dialog
 
