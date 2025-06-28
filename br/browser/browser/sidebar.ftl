@@ -48,6 +48,10 @@ sidebar-context-menu-copy-link =
 #   $deviceName (String) - The name of the device the user is closing a tab for
 sidebar-context-menu-close-remote-tab =
     .label = Serriñ an ivinell war { $deviceName }
+sidebar-context-menu-remove-extension2 =
+    .label = Lemel diouzh { -brand-short-name }
+sidebar-context-menu-unpin-extension =
+    .label = Lemel diouzh ar varrenn gostez
 
 ## Labels for sidebar history context menu items
 

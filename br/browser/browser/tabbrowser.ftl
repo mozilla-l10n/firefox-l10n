@@ -254,10 +254,29 @@ tab-group-editor-title-edit = Merañ ar strollad ivinelloù
 tab-group-editor-name-label = Anv
 tab-group-editor-name-field =
     .placeholder = Skouer: Prenadennoù
+tab-group-editor-cancel =
+    .label = Nullañ
+    .accesskey = N
 tab-group-editor-color-selector =
     .aria-label = Liv ar strollad ivinelloù
+tab-group-editor-color-selector2-blue = Glas
+    .title = Glas
 tab-group-editor-color-selector2-purple = Limestra
     .title = Limestra
+tab-group-editor-color-selector2-cyan = Sian
+    .title = Sian
+tab-group-editor-color-selector2-orange = Orañjez
+    .title = Orañjez
+tab-group-editor-color-selector2-yellow = Melen
+    .title = Melen
+tab-group-editor-color-selector2-pink = Roz
+    .title = Roz
+tab-group-editor-color-selector2-green = Gwer
+    .title = Gwer
+tab-group-editor-color-selector2-gray = Loued
+    .title = Loued
+tab-group-editor-color-selector2-red = Ruz
+    .title = Ruz
 # Variables:
 #  $tabGroupName (String): The name of the tab group. Defaults to the value
 #                          of tab-group-name-default.
@@ -279,6 +298,9 @@ tab-group-editor-action-ungroup =
     .label = Distrollañ an ivinelloù
 tab-group-editor-action-delete =
     .label = Dilemel ar strollad
+tab-group-editor-done =
+    .label = Graet
+    .accessKey = G
 tab-context-reopen-tab-group =
     .label = Addigeriñ ar strollad ivinelloù
 # Variables:

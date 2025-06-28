@@ -85,6 +85,10 @@ tab-context-close-multiple-tabs =
 tab-context-share-url =
     .label = Rannañ
     .accesskey = h
+# In left-to-right languages this should use "Right" and in right-to-left languages this should use "Left" to indicate the direction a new tab will open.
+tab-context-new-tab-open =
+    .label = Ivinell nevez a-zehoù
+    .accesskey = v
 tab-context-new-group =
     .label = Strollad nevez
     .accesskey = S

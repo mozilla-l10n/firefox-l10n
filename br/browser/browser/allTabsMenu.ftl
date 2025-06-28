@@ -14,6 +14,9 @@ all-tabs-menu-manage-user-context =
     .accesskey = e
 all-tabs-menu-synced-tabs =
     .label = Ivinelloù an trevnadoù all
+# "Recent" refers to tab groups being sorted in recently used order. We show up
+# to five of these in this section.
+all-tabs-menu-recent-tab-groups-header = Strolladoù ivinelloù nevesañ
 all-tabs-menu-current-window-header = Prenestr a-vremañ
 # This opens the sub view listing _all_ open and saved tab groups.
 all-tabs-menu-tab-groups-show-all =

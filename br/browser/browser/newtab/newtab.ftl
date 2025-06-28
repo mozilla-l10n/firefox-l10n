@@ -8,6 +8,9 @@
 newtab-page-title = Ivinell nevez
 newtab-settings-button =
     .title = Personelait ho pajenn Ivinell Nevez
+newtab-customize-panel-icon-button =
+    .title = Personelaat ar bejenn-mañ
+newtab-customize-panel-icon-button-label = Personelaat
 newtab-personalize-settings-icon-label =
     .title = Personelaat an ivinell nevez
     .aria-label = Arventennoù
@@ -379,6 +382,8 @@ newtab-weather-menu-weather-display-option-detailed = Munudoù
 newtab-weather-menu-temperature-units = Unanenn wrezverk
 newtab-weather-menu-temperature-option-fahrenheit = Fahrenheit
 newtab-weather-menu-temperature-option-celsius = Celsius
+newtab-weather-menu-change-temperature-units-fahrenheit = Lakaat e Fahrenheit
+newtab-weather-menu-change-temperature-units-celsius = Lakaat e Celsius
 newtab-weather-menu-learn-more = Gouzout hiroc’h
 
 ## Topic Labels
@@ -392,17 +397,21 @@ newtab-topic-label-hobbies = C’hoarioù video
 # and understand their personal finances – from saving money to buying a home. See the
 # “Curated by our editors“ section at the top of https://getpocket.com/explore/personal-finance for more context
 newtab-topic-label-finance = Arc’hant
+newtab-topic-label-society-parenting = Desaverezh/bugaleaj
 newtab-topic-label-government = Politikerezh
 newtab-topic-label-education-science = Skiantoù
 newtab-topic-label-sports = Sportoù
 newtab-topic-label-tech = Teknologiezh
 newtab-topic-label-travel = Beajiñ
+newtab-topic-label-home = Ti ha liorzherezh
 
 ## Topic Selection Modal
 
 newtab-topic-selection-save-button = Enrollañ
 newtab-topic-selection-cancel-button = Nullañ
 newtab-topic-selection-button-maybe-later = Diwezhatoc’h marteze
+newtab-topic-selection-button-update-interests = Hizivait hoc’h interestoù
+newtab-topic-selection-button-pick-interests = Dibabit hoc’h interestoù
 
 ## Content Feed Sections
 ## "Follow", "unfollow", and "following" are social media terms that refer to subscribing to or unsubscribing from a section of stories.
@@ -410,6 +419,7 @@ newtab-topic-selection-button-maybe-later = Diwezhatoc’h marteze
 
 newtab-section-follow-button = Heuliañ
 newtab-section-following-button = O heuliañ
+newtab-section-unfollow-button = Na heuliañ ken
 
 ## Button to block/unblock listed topics
 ## "Block", "unblocked", and "blocked" are social media terms that refer to hiding a section of stories.
