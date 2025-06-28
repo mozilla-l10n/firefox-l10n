@@ -32,7 +32,7 @@ toolbar-context-menu-reopen-closed-tabs =
             [many] Addigeriñ an ivinelloù serret
            *[other] Addigeriñ an ivinelloù serret
         }
-    .accesskey = o
+    .accesskey = g
 toolbar-context-menu-manage-extension =
     .label = Merañ an askouezh
     .accesskey = M

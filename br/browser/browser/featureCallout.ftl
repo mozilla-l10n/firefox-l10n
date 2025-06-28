@@ -75,6 +75,9 @@ bookmarks-toolbar-callout-1-secondary-button-label = Ket, trugarez
 bookmarks-toolbar-callout-2a-primary-button-label = Komprenet am eus
 # Reverts the bookmarks toolbar to the default setting
 bookmarks-toolbar-callout-2a-secondary-button-label = Kuzhat ar varrenn ostilhoù
+bookmarks-toolbar-callout-2b-primary-button-label = Derc’hel digor
+# Reverts the bookmarks toolbar to the default setting
+bookmarks-toolbar-callout-2b-secondary-button-label = Ket, trugarez
 
 ## Perplexity callout strings
 
@@ -83,6 +86,8 @@ perplexity-callout-secondary-label-2 = Komprenet am eus
 
 ## Account Adoption Passwords callout strings
 
+# Opens Mozilla accounts sign-up page
+fxa-adoption-passwords-primary-button-label = Krouiñ ur gont
 
 ## Sidebar Strings
 

@@ -12,6 +12,10 @@ all-tabs-menu-hidden-tabs =
 all-tabs-menu-manage-user-context =
     .label = Merañ an endalc'herioù
     .accesskey = e
+all-tabs-menu-close-duplicate-tabs =
+    .label = Serriñ an ivinelloù doubl
+all-tabs-menu-close-all-duplicate-tabs =
+    .label = Serriñ an holl ivinelloù doubl
 all-tabs-menu-synced-tabs =
     .label = Ivinelloù an trevnadoù all
 # "Recent" refers to tab groups being sorted in recently used order. We show up

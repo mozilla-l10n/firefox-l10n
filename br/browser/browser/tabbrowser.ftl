@@ -184,6 +184,8 @@ tabbrowser-confirm-caretbrowsing-checkbox = Na ziskouez ar voestad-emziviz-mañ 
 
 ## Confirmation dialog for closing all duplicate tabs
 
+tabbrowser-confirm-close-duplicate-tabs-title = Diwallit
+tabbrowser-confirm-close-all-duplicate-tabs-title = Serriñ an ivinelloù doubl?
 tabbrowser-confirm-close-all-duplicate-tabs-button-closetabs = Serriñ an ivinelloù
 
 ##
@@ -288,6 +290,17 @@ tab-group-name-default = Strollad dizanv
 ## Variables:
 ##  $tabCount (Number): the number of tabs that are affected by the action.
 
+tab-context-move-tab-to-new-group =
+    .label =
+        { $tabCount ->
+            [1] Ouzhpennañ an ivinell d’ur strollad nevez
+            [one] Ouzhpennañ an ivinelloù d’ur strollad nevez
+            [two] Ouzhpennañ an ivinelloù d’ur strollad nevez
+            [few] Ouzhpennañ an ivinelloù d’ur strollad nevez
+            [many] Ouzhpennañ an ivinelloù d’ur strollad nevez
+           *[other] Ouzhpennañ an ivinelloù d’ur strollad nevez
+        }
+    .accesskey = O
 tab-group-editor-action-new-tab =
     .label = Ivinell nevez er strollad
 tab-group-editor-action-new-window =

@@ -71,6 +71,8 @@ contextual-manager-passwords-import-error-button-cancel = Nullañ
 contextual-manager-passwords-export-success-heading =
     .heading = Gerioù-tremen ezporzhiet
 contextual-manager-passwords-export-success-button = Graet
+# Export passwords to file dialog
+contextual-manager-export-passwords-dialog-title = Ezporzhiañ ar gerioù-tremen d’ar restr?
 contextual-manager-export-passwords-dialog-confirm-button = Kenderc’hel gant an ezporzhiañ
 # Title of the file picker dialog
 contextual-manager-passwords-export-file-picker-title = Ezporzhiañ gerioù-tremen diouzh { -brand-short-name }
@@ -167,18 +169,27 @@ contextual-manager-passwords-alert-back-button =
     .label = Distreiñ
 contextual-manager-passwords-change-password-button = Kemmañ ar ger-tremen
 contextual-manager-passwords-add-username-button = Ouzhpennañ un anv implijer
+contextual-manager-passwords-title = Gerioù-tremen
 
 ## Login Form
 
 contextual-manager-passwords-create-label =
     .label = Ouzhpennañ ur ger-tremen
+contextual-manager-passwords-edit-label =
+    .label = Kemmañ ar ger-tremen
+contextual-manager-passwords-remove-label =
+    .title = Dilemel ar ger-tremen
 
 ## Password Card
 
 contextual-manager-passwords-list-label =
     .aria-label = Gerioù-tremen
+contextual-manager-website-icon =
+    .alt = Arlun al lec’hienn
 contextual-manager-copy-icon =
     .alt = Eilañ
+contextual-manager-check-icon-username =
+    .alt = Eilet
 contextual-manager-check-icon-password =
     .alt = Eilet
 contextual-manager-alert-icon =
@@ -227,6 +238,8 @@ contextual-manager-passwords-no-passwords-found-header =
 ## When the user has no saved passwords, we display the following messages to inform the user they can save
 ## their passwords safely and securely in Firefox:
 
+# This string encourages the user to save their passwords in Firefox (the "safe spot").
+contextual-manager-passwords-no-passwords-header = Enrollit ho kerioù-tremen en ul lec’h sur.
 
 ## When the user cancels a login that's currently being edited, we display a message to confirm whether
 ## or not the user wants to discard their current edits to the login.
