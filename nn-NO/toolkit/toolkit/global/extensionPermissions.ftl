@@ -23,7 +23,7 @@ webext-perms-description-history = Få tilgang til nettlesarhistorikken
 webext-perms-description-management = Overvake bruk av utvidingar og handsame tema
 webext-perms-description-nativeMessaging = Utveksle meldingar med andre program enn { -brand-short-name }
 webext-perms-description-notifications = Vise deg varsel
-webext-perms-description-pkcs11 = Tilby kryptografiske godkjenningstenester
+webext-perms-description-pkcs11 = Tilby kryptografiske autentiserings-tenester
 webext-perms-description-privacy = Lese og endre personverninnstillingar
 webext-perms-description-proxy = Kontrollere proxy-innstillingane for nettlesaren
 webext-perms-description-sessions = Tilgang til nylege attlatne faner
@@ -46,6 +46,7 @@ webext-perms-extra-warning-userScripts-short = Ikkje stadfesta skript kan utgjer
 ##
 ## This is used when the data collection permissions are required.
 
+webext-perms-description-data-short-authenticationInfo = autentiseringsinformasjon
 webext-perms-description-data-short-bookmarksInfo = bokmerke
 webext-perms-description-data-short-browsingActivity = nettlesaraktivitet
 webext-perms-description-data-short-healthInfo = helseinformasjon
@@ -59,4 +60,5 @@ webext-perms-description-data-short-websiteContent = nettstad-innhald
 
 ## Long form to be used in `about:addons` when these data collection permissions are optional.
 
+webext-perms-description-data-long-authenticationInfo = Del autentiseringsinformasjon med utvidingsutviklaren
 webext-perms-description-data-long-technicalAndInteraction = Del tekniske data og interaksjonsdata med utvidingsutviklaren
