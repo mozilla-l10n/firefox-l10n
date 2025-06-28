@@ -17,8 +17,14 @@ pippki-pw-change2empty-in-fips-mode = Trenutno ste u FIPS modu. FIPS zahtijeva l
 
 ## Reset Primary Password dialog
 
+reset-primary-password-window2 =
+    .title = Resetuj primarnu lozinku
+    .style = min-width: 40em
 reset-password-button-label =
     .label = Resetuj
+reset-primary-password-text = Ako resetujete svoju primarnu lozinku, sve vaše pohranjene lozinke za web i e-mail, lični certifikati i privatni ključevi bit će zaboravljeni. Jeste li sigurni da želite resetovati svoju primarnu lozinku?
+pippki-reset-password-confirmation-title = Resetuj primarnu lozinku
+pippki-reset-password-confirmation-message = Vaša primarna lozinka je resetovana.
 
 ## Downloading cert dialog
 
@@ -44,6 +50,11 @@ client-auth-window =
     .title = Zahtjev za identifikaciju korisnika
 client-auth-site-description = Ova stranica zahtijeva od vas da se identifikujete pomoću certifikata:
 client-auth-choose-cert = Izaberite certifikat koji ćete predstaviti kao identifikaciju:
+client-auth-send-no-certificate =
+    .label = Ne šalji certifikat
+# Variables:
+# $hostname (String) - The domain name of the site requesting the client authentication certificate
+client-auth-site-identification = „{ $hostname }“ je zatražio da se identifikujete certifikatom:
 client-auth-cert-details = Detalji izabranog certifikata:
 # Variables:
 # $issuedTo (String) - The subject common name of the currently-selected client authentication certificate
@@ -67,6 +78,13 @@ client-auth-cert-details-issued-by = Izdao: { $issuedBy }
 # Variables:
 # $storedOn (String) - The name of the token holding the certificate (for example, "OS Client Cert Token (Modern)")
 client-auth-cert-details-stored-on = Spremljeno na: { $storedOn }
+client-auth-cert-remember-label = Zapamti ovu odluku:
+client-auth-cert-remember-never =
+    .label = Jednom
+client-auth-cert-remember-always =
+    .label = Trajno
+client-auth-cert-remember-temporarily =
+    .label = Za ovu sesiju
 client-auth-cert-remember-box =
     .label = Zapamti ovu odluku
 
@@ -83,3 +101,6 @@ set-password-reminder = Važno: Ukoliko zaboravite lozinku backupa certifikata, 
 
 ## Protected authentication alert
 
+# Variables:
+# $tokenName (String) - The name of the token to authenticate to (for example, "OS Client Cert Token (Modern)")
+protected-auth-alert = Molimo Vas da se autentifikujete na token „{ $tokenName }“. Način autentifikacije zavisi od tokena (na primjer, korištenje čitača otiska prsta ili unos koda pomoću tastature).

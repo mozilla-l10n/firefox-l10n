@@ -20,3 +20,8 @@ elevation-more-elevated =
     biti instalirana prilikom sljedećeg { -brand-short-name } pokretanja.
     Možete restartovati { -brand-short-name } odmah, nastaviti raditi i restartovati kasnije
     ili odustati od nadogradnje.
+sandbox-missing-unprivileged-namespaces = Neke od sigurnosnih funkcija { -brand-short-name } mogu nuditi manju zaštitu na vašem trenutnom operativnom sistemu.
+sandbox-unprivileged-namespaces-dismiss-button =
+    .label = Ne prikazuj ponovo
+    .accesskey = D
+sandbox-unprivileged-namespaces-howtofix = Kako riješiti ovaj problem
