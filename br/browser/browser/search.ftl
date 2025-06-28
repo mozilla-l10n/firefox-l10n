@@ -57,6 +57,7 @@ add-engine-name = Anv ar c'heflusker enklask
 
 ## The following strings are used as error messages.
 
+add-engine-no-name = Ouzhpennit un anv mar plij.
 
 ## The following strings are used as labels for the dialog's buttons.
 

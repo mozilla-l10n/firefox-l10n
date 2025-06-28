@@ -136,6 +136,8 @@ contextual-manager-passwords-password-already-exists-error-button = Mont d’ar 
 contextual-manager-passwords-update-password-success-heading =
     .heading = Ger-tremen enrollet
 contextual-manager-passwords-update-password-success-button = Graet
+contextual-manager-passwords-update-username-success-heading =
+    .heading = Anv implijer enrollet
 # Message to confirm successful removal of a password/passwords.
 #   $total (number) - Total number of passwords
 contextual-manager-passwords-delete-password-success-heading =
@@ -164,6 +166,7 @@ contextual-manager-passwords-remove-login-card-cancel-button = Nullañ
 contextual-manager-passwords-alert-back-button =
     .label = Distreiñ
 contextual-manager-passwords-change-password-button = Kemmañ ar ger-tremen
+contextual-manager-passwords-add-username-button = Ouzhpennañ un anv implijer
 
 ## Login Form
 

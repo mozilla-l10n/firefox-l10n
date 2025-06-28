@@ -12,6 +12,10 @@ tabbrowser-menuitem-close =
 # Variables:
 #   $tabGroupName (String): the user-defined name of the current tab group.
 tabbrowser-tab-tooltip-tab-group = { $tabGroupName }
+# Displayed within the tooltip on tabs in a container.
+# Variables:
+#   $containerName (String): the name of the current container.
+tabbrowser-tab-tooltip-container = { $containerName }
 # Displayed within the tooltip on tabs inside of a tab group if the tab is also in a container.
 # Variables:
 #   $tabGroupName (String): the user-defined name of the current tab group.
@@ -154,6 +158,11 @@ tabbrowser-confirm-close-tabs-with-key-checkbox = Kadarnaat a-raok kuitaat gant 
 ## Confirmation dialog when quitting using the keyboard shortcut (Ctrl/Cmd+Q)
 ## and browser.warnOnQuitShortcut is true.
 
+tabbrowser-confirm-close-windows-warn-shortcut-button =
+    { PLATFORM() ->
+        [windows] Kuitaat { -brand-short-name }
+       *[other] Kuitaat { -brand-short-name }
+    }
 
 ## Confirmation dialog when opening multiple tabs simultaneously
 
@@ -242,8 +251,13 @@ tabbrowser-manager-current-window-tab-group =
 
 tab-group-editor-title-create = Krouiñ ur strollad ivinelloù
 tab-group-editor-title-edit = Merañ ar strollad ivinelloù
+tab-group-editor-name-label = Anv
+tab-group-editor-name-field =
+    .placeholder = Skouer: Prenadennoù
 tab-group-editor-color-selector =
     .aria-label = Liv ar strollad ivinelloù
+tab-group-editor-color-selector2-purple = Limestra
+    .title = Limestra
 # Variables:
 #  $tabGroupName (String): The name of the tab group. Defaults to the value
 #                          of tab-group-name-default.

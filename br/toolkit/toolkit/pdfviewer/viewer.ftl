@@ -304,6 +304,9 @@ pdfjs-ink-canvas =
 pdfjs-editor-alt-text-add-description-label = Ouzhpennañ un deskrivadur
 pdfjs-editor-alt-text-cancel-button = Nullañ
 pdfjs-editor-alt-text-save-button = Enrollañ
+# .placeholder: This is a placeholder for the alt text input area
+pdfjs-editor-alt-text-textarea =
+    .placeholder = Da skouer, “Ur paotr yaouank ouzh taol o tebriñ boued”
 
 ## Editor resizers
 ## This is used in an aria label to help to understand the role of the resizer.

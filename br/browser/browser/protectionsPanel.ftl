@@ -66,6 +66,10 @@ protections-panel-not-found-label = Hini ebet dinoet
 
 ## Smartblock strings
 
+# Variables
+#  $trackername (String): the name of the tracker that is currently being blocked.
+protections-panel-smartblock-blocking-toggle =
+    .label = Aotren { $trackername }
 
 ##
 

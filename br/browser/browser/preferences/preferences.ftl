@@ -576,6 +576,9 @@ home-prefs-snippets-description-new = Tunioù ha nevezinti gant { -vendor-short-
 home-prefs-weather-header =
     .label = Liv an amzer
 home-prefs-weather-learn-more-link = Gouzout hiroc’h
+# "Support" here means to help sustain or contribute to something, especially through funding or sponsorship.
+home-prefs-support-firefox-header =
+    .label = Skoazellit { -brand-product-name }
 # Variables:
 #   $num (number) - Number of rows displayed
 home-prefs-sections-rows-option =

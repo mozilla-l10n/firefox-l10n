@@ -11,6 +11,7 @@ more-from-moz-category =
 more-from-moz-subtitle = Sellit ouzh aozadoù all { -vendor-short-name } a gemer perzh e sevel un internet a yac'h.
 more-from-moz-firefox-mobile-title = { -brand-product-name } hezoug
 more-from-moz-firefox-mobile-description = Ar merdeer hezoug a lak ho puhez prevez da gentañ.
+more-from-moz-firefox-mobile-title-1 = { -brand-product-name } evit ar pellgomzer hezoug
 more-from-moz-mozilla-vpn-title = { -mozilla-vpn-brand-name }
 more-from-moz-mozilla-vpn-description = Dizoloit ur gwiskad nevez a verdeiñ dizanv ha gwarezet.
 more-from-moz-qr-code-box-firefox-mobile-title = Pellgargit gant ho trevnad hezoug. Bukit ar c'hamera war ar boneg QR. Pa vo skrammet un ere, stokit warnañ.
@@ -32,3 +33,4 @@ more-from-moz-mozilla-monitor-button = Tapout { -monitor-brand-short-name }
 
 ## These strings are for the Solo card in about:preferences moreFromMozilla page
 
+more-from-moz-solo-button = Esaeañ { -solo-ai-brand-name }
