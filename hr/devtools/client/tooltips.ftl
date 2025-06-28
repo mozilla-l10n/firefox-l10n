@@ -39,6 +39,7 @@ inactive-css-first-letter-pseudo-element-not-supported = <strong>{ $property }</
 inactive-css-placeholder-pseudo-element-not-supported = <strong>{ $property }</strong> nije podržano na pseudoelementima ::placeholder.
 inactive-css-property-because-of-display = <strong>{ $property }</strong> ne utječe na ovaj element jer sadrži prikaz <strong>{ $display }</strong>.
 inactive-css-not-display-block-on-floated = Vrijednost za <strong>display</strong> promijenjena je u <strong>block</strong> jer je element postavljen na <strong>float</strong>.
+inactive-css-not-display-block-on-floated-2 = Vrijednost svojstva <strong>display</strong> je mehanizam promijenio u <strong>{ $display }</strong> jer element ima svojstvo <strong>float</strong>.
 inactive-css-only-non-grid-or-flex-item = <strong>{ $property }</strong> nema učinka jer se ne može koristiti na grid ili flex elementima.
 inactive-css-not-block = <strong>{ $property }</strong> ne utječe na ovaj element jer se primijenjuje samo na elemente na razini bloka.
 inactive-css-not-floated = <strong>{ $property }</strong> nema učinka jer se primjenjuje samo na float elemente.
@@ -135,3 +136,5 @@ css-compatibility-learn-more-message = <span data-l10n-name="link">Saznaj više<
 ## When this icon is hovered one or more of those messages are displayed to explain what
 ## the issue are.
 
+# :has() should not be translated
+css-selector-warning-unconstrained-has = Ovaj selektor koristi neograničeni <strong>:has()</strong>, što može biti sporo
