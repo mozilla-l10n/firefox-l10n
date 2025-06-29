@@ -42,7 +42,7 @@ profiles-rename-profile = Μετονομασία προφίλ { $name }
 profiles-invalid-profile-name-title = Μη έγκυρο όνομα προφίλ
 # Variables:
 #   $name (String) - Name of the profile
-profiles-invalid-profile-name = Το όνομα προφίλ “{ $name }” δεν επιτρέπεται.
+profiles-invalid-profile-name = Το όνομα προφίλ «{ $name }» δεν επιτρέπεται.
 profiles-delete-profile-title = Διαγραφή προφίλ
 # Variables:
 #   $dir (String) - Path to be displayed

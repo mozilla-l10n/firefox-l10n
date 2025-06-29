@@ -53,7 +53,7 @@ webext-perms-sideload-cancel =
     .accesskey = Α
 # Variables:
 #   $extension (String): replaced with the localized name of the extension.
-webext-perms-update-text2 = Το { $extension } έχει ενημερωθεί. Πρέπει να εγκρίνετε νέα δικαιώματα πριν εγκατασταθεί η ενημερωμένη έκδοση. Αν επιλέξετε “Ακύρωση”, θα διατηρηθεί η τρέχουσα έκδοση του προσθέτου.
+webext-perms-update-text2 = Το { $extension } έχει ενημερωθεί. Πρέπει να εγκρίνετε νέα δικαιώματα πριν εγκατασταθεί η ενημερωμένη έκδοση. Αν επιλέξετε «Ακύρωση», θα διατηρηθεί η τρέχουσα έκδοση του προσθέτου.
 # Variables:
 #   $extension (String): replaced with the localized name of the extension.
 webext-perms-update-text = Το { $extension } έχει ενημερωθεί. Πρέπει να εγκρίνετε τα νέα δικαιώματα πριν εγκατασταθεί η ενημερωμένη έκδοση. Αν επιλέξετε «Ακύρωση», θα διατηρηθεί η τρέχουσα έκδοση της επέκτασης. Η επέκταση θα έχει την άδεια για:
