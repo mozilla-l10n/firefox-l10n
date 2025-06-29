@@ -187,6 +187,10 @@ downloads-details =
 
 downloads-private-browsing-details =
     .title = Filene blir verande på eininga di
+downloads-private-browsing-message = Alle som brukar denne eininga kan sjå nedlastinger, sjølv når du lèt att alle private vindauge.
+downloads-private-browsing-delete-button =
+    .label = Slett filer automatisk
+    .accesskey = S
 
 ## Displayed when a site attempts to automatically download many files.
 ## Variables:
