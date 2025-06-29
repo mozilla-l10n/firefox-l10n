@@ -541,6 +541,7 @@ pdfjs-editor-add-signature-dialog-title = Dodaj potpis
 
 ## Dialog buttons
 
+pdfjs-editor-edit-signature-update-button = Aktualiziraj
 
 ## Main menu for adding/removing signatures
 

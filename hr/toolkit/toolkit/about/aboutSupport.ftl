@@ -46,8 +46,8 @@ app-basics-update-channel = Kanal nadogradnje
 # as in "Folder for updates". "Update" is a noun, not a verb.
 app-basics-update-dir =
     { PLATFORM() ->
-        [linux] Mapa za ažuriranja
-       *[other] Mapa za nadogradnje
+        [linux] Mapa za aktualiziranja
+       *[other] Mapa za aktualiziranja
     }
 app-basics-update-history = Povijest nadogradnji
 app-basics-show-update-history = Prikaži povijest nadogradnji
