@@ -110,6 +110,12 @@ inactive-css-not-for-internal-table-elements-except-table-cells-fix = Pokušajte
 inactive-css-not-table-fix = Pokušajte dodati <strong>display:table</strong> ili <strong>display:inline-table</strong>. { learn-more }
 inactive-css-collapsed-table-borders-fix = Pokušajte dodati <strong>border-collapse:separate</strong>. { learn-more }
 inactive-css-not-table-cell-fix = Pokušajte dodati <strong>display:table-cell</strong>. { learn-more }
+inactive-scroll-padding-when-not-scroll-container-fix = Pokušajte dodati <strong>overflow:auto</strong>, <strong>overflow:scroll</strong> ili <strong>overflow:hidden</strong>. { learn-more }
+inactive-css-border-image-fix = Na roditeljskom elementu tabele uklonite svojstvo ili promijenite vrijednost <strong>border-collapse</strong> u vrijednost koja nije <strong>collapse</strong>. { learn-more }
+inactive-css-resize-fix = Pokušajte postaviti <strong>overflow</strong> na vrijednost koja nije <strong>visible</strong> ili ciljajte zamijenjeni element koji ga podržava. { learn-more }
+inactive-css-ruby-element-fix = Pokušajte promijeniti veličinu fonta (font size) ruby teksta. { learn-more }
+inactive-css-text-wrap-balance-lines-exceeded-fix = Pokušajte smanjiti broj redova. { learn-more }
+inactive-css-text-wrap-balance-fragmented-fix = Izbjegavajte dijeljenje sadržaja elementa, npr. uklanjanjem kolona ili korištenjem <strong>page-break-inside:avoid</strong>. { learn-more }
 
 ## In the Rule View when a CSS property may have compatibility issues with other browsers
 ## we display an icon. When this icon is hovered this message is displayed to explain why
@@ -118,8 +124,18 @@ inactive-css-not-table-cell-fix = Pokušajte dodati <strong>display:table-cell</
 ##   $property (string) - A CSS declaration name e.g. "-moz-user-select" that can be a platform specific alias.
 ##   $rootProperty (string) - A raw CSS property name e.g. "user-select" that is not a platform specific alias.
 
+css-compatibility-default-message = <strong>{ $property }</strong> nije podržano u sljedećim preglednicima:
+css-compatibility-deprecated-experimental-message = <strong>{ $property }</strong> je bilo eksperimentalno svojstvo koje je sada zastarjelo prema W3C standardima. Nije podržano u sljedećim preglednicima:
+css-compatibility-deprecated-experimental-supported-message = <strong>{ $property }</strong> je bilo eksperimentalno svojstvo koje je sada zastarjelo prema W3C standardima.
+css-compatibility-deprecated-message = <strong>{ $property }</strong> je zastarjelo prema W3C standardima. Nije podržano u sljedećim preglednicima:
+css-compatibility-deprecated-supported-message = <strong>{ $property }</strong> je zastarjelo prema W3C standardima.
+css-compatibility-experimental-message = <strong>{ $property }</strong> je eksperimentalno svojstvo. Nije podržano u sljedećim preglednicima:
+css-compatibility-experimental-supported-message = <strong>{ $property }</strong> je eksperimentalno svojstvo.
+css-compatibility-learn-more-message = <span data-l10n-name="link">Saznajte više</span> o <strong>{ $rootProperty }</strong>
 
 ## In the Rule View when a rule selector can causes issues, we display an icon.
 ## When this icon is hovered one or more of those messages are displayed to explain what
 ## the issue are.
 
+# :has() should not be translated
+css-selector-warning-unconstrained-has = Ovaj selektor koristi neograničenu funkciju <strong>:has()</strong>, što može biti sporo
