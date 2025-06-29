@@ -53,6 +53,7 @@ inactive-css-not-for-internal-table-elements-except-table-cells = <strong>{ $pro
 inactive-css-not-table = <strong>{ $property }</strong> nema utjecaja na ovaj element jer nije tabela.
 inactive-css-collapsed-table-borders = <strong>{ $property }</strong> nema utjecaja na ovaj element jer je to tabela sa suženim ivicama.
 inactive-css-not-table-cell = <strong>{ $property }</strong> nema utjecaja na ovaj element jer nije ćelija tabele.
+inactive-scroll-padding-when-not-scroll-container = <strong>{ $property }</strong> nema utjecaja na ovaj element jer se ne pomiče.
 inactive-css-border-image = <strong>{ $property }</strong> nema utjecaja na ovaj element jer se ne može primijeniti na interne elemente tabele gdje je <strong>border-collapse</strong> postavljen na <strong>collapse</strong> na roditeljskom elementu tabele.
 inactive-css-resize = <strong>{ $property }</strong> nema utjecaja na ovaj element jer se može primijeniti samo na elemente s vrijednošću prekoračenja koja nije visible, i na određene zamijenjene elemente, kao što su textarea.
 inactive-css-ruby-element = <strong>{ $property }</strong> nema utjecaja na ovaj element jer je to ruby element. Njegova veličina je određena veličinom fonta ruby teksta.

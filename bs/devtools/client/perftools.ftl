@@ -125,6 +125,9 @@ perftools-tools-threads-input-label =
 ## Onboarding UI labels. These labels are displayed in the new performance panel UI, when
 ## devtools.performance.new-panel-onboarding preference is true.
 
+perftools-onboarding-message = <b>Novo</b>: { -profiler-brand-name } je sada integriran u Alate za razvojne programere. <a>Saznajte više</a> o ovom moćnom novom alatu.
+perftools-onboarding-close-button =
+    .aria-label = Zatvori poruku dobrodošlice
 
 ## Profiler presets
 
@@ -138,6 +141,22 @@ perftools-tools-threads-input-label =
 # devtools/client/performance-new/shared/background.sys.mjs
 # The same labels and descriptions are also defined in appmenu.ftl.
 
+perftools-presets-web-developer-label = Web programer
+perftools-presets-web-developer-description = Preporučeno unaprijed postavljeno za većinu otklanjanja grešaka u web aplikacijama, s malim opterećenjem.
+perftools-presets-firefox-label = { -brand-shorter-name }
+perftools-presets-firefox-description = Preporučeno unaprijed postavljeno za profilisanje { -brand-shorter-name }a.
+perftools-presets-graphics-label = Grafika
+perftools-presets-graphics-description = Preset za istraživanje grafičkih grešaka u { -brand-shorter-name }u.
+perftools-presets-media-label = Mediji
+perftools-presets-media-description2 = Unaprijed postavljen za istraživanje audio i video grešaka u { -brand-shorter-name }u.
+perftools-presets-networking-label = Umrežavanje
+perftools-presets-networking-description = Unaprijed postavljen za istraživanje grešaka u mreži u { -brand-shorter-name }u.
+# "Power" is used in the sense of energy (electricity used by the computer).
+perftools-presets-power-label = Struja
+perftools-presets-power-description = Unaprijed postavljen za istraživanje grešaka u potrošnji energije u { -brand-shorter-name }u, sa malim troškovima.
+perftools-presets-debug-label = Otklanjanje grešaka
+perftools-presets-debug-description = Unaprijed postavljeno za otklanjanje grešaka u { -brand-shorter-name }. Visoki troškovi, ne koristite za rad na performansama, već za fokusiranje na razumijevanje ponašanja pretraživača.
+perftools-presets-custom-label = Prilagođeno
 
 ##
 
