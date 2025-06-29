@@ -224,7 +224,7 @@ select-translations-panel-idle-placeholder-text = Το μεταφρασμένο 
 # Text displayed as a placeholder when the panel is actively translating.
 select-translations-panel-translating-placeholder-text = Μετάφραση…
 select-translations-panel-init-failure-message =
-    .message = Αδυναμία φόρτωσης γλωσσών. Ελέγξτε τη σύνδεσή σας στο διαδίκτυο και δοκιμάστε ξανά.
+    .message = Δεν ήταν δυνατή η φόρτωση των γλωσσών. Ελέγξτε τη σύνδεσή σας στο διαδίκτυο και δοκιμάστε ξανά.
 # Text displayed when the translation fails to complete.
 select-translations-panel-translation-failure-message =
     .message = Προέκυψε πρόβλημα με τη μετάφραση. Δοκιμάστε ξανά.
