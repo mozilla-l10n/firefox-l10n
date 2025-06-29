@@ -60,7 +60,7 @@ contentanalysis-unspecified-error-message-content = Προέκυψε σφάλμ�
 # Variables:
 #   $agent - The name of the DLP agent doing the analysis
 #   $content - Localized text describing the content being blocked, such as "Paste denied."
-contentanalysis-no-agent-connected-message-content = Αδυναμία σύνδεσης στο { $agent }. { $content }
+contentanalysis-no-agent-connected-message-content = Δεν είναι δυνατή η σύνδεση στο { $agent }. { $content }
 # Variables:
 #   $agent - The name of the DLP agent doing the analysis
 #   $content - Localized text describing the content being blocked, such as "Paste denied."

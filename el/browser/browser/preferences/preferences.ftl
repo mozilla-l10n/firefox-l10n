@@ -936,7 +936,7 @@ sync-verification-sent-title = Η επιβεβαίωση εστάλη
 # Variables:
 #   $email (String): Email address of user's Firefox account.
 sync-verification-sent-body = Έχει σταλεί ένας σύνδεσμος επαλήθευσης στο { $email }.
-sync-verification-not-sent-title = Αδυναμία αποστολής επιβεβαίωσης
+sync-verification-not-sent-title = Δεν είναι δυνατή η αποστολή της επιβεβαίωσης
 sync-verification-not-sent-body = Δεν μπορούμε να στείλουμε ένα email επαλήθευσης αυτήν τη στιγμή, δοκιμάστε ξανά αργότερα.
 
 ## Privacy Section

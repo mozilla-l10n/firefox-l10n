@@ -233,7 +233,7 @@ shortcuts-modifier-mac = Συμπεριλάβετε Ctrl, Alt, ή ⌘
 shortcuts-modifier-other = Συμπεριλάβετε Ctrl ή Alt
 shortcuts-invalid = Άκυρος συνδυασμός
 shortcuts-letter = Πληκτρολογήστε ένα γράμμα
-shortcuts-system = Αδυναμία αντικατάστασης συντόμευσης του { -brand-short-name }
+shortcuts-system = Δεν είναι δυνατή η αντικατάσταση μιας συντόμευσης του { -brand-short-name }
 # String displayed in warning label when there is a duplicate shortcut
 shortcuts-duplicate = Διπλή συντόμευση
 # String displayed when a keyboard shortcut is already assigned to more than one add-on

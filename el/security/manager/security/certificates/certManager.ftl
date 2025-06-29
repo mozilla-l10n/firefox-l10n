@@ -169,7 +169,7 @@ add-exception-valid-long = Αυτή η σελίδα παρέχει έγκυρη 
 add-exception-checking-short = Έλεγχος πληροφοριών
 add-exception-checking-long = Γίνεται προσπάθεια πιστοποίησης της σελίδας…
 add-exception-no-cert-short = Δεν υπάρχουν διαθέσιμες πληροφορίες
-add-exception-no-cert-long = Αδυναμία λήψης κατάστασης ταυτότητας για αυτή τη σελίδα.
+add-exception-no-cert-long = Δεν είναι δυνατή η λήψη της κατάστασης ταυτότητας για αυτόν τον ιστότοπο.
 
 ## Certificate export "Save as" and error dialogs
 

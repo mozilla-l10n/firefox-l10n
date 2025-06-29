@@ -133,7 +133,7 @@ cert-error-signature-algorithm-mismatch = Το { -brand-short-name } απέκλ�
 
 ## Messages used for certificate error titles
 
-connectionFailure-title = Αδυναμία σύνδεσης
+connectionFailure-title = Δεν είναι δυνατή η σύνδεση
 deniedPortAccess-title = Αυτή η διεύθυνση είναι περιορισμένη
 # "Hmm" is a sound made when considering or puzzling over something.
 # You don't have to include it in your translation if your language does not have a written word like this.
@@ -165,7 +165,7 @@ unknownSocketType-title = Απρόσμενη απάντηση από τον δι
 nssFailure2-title = Αποτυχία ασφαλούς σύνδεσης
 csp-xfo-error-title = Το { -brand-short-name } δεν μπορεί να ανοίξει τη σελίδα
 corruptedContentError-title = Σφάλμα κατεστραμμένου περιεχομένου
-sslv3Used-title = Αδυναμία ασφαλούς σύνδεσης
+sslv3Used-title = Δεν είναι δυνατή η ασφαλής σύνδεση
 inadequateSecurityError-title = Η σύνδεσή σας δεν είναι ασφαλής
 blockedByPolicy-title = Αποκλεισμένη σελίδα
 clockSkewError-title = Το ρολόι του υπολογιστή σας είναι λάθος
