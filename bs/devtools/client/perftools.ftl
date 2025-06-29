@@ -99,6 +99,10 @@ perftools-thread-socket-thread =
     .title = Nit u kojoj mrežni kod izvršava sve blokirajuće pozive socketa
 perftools-thread-img-decoder =
     .title = Niti za dekodiranje slika
+perftools-thread-dns-resolver =
+    .title = DNS rezolucija se dešava u ovoj temi
+perftools-thread-task-controller =
+    .title = Niti skupa niti TaskControllera
 
 ##
 
