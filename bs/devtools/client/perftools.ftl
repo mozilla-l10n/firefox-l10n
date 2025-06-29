@@ -103,9 +103,24 @@ perftools-thread-dns-resolver =
     .title = DNS rezolucija se dešava u ovoj temi
 perftools-thread-task-controller =
     .title = Niti skupa niti TaskControllera
+perftools-thread-jvm-gecko =
+    .title = Glavna Gecko JVM nit
+perftools-thread-jvm-nimbus =
+    .title = Glavne teme za SDK za Nimbus eksperimente
+perftools-thread-jvm-default-dispatcher =
+    .title = Zadani dispečer za biblioteku korutina Kotlin
+perftools-thread-jvm-glean =
+    .title = Glavne niti za Glean telemetrijski SDK
+perftools-thread-jvm-arch-disk-io =
+    .title = IO dispečer za biblioteku korutina Kotlin
+perftools-thread-jvm-pool =
+    .title = Niti kreirane u neimenovanom skupu niti
 
 ##
 
+perftools-record-all-registered-threads = Zaobiđi gornje odabire i snimi sve registrovane teme
+perftools-tools-threads-input-label =
+    .title = Ova imena niti su lista odvojena zarezima koja se koristi za omogućavanje profiliranja niti u profileru. Ime mora biti samo djelimično isto kao ime niti da bi bilo uključeno. Osjetljivo je na razmake.
 
 ## Onboarding UI labels. These labels are displayed in the new performance panel UI, when
 ## devtools.performance.new-panel-onboarding preference is true.
