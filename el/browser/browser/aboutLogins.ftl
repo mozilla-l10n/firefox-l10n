@@ -275,7 +275,7 @@ about-logins-confirm-remove-all-dialog-title2 =
 about-logins-confirm-remove-all-dialog-message2 =
     { $count ->
         [1] Αυτή η ενέργεια θα αφαιρέσει τον κωδικό πρόσβασης που έχει αποθηκευτεί στο { -brand-short-name }, καθώς και τυχόν ειδοποιήσεις παραβιάσεων. Δεν μπορείτε να αναιρέσετε αυτήν την ενέργεια.
-       *[other] This will remove the passwords saved to { -brand-short-name } and any breach alerts. You cannot undo this action.
+       *[other] Αυτή η ενέργεια θα αφαιρέσει τους κωδικούς πρόσβασης που έχουν αποθηκευτεί στο { -brand-short-name }, καθώς και τυχόν ειδοποιήσεις παραβιάσεων. Δεν μπορείτε να αναιρέσετε αυτήν την ενέργεια.
     }
 # Title for modal to confirm the removal of all saved passwords when user IS SYNCED
 about-logins-confirm-remove-all-sync-dialog-title2 =
