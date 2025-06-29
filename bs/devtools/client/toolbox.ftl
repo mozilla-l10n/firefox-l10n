@@ -39,3 +39,7 @@ toolbox-mode-parent-process-label = Samo roditeljski proces
 toolbox-mode-parent-process-sub-label = (Brzo)
 toolbox-mode-parent-process-container =
     .title = Fokusirajte se samo na resurse iz roditeljskog procesa.
+toolbox-always-on-top-enabled2 = Onemogući uvijek na vrhu
+    .title = Ovo će ponovo pokrenuti razvojne alate
+toolbox-always-on-top-disabled2 = Omogući uvijek na vrhu
+    .title = Ovo će ponovo pokrenuti razvojne alate

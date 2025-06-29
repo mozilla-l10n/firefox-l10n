@@ -34,6 +34,20 @@ options-show-user-agent-styles-tooltip =
 options-collapse-attrs-label = Skrati DOM atribute
 options-collapse-attrs-tooltip =
     .title = Skrati duge atribute u inspektoru
+# The label for the checkbox option to enable the "drag to update" feature
+options-inspector-draggable-properties-label = Kliknite i prevucite da biste uredili vrijednosti veličine
+options-inspector-draggable-properties-tooltip =
+    .title = Kliknite i prevucite da biste uredili vrijednosti veličine u prikazu pravila inspektora.
+# The label for the checkbox option to enable simplified highlighting on page elements
+# within the inspector for users who enabled prefers-reduced-motion = reduce
+options-inspector-simplified-highlighters-label = Koristite jednostavnije markere sa prefers-reduced-motion funkcijom
+options-inspector-simplified-highlighters-tooltip =
+    .title = Omogućava pojednostavljene markere kada je omogućeno prefers-reduced-motion. Crta linije umjesto ispunjenih pravougaonika oko označenih elemenata kako bi se izbjegli efekti treperenja.
+# The label for the checkbox option to make the Enter key move the focus to the next input
+# when editing a property name or value in the Inspector rules view
+options-inspector-rules-focus-next-on-enter-label = Fokus na sljedeći unos na <kbd>Enter</kbd>
+options-inspector-rules-focus-next-on-enter-tooltip =
+    .title = Kada je omogućeno, pritiskom na tipku Enter prilikom uređivanja selektora, naziva svojstva ili vrijednosti fokus će se pomjeriti na sljedeći unos.
 
 ## "Default Color Unit" options for the Inspector
 
@@ -42,10 +56,17 @@ options-default-color-unit-authored = As Authored
 options-default-color-unit-hex = Hex
 options-default-color-unit-hsl = HSL(A)
 options-default-color-unit-rgb = RGB(A)
+options-default-color-unit-hwb = HWB
 options-default-color-unit-name = Nazivi boja
 
 ## Web Console section
 
+# The heading
+options-webconsole-label = Web konzola
+# The label for the checkbox that toggle whether the Split console is enabled
+options-webconsole-split-console-label = Omogući podijeljenu konzolu
+options-webconsole-split-console-tooltip =
+    .title = Otvorite podijeljenu konzolu pomoću tipke Escape
 
 ## Style Editor section
 
@@ -60,6 +81,10 @@ options-stylesheet-autocompletion-tooltip =
 
 # The heading
 options-screenshot-label = Ponašanje screenshota
+# Label for the checkbox that toggles screenshot to clipboard feature
+options-screenshot-clipboard-only-label = Snimak ekrana samo u privremenu memoriju
+options-screenshot-clipboard-tooltip2 =
+    .title = Sprema snimak ekrana direktno u privremenu memoriju
 # Label for the checkbox that toggles the camera shutter audio for screenshot tool
 options-screenshot-audio-label = Sviraj zvuk kamere
 options-screenshot-audio-tooltip =
@@ -100,6 +125,16 @@ options-enable-chrome-tooltip =
     .title = Uključivanje ove opcije će omogućiti korištenje raznih razvojnih alata u kontekstu preglednika (putem Alati > Web Developer > Alatna traka browsera) i otklanjanje grešaka u add-onima putem Upravnika add-onima.
 # The label for checkbox that toggles remote debugging, i.e. the devtools.debugger.remote-enabled preference
 options-enable-remote-label = Omogući udaljeno debuggiranje
+options-enable-remote-tooltip2 =
+    .title = Uključivanje ove opcije omogućit će daljinsko otklanjanje grešaka u ovoj instanci preglednika
+# The label for checkbox that enables F12 as a shortcut to open DevTools
+options-enable-f12-label = Koristite tipku F12 za otvaranje ili zatvaranje DevToolsa
+options-enable-f12-tooltip =
+    .title = Uključivanjem ove opcije, tipka F12 će se vezati za otvaranje ili zatvaranje DevTools alata.
+# The label for checkbox that toggles custom formatters for objects
+options-enable-custom-formatters-label = Omogući prilagođene formatere
+options-enable-custom-formatters-tooltip =
+    .title = Uključivanjem ove opcije omogućit ćete web stranicama da definišu prilagođene formatere za DOM objekte
 # The label for checkbox that toggles the service workers testing over HTTP on or off.
 options-enable-service-workers-http-label = Omogući Service Workere preko HTTP (kada je alatna traka otvorena)
 options-enable-service-workers-http-tooltip =
