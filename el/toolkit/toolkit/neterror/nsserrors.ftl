@@ -8,8 +8,8 @@
 # gen_aboutneterror_codes.py . If we end up needing fluent attributes or
 # refactoring them in some way, the script will need updating.
 
-psmerr-ssl-disabled = Αδυναμία ασφαλούς σύνδεσης λόγω απενεργοποίησης του πρωτοκόλλου SSL.
-psmerr-ssl2-disabled = Αδυναμία ασφαλούς σύνδεσης. επειδή η σελίδα χρησιμοποιεί μια παλαιότερη, μη ασφαλή έκδοση του πρωτοκόλλου SSL.
+psmerr-ssl-disabled = Δεν είναι δυνατή η ασφαλής σύνδεση επειδή το πρωτόκολλο SSL έχει απενεργοποιηθεί.
+psmerr-ssl2-disabled = Δεν είναι δυνατή η ασφαλής σύνδεση επειδή ο ιστότοπος χρησιμοποιεί παλαιότερη, μη ασφαλή έκδοση του πρωτοκόλλου SSL.
 # This is a multi-line message.
 psmerr-hostreusedissuerandserial =
     Έχετε λάβει ένα μη έγκυρο πιστοποιητικό. Επικοινωνήστε με τον διαχειριστή του διακομιστή ή με τον αποστολέα του email και δώστε του αυτές τις πληροφορίες:
@@ -99,7 +99,7 @@ ssl-error-no-server-key-for-alg = Ο διακομιστής δεν έχει κλ
 ssl-error-token-insertion-removal = Το διακριτικό PKCS#11 προστέθηκε ή αφαιρέθηκε, ενώ η λειτουργία βρισκόταν σε εξέλιξη.
 ssl-error-token-slot-not-found = Δεν βρέθηκε κανένα διακριτικό PKCS#11 για να εκτελέσει μια απαιτούμενη λειτουργία.
 ssl-error-no-compression-overlap = Δεν είναι δυνατή η ασφαλής επικοινωνία με τον ομότιμο κόμβο: κανένας κοινός αλγόριθμος συμπίεσης.
-ssl-error-handshake-not-completed = Αδυναμία εκκίνησης άλλης χειραψίας SSL μέχρι να ολοκληρωθεί η τρέχουσα χειραψία.
+ssl-error-handshake-not-completed = Δεν είναι δυνατή η εκκίνηση άλλης χειραψίας SSL μέχρι να ολοκληρωθεί η τρέχουσα χειραψία.
 ssl-error-bad-handshake-hash-value = Ελήφθησαν εσφαλμένες τιμές hash χειραψιών από τον ομότιμο κόμβο.
 ssl-error-cert-kea-mismatch = Το παρεχόμενο πιστοποιητικό δεν μπορεί να χρησιμοποιηθεί με τον επιλεγμένο αλγόριθμο ανταλλαγής κλειδιού.
 ssl-error-no-trusted-ssl-client-ca = Καμία αρχή πιστοποίησης δεν είναι αξιόπιστη για τον έλεγχο ταυτότητας του υπολογιστή-πελάτη SSL.
@@ -276,10 +276,10 @@ sec-error-ocsp-old-response = Η απόκριση OCSP περιέχει παλα
 sec-error-digest-not-found = Το CMS ή PKCS #7 Digest δεν βρέθηκε στο υπογεγραμμένο μήνυμα.
 sec-error-unsupported-message-type = Ο τύπος μηνύματος CMS ή PKCS #7 δεν υποστηρίζεται.
 sec-error-module-stuck = Η μονάδα PKCS #11 δεν μπορεί να αφαιρεθεί, επειδή είναι ακόμα σε χρήση.
-sec-error-bad-template = Αδυναμία αποκωδικοποίησης δεδομένων ASN.1. Το καθορισμένο πρότυπο ήταν άκυρο.
+sec-error-bad-template = Δεν ήταν δυνατή η αποκωδικοποίηση των δεδομένων ASN.1. Το καθορισμένο πρότυπο δεν ήταν έγκυρο.
 sec-error-crl-not-found = Δεν βρέθηκε αντίστοιχη CRL.
 sec-error-reused-issuer-and-serial = Προσπαθείτε να εισαγάγετε πιστοποιητικό με ίδιο εκδότη/σειριακό με ένα υπάρχον, ενώ δεν είναι το ίδιο πιστοποιητικό.
-sec-error-busy = Αδυναμία τερματισμού NSS. Χρησιμοποιούνται ακόμη αντικείμενα.
+sec-error-busy = Δεν ήταν δυνατός ο τερματισμός της υπηρεσίας NSS. Χρησιμοποιούνται ακόμα αντικείμενα.
 sec-error-extra-input = Το μήνυμα κωδικοποίησης DER περιείχε επιπλέον περιττά δεδομένα.
 sec-error-unsupported-elliptic-curve = Μη υποστηριζόμενη ελλειπτική καμπύλη.
 sec-error-unsupported-ec-point-form = Μη υποστηριζόμενη μορφή σημείου ελλειπτικής καμπύλης.
@@ -332,8 +332,8 @@ mozilla-pkix-error-empty-issuer-name = Ο διακομιστής παρουσί�
 mozilla-pkix-error-additional-policy-constraint-failed = Ένας περιορισμός πρόσθετης πολιτικής απέτυχε κατά την επικύρωση αυτού του πιστοποιητικού.
 mozilla-pkix-error-self-signed-cert = Το πιστοποιητικό δεν είναι έμπιστο επειδή είναι αυτοϋπογεγραμμένο.
 mozilla-pkix-error-issuer-no-longer-trusted = Η αρχή πιστοποίησης που εξέδωσε το πιστοποιητικό δεν θεωρούνταν αξιόπιστη πριν από την έκδοση του πιστοποιητικού.
-xp-java-remove-principal-error = Αδυναμία αφαίρεσης αρχής
-xp-java-delete-privilege-error = Αδυναμία διαγραφής προνομίου
+xp-java-remove-principal-error = Δεν ήταν δυνατή η αφαίρεση της αρχής
+xp-java-delete-privilege-error = Δεν ήταν δυνατή η διαγραφή του προνομίου
 xp-java-cert-not-exists-error = Αυτή η αρχή δεν διαθέτει πιστοποιητικό
 xp-sec-fortezza-bad-card = Η κάρτα Fortezza δεν έχει προετοιμαστεί σωστά. Διαγράψτε την και επιστρέψτε τη στον εκδότη σας.
 xp-sec-fortezza-no-card = Δεν βρέθηκαν κάρτες Fortezza
@@ -342,4 +342,4 @@ xp-sec-fortezza-more-info = Επιλέξτε ένα πρόσωπο για περ
 xp-sec-fortezza-person-not-found = Δεν βρέθηκε προσωπικότητα
 xp-sec-fortezza-no-more-info = Καμία επιπλέον πληροφορία σχετικά με αυτήν την προσωπικότητα
 xp-sec-fortezza-bad-pin = Άκυρο PIN
-xp-sec-fortezza-person-error = Αδυναμία προετοιμασίας προσωπικοτήτων Fortezza.
+xp-sec-fortezza-person-error = Δεν ήταν δυνατή η αρχικοποίηση των προσωπικοτήτων Fortezza.
