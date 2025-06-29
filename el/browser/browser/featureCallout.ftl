@@ -165,8 +165,8 @@ sidebar-callout-survey-dissatisfied-2 = Δυσαρεστημένος/-η
 sidebar-callout-survey-very-dissatisfied-2 = Πολύ δυσαρεστημένος/-η
 sidebar-callout-survey-dont-use-it = Δεν το χρησιμοποιώ
 sidebar-callout-survey-productive-question =
-    Σε ποιο βαθμό συμφωνείτε ή διαφωνείτε με τη δήλωση:<br/>
-    “Με βοηθά η πλευρική γραμμή του { -brand-short-name } να γίνω πιο παραγωγικός/-ή”;
+    Σε ποιο βαθμό συμφωνείτε ή διαφωνείτε με αυτήν τη δήλωση:<br/>
+    «Η πλαϊνή γραμμή του { -brand-short-name } με βοηθά να γίνω πιο παραγωγικός/-ή»;
 sidebar-callout-survey-strongly-agree = Συμφωνώ απόλυτα
 sidebar-callout-survey-agree = Συμφωνώ
 sidebar-callout-survey-disagree = Διαφωνώ
