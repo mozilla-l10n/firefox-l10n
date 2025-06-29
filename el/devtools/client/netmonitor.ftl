@@ -29,7 +29,7 @@ network-menu-summary-tooltip-requests-count =
 # Variables:
 #   $formattedContentSize (String): The formatted content size.
 #   $formattedTransferredSize (String): The formatted transferred size.
-network-menu-summary-transferred = { $formattedContentSize } / { $formattedTransferredSize } μεταφέρθηκαν
+network-menu-summary-transferred = Μεταφέρθηκαν { $formattedContentSize } / { $formattedTransferredSize }
 network-menu-summary-tooltip-transferred =
     .title = Μέγεθος/μεταβιβασμένο μέγεθος όλων των αιτημάτων
 # This label is displayed in the network table footer providing the
