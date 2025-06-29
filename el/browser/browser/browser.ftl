@@ -167,7 +167,7 @@ urlbar-addons-notification-anchor =
     .tooltiptext = Άνοιγμα πλαισίου μηνυμάτων εγκατάστασης προσθέτων
 urlbar-tip-help-icon =
     .title = Λάβετε βοήθεια
-urlbar-search-tips-confirm = Εντάξει, το 'πιασα
+urlbar-search-tips-confirm = Εντάξει, το κατάλαβα
 urlbar-search-tips-confirm-short = Το κατάλαβα
 # Read out before Urlbar Tip text content so screenreader users know the
 # subsequent text is a tip offered by the browser. It should end in a colon or

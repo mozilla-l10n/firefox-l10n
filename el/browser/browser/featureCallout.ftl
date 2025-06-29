@@ -42,7 +42,7 @@ callout-pdfjs-draw-title = Υπογράψτε έγγραφα με το νέο μ
 callout-pdfjs-draw-body-a = Δημιουργήστε σημειώσεις σε αρχεία PDF και αποθηκεύστε τις αλλαγές σας.
 # “Mark up” refers to the process of “annotating” or adding free hand text or diagramming to the document.
 callout-pdfjs-draw-body-b = Όχι άλλη εκτύπωση και σάρωση. Δημιουργήστε σημειώσεις σε αρχεία PDF και αποθηκεύστε τις αλλαγές σας.
-callout-pdfjs-draw-button = Το 'πιασα!
+callout-pdfjs-draw-button = Το κατάλαβα!
 
 ## Firefox View Discoverability Strings
 

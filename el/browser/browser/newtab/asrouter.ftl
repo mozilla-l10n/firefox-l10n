@@ -246,7 +246,7 @@ device-migration-fxa-spotlight-getting-new-device-header-2 = Νέα συσκευ
 device-migration-fxa-spotlight-getting-new-device-body-2 = Ακολουθήστε μερικά απλά βήματα για να έχετε μαζί σας τους σελιδοδείκτες, το ιστορικό και τους κωδικούς πρόσβασής σας όταν ξεκινάτε σε μια νέα συσκευή.
 device-migration-fxa-spotlight-getting-new-device-primary-button = Δημιουργία αντιγράφων ασφαλείας δεδομένων
 device-migration-fxa-spotlight-sync-header = Περιηγηθείτε χωρίς να χάσετε λεπτό
-device-migration-fxa-spotlight-sync-body = Συγχρονίστε όλα τα σημαντικά δεδομένα σας με κρυπτογράφηση — όπως σελιδοδείκτες και κωδικούς πρόσβασης. Μπορείτε να φέρετε τα πάντα σε όποια συσκευή χρησιμοποιείτε το { -brand-product-name }.
+device-migration-fxa-spotlight-sync-body = Συγχρονίστε όλα τα σημαντικά δεδομένα σας με κρυπτογράφηση, όπως σελιδοδείκτες και κωδικούς πρόσβασης. Μπορείτε να φέρετε τα πάντα σε όποια συσκευή χρησιμοποιείτε το { -brand-product-name }.
 device-migration-fxa-spotlight-sync-primary-button = Ξεκινήστε
 
 ## Set as Default PDF Reader Infobar
