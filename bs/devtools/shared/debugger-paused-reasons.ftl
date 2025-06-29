@@ -20,8 +20,23 @@ whypaused-debugger-statement = Pauzirano na iskaz debuggera
 # currently paused on a breakpoint
 whypaused-breakpoint = Pauzirano na tačku prekida
 # The text that is displayed in a info block explaining how the debugger is
+# currently paused on an event breakpoint.
+whypaused-event-breakpoint = Pauzirano na tački prekida događaja
+# The text that is displayed in a info block explaining how the debugger is
 # currently paused on an exception
 whypaused-exception = Pauzirano na izuzetak
+# The text that is displayed in a info block explaining how the debugger is
+# currently paused on a DOM mutation breakpoint
+whypaused-mutation-breakpoint = Pauzirano zbog DOM mutacije
+# The text that is displayed to describe an added node which triggers a subtree
+# modification
+whypaused-mutation-breakpoint-added = Dodano:
+# The text that is displayed to describe a removed node which triggers a subtree
+# modification
+whypaused-mutation-breakpoint-removed = Uklonjeno:
+# The text that is displayed in a info block explaining how the debugger is
+# currently paused at a JS execution
+whypaused-interrupted = Pauzirano pri izvršavanju
 # The text that is displayed in a info block explaining how the debugger is
 # currently paused while stepping in or out of the stack
 whypaused-resume-limit = Pauzirano prilikom steppinga
@@ -32,8 +47,17 @@ whypaused-pause-on-dom-events = Pauzirano na osluškivač događaja
 # breakpoint throws an error
 whypaused-breakpoint-condition-thrown = Greška sa uslovnom prijelomnom tačkom
 # The text that is displayed in a info block explaining how the debugger is
+# currently paused on an xml http request
+whypaused-xhr = Pauzirano na XMLHttpRequest
+# The text that is displayed in a info block explaining how the debugger is
 # currently paused on a promise rejection
 whypaused-promise-rejection = Pauzirano na odbijanje promise-a
+# The text that is displayed in a info block explaining how the debugger is
+# currently paused at a watchpoint on an object property
+whypaused-get-watchpoint = Pauzirano prilikom preuzimanja svojstva
+# The text that is displayed in an info block explaining how the debugger is
+# currently paused at a watchpoint on an object property
+whypaused-set-watchpoint = Pauzirano na skupu svojstava
 # The text that is displayed in a info block explaining how the debugger is
 # currently paused on an assert
 whypaused-assert = Pauzirano na assertion
