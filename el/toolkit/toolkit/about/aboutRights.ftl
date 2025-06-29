@@ -58,7 +58,10 @@ rights-safebrowsing-term-2 = Επιλέξτε την καρτέλα Ασφάλε
 rights-safebrowsing-term-3 = Καταργήστε την επιλογή «{ enableSafeBrowsing-label }»
 enableSafeBrowsing-label = Φραγή επικίνδυνου και παραπλανητικού περιεχομένου
 rights-safebrowsing-term-4 = Η ασφαλής περιήγηση είναι πλέον ανενεργή
-rights-locationawarebrowsing = <strong>Η Περιήγηση με δήλωση τοποθεσίας: </strong>γίνεται πάντα με ερώτηση για τη σύμφωνη γνώμη σας. Δεν παρέχονται πληροφορίες τοποθεσίας χωρίς την άδεια σας.  Αν επιθυμείτε να απενεργοποιήσετε πλήρως αυτή τη λειτουργία, ακολουθήστε τα παρακάτω βήματα:
+rights-locationawarebrowsing =
+    <strong>Περιήγηση βάσει τοποθεσίας: </strong>είναι πάντα προαιρετική. Δεν
+    αποστέλλονται ποτέ πληροφορίες τοποθεσίας χωρίς την άδειά σας. Αν θέλετε να
+    απενεργοποιήσετε εντελώς τη λειτουργία, ακολουθήστε τα εξής βήματα:
 rights-locationawarebrowsing-term-1 = Στη γραμμή διευθύνσεων, πληκτρολογήστε <code>about:config</code>
 rights-locationawarebrowsing-term-2 = Πληκτρολογήστε geo.enabled
 rights-locationawarebrowsing-term-3 = Κάντε διπλό κλικ στην προτίμηση geo.enabled

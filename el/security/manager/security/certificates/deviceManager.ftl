@@ -96,5 +96,5 @@ load-module-help-empty-module-name =
 load-module-help-root-certs-module-name =
     .value = Το ‘Πιστοποιητικά Ρίζας‘ είναι δεσμευμένο και δεν μπορεί να χρησιμοποιηθεί ως όνομα αρθρώματος.
 add-module-failure = Δεν ήταν δυνατή η προσθήκη μονάδας
-del-module-warning = Θέλετε σίγουρα να διαγράψετε αυτή τη μονάδα ασφάλειας;
+del-module-warning = Θέλετε σίγουρα να διαγράψετε αυτήν τη μονάδα ασφάλειας;
 del-module-error = Δεν ήταν δυνατή η διαγραφή μονάδας

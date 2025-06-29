@@ -284,7 +284,7 @@ about-debugging-extension-backgroundscript-status-stopped = Διακόπηκε
 # probably better to not localize it.
 # .disabledTitle is processed by the fluent-react / ActionButton code.
 about-debugging-worker-action-push2 = Push
-    .disabledTitle = Το push του service worker είναι ανενεργό αυτή τη στιγμή για το { -brand-shorter-name } πολλαπλών διεργασιών
+    .disabledTitle = Η υπηρεσία push του service worker είναι προς το παρόν απενεργοποιημένη για το { -brand-shorter-name } πολλαπλών διεργασιών
 # This string is displayed as a label of the button that starts a service worker.
 # .disabledTitle is processed by the fluent-react / ActionButton code.
 about-debugging-worker-action-start2 = Έναρξη
