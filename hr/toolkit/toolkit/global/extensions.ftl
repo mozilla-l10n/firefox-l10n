@@ -53,7 +53,7 @@ webext-perms-sideload-cancel =
     .accesskey = O
 # Variables:
 #   $extension (String): replaced with the localized name of the extension.
-webext-perms-update-text2 = Proširenje { $extension } je aktualizirano. Moraš odobriti nove dozvole prije instaliranja nove verzije. Odabirom opcije „Odustani” zadržat će se trenutačna verzija proširenja.
+webext-perms-update-text2 = Proširenje { $extension } je aktualizirano. Moraš odobriti nove dozvole prije nego što će se nova verzija instalirati. Odabirom opcije „Odustani” zadržat će se trenutačna verzija proširenja.
 # Variables:
 #   $extension (String): replaced with the localized name of the extension.
 webext-perms-update-text = Proširenje { $extension } je aktualizirano. Moraš odobriti nove dozvole prije instaliranja aktualizirane verzije. Odabirom mogućnosti „Odustani” zadržat će se trenutačna verzija proširenja. Ovo proširenje imati će dozvole za:
@@ -111,6 +111,7 @@ webext-perms-host-description-multiple-domains =
 
 ## Strings for data collection permissions in the permission prompt.
 
+webext-perms-description-data-none = Programer kaže da ovo proširenje ne zahtijeva prikupljanje podataka.
 
 ## Headers used in the webextension permissions dialog for synthetic add-ons.
 ## The part of the string describing what privileges the extension gives should be consistent

@@ -56,6 +56,8 @@ neterror-dns-not-found-hint-check-network = Provjeriti svoju internet vezu
 neterror-dns-not-found-hint-firewall = Provjeriti ima li { -brand-short-name } dozvolu za pristup webu (možda veza postoji, ali iza vatrozida)
 neterror-dns-not-found-offline-hint-header = <strong>Što možeš učiniti po tom pitanju?</strong>
 neterror-dns-not-found-offline-hint-different-device = Pokušaj se spojiti na jednom.drugom uređaju.
+neterror-dns-not-found-offline-hint-modem = Provjeri svoj modem ili ruter.
+neterror-dns-not-found-offline-hint-reconnect = Odspoji se te se ponovo spoji na Wi-Fi.
 
 ## TRR-only specific messages
 ## Variables:
@@ -103,6 +105,9 @@ neterror-proxy-connect-failure-settings = Provjeri proxy postavke i potvrdi da s
 neterror-proxy-connect-failure-contact-admin = Kontaktiraj administratora mreže i provjeri da proxy server radi.
 neterror-content-encoding-error = Kontaktiraj vlasnike web stranice i obavijesti ih o ovom problemu.
 neterror-unsafe-content-type = Kontaktiraj vlasnike web stranice i obavijesti ih o ovom problemu.
+# Variables:
+# $hostname (String) - Hostname of the website to which the user was trying to connect.
+neterror-basic-http-auth = { -brand-short-name } ne vjeruje stranici { $hostname } jer veza nije sigurna. Pokušaj promijeniti URL na HTTPS.
 neterror-nss-failure-not-verified = Stranicu koju pokušavaš vidjeti nije moguće prikazati, jer nije moguće provjeriti autentičnost primljenih podataka.
 neterror-nss-failure-contact-website = Kontaktiraj vlasnike web stranice i obavijesti ih o ovom problemu.
 # Variables:
