@@ -284,7 +284,7 @@ contextual-manager-view-alert-heading-2 =
     .heading =
         { $count ->
             [1] Zobraziť upozornenie
-            [one] Zobraziť upozornenia
+            [one] Zobraziť upozornenie
             [few] Zobraziť upozornenia
             [many] Zobraziť upozornenia
            *[other] Zobraziť upozornenia

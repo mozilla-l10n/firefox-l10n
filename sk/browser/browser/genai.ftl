@@ -63,6 +63,8 @@ genai-menu-remove-provider =
     .label = Odstrániť { $provider }
 genai-menu-remove-sidebar =
     .label = Odstrániť z bočného panela
+genai-menu-new-badge = Nové
+genai-menu-summarize-page = Zosumarizuj stránku
 genai-input-ask-generic =
     .placeholder = Opýtajte sa AI chatbota…
 # $provider (string) - name of the provider
@@ -93,6 +95,10 @@ genai-shortcuts-selected-warning =
         }
 genai-shortcuts-hide =
     .label = Skryť skratku chatbota
+genai-menu-no-provider =
+    .label = Opýtajte sa AI chatbota
+genai-menu-choose-chatbot =
+    .label = Vyberte si chatbota s umelou inteligenciou
 
 ## Chatbot header
 
