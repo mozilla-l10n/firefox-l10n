@@ -9,7 +9,7 @@ neterror-page-title = Problem pri učitavanju stranice
 certerror-page-title = Upozorenje: potencijalni sigurnosni rizik
 certerror-sts-page-title = Neuspjelo povezivanje: potencijalni sigurnosni problem
 neterror-blocked-by-policy-page-title = Blokirana stranica
-neterror-captive-portal-page-title = Prijava na mrežu
+neterror-captive-portal-page-title = Prijavi se na mrežu
 neterror-dns-not-found-title = Server nije pronađen
 neterror-malformed-uri-page-title = Neispravan URL
 general-body-title = Oprez. Nešto nije u redu.
@@ -46,7 +46,7 @@ neterror-load-error-firewall = Ako je tvoje računalo ili mreža zaštićena vat
 # This warning is only shown on macOS Sequoia and later (see bug 1929377)
 neterror-load-osx-permission = Ako pokušavaš učitati stranicu lokalne mreže, provjeri je li { -brand-short-name } dobio dozvole lokalne mreže u postavkama privatnosti i sigurnosti macOS-a.
 neterror-http-error-page = Provjeri jesi li ispravno upisao/la adresu web stranice.
-neterror-captive-portal = Za upotrebu interneta, moraš se najprije prijaviti na ovu mreži.
+neterror-captive-portal = Za pristup internetu se najprije moraš prijaviti na ovu mreži.
 # Variables:
 # $hostAndPath (String) - a suggested site (e.g. "www.example.com") that the user may have meant instead.
 neterror-dns-not-found-with-suggestion = Jesi li mislili ići na <a data-l10n-name="website">{ $hostAndPath }</a>?

@@ -112,7 +112,7 @@ dns-not-found-native-fallback-title2 = Mogući sigurnosni rizik pri pretraživan
 fileNotFound-title = Datoteka nije pronađena
 fileAccessDenied-title = Pristup datoteci je odbijen
 generic-title = Ups.
-captivePortal-title = Prijava na mrežu
+captivePortal-title = Prijavi se na mrežu
 # "Hmm" is a sound made when considering or puzzling over something.
 # You don't have to include it in your translation if your language does not have a written word like this.
 malformedURI-title = Hmm. Ta adresa ne izgleda dobro.

@@ -91,7 +91,7 @@ about-webrtc-debug-mode-off-state-label = Pokreni modus za otklanjanja grešaka
 about-webrtc-debug-mode-on-state-label = Prekini modus za otklanjanja grešaka
 about-webrtc-stats-heading = Statistika sesije
 about-webrtc-stats-clear = Izbriši povijest
-about-webrtc-log-heading = Zapisnik veze
+about-webrtc-log-heading = Zapisnik povezivanja
 about-webrtc-log-clear = Izbriši zapisnik
 about-webrtc-log-show-msg = prikaži zapisnik
     .title = klikni za rasklapanje ovog odjeljka
@@ -182,7 +182,7 @@ about-webrtc-round-trip-time-ms = RTT ms
 about-webrtc-save-page-msg = stranica spremljena u: { $path }
 about-webrtc-debug-mode-off-state-msg = trace zapisnik je moguće pronaći na: { $path }
 about-webrtc-debug-mode-on-state-msg = modus za otklanjanja grešaka aktivan, staza zapisnika: { $path }
-about-webrtc-aec-logging-off-state-msg = snimljene log datoteke je moguće pronaći u: { $path }
+about-webrtc-aec-logging-off-state-msg = snimljene datoteke zapisnika se mogu pronaći u: { $path }
 # This path is used for saving the about:webrtc page so it can be attached to
 # bug reports.
 # Variables:

@@ -147,7 +147,7 @@ troubleshoot-mode-title = Dijagnosticiranje problema
 restart-in-troubleshoot-mode-label = Modus za rješavanje problema …
 clear-startup-cache-title = Pokušaj izbrisati predmemoriju pokretanja
 clear-startup-cache-label = Izbriši predmemoriju pokretanja …
-startup-cache-dialog-title2 = Ponovno pokrenuti { -brand-short-name } za čišćenje predmemorije pokretanja?
+startup-cache-dialog-title2 = Ponovno pokrenuti { -brand-short-name } za brisanje predmemorije pokretanja?
 startup-cache-dialog-body2 = Ovo neće promijeniti tvoje postavke ni ukloniti proširenja.
 restart-button-label = Pokreni ponovo
 
@@ -183,6 +183,10 @@ media-codec-support-lack-of-extension = Instaliraj proširenje
 ## See EME Spec for more explanation for following technical terms
 ## https://w3c.github.io/encrypted-media/
 
+# Clear Lead isn't defined in the spec, which means the the first few seconds
+# are not encrypted. It allows playback to start without having to wait for
+# license response, improving video start time and user experience.
+media-cdm-clear-lead = Nešifriran uvod
 
 ##
 
@@ -380,7 +384,7 @@ policies-error = Greška
 
 support-printing-title = Ispisivanje
 support-printing-troubleshoot = Otklanjanje grešaka
-support-printing-clear-settings-button = Očisti spremljene postavke ispisa
+support-printing-clear-settings-button = Izbriši spremljene postavke ispisa
 support-printing-prefs-name = Ime
 support-printing-prefs-value = Vrijednost
 
