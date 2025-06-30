@@ -108,6 +108,9 @@ perplexity-callout-secondary-label-2 = J’ai compris
 
 # Suggestion to backup passwords by signing up for Mozilla account and using sync
 fxa-adoption-passwords-title = Mot de passe enregistré. Maintenant, sauvegardons-le.
+fxa-adoption-passwords-subtitle = Protégez vos mots de passe en les chiffrant et en les synchronisant avec vos appareils.
+# Opens Mozilla accounts sign-up page
+fxa-adoption-passwords-primary-button-label = Créer un compte
 
 ## Sidebar Strings
 
@@ -132,6 +135,9 @@ sidebar-pins-callout-cta-button = Épingler cet onglet
 
 ## Pinning Tabs Strings
 
+pin-tabs-callout-1-title = Gardez les onglets importants à portée de main
+pin-tabs-callout-cta-1-button = Épingler cet onglet
+pin-tabs-callout-2-title = Épinglez les onglets que vous ouvrez le plus souvent
 
 ## Sidebar Onboarding Strings
 

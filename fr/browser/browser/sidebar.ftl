@@ -68,6 +68,7 @@ sidebar-show-on-the-left =
 # hovers over it.
 expand-sidebar-on-hover =
     .label = Déployer le panneau latéral au survol
+sidebar-manage-extensions = Gérer les extensions
 
 ## Labels for sidebar context menu items
 
@@ -101,6 +102,10 @@ sidebar-context-menu-customize-sidebar =
 #   $deviceName (String) - The name of the device the user is closing a tab for
 sidebar-context-menu-close-remote-tab =
     .label = Fermer l’onglet sur { $deviceName }
+sidebar-context-menu-remove-extension2 =
+    .label = Supprimer de { -brand-short-name }
+sidebar-context-menu-unpin-extension =
+    .label = Retirer du panneau latéral
 
 ## Labels for sidebar history context menu items
 
