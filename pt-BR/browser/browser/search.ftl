@@ -60,7 +60,7 @@ edit-engine-window =
 add-engine-button = Adicionar mecanismo personalizado
 add-engine-name = Nome do mecanismo de pesquisa
 add-engine-url2 = URL com %s no lugar do termo de pesquisa
-add-engine-keyword2 = Palavra-chave (opcional)
+add-engine-keyword2 = Atalho (opcional)
 # POST and GET refer to the HTTP methods.
 add-engine-post-data = Dados POST com %s no lugar do termo de pesquisa (deixe vazio para GET)
 add-engine-suggest-url = URL de sugestões com %s no lugar do termo de pesquisa (opcional)
