@@ -110,6 +110,7 @@ about-webrtc-connection-closed = [ { $browser-id } | { $id } ] { $url } (zatvore
 ## Variables:
 ##  $codecs - a list of media codecs
 
+about-webrtc-short-send-receive-direction = Pošalji / Primi: { $codecs }
 about-webrtc-short-send-direction = Pošalji: { $codecs }
 about-webrtc-short-receive-direction = Primi: { $codecs }
 

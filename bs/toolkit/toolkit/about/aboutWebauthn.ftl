@@ -5,15 +5,48 @@
 
 ### Localization for about:webauthn, a security token management page
 
+# Page title
+# 'WebAuthn' is a protocol name and should not be translated
+about-webauthn-page-title = O WebAuthn-u
 
 ## Section titles
 
+about-webauthn-info-section-title = Informacije o uređaju
+about-webauthn-info-subsection-title = Informacije o autentifikatoru
+about-webauthn-options-subsection-title = Opcije autentifikatora
+about-webauthn-pin-section-title = Upravljanje PIN-om
+about-webauthn-credential-management-section-title = Upravljanje akreditivima
+about-webauthn-pin-required-section-title = Potreban je PIN
+about-webauthn-confirm-deletion-section-title = Potvrdi brisanje
+# Registered biometric features for authentication. Mostly, but not exclusively, fingerprints.
+about-webauthn-bio-enrollment-section-title = Biometrijski upisi
 
 ## Info field texts
 
+about-webauthn-text-connect-device = Molimo vas da povežete sigurnosni token.
+# If multiple devices are plugged in, they will blink and we are asking the user to select one by touching the device they want.
+about-webauthn-text-select-device = Molimo odaberite željeni sigurnosni token dodirom uređaja.
+# CTAP2 refers to Client to Authenticator Protocol version 2
+about-webauthn-text-non-ctap2-device = Nije moguće upravljati opcijama jer vaš sigurnosni token ne podržava CTAP2.
+about-webauthn-text-not-available = Nije dostupno na ovoj platformi.
+about-webauthn-bio-enrollment-list-subsection-title = Upisi:
+about-webauthn-add-bio-enrollment-section-title = Dodaj novi upis
 
 ## Results label
 
+about-webauthn-results-success = Uspjeh!
+about-webauthn-results-general-error = Greška!
+# Variables:
+#  $retriesLeft (Number): number of tries left
+about-webauthn-results-pin-invalid-error =
+    { $retriesLeft ->
+        [0] Greška: Neispravan PIN. Pokušajte ponovo.
+        [one] Greška: Neispravan PIN. Pokušajte ponovo. Ostao vam je još jedan pokušaj.
+        [few] Greška: Neispravan PIN. Pokušajte ponovo. Ostala su vam još { $retriesLeft } pokušaja.
+       *[other] Greška: Neispravan PIN. Pokušajte ponovo. Ostalo vam je još { $retriesLeft } pokušaja.
+    }
+about-webauthn-results-pin-blocked-error = Greška: Nema preostalih pokušaja i vaš uređaj je zaključan jer je previše puta unesen pogrešan PIN. Uređaj je potrebno resetirati.
+about-webauthn-results-pin-not-set-error = Greška: PIN nije postavljen. Za ovu operaciju je potrebna zaštita PIN-om.
 about-webauthn-results-pin-too-short-error = Greška: Uneti PIN je prekratak.
 about-webauthn-results-pin-too-long-error = Greška: Uneti PIN je predugačak.
 about-webauthn-results-pin-auth-blocked-error = Greška: Bilo je previše neuspjelih pokušaja zaredom i PIN autentifikacija je privremeno blokirana. Potrebno je da isključite uređaj iz struje (isključite ga iz struje i ponovo ga umetnite).
@@ -87,6 +120,15 @@ about-webauthn-auth-info-remaining-discoverable-credentials = Preostale vidljive
 about-webauthn-auth-info-certifications = Certifikati
 about-webauthn-auth-info-uv-modality = Način verifikacije korisnika
 about-webauthn-auth-info-preferred-platform-uv-attempts = Pokušaji verifikacije korisnika preferirane platforme
+about-webauthn-auth-info-max-rpids-for-set-min-pin-length = Maksimalan broj ID-ova ovisne strane za postavljenu minimalnu dužinu PIN-a
+about-webauthn-auth-info-max-cred-blob-length = Maksimalna dužina bloba akreditiva
+about-webauthn-auth-info-firmware-version = Verzija firmvera
+about-webauthn-auth-info-min-pin-length = Minimalna dužina PIN-a
+about-webauthn-auth-info-force-pin-change = Prisilna promjena PIN-a
+about-webauthn-auth-info-max-ser-large-blob-array = Maksimalna veličina niza velikih blobova
+about-webauthn-auth-info-algorithms = Algoritmi
+about-webauthn-auth-info-transports = Transporti
+about-webauthn-auth-info-max-credential-id-length = Maksimalna dužina ID-a akreditiva
 
 ## Bio enrollment sample feedbacks
 

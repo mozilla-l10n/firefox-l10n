@@ -7,3 +7,13 @@
 experimental-features-css-masonry2 =
     .label = CSS: Masonry Layout
 experimental-features-css-masonry-description = Omogućava podršku za eksperimentalnu funkciju CSS Masonry Layout. Pogledajte <a data-l10n-name="explainer">objašnjenje</a> za detaljan opis funkcije. Da biste dali povratne informacije, molimo vas da komentarišete u <a data-l10n-name="w3c-issue">ovom GitHub problemu</a> ili <a data-l10n-name="bug">ovoj grešci</a>.
+# The title of the experiment should be kept in English as it may be referenced
+# by various online articles and is technical in nature.
+experimental-features-web-gpu2 =
+    .label = Web API: WebGPU
+experimental-features-web-gpu-description3 = <a data-l10n-name="wikipedia-webgpu">WebGPU API</a> pruža podršku niskog nivoa za izvođenje računanja i renderovanja grafike korištenjem <a data-l10n-name="wikipedia-gpu">Grafične procesorske jedinice (GPU)</a> korisničkog uređaja ili računara. Prva verzija <a data-l10n-name="spec">specifikacije</a> se bliži finalizaciji. Pogledajte <a data-l10n-name="bugzilla">grešku 1616739</a> za više detalja.
+# The title of the experiment should be kept in English as it may be referenced
+# by various online articles and is technical in nature.
+experimental-features-media-jxl =
+    .label = Medij: JPEG XL
+experimental-features-media-jxl-description = Kada je ova funkcija omogućena, { -brand-short-name } podržava JPEG XL (JXL) format. Ovo je poboljšani format slikovne datoteke koji podržava prijelaz bez gubitaka iz tradicionalnih JPEG datoteka. Pogledajte <a data-l10n-name="bugzilla">grešku 1539075</a> za više detalja.
