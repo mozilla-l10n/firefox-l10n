@@ -29,3 +29,20 @@ experimental-features-cookie-samesite-none-requires-secure2-description = Kolač
 experimental-features-abouthome-startup-cache =
     .label = o: početnoj keš memoriji za pokretanje
 experimental-features-abouthome-startup-cache-description = Keš memorija za početni about:home dokument koji se učitava po zadanim postavkama pri pokretanju. Svrha keša je poboljšanje performansi pri pokretanju.
+# "Service Worker" is an API name and is usually not translated.
+experimental-features-devtools-serviceworker-debugger-support =
+    .label = Alati za razvojne programere: Otklanjanje grešaka u service workerima
+# "Service Worker" is an API name and is usually not translated.
+experimental-features-devtools-serviceworker-debugger-support-description = Omogućava eksperimentalnu podršku za Service Workere u panelu programa za otklanjanje grešaka. Ova funkcija može usporiti Alate za razvojne alate i povećati potrošnju memorije.
+# WebRTC global mute toggle controls
+experimental-features-webrtc-global-mute-toggles =
+    .label = Globalni prekidači za isključivanje zvuka na WebRTC-u
+experimental-features-webrtc-global-mute-toggles-description = Dodajte kontrole globalnom indikatoru dijeljenja WebRTC-a koje omogućavaju korisnicima da globalno isključe zvuk mikrofona i kamere.
+# JS JIT Warp project
+experimental-features-js-warp =
+    .label = JavaScript JIT: Warp
+experimental-features-js-warp-description = Omogućite Warp, projekat za poboljšanje performansi JavaScripta i korištenja memorije.
+# Search during IME
+experimental-features-ime-search =
+    .label = Adresna traka: prikaži rezultate tokom sastavljanja IME-a
+experimental-features-ime-search-description = IME (Input Method Editor) je alat koji vam omogućava unos složenih simbola, poput onih koji se koriste u istočnoazijskim ili indijskim pisanim jezicima, koristeći standardnu tastaturu. Omogućavanje ovog eksperimenta će zadržati panel adresne trake otvorenim, prikazujući rezultate pretrage i prijedloge, dok koristite IME za unos teksta. Imajte na umu da IME može prikazati panel koji prekriva rezultate adresne trake, stoga se ova postavka preporučuje samo za IME koji ne koristi ovu vrstu panela.

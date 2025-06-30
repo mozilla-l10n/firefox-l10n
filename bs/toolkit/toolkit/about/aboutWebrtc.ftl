@@ -14,6 +14,8 @@ about-webrtc-save-page-dialog-title = spasi about:webrtc kao
 
 ## These labels are for a disclosure which contains the information for closed PeerConnection sections
 
+about-webrtc-closed-peerconnection-disclosure-show-msg = Prikaži zatvorene PeerConnections
+about-webrtc-closed-peerconnection-disclosure-hide-msg = Sakrij zatvorene PeerConnections
 
 ## AEC is an abbreviation for Acoustic Echo Cancellation.
 
@@ -22,16 +24,25 @@ about-webrtc-aec-logging-off-state-label = Započni AEC zapisivanje
 about-webrtc-aec-logging-on-state-label = Zaustavi AEC zapisivanje
 about-webrtc-aec-logging-on-state-msg = AEC zapisivanje aktivno (razgovarajte s pozivaocem par minuta a zatim zaustavite snimanje)
 about-webrtc-aec-logging-toggled-on-state-msg = AEC zapisivanje aktivno (razgovarajte s pozivaocem par minuta a zatim zaustavite snimanje)
+about-webrtc-aec-logging-unavailable-sandbox = Varijabla okruženja MOZ_DISABLE_CONTENT_SANDBOX=1 je potrebna za izvoz AEC logova. Postavite ovu varijablu samo ako razumijete moguće rizike.
 # Variables:
 #  $path (String) - The path to which the aec log file is saved.
 about-webrtc-aec-logging-toggled-off-state-msg = Snimljeni zapisnički fajlovi mogu biti pronađeni u: { $path }
 
 ##
 
+# The autorefresh checkbox causes a stats section to autorefresh its content when checked
+about-webrtc-auto-refresh-label = Automatsko osvježavanje
+# A button which forces a refresh of displayed statistics
+about-webrtc-force-refresh-button = Osvježi
 # "PeerConnection" is a proper noun associated with the WebRTC module. "ID" is
 # an abbreviation for Identifier. This string should not normally be translated
 # and is used as a data label.
 about-webrtc-peerconnection-id-label = PeerConnection ID:
+# The number of DataChannels that a PeerConnection has opened
+about-webrtc-data-channels-opened-label = Otvoreni podatkovni kanali:
+# The number of once open DataChannels that a PeerConnection has closed
+about-webrtc-data-channels-closed-label = Zatvoreni podatkovni kanali:
 
 ## "SDP" is an abbreviation for Session Description Protocol, an IETF standard.
 ## See http://wikipedia.org/wiki/Session_Description_Protocol
@@ -43,6 +54,8 @@ about-webrtc-local-sdp-heading-answer = Lokalni SDP (Odgovor)
 about-webrtc-remote-sdp-heading = Udaljeni SDP
 about-webrtc-remote-sdp-heading-offer = Udaljeni SDP (Ponuda)
 about-webrtc-remote-sdp-heading-answer = Udaljeni SDP (Odgovor)
+about-webrtc-sdp-history-heading = Historija SDP-a
+about-webrtc-sdp-parsing-errors-heading = Greške u parsiranju SDP-a
 
 ##
 
@@ -84,6 +97,10 @@ about-webrtc-debug-mode-msg-label = Režim debagiranja
 about-webrtc-debug-mode-off-state-label = Započni režim debagiranja
 about-webrtc-debug-mode-on-state-label = Zaustavi režim debagiranja
 about-webrtc-stats-heading = Statistika sesije
+about-webrtc-enable-logging-label = Omogući unaprijed postavljene postavke zapisnika WebRTC-a
+about-webrtc-peerconnections-section-heading = Statistika RTCPeerConnection-a
+about-webrtc-peerconnections-section-show-msg = Prikaži statistiku RTCPeerConnection-a
+about-webrtc-peerconnections-section-hide-msg = Sakrij statistiku RTCPeerConnection-a
 about-webrtc-stats-clear = Obriši historiju
 about-webrtc-log-heading = Zapisnik veze
 about-webrtc-log-clear = Očisti zapisnik
@@ -95,6 +112,8 @@ about-webrtc-log-section-show-msg = Prikaži zapisnik
     .title = Kliknite za proširenje ove sekcije
 about-webrtc-log-section-hide-msg = Sakrij zapisnik
     .title = Kliknite za skupljanje ove sekcije
+about-webrtc-copy-report-button = Kopiraj izvještaj
+about-webrtc-copy-report-history-button = Kopiraj historiju izvještaja
 
 ## These are used to display a header for a PeerConnection.
 ## Variables:

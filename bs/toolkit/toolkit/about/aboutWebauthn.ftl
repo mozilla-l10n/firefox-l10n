@@ -129,12 +129,54 @@ about-webauthn-auth-info-max-ser-large-blob-array = Maksimalna veličina niza ve
 about-webauthn-auth-info-algorithms = Algoritmi
 about-webauthn-auth-info-transports = Transporti
 about-webauthn-auth-info-max-credential-id-length = Maksimalna dužina ID-a akreditiva
+about-webauthn-auth-info-max-credential-count-in-list = Maksimalan broj akreditiva na listi
+about-webauthn-auth-info-pin-protocols = PIN protokoli
+about-webauthn-auth-info-max-msg-size = Maksimalna veličina poruke
+# AAGUID should not be translated.
+about-webauthn-auth-info-aaguid = AAGUID
+about-webauthn-auth-info-extensions = Ekstenzije
+about-webauthn-auth-info-versions = Verzije
+# Shows when boolean value for an info field is True. True should not be translated.
+about-webauthn-auth-info-true = True
+# Shows when boolean value for an info field is False. False should not be translated.
+about-webauthn-auth-info-false = False
+about-webauthn-auth-info-null = Nije podržano
 
 ## Bio enrollment sample feedbacks
 
+# To register a new enrollment (e.g. fingerprint) usually
+# multiple scans of the same finger have to be sampled.
+# This shows how many the user still has to do.
+# Variables:
+#  $repeatCount (Number): number of tries left
+about-webauthn-samples-still-needed =
+    { $repeatCount ->
+        [one] Još uvijek je potreban { $repeatCount } uzorak.
+        [few] Još uvijek su potrebna { $repeatCount } uzorka.
+       *[other] Još uvijek je potrebno { $repeatCount } uzoraka.
+    }
+# Scan (e.g. of fingerprint) was successful.
+about-webauthn-ctap2-enroll-feedback-good = Uzorak je bio dobar.
 
 ## Scan (e.g. of fingerprint) was off-center (e.g. too high, too left, etc.).
 
+about-webauthn-ctap2-enroll-feedback-too-high = Uzorak je bio previsok.
+about-webauthn-ctap2-enroll-feedback-too-low = Uzorak je bio prenizak.
+about-webauthn-ctap2-enroll-feedback-too-left = Uzorak je bio previše lijevo.
+about-webauthn-ctap2-enroll-feedback-too-right = Uzorak je bio previše desno.
 
 ##
 
+about-webauthn-ctap2-enroll-feedback-too-fast = Uzorak je bio prebrz.
+about-webauthn-ctap2-enroll-feedback-too-slow = Uzorak je bio previše spor.
+about-webauthn-ctap2-enroll-feedback-poor-quality = Uzorak je bio lošeg kvaliteta.
+# Skewed in the sense of fingerprint/iris scan was too distorted
+about-webauthn-ctap2-enroll-feedback-too-skewed = Uzorak je bio previše iskrivljen.
+about-webauthn-ctap2-enroll-feedback-too-short = Uzorak je bio prekratak.
+# Scan (e.g. of fingerprint) couldn't be merged with previous samples.
+about-webauthn-ctap2-enroll-feedback-merge-failure = Spajanje uzoraka nije uspjelo.
+# Scan (e.g. of fingerprint) is somehow identical to an existing sample.
+about-webauthn-ctap2-enroll-feedback-exists = Uzorak već postoji.
+about-webauthn-ctap2-enroll-feedback-no-user-activity = Nema aktivnosti od korisnika.
+about-webauthn-ctap2-enroll-feedback-no-user-presence-transition = Korisnik nije završio uzorkovanje kako se očekivalo.
+about-webauthn-ctap2-enroll-feedback-other = Greška uzorka.

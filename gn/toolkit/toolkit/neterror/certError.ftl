@@ -162,4 +162,5 @@ fp-certerror-hide-advanced-button = Eñomi opapotáva
 ##   $hostname (String) - Hostname of the website to which the user was trying to connect.
 
 fp-certerror-override-exception-button = Ejapo { $hostname } ndive (ivaikuaa)
+fp-certerror-intro = { -brand-short-name } ohecha apañuái tekorosãgua ivaikuaáva <strong>{ $hostname }</strong> ndive. Oĩrõ oñembohasáva tenda rendaguépe ikatuhína omonda marandu kuatia’atã ñemurãgui, ñe’ẽñemi térã ñanduti veve.
 fp-certerror-expired-into = { -brand-short-name } ohechakuaa tekorosã apañuái <strong>{ $hostname }</strong> ndive. Térã tenda noñembohekoporãi térã mba’e’oka aravopapaha oñemohenda arange/aravo oĩvaívape.
