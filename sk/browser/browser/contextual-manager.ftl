@@ -289,6 +289,17 @@ contextual-manager-view-alert-heading-2 =
             [many] Zobraziť upozornenia
            *[other] Zobraziť upozornenia
         }
+# Variables
+#   $count (number) - The number of active alerts associated with the login
+contextual-manager-view-alert-button-2 =
+    .tooltiptext =
+        { $count ->
+            [1] Skontrolovať upozornenie
+            [one] Skontrolovať upozornenie
+            [few] Skontrolovať upozornenia
+            [many] Skontrolovať upozornenia
+           *[other] Skontrolovať upozornenia
+        }
 contextual-manager-show-password-button =
     .aria-label = Zobraziť heslo
     .title = Zobraziť heslo

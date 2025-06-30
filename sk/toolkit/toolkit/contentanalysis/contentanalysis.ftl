@@ -82,6 +82,9 @@ contentanalysis-block-dialog-title-upload-file = Nemáte oprávnenie nahrať ten
 #   $filename - Name of the file that was blocked, such as "aFile.txt"
 contentanalysis-block-dialog-body-upload-file = Podľa pravidiel ochrany údajov vašej organizácie nie je povolené nahrať súbor “{ $filename }”. Ďalšie informácie získate od svojho správcu.
 contentanalysis-block-dialog-title-download-file = Nemáte oprávnenie stiahnuť tento súbor
+# Variables:
+#   $filename - Name of the file that was blocked, such as "aFile.txt"
+contentanalysis-block-dialog-body-download-file = Podľa pravidiel ochrany údajov vašej organizácie nie je povolené stiahnuť súbor “{ $filename }”. Ďalšie informácie získate od svojho správcu.
 contentanalysis-block-dialog-title-clipboard = Nemáte oprávnenie prilepiť tento obsah
 contentanalysis-block-dialog-body-clipboard = Podľa pravidiel ochrany údajov vašej organizácie nemáte povolené prilepiť tento obsah. Ďalšie informácie získate od svojho správcu.
 contentanalysis-block-dialog-title-dropped-text = Nemáte oprávnenie pretiahnuť tento obsah
