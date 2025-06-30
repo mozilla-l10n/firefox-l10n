@@ -110,6 +110,8 @@ about-webrtc-connection-closed = [ { $browser-id } | { $id } ] { $url } (zatvore
 ## Variables:
 ##  $codecs - a list of media codecs
 
+about-webrtc-short-send-direction = Pošalji: { $codecs }
+about-webrtc-short-receive-direction = Primi: { $codecs }
 
 ##
 
@@ -135,25 +137,75 @@ about-webrtc-fold-default-show-msg = Prikaži detalje
     .title = Kliknite za proširenje ove sekcije
 about-webrtc-fold-default-hide-msg = Sakrij detalje
     .title = Kliknite za skupljanje ove sekcije
+about-webrtc-dropped-frames-label = Ispušteni okviri:
+about-webrtc-discarded-packets-label = Odbačeni paketi:
 about-webrtc-decoder-label = Dekoder
 about-webrtc-encoder-label = Enkoder
+about-webrtc-show-tab-label = Prikaži tab
+about-webrtc-current-framerate-label = Broj sličica u sekundi
+about-webrtc-width-px = Širina (px)
+about-webrtc-height-px = Visina (px)
+about-webrtc-consecutive-frames = Uzastopni kadrovi
+about-webrtc-time-elapsed = Proteklo vrijeme (s)
+about-webrtc-estimated-framerate = Procijenjeni broj sličica u sekundi
+about-webrtc-rotation-degrees = Rotacija (stepeni)
+about-webrtc-first-frame-timestamp = Vremenska oznaka prijema prvog okvira
+about-webrtc-last-frame-timestamp = Vremenska oznaka prijema posljednjeg okvira
 
 ## SSRCs are identifiers that represent endpoints in an RTP stream
 
+# This is an SSRC on the local side of the connection that is receiving RTP
+about-webrtc-local-receive-ssrc = Lokalni prijemni SSRC
+# This is an SSRC on the remote side of the connection that is sending RTP
+about-webrtc-remote-send-ssrc = Udaljeno slanje SSRC-a
 
 ## These are displayed on the button that shows or hides the
 ## PeerConnection configuration disclosure
 
+about-webrtc-pc-configuration-show-msg = Prikaži konfiguraciju
+about-webrtc-pc-configuration-hide-msg = Sakrij konfiguraciju
 
 ##
 
+# An option whose value will not be displayed but instead noted as having been
+# provided
+about-webrtc-configuration-element-provided = Obezbijeđeno
+# An option whose value will not be displayed but instead noted as having not
+# been provided
+about-webrtc-configuration-element-not-provided = Nije obezbijeđeno
+# The options set by the user in about:config that could impact a WebRTC call
+about-webrtc-custom-webrtc-configuration-heading = Korisničke postavke WebRTC-a
+# The options set by the user in about:config that could impact a WebRTC call
+about-webrtc-user-modified-configuration-heading = Korisnički izmijenjena WebRTC konfiguracija
 
 ## These are displayed on the button that shows or hides the
 ## user modified configuration disclosure
 
+about-webrtc-user-modified-configuration-show-msg = Prikaži korisnički izmijenjenu konfiguraciju
+about-webrtc-user-modified-configuration-hide-msg = Sakrij korisnički izmijenjenu konfiguraciju
 
 ##
 
+# Section header for estimated bandwidths of WebRTC media flows
+about-webrtc-bandwidth-stats-heading = Procijenjeni propusni opseg
+# The ID of the MediaStreamTrack
+about-webrtc-track-identifier = Identifikator zapisa
+# The estimated bandwidth available for sending WebRTC media in bytes per second
+about-webrtc-send-bandwidth-bytes-sec = Propusni opseg slanja (bajtovi/sek)
+# The estimated bandwidth available for receiving WebRTC media in bytes per second
+about-webrtc-receive-bandwidth-bytes-sec = Prijemni propusni opseg (bajtovi/sek)
+# Maximum number of bytes per second that will be padding zeros at the ends of packets
+about-webrtc-max-padding-bytes-sec = Maksimalno punjenje (bajtova/sek)
+# The amount of time inserted between packets to keep them spaced out
+about-webrtc-pacer-delay-ms = Tempirano kašnjenje (ms)
+# The amount of time it takes for a packet to travel from the local machine to the remote machine,
+# and then have a packet return
+about-webrtc-round-trip-time-ms = RTT ms
+# This is a section heading for video frame statistics for a MediaStreamTrack.
+# see https://developer.mozilla.org/en-US/docs/Web/API/MediaStreamTrack.
+# Variables:
+#   $track-identifier (String) - The unique identifier for the MediaStreamTrack.
+about-webrtc-frame-stats-heading = Statistika video kadrova - MediaStreamTrack ID: { $track-identifier }
 
 ##
 
@@ -166,6 +218,51 @@ about-webrtc-aec-logging-off-state-msg = snimljeni zapisnički fajlovi mogu biti
 # Variables:
 #  $path (String) - The path to which the file is saved.
 about-webrtc-save-page-complete-msg = Stranica spašena u: { $path }
+# This is the total number of frames encoded or decoded over an RTP stream.
+# Variables:
+#  $frames (Number) - The number of frames encoded or decoded.
+about-webrtc-frames =
+    { $frames ->
+        [one] { $frames } kadar
+        [few] { $frames } kadra
+       *[other] { $frames } kadrova
+    }
+# This is the number of audio channels encoded or decoded over an RTP stream.
+# Variables:
+#  $channels (Number) - The number of channels encoded or decoded.
+about-webrtc-channels =
+    { $channels ->
+        [one] { $channels } kanal
+        [few] { $channels } kanala
+       *[other] { $channels } kanala
+    }
+# This is the total number of packets received on the PeerConnection.
+# Variables:
+#  $packets (Number) - The number of packets received.
+about-webrtc-received-label =
+    { $packets ->
+        [one] Primljen { $packets } paket
+        [few] Primljeno { $packets } paketa
+       *[other] Primljeno { $packets } paketa
+    }
+# This is the total number of packets lost by the PeerConnection.
+# Variables:
+#  $packets (Number) - The number of packets lost.
+about-webrtc-lost-label =
+    { $packets ->
+        [one] Izgubljen je { $packets } paket
+        [few] Izgubljena su { $packets } paketa
+       *[other] Izgubljenih je { $packets } paketa
+    }
+# This is the total number of packets sent by the PeerConnection.
+# Variables:
+#  $packets (Number) - The number of packets sent.
+about-webrtc-sent-label =
+    { $packets ->
+        [one] Poslan je { $packets } paket
+        [few] Poslana su { $packets } paketa
+       *[other] Poslano je { $packets } paketa
+    }
 # Jitter is the variance in the arrival time of packets.
 # See: https://w3c.github.io/webrtc-stats/#dom-rtcreceivedrtpstreamstats-jitter
 # Variables:
@@ -179,14 +276,32 @@ about-webrtc-trickle-caption-msg = Trickle-ovani kandidati (stižu nakon odgovor
 ## "SDP" is an abbreviation for Session Description Protocol, an IETF standard.
 ## See http://wikipedia.org/wiki/Session_Description_Protocol
 
+# This is used as a header for local SDP.
+# Variables:
+#  $timestamp (Number) - The Unix Epoch time at which the SDP was set.
+about-webrtc-sdp-set-at-timestamp-local = Postavi lokalni SDP na vremensku oznaku { NUMBER($timestamp, useGrouping: "false") }
+# This is used as a header for remote SDP.
+# Variables:
+#  $timestamp (Number) - The Unix Epoch time at which the SDP was set.
+about-webrtc-sdp-set-at-timestamp-remote = Postavi udaljeni SDP na vremensku oznaku { NUMBER($timestamp, useGrouping: "false") }
+# This is used as a header for an SDP section contained in two columns allowing for side-by-side comparisons.
+# Variables:
+#  $timestamp (Number) - The Unix Epoch time at which the SDP was set.
+#  $relative-timestamp (Number) - The timestamp relative to the timestamp of the earliest received SDP.
+about-webrtc-sdp-set-timestamp = Vremenska oznaka { BROJ($timestamp, useGrouping: "false") } (+ { $relative-timestamp } ms)
 
 ## These are displayed on the button that shows or hides the SDP information disclosure
 
+about-webrtc-show-msg-sdp = Prikaži SDP
+about-webrtc-hide-msg-sdp = Sakrij SDP
 
 ## These are displayed on the button that shows or hides the Media Context information disclosure.
 ## The Media Context is the set of preferences and detected capabilities that informs
 ## the negotiated CODEC settings.
 
+about-webrtc-media-context-show-msg = Prikaži medijski kontekst
+about-webrtc-media-context-hide-msg = Sakrij medijski kontekst
+about-webrtc-media-context-heading = Medijski kontekst
 
 ##
 
