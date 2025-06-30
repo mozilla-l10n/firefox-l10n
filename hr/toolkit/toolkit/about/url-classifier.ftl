@@ -38,6 +38,7 @@ url-classifier-debug-title = Otklanjanje grešaka
 url-classifier-debug-module-btn = Postavi module zapisnika
 url-classifier-debug-file-btn = Postavi datoteku zapisnika
 url-classifier-debug-js-log-chk = Postavi JS zapisnik
+url-classifier-debug-sb-modules = Moduli zapisnika sigurnog pregledavanja
 url-classifier-debug-modules = Trenutačni moduli zapisnika
 url-classifier-debug-sbjs-modules = JS zapisnik sigurnog pregledavanja
 url-classifier-debug-file = Trenutačna datoteka zapisnika
