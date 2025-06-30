@@ -75,6 +75,11 @@ fp-certerror-view-certificate-link = Ehecha tenda kuatia’atã
 fp-certerror-return-to-previous-page-recommended-button = Eguevi (ñemoñe’ẽmbyre)
 # This string appears after the following string: "What can you do about it?" (fp-certerror-what-can-you-do)
 fp-certerror-self-signed-what-can-you-do-body = Ndahetái. Ikatuhína iñapañuái upe tendaite ndivevoi.
+fp-certerror-self-signed-important-note = JEHAIPY TUICHAMBA’ÉVA: Eñeha’ãrõ eike ko tendápe peintranet atyguasugua rupi, IT mba’apohára ikatu oiporu kuatia’atã heraguapyjeheguíva. Ha’ekuéra oipytyvõta ha'épa añetegua.
+# This string appears after the following string: "What can you do about it?" (fp-certerror-what-can-you-do)
+# Variables:
+#   $date (Date) - Clock date.
+fp-certerror-expired-what-can-you-do-body = Aravopapaha mba’e’oka pegua oñemboheko { DATETIME($date, month: "numeric", day: "numeric", year: "numeric") } ramo. Oĩ porãramo, oiméne apañuái tekorosãgua oĩhína pe tendapevoi. Oĩvaíramo, ikatu emoambue apopyvusu mba’e’oka ñembohekohápe.
 # Variables:
 #   $error (string) - NSS error code string that specifies type of cert error. e.g. unknown issuer, invalid cert, etc.
 fp-cert-error-code = Ayvu jejavy: { $error }
