@@ -566,19 +566,50 @@ pdfjs-editor-add-signature-image-button = Slika
 
 ## Tab panels
 
+pdfjs-editor-add-signature-type-input =
+    .aria-label = Utipkaj svoj potpis
+    .placeholder = Utipkaj svoj potpis
+pdfjs-editor-add-signature-draw-placeholder = Nacrtaj svoj potpis
+pdfjs-editor-add-signature-draw-thickness-range-label = Debljina
+# Variables:
+#   $thickness (Number) - the thickness (in pixels) of the line used to draw a signature.
+pdfjs-editor-add-signature-draw-thickness-range =
+    .title = Debljina crtanja: { $thickness }
+pdfjs-editor-add-signature-image-placeholder = Povuci datoteku za prijenos ovamo
+pdfjs-editor-add-signature-image-browse-link =
+    { PLATFORM() ->
+        [macos] Ili odaberi slikovne datoteke
+       *[other] Ili odaberi slikovne datoteke
+    }
 
 ## Controls
 
+pdfjs-editor-add-signature-description-label = Opis (alternativni tekst)
+pdfjs-editor-add-signature-description-input =
+    .title = Opis (alternativni tekst)
+pdfjs-editor-add-signature-description-default-when-drawing = Potpis
+pdfjs-editor-add-signature-save-checkbox = Spremi potpis
+pdfjs-editor-add-signature-save-warning-message = Dosegnuto je ograničenje od 5 spremljenih potpisa. Za spremanje novih ukloni jedan potpis.
+pdfjs-editor-add-signature-image-upload-error-title = Nije moguće prenijeti sliku
+pdfjs-editor-add-signature-image-upload-error-description = Provjeri mrežnu vezu ili pokušaj s jednom drugom slikom.
+pdfjs-editor-add-signature-error-close-button = Zatvori
 
 ## Dialog buttons
 
+pdfjs-editor-add-signature-cancel-button = Odustani
+pdfjs-editor-add-signature-add-button = Dodaj
 pdfjs-editor-edit-signature-update-button = Aktualiziraj
 
 ## Main menu for adding/removing signatures
 
+pdfjs-editor-delete-signature-button1 =
+    .title = Ukloni spremljeni potpis
+pdfjs-editor-delete-signature-button-label1 = Ukloni spremljeni potpis
 
 ## Editor toolbar
 
+pdfjs-editor-add-signature-edit-button-label = Uredi opis
 
 ## Edit signature description dialog
 
+pdfjs-editor-edit-signature-dialog-title = Uredi opis
