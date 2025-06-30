@@ -106,6 +106,8 @@ perplexity-callout-secondary-label-2 = Rozumiem
 
 ## Account Adoption Passwords callout strings
 
+# Suggestion to backup passwords by signing up for Mozilla account and using sync
+fxa-adoption-passwords-title = Heslo uložené. Poďme ho zálohovať.
 
 ## Sidebar Strings
 
@@ -130,6 +132,12 @@ sidebar-pins-callout-cta-button = Pripnúť kartu
 
 ## Pinning Tabs Strings
 
+pin-tabs-callout-cta-1-button = Pripnúť túto kartu
+pin-tabs-callout-2-title = Pripnite si najčastejšie navštevované karty
+pin-tabs-callout-2-subtitle = Ak chcete pripnúť ľubovoľnú kartu, potiahnite ju na začiatok panela kariet. Alebo kliknite pravým tlačidlom myši a vyberte možnosť Pripnúť kartu.
+pin-tabs-callout-cta-2-button = Pripnúť túto kartu
+pin-tabs-callout-3-title = Majte dôležité stránky na dosah ruky
+pin-tabs-callout-4-title = Pripnite si stránky, ktoré navštevujete najčastejšie
 
 ## Sidebar Onboarding Strings
 

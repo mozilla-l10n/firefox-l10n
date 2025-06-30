@@ -101,6 +101,8 @@ sidebar-context-menu-customize-sidebar =
 #   $deviceName (String) - The name of the device the user is closing a tab for
 sidebar-context-menu-close-remote-tab =
     .label = Zavrieť kartu v zariadení { $deviceName }
+sidebar-context-menu-unpin-extension =
+    .label = Odstrániť z bočného panela
 
 ## Labels for sidebar history context menu items
 

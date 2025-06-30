@@ -51,11 +51,18 @@ genai-menu-ask-generic =
 # $provider (string) - name of the provider
 genai-menu-ask-provider =
     .label = Opýtajte sa { $provider }
+genai-menu-open-generic =
+    .label = Otvoriť chatbota s umelou inteligenciou
+# $provider (string) - name of the provider
+genai-menu-open-provider =
+    .label = Otvoriť { $provider }
 genai-menu-remove-generic =
     .label = Odstrániť AI chatbota
 # $provider (string) - name of the provider
 genai-menu-remove-provider =
     .label = Odstrániť { $provider }
+genai-menu-remove-sidebar =
+    .label = Odstrániť z bočného panela
 genai-input-ask-generic =
     .placeholder = Opýtajte sa AI chatbota…
 # $provider (string) - name of the provider

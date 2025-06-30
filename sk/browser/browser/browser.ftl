@@ -618,6 +618,10 @@ urlbar-search-mode-indicator-close =
 # engine is unknown.
 urlbar-placeholder =
     .placeholder = Zadajte adresu alebo výraz vyhľadávania
+# This placeholder is used when not in search mode and searching in the urlbar
+# is disabled via the keyword.enabled pref.
+urlbar-placeholder-keyword-disabled =
+    .placeholder = Zadajte adresu
 # This placeholder is used in search mode with search engines that search the
 # entire web.
 # Variables
@@ -1319,3 +1323,6 @@ file-picker-crashed-show-in-folder =
 ## Onboarding Finish Setup checklist
 
 onboarding-checklist-button-label = Dokončiť nastavenie
+onboarding-aw-finish-setup-button =
+    .label = Dokončiť nastavenie
+    .tooltiptext = Dokončiť nastavenie { -brand-short-name(case: "gen") }

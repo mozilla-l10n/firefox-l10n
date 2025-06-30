@@ -215,6 +215,7 @@ contextual-manager-passwords-no-username-heading-and-message =
     .heading = Pridajte používateľské meno
     .message = Pridajte ho, aby ste sa mohli rýchlejšie prihlásiť.
 contextual-manager-passwords-add-username-button = Pridať používateľské meno
+contextual-manager-passwords-title = Heslá
 
 ## Login Form
 
@@ -277,6 +278,17 @@ contextual-manager-view-alert-heading =
     .heading = Zobraziť upozornenie
 contextual-manager-view-alert-button =
     .tooltiptext = Skontrolovať upozornenie
+# Variables
+#   $count (number) - The number of active alerts associated with the login
+contextual-manager-view-alert-heading-2 =
+    .heading =
+        { $count ->
+            [1] Zobraziť upozornenie
+            [one] Zobraziť upozornenia
+            [few] Zobraziť upozornenia
+            [many] Zobraziť upozornenia
+           *[other] Zobraziť upozornenia
+        }
 contextual-manager-show-password-button =
     .aria-label = Zobraziť heslo
     .title = Zobraziť heslo
