@@ -28,7 +28,22 @@ experimental-features-group-customize-browsing =
 # Contextual Password Manager in sidebar
 experimental-features-contextual-password-manager =
     .label = Lozinke u bočnoj traci
+experimental-features-contextual-password-manager-description = Pristupi svojim lozinkama izravno s bočne trake. Nema više traženja ili ponovnog postavljanja lozinki kada se prijavljuješ. Za korištenje ove funkcije označi lozinke u bočnoj traci. Zatim u općim postavkama, u odjeljku rasporeda preglednika, uključi prikaz bočne trake. Zatim prilagodi bočnu traku biranjem lozinki. Ako isprobaš funkciju <a data-l10n-name="connect">javi nam što misliš o njoj</a>.
 # New Tab Custom Wallpapers
 experimental-features-custom-wallpaper =
     .label = Odaberi prilagođenu pozadinu ili boju za novu karticu
 experimental-features-custom-wallpaper-description = Prenesi vlastitu sliku pozadine ili odaberi prilagođenu boju za pozadinu nove kartice.
+# Link Previews with AI
+experimental-features-link-previews =
+    .label = Pregledi poveznica
+experimental-features-link-previews-description =
+    { PLATFORM() ->
+        [macos] Za više informacija o nekoj web stranici prije njenog otvaranja zadrži miš iznad poveznice i pritisni Shift (⇧) i Option (⌥) ili Alt. Pregledi mogu sadržavati informacije poput naslova i vremena potrebnog za čitanje. Za neke web stranice, UI može pročitati tekst i generirati popis ključnih informacija. UI je optimiran za čitanje i generiranje teksta na engleskom jeziku. UI se pokreće lokalno na računalu za bolju privatnost. <a data-l10n-name="connect">Dijeli povratne informacije</a>
+       *[other] Za više informacija o nekoj web stranici prije njenog otvaranja zadrži miš iznad poveznice i pritisni Shift + Alt. Pregledi mogu sadržavati informacije poput naslova i vremena potrebnog za čitanje. Za neke web stranice, UI može pročitati tekst i generirati popis ključnih informacija. UI je optimiran za čitanje i generiranje teksta na engleskom jeziku. UI se pokreće lokalno na računalu za bolju privatnost. <a data-l10n-name="connect">Dijeli povratne informacije</a>
+    }
+# This version of the link previews description does not mention AI.
+experimental-features-link-previews-description-no-ai =
+    { PLATFORM() ->
+        [macos] Za više informacija o nekoj web stranici prije njenog otvaranja zadrži miš iznad poveznice i pritisni Shift (⇧) i Option (⌥) ili Alt. Pregledi mogu sadržavati informacije poput naslova i vremena potrebnog za čitanje. <a data-l10n-name="connect">Dijeli povratne informacije</a>
+       *[other] Za više informacija o nekoj web stranici prije njenog otvaranja zadrži miš iznad poveznice i pritisni Shift + Alt. Pregledi mogu sadržavati informacije poput naslova i vremena potrebnog za čitanje. <a data-l10n-name="connect">Dijeli povratne informacije</a>
+    }
