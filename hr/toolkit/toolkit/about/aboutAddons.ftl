@@ -64,7 +64,7 @@ detail-private-browsing-label = Pokreni u privatnim prozorima
 detail-private-disallowed-label = Nije dopušteno u privatnim prozorima
 detail-private-disallowed-description2 = Ovaj dodatak se ne pokreće tijekom privatnog pregledavanja. <a data-l10n-name="learn-more">Saznaj više</a>
 # Some special add-ons are privileged, run in private windows automatically, and this permission can't be revoked
-detail-private-required-label = Zahtjeva pristup u privatnim prozorima
+detail-private-required-label = Zahtijeva pristup u privatnim prozorima
 detail-private-required-description2 = Ovo proširenje ima pristup tvojim internetskim aktivnostima tijekom privatnog pregledavanja. <a data-l10n-name="learn-more">Saznaj više</a>
 detail-private-browsing-on =
     .label = Dozvoli
@@ -460,7 +460,7 @@ recent-updates-heading = Nedavna aktualiziranja
 release-notes-loading = Učitavanje…
 release-notes-error = Došlo je do greške pri učitavanju napomena o izdanju.
 addon-permissions-empty2 = Ovo proširenje ne zahtijeva dozvole.
-addon-permissions-empty = Ovaj dodatak ne zahtjeva nikakve dozvole.
+addon-permissions-empty = Ovo proširenje ne zahtijeva nikakve dozvole.
 addon-permissions-required = Dozvole potrebne za osnovnu funkcionalnost:
 addon-permissions-optional = Opcionalne dozvole za dodatnu funkcionalnost:
 addon-permissions-learnmore = Saznaj više o dozvolama
