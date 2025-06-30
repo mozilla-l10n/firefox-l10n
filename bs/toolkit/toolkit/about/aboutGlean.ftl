@@ -116,3 +116,29 @@ about-glean-profiler-explanation-profiler =
     tačno koje su vrijednosti prikupljene. Zadržavanjem pokazivača miša na pojedinačnim
     markerima možete provjeriti da li je prikupljena ispravna vrijednost i da se prikupljanje dogodilo u pravo vrijeme.
 controls-button-label-verbose = Primijeni postavke i pošalji ping
+about-glean-feedback-settings-only =
+    .message = Postavke su primijenjene!
+about-glean-feedback-settings-and-ping =
+    .message = Postavke primijenjene i ping poslan!
+about-glean-about-data-header = O podacima
+about-glean-about-data-description =
+    Postoji nekoliko različitih alata koje možete koristiti za pregled podataka, ovisno
+    o tome šta tražite.
+about-glean-about-data-description-list-intro =
+    Molimo pogledajte donju listu za specifične slučajeve upotrebe
+    za svaki alat:
+about-glean-about-data-list-item-dictionary =
+    Za pregled liste podataka koje je { -glean-brand-name } prikupio po aplikaciji, molimo pogledajte
+    <a data-l10n-name="glean-dictionary-link">{ -glean-brand-name } rječnik</a>.
+about-glean-about-data-list-item-about-telemetry =
+    Za pregled podataka koje prikuplja naslijeđena telemetrija, pogledajte
+    <a data-l10n-name="about-telemetry-link">about:telemetry</a>.
+about-glean-about-data-list-item-debug-ping-viewer =
+    Za pregledavanje oznaka za otklanjanje grešaka, pregled potpunih pingova, pregled prijenosa događaja uživo ili pregled vizualizacija metrike, molimo pogledajte
+    <a data-l10n-name="glean-debug-ping-viewer">{ glean-debug-ping-viewer-brand-name }</a>.
+about-glean-about-data-list-item-firefox-profiler =
+    Da biste snimili profil performansi i vidjeli sve zabilježene metrike, koristite
+    <a data-l10n-name="about-glean-firefox-profiler">{ -profiler-brand-name }</a>.
+about-glean-about-data-explanation =
+    Za pregled liste prikupljenih podataka, molimo Vas da se konsultujete sa
+    <a data-l10n-name="glean-dictionary-link">{ -glean-brand-name } rječnikom</a>.

@@ -4,10 +4,12 @@
 
 about-networking-title = O umrežavanju
 about-networking-http = HTTP
+about-networking-http-clear-cache-button = Obriši HTTP keš
 about-networking-sockets = Sockets
 about-networking-dns = DNS
 about-networking-dns-clear-cache-button = Očisti DNS cache
 about-networking-dns-trr-url = DoH URL
+about-networking-dns-trr-mode = DoH način rada
 about-networking-dns-suffix = DNS sufiks
 about-networking-websockets = WebSockets
 about-networking-refresh = Osvježi
@@ -19,6 +21,7 @@ about-networking-ssl = SSL
 about-networking-active = Aktivno
 about-networking-idle = Neaktivan
 about-networking-host = Host
+about-networking-type = Tip
 about-networking-sent = Poslano
 about-networking-received = Primljeno
 about-networking-family = Familija
@@ -26,6 +29,7 @@ about-networking-trr = TRR
 about-networking-addresses = Adrese
 about-networking-expires = Ističe (sekunde)
 about-networking-originAttributesSuffix = Izolacijski ključ
+about-networking-flags = Dodatne zastavice
 about-networking-messages-sent = Poruka poslano
 about-networking-messages-received = Poruka primljeno
 about-networking-bytes-sent = Bajta poslano
@@ -53,6 +57,8 @@ about-networking-rcwn-cache-slow = Cache slow count
 about-networking-rcwn-cache-not-slow = Cache not slow count
 about-networking-networkid = ID Mreže
 about-networking-networkid-id = ID Mreže
+# Note: do not translate about:logging, as it is a URL.
+about-networking-moved-about-logging = Ova stranica je premještena na <a data-l10n-name="about-logging-url">about:logging</a>.
 
 ## Link is intended as "network link"
 

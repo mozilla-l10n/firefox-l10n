@@ -2,11 +2,31 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+# Page title
+about-processes-title = Menadžer procesa
+# The Actions column
+about-processes-column-action =
+    .title = Radnje
 
 ## Tooltips
 
+about-processes-shutdown-process =
+    .title = Isprazni tabove i prekini proces
+about-processes-kill-process =
+    .title = Prekini proces
 about-processes-shutdown-tab =
     .title = Zatvori tab
+# Profiler icons
+# Variables:
+#    $duration (Number) The time in seconds during which the profiler will be running.
+#                       The value will be an integer, typically less than 10.
+about-processes-profile-process =
+    .title =
+        { $duration ->
+            [one] Profiliraj sve niti ovog procesa { $duration } sekundu
+            [few] Profiliraj sve niti ovog procesa { $duration } sekunde
+           *[other] Profiliraj sve niti ovog procesa { $duration } sekundi
+        }
 
 ## Column headers
 
