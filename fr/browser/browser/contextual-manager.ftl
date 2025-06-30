@@ -203,6 +203,7 @@ contextual-manager-passwords-no-username-heading-and-message =
     .heading = Ajouter un nom d’utilisateur
     .message = Ajoutez-le pour vous connecter plus vite.
 contextual-manager-passwords-add-username-button = Ajouter un nom d’utilisateur
+contextual-manager-passwords-title = Mots de passe
 
 ## Login Form
 
@@ -265,6 +266,22 @@ contextual-manager-view-alert-heading =
     .heading = Voir l’alerte
 contextual-manager-view-alert-button =
     .tooltiptext = Consulter l’alerte
+# Variables
+#   $count (number) - The number of active alerts associated with the login
+contextual-manager-view-alert-heading-2 =
+    .heading =
+        { $count ->
+            [one] Voir l’alerte
+           *[other] Voir les alertes
+        }
+# Variables
+#   $count (number) - The number of active alerts associated with the login
+contextual-manager-view-alert-button-2 =
+    .tooltiptext =
+        { $count ->
+            [one] Consulter l’alerte
+           *[other] Consulter les alertes
+        }
 contextual-manager-show-password-button =
     .aria-label = Afficher le mot de passe
     .title = Afficher le mot de passe

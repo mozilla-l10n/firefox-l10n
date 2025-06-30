@@ -106,6 +106,8 @@ perplexity-callout-secondary-label-2 = J’ai compris
 
 ## Account Adoption Passwords callout strings
 
+# Suggestion to backup passwords by signing up for Mozilla account and using sync
+fxa-adoption-passwords-title = Mot de passe enregistré. Maintenant, sauvegardons-le.
 
 ## Sidebar Strings
 
