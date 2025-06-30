@@ -6,9 +6,11 @@
 # by various online articles and is technical in nature.
 experimental-features-media-jxl =
     .label = Mediji: JPEG XL
+experimental-features-media-jxl-description = Kada je ova funkcija uključena, { -brand-short-name } će podržavati format JPEG XL (JXL). To je poboljšani slikovni format koji podržava tranziciju bez gubitka informacija od tradicionalnih JPEG datoteka. Više informacija dostupno je u <a data-l10n-name="bugzilla">izvještaju o greškama 1539075</a>.
 # JS JIT Warp project
 experimental-features-js-warp =
     .label = JavaScript JIT: Warp
+experimental-features-js-warp-description = Uključi Warp, projekt poboljšanja performansi i korištenja memorije za JavaScript.
 # Search during IME
 experimental-features-ime-search =
     .label = Adresna traka: prikaži rezultate tijekom sastavljanja pomoću IME-a
@@ -23,6 +25,9 @@ experimental-features-group-webpage-display =
     .label = Prikaz web stranice
 experimental-features-group-customize-browsing =
     .label = Prilagodi svoje pregledavanje
+# Contextual Password Manager in sidebar
+experimental-features-contextual-password-manager =
+    .label = Lozinke u bočnoj traci
 # New Tab Custom Wallpapers
 experimental-features-custom-wallpaper =
     .label = Odaberi prilagođenu pozadinu ili boju za novu karticu
