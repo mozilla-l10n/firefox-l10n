@@ -356,8 +356,8 @@ quickactions-cmd-bookmarks = zabilješke
 quickactions-clearrecenthistory = Izbriši nedavnu povijest
 quickactions-cmd-clearrecenthistory = izbriši nedavnu povijest, povijest
 # Opens a SUMO article explaining how to clear history
-quickactions-clearhistory = Obriši povijest
-quickactions-cmd-clearhistory = obriši povijest
+quickactions-clearhistory = Izbriši povijest
+quickactions-cmd-clearhistory = izbriši povijest
 # Opens about:downloads page
 quickactions-downloads2 = Prikaži preuzimanja
 quickactions-cmd-downloads = preuzimanja
