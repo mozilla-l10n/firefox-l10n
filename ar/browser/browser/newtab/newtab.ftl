@@ -8,6 +8,9 @@
 newtab-page-title = لسان جديد
 newtab-settings-button =
     .title = خصص صفحة اللسان الجديد
+newtab-customize-panel-icon-button =
+    .title = خصّص هذه الصفحة
+newtab-customize-panel-icon-button-label = خصّص
 newtab-personalize-settings-icon-label =
     .title = خصّص صفحة اللسان الجديد
     .aria-label = إعدادات
@@ -117,6 +120,8 @@ newtab-menu-delete-pocket = احذف من { -pocket-brand-name }
 newtab-menu-archive-pocket = أرشِف في { -pocket-brand-name }
 newtab-menu-show-privacy-info = رُعاتنا الرسميّون وخصوصيّتك
 newtab-menu-about-fakespot = عن { -fakespot-brand-name }
+# Report is a verb (i.e. report issue with the content).
+newtab-menu-report = أبلِغ
 # Context menu option to personalize New Tab recommended stories by blocking a section of stories,
 # e.g. "Sports". "Block" is a verb here.
 newtab-menu-section-block = احجب
