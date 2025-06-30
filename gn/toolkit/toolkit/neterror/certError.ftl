@@ -88,6 +88,7 @@ fp-learn-more-about-time-related-errors = Eikuaave mba’éichapa emoĩporãta j
 ## Variables:
 ##   $hostname (string) - Hostname of the website with cert error.
 
+cert-error-revoked-certificate = { -brand-short-name } ojoko nde jeike ko tendápe upe kuatia’atã oñeme’ẽva { $hostname }-pe oñemboguevíma ha mavave ndojeroviavéima hese.
 cert-error-bad-signature = { -brand-short-name } ojoko nde jeike ko tendápe pe kuatia’atã ñemboheraguapy oñeme’ẽva { $hostname }-pe g̃uarã ndoikói.
 cert-error-key-pinning-failure = { -brand-short-name } ojoko nde jeike ko tendápe upe kuatia’atã oñeme’ẽva { $hostname }-pe g̃uarã oiporu rupi ñe’ẽñemi iñambuéva oñeha’ãrõvagui.
 cert-error-bad-der = { -brand-short-name } ojoko nde jeike ko tendápe ndojejapóigui hekopete pe kuatia’atã oñeme’ẽva { $hostname }-pe g̃uarã.
