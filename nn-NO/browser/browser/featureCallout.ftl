@@ -94,12 +94,21 @@ bookmarks-toolbar-callout-2b-secondary-button-label = Nei takk
 
 ## Perplexity callout strings
 
+perplexity-callout-theme-1-title = Treng du det rette svaret, med ein gong?
+perplexity-callout-theme-2-title = Prøv Perplexity: ein ny måte å søkje på
+perplexity-callout-theme-1-subtitle-1 = Prøv Perplexity. Vel det frå søkjeknappen når du vil ha fullstendige svar, inkludert kjelder.
+perplexity-callout-theme-1-subtitle-2 = Still spørsmål. Få fullstendige, godt siterte svar. For å prøve Perplexity, vel det frå søkjeknappen.
+perplexity-callout-theme-2-subtitle-1 = Spør Perplexity. Du får fullstendige svar, inkludert kjelder.
+perplexity-callout-theme-2-subtitle-2 = Still spørsmål. Få fullstendige, godt siterte svar.
 perplexity-callout-primary-label = Spør Perplexity
 perplexity-callout-secondary-label-1 = Ignorer
 perplexity-callout-secondary-label-2 = Eg forstår
 
 ## Account Adoption Passwords callout strings
 
+# Suggestion to backup passwords by signing up for Mozilla account and using sync
+fxa-adoption-passwords-title = Passordet er lagra. La oss sikkerheitskopiere det.
+fxa-adoption-passwords-subtitle = Beskytt passorda dine ved å synkronisere dei med einingane dine med kryptering.
 # Opens Mozilla accounts sign-up page
 fxa-adoption-passwords-primary-button-label = Registrer deg
 
@@ -126,7 +135,11 @@ sidebar-pins-callout-cta-button = Fest fane
 
 ## Pinning Tabs Strings
 
+pin-tabs-callout-1-title = Hald viktige faner innan rekkjevidde
+pin-tabs-callout-1-subtitle = Drag ei fane til starten av fanestripa for å feste henne. Eller høgreklikk og vel Fest fane.
 pin-tabs-callout-cta-1-button = Fest denne fana
+pin-tabs-callout-2-title = Fest faner du besøkjer ofte
+pin-tabs-callout-2-subtitle = For å feste ei fane, drag henne til starten av fanestripa. Eller høgreklikk og vel Fest fane.
 pin-tabs-callout-cta-2-button = Fest denne fana
 
 ## Sidebar Onboarding Strings
