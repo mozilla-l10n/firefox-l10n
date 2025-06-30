@@ -123,6 +123,13 @@ cert-error-inadequate-cert-type = حظر { -brand-short-name } زيارتك له
 cert-error-path-len-constraint-invalid = حظر { -brand-short-name } زيارتك لهذا الموقع لأن الشهادة المقدمة لـ { $hostname } تحتوي على عدد كبير جدًا من الشهادات الوسيطة في المسار إلى شهادة الجذر.
 cert-error-invalid-key = حظر { -brand-short-name } زيارتك لهذا الموقع لأن الشهادة المُقدمة لـ { $hostname } تحتوي على مفتاح غير صالح. على الأرجح، حجمها صغير جدًا بحيث لا يمكن تأمينها.
 cert-error-unknown-critical-extension = حظر { -brand-short-name } زيارتك لهذا الموقع لأن الشهادة المقدمة لـ { $hostname } تحتوي على امتداد حرِج غير مدعوم.
+cert-error-extension-value-invalid = حظر { -brand-short-name } زيارتك لهذا الموقع لأن الشهادة المقدمة لـ { $hostname } تحتوي على امتداد غير صالح.
+cert-error-untrusted-issuer = حظر { -brand-short-name } زيارتك لهذا الموقع لأن الشهادة المقدمة لـ { $hostname } أصدُرت بواسطة سُلطة الشهادات لم تعد موثوقة.
+cert-error-untrusted-cert = حظر { -brand-short-name } زيارتك لهذا الموقع لأن الشهادة المقدمة لـ { $hostname } وضعت علامة عليها على أنها غير موثوقة.
+cert-error-invalid-integer-encoding = حظر { -brand-short-name } زيارتك لهذا الموقع لأن الشهادة المقدمة لـ { $hostname } تحتوي على ترميز غير صحيح لعدد صحيح. من الأسباب الشائعة أرقام تسلسلية سالبة، ومعاملات RSA سالبة، وترميزات أطول من اللازم.
+cert-error-unsupported-keyalg = حظر { -brand-short-name } زيارتك لهذا الموقع لأن الشهادة المقدمة لـ { $hostname } تحتوي على نوع مفتاح غير مدعوم.
+cert-error-issuer-no-longer-trusted = حظر { -brand-short-name } زيارتك لهذا الموقع لأن سُلطة الشهادات التي أصدُرت الشهادة المقدمة لـ { $hostname } لم تعد موثوقة.
+cert-error-signature-algorithm-mismatch = حظر { -brand-short-name } زيارتك لهذا الموقع لأن خوارزمية التوقيع للشهادة المقدمة لـ { $hostname } لا تتطابق مع حقل خوارزمية توقيعها.
 
 ## Messages used for certificate error titles
 
