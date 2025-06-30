@@ -47,3 +47,7 @@ experimental-features-link-previews-description-no-ai =
         [macos] Za više informacija o nekoj web stranici prije njenog otvaranja zadrži miš iznad poveznice i pritisni Shift (⇧) i Option (⌥) ili Alt. Pregledi mogu sadržavati informacije poput naslova i vremena potrebnog za čitanje. <a data-l10n-name="connect">Dijeli povratne informacije</a>
        *[other] Za više informacija o nekoj web stranici prije njenog otvaranja zadrži miš iznad poveznice i pritisni Shift + Alt. Pregledi mogu sadržavati informacije poput naslova i vremena potrebnog za čitanje. <a data-l10n-name="connect">Dijeli povratne informacije</a>
     }
+# New Tab Sections with follow and block
+experimental-features-newtab-sections-follow-block =
+    .label = Tematski odjeljci i praćenje/blokiranje za priče na novoj kartici
+experimental-features-newtab-sections-follow-block-description = Organiziraj priče na svojoj stranici nove kartice u tematske odjeljke (Sport, Hrana, Zabava i drugo) za strukturiranije i preglednije iskustvo. Koristi naše nove kontrole praćenja i blokiranja za prilagodbu prikazanog sadržaja. <a data-l10n-name="connect">Dijeli povratne informacije</a>

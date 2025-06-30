@@ -15,10 +15,25 @@ webext-perms-header-with-perms = Dodati { $extension }? Ovo proširenje imat će
 webext-perms-header-unsigned = Dodati { $extension }? Ovo proširenje nije provjereno. Zlonamjerna proširenja mogu ukrati tvoje privatne podatke ili ugroziti računalo. Dodaj ga samo ako vjeruješ njegovom izvoru.
 webext-perms-header-unsigned-with-perms = Dodati { $extension }? Ovo proširenje nije provjereno. Zlonamjerna proširenja mogu ukrati tvoje privatne podatke ili ugroziti računalo. Dodaj ga samo ako vjeruješ njegovom izvoru. Ovo proširenje imat će dozvole za:
 webext-perms-sideload-header = { $extension } dodano
+webext-perms-optional-perms-header2 = { $extension } zahtijeva dodatne dozvole
 webext-perms-optional-perms-header = { $extension } zahtijeva dodatne dozvole
+webext-perms-header2 = Dodaj { $extension }
+webext-perms-list-intro-unsigned = Ovo nepotvrđeno proširenje može ugroziti tvoju privatnost ili kompromitirati tvoj uređaj. Dodavanje je preporučeno samo ako vjeruješ izvoru.
 
 ## Headers used in the webextension permissions dialog, inside the content.
 
+webext-perms-header-required-perms = Potrebne dozvole:
+webext-perms-header-optional-settings = Opcionalne postavke:
+webext-perms-header-update-required-perms = Nove potrebne dozvole:
+webext-perms-header-optional-required-perms = Nove dozvole:
+webext-perms-header-data-collection-perms = Potrebno prikupljanje podataka:
+webext-perms-header-data-collection-is-none = Prikupljanje podataka:
+# This is a header used in the add-ons "update" prompt, shown when the new
+# version requires new data collection permissions.
+webext-perms-header-update-data-collection-perms = Novo potrebno prikupljanje podataka:
+# This is a header used in the add-ons "optional" prompt, shown when the
+# extension requests new data collection permissions programmatically.
+webext-perms-header-optional-data-collection-perms = Novo prikupljanje podataka:
 
 ##
 
