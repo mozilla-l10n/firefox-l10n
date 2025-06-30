@@ -111,3 +111,8 @@ about-glean-profiler-explanation =
     Da biste vidjeli potpuni prikaz svih zabilježenih metrika, možete koristiti { -profiler-brand-name }.
     Prvo morate <a data-l10n-name="firefox-profiler-link">snimiti profil performansi</a>.
     Nakon što snimite profil, odaberite <q>Grafikon markera</q> i pogledajte markere pod <q>Telemetrija</q>.
+about-glean-profiler-explanation-profiler =
+    U profilu performansi možete vidjeti sve prikupljene metrike, kada su prikupljene i
+    tačno koje su vrijednosti prikupljene. Zadržavanjem pokazivača miša na pojedinačnim
+    markerima možete provjeriti da li je prikupljena ispravna vrijednost i da se prikupljanje dogodilo u pravo vrijeme.
+controls-button-label-verbose = Primijeni postavke i pošalji ping
