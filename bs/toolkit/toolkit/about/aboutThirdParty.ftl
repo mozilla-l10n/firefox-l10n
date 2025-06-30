@@ -21,3 +21,17 @@ third-party-detail-publisher = Izdavač
 third-party-th-process = Proces
 third-party-th-duration = Trajanje učitavanja (ms)
 third-party-th-status = Status
+third-party-tag-ime = IME
+    .title = Ova vrsta modula se učitava kada koristite IME treće strane.
+third-party-tag-shellex = Shell ekstenzija
+    .title = Ovaj tip modula se učitava kada otvorite dijalog sistemskih datoteka.
+third-party-tag-background = Pozadina
+    .title =
+        Ovaj modul nije blokirao aplikaciju jer je bio učitan
+        u pozadini.
+third-party-icon-unsigned =
+    .title = Ovaj modul nije potpisan
+    .alt = Ovaj modul nije potpisan
+third-party-icon-warning =
+    .title = { -brand-short-name } se srušio u kodu iz ovog modula
+    .alt = { -brand-short-name } se srušio u kodu iz ovog modula
