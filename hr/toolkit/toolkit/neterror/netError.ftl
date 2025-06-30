@@ -54,6 +54,8 @@ neterror-dns-not-found-hint-header = <strong>Ako ste upisali ispravnu adresu, mo
 neterror-dns-not-found-hint-try-again = Pokušaj kasnije ponovo
 neterror-dns-not-found-hint-check-network = Provjeriti svoju internet vezu
 neterror-dns-not-found-hint-firewall = Provjeriti ima li { -brand-short-name } dozvolu za pristup webu (možda veza postoji, ali iza vatrozida)
+neterror-dns-not-found-offline-hint-header = <strong>Što možeš učiniti po tom pitanju?</strong>
+neterror-dns-not-found-offline-hint-different-device = Pokušaj se spojiti na jednom.drugom uređaju.
 
 ## TRR-only specific messages
 ## Variables:
