@@ -106,6 +106,11 @@ perplexity-callout-secondary-label-2 = Razumem
 
 ## Account Adoption Passwords callout strings
 
+# Suggestion to backup passwords by signing up for Mozilla account and using sync
+fxa-adoption-passwords-title = Geslo shranjeno. Bi ga varnostno kopirali?
+fxa-adoption-passwords-subtitle = Zaščitite svoja gesla, tako da jih šifrirana sinhronizirate s svojimi drugimi napravami.
+# Opens Mozilla accounts sign-up page
+fxa-adoption-passwords-primary-button-label = Registracija
 
 ## Sidebar Strings
 
@@ -131,8 +136,10 @@ sidebar-pins-callout-cta-button = Pripni zavihek
 ## Pinning Tabs Strings
 
 pin-tabs-callout-1-title = Imejte pomembne zavihke na dosegu roke
+pin-tabs-callout-1-subtitle = Povlecite zavihek na začetek vrstice z zavihki, da ga pripnete. Lahko ga tudi kliknete z desno miškino tipko in izberete Pripni zavihek.
 pin-tabs-callout-cta-1-button = Pripni ta zavihek
 pin-tabs-callout-2-title = Pripnite zavihke, ki jih največ obiskujete
+pin-tabs-callout-2-subtitle = Katerikoli zavihek lahko pripnete tako, da ga povlečete na začetek vrstice z zavihki. Lahko ga tudi kliknete z desno miškino tipko in izberete Pripni zavihek.
 pin-tabs-callout-cta-2-button = Pripni ta zavihek
 pin-tabs-callout-3-title = Imejte pomembne strani na dosegu roke
 pin-tabs-callout-4-title = Pripnite strani, ki jih največ obiskujete
