@@ -130,3 +130,11 @@ tab-context-send-tabs-to-device =
            *[other] Lähetä { $tabCount } välilehteä laitteeseen
         }
     .accesskey = L
+tab-context-unload-n-tabs =
+    .label =
+        { $tabCount ->
+            [1] Vapauta välilehti muistista
+            [one] Vapauta välilehti muistista
+           *[other] Vapauta { $tabCount } välilehteä muistista
+        }
+    .accesskey = u
