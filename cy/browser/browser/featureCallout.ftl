@@ -107,7 +107,7 @@ perplexity-callout-secondary-label-2 = Iawn
 ## Account Adoption Passwords callout strings
 
 # Suggestion to backup passwords by signing up for Mozilla account and using sync
-fxa-adoption-passwords-title = Cyfrinair wedi'i gadw. Gadewch i ni ei gopïo wrth gefn
+fxa-adoption-passwords-title = Cyfrinair wedi'i gadw. Gadewch i ni wneud copi wrth gefn
 fxa-adoption-passwords-subtitle = Diogelwch eich cyfrineiriau trwy eu cydweddu â'ch dyfeisiau gydag amgryptio.
 # Opens Mozilla accounts sign-up page
 fxa-adoption-passwords-primary-button-label = Ymuno
@@ -141,7 +141,7 @@ pin-tabs-callout-cta-1-button = Pinio'r tab hwn
 pin-tabs-callout-2-title = Pinio'r tabiau rydych chi'n ymweld â nhw fwyaf
 pin-tabs-callout-2-subtitle = I binio unrhyw dab, llusgwch ef i ddechrau'r stribed tab. Neu de-gliciwch a dewis Pinio Tab.
 pin-tabs-callout-cta-2-button = Pinio'r tab hwn
-pin-tabs-callout-3-title = Cadw safleoedd pwysig o fewn cyrraedd
+pin-tabs-callout-3-title = Cadw gwefannau pwysig o fewn cyrraedd
 pin-tabs-callout-4-title = Pinio'r tabiau rydych chi'n ymweld â nhw fwyaf
 
 ## Sidebar Onboarding Strings

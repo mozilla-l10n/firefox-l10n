@@ -172,8 +172,8 @@ genai-chatbot-summarize-sidebar-provider-subtitle = De-glicio ar eich sgwrsfot A
 # “Summarize Page” should be consistent with the translation for the string genai-menu-summarize-page
 genai-chatbot-summarize-sidebar-generic-subtitle = De-glicio ar y botwm pefriog yn y bar ochr a dewis “Crynhoi Tudalen”. Y tro cyntaf, byddwch hefyd yn dewis sgwrsfot AI.
 # “Summarize page” should be consistent with the translation for the string genai-page-button-summarize
-genai-chatbot-summarize-footer-provider-subtitle = Agorwch eich sgwrsfot AI yn y bar ochr a dewis “Crynhoi Tudalen” ar y gwaelod.
-genai-chatbot-summarize-footer-generic-subtitle = Ychwanegu chatbot AI at y bar ochr { -brand-short-name } i grynhoi tudalennau'n gyflym.
+genai-chatbot-summarize-footer-provider-subtitle = Agor eich sgwrsfot AI yn y bar ochr a dewis “Crynhoi Tudalen” ar y gwaelod.
+genai-chatbot-summarize-footer-generic-subtitle = Ychwanegu sgwrsfot AI at y bar ochr { -brand-short-name } i grynhoi tudalennau'n gyflym.
 
 ## Chatbot onboarding choices
 ## These describe features/capabilities of chatbot providers. These are not buttons/actions.

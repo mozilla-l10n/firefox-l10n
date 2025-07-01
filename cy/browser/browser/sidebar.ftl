@@ -68,6 +68,7 @@ sidebar-show-on-the-left =
 # hovers over it.
 expand-sidebar-on-hover =
     .label = Ehangu'r bar ochr wrth hofran
+sidebar-manage-extensions = Rheoli Estyniadau
 
 ## Labels for sidebar context menu items
 
@@ -101,6 +102,10 @@ sidebar-context-menu-customize-sidebar =
 #   $deviceName (String) - The name of the device the user is closing a tab for
 sidebar-context-menu-close-remote-tab =
     .label = Cau tab ar { $deviceName }
+sidebar-context-menu-remove-extension2 =
+    .label = Tynnu o { -brand-short-name }
+sidebar-context-menu-unpin-extension =
+    .label = Tynnu o'r Bar Ochr
 
 ## Labels for sidebar history context menu items
 
@@ -125,6 +130,8 @@ sidebar-menu-customize-label =
     .label = Cyfaddasu'r bar offer
 sidebar-menu-contextual-password-manager-label =
     .label = Cyfrineiriau
+sidebar-menu-more-tools-label =
+    .label = Rhagor o offer
 
 ## Tooltips for sidebar menu items.
 
