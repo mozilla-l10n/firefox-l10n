@@ -17,6 +17,6 @@ spotlight-ios-marketplace-button =
 ## Firefox Focus promo message strings
 
 spotlight-focus-promo-title = Nabavi { -focus-brand-name }
-spotlight-focus-promo-subtitle = Skenirajte QR kod za preuzimanje.
+spotlight-focus-promo-subtitle = Snimi QR kod za preuzimanje.
 spotlight-focus-promo-qr-code =
-    .alt = Skeniraj QR kod za preuzimanje { -focus-brand-name }a
+    .alt = Snimi QR kod za preuzimanje aplikacije { -focus-brand-name }
