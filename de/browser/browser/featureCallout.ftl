@@ -135,6 +135,10 @@ sidebar-pins-callout-cta-button = Tab anheften
 
 ## Pinning Tabs Strings
 
+pin-tabs-callout-cta-1-button = Diesen Tab anheften
+pin-tabs-callout-2-title = Heften Sie die Tabs an, die Sie am häufigsten besuchen
+pin-tabs-callout-2-subtitle = Um einen Tab anzuheften, ziehen Sie ihn an den Anfang der Tab-Leiste. Oder klicken Sie mit der rechten Maustaste und wählen Sie Tab anheften.
+pin-tabs-callout-cta-2-button = Diesen Tab anheften
 
 ## Sidebar Onboarding Strings
 
