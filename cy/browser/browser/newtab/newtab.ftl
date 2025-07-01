@@ -8,6 +8,9 @@
 newtab-page-title = Tab Newydd
 newtab-settings-button =
     .title = Cyfaddasu eich tudalen Tab Newydd
+newtab-customize-panel-icon-button =
+    .title = Cyfaddasu’r dudalen hon
+newtab-customize-panel-icon-button-label = Cyfaddasu
 newtab-personalize-settings-icon-label =
     .title = Personoli Tab Newydd
     .aria-label = Gosodiadau
@@ -506,6 +509,9 @@ newtab-topic-selection-button-pick-interests = Dewiswch eich diddordebau
 newtab-section-follow-button = Dilyn
 newtab-section-following-button = Yn dilyn
 newtab-section-unfollow-button = Dad-ddilyn
+# A modal may appear next to the Follow button, directing users to try out the feature
+newtab-section-follow-highlight-title = Mireinio'ch ffrwd
+newtab-section-follow-highlight-subtitle = Dilynwch eich diddordebau i weld mwy o'r hyn rydych yn ei hoffi.
 
 ## Button to block/unblock listed topics
 ## "Block", "unblocked", and "blocked" are social media terms that refer to hiding a section of stories.

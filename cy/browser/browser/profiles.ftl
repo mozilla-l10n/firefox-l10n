@@ -39,6 +39,12 @@ edit-profile-page-delete-button =
 edit-profile-page-avatar-selector-opener-link = Golygu
 avatar-selector-icon-tab = Eicon
 avatar-selector-custom-tab = Cyfaddas
+avatar-selector-cancel-button =
+    .label = Diddymu
+avatar-selector-save-button =
+    .label = Cadw
+avatar-selector-upload-file = Llwytho ffeil i fyny
+avatar-selector-drag-file = Neu lusgo ffeil yma
 edit-profile-page-no-name = Rhowch enw i'r proffil hwn i'ch helpu i ddod o hyd iddo yn nes ymlaen. Gallwch ei ail-enwi ef unrhyw bryd.
 edit-profile-page-duplicate-name = Mae'r enw proffil eisoes yn cael ei ddefnyddio. Rhowch gynnig ar enw newydd.
 edit-profile-page-profile-saved = Wedi'i Gadw
@@ -116,6 +122,8 @@ shopping-avatar-alt =
     .alt = Cart siopa
 star-avatar-alt =
     .alt = Seren
+custom-avatar-alt =
+    .alt = Afatar cyfaddas
 
 ## Labels for default avatar icons
 
