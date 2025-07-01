@@ -1238,6 +1238,11 @@ popup-notification-xpinstall-prompt-block-url = Wali talqayt
 popup-notification-addon-privatebrowsing-checkbox2 =
     .label = Sireg asiɣzef ad yeddu deg usfaylu uslig
     .accesskey = S
+# This string is similar to `webext-perms-description-data-long-technicalAndInteraction`
+# but it is used in the install prompt, and it needs an access key.
+popup-notification-addon-technical-and-interaction-checkbox =
+    .label = Bḍu isefka itiknikanen d yimyigawen s usiɣzef n uneflay
+    .accesskey = B
 
 ## Pop-up warning
 
