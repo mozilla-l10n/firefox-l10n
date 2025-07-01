@@ -1134,6 +1134,8 @@ navbar-accessible =
     .aria-label = Llywio
 navbar-downloads =
     .label = Llwythi i lawr
+navbar-overflow-2 =
+    .tooltiptext = Rhagor o offer
 navbar-overflow =
     .tooltiptext = Rhagor o offer…
 # Variables:
