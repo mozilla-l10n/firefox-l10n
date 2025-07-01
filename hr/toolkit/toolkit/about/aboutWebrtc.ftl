@@ -180,7 +180,8 @@ about-webrtc-round-trip-time-ms = RTT ms
 ##
 
 about-webrtc-save-page-msg = stranica spremljena u: { $path }
-about-webrtc-debug-mode-on-state-msg = modus za otklanjanja grešaka aktivan, staza zapisnika: { $path }
+about-webrtc-debug-mode-off-state-msg = detaljni zapisnik se može pronaći u: { $path }
+about-webrtc-debug-mode-on-state-msg = modus za otklanjanja grešaka aktivan, detaljni zapisnik u: { $path }
 about-webrtc-aec-logging-off-state-msg = snimljene datoteke zapisnika se mogu pronaći u: { $path }
 # This path is used for saving the about:webrtc page so it can be attached to
 # bug reports.
