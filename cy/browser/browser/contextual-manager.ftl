@@ -176,6 +176,8 @@ contextual-manager-passwords-password-already-exists-error-button = Mynd i gyfri
 contextual-manager-passwords-update-password-success-heading =
     .heading = Cyfrinair wedi'i gadw
 contextual-manager-passwords-update-password-success-button = Gorffen
+contextual-manager-passwords-update-username-success-heading =
+    .heading = Enw defnyddiwr wedi'i gadw
 # Message to confirm successful removal of a password/passwords.
 #   $total (number) - Total number of passwords
 contextual-manager-passwords-delete-password-success-heading =
@@ -228,6 +230,7 @@ contextual-manager-passwords-no-username-heading-and-message =
     .heading = Ychwanegwch enw defnyddiwr
     .message = Ychwanegwch un i fewngofnodi'n gynt.
 contextual-manager-passwords-add-username-button = Ychwanegwch enw defnyddiwr
+contextual-manager-passwords-title = Cyfrineiriau
 
 ## Login Form
 
@@ -290,6 +293,32 @@ contextual-manager-view-alert-heading =
     .heading = Gweld y rhybudd
 contextual-manager-view-alert-button =
     .tooltiptext = Darllen y rhybudd
+# Variables
+#   $count (number) - The number of active alerts associated with the login
+contextual-manager-view-alert-heading-2 =
+    .heading =
+        { $count ->
+            [1] Gweld y rhybudd
+            [zero] Gweld y rhybuddion
+            [one] Gweld y rhybudd
+            [two] Gweld y rhybuddion
+            [few] Gweld y rhybuddion
+            [many] Gweld y rhybuddion
+           *[other] Gweld y rhybuddion
+        }
+# Variables
+#   $count (number) - The number of active alerts associated with the login
+contextual-manager-view-alert-button-2 =
+    .tooltiptext =
+        { $count ->
+            [1] Darllen y rhybudd
+            [zero] Darllen y rhybuddion
+            [one] Darllen y rhybudd
+            [two] Darllen y rhybuddion
+            [few] Darllen y rhybuddion
+            [many] Darllen y rhybuddion
+           *[other] Darllen y rhybuddion
+        }
 contextual-manager-show-password-button =
     .aria-label = Dangos Cyfrinair
     .title = Dangos y Cyfrinair

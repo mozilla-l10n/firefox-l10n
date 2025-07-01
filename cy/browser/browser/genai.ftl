@@ -51,11 +51,20 @@ genai-menu-ask-generic =
 # $provider (string) - name of the provider
 genai-menu-ask-provider =
     .label = Gofyn i { $provider }
+genai-menu-open-generic =
+    .label = Agor Sgwrsfot AI
+# $provider (string) - name of the provider
+genai-menu-open-provider =
+    .label = Agor { $provider }
 genai-menu-remove-generic =
     .label = Tynnu'r sgwrsfot AI
 # $provider (string) - name of the provider
 genai-menu-remove-provider =
     .label = Tynnu { $provider }
+genai-menu-remove-sidebar =
+    .label = Tynnu o'r Bar Ochr
+genai-menu-new-badge = Newydd
+genai-menu-summarize-page = Crynhoi Tudalen
 genai-input-ask-generic =
     .placeholder = Gofyn i'r sgwrsfot AI…
 # $provider (string) - name of the provider

@@ -1341,3 +1341,6 @@ file-picker-crashed-show-in-folder =
 ## Onboarding Finish Setup checklist
 
 onboarding-checklist-button-label = Gorffen gosod
+onboarding-aw-finish-setup-button =
+    .label = Gorffen gosod
+    .tooltiptext = Gorffen gosod { -brand-short-name }
