@@ -149,7 +149,7 @@ certerror-unknown-issuer-what-can-you-do-about-it-contact-admin = Ukoliko se nal
 certerror-expired-cert-what-can-you-do-about-it-clock = Sat tvog računala postavljen je na { DATETIME($now, dateStyle: "medium") }. Provjeri datum, vrijeme i vremensku zonu u postavkama sustava i onda aktualiziraj <b>{ $hostname }</b>.
 certerror-expired-cert-what-can-you-do-about-it-contact-website = Ukoliko je tvoj sat već postavljen na ispravno vrijeme, web stranica je vjerojatno pogrešno konfigurirana i ne možeš ništa učiniti kako bi se riješio ovaj problem. Možeš obavijestiti administratora web stranice o ovom problemu.
 certerror-bad-cert-domain-what-can-you-do-about-it = Problem se najvjerojatnije nalazi u web stranici i ne možeš ništa učiniti, kako bi se problem riješio.. Možeš obavijestiti administratora web stranice o ovom problemu.
-certerror-mitm-what-can-you-do-about-it-antivirus = Ukoliko tvoj antivirusni program uključuje funkcije skeniranja sigurnih veza (koje se često zove “web skeniranje” ili “https skeniranje”), možeš isključiti ovu funkciju. Ukoliko to ne riješi problem, možeš ukloniti i ponovo instalirati antivirusni program.
+certerror-mitm-what-can-you-do-about-it-antivirus = Ukoliko tvoj antivirusni program uključuje funkciju skeniranja sigurnih veza (često zove „web skeniranje” ili „https skeniranje”), možeš isključiti ovu funkciju. Ukoliko to ne riješi problem, možeš ukloniti i ponovo instalirati antivirusni program.
 certerror-mitm-what-can-you-do-about-it-corporate = Ako se nalaziš u korporativnoj mreži, možeš kontaktirati svoj IT odjel.
 # Variables:
 # $mitm (String) - The name of the software intercepting communications between you and the website (or “man in the middle”)
