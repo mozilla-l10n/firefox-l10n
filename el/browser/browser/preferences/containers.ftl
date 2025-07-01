@@ -23,7 +23,7 @@ containers-window-close =
 # will be aligned correctly.
 -containers-labels-style = min-width: 4rem
 containers-name-label = Όνομα
-    .accesskey = Ο
+    .accesskey = ν
     .style = { -containers-labels-style }
 containers-name-text =
     .placeholder = Εισαγάγετε το όνομα θεματικής ενότητας
