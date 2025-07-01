@@ -32,10 +32,14 @@ about-logging-preset-media-playback-description = Moduli zapisnika za dijagnosti
 about-logging-preset-webrtc-label = WebRTC
 about-logging-preset-webrtc-description = Moduli zapisnika za dijagnosticiranje WebRTC poziva
 about-logging-preset-webgpu-label = WebGPU
+about-logging-preset-webgpu-description = Moduli zapisnika za dijagnosticiranje problema s WebGPU
 about-logging-preset-gfx-label = Slike
+about-logging-preset-gfx-description = Moduli zapisnika za dijagnosticiranje grafičkih problema
 # This is specifically "Microsoft Windows". Microsoft normally doesn't localize it, and we should follow their convention here.
 about-logging-preset-windows-label = Windows
+about-logging-preset-windows-description = Moduli zapisnika za dijagnosticiranje problema koji su specifični za Microsoft Windows
 about-logging-preset-custom-label = Prilagođeno
+about-logging-preset-custom-description = Ručno odabrani moduli zapisnika
 # Error handling
 about-logging-error = Greška:
 

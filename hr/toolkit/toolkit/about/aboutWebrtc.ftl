@@ -24,7 +24,7 @@ about-webrtc-aec-logging-on-state-msg = AEC zapisnik aktivan (razgovaraj s poziv
 about-webrtc-aec-logging-toggled-on-state-msg = AEC zapisnik aktivan (razgovaraj s pozivateljem par minuta i zatim zaustavi snimanje)
 # Variables:
 #  $path (String) - The path to which the aec log file is saved.
-about-webrtc-aec-logging-toggled-off-state-msg = Snimljene log datoteke je moguće pronaći u: { $path }
+about-webrtc-aec-logging-toggled-off-state-msg = Snimljene datoteke zapisnika se mogu pronaći u: { $path }
 
 ##
 
@@ -180,7 +180,6 @@ about-webrtc-round-trip-time-ms = RTT ms
 ##
 
 about-webrtc-save-page-msg = stranica spremljena u: { $path }
-about-webrtc-debug-mode-off-state-msg = trace zapisnik je moguće pronaći na: { $path }
 about-webrtc-debug-mode-on-state-msg = modus za otklanjanja grešaka aktivan, staza zapisnika: { $path }
 about-webrtc-aec-logging-off-state-msg = snimljene datoteke zapisnika se mogu pronaći u: { $path }
 # This path is used for saving the about:webrtc page so it can be attached to

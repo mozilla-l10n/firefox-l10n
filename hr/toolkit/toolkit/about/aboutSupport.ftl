@@ -107,10 +107,10 @@ locked-prefs-value = Vrijednost
 graphics-title = Grafika
 graphics-features-title = Funkcije
 graphics-diagnostics-title = Dijagnostika
-graphics-failure-log-title = Zapis grešaka
+graphics-failure-log-title = Zapisnik grešaka
 graphics-gpu1-title = GPU #1
 graphics-gpu2-title = GPU #2
-graphics-decision-log-title = Zapis odluka
+graphics-decision-log-title = Zapisnik odluka
 graphics-crash-guards-title = Deaktivirane funkcije čuvara rušenja
 graphics-workarounds-title = Zaobilazna rješenja
 # Windowing system in use on Linux (e.g. X11, Wayland).
