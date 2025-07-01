@@ -106,6 +106,11 @@ perplexity-callout-secondary-label-2 = Selvä
 
 ## Account Adoption Passwords callout strings
 
+# Suggestion to backup passwords by signing up for Mozilla account and using sync
+fxa-adoption-passwords-title = Salasana tallennettu. Varmuuskopioidaan se.
+fxa-adoption-passwords-subtitle = Suojaa salasanasi synkronoimalla ne laitteillesi salattuna.
+# Opens Mozilla accounts sign-up page
+fxa-adoption-passwords-primary-button-label = Rekisteröidy
 
 ## Sidebar Strings
 
@@ -130,6 +135,12 @@ sidebar-pins-callout-cta-button = Kiinnitä välilehti
 
 ## Pinning Tabs Strings
 
+pin-tabs-callout-1-title = Pidä tärkeät välilehdet käden ulottuvilla
+pin-tabs-callout-cta-1-button = Kiinnitä tämä välilehti
+pin-tabs-callout-2-title = Kiinnitä useimmin käyttämäsi välilehdet
+pin-tabs-callout-cta-2-button = Kiinnitä tämä välilehti
+pin-tabs-callout-3-title = Pidä tärkeät sivustot käden ulottuvilla
+pin-tabs-callout-4-title = Kiinnitä useimmin vierailemasi sivustot
 
 ## Sidebar Onboarding Strings
 
