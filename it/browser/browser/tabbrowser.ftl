@@ -277,6 +277,8 @@ tab-context-move-tab-to-group =
            *[other] Aggiungi schede a un gruppo
         }
     .accesskey = u
+tab-context-move-tab-to-group-saved-groups =
+    .label = Gruppi chiusi
 tab-group-editor-action-new-tab =
     .label = Nuova scheda nel gruppo
 tab-group-editor-action-new-window =
