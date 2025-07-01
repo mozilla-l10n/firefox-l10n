@@ -38,6 +38,10 @@ contentanalysis-operationtype-clipboard = clipfwrdd
 contentanalysis-operationtype-dropped-text = testun wedi'i ostwng
 contentanalysis-operationtype-print = argraffu
 #   $filename - The filename associated with the request, such as "aFile.txt"
+contentanalysis-upload-description = llwythiad “{ $filename }”
+#   $filename - The filename associated with the request, such as "aFile.txt"
+contentanalysis-download-description = Llwythiad { $filename } i lawr
+#   $filename - The filename associated with the request, such as "aFile.txt"
 contentanalysis-customdisplaystring-description = llwytho “{ $filename }” i fyny
 contentanalysis-warndialogtitle = Gall y cynnwys hwn fod yn anniogel
 # Variables:
@@ -79,6 +83,10 @@ contentanalysis-block-dialog-title-upload-file = Nid oes caniatâd i chi lwytho'
 # Variables:
 #   $filename - Name of the file that was blocked, such as "aFile.txt"
 contentanalysis-block-dialog-body-upload-file = O dan bolisïau diogelu data eich sefydliad, nid oes caniatâd i chi lwytho’r ffeil “{ $filename }”. Cysylltwch â'ch gweinyddwr am ragor o wybodaeth.
+contentanalysis-block-dialog-title-download-file = Nid oes caniatâd i chi lwytho'r ffeil hon i lawr
+# Variables:
+#   $filename - Name of the file that was blocked, such as "aFile.txt"
+contentanalysis-block-dialog-body-download-file = O dan bolisïau diogelu data eich sefydliad, nid oes caniatâd i chi argraffu’r ddogfen hon. Cysylltwch â'ch gweinyddwr am ragor o wybodaeth.
 contentanalysis-block-dialog-title-clipboard = Nid oes caniatâd i chi ludo'r ffeil hon
 contentanalysis-block-dialog-body-clipboard = O dan bolisïau diogelu data eich sefydliad, nid oes caniatâd i chi ludo'r cynnwys hwn. Cysylltwch â'ch gweinyddwr am ragor o wybodaeth.
 contentanalysis-block-dialog-title-dropped-text = Nid oes caniatâd i chi ollwng y cynnwys hwn

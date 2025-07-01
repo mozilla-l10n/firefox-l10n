@@ -185,6 +185,8 @@ media-capabilities-enumerate = Cyfrifo'r gronfa ddata
 
 media-codec-support-sw-decoding = Datgodio Meddalwedd
 media-codec-support-hw-decoding = Datgodio Caledwedd
+media-codec-support-sw-encoding = Amgodio Meddalwedd
+media-codec-support-hw-encoding = Amgodio Caledwedd
 media-codec-support-codec-name = Enw Codec
 media-codec-support-supported = Cefnogaeth
 media-codec-support-unsupported = Heb eu Cynnal
