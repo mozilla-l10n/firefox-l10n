@@ -3,14 +3,18 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 about-logging-current-log-file = Trenutačna datoteka zapisnika:
+about-logging-new-log-file = Nova datoteka zapisnika:
+about-logging-currently-enabled-log-modules = Trenutačno aktivirani moduli zapisnika:
 about-logging-log-tutorial = Posjetite <a data-l10n-name="logging">HTTP zapisnik</a> za uputstva kako koristiti ovaj alat.
 # This message is used as a button label, "Open" indicates an action.
 about-logging-open-log-file-dir = Otvori mapu
-about-logging-set-log-file = Postavi log datoteku
-about-logging-set-log-modules = Postavi log module
+about-logging-set-log-file = Postavi datoteku zapisnika
+about-logging-set-log-modules = Postavi module zapisnika
 about-logging-start-logging = Pokreni vođenje zapisnika
 about-logging-stop-logging = Zaustavi vođenje zapisnika
 about-logging-info = Informacije:
+about-logging-log-modules-selection = Izbor modula zapisnika
+about-logging-new-log-modules = Novi moduli zapisnika:
 
 ## Logging presets
 
