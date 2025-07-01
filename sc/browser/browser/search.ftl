@@ -81,3 +81,9 @@ add-engine-no-name = Agiunghe unu nòmine.
 
 ## The following strings are used as labels for the dialog's buttons.
 
+# buttonlabelextra1 is the label of a button to open the advanced section
+# of the dialog.
+add-engine-dialog2 =
+    .buttonlabelaccept = Agiunghe su motore
+    .buttonaccesskeyaccept = u
+    .buttonlabelextra1 = Avantzadu
