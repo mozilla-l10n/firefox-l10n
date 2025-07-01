@@ -78,9 +78,25 @@ login-status-advisory-title = As serradu sa sessione. Incarca s’icona de su co
 bookmarks-toolbar-callout-1-title = Boles agiùnghere custu situ a sa barra de ainas de is sinnalibros?
 bookmarks-toolbar-callout-1-subtitle = Su sinnalibru tuo at a èssere sarvadu pròpiu a suta de sa barra de indiritzos pro un’atzessu prus lestru.
 bookmarks-toolbar-callout-1-primary-button-label = Agiunghe sinnalibru
+bookmarks-toolbar-callout-1-secondary-button-label = No, gràtzias
+# Visible if user adds a bookmark in callout 1, bookmarks toolbar is set to always show when this message renders
+bookmarks-toolbar-callout-2a-title = Agiunghe àteros sinnalibros in manera fàtzile
+bookmarks-toolbar-callout-2a-primary-button-label = Apo cumprèndidu
+# Reverts the bookmarks toolbar to the default setting
+bookmarks-toolbar-callout-2a-secondary-button-label = Cua sa barra de ainas
+# Visible if user declines to add a bookmark in callout 1, bookmarks toolbar is set to always show when this message renders
+bookmarks-toolbar-callout-2b-title = Boles mantènnere sa barra de sinnalibros aberta?
+bookmarks-toolbar-callout-2b-primary-button-label = Lassa·dda aberta
+# Reverts the bookmarks toolbar to the default setting
+bookmarks-toolbar-callout-2b-secondary-button-label = No, gràtzias
 
 ## Perplexity callout strings
 
+perplexity-callout-theme-1-title = Ti serbit una risposta lestra?
+perplexity-callout-theme-2-title = Proa Perplexity: una manera noa de chircare
+perplexity-callout-primary-label = Pregunta a Perplexity
+perplexity-callout-secondary-label-1 = Iscarta
+perplexity-callout-secondary-label-2 = Apo cumprèndidu
 
 ## Account Adoption Passwords callout strings
 

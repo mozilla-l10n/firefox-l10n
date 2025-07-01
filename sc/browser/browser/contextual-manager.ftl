@@ -160,6 +160,8 @@ contextual-manager-passwords-password-already-exists-error-button = Bae a sa cra
 contextual-manager-passwords-update-password-success-heading =
     .heading = Crae sarvada
 contextual-manager-passwords-update-password-success-button = Fatu
+contextual-manager-passwords-update-username-success-heading =
+    .heading = Nòmine de utente sarvadu
 # Message to confirm successful removal of a password/passwords.
 #   $total (number) - Total number of passwords
 contextual-manager-passwords-delete-password-success-heading =
@@ -198,6 +200,7 @@ contextual-manager-passwords-no-username-heading-and-message =
     .heading = Agiunghe unu nòmine de utente
     .message = Agiunghe·nde unu pro ti identificare a sa lestra.
 contextual-manager-passwords-add-username-button = Agiunghe nòmine de utente
+contextual-manager-passwords-title = Craes
 
 ## Login Form
 
@@ -257,6 +260,24 @@ contextual-manager-view-alert-heading =
     .heading = Ammustra s’avisu
 contextual-manager-view-alert-button =
     .tooltiptext = Revisiona s’avisu
+# Variables
+#   $count (number) - The number of active alerts associated with the login
+contextual-manager-view-alert-heading-2 =
+    .heading =
+        { $count ->
+            [1] Ammustra s’avisu
+            [one] Ammustra s’avisu
+           *[other] Ammustra is avisos
+        }
+# Variables
+#   $count (number) - The number of active alerts associated with the login
+contextual-manager-view-alert-button-2 =
+    .tooltiptext =
+        { $count ->
+            [1] Revisiona s’avisu
+            [one] Revisiona s’avisu
+           *[other] Revisiona is avisos
+        }
 contextual-manager-show-password-button =
     .aria-label = Ammustra sa crae
     .title = Ammustra sa crae

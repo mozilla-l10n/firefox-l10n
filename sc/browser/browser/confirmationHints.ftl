@@ -29,3 +29,5 @@ confirmation-hint-duplicate-tabs-closed =
         [one] { $tabCount } ischeda serrada
        *[other] { $tabCount } ischedas serradas
     }
+# Subtle notification shown when Extensions button moves into the application menu.
+confirmation-hint-extensions-button-hidden = Tramudadu a su menù

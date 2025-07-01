@@ -396,7 +396,7 @@ newtab-weather-see-forecast =
     .title = Càstia is previsiones in { $provider }
 # Variables:
 #   $provider (string) - Service provider for weather data
-newtab-weather-sponsored = { $provider } ∙ Isponsorizadu
+newtab-weather-sponsored = { $provider } ∙ Patrotzinadu
 newtab-weather-menu-change-location = Càmbia positzione
 newtab-weather-change-location-search-input-placeholder =
     .placeholder = Chirca positzione

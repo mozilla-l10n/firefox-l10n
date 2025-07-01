@@ -185,6 +185,14 @@ downloads-details =
 
 ## These strings are displayed in the private browsing view of the downloads panel
 
+downloads-private-browsing-details =
+    .title = Is archìvios abarrant in su dispositivu tuo
+downloads-private-browsing-delete-button =
+    .label = Cantzella is archìvios in automàticu
+    .accesskey = C
+downloads-private-browsing-accept-button =
+    .label = Apo cumprèndidu
+    .accesskey = A
 
 ## Displayed when a site attempts to automatically download many files.
 ## Variables:

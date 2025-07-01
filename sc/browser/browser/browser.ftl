@@ -611,6 +611,10 @@ urlbar-search-mode-indicator-close =
 # engine is unknown.
 urlbar-placeholder =
     .placeholder = Chirca o inserta·nche un'indiritzu
+# This placeholder is used when not in search mode and searching in the urlbar
+# is disabled via the keyword.enabled pref.
+urlbar-placeholder-keyword-disabled =
+    .placeholder = Inserta un’indiritzu
 # This placeholder is used in search mode with search engines that search the
 # entire web.
 # Variables
@@ -690,6 +694,8 @@ urlbar-result-action-visit = Bìsita
 # Variables
 # $container (String): the name of the target container
 urlbar-result-action-switch-tab-with-container = Càmbia a s’ischeda · <span>{ $container }</span>
+# Used when the target tab is in a tab group that doesn't have a label.
+urlbar-result-action-tab-group-unnamed = Grupu chene nòmine
 # Allows the user to visit a URL that was previously copied to the clipboard.
 urlbar-result-action-visit-from-clipboard = Aberi dae sa punta de billete
 # Directs a user to press the Tab key to perform a search with the specified
@@ -738,6 +744,12 @@ urlbar-result-action-calculator-result-3 = = { NUMBER($result, useGrouping: "fal
 # Variables
 #  $result (String): the string representation for a formula result
 urlbar-result-action-calculator-result-decimal = = { NUMBER($result, maximumSignificantDigits: 9) }
+# Shows the name of the provider of weather data in a weather suggestion in the
+# urlbar.
+# Variables:
+#   $provider (String) - The name of the weather-data provider. It will be the
+#       name of a company, organization, or service.
+urlbar-result-weather-provider-sponsored = { $provider } · Patrotzinadu
 
 ## Strings used for buttons in the urlbar
 
@@ -820,6 +832,9 @@ urlbar-group-recent-searches =
 #  $engine (String): the name of the search engine providing the trending suggestions
 urlbar-group-trending =
     .label = Tendèntzia in { $engine }
+# Label shown above sponsored suggestions in the urlbar results.
+urlbar-group-sponsored =
+    .label = Patrotzinadu
 # The result menu labels shown next to trending results.
 urlbar-result-menu-trending-dont-show =
     .label = No ammustres is chircas de tendèntzias
@@ -1066,6 +1081,8 @@ navbar-accessible =
     .aria-label = Navigatzione
 navbar-downloads =
     .label = Iscarrigamentos
+navbar-overflow-2 =
+    .tooltiptext = Àteros istrumentos
 navbar-overflow =
     .tooltiptext = Àteros istrumentos...
 # Variables:
@@ -1254,3 +1271,6 @@ file-picker-crashed-show-in-folder =
 ## Onboarding Finish Setup checklist
 
 onboarding-checklist-button-label = Cumpleta sa cunfiguratzione
+onboarding-aw-finish-setup-button =
+    .label = Cumpleta sa cunfiguratzione
+    .tooltiptext = Cumpleta sa cunfiguratzione de { -brand-short-name }
