@@ -511,6 +511,8 @@ performance-default-content-process-count =
 ## General Section - Browsing
 
 browsing-title = Navigatzione
+browsing-group-label =
+    .aria-label = Navigatzione
 browsing-use-autoscroll =
     .label = Imprea iscurrimentu in automàticu
     .accesskey = a
@@ -646,6 +648,14 @@ home-prefs-weather-header =
     .label = Tempus
 home-prefs-weather-description = Sa previsione de oe
 home-prefs-weather-learn-more-link = Àteras informatziones
+home-prefs-trending-search-header =
+    .label = Chircas populares
+home-prefs-trending-search-description = Argumentos populares e chircados a s’ispissu
+# "Support" here means to help sustain or contribute to something, especially through funding or sponsorship.
+home-prefs-support-firefox-header =
+    .label = Agiuda a { -brand-product-name }
+home-prefs-mission-message = Is patrotzinadores nostros nos agiudant in sa missione nostra de istantargiare unu web mègius
+home-prefs-mission-message-learn-more-link = Iscoberi comente
 # Variables:
 #   $num (number) - Number of rows displayed
 home-prefs-sections-rows-option =
@@ -714,6 +724,9 @@ search-remove-engine =
 search-add-engine =
     .label = Agiunghe
     .accesskey = A
+search-edit-engine =
+    .label = Modìfica
+    .accesskey = M
 search-find-more-link = Agata àteros motores de chirca
 # This warning is displayed when the chosen keyword is already in use
 # ('Duplicate' is an adjective)
@@ -722,6 +735,13 @@ search-keyword-warning-title = Su faeddu crae esistit giai
 #   $name (string) - Name of a search engine.
 search-keyword-warning-engine = As seberadu unu faeddu crae chi est giai imperadu dae “{ $name }”. Sèbera·nde un'àteru.
 search-keyword-warning-bookmark = As seberadu unu faeddu crae chi est giai imperadu dae unu sinnalibru. Sèbera·nde un'àteru.
+# This warning is displayed when the chosen name is already in use.
+# Variables:
+#   $name (string) - Name of a search engine.
+edit-engine-name-warning-duplicate = Esistit giai unu motore de chirca cun su nòmine “{ $name }”. Sèbera unu nòmine diferente.
+remove-engine-confirmation = Seguru chi boles cantzellare custu motore de chirca?
+remove-engine-remove = Boga
+remove-addon-engine-alert = Pro cantzellare custu motore de chirca, cantzella puru su cumplementu assotziadu.
 
 ## Containers Section
 
@@ -1354,6 +1374,7 @@ collection-header2 = Impreu e collida de datos dae { -brand-short-name }
     .searchkeywords = telemetria
 preferences-collection-description = Nos impinnamus a ti donare sa possibilidade de seberare e regollimus isceti is datos mìnimos pro megiorare { -brand-product-name } pro totus.
 preferences-collection-privacy-notice = Bide s'avisu de riservadesa
+preferences-across-profiles = Custas cunfiguratziones sunt aplicadas a totu is profilos de { -brand-product-name } de custu dispositivu.
 preferences-view-profiles = Ammustra totu is profilos
 collection-description = Chircamus de ti garantire sèberos e de regòllere isceti su chi nos serbit pro sa frunidura e su megioru de { -brand-short-name } pro chie chi siat. Pedimus semper su permissu in antis de retzire informatziones personales.
 collection-privacy-notice = Avisu de riservadesa

@@ -53,14 +53,31 @@ install-search-engine-no = Nono
 add-engine-window =
     .title = Agiunghe unu motore de chirca
     .style = min-width: 32em;
+edit-engine-window =
+    .title = Modìfica su motore de chirca
+    .style = min-width: 32em;
 add-engine-button = Agiunghe unu motore personalizadu
 add-engine-name = Chirca su nòmine de su motore
+add-engine-url2 = URL cun %s imbetzes de su tèrmine de chirca
+add-engine-keyword2 = Crae (optzionale)
+# POST and GET refer to the HTTP methods.
+add-engine-post-data = Datos POST cun %s imbetzes de su tèrmine de chirca (lassa·ddu bòidu pro GET)
+add-engine-suggest-url = URL pro cussìgios cun %s imbetzes de su tèrmine de chirca (optzionale)
 
 ## The following placeholders are shown in the inputs when adding a new engine.
 
+add-engine-name-placeholder =
+    .placeholder = pro es., Mozilla Developer Network
+add-engine-url-placeholder =
+    .placeholder = pro es., https://developer.mozilla.com/search?q=%s
+add-engine-keyword-placeholder =
+    .placeholder = pro es., @mdn
 
 ## The following strings are used as error messages.
 
+add-engine-keyword-exists = Custa crae est giai impreada. Imprea·nde un’àtera.
+add-engine-name-exists = Custu nòmine est giai impreadu. Imprea·nde un’àteru.
+add-engine-no-name = Agiunghe unu nòmine.
 
 ## The following strings are used as labels for the dialog's buttons.
 

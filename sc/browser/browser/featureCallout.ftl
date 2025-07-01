@@ -94,12 +94,21 @@ bookmarks-toolbar-callout-2b-secondary-button-label = No, gràtzias
 
 perplexity-callout-theme-1-title = Ti serbit una risposta lestra?
 perplexity-callout-theme-2-title = Proa Perplexity: una manera noa de chircare
+perplexity-callout-theme-1-subtitle-1 = Proa Perplexity. Sèbera·ddu dae su butone de chirca cando ti serbant rispostas cumpletas e documentadas.
+perplexity-callout-theme-1-subtitle-2 = Faghe preguntas. Otene rispostas cumpletas e documentadas. Pro proare Perplexity, sèbera·ddu dae su butone de chirca.
+perplexity-callout-theme-2-subtitle-1 = Pregunta a Perplexity. As a otènnere rispostas cumpletas e documentadas.
+perplexity-callout-theme-2-subtitle-2 = Faghe preguntas. Otene rispostas cumpletas e documentadas.
 perplexity-callout-primary-label = Pregunta a Perplexity
 perplexity-callout-secondary-label-1 = Iscarta
 perplexity-callout-secondary-label-2 = Apo cumprèndidu
 
 ## Account Adoption Passwords callout strings
 
+# Suggestion to backup passwords by signing up for Mozilla account and using sync
+fxa-adoption-passwords-title = Crae sarvada. Immoe nde faghimus una còpia de seguresa.
+fxa-adoption-passwords-subtitle = Ampara is craes tuas sincronizende·ddas e tzifrende·ddas cun is dispositivos tuos.
+# Opens Mozilla accounts sign-up page
+fxa-adoption-passwords-primary-button-label = Registra·ti
 
 ## Sidebar Strings
 
@@ -124,6 +133,8 @@ sidebar-pins-callout-cta-button = Apica s’ischeda
 
 ## Pinning Tabs Strings
 
+pin-tabs-callout-cta-1-button = Apica custa ischeda
+pin-tabs-callout-2-title = Apica is ischedas chi bìsitas de prus
 
 ## Sidebar Onboarding Strings
 

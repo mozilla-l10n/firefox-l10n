@@ -130,3 +130,11 @@ tab-context-send-tabs-to-device =
            *[other] Imbia { $tabCount } ischedas a unu dispositivu
         }
     .accesskey = m
+tab-context-unload-n-tabs =
+    .label =
+        { $tabCount ->
+            [1] Iscàrriga s’ischeda dae sa memòria
+            [one] Iscàrriga s’ischeda dae sa memòria
+           *[other] Iscàrriga { $tabCount } ischedas dae sa memòria
+        }
+    .accesskey = I

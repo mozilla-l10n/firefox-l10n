@@ -41,6 +41,8 @@ genai-input-ask-provider =
     .placeholder = Pregunta a { $provider }…
 genai-shortcuts-hide =
     .label = Curtzadòrgiu pro cuare su chatbot
+genai-menu-choose-chatbot =
+    .label = Sèbera unu chatbot IA
 
 ## Chatbot header
 
@@ -67,9 +69,11 @@ genai-options-about-chatbot =
 
 ## Chatbot footer
 
+genai-page-button-summarize = Faghe unu resumu de sa pàgina
 
 ## Chatbot onboarding
 
+genai-onboarding-choose-header = Sèbera su chatbot IA chi boles impreare dae sa barra laterale de { -brand-short-name }
 genai-onboarding-primary = Sighi
 genai-onboarding-secondary = Serra
 genai-onboarding-claude-tooltip =
@@ -93,6 +97,12 @@ genai-onboarding-lechat-learn = Àteras informatziones in pitzus de Le Chat
 genai-onboarding-select-header = Seletziona testu pro bìdere cussìgios
 genai-onboarding-select-description = Cando as a seletzionare testu, t’amus a cussigiare inditos chi podes imbiare a su chatbot. Podes iscrìere puru is inditos tuos.
 genai-onboarding-select-primary = Cumintza a tzarrare
+genai-chatbot-contextual-title = Imprea unu chatbot IA chene cambiare de ischeda
+genai-chatbot-contextual-button = Sèbera unu chatbot
+genai-chatbot-summarize-title = Nou! Faghe resumos de is pàginas cun unu clic
+genai-chatbot-summarize-button = Faghe unu resumu de sa pàgina
+# “Summarize Page” should be consistent with the translation for the string genai-menu-summarize-page
+genai-chatbot-summarize-sidebar-provider-subtitle = Incarca cun su butone deretu su chatbot IA dae sa barra laterale e sèbera “Faghe unu resumu de sa pàgina”.
 
 ## Chatbot onboarding choices
 ## These describe features/capabilities of chatbot providers. These are not buttons/actions.
@@ -126,3 +136,15 @@ genai-model-optin-cancel =
 
 ## Link previews
 
+# ‘min’ is short for “minute”
+# ‘mins’ is short for “minutes”
+# An estimate for how long it takes to read an article,
+# expressed as a range covering both slow and fast readers.
+# Variables:
+#   $rangePlural (String): The plural category of the range, using the same set as for numbers.
+#   $range (String): The range of minutes as a localised string. Examples: "3-7", "~1".
+link-preview-reading-time =
+    { $rangePlural ->
+        [one] Tempus de letura de { $range } minutu
+       *[other] Tempus de letura de { $range } minutos
+    }

@@ -8,6 +8,7 @@
 preonboarding-title = Ti donamus su benebènnidu a { -brand-product-name }
 preonboarding-subtitle = Si sighis, atzetas is Cunditziones de su servìtziu de { -brand-product-name } e s’Avisu de riservadesa nostru. Pro agiudare a megiorare su navigadore, { -brand-product-name } imbiat datos de diàgnosi e de interatziones a { -vendor-short-name }.
 preonboarding-primary-cta = Cunfirma e sighi
+preonboarding-primary-cta-v2 = Sighi
 # Labels for header style button that toggles showing the terms of use, privacy notice, and data preferences checklist
 preonboarding-manage-and-read-header = Gesti sa cunfiguratzione de sa regorta de datos e leghe is Cunditziones de su servìtziu nostras e s’Avisu de riservadesa
 preonboarding-manage-and-read-header-v2 = Leghe is Cunditziones de su servìtziu e s’Avisu de riservadesa. Gesti is cunfiguratziones agiuntivas.

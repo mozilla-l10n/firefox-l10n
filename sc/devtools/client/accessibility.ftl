@@ -11,6 +11,8 @@ accessibility-keyboard-header = Tecladu
 
 ## These strings are used in the overlay displayed when running an audit in the accessibility panel
 
+accessibility-progress-initializing = Aviende…
+    .aria-valuetext = Aviende…
 
 ## Text entries that are used as text alternative for icons that depict accessibility issues.
 

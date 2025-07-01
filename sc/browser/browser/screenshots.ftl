@@ -66,6 +66,11 @@ screenshots-component-copy-button-2 = Còpia
 screenshots-component-download-button-2 = Iscàrriga
     .title = Iscàrriga ({ $shortcut })
     .aria-label = Iscàrriga
+# Variables
+#   $shortcut (String) - A keyboard shortcut for the screenshot command.
+screenshot-toolbar-button =
+    .label = Catura de ischermu
+    .tooltiptext = Faghe una catura ({ $shortcut })
 
 ## The below strings are used to capture keydown events so the strings should
 ## not be changed unless the keyboard layout in the locale requires it.

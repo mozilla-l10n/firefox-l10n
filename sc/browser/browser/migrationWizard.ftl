@@ -196,6 +196,12 @@ migration-safari-password-import-step1 = In Safari, aberi su menù “Safari” 
 migration-safari-password-import-step2 = Seletziona su butone <img data-l10n-name="safari-icon-3dots"/> e sèbera “Esporta totu is craes”
 migration-safari-password-import-step3 = Sarva s’archìviu de craes
 migration-safari-password-import-step4 = Imprea “Seletziona archìviu” a bàsciu pro seberare s’archìviu de is craes chi as sarvadu
+migration-chrome-windows-password-import-header = Importatzione de craes dae Chrome
+migration-chrome-windows-password-import-steps-header = Dae Chrome:
+migration-chrome-windows-password-import-step1 = Aberi su menù printzipale <img data-l10n-name="chrome-icon-3dots"/> e bae a Craes e cumpletamentu automàticu (Passwords and Autofill) > Gestore de craes de Google (Google Password Manager).
+migration-chrome-windows-password-import-step2 = Sèbera “Cunfiguratzione” dae su menù.
+migration-chrome-windows-password-import-step3 = Sèbera “Iscàrriga s’archìviu” e sarva·ddu in su dispositivu tuo.
+migration-chrome-windows-password-import-step4 = Torra inoghe e “Seletziona s’archìviu” pro cumpletare s’importatzione.
 migration-manual-password-import-skip-button = Brinca
 migration-manual-password-import-select-button = Seletziona un’archìviu
 migration-safari-password-import-skip-button = Brinca
