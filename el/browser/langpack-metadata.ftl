@@ -9,4 +9,4 @@
 langpack-creator = mozilla.org
 # To credit multiple contributors, use a comma-delimited list.
 # Example: Joe Solon, Suzy Solon
-langpack-contributors = { "" }
+langpack-contributors = Ελληνική ομάδα μεταφραστών της Mozilla

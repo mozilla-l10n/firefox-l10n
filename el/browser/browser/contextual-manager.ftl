@@ -99,7 +99,7 @@ contextual-manager-passwords-export-file-picker-csv-filter-title =
 contextual-manager-passwords-remove-all-title =
     { $total ->
         [1] Αφαίρεση κωδικού πρόσβασης;
-       *[other] Remove all { $total } passwords?
+       *[other] Αφαίρεση και των { $total } κωδικών πρόσβασης;
     }
 # Checkbox label to confirm the removal of saved passwords
 #   $total (number) - Total number of passwords
