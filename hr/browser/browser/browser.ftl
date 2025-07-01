@@ -664,7 +664,7 @@ urlbar-placeholder-with-name =
 urlbar-remote-control-notification-anchor2 =
     .tooltiptext = Preglednik je pod daljinskim upravljanjem (razlog: { $component })
 urlbar-permissions-granted =
-    .tooltiptext = Ovoj stranici odobrene su dodatne dozvole.
+    .tooltiptext = Ovoj su stranici odobrene dodatne dozvole.
 urlbar-switch-to-tab =
     .value = Prijeđi na karticu:
 # Used to indicate that a selected autocomplete entry is provided by an extension.
