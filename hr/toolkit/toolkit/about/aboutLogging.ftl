@@ -15,14 +15,22 @@ about-logging-stop-logging = Zaustavi vođenje zapisnika
 about-logging-info = Informacije:
 about-logging-log-modules-selection = Izbor modula zapisnika
 about-logging-new-log-modules = Novi moduli zapisnika:
+about-logging-with-profiler-stacks-checkbox = Aktiviraj detaljni popis poziva za poruke zapisnika
 
 ## Logging presets
 
 about-logging-preset-networking-label = Mrežno povezivanje
+about-logging-preset-networking-description = Moduli zapisnika za dijagnosticiranje problema s mrežom
 about-logging-preset-networking-cookie-label = Kolačići
+about-logging-preset-networking-cookie-description = Moduli zapisnika za dijagnosticiranje problema s kolačićima
+about-logging-preset-networking-websocket-description = Moduli zapisnika za dijagnosticiranje problema s WebSocket protokolom
 about-logging-preset-networking-http3-label = HTTP/3
+about-logging-preset-networking-http3-description = Moduli zapisnika za dijagnosticiranje problema s HTTP/3 i QUIC protokolima
+about-logging-preset-networking-http3-upload-speed-description = Moduli zapisnika za dijagnosticiranje problema s brzinom prijenosa putem HTTP/3 protokola
 about-logging-preset-media-playback-label = Reprodukcija medija
+about-logging-preset-media-playback-description = Moduli zapisnika za dijagnosticiranje problema s reprodukcijom medija (ne problemi s videokonferencijama)
 about-logging-preset-webrtc-label = WebRTC
+about-logging-preset-webrtc-description = Moduli zapisnika za dijagnosticiranje WebRTC poziva
 about-logging-preset-webgpu-label = WebGPU
 about-logging-preset-gfx-label = Slike
 # This is specifically "Microsoft Windows". Microsoft normally doesn't localize it, and we should follow their convention here.
