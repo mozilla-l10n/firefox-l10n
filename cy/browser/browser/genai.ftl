@@ -99,6 +99,10 @@ genai-shortcuts-selected-warning =
         }
 genai-shortcuts-hide =
     .label = Cuddio llwybr byr sgwrsfot
+genai-menu-no-provider =
+    .label = Gofyn i'r Sgwrsfot AI
+genai-menu-choose-chatbot =
+    .label = Dewis Sgwrsfot
 
 ## Chatbot header
 
@@ -125,6 +129,7 @@ genai-options-about-chatbot =
 
 ## Chatbot footer
 
+genai-page-button-summarize = Crynhoi Tudalen
 
 ## Chatbot onboarding
 
@@ -160,6 +165,14 @@ genai-onboarding-select-primary = Dechrau sgwrsio
 genai-chatbot-contextual-title = Defnyddiwch sgwrsfot AI heb newid tabiau
 genai-chatbot-contextual-subtitle = Sgwrsio a phori ochr yn ochr pan fyddwch chi'n ychwanegu sgwrsfot AI ym mar ochr { -brand-short-name }.
 genai-chatbot-contextual-button = Dewiswch sgwrsfot
+genai-chatbot-summarize-title = Newydd! Crynhoi tudalennau gydag un clic
+genai-chatbot-summarize-button = Crynhoi tudalen
+# “Summarize Page” should be consistent with the translation for the string genai-menu-summarize-page
+genai-chatbot-summarize-sidebar-provider-subtitle = De-glicio ar eich sgwrsfot AI yn y bar ochr a dewis “Crynhoi Tudalen”.
+# “Summarize Page” should be consistent with the translation for the string genai-menu-summarize-page
+genai-chatbot-summarize-sidebar-generic-subtitle = De-glicio ar y botwm pefriog yn y bar ochr a dewis “Crynhoi Tudalen”. Y tro cyntaf, byddwch hefyd yn dewis sgwrsfot AI.
+# “Summarize page” should be consistent with the translation for the string genai-page-button-summarize
+genai-chatbot-summarize-footer-provider-subtitle = Agorwch eich sgwrsfot AI yn y bar ochr a dewis “Crynhoi Tudalen” ar y gwaelod.
 
 ## Chatbot onboarding choices
 ## These describe features/capabilities of chatbot providers. These are not buttons/actions.
