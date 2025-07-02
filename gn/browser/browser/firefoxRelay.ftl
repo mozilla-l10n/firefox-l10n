@@ -71,6 +71,7 @@ firefox-relay-and-fxa-opt-in-confirmation-enable-button-basic-info =
 ## The "with-domain" variation of the Relay offer popup
 
 firefox-relay-and-fxa-popup-notification-header-with-domain = Ereko ñanduti veve rovamo’ãha reigua
+firefox-relay-and-fxa-popup-notification-first-sentence-with-domain = Emo’ã ñe’ẽmondo g̃uahẽha spam-gui eiporúvo <label data-l10n-name="firefox-relay-learn-more-url"> ñanduti veve rovamo’ãha</label> reigua eñomi hag̃ua ñanduti veve tee. Umi ñanduti veve <label data-l10n-name="firefox-fxa-and-relay-offer-domain">ko tenda</label> oikéta ñe’ẽmondo g̃uahẽhápe, katu ñanduti veve ñeñomíme.
 firefox-relay-and-fxa-popup-notification-second-sentence-with-domain = Ñepyrũrã, eñemboheraguapy térã eike ne mba’etépe eiporu hag̃ua ñanduti veve rovamo’ãha
 firefox-relay-and-fxa-opt-in-confirmation-enable-button-with-domain =
     .label = Eñemboheraguapy
@@ -79,6 +80,7 @@ firefox-relay-and-fxa-opt-in-confirmation-enable-button-with-domain =
 ## The "with-domain-and-value-prop" variation of the Relay offer popup
 
 firefox-relay-and-fxa-popup-notification-header-with-domain-and-value-prop = Emo’ã spam ñanduti veve rovamo’ãha reigua ndive
+firefox-relay-and-fxa-popup-notification-first-sentence-with-domain-and-value-prop = Eñemo’ã spam-gui eñomívo ñanduti veve tee <label data-l10n-name="firefox-relay-learn-more-url"> ñanduti veve rovamo’ãha</label> ndive. Og̃uahẽta ñanduti veve <label data-l10n-name="firefox-fxa-and-relay-offer-domain">ko tenda</label> guive ñe’ẽmondo g̃uahẽhápe, katu ñanduti veve hovamo’ãva ndive.
 firefox-relay-and-fxa-popup-notification-second-sentence-with-domain-and-value-prop = Ñepyrũrã, eñemboheraguapy térã eike ne mba’etépe eiporu hag̃ua ñanduti veve rovamo’ãha
 firefox-relay-and-fxa-opt-in-confirmation-enable-button-with-domain-and-value-prop =
     .label = Upeigua
