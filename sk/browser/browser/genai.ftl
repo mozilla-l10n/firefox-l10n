@@ -125,6 +125,7 @@ genai-options-about-chatbot =
 
 ## Chatbot footer
 
+genai-page-button-summarize = Zosumarizuj stránku
 
 ## Chatbot onboarding
 
@@ -160,6 +161,15 @@ genai-onboarding-select-primary = Začnite četovať
 genai-chatbot-contextual-title = Používajte chatbota s umelou inteligenciou bez prepínania kariet
 genai-chatbot-contextual-subtitle = Chatujte a prehliadajte web vedľa seba tak, že si do bočného panela { -brand-short-name(case: "gen") } pridáte chatbota s umelou inteligenciou.
 genai-chatbot-contextual-button = Vyberte si chatbota
+genai-chatbot-summarize-title = Novinka! Zosumarizujte stránky jedným kliknutím
+genai-chatbot-summarize-button = Zosumarizuj stránku
+# “Summarize Page” should be consistent with the translation for the string genai-menu-summarize-page
+genai-chatbot-summarize-sidebar-provider-subtitle = Kliknite pravým tlačidlom myši na svojho chatbota s umelou inteligenciou v bočnom paneli a vyberte možnosť “Zosumarizuj stránku”.
+# “Summarize Page” should be consistent with the translation for the string genai-menu-summarize-page
+genai-chatbot-summarize-sidebar-generic-subtitle = Kliknite pravým tlačidlom myši na tlačidlo s trblietkami na bočnom paneli a vyberte možnosť “Zosumarizuj stránku”. Pri prvom použití si tiež vyberiete chatbota s umelou inteligenciou.
+# “Summarize page” should be consistent with the translation for the string genai-page-button-summarize
+genai-chatbot-summarize-footer-provider-subtitle = Otvorte svojho chatbota s umelou inteligenciou v bočnom paneli a v dolnej časti vyberte možnosť „Zosumarizuj stránku“.
+genai-chatbot-summarize-footer-generic-subtitle = Pridajte do bočného panela { -brand-short-name(case: "gen") } chatbota s umelou inteligenciou, aby ste mohli rýchlo zosumarizovať stránky.
 
 ## Chatbot onboarding choices
 ## These describe features/capabilities of chatbot providers. These are not buttons/actions.

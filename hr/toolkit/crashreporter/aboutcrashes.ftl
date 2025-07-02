@@ -15,6 +15,8 @@ submit-crash-button-label = Pošalji
 # This text is used to replace the label of the crash submit button
 # if the crash submission fails.
 submit-crash-button-failure-label = Neuspješno
+crashes-submitted-label = Poslani izvještaji o prekidu rada programa
 date-submitted-heading = Datum slanja
 view-crash-button-label = Prikaži
-no-config-label = Ovaj program nije podešen za prikazivanje izvještaja o prekidima programa. Postavka <code>breakpad.reportURL</code> mora biti postavljena.
+no-reports-label = Nema poslanih izvještaji o prekidu rada programa.
+no-config-label = Ovaj program nije podešen za prikazivanje izvještaja o prekidima rada programa. Postavka <code>breakpad.reportURL</code> mora biti postavljena.

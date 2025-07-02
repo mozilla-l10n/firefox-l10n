@@ -68,6 +68,7 @@ sidebar-show-on-the-left =
 # hovers over it.
 expand-sidebar-on-hover =
     .label = Po umiestnení kurzora myši rozbaliť bočný panel
+sidebar-manage-extensions = Spravovať rozšírenia
 
 ## Labels for sidebar context menu items
 
