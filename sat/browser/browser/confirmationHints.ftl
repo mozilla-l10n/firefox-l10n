@@ -30,3 +30,5 @@ confirmation-hint-duplicate-tabs-closed =
         [two] { $tabCount } ᱴᱮᱵᱽ ᱠᱤᱱ ᱵᱚᱸᱫ ᱠᱟᱱᱟ
        *[other] { $tabCount } ᱴᱮᱵᱽ ᱠᱚ ᱵᱚᱸᱫ ᱠᱟᱱᱟ
     }
+# Subtle notification shown when Extensions button moves into the application menu.
+confirmation-hint-extensions-button-hidden = ᱢᱩᱪᱟᱹᱫ ᱥᱮᱫ ᱩᱪᱟᱹᱲ ᱢᱮ

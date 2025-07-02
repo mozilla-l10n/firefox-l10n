@@ -11,3 +11,5 @@ clear-data-for-site-cookies = ᱠᱩᱠᱤᱡᱽ ᱟᱨ ᱥᱟᱭᱤᱴ ᱰᱟ�
 clear-data-for-site-cache = ᱠᱮᱪ ᱠᱟᱱ ᱨᱮᱫ ᱠᱚ ᱟᱨ ᱥᱟᱦᱴᱟ ᱠᱚ
 cclear-data-for-site-permissions = ᱟᱹᱭᱫᱟᱹᱨ ᱟᱨ ᱠᱩᱥᱤᱠᱚ
 clear-data-for-site-exceptions = ᱵᱩᱠᱢᱟᱨᱠ ᱟᱨ ᱥᱟᱧᱪᱟᱣ ᱟᱠᱟᱱ ᱯᱟᱥᱣᱟᱨᱰ ᱵᱟᱝ ᱢᱮᱴᱟᱣᱚᱜᱼᱟ
+clear-data-for-site-dialog-accept-button = ᱰᱟᱴᱟ ᱢᱮᱴᱟᱣ ᱢᱮ
+clear-data-for-site-dialog-cancel-button = ᱵᱟᱹᱰᱨᱟᱹ

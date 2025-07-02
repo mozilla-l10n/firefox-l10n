@@ -62,6 +62,7 @@ firefox-relay-offer-legal-notice-control = Eikévo térã emoheñóivo ñanduti 
 ## The "basic-info" variation of the Relay offer popup
 
 firefox-relay-and-fxa-popup-notification-header-basic-info = Emboyke spam ñanduti veve rovamo’ãha reigua ndive
+firefox-relay-and-fxa-popup-notification-first-sentence-basic-info = Emboyke spam eñomívo ne ñanduti veve kundaharape <label data-l10n-name="firefox-relay-learn-more-url"> ñanduti veve rovamo’ãha</label> reiguávandi. Umi ñanduti veve <label data-l10n-name="firefox-fxa-and-relay-offer-domain">ko tenda</label> rehegua oikéta ñe’ẽmondo g̃uahẽhápe, katu ñanduti veve ñeñomíme.
 firefox-relay-and-fxa-popup-notification-second-sentence-basic-info = Ñepyrũrã, eñemboheraguapy térã eike ne mba’etépe eiporu hag̃ua ñanduti veve rovamo’ãha
 firefox-relay-and-fxa-opt-in-confirmation-enable-button-basic-info =
     .label = Eñemboheraguapy

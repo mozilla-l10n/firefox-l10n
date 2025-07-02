@@ -619,6 +619,10 @@ urlbar-search-mode-indicator-close =
 # engine is unknown.
 urlbar-placeholder =
     .placeholder = ᱴᱷᱤᱠᱬᱟᱹ ᱯᱟᱱᱛᱮ ᱟᱨ ᱵᱟᱝ ᱥᱮᱸᱫᱽᱨᱟ
+# This placeholder is used when not in search mode and searching in the urlbar
+# is disabled via the keyword.enabled pref.
+urlbar-placeholder-keyword-disabled =
+    .placeholder = ᱴᱷᱤᱠᱬᱟᱹ ᱥᱟᱯᱲᱟᱣ ᱢᱮ
 # This placeholder is used in search mode with search engines that search the
 # entire web.
 # Variables
@@ -1319,3 +1323,6 @@ file-picker-crashed-show-in-folder =
 ## Onboarding Finish Setup checklist
 
 onboarding-checklist-button-label = ᱥᱮᱴᱟᱯ ᱪᱟᱵᱟᱭ ᱢᱮ
+onboarding-aw-finish-setup-button =
+    .label = ᱥᱮᱴᱟᱯ ᱪᱟᱵᱟᱭ ᱢᱮ
+    .tooltiptext = { -brand-short-name } ᱥᱮᱴᱟᱯ ᱪᱟᱵᱟᱭ ᱢᱮ
