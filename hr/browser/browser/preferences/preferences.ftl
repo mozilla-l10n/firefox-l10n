@@ -1415,7 +1415,7 @@ addon-recommendations-description = Dobij preporuke za proširenja i poboljšaj 
 # or builds with no Telemetry support available.
 collection-health-report-disabled2 = Izvještavanje podataka je deaktivirano za ovu konfiguraciju izgradnje.
 collection-backlogged-crash-reports2 =
-    .label = Automatski šalji izvještaje o prekidu programa
+    .label = Automatski šalji izvještaje o prekidu rada programa
     .accesskey = A
 collection-backlogged-crash-reports-description = To pomaže da { -vendor-short-name } dijagnosticira i riješi probleme s preglednikom. Izvještaji mogu uključivati osobne ili osjetljive podatke.
 addon-recommendations =
@@ -1424,9 +1424,9 @@ addon-recommendations-link = Saznaj više
 # This message is displayed above disabled data sharing options in developer builds
 # or builds with no Telemetry support available.
 collection-health-report-disabled = Izvještaji o podacima su deaktivirani za konfiguraciju za izgradnju
-collection-backlogged-crash-reports-with-link = Dozvoli { -brand-short-name(case: "dat") } slanje zaostalih zapisa o rušenju u tvoje ime <a data-l10n-name="crash-reports-link">Saznaj više</a>
+collection-backlogged-crash-reports-with-link = Dozvoli da { -brand-short-name } pošalje zaostale izvještaje o prekidu rada programa u tvoje ime <a data-l10n-name="crash-reports-link">Saznaj više</a>
     .accesskey = D
-collection-backlogged-crash-reports = Dozvoli { -brand-short-name(case: "dat") } da šalje zaostale zapise o rušenju u tvoje ime
+collection-backlogged-crash-reports = Dozvoli da { -brand-short-name } pošalje zaostale izvještaje o prekidu rada programa u tvoje ime
     .accesskey = D
 privacy-segmentation-section-header = Nove funkcije koje poboljšavaju tvoje pregledavanje interneta
 privacy-segmentation-section-description = Kada nudimo funkcije koje koriste tvoje podatke za pružanje osobnijeg iskustva:

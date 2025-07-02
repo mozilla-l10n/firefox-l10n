@@ -29,5 +29,5 @@ preonboarding-header-button-description = Saznaj više
 # New user onboarding checklist
 preonboarding-checklist-interaction-data-label = Šalji tehničke podatke i podatke o interakciji proizvođaču { -vendor-short-name }
 preonboarding-checklist-interaction-data-description = Podaci o tvom uređaju, hardverskoj konfiguraciji i načinu na koji koristiš { -brand-product-name } pomažu poboljšati funkcije, performansu i stabilnost za sve.
-preonboarding-checklist-crash-reports-label = Automatski šalji izvještaje o prekidu programa
-preonboarding-checklist-crash-reports-description = Izvještaji o prekidu programa nam pomažu dijagnosticirati i riješiti probleme s preglednikom. Izvještaji mogu uključivati osobne ili osjetljive podatke.
+preonboarding-checklist-crash-reports-label = Automatski šalji izvještaje o prekidu rada programa
+preonboarding-checklist-crash-reports-description = Izvještaji o prekidu rada programa nam pomažu dijagnosticirati i riješiti probleme s preglednikom. Izvještaji mogu uključivati osobne ili osjetljive podatke.
