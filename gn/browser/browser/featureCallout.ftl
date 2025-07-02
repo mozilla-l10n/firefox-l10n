@@ -147,6 +147,7 @@ pin-tabs-callout-4-title = Emboja umi tenda ojeikevehague
 ## Sidebar Onboarding Strings
 
 sidebar-customization-callout-1-title = Tenda yke: tembiporu ha tendayke renda
+sidebar-customization-callout-1-subtitle = Pe { -brand-product-name } renda yke ome’ẽ jeike pya’e kundahára rembiasakue, tendayke ambue mba’e’okaygua ha IA chatbot-pe, ejapokuaáva esẽ’ỹre jehechaha guasúgui.
 sidebar-customization-callout-callout-button = Embohéra ta’ãngarupa ykegua
 sidebar-customization-callout-dismiss-button = Eñomi tenda yke
 sidebar-customization-callout-2-title = Eñemomba’e tenda yke { -brand-product-name } mba’évare
