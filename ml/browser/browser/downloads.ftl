@@ -185,6 +185,12 @@ downloads-details =
 
 ## These strings are displayed in the private browsing view of the downloads panel
 
+downloads-private-browsing-delete-button =
+    .label = ഫയലുകൾ തന്നെത്താനെ മായ്ക്കുക
+    .accesskey = ത
+downloads-private-browsing-accept-button =
+    .label = പിടികിട്ടി
+    .accesskey = പ
 
 ## Displayed when a site attempts to automatically download many files.
 ## Variables:
