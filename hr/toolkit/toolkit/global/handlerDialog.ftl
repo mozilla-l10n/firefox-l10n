@@ -10,11 +10,11 @@
 ##  $appName (string) - Name of the application that will be opened.
 ##  $extension (string) - Name of extension that initiated the request
 
-permission-dialog-description = Dopustiti ovoj stranici otvaranje poveznice { $scheme }?
+permission-dialog-description = Dopustiti ovoj stranici otvaranje { $scheme } poveznice?
 permission-dialog-description-file = Dopustiti ovoj datoteci otvaranje poveznice { $scheme }?
 permission-dialog-description-host = Dopustiti { $host } otvaranje poveznice { $scheme }?
 permission-dialog-description-extension = Dopusti dodatku { $extension } da otvara { $scheme } poveznicu?
-permission-dialog-description-app = Dopustiti ovoj stranici otvaranje poveznice { $scheme } aplikacijom { $appName }?
+permission-dialog-description-app = Dopustiti ovoj stranici otvaranje { $scheme } poveznice pomoću aplikacije { $appName }?
 permission-dialog-description-host-app = Dopustiti { $host } otvaranje poveznice { $scheme } aplikacijom { $appName }?
 permission-dialog-description-file-app = Dopustiti ovoj datoteci otvaranje poveznice { $scheme } aplikacijom { $appName }?
 permission-dialog-description-extension-app = Dopustiti proširenju { $extension } da otvori { $scheme } poveznicu s aplikacijom { $appName }?
