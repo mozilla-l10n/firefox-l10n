@@ -136,6 +136,13 @@ sidebar-pins-callout-cta-button = Fijar pestaña
 ## Pinning Tabs Strings
 
 pin-tabs-callout-1-title = Mantén las pestañas importantes a tu alcance
+pin-tabs-callout-1-subtitle = Arrastra una pestaña al inicio de la barra de pestañas para fijarla. O haz clic derecho y selecciona "Fijar pestaña".
+pin-tabs-callout-cta-1-button = Fijar esta pestaña
+pin-tabs-callout-2-title = Fija las pestañas que visitas con más frecuencia
+pin-tabs-callout-2-subtitle = Para fijar una pestaña, arrástrala al inicio de la barra de pestañas. O haz clic derecho y selecciona "Fijar pestaña".
+pin-tabs-callout-cta-2-button = Fijar esta pestaña
+pin-tabs-callout-3-title = Mantén los sitios importantes a tu alcance
+pin-tabs-callout-4-title = Fija los sitios que visitas con más frecuencia
 
 ## Sidebar Onboarding Strings
 
