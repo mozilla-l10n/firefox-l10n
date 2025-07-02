@@ -48,11 +48,11 @@ protections-panel-etp-toggle-off =
 
 protections-panel-not-blocking-why-label = Zašto?
 protections-panel-not-blocking-why-etp-on-tooltip = Blokiranjem ovih elemenata mogu se pokvariti elementi nekih web stranica. Bez programa za praćenje, neki gumbi, obrasci i polja za prijavu možda neće funkcionirati.
-protections-panel-not-blocking-why-etp-off-tooltip = Svi pratitelji na ovoj stranici su učitani iz razloga što su zaštite isključene.
+protections-panel-not-blocking-why-etp-off-tooltip = Svi programi za praćenje na ovoj stranici su učitani jer su zaštite isključene.
 protections-panel-not-blocking-why-etp-on-tooltip-label =
     .label = Blokiranjem ovih elemenata mogu se pokvariti elementi nekih web stranica. Bez programa za praćenje, neki gumbi, obrasci i polja za prijavu možda neće funkcionirati.
 protections-panel-not-blocking-why-etp-off-tooltip-label =
-    .label = Svi pratitelji na ovoj stranici su učitani iz razloga što su zaštite isključene.
+    .label = Svi programi za praćenje na ovoj stranici su učitani jer su zaštite isključene.
 
 ##
 

@@ -114,7 +114,7 @@ cfr-doorhanger-doh-secondary-button = Deaktiviraj
 
 ## Full Video Support CFR message
 
-cfr-doorhanger-video-support-body = Videozapisi na ovoj stranici možda se neće ispravno reproducirati na ovoj { -brand-short-name } verziji. Za potpunu podršku za videozapise, nadogradi { -brand-short-name } sada.
+cfr-doorhanger-video-support-body = Videa na ovoj stranici se možda neće ispravno reproducirati na ovoj { -brand-short-name } verziji. Za potpunu podršku za videa aktualiziraj { -brand-short-name }.
 cfr-doorhanger-video-support-header = Nadogradi { -brand-short-name } za reprodukciju videozapisa
 cfr-doorhanger-video-support-primary-button = Nadogradi sada
     .accesskey = N
