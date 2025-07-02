@@ -34,6 +34,10 @@ contentanalysis-operationtype-clipboard = Zwischenablage
 contentanalysis-operationtype-dropped-text = Hineingezogener Text
 contentanalysis-operationtype-print = Drucken
 #   $filename - The filename associated with the request, such as "aFile.txt"
+contentanalysis-upload-description = { $filename } hochladen
+#   $filename - The filename associated with the request, such as "aFile.txt"
+contentanalysis-download-description = { $filename } herunterladen
+#   $filename - The filename associated with the request, such as "aFile.txt"
 contentanalysis-customdisplaystring-description = Upload von "{ $filename }"
 contentanalysis-warndialogtitle = Dieser Inhalt könnte nicht sicher sein
 # Variables:
