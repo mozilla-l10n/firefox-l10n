@@ -135,7 +135,7 @@ contextual-manager-passwords-remove-all-message-sync =
     }
 contextual-manager-passwords-origin-label = Site web
 # The attribute .data-after describes the text that should be displayed for the ::after pseudo-selector
-contextual-manager-passwords-username-label = Nom d'utilisateur
+contextual-manager-passwords-username-label = Nom d’utilisateur
     .data-after = Copié
 # The attribute .data-after describes the text that should be displayed for the ::after pseudo-selector
 contextual-manager-passwords-password-label = Mot de passe
