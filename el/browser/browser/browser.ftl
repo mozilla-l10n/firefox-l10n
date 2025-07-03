@@ -410,6 +410,10 @@ quickactions-cmd-settings2 = ρυθμίσεις, προτιμήσεις, επι�
 quickactions-cmd-settings = ρυθμίσεις, προτιμήσεις, επιλογές
 # Opens about:addons page in the themes section
 quickactions-themes = Διαχείριση θεμάτων
+# In English we provide multiple spellings for "add-ons". If that's not
+# applicable to your language, only use the correct spelling (don't repeat the
+# same word).
+quickactions-cmd-themes2 = θέματα, πρόσθετα
 quickactions-cmd-themes = θέματα
 # Opens a SUMO article explaining how to update the browser
 quickactions-update = Ενημέρωση του { -brand-short-name }
@@ -811,6 +815,8 @@ urlbar-searchmode-actions =
     .label = Ενέργειες
 urlbar-searchmode-exit-button =
     .tooltiptext = Κλείσιμο
+urlbar-searchmode-default =
+    .tooltiptext = Προεπιλεγμένη μηχανή αναζήτησης
 # Label shown on the top of Searchmode Switcher popup. After this label, the
 # available search engines will be listed.
 urlbar-searchmode-popup-description = Αυτήν τη φορά αναζήτηση με:

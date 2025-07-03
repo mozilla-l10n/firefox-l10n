@@ -146,11 +146,13 @@ perftools-presets-web-developer-description = Προτεινόμενη προε�
 perftools-presets-firefox-label = { -brand-shorter-name }
 perftools-presets-firefox-description = Προτεινόμενη προεπιλογή για την καταγραφή προφίλ στο { -brand-shorter-name }.
 perftools-presets-graphics-label = Γραφικά
-perftools-presets-graphics-description = Προτεινόμενη προεπιλογή για τη διερεύνηση σφαλμάτων γραφικών στο { -brand-shorter-name }.
+perftools-presets-graphics-description = Προεπιλογή για τη διερεύνηση σφαλμάτων γραφικών στο { -brand-shorter-name }.
 perftools-presets-media-label = Πολυμέσα
-perftools-presets-media-description2 = Προτεινόμενη προεπιλογή για τη διερεύνηση σφαλμάτων ήχου και βίντεο στο { -brand-shorter-name }.
+perftools-presets-media-description2 = Προεπιλογή για τη διερεύνηση σφαλμάτων ήχου και βίντεο στο { -brand-shorter-name }.
+perftools-presets-ml-label = Μηχανική μάθηση
+perftools-presets-ml-description2 = Προεπιλογή για τη διερεύνηση σφαλμάτων μηχανικής μάθησης στο { -brand-shorter-name }.
 perftools-presets-networking-label = Δικτύωση
-perftools-presets-networking-description = Προτεινόμενη προεπιλογή για τη διερεύνηση σφαλμάτων δικτύωσης στο { -brand-shorter-name }.
+perftools-presets-networking-description = Προεπιλογή για τη διερεύνηση σφαλμάτων δικτύωσης στο { -brand-shorter-name }.
 # "Power" is used in the sense of energy (electricity used by the computer).
 perftools-presets-power-label = Ενέργεια
 perftools-presets-power-description = Προκαθορισμένη ρύθμιση για τη διερεύνηση σφαλμάτων χρήσης ενέργειας στο { -brand-shorter-name }, με μικρή επιβάρυνση.

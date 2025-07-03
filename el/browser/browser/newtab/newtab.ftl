@@ -582,3 +582,5 @@ newtab-trending-searches-hide-trending =
     .title = Απόκρυψη δημοφιλών αναζητήσεων
 newtab-trending-searches-learn-more = Μάθετε περισσότερα
 newtab-trending-searches-dismiss = Απόκρυψη δημοφιλών αναζητήσεων
+# "Trending searches refers to popular searches from search engines
+newtab-trending-searches-title = Δημοφιλείς αναζητήσεις
