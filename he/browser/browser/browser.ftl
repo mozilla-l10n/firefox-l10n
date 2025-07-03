@@ -410,6 +410,10 @@ quickactions-cmd-settings2 = הגדרות, העדפות, אפשרויות, ני�
 quickactions-cmd-settings = הגדרות, העדפות, אפשרויות
 # Opens about:addons page in the themes section
 quickactions-themes = ניהול ערכות נושא
+# In English we provide multiple spellings for "add-ons". If that's not
+# applicable to your language, only use the correct spelling (don't repeat the
+# same word).
+quickactions-cmd-themes2 = ערכות נושא, תוספות, הרחבות
 quickactions-cmd-themes = ערכות נושא
 # Opens a SUMO article explaining how to update the browser
 quickactions-update = עדכון { -brand-short-name }
@@ -811,6 +815,8 @@ urlbar-searchmode-actions =
     .label = פעולות
 urlbar-searchmode-exit-button =
     .tooltiptext = סגירה
+urlbar-searchmode-default =
+    .tooltiptext = מנוע חיפוש ברירת מחדל
 # Label shown on the top of Searchmode Switcher popup. After this label, the
 # available search engines will be listed.
 urlbar-searchmode-popup-description = הפעם לחפש באמצעות:
