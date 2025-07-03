@@ -410,6 +410,10 @@ quickactions-cmd-settings2 = nastajenja, zastojaś
 quickactions-cmd-settings = nastajenja
 # Opens about:addons page in the themes section
 quickactions-themes = Drastwy zastojaś
+# In English we provide multiple spellings for "add-ons". If that's not
+# applicable to your language, only use the correct spelling (don't repeat the
+# same word).
+quickactions-cmd-themes2 = drastwy, dodanki
 quickactions-cmd-themes = drastwy
 # Opens a SUMO article explaining how to update the browser
 quickactions-update = { -brand-short-name } aktualizěrowaś
@@ -822,6 +826,8 @@ urlbar-searchmode-actions =
     .label = Akcije
 urlbar-searchmode-exit-button =
     .tooltiptext = Zacyniś
+urlbar-searchmode-default =
+    .tooltiptext = Standardna pytnica
 # Label shown on the top of Searchmode Switcher popup. After this label, the
 # available search engines will be listed.
 urlbar-searchmode-popup-description = Tenraz pytaś z:

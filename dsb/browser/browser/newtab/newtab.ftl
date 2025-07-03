@@ -584,3 +584,5 @@ newtab-trending-searches-hide-trending =
     .title = Woblubowane pytanja schowaś
 newtab-trending-searches-learn-more = Dalšne informacije
 newtab-trending-searches-dismiss = Woblubowane pytanja schowaś
+# "Trending searches refers to popular searches from search engines
+newtab-trending-searches-title = Woblubowane pytanja
