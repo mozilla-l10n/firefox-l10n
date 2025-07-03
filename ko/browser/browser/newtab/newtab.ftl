@@ -581,3 +581,5 @@ newtab-trending-searches-hide-trending =
     .title = 인기 검색어 숨기기
 newtab-trending-searches-learn-more = 더 알아보기
 newtab-trending-searches-dismiss = 인기 검색어 숨기기
+# "Trending searches refers to popular searches from search engines
+newtab-trending-searches-title = 인기 검색어

@@ -410,6 +410,10 @@ quickactions-cmd-settings2 = settings, preferences, options, manage, 설정, 옵
 quickactions-cmd-settings = 설정, 옵션, settings, preferences, options
 # Opens about:addons page in the themes section
 quickactions-themes = 테마 관리
+# In English we provide multiple spellings for "add-ons". If that's not
+# applicable to your language, only use the correct spelling (don't repeat the
+# same word).
+quickactions-cmd-themes2 = themes, add-ons, addons, 테마, 부가 기능
 quickactions-cmd-themes = 테마, themes
 # Opens a SUMO article explaining how to update the browser
 quickactions-update = { -brand-short-name } 업데이트
@@ -807,6 +811,8 @@ urlbar-searchmode-actions =
     .label = 작업
 urlbar-searchmode-exit-button =
     .tooltiptext = 닫기
+urlbar-searchmode-default =
+    .tooltiptext = 기본 검색 엔진
 # Label shown on the top of Searchmode Switcher popup. After this label, the
 # available search engines will be listed.
 urlbar-searchmode-popup-description = 이번만 검색:

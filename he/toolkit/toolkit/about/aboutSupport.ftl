@@ -172,6 +172,8 @@ media-codec-support-info = מידע על תמיכה במקודדים
 
 media-codec-support-sw-decoding = קידוד תוכנה
 media-codec-support-hw-decoding = קידוד חומרה
+media-codec-support-sw-encoding = קידוד תוכנה
+media-codec-support-hw-encoding = קידוד חומרה
 media-codec-support-codec-name = שם קודק
 media-codec-support-supported = נתמך
 media-codec-support-unsupported = לא נתמך
