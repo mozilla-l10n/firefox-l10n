@@ -80,6 +80,7 @@ deniedPortAccess-title = Indiritzu restrintu
 # "Hmm" is a sound made when considering or puzzling over something.
 # You don't have to include it in your translation if your language does not have a written word like this.
 dnsNotFound-title = No renessimus a agatare custu situ.
+internet-connection-offline-title = Paret chi nch’est unu problema cun sa connessione tua a internet.
 fileNotFound-title = Archìviu no agatadu
 fileAccessDenied-title = Atzessu denegadu a s'archìviu
 generic-title = Oia.
@@ -94,6 +95,8 @@ contentEncodingError-title = Faddina de codìfica de su cuntenutu
 unsafeContentType-title = Genia de archìviu non segura
 netReset-title = Connessione torrada a aviare
 netTimeout-title = Tempus pro sa connessione iscadidu
+httpErrorPage-title = Paret chi nch’est unu problema cun custu situ
+serverError-title = Paret chi nch’est unu problema cun custu situ
 unknownProtocolFound-title = Impossìbile interpretare s'indiritzu
 proxyConnectFailure-title = Su serbidore intermediàriu est refudende connessiones
 proxyResolveFailure-title = Impossìbile agatare su serbidore intermediàriu
@@ -113,6 +116,7 @@ certerror-mitm-title = Unu programma est evitende chi { -brand-short-name } si c
 
 ## Felt Privacy V1 Strings
 
+fp-certerror-what-can-you-do = Ite nche podes fàghere?
 
 ## Variables:
 ##   $hostname (String) - Hostname of the website to which the user was trying to connect.
