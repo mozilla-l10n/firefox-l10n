@@ -583,3 +583,5 @@ newtab-trending-searches-hide-trending =
     .title = Скрыть популярные поисковые запросы
 newtab-trending-searches-learn-more = Узнать больше
 newtab-trending-searches-dismiss = Скрыть популярные поисковые запросы
+# "Trending searches refers to popular searches from search engines
+newtab-trending-searches-title = Популярные поисковые запросы

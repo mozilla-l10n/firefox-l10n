@@ -264,6 +264,10 @@ menu-profiles-manage-profiles =
     .label = Управление профилями
 menu-profiles-new-profile =
     .label = Новый профиль
+# Variables:
+#  $profileName (String): the name of the users profile
+menu-profiles-current =
+    .label = { $profileName } (текущий)
 
 ## Tools Menu
 

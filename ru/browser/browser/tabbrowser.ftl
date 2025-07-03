@@ -305,6 +305,8 @@ tab-context-move-tab-to-group =
            *[many] Добавить вкладки в группу
         }
     .accesskey = п
+tab-context-move-tab-to-group-saved-groups =
+    .label = Закрытые группы
 tab-group-editor-action-new-tab =
     .label = Новая вкладка в группе
 tab-group-editor-action-new-window =
