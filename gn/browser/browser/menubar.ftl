@@ -263,6 +263,10 @@ menu-profiles-manage-profiles =
     .label = Mba’etekuéra ñangareko
 menu-profiles-new-profile =
     .label = Mba’ete pyahu
+# Variables:
+#  $profileName (String): the name of the users profile
+menu-profiles-current =
+    .label = { $profileName } (ag̃agua)
 
 ## Tools Menu
 
