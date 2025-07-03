@@ -410,6 +410,10 @@ quickactions-cmd-settings2 = inställningar, alternativ, hantera
 quickactions-cmd-settings = inställningar, alternativ
 # Opens about:addons page in the themes section
 quickactions-themes = Hantera teman
+# In English we provide multiple spellings for "add-ons". If that's not
+# applicable to your language, only use the correct spelling (don't repeat the
+# same word).
+quickactions-cmd-themes2 = teman, tillägg, tillägg
 quickactions-cmd-themes = teman
 # Opens a SUMO article explaining how to update the browser
 quickactions-update = Uppdatera { -brand-short-name }
@@ -811,6 +815,8 @@ urlbar-searchmode-actions =
     .label = Åtgärder
 urlbar-searchmode-exit-button =
     .tooltiptext = Stäng
+urlbar-searchmode-default =
+    .tooltiptext = Standardsökmotor
 # Label shown on the top of Searchmode Switcher popup. After this label, the
 # available search engines will be listed.
 urlbar-searchmode-popup-description = Denna gång, sök med:

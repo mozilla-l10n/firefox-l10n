@@ -277,6 +277,8 @@ tab-context-move-tab-to-group =
            *[other] Lägg till flikar i grupp
         }
     .accesskey = g
+tab-context-move-tab-to-group-saved-groups =
+    .label = Slutna grupper
 tab-group-editor-action-new-tab =
     .label = Ny flik i grupp
 tab-group-editor-action-new-window =

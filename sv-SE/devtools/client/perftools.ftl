@@ -149,6 +149,8 @@ perftools-presets-graphics-label = Grafik
 perftools-presets-graphics-description = Förinställd för att undersöka grafikbuggar i { -brand-shorter-name }.
 perftools-presets-media-label = Media
 perftools-presets-media-description2 = Förinställd för att undersöka ljud- och videobuggar i { -brand-shorter-name }.
+perftools-presets-ml-label = Maskininlärning
+perftools-presets-ml-description2 = Förinställd för att undersöka maskininlärningsbuggar i { -brand-shorter-name }.
 perftools-presets-networking-label = Nätverk
 perftools-presets-networking-description = Förinställd för att undersöka ljud- och videobuggar i { -brand-shorter-name }.
 # "Power" is used in the sense of energy (electricity used by the computer).
