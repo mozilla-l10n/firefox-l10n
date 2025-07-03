@@ -50,6 +50,10 @@ neterror-dns-not-found-hint-header = <strong>Si as insertadu s'indiritzu giustu,
 neterror-dns-not-found-hint-try-again = Torra·nche a proare prus tardu
 neterror-dns-not-found-hint-check-network = Controllare sa connessione a sa rete
 neterror-dns-not-found-hint-firewall = Controllare chi { -brand-short-name } tèngiat su permissu de atzèdere a sa rete (mancari su dispositivu siat connessu, però a palas de unu firewall)
+neterror-dns-not-found-offline-hint-header = <strong>Ite nche podes fàghere?</strong>
+neterror-dns-not-found-offline-hint-different-device = Proa a ti connètere dae un’àteru dispositivu.
+neterror-dns-not-found-offline-hint-modem = Controlla su modem o su router tuos.
+neterror-dns-not-found-offline-hint-reconnect = Disconnete e torra a connètere su Wi-Fi.
 
 ## TRR-only specific messages
 ## Variables:

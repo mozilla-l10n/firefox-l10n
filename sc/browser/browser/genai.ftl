@@ -19,6 +19,26 @@ genai-settings-chat-localhost-links = Imprea su chatbot privadu tuo in locale, c
 ## have character restrictions and being direct reduces the chance for misinterpretation.
 ## When localizing, please be concise and direct, but not at the expense of losing meaning.
 
+# Prompt purpose: help users understand what a selection covers at a glance
+genai-prompts-summarize =
+    .label = Resumina
+    .value = Resumina su testu marcadu impreende unu linguàgiu istrintu e pretzisu. Imprea intestadas e listas puntadas in su resùmene de manera chi siat prus fàtzile a lèghere. Mantene su sinnificu e su contivìgiu.
+# Prompt purpose: make a selection easier to read
+genai-prompts-simplify =
+    .label = Simplìfica su linguàgiu
+    .value = Torra a iscrìere su testu marcadu impreende fràsias curtzas e faeddos simpres. Mantene su sinnificu e su contivìgiu.
+# Prompt purpose: test understanding of selection in an interactive way
+genai-prompts-quiz =
+    .label = Domanda·mi
+    .value = Domanda·mi in contu de su testu marcadu. Faghe·mi vàrios tipos de pregunta, comente su sèberu mùltiplu, beru-farsu e risposta curtza. Abeta sa risposta in antis de andare a sa pregunta imbeniente.
+# Prompt purpose: helps users understand words, phrases, concepts
+genai-prompts-explain =
+    .label = Isprica·ddu
+    .value = Isprica is cuntzetos de importu in su testu marcadu impreende faeddos simpres. Imprea fintzas esempros.
+# Prompt purpose: writing tool that helps users with spelling and grammar mistakes and produce a response that identifies errors and rewrites the inputted text correctly
+genai-prompts-proofread =
+    .label = Averìgua su testu
+    .value = Chirca faddinas de ortografia e grammàtica in su testu marcadu. Identìfica is faddinas e fruni una versione arrangiada de su testu. Mantene su sinnificu e su contivìgiu. Ammustra sa lista de arrangiamentos in antis e sa versione intrea arrangiada a pustis.
 # This prompt is added to the beginning of selection prompts sent to a chatbot.
 # $tabTitle (string) - title of the webpage
 # $selection (string) - selected text
@@ -31,16 +51,48 @@ genai-menu-ask-generic =
 # $provider (string) - name of the provider
 genai-menu-ask-provider =
     .label = Pregunta a { $provider }
+genai-menu-open-generic =
+    .label = Aberi su chatbot IA
+# $provider (string) - name of the provider
+genai-menu-open-provider =
+    .label = Aberi { $provider }
+genai-menu-remove-generic =
+    .label = Boga su chatbot IA
 # $provider (string) - name of the provider
 genai-menu-remove-provider =
     .label = Cantzella { $provider }
+genai-menu-remove-sidebar =
+    .label = Boga dae sa barra laterale
+genai-menu-new-badge = Nou
+genai-menu-summarize-page = Resumina sa pàgina
 genai-input-ask-generic =
     .placeholder = Pregunta a su Chatbot IA...
 # $provider (string) - name of the provider
 genai-input-ask-provider =
     .placeholder = Pregunta a { $provider }…
+# $selectionLength (number) - selected text length
+# $maxLength (number) - max length of what can be selected
+genai-shortcuts-selected-warning-generic =
+    .heading = Su chatbot IA no at a retzire totu su testu
+    .message =
+        { $selectionLength ->
+            [one] As seberadu { $selectionLength } caràtere. Su màssimu chi faghet a imbiare est { $maxLength }.
+           *[other] As seberadu { $selectionLength } caràteres. Su màssimu chi faghet a imbiare est { $maxLength }.
+        }
+# $provider (string) - name of the provider
+# $selectionLength (number) - selected text length
+# $maxLength (number) - max length of what can be selected
+genai-shortcuts-selected-warning =
+    .heading = { $provider } no at a retzire totu su testu
+    .message =
+        { $selectionLength ->
+            [one] As seberadu { $selectionLength } caràtere. Su màssimu chi faghet a imbiare a { $provider } est { $maxLength }.
+           *[other] As seberadu { $selectionLength } caràteres. Su màssimu chi faghet a imbiare a { $provider } est { $maxLength }.
+        }
 genai-shortcuts-hide =
     .label = Curtzadòrgiu pro cuare su chatbot
+genai-menu-no-provider =
+    .label = Pregunta a unu chatbot IA
 genai-menu-choose-chatbot =
     .label = Sèbera unu chatbot IA
 
@@ -73,7 +125,12 @@ genai-page-button-summarize = Faghe unu resumu de sa pàgina
 
 ## Chatbot onboarding
 
+genai-onboarding-header = Resumina, gènera ideas e prus mentres nàvigas
 genai-onboarding-choose-header = Sèbera su chatbot IA chi boles impreare dae sa barra laterale de { -brand-short-name }
+# "Switch anytime" refers to allowing the user to switch to a different chatbot.
+genai-onboarding-description = Sèbera unu chatbot de impreare in sa barra laterale de { -brand-short-name }. T'amus a ammustrare detàllios in contu de onni chatbot cando ddu sèberas. Càmbia in cale si siat momentu. <a data-l10n-name="learn-more">Iscoberi de prus</a>
+# "Switch anytime" refers to allowing the user to switch to a different chatbot.
+genai-onboarding-choose-description = Càmbia in cale si siat momentu. Pro agiudu a seberare, <a data-l10n-name="learn-more">iscoberi de prus a subra de onni chatbot</a>.
 genai-onboarding-primary = Sighi
 genai-onboarding-secondary = Serra
 genai-onboarding-claude-tooltip =
@@ -98,6 +155,7 @@ genai-onboarding-select-header = Seletziona testu pro bìdere cussìgios
 genai-onboarding-select-description = Cando as a seletzionare testu, t’amus a cussigiare inditos chi podes imbiare a su chatbot. Podes iscrìere puru is inditos tuos.
 genai-onboarding-select-primary = Cumintza a tzarrare
 genai-chatbot-contextual-title = Imprea unu chatbot IA chene cambiare de ischeda
+genai-chatbot-contextual-subtitle = Arresona e nàviga acòstias a pare cando agiunghes unu chatbot IA a sa barra laterale de { -brand-short-name }.
 genai-chatbot-contextual-button = Sèbera unu chatbot
 genai-chatbot-summarize-title = Nou! Faghe resumos de is pàginas cun unu clic
 genai-chatbot-summarize-button = Faghe unu resumu de sa pàgina
