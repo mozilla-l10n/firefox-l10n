@@ -305,6 +305,8 @@ tab-context-move-tab-to-group =
            *[other] Dodaj kartice u grupu
         }
     .accesskey = k
+tab-context-move-tab-to-group-saved-groups =
+    .label = Zatvorene grupe
 tab-group-editor-action-new-tab =
     .label = Nova kartica u grupi
 tab-group-editor-action-new-window =
