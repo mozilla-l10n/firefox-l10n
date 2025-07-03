@@ -279,6 +279,8 @@ tab-context-move-tab-to-group =
            *[other] Añadir pestañas a un grupo
         }
     .accesskey = G
+tab-context-move-tab-to-group-saved-groups =
+    .label = Grupos cerrados
 tab-group-editor-action-new-tab =
     .label = Nueva pestaña en el grupo
 tab-group-editor-action-new-window =

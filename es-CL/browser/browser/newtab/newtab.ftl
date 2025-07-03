@@ -578,3 +578,5 @@ newtab-trending-searches-hide-trending =
     .title = Ocultar búsquedas de tendencia
 newtab-trending-searches-learn-more = Aprender más
 newtab-trending-searches-dismiss = Ocultar búsquedas de tendencia
+# "Trending searches refers to popular searches from search engines
+newtab-trending-searches-title = Tendencias de búsquedas

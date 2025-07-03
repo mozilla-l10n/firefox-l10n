@@ -149,6 +149,8 @@ perftools-presets-graphics-label = Gráficos
 perftools-presets-graphics-description = Ajustes para investigar fallos gráficos en { -brand-shorter-name }.
 perftools-presets-media-label = Medios
 perftools-presets-media-description2 = Ajustes para investigar fallos de audio y video en { -brand-shorter-name }.
+perftools-presets-ml-label = Machine Learning
+perftools-presets-ml-description2 = Ajustes para investigar fallos de Machine Learning en { -brand-shorter-name }.
 perftools-presets-networking-label = Red
 perftools-presets-networking-description = Ajustes para investigar fallos de red en { -brand-shorter-name }.
 # "Power" is used in the sense of energy (electricity used by the computer).
