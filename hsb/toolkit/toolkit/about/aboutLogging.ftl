@@ -50,6 +50,7 @@ about-logging-preset-webrtc-label = WebRTC
 about-logging-preset-webrtc-description = Module za diagnosticěrowanje problemow z WebRTC protokolować
 about-logging-preset-webcodecs-label = WebCodecs
 about-logging-preset-webcodecs-description = Module protokolować, zo bychu so problemy z decoderami a encoderami awdio/widejo WebCodecs a wobrazowe decodery diagnosticěrowali
+about-logging-preset-ml-label = Mašinelne wuknjenje
 about-logging-preset-webgpu-label = WebGPU
 about-logging-preset-webgpu-description = Protokolowe module za diagnosticěrowanje problemow WebGPU
 about-logging-preset-gfx-label = Grafika

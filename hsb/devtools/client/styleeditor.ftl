@@ -56,3 +56,7 @@ styleeditor-pretty-print-button =
 # Title for the pretty print button in the editor footer, when it's disabled
 styleeditor-pretty-print-button-disabled =
     .title = Móže jenož CSS-dataje spodobnje formatěrować
+# Title for the pretty print button in the editor footer, when it's disabled because
+# the stylesheet is read-only
+styleeditor-pretty-print-button-disabled-read-only =
+    .title = Přeciwo pisanju škitana stilowa předłoha njeda so formatěrować.

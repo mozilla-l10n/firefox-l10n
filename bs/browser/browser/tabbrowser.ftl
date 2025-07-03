@@ -300,6 +300,8 @@ tab-context-move-tab-to-group =
            *[other] Dodaj tabova u grupu
         }
     .accesskey = G
+tab-context-move-tab-to-group-saved-groups =
+    .label = Zatvorene grupe
 tab-group-editor-action-new-tab =
     .label = Novi tab u grupi
 tab-group-editor-action-new-window =

@@ -583,3 +583,5 @@ newtab-trending-searches-hide-trending =
     .title = Sakrij popularne pretrage
 newtab-trending-searches-learn-more = Saznajte više
 newtab-trending-searches-dismiss = Sakrij popularne pretrage
+# "Trending searches refers to popular searches from search engines
+newtab-trending-searches-title = Popularne pretrage

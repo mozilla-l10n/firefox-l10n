@@ -410,6 +410,10 @@ quickactions-cmd-settings2 = postavke, preferencije, opcije, upravljanje
 quickactions-cmd-settings = postavke, lične postavke, mogućnosti
 # Opens about:addons page in the themes section
 quickactions-themes = Upravljaj temama
+# In English we provide multiple spellings for "add-ons". If that's not
+# applicable to your language, only use the correct spelling (don't repeat the
+# same word).
+quickactions-cmd-themes2 = teme, dodaci, dodaci
 quickactions-cmd-themes = teme
 # Opens a SUMO article explaining how to update the browser
 quickactions-update = Ažuriraj { -brand-short-name }
@@ -819,6 +823,8 @@ urlbar-searchmode-actions =
     .label = Radnje
 urlbar-searchmode-exit-button =
     .tooltiptext = Zatvori
+urlbar-searchmode-default =
+    .tooltiptext = Glavni pretraživač
 # Label shown on the top of Searchmode Switcher popup. After this label, the
 # available search engines will be listed.
 urlbar-searchmode-popup-description = Ovaj put traži sa:

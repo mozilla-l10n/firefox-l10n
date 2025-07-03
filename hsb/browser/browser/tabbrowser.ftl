@@ -317,6 +317,8 @@ tab-context-move-tab-to-group =
            *[other] Skupinje { $tabCount } rajtarkow přidać
         }
     .accesskey = S
+tab-context-move-tab-to-group-saved-groups =
+    .label = Začinjene skupiny
 tab-group-editor-action-new-tab =
     .label = Nowy rajtark w skupinje
 tab-group-editor-action-new-window =
