@@ -149,6 +149,8 @@ perftools-presets-graphics-label = Grafika
 perftools-presets-graphics-description = Preset za istraživanje grafičkih grešaka u { -brand-shorter-name }u.
 perftools-presets-media-label = Mediji
 perftools-presets-media-description2 = Unaprijed postavljen za istraživanje audio i video grešaka u { -brand-shorter-name }u.
+perftools-presets-ml-label = Mašinsko učenje
+perftools-presets-ml-description2 = Unaprijed postavljeno za istraživanje grešaka u mašinskom učenju u { -brand-shorter-name }u.
 perftools-presets-networking-label = Umrežavanje
 perftools-presets-networking-description = Unaprijed postavljen za istraživanje grešaka u mreži u { -brand-shorter-name }u.
 # "Power" is used in the sense of energy (electricity used by the computer).

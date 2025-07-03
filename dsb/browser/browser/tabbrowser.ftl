@@ -317,6 +317,8 @@ tab-context-move-tab-to-group =
            *[other] Kupce { $tabCount } rejtarikow pśidaś
         }
     .accesskey = K
+tab-context-move-tab-to-group-saved-groups =
+    .label = Zacynjone kupki
 tab-group-editor-action-new-tab =
     .label = Nowy rejtarik w kupce
 tab-group-editor-action-new-window =
