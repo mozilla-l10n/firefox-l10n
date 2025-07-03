@@ -251,6 +251,8 @@ tab-context-move-tab-to-group =
            *[other] 그룹에 탭 추가
         }
     .accesskey = G
+tab-context-move-tab-to-group-saved-groups =
+    .label = 닫힌 그룹
 tab-group-editor-action-new-tab =
     .label = 그룹에 새 탭
 tab-group-editor-action-new-window =

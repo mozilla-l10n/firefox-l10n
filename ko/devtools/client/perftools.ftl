@@ -149,6 +149,8 @@ perftools-presets-graphics-label = 그래픽
 perftools-presets-graphics-description = { -brand-shorter-name }의 그래픽 버그를 조사하기 위한 프리셋입니다.
 perftools-presets-media-label = 미디어
 perftools-presets-media-description2 = { -brand-shorter-name }의 오디오 및 비디오 버그를 조사하기 위한 프리셋입니다.
+perftools-presets-ml-label = 기계 학습
+perftools-presets-ml-description2 = { -brand-shorter-name }의 기계 학습 버그를 조사하기 위한 프리셋입니다.
 perftools-presets-networking-label = 네트워킹
 perftools-presets-networking-description = { -brand-shorter-name }의 네트워킹 버그를 조사하기 위한 프리셋입니다.
 # "Power" is used in the sense of energy (electricity used by the computer).

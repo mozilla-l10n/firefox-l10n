@@ -50,3 +50,7 @@ styleeditor-pretty-print-button =
 # Title for the pretty print button in the editor footer, when it's disabled
 styleeditor-pretty-print-button-disabled =
     .title = CSS 파일만 예쁘게 출력할 수 있음
+# Title for the pretty print button in the editor footer, when it's disabled because
+# the stylesheet is read-only
+styleeditor-pretty-print-button-disabled-read-only =
+    .title = 읽기 전용 스타일 시트를 예쁘게 출력할 수 없습니다.
