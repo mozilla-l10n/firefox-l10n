@@ -410,6 +410,10 @@ quickactions-cmd-settings2 = 設定, 偏好設定, 選項, 管理, settings, pre
 quickactions-cmd-settings = 設定, 偏好設定, 選項, settings, preferences, options
 # Opens about:addons page in the themes section
 quickactions-themes = 管理佈景主題
+# In English we provide multiple spellings for "add-ons". If that's not
+# applicable to your language, only use the correct spelling (don't repeat the
+# same word).
+quickactions-cmd-themes2 = 佈景主題, 附加元件, 套件, 外掛, themes, add-ons, addons
 quickactions-cmd-themes = 佈景主題, themes
 # Opens a SUMO article explaining how to update the browser
 quickactions-update = 更新 { -brand-short-name }
@@ -811,6 +815,8 @@ urlbar-searchmode-actions =
     .label = 動作
 urlbar-searchmode-exit-button =
     .tooltiptext = 關閉
+urlbar-searchmode-default =
+    .tooltiptext = 預設搜尋引擎
 # Label shown on the top of Searchmode Switcher popup. After this label, the
 # available search engines will be listed.
 urlbar-searchmode-popup-description = 這次使用下列搜尋引擎搜尋：

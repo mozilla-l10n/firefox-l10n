@@ -142,6 +142,8 @@ perftools-presets-graphics-label = 圖形
 perftools-presets-graphics-description = 於 { -brand-shorter-name } 診斷圖形 Bug 時的預設值。
 perftools-presets-media-label = 媒體
 perftools-presets-media-description2 = 於 { -brand-shorter-name } 診斷影音 Bug 時的預設值。
+perftools-presets-ml-label = 機器學習
+perftools-presets-ml-description2 = 於 { -brand-shorter-name } 診斷機器學習 Bug 時的預設值。
 perftools-presets-networking-label = 網路連線
 perftools-presets-networking-description = 於 { -brand-shorter-name } 診斷網路連線 Bug 時的預設值。
 # "Power" is used in the sense of energy (electricity used by the computer).

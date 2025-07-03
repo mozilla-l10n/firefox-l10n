@@ -578,3 +578,5 @@ newtab-trending-searches-hide-trending =
     .title = 隱藏熱門搜尋主題
 newtab-trending-searches-learn-more = 更多資訊
 newtab-trending-searches-dismiss = 隱藏熱門搜尋主題
+# "Trending searches refers to popular searches from search engines
+newtab-trending-searches-title = 熱門搜尋

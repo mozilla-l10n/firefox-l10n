@@ -249,6 +249,8 @@ tab-context-move-tab-to-group =
            *[other] 將分頁加入至群組
         }
     .accesskey = G
+tab-context-move-tab-to-group-saved-groups =
+    .label = 關閉的群組
 tab-group-editor-action-new-tab =
     .label = 在群組中開啟新分頁
 tab-group-editor-action-new-window =
