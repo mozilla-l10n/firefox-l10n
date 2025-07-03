@@ -582,3 +582,5 @@ newtab-trending-searches-hide-trending =
     .title = Aktuell beliebte Suchanfragen ausblenden
 newtab-trending-searches-learn-more = Weitere Informationen
 newtab-trending-searches-dismiss = Aktuell beliebte Suchanfragen ausblenden
+# "Trending searches refers to popular searches from search engines
+newtab-trending-searches-title = Aktuell beliebte Suchanfragen
