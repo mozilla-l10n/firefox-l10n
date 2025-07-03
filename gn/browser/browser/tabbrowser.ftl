@@ -280,6 +280,8 @@ tab-context-move-tab-to-group =
            *[other] Embojuapy tendaykekuéra atýpe
         }
     .accesskey = G
+tab-context-move-tab-to-group-saved-groups =
+    .label = Aty ñembotypýpa
 tab-group-editor-action-new-tab =
     .label = Tendayke pyahu atýpe
 tab-group-editor-action-new-window =

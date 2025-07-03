@@ -581,3 +581,5 @@ newtab-trending-searches-hide-trending =
     .title = Eñomi jeheka ojejapovéva
 newtab-trending-searches-learn-more = Eikuaave
 newtab-trending-searches-dismiss = Eñomi jeheka ojejapovéva
+# "Trending searches refers to popular searches from search engines
+newtab-trending-searches-title = Jeheka ojejapovéva
