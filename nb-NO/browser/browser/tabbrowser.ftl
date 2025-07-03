@@ -279,6 +279,8 @@ tab-context-move-tab-to-group =
            *[other] Legg til faner i gruppen
         }
     .accesskey = g
+tab-context-move-tab-to-group-saved-groups =
+    .label = Lukkede grupper
 tab-group-editor-action-new-tab =
     .label = Ny fane i gruppe
 tab-group-editor-action-new-window =
