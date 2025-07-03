@@ -51,6 +51,7 @@ about-logging-preset-webrtc-description = Modulos de registration pro diagnostic
 about-logging-preset-webcodecs-label = WebCodecs
 about-logging-preset-webcodecs-description = Modulos de registro pro diagnosticar problemas con le decodificatores e codificatores audio/video de WebCodecs, e con le decodificatores de imagines
 about-logging-preset-ml-label = Apprendimento automatic
+about-logging-preset-ml-description = Modulos de registro pro diagnosticar problemas de apprendimento automatic
 about-logging-preset-webgpu-label = WebGPU
 about-logging-preset-webgpu-description = Modulos de registration pro diagnosticar problemas de WebGPU
 about-logging-preset-gfx-label = Graphica

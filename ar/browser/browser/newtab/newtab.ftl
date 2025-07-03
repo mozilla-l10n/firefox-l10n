@@ -131,6 +131,8 @@ newtab-menu-section-unfollow = ألغِ متابعة الموضوع
 
 ## Context menu options for sponsored stories and new ad formats on New Tab.
 
+newtab-menu-manage-sponsored-content = أدر المحتوى المموّل
+newtab-menu-our-sponsors-and-your-privacy = ممولّينا وخصوصيتك
 newtab-menu-report-this-ad = أبلغ عن هذا الإعلان
 
 ## Message displayed in a modal window to explain privacy and provide context for sponsored content.
@@ -189,6 +191,8 @@ newtab-label-sponsored-by = برعاية { $sponsor }
 #   $source (string) - The name of a company or their domain
 #   $timeToRead (number) - The estimated number of minutes to read this story
 newtab-label-source-read-time = { $source } · { $timeToRead } دقيقة
+# This string is used under fixed size ads to indicate sponsored content
+newtab-label-sponsored-fixed = مموّل
 
 ## Section Menu: These strings are displayed in the section context menu and are
 ## meant as a call to action for the given section.
@@ -383,6 +387,8 @@ newtab-weather-menu-weather-display = عرض الطقس
 # - Detailed: Include simple information plus a short text summary: e.g. "Mostly cloudy"
 newtab-weather-menu-weather-display-option-simple = بسيط
 newtab-weather-menu-weather-display-option-detailed = مفصل
+newtab-weather-menu-change-weather-display-detailed = بدّل إلى العرض التفصيلي
+newtab-weather-menu-temperature-option-celsius = درجة مئوية
 newtab-weather-menu-learn-more = اطّلع على المزيد
 
 ## Topic Labels

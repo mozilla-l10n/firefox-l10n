@@ -410,6 +410,10 @@ quickactions-cmd-settings2 = parametros, preferentias, optiones, gerer
 quickactions-cmd-settings = parametros
 # Opens about:addons page in the themes section
 quickactions-themes = Gerer themas
+# In English we provide multiple spellings for "add-ons". If that's not
+# applicable to your language, only use the correct spelling (don't repeat the
+# same word).
+quickactions-cmd-themes2 = themas, additivos
 quickactions-cmd-themes = themas
 # Opens a SUMO article explaining how to update the browser
 quickactions-update = Actualisar { -brand-short-name }
