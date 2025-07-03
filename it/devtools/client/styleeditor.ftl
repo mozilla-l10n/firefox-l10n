@@ -58,3 +58,4 @@ styleeditor-pretty-print-button-disabled =
 # the stylesheet is read-only
 styleeditor-pretty-print-button-disabled-read-only =
     .title = Impossibile formattare un foglio di stile in sola lettura.
+
