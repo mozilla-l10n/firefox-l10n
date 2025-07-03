@@ -107,6 +107,8 @@ perftools-presets-graphics-label = Graphics
 perftools-presets-graphics-description = ערכה לחקירת באגים גרפיים ב־{ -brand-shorter-name }.
 perftools-presets-media-label = Media
 perftools-presets-media-description2 = ערכה לחקירת באגים בשמע ווידאו ב־{ -brand-shorter-name }.
+perftools-presets-ml-label = למידת מכונה
+perftools-presets-ml-description2 = ערכה לחקירת באגים של למידת מכונה ב־{ -brand-shorter-name }.
 perftools-presets-networking-label = Networking
 perftools-presets-networking-description = ערכה לחקירת באגים של רשת או תקשורת ב־{ -brand-shorter-name }.
 # "Power" is used in the sense of energy (electricity used by the computer).

@@ -277,6 +277,8 @@ tab-context-move-tab-to-group =
            *[other] הוספת לשוניות לקבוצה
         }
     .accesskey = ק
+tab-context-move-tab-to-group-saved-groups =
+    .label = קבוצות סגורות
 tab-group-editor-action-new-tab =
     .label = לשונית חדשה בקבוצה
 tab-group-editor-action-new-window =
