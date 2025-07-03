@@ -277,6 +277,8 @@ tab-context-move-tab-to-group =
            *[other] Adder schedas gruppo
         }
     .accesskey = g
+tab-context-move-tab-to-group-saved-groups =
+    .label = Gruppos claudite
 tab-group-editor-action-new-tab =
     .label = Nove scheda in gruppo
 tab-group-editor-action-new-window =

@@ -578,3 +578,5 @@ newtab-trending-searches-hide-trending =
     .title = Celar recercas popular
 newtab-trending-searches-learn-more = Pro saper plus
 newtab-trending-searches-dismiss = Celar recercas popular
+# "Trending searches refers to popular searches from search engines
+newtab-trending-searches-title = Recercas popular

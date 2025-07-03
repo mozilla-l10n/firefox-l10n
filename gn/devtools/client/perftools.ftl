@@ -149,6 +149,7 @@ perftools-presets-graphics-label = Ta’ãnga
 perftools-presets-graphics-description = Oñemoĩva ohapykuerereka hag̃ua mba’epu ha ta’ãngamýi { -brand-shorter-name }.
 perftools-presets-media-label = Momaranduha
 perftools-presets-media-description2 = Oñemoĩva ohapykuerereka hag̃ua mba’epu ha ta’ãngamýi { -brand-shorter-name }.
+perftools-presets-ml-label = Kuaarã Ijeheguíva
 perftools-presets-networking-label = Pyha
 perftools-presets-networking-description = Oñemoĩva ohapykuereka hag̃ua pyha apañuái { -brand-shorter-name }-pe.
 # "Power" is used in the sense of energy (electricity used by the computer).
