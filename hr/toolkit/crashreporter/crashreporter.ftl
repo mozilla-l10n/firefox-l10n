@@ -2,12 +2,12 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-crashreporter-branded-title = { -brand-short-name } podnositelj izvještaja o prekidu rada programa
+crashreporter-branded-title = { -brand-short-name } izvjestitelj o prekidu rada programa
 crashreporter-apology = Oprosti
 crashreporter-crashed-and-restore = { -brand-short-name } je imao problem i prekinuo je rad. Pokušat ćemo obnoviti tvoje kartice i prozore kada se ponovo pokrene.
 crashreporter-plea = Pomogni nam ispraviti problem slanjem izvještaja o prekidu rada programa.
 crashreporter-information = Ovaj se program pokreće nakon prekida rada programa kako bi { -vendor-short-name } primio informacije o problemu. Ne bi se trebao izravno pokretati.
-crashreporter-error = { -brand-short-name } je imao problem i prekinuo je raditi. Nažalost, podnositelj izvještaja o prekidu rada programa ne može poslati izvještaj za ovaj prekid rada programa.
+crashreporter-error = { -brand-short-name } je imao problem i prekinuo je raditi. Nažalost, izvjestitelj o prekidu rada programa ne može poslati izvještaj za ovaj prekid rada programa.
 crashreporter-error-details-header = Detalji:
 # $details (String) - the reason that a crash report cannot be submitted
 crashreporter-error-details = Detaljji: { $details }
