@@ -55,7 +55,7 @@ neterror-dns-not-found-hint-try-again = Retentar plus tarde
 neterror-dns-not-found-hint-check-network = Verificar tu connexion al rete
 neterror-dns-not-found-hint-firewall = Verificar que { -brand-short-name } ha permission pro acceder al web (tu poterea esser connectite, ma detra un firewall)
 neterror-dns-not-found-offline-hint-header = <strong>Que pote tu facer pro resolver?</strong>
-neterror-dns-not-found-offline-hint-different-device = Tenta connecter te sur un differente apparato.
+neterror-dns-not-found-offline-hint-different-device = Tenta connecter te sur un altere apparato.
 neterror-dns-not-found-offline-hint-modem = Verifica tu modem o router.
 neterror-dns-not-found-offline-hint-reconnect = Disconnecte te e reconnecte te a Wi-Fi.
 
