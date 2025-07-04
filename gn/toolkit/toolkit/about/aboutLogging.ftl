@@ -50,6 +50,7 @@ about-logging-preset-webrtc-label = WebRTC
 about-logging-preset-webrtc-description = Mboheraguapy ra’ãha ehecha hag̃ua WebRTC apañuái
 about-logging-preset-webcodecs-label = WebCodecs
 about-logging-preset-ml-label = Kuaarã Ijeheguíva
+about-logging-preset-ml-description = Mboheraguapy ra’ãha ehecha hag̃ua kuaarã ijeheguíva apañuái
 about-logging-preset-webgpu-label = WebGPU
 about-logging-preset-webgpu-description = Mboheraguapy ra’ãha ehecha hag̃ua WebGPU apañuái
 about-logging-preset-gfx-label = Ta’ãnga
