@@ -583,4 +583,4 @@ newtab-trending-searches-hide-trending =
 newtab-trending-searches-learn-more = Läs mer
 newtab-trending-searches-dismiss = Dölj trendiga sökningar
 # "Trending searches refers to popular searches from search engines
-newtab-trending-searches-title = Trendiga sökningar
+newtab-trending-searches-title = Populära sökningar

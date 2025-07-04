@@ -413,7 +413,7 @@ quickactions-themes = Hantera teman
 # In English we provide multiple spellings for "add-ons". If that's not
 # applicable to your language, only use the correct spelling (don't repeat the
 # same word).
-quickactions-cmd-themes2 = teman, tillägg, tillägg
+quickactions-cmd-themes2 = teman, tillägg
 quickactions-cmd-themes = teman
 # Opens a SUMO article explaining how to update the browser
 quickactions-update = Uppdatera { -brand-short-name }
