@@ -54,7 +54,7 @@ cert-error-code-prefix-link = Codice de error: <a data-l10n-name="error-code-lin
 # Variables:
 #   $hostname (string) - Hostname of the website with SSL error.
 #   $errorMessage (string) - Error message corresponding to the type of error we are experiencing.
-cert-error-ssl-connection-error = Un error occurreva durante un connexion a { $hostname }. { $errorMessage }
+cert-error-ssl-connection-error = Un error ha occurrite durante un connexion a { $hostname }. { $errorMessage }
 # Variables:
 #   $hostname (string) - Hostname of the website with cert error.
 cert-error-symantec-distrust-description = Le sitos web garanti lor identitate per certificatos, le quales es emittite per autoritates de certification. Le major parte del navigatores non confide plus in le certificatos emittite per GeoTrust, RapidSSL, Symantec, Thawte e VeriSign. { $hostname } usa un certificato de un de iste autoritates. Consequentemente, le identitate del sito web non pote esser garantite.
