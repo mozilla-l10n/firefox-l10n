@@ -68,6 +68,11 @@ sync-account-in-use-description = Ko mba’ete ojuajukuaa pe mba’etee ndive ko
 # Dialog 2 - account signed in on another profile with merge option
 sync-account-already-signed-in-header = Ko mba’ete oñepyrũ tembiapo ambue mba’eteépe. ¿Embojuehe mokõivéva mba’etee?
 # Variables:
+#   $acctEmail (String) - Email of the account signing into sync.
+#   $currentProfile (String): Name of the current profile signing in
+#   $otherProfile (String): Name of the profile that is already signed in
+sync-account-in-use-description-merge = { $acctEmail } omoñepyrũ tembiapo “{ $otherProfile }” mba’ete ko mohendahapegua. Embojuehévo “{ $currentProfile }” mba’ete ombojoajuetéta umi mba’ekuaarã mokõivéva mba’etépe, taha’e ñe’ẽñemi ha techaukaha.
+# Variables:
 #   $profileName (String) - Name of the profile to switch to
 sync-button-switch-profile = Emombue “{ $profileName }”-pe
 sync-button-create-profile = Emoheñói mba’etee pyahu
