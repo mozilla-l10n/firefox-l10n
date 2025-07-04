@@ -72,6 +72,7 @@ firefox-relay-and-fxa-opt-in-confirmation-enable-button-basic-info =
 
 firefox-relay-and-fxa-popup-notification-header-with-domain = Ottieni un alias di posta elettronica gratuito
 firefox-relay-and-fxa-popup-notification-first-sentence-with-domain = Proteggi la tua casella di posta dallo spam utilizzando un <label data-l10n-name="firefox-relay-learn-more-url">alias di posta elettronica</label> per nascondere il tuo indirizzo reale. Le email da <label data-l10n-name="firefox-fxa-and-relay-offer-domain">questo sito</label> continueranno ad arrivare nella tua casella di posta, ma il tuo indirizzo email rimarrà al sicuro.
+firefox-relay-and-fxa-popup-notification-first-sentence = Proteggi la tua casella di posta dallo spam utilizzando un <label data-l10n-name="firefox-relay-learn-more-url">alias di posta elettronica { -relay-brand-name }</label> per nascondere il tuo indirizzo reale. Le email da <label data-l10n-name="firefox-fxa-and-relay-offer-domain">questo sito</label> continueranno ad arrivare nella tua casella di posta, ma il tuo indirizzo email rimarrà al sicuro.
 firefox-relay-and-fxa-popup-notification-second-sentence-with-domain = Per prima cosa registrati o accedi al tuo account per utilizzare un alias di posta elettronica
 firefox-relay-and-fxa-opt-in-confirmation-enable-button-with-domain =
     .label = Registrati
