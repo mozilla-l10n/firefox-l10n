@@ -341,6 +341,8 @@ tab-context-move-tab-to-group =
            *[other] Ychwanegu Tabiau i Grŵp
         }
     .accesskey = G
+tab-context-move-tab-to-group-saved-groups =
+    .label = Grwpiau Caeedig
 tab-group-editor-action-new-tab =
     .label = Tab newydd yn y grŵp
 tab-group-editor-action-new-window =

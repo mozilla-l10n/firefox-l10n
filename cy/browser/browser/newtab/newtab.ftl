@@ -587,3 +587,5 @@ newtab-trending-searches-hide-trending =
     .title = Cuddio'r tuedd chwilio
 newtab-trending-searches-learn-more = Dysgu rhagor
 newtab-trending-searches-dismiss = Cuddio'r tuedd chwilio
+# "Trending searches refers to popular searches from search engines
+newtab-trending-searches-title = Tueddiadau chwilio

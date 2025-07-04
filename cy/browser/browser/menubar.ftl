@@ -267,6 +267,10 @@ menu-profiles-manage-profiles =
     .label = Rheoli proffiliau
 menu-profiles-new-profile =
     .label = Proffil newydd
+# Variables:
+#  $profileName (String): the name of the users profile
+menu-profiles-current =
+    .label = { $profileName } (cyfredol)
 
 ## Tools Menu
 

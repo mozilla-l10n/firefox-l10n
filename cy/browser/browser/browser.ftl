@@ -410,6 +410,10 @@ quickactions-cmd-settings2 = gosodiadau, dewisiadau, opsiynau, rheoli
 quickactions-cmd-settings = gosodiadau, dewisiadau, opsiynau
 # Opens about:addons page in the themes section
 quickactions-themes = Rheoli themâu
+# In English we provide multiple spellings for "add-ons". If that's not
+# applicable to your language, only use the correct spelling (don't repeat the
+# same word).
+quickactions-cmd-themes2 = themâu, ychwanegion, ategion
 quickactions-cmd-themes = themâu
 # Opens a SUMO article explaining how to update the browser
 quickactions-update = Diweddaru { -brand-short-name }
@@ -830,6 +834,8 @@ urlbar-searchmode-actions =
     .label = Gweithredoedd
 urlbar-searchmode-exit-button =
     .tooltiptext = Cau
+urlbar-searchmode-default =
+    .tooltiptext = Peiriant chwilio rhagosodedig
 # Label shown on the top of Searchmode Switcher popup. After this label, the
 # available search engines will be listed.
 urlbar-searchmode-popup-description = Y tro hwn, chwilio gyda:
