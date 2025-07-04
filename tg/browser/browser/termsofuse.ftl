@@ -7,3 +7,5 @@
 
 # Text for secondary button linking to FAQ page
 existing-user-tou-learn-more = Маълумоти бештар
+# Text for primary button
+existing-user-tou-accept = Қабул кардан
