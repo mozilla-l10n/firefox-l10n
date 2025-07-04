@@ -196,6 +196,7 @@ profiler-popup-presets-graphics-label =
 profiler-popup-presets-media-description2 = Προεπιλογή για τη διερεύνηση σφαλμάτων ήχου και βίντεο στο { -brand-shorter-name }.
 profiler-popup-presets-media-label =
     .label = Πολυμέσα
+profiler-popup-presets-ml-description = Προεπιλογή για τη διερεύνηση σφαλμάτων μηχανικής μάθησης στο { -brand-shorter-name }.
 profiler-popup-presets-ml-label =
     .label = Μηχανική μάθηση
 profiler-popup-presets-networking-description = Προεπιλογή για τη διερεύνηση σφαλμάτων δικτύωσης στο { -brand-shorter-name }.
