@@ -91,7 +91,7 @@ add-engine-missing-terms-post-data = Essayez de mettre %s à la place de l’exp
 # buttonlabelextra1 is the label of a button to open the advanced section
 # of the dialog.
 add-engine-dialog2 =
-    .buttonlabelaccept = Ajouter un moteur
+    .buttonlabelaccept = Ajouter le moteur
     .buttonaccesskeyaccept = A
     .buttonlabelextra1 = Avancé
 # buttonlabelextra1 is the label of a button to open the advanced section
