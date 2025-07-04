@@ -160,6 +160,8 @@ genai-chatbot-summarize-title = ¡Pyahu! Emombyky kuatiarogue peteĩ jekutúpe
 genai-chatbot-summarize-button = Emombyky kuatiarogue
 # “Summarize Page” should be consistent with the translation for the string genai-menu-summarize-page
 genai-chatbot-summarize-sidebar-provider-subtitle = Eikutu akatúa IA chatbot tenda ykegua ha eiporavo “Kuatiarogue mombyky”.
+# “Summarize Page” should be consistent with the translation for the string genai-menu-summarize-page
+genai-chatbot-summarize-sidebar-generic-subtitle = Eikutu atatúa gotyo pe votõ hendýva tenda yképe ha eiporavo " Kuatiarogue mombyky". Peteĩhápe, avei oiporavóta chatbot IA.
 # “Summarize page” should be consistent with the translation for the string genai-page-button-summarize
 genai-chatbot-summarize-footer-provider-subtitle = Embojuruja IA chatbot tenda ykegua ha eiporavo “Kuatiarogue mombyky” oĩva yvy gotyo.
 genai-chatbot-summarize-footer-generic-subtitle = Embojuaju IA chatbot { -brand-short-name } renda ykére emombyky hag̃ua umi kuatiarogue.

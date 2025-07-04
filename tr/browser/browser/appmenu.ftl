@@ -196,6 +196,7 @@ profiler-popup-presets-graphics-label =
 profiler-popup-presets-media-description2 = { -brand-shorter-name } tarayıcısında ses ve video hatalarını araştırma ayarı.
 profiler-popup-presets-media-label =
     .label = Ortam
+profiler-popup-presets-ml-description = { -brand-shorter-name } tarayıcısında makine öğrenimi hatalarını araştırma ayarı.
 profiler-popup-presets-networking-description = { -brand-shorter-name } tarayıcısında ağ hatalarını araştırma ayarı.
 profiler-popup-presets-networking-label =
     .label = Ağ

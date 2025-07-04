@@ -578,3 +578,5 @@ newtab-trending-searches-hide-trending =
     .title = Arama trendlerini gizle
 newtab-trending-searches-learn-more = Daha fazla bilgi al
 newtab-trending-searches-dismiss = Arama trendlerini gizle
+# "Trending searches refers to popular searches from search engines
+newtab-trending-searches-title = Gündemdeki aramalar

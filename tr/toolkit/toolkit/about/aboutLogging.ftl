@@ -52,6 +52,7 @@ about-logging-preset-webrtc-label = WebRTC
 about-logging-preset-webrtc-description = WebRTC çağrılarını teşhis etmeye yönelik log modülleri
 about-logging-preset-webcodecs-label = WebCodecs
 about-logging-preset-webcodecs-description = WebCodecs ses/video çözücüleri, kodlayıcıları ve görüntü çözücüleriyle ilgili sorunları teşhis etmeye yönelik log modülleri
+about-logging-preset-ml-description = Makine öğrenimi sorunlarını teşhis etmeye yönelik log modülleri
 about-logging-preset-webgpu-label = WebGPU
 about-logging-preset-webgpu-description = WebGPU sorunlarını teşhis etmeye yönelik log modülleri
 about-logging-preset-gfx-label = Grafik

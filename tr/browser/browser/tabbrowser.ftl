@@ -289,6 +289,8 @@ tab-context-move-tab-to-group =
            *[other] Sekmeleri gruba ekle
         }
     .accesskey = S
+tab-context-move-tab-to-group-saved-groups =
+    .label = Kapalı gruplar
 tab-group-editor-action-new-tab =
     .label = Grupta yeni sekme
 tab-group-editor-action-new-window =
