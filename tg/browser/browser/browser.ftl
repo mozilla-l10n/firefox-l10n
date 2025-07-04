@@ -410,6 +410,10 @@ quickactions-cmd-settings2 = танзимот, хусусиятҳо, имкон�
 quickactions-cmd-settings = танзимот, хусусиятҳо, имконот
 # Opens about:addons page in the themes section
 quickactions-themes = Идоракунии мавзуъҳо
+# In English we provide multiple spellings for "add-ons". If that's not
+# applicable to your language, only use the correct spelling (don't repeat the
+# same word).
+quickactions-cmd-themes2 = мавзуъҳо, ҷузъҳои иловагӣ
 quickactions-cmd-themes = мавзуъҳо
 # Opens a SUMO article explaining how to update the browser
 quickactions-update = Навсозӣ кардани «{ -brand-short-name }»

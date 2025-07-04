@@ -146,6 +146,7 @@ perftools-presets-graphics-description = Танзимот барои тафти�
 perftools-presets-media-label = Расона
 perftools-presets-media-description2 = Танзимот барои тафтиши хатоҳои аудио ва видео дар { -brand-shorter-name }.
 perftools-presets-ml-label = Омӯзиши мошинӣ
+perftools-presets-ml-description2 = Танзимот барои тафтиши хатоҳои омӯзиши мошинӣ дар «{ -brand-shorter-name }».
 perftools-presets-networking-label = Шабакасозӣ
 perftools-presets-networking-description = Танзимот барои тафтиши хатоҳои шабакасозӣ дар { -brand-shorter-name }.
 # "Power" is used in the sense of energy (electricity used by the computer).

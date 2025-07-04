@@ -53,6 +53,7 @@ about-logging-preset-webrtc-description = Модулҳои сабти рӯйдо
 about-logging-preset-webcodecs-label = WebCodecs
 about-logging-preset-webcodecs-description = Модулҳои сабти рӯйдодҳо барои ташхиси масъалаҳои марбут ба василаҳои рамзёбӣ ва рамзгузории аудио/видеои «WebCodecs» ва василаҳои рамзёбии тасвирҳо
 about-logging-preset-ml-label = Омӯзиши мошинӣ
+about-logging-preset-ml-description = Модулҳои сабти рӯйдодҳо барои ташхиси масъалаҳои омӯзиши мошинӣ
 about-logging-preset-webgpu-label = WebGPU
 about-logging-preset-webgpu-description = Модулҳои сабти рӯйдодҳо барои ташхиси масъалаҳои «WebGPU»
 about-logging-preset-gfx-label = Графика
