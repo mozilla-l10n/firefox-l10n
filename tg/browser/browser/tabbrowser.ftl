@@ -279,6 +279,8 @@ tab-context-move-tab-to-group =
            *[other] Илова кардани варақаҳо ба гурӯҳ
         }
     .accesskey = Г
+tab-context-move-tab-to-group-saved-groups =
+    .label = Гурӯҳҳои пӯшида
 tab-group-editor-action-new-tab =
     .label = Варақаи нав дар гурӯҳ
 tab-group-editor-action-new-window =

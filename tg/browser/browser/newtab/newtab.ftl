@@ -580,3 +580,5 @@ newtab-trending-searches-hide-trending =
     .title = Пинҳон кардани ҷустуҷӯҳои ҳавасангез
 newtab-trending-searches-learn-more = Маълумоти бештар
 newtab-trending-searches-dismiss = Пинҳон кардани ҷустуҷӯҳои ҳавасангез
+# "Trending searches refers to popular searches from search engines
+newtab-trending-searches-title = Ҷустуҷӯҳои ҳавасангез

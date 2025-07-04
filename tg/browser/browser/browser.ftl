@@ -811,6 +811,8 @@ urlbar-searchmode-actions =
     .label = Амалҳо
 urlbar-searchmode-exit-button =
     .tooltiptext = Пӯшидан
+urlbar-searchmode-default =
+    .tooltiptext = Низоми ҷустуҷӯии пешфарз
 # Label shown on the top of Searchmode Switcher popup. After this label, the
 # available search engines will be listed.
 urlbar-searchmode-popup-description = Ин дафъа бо зерин ҷустуҷӯ кунед:

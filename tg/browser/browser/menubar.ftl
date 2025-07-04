@@ -262,6 +262,10 @@ menu-profiles-manage-profiles =
     .label = Идоракунии профилҳо
 menu-profiles-new-profile =
     .label = Профили нав
+# Variables:
+#  $profileName (String): the name of the users profile
+menu-profiles-current =
+    .label = { $profileName } (ҷорӣ)
 
 ## Tools Menu
 
