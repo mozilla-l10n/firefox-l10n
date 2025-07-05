@@ -249,6 +249,8 @@ tab-context-move-tab-to-group =
            *[other] 将标签页添加到群组
         }
     .accesskey = G
+tab-context-move-tab-to-group-saved-groups =
+    .label = 已关闭的群组
 tab-group-editor-action-new-tab =
     .label = 在群组中新建标签页
 tab-group-editor-action-new-window =
