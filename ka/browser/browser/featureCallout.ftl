@@ -136,6 +136,13 @@ sidebar-pins-callout-cta-button = ჩანართის მიმაგრე
 ## Pinning Tabs Strings
 
 pin-tabs-callout-1-title = მნიშვნელოვანი ჩანართები მუდამ თან იქონიეთ
+pin-tabs-callout-1-subtitle = ჩანართი მისამაგრებლად ჩავლებით გადაიტანეთ ჩანართის ზოლზე. ანდაც მარჯვენა წკაპით აირჩიეთ ჩანართის მიმაგრება.
+pin-tabs-callout-cta-1-button = ამ ჩანართის მიმაგრება
+pin-tabs-callout-2-title = მიამაგრეთ ჩანართები, რომელთაც ხშირად სტუმრობთ
+pin-tabs-callout-2-subtitle = მისამაგრებლად ნებისმიერი ჩანართი ჩავლებით გადაიტანეთ ჩანართის ზოლზე. ანდაც მარჯვენა წკაპით აირჩიეთ ჩანართის მიმაგრება.
+pin-tabs-callout-cta-2-button = ამ ჩანართის მიმაგრება
+pin-tabs-callout-3-title = მნიშვნელოვანი საიტები მუდამ თან იქონიეთ
+pin-tabs-callout-4-title = მიამაგრეთ საიტები, რომელთაც ხშირად სტუმრობთ
 
 ## Sidebar Onboarding Strings
 

@@ -68,6 +68,7 @@ sidebar-show-on-the-left =
 # hovers over it.
 expand-sidebar-on-hover =
     .label = გვერდითი ზოლის გაშლა მაჩვენებლის გადატარებისას
+sidebar-manage-extensions = გაფართოებების მართვა
 
 ## Labels for sidebar context menu items
 
@@ -101,6 +102,10 @@ sidebar-context-menu-customize-sidebar =
 #   $deviceName (String) - The name of the device the user is closing a tab for
 sidebar-context-menu-close-remote-tab =
     .label = ჩანართის დახურვა – { $deviceName }
+sidebar-context-menu-remove-extension2 =
+    .label = მოიცილებს { -brand-short-name }
+sidebar-context-menu-unpin-extension =
+    .label = მოცილება გვერდითი ზოლიდან
 
 ## Labels for sidebar history context menu items
 

@@ -299,8 +299,8 @@ tab-context-reopen-tab-group =
 tab-context-ungroup-tab =
     .label =
         { $groupCount ->
-            [one] ჯგუფიდან მოცილება
-           *[other] ჯგუფებიდან მოცილება
+            [one] მოცილება ჯგუფიდან
+           *[other] მოცილება ჯგუფებიდან
         }
     .accesskey = ც
 

@@ -158,7 +158,7 @@ newtab-menu-bookmark = ჩანიშვნა
 
 newtab-menu-copy-download-link = ჩამოტვირთვის ბმულის ასლი
 newtab-menu-go-to-download-page = გადასვლა ჩამოტვირთვის გვერდზე
-newtab-menu-remove-download = ისტორიიდან ამოშლა
+newtab-menu-remove-download = მოცილება ისტორიიდან
 
 ## Context Menu - Download Menu: These are platform specific strings found in the context menu of an item that has
 ## been downloaded. The intention behind "this action" is that it will show where the downloaded file exists on the file
@@ -503,6 +503,8 @@ newtab-topic-selection-button-pick-interests = აირციეთ მის�
 newtab-section-follow-button = თვალის მიდევნება
 newtab-section-following-button = გამოწერილი
 newtab-section-unfollow-button = თვალის მიდევნების შეწყვეტა
+# A modal may appear next to the Follow button, directing users to try out the feature
+newtab-section-follow-highlight-title = გააუმჯობესეთ თქვენი არხი
 
 ## Button to block/unblock listed topics
 ## "Block", "unblocked", and "blocked" are social media terms that refer to hiding a section of stories.

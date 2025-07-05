@@ -204,6 +204,7 @@ contextual-manager-passwords-no-username-heading-and-message =
     .heading = მომხმარებლის დამატება
     .message = დაამატეთ სწრაფად შესვლისთვის.
 contextual-manager-passwords-add-username-button = მომხმარებლის დამატება
+contextual-manager-passwords-title = პაროლები
 
 ## Login Form
 
@@ -266,6 +267,22 @@ contextual-manager-view-alert-heading =
     .heading = ცნობის ნახვა
 contextual-manager-view-alert-button =
     .tooltiptext = ცნობის გადახედვა
+# Variables
+#   $count (number) - The number of active alerts associated with the login
+contextual-manager-view-alert-heading-2 =
+    .heading =
+        { $count ->
+            [one] ცნობის ნახვა
+           *[other] ცნობების ნახვა
+        }
+# Variables
+#   $count (number) - The number of active alerts associated with the login
+contextual-manager-view-alert-button-2 =
+    .tooltiptext =
+        { $count ->
+            [one] ცნობის გადახედვა
+           *[other] ცნობების გადახედვა
+        }
 contextual-manager-show-password-button =
     .aria-label = პაროლის გამოჩენა
     .title = პაროლის ჩვენება
