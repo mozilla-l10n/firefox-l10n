@@ -410,6 +410,10 @@ quickactions-cmd-settings2 = პარამეტრები, მახას�
 quickactions-cmd-settings = პარამეტრები, მახასიათებლები, გამართვა
 # Opens about:addons page in the themes section
 quickactions-themes = თემების მართვა
+# In English we provide multiple spellings for "add-ons". If that's not
+# applicable to your language, only use the correct spelling (don't repeat the
+# same word).
+quickactions-cmd-themes2 = თემები, გაფორმებები, დამატებები, დანამატები
 quickactions-cmd-themes = თემები
 # Opens a SUMO article explaining how to update the browser
 quickactions-update = განახლდეს { -brand-short-name }
@@ -611,6 +615,10 @@ urlbar-search-mode-indicator-close =
 # engine is unknown.
 urlbar-placeholder =
     .placeholder = მოძებნეთ ან შეიყვანეთ მისამართი
+# This placeholder is used when not in search mode and searching in the urlbar
+# is disabled via the keyword.enabled pref.
+urlbar-placeholder-keyword-disabled =
+    .placeholder = შეიყვანეთ მისამართი
 # This placeholder is used in search mode with search engines that search the
 # entire web.
 # Variables
@@ -807,6 +815,8 @@ urlbar-searchmode-actions =
     .label = მოქმედებები
 urlbar-searchmode-exit-button =
     .tooltiptext = დახურვა
+urlbar-searchmode-default =
+    .tooltiptext = ნაგულისხმევი საძიებო
 # Label shown on the top of Searchmode Switcher popup. After this label, the
 # available search engines will be listed.
 urlbar-searchmode-popup-description = ძიებისთვის ამჯერად გამოიყენეთ:
@@ -1306,3 +1316,6 @@ file-picker-crashed-show-in-folder =
 ## Onboarding Finish Setup checklist
 
 onboarding-checklist-button-label = გამართვის დასრულება
+onboarding-aw-finish-setup-button =
+    .label = გამართვის დასრულება
+    .tooltiptext = სრულადაა გამართული { -brand-short-name }

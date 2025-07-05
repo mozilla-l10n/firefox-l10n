@@ -505,6 +505,7 @@ newtab-section-following-button = გამოწერილი
 newtab-section-unfollow-button = თვალის მიდევნების შეწყვეტა
 # A modal may appear next to the Follow button, directing users to try out the feature
 newtab-section-follow-highlight-title = გააუმჯობესეთ თქვენი არხი
+newtab-section-follow-highlight-subtitle = მიჰყევით თქვენს მისწრაფებებს, რომ იხილოთ კიდევ უფრო მეტი, რაც მოგწონთ.
 
 ## Button to block/unblock listed topics
 ## "Block", "unblocked", and "blocked" are social media terms that refer to hiding a section of stories.
@@ -580,3 +581,5 @@ newtab-trending-searches-hide-trending =
     .title = ხშირად მოძიებულის დამალვა
 newtab-trending-searches-learn-more = ვრცლად
 newtab-trending-searches-dismiss = ხშირად მოძიებულის დამალვა
+# "Trending searches refers to popular searches from search engines
+newtab-trending-searches-title = ხშირად მოძიებული

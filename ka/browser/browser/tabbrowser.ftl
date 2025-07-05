@@ -279,6 +279,8 @@ tab-context-move-tab-to-group =
            *[other] ჩანართების დამატება ჯგუფში
         }
     .accesskey = ჯ
+tab-context-move-tab-to-group-saved-groups =
+    .label = დახურული ჯგუფები
 tab-group-editor-action-new-tab =
     .label = ახალი ჩანართი ჯგუფში
 tab-group-editor-action-new-window =
