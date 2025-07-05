@@ -272,8 +272,10 @@ quickactions-cmd-downloads = преузимања
 # Opens about:addons page in the extensions section
 quickactions-extensions = Управљај проширењима
 quickactions-cmd-extensions = додаци
+quickactions-cmd-help = помоћ, подршка
 # Opens the devtools web inspector
 quickactions-inspector2 = Отвори алате за програмере
+quickactions-cmd-inspector2 = инспектор, алатке за програмере
 quickactions-cmd-inspector = инспектор, алатке за програмере
 # Opens about:logins
 quickactions-logins2 = Управљај лозинкама
@@ -283,8 +285,10 @@ quickactions-plugins = Управљај прикључцима
 quickactions-cmd-plugins = прикључци
 # Opens the print dialog
 quickactions-print2 = Штампај страницу
+quickactions-cmd-print = одштампај, штампај
 # Opens the print dialog at the save to PDF option
 quickactions-savepdf = Сачувај страницу као PDF
+quickactions-cmd-savepdf2 = pdf, сачувај страницу
 quickactions-cmd-savepdf = pdf
 # Opens a new private browsing window
 quickactions-private2 = Отвори приватни прозор
@@ -297,19 +301,27 @@ quickactions-restart = Поново покрени { -brand-short-name }
 quickactions-cmd-restart = рестартуј
 # Opens the screenshot tool
 quickactions-screenshot3 = Направи снимак екрана
+quickactions-cmd-screenshot2 = снимак екрана, направи снимак екрана
 quickactions-cmd-screenshot = снимак екрана
 # Opens about:preferences
 quickactions-settings2 = Управљај подешавањима
-quickactions-cmd-settings = подешавања, преференце, опције
+# "manage" should match the corresponding command, which is “Manage settings” in English.
+quickactions-cmd-settings2 = подешавања, опције
+quickactions-cmd-settings = подешавања, опције
 # Opens about:addons page in the themes section
 quickactions-themes = Управљај темама
+# In English we provide multiple spellings for "add-ons". If that's not
+# applicable to your language, only use the correct spelling (don't repeat the
+# same word).
+quickactions-cmd-themes2 = теме, додаци
 quickactions-cmd-themes = теме
 # Opens a SUMO article explaining how to update the browser
 quickactions-update = Ажурирај { -brand-short-name }
 quickactions-cmd-update = ажурирај
 # Opens the view-source UI with current pages source
 quickactions-viewsource2 = Прикажи извор странице
-quickactions-cmd-viewsource = изворни код
+quickactions-cmd-viewsource2 = прикажи извор, извор странице
+quickactions-cmd-viewsource = прикажи извор, извор
 # Tooltip text for the help button shown in the result.
 quickactions-learn-more =
     .title = Сазнајте више о брзим радњама
