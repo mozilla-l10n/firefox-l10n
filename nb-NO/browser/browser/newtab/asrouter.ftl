@@ -83,7 +83,7 @@ cfr-badge-reader-label-newfeature = Ny funksjon:
 cfr-whatsnew-button =
     .label = Hva er nytt
     .tooltiptext = Hva er nytt
-cfr-whatsnew-release-notes-link-text = Les utgivelsesnotatene
+cfr-whatsnew-release-notes-link-text = Les versjonsnotatene
 
 ## Enhanced Tracking Protection Milestones
 
