@@ -166,6 +166,14 @@ main-context-menu-translate-selection =
     .label = Treiñ an diuzad…
     .accesskey = n
 # Text displayed in the right-click context menu for translating
+# selected text to a target language.
+#
+# Variables:
+#   $language (string) - The localized display name of the target language
+main-context-menu-translate-selection-to-language =
+    .label = Treiñ an diuzad e { $language }
+    .accesskey = i
+# Text displayed in the right-click context menu for translating
 # the text of a hyperlink to a yet-to-be-determined language.
 main-context-menu-translate-link-text =
     .label = Treiñ testenn al lec'hienn…

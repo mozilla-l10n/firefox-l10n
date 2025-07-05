@@ -95,6 +95,7 @@ fxa-adoption-passwords-primary-button-label = Krouiñ ur gont
 ## Sidebar Vertical Tabs Strings
 
 vertical-tabs-callout-1-cta-button = Esaeit an ivinelloù a-serzh
+vertical-tabs-callout-2-cta-button = Esaeañ bremañ
 
 ## Sidebar Vertical Tabs Pinning Strings
 
