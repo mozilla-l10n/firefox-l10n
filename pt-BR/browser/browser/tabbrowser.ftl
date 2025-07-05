@@ -282,6 +282,8 @@ tab-context-move-tab-to-group =
            *[other] Add Tabs to Group
         }
     .accesskey = g
+tab-context-move-tab-to-group-saved-groups =
+    .label = Grupos fechados
 tab-group-editor-action-new-tab =
     .label = Nova aba no grupo
 tab-group-editor-action-new-window =
