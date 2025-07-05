@@ -184,22 +184,25 @@ profiler-popup-capture-shortcut =
 # devtools/client/performance-new/shared/background.sys.mjs
 # Please take care that the same values are also defined in devtools' perftools.ftl.
 
-profiler-popup-presets-web-developer-description = მზა პარამეტრები, პროგრამების ხარვეზების გამოსავლენად, ნაკლები დატვირთვით.
+profiler-popup-presets-web-developer-description = მზა პარამეტრები პროგრამების ხარვეზების გამოსავლენად ნაკლები დატვირთვით.
 profiler-popup-presets-web-developer-label =
     .label = ვებშემუშავება
 profiler-popup-presets-firefox-description = მზა პარამეტრები, რომლითაც აღიწერება { -brand-shorter-name }.
 profiler-popup-presets-firefox-label =
     .label = { -brand-shorter-name }
-profiler-popup-presets-graphics-description = მზა პარამეტრები, გრაფიკული ხარვეზების გამოსავლენად – { -brand-shorter-name }.
+profiler-popup-presets-graphics-description = მზა პარამეტრები გრაფიკული ხარვეზების გამოსავლენად – { -brand-shorter-name }.
 profiler-popup-presets-graphics-label =
     .label = გრაფიკა
-profiler-popup-presets-media-description2 = მზა პარამეტრები, ხმოვანი და ვიდეოფაილების ხარვეზების გამოსავლენად – { -brand-shorter-name }.
+profiler-popup-presets-media-description2 = მზა პარამეტრები ხმოვანი და ვიდეოფაილების ხარვეზების გამოსავლენად – { -brand-shorter-name }.
 profiler-popup-presets-media-label =
     .label = ფაილები
-profiler-popup-presets-networking-description = მზა პარამეტრები, ქსელის ხარვეზების გამოსავლენად – { -brand-shorter-name }.
+profiler-popup-presets-ml-description = მზა პარამეტრები მანქანური სწავლების ხარვეზების გამოსავლენად – { -brand-shorter-name }.
+profiler-popup-presets-ml-label =
+    .label = მანქანური სწავლება
+profiler-popup-presets-networking-description = მზა პარამეტრები ქსელის ხარვეზების გამოსავლენად – { -brand-shorter-name }.
 profiler-popup-presets-networking-label =
     .label = ქსელი
-profiler-popup-presets-power-description = მზა პარამეტრები, კვების მიწოდების ხარვეზების გამოსავლენად – { -brand-shorter-name }, ჭარბი დატვირთვის შეზღუდვით.
+profiler-popup-presets-power-description = მზა პარამეტრები კვების მიწოდების ხარვეზების გამოსავლენად – { -brand-shorter-name }, ჭარბი დატვირთვის შეზღუდვით.
 # "Power" is used in the sense of energy (electricity used by the computer).
 profiler-popup-presets-power-label =
     .label = კვება
