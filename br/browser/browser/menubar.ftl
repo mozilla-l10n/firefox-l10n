@@ -266,6 +266,10 @@ menu-profiles-manage-profiles =
     .label = Merañ ar profiloù
 menu-profiles-new-profile =
     .label = Profil nevez
+# Variables:
+#  $profileName (String): the name of the users profile
+menu-profiles-current =
+    .label = { $profileName } (a-vremañ)
 
 ## Tools Menu
 

@@ -103,6 +103,8 @@ sidebar-pins-callout-cta-button = Spilhennañ an ivinell-mañ
 
 ## Pinning Tabs Strings
 
+pin-tabs-callout-cta-1-button = Spilhennañ an ivinell-mañ
+pin-tabs-callout-cta-2-button = Spilhennañ an ivinell-mañ
 
 ## Sidebar Onboarding Strings
 
