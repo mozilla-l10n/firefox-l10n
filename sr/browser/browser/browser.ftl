@@ -262,6 +262,8 @@ quickactions-cmd-addons2 = додаци
 # Opens the bookmarks library window
 quickactions-bookmarks2 = Управљај обележивачима
 quickactions-cmd-bookmarks = обележивачи
+# Opens a SUMO article explaining how to clear history
+quickactions-clearrecenthistory = Обриши недавну историју
 quickactions-cmd-clearrecenthistory = обриши недавну историју, историја
 # Opens a SUMO article explaining how to clear history
 quickactions-clearhistory = Обриши историју
@@ -270,11 +272,11 @@ quickactions-cmd-clearhistory = обриши историју
 quickactions-downloads2 = Прикажи преузимања
 quickactions-cmd-downloads = преузимања
 # Opens about:addons page in the extensions section
-quickactions-extensions = Управљај проширењима
+quickactions-extensions = Управљај додацима
 quickactions-cmd-extensions = додаци
 quickactions-cmd-help = помоћ, подршка
 # Opens the devtools web inspector
-quickactions-inspector2 = Отвори алате за програмере
+quickactions-inspector2 = Отвори алатке за програмере
 quickactions-cmd-inspector2 = инспектор, алатке за програмере
 quickactions-cmd-inspector = инспектор, алатке за програмере
 # Opens about:logins
@@ -284,7 +286,7 @@ quickactions-cmd-logins = пријаве, лозинке
 quickactions-plugins = Управљај прикључцима
 quickactions-cmd-plugins = прикључци
 # Opens the print dialog
-quickactions-print2 = Штампај страницу
+quickactions-print2 = Одштампај страницу
 quickactions-cmd-print = одштампај, штампај
 # Opens the print dialog at the save to PDF option
 quickactions-savepdf = Сачувај страницу као PDF
