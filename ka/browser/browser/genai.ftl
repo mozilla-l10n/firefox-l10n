@@ -51,11 +51,20 @@ genai-menu-ask-generic =
 # $provider (string) - name of the provider
 genai-menu-ask-provider =
     .label = გიპასუხებთ { $provider }
+genai-menu-open-generic =
+    .label = AI-თანამოსაუბრის გახსნა
+# $provider (string) - name of the provider
+genai-menu-open-provider =
+    .label = გაიხსნას { $provider }
 genai-menu-remove-generic =
     .label = AI-თანამოსაუბრის მოცილება
 # $provider (string) - name of the provider
 genai-menu-remove-provider =
     .label = მოცილდეს { $provider }
+genai-menu-remove-sidebar =
+    .label = გვერდითი ზოლიდან მოცილება
+genai-menu-new-badge = ახალი
+genai-menu-summarize-page = გვერდის შეჯამება
 genai-input-ask-generic =
     .placeholder = ჰკითხეთ AI-თანამოსაუბრეს…
 # $provider (string) - name of the provider
@@ -82,6 +91,10 @@ genai-shortcuts-selected-warning =
         }
 genai-shortcuts-hide =
     .label = თანამოსაუბრის მალსახმობის დამალვა
+genai-menu-no-provider =
+    .label = ჰკითხეთ AI-თანამოსაუბრეს
+genai-menu-choose-chatbot =
+    .label = AI-თანამოსაუბრის არჩევა
 
 ## Chatbot header
 
@@ -108,6 +121,7 @@ genai-options-about-chatbot =
 
 ## Chatbot footer
 
+genai-page-button-summarize = გვერდის შეჯამება
 
 ## Chatbot onboarding
 
@@ -143,6 +157,12 @@ genai-onboarding-select-primary = მიმოწერის დაწყებ
 genai-chatbot-contextual-title = გამოიყენეთ AI-თანამოსაუბრე ჩანართების გადაურთველად.
 genai-chatbot-contextual-subtitle = ისაუბრეთ და ინახულეთ გვერდები ერთდროულად, { -brand-short-name } საშუალებას გაძლევთ, AI-თანამოსაუბრე გვერდით ზოლზე განათავსოთ.
 genai-chatbot-contextual-button = აირჩიეთ თანამოსაუბრე
+genai-chatbot-summarize-title = სიახლე! შეაჯამეთ გვერდის შიგთავსი ერთი დაწკაპებით
+genai-chatbot-summarize-button = გვერდის შეჯამება
+# “Summarize Page” should be consistent with the translation for the string genai-menu-summarize-page
+genai-chatbot-summarize-sidebar-provider-subtitle = მარჯვენა წკაპით გვერდით ზოლში თქვენს AI-თანამოსაუბრეზე აირჩიეთ „გვერდის შეჯამება“.
+# “Summarize Page” should be consistent with the translation for the string genai-menu-summarize-page
+genai-chatbot-summarize-sidebar-generic-subtitle = მარჯვენა წკაპით გვერდით ზოლში ნაპერწკლების ღილაკზე აირჩიეთ „გვერდის შეჯამება”. ჯერ აირჩიეთ თავად AI-მოსაუბრე.
 
 ## Chatbot onboarding choices
 ## These describe features/capabilities of chatbot providers. These are not buttons/actions.
