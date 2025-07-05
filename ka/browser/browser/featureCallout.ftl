@@ -106,6 +106,11 @@ perplexity-callout-secondary-label-2 = გასაგებია
 
 ## Account Adoption Passwords callout strings
 
+# Suggestion to backup passwords by signing up for Mozilla account and using sync
+fxa-adoption-passwords-title = პაროლი შენახულია. მოდი, დავამარქაფოთ.
+fxa-adoption-passwords-subtitle = დაიცავით თქვენი პაროლები დაშიფრულად დასინქრონებით სხვადასხვა მოწყობილობაზე.
+# Opens Mozilla accounts sign-up page
+fxa-adoption-passwords-primary-button-label = ანგარიშის შექმნა
 
 ## Sidebar Strings
 
@@ -130,6 +135,7 @@ sidebar-pins-callout-cta-button = ჩანართის მიმაგრე
 
 ## Pinning Tabs Strings
 
+pin-tabs-callout-1-title = მნიშვნელოვანი ჩანართები მუდამ თან იქონიეთ
 
 ## Sidebar Onboarding Strings
 

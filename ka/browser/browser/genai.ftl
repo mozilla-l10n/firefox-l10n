@@ -162,7 +162,10 @@ genai-chatbot-summarize-button = გვერდის შეჯამება
 # “Summarize Page” should be consistent with the translation for the string genai-menu-summarize-page
 genai-chatbot-summarize-sidebar-provider-subtitle = მარჯვენა წკაპით გვერდით ზოლში თქვენს AI-თანამოსაუბრეზე აირჩიეთ „გვერდის შეჯამება“.
 # “Summarize Page” should be consistent with the translation for the string genai-menu-summarize-page
-genai-chatbot-summarize-sidebar-generic-subtitle = მარჯვენა წკაპით გვერდით ზოლში ნაპერწკლების ღილაკზე აირჩიეთ „გვერდის შეჯამება”. ჯერ აირჩიეთ თავად AI-მოსაუბრე.
+genai-chatbot-summarize-sidebar-generic-subtitle = მარჯვენა წკაპით გვერდით ზოლში ნაპერწკლების ღილაკზე აირჩიეთ „გვერდის შეჯამება”. ჯერ აირჩიეთ თავად AI-თანამოსაუბრე.
+# “Summarize page” should be consistent with the translation for the string genai-page-button-summarize
+genai-chatbot-summarize-footer-provider-subtitle = გახსენით გვერდითი ზოლიდან თქვენი AI-თანამოსაუბრე და აირჩიეთ „გვერდის შეჯამება“ ქვემოთ.
+genai-chatbot-summarize-footer-generic-subtitle = გვერდის შინაარსის სწრაფად შესაჯამებლად დაამატეთ AI-თანამოსაუბრე, რომელსაც განათავსებს { -brand-short-name } გვერდით ზოლზე.
 
 ## Chatbot onboarding choices
 ## These describe features/capabilities of chatbot providers. These are not buttons/actions.
