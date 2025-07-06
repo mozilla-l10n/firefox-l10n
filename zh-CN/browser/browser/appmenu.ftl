@@ -196,6 +196,7 @@ profiler-popup-presets-graphics-label =
 profiler-popup-presets-media-description2 = 排查 { -brand-shorter-name } 音视频 Bug 时使用。
 profiler-popup-presets-media-label =
     .label = 媒体
+profiler-popup-presets-ml-description = 排查 { -brand-shorter-name } 机器学习 Bug 时使用。
 profiler-popup-presets-ml-label =
     .label = 机器学习
 profiler-popup-presets-networking-description = 排查 { -brand-shorter-name } 网络 Bug 时使用。
