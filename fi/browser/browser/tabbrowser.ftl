@@ -281,6 +281,8 @@ tab-context-move-tab-to-group =
            *[other] Lisää välilehdet ryhmään
         }
     .accesskey = ä
+tab-context-move-tab-to-group-saved-groups =
+    .label = Suljetut ryhmät
 tab-group-editor-action-new-tab =
     .label = Uusi välilehti ryhmässä
 tab-group-editor-action-new-window =

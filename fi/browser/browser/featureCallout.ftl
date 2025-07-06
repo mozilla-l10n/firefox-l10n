@@ -136,8 +136,10 @@ sidebar-pins-callout-cta-button = Kiinnitä välilehti
 ## Pinning Tabs Strings
 
 pin-tabs-callout-1-title = Pidä tärkeät välilehdet käden ulottuvilla
+pin-tabs-callout-1-subtitle = Vedä välilehti välilehtirivin alkuun kiinnittääksesi sen. Tai napsauta hiiren oikealla painikkeella ja valitse Kiinnitä välilehti.
 pin-tabs-callout-cta-1-button = Kiinnitä tämä välilehti
 pin-tabs-callout-2-title = Kiinnitä useimmin käyttämäsi välilehdet
+pin-tabs-callout-2-subtitle = Voit kiinnittää minkä tahansa välilehden vetämällä sen välilehtirivin alkuun. Tai napsauta hiiren oikealla painikkeella ja valitse Kiinnitä välilehti.
 pin-tabs-callout-cta-2-button = Kiinnitä tämä välilehti
 pin-tabs-callout-3-title = Pidä tärkeät sivustot käden ulottuvilla
 pin-tabs-callout-4-title = Kiinnitä useimmin vierailemasi sivustot

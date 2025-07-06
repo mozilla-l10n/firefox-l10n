@@ -582,3 +582,5 @@ newtab-trending-searches-hide-trending =
     .title = Piilota nousussa olevat haut
 newtab-trending-searches-learn-more = Lue lisää
 newtab-trending-searches-dismiss = Piilota nousussa olevat haut
+# "Trending searches refers to popular searches from search engines
+newtab-trending-searches-title = Nousussa olevat haut

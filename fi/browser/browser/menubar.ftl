@@ -262,6 +262,10 @@ menu-profiles-manage-profiles =
     .label = Hallitse profiileja
 menu-profiles-new-profile =
     .label = Uusi profiili
+# Variables:
+#  $profileName (String): the name of the users profile
+menu-profiles-current =
+    .label = { $profileName } (nykyinen)
 
 ## Tools Menu
 

@@ -410,6 +410,10 @@ quickactions-cmd-settings2 = asetukset, valinnat, hallitse
 quickactions-cmd-settings = asetukset, valinnat
 # Opens about:addons page in the themes section
 quickactions-themes = Hallitse teemoja
+# In English we provide multiple spellings for "add-ons". If that's not
+# applicable to your language, only use the correct spelling (don't repeat the
+# same word).
+quickactions-cmd-themes2 = teemat, lisäosat
 quickactions-cmd-themes = teemat
 # Opens a SUMO article explaining how to update the browser
 quickactions-update = Päivitä { -brand-short-name }
@@ -812,6 +816,8 @@ urlbar-searchmode-actions =
     .label = Toiminnot
 urlbar-searchmode-exit-button =
     .tooltiptext = Sulje
+urlbar-searchmode-default =
+    .tooltiptext = Oletushakukone
 # Label shown on the top of Searchmode Switcher popup. After this label, the
 # available search engines will be listed.
 urlbar-searchmode-popup-description = Tällä kertaa käytä hakuun:
