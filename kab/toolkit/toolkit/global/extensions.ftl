@@ -108,6 +108,12 @@ webext-perms-host-description-multiple-domains =
 ## Strings for data collection permissions in the permission prompt.
 
 # Variables:
+#    $permissions (String): a list of data collection permissions formatted with `Intl.ListFormat` using the "narrow" style.
+webext-perms-description-data-some-optional = Aneflay yenna-d asiɣzef yebɣa ad ilqeḍ: { $permissions }
+# Variables:
+#   $extension (String): replaced with the localized name of the extension.
+webext-perms-update-text-with-data-collection = { $extension } yesra iɣewwaren imaynuten i uleqqem
+# Variables:
 #   $extension (String): replaced with the localized name of the extension.
 webext-perms-optional-text-with-data-collection = { $extension } yesra iɣewwaren niḍen
 # Variables:

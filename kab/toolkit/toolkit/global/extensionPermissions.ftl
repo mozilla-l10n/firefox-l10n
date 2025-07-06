@@ -45,8 +45,12 @@ webext-perms-extra-warning-userScripts-short = Iskripten ur nettwasenqed ara zem
 ##
 ## This is used when the data collection permissions are required.
 
+webext-perms-description-data-short-authenticationInfo = talɣut n usesteb
 webext-perms-description-data-short-bookmarksInfo = ticraḍ n isebtar
+webext-perms-description-data-short-browsingActivity = armud n tunigin
+webext-perms-description-data-short-healthInfo = talɣut n tezmert
 webext-perms-description-data-short-locationInfo = adig
+webext-perms-description-data-short-personalCommunications = taywalt tudmawant
 webext-perms-description-data-short-searchTerms = nadi awalen
 webext-perms-description-data-short-technicalAndInteraction = isefka n tetiknikt d umyigew
 webext-perms-description-data-short-websiteActivity = Aarmud deg usmel web
@@ -54,3 +58,6 @@ webext-perms-description-data-short-websiteContent = Agbur n usmel web
 
 ## Long form to be used in `about:addons` when these data collection permissions are optional.
 
+webext-perms-description-data-long-technicalAndInteraction = Bḍu isefka itiknikanen d yimyigawen s usiɣzef n uneflay
+webext-perms-description-data-long-websiteActivity = Bḍu armud n usmel web s uneflay n usiɣzef
+webext-perms-description-data-long-websiteContent = Bḍu agbur n usmel web s uneflay n usiɣzef
