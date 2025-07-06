@@ -1094,6 +1094,8 @@ navbar-accessible =
     .aria-label = Навигация
 navbar-downloads =
     .label = Жүктемелер
+navbar-overflow-2 =
+    .tooltiptext = Көбірек құралдар
 navbar-overflow =
     .tooltiptext = Көбірек құралдар…
 # Variables:
