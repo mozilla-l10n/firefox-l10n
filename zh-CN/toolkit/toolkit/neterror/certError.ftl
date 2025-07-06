@@ -17,7 +17,7 @@ cert-error-trust-untrusted-issuer = 该证书因为其颁发者证书不受信�
 cert-error-trust-signature-algorithm-disabled = 该证书不被信任，因为证书签名所使用的签名算法因不安全已被禁用。
 cert-error-trust-expired-issuer = 该证书因为其颁发者证书已过期而不被信任。
 cert-error-trust-self-signed = 该证书因为其自签名而不被信任。
-cert-error-trust-symantec = 由 GeoTrust、RapidSSL、Symantec、Thawte 以及 VeriSign 颁发的证书已不再被认为安全，因为这些证书颁发机构过往未遵循安全准则。
+cert-error-trust-symantec = 由 GeoTrust、RapidSSL、Symantec、Thawte 以及 VeriSign 颁发的证书已不再被视为安全，因为这些证书颁发机构在过去未能严格遵循安全准则。
 # Variables:
 #   $hostname (string) - Hostname of the website with cert error.
 cert-error-trust-certificate-transparency = { -brand-short-name } 无法信任 { $hostname }，因其无法证明自己符合公开证书透明度要求。

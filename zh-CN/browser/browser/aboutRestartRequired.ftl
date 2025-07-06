@@ -5,5 +5,5 @@
 restart-required-title = 需要重启浏览器
 restart-required-heading = 重启浏览器以继续使用 { -brand-short-name }
 restart-required-intro = 已在后台更新 { -brand-short-name }，需重启浏览器才能完成更新。
-window-restoration-info = 很快就能恢复窗口及标签页，但不会恢复隐私浏览窗口及标签页。
+window-restoration-info = 将很快恢复窗口及标签页（隐私浏览除外）。
 restart-button-label = 重启 { -brand-short-name }
