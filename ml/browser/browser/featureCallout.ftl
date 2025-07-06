@@ -52,6 +52,7 @@ split-dismiss-button-default-label =
 
 ## Bookmarks toolbar callout strings
 
+bookmarks-toolbar-callout-1-title = അടയാളക്കുറിപ്പു കരുപട്ടയിൽ ഈ വെബ്ബിടം ചേൎക്കണോ?
 bookmarks-toolbar-callout-1-primary-button-label = അടയാളക്കുറിപ്പു് ചേൎക്കുക
 bookmarks-toolbar-callout-1-secondary-button-label = വേണ്ട, നന്ദി
 # Visible if user adds a bookmark in callout 1, bookmarks toolbar is set to always show when this message renders
@@ -70,6 +71,8 @@ perplexity-callout-secondary-label-2 = മനസ്സിലായി
 
 ## Account Adoption Passwords callout strings
 
+# Opens Mozilla accounts sign-up page
+fxa-adoption-passwords-primary-button-label = അംഗത്തമെടുക്കുക
 
 ## Sidebar Strings
 
