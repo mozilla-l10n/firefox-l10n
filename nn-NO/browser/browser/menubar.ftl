@@ -262,6 +262,10 @@ menu-profiles-manage-profiles =
     .label = Handsam profilar
 menu-profiles-new-profile =
     .label = Ny profil
+# Variables:
+#  $profileName (String): the name of the users profile
+menu-profiles-current =
+    .label = { $profileName } (gjeldande)
 
 ## Tools Menu
 

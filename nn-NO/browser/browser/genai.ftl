@@ -154,6 +154,13 @@ genai-chatbot-contextual-subtitle = Chat og surf side om side når du legg til e
 genai-chatbot-contextual-button = Vel ein samtalerobot
 genai-chatbot-summarize-title = Nyheit! Samanfatt sider med eitt klikk
 genai-chatbot-summarize-button = Samanfatt side
+# “Summarize Page” should be consistent with the translation for the string genai-menu-summarize-page
+genai-chatbot-summarize-sidebar-provider-subtitle = Høgreklikk på AI-chatboten din i sidestolpen og vel «Samanfatt side».
+# “Summarize Page” should be consistent with the translation for the string genai-menu-summarize-page
+genai-chatbot-summarize-sidebar-generic-subtitle = Høgreklikk på sparkles-knappen i sidestolpen og vel «Samanfatt side». Første gong vel du også ein AI-chatbot.
+# “Summarize page” should be consistent with the translation for the string genai-page-button-summarize
+genai-chatbot-summarize-footer-provider-subtitle = Opne AI-chatboten din i sidestolpen og vel «Samanfatt side» nedst.
+genai-chatbot-summarize-footer-generic-subtitle = Legg til ein AI-chatbot i { -brand-short-name }-sidestolpen for å raskt samanfatte sider.
 
 ## Chatbot onboarding choices
 ## These describe features/capabilities of chatbot providers. These are not buttons/actions.
