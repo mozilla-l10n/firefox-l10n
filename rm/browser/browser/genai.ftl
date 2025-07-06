@@ -51,11 +51,20 @@ genai-menu-ask-generic =
 # $provider (string) - name of the provider
 genai-menu-ask-provider =
     .label = Dumandar { $provider }
+genai-menu-open-generic =
+    .label = Avrir il chatbot IA
+# $provider (string) - name of the provider
+genai-menu-open-provider =
+    .label = Avrir { $provider }
 genai-menu-remove-generic =
     .label = Allontanar il chatbot IA
 # $provider (string) - name of the provider
 genai-menu-remove-provider =
     .label = Allontanar { $provider }
+genai-menu-remove-sidebar =
+    .label = Allontanar da la trav laterala
+genai-menu-new-badge = Nov
+genai-menu-summarize-page = Resumar la pagina
 genai-input-ask-generic =
     .placeholder = Dumandar il cahtbot IA…
 # $provider (string) - name of the provider
@@ -80,6 +89,10 @@ genai-shortcuts-selected-warning =
         }
 genai-shortcuts-hide =
     .label = Zuppentar las scursanidas a chatbots
+genai-menu-no-provider =
+    .label = Dumandar in chatbot IA
+genai-menu-choose-chatbot =
+    .label = Tscherna in chatbot IA
 
 ## Chatbot header
 
@@ -106,6 +119,7 @@ genai-options-about-chatbot =
 
 ## Chatbot footer
 
+genai-page-button-summarize = Resumar la pagina
 
 ## Chatbot onboarding
 
@@ -138,6 +152,9 @@ genai-onboarding-lechat-learn = Ulteriuras infurmaziuns davart Le Chat
 genai-onboarding-select-header = Tscherner text per vesair propostas
 genai-onboarding-select-description = Sche ti selecziuneschas text, vegnin nus a proponer cumonds che ti pos trametter al chatbot. Ti pos era scriver tes agens cumonds.
 genai-onboarding-select-primary = Aviar il chat
+genai-chatbot-contextual-title = Utilisescha in chatbot IA senza midar tab
+genai-chatbot-contextual-subtitle = Scriva en il chat e navighescha in sper l’auter cun agiuntar in chatbot IA en la trav laterala da { -brand-short-name }.
+genai-chatbot-contextual-button = Tscherna in chatbot
 
 ## Chatbot onboarding choices
 ## These describe features/capabilities of chatbot providers. These are not buttons/actions.

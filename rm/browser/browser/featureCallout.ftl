@@ -85,12 +85,32 @@ bookmarks-toolbar-callout-2a-subtitle = Ti pos trair e deponer qua tabs per avai
 bookmarks-toolbar-callout-2a-primary-button-label = Jau hai chapì
 # Reverts the bookmarks toolbar to the default setting
 bookmarks-toolbar-callout-2a-secondary-button-label = Zuppentar la trav da simbols
+# Visible if user declines to add a bookmark in callout 1, bookmarks toolbar is set to always show when this message renders
+bookmarks-toolbar-callout-2b-title = Laschar averta tia trav d’utensils dals segnapaginas?
+bookmarks-toolbar-callout-2b-subtitle = Ti pos agiuntar ulteriuras websites che ti visitas savens. Tira e depona simplamain qua ils tabs per che ti hajas tias websites preferidas adina per mauns.
+bookmarks-toolbar-callout-2b-primary-button-label = Laschar averta
+# Reverts the bookmarks toolbar to the default setting
+bookmarks-toolbar-callout-2b-secondary-button-label = Na, grazia
 
 ## Perplexity callout strings
 
+perplexity-callout-theme-1-title = Dovras subit la dretga resposta?
+perplexity-callout-theme-2-title = Emprova Perplexity: ina nova moda e maniera da tschertgar
+perplexity-callout-theme-1-subtitle-1 = Emprova Perplexity. Tscherna la maschina via il buttun da tschertgar sche ti giavischas respostas cumplettas che includan funtaunas.
+perplexity-callout-theme-1-subtitle-2 = Fa dumondas. Retschaiva respostas cumplettas cun indicaziun da las funtaunas. Per empruvar Perplexity, tscherna la maschina via il buttun da tschertgar.
+perplexity-callout-theme-2-subtitle-1 = Dumonda Perplexity. Ti retschaivas respostas cumplettas cun funtaunas.
+perplexity-callout-theme-2-subtitle-2 = Fa dumondas. Retschaiva respostas cumplettas cun funtaunas bain documentadas.
+perplexity-callout-primary-label = Dumonda Perplexity
+perplexity-callout-secondary-label-1 = Serrar
+perplexity-callout-secondary-label-2 = Jau hai chapì
 
 ## Account Adoption Passwords callout strings
 
+# Suggestion to backup passwords by signing up for Mozilla account and using sync
+fxa-adoption-passwords-title = Memorisà il pled-clav. Faschain ina copia da segirezza.
+fxa-adoption-passwords-subtitle = Protegia tes pleds-clav ed als sincronisescha a moda criptada cun tes apparats.
+# Opens Mozilla accounts sign-up page
+fxa-adoption-passwords-primary-button-label = Sa registrar
 
 ## Sidebar Strings
 
@@ -115,6 +135,14 @@ sidebar-pins-callout-cta-button = Fixar il tab
 
 ## Pinning Tabs Strings
 
+pin-tabs-callout-1-title = Tegna ils tabs impurtants per mauns
+pin-tabs-callout-1-subtitle = Tira in tab a l’entschatta da la trav da tabs per al fixar. U clicca cun la tasta dretga da la mieur e tscherna «Fixar il tab».
+pin-tabs-callout-cta-1-button = Fixar quest tab
+pin-tabs-callout-2-title = Fixescha ils tabs che ti visitas il pli savens
+pin-tabs-callout-2-subtitle = Per fixar x-in tab, al tira a l’entschatta da la trav da tabs. U clicca cun la tasta dretga da la mieur e tscherna «Fixar il tab».
+pin-tabs-callout-cta-2-button = Fixar quest tab
+pin-tabs-callout-3-title = Tegna websites impurtantas per mauns
+pin-tabs-callout-4-title = Fixescha las websites che ti visitas il pli savens
 
 ## Sidebar Onboarding Strings
 

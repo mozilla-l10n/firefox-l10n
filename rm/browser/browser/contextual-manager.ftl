@@ -152,6 +152,8 @@ contextual-manager-passwords-password-already-exists-error-button = Ir al pled-c
 contextual-manager-passwords-update-password-success-heading =
     .heading = Memorisà il pled-clav
 contextual-manager-passwords-update-password-success-button = Finì
+contextual-manager-passwords-update-username-success-heading =
+    .heading = Memorisà il num d’utilisader
 # Message to confirm successful removal of a password/passwords.
 #   $total (number) - Total number of passwords
 contextual-manager-passwords-delete-password-success-heading =
@@ -197,6 +199,7 @@ contextual-manager-passwords-no-username-heading-and-message =
     .heading = Agiuntar in num d’utilisader
     .message = Agiuntescha in per s’annunziar pli svelt.
 contextual-manager-passwords-add-username-button = Agiuntar in num d’utilisader
+contextual-manager-passwords-title = Pleds-clav
 
 ## Login Form
 
@@ -259,6 +262,22 @@ contextual-manager-view-alert-heading =
     .heading = Mussar l’avertiment
 contextual-manager-view-alert-button =
     .tooltiptext = Examinar l’avertiment
+# Variables
+#   $count (number) - The number of active alerts associated with the login
+contextual-manager-view-alert-heading-2 =
+    .heading =
+        { $count ->
+            [1] Mussar l’avertiment
+           *[other] Mussar ils avertiments
+        }
+# Variables
+#   $count (number) - The number of active alerts associated with the login
+contextual-manager-view-alert-button-2 =
+    .tooltiptext =
+        { $count ->
+            [1] Consultar l’avertiment
+           *[other] Consultar ils avertiments
+        }
 contextual-manager-show-password-button =
     .aria-label = Mussar il pled-clav
     .title = Mussar il pled-clav

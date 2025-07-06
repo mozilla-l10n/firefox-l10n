@@ -611,6 +611,10 @@ urlbar-search-mode-indicator-close =
 # engine is unknown.
 urlbar-placeholder =
     .placeholder = Tschertgar u endatar in'adressa
+# This placeholder is used when not in search mode and searching in the urlbar
+# is disabled via the keyword.enabled pref.
+urlbar-placeholder-keyword-disabled =
+    .placeholder = Endatescha in’adressa
 # This placeholder is used in search mode with search engines that search the
 # entire web.
 # Variables
@@ -753,6 +757,27 @@ urlbar-result-action-calculator-result-decimal = = { NUMBER($result, maximumSign
 #       abbreviation of one of the city's administrative divisions like a
 #       province or state, or it may be the name of the city's country.
 urlbar-result-weather-title = { $city }, { $region }: <strong>{ $temperature }°{ $unit }</strong>
+# The title of a weather suggestion in the urlbar including a region and
+# country. The temperature and unit substring should be inside a <strong> tag.
+# If the temperature and unit are not adjacent in the localization, it's OK to
+# include only the temperature in the tag.
+# Variables:
+#   $temperature (number) - The temperature value
+#   $unit (String) - The unit for the temperature, either "C" or "F"
+#   $city (String) - The name of the city the weather data is for
+#   $region (String) - The name or abbreviation of one of the city's
+#       administrative divisions like a province or state.
+#   $country (String) - The name of the city's country.
+urlbar-result-weather-title-with-country = <strong>{ $temperature }°{ $unit }</strong> a { $city }, { $region }, { $country }
+# The title of a weather suggestion in the urlbar only including the city. The
+# temperature and unit substring should be inside a <strong> tag. If the
+# temperature and unit are not adjacent in the localization, it's OK to include
+# only the temperature in the tag.
+# Variables:
+#   $temperature (number) - The temperature value
+#   $unit (String) - The unit for the temperature, either "C" or "F"
+#   $city (String) - The name of the city the weather data is for
+urlbar-result-weather-title-city-only = <strong>{ $temperature }°{ $unit }</strong> a { $city }
 # Shows the name of the provider of weather data in a weather suggestion in the
 # urlbar.
 # Variables:
@@ -1090,6 +1115,8 @@ navbar-accessible =
     .aria-label = Navigaziun
 navbar-downloads =
     .label = Telechargiadas
+navbar-overflow-2 =
+    .tooltiptext = Ulteriurs utensils
 navbar-overflow =
     .tooltiptext = Dapli utensils…
 # Variables:
@@ -1283,3 +1310,6 @@ file-picker-crashed-show-in-folder =
 ## Onboarding Finish Setup checklist
 
 onboarding-checklist-button-label = Finir la configuraziun
+onboarding-aw-finish-setup-button =
+    .label = Cumplettar la configuraziun
+    .tooltiptext = Cumplettar la configuraziun da { -brand-short-name }

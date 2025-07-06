@@ -70,6 +70,10 @@ contentanalysis-block-dialog-title-upload-file = Du har ikkje løyve til å last
 # Variables:
 #   $filename - Name of the file that was blocked, such as "aFile.txt"
 contentanalysis-block-dialog-body-upload-file = I samsvar med retningslinjene til organisasjonen for datavern har du ikkje løyve til å laste opp fila «{ $filename }». Kontakt administratoren din for meir informasjon.
+contentanalysis-block-dialog-title-download-file = Du har ikkje løyve til å laste ned denne fila
+# Variables:
+#   $filename - Name of the file that was blocked, such as "aFile.txt"
+contentanalysis-block-dialog-body-download-file = I samsvar med retningslinjene i organisasjonen for datavern har du ikkje løyve til å laste ned fila «{ $filename }». Kontakt administratoren din for meir informasjon.
 contentanalysis-block-dialog-title-clipboard = Du har ikkje løyve til å lime inn dette innhaldet
 contentanalysis-block-dialog-body-clipboard = I samsvar med retningslinjene til organisasjonen for datavern har du ikkje løyve til å lime inn dette innhaldet. Kontakt administratoren din for meir informasjon.
 contentanalysis-block-dialog-title-dropped-text = Du har ikkje løyve til å dra og sleppe dette innhaldet
