@@ -16,10 +16,12 @@ webext-perms-header-unsigned = { $extension } қосу керек пе? Бұл �
 webext-perms-header-unsigned-with-perms = { $extension } қосу керек пе? Бұл кеңейту расталмаған. Зиянкес кеңейтулер сіздің жеке деректеріңізді ұрлай алады. Бұны тек шыққан көзіне сенсеңіз, орнатуға болады. Бұл кеңейтудің келесі рұқсаттары болады:
 webext-perms-sideload-header = { $extension } қосылды
 webext-perms-optional-perms-header = { $extension } қосымша рұқсаттарды сұрайды.
+webext-perms-header2 = { $extension } қосу
 
 ## Headers used in the webextension permissions dialog, inside the content.
 
 webext-perms-header-required-perms = Керек рұқсаттар:
+webext-perms-header-optional-settings = Қосымша баптаулар:
 
 ##
 

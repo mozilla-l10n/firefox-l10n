@@ -12,6 +12,8 @@ neterror-blocked-by-policy-page-title = Бұғатталған бет
 neterror-captive-portal-page-title = Желіге кіру
 neterror-dns-not-found-title = Сервер табылмады
 neterror-malformed-uri-page-title = Жарамсыз URL
+general-body-title = Сақ болыңыз. Бірдеңе дұрыс емес сияқты.
+problem-with-this-site-title = Бұл сайтта мәселе бар сияқты
 
 ## Error page actions
 
@@ -51,6 +53,7 @@ neterror-dns-not-found-hint-header = <strong>Дұрыс адресті енгі�
 neterror-dns-not-found-hint-try-again = Әрекетті кейінірек қайталаңыз
 neterror-dns-not-found-hint-check-network = Желі байланысын тексеріңіз
 neterror-dns-not-found-hint-firewall = { -brand-short-name } үшін интернетке кіруге рұқсаты бар екенін тексеріңіз (сіз байланысқан, бірақ файрволл артында болуыңыз мүмкін)
+neterror-dns-not-found-offline-hint-different-device = Басқа құрылғыда қосылып көріңіз.
 
 ## TRR-only specific messages
 ## Variables:

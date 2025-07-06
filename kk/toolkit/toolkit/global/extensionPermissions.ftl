@@ -48,3 +48,9 @@ webext-perms-description-data-short-bookmarksInfo = бетбелгілер
 
 ## Long form to be used in `about:addons` when these data collection permissions are optional.
 
+webext-perms-description-data-long-authenticationInfo = Кеңейту әзірлеушісімен аутентификация ақпаратын бөлісу
+webext-perms-description-data-long-bookmarksInfo = Кеңейту әзірлеушісімен бетбелгілер ақпаратын бөлісу
+webext-perms-description-data-long-browsingActivity = Кеңейту әзірлеушісімен шолу әрекеттерін бөлісу
+webext-perms-description-data-long-financialAndPaymentInfo = Кеңейту әзірлеушісімен қаржылық пен төлемдер ақпаратын бөлісу
+webext-perms-description-data-long-healthInfo = Кеңейту әзірлеушісімен денсаулық ақпаратын бөлісу
+webext-perms-description-data-long-locationInfo = Кеңейту әзірлеушісімен орналасу ақпаратын бөлісу

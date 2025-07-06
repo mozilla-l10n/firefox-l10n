@@ -138,6 +138,7 @@ contentEncodingError-title = Құраманы декодтау кезінде қ
 unsafeContentType-title = Қауіпсіз емес файл түрі
 netReset-title = Байланыс үзілген
 netTimeout-title = Байланысты күту уақыты аяқталды
+httpErrorPage-title = Бұл сайтта мәселе бар сияқты
 serverError-title = Бұл сайтта мәселе бар сияқты
 unknownProtocolFound-title = Адресті талдау қатесі
 proxyConnectFailure-title = Прокси сервері сұранымдарды үзіп тұр

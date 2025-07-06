@@ -27,6 +27,8 @@ about-logging-no-log-modules = Ешнәрсе
 about-logging-no-log-file = Ешнәрсе
 about-logging-logging-preset-selector-text = Журналдаудың алдын ала орнатуы:
 about-logging-with-profiler-stacks-checkbox = Журнал хабарламалары үшін стек трассировкасын іске қосу
+about-logging-menu =
+    .title = Қосымша опциялар
 
 ## Logging presets
 
