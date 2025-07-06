@@ -20,15 +20,23 @@ credit-card-capture-save-button =
 credit-card-capture-cancel-button =
     .label = Mačči tura
     .accessKey = R
+credit-card-capture-never-save-button =
+    .label = Ur sseklas ara tikarḍiwin
+    .accessKey = U
 
 # Used on the doorhanger when an credit card change is detected.
 
 credit-card-update-doorhanger-header = Leqqem takarḍa?
 credit-card-update-doorhanger-description = Takarḍa ara yettwaleqqmen:
+credit-card-capture-save-new-button =
+    .label = Sekles takarḍa tamaynut
+    .accessKey = K
 # Label for the button in the dropdown menu used to clear the populated form.
 autofill-clear-form-label = Sfeḍ asebter n taččart tawurmant
 # Used as a label for the button, displayed at the bottom of the dropdown suggestion, to open Form Autofill browser preferences.
 autofill-manage-addresses-label = Sefrek tansiwin
+# Used as a label for the button, displayed at the bottom of the dropdown suggestion, to open Form Autofill browser preferences.
+autofill-manage-payment-methods-label = Sefrek tarrayin n uxelleṣ
 
 ## These are brand names and should only be translated when a locale-specific name for that brand is in common use
 

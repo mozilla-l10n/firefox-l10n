@@ -58,6 +58,7 @@ webext-perms-description-data-short-websiteContent = Agbur n usmel web
 
 ## Long form to be used in `about:addons` when these data collection permissions are optional.
 
+webext-perms-description-data-long-healthInfo = Bḍu talɣut n tezmert s uneflay n usiɣzef
 webext-perms-description-data-long-technicalAndInteraction = Bḍu isefka itiknikanen d yimyigawen s usiɣzef n uneflay
 webext-perms-description-data-long-websiteActivity = Bḍu armud n usmel web s uneflay n usiɣzef
 webext-perms-description-data-long-websiteContent = Bḍu agbur n usmel web s uneflay n usiɣzef

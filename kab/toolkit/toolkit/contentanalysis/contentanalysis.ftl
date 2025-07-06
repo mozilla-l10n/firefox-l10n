@@ -3,8 +3,16 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 contentanalysis-alert-title = Aslaḍ n ugbur
+contentanalysis-slow-agent-dialog-header = Aḍummu iteddu
 contentanalysis-operationtype-clipboard = tacfawt
 contentanalysis-operationtype-print = siggez
+#   $filename - The filename associated with the request, such as "aFile.txt"
+contentanalysis-upload-description = tuzna n “{ $filename }”
+#   $filename - The filename associated with the request, such as "aFile.txt"
+contentanalysis-download-description = asader n “{ $filename }”
+#   $filename - The filename associated with the request, such as "aFile.txt"
+contentanalysis-customdisplaystring-description = tuzna n “{ $filename }”
+contentanalysis-warndialogtitle = Agbur yezmer ad yili d araɣellsan
 contentanalysis-warndialog-response-allow = Seqdec agbur
 contentanalysis-warndialog-response-deny = Sefsex
 contentanalysis-notification-title = Aslaḍ n ugbur
