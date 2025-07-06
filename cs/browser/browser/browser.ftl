@@ -896,6 +896,8 @@ urlbar-searchmode-actions =
     .label = Akce
 urlbar-searchmode-exit-button =
     .tooltiptext = Zavřít
+urlbar-searchmode-default =
+    .tooltiptext = Výchozí vyhledávač
 # Label shown on the top of Searchmode Switcher popup. After this label, the
 # available search engines will be listed.
 urlbar-searchmode-popup-description = Vyhledat pomocí:

@@ -8,6 +8,7 @@
 newtab-page-title = Nový panel
 newtab-settings-button =
     .title = Přizpůsobení stránky nového panelu
+newtab-customize-panel-icon-button-label = Přizpůsobit
 newtab-personalize-settings-icon-label =
     .title = Přizpůsobení nového panelu
     .aria-label = Nastavení
@@ -599,3 +600,5 @@ newtab-trending-searches-hide-trending =
     .title = Skrýt populární vyhledávání
 newtab-trending-searches-learn-more = Zjistit více
 newtab-trending-searches-dismiss = Skrýt populární vyhledávání
+# "Trending searches refers to popular searches from search engines
+newtab-trending-searches-title = Trendy ve vyhledávání

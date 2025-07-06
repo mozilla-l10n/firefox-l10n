@@ -158,6 +158,8 @@ perftools-presets-media-description2 =
         [with-cases] Doporučené nastavení pro ladění chyb při přehrávání zvuku nebo videa ve { -brand-shorter-name(case: "loc") }.
        *[no-cases] Doporučené nastavení pro ladění chyb při přehrávání zvuku nebo videa v aplikaci { -brand-shorter-name }.
     }
+perftools-presets-ml-label = Strojové učení
+perftools-presets-ml-description2 = Doporučené nastavení pro ladění problémů se strojovým učením v aplikaci { -brand-shorter-name }.
 perftools-presets-networking-label = Síť
 perftools-presets-networking-description =
     { -brand-shorter-name.case-status ->

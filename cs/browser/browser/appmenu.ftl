@@ -212,6 +212,9 @@ profiler-popup-presets-media-description2 =
     }
 profiler-popup-presets-media-label =
     .label = Média
+profiler-popup-presets-ml-description = Doporučené nastavení pro ladění problémů se strojovým učením v aplikaci { -brand-shorter-name }.
+profiler-popup-presets-ml-label =
+    .label = Strojové učení
 profiler-popup-presets-networking-description =
     { -brand-shorter-name.case-status ->
         [with-cases] Doporučené nastavení pro ladění síťových problémů ve { -brand-shorter-name(case: "loc") }.

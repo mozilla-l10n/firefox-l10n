@@ -133,6 +133,8 @@ sidebar-menu-customize-label =
     .label = Přizpůsobit postranní lištu
 sidebar-menu-contextual-password-manager-label =
     .label = Hesla
+sidebar-menu-more-tools-label =
+    .label = Další nástroje
 
 ## Tooltips for sidebar menu items.
 

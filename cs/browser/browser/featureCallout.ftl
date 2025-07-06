@@ -155,6 +155,11 @@ sidebar-pins-callout-cta-button = Připnout panel
 ## Pinning Tabs Strings
 
 pin-tabs-callout-1-title = Mějte důležité panely po ruce
+pin-tabs-callout-cta-1-button = Připnout tento panel
+pin-tabs-callout-2-title = Připněte si nejnavštěvovanější panely
+pin-tabs-callout-cta-2-button = Připnout tento panel
+pin-tabs-callout-3-title = Mějte důležité stránky pořád po ruce
+pin-tabs-callout-4-title = Připněte si nejnavštěvovanější stránky
 
 ## Sidebar Onboarding Strings
 
