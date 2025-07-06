@@ -385,6 +385,10 @@ quickactions-cmd-settings2 = ക്രമീകരണങ്ങളും മു�
 quickactions-cmd-settings = ക്രമീകരണങ്ങളും മുൻഗണനകളും സാധ്യതകളും
 # Opens about:addons page in the themes section
 quickactions-themes = അലങ്കാരങ്ങളെ കൈകാര്യം ചെയ്യുക
+# In English we provide multiple spellings for "add-ons". If that's not
+# applicable to your language, only use the correct spelling (don't repeat the
+# same word).
+quickactions-cmd-themes2 = അലങ്കാരങ്ങൾ, ആഡ് ഓൺ, ആഡോണുകൾ
 quickactions-cmd-themes = അലങ്കാരങ്ങൾ
 # Opens a SUMO article explaining how to update the browser
 quickactions-update = { -brand-short-name } പുതുക്കുക
@@ -562,6 +566,10 @@ urlbar-search-mode-indicator-close =
 # engine is unknown.
 urlbar-placeholder =
     .placeholder = വിലാസം തെരയുക അല്ലെങ്കില്‍ നല്‍കുക
+# This placeholder is used when not in search mode and searching in the urlbar
+# is disabled via the keyword.enabled pref.
+urlbar-placeholder-keyword-disabled =
+    .placeholder = വിലാസം നല്കുക
 # This placeholder is used in search mode with search engines that search the
 # entire web.
 # Variables
@@ -636,6 +644,8 @@ urlbar-result-action-visit = സന്ദര്‍ശിക്കുക
 # Variables
 # $container (String): the name of the target container
 urlbar-result-action-switch-tab-with-container = ടാബിലേക്ക് മാറുക · <span>{ $container }</span>
+# Used when the target tab is in a tab group that doesn't have a label.
+urlbar-result-action-tab-group-unnamed = പേരില്ലാത്ത കൂട്ടം
 # Allows the user to visit a URL that was previously copied to the clipboard.
 urlbar-result-action-visit-from-clipboard = പകർത്തൽപെട്ടിയിൽ അവസാന പക‌‍ർത്തിയ കണ്ണിയിലേക്കു് ചെല്ലുക
 # Directs a user to press the Tab key to perform a search with the specified
@@ -1111,6 +1121,11 @@ popup-notification-xpinstall-prompt-block-url = വിശദാംശങ്ങ�
 popup-notification-addon-privatebrowsing-checkbox2 =
     .label = സ്വകാര്യ ജാലകങ്ങളിൽ പ്രവർത്തിക്കുന്നതിന് ഈ വിപുലീകരണത്തിനെ അനുവദിക്കുക
     .accesskey = സ
+# This string is similar to `webext-perms-description-data-long-technicalAndInteraction`
+# but it is used in the install prompt, and it needs an access key.
+popup-notification-addon-technical-and-interaction-checkbox =
+    .label = സാങ്കേതികയും ഇടപാടനീയ ഡാറ്റ വിപുലീകരണ വളൎത്താക്താവിനോടൊപ്പം പങ്കിടുക
+    .accesskey = പ
 
 ## Pop-up warning
 
@@ -1161,3 +1176,6 @@ file-picker-crashed-show-in-folder =
 ## Onboarding Finish Setup checklist
 
 onboarding-checklist-button-label = സജ്ജീകരണം തീൎക്കുവിൻ
+onboarding-aw-finish-setup-button =
+    .label = സജ്ജീകരണം തീൎക്കുവിൻ
+    .tooltiptext = { -brand-short-name }-ന്റെ സജ്ജീകരണം തീൎക്കുക
