@@ -163,6 +163,12 @@ main-context-menu-copy-link-simple =
 main-context-menu-preview-link =
     .label = Alberz al liamm
     .accesskey = A
+# "Copy Clean Link" means that Firefox will remove things from the link you
+# copied, like items that identify you for advertising purposes, and other items
+# sites add into URLs to help them deliver a certain browsing experience.
+main-context-menu-copy-clean-link =
+    .label = Eilañ an ere naet
+    .accesskey = i
 # This command copies the link, removing additional
 # query parameters used to track users across sites.
 main-context-menu-strip-on-share-link =

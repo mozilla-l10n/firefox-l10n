@@ -204,6 +204,8 @@ select-translations-panel-translate-button =
     .label = Treiñ
 select-translations-panel-try-again-button =
     .label = Klask en-dro
+# Text displayed as a placeholder when the panel is idle.
+select-translations-panel-idle-placeholder-text = Diskouezet e vo an destenn troet amañ.
 # Text displayed as a placeholder when the panel is actively translating.
 select-translations-panel-translating-placeholder-text = O treiñ…
 # Text displayed when the translation fails to complete.

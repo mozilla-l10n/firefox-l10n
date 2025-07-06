@@ -55,6 +55,8 @@ shopping-message-bar-keep-closed-dismiss-button = Ket, trugarez
 
 ## Strings for the product review snippets card
 
+shopping-highlights-label =
+    .label = Poentoù pouezus an alioù diwezhañ
 shopping-highlight-price = Priz
 shopping-highlight-quality = Kalite
 shopping-highlight-shipping = Kas
