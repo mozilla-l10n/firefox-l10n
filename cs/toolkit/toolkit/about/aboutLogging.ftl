@@ -51,6 +51,7 @@ about-logging-preset-webrtc-description = Moduly protokolů pro diagnostiku prob
 about-logging-preset-webcodecs-label = WebCodecs
 about-logging-preset-webcodecs-description = Moduly protokolu pro diagnostiku problémů s dekodéry a enkodéry zvuku/videa a dekodéry obrazu WebCodecs
 about-logging-preset-ml-label = Strojové učení
+about-logging-preset-ml-description = Moduly protokolů pro diagnostiku problémů se strojovým učením
 about-logging-preset-webgpu-label = WebGPU
 about-logging-preset-webgpu-description = Moduly protokolů pro diagnostiku problémů s WebGPU.
 about-logging-preset-gfx-label = Grafika

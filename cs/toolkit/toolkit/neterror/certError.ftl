@@ -134,29 +134,39 @@ cert-error-revoked-certificate =
        *[other] Aplikace { -brand-short-name } zablokovala vaši návštěvu této stránky, protože poskytnutý certifikát byl pro server { $hostname } zneplatněn a již není považován za důvěryhodný.
     }
 cert-error-bad-signature =
-    { -brand-short-name.case-status ->
-        [with-cases] { -brand-short-name } zablokoval vaši návštěvu tohoto webu, protože podpis na certifikátu poskytnutém pro { $hostname } není platný.
-       *[no-cases] Aplikace { -brand-short-name } zablokovala vaši návštěvu tohoto webu, protože podpis na certifikátu poskytnutém pro { $hostname } není platný.
+    { -brand-short-name.gender ->
+        [masculine] { -brand-short-name } zablokoval vaši návštěvu tohoto webu, protože podpis na certifikátu poskytnutém pro { $hostname } není platný.
+        [feminine] { -brand-short-name } zablokovala vaši návštěvu tohoto webu, protože podpis na certifikátu poskytnutém pro { $hostname } není platný.
+        [neuter] { -brand-short-name } zablokovalo vaši návštěvu tohoto webu, protože podpis na certifikátu poskytnutém pro { $hostname } není platný.
+       *[other] Aplikace { -brand-short-name } zablokovala vaši návštěvu tohoto webu, protože podpis na certifikátu poskytnutém pro { $hostname } není platný.
     }
 cert-error-key-pinning-failure =
-    { -brand-short-name.case-status ->
-        [with-cases] { -brand-short-name } zablokoval vaši návštěvu tohoto webu, protože certifikát poskytnutý pro { $hostname } používá jiný veřejný klíč, než se očekávalo.
-       *[no-cases] Aplikace { -brand-short-name } zablokovala vaši návštěvu tohoto webu, protože certifikát poskytnutý pro { $hostname } používá jiný veřejný klíč, než se očekávalo.
+    { -brand-short-name.gender ->
+        [masculine] { -brand-short-name } zablokoval vaši návštěvu tohoto webu, protože certifikát poskytnutý pro { $hostname } používá jiný veřejný klíč, než se očekávalo.
+        [feminine] { -brand-short-name } zablokovala vaši návštěvu tohoto webu, protože certifikát poskytnutý pro { $hostname } používá jiný veřejný klíč, než se očekávalo.
+        [neuter] { -brand-short-name } zablokovalo vaši návštěvu tohoto webu, protože certifikát poskytnutý pro { $hostname } používá jiný veřejný klíč, než se očekávalo.
+       *[other] Aplikace { -brand-short-name } zablokovala vaši návštěvu tohoto webu, protože certifikát poskytnutý pro { $hostname } používá jiný veřejný klíč, než se očekávalo.
     }
 cert-error-bad-der =
-    { -brand-short-name.case-status ->
-        [with-cases] { -brand-short-name } zablokoval vaši návštěvu tohoto webu, protože certifikát poskytnutý pro { $hostname } není správně zakódován.
-       *[no-cases] Aplikace { -brand-short-name } zablokovala vaši návštěvu tohoto webu, protože certifikát poskytnutý pro { $hostname } není správně zakódován.
+    { -brand-short-name.gender ->
+        [masculine] { -brand-short-name } zablokoval vaši návštěvu tohoto webu, protože certifikát poskytnutý pro { $hostname } není správně zakódován.
+        [feminine] { -brand-short-name } zablokovala vaši návštěvu tohoto webu, protože certifikát poskytnutý pro { $hostname } není správně zakódován.
+        [neuter] { -brand-short-name } zablokovalo vaši návštěvu tohoto webu, protože certifikát poskytnutý pro { $hostname } není správně zakódován.
+       *[other] Aplikace { -brand-short-name } zablokovala vaši návštěvu tohoto webu, protože certifikát poskytnutý pro { $hostname } není správně zakódován.
     }
 cert-error-cert-not-in-name-space =
-    { -brand-short-name.case-status ->
-        [with-cases] { -brand-short-name } zablokoval vaši návštěvu tohoto webu, protože certifikát poskytnutý pro { $hostname } nesplňuje omezení názvu certifikátu, pro který byl vydán.
-       *[no-cases] Aplikace { -brand-short-name } zablokovala vaši návštěvu tohoto webu, protože certifikát poskytnutý pro { $hostname } nesplňuje omezení názvu certifikátu, pro který byl vydán.
+    { -brand-short-name.gender ->
+        [masculine] { -brand-short-name } zablokoval vaši návštěvu tohoto webu, protože certifikát poskytnutý pro { $hostname } nesplňuje omezení názvu certifikátu, pro který byl vydán.
+        [feminine] { -brand-short-name } zablokovala vaši návštěvu tohoto webu, protože certifikát poskytnutý pro { $hostname } nesplňuje omezení názvu certifikátu, pro který byl vydán.
+        [neuter] { -brand-short-name } zablokovalo vaši návštěvu tohoto webu, protože certifikát poskytnutý pro { $hostname } nesplňuje omezení názvu certifikátu, pro který byl vydán.
+       *[other] Aplikace { -brand-short-name } zablokovala vaši návštěvu tohoto webu, protože certifikát poskytnutý pro { $hostname } nesplňuje omezení názvu certifikátu, pro který byl vydán.
     }
 cert-error-inadequate-cert-type =
-    { -brand-short-name.case-status ->
-        [with-cases] { -brand-short-name } zablokoval vaši návštěvu tohoto webu, protože certifikát poskytnutý pro { $hostname } není webovým serverem povolen.
-       *[no-cases] Aplikace { -brand-short-name } zablokovala vaši návštěvu tohoto webu, protože certifikát poskytnutý pro { $hostname } není webovým serverem povolen.
+    { -brand-short-name.gender ->
+        [masculine] { -brand-short-name } zablokoval vaši návštěvu tohoto webu, protože certifikát poskytnutý pro { $hostname } není webovým serverem povolen.
+        [feminine] { -brand-short-name } zablokovala vaši návštěvu tohoto webu, protože certifikát poskytnutý pro { $hostname } není webovým serverem povolen.
+        [neuter] { -brand-short-name } zablokovalo vaši návštěvu tohoto webu, protože certifikát poskytnutý pro { $hostname } není webovým serverem povolen.
+       *[other] Aplikace { -brand-short-name } zablokovala vaši návštěvu tohoto webu, protože certifikát poskytnutý pro { $hostname } není webovým serverem povolen.
     }
 cert-error-path-len-constraint-invalid =
     { -brand-short-name.case-status ->

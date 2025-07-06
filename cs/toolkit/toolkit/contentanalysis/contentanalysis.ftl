@@ -36,6 +36,10 @@ contentanalysis-operationtype-clipboard = schránka
 contentanalysis-operationtype-dropped-text = přetažený text
 contentanalysis-operationtype-print = tisk
 #   $filename - The filename associated with the request, such as "aFile.txt"
+contentanalysis-upload-description = nahrání souboru “{ $filename }”
+#   $filename - The filename associated with the request, such as "aFile.txt"
+contentanalysis-download-description = stahování souboru “{ $filename }”
+#   $filename - The filename associated with the request, such as "aFile.txt"
 contentanalysis-customdisplaystring-description = nahrání souboru “{ $filename }”
 contentanalysis-warndialogtitle = Tento obsah může být nebezpečný
 # Variables:
@@ -77,6 +81,7 @@ contentanalysis-block-dialog-title-upload-file = Nemáte oprávnění nahrát te
 # Variables:
 #   $filename - Name of the file that was blocked, such as "aFile.txt"
 contentanalysis-block-dialog-body-upload-file = Zásady vaší organizace pro ochranu dat nepovolují nahrání souboru „{ $filename }“. Pro více informací kontaktujte svého správce.
+contentanalysis-block-dialog-title-download-file = Nemáte oprávnění stáhnout tento soubor
 contentanalysis-block-dialog-title-clipboard = Nemáte oprávnění pro vložení tohoto obsahu
 contentanalysis-block-dialog-body-clipboard = Zásady vaší organizace pro ochranu dat nepovolují vložení tohoto obsahu. Pro více informací kontaktujte svého správce.
 contentanalysis-block-dialog-title-dropped-text = Nemáte oprávnění přetáhnout tento obsah
