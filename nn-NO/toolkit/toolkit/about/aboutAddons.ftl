@@ -470,6 +470,9 @@ shortcuts-heading = Handsam snarvegar for utvidingar
 default-heading-search-label = Finn fleire tillegg
 addons-heading-search-input =
     .placeholder = Søk på addons.mozilla.org
+addons-heading-search-button =
+    .title = Søk på addons.mozilla.org
+    .aria-label = Søk på addons.mozilla.org
 addon-page-options-button =
     .title = Verktøy for alle tillegg
 
@@ -531,12 +534,20 @@ plugins-widevine-description = Dette programtillegget gjer det mogleg å spele a
 ## Headings for the Permissions tab in `about:addons` when the data collection
 ## feature is enabled.
 
+addon-permissions-required-data-collection = Påkravd datainnsamling:
 addon-permissions-optional-data-collection = Valfri datainnsamling:
 # Name of the Permissions tab in `about:addons` when the data collection feature is enabled.
 permissions-data-addon-button = Løyve og data
+# This is a description for extension that use this AI model
+# Variables:
+#   $extensionName (String) - Name of the extension
+mlmodel-extension-label = Blir brukt av utvidinga { $extensionName }
 
 ## Mapping Engine IDs from AI models to how that feature represented by the engine Id is described in the used by section in local model management
 
+mlmodel-about-inference = { -brand-short-name } brukar dette på about:inference
+mlmodel-link-preview = { -brand-short-name } bruker denne modellen til å generere hovudpunkt når du førehandsviser lenkjar
+mlmodel-pdfjs = { -brand-short-name } brukar dette til å lage alt-tekst for bilde du legg til i PDF-ar
 # AI Model will be downloaded on the users device and used locally
 addon-category-mlmodel = AI på eininga
 addon-category-mlmodel-title =

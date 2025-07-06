@@ -263,6 +263,10 @@ preferences-web-appearance-choice-input-dark =
     .aria-description = { preferences-web-appearance-choice-tooltip-dark.title }
 # This can appear when using windows HCM or "Override colors: always" without
 # system colors.
+preferences-web-appearance-override-warning3 =
+    .message = Kontrastinnstillingane dine overstyrer utsjånaden til nettstaden.
+# This can appear when using windows HCM or "Override colors: always" without
+# system colors.
 preferences-web-appearance-override-warning = Fargevala dine overstyrer utsjånaden til nettstaden. <a data-l10n-name="colors-link">Handsam fargar</a>
 # This can appear when using windows HCM or "Override colors: always" without
 # system colors.
@@ -357,6 +361,9 @@ download-choose-folder =
 download-always-ask-where =
     .label = Spør alltid om kvar eg vil lagre filer
     .accesskey = a
+download-private-browsing-delete =
+    .label = Slett filer som er lasta ned i privat nettlesing når alle private vindauge er attlatne
+    .accesskey = S
 applications-header = Program
 applications-description = Vel korleis { -brand-short-name } handsamar filer du hentar frå nettet eller programma du brukar når du surfar.
 applications-filter =

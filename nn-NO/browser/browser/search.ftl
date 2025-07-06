@@ -56,6 +56,8 @@ add-engine-window =
     .style = min-width: 32em;
 add-engine-button = Legg til eigendefinert søkjemotor
 add-engine-name = Søkjemotornamn
+add-engine-url2 = Nettadresse med %s i staden for søkjeord
+add-engine-keyword2 = Nøkkelord (valfritt)
 
 ## The following placeholders are shown in the inputs when adding a new engine.
 
