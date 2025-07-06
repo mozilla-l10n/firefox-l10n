@@ -191,6 +191,9 @@ downloads-private-browsing-message = Alle som brukar denne eininga kan sjå nedl
 downloads-private-browsing-delete-button =
     .label = Slett filer automatisk
     .accesskey = S
+downloads-private-browsing-accept-button =
+    .label = Eg forstår
+    .accesskey = E
 
 ## Displayed when a site attempts to automatically download many files.
 ## Variables:

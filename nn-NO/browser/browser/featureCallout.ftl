@@ -141,6 +141,8 @@ pin-tabs-callout-cta-1-button = Fest denne fana
 pin-tabs-callout-2-title = Fest faner du besøkjer ofte
 pin-tabs-callout-2-subtitle = For å feste ei fane, drag henne til starten av fanestripa. Eller høgreklikk og vel Fest fane.
 pin-tabs-callout-cta-2-button = Fest denne fana
+pin-tabs-callout-3-title = Hald viktige nettstadar innan rekkjevidde
+pin-tabs-callout-4-title = Fest nettstadar du besøkjer oftast
 
 ## Sidebar Onboarding Strings
 
