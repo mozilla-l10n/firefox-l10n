@@ -790,6 +790,8 @@ urlbar-searchmode-actions =
     .label = Әрекеттер
 urlbar-searchmode-exit-button =
     .tooltiptext = Жабу
+urlbar-searchmode-default =
+    .tooltiptext = Негізгі іздеу жүйесі
 # Label shown on the top of Searchmode Switcher popup. After this label, the
 # available search engines will be listed.
 urlbar-searchmode-popup-description = Осы рет, келесімен іздеу:

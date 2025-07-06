@@ -124,6 +124,7 @@ genai-onboarding-select-header = Ұсыныстарды көру үшін мәт
 genai-onboarding-select-description = Мәтінді таңдаған кезде чат-ботқа жіберуге болатын ескертулерді ұсынамыз. Сіз өзіңіздің сұрауларыңызды да жаза аласыз.
 genai-onboarding-select-primary = Чатты бастау
 genai-chatbot-contextual-button = Чат-ботты таңдау
+genai-chatbot-summarize-button = Бет қорытындысы
 
 ## Chatbot onboarding choices
 ## These describe features/capabilities of chatbot providers. These are not buttons/actions.

@@ -97,6 +97,8 @@ perplexity-callout-secondary-label-2 = Түсіндім
 
 ## Account Adoption Passwords callout strings
 
+# Opens Mozilla accounts sign-up page
+fxa-adoption-passwords-primary-button-label = Тіркелу
 
 ## Sidebar Strings
 
