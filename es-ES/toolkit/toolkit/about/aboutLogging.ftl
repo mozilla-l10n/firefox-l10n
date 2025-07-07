@@ -50,6 +50,7 @@ about-logging-preset-webrtc-label = WebRTC
 about-logging-preset-webrtc-description = Módulos de registro para diagnosticar problemas de WebRTC
 about-logging-preset-webcodecs-label = WebCodecs
 about-logging-preset-webcodecs-description = Módulos de registro para diagnosticar problemas con los decodificadores y codificadores de audio/vídeo de WebCodecs y los decodificadores de imágenes
+about-logging-preset-ml-label = Machine Learning
 about-logging-preset-webgpu-label = WebGPU
 about-logging-preset-webgpu-description = Módulos de registro para diagnosticar problemas de WebGPU
 about-logging-preset-gfx-label = Gráficos

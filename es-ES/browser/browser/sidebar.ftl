@@ -68,6 +68,7 @@ sidebar-show-on-the-left =
 # hovers over it.
 expand-sidebar-on-hover =
     .label = Expandir la barra lateral al pasar el ratón
+sidebar-manage-extensions = Gestionar extensiones
 
 ## Labels for sidebar context menu items
 
@@ -101,6 +102,10 @@ sidebar-context-menu-customize-sidebar =
 #   $deviceName (String) - The name of the device the user is closing a tab for
 sidebar-context-menu-close-remote-tab =
     .label = Cerrar pestaña en { $deviceName }
+sidebar-context-menu-remove-extension2 =
+    .label = Eliminar de { -brand-short-name }
+sidebar-context-menu-unpin-extension =
+    .label = Eliminar de la barra lateral
 
 ## Labels for sidebar history context menu items
 
@@ -125,6 +130,8 @@ sidebar-menu-customize-label =
     .label = Personalizar barra lateral
 sidebar-menu-contextual-password-manager-label =
     .label = Contraseñas
+sidebar-menu-more-tools-label =
+    .label = Más herramientas
 
 ## Tooltips for sidebar menu items.
 
