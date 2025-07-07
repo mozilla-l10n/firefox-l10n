@@ -60,6 +60,7 @@ genai-menu-remove-generic =
 # $provider (string) - name of the provider
 genai-menu-remove-provider =
     .label = Odebrat { $provider }
+genai-menu-new-badge = Nový
 genai-input-ask-generic =
     .placeholder = Zeptat se AI chatbota…
 # $provider (string) - name of the provider
