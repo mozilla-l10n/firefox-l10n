@@ -582,3 +582,5 @@ newtab-trending-searches-hide-trending =
     .title = Trending sykopdrachten ferstopje
 newtab-trending-searches-learn-more = Mear ynfo
 newtab-trending-searches-dismiss = Trending sykopdrachten ferstopje
+# "Trending searches refers to popular searches from search engines
+newtab-trending-searches-title = Trending sykopdrachten

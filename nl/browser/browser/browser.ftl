@@ -410,6 +410,10 @@ quickactions-cmd-settings2 = instellingen, voorkeuren, opties, beheren
 quickactions-cmd-settings = instellingen, voorkeuren, opties
 # Opens about:addons page in the themes section
 quickactions-themes = Thema’s beheren
+# In English we provide multiple spellings for "add-ons". If that's not
+# applicable to your language, only use the correct spelling (don't repeat the
+# same word).
+quickactions-cmd-themes2 = thema’s, add-ons
 quickactions-cmd-themes = thema’s
 # Opens a SUMO article explaining how to update the browser
 quickactions-update = { -brand-short-name } bijwerken
@@ -814,6 +818,8 @@ urlbar-searchmode-actions =
     .label = Acties
 urlbar-searchmode-exit-button =
     .tooltiptext = Sluiten
+urlbar-searchmode-default =
+    .tooltiptext = Standaardzoekmachine
 # Label shown on the top of Searchmode Switcher popup. After this label, the
 # available search engines will be listed.
 urlbar-searchmode-popup-description = Deze keer zoeken met:

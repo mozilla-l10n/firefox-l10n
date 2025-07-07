@@ -582,3 +582,5 @@ newtab-trending-searches-hide-trending =
     .title = Trending zoekopdrachten verbergen
 newtab-trending-searches-learn-more = Meer info
 newtab-trending-searches-dismiss = Trending zoekopdrachten verbergen
+# "Trending searches refers to popular searches from search engines
+newtab-trending-searches-title = Trending zoekopdrachten

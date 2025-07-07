@@ -281,6 +281,8 @@ tab-context-move-tab-to-group =
            *[other] Ljepblêden oan groep tafoegje
         }
     .accesskey = g
+tab-context-move-tab-to-group-saved-groups =
+    .label = Sletten groepen
 tab-group-editor-action-new-tab =
     .label = Nij ljepblêd yn groep
 tab-group-editor-action-new-window =

@@ -281,6 +281,8 @@ tab-context-move-tab-to-group =
            *[other] Tabbladen aan groep toevoegen
         }
     .accesskey = g
+tab-context-move-tab-to-group-saved-groups =
+    .label = Gesloten groepen
 tab-group-editor-action-new-tab =
     .label = Nieuw tabblad in groep
 tab-group-editor-action-new-window =
