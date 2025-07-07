@@ -204,6 +204,7 @@ contextual-manager-passwords-no-username-heading-and-message =
     .heading = Додайте ім'я користувача
     .message = Додайте ім'я користувача, щоб швидше виконувати вхід.
 contextual-manager-passwords-add-username-button = Додати ім'я користувача
+contextual-manager-passwords-title = Паролі
 
 ## Login Form
 
@@ -266,6 +267,24 @@ contextual-manager-view-alert-heading =
     .heading = Переглянути попередження
 contextual-manager-view-alert-button =
     .tooltiptext = Попередження щодо перевірки
+# Variables
+#   $count (number) - The number of active alerts associated with the login
+contextual-manager-view-alert-heading-2 =
+    .heading =
+        { $count ->
+            [one] Переглянути попередження
+            [few] Переглянути $count попередження
+           *[many] Переглянути $count попереджень
+        }
+# Variables
+#   $count (number) - The number of active alerts associated with the login
+contextual-manager-view-alert-button-2 =
+    .tooltiptext =
+        { $count ->
+            [one] Переглянути попередження
+            [few] Переглянути $count попередження
+           *[many] Переглянути $count попереджень
+        }
 contextual-manager-show-password-button =
     .aria-label = Показати пароль
     .title = Показати пароль

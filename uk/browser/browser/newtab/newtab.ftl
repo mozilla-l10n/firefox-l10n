@@ -505,6 +505,9 @@ newtab-topic-selection-button-pick-interests = Виберіть свої інт�
 newtab-section-follow-button = Читати
 newtab-section-following-button = Ви читаєте
 newtab-section-unfollow-button = Відписатися
+# A modal may appear next to the Follow button, directing users to try out the feature
+newtab-section-follow-highlight-title = Налаштуйте свою стрічку
+newtab-section-follow-highlight-subtitle = Слідкуйте за своїми інтересами, щоб бачити більше того, що вам подобається.
 
 ## Button to block/unblock listed topics
 ## "Block", "unblocked", and "blocked" are social media terms that refer to hiding a section of stories.
@@ -580,3 +583,5 @@ newtab-trending-searches-hide-trending =
     .title = Приховати популярні пошукові запити
 newtab-trending-searches-learn-more = Докладніше
 newtab-trending-searches-dismiss = Приховати популярні пошукові запити
+# "Trending searches refers to popular searches from search engines
+newtab-trending-searches-title = Популярні пошукові запити

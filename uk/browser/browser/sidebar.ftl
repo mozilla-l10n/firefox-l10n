@@ -68,6 +68,7 @@ sidebar-show-on-the-left =
 # hovers over it.
 expand-sidebar-on-hover =
     .label = Розгортати бічну панель при наведенні
+sidebar-manage-extensions = Керувати розширеннями
 
 ## Labels for sidebar context menu items
 
@@ -101,6 +102,10 @@ sidebar-context-menu-customize-sidebar =
 #   $deviceName (String) - The name of the device the user is closing a tab for
 sidebar-context-menu-close-remote-tab =
     .label = Закрити вкладку на { $deviceName }
+sidebar-context-menu-remove-extension2 =
+    .label = Вилучити з { -brand-short-name }
+sidebar-context-menu-unpin-extension =
+    .label = Вилучити з бічної панелі
 
 ## Labels for sidebar history context menu items
 

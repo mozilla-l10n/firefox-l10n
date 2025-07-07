@@ -410,6 +410,10 @@ quickactions-cmd-settings2 = налаштування, уподобання, о�
 quickactions-cmd-settings = налаштування, уподобання, параметри
 # Opens about:addons page in the themes section
 quickactions-themes = Керувати темами
+# In English we provide multiple spellings for "add-ons". If that's not
+# applicable to your language, only use the correct spelling (don't repeat the
+# same word).
+quickactions-cmd-themes2 = теми, додатки, доповнення
 quickactions-cmd-themes = теми
 # Opens a SUMO article explaining how to update the browser
 quickactions-update = Оновити { -brand-short-name }
@@ -615,6 +619,10 @@ urlbar-search-mode-indicator-close =
 # engine is unknown.
 urlbar-placeholder =
     .placeholder = Введіть пошуковий запит чи адресу
+# This placeholder is used when not in search mode and searching in the urlbar
+# is disabled via the keyword.enabled pref.
+urlbar-placeholder-keyword-disabled =
+    .placeholder = Введіть адресу
 # This placeholder is used in search mode with search engines that search the
 # entire web.
 # Variables
@@ -811,6 +819,8 @@ urlbar-searchmode-actions =
     .label = Дії
 urlbar-searchmode-exit-button =
     .tooltiptext = Закрити
+urlbar-searchmode-default =
+    .tooltiptext = Типова пошукова система
 # Label shown on the top of Searchmode Switcher popup. After this label, the
 # available search engines will be listed.
 urlbar-searchmode-popup-description = Цього разу шукати з:
@@ -1316,3 +1326,6 @@ file-picker-crashed-show-in-folder =
 ## Onboarding Finish Setup checklist
 
 onboarding-checklist-button-label = Завершити налаштування
+onboarding-aw-finish-setup-button =
+    .label = Завершити налаштування
+    .tooltiptext = Завершити налаштування { -brand-short-name }

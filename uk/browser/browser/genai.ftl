@@ -51,11 +51,20 @@ genai-menu-ask-generic =
 # $provider (string) - name of the provider
 genai-menu-ask-provider =
     .label = Запитати в { $provider }
+genai-menu-open-generic =
+    .label = Чат-бот Open AI
+# $provider (string) - name of the provider
+genai-menu-open-provider =
+    .label = Відкрити { $provider }
 genai-menu-remove-generic =
     .label = Вилучити чат-бот з ШІ
 # $provider (string) - name of the provider
 genai-menu-remove-provider =
     .label = Вилучити { $provider }
+genai-menu-remove-sidebar =
+    .label = Вилучити з бічної панелі
+genai-menu-new-badge = Новий
+genai-menu-summarize-page = Підсумувати вміст сторінки
 genai-input-ask-generic =
     .placeholder = Запитати в чат-бота з ШІ…
 # $provider (string) - name of the provider
@@ -80,6 +89,10 @@ genai-shortcuts-selected-warning =
         }
 genai-shortcuts-hide =
     .label = Приховати ярлик чат-бота
+genai-menu-no-provider =
+    .label = Запитати в чат-бота з ШІ
+genai-menu-choose-chatbot =
+    .label = Вибрати чат-бота з ШІ
 
 ## Chatbot header
 
@@ -106,6 +119,7 @@ genai-options-about-chatbot =
 
 ## Chatbot footer
 
+genai-page-button-summarize = Підсумувати вміст сторінки
 
 ## Chatbot onboarding
 
@@ -141,6 +155,15 @@ genai-onboarding-select-primary = Почати спілкування
 genai-chatbot-contextual-title = Використовуйте чат-бота з ШІ безпосередньо на вкладці
 genai-chatbot-contextual-subtitle = Додайте чат-бота з ШІ до бічної панелі { -brand-short-name }, щоб користуватися ним одночасно з переглядом вебсторінок.
 genai-chatbot-contextual-button = Виберіть чат-бота
+genai-chatbot-summarize-title = Новинка! Миттєво підсумовуйте вміст сторінок
+genai-chatbot-summarize-button = Підсумувати вміст сторінки
+# “Summarize Page” should be consistent with the translation for the string genai-menu-summarize-page
+genai-chatbot-summarize-sidebar-provider-subtitle = Клацніть правою кнопкою миші чат-бот з ШІ на бічній панелі та виберіть "Підсумувати вміст сторінки".
+# “Summarize Page” should be consistent with the translation for the string genai-menu-summarize-page
+genai-chatbot-summarize-sidebar-generic-subtitle = Натисніть правою кнопкою миші кнопку з блискітками на бічній панелі та виберіть "Підсумувати вміст сторінки". Першого разу також необхідно вибрати чат-бота з ШІ.
+# “Summarize page” should be consistent with the translation for the string genai-page-button-summarize
+genai-chatbot-summarize-footer-provider-subtitle = Відкрийте свого чат-бота з ШІ на бічній панелі та виберіть внизу "Підсумувати вміст сторінки".
+genai-chatbot-summarize-footer-generic-subtitle = Додайте чат-бота з ШІ до бічної панелі { -brand-short-name } для швидкого підсумовування вмісту сторінок.
 
 ## Chatbot onboarding choices
 ## These describe features/capabilities of chatbot providers. These are not buttons/actions.

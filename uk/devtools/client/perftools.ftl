@@ -149,6 +149,8 @@ perftools-presets-graphics-label = Графіка
 perftools-presets-graphics-description = Задані параметри для виявлення помилок графіки в { -brand-shorter-name }.
 perftools-presets-media-label = Медіа
 perftools-presets-media-description2 = Задані параметри для виявлення помилок аудіо та відео в { -brand-shorter-name }.
+perftools-presets-ml-label = Машинне навчання
+perftools-presets-ml-description2 = Задані параметри для дослідження помилок машинного навчання у { -brand-shorter-name }.
 perftools-presets-networking-label = Мережа
 perftools-presets-networking-description = Задані параметри для виявлення мережевих помилок у { -brand-shorter-name }.
 # "Power" is used in the sense of energy (electricity used by the computer).

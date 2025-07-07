@@ -106,6 +106,11 @@ perplexity-callout-secondary-label-2 = Зрозуміло
 
 ## Account Adoption Passwords callout strings
 
+# Suggestion to backup passwords by signing up for Mozilla account and using sync
+fxa-adoption-passwords-title = Пароль збережено. Створіть резервну копію.
+fxa-adoption-passwords-subtitle = Захистіть свої паролі, синхронізувавши їх з пристроями за допомогою шифрування.
+# Opens Mozilla accounts sign-up page
+fxa-adoption-passwords-primary-button-label = Зареєструватись
 
 ## Sidebar Strings
 
@@ -130,6 +135,14 @@ sidebar-pins-callout-cta-button = Закріпити вкладку
 
 ## Pinning Tabs Strings
 
+pin-tabs-callout-1-title = Тримайте важливі вкладки під рукою
+pin-tabs-callout-1-subtitle = Перетягніть вкладку на початок панелі вкладок, щоб закріпити її. Або клацніть правою кнопкою миші та виберіть "Закріпити вкладку".
+pin-tabs-callout-cta-1-button = Закріпити цю вкладку
+pin-tabs-callout-2-title = Закріпіть вкладки, які відвідуєте найчастіше
+pin-tabs-callout-2-subtitle = Щоб закріпити будь-яку вкладку, перетягніть її на початок панелі вкладок. Або клацніть правою кнопкою миші та виберіть "Закріпити вкладку".
+pin-tabs-callout-cta-2-button = Закріпити цю вкладку
+pin-tabs-callout-3-title = Тримайте важливі сайти під рукою
+pin-tabs-callout-4-title = Закріпіть сайти, які відвідуєте найчастіше
 
 ## Sidebar Onboarding Strings
 
