@@ -11,9 +11,9 @@
 ## external links. Some of the commands have the keyboard shortcut shown next to
 ## the label.
 
-toolbox-meatball-menu-dock-bottom-label = Прикріпити знизу
-toolbox-meatball-menu-dock-left-label = Прикріпити ліворуч
-toolbox-meatball-menu-dock-right-label = Прикріпити праворуч
+toolbox-meatball-menu-dock-bottom-label = Закріпити знизу
+toolbox-meatball-menu-dock-left-label = Закріпити ліворуч
+toolbox-meatball-menu-dock-right-label = Закріпити праворуч
 toolbox-meatball-menu-dock-separate-window-label = Окреме вікно
 toolbox-meatball-menu-splitconsole-label = Показати консоль розділення
 toolbox-meatball-menu-hideconsole-label = Сховати консоль розділення

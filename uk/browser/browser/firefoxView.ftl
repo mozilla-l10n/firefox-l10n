@@ -263,7 +263,7 @@ firefoxview-recentlyclosed-empty-description-two = Щоб знайти давн�
 firefoxview-syncedtabs-device-notabs = На цьому пристрої немає відкритих вкладок
 firefoxview-syncedtabs-connect-another-device = Під'єднати інший пристрій
 firefoxview-pinned-tabs =
-    .title = Прикріплені вкладки
+    .title = Закріплені вкладки
 firefoxview-tabs =
     .title = Вкладки
 
