@@ -131,6 +131,8 @@ media-device-latency = Закъснение
 
 ## Codec support table
 
+media-codec-support-supported = Поддържан
+media-codec-support-unsupported = Неподдържан
 
 ## Media Content Decryption Modules (CDM)
 ## See EME Spec for more explanation for following technical terms

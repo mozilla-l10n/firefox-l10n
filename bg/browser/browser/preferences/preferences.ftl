@@ -645,6 +645,9 @@ home-prefs-weather-header =
     .label = Времето
 home-prefs-weather-description = Днешната прогноза
 home-prefs-weather-learn-more-link = Научете повече
+# "Support" here means to help sustain or contribute to something, especially through funding or sponsorship.
+home-prefs-support-firefox-header =
+    .label = Подкрепете { -brand-product-name }
 # Variables:
 #   $num (number) - Number of rows displayed
 home-prefs-sections-rows-option =

@@ -8,6 +8,9 @@
 newtab-page-title = แท็บใหม่
 newtab-settings-button =
     .title = ปรับแต่งหน้าแท็บใหม่ของคุณ
+newtab-customize-panel-icon-button =
+    .title = ปรับแต่งหน้านี้
+newtab-customize-panel-icon-button-label = ปรับแต่ง
 newtab-personalize-settings-icon-label =
     .title = ปรับแต่งแท็บใหม่
     .aria-label = การตั้งค่า
@@ -314,6 +317,9 @@ newtab-custom-recent-toggle =
 newtab-custom-weather-toggle =
     .label = พยากรณ์อากาศ
     .description = ดูพยากรณ์อากาศประจำวันนี้ได้อย่างรวดเร็ว
+newtab-custom-trending-search-toggle =
+    .label = การค้นหาที่กำลังมาแรง
+    .description = หัวข้อที่มีการค้นหาซึ่งได้รับความนิยมและพบบ่อย
 newtab-custom-close-button = ปิด
 newtab-custom-settings = จัดการการตั้งค่าเพิ่มเติม
 
@@ -564,3 +570,9 @@ newtab-toast-thanks-for-reporting =
 
 ## Strings for trending searches
 
+# "Trending on Google" refers to the trending topics coming from Google Search, usually seen when a user is focused on the search bar
+newtab-trending-searches-trending-on-google = กำลังมาแรงบน Google
+newtab-trending-searches-show-trending =
+    .title = แสดงการค้นหาที่กำลังมาแรง
+newtab-trending-searches-hide-trending =
+    .title = ซ่อนการค้นหาที่กำลังมาแรง
