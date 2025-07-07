@@ -410,6 +410,10 @@ quickactions-cmd-settings2 = การตั้งค่า, ค่าปรั�
 quickactions-cmd-settings = การตั้งค่า, ค่าปรับแต่ง, ตัวเลือก
 # Opens about:addons page in the themes section
 quickactions-themes = จัดการชุดตกแต่ง
+# In English we provide multiple spellings for "add-ons". If that's not
+# applicable to your language, only use the correct spelling (don't repeat the
+# same word).
+quickactions-cmd-themes2 = ชุดตกแต่ง, ส่วนเสริม
 quickactions-cmd-themes = ชุดตกแต่ง
 # Opens a SUMO article explaining how to update the browser
 quickactions-update = อัปเดต { -brand-short-name }
@@ -607,6 +611,10 @@ urlbar-search-mode-indicator-close =
 # engine is unknown.
 urlbar-placeholder =
     .placeholder = ค้นหาหรือป้อนที่อยู่
+# This placeholder is used when not in search mode and searching in the urlbar
+# is disabled via the keyword.enabled pref.
+urlbar-placeholder-keyword-disabled =
+    .placeholder = ป้อนที่อยู่
 # This placeholder is used in search mode with search engines that search the
 # entire web.
 # Variables
@@ -686,6 +694,8 @@ urlbar-result-action-visit = เยี่ยมชม
 # Variables
 # $container (String): the name of the target container
 urlbar-result-action-switch-tab-with-container = สลับไปยังแท็บ · <span>{ $container }</span>
+# Used when the target tab is in a tab group that doesn't have a label.
+urlbar-result-action-tab-group-unnamed = กลุ่มที่ไม่มีชื่อ
 # Allows the user to visit a URL that was previously copied to the clipboard.
 urlbar-result-action-visit-from-clipboard = เยี่ยมชมจากคลิปบอร์ด
 # Directs a user to press the Tab key to perform a search with the specified
@@ -734,6 +744,46 @@ urlbar-result-action-calculator-result-3 = = { NUMBER($result, useGrouping: "fal
 # Variables
 #  $result (String): the string representation for a formula result
 urlbar-result-action-calculator-result-decimal = = { NUMBER($result, maximumSignificantDigits: 9) }
+# The title of a weather suggestion in the urlbar. The temperature and unit
+# substring should be inside a <strong> tag. If the temperature and unit are not
+# adjacent in the localization, it's OK to include only the temperature in the
+# tag.
+# Variables:
+#   $temperature (number) - The temperature value
+#   $unit (String) - The unit for the temperature, either "C" or "F"
+#   $city (String) - The name of the city the weather data is for
+#   $region (String) - The name of the city's region or country. Depending on
+#       the user's location in relation to the city, this may be the name or
+#       abbreviation of one of the city's administrative divisions like a
+#       province or state, or it may be the name of the city's country.
+urlbar-result-weather-title = <strong>{ $temperature }°{ $unit }</strong> ใน { $city } { $region }
+# The title of a weather suggestion in the urlbar including a region and
+# country. The temperature and unit substring should be inside a <strong> tag.
+# If the temperature and unit are not adjacent in the localization, it's OK to
+# include only the temperature in the tag.
+# Variables:
+#   $temperature (number) - The temperature value
+#   $unit (String) - The unit for the temperature, either "C" or "F"
+#   $city (String) - The name of the city the weather data is for
+#   $region (String) - The name or abbreviation of one of the city's
+#       administrative divisions like a province or state.
+#   $country (String) - The name of the city's country.
+urlbar-result-weather-title-with-country = <strong>{ $temperature }°{ $unit }</strong> ใน { $city } { $region } { $country }
+# The title of a weather suggestion in the urlbar only including the city. The
+# temperature and unit substring should be inside a <strong> tag. If the
+# temperature and unit are not adjacent in the localization, it's OK to include
+# only the temperature in the tag.
+# Variables:
+#   $temperature (number) - The temperature value
+#   $unit (String) - The unit for the temperature, either "C" or "F"
+#   $city (String) - The name of the city the weather data is for
+urlbar-result-weather-title-city-only = <strong>{ $temperature }°{ $unit }</strong> ใน { $city }
+# Shows the name of the provider of weather data in a weather suggestion in the
+# urlbar.
+# Variables:
+#   $provider (String) - The name of the weather-data provider. It will be the
+#       name of a company, organization, or service.
+urlbar-result-weather-provider-sponsored = { $provider } · ได้รับการสนับสนุน
 
 ## Strings used for buttons in the urlbar
 
@@ -761,6 +811,8 @@ urlbar-searchmode-actions =
     .label = การกระทำ
 urlbar-searchmode-exit-button =
     .tooltiptext = ปิด
+urlbar-searchmode-default =
+    .tooltiptext = เครื่องมือค้นหาเริ่มต้น
 # Label shown on the top of Searchmode Switcher popup. After this label, the
 # available search engines will be listed.
 urlbar-searchmode-popup-description = ครั้งนี้ค้นหาด้วย:
@@ -1065,6 +1117,8 @@ navbar-accessible =
     .aria-label = การนำทาง
 navbar-downloads =
     .label = การดาวน์โหลด
+navbar-overflow-2 =
+    .tooltiptext = เครื่องมือเพิ่มเติม
 navbar-overflow =
     .tooltiptext = เครื่องมือเพิ่มเติม…
 # Variables:
@@ -1254,3 +1308,6 @@ file-picker-crashed-show-in-folder =
 ## Onboarding Finish Setup checklist
 
 onboarding-checklist-button-label = ตั้งค่าให้เสร็จสิ้น
+onboarding-aw-finish-setup-button =
+    .label = ตั้งค่าให้เสร็จสิ้น
+    .tooltiptext = ตั้งค่า { -brand-short-name } ให้เสร็จสิ้น

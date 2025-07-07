@@ -576,3 +576,7 @@ newtab-trending-searches-show-trending =
     .title = แสดงการค้นหาที่กำลังมาแรง
 newtab-trending-searches-hide-trending =
     .title = ซ่อนการค้นหาที่กำลังมาแรง
+newtab-trending-searches-learn-more = เรียนรู้เพิ่มเติม
+newtab-trending-searches-dismiss = ซ่อนการค้นหาที่กำลังมาแรง
+# "Trending searches refers to popular searches from search engines
+newtab-trending-searches-title = การค้นหาที่กำลังมาแรง

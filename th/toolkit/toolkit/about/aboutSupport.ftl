@@ -185,6 +185,8 @@ media-capabilities-enumerate = แจงนับฐานข้อมูล
 
 media-codec-support-sw-decoding = การถอดรหัสด้วยซอฟต์แวร์
 media-codec-support-hw-decoding = การถอดรหัสด้วยฮาร์ดแวร์
+media-codec-support-sw-encoding = การเข้ารหัสด้วยซอฟต์แวร์
+media-codec-support-hw-encoding = การเข้ารหัสด้วยฮาร์ดแวร์
 media-codec-support-codec-name = ชื่อตัวแปลงสัญญาณ
 media-codec-support-supported = รองรับ
 media-codec-support-unsupported = ไม่รองรับ
