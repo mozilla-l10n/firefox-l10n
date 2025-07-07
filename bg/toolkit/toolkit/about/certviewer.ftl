@@ -31,6 +31,7 @@ certificate-viewer-organization = Организация
 certificate-viewer-policy = Политика
 certificate-viewer-protocol = Протокол
 certificate-viewer-purposes = Цели
+certificate-viewer-unsupported = &lt;неподдържано&gt;
 certificate-viewer-state-province = Щат/провинция
 certificate-viewer-sha-1 = SHA-1
 certificate-viewer-sha-256 = SHA-256
