@@ -108,6 +108,9 @@ perplexity-callout-secondary-label-2 = Entendido
 
 # Suggestion to backup passwords by signing up for Mozilla account and using sync
 fxa-adoption-passwords-title = Contraseña guardada. Hagamos una copia de seguridad.
+fxa-adoption-passwords-subtitle = Proteja sus contraseñas sincronizándolas a sus dispositivos con cifrado.
+# Opens Mozilla accounts sign-up page
+fxa-adoption-passwords-primary-button-label = Registrarse
 
 ## Sidebar Strings
 
@@ -132,6 +135,14 @@ sidebar-pins-callout-cta-button = Fijar pestaña
 
 ## Pinning Tabs Strings
 
+pin-tabs-callout-1-title = Mantenga las pestañas importantes a su alcance
+pin-tabs-callout-1-subtitle = Arrastre una pestaña al comienzo de la barra de pestañas para fijarla. O haga clic con el botón derecho y elija Fijar pestaña.
+pin-tabs-callout-cta-1-button = Fijar esta pestaña
+pin-tabs-callout-2-title = Fijar las pestañas más visitadas
+pin-tabs-callout-2-subtitle = Para fijar cualquier pestaña, arrástrela al comienzo de la barra de pestañas. O haga clic con el botón derecho y elija Fijar pestaña.
+pin-tabs-callout-cta-2-button = Fijar esta pestaña
+pin-tabs-callout-3-title = Mantenga los sitios importantes a su alcance
+pin-tabs-callout-4-title = Fijar los sitios más visitados
 
 ## Sidebar Onboarding Strings
 
