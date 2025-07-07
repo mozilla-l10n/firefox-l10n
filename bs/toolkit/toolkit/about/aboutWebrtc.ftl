@@ -308,7 +308,7 @@ about-webrtc-sdp-set-at-timestamp-remote = Postavi udaljeni SDP na vremensku ozn
 # Variables:
 #  $timestamp (Number) - The Unix Epoch time at which the SDP was set.
 #  $relative-timestamp (Number) - The timestamp relative to the timestamp of the earliest received SDP.
-about-webrtc-sdp-set-timestamp = Vremenska oznaka { BROJ($timestamp, useGrouping: "false") } (+ { $relative-timestamp } ms)
+about-webrtc-sdp-set-timestamp = Vremenska oznaka { NUMBER($timestamp, useGrouping: "false") } (+ { $relative-timestamp } ms)
 
 ## These are displayed on the button that shows or hides the SDP information disclosure
 

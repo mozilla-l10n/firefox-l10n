@@ -169,10 +169,10 @@ about-processes-cpu-fully-idle = neaktivan
 ##                        of `memory-unit-*`.
 
 # Common case.
-about-processes-total-memory-size-changed = { NUMBER($total, maximumFractionDigits: 0) }
+about-processes-total-memory-size-changed = { NUMBER($total, maximumFractionDigits: 0) }{ $totalUnit }
     .title = Evolucija: { $deltaSign }{ NUMBER($delta, maximumFractionDigits: 0) }{ $deltaUnit }
 # Special case: no change.
-about-processes-total-memory-size-no-change = { NUMBER($total, maximumFractionDigits: 0) }
+about-processes-total-memory-size-no-change = { NUMBER($total, maximumFractionDigits: 0) }{ $totalUnit }
 
 ## Duration units
 

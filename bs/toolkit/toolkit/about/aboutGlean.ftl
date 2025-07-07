@@ -83,7 +83,7 @@ about-glean-label-for-log-pings =
 about-glean-label-for-controls-submit =
     Pritisnite prethodno dugme da označite sve { -glean-brand-name } pingove svojom oznakom i pošaljete odabrani ping.
     (Svi pingovi poslani od tada do ponovnog pokretanja aplikacije bit će označeni sa
-    <code>{ $debug-tag } .)
+    <code>{ $debug-tag }</code>.)
 about-glean-li-for-visit-gdpv =
     <a data-l10n-name="gdpv-tagged-pings-link">Posjetite stranicu { glean-debug-ping-viewer-brand-name } za pingove s vašom oznakom</a>.
     Ne bi trebalo proći više od nekoliko sekundi od pritiska dugmeta do dolaska vašeg pinga.
