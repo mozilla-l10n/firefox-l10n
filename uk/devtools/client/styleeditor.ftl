@@ -51,7 +51,7 @@ styleeditor-stylesheet-rule-count =
     }
 # Title for the pretty print button in the editor footer.
 styleeditor-pretty-print-button =
-    .title = Охайний друк таблиці стилів
+    .title = Таблиця стилів для структурного друку
 # Title for the pretty print button in the editor footer, when it's disabled
 styleeditor-pretty-print-button-disabled =
-    .title = Може охайно друкувати лише файли CSS
+    .title = Можна структурно друкувати лише файли CSS
