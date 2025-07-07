@@ -84,6 +84,9 @@ contentanalysis-block-dialog-title-upload-file = Nid oes caniatâd i chi lwytho'
 #   $filename - Name of the file that was blocked, such as "aFile.txt"
 contentanalysis-block-dialog-body-upload-file = O dan bolisïau diogelu data eich sefydliad, nid oes caniatâd i chi lwytho’r ffeil “{ $filename }”. Cysylltwch â'ch gweinyddwr am ragor o wybodaeth.
 contentanalysis-block-dialog-title-download-file = Nid oes caniatâd i chi lwytho'r ffeil hon i lawr
+# Variables:
+#   $filename - Name of the file that was blocked, such as "aFile.txt"
+contentanalysis-block-dialog-body-download-file = O dan bolisïau diogelu data eich sefydliad, nid oes caniatâd i chi lwytho’r ffeil “{ $filename }”. Cysylltwch â'ch gweinyddwr am ragor o wybodaeth.
 contentanalysis-block-dialog-title-clipboard = Nid oes caniatâd i chi ludo'r ffeil hon
 contentanalysis-block-dialog-body-clipboard = O dan bolisïau diogelu data eich sefydliad, nid oes caniatâd i chi ludo'r cynnwys hwn. Cysylltwch â'ch gweinyddwr am ragor o wybodaeth.
 contentanalysis-block-dialog-title-dropped-text = Nid oes caniatâd i chi ollwng y cynnwys hwn
