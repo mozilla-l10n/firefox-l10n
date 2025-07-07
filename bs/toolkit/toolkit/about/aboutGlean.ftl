@@ -90,7 +90,7 @@ about-glean-li-for-visit-gdpv =
     Ponekad može proći i nekoliko minuta.
 # Do not translate strings between <code> </code> tags.
 about-glean-adhoc-explanation =
-    Za više *ad hoc* testiranja,
+    Za više <i>ad hoc</i> testiranja,
     trenutnu vrijednost određenog instrumenta možete odrediti i otvaranjem devtools konzole ovdje na <code>about:glean</code>
     i korištenjem <code>testGetValue()</code> API-ja kao što je
     <code>Glean.metricCategory.metricName.testGetValue()</code>.
