@@ -39,3 +39,6 @@ more-from-moz-mozilla-monitor-button = קבלת { -monitor-brand-short-name }
 more-from-moz-solo-title = { -solo-ai-brand-name } AI
 more-from-moz-solo-description = יצירת אתר משלך באופן מיידי וחיבור המתחם המותאם אישית שלך בחינם.
 more-from-moz-solo-button = לנסות את { -solo-ai-brand-name }
+
+## These strings are for the MDN card in about:preferences moreFromMozilla page
+

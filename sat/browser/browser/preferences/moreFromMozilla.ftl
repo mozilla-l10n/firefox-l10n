@@ -31,3 +31,6 @@ more-from-moz-firefox-relay-button = { -relay-brand-short-name } ᱟᱹᱜᱩᱭ
 
 ## These strings are for the Solo card in about:preferences moreFromMozilla page
 
+
+## These strings are for the MDN card in about:preferences moreFromMozilla page
+

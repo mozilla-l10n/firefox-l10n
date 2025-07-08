@@ -39,3 +39,6 @@ more-from-moz-mozilla-monitor-button = Sử dụng { -monitor-brand-short-name }
 more-from-moz-solo-title = { -solo-ai-brand-name } AI
 more-from-moz-solo-description = Tạo trang web của bạn ngay lập tức và kết nối tên miền tùy chỉnh của riêng bạn miễn phí.
 more-from-moz-solo-button = Thử { -solo-ai-brand-name }
+
+## These strings are for the MDN card in about:preferences moreFromMozilla page
+

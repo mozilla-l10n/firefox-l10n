@@ -548,6 +548,9 @@ newtab-download-mobile-highlight-body-variant-c = Bạn có biết bạn có th�
 newtab-download-mobile-highlight-image =
     .aria-label = Mã QR để tải xuống { -brand-product-name } dành cho di động
 
+## Strings for shortcuts highlight
+
+
 ## Strings for reporting ads and content
 
 newtab-report-content-why-reporting-this =

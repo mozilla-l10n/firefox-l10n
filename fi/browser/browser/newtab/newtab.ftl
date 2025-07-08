@@ -549,6 +549,9 @@ newtab-download-mobile-highlight-body-variant-c = Tiesitkö, että voit ottaa { 
 newtab-download-mobile-highlight-image =
     .aria-label = QR-koodi { -brand-product-name }in lataamiseksi mobiililaitteille
 
+## Strings for shortcuts highlight
+
+
 ## Strings for reporting ads and content
 
 newtab-report-content-why-reporting-this =

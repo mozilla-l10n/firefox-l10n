@@ -39,3 +39,6 @@ more-from-moz-mozilla-monitor-button = Preuzmite { -monitor-brand-short-name }
 more-from-moz-solo-title = { -solo-ai-brand-name } AI
 more-from-moz-solo-description = Kreirajte svoju web stranicu odmah i povežite vlastitu prilagođenu domenu besplatno.
 more-from-moz-solo-button = Isprobajte { -solo-ai-brand-name }
+
+## These strings are for the MDN card in about:preferences moreFromMozilla page
+

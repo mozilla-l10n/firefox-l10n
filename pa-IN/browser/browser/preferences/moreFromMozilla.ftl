@@ -39,3 +39,6 @@ more-from-moz-mozilla-monitor-button = { -monitor-brand-short-name } ਲਵੋ
 more-from-moz-solo-title = { -solo-ai-brand-name } AI
 more-from-moz-solo-description = ਆਪਣੀ ਵੈੱਬਸਾਈਟ ਫ਼ੌਰਨ ਬਣਾਓ ਅਤੇ ਮੁਫ਼ਤ ਵਿੱਚ ਆਪਣੀ ਪਸੰਦੀਦਾ ਡੋਮੇਨ ਨਾਲ ਕਨੈਕਟ ਕਰੋ।
 more-from-moz-solo-button = { -solo-ai-brand-name } ਨੂੰ ਅਜ਼ਮਾਓ
+
+## These strings are for the MDN card in about:preferences moreFromMozilla page
+

@@ -544,6 +544,9 @@ newtab-download-mobile-highlight-body-variant-c = 您还可以将 { -brand-produ
 newtab-download-mobile-highlight-image =
     .aria-label = 移动版 { -brand-product-name } 的下载二维码
 
+## Strings for shortcuts highlight
+
+
 ## Strings for reporting ads and content
 
 newtab-report-content-why-reporting-this =

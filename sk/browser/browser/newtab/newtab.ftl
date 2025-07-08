@@ -546,6 +546,9 @@ newtab-download-mobile-highlight-body-variant-c = Vedeli ste, že { -brand-produ
 newtab-download-mobile-highlight-image =
     .aria-label = QR kód na stiahnutie { -brand-product-name(case: "gen") } pre mobilné zariadenia
 
+## Strings for shortcuts highlight
+
+
 ## Strings for reporting ads and content
 
 newtab-report-content-why-reporting-this =

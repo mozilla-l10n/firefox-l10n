@@ -38,3 +38,6 @@ more-from-moz-mozilla-monitor-button = { -monitor-brand-short-name } алу
 
 more-from-moz-solo-title = { -solo-ai-brand-name } ЖИ
 more-from-moz-solo-button = { -solo-ai-brand-name } қолданып көру
+
+## These strings are for the MDN card in about:preferences moreFromMozilla page
+

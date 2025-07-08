@@ -548,6 +548,9 @@ newtab-download-mobile-highlight-body-variant-c = ¿Sabía que puede llevar { -b
 newtab-download-mobile-highlight-image =
     .aria-label = Código QR para descargar { -brand-product-name } para móviles
 
+## Strings for shortcuts highlight
+
+
 ## Strings for reporting ads and content
 
 newtab-report-content-why-reporting-this =

@@ -546,6 +546,9 @@ newtab-download-mobile-highlight-body-variant-c = Czy wiesz, że możesz zabrać
 newtab-download-mobile-highlight-image =
     .aria-label = Kod QR do pobrania { -brand-product-name(case: "gen") } na telefon
 
+## Strings for shortcuts highlight
+
+
 ## Strings for reporting ads and content
 
 newtab-report-content-why-reporting-this =

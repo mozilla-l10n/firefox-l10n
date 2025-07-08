@@ -545,6 +545,9 @@ newtab-download-mobile-highlight-body-variant-c = Sape tu que tu pote prender { 
 newtab-download-mobile-highlight-image =
     .aria-label = Codice QR pro discargar { -brand-product-name } pro apparatos mobile
 
+## Strings for shortcuts highlight
+
+
 ## Strings for reporting ads and content
 
 newtab-report-content-why-reporting-this =

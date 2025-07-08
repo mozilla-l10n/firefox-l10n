@@ -35,3 +35,6 @@ more-from-moz-mozilla-monitor-button = Iegūt { -monitor-brand-short-name }
 
 ## These strings are for the Solo card in about:preferences moreFromMozilla page
 
+
+## These strings are for the MDN card in about:preferences moreFromMozilla page
+

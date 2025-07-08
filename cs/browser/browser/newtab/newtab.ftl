@@ -567,6 +567,9 @@ newtab-download-mobile-highlight-image =
            *[no-cases] QR kód pro stažení aplikace { -brand-product-name } pro mobilní zařízení
         }
 
+## Strings for shortcuts highlight
+
+
 ## Strings for reporting ads and content
 
 newtab-report-content-why-reporting-this =

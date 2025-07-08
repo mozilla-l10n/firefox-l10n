@@ -543,6 +543,9 @@ newtab-download-mobile-highlight-body-variant-c = ידעת שניתן לקחת �
 newtab-download-mobile-highlight-image =
     .aria-label = קוד QR להורדת { -brand-product-name } לנייד
 
+## Strings for shortcuts highlight
+
+
 ## Strings for reporting ads and content
 
 newtab-report-content-why-reporting-this =

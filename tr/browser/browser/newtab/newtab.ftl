@@ -545,6 +545,9 @@ newtab-download-mobile-highlight-body-variant-c = { -brand-product-name } taray�
 newtab-download-mobile-highlight-image =
     .aria-label = Mobil cihazlar için { -brand-product-name }’u indirebileceğiniz QR kodu
 
+## Strings for shortcuts highlight
+
+
 ## Strings for reporting ads and content
 
 newtab-report-content-why-reporting-this =

@@ -549,6 +549,9 @@ newtab-download-mobile-highlight-body-variant-c = Wisten jo dat jo { -brand-prod
 newtab-download-mobile-highlight-image =
     .aria-label = QR-koade om { -brand-product-name } foar mobyl te downloaden
 
+## Strings for shortcuts highlight
+
+
 ## Strings for reporting ads and content
 
 newtab-report-content-why-reporting-this =

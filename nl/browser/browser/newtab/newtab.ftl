@@ -549,6 +549,9 @@ newtab-download-mobile-highlight-body-variant-c = Wist u dat u { -brand-product-
 newtab-download-mobile-highlight-image =
     .aria-label = QR-code om { -brand-product-name } voor mobiel te downloaden
 
+## Strings for shortcuts highlight
+
+
 ## Strings for reporting ads and content
 
 newtab-report-content-why-reporting-this =

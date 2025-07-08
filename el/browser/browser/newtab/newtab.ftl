@@ -549,6 +549,9 @@ newtab-download-mobile-highlight-body-variant-c = Γνωρίζατε ότι μπ
 newtab-download-mobile-highlight-image =
     .aria-label = Κωδικός QR για τη λήψη του { -brand-product-name } για κινητές συσκευές
 
+## Strings for shortcuts highlight
+
+
 ## Strings for reporting ads and content
 
 newtab-report-content-why-reporting-this =

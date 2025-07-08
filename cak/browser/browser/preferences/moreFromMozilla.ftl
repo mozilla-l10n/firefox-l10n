@@ -25,3 +25,6 @@ more-from-moz-firefox-relay-button = Tik'ul { -relay-brand-short-name }
 
 ## These strings are for the Solo card in about:preferences moreFromMozilla page
 
+
+## These strings are for the MDN card in about:preferences moreFromMozilla page
+

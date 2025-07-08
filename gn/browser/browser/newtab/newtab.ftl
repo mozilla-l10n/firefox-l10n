@@ -548,6 +548,9 @@ newtab-download-mobile-highlight-body-variant-c = ¿Eikuaápa ikatuha eraha { -b
 newtab-download-mobile-highlight-image =
     .aria-label = QR ayvu emboguejy hag̃ua { -brand-product-name } pumbyrýpe
 
+## Strings for shortcuts highlight
+
+
 ## Strings for reporting ads and content
 
 newtab-report-content-why-reporting-this =

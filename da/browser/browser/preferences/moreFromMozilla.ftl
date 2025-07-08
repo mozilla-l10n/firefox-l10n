@@ -39,3 +39,6 @@ more-from-moz-mozilla-monitor-button = Hent { -monitor-brand-short-name }
 more-from-moz-solo-title = { -solo-ai-brand-name } AI
 more-from-moz-solo-description = Opret din hjemmeside på et øjeblik og opret gratis forbindelse til dit eget domæne.
 more-from-moz-solo-button = Prøv { -solo-ai-brand-name }
+
+## These strings are for the MDN card in about:preferences moreFromMozilla page
+

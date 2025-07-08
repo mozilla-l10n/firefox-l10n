@@ -550,6 +550,9 @@ newtab-download-mobile-highlight-body-variant-c = Savevistu che tu puedis simpri
 newtab-download-mobile-highlight-image =
     .aria-label = Codiç QR par discjariâ { -brand-product-name } par dispositîfs mobii
 
+## Strings for shortcuts highlight
+
+
 ## Strings for reporting ads and content
 
 newtab-report-content-why-reporting-this =

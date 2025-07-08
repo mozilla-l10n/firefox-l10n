@@ -548,6 +548,9 @@ newtab-download-mobile-highlight-body-variant-c = Ali ste vedeli, da lahko { -br
 newtab-download-mobile-highlight-image =
     .aria-label = Koda QR za prenos { -brand-product-name(sklon: "rodilnik") } za mobilne naprave
 
+## Strings for shortcuts highlight
+
+
 ## Strings for reporting ads and content
 
 newtab-report-content-why-reporting-this =

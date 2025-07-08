@@ -548,6 +548,9 @@ newtab-download-mobile-highlight-body-variant-c = 이동 중에도 { -brand-prod
 newtab-download-mobile-highlight-image =
     .aria-label = 모바일용 { -brand-product-name } 다운로드를 위한 QR 코드
 
+## Strings for shortcuts highlight
+
+
 ## Strings for reporting ads and content
 
 newtab-report-content-why-reporting-this =

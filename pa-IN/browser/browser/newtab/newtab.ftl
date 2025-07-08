@@ -542,6 +542,9 @@ newtab-download-mobile-highlight-body-variant-c = ਕੀ ਤੁਹਾਨੂੰ �
 newtab-download-mobile-highlight-image =
     .aria-label = ਮੋਬਾਈਲ ਵਾਸਤੇ { -brand-product-name } ਡਾਊਨਲੋਡ ਕਰਨ ਲਈ QR ਕੋਡ
 
+## Strings for shortcuts highlight
+
+
 ## Strings for reporting ads and content
 
 newtab-report-content-why-reporting-this =

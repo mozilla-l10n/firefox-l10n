@@ -551,6 +551,9 @@ newtab-download-mobile-highlight-body-variant-c = Sćo wěźeł, až móžośo {
 newtab-download-mobile-highlight-image =
     .aria-label = QR-kod za ześěgnjenje { -brand-product-name } za mobilne rědy
 
+## Strings for shortcuts highlight
+
+
 ## Strings for reporting ads and content
 
 newtab-report-content-why-reporting-this =

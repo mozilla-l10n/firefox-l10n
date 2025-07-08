@@ -39,3 +39,6 @@ more-from-moz-mozilla-monitor-button = { -monitor-brand-short-name }’ü kullan
 more-from-moz-solo-title = { -solo-ai-brand-name } AI
 more-from-moz-solo-description = Web sitenizi anında oluşturun ve kendi özel alan adınızı ücretsiz olarak bağlayın.
 more-from-moz-solo-button = { -solo-ai-brand-name }’yu deneyin
+
+## These strings are for the MDN card in about:preferences moreFromMozilla page
+

@@ -549,6 +549,9 @@ newtab-download-mobile-highlight-body-variant-c = Tudta, hogy magával viheti a 
 newtab-download-mobile-highlight-image =
     .aria-label = QR-kód a mobilos { -brand-product-name } letöltéséhez
 
+## Strings for shortcuts highlight
+
+
 ## Strings for reporting ads and content
 
 newtab-report-content-why-reporting-this =

@@ -39,3 +39,6 @@ more-from-moz-mozilla-monitor-button = 使用 { -monitor-brand-short-name }
 more-from-moz-solo-title = { -solo-ai-brand-name } AI
 more-from-moz-solo-description = 弹指间创建自己的网站，还可使用自己的域名。无需付费。
 more-from-moz-solo-button = 试用 { -solo-ai-brand-name }
+
+## These strings are for the MDN card in about:preferences moreFromMozilla page
+

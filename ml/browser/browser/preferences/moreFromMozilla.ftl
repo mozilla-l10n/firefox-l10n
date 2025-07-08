@@ -27,3 +27,6 @@ more-from-moz-mozilla-monitor-button = { -monitor-brand-short-name } നേട�
 
 ## These strings are for the Solo card in about:preferences moreFromMozilla page
 
+
+## These strings are for the MDN card in about:preferences moreFromMozilla page
+

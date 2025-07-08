@@ -550,6 +550,9 @@ newtab-download-mobile-highlight-body-variant-c = Чи знаєте ви, що {
 newtab-download-mobile-highlight-image =
     .aria-label = QR-код для завантаження { -brand-product-name } для мобільних пристроїв
 
+## Strings for shortcuts highlight
+
+
 ## Strings for reporting ads and content
 
 newtab-report-content-why-reporting-this =

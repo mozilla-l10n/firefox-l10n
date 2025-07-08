@@ -539,6 +539,9 @@ newtab-download-mobile-highlight-body-variant-c = Ĉu vi sciis ke vi povas porti
 newtab-download-mobile-highlight-image =
     .aria-label = Kodo QR por elŝuti { -brand-product-name } por poŝaparatoj
 
+## Strings for shortcuts highlight
+
+
 ## Strings for reporting ads and content
 
 newtab-report-content-why-reporting-this =

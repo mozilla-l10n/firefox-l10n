@@ -554,6 +554,9 @@ newtab-download-mobile-highlight-body-variant-c = Oeddech chi'n gwybod y gallwch
 newtab-download-mobile-highlight-image =
     .aria-label = Cod QR i lwytho { -brand-product-name } i lawr ar gyfer ffôn symudol
 
+## Strings for shortcuts highlight
+
+
 ## Strings for reporting ads and content
 
 newtab-report-content-why-reporting-this =

@@ -39,3 +39,6 @@ more-from-moz-mozilla-monitor-button = Cael { -monitor-brand-short-name }
 more-from-moz-solo-title = { -solo-ai-brand-name } AI
 more-from-moz-solo-description = Crëwch eich gwefan yn syth a chysylltu'ch parth personol eich hun am ddim.
 more-from-moz-solo-button = Rhowch gynnig ar { -solo-ai-brand-name }
+
+## These strings are for the MDN card in about:preferences moreFromMozilla page
+

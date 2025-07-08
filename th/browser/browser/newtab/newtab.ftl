@@ -545,6 +545,9 @@ newtab-download-mobile-highlight-body-variant-c = คุณรู้ไหมว
 newtab-download-mobile-highlight-image =
     .aria-label = คิวอาร์โค้ดสำหรับดาวน์โหลด { -brand-product-name } สำหรับมือถือ
 
+## Strings for shortcuts highlight
+
+
 ## Strings for reporting ads and content
 
 newtab-report-content-why-reporting-this =

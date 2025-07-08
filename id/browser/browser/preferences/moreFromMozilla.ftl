@@ -39,3 +39,6 @@ more-from-moz-mozilla-monitor-button = Dapatkan { -monitor-brand-short-name }
 more-from-moz-solo-title = { -solo-ai-brand-name } AI
 more-from-moz-solo-description = Buat situs web Anda secara instan dan hubungkan domain ubahan Anda sendiri secara gratis.
 more-from-moz-solo-button = Coba { -solo-ai-brand-name }
+
+## These strings are for the MDN card in about:preferences moreFromMozilla page
+

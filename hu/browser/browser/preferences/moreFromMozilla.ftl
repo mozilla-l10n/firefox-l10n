@@ -39,3 +39,6 @@ more-from-moz-mozilla-monitor-button = A { -monitor-brand-short-name } beszerzé
 more-from-moz-solo-title = { -solo-ai-brand-name } MI
 more-from-moz-solo-description = Hozza létre azonnal a weboldalát, és kapcsolja hozzá ingyenesen a saját egyéni domainjét.
 more-from-moz-solo-button = A { -solo-ai-brand-name } kipróbálása
+
+## These strings are for the MDN card in about:preferences moreFromMozilla page
+

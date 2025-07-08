@@ -547,6 +547,9 @@ newtab-download-mobile-highlight-body-variant-c = Оё шумо медонист
 newtab-download-mobile-highlight-image =
     .aria-label = Рамзи «QR» барои боргирӣ кардани версияи мобилии «{ -brand-product-name }»
 
+## Strings for shortcuts highlight
+
+
 ## Strings for reporting ads and content
 
 newtab-report-content-why-reporting-this =

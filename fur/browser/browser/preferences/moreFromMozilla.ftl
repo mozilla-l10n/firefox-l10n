@@ -39,3 +39,6 @@ more-from-moz-mozilla-monitor-button = Oten { -monitor-brand-short-name }
 more-from-moz-solo-title = { -solo-ai-brand-name } AI
 more-from-moz-solo-description = Cree daurman il to sît web e conet in mût gratuit il to domini personalizât.
 more-from-moz-solo-button = Prove { -solo-ai-brand-name }
+
+## These strings are for the MDN card in about:preferences moreFromMozilla page
+
