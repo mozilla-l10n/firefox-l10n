@@ -363,6 +363,7 @@ quickactions-downloads2 = 다운로드 보기
 quickactions-cmd-downloads = 다운로드, downloads
 # Opens about:addons page in the extensions section
 quickactions-extensions = 확장 기능 관리
+quickactions-cmd-extensions2 = extensions, addons, add-ons, 확장 기능, 부가 기능
 quickactions-cmd-extensions = 확장 기능, extensions
 # Opens Firefox View
 quickactions-firefoxview = { -firefoxview-brand-name } 열기
