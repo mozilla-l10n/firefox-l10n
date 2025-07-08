@@ -159,6 +159,11 @@ genai-chatbot-summarize-title = Uutta! Tee yhteenveto sivuista yhdellä napsautu
 genai-chatbot-summarize-button = Tee yhteenveto sivusta
 # “Summarize Page” should be consistent with the translation for the string genai-menu-summarize-page
 genai-chatbot-summarize-sidebar-provider-subtitle = Napsauta hiiren kakkospainikkeella AI-chatbottia sivupalkissa ja valitse ”Tee yhteenveto sivusta”.
+# “Summarize Page” should be consistent with the translation for the string genai-menu-summarize-page
+genai-chatbot-summarize-sidebar-generic-subtitle = Napsauta hiiren oikealla painikkeella kimalluspainiketta sivupalkissa ja valitse ”Tee yhteenveto sivusta”. Ensimmäisellä kerralla valitset myös tekoälychatbotin.
+# “Summarize page” should be consistent with the translation for the string genai-page-button-summarize
+genai-chatbot-summarize-footer-provider-subtitle = Avaa tekoälychatbotti sivupalkista ja valitse alareunasta ”Tee yhteenveto sivusta”.
+genai-chatbot-summarize-footer-generic-subtitle = Lisää tekoälychatbot { -brand-short-name }in sivupalkkiin, jotta voit muodostaa yhteenvetoja sivujen sisällöstä.
 
 ## Chatbot onboarding choices
 ## These describe features/capabilities of chatbot providers. These are not buttons/actions.
