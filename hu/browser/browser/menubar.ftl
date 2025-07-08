@@ -263,6 +263,10 @@ menu-profiles-manage-profiles =
     .label = Profilok kezelése
 menu-profiles-new-profile =
     .label = Új profil
+# Variables:
+#  $profileName (String): the name of the users profile
+menu-profiles-current =
+    .label = { $profileName } (jelenlegi)
 
 ## Tools Menu
 

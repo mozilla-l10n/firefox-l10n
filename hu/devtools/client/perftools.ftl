@@ -149,6 +149,8 @@ perftools-presets-graphics-label = Grafika
 perftools-presets-graphics-description = Előbeállítás a { -brand-shorter-name } grafikai hibák kivizsgálásához.
 perftools-presets-media-label = Média
 perftools-presets-media-description2 = Előbeállítás a { -brand-shorter-name } hang- és videóhibáinak kivizsgálásához.
+perftools-presets-ml-label = Gépi tanulás
+perftools-presets-ml-description2 = Előbeállítás a { -brand-shorter-name } gépi tanulási hibáinak kivizsgálásához.
 perftools-presets-networking-label = Hálózat
 perftools-presets-networking-description = Előbeállítás a { -brand-shorter-name } hálózati hibák kivizsgálásához.
 # "Power" is used in the sense of energy (electricity used by the computer).

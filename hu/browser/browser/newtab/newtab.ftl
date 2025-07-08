@@ -582,3 +582,5 @@ newtab-trending-searches-hide-trending =
     .title = Felkapott keresések elrejtése
 newtab-trending-searches-learn-more = További tudnivalók
 newtab-trending-searches-dismiss = Felkapott keresések elrejtése
+# "Trending searches refers to popular searches from search engines
+newtab-trending-searches-title = Felkapott keresések

@@ -281,6 +281,8 @@ tab-context-move-tab-to-group =
            *[other] Lapok hozzáadása csoporthoz
         }
     .accesskey = c
+tab-context-move-tab-to-group-saved-groups =
+    .label = Zárt csoportok
 tab-group-editor-action-new-tab =
     .label = Új lap a csoportban
 tab-group-editor-action-new-window =

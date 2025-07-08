@@ -410,6 +410,10 @@ quickactions-cmd-settings2 = beállítások, lehetőségek, kezelés
 quickactions-cmd-settings = beállítások, lehetőségek, kapcsolók
 # Opens about:addons page in the themes section
 quickactions-themes = Témák kezelése
+# In English we provide multiple spellings for "add-ons". If that's not
+# applicable to your language, only use the correct spelling (don't repeat the
+# same word).
+quickactions-cmd-themes2 = témák, kiegészítők
 quickactions-cmd-themes = témák
 # Opens a SUMO article explaining how to update the browser
 quickactions-update = A { -brand-short-name } frissítése
@@ -814,6 +818,8 @@ urlbar-searchmode-actions =
     .label = Műveletek
 urlbar-searchmode-exit-button =
     .tooltiptext = Bezárás
+urlbar-searchmode-default =
+    .tooltiptext = Alapértelmezett keresőszolgáltatás
 # Label shown on the top of Searchmode Switcher popup. After this label, the
 # available search engines will be listed.
 urlbar-searchmode-popup-description = Ezúttal keressen a következővel:
