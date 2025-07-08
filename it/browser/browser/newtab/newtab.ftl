@@ -551,6 +551,9 @@ newtab-download-mobile-highlight-body-variant-c = Lo sapevi che puoi portare { -
 newtab-download-mobile-highlight-image =
     .aria-label = Codice QR per scaricare { -brand-product-name } per dispositivi mobili
 
+## Strings for shortcuts highlight
+
+
 ## Strings for reporting ads and content
 
 newtab-report-content-why-reporting-this =
@@ -586,5 +589,3 @@ newtab-trending-searches-learn-more = Ulteriori informazioni
 newtab-trending-searches-dismiss = Nascondi ricerche di tendenza
 # "Trending searches refers to popular searches from search engines
 newtab-trending-searches-title = Ricerche di tendenza
-
-
