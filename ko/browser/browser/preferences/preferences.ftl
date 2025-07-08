@@ -1256,6 +1256,7 @@ content-blocking-etp-standard-tcp-rollout-description = 전체 쿠키 보호는 
 content-blocking-etp-standard-tcp-rollout-learn-more = 더 알아보기
 content-blocking-etp-standard-tcp-title = 가장 강력한 개인 정보 보호 기능인 전체 쿠키 보호 포함
 content-blocking-warning-title = 주의하세요!
+content-blocking-and-isolating-etp-warning-description-3 = 이 설정으로 인해 일부 웹 사이트는 콘텐츠를 표시하지 않거나 제대로 작동하지 않을 수 있습니다. 사용자 설정의 영향을 받을 수 있는 웹사이트에 대해서는 선택적 예외를 제공하고 있습니다. 웹 사이트가 깨질 가능성을 줄이려면 다음 추적기 예외를 허용하세요. 사이트가 손상된 것처럼 보이면 해당 사이트의 추적 방지 기능을 해제하여 모든 콘텐츠를 로드하고 모든 사용자를 위해 문제를 해결할 수 있도록 문제를 보고할 수 있습니다.
 content-blocking-and-isolating-etp-warning-description-2 = 이 설정으로 인해 일부 웹 사이트가 콘텐츠를 표시하지 않거나 제대로 작동하지 않을 수 있습니다. 사이트가 손상된 것 같으면 해당 사이트에 대한 추적 방지 기능을 해제하여 모든 콘텐츠를 로드할 수 있습니다.
 content-blocking-warning-learn-how = 방법 알아보기
 content-blocking-baseline-exceptions =
