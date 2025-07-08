@@ -49,6 +49,7 @@ about-logging-preset-webrtc-label = WebRTC
 about-logging-preset-webrtc-description = Loggmodular for å diagnostisere WebRTC-oppkall
 about-logging-preset-webcodecs-label = WebCodecs
 about-logging-preset-ml-label = Maskinlæring
+about-logging-preset-ml-description = Profildataa er registrerte. Vil du lagre eller laste dei opp?
 about-logging-preset-webgpu-label = WebGPU
 about-logging-preset-webgpu-description = Loggmodular for å diagnostisere WebGPU-problem
 about-logging-preset-gfx-label = Grafikk
@@ -69,13 +70,30 @@ about-logging-unknown-profiler-preset = Ukjent førehandsval for profilering «{
 about-logging-unknown-option = Ukjent alternativ for about:logging «{ $k }»
 about-logging-configuration-url-ignored = Konfigurasjons-URL ignorert
 about-logging-file-and-profiler-override = Kan ikkje tvinge utdata for fil og overstyre innstillingar for profilering samtidig
+# Variables:
+#   $errorText (string) - The received error message, inserted as is.
+about-logging-unknown-error = Det oppstod ein feil: { $errorText }
 about-logging-configured-via-url = Alternativ sett opp via URL
 
 ## The upload interface is shown only with the preference toolkit.aboutLogging.uploadProfileToCloud
 ## set to true. It is false by default, except on Android.
 
+about-logging-upload-question = Profildataa er registrerte. Vil du lagre eller laste dei opp?
 about-logging-save-button = Lagre
 about-logging-upload-button = Last opp
 # Variables:
 #   $path (string) - The path where the profile can be found.
 about-logging-saved = Lagra til { $path }
+# Variables:
+#   $percent (number) - The upload completion progress, to be displayed as a percentage. This is a value between 0 and 1.
+about-logging-uploading-progress = Lastar opp profildata: { NUMBER($percent, maximumSignificantDigits: 2, style: "percent") }
+# Variables:
+#   $url (string) - The URL where the profile can be found
+about-logging-uploaded = Lasta opp til <a data-l10n-name="uploaded-message-url">{ $url }</a>
+about-logging-share-uploaded-url = <img data-l10n-name="share-image"/> Del URL
+# Variables:
+#   $errorText (string) - The received error message, inserted as is.
+about-logging-upload-error = Det oppstod ein feil under opplasting av profilen: { $errorText }
+# Variables:
+#   $errorText (string) - The received error message, inserted as is.
+about-logging-save-error = Det oppstod ein feil under lagring av fila: { $errorText }

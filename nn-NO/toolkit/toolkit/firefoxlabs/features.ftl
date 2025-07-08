@@ -28,6 +28,9 @@ experimental-features-group-customize-browsing =
 # Contextual Password Manager in sidebar
 experimental-features-contextual-password-manager =
     .label = Passord i sidestolpen
+# New Tab Custom Wallpapers
+experimental-features-custom-wallpaper =
+    .label = Vel ein eigendefinert bakgrunn eller farge for Ny fane
 # Link Previews with AI
 experimental-features-link-previews =
     .label = Førehandsvising av lenker
