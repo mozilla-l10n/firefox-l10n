@@ -93,14 +93,14 @@ main-context-menu-page-save =
 ## Simple menu items
 
 main-context-menu-bookmark-page =
-    .aria-label = 将页面加入书签…
+    .aria-label = 为页面添加书签…
     .accesskey = m
-    .tooltiptext = 将页面加入书签
+    .tooltiptext = 为页面添加书签
 # This menuitem is only visible on macOS
 # Cannot be shown at the same time as main-context-menu-edit-bookmark-mac,
 # so should probably have the same access key if possible.
 main-context-menu-bookmark-page-mac =
-    .label = 将页面加入书签…
+    .label = 为页面添加书签…
     .accesskey = m
 # This menuitem is only visible on macOS
 # Cannot be shown at the same time as main-context-menu-bookmark-page-mac,
@@ -111,9 +111,9 @@ main-context-menu-edit-bookmark-mac =
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the add bookmark command.
 main-context-menu-bookmark-page-with-shortcut =
-    .aria-label = 将页面加入书签…
+    .aria-label = 为页面添加书签…
     .accesskey = m
-    .tooltiptext = 将页面加入书签（{ $shortcut }）
+    .tooltiptext = 为页面添加书签（{ $shortcut }）
 main-context-menu-edit-bookmark =
     .aria-label = 编辑书签…
     .accesskey = m
@@ -139,9 +139,6 @@ main-context-menu-open-link-new-window =
 main-context-menu-open-link-new-private-window =
     .label = 新建隐私窗口打开链接
     .accesskey = P
-main-context-menu-bookmark-link-2 =
-    .label = 将链接加入书签…
-    .accesskey = B
 main-context-menu-save-link =
     .label = 从链接另存文件为…
     .accesskey = k
@@ -345,9 +342,6 @@ main-context-menu-frame-open-window =
 main-context-menu-frame-reload =
     .label = 重新加载框架
     .accesskey = R
-main-context-menu-frame-add-bookmark =
-    .label = 将框架加入书签…
-    .accesskey = m
 main-context-menu-frame-save-as =
     .label = 另存框架为…
     .accesskey = F
