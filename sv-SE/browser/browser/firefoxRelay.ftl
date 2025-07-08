@@ -72,6 +72,7 @@ firefox-relay-and-fxa-opt-in-confirmation-enable-button-basic-info =
 
 firefox-relay-and-fxa-popup-notification-header-with-domain = Få ett gratis e-postalias
 firefox-relay-and-fxa-popup-notification-first-sentence-with-domain = Skydda din inkorg från skräppost genom att använda ett gratis <label data-l10n-name="firefox-relay-learn-more-url">e-postalias</label> för att dölja din riktiga adress. E-postmeddelanden från <label data-l10n-name="firefox-fxa-and-relay-offer-domain">den här webbplatsen</label> kommer fortfarande till din inkorg, men med din e-postadress dold.
+firefox-relay-and-fxa-popup-notification-first-sentence = Skydda din inkorg från skräppost genom att använda en gratis <label data-l10n-name="firefox-relay-learn-more-url">{ -relay-brand-name } e-postalias</label> för att dölja din riktiga adress. E-postmeddelanden från <label data-l10n-name="firefox-fxa-and-relay-offer-domain">den här webbplatsen</label> kommer fortfarande till din inkorg, men med din e-post dold.
 firefox-relay-and-fxa-popup-notification-second-sentence-with-domain = Registrera dig först eller logga in på ditt konto för att använda ett e-postalias
 firefox-relay-and-fxa-opt-in-confirmation-enable-button-with-domain =
     .label = Registrera dig

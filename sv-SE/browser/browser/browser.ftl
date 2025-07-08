@@ -363,6 +363,7 @@ quickactions-downloads2 = Visa nedladdningar
 quickactions-cmd-downloads = hämtningar
 # Opens about:addons page in the extensions section
 quickactions-extensions = Hantera tillägg
+quickactions-cmd-extensions2 = tillägg, tillägg
 quickactions-cmd-extensions = tillägg
 # Opens Firefox View
 quickactions-firefoxview = Öppna { -firefoxview-brand-name }

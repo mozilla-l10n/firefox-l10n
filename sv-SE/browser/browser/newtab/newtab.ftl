@@ -551,6 +551,8 @@ newtab-download-mobile-highlight-image =
 
 ## Strings for shortcuts highlight
 
+newtab-shortcuts-highlight-title = Dina favoriter till hands
+newtab-shortcuts-highlight-subtitle = Lägg till en genväg för att behålla dina favoritsajter med ett klick.
 
 ## Strings for reporting ads and content
 
