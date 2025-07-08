@@ -89,7 +89,7 @@ sidebar-context-menu-open-in-private-window =
 sidebar-context-menu-forget-site =
     .label = 清除网站的所有数据…
 sidebar-context-menu-bookmark-tab =
-    .label = 将标签页加入书签…
+    .label = 为标签页添加书签…
 sidebar-context-menu-copy-link =
     .label = 复制链接
 sidebar-context-menu-hide-sidebar =
@@ -112,7 +112,7 @@ sidebar-context-menu-unpin-extension =
 sidebar-history-context-menu-delete-page-2 =
     .label = 从历史记录中删除页面
 sidebar-history-context-menu-bookmark-page =
-    .label = 将页面加入书签…
+    .label = 为页面添加书签…
 sidebar-history-context-menu-delete-pages =
     .label = 从历史记录中删除页面
 

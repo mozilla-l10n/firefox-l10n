@@ -267,7 +267,7 @@ urlbar-star-edit-bookmark =
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the add bookmark command.
 urlbar-star-add-bookmark =
-    .tooltiptext = 将此页面加入书签 ({ $shortcut })
+    .tooltiptext = 为此页面添加书签 ({ $shortcut })
 
 ## Page Action Context Menu
 
@@ -989,7 +989,7 @@ bookmarks-toolbar-placeholder-button =
     .label = 书签工具栏项目
 # "Bookmark" is a verb, as in "Add current tab to bookmarks".
 bookmarks-subview-bookmark-tab =
-    .label = 将当前标签页加入书签…
+    .label = 为当前标签页添加书签…
 
 ## Library Panel items
 

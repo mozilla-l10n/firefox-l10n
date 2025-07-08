@@ -37,7 +37,7 @@ fxviewtabrow-open-in-window = 新建窗口打开
 fxviewtabrow-open-in-private-window = 新建隐私窗口打开
     .accesskey = P
 # “Bookmark” is a verb, as in "Bookmark this page" (add to bookmarks).
-fxviewtabrow-add-bookmark = 加入书签…
+fxviewtabrow-add-bookmark = 添加书签…
     .accesskey = B
 fxviewtabrow-save-to-pocket = 保存到 { -pocket-brand-name }
     .accesskey = o

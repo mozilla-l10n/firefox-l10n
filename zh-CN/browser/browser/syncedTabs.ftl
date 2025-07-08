@@ -43,7 +43,7 @@ synced-tabs-context-open-in-private-window =
 # string is located in tabContextMenu.ftl. So, this string should be translated
 # consistently with the "Bookmark Tab…" string there.
 synced-tabs-context-bookmark =
-    .label = 将标签页加入书签…
+    .label = 为标签页添加书签…
     .accesskey = B
 synced-tabs-context-copy =
     .label = 复制

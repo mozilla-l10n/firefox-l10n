@@ -239,14 +239,14 @@ menu-bookmarks-menu =
 menu-bookmarks-manage =
     .label = 管理书签
 menu-bookmark-tab =
-    .label = 将当前标签页加入书签…
+    .label = 为当前标签页添加书签…
 menu-edit-bookmark =
     .label = 编辑此书签…
 # "Search" is a verb, as in "Search in bookmarks"
 menu-bookmarks-search =
     .label = 搜索书签
 menu-bookmarks-all-tabs =
-    .label = 将所有标签页加入书签…
+    .label = 为所有标签页添加书签…
 menu-bookmarks-toolbar =
     .label = 书签工具栏
 menu-bookmarks-other =
