@@ -15,6 +15,7 @@ about-logging-set-log-file = Vel loggfil
 about-logging-set-log-modules = Vel loggmodular
 about-logging-start-logging = Start loggføring
 about-logging-stop-logging = Stopp loggføring
+about-logging-copy-as-url = Kopier gjeldande innstillingar som URL
 about-logging-buttons-disabled = Logging konfigurert via miljøvariablar, dynamisk konfigurasjon er ikkje tilgjengeleg.
 about-logging-some-elements-disabled = Logging konfigurert via URL, nokre konfigurasjonsalternativ er ikkje tilgjengelege
 about-logging-info = Info:
