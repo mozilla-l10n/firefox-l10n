@@ -72,6 +72,7 @@ firefox-relay-and-fxa-opt-in-confirmation-enable-button-basic-info =
 
 firefox-relay-and-fxa-popup-notification-header-with-domain = 무료 이메일 가리기 받기
 firefox-relay-and-fxa-popup-notification-first-sentence-with-domain = 무료 <label data-l10n-name="firefox-relay-learn-more-url">이메일 가리기</label>로 실제 주소를 숨겨서 스팸으로부터 받은 편지함을 보호하세요. <label data-l10n-name="firefox-fxa-and-relay-offer-domain">이 사이트</label>에서 보낸 이메일은 받은 편지함으로 받지만 실제 주소는 숨겨집니다.
+firefox-relay-and-fxa-popup-notification-first-sentence = 무료 <label data-l10n-name="firefox-relay-learn-more-url">{ -relay-brand-name } 이메일 가리기</label>로 실제 주소를 숨겨서 스팸으로부터 받은 편지함을 보호하세요. <label data-l10n-name="firefox-fxa-and-relay-offer-domain">이 사이트</label>에서 보낸 이메일은 받은 편지함으로 받지만 실제 주소는 숨겨집니다.
 firefox-relay-and-fxa-popup-notification-second-sentence-with-domain = 먼저, 이메일 가리기를 사용하려면 계정에 가입하거나 로그인하세요
 firefox-relay-and-fxa-opt-in-confirmation-enable-button-with-domain =
     .label = 가입

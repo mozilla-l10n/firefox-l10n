@@ -84,5 +84,9 @@ text-action-copy-clean-link-to-highlight =
     .label = 강조 표시의 링크 정리 복사
 # If the page has been loaded with a text fragment and text is
 # visibly highlighted, this removes any highlighted sections on the page.
+text-action-remove-highlight =
+    .label = 강조 표시 제거
+# If the page has been loaded with a text fragment and text is
+# visibly highlighted, this removes any highlighted sections on the page.
 text-action-remove-all-highlights =
     .label = 모든 강조 표시 제거
