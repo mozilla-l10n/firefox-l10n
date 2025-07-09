@@ -7,7 +7,7 @@
 ### the remote profiling panel. There are additional profiler strings in the appmenu.ftl
 ### file that are used for the profiler popup.
 
-perftools-intro-title = Налаштування Profiler
+perftools-intro-title = Налаштування профайлера
 perftools-intro-description =
     Записи запускають profiler.firefox.com у новій вкладці. Усі дані зберігаються
     локально, але ви можете вивантажити їх для оприлюднення.
@@ -120,7 +120,7 @@ perftools-thread-jvm-pool =
 
 perftools-record-all-registered-threads = Обходити вибране вгорі й записувати всі зареєстровані потоки
 perftools-tools-threads-input-label =
-    .title = Назви потоків є розділеним комами списком, що використовується для увімкнення профілювання потоків у Profiler. Для включення, назва повинна мати лише частковий збіг з назвою потоку. Вони чутливі до пробілів.
+    .title = Назви потоків є розділеним комами списком, що використовується для увімкнення профілювання потоків у профайлері. Для включення, назва повинна мати лише частковий збіг з назвою потоку. Вони чутливі до пробілів.
 
 ## Onboarding UI labels. These labels are displayed in the new performance panel UI, when
 ## devtools.performance.new-panel-onboarding preference is true.

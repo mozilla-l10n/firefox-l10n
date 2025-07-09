@@ -68,7 +68,7 @@ about-logging-error = Помилка:
 
 about-logging-invalid-output = Недійсне значення “{ $v }“ для ключа “{ $k }“
 about-logging-unknown-logging-preset = Невідомий заданий параметр журналювання “{ $v }“
-about-logging-unknown-profiler-preset = Невідомий заданий параметр профілювання “{ $v }“
+about-logging-unknown-profiler-preset = Невідомий заданий параметр профайлера “{ $v }“
 about-logging-unknown-option = Невідомий параметр about:logging “{ $k }“
 about-logging-configuration-url-ignored = URL конфігурації проігноровано
 about-logging-file-and-profiler-override = Не можна примусово виводити файл і одночасно перевизначати параметри профайлера
