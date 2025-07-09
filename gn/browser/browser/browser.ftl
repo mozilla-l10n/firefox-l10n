@@ -363,6 +363,7 @@ quickactions-downloads2 = Ehecha ñemboguejy
 quickactions-cmd-downloads = ñemboguejy
 # Opens about:addons page in the extensions section
 quickactions-extensions = Eñangareko jepysokuére
+quickactions-cmd-extensions2 = jepysokue, moĩmbaha, moĩmbahakuéra
 quickactions-cmd-extensions = jepysokue
 # Opens Firefox View
 quickactions-firefoxview = Embojuruja { -firefoxview-brand-name }
