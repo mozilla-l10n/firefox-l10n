@@ -12,6 +12,7 @@ neterror-blocked-by-policy-page-title = Забранена страница
 neterror-captive-portal-page-title = Влизане в мрежа
 neterror-dns-not-found-title = Сървърът не е намерен
 neterror-malformed-uri-page-title = Неправилен адрес
+problem-with-this-site-title = Изглежда, че има проблем с този сайт
 
 ## Error page actions
 
