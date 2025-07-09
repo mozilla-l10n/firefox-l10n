@@ -81,8 +81,10 @@ about-logins-login-list-alerts-option = Alarmi
 login-list-last-changed-option = Urtimo cangiamento
 login-list-last-used-option = Urtima vòtta
 login-list-intro-title = Nisciun acesso trovou
+login-list-intro-title2 = Nisciunn-a poula segreta sarvâ
 login-list-intro-description = E poule segrête sarvæ in { -brand-product-name } saian mostræ chi.
 about-logins-login-list-empty-search-title = Nisciun acesso trovou
+about-logins-login-list-empty-search-title2 = Nisciunn-a poula segreta trovâ
 about-logins-login-list-empty-search-description = No gh'é exiti da teu riçerca
 login-list-item-title-new-login = Nuovo login
 login-list-item-subtitle-new-login = Scrivi e teu credensiali
@@ -101,7 +103,9 @@ about-logins-list-section-week = Urtimi 7 giorni
 
 ## Introduction screen
 
+about-logins-login-intro-heading-logged-out2 = Ti çerchi i teu login sarvæ? Ativa a scincronizaçion ò inportali.
 about-logins-login-intro-heading-logged-in = Nisciun bagon scincronizou trovou.
+about-logins-login-intro-heading-message = Sarvite e poule segrete inte 'n pòsto segûo
 
 ## Login
 

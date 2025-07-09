@@ -25,6 +25,7 @@ update-applying = Instalaçion de l'agiornamento…
 update-failed = Agiornamento no ariescio. <label data-l10n-name="failed-link">Descarega l'urtima verscion</label>
 update-failed-main = Agiornamento no ariescio. <a data-l10n-name="failed-link-main">Descarega l'urtima verscion</a>
 update-adminDisabled = I agiornamenti en dizabilitæ da-o teu aministratô do scistema
+update-policy-disabled = Agiornamenti dizabilitæ da teu organizaçion
 update-noUpdatesFound = { -brand-short-name } o l'é agiornòu
 aboutdialog-update-checking-failed = No riescio a controlâ i agiornamenti
 update-otherInstanceHandlingUpdates = Agiornamento de { -brand-short-name } inte n'atra istansa
@@ -50,6 +51,7 @@ community-exp = <label data-l10n-name="community-exp-mozillaLink">{ -vendor-shor
 community-2 = { -brand-short-name } o l'é fæto da <label data-l10n-name="community-mozillaLink">{ -vendor-short-name }</label>, 'na <label data-l10n-name="community-creditsLink">comunitæ globale</label> ch'a travaggia insemme pe mantegnî a Ræ averta, pubrica e acesibile a tutti.
 helpus = Ti ne veu agiutâ? <label data-l10n-name="helpus-donateLink">Fanni 'na donaçion</label> ò <label data-l10n-name="helpus-getInvolvedLink">travaggia con niatri</label>
 bottomLinks-license = Informaçion de licensa
+bottom-links-terms = Termini d'uzo
 bottom-links-privacy = Informativa in sciâ privacy
 bottomLinks-rights = Diritti de l'utente
 bottomLinks-privacy = Informativa in sciâ privacy
