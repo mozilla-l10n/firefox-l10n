@@ -42,3 +42,6 @@ more-from-moz-solo-button = გამოცადეთ { -solo-ai-brand-name }
 
 ## These strings are for the MDN card in about:preferences moreFromMozilla page
 
+more-from-moz-mdn-title = MDN-ვებმასალა
+more-from-moz-mdn-description = შეისწავლეთ ვებშემუშავება უფასო, ამომწურავი სახელმძღვანელო მასალებითა და ცნობარებით.
+more-from-moz-mdn-button = შეისწავლეთ ვებშემუშავება
