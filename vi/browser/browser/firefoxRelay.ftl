@@ -72,6 +72,7 @@ firefox-relay-and-fxa-opt-in-confirmation-enable-button-basic-info =
 
 firefox-relay-and-fxa-popup-notification-header-with-domain = Nhận một địa chỉ email ẩn danh miễn phí
 firefox-relay-and-fxa-popup-notification-first-sentence-with-domain = Bảo vệ hộp thư đến của bạn khỏi spam bằng cách sử dụng <label data-l10n-name="firefox-relay-learn-more-url">email ẩn danh</label> miễn phí để che giấu email thật của bạn. Email từ <label data-l10n-name="firefox-fxa-and-relay-offer-domain">trang web này</label> sẽ vẫn được gửi đến hộp thư đến của bạn, nhưng email của bạn sẽ được ẩn.
+firefox-relay-and-fxa-popup-notification-first-sentence = Bảo vệ hộp thư đến của bạn khỏi thư rác bằng cách sử dụng <label data-l10n-name="firefox-relay-learn-more-url">email ẩn danh của { -relay-brand-name }</label> miễn phí để ẩn địa chỉ thực của bạn. Email từ <label data-l10n-name="firefox-fxa-and-relay-offer-domain">trang này</label> vẫn sẽ đến với hộp thư đến của bạn, nhưng email của bạn sẽ được ẩn.
 firefox-relay-and-fxa-popup-notification-second-sentence-with-domain = Trước tiên, hãy đăng ký hoặc đăng nhập vào tài khoản của bạn để sử dụng email ẩn danh
 firefox-relay-and-fxa-opt-in-confirmation-enable-button-with-domain =
     .label = Đăng ký

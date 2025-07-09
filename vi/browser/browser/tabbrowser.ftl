@@ -251,6 +251,8 @@ tab-context-move-tab-to-group =
            *[other] Thêm các thẻ vào nhóm
         }
     .accesskey = G
+tab-context-move-tab-to-group-saved-groups =
+    .label = Nhóm đã đóng
 tab-group-editor-action-new-tab =
     .label = Thẻ mới trong nhóm
 tab-group-editor-action-new-window =

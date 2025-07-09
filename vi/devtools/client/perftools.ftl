@@ -128,6 +128,8 @@ perftools-presets-graphics-label = Đồ họa
 perftools-presets-graphics-description = Giá trị đặt trước để điều tra lỗi đồ họa trong { -brand-shorter-name }.
 perftools-presets-media-label = Đa phương tiện
 perftools-presets-media-description2 = Giá trị đặt trước để điều tra lỗi âm thanh và video trong { -brand-shorter-name }.
+perftools-presets-ml-label = Học máy (Machine Learning)
+perftools-presets-ml-description2 = Cài đặt trước để điều tra lỗi học máy (machine learning) trong { -brand-shorter-name }.
 perftools-presets-networking-label = Kết nối mạng
 perftools-presets-networking-description = Giá trị đặt trước để điều tra lỗi mạng trong { -brand-shorter-name }.
 # "Power" is used in the sense of energy (electricity used by the computer).
