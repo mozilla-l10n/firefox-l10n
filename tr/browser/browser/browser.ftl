@@ -363,6 +363,7 @@ quickactions-downloads2 = İndirilenleri göster
 quickactions-cmd-downloads = indirilenler
 # Opens about:addons page in the extensions section
 quickactions-extensions = Uzantıları yönet
+quickactions-cmd-extensions2 = uzantılar, eklentiler
 quickactions-cmd-extensions = uzantılar
 # Opens Firefox View
 quickactions-firefoxview = { -firefoxview-brand-name }’u aç

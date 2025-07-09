@@ -42,3 +42,5 @@ more-from-moz-solo-button = Eiporu { -solo-ai-brand-name }
 
 ## These strings are for the MDN card in about:preferences moreFromMozilla page
 
+more-from-moz-mdn-title = MDN ñandutigua kuatiatee
+more-from-moz-mdn-button = Eñembokatupyry ñanduti mboguatarãme

@@ -42,3 +42,6 @@ more-from-moz-solo-button = { -solo-ai-brand-name }’yu deneyin
 
 ## These strings are for the MDN card in about:preferences moreFromMozilla page
 
+more-from-moz-mdn-title = MDN Web Docs
+more-from-moz-mdn-description = Ücretsiz, kapsamlı rehberler ve referanslarla web geliştirmeyi öğrenin.
+more-from-moz-mdn-button = Web geliştirmeyi öğrenin
