@@ -275,6 +275,8 @@ tab-context-move-tab-to-group =
            *[other] Ajouter les onglets au groupe
         }
     .accesskey = A
+tab-context-move-tab-to-group-saved-groups =
+    .label = Groupes fermés
 tab-group-editor-action-new-tab =
     .label = Nouvel onglet dans le groupe
 tab-group-editor-action-new-window =
