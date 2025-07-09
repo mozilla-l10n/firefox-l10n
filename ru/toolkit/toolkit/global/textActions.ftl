@@ -84,5 +84,9 @@ text-action-copy-clean-link-to-highlight =
     .label = Скопировать чистую ссылку для выделения
 # If the page has been loaded with a text fragment and text is
 # visibly highlighted, this removes any highlighted sections on the page.
+text-action-remove-highlight =
+    .label = Снять выделение
+# If the page has been loaded with a text fragment and text is
+# visibly highlighted, this removes any highlighted sections on the page.
 text-action-remove-all-highlights =
     .label = Удалить всё выделенное
