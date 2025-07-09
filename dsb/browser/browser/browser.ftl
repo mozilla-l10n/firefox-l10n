@@ -363,6 +363,7 @@ quickactions-downloads2 = Ześěgnjenja pokazaś
 quickactions-cmd-downloads = ześěgnjenja
 # Opens about:addons page in the extensions section
 quickactions-extensions = Rozšyrjenja zastojaś
+quickactions-cmd-extensions2 = rozšyrjenja, dodanki
 quickactions-cmd-extensions = rozšyrjenja
 # Opens Firefox View
 quickactions-firefoxview = { -firefoxview-brand-name } wócyniś

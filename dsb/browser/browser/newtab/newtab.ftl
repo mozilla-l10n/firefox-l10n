@@ -553,6 +553,8 @@ newtab-download-mobile-highlight-image =
 
 ## Strings for shortcuts highlight
 
+newtab-shortcuts-highlight-title = Waše fawority k ruce
+newtab-shortcuts-highlight-subtitle = Pśidajśo zwězanje, aby swóje nejlubše sedła jadno kliknjenje pšec źaržał.
 
 ## Strings for reporting ads and content
 

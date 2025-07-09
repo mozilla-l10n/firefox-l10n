@@ -170,6 +170,9 @@ profiler-popup-capture-shortcut =
         [macos] ⌃⇧2
        *[other] Strg+Umsch+2
     }
+profiler-button-dropmarker =
+    .label = Wugbaśowu analyzu wócyniś
+    .tooltiptext = Wugbaśowu analyzu wócyniś
 
 ## Profiler presets
 ## They are shown in the popup's select box.
