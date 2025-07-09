@@ -551,6 +551,8 @@ newtab-download-mobile-highlight-image =
 
 ## Strings for shortcuts highlight
 
+newtab-shortcuts-highlight-title = Uw favorieten binnen handbereik
+newtab-shortcuts-highlight-subtitle = Voeg een snelkoppeling toe om uw favoriete websites op één klik afstand te houden.
 
 ## Strings for reporting ads and content
 

@@ -72,6 +72,7 @@ firefox-relay-and-fxa-opt-in-confirmation-enable-button-basic-info =
 
 firefox-relay-and-fxa-popup-notification-header-with-domain = Ontvang een gratis e-mailmasker
 firefox-relay-and-fxa-popup-notification-first-sentence-with-domain = Bescherm uw Postvak IN tegen spam door een gratis <label data-l10n-name="firefox-relay-learn-more-url">e-mailmasker</label> te gebruiken om uw echte adres te verbergen. E-mailberichten van <label data-l10n-name="firefox-fxa-and-relay-offer-domain">deze website</label> komen nog steeds in uw Postvak IN terecht, maar met uw e-mailadres verborgen.
+firefox-relay-and-fxa-popup-notification-first-sentence = Bescherm uw Postvak IN tegen spam door een gratis <label data-l10n-name="firefox-relay-learn-more-url">{ -relay-brand-name }-e-mailmasker</label> te gebruiken om uw echte adres te verbergen. E-mailberichten van <label data-l10n-name="firefox-fxa-and-relay-offer-domain">deze website</label> komen nog steeds in uw Postvak IN terecht, maar met uw e-mailadres verborgen.
 firefox-relay-and-fxa-popup-notification-second-sentence-with-domain = Registreer of meld u eerst aan bij uw account om een e-mailmasker te gebruiken
 firefox-relay-and-fxa-opt-in-confirmation-enable-button-with-domain =
     .label = Registreren
