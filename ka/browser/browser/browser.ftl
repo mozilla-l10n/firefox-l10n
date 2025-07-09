@@ -363,6 +363,7 @@ quickactions-downloads2 = ჩამოტვირთვების ჩვე�
 quickactions-cmd-downloads = ჩამოტვირთვები
 # Opens about:addons page in the extensions section
 quickactions-extensions = გაფართოებების მართვა
+quickactions-cmd-extensions2 = გაფართოებები, დანამატები, დამატებები
 quickactions-cmd-extensions = გაფართოებები
 # Opens Firefox View
 quickactions-firefoxview = გაიხსნას { -firefoxview-brand-name }

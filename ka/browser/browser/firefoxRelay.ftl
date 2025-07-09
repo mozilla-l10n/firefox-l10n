@@ -71,7 +71,8 @@ firefox-relay-and-fxa-opt-in-confirmation-enable-button-basic-info =
 ## The "with-domain" variation of the Relay offer popup
 
 firefox-relay-and-fxa-popup-notification-header-with-domain = მიიღეთ უფასო ნიღაბი
-firefox-relay-and-fxa-popup-notification-first-sentence-with-domain = დაიცავით საფოსტო ყუთი <label data-l10n-name="firefox-relay-learn-more-url">ელფოსტის უფასო ნიღბით</label>, რომელიც დაფარავს ნამდვილ მისამართს. წერილები <label data-l10n-name="firefox-fxa-and-relay-offer-domain">ამ საიტიდან</label> ჩვეულებრივ მოგივათ, მაგრამ თქვენი მისამართი შეინიღბება.
+firefox-relay-and-fxa-popup-notification-first-sentence-with-domain = დაიცავით საფოსტო ყუთი უსარგებლო წერილებისგან <label data-l10n-name="firefox-relay-learn-more-url">ელფოსტის უფასო ნიღბით</label>, რომელიც დაფარავს ნამდვილ მისამართს. წერილები <label data-l10n-name="firefox-fxa-and-relay-offer-domain">ამ საიტიდან</label> ჩვეულებრივ მოგივათ, მაგრამ თქვენი მისამართი შენიღბული იქნება.
+firefox-relay-and-fxa-popup-notification-first-sentence = დაიცავით საფოსტო ყუთი უსარგებლო წერილებისგან <label data-l10n-name="firefox-relay-learn-more-url">ელფოსტის უფასო ნიღბით, რომელსაც { -relay-brand-name }</label> გთავაზობთ და რომელიც დაფარავს ნამდვილ მისამართს. წერილები <label data-l10n-name="firefox-fxa-and-relay-offer-domain">ამ საიტიდან</label> ჩვეულებრივ მოგივათ, მაგრამ თქვენი მისამართი შენიღბული იქნება.
 firefox-relay-and-fxa-popup-notification-second-sentence-with-domain = ჯერ შექმენით ანგარიში ან შედით, რომ გამოიყენოთ ელფოსტის ნიღაბი
 firefox-relay-and-fxa-opt-in-confirmation-enable-button-with-domain =
     .label = ანგარიშის შექმნა
