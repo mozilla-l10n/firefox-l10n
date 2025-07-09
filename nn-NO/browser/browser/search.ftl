@@ -80,6 +80,7 @@ add-engine-keyword-exists = Det søkjeordet er allereie i bruk. Prøv eit anna.
 add-engine-name-exists = Namnet er allereie i bruk. Vel eit anna.
 add-engine-no-name = Legg til eit namn.
 add-engine-no-url = Skriv inn ein URL.
+add-engine-invalid-url = Nettadressa ser ikkje rett ut. Sjekk henne og prøv på nytt.
 
 ## The following strings are used as labels for the dialog's buttons.
 
