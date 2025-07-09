@@ -31,3 +31,6 @@ pending-crash-reports-send =
     .label = Изпращане
 pending-crash-reports-always-send =
     .label = Автоматично изпращане
+requested-crash-reports-dont-show-again =
+    .label = Не показвай отново
+    .accesskey = Н

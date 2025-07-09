@@ -59,13 +59,20 @@ contextual-manager-passwords-import-file-picker-tsv-filter-title =
         [macos] Документ на TSV
        *[other] Файл на TSV
     }
+contextual-manager-passwords-import-success-heading =
+    .heading = Паролите са внесени
 contextual-manager-passwords-import-success-button = Готово
 contextual-manager-passwords-import-error-button-try-again = Опитайте отново
 contextual-manager-passwords-import-error-button-cancel = Отказ
+contextual-manager-passwords-export-success-heading =
+    .heading = Паролите са изнесени
 contextual-manager-passwords-export-success-button = Готово
 contextual-manager-export-passwords-dialog-confirm-button = Продължете с изнасянето
 # Title of the file picker dialog
 contextual-manager-passwords-export-file-picker-title = Изнасяне на пароли от { -brand-short-name }
+# The default file name shown in the file picker when exporting saved logins.
+# The resultant filename will end in .csv (added in code).
+contextual-manager-passwords-export-file-picker-default-filename = пароли
 contextual-manager-passwords-export-file-picker-export-button = Изнасяне
 # A description for the .csv file format that may be shown as the file type
 # filter by the operating system.

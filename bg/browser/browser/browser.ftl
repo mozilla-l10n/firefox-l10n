@@ -716,6 +716,12 @@ urlbar-result-action-calculator-result-scientific-notation = = { $result }
 # Variables
 #  $result (String): the string representation for a formula result
 urlbar-result-action-calculator-result-3 = = { NUMBER($result, useGrouping: "false", maximumFractionDigits: 8) }
+# Shows the result of a formula expression being calculated, to a maximum of 9 significant
+# digits. This is used for numbers < 1.
+# The last = sign will be shown as part of the result (e.g. "= 0.333333333").
+# Variables
+#  $result (String): the string representation for a formula result
+urlbar-result-action-calculator-result-decimal = = { NUMBER($result, maximumSignificantDigits: 9) }
 
 ## Strings used for buttons in the urlbar
 
@@ -743,6 +749,8 @@ urlbar-searchmode-actions =
     .label = Действия
 urlbar-searchmode-exit-button =
     .tooltiptext = Затваряне
+urlbar-searchmode-default =
+    .tooltiptext = Търсеща машина по подразбиране
 # Label shown on the top of Searchmode Switcher popup. After this label, the
 # available search engines will be listed.
 urlbar-searchmode-popup-description = Този път търсете с:
@@ -795,6 +803,9 @@ urlbar-group-recent-searches =
 #  $engine (String): the name of the search engine providing the trending suggestions
 urlbar-group-trending =
     .label = Набиращи популярност в { $engine }
+# Label shown above sponsored suggestions in the urlbar results.
+urlbar-group-sponsored =
+    .label = Спонсорирано
 # The result menu labels shown next to trending results.
 urlbar-result-menu-trending-dont-show =
     .label = Без показване на набиращи популярност търсения
@@ -991,6 +1002,9 @@ panel-save-update-password = Парола
 # "More" item in macOS share menu
 menu-share-more =
     .label = Още…
+menu-share-copy-link =
+    .label = Копиране на препратката
+    .accesskey = К
 ui-tour-info-panel-close =
     .tooltiptext = Затваряне
 
@@ -1038,6 +1052,8 @@ navbar-accessible =
     .aria-label = Навигация
 navbar-downloads =
     .label = Изтегляния
+navbar-overflow-2 =
+    .tooltiptext = Още инструменти
 navbar-overflow =
     .tooltiptext = Още инструменти…
 # Variables:
