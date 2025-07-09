@@ -146,6 +146,8 @@ perftools-presets-graphics-label = Grafika
 perftools-presets-graphics-description = Predvoľba na diagnostiku grafických chýb v prehliadači { -brand-shorter-name }.
 perftools-presets-media-label = Médiá
 perftools-presets-media-description2 = Predvoľba na diagnostiku problémov so zvukom a videom v prehliadači { -brand-shorter-name }.
+perftools-presets-ml-label = Strojové učenie
+perftools-presets-ml-description2 = Predvoľba na skúmanie chýb strojového učenia vo { -brand-shorter-name(case: "loc") }.
 perftools-presets-networking-label = Sieťová aktivita
 perftools-presets-networking-description = Predvoľba pre diagnostiku sieťovej aktivity v prehliadači { -brand-shorter-name }.
 # "Power" is used in the sense of energy (electricity used by the computer).

@@ -307,6 +307,8 @@ tab-context-move-tab-to-group =
            *[other] Pridať karty do skupiny
         }
     .accesskey = r
+tab-context-move-tab-to-group-saved-groups =
+    .label = Zatvorené skupiny
 tab-group-editor-action-new-tab =
     .label = Nová karta v skupine
 tab-group-editor-action-new-window =
