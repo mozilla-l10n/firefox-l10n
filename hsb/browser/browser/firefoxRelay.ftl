@@ -72,6 +72,7 @@ firefox-relay-and-fxa-opt-in-confirmation-enable-button-basic-info =
 
 firefox-relay-and-fxa-popup-notification-header-with-domain = Wobstarajće sej darmotnu e-mejlowu masku
 firefox-relay-and-fxa-popup-notification-first-sentence-with-domain = Wužiwajće darmotnu <label data-l10n-name="firefox-relay-learn-more-url">e-mejlowej masku</label>, zo byšće swój póstowy dochad před spamom škitał, zo by so waša woprawdźita adresa schowała. E-Mejlki  z <label data-l10n-name="firefox-fxa-and-relay-offer-domain">tutoho sydła</label> so hišće k wašemu póstowemu dochadej dóstanu, ale ze schowanej e-mejlowej adresu.
+firefox-relay-and-fxa-popup-notification-first-sentence = Wužiwajće darmotnu <label data-l10n-name="firefox-relay-learn-more-url">e-mejlowej masku { -relay-brand-name }</label>, zo byšće swój póstowy dochad před spamom škitał, zo by so waša woprawdźita adresa schowała. E-Mejlki  z <label data-l10n-name="firefox-fxa-and-relay-offer-domain">tutoho sydła</label> so hišće k wašemu póstowemu dochadej dóstanu, ale ze schowanej e-mejlowej adresu.
 firefox-relay-and-fxa-popup-notification-second-sentence-with-domain = Registrujće so najprjedy abo přizjewće so pola swojeho konta, zo byšće e-mejlowu masku wužiwał
 firefox-relay-and-fxa-opt-in-confirmation-enable-button-with-domain =
     .label = Registrować
