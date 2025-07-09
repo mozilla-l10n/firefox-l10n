@@ -51,11 +51,19 @@ genai-menu-ask-generic =
 # $provider (string) - name of the provider
 genai-menu-ask-provider =
     .label = Demander à { $provider }
+genai-menu-open-generic =
+    .label = Ouvrir le chatbot IA
+# $provider (string) - name of the provider
+genai-menu-open-provider =
+    .label = Ouvrir { $provider }
 genai-menu-remove-generic =
     .label = Retirer le chatbot IA
 # $provider (string) - name of the provider
 genai-menu-remove-provider =
     .label = Retirer { $provider }
+genai-menu-remove-sidebar =
+    .label = Retirer du panneau latéral
+genai-menu-new-badge = Nouveau
 genai-input-ask-generic =
     .placeholder = Demander à un chatbot IA…
 # $provider (string) - name of the provider

@@ -363,6 +363,7 @@ quickactions-downloads2 = Afficher les téléchargements
 quickactions-cmd-downloads = téléchargements
 # Opens about:addons page in the extensions section
 quickactions-extensions = Gérer les extensions
+quickactions-cmd-extensions2 = extensions, modules, modules complémentaires
 quickactions-cmd-extensions = extensions
 # Opens Firefox View
 quickactions-firefoxview = Ouvrir { -firefoxview-brand-name }
@@ -410,6 +411,10 @@ quickactions-cmd-settings2 = paramètres, préférences, options, gérer
 quickactions-cmd-settings = paramètres, préférences, options
 # Opens about:addons page in the themes section
 quickactions-themes = Gérer les thèmes
+# In English we provide multiple spellings for "add-ons". If that's not
+# applicable to your language, only use the correct spelling (don't repeat the
+# same word).
+quickactions-cmd-themes2 = thèmes, modules, modules complémentaires
 quickactions-cmd-themes = thèmes
 # Opens a SUMO article explaining how to update the browser
 quickactions-update = Mettre à jour { -brand-short-name }
@@ -814,6 +819,8 @@ urlbar-searchmode-actions =
     .label = Actions
 urlbar-searchmode-exit-button =
     .tooltiptext = Fermer
+urlbar-searchmode-default =
+    .tooltiptext = Moteur de recherche par défaut
 # Label shown on the top of Searchmode Switcher popup. After this label, the
 # available search engines will be listed.
 urlbar-searchmode-popup-description = Pour cette fois-ci, rechercher avec :

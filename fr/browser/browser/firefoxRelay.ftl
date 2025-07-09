@@ -72,6 +72,7 @@ firefox-relay-and-fxa-opt-in-confirmation-enable-button-basic-info =
 
 firefox-relay-and-fxa-popup-notification-header-with-domain = Obtenez un alias de messagerie gratuit
 firefox-relay-and-fxa-popup-notification-first-sentence-with-domain = Protégez votre boîte de réception du courrier indésirable en utilisant un <label data-l10n-name="firefox-relay-learn-more-url">alias de messagerie</label> gratuit pour masquer votre véritable adresse. Les e-mails provenant de <label data-l10n-name="firefox-fxa-and-relay-offer-domain">ce site</label> arriveront toujours dans votre boîte de réception, mais avec votre adresse e-mail masquée.
+firefox-relay-and-fxa-popup-notification-first-sentence = Protégez votre boîte de réception du courrier indésirable en utilisant un <label data-l10n-name="firefox-relay-learn-more-url">alias de messagerie { -relay-brand-name }</label> gratuit pour masquer votre véritable adresse. Les e-mails provenant de <label data-l10n-name="firefox-fxa-and-relay-offer-domain">ce site</label> arriveront toujours dans votre boîte de réception, mais avec votre adresse e-mail masquée.
 firefox-relay-and-fxa-popup-notification-second-sentence-with-domain = Commencez par créer votre compte ou vous y connecter pour utiliser un alias de messagerie
 firefox-relay-and-fxa-opt-in-confirmation-enable-button-with-domain =
     .label = Créer un compte

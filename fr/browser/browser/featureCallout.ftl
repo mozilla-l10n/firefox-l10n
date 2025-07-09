@@ -138,6 +138,9 @@ sidebar-pins-callout-cta-button = Épingler cet onglet
 pin-tabs-callout-1-title = Gardez les onglets importants à portée de main
 pin-tabs-callout-cta-1-button = Épingler cet onglet
 pin-tabs-callout-2-title = Épinglez les onglets que vous ouvrez le plus souvent
+pin-tabs-callout-cta-2-button = Épingler cet onglet
+pin-tabs-callout-3-title = Gardez les sites importants à portée de main
+pin-tabs-callout-4-title = Épinglez les sites que vous ouvrez le plus souvent
 
 ## Sidebar Onboarding Strings
 
