@@ -547,6 +547,8 @@ newtab-download-mobile-highlight-image =
 
 ## Strings for shortcuts highlight
 
+newtab-shortcuts-highlight-title = 手指輕鬆一點就開啟最愛網站
+newtab-shortcuts-highlight-subtitle = 新增捷徑，輕鬆一點就能開啟您的最愛網站。
 
 ## Strings for reporting ads and content
 
