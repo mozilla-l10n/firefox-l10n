@@ -500,6 +500,7 @@ newtab-topic-selection-button-pick-interests = Choisir vos centres d’intérêt
 newtab-section-follow-button = Suivre
 newtab-section-following-button = Suivi
 newtab-section-unfollow-button = Ne plus suivre
+newtab-section-follow-highlight-subtitle = Suivez vos centres d’intérêt pour découvrir davantage de contenus qui vous plaisent.
 
 ## Button to block/unblock listed topics
 ## "Block", "unblocked", and "blocked" are social media terms that refer to hiding a section of stories.
@@ -544,6 +545,7 @@ newtab-download-mobile-highlight-image =
 
 ## Strings for shortcuts highlight
 
+newtab-shortcuts-highlight-subtitle = Ajoutez un raccourci pour accéder à vos sites préférés en un clic.
 
 ## Strings for reporting ads and content
 
