@@ -548,6 +548,8 @@ newtab-download-mobile-highlight-image =
 
 ## Strings for shortcuts highlight
 
+newtab-shortcuts-highlight-title = Vaše obľúbené položky na dosah ruky
+newtab-shortcuts-highlight-subtitle = Pridajte si skratku, aby ste mali svoje obľúbené stránky dostupné na jedno kliknutie.
 
 ## Strings for reporting ads and content
 
@@ -582,3 +584,5 @@ newtab-trending-searches-hide-trending =
     .title = Skryť populárne vyhľadávania
 newtab-trending-searches-learn-more = Ďalšie informácie
 newtab-trending-searches-dismiss = Skryť populárne vyhľadávania
+# "Trending searches refers to popular searches from search engines
+newtab-trending-searches-title = Populárne vyhľadávania

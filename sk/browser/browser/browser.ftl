@@ -363,6 +363,7 @@ quickactions-downloads2 = Zobraziť stiahnuté súbory
 quickactions-cmd-downloads = stiahnuté súbory
 # Opens about:addons page in the extensions section
 quickactions-extensions = Spravovať rozšírenia
+quickactions-cmd-extensions2 = rozšírenia, doplnky
 quickactions-cmd-extensions = rozšírenia
 # Opens Firefox View
 quickactions-firefoxview = Otvoriť { -firefoxview-brand-name(case: "acc") }
@@ -410,6 +411,10 @@ quickactions-cmd-settings2 = nastavenia, preferencie, možnosti, spravovať
 quickactions-cmd-settings = nastavenia, preferencie, možnosti
 # Opens about:addons page in the themes section
 quickactions-themes = Spravovať témy
+# In English we provide multiple spellings for "add-ons". If that's not
+# applicable to your language, only use the correct spelling (don't repeat the
+# same word).
+quickactions-cmd-themes2 = témy, doplnky
 quickactions-cmd-themes = témy vzhľadu
 # Opens a SUMO article explaining how to update the browser
 quickactions-update = Aktualizovať { -brand-short-name }
@@ -818,6 +823,8 @@ urlbar-searchmode-actions =
     .label = Akcie
 urlbar-searchmode-exit-button =
     .tooltiptext = Zavrieť
+urlbar-searchmode-default =
+    .tooltiptext = Predvolený vyhľadávač
 # Label shown on the top of Searchmode Switcher popup. After this label, the
 # available search engines will be listed.
 urlbar-searchmode-popup-description = Tentoraz vyhľadať pomocou:

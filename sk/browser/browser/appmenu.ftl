@@ -170,6 +170,9 @@ profiler-popup-capture-shortcut =
         [macos] ⌃⇧2
        *[other] Ctrl+Shift+2
     }
+profiler-button-dropmarker =
+    .label = Otvoriť panel nástroja na profilovanie
+    .tooltiptext = Otvoriť panel nástroja na profilovanie
 
 ## Profiler presets
 ## They are shown in the popup's select box.
@@ -196,6 +199,9 @@ profiler-popup-presets-graphics-label =
 profiler-popup-presets-media-description2 = Predvoľba na diagnostiku problémov so zvukom a videom v prehliadači { -brand-shorter-name }.
 profiler-popup-presets-media-label =
     .label = Médiá
+profiler-popup-presets-ml-description = Predvoľba na skúmanie chýb strojového učenia vo { -brand-shorter-name(case: "loc") }.
+profiler-popup-presets-ml-label =
+    .label = Strojové učenie
 profiler-popup-presets-networking-description = Predvoľba pre diagnostiku sieťovej aktivity v prehliadači { -brand-shorter-name }.
 profiler-popup-presets-networking-label =
     .label = Sieťová aktivita
