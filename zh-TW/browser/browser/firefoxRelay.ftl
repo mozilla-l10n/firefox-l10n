@@ -72,6 +72,7 @@ firefox-relay-and-fxa-opt-in-confirmation-enable-button-basic-info =
 
 firefox-relay-and-fxa-popup-notification-header-with-domain = 取得免費轉寄信箱
 firefox-relay-and-fxa-popup-notification-first-sentence-with-domain = 使用免費的<label data-l10n-name="firefox-relay-learn-more-url">轉寄信箱</label>隱藏您的實際收件信箱，防止收到垃圾信。來自<label data-l10n-name="firefox-fxa-and-relay-offer-domain">此網站</label>的信件，仍將寄到您的信件匣，但無法得知您的實際信箱。
+firefox-relay-and-fxa-popup-notification-first-sentence = 使用免費的 <label data-l10n-name="firefox-relay-learn-more-url">{ -relay-brand-name } 轉寄信箱</label>隱藏您的實際收件信箱，防止收到垃圾信。來自<label data-l10n-name="firefox-fxa-and-relay-offer-domain">此網站</label>的信件，仍將寄到您的信件匣，但無法得知您的實際信箱。
 firefox-relay-and-fxa-popup-notification-second-sentence-with-domain = 首先註冊或登入帳號，即可使用轉寄信箱
 firefox-relay-and-fxa-opt-in-confirmation-enable-button-with-domain =
     .label = 註冊

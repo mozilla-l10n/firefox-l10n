@@ -363,6 +363,7 @@ quickactions-downloads2 = 檢視下載項目
 quickactions-cmd-downloads = 下載項目, 下載, downloads
 # Opens about:addons page in the extensions section
 quickactions-extensions = 管理擴充套件
+quickactions-cmd-extensions2 = 擴充套件, 佈景主題, 布景主題, 主題, 附加元件, 套件, 外掛, extensions, addons, add-ons
 quickactions-cmd-extensions = 擴充套件, extensions
 # Opens Firefox View
 quickactions-firefoxview = 開啟 { -firefoxview-brand-name }

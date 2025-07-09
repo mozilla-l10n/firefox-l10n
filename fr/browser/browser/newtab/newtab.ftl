@@ -578,3 +578,5 @@ newtab-trending-searches-hide-trending =
     .title = Masquer les recherches populaires
 newtab-trending-searches-learn-more = En savoir plus
 newtab-trending-searches-dismiss = Masquer les recherches populaires
+# "Trending searches refers to popular searches from search engines
+newtab-trending-searches-title = Recherches populaires
