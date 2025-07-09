@@ -132,14 +132,14 @@ whatsnew-panel-footer-checkbox =
 ## "Enable Profiler Menu Button".
 
 profiler-popup-button-idle =
-    .label = Profiler
+    .label = Профайлер
     .tooltiptext = Запис профілю швидкодії
 profiler-popup-button-recording =
-    .label = Profiler
-    .tooltiptext = Profiler записує профіль
+    .label = Профайлер
+    .tooltiptext = Профайлер записує профіль
 profiler-popup-button-capturing =
-    .label = Profiler
-    .tooltiptext = Profiler захоплює вкладку
+    .label = Профайлер
+    .tooltiptext = Профайлер захоплює профіль
 profiler-popup-header-text = { -profiler-brand-name }
 profiler-popup-reveal-description-button =
     .aria-label = Розкрити більше інформації
