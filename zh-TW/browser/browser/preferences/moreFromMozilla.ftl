@@ -44,3 +44,4 @@ more-from-moz-solo-button = 試用 { -solo-ai-brand-name }
 
 more-from-moz-mdn-title = MDN Web Docs
 more-from-moz-mdn-description = 使用免費又完整的教學與參考資料學習網頁開發。
+more-from-moz-mdn-button = 學習網頁開發
