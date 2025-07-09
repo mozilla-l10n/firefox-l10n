@@ -72,6 +72,7 @@ firefox-relay-and-fxa-opt-in-confirmation-enable-button-basic-info =
 
 firefox-relay-and-fxa-popup-notification-header-with-domain = Szerezzen egy ingyenes e-mail-maszkot
 firefox-relay-and-fxa-popup-notification-first-sentence-with-domain = Védje meg a postaládáját a levélszeméttől egy ingyenes <label data-l10n-name="firefox-relay-learn-more-url">e-mail-maszk</label> használatával, amellyel elrejti a valódi címét. Az <label data-l10n-name="firefox-fxa-and-relay-offer-domain">erről a webhelyről</label> érkezett levelek továbbra is a postaládájába érkeznek, de az e-mail-címe rejtve marad.
+firefox-relay-and-fxa-popup-notification-first-sentence = Védje meg a postaládáját a levélszeméttől egy ingyenes <label data-l10n-name="firefox-relay-learn-more-url">{ -relay-brand-name } e-mail-maszk</label> használatával, amellyel elrejti a valódi címét. Az <label data-l10n-name="firefox-fxa-and-relay-offer-domain">erről a webhelyről</label> érkezett levelek továbbra is a postaládájába érkeznek, de az e-mail-címe rejtve marad.
 firefox-relay-and-fxa-popup-notification-second-sentence-with-domain = Először regisztráljon vagy jelentkezzen be a fiókjába, hogy e-mail-maszkot használjon
 firefox-relay-and-fxa-opt-in-confirmation-enable-button-with-domain =
     .label = Regisztráció

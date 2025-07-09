@@ -363,6 +363,7 @@ quickactions-downloads2 = Letöltések megtekintése
 quickactions-cmd-downloads = letöltések
 # Opens about:addons page in the extensions section
 quickactions-extensions = Kiegészítők kezelése
+quickactions-cmd-extensions2 = kiegészítők
 quickactions-cmd-extensions = kiegészítők
 # Opens Firefox View
 quickactions-firefoxview = { -firefoxview-brand-name } megnyitása
