@@ -363,6 +363,7 @@ quickactions-downloads2 = Vider discargamentos
 quickactions-cmd-downloads = discargamentos
 # Opens about:addons page in the extensions section
 quickactions-extensions = Gerer extensiones
+quickactions-cmd-extensions2 = extensiones, additivos
 quickactions-cmd-extensions = extensiones
 # Opens Firefox View
 quickactions-firefoxview = Aperir { -firefoxview-brand-name }
