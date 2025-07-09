@@ -74,10 +74,14 @@ protections-panel-not-found-label = لم تُكتشف في الصفحة
 
 ## Smartblock strings
 
+protections-panel-smartblock-desc-label = يحظر { -brand-short-name } تتبع المحتوى أثناء وجودك على هذا الموقع ما لم تسمح بذلك.
 # Variables
 #  $trackername (String): the name of the tracker that is currently being blocked.
 protections-panel-smartblock-blocking-toggle =
     .label = اسمح { $trackername }
+#  $trackername (String): the name of the tracker that is currently being blocked.
+smartblock-placeholder-title = حُظر متتبعات ومحتوى { $trackername }
+smartblock-placeholder-desc = لقد منع إعدادات { -brand-short-name } هذا المحتوى من تتبعك عبر المواقع أو استخدامه للإعلانات.
 #  $websitehost (String): host of website with blocked content.
 smartblock-placeholder-button-text = اسمح على { $websitehost }
 

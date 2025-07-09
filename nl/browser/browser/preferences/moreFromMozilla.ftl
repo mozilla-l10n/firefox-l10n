@@ -42,3 +42,4 @@ more-from-moz-solo-button = { -solo-ai-brand-name } proberen
 
 ## These strings are for the MDN card in about:preferences moreFromMozilla page
 
+more-from-moz-mdn-title = MDN Web Docs
