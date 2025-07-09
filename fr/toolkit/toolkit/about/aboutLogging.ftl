@@ -50,6 +50,7 @@ about-logging-preset-webrtc-label = WebRTC
 about-logging-preset-webrtc-description = Modules de journalisation pour diagnostiquer les appels WebRTC
 about-logging-preset-webcodecs-label = WebCodecs
 about-logging-preset-webcodecs-description = Modules de journalisation pour diagnostiquer les problèmes des décodeurs et encodeurs audio ou vidéo WebCodecs ainsi que des décodeurs d’images
+about-logging-preset-ml-label = Apprentissage automatique
 about-logging-preset-webgpu-label = WebGPU
 about-logging-preset-webgpu-description = Modules de journalisation pour diagnostiquer les problèmes de WebGPU
 about-logging-preset-gfx-label = Accélération graphique

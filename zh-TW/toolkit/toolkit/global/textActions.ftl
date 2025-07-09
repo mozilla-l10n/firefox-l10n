@@ -84,5 +84,9 @@ text-action-copy-clean-link-to-highlight =
     .label = 複製選擇範圍，不含追蹤碼的鏈結
 # If the page has been loaded with a text fragment and text is
 # visibly highlighted, this removes any highlighted sections on the page.
+text-action-remove-highlight =
+    .label = 移除選擇範圍的強調效果
+# If the page has been loaded with a text fragment and text is
+# visibly highlighted, this removes any highlighted sections on the page.
 text-action-remove-all-highlights =
     .label = 移除所有強調樣式
