@@ -43,4 +43,5 @@ more-from-moz-solo-button = Spytajće { -solo-ai-brand-name }
 ## These strings are for the MDN card in about:preferences moreFromMozilla page
 
 more-from-moz-mdn-title = Web-dokumentacija MDN
+more-from-moz-mdn-description = Wukńće webwuwiće z darmotnymi, wobšěrnymi nawodami a referencami.
 more-from-moz-mdn-button = Webwuwiće wuknyć
