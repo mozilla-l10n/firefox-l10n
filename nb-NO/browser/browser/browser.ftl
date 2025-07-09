@@ -363,6 +363,7 @@ quickactions-downloads2 = Vis nedlastinger
 quickactions-cmd-downloads = nedlastinger
 # Opens about:addons page in the extensions section
 quickactions-extensions = Behandle utvidelser
+quickactions-cmd-extensions2 = utvidelser, tillegg
 quickactions-cmd-extensions = utvidelser
 # Opens Firefox View
 quickactions-firefoxview = Åpne { -firefoxview-brand-name }
