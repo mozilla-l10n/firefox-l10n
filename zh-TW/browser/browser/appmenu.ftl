@@ -170,6 +170,9 @@ profiler-popup-capture-shortcut =
         [macos] ⌃⇧2
        *[other] Ctrl+Shift+2
     }
+profiler-button-dropmarker =
+    .label = 開啟效能分析面版
+    .tooltiptext = 開啟效能分析面版
 
 ## Profiler presets
 ## They are shown in the popup's select box.
