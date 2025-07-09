@@ -546,6 +546,9 @@ newtab-custom-wallpaper-cta = Prova
 
 ## Alternative strings for custom wallpaper highlight
 
+newtab-custom-wallpaper-alt-title = Il tuo browser. Il tuo sfondo
+newtab-custom-wallpaper-alt-subtitle = Scegli uno sfondo o un colore che corrisponda al tuo umore.
+newtab-custom-wallpaper-alt-cta = Provalo ora
 
 ## Strings for download mobile highlight
 
