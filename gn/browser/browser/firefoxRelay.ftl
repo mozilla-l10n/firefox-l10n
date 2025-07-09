@@ -72,6 +72,7 @@ firefox-relay-and-fxa-opt-in-confirmation-enable-button-basic-info =
 
 firefox-relay-and-fxa-popup-notification-header-with-domain = Ereko ñanduti veve rovamo’ãha reigua
 firefox-relay-and-fxa-popup-notification-first-sentence-with-domain = Emo’ã ñe’ẽmondo g̃uahẽha spam-gui eiporúvo <label data-l10n-name="firefox-relay-learn-more-url"> ñanduti veve rovamo’ãha</label> reigua eñomi hag̃ua ñanduti veve tee. Umi ñanduti veve <label data-l10n-name="firefox-fxa-and-relay-offer-domain">ko tenda</label> oikéta ñe’ẽmondo g̃uahẽhápe, katu ñanduti veve ñeñomíme.
+firefox-relay-and-fxa-popup-notification-first-sentence = Emo’ã ñe’ẽmondo g̃uahẽha spam-gui eiporúvo <label data-l10n-name="firefox-relay-learn-more-url">{ -relay-brand-name } ñanduti veve rovamo’ãha</label> reigua eñomi hag̃ua ñanduti veve tee. Umi ñanduti veve <label data-l10n-name="firefox-fxa-and-relay-offer-domain">ko tenda</label> oikéta ñe’ẽmondo g̃uahẽhápe, katu ñanduti veve ñeñomíme.
 firefox-relay-and-fxa-popup-notification-second-sentence-with-domain = Ñepyrũrã, eñemboheraguapy térã eike ne mba’etépe eiporu hag̃ua ñanduti veve rovamo’ãha
 firefox-relay-and-fxa-opt-in-confirmation-enable-button-with-domain =
     .label = Eñemboheraguapy

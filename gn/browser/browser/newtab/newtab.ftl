@@ -550,6 +550,8 @@ newtab-download-mobile-highlight-image =
 
 ## Strings for shortcuts highlight
 
+newtab-shortcuts-highlight-title = Eguerohoryvéva ne kuã ykerete
+newtab-shortcuts-highlight-subtitle = Embojuaju jeike pya’eha ereko hag̃ua erohoryvéva nde ykére.
 
 ## Strings for reporting ads and content
 
