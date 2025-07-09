@@ -544,6 +544,9 @@ newtab-custom-wallpaper-title = Ora puoi utilizzare sfondi personalizzati
 newtab-custom-wallpaper-subtitle = Carica il tuo sfondo o scegli un colore personalizzato per personalizzare { -brand-product-name }.
 newtab-custom-wallpaper-cta = Prova
 
+## Alternative strings for custom wallpaper highlight
+
+
 ## Strings for download mobile highlight
 
 newtab-download-mobile-highlight-title = Scarica { -brand-product-name } per dispositivi mobili
@@ -594,4 +597,3 @@ newtab-trending-searches-learn-more = Ulteriori informazioni
 newtab-trending-searches-dismiss = Nascondi ricerche di tendenza
 # "Trending searches refers to popular searches from search engines
 newtab-trending-searches-title = Ricerche di tendenza
-
