@@ -552,6 +552,8 @@ newtab-download-mobile-highlight-image =
 
 ## Strings for shortcuts highlight
 
+newtab-shortcuts-highlight-title = Vaši favoriti na dohvat ruke
+newtab-shortcuts-highlight-subtitle = Dodajte prečicu da biste svoje omiljene stranice imali pri ruci na jedan klik.
 
 ## Strings for reporting ads and content
 

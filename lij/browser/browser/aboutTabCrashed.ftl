@@ -19,3 +19,4 @@ crashed-comment =
 crashed-include-URL-2 = Includdi a URLs di sciti donde t'ei quande { -brand-short-name } o s'é ciantou
 crashed-report-sent = A segnalaçion do cianto anòmalo a l'é za stæta manda. Graçie de avei contribuio a-o migioramento de { -brand-short-name }.
 crashed-request-auto-submit-title = Segnala i feuggi in background
+crashed-auto-submit-checkbox-2 = Agiorna e preferense pe mandâ in aotomatico quande { -brand-short-name } o se cianta
