@@ -262,6 +262,10 @@ menu-profiles-manage-profiles =
     .label = Quản lý hồ sơ
 menu-profiles-new-profile =
     .label = Hồ sơ mới
+# Variables:
+#  $profileName (String): the name of the users profile
+menu-profiles-current =
+    .label = { $profileName } (hiện tại)
 
 ## Tools Menu
 

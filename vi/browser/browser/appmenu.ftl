@@ -170,6 +170,9 @@ profiler-popup-capture-shortcut =
         [macos] ⌃⇧2
        *[other] Ctrl+Shift+2
     }
+profiler-button-dropmarker =
+    .label = Mở bảng profiler
+    .tooltiptext = Mở bảng profiler
 
 ## Profiler presets
 ## They are shown in the popup's select box.
@@ -196,6 +199,9 @@ profiler-popup-presets-graphics-label =
 profiler-popup-presets-media-description2 = Giá trị đặt trước để điều tra lỗi âm thanh và video trong { -brand-shorter-name }.
 profiler-popup-presets-media-label =
     .label = Media
+profiler-popup-presets-ml-description = Cài đặt trước để điều tra lỗi học máy (machine learning) trong { -brand-shorter-name }.
+profiler-popup-presets-ml-label =
+    .label = Học máy (Machine Learning)
 profiler-popup-presets-networking-description = Giá trị đặt trước để điều tra lỗi mạng trong { -brand-shorter-name }.
 profiler-popup-presets-networking-label =
     .label = Kết nối mạng

@@ -550,6 +550,8 @@ newtab-download-mobile-highlight-image =
 
 ## Strings for shortcuts highlight
 
+newtab-shortcuts-highlight-title = Những mục yêu thích của bạn trong tầm tay bạn
+newtab-shortcuts-highlight-subtitle = Thêm lối tắt để truy cập các trang web yêu thích chỉ bằng một cú nhấp chuột.
 
 ## Strings for reporting ads and content
 
@@ -584,3 +586,5 @@ newtab-trending-searches-hide-trending =
     .title = Ẩn tìm kiếm thịnh hành
 newtab-trending-searches-learn-more = Tìm hiểu thêm
 newtab-trending-searches-dismiss = Ẩn tìm kiếm thịnh hành
+# "Trending searches refers to popular searches from search engines
+newtab-trending-searches-title = Tìm kiếm thịnh hành

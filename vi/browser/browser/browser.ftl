@@ -363,6 +363,7 @@ quickactions-downloads2 = Xem tải xuống
 quickactions-cmd-downloads = xem tải xuống, xem tai xuong, tải xuống, tai xuong, downloads
 # Opens about:addons page in the extensions section
 quickactions-extensions = Quản lý tiện ích
+quickactions-cmd-extensions2 = tien ich, tiện ích, tien ich mo rong, tiện ích mở rộng, extensions
 quickactions-cmd-extensions = quản lý tiện ích, quan ly tien ich, tiện ích mở rộng, tien ich mo rong, tiện ích, tien ich
 # Opens Firefox View
 quickactions-firefoxview = Mở { -firefoxview-brand-name }
@@ -410,6 +411,10 @@ quickactions-cmd-settings2 = cài đặt, tùy chọn, tùy chỉnh, quản lý,
 quickactions-cmd-settings = cài đặt, tùy chọn, thiết lập, cai dat, tuy chon, thiet lap
 # Opens about:addons page in the themes section
 quickactions-themes = Quản lý chủ đề
+# In English we provide multiple spellings for "add-ons". If that's not
+# applicable to your language, only use the correct spelling (don't repeat the
+# same word).
+quickactions-cmd-themes2 = tien ich, tiện ích, chu de, chủ đề, themes
 quickactions-cmd-themes = chủ đề, chu de, themes
 # Opens a SUMO article explaining how to update the browser
 quickactions-update = Cập nhật { -brand-short-name }
@@ -807,6 +812,8 @@ urlbar-searchmode-actions =
     .label = Hành động
 urlbar-searchmode-exit-button =
     .tooltiptext = Đóng
+urlbar-searchmode-default =
+    .tooltiptext = Công cụ tìm kiếm mặc định
 # Label shown on the top of Searchmode Switcher popup. After this label, the
 # available search engines will be listed.
 urlbar-searchmode-popup-description = Lần này, tìm kiếm với:
