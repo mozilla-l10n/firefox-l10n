@@ -72,6 +72,7 @@ firefox-relay-and-fxa-opt-in-confirmation-enable-button-basic-info =
 
 firefox-relay-and-fxa-popup-notification-header-with-domain = Untfang in fergees e-mailmasker
 firefox-relay-and-fxa-popup-notification-first-sentence-with-domain = Beskermje jo Postfek YN tsjin spam troch in fergees <label data-l10n-name="firefox-relay-learn-more-url">e-mailmasker</label> te brûken om jo echte adres te ferbergjen. E-mailberjochten fan <label data-l10n-name="firefox-fxa-and-relay-offer-domain">dizze website</label> sille noch hieltyd yn jo Postfek YN komme, mar mei jo e-mailadres ferburgen.
+firefox-relay-and-fxa-popup-notification-first-sentence = Beskermje jo Postfek YN tsjin spam troch in fergees <label data-l10n-name="firefox-relay-learn-more-url">{ -relay-brand-name }-e-mailmasker</label> te brûken om jo echte adres te ferbergjen. E-mailberjochten fan <label data-l10n-name="firefox-fxa-and-relay-offer-domain">dizze website</label> sille noch hieltyd yn jo Postfek YN komme, mar mei jo e-mailadres ferburgen.
 firefox-relay-and-fxa-popup-notification-second-sentence-with-domain = Registrearje of meld jo earst oan by jo account om in e-mailmasker te brûken
 firefox-relay-and-fxa-opt-in-confirmation-enable-button-with-domain =
     .label = Registrearje

@@ -1272,6 +1272,7 @@ content-blocking-etp-standard-tcp-rollout-description = Totale cookiebeskerming 
 content-blocking-etp-standard-tcp-rollout-learn-more = Mear ynfo
 content-blocking-etp-standard-tcp-title = Befettet Totale cookiebeskerming, ús krêftichste privacyfunksje ea
 content-blocking-warning-title = Let op!
+content-blocking-and-isolating-etp-warning-description-3 = Dizze ynstelling kin derfoar soargje dat guon websites ynhâld net werjaan of goed funksjonearje. Wy biede opsjonele útsûnderingen foar websites wêrfan wy witte dat se beynfloede wurde kinne troch jo konfiguraasje. Om de kâns op defekte websites te ferminderjen, kinne jo dizze trackerútsûnderingen tastean. As in website net liket te wurkjen, kinne jo beskerming tsjin folgjen foar dy website útskeakelje om alle ynhâld te laden en it probleem te melden, sadat wy it foar elkenien oplosse kinne.
 content-blocking-and-isolating-etp-warning-description-2 = Dizze ynstelling kin derfoar soargje dat guon websites ynhâld net toane of net korrekt wurkje. As in website net liket te wurkjen, dan kinne jo beskerming tsjin folgjen foar dy website útskeakelje om alle ynhâld te laden.
 content-blocking-warning-learn-how = Mear ynfo
 content-blocking-baseline-exceptions =
