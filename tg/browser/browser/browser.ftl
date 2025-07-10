@@ -363,6 +363,7 @@ quickactions-downloads2 = Дидани боргириҳо
 quickactions-cmd-downloads = боргириҳо
 # Opens about:addons page in the extensions section
 quickactions-extensions = Идоракунии васеъшавиҳо
+quickactions-cmd-extensions2 = васеъшавиҳо, ҷузъҳои иловагӣ, ҷузъи иловагӣ, extensions, addons, add-ons
 quickactions-cmd-extensions = васеъшавиҳо
 # Opens Firefox View
 quickactions-firefoxview = Кушодани «{ -firefoxview-brand-name }»
