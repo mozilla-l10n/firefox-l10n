@@ -70,6 +70,25 @@ genai-input-ask-generic =
 # $provider (string) - name of the provider
 genai-input-ask-provider =
     .placeholder = Preguntar a { $provider }...
+# $selectionLength (number) - selected text length
+# $maxLength (number) - max length of what can be selected
+genai-shortcuts-selected-warning-generic =
+    .heading = O chatbot de IA non terá a túa selección completa
+    .message =
+        { $selectionLength ->
+            [one] Seleccionaches un carácter. O número de caracteres que podemos enviar ao chatbot de IA é de aproximadamente { $maxLength }.
+           *[other] Seleccionaches uns { $selectionLength } caracteres. O número de caracteres que podemos enviar ao chatbot de IA é de aproximadamente { $maxLength }.
+        }
+# $provider (string) - name of the provider
+# $selectionLength (number) - selected text length
+# $maxLength (number) - max length of what can be selected
+genai-shortcuts-selected-warning =
+    .heading = { $provider } non obterá a túa selección completa
+    .message =
+        { $selectionLength ->
+            [one] Seleccionaches un carácter. O número de caracteres que podemos enviar a { $provider } é de aproximadamente { $maxLength }.
+           *[other] Seleccionaches uns { $selectionLength } caracteres. O número de caracteres que podemos enviar a { $provider } é de aproximadamente { $maxLength }.
+        }
 genai-shortcuts-hide =
     .label = Ocultar o atallo do chatbot
 genai-menu-no-provider =
@@ -93,8 +112,12 @@ genai-options-reload-generic =
 # $provider (string) - name of the provider
 genai-options-reload-provider =
     .label = Recargar { $provider }
+genai-options-show-shortcut =
+    .label = Mostra o atallo ao seleccionar texto
 genai-options-hide-shortcut =
     .label = Ocultar o atallo ao seleccionar texto
+genai-options-about-chatbot =
+    .label = Acerca dos chatbots de IA en { -brand-short-name }
 
 ## Chatbot footer
 
@@ -102,6 +125,12 @@ genai-page-button-summarize = Resumir páxina
 
 ## Chatbot onboarding
 
+genai-onboarding-header = Resumir, facer unha tormenta de ideas e moito máis mentres navegas
+genai-onboarding-choose-header = Escolle un chatbot de IA para usar na barra lateral de { -brand-short-name }
+# "Switch anytime" refers to allowing the user to switch to a different chatbot.
+genai-onboarding-description = Escolle un chatbot de IA para usar na barra lateral de { -brand-short-name }. Mostraremos detalles sobre cada chatbot cando o selecciones. Cambia en calquera momento. <a data-l10n-name="learn-more">Máis información</a>
+# "Switch anytime" refers to allowing the user to switch to a different chatbot.
+genai-onboarding-choose-description = Cambia en calquera momento. Para obter axuda para escoller, <a data-l10n-name="learn-more">aprende máis acerca de cada chatbot</a>.
 genai-onboarding-primary = Continuar
 genai-onboarding-secondary = Pechar
 genai-onboarding-claude-tooltip =
@@ -123,12 +152,15 @@ genai-onboarding-lechat-tooltip =
     .title = Le Chat Mistral
 genai-onboarding-lechat-learn = Máis información sobre Le Chat
 genai-onboarding-select-header = Selecciona texto para ver as suxestións
+genai-onboarding-select-description = Cando selecciones texto, suxerirémosche prompts que podes enviar ao chatbot. Tamén pode escribir nos teus propios prompts.
 genai-onboarding-select-primary = Comeza a conversar
 genai-chatbot-contextual-title = Usa un chatbot de intelixencia artificial sen cambiar de pestana
 genai-chatbot-contextual-subtitle = Conversa e navega en paralelo cando engades un chatbot de intelixencia artificial na barra lateral { -brand-short-name }.
 genai-chatbot-contextual-button = Escoller un chatbot
 genai-chatbot-summarize-title = Novo! Resumir páxinas cun só clic
 genai-chatbot-summarize-button = Resumir páxina
+# “Summarize Page” should be consistent with the translation for the string genai-menu-summarize-page
+genai-chatbot-summarize-sidebar-provider-subtitle = Fai clic co botón dereito no teu chatbot de IA na barra lateral e selecciona «Resumir páxina».
 
 ## Chatbot onboarding choices
 ## These describe features/capabilities of chatbot providers. These are not buttons/actions.
