@@ -548,6 +548,7 @@ newtab-download-mobile-highlight-image =
 ## Strings for shortcuts highlight
 
 newtab-shortcuts-highlight-title = Tu preferentias a tu punctas de digitos
+newtab-shortcuts-highlight-subtitle = Adde un via-breve pro mantener tu sitos favorite a portata de clic.
 
 ## Strings for reporting ads and content
 

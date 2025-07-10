@@ -72,6 +72,7 @@ firefox-relay-and-fxa-opt-in-confirmation-enable-button-basic-info =
 
 firefox-relay-and-fxa-popup-notification-header-with-domain = Obtene un masca de e-mail gratuite
 firefox-relay-and-fxa-popup-notification-first-sentence-with-domain = Protege tu cassa de entrata contra le spam usante un <label data-l10n-name="firefox-relay-learn-more-url">masca de e-mail</label> gratuite pro celar tu adresse real. Le messages de <label data-l10n-name="firefox-fxa-and-relay-offer-domain">iste sito</label> continuara a arrivar in tu cassa de entrata, ma con tu adresse de e-mail celate.
+firefox-relay-and-fxa-popup-notification-first-sentence = Protege tu cassa de entrata contra le spam per un <label data-l10n-name="firefox-relay-learn-more-url">{ -relay-brand-name } masca de e-mail</label> gratuite pro celar tu adresse real. Le messages de <label data-l10n-name="firefox-fxa-and-relay-offer-domain">iste sito</label> continuara a arrivar in tu cassa de entrata, ma con tu adresse de e-mail celate.
 firefox-relay-and-fxa-popup-notification-second-sentence-with-domain = Primo, inscribe te o aperi session pro usar un masca de e-mail
 firefox-relay-and-fxa-opt-in-confirmation-enable-button-with-domain =
     .label = Inscriber se
