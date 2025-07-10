@@ -196,6 +196,13 @@ contextual-manager-passwords-breached-origin-heading-and-message =
     .message = Denunciouse o roubo ou a filtración de contrasinais deste sitio web. Cambia o teu contrasinal para protexer a túa conta.
 contextual-manager-passwords-breached-origin-link-message = Como sabe { -brand-product-name } sobre a filtracións?
 contextual-manager-passwords-change-password-button = Cambiar contrasinal
+contextual-manager-passwords-vulnerable-password-heading-and-message =
+    .heading = Recoméndase cambiar o contrasinal
+    .message = Este contrasinal é fácil de adiviñar. Cambia o teu contrasinal para protexer a túa conta.
+contextual-manager-passwords-vulnerable-password-link-message = Como sabe { -brand-product-name } sobre contrasinais débiles?
+contextual-manager-passwords-no-username-heading-and-message =
+    .heading = Engade un nome de usuario
+    .message = Engade un para acceder máis rápido.
 contextual-manager-passwords-add-username-button = Engadir nome de usuario
 contextual-manager-passwords-title = Contrasinais
 
