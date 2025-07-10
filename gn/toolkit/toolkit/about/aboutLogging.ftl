@@ -49,6 +49,7 @@ about-logging-preset-media-playback-description = Teraguapy ra’ãha ojehechaku
 about-logging-preset-webrtc-label = WebRTC
 about-logging-preset-webrtc-description = Mboheraguapy ra’ãha ehecha hag̃ua WebRTC apañuái
 about-logging-preset-webcodecs-label = WebCodecs
+about-logging-preset-webcodecs-description = Mboheraguapy ayvu eikuaa hag̃ua apañuái WebCodecs ndive ha mba’epu/ta’ãngamýi ha ta’ãnga mbopapapy’oha
 about-logging-preset-ml-label = Kuaarã Ijeheguíva
 about-logging-preset-ml-description = Mboheraguapy ra’ãha ehecha hag̃ua kuaarã ijeheguíva apañuái
 about-logging-preset-webgpu-label = WebGPU
