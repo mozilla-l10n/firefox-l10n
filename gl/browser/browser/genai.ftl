@@ -161,6 +161,11 @@ genai-chatbot-summarize-title = Novo! Resumir páxinas cun só clic
 genai-chatbot-summarize-button = Resumir páxina
 # “Summarize Page” should be consistent with the translation for the string genai-menu-summarize-page
 genai-chatbot-summarize-sidebar-provider-subtitle = Fai clic co botón dereito no teu chatbot de IA na barra lateral e selecciona «Resumir páxina».
+# “Summarize Page” should be consistent with the translation for the string genai-menu-summarize-page
+genai-chatbot-summarize-sidebar-generic-subtitle = Fai clic co botón dereito no botón escintilante na barra lateral e escolle «Resumir páxina». A primeira vez, tamén escollerás un chatbot de IA.
+# “Summarize page” should be consistent with the translation for the string genai-page-button-summarize
+genai-chatbot-summarize-footer-provider-subtitle = Abre o teu chatbot de IA na barra lateral e escolle «Resumir páxina» na parte inferior.
+genai-chatbot-summarize-footer-generic-subtitle = Engade un chatbot de IA á barra lateral de { -brand-short-name } para resumir rapidamente as páxinas.
 
 ## Chatbot onboarding choices
 ## These describe features/capabilities of chatbot providers. These are not buttons/actions.
@@ -178,6 +183,8 @@ genai-onboarding-gemini-generate = Xerar texto, imaxes e código
 genai-onboarding-gemini-analyze = Analiza imaxes (gratis) e documentos (de pago)
 genai-onboarding-gemini-price = Opcións gratuítas e de pago; conta necesaria
 genai-onboarding-huggingchat-generate = Xerar texto e código
+genai-onboarding-huggingchat-switch = Cambiar entre un conxunto diverso de modelos abertos
+genai-onboarding-huggingchat-price-2 = Gratis; requírese unha conta despois dun determinado número de solicitudes
 genai-onboarding-lechat-generate = Xerar texto e código
 genai-onboarding-lechat-price = Gratis; require unha conta
 
@@ -192,3 +199,15 @@ genai-model-optin-cancel =
 
 ## Link previews
 
+# ‘min’ is short for “minute”
+# ‘mins’ is short for “minutes”
+# An estimate for how long it takes to read an article,
+# expressed as a range covering both slow and fast readers.
+# Variables:
+#   $rangePlural (String): The plural category of the range, using the same set as for numbers.
+#   $range (String): The range of minutes as a localised string. Examples: "3-7", "~1".
+link-preview-reading-time =
+    { $rangePlural ->
+        [one] { $range } minuto de tempo de lectura
+       *[other] { $range } minutos de tempo de lectura
+    }
