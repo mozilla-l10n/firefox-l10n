@@ -126,6 +126,14 @@ contextual-manager-passwords-remove-all-message =
         [one] Isto eliminará o contrasinal gardado en { -brand-short-name } e calquera alerta de violación. Non podes desfacer esta acción.
        *[other] Isto eliminará os contrasinais gardados en { -brand-short-name } e calquera alerta de violación. Non podes desfacer esta acción.
     }
+# Message for modal to confirm the removal of all saved passwords when user HAS SYNC
+#   $total (number) - Total number of passwords
+contextual-manager-passwords-remove-all-message-sync =
+    { $total ->
+        [1] Isto eliminará o contrasinal gardado en { -brand-short-name } en todos os teus dispositivos sincronizados e eliminaranse as alertas de quebra. Non podes desfacer esta acción.
+        [one] Isto eliminará o contrasinal gardado en { -brand-short-name } en todos os teus dispositivos sincronizados e eliminaranse as alertas de quebra. Non podes desfacer esta acción.
+       *[other] Isto eliminará todos os contrasinais gardados en { -brand-short-name } en todos os teus dispositivos sincronizados e eliminaranse as alertas de quebra. Non podes desfacer esta acción.
+    }
 contextual-manager-passwords-origin-label = Sitio web
 # The attribute .data-after describes the text that should be displayed for the ::after pseudo-selector
 contextual-manager-passwords-username-label = Nome de usuario
@@ -183,6 +191,10 @@ contextual-manager-passwords-alert-back-button =
     .label = Atrás
 contextual-manager-passwords-alert-list =
     .aria-label = Lista de alertas
+contextual-manager-passwords-breached-origin-heading-and-message =
+    .heading = Recoméndase cambiar o contrasinal
+    .message = Denunciouse o roubo ou a filtración de contrasinais deste sitio web. Cambia o teu contrasinal para protexer a túa conta.
+contextual-manager-passwords-breached-origin-link-message = Como sabe { -brand-product-name } sobre a filtracións?
 contextual-manager-passwords-change-password-button = Cambiar contrasinal
 contextual-manager-passwords-add-username-button = Engadir nome de usuario
 contextual-manager-passwords-title = Contrasinais
