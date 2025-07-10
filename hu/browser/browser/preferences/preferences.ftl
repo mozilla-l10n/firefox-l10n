@@ -1272,6 +1272,7 @@ content-blocking-etp-standard-tcp-rollout-description = A Teljes sütivédelem a
 content-blocking-etp-standard-tcp-rollout-learn-more = További tudnivalók
 content-blocking-etp-standard-tcp-title = Tartalmazza a Teljes sütivédelmet, a valaha volt leghatékonyabb adatvédelmi funkciónkat
 content-blocking-warning-title = Figyelem!
+content-blocking-and-isolating-etp-warning-description-3 = Ez a beállítás azt okozhatja, hogy egyes webhelyek nem jelennek meg vagy működnek megfelelően. Nem kötelező kivételeket biztosítunk azon webhelyek számára, amelyekről tudjuk, hogy érinthetik a beállításai. A hibás weboldalak esélyének csökkentése érdekében engedélyezze ezeket a követési kivételeket. Ha egy webhely hibásnak tűnik, kikapcsolhatja azon a követésvédelmet, hogy betöltse az összes tartalmat, majd jelentheti a problémát, hogy mindenki számára segíthessünk a javításban.
 content-blocking-and-isolating-etp-warning-description-2 = A beállítás azt eredményezheti, hogy egyes webhelyek nem megfelelően jelennek meg vagy működnek. Ha egy oldal hibásnak tűnik, akkor az összes tartalom betöltéséhez kikapcsolhatja a követés elleni védelmet.
 content-blocking-warning-learn-how = Tudja meg, hogyan
 content-blocking-reload-description = A módosítások alkalmazásához frissítenie kell a lapokat.
