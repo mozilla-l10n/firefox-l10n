@@ -161,6 +161,8 @@ genai-chatbot-summarize-title = Neu! Fassen Sie Seiten mit einem Klick zusammen
 genai-chatbot-summarize-button = Seite zusammenfassen
 # “Summarize Page” should be consistent with the translation for the string genai-menu-summarize-page
 genai-chatbot-summarize-sidebar-provider-subtitle = Klicken Sie mit der rechten Maustaste auf Ihren KI-Chatbot in der Sidebar und wählen Sie "Seite zusammenfassen".
+# “Summarize Page” should be consistent with the translation for the string genai-menu-summarize-page
+genai-chatbot-summarize-sidebar-generic-subtitle = Klicken Sie mit der rechten Maustaste auf die Glitzer-Schaltfläche in der Sidebar und wählen Sie "Seite zusammenfassen". Beim ersten Mal wählen Sie auch einen KI-Chatbot.
 # “Summarize page” should be consistent with the translation for the string genai-page-button-summarize
 genai-chatbot-summarize-footer-provider-subtitle = Öffnen Sie Ihren KI-Chatbot in der Sidebar und wählen Sie unten "Seite zusammenfassen".
 genai-chatbot-summarize-footer-generic-subtitle = Fügen Sie einen KI-Chatbot in der { -brand-short-name }-Sidebar hinzu, um Seiten schnell zusammenzufassen.

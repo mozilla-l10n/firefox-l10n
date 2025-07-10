@@ -170,6 +170,9 @@ profiler-popup-capture-shortcut =
         [macos] ⌃⇧2
        *[other] Strg+Umschalt+2
     }
+profiler-button-dropmarker =
+    .label = Laufzeitanalyse-Ansicht öffnen
+    .tooltiptext = Laufzeitanalyse-Ansicht öffnen
 
 ## Profiler presets
 ## They are shown in the popup's select box.
