@@ -1272,6 +1272,7 @@ content-blocking-etp-standard-tcp-rollout-description = Le protection total cont
 content-blocking-etp-standard-tcp-rollout-learn-more = Pro saper plus
 content-blocking-etp-standard-tcp-title = Include Protection total del cookies, nostre plus potente functionalitate de confidentialitate de unquam
 content-blocking-warning-title = Attention!
+content-blocking-and-isolating-etp-warning-description-3 = Iste configuration pote causar que alcun sitos web non monstra contento o non functiona correctemente. Nos forni exceptiones optional pro sitos web que nos sape pote esser afficite per tu configuration. Pro reducer le risco de sitos web corrupte, permitte le exceptiones de iste traciator. Si un sito appare corrupte, tu pote disactivar le protection de traciamento pro ille sito pro cargar tote le contento e reportar le problema assi nos pote adjutar a resolver lo pro totes.
 content-blocking-and-isolating-etp-warning-description-2 = Iste parametro pote causar alcun sitos web a non monstrar contento o non pote functionar correctemente. Si un sito pare corrupte, prova disactivar protection de traciamento pro ille sito pote cargar tote le contento.
 content-blocking-warning-learn-how = Apprende como
 content-blocking-reload-description = Tu debera recargar tu schedas pro applicar iste cambios.
