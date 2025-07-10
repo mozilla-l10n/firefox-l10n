@@ -363,6 +363,7 @@ quickactions-downloads2 = 查看下载
 quickactions-cmd-downloads = 下载, downloads
 # Opens about:addons page in the extensions section
 quickactions-extensions = 管理扩展
+quickactions-cmd-extensions2 = 扩展, 附加组件, 附加组件, extensions, addons, add-ons
 quickactions-cmd-extensions = 扩展, extensions
 # Opens Firefox View
 quickactions-firefoxview = 打开 { -firefoxview-brand-name }
