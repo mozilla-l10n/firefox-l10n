@@ -98,12 +98,17 @@ perplexity-callout-theme-1-title = Necesitas a resposta correcta, de inmediato?
 perplexity-callout-theme-2-title = Proba Perplexity: unha nova forma de buscar
 perplexity-callout-theme-1-subtitle-1 = Proba Perplexity. Escóllea no botón de busca cando queiras respostas completas, fontes incluídas.
 perplexity-callout-theme-1-subtitle-2 = Fai preguntas. Obtén respostas completas e ben citadas. Para probar Perplexity, escóllea no botón de busca.
+perplexity-callout-theme-2-subtitle-1 = Pregunta a Perplexity. Recibirás respostas completas, fontes incluídas.
+perplexity-callout-theme-2-subtitle-2 = Fai preguntas. Obtén respostas completas e ben citadas.
 perplexity-callout-primary-label = Preguntar a Perplexity
 perplexity-callout-secondary-label-1 = Rexeitar
 perplexity-callout-secondary-label-2 = Entendido
 
 ## Account Adoption Passwords callout strings
 
+# Suggestion to backup passwords by signing up for Mozilla account and using sync
+fxa-adoption-passwords-title = Contrasinal gardada. Fagamos unha copia de seguridade.
+fxa-adoption-passwords-subtitle = Protexe os teus contrasinais sincronizándoos cos teus dispositivos con cifrado.
 # Opens Mozilla accounts sign-up page
 fxa-adoption-passwords-primary-button-label = Rexistrarse
 
@@ -143,6 +148,8 @@ sidebar-customization-callout-1-title = Barra lateral: o teu lugar para as ferra
 sidebar-customization-callout-1-subtitle = A barra lateral de { -brand-product-name } ofréceche acceso rápido ao teu historial de navegación, ás pestanas desde outros dispositivos e a un chatbot IA, todo sen saír da túa vista principal.
 sidebar-customization-callout-callout-button = Personalizar a barra lateral
 sidebar-customization-callout-dismiss-button = Ocultar a barra lateral
+sidebar-customization-callout-2-title = Personaliza la barra lateral de { -brand-product-name }
+sidebar-customization-callout-2-subtitle = Engadir e eliminar ferramentas. Coloca as túas pestanas na barra lateral. Proba un chatbot con intelixencia artificial. O xeito no que personalizas a barra lateral depende de ti.
 
 ## Sidebar Callout Survey Strings
 
@@ -163,11 +170,19 @@ sidebar-callout-survey-agree = De acordo
 sidebar-callout-survey-disagree = En desacordo
 sidebar-callout-survey-strongly-disagree = Moi en desacordo
 sidebar-callout-survey-features-question = As seguintes son as posibles funcións da barra lateral. Cal melloraría máis a túa produtividade en { -brand-short-name }?
+sidebar-callout-survey-split-view = Consulta dous sitios web calquera á vez, nunha vista dividida un ao lado doutro
+sidebar-callout-survey-keep-website-open = Mantén un sitio web, como o correo electrónico ou o calendario, aberto na barra lateral mentres navegas
 sidebar-callout-survey-saved-websites-2 = Acceso rápido aos teus marcadores
 sidebar-callout-survey-none-of-above = Ningunha das anteriores
 sidebar-callout-survey-submit = Enviar
 sidebar-callout-survey-thank-you = Grazas polos teus comentarios!
+sidebar-genai-survey-satisfaction-question = Como estás de satisfeito con ter acceso a un chatbot de intelixencia artificial na barra lateral?
+sidebar-genai-survey-productive-question =
+    En que medida estás de acordo ou en desacordo con esta afirmación:<br/>
+    «O chatbot de IA na barra lateral axúdame a ser máis produtivo»?
 unified-search-callout-title = Cambiar entre os buscadores
+unified-search-callout-subtitle = Escolle o que funciona mellor para a túa busca específica.
 unified-search-callout-primary-label = Seguinte
 unified-search-callout-secondary-label = Rexeitar
+unified-search-engines-callout-title = Busca cun atallo
 unified-search-engines-callout-primary-label = Entendido
