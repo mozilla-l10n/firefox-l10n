@@ -72,6 +72,7 @@ firefox-relay-and-fxa-opt-in-confirmation-enable-button-basic-info =
 
 firefox-relay-and-fxa-popup-notification-header-with-domain = קבלת מסיכת דוא״ל חינמית
 firefox-relay-and-fxa-popup-notification-first-sentence-with-domain = ניתן להגן על הדואר הנכנס שלך מפני דואר זבל על־ידי שימוש ב<label data-l10n-name="firefox-relay-learn-more-url">מסיכת דוא״ל</label> חינמית כדי להסתיר את הכתובת האמיתית שלך. הודעות דוא״ל שיתקבלו <label data-l10n-name="firefox-fxa-and-relay-offer-domain">מאתר זה</label> עדיין יגיעו לדואר הנכנס שלך, אך כתובת הדוא״ל שלך תהיה מוסתרת.
+firefox-relay-and-fxa-popup-notification-first-sentence = ניתן להגן על הדואר הנכנס שלך מפני דואר זבל על־ידי שימוש ב<label data-l10n-name="firefox-relay-learn-more-url">מסיכת דוא״ל { -relay-brand-name }</label> חינמית כדי להסתיר את הכתובת האמיתית שלך. הודעות דוא״ל שיתקבלו <label data-l10n-name="firefox-fxa-and-relay-offer-domain">מאתר זה</label> עדיין יגיעו לדואר הנכנס שלך, אך כתובת הדוא״ל שלך תהיה מוסתרת.
 firefox-relay-and-fxa-popup-notification-second-sentence-with-domain = תחילה, יש להירשם או להתחבר לחשבון שלך כדי להשתמש במסיכת דוא״ל
 firefox-relay-and-fxa-opt-in-confirmation-enable-button-with-domain =
     .label = הרשמה

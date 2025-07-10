@@ -169,6 +169,9 @@ profiler-popup-capture-shortcut =
         [macos] ⌃⇧2
        *[other] Ctrl+Shift+2
     }
+profiler-button-dropmarker =
+    .label = פתיחת חלונית יוצר הפרופילים
+    .tooltiptext = פתיחת חלונית יוצר הפרופילים
 
 ## Profiler presets
 ## They are shown in the popup's select box.

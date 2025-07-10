@@ -363,6 +363,7 @@ quickactions-downloads2 = הצגת הורדות
 quickactions-cmd-downloads = הורדות
 # Opens about:addons page in the extensions section
 quickactions-extensions = ניהול הרחבות
+quickactions-cmd-extensions2 = הרחבות, תוספות, תוספים
 quickactions-cmd-extensions = הרחבות, תוספות, תוספים
 # Opens Firefox View
 quickactions-firefoxview = פתיחת { -firefoxview-brand-name }
