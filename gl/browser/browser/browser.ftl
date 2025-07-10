@@ -406,9 +406,15 @@ quickactions-cmd-screenshot2 = captura de pantalla, facer unha captura de pantal
 quickactions-cmd-screenshot = captura de pantalla
 # Opens about:preferences
 quickactions-settings2 = Xestionar a configuración
+# "manage" should match the corresponding command, which is “Manage settings” in English.
+quickactions-cmd-settings2 = configuración, preferencias, opcións, xestionar
 quickactions-cmd-settings = configuración, preferencias, opcións
 # Opens about:addons page in the themes section
 quickactions-themes = Xestionar os temas
+# In English we provide multiple spellings for "add-ons". If that's not
+# applicable to your language, only use the correct spelling (don't repeat the
+# same word).
+quickactions-cmd-themes2 = temas, complementos, complementos
 quickactions-cmd-themes = temas
 # Opens a SUMO article explaining how to update the browser
 quickactions-update = Actualizar { -brand-short-name }
@@ -735,6 +741,57 @@ urlbar-result-action-undefined-calculator-result = indefinido
 #  $result (String): the string representation for a result in scientific notation
 #  (e.g. "1.0e17").
 urlbar-result-action-calculator-result-scientific-notation = = { $result }
+# Shows the result of a formula expression being calculated, this is used for numbers >= 1.
+# The last = sign will be shown as part of the result (e.g. "= 2").
+# Variables
+#  $result (String): the string representation for a formula result
+urlbar-result-action-calculator-result-3 = = { NUMBER($result, useGrouping: "false", maximumFractionDigits: 8) }
+# Shows the result of a formula expression being calculated, to a maximum of 9 significant
+# digits. This is used for numbers < 1.
+# The last = sign will be shown as part of the result (e.g. "= 0.333333333").
+# Variables
+#  $result (String): the string representation for a formula result
+urlbar-result-action-calculator-result-decimal = = { NUMBER($result, maximumSignificantDigits: 9) }
+# The title of a weather suggestion in the urlbar. The temperature and unit
+# substring should be inside a <strong> tag. If the temperature and unit are not
+# adjacent in the localization, it's OK to include only the temperature in the
+# tag.
+# Variables:
+#   $temperature (number) - The temperature value
+#   $unit (String) - The unit for the temperature, either "C" or "F"
+#   $city (String) - The name of the city the weather data is for
+#   $region (String) - The name of the city's region or country. Depending on
+#       the user's location in relation to the city, this may be the name or
+#       abbreviation of one of the city's administrative divisions like a
+#       province or state, or it may be the name of the city's country.
+urlbar-result-weather-title = <strong>{ $temperature } °{ $unit }</strong> en { $city }, { $region }
+# The title of a weather suggestion in the urlbar including a region and
+# country. The temperature and unit substring should be inside a <strong> tag.
+# If the temperature and unit are not adjacent in the localization, it's OK to
+# include only the temperature in the tag.
+# Variables:
+#   $temperature (number) - The temperature value
+#   $unit (String) - The unit for the temperature, either "C" or "F"
+#   $city (String) - The name of the city the weather data is for
+#   $region (String) - The name or abbreviation of one of the city's
+#       administrative divisions like a province or state.
+#   $country (String) - The name of the city's country.
+urlbar-result-weather-title-with-country = <strong>{ $temperature } °{ $unit }</strong> en { $city }, { $region }, { $country }
+# The title of a weather suggestion in the urlbar only including the city. The
+# temperature and unit substring should be inside a <strong> tag. If the
+# temperature and unit are not adjacent in the localization, it's OK to include
+# only the temperature in the tag.
+# Variables:
+#   $temperature (number) - The temperature value
+#   $unit (String) - The unit for the temperature, either "C" or "F"
+#   $city (String) - The name of the city the weather data is for
+urlbar-result-weather-title-city-only = <strong>{ $temperature } °{ $unit }</strong> en { $city }
+# Shows the name of the provider of weather data in a weather suggestion in the
+# urlbar.
+# Variables:
+#   $provider (String) - The name of the weather-data provider. It will be the
+#       name of a company, organization, or service.
+urlbar-result-weather-provider-sponsored = { $provider } · Patrocinado
 
 ## Strings used for buttons in the urlbar
 
@@ -1123,6 +1180,9 @@ private-browsing-indicator-tooltip =
 content-analysis-indicator-tooltip =
     .tooltiptext = Prevención da perda de datos (DLP) por { $agentName }. Fai clic para obter máis información.
 content-analysis-panel-title = Protección de datos
+# Variables:
+#   $agentName (String): The name of the DLP agent that is connected
+content-analysis-panel-text-styled = A túa organización usa <b>{ $agentName }</b> para protexerse contra a perda de datos. <a data-l10n-name="info">Máis información</a>
 
 ## Unified extensions (toolbar) button
 
@@ -1197,6 +1257,10 @@ popup-notification-addon-install-unsigned =
     .value = (Sen comprobar)
 popup-notification-xpinstall-prompt-learn-more = Aprenda máis sobre a instalación de complementos de forma segura
 popup-notification-xpinstall-prompt-block-url = Ver detalles
+# Note: Access key is set to p to match "private" in the corresponding localized label.
+popup-notification-addon-privatebrowsing-checkbox2 =
+    .label = Permitir que a extensión se execute en ventás privadas
+    .accesskey = p
 
 ## Pop-up warning
 
@@ -1230,6 +1294,13 @@ popup-show-popup-menuitem =
 ## File-picker crash notification ("FilePickerCrashed.sys.mjs")
 
 file-picker-failed-open = Non se puido abrir o diálogo de ficheiros de Windows. Non se puido seleccionar ningún ficheiro nin cartafol.
+#   $path (string): The full path to which the file will be saved (e.g., 'C:\Users\Default User\Downloads\readme.txt').
+file-picker-failed-save-somewhere = Non se puido abrir o diálogo de ficheiros de Windows. O ficheiro gardarase en { $path }.
+file-picker-failed-save-nowhere = Non se puido abrir o diálogo de ficheiros de Windows. Non se puido atopar ningún cartafol predeterminado; o ficheiro non se gardará.
+file-picker-crashed-open = O diálogo de ficheiros de Windows fallou. Non se puido seleccionar ningún ficheiro nin cartafol.
+#   $path (string): The full path to which the file will be saved (e.g., 'C:\Users\Default User\Downloads\readme.txt').
+file-picker-crashed-save-somewhere = O diálogo de ficheiros de Windows fallou. O ficheiro gardarase en { $path }.
+file-picker-crashed-save-nowhere = O diálogo de ficheiros de Windows fallou. Non se puido atopar ningún cartafol predeterminado; o ficheiro non se gardará.
 
 # Button used with file-picker-crashed-save-default. Opens the folder in Windows
 # Explorer, with the saved file selected and in focus.
