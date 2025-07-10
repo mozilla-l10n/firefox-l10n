@@ -279,6 +279,8 @@ tab-context-move-tab-to-group =
            *[other] Προσθήκη καρτελών σε ομάδα
         }
     .accesskey = ο
+tab-context-move-tab-to-group-saved-groups =
+    .label = Κλεισμένες ομάδες
 tab-group-editor-action-new-tab =
     .label = Νέα καρτέλα στην ομάδα
 tab-group-editor-action-new-window =
