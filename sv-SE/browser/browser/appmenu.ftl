@@ -171,8 +171,8 @@ profiler-popup-capture-shortcut =
        *[other] Ctrl+Shift+2
     }
 profiler-button-dropmarker =
-    .label = Öppna profileringspanelen
-    .tooltiptext = Öppna profileringspanelen
+    .label = Öppna profileringspanel
+    .tooltiptext = Öppna profileringspanel
 
 ## Profiler presets
 ## They are shown in the popup's select box.
