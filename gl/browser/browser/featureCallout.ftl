@@ -185,4 +185,14 @@ unified-search-callout-subtitle = Escolle o que funciona mellor para a túa busc
 unified-search-callout-primary-label = Seguinte
 unified-search-callout-secondary-label = Rexeitar
 unified-search-engines-callout-title = Busca cun atallo
+unified-search-engines-callout-subtitle = Escribe «@» seguido dunha palabra clave para buscar no teu historial, marcadores, pestanas ou con outro motor de busca.
 unified-search-engines-callout-primary-label = Entendido
+actions-callout-title = Completa tarefas comúns ou accede á configuración básica
+# The user can type "print" and "clear" and a button will appear in the
+# search bar (e.g. Print page) the user can click to initiate the action.
+# These example text inputs correlate to the the following strings
+# (either matching the whole string, or the first word of the string).
+# "print" - quickactions-cmd-print
+# "clear" - quickactions-cmd-clearrecenthistory
+# When localizing, ensure the translations match to ensure the action button appears as expected.
+actions-callout-subtitle = Proba a escribir unha acción como «imprimir» para imprimir unha páxina ou «borrar» para borrar o teu historial.
