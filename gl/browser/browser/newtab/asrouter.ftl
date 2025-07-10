@@ -240,6 +240,7 @@ device-migration-fxa-spotlight-older-device-header = Tranquilidade, de { -brand-
 device-migration-fxa-spotlight-older-device-primary-button = Crear unha conta
 device-migration-fxa-spotlight-getting-new-device-header-2 = Novo dispositivo no seu futuro?
 device-migration-fxa-spotlight-getting-new-device-primary-button = Como facer unha copia de seguranza dos meus datos
+device-migration-fxa-spotlight-sync-primary-button = Comezar
 
 ## Set as Default PDF Reader Infobar
 
@@ -292,4 +293,5 @@ fxa-menu-message-mobile-collapsed-text = Sincroniza co teu teléfono
 ## Multi-CTA Fox Doodle Spotlight
 
 multi-cta-fox-doodle-title = Benvido de novo
+multi-cta-fox-doodle-start-browsing-primary-button-label = Iniciar a navegación
 multi-cta-fox-doodle-quick-reminder-subtitle = Aquí tes un recordatorio rápido de que podes manter o teu navegador favorito centrado na privacidade, a só un clic de distancia.

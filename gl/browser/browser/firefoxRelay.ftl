@@ -40,13 +40,23 @@ firefox-relay-opt-in-confirmation-disable =
 firefox-relay-opt-in-confirmation-postpone =
     .label = Agora non
     .accesskey = n
+firefox-relay-and-fxa-opt-in-confirmation-enable-button-sign-up =
+    .label = Rexistrarse
+    .accesskey = R
+firefox-relay-and-fxa-opt-in-confirmation-postpone =
+    .label = Agora non
+    .accesskey = n
 
 ## The "control" variation of the Relay offer popup
 
+firefox-relay-and-fxa-popup-notification-second-sentence-control = Primeiro, rexístrate ou inicia sesión na túa conta para usar unha máscara de correo electrónico
 
 ## The "basic-info" variation of the Relay offer popup
 
 firefox-relay-and-fxa-popup-notification-header-basic-info = Evitar o spam cunha máscara de correo electrónico gratuíta
+firefox-relay-and-fxa-opt-in-confirmation-enable-button-basic-info =
+    .label = Rexistrarse
+    .accesskey = R
 
 ## The "with-domain" variation of the Relay offer popup
 
@@ -59,3 +69,6 @@ firefox-relay-and-fxa-opt-in-confirmation-enable-button-with-domain =
 ## The "with-domain-and-value-prop" variation of the Relay offer popup
 
 firefox-relay-and-fxa-popup-notification-header-with-domain-and-value-prop = Protección contra o spam cunha máscara de correo electrónico
+firefox-relay-and-fxa-opt-in-confirmation-enable-button-with-domain-and-value-prop =
+    .label = Seguinte
+    .accesskey = S

@@ -17,8 +17,15 @@
 
 genai-menu-ask-generic =
     .label = Preguntar ao chatbot IA
+# $provider (string) - name of the provider
+genai-menu-open-provider =
+    .label = Abrir { $provider }
 genai-shortcuts-hide =
     .label = Ocultar o atallo do chatbot
+genai-menu-no-provider =
+    .label = Preguntar a un chatbot IA
+genai-menu-choose-chatbot =
+    .label = Escoller un chatbot IA
 
 ## Chatbot header
 
@@ -84,9 +91,17 @@ genai-onboarding-copilot-analyze = Analizar imaxes
 genai-onboarding-copilot-price = Opcións gratuítas e de pago; conta necesaria para algunhas tarefas
 genai-onboarding-gemini-generate = Xerar texto, imaxes e código
 genai-onboarding-gemini-analyze = Analiza imaxes (gratis) e documentos (de pago)
+genai-onboarding-huggingchat-generate = Xerar texto e código
+genai-onboarding-lechat-generate = Xerar texto e código
 
 ## Model Optin Component
 
+genai-model-optin-continue =
+    .label = Continuar
+genai-model-optin-optout =
+    .label = Cancelar
+genai-model-optin-cancel =
+    .label = Cancelar
 
 ## Link previews
 

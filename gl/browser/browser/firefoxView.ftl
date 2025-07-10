@@ -39,6 +39,7 @@ firefoxview-tabpickup-adddevice-header = Sincronice { -brand-product-name } no s
 firefoxview-tabpickup-adddevice-description = Descargar { -brand-product-name } para móbil e iniciar sesión alí.
 firefoxview-tabpickup-adddevice-learn-how = Aprender como
 firefoxview-tabpickup-adddevice-primarybutton = Obter { -brand-product-name } para móbiles
+firefoxview-syncedtabs-adddevice-header-2 = Coller pestanas desde calquera lugar
 firefoxview-syncedtabs-adddevice-header = Acceda en { -brand-product-name } nos seus outros dispositivos
 firefoxview-syncedtabs-adddevice-primarybutton = Probe { -brand-product-name } para móbiles
 firefoxview-tabpickup-synctabs-header = Activar a sincronización de lapelas

@@ -146,6 +146,8 @@ menu-view-history-button =
     .label = Historial
 menu-view-synced-tabs-sidebar =
     .label = Lapelas sincronizadas
+menu-view-megalist-sidebar =
+    .label = Contrasinais
 menu-view-full-zoom =
     .label = Zoom
     .accesskey = z
@@ -255,6 +257,12 @@ menu-bookmarks-mobile =
 
 ## Profiles Menu
 
+menu-profiles =
+    .label = Perfís
+menu-profiles-manage-profiles =
+    .label = Xestionar perfís
+menu-profiles-new-profile =
+    .label = Novo perfil
 
 ## Tools Menu
 
@@ -264,6 +272,9 @@ menu-tools =
 menu-tools-downloads =
     .label = Descargas
     .accesskey = D
+menu-tools-extensions-and-themes =
+    .label = Extensións e temas
+    .accesskey = E
 menu-tools-addons-and-themes =
     .label = Complementos e temas
     .accesskey = C

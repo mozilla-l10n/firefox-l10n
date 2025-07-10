@@ -8,11 +8,18 @@
 newtab-page-title = Nova lapela
 newtab-settings-button =
     .title = Personalice a páxina de nova lapela
+newtab-customize-panel-icon-button =
+    .title = Personalizar esta páxina
+newtab-customize-panel-icon-button-label = Personalizar
+newtab-settings-dialog-label =
+    .aria-label = Configuración
 newtab-personalize-icon-label =
     .title = personalizar lapela nova
     .aria-label = personalizar lapela nova
 newtab-personalize-dialog-label =
     .aria-label = Personalizar
+newtab-logo-and-wordmark =
+    .aria-label = { -brand-full-name }
 
 ## Search box component.
 
@@ -109,9 +116,20 @@ newtab-menu-save-to-pocket = Gardar en { -pocket-brand-name }
 newtab-menu-delete-pocket = Eliminar do { -pocket-brand-name }
 newtab-menu-archive-pocket = Arquivar no { -pocket-brand-name }
 newtab-menu-show-privacy-info = Os nosos patrocinadores e a súa privacidade
+newtab-menu-about-fakespot = Acerca de { -fakespot-brand-name }
+# Report is a verb (i.e. report issue with the content).
+newtab-menu-report = Informar
+# Context menu option to personalize New Tab recommended stories by blocking a section of stories,
+# e.g. "Sports". "Block" is a verb here.
+newtab-menu-section-block = Bloquear
+# "Follow", "unfollow", and "following" are social media terms that refer to subscribing to or unsubscribing from a section of stories.
+# e.g. Following the travel section of stories.
+newtab-menu-section-unfollow = Deixa de seguir o tema
 
 ## Context menu options for sponsored stories and new ad formats on New Tab.
 
+newtab-menu-manage-sponsored-content = Xestionar contido patrocinado
+newtab-menu-our-sponsors-and-your-privacy = Os nosos patrocinadores e a túa privacidade
 
 ## Message displayed in a modal window to explain privacy and provide context for sponsored content.
 

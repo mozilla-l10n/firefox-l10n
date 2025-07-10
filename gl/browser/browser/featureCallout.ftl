@@ -86,15 +86,21 @@ bookmarks-toolbar-callout-2a-primary-button-label = Entendido
 bookmarks-toolbar-callout-2a-secondary-button-label = Agochar barra de ferramentas
 # Visible if user declines to add a bookmark in callout 1, bookmarks toolbar is set to always show when this message renders
 bookmarks-toolbar-callout-2b-title = Manter aberta a barra de ferramentas de marcadores?
+bookmarks-toolbar-callout-2b-primary-button-label = Manter aberto
 # Reverts the bookmarks toolbar to the default setting
 bookmarks-toolbar-callout-2b-secondary-button-label = Non, grazas
 
 ## Perplexity callout strings
 
 perplexity-callout-theme-2-title = Proba Perplexity: unha nova forma de buscar
+perplexity-callout-primary-label = Preguntar a Perplexity
+perplexity-callout-secondary-label-1 = Rexeitar
+perplexity-callout-secondary-label-2 = Entendido
 
 ## Account Adoption Passwords callout strings
 
+# Opens Mozilla accounts sign-up page
+fxa-adoption-passwords-primary-button-label = Rexistrarse
 
 ## Sidebar Strings
 
@@ -121,6 +127,8 @@ sidebar-pins-callout-cta-button = Fixar pestana
 ## Sidebar Onboarding Strings
 
 sidebar-customization-callout-1-title = Barra lateral: o teu lugar para as ferramentas e as pestanas
+sidebar-customization-callout-callout-button = Personalizar a barra lateral
+sidebar-customization-callout-dismiss-button = Ocultar a barra lateral
 
 ## Sidebar Callout Survey Strings
 
@@ -140,7 +148,11 @@ sidebar-callout-survey-strongly-agree = Totalmente de acordo
 sidebar-callout-survey-agree = De acordo
 sidebar-callout-survey-disagree = En desacordo
 sidebar-callout-survey-strongly-disagree = Moi en desacordo
+sidebar-callout-survey-saved-websites-2 = Acceso rápido aos teus marcadores
 sidebar-callout-survey-none-of-above = Ningunha das anteriores
 sidebar-callout-survey-submit = Enviar
 sidebar-callout-survey-thank-you = Grazas polos teus comentarios!
+unified-search-callout-title = Cambiar entre os buscadores
+unified-search-callout-primary-label = Seguinte
+unified-search-callout-secondary-label = Rexeitar
 unified-search-engines-callout-primary-label = Entendido
