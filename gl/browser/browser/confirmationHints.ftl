@@ -22,3 +22,12 @@ confirmation-hint-send-to-device = Enviouse!
 confirmation-hint-firefox-relay-mask-created = Nova máscara creada!
 confirmation-hint-firefox-relay-mask-reused = Máscara existente reutilizada!
 confirmation-hint-screenshot-copied = Captura de pantalla copiada!
+# Variables:
+#   $tabCount (Number): The number of duplicate tabs closed, at least 1.
+confirmation-hint-duplicate-tabs-closed =
+    { $tabCount ->
+        [one] Pechouse { $tabCount } pestana
+       *[other] Pecháronse { $tabCount } pestanas
+    }
+# Subtle notification shown when Extensions button moves into the application menu.
+confirmation-hint-extensions-button-hidden = Movido ao menú

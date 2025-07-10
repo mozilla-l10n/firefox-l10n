@@ -31,3 +31,20 @@ pending-crash-reports-send =
     .label = Enviar
 pending-crash-reports-always-send =
     .label = Enviar sempre
+# Variables:
+#   $reportCount (Number): the number of pending crash reports
+requested-crash-reports-message-new =
+    { $reportCount ->
+        [one] Tes un informe de fallo sen enviar relacionado cos fallos que se están investigando; envialo axudaranos a mellorar { -brand-product-name }. Ao pechar esta notificación, ignorarase este informe.
+       *[other] Tes { $reportCount } informes de fallos sen enviar relacionados cos fallos que se están investigando; envialos axudaranos a mellorar { -brand-product-name }. Ao pechar esta notificación, ignoraranse estes informes.
+    }
+# Variables:
+#   $reportCount (Number): the number of pending crash reports
+requested-crash-reports-message =
+    { $reportCount ->
+        [one] Tes un informe de fallos sen enviar que coincide cos fallos que se están investigando; envialo axudaranos a mellorar { -brand-product-name }. Ao pechar esta notificación, ignorarase este informe.
+       *[other] Tes { $reportCount } informes de fallos sen enviar que coinciden cos fallos que se están investigando; envialos axudaranos a mellorar { -brand-product-name }. Ao pechar esta notificación, ignoraranse estes informes.
+    }
+requested-crash-reports-dont-show-again =
+    .label = Non mostrar de novo
+    .accesskey = N

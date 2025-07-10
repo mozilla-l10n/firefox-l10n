@@ -67,6 +67,9 @@ contextual-manager-passwords-import-success-heading =
 contextual-manager-passwords-import-success-message = Novos: { $added }, Actualizados: { $modified }
 contextual-manager-passwords-import-detailed-report = Ver informe detallado
 contextual-manager-passwords-import-success-button = Feito
+contextual-manager-passwords-import-error-heading-and-message =
+    .heading = Non se puideron importar os contrasinais
+    .message = Asegúrate de que o teu archivo inclúe unha columna para sitios web, nomes de usuario e contrasinais.
 contextual-manager-passwords-import-error-button-try-again = Tentar de novo
 contextual-manager-passwords-import-error-button-cancel = Cancelar
 contextual-manager-passwords-import-learn-more = Aprende sobre a importación de contrasinais
@@ -114,6 +117,14 @@ contextual-manager-passwords-remove-all-confirm-button =
         [1] Retirar
         [one] Retirar
        *[other] Retirar todo
+    }
+# Message to confirm the removal of all saved passwords when user DOES NOT HAVE SYNC
+#   $total (number) - Total number of passwords
+contextual-manager-passwords-remove-all-message =
+    { $total ->
+        [1] Isto eliminará o contrasinal gardado en { -brand-short-name } e calquera alerta de violación. Non podes desfacer esta acción.
+        [one] Isto eliminará o contrasinal gardado en { -brand-short-name } e calquera alerta de violación. Non podes desfacer esta acción.
+       *[other] Isto eliminará os contrasinais gardados en { -brand-short-name } e calquera alerta de violación. Non podes desfacer esta acción.
     }
 contextual-manager-passwords-origin-label = Sitio web
 # The attribute .data-after describes the text that should be displayed for the ::after pseudo-selector
