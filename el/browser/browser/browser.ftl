@@ -363,6 +363,7 @@ quickactions-downloads2 = Προβολή λήψεων
 quickactions-cmd-downloads = λήψεις, αρχεία λήψης
 # Opens about:addons page in the extensions section
 quickactions-extensions = Διαχείριση επεκτάσεων
+quickactions-cmd-extensions2 = επεκτάσεις, πρόσθετα
 quickactions-cmd-extensions = επεκτάσεις
 # Opens Firefox View
 quickactions-firefoxview = Άνοιγμα { -firefoxview-brand-name(case: "gen") }
