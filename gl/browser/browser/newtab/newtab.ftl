@@ -354,6 +354,8 @@ newtab-wallpaper-category-title-abstract = Abstracto
 newtab-wallpaper-abstract-green = Formas verdes
 newtab-wallpaper-abstract-blue = Formas azuis
 newtab-wallpaper-abstract-purple = Formas violetas
+newtab-wallpaper-abstract-orange = Formas laranxas
+newtab-wallpaper-gradient-orange = Degradado laranxa e rosa
 
 ## Celestial
 
@@ -369,6 +371,7 @@ newtab-wallpaper-celestial-lunar-eclipse = Eclipse lunar
 newtab-wallpaper-celestial-earth-night = Foto nocturna desde a órbita terrestre baixa
 newtab-wallpaper-celestial-starry-sky = Ceo estrelado
 newtab-wallpaper-celestial-eclipse-time-lapse = Timelapse dunha eclipse lunar
+newtab-wallpaper-celestial-black-hole = Ilustración dunh galaxia cun buraco negro
 newtab-wallpaper-celestial-river = Imaxe de satélite dun río
 
 ## New Tab Weather
@@ -468,6 +471,7 @@ newtab-section-confirm-block-topic-p1 = Estás seguro de que queres bloquear est
 
 newtab-section-mangage-topics-title = Temas
 newtab-section-mangage-topics-followed-topics-empty-state = Aínda non segues ningún tema.
+newtab-section-mangage-topics-blocked-topics = Bloqueado
 newtab-section-mangage-topics-blocked-topics-empty-state = Aínda non bloqueaches ningún tema.
 
 ## Strings for download mobile highlight
