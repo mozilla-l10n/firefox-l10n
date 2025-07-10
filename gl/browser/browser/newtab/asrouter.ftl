@@ -283,6 +283,7 @@ root-certificate-succession-infobar-secondary-button =
 
 ## Root Certificate Succession Windows Background Notification
 
+root-certificate-windows-background-notification-title = Perdeches unha actualización importante de { -brand-short-name }
 root-certificate-windows-background-notification-learn-more-button = Máis información
 root-certificate-windows-background-notification-update-button = Actualizar { -brand-short-name }
 
@@ -293,6 +294,12 @@ fxa-menu-message-close-button =
     .aria-label = Pechar
 fxa-menu-message-sign-up-button = Rexistrarse
 fxa-menu-message-sync-devices-primary-text = Sincroniza todos os teus dispositivos
+fxa-menu-message-sync-devices-collapsed-text = Sincroniza todos os teus dispositivos
+fxa-menu-message-backup-data-primary-text = Respalda os datos do teu navegador
+fxa-menu-message-backup-data-secondary-text = Protexe automaticamente os marcadores, os contrasinais e outra información en todos os teus dispositivos.
+fxa-menu-message-backup-data-collapsed-text = Respaldar os datos do navegador
+fxa-menu-message-backup-sync-primary-text = Mantén os teus datos seguros e sincronizados
+fxa-menu-message-backup-sync-collapsed-text = Sincronizar y respaldar datos
 fxa-menu-message-mobile-primary-text = Envía pestanas ao teu teléfono
 fxa-menu-message-mobile-secondary-text = Retoma onde o deixaches ao instante cando sincronizas as túas pestanas cun dispositivo móbil.
 fxa-menu-message-mobile-collapsed-text = Sincroniza co teu teléfono
@@ -300,5 +307,8 @@ fxa-menu-message-mobile-collapsed-text = Sincroniza co teu teléfono
 ## Multi-CTA Fox Doodle Spotlight
 
 multi-cta-fox-doodle-title = Benvido de novo
+multi-cta-fox-doodle-set-default-checkbox = Establecer { -brand-short-name } como predeterminado
+multi-cta-fox-doodle-pin-startmenu-checkbox = Fixar { -brand-short-name } ao menú de inicio
 multi-cta-fox-doodle-start-browsing-primary-button-label = Iniciar a navegación
+multi-cta-fox-doodle-main-browser-primary-button-label = Facer { -brand-short-name } o meu navegador principal
 multi-cta-fox-doodle-quick-reminder-subtitle = Aquí tes un recordatorio rápido de que podes manter o teu navegador favorito centrado na privacidade, a só un clic de distancia.

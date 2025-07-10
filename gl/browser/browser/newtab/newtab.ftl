@@ -356,10 +356,30 @@ newtab-wallpaper-abstract-blue = Formas azuis
 newtab-wallpaper-abstract-purple = Formas violetas
 newtab-wallpaper-abstract-orange = Formas laranxas
 newtab-wallpaper-gradient-orange = Degradado laranxa e rosa
+newtab-wallpaper-abstract-white-curves = Branco con curvas sombreadas
+newtab-wallpaper-abstract-purple-green = Degradado de luz violeta e verde
+newtab-wallpaper-abstract-blue-purple-waves = Formas onduladas azuis e moradas
+newtab-wallpaper-abstract-black-waves = Formas onduladas negras
 
 ## Celestial
 
+newtab-wallpaper-category-title-photographs = Fotografías
+newtab-wallpaper-beach-at-sunrise = Praia ao amencer
+newtab-wallpaper-beach-at-sunset = Praia ao solpor
+newtab-wallpaper-storm-sky = Ceo de tormenta
+newtab-wallpaper-sky-with-pink-clouds = Ceo con nubes rosas
+newtab-wallpaper-red-panda-yawns-in-a-tree = Un panda vermello bocexa nunha árbore
+newtab-wallpaper-white-mountains = Montañas brancas
+# Variables
+#   $author_string (String) - The name of the creator of the photo.
+#   $webpage_string (String) - The name of the webpage where the photo is located.
+newtab-wallpaper-attribution = Foto de <a data-l10n-name="name-link">{ $author_string }</a> en <a data-l10n-name="webpage-link">{ $webpage_string }</a>
+newtab-wallpaper-feature-highlight-header = Probar un toque de cor
+newtab-wallpaper-feature-highlight-content = Dálle un aspecto novo á túa nova pestana con fondos de pantalla.
 newtab-wallpaper-feature-highlight-button = Entendido
+feature-highlight-wallpaper =
+    .title = { -newtab-wallpaper-feature-highlight-header }
+    .aria-label = { -newtab-wallpaper-feature-highlight-content }
 
 ## Celestial
 

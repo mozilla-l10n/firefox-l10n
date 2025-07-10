@@ -263,6 +263,10 @@ menu-profiles-manage-profiles =
     .label = Xestionar perfís
 menu-profiles-new-profile =
     .label = Novo perfil
+# Variables:
+#  $profileName (String): the name of the users profile
+menu-profiles-current =
+    .label = { $profileName } (actual)
 
 ## Tools Menu
 
