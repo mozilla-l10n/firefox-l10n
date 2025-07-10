@@ -45,6 +45,7 @@ firefoxview-tabpickup-adddevice-primarybutton = Obter { -brand-product-name } pa
 firefoxview-syncedtabs-adddevice-header-2 = Coller pestanas desde calquera lugar
 firefoxview-syncedtabs-adddevice-description-2 = Accede con { -brand-product-name } no teu teléfono ou noutro ordenador para ver as pestanas aquí. Obtén información sobre como <a data-l10n-name="url">conectar dispositivos adicionais</a>.
 firefoxview-syncedtabs-adddevice-header = Acceda en { -brand-product-name } nos seus outros dispositivos
+firefoxview-syncedtabs-adddevice-description = Para ver as túas pestanas desde onde uses { -brand-product-name }, inicia sesión en todos os teus dispositivos. Obtén información sobre como <a data-l10n-name="url">conectar dispositivos adicionais</a>.
 firefoxview-syncedtabs-adddevice-primarybutton = Probe { -brand-product-name } para móbiles
 firefoxview-tabpickup-synctabs-header = Activar a sincronización de lapelas
 firefoxview-tabpickup-synctabs-description = Permitir que { -brand-short-name } comparta lapelas entre dispositivos.
@@ -54,6 +55,7 @@ firefoxview-syncedtabs-synctabs-header = Actualizar a súa configuración de sin
 firefoxview-syncedtabs-synctabs-description = Para ver as lapelas doutros dispositivos, cómpre sincronizar as lapelas abertas.
 firefoxview-syncedtabs-synctabs-checkbox = Permitir que se sincronicen as pestanas abertas
 firefoxview-syncedtabs-loading-header = Sincronización en curso
+firefoxview-syncedtabs-loading-description = Cando remate, verás todas as pestanas que teñas abertas noutros dispositivos. Volve a consultar pronto.
 firefoxview-tabpickup-fxa-admin-disabled-header = A súa organización desactivou a sincronización
 firefoxview-tabpickup-fxa-admin-disabled-description = { -brand-short-name } non pode sincronizar lapelas entre dispositivos porque a persoa administradora do seu sistema desactivou a sincronización.
 firefoxview-tabpickup-network-offline-header = Comprobe a súa conexión a internet
