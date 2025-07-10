@@ -32,6 +32,7 @@ firefoxview-tabpickup-progress-label = { $percentValue }% completado
 firefoxview-tabpickup-step-signin-header = Cambiar sen problemas entre dispositivos
 firefoxview-tabpickup-step-signin-description = Para ver as lapelas do seu teléfono aquí, primeiro inicie sesión ou cree unha conta.
 firefoxview-tabpickup-step-signin-primarybutton = Continuar
+firefoxview-syncedtabs-signin-header-2 = O teu { -brand-product-name } en todos os teus dispositivos
 firefoxview-syncedtabs-signin-primarybutton-2 = Identificarse
 firefoxview-syncedtabs-signin-header = Colla pestanas desde calquera lugar
 firefoxview-syncedtabs-signin-primarybutton = Acceder ou rexistrarse

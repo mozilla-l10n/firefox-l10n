@@ -240,6 +240,7 @@ device-migration-fxa-spotlight-older-device-header = Tranquilidade, de { -brand-
 device-migration-fxa-spotlight-older-device-primary-button = Crear unha conta
 device-migration-fxa-spotlight-getting-new-device-header-2 = Novo dispositivo no seu futuro?
 device-migration-fxa-spotlight-getting-new-device-primary-button = Como facer unha copia de seguranza dos meus datos
+device-migration-fxa-spotlight-sync-header = Navegar sen perder o ritmo
 device-migration-fxa-spotlight-sync-primary-button = Comezar
 
 ## Set as Default PDF Reader Infobar
@@ -273,6 +274,12 @@ tail-fox-spotlight-secondary-button = Agora non
 ## Root Certificate Succession Infobar
 
 root-certificate-succession-infobar-link = Por que teño que actualizar?
+root-certificate-succession-infobar-primary-button =
+    .label = Actualizar agora
+    .accesskey = A
+root-certificate-succession-infobar-secondary-button =
+    .label = Máis tarde
+    .accesskey = M
 
 ## Root Certificate Succession Windows Background Notification
 

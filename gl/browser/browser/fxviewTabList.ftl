@@ -59,6 +59,10 @@ fxviewtabrow-pin-tab = Fixar lapela
     .accesskey = F
 fxviewtabrow-unpin-tab = Eliminar lapela fixa
     .accesskey = f
+fxviewtabrow-mute-tab = Enmudecer pestana
+    .accesskey = E
+fxviewtabrow-unmute-tab = Desenmudecer pestana
+    .accesskey = D
 # Variables:
 #   $tabTitle (string) - Title of the tab to which the context menu is associated
 fxviewtabrow-options-menu-button =
@@ -66,5 +70,7 @@ fxviewtabrow-options-menu-button =
 
 ## Strings below are to be used without context (tab title/URL) on mute/unmute buttons
 
+fxviewtabrow-mute-tab-button-no-context =
+    .title = Enmudecer pestana
 fxviewtabrow-unmute-tab-button-no-context =
     .title = Desenmudecer pestana

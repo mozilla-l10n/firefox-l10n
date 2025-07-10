@@ -204,9 +204,19 @@ contextual-manager-alert-icon =
 contextual-manager-origin-login-line =
     .aria-label = Visita { $url }
     .title = Visita { $url }
+# "(Warning)" indicates that a login's origin field has an alert icon.
+# Variables
+#   $url (string) - The url associated with the login
+contextual-manager-origin-login-line-with-alert =
+    .aria-label = Visitar { $url } (Advertencia)
+    .title = Visitar { $url } (Advertencia)
 contextual-manager-password-login-line =
     .aria-label = Copiar o contrasinal
     .title = Copiar o contrasinal
+# "(Warning)" indicates that a login's password field has an alert icon.
+contextual-manager-password-login-line-with-alert =
+    .aria-label = Copiar contrasinal (aviso)
+    .title = Copiar contrasinal (aviso)
 contextual-manager-edit-login-button = Editar
     .tooltiptext = Editar contrasinal
 contextual-manager-view-alert-heading =

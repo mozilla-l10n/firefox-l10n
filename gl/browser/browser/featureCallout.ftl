@@ -123,6 +123,12 @@ sidebar-pins-callout-cta-button = Fixar pestana
 
 ## Pinning Tabs Strings
 
+pin-tabs-callout-1-title = Mantén as pestanas importantes ao teu alcance
+pin-tabs-callout-cta-1-button = Fixar esta pestana
+pin-tabs-callout-2-title = Fixar as pestanas que máis visitas
+pin-tabs-callout-cta-2-button = Fixar esta pestana
+pin-tabs-callout-3-title = Mantén os sitios importantes ao teu alcance
+pin-tabs-callout-4-title = Fixar os sitios que máis visitas
 
 ## Sidebar Onboarding Strings
 

@@ -5,6 +5,8 @@
 
 ## Generative AI (GenAI) Settings section
 
+genai-settings-chat-chatgpt-links = Ao escoller ChatGPT, aceptas as <a data-l10n-name="link1">condicións de uso</a> e a <a data-l10n-name="link2">política de privacidade</a> de OpenAI.
+genai-settings-chat-claude-links = Ao escoller Anthropic Claude, aceptas as <a data-l10n-name="link1">condicións de servizo para o consumidor</a>, a <a data-l10n-name="link2">política de uso</a>, e a <a data-l10n-name="link3">política de privacidade</a>.
 
 ## Chatbot prompts
 ## Prompts are plain language ‘instructions’ sent to a chatbot.
@@ -18,8 +20,19 @@
 genai-menu-ask-generic =
     .label = Preguntar ao chatbot IA
 # $provider (string) - name of the provider
+genai-menu-ask-provider =
+    .label = Preguntar a { $provider }
+# $provider (string) - name of the provider
 genai-menu-open-provider =
     .label = Abrir { $provider }
+# $provider (string) - name of the provider
+genai-menu-remove-provider =
+    .label = Eliminar { $provider }
+genai-menu-new-badge = Novo
+genai-menu-summarize-page = Resumir páxina
+# $provider (string) - name of the provider
+genai-input-ask-provider =
+    .placeholder = Preguntar a { $provider }...
 genai-shortcuts-hide =
     .label = Ocultar o atallo do chatbot
 genai-menu-no-provider =
@@ -48,6 +61,7 @@ genai-options-hide-shortcut =
 
 ## Chatbot footer
 
+genai-page-button-summarize = Resumir páxina
 
 ## Chatbot onboarding
 
@@ -76,6 +90,8 @@ genai-onboarding-select-primary = Comeza a conversar
 genai-chatbot-contextual-title = Usa un chatbot de intelixencia artificial sen cambiar de pestana
 genai-chatbot-contextual-subtitle = Conversa e navega en paralelo cando engades un chatbot de intelixencia artificial na barra lateral { -brand-short-name }.
 genai-chatbot-contextual-button = Escoller un chatbot
+genai-chatbot-summarize-title = Novo! Resumir páxinas cun só clic
+genai-chatbot-summarize-button = Resumir páxina
 
 ## Chatbot onboarding choices
 ## These describe features/capabilities of chatbot providers. These are not buttons/actions.
@@ -91,8 +107,10 @@ genai-onboarding-copilot-analyze = Analizar imaxes
 genai-onboarding-copilot-price = Opcións gratuítas e de pago; conta necesaria para algunhas tarefas
 genai-onboarding-gemini-generate = Xerar texto, imaxes e código
 genai-onboarding-gemini-analyze = Analiza imaxes (gratis) e documentos (de pago)
+genai-onboarding-gemini-price = Opcións gratuítas e de pago; conta necesaria
 genai-onboarding-huggingchat-generate = Xerar texto e código
 genai-onboarding-lechat-generate = Xerar texto e código
+genai-onboarding-lechat-price = Gratis; require unha conta
 
 ## Model Optin Component
 
