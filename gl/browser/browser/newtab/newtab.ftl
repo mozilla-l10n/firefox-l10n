@@ -130,6 +130,7 @@ newtab-menu-section-unfollow = Deixa de seguir o tema
 
 newtab-menu-manage-sponsored-content = Xestionar contido patrocinado
 newtab-menu-our-sponsors-and-your-privacy = Os nosos patrocinadores e a túa privacidade
+newtab-menu-report-this-ad = Denunciar este anuncio
 
 ## Message displayed in a modal window to explain privacy and provide context for sponsored content.
 
@@ -191,6 +192,8 @@ newtab-label-sponsored-by = Patrocinado por { $sponsor }
 #   $source (string) - The name of a company or their domain
 #   $timeToRead (number) - The estimated number of minutes to read this story
 newtab-label-source-read-time = { $source } · { $timeToRead } min
+# This string is used under fixed size ads to indicate sponsored content
+newtab-label-sponsored-fixed = Patrocinado
 
 ## Section Menu: These strings are displayed in the section context menu and are
 ## meant as a call to action for the given section.
@@ -221,6 +224,8 @@ newtab-section-header-recent-activity = Actividade recente
 #   $provider (string) - Name of the corresponding content provider.
 newtab-section-header-pocket = Recomendado por { $provider }
 newtab-section-header-stories = Historias para reflexionar
+# "picks" refers to recommended articles
+newtab-section-header-todays-picks = As seleccións de hoxe para ti
 
 ## Empty Section States: These show when there are no more items in a section. Ex. When there are no more Pocket story recommendations, in the space where there would have been stories, this is shown instead.
 
@@ -254,6 +259,15 @@ newtab-pocket-saved = Gardado
 
 ## Thumbs up and down buttons that shows over a newtab stories card thumbnail on hover.
 
+# Clicking the thumbs up button for this story will result in more stories like this one being recommended
+newtab-pocket-thumbs-up-tooltip =
+    .title = Máis así
+# Clicking the thumbs down button for this story informs us that the user does not feel like the story is interesting for them
+newtab-pocket-thumbs-down-tooltip =
+    .title = Non para min
+newtab-toast-dismiss-button =
+    .title = Rexeitar
+    .aria-label = Rexeitar
 
 ## Pocket content onboarding experience dialog and modal for new users seeing the Pocket section for the first time, shown as the first item in the Pocket section.
 
@@ -310,23 +324,36 @@ newtab-wallpaper-light-mountain = Montaña branca
 newtab-wallpaper-light-sky = Ceo con nubes rosas e vermellas
 newtab-wallpaper-light-color = Formas azuis, rosas e amarelas
 newtab-wallpaper-light-landscape = Paisaxe de montaña de néboa azul
+newtab-wallpaper-light-beach = Praia con palmeira
+newtab-wallpaper-dark-aurora = Aurora boreal
+newtab-wallpaper-dark-color = Formas vermellas e azuis
+newtab-wallpaper-dark-panda = Panda vermello escondido no bosque
+newtab-wallpaper-dark-mountain = Paisaxe de montaña
 
 ## Solid Colors
 
 newtab-wallpaper-category-title-colors = Cores sólidas
 newtab-wallpaper-blue = Azul
 newtab-wallpaper-light-blue = Azul claro
+newtab-wallpaper-light-green = Verde claro
 newtab-wallpaper-green = Verde
+newtab-wallpaper-beige = Beixe
 newtab-wallpaper-yellow = Amarelo
 newtab-wallpaper-orange = Laranxa
 newtab-wallpaper-pink = Rosa
 newtab-wallpaper-light-pink = Rosa claro
 newtab-wallpaper-red = Vermello
 newtab-wallpaper-dark-blue = Azul escuro
+newtab-wallpaper-dark-purple = Violeta escuro
 newtab-wallpaper-dark-green = Verde escuro
+newtab-wallpaper-brown = Marrón
 
 ## Abstract
 
+newtab-wallpaper-category-title-abstract = Abstracto
+newtab-wallpaper-abstract-green = Formas verdes
+newtab-wallpaper-abstract-blue = Formas azuis
+newtab-wallpaper-abstract-purple = Formas violetas
 
 ## Celestial
 
