@@ -6,12 +6,12 @@ aboutDialog-title =
     .title = Om { -brand-full-name }
 releaseNotes-link = Hva er nytt
 update-checkForUpdatesButton =
-    .label = Søk etter oppdateringer
+    .label = Se etter oppdateringer
     .accesskey = S
 update-updateButton =
     .label = Start på nytt for å oppdatere { -brand-shorter-name }
     .accesskey = S
-update-checkingForUpdates = Søker etter oppdateringer …
+update-checkingForUpdates = Ser etter oppdateringer …
 
 ## Variables:
 ##   $transfer (string) - Transfer progress.
@@ -27,7 +27,7 @@ update-failed-main = Oppdatering mislykket. <a data-l10n-name="failed-link-main"
 update-adminDisabled = Oppdateringer er avslått av systemansvarlig
 update-policy-disabled = Oppdateringer er deaktivert av organisasjonen din
 update-noUpdatesFound = { -brand-short-name } er oppdatert
-aboutdialog-update-checking-failed = Kunne ikke søke etter oppdateringer
+aboutdialog-update-checking-failed = Kunne ikke se etter oppdateringer.
 update-otherInstanceHandlingUpdates = { -brand-short-name } blir oppdatert av en annen instans
 
 ## Variables:
