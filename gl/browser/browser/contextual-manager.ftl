@@ -116,6 +116,12 @@ contextual-manager-passwords-remove-all-confirm-button =
        *[other] Retirar todo
     }
 contextual-manager-passwords-origin-label = Sitio web
+# The attribute .data-after describes the text that should be displayed for the ::after pseudo-selector
+contextual-manager-passwords-username-label = Nome de usuario
+    .data-after = Copiado
+# The attribute .data-after describes the text that should be displayed for the ::after pseudo-selector
+contextual-manager-passwords-password-label = Contrasinal
+    .data-after = Copiado
 contextual-manager-passwords-radiogroup-label =
     .aria-label = Filtrar contrasinais
 # Variables
@@ -123,22 +129,52 @@ contextual-manager-passwords-radiogroup-label =
 contextual-manager-passwords-add-password-success-heading =
     .heading = Contrasinal engadido para { $url }
 contextual-manager-passwords-add-password-success-button = Ver
+# Variables
+#   $url (string) - The url associated with the existing login
+contextual-manager-passwords-password-already-exists-error-heading =
+    .heading = Xa existe un contrasinal e un nome de usuario para { $url }
+contextual-manager-passwords-password-already-exists-error-button = Ir ao contrasinal
+contextual-manager-passwords-update-password-success-heading =
+    .heading = Contrasinal gardado
 contextual-manager-passwords-update-password-success-button = Feito
+contextual-manager-passwords-update-username-success-heading =
+    .heading = Nome de usuario gardado
+# Message to confirm successful removal of a password/passwords.
+#   $total (number) - Total number of passwords
+contextual-manager-passwords-delete-password-success-heading =
+    .heading =
+        { $total ->
+            [1] Contrasinal eliminado
+            [one] Contrasinal eliminado
+           *[other] Contrasinais eliminados
+        }
 contextual-manager-passwords-delete-password-success-button = Feito
+#
+# Radiobutton label to display total number of passwords
+#   $total (number) - Total number of passwords
+contextual-manager-passwords-radiobutton-all = Todos ({ $total })
+# Radiobutton label to display total number of alerts
+#   $total (number) - Total number of alerts
+contextual-manager-passwords-radiobutton-alerts = Alertas ({ $total })
 # This message is displayed to make sure that a user wants to delete an existing login.
 contextual-manager-passwords-remove-login-card-title = Eliminar o contrasinal?
+# This message warns the user that deleting a login is permanent.
+contextual-manager-passwords-remove-login-card-message = Non podes desfacer isto.
 # This message gives the user an option to go back to the edit login form.
 contextual-manager-passwords-remove-login-card-back-message = Atrás
 # This message confirms that the user wants to remove an existing login.
 contextual-manager-passwords-remove-login-card-remove-button = Eliminar
 # This message gives the user the option to cancel their attempt to remove a login.
 contextual-manager-passwords-remove-login-card-cancel-button = Cancelar
+contextual-manager-passwords-alert-card =
+    .aria-label = Alertas de contrasinais
 contextual-manager-passwords-alert-back-button =
     .label = Atrás
 contextual-manager-passwords-alert-list =
     .aria-label = Lista de alertas
 contextual-manager-passwords-change-password-button = Cambiar contrasinal
 contextual-manager-passwords-add-username-button = Engadir nome de usuario
+contextual-manager-passwords-title = Contrasinais
 
 ## Login Form
 

@@ -128,6 +128,9 @@ urlbar-result-menu-remove-from-history =
 urlbar-result-menu-tip-get-help =
     .label = Obter axuda
     .accesskey = x
+urlbar-result-menu-dismiss-suggestion =
+    .label = Ignorar esta suxestión
+    .accesskey = I
 # Some urlbar suggestions show the user's approximate location as automatically
 # detected by Firefox (e.g., weather suggestions), and this menu item lets the
 # user tell Firefox that the location is not accurate. Typically the location
@@ -534,6 +537,10 @@ urlbar-search-mode-indicator-close =
 # engine is unknown.
 urlbar-placeholder =
     .placeholder = Buscar ou escribir o enderezo
+# This placeholder is used when not in search mode and searching in the urlbar
+# is disabled via the keyword.enabled pref.
+urlbar-placeholder-keyword-disabled =
+    .placeholder = Introducir o enderezo
 # This placeholder is used in search mode with search engines that search the
 # entire web.
 # Variables
@@ -613,6 +620,8 @@ urlbar-result-action-visit = Visitar
 # Variables
 # $container (String): the name of the target container
 urlbar-result-action-switch-tab-with-container = Cambiar á lapela · <span>{ $container }</span>
+# Used when the target tab is in a tab group that doesn't have a label.
+urlbar-result-action-tab-group-unnamed = Grupo sen nome
 # Allows the user to visit a URL that was previously copied to the clipboard.
 urlbar-result-action-visit-from-clipboard = Visitar desde o portapapeis
 # Directs a user to press the Tab key to perform a search with the specified
@@ -677,6 +686,8 @@ urlbar-searchmode-actions =
     .label = Accións
 urlbar-searchmode-exit-button =
     .tooltiptext = Pechar
+urlbar-searchmode-default =
+    .tooltiptext = Motor de busca predeterminado
 # Label shown on the top of Searchmode Switcher popup. After this label, the
 # available search engines will be listed.
 urlbar-searchmode-popup-description = Esta vez busca con:
@@ -732,6 +743,9 @@ urlbar-group-recent-searches =
 #  $engine (String): the name of the search engine providing the trending suggestions
 urlbar-group-trending =
     .label = Tendencia en { $engine }
+# Label shown above sponsored suggestions in the urlbar results.
+urlbar-group-sponsored =
+    .label = Patrocinado
 # The result menu labels shown next to trending results.
 urlbar-result-menu-trending-dont-show =
     .label = Non mostrar tendencias de busca
@@ -928,6 +942,9 @@ panel-save-update-password = Contrasinal
 # "More" item in macOS share menu
 menu-share-more =
     .label = Máis...
+menu-share-copy-link =
+    .label = Copiar ligazón
+    .accesskey = l
 ui-tour-info-panel-close =
     .tooltiptext = Pechar
 
@@ -975,6 +992,8 @@ navbar-accessible =
     .aria-label = Navegación
 navbar-downloads =
     .label = Descargas
+navbar-overflow-2 =
+    .tooltiptext = Máis ferramentas
 navbar-overflow =
     .tooltiptext = Máis ferramentas…
 # Variables:
@@ -1148,3 +1167,7 @@ file-picker-crashed-show-in-folder =
 
 ## Onboarding Finish Setup checklist
 
+onboarding-checklist-button-label = Finalizar a configuración
+onboarding-aw-finish-setup-button =
+    .label = Finalizar a configuración
+    .tooltiptext = Finalizar a configuración de { -brand-short-name }

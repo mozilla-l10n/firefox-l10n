@@ -27,6 +27,10 @@ appmenuitem-downloads =
     .label = Descargas
 appmenuitem-passwords =
     .label = Contrasinais
+appmenuitem-extensions-and-themes =
+    .label = Extensións e temas
+appmenuitem-extensions =
+    .label = Extensións
 appmenuitem-addons-and-themes =
     .label = Complementos e temas
 appmenuitem-print =
@@ -166,6 +170,9 @@ profiler-popup-capture-shortcut =
         [macos] ⌃⇧2
        *[other] Ctrl+Maiús+2
     }
+profiler-button-dropmarker =
+    .label = Abrir o panel do perfilador
+    .tooltiptext = Abrir o panel do perfilador
 
 ## Profiler presets
 ## They are shown in the popup's select box.
@@ -192,6 +199,8 @@ profiler-popup-presets-graphics-label =
 profiler-popup-presets-media-description2 = Predefinido para investigar erros de son e de vídeo en { -brand-shorter-name }.
 profiler-popup-presets-media-label =
     .label = Recursos
+profiler-popup-presets-ml-label =
+    .label = Aprendizaxe automática
 profiler-popup-presets-networking-description = Predefinido para investigar erros de rede en { -brand-shorter-name }.
 profiler-popup-presets-networking-label =
     .label = Rede

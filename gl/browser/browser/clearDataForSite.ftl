@@ -2,5 +2,6 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+clear-data-for-site-title = Borrar todos os datos deste sitio web?
 clear-data-for-site-dialog-accept-button = Borrar datos
 clear-data-for-site-dialog-cancel-button = Cancelar
