@@ -65,6 +65,7 @@ firefox-relay-and-fxa-opt-in-confirmation-enable-button-basic-info =
 
 firefox-relay-and-fxa-popup-notification-header-with-domain = Obtén unha máscara de correo electrónico gratuíta
 firefox-relay-and-fxa-popup-notification-first-sentence-with-domain = Protexe a túa caixa de entrada do spam usando unha <label data-l10n-name="firefox-relay-learn-more-url">máscara de correo electrónico</label> gratuíta para ocultar o teu enderezo real. Os correos electrónicos <label data-l10n-name="firefox-fxa-and-relay-offer-domain">deste sitio</label> seguirán chegando á túa caixa de entrada, pero co teu correo electrónico oculto.
+firefox-relay-and-fxa-popup-notification-first-sentence = Protexe a túa caixa de entrada do spam usando unha máscara de correo electrónico gratuíta <label data-l10n-name="firefox-relay-learn-more-url">{ -relay-brand-name }</label> para ocultar o teu enderezo real. Os correos electrónicos <label data-l10n-name="firefox-fxa-and-relay-offer-domain">deste sitio</label> seguirán chegando á túa caixa de entrada, pero co teu correo electrónico oculto.
 firefox-relay-and-fxa-popup-notification-second-sentence-with-domain = Primeiro, rexístrate ou inicia sesión na túa conta para usar unha máscara de correo electrónico
 firefox-relay-and-fxa-opt-in-confirmation-enable-button-with-domain =
     .label = Rexistrarse
@@ -73,6 +74,8 @@ firefox-relay-and-fxa-opt-in-confirmation-enable-button-with-domain =
 ## The "with-domain-and-value-prop" variation of the Relay offer popup
 
 firefox-relay-and-fxa-popup-notification-header-with-domain-and-value-prop = Protección contra o spam cunha máscara de correo electrónico
+firefox-relay-and-fxa-popup-notification-first-sentence-with-domain-and-value-prop = Protexe contra o spam ocultando o teu enderezo real cunha <label data-l10n-name="firefox-relay-learn-more-url">máscara de correo electrónico</label>. Aínda recibirás correos <label data-l10n-name="firefox-fxa-and-relay-offer-domain">deste sitio</label> na túa caixa de entrada habitual, co teu enderezo enmascarado.
+firefox-relay-and-fxa-popup-notification-second-sentence-with-domain-and-value-prop = Primeiro, rexístrate ou accede á túa conta para usar unha máscara de correo electrónico.
 firefox-relay-and-fxa-opt-in-confirmation-enable-button-with-domain-and-value-prop =
     .label = Seguinte
     .accesskey = S

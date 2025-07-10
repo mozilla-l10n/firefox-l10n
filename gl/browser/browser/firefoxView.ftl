@@ -33,14 +33,17 @@ firefoxview-tabpickup-step-signin-header = Cambiar sen problemas entre dispositi
 firefoxview-tabpickup-step-signin-description = Para ver as lapelas do seu teléfono aquí, primeiro inicie sesión ou cree unha conta.
 firefoxview-tabpickup-step-signin-primarybutton = Continuar
 firefoxview-syncedtabs-signin-header-2 = O teu { -brand-product-name } en todos os teus dispositivos
+firefoxview-syncedtabs-signin-description-2 = Para ver as pestanas que tes abertas no teu teléfono e noutros dispositivos, accede ou crea unha conta. Cunha conta, tamén podes sincronizar os teus contrasinais, o historial e moito máis.
 firefoxview-syncedtabs-signin-primarybutton-2 = Identificarse
 firefoxview-syncedtabs-signin-header = Colla pestanas desde calquera lugar
+firefoxview-syncedtabs-signin-description = Para ver as túas pestanas desde onde uses { -brand-product-name }, accede á túa conta. Se non tes unha conta, guiarémoste a través dos pasos de rexistro.
 firefoxview-syncedtabs-signin-primarybutton = Acceder ou rexistrarse
 firefoxview-tabpickup-adddevice-header = Sincronice { -brand-product-name } no seu teléfono ou tableta
 firefoxview-tabpickup-adddevice-description = Descargar { -brand-product-name } para móbil e iniciar sesión alí.
 firefoxview-tabpickup-adddevice-learn-how = Aprender como
 firefoxview-tabpickup-adddevice-primarybutton = Obter { -brand-product-name } para móbiles
 firefoxview-syncedtabs-adddevice-header-2 = Coller pestanas desde calquera lugar
+firefoxview-syncedtabs-adddevice-description-2 = Accede con { -brand-product-name } no teu teléfono ou noutro ordenador para ver as pestanas aquí. Obtén información sobre como <a data-l10n-name="url">conectar dispositivos adicionais</a>.
 firefoxview-syncedtabs-adddevice-header = Acceda en { -brand-product-name } nos seus outros dispositivos
 firefoxview-syncedtabs-adddevice-primarybutton = Probe { -brand-product-name } para móbiles
 firefoxview-tabpickup-synctabs-header = Activar a sincronización de lapelas
