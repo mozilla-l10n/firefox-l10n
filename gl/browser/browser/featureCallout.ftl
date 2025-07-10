@@ -94,6 +94,7 @@ bookmarks-toolbar-callout-2b-secondary-button-label = Non, grazas
 
 ## Perplexity callout strings
 
+perplexity-callout-theme-1-title = Necesitas a resposta correcta, de inmediato?
 perplexity-callout-theme-2-title = Proba Perplexity: unha nova forma de buscar
 perplexity-callout-primary-label = Preguntar a Perplexity
 perplexity-callout-secondary-label-1 = Rexeitar
@@ -122,6 +123,7 @@ vertical-tabs-callout-2-subtitle = Este deseño facilita a exploración rápida 
 ## Sidebar Vertical Tabs Pinning Strings
 
 sidebar-pins-callout-title = Perdes a pista das túas pestanas importantes?
+sidebar-pins-callout-subtitle = Tenta fixalas, o que as mantén na parte superior da túa lista de pestanas. Fai clic co botón dereito na pestana que queres fixar e, a continuación, escolle Fixar pestana.
 sidebar-pins-callout-cta-button = Fixar pestana
 
 ## Pinning Tabs Strings
