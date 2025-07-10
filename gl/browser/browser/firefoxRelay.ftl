@@ -14,6 +14,7 @@ firefox-relay-get-reusable-masks-failed = { -relay-brand-name } non puido atopar
 ## The "control" variation of the Relay offer popup
 
 firefox-relay-must-login-to-fxa = Debe iniciar sesión en { -fxaccount-brand-name } para usar { -relay-brand-name }.
+firefox-relay-must-login-to-account = Inicia sesión na túa conta para usar as túas máscaras de correo electrónico de { -relay-brand-name }.
 firefox-relay-get-unlimited-masks =
     .label = Xestionar as máscaras
     .accesskey = m
@@ -40,9 +41,15 @@ firefox-relay-opt-in-confirmation-disable =
 firefox-relay-opt-in-confirmation-postpone =
     .label = Agora non
     .accesskey = n
+firefox-relay-and-fxa-opt-in-confirmation-enable-button =
+    .label = Inicia sesión en { -brand-product-name } e usa a máscara
+    .accesskey = I
 firefox-relay-and-fxa-opt-in-confirmation-enable-button-sign-up =
     .label = Rexistrarse
     .accesskey = R
+firefox-relay-and-fxa-opt-in-confirmation-disable =
+    .label = Non me mostres isto de novo
+    .accesskey = N
 firefox-relay-and-fxa-opt-in-confirmation-postpone =
     .label = Agora non
     .accesskey = n

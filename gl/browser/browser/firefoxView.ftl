@@ -223,6 +223,7 @@ firefoxview-view-more-browsing-history = Ver máis historial de navegación
 
 firefoxview-history-empty-header = Volva a onde estivo
 firefoxview-history-empty-description = A medida que navegues, as páxinas que visites listaranse aquí.
+firefoxview-history-empty-description-two = Protexer a túa privacidade é o centro do que facemos. É por iso que podes controlar a actividade que { -brand-short-name } lembra na <a data-l10n-name="history-settings-url">configuración do historial</a>.
 
 ##
 
@@ -233,6 +234,10 @@ firefoxview-choose-browser-button = Escoller o navegador
 ## Message displayed in Firefox View when the user has chosen to never remember History
 
 firefoxview-dont-remember-history-empty-header = Nada que mostrar
+firefoxview-dont-remember-history-empty-description = Protexer a túa privacidade é o centro do que facemos. É por iso que podes controlar a actividade que { -brand-short-name } lembra.
+firefoxview-dont-remember-history-empty-description-two = Segundo a túa configuración actual, { -brand-short-name } non lembra a túa actividade mentres navegas. Para cambialo, <a data-l10n-name="history-settings-url-two">cambia a configuración do teu historial para lembrar o teu historial</a>.
+firefoxview-dont-remember-history-empty-header-2 = Tes o control do que { -brand-short-name } lembra
+firefoxview-dont-remember-history-empty-description-one = Nestes momentos, { -brand-short-name } non lembra a túa actividade de navegación. Para cambialo, <a data-l10n-name="history-settings-url-two">actualiza a configuración do teu historial</a>.
 
 ##
 
