@@ -78,6 +78,38 @@ browser-main-window-titles =
     .data-content-title-private = { $content-title } — { -brand-full-name } Navegación privada
     .data-content-title-default-with-profile = { $content-title } — { $profile-name } — { -brand-full-name }
     .data-content-title-private-with-profile = { $content-title } — { $profile-name } — { -brand-full-name } Navegación privada
+# These are the default window titles on macOS.
+# .data-title-default and .data-title-private are used when the web content
+# opened has no title:
+#
+#
+# "default" - "Mozilla Firefox"
+# "private" - "Mozilla Firefox — (Private Browsing)"
+#
+# .data-content-title-default and .data-content-title-private are for use when
+# there *is* a content title.
+# Do not use the brand name in these, as we do on non-macOS.
+#
+# .data-title-default-with-profile, .data-title-private-with-profile,
+# .data-content-title-default-with-profile,
+# .data-content-title-private-with-profile are used when there a
+# SelectableProfileService.current profile exists.
+#
+# Also note the other subtle difference here: we use a `-` to separate the
+# brand name from `(Private Browsing)`, which does not happen on other OSes.
+#
+# Variables:
+#  $content-title (String): the title of the web content.
+#  $profile-name (String): the name of the current profile.
+browser-main-window-titles-mac =
+    .data-title-default = { -brand-full-name }
+    .data-title-private = { -brand-full-name } — Navegación privada
+    .data-title-default-with-profile = { $profile-name } — { -brand-full-name }
+    .data-title-private-with-profile = { $profile-name } — { -brand-full-name } Navegación privada
+    .data-content-title-default = { $content-title }
+    .data-content-title-private = { $content-title } — Navegación privada
+    .data-content-title-default-with-profile = { $content-title } — { $profile-name }
+    .data-content-title-private-with-profile = { $content-title } — { $profile-name } — Navegación privada
 # This gets set as the initial title, and is overridden as soon as we start
 # updating the titlebar based on loaded tabs or private browsing state.
 # This should match the `data-title-default` attribute in both
@@ -158,6 +190,12 @@ urlbar-result-menu-tip-get-help =
 urlbar-result-menu-dismiss-suggestion =
     .label = Ignorar esta suxestión
     .accesskey = I
+urlbar-result-menu-learn-more-about-firefox-suggest =
+    .label = Máis información sobre { -firefox-suggest-brand-name }
+    .accesskey = M
+urlbar-result-menu-manage-firefox-suggest =
+    .label = Xestionar { -firefox-suggest-brand-name }
+    .accesskey = X
 # Some urlbar suggestions show the user's approximate location as automatically
 # detected by Firefox (e.g., weather suggestions), and this menu item lets the
 # user tell Firefox that the location is not accurate. Typically the location
@@ -325,12 +363,20 @@ quickactions-downloads2 = Ver as descargas
 quickactions-cmd-downloads = descargas
 # Opens about:addons page in the extensions section
 quickactions-extensions = Xestionar as extensións
+quickactions-cmd-extensions2 = extensións, complementos, complementos
 quickactions-cmd-extensions = extensións
 # Opens Firefox View
 quickactions-firefoxview = Abrir { -firefoxview-brand-name }
+# English is using "view" and "open view", since the feature name is
+# "Firefox View". If you have translated the name in your language, you
+# should use a word related to the existing translation.
+quickactions-cmd-firefoxview = abrir { -firefoxview-brand-name }, { -firefoxview-brand-name }, abrir vista, ver
+# Opens SUMO home page
+quickactions-help = Axuda de { -brand-product-name }
 quickactions-cmd-help = axuda
 # Opens the devtools web inspector
 quickactions-inspector2 = Abrir as ferramentas de desenvolvemento
+quickactions-cmd-inspector2 = inspector, devtools, ferramentas para desenvolvedores
 quickactions-cmd-inspector = inspector, desenvolvemento
 # Opens about:logins
 quickactions-logins2 = Xestionar os contrasinais
@@ -343,6 +389,7 @@ quickactions-print2 = Imprimir a páxina
 quickactions-cmd-print = imprimir
 # Opens the print dialog at the save to PDF option
 quickactions-savepdf = Garda a páxina como PDF
+quickactions-cmd-savepdf2 = pdf, gardar páxina
 quickactions-cmd-savepdf = pdf
 # Opens a new private browsing window
 quickactions-private2 = Abrir unha xanela privada
@@ -355,6 +402,7 @@ quickactions-restart = Reiniciar { -brand-short-name }
 quickactions-cmd-restart = reiniciar
 # Opens the screenshot tool
 quickactions-screenshot3 = Facer unha captura de pantalla
+quickactions-cmd-screenshot2 = captura de pantalla, facer unha captura de pantalla
 quickactions-cmd-screenshot = captura de pantalla
 # Opens about:preferences
 quickactions-settings2 = Xestionar a configuración
@@ -367,6 +415,7 @@ quickactions-update = Actualizar { -brand-short-name }
 quickactions-cmd-update = actualizar
 # Opens the view-source UI with current pages source
 quickactions-viewsource2 = Ver o código da páxina
+quickactions-cmd-viewsource2 = ver código fonte, código fonte, código fonte da páxina
 quickactions-cmd-viewsource = ver o código, código
 # Tooltip text for the help button shown in the result.
 quickactions-learn-more =
