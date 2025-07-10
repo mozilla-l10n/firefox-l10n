@@ -96,6 +96,8 @@ bookmarks-toolbar-callout-2b-secondary-button-label = Non, grazas
 
 perplexity-callout-theme-1-title = Necesitas a resposta correcta, de inmediato?
 perplexity-callout-theme-2-title = Proba Perplexity: unha nova forma de buscar
+perplexity-callout-theme-1-subtitle-1 = Proba Perplexity. Escóllea no botón de busca cando queiras respostas completas, fontes incluídas.
+perplexity-callout-theme-1-subtitle-2 = Fai preguntas. Obtén respostas completas e ben citadas. Para probar Perplexity, escóllea no botón de busca.
 perplexity-callout-primary-label = Preguntar a Perplexity
 perplexity-callout-secondary-label-1 = Rexeitar
 perplexity-callout-secondary-label-2 = Entendido
@@ -138,6 +140,7 @@ pin-tabs-callout-4-title = Fixar os sitios que máis visitas
 ## Sidebar Onboarding Strings
 
 sidebar-customization-callout-1-title = Barra lateral: o teu lugar para as ferramentas e as pestanas
+sidebar-customization-callout-1-subtitle = A barra lateral de { -brand-product-name } ofréceche acceso rápido ao teu historial de navegación, ás pestanas desde outros dispositivos e a un chatbot IA, todo sen saír da túa vista principal.
 sidebar-customization-callout-callout-button = Personalizar a barra lateral
 sidebar-customization-callout-dismiss-button = Ocultar a barra lateral
 
@@ -159,6 +162,7 @@ sidebar-callout-survey-strongly-agree = Totalmente de acordo
 sidebar-callout-survey-agree = De acordo
 sidebar-callout-survey-disagree = En desacordo
 sidebar-callout-survey-strongly-disagree = Moi en desacordo
+sidebar-callout-survey-features-question = As seguintes son as posibles funcións da barra lateral. Cal melloraría máis a túa produtividade en { -brand-short-name }?
 sidebar-callout-survey-saved-websites-2 = Acceso rápido aos teus marcadores
 sidebar-callout-survey-none-of-above = Ningunha das anteriores
 sidebar-callout-survey-submit = Enviar
