@@ -7,6 +7,11 @@
 
 genai-settings-chat-chatgpt-links = Ao escoller ChatGPT, aceptas as <a data-l10n-name="link1">condicións de uso</a> e a <a data-l10n-name="link2">política de privacidade</a> de OpenAI.
 genai-settings-chat-claude-links = Ao escoller Anthropic Claude, aceptas as <a data-l10n-name="link1">condicións de servizo para o consumidor</a>, a <a data-l10n-name="link2">política de uso</a>, e a <a data-l10n-name="link3">política de privacidade</a>.
+genai-settings-chat-copilot-links = Ao escoller Copilot, aceptas as <a data-l10n-name="link1">condicións das experiencias de Copilot IA</a> e a <a data-l10n-name="link2">declaración de privacidade de Microsoft</a>.
+genai-settings-chat-gemini-links = Ao escoller Google Gemini, aceptas as <a data-l10n-name="link1">condicións de servizo de Google</a>, a <a data-l10n-name="link2">política de uso prohibido da IA xerativa</a > e o <a data-l10n-name="link3">aviso de privacidade de Gemini Apps</a>.
+genai-settings-chat-huggingchat-links = Ao escoller HuggingChat, aceptas o <a data-l10n-name="link1">aviso de privacidade de HuggingChat</a> e a <a data-l10n-name="link2">política de privacidade de Hugging Face</a>.
+genai-settings-chat-lechat-links = Ao escoller Le Chat Mistral, aceptas as <a data-l10n-name="link1">condicións de servizo</a> e a <a data-l10n-name="link2">política de privacidade</a> de Mistral AI.
+genai-settings-chat-localhost-links = Trae o teu propio chatbot local privado, como <a data-l10n-name="link1">llamafile</a> do grupo de innovación de { -vendor-short-name }.
 
 ## Chatbot prompts
 ## Prompts are plain language ‘instructions’ sent to a chatbot.
@@ -14,6 +19,10 @@ genai-settings-chat-claude-links = Ao escoller Anthropic Claude, aceptas as <a d
 ## have character restrictions and being direct reduces the chance for misinterpretation.
 ## When localizing, please be concise and direct, but not at the expense of losing meaning.
 
+# Prompt purpose: help users understand what a selection covers at a glance
+genai-prompts-summarize =
+    .label = Resumir
+    .value = Resume a selección utilizando unha linguaxe precisa e concisa. Utiliza cabeceiras e listas con viñetas no resumo, para que sexa escaneable. Mantén o sentido e a exactitude dos feitos.
 
 ## Chatbot menu shortcuts
 

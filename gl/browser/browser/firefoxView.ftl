@@ -249,10 +249,13 @@ firefoxview-import-history-close-button =
 ## Text displayed in a dismissable banner to import bookmarks/history from another browser
 
 firefoxview-import-history-header = Importar o historial desde outro navegador
+firefoxview-import-history-description = Fai de { -brand-short-name } o teu navegador de referencia. Importa o historial de navegación, os marcadores e moito máis.
 
 ## Message displayed in Firefox View when the user has no recently closed tabs data
 
 firefoxview-recentlyclosed-empty-header = Pechou unha pestana demasiado pronto?
+firefoxview-recentlyclosed-empty-description = Aquí atoparás as pestanas que pechaches recentemente, para que poidas volver abrir calquera delas rapidamente.
+firefoxview-recentlyclosed-empty-description-two = Para buscar pestanas de hai moito tempo, consulta o teu <a data-l10n-name="history-url">historial de navegación</a>.
 
 ## This message is displayed below the name of another connected device when it doesn't have any open tabs.
 
