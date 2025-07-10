@@ -188,6 +188,12 @@ downloads-details =
 downloads-private-browsing-details =
     .title = Os ficheiros permanecen no teu dispositivo
 downloads-private-browsing-message = Calquera que utilice este dispositivo pode ver as descargas, aínda que peches todas as ventás privadas.
+downloads-private-browsing-delete-button =
+    .label = Eliminar ficheiros automaticamente
+    .accesskey = E
+downloads-private-browsing-accept-button =
+    .label = Entendido
+    .accesskey = E
 
 ## Displayed when a site attempts to automatically download many files.
 ## Variables:

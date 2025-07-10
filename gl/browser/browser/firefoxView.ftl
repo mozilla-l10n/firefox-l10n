@@ -58,6 +58,7 @@ firefoxview-syncedtabs-loading-header = Sincronización en curso
 firefoxview-syncedtabs-loading-description = Cando remate, verás todas as pestanas que teñas abertas noutros dispositivos. Volve a consultar pronto.
 firefoxview-tabpickup-fxa-admin-disabled-header = A súa organización desactivou a sincronización
 firefoxview-tabpickup-fxa-admin-disabled-description = { -brand-short-name } non pode sincronizar lapelas entre dispositivos porque a persoa administradora do seu sistema desactivou a sincronización.
+firefoxview-tabpickup-fxa-disabled-by-policy-description = { -brand-short-name } non pode sincronizar as pestanas entre os dispositivos porque a túa organización desactivou a sincronización.
 firefoxview-tabpickup-network-offline-header = Comprobe a súa conexión a internet
 firefoxview-tabpickup-network-offline-description = Se está a usar unha devasa ou un proxy, comprobe que { -brand-short-name } teña permiso para acceder á web.
 firefoxview-tabpickup-network-offline-primarybutton = Tentar de novo

@@ -214,6 +214,9 @@ contextual-manager-passwords-edit-label =
     .label = Editar contrasinal
 contextual-manager-passwords-remove-label =
     .title = Eliminar contrasinal
+contextual-manager-passwords-origin-tooltip = Introduce o enderezo exacto onde iniciarás sesión neste sitio.
+contextual-manager-passwords-username-tooltip = Introduce o nome de usuario, o enderezo de correo electrónico ou o número de conta que utilizas para iniciar sesión.
+contextual-manager-passwords-password-tooltip = Introduce o contrasinal utilizado para iniciar sesión nesta conta.
 
 ## Password Card
 
@@ -240,6 +243,17 @@ contextual-manager-origin-login-line =
 contextual-manager-origin-login-line-with-alert =
     .aria-label = Visitar { $url } (Advertencia)
     .title = Visitar { $url } (Advertencia)
+# Variables
+#   $username (string) - The username associated with the login
+contextual-manager-username-login-line =
+    .aria-label = Copiar o nome de usuario { $username }
+    .title = Copiar o nome de usuario { $username }
+# "(Warning)" indicates that a login's username field has an alert icon.
+# Variables
+#   $username (string) - The username associated with the login
+contextual-manager-username-login-line-with-alert =
+    .aria-label = Copiar o nome de usuario { $username } (Aviso)
+    .title = Copiar o nome de usuario { $username } (Aviso)
 contextual-manager-password-login-line =
     .aria-label = Copiar o contrasinal
     .title = Copiar o contrasinal
@@ -253,6 +267,24 @@ contextual-manager-view-alert-heading =
     .heading = Ver alerta
 contextual-manager-view-alert-button =
     .tooltiptext = Revisar alerta
+# Variables
+#   $count (number) - The number of active alerts associated with the login
+contextual-manager-view-alert-heading-2 =
+    .heading =
+        { $count ->
+            [1] Ver alerta
+            [one] Ver alerta
+           *[other] Ver alertas
+        }
+# Variables
+#   $count (number) - The number of active alerts associated with the login
+contextual-manager-view-alert-button-2 =
+    .tooltiptext =
+        { $count ->
+            [1] Revisar alerta
+            [one] Revisar alerta
+           *[other] Revisar alertas
+        }
 contextual-manager-show-password-button =
     .aria-label = Mostrar contrasinal
     .title = Mostrar contrasinal
@@ -285,3 +317,10 @@ contextual-manager-passwords-discard-changes-heading-and-message =
     .message = Os cambios non se gardarán.
 contextual-manager-passwords-discard-changes-close-button = Pechar
 contextual-manager-passwords-discard-changes-go-back-button = Retroceder
+#   $total (number) - Total number of passwords
+contextual-manager-passwords-remove-all-passwords-checkbox =
+    { $total ->
+        [1] Si, eliminar contrasinal
+        [one] Si, eliminar contrasinal
+       *[other] Si, eliminar contrasinais
+    }

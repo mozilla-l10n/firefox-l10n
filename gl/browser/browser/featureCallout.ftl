@@ -47,6 +47,7 @@ callout-pdfjs-draw-button = Entendido!
 ## Firefox View Discoverability Strings
 
 fx-view-discoverability-title = Non quería pechar esa lapela?
+fx-view-discoverability-subtitle = Buscar e volver a abrir rapidamente aquí. Mantemos un historial das túas pestanas pechadas recentemente para ti.
 fx-view-discoverability-primary-button-label = Abrir { -firefoxview-brand-name }
 fx-view-discoverability-secondary-button-label = Rexeitar
 
@@ -86,6 +87,7 @@ bookmarks-toolbar-callout-2a-primary-button-label = Entendido
 bookmarks-toolbar-callout-2a-secondary-button-label = Agochar barra de ferramentas
 # Visible if user declines to add a bookmark in callout 1, bookmarks toolbar is set to always show when this message renders
 bookmarks-toolbar-callout-2b-title = Manter aberta a barra de ferramentas de marcadores?
+bookmarks-toolbar-callout-2b-subtitle = Podes engadir outros sitios que visites con máis frecuencia. Só tes que arrastrar e soltar as pestanas aquí para manter os sitios web favoritos ao alcance.
 bookmarks-toolbar-callout-2b-primary-button-label = Manter aberto
 # Reverts the bookmarks toolbar to the default setting
 bookmarks-toolbar-callout-2b-secondary-button-label = Non, grazas
@@ -119,6 +121,7 @@ vertical-tabs-callout-2-subtitle = Este deseño facilita a exploración rápida 
 
 ## Sidebar Vertical Tabs Pinning Strings
 
+sidebar-pins-callout-title = Perdes a pista das túas pestanas importantes?
 sidebar-pins-callout-cta-button = Fixar pestana
 
 ## Pinning Tabs Strings
