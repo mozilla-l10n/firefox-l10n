@@ -80,6 +80,10 @@ detail-repository =
     .label = Utvidelsesprofil
 detail-repository-value =
     .value = { detail-repository.label }
+detail-check-for-updates =
+    .label = Se etter oppdateringer
+    .accesskey = S
+    .tooltiptext = Ser etter oppdateringer til denne utvidelsen
 detail-show-preferences =
     .label =
         { PLATFORM() ->
@@ -169,7 +173,7 @@ extensions-warning-imported-addons-button = Installer utvidelser
 
 ## Strings connected to add-on updates
 
-addon-updates-check-for-updates = Søk etter oppdateringer nå
+addon-updates-check-for-updates = Se etter oppdateringer
     .accesskey = S
 addon-updates-view-updates = Vis nylig oppdaterte
     .accesskey = V
