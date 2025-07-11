@@ -15,3 +15,5 @@ places-bookmarks-restore-format-error = Tipo de ficheiro non compatíbel.
 places-bookmarks-restore-parse-error = Non foi posíbel procesar o ficheiro de copia de seguranza.
 places-bookmarks-import = Importar ficheiro de marcadores
 places-bookmarks-export = Exportar ficheiro de marcadores
+places-bookmarks-paste-error-title = Atopáronse URL non válidos
+places-bookmarks-paste-error-message-header = Non se puideron engadir os seguintes URL aos teus marcadores. Tenta comprobar o formato e engadilos de novo.

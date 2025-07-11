@@ -25,6 +25,8 @@ return-to-amo-subtitle = Ben, xa ten o { -brand-short-name }
 return-to-amo-addon-title = Agora imos obter <img data-l10n-name="icon"/> <b>{ $addon-name }</b>.
 return-to-amo-add-extension-label = Engadir a extensión
 return-to-amo-add-theme-label = Engadir o tema
+return-to-amo-theme-install-complete-label = Tema instalado
+return-to-amo-extension-install-complete-label = Extensión instalada
 
 ##  Variables: $addon-name (String) - Name of the add-on to be installed
 
@@ -54,6 +56,7 @@ mr1-onboarding-theme-header = Fágao seu
 mr1-onboarding-theme-subtitle = Personalice o { -brand-short-name } cun tema.
 mr1-onboarding-theme-secondary-button-label = Agora non
 newtab-wallpaper-onboarding-title = Probar un toque de cor
+newtab-wallpaper-onboarding-subtitle = Escolle un fondo de pantalla para darlle un aspecto novo á túa nova pestana.
 newtab-wallpaper-onboarding-primary-button-label = Establecer fondo de pantalla
 # System theme uses operating system color settings
 mr1-onboarding-theme-label-system = Tema do sistema
@@ -188,6 +191,8 @@ mr2022-onboarding-pin-primary-button-label =
         [macos] Manter { -brand-short-name } na doca
        *[other] Fixar { -brand-short-name } na barra de tarefas
     }
+# Primary button string used on welcome page for when Firefox is not pinned on MSIX
+mr2022-onboarding-pin-primary-button-label-msix = Fixar { -brand-short-name } na barra de tarefas e no menú de inicio
 # Subtitle will be used when user already has Firefox pinned, but
 # has not set it as their default browser.
 # When translating "zip", please feel free to pick a verb that signifies movement and/or exploration
@@ -334,11 +339,13 @@ onboarding-device-migration-image-alt =
     .aria-label = Un raposo saudando na pantalla dun ordenador portátil. O portátil ten un rato conectado.
 onboarding-device-migration-title = Benvido de novo!
 onboarding-device-migration-subtitle = Inicie sesión no seu { -fxaccount-brand-name(capitalization: "sentence") } para recuperar os seus marcadores, contrasinais e historial consigo no seu novo dispositivo.
+onboarding-device-migration-subtitle2 = Inicia sesión na túa conta para levar contigo os teus marcadores, contrasinais e historial no teu novo dispositivo.
 onboarding-device-migration-primary-button-label = Acceder
 
 ## Add-ons Picker screen
 
 amo-picker-title = Personalizar o seu { -brand-short-name }
+amo-picker-subtitle = As extensións son como aplicacións para o teu navegador e permítenche protexer contrasinais, descargar vídeos, buscar ofertas, bloquear anuncios molestos, cambiar o aspecto do teu navegador e moito máis.
 amo-picker-install-button-label = Engadir a { -brand-short-name }
 amo-picker-install-complete-label = Instalado
 amo-picker-collection-link = Explore máis complementos
@@ -350,13 +357,24 @@ onboarding-easy-setup-security-and-privacy-title = Encántanos telo seguro
 onboarding-easy-setup-security-and-privacy-subtitle = O noso navegador sen ánimo de lucro axuda a evitar que as empresas o sigan en segredo pola web.
 # Mobile download screen
 onboarding-mobile-download-security-and-privacy-title = Manteña todo cifrado cando salte entre dispositivos
+onboarding-mobile-download-security-and-privacy-subtitle = Cando esteas sincronizado, { -brand-short-name } cifra os teus contrasinais, marcadores e moito máis. Ademais, podes traer pestanas dos teus outros dispositivos.
 # Gratitude screen
 onboarding-gratitude-security-and-privacy-title = { -brand-short-name } protéxeo
+onboarding-gratitude-security-and-privacy-subtitle = Grazas por usar { -brand-short-name }, apoiado pola Fundación Mozilla. Co teu apoio, traballamos para que Internet sexa máis seguro e accesible para todos.
+# Sign up or Sign in screen
+onboarding-sign-up-title = Sincroniza os teus datos entre dispositivos
+onboarding-sign-up-description = Rexístrate para obter unha conta e toda a túa información importante (contrasinais, marcadores e moito máis) almacenarase de forma segura e estará dispoñible cando inicies sesión en calquera dispositivo.
+onboarding-sign-up-button = Rexístrate ou inicia sesión
+onboarding-sign-up-secondary-button = Iniciar a navegación
 
 ## New user time and familiarity survey strings
 
+onboarding-new-user-time-based-survey-title = Canto tempo levas usando { -brand-short-name }?
+onboarding-new-user-familiarity-based-survey-title = Como estás de familiarizado con { -brand-short-name }?
+onboarding-new-user-survey-subtitle = Os teus comentarios axudan a mellorar aínda máis { -brand-short-name }.
 # When translating "next" it means the next screen in onboarding.
 onboarding-new-user-survey-next-button-label = Seguinte
+onboarding-new-user-survey-legal-link-label = Ao seleccionar «{ onboarding-new-user-survey-next-button-label },» aceptas o <a data-l10n-name="privacy_notice">aviso de privacidade</a> de { -brand-product-name }
 # When translating "brand new" it means completely new.
 onboarding-new-user-survey-time-based-option-1 = Son novo
 onboarding-new-user-survey-time-based-option-2 = Menos de 1 mes
