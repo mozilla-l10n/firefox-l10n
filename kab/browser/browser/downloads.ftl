@@ -185,6 +185,9 @@ downloads-details =
 
 ## These strings are displayed in the private browsing view of the downloads panel
 
+downloads-private-browsing-accept-button =
+    .label = Awi-t
+    .accesskey = A
 
 ## Displayed when a site attempts to automatically download many files.
 ## Variables:

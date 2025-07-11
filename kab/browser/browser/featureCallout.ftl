@@ -104,6 +104,7 @@ sidebar-pins-callout-cta-button = Rzi iccer
 
 ## Pinning Tabs Strings
 
+pin-tabs-callout-cta-2-button = Senṭeḍ iccer-a
 
 ## Sidebar Onboarding Strings
 

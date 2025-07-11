@@ -203,6 +203,7 @@ contextual-manager-passwords-no-username-heading-and-message =
     .heading = Tilføj et brugernavn
     .message = Tilføj et brugernavn for at logge ind hurtigere.
 contextual-manager-passwords-add-username-button = Tilføj brugernavn
+contextual-manager-passwords-title = Adgangskoder
 
 ## Login Form
 
