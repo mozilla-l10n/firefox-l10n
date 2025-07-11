@@ -24,6 +24,8 @@
         [loc] Facebook Container-у
        *[nom] Facebook Container
     }
+    .gender = masculine
+    .declinable = true
 -lockwise-brand-name =
     { $case ->
         [gen] Firefox Lockwise-а
@@ -33,6 +35,8 @@
         [loc] Firefox Lockwise-у
        *[nom] Firefox Lockwise
     }
+    .gender = masculine
+    .declinable = true
 -lockwise-brand-short-name =
     { $case ->
         [gen] Lockwise-а
@@ -42,6 +46,8 @@
         [loc] Lockwise-у
        *[nom] Lockwise
     }
+    .gender = masculine
+    .declinable = true
 -monitor-brand-name =
     { $case ->
         [gen] Firefox Monitor-а
@@ -51,6 +57,8 @@
         [loc] Firefox Monitor-у
        *[nom] Firefox Monitor
     }
+    .gender = masculine
+    .declinable = true
 -monitor-brand-short-name =
     { $case ->
         [gen] Monitor-а
@@ -60,7 +68,19 @@
         [loc] Monitor-у
        *[nom] Monitor
     }
--mozmonitor-brand-name = Mozilla Monitor
+    .gender = masculine
+    .declinable = true
+-mozmonitor-brand-name =
+    { $case ->
+        [gen] Mozilla Monitor-а
+        [dat] Mozilla Monitor-у
+        [acc] Mozilla Monitor
+        [ins] Mozilla Monitor-ом
+        [loc] Mozilla Monitor-у
+       *[nom] Mozilla Monitor
+    }
+    .gender = masculine
+    .declinable = true
 -pocket-brand-name =
     { $case ->
         [gen] Pocket-а
@@ -70,6 +90,8 @@
         [loc] Pocket-у
        *[nom] Pocket
     }
+    .gender = masculine
+    .declinable = true
 -send-brand-name =
     { $case ->
         [gen] Firefox Send-а
@@ -79,6 +101,8 @@
         [loc] Firefox Send-у
        *[nom] Firefox Send
     }
+    .gender = masculine
+    .declinable = true
 -screenshots-brand-name =
     { $case ->
         [gen] Mozilla Screenshots-а
@@ -88,6 +112,8 @@
         [loc] Mozilla Screenshots-у
        *[nom] Mozilla Screenshots
     }
+    .gender = masculine
+    .declinable = true
 -mozilla-vpn-brand-name =
     { $case ->
         [gen] Mozilla VPN-а
@@ -97,22 +123,18 @@
         [loc] Mozilla VPN-у
        *[nom] Mozilla VPN
     }
--profiler-brand-name =
-    { $case ->
-        [gen] Firefox Profiler-а
-        [dat] Firefox Profiler-у
-        [acc] Firefox Profiler
-        [ins] Firefox Profiler-ом
-        [loc] Firefox Profiler-у
-       *[nom] Firefox Profiler
-    }
+    .gender = masculine
+    .declinable = true
 -translations-brand-name = Firefox Translations
 -focus-brand-name = Firefox Focus
 -relay-brand-name = Firefox Relay
 -relay-brand-short-name = Relay
+-fakespot-brand-name = Fakespot
 -solo-ai-brand-name = Solo
 # Note the name of the website is capitalized.
 -fakespot-website-name = Fakespot.com
+# The particle "by" can be localized, "Fakespot" and "Mozilla" should not be localized or transliterated.
+-fakespot-brand-full-name = Fakespot од Mozill-е
 # “Suggest” can be localized, “Firefox” must be treated as a brand
 # and kept in English.
 -firefox-suggest-brand-name = Firefox предлог
