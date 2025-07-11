@@ -388,12 +388,47 @@ onboarding-new-vertical-tabs-label = Pestanas na parte lateral
 onboarding-new-horizontal-tabs-label = Pestanas na parte superior
 # Setup screen for vertical tabs for existing users
 onboarding-existing-tabs-title = As pestanas verticais están aquí
+# Setup screen for vertical tabs for existing users
+onboarding-existing-tabs-title2 = Presentamos as pestanas verticais
+# Setup screen for vertical tabs for existing users - "Switch it up" refers to switching between horizontal and vertical tabs.
+onboarding-existing-tabs-subtitle = Proba as túas pestanas no lateral. Cámbiao cando queiras na configuración da barra lateral.
+# Text underneath an image used for selecting browser tabs to appear on the side of the browser.
+onboarding-existing-vertical-tabs-label = Proba as pestanas verticais
+onboarding-flair-text = Novo!
+# Text underneath an image used for selecting browser tabs to appear at the top of the browser.
+onboarding-existing-horizontal-tabs-label = Manter as pestanas horizontais
+# Tooltip displayed on hover for vertical tabs image
+onboarding-vertical-tabs-tooltip =
+    .title = Unha ventá do navegador que mostra pestanas ao longo do lateral da pantalla como parte da barra lateral de { -brand-shorter-name }.
+# Description for vertical tabs image
+onboarding-vertical-tabs-description =
+    .aria-description = Unha ventá do navegador que mostra pestanas ao longo do lateral da pantalla como parte da barra lateral de { -brand-shorter-name }.
+# Tooltip displayed on hover for horizontal tabs image
+onboarding-horizontal-tabs-tooltip =
+    .title = Unha ventá do navegador que mostra pestanas na parte superior.
+# Description for horizontal tabs image
+onboarding-horizontal-tabs-description =
+    .aria-description = Unha ventá do navegador que mostra pestanas na parte superior.
+# Additional setup card for setting up aichatbot in the sidebar
+onboarding-genai-sidebar-title = Proba un chatbot de IA na barra lateral
+# Setup card for setting up AI chatbot in the sidebar; "Providers" refers to AI chatbot providers (e.g. OpenAI, etc). "Switch anytime" refers to allowing the user to switch to a different chatbot.
+onboarding-genai-sidebar-subtitle = Resume o contido web, xera unha tormenta de ideas, redacta borradores de mensaxes, todo mentres navegas. Escolle entre varios provedores. Cámbiaos en calquera momento. <a data-l10n-name="learn-more">Máis información</a>
+onboarding-genai-sidebar-primary-button = Escoller un chatbot
+onboarding-genai-sidebar-secondary-button = Iniciar a navegación
 
 ## New user onboarding checklist
 
+onboarding-checklist-title = Rematar de configurar { -brand-short-name }
+onboarding-checklist-subtitle = Completa estes pasos para sacar o máximo proveito á túa experiencia de navegación.
+onboarding-checklist-set-default = Establece { -brand-short-name } como navegador predeterminado
+onboarding-checklist-pin = Fixar { -brand-short-name } na barra de tarefas
+onboarding-checklist-import = Importar desde un navegador anterior
+onboarding-checklist-extension = Engadir unha extensión
+onboarding-checklist-sign-up = Rexístrate ou inicia sesión na túa conta
 
 ## Tab Groups feature onboarding strings
 
+tab-groups-onboarding-feature-callout-title = Proba os grupos de pestanas para ter menos desorde e máis concentración
 
 ## Multi Profiles feature onboarding messages
 
