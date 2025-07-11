@@ -537,15 +537,22 @@ newtab-section-mangage-topics-blocked-topics-empty-state = Aínda non bloqueache
 newtab-custom-wallpaper-title = Os fondos de pantalla personalizados están aquí
 # 'Make firefox yours" means to customize or personalize
 newtab-custom-wallpaper-subtitle = Carga o teu propio fondo de pantalla ou escolle unha cor personalizada para personalizar { -brand-product-name }.
+newtab-custom-wallpaper-cta = Téntao
 
 ## Strings for download mobile highlight
 
+newtab-download-mobile-highlight-title = Descargar { -brand-product-name } para móbil
+# "Scan the code" refers to scanning the QR code that appears above the body text that leads to Firefox for mobile download.
+newtab-download-mobile-highlight-body-variant-a = Escanea o código para navegar de forma segura en calquera lugar.
+newtab-download-mobile-highlight-body-variant-b = Continúa onde o deixaches cando sincronices as túas pestanas, contrasinais e moito máis.
 
 ## Strings for shortcuts highlight
 
 
 ## Strings for reporting ads and content
 
+newtab-report-content-why-reporting-this =
+    .label = Por que informas isto?
 
 ## Strings for trending searches
 

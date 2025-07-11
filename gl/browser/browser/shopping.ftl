@@ -94,6 +94,19 @@ shopping-settings-recommendations-toggle =
 shopping-settings-recommendations-learn-more2 = Verás anuncios ocasionais de produtos relevantes. Só anunciamos produtos con críticas fiables. <a data-l10n-name="review-quality-url">Máis información</a>
 shopping-settings-opt-out-button = Desactivar o verificador de recensións
 powered-by-fakespot = O revisor de recensións funciona con <a data-l10n-name="fakespot-link">{ -fakespot-brand-full-name }</a>.
+shopping-settings-auto-open-toggle =
+    .label = Abre automaticamente o verificador de recensións
+# Description text for regions where we support three sites. Sites are limited to Amazon, Walmart and Best Buy.
+# Variables:
+#   $firstSite (String) - The first shopping page name
+#   $secondSite (String) - The second shopping page name
+#   $thirdSite (String) - The third shopping page name
+shopping-settings-auto-open-description-three-sites = Cando ves produtos en { $firstSite }, { $secondSite } e { $thirdSite }
+# Description text for regions where we support only one site (e.g. currently used in FR/DE with Amazon).
+# Variables:
+#   $currentSite (String) - The current shopping page name
+shopping-settings-auto-open-description-single-site = Cando ves produtos en { $currentSite }
+shopping-settings-sidebar-enabled-state = O verificador de recensións está <strong>activado</strong>
 
 ## Strings for the adjusted rating component
 
@@ -115,6 +128,11 @@ shopping-analysis-explainer-label =
 shopping-analysis-explainer-intro2 = Usamos a tecnoloxía de IA de { -fakespot-brand-full-name } para comprobar a fiabilidade das recensións de produtos. Isto só  che axudará a avaliar a calidade das recensións, non a calidade do produto.
 shopping-analysis-explainer-grades-intro = Asignamos ás recensións de cada produto unha <strong>nota</strong> de A a F.
 shopping-analysis-explainer-adjusted-rating-description = A <strong>valoración axustada</strong> baséase só nas recensións que consideramos fiables.
+shopping-analysis-explainer-learn-more2 = Obtén máis información sobre <a data-l10n-name="review-quality-url">como { -fakespot-brand-name } determina a calidade das recensións</a>.
+# This string includes the short brand name of one of the three supported
+# websites, which will be inserted without being translated.
+#  $retailer (String) - capitalized name of the shopping website, for example, "Amazon".
+shopping-analysis-explainer-highlights-description = Os <strong>destacados</strong> proveñen das recensións de { $tailer } dos últimos 80 días que consideramos fiables.
 shopping-analysis-explainer-review-grading-scale-reliable = Recensións fiables. Cremos que as recensións son probablemente de clientes reais que deixaron recensións honestas e imparciais.
 shopping-analysis-explainer-review-grading-scale-mixed = Cremos que hai unha mestura de recensións fiables e pouco fiables.
 shopping-analysis-explainer-review-grading-scale-unreliable = Recensións pouco fiables. Cremos que as recensións probablemente sexan falsas ou de revisores tendenciosos.
