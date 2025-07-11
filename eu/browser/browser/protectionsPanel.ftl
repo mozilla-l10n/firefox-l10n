@@ -74,6 +74,12 @@ protections-panel-not-found-label = Ez da bat ere antzeman
 
 ## Smartblock strings
 
+# Variables
+#  $trackername (String): the name of the tracker that is currently being blocked.
+protections-panel-smartblock-blocking-toggle =
+    .label = Baimendu { $trackername }
+#  $trackername (String): the name of the tracker that is currently being blocked.
+smartblock-placeholder-title = { $trackername } jarraipen-elementuak eta edukia blokeatuta
 #  $websitehost (String): host of website with blocked content.
 smartblock-placeholder-button-text = Baimendu { $websitehost } ostalarian
 

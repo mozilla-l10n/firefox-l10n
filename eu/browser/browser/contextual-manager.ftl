@@ -6,13 +6,21 @@ contextual-manager-filter-input =
     .placeholder = Bilatu pasahitzak
     .key = F
     .aria-label = Bilatu pasahitzak
+contextual-manager-menu-more-options-button =
+    .title = Aukera gehiago
+contextual-manager-more-options-popup =
+    .aria-label = Aukera gehiago
 
 ## Passwords
 
 contextual-manager-passwords-command-create = Gehitu pasahitza
 contextual-manager-passwords-command-import-from-browser = Inportatu beste nabigatzaile batetik…
 contextual-manager-passwords-command-import = Inportatu fitxategitik…
+contextual-manager-passwords-command-export = Esportatu pasahitzak
+contextual-manager-passwords-command-remove-all = Ezabatu pasahitz guztiak
+contextual-manager-passwords-command-settings = Ezarpenak
 contextual-manager-passwords-command-help = Laguntza
+contextual-manager-passwords-os-auth-dialog-caption = { -brand-full-name }
 # This message can be seen when attempting to export a password in about:logins on Windows.
 contextual-manager-passwords-export-os-auth-dialog-message-win = Zure pasahitzak esportatzeko, sartu zure Windows kredentzialak. Honek zure kontuen segurtasuna babesten laguntzen du.
 # This message can be seen when attempting to export a password in about:logins
@@ -35,6 +43,7 @@ contextual-manager-passwords-copy-password-os-auth-dialog-message-win = Zure pas
 # The MacOS string is preceded by the operating system with "Firefox is trying to ".
 # Only provide the reason that account verification is needed. Do not put a complete sentence here.
 contextual-manager-passwords-copy-password-os-auth-dialog-message-macosx = kopiatu gordetako pasahitza
+contextual-manager-passwords-import-file-picker-title = Inportatu pasahitzak
 contextual-manager-passwords-import-file-picker-import-button = Inportatu
 # A description for the .csv file format that may be shown as the file type
 # filter by the operating system.
@@ -50,12 +59,22 @@ contextual-manager-passwords-import-file-picker-tsv-filter-title =
         [macos] TSV dokumentua
        *[other] TSV fitxategia
     }
+contextual-manager-passwords-import-success-heading =
+    .heading = Pasahitzak inportatuta
 contextual-manager-passwords-import-success-button = Eginda
+contextual-manager-passwords-import-error-button-try-again = Saiatu berriro
 contextual-manager-passwords-import-error-button-cancel = Utzi
+contextual-manager-passwords-export-success-heading =
+    .heading = Pasahitzak esportatuta
 contextual-manager-passwords-export-success-button = Eginda
+# Export passwords to file dialog
+contextual-manager-export-passwords-dialog-title = Esportatu pasahitzak fitxategi batera?
 contextual-manager-export-passwords-dialog-confirm-button = Jarraitu esportazioarekin
 # Title of the file picker dialog
 contextual-manager-passwords-export-file-picker-title = Esportatu pasahitzak { -brand-short-name }(e)tik
+# The default file name shown in the file picker when exporting saved logins.
+# The resultant filename will end in .csv (added in code).
+contextual-manager-passwords-export-file-picker-default-filename = pasahitzak
 contextual-manager-passwords-export-file-picker-export-button = Esportatu
 # A description for the .csv file format that may be shown as the file type
 # filter by the operating system.
@@ -80,19 +99,61 @@ contextual-manager-passwords-remove-all-confirm-button =
         [one] Kendu
        *[other] Kendu denak
     }
+contextual-manager-passwords-origin-label = Webgunea
+# The attribute .data-after describes the text that should be displayed for the ::after pseudo-selector
+contextual-manager-passwords-username-label = Erabiltzaile-izena
+    .data-after = Kopiatuta
+# The attribute .data-after describes the text that should be displayed for the ::after pseudo-selector
+contextual-manager-passwords-password-label = Pasahitza
+    .data-after = Kopiatuta
+contextual-manager-passwords-radiogroup-label =
+    .aria-label = Iragazi pasahitzak
+contextual-manager-passwords-add-password-success-button = Ikusi
+contextual-manager-passwords-update-password-success-heading =
+    .heading = Pasahitza gordeta
 contextual-manager-passwords-update-password-success-button = Eginda
+contextual-manager-passwords-update-username-success-heading =
+    .heading = Erabiltzaile-izena gordeta
 contextual-manager-passwords-delete-password-success-button = Eginda
+#
+# Radiobutton label to display total number of passwords
+#   $total (number) - Total number of passwords
+contextual-manager-passwords-radiobutton-all = Guztiak ({ $total })
+# Radiobutton label to display total number of alerts
+#   $total (number) - Total number of alerts
+contextual-manager-passwords-radiobutton-alerts = Alertak ({ $total })
 # This message is displayed to make sure that a user wants to delete an existing login.
 contextual-manager-passwords-remove-login-card-title = Kendu pasahitza?
+# This message gives the user an option to go back to the edit login form.
+contextual-manager-passwords-remove-login-card-back-message = Atzera
 # This message confirms that the user wants to remove an existing login.
 contextual-manager-passwords-remove-login-card-remove-button = Kendu
 # This message gives the user the option to cancel their attempt to remove a login.
 contextual-manager-passwords-remove-login-card-cancel-button = Utzi
+contextual-manager-passwords-alert-card =
+    .aria-label = Pasahitzen alertak
+contextual-manager-passwords-alert-back-button =
+    .label = Atzera
+contextual-manager-passwords-alert-list =
+    .aria-label = Alerten zerrenda
+contextual-manager-passwords-change-password-button = Aldatu pasahitza
+contextual-manager-passwords-vulnerable-password-heading-and-message =
+    .heading = Pasahitza aldatzea gomendatzen da
+    .message = Pasahitz hau asmatzen erraza da. Alda ezazu pasahitza zure kontua babesteko.
+contextual-manager-passwords-no-username-heading-and-message =
+    .heading = Gehitu erabiltzaile-izen bat
+    .message = Gehitu saioa azkarrago hasteko.
+contextual-manager-passwords-add-username-button = Gehitu erabiltzaile-izena
+contextual-manager-passwords-title = Pasahitzak
 
 ## Login Form
 
 contextual-manager-passwords-create-label =
     .label = Gehitu pasahitza
+contextual-manager-passwords-edit-label =
+    .label = Editatu pasahitza
+contextual-manager-passwords-remove-label =
+    .title = Kendu pasahitza
 
 ## Password Card
 

@@ -2,6 +2,7 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+profile-window-heading = Aukeratu { -brand-short-name } profil bat
 profile-window-create-profile = Sortu profila
 profile-card-edit-button =
     .title = Editatu profila
@@ -29,6 +30,15 @@ edit-profile-page-avatar-header-2 =
     .label = Abatarra
 edit-profile-page-delete-button =
     .label = Ezabatu
+edit-profile-page-avatar-selector-opener-link = Editatu
+avatar-selector-icon-tab = Ikonoa
+avatar-selector-custom-tab = Pertsonalizatua
+avatar-selector-cancel-button =
+    .label = Utzi
+avatar-selector-save-button =
+    .label = Gorde
+avatar-selector-upload-file = Igo fitxategia
+avatar-selector-drag-file = Edo arrastatu hona fitxategia
 edit-profile-page-no-name = Izendatu profila geroago aurkitzea errazteko. Edonoiz berrizenda dezakezu.
 edit-profile-page-duplicate-name = Profilaren izena badago lehendik. Erabili beste izen bat.
 edit-profile-page-profile-saved = Gordeta
@@ -37,9 +47,18 @@ new-profile-page-header = Pertsonalizatu zure profil berria
 new-profile-page-learn-more = Argibide gehiago
 new-profile-page-input-placeholder =
     .placeholder = Hautatu izen bat, adibidez "Lana" edo "Pertsonala"
+profile-window-title-2 = { -brand-short-name } - Aukeratu profila
+profile-window-logo =
+    .alt = { -brand-short-name } logoa
 
 ## Delete profile dialogue that allows users to review what they will lose if they choose to delete their profile. Each item (open windows, etc.) is displayed in a table, followed by a column with the number of items.
 
+# Variables
+#   $profilename (String) - The name of the profile.
+delete-profile-page-title = Ezabatu { $profilename } profila
+# Variables
+#   $profilename (String) - The name of the profile.
+delete-profile-header = Ezabatu { $profilename } profila?
 # Open is an adjective, as in "browser windows currently open".
 delete-profile-windows = Irekitako leihoak
 # Open is an adjective, as in "browser tabs currently open".

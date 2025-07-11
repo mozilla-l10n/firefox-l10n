@@ -196,6 +196,16 @@ urlbar-result-menu-learn-more-about-firefox-suggest =
 urlbar-result-menu-manage-firefox-suggest =
     .label = Kudeatu { -firefox-suggest-brand-name }
     .accesskey = K
+urlbar-result-menu-show-less-frequently =
+    .label = Erakutsi maiztasun txikiagoarekin
+urlbar-result-menu-dont-show-weather-suggestions =
+    .label = Ez erakutsi eguraldi gomendiorik
+# A message shown in the urlbar when the user submits feedback on a suggestion
+# (e.g., it shows an inaccurate location, it's shown too often, etc.).
+urlbar-feedback-acknowledgment = Eskerrik asko zure iritziagatik!
+# A message shown in the urlbar when the user dismisses weather suggestions.
+# Weather suggestions won't be shown at all anymore.
+urlbar-dismissal-acknowledgment-weather = Eskerrik asko zure iritziagatik. Hemendik aurrera ez duzu eguraldi gomendiorik ikusiko.
 
 ## Prompts users to use the Urlbar when they open a new tab or visit the
 ## homepage of their default search engine.
@@ -594,6 +604,10 @@ urlbar-search-mode-indicator-close =
 # engine is unknown.
 urlbar-placeholder =
     .placeholder = Idatzi bilaketa edo helbidea
+# This placeholder is used when not in search mode and searching in the urlbar
+# is disabled via the keyword.enabled pref.
+urlbar-placeholder-keyword-disabled =
+    .placeholder = Idatzi helbidea
 # This placeholder is used in search mode with search engines that search the
 # entire web.
 # Variables
@@ -673,6 +687,8 @@ urlbar-result-action-visit = Bisitatu
 # Variables
 # $container (String): the name of the target container
 urlbar-result-action-switch-tab-with-container = Aldatu fitxara · <span>{ $container }</span>
+# Used when the target tab is in a tab group that doesn't have a label.
+urlbar-result-action-tab-group-unnamed = Multzo izengabea
 # Allows the user to visit a URL that was previously copied to the clipboard.
 urlbar-result-action-visit-from-clipboard = Bisitatu arbeletik
 # Directs a user to press the Tab key to perform a search with the specified
@@ -803,6 +819,9 @@ urlbar-group-recent-searches =
 #  $engine (String): the name of the search engine providing the trending suggestions
 urlbar-group-trending =
     .label = { $engine } bilatzaileko joerak
+# Label shown above sponsored suggestions in the urlbar results.
+urlbar-group-sponsored =
+    .label = Babesleak hornituta
 # The result menu labels shown next to trending results.
 urlbar-result-menu-trending-dont-show =
     .label = Ez erakutsi bilaketa-joerak
@@ -1049,6 +1068,8 @@ navbar-accessible =
     .aria-label = Nabigazioa
 navbar-downloads =
     .label = Deskargak
+navbar-overflow-2 =
+    .tooltiptext = Tresna gehiago
 navbar-overflow =
     .tooltiptext = Tresna gehiago…
 # Variables:
@@ -1237,3 +1258,6 @@ file-picker-crashed-show-in-folder =
 ## Onboarding Finish Setup checklist
 
 onboarding-checklist-button-label = Amaitu konfigurazioa
+onboarding-aw-finish-setup-button =
+    .label = Amaitu konfigurazioa
+    .tooltiptext = Amaitu { -brand-short-name } konfiguratzen

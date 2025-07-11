@@ -11,6 +11,7 @@ more-from-moz-category =
 more-from-moz-subtitle = Kontsulta itzazu Internet osasuntsuago bat babesteko { -vendor-short-name }-k egindako bestelako produktuak.
 more-from-moz-firefox-mobile-title = Mugikorrerako { -brand-product-name }
 more-from-moz-firefox-mobile-description = Zure pribatutasunari lehentasuna ematen dion mugikorrerako nabigatzailea.
+more-from-moz-firefox-mobile-title-1 = Mugikorrerako { -brand-product-name }
 more-from-moz-mozilla-vpn-title = { -mozilla-vpn-brand-name }
 more-from-moz-mozilla-vpn-description = Aurkitu aparteko babesa eta nabigatze anonimoa.
 more-from-moz-qr-code-box-firefox-mobile-title = Deskargatu zure gailu mugikorrarekin. Apuntatu kamera QR kodera. Lotura agertzean, sakatu.
@@ -33,6 +34,7 @@ more-from-moz-mozilla-monitor-button = Eskuratu { -monitor-brand-short-name }
 
 ## These strings are for the Solo card in about:preferences moreFromMozilla page
 
+more-from-moz-solo-button = Probatu { -solo-ai-brand-name }
 
 ## These strings are for the MDN card in about:preferences moreFromMozilla page
 

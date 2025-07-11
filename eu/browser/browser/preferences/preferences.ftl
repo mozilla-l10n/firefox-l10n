@@ -514,6 +514,8 @@ performance-default-content-process-count =
 ## General Section - Browsing
 
 browsing-title = Nabigatzea
+browsing-group-label =
+    .aria-label = Nabigatzea
 browsing-use-autoscroll =
     .label = Erabili korritze automatikoa
     .accesskey = a
@@ -710,6 +712,9 @@ search-remove-engine =
 search-add-engine =
     .label = Gehitu
     .accesskey = G
+search-edit-engine =
+    .label = Editatu
+    .accesskey = E
 search-find-more-link = Bilatu bilaketa-motor gehiago
 # This warning is displayed when the chosen keyword is already in use
 # ('Duplicate' is an adjective)
@@ -718,6 +723,7 @@ search-keyword-warning-title = Bikoiztutako gako-hitza
 #   $name (string) - Name of a search engine.
 search-keyword-warning-engine = Aukeratu duzun gako-hitza dagoeneko "{ $name }"(e)k erabiltzen du. Aukeratu beste bat.
 search-keyword-warning-bookmark = Aukeratu duzun gako-hitza dagoeneko laster-marka batek erabiltzen du. Aukeratu beste bat.
+remove-engine-remove = Kendu
 
 ## Containers Section
 
@@ -1114,6 +1120,9 @@ cookie-banner-blocker-checkbox-label =
 
 addressbar-header = Helbide-barra
 addressbar-suggest = Helbide-barra erabiltzean, gomendatu
+# When Firefox Suggest is enabled, a "Learn more" link appears at the end of
+# `addressbar-suggest-firefox-suggest`.
+addressbar-locbar-firefox-suggest-learn-more = Argibide gehiago
 addressbar-locbar-history-option =
     .label = Nabigatze-historia
     .accesskey = h
@@ -1225,6 +1234,18 @@ content-blocking-cryptominers-label =
 content-blocking-fingerprinters-label =
     .label = Hatz-marka bidezko jarraipena
     .accesskey = H
+# Browser fingerprinting is a method of tracking users by the configuration and settings information (their "digital fingerprint")
+# that is visible to websites they browse, rather than traditional tracking methods such as IP addresses and unique cookies.
+#
+# The known fingerprinters are those that are known for collecting browser fingerprints from user devices.
+content-blocking-known-fingerprinters-label =
+    .label = Hatz-marka bidezko jarraipena egiten duten elementu ezagunak
+    .accesskey = H
+# The suspected fingerprinters are those that we are uncertain about browser fingerprinting activities. But they could
+# possibly acquire browser fingerprints because of the behavior on accessing APIs that expose browser fingerprints.
+content-blocking-suspected-fingerprinters-label =
+    .label = Susmopeko hatz-marka bidezko jarraipena
+    .accesskey = S
 
 ## Privacy Section - Tracking
 
@@ -1289,6 +1310,8 @@ permissions-addon-exceptions =
 collection-header = { -brand-short-name } datuen bilketa eta erabilera
 collection-header2 = { -brand-short-name } datuen bilketa eta erabilera
     .searchkeywords = telemetria
+preferences-collection-privacy-notice = Ikusi pribatutasun-oharra
+preferences-view-profiles = Ikusi profil guztiak
 collection-description = Aukerak ematen ahalegintzen gara { -brand-short-name } denontzat hobetzeko behar ditugun datuak soilik biltzeko. Informazio pertsonala jaso aurretik zure baimena eskatzen dugu beti.
 collection-privacy-notice = Pribatutasun-oharra
 collection-health-report-telemetry-disabled = Jada ez duzu baimentzen { -vendor-short-name }(e)k datu tekniko eta interakziozkoak kapturatzea. Iraganeko datu guztiak 30 egunen buruan ezabatuko dira.
@@ -1297,6 +1320,9 @@ collection-health-report =
     .label = Baimendu { -brand-short-name }(r)i datu tekniko eta interakziozkoak { -vendor-short-name }ra bidaltzea
     .accesskey = r
 collection-health-report-link = Argibide gehiago
+collection-studies2 =
+    .label = Instalatu eta exekutatu esperimentuak
+collection-studies-description = Probatu eginbide eta ideiak mundu guztiarentzat argitaratu diren aurretik.
 collection-studies =
     .label = Baimendu { -brand-short-name }(e)k esperimentuak instalatu eta exekutatzea
 collection-studies-link = Ikusi { -brand-short-name } esperimentuak
