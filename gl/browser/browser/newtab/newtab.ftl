@@ -11,6 +11,9 @@ newtab-settings-button =
 newtab-customize-panel-icon-button =
     .title = Personalizar esta páxina
 newtab-customize-panel-icon-button-label = Personalizar
+newtab-personalize-settings-icon-label =
+    .title = Personalizar a nova pestana
+    .aria-label = Configuración
 newtab-settings-dialog-label =
     .aria-label = Configuración
 newtab-personalize-icon-label =
@@ -234,6 +237,8 @@ newtab-empty-section-highlights = Comece a navegar e aquí amosarémoslle algún
 # Variables:
 #   $provider (string) - Name of the content provider for this section, e.g "Pocket".
 newtab-empty-section-topstories = Xa está ao día. Regrese máis tarde para ver máis historias de { $provider }. Non pode agardar? Seleccione un tema popular e atopará máis historias interesantes da web.
+# Ex. When there are no more story recommendations, in the space where there would have been stories, this is shown instead.
+newtab-empty-section-topstories-generic = Xa estás ao día. Volve máis tarde para ver máis historias. Non podes esperar? Selecciona un tema popular para atopar máis historias xeniais na web.
 
 ## Empty Section (Content Discovery Experience). These show when there are no more stories or when some stories fail to load.
 
@@ -265,6 +270,9 @@ newtab-pocket-thumbs-up-tooltip =
 # Clicking the thumbs down button for this story informs us that the user does not feel like the story is interesting for them
 newtab-pocket-thumbs-down-tooltip =
     .title = Non para min
+# Used to show the user a message upon clicking the thumbs up or down buttons
+newtab-toast-thumbs-up-or-down2 =
+    .message = Grazas. Os teus comentarios axudaranos a mellorar o teu feed.
 newtab-toast-dismiss-button =
     .title = Rexeitar
     .aria-label = Rexeitar
