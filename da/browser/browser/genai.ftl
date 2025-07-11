@@ -51,11 +51,17 @@ genai-menu-ask-generic =
 # $provider (string) - name of the provider
 genai-menu-ask-provider =
     .label = Spørg { $provider }
+# $provider (string) - name of the provider
+genai-menu-open-provider =
+    .label = Åbn { $provider }
 genai-menu-remove-generic =
     .label = Fjern AI-chatbot
 # $provider (string) - name of the provider
 genai-menu-remove-provider =
     .label = Fjern { $provider }
+genai-menu-remove-sidebar =
+    .label = Fjern fra sidepanel
+genai-menu-new-badge = Ny
 genai-input-ask-generic =
     .placeholder = Spørg AI-chatbot...
 # $provider (string) - name of the provider

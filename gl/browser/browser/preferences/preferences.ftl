@@ -1024,6 +1024,11 @@ autofill-payment-methods-checkbox-message = Gardar e completar os métodos de pa
     .accesskey = m
 autofill-payment-methods-checkbox-submessage = Incluír tarxetas de crédito e débito
     .accesskey = I
+autofill-saved-payment-methods-button = Métodos de pago gardados
+    .accesskey = t
+# This operation requires the user to authenticate with the operating system (device sign-in)
+autofill-reauth-payment-methods-checkbox = Requirir o inicio de sesión no dispositivo para cubrir e xestionar os métodos de pago
+    .accesskey = o
 
 ## Privacy Section - History
 
