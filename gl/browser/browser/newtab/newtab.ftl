@@ -545,14 +545,39 @@ newtab-download-mobile-highlight-title = Descargar { -brand-product-name } para 
 # "Scan the code" refers to scanning the QR code that appears above the body text that leads to Firefox for mobile download.
 newtab-download-mobile-highlight-body-variant-a = Escanea o código para navegar de forma segura en calquera lugar.
 newtab-download-mobile-highlight-body-variant-b = Continúa onde o deixaches cando sincronices as túas pestanas, contrasinais e moito máis.
+newtab-download-mobile-highlight-body-variant-c = Sabías que podes levar { -brand-product-name } contigo? O mesmo navegador. No teu peto.
+newtab-download-mobile-highlight-image =
+    .aria-label = Código QR para descargar { -brand-product-name } para móbiles
 
 ## Strings for shortcuts highlight
 
+newtab-shortcuts-highlight-title = Os teus favoritos na punta dos teus dedos
+newtab-shortcuts-highlight-subtitle = Engade un atallo para manter os teus sitios favoritos a un clic de distancia.
 
 ## Strings for reporting ads and content
 
 newtab-report-content-why-reporting-this =
     .label = Por que informas isto?
+newtab-report-ads-reason-not-interested =
+    .label = Non me interesa
+newtab-report-ads-reason-inappropriate =
+    .label = É inapropiado
+newtab-report-ads-reason-seen-it-too-many-times =
+    .label = Vino demasiadas veces
+newtab-report-content-wrong-category =
+    .label = Categoría incorrecta
+newtab-report-content-outdated =
+    .label = Desactualizado
+newtab-report-content-inappropriate-offensive =
+    .label = Inadecuado ou ofensivo
+newtab-report-content-spam-misleading =
+    .label = Spam ou enganoso
+newtab-report-cancel = Cancelar
+newtab-report-submit = Enviar
+newtab-toast-thanks-for-reporting =
+    .message = Grazas por informar sobre isto.
 
 ## Strings for trending searches
 
+# "Trending on Google" refers to the trending topics coming from Google Search, usually seen when a user is focused on the search bar
+newtab-trending-searches-trending-on-google = Tendencias en Google
