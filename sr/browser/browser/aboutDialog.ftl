@@ -21,7 +21,7 @@ update-updateButton =
            *[other] Поново покрени и ажурирај програм { -brand-shorter-name }
         }
     .accesskey = Р
-update-checkingForUpdates = Провера доступности ажурирања…
+update-checkingForUpdates = Тражи се ажурирање…
 
 ## Variables:
 ##   $transfer (string) - Transfer progress.
