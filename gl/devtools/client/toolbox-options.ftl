@@ -56,6 +56,8 @@ options-default-color-unit-name = Nomes de cores
 
 ## Web Console section
 
+# The heading
+options-webconsole-label = Consola web
 
 ## Style Editor section
 

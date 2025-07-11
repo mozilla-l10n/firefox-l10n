@@ -47,3 +47,4 @@ unified-extensions-mb-quarantined-domain-message-3 =
     .message = Para protexer os seus datos, algunhas extensións non poden ler nin cambiar os datos deste sitio. Use a configuración da extensión para permitir en sitios restrinxidos por { -vendor-short-name }.
 unified-extensions-mb-quarantined-domain-learn-more = Máis información
     .aria-label = Máis información: Algunhas extensións non están permitidas
+unified-extensions-mb-about-addons-link = Ir á configuración da extensión

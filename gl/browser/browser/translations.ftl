@@ -203,10 +203,26 @@ select-translations-panel-to-label = Para
 select-translations-panel-try-another-language-label = Probar outro idioma de orixe
 select-translations-panel-cancel-button =
     .label = Cancelar
+# Text displayed on the copy button before it is clicked.
+select-translations-panel-copy-button =
+    .label = Copiar
+# Text displayed on the copy button after it is clicked.
+select-translations-panel-copy-button-copied =
+    .label = Copiado
+select-translations-panel-done-button =
+    .label = Feito
+select-translations-panel-translate-full-page-button =
+    .label = Traducir a páxina completa
 select-translations-panel-translate-button =
     .label = Traducir
 select-translations-panel-try-again-button =
     .label = Tentar de novo
+# Text displayed as a placeholder when the panel is idle.
+select-translations-panel-idle-placeholder-text = O texto traducido aparecerá aquí.
+# Text displayed as a placeholder when the panel is actively translating.
+select-translations-panel-translating-placeholder-text = Traducindo…
+select-translations-panel-init-failure-message =
+    .message = Non se puideron cargar os idiomas. Comproba a túa conexión a Internet e téntao de novo.
 # Text displayed when the translation fails to complete.
 select-translations-panel-translation-failure-message =
     .message = Houbo un problema ao traducir. Por favor, ténteo de novo.
@@ -220,3 +236,8 @@ select-translations-panel-unsupported-language-message-known =
     .message = Sentímolo, aínda non admitimos o { $language }.
 select-translations-panel-unsupported-language-message-unknown =
     .message = Sentímolo, aínda non admitimos este idioma.
+# Text displayed on the menuitem that opens the Translation Settings page.
+select-translations-panel-open-translations-settings-menuitem =
+    .label = Configuración da tradución
+# An announcement made to assistive technology when the translation is complete
+select-translations-panel-translation-complete-announcement = Tradución completa

@@ -71,6 +71,8 @@ perftools-button-edit-settings = Editar a gravación…
 
 ## More actions menu
 
+perftools-menu-more-actions-button =
+    .title = Máis accións
 
 ## These messages are descriptions of the threads that can be enabled for the profiler.
 
