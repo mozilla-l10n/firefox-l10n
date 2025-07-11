@@ -1154,6 +1154,7 @@ cookie-banner-handling-description = { -brand-short-name } intenta automaticamen
 ## Privacy Section - Cookie Banner Blocking
 
 cookie-banner-blocker-header = Bloqueador de aviso de cookies
+cookie-banner-blocker-description = Cando un sitio pregunta se pode usar cookies no modo de navegación privada, { -brand-short-name } rexéitaas automaticamente por ti. Só nos sitios compatibles.
 cookie-banner-learn-more = Máis información
 forms-handle-cookie-banners =
     .label = Reducir os avisos de cookies
@@ -1164,6 +1165,13 @@ cookie-banner-blocker-checkbox-label =
 
 addressbar-header = Barra de enderezos
 addressbar-suggest = Cando use a barra de enderezos, suxerir do
+# When Firefox Suggest is enabled, this replaces `addressbar-header`.
+addressbar-header-firefox-suggest = Barra de enderezos — { -firefox-suggest-brand-name }
+# When Firefox Suggest is enabled, this replaces `addressbar-suggest`.
+addressbar-suggest-firefox-suggest = Escolle o tipo de suxestións que aparecen na barra de enderezos.
+# When Firefox Suggest is enabled, a "Learn more" link appears at the end of
+# `addressbar-suggest-firefox-suggest`.
+addressbar-locbar-firefox-suggest-learn-more = Máis información
 addressbar-locbar-history-option =
     .label = Historial de navegación
     .accesskey = H
@@ -1193,6 +1201,9 @@ addressbar-suggestions-settings = Cambiar as preferencias relacionadas coas suxe
 addressbar-locbar-showrecentsearches-option =
     .label = Mostrar buscas recentes
     .accesskey = r
+addressbar-locbar-showtrendingsuggestions-option =
+    .label = Mostrar as suxestións de busca en tendencia
+    .accesskey = t
 addressbar-locbar-suggest-nonsponsored-desc = Recibe suxestións da web relacionadas coa túa busca.
 addressbar-quickactions-learn-more = Máis información
 addressbar-restore-dismissed-suggestions-description = Restaura as suxestións descartadas dos patrocinadores e de { -brand-short-name }.
