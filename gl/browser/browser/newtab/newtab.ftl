@@ -305,6 +305,9 @@ newtab-custom-row-selector =
 newtab-custom-sponsored-sites = Atallos patrocinados
 newtab-custom-pocket-title = Recomendado por { -pocket-brand-name }
 newtab-custom-pocket-subtitle = Contido excepcional patrocinado por { -pocket-brand-name }, parte da familia { -brand-product-name }
+newtab-custom-stories-toggle =
+    .label = Historias recomendadas
+    .description = Contido excepcional seleccionado pola familia de { -brand-product-name }
 newtab-custom-pocket-sponsored = Historias patrocinadas
 newtab-custom-pocket-show-recent-saves = Mostrar o gardado recentemente
 newtab-custom-recent-title = Actividade recente
@@ -315,6 +318,9 @@ newtab-custom-recent-toggle =
 newtab-custom-weather-toggle =
     .label = Tempo
     .description = Predición de hoxe dunha ollada
+newtab-custom-trending-search-toggle =
+    .label = Tendencias de busca
+    .description = Temas populares e buscados con frecuencia
 newtab-custom-close-button = Pechar
 newtab-custom-settings = Xestionar máis axustes
 
@@ -327,6 +333,7 @@ newtab-wallpaper-custom-color = Escolle unha cor
 # Variables
 #   $file_size (number) - The number of the maximum image file size (in MB) that may be uploaded
 newtab-wallpaper-error-max-file-size = A imaxe superou o límite de tamaño do ficheiro de { $file_size }MB. Proba a subir un ficheiro máis pequeno.
+newtab-wallpaper-error-file-type = Non puidemos cargar o teu ficheiro. Téntao de novo cun tipo de ficheiro diferente.
 newtab-wallpaper-light-red-panda = Panda vermello
 newtab-wallpaper-light-mountain = Montaña branca
 newtab-wallpaper-light-sky = Ceo con nubes rosas e vermellas
@@ -336,13 +343,18 @@ newtab-wallpaper-light-beach = Praia con palmeira
 newtab-wallpaper-dark-aurora = Aurora boreal
 newtab-wallpaper-dark-color = Formas vermellas e azuis
 newtab-wallpaper-dark-panda = Panda vermello escondido no bosque
+newtab-wallpaper-dark-sky = Paisaxe da cidade cun ceo nocturno
 newtab-wallpaper-dark-mountain = Paisaxe de montaña
+newtab-wallpaper-dark-city = Paisaxe de cidade púrpura
+newtab-wallpaper-dark-fox-anniversary = Un raposo no pavimento preto dun bosque
+newtab-wallpaper-light-fox-anniversary = Un raposo nun campo herboso cunha paisaxe de montaña brumosa
 
 ## Solid Colors
 
 newtab-wallpaper-category-title-colors = Cores sólidas
 newtab-wallpaper-blue = Azul
 newtab-wallpaper-light-blue = Azul claro
+newtab-wallpaper-light-purple = Púrpura claro
 newtab-wallpaper-light-green = Verde claro
 newtab-wallpaper-green = Verde
 newtab-wallpaper-beige = Beixe
@@ -364,6 +376,7 @@ newtab-wallpaper-abstract-blue = Formas azuis
 newtab-wallpaper-abstract-purple = Formas violetas
 newtab-wallpaper-abstract-orange = Formas laranxas
 newtab-wallpaper-gradient-orange = Degradado laranxa e rosa
+newtab-wallpaper-abstract-blue-purple = Formas azuis e moradas
 newtab-wallpaper-abstract-white-curves = Branco con curvas sombreadas
 newtab-wallpaper-abstract-purple-green = Degradado de luz violeta e verde
 newtab-wallpaper-abstract-blue-purple-waves = Formas onduladas azuis e moradas
@@ -378,6 +391,12 @@ newtab-wallpaper-storm-sky = Ceo de tormenta
 newtab-wallpaper-sky-with-pink-clouds = Ceo con nubes rosas
 newtab-wallpaper-red-panda-yawns-in-a-tree = Un panda vermello bocexa nunha árbore
 newtab-wallpaper-white-mountains = Montañas brancas
+newtab-wallpaper-hot-air-balloons = Cores variados de globos aerostáticos durante o día.
+newtab-wallpaper-starry-canyon = Noite estrelada azul
+newtab-wallpaper-suspension-bridge = Fotografía dunha ponte colgante gris durante o día
+newtab-wallpaper-sand-dunes = Dunas de area branca
+newtab-wallpaper-palm-trees = Silueta de cocoteiros durante a hora dourada
+newtab-wallpaper-blue-flowers = Fotografía en detalle de flores de pétalos azuis en flor
 # Variables
 #   $author_string (String) - The name of the creator of the photo.
 #   $webpage_string (String) - The name of the webpage where the photo is located.
@@ -385,6 +404,10 @@ newtab-wallpaper-attribution = Foto de <a data-l10n-name="name-link">{ $author_s
 newtab-wallpaper-feature-highlight-header = Probar un toque de cor
 newtab-wallpaper-feature-highlight-content = Dálle un aspecto novo á túa nova pestana con fondos de pantalla.
 newtab-wallpaper-feature-highlight-button = Entendido
+# Tooltip for dismiss button
+feature-highlight-dismiss-button =
+    .title = Rexeitar
+    .aria-label = Pechar ventá emerxente
 feature-highlight-wallpaper =
     .title = { -newtab-wallpaper-feature-highlight-header }
     .aria-label = { -newtab-wallpaper-feature-highlight-content }
@@ -481,6 +504,9 @@ newtab-topic-selection-button-pick-interests = Seleccionar os seus intereses
 newtab-section-follow-button = Seguir
 newtab-section-following-button = Seguindo
 newtab-section-unfollow-button = Deixar de seguir
+# A modal may appear next to the Follow button, directing users to try out the feature
+newtab-section-follow-highlight-title = Axusta o teu feed
+newtab-section-follow-highlight-subtitle = Sigue os teus intereses para ver máis do que che gusta.
 
 ## Button to block/unblock listed topics
 ## "Block", "unblocked", and "blocked" are social media terms that refer to hiding a section of stories.
@@ -494,13 +520,23 @@ newtab-section-unblock-button = Desbloquear
 
 newtab-section-cancel-button = Agora non
 newtab-section-confirm-block-topic-p1 = Estás seguro de que queres bloquear este tema?
+newtab-section-confirm-block-topic-p2 = Os temas bloqueados xa non aparecerán no teu feed.
+# Variables:
+#   $topic (string) - Name of topic that user is blocking
+newtab-section-block-topic-button = Bloquear { $topic }
 
 ## Strings for custom wallpaper highlight
 
 newtab-section-mangage-topics-title = Temas
+newtab-section-manage-topics-button-v2 =
+    .label = Xestionar temas
+newtab-section-mangage-topics-followed-topics = Seguido
 newtab-section-mangage-topics-followed-topics-empty-state = Aínda non segues ningún tema.
 newtab-section-mangage-topics-blocked-topics = Bloqueado
 newtab-section-mangage-topics-blocked-topics-empty-state = Aínda non bloqueaches ningún tema.
+newtab-custom-wallpaper-title = Os fondos de pantalla personalizados están aquí
+# 'Make firefox yours" means to customize or personalize
+newtab-custom-wallpaper-subtitle = Carga o teu propio fondo de pantalla ou escolle unha cor personalizada para personalizar { -brand-product-name }.
 
 ## Strings for download mobile highlight
 

@@ -361,6 +361,7 @@ onboarding-new-user-survey-next-button-label = Seguinte
 onboarding-new-user-survey-time-based-option-1 = Son novo
 onboarding-new-user-survey-time-based-option-2 = Menos de 1 mes
 onboarding-new-user-survey-time-based-option-3 = Máis de 1 mes, regularmente
+onboarding-new-user-survey-time-based-option-4 = Máis de 1 mes, ocasionalmente
 # When translating "brand new" it means completely new.
 onboarding-new-user-survey-familiarity-based-option-1 = Son novo
 onboarding-new-user-survey-familiarity-based-option-2 = Useino algo
