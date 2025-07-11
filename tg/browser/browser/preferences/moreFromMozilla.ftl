@@ -43,3 +43,4 @@ more-from-moz-solo-button = «{ -solo-ai-brand-name }»-ро озмоед
 ## These strings are for the MDN card in about:preferences moreFromMozilla page
 
 more-from-moz-mdn-title = Ҳуҷҷатҳои интернетии «MDN»
+more-from-moz-mdn-button = Омӯзиши сомонасозӣ ва коркарди веб
