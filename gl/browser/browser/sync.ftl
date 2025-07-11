@@ -53,8 +53,29 @@ sync-setup-verify-description = Un usuario diferente iniciou sesión previamente
 # Dialog 1 - different account signing in without option to merge
 sync-profile-different-account-title = Alcanzouse o límite da conta para este perfil
 sync-profile-different-account-header = Este perfil sincronizouse previamente cunha conta diferente
+# Variables:
+#   $acctEmail (String) - Email of the account signing into sync.
+sync-profile-different-account-description = Para manter os teus datos organizados e seguros, cada perfil de { -brand-product-name } só se pode sincronizar cunha conta. Para iniciar sesión usando { $acctEmail }, crea un novo perfil.
+# Dialog 1 - different account signing in with merge option
+sync-profile-different-account-title-merge = Perfil sincronizado cunha conta diferente
+# Variables:
+#   $acctEmail (String) - Email of the account signing into sync.
+#   $profileName (String) - Name of the current profile
+sync-profile-different-account-description-merge = Para manter os teus datos organizados e seguros, recomendámosche que crees un novo perfil para iniciar sesión usando { $acctEmail }. Se decides continuar a sincronización neste perfil, os datos de ambas contas fusionaranse permanentemente en «{ $profileName }».
 # Dialog 2 - account signed in on another profile without option to merge
 sync-account-in-use-header = Conta xa en uso
+# Variables:
+#   $acctEmail (String) - Email of the account signing into sync.
+#   $otherProfile (String) - Name of the other profile that is associated with the account
+sync-account-in-use-header-merge = { $acctEmail } xa iniciou sesión no perfil «{ $otherProfile }».
+sync-account-in-use-description = Só podes asociar esta conta cun perfil neste ordenador.
+# Dialog 2 - account signed in on another profile with merge option
+sync-account-already-signed-in-header = Esta conta iniciou sesión noutro perfil. Queres sincronizar ambos perfís?
+# Variables:
+#   $acctEmail (String) - Email of the account signing into sync.
+#   $currentProfile (String): Name of the current profile signing in
+#   $otherProfile (String): Name of the profile that is already signed in
+sync-account-in-use-description-merge = { $acctEmail } ten a sesión iniciada no perfil «{ $otherProfile }» neste ordenador. Ao sincronizar o perfil «{ $currentProfile }» combinaranse de forma permanente os datos de ambos perfís, como contrasinais e marcadores.
 # Variables:
 #   $profileName (String) - Name of the profile to switch to
 sync-button-switch-profile = Cambiar a «{ $profileName }»

@@ -133,3 +133,11 @@ tab-context-send-tabs-to-device =
            *[other] Enviar { $tabCount } lapelas ao dispositivo
         }
     .accesskey = n
+tab-context-unload-n-tabs =
+    .label =
+        { $tabCount ->
+            [1] Descargar pestana
+            [one] Descargar pestana
+           *[other] Descargar { $tabCount } pestanas
+        }
+    .accesskey = D

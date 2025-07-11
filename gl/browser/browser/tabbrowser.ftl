@@ -134,6 +134,7 @@ tabbrowser-confirm-close-tabs-with-key-checkbox = Confirmar antes de saír con {
 ## Confirmation dialog when quitting using the keyboard shortcut (Ctrl/Cmd+Q)
 ## and browser.warnOnQuitShortcut is true.
 
+tabbrowser-confirm-close-warn-shortcut-title = Saír de { -brand-short-name } ou pechar a pestana actual?
 tabbrowser-confirm-close-windows-warn-shortcut-button =
     { PLATFORM() ->
         [windows] Saír de { -brand-short-name }
@@ -162,7 +163,11 @@ tabbrowser-confirm-caretbrowsing-checkbox = Non amosar esta caixa de diálogo de
 ## Confirmation dialog for closing all duplicate tabs
 
 tabbrowser-confirm-close-duplicate-tabs-title = Atención
+tabbrowser-confirm-close-duplicate-tabs-text = Manteremos aberta a última pestana activa
 tabbrowser-confirm-close-all-duplicate-tabs-title = Pechar as pestanas duplicadas?
+tabbrowser-confirm-close-all-duplicate-tabs-text =
+    Pecharemos as pestanas duplicadas nesta ventá. A última pestana
+    activa permanecerá aberta.
 tabbrowser-confirm-close-all-duplicate-tabs-button-closetabs = Pechar pestanas
 
 ##
@@ -210,6 +215,11 @@ tabbrowser-manager-unmute-tab =
     .tooltiptext = Desenmudecer lapela
 tabbrowser-manager-close-tab =
     .tooltiptext = Pechar lapela
+# This is for tab groups that have been "saved and closed" (see tab-group-editor-action-save). It does
+# not include "deleted" tab groups (see tab-group-editor-action-delete).
+tabbrowser-manager-closed-tab-group =
+    .label = { $tabGroupName }
+    .tooltiptext = { $tabGroupName } — Pechado
 tabbrowser-manager-current-window-tab-group =
     .label = { $tabGroupName }
     .tooltiptext = { $tabGroupName } — Ventá actual
@@ -255,6 +265,22 @@ tab-group-name-default = Grupo sen nome
 ## Variables:
 ##  $tabCount (Number): the number of tabs that are affected by the action.
 
+tab-context-move-tab-to-new-group =
+    .label =
+        { $tabCount ->
+            [1] Engadir pestana ao novo grupo
+            [one] Engadir pestana ao novo grupo
+           *[other] Engadir pestanas ao novo grupo
+        }
+    .accesskey = g
+tab-context-move-tab-to-group =
+    .label =
+        { $tabCount ->
+            [1] Engadir pestana ao grupo
+            [one] Engadir pestana ao grupo
+           *[other] Engadir pestanas ao grupo
+        }
+    .accesskey = g
 tab-context-move-tab-to-group-saved-groups =
     .label = Grupos pechados
 tab-group-editor-action-new-tab =
@@ -272,6 +298,16 @@ tab-group-editor-done =
     .accessKey = F
 tab-context-reopen-tab-group =
     .label = Reabrir grupo de pestanas
+# Variables:
+#  $groupCount (Number): the number of tab groups that are affected by the action.
+tab-context-ungroup-tab =
+    .label =
+        { $groupCount ->
+            [1] Eliminar do grupo
+            [one] Eliminar do grupo
+           *[other] Eliminar dos grupos
+        }
+    .accesskey = r
 
 ## Open/saved tab group context menu
 
