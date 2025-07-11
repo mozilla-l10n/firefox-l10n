@@ -12,6 +12,8 @@ neterror-blocked-by-policy-page-title = Páxina bloqueada
 neterror-captive-portal-page-title = Identificarse na rede
 neterror-dns-not-found-title = Non se atopou o servidor
 neterror-malformed-uri-page-title = URL non válido
+general-body-title = Teña coidado. Algo non parece estar ben.
+problem-with-this-site-title = Parece que hai un problema con este sitio
 
 ## Error page actions
 
@@ -41,6 +43,8 @@ neterror-generic-error = Non é posíbel que { -brand-short-name } cargue esta p
 neterror-load-error-try-again = O sitio podería estar non dispoñíbel temporalmente ou estar demasiado saturado. Tente acceder de novo nuns minutos
 neterror-load-error-connection = Se non consegue cargar algunhas páxinas, comprobe a conexión de rede do computador.
 neterror-load-error-firewall = Se o computador ou a rede están protexidos por unha devasa ou proxy, asegúrese que { -brand-short-name } ten permiso para acceder á Web.
+# This warning is only shown on macOS Sequoia and later (see bug 1929377)
+neterror-load-osx-permission = Se estás tentando cargar unha páxina da rede local, comproba que { -brand-short-name } teña permisos de rede local na configuración de privacidade e seguranza de macOS.
 neterror-captive-portal = Debe identificarse nesta rede antes de que poida acceder á Internet.
 # Variables:
 # $hostAndPath (String) - a suggested site (e.g. "www.example.com") that the user may have meant instead.
