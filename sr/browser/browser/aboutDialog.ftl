@@ -12,15 +12,6 @@ releaseNotes-link = Шта је ново
 update-checkForUpdatesButton =
     .label = Потражи ажурирање
     .accesskey = П
-update-updateButton =
-    .label =
-        { -brand-shorter-name.gender ->
-            [masculine] Поново покрени и ажурирај { -brand-shorter-name(case: "acc") }
-            [feminine] Поново покрени и ажурирај { -brand-shorter-name(case: "acc") }
-            [neuter] Поново покрени и ажурирај { -brand-shorter-name(case: "acc") }
-           *[other] Поново покрени и ажурирај програм { -brand-shorter-name }
-        }
-    .accesskey = Р
 update-checkingForUpdates = Тражи се ажурирање…
 
 ## Variables:
@@ -43,13 +34,7 @@ update-noUpdatesFound =
        *[other] Програм { -brand-short-name } је ажуран
     }
 aboutdialog-update-checking-failed = Провера ажурирања није успела.
-update-otherInstanceHandlingUpdates =
-    { -brand-short-name.gender ->
-        [masculine] { -brand-short-name } се ажурира у другом примерку
-        [feminine] { -brand-short-name } се ажурира у другом примерку
-        [neuter] { -brand-short-name } се ажурира у другом примерку
-       *[other] Програм { -brand-short-name } се ажурира у другом примерку
-    }
+update-otherInstanceHandlingUpdates = { -brand-short-name } се ажурира у другој инстанци
 
 ## Variables:
 ##   $displayUrl (String): URL to page with download instructions. Example: www.mozilla.org/firefox/nightly/
