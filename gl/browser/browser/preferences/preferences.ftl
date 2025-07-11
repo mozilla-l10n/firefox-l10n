@@ -1204,8 +1204,15 @@ addressbar-locbar-showrecentsearches-option =
 addressbar-locbar-showtrendingsuggestions-option =
     .label = Mostrar as suxestións de busca en tendencia
     .accesskey = t
+# Nonsponsored suggestions refers to Firefox Suggest suggestions like Wikipedia.
+addressbar-locbar-suggest-nonsponsored-option =
+    .label = Suxestións de { -brand-short-name }
 addressbar-locbar-suggest-nonsponsored-desc = Recibe suxestións da web relacionadas coa túa busca.
+addressbar-locbar-suggest-sponsored-option =
+    .label = Suxestións dos patrocinadores
+addressbar-locbar-suggest-sponsored-desc = Apoia a { -brand-short-name } con suxestións patrocinadas ocasionais.
 addressbar-quickactions-learn-more = Máis información
+addressbar-dismissed-suggestions-label = Suxestións descartadas
 addressbar-restore-dismissed-suggestions-description = Restaura as suxestións descartadas dos patrocinadores e de { -brand-short-name }.
 addressbar-restore-dismissed-suggestions-button =
     .label = Restaurar
@@ -1216,6 +1223,10 @@ content-blocking-enhanced-tracking-protection = Protección mellorada contra o r
 content-blocking-section-top-level-description = Os rastrexadores seguen a súa presenza para recoller información sobre os seus hábitos e intereses de navegación. { -brand-short-name } bloquea moitos destes rastrexadores e outros scripts maliciosos.
 content-blocking-learn-more = Máis información
 content-blocking-fpi-incompatibility-warning = Está a usar Illamento de Primeiras Partes (First Party Isolation, FPI), que anula algúns dos axustes de cookies de { -brand-short-name }.
+# There is no need to translate "Resist Fingerprinting (RFP)". This is a
+# feature that can only be enabled via about:config, and it's not exposed to
+# standard users (e.g. via Settings).
+content-blocking-rfp-incompatibility-warning = Estás a usar Resist Fingerprinting (RFP), que substitúe algunhas das configuracións de protección de pegadas dixitais de { -brand-short-name }. Isto pode provocar que algúns sitios se rompan.
 
 ## These strings are used to define the different levels of
 ## Enhanced Tracking Protection.
