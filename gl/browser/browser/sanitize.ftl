@@ -76,6 +76,7 @@ item-cookies-site-data-with-size =
 item-cookies-site-data =
     .label = Cookies e datos do sitio
     .accesskey = e
+item-cookies-site-data-description = Podes pechar a sesión en sitios o baleirar os carros da compra
 item-active-logins =
     .label = Sesións activas
     .accesskey = S
