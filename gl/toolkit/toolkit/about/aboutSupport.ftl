@@ -15,6 +15,10 @@ support-addons-type = Tipo
 support-addons-enabled = Activado
 support-addons-version = Versión
 support-addons-id = ID
+# In the add-on world, locations are where the addon files are stored. Each
+# location has name. For instance: app-system-addons, app-builtin,
+# app-temporary, etc.
+support-addons-location-name = Localización
 legacy-user-stylesheets-title = Follas de estilo de usuario herdadas
 legacy-user-stylesheets-enabled = Activo
 legacy-user-stylesheets-stylesheet-types = Follas de estilo
@@ -181,6 +185,8 @@ media-capabilities-enumerate = Enumerar a base de datos
 
 media-codec-support-sw-decoding = Decodificación por software
 media-codec-support-hw-decoding = Decodificación por hardware
+media-codec-support-sw-encoding = Codificación por software
+media-codec-support-hw-encoding = Codificación por hardware
 media-codec-support-codec-name = Nome do códec
 media-codec-support-supported = Compatible
 media-codec-support-unsupported = Non compatible
@@ -191,6 +197,8 @@ media-codec-support-lack-of-extension = Instalar extensión
 ## See EME Spec for more explanation for following technical terms
 ## https://w3c.github.io/encrypted-media/
 
+media-content-decryption-modules-title = Información dos módulos de descifrado de contido
+media-key-system-name = Nome do sistema de claves
 media-video-robustness = Robusteza do vídeo
 media-audio-robustness = Robusteza do audio
 media-cdm-capabilities = Capacidades

@@ -11,6 +11,7 @@ about-httpsonly-explanation-question = Que podería estar provocando isto?
 about-httpsonly-explanation-nosupport = O máis probable é que o sitio web simplemente non admite HTTPS.
 about-httpsonly-explanation-risk = Tamén é posible que estea implicado un atacante. Se decide visitar o sitio web, non debe introducir información confidencial como contrasinais, correos electrónicos ou detalles da tarxeta de crédito.
 about-httpsonly-explanation-continue = Se continúa, o modo con só HTTPS será desactivado temporalmente para este sitio.
+about-httpsonly-explanation-iframe = Debido ao bloqueo de contido mixto, non é posible permitir que este cadro se cargue manualmente.
 about-httpsonly-button-continue-to-site = Continuar ao sitio con HTTP
 about-httpsonly-button-go-back = Ir atrás
 about-httpsonly-link-learn-more = Saber máis…
