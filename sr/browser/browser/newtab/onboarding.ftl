@@ -342,7 +342,7 @@ mr2022-onboarding-colorways-image-alt =
 onboarding-device-migration-image-alt =
     .aria-label = Лисица маше на екрану лаптопа. Миш је повезан са лаптопом.
 onboarding-device-migration-title = Добродошли назад!
-onboarding-device-migration-subtitle = Пријавите се у ваш { -fxaccount-brand-name(capitalization: "sentence") } да бисте пренели ваше обележиваче, лозинке и историју на нови уређај.
+onboarding-device-migration-subtitle = Пријавите се на { -fxaccount-brand-name(case: "acc") } да бисте пренели обележиваче, лозинке и историју на нови уређај.
 onboarding-device-migration-subtitle2 = Пријавите се у ваш налог да са собом понесете обележиваче, лозинке и историју на ваш нови уређај.
 onboarding-device-migration-primary-button-label = Пријави се
 

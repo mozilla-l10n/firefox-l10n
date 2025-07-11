@@ -41,7 +41,7 @@ policy-DisableDefaultBrowserAgent = Спречава подразумевано�
 policy-DisableDeveloperTools = Блокирај приступ програмерским алаткама.
 policy-DisableEncryptedClientHello = Онемогући употребу TLS функције Encrypted Client Hello (ECH).
 policy-DisableFeedbackCommands = Онемогући наредбе за слање повратних информација из менија „Помоћ“ (опције „Пошаљи повратне информације“ и „Пријави обманљив сајт“).
-policy-DisableFirefoxAccounts = Онемогући { -fxaccount-brand-name } услуге, укључујући Sync.
+policy-DisableFirefoxAccounts = Онемогућите услуге засноване на { -fxaccount-brand-name(case: "loc") }, укључујући синхронизацију.
 # This string is in the process of being deprecated in favor of policy-DisableAccounts.
 policy-DisableFirefoxAccounts1 = Онемогући услуге преко налога, укључујући синхронизацију.
 # Firefox Screenshots is the name of the feature, and should not be translated.
