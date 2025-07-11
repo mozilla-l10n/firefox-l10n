@@ -188,6 +188,7 @@ shopping-callout-closed-opted-in-subtitle = Volver ao <strong>verificador de rec
 shopping-callout-pdp-opted-in-title = Son fiables estas recensións? Descúbrao rápido.
 shopping-callout-pdp-opted-in-subtitle = Abre o verificador de recensións para ver unha valoración axustada coas recensións non fiables eliminadas. Ademais, consulta os aspectos máis destacados das recensións auténticas recentes.
 shopping-callout-closed-not-opted-in-title = Un clic para comentarios fiables
+shopping-callout-closed-not-opted-in-subtitle = Proba o verificador de recensions sempre que vexas a etiqueta co prezo. Obtén rapidamente información de compradores reais, antes de comprar.
 shopping-callout-closed-not-opted-in-revised-title = Un clic para obter recensións fiables
 shopping-callout-closed-not-opted-in-revised-button = Entendido
 shopping-callout-not-opted-in-reminder-title = Comprar con confianza
