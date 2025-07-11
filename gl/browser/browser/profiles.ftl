@@ -92,6 +92,8 @@ profiles-marigold-theme-2 = Amarelo caléndula
 profiles-lavender-theme-2 = Lavanda pálida
 # This light theme features very pale green tones. Its name evokes the color of pale green mint ice cream. This name can be translated directly if it's easily understood in your language, or adapted to a more natural sounding name that fits the color scheme.
 profiles-lichen-theme-2 = Verde menta
+# This dark theme features forest green, dusky green with a gray undertone, and a muted sage green. Its name evokes the rich color of green moss in the forest. This name can be translated directly if its easily understood in your language, or adapted to a more natural sounding name that fits the color scheme.
+profiles-moss-theme-2 = Verde musgo
 
 ## Alternative text for default profile icons
 
@@ -99,6 +101,16 @@ book-avatar-alt =
     .alt = Libro
 briefcase-avatar-alt =
     .alt = Maletín
+star-avatar-alt =
+    .alt = Estrela
+custom-avatar-alt =
+    .alt = Avatar personalizado
 
 ## Labels for default avatar icons
 
+book-avatar = Libro
+briefcase-avatar = Maletín
+flower-avatar = Flor
+heart-avatar = Corazón
+shopping-avatar = Carro da compra
+star-avatar = Estrela

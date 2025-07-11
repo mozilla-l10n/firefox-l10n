@@ -34,6 +34,14 @@ protections-panel-site-not-working-view =
 ## custom element code.
 ##   $host (String): the hostname of the site that is being displayed.
 
+protections-panel-etp-toggle-on =
+    .label = Protección mellorada contra o rastrexo
+    .description = Activado para este sitio
+    .aria-label = Protección mellorada contra o rastrexo: Activado para { $host }
+protections-panel-etp-toggle-off =
+    .label = Protección mellorada contra o rastrexo
+    .description = Desactivado para este sitio
+    .aria-label = Protección mellorada contra o rastrexo: Desactivado para { $host }
 
 ## The "Allowed" header also includes a "Why?" link that, when hovered, shows
 ## a tooltip explaining why these items were not blocked in the page.
@@ -66,6 +74,13 @@ protections-panel-not-found-label = Nada detectado
 
 ## Smartblock strings
 
+protections-panel-smartblock-desc-label = { -brand-short-name } bloquea o rastrexo do contido mentres estás neste sitio a menos que o permitas.
+# Variables
+#  $trackername (String): the name of the tracker that is currently being blocked.
+protections-panel-smartblock-blocking-toggle =
+    .label = Permitir { $trackername }
+#  $trackername (String): the name of the tracker that is currently being blocked.
+smartblock-placeholder-title = Rastrexadores e contido de { $trackername } bloqueados
 
 ##
 
