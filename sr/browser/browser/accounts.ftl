@@ -44,7 +44,7 @@ account-send-tab-to-device-verify = Потврдите ваш налог…
 
 # The title shown in a notification when either this device or another device
 # has connected to, or disconnected from, a Firefox account.
-account-connection-title = { -fxaccount-brand-name(capitalization: "title") }
+account-connection-title = { -fxaccount-brand-name }
 # The title shown in a notification when either this device or another device
 # has connected to, or disconnected from, a Firefox account.
 account-connection-title-2 = Налог
