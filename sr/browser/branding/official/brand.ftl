@@ -19,64 +19,70 @@
 
 -brand-shorter-name =
     { $case ->
-       *[nom] Firefox
         [gen] Firefox-а
         [dat] Firefox-у
         [acc] Firefox
         [ins] Firefox-ом
         [loc] Firefox-у
+       *[nom] Firefox
     }
     .gender = masculine
+    .declinable = true
 -brand-short-name =
     { $case ->
-       *[nom] Firefox
         [gen] Firefox-а
         [dat] Firefox-у
         [acc] Firefox
         [ins] Firefox-ом
         [loc] Firefox-у
+       *[nom] Firefox
     }
     .gender = masculine
+    .declinable = true
 -brand-shortcut-name =
     { $case ->
-       *[nom] Firefox
         [gen] Firefox-а
         [dat] Firefox-у
         [acc] Firefox
         [ins] Firefox-ом
         [loc] Firefox-у
+       *[nom] Firefox
     }
     .gender = masculine
+    .declinable = true
 -brand-full-name =
     { $case ->
-       *[nom] Mozilla Firefox
         [gen] Mozilla Firefox-а
         [dat] Mozilla Firefox-у
         [acc] Mozilla Firefox
         [ins] Mozilla Firefox-ом
         [loc] Mozilla Firefox-у
+       *[nom] Mozilla Firefox
     }
     .gender = masculine
+    .declinable = true
 # This brand name can be used in messages where the product name needs to
 # remain unchanged across different versions (Nightly, Beta, etc.).
 -brand-product-name =
     { $case ->
-       *[nom] Firefox
         [gen] Firefox-а
         [dat] Firefox-у
         [acc] Firefox
         [ins] Firefox-ом
         [loc] Firefox-у
+       *[nom] Firefox
     }
     .gender = masculine
+    .declinable = true
 -vendor-short-name =
     { $case ->
-       *[nom] Mozilla
         [gen] Mozill-е
         [dat] Mozill-и
         [acc] Mozill-у
         [ins] Mozill-ом
         [loc] Mozill-и
+       *[nom] Mozilla
     }
     .gender = feminine
+    .declinable = true
 trademarkInfo = Firefox и његови логотипи су жигови организације Mozilla Foundation.
