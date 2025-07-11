@@ -7,6 +7,8 @@ profile-window-body = Mantén a túa navegación laboral e persoal, incluíndo c
 # This checkbox appears in the Choose profile window that appears when the browser is opened. "Show this" refers to this window, which is displayed when the checkbox is enabled.
 profile-window-checkbox-label-2 =
     .label = Escolle un perfil cando se abra { -brand-short-name }
+# This subcopy appears below the checkbox when it is unchecked
+profile-window-checkbox-subcopy = { -brand-short-name } abrirase no teu perfil usado máis recentemente.
 profile-window-create-profile = Crear un perfil
 profile-card-edit-button =
     .title = Editar perfil
@@ -97,6 +99,12 @@ profiles-marigold-theme-2 = Amarelo caléndula
 profiles-lavender-theme-2 = Lavanda pálida
 # This light theme features very pale green tones. Its name evokes the color of pale green mint ice cream. This name can be translated directly if it's easily understood in your language, or adapted to a more natural sounding name that fits the color scheme.
 profiles-lichen-theme-2 = Verde menta
+# This light theme features various shades of pink ranging from pale to bold. Its name evokes the color of a pink magnolia flower. This name can be translated directly if it's easily understood in your language, or adapted to a more natural sounding name that fits the color scheme.
+profiles-magnolia-theme-2 = Rosa magnolia
+# Ocean blue is a dark theme that features very dark blues and black. Its name evokes the color of the deep ocean water. This name can be translated directly if it's easily understood in your language, or adapted to a more natural sounding name that fits the color scheme.
+profiles-ocean-theme-2 = Azul océano
+# This dark theme features warm oranges, dark mahogany browns, and earthy red/brown colors. The name evokes the earthy colors of brick masonry. This name can be translated directly if it's easily understood in your language, or adapted to a more natural sounding name that fits the color scheme.
+profiles-terracotta-theme-2 = Vermello ladrillo
 # This dark theme features forest green, dusky green with a gray undertone, and a muted sage green. Its name evokes the rich color of green moss in the forest. This name can be translated directly if its easily understood in your language, or adapted to a more natural sounding name that fits the color scheme.
 profiles-moss-theme-2 = Verde musgo
 
@@ -106,6 +114,12 @@ book-avatar-alt =
     .alt = Libro
 briefcase-avatar-alt =
     .alt = Maletín
+flower-avatar-alt =
+    .alt = Flor
+heart-avatar-alt =
+    .alt = Corazón
+shopping-avatar-alt =
+    .alt = Carro da compra
 star-avatar-alt =
     .alt = Estrela
 custom-avatar-alt =
