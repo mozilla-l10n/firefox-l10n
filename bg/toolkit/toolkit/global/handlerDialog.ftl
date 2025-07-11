@@ -10,6 +10,7 @@
 ##  $appName (string) - Name of the application that will be opened.
 ##  $extension (string) - Name of extension that initiated the request
 
+permission-dialog-description-app = Да се разреши ли на този сайт да отваря връзки { $scheme } с { $appName }?
 permission-dialog-description-host-app = Разрешаване на { $host } да направи { $scheme } свързване с { $appName }?
 
 ## Please keep the emphasis around the hostname and scheme (ie the
