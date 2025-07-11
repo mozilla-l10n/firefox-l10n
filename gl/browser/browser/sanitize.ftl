@@ -19,6 +19,7 @@ sanitize-dialog-title-everything =
     .title = Borrar todo o historial
     .style = min-width: 34em
 clear-data-settings-label = Cando peche { -brand-short-name } deberá borrar todo automaticamente
+sanitize-on-shutdown-description = Borrar automaticamente todos os elementos marcados cando se peche { -brand-short-name }.
 
 ## clear-time-duration-prefix is followed by a dropdown list, with
 ## values localized using clear-time-duration-value-* messages.
@@ -31,6 +32,9 @@ clear-data-settings-label = Cando peche { -brand-short-name } deberá borrar tod
 clear-time-duration-prefix =
     .value = Período para borrar:{ " " }
     .accesskey = p
+clear-time-duration-prefix2 =
+    .value = Cando:
+    .accesskey = C
 clear-time-duration-value-last-hour =
     .label = Última hora
 clear-time-duration-value-last-2-hours =
