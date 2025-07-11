@@ -363,6 +363,7 @@ quickactions-downloads2 = Näytä lataukset
 quickactions-cmd-downloads = lataukset
 # Opens about:addons page in the extensions section
 quickactions-extensions = Hallitse laajennuksia
+quickactions-cmd-extensions2 = laajennukset, lisäosat
 quickactions-cmd-extensions = laajennukset
 # Opens Firefox View
 quickactions-firefoxview = Avaa { -firefoxview-brand-name }

@@ -72,6 +72,7 @@ firefox-relay-and-fxa-opt-in-confirmation-enable-button-basic-info =
 
 firefox-relay-and-fxa-popup-notification-header-with-domain = Hanki ilmainen sähköpostimaski
 firefox-relay-and-fxa-popup-notification-first-sentence-with-domain = Suojaa postilaatikkosi roskapostilta piilottamalla todellinen osoitteesi ilmaisella <label data-l10n-name="firefox-relay-learn-more-url">sähköpostimaskilla</label>. Sähköpostit <label data-l10n-name="firefox-fxa-and-relay-offer-domain">tältä sivustolta</label> tulevat edelleen postilaatikkoosi, mutta sähköpostiosoitteesi on piilotettu.
+firefox-relay-and-fxa-popup-notification-first-sentence = Suojaa postilaatikkosi roskapostilta käyttämällä ilmaista <label data-l10n-name="firefox-relay-learn-more-url">{ -relay-brand-name }-sähköpostimaskia</label> piilottaaksesi todellisen osoitteesi. Sähköpostit <label data-l10n-name="firefox-fxa-and-relay-offer-domain">tältä sivustolta</label> tulevat edelleen postilaatikkoosi, mutta oikea sähköpostiosoitteesi on piilotettu.
 firefox-relay-and-fxa-popup-notification-second-sentence-with-domain = Rekisteröidy ensin tai kirjaudu sisään tilillesi käyttääksesi sähköpostimaskia
 firefox-relay-and-fxa-opt-in-confirmation-enable-button-with-domain =
     .label = Rekisteröidy

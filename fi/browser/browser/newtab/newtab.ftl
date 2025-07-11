@@ -551,6 +551,8 @@ newtab-download-mobile-highlight-image =
 
 ## Strings for shortcuts highlight
 
+newtab-shortcuts-highlight-title = Suosikkisi sormiesi ulottuvilla
+newtab-shortcuts-highlight-subtitle = Lisää pikakuvake, niin suosikkisivustosi ovat yhden napsautuksen päässä.
 
 ## Strings for reporting ads and content
 
