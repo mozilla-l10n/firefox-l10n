@@ -42,9 +42,17 @@ fxa-avatar-tooltip =
 sync-setup-verify-continue = Continuar
 sync-setup-verify-title = Aviso de combinación
 sync-setup-verify-heading = Estás seguro de que queres iniciar sesión para sincronizar?
+# The user was previously signed into sync. This dialog confirms to the user
+# that they will be merging the data from the previously signed in into the newly signed in one
+# Variables:
+#   $email - Email address of a user previously signed into sync.
+sync-setup-verify-description = Un usuario diferente iniciou sesión previamente para sincronizar neste ordenador. Ao iniciar sesión combinaranse os marcadores, os contrasinais e outras configuracións con { $email }
 
 ## Sync warning strings that support the browser profiles feature, these will be shown when the user might be merging data
 
+# Dialog 1 - different account signing in without option to merge
+sync-profile-different-account-title = Alcanzouse o límite da conta para este perfil
+sync-profile-different-account-header = Este perfil sincronizouse previamente cunha conta diferente
 # Dialog 2 - account signed in on another profile without option to merge
 sync-account-in-use-header = Conta xa en uso
 # Variables:

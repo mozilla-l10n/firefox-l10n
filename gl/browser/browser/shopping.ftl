@@ -190,17 +190,37 @@ shopping-callout-pdp-opted-in-subtitle = Abre o verificador de recensións para 
 shopping-callout-closed-not-opted-in-title = Un clic para comentarios fiables
 shopping-callout-closed-not-opted-in-subtitle = Proba o verificador de recensions sempre que vexas a etiqueta co prezo. Obtén rapidamente información de compradores reais, antes de comprar.
 shopping-callout-closed-not-opted-in-revised-title = Un clic para obter recensións fiables
+shopping-callout-closed-not-opted-in-revised-subtitle = Só tes que facer clic na icona da etiqueta de prezo na barra de enderezos para volver ao verificador de recensións.
 shopping-callout-closed-not-opted-in-revised-button = Entendido
 shopping-callout-not-opted-in-reminder-title = Comprar con confianza
+shopping-callout-not-opted-in-reminder-subtitle = Non estás seguro de se as recensións dun produto son reais ou falsas? O verificador de recensións de { -brand-product-name } pode axudarche.
 shopping-callout-not-opted-in-reminder-open-button = Abrir o verificador de recensións
 shopping-callout-not-opted-in-reminder-close-button = Rexeitar
 shopping-callout-not-opted-in-reminder-ignore-checkbox = Non mostrar de novo
+shopping-callout-not-opted-in-reminder-img-alt =
+    .aria-label = Ilustración abstracta de tres recensións de produtos. Un ten un símbolo de advertencia que indica que pode non ser fiable.
+shopping-callout-disabled-auto-open-title = O verificador de recensións agora está pechado por defecto
+shopping-callout-disabled-auto-open-subtitle = Fai clic na icona da etiqueta de prezo na barra de enderezos sempre que queiras ver se podes confiar nas recensións dun produto.
 shopping-callout-disabled-auto-open-button = Entendido
+shopping-callout-opted-out-title = O verificador de recensións está desactivado
+shopping-callout-opted-out-subtitle = Para activalo de novo, fai clic na icona da etiqueta do prezo na barra de enderezos e sigue as indicacións.
 shopping-callout-opted-out-button = Entendido
 
 ## Onboarding message strings.
 
 shopping-onboarding-headline = Probar a nosa guía de confianza para recensións de produtos
+# Dynamic subtitle. Sites are limited to Amazon, Walmart or Best Buy.
+# Variables:
+#   $currentSite (str) - The current shopping page name
+#   $secondSite (str) - A second shopping page name
+#   $thirdSite (str) - A third shopping page name
+shopping-onboarding-dynamic-subtitle-1 = Consulta a fiabilidade das recensións dos produtos en <b>{ $currentSite }</b> antes de comprar. O verificador de recensións, unha función experimental de { -brand-product-name }, está integrada directamente no navegador. Tamén funciona en <b>{ $secondSite }</b> e <b>{ $thirdSite }</b>.
+# Subtitle for countries where we only support one shopping website (e.g. currently used in FR/DE with Amazon)
+# Variables:
+#   $currentSite (str) - The current shopping page name
+shopping-onboarding-single-subtitle = Consulta a fiabilidade das recensións de produtos en <b>{ $currentSite }</b> antes de comprar. O verificador de recensións, unha función experimental de { -brand-product-name }, está integrada directamente no navegador.
+shopping-onboarding-body = Usando o poder de { -fakespot-brand-full-name }, axudámosche a evitar recensións tendenciosas e pouco auténticas. O noso modelo de IA está a mellorar sempre para protexerte mentres compras. <a data-l10n-name="learn_more">Máis información</a>
+shopping-onboarding-opt-in-privacy-policy-and-terms-of-use3 = Ao seleccionar “{ shopping-onboarding-opt-in-button }“, aceptas a <a data-l10n-name="privacy_policy">política de privacidade</a> de { -brand-product-name } e <a data-l10n-name="terms_of_use">os termos de uso</a> de { -fakespot-brand-name }.
 shopping-onboarding-opt-in-button = Si, probalo
 shopping-onboarding-not-now-button = Agora non
 shopping-onboarding-dialog-close-button =
