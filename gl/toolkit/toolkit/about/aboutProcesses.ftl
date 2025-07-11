@@ -12,6 +12,8 @@ about-processes-column-action =
 
 about-processes-shutdown-process =
     .title = Descargar lapelas e matar procesos
+about-processes-kill-process =
+    .title = Matar proceso
 about-processes-shutdown-tab =
     .title = Pechar lapela
 # Profiler icons
@@ -51,6 +53,7 @@ about-processes-remote-sandbox-broker-process = Broker de sandbox remoto ({ $pid
 about-processes-fork-server-process = Servidor de rama ({ $pid })
 about-processes-preallocated-process = Pre-asignado ({ $pid })
 about-processes-utility-process = Utilidade ({ $pid })
+about-processes-inference-process = Inferencia ({ $pid })
 # Unknown process names
 # Variables:
 #    $pid (String) The process id of this process, assigned by the OS.
@@ -127,6 +130,7 @@ about-processes-utility-actor-mf-media-engine = CMD de Media Engine de Windows M
 # "Oracle" refers to an internal Firefox process and should be kept in English
 about-processes-utility-actor-js-oracle = Oracle de JavaScript
 about-processes-utility-actor-windows-utils = Utilidades de Windows
+about-processes-utility-actor-windows-file-dialog = Diálogo de ficheiros de Windows
 
 ## Displaying CPU (percentage and total)
 ## Variables:

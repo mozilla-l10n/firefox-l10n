@@ -4,6 +4,7 @@
 
 about-networking-title = Sobre o tráfico da rede
 about-networking-http = HTTP
+about-networking-http-clear-cache-button = Limpar a caché HTTP
 about-networking-sockets = Sóckets
 about-networking-dns = DNS
 about-networking-dns-clear-cache-button = Limpar a caché de DNS

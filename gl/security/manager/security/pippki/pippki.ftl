@@ -59,6 +59,9 @@ client-auth-site-description = Este sitio solicitou que se identifique cun certi
 client-auth-choose-cert = Escolla un certificado para presentar como identificación:
 client-auth-send-no-certificate =
     .label = Non enviar un certificado
+# Variables:
+# $hostname (String) - The domain name of the site requesting the client authentication certificate
+client-auth-site-identification = «{ $hostname }» solicitou que te identifiques cun certificado:
 client-auth-cert-details = Detalles do certificado seleccionado:
 # Variables:
 # $issuedTo (String) - The subject common name of the currently-selected client authentication certificate
@@ -82,6 +85,7 @@ client-auth-cert-details-issued-by = Emitido por: { $issuedBy }
 # Variables:
 # $storedOn (String) - The name of the token holding the certificate (for example, "OS Client Cert Token (Modern)")
 client-auth-cert-details-stored-on = Gardado en: { $storedOn }
+client-auth-cert-remember-label = Lembrar esta decisión:
 client-auth-cert-remember-never =
     .label = Unha vez
 client-auth-cert-remember-always =

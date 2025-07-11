@@ -73,6 +73,7 @@ perftools-button-edit-settings = Editar a gravación…
 
 perftools-menu-more-actions-button =
     .title = Máis accións
+perftools-menu-more-actions-restart-with-profiling = Reinicia { -brand-shorter-name } co perfilador de inicio activado
 
 ## These messages are descriptions of the threads that can be enabled for the profiler.
 

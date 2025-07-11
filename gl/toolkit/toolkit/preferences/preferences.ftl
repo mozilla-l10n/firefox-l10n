@@ -22,6 +22,7 @@ set-password-reenter-password = Introducir de novo o contrasinal:
 set-password-meter = Medidor de calidade de contrasinais
 set-password-meter-loading = Cargando
 primary-password-admin = O seu administrador esixe que teña un contrasinal principal para gardar inicios de sesión e contrasinais.
+primary-password-required-by-policy = A túa organización require que teñas configurado un contrasinal principal para gardar os inicios de sesión e os contrasinais.
 primary-password-description = Un contrasinal principal úsase para protexer información sensible, como inicios de sesión e contrasinais, neste dispositivo. Se crea un contrasinal principal, pediralle que o introduza unha vez por sesión cando { -brand-short-name } recupera a información gardada protexida polo contrasinal.
 primary-password-warning = Asegúrese de recordar o contrasinal principal que estableceu. Se esquece o seu contrasinal principal, non poderá acceder a ningunha información protexida por este dispositivo.
 remove-primary-password =
