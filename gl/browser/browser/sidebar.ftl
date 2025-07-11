@@ -86,6 +86,8 @@ sidebar-context-menu-open-in-window =
     .label = Abrir nunha nova xanela
 sidebar-context-menu-open-in-private-window =
     .label = Abrir nunha nova xanela privada
+sidebar-context-menu-forget-site =
+    .label = Borrar todos os datos do sitio web...
 sidebar-context-menu-bookmark-tab =
     .label = Marcar a pestana…
 sidebar-context-menu-copy-link =
@@ -108,6 +110,12 @@ sidebar-context-menu-close-remote-tab =
 
 sidebar-menu-genai-chat-label =
     .label = Chatbot de IA
+sidebar-menu-history-label =
+    .label = Historial
+sidebar-menu-synced-tabs-label =
+    .label = As pestanas doutros dispositivos
+sidebar-menu-bookmarks-label =
+    .label = Marcadores
 
 ## Tooltips for sidebar menu items.
 
@@ -132,3 +140,8 @@ show-sidebars =
 
 ## Tooltips for the sidebar toolbar widget.
 
+# Variables:
+#   $shortcut (String) - The OS specific keyboard shortcut.
+sidebar-widget-hide-sidebar2 =
+    .tooltiptext = Ocultar a barra lateral ({ $atallo })
+    .label = Barras laterais

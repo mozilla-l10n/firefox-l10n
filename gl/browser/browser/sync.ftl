@@ -34,6 +34,19 @@ fxa-menu-send-tab-to-device-description = Envíe unha lapela ao instante a calqu
 fxa-menu-sign-out =
     .label = Saír…
 fxa-menu-sync-title = Sync
+fxa-menu-sync-description = Acceder á túa web desde calquera lugar
+fxa-avatar-sign-in = Acceder
+fxa-avatar-sign-up = Rexistrarse
+fxa-avatar-tooltip =
+    .tooltiptext = Iniciar sesión na túa conta
+sync-setup-verify-continue = Continuar
+sync-setup-verify-title = Aviso de combinación
+sync-setup-verify-heading = Estás seguro de que queres iniciar sesión para sincronizar?
 
 ## Sync warning strings that support the browser profiles feature, these will be shown when the user might be merging data
 
+# Dialog 2 - account signed in on another profile without option to merge
+sync-account-in-use-header = Conta xa en uso
+# Variables:
+#   $profileName (String) - Name of the profile to switch to
+sync-button-switch-profile = Cambiar a «{ $profileName }»
