@@ -130,6 +130,8 @@ sidebar-menu-customize-label =
     .label = Personalizar a barra lateral
 sidebar-menu-contextual-password-manager-label =
     .label = Contrasinais
+sidebar-menu-more-tools-label =
+    .label = Máis ferramentas
 
 ## Tooltips for sidebar menu items.
 
@@ -157,6 +159,8 @@ sidebar-menu-close-bookmarks-tooltip = Pechar os marcadores ({ $shortcut })
 
 sidebar-menu-open-ai-chatbot-tooltip-generic = Abrir chatbot de IA ({ $shortcut })
 sidebar-menu-open-ai-chatbot-provider-tooltip = Abrir { $provider } ({ $shortcut })
+sidebar-menu-close-ai-chatbot-tooltip-generic = Pechar chatbot de IA ({ $shortcut })
+sidebar-menu-close-ai-chatbot-provider-tooltip = Pechar { $provider } ({ $shortcut })
 
 ## Headings for sidebar menu panels.
 
@@ -164,18 +168,48 @@ sidebar-menu-customize-header =
     .heading = Personalizar a barra lateral
 sidebar-menu-history-header =
     .heading = Historial
+sidebar-menu-syncedtabs-header =
+    .heading = As pestanas doutros dispositivos
+sidebar-menu-cpm-header =
+    .heading = Contrasinais
+sidebar-panel-header-close-button =
+    .tooltiptext = Pechar
 
 ## Titles for sidebar menu panels.
 
+sidebar-customize-title = Personalizar a barra lateral
+sidebar-history-title = Historial
+sidebar-syncedtabs-title = As pestanas doutros dispositivos
 
 ## Context for closing synced tabs when hovering over the items
 
+# Context for hovering over the close tab button that will
+# send a push to the device to close said tab
+# Variables:
+#   $deviceName (String) - the name of the device the user is closing a tab for
+synced-tabs-context-close-tab-title =
+    .title = Pechar a pestana en { $deviceName }
 show-sidebars =
     .tooltiptext = Amosar as barras laterais
     .label = Barras laterais
 
 ## Tooltips for the sidebar toolbar widget.
 
+# Variables:
+#   $shortcut (String) - The OS specific keyboard shortcut.
+sidebar-widget-expand-sidebar2 =
+    .tooltiptext = Expandir a barra lateral ({ $shortcut })
+    .label = Barras laterais
+# Variables:
+#   $shortcut (String) - The OS specific keyboard shortcut.
+sidebar-widget-collapse-sidebar2 =
+    .tooltiptext = Contraer a barra lateral ({ $shortcut })
+    .label = Barras laterais
+# Variables:
+#   $shortcut (String) - The OS specific keyboard shortcut.
+sidebar-widget-show-sidebar2 =
+    .tooltiptext = Mostrar a barra lateral ({ $shortcut })
+    .label = Barras laterais
 # Variables:
 #   $shortcut (String) - The OS specific keyboard shortcut.
 sidebar-widget-hide-sidebar2 =

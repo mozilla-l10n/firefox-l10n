@@ -64,7 +64,7 @@ genai-menu-remove-provider =
 genai-menu-remove-sidebar =
     .label = Fjern fra sidepanel
 genai-menu-new-badge = Ny
-genai-menu-summarize-page = Opsummer side
+genai-menu-summarize-page = Sammenfat side
 genai-input-ask-generic =
     .placeholder = Spørg AI-chatbot...
 # $provider (string) - name of the provider
@@ -121,11 +121,11 @@ genai-options-about-chatbot =
 
 ## Chatbot footer
 
-genai-page-button-summarize = Opsummer side
+genai-page-button-summarize = Sammenfat side
 
 ## Chatbot onboarding
 
-genai-onboarding-header = Opsummer, find nye idéer og mere mens du browser
+genai-onboarding-header = Sammenfat, find nye idéer og mere mens du browser
 genai-onboarding-choose-header = Vælg en AI-chatbot at bruge i sidepanelet i { -brand-short-name }
 # "Switch anytime" refers to allowing the user to switch to a different chatbot.
 genai-onboarding-description = Vælg en AI-chatbot at anvende i sidepanelet i { -brand-short-name }. Vi viser detaljer om en chatbot, når du vælger den. Skift når som helst. <a data-l10n-name="learn-more">Læs mere</a>
@@ -157,10 +157,14 @@ genai-onboarding-select-primary = Gå i gang med at chatte
 genai-chatbot-contextual-title = Brug en AI-chatbot uden at skifte faneblade
 genai-chatbot-contextual-subtitle = Chat og surf på samme tid, når du føjer en AI-chatbot til sidepanelet i { -brand-short-name }.
 genai-chatbot-contextual-button = Vælg en chatbot
-genai-chatbot-summarize-title = Nyhed: Opsummer sider med et enkelt klik
-genai-chatbot-summarize-button = Opsummer side
+genai-chatbot-summarize-title = Nyhed: Sammenfat sider med et enkelt klik
+genai-chatbot-summarize-button = Sammenfat side
 # “Summarize Page” should be consistent with the translation for the string genai-menu-summarize-page
-genai-chatbot-summarize-sidebar-provider-subtitle = Højreklik på din AI-chatbot i sidepanelet og vælg "Opsummer side".
+genai-chatbot-summarize-sidebar-provider-subtitle = Højreklik på din AI-chatbot i sidepanelet og vælg "Sammenfat side".
+# “Summarize Page” should be consistent with the translation for the string genai-menu-summarize-page
+genai-chatbot-summarize-sidebar-generic-subtitle = Højreklik på knappen med stjernen i sidepanelet og vælg "Sammenfat side". Første gang, du bruger funktionen, skal du desuden vælge en AI-chatbot.
+# “Summarize page” should be consistent with the translation for the string genai-page-button-summarize
+genai-chatbot-summarize-footer-provider-subtitle = Åbn din AI-chatbot i sidepanelet og vælg "Sammenfat side" i bunden.
 
 ## Chatbot onboarding choices
 ## These describe features/capabilities of chatbot providers. These are not buttons/actions.
