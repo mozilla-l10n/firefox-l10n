@@ -282,7 +282,15 @@ discopane-notice-recommendations2 =
         Algunhas destas recomendacións son personalizadas. Baséanse noutros
         extensións que instalou, preferencias do perfil e estatísticas de uso.
 discopane-notice-learn-more = Máis información
+# Notice for the colorway theme removal
+colorway-removal-notice-message =
+    .heading = Elimináronse os teus temas de combinacións de cores.
+    .message =
+        { -brand-product-name } actualizou a súa colección de cores. Eliminamos
+        a(s) versión(s) antiga(s) da túa lista de «Temas gardados». Obtén as novas versións
+        no sitio de complementos.
 colorway-removal-notice-learn-more = Máis información
+colorway-removal-notice-button = Obtén temas de combinacións de cores actualizados
 privacy-policy = Política de privacidade
 # Refers to the author of an add-on, shown below the name of the add-on.
 # Variables:
@@ -303,6 +311,16 @@ find-more-themes = Atope máis temas
 # used for screen readers.
 addon-options-button =
     .aria-label = Máis opcións
+# Explanatory introduction to the list of recommended add-ons. The action word
+# ("recommends") in the final sentence is a link to external documentation.
+# We hard code "Firefox" because we do not want to imply that a Firefox fork is
+# making this recommendation.
+discopane-intro3 =
+    As extensións e os temas permítenche personalizar { -brand-product-name }. Poden aumentar a privacidade,
+    mellorar a produtividade, mellorar os medios, cambiar o aspecto de { -brand-product-name } e
+    moito máis. Estes pequenos programas de software adoitan ser desenvolvidos por terceiros. Aquí está
+    a selección que Firefox <a data-l10n-name="learn-more-trigger">recomenda</a> para
+    seguridade, rendemento e funcionalidade excepcionais.
 
 ## Add-on actions
 
@@ -436,6 +454,20 @@ addon-badge-verified2 =
 # by Mozilla and we don't want forks to display "by Fork".
 addon-badge-line4 =
     .title = Extensión oficial creada por Mozilla. Cumpre os estándares de seguridade e rendemento
+# This string needs to work in the context of other forks that are not Firefox
+# or built by Mozilla. In particular, we do not want to imply that an
+# organisation other than Mozilla or the Firefox team are performing the
+# security or performance reviews. As such, we avoid personalising language
+# like the words "our" or "we".
+addon-badge-verified4 =
+    .title = Esta extensión revisouse para cumprir os estándares de seguridade e rendemento
+# This string needs to work in the context of other forks that are not Firefox
+# or built by Mozilla. In particular, we do not want to imply that an
+# organisation other than Mozilla or the Firefox team are making the
+# recommendation. As such, we hard code "Firefox" and avoid personalising
+# language like the words "our" or "we".
+addon-badge-recommended4 =
+    .title = Firefox só recomenda extensións que cumpren os estándares de seguridade e rendemento
 
 ##
 
@@ -443,6 +475,7 @@ available-updates-heading = Actualizacións dispoñíbeis
 recent-updates-heading = Actualizacións recentes
 release-notes-loading = Cargando…
 release-notes-error = Sentímolo, pero produciuse un erro ao cargar as notas do lanzamento.
+addon-permissions-empty2 = Esta extensión non require ningún permiso.
 addon-permissions-empty = Esta extensión non require ningún permiso
 addon-permissions-required = Permisos necesarios para a funcionalidade principal:
 addon-permissions-optional = Permisos opcionais para a funcionalidade engadida:
@@ -470,6 +503,9 @@ shortcuts-heading = Xestionar atallos de extensións
 default-heading-search-label = Atopar máis complementos
 addons-heading-search-input =
     .placeholder = Buscar en addons.mozilla.org
+addons-heading-search-button =
+    .title = Buscar en addons.mozilla.org
+    .aria-label = Buscar en addons.mozilla.org
 addon-page-options-button =
     .title = Ferramentas para todos os complementos
 
@@ -492,10 +528,24 @@ details-notification-unsigned-and-disabled-link = Máis información
 details-notification-unsigned = Non foi posíbel verificar { $name } para o seu uso en { -brand-short-name }. Continúe con precaución.
 details-notification-unsigned2 =
     .message = Non foi posíbel verificar { $name } para o seu uso en { -brand-short-name }. Continúe con precaución.
+details-notification-hard-blocked-extension =
+    .message = Esta extensión está bloqueada por infrinxir as políticas de Mozilla e desactivouse.
+details-notification-hard-blocked-other =
+    .message = Este complemento bloqueouse por infrinxir as políticas de Mozilla e desactivouse.
 details-notification-unsigned-link = Máis información
 details-notification-blocked = Desactivouse o { $name } debido a problemas de estabilidade ou seguranza.
 details-notification-blocked2 =
     .message = Desactivouse o { $name } debido a problemas de estabilidade ou seguranza.
+details-notification-blocked-link2 = Ver detalles
+details-notification-soft-blocked-extension-disabled =
+    .message = Esta extensión está restrinxida por infrinxir as políticas de Mozilla e desactivouse. Podes activala, pero pode ser arriscado.
+details-notification-soft-blocked-extension-enabled =
+    .message = Esta extensión infrinxe as políticas de Mozilla. Usala pode ser arriscado.
+details-notification-soft-blocked-other-disabled =
+    .message = Este complemento está restrinxido por infrinxir as políticas de Mozilla e desactivouse. Podes activalo, pero pode ser arriscado.
+details-notification-soft-blocked-other-enabled =
+    .message = Este complemento infrinxe as políticas de Mozilla. Usalo pode ser arriscado.
+details-notification-softblocked-link2 = Ver detalles
 details-notification-blocked-link = Máis información
 details-notification-softblocked = Sábese que o { $name } causa problemas de estabilidade ou seguranza.
 details-notification-softblocked2 =
@@ -517,6 +567,33 @@ plugins-widevine-description = Este complemento permite a reprodución de soport
 ## Headings for the Permissions tab in `about:addons` when the data collection
 ## feature is enabled.
 
+addon-permissions-required-data-collection = Recollida de datos requirida:
+addon-permissions-optional-data-collection = Recollida de datos opcional:
+# Name of the Permissions tab in `about:addons` when the data collection feature is enabled.
+permissions-data-addon-button = Permisos e datos
+# This is a description for extension that use this AI model
+# Variables:
+#   $extensionName (String) - Name of the extension
+mlmodel-extension-label = Usado pola extensión { $extensionName }
 
 ## Mapping Engine IDs from AI models to how that feature represented by the engine Id is described in the used by section in local model management
 
+mlmodel-about-inference = { -brand-short-name } usa isto en about:inference
+mlmodel-link-preview = { -brand-short-name } usa isto para xerar puntos clave cando previsualizas as ligazóns
+mlmodel-pdfjs = { -brand-short-name } usa isto para crear texto alternativo para as imaxes que engades aos PDF
+mlmodel-smart-tab-topic-engine = { -brand-short-name } usa isto para suxerir nomes para os teus grupos de pestanas
+mlmodel-smart-tab-embedding-engine = { -brand-short-name } usa isto para suxerir pestanas para os teus grupos de pestanas
+# AI Model will be downloaded on the users device and used locally
+addon-category-mlmodel = IA no dispositivo
+addon-category-mlmodel-title =
+    .title = IA no dispositivo
+mlmodel-heading = Xestiona modelos de IA no dispositivo
+mlmodel-description = Algunhas funcións e extensións de { -brand-short-name } teñen modelos de IA que funcionan localmente no teu dispositivo. Este enfoque protexe a túa privacidade e, en moitos casos, acelera o rendemento. <a data-l10n-name="learn-more">Máis información</a>
+# Label for button that when clicked removed local model
+mlmodel-remove-addon-button =
+    .aria-label = Retirar
+# Label for the aggregated value of all files for a model
+mlmodel-addon-detail-totalsize-label = Tamaño do ficheiro
+mlmodel-addon-detail-last-used-label = Usado por última vez
+# This is a section label to describe what extensions or features use a specific local AI model
+mlmodel-addon-detail-used-by-label = Usado por
