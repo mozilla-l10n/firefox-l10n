@@ -91,6 +91,7 @@ permissions-exceptions-https-only-window2 =
     .title = Excepcións: modo só HTTPS
     .style = { permissions-window2.style }
 permissions-exceptions-https-only-desc = Pode desactivar o modo só HTTPS para sitios web específicos. { -brand-short-name } non intentará anovar a conexión a HTTPS seguros para eses sitios. As excepcións non se aplican ás xanelas privadas.
+permissions-exceptions-https-only-desc2 = Podes desactivar o modo só HTTPS para sitios web específicos. { -brand-short-name } non tentará actualizar a conexión a HTTPS seguro neses sitios.
 
 ## Exceptions - Pop-ups
 

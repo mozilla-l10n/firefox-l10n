@@ -3,6 +3,7 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 do-not-track-description = Enviar aos sitios web un sinal "Do not track" indicándolles que non desexa ser seguido
+do-not-track-removal = Xa non soportamos o sinal «Non rastrexar»
 do-not-track-description2 =
     .label = Envíar aos sitios web unha solicitude de «Non rastrexar».
     .accesskey = N
@@ -32,6 +33,8 @@ search-input-box2 =
     .style = width: 15.4em
     .placeholder = Atopar na Configuración
 managed-notice = O seu navegador está a ser xestionado pola súa organización.
+managed-notice-info-icon =
+    .alt = Información
 category-list =
     .aria-label = Categorías
 pane-general-title = Xeral
@@ -58,6 +61,7 @@ pane-experimental-description2 = O cambio de preferencias avanzadas de configura
 settings-pane-labs-title = { -firefoxlabs-brand-name }
 settings-category-labs =
     .tooltiptext = { -firefoxlabs-brand-name }
+pane-experimental-description3 = Proba as nosas funcións experimentais! Están en desenvolvemento e evolucionando, o que pode afectar no funcionamento de { -brand-short-name }.
 pane-experimental-reset =
     .label = Restaurar predeterminados
     .accesskey = R
@@ -133,6 +137,8 @@ startup-restore-windows-and-tabs =
 windows-launch-on-login =
     .label = Abrir { -brand-short-name } automaticamente cando se inicie o seu ordenador
     .accesskey = A
+windows-launch-on-login-disabled = Esta preferencia desactivouse en Windows. Para cambiala, visita <a data-l10n-name="startup-link">aplicacións de inicio</a> na configuración do sistema.
+windows-launch-on-login-profile-disabled = Activa esta preferencia marcando «{ profile-manager-use-selected.label }» na ventá «Seleccionar perfil de usuario».
 startup-restore-warn-on-quit =
     .label = Avísao cando deixe o navegador
 disable-extension =
@@ -142,6 +148,11 @@ preferences-data-migration-description = Importar marcadores, contrasinais, hist
 preferences-data-migration-button =
     .label = Importar datos
     .accesskey = m
+preferences-profiles-header = Perfís
+preferences-manage-profiles-description = Cada perfil ten datos de navegación e configuracións separados, incluído o historial, os contrasinais e moito máis.
+preferences-manage-profiles-learn-more = Máis información
+preferences-manage-profiles-button =
+    .label = Xestionar perfís
 tabs-group-header = Lapelas
 ctrl-tab-recently-used-order =
     .label = Ctrl+Tab para alternar entre as lapelas segundo o seu uso recente
@@ -149,6 +160,17 @@ ctrl-tab-recently-used-order =
 open-new-link-as-tabs =
     .label = Abrir ligazóns en lapelas en vez de en novas xanelas
     .accesskey = g
+ask-on-close-multiple-tabs =
+    .label = Preguntar antes de pechar varias pestanas
+    .accesskey = v
+# This string is used for the confirm before quitting preference.
+# Variables:
+#   $quitKey (string) - the quit keyboard shortcut, and formatted
+#                       in the same manner as it would appear,
+#                       for example, in the File menu.
+ask-on-quit-with-key =
+    .label = Preguntar antes de saír con { $quitKey }
+    .accesskey = a
 confirm-on-close-multiple-tabs =
     .label = Confirmar antes de pechar varias lapelas
     .accesskey = m
@@ -205,6 +227,13 @@ containers-remove-alert-msg =
     }
 containers-remove-ok-button = Retirar este contedor
 containers-remove-cancel-button = Non retirar este contedor
+settings-tabs-show-image-in-preview =
+    .label = Mostra unha vista previa da imaxe cando pasas o rato nunha pestana
+    .accessKey = p
+browser-layout-header = Disposición do navegador
+browser-layout-horizontal-tabs =
+    .label = Pestanas horizontais
+browser-layout-horizontal-tabs-desc = Mostrar na parte superior do navegador
 browser-layout-vertical-tabs =
     .label = Pestanas verticais
 browser-layout-vertical-tabs-desc = Mostra no lateral, na barra lateral
