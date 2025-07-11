@@ -58,10 +58,17 @@ shopping-message-bar-warning-product-not-available-reported =
     .message = Deberíamos ter información sobre as recensións deste produto nun prazo de 24 horas. Por favor, volva a comprobalo máis tarde.
 shopping-message-bar-analysis-in-progress-title2 = Comprobando a calidade da recensión
 shopping-message-bar-analysis-in-progress-message2 = Isto pode levar uns 60 segundos.
+# Variables:
+#  $percentage (Number) - The percentage complete that the analysis is, per our servers.
+shopping-message-bar-analysis-in-progress-with-amount = Comprobando a calidade da revisión ({ $percentage }%)
 shopping-message-bar-page-not-supported =
     .heading = Non podemos comprobar estas recensións
     .message = Desafortunadamente, non podemos comprobar a calidade das recensións de determinados tipos de produtos. Por exemplo, tarxetas de agasallo e streaming de vídeo, música e xogos.
+shopping-message-bar-keep-closed-header =
+    .heading = Manter pechado?
+    .message = Podes actualizar a túa configuración para manter o comprobador de revisións pechado por defecto. Agora mesmo ábrese automaticamente.
 shopping-message-bar-keep-closed-dismiss-button = Non, grazas
+shopping-message-bar-keep-closed-accept-button = Si, mantelo pechado
 
 ## Strings for the product review snippets card
 
@@ -84,6 +91,7 @@ shopping-settings-label =
     .label = Configuración
 shopping-settings-recommendations-toggle =
     .label = Mostrar anuncios no verificador de recensións
+shopping-settings-recommendations-learn-more2 = Verás anuncios ocasionais de produtos relevantes. Só anunciamos produtos con críticas fiables. <a data-l10n-name="review-quality-url">Máis información</a>
 shopping-settings-opt-out-button = Desactivar o verificador de recensións
 powered-by-fakespot = O revisor de recensións funciona con <a data-l10n-name="fakespot-link">{ -fakespot-brand-full-name }</a>.
 
