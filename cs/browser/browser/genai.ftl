@@ -55,6 +55,8 @@ genai-menu-ask-generic =
 # $provider (string) - name of the provider
 genai-menu-ask-provider =
     .label = Zeptat se { $provider }
+genai-menu-open-generic =
+    .label = Otevřít AI chatbota
 genai-menu-remove-generic =
     .label = Odebrat AI chatbota
 # $provider (string) - name of the provider
