@@ -1474,6 +1474,9 @@ certs-view =
 certs-devices =
     .label = Dispositivos de seguranza...
     .accesskey = D
+certs-thirdparty-toggle =
+    .label = Permitir que { -brand-short-name } confíe automaticamente nos certificados raíz de terceiros que instales
+    .accesskey = c
 space-alert-over-5gb-settings-button =
     .label = Abrir configuración
     .accesskey = o
@@ -1483,12 +1486,17 @@ space-alert-under-5gb-message2 = <strong>{ -brand-short-name } xa non ten sufici
 ## Privacy Section - HTTPS-Only
 
 httpsonly-header = Modo só HTTPS
+httpsonly-description3 = Só permite conexións seguras a sitios web. { -brand-short-name } preguntará antes de conectarse de forma insegura.
+httpsonly-learn-more2 = Como funciona o modo só-HTTPS
 httpsonly-description = HTTPS fornece unha conexión segura e cifrada entre { -brand-short-name } e os sitios web que visita. A maioría dos sitios web admiten HTTPS e se o modo Só HTTPS está activado, o { -brand-short-name } actualizará todas as conexións a HTTPS.
 httpsonly-learn-more = Máis información
 httpsonly-radio-enabled =
     .label = Activar o modo só HTTPS en todas as xanelas
 httpsonly-radio-enabled-pbm =
     .label = Activar o modo só HTTPS só nas xanelas privadas
+httpsonly-radio-disabled3 =
+    .label = Non habilitar o modo só-HTTPS
+    .description = { -brand-short-name } aínda pode actualizar algunhas conexións
 httpsonly-radio-disabled =
     .label = Non activar o modo só HTTPS
 
@@ -1496,6 +1504,7 @@ httpsonly-radio-disabled =
 
 preferences-doh-header = DNS sobre HTTPS
 preferences-doh-description = O sistema de nomes de dominio (DNS) sobre HTTPS envía a súa solicitude de nome de dominio a través dunha conexión cifrada, creando un DNS seguro e dificultando que outros poidan ver a que sitio web está a piques de acceder.
+preferences-doh-description2 = O sistema de nomes de dominio (DNS) sobr HTTPS envía a túa petición de nome de dominio a través dunha conexión cifrada, proporcionando un DNS seguro e dificultando que outros poidan ver a que sitio web estás a piques de acceder.
 # Variables:
 #   $status (string) - The status of the DoH connection
 preferences-doh-status = Estado: { $status }
