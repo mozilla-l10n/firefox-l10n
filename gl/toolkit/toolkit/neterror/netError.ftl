@@ -45,6 +45,7 @@ neterror-load-error-connection = Se non consegue cargar algunhas páxinas, compr
 neterror-load-error-firewall = Se o computador ou a rede están protexidos por unha devasa ou proxy, asegúrese que { -brand-short-name } ten permiso para acceder á Web.
 # This warning is only shown on macOS Sequoia and later (see bug 1929377)
 neterror-load-osx-permission = Se estás tentando cargar unha páxina da rede local, comproba que { -brand-short-name } teña permisos de rede local na configuración de privacidade e seguranza de macOS.
+neterror-http-error-page = Asegúrate de escribir o enderezo do sitio web correctamente.
 neterror-captive-portal = Debe identificarse nesta rede antes de que poida acceder á Internet.
 # Variables:
 # $hostAndPath (String) - a suggested site (e.g. "www.example.com") that the user may have meant instead.
@@ -53,6 +54,10 @@ neterror-dns-not-found-hint-header = <strong>Se escribiches ben o enderezo, pode
 neterror-dns-not-found-hint-try-again = Ténteo de novo máis tarde
 neterror-dns-not-found-hint-check-network = Comprobe a súa conexión de rede
 neterror-dns-not-found-hint-firewall = Comproba que { -brand-short-name } ten permiso para acceder á web (pode que teñas conexión pero que esteas detrás dunha devasa)
+neterror-dns-not-found-offline-hint-header = <strong>Que podes facer ao respecto?</strong>
+neterror-dns-not-found-offline-hint-different-device = Proba a conectarte nun dispositivo diferente.
+neterror-dns-not-found-offline-hint-modem = Comproba o teu módem ou router.
+neterror-dns-not-found-offline-hint-reconnect = Desconecta e volve conectar á Wi-Fi.
 
 ## TRR-only specific messages
 ## Variables:
@@ -60,6 +65,7 @@ neterror-dns-not-found-hint-firewall = Comproba que { -brand-short-name } ten pe
 ##   $trrDomain (String) - Hostname of the DNS over HTTPS server that is currently in use.
 
 neterror-dns-not-found-trr-only-reason = { -brand-short-name } non pode protexer a túa solicitude para o enderezo deste sitio a través do noso resolvente de DNS de confianza. Motivo:
+neterror-dns-not-found-trr-only-reason2 = { -brand-short-name } non pode protexer a túa solicitude do enderezo deste sitio a través do noso provedor de DNS seguro. Este é o motivo:
 neterror-dns-not-found-trr-third-party-warning2 = Pode continuar co seu resolvedor de DNS predeterminado. Non obstante, é posible que un terceiro poida ver os sitios web que visita.
 neterror-dns-not-found-trr-only-could-not-connect = { -brand-short-name } non se puido conectar a { $trrDomain }.
 neterror-dns-not-found-trr-only-timeout = A conexión con { $trrDomain } tardou máis do esperado.
@@ -67,6 +73,7 @@ neterror-dns-not-found-trr-offline = Non está conectado a Internet.
 neterror-dns-not-found-trr-unknown-host2 = { $trrDomain } non atopou este sitio web.
 neterror-dns-not-found-trr-server-problem = Houbo un problema con { $trrDomain }.
 neterror-dns-not-found-bad-trr-url = URL non válido.
+neterror-dns-not-found-system-sleep = O sistema está en modo de suspensión.
 neterror-dns-not-found-trr-unknown-problem = Problema inesperado.
 
 ## Native fallback specific messages
@@ -74,6 +81,7 @@ neterror-dns-not-found-trr-unknown-problem = Problema inesperado.
 ##   $trrDomain (String) - Hostname of the DNS over HTTPS server that is currently in use.
 
 neterror-dns-not-found-native-fallback-reason = { -brand-short-name } non pode protexer a túa solicitude para o enderezo deste sitio a través do noso resolvente de DNS de confianza. Motivo:
+neterror-dns-not-found-native-fallback-reason2 = { -brand-short-name } non pode protexer a túa solicitude do enderezo deste sitio a través do noso provedor de DNS seguro. Este é o motivo:
 neterror-dns-not-found-native-fallback-heuristic = O DNS por HTTPS está desactivado na túa rede.
 neterror-dns-not-found-native-fallback-not-confirmed2 = { -brand-short-name } non se puido conectar a { $trrDomain }.
 
@@ -97,6 +105,9 @@ neterror-proxy-connect-failure-settings = Comprobe a configuración proxy para a
 neterror-proxy-connect-failure-contact-admin = Contacte co seu administrador de rede para asegurarse de que o servidor proxy está a funcionar.
 neterror-content-encoding-error = Contacte cos propietarios do sitio web para informalos deste problema.
 neterror-unsafe-content-type = Contacte cos propietarios do sitio web para informalos deste problema.
+# Variables:
+# $hostname (String) - Hostname of the website to which the user was trying to connect.
+neterror-basic-http-auth = { -brand-short-name } non confía en { $hostname } porque a conexión non é segura. Proba a cambiar o URL a HTTPS.
 neterror-nss-failure-not-verified = Non é posíbel amosar a páxina que está a tentar visualizar porque non foi posíbel comprobar a autenticidade dos datos recibidos.
 neterror-nss-failure-contact-website = Contacte cos propietarios do sitio web para informalos deste problema.
 # Variables:
@@ -149,3 +160,11 @@ certerror-mitm-what-can-you-do-about-it-attack-sts = Se non está familiarizado 
 # Variables:
 # $hostname (String) - Hostname of the website to which the user was trying to connect.
 certerror-what-should-i-do-bad-sts-cert-explanation = <b>{ $hostname }</b> ten unha política de seguranza chamada «HTTP Strict Transport Security» (Seguranza de transporte estrita HTTP, ou HSTS), que significa que { -brand-short-name } só pode conectarse con el de forma segura. Non é posíbel engadir unha excepción para visitar este sitio.
+cert-error-trust-certificate-transparency-what-can-you-do-about-it = Probablemente nada, xa que é posible que haxa un problema co propio sitio.
+certerror-blocked-by-corp-headers-description = Ás veces, os sitios web configuran proteccións para eles mesmos e para persoas coma ti contra interaccións non desexadas con outros sitios.
+certerror-coop-learn-more = Máis información sobre as políticas de apertura de orixe cruzado (COOP)
+certerror-coep-learn-more = Máis información sobre as políticas de integración de orixe cruzada (COEP)
+# Variables:
+#   $responsestatus (string) - HTTP response status code (e.g., 500).
+#   $responsestatustext (string) - HTTP response status text (e.g., "Internal Server Error").
+neterror-response-status-code = Código de erro: { $responsestatus } { $responsestatustext }
