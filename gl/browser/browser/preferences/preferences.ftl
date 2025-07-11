@@ -1385,6 +1385,8 @@ collection-header2 = { -brand-short-name } Recollida e uso de datos
     .searchkeywords = telemetría
 preferences-collection-description = Esforzámonos por ofrecerche opcións e recompilar só os datos mínimos necesarios para mellorar { -brand-product-name } para todos.
 preferences-collection-privacy-notice = Ver o aviso de privacidade
+preferences-across-profiles = Esta configuración aplícase a todos os perfís de { -brand-product-name } deste dispositivo.
+preferences-view-profiles = Ver todos os perfís
 collection-description = Esforzámonos para darlle opcións e recoller só aquilo que precisamos para prover e perfeccionar { -brand-short-name } para todo o mundo. Sempre lle solicitaremos permiso antes de recoller información persoal.
 collection-privacy-notice = Política de privacidade
 collection-health-report-telemetry-disabled = Xa non permite que o { -vendor-short-name } capure datos técnicos e de interacción. Todos os datos pasados eliminaranse nun prazo de 30 días.
@@ -1409,6 +1411,14 @@ collection-studies =
 collection-studies-link = Ver os estudos de { -brand-short-name }
 addon-recommendations2 =
     .label = Permitir recomendacións personalizadas de extensións
+addon-recommendations-description = Obtén recomendacións de extensións para mellorar a túa experiencia de navegación.
+# This message is displayed above disabled data sharing options in developer builds
+# or builds with no Telemetry support available.
+collection-health-report-disabled2 = O envío de informes de datos están desactivado nesta configuración de compilación.
+collection-backlogged-crash-reports2 =
+    .label = Enviar informes de quebras automaticamente
+    .accesskey = q
+collection-backlogged-crash-reports-description = Isto axuda a { -vendor-short-name } a diagnosticar e solucionar problemas co navegador. Os informes poden incluír datos persoais ou sensibles.
 addon-recommendations =
     .label = Permitir que { -brand-short-name } faga recomendacións de extensións personalizadas
 addon-recommendations-link = Máis información
@@ -1428,6 +1438,11 @@ privacy-segmentation-radio-on =
 
 ## Privacy Section - Website Advertising Preferences
 
+website-advertising-header = Preferencias de publicidade do sitio web
+website-advertising-private-attribution =
+    .label = Permitir que os sitios web realicen medicións de anuncios preservando a privacidade
+    .accesskey = a
+website-advertising-private-attribution-description = Isto axuda aos sitios a comprender o rendemento dos seus anuncios sen recompilar datos sobre ti.
 
 ## Privacy Section - Security
 ##

@@ -83,6 +83,12 @@ item-active-logins =
 item-cache =
     .label = Caché
     .accesskey = a
+# Variables:
+#   $amount (Number) - Amount of cached data
+#   $unit (String) - Abbreviation of the unit that $amount is in, e.g. "MB"
+item-cached-content-with-size =
+    .label = Ficheiros e páxinas almacenados temporalmente na caché ({ $amount } { $unit })
+    .accesskey = F
 item-form-search-history =
     .label = Historial de formularios e buscas
     .accesskey = f
