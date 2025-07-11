@@ -331,6 +331,7 @@ mozilla-pkix-error-invalid-integer-encoding = O servidor presentou un certificad
 mozilla-pkix-error-empty-issuer-name = O servidor presentou un certificado cun nome distintivo de emisor baleiro.
 mozilla-pkix-error-additional-policy-constraint-failed = Unha restrición de política adicional fallou ao validar este certificado.
 mozilla-pkix-error-self-signed-cert = O certificado non é fiábel porque está autoasinado.
+mozilla-pkix-error-issuer-no-longer-trusted = A autoridade de certificación que emitiu o certificado considerouse non fiable antes da emisión do certificado.
 xp-java-remove-principal-error = Non foi posíbel eliminar o principal
 xp-java-delete-privilege-error = Non foi posíbel eliminar o privilexio
 xp-java-cert-not-exists-error = Este principal non ten un certificado

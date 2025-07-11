@@ -112,6 +112,8 @@ about-debugging-setup-usb-step-enable-dev-menu2 = Active o menú para desenvolve
 # USB section step by step guide
 about-debugging-setup-usb-step-enable-debug2 = Active a depuración por USB no menú para desenvolvedores de Android.
 # USB section step by step guide
+about-debugging-setup-usb-step-enable-file-transfer = Activa a transferencia de ficheiros e asegúrate de que o teu dispositivo non estea en modo de só carga.
+# USB section step by step guide
 about-debugging-setup-usb-step-enable-debug-firefox2 = Active a depuración por USB en Firefox no dispositivo Android.
 # USB section step by step guide
 about-debugging-setup-usb-step-plug-device = Conecte o dispositivo Android ao computador.
