@@ -17,6 +17,8 @@ policy-AppAutoUpdate = Active ou desactive a actualización automática do aplic
 policy-AppUpdatePin = Impedir a { -brand-short-name } actualizarse alén dunha versión indicada.
 policy-AppUpdateURL = Permítelle estabelecer un URL de actualización personalizado para o aplicativo.
 policy-Authentication = Configura a autenticación integrada para os sitios web que a admiten.
+policy-AutofillAddressEnabled = Activa o autocompletado dos enderezos.
+policy-AutofillCreditCardEnabled = Activa o autocompletado dos métodos de pago.
 policy-AutoLaunchProtocolsFromOrigins = Definir unha lista de protocolos externos que poidan ser empregados  das orixes listadas sen lle preguntar ao usuario.
 policy-BackgroundAppUpdate2 = Activar ou desactivar o actualizador de segundo plano.
 policy-BlockAboutAddons = Bloquea o acceso ao xestor de complementos (about:addons).
@@ -26,6 +28,7 @@ policy-BlockAboutSupport = Bloquea o acceso á páxina about:support.
 policy-Bookmarks = Permítelle crear marcadores na barra de ferramentas de marcadores, no menú de marcadores ou nun cartafol específico dentro dos mesmos.
 policy-CaptivePortal = Activar ou desactivar o soporte de portal en catividade.
 policy-CertificatesDescription = Engada certificados ou use os certificados integrados.
+policy-ContentAnalysis = Activa ou desactiva a conexión co axente de prevención da perda de datos.
 policy-Cookies = Permite ou denega aos sitios web estabelecer cookies.
 # Containers in this context is referring to container tabs in Firefox.
 policy-Containers = Establece políticas relacionadas cos contedores.
@@ -36,8 +39,11 @@ policy-DisableAppUpdate = Evita que o navegador se actualice.
 policy-DisableBuiltinPDFViewer = Desactiva PDF.js, o visor de PDF integrado en { -brand-short-name }.
 policy-DisableDefaultBrowserAgent = Evitar que o axente do navegador predeterminado realice accións. Só se aplica a Windows; outras plataformas non teñen o axente.
 policy-DisableDeveloperTools = Bloquea o acceso ás ferramentas de desenvolvemento.
+policy-DisableEncryptedClientHello = Desactiva o uso da función TLS Encrypted Client Hello (ECH).
 policy-DisableFeedbackCommands = Desactiva as ordes para enviar opinións dende o menú Axuda (Enviar opinión e Informar de sitio enganoso).
 policy-DisableFirefoxAccounts = Desactiva os servizos baseados en { -fxaccount-brand-name }, incluído Sync.
+# This string is in the process of being deprecated in favor of policy-DisableAccounts.
+policy-DisableFirefoxAccounts1 = Desactiva os servizos baseados na conta, incluída a sincronización.
 # Firefox Screenshots is the name of the feature, and should not be translated.
 policy-DisableFirefoxScreenshots = Desactiva a funcionalidade Firefox Screenshots.
 policy-DisableFirefoxStudies = Evita que { -brand-short-name } execute os estudios.
@@ -78,6 +84,8 @@ policy-Handlers = Configurar os manipuladores de aplicativos predeterminados.
 policy-HardwareAcceleration = Se é falso, desactiva a aceleración por hardware.
 # “lock” means that the user won’t be able to change this setting
 policy-Homepage = Estabelece e opcionalmente bloquea a páxina de inicio.
+policy-HttpAllowlist = Orixes que non se actualizarán a HTTPS.
+policy-HttpsOnlyMode = Permitir que se active o modo só HTTPS.
 policy-InstallAddonsPermission = Permite que certos sitios web instalen complementos.
 policy-LegacyProfiles = Desactivar a función que obriga a ter un perfil separado para cada instalación.
 

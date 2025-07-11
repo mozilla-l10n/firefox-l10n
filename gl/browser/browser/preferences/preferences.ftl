@@ -1166,6 +1166,9 @@ addressbar-locbar-showrecentsearches-option =
     .accesskey = r
 addressbar-locbar-suggest-nonsponsored-desc = Recibe suxestións da web relacionadas coa túa busca.
 addressbar-quickactions-learn-more = Máis información
+addressbar-restore-dismissed-suggestions-description = Restaura as suxestións descartadas dos patrocinadores e de { -brand-short-name }.
+addressbar-restore-dismissed-suggestions-button =
+    .label = Restaurar
 
 ## Privacy Section - Content Blocking
 
@@ -1218,8 +1221,11 @@ content-blocking-etp-standard-tcp-rollout-description = A protección de rastros
 content-blocking-etp-standard-tcp-rollout-learn-more = Máis información
 content-blocking-etp-standard-tcp-title = Inclúe protección de rastros total, a funcionalidade de privacidade máis potente da nosa historia
 content-blocking-warning-title = Atención!
+content-blocking-and-isolating-etp-warning-description-3 = Esta configuración pode provocar que algúns sitios web non mostren contido ou non funcionen correctamente. Ofrecemos excepcións opcionais para sitios web que sabemos que poden verse afectados pola túa configuración. Para reducir a posibilidade de sitios web rotos, permite estas excepcións de seguimento. Se un sitio parece roto, podes desactivar a protección de seguimento para ese sitio para cargar todo o contido e informar do problema para que poidamos axudar a solucionalo para todos.
 content-blocking-and-isolating-etp-warning-description-2 = Esta configuración pode provocar que algúns sitios web non mostren contido ou funcionen correctamente. Se un sitio semella estragado, probe a desactivar a protección de rastrexo para que ese sitio cargue todo o contido.
 content-blocking-warning-learn-how = Aprender como
+content-blocking-baseline-exceptions =
+    .label = Permitir que { -brand-short-name } aplique automaticamente as excepcións necesarias para evitar quebras importantes do sitio web.
 content-blocking-reload-description = Deberá volver cargar as súas lapelas para aplicar estes cambios.
 content-blocking-reload-tabs-button =
     .label = Recargar todas as lapelas
@@ -1328,6 +1334,10 @@ collection-description = Esforzámonos para darlle opcións e recoller só aquil
 collection-privacy-notice = Política de privacidade
 collection-health-report-telemetry-disabled = Xa non permite que o { -vendor-short-name } capure datos técnicos e de interacción. Todos os datos pasados eliminaranse nun prazo de 30 días.
 collection-health-report-telemetry-disabled-link = Máis información
+collection-usage-ping =
+    .label = Enviar ping de uso diario a { -vendor-short-name }
+    .accesskey = u
+collection-usage-ping-description = Isto axuda a { -vendor-short-name } a estimar os usuarios activos.
 collection-health-report =
     .label = Permitir a { -brand-short-name } o envío de datos técnicos e de interacción a { -vendor-short-name }
     .accesskey = r
