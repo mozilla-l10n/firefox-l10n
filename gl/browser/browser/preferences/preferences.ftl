@@ -205,6 +205,12 @@ containers-remove-alert-msg =
     }
 containers-remove-ok-button = Retirar este contedor
 containers-remove-cancel-button = Non retirar este contedor
+browser-layout-vertical-tabs =
+    .label = Pestanas verticais
+browser-layout-vertical-tabs-desc = Mostra no lateral, na barra lateral
+browser-layout-show-sidebar =
+    .label = Amosar barra lateral
+browser-layout-show-sidebar-desc = Accede rapidamente aos marcadores, pestanas do teu teléfono, chatbots de IA e moito máis sen saír da túa vista principal.
 
 ## General Section - Language & Appearance
 

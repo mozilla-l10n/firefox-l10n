@@ -429,9 +429,30 @@ onboarding-checklist-sign-up = Rexístrate ou inicia sesión na túa conta
 ## Tab Groups feature onboarding strings
 
 tab-groups-onboarding-feature-callout-title = Proba os grupos de pestanas para ter menos desorde e máis concentración
+tab-groups-onboarding-feature-callout-subtitle = Organízate arrastrando unha pestana enriba doutra para crear o teu primeiro grupo.
+tab-groups-onboarding-create-group-title-2 = Atopa aquí os teus grupos de pestanas en calquera momento.
+tab-groups-onboarding-create-group-no-alltabs-button-title = Atopa os teus grupos buscándoos na barra de enderezos.
+tab-groups-onboarding-saved-groups-title-2 = Cando pechas un grupo de pestanas, podes reabrilo aquí en calquera momento.
+tab-groups-onboarding-saved-groups-no-alltabs-button-title-2 = Atopa os teus grupos pechados buscándoos na barra de enderezos.
+tab-groups-onboarding-session-restore-title = Volver abrir aquí os teus grupos de pestanas en calquera momento.
+tab-groups-onboarding-dismiss = Aceptar
 
 ## Multi Profiles feature onboarding messages
 
+multi-profile-spotlight-title = Saluda aos perfís de { -brand-product-name }
+multi-profile-spotlight-body = Cambia facilmente entre a navegación por traballo e diversión. Os perfís manteñen a túa información de navegación, incluído o historial de busca e os contrasinais, totalmente separados para que poidas manterte organizado.
+multi-profile-spotlight-cta = Crear un perfil
+multi-profile-callout-title = Crear diferentes perfís para traballo e diversión
+multi-profile-callout-subtitle = Os perfís permítenche manter a túa información de navegación, como o historial de busca e os contrasinais, totalmente separados.
+multi-profile-callout-cta = Crear un perfil
 
 ## Desktop to Mobile Adoption feature callout strings
 
+# If translating the headline is challenging, consider using a simplified alternative as a reference: 'Sync your browsing with Firefox for mobile.'
+desktop-to-mobile-headline = Descargar, sincronizar e listo!
+# The phrase, 'on the go', is used to describe when people are very busy and are traveling from place to place.
+desktop-to-mobile-subtitle = Escanea o código QR para descargar { -brand-product-name } para móbiles. Unha vez instalado, selecciona «Sincronizar co móbil» para acceder aos teus contrasinais, marcadores e moito máis en calquera lugar.
+dismiss-button-label = Rexeitar
+sync-to-mobile-button-label = Sincronizar co móbil
+desktop-to-mobile-qr-code-alt =
+    .aria-label = Código QR para descargar { -brand-product-name } para móbiles
