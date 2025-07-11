@@ -220,6 +220,9 @@ shortcuts-no-addons = Non ten habilitada ningunha extensión.
 shortcuts-no-commands = As seguintes extensións non teñen atallos:
 shortcuts-input =
     .placeholder = Escriba un atallo
+# Accessible name for a trashcan icon button that removes an existent shortcut
+shortcuts-remove-button =
+    .aria-label = Eliminar atallo
 shortcuts-browserAction2 = Activar o botón da barra de ferramentas
 shortcuts-pageAction = Activar a acción da páxina
 shortcuts-sidebarAction = Alternar a barra lateral
@@ -275,6 +278,7 @@ discopane-notice-recommendations2 =
         Algunhas destas recomendacións son personalizadas. Baséanse noutros
         extensións que instalou, preferencias do perfil e estatísticas de uso.
 discopane-notice-learn-more = Máis información
+colorway-removal-notice-learn-more = Máis información
 privacy-policy = Política de privacidade
 # Refers to the author of an add-on, shown below the name of the add-on.
 # Variables:

@@ -148,11 +148,15 @@ perftools-presets-graphics-label = Gráficos
 perftools-presets-graphics-description = Predefinido para investigar erros gráficos en { -brand-shorter-name }.
 perftools-presets-media-label = Multimedia
 perftools-presets-media-description2 = Predefinido para investigar erros de son e de vídeo en { -brand-shorter-name }.
+perftools-presets-ml-label = Aprendizaxe automática
+perftools-presets-ml-description2 = Predefinido para investigar erros de aprendizaxe automática en { -brand-shorter-name }.
 perftools-presets-networking-label = Rede
 perftools-presets-networking-description = Predefinido para investigar erros de rede en { -brand-shorter-name }.
 # "Power" is used in the sense of energy (electricity used by the computer).
 perftools-presets-power-label = Enerxía
 perftools-presets-power-description = Predefinición para investigar erros de uso de enerxía en { -brand-shorter-name }, con baixo consumo de recursos.
+perftools-presets-debug-label = Depurar
+perftools-presets-debug-description = Predefinido para a depuración en { -brand-shorter-name }. Alta sobrecarga, non o uses para traballos de rendemento, senón para centrarte na comprensión do comportamento do navegador.
 perftools-presets-custom-label = Personalizado
 
 ##
