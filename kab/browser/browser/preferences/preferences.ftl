@@ -708,6 +708,9 @@ search-remove-engine =
 search-add-engine =
     .label = Rnu
     .accesskey = R
+search-edit-engine =
+    .label = ẓreg
+    .accesskey = Ẓ
 search-find-more-link = Aff ugar n yimseddayen n unadi
 # This warning is displayed when the chosen keyword is already in use
 # ('Duplicate' is an adjective)
@@ -716,6 +719,7 @@ search-keyword-warning-title = Sleg awal n tsarutt
 #   $name (string) - Name of a search engine.
 search-keyword-warning-engine = Tferneḍ awal n tsarutt i  yettusqedcen yakan sɣur "{ $name }".. Ma ulac aɣilif fren wayeḍ.
 search-keyword-warning-bookmark = Tferneḍ awal n tsarutt i yettusqedcen yakan di tecreḍṭ n usebter. Ma ulac aɣilif fren wayeḍ.
+remove-engine-remove = Kkes
 
 ## Containers Section
 

@@ -33,6 +33,15 @@ edit-profile-page-avatar-header-2 =
     .label = Avataṛ
 edit-profile-page-delete-button =
     .label = Kkes
+edit-profile-page-avatar-selector-opener-link = Ẓreg
+avatar-selector-icon-tab = Tignit
+avatar-selector-custom-tab = Sagen
+avatar-selector-cancel-button =
+    .label = Sefsex
+avatar-selector-save-button =
+    .label = Sekles
+avatar-selector-upload-file = Sali afaylu
+avatar-selector-drag-file = Neɣ zuɣer afaylu ɣer dagi
 edit-profile-page-duplicate-name = Isem n umaɣnu yettwaseqdac yakan. Ԑreḍ isem niḍen.
 edit-profile-page-profile-saved = Yettwasekles
 new-profile-page-title = Amaɣnu amaynut
@@ -89,6 +98,8 @@ shopping-avatar-alt =
     .alt = Taqecwalt n lqeḍyan
 star-avatar-alt =
     .alt = Itri
+custom-avatar-alt =
+    .alt = Sagen avaṭar
 
 ## Labels for default avatar icons
 

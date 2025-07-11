@@ -130,6 +130,8 @@ sidebar-pins-callout-cta-button = Fastgør faneblad
 
 ## Pinning Tabs Strings
 
+pin-tabs-callout-cta-1-button = Fastgør dette faneblad
+pin-tabs-callout-cta-2-button = Fastgør dette faneblad
 
 ## Sidebar Onboarding Strings
 
