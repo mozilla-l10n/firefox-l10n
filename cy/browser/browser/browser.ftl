@@ -363,6 +363,7 @@ quickactions-downloads2 = Gweld llwythi
 quickactions-cmd-downloads = llwythi i lawr
 # Opens about:addons page in the extensions section
 quickactions-extensions = Rheoli estyniadau
+quickactions-cmd-extensions2 = estyniadau, ategion, ychwanegion
 quickactions-cmd-extensions = estyniadau
 # Opens Firefox View
 quickactions-firefoxview = Agor { -firefoxview-brand-name }

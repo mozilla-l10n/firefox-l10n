@@ -556,6 +556,8 @@ newtab-download-mobile-highlight-image =
 
 ## Strings for shortcuts highlight
 
+newtab-shortcuts-highlight-title = Eich ffefrynnau ar flaenau eich bysedd
+newtab-shortcuts-highlight-subtitle = Ychwanegwch lwybr byr i gadw'ch hoff wefannau un clic i ffwrdd.
 
 ## Strings for reporting ads and content
 

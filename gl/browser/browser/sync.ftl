@@ -50,3 +50,8 @@ sync-account-in-use-header = Conta xa en uso
 # Variables:
 #   $profileName (String) - Name of the profile to switch to
 sync-button-switch-profile = Cambiar a «{ $profileName }»
+sync-button-create-profile = Crear un novo perfil
+sync-button-sync-and-merge = Sincronizar e combinar datos
+# Variables:
+#   $profileName (String) - Name of the profile to switch to
+sync-button-sync-profile = Sincronizar «{ $profileName }»

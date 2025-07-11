@@ -170,6 +170,9 @@ profiler-popup-capture-shortcut =
         [macos] ⌃⇧2
        *[other] Ctrl+Shift+2
     }
+profiler-button-dropmarker =
+    .label = Agor panel y proffiliwr
+    .tooltiptext = Agor panel y proffiliwr
 
 ## Profiler presets
 ## They are shown in the popup's select box.

@@ -42,3 +42,6 @@ more-from-moz-solo-button = Rhowch gynnig ar { -solo-ai-brand-name }
 
 ## These strings are for the MDN card in about:preferences moreFromMozilla page
 
+more-from-moz-mdn-title = Dogfennau Gwe MDN
+more-from-moz-mdn-description = Dysgwch sut i ddatblygu'r we gyda chanllawiau a chyfeiriadau cynhwysfawr am ddim.
+more-from-moz-mdn-button = Dysgwch am ddatblygu gwe

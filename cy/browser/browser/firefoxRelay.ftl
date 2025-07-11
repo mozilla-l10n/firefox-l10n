@@ -72,6 +72,7 @@ firefox-relay-and-fxa-opt-in-confirmation-enable-button-basic-info =
 
 firefox-relay-and-fxa-popup-notification-header-with-domain = Cael e-bost enwarall am ddim
 firefox-relay-and-fxa-popup-notification-first-sentence-with-domain = Diogelwch eich blwch derbyn rhag sbam drwy ddefnyddio <label data-l10n-name="firefox-relay-learn-more-url">e-bost enwarall</label> am ddim i guddio'ch cyfeiriad go iawn. Bydd e-byst o <label data-l10n-name="firefox-fxa-and-relay-offer-domain">y wefan hon</label> yn dal i ddod i'ch blwch derbyn, ond gyda'ch e-bost wedi'i guddio.
+firefox-relay-and-fxa-popup-notification-first-sentence = Diogelwch eich blwch derbyn rhag sbam drwy ddefnyddio <label data-l10n-name="firefox-relay-learn-more-url">{ -relay-brand-name }e-bost enwarall</label> am ddim i guddio'ch cyfeiriad go iawn. Bydd e-byst o <label data-l10n-name="firefox-fxa-and-relay-offer-domain">y wefan hon</label> yn dal i ddod i'ch blwch derbyn, ond gyda'ch e-bost wedi'i guddio.
 firefox-relay-and-fxa-popup-notification-second-sentence-with-domain = Yn gyntaf, cofrestrwch neu mewngofnodwch i'ch cyfrif i ddefnyddio e-bost enwarall
 firefox-relay-and-fxa-opt-in-confirmation-enable-button-with-domain =
     .label = Cofrestru

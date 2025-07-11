@@ -8,6 +8,19 @@ tabbrowser-menuitem-close-tab =
     .label = Pechar lapela
 tabbrowser-menuitem-close =
     .label = Pechar
+# Displayed within the tooltip on tabs inside of a tab group.
+# Variables:
+#   $tabGroupName (String): the user-defined name of the current tab group.
+tabbrowser-tab-tooltip-tab-group = { $tabGroupName }
+# Displayed within the tooltip on tabs in a container.
+# Variables:
+#   $containerName (String): the name of the current container.
+tabbrowser-tab-tooltip-container = { $containerName }
+# Displayed within the tooltip on tabs inside of a tab group if the tab is also in a container.
+# Variables:
+#   $tabGroupName (String): the user-defined name of the current tab group.
+#   $containerName (String): the name of the current container.
+tabbrowser-tab-tooltip-tab-group-container = { $tabGroupName } — { $containerName }
 # Displayed as a tooltip on container tabs
 # Variables:
 #   $title (String): the title of the current tab.
@@ -74,6 +87,10 @@ tabbrowser-unblock-tab-audio-tooltip =
 
 ## Tooltips for tab audio control
 
+tabbrowser-unmute-tab-audio-aria-label =
+    .aria-label = Desenmudecer pestana
+tabbrowser-mute-tab-audio-aria-label =
+    .aria-label = Enmudecer pestana
 
 ## Confirmation dialog when closing a window with more than one tab open,
 ## or when quitting when only one window is open.
@@ -83,6 +100,7 @@ tabbrowser-unblock-tab-audio-tooltip =
 #   $tabCount (Number): The number of tabs that will be closed.
 tabbrowser-confirm-close-tabs-title = Pechar { $tabCount } lapelas?
 tabbrowser-confirm-close-tabs-button = Pechar as lapelas
+tabbrowser-ask-close-tabs-checkbox = Preguntar antes de pechar varias pestanas
 tabbrowser-confirm-close-tabs-checkbox = Confirmar antes de pechar varias lapelas
 
 ## Confirmation dialog when quitting using the menu and multiple windows are open.
