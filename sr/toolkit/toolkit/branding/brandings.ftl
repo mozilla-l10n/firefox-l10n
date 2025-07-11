@@ -180,15 +180,35 @@
     }
     .gender = masculine
     .declinable = true
--fakespot-brand-name = Fakespot
--solo-ai-brand-name = Solo
+-fakespot-brand-name =
+    { $case ->
+        [gen] Fakespot-а
+        [dat] Fakespot-у
+        [acc] Fakespot
+        [ins] Fakespot-ом
+        [loc] Fakespot-у
+       *[nom] Fakespot
+    }
+    .gender = masculine
+    .declinable = true
+-solo-ai-brand-name =
+    { $case ->
+        [gen] Solo-а
+        [dat] Solo-у
+        [acc] Solo
+        [ins] Solo-ом
+        [loc] Solo-у
+       *[nom] Solo
+    }
+    .gender = masculine
+    .declinable = true
 # Note the name of the website is capitalized.
 -fakespot-website-name = Fakespot.com
 # The particle "by" can be localized, "Fakespot" and "Mozilla" should not be localized or transliterated.
 -fakespot-brand-full-name = Fakespot од Mozill-е
 # “Suggest” can be localized, “Firefox” must be treated as a brand
 # and kept in English.
--firefox-suggest-brand-name = Firefox предлог
+-firefox-suggest-brand-name = Firefox предлози
 # ”Home" can be localized, “Firefox” must be treated as a brand
 # and kept in English.
 -firefox-home-brand-name = Firefox почетна
