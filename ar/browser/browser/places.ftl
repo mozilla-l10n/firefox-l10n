@@ -152,7 +152,7 @@ places-manage-bookmarks =
 places-forget-about-this-site-confirmation-title = نسيان هذا الموقع
 # Variables:
 # $hostOrBaseDomain (string) - The base domain (or host in case there is no base domain) for which data is being removed
-places-forget-about-this-site-confirmation-msg = سيؤدي هذا الإجراء إلى إزالة البيانات المتعلقة بـ { $hostOrBaseDomain } بما في ذلك السجل وملفات تعريف الارتباط وذاكرة التخزين المؤقت وتفضيلات المحتوى. لن تُزيل العلامات وكلمات المرور ذات الصلة. هل انت متأكد انك تريد المتابعة؟
+places-forget-about-this-site-confirmation-msg = سيؤدي هذا الإجراء إلى إزالة البيانات المتعلقة بـ { $hostOrBaseDomain } بما في ذلك السجل وملفات تعريف الارتباط وذاكرة التخزين المؤقت وتفضيلات المحتوى. لن تُزيل العلامات وكلمات السر ذات الصلة. هل انت متأكد انك تريد المتابعة؟
 places-forget-about-this-site-forget = انسَ
 places-library3 =
     .title = المكتبة

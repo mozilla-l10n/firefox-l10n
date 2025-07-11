@@ -97,7 +97,7 @@ about-logins-login-list-alerts-option = التنبيهات
 login-list-last-changed-option = آخر تعديل
 login-list-last-used-option = آخر استخدام
 login-list-intro-title = لا جلسات ولوج
-login-list-intro-title2 = لم يتم حفظ كلمات مرور
+login-list-intro-title2 = لم يتم حفظ كلمات سر
 login-list-intro-description = متى ما حفظت كلمة سر في { -brand-product-name } ستظهر هنا.
 about-logins-login-list-empty-search-title = لا جلسات ولوج
 about-logins-login-list-empty-search-title2 = لم يُعثر على كلمات السر
@@ -123,7 +123,7 @@ about-logins-login-intro-heading-logged-out2 = أتبحث عن جلسات ولو
 about-logins-login-intro-heading-logged-in = لم نجد أيّ جلسة ولوج متزامنة.
 login-intro-description = إن حفظت جلسات ولوجك في { -brand-product-name } على جهاز آخر، فهكذا يمكنك أن تزامنها هنا:
 login-intro-instructions-fxa = أنشِئ أو لِج إلى { -fxaccount-brand-name } على الأجهزة التي لديك عليها جلسات ولوج محفوظة
-about-logins-login-intro-heading-message = احفظ كلمات مرورك في مكان آمن
+about-logins-login-intro-heading-message = احفظ كلمات سرك في مكان آمن
 login-intro-description2 = جميع كلمات السر التي تحفظها في { -brand-product-name } مُعمَّاة. بالإضافة إلى ذلك، إننا نراقب الانتهاكات وننبهك إذا تأثرت بها. <a data-l10n-name="breach-alert-link">معرفة المزيد</a>
 login-intro-instructions-fxa2 = أنشئ أو لج إلى حسابك على الأجهزة التي لديك عليها جلسات ولوج محفوظة.
 login-intro-instructions-fxa-settings = انتقل إلى ”الإعدادات > المزامنة > فعّل المزامنة…“ وضَع علامة على ”جلسات الولوج وكلمات السر“.

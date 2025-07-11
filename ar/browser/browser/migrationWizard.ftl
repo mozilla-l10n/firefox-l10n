@@ -162,7 +162,10 @@ migration-wizard-progress-icon-completed =
     .aria-label = اكتمل
 migration-safari-password-import-header = استورد كلمات السر من Safari
 migration-safari-password-import-steps-header = لاستيراد كلمات سر Safari:
+migration-safari-password-import-step1 = في Safari، افتح قائمة "Safari" وانتقل إلى التفضيلات > كلمات المرور
+migration-safari-password-import-step2 = حدد زر <img data-l10n-name="safari-icon-3dots"/> واختر "تصدير جميع كلمات المرور"
 migration-safari-password-import-step3 = احفظ ملف كلمات السر
+migration-safari-password-import-step4 = استخدم "تحديد الملف" أدناه لاختيار ملف كلمات المرور التي حفظتها
 migration-manual-password-import-skip-button = تخطَّ
 migration-manual-password-import-select-button = اختر ملفًا
 migration-safari-password-import-skip-button = تخطَّ

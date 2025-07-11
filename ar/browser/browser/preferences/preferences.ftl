@@ -992,7 +992,7 @@ forms-windows-sso =
     .label = اسمح بالولوج الموحّد من وِندوز إلى حسابات ميكروسوفت وحسابات العمل والحسابات المدرسية.
 forms-windows-sso-learn-more-link = اطّلع على المزيد
 forms-windows-sso-desc = أدِر الحسابات في إعدادات الجهاز
-windows-passkey-settings-label = أدر مفاتيح المرور (passkeys) في إعدادات النظام
+windows-passkey-settings-label = أدر مفاتيح السر (passkeys) في إعدادات النظام
 
 ## OS Authentication dialog
 
