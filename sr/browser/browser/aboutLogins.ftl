@@ -114,7 +114,7 @@ login-intro-description =
         [true] Ако сте сачували лозинке у { -brand-product-name(case: "loc") } на другом уређају, ево како им можете приступити:
        *[false] Ако сте сачували лозинке у програму { -brand-product-name } на другом уређају, ево како им можете приступити:
     }
-login-intro-instructions-fxa = Региструјте се или се пријавите на { -fxaccount-brand-name(case: "acc") } на уређају на ком сте сачували лозинке.
+login-intro-instructions-fxa = Отворите { -fxaccount-brand-name(case: "acc") } или се пријавите на њега на уређају на ком сте сачували лозинке.
 about-logins-login-intro-heading-message = Сачувај своје лозинке на безбедном месту
 login-intro-description2 = Све лозинке које сачуваш у { -brand-product-name } су шифроване. Ми пратимо цурења података и обавестићемо вас ако сте у њима. <a data-l10n-name="breach-alert-link">Сазнај више</a>
 login-intro-instructions-fxa2 = Направите или се пријавите на ваш налог, на уређају где су сачуване ваше пријаве.
