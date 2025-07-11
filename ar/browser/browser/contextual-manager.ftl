@@ -37,7 +37,7 @@ contextual-manager-passwords-reveal-password-os-auth-dialog-message-macosx = ع�
 contextual-manager-passwords-edit-password-os-auth-dialog-message-win = لتحرير كلمة سرك، أدخل بيانات ولوجك بنظام ويندوز. يساعد هذا في حماية أمان حساباتك.
 # The MacOS string is preceded by the operating system with "Firefox is trying to ".
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
-contextual-manager-passwords-edit-password-os-auth-dialog-message-macosx = تحرير كلمة المرور المحفوظة
+contextual-manager-passwords-edit-password-os-auth-dialog-message-macosx = حرّر كلمة السر المحفوظة
 # This message can be seen when attempting to copy a password in contextual password manager on Windows.
 contextual-manager-passwords-copy-password-os-auth-dialog-message-win = أدخِل معلومات ولوج وِندوز لتنسخ كلمة السر. يساعد هذا الأمر على حماية أمن حساباتك.
 # The MacOS string is preceded by the operating system with "Firefox is trying to ".

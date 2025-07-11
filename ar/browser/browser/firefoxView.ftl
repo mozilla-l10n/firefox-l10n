@@ -63,6 +63,8 @@ firefoxview-tabpickup-sync-error-header = نواجه مشكلة في المزا�
 firefoxview-tabpickup-sync-error-primarybutton = حاول مجددًا
 firefoxview-tabpickup-sync-disconnected-header = فعل المزامنة للمتابعة
 firefoxview-tabpickup-sync-disconnected-primarybutton = شغّل المزامنة في الإعدادات
+firefoxview-tabpickup-password-locked-header = أدخل كلمة السر الرئيسية لعرض الألسنة
+firefoxview-tabpickup-password-locked-description = للحصول على ألسنتك، ستحتاج إلى إدخال كلمة السر الرئيسية لـ { -brand-short-name }.
 firefoxview-tabpickup-password-locked-link = اطّلع على المزيد
 firefoxview-tabpickup-password-locked-primarybutton = أدخل كلمة السر الرئيسية
 firefoxview-syncedtab-password-locked-link = <a data-l10n-name="syncedtab-password-locked-link">اطّلع على المزيد</a>

@@ -69,12 +69,24 @@ login-list-filtered-count =
 #   $count (number) - Number of logins
 login-list-count2 =
     { $count ->
-        [zero] ولا كلمة مرور
-        [one] كلمة مرور واحدة
-        [two] كلمتا مرور
-        [few] { $count } كلمات مرور
-        [many] { $count } كلمة مرور
-       *[other] { $count } كلمة مرور
+        [zero] ولا كلمة سر
+        [one] كلمة سر واحدة
+        [two] كلمتا سر
+        [few] { $count } كلمات سر
+        [many] { $count } كلمة سر
+       *[other] { $count } كلمة سر
+    }
+# Variables
+#   $count (number) - Number of filtered logins
+#   $total (number) - Total number of logins
+login-list-filtered-count2 =
+    { $total ->
+        [zero] { $count } من أصل { $total } كلمات السر
+        [one] كلمة واحدة من أصل { $total } كلمات السر
+        [two] كلمتان من أصل { $total } كلمات السر
+        [few] { $count } من أصل { $total } كلمات السر
+        [many] { $count } من أصل { $total } كلمة السر
+       *[other] { $count } من أصل { $total } كلمة السر
     }
 login-list-sort-label-text = افرز حسب:
 login-list-name-option = الاسم (ا-ي)
@@ -188,7 +200,7 @@ about-logins-os-auth-dialog-message =
 about-logins-edit-login-os-auth-dialog-message2-win = لتحرير كلمة سرك، أدخل بيانات ولوجك بنظام ويندوز. يساعد هذا في حماية أمان حساباتك.
 # This message can be seen when attempting to edit a login in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
-about-logins-edit-login-os-auth-dialog-message2-macosx = تحرير كلمة المرور المحفوظة
+about-logins-edit-login-os-auth-dialog-message2-macosx = حرّر كلمة السر المحفوظة
 # This message can be seen when attempting to reveal a password in about:logins on Windows.
 about-logins-reveal-password-os-auth-dialog-message-win = أدخِل معلومات ولوج وِندوز لتعرض كلمة السر. يساعد هذا الأمر على حماية أمن حساباتك.
 # This message can be seen when attempting to reveal a password in about:logins
@@ -488,7 +500,7 @@ about-logins-import-report-row-description-modified = حُدّثت جلسة ال
 about-logins-import-report-row-description-added = أُضيفت جلسة ولوج جديدة
 about-logins-import-report-row-description-no-change2 = متكرّر: مطابقة تامة للولوج الحالي
 about-logins-import-report-row-description-modified2 = حُدّثت الولوج الموجودة
-about-logins-import-report-row-description-added2 = أضيفت كلمة مرور جديدة
+about-logins-import-report-row-description-added2 = أُضيفت كلمة سر جديدة
 about-logins-import-report-row-description-error = خطأ: حقل مفقود
 
 ##
