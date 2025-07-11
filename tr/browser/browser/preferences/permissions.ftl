@@ -13,8 +13,8 @@ permissions-block =
     .label = Engelle
     .accesskey = E
 permissions-disable-etp =
-    .label = Ayrıcalık tanı…
-    .accesskey = A
+    .label = İstisna ekle
+    .accesskey = e
 permissions-session =
     .label = Oturum boyunca izin ver
     .accesskey = r
@@ -76,7 +76,7 @@ permissions-invalid-uri-label = Lütfen geçerli bir sunucu adı girin
 permissions-exceptions-etp-window2 =
     .title = Gelişmiş İzlenme Koruması İstisnaları
     .style = { permissions-window2.style }
-permissions-exceptions-manage-etp-desc = Gelişmiş izlenme korumasının hangi sitelerde kapalı kalacağını belirleyebilirsiniz. Yönetmek istediğiniz sitenin tam adresini yazıp "İstisna ekle"ye tıklayın.
+permissions-exceptions-manage-etp-desc = Gelişmiş izlenme korumasının hangi sitelerde kapalı kalacağını belirleyebilirsiniz. Yönetmek istediğiniz sitenin tam adresini yazıp “İstisna ekle”ye tıklayın.
 
 ## Exceptions - Cookies
 

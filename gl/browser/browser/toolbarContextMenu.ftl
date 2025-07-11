@@ -30,6 +30,12 @@ toolbar-context-menu-reopen-closed-tabs =
            *[other] Reabrir lapelas pechadas
         }
     .accesskey = o
+toolbar-context-turn-on-vertical-tabs =
+    .label = Activar as pestanas verticais
+toolbar-context-turn-off-vertical-tabs =
+    .label = Desactivar as pestanas verticais
+toolbar-context-customize-sidebar =
+    .label = Personalizar a barra lateral
 toolbar-context-menu-manage-extension =
     .label = Xestionar extensión
     .accesskey = e
@@ -54,6 +60,10 @@ toolbar-context-menu-auto-hide-downloads-button-2 =
 toolbar-context-menu-always-open-downloads-panel =
     .label = Mostrar o panel cando comece a descarga
     .accesskey = s
+# Label of checkbox menu item to toggle visibility of Extensions Button.
+toolbar-context-menu-always-show-extensions-button =
+    .label = Mostrar sempre na barra de ferramentas
+    .accesskey = M
 toolbar-context-menu-remove-from-toolbar =
     .label = Retirar da barra de ferramentas
     .accesskey = R

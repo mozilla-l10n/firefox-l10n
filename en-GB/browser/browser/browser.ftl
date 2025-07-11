@@ -363,6 +363,7 @@ quickactions-downloads2 = View downloads
 quickactions-cmd-downloads = downloads
 # Opens about:addons page in the extensions section
 quickactions-extensions = Manage extensions
+quickactions-cmd-extensions2 = extensions, addons, add-ons
 quickactions-cmd-extensions = extensions
 # Opens Firefox View
 quickactions-firefoxview = Open { -firefoxview-brand-name }
