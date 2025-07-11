@@ -15,6 +15,9 @@ webauthn-select-sign-result-unknown-account = Conta descoñecida
 webauthn-a-passkey-label = Usar unha clave de acceso
 webauthn-another-passkey-label = Usar outra clave de acceso
 # Variables:
+#   $domain (String): the domain of the site.
+webauthn-specific-passkey-label = Clave de acceso para { $domain }
+# Variables:
 #  $retriesLeft (Number): number of tries left
 webauthn-uv-invalid-long-prompt =
     { $retriesLeft ->

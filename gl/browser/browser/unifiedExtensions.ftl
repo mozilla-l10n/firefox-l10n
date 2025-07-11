@@ -51,3 +51,35 @@ unified-extensions-mb-quarantined-domain-message-3 =
 unified-extensions-mb-quarantined-domain-learn-more = Máis información
     .aria-label = Máis información: Algunhas extensións non están permitidas
 unified-extensions-mb-about-addons-link = Ir á configuración da extensión
+# Variables:
+#   $extensionName (String) - Name of the extension disabled through a soft-block.
+unified-extensions-mb-blocklist-warning-single =
+    .heading = { $extensionName } desactivada
+    .message =
+        Esta extensión infrinxe as políticas de Mozilla e desactivouse.
+        Podes activala na configuración, pero pode ser arriscado.
+# Variables:
+#   $extensionName (String) - Name of the extension disabled through a hard-block.
+unified-extensions-mb-blocklist-error-single =
+    .heading = { $extensionName } desactivada
+    .message = Esta extensión infrinxe as políticas de Mozilla e desactivouse.
+# Variables:
+#   $extensionsCount (Number) - Number of extensions disabled through both soft and hard-blocks (always going to be greater than 1)
+unified-extensions-mb-blocklist-warning-multiple =
+    .heading =
+        { $extensionsCount ->
+            [one] { $extensionsCount } extensión desactivada
+           *[other] { $extensionsCount } extensións desactivadas
+        }
+    .message =
+        Algunhas das túas extensións deshabilitáronse por infrinxir as políticas de Mozilla.
+        Podes activalas na configuración, pero pode ser arriscado.
+# Variables:
+#   $extensionsCount (Number) - Number of extensions disabled through hard-blocks.
+unified-extensions-mb-blocklist-error-multiple =
+    .heading =
+        { $extensionsCount ->
+            [one] { $extensionsCount } extensión desactivada
+           *[other] { $extensionsCount } extensións desactivadas
+        }
+    .message = Algunhas das túas extensións desactiváronse por infrinxir as políticas de Mozilla.

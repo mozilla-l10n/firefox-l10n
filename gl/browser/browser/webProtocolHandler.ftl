@@ -8,6 +8,8 @@ protocolhandler-mailto-os-handler-no-button = Agora non
 ## Variables:
 ##  $url (String): The url of a webmailer, but only its full domain name.
 
+protocolhandler-mailto-handler-set = Usa <strong>{ -brand-short-name } para abrir { $url }</strong> cada vez que fas clic nunha ligazón que abre o teu correo electrónico?
+protocolhandler-mailto-handler-confirm = <strong>{ -brand-short-name } abrirá { $url }</strong> cada vez que fagas clic nunha ligazón que envíe un correo electrónico.
 
 ##
 
