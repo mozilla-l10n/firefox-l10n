@@ -24,6 +24,7 @@ about-webrtc-aec-logging-off-state-label = Iniciar rexistro AEC
 about-webrtc-aec-logging-on-state-label = Deter rexistro AEC
 about-webrtc-aec-logging-on-state-msg = Rexistro AEC activo (fale co interlocutor durante uns minutos e logo deteña a captura)
 about-webrtc-aec-logging-toggled-on-state-msg = Rexistro AEC activo (fale co interlocutor durante uns minutos e logo deteña a captura)
+about-webrtc-aec-logging-unavailable-sandbox = A variable de entorno MOZ_DISABLE_CONTENT_SANDBOX=1 é necesaria para exportar rexistros AEC. Establece esta variable só se entendes os posibles riscos.
 # Variables:
 #  $path (String) - The path to which the aec log file is saved.
 about-webrtc-aec-logging-toggled-off-state-msg = Os ficheiros de rexistro poden atoparse en: { $path }
@@ -97,6 +98,9 @@ about-webrtc-debug-mode-off-state-label = Iniciar modo de depuración
 about-webrtc-debug-mode-on-state-label = Deter o modo de depuración
 about-webrtc-stats-heading = Estatísticas da sesión
 about-webrtc-enable-logging-label = Habilitar o registro preestablecido de WebRTC
+about-webrtc-peerconnections-section-heading = Estatísticas de RTCPeerConnection
+about-webrtc-peerconnections-section-show-msg = Mostrar estatísticas de RTCPeerConnection
+about-webrtc-peerconnections-section-hide-msg = Ocultar estatísticas de RTCPeerConnection
 about-webrtc-stats-clear = Borrar historial
 about-webrtc-log-heading = Rexistro de conexión
 about-webrtc-log-clear = Borrar rexistro
@@ -191,10 +195,14 @@ about-webrtc-configuration-element-provided = Fornecido
 about-webrtc-configuration-element-not-provided = Non fornecido
 # The options set by the user in about:config that could impact a WebRTC call
 about-webrtc-custom-webrtc-configuration-heading = Preferencias de WebRTC configuradas polo usuario
+# The options set by the user in about:config that could impact a WebRTC call
+about-webrtc-user-modified-configuration-heading = Configuración WebRTC modificada polo usuario
 
 ## These are displayed on the button that shows or hides the
 ## user modified configuration disclosure
 
+about-webrtc-user-modified-configuration-show-msg = Mostrar a configuración modificada polo usuario
+about-webrtc-user-modified-configuration-hide-msg = Ocultar a configuración modificada polo usuario
 
 ##
 
