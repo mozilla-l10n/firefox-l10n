@@ -141,6 +141,7 @@ pin-tabs-callout-cta-1-button = Fastgør dette faneblad
 pin-tabs-callout-2-title = Fastgør de faneblade, du bruger mest
 pin-tabs-callout-2-subtitle = For at fastgøre et faneblad skal du trække det til starten af fanebladslisten. Eller højreklik og vælg Fastgør faneblad.
 pin-tabs-callout-cta-2-button = Fastgør dette faneblad
+pin-tabs-callout-3-title = Hav vigtige websteder inden for rækkevidde
 pin-tabs-callout-4-title = Fastgør de faneblade, du bruger mest
 
 ## Sidebar Onboarding Strings

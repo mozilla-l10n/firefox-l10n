@@ -4,11 +4,9 @@
 
 aboutDialog-title =
     .title =
-        О { -brand-full-name.gender ->
-            [masculine] { -brand-full-name(case: "loc") }
-            [feminine] { -brand-full-name(case: "loc") }
-            [neuter] { -brand-full-name(case: "loc") }
-           *[other] програму { -brand-full-name }
+        { -brand-full-name.declinable ->
+            [true] О { -brand-full-name(case: "loc") }
+           *[false] О програму { -brand-full-name }
         }
 releaseNotes-link = Шта је ново
 update-checkForUpdatesButton =
@@ -48,11 +46,11 @@ update-noUpdatesFound =
 aboutdialog-update-checking-failed = Провера ажурирања није успела.
 update-otherInstanceHandlingUpdates =
     { -brand-short-name.gender ->
-        [masculine] { -brand-short-name }
-        [feminine] { -brand-short-name }
-        [neuter] { -brand-short-name }
-       *[other] Програм { -brand-short-name }
-    } се ажурира у другом примерку
+        [masculine] { -brand-short-name } се ажурира у другом примерку
+        [feminine] { -brand-short-name } се ажурира у другом примерку
+        [neuter] { -brand-short-name } се ажурира у другом примерку
+       *[other] Програм { -brand-short-name } се ажурира у другом примерку
+    }
 
 ## Variables:
 ##   $displayUrl (String): URL to page with download instructions. Example: www.mozilla.org/firefox/nightly/
@@ -70,11 +68,11 @@ update-internal-error2 = Интерна грешка спречава прове
 aboutdialog-channel-description = Користите <label data-l10n-name="current-channel">{ $channel }</label> канал за ажурирања.
 warningDesc-version = { -brand-short-name } је експерименталан и може бити нестабилан.
 aboutdialog-help-user =
-    Помоћ за { -brand-product-name.gender ->
-        [masculine] { -brand-product-name(case: "acc") }
-        [feminine] { -brand-product-name(case: "acc") }
-        [neuter] { -brand-product-name(case: "acc") }
-       *[other] програм { -brand-product-name }
+    { -brand-product-name.gender ->
+        [masculine] Помоћ за { -brand-product-name(case: "acc") }
+        [feminine] Помоћ за { -brand-product-name(case: "acc") }
+        [neuter] Помоћ за { -brand-product-name(case: "acc") }
+       *[other] Помоћ за програм { -brand-product-name }
     }
 aboutdialog-submit-feedback = Пошаљите повратне информације
 community-exp = <label data-l10n-name="community-exp-mozillaLink">{ -vendor-short-name }</label> је <label data-l10n-name="community-exp-creditsLink"> глобална заједница</label> која ради на томе да задржи веб отвореним, јавним и доступним свима.
