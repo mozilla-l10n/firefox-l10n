@@ -110,12 +110,16 @@ policy-OverrideFirstRunPage = Anular a páxina de primeira execución. Deixe est
 policy-OverridePostUpdatePage = Anula a páxina de «Novidades» posterior á actualización. Deixe esta política en branco se quere desactivar a páxina posterior á actualización.
 policy-PasswordManagerEnabled = Habilitar gardar contrasinais no xestor de contrasinais.
 policy-PasswordManagerExceptions = Impedir a { -brand-short-name } gardar contrasinais para sitios concretos.
+# Post-quantum refers to cryptography that is safe from attacks by quantum
+# computers. See https://en.wikipedia.org/wiki/Post-quantum_cryptography
+policy-PostQuantumKeyAgreementEnabled = Habilitar o acordo de chave poscuántica para TLS.
 # PDF.js and PDF should not be translated
 policy-PDFjs = Desactivar ou configurar PDF.js, o visor de PDF incorporado en { -brand-short-name }.
 policy-Permissions2 = Configurar os permisos para cámara, micrófono, localización, notificacións e reprodución automática.
 policy-PictureInPicture = Activar ou desactivar imaxe en imaxe.
 policy-PopupBlocking = Permitir que certos sitios web amosen xanelas emerxentes de forma predeterminada.
 policy-Preferences = Establecer e bloquear o valor dun subconxunto de preferencias.
+policy-PrivateBrowsingModeAvailability = Establece a dispoñibilidade do modo de navegación privada.
 policy-PromptForDownloadLocation = Preguntar onde gardar ficheiros ao descargar.
 policy-Proxy = Configura os axustes do proxy.
 policy-RequestedLocales = Estabelece a lista de idiomas (locales) solicitados polo aplicativo na orde de preferencia.
@@ -126,12 +130,17 @@ policy-SearchSuggestEnabled = Activar ou desactivar as suxestións de busca.
 # For more information, see https://wikipedia.org/wiki/PKCS_11
 policy-SecurityDevices2 = Engadir ou eliminar módulos PKCS #11.
 policy-ShowHomeButton = Mostrar o botón de inicio na barra de ferramentas.
+# ”You represent that...” means ”You confirm/declare that...”
+policy-SkipTermsOfUse2 = Non mostrar as condicións de uso e o aviso de privacidade ao iniciar. Declaras que aceptas e tes a autoridade para aceptar as condicións de uso en nome de todas as persoas ás que proporcionas acceso a este navegador.
 policy-SSLVersionMax = Estabelecer a versión máxima de SSL.
 policy-SSLVersionMin = Establecer a versión mínima de SSL.
 policy-StartDownloadsInTempDirectory = Forzar que as descargas se inicien nun lugar temporal e local en lugar de no directorio de descargas predeterminado.
 policy-SupportMenu = Engadir un elemento de menú de asistencia personalizada ao menú de axuda.
+policy-TranslateEnabled = Activar ou desactivar a tradución de páxinas web.
 policy-UserMessaging = Non mostrar ao usuario certas mensaxes.
 policy-UseSystemPrintDialog = Imprimir co diálogo de impresión do sistema.
 # “format” refers to the format used for the value of this policy.
 policy-WebsiteFilter = Bloquea sitios web para que non sexan visitados. Vexa a documentación para obter máis información sobre o formato.
 policy-Windows10SSO = Permitir o inicio de sesión único de Windows para contas de Microsoft, do traballo e da escola.
+# Entra is the name of a Microsoft product.
+policy-MicrosoftEntraSSO = Permitir o inicio de sesión único para as contas de Microsoft Entra.
