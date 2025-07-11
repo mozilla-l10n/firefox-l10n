@@ -131,3 +131,11 @@ tab-context-send-tabs-to-device =
            *[other] Bidali { $tabCount } fitxa gailura
         }
     .accesskey = d
+tab-context-unload-n-tabs =
+    .label =
+        { $tabCount ->
+            [1] Hustu fitxa
+            [one] Hustu fitxa
+           *[other] Hustu { $tabCount } fitxa
+        }
+    .accesskey = A

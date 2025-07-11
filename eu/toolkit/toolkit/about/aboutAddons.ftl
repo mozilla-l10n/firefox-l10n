@@ -488,6 +488,9 @@ shortcuts-heading = Kudeatu hedapenen lasterbideak
 default-heading-search-label = Bilatu gehigarri gehiago
 addons-heading-search-input =
     .placeholder = Bilatu addons.mozilla.org gunean
+addons-heading-search-button =
+    .title = Bilatu addons.mozilla.org gunean
+    .aria-label = Bilatu addons.mozilla.org gunean
 addon-page-options-button =
     .title = Tresnak gehigarri guztientzat
 
@@ -549,6 +552,18 @@ plugins-widevine-description = Plugin honek zifratutako multimediaren erreproduk
 ## Headings for the Permissions tab in `about:addons` when the data collection
 ## feature is enabled.
 
+# This is a description for extension that use this AI model
+# Variables:
+#   $extensionName (String) - Name of the extension
+mlmodel-extension-label = { $extensionName } hedapenak erabilia
 
 ## Mapping Engine IDs from AI models to how that feature represented by the engine Id is described in the used by section in local model management
 
+# Label for button that when clicked removed local model
+mlmodel-remove-addon-button =
+    .aria-label = Kendu
+# Label for the aggregated value of all files for a model
+mlmodel-addon-detail-totalsize-label = Fitxategiaren tamaina
+mlmodel-addon-detail-last-used-label = Azkenekoz erabilia
+# This is a section label to describe what extensions or features use a specific local AI model
+mlmodel-addon-detail-used-by-label = Nork erabilia

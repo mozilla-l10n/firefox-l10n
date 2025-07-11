@@ -16,9 +16,22 @@ webext-perms-header-unsigned = { $extension } gehitu? Hedapen hau egiaztatu gabe
 webext-perms-header-unsigned-with-perms = { $extension } gehitu? Hedapen hau egiaztatu gabe dago. Asmo txarreko hedapenek zure informazio pertsonala lapurtu edo zure ordenagailua arriskuan jar dezakete. Instalatu soilik iturburu fidagarrikoa bada. Hedapen honek ondorengo baimenak izango ditu:
 webext-perms-sideload-header = { $extension } gehitu da
 webext-perms-optional-perms-header = { $extension } hedapenak aparteko baimenak eskatzen ditu.
+webext-perms-header2 = Gehitu { $extension }
 
 ## Headers used in the webextension permissions dialog, inside the content.
 
+webext-perms-header-required-perms = Beharrezko baimenak:
+webext-perms-header-optional-settings = Aukerazko ezarpenak:
+webext-perms-header-update-required-perms = Beharrezko baimen berriak:
+webext-perms-header-optional-required-perms = Baimen berriak:
+webext-perms-header-data-collection-perms = Beharrezko datu-bilketa:
+webext-perms-header-data-collection-is-none = Datu-bilketa:
+# This is a header used in the add-ons "update" prompt, shown when the new
+# version requires new data collection permissions.
+webext-perms-header-update-data-collection-perms = Beharrezko datu-bilketa berria:
+# This is a header used in the add-ons "optional" prompt, shown when the
+# extension requests new data collection permissions programmatically.
+webext-perms-header-optional-data-collection-perms = Datu-bilketa berria:
 
 ##
 

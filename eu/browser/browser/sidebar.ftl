@@ -4,6 +4,8 @@
 
 menu-view-genai-chat =
     .label = AA txaterako bota
+menu-view-contextual-password-manager =
+    .label = Pasahitzak
 sidebar-options-menu-button =
     .title = Ireki menua
 
@@ -19,10 +21,24 @@ sidebar-history-date-this-month =
     .heading = { DATETIME($date, dateStyle: "full") }
 sidebar-history-date-prev-month =
     .heading = { DATETIME($date, month: "long", year: "numeric") }
+# When history is sorted by site, this heading is used in place of a domain, in
+# order to group sites that do not come from an outside host.
+# For example, this would be the heading for all file:/// URLs in history.
+sidebar-history-site-localhost =
+    .heading = (fitxategi lokalak)
 sidebar-history-delete =
     .title = Ezabatu historiatik
 sidebar-history-clear =
     .label = Garbitu historia
+sidebar-history-sort-by-heading = Ordenatze-irizpidea:
+sidebar-history-sort-option-date =
+    .label = Data
+sidebar-history-sort-option-site =
+    .label = Gunea
+sidebar-history-sort-option-date-and-site =
+    .label = Data eta gunea
+sidebar-history-sort-option-last-visited =
+    .label = Bisitatutako azkena
 
 ## Labels for sidebar search
 
@@ -40,6 +56,19 @@ sidebar-customize-firefox-tools-header =
 sidebar-customize-firefox-settings = Kudeatu { -brand-short-name } ezarpenak
 sidebar-vertical-tabs =
     .label = Fitxa bertikalak
+sidebar-settings =
+    .label = Alboko barraren ezarpenak
+sidebar-hide-tabs-and-sidebar =
+    .label = Ezkutatu fitxak eta alboko barra
+sidebar-show-on-the-right =
+    .label = Aldatu lekuz alboko barra eskuinera
+sidebar-show-on-the-left =
+    .label = Aldatu lekuz alboko barra ezkerrera
+# Option to automatically expand the collapsed sidebar when the mouse pointer
+# hovers over it.
+expand-sidebar-on-hover =
+    .label = Zabaldu alboko barra sagua gainetik pasatzean
+sidebar-manage-extensions = Kudeatu hedapenak
 
 ## Labels for sidebar context menu items
 
@@ -49,6 +78,10 @@ sidebar-context-menu-remove-extension =
     .label = Kendu hedapena
 sidebar-context-menu-report-extension =
     .label = Eman hedapenaren berri
+sidebar-context-menu-open-in-tab =
+    .label = Ireki fitxa berrian
+sidebar-context-menu-open-in-container-tab =
+    .label = Ireki edukiontzi-fitxa berrian
 sidebar-context-menu-open-in-window =
     .label = Ireki leiho berrian
 sidebar-context-menu-open-in-private-window =
@@ -67,9 +100,19 @@ sidebar-context-menu-customize-sidebar =
 #   $deviceName (String) - The name of the device the user is closing a tab for
 sidebar-context-menu-close-remote-tab =
     .label = Itxi { $deviceName } gailuko fitxa
+sidebar-context-menu-remove-extension2 =
+    .label = Kendu { -brand-short-name }(e)tik
+sidebar-context-menu-unpin-extension =
+    .label = Kendu alboko barratik
 
 ## Labels for sidebar history context menu items
 
+sidebar-history-context-menu-delete-page-2 =
+    .label = Ezabatu orria historiatik
+sidebar-history-context-menu-bookmark-page =
+    .label = Egin orriaren laster-marka…
+sidebar-history-context-menu-delete-pages =
+    .label = Ezabatu orriak historiatik
 
 ## Labels for sidebar menu items.
 
@@ -83,6 +126,10 @@ sidebar-menu-bookmarks-label =
     .label = Laster-markak
 sidebar-menu-customize-label =
     .label = Pertsonalizatu alboko barra
+sidebar-menu-contextual-password-manager-label =
+    .label = Pasahitzak
+sidebar-menu-more-tools-label =
+    .label = Tresna gehiago
 
 ## Tooltips for sidebar menu items.
 
@@ -108,6 +155,7 @@ sidebar-menu-close-bookmarks-tooltip = Itxi laster-markak ({ $shortcut })
 ##   $shortcut (String) - The OS specific keyboard shortcut.
 ##   $provider (String) - The name of the AI chatbot provider (if available).
 
+sidebar-menu-open-ai-chatbot-provider-tooltip = Ireki { $provider } ({ $shortcut })
 
 ## Headings for sidebar menu panels.
 
@@ -117,6 +165,8 @@ sidebar-menu-history-header =
     .heading = Historia
 sidebar-menu-syncedtabs-header =
     .heading = Beste gailuetako fitxak
+sidebar-menu-cpm-header =
+    .heading = Pasahitzak
 sidebar-panel-header-close-button =
     .tooltiptext = Itxi
 

@@ -306,6 +306,7 @@ fxa-menu-message-sync-devices-primary-text = Sinkronizatu zure gailu guztiak
 fxa-menu-message-sync-devices-collapsed-text = Sinkronizatu zure gailu guztiak
 fxa-menu-message-backup-data-collapsed-text = Egin nabigatzaile-datuen babeskopia
 fxa-menu-message-backup-sync-primary-text = Mantendu zure datuak seguru eta sinkronizatuta
+fxa-menu-message-backup-sync-collapsed-text = Sinkronizatu eta gorde datuak
 fxa-menu-message-mobile-primary-text = Bidali fitxak zure telefonora
 fxa-menu-message-mobile-collapsed-text = Sinkronizatu zure telefonoarekin
 

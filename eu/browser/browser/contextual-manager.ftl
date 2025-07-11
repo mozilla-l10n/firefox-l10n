@@ -159,13 +159,60 @@ contextual-manager-passwords-remove-label =
 
 contextual-manager-passwords-list-label =
     .aria-label = Pasahitzak
+contextual-manager-website-icon =
+    .alt = Webgunearen ikonoa
 contextual-manager-copy-icon =
     .alt = Kopiatu
+contextual-manager-check-icon-username =
+    .alt = Kopiatuta
+contextual-manager-check-icon-password =
+    .alt = Kopiatuta
+contextual-manager-alert-icon =
+    .alt = Abisua
+contextual-manager-password-login-line =
+    .aria-label = Kopiatu pasahitza
+    .title = Kopiatu pasahitza
+# "(Warning)" indicates that a login's password field has an alert icon.
+contextual-manager-password-login-line-with-alert =
+    .aria-label = Kopiatu pasahitza (abisua)
+    .title = Kopiatu pasahitza (abisua)
+contextual-manager-edit-login-button = Editatu
+    .tooltiptext = Editatu pasahitza
+contextual-manager-view-alert-heading =
+    .heading = Ikusi alerta
+contextual-manager-view-alert-button =
+    .tooltiptext = Berrikusi alerta
+# Variables
+#   $count (number) - The number of active alerts associated with the login
+contextual-manager-view-alert-button-2 =
+    .tooltiptext =
+        { $count ->
+            [1] Berrikusi alerta
+            [one] Berrikusi alerta
+           *[other] Berrikusi alertak
+        }
+contextual-manager-show-password-button =
+    .aria-label = Erakutsi pasahitza
+    .title = Erakutsi pasahitza
+contextual-manager-hide-password-button =
+    .aria-label = Ezkutatu pasahitza
+    .title = Ezkutatu pasahitza
+# The message displayed when the search text does not match any of the user's saved logins.
+contextual-manager-passwords-no-passwords-found-header =
+    .heading = Ez da pasahitzik aurkitu
+contextual-manager-passwords-no-passwords-found-message = Ez da pasahitzik aurkitu. Bilatu beste terminoren bat eta saiatu berriro.
 
 ## When the user has no saved passwords, we display the following messages to inform the user they can save
 ## their passwords safely and securely in Firefox:
 
+# This string is displayed in a button. If the user clicks it, they will be taken to a form to create a new password.
+contextual-manager-passwords-add-manually = Gehitu eskuz
 
 ## When the user cancels a login that's currently being edited, we display a message to confirm whether
 ## or not the user wants to discard their current edits to the login.
 
+contextual-manager-passwords-discard-changes-heading-and-message =
+    .heading = Itxi aldaketak gorde gabe?
+    .message = Zure aldaketak ez dira gordeko.
+contextual-manager-passwords-discard-changes-close-button = Itxi
+contextual-manager-passwords-discard-changes-go-back-button = Joan atzera

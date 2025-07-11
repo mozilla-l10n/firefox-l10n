@@ -66,6 +66,11 @@ screenshots-component-copy-button-2 = Kopiatu
 screenshots-component-download-button-2 = Deskargatu
     .title = Deskargatu ({ $shortcut })
     .aria-label = Deskargatu
+# Variables
+#   $shortcut (String) - A keyboard shortcut for the screenshot command.
+screenshot-toolbar-button =
+    .label = Pantaila-argazkia
+    .tooltiptext = Hartu pantaila-argazki bat ({ $shortcut })
 
 ## The below strings are used to capture keydown events so the strings should
 ## not be changed unless the keyboard layout in the locale requires it.

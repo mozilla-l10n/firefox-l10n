@@ -85,6 +85,13 @@ client-auth-cert-details-issued-by = Jaulkitzailea: { $issuedBy }
 # Variables:
 # $storedOn (String) - The name of the token holding the certificate (for example, "OS Client Cert Token (Modern)")
 client-auth-cert-details-stored-on = Hemen gordea: { $storedOn }
+client-auth-cert-remember-label = Gogoratu erabaki hau:
+client-auth-cert-remember-never =
+    .label = Behin
+client-auth-cert-remember-always =
+    .label = Modu iraunkorrean
+client-auth-cert-remember-temporarily =
+    .label = Saio honetarako
 client-auth-cert-remember-box =
     .label = Gogoratu erabaki hau
 

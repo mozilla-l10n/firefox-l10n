@@ -52,6 +52,9 @@ genai-menu-remove-generic =
 # $provider (string) - name of the provider
 genai-menu-remove-provider =
     .label = Kendu { $provider }
+genai-menu-remove-sidebar =
+    .label = Kendu alboko barratik
+genai-menu-new-badge = Berria
 genai-input-ask-generic =
     .placeholder = Galdetu AA txaterako botari…
 # $provider (string) - name of the provider

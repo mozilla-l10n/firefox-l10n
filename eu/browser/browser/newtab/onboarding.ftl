@@ -399,6 +399,7 @@ onboarding-checklist-extension = Gehitu hedapen bat
 
 ## Tab Groups feature onboarding strings
 
+tab-groups-onboarding-dismiss = Ados
 
 ## Multi Profiles feature onboarding messages
 
@@ -407,3 +408,7 @@ multi-profile-callout-cta = Sortu profil bat
 
 ## Desktop to Mobile Adoption feature callout strings
 
+dismiss-button-label = Baztertu
+sync-to-mobile-button-label = Sinkronizatu mugikorrarekin
+desktop-to-mobile-qr-code-alt =
+    .aria-label = Mugikorrerako { -brand-product-name } deskargatzeko QR kodea

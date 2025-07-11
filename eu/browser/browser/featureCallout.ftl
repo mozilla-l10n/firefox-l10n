@@ -76,6 +76,7 @@ bookmarks-toolbar-callout-1-secondary-button-label = Ez, eskerrik asko
 bookmarks-toolbar-callout-2a-primary-button-label = Ulertuta
 # Reverts the bookmarks toolbar to the default setting
 bookmarks-toolbar-callout-2a-secondary-button-label = Ezkutatu tresna-barra
+bookmarks-toolbar-callout-2b-primary-button-label = Mantendu irekita
 # Reverts the bookmarks toolbar to the default setting
 bookmarks-toolbar-callout-2b-secondary-button-label = Ez, eskerrik asko
 
@@ -86,6 +87,8 @@ perplexity-callout-secondary-label-2 = Ulertuta
 
 ## Account Adoption Passwords callout strings
 
+# Opens Mozilla accounts sign-up page
+fxa-adoption-passwords-primary-button-label = Eman izena
 
 ## Sidebar Strings
 
@@ -110,6 +113,10 @@ sidebar-pins-callout-cta-button = Ainguratu fitxa
 
 ## Pinning Tabs Strings
 
+pin-tabs-callout-cta-1-button = Ainguratu fitxa hau
+pin-tabs-callout-2-title = Ainguratu gehien bisitatzen dituzun fitxak
+pin-tabs-callout-cta-2-button = Ainguratu fitxa hau
+pin-tabs-callout-4-title = Ainguratu gehien bisitatzen dituzun guneak
 
 ## Sidebar Onboarding Strings
 

@@ -27,6 +27,8 @@ about-logging-no-log-modules = Bat ere ez
 about-logging-no-log-file = Bat ere ez
 about-logging-logging-preset-selector-text = Erregistroaren aurrezarpena:
 about-logging-with-profiler-stacks-checkbox = Gaitu pilen trazak erregistro-mezuentzat
+about-logging-menu =
+    .title = Aukera aurreratuak
 
 ## Logging presets
 
@@ -69,3 +71,8 @@ about-logging-configured-via-url = Aukera URL bidez konfiguratuta
 ## The upload interface is shown only with the preference toolkit.aboutLogging.uploadProfileToCloud
 ## set to true. It is false by default, except on Android.
 
+about-logging-save-button = Gorde
+about-logging-upload-button = Igo
+# Variables:
+#   $path (string) - The path where the profile can be found.
+about-logging-saved = { $path } bidean gordeta

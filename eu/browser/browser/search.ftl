@@ -38,6 +38,7 @@ remove-search-engine-button = Ados
 ## Variables
 ## $newEngine (String) - the name of the new default search engine.
 
+reset-search-settings-button = Ados
 
 ## Infobar shown when user is prompted to install search engine.
 ## Variables
@@ -51,8 +52,12 @@ install-search-engine-no = Ez
 add-engine-window =
     .title = Gehitu bilaketa-motorra
     .style = min-width: 32em;
+edit-engine-window =
+    .title = Editatu bilaketa-motorra
+    .style = min-width: 32em;
 add-engine-button = Gehitu bilaketa-motor pertsonalizatua
 add-engine-name = Bilaketa-motorraren izena
+add-engine-keyword2 = Gako-hitza (aukerakoa)
 
 ## The following placeholders are shown in the inputs when adding a new engine.
 
