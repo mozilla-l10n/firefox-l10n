@@ -223,20 +223,64 @@
 # and kept in English.
 -firefox-home-brand-name =
     { $case ->
-        [gen] почетне странице Firefox-а
-        [dat] почетној страници Firefox-а
-        [acc] почетну страницу Firefox-а
-        [ins] почетном страницом Firefox-а
-        [loc] почетној страници Firefox-а
-       *[nom] почетна страница Firefox-а
+        [gen]
+            { $capitalization ->
+                [lower] почетне странице Firefox-а
+               *[upper] Почетне странице Firefox-а
+            }
+        [dat]
+            { $capitalization ->
+                [lower] почетној страници Firefox-а
+               *[upper] Почетној страници Firefox-а
+            }
+        [acc]
+            { $capitalization ->
+                [lower] почетну страницу Firefox-а
+               *[upper] Почетну страницу Firefox-а
+            }
+        [ins]
+            { $capitalization ->
+                [lower] почетном страницом Firefox-а
+               *[upper] Почетном страницом Firefox-а
+            }
+        [loc]
+            { $capitalization ->
+                [lower] почетној страници Firefox-а
+               *[upper] Почетној страници Firefox-а
+            }
+       *[nom]
+            { $capitalization ->
+                [lower] почетна страница Firefox-а
+               *[upper] Почетна страница Firefox-а
+            }
     }
     .gender = feminine
     .declinable = true
 # View" can be localized, “Firefox” must be treated as a brand
 # and kept in English.
--firefoxview-brand-name = Firefox преглед
+-firefoxview-brand-name =
+    { $case ->
+        [gen] Firefox прегледа
+        [dat] Firefox прегледу
+        [acc] Firefox преглед
+        [ins] Firefox прегледом
+        [loc] Firefox прегледу
+       *[nom] Firefox преглед
+    }
+    .gender = masculine
+    .declinable = true
 # Firefox Labs is the name for a page in Settings to allow users to learn about
 # experimental and in-development features, and turn those features on and off.
 # The "Labs" portion can be localized, “Firefox” must be treated as a brand
 # and kept in English.
--firefoxlabs-brand-name = Firefox Labs
+-firefoxlabs-brand-name =
+    { $case ->
+        [gen] Firefox Labs-а
+        [dat] Firefox Labs-у
+        [acc] Firefox Labs
+        [ins] Firefox Labs-ом
+        [loc] Firefox Labs-у
+       *[nom] Firefox Labs
+    }
+    .gender = masculine
+    .declinable = true
