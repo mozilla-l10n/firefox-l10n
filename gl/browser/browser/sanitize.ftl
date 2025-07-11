@@ -41,6 +41,10 @@ clear-time-duration-value-last-2-hours =
     .label = Últimas 2 horas
 clear-time-duration-value-last-4-hours =
     .label = Últimas 4 horas
+# Variables:
+#   $midnightTime (String) - Time of midnight (00:00 hours) - to inform the user that history will be cleared after midnight
+clear-time-duration-value-since-midnight =
+    .label = Desde { $midnightTime }
 clear-time-duration-value-today =
     .label = Hoxe
 clear-time-duration-value-everything =
@@ -55,9 +59,23 @@ history-section-label = Historial
 item-history-and-downloads =
     .label = Historial de navegación e descargas
     .accesskey = g
+item-history-and-downloads-description2 = Borrar o historial de sitios e descargas
+item-history-form-data-downloads =
+    .label = Historial
+    .accesskey = H
+item-history-form-data-downloads-description = Borrar o historial do sitio e de descargas, a información gardada de formularios e as buscas
 item-cookies =
     .label = Cookies
     .accesskey = C
+# Variables:
+#   $amount (Number) - Amount of site data currently stored on disk
+#   $unit (String) - Abbreviation of the unit that $amount is in, e.g. "MB"
+item-cookies-site-data-with-size =
+    .label = Cookies e datos do sitio ({ $amount } { $unit })
+    .accesskey = e
+item-cookies-site-data =
+    .label = Cookies e datos do sitio
+    .accesskey = e
 item-active-logins =
     .label = Sesións activas
     .accesskey = S
