@@ -198,6 +198,10 @@ migration-safari-password-import-step3 = Garda o ficheiro de contrasinais
 migration-safari-password-import-step4 = Use "Seleccionar ficheiro" a continuación para escoller o ficheiro de contrasinais que gardou
 migration-chrome-windows-password-import-header = Como importar contrasinais desde Chrome
 migration-chrome-windows-password-import-steps-header = En Chrome:
+migration-chrome-windows-password-import-step1 = Abre o menú principal <img data-l10n-name="chrome-icon-3dots"/> e vai a Contrasinais e autocompletado > Xestor de contrasinais de Google.
+migration-chrome-windows-password-import-step2 = Selecciona «Configuración» no menú.
+migration-chrome-windows-password-import-step3 = Escolle «Descargar ficheiro» e gárdao no teu dispositivo.
+migration-chrome-windows-password-import-step4 = Volve aquí e fai clic en «Seleccionar ficheiro» para rematar a importación.
 migration-manual-password-import-skip-button = Saltar
 migration-manual-password-import-select-button = Seleccionar un ficheiro
 migration-safari-password-import-skip-button = Saltar

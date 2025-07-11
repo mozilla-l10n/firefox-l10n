@@ -63,6 +63,7 @@ cfr-doorhanger-extension-total-users =
 
 cfr-doorhanger-bookmark-fxa-header = Sincronice os seus marcadores en todas partes.
 cfr-doorhanger-bookmark-fxa-body = Un gran achado! Agora non quedará sen este marcador nos seus dispositivos móbiles. Comece cun { -fxaccount-brand-name }.
+cfr-doorhanger-bookmark-fxa-body-2 = Gran achado! Agora non te quedes sen este marcador nos teus dispositivos móbiles. Comeza cunha conta.
 cfr-doorhanger-bookmark-fxa-link-text = Sincronizar marcadores agora ...
 cfr-doorhanger-bookmark-fxa-close-btn-tooltip =
     .aria-label = Botón de peche
@@ -204,6 +205,8 @@ cfr-cbh-confirm-button = Rexeitar os avisos de cookies
     .accesskey = R
 cfr-cbh-dismiss-button = Agora non
     .accesskey = n
+cookie-banner-blocker-onboarding-header = { -brand-short-name } acaba de rexeitar un banner de cookies por ti
+cookie-banner-blocker-onboarding-body = Menos distraccións, menos cookies que te rastrexan neste sitio.
 cookie-banner-blocker-onboarding-learn-more = Máis información
 
 ## These strings are used in the Fox doodle Pin/set default spotlights
@@ -235,12 +238,16 @@ fxa-sync-cfr-secondary = Lembrarmo máis tarde
 ## Device Migration FxA Spotlight
 
 device-migration-fxa-spotlight-heavy-user-header = Non esqueza facer unha copia de seguranza dos seus datos
+device-migration-fxa-spotlight-heavy-user-body = Asegúrate de que a información importante, como os marcadores e os contrasinais, estea actualizada e protexida en todos os teus dispositivos.
 device-migration-fxa-spotlight-heavy-user-primary-button = Comezar
 device-migration-fxa-spotlight-older-device-header = Tranquilidade, de { -brand-product-name }
+device-migration-fxa-spotlight-older-device-body = Unha conta mantén a túa información importante actualizada e protexida en calquera dispositivo que conectes.
 device-migration-fxa-spotlight-older-device-primary-button = Crear unha conta
 device-migration-fxa-spotlight-getting-new-device-header-2 = Novo dispositivo no seu futuro?
+device-migration-fxa-spotlight-getting-new-device-body-2 = Sigue uns poucos pasos sinxelos para levar contigo os teus marcadores, historial e contrasinais cando comeces a utilizar un dispositivo novo.
 device-migration-fxa-spotlight-getting-new-device-primary-button = Como facer unha copia de seguranza dos meus datos
 device-migration-fxa-spotlight-sync-header = Navegar sen perder o ritmo
+device-migration-fxa-spotlight-sync-body = Sincroniza toda a túa información importante con cifrado, como os marcadores e os contrasinais. Podes acceder a todo en calquera lugar que uses { -brand-product-name }.
 device-migration-fxa-spotlight-sync-primary-button = Comezar
 
 ## Set as Default PDF Reader Infobar
@@ -254,6 +261,7 @@ pdf-default-notification-decline-button =
 
 ## Launch on login infobar notification
 
+launch-on-login-infobar-message = <strong>Abrir { -brand-short-name } cada vez que reinicies o teu ordenador?</strong> Agora podes configurar { -brand-short-name } para que se abra automaticamente cando reinicies o teu dispositivo.
 launch-on-login-learnmore = Máis información
 launch-on-login-infobar-confirm-button = Si, abrir { -brand-short-name }
     .accesskey = S
@@ -263,16 +271,25 @@ launch-on-login-infobar-reject-button = Agora non
 ## These string variants are used when the “launch on login” infobar
 ## notification is displayed for a second time.
 
+launch-on-login-infobar-final-message = <strong>Abrir { -brand-short-name } cada vez que reinicies o teu ordenador?</strong> Para xestionar as túas preferencias de inicio, busca «inicio» na configuración.
 launch-on-login-infobar-final-reject-button = Non, grazas
     .accesskey = N
 
 ## Tail Fox Set Default Spotlight
 
+# This title is displayed together with the picture of a running fox with a long tail.
+# In English, this is a figure of speech meaning 'stop something from following you'.
+# If the localization of this message is challenging, consider using a simplified
+# alternative as a reference for translation: 'Keep unwanted trackers away'.
+tail-fox-spotlight-title = Mantén os molestos rastrexadores alonxados de ti
+tail-fox-spotlight-subtitle = Despídete dos molestos rastrexadores de anuncios e goza dunha experiencia de Internet máis segura e rápida.
 tail-fox-spotlight-primary-button = Abre as miñas ligazóns con { -brand-short-name }
 tail-fox-spotlight-secondary-button = Agora non
 
 ## Root Certificate Succession Infobar
 
+root-certificate-succession-infobar-january-message = <strong>É posible que as versións antigas de { -brand-short-name } comecen a ter problemas o 14 de xaneiro de 2025.</strong>
+root-certificate-succession-infobar-march-message = <strong>Actualiza para seguir usando { -brand-short-name } despois do 14 de marzo de 2025.</strong>
 root-certificate-succession-infobar-link = Por que teño que actualizar?
 root-certificate-succession-infobar-primary-button =
     .label = Actualizar agora
@@ -284,6 +301,7 @@ root-certificate-succession-infobar-secondary-button =
 ## Root Certificate Succession Windows Background Notification
 
 root-certificate-windows-background-notification-title = Perdeches unha actualización importante de { -brand-short-name }
+root-certificate-windows-background-notification-subtitle = Algunhas partes do navegador deixarán de funcionar en breve se non actualizas. Agora é un bo momento para obter as nosas últimas proteccións e funcións.
 root-certificate-windows-background-notification-learn-more-button = Máis información
 root-certificate-windows-background-notification-update-button = Actualizar { -brand-short-name }
 
@@ -294,11 +312,13 @@ fxa-menu-message-close-button =
     .aria-label = Pechar
 fxa-menu-message-sign-up-button = Rexistrarse
 fxa-menu-message-sync-devices-primary-text = Sincroniza todos os teus dispositivos
+fxa-menu-message-sync-devices-secondary-text = Obtén a túa información ao instante, como marcadores e contrasinais, alí onde uses { -brand-short-name }.
 fxa-menu-message-sync-devices-collapsed-text = Sincroniza todos os teus dispositivos
 fxa-menu-message-backup-data-primary-text = Respalda os datos do teu navegador
 fxa-menu-message-backup-data-secondary-text = Protexe automaticamente os marcadores, os contrasinais e outra información en todos os teus dispositivos.
 fxa-menu-message-backup-data-collapsed-text = Respaldar os datos do navegador
 fxa-menu-message-backup-sync-primary-text = Mantén os teus datos seguros e sincronizados
+fxa-menu-message-backup-sync-secondary-text = A sincronización fai unha copia de seguranza da maioría dos teus datos para que poidas acceder a eles en calquera lugar que uses { -brand-short-name }.
 fxa-menu-message-backup-sync-collapsed-text = Sincronizar y respaldar datos
 fxa-menu-message-mobile-primary-text = Envía pestanas ao teu teléfono
 fxa-menu-message-mobile-secondary-text = Retoma onde o deixaches ao instante cando sincronizas as túas pestanas cun dispositivo móbil.
@@ -309,6 +329,11 @@ fxa-menu-message-mobile-collapsed-text = Sincroniza co teu teléfono
 multi-cta-fox-doodle-title = Benvido de novo
 multi-cta-fox-doodle-set-default-checkbox = Establecer { -brand-short-name } como predeterminado
 multi-cta-fox-doodle-pin-startmenu-checkbox = Fixar { -brand-short-name } ao menú de inicio
+multi-cta-fox-doodle-pin-checkbox =
+    { PLATFORM() ->
+        [macos] Fixar { -brand-short-name } na barra de tarefas
+       *[other] Anclar { -brand-short-name } na barra de tarefas
+    }
 multi-cta-fox-doodle-start-browsing-primary-button-label = Iniciar a navegación
 multi-cta-fox-doodle-main-browser-primary-button-label = Facer { -brand-short-name } o meu navegador principal
 multi-cta-fox-doodle-quick-reminder-subtitle = Aquí tes un recordatorio rápido de que podes manter o teu navegador favorito centrado na privacidade, a só un clic de distancia.
