@@ -125,10 +125,61 @@
     }
     .gender = masculine
     .declinable = true
--translations-brand-name = Firefox Translations
--focus-brand-name = Firefox Focus
--relay-brand-name = Firefox Relay
--relay-brand-short-name = Relay
+-profiler-brand-name =
+    { $case ->
+        [gen] Firefox Profiler-а
+        [dat] Firefox Profiler-у
+        [acc] Firefox Profiler
+        [ins] Firefox Profiler-ом
+        [loc] Firefox Profiler-у
+       *[nom] Firefox Profiler
+    }
+    .gender = masculine
+    .declinable = true
+-translations-brand-name =
+    { $case ->
+        [gen] Firefox Translations-а
+        [dat] Firefox Translations-у
+        [acc] Firefox Translations
+        [ins] Firefox Translations-ом
+        [loc] Firefox Translations-у
+       *[nom] Firefox Translations
+    }
+    .gender = masculine
+    .declinable = true
+-focus-brand-name =
+    { $case ->
+        [gen] Firefox Focus-а
+        [dat] Firefox Focus-у
+        [acc] Firefox Focus
+        [ins] Firefox Focus-ом
+        [loc] Firefox Focus-у
+       *[nom] Firefox Focus
+    }
+    .gender = masculine
+    .declinable = true
+-relay-brand-name =
+    { $case ->
+        [gen] Firefox Relay-а
+        [dat] Firefox Relay-у
+        [acc] Firefox Relay
+        [ins] Firefox Relay-ем
+        [loc] Firefox Relay-у
+       *[nom] Firefox Relay
+    }
+    .gender = masculine
+    .declinable = true
+-relay-brand-short-name =
+    { $case ->
+        [gen] Relay-а
+        [dat] Relay-у
+        [acc] Relay
+        [ins] Relay-ем
+        [loc] Relay-у
+       *[nom] Relay
+    }
+    .gender = masculine
+    .declinable = true
 -fakespot-brand-name = Fakespot
 -solo-ai-brand-name = Solo
 # Note the name of the website is capitalized.
