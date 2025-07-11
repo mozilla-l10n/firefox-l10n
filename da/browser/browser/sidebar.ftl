@@ -68,6 +68,7 @@ sidebar-show-on-the-left =
 # hovers over it.
 expand-sidebar-on-hover =
     .label = Udvid sidepanel, når markøren holdes over
+sidebar-manage-extensions = Håndter udvidelser
 
 ## Labels for sidebar context menu items
 
@@ -101,6 +102,10 @@ sidebar-context-menu-customize-sidebar =
 #   $deviceName (String) - The name of the device the user is closing a tab for
 sidebar-context-menu-close-remote-tab =
     .label = Luk fanebladet på { $deviceName }
+sidebar-context-menu-remove-extension2 =
+    .label = Fjern fra { -brand-short-name }
+sidebar-context-menu-unpin-extension =
+    .label = Fjern fra sidepanel
 
 ## Labels for sidebar history context menu items
 

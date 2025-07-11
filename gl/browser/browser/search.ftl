@@ -38,16 +38,24 @@ remove-search-engine-button = Aceptar
 ## Variables
 ## $newEngine (String) - the name of the new default search engine.
 
+reset-search-settings-message = Debido a un problema técnico, o teu buscador predeterminado volveu a ser { $newEngine }. Para cambiar o buscador predeterminado, vai á configuración.
+reset-search-settings-button = Aceptar
 
 ## Infobar shown when user is prompted to install search engine.
 ## Variables
 ## $engineName (String) - the name of the search engine to install.
 
+install-search-engine = Engadir { $engineName } como buscador?
+install-search-engine-add = Engadir
+install-search-engine-no = Non
 
 ## The following strings are used as input labels.
 
 add-engine-window =
     .title = Engadir motor de busca
+    .style = min-width: 32em;
+edit-engine-window =
+    .title = Editar buscador
     .style = min-width: 32em;
 add-engine-button = Engadir motor personalizado
 add-engine-name = Nome do motor de busca

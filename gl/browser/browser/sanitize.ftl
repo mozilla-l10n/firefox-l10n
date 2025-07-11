@@ -63,6 +63,7 @@ item-cache =
 item-form-search-history =
     .label = Historial de formularios e buscas
     .accesskey = f
+item-formdata-description = Borra información como nomes, correos electrónicos e outros elementos que introduces nos formularios
 data-section-label = Datos
 item-site-settings =
     .label = Configuración do sitio

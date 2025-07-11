@@ -505,6 +505,7 @@ newtab-topic-selection-button-pick-interests = Vælg dine interesser
 newtab-section-follow-button = Følg
 newtab-section-following-button = Følger
 newtab-section-unfollow-button = Stop med at følge
+newtab-section-follow-highlight-subtitle = Følg dine interesserer for at se mere indhold, der passer dig.
 
 ## Button to block/unblock listed topics
 ## "Block", "unblocked", and "blocked" are social media terms that refer to hiding a section of stories.
@@ -549,6 +550,8 @@ newtab-download-mobile-highlight-image =
 
 ## Strings for shortcuts highlight
 
+newtab-shortcuts-highlight-title = Dine favoritter lige ved hånden
+newtab-shortcuts-highlight-subtitle = Tilføj en genvej for at finde dine foretrukne websteder med et enkelt klik.
 
 ## Strings for reporting ads and content
 
