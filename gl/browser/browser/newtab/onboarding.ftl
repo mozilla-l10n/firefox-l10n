@@ -366,9 +366,28 @@ onboarding-new-user-survey-time-based-option-4 = Máis de 1 mes, ocasionalmente
 onboarding-new-user-survey-familiarity-based-option-1 = Son novo
 onboarding-new-user-survey-familiarity-based-option-2 = Useino algo
 onboarding-new-user-survey-familiarity-based-option-3 = Estou moi familiarizado con iso
+onboarding-new-user-survey-familiarity-based-option-4 = Useino no pasado, pero hai un tempo
 
 ## UI strings for the sidebar and vertical tabs
 
+# Setup screen for vertical tabs
+onboarding-new-tabs-title = Dinos onde queres as túas pestanas
+# Setup screen for vertical tabs - "Switch it up" refers to switching between horizontal and vertical tabs.
+onboarding-new-tabs-subtitle = Cámbiao cando queiras na configuración da barra lateral.
+# Setup screen for vertical tabs - too many tabs variation
+onboarding-many-tabs-title = As túas pestanas, ao teu xeito
+# Setup screen for vertical tabs - subtitle for too many tabs variation
+onboarding-many-tabs-subtitle = Mantés moitas pestanas abertas? Proba a colocalas no lateral para obter unha vista máis sinxela. Ou mantén o estilo clásico con pestanas na parte superior. Cambia en calquera momento.
+# Setup screen for vertical tabs - focused variation
+onboarding-focused-tabs-title = Escolle o deseño das túas pestanas
+# Setup screen for vertical tabs - subtitle for focused variation
+onboarding-focused-tabs-subtitle = Para unha vista simplificada que che axude a manterte concentrado, proba as túas pestanas laterais. Ou mantén o estilo clásico con pestanas na parte superior. Cambia en calquera momento.
+# Text underneath an image used for selecting browser tabs to appear on the side of the browser.
+onboarding-new-vertical-tabs-label = Pestanas na parte lateral
+# Text underneath an image used for selecting browser tabs to appear at the top of the browser.
+onboarding-new-horizontal-tabs-label = Pestanas na parte superior
+# Setup screen for vertical tabs for existing users
+onboarding-existing-tabs-title = As pestanas verticais están aquí
 
 ## New user onboarding checklist
 
