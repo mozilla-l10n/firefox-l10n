@@ -712,8 +712,13 @@ search-keyword-warning-title = Duplicar a palabra clave
 #   $name (string) - Name of a search engine.
 search-keyword-warning-engine = A palabra clave que escolleu está a ser utilizada por "{ $name }". Seleccione outra.
 search-keyword-warning-bookmark = A palabra clave que escolleu está a ser utilizada por un marcador. Seleccione outra.
+# This warning is displayed when the chosen name is already in use.
+# Variables:
+#   $name (string) - Name of a search engine.
+edit-engine-name-warning-duplicate = Xa hai un buscador co nome «{ $name }». Escolle outro nome.
 remove-engine-confirmation = Estás seguro de que queres eliminar este buscador?
 remove-engine-remove = Retirar
+remove-addon-engine-alert = Para eliminar este motor de busca, elimina o complemento asociado.
 
 ## Containers Section
 
@@ -818,6 +823,9 @@ sync-currently-syncing-creditcards = Tarxetas de crédito
 sync-currently-syncing-payment-methods = Métodos de pagamento
 sync-currently-syncing-addons = Complementos
 sync-currently-syncing-settings = Configuración
+sync-manage-options =
+    .label = Xestionar sincronización...
+    .accesskey = X
 sync-change-options =
     .label = Cambiar…
     .accesskey = C
@@ -870,6 +878,13 @@ sync-engine-settings =
     .label = Configuración
     .tooltiptext = Configuración xeral, de privacidade e de seguranza que cambiou
     .accesskey = C
+sync-choose-what-to-sync-dialog4 =
+    .title = Xestionar o que se sincroniza en todos os teus dispositivos conectados
+    .style = min-width: 36em;
+    .buttonlabelaccept = Gardar
+    .buttonaccesskeyaccept = G
+    .buttonlabelextra2 = Desconectar…
+    .buttonaccesskeyextra2 = D
 
 ## The device name controls.
 
@@ -911,18 +926,32 @@ forms-ask-to-save-logins =
 
 ## Privacy Section - Passwords
 
+# "Logins" is the former term for "Passwords". Users should find password settings
+# by searching for the former term "logins". It's not displayed in the UI.
+pane-privacy-passwords-header = Contrasinais
+    .searchkeywords = inicios de sesión
+# Checkbox to control whether UI is shown to users to save or fill logins/passwords.
+forms-ask-to-save-passwords =
+    .label = Preguntar para gardar contrasinais
+    .accesskey = P
 forms-exceptions =
     .label = Excepcións…
     .accesskey = p
 forms-generate-passwords =
     .label = Suxerir e xerar contrasinais fortes
     .accesskey = u
+forms-suggest-passwords =
+    .label = Suxerir contrasinais seguras
+    .accesskey = S
 forms-breach-alerts =
     .label = Mostrar alertas sobre contrasinais de sitios web vulnerados
     .accesskey = b
 forms-breach-alerts-learn-more-link = Máis información
 preferences-relay-integration-checkbox =
     .label = Suxerir máscaras de correo electrónico de { -relay-brand-name } para protexer o seu enderezo de correo electrónico
+preferences-relay-integration-checkbox2 =
+    .label = Suxerir máscaras de correo de { -relay-brand-name } para protexer a túa dirección de correo electrónico
+    .accesskey = r
 relay-integration-learn-more-link = Máis información
 # Checkbox which controls filling saved logins into fields automatically when they appear, in some cases without user interaction.
 forms-fill-logins-and-passwords =
@@ -931,6 +960,13 @@ forms-fill-logins-and-passwords =
 forms-saved-logins =
     .label = Identificacións gardadas…
     .accesskey = G
+# Checkbox which controls filling saved logins into fields automatically when they appear, in some cases without user interaction.
+forms-fill-usernames-and-passwords =
+    .label = Completar os nomes de usuario e contrasinais automaticamente
+    .accesskey = C
+forms-saved-passwords =
+    .label = Contrasinais gardados
+    .accesskey = d
 forms-primary-pw-use =
     .label = Utilizar un contrasinal principal
     .accesskey = U
@@ -957,6 +993,7 @@ forms-windows-sso =
     .label = Permitir o inicio de sesión único de Windows para contas de Microsoft, traballo e escola
 forms-windows-sso-learn-more-link = Máis información
 forms-windows-sso-desc = Xestionar contas na configuración do dispositivo
+windows-passkey-settings-label = Xestionar as claves de acceso na configuración do sistema
 
 ## OS Authentication dialog
 
@@ -968,11 +1005,25 @@ primary-password-os-auth-dialog-message-win = Para crear un contrasinal principa
 # notes are only valid for English. Please test in your locale.
 primary-password-os-auth-dialog-message-macosx = crear un contrasinal principal
 master-password-os-auth-dialog-caption = { -brand-full-name }
+# The macOS string is preceded by the operating system with "Firefox is trying to ".
+autofill-creditcard-os-dialog-message =
+    { PLATFORM() ->
+        [macos] cambiar a configuración dos métodos de pago
+       *[other] { -brand-short-name } está tentando cambiar a configuración dos métodos de pago. Usa o inicio de sesión do teu dispositivo para para permitir isto.
+    }
 autofill-creditcard-os-auth-dialog-caption = { -brand-full-name }
 
 ## Privacy section - Autofill
 
 pane-privacy-autofill-header = Completado automático
+autofill-addresses-checkbox = Gardar e completar os enderezos
+    .accesskey = a
+autofill-saved-addresses-button = Enderezos gardados
+    .accesskey = E
+autofill-payment-methods-checkbox-message = Gardar e completar os métodos de pago
+    .accesskey = m
+autofill-payment-methods-checkbox-submessage = Incluír tarxetas de crédito e débito
+    .accesskey = I
 
 ## Privacy Section - History
 
