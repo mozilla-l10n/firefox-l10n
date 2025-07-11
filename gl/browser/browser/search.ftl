@@ -81,6 +81,23 @@ add-engine-name-exists = Ese nome xa se está a usar. Escolle outro diferente.
 add-engine-no-name = Engade un nome.
 add-engine-no-url = Introduce un URL.
 add-engine-invalid-url = Ese URL non parece correcto. Compróbao e téntao de novo.
+add-engine-invalid-protocol = Ese URL non parece correcto. Usa un URL que comece por http ou https.
+# This error is shown when the user typed URL is missing %s.
+add-engine-missing-terms-url = Proba a incluír %s no lugar do termo de busca.
+# This error is shown when the user typed post data is missing %s.
+add-engine-missing-terms-post-data = Proba a incluír %s no lugar do termo de busca.
 
 ## The following strings are used as labels for the dialog's buttons.
 
+# buttonlabelextra1 is the label of a button to open the advanced section
+# of the dialog.
+add-engine-dialog2 =
+    .buttonlabelaccept = Engadir motor
+    .buttonaccesskeyaccept = E
+    .buttonlabelextra1 = Avanzado
+# buttonlabelextra1 is the label of a button to open the advanced section
+# of the dialog.
+edit-engine-dialog =
+    .buttonlabelaccept = Gardar motor
+    .buttonaccesskeyaccept = G
+    .buttonlabelextra1 = Avanzado
