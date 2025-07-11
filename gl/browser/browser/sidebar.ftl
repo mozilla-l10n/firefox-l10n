@@ -102,9 +102,19 @@ sidebar-context-menu-customize-sidebar =
 #   $deviceName (String) - The name of the device the user is closing a tab for
 sidebar-context-menu-close-remote-tab =
     .label = Pechar a pestana en { $deviceName }
+sidebar-context-menu-remove-extension2 =
+    .label = Eliminar de { -brand-short-name }
+sidebar-context-menu-unpin-extension =
+    .label = Eliminar da barra lateral
 
 ## Labels for sidebar history context menu items
 
+sidebar-history-context-menu-delete-page-2 =
+    .label = Eliminar páxina do historial
+sidebar-history-context-menu-bookmark-page =
+    .label = Engadir aos favoritos…
+sidebar-history-context-menu-delete-pages =
+    .label = Eliminar páxinas do historial
 
 ## Labels for sidebar menu items.
 
@@ -116,18 +126,44 @@ sidebar-menu-synced-tabs-label =
     .label = As pestanas doutros dispositivos
 sidebar-menu-bookmarks-label =
     .label = Marcadores
+sidebar-menu-customize-label =
+    .label = Personalizar a barra lateral
+sidebar-menu-contextual-password-manager-label =
+    .label = Contrasinais
 
 ## Tooltips for sidebar menu items.
 
+# The tooltip to show over the history icon, when history is not currently showing.
+# Variables:
+#   $shortcut (String) - The OS specific keyboard shortcut.
+sidebar-menu-open-history-tooltip = Abrir historial ({ $shortcut })
+# The tooltip to show over the history icon, when history is currently showing.
+# Variables:
+#   $shortcut (String) - The OS specific keyboard shortcut.
+sidebar-menu-close-history-tooltip = Pechar o historial ({ $shortcut })
+# The tooltip to show over the bookmarks icon, when bookmarks is not currently showing.
+# Variables:
+#   $shortcut (String) - The OS specific keyboard shortcut.
+sidebar-menu-open-bookmarks-tooltip = Abrir marcadores ({ $shortcut })
+# The tooltip to show over the bookmarks icon, when bookmarks is currently showing.
+# Variables:
+#   $shortcut (String) - The OS specific keyboard shortcut.
+sidebar-menu-close-bookmarks-tooltip = Pechar os marcadores ({ $shortcut })
 
 ## Tooltips displayed over the AI chatbot icon.
 ## Variables:
 ##   $shortcut (String) - The OS specific keyboard shortcut.
 ##   $provider (String) - The name of the AI chatbot provider (if available).
 
+sidebar-menu-open-ai-chatbot-tooltip-generic = Abrir chatbot de IA ({ $shortcut })
+sidebar-menu-open-ai-chatbot-provider-tooltip = Abrir { $provider } ({ $shortcut })
 
 ## Headings for sidebar menu panels.
 
+sidebar-menu-customize-header =
+    .heading = Personalizar a barra lateral
+sidebar-menu-history-header =
+    .heading = Historial
 
 ## Titles for sidebar menu panels.
 

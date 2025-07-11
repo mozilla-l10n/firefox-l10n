@@ -125,6 +125,9 @@ translations-manage-description = Descargar idiomas para a tradución sen conexi
 translations-manage-all-language = Todos os idiomas
 translations-manage-download-button = Descargar
 translations-manage-delete-button = Eliminar
+translations-manage-download-description = Descargar idiomas para a tradución sen conexión
+translations-manage-language-download-button =
+    .label = Descargar
 translations-manage-language-download-all-button =
     .label = Descargar todo
     .accesskey = D
@@ -164,6 +167,40 @@ translations-settings-remove-all-sites-button =
 translations-settings-close-dialog =
     .buttonlabelaccept = Pechar
     .buttonaccesskeyaccept = c
+# Text displayed in the right-click context menu for translating
+# selected text to a yet-to-be-determined language.
+main-context-menu-translate-selection =
+    .label = Traducir a selección...
+    .accesskey = n
+# Text displayed in the right-click context menu for translating
+# selected text to a target language.
+#
+# Variables:
+#   $language (string) - The localized display name of the target language
+main-context-menu-translate-selection-to-language =
+    .label = Traduce a selección a { $language }
+    .accesskey = n
+# Text displayed in the right-click context menu for translating
+# the text of a hyperlink to a yet-to-be-determined language.
+main-context-menu-translate-link-text =
+    .label = Traducir o texto da ligazón...
+    .accesskey = n
+# Text displayed in the right-click context menu for translating
+# the text of a hyperlink to a target language.
+#
+# Variables:
+#   $language (string) - The localized display name of the target language
+main-context-menu-translate-link-text-to-language =
+    .label = Traduce o texto da ligazón a { $language }
+    .accesskey = n
+# Text displayed in the select translations panel header.
+select-translations-panel-header = Tradución
+# Text displayed above the from-language dropdown menu.
+select-translations-panel-from-label = De
+# Text displayed above the to-language dropdown menu.
+select-translations-panel-to-label = Para
+# Text displayed above the try-another-source-language dropdown menu.
+select-translations-panel-try-another-language-label = Probar outro idioma de orixe
 select-translations-panel-cancel-button =
     .label = Cancelar
 select-translations-panel-translate-button =

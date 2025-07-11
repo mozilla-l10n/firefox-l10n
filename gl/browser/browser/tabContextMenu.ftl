@@ -82,9 +82,22 @@ move-to-new-window =
 tab-context-close-multiple-tabs =
     .label = Pechar varias lapelas
     .accesskey = v
+tab-context-close-duplicate-tabs =
+    .label = Pechar as pestanas duplicadas
+    .accesskey = u
 tab-context-share-url =
     .label = Compartir
     .accesskey = C
+# In left-to-right languages this should use "Right" and in right-to-left languages this should use "Left" to indicate the direction a new tab will open.
+tab-context-new-tab-open =
+    .label = Nova pestana á dereita
+    .accesskey = v
+tab-context-new-tab-open-vertical =
+    .label = Nova pestana debaixo
+    .accesskey = x
+tab-context-new-group =
+    .label = Novo grupo
+    .accesskey = g
 
 ## Variables:
 ##  $tabCount (Number): the number of tabs that are affected by the action.
