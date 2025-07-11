@@ -10,7 +10,7 @@ aboutDialog-title =
         }
 releaseNotes-link = Шта је ново
 update-checkForUpdatesButton =
-    .label = Провери доступност ажурирања
+    .label = Потражи ажурирање
     .accesskey = П
 update-updateButton =
     .label =

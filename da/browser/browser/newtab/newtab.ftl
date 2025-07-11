@@ -505,6 +505,8 @@ newtab-topic-selection-button-pick-interests = Vælg dine interesser
 newtab-section-follow-button = Følg
 newtab-section-following-button = Følger
 newtab-section-unfollow-button = Stop med at følge
+# A modal may appear next to the Follow button, directing users to try out the feature
+newtab-section-follow-highlight-title = Finjuster dit feed
 newtab-section-follow-highlight-subtitle = Følg dine interesserer for at se mere indhold, der passer dig.
 
 ## Button to block/unblock listed topics
