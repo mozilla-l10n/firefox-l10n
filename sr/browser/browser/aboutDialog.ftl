@@ -12,6 +12,13 @@ releaseNotes-link = Шта је ново
 update-checkForUpdatesButton =
     .label = Потражи ажурирање
     .accesskey = П
+update-updateButton =
+    .label =
+        { -brand-shorter-name.declinable ->
+            [true] Поново покрени и ажурирај { -brand-shorter-name(case: "acc") }
+           *[false] Поново покрени и ажурирај програм { -brand-shorter-name }
+        }
+    .accesskey = Р
 update-checkingForUpdates = Тражи се ажурирање…
 
 ## Variables:
@@ -50,13 +57,16 @@ update-internal-error2 = Интерна грешка спречава прове
 # Variables:
 #   $channel (String): description of the update channel (e.g. "release", "beta", "nightly" etc.)
 aboutdialog-channel-description = Користите <label data-l10n-name="current-channel">{ $channel }</label> канал за ажурирања.
-warningDesc-version = { -brand-short-name } је експерименталан и може бити нестабилан.
+warningDesc-version =
+    { -brand-short-name.gender ->
+        [masculine] { -brand-short-name } је експерименталан и може бити нестабилан.
+        [feminine] { -brand-short-name } је експериментална и може бити нестабилна.
+       *[other] Програм { -brand-short-name } је експерименталан и може бити нестабилан.
+    }
 aboutdialog-help-user =
-    { -brand-product-name.gender ->
-        [masculine] Помоћ за { -brand-product-name(case: "acc") }
-        [feminine] Помоћ за { -brand-product-name(case: "acc") }
-        [neuter] Помоћ за { -brand-product-name(case: "acc") }
-       *[other] Помоћ за програм { -brand-product-name }
+    { -brand-product-name.declinable ->
+        [true] Помоћ за { -brand-product-name(case: "acc") }
+       *[false] Помоћ за програм { -brand-product-name }
     }
 aboutdialog-submit-feedback = Пошаљите повратне информације
 community-exp = <label data-l10n-name="community-exp-mozillaLink">{ -vendor-short-name }</label> је <label data-l10n-name="community-exp-creditsLink"> глобална заједница</label> која ради на томе да задржи веб отвореним, јавним и доступним свима.
