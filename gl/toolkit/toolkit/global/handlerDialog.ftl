@@ -18,6 +18,8 @@ permission-dialog-description-app = Permitir que este sitio abra a ligazón { $s
 permission-dialog-description-host-app = Permitir que { $host } abra a ligazón { $scheme } con { $appName }?
 permission-dialog-description-file-app = Permitir que este sitio abra a ligazón { $scheme } con { $appName }?
 permission-dialog-description-extension-app = Permitir á extensión { $extension } abrir a ligazón { $scheme } con { $appName }?
+permission-dialog-description-system-app = Abrir a ligazón { $scheme } con { $appName }?
+permission-dialog-description-system-noapp = Abrir a ligazón { $scheme }?
 
 ## Please keep the emphasis around the hostname and scheme (ie the
 ## `<strong>` HTML tags). Please also keep the hostname as close to the start

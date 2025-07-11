@@ -202,6 +202,10 @@ media-key-system-name = Nome do sistema de claves
 media-video-robustness = Robusteza do vídeo
 media-audio-robustness = Robusteza do audio
 media-cdm-capabilities = Capacidades
+# Clear Lead isn't defined in the spec, which means the the first few seconds
+# are not encrypted. It allows playback to start without having to wait for
+# license response, improving video start time and user experience.
+media-cdm-clear-lead = Inicio limpo
 # We choose 2.2 as this is the version which the video provider usually want to have in order to stream 4K video securely
 # HDCP version https://w3c.github.io/encrypted-media/#idl-def-hdcpversion
 media-hdcp-22-compatible = Compatible con HDCP 2.2
@@ -284,6 +288,7 @@ try-newer-driver = Bloqueada para a versión do seu controlador gráfico. Tente 
 # there are no good translations, these are only used in about:support
 clear-type-parameters = Parámetros de ClearType
 compositing = Composición
+support-font-determination = Información de depuración da visibilidade das fontes
 hardware-h264 = Descodificación por hardware H264
 main-thread-no-omtc = fío principal, sen OMTC
 yes = Si
@@ -345,6 +350,9 @@ has-seccomp-bpf = Seccomp-BPF (Filtrado de chamadas do sistema)
 has-seccomp-tsync = Sincronización de fíos seccomp
 has-user-namespaces = Espazos de nome do usuario
 has-privileged-user-namespaces = Espazos de nome do usuario para procesos privilexiados
+# Variables
+# $status (string) - Boolean value of hasUserNamespaces (should only be false when support-user-namespaces-unavailable is used)
+support-user-namespaces-unavailable = { $status } — Esta función non está permitida polo teu sistema. Isto pode restrinxir as funcións de seguranza de { -brand-short-name }.
 can-sandbox-content = Illamento (sandbox) para o proceso do contido
 can-sandbox-media = Illamento (sandbox) para os engadidos multimedia
 content-sandbox-level = Nivel de illamento (sandbox) para o proceso do contido
@@ -415,6 +423,17 @@ support-printing-prefs-value = Valor
 
 ## Remote Settings sections
 
+support-remote-settings-title = Configuración remota
+support-remote-settings-status = Estado
+support-remote-settings-status-ok = Aceptar
+# Status when synchronization is not working.
+support-remote-settings-status-broken = Non funciona
+support-remote-settings-last-check = Última comprobación
+support-remote-settings-local-timestamp = Marca de tempo local
+support-remote-settings-sync-history = Historial
+support-remote-settings-sync-history-status = Estado
+support-remote-settings-sync-history-datetime = Data
+support-remote-settings-sync-history-infos = Informacións
 
 ## Normandy sections
 
@@ -435,3 +454,12 @@ pointing-device-none = Sen dispositivos apuntadores
 
 ## Content Analysis (DLP)
 
+# DLP stands for Data Loss Prevention, an industry term for external software
+# that enterprises can set up to prevent sensitive data from being transferred
+# to external websites.
+content-analysis-title = Análise de contido (DLP)
+content-analysis-active = Activo
+content-analysis-connected-to-agent = Conectado ao axente
+content-analysis-agent-path = Ruta do axente
+content-analysis-agent-failed-signature-verification = Fallou a verificación da sinatura do axente
+content-analysis-request-count = Reconto de solicitudes
