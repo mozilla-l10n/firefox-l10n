@@ -40,7 +40,6 @@ update-noUpdatesFound =
     { -brand-short-name.gender ->
         [masculine] { -brand-short-name } је ажуран
         [feminine] { -brand-short-name } је ажурна
-        [neuter] { -brand-short-name } је ажурно
        *[other] Програм { -brand-short-name } је ажуран
     }
 aboutdialog-update-checking-failed = Провера ажурирања није успела.
