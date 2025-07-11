@@ -551,6 +551,8 @@ newtab-download-mobile-highlight-image =
 
 ## Strings for shortcuts highlight
 
+newtab-shortcuts-highlight-title = Your favourites at your fingertips
+newtab-shortcuts-highlight-subtitle = Add a shortcut to keep your favourite sites one click away.
 
 ## Strings for reporting ads and content
 
@@ -585,3 +587,5 @@ newtab-trending-searches-hide-trending =
     .title = Hide trending searches
 newtab-trending-searches-learn-more = Learn more
 newtab-trending-searches-dismiss = Hide trending searches
+# "Trending searches refers to popular searches from search engines
+newtab-trending-searches-title = Trending searches
