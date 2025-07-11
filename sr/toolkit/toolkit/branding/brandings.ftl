@@ -208,10 +208,30 @@
 -fakespot-brand-full-name = Fakespot од Mozill-е
 # “Suggest” can be localized, “Firefox” must be treated as a brand
 # and kept in English.
--firefox-suggest-brand-name = Firefox предлози
+-firefox-suggest-brand-name =
+    { $case ->
+        [gen] Firefox предлога
+        [dat] Firefox предлозима
+        [acc] Firefox предлоге
+        [ins] Firefox предлозима
+        [loc] Firefox предлозима
+       *[nom] Firefox предлози
+    }
+    .gender = masculine
+    .declinable = true
 # ”Home" can be localized, “Firefox” must be treated as a brand
 # and kept in English.
--firefox-home-brand-name = Firefox почетна
+-firefox-home-brand-name =
+    { $case ->
+        [gen] почетне странице Firefox-а
+        [dat] почетној страници Firefox-а
+        [acc] почетну страницу Firefox-а
+        [ins] почетном страницом Firefox-а
+        [loc] почетној страници Firefox-а
+       *[nom] почетна страница Firefox-а
+    }
+    .gender = feminine
+    .declinable = true
 # View" can be localized, “Firefox” must be treated as a brand
 # and kept in English.
 -firefoxview-brand-name = Firefox преглед
