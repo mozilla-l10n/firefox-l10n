@@ -383,6 +383,7 @@ quickactions-downloads2 = Zobrazit stahování
 quickactions-cmd-downloads = stahování
 # Opens about:addons page in the extensions section
 quickactions-extensions = Správa rozšíření
+quickactions-cmd-extensions2 = rozšíření, doplňky
 quickactions-cmd-extensions = rozšíření
 # Opens Firefox View
 quickactions-firefoxview = Otevřít { -firefoxview-brand-name(case: "acc") }
@@ -442,6 +443,10 @@ quickactions-cmd-settings2 = nastavení, předvolby, možnosti, spravovat
 quickactions-cmd-settings = nastavení, předvolby, možnosti
 # Opens about:addons page in the themes section
 quickactions-themes = Nastavení vzhledu
+# In English we provide multiple spellings for "add-ons". If that's not
+# applicable to your language, only use the correct spelling (don't repeat the
+# same word).
+quickactions-cmd-themes2 = motivy, vzhledy, doplňky
 quickactions-cmd-themes = motivy vzhledu
 # Opens a SUMO article explaining how to update the browser
 quickactions-update =
@@ -1473,3 +1478,6 @@ file-picker-crashed-show-in-folder =
 ## Onboarding Finish Setup checklist
 
 onboarding-checklist-button-label = Dokončit nastavení
+onboarding-aw-finish-setup-button =
+    .label = Dokončit nastavení
+    .tooltiptext = Dokončí nastavení { -brand-short-name(case: "gen") }
