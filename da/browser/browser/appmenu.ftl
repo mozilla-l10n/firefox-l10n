@@ -170,6 +170,9 @@ profiler-popup-capture-shortcut =
         [macos] ⌃⇧2
        *[other] Ctrl+Skift+2
     }
+profiler-button-dropmarker =
+    .label = Åbn profilerings-panelet
+    .tooltiptext = Åbn profilerings-panelet
 
 ## Profiler presets
 ## They are shown in the popup's select box.

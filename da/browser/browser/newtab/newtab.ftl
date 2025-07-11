@@ -583,3 +583,5 @@ newtab-trending-searches-hide-trending =
     .title = Skjul populære søgninger
 newtab-trending-searches-learn-more = Lær mere
 newtab-trending-searches-dismiss = Skjul populære søgninger
+# "Trending searches refers to popular searches from search engines
+newtab-trending-searches-title = Populære søgninger

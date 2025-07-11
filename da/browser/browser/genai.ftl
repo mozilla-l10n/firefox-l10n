@@ -51,6 +51,8 @@ genai-menu-ask-generic =
 # $provider (string) - name of the provider
 genai-menu-ask-provider =
     .label = Spørg { $provider }
+genai-menu-open-generic =
+    .label = Åbn AI-chatbot
 # $provider (string) - name of the provider
 genai-menu-open-provider =
     .label = Åbn { $provider }
@@ -62,6 +64,7 @@ genai-menu-remove-provider =
 genai-menu-remove-sidebar =
     .label = Fjern fra sidepanel
 genai-menu-new-badge = Ny
+genai-menu-summarize-page = Opsummer side
 genai-input-ask-generic =
     .placeholder = Spørg AI-chatbot...
 # $provider (string) - name of the provider
@@ -88,6 +91,10 @@ genai-shortcuts-selected-warning =
         }
 genai-shortcuts-hide =
     .label = Skjul genvej til chatbot
+genai-menu-no-provider =
+    .label = Spørg en AI-chatbot
+genai-menu-choose-chatbot =
+    .label = Vælg en AI-chatbot
 
 ## Chatbot header
 
@@ -114,6 +121,7 @@ genai-options-about-chatbot =
 
 ## Chatbot footer
 
+genai-page-button-summarize = Opsummer side
 
 ## Chatbot onboarding
 
@@ -149,6 +157,10 @@ genai-onboarding-select-primary = Gå i gang med at chatte
 genai-chatbot-contextual-title = Brug en AI-chatbot uden at skifte faneblade
 genai-chatbot-contextual-subtitle = Chat og surf på samme tid, når du føjer en AI-chatbot til sidepanelet i { -brand-short-name }.
 genai-chatbot-contextual-button = Vælg en chatbot
+genai-chatbot-summarize-title = Nyhed: Opsummer sider med et enkelt klik
+genai-chatbot-summarize-button = Opsummer side
+# “Summarize Page” should be consistent with the translation for the string genai-menu-summarize-page
+genai-chatbot-summarize-sidebar-provider-subtitle = Højreklik på din AI-chatbot i sidepanelet og vælg "Opsummer side".
 
 ## Chatbot onboarding choices
 ## These describe features/capabilities of chatbot providers. These are not buttons/actions.
