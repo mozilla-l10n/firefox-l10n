@@ -234,6 +234,10 @@ preferences-web-appearance-choice-input-dark =
     .aria-description = { preferences-web-appearance-choice-tooltip-dark.title }
 # This can appear when using windows HCM or "Override colors: always" without
 # system colors.
+preferences-web-appearance-override-warning3 =
+    .message = A túa configuración de control de contraste prevalence sobre a apariencia do sitio web.
+# This can appear when using windows HCM or "Override colors: always" without
+# system colors.
 preferences-web-appearance-override-warning = As túas escollas de cores substitúen a aparencia do sitio web. <a data-l10n-name="colors-link">Xestionar as cores</a>
 # This can appear when using windows HCM or "Override colors: always" without
 # system colors.
@@ -242,6 +246,17 @@ preferences-web-appearance-override-warning2 =
 # This message contains one link. It can be moved within the sentence as needed
 # to adapt to your language, but should not be changed.
 preferences-web-appearance-footer = Xestiona os temas de { -brand-short-name } en <a data-l10n-name="themes-link">Extensións e temas</a>
+preferences-contrast-control-header = Control de contraste
+preferences-contrast-control-description = Os sitios web teñen unha variedade de cores de primeiro plano e de fondo. Configura { -brand-short-name } para que use as mesmas cores nos sitios web para mellorar a lexibilidade.
+preferences-contrast-control-use-platform-settings =
+    .label = Automático (usar a configuración do sistema)
+    .accesskey = A
+preferences-contrast-control-off =
+    .label = Desactivado
+    .accesskey = D
+preferences-contrast-control-custom =
+    .label = Personalizado
+    .accesskey = P
 preferences-colors-header = Cores
 preferences-colors-description = Substituír as cores predeterminadas de { -brand-short-name } para texto, fondos de sitios web, e ligazóns.
 preferences-colors-manage-button =
@@ -266,6 +281,8 @@ preferences-default-zoom-value =
 preferences-zoom-text-only =
     .label = Ampliar só o texto
     .accesskey = t
+preferences-text-zoom-override-warning =
+    .message = Aviso: se seleccionas «Ampliar só texto» e o teu aumento predeterminado non está configurado a 100 %, é posible que algúns sitios ou contido se rompan.
 language-header = Idioma
 choose-language-description = Escolla o seu idioma preferido para amosar as páxinas
 choose-button =
@@ -315,6 +332,9 @@ download-choose-folder =
 download-always-ask-where =
     .label = Preguntar sempre onde gardar os ficheiros
     .accesskey = a
+download-private-browsing-delete =
+    .label = Elimina os ficheiros descargados na navegación privada cando todas as ventás privadas estean pechadas
+    .accesskey = E
 applications-header = Aplicativos
 applications-description = Escolla como { -brand-short-name } xestiona os ficheiros que descarga da web ou os aplicativos que usa mentres navega.
 applications-filter =
@@ -469,6 +489,8 @@ performance-default-content-process-count =
 ## General Section - Browsing
 
 browsing-title = Navegación
+browsing-group-label =
+    .aria-label = Navegación
 browsing-use-autoscroll =
     .label = Utilizar desprazamento automático
     .accesskey = a
@@ -487,6 +509,9 @@ browsing-use-onscreen-keyboard =
 browsing-use-cursor-navigation =
     .label = Utilizar sempre as teclas de desprazamento para navegar nas páxinas
     .accesskey = c
+browsing-use-full-keyboard-navigation =
+    .label = Usa a tecla de tabulación para mover o foco entre os controis do formulario e as ligazóns
+    .accesskey = t
 browsing-search-on-start-typing =
     .label = Buscar o texto ao comezar a escribir
     .accesskey = x
@@ -569,6 +594,7 @@ home-prefs-recommended-by-header =
 home-prefs-recommended-by-description-new = Contido excepcional patrocinado por { $provider }, parte da familia { -brand-product-name }
 home-prefs-recommended-by-header-generic =
     .label = Historias recomendadas
+home-prefs-recommended-by-description-generic = Contido excepcional seleccionado pola familia de { -brand-product-name }
 
 ##
 
@@ -595,6 +621,18 @@ home-prefs-recent-activity-description = Unha selección de sitios e contido rec
 home-prefs-snippets-header =
     .label = Fragmentos
 home-prefs-snippets-description-new = Consellos e novas de { -vendor-short-name } e { -brand-product-name }
+home-prefs-weather-header =
+    .label = Tempo
+home-prefs-weather-description = A previsión de hoxe dunha ollada
+home-prefs-weather-learn-more-link = Máis información
+home-prefs-trending-search-header =
+    .label = Tendencias de busca
+home-prefs-trending-search-description = Temas populares e buscados con frecuencia
+# "Support" here means to help sustain or contribute to something, especially through funding or sponsorship.
+home-prefs-support-firefox-header =
+    .label = Apoiar a { -brand-product-name }
+home-prefs-mission-message = Os nosos patrocinadores apoian a nosa misión de construír unha web mellor
+home-prefs-mission-message-learn-more-link = Descubre como
 # Variables:
 #   $num (number) - Number of rows displayed
 home-prefs-sections-rows-option =
@@ -622,9 +660,16 @@ search-suggestions-desc = Escolla como aparecen as suxestións dos motores de bu
 search-suggestions-option =
     .label = Fornecer suxestións de busca
     .accesskey = s
+search-show-suggestions-option =
+    .label = Amosar suxestións de busca
+    .accesskey = A
 search-show-suggestions-url-bar-option =
     .label = Amosar suxestións de busca nos resultados da barra de enderezos
     .accesskey = l
+# With this option enabled, on the search results page
+# the URL will be replaced by the search terms in the address bar.
+search-show-search-term-option-2 =
+    .label = Mostrar os termos de busca na barra de enderezos nas páxinas de resultados
 # With this option enabled, on the search results page
 # the URL will be replaced by the search terms in the address bar
 # when using the current default search engine.
@@ -656,6 +701,9 @@ search-remove-engine =
 search-add-engine =
     .label = Engadir
     .accesskey = E
+search-edit-engine =
+    .label = Editar
+    .accesskey = E
 search-find-more-link = Atopar máis buscadores
 # This warning is displayed when the chosen keyword is already in use
 # ('Duplicate' is an adjective)
@@ -664,6 +712,8 @@ search-keyword-warning-title = Duplicar a palabra clave
 #   $name (string) - Name of a search engine.
 search-keyword-warning-engine = A palabra clave que escolleu está a ser utilizada por "{ $name }". Seleccione outra.
 search-keyword-warning-bookmark = A palabra clave que escolleu está a ser utilizada por un marcador. Seleccione outra.
+remove-engine-confirmation = Estás seguro de que queres eliminar este buscador?
+remove-engine-remove = Retirar
 
 ## Containers Section
 
@@ -706,6 +756,10 @@ sync-profile-picture =
 sync-profile-picture-with-alt =
     .tooltiptext = Cambiar a foto do perfil
     .alt = Cambiar a foto do perfil
+sync-profile-picture-account-problem =
+    .alt = Fotografía do perfil da conta
+fxa-login-rejected-warning =
+    .alt = Aviso
 sync-sign-out =
     .label = Saír…
     .accesskey = S
@@ -723,6 +777,9 @@ sync-signedin-login-failure = Identifíquese para volver a conectarse { $email }
 sync-resend-verification =
     .label = Reenviar comprobación
     .accesskey = m
+sync-verify-account =
+    .label = Verificar conta
+    .accesskey = V
 sync-remove-account =
     .label = Retirar conta
     .accesskey = R
