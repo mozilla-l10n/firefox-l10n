@@ -83,11 +83,9 @@ login-list-last-used-option = последњем коришћењу
 login-list-intro-title = Нема пронађених пријава
 login-list-intro-title2 = Нема сачуваних лозинки
 login-list-intro-description =
-    { -brand-product-name.gender ->
-        [masculine] Овде ће се појавити лозинке које сачувате у { -brand-product-name(case: "loc") }.
-        [feminine] Овде ће се појавити лозинке које сачувате у { -brand-product-name(case: "loc") }.
-        [neuter] Овде ће се појавити лозинке које сачувате у { -brand-product-name(case: "loc") }.
-       *[other] Овде ће се појавити лозинке које сачувате у програму { -brand-product-name }.
+    { -brand-product-name.declinable ->
+        [true] Овде ће се појавити лозинке које сачувате у { -brand-product-name(case: "loc") }.
+       *[false] Овде ће се појавити лозинке које сачувате у програму { -brand-product-name }.
     }
 about-logins-login-list-empty-search-title = Пријаве нису пронађене
 about-logins-login-list-empty-search-title2 = Нема пронађених лозинки
@@ -112,11 +110,9 @@ about-logins-list-section-week = Последњих 7 дана
 about-logins-login-intro-heading-logged-out2 = Тражите сачуване лозинке? Увезите их или укључите синхронизацију.
 about-logins-login-intro-heading-logged-in = Синхронизоване пријаве нису пронађене.
 login-intro-description =
-    { -brand-product-name.gender ->
-        [masculine] Ако сте сачували лозинке у { -brand-product-name(case: "loc") } на другом уређају, ево како их можете преузети:
-        [feminine] Ако сте сачували лозинке у { -brand-product-name(case: "loc") } на другом уређају, ево како их можете преузети:
-        [neuter] Ако сте сачували лозинке у { -brand-product-name(case: "loc") } на другом уређају, ево како их можете преузети:
-       *[other] Ако сте сачували лозинке у програму { -brand-product-name } на другом уређају, ево како их можете преузети:
+    { -brand-product-name.declinable ->
+        [true] Ако сте сачували лозинке у { -brand-product-name(case: "loc") } на другом уређају, ево како им можете приступити:
+       *[false] Ако сте сачували лозинке у програму { -brand-product-name } на другом уређају, ево како им можете приступити:
     }
 login-intro-instructions-fxa = Региструјте се или се пријавите на { -fxaccount-brand-name(case: "acc") } на уређају на ком сте сачували лозинке.
 about-logins-login-intro-heading-message = Сачувај своје лозинке на безбедном месту

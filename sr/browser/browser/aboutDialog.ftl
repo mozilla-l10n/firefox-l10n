@@ -70,7 +70,7 @@ aboutdialog-help-user =
     }
 aboutdialog-submit-feedback = Пошаљите повратне информације
 community-exp = <label data-l10n-name="community-exp-mozillaLink">{ -vendor-short-name }</label> је <label data-l10n-name="community-exp-creditsLink"> глобална заједница</label> која ради на томе да задржи веб отвореним, јавним и доступним свима.
-community-2 = { -brand-short-name } развија <label data-l10n-name="community-mozillaLink">{ -vendor-short-name }</label>, <label data-l10n-name="community-creditsLink"> глобална заједница</label> која се залаже да интернет остане отворен, јаван и доступан свима.
+community-2 = { -brand-short-name } развија <label data-l10n-name="community-mozillaLink">{ -vendor-short-name }</label>, <label data-l10n-name="community-creditsLink"> глобална заједница</label> која се залаже да веб остане отворен, јаван и доступан свима.
 helpus = Желите да помогнете? <label data-l10n-name="helpus-donateLink">Донирајте</label> или <label data-l10n-name="helpus-getInvolvedLink">се прикључите!</label>
 bottomLinks-license = Информације о лиценцирању
 bottom-links-terms = Услови коришћења
