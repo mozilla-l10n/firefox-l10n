@@ -83,10 +83,12 @@ about-webauthn-update-button = Actualizar
 about-webauthn-auth-option-uv = Verificación de usuario
 about-webauthn-auth-option-up = Presencia de usuario
 about-webauthn-auth-option-clientpin = PIN do cliente
+about-webauthn-auth-option-rk = Chave residente
 about-webauthn-auth-option-plat = Dispositivo de plataforma
 about-webauthn-auth-option-largeblobs = Blobs grandes
 about-webauthn-auth-option-ep = Certificación empresarial
 about-webauthn-auth-option-bioenroll = Rexistro biométrico
+about-webauthn-auth-option-authnrcfg = Configuración do autenticador
 # Shows when boolean value for an option is True. True should not be translated.
 about-webauthn-auth-option-true = Verdadeiro
 # Shows when boolean value of an option is False. False should not be translated.
