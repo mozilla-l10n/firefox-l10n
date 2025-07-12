@@ -16,7 +16,7 @@ about-logins-login-filter2 =
 create-login-button =
     .title = ഒളിവാക്കു് ചേർക്കുക
 fxaccounts-sign-in-text = താങ്ങളുടെ മറ്റ് ഉപകരണങ്ങളിൽ ഒളിവാക്കുകൾ നേടുക
-fxaccounts-sign-in-sync-button = സമന്വയിപ്പിക്കാനായി പ്രവേശിക്കൽ ചെയ്യുക
+fxaccounts-sign-in-sync-button = സമന്വയിപ്പിക്കാനായി പ്രവേശിക്കുക
 fxaccounts-avatar-button =
     .title = അക്കൗണ്ട് കൈകാര്യം ചെയ്യുക
 
