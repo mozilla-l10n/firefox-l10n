@@ -99,6 +99,8 @@ sidebar-history-context-menu-delete-page-2 =
     .label = Kkes asebter seg uzray
 sidebar-history-context-menu-bookmark-page =
     .label = Creḍ asebter…
+sidebar-history-context-menu-delete-pages =
+    .label = Kkes isebtar seg uzray
 
 ## Labels for sidebar menu items.
 

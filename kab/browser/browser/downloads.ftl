@@ -185,6 +185,9 @@ downloads-details =
 
 ## These strings are displayed in the private browsing view of the downloads panel
 
+downloads-private-browsing-delete-button =
+    .label = Kkes ifuyla s wudem awurman
+    .accesskey = K
 downloads-private-browsing-accept-button =
     .label = Awi-t
     .accesskey = A
