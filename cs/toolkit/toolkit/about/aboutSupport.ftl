@@ -198,6 +198,8 @@ media-capabilities-enumerate = Vypsat databázi
 
 media-codec-support-sw-decoding = Softwarové dekódování
 media-codec-support-hw-decoding = Hardwarové dekódování
+media-codec-support-sw-encoding = Softwarové kódování
+media-codec-support-hw-encoding = Hardwarové kódování
 media-codec-support-codec-name = Název kodeku
 media-codec-support-supported = Podporované
 media-codec-support-unsupported = Nepodporováné
