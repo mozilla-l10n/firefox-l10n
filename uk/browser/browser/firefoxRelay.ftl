@@ -72,6 +72,7 @@ firefox-relay-and-fxa-opt-in-confirmation-enable-button-basic-info =
 
 firefox-relay-and-fxa-popup-notification-header-with-domain = Отримайте безплатну маску е-пошти
 firefox-relay-and-fxa-popup-notification-first-sentence-with-domain = Захистіть свою поштову скриньку від спаму, використовуючи безплатну <label data-l10n-name="firefox-relay-learn-more-url">маску електронної пошти</label>, щоб приховати вашу справжню адресу. Електронні листи з <label data-l10n-name="firefox-fxa-and-relay-offer-domain">цього сайту</label> все одно надходитимуть до вашої поштової скриньки, але ваша адреса електронної пошти буде прихована.
+firefox-relay-and-fxa-popup-notification-first-sentence = Захистіть свою поштову скриньку від спаму, використовуючи безплатну <label data-l10n-name="firefox-relay-learn-more-url">маску електронної пошти { -relay-brand-name }</label>, щоб приховати вашу справжню адресу. Електронні листи з <label data-l10n-name="firefox-fxa-and-relay-offer-domain">цього сайту</label> все одно надходитимуть до вашої поштової скриньки, але ваша адреса електронної пошти буде прихована.
 firefox-relay-and-fxa-popup-notification-second-sentence-with-domain = Щоб скористатися маскою е-пошти, спершу зареєструйтеся або ввійдіть у свій обліковий запис
 firefox-relay-and-fxa-opt-in-confirmation-enable-button-with-domain =
     .label = Зареєструватись

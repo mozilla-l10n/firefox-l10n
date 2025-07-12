@@ -363,6 +363,7 @@ quickactions-downloads2 = Переглянути завантаження
 quickactions-cmd-downloads = завантаження
 # Opens about:addons page in the extensions section
 quickactions-extensions = Керувати розширеннями
+quickactions-cmd-extensions2 = розширення, додатки, доповнення
 quickactions-cmd-extensions = розширення
 # Opens Firefox View
 quickactions-firefoxview = Відкрити { -firefoxview-brand-name }
