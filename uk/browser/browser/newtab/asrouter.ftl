@@ -312,7 +312,7 @@ root-certificate-windows-background-notification-update-button = Оновити 
 
 fxa-menu-message-close-button =
     .title = Закрити
-    .aria-label = З
+    .aria-label = Закрити
 fxa-menu-message-sign-up-button = Зареєструватись
 fxa-menu-message-sync-devices-primary-text = Синхронізуйте всі свої пристрої
 fxa-menu-message-sync-devices-secondary-text = Миттєво отримуйте свої дані, як-от закладки та паролі, всюди, де ви використовуєте { -brand-short-name }.
