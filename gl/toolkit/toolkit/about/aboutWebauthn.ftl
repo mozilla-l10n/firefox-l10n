@@ -36,6 +36,19 @@ about-webauthn-add-bio-enrollment-section-title = Engadir novo rexistro
 
 about-webauthn-results-success = Rematou!
 about-webauthn-results-general-error = Erro!
+# Variables:
+#  $retriesLeft (Number): number of tries left
+about-webauthn-results-pin-invalid-error =
+    { $retriesLeft ->
+        [0] Erro: PIN incorrecto. Téntao de novo.
+        [one] Erro: PIN incorrecto. Téntao de novo. Quédache { $retriesLeft } intento.
+       *[other] Erro: PIN incorrecto. Téntao de novo. Quédanche { $retriesLeft } intentos.
+    }
+about-webauthn-results-pin-blocked-error = Erro: non che quedan intentos e o teu dispositivo bloqueouse porque se proporcionou un PIN incorrecto demasiadas veces. O dispositivo necesita un reinicio.
+about-webauthn-results-pin-not-set-error = Erro: PIN non definido. Esta operación necesita protección mediante PIN.
+about-webauthn-results-pin-too-short-error = Erro: o PIN proporcionado é demasiado curto.
+about-webauthn-results-pin-too-long-error = Erro: o PIN proporcionado é demasiado longo.
+about-webauthn-results-cancelled-by-user-error = Erro: A operación cancelouse polo usuario.
 
 ## Labels
 
