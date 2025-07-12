@@ -45,6 +45,7 @@ neterror-dns-not-found-hint-header = <strong>Ако сте въвели вере
 neterror-dns-not-found-hint-try-again = Опитайте отново по-късно
 neterror-dns-not-found-hint-check-network = Проверете мрежовата си връзка
 neterror-dns-not-found-hint-firewall = Проверете дали { -brand-short-name } има права за достъп до мрежата (може и да сте свързани, но зад защитна стена)
+neterror-dns-not-found-offline-hint-header = <strong>Какво можете да направите?</strong>
 
 ## TRR-only specific messages
 ## Variables:
