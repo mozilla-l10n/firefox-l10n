@@ -19,3 +19,19 @@ experimental-features-ime-search-description = Un IME (Editor de método de entr
 experimental-features-auto-pip =
     .label = Picture-in-Picture: abrir automaticamente ao cambiar de pestana
 experimental-features-auto-pip-description = Activa Picture-in-Picture en vídeos activos ao cambiar de pestana.
+experimental-features-group-developer-tools =
+    .label = Ferramentas de desenvolvemento
+experimental-features-group-webpage-display =
+    .label = Visualización da páxina web
+experimental-features-group-customize-browsing =
+    .label = Personaliza a túa navegación
+# Contextual Password Manager in sidebar
+experimental-features-contextual-password-manager =
+    .label = Contrasinais na barra lateral
+# New Tab Custom Wallpapers
+experimental-features-custom-wallpaper =
+    .label = Escolle un fondo ou unha cor personalizados para a nova pestana
+experimental-features-custom-wallpaper-description = Carga o teu propio fondo de pantalla ou escolle unha cor personalizada para o fondo da túa nova pestana.
+# Link Previews with AI
+experimental-features-link-previews =
+    .label = Vistas previas de ligazóns
