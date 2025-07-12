@@ -16,6 +16,11 @@ about-glean-interface-description =
     é unha biblioteca de recollida de datos utilizada nos proxectos de { -vendor-short-name }.
     Esta interface está deseñada para que persoas desenvolvedoras e probadoras
     <a data-l10n-name="fog-link">proben a instrumentación</a> manualmente.
+about-glean-category-about-glean = Acerca de { -glean-brand-name }
+about-glean-category-manual-testing = Proba manual
+about-glean-category-adhoc-testing = Proba ad hoc
+about-glean-category-profiler = Usando o perfilador
+about-glean-category-about-data = Acerca dos datos
 about-glean-upload-enabled = A carga de datos está activada.
 about-glean-upload-disabled = A carga de datos está desactivada.
 about-glean-upload-enabled-local = A carga de datos só está activada para enviar a un servidor local.
@@ -43,6 +48,9 @@ about-glean-glean-android = <code>MOZ_GLEAN_ANDROID</code>: { $glean-android-def
 #   $moz-official-define-value (Boolean): the value of the MOZILLA_OFFICIAL define.
 # Do not translate strings between <code> </code> tags.
 about-glean-moz-official = <code>MOZILLA_OFFICIAL</code>: { $moz-official-define-value }
+about-glean-additional-links =
+    Para unha explicación das diferentes formas de rexistrar e atopar datos, consulta a
+    pestana <strong>Acerca dos datos</strong>.
 about-glean-about-testing-header = Sobre as probas
 # This message is followed by a numbered list.
 about-glean-manual-testing =
