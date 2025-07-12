@@ -43,18 +43,22 @@ about-logging-preset-networking-websocket-description = Módulos de rexistro par
 about-logging-preset-networking-http3-label = HTTP/3
 about-logging-preset-networking-http3-description = Módulos de rexistro para diagnosticar problemas de HTTP/3 e QUIC
 about-logging-preset-networking-http3-upload-speed-label = Velocidade de subida de HTTP/3
+about-logging-preset-networking-http3-upload-speed-description = Rexistrar módulos para diagnosticar problemas de velocidade de subida HTTP/3
 about-logging-preset-media-playback-label = Reprodución multimedia
 about-logging-preset-media-playback-description = Módulos de rexistro para diagnosticar problemas de reprodución multimedia (non problemas de videoconferencia)
 about-logging-preset-webrtc-label = WebRTC
 about-logging-preset-webrtc-description = Módulos de rexistro para diagnosticar chamadas WebRTC
 about-logging-preset-webcodecs-label = WebCodecs
-about-logging-preset-webcodecs-description = Módulos de rexistro para diagnosticar problemas cos decodificadores e codificadores de audio/vídeo WebCodecs e os descodificadores de imaxe
+about-logging-preset-webcodecs-description = Rexistrar módulos para diagnosticar problemas cos decodificadores e codificadores de audio/vídeo WebCodecs e os descodificadores de imaxe
 about-logging-preset-ml-label = Aprendizaxe automática
+about-logging-preset-ml-description = Rexistrar módulos para diagnosticar problemas de aprendizaxe automática
 about-logging-preset-webgpu-label = WebGPU
+about-logging-preset-webgpu-description = Rexistrar módulos para diagnosticar problemas de WebGPU
 about-logging-preset-gfx-label = Gráficos
 about-logging-preset-gfx-description = Rexistrar módulos para diagnosticar problemas gráficos
 # This is specifically "Microsoft Windows". Microsoft normally doesn't localize it, and we should follow their convention here.
 about-logging-preset-windows-label = Windows
+about-logging-preset-windows-description = Rexistrar módulos para diagnosticar problemas específicos de Microsoft Windows
 about-logging-preset-custom-label = Personalizado
 about-logging-preset-custom-description = Módulos de rexistro seleccionados manualmente
 # Error handling
@@ -68,8 +72,30 @@ about-logging-unknown-profiler-preset = Predefinición de perfilador descoñecid
 about-logging-unknown-option = Opción de about:logging descoñecida «{ $k }»
 about-logging-configuration-url-ignored = Ignorouse o URL de configuración
 about-logging-file-and-profiler-override = Non se pode forzar a saída do ficheiro e substituír as opcións do perfilador ao mesmo tempo
+# Variables:
+#   $errorText (string) - The received error message, inserted as is.
+about-logging-unknown-error = Produciuse un erro: { $errorText }
 about-logging-configured-via-url = Opción configurada por URL
 
 ## The upload interface is shown only with the preference toolkit.aboutLogging.uploadProfileToCloud
 ## set to true. It is false by default, except on Android.
 
+about-logging-upload-question = Capturáronse os datos do perfil. Queres gardalo ou cargalo?
+about-logging-save-button = Gardar
+about-logging-upload-button = Subir
+# Variables:
+#   $path (string) - The path where the profile can be found.
+about-logging-saved = Gardado en { $path }
+# Variables:
+#   $percent (number) - The upload completion progress, to be displayed as a percentage. This is a value between 0 and 1.
+about-logging-uploading-progress = Cargando datos do perfil: { NUMBER($percent, maximumSignificantDigits: 2, style: "percent") }
+# Variables:
+#   $url (string) - The URL where the profile can be found
+about-logging-uploaded = Cargado en <a data-l10n-name="uploaded-message-url">{ $url }</a>
+about-logging-share-uploaded-url = <img data-l10n-name="share-image"/> Compartir URL
+# Variables:
+#   $errorText (string) - The received error message, inserted as is.
+about-logging-upload-error = Produciuse un erro ao cargar o perfil: { $errorText }
+# Variables:
+#   $errorText (string) - The received error message, inserted as is.
+about-logging-save-error = Produciuse un erro ao gardar o ficheiro: { $errorText }

@@ -16,6 +16,8 @@ process-type-privilegedmozilla = Contido privilexiado de Mozilla
 process-type-extension = Extensión
 # process used to open file:// URLs
 process-type-file = Ficheiro local
+# process used to instantiate new child processes
+process-type-forkserver = Servidor de bifurcación
 # process used to isolate a webpage from other web pages
 # to improve security
 process-type-webisolated = Contido web illado
@@ -37,9 +39,17 @@ process-type-gpu = GPU
 process-type-socket = Zócalo
 # process used to decode media
 process-type-rdd = RDD
+# process used to run inference
+process-type-inference = Inferencia
 # process used to run some IPC actor in their own sandbox
 process-type-utility = Actor de IPC illado
+process-type-utility-actor-audio-decoder-generic = Utilidade de descodificador de audio xenérico
+process-type-utility-actor-audio-decoder-applemedia = Utilidade AppleMedia
+process-type-utility-actor-audio-decoder-wmf = Utilidade Windows Media Foundation
+process-type-utility-actor-mf-media-engine = Utilidade Media Foundation Engine
 process-type-utility-actor-js-oracle = Utilidade de JavaScript Oracle
+process-type-utility-actor-windows-utils = Utilidade de Windows Utils
+process-type-utility-actor-windows-file-dialog = Utilidade de Windows File Dialog
 
 ##
 ## Other
