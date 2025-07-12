@@ -155,6 +155,15 @@ genai-onboarding-select-primary = Aviar il chat
 genai-chatbot-contextual-title = Utilisescha in chatbot IA senza midar tab
 genai-chatbot-contextual-subtitle = Scriva en il chat e navighescha in sper l’auter cun agiuntar in chatbot IA en la trav laterala da { -brand-short-name }.
 genai-chatbot-contextual-button = Tscherna in chatbot
+genai-chatbot-summarize-title = Nov! Resumescha paginas cun in clic
+genai-chatbot-summarize-button = Resumar la pagina
+# “Summarize Page” should be consistent with the translation for the string genai-menu-summarize-page
+genai-chatbot-summarize-sidebar-provider-subtitle = Clicca cun la tasta dretga da la mieur sin tes chatbot IA en la trav laterala e tscherna «Resumar la pagina».
+# “Summarize Page” should be consistent with the translation for the string genai-menu-summarize-page
+genai-chatbot-summarize-sidebar-generic-subtitle = Clicca cun la tasta dretga da la mieur sin il buttun cun la sbrinzla en la trav laterala e tscherna «Resumar la pagina». L’emprima giada stos ti era tscherner in chatbot IA.
+# “Summarize page” should be consistent with the translation for the string genai-page-button-summarize
+genai-chatbot-summarize-footer-provider-subtitle = Avra tes chatbot IA en la trav laterala e tscherna giusut «Resumar la pagina».
+genai-chatbot-summarize-footer-generic-subtitle = Agiuntescha in chatbot IA a la trav laterala da { -brand-short-name } per svelt resumar paginas.
 
 ## Chatbot onboarding choices
 ## These describe features/capabilities of chatbot providers. These are not buttons/actions.
@@ -188,3 +197,15 @@ genai-model-optin-cancel =
 
 ## Link previews
 
+# ‘min’ is short for “minute”
+# ‘mins’ is short for “minutes”
+# An estimate for how long it takes to read an article,
+# expressed as a range covering both slow and fast readers.
+# Variables:
+#   $rangePlural (String): The plural category of the range, using the same set as for numbers.
+#   $range (String): The range of minutes as a localised string. Examples: "3-7", "~1".
+link-preview-reading-time =
+    { $rangePlural ->
+        [one] { $range } minuta temp da lectura
+       *[other] { $range } minutas temp da lectura
+    }

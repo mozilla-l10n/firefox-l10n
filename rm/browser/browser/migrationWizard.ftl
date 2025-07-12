@@ -196,6 +196,12 @@ migration-safari-password-import-step1 = En Safari, avrir il menu «Safari», ir
 migration-safari-password-import-step2 = Clicca sin il buttun <img data-l10n-name="safari-icon-3dots"/> e tscherna l'opziun per exportar tut ils pleds-clav
 migration-safari-password-import-step3 = Memorisescha la datoteca dals pleds-clav
 migration-safari-password-import-step4 = Utilisescha «Tscherner ina datoteca» sutvart per selecziunar la datoteca dals pleds-clav che ti has memorisà
+migration-chrome-windows-password-import-header = Co importar pleds-clav da Chrome
+migration-chrome-windows-password-import-steps-header = En Chrome:
+migration-chrome-windows-password-import-step1 = Avra il menu principal <img data-l10n-name="chrome-icon-3dots"/> ed acceda a Passwords and Autofill > Google Password Manager.
+migration-chrome-windows-password-import-step2 = Tscherna «Settings» en il menu.
+migration-chrome-windows-password-import-step3 = Tscherna «Download file» e memorisescha la datoteca sin tes apparat.
+migration-chrome-windows-password-import-step4 = Turna nà qua e fa diever da «Tscherner ina datoteca» per finir l’import.
 migration-manual-password-import-skip-button = Sursiglir
 migration-manual-password-import-select-button = Tscherner ina datoteca
 migration-safari-password-import-skip-button = Sursiglir

@@ -410,6 +410,10 @@ quickactions-cmd-settings2 = parameters, preferenzas, opziuns, administrar
 quickactions-cmd-settings = parameters, preferenzas, opziuns
 # Opens about:addons page in the themes section
 quickactions-themes = Administrar ils designs
+# In English we provide multiple spellings for "add-ons". If that's not
+# applicable to your language, only use the correct spelling (don't repeat the
+# same word).
+quickactions-cmd-themes2 = designs, themes, add-ons, addons
 quickactions-cmd-themes = designs
 # Opens a SUMO article explaining how to update the browser
 quickactions-update = Actualisar { -brand-short-name }
@@ -811,6 +815,8 @@ urlbar-searchmode-actions =
     .label = Acziuns
 urlbar-searchmode-exit-button =
     .tooltiptext = Serrar
+urlbar-searchmode-default =
+    .tooltiptext = Maschina da tschertgar predefinida
 # Label shown on the top of Searchmode Switcher popup. After this label, the
 # available search engines will be listed.
 urlbar-searchmode-popup-description = Per questa giada, tschertgar cun:

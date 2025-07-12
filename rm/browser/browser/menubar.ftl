@@ -262,6 +262,10 @@ menu-profiles-manage-profiles =
     .label = Administrar ils profils
 menu-profiles-new-profile =
     .label = Nov profil
+# Variables:
+#  $profileName (String): the name of the users profile
+menu-profiles-current =
+    .label = { $profileName } (actual)
 
 ## Tools Menu
 
@@ -271,6 +275,9 @@ menu-tools =
 menu-tools-downloads =
     .label = Telechargiadas
     .accesskey = D
+menu-tools-extensions-and-themes =
+    .label = Extensiuns e designs
+    .accesskey = E
 menu-tools-addons-and-themes =
     .label = Supplements e designs
     .accesskey = S
