@@ -511,18 +511,44 @@ pdfjs-editor-add-signature-draw-thickness-range-label = Grosor
 #   $thickness (Number) - the thickness (in pixels) of the line used to draw a signature.
 pdfjs-editor-add-signature-draw-thickness-range =
     .title = Grosor do debuxo: { $thickness }
+pdfjs-editor-add-signature-image-placeholder = Arrastra un ficheiro aquí para cargalo
+pdfjs-editor-add-signature-image-browse-link =
+    { PLATFORM() ->
+        [macos] Ou selecciona ficheiros de imaxes
+       *[other] Ou navega ficheiros de imaxes
+    }
 
 ## Controls
 
+pdfjs-editor-add-signature-description-label = Descrición (texto alternativo)
+pdfjs-editor-add-signature-description-input =
+    .title = Descrición (texto alternativo)
+pdfjs-editor-add-signature-description-default-when-drawing = Sinatura
+pdfjs-editor-add-signature-clear-button-label = Borrar a sinatura
+pdfjs-editor-add-signature-clear-button =
+    .title = Borrar a sinatura
+pdfjs-editor-add-signature-save-checkbox = Gardar a sinatura
+pdfjs-editor-add-signature-save-warning-message = Acadaches o límite de 5 sinaturas gardadas. Elimina unha para gardar máis.
+pdfjs-editor-add-signature-image-upload-error-title = Non se puido cargar a imaxe
+pdfjs-editor-add-signature-image-upload-error-description = Comproba a túa conexión de rede ou proba con outra imaxe.
+pdfjs-editor-add-signature-error-close-button = Pechar
 
 ## Dialog buttons
 
+pdfjs-editor-add-signature-cancel-button = Cancelar
+pdfjs-editor-add-signature-add-button = Engadir
+pdfjs-editor-edit-signature-update-button = Actualizar
 
 ## Main menu for adding/removing signatures
 
+pdfjs-editor-delete-signature-button1 =
+    .title = Eliminar a sinatura gardada
+pdfjs-editor-delete-signature-button-label1 = Eliminar a sinatura gardada
 
 ## Editor toolbar
 
+pdfjs-editor-add-signature-edit-button-label = Editar descrición
 
 ## Edit signature description dialog
 
+pdfjs-editor-edit-signature-dialog-title = Editar descrición
