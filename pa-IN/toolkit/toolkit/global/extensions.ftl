@@ -52,6 +52,9 @@ webext-perms-sideload-cancel =
     .accesskey = C
 # Variables:
 #   $extension (String): replaced with the localized name of the extension.
+webext-perms-update-text2 = { $extension } ਨੂੰ ਅੱਪਡੇਟ ਕੀਤਾ ਗਿਆ ਹੈ। ਅੱਪਡੇਟ ਵਰਜ਼ਨ ਨੂੰ ਇੰਸਟਾਲ ਕੀਤੇ ਜਾਣ ਤੋਂ ਪਹਿਲਾਂ ਤੁਹਾਨੂੰ ਨਵੀਆਂ ਇਜਾਜ਼ਤਾਂ ਲਈ ਮਨਜ਼ੂਰੀ ਦੇਣੀ ਪਵੇਗੀ। ਆਪਣੇ ਮੌਜੂਦਾ ਇਕਸਟੈਨਸ਼ਨ ਵਰਜ਼ਨ ਨੂੰ ਬਣਾਈ ਰੱਖਣ ਲਈ “ਰੱਦ ਕਰੋ” ਨੂੰ ਚੁਣੋ।
+# Variables:
+#   $extension (String): replaced with the localized name of the extension.
 webext-perms-update-text = { $extension } ਨੂੰ ਅੱਪਡੇਟ ਕੀਤਾ ਗਿਆ ਹੈ। ਤੁਹਾਨੂੰ ਅੱਪਡੇਟ ਕੀਤੇ ਵਰਜ਼ਨ ਨੂੰ ਇੰਸਟਾਲ ਕਰਹਨ ਤੋਂ ਪਹਿਲਾਂ ਤੁਹਾਨੂੰ ਨਵੀਆਂ ਇਜਾਜ਼ਤਾਂ ਨੂੰ ਮਨਜ਼ੂਰ ਕਰਨਾ ਹੋਵੇਗਾ। ਆਪਣੇ ਮੌਜੂਦਾ ਇਕਸਟੈਨਸ਼ਨ ਵਰਜ਼ਨ ਨੂੰ ਰੱਖਣ ਲਈ “ਰੱਦ ਕਰੋ” ਨੂੰ ਚੁਣੋ। ਇਹ ਇਕਸਟੈਨਸ਼ਨ ਨੂੰ ਇਜਾਜ਼ਤਾਂ ਦੀ ਲੋੜ ਹੋਵੇਗੀ:
 webext-perms-update-accept =
     .label = ਅੱਪਡੇਟ ਕਰੋ
@@ -103,9 +106,20 @@ webext-perms-host-description-multiple-domains =
 
 ## Strings for data collection permissions in the permission prompt.
 
+webext-perms-description-data-none = ਡਿਵੈਲਪਰ ਮੁਤਾਬਕ ਇਹ ਇਕਸਟੈਨਸ਼ਨ ਨੂੰ ਕੋਈ ਡਾਟਾ ਇਕੱਤਰ ਕਰਨ ਦੀ ਲੋੜ ਨਹੀਂ ਹੈ।
+# Variables:
+#    $permissions (String): a list of data collection permissions formatted with `Intl.ListFormat` using the "narrow" style.
+webext-perms-description-data-some = ਡਿਵੈਲਪਰ ਅਨੁਸਾਰ ਇਹ ਇਕਸਟੈਨਸ਼ਨ ਇਕੱਤਰ ਕਰਦੀ ਹੈ:  { $permissions }
+# Variables:
+#    $permissions (String): a list of data collection permissions formatted with `Intl.ListFormat` using the "narrow" style.
+webext-perms-description-data-some-update = ਡਿਵੈਲਪਰ ਅਨੁਸਾਰ ਇਕਸਟੈਨਸ਼ਨ ਇਕੱਤਰ ਕਰੇਗੀ:  { $permissions }
+# Variables:
+#    $permissions (String): a list of data collection permissions formatted with `Intl.ListFormat` using the "narrow" style.
+webext-perms-description-data-some-optional = ਡਿਵੈਲਪਰ ਅਨੁਸਾਰ ਇਕਸਟੈਨਸ਼ਨ ਇਕੱਤਰ ਕਰਨਾ ਚਾਹੁੰਦੀ ਹੈ:  { $permissions }
 # Variables:
 #   $extension (String): replaced with the localized name of the extension.
 webext-perms-update-text-with-data-collection = { $extension } ਨੇ ਅੱਪਡੇਟ ਲਈ ਹੋਰ ਸੈਟਿੰਗਾਂ ਦੀ ਮੰਗ ਕੀਤੀ ਹੈ
+webext-perms-update-list-intro-with-data-collection = ਆਪਣੇ ਮੌਜੂਦਾ ਵਰਜ਼ਨ ਅਤੇ ਸੈਟਿੰਗਾਂ ਨੂੰ ਬਣਾਈ ਰੱਖਣ ਵਾਸਤੇ ਰੱਦ ਕਰੋ ਜਾਂ ਨਵੇਂ ਵਰਜ਼ਨ ਲਈ ਅੱਪਲੋਡ ਕਰੋ ਅਤੇ ਤਬਦੀਲੀਆਂ ਨੂੰ ਮਨਜ਼ੂਰ ਕਰੋ।
 # Variables:
 #   $extension (String): replaced with the localized name of the extension.
 webext-perms-optional-text-with-data-collection = { $extension } ਨੇ ਹੋਰ ਸੈਟਿੰਗਾਂ ਦੀ ਮੰਗ ਕੀਤੀ ਹੈ
@@ -149,3 +163,5 @@ webext-site-perms-midi-sysex = SysEx ਸਹਿਯੋਗ ਲਈ MIDI ਡਿਵਾ
 
 ## Colorway theme migration
 
+webext-colorway-theme-migration-notification-message = <b>ਤੁਹਾਡੇ ਰੰਗ-ਢੰਗ ਥੀਮ ਨੂੰ ਹਟਾਇਆ ਗਿਆ ਸੀ।</b> { -brand-shorter-name } ਨੇ ਆਪਣੇ ਰੰਗ-ਢੰਗ ਭੰਡਾਰ ਨੂੰ ਅੱਪਡੇਟ ਕੀਤਾ ਹੈ। ਤੁਸੀਂ ਐਡ-ਆਨ ਸਾਈਟ ਉੱਤੇ ਨਵੇਂ ਵਰਜ਼ਨਾਂ ਨੂੰ ਲੱਭ ਸਕਦੇ ਹੋ।
+webext-colorway-theme-migration-notification-button = ਅੱਪਡੇਟ ਕੀਤੇ ਰੰਗ-ਢੰਗ ਨੂੰ ਲਵੋ

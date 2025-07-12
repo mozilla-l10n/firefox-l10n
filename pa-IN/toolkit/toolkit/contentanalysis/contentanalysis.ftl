@@ -25,6 +25,10 @@ contentanalysis-operationtype-clipboard = ਕਲਿੱਪਬੋਰਡ
 contentanalysis-operationtype-dropped-text = ਡਰੌਪ ਕੀਤੀ ਲਿਖਤ
 contentanalysis-operationtype-print = ਪਰਿੰਟ ਕਰੋ
 #   $filename - The filename associated with the request, such as "aFile.txt"
+contentanalysis-upload-description = “{ $filename }” ਦਾ ਅੱਪਲੋਡ
+#   $filename - The filename associated with the request, such as "aFile.txt"
+contentanalysis-download-description = “{ $filename }” ਦਾ ਡਾਊਨਲੋਡ
+#   $filename - The filename associated with the request, such as "aFile.txt"
 contentanalysis-customdisplaystring-description = “{ $filename }” ਦਾ ਅੱਪਲੋਡ
 contentanalysis-warndialogtitle = ਇਹ ਸਮੱਗਰੀ ਅਸੁਰੱਖਿਅਤ ਹੋ ਸਕਦੀ ਹੈ
 # Variables:
@@ -66,6 +70,10 @@ contentanalysis-block-dialog-title-upload-file = ਤੁਹਾਨੂੰ ਇਹ �
 # Variables:
 #   $filename - Name of the file that was blocked, such as "aFile.txt"
 contentanalysis-block-dialog-body-upload-file = ਤੁਹਾਡੇ ਸੰਗਠਨ ਦੀਆਂ ਡਾਟਾ ਸੁਰੱਖਿਆ ਨੀਤੀਆਂ ਦੇ ਤਹਿਤ ਤੁਹਾਨੂੰ “{ $filename }” ਫਾਇਲ ਅੱਪਲੋਡ ਕਰਨ ਦੀ ਇਜਾਜ਼ਤ ਨਹੀਂ ਹੈ। ਹੋਰ ਜਾਣਕਾਰੀ ਲਈ ਆਪਣੇ ਪਰਸ਼ਾਸ਼ਕ ਨਾਲ ਸੰਪਰਕ ਕਰੋ।
+contentanalysis-block-dialog-title-download-file = ਤੁਹਾਨੂੰ ਇਸ ਫ਼ਾਇਲ ਨੂੰ ਡਾਊਨਲੋਡ ਕਰਨ ਦੀ ਇਜਾਜ਼ਤ ਨਹੀਂ ਹੈ
+# Variables:
+#   $filename - Name of the file that was blocked, such as "aFile.txt"
+contentanalysis-block-dialog-body-download-file = ਤੁਹਾਡੇ ਸੰਗਠਨ ਦੀਆਂ ਡਾਟਾ ਸੁਰੱਖਿਆ ਨੀਤੀਆਂ ਦੇ ਤਹਿਤ ਤੁਹਾਨੂੰ “{ $filename }” ਫ਼ਾਇਲ ਡਾਊਨਲੋਡ ਕਰਨ ਦੀ ਇਜਾਜ਼ਤ ਨਹੀਂ ਹੈ। ਹੋਰ ਜਾਣਕਾਰੀ ਲਈ ਆਪਣੇ ਪਰਸ਼ਾਸ਼ਕ ਨਾਲ ਸੰਪਰਕ ਕਰੋ।
 contentanalysis-block-dialog-title-clipboard = ਤੁਹਾਨੂੰ ਇਹ ਸਮੱਗਰੀ ਚੇਪਣ ਦੀ ਇਜਾਜ਼ਤ ਨਹੀਂ ਹੈ
 contentanalysis-block-dialog-body-clipboard = ਤੁਹਾਡੇ ਸੰਗਠਨ ਦੀਆਂ ਡਾਟਾ ਸੁਰੱਖਿਆ ਨੀਤੀਆਂ ਦੇ ਤਹਿਤ ਤੁਹਾਨੂੰ ਇਹ ਸਮੱਗਰੀ ਚੇਪਣ ਦੀ ਇਜਾਜ਼ਤ ਨਹੀਂ ਹੈ। ਹੋਰ ਜਾਣਕਾਰੀ ਲਈ ਆਪਣੇ ਪਰਸ਼ਾਸ਼ਕ ਨਾਲ ਸੰਪਰਕ ਕਰੋ।
 contentanalysis-block-dialog-title-dropped-text = ਤੁਹਾਨੂੰ ਇਹ ਸਮੱਗਰੀ ਸੁੱਟਣ ਦੀ ਇਜਾਜ਼ਤ ਨਹੀਂ ਹੈ

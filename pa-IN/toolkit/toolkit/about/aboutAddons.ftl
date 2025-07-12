@@ -429,6 +429,13 @@ addon-badge-verified2 =
 # by Mozilla and we don't want forks to display "by Fork".
 addon-badge-line4 =
     .title = ਅਧਿਕਾਰਿਤ ਇਕਸਟੈਨਸ਼ਨ Mozilla ਵਲੋਂ ਬਣਾਈ ਹੈ। ਸਾਰੇ ਸੁਰੱਖਿਆ ਅਤੇ ਕਾਰਗੁਜ਼ਾਰੀ ਮਿਆਰਾਂ ਉੱਤੇ ਖ਼ਰਾ ਉਤਰਦੀ ਹੈ।
+# This string needs to work in the context of other forks that are not Firefox
+# or built by Mozilla. In particular, we do not want to imply that an
+# organisation other than Mozilla or the Firefox team are making the
+# recommendation. As such, we hard code "Firefox" and avoid personalising
+# language like the words "our" or "we".
+addon-badge-recommended4 =
+    .title = Firefox ਉਹ ਇਕਸਟੈਨਸ਼ਨਾਂ ਦੀ ਸਿਫਾਰਸ਼ ਕਰਦਾ ਹੈ, ਜੋ ਸੁਰੱਖਿਆ ਅਤੇ ਕਾਰਗੁਜ਼ਾਰੀ ਲਈ ਮਿਆਰ ਉੱਤੇ ਖ਼ਰ੍ਹਾਂ ਉੱਤਰਦੀਆਂ ਹਨ।
 
 ##
 
