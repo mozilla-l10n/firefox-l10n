@@ -26,6 +26,7 @@ learn-more = <span data-l10n-name = "link">Máis información</span>
 
 inactive-css-not-grid-or-flex-container = <strong> { $property } </strong> non ten ningún efecto sobre este elemento, xa que non é un contedor flexible nin un contedor da grade.
 inactive-css-not-grid-or-flex-container-or-multicol-container = <strong> { $property } </strong> non ten ningún efecto sobre este elemento, xa que non é un contedor flex, un contedor da grade ou un contedor de varias columnas.
+inactive-css-not-multicol-container = <strong>{ $property }</strong> non ten ningún efecto sobre este elemento xa que non é un contedor multicolumna.
 inactive-css-not-grid-or-flex-item = <strong> { $property } </strong> non ten ningún efecto sobre este elemento, xa que non é un elemento da grade ou flexible.
 inactive-css-not-grid-item = <strong> { $property } </strong> non ten ningún efecto sobre este elemento xa que non é un elemento da grade.
 inactive-css-not-grid-container = <strong> { $property } </strong> non ten ningún efecto sobre este elemento xa que non é un contedor da grade.
