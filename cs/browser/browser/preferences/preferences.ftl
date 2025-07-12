@@ -1426,8 +1426,17 @@ content-blocking-etp-standard-tcp-rollout-description = Úplná ochrana před co
 content-blocking-etp-standard-tcp-rollout-learn-more = Zjistit více
 content-blocking-etp-standard-tcp-title = Zahrnuje úplnou ochranu před cookies, naši nejsilnější funkci zaměřenou na soukromí
 content-blocking-warning-title = Pozor!
+content-blocking-and-isolating-etp-warning-description-3 = Toto nastavení může způsobit, že některé webové stránky nezobrazí obsah nebo nebudou fungovat správně. Pro webové stránky, o kterých víme, že mohou být ovlivněny vaší konfigurací, poskytujeme volitelné výjimky. Chcete-li snížit pravděpodobnost nefunkčnosti webových stránek, povolte tyto výjimky pro sledování. Pokud se některý web jeví jako nefunkční, můžete pro něj vypnout ochranu proti sledování, aby se načetl veškerý obsah, a nahlásit problém, abychom jej mohli pomoci všem opravit.
 content-blocking-and-isolating-etp-warning-description-2 = Toto nastavení může způsobit, že některé stránky nebudou fungovat správně. Pro řešení případných problémů můžete ochranu proti sledování na takových stránkách vypnout.
 content-blocking-warning-learn-how = Jak na to
+content-blocking-baseline-exceptions =
+    .label =
+        { -brand-short-name.case-status ->
+            [with-cases] Povolit { -brand-short-name(case: "gen") } automatické použití výjimek, které jsou nutné k zabránění větší nefunkčnosti webových stránek.
+           *[no-cases] Povolit aplikaci { -brand-short-name } automatické použití výjimek, které jsou nutné k zabránění větší nefunkčnosti webových stránek.
+        }
+content-blocking-convenience-exceptions =
+    .label = Automaticky také aplikovat výjimky, které jsou potřeba jen k opravě menších problémů a zpřístupnění komfortních funkcí.
 content-blocking-reload-description = Aby se změny projevily, načtěte znovu své panely.
 content-blocking-reload-tabs-button =
     .label = Znovu načíst všechny panely
