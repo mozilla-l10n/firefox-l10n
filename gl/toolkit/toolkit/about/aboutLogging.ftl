@@ -15,6 +15,8 @@ about-logging-set-log-file = Estabelecer un ficheiro de rexistro
 about-logging-set-log-modules = Estabelecer módulos de rexistro
 about-logging-start-logging = Iniciar rexistro
 about-logging-stop-logging = Deter rexistro
+about-logging-copy-as-url = Copiar a configuración actual como URL
+about-logging-url-copied = A configuración de rexistro copiouse no portapapeis como URL predefinido
 about-logging-buttons-disabled = O rexistro está configurado mediante variables de ambiente, a configuración dinámica non está dispoñíbel.
 about-logging-some-elements-disabled = O rexistro está configurado mediante URL, algunhas opcións de configuración non están dispoñíbeis
 about-logging-info = Información:
@@ -27,6 +29,8 @@ about-logging-no-log-modules = Nada
 about-logging-no-log-file = Nada
 about-logging-logging-preset-selector-text = Predefinición de rexistro:
 about-logging-with-profiler-stacks-checkbox = Activa os rastrexos da pila para as mensaxes de rexistro
+about-logging-menu =
+    .title = Opcións avanzadas
 
 ## Logging presets
 
@@ -43,8 +47,12 @@ about-logging-preset-media-playback-label = Reprodución multimedia
 about-logging-preset-media-playback-description = Módulos de rexistro para diagnosticar problemas de reprodución multimedia (non problemas de videoconferencia)
 about-logging-preset-webrtc-label = WebRTC
 about-logging-preset-webrtc-description = Módulos de rexistro para diagnosticar chamadas WebRTC
+about-logging-preset-webcodecs-label = WebCodecs
+about-logging-preset-webcodecs-description = Módulos de rexistro para diagnosticar problemas cos decodificadores e codificadores de audio/vídeo WebCodecs e os descodificadores de imaxe
+about-logging-preset-ml-label = Aprendizaxe automática
 about-logging-preset-webgpu-label = WebGPU
 about-logging-preset-gfx-label = Gráficos
+about-logging-preset-gfx-description = Rexistrar módulos para diagnosticar problemas gráficos
 # This is specifically "Microsoft Windows". Microsoft normally doesn't localize it, and we should follow their convention here.
 about-logging-preset-windows-label = Windows
 about-logging-preset-custom-label = Personalizado
