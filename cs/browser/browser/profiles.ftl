@@ -56,6 +56,7 @@ avatar-selector-cancel-button =
 avatar-selector-save-button =
     .label = Uložit
 avatar-selector-upload-file = Nahrát soubor
+avatar-selector-drag-file = Nebo přetáhněte soubor sem
 edit-profile-page-no-name = Tento profil pojmenujte, abyste jej později mohli najít. Kdykoli jej můžete přejmenovat.
 edit-profile-page-duplicate-name = Tento název profilu již existuje. Zvolte jiné jméno.
 edit-profile-page-profile-saved = Uloženo
@@ -141,6 +142,8 @@ shopping-avatar-alt =
     .alt = Nákupní košík
 star-avatar-alt =
     .alt = Hvězdička
+custom-avatar-alt =
+    .alt = Vlastní avatar
 
 ## Labels for default avatar icons
 

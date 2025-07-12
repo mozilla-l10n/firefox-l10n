@@ -334,6 +334,8 @@ tab-context-move-tab-to-group =
            *[other] Přidat panely do skupiny
         }
     .accesskey = d
+tab-context-move-tab-to-group-saved-groups =
+    .label = Zavřené skupiny
 tab-group-editor-action-new-tab =
     .label = Nový panel ve skupině
 tab-group-editor-action-new-window =
