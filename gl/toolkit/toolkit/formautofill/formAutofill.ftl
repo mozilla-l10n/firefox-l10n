@@ -13,19 +13,40 @@ autofill-use-payment-method-os-prompt-other = { -brand-short-name } está tentan
 # In macOS, this string is preceded by the operating system with "Firefox is trying to ",
 # and has a period added to its end. Make sure to test in your locale.
 autofill-edit-payment-method-os-prompt-macos = mostrar a información almacenada do método de pago
+autofill-edit-payment-method-os-prompt-windows = { -brand-short-name } está tentando mostrar a información almacenada do método de pago. Confirma o acceso a esta conta de Windows a continuación.
+autofill-edit-payment-method-os-prompt-other = { -brand-short-name } está tentando mostrar a información almacenada do método de pago.
 # The links lead users to Form Autofill browser preferences.
 autofill-options-link = Opcións de completado automático de formularios
 autofill-options-link-osx = Preferencias de completado automático de formularios
 
 ## The credit card capture doorhanger
 
+# If Sync is enabled and credit card sync is available,
+# this checkbox is displayed on the doorhanger shown when saving credit card.
+credit-card-doorhanger-credit-cards-sync-checkbox = Sincronizar todas as tarxetas gardadas nos meus dispositivos
 # Used on the doorhanger when users submit payment with credit card.
 credit-card-save-doorhanger-header = Gardar esta tarxeta de forma segura?
+credit-card-save-doorhanger-description = { -brand-short-name } cifra o número da túa tarxeta. O teu código de seguridade non se gardará.
+credit-card-capture-save-button =
+    .label = Gardar
+    .accessKey = G
+credit-card-capture-cancel-button =
+    .label = Agora non
+    .accessKey = n
+credit-card-capture-never-save-button =
+    .label = Nunca gardar tarxetas
+    .accessKey = N
 
 # Used on the doorhanger when an credit card change is detected.
 
 credit-card-update-doorhanger-header = Actualizar a tarxeta?
 credit-card-update-doorhanger-description = Tarxeta para actualizar:
+credit-card-capture-save-new-button =
+    .label = Gardar como tarxeta nova
+    .accessKey = T
+credit-card-capture-update-button =
+    .label = Actualiza a tarxeta existente
+    .accessKey = A
 # Label for the button in the dropdown menu used to clear the populated form.
 autofill-clear-form-label = Borrar o completado automático do formulario
 # Used as a label for the button, displayed at the bottom of the dropdown suggestion, to open Form Autofill browser preferences.
