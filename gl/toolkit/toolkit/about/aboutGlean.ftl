@@ -62,6 +62,8 @@ about-glean-manual-testing =
 about-glean-no-ping-label = (non enviar ningún ping)
 # An in-line text input field precedes this string.
 about-glean-label-for-tag-pings = No campo anterior asegúrate de que hai unha etiqueta de depuración memorable para que poidas recoñecer os teus pings máis tarde.
+# An in-line text input field precedes this string.
+about-glean-label-for-tag-pings-with-requirements = Establece unha etiqueta de depuración fácil de recordar <span>(20 caracteres ou menos, só alfanuméricos e -)</span> para que poidas recoñecer os teus pings máis tarde.
 # An in-line drop down list precedes this string.
 # Do not translate strings between <code> </code> tags.
 about-glean-label-for-ping-names =
@@ -91,7 +93,32 @@ about-glean-adhoc-explanation =
     abrindo unha consola de ferramentas de desenvolvemento aquí en <code>about:glean</code>
     e usando a API <code>testGetValue()</code> como
     <code>Glean.metricCategory.metricName.testGetValue()</code>.
+# Do not translate strings between <code> </code> tags.
+about-glean-adhoc-explanation2 =
+    Para máis probas <i>ad hoc</i>,
+    tamén pode determinar o valor actual dunha determinada peza de instrumentación
+    abrindo unha consola de ferramentas de desenvolvemento aquí en <code>about:glean</code>
+    e usando a API <code>testGetValue()</code> como
+    <code>Glean.metricCategory.metricName.testGetValue()</code>
+    para unha métrica chamada <code>metric.category.metric_name</code>.
+# Do not translate strings between <code> </code> tags.
+about-glean-adhoc-note =
+    Ten en conta que estás a usar a API de Glean JS mediante a consola das ferramentas de desenvolvemento.
+    Isto significa que a categoría e o nome da métrica están formateados
+    <code>camelCase</code> a diferenza das API Rust e C++.
+about-glean-profiler-explanation =
+    Para ver unha vista completa de todas as métricas rexistradas, podes usar o { -profiler-brand-name }.
+    Primeiro debes <a data-l10n-name="firefox-profiler-link">capturar un perfil de rendemento</a>.
+    Unha vez que captures o perfil, selecciona <q>Gráfico de marcadores</q> e mira os marcadores en <q>Telemetría</q>.
+about-glean-profiler-explanation-profiler =
+    No perfil de rendemento podes ver todas as métricas recompiladas, cando se
+    recompilaron e exactamente que valores se recompilaron. Ao pasar o rato sobre os marcadores individuais,
+    pode verificar que se recompilou o valor correcto e que a recompilación se realizou no momento adecuado.
 controls-button-label-verbose = Aplicar a configuración e enviar un ping
+about-glean-feedback-settings-only =
+    .message = Configuración aplicada!
+about-glean-feedback-settings-and-ping =
+    .message = Configuración aplicada e ping enviado!
 about-glean-about-data-header = Sobre os datos
 about-glean-about-data-explanation =
     Para consultar a lista de datos recollidos, consulte a
