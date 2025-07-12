@@ -5,6 +5,8 @@
 
 ## Existing User Terms of Use InfoBar
 
+#  Full infobar message, with inline links to the Terms of Use and Privacy Notice that will be added at runtime.
+existing-user-tou-message = <strong>新变化</strong> 我们制定了 { -brand-short-name } <a data-l10n-name="terms-of-use-link">使用条款</a>，并更新了<a data-l10n-name="privacy-notice-link">隐私声明</a>。请花些时间来阅读并接受。
 # Text for secondary button linking to FAQ page
 existing-user-tou-learn-more = 详细了解
 # Text for primary button
