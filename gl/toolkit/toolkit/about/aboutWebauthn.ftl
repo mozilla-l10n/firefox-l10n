@@ -89,6 +89,13 @@ about-webauthn-auth-option-largeblobs = Blobs grandes
 about-webauthn-auth-option-ep = Certificación empresarial
 about-webauthn-auth-option-bioenroll = Rexistro biométrico
 about-webauthn-auth-option-authnrcfg = Configuración do autenticador
+about-webauthn-auth-option-uvacfg = Permiso de configuración do autenticador
+about-webauthn-auth-option-credmgmt = Xestión de credenciais
+about-webauthn-auth-option-credentialmgmtpreview = Xestión de credenciais de prototipo
+about-webauthn-auth-option-setminpinlength = Establecer a lonxitude mínima do PIN
+# MakeCredential should not be translated.
+about-webauthn-auth-option-makecreduvnotrqd = MakeCredential sen verificación do usuario
+about-webauthn-auth-option-alwaysuv = Requirir sempre a verificación do usuario
 # Shows when boolean value for an option is True. True should not be translated.
 about-webauthn-auth-option-true = Verdadeiro
 # Shows when boolean value of an option is False. False should not be translated.
@@ -99,7 +106,12 @@ about-webauthn-auth-option-null = Non soportado
 ## Authenticator info fields
 ## Info fields correspond to the CTAP2 authenticatorGetInfo field member name and definitions found in https://fidoalliance.org/specs/fido-v2.1-ps-20210615/fido-client-to-authenticator-protocol-v2.1-ps-20210615.html#authenticatorGetInfo
 
+about-webauthn-auth-info-vendor-prototype-config-commands = Comandos de configuración do prototipo do provedor
+about-webauthn-auth-info-remaining-discoverable-credentials = Credenciais detectables restantes
 about-webauthn-auth-info-certifications = Certificacións
+about-webauthn-auth-info-uv-modality = Modalidade de verificación do usuario
+about-webauthn-auth-info-preferred-platform-uv-attempts = Intentos de verificación do usuario da plataforma preferida
+about-webauthn-auth-info-max-cred-blob-length = Lonxitude máxima do blob de credenciais
 about-webauthn-auth-info-firmware-version = Versión do firmware
 about-webauthn-auth-info-min-pin-length = Lonxitude mínima do PIN
 about-webauthn-auth-info-force-pin-change = Forzar o cambio do PIN
