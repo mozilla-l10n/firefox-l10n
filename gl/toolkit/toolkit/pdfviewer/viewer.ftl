@@ -362,6 +362,22 @@ pdfjs-editor-stamp-add-image-button =
 pdfjs-editor-stamp-add-image-button-label = Engadir imaxe
 # This refers to the thickness of the line used for free highlighting (not bound to text)
 pdfjs-editor-free-highlight-thickness-input = Grosor
+pdfjs-editor-free-highlight-thickness-title =
+    .title = Cambiar o grosor ao resaltar elementos que non sexan texto
+pdfjs-editor-add-signature-container =
+    .aria-label = Controis de sinaturas e sinaturas gardadas
+pdfjs-editor-signature-add-signature-button =
+    .title = Engadir nova sinatura
+pdfjs-editor-signature-add-signature-button-label = Engadir nova sinatura
+# Used on the button to use an already saved signature.
+# Variables:
+#   $description (String) - a string describing/labeling the signature.
+pdfjs-editor-add-saved-signature-button =
+    .title = Sinatura gardada: { $description }
+# .default-content is used as a placeholder in an empty text editor.
+pdfjs-free-text2 =
+    .aria-label = Editor de texto
+    .default-content = Empeza a escribir...
 pdfjs-free-text =
     .aria-label = Editor de texto
 pdfjs-free-text-default-content = Comezar a teclear…
@@ -373,9 +389,13 @@ pdfjs-ink-canvas =
 ## Alt-text dialog
 
 pdfjs-editor-alt-text-button-label = Texto alternativo
+pdfjs-editor-alt-text-edit-button =
+    .aria-label = Editar o texto alternativo
 pdfjs-editor-alt-text-edit-button-label = Editar o texto alternativo
 pdfjs-editor-alt-text-dialog-label = Escoller unha opción
+pdfjs-editor-alt-text-dialog-description = O texto alternativo (texto alt) axuda cando as persoas non poden ver a imaxe ou cando non se carga.
 pdfjs-editor-alt-text-add-description-label = Engadir unha descrición
+pdfjs-editor-alt-text-add-description-description = Tenta escribir 1-2 frases que describan o tema, o escenario ou as accións.
 pdfjs-editor-alt-text-mark-decorative-label = Marcar como decorativo
 pdfjs-editor-alt-text-mark-decorative-description = Utilízase para imaxes ornamentais, como bordos ou marcas de auga.
 pdfjs-editor-alt-text-cancel-button = Cancelar
@@ -384,6 +404,9 @@ pdfjs-editor-alt-text-decorative-tooltip = Marcado como decorativo
 # .placeholder: This is a placeholder for the alt text input area
 pdfjs-editor-alt-text-textarea =
     .placeholder = Por exemplo, «Un mozo séntase á mesa para comer»
+# Alternative text (alt text) helps when people can't see the image.
+pdfjs-editor-alt-text-button =
+    .aria-label = Texto alternativo
 
 ## Editor resizers
 ## This is used in an aria label to help to understand the role of the resizer.
@@ -415,14 +438,58 @@ pdfjs-editor-resizer-middle-left =
 
 ## Color picker
 
+# This means "Color used to highlight text"
+pdfjs-editor-highlight-colorpicker-label = Cor de resaltado
+pdfjs-editor-colorpicker-button =
+    .title = Cambiar de cor
+pdfjs-editor-colorpicker-dropdown =
+    .aria-label = Opcións de cor
+pdfjs-editor-colorpicker-yellow =
+    .title = Amarelo
+pdfjs-editor-colorpicker-green =
+    .title = Verde
+pdfjs-editor-colorpicker-blue =
+    .title = Azul
+pdfjs-editor-colorpicker-pink =
+    .title = Rosa
+pdfjs-editor-colorpicker-red =
+    .title = Vermello
 
 ## Show all highlights
 ## This is a toggle button to show/hide all the highlights.
 
+pdfjs-editor-highlight-show-all-button-label = Amosar todo
+pdfjs-editor-highlight-show-all-button =
+    .title = Amosar todo
 
 ## New alt-text dialog
 ## Group note for entire feature: Alternative text (alt text) helps when people can't see the image. This feature includes a tool to create alt text automatically using an AI model that works locally on the user's device to preserve privacy.
 
+# Modal header positioned above a text box where users can edit the alt text.
+pdfjs-editor-new-alt-text-dialog-edit-label = Editar texto alternativo (descrición da imaxe)
+# Modal header positioned above a text box where users can add the alt text.
+pdfjs-editor-new-alt-text-dialog-add-label = Engadir texto alternativo (descrición da imaxe)
+pdfjs-editor-new-alt-text-textarea =
+    .placeholder = Escribe a túa descrición aquí...
+# This text refers to the alt text box above this description. It offers a definition of alt text.
+pdfjs-editor-new-alt-text-description = Breve descrición para as persoas que non poden ver a imaxe ou cando a imaxe non carga.
+# This is a required legal disclaimer that refers to the automatically created text inside the alt text box above this text. It disappears if the text is edited by a human.
+pdfjs-editor-new-alt-text-disclaimer1 = Este texto alternativo creouse automaticamente e pode ser inexacto.
+pdfjs-editor-new-alt-text-disclaimer-learn-more-url = Máis información
+pdfjs-editor-new-alt-text-create-automatically-button-label = Crea texto alternativo automaticamente
+pdfjs-editor-new-alt-text-not-now-button = Agora non
+pdfjs-editor-new-alt-text-error-title = Non se puido crear o texto alternativo automaticamente
+pdfjs-editor-new-alt-text-error-description = Escribe o teu propio texto alternativo ou téntao de novo máis tarde.
+pdfjs-editor-new-alt-text-error-close-button = Pechar
+# Variables:
+#   $totalSize (Number) - the total size (in MB) of the AI model.
+#   $downloadedSize (Number) - the downloaded size (in MB) of the AI model.
+pdfjs-editor-new-alt-text-ai-model-downloading-progress = Descargando o modelo de IA de texto alternativo ({ $downloadedSize } de { $totalSize } MB)
+    .aria-valuetext = Descargando o modelo de IA de texto alternativo ({ $downloadedSize } de { $totalSize } MB)
+# This is a button that users can click to edit the alt text they have already added.
+pdfjs-editor-new-alt-text-added-button =
+    .aria-label = Texto alternativo engadido
+pdfjs-editor-new-alt-text-added-button-label = Texto alternativo engadido
 
 ## Image alt-text settings
 
@@ -438,6 +505,12 @@ pdfjs-editor-resizer-middle-left =
 
 ## Tab panels
 
+pdfjs-editor-add-signature-draw-placeholder = Debuxa a túa sinatura
+pdfjs-editor-add-signature-draw-thickness-range-label = Grosor
+# Variables:
+#   $thickness (Number) - the thickness (in pixels) of the line used to draw a signature.
+pdfjs-editor-add-signature-draw-thickness-range =
+    .title = Grosor do debuxo: { $thickness }
 
 ## Controls
 
