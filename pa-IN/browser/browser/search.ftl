@@ -63,6 +63,8 @@ add-engine-keyword2 = ਸ਼ਬਦ (ਚੋਣਵਾਂ)
 
 ## The following placeholders are shown in the inputs when adding a new engine.
 
+add-engine-name-placeholder =
+    .placeholder = ਜਿਵੇਂ: Mozilla ਡਿਵੈਲਪਰ ਨੈੱਟਵਰਕ
 add-engine-url-placeholder =
     .placeholder = ਜਿਵੇਂ, https://developer.mozilla.com/search?q=%s
 add-engine-keyword-placeholder =
@@ -70,6 +72,8 @@ add-engine-keyword-placeholder =
 
 ## The following strings are used as error messages.
 
+add-engine-keyword-exists = ਇਹ ਸ਼ਬਦ ਪਹਿਲਾਂ ਹੀ ਵਰਤਿਆ ਗਿਆ ਹੈ। ਵੱਖਰਾ ਅਜ਼ਮਾਓ।
+add-engine-name-exists = ਉਹ ਨਾਂ ਪਹਿਲਾਂ ਹੀ ਵਰਤਿਆ ਗਿਆ ਹੈ। ਕ੍ਰਿਪਾ ਕਰਕੇ ਹੋਰ ਚੁਣੋ।
 add-engine-no-name = ਨਾਂ ਜੋੜੋ ਜੀ।
 add-engine-no-url = URL ਦਿਓ ਜੀ।
 add-engine-invalid-url = ਇਹ URL ਠੀਕ ਨਹੀਂ ਜਾਪਦਾ ਹੈ। ਇਸ ਦੀ ਜਾਂਚ ਕਰਕੇ ਫੇਰ ਕੋਸ਼ਿਸ਼ ਕਰੋ।

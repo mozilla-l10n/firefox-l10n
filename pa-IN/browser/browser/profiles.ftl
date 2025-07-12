@@ -39,6 +39,12 @@ edit-profile-page-delete-button =
 edit-profile-page-avatar-selector-opener-link = ਸੋਧੋ
 avatar-selector-icon-tab = ਆਈਕਾਨ
 avatar-selector-custom-tab = ਕਸਟਮ
+avatar-selector-cancel-button =
+    .label = ਰੱਦ ਕਰੋ
+avatar-selector-save-button =
+    .label = ਸੰਭਾਲੋ
+avatar-selector-upload-file = ਫ਼ਾਇਲ ਨੂੰ ਅੱਪਲੋਡ ਕਰੋ
+avatar-selector-drag-file = ਜਾਂ ਫ਼ਾਇਲ ਨੂੰ ਇੱਥੇ ਲਿਆਓ
 edit-profile-page-no-name = ਇਸ ਪਰੋਫਾਈਲ ਦਾ ਨਾਂ, ਜੋ ਤੁਹਾਨੂੰ ਇਸ ਨੂੰ ਲੱਭਣ ਲਈ ਸਹਾਇਕ ਹੋਵੇ। ਇਸ ਦਾ ਨਾਂ ਕਿਸੇ ਵੇਲੇ ਵੀ ਬਦਲ ਸਕਦੇ ਹੋ।
 edit-profile-page-duplicate-name = ਪਰੋਫਾਈਲ ਨਾਂ ਪਹਿਲਾਂ ਹੀ ਵਰਤਿਆ ਜਾ ਰਿਹਾ ਹੈ। ਵੱਖਰਾ ਨਾਂ ਅਜ਼ਮਾਓ।
 edit-profile-page-profile-saved = ਸੰਭਾਲਿਆ
@@ -116,6 +122,8 @@ shopping-avatar-alt =
     .alt = ਖਰੀਦਦਾਰੀ ਕਾਰਟ
 star-avatar-alt =
     .alt = ਤਾਰਾ
+custom-avatar-alt =
+    .alt = ਪਸੰਦੀਦਾ ਅਵਤਾਰ
 
 ## Labels for default avatar icons
 

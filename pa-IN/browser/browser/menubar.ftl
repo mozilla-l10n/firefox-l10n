@@ -262,6 +262,10 @@ menu-profiles-manage-profiles =
     .label = ਪਰੋਫਾਈਲਾਂ ਦਾ ਇੰਤਜ਼ਾਮ ਕਰੋ
 menu-profiles-new-profile =
     .label = ਨਵਾਂ ਪਰੋਫਾਈਲ
+# Variables:
+#  $profileName (String): the name of the users profile
+menu-profiles-current =
+    .label = { $profileName } (ਮੌਜੂਦਾ)
 
 ## Tools Menu
 

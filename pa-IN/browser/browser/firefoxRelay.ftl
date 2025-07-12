@@ -72,6 +72,7 @@ firefox-relay-and-fxa-opt-in-confirmation-enable-button-basic-info =
 
 firefox-relay-and-fxa-popup-notification-header-with-domain = ਮੁਫ਼ਤ ਈਮੇਲ ਮਾਸਕ ਲਵੋ
 firefox-relay-and-fxa-popup-notification-first-sentence-with-domain = ਆਪਣੇ ਅਸਲ ਈਮੇਲ ਸਿਰਨਾਵੇਂ ਨੂੰ ਲੁਕਾਉਣ ਲਈ ਮੁਫ਼ਤ <label data-l10n-name="firefox-relay-learn-more-url">ਈਮੇਲ ਮਾਸਕ</label> ਨੂੰ ਵਰਤ ਕੇ ਸਪੈਮ ਤੋਂ ਆਪਣੇ ਇਨਬਾਕਸ ਨੂੰ ਬਚਾਓ। <label data-l10n-name="firefox-fxa-and-relay-offer-domain">ਇਸ ਸਾਈਟ</label> ਤੋਂ ਈਮੇਲਾਂ ਨੂੰ ਹਾਲੇ ਵੀ ਤੁਹਾਡੇ ਇਨਬਾਕਸ ਵਿੱਚ ਭੇਜਿਆ ਜਾਵੇਗਾ, ਪਰ ਤੁਹਾਡੀ ਈਮੇਲ ਓਹਲੇ ਹੀ ਰਹੇਗਾ।
+firefox-relay-and-fxa-popup-notification-first-sentence = ਆਪਣੇ ਅਸਲ ਈਮੇਲ ਸਿਰਨਾਵੇਂ ਨੂੰ ਲੁਕਾਉਣ ਲਈ ਮੁਫ਼ਤ <label data-l10n-name="firefox-relay-learn-more-url">{ -relay-brand-name } ਈਮੇਲ ਮਾਸਕ</label> ਨੂੰ ਵਰਤ ਕੇ ਸਪੈਮ ਤੋਂ ਆਪਣੇ ਇਨਬਾਕਸ ਨੂੰ ਬਚਾਓ। <label data-l10n-name="firefox-fxa-and-relay-offer-domain">ਇਸ ਸਾਈਟ</label> ਤੋਂ ਈਮੇਲਾਂ ਨੂੰ ਹਾਲੇ ਵੀ ਤੁਹਾਡੇ ਇਨਬਾਕਸ ਵਿੱਚ ਭੇਜਿਆ ਜਾਵੇਗਾ, ਪਰ ਤੁਹਾਡੀ ਈਮੇਲ ਓਹਲੇ ਹੀ ਰਹੇਗਾ।
 firefox-relay-and-fxa-popup-notification-second-sentence-with-domain = ਪਹਿਲਾਂ, ਈਮੇਲ ਮਾਸਕ ਵਰਤਣ ਲਈ ਸਾਈਨ ਅੱਪ ਕਰੋ ਜਾਂ ਆਪਣੇ ਖਾਤੇ ਵਿੱਚ ਸਾਈਨ ਇਨ ਕਰੋ।
 firefox-relay-and-fxa-opt-in-confirmation-enable-button-with-domain =
     .label = ਸਾਈਨ ਅੱਪ ਕਰੋ

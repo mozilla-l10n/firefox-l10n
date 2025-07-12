@@ -818,6 +818,8 @@ urlbar-searchmode-actions =
     .label = ਕਾਰਵਾਈਆਂ
 urlbar-searchmode-exit-button =
     .tooltiptext = ਬੰਦ ਕਰੋ
+urlbar-searchmode-default =
+    .tooltiptext = ਮੂਲ ਖੋਜ ਇੰਜਣ
 # Label shown on the top of Searchmode Switcher popup. After this label, the
 # available search engines will be listed.
 urlbar-searchmode-popup-description = ਇਹ ਵਾਰ ਖੋਜ ਇਸ ਨਾਲ ਕਰੋ:
@@ -1122,6 +1124,8 @@ navbar-accessible =
     .aria-label = ਨੇਵੀਗੇਸ਼ਨ
 navbar-downloads =
     .label = ਡਾਊਨਲੋਡ
+navbar-overflow-2 =
+    .tooltiptext = ਹੋਰ ਟੂਲ
 navbar-overflow =
     .tooltiptext = …ਹੋਰ ਟੂਲ
 # Variables:
@@ -1315,3 +1319,6 @@ file-picker-crashed-show-in-folder =
 ## Onboarding Finish Setup checklist
 
 onboarding-checklist-button-label = ਸੈਟਅੱਪ ਮੁਕੰਮਲ
+onboarding-aw-finish-setup-button =
+    .label = ਸੈਟਅੱਪ ਨੂੰ ਪੂਰਾ ਕਰੋ
+    .tooltiptext = { -brand-short-name } ਦੇ ਸੈਟਅੱਪ ਨੂੰ ਪੂਰਾ ਕਰੋ

@@ -51,11 +51,20 @@ genai-menu-ask-generic =
 # $provider (string) - name of the provider
 genai-menu-ask-provider =
     .label = { $provider } ਨੂੰ ਪੁੱਛੋ
+genai-menu-open-generic =
+    .label = AI ਚੈਟ-ਬੋਟ ਨੂੰ ਖੋਲ੍ਹੋ
+# $provider (string) - name of the provider
+genai-menu-open-provider =
+    .label = { $provider } ਨੂੰ ਖੋਲ੍ਹੋ
 genai-menu-remove-generic =
     .label = AI ਚੈਟ-ਬੋਟ ਨੂੰ ਹਟਾਓ
 # $provider (string) - name of the provider
 genai-menu-remove-provider =
     .label = { $provider } ਨੂੰ ਹਟਾਓ
+genai-menu-remove-sidebar =
+    .label = ਬਾਹੀ ਵਿੱਚੋਂ ਹਟਾਓ
+genai-menu-new-badge = ਨਵਾਂ
+genai-menu-summarize-page = ਸਫ਼ੇ ਦਾ ਸਾਰ ਦਿਓ
 genai-input-ask-generic =
     .placeholder = …AI ਚੈਟ-ਬੋਟ ਨੂੰ ਪੁੱਛੋ
 # $provider (string) - name of the provider
@@ -80,6 +89,10 @@ genai-shortcuts-selected-warning =
         }
 genai-shortcuts-hide =
     .label = ਚੈਟਬੋਟ ਸ਼ਾਰਟਕੱਟ ਨੂੰ ਓਹਲੇ ਕਰੋ
+genai-menu-no-provider =
+    .label = AI ਚੈਟ-ਬੋਟ ਨੂੰ ਪੁੱਛੋ
+genai-menu-choose-chatbot =
+    .label = ਕਿਸੇ AI ਚੈਟ-ਬੋਟ ਨੂੰ ਚੁਣੋ
 
 ## Chatbot header
 
@@ -106,6 +119,7 @@ genai-options-about-chatbot =
 
 ## Chatbot footer
 
+genai-page-button-summarize = ਸਫ਼ੇ ਦਾ ਸਾਰ
 
 ## Chatbot onboarding
 
@@ -141,6 +155,8 @@ genai-onboarding-select-primary = ਚੈਟ ਕਰਨੀ ਸ਼ੁਰੂ ਕਰੋ
 genai-chatbot-contextual-title = ਬਿਨਾਂ ਟੈਬਾਂ ਨੂੰ ਬਦਲੇ AI ਚੈਟਬੋਟ ਨੂੰ ਵਰਤੋਂ
 genai-chatbot-contextual-subtitle = ਜਦੋਂ ਤੁਸੀਂ { -brand-short-name } ਬਾਹੀ ਵਿੱਚ AI ਚੈਟਬੋਟ ਨੂੰ ਜੋੜ ਲੈਂਦੇ ਹੋ ਤਾਂ ਚੈਟ ਅਤੇ ਬਰਾਊਜ਼ ਨਾਲ ਨਾਲ ਕਰ ਸਕਦੇ ਹੋ।
 genai-chatbot-contextual-button = ਕਿਸੇ ਚੈਟ-ਬੋਟ ਨੂੰ ਚੁਣੋ
+genai-chatbot-summarize-title = ਨਵਾਂ! ਇੱਕ ਕਲਿੱਕ ਨਾਲ ਸਫ਼ੇ ਦਾ ਸਾਰ ਲਵੋ
+genai-chatbot-summarize-button = ਸਫ਼ੇ ਦਾ ਸਾਰ
 
 ## Chatbot onboarding choices
 ## These describe features/capabilities of chatbot providers. These are not buttons/actions.

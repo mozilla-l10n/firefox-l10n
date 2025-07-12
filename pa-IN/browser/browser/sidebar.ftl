@@ -68,6 +68,7 @@ sidebar-show-on-the-left =
 # hovers over it.
 expand-sidebar-on-hover =
     .label = ਮਾਊਸ ਕੋਲ ਲੈ ਜਾਣ ਉੱਤੇ ਬਾਹੀ ਨੂੰ ਫੈਲਾਓ
+sidebar-manage-extensions = ਇਕਸਟੈਨਸ਼ਨਾਂ ਦਾ ਇੰਤਜ਼ਾਮ
 
 ## Labels for sidebar context menu items
 
@@ -101,6 +102,10 @@ sidebar-context-menu-customize-sidebar =
 #   $deviceName (String) - The name of the device the user is closing a tab for
 sidebar-context-menu-close-remote-tab =
     .label = { $deviceName } ਉੱਤੇ ਟੈਬ ਨੂੰ ਬੰਦ ਕਰੋ
+sidebar-context-menu-remove-extension2 =
+    .label = { -brand-short-name } ਤੋਂ ਹਟਾਓ
+sidebar-context-menu-unpin-extension =
+    .label = ਬਾਹੀ ਵਿੱਚੋਂ ਹਟਾਓ
 
 ## Labels for sidebar history context menu items
 
@@ -125,6 +130,8 @@ sidebar-menu-customize-label =
     .label = ਬਾਹੀ ਨੂੰ ਕਸਟਮਾਈਜ਼ ਕਰੋ
 sidebar-menu-contextual-password-manager-label =
     .label = ਪਾਸਵਰਡ
+sidebar-menu-more-tools-label =
+    .label = ਹੋਰ ਟੂਲ
 
 ## Tooltips for sidebar menu items.
 

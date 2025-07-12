@@ -152,6 +152,8 @@ contextual-manager-passwords-password-already-exists-error-button = ਪਾਸਵ
 contextual-manager-passwords-update-password-success-heading =
     .heading = ਪਾਸਵਰਡ ਸੰਭਾਲਿਆ
 contextual-manager-passwords-update-password-success-button = ਮੁਕੰਮਲ
+contextual-manager-passwords-update-username-success-heading =
+    .heading = ਵਰਤੋਂਕਾਰ-ਨਾਂ ਨੂੰ ਸੰਭਾਲਿਆ ਗਿਆ
 # Message to confirm successful removal of a password/passwords.
 #   $total (number) - Total number of passwords
 contextual-manager-passwords-delete-password-success-heading =
@@ -197,6 +199,7 @@ contextual-manager-passwords-no-username-heading-and-message =
     .heading = ਵਰਤੋਂਕਾਰ ਨਾਂ ਨੂੰ ਜੋੜੋ
     .message = ਵੱਧ ਤੇਜ਼ੀ ਨਾਲ ਸਾਈਨ ਇਨ ਕਰਨ ਲਈ ਜੋੜੋ।
 contextual-manager-passwords-add-username-button = ਵਰਤੋਂਕਾਰ-ਨਾਂ ਨੂੰ ਜੋੜੋ
+contextual-manager-passwords-title = ਪਾਸਵਰਡ
 
 ## Login Form
 
@@ -259,6 +262,23 @@ contextual-manager-view-alert-heading =
     .heading = ਚੇਤਾਵਨੀ ਨੂੰ ਵੇਖੋ
 contextual-manager-view-alert-button =
     .tooltiptext = ਚੇਤਾਵਨੀ ਦੀ ਪੜਤਾਲ ਕਰੋ
+# Variables
+#   $count (number) - The number of active alerts associated with the login
+contextual-manager-view-alert-heading-2 =
+    .heading =
+        { $count ->
+            [1] ਚੇਤਾਵਨੀ ਨੂੰ ਵੇਖੋ
+           *[other] View alerts
+        }
+# Variables
+#   $count (number) - The number of active alerts associated with the login
+contextual-manager-view-alert-button-2 =
+    .tooltiptext =
+        { $count ->
+            [1] ਚੇਤਾਵਨੀ ਦੀ ਪੜਤਾਲ ਕਰੋ
+            [one] ਚੇਤਾਵਨੀਆਂਂ ਦੀ ਪੜਤਾਲ ਕਰੋ
+           *[other] ਚੇਤਾਵਨੀਆਂਂ ਦੀ ਪੜਤਾਲ ਕਰੋ
+        }
 contextual-manager-show-password-button =
     .aria-label = ਪਾਸਵਰਡ ਵੇਖੋ
     .title = ਪਾਸਵਰਡ ਨੂੰ ਵੇਖਾਓ

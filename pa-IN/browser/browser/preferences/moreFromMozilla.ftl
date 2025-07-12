@@ -42,3 +42,6 @@ more-from-moz-solo-button = { -solo-ai-brand-name } ਨੂੰ ਅਜ਼ਮਾਓ
 
 ## These strings are for the MDN card in about:preferences moreFromMozilla page
 
+more-from-moz-mdn-title = MDN ਵੈੱਬ ਦਸਤਾਵੇਜ਼
+more-from-moz-mdn-description = ਮੁਫ਼ਤ, ਸੰਪੂਰਨ ਗਾਈਡਾਂ ਅਤੇ ਹਵਾਲਿਆਂ ਨਾਲ ਵੈੱਬ ਡਿਵੈਲਪਮੈਂਟ ਸਿੱਖੋ।
+more-from-moz-mdn-button = ਵੈੱਬ ਡਿਵੈਲਪਮੈਂਟ ਨੂੰ ਸਿੱਖੇੋ
