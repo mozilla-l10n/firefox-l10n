@@ -105,6 +105,14 @@ pdfjs-document-properties-button-label = Propiedades do documento…
 pdfjs-document-properties-file-name = Nome do ficheiro:
 pdfjs-document-properties-file-size = Tamaño do ficheiro:
 # Variables:
+#   $kb (Number) - the PDF file size in kilobytes
+#   $b (Number) - the PDF file size in bytes
+pdfjs-document-properties-size-kb = { NUMBER($kb, maximumSignificantDigits: 3) } KB ({ $b } bytes)
+# Variables:
+#   $mb (Number) - the PDF file size in megabytes
+#   $b (Number) - the PDF file size in bytes
+pdfjs-document-properties-size-mb = { NUMBER($mb, maximumSignificantDigits: 3) } MB ({ $b } bytes)
+# Variables:
 #   $size_kb (Number) - the PDF file size in kilobytes
 #   $size_b (Number) - the PDF file size in bytes
 pdfjs-document-properties-kb = { $size_kb } KB ({ $size_b } bytes)
@@ -118,6 +126,9 @@ pdfjs-document-properties-subject = Asunto:
 pdfjs-document-properties-keywords = Palabras clave:
 pdfjs-document-properties-creation-date = Data de creación:
 pdfjs-document-properties-modification-date = Data de modificación:
+# Variables:
+#   $dateObj (Date) - the creation/modification date and time of the PDF file
+pdfjs-document-properties-date-time-string = { DATETIME($dateObj, dateStyle: "short", timeStyle: "medium") }
 # Variables:
 #   $date (Date) - the creation/modification date of the PDF file
 #   $time (Time) - the creation/modification time of the PDF file
@@ -275,6 +286,9 @@ pdfjs-annotation-date-string = { $date }, { $time }
 # Some common types are e.g.: "Check", "Text", "Comment", "Note"
 pdfjs-text-annotation-type =
     .alt = [Anotación { $type }]
+# Variables:
+#   $dateObj (Date) - the modification date and time of the annotation
+pdfjs-annotation-date-time-string = { DATETIME($dateObj, dateStyle: "short", timeStyle: "medium") }
 
 ## Password
 
@@ -295,18 +309,45 @@ pdfjs-editor-ink-button-label = Debuxo
 pdfjs-editor-stamp-button =
     .title = Engadir ou editar imaxes
 pdfjs-editor-stamp-button-label = Engadir ou editar imaxes
+pdfjs-editor-highlight-button =
+    .title = Destacar
+pdfjs-editor-highlight-button-label = Destacar
+pdfjs-highlight-floating-button1 =
+    .title = Destacar
+    .aria-label = Destacar
+pdfjs-highlight-floating-button-label = Destacar
+pdfjs-editor-signature-button =
+    .title = Engadir sinatura
+pdfjs-editor-signature-button-label = Engadir sinatura
 
 ## Default editor aria labels
 
+# “Highlight” is a noun, the string is used on the editor for highlights.
+pdfjs-editor-highlight-editor =
+    .aria-label = Editor de destacados
+# “Drawing” is a noun, the string is used on the editor for drawings.
+pdfjs-editor-ink-editor =
+    .aria-label = Editor de debuxos
+# Used when a signature editor is selected/hovered.
+# Variables:
+#   $description (String) - a string describing/labeling the signature.
+pdfjs-editor-signature-editor1 =
+    .aria-description = Editor de sinaturas: { $description }
+pdfjs-editor-stamp-editor =
+    .aria-label = Editor de imaxes
 
 ## Remove button for the various kind of editor.
 
+pdfjs-editor-remove-ink-button =
+    .title = Eliminar debuxo
 pdfjs-editor-remove-freetext-button =
     .title = Eliminar o texto
 pdfjs-editor-remove-stamp-button =
     .title = Eliminar a imaxe
 pdfjs-editor-remove-highlight-button =
     .title = Eliminar o resaltado
+pdfjs-editor-remove-signature-button =
+    .title = Eliminar sinatura
 
 ##
 
