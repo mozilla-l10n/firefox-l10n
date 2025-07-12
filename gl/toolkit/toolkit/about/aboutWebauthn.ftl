@@ -23,6 +23,11 @@ about-webauthn-bio-enrollment-section-title = Rexistros biométricos
 
 ## Info field texts
 
+about-webauthn-text-connect-device = Conecta un token de seguranza.
+# If multiple devices are plugged in, they will blink and we are asking the user to select one by touching the device they want.
+about-webauthn-text-select-device = Selecciona o token de seguranza que desexes tocando o dispositivo.
+# CTAP2 refers to Client to Authenticator Protocol version 2
+about-webauthn-text-non-ctap2-device = Non se poden xestionar as opcións porque o teu token de seguranza non é compatible con CTAP2.
 about-webauthn-text-not-available = Non dispoñible nesta plataforma.
 about-webauthn-bio-enrollment-list-subsection-title = Rexistros:
 about-webauthn-add-bio-enrollment-section-title = Engadir novo rexistro
