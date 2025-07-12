@@ -4,7 +4,7 @@
 
 about-reader-loading = ലഭ്യമാക്കുന്നു…
 about-reader-load-error = താളില്‍ നിന്നും ലേഖനം ലഭ്യമാക്കുാന്‍ പറ്റുന്നില്ല
-about-reader-color-scheme-light = തെളിച്ചമുള്ളതു്
+about-reader-color-scheme-light = തെളിച്ചം
     .title = ഇളനിറ നിറമുറ
 about-reader-color-scheme-dark = ഇരുണ്ടതു്
     .title = ഇരുണ്ട നിറമുറ
@@ -13,7 +13,7 @@ about-reader-color-scheme-sepia = സെപ്പിയ
 about-reader-color-scheme-auto = തന്നെതാനെ
     .title = തന്നെതാനെ നിറമുറ തിരഞ്ഞെടുക്കുക
 about-reader-color-light-theme = തെളിച്ചം
-    .title = ഇളം അലങ്കാരം
+    .title = വെളിച്ചാലങ്കാരം
 about-reader-color-dark-theme = ഇരുണ്ടതു്
     .title = ഇരുണ്ട അലങ്കാരം
 about-reader-color-sepia-theme = സെപ്പിയ
