@@ -15,10 +15,24 @@ webext-perms-header-with-perms = Engadir { $extension }? Esta extensión terá p
 webext-perms-header-unsigned = Engadir { $extension }? Esta extensión está sen comprobar. As extensións maliciosas poden roubar a súa información privada ou comprometer o seu computador. Instálea só se confía na fonte.
 webext-perms-header-unsigned-with-perms = Engadir { $extension }? Esta extensión está sen comprobar. As extensións maliciosas poden roubar a súa información privada ou comprometer o seu computador. Instálea só se confía na fonte. Esta extensión terá permiso para:
 webext-perms-sideload-header = Engadiuse { $extension }
+webext-perms-optional-perms-header2 = { $extension } solicita permisos adicionais.
 webext-perms-optional-perms-header = { $extension } solicita permisos adicionais.
+webext-perms-header2 = Engadir { $extension }
 
 ## Headers used in the webextension permissions dialog, inside the content.
 
+webext-perms-header-required-perms = Permisos necesarios:
+webext-perms-header-optional-settings = Configuracións opcionais:
+webext-perms-header-update-required-perms = Novos permisos requiridos:
+webext-perms-header-optional-required-perms = Novos permisos:
+webext-perms-header-data-collection-perms = Recollida de datos requirida:
+webext-perms-header-data-collection-is-none = Recollida de datos:
+# This is a header used in the add-ons "update" prompt, shown when the new
+# version requires new data collection permissions.
+webext-perms-header-update-data-collection-perms = Nova recollida de datos obrigatoria:
+# This is a header used in the add-ons "optional" prompt, shown when the
+# extension requests new data collection permissions programmatically.
+webext-perms-header-optional-data-collection-perms = Nova recollida de datos:
 
 ##
 
@@ -112,3 +126,4 @@ webext-site-perms-midi-sysex = Acceder a dispositivos MIDI compatíbeis con SysE
 
 ## Colorway theme migration
 
+webext-colorway-theme-migration-notification-button = Obtén combinacións de cores actualizadas
