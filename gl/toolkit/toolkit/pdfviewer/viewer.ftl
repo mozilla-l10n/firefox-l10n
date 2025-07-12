@@ -509,6 +509,7 @@ pdfjs-image-alt-text-settings-button =
     .title = Configuración do texto alternativo da imaxe
 pdfjs-image-alt-text-settings-button-label = Configuración do texto alternativo da imaxe
 pdfjs-editor-alt-text-settings-dialog-label = Configuración do texto alternativo da imaxe
+pdfjs-editor-alt-text-settings-automatic-title = Texto alternativo automático
 
 ## "Annotations removed" bar
 
