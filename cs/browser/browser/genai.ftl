@@ -185,8 +185,10 @@ genai-chatbot-summarize-title = Novinka: Shrnutí stránek na jedno klepnutí
 genai-chatbot-summarize-button = Shrnutí stránky
 # “Summarize Page” should be consistent with the translation for the string genai-menu-summarize-page
 genai-chatbot-summarize-sidebar-provider-subtitle = Klepněte pravým tlačítkem myši na chatbota s umělou inteligencí na postranním panelu a vyberte možnost "Shrnutí stránky".
+# “Summarize Page” should be consistent with the translation for the string genai-menu-summarize-page
+genai-chatbot-summarize-sidebar-generic-subtitle = Klepněte pravým tlačítkem myši na tlačítko s jiskrami v postranní liště a zvolte „Shrnutí stránky“. Poprvé si také vyberete AI chatbota.
 # “Summarize page” should be consistent with the translation for the string genai-page-button-summarize
-genai-chatbot-summarize-footer-provider-subtitle = Otevřete chatbota s umělou inteligencí v postranním panelu a dole vyberte možnost "Shrnout stránku".
+genai-chatbot-summarize-footer-provider-subtitle = Otevřete chatbota s umělou inteligencí v postranním panelu a dole vyberte možnost "Shrnutí stránky".
 genai-chatbot-summarize-footer-generic-subtitle =
     { -brand-short-name.case-status ->
         [with-cases] Přidejte si AI chatbota do postranní lišty { -brand-short-name(case: "gen") } a nechte si rychle zobrazit shrnutí stránek.

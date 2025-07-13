@@ -511,6 +511,9 @@ newtab-topic-selection-button-pick-interests = Vyberte, co vás zajímá
 newtab-section-follow-button = Sledovat
 newtab-section-following-button = Sledované
 newtab-section-unfollow-button = Přestat sledovat
+# A modal may appear next to the Follow button, directing users to try out the feature
+newtab-section-follow-highlight-title = Dolaďte si svůj kanál
+newtab-section-follow-highlight-subtitle = Sledujte své zájmy a uvidíte víc toho, co se vám líbí.
 
 ## Button to block/unblock listed topics
 ## "Block", "unblocked", and "blocked" are social media terms that refer to hiding a section of stories.
@@ -571,6 +574,8 @@ newtab-download-mobile-highlight-image =
 
 ## Strings for shortcuts highlight
 
+newtab-shortcuts-highlight-title = Vaše oblíbené položky na dosah ruky
+newtab-shortcuts-highlight-subtitle = Přidejte si zkratky, abyste měli oblíbené weby dostupné na jedno klepnutí.
 
 ## Strings for reporting ads and content
 
