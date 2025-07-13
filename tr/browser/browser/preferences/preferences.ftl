@@ -1272,6 +1272,7 @@ content-blocking-etp-standard-tcp-rollout-description = Komple çerez koruması,
 content-blocking-etp-standard-tcp-rollout-learn-more = Daha fazla bilgi al
 content-blocking-etp-standard-tcp-title = Şimdiye kadarki en güçlü gizlilik özelliğimiz olan komple çerez korumasını içerir
 content-blocking-warning-title = Dikkat!
+content-blocking-and-isolating-etp-warning-description-3 = Bu ayar bazı sitelerde içeriklerin düzgün görünmemesine veya sitelerin düzgün çalışmamasına yol açabilir. Yapılandırmanızdan etkilenebileceğini bildiğimiz siteler için isteğe bağlı olarak uygulayabileceğiniz istisnalar sunuyoruz. Bozuk sitelerle karşılaşma ihtimalinizi azaltmak isterseniz bu takip kodu istisnalarına izin verin. Bir site bozuk görünüyorsa o sitede izlenme korumasını kapatarak içeriğin tamamını yükleyebilir, ardından sorunu çözmemiz için bize rapor edebilirsiniz.
 content-blocking-and-isolating-etp-warning-description-2 = Bu ayar, bazı web sitelerinin içeriğinin görünmemesine veya düzgün çalışmamasına neden olabilir. Site bozuk görünüyorsa o sitenin tüm içeriğinin yüklemesi için izlenme korumasını kapatabilirsiniz.
 content-blocking-warning-learn-how = Nasıl yapılacağını öğrenin
 content-blocking-baseline-exceptions =
