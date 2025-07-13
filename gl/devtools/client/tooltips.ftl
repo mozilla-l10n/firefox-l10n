@@ -98,14 +98,24 @@ inactive-css-not-inline-or-tablecell-fix = Probe a engadir <strong>display:inlin
 inactive-css-non-replaced-inline-or-table-row-or-row-group-fix = Probe a engadir <strong>display:inline-block</strong> ou <strong>display:block</strong>. { learn-more }
 inactive-css-non-replaced-inline-or-table-column-or-column-group-fix = Probe a engadir <strong>display:inline-block</strong>. { learn-more }
 inactive-css-not-display-block-on-floated-fix = Probe a eliminar <strong>float</strong> ou engadir <strong>display:block</strong>. { learn-more }
+inactive-css-only-non-grid-or-flex-item-fix = Proba a cambiar o valor da <strong>display</strong> do contedor do elemento a outra cousa que <strong>flex</strong>, <strong>grid</strong>, <strong>inline-flex</strong>, ou <strong>inline-grid</strong>, ou eliminando <strong>float</strong>. { learn-more }
+inactive-css-not-block-fix = Proba a engadir propiedades como <strong>display:block</strong> ou <strong>float:left</strong>. { learn-more }
+inactive-css-not-floated-fix = Proba a engadir a propiedade <strong>float</strong> cun valor distinto de <strong>none</strong>. { learn-more }
 inactive-css-position-property-on-unpositioned-box-fix = Probe a establecer a súa propiedade <strong>position</strong> nalgo diferente a <strong>static</strong>. { learn-more }
+inactive-css-only-replaced-elements-fix = Asegúrate de engadir a propiedade a un elemento substituído. { learn-more }
 inactive-text-overflow-when-no-overflow-fix = Probe a engadir <strong>overflow:hidden</strong>. { learn-more }
+inactive-css-no-size-containment-fix = Proba a configurar a súa propiedade <strong>display</strong> noutra cousa que <strong>none</strong>, <strong>contents</strong>, <strong>table</strong> ou <strong>inline-table</strong>e asegúrate de que non estea dentro dunha táboa ou segmento ruby. { learn-more }
 inactive-css-not-for-internal-table-elements-fix = Tente axustar a súa propiedade <strong>display</strong> a algo que non sexa <strong>table-cell</strong>, <strong>table-column</strong>, <strong>table-row</strong>, <strong>table-column-group</strong>, <strong>table-row-group</strong>, ou <strong>table-footer-group</strong>. { learn-more }
 inactive-css-not-for-internal-table-elements-except-table-cells-fix = Tente axustar a súa propiedade <strong>display</strong> adecuadamente a algo que non sexa <strong>table-column</strong>, <strong>table-row</strong>, <strong>table-column-group</strong>, <strong>table-row-group</strong>, ou <strong>table-footer-group</strong>. { learn-more }
 inactive-css-not-table-fix = Probe a engadir <strong>display:table</strong> ou <strong>display:inline-table</strong>. { learn-more }
+inactive-css-collapsed-table-borders-fix = Proba a engadir <strong>border-collapse:separate</strong>. { learn-more }
+inactive-css-not-table-cell-fix = Proba a engadir <strong>display:table-cell</strong>. { learn-more }
 inactive-scroll-padding-when-not-scroll-container-fix = Probe a engadir<strong>overflow:auto</strong>,<strong>overflow:scroll</strong>, ou <strong>overflow:hidden</strong>.{ learn-more }
 inactive-css-border-image-fix = No elemento de táboa contedor, retira a propiedade ou cambia o valor de <strong>border-collapse</strong> por un distinto de <strong>collapse</strong>. { learn-more }
+inactive-css-resize-fix = Proba a configurar <strong>overflow</strong> a un valor distinto de <strong>visible</strong> ou apuntar a un elemento substituído que o admita. { learn-more }
 inactive-css-ruby-element-fix = Proba a cambiar o <strong>font-size</strong> do texto rubi. { learn-more }
+inactive-css-text-wrap-balance-lines-exceeded-fix = Tenta reducir o número de liñas. { learn-more }
+inactive-css-text-wrap-balance-fragmented-fix = Evita dividir o contido do elemento, p. ex. eliminando as columnas ou usando <strong>page-break-inside:avoid</strong>. { learn-more }
 
 ## In the Rule View when a CSS property may have compatibility issues with other browsers
 ## we display an icon. When this icon is hovered this message is displayed to explain why
@@ -127,3 +137,5 @@ css-compatibility-learn-more-message = <span data-l10n-name="link">Saiba máis</
 ## When this icon is hovered one or more of those messages are displayed to explain what
 ## the issue are.
 
+# :has() should not be translated
+css-selector-warning-unconstrained-has = Este selector usa <strong>:has()</strong> sen restricións, o que pode ser lento
