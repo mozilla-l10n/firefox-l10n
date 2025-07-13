@@ -27,12 +27,16 @@ learn-more = <span data-l10n-name = "link">Máis información</span>
 inactive-css-not-grid-or-flex-container = <strong> { $property } </strong> non ten ningún efecto sobre este elemento, xa que non é un contedor flexible nin un contedor da grade.
 inactive-css-not-grid-or-flex-container-or-multicol-container = <strong> { $property } </strong> non ten ningún efecto sobre este elemento, xa que non é un contedor flex, un contedor da grade ou un contedor de varias columnas.
 inactive-css-not-multicol-container = <strong>{ $property }</strong> non ten ningún efecto sobre este elemento xa que non é un contedor multicolumna.
+inactive-css-column-span = <strong>{ $property }</strong> non ten ningún efecto de extensión neste elemento xa que non está nun contedor multicolumna.
 inactive-css-not-grid-or-flex-item = <strong> { $property } </strong> non ten ningún efecto sobre este elemento, xa que non é un elemento da grade ou flexible.
 inactive-css-not-grid-item = <strong> { $property } </strong> non ten ningún efecto sobre este elemento xa que non é un elemento da grade.
 inactive-css-not-grid-container = <strong> { $property } </strong> non ten ningún efecto sobre este elemento xa que non é un contedor da grade.
 inactive-css-not-flex-item = <strong> { $property } </strong> non ten ningún efecto sobre este elemento xa que non é un elemento flexible.
 inactive-css-not-flex-container = <strong> { $property } </strong> non ten ningún efecto sobre este elemento xa que non é un contedor flexible.
 inactive-css-not-inline-or-tablecell = <strong> { $property } </strong> non ten ningún efecto sobre este elemento, xa que non é un elemento da liña nin de celas de táboa.
+inactive-css-first-line-pseudo-element-not-supported = <strong>{ $property }</strong> non é compatible cos pseudoelementos ::first-line.
+inactive-css-first-letter-pseudo-element-not-supported = <strong>{ $property }</strong> non é compatible cos pseudoelementos ::first-letter.
+inactive-css-placeholder-pseudo-element-not-supported = <strong>{ $property }</strong> non é compatible cos pseudoelementos ::placeholder.
 inactive-css-property-because-of-display = <strong> { $property } </strong> non ten ningún efecto sobre este elemento xa que ten como display <strong>{ $display }</strong>.
 inactive-css-not-display-block-on-floated = O valor de <strong>display</strong> foi cambiado polo motor a <strong>block</strong> porque o elemento está <strong>flotado</strong>.
 inactive-css-property-is-impossible-to-override-in-visited = É imposible anular <strong>{ $property }</strong> debido á restricción <strong>:visited</strong>.
