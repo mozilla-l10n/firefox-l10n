@@ -116,21 +116,100 @@ book-avatar-alt =
     .alt = Libro
 briefcase-avatar-alt =
     .alt = Valigetta
+# Canvas refers to an artist's painting canvas, not the general material
+canvas-avatar-alt =
+    .alt = Tela
+# Craft refers to hobby arts and crafts, represented by a button/fastener commonly found on clothing like shirts
+craft-avatar-alt =
+    .alt = Artigianato
 custom-avatar-alt = 
+# Default favicon refers to the generic globe/world icon that appears in browser tabs when a website doesn't have its own favicon.
+default-favicon-avatar-alt =
+    .alt = Icona predefinita
+# Diamond refers to the precious stone, not the geometric shape
+diamond-avatar-alt =
+    .alt = Diamante
 flower-avatar-alt =
     .alt = Fiore
+folder-avatar-alt =
+    .alt = Cartella
+hammer-avatar-alt =
+    .alt = Martello
 heart-avatar-alt =
     .alt = Cuore
+heart-rate-avatar-alt =
+    .alt = Frequenza cardiaca
+history-avatar-alt =
+    .alt = Cronologia
+leaf-avatar-alt =
+    .alt = Foglia
+lightbulb-avatar-alt =
+    .alt = Lampadina
+makeup-avatar-alt =
+    .alt = Trucco
+# Message refers to a text message, not a traditional letter/envelope message
+message-avatar-alt =
+    .alt = Messaggio
+musical-note-avatar-alt =
+    .alt = Nota musicale
+palette-avatar-alt =
+    .alt = Tavolozza
+paw-print-avatar-alt =
+    .alt = Impronta di una zampa
+plane-avatar-alt =
+    .alt = Aereo
+# Present refers to a gift box, not the current time period
+present-avatar-alt =
+    .alt = Regalo
 shopping-avatar-alt =
     .alt = Carrello
+soccer-avatar-alt =
+    .alt = Pallone da calcio
+sparkle-single-avatar-alt =
+    .alt = Scintilla
 star-avatar-alt =
     .alt = Stella
+video-game-controller-avatar-alt =
+    .alt = Controller per videogiochi
+barbell-avatar-alt =
+    .alt = Bilanciere
+bike-avatar-alt =
+    .alt = Bici
 
 ## Labels for default avatar icons
 
 book-avatar = Libro
 briefcase-avatar = Valigetta
+# Canvas refers to an artist's painting canvas, not the general material
+canvas-avatar = Tela
+# Craft refers to hobby arts and crafts, represented by a button/fastener commonly found on clothing like shirts
+craft-avatar = Artigianato
+custom-avatar = Icona personalizzata
+# Default favicon refers to the generic globe/world icon that appears in browser tabs when a website doesn't have its own favicon.
+default-favicon-avatar = Icona predefinita
+# Diamond refers to the precious stone, not the geometric shape
+diamond-avatar = Diamante
 flower-avatar = Fiore
+folder-avatar = Cartella
+hammer-avatar = Martello
 heart-avatar = Cuore
+heart-rate-avatar = Frequenza cardiaca
+history-avatar = Cronologia
+leaf-avatar = Foglia
+lightbulb-avatar = Lampadina
+makeup-avatar = Trucco
+# Message refers to a text message, not a traditional letter/envelope message
+message-avatar = Messaggio
+musical-note-avatar = Nota musicale
+palette-avatar = Tavolozza
+paw-print-avatar = Impronta di una zampa
+plane-avatar = Aereo
+# Present refers to a gift box, not the current time period
+present-avatar = Regalo
 shopping-avatar = Carrello
+soccer-avatar = Pallone da calcio
+sparkle-single-avatar = Scintilla
 star-avatar = Stella
+video-game-controller-avatar = Controller per videogiochi
+barbell-avatar = Bilanciere
+bike-avatar = Bici

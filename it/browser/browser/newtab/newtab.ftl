@@ -546,6 +546,9 @@ newtab-custom-wallpaper-cta = Prova
 
 ## Strings for new user activation custom wallpaper highlight
 
+newtab-new-user-custom-wallpaper-title = Scegli uno sfondo per rendere { -brand-product-name } davvero tuo
+newtab-new-user-custom-wallpaper-subtitle = Fai sentire ogni nuova scheda come se fosse casa tua con sfondi e colori personalizzati.
+newtab-new-user-custom-wallpaper-cta = Provalo ora
 
 ## Strings for download mobile highlight
 
