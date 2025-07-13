@@ -277,6 +277,8 @@ tab-context-move-tab-to-group =
            *[other] Aldoni langetojn al grupo
         }
     .accesskey = G
+tab-context-move-tab-to-group-saved-groups =
+    .label = Fermitaj grupoj
 tab-group-editor-action-new-tab =
     .label = Nova langeto en grupo
 tab-group-editor-action-new-window =

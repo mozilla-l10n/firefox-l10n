@@ -363,6 +363,7 @@ quickactions-downloads2 = Montri elŝutojn
 quickactions-cmd-downloads = elŝutojn
 # Opens about:addons page in the extensions section
 quickactions-extensions = Administri etendaĵojn
+quickactions-cmd-extensions2 = etendaĵoj, aldonaĵoj
 quickactions-cmd-extensions = etendaĵoj
 # Opens Firefox View
 quickactions-firefoxview = Malfermi { -firefoxview-brand-name }

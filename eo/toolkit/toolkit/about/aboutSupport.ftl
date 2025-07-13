@@ -185,6 +185,8 @@ media-capabilities-enumerate = Listigi datumbazon
 
 media-codec-support-sw-decoding = Programa malkodado
 media-codec-support-hw-decoding = Aparata malkodado
+media-codec-support-sw-encoding = Programa kodado
+media-codec-support-hw-encoding = Aparata kodado
 media-codec-support-codec-name = Nomo de kodeko
 media-codec-support-supported = Subtenata
 media-codec-support-unsupported = Ne subtenata
