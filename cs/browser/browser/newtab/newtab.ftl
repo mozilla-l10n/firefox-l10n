@@ -8,6 +8,8 @@
 newtab-page-title = Nový panel
 newtab-settings-button =
     .title = Přizpůsobení stránky nového panelu
+newtab-customize-panel-icon-button =
+    .title = Přizpůsobte si tuto stránku
 newtab-customize-panel-icon-button-label = Přizpůsobit
 newtab-personalize-settings-icon-label =
     .title = Přizpůsobení nového panelu

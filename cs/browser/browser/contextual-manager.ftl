@@ -286,6 +286,28 @@ contextual-manager-view-alert-heading =
     .heading = Zobrazit upozornění
 contextual-manager-view-alert-button =
     .tooltiptext = Zkontrolovat upozornění
+# Variables
+#   $count (number) - The number of active alerts associated with the login
+contextual-manager-view-alert-heading-2 =
+    .heading =
+        { $count ->
+            [1] Zobrazit upozornění
+            [one] Zobrazit upozornění
+            [few] Zobrazit upozornění
+            [many] Zobrazit upozornění
+           *[other] Zobrazit upozornění
+        }
+# Variables
+#   $count (number) - The number of active alerts associated with the login
+contextual-manager-view-alert-button-2 =
+    .tooltiptext =
+        { $count ->
+            [1] Zkontrolovat upozornění
+            [one] Zkontrolovat upozornění
+            [few] Zkontrolovat upozornění
+            [many] Zkontrolovat upozornění
+           *[other] Zkontrolovat upozornění
+        }
 contextual-manager-show-password-button =
     .aria-label = Zobrazit heslo
     .title = Zobrazit heslo

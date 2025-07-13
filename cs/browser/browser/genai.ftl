@@ -181,8 +181,8 @@ genai-chatbot-contextual-subtitle =
        *[no-cases] Můžete chatovat a prohlížet si stránky vedle sebe, když si přidáte AI chatbota do postranní lišty aplikace { -brand-short-name }.
     }
 genai-chatbot-contextual-button = Vyberte si chatbota
-genai-chatbot-summarize-title = Novinka: Sumarizace stránek na jedno klepnutí
-genai-chatbot-summarize-button = Sumarizuj stránku
+genai-chatbot-summarize-title = Novinka: Shrnutí stránek na jedno klepnutí
+genai-chatbot-summarize-button = Shrnutí stránky
 # “Summarize Page” should be consistent with the translation for the string genai-menu-summarize-page
 genai-chatbot-summarize-sidebar-provider-subtitle = Klepněte pravým tlačítkem myši na chatbota s umělou inteligencí na postranním panelu a vyberte možnost "Shrnutí stránky".
 # “Summarize page” should be consistent with the translation for the string genai-page-button-summarize
