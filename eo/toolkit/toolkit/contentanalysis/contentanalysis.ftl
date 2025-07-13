@@ -34,6 +34,10 @@ contentanalysis-operationtype-clipboard = tondujo
 contentanalysis-operationtype-dropped-text = demetita teksto
 contentanalysis-operationtype-print = presi
 #   $filename - The filename associated with the request, such as "aFile.txt"
+contentanalysis-upload-description = alŝuto de “{ $filename }”
+#   $filename - The filename associated with the request, such as "aFile.txt"
+contentanalysis-download-description = elŝuto de “{ $filename }”
+#   $filename - The filename associated with the request, such as "aFile.txt"
 contentanalysis-customdisplaystring-description = alŝuto de “{ $filename }”
 contentanalysis-warndialogtitle = Tiu ĉi enhavo povus esti nesekura
 # Variables:
@@ -75,6 +79,10 @@ contentanalysis-block-dialog-title-upload-file = Vi ne rajtas alŝuti tiun ĉi d
 # Variables:
 #   $filename - Name of the file that was blocked, such as "aFile.txt"
 contentanalysis-block-dialog-body-upload-file = Laŭ la politikoj de protekto de datumoj de via organizo vi ne rajtas alŝuti la dosieron “{ $filename }”. Kontaktu vian administranton por havi pli da informo.
+contentanalysis-block-dialog-title-download-file = Vi ne rajtas elŝuti tiun ĉi dosieron
+# Variables:
+#   $filename - Name of the file that was blocked, such as "aFile.txt"
+contentanalysis-block-dialog-body-download-file = Laŭ la politikoj de protekto de datumoj de via organizo vi ne rajtas elŝuti la dosieron “{ $filename }”. Kontaktu vian administranton por havi pli da informo.
 contentanalysis-block-dialog-title-clipboard = Vi ne rajtas alglui tiun ĉi enhavon
 contentanalysis-block-dialog-body-clipboard = Laŭ la politikoj de protekto de datumoj de via organizo vi ne rajtas alglui tiun ĉi enhavon. Kontaktu vian administranton por havi pli da informo.
 contentanalysis-block-dialog-title-dropped-text = Vi ne rajtas faligi tiun ĉi enhavon

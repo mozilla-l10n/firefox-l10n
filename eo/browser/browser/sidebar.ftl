@@ -68,6 +68,7 @@ sidebar-show-on-the-left =
 # hovers over it.
 expand-sidebar-on-hover =
     .label = Malfaldi flankan strion kiam la muso iras super ĝi
+sidebar-manage-extensions = Administri etendaĵojn
 
 ## Labels for sidebar context menu items
 
@@ -101,6 +102,10 @@ sidebar-context-menu-customize-sidebar =
 #   $deviceName (String) - The name of the device the user is closing a tab for
 sidebar-context-menu-close-remote-tab =
     .label = Fermi langeton en { $deviceName }
+sidebar-context-menu-remove-extension2 =
+    .label = Forigi el { -brand-short-name }
+sidebar-context-menu-unpin-extension =
+    .label = Forigi el la flanka strio
 
 ## Labels for sidebar history context menu items
 
@@ -125,6 +130,8 @@ sidebar-menu-customize-label =
     .label = Personecigi la flankan strion
 sidebar-menu-contextual-password-manager-label =
     .label = Pasvortoj
+sidebar-menu-more-tools-label =
+    .label = Pli da iloj
 
 ## Tooltips for sidebar menu items.
 

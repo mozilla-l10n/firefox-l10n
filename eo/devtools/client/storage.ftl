@@ -107,3 +107,11 @@ storage-idb-delete-blocked = Datumbazo “{ $dbName }” estos forigita kiam ĉi
 # Variables:
 #   $dbName (String) - Name of the database
 storage-idb-delete-error = Ne eblis forigi la datumbazon “{ $dbName }”.
+# Error notification when cookie could not be created (e.g. because it's invalid).
+# Variables:
+#   $errorString (String) - Platform error message
+storage-cookie-create-error = Ne eblis krei kuketon: “{ $errorString }”.
+# Error notification when cookie could not be edited (e.g. because it's invalid).
+# Variables:
+#   $errorString (String) - Platform error message
+storage-cookie-edit-error = Ne eblis ĝisdatigi kuketon: “{ $errorString }”.

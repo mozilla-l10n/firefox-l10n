@@ -262,6 +262,22 @@ contextual-manager-view-alert-heading =
     .heading = Montri atentigon
 contextual-manager-view-alert-button =
     .tooltiptext = Revizii atentigon
+# Variables
+#   $count (number) - The number of active alerts associated with the login
+contextual-manager-view-alert-heading-2 =
+    .heading =
+        { $count ->
+            [1] Vidi atentigon
+           *[other] Vidi atentigojn
+        }
+# Variables
+#   $count (number) - The number of active alerts associated with the login
+contextual-manager-view-alert-button-2 =
+    .tooltiptext =
+        { $count ->
+            [1] Revizii atentigon
+           *[other] Revizii atentigojn
+        }
 contextual-manager-show-password-button =
     .aria-label = Montri pasvorton
     .title = Montri pasvorton

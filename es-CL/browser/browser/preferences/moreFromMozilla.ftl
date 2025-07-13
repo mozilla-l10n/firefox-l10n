@@ -42,3 +42,6 @@ more-from-moz-solo-button = Prueba { -solo-ai-brand-name }
 
 ## These strings are for the MDN card in about:preferences moreFromMozilla page
 
+more-from-moz-mdn-title = Documentos web de MDN
+more-from-moz-mdn-description = Aprende desarrollo web con guías y referencias gratuitas y completas.
+more-from-moz-mdn-button = Aprende desarrollo web

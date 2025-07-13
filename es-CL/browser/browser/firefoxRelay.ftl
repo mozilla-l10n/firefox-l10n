@@ -72,6 +72,7 @@ firefox-relay-and-fxa-opt-in-confirmation-enable-button-basic-info =
 
 firefox-relay-and-fxa-popup-notification-header-with-domain = Obtener una máscara de correo electrónico gratuita
 firefox-relay-and-fxa-popup-notification-first-sentence-with-domain = Protege tu bandeja de entrada del spam usando una <label data-l10n-name="firefox-relay-learn-more-url">máscara de correo electrónico</label> gratuita para ocultar tu dirección real. Los correos electrónicos de <label data-l10n-name="firefox-fxa-and-relay-offer-domain">este sitio</label> seguirán llegando a tu bandeja de entrada, pero con tu dirección de correo electrónico oculta.
+firefox-relay-and-fxa-popup-notification-first-sentence = Protege tu bandeja de entrada del spam usando una <label data-l10n-name="firefox-relay-learn-more-url">máscara de correo electrónico { -relay-brand-name }</label> gratuita para ocultar tu dirección real. Los correos electrónicos de <label data-l10n-name="firefox-fxa-and-relay-offer-domain">este sitio</label> seguirán llegando a tu bandeja de entrada, pero con tu dirección de correo electrónico oculta.
 firefox-relay-and-fxa-popup-notification-second-sentence-with-domain = Primero, regístrate o conéctate a tu cuenta para usar una máscara de correo electrónico
 firefox-relay-and-fxa-opt-in-confirmation-enable-button-with-domain =
     .label = Registrarse

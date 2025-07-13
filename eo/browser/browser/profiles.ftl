@@ -39,6 +39,12 @@ edit-profile-page-delete-button =
 edit-profile-page-avatar-selector-opener-link = Modifi
 avatar-selector-icon-tab = Emblemo
 avatar-selector-custom-tab = Personecigita
+avatar-selector-cancel-button =
+    .label = Nuligi
+avatar-selector-save-button =
+    .label = Konservi
+avatar-selector-upload-file = Alŝutu dosieron
+avatar-selector-drag-file = Aŭ trenu dosieron ĉi tien
 edit-profile-page-no-name = Nomu tiun ĉi profilon por pli facile trovi ĝin poste. Vi povas renomi ĝin iam ajn.
 edit-profile-page-duplicate-name = Tiu nomo de profilo jam estas uzata. Provu alian nomon.
 edit-profile-page-profile-saved = Konservita
@@ -116,6 +122,8 @@ shopping-avatar-alt =
     .alt = Aĉetĉareto
 star-avatar-alt =
     .alt = Stelo
+custom-avatar-alt =
+    .alt = Personecigita avataro
 
 ## Labels for default avatar icons
 
