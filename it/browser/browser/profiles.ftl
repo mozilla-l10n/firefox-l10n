@@ -116,6 +116,7 @@ book-avatar-alt =
     .alt = Libro
 briefcase-avatar-alt =
     .alt = Valigetta
+custom-avatar-alt = 
 flower-avatar-alt =
     .alt = Fiore
 heart-avatar-alt =
@@ -124,8 +125,6 @@ shopping-avatar-alt =
     .alt = Carrello
 star-avatar-alt =
     .alt = Stella
-custom-avatar-alt =
-    .alt = Icona personalizzata
 
 ## Labels for default avatar icons
 

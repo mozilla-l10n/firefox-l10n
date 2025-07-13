@@ -544,11 +544,8 @@ newtab-custom-wallpaper-title = Ora puoi utilizzare sfondi personalizzati
 newtab-custom-wallpaper-subtitle = Carica il tuo sfondo o scegli un colore personalizzato per personalizzare { -brand-product-name }.
 newtab-custom-wallpaper-cta = Prova
 
-## Alternative strings for custom wallpaper highlight
+## Strings for new user activation custom wallpaper highlight
 
-newtab-custom-wallpaper-alt-title = Il tuo browser. Il tuo sfondo
-newtab-custom-wallpaper-alt-subtitle = Scegli uno sfondo o un colore che corrisponda al tuo umore.
-newtab-custom-wallpaper-alt-cta = Provalo ora
 
 ## Strings for download mobile highlight
 
