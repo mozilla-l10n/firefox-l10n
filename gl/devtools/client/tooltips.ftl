@@ -39,14 +39,23 @@ inactive-css-first-letter-pseudo-element-not-supported = <strong>{ $property }</
 inactive-css-placeholder-pseudo-element-not-supported = <strong>{ $property }</strong> non é compatible cos pseudoelementos ::placeholder.
 inactive-css-property-because-of-display = <strong> { $property } </strong> non ten ningún efecto sobre este elemento xa que ten como display <strong>{ $display }</strong>.
 inactive-css-not-display-block-on-floated = O valor de <strong>display</strong> foi cambiado polo motor a <strong>block</strong> porque o elemento está <strong>flotado</strong>.
+inactive-css-not-display-block-on-floated-2 = O motor cambiou o valor de <strong>display</strong> a <strong>{ $display }</strong> porque o elemento está <strong>floated</strong>.
+inactive-css-only-non-grid-or-flex-item = <strong>{ $property }</strong> non ten ningún efecto porque non se pode usar en elementos de grade ou flexibles.
+inactive-css-not-block = <strong>{ $property }</strong> non ten ningún efecto neste elemento porque só se aplica aos elementos de nivel de bloque.
+inactive-css-not-floated = <strong>{ $property }</strong> non ten ningún efecto porque só se aplica aos elementos flotantes.
 inactive-css-property-is-impossible-to-override-in-visited = É imposible anular <strong>{ $property }</strong> debido á restricción <strong>:visited</strong>.
 inactive-css-position-property-on-unpositioned-box = <strong>{ $property }</strong> non ten ningún efecto sobre este elemento xa que non é un elemento posicionado.
+inactive-css-only-replaced-elements = <strong>{ $property }</strong> non ten ningún efecto neste elemento xa que só se pode aplicar aos elementos substituídos.
 inactive-text-overflow-when-no-overflow = <strong>{ $property }</strong> non ten ningún efecto sobre este elemento xa que <strong>overflow:hidden</strong> non está definido.
+inactive-css-no-size-containment = <strong>{ $property }</strong> non ten ningún efecto sobre este elemento xa que non ten límite de tamaño.
 inactive-css-not-for-internal-table-elements = <strong>{ $property }</strong> non ten efecto sobre elementos internos da táboa.
 inactive-css-not-for-internal-table-elements-except-table-cells = <strong>{ $property }</strong> non ten efecto sobre elementos internos da táboa pero si sobre as celas da táboa.
 inactive-css-not-table = <strong>{ $property }</strong> non ten efecto neste elemento porque non é unha táboa.
+inactive-css-collapsed-table-borders = <strong>{ $property }</strong> non ten ningún efecto neste elemento xa que é unha táboa con bordos contraídos.
+inactive-css-not-table-cell = <strong>{ $property }</strong> non ten ningún efecto neste elemento xa que non é unha cela da táboa.
 inactive-scroll-padding-when-not-scroll-container = <strong>{ $property }</strong> non ten efecto sobre este elemento xa que non se despraza.
 inactive-css-border-image = <strong>{ $property }</strong> non afecta a este elemento porque non se pode aplicar a elementos internos de táboas nos que <strong>border-collapse</strong> está definido como <strong>collapse</strong> no elemento táboa contedor.
+inactive-css-resize = <strong>{ $property }</strong> non ten ningún efecto neste elemento xa que só se pode aplicar a elementos cun valor de desbordamento que non sexa visible e a determinados elementos substituídos, como áreas de texto.
 inactive-css-ruby-element = <strong>{ $property }</strong> non afecta a este elemento porque é un elemento de rubi. O seu tamaño ven determinado polo tamaño de letra do texto rubi.
 
 ## In the Rule View when a CSS property cannot be successfully applied we display
@@ -58,6 +67,17 @@ inactive-css-ruby-element = <strong>{ $property }</strong> non afecta a este ele
 ##   $property (string) - A CSS property name e.g. "color".
 ##   $display (string) - A CSS display value e.g. "inline-block".
 
+inactive-css-highlight-pseudo-elements-not-supported = <strong>{ $property }</strong> non é compatible cos pseudoelementos destacados.
+inactive-css-cue-pseudo-element-not-supported = <strong>{ $property }</strong> non é compatible cos pseudoelementos ::cue.
+# Variables:
+#   $lineCount (integer) - The number of lines the element has.
+inactive-css-text-wrap-balance-lines-exceeded =
+    { $lineCount ->
+        [one] <strong>{ $property }</strong> non ten ningún efecto neste elemento porque ten máis de { $lineCount } liña.
+       *[other] <strong>{ $property }</strong> non ten ningún efecto neste elemento porque ten máis de { $lineCount } liñas.
+    }
+inactive-css-text-wrap-balance-fragmented = <strong>{ $property }</strong> non ten ningún efecto neste elemento porque está fragmentado, é dicir, o seu contido está dividido en varias columnas ou páxinas.
+inactive-css-no-width-height = <strong>{ $property }</strong> non ten ningún efecto sobre este elemento xa que non se poden establecer o seu ancho e alto.
 
 ## In the Rule View when a CSS property cannot be successfully applied we display
 ## an icon. When this icon is hovered this message is displayed to explain how
@@ -65,7 +85,10 @@ inactive-css-ruby-element = <strong>{ $property }</strong> non afecta a este ele
 ## not be translated.
 
 inactive-css-not-grid-or-flex-container-fix = Probe a engadir <strong>display:grid</strong> ou <strong>display:flex</strong>. { learn-more }
+inactive-css-not-grid-or-flex-or-block-container-fix = Proba a engadir <strong>display:grid</strong>, <strong>display:flex</strong> ou <strong>display:block</strong>. { learn-more }
 inactive-css-not-grid-or-flex-container-or-multicol-container-fix = Probe a engadir <strong>display:grid</strong>, <strong>display:flex</strong> ou <strong>columnsj:2</strong>. { learn-more }
+inactive-css-not-multicol-container-fix = Proba a engadir <strong>column-count</strong> ou <strong>column-count</strong>. { learn-more }
+inactive-css-column-span-fix = Proba a engadir <strong>column-count</strong> ou <strong>column-count</strong> a un dos seus elementos antecesores. { learn-more }
 inactive-css-not-grid-or-flex-item-fix-3 = Probe a engadir <strong>display:grid</strong>, <strong>display:flex</strong>, <strong>display:inline-grid</strong> ou <strong>display:inline-flex</strong> ao elemento pai. { learn-more }
 inactive-css-not-grid-item-fix-2 = Probe a engadir <strong>display:grid</strong> ou <strong>display:inline-grid</strong> ao pai do elemento. { learn-more }
 inactive-css-not-grid-container-fix = Probe a engadir <strong>display:grid</strong> ou <strong>display:inline-grid</strong>. { learn-more }
