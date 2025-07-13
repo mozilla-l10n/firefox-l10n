@@ -51,11 +51,20 @@ genai-menu-ask-generic =
 # $provider (string) - name of the provider
 genai-menu-ask-provider =
     .label = Demandi al { $provider }
+genai-menu-open-generic =
+    .label = Malfermi dialoganton A.I.
+# $provider (string) - name of the provider
+genai-menu-open-provider =
+    .label = Malfermi { $provider }
 genai-menu-remove-generic =
     .label = Forigi dialoganton A.I.
 # $provider (string) - name of the provider
 genai-menu-remove-provider =
     .label = Forigi { $provider }
+genai-menu-remove-sidebar =
+    .label = Forigi el la flanka strio
+genai-menu-new-badge = Nova
+genai-menu-summarize-page = Resumi paĝon
 genai-input-ask-generic =
     .placeholder = Demandi al dialoganto A.I. …
 # $provider (string) - name of the provider
@@ -80,6 +89,10 @@ genai-shortcuts-selected-warning =
         }
 genai-shortcuts-hide =
     .label = Kaŝi ŝparvojon al dialoganto
+genai-menu-no-provider =
+    .label = Demandi al dialoganto A.I.
+genai-menu-choose-chatbot =
+    .label = Elekti dialoganton A.I.
 
 ## Chatbot header
 
@@ -106,6 +119,7 @@ genai-options-about-chatbot =
 
 ## Chatbot footer
 
+genai-page-button-summarize = Resumi paĝon
 
 ## Chatbot onboarding
 
@@ -141,6 +155,15 @@ genai-onboarding-select-primary = Komenci dialogi
 genai-chatbot-contextual-title = Uzi A.I. dialoganton sen ŝanĝi langeton
 genai-chatbot-contextual-subtitle = Dialogu kaj retumu, unu apud la alia, per aldono de A.I. dialoganto en la flanka strio de { -brand-short-name }.
 genai-chatbot-contextual-button = Elekti dialoganton
+genai-chatbot-summarize-title = Nova! Resumi paĝojn per unu alklako
+genai-chatbot-summarize-button = Resumi paĝon
+# “Summarize Page” should be consistent with the translation for the string genai-menu-summarize-page
+genai-chatbot-summarize-sidebar-provider-subtitle = Alkalku per la dekstra butono sur via dialoganto A.I. en la flanka strio kaj elektu “Resumi paĝon”.
+# “Summarize Page” should be consistent with the translation for the string genai-menu-summarize-page
+genai-chatbot-summarize-sidebar-generic-subtitle = Alkalku per la dekstra butono la steligitan butonon en la flanka strio kaj kaj elektu “Resumi paĝon”. Se vi faras tion unuafoje vi ankaŭ devos elekti dialoganton A.I.
+# “Summarize page” should be consistent with the translation for the string genai-page-button-summarize
+genai-chatbot-summarize-footer-provider-subtitle = Malerfmu vian dialoganton A.I. en la flanka strio kaj elektu “Resumi paĝon” ĉe la malsupra parto.
+genai-chatbot-summarize-footer-generic-subtitle = Aldoni dialoganton A.I. al la flanka strion de { -brand-short-name } por rapide resumi paĝojn.
 
 ## Chatbot onboarding choices
 ## These describe features/capabilities of chatbot providers. These are not buttons/actions.

@@ -136,6 +136,13 @@ sidebar-pins-callout-cta-button = Alpingli langeton
 ## Pinning Tabs Strings
 
 pin-tabs-callout-1-title = Tenu gravajn langetojn ĉemane
+pin-tabs-callout-1-subtitle = Trenu langeon al la komenco de la langeta strio por alpingli ĝin. Aŭ alklaku ĝin per la dekstra butono kaj elektu Alpingli langeton.
+pin-tabs-callout-cta-1-button = Alpingli tiun ĉi langeton
+pin-tabs-callout-2-title = Alpingli viajn plej ofte vizititajn langetojn
+pin-tabs-callout-2-subtitle = Por alpingli iun ajn langeton, trenu ĝin al la komeno de la langeta strio. Aŭ alklaku ĝin per la dekstra butono kaj elektu Alpingli langeton.
+pin-tabs-callout-cta-2-button = Alpingli tiun ĉi langeton
+pin-tabs-callout-3-title = Tenu gravajn retejojn ĉemane
+pin-tabs-callout-4-title = Alpingli viajn plej ofte vizititajn retejojn
 
 ## Sidebar Onboarding Strings
 
