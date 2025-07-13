@@ -17,8 +17,24 @@ contentanalysis-warndialogtitle = Este contido pode ser inseguro
 contentanalysis-warndialog-response-allow = Usar contido
 contentanalysis-warndialog-response-deny = Cancelar
 contentanalysis-notification-title = Análise do contido
+# Variables:
+#   $agent - The name of the DLP agent doing the analysis
+#   $content - Localized text describing the content being blocked, such as "Paste denied."
+contentanalysis-unspecified-error-message-content = Produciuse un erro ao comunicarse con { $agent }. { $content }
+# Variables:
+#   $agent - The name of the DLP agent doing the analysis
+#   $content - Localized text describing the content being blocked, such as "Paste denied."
+contentanalysis-no-agent-connected-message-content = Non se puido conectar con { $agent }. { $content }
+# Variables:
+#   $agent - The name of the DLP agent doing the analysis
+#   $content - Localized text describing the content being blocked, such as "Paste denied."
+contentanalysis-invalid-agent-signature-message-content = Fallou a verificación da sinatura de { $agent }. { $content }
+# Variables:
+#   $filename - Name of the file that was blocked, such as "aFile.txt"
+contentanalysis-error-message-upload-file = Carga de «{ $filename }» denegada.
 contentanalysis-error-message-dropped-text = Arrastrar e soltar denegado.
 contentanalysis-error-message-clipboard = Pegar denegado.
 contentanalysis-error-message-print = Impresión denegada.
+contentanalysis-block-dialog-title-upload-file = Non tes permiso para cargar este ficheiro
 contentanalysis-inprogress-quit-title = Saír de { -brand-shorter-name }?
 contentanalysis-inprogress-quit-yesbutton = Si, saír
