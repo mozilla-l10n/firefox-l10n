@@ -74,7 +74,7 @@ firefoxview-tabpickup-password-locked-link = Сазнајте више
 firefoxview-tabpickup-password-locked-primarybutton = Унеси главну лозиннку
 firefoxview-syncedtab-password-locked-link = <a data-l10n-name="syncedtab-password-locked-link">Сазнајте више</a>
 firefoxview-tabpickup-signed-out-header = Пријавите се за поновно повезивање
-firefoxview-tabpickup-signed-out-description = Да се поново повежете и преузмете ваше картице, пријавите се у ваш { -fxaccount-brand-name }.
+firefoxview-tabpickup-signed-out-description = Пријавите се на { -fxaccount-brand-name(case: "acc") } да бисте се поново повезали и приступили својим картицама.
 firefoxview-tabpickup-signed-out-description2 = Да се поново повежете и преузмете ваше картице, пријавите се у ваш налог.
 firefoxview-tabpickup-signed-out-primarybutton = Пријави се
 firefoxview-tabpickup-syncing = Сачекајте да се ваши језичци синхронизују. Брзо ће то.
