@@ -159,6 +159,7 @@ pin-tabs-callout-1-title = Mějte důležité panely po ruce
 pin-tabs-callout-1-subtitle = Přetažením panelu na začátek lišty panelů jej připnete. Nebo klepněte pravým tlačítkem myši a vyberte možnost Připnout panel.
 pin-tabs-callout-cta-1-button = Připnout tento panel
 pin-tabs-callout-2-title = Připněte si nejnavštěvovanější panely
+pin-tabs-callout-2-subtitle = Chcete-li připnout libovolný panel, přetáhněte ji na začátek lišty panelů. Nebo klepněte pravým tlačítkem myši a vyberte možnost Připnout panel.
 pin-tabs-callout-cta-2-button = Připnout tento panel
 pin-tabs-callout-3-title = Mějte důležité stránky pořád po ruce
 pin-tabs-callout-4-title = Připněte si nejnavštěvovanější stránky

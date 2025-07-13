@@ -76,6 +76,7 @@ sidebar-show-on-the-left =
 # hovers over it.
 expand-sidebar-on-hover =
     .label = Rozbalit postranní panel při najetí myší
+sidebar-manage-extensions = Správa rozšíření
 
 ## Labels for sidebar context menu items
 
@@ -109,6 +110,14 @@ sidebar-context-menu-customize-sidebar =
 #   $deviceName (String) - The name of the device the user is closing a tab for
 sidebar-context-menu-close-remote-tab =
     .label = Zavřít panel v { $deviceName }
+sidebar-context-menu-remove-extension2 =
+    .label =
+        { -brand-short-name.case-status ->
+            [with-cases] Odebrat z { -brand-short-name(case: "gen") }
+           *[no-cases] Odebrat z aplikace { -brand-short-name }
+        }
+sidebar-context-menu-unpin-extension =
+    .label = Odebrat z postranní lišty
 
 ## Labels for sidebar history context menu items
 

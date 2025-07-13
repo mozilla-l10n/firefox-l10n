@@ -57,12 +57,18 @@ genai-menu-ask-provider =
     .label = Zeptat se { $provider }
 genai-menu-open-generic =
     .label = Otevřít AI chatbota
+# $provider (string) - name of the provider
+genai-menu-open-provider =
+    .label = Otevřít { $provider }
 genai-menu-remove-generic =
     .label = Odebrat AI chatbota
 # $provider (string) - name of the provider
 genai-menu-remove-provider =
     .label = Odebrat { $provider }
+genai-menu-remove-sidebar =
+    .label = Odebrat z postranní lišty
 genai-menu-new-badge = Nový
+genai-menu-summarize-page = Shrnutí stránky
 genai-input-ask-generic =
     .placeholder = Zeptat se AI chatbota…
 # $provider (string) - name of the provider
@@ -93,6 +99,10 @@ genai-shortcuts-selected-warning =
         }
 genai-shortcuts-hide =
     .label = Skrýt zkratku chatbota
+genai-menu-no-provider =
+    .label = Zeptejte se AI chatbota.
+genai-menu-choose-chatbot =
+    .label = Vyberte si AI chatbota
 
 ## Chatbot header
 
@@ -123,6 +133,7 @@ genai-options-about-chatbot =
 
 ## Chatbot footer
 
+genai-page-button-summarize = Shrnutí stránky
 
 ## Chatbot onboarding
 
@@ -170,6 +181,17 @@ genai-chatbot-contextual-subtitle =
        *[no-cases] Můžete chatovat a prohlížet si stránky vedle sebe, když si přidáte AI chatbota do postranní lišty aplikace { -brand-short-name }.
     }
 genai-chatbot-contextual-button = Vyberte si chatbota
+genai-chatbot-summarize-title = Novinka: Sumarizace stránek na jedno klepnutí
+genai-chatbot-summarize-button = Sumarizuj stránku
+# “Summarize Page” should be consistent with the translation for the string genai-menu-summarize-page
+genai-chatbot-summarize-sidebar-provider-subtitle = Klepněte pravým tlačítkem myši na chatbota s umělou inteligencí na postranním panelu a vyberte možnost "Shrnutí stránky".
+# “Summarize page” should be consistent with the translation for the string genai-page-button-summarize
+genai-chatbot-summarize-footer-provider-subtitle = Otevřete chatbota s umělou inteligencí v postranním panelu a dole vyberte možnost "Shrnout stránku".
+genai-chatbot-summarize-footer-generic-subtitle =
+    { -brand-short-name.case-status ->
+        [with-cases] Přidejte si AI chatbota do postranní lišty { -brand-short-name(case: "gen") } a nechte si rychle zobrazit shrnutí stránek.
+       *[no-cases] Přidejte si AI chatbota do postranní lišty aplikace { -brand-short-name } a nechte si rychle zobrazit shrnutí stránek.
+    }
 
 ## Chatbot onboarding choices
 ## These describe features/capabilities of chatbot providers. These are not buttons/actions.
