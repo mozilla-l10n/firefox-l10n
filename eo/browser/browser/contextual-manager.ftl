@@ -152,6 +152,8 @@ contextual-manager-passwords-password-already-exists-error-button = Iri al pasvo
 contextual-manager-passwords-update-password-success-heading =
     .heading = Pasvorto konservita
 contextual-manager-passwords-update-password-success-button = Farita
+contextual-manager-passwords-update-username-success-heading =
+    .heading = Nomo de uzanto konservita
 # Message to confirm successful removal of a password/passwords.
 #   $total (number) - Total number of passwords
 contextual-manager-passwords-delete-password-success-heading =
@@ -197,6 +199,7 @@ contextual-manager-passwords-no-username-heading-and-message =
     .heading = Aldoni nomon de uzanto
     .message = Aldoni nomon de uzanto por pli rapide komenci seancon.
 contextual-manager-passwords-add-username-button = Aldoni nomon de uzanto
+contextual-manager-passwords-title = Pasvortoj
 
 ## Login Form
 

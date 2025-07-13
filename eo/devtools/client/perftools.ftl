@@ -142,6 +142,8 @@ perftools-presets-graphics-label = Grafikoj
 perftools-presets-graphics-description = Rekomendita agordaro por senerarigo de grafikoj en { -brand-shorter-name }.
 perftools-presets-media-label = Aŭdvidaĵo
 perftools-presets-media-description2 = Rekomendita agordaro por senerarigo de sono kaj video en { -brand-shorter-name }.
+perftools-presets-ml-label = Aŭtomata lernado
+perftools-presets-ml-description2 = Agordoj por senerarigo de aŭtomata lernado en { -brand-shorter-name }.
 perftools-presets-networking-label = Reto
 perftools-presets-networking-description = Rekomendita agordaro por esploro de retaj eraroj en { -brand-shorter-name }.
 # "Power" is used in the sense of energy (electricity used by the computer).

@@ -411,6 +411,10 @@ quickactions-cmd-settings2 = agordoj, preferoj, elektebloj, administro
 quickactions-cmd-settings = agordoj, preferoj, elektebloj
 # Opens about:addons page in the themes section
 quickactions-themes = Administri etosojn
+# In English we provide multiple spellings for "add-ons". If that's not
+# applicable to your language, only use the correct spelling (don't repeat the
+# same word).
+quickactions-cmd-themes2 = etosoj, aldonaĵoj
 quickactions-cmd-themes = etosojn
 # Opens a SUMO article explaining how to update the browser
 quickactions-update = Ĝisdatigi { -brand-short-name }
@@ -612,6 +616,10 @@ urlbar-search-mode-indicator-close =
 # engine is unknown.
 urlbar-placeholder =
     .placeholder = Serĉu ion aŭ tajpu adreson
+# This placeholder is used when not in search mode and searching in the urlbar
+# is disabled via the keyword.enabled pref.
+urlbar-placeholder-keyword-disabled =
+    .placeholder = Tajpi adreson
 # This placeholder is used in search mode with search engines that search the
 # entire web.
 # Variables
@@ -754,6 +762,27 @@ urlbar-result-action-calculator-result-decimal = = { NUMBER($result, maximumSign
 #       abbreviation of one of the city's administrative divisions like a
 #       province or state, or it may be the name of the city's country.
 urlbar-result-weather-title = <strong>{ $temperature }°{ $unit }</strong> en { $city }, { $region }
+# The title of a weather suggestion in the urlbar including a region and
+# country. The temperature and unit substring should be inside a <strong> tag.
+# If the temperature and unit are not adjacent in the localization, it's OK to
+# include only the temperature in the tag.
+# Variables:
+#   $temperature (number) - The temperature value
+#   $unit (String) - The unit for the temperature, either "C" or "F"
+#   $city (String) - The name of the city the weather data is for
+#   $region (String) - The name or abbreviation of one of the city's
+#       administrative divisions like a province or state.
+#   $country (String) - The name of the city's country.
+urlbar-result-weather-title-with-country = <strong>{ $temperature }°{ $unit }</strong> en { $city }, { $region }, { $country }
+# The title of a weather suggestion in the urlbar only including the city. The
+# temperature and unit substring should be inside a <strong> tag. If the
+# temperature and unit are not adjacent in the localization, it's OK to include
+# only the temperature in the tag.
+# Variables:
+#   $temperature (number) - The temperature value
+#   $unit (String) - The unit for the temperature, either "C" or "F"
+#   $city (String) - The name of the city the weather data is for
+urlbar-result-weather-title-city-only = <strong>{ $temperature }°{ $unit }</strong> en { $city }
 # Shows the name of the provider of weather data in a weather suggestion in the
 # urlbar.
 # Variables:
@@ -787,6 +816,8 @@ urlbar-searchmode-actions =
     .label = Agoj
 urlbar-searchmode-exit-button =
     .tooltiptext = Fermi
+urlbar-searchmode-default =
+    .tooltiptext = Norma serĉilo
 # Label shown on the top of Searchmode Switcher popup. After this label, the
 # available search engines will be listed.
 urlbar-searchmode-popup-description = Ĉi foje serĉi per:
@@ -1091,6 +1122,8 @@ navbar-accessible =
     .aria-label = Esplorado
 navbar-downloads =
     .label = Elŝutoj
+navbar-overflow-2 =
+    .tooltiptext = Pli da iloj
 navbar-overflow =
     .tooltiptext = Pli da iloj…
 # Variables:
@@ -1284,3 +1317,6 @@ file-picker-crashed-show-in-folder =
 ## Onboarding Finish Setup checklist
 
 onboarding-checklist-button-label = Fini agordadon
+onboarding-aw-finish-setup-button =
+    .label = Fini agordadon
+    .tooltiptext = Fini agordadon de { -brand-short-name }

@@ -170,6 +170,9 @@ profiler-popup-capture-shortcut =
         [macos] ⌃⇧2
        *[other] Stir+Maj+2
     }
+profiler-button-dropmarker =
+    .label = Malfermi la rulanalizilon
+    .tooltiptext = Malfermi la rulanalizilon
 
 ## Profiler presets
 ## They are shown in the popup's select box.
@@ -196,6 +199,9 @@ profiler-popup-presets-graphics-label =
 profiler-popup-presets-media-description2 = Rekomendita agordaro por senerarigo de sono kaj video en { -brand-shorter-name }.
 profiler-popup-presets-media-label =
     .label = Aŭdvidaĵo
+profiler-popup-presets-ml-description = Agordoj por senerarigo de aŭtomata lernado en { -brand-shorter-name }.
+profiler-popup-presets-ml-label =
+    .label = Aŭtomata lernado
 profiler-popup-presets-networking-description = Rekomendita agordaro por esploro de retaj eraroj en { -brand-shorter-name }.
 profiler-popup-presets-networking-label =
     .label = Reto
