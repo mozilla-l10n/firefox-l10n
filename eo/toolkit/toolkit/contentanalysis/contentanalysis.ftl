@@ -42,7 +42,7 @@ contentanalysis-customdisplaystring-description = alŝuto de “{ $filename }”
 contentanalysis-warndialogtitle = Tiu ĉi enhavo povus esti nesekura
 # Variables:
 #   $content - Description of the content being warned about, such as "clipboard" or "aFile.txt"
-contentanalysis-warndialogtext = Via organizo uzas programon kiuj evitas perdon de datumoj kaj ĝi signalis tiun ĉi enhavon kiel nesekuran: { $content }. Ĉu tamen uzi ĝin?
+contentanalysis-warndialogtext = Via organizo uzas programon kiu evitas perdon de datumoj kaj ĝi signalis tiun ĉi enhavon kiel nesekuran: { $content }. Ĉu tamen uzi ĝin?
 contentanalysis-warndialog-response-allow = Uzi enhavon
 contentanalysis-warndialog-response-deny = Nuligi
 contentanalysis-notification-title = Analizo de enhavo
@@ -52,7 +52,7 @@ contentanalysis-notification-title = Analizo de enhavo
 contentanalysis-genericresponse-message = La analizo de enhavo respondis per { $response } al rimedo: { $content }
 # Variables:
 #   $content - Description of the content being blocked, such as "clipboard" or "aFile.txt"
-contentanalysis-block-message = Via organizo uzas programon kiuj evitas perdon de datumoj kaj ĝi blokis tiun ĉi enhavon: { $content }.
+contentanalysis-block-message = Via organizo uzas programon kiu evitas perdon de datumoj kaj ĝi blokis tiun ĉi enhavon: { $content }.
 # Variables:
 #   $agent - The name of the DLP agent doing the analysis
 #   $content - Localized text describing the content being blocked, such as "Paste denied."
