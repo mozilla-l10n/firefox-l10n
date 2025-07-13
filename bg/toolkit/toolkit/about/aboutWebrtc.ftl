@@ -139,6 +139,7 @@ about-webrtc-fold-default-show-msg = Подробности
     .title = Щракнете, за да разширите раздела
 about-webrtc-fold-default-hide-msg = Без подробности
     .title = Щракнете, за да свиете раздела
+about-webrtc-discarded-packets-label = Отхвърлени пакети:
 about-webrtc-decoder-label = Декодер
 about-webrtc-encoder-label = Кодер
 
