@@ -357,6 +357,7 @@ quickactions-downloads2 = Преглед на изтеглените файло�
 quickactions-cmd-downloads = изтегляния
 # Opens about:addons page in the extensions section
 quickactions-extensions = Управление на разширения
+quickactions-cmd-extensions2 = разширения и добавки
 quickactions-cmd-extensions = разширения
 # Opens Firefox View
 quickactions-firefoxview = Отваряне на { -firefoxview-brand-name }

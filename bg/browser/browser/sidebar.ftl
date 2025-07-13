@@ -40,6 +40,7 @@ sidebar-customize-firefox-tools-header =
 sidebar-customize-firefox-settings = Управление на настройките на { -brand-short-name }
 sidebar-vertical-tabs =
     .label = Вертикални раздели
+sidebar-manage-extensions = Управление на разширения
 
 ## Labels for sidebar context menu items
 
