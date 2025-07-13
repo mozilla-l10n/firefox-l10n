@@ -277,9 +277,9 @@ preferences-web-appearance-override-warning2 =
     .message = Tvoj izbor boja nadvladava izgled web stranice.
 # This message contains one link. It can be moved within the sentence as needed
 # to adapt to your language, but should not be changed.
-preferences-web-appearance-footer = Upravljaj temama za { -brand-short-name } u sekciji <a data-l10n-name="themes-link">Dodaci i teme</a>
+preferences-web-appearance-footer = Upravljaj temama za { -brand-short-name } u odjeljku <a data-l10n-name="themes-link">Dodaci i teme</a>
 preferences-contrast-control-header = Kontrola kontrasta
-preferences-contrast-control-description = Web stranice imaju razne prednje i pozadinske boje. Konfiguriraj { -brand-short-name } tako da koristiš iste boje na svim web stranicama radi bolje čitljivosti.
+preferences-contrast-control-description = Web stranice imaju razne prednje i pozadinske boje. Konfiguriraj { -brand-short-name } tako da koristi iste boje na svim web stranicama radi bolje čitljivosti.
 preferences-contrast-control-use-platform-settings =
     .label = Automatski (koristi postavke sustava)
     .accesskey = A
