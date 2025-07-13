@@ -35,3 +35,6 @@ experimental-features-custom-wallpaper-description = Carga o teu propio fondo de
 # Link Previews with AI
 experimental-features-link-previews =
     .label = Vistas previas de ligazóns
+# New Tab Sections with follow and block
+experimental-features-newtab-sections-follow-block =
+    .label = Seccións temáticas e Seguir/Bloquear para historias en novas pestanas

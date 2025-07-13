@@ -18,6 +18,9 @@ cert-error-trust-signature-algorithm-disabled = O certificado non é fiábel por
 cert-error-trust-expired-issuer = O certificado non é fiábel porque o certificado emisor caducou.
 cert-error-trust-self-signed = O certificado non é fiábel porque está autoasinado.
 cert-error-trust-symantec = Os certificados emitidos por GeoTrust, RapidSSL, Symantec, Thawte e VeriSign xa non se consideran seguros porque estas entidades de acreditación, no pasado, non cumpriron coas prácticas de seguranza.
+# Variables:
+#   $hostname (string) - Hostname of the website with cert error.
+cert-error-trust-certificate-transparency = { -brand-short-name } non confía en { $hostname } porque non puido demostrar que cumpre os requisitos de transparencia dos certificados públicos.
 cert-error-untrusted-default = O certificado non procede dunha fonte fiábel.
 # Variables:
 #   $hostname (string) - Hostname of the website with cert error.
@@ -73,6 +76,9 @@ fp-certerror-return-to-previous-page-recommended-button = Retroceder (recomendad
 # Variables:
 #   $error (string) - NSS error code string that specifies type of cert error. e.g. unknown issuer, invalid cert, etc.
 fp-cert-error-code = Código de erro: { $error }
+fp-learn-more-about-secure-connection-failures = Obtén máis información sobre os erros de conexión segura
+fp-learn-more-about-cert-issues = Obtén máis información sobre este tipo de problemas de certificados
+fp-learn-more-about-time-related-errors = Obtén máis información sobre a resolución de erros relacionados co tempo
 
 ## Variables:
 ##   $hostname (string) - Hostname of the website with cert error.
@@ -85,6 +91,7 @@ deniedPortAccess-title = Este enderezo está restrinxido
 # "Hmm" is a sound made when considering or puzzling over something.
 # You don't have to include it in your translation if your language does not have a written word like this.
 dnsNotFound-title = Estamos tendo problemas para atopar ese sitio.
+internet-connection-offline-title = Parece que hai un problema coa túa conexión a Internet.
 dns-not-found-trr-only-title2 = Posíbel risco de seguridade buscando este dominio
 dns-not-found-native-fallback-title2 = Posíbel risco de seguridade buscando este dominio
 fileNotFound-title = Non se atopou o ficheiro
@@ -101,6 +108,8 @@ contentEncodingError-title = Erro de codificación do contido
 unsafeContentType-title = Tipo de ficheiro inseguro
 netReset-title = Reiniciouse a conexión
 netTimeout-title = A conexión esgotou o tempo
+httpErrorPage-title = Parece que hai un problema con este sitio
+serverError-title = Parece que hai un problema con este sitio
 unknownProtocolFound-title = Non se entendeu o enderezo
 proxyConnectFailure-title = O servidor proxy está a rexeitar as conexións
 proxyResolveFailure-title = Non é posíbel atopar o servidor proxy
@@ -120,6 +129,7 @@ certerror-mitm-title = O software impide que { -brand-short-name } se conecte de
 
 ## Felt Privacy V1 Strings
 
+fp-certerror-page-title = Aviso: Risco de seguridade
 fp-certerror-advanced-title = Avanzado
 fp-certerror-advanced-button = Avanzado
 fp-certerror-hide-advanced-button = Ocultar avanzado
