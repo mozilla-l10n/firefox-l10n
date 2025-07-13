@@ -3,7 +3,7 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 page-title = Informoj por solvado de problemoj
-page-subtitle = Tiu ĉi paĝo enhavas teĥnikajn informojn kiuj povas esti utilaj kiam vi klopodas solvi problemon. Se vi serĉas respondojn al oftaj demandoj pri  { -brand-short-name }, bonvolu viziti nian <a data-l10n-name="support-link">helporetejon</a>.
+page-subtitle = Tiu ĉi paĝo enhavas teknikajn informojn kiuj povas esti utilaj kiam vi klopodas solvi problemon. Se vi serĉas respondojn al oftaj demandoj pri  { -brand-short-name }, bonvolu viziti nian <a data-l10n-name="support-link">helporetejon</a>.
 crashes-title = Raportoj pri paneoj
 crashes-id = Identigilo de raporto
 crashes-send-date = Sendita

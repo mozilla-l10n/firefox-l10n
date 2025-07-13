@@ -104,7 +104,7 @@ security-view-privacy-viewpasswords =
     .label = Vidi konservitajn pasvortojn
     .accesskey = v
 security-view-technical =
-    .value = Teĥnikaj detaloj
+    .value = Teknikaj detaloj
 help-button =
     .label = Helpo
 
