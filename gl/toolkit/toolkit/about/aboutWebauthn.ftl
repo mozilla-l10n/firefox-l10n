@@ -48,6 +48,7 @@ about-webauthn-results-pin-blocked-error = Erro: non che quedan intentos e o teu
 about-webauthn-results-pin-not-set-error = Erro: PIN non definido. Esta operación necesita protección mediante PIN.
 about-webauthn-results-pin-too-short-error = Erro: o PIN proporcionado é demasiado curto.
 about-webauthn-results-pin-too-long-error = Erro: o PIN proporcionado é demasiado longo.
+about-webauthn-results-pin-auth-blocked-error = Erro: Houbo demasiados intentos errados seguidos e bloqueouse temporalmente a autenticación de PIN. O teu dispositivo necesita un ciclo de acendido (desconéctao e volve conectalo).
 about-webauthn-results-cancelled-by-user-error = Erro: A operación cancelouse polo usuario.
 
 ## Labels
@@ -138,6 +139,16 @@ about-webauthn-auth-info-null = Non soportado
 
 ## Bio enrollment sample feedbacks
 
+# To register a new enrollment (e.g. fingerprint) usually
+# multiple scans of the same finger have to be sampled.
+# This shows how many the user still has to do.
+# Variables:
+#  $repeatCount (Number): number of tries left
+about-webauthn-samples-still-needed =
+    { $repeatCount ->
+        [one] Aínda se necesita { $repeatCount } mostra.
+       *[other] Aínda se necesitan { $repeatCount } mostras.
+    }
 # Scan (e.g. of fingerprint) was successful.
 about-webauthn-ctap2-enroll-feedback-good = A mostra foi boa.
 
