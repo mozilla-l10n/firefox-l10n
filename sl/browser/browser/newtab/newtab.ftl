@@ -505,6 +505,8 @@ newtab-topic-selection-button-pick-interests = Izberite svoja zanimanja
 newtab-section-follow-button = Sledi
 newtab-section-following-button = Sledite
 newtab-section-unfollow-button = Nehaj slediti
+# A modal may appear next to the Follow button, directing users to try out the feature
+newtab-section-follow-highlight-title = Prilagodite si vir
 newtab-section-follow-highlight-subtitle = Sledite svojim zanimanjem in dobivajte več vsebine, ki vam je všeč.
 
 ## Button to block/unblock listed topics
@@ -550,6 +552,8 @@ newtab-download-mobile-highlight-image =
 
 ## Strings for shortcuts highlight
 
+newtab-shortcuts-highlight-title = Vaša priljubljena mesta na dosegu roke
+newtab-shortcuts-highlight-subtitle = Dodajte bližnjico in obdržite priljubljena spletna mesta le klik stran.
 
 ## Strings for reporting ads and content
 
@@ -584,3 +588,5 @@ newtab-trending-searches-hide-trending =
     .title = Skrij trenutno priljubljena iskanja
 newtab-trending-searches-learn-more = Več o tem
 newtab-trending-searches-dismiss = Skrij trenutno priljubljena iskanja
+# "Trending searches refers to popular searches from search engines
+newtab-trending-searches-title = Trenutno iskano

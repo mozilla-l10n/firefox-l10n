@@ -125,6 +125,8 @@ perftools-presets-graphics-label = Grafika
 perftools-presets-graphics-description = Prednastavitev za preiskovanje napak grafike v { -brand-shorter-name(sklon: "mestnik") }
 perftools-presets-media-label = Predstavnost
 perftools-presets-media-description2 = Prednastavitev za preiskovanje napak zvoka in videa v { -brand-shorter-name(sklon: "mestnik") }.
+perftools-presets-ml-label = Strojno učenje
+perftools-presets-ml-description2 = Prednastavitev za preiskovanje napak v strojnem učenju v { -brand-shorter-name(sklon: "mestnik") }.
 perftools-presets-networking-label = Omrežje
 perftools-presets-networking-description = Prednastavitev za preiskovanje napak v delovanju omrežja v { -brand-shorter-name(sklon: "mestnik") }
 # "Power" is used in the sense of energy (electricity used by the computer).

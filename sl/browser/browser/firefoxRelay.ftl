@@ -72,6 +72,7 @@ firefox-relay-and-fxa-opt-in-confirmation-enable-button-basic-info =
 
 firefox-relay-and-fxa-popup-notification-header-with-domain = Pridobite brezplačno e-poštno masko
 firefox-relay-and-fxa-popup-notification-first-sentence-with-domain = Zaščitite svoj nabiralnik pred neželeno pošto z brezplačno <label data-l10n-name="firefox-relay-learn-more-url">masko e-pošte</label>, ki skrije vaš pravi naslov. E-poštna sporočila s <label data-l10n-name="firefox-fxa-and-relay-offer-domain">tega spletnega mesta</label> bodo še vedno prihajala v vaš nabiralnik, vendar bo vaš e-poštni naslov skrit.
+firefox-relay-and-fxa-popup-notification-first-sentence = Zaščitite svoj nabiralnik pred neželeno pošto z brezplačno <label data-l10n-name="firefox-relay-learn-more-url">masko e-pošte { -relay-brand-name }</label>, ki skrije vaš pravi naslov. E-poštna sporočila s <label data-l10n-name="firefox-fxa-and-relay-offer-domain">tega spletnega mesta</label> bodo še vedno prihajala v vaš nabiralnik, vendar bo vaš e-poštni naslov skrit.
 firefox-relay-and-fxa-popup-notification-second-sentence-with-domain = Najprej se registrirajte ali prijavite v svoj račun za uporabo maske e-pošte
 firefox-relay-and-fxa-opt-in-confirmation-enable-button-with-domain =
     .label = Registracija

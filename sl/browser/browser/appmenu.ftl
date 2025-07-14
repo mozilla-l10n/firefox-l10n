@@ -170,6 +170,9 @@ profiler-popup-capture-shortcut =
         [macos] ⌃⇧2
        *[other] Ctrl+Shift+2
     }
+profiler-button-dropmarker =
+    .label = Odpri ploščo za spremljanje delovanja
+    .tooltiptext = Odpri ploščo za spremljanje delovanja
 
 ## Profiler presets
 ## They are shown in the popup's select box.
@@ -196,6 +199,9 @@ profiler-popup-presets-graphics-label =
 profiler-popup-presets-media-description2 = Prednastavitev za preiskovanje napak zvoka in videa v { -brand-shorter-name(sklon: "mestnik") }.
 profiler-popup-presets-media-label =
     .label = Predstavnost
+profiler-popup-presets-ml-description = Prednastavitev za preiskovanje napak pri strojnem učenju v { -brand-shorter-name(sklon: "mestnik") }.
+profiler-popup-presets-ml-label =
+    .label = Strojno učenje
 profiler-popup-presets-networking-description = Prednastavitev za preiskovanje napak v delovanju omrežja v { -brand-shorter-name(sklon: "mestnik") }
 profiler-popup-presets-networking-label =
     .label = Omrežno povezovanje

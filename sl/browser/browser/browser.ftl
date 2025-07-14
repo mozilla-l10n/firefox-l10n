@@ -363,6 +363,7 @@ quickactions-downloads2 = Prikaži prenose
 quickactions-cmd-downloads = prenosi
 # Opens about:addons page in the extensions section
 quickactions-extensions = Upravljanje razširitev
+quickactions-cmd-extensions2 = razširitve, dodatki, vtičniki, vstavki
 quickactions-cmd-extensions = razširitve
 # Opens Firefox View
 quickactions-firefoxview = Odpri { -firefoxview-brand-name }
@@ -410,6 +411,10 @@ quickactions-cmd-settings2 = nastavitve, možnosti, upravljanje
 quickactions-cmd-settings = nastavitve, možnosti
 # Opens about:addons page in the themes section
 quickactions-themes = Upravljanje tem
+# In English we provide multiple spellings for "add-ons". If that's not
+# applicable to your language, only use the correct spelling (don't repeat the
+# same word).
+quickactions-cmd-themes2 = teme, dodatki, vstavki
 quickactions-cmd-themes = teme
 # Opens a SUMO article explaining how to update the browser
 quickactions-update = Posodobi { -brand-short-name }
@@ -822,6 +827,8 @@ urlbar-searchmode-actions =
     .label = Dejanja
 urlbar-searchmode-exit-button =
     .tooltiptext = Zapri
+urlbar-searchmode-default =
+    .tooltiptext = Privzeti iskalnik
 # Label shown on the top of Searchmode Switcher popup. After this label, the
 # available search engines will be listed.
 urlbar-searchmode-popup-description = Tokrat išči z iskalnikom:

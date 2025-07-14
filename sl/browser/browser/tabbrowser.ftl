@@ -315,6 +315,8 @@ tab-context-move-tab-to-group =
            *[other] Dodaj zavihke k skupini
         }
     .accesskey = s
+tab-context-move-tab-to-group-saved-groups =
+    .label = Zaprte skupine
 tab-group-editor-action-new-tab =
     .label = Nov zavihek v skupini
 tab-group-editor-action-new-window =
