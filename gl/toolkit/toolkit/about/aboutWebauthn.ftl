@@ -87,9 +87,13 @@ about-webauthn-auth-option-rk = Chave residente
 about-webauthn-auth-option-plat = Dispositivo de plataforma
 # pinUvAuthToken should not be translated.
 about-webauthn-auth-option-pinuvauthtoken = Permisos de comando (pinUvAuthToken)
+# MakeCredential and GetAssertion should not be translated.
+about-webauthn-auth-option-nomcgapermissionswithclientpin = Sen permisos MakeCredential/GetAssertion con PIN de cliente
 about-webauthn-auth-option-largeblobs = Blobs grandes
 about-webauthn-auth-option-ep = Certificación empresarial
 about-webauthn-auth-option-bioenroll = Rexistro biométrico
+# FIDO_2_1_PRE should not be translated.
+about-webauthn-auth-option-userverificationmgmtpreview = Prototipo de rexistro biométrico (FIDO_2_1_PRE)
 about-webauthn-auth-option-uvbioenroll = Permiso de rexistro biométrico
 about-webauthn-auth-option-authnrcfg = Configuración do autenticador
 about-webauthn-auth-option-uvacfg = Permiso de configuración do autenticador
