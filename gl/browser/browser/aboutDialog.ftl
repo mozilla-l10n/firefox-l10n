@@ -47,10 +47,10 @@ aboutdialog-channel-description = Actualmente está usando a canle de actualizac
 warningDesc-version = { -brand-short-name } é experimental e pode ser inestábel.
 aboutdialog-help-user = Axuda do { -brand-product-name }
 aboutdialog-submit-feedback = Enviar opinión
-community-exp = <label data-l10n-name="community-exp-mozillaLink">{ -vendor-short-name }</label> é unha <label data-l10n-name="community-exp-creditsLink">comunidade global</label> traballando unida para manter a Web aberta, pública e accesíbel para todos.
-community-2 = { -brand-short-name } está deseñado por <label data-l10n-name="community-mozillaLink">{ -vendor-short-name }</label>, unha <label data-l10n-name="community-creditsLink">comunidade global</label> traballando unida para manter a Web aberta, pública e accesíbel para todos.
+community-exp = <label data-l10n-name="community-exp-mozillaLink">{ -vendor-short-name }</label> é unha <label data-l10n-name="community-exp-creditsLink">comunidade global</label> que traballa unida para manter a web aberta, pública e accesible para todos.
+community-2 = { -brand-short-name } está deseñado por <label data-l10n-name="community-mozillaLink">{ -vendor-short-name }</label>, unha <label data-l10n-name="community-creditsLink">comunidade global</label> que traballa unida para manter a Web aberta, pública e accesible para todos.
 helpus = Queres axudar? <label data-l10n-name="helpus-donateLink">Fai unha doazón</label> ou <label data-l10n-name="helpus-getInvolvedLink">involúcrate!</label>
-bottomLinks-license = Información de licenciamento
+bottomLinks-license = Información de licenza
 bottom-links-terms = Temos de uso
 bottom-links-privacy = Política de privacidade
 bottomLinks-rights = Dereitos do usuario final
