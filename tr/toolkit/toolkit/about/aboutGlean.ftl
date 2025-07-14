@@ -73,6 +73,12 @@ about-glean-label-for-ping-names =
 about-glean-label-for-log-pings =
     (İsteğe bağlı. Ping’ler gönderilince aynı zamanda günlüğe de kaydedilmesini istiyorsanız yandaki kutuyu işaretleyin.
     Bunun için <a data-l10n-name="enable-logging-link">günlük tutulmasını da etkinleştirmeniz</a> gerekiyor.)
+# Variables
+#   $debug-tag (String): The user-set value of the debug tag input on this page. Like "about-glean-kV"
+# An in-line button labeled "Apply settings and submit ping" precedes this string.
+about-glean-label-for-controls-submit =
+    Önceki düğmeye basarak tüm { -glean-brand-name } ping’lerini kendi etiketinizle işaretleyebilir ve seçili ping’i gönderebilirsiniz.
+    (Bundan sonra uygulamayı yeniden başlatana kadar gönderilen tüm ping’ler <code>{ $debug-tag }</code> etiketiyle işaretlenecektir.)
 # Do not translate strings between <code> </code> tags.
 about-glean-adhoc-note =
     Geliştirici araçları konsolunda Glean JS API’sinin çalıştığını unutmayın.
