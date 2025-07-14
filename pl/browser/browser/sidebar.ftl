@@ -102,6 +102,8 @@ sidebar-context-menu-close-remote-tab =
     .label = Zamknij kartę na „{ $deviceName }”
 sidebar-context-menu-remove-extension2 =
     .label = Usuń z { -brand-short-name(case: "gen") }
+sidebar-context-menu-unpin-extension =
+    .label = Usuń z panelu bocznego
 
 ## Labels for sidebar history context menu items
 
@@ -124,6 +126,8 @@ sidebar-menu-customize-label =
     .label = Dostosuj panel boczny
 sidebar-menu-contextual-password-manager-label =
     .label = Hasła
+sidebar-menu-more-tools-label =
+    .label = Więcej narzędzi
 
 ## Tooltips for sidebar menu items.
 

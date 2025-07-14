@@ -97,6 +97,11 @@ bookmarks-toolbar-callout-2b-secondary-button-label = Nie, dziękuję
 
 ## Account Adoption Passwords callout strings
 
+# Suggestion to backup passwords by signing up for Mozilla account and using sync
+fxa-adoption-passwords-title = Zachowano hasło. Zróbmy teraz jego kopię zapasową.
+fxa-adoption-passwords-subtitle = Chroń swoje hasła, synchronizując je ze swoimi urządzeniami za pomocą szyfrowania.
+# Opens Mozilla accounts sign-up page
+fxa-adoption-passwords-primary-button-label = Utwórz konto
 
 ## Sidebar Strings
 
@@ -121,6 +126,14 @@ sidebar-pins-callout-cta-button = Przypnij kartę
 
 ## Pinning Tabs Strings
 
+pin-tabs-callout-1-title = Trzymaj ważne karty w zasięgu ręki
+pin-tabs-callout-1-subtitle = Przeciągnij kartę na początek paska kart, aby ją przypiąć. Albo kliknij prawym przyciskiem myszy i wybierz „Przypnij kartę”.
+pin-tabs-callout-cta-1-button = Przypnij tę kartę
+pin-tabs-callout-2-title = Przypnij karty, które odwiedzasz najczęściej
+pin-tabs-callout-2-subtitle = Aby przypiąć dowolną kartę, przeciągnij ją na początek paska kart. Albo kliknij prawym przyciskiem myszy i wybierz „Przypnij kartę”.
+pin-tabs-callout-cta-2-button = Przypnij tę kartę
+pin-tabs-callout-3-title = Trzymaj ważne witryny w zasięgu ręki
+pin-tabs-callout-4-title = Przypnij witryny, które odwiedzasz najczęściej
 
 ## Sidebar Onboarding Strings
 
