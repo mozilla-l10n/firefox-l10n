@@ -73,6 +73,13 @@ open-in-new-window-for-csp-or-xfo-error = Abrir sitio nunha xanela nova
 csp-xfo-blocked-long-desc = Para protexer a súa seguridade, { $hostname } non permitirá que { -brand-short-name } amose a páxina se outro sitio a incrustou. Para ver esta páxina, é preciso abrila nunha xanela nova.
 fp-certerror-view-certificate-link = Ver o certificado do sitio
 fp-certerror-return-to-previous-page-recommended-button = Retroceder (recomendado)
+# This string appears after the following string: "What makes the site look dangerous?" (fp-certerror-why-site-dangerous)
+# Variables:
+#   $hostname (String) - Hostname of the website to which the user was trying to connect.
+#   $validHosts (String) - Valid hostnames.
+fp-certerror-bad-domain-why-dangerous-body = O sitio está configurado para permitir só conexións seguras, pero hai un problema co certificado do sitio. É posible que un mal actor intente suplantar o sitio. Os sitios usan certificados emitidos por unha autoridade de certificación para demostrar que son realmente quen din ser. { -brand-short-name } non confía neste sitio porque o seu certificado non é válido para { $hostname }. O certificado só é válido para: { $validHosts }.
+# This string appears after the following string: "What can you do about it?" (fp-certerror-what-can-you-do)
+fp-certerror-bad-domain-what-can-you-do-body = Probablemente nada, xa que é probable que haxa un problema co propio sitio. Os sitios usan certificados emitidos por unha autoridade de certificación para demostrar que son realmente quen din ser. Pero se estás nunha rede corporativa, o teu equipo de soporte pode ter máis información. Se estás a usar software antivirus, proba a buscar posibles conflitos ou problemas coñecidos.
 # This string appears after the following string: "What can you do about it?" (fp-certerror-what-can-you-do)
 fp-certerror-self-signed-what-can-you-do-body = Non moito. É probable que haxa un problema co propio sitio.
 fp-certerror-self-signed-important-note = NOTA IMPORTANTE: Se estás tentando visitar este sitio nunha intranet corporativa, o teu persoal de TI pode utilizar certificados autoasinados. Poden axudarche a comprobar a súa autenticidade.

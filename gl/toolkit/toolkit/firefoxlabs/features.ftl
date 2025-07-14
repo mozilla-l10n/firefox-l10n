@@ -36,6 +36,18 @@ experimental-features-custom-wallpaper-description = Carga o teu propio fondo de
 # Link Previews with AI
 experimental-features-link-previews =
     .label = Vistas previas de ligazóns
+experimental-features-link-previews-description =
+    { PLATFORM() ->
+        [macos] Para obter máis información sobre unha páxina web antes de facer clic, pasa o rato sobre unha ligazón e preme Maiús (⇧) máis Opción (⌥) ou Alt. As vistas previas poden incluír detalles como o título e o tempo de lectura. Para algunhas páxinas web, a IA tamén pode ler o texto da páxina e xerar puntos clave. A IA está optimizada para ler e xerar texto en inglés. Para priorizar a túa privacidade, a IA execútase localmente no teu ordenador. <a data-l10n-name="connect">Compartir comentarios</a>
+       *[other] Para obter máis información sobre unha páxina web antes de facer clic, pasa o rato sobre unha ligazón e preme Maiús + Alt. As vistas previas poden incluír detalles como o título e o tempo de lectura. Para algunhas páxinas web, a IA tamén pode ler o texto da páxina e xerar puntos clave. A IA está optimizada para ler e xerar texto en inglés. Para priorizar a túa privacidade, a IA execútase localmente no teu ordenador. <a data-l10n-name="connect">Compartir comentarios</a>
+    }
+# This version of the link previews description does not mention AI.
+experimental-features-link-previews-description-no-ai =
+    { PLATFORM() ->
+        [macos] Para obter máis información sobre unha páxina web antes de facer clic, pasa o rato sobre unha ligazón e preme Maiús (⇧) máis Opción (⌥) ou Alt. As vistas previas poden incluír detalles como o título e o tempo de lectura. <a data-l10n-name="connect">Compartir comentarios</a>
+       *[other] Para obter máis información sobre unha páxina web antes de facer clic, pasa o rato sobre unha ligazón e preme Maiús + Alt. As vistas previas poden incluír detalles como o título e o tempo de lectura. <a data-l10n-name="connect">Compartir comentarios</a>
+    }
 # New Tab Sections with follow and block
 experimental-features-newtab-sections-follow-block =
     .label = Seccións temáticas e Seguir/Bloquear para historias en novas pestanas
+experimental-features-newtab-sections-follow-block-description = Organiza as historias na túa páxina de nova pestana en seccións temáticas (deportes, gastronomía, lecer e moito máis) para obter unha experiencia máis estruturada e fácil de escanear. Usa os nosos novos controis «Seguir e bloquear» para personalizar o contido que ves. <a data-l10n-name="connect">Compartir comentarios</a>
