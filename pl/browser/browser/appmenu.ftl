@@ -170,6 +170,9 @@ profiler-popup-capture-shortcut =
         [macos] ⌃⇧2
        *[other] Ctrl+Shift+2
     }
+profiler-button-dropmarker =
+    .label = Otwórz panel profilera
+    .tooltiptext = Otwórz panel profilera
 
 ## Profiler presets
 ## They are shown in the popup's select box.
@@ -196,6 +199,9 @@ profiler-popup-presets-graphics-label =
 profiler-popup-presets-media-description2 = Ustawienie do badania błędów dźwięku i obrazu w { -brand-shorter-name(case: "loc") }.
 profiler-popup-presets-media-label =
     .label = Multimedia
+profiler-popup-presets-ml-description = Ustawienie do badania błędów uczenia maszynowego w { -brand-shorter-name(case: "loc") }.
+profiler-popup-presets-ml-label =
+    .label = Uczenie maszynowe
 profiler-popup-presets-networking-description = Ustawienie do badania błędów sieciowych w { -brand-shorter-name(case: "loc") }.
 profiler-popup-presets-networking-label =
     .label = Sieć
