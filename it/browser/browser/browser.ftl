@@ -1320,4 +1320,3 @@ onboarding-checklist-button-label = Completa la configurazione
 onboarding-aw-finish-setup-button =
     .label = Completa configurazione
     .tooltiptext = Completa la configurazione di { -brand-short-name }
-

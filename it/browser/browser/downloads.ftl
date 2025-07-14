@@ -243,4 +243,3 @@ downloads-error-generic =
     Si è verificato un errore sconosciuto e il download non è stato salvato.
     
     Si consiglia di ritentare.
-

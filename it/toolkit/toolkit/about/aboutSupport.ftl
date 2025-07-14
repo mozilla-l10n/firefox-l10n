@@ -455,4 +455,3 @@ content-analysis-connected-to-agent = Connesso all’agente
 content-analysis-agent-path = Percorso agente
 content-analysis-agent-failed-signature-verification = Verifica firma dell’agente non riuscita
 content-analysis-request-count = Numero richieste
-

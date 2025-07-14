@@ -92,4 +92,3 @@ toolbar-context-menu-bookmarks-show-other-bookmarks =
 toolbar-context-menu-menu-bar-cmd =
     .toolbarname = Barra dei menu
     .accesskey = m
-
