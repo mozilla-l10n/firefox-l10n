@@ -149,6 +149,8 @@ perftools-presets-graphics-label = Grafika
 perftools-presets-graphics-description = Ustawienie do badania błędów graficznych w { -brand-shorter-name(case: "loc") }.
 perftools-presets-media-label = Multimedia
 perftools-presets-media-description2 = Ustawienie do badania błędów dźwięku i obrazu w { -brand-shorter-name(case: "loc") }.
+perftools-presets-ml-label = Uczenie maszynowe
+perftools-presets-ml-description2 = Ustawienie do badania błędów uczenia maszynowego w { -brand-shorter-name(case: "loc") }.
 perftools-presets-networking-label = Sieć
 perftools-presets-networking-description = Ustawienie do badania błędów sieciowych w { -brand-shorter-name(case: "loc") }.
 # "Power" is used in the sense of energy (electricity used by the computer).
