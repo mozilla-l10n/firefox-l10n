@@ -80,9 +80,27 @@ fp-certerror-return-to-previous-page-recommended-button = Retroceder (recomendad
 fp-certerror-bad-domain-why-dangerous-body = O sitio está configurado para permitir só conexións seguras, pero hai un problema co certificado do sitio. É posible que un mal actor intente suplantar o sitio. Os sitios usan certificados emitidos por unha autoridade de certificación para demostrar que son realmente quen din ser. { -brand-short-name } non confía neste sitio porque o seu certificado non é válido para { $hostname }. O certificado só é válido para: { $validHosts }.
 # This string appears after the following string: "What can you do about it?" (fp-certerror-what-can-you-do)
 fp-certerror-bad-domain-what-can-you-do-body = Probablemente nada, xa que é probable que haxa un problema co propio sitio. Os sitios usan certificados emitidos por unha autoridade de certificación para demostrar que son realmente quen din ser. Pero se estás nunha rede corporativa, o teu equipo de soporte pode ter máis información. Se estás a usar software antivirus, proba a buscar posibles conflitos ou problemas coñecidos.
+# This string appears after the following string: "What makes the site look dangerous?" (fp-certerror-why-site-dangerous)
+fp-certerror-unknown-issuer-why-dangerous-body = Hai un problema co certificado do sitio. É posible que un mal actor intente suplantar o sitio. Os sitios usan certificados emitidos por unha autoridade de certificación para demostrar que son realmente quen din ser. { -brand-short-name } non confía neste sitio porque non podemos saber quen emitiu o certificado, está asinado por si mesmo ou o sitio non está a enviar certificados intermedios nos que confiamos.
+# This string appears after the following string: "What can you do about it?" (fp-certerror-what-can-you-do)
+fp-certerror-unknown-issuer-what-can-you-do-body = Probablemente nada, xa que é probable que haxa un problema co propio sitio. Pero se estás nunha rede corporativa, o teu equipo de soporte pode ter máis información. Se estás a usar software antivirus, é posible que teñas que configurarlo para funcionar con { -brand-short-name }.
+# This string appears after the following string: "What makes the site look dangerous?" (fp-certerror-why-site-dangerous)
+fp-certerror-self-signed-why-dangerous-body = Porque hai un problema co certificado do sitio. Os sitios usan certificados emitidos por unha autoridade de certificación para demostrar que son realmente quen din ser. O certificado deste sitio está asinado por si mesmo. Non se emitiu por unha autoridade de certificación recoñecida, polo que non confiamos nel por defecto.
 # This string appears after the following string: "What can you do about it?" (fp-certerror-what-can-you-do)
 fp-certerror-self-signed-what-can-you-do-body = Non moito. É probable que haxa un problema co propio sitio.
 fp-certerror-self-signed-important-note = NOTA IMPORTANTE: Se estás tentando visitar este sitio nunha intranet corporativa, o teu persoal de TI pode utilizar certificados autoasinados. Poden axudarche a comprobar a súa autenticidade.
+# This string appears after the following string: "What makes the site look dangerous?" (fp-certerror-why-site-dangerous)
+# Variables:
+#   $date (Date) - Certificate expiration date.
+fp-certerror-expired-why-dangerous-body = Os sitios usan certificados emitidos por unha autoridade de certificación para demostrar que son realmente quen din ser. { -brand-short-name } non confía neste sitio porque parece que o certificado caducou o { DATETIME($date, day: "numeric", month: "numeric", year: "numeric") }.
+# This string appears after the following string: "What makes the site look dangerous?" (fp-certerror-why-site-dangerous)
+# Variables:
+#   $date (Date) - Certificate start date.
+fp-certerror-not-yet-valid-why-dangerous-body = Os sitios usan certificados emitidos por unha autoridade de certificación para demostrar que son realmente quen din ser. { -brand-short-name } non confía neste sitio porque parece que o certificado non será válido ata o { DATETIME($date, day: "numeric", month: "numeric", year: "numeric") }.
+# This string appears after the following string: "What can you do about it?" (fp-certerror-what-can-you-do)
+# Variables:
+#   $date (Date) - Clock date.
+fp-certerror-expired-what-can-you-do-body = O reloxo do teu dispositivo está configurado como { DATETIME($date, day: "numeric", month: "numeric", year: "numeric") }. Se isto é correcto, o problema de seguranza probablemente estea no propio sitio. Se está mal, podes cambialo na configuración do sistema do teu dispositivo.
 # Variables:
 #   $error (string) - NSS error code string that specifies type of cert error. e.g. unknown issuer, invalid cert, etc.
 fp-cert-error-code = Código de erro: { $error }
