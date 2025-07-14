@@ -94,6 +94,17 @@ cert-error-bad-signature = { -brand-short-name } bloqueou a túa visita a este s
 cert-error-key-pinning-failure = { -brand-short-name } bloqueou a túa visita a este sitio porque o certificado proporcionado para { $hostname } usa unha chave pública diferente á esperada.
 cert-error-bad-der = { -brand-short-name } bloqueou a túa visita a este sitio porque o certificado proporcionado para { $hostname } non está codificado correctamente.
 cert-error-cert-not-in-name-space = { -brand-short-name } bloqueou a túa visita a este sitio porque o certificado proporcionado para { $hostname } non segue as restricións de nome dun certificado que o emitiu.
+cert-error-inadequate-cert-type = { -brand-short-name } bloqueou a túa visita a este sitio porque o certificado proporcionado para { $hostname } non pode ser usado por un servidor web.
+cert-error-path-len-constraint-invalid = { -brand-short-name } bloqueou a túa visita a este sitio porque o certificado proporcionado para { $hostname } ten demasiados certificados intermedios na ruta do certificado raíz.
+cert-error-invalid-key = { -brand-short-name } bloqueou a túa visita a este sitio porque o certificado proporcionado para { $hostname } ten unha chave non válida. Probablemente é demasiado pequena para ser segura.
+cert-error-unknown-critical-extension = { -brand-short-name } bloqueou a túa visita a este sitio porque o certificado proporcionado para { $hostname } contén unha extensión crítica non compatible.
+cert-error-extension-value-invalid = { -brand-short-name } bloqueou a túa visita a este sitio porque a sinatura do certificado proporcionado para { $hostname } non é válida.
+cert-error-untrusted-issuer = { -brand-short-name } bloqueou a túa visita a este sitio porque o certificado proporcionado para { $hostname } emitiuse por unha autoridade de certificación que xa non é confiable.
+cert-error-untrusted-cert = { -brand-short-name } bloqueou a túa visita a este sitio porque o certificado proporcionado para { $hostname } está marcado como non confiable.
+cert-error-invalid-integer-encoding = { -brand-short-name } bloqueou a túa visita a este sitio porque o certificado proporcionado para { $hostname } contén unha codificación non válida dun número enteiro. As causas comúns inclúen números de serie negativos, módulos RSA negativos e codificacións máis longas do necesarias.
+cert-error-unsupported-keyalg = { -brand-short-name } bloqueou a túa visita a este sitio porque o certificado proporcionado para { $hostname } ten un tipo de chave non compatible.
+cert-error-issuer-no-longer-trusted = { -brand-short-name } bloqueou a túa visita a este sitio porque xa non se confía na autoridade de certificación que emitiu o certificado proporcionado para { $hostname }.
+cert-error-signature-algorithm-mismatch = { -brand-short-name } bloqueou a túa visita a este sitio porque o algoritmo de sinatura do certificado proporcionado para { $hostname } non coincide co seu campo de algoritmo de sinatura.
 
 ## Messages used for certificate error titles
 
@@ -141,6 +152,9 @@ certerror-mitm-title = O software impide que { -brand-short-name } se conecte de
 ## Felt Privacy V1 Strings
 
 fp-certerror-page-title = Aviso: Risco de seguridade
+fp-certerror-body-title = Ten coidado. Algo non parece estar ben.
+fp-certerror-why-site-dangerous = Que fai que o sitio pareza perigoso?
+fp-certerror-what-can-you-do = Que podes facer ao respecto?
 fp-certerror-advanced-title = Avanzado
 fp-certerror-advanced-button = Avanzado
 fp-certerror-hide-advanced-button = Ocultar avanzado
@@ -149,3 +163,4 @@ fp-certerror-hide-advanced-button = Ocultar avanzado
 ##   $hostname (String) - Hostname of the website to which the user was trying to connect.
 
 fp-certerror-override-exception-button = Continuar a { $hostname } (arriscado)
+fp-certerror-intro = { -brand-short-name } detectou un problema de seguranza potencialmente grave con <strong>{ $hostname }</strong>. Alguén que se faga pasar polo sitio podería tentar roubar cousas como información de tarxetas de crédito, contrasinais ou correos electrónicos.
