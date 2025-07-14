@@ -73,9 +73,15 @@ open-in-new-window-for-csp-or-xfo-error = Abrir sitio nunha xanela nova
 csp-xfo-blocked-long-desc = Para protexer a súa seguridade, { $hostname } non permitirá que { -brand-short-name } amose a páxina se outro sitio a incrustou. Para ver esta páxina, é preciso abrila nunha xanela nova.
 fp-certerror-view-certificate-link = Ver o certificado do sitio
 fp-certerror-return-to-previous-page-recommended-button = Retroceder (recomendado)
+# This string appears after the following string: "What can you do about it?" (fp-certerror-what-can-you-do)
+fp-certerror-self-signed-what-can-you-do-body = Non moito. É probable que haxa un problema co propio sitio.
+fp-certerror-self-signed-important-note = NOTA IMPORTANTE: Se estás tentando visitar este sitio nunha intranet corporativa, o teu persoal de TI pode utilizar certificados autoasinados. Poden axudarche a comprobar a súa autenticidade.
 # Variables:
 #   $error (string) - NSS error code string that specifies type of cert error. e.g. unknown issuer, invalid cert, etc.
 fp-cert-error-code = Código de erro: { $error }
+# Variables:
+#   $datetime (Date) - Current datetime.
+fp-datetime = { DATETIME($datetime, month: "short", year: "numeric", day: "numeric") } { DATETIME($datetime, timeStyle: "long") }
 fp-learn-more-about-secure-connection-failures = Obtén máis información sobre os erros de conexión segura
 fp-learn-more-about-cert-issues = Obtén máis información sobre este tipo de problemas de certificados
 fp-learn-more-about-time-related-errors = Obtén máis información sobre a resolución de erros relacionados co tempo
@@ -83,6 +89,11 @@ fp-learn-more-about-time-related-errors = Obtén máis información sobre a reso
 ## Variables:
 ##   $hostname (string) - Hostname of the website with cert error.
 
+cert-error-revoked-certificate = { -brand-short-name } bloqueou a túa visita a este sitio porque o certificado proporcionado para { $hostname } revogouse e xa non é confiable.
+cert-error-bad-signature = { -brand-short-name } bloqueou a túa visita a este sitio porque a sinatura do certificado proporcionado para { $hostname } non é válida.
+cert-error-key-pinning-failure = { -brand-short-name } bloqueou a túa visita a este sitio porque o certificado proporcionado para { $hostname } usa unha chave pública diferente á esperada.
+cert-error-bad-der = { -brand-short-name } bloqueou a túa visita a este sitio porque o certificado proporcionado para { $hostname } non está codificado correctamente.
+cert-error-cert-not-in-name-space = { -brand-short-name } bloqueou a túa visita a este sitio porque o certificado proporcionado para { $hostname } non segue as restricións de nome dun certificado que o emitiu.
 
 ## Messages used for certificate error titles
 

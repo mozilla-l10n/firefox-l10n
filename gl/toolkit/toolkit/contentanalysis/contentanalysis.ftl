@@ -71,9 +71,15 @@ contentanalysis-block-dialog-title-upload-file = Non tes permiso para cargar est
 #   $filename - Name of the file that was blocked, such as "aFile.txt"
 contentanalysis-block-dialog-body-upload-file = Segundo as políticas de protección de datos da túa organización, non tes permiso para cargar o ficheiro «{ $filename }». Ponte en contacto co teu administrador para obter máis información.
 contentanalysis-block-dialog-title-download-file = Non tes permiso para descargar este ficheiro
+# Variables:
+#   $filename - Name of the file that was blocked, such as "aFile.txt"
+contentanalysis-block-dialog-body-download-file = Segundo as políticas de protección de datos da túa organización, non tes permiso para descargar o ficheiro «{ $filename }». Ponte en contacto co teu administrador para obter máis información.
 contentanalysis-block-dialog-title-clipboard = Non tes permiso para pegar este contido
 contentanalysis-block-dialog-body-clipboard = Segundo as políticas de protección de datos da túa organización, non tes permiso para pegar este contido. Ponte en contacto co teu administrador para obter máis información.
 contentanalysis-block-dialog-title-dropped-text = Non tes permiso para soltar este contido
+contentanalysis-block-dialog-body-dropped-text = Segundo as políticas de protección de datos da túa organización, non tes permiso para arrastrar e soltar este contido. Ponte en contacto co teu administrador para obter máis información.
 contentanalysis-block-dialog-title-print = Non tes permiso para imprimir este documento
+contentanalysis-block-dialog-body-print = Segundo as políticas de protección de datos da túa organización, non tes permiso para imprimir este documento. Ponte en contacto co teu administrador para obter máis información.
 contentanalysis-inprogress-quit-title = Saír de { -brand-shorter-name }?
+contentanalysis-inprogress-quit-message = Están en marcha varias accións. Se saes de { -brand-shorter-name }, estas accións non se completarán.
 contentanalysis-inprogress-quit-yesbutton = Si, saír

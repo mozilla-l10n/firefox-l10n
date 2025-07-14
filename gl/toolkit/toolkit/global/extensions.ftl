@@ -18,6 +18,7 @@ webext-perms-sideload-header = Engadiuse { $extension }
 webext-perms-optional-perms-header2 = { $extension } solicita permisos adicionais.
 webext-perms-optional-perms-header = { $extension } solicita permisos adicionais.
 webext-perms-header2 = Engadir { $extension }
+webext-perms-list-intro-unsigned = Esta extensión non verificada podería pór en risco a túa privacidade ou comprometer o teu dispositivo. Engádea só se confías na orixe.
 
 ## Headers used in the webextension permissions dialog, inside the content.
 
@@ -50,6 +51,9 @@ webext-perms-sideload-enable =
 webext-perms-sideload-cancel =
     .label = Cancelar
     .accesskey = C
+# Variables:
+#   $extension (String): replaced with the localized name of the extension.
+webext-perms-update-text2 = { $extension } actualizouse. Debes aprobar novos permisos antes de que se instale a versión actualizada. Se escolles «Cancelar» manterase a versión actual da extensión.
 # Variables:
 #   $extension (String): replaced with the localized name of the extension.
 webext-perms-update-text = Actualizouse { $extension }. Debe aprobar permisos novos antes de que se instale a versión actualizada. Se escolle «Cancelar» manterase a versión actual da extensión. Esta extensión terá permiso para:
@@ -117,6 +121,7 @@ webext-perms-description-data-some-optional = O programador di que a extensión 
 # Variables:
 #   $extension (String): replaced with the localized name of the extension.
 webext-perms-update-text-with-data-collection = { $extension } require unha nova configuración para actualizar
+webext-perms-update-list-intro-with-data-collection = Cancela para manter a túa versión e configuración actuais, ou actualiza para obter a nova versión e aprobar os cambios.
 # Variables:
 #   $extension (String): replaced with the localized name of the extension.
 webext-perms-optional-text-with-data-collection = { $extension } solicita configuracións adicionais
@@ -160,4 +165,5 @@ webext-site-perms-midi-sysex = Acceder a dispositivos MIDI compatíbeis con SysE
 
 ## Colorway theme migration
 
+webext-colorway-theme-migration-notification-message = <b>Eliminouse o teu tema de combinación de cores.</b> { -brand-shorter-name } actualizou a súa colección de combinacións de cores. Podes atopar as versións máis recentes no sitio de complementos.
 webext-colorway-theme-migration-notification-button = Obtén combinacións de cores actualizadas
