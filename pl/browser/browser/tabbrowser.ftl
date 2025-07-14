@@ -301,6 +301,8 @@ tab-context-move-tab-to-group =
            *[other] Dodaj karty do grupy
         }
     .accesskey = D
+tab-context-move-tab-to-group-saved-groups =
+    .label = Zamknięte grupy
 tab-group-editor-action-new-tab =
     .label = Nowa karta w grupie
 tab-group-editor-action-new-window =
