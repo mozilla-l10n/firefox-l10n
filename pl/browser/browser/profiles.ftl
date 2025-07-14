@@ -39,6 +39,12 @@ edit-profile-page-delete-button =
 edit-profile-page-avatar-selector-opener-link = Edytuj
 avatar-selector-icon-tab = Ikona
 avatar-selector-custom-tab = Inna
+avatar-selector-cancel-button =
+    .label = Anuluj
+avatar-selector-save-button =
+    .label = Zachowaj
+avatar-selector-upload-file = Prześlij plik
+avatar-selector-drag-file = Lub przeciągnij plik tutaj
 edit-profile-page-no-name = Nazwij ten profil, aby łatwiej go później znaleźć. Nazwę można zmienić w każdej chwili.
 edit-profile-page-duplicate-name = Nazwa profilu jest już używana. Spróbuj innej.
 edit-profile-page-profile-saved = Zachowano
@@ -116,6 +122,8 @@ shopping-avatar-alt =
     .alt = Wózek sklepowy
 star-avatar-alt =
     .alt = Gwiazda
+custom-avatar-alt =
+    .alt = Własny awatar
 
 ## Labels for default avatar icons
 

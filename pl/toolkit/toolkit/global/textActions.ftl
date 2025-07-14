@@ -84,5 +84,9 @@ text-action-copy-clean-link-to-highlight =
     .label = Kopiuj odnośnik do wyróżnienia bez elementów śledzących
 # If the page has been loaded with a text fragment and text is
 # visibly highlighted, this removes any highlighted sections on the page.
+text-action-remove-highlight =
+    .label = Usuń wyróżnienie
+# If the page has been loaded with a text fragment and text is
+# visibly highlighted, this removes any highlighted sections on the page.
 text-action-remove-all-highlights =
     .label = Usuń wszystkie wyróżnienia

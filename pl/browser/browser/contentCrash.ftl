@@ -34,6 +34,14 @@ pending-crash-reports-always-send =
     .label = Zawsze przesyłaj
 # Variables:
 #   $reportCount (Number): the number of pending crash reports
+requested-crash-reports-message-new =
+    { $reportCount ->
+        [one] Nieprzesłane zgłoszenie awarii jest związane z obecnie badaną awarią. Przesłanie go pomoże nam ulepszyć { -brand-product-name(case: "acc") }. Zamknięcie tego powiadomienia spowoduje zignorowanie tego zgłoszenia.
+        [few] { $reportCount } nieprzesłane zgłoszenia awarii są związane z obecnie badanymi awariami. Przesłanie ich pomoże nam ulepszyć { -brand-product-name(case: "acc") }. Zamknięcie tego powiadomienia spowoduje zignorowanie tych zgłoszeń.
+       *[many] { $reportCount } nieprzesłanych zgłoszeń awarii jest związanych z obecnie badanymi awariami. Przesłanie ich pomoże nam ulepszyć { -brand-product-name(case: "acc") }. Zamknięcie tego powiadomienia spowoduje zignorowanie tych zgłoszeń.
+    }
+# Variables:
+#   $reportCount (Number): the number of pending crash reports
 requested-crash-reports-message =
     { $reportCount ->
         [one] Nieprzesłane zgłoszenie awarii pasuje do obecnie badanej awarii. Przesłanie go pomoże nam ulepszyć { -brand-product-name(case: "acc") }. Zamknięcie tego powiadomienia spowoduje zignorowanie tego zgłoszenia.

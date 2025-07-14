@@ -66,6 +66,7 @@ sidebar-show-on-the-left =
 # hovers over it.
 expand-sidebar-on-hover =
     .label = Rozwijaj panel boczny po najechaniu kursorem
+sidebar-manage-extensions = Zarządzaj rozszerzeniami
 
 ## Labels for sidebar context menu items
 
@@ -99,6 +100,8 @@ sidebar-context-menu-customize-sidebar =
 #   $deviceName (String) - The name of the device the user is closing a tab for
 sidebar-context-menu-close-remote-tab =
     .label = Zamknij kartę na „{ $deviceName }”
+sidebar-context-menu-remove-extension2 =
+    .label = Usuń z { -brand-short-name(case: "gen") }
 
 ## Labels for sidebar history context menu items
 
