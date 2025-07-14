@@ -132,7 +132,7 @@ shopping-analysis-explainer-learn-more2 = Obtén máis información sobre <a dat
 # This string includes the short brand name of one of the three supported
 # websites, which will be inserted without being translated.
 #  $retailer (String) - capitalized name of the shopping website, for example, "Amazon".
-shopping-analysis-explainer-highlights-description = Os <strong>destacados</strong> proveñen das recensións de { $tailer } dos últimos 80 días que consideramos fiables.
+shopping-analysis-explainer-highlights-description = Os <strong>destacados</strong> proveñen das recensións de { $retailer } dos últimos 80 días que consideramos fiables.
 shopping-analysis-explainer-review-grading-scale-reliable = Recensións fiables. Cremos que as recensións son probablemente de clientes reais que deixaron recensións honestas e imparciais.
 shopping-analysis-explainer-review-grading-scale-mixed = Cremos que hai unha mestura de recensións fiables e pouco fiables.
 shopping-analysis-explainer-review-grading-scale-unreliable = Recensións pouco fiables. Cremos que as recensións probablemente sexan falsas ou de revisores tendenciosos.
