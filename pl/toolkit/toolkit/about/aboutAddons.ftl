@@ -572,7 +572,7 @@ mlmodel-about-inference = { -brand-short-name } używa tego na about:inference
 mlmodel-link-preview = { -brand-short-name } używa tego do generowania punktów kluczowych podczas podglądu odnośników
 mlmodel-pdfjs = { -brand-short-name } używa tego do tworzenia tekstu alternatywnego dla obrazów dodawanych do plików PDF
 mlmodel-smart-tab-topic-engine = { -brand-short-name } używa tego do podpowiadania nazw grup kart
-mlmodel-smart-tab-embedding-engine = { -brand-short-name } używa tego do podpowiadania kart grup kart
+mlmodel-smart-tab-embedding-engine = { -brand-short-name } używa tego do proponowania organizacji kart w grupach kart
 # AI Model will be downloaded on the users device and used locally
 addon-category-mlmodel = Sztuczna inteligencja na urządzeniu
 addon-category-mlmodel-title =
