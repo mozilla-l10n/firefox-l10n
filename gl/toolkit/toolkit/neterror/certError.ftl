@@ -164,3 +164,4 @@ fp-certerror-hide-advanced-button = Ocultar avanzado
 
 fp-certerror-override-exception-button = Continuar a { $hostname } (arriscado)
 fp-certerror-intro = { -brand-short-name } detectou un problema de seguranza potencialmente grave con <strong>{ $hostname }</strong>. Alguén que se faga pasar polo sitio podería tentar roubar cousas como información de tarxetas de crédito, contrasinais ou correos electrónicos.
+fp-certerror-expired-into = { -brand-short-name } detectou un problema de seguranza con <strong>{ $hostname }</strong>. Ou o sitio non está configurado correctamente ou o reloxo do teu dispositivo está configurado nunha data/hora incorrecta.

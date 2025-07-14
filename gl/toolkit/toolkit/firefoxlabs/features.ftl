@@ -28,6 +28,7 @@ experimental-features-group-customize-browsing =
 # Contextual Password Manager in sidebar
 experimental-features-contextual-password-manager =
     .label = Contrasinais na barra lateral
+experimental-features-contextual-password-manager-description = Accede aos teus contrasinais dende a barra lateral. Evita a busca e o restablecemento de contrasinais cando intentes iniciar sesión. Para usar esta función, selecciona contrasinais na barra lateral. A continuación, vai á túa configuración xeral e, en deseño do navegador, elixe mostrar barra lateral. Despois, personaliza a túa barra lateral seleccionando contrasinais. Se o probas, <a data-l10n-name="connect">indícanos o que pensas</a>.
 # New Tab Custom Wallpapers
 experimental-features-custom-wallpaper =
     .label = Escolle un fondo ou unha cor personalizados para a nova pestana
