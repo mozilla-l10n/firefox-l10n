@@ -65,6 +65,12 @@ contextual-manager-passwords-import-success-heading =
 #   $added (number) - Number of added passwords
 #   $modified (number) - Number of modified passwords
 contextual-manager-passwords-import-success-message = Nuove: { $added }, aggiornate: { $modified }
+# Variables
+#   $added (number) - Number of added passwords
+#   $modified (number) - Number of modified passwords
+#   $no_change (number) - Number of duplicate passwords
+#   $error (number) - Number of invalid passwords
+contextual-manager-passwords-import-success-message-2 = Nuove: { $added } Aggiornate: { $modified } Duplicate: { $no_change } Errori: { $error }
 contextual-manager-passwords-import-detailed-report = Visualizza rapporto dettagliato
 contextual-manager-passwords-import-success-button = Fatto
 contextual-manager-passwords-import-error-heading-and-message =
