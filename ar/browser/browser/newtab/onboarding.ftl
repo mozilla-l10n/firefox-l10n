@@ -312,8 +312,10 @@ amo-picker-collection-link = استكشف المزيد من الإضافات
 # Easy setup screen
 onboarding-easy-setup-security-and-privacy-title = نحن نحب إبقاءك آمنًا
 onboarding-easy-setup-security-and-privacy-subtitle = يساعدك متصفحنا الذي تدعمه مؤسستنا غير الربحية على منع الشركات من متابعتك سراً عبر الوِب.
+onboarding-mobile-download-security-and-privacy-subtitle = عند مزامنة بياناتك، يقوم { -brand-short-name } بتعمية كلمات سرك وعلاماتك والمزيد. كما يمكنك الوصول إلى اﻷلسنة من أجهزتك الأخرى.
 # Gratitude screen
 onboarding-gratitude-security-and-privacy-title = { -brand-short-name } يدعمك
+onboarding-sign-up-description = سجّل للحصول على حساب ومعلوماتك المهمة، سيتم تخزين جميع - كلمات السر والعلامات والمزيد - بشكل آمن وستكون متاحة عند ولوجك إلى أي جهاز.
 onboarding-sign-up-button = سجل حسابًا أو لج
 onboarding-sign-up-secondary-button = ابدأ التصفح
 
