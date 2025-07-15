@@ -90,7 +90,7 @@ genai-shortcuts-selected-warning =
            *[other] Körülbelül { $selectionLength } karaktert választott ki. A(z) { $provider } számára küldhető karakterek száma körülbelül { $maxLength }.
         }
 genai-shortcuts-hide =
-    .label = Csevegőbot indítójának elrejtése
+    .label = Csevegőbot gyorsindítójának elrejtése
 genai-menu-no-provider =
     .label = MI csevegőbot megkérdezése
 genai-menu-choose-chatbot =
