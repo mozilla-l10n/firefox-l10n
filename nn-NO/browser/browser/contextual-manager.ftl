@@ -262,6 +262,24 @@ contextual-manager-view-alert-heading =
     .heading = Vis varsel
 contextual-manager-view-alert-button =
     .tooltiptext = Vurder varsel
+# Variables
+#   $count (number) - The number of active alerts associated with the login
+contextual-manager-view-alert-heading-2 =
+    .heading =
+        { $count ->
+            [1] Vis varsel
+            [one] Vis varsel
+           *[other] Vis varsel
+        }
+# Variables
+#   $count (number) - The number of active alerts associated with the login
+contextual-manager-view-alert-button-2 =
+    .tooltiptext =
+        { $count ->
+            [1] Undersøk varsel
+            [one] Undersøk varsel
+           *[other] Undersøk varsel
+        }
 contextual-manager-show-password-button =
     .aria-label = Vis passord
     .title = Vis passord
