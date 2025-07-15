@@ -407,7 +407,7 @@ addon-badge-private-browsing-allowed3 =
 addon-badge-private-browsing-allowed2 =
     .title = W priwatnych woknach dowólony
     .aria-label = { addon-badge-private-browsing-allowed2.title }
-addon-detail-private-browsing-help = Jolic maśo pšawo, ma rozšyrjenje pśistup na waše aktiwity online w priwatnem modusu. <a data-l10n-name="learn-more">Dalšne informacije</a>
+addon-detail-private-browsing-help = Jolic maśo pšawo, ma rozšyrjenje pśistup k wašym aktiwitam online w priwatnem modusu. <a data-l10n-name="learn-more">Dalšne informacije</a>
 addon-detail-private-browsing-allow = Dowóliś
 addon-detail-private-browsing-disallow = Njedowóliś
 # aria-label associated to the private browsing row to help screen readers to announce the group
