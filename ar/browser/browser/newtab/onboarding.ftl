@@ -315,7 +315,7 @@ onboarding-easy-setup-security-and-privacy-subtitle = يساعدك متصفحن�
 onboarding-mobile-download-security-and-privacy-subtitle = عند مزامنة بياناتك، يقوم { -brand-short-name } بتعمية كلمات سرك وعلاماتك والمزيد. كما يمكنك الوصول إلى اﻷلسنة من أجهزتك الأخرى.
 # Gratitude screen
 onboarding-gratitude-security-and-privacy-title = { -brand-short-name } يدعمك
-onboarding-sign-up-description = سجّل للحصول على حساب ومعلوماتك المهمة، سيتم تخزين جميع - كلمات السر والعلامات والمزيد - بشكل آمن وستكون متاحة عند ولوجك إلى أي جهاز.
+onboarding-sign-up-description = سجّل للحصول على حساب وسيتم تخزين جميع معلوماتك المهمة - كلمات السر والعلامات والمزيد - بشكل آمن وستكون متاحة عند ولوجك إلى أي جهاز.
 onboarding-sign-up-button = سجل حسابًا أو لج
 onboarding-sign-up-secondary-button = ابدأ التصفح
 
@@ -376,12 +376,15 @@ tab-groups-onboarding-dismiss = حسنا
 
 ## Multi Profiles feature onboarding messages
 
+multi-profile-spotlight-body = تنقل بسهولة بين التصفح للعمل والترفيه. تُبقي الملفات الشخصية معلومات تصفحك، بما في ذلك تأريخ البحث وكلمات السر، منفصلة تمامًا لتبقى منظمًا.
 multi-profile-spotlight-cta = أنشئ ملفًا شخصيًا
 multi-profile-callout-subtitle = تتيح لك الملفات الشخصية الاحتفاظ بمعلومات تصفحك، مثل تأريخ البحث وكلمات السر، منفصلة تمامًا.
 multi-profile-callout-cta = أنشئ ملفًا شخصيًا
 
 ## Desktop to Mobile Adoption feature callout strings
 
+# The phrase, 'on the go', is used to describe when people are very busy and are traveling from place to place.
+desktop-to-mobile-subtitle = امسح رمز QR لتنزيل تطبيق { -brand-product-name } للجوّال. بعد التثبيت، اختر "زامن مع الجوّال" للوصول إلى كلمات سرك وعلاماتك والمزيد أينما كنت.
 dismiss-button-label = أهمِل
 sync-to-mobile-button-label = زامن مع الجوّال
 desktop-to-mobile-qr-code-alt =
