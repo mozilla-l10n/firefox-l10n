@@ -212,3 +212,6 @@ star-avatar = Stella
 video-game-controller-avatar = Controller per videogiochi
 barbell-avatar = Bilanciere
 bike-avatar = Bici
+
+custom-avatar-alt =
+    .alt = Icona personalizzata
