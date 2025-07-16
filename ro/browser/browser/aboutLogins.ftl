@@ -277,16 +277,90 @@ about-logins-import-file-picker-tsv-filter-title =
 ##  $count (number) - The number of affected elements
 
 about-logins-import-dialog-title = Importare finalizată
+about-logins-import-dialog-items-added =
+    { $count ->
+       *[other] <span>Au fost adăugate date noi de autentificare:</span> <span data-l10n-name="count">{ $count }</span>
+    }
+about-logins-import-dialog-items-modified =
+    { $count ->
+       *[other] <span>Date de conectare existente actualizate:</span> <span data-l10n-name="count">{ $count }</span>
+    }
+about-logins-import-dialog-items-no-change =
+    { $count ->
+       *[other] <span>Date de autentificare duplicat găsite:</span> <span data-l10n-name="count">{ $count }</span> <span data-l10n-name="meta">(nu importate)</span>
+    }
+about-logins-import-dialog-items-error =
+    { $count ->
+       *[other] <span>Erori:</span> <span data-l10n-name="count">{ $count }</span> <span data-l10n-name="meta">(nu importate)</span>
+    }
 about-logins-import-dialog-done = Terminat
 about-logins-import-dialog-error-title = Eroare la importare
+about-logins-import-dialog-error-conflicting-values-title = Mai multe valori conflictuale pentru un singur set de date de autentificare
+about-logins-import-dialog-error-conflicting-values-description = De exemplu: mai multe nume de utilizator, parole, adrese URL-uri etc. pentru pentru un singur set de date de autentificare.
+about-logins-import-dialog-error-file-format-title = Problemă cu formatul fișierului
+about-logins-import-dialog-error-file-format-description = Antete de coloană incorecte sau lipsă. Asigură-te că fișierul include coloane pentru nume de utilizator, parolă și URL.
+about-logins-import-dialog-error-file-permission-title = Fișierul nu poate fi citit
+about-logins-import-dialog-error-file-permission-description = { -brand-short-name } nu are permisiunea de a citi fișierul. Încearcă să schimbi permisiunile pentru fișiere.
+about-logins-import-dialog-error-unable-to-read-title = Fișierul nu poate fi analizat
+about-logins-import-dialog-error-unable-to-read-description = Asigură-te că ai selectat un fișier CSV sau TSV.
+about-logins-import-dialog-error-no-logins-imported = Nu au fost importate date de autentificare
 about-logins-import-dialog-error-learn-more = Află mai multe
 about-logins-import-dialog-error-try-import-again = Încearcă să imporți din nou…
 about-logins-import-dialog-error-cancel = Anulează
 about-logins-import-report-title = Sumar de importare
+about-logins-import-report-description = Date de autentificare și parole importate în { -brand-short-name }.
+about-logins-import-report-description2 = Parole importate în { -brand-short-name }.
 #
 # Variables:
 #  $number (number) - The number of the row
 about-logins-import-report-row-index = Rândul { $number }
+about-logins-import-report-row-description-no-change = Duplicat: Potrivire exactă cu datele de autentificare existente
+about-logins-import-report-row-description-modified = Datele de autentificare existente au fost actualizate
+about-logins-import-report-row-description-added = A fost adăugat un nou set de date de autentificare
+about-logins-import-report-row-description-no-change2 = Duplicat: Potrivire exactă cu o intrare existentă
+about-logins-import-report-row-description-modified2 = Intrare existentă actualizată
+about-logins-import-report-row-description-added2 = Parolă nouă adăugată
+about-logins-import-report-row-description-error = Eroare: Câmp lipsă
+
+##
+## Variables:
+##  $field (String) - The name of the field from the CSV file for example url, username or password
+
+about-logins-import-report-row-description-error-multiple-values = Eroare: Valori multiple pentru { $field }
+about-logins-import-report-row-description-error-missing-field = Eroare: Lipsește { $field }
+
+##
+## Variables:
+##  $count (number) - The number of affected elements
+
+about-logins-import-report-added =
+    { $count ->
+       *[other] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">Date noi de autentificare adăugate</div>
+    }
+about-logins-import-report-modified =
+    { $count ->
+       *[other] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">Date de autentificare existente actualizate</div>
+    }
+about-logins-import-report-no-change =
+    { $count ->
+       *[other] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">Date de autentificare duplicat</div> <div data-l10n-name="not-imported">(nu importate)</div>
+    }
+about-logins-import-report-added2 =
+    { $count ->
+       *[other] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">Parole noi adăugate</div>
+    }
+about-logins-import-report-modified2 =
+    { $count ->
+       *[other] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">Intrări existente adăugate</div>
+    }
+about-logins-import-report-no-change2 =
+    { $count ->
+       *[other] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">Intrări duplicat</div> <div data-l10n-name="not-imported">(nu importate)</div>
+    }
+about-logins-import-report-error =
+    { $count ->
+       *[other] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">Erori</div> <div data-l10n-name="not-imported">(nu importate)</div>
+    }
 
 ## Logins import report page
 
