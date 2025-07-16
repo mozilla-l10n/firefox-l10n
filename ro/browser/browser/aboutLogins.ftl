@@ -4,6 +4,17 @@
 # NOTE: New strings should use the about-logins- prefix.
 
 about-logins-page-title = Date de autentificare și parole
+about-logins-login-filter =
+    .placeholder = Caută date de autentificare
+    .key = F
+create-new-login-button =
+    .title = Creează o date de autentificare noi
+about-logins-page-title-name = Parole
+about-logins-login-filter2 =
+    .placeholder = Caută parole
+    .key = F
+create-login-button =
+    .title = Adaugă o parolă
 fxaccounts-sign-in-text = Obține parolele de pe celelalte dispozitive
 fxaccounts-sign-in-sync-button = Autentifică-te pentru a sincroniza
 fxaccounts-avatar-button =
@@ -18,6 +29,7 @@ about-logins-menu-menuitem-import-from-another-browser = Importă dintr-un alt b
 about-logins-menu-menuitem-import-from-a-file = Importă dintr-un fișier…
 about-logins-menu-menuitem-export-logins = Exportă date de autentificare…
 about-logins-menu-menuitem-remove-all-logins = Elimină toate autentificările…
+about-logins-menu-menuitem-export-logins2 = Exportă parolele…
 menu-menuitem-preferences =
     { PLATFORM() ->
         [windows] Opțiuni
@@ -88,11 +100,6 @@ login-item-copied-password-button-text = Copiată!
 login-item-save-changes-button = Salvează modificările
 login-item-save-new-button = Salvează
 login-item-cancel-button = Anulează
-
-## The date is displayed in a timeline showing the password evolution.
-## A label is displayed under the date to describe the type of change.
-## (e.g. updated, created, etc.)
-
 
 ## OS Authentication dialog
 
@@ -229,6 +236,11 @@ about-logins-export-file-picker-title = Exportă fișierul cu datele de autentif
 # The default file name shown in the file picker when exporting saved logins.
 # This must end in .csv
 about-logins-export-file-picker-default-filename = date_de_autentificare.csv
+# Title of the file picker dialog
+about-logins-export-file-picker-title2 = Exportă parolele din { -brand-short-name }
+# The default file name shown in the file picker when exporting saved logins.
+# This must end in .csv
+about-logins-export-file-picker-default-filename2 = parole.csv
 about-logins-export-file-picker-export-button = Exportă
 # A description for the .csv file format that may be shown as the file type
 # filter by the operating system.
@@ -242,6 +254,8 @@ about-logins-export-file-picker-csv-filter-title =
 
 # Title of the file picker dialog
 about-logins-import-file-picker-title = Importă fișierul cu datele de autentificare
+# Title of the file picker dialog
+about-logins-import-file-picker-title2 = Importă parolele în { -brand-short-name }
 about-logins-import-file-picker-import-button = Importă
 # A description for the .csv file format that may be shown as the file type
 # filter by the operating system.
@@ -273,16 +287,6 @@ about-logins-import-report-title = Sumar de importare
 # Variables:
 #  $number (number) - The number of the row
 about-logins-import-report-row-index = Rândul { $number }
-
-##
-## Variables:
-##  $field (String) - The name of the field from the CSV file for example url, username or password
-
-
-##
-## Variables:
-##  $count (number) - The number of affected elements
-
 
 ## Logins import report page
 
