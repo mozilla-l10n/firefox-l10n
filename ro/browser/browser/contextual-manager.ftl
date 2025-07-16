@@ -59,9 +59,7 @@ contextual-manager-passwords-delete-password-success-button = Terminat
 contextual-manager-passwords-remove-login-card-remove-button = Elimină
 # This message gives the user the option to cancel their attempt to remove a login.
 contextual-manager-passwords-remove-login-card-cancel-button = Anulează
-
-## Login Form
-
+contextual-manager-passwords-breached-origin-link-message = Cum știe { -brand-product-name } despre încălcarea securității datelor?
 
 ## Password Card
 
@@ -71,7 +69,6 @@ contextual-manager-copy-icon =
 ## When the user has no saved passwords, we display the following messages to inform the user they can save
 ## their passwords safely and securely in Firefox:
 
-
-## When the user cancels a login that's currently being edited, we display a message to confirm whether
-## or not the user wants to discard their current edits to the login.
-
+# This string informs that we (Firefox) store all passwords securely and will notify them of any breaches and alerts their
+# passwords may be involved in.
+contextual-manager-passwords-no-passwords-message = Toate parolele sunt criptate și vom fi atenți la încălcarea securității datelor și la alerte dacă te afectează.

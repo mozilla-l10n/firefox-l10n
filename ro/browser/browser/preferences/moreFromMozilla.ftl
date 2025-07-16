@@ -11,14 +11,6 @@ more-from-moz-category =
 more-from-moz-subtitle = Vezi alte produse { -vendor-short-name } care funcționează pentru a sprijini un internet sănătos.
 more-from-moz-mozilla-vpn-title = { -mozilla-vpn-brand-name }
 
-## These strings are for the Firefox Relay card in about:preferences moreFromMozilla page
-
-
 ## These strings are for the Mozilla Monitor card in about:preferences moreFromMozilla page
 
-
-## These strings are for the Solo card in about:preferences moreFromMozilla page
-
-
-## These strings are for the MDN card in about:preferences moreFromMozilla page
-
+more-from-moz-mozilla-monitor-global-description = Primești alerte când datele tale au fost implicate într-o încălcare a securității datelor.
