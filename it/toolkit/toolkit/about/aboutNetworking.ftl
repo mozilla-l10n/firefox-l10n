@@ -64,6 +64,3 @@ about-networking-moved-about-logging = Questa sezione è ora disponibile in <a d
 
 about-networking-networkid-is-up = Il collegamento è attivo
 about-networking-networkid-status-known = Lo stato del collegamento è noto
-
-##
-

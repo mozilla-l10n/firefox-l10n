@@ -161,6 +161,3 @@ perftools-presets-power-description = Preset per la diagnosi di problemi relativ
 perftools-presets-debug-label = Debug
 perftools-presets-debug-description = Preset per il debug di { -brand-shorter-name }. Overhead elevato, non utilizzare per analisi delle prestazioni ma solo per comprendere il comportamento del browser.
 perftools-presets-custom-label = Personalizzato
-
-##
-

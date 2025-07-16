@@ -122,12 +122,6 @@ canvas-avatar-alt =
 # Craft refers to hobby arts and crafts, represented by a button/fastener commonly found on clothing like shirts
 craft-avatar-alt =
     .alt = Artigianato
-# Default favicon refers to the generic globe/world icon that appears in browser tabs when a website doesn't have its own favicon.
-default-favicon-avatar-alt =
-    .alt = Icona predefinita
-# Diamond refers to the precious stone, not the geometric shape
-diamond-avatar-alt =
-    .alt = Diamante
 flower-avatar-alt =
     .alt = Fiore
 folder-avatar-alt =
@@ -170,6 +164,13 @@ star-avatar-alt =
     .alt = Stella
 video-game-controller-avatar-alt =
     .alt = Controller per videogiochi
+custom-avatar-alt = { "" }
+# Default favicon refers to the generic globe/world icon that appears in browser tabs when a website doesn't have its own favicon.
+default-favicon-avatar-alt =
+    .alt = Icona predefinita
+# Diamond refers to the precious stone, not the geometric shape
+diamond-avatar-alt =
+    .alt = Diamante
 barbell-avatar-alt =
     .alt = Bilanciere
 bike-avatar-alt =
@@ -212,6 +213,3 @@ star-avatar = Stella
 video-game-controller-avatar = Controller per videogiochi
 barbell-avatar = Bilanciere
 bike-avatar = Bici
-
-custom-avatar-alt =
-    .alt = Icona personalizzata

@@ -48,9 +48,6 @@ download-cert-view-cert =
     .label = Visualizza
 download-cert-view-text = Esamina certificato CA
 
-## Client Authorization Ask dialog
-
-
 ## Client Authentication Ask dialog
 
 client-auth-window =
