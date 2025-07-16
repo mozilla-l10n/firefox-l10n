@@ -53,3 +53,6 @@ pocket-panel-home-welcome-back = Bine ai revenit!
 pocket-panel-home-paragraph = Poți folosi { -pocket-brand-name } ca să explorezi și să salvezi pagini web, articole, videoclipuri, podcasturi sau să reiei de unde ai rămas ce citeai.
 pocket-panel-home-explore-popular-topics = Explorează subiecte populare
 pocket-panel-home-discover-more = Descoperă mai multe
+pocket-panel-home-explore-more = Explorează
+pocket-panel-home-most-recent-saves = Iată cele mai recente salvări ale tale:
+pocket-panel-home-most-recent-saves-loading = Se încarcă salvările recente...

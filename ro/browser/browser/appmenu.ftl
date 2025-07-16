@@ -77,10 +77,16 @@ appmenu-remote-tabs-turn-on-sync =
 appmenu-remote-tabs-showmore =
     .label = Afișează mai multe file
     .tooltiptext = Afișează mai multe file de pe acest dispozitiv
+# This is shown as the label for an element to show inactive tabs from this device.
+appmenu-remote-tabs-show-inactive-tabs =
+    .label = File inactive
+    .tooltiptext = Vezi filele inactive de pe acest dispozitiv
 # This is shown beneath the name of a device when that device has no open tabs
 appmenu-remote-tabs-notabs = Nicio filă deschisă
 # This is shown when Sync is configured but syncing tabs is disabled.
 appmenu-remote-tabs-tabsnotsyncing = Activează sincronizarea filelor pentru a vedea o listă cu file de pe celelalte dispozitive.
+appmenu-remote-tabs-opensettings =
+    .label = Setări
 # This is shown when Sync is configured but this appears to be the only device attached to
 # the account. We also show links to download Firefox for android/ios.
 appmenu-remote-tabs-noclients = Vrei să vezi aici filele de pe celelalte dispozitive?
@@ -92,6 +98,7 @@ appmenuitem-fxa-toolbar-sync-now2 = Sincronizează acum
 appmenuitem-fxa-sign-in = Autentifică-te în { -brand-product-name }
 appmenuitem-fxa-manage-account = Gestionează contul
 appmenu-fxa-header2 = { -fxaccount-brand-name(case: "indefinite-article", capitalization: "upper") }
+appmenu-account-header = Cont
 # Variables
 # $time (string) - Localized relative time since last sync (e.g. 1 second ago,
 # 3 hours ago, etc.)
@@ -101,8 +108,11 @@ appmenu-fxa-sync-and-save-data2 = Sincronizează și salvează datele
 appmenu-fxa-signed-in-label = Autentifică-te
 appmenu-fxa-setup-sync =
     .label = Activează sincronizarea…
+appmenu-fxa-setup-sync-new = Activează
 appmenuitem-save-page =
     .label = Salvează pagina ca…
+appmenuitem-fxa-sync-off-title = Sincronizare dezactivată
+appmenuitem-fxa-sync-off-description = Protejează și accesează marcajele, parolele și altele de oriunde.
 
 ## What's New panel in App menu.
 
@@ -120,9 +130,18 @@ whatsnew-panel-footer-checkbox =
 profiler-popup-button-idle =
     .label = Profilator
     .tooltiptext = Înregistrează un profil de performanță
+profiler-popup-button-recording =
+    .label = Profiler
+    .tooltiptext = Înregistrează un profil
+profiler-popup-button-capturing =
+    .label = Profiler
+    .tooltiptext = Captează un profil
 profiler-popup-header-text = { -profiler-brand-name }
 profiler-popup-reveal-description-button =
     .aria-label = Dezvăluie mai multe informații
+profiler-popup-description-title =
+    .value = Înregistrează, analizează, distribuie
+profiler-popup-description = Colaborează pe probleme de performanță publicând profiluri pe care să le partajezi cu echipa ta.
 profiler-popup-learn-more-button =
     .label = Află mai multe
 profiler-popup-settings =
@@ -130,6 +149,13 @@ profiler-popup-settings =
 # This link takes the user to about:profiling, and is only visible with the Custom preset.
 profiler-popup-edit-settings-button =
     .label = Editează setările…
+profiler-popup-recording-screen = Se înregistrează...
+profiler-popup-start-recording-button =
+    .label = Începe înregistrarea
+profiler-popup-discard-button =
+    .label = Renunță
+profiler-popup-capture-button =
+    .label = Capturează
 profiler-popup-start-shortcut =
     { PLATFORM() ->
         [macos] ⌃⇧1
@@ -154,6 +180,30 @@ profiler-popup-capture-shortcut =
 # devtools/client/performance-new/shared/background.sys.mjs
 # Please take care that the same values are also defined in devtools' perftools.ftl.
 
+profiler-popup-presets-web-developer-description = Presetare recomandată pentru depanarea majorității aplicațiilor web, cu suprasarcină redusă.
+profiler-popup-presets-web-developer-label =
+    .label = Dezvoltator web
+profiler-popup-presets-firefox-description = Presetare recomandată pentru profilare { -brand-shorter-name }.
+profiler-popup-presets-firefox-label =
+    .label = { -brand-shorter-name }
+profiler-popup-presets-graphics-description = Presetare pentru investigarea erorilor grafice în { -brand-shorter-name }.
+profiler-popup-presets-graphics-label =
+    .label = Grafică
+profiler-popup-presets-media-description2 = Presetare pentru investigarea erorilor audio și video în { -brand-shorter-name }.
+profiler-popup-presets-media-label =
+    .label = Multimedia
+profiler-popup-presets-networking-description = Presetare pentru investigarea erorilor de rețea în { -brand-shorter-name }.
+profiler-popup-presets-networking-label =
+    .label = Rețea
+profiler-popup-presets-power-description = Presetare pentru investigarea erorilor legate de consumul de energie în { -brand-shorter-name }, cu o suprasarcină redusă.
+# "Power" is used in the sense of energy (electricity used by the computer).
+profiler-popup-presets-power-label =
+    .label = Putere
+profiler-popup-presets-debug-description = Presetare pentru depanare în { -brand-shorter-name }. Suprasarcină ridicată, a nu se folosi pentru lucru de performanță, ci pentru analiza comportamentului browserului.
+profiler-popup-presets-debug-label =
+    .label = Depanare
+profiler-popup-presets-custom-label =
+    .label = Personalizat
 
 ## History panel
 
@@ -225,6 +275,8 @@ appmenuitem-report-broken-site =
 
 ## Panel for privacy and security products
 
+appmenuitem-sign-in-account = Intră în cont
+appmenuitem-monitor-title = { -monitor-brand-short-name }
 
 ## Profiles panel
 
