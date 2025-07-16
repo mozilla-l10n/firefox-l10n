@@ -164,7 +164,8 @@ star-avatar-alt =
     .alt = Stella
 video-game-controller-avatar-alt =
     .alt = Controller per videogiochi
-custom-avatar-alt = { "" }
+custom-avatar-alt =
+    .alt = Icona personalizzata
 # Default favicon refers to the generic globe/world icon that appears in browser tabs when a website doesn't have its own favicon.
 default-favicon-avatar-alt =
     .alt = Icona predefinita
