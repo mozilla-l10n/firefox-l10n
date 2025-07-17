@@ -50,6 +50,10 @@ urlbar-plugins-notification-anchor =
     .tooltiptext = Gestionează utilizarea pluginurilor
 urlbar-web-rtc-share-devices-notification-anchor =
     .tooltiptext = Gestionează partajarea camerei și/sau a microfonului cu acest site
+# "Speakers" is used in a general sense that might include headphones or
+# another audio output connection.
+urlbar-web-rtc-share-speaker-notification-anchor =
+    .tooltiptext = Gestionează partajarea altor boxe cu acest site
 urlbar-autoplay-notification-anchor =
     .tooltiptext = Deschide panoul de redare automată
 urlbar-persistent-storage-notification-anchor =
@@ -59,11 +63,22 @@ urlbar-addons-notification-anchor =
 urlbar-tip-help-icon =
     .title = Obține ajutor
 urlbar-search-tips-confirm = OK, am înțeles
+urlbar-search-tips-confirm-short = Am înțeles
 # Read out before Urlbar Tip text content so screenreader users know the
 # subsequent text is a tip offered by the browser. It should end in a colon or
 # localized equivalent.
 urlbar-tip-icon-description =
     .alt = Pont:
+urlbar-result-menu-button =
+    .title = Deschide meniul
+urlbar-result-menu-button-feedback = Feedback
+    .title = Deschide meniul
+urlbar-result-menu-remove-from-history =
+    .label = Șterge din istoric
+    .accesskey = R
+urlbar-result-menu-tip-get-help =
+    .label = Primește ajutor
+    .accesskey = h
 
 ## Prompts users to use the Urlbar when they open a new tab or visit the
 ## homepage of their default search engine.
@@ -117,9 +132,6 @@ urlbar-star-edit-bookmark =
 #   $shortcut (String) - A keyboard shortcut for the add bookmark command.
 urlbar-star-add-bookmark =
     .tooltiptext = Marchează pagina ({ $shortcut })
-
-## Page Action Context Menu
-
 
 ## Auto-hide Context Menu
 
@@ -303,11 +315,6 @@ browser-window-close-button =
 # This label should be written in all capital letters if your locale supports them.
 browser-tab-audio-playing2 = SE REDĂ
 
-## These labels should be written in all capital letters if your locale supports them.
-## Variables:
-##  $count (number): number of affected tabs
-
-
 ## Bookmarks toolbar items
 
 browser-import-button2 =
@@ -326,9 +333,6 @@ sharing-warning-proceed-to-tab =
     .label = Mergi la filă
 sharing-warning-disable-for-session =
     .label = Dezactivează protecția partajării pentru această sesiune
-
-## DevTools F12 popup
-
 
 ## URL Bar
 
@@ -450,11 +454,6 @@ reader-view-enter-button =
 # This should match menu-view-close-readerview in menubar.ftl
 reader-view-close-button =
     .aria-label = Închide modul de lectură
-
-## Picture-in-Picture urlbar button
-## Variables:
-##   $shortcut (String) - Keyboard shortcut to execute the command.
-
 
 ## Full Screen and Pointer Lock UI
 
@@ -632,10 +631,6 @@ picture-in-picture-hide-toggle =
     .label = Ascunde comutatorul Picture-in-Picture
     .accesskey = H
 
-## Since the default position for PiP controls does not change for RTL layout,
-## right-to-left languages should use "Left" and "Right" as in the English strings,
-
-
 ##
 
 
@@ -674,12 +669,6 @@ tabs-toolbar-list-all-tabs =
     .label = Listează toate filele
     .tooltiptext = Listează toate filele
 
-## Infobar shown at startup to suggest session-restore
-
-
-## Infobar shown when the user tries to open a file picker and file pickers are blocked by enterprise policy
-
-
 ## Mozilla data reporting notification (Telemetry, Firefox Health Report, etc)
 
 data-reporting-notification-message = { -brand-short-name } trimite automat anumite date la { -vendor-short-name } ca să îți putem îmbunătăți experiența.
@@ -702,17 +691,6 @@ unified-extensions-button-permissions-needed =
         Extensii
         Permisiuni necesare
 
-## Unified extensions button when some extensions are quarantined.
-## Note that the new line is intentionally part of the tooltip.
-
-
-## Unified extensions button when some extensions are disabled (e.g. through add-ons blocklist).
-## Note that the new line is intentionally part of the tooltip.
-
-
-## Private browsing reset button
-
-
 ## Autorefresh blocker
 
 refresh-blocked-refresh-label = { -brand-short-name } a împiedicat această pagină să se reîncarce automat.
@@ -720,9 +698,6 @@ refresh-blocked-redirect-label = { -brand-short-name } a împiedicat această pa
 refresh-blocked-allow =
     .label = Permite
     .accesskey = A
-
-## Firefox Relay integration
-
 
 ## Add-on Pop-up Notifications
 
@@ -763,16 +738,3 @@ popup-warning-button =
 #   $popupURI (String): the URI for the pop-up window
 popup-show-popup-menuitem =
     .label = Afișează „{ $popupURI }”
-
-## File-picker crash notification ("FilePickerCrashed.sys.mjs")
-
-
-# Button used with file-picker-crashed-save-default. Opens the folder in Windows
-# Explorer, with the saved file selected and in focus.
-#
-# The wording here should be consistent with the Windows variant of
-# `downloads-cmd-show-menuitem-2` and similar messages.
-
-
-## Onboarding Finish Setup checklist
-

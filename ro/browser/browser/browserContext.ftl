@@ -80,6 +80,9 @@ toolbar-button-fxaccount =
 
 ## Account toolbar Button
 
+toolbar-button-account =
+    .label = Cont
+    .tooltiptext = Cont
 
 ## Save Page
 
@@ -111,6 +114,10 @@ main-context-menu-bookmark-page-with-shortcut =
     .aria-label = Marchează pagina…
     .accesskey = m
     .tooltiptext = Marchează pagina({ $shortcut })
+main-context-menu-edit-bookmark =
+    .aria-label = Editează marcajul…
+    .accesskey = m
+    .tooltiptext = Editează marcajul
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the edit bookmark command.
 main-context-menu-edit-bookmark-with-shortcut =
@@ -250,6 +257,9 @@ main-context-menu-image-email =
 main-context-menu-image-set-image-as-background =
     .label = Setează imaginea ca fundal pentru desktop...
     .accesskey = S
+main-context-menu-image-copy-text =
+    .label = Copiază textul din imagine
+    .accesskey = x
 main-context-menu-image-info =
     .label = Vezi informații privind imaginea
     .accesskey = f
@@ -280,9 +290,28 @@ main-context-menu-send-to-device =
 
 ##
 
+main-context-menu-use-saved-login =
+    .label = Folosește datele de autentificare salvate
+    .accesskey = o
+# Displayed when there are saved passwords and the user clicks inside a username or password field
+main-context-menu-use-saved-password =
+    .label = Folosește parola salvată
+    .accesskey = o
 
 ##
 
+main-context-menu-use-relay-mask =
+    .label = Folosește masca de e-mail { -relay-brand-short-name }
+    .accesskey = E
+main-context-menu-suggest-strong-password =
+    .label = Sugerează o parolă puternică...
+    .accesskey = S
+main-context-menu-manage-logins2 =
+    .label = Gestionează datele de autentificare
+    .accesskey = M
+main-context-menu-manage-passwords =
+    .label = Gestionează parolele
+    .accesskey = M
 main-context-menu-keyword =
     .label = Adaugă un cuvânt-cheie pentru această căutare…
     .accesskey = K
@@ -316,12 +345,18 @@ main-context-menu-frame-view-source =
 main-context-menu-frame-view-info =
     .label = Vezi informații despre cadru
     .accesskey = I
+main-context-menu-print-selection-2 =
+    .label = Tipărește selecția…
+    .accesskey = r
 main-context-menu-view-selection-source =
     .label = Vezi sursa selecției
     .accesskey = e
 main-context-menu-take-screenshot =
     .label = Realizează o captură de ecran
     .accesskey = T
+main-context-menu-take-frame-screenshot =
+    .label = Fă o captură de ecran
+    .accesskey = o
 main-context-menu-view-page-source =
     .label = Vezi sursa paginii
     .accesskey = V
@@ -344,3 +379,6 @@ main-context-menu-eme-learn-more =
 main-context-menu-open-link-in-container-tab =
     .label = Deschide linkul într-o filă { $containerName } nouă
     .accesskey = T
+main-context-menu-reveal-password =
+    .label = Arată parola
+    .accesskey = v

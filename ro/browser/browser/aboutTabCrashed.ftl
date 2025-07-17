@@ -13,6 +13,7 @@ crashed-multiple-offer-help-message = Alege { crashed-restore-tab-button } sau {
 crashed-request-help = Poți să ne ajuți?
 crashed-request-help-message = Rapoartele de defecțiuni ne ajută să diagnosticăm problemele și să îmbunătățim { -brand-short-name }.
 crashed-request-report-title = Raportează această filă
+crashed-send-report-2 = Trimite automat un raport de defectiuni ca să putem rezolva probleme similare
 crashed-comment =
     .placeholder = Adaugă un comentariu (comentariile sunt vizibile publicului)
 crashed-report-sent = Raportul de defecțiuni a fost deja transmis; îți mulțumim pentru că ne ajuți să facem { -brand-short-name } mai bun!

@@ -3,3 +3,7 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 default-browser-agent-task-description = Sarcina de agent de navigare implicit verifică când navigatorul implicit se schimbă de pe { -brand-short-name } pe alt browser. Dacă modificarea are loc în circumstanțe suspecte, va cere utilizatorului să revină la { -brand-short-name } nu mai mult de două ori. Sarcina este instalată automat de { -brand-short-name } și vine reinstalată la actualizările { -brand-short-name }. Pentru dezactivarea sarcinii, actualizează preferința „default-browser-agent.enabled” de pe pagina about:config sau setarea politicii pentru companii { -brand-short-name } „DisableDefaultBrowserAgent”.
+default-browser-notification-header-text = Continui să folosești { -brand-short-name }?
+default-browser-notification-body-text = Browser-ul tău implicit a fost schimbat recent. Atinge ca să folosești { -brand-short-name } implicit.
+default-browser-notification-yes-button-text = Da
+default-browser-notification-no-button-text = Nu

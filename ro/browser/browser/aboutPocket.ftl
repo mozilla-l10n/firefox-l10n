@@ -56,3 +56,16 @@ pocket-panel-home-discover-more = Descoperă mai multe
 pocket-panel-home-explore-more = Explorează
 pocket-panel-home-most-recent-saves = Iată cele mai recente salvări ale tale:
 pocket-panel-home-most-recent-saves-loading = Se încarcă salvările recente...
+pocket-panel-home-new-user-cta = Dă clic pe butonul { -pocket-brand-name } ca să salvezi articole, videoclipuri și linkuri.
+pocket-panel-home-new-user-message = Vezi aici salvările tale recente.
+
+## Pocket panel header component
+
+pocket-panel-header-my-saves = Afișează salvările mele
+pocket-panel-header-sign-in = Autentificare
+
+## Pocket panel buttons
+
+pocket-panel-button-show-all = Afișează tot
+pocket-panel-button-activate = Activează { -pocket-brand-name } în { -brand-product-name }
+pocket-panel-button-remove = Elimină

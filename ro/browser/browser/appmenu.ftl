@@ -277,6 +277,12 @@ appmenuitem-report-broken-site =
 
 appmenuitem-sign-in-account = Intră în cont
 appmenuitem-monitor-title = { -monitor-brand-short-name }
+appmenuitem-monitor-description = Primește alerte despre încălcări de securitate a datelor
+appmenuitem-relay-title = { -relay-brand-short-name }
+appmenuitem-relay-description = Maschează adresa de e-mail și numărul de telefon reale
+appmenuitem-vpn-description = Protejează-ți activitatea online
+appmenu-services-header = Serviciile mele
+appmenu-other-protection-header = Încearcă alte instrumente de protecție de la { -vendor-short-name }:
 
 ## Profiles panel
 
@@ -285,5 +291,7 @@ appmenu-manage-profiles =
     .label = Gestionează profilurile
 appmenu-create-profile =
     .label = Profil nou
+appmenu-edit-profile =
+    .aria-label = Editează profilul
 appmenu-profiles-2 =
     .label = Profiluri
