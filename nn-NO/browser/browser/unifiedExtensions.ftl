@@ -71,3 +71,12 @@ unified-extensions-mb-blocklist-warning-multiple =
            *[other] { $extensionsCount } extensions disabled
         }
     .message = { $extensionsCount }-utvidingar er deaktiverte
+# Variables:
+#   $extensionsCount (Number) - Number of extensions disabled through hard-blocks.
+unified-extensions-mb-blocklist-error-multiple =
+    .heading =
+        { $extensionsCount ->
+            [one] { "" }
+           *[other] { $extensionsCount } utvidingar deaktiverte
+        }
+    .message = Nokre av utvidingane dine er deaktiverte fordi dei bryt med Mozillas retningslinjer.
