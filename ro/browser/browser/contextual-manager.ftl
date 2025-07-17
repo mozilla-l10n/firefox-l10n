@@ -2,11 +2,19 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+contextual-manager-menu-more-options-button =
+    .title = Mai multe opțiuni
+contextual-manager-more-options-popup =
+    .aria-label = Mai multe opțiuni
 
 ## Passwords
 
+contextual-manager-passwords-command-create = Adaugă parolă
 contextual-manager-passwords-command-import-from-browser = Importă dintr-un alt browser…
 contextual-manager-passwords-command-import = Importă dintr-un fișier…
+contextual-manager-passwords-command-export = Exportă parolele
+contextual-manager-passwords-command-remove-all = Elimină toate parolele
+contextual-manager-passwords-command-settings = Setări
 contextual-manager-passwords-command-help = Ajutor
 # This message can be seen when attempting to reveal a password in contextual password manager on Windows
 contextual-manager-passwords-reveal-password-os-auth-dialog-message-win = Pentru a vizualiza parola, introdu-ți datele de autentificare pentru Windows. Ajută la protejarea securității conturilor tale.

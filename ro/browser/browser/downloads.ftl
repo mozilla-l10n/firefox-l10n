@@ -149,6 +149,18 @@ downloads-open-file =
 ##   $seconds (number) - Amount of seconds left till the file opens.
 ##   $minutes (number) - Amount of minutes till the file opens.
 
+downloading-file-opens-in-hours-and-minutes-2 =
+    .value = Deschidere în { $hours } ore și { $minutes } min...
+downloading-file-opens-in-minutes-2 =
+    .value = Deschidere în { $minutes } min...
+downloading-file-opens-in-minutes-and-seconds-2 =
+    .value = Deschidere în { $minutes } min și { $seconds } sec...
+downloading-file-opens-in-seconds-2 =
+    .value = Deschidere în { $seconds } sec...
+downloading-file-opens-in-some-time-2 =
+    .value = Deschidere când este gata...
+downloading-file-click-to-open =
+    .value = Deschide când este gata
 
 ##
 
@@ -171,14 +183,19 @@ downloads-history =
 downloads-details =
     .title = Detalii privind descărcarea
 
-## These strings are displayed in the private browsing view of the downloads panel
-
-
 ## Displayed when a site attempts to automatically download many files.
 ## Variables:
 ##   $num (number) - Number of blocked downloads.
 ##   $url (string) - The url of the suspicious site, stripped of http, https and www prefix.
 
+downloads-files-not-downloaded =
+    { $num ->
+        [one] Fișier nedescărcat.
+        [few] { $num } fișiere nedescărcate.
+       *[other] { $num } de fișiere nedescărcate.
+    }
+downloads-blocked-from-url = Descărcări blocate de la { $url }.
+downloads-blocked-download-detailed-info = { $url } a încercat să descarce mai multe fișiere automat. Site-ul ar putea fi defect sau încearcă să stocheze fișiere nedorite pe dispozitivul tău.
 
 ##
 
@@ -206,6 +223,11 @@ downloads-more-downloading =
 ## Download errors
 
 downloads-error-alert-title = Eroare de descărcare
+# Variables:
+#   $extension (String): the name of the blocking extension.
+downloads-error-blocked-by = Descărcarea nu a fost salvată deoarece a fost blocată de { $extension }.
+# Used when the name of the blocking extension is unavailable.
+downloads-error-extension = Descărcarea nu a fost salvată deoarece a fost blocată de o extensie.
 # Line breaks in this message are meaningful, and should be maintained.
 downloads-error-generic =
     Descărcarea nu poate fi salvată deoarece s-a produs o eroare necunoscută.

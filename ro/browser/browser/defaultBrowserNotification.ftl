@@ -15,7 +15,11 @@ default-browser-notification-button =
 default-browser-prompt-title-pin = Desemnezi { -brand-short-name } ca browserul tău implicit?
 default-browser-prompt-message-pin = Păstrează { -brand-short-name } la îndemână — desemnează-l ca browser implicit și fixează-l în bara de activități.
 default-browser-prompt-message-pin-mac = Păstrează { -brand-short-name } la îndemână — desemnează-l ca browser implicit și fixează-l în Dock.
+default-browser-prompt-button-primary-set = Setează ca browser implicit
 default-browser-prompt-button-primary-pin = Desemnează ca browser principal
+default-browser-prompt-title-alt = Setezi { -brand-short-name } ca browser implicit?
+default-browser-prompt-message-alt = Obține viteză, siguranță și confidențialitate de fiecare dată când navighezi.
+default-browser-prompt-button-primary-alt = Setează ca browser implicit
 default-browser-prompt-checkbox-not-again-label = Nu afișa acest mesaj din nou
 default-browser-prompt-button-secondary = Nu acum
 
@@ -23,8 +27,15 @@ default-browser-prompt-button-secondary = Nu acum
 ## use Windows Settings to set the default browser. Instructions differ for
 ## Windows 10 and 11.
 
+default-browser-guidance-notification-title = Finalizează setarea { -brand-short-name } ca implicit
 # Quoted text are keywords to look for in the Windows Settings app.
 default-browser-guidance-notification-body-instruction-win10 =
     Pasul 1: mergi la Setări > Aplicații implicite
     Pasul 2: derulează în jos până la „Browser web”
     Pasul 3: selectează și alege { -brand-short-name }
+# Quoted text are keywords to look for in the Windows Settings app.
+default-browser-guidance-notification-body-instruction-win11 =
+    Pasul 1: Mergi la Setări > Aplicații implicite
+    Pasul 2: Selectează „Setează ca implicit” pentru { -brand-short-name }
+default-browser-guidance-notification-info-page = Arată-mi
+default-browser-guidance-notification-dismiss = Terminat

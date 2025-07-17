@@ -7,6 +7,9 @@
 
 crashed-subframe-learnmore-link =
     .value = Află mai multe
+crashed-subframe-submit =
+    .label = Trimite raport
+    .accesskey = S
 
 ## Pending crash reports
 

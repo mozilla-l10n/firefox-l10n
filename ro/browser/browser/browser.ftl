@@ -320,9 +320,25 @@ browser-tab-audio-playing2 = SE REDĂ
 browser-import-button2 =
     .label = Importă marcaje ...
     .tooltiptext = Importă marcaje dintr-un alt browser în { -brand-short-name }
+bookmarks-toolbar-empty-message = Pentru acces rapid, adaugă marcajele aici, în bara de marcaje. <a data-l10n-name="manage-bookmarks">Gestionează marcaje…</a>
 
 ## WebRTC Pop-up notifications
 
+popup-select-camera-device =
+    .value = Cameră:
+    .accesskey = C
+popup-select-camera-icon =
+    .tooltiptext = Cameră
+popup-select-microphone-device =
+    .value = Microfon:
+    .accesskey = M
+popup-select-microphone-icon =
+    .tooltiptext = Microfon
+popup-select-speaker-icon =
+    .tooltiptext = Boxe
+popup-select-window-or-screen =
+    .label = Fereastră sau ecran:
+    .accesskey = W
 popup-all-windows-shared = Toate ferestrele vizibile pe ecran vor fi partajate.
 
 ## WebRTC window or screen share tab switch warning
@@ -371,10 +387,19 @@ urlbar-placeholder-search-mode-other-history =
 urlbar-placeholder-search-mode-other-tabs =
     .placeholder = Introdu termenii de căutare
     .aria-label = Caută file
+# This placeholder is used when searching quick actions.
+urlbar-placeholder-search-mode-other-actions =
+    .placeholder = Introdu termenii de căutare
+    .aria-label = Acțiuni de căutare
 # Variables
 #  $name (String): the name of the user's default search engine
 urlbar-placeholder-with-name =
     .placeholder = Caută cu { $name } sau introdu adresa
+# Variables
+#  $component (String): the name of the component which forces remote control.
+#    Example: "DevTools", "Marionette", "RemoteAgent".
+urlbar-remote-control-notification-anchor2 =
+    .tooltiptext = Browserul este sub comandă la distanță (motiv: { $component })
 urlbar-permissions-granted =
     .tooltiptext = Ai acordat permisiuni suplimentare acestui site web.
 urlbar-switch-to-tab =
@@ -386,6 +411,8 @@ urlbar-go-button =
     .tooltiptext = Mergi la adresa din bara de adrese
 urlbar-page-action-button =
     .tooltiptext = Acțiuni pe pagină
+urlbar-revert-button =
+    .tooltiptext = Arată adresa în bara de adrese
 
 ## Action text shown in urlbar results, usually appended after the search
 ## string or the url, like "result value - action text".
@@ -403,21 +430,56 @@ urlbar-result-action-search-in-private = Caută într-o fereastră privată
 # Variables
 #  $engine (String): the name of a search engine
 urlbar-result-action-search-w-engine = Caută pe { $engine }
+urlbar-result-action-sponsored = Sponsorizat
 urlbar-result-action-switch-tab = Comută la filă
 urlbar-result-action-visit = Vizitează
+# "Switch to tab with container" is used when the target tab is located in a
+# different container.
+# Variables
+# $container (String): the name of the target container
+urlbar-result-action-switch-tab-with-container = Treci la fila · <span>{ $container }</span>
 # Directs a user to press the Tab key to perform a search with the specified
 # engine.
 # Variables
 #  $engine (String): the name of a search engine that searches the entire Web
 #  (e.g. Google).
 urlbar-result-action-before-tabtosearch-web = Apasă Tab pentru a căuta cu { $engine }
+# Directs a user to press the Tab key to perform a search with the specified
+# engine.
+# Variables
+#  $engine (String): the name of a search engine that searches a specific site
+#  (e.g. Amazon).
+urlbar-result-action-before-tabtosearch-other = Apasă Tab pentru căutare { $engine }
 # Variables
 #  $engine (String): the name of a search engine that searches the entire Web
 #  (e.g. Google).
 urlbar-result-action-tabtosearch-web = Caută cu { $engine } direct din bara de adrese
+# Variables
+#  $engine (String): the name of a search engine that searches a specific site
+#  (e.g. Amazon).
+urlbar-result-action-tabtosearch-other-engine = Caută { $engine } direct din bara de adrese
+# Action text for copying to clipboard.
+urlbar-result-action-copy-to-clipboard = Copiază
+# Shows the result of a formula expression being calculated, the last = sign will be shown
+# as part of the result (e.g. "= 2").
+# Variables
+#  $result (String): the string representation for a formula result
+urlbar-result-action-calculator-result = = { $result }
 
 ## Strings used for buttons in the urlbar
 
+# Label prompting user to search with a particular search engine.
+#  $engine (String): the name of a search engine that searches a specific site
+urlbar-result-search-with = Caută cu { $engine }
+# Label for the urlbar result row, prompting the user to use a local keyword to enter search mode.
+#  $keywords (String): the restrict keyword to enter search mode.
+#  $localSearchMode (String): the local search mode (history, tabs, bookmarks,
+#  or actions) to search with.
+urlbar-result-search-with-local-search-mode = { $keywords } - Caută { $localSearchMode }
+# Label for the urlbar result row, prompting the user to use engine keywords to enter search mode.
+#  $keywords (String): the default keyword and user's set keyword if available
+#  $engine (String): the name of a search engine
+urlbar-result-search-with-engine-keywords = { $keywords } - Caută cu { $engine }
 urlbar-searchmode-bookmarks =
     .label = Marcaje
 urlbar-searchmode-tabs =
@@ -432,6 +494,7 @@ urlbar-searchmode-actions =
 ## In these actions "Search" is a verb, followed by where the search is performed.
 
 urlbar-result-action-search-bookmarks = Caută în marcaje
+urlbar-result-action-search-history = Caută în istoric
 urlbar-result-action-search-tabs = Caută file
 
 ## Labels shown above groups of urlbar results
@@ -445,6 +508,14 @@ urlbar-group-search-suggestions =
 # A label shown above Quick Actions in the urlbar results.
 urlbar-group-quickactions =
     .label = Acțiuni rapide
+# The header shown above trending results.
+# Variables:
+#  $engine (String): the name of the search engine providing the trending suggestions
+urlbar-group-trending =
+    .label = În tendințe pe { $engine }
+urlbar-result-menu-trending-why =
+    .label = De ce văd asta?
+    .accesskey = W
 
 ## Reader View toolbar buttons
 
@@ -454,6 +525,19 @@ reader-view-enter-button =
 # This should match menu-view-close-readerview in menubar.ftl
 reader-view-close-button =
     .aria-label = Închide modul de lectură
+
+## Picture-in-Picture urlbar button
+## Variables:
+##   $shortcut (String) - Keyboard shortcut to execute the command.
+
+picture-in-picture-urlbar-button-open =
+    .tooltiptext = Deschide imagine în imagine ({ $shortcut })
+picture-in-picture-urlbar-button-close =
+    .tooltiptext = Închide modul imagine în imagine ({ $shortcut })
+picture-in-picture-panel-header = Imagine în imagine
+picture-in-picture-panel-headline = Acest site nu recomandă utilizarea modului de imagine în imagine
+picture-in-picture-enable-toggle =
+    .label = Activează oricum
 
 ## Full Screen and Pointer Lock UI
 
@@ -522,6 +606,8 @@ bookmarks-search =
     .label = Caută în marcaje
 bookmarks-tools =
     .label = Instrumente pentru marcaje
+bookmarks-subview-edit-bookmark =
+    .label = Editează marcajul...
 # The aria-label is a spoken label that should not include the word "toolbar" or
 # such, because screen readers already know that this container is a toolbar.
 # This avoids double-speaking.
@@ -543,6 +629,8 @@ bookmarks-subview-bookmark-tab =
 
 library-bookmarks-menu =
     .label = Marcaje
+library-recent-activity-title =
+    .value = Activitate recentă
 
 ## Pocket toolbar button
 
@@ -606,6 +694,9 @@ panel-save-update-password = Parolă
 
 ##
 
+# "More" item in macOS share menu
+menu-share-more =
+    .label = Mai multe…
 ui-tour-info-panel-close =
     .tooltiptext = Închide
 
@@ -669,12 +760,28 @@ tabs-toolbar-list-all-tabs =
     .label = Listează toate filele
     .tooltiptext = Listează toate filele
 
+## Infobar shown at startup to suggest session-restore
+
+restore-session-startup-suggestion-button = Arată-mi cum
+
+## Infobar shown when the user tries to open a file picker and file pickers are blocked by enterprise policy
+
+filepicker-blocked-infobar = Organizația ta a blocat accesul la fișierele locale de pe acest calculator
+
 ## Mozilla data reporting notification (Telemetry, Firefox Health Report, etc)
 
 data-reporting-notification-message = { -brand-short-name } trimite automat anumite date la { -vendor-short-name } ca să îți putem îmbunătăți experiența.
 data-reporting-notification-button =
     .label = Alege ce partajezi
     .accesskey = C
+# Label for the indicator shown in the private browsing window titlebar.
+private-browsing-indicator-label = Navigare privată
+# Tooltip for the indicator shown in the window titlebar when content analysis is active.
+# Variables:
+#   $agentName (String): The name of the DLP agent that is connected
+content-analysis-indicator-tooltip =
+    .tooltiptext = Prevenirea pierderilor de date (PPD) de la { $agentName }. Dă clic pentru mai multe informații.
+content-analysis-panel-title = Protecția datelor
 
 ## Unified extensions (toolbar) button
 
@@ -690,6 +797,21 @@ unified-extensions-button-permissions-needed =
     .tooltiptext =
         Extensii
         Permisiuni necesare
+
+## Unified extensions button when some extensions are quarantined.
+## Note that the new line is intentionally part of the tooltip.
+
+unified-extensions-button-quarantined =
+    .label = Extensii
+    .tooltiptext =
+        Extensii
+        Unele extensii nu sunt permise
+
+## Private browsing reset button
+
+reset-pbm-toolbar-button =
+    .label = Închide sesiunea privată
+    .tooltiptext = Închide sesiunea privată
 
 ## Autorefresh blocker
 
