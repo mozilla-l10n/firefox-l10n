@@ -315,6 +315,18 @@ browser-window-close-button =
 # This label should be written in all capital letters if your locale supports them.
 browser-tab-audio-playing2 = SE REDĂ
 
+## These labels should be written in all capital letters if your locale supports them.
+## Variables:
+##  $count (number): number of affected tabs
+
+browser-tab-unmute =
+    { $count ->
+        [1] REDĂ SONORUL FILEI
+        [one] REDĂ SONORUL FILEI
+        [few] REDĂ SONORUL A { $count } FILE
+       *[other] REDĂ SONORUL A { $count } DE FILE
+    }
+
 ## Bookmarks toolbar items
 
 browser-import-button2 =

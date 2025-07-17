@@ -39,3 +39,36 @@ fxviewtabrow-open-in-private-window = Deschide într-o fereastră privată nouă
 # “Bookmark” is a verb, as in "Bookmark this page" (add to bookmarks).
 fxviewtabrow-add-bookmark = Marchează…
     .accesskey = B
+fxviewtabrow-save-to-pocket = Salvează în { -pocket-brand-name }
+    .accesskey = o
+fxviewtabrow-copy-link = Copiază linkul
+    .accesskey = L
+fxviewtabrow-close-tab = Închide fila
+    .accesskey = C
+fxviewtabrow-move-tab = Mută fila
+    .accesskey = v
+fxviewtabrow-move-tab-start = Mută la început
+    .accesskey = S
+fxviewtabrow-move-tab-end = Mută la final
+    .accesskey = E
+fxviewtabrow-move-tab-window = Mută în fereastră nouă
+    .accesskey = W
+fxviewtabrow-send-tab = Trimite fila către dispozitiv
+    .accesskey = n
+fxviewtabrow-pin-tab = Fixează fila
+    .accesskey = P
+fxviewtabrow-mute-tab = Dezactivează sonorul filei
+    .accesskey = M
+fxviewtabrow-unmute-tab = Redă sonorul filei
+    .accesskey = m
+# Variables:
+#   $tabTitle (string) - Title of the tab to which the context menu is associated
+fxviewtabrow-options-menu-button =
+    .title = Opțiuni pentru { $tabTitle }
+
+## Strings below are to be used without context (tab title/URL) on mute/unmute buttons
+
+fxviewtabrow-mute-tab-button-no-context =
+    .title = Dezactivează sonorul filei
+fxviewtabrow-unmute-tab-button-no-context =
+    .title = Redă sonorul filei
