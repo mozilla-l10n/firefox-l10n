@@ -21,8 +21,8 @@ protections-popup-footer-protection-label-standard = 标准
 # The text a screen reader speaks when focused on the info button.
 protections-panel-etp-more-info =
     .aria-label = 关于增强型跟踪保护功能的更多信息
-protections-panel-etp-on-header = 此网站已开启增强型跟踪保护
-protections-panel-etp-off-header = 此网站已关闭增强型跟踪保护
+protections-panel-etp-on-header = 已对此网站开启增强型跟踪保护
+protections-panel-etp-off-header = 已对此网站关闭增强型跟踪保护
 # The link to be clicked to open the sub-panel view
 protections-panel-site-not-working = 网站不正常？
 # The heading/title of the sub-panel view
