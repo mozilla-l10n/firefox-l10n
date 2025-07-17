@@ -130,3 +130,10 @@ tab-context-send-tabs-to-device =
            *[other] Send { $tabCount } faner til ei eining
         }
     .accesskey = n
+tab-context-unload-n-tabs =
+    .label =
+        { $tabCount ->
+            [1] Frigjer fane
+           *[other] Unload { $tabCount } Tabs
+        }
+    .accesskey = Frigjer { $tabCount } faner
