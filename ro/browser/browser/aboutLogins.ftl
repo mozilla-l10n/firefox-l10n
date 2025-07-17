@@ -30,6 +30,7 @@ about-logins-menu-menuitem-import-from-a-file = Importă dintr-un fișier…
 about-logins-menu-menuitem-export-logins = Exportă date de autentificare…
 about-logins-menu-menuitem-remove-all-logins = Elimină toate autentificările…
 about-logins-menu-menuitem-export-logins2 = Exportă parolele…
+about-logins-menu-menuitem-remove-all-logins2 = Elimină toate parolele…
 menu-menuitem-preferences =
     { PLATFORM() ->
         [windows] Opțiuni
@@ -49,23 +50,59 @@ login-list-count =
         [few] { $count } date de autentificare
        *[other] { $count } de date de autentificare
     }
+# Variables
+#   $count (number) - Number of filtered logins
+#   $total (number) - Total number of logins
+login-list-filtered-count =
+    { $total ->
+        [one] { $count } din { $total } autentificare
+        [few] { $count } din { $total } autentificări
+       *[other] { $count } din { $total } de autentificări
+    }
+# Variables
+#   $count (number) - Number of logins
+login-list-count2 =
+    { $count ->
+        [one] { $count } parolă
+        [few] { $count } parole
+       *[other] { $count } de parole
+    }
+# Variables
+#   $count (number) - Number of filtered logins
+#   $total (number) - Total number of logins
+login-list-filtered-count2 =
+    { $total ->
+        [one] { $count } din { $total } parolă
+       *[other] { $count } din { $total } (de) parole
+    }
 login-list-sort-label-text = Sortează după:
 login-list-name-option = Nume (A-Z)
 login-list-name-reverse-option = Nume (Z-A)
+login-list-username-option = Nume de utilizator (A-Z)
+login-list-username-reverse-option = Nume de utilizator (Z-A)
 about-logins-login-list-alerts-option = Alerte
 login-list-last-changed-option = Ultima modificare
 login-list-last-used-option = Ultima utilizare
 login-list-intro-title = Nicio autentificare găsită
+login-list-intro-title2 = Nu au fost salvate parole
 login-list-intro-description = Când salvezi o parolă în { -brand-product-name }, va apărea aici.
 about-logins-login-list-empty-search-title = Nu s-au găsit date de autentificare
+about-logins-login-list-empty-search-title2 = Nu s-au găsit parole
 about-logins-login-list-empty-search-description = Nu există rezultate care să corespundă căutării.
 login-list-item-title-new-login = Autentificare nouă
 login-list-item-subtitle-new-login = Introdu datele tale de autentificare
+login-list-item-title-new-login2 = Adaugă parola
 login-list-item-subtitle-missing-username = (niciun nume de utilizator)
 about-logins-list-item-breach-icon =
     .title = Site web a cărui securitate a fost încălcată
 about-logins-list-item-vulnerable-password-icon =
     .title = Parolă vulnerabilă
+about-logins-list-section-breach = Site web a cărui securitate a fost încălcată
+about-logins-list-section-vulnerable = Parole vulnerabile
+about-logins-list-section-nothing = Nicio alertă
+about-logins-list-section-today = Astăzi
+about-logins-list-section-yesterday = Ieri
+about-logins-list-section-week = Ultimele 7 zile
 
 ## Introduction screen
 
@@ -73,19 +110,25 @@ about-logins-login-intro-heading-logged-out2 = Cauți datele de autentificare sa
 about-logins-login-intro-heading-logged-in = Nu am găsit date de autentificare sincronizate.
 login-intro-description = Dacă ți-ai salvat datele de autentificare în { -brand-product-name } pe un alt dispozitiv, iată cum le poți aduce aici:
 login-intro-instructions-fxa = Creează un cont sau autentifică-te în { -fxaccount-brand-name(case: "definite-article") } de pe dispozitivul pe care ai salvat datele de autentificare.
+about-logins-login-intro-heading-message = Salvează-ți parolele într-un loc sigur
 login-intro-description2 = Toate parolele pe care le salvezi în { -brand-product-name } sunt criptate. În plus, suntem atenți la încălcarea securității datelor și te alertăm dacă te afectează. <a data-l10n-name="breach-alert-link">Află mai multe</a>
+login-intro-instructions-fxa2 = Creează sau intră în contul tău pe dispozitivul în care sunt salvate datele tale de autentificare.
 login-intro-instructions-fxa-settings = Mergi la Setări > Sincronizare > Activează sincronizarea… Bifează caseta de selectare Date de autentificare și parole.
 login-intro-instructions-fxa-passwords-help = Vizitează <a data-l10n-name="passwords-help-link">asistența pentru parole</a> pentru mai mult ajutor.
 about-logins-intro-browser-only-import = Dacă datele tale de autentificare sunt salvate în alt browser, le poți<a data-l10n-name="import-link">importa în { -brand-product-name }</a>
 about-logins-intro-import2 = Dacă datele tale de autentificare sunt salvate în afara { -brand-product-name }, le poți <a data-l10n-name="import-browser-link">importa dintr-un alt browser</a> sau <a data-l10n-name="import-file-link">dintr-un fișier</a>
+about-logins-intro-import3 = Selectează butonul cu semnul plus de mai sus pentru a adăuga o parolă acum. Poți și <a data-l10n-name="import-browser-link">importa parole dintr-un alt browser</a> sau <a data-l10n-name="import-file-link">dintr-un fișier</ a>.
 
 ## Login
 
 login-item-new-login-title = Creează o autentificare nouă
+# Header for adding a password
+about-logins-login-item-new-login-title = Adaugă parolă
 login-item-edit-button = Editează
 about-logins-login-item-remove-button = Elimină
 login-item-origin-label = Adresa site-ului web
 login-item-tooltip-message = Asigură-te că aceasta se potrivește cu adresa exactă a site-ului web unde te autentifici.
+about-logins-add-password-tooltip = Asigură-te că salvezi parola actuală pentru acest site.
 login-item-origin =
     .placeholder = https://www.example.com
 login-item-username-label = Nume de utilizator
@@ -99,8 +142,17 @@ login-item-password-reveal-checkbox =
 login-item-copy-password-button-text = Copiază
 login-item-copied-password-button-text = Copiată!
 login-item-save-changes-button = Salvează modificările
+about-logins-login-item-save-changes-button = Salvează
 login-item-save-new-button = Salvează
 login-item-cancel-button = Anulează
+
+## The date is displayed in a timeline showing the password evolution.
+## A label is displayed under the date to describe the type of change.
+## (e.g. updated, created, etc.)
+
+login-item-timeline-action-created = Creată
+login-item-timeline-action-updated = Actualizată
+login-item-timeline-action-used = Folosită
 
 ## OS Authentication dialog
 
@@ -115,6 +167,11 @@ about-logins-edit-login-os-auth-dialog-message-win = Pentru a-ți edita datele d
 # This message can be seen when attempting to edit a login in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-edit-login-os-auth-dialog-message-macosx = editează datele de autentificare salvate
+# This message can be seen when attempting to edit a login in about:logins on Windows.
+about-logins-edit-login-os-auth-dialog-message2-win = Pentru editarea parolei, introdu-ți datele tale de autentificare pentru Windows. Ajută la protejarea securității conturilor tale.
+# This message can be seen when attempting to edit a login in about:logins
+# On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
+about-logins-edit-login-os-auth-dialog-message2-macosx = editează parola salvată
 # This message can be seen when attempting to reveal a password in about:logins on Windows.
 about-logins-reveal-password-os-auth-dialog-message-win = Pentru a vizualiza parola, introdu-ți datele de autentificare pentru Windows. Ajută la protejarea securității conturilor tale.
 # This message can be seen when attempting to reveal a password in about:logins
@@ -130,6 +187,11 @@ about-logins-export-password-os-auth-dialog-message-win = Pentru a exporta datel
 # This message can be seen when attempting to export a password in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-export-password-os-auth-dialog-message-macosx = exportă datele de autentificare și parolele salvate
+# This message can be seen when attempting to export a password in about:logins on Windows.
+about-logins-export-password-os-auth-dialog-message2-win = Pentru exportarea parolelor, introdu datele de autentificare pentru Windows. Ajută la protejarea securității conturilor tale.
+# This message can be seen when attempting to export a password in about:logins
+# On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
+about-logins-export-password-os-auth-dialog-message2-macosx = exportă parolele salvate
 
 ## Primary Password notification
 
@@ -145,6 +207,10 @@ confirmation-dialog-dismiss-button =
     .title = Anulează
 about-logins-confirm-remove-dialog-title = Elimini această autentificare?
 confirm-delete-dialog-message = Această acțiune este ireversibilă.
+# Title for modal to confirm the removal of one saved password
+about-logins-confirm-delete-dialog-title = Elimini parola?
+# Message for modal to confirm the removal of one saved password
+about-logins-confirm-delete-dialog-message = Nu poți anula această acțiune.
 about-logins-confirm-remove-dialog-confirm-button = Elimină
 
 ## Variables
@@ -188,12 +254,31 @@ about-logins-confirm-remove-all-sync-dialog-message =
         [few] Acest lucru va elimina toate autentificările pe care le-ai salvat în { -brand-short-name } pe toate dispozitivele sincronizate cu { -fxaccount-brand-name(case: "definite-article", capitalization: "lower-and-you") }. De asemenea, vor fi eliminate alertele privind încălcarea securității datelor care apar aici. Nu vei putea anula această acțiune.
        *[other] Acest lucru va elimina toate autentificările pe care le-ai salvat în { -brand-short-name } pe toate dispozitivele sincronizate cu { -fxaccount-brand-name(case: "definite-article", capitalization: "lower-and-you") }. De asemenea, vor fi eliminate alertele privind încălcarea securității datelor care apar aici. Nu vei putea anula această acțiune.
     }
+# Title for modal to confirm the removal of all saved passwords when user is NOT synced
+about-logins-confirm-remove-all-dialog-title2 =
+    { $count ->
+        [one] Elimini { $count } parolă?
+        [few] Elimini { $count } parole?
+       *[other] Elimini { $count } de parole?
+    }
+# Title for modal to confirm the removal of all saved passwords when user IS SYNCED
+about-logins-confirm-remove-all-sync-dialog-title2 =
+    { $count ->
+        [one] Elimini { $count } parolă de pe toate dispozitivele?
+        [few] Elimini { $count } parole de pe toate dispozitivele?
+       *[other] Elimini { $count } de parole de pe toate dispozitivele?
+    }
 
 ##
 
 about-logins-confirm-export-dialog-title = Exportă date de autentificare și parole
 about-logins-confirm-export-dialog-message = Parolele tale vor fi salvate în text lizibil (de ex., BadP@ssw0rd) și oricine poate deschide fișierul exportat le va putea vedea.
 about-logins-confirm-export-dialog-confirm-button = Exportă…
+about-logins-confirm-export-dialog-title2 = O notă despre exportarea parolelor
+about-logins-confirm-export-dialog-message2 =
+    La export, parolele sunt salvate într-un fișier cu text lizibil.
+    Când ai terminat de folosit fișierul, îți recomandăm să îl elimini pentru ca alții care folosesc acest dispozitiv să nu îți vadă parolele.
+about-logins-confirm-export-dialog-confirm-button2 = Continuă exportul
 about-logins-alert-import-title = Importare completă
 about-logins-alert-import-message = Vezi sumarul detaliat al importării
 confirm-discard-changes-dialog-title = Înlături modificările nesalvate?
