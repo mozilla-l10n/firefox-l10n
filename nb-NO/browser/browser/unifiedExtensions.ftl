@@ -80,4 +80,4 @@ unified-extensions-mb-blocklist-error-multiple =
         { $extensionsCount ->
            *[other] { $extensionsCount } utvidelser deaktivert
         }
-    .message = Noen av dine utvidelser er deaktivert fordi de bryter med Mozillas retningslinjer.
+    .message = Noen av dine utvidelser er deaktiverte fordi de bryter med Mozillas retningslinjer.
