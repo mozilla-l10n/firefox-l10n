@@ -81,6 +81,23 @@ add-engine-name-exists = Namnet er allereie i bruk. Vel eit anna.
 add-engine-no-name = Legg til eit namn.
 add-engine-no-url = Skriv inn ein URL.
 add-engine-invalid-url = Nettadressa ser ikkje rett ut. Sjekk henne og prøv på nytt.
+add-engine-invalid-protocol = Nettadressa ser ikkje rett ut. Bruk ei nettadresse som startar med http eller https.
+# This error is shown when the user typed URL is missing %s.
+add-engine-missing-terms-url = Prøv å inkludere %s i staden for søkjeordet.
+# This error is shown when the user typed post data is missing %s.
+add-engine-missing-terms-post-data = Prøv å inkludere %s i staden for søkjeordet.
 
 ## The following strings are used as labels for the dialog's buttons.
 
+# buttonlabelextra1 is the label of a button to open the advanced section
+# of the dialog.
+add-engine-dialog2 =
+    .buttonlabelaccept = Legg til s;kjemotor
+    .buttonaccesskeyaccept = L
+    .buttonlabelextra1 = Avansert
+# buttonlabelextra1 is the label of a button to open the advanced section
+# of the dialog.
+edit-engine-dialog =
+    .buttonlabelaccept = Lagre søkjemotor
+    .buttonaccesskeyaccept = L
+    .buttonlabelextra1 = Avansert
