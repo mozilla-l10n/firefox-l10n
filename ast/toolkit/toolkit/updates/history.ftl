@@ -3,11 +3,11 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 history-title = Historial d'anovamientos
-history-intro = Instaláronse los anovamientos de darréu
+history-intro = Instaláronse los anovamientos siguientes
 close-button-label =
     .buttonlabelcancel = Zarrar
     .title = Historial d'anovamientos
-no-updates-label = Entá nun s'instalaron anovamientos
+no-updates-label = Nun s'instaló nengún anovamientu
 name-header = Nome del anovamientu
 date-header = Data de la instalación
 type-header = Tipu
