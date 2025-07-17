@@ -786,10 +786,10 @@ home-prefs-trending-search-description = Populární a často vyhledávaná tém
 home-prefs-support-firefox-header =
     .label =
         { -brand-product-name.case-status ->
-            [with-cases] Podpořte { -brand-product-name(case: "acc") }
-           *[no-cases] Podpořte aplikaci { -brand-product-name }
+            [with-cases] Podpora { -brand-product-name(case: "acc") }
+           *[no-cases] Podpora aplikace { -brand-product-name }
         }
-home-prefs-mission-message = Naši sponzoři podporují naši misi budovat lepší web
+home-prefs-mission-message = Naši sponzoři podporují naši misi budovat lepší web.
 home-prefs-mission-message-learn-more-link = Zjistěte jak
 # Variables:
 #   $num (number) - Number of rows displayed
