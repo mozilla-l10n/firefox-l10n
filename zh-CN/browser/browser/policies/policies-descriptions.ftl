@@ -10,7 +10,7 @@
 ## These are short descriptions for individual policies, to be displayed
 ## in the documentation section in about:policies.
 
-policy-3rdparty = 设置 WebExtension 可通过 chrome.storage.managed 存取的策略。
+policy-3rdparty = 设置 WebExtension 可通过 chrome.storage.managed 访问的策略。
 policy-AllowedDomainsForApps = 定义允许访问 Google Workspace 的域。
 policy-AllowFileSelectionDialogs = 允许显示文件选择对话框。
 policy-AppAutoUpdate = 启用或禁用应用程序自动更新。
