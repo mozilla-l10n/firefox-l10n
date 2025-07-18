@@ -378,6 +378,7 @@ tab-groups-onboarding-dismiss = حسنا
 
 multi-profile-spotlight-body = تنقل بسهولة بين التصفح للعمل والترفيه. تُبقي الملفات الشخصية معلومات تصفحك، بما في ذلك تأريخ البحث وكلمات السر، منفصلة تمامًا لتبقى منظمًا.
 multi-profile-spotlight-cta = أنشئ ملفًا شخصيًا
+multi-profile-callout-title = أنشئ ملفات شخصية مختلفة للعمل والمتعة
 multi-profile-callout-subtitle = تتيح لك الملفات الشخصية الاحتفاظ بمعلومات تصفحك، مثل تأريخ البحث وكلمات السر، منفصلة تمامًا.
 multi-profile-callout-cta = أنشئ ملفًا شخصيًا
 
