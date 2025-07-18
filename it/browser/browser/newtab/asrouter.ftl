@@ -339,3 +339,16 @@ multi-cta-fox-doodle-privacy-focused-subtitle =
        *[other] Mantieni il tuo browser preferito incentrato sulla privacy sempre a portata di clic. Imposta { -brand-short-name } come browser predefinito per l’apertura dei link, aggiungilo alla barra delle applicazioni e al menu Start.
     }
 multi-cta-fox-doodle-msix-privacy-focused-subtitle = Mantieni il tuo browser preferito incentrato sulla privacy sempre a portata di clic. Imposta { -brand-short-name } come browser predefinito per l’apertura dei link, aggiungilo alla barra delle applicazioni.
+
+## Windows 10 EoS Sync messages group 1 spotlight
+
+windows-10-eos-sync-spotlight-title = Hai in programma di aggiornare a breve da Windows 10?
+windows-10-eos-sync-spotlight-subtitle = Salva password e segnalibri per prepararti al salto su qualsiasi dispositivo.
+windows-10-eos-sync-spotlight-primary-label = Effettua il backup di { -brand-short-name }
+
+## Windows 10 EoS Sync messages group 1 toast notification
+
+windows-10-eos-sync-toast-title = Vuoi passare a Windows 11? Non perdere segnalibri e password.
+windows-10-eos-sync-toast-subtitle = Salva i tuoi dati in modo che { -brand-short-name } sia pronto per l’uso in qualsiasi momento, su questo computer o sul prossimo.
+windows-10-eos-sync-toast-primary-label = Inizia
+windows-10-eos-sync-toast-secondary-label = Ricordamelo più tardi

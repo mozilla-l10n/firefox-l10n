@@ -823,6 +823,8 @@ urlbar-searchmode-default =
 urlbar-searchmode-popup-description = Adesso cerca con:
 urlbar-searchmode-popup-search-settings-menuitem =
     .label = Impostazioni ricerca
+# Label shown next to a new search engine in the Searchmode Switcher popup to promote it.
+urlbar-searchmode-new = Novità
 # Searchmode Switcher button
 # Variables:
 #   $engine (String): the current default search engine.
@@ -1320,3 +1322,104 @@ onboarding-checklist-button-label = Completa la configurazione
 onboarding-aw-finish-setup-button =
     .label = Completa configurazione
     .tooltiptext = Completa la configurazione di { -brand-short-name }
+
+## The urlbar trust panel
+
+trustpanel-etp-label-enabled = La protezione antitracciamento avanzata è attiva
+trustpanel-etp-label-disabled = La protezione antitracciamento avanzata è disattivata
+trustpanel-etp-description-enabled = Se qualcosa non funziona su questo sito, prova a disattivare le protezioni.
+trustpanel-etp-description-disabled = { -brand-product-name } ritiene che le aziende dovrebbero seguirti di meno. Blocchiamo il maggior numero possibile di elementi traccianti quando attivi le protezioni.
+trustpanel-connection-label-secure = Connessione sicura
+trustpanel-connection-label-insecure = Connessione non sicura
+trustpanel-header-enabled = { -brand-product-name } è in allerta
+trustpanel-description-enabled = Sei protetto. Se rileviamo qualcosa, te lo faremo sapere
+trustpanel-header-disabled = Hai disattivato le protezioni
+trustpanel-description-disabled = { -brand-product-name } è fuori servizio. Ti consigliamo di riattivare le protezioni.
+trustpanel-clear-cookies-button = Elimina cookie e dati dei siti web
+trustpanel-privacy-link = Impostazioni per la privacy
+# Variables
+#  $host (String): the hostname of the site that is being displayed.
+trustpanel-clear-cookies-header =
+    .title = Elimina cookie e dati dei siti web per { $host }
+trustpanel-clear-cookies-description = La rimozione di cookie e dati dei siti web potrebbe disconnetterti dai siti o svuotare eventuali carrelli in sospeso.
+trustpanel-clear-cookies-subview-button-clear = Elimina
+trustpanel-clear-cookies-subview-button-cancel = Annulla
+# Variables
+#  $host (String): the hostname of the site that is being displayed.
+trustpanel-site-information-header =
+    .title = Protezioni per la connessione a { $host }
+trustpanel-connection-secure = La connessione con questo sito è sicura
+trustpanel-connection-not-secure = La connessione con questo sito non è sicura.
+trustpanel-siteinformation-morelink = Ulteriori informazioni sul sito
+trustpanel-blocker-see-all = Mostra tutti
+# Variables
+#  $host (String): the hostname of the site that is being displayed.
+trustpanel-blocker-header =
+    .title = Protezioni antitracciamento per { $host }
+
+## Variables
+##  $count (String): the number of trackers blocked.
+
+trustpanel-blocker-section-header =
+    { $count ->
+        [one] <span>{ $count }</span> elemento tracciante bloccato su questo sito
+       *[other] <span>{ $count }</span> elementi traccianti bloccati su questo sito
+    }
+trustpanel-blocker-description = { -brand-product-name } ritiene che le aziende dovrebbero seguirti di meno. Per questo motivo ne blocchiamo il maggior numero possibile.
+trustpanel-blocked-header = { -brand-product-name } ha bloccato questi elementi per proteggerti:
+trustpanel-tracking-header = { -brand-product-name } ha consentito questi elementi per evitare malfunzionamenti nei siti:
+trustpanel-tracking-description = Senza elementi traccianti, alcuni pulsanti, moduli e campi di accesso potrebbero non funzionare.
+trustpanel-insecure-section-header = La connessione non è sicura
+trustpanel-insecure-description = I dati che stai inviando a questo sito non sono crittati. Potrebbero venire visualizzati, rubati o alterati.
+trustpanel-list-label-tracking-cookies =
+    { $count ->
+        [one] { $count } cookie tracciante intersito
+       *[other] { $count } cookie traccianti intersito
+    }
+trustpanel-list-label-tracking-content = Contenuti traccianti
+trustpanel-list-label-fingerprinter = { $count } fingerprinter
+trustpanel-list-label-social-tracking =
+    { $count ->
+        [one] { $count } tracciante dei social media
+       *[other] { $count } traccianti dei social media
+    }
+trustpanel-list-label-cryptominer = { $count } cryptominer
+trustpanel-social-tracking-blocking-tab-header =
+    { $count ->
+        [one] { -brand-product-name } ha bloccato { $count } tracciante dei social media
+       *[other] { -brand-product-name } ha bloccato { $count } traccianti dei social media
+    }
+trustpanel-social-tracking-not-blocking-tab-header =
+    { $count ->
+        [one] { -brand-product-name } ha consentito { $count } tracciante dei social media
+       *[other] { -brand-product-name } ha consentito { $count } traccianti dei social media
+    }
+trustpanel-social-tracking-tab-list-header = Questi siti stanno cercando di tracciarti:
+trustpanel-tracking-cookies-blocking-tab-header =
+    { $count ->
+        [one] { -brand-product-name } ha bloccato { $count } cookie tracciante intersito
+       *[other] { -brand-product-name } ha bloccato { $count } cookie traccianti intersito
+    }
+trustpanel-tracking-cookies-not-blocking-tab-header =
+    { $count ->
+        [one] { -brand-product-name } ha consentito { $count } cookie tracciante intersito
+       *[other] { -brand-product-name } ha consentito { $count } cookie traccianti intersito
+    }
+trustpanel-tracking-cookies-tab-list-header = Questi siti stanno cercando di tracciarti:
+trustpanel-tracking-content-blocking-tab-header =
+    { $count ->
+        [one] { -brand-product-name } ha bloccato { $count } elemento tracciante
+       *[other] { -brand-product-name } ha bloccato { $count } elementi traccianti
+    }
+trustpanel-tracking-content-not-blocking-tab-header =
+    { $count ->
+        [one] { -brand-product-name } ha consentito { $count } elemento tracciante
+       *[other] { -brand-product-name } ha consentito { $count } elementi traccianti
+    }
+trustpanel-tracking-content-tab-list-header = Questi siti stanno cercando di tracciarti:
+trustpanel-fingerprinter-blocking-tab-header = { -brand-product-name } ha bloccato { $count } fingerprinter
+trustpanel-fingerprinter-not-blocking-tab-header = { -brand-product-name } ha consentito { $count } fingerprinter
+trustpanel-fingerprinter-list-header = Questi siti stanno cercando di acquisire il fingerprint:
+trustpanel-cryptominer-blocking-tab-header = { -brand-product-name } ha bloccato { $count } cryptominer
+trustpanel-cryptominer-not-blocking-tab-header = { -brand-product-name } ha consentito { $count } cryptominer
+trustpanel-cryptominer-tab-list-header = Questi siti stanno tentando di effettuare cryptomining:

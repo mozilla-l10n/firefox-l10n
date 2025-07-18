@@ -255,6 +255,8 @@ tab-group-editor-color-selector2-gray = Grigio
 tab-group-editor-color-selector2-red = Rosso
     .title = Rosso
 tab-group-description = { $tabGroupName } — Gruppo di schede
+tab-group-label-tooltip-collapsed = { $tabGroupName } — Compresso
+tab-group-label-tooltip-expanded = { $tabGroupName } — Espanso
 tab-context-unnamed-group =
     .label = Gruppo senza nome
 tab-group-name-default = Gruppo senza nome
@@ -301,6 +303,16 @@ tab-context-ungroup-tab =
            *[other] Rimuovi dai gruppi
         }
     .accesskey = R
+# When a tab group containing the active tab is collapsed, the active tab
+# remains visible. An indicator appears at the end of the group showing the
+# number of remaining tabs that are hidden by the collapsed group,
+# e.g. "+2" for a group with 3 total tabs.
+tab-group-overflow-count = +{ $tabCount }
+tab-group-overflow-count-tooltip =
+    { $tabCount ->
+        [one] Un’altra scheda
+       *[other] Altre { $tabCount } schede
+    }
 
 ## Open/saved tab group context menu
 
