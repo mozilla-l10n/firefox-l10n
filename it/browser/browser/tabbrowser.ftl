@@ -222,7 +222,9 @@ tabbrowser-manager-current-window-tab-group =
     .label = { $tabGroupName }
     .tooltiptext = { $tabGroupName } — Finestra corrente
 
-## Tab Groups
+## Variables:
+##  $tabGroupName (String): The name of the tab group. Defaults to the value
+##                          of tab-group-name-default.
 
 tab-group-editor-title-create = Crea nuovo gruppo di schede
 tab-group-editor-title-edit = Gestisci gruppo di schede
@@ -252,16 +254,12 @@ tab-group-editor-color-selector2-gray = Grigio
     .title = Grigio
 tab-group-editor-color-selector2-red = Rosso
     .title = Rosso
-# Variables:
-#  $tabGroupName (String): The name of the tab group. Defaults to the value
-#                          of tab-group-name-default.
 tab-group-description = { $tabGroupName } — Gruppo di schede
 tab-context-unnamed-group =
     .label = Gruppo senza nome
 tab-group-name-default = Gruppo senza nome
 
-## Variables:
-##  $tabCount (Number): the number of tabs that are affected by the action.
+##
 
 tab-context-move-tab-to-new-group =
     .label =
