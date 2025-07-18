@@ -79,6 +79,9 @@ about-glean-label-for-log-pings =
 about-glean-label-for-controls-submit =
     Önceki düğmeye basarak tüm { -glean-brand-name } ping’lerini kendi etiketinizle işaretleyebilir ve seçili ping’i gönderebilirsiniz.
     (Bundan sonra uygulamayı yeniden başlatana kadar gönderilen tüm ping’ler <code>{ $debug-tag }</code> etiketiyle işaretlenecektir.)
+about-glean-li-for-visit-gdpv =
+    <a data-l10n-name="gdpv-tagged-pings-link">Etiketinizle gönderilen ping’leri görmek için { glean-debug-ping-viewer-brand-name } sayfasını ziyaret edin</a>.
+    Düğmeye bastıktan sonra ping’inizin ulaşması genellikle birkaç saniye sürer ama bazen birkaç dakikayı bulabilir.
 # Do not translate strings between <code> </code> tags.
 about-glean-adhoc-note =
     Geliştirici araçları konsolunda Glean JS API’sinin çalıştığını unutmayın.
