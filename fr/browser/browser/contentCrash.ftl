@@ -33,6 +33,13 @@ pending-crash-reports-always-send =
     .label = Toujours envoyer
 # Variables:
 #   $reportCount (Number): the number of pending crash reports
+requested-crash-reports-message-new =
+    { $reportCount ->
+        [one] Vous avez un rapport de plantage relatif à des plantages qui font l’objet d’investigations, nous l’envoyer aidera à améliorer { -brand-product-name }. Fermer cette notification ignore ce rapport.
+       *[other] Vous avez { $reportCount } rapports de plantage relatifs à des plantages qui font l’objet d’investigations, nous les envoyer aidera à améliorer { -brand-product-name }. Fermer cette notification ignore ces rapports.
+    }
+# Variables:
+#   $reportCount (Number): the number of pending crash reports
 requested-crash-reports-message =
     { $reportCount ->
         [one] Vous avez un rapport de plantage non envoyé qui fait l’objet d’investigations, nous l’envoyer aidera à améliorer { -brand-product-name }. Fermer cette notification ignore ce rapport.
