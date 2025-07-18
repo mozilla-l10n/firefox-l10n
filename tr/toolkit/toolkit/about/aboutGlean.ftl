@@ -87,6 +87,14 @@ about-glean-adhoc-note =
     Geliştirici araçları konsolunda Glean JS API’sinin çalıştığını unutmayın.
     Bu nedenle, ölçüm kategorisi ve ölçüm adı Rust ve C++ API’lerinden farklı olarak
     <code>camelCase</code> biçiminde olacaktır.
+about-glean-profiler-explanation =
+    Kaydedilen tüm ölçümlerin tam görünümünü görmek için { -profiler-brand-name }’ı kullanabilirsiniz.
+    Öncelikle <a data-l10n-name="firefox-profiler-link">bir performans profili kaydetmeniz</a> gerekir.
+    Profili kaydettikten sonra <q>İşaret Grafiği’ni</q> seçip Telemetri altındaki işaretçilere bakın.
+about-glean-profiler-explanation-profiler =
+    Performans profilinde, toplanan tüm ölçümleri, ne zaman toplandıklarını ve tam olarak
+    hangi değerlerin toplandığını görebilirsiniz. Fareyle tek tek işaretçilerin üzerine gelerek doğru değerin
+    toplanıp toplanmadığını ve toplamanın doğru zamanda gerçekleşip gerçekleşmediğini doğrulayabilirsiniz.
 controls-button-label-verbose = Ayarları uygula ve ping gönder
 about-glean-feedback-settings-only =
     .message = Ayarlar uygulandı.
@@ -105,7 +113,11 @@ about-glean-about-data-list-item-dictionary =
 about-glean-about-data-list-item-about-telemetry =
     Eski telemetri ile toplanan verilere göz atmak için lütfen
     <a data-l10n-name="about-telemetry-link">about:telemetry</a> sayfasına bakın.
+about-glean-about-data-list-item-debug-ping-viewer =
+    Hata ayıklama etiketlerine bakmak, tüm ping’leri görmek, canlı olay akışını izlemek veya
+    ölçüm görselleştirmelerini görüntülemek için lütfen
+    <a data-l10n-name="glean-debug-ping-viewer">{ glean-debug-ping-viewer-brand-name }’a</a> bakın.
 about-glean-about-data-list-item-firefox-profiler =
     Performans profili kaydetmek ve kaydedilen tüm ölçümleri görmek için lütfen
-    <a data-l10n-name="about-glean-firefox-profiler">{ -profiler-brand-name }</a> kullanın.
+    <a data-l10n-name="about-glean-firefox-profiler">{ -profiler-brand-name }</a>’ı kullanın.
 about-glean-about-data-explanation = Toplanan verilerin listesine göz atmak için lütfen <a data-l10n-name="glean-dictionary-link">{ -glean-brand-name } Sözlüğü’nü inceleyin</a>.
