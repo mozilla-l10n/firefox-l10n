@@ -371,6 +371,7 @@ onboarding-checklist-extension = أضِف امتدادة
 
 ## Tab Groups feature onboarding strings
 
+tab-groups-onboarding-create-group-no-alltabs-button-title = ابحث عن مجموعاتك من خلال البحث عنها في شريط العناوين.
 tab-groups-onboarding-saved-groups-no-alltabs-button-title-2 = ابحث عن مجموعاتك المغلقة عن طريق البحث عنها في شريط العناوين.
 tab-groups-onboarding-dismiss = حسنا
 

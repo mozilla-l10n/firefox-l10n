@@ -66,13 +66,12 @@ split-dismiss-button-manage-settings-option =
 split-dismiss-button-default-label =
     .title = خيارات أكثر
 
-## Login Status Advisory Callout (points to the account icon)
-
-
 ## Bookmarks toolbar callout strings
 
 bookmarks-toolbar-callout-1-primary-button-label = أضِف علامة
 bookmarks-toolbar-callout-1-secondary-button-label = لا، شكرًا
+# Visible if user adds a bookmark in callout 1, bookmarks toolbar is set to always show when this message renders
+bookmarks-toolbar-callout-2a-title = أضف المزيد من العلامات بسهولة
 bookmarks-toolbar-callout-2a-primary-button-label = فهمت
 # Reverts the bookmarks toolbar to the default setting
 bookmarks-toolbar-callout-2a-secondary-button-label = أخفِ شريط الأدوات
@@ -91,9 +90,6 @@ perplexity-callout-primary-label = اسأل Perplexity
 perplexity-callout-secondary-label-1 = أهمِل
 perplexity-callout-secondary-label-2 = فهمت
 
-## Account Adoption Passwords callout strings
-
-
 ## Sidebar Strings
 
 sidebar-button-callout-title = أظهِر عناوين الألسنة في الشريط الجانبي
@@ -109,9 +105,6 @@ vertical-tabs-callout-2-title = هل تُبقي الكثير من الألسنة
 
 sidebar-pins-callout-title = هل فقدت مسار الألسنة المهمة لديك؟
 sidebar-pins-callout-cta-button = ثبّت اللسان
-
-## Pinning Tabs Strings
-
 
 ## Sidebar Onboarding Strings
 

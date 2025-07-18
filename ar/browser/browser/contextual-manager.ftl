@@ -120,6 +120,10 @@ contextual-manager-passwords-username-label = اسم المستخدم
 # The attribute .data-after describes the text that should be displayed for the ::after pseudo-selector
 contextual-manager-passwords-password-label = كلمة السر
     .data-after = نُسخ
+# Variables
+#   $url (string) - The url associated with the new login
+contextual-manager-passwords-add-password-success-heading =
+    .heading = أُضيفت كلمة سر لـ { $url }
 contextual-manager-passwords-add-password-success-button = اعرض
 contextual-manager-passwords-password-already-exists-error-button = انتقل إلى كلمة السرّ
 contextual-manager-passwords-update-password-success-heading =

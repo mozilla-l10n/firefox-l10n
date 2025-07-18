@@ -17,19 +17,29 @@ autofill-manage-edit-button = حرّر…
 
 ## The address capture doorhanger
 
+address-capture-save-doorhanger-header = احفظ العنوان؟
+address-capture-update-doorhanger-header = حدّث العنوان؟
+address-capture-edit-doorhanger-header = حرّر العنوان
 address-capture-cancel-button =
     .label = ألغ
     .accessKey = غ
+address-capture-manage-address-button =
+    .label = إعدادات العنوان
 address-capture-learn-more-button =
     .label = اطلع على المزيد
 address-capture-open-menu-button =
     .aria-label = افتح القائمة
+address-capture-edit-address-button =
+    .aria-label = حرّر العنوان
+# The dialog title for creating addresses in browser preferences.
+autofill-add-address-title = أضف عنوانًا
 # The dialog title for editing addresses in browser preferences.
 autofill-edit-address-title = حرّر العنوان
 autofill-address-given-name = الاسم الأول
 autofill-address-additional-name = الاسم الأوسط
 autofill-address-family-name = الاسم الأخير
 autofill-address-organization = المؤسسة
+autofill-address-street-address = عنوان الشارع
 autofill-address-street = عنوان الشارع
 
 ## address-level-3 (Sublocality) names
@@ -103,6 +113,8 @@ autofill-edit-card-password-prompt =
         [windows] يحاول { -brand-short-name } عرض معلومات بطاقة الائتمان. أكّد الوصول إلى حساب وِندوز هذا من الأسفل.
        *[other] يحاول { -brand-short-name } عرض معلومات بطاقة الائتمان.
     }
+# The dialog title for creating credit cards in browser preferences.
+autofill-add-card-title = أضف بطاقة
 autofill-card-number = رقم البطاقة
 autofill-card-invalid-number = رجاءً أدخِل اسم بطاقة سليم
 autofill-card-name-on-card = الاسم على البطاقة

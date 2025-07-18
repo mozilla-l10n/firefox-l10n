@@ -10,6 +10,7 @@ preonboarding-subtitle = بمواصلتك، فإنك توافق على شروط 
 preonboarding-primary-cta = تأكيد ومتابعة
 # Labels for header style button that toggles showing the terms of use, privacy notice, and data preferences checklist
 preonboarding-manage-and-read-header = إدارة إعدادات جمع البيانات وقراءة شروط الاستخدام وإشعار الخصوصية الخاص بنا
+preonboarding-manage-and-read-header-v2 = اقرأ شروط الاستخدام وإشعار الخصوصية. أدر الإعدادات الإضافية.
 # Label for header style button that toggles showing the Terms of Use
 preonboarding-terms-of-use-header-button-title = اطلع على شروط الاستخدام الخاصة بنا
 # Label for header style button that toggles showing the Privacy Notice
