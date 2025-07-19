@@ -1296,3 +1296,6 @@ file-picker-crashed-show-in-folder =
 ## Onboarding Finish Setup checklist
 
 onboarding-checklist-button-label = Орнатуды аяқтау
+onboarding-aw-finish-setup-button =
+    .label = Орнатуды аяқтау
+    .tooltiptext = { -brand-short-name } орнатуын аяқтау

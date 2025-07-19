@@ -47,3 +47,7 @@ experimental-features-link-previews-description-no-ai =
         [macos] For å lære meir om ei nettside før du klikkar, hald musepeikaren over ei lenkje og trykk Shift (⇧) pluss Option (⌥) eller Alt. Førehandsvisningar kan inkludere detaljar som tittel og lesetid. <a data-l10n-name="connect">Del tilbakemeldingar</a>
        *[other] For å lære meir om ei nettside før du klikkar, hald musepeikaren over ei lenkje og trykk Shift + Alt. Førehandsvisningar kan innehalde detaljar som tittel og lesetid. <a data-l10n-name="connect">Del tilbakemeldingar</a>
     }
+# New Tab Sections with follow and block
+experimental-features-newtab-sections-follow-block =
+    .label = Emneseksjonar og følg/blokker for artiklar på ny fane-sida
+experimental-features-newtab-sections-follow-block-description = Organiser artiklane på ny fane-sida di i emneseksjonar (sport, mat, underhaldning og meir) for ei meir strukturert og brukarvennleg oppleving. Bruk dei nye følg- og blokker-kontrollene våre for å tilpasse kva innhald du ser. <a data-l10n-name="connect">Del tilbakemeldingar</a>

@@ -31,6 +31,20 @@ pending-crash-reports-send =
     .label = Жіберу
 pending-crash-reports-always-send =
     .label = Әрқашан жіберу
+# Variables:
+#   $reportCount (Number): the number of pending crash reports
+requested-crash-reports-message-new =
+    { $reportCount ->
+        [one] Сізде тексеріліп жатқан құлауларға қатысты жіберілмеген қате туралы есептеме бар, оны жіберу бізге { -brand-product-name } өнімін жақсартуға көмектеседі. Бұл хабарландыруды жабу бұл есептемені елемейді.
+       *[other] Сізде тексеріліп жатқан құлауларға қатысты жіберілмеген қате туралы { $reportCount } есептеме бар, оларды жіберу бізге { -brand-product-name } өнімін жақсартуға көмектеседі. Бұл хабарландыруды жабу бұл есептемелерді елемейді.
+    }
+# Variables:
+#   $reportCount (Number): the number of pending crash reports
+requested-crash-reports-message =
+    { $reportCount ->
+        [one] Сізде тексеріліп жатқан құлауларға сәйкес келетін жіберілмеген қате туралы есептеме бар, оны жіберу бізге { -brand-product-name } өнімін жақсартуға көмектеседі. Бұл хабарландыруды жабу бұл есептемені елемейді.
+       *[other] Сізде тексеріліп жатқан құлауларға сәйкес келетін жіберілмеген қате туралы { $reportCount } есептеме бар, оларды жіберу бізге { -brand-product-name } өнімін жақсартуға көмектеседі. Бұл хабарландыруды жабу бұл есептемелерді елемейді.
+    }
 requested-crash-reports-dont-show-again =
     .label = Келесіде көрсетпеу
     .accesskey = п

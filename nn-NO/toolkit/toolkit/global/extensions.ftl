@@ -15,6 +15,7 @@ webext-perms-header-with-perms = Leggje til { $extension }? Denne utvidinga vil 
 webext-perms-header-unsigned = Leggje til { $extension }? Denne utvidinga er ikkje stadfesta. Skadelege utvidingar kan stele privatopplysningane dine eller kompromittere datamaskina di. Legg berre til denne utvidinga om du stolar på kjelda.
 webext-perms-header-unsigned-with-perms = Leggje til { $extension }? Denne utvidinga er ikkje stadfesta. Skadelege utvidingar kan stele privatopplysningane dine eller kompromittere datamaskina di. Legg berre til denne utvidinga om du stolar på kjelda. Denne utvidinga vil ha løyve til å:
 webext-perms-sideload-header = { $extension } lagt til
+webext-perms-optional-perms-header2 = { $extension } ber om fleire løyve
 webext-perms-optional-perms-header = { $extension } ber om ytterlegare løyve.
 webext-perms-header2 = Legg til { $extension }
 webext-perms-list-intro-unsigned = Denne ikkje-stadfesta utvidinga kan sette personvernet ditt i fare eller kompromittere eininga di. Legg henne berre til dersom du stolar på kjelda.
@@ -25,7 +26,14 @@ webext-perms-header-required-perms = Påkravde løyve
 webext-perms-header-optional-settings = Valfrie innstillingar
 webext-perms-header-update-required-perms = Nye påkravde løyve:
 webext-perms-header-optional-required-perms = Nye løyve:
+webext-perms-header-data-collection-perms = Nødvendig datainnsamling:
 webext-perms-header-data-collection-is-none = Datainnsamling:
+# This is a header used in the add-ons "update" prompt, shown when the new
+# version requires new data collection permissions.
+webext-perms-header-update-data-collection-perms = Ny nødvendig datainnsamling:
+# This is a header used in the add-ons "optional" prompt, shown when the
+# extension requests new data collection permissions programmatically.
+webext-perms-header-optional-data-collection-perms = Ny datainnsamling:
 
 ##
 
@@ -43,6 +51,9 @@ webext-perms-sideload-enable =
 webext-perms-sideload-cancel =
     .label = Avbryt
     .accesskey = A
+# Variables:
+#   $extension (String): replaced with the localized name of the extension.
+webext-perms-update-text2 = { $extension } har vorte oppdatert. Du må godkjenne nye løyve før den oppdaterte versjonen vil bli installert. Vel du «Avbryt», vil du behalde gjeldande utvidingsversjonen.
 # Variables:
 #   $extension (String): replaced with the localized name of the extension.
 webext-perms-update-text = { $extension } er oppdatert. Du må godkjenne nye løyve før den oppdaterte versjonen vil bli installert. Vel du «Avbryt», vil du behalde den noverande versjonen av utvidinga. Denne utvideinga vil ha løyve til å:
@@ -83,9 +94,16 @@ webext-perms-host-description-too-many-sites =
 #   $domain (String): will be replaced by the DNS host name for which a webextension is requesting access (e.g., mozilla.org),
 #     $domain should be treated as plural (because it may also include all subdomains, e.g www.mozilla.org, ftp.mozilla.org).
 webext-perms-host-description-one-domain = Få tilgang til dine data frå nettstadar under { $domain }-domenet
-
-## Strings for data collection permissions in the permission prompt.
-
+# Permission string used for webextensions requesting access to 2 or more domains (and so $domainCount is expected to always
+# be >= 2, for webextensions requesting access to only one domain the `webext-perms-host-description-one-domain` string is
+# used instead).
+# Variables:
+#   $domainCount (Number): Integer indicating the number of websites domains for which this webextension is requesting permission
+#     (the list of domains will follow this string).
+webext-perms-host-description-multiple-domains =
+    { $domainCount ->
+       *[other] Få tilgang til dine data frå nettstadar under { $domainCount } domene
+    }
 
 ## Headers used in the webextension permissions dialog for synthetic add-ons.
 ## The part of the string describing what privileges the extension gives should be consistent
@@ -120,6 +138,3 @@ webext-site-perms-header-unsigned-with-perms = Leggje til { $extension }? Denne 
 
 webext-site-perms-midi = Tilgang til MIDI-einingar
 webext-site-perms-midi-sysex = Tilgang til MIDI-einingar med SysEx-sttte
-
-## Colorway theme migration
-
