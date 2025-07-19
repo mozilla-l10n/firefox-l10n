@@ -298,6 +298,7 @@ root-certificate-succession-infobar-secondary-button =
 ## Root Certificate Succession Windows Background Notification
 
 root-certificate-windows-background-notification-title = { -brand-short-name } өнімінің маңызды жаңартуын өткізіп алдыңыз
+root-certificate-windows-background-notification-subtitle = Браузерді жаңартпасаңыз, оның кейбір бөліктері жақында жұмысын тоқтатады. Қазір — ең жаңа қорғаныс пен мүмкіндіктерді алу үшін таптырмас уақыт.
 root-certificate-windows-background-notification-learn-more-button = Көбірек білу
 root-certificate-windows-background-notification-update-button = { -brand-short-name } жаңарту
 

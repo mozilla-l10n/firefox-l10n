@@ -527,6 +527,8 @@ newtab-custom-wallpaper-cta = Қолданып көру
 ## Strings for download mobile highlight
 
 newtab-download-mobile-highlight-title = Мобильді { -brand-product-name } жүктеп алу
+newtab-download-mobile-highlight-body-variant-b = Беттерді, парольдерді және басқа да деректерді синхрондап, жұмысты үзілген жерінен жалғастырыңыз.
+newtab-download-mobile-highlight-body-variant-c = { -brand-product-name } браузерін өзіңізбен бірге алып жүре алатыныңызды білдіңіз бе? Дәл сол браузер. Қалтаңызда.
 newtab-download-mobile-highlight-image =
     .aria-label = Мобильді { -brand-product-name } жүктеп алу үшін QR коды
 
