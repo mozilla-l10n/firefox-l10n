@@ -123,6 +123,13 @@ contextual-manager-passwords-remove-all-message =
         [1] Бұл { -brand-short-name } ішінде сақталған пароліңізді және кез келген бұзу ескертулерін өшіреді. Бұл әрекетті болдырмау мүмкін емес.
        *[other] This will remove the passwords saved to { -brand-short-name } and any breach alerts. You cannot undo this action.
     }
+# Message for modal to confirm the removal of all saved passwords when user HAS SYNC
+#   $total (number) - Total number of passwords
+contextual-manager-passwords-remove-all-message-sync =
+    { $total ->
+        [1] Бұл барлық синхрондалған құрылғыларыңызда { -brand-short-name } ішіне сақталған парольді өшіреді және кез келген бұзушылық туралы ескертулерді өшіреді. Бұл әрекетті болдырмау мүмкін емес.
+       *[other] Бұл барлық синхрондалған құрылғыларыңызда { -brand-short-name } ішіне сақталған барлық парольдерді өшіреді және кез келген бұзушылық туралы ескертулерді өшіреді. Бұл әрекетті болдырмау мүмкін емес.
+    }
 contextual-manager-passwords-origin-label = Вебсайт
 # The attribute .data-after describes the text that should be displayed for the ::after pseudo-selector
 contextual-manager-passwords-username-label = Пайдаланушы аты
@@ -174,8 +181,12 @@ contextual-manager-passwords-remove-login-card-back-message = Артқа
 contextual-manager-passwords-remove-login-card-remove-button = Өшіру
 # This message gives the user the option to cancel their attempt to remove a login.
 contextual-manager-passwords-remove-login-card-cancel-button = Бас тарту
+contextual-manager-passwords-alert-card =
+    .aria-label = Парольдер туралы ескертулер
 contextual-manager-passwords-alert-back-button =
     .label = Артқа
+contextual-manager-passwords-alert-list =
+    .aria-label = Ескертулер тізімі
 contextual-manager-passwords-breached-origin-heading-and-message =
     .heading = Парольді өзгерту ұсынылады
     .message = Осы веб-сайт парольдері ұрланған немесе жария болып кеткені хабарланды. Тіркелгіңізді қорғау үшін пароліңізді өзгертіңіз.
