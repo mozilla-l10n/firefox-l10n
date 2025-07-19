@@ -67,13 +67,19 @@ contextual-manager-passwords-import-success-heading =
 contextual-manager-passwords-import-success-message = Жаңа: { $added }, Жаңартылды: { $modified }
 contextual-manager-passwords-import-detailed-report = Толық есепті қарау
 contextual-manager-passwords-import-success-button = Дайын
+contextual-manager-passwords-import-error-heading-and-message =
+    .heading = Парольдерді импорттау мүмкін емес
+    .message = Файлыңызда веб-сайт, пайдаланушы аты мен пароль үшін бағандардың бар болғанына көз жеткізіңіз.
 contextual-manager-passwords-import-error-button-try-again = Қайтадан көру
 contextual-manager-passwords-import-error-button-cancel = Бас тарту
+contextual-manager-passwords-import-learn-more = Парольдерді импорттау туралы білу
 contextual-manager-passwords-export-success-heading =
     .heading = Парольдер экспортталды
 contextual-manager-passwords-export-success-button = Дайын
 # Export passwords to file dialog
 contextual-manager-export-passwords-dialog-title = Парольдерді файлға экспорттау керек пе?
+# This string recommends to the user that they delete the exported password file that is saved on their local machine.
+contextual-manager-export-passwords-dialog-message = Экспорттаудан кейін осы құрылғыны пайдаланатын басқа адамдар парольдеріңізді көре алмау үшін оны өшіруді ұсынамыз.
 contextual-manager-export-passwords-dialog-confirm-button = Экспорттауды жалғастыру
 # Title of the file picker dialog
 contextual-manager-passwords-export-file-picker-title = { -brand-short-name } ішінен парольдерді экспорттау
@@ -87,6 +93,13 @@ contextual-manager-passwords-export-file-picker-csv-filter-title =
     { PLATFORM() ->
         [macos] CSV құжаты
        *[other] CSV файлы
+    }
+# Confirm the removal of all saved passwords
+#   $total (number) - Total number of passwords
+contextual-manager-passwords-remove-all-title =
+    { $total ->
+        [1] Парольді өшіру керек пе?
+       *[other] Remove all { $total } passwords?
     }
 # Checkbox label to confirm the removal of saved passwords
 #   $total (number) - Total number of passwords
@@ -102,6 +115,13 @@ contextual-manager-passwords-remove-all-confirm-button =
     { $total ->
         [1] Өшіру
        *[other] Барлығын өшіру
+    }
+# Message to confirm the removal of all saved passwords when user DOES NOT HAVE SYNC
+#   $total (number) - Total number of passwords
+contextual-manager-passwords-remove-all-message =
+    { $total ->
+        [1] Бұл { -brand-short-name } ішінде сақталған пароліңізді және кез келген бұзу ескертулерін өшіреді. Бұл әрекетті болдырмау мүмкін емес.
+       *[other] This will remove the passwords saved to { -brand-short-name } and any breach alerts. You cannot undo this action.
     }
 contextual-manager-passwords-origin-label = Вебсайт
 # The attribute .data-after describes the text that should be displayed for the ::after pseudo-selector

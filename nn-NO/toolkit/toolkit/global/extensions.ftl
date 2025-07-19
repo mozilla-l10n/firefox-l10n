@@ -105,6 +105,10 @@ webext-perms-host-description-multiple-domains =
        *[other] Få tilgang til dine data frå nettstadar under { $domainCount } domene
     }
 
+## Strings for data collection permissions in the permission prompt.
+
+webext-perms-description-data-none = Utviklaren seier at denne utvidinga ikkje krev datainnsamling.
+
 ## Headers used in the webextension permissions dialog for synthetic add-ons.
 ## The part of the string describing what privileges the extension gives should be consistent
 ## with the value of webext-site-perms-description-gated-perms-{sitePermission}.
@@ -138,3 +142,8 @@ webext-site-perms-header-unsigned-with-perms = Leggje til { $extension }? Denne 
 
 webext-site-perms-midi = Tilgang til MIDI-einingar
 webext-site-perms-midi-sysex = Tilgang til MIDI-einingar med SysEx-sttte
+
+## Colorway theme migration
+
+webext-colorway-theme-migration-notification-message = <b>Fargesamansetjings-temaet ditt vart fjerna.</b> { -brand-shorter-name } har oppdatert samlinga si av fargesamansetjingar. Du finn dei nyaste versjonane på nettstaden for tillegg.
+webext-colorway-theme-migration-notification-button = Få oppdaterte fargesamansetjingar
