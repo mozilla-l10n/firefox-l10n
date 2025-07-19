@@ -536,6 +536,7 @@ pdfjs-editor-undo-bar-close-button-label = Жабу
 
 ## Add a signature dialog
 
+pdfjs-editor-add-signature-dialog-label = Бұл модальді терезе пайдаланушыға PDF құжатына қосу үшін қолтаңба жасауға мүмкіндік береді. Пайдаланушы өз атын (ол балама мәтін ретінде де қолданылады) өңдей алады және қолтаңбаны кейін қайта пайдалану үшін сақтай алады.
 pdfjs-editor-add-signature-dialog-title = Қолтаңба қосу
 
 ## Tab names

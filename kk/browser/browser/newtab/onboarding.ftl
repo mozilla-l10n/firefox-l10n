@@ -397,6 +397,8 @@ onboarding-many-tabs-title = Сіздің беттеріңіз, сіздің ж�
 onboarding-many-tabs-subtitle = Көптеген беттерді ашық ұстап отырсыз ба? Оңтайлы көрініс үшін бүйір панелі беттерін қолданып көріңіз. Немесе оны жоғарғы жағындағы беттермен классикалық күйде сақтаңыз. Кез келген уақытта ауысыңыз.
 # Setup screen for vertical tabs - focused variation
 onboarding-focused-tabs-title = Беттер жаймасын таңдаңыз
+# Setup screen for vertical tabs - subtitle for focused variation
+onboarding-focused-tabs-subtitle = Назарды сақтауға көмектесетін ықшам көрініс үшін беттерді бүйірге орналастырып көріңіз. Немесе классикалық жоғарыдағы орналасуды таңдаңыз. Қалаған кезіңізде ауыстыруға болады.
 # Text underneath an image used for selecting browser tabs to appear on the side of the browser.
 onboarding-new-vertical-tabs-label = Беттер бүйір жақта
 # Text underneath an image used for selecting browser tabs to appear at the top of the browser.
@@ -443,6 +445,7 @@ onboarding-checklist-sign-up = Тіркеліңіз немесе тіркелг�
 
 ## Tab Groups feature onboarding strings
 
+tab-groups-onboarding-feature-callout-title = Артық шашыраңқылықты азайтып, зейінді арттыру үшін беттер топтарын қолданып көріңіз.
 tab-groups-onboarding-create-group-no-alltabs-button-title = Топтарыңызды адрестік жолақтан іздеу арқылы табыңыз.
 tab-groups-onboarding-saved-groups-title-2 = Беттер тобын жапқан кезде, оны кез келген уақытта осы жерден қайта аша аласыз.
 tab-groups-onboarding-saved-groups-no-alltabs-button-title-2 = Жабылған топтарыңызды адрестік жолақтан іздеу арқылы табыңыз.

@@ -81,11 +81,13 @@ bookmarks-toolbar-callout-1-primary-button-label = Бетбелгіні қосу
 bookmarks-toolbar-callout-1-secondary-button-label = Жоқ, рахмет
 # Visible if user adds a bookmark in callout 1, bookmarks toolbar is set to always show when this message renders
 bookmarks-toolbar-callout-2a-title = Қосымша бетбелгілерді оңай қосыңыз
+bookmarks-toolbar-callout-2a-subtitle = Беттерді осында сүйреп апарып тастаңыз — сүйікті сайттарыңызды әрдайым қолжетімді етуге болады.
 bookmarks-toolbar-callout-2a-primary-button-label = Түсіндім
 # Reverts the bookmarks toolbar to the default setting
 bookmarks-toolbar-callout-2a-secondary-button-label = Құралдар панелін жасыру
 # Visible if user declines to add a bookmark in callout 1, bookmarks toolbar is set to always show when this message renders
 bookmarks-toolbar-callout-2b-title = Бетбелгілер панелін ашық ұстау керек пе?
+bookmarks-toolbar-callout-2b-subtitle = Жиі кіретін басқа сайттарды да қоса аласыз. Сүйікті веб-сайттарыңыз әрдайым қолжетімді болуы үшін беттерді осында сүйреп апарып тастаңыз.
 bookmarks-toolbar-callout-2b-primary-button-label = Ашық ұстау
 # Reverts the bookmarks toolbar to the default setting
 bookmarks-toolbar-callout-2b-secondary-button-label = Жоқ, рахмет
@@ -116,6 +118,7 @@ vertical-tabs-callout-1-subtitle = Бетбелгілер тізімін жыл�
 vertical-tabs-callout-1-cta-button = Вертикалды беттерді қолданып көру
 vertical-tabs-callout-2-cta-button = Қазір қолданып көру
 vertical-tabs-callout-2-title = Көптеген беттерді ашық ұстау керек пе? Тік беттерді қолданып көріңіз.
+vertical-tabs-callout-2-subtitle = Бұл жайма беттер тізімін жылдам шолуға мүмкіндік береді. Сондай-ақ, бет атауларын көбірек не азырақ көру үшін енін реттеуге болады.
 
 ## Sidebar Vertical Tabs Pinning Strings
 
