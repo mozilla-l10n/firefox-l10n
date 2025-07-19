@@ -76,6 +76,7 @@ login-status-advisory-title = Сіз жүйеден шықтыңыз. Жүйег
 ## Bookmarks toolbar callout strings
 
 bookmarks-toolbar-callout-1-title = Бұл сайтты сіздің бетбелгілер панеліне қосу керек пе?
+bookmarks-toolbar-callout-1-subtitle = Жылдам қол жеткізу үшін бетбелгіңіз адрес жолағының астында сақталады.
 bookmarks-toolbar-callout-1-primary-button-label = Бетбелгіні қосу
 bookmarks-toolbar-callout-1-secondary-button-label = Жоқ, рахмет
 # Visible if user adds a bookmark in callout 1, bookmarks toolbar is set to always show when this message renders
@@ -83,6 +84,8 @@ bookmarks-toolbar-callout-2a-title = Қосымша бетбелгілерді �
 bookmarks-toolbar-callout-2a-primary-button-label = Түсіндім
 # Reverts the bookmarks toolbar to the default setting
 bookmarks-toolbar-callout-2a-secondary-button-label = Құралдар панелін жасыру
+# Visible if user declines to add a bookmark in callout 1, bookmarks toolbar is set to always show when this message renders
+bookmarks-toolbar-callout-2b-title = Бетбелгілер панелін ашық ұстау керек пе?
 bookmarks-toolbar-callout-2b-primary-button-label = Ашық ұстау
 # Reverts the bookmarks toolbar to the default setting
 bookmarks-toolbar-callout-2b-secondary-button-label = Жоқ, рахмет

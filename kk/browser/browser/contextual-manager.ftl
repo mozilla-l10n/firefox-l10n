@@ -192,6 +192,10 @@ contextual-manager-passwords-breached-origin-heading-and-message =
     .message = Осы веб-сайт парольдері ұрланған немесе жария болып кеткені хабарланды. Тіркелгіңізді қорғау үшін пароліңізді өзгертіңіз.
 contextual-manager-passwords-breached-origin-link-message = { -brand-product-name } бұзушылықтар туралы қалай біледі?
 contextual-manager-passwords-change-password-button = Парольді өзгерту
+contextual-manager-passwords-vulnerable-password-heading-and-message =
+    .heading = Парольді өзгерту ұсынылады
+    .message = Бұл парольді оңай табуға болады. Тіркелгіңізді қорғау үшін пароліңізді өзгертіңіз.
+contextual-manager-passwords-vulnerable-password-link-message = { -brand-product-name } әлсіз парольдер туралы қайдан біледі?
 contextual-manager-passwords-no-username-heading-and-message =
     .heading = Пайдаланушы атын қосу
     .message = Жылдамырақ кіру үшін оны қосыңыз.
@@ -206,6 +210,9 @@ contextual-manager-passwords-edit-label =
     .label = Парольді түзету
 contextual-manager-passwords-remove-label =
     .title = Парольді өшіру
+contextual-manager-passwords-origin-tooltip = Осы сайтқа кіретін нақты адресті енгізіңіз.
+contextual-manager-passwords-username-tooltip = Жүйеге кіру үшін пайдаланатын пайдаланушы атын, эл. пошта адресі немесе тіркелгі нөмірін енгізіңіз.
+contextual-manager-passwords-password-tooltip = Осы тіркелгіге кіру үшін пайдаланылатын парольді енгізіңіз.
 
 ## Password Card
 
@@ -256,6 +263,22 @@ contextual-manager-view-alert-heading =
     .heading = Ескертуді қарау
 contextual-manager-view-alert-button =
     .tooltiptext = Ескертуді қарап шығу
+# Variables
+#   $count (number) - The number of active alerts associated with the login
+contextual-manager-view-alert-heading-2 =
+    .heading =
+        { $count ->
+            [1] Ескертуді қарау
+           *[other] Ескертулерді қарау
+        }
+# Variables
+#   $count (number) - The number of active alerts associated with the login
+contextual-manager-view-alert-button-2 =
+    .tooltiptext =
+        { $count ->
+            [1] Ескертуді қарап шығу
+           *[other] Ескертулерді қарап шығу
+        }
 contextual-manager-show-password-button =
     .aria-label = Парольді көрсету
     .title = Парольді көрсету
