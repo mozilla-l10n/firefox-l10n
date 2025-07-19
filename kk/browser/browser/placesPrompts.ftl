@@ -16,3 +16,4 @@ places-bookmarks-restore-parse-error = Резервті нұсқа файлын 
 places-bookmarks-import = Бетбелгілер файлын импорттау
 places-bookmarks-export = Бетбелгілер файлын экспорттау
 places-bookmarks-paste-error-title = Жарамсыз URL(дер) табылды
+places-bookmarks-paste-error-message-header = Келесі URL адрестерін бетбелгілеріңізге қосу мүмкін емес. Пішімдеуді тексеріп, оларды қайта қосып көріңіз.

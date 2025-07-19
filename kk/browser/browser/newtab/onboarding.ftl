@@ -462,5 +462,9 @@ multi-profile-callout-cta = Профиль жасау
 
 # If translating the headline is challenging, consider using a simplified alternative as a reference: 'Sync your browsing with Firefox for mobile.'
 desktop-to-mobile-headline = Жүктеп алыңыз, синхрондаңыз және алға жүріңіз!
+# The phrase, 'on the go', is used to describe when people are very busy and are traveling from place to place.
+desktop-to-mobile-subtitle = Мобильді құрылғыға { -brand-product-name } жүктеп алу үшін QR кодты сканерлеңіз. Жолда жүргенде парольдерге, бетбелгілерге және басқа да деректерге қол жеткізу үшін орнатылғаннан кейін "Мобильді құрылғымен синхрондау" командасын таңдаңыз.
 dismiss-button-label = Елемеу
 sync-to-mobile-button-label = Мобильді құрылғымен синхрондау
+desktop-to-mobile-qr-code-alt =
+    .aria-label = Мобильді { -brand-product-name } жүктеп алу үшін QR коды
