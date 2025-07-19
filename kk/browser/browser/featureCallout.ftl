@@ -103,6 +103,8 @@ perplexity-callout-secondary-label-2 = Түсіндім
 
 ## Account Adoption Passwords callout strings
 
+# Suggestion to backup passwords by signing up for Mozilla account and using sync
+fxa-adoption-passwords-title = Пароль сақталды. Оның сақтық көшірмесін жасайық.
 # Opens Mozilla accounts sign-up page
 fxa-adoption-passwords-primary-button-label = Тіркелу
 
