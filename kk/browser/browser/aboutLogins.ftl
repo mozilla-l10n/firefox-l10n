@@ -286,7 +286,7 @@ about-logins-confirm-remove-all-sync-dialog-title2 =
 about-logins-confirm-remove-all-sync-dialog-message3 =
     { $count ->
         [1] Бұл сіздің барлық синхрондалған құрылғыларыңызда { -brand-short-name } ішіне сақталған пароліңізді өшіреді. Сонымен қатар, осы жерде көрсетілетін бұзушылық туралы ескертулерді өшіреді. Бұл әрекетті болдырмау мүмкін болмайды.
-       *[other] This will remove all passwords saved to { -brand-short-name } on all your synced devices. This will also remove any breach alerts that appear here. You cannot undo this action.
+       *[other] Бұл сіздің барлық синхрондалған құрылғыларыңызда { -brand-short-name } ішіне сақталған барлық парольдерді өшіреді. Сонымен қатар, осы жерде көрсетілетін бұзушылық туралы ескертулерді өшіреді. Бұл әрекетті болдырмау мүмкін болмайды.
     }
 
 ##

@@ -108,6 +108,25 @@ webext-perms-host-description-multiple-domains =
 ## Strings for data collection permissions in the permission prompt.
 
 webext-perms-description-data-none = Utviklaren seier at denne utvidinga ikkje krev datainnsamling.
+# Variables:
+#    $permissions (String): a list of data collection permissions formatted with `Intl.ListFormat` using the "narrow" style.
+webext-perms-description-data-some = Utviklaren seier at denne utvidinga samlar inn: { $permissions }
+# Variables:
+#    $permissions (String): a list of data collection permissions formatted with `Intl.ListFormat` using the "narrow" style.
+webext-perms-description-data-some-update = Utviklaren seier at utvidinga vil samle inn: { $permissions }
+# Variables:
+#    $permissions (String): a list of data collection permissions formatted with `Intl.ListFormat` using the "narrow" style.
+webext-perms-description-data-some-optional = Utviklaren seier at utvidinga ønskjer å samle inn: { $permissions }
+# Variables:
+#   $extension (String): replaced with the localized name of the extension.
+webext-perms-update-text-with-data-collection = { $extension } krev nye innstillingar for å oppdatere
+webext-perms-update-list-intro-with-data-collection = Avbryt for å behalde gjeldande versjon og innstillingar, eller oppdater for å få den nye versjonen og godkjenne endringane.
+# Variables:
+#   $extension (String): replaced with the localized name of the extension.
+webext-perms-optional-text-with-data-collection = { $extension } ber om fleire innstillingar
+# Variables:
+#   $extension (String): replaced with the localized name of the extension.
+webext-perms-optional-text-with-data-collection-only = { $extension } ber om innsamling av fleire data
 
 ## Headers used in the webextension permissions dialog for synthetic add-ons.
 ## The part of the string describing what privileges the extension gives should be consistent
