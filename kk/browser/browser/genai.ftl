@@ -68,6 +68,10 @@ genai-input-ask-provider =
     .placeholder = { $provider } сұрау…
 genai-shortcuts-hide =
     .label = Чат-бот жарлығын жасыру
+genai-menu-no-provider =
+    .label = ЖИ чат-ботын сұрау
+genai-menu-choose-chatbot =
+    .label = ЖИ чат-ботын таңдау
 
 ## Chatbot header
 
@@ -92,14 +96,14 @@ genai-options-hide-shortcut =
 genai-options-about-chatbot =
     .label = { -brand-short-name } ішіндегі ЖИ чат-боттары туралы
 
-## Chatbot footer
-
-
 ## Chatbot onboarding
 
 genai-onboarding-header = Шолу кезінде қорытындылау, ми шабуылын жасау және т.б
+genai-onboarding-choose-header = { -brand-short-name } бүйір панелінде пайдалану үшін ЖИ чат-ботын таңдаңыз
 # "Switch anytime" refers to allowing the user to switch to a different chatbot.
 genai-onboarding-description = { -brand-short-name } бүйір панелінде пайдалану үшін ЖИ чат-ботын таңдаңыз. Сіз таңдаған кезде біз әрбір чат-бот туралы мәліметтерді көрсетеміз. Кез келген уақытта ауысуға болады. <a data-l10n-name="learn-more">Көбірек білу</a>
+# "Switch anytime" refers to allowing the user to switch to a different chatbot.
+genai-onboarding-choose-description = Кез келген уақытта ауысыңыз. Таңдау бойынша анықтама алу үшін <a data-l10n-name="learn-more">әр чат-бот туралы қосымша мәліметтер алыңыз</a>.
 genai-onboarding-primary = Жалғастыру
 genai-onboarding-secondary = Жабу
 genai-onboarding-claude-tooltip =
@@ -156,6 +160,3 @@ genai-model-optin-optout =
     .label = Бас тарту
 genai-model-optin-cancel =
     .label = Бас тарту
-
-## Link previews
-

@@ -64,6 +64,7 @@ sidebar-show-on-the-right =
     .label = Бүйір панелін оңға жылжыту
 sidebar-show-on-the-left =
     .label = Бүйір панелін солға жылжыту
+sidebar-manage-extensions = Кеңейтулерді басқару
 
 ## Labels for sidebar context menu items
 
@@ -81,6 +82,8 @@ sidebar-context-menu-open-in-window =
     .label = Жаңа терезеде ашу
 sidebar-context-menu-open-in-private-window =
     .label = Жаңа жекелік терезесінде ашу
+sidebar-context-menu-forget-site =
+    .label = Веб-сайтпен байланысты барлық деректерді өшіру…
 sidebar-context-menu-bookmark-tab =
     .label = Бетті бетбелгілерге қосу…
 sidebar-context-menu-copy-link =
@@ -95,11 +98,19 @@ sidebar-context-menu-customize-sidebar =
 #   $deviceName (String) - The name of the device the user is closing a tab for
 sidebar-context-menu-close-remote-tab =
     .label = { $deviceName } құрылғыдағы бетті жабу
+sidebar-context-menu-remove-extension2 =
+    .label = { -brand-short-name } ішінен өшіру
+sidebar-context-menu-unpin-extension =
+    .label = Бүйір панелінен өшіру
 
 ## Labels for sidebar history context menu items
 
+sidebar-history-context-menu-delete-page-2 =
+    .label = Бетті тарихтан өшіру
 sidebar-history-context-menu-bookmark-page =
     .label = Бетті бетбелгілерге қосу…
+sidebar-history-context-menu-delete-pages =
+    .label = Беттерді тарихтан өшіру
 
 ## Labels for sidebar menu items.
 
@@ -115,6 +126,8 @@ sidebar-menu-customize-label =
     .label = Бүйір панелін баптау
 sidebar-menu-contextual-password-manager-label =
     .label = Парольдер
+sidebar-menu-more-tools-label =
+    .label = Көбірек құралдар
 
 ## Tooltips for sidebar menu items.
 

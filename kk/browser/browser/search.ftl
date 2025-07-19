@@ -67,8 +67,17 @@ add-engine-url-placeholder =
 add-engine-keyword-placeholder =
     .placeholder = мыс., @mdn
 
-## The following strings are used as error messages.
-
-
 ## The following strings are used as labels for the dialog's buttons.
 
+# buttonlabelextra1 is the label of a button to open the advanced section
+# of the dialog.
+add-engine-dialog2 =
+    .buttonlabelaccept = Іздеу жүйесін қосу
+    .buttonaccesskeyaccept = о
+    .buttonlabelextra1 = Кеңейтілген
+# buttonlabelextra1 is the label of a button to open the advanced section
+# of the dialog.
+edit-engine-dialog =
+    .buttonlabelaccept = Іздеу жүйесін сақтау
+    .buttonaccesskeyaccept = с
+    .buttonlabelextra1 = Кеңейтілген

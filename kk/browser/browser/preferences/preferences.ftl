@@ -263,6 +263,10 @@ preferences-web-appearance-choice-input-dark =
     .aria-description = { preferences-web-appearance-choice-tooltip-dark.title }
 # This can appear when using windows HCM or "Override colors: always" without
 # system colors.
+preferences-web-appearance-override-warning3 =
+    .message = Сіздің контрастты басқару параметрлері веб-сайттың сыртқы көрінісін үстінен басады.
+# This can appear when using windows HCM or "Override colors: always" without
+# system colors.
 preferences-web-appearance-override-warning = Сіздің түс таңдауларыңыз веб-сайттың сыртқы көрінісін үстінен басады. <a data-l10n-name="colors-link">Түстерді басқару</a>
 # This can appear when using windows HCM or "Override colors: always" without
 # system colors.
@@ -646,6 +650,9 @@ home-prefs-weather-header =
     .label = Ауа райы
 home-prefs-weather-description = Бүгінгі қысқаша болжам
 home-prefs-weather-learn-more-link = Көбірек білу
+home-prefs-trending-search-header =
+    .label = Трендтік іздеулер
+home-prefs-trending-search-description = Танымал және жиі ізделетін тақырыптар
 # "Support" here means to help sustain or contribute to something, especially through funding or sponsorship.
 home-prefs-support-firefox-header =
     .label = { -brand-product-name } қолдау
@@ -731,6 +738,7 @@ search-keyword-warning-engine = Сіз таңдаған қысқаша атау 
 search-keyword-warning-bookmark = Сіз таңдаған қысқаша атауды қазір бетбелгілердің біреуі қолданады. Басқасын таңдаңыз.
 remove-engine-confirmation = Бұл іздеу жүйесін өшіруді шынымен қалайсыз ба?
 remove-engine-remove = Өшіру
+remove-addon-engine-alert = Бұл іздеу жүйесін өшіру үшін онымен байланысты қосымшаны өшіріңіз.
 
 ## Containers Section
 

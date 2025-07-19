@@ -512,6 +512,9 @@ newtab-section-unblock-button = Бұғаттаудан шығару
 ## Confirmation modal for blocking a section
 
 newtab-section-cancel-button = Қазір емес
+# Variables:
+#   $topic (string) - Name of topic that user is blocking
+newtab-section-block-topic-button = { $topic } блоктау
 
 ## Strings for custom wallpaper highlight
 
