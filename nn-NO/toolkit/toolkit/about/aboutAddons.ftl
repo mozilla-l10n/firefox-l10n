@@ -281,7 +281,15 @@ discopane-notice-recommendations2 =
         Nokre av desse tilrådingane er målretta deg. Dei er baserte på andre
         utvidingar du har installert, profilinnstillingar og statistikk for bruk.
 discopane-notice-learn-more = Les meir
+# Notice for the colorway theme removal
+colorway-removal-notice-message =
+    .heading = Fargesamansetjingstemaet/-temaa dine vart fjerna.
+    .message =
+        { -brand-product-name } oppdaterte fargetema-kolleksjonen sin. Vi fjerna
+        den/dei gamle versjonen(e) frå lista over «Lagra tema». Få nye versjonar på 
+        nettstaden for tillegg.
 colorway-removal-notice-learn-more = Les meir
+colorway-removal-notice-button = Få oppdaterte fargesamansetjingstema
 privacy-policy = Personvernpraksis
 # Refers to the author of an add-on, shown below the name of the add-on.
 # Variables:
@@ -302,6 +310,13 @@ find-more-themes = Finn fleire tema
 # used for screen readers.
 addon-options-button =
     .aria-label = Fleire innstillingar
+# Explanatory introduction to the list of recommended add-ons. The action word
+# ("recommends") in the final sentence is a link to external documentation.
+# We hard code "Firefox" because we do not want to imply that a Firefox fork is
+# making this recommendation.
+discopane-intro3 =
+    Utvidingar og tema lèt deg tilpasse { -brand-product-name }. Dei kan auke personvernet, forbetre produktiviteten, forbetre media, endre korleis { -brand-product-name } ser ut og mykje meir. Desse små programvarene er ofte utvikla av ein tredjepart. Her er eit utval Firefox <a data-l10n-name="learn-more-trigger">tilrår</a> for
+    eksepsjonell sikkerheit, yting og funksjonalitet.
 
 ## Add-on actions
 
@@ -435,6 +450,20 @@ addon-badge-verified2 =
 # by Mozilla and we don't want forks to display "by Fork".
 addon-badge-line4 =
     .title = Offisiell utviding utvikla av Mozilla. Oppfyller sikkerheits- og ytingsstandardar.
+# This string needs to work in the context of other forks that are not Firefox
+# or built by Mozilla. In particular, we do not want to imply that an
+# organisation other than Mozilla or the Firefox team are performing the
+# security or performance reviews. As such, we avoid personalising language
+# like the words "our" or "we".
+addon-badge-verified4 =
+    .title = Denne utvidinga er gjennomgått for å oppfylle standardar for sikkerheit og yting.
+# This string needs to work in the context of other forks that are not Firefox
+# or built by Mozilla. In particular, we do not want to imply that an
+# organisation other than Mozilla or the Firefox team are making the
+# recommendation. As such, we hard code "Firefox" and avoid personalising
+# language like the words "our" or "we".
+addon-badge-recommended4 =
+    .title = Firefox tilrår berre utvidingar som oppfyller standardar for sikkerheit og yting.
 
 ##
 
@@ -555,6 +584,7 @@ addon-category-mlmodel = AI på eininga
 addon-category-mlmodel-title =
     .title = AI på eininga
 mlmodel-heading = Handsam AI-modellar på eininga
+mlmodel-description = Nokre funksjonar og utvidingar i { -brand-short-name } blir drivne av AI-modellar som fungerer lokalt på eininga di. Denne tilnærminga tek vare på personvernet ditt og aukar i mange tilfelle ytinga. <a data-l10n-name="learn-more">Les meir</a>
 # Label for button that when clicked removed local model
 mlmodel-remove-addon-button =
     .aria-label = Fjern
@@ -565,3 +595,5 @@ mlmodel-addon-detail-last-used-label = Sist brukt
 mlmodel-addon-detail-used-by-label = Brukt av
 # This is a section label to describe the link to the model card on the Hugging Face website
 mlmodel-addon-detail-model-card = Modellkort
+# This is a label for the Model Card link to Hugging face
+mlmodel-addon-detail-model-card-link-label = Vis på Hugging Face

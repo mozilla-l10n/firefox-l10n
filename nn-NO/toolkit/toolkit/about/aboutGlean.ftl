@@ -48,6 +48,9 @@ about-glean-glean-android = <code>MOZ_GLEAN_ANDROID</code>: { $glean-android-def
 #   $moz-official-define-value (Boolean): the value of the MOZILLA_OFFICIAL define.
 # Do not translate strings between <code> </code> tags.
 about-glean-moz-official = <code>MOZILLA_OFFICIAL</code>: { $moz-official-define-value }
+about-glean-additional-links =
+    For ei forklaring av ulike måtar å registrere og finne data på, sjå fana
+    <strong>Om data</strong>.
 about-glean-about-testing-header = Om testing
 # This message is followed by a numbered list.
 about-glean-manual-testing =
@@ -105,6 +108,10 @@ about-glean-adhoc-note =
     Merk at når du brukar konsollen i utviklerverktøy, brukar du Glean JS API-et.
     Dette betyr at analyseresultatkategoriar og namn vert formaterte
     med <code>camelCase</code> i motsetning til i Rust- og i C++-API-ane.
+about-glean-profiler-explanation =
+    For å sjå ei fullstendig oversikt over alle registrerte målingar kan du bruke { -profiler-brand-name }.
+    Først må du <a data-l10n-name="firefox-profiler-link">registrere ein ytingsprofil</a>.
+    Når du har registrert profilen, vel du <q>Markørdiagram</q> og ser på markørane under <q>Telemetri</q>.
 about-glean-profiler-explanation-profiler =
     I resultatprofilen kan du sjå alle innsamla berekningar, når dei var
     samla inn, og nøyaktig kva verdiar som vart samla inn. Ved å halde musepeikaren på individuelle markørar,
@@ -125,6 +132,9 @@ about-glean-about-data-list-item-dictionary =
 about-glean-about-data-list-item-about-telemetry =
     For å sjå gjennom data innsamla av eldre telemetri, kan du konsultere
     <a data-l10n-name="about-telemetry-link">about:telemetry</a>.
+about-glean-about-data-list-item-debug-ping-viewer =
+    For å sjå igjennom feilsøkingskodar, sjå fullstendige ping, sjå ein direktestraum av hendingar eller sjå visualiseringar av metriske data, kan du sjå
+    <a data-l10n-name="glean-debug-ping-viewer">{ glean-debug-ping-viewer-brand-name }</a>.
 about-glean-about-data-explanation =
     For å sjå gjennom lista over innsamla data, sjå
     <a data-l10n-name="glean-dictionary-link">{ -glean-brand-name }-ordbok</a>.
