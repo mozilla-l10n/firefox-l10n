@@ -15,6 +15,7 @@ about-logging-set-log-file = Журналдау файлын орнату
 about-logging-set-log-modules = Журналдау модульдерін орнату
 about-logging-start-logging = Журналдауды бастау
 about-logging-stop-logging = Журналдауды аяқтау
+about-logging-copy-as-url = Ағымдағы параметрлерді URL ретінде көшіру
 about-logging-buttons-disabled = Журналдау қоршам айнымалылары арқылы бапталған, динамикалық конфигурация қолжетімсіз.
 about-logging-some-elements-disabled = Журналдау URL арқылы бапталған, кейбір конфигурация опциялары қолжетімді емес
 about-logging-info = Ақпарат:
