@@ -185,6 +185,7 @@ media-capabilities-enumerate = Дерекқор жазбаларын шығар�
 
 media-codec-support-sw-decoding = Бағдарламалық декодтау
 media-codec-support-hw-decoding = Құрылғылық декодтау
+media-codec-support-sw-encoding = Бағдарламалық кодтау
 media-codec-support-codec-name = Кодек атауы
 media-codec-support-supported = Қолдауы бар
 media-codec-support-unsupported = Қолдауы жоқ

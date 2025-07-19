@@ -15,6 +15,7 @@ webext-perms-header-with-perms = { $extension } қосу керек пе? Бұл
 webext-perms-header-unsigned = { $extension } қосу керек пе? Бұл кеңейту расталмаған. Зиянкес кеңейтулер сіздің жеке деректеріңізді ұрлай алады. Бұны тек шыққан көзіне сенсеңіз, орнатуға болады.
 webext-perms-header-unsigned-with-perms = { $extension } қосу керек пе? Бұл кеңейту расталмаған. Зиянкес кеңейтулер сіздің жеке деректеріңізді ұрлай алады. Бұны тек шыққан көзіне сенсеңіз, орнатуға болады. Бұл кеңейтудің келесі рұқсаттары болады:
 webext-perms-sideload-header = { $extension } қосылды
+webext-perms-optional-perms-header2 = { $extension } қосымша рұқсаттарды сұрайды
 webext-perms-optional-perms-header = { $extension } қосымша рұқсаттарды сұрайды.
 webext-perms-header2 = { $extension } қосу
 
@@ -22,6 +23,7 @@ webext-perms-header2 = { $extension } қосу
 
 webext-perms-header-required-perms = Керек рұқсаттар:
 webext-perms-header-optional-settings = Қосымша баптаулар:
+webext-perms-header-update-required-perms = Жаңа талап етілетін рұқсаттар:
 
 ##
 
@@ -91,9 +93,6 @@ webext-perms-host-description-multiple-domains =
        *[other] { $domainCount } домендегі сайттар үшін деректеріңізге қатынау
     }
 
-## Strings for data collection permissions in the permission prompt.
-
-
 ## Headers used in the webextension permissions dialog for synthetic add-ons.
 ## The part of the string describing what privileges the extension gives should be consistent
 ## with the value of webext-site-perms-description-gated-perms-{sitePermission}.
@@ -127,6 +126,3 @@ webext-site-perms-header-unsigned-with-perms = { $extension } қосу кере�
 
 webext-site-perms-midi = MIDI құрылғыларына қатынау
 webext-site-perms-midi-sysex = SysEx қолдауы бар MIDI құрылғыларына қатынау
-
-## Colorway theme migration
-

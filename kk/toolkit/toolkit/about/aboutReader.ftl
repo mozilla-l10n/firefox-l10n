@@ -129,3 +129,5 @@ about-reader-text-alignment-center =
     .title = Мәтінді ортасымен туралау
 about-reader-text-alignment-right =
     .title = Мәтінді оңға туралау
+about-reader-text-alignment-justify =
+    .title = Мәтінді енімен туралау

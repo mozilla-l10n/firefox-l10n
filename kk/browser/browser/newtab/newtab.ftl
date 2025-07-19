@@ -527,9 +527,6 @@ newtab-download-mobile-highlight-title = Мобильді { -brand-product-name 
 newtab-download-mobile-highlight-image =
     .aria-label = Мобильді { -brand-product-name } жүктеп алу үшін QR коды
 
-## Strings for shortcuts highlight
-
-
 ## Strings for reporting ads and content
 
 newtab-report-ads-reason-not-interested =
@@ -555,3 +552,4 @@ newtab-toast-thanks-for-reporting =
 
 # "Trending on Google" refers to the trending topics coming from Google Search, usually seen when a user is focused on the search bar
 newtab-trending-searches-trending-on-google = Google-да әйгілі
+newtab-trending-searches-learn-more = Көбірек білу

@@ -32,6 +32,18 @@ experimental-features-contextual-password-manager-description = Få tilgang til 
 # New Tab Custom Wallpapers
 experimental-features-custom-wallpaper =
     .label = Vel ein eigendefinert bakgrunn eller farge for Ny fane
+experimental-features-custom-wallpaper-description = Last opp ditt eige bakgrunnsbilde eller vel ein eigendefinert farge for bakgrunnen din til ny fane.
 # Link Previews with AI
 experimental-features-link-previews =
     .label = Førehandsvising av lenker
+experimental-features-link-previews-description =
+    { PLATFORM() ->
+        [macos] For å lære meir om ei nettside før du klikkar, hald musepeikaren over ei kopling og trykk Shift (⇧) pluss Option (⌥) eller Alt. Førehandsvisningar kan innehalde detaljar som tittel og lesetid. For nokre nettsider kan AI også lese sideteksten og generere nøkkelpunkt. AI er optimalisert for å lese og generere engelsk tekst. For å prioritere personvernet ditt, køyrer AI lokalt på datamaskina di. <a data-l10n-name="connect">Del tilbakemelding</a>
+       *[other] For å lære meir om ei nettside før du klikkar, hald musepeikaren over ei kopling og trykk Shift + Alt. Førehandsvisningar kan innehalde detaljar som tittel og lesetid. For nokre nettsider kan AI også lese sideteksten og generere nøkkelpunkt. AI er optimalisert for å lese og generere engelsk tekst. For å prioritere personvernet ditt, køyrer AI lokalt på datamaskina di. <a data-l10n-name="connect">Del tilbakemelding</a>
+    }
+# This version of the link previews description does not mention AI.
+experimental-features-link-previews-description-no-ai =
+    { PLATFORM() ->
+        [macos] For å lære meir om ei nettside før du klikkar, hald musepeikaren over ei lenkje og trykk Shift (⇧) pluss Option (⌥) eller Alt. Førehandsvisningar kan inkludere detaljar som tittel og lesetid. <a data-l10n-name="connect">Del tilbakemeldingar</a>
+       *[other] For å lære meir om ei nettside før du klikkar, hald musepeikaren over ei lenkje og trykk Shift + Alt. Førehandsvisningar kan innehalde detaljar som tittel og lesetid. <a data-l10n-name="connect">Del tilbakemeldingar</a>
+    }

@@ -363,6 +363,7 @@ quickactions-downloads2 = Жүктемелерді қарау
 quickactions-cmd-downloads = жүктемелер
 # Opens about:addons page in the extensions section
 quickactions-extensions = Кеңейтулерді басқару
+quickactions-cmd-extensions2 = extensions, addons, add-ons, кеңейтулер, қосымшалар
 quickactions-cmd-extensions = кеңейтулер
 # Opens Firefox View
 quickactions-firefoxview = { -firefoxview-brand-name } ашу
@@ -410,6 +411,10 @@ quickactions-cmd-settings2 = settings, preferences, options, manage, бапта�
 quickactions-cmd-settings = баптаулар, қалаулар, опциялар
 # Opens about:addons page in the themes section
 quickactions-themes = Темаларды басқару
+# In English we provide multiple spellings for "add-ons". If that's not
+# applicable to your language, only use the correct spelling (don't repeat the
+# same word).
+quickactions-cmd-themes2 = themes, add-ons, addons, темалар, қосымшалар
 quickactions-cmd-themes = темалар
 # Opens a SUMO article explaining how to update the browser
 quickactions-update = { -brand-short-name } жаңарту

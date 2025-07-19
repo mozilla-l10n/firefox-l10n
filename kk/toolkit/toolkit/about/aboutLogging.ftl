@@ -47,6 +47,7 @@ about-logging-preset-media-playback-description = Медиа ойнату мәс
 about-logging-preset-webrtc-label = WebRTC
 about-logging-preset-webrtc-description = WebRTC қоңырауларын диагностикалау үшін журналдау модульдері
 about-logging-preset-webcodecs-label = WebCodecs
+about-logging-preset-ml-label = Машиналық оқыту
 about-logging-preset-webgpu-label = WebGPU
 about-logging-preset-webgpu-description = WebGPU мәселелерін диагностикалау үшін журналдау модульдері
 about-logging-preset-gfx-label = Графика

@@ -165,6 +165,7 @@ contextual-manager-passwords-no-username-heading-and-message =
     .heading = Пайдаланушы атын қосу
     .message = Жылдамырақ кіру үшін оны қосыңыз.
 contextual-manager-passwords-add-username-button = Пайдаланушы атын қосу
+contextual-manager-passwords-title = Парольдер
 
 ## Login Form
 
