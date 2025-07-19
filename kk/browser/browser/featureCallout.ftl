@@ -94,6 +94,7 @@ bookmarks-toolbar-callout-2b-secondary-button-label = Жоқ, рахмет
 
 ## Perplexity callout strings
 
+perplexity-callout-theme-1-title = Бірден дұрыс жауап керек пе?
 perplexity-callout-theme-2-title = Perplexity қолданып көріңіз: іздеудің жаңа әдісі
 perplexity-callout-theme-1-subtitle-1 = Perplexity қолданып көріңіз. Дереккөздері көрсетілген толық жауаптарды алғыңыз келсе, оны іздеу батырмасынан таңдаңыз.
 perplexity-callout-primary-label = Perplexity сұрау
@@ -122,6 +123,8 @@ vertical-tabs-callout-2-subtitle = Бұл жайма беттер тізімін
 
 ## Sidebar Vertical Tabs Pinning Strings
 
+sidebar-pins-callout-title = Маңызды беттеріңізден жаңылысып жүрсіз бе?
+sidebar-pins-callout-subtitle = Беттер тізімінің жоғарғы жағына қою үшін оларды бекітіп көріңіз. Бекіткіңіз келетін бетке тышқанның оң жақ пернесін басып, «Бетті бекіту» командасын таңдаңыз.
 sidebar-pins-callout-cta-button = Бетті бекіту
 
 ## Pinning Tabs Strings
@@ -133,6 +136,7 @@ pin-tabs-callout-3-title = Маңызды сайттарды қол жетімд
 
 ## Sidebar Onboarding Strings
 
+sidebar-customization-callout-1-title = Бүйір панелі: құралдар мен беттерге арналған орын
 sidebar-customization-callout-callout-button = Бүйір панелін баптау
 sidebar-customization-callout-dismiss-button = Бүйір панельді жасыру
 
