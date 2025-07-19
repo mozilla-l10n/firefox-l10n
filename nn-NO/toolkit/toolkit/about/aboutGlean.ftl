@@ -135,6 +135,9 @@ about-glean-about-data-list-item-about-telemetry =
 about-glean-about-data-list-item-debug-ping-viewer =
     For å sjå igjennom feilsøkingskodar, sjå fullstendige ping, sjå ein direktestraum av hendingar eller sjå visualiseringar av metriske data, kan du sjå
     <a data-l10n-name="glean-debug-ping-viewer">{ glean-debug-ping-viewer-brand-name }</a>.
+about-glean-about-data-list-item-firefox-profiler =
+    For å registrere ein ytingsprofil og sjå alle registrerte målingar, bruk
+    <a data-l10n-name="about-glean-firefox-profiler">{ -profiler-brand-name }</a>.
 about-glean-about-data-explanation =
     For å sjå gjennom lista over innsamla data, sjå
     <a data-l10n-name="glean-dictionary-link">{ -glean-brand-name }-ordbok</a>.
