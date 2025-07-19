@@ -114,16 +114,16 @@ fxa-adoption-passwords-primary-button-label = Registrati
 
 ## Windows 10 EoS Sync messages group 1 callouts
 
-windows-10-eos-sync-urgency-title-1 = Non perdere tutto quello che hai salvato quando passi a Windows 11.
+windows-10-eos-sync-urgency-title-1 = Non perdere tutto ciò che hai salvato quando passi a Windows 11.
 windows-10-eos-sync-urgency-subtitle-1 = Sincronizza subito per assicurarti che i tuoi segnalibri, password e impostazioni di { -brand-short-name } rimangano al sicuro e siano semplici da ripristinare.
-windows-10-eos-sync-urgency-title-2 = Sei pronto per dire addio a Windows 10? Assicurati di proteggere i tuoi dati durante il passaggio.
-windows-10-eos-sync-urgency-subtitle-2 = Anche se non utilizzi { -brand-short-name } ogni giorno, sincronizza per mantenere segnalibri e password al sicuro e accessibili.
+windows-10-eos-sync-urgency-title-2 = Sei pronto per dire addio a Windows 10? Assicurati di proteggere i tuoi dati quando cambi.
+windows-10-eos-sync-urgency-subtitle-2 = Anche se non utilizzi { -brand-short-name } ogni giorno, utilizza la sincronizzazione per mantenere segnalibri e password al sicuro e sempre accessibili.
 windows-10-eos-sync-new-device-title-1 = Non correre il rischio di dover ricominciare tutto da capo sul tuo nuovo dispositivo.
 windows-10-eos-sync-new-device-subtitle-1 = Sincronizza per avere sempre con te i segnalibri, le password e le impostazioni preferite di { -brand-short-name } quando cambi.
 windows-10-eos-sync-new-device-title-2 = Vuoi passare a un nuovo dispositivo? Non perdere ciò che è importante.
 windows-10-eos-sync-new-device-subtitle-2 = Non importa quanto spesso utilizzi { -brand-short-name }, la sincronizzazione protegge i tuoi segnalibri, password e impostazioni.
 windows-10-eos-sync-new-device-primary-label = Sincronizza adesso
-windows-10-eos-sync-general-title-1 = Proteggi la versione di { -brand-short-name } che hai reso tua.
+windows-10-eos-sync-general-title-1 = Proteggi l’esperienza personalizzata che hai creato per { -brand-short-name }.
 windows-10-eos-sync-general-subtitle-1 = Salva e sincronizza password, segnalibri, impostazioni e altri dati per proteggere ciò su cui fai affidamento.
 windows-10-eos-sync-general-title-2 = È il momento giusto per eseguire il backup di password e segnalibri.
 windows-10-eos-sync-general-subtitle-2 = Sincronizza ora per proteggere i dati che affidi a { -brand-short-name }, e per recuperarli in qualsiasi luogo e momento.
