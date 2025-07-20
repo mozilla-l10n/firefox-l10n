@@ -73,6 +73,15 @@ open-in-new-window-for-csp-or-xfo-error = Opne nettstad i nytt vindauge
 csp-xfo-blocked-long-desc = For å ta vare på sikkerheita di, vil { $hostname } ikkje tillate at { -brand-short-name } viser sida dersom ein annan nettstad har bygd henne inn. For å sjå denne sida, må du opne henne i eit nytt vindauge.
 fp-certerror-view-certificate-link = Vis sertifikatet til nettstaden
 fp-certerror-return-to-previous-page-recommended-button = Gå tilbake (tilrådd)
+# This string appears after the following string: "What makes the site look dangerous?" (fp-certerror-why-site-dangerous)
+# Variables:
+#   $hostname (String) - Hostname of the website to which the user was trying to connect.
+#   $validHosts (String) - Valid hostnames.
+fp-certerror-bad-domain-why-dangerous-body = Nettstaden er konfigurert til å berre tillate sikre tilkoplingar, men det er eit problem med sertifikatet til nettstaden. Det er mogleg at ein vondsinna aktør prøver å gi seg ut for å vere nettstaden. Nettstader brukar sertifikat ferda ut av ein sertifiseringsinstans for å bevise at dei verkeleg er den dei gir seg ut for å vere. { -brand-short-name } stolar ikkje på denne nettstaden fordi sertifikatet ikkje er gyldig for { $hostname }. Sertifikatet er berre gyldig for: { $validhosts }.
+# This string appears after the following string: "What can you do about it?" (fp-certerror-what-can-you-do)
+fp-certerror-bad-domain-what-can-you-do-body = Sannsynlegvis ingenting, sidan det er sannsynleg at det er eit problem med sjølve nettstaden. Nettstader brukar sertifikat ferda ut av ein sertifiseringsinstans for å bevise at dei verkeleg er den dei gir seg ut for å vere. Men om du er på eit bedriftsnettverk, kan det hende at supportteamet ditt har meir informasjon. Om du brukar antivirusprogramvare, kan du prøve å søkje etter potensielle konfliktar eller kjende problem.
+# This string appears after the following string: "What makes the site look dangerous?" (fp-certerror-why-site-dangerous)
+fp-certerror-unknown-issuer-why-dangerous-body = Det er eit problem med sertifikatet til nettstaden. Det er mogleg at ein vondsinna aktør prøver å gi seg ut for å vere nettstaden. Nettstadar brukar sertifikat ferda ut av ein sertifiseringsinstans for å bevise at dei verkeleg er den dei gir seg ut for å vere. { -brand-short-name } stolar ikkje på denne nettstaden fordi vi ikkje kan sjå kven som ferda ut sertifikatet, det er sjølvsignert, eller nettstaden sender ikkje mellomliggjande sertifikat vi stolar på.
 # This string appears after the following string: "What can you do about it?" (fp-certerror-what-can-you-do)
 fp-certerror-self-signed-what-can-you-do-body = Ikkje mykje. Det er sannsynleg at det er eit problem med sjølve nettstaden.
 # This string appears after the following string: "What makes the site look dangerous?" (fp-certerror-why-site-dangerous)
@@ -92,10 +101,6 @@ fp-datetime = { DATETIME($datetime, month: "short", year: "numeric", day: "numer
 fp-learn-more-about-secure-connection-failures = Les meir om feil med trygg tilkopling
 fp-learn-more-about-cert-issues = Les meir om slike sertifikatproblem
 fp-learn-more-about-time-related-errors = Les meir om feilsøking av tidsrelaterte feil
-
-## Variables:
-##   $hostname (string) - Hostname of the website with cert error.
-
 
 ## Messages used for certificate error titles
 
