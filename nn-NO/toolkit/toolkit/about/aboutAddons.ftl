@@ -283,13 +283,13 @@ discopane-notice-recommendations2 =
 discopane-notice-learn-more = Les meir
 # Notice for the colorway theme removal
 colorway-removal-notice-message =
-    .heading = Fargesamansetjingstemaet/-temaa dine vart fjerna.
+    .heading = Fargetemaet/-temaa dine vart fjerna.
     .message =
         { -brand-product-name } oppdaterte fargetema-kolleksjonen sin. Vi fjerna
         den/dei gamle versjonen(e) frå lista over «Lagra tema». Få nye versjonar på 
         nettstaden for tillegg.
 colorway-removal-notice-learn-more = Les meir
-colorway-removal-notice-button = Få oppdaterte fargesamansetjingstema
+colorway-removal-notice-button = Få oppdaterte fargetema
 privacy-policy = Personvernpraksis
 # Refers to the author of an add-on, shown below the name of the add-on.
 # Variables:
