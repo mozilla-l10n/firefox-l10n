@@ -12,7 +12,7 @@ printui-sheets-count =
        *[other] { $sheetCount } 张纸
     }
 printui-page-range-all = 全部
-printui-page-range-current = 当前
+printui-page-range-current = 当前页
 printui-page-range-odd = 奇数页
 printui-page-range-even = 偶数页
 printui-page-range-custom = 自定义
