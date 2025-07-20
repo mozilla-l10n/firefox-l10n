@@ -576,7 +576,7 @@ mlmodel-extension-label = Brukes av utvidelsen { $extensionName }
 
 mlmodel-about-inference = { -brand-short-name } bruker dette på about:inference
 mlmodel-link-preview = { -brand-short-name } bruker denne modellen til å generere hovedpunkter når du forhåndsviser lenker
-mlmodel-pdfjs = { -brand-short-name } bruker dette til å lage alt-tekst for bilder du legger til i PDF-er
+mlmodel-pdfjs = { -brand-short-name } bruker dette til å lage alternativ tekst for bilder du legger til i PDF-er
 mlmodel-smart-tab-topic-engine = { -brand-short-name } bruker dette til å foreslå navn for dine fanegrupper
 mlmodel-smart-tab-embedding-engine = { -brand-short-name } bruker dette til å foreslå faner for dine fanegrupper
 # AI Model will be downloaded on the users device and used locally

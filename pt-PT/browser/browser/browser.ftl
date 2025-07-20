@@ -363,6 +363,7 @@ quickactions-downloads2 = Ver transferências
 quickactions-cmd-downloads = transferências
 # Opens about:addons page in the extensions section
 quickactions-extensions = Gerir extensões
+quickactions-cmd-extensions2 = extensões, extras
 quickactions-cmd-extensions = extensões
 # Opens Firefox View
 quickactions-firefoxview = Abrir o { -firefoxview-brand-name }
@@ -410,6 +411,10 @@ quickactions-cmd-settings2 = definições, preferências, opções, gerir
 quickactions-cmd-settings = configurações, preferências, opções
 # Opens about:addons page in the themes section
 quickactions-themes = Gerir temas
+# In English we provide multiple spellings for "add-ons". If that's not
+# applicable to your language, only use the correct spelling (don't repeat the
+# same word).
+quickactions-cmd-themes2 = temas, extras
 quickactions-cmd-themes = temas
 # Opens a SUMO article explaining how to update the browser
 quickactions-update = Atualizar o { -brand-short-name }
@@ -614,6 +619,10 @@ urlbar-search-mode-indicator-close =
 # engine is unknown.
 urlbar-placeholder =
     .placeholder = Pesquisar ou introduzir um endereço
+# This placeholder is used when not in search mode and searching in the urlbar
+# is disabled via the keyword.enabled pref.
+urlbar-placeholder-keyword-disabled =
+    .placeholder = Inserir endereço
 # This placeholder is used in search mode with search engines that search the
 # entire web.
 # Variables
@@ -810,6 +819,8 @@ urlbar-searchmode-actions =
     .label = Ações
 urlbar-searchmode-exit-button =
     .tooltiptext = Fechar
+urlbar-searchmode-default =
+    .tooltiptext = Motor de pesquisa predefinido
 # Label shown on the top of Searchmode Switcher popup. After this label, the
 # available search engines will be listed.
 urlbar-searchmode-popup-description = Desta vez, pesquisar com:
@@ -1114,6 +1125,8 @@ navbar-accessible =
     .aria-label = Navegação
 navbar-downloads =
     .label = Transferências
+navbar-overflow-2 =
+    .tooltiptext = Mais ferramentas
 navbar-overflow =
     .tooltiptext = Mais ferramentas…
 # Variables:
@@ -1311,3 +1324,6 @@ file-picker-crashed-show-in-folder =
 ## Onboarding Finish Setup checklist
 
 onboarding-checklist-button-label = Terminar configuração
+onboarding-aw-finish-setup-button =
+    .label = Terminar configuração
+    .tooltiptext = Terminar configuração do { -brand-short-name }
