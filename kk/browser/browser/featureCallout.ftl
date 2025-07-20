@@ -97,6 +97,8 @@ bookmarks-toolbar-callout-2b-secondary-button-label = Жоқ, рахмет
 perplexity-callout-theme-1-title = Бірден дұрыс жауап керек пе?
 perplexity-callout-theme-2-title = Perplexity қолданып көріңіз: іздеудің жаңа әдісі
 perplexity-callout-theme-1-subtitle-1 = Perplexity қолданып көріңіз. Дереккөздері көрсетілген толық жауаптарды алғыңыз келсе, оны іздеу батырмасынан таңдаңыз.
+perplexity-callout-theme-1-subtitle-2 = Сұрақтар қойыңыз. Толық, дәлелді жауаптар алыңыз. Perplexity қолданып көру үшін оны іздеу батырмасынан таңдаңыз.
+perplexity-callout-theme-2-subtitle-1 = Perplexity сұраңыз. Толық жауаптар мен дереккөздері беріледі.
 perplexity-callout-primary-label = Perplexity сұрау
 perplexity-callout-secondary-label-1 = Елемеу
 perplexity-callout-secondary-label-2 = Түсіндім
@@ -140,6 +142,7 @@ pin-tabs-callout-3-title = Маңызды сайттарды қол жетімд
 ## Sidebar Onboarding Strings
 
 sidebar-customization-callout-1-title = Бүйір панелі: құралдар мен беттерге арналған орын
+sidebar-customization-callout-1-subtitle = { -brand-product-name } бүйірлік панелі сізге шолу тарихына, басқа құрылғылардағы беттерге және ЖИ чатботқа негізгі терезеден шықпай-ақ жедел қол жеткізуге мүмкіндік береді.
 sidebar-customization-callout-callout-button = Бүйір панелін баптау
 sidebar-customization-callout-dismiss-button = Бүйір панельді жасыру
 
