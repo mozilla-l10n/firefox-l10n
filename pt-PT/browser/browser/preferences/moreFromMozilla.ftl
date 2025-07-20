@@ -42,3 +42,4 @@ more-from-moz-solo-button = Experimente o { -solo-ai-brand-name }
 
 ## These strings are for the MDN card in about:preferences moreFromMozilla page
 
+more-from-moz-mdn-title = MDN Web Docs
