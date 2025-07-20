@@ -51,11 +51,20 @@ genai-menu-ask-generic =
 # $provider (string) - name of the provider
 genai-menu-ask-provider =
     .label = Pedir ao { $provider }
+genai-menu-open-generic =
+    .label = Abrir o Chatbot de IA
+# $provider (string) - name of the provider
+genai-menu-open-provider =
+    .label = Abrir { $provider }
 genai-menu-remove-generic =
     .label = Remover chatbot de IA
 # $provider (string) - name of the provider
 genai-menu-remove-provider =
     .label = Remover { $provider }
+genai-menu-remove-sidebar =
+    .label = Remover da barra lateral
+genai-menu-new-badge = Novo
+genai-menu-summarize-page = Resumir página
 genai-input-ask-generic =
     .placeholder = Perguntar ao chatbot de IA…
 # $provider (string) - name of the provider
@@ -82,6 +91,10 @@ genai-shortcuts-selected-warning =
         }
 genai-shortcuts-hide =
     .label = Ocultar atalho do chatbot
+genai-menu-no-provider =
+    .label = Perguntar a um Chatbot de IA
+genai-menu-choose-chatbot =
+    .label = Escolher um Chatbot de IA
 
 ## Chatbot header
 
@@ -108,6 +121,7 @@ genai-options-about-chatbot =
 
 ## Chatbot footer
 
+genai-page-button-summarize = Resumir página
 
 ## Chatbot onboarding
 
@@ -143,6 +157,10 @@ genai-onboarding-select-primary = Começar a conversar
 genai-chatbot-contextual-title = Utilize um robô de conversação de IA sem mudar de separadores
 genai-chatbot-contextual-subtitle = Converse e navegue, lado a lado, quando adiciona um chatbot com IA à barra lateral do { -brand-short-name }.
 genai-chatbot-contextual-button = Escolha um chatbot
+genai-chatbot-summarize-title = Novo! Resumir páginas com um clique
+genai-chatbot-summarize-button = Resumir página
+# “Summarize Page” should be consistent with the translation for the string genai-menu-summarize-page
+genai-chatbot-summarize-sidebar-provider-subtitle = Clique com o botão direito no seu chatbot de IA na barra lateral e escolha “Resumir página”.
 
 ## Chatbot onboarding choices
 ## These describe features/capabilities of chatbot providers. These are not buttons/actions.

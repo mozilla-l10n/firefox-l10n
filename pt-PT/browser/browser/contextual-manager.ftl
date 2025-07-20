@@ -155,6 +155,8 @@ contextual-manager-passwords-password-already-exists-error-button = Ir para a pa
 contextual-manager-passwords-update-password-success-heading =
     .heading = Palavra-passe guardada
 contextual-manager-passwords-update-password-success-button = Concluído
+contextual-manager-passwords-update-username-success-heading =
+    .heading = Nome de utilizador guardado
 # Message to confirm successful removal of a password/passwords.
 #   $total (number) - Total number of passwords
 contextual-manager-passwords-delete-password-success-heading =
@@ -201,6 +203,7 @@ contextual-manager-passwords-no-username-heading-and-message =
     .heading = Adicionar um nome de utilizador
     .message = Adicione um para se autenticar rapidamente.
 contextual-manager-passwords-add-username-button = Adicionar nome de utilizador
+contextual-manager-passwords-title = Palavras-passe
 
 ## Login Form
 
@@ -263,6 +266,24 @@ contextual-manager-view-alert-heading =
     .heading = Ver alerta
 contextual-manager-view-alert-button =
     .tooltiptext = Rever alerta
+# Variables
+#   $count (number) - The number of active alerts associated with the login
+contextual-manager-view-alert-heading-2 =
+    .heading =
+        { $count ->
+            [1] Ver alerta
+            [one] Ver alerta
+           *[other] Ver alertas
+        }
+# Variables
+#   $count (number) - The number of active alerts associated with the login
+contextual-manager-view-alert-button-2 =
+    .tooltiptext =
+        { $count ->
+            [1] Rever alerta
+            [one] Rever alerta
+           *[other] Rever alertas
+        }
 contextual-manager-show-password-button =
     .aria-label = Mostrar palavra-passe
     .title = Mostrar palavra-passe

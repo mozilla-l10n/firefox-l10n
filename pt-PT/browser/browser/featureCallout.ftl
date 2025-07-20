@@ -106,6 +106,11 @@ perplexity-callout-secondary-label-2 = Percebi
 
 ## Account Adoption Passwords callout strings
 
+# Suggestion to backup passwords by signing up for Mozilla account and using sync
+fxa-adoption-passwords-title = Palavra-passe guardada. Vamos fazer a cópia de segurança.
+fxa-adoption-passwords-subtitle = Proteja as suas palavras-passe, sincronizando-as com encriptação nos seus dispositivos.
+# Opens Mozilla accounts sign-up page
+fxa-adoption-passwords-primary-button-label = Registar
 
 ## Sidebar Strings
 
@@ -130,6 +135,14 @@ sidebar-pins-callout-cta-button = Fixar separador
 
 ## Pinning Tabs Strings
 
+pin-tabs-callout-1-title = Mantenha os separadores importantes ao seu alcance
+pin-tabs-callout-1-subtitle = Arraste um separador para o início da faixa de separadores para o afixar. Ou clique com o botão direito e escolha Fixar separador.
+pin-tabs-callout-cta-1-button = Fixar este separador
+pin-tabs-callout-2-title = Fixe os separadores que mais visita
+pin-tabs-callout-2-subtitle = Para fixar qualquer separador, arraste-o para o início da faixa de separadores. Ou clique com o botão direito e escolha Fixar separador.
+pin-tabs-callout-cta-2-button = Fixar este separador
+pin-tabs-callout-3-title = Mantenha os sites importantes ao seu alcance
+pin-tabs-callout-4-title = Fixe os sites que mais visita
 
 ## Sidebar Onboarding Strings
 
