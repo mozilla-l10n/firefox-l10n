@@ -353,6 +353,7 @@ quickactions-downloads2 = Ցուցադրել ներբեռնումները
 quickactions-cmd-downloads = ներբեռնումներ
 # Opens about:addons page in the extensions section
 quickactions-extensions = Կառավարել ընդլայնումները
+quickactions-cmd-extensions2 = ընդլայնումներ, հավելումներ
 quickactions-cmd-extensions = ընդլայնումներ
 # Opens Firefox View
 quickactions-firefoxview = Բացել { -firefoxview-brand-name }ը
@@ -586,9 +587,6 @@ sharing-warning-proceed-to-tab =
     .label = Շարունակել ներդիրում
 sharing-warning-disable-for-session =
     .label = Անջ. պաշտպանությունը ա/շրջանի համար
-
-## DevTools F12 popup
-
 
 ## URL Bar
 
