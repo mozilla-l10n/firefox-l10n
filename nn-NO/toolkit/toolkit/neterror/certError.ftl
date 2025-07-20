@@ -122,6 +122,14 @@ cert-error-cert-not-in-name-space = { -brand-short-name } blokkerte besøket dit
 cert-error-inadequate-cert-type = { -brand-short-name } blokkerte besøket ditt til denne nettstaden fordi sertifikatet som er oppgitt for { $hostname } ikkje har løyve til å bli brukt av ein webserver.
 cert-error-path-len-constraint-invalid = { -brand-short-name } blokkerte besøket ditt til denne nettstaden fordi sertifikatet som er oppgitt for { $hostname } har for mange mellomliggjande sertifikat i stien til rotsertifikatet.
 cert-error-invalid-key = { -brand-short-name } blokkerte besøket ditt til denne nettstaden fordi sertifikatet som er oppgitt for { $hostname } har ein ugyldig nøkkel. Han er mest sannsynleg for liten til å vere sikker.
+cert-error-unknown-critical-extension = { -brand-short-name } blokkerte besøket ditt til denne nettstaden fordi sertifikatet som er oppgitt for { $hostname } inneheld ei kritisk utviding som ikkje blir støtta.
+cert-error-extension-value-invalid = { -brand-short-name } blokkerte besøket ditt til denne nettstaden fordi sertifikatet som er oppgitt for { $hostname } inneheld ei ugyldig utviding.
+cert-error-untrusted-issuer = { -brand-short-name } blokkerte besøket ditt til denne nettstaden fordi sertifikatet som vart gitt for { $hostname } vart ferda ut av ein sertifiseringsinstans som ikkje lenger er klarert.
+cert-error-untrusted-cert = { -brand-short-name } blokkerte besøket ditt til denne nettstaden fordi sertifikatet som er oppgitt for { $hostname } er merkt som ikkje klarert.
+cert-error-invalid-integer-encoding = { -brand-short-name } blokkerte besøket ditt til denne nettstaden fordi sertifikatet som er oppgitt for { $hostname } inneheld ei ugyldig koding av eit heiltal. Vanlege årsaker inkluderer negative serienummer, negative RSA-modular og kodingar som er lengre enn nødvendig.
+cert-error-unsupported-keyalg = { -brand-short-name } blokkerte besøket ditt til denne nettstaden fordi sertifikatet som er oppgitt for { $hostname } har ein nøkkeltype som ikkje blir støtta.
+cert-error-issuer-no-longer-trusted = { -brand-short-name } blokkerte besøket ditt til denne nettstaden fordi sertifiseringsinstansen som ferda ut sertifikatet som vart gitt for { $hostname } ikkje lenger er klarert.
+cert-error-signature-algorithm-mismatch = { -brand-short-name } blokkerte besøket ditt til denne nettstaden fordi signaturalgoritmen til sertifikatet som er oppgitt for { $hostname } ikkje samsvarar med signaturalgoritmefeltet.
 
 ## Messages used for certificate error titles
 
