@@ -7,30 +7,30 @@
 ## Permissions for which the message has been changed and the key updated
 ## must have a corresponding entry in the `PERMISSION_L10N_ID_OVERRIDES` map.
 
-webext-perms-description-bookmarks = Читання й зміна закладок
-webext-perms-description-browserSettings = Читання й зміна налаштувань браузера
-webext-perms-description-browsingData = Стерти нещодавню історію перегляду, файли cookie та пов'язані дані
+webext-perms-description-bookmarks = Читання і зміна закладок
+webext-perms-description-browserSettings = Читання і зміна налаштувань браузера
+webext-perms-description-browsingData = Стирання нещодавньої історії перегляду, файлів cookie та пов'язаних даних
 webext-perms-description-clipboardRead = Отримання даних з буфера обміну
-webext-perms-description-clipboardWrite = Збереження даних в буфер обміну
-webext-perms-description-declarativeNetRequest = Блокувати вміст на всіх сторінках
-webext-perms-description-declarativeNetRequestFeedback = Читати історію перегляду
-webext-perms-description-devtools = Розширте інструменти розробника для доступу до своїх даних у відкритих вкладках
-webext-perms-description-downloads = Завантаження файлів, а також читання й зміна історії браузера
+webext-perms-description-clipboardWrite = Введення даних до буфера обміну
+webext-perms-description-declarativeNetRequest = Блокування вмісту на будь-якій сторінці
+webext-perms-description-declarativeNetRequestFeedback = Читання історії перегляду
+webext-perms-description-devtools = Розширення доступу інструментів розробника до ваших даних у відкритих вкладках
+webext-perms-description-downloads = Завантаження файлів, читання і зміна історії завантажень браузера
 webext-perms-description-downloads-open = Відкрити файли, завантажені на ваш комп'ютер
-webext-perms-description-find = Читати текст всіх відкритих вкладок
+webext-perms-description-find = Читання тексту в усіх відкритих вкладках
 webext-perms-description-geolocation = Доступ до вашого розташування
 webext-perms-description-history = Доступ до історії перегляду
 webext-perms-description-management = Моніторинг використання додатків і керування темами
 webext-perms-description-nativeMessaging = Обмін повідомленнями з іншими програмами, крім { -brand-short-name }
 webext-perms-description-notifications = Показ сповіщень
 webext-perms-description-pkcs11 = Надання послуг криптографічної автентифікації
-webext-perms-description-privacy = Перегляд і редагування налаштувань приватності
+webext-perms-description-privacy = Читання і зміна налаштувань приватності
 webext-perms-description-proxy = Керування налаштуваннями проксі браузера
 webext-perms-description-sessions = Доступ до нещодавно закритих вкладок
 webext-perms-description-tabs = Доступ до вкладок браузера
 webext-perms-description-tabHide = Приховування і показ вкладок браузера
 webext-perms-description-topSites = Доступ до історії перегляду
-webext-perms-description-trialML = Завантажуйте та запускайте моделі ШІ на своєму пристрої
+webext-perms-description-trialML = Завантаження і запуск моделей ШІ на вашому пристрої
 webext-perms-description-userScripts = Дозволити неперевіреним стороннім скриптам отримувати доступ до ваших даних
 webext-perms-description-webNavigation = Доступ до активності браузера під час навігації
 
