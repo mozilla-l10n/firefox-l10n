@@ -116,6 +116,12 @@ fp-learn-more-about-time-related-errors = Les meir om feilsøking av tidsrelater
 
 cert-error-revoked-certificate = { -brand-short-name } blokkerte besøket ditt til denne nettstaden fordi sertifikatet som vart gitt for { $hostname } er kalla tilbake og ikkje lenger er klarert.
 cert-error-bad-signature = { -brand-short-name } blokkerte besøket ditt til denne nettstaden fordi signaturen på sertifikatet som er oppgitt for { $hostname } ikkje er gyldig.
+cert-error-key-pinning-failure = { -brand-short-name } blokkerte besøket ditt til denne nettstaden fordi sertifikatet som er oppgitt for { $hostname } brukar ein annan offentleg nøkkel enn venta.
+cert-error-bad-der = { -brand-short-name } blokkerte besøket ditt til denne nettstaden fordi sertifikatet som vart gitt for { $hostname } ikkje er rett koda.
+cert-error-cert-not-in-name-space = { -brand-short-name } blokkerte besøket ditt til denne nettstaden fordi sertifikatet som er oppgitt for { $hostname } ikkje følgjer namneavgrensingane til eit sertifikat som ferda det ut.
+cert-error-inadequate-cert-type = { -brand-short-name } blokkerte besøket ditt til denne nettstaden fordi sertifikatet som er oppgitt for { $hostname } ikkje har løyve til å bli brukt av ein webserver.
+cert-error-path-len-constraint-invalid = { -brand-short-name } blokkerte besøket ditt til denne nettstaden fordi sertifikatet som er oppgitt for { $hostname } har for mange mellomliggjande sertifikat i stien til rotsertifikatet.
+cert-error-invalid-key = { -brand-short-name } blokkerte besøket ditt til denne nettstaden fordi sertifikatet som er oppgitt for { $hostname } har ein ugyldig nøkkel. Han er mest sannsynleg for liten til å vere sikker.
 
 ## Messages used for certificate error titles
 
