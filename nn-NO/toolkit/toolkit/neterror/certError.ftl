@@ -83,11 +83,20 @@ fp-certerror-bad-domain-what-can-you-do-body = Sannsynlegvis ingenting, sidan de
 # This string appears after the following string: "What makes the site look dangerous?" (fp-certerror-why-site-dangerous)
 fp-certerror-unknown-issuer-why-dangerous-body = Det er eit problem med sertifikatet til nettstaden. Det er mogleg at ein vondsinna aktør prøver å gi seg ut for å vere nettstaden. Nettstadar brukar sertifikat ferda ut av ein sertifiseringsinstans for å bevise at dei verkeleg er den dei gir seg ut for å vere. { -brand-short-name } stolar ikkje på denne nettstaden fordi vi ikkje kan sjå kven som ferda ut sertifikatet, det er sjølvsignert, eller nettstaden sender ikkje mellomliggjande sertifikat vi stolar på.
 # This string appears after the following string: "What can you do about it?" (fp-certerror-what-can-you-do)
+fp-certerror-unknown-issuer-what-can-you-do-body = Sannsynlegvis ingenting, sidan det sannsynlegvis er eit problem med sjølve nettstaden. Men om du er på eit bedriftsnettverk, kan det hende at supportteamet ditt har meir informasjon. Om du brukar antivirusprogramvare, må det kanskje konfigurerast til å fungere med { -brand-short-name }.
+# This string appears after the following string: "What makes the site look dangerous?" (fp-certerror-why-site-dangerous)
+fp-certerror-self-signed-why-dangerous-body = Fordi det er eit problem med sertifikatet til nettstaden. Nettstadar brukar sertifikat ferda ut av ein sertifiseringsinstans for å bevise at dei verkeleg er den dei gir seg ut for å vere. Sertifikatet til denne nettstaden er sjølvsignert. Det vart ikkje ferda ut av ein anerkjend sertifiseringsinstans – så vi stolar ikkje på det som standard.
+# This string appears after the following string: "What can you do about it?" (fp-certerror-what-can-you-do)
 fp-certerror-self-signed-what-can-you-do-body = Ikkje mykje. Det er sannsynleg at det er eit problem med sjølve nettstaden.
+fp-certerror-self-signed-important-note = VIKTIG: Om du prøver å besøkje denne nettstaden på eit bedriftsintranett, kan det vere at IT-personalet dykkar brukar sjølvsignerte sertifikat. Dei kan hjelpe deg med å sjekke gyldigheita til sertifikatet.
 # This string appears after the following string: "What makes the site look dangerous?" (fp-certerror-why-site-dangerous)
 # Variables:
 #   $date (Date) - Certificate expiration date.
 fp-certerror-expired-why-dangerous-body = Nettstadar brukar sertifikat utskrive av ein sertifikatutferdar for å bevise at dei verkeleg er den dei seier dei er. { -brand-short-name } stolar ikkje på denne nettstaden fordi det ser ut til at sertifikatet gjekk ut { DATETIME($date, month: "numeric", day: "numeric", year: "numeric") }.
+# This string appears after the following string: "What makes the site look dangerous?" (fp-certerror-why-site-dangerous)
+# Variables:
+#   $date (Date) - Certificate start date.
+fp-certerror-not-yet-valid-why-dangerous-body = Nettstadar brukar sertifikat ferda ut av ein sertifiseringsinstans for å bevise at dei verkeleg er den dei gir seg ut for å vere. { -brand-short-name } stolar ikkje på denne nettstaden fordi det ser ut til at sertifikatet ikkje vil vere gyldig før { DATETIME($date, month: "numeric", day: "numeric", year: "numeric") }.
 # This string appears after the following string: "What can you do about it?" (fp-certerror-what-can-you-do)
 # Variables:
 #   $date (Date) - Clock date.
@@ -101,6 +110,12 @@ fp-datetime = { DATETIME($datetime, month: "short", year: "numeric", day: "numer
 fp-learn-more-about-secure-connection-failures = Les meir om feil med trygg tilkopling
 fp-learn-more-about-cert-issues = Les meir om slike sertifikatproblem
 fp-learn-more-about-time-related-errors = Les meir om feilsøking av tidsrelaterte feil
+
+## Variables:
+##   $hostname (string) - Hostname of the website with cert error.
+
+cert-error-revoked-certificate = { -brand-short-name } blokkerte besøket ditt til denne nettstaden fordi sertifikatet som vart gitt for { $hostname } er kalla tilbake og ikkje lenger er klarert.
+cert-error-bad-signature = { -brand-short-name } blokkerte besøket ditt til denne nettstaden fordi signaturen på sertifikatet som er oppgitt for { $hostname } ikkje er gyldig.
 
 ## Messages used for certificate error titles
 
