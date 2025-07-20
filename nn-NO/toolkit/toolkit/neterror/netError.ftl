@@ -54,6 +54,10 @@ neterror-dns-not-found-hint-header = <strong>Om du har skrive inn rett adresse, 
 neterror-dns-not-found-hint-try-again = Prøv på nytt seinare
 neterror-dns-not-found-hint-check-network = Kontrollere nettverkstilkoplinga di
 neterror-dns-not-found-hint-firewall = Kontrollere at { -brand-short-name } har løyve til å kople til nettet (du kan vere tilkopla, men bak ein brannvegg)
+neterror-dns-not-found-offline-hint-header = <strong>Kva kan du gjere med det?</strong>
+neterror-dns-not-found-offline-hint-different-device = Prøv å kople til på ei anna eining.
+neterror-dns-not-found-offline-hint-modem = Sjekk modemet eller ruteren din.
+neterror-dns-not-found-offline-hint-reconnect = Kople frå og kople til Wi-Fi på nytt.
 
 ## TRR-only specific messages
 ## Variables:
