@@ -42,6 +42,10 @@ bookmarks-toolbar-callout-2b-secondary-button-label = Nu, mulțumesc
 
 perplexity-callout-theme-1-title = Ai nevoie de răspunsul corect, imediat?
 perplexity-callout-theme-2-title = Încearcă Perplexity: un mod nou de căutare
+perplexity-callout-theme-1-subtitle-1 = Încearcă Perplexity. Alege-l din butonul de căutare când vrei răspunsuri complete, inclusiv sursele.
+perplexity-callout-theme-1-subtitle-2 = Pune întrebări. Obține răspunsuri complete și bine documentate. Ca să încerci Perplexity, alege-l din butonul de căutare.
+perplexity-callout-theme-2-subtitle-1 = Întreabă Perplexity. Vei primi răspunsuri complete, inclusiv sursele.
+perplexity-callout-theme-2-subtitle-2 = Pune întrebări. Obține răspunsuri complete și bine documentate.
 
 ## Sidebar Vertical Tabs Strings
 
@@ -54,6 +58,14 @@ sidebar-pins-callout-title = Ai pierdut evidența filelor importante?
 sidebar-pins-callout-subtitle = Încearcă să le fixezi - le ține în partea de sus a listei de file. Dă clic dreapta pe o filă pe care vrei să o fixezi, apoi alege Fixează fila.
 sidebar-pins-callout-cta-button = Fixează fila
 
+## Sidebar Onboarding Strings
+
+sidebar-customization-callout-1-title = Bară laterală: locul tău pentru instrumente și file
+sidebar-customization-callout-1-subtitle = Bara laterală { -brand-product-name } îți oferă acces rapid la istoricul de navigare, la filele de pe alte dispozitive și la un chatbot IA — toate fără a ieși din vizualizarea principală.
+sidebar-customization-callout-callout-button = Personalizează bara laterală
+sidebar-customization-callout-dismiss-button = Ascunde bara laterală
+sidebar-customization-callout-2-title = Personalizează bara laterală { -brand-product-name }
+
 ## Sidebar Callout Survey Strings
 
 sidebar-callout-survey-dont-use-it = Nu îl folosesc
@@ -64,3 +76,6 @@ sidebar-callout-survey-strongly-agree = Întru totul de acord
 sidebar-callout-survey-agree = De acord
 sidebar-callout-survey-disagree = Nu sunt de acord
 sidebar-callout-survey-strongly-disagree = Nu sunt deloc de acord
+sidebar-callout-survey-features-question = Ai mai jos funcționalitățile posibile din bara laterală. Care dintre ele ți-ar îmbunătăți cel mai mult productivitatea în { -brand-short-name }?
+sidebar-callout-survey-split-view = Vizualizează oricare două site-uri web simultan, juxtapuse într-o vizualizare divizată
+sidebar-callout-survey-keep-website-open = Păstrează un site web, cum ar fi e-mailul sau calendarul, deschis în bara laterală în timp ce navighezi
