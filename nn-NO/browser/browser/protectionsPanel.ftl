@@ -87,7 +87,7 @@ smartblock-placeholder-button-text = Tillat på { $websitehost }
 
 ##
 
-protections-panel-settings-label = Innstillingar for vern
+protections-panel-settings-label = Verneinnstillingar
 protections-panel-protectionsdashboard-label = Tryggingsoversyn
 
 ## In the Site Not Working? view, we suggest turning off protections if
@@ -116,7 +116,7 @@ protections-panel-description-shim-allowed-learn-more = Les meir
 protections-panel-shim-allowed-indicator =
     .tooltiptext = Sporing delvis avblokkert
 protections-panel-content-blocking-manage-settings =
-    .label = Handsam instillingar for vern
+    .label = Handsam verneinnstillingar
     .accesskey = n
 protections-panel-content-blocking-breakage-report-view =
     .title = Rapporter problem med ein nettstad
