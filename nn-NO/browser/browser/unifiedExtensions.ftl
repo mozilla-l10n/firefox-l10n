@@ -76,7 +76,6 @@ unified-extensions-mb-blocklist-warning-multiple =
 unified-extensions-mb-blocklist-error-multiple =
     .heading =
         { $extensionsCount ->
-            [one] { "" }
            *[other] { $extensionsCount } utvidingar deaktiverte
         }
     .message = Nokre av utvidingane dine er deaktiverte fordi dei bryt med Mozillas retningslinjer.
