@@ -2,6 +2,10 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+contextual-manager-filter-input =
+    .placeholder = Caută parole
+    .key = F
+    .aria-label = Caută parole
 contextual-manager-menu-more-options-button =
     .title = Mai multe opțiuni
 contextual-manager-more-options-popup =
@@ -16,16 +20,30 @@ contextual-manager-passwords-command-export = Exportă parolele
 contextual-manager-passwords-command-remove-all = Elimină toate parolele
 contextual-manager-passwords-command-settings = Setări
 contextual-manager-passwords-command-help = Ajutor
+contextual-manager-passwords-os-auth-dialog-caption = { -brand-full-name }
+# This message can be seen when attempting to export a password in about:logins on Windows.
+contextual-manager-passwords-export-os-auth-dialog-message-win = Pentru exportarea parolelor, introdu datele de autentificare pentru Windows. Ajută la protejarea securității conturilor tale.
+# This message can be seen when attempting to export a password in about:logins
+# The macOS strings are preceded by the operating system with "Firefox is trying to "
+# and includes subtitle of "Enter password for the user "xxx" to allow this." These
+# notes are only valid for English. only provide the reason that account verification is needed. Do not put a complete sentence here.
+contextual-manager-passwords-export-os-auth-dialog-message-macosx = exportă parolele salvate
 # This message can be seen when attempting to reveal a password in contextual password manager on Windows
 contextual-manager-passwords-reveal-password-os-auth-dialog-message-win = Pentru a vizualiza parola, introdu-ți datele de autentificare pentru Windows. Ajută la protejarea securității conturilor tale.
 # The MacOS string is preceded by the operating system with "Firefox is trying to ".
 # Only provide the reason that account verification is needed. Do not put a complete sentence here.
 contextual-manager-passwords-reveal-password-os-auth-dialog-message-macosx = afișează parola salvată
+# This message can be seen when attempting to edit a login in contextual password manager on Windows.
+contextual-manager-passwords-edit-password-os-auth-dialog-message-win = Pentru editarea parolei, introdu datele tale de autentificare pentru Windows. Ajută la protejarea securității conturilor tale.
+# The MacOS string is preceded by the operating system with "Firefox is trying to ".
+# On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
+contextual-manager-passwords-edit-password-os-auth-dialog-message-macosx = editează parola salvată
 # This message can be seen when attempting to copy a password in contextual password manager on Windows.
 contextual-manager-passwords-copy-password-os-auth-dialog-message-win = Pentru a copia parola, introdu-ți datele de autentificare pentru Windows. Ajută la protejarea securității conturilor tale.
 # The MacOS string is preceded by the operating system with "Firefox is trying to ".
 # Only provide the reason that account verification is needed. Do not put a complete sentence here.
 contextual-manager-passwords-copy-password-os-auth-dialog-message-macosx = copiază parola salvată
+contextual-manager-passwords-import-file-picker-title = Importă parole
 contextual-manager-passwords-import-file-picker-import-button = Importă
 # A description for the .csv file format that may be shown as the file type
 # filter by the operating system.
@@ -41,9 +59,28 @@ contextual-manager-passwords-import-file-picker-tsv-filter-title =
         [macos] Document TSV
        *[other] Fișier TSV
     }
+contextual-manager-passwords-import-success-heading =
+    .heading = Parole importate
+# Variables
+#   $added (number) - Number of added passwords
+#   $modified (number) - Number of modified passwords
+contextual-manager-passwords-import-success-message = Noi: { $added }, Actualizate: { $modified }
+contextual-manager-passwords-import-detailed-report = Vezi raportul detaliat
 contextual-manager-passwords-import-success-button = Terminat
+contextual-manager-passwords-import-error-heading-and-message =
+    .heading = Nu s-au putut importa parolele
+    .message = Asigură-te că fișierul are o coloană pentru site-uri web, nume de utilizator și parole.
+contextual-manager-passwords-import-error-button-try-again = Încearcă din nou
 contextual-manager-passwords-import-error-button-cancel = Anulează
+contextual-manager-passwords-import-learn-more = Află despre importarea parolelor
+contextual-manager-passwords-export-success-heading =
+    .heading = Parole exportate
 contextual-manager-passwords-export-success-button = Terminat
+# Export passwords to file dialog
+contextual-manager-export-passwords-dialog-title = Exporți parolele în fișier?
+# This string recommends to the user that they delete the exported password file that is saved on their local machine.
+contextual-manager-export-passwords-dialog-message = După export, îți recomandăm să ștergi fișierul, ca să nu vadă parolele și alții care folosesc dispozitivul.
+contextual-manager-export-passwords-dialog-confirm-button = Continuă exportul
 contextual-manager-passwords-export-file-picker-export-button = Exportă
 # A description for the .csv file format that may be shown as the file type
 # filter by the operating system.

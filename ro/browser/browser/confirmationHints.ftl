@@ -10,6 +10,9 @@ confirmation-hint-login-removed = Date de autentificare eliminate!
 confirmation-hint-password-removed = Parolă eliminată!
 confirmation-hint-page-bookmarked = Salvată în marcaje
 confirmation-hint-password-saved = Parolă salvată!
+confirmation-hint-password-created = Parolă salvată
+confirmation-hint-password-updated = Parolă actualizată
+confirmation-hint-address-created = Adresă salvată
 confirmation-hint-address-updated = Adresă actualizată
 confirmation-hint-credit-card-created = Card salvat
 confirmation-hint-credit-card-updated = Card actualizat
@@ -27,3 +30,5 @@ confirmation-hint-duplicate-tabs-closed =
         [few] S-au închis { $tabCount } file
        *[other] S-au închis { $tabCount } de file
     }
+# Subtle notification shown when Extensions button moves into the application menu.
+confirmation-hint-extensions-button-hidden = Mutat în meniu

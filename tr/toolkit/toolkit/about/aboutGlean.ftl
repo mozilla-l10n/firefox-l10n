@@ -83,6 +83,8 @@ about-glean-li-for-visit-gdpv =
     <a data-l10n-name="gdpv-tagged-pings-link">Etiketinizle gönderilen ping’leri görmek için { glean-debug-ping-viewer-brand-name } sayfasını ziyaret edin</a>.
     Düğmeye bastıktan sonra ping’inizin ulaşması genellikle birkaç saniye sürer ama bazen birkaç dakikayı bulabilir.
 # Do not translate strings between <code> </code> tags.
+about-glean-adhoc-explanation = Daha fazla <i>ad hoc</i> test için <code>about:glean</code> sayfasında geliştirici araçları konsolunu açıp <code>testGetValue()</code> API’sini <code>Glean.metricCategory.metricName.testGetValue()</code> örneğindeki gibi kullanarak belirli bir enstrümantasyonun geçerli değerini de belirleyebilirsiniz.
+# Do not translate strings between <code> </code> tags.
 about-glean-adhoc-note =
     Geliştirici araçları konsolunda Glean JS API’sinin çalıştığını unutmayın.
     Bu nedenle, ölçüm kategorisi ve ölçüm adı Rust ve C++ API’lerinden farklı olarak
