@@ -321,6 +321,7 @@ identity-https-only-dropdown-off =
 identity-https-only-dropdown-off-temporarily =
     .label = Dezactivat temporar
 identity-https-only-info-turn-on2 = Activează modul numai HTTPS pentru acest site dacă vrei ca { -brand-short-name } să actualizeze conexiunea atunci când este posibil.
+identity-https-only-info-turn-off2 = Dacă pagina nu pare funcțională, poate vrei să dezactivezi modul HTTPS-Only pentru ca acest site și să se reîncarce folosind HTTP nesigur.
 identity-permissions-storage-access-header = Cookie-uri inter-site-uri
 identity-permissions-storage-access-learn-more = Află mai multe
 identity-permissions-reload-hint = Ar putea fi nevoie să reîncarci pagina pentru a aplica modificările.
@@ -367,11 +368,24 @@ browser-window-close-button =
 
 # This label should be written in all capital letters if your locale supports them.
 browser-tab-audio-playing2 = SE REDĂ
+# This label should be written in all capital letters if your locale supports them.
+browser-tab-audio-muted2 = SONOR DEZACTIVAT
+# This label should be written in all capital letters if your locale supports them.
+browser-tab-audio-blocked = REDARE AUTOMATĂ BLOCATĂ
+# This label should be written in all capital letters if your locale supports them.
+browser-tab-audio-pip = IMAGINE ÎN IMAGINE
 
 ## These labels should be written in all capital letters if your locale supports them.
 ## Variables:
 ##  $count (number): number of affected tabs
 
+browser-tab-mute =
+    { $count ->
+        [1] ÎNCHIDE SONORUL FILEI
+        [one] ÎNCHIDE SONORUL PENTRU 1 FILĂ
+        [few] ÎNCHIDE SONORUL PENTRU { $count } FILE
+       *[other] ÎNCHIDE SONORUL PENTRU { $count } DE FILE
+    }
 browser-tab-unmute =
     { $count ->
         [1] REDĂ SONORUL FILEI
