@@ -398,6 +398,7 @@ identity-https-only-info-turn-off2 = Dacă pagina nu pare funcțională, poate v
 identity-https-only-info-turn-on3 = Activează îmbunătățirile HTTPS pentru acest site dacă vrei ca { -brand-short-name } să securizeze conexiunea când este posibil.
 identity-https-only-info-turn-off3 = Dacă pagina pare să nu funcționeze corect, ar fi bine să dezactivezi îmbunătățirile HTTPS pentru acest site și să îl reîncarci cu HTTP nesecurizat.
 identity-permissions-storage-access-header = Cookie-uri inter-site-uri
+identity-permissions-storage-access-hint = Aceste părți pot folosi cookie-uri intersite-uri și date de site-uri web cât timp ești pe acest site.
 identity-permissions-storage-access-learn-more = Află mai multe
 identity-permissions-reload-hint = Ar putea fi nevoie să reîncarci pagina pentru a aplica modificările.
 identity-clear-site-data =
@@ -511,6 +512,10 @@ sharing-warning-proceed-to-tab =
 sharing-warning-disable-for-session =
     .label = Dezactivează protecția partajării pentru această sesiune
 
+## DevTools F12 popup
+
+enable-devtools-popup-description2 = Pentru a folosi comanda rapidă F12, deschide mai întâi instrumentele pentru dezvoltatori din meniul de instrumente al browserului.
+
 ## URL Bar
 
 # This string is used as an accessible name to the "X" button that cancels a custom search mode (i.e. exits the Amazon.com search mode).
@@ -599,6 +604,8 @@ urlbar-result-action-visit = Vizitează
 # Variables
 # $container (String): the name of the target container
 urlbar-result-action-switch-tab-with-container = Treci la fila · <span>{ $container }</span>
+# Allows the user to visit a URL that was previously copied to the clipboard.
+urlbar-result-action-visit-from-clipboard = Vizitează din clipboard
 # Directs a user to press the Tab key to perform a search with the specified
 # engine.
 # Variables
@@ -657,6 +664,7 @@ urlbar-searchmode-actions =
 urlbar-result-action-search-bookmarks = Caută în marcaje
 urlbar-result-action-search-history = Caută în istoric
 urlbar-result-action-search-tabs = Caută file
+urlbar-result-action-search-actions = Acțiuni de căutare
 
 ## Labels shown above groups of urlbar results
 
@@ -669,14 +677,26 @@ urlbar-group-search-suggestions =
 # A label shown above Quick Actions in the urlbar results.
 urlbar-group-quickactions =
     .label = Acțiuni rapide
+# A label shown above the recent searches group in the urlbar results.
+# Variables
+#  $engine (String): the name of the search engine used to search.
+urlbar-group-recent-searches =
+    .label = Căutări recente
 # The header shown above trending results.
 # Variables:
 #  $engine (String): the name of the search engine providing the trending suggestions
 urlbar-group-trending =
     .label = În tendințe pe { $engine }
+# The result menu labels shown next to trending results.
+urlbar-result-menu-trending-dont-show =
+    .label = Nu afișa căutări în tendințe
+    .accesskey = D
 urlbar-result-menu-trending-why =
     .label = De ce văd asta?
     .accesskey = W
+# A message that replaces a result when the user dismisses all suggestions of a
+# particular type.
+urlbar-trending-dismissal-acknowledgment = Îți mulțumim pentru feedback. Nu vei mai vedea căutări în tendințe de-acum încolo.
 
 ## Reader View toolbar buttons
 

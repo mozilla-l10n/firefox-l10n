@@ -73,7 +73,8 @@ login-list-count2 =
 login-list-filtered-count2 =
     { $total ->
         [one] { $count } din { $total } parolă
-       *[other] { $count } din { $total } (de) parole
+        [few] { $count } din { $total } parole
+       *[other] { $count } din { $total } de parole
     }
 login-list-sort-label-text = Sortează după:
 login-list-name-option = Nume (A-Z)
