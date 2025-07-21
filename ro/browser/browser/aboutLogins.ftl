@@ -128,6 +128,10 @@ login-item-edit-button = Editează
 about-logins-login-item-remove-button = Elimină
 login-item-origin-label = Adresa site-ului web
 login-item-tooltip-message = Asigură-te că aceasta se potrivește cu adresa exactă a site-ului web unde te autentifici.
+about-logins-origin-tooltip2 = Introdu adresa completă și asigură-te că este exact cea unde te autentifici.
+# Variables
+#   $webTitle (String) - Website title of the password being changed.
+about-logins-edit-password-tooltip = Asigură-te că salvezi parola actuală pentru acest site. Schimbarea parolei aici nu o va schimba și pentru { $webTitle }.
 about-logins-add-password-tooltip = Asigură-te că salvezi parola actuală pentru acest site.
 login-item-origin =
     .placeholder = https://www.example.com
@@ -139,6 +143,8 @@ login-item-copied-username-button-text = Copiat!
 login-item-password-label = Parolă
 login-item-password-reveal-checkbox =
     .aria-label = Afișează parola
+login-item-password-conceal-checkbox =
+    .aria-label = Ascunde parola
 login-item-copy-password-button-text = Copiază
 login-item-copied-password-button-text = Copiată!
 login-item-save-changes-button = Salvează modificările
@@ -150,6 +156,9 @@ login-item-cancel-button = Anulează
 ## A label is displayed under the date to describe the type of change.
 ## (e.g. updated, created, etc.)
 
+# Variables
+#   $datetime (date) - Event date
+login-item-timeline-point-date = { DATETIME($datetime, day: "numeric", month: "short", year: "numeric") }
 login-item-timeline-action-created = Creată
 login-item-timeline-action-updated = Actualizată
 login-item-timeline-action-used = Folosită
@@ -167,6 +176,13 @@ about-logins-edit-login-os-auth-dialog-message-win = Pentru a-ți edita datele d
 # This message can be seen when attempting to edit a login in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-edit-login-os-auth-dialog-message-macosx = editează datele de autentificare salvate
+# The macOS strings are preceded by the operating system with "Firefox is trying to ".
+# This message can be seen when attempting to disable osauth in about:preferences.
+about-logins-os-auth-dialog-message =
+    { PLATFORM() ->
+        [macos] schimbă setările pentru parole
+       *[other] { -brand-short-name } încearcă să schimbe setările pentru parole. Folosește autentificarea pe dispozitiv ca să permiți acțiunea.
+    }
 # This message can be seen when attempting to edit a login in about:logins on Windows.
 about-logins-edit-login-os-auth-dialog-message2-win = Pentru editarea parolei, introdu-ți datele tale de autentificare pentru Windows. Ajută la protejarea securității conturilor tale.
 # This message can be seen when attempting to edit a login in about:logins
@@ -254,12 +270,24 @@ about-logins-confirm-remove-all-sync-dialog-message =
         [few] Acest lucru va elimina toate autentificările pe care le-ai salvat în { -brand-short-name } pe toate dispozitivele sincronizate cu { -fxaccount-brand-name(case: "definite-article", capitalization: "lower-and-you") }. De asemenea, vor fi eliminate alertele privind încălcarea securității datelor care apar aici. Nu vei putea anula această acțiune.
        *[other] Acest lucru va elimina toate autentificările pe care le-ai salvat în { -brand-short-name } pe toate dispozitivele sincronizate cu { -fxaccount-brand-name(case: "definite-article", capitalization: "lower-and-you") }. De asemenea, vor fi eliminate alertele privind încălcarea securității datelor care apar aici. Nu vei putea anula această acțiune.
     }
+# Checkbox for modal to confirm the removal of saved passwords
+about-logins-confirm-remove-all-dialog-checkbox-label2 =
+    { $count ->
+        [1] Da, elimină parola
+       *[other] Yes, remove passwords
+    }
 # Title for modal to confirm the removal of all saved passwords when user is NOT synced
 about-logins-confirm-remove-all-dialog-title2 =
     { $count ->
         [one] Elimini { $count } parolă?
         [few] Elimini { $count } parole?
        *[other] Elimini { $count } de parole?
+    }
+# Message for modal to confirm the removal of saved passwords when user is NOT synced
+about-logins-confirm-remove-all-dialog-message2 =
+    { $count ->
+        [1] Vei elimina parola salvată pentru { -brand-short-name } și orice alerte de încălcare a securității datelor. Acțiunea nu poate fi anulată.
+       *[other] This will remove the passwords saved to { -brand-short-name } and any breach alerts. You cannot undo this action.
     }
 # Title for modal to confirm the removal of all saved passwords when user IS SYNCED
 about-logins-confirm-remove-all-sync-dialog-title2 =
