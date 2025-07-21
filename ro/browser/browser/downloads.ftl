@@ -183,6 +183,18 @@ downloads-history =
 downloads-details =
     .title = Detalii privind descărcarea
 
+## These strings are displayed in the private browsing view of the downloads panel
+
+downloads-private-browsing-details =
+    .title = Fișierele rămân pe dispozitivul tău
+downloads-private-browsing-message = Oricine folosește acest dispozitiv poate vedea descărcările, chiar și când închizi toate ferestrele private.
+downloads-private-browsing-delete-button =
+    .label = Șterge fișierele automat
+    .accesskey = D
+downloads-private-browsing-accept-button =
+    .label = Am înțeles
+    .accesskey = G
+
 ## Displayed when a site attempts to automatically download many files.
 ## Variables:
 ##   $num (number) - Number of blocked downloads.

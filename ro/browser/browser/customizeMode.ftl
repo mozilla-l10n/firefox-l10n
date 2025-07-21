@@ -34,3 +34,5 @@ customize-mode-undo-cmd =
 customize-mode-lwthemes-link = Gestionează temele
 customize-mode-touchbar-cmd =
     .label = Personalizează bara tactilă...
+customize-mode-downloads-button-autohide =
+    .label = Ascunde butonul când este gol

@@ -81,6 +81,11 @@ contextual-manager-export-passwords-dialog-title = Exporți parolele în fișier
 # This string recommends to the user that they delete the exported password file that is saved on their local machine.
 contextual-manager-export-passwords-dialog-message = După export, îți recomandăm să ștergi fișierul, ca să nu vadă parolele și alții care folosesc dispozitivul.
 contextual-manager-export-passwords-dialog-confirm-button = Continuă exportul
+# Title of the file picker dialog
+contextual-manager-passwords-export-file-picker-title = Exportă parolele din { -brand-short-name }
+# The default file name shown in the file picker when exporting saved logins.
+# The resultant filename will end in .csv (added in code).
+contextual-manager-passwords-export-file-picker-default-filename = parole
 contextual-manager-passwords-export-file-picker-export-button = Exportă
 # A description for the .csv file format that may be shown as the file type
 # filter by the operating system.
@@ -88,6 +93,22 @@ contextual-manager-passwords-export-file-picker-csv-filter-title =
     { PLATFORM() ->
         [macos] Document CSV
        *[other] Fișier CSV
+    }
+# Confirm the removal of all saved passwords
+#   $total (number) - Total number of passwords
+contextual-manager-passwords-remove-all-title =
+    { $total ->
+        [1] Elimini parola?
+        [one] Elimini parola?
+        [few] Elimini toate cele { $total } parole?
+       *[other] Elimini toate cele { $total } de parole?
+    }
+# Checkbox label to confirm the removal of saved passwords
+#   $total (number) - Total number of passwords
+contextual-manager-passwords-remove-all-confirm =
+    { $total ->
+        [1] Da, elimină parola
+       *[other] Da, elimină parolele
     }
 # Button label to confirm removal of saved passwords
 #   $total (number) - Total number of passwords
@@ -98,7 +119,44 @@ contextual-manager-passwords-remove-all-confirm-button =
         [few] Elimină-le pe toate
        *[other] Elimină-le pe toate
     }
+# Message to confirm the removal of all saved passwords when user DOES NOT HAVE SYNC
+#   $total (number) - Total number of passwords
+contextual-manager-passwords-remove-all-message =
+    { $total ->
+        [1] Vei elimina parola salvată în { -brand-short-name } și orice alerte de încălcare a securității datelor. Acțiunea nu poate fi anulată.
+       *[other] Vei elimina parolele salvate în { -brand-short-name } și orice alerte de încălcare a securității datelor. Acțiunea nu poate fi anulată.
+    }
+# Message for modal to confirm the removal of all saved passwords when user HAS SYNC
+#   $total (number) - Total number of passwords
+contextual-manager-passwords-remove-all-message-sync =
+    { $total ->
+        [1] Vei elimina parola salvată în { -brand-short-name } de pe toate dispozitivele sincronizate și orice alerte privind încălcarea securității datelor. Acțiunea nu poate fi anulată.
+       *[other] Vei elimina toate parolele salvate în { -brand-short-name } de pe toate dispozitivele sincronizate și orice alerte privind încălcarea securității datelor. Acțiunea nu poate fi anulată.
+    }
+contextual-manager-passwords-origin-label = Site web
+# The attribute .data-after describes the text that should be displayed for the ::after pseudo-selector
+contextual-manager-passwords-username-label = Nume de utilizator
+    .data-after = Copiat
+# The attribute .data-after describes the text that should be displayed for the ::after pseudo-selector
+contextual-manager-passwords-password-label = Parolă
+    .data-after = Copiată
+contextual-manager-passwords-radiogroup-label =
+    .aria-label = Filtrează parolele
+# Variables
+#   $url (string) - The url associated with the new login
+contextual-manager-passwords-add-password-success-heading =
+    .heading = Parolă adăugată pentru { $url }
+contextual-manager-passwords-add-password-success-button = Afișează
+# Variables
+#   $url (string) - The url associated with the existing login
+contextual-manager-passwords-password-already-exists-error-heading =
+    .heading = Există deja o parolă și un nume de utilizator pentru { $url }
+contextual-manager-passwords-password-already-exists-error-button = Mergi la parolă
+contextual-manager-passwords-update-password-success-heading =
+    .heading = Parolă salvată
 contextual-manager-passwords-update-password-success-button = Terminat
+contextual-manager-passwords-update-username-success-heading =
+    .heading = Nume de utilizator salvat
 # Message to confirm successful removal of a password/passwords.
 #   $total (number) - Total number of passwords
 contextual-manager-passwords-delete-password-success-heading =
