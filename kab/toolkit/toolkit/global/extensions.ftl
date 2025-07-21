@@ -107,6 +107,10 @@ webext-perms-host-description-multiple-domains =
 
 ## Strings for data collection permissions in the permission prompt.
 
+webext-perms-description-data-none = Aneflay yenna-d asiɣzef-a ur yeḥwaǧ ara alqaḍ n yisefka.
+# Variables:
+#    $permissions (String): a list of data collection permissions formatted with `Intl.ListFormat` using the "narrow" style.
+webext-perms-description-data-some = Aneflay yenna-d asiɣzef-a ileqqeḍ: { $permissions }
 # Variables:
 #    $permissions (String): a list of data collection permissions formatted with `Intl.ListFormat` using the "narrow" style.
 webext-perms-description-data-some-optional = Aneflay yenna-d asiɣzef yebɣa ad ilqeḍ: { $permissions }
@@ -130,9 +134,6 @@ webext-perms-optional-text-with-data-collection-only = { $extension } yesra alqa
 webext-site-perms-header-with-gated-perms-midi = Azegrir-a yettmuddu anekcum i yibenkan MIDI ɣer { $hostname }.
 webext-site-perms-header-with-gated-perms-midi-sysex = Azegrir-a yettmuddu anekcum i { $hostname } ɣer yibenkan-ik·im MIDI (s tallalt n SysEx).
 
-##
-
-
 ## Headers used in the webextension permissions dialog.
 ## Note: This string will be used as raw markup. Avoid characters like <, >, &
 ## Variables:
@@ -146,6 +147,3 @@ webext-site-perms-header-unsigned-with-perms = Rnu { $extension }? Asiɣzef-a ur
 
 webext-site-perms-midi = Kcem ibenkan MIDI
 webext-site-perms-midi-sysex = Kcem ɣer yibenkan MIDI s tallelt SysEx
-
-## Colorway theme migration
-

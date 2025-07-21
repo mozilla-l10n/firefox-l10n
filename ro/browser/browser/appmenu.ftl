@@ -27,6 +27,10 @@ appmenuitem-downloads =
     .label = Descărcări
 appmenuitem-passwords =
     .label = Parole
+appmenuitem-extensions-and-themes =
+    .label = Extensii și teme
+appmenuitem-extensions =
+    .label = Extensii
 appmenuitem-addons-and-themes =
     .label = Suplimente și teme
 appmenuitem-print =
@@ -166,6 +170,9 @@ profiler-popup-capture-shortcut =
         [macos] ⌃⇧2
        *[other] Ctrl+Shift+2
     }
+profiler-button-dropmarker =
+    .label = Deschide panoul de profilare
+    .tooltiptext = Deschide panoul de profilare
 
 ## Profiler presets
 ## They are shown in the popup's select box.
@@ -192,6 +199,7 @@ profiler-popup-presets-graphics-label =
 profiler-popup-presets-media-description2 = Presetare pentru investigarea erorilor audio și video în { -brand-shorter-name }.
 profiler-popup-presets-media-label =
     .label = Multimedia
+profiler-popup-presets-ml-description = Presetare pentru investigarea erorilor de învățare automată în { -brand-shorter-name }.
 profiler-popup-presets-networking-description = Presetare pentru investigarea erorilor de rețea în { -brand-shorter-name }.
 profiler-popup-presets-networking-label =
     .label = Rețea

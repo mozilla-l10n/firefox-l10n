@@ -34,10 +34,13 @@ xpinstall-prompt-install =
 
 # These messages are shown when a website invokes navigator.requestMIDIAccess.
 
+site-permission-install-first-prompt-midi-header = Acest site cere permisiunea de a-ți accesa dispozitivele MIDI (Musical Instrument Digital Interface). Accesul poate fi permis prin instalarea unui supliment.
+site-permission-install-first-prompt-midi-message = Nu garantăm că accesul este sigur. Continuă doar dacă ai încredere în acest site.
 
 ##
 
 xpinstall-disabled-locked = Instalarea de programe a fost dezactivată de administratorul de sistem.
+xpinstall-disabled-by-policy = Instalarea de software a fost dezactivată de organizația ta.
 xpinstall-disabled = Instalarea de programe este dezactivată în prezent. Dă clic pe Activează și încearcă din nou.
 xpinstall-disabled-button =
     .label = Activează
@@ -47,6 +50,15 @@ xpinstall-disabled-button =
 #   $addonName (String): the name of the add-on.
 #   $addonId (String): the ID of add-on.
 addon-install-blocked-by-policy = { $addonName } ({ $addonId }) este blocat de administratorul de sistem.
+# This message is shown when the installation of add-ons from a domain is blocked by enterprise policy.
+addon-domain-blocked-by-policy = Administratorul tău de sistem a împiedicat acest site să îți ceară instalarea de software pe calculator.
+# This message is shown when the installation of an add-on is blocked by enterprise policy.
+# Variables:
+#   $addonName (String): the name of the add-on.
+#   $addonId (String): the ID of add-on.
+addon-installation-blocked-by-policy = { $addonName } ({ $addonId }) este blocat de organizația ta.
+# This message is shown when the installation of add-ons from a domain is blocked by enterprise policy.
+addon-install-domain-blocked-by-policy = Organizația ta a împiedicat acest site să îți ceară instalarea de software pe calculator.
 addon-install-full-screen-blocked = Instalarea de suplimente nu este permisă cât timp ești sau înainte de a intra în modul de afișare pe tot ecranul.
 # Variables:
 #   $addonName (String): the localized name of the sideloaded add-on.
@@ -54,6 +66,10 @@ webext-perms-sideload-menu-item = { $addonName } adăugat în { -brand-short-nam
 # Variables:
 #   $addonName (String): the localized name of the extension which has been updated.
 webext-perms-update-menu-item = { $addonName } solicită permisiuni noi
+# This message is shown when one or more extensions have been imported from a
+# different browser into Firefox, and the user needs to complete the import to
+# start these extensions. This message is shown in the appmenu.
+webext-imported-addons = Finalizează instalarea de extensii importate în { -brand-short-name }
 
 ## Add-on removal warning
 
@@ -65,6 +81,8 @@ addon-removal-title = Elimini { $name }?
 addon-removal-message = Elimini { $name } din { -brand-shorter-name }?
 addon-removal-button = Elimină
 addon-removal-abuse-report-checkbox = Raportează această extensie la { -vendor-short-name }
+# "it" refers to the local AI model that is paired to the AI feature
+addon-mlmodel-removal-body = Dacă utilizezi funcționalitățile sau extensiile care utilizează acest model, va fi adăugat din nou.
 # Variables:
 #   $addonCount (Number): the number of add-ons being downloaded
 addon-downloading-and-verifying =
@@ -113,6 +131,7 @@ addon-install-error-incorrect-hash = Suplimentul nu a putut fi instalat deoarece
 addon-install-error-corrupt-file = Suplimentul descărcat de pe acest site nu a putut fi instalat deoarece pare să fie corupt.
 addon-install-error-file-access = { $addonName } nu a putut fi instalat deoarece { -brand-short-name } nu poate modifica fișierul necesar.
 addon-install-error-not-signed = { -brand-short-name } a împiedicat acest site să instaleze un supliment neverificat.
+addon-install-error-invalid-domain = Suplimentul { $addonName } nu poate fi instalat din această locație.
 addon-local-install-error-network-failure = Acest supliment nu a putut fi instalat din cauza unei erori la sistemul de fișiere.
 addon-local-install-error-incorrect-hash = Acest supliment nu a putut fi instalat deoarece nu se potrivește cu suplimentul { -brand-short-name } așteptat.
 addon-local-install-error-corrupt-file = Acest supliment nu a putut fi instalat deoarece pare să fie corupt.
@@ -121,6 +140,8 @@ addon-local-install-error-not-signed = Acest supliment nu a putut fi instalat de
 # Variables:
 #   $appVersion (String): the application version.
 addon-install-error-incompatible = { $addonName } nu a putut fi instalat deoarece nu este compatibil cu { -brand-short-name } { $appVersion }.
+addon-install-error-hard-blocked = { $addonName } încalcă politicile Mozilla și nu poate fi instalat pe { -brand-short-name }.
 addon-install-error-blocklisted = { $addonName } nu a putut fi instalat deoarece prezintă un risc ridicat de a produce probleme de stabilitate sau securitate.
+addon-install-error-soft-blocked = { $addonName } încalcă politicile Mozilla și nu poate fi instalat pe { -brand-short-name }.
 # Enterprise policies is a feature aimed at system administrators who want to deploy custom settings for Firefox.
 addon-install-error-admin-install-only = Nu poți instala { $addonName } ca utilizator final. Poate fi instalat doar de o organizație care folosește politici de întreprindere.

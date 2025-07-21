@@ -201,21 +201,65 @@ search-one-offs-actions =
 quickactions-addons = Vezi suplimentele
 # Opens about:addons page in the extensions section
 quickactions-extensions = Gestionează extensiile
+quickactions-cmd-extensions2 = extensii, suplimente
 quickactions-cmd-extensions = extensii
+# Opens Firefox View
+quickactions-firefoxview = Deschide { -firefoxview-brand-name }
+# English is using "view" and "open view", since the feature name is
+# "Firefox View". If you have translated the name in your language, you
+# should use a word related to the existing translation.
+quickactions-cmd-firefoxview = deschide { -firefoxview-brand-name }, { -firefoxview-brand-name }, deschide vizualizare, vizualizare
+# Opens SUMO home page
+quickactions-help = ajutor { -brand-product-name }
+quickactions-cmd-help = ajutor, asistență
+quickactions-cmd-inspector2 = inspector, instrumente de dezvoltare
+quickactions-cmd-plugins = pluginuri
+# Opens the print dialog
+quickactions-print2 = Imprimă pagina
+quickactions-cmd-print = tipărire
+# Opens the print dialog at the save to PDF option
+quickactions-savepdf = Salvează pagina ca PDF
+quickactions-cmd-savepdf2 = pdf, salvează pagina
+quickactions-cmd-savepdf = pdf
+# Opens a new private browsing window
+quickactions-private2 = Deschide o fereastră privată
+quickactions-cmd-private = navigare privată
+# Opens a SUMO article explaining how to refresh
+quickactions-refresh = Reîmprospătează { -brand-short-name }
 quickactions-cmd-refresh = reîmprospătează
 # Restarts the browser
 quickactions-restart = Repornește { -brand-short-name }
 quickactions-cmd-restart = repornește
 # Opens the screenshot tool
 quickactions-screenshot3 = Realizează o captură de ecran
+quickactions-cmd-screenshot2 = captură de ecran, fă o captură de ecran
+quickactions-cmd-screenshot = captură de ecran
+# Opens about:preferences
+quickactions-settings2 = Gestionează setările
+# "manage" should match the corresponding command, which is “Manage settings” in English.
+quickactions-cmd-settings2 = setări, preferințe, opțiuni, gestionează
+quickactions-cmd-settings = setări, preferințe, opțiuni
 # Opens about:addons page in the themes section
 quickactions-themes = Gestionează temele
+# In English we provide multiple spellings for "add-ons". If that's not
+# applicable to your language, only use the correct spelling (don't repeat the
+# same word).
+quickactions-cmd-themes2 = teme, suplimente
 quickactions-cmd-themes = teme
+# Opens a SUMO article explaining how to update the browser
+quickactions-update = Actualizează { -brand-short-name }
+quickactions-cmd-update = actualizează
 # Opens the view-source UI with current pages source
 quickactions-viewsource2 = Vezi sursa paginii
+quickactions-cmd-viewsource2 = vizualizare sursă, sursă, sursă pagină
+quickactions-cmd-viewsource = vezi sursa, sursă
 # Tooltip text for the help button shown in the result.
 quickactions-learn-more =
     .title = Află mai multe despre acțiunile rapide
+# Will be shown to users the first configurable number of times
+# they experience actions giving them instructions on how to
+# select the action shown by pressing the tab key.
+press-tab-label = Apasă tab pentru a selecta:
 
 ## Bookmark Panel
 
@@ -259,6 +303,7 @@ identity-connection-secure = Conexiune securizată
 identity-connection-failure = Eșec la conexiune
 identity-connection-internal = Aceasta este o pagină securizată { -brand-short-name }.
 identity-connection-file = Pagina este stocată pe calculator.
+identity-connection-associated = Pagina este încărcată de pe o altă pagină.
 identity-extension-page = Această pagină a fost încărcată de la o extensie.
 identity-active-blocked = { -brand-short-name } a blocat părți de pe această pagină care nu sunt sigure.
 identity-custom-root = Conexiune verificată de un emițător de certificate nerecunoscut de Mozilla.
@@ -266,7 +311,15 @@ identity-passive-loaded = Unele părți din pagină nu sunt sigure (cum ar fi im
 identity-active-loaded = Ai dezactivat protecția pe această pagină.
 identity-weak-encryption = Această pagină folosește criptare slabă.
 identity-insecure-login-forms = Datele de autentificare introduse pe această pagină ar putea fi compromise.
+identity-https-only-connection-upgraded = (actualizat la HTTPS)
 identity-https-only-label = Mod numai HTTPS
+identity-https-only-label2 = Trece automat acest site la o conexiune securizată
+identity-https-only-dropdown-on =
+    .label = Activat
+identity-https-only-dropdown-off =
+    .label = Dezactivat
+identity-https-only-dropdown-off-temporarily =
+    .label = Dezactivat temporar
 identity-https-only-info-turn-on2 = Activează modul numai HTTPS pentru acest site dacă vrei ca { -brand-short-name } să actualizeze conexiunea atunci când este posibil.
 identity-permissions-storage-access-header = Cookie-uri inter-site-uri
 identity-permissions-storage-access-learn-more = Află mai multe

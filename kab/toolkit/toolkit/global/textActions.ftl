@@ -84,5 +84,9 @@ text-action-copy-clean-link-to-highlight =
     .label = Nɣel aseɣwen yettwasfaḍen i usebrureq
 # If the page has been loaded with a text fragment and text is
 # visibly highlighted, this removes any highlighted sections on the page.
+text-action-remove-highlight =
+    .label = Kkes asebṛuṛaq
+# If the page has been loaded with a text fragment and text is
+# visibly highlighted, this removes any highlighted sections on the page.
 text-action-remove-all-highlights =
     .label = Kkes akk asebrureq
