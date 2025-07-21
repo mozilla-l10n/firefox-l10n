@@ -137,10 +137,75 @@ device-migration-fxa-spotlight-sync-header = Navighează fără să pierzi ritmu
 device-migration-fxa-spotlight-sync-body = Sincronizează-ți toate informațiile importante cu criptare — cum ar fi marcaje și parole. Poți să preiei tot oriunde folosești { -brand-product-name }.
 device-migration-fxa-spotlight-sync-primary-button = Începe
 
+## Set as Default PDF Reader Infobar
+
+# The question portion of the following message should have the <strong> and </strong> tags surrounding it.
+pdf-default-notification-message = <strong>Vrei să setezi { -brand-short-name } drept lector PDF implicit?</strong> Folosește { -brand-short-name } ca să citești și să editezi fișiere PDF salvate pe calculator.
+pdf-default-notification-set-default-button =
+    .label = Setează ca implicit
+pdf-default-notification-decline-button =
+    .label = Nu acum
+
+## Launch on login infobar notification
+
+launch-on-login-infobar-message = <strong>Setezi { -brand-short-name } să se deschidă de fiecare dată când repornești calculatorul?</strong> Acum poți seta { -brand-short-name } să se deschidă automat când repornești dispozitivul.
+launch-on-login-learnmore = Află mai multe
+launch-on-login-infobar-confirm-button = Da, deschide { -brand-short-name }
+    .accesskey = Y
+launch-on-login-infobar-reject-button = Nu acum
+    .accesskey = N
+
+## These string variants are used when the “launch on login” infobar
+## notification is displayed for a second time.
+
+launch-on-login-infobar-final-message = <strong>Setezi { -brand-short-name } să se deschidă de fiecare dată când repornești calculatorul?</strong> Pentru gestionarea preferințelor de pornire, caută „pornire” în setări.
+launch-on-login-infobar-final-reject-button = Nu, mulțumesc
+    .accesskey = N
+
+## Tail Fox Set Default Spotlight
+
+# This title is displayed together with the picture of a running fox with a long tail.
+# In English, this is a figure of speech meaning 'stop something from following you'.
+# If the localization of this message is challenging, consider using a simplified
+# alternative as a reference for translation: 'Keep unwanted trackers away'.
+tail-fox-spotlight-title = Ține la distanță elementele de urmărire indezirabile
+tail-fox-spotlight-subtitle = Spune adio elementelor de urmărire enervante ale reclamelor și bucură-te de o experiență mai sigură și mai rapidă pe internet.
+tail-fox-spotlight-primary-button = Deschide linkurile cu { -brand-short-name }
+tail-fox-spotlight-secondary-button = Nu acum
+
+## Root Certificate Succession Infobar
+
+root-certificate-succession-infobar-january-message = <strong>Versiunile mai vechi de { -brand-short-name } ar putea începe să aibă probleme pe 14 ianuarie 2025.</strong>
+root-certificate-succession-infobar-march-message = <strong>Actualizează ca să folosești în continuare { -brand-short-name } după 14 martie 2025.</strong>
+root-certificate-succession-infobar-link = De ce trebuie să actualizez?
+root-certificate-succession-infobar-primary-button =
+    .label = Actualizează acum
+    .accesskey = U
+root-certificate-succession-infobar-secondary-button =
+    .label = Mai târziu
+    .accesskey = L
+
+## Root Certificate Succession Windows Background Notification
+
+root-certificate-windows-background-notification-title = Ai ratat o actualizare importantă { -brand-short-name }
+root-certificate-windows-background-notification-subtitle = Anumite părți ale browserului vor înceta să funcționeze în curând dacă nu le actualizezi. Acum este un moment excelent să beneficiezi de cele mai recente protecții și funcționalități.
+root-certificate-windows-background-notification-learn-more-button = Află mai multe
+root-certificate-windows-background-notification-update-button = Actualizează { -brand-short-name }
+
 ## FxA Menu Message variants
 
+fxa-menu-message-close-button =
+    .title = Închide
+    .aria-label = Închide
+fxa-menu-message-sign-up-button = Fă-ți un cont
 fxa-menu-message-sync-devices-primary-text = Sincronizează-ți toate dispozitivele
+fxa-menu-message-sync-devices-secondary-text = Îți iei instant informațiile — precum marcaje și parole — oriunde folosești { -brand-short-name }.
 fxa-menu-message-sync-devices-collapsed-text = Sincronizează-ți toate dispozitivele
+fxa-menu-message-backup-data-primary-text = Fă o copie de rezervă cu datele din browser
+fxa-menu-message-backup-data-secondary-text = Îți protejezi automat marcajele, parolele și alte informații pe toate dispozitivele.
+fxa-menu-message-backup-data-collapsed-text = Fă o copie de rezervă cu datele din browser
+fxa-menu-message-backup-sync-primary-text = Păstrează-ți datele în siguranță și sincronizate
 fxa-menu-message-backup-sync-secondary-text = Sincronizarea îți salvează majoritatea datelor ca să le poți accesa oriunde folosești { -brand-short-name }.
 fxa-menu-message-backup-sync-collapsed-text = Sincronizează și fă o copie de rezervă a datelor
+fxa-menu-message-mobile-primary-text = Trimite file pe telefon
 fxa-menu-message-mobile-collapsed-text = Sincronizează cu telefonul

@@ -70,6 +70,16 @@ genai-input-ask-generic =
 # $provider (string) - name of the provider
 genai-input-ask-provider =
     .placeholder = Întreabă { $provider }…
+# $selectionLength (number) - selected text length
+# $maxLength (number) - max length of what can be selected
+genai-shortcuts-selected-warning-generic =
+    .heading = Chatbotul IA nu va primi toată selecția
+    .message =
+        { $selectionLength ->
+            [one] Ai selectat { $selectionLength } caracter. Numărul de caractere pe care îl putem trimite la chatbotul IA este de circa { $maxLength }.
+            [few] Ai selectat { $selectionLength } caractere. Numărul de caractere pe care îl putem trimite la chatbotul IA este de circa { $maxLength }.
+           *[other] Ai selectat { $selectionLength } de caractere. Numărul de caractere pe care îl putem trimite la chatbotul IA este de circa { $maxLength }.
+        }
 
 ## Chatbot header
 
