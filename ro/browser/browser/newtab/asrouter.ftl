@@ -63,7 +63,7 @@ cfr-doorhanger-extension-total-users =
 
 ## Firefox Accounts Message
 
-cfr-doorhanger-bookmark-fxa-header = Sincronizează-ți marcajele oriunde ai fi
+cfr-doorhanger-bookmark-fxa-header = Sincronizează-ți marcajele oriunde ai fi.
 cfr-doorhanger-bookmark-fxa-body = Descoperire grozavă! Acum, ca să nu rămâi fără acest marcaj pe dispozitivele tale mobile, începe să folosești un { -fxaccount-brand-name }.
 cfr-doorhanger-bookmark-fxa-link-text = Sincronizează marcajele acum...
 cfr-doorhanger-bookmark-fxa-close-btn-tooltip =
@@ -113,3 +113,15 @@ spotlight-pin-primary-button =
 ## These strings are used in the Set Firefox as Default PDF Handler for Existing Users experiment
 
 set-default-pdf-handler-headline = <strong>PDF-urile se deschid acum în { -brand-short-name }.</strong> Editează sau semnează formulare direct în browser. Pentru modificare, caută „PDF” în setări.
+
+## Device Migration FxA Spotlight
+
+device-migration-fxa-spotlight-sync-body = Sincronizează-ți toate informațiile importante cu criptare — cum ar fi marcaje și parole. Poți să preiei tot oriunde folosești { -brand-product-name }.
+
+## FxA Menu Message variants
+
+fxa-menu-message-sync-devices-primary-text = Sincronizează-ți toate dispozitivele
+fxa-menu-message-sync-devices-collapsed-text = Sincronizează-ți toate dispozitivele
+fxa-menu-message-backup-sync-secondary-text = Sincronizarea îți salvează majoritatea datelor ca să le poți accesa oriunde folosești { -brand-short-name }.
+fxa-menu-message-backup-sync-collapsed-text = Sincronizează și fă o copie de rezervă a datelor
+fxa-menu-message-mobile-collapsed-text = Sincronizează cu telefonul

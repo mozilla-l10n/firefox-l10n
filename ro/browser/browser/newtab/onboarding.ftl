@@ -195,3 +195,8 @@ multi-profile-spotlight-title = Fă cunoștință cu profilurile { -brand-produc
 multi-profile-spotlight-cta = Creează un profil
 multi-profile-callout-title = Creează profiluri diferite pentru muncă și distracție
 multi-profile-callout-cta = Creează un profil
+
+## Desktop to Mobile Adoption feature callout strings
+
+# The phrase, 'on the go', is used to describe when people are very busy and are traveling from place to place.
+desktop-to-mobile-subtitle = Scanează contul QR ca să descarci { -brand-product-name } pentru mobil. După instalare, selectează „Sincronizare pe mobil” ca să ai acces la parole, marcaje și multe altele din mers.

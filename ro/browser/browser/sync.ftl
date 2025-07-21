@@ -37,12 +37,32 @@ fxa-avatar-sign-in = Intră în cont
 fxa-avatar-tooltip =
     .tooltiptext = Intră în cont
 sync-setup-verify-heading = Sigur vrei să intri în cont pentru sincronizare?
+# The user was previously signed into sync. This dialog confirms to the user
+# that they will be merging the data from the previously signed in into the newly signed in one
+# Variables:
+#   $email - Email address of a user previously signed into sync.
+sync-setup-verify-description = Un alt utilizator s-a autentificat în cont pentru sincronizare pe acest calculator. Dacă intri în cont, vei îmbina marcajele, parolele și alte setări din acest browser cu { $email }
 
 ## Sync warning strings that support the browser profiles feature, these will be shown when the user might be merging data
 
 # Variables:
 #   $acctEmail (String) - Email of the account signing into sync.
-sync-profile-different-account-description = Pentru a-ți menține datele organizate și securizate, fiecare profil { -brand-product-name } poate fi sincronizat doar cu un singur cont. Pentru a te autentifica folosind { $acctEmail }, creează un profil nou.
+sync-profile-different-account-description = Pentru a-ți păstra datele organizate și securizate, fiecare profil { -brand-product-name } poate fi sincronizat doar cu un singur cont. Ca să intri în cont cu { $acctEmail }, creează un profil nou.
+# Variables:
+#   $acctEmail (String) - Email of the account signing into sync.
+#   $profileName (String) - Name of the current profile
+sync-profile-different-account-description-merge = Pentru a-ți păstra datele organizate și securizate, îți recomandăm să creezi un profil nou pentru autentificare în cont folosind { $acctEmail }. Dacă optezi să continui cu sincronizarea pe acest profil, datele din ambele conturi vor fi fuzionate permanent pe „{ $profileName }”.
 # Dialog 2 - account signed in on another profile without option to merge
 sync-account-in-use-header = Contul este deja în uz
+# Variables:
+#   $acctEmail (String) - Email of the account signing into sync.
+#   $otherProfile (String) - Name of the other profile that is associated with the account
+sync-account-in-use-header-merge = { $acctEmail } este deja autentificat în profilul „{ $otherProfile }”
+# Dialog 2 - account signed in on another profile with merge option
+sync-account-already-signed-in-header = Contul este deja autentificat în alt profil. Sincronizezi ambele profiluri?
+# Variables:
+#   $acctEmail (String) - Email of the account signing into sync.
+#   $currentProfile (String): Name of the current profile signing in
+#   $otherProfile (String): Name of the profile that is already signed in
+sync-account-in-use-description-merge = { $acctEmail } este autentificat în profilul „{ $otherProfile }” de pe acest calculator. Sincronizarea profilului „{ $currentProfile }” va combina permanent datele din ambele profiluri, cum ar fi parole și marcaje.
 sync-button-create-profile = Creează un profil nou
