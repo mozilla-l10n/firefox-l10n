@@ -5,9 +5,13 @@
 
 ## Generative AI (GenAI) Settings section
 
+genai-settings-chat-chatgpt-links = Dacă alegi ChatGPT, ești de acord cu <a data-l10n-name="link1">Condițiile de utilizare</a> OpenAI și <a data-l10n-name="link2">Politica de confidențialitate</a>.
 genai-settings-chat-claude-links = Alegând Anthropic Claude, ești de acord cu <a data-l10n-name="link1">Condițiile Anthropic de utilizare a serviciilor pentru consumatori</a>, <a data-l10n-name="link2">Politica de utilizare</a> și<a data-l10n-name="link3">Politica de confidențialitate</a>.
+genai-settings-chat-copilot-links = Dacă alegi Copilot, ești de acord cu <a data-l10n-name="link1">Condițiile pentru experiențele Copilot IA</a> și <a data-l10n-name="link2">Declarația de confidențialitate Microsoft</a>.
 genai-settings-chat-gemini-links = Alegând Google Gemini, ești de acord cu <a data-l10n-name="link1">Condițiile Google de utilizare a serviciilor</a>, <a data-l10n-name="link2">Politica de utilizare interzisă de IA generativ</a> și<a data-l10n-name="link3">Notificarea Gemini Apps privind confidențialitatea</a>.
+genai-settings-chat-huggingchat-links = Dacă alegi HuggingChat, ești de acord cu <a data-l10n-name="link1">Notificarea HuggingChat privind confidențialitatea</a> și <a data-l10n-name="link2">Politica de confidențialitate HuggingChat</a>.
 genai-settings-chat-lechat-links = Alegând Le Chat Mistral, ești de acord cu <a data-l10n-name="link1">Condițiile Mistral AI de utilizare a serviciilor</a> și <a data-l10n-name="link2">Politica de confidențialitate</a>.
+genai-settings-chat-localhost-links = Folosește un chatbot local privat, cum ar fi <a data-l10n-name="link1">llamafile</a> de la grupul de inovație { -vendor-short-name }.
 
 ## Chatbot header
 

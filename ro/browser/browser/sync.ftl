@@ -33,6 +33,7 @@ fxa-menu-send-tab-to-device-syncnotready =
 fxa-menu-send-tab-to-device-description = Trimite o filă instantaneu pe orice dispozitiv pe care ești autentificat în cont.
 fxa-menu-sign-out =
     .label = Deconectează-te…
+fxa-menu-sync-title = Sincronizare
 fxa-avatar-sign-in = Intră în cont
 fxa-avatar-tooltip =
     .tooltiptext = Intră în cont
@@ -66,3 +67,7 @@ sync-account-already-signed-in-header = Contul este deja autentificat în alt pr
 #   $otherProfile (String): Name of the profile that is already signed in
 sync-account-in-use-description-merge = { $acctEmail } este autentificat în profilul „{ $otherProfile }” de pe acest calculator. Sincronizarea profilului „{ $currentProfile }” va combina permanent datele din ambele profiluri, cum ar fi parole și marcaje.
 sync-button-create-profile = Creează un profil nou
+sync-button-sync-and-merge = Sincronizează și îmbină datele
+# Variables:
+#   $profileName (String) - Name of the profile to switch to
+sync-button-sync-profile = Sincronizează „{ $profileName }”

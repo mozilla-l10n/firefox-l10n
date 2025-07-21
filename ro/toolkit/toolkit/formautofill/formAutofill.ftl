@@ -11,6 +11,9 @@ autofill-options-link-osx = Preferințe de completare automată a formularelor
 
 ## The credit card capture doorhanger
 
+# If Sync is enabled and credit card sync is available,
+# this checkbox is displayed on the doorhanger shown when saving credit card.
+credit-card-doorhanger-credit-cards-sync-checkbox = Sincronizează toate cardurile salvate pe toate dispozitivele
 
 # Used on the doorhanger when an credit card change is detected.
 

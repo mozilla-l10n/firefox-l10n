@@ -182,6 +182,8 @@ onboarding-device-migration-primary-button-label = Autentificare
 
 # Easy setup screen
 onboarding-easy-setup-security-and-privacy-title = Ne place să te protejăm
+# Sign up or Sign in screen
+onboarding-sign-up-title = Sincronizează-ți datele pe dispozitive
 onboarding-sign-up-description = Fă-ți un cont și toate informațiile tale importante — parole, marcaje și multe altele — vor fi stocate în siguranță și vor fi disponibile când te autentifici de pe orice dispozitiv.
 onboarding-sign-up-button = Fă-ți un cont sau intră în cont
 
@@ -200,3 +202,4 @@ multi-profile-callout-cta = Creează un profil
 
 # The phrase, 'on the go', is used to describe when people are very busy and are traveling from place to place.
 desktop-to-mobile-subtitle = Scanează contul QR ca să descarci { -brand-product-name } pentru mobil. După instalare, selectează „Sincronizare pe mobil” ca să ai acces la parole, marcaje și multe altele din mers.
+sync-to-mobile-button-label = Sincronizează pe mobil

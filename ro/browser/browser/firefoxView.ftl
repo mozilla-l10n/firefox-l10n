@@ -42,6 +42,7 @@ firefoxview-tabpickup-adddevice-header = Sincronizează { -brand-product-name } 
 firefoxview-tabpickup-adddevice-description = Descarcă { -brand-product-name } pe mobil și intră în cont.
 firefoxview-tabpickup-adddevice-learn-how = Află cum
 firefoxview-tabpickup-adddevice-primarybutton = Obține { -brand-product-name } pentru mobil
+firefoxview-syncedtabs-adddevice-header-2 = Preia file de oriunde
 firefoxview-syncedtabs-adddevice-description-2 = Intră în contul tău { -brand-product-name } pe telefon sau alt calculator ca să vezi filele aici. Află cum să <a data-l10n-name="url">conectezi alte dispozitive</a>.
 firefoxview-syncedtabs-adddevice-header = Intră în contul tău { -brand-product-name } pe celelalte dispozitive
 firefoxview-syncedtabs-adddevice-description = Ca să îți vezi filele de oriunde folosești { -brand-product-name }, intră în cont pe toate dispozitivele. Află cum poți <a data-l10n-name="url">conecta alte dispozitive</a>.
@@ -119,6 +120,14 @@ firefoxview-overview-header = Navigare recentă
 firefoxview-history-nav = Istoric
     .title = Istoric
 firefoxview-history-header = Istoric
+firefoxview-history-context-delete = Șterge din istoric
+    .accesskey = D
+
+## Open Tabs in this context refers to all open tabs in the browser
+
+firefoxview-opentabs-nav = File deschise
+    .title = File deschise
+firefoxview-opentabs-header = File deschise
 
 ## Recently closed tabs in this context refers to recently closed tabs from all windows
 
@@ -136,6 +145,24 @@ firefoxview-synced-tabs-header = File de pe alte dispozitive
 
 # Used for a link in collapsible cards, in the ’Recent browsing’ page of Firefox View
 firefoxview-view-all-link = Vezi toate
+# Variables:
+#   $winID (Number) - The index of the owner window for this set of tabs
+firefoxview-opentabs-window-header =
+    .title = Fereastra { $winID }
+# Variables:
+#   $winID (Number) - The index of the owner window (which is currently focused) for this set of tabs
+firefoxview-opentabs-current-window-header =
+    .title = Fereastra { $winID } (actuală)
+firefoxview-opentabs-focus-tab =
+    .title = Treci la această filă
+firefoxview-show-more = Afișează mai mult
+firefoxview-show-less = Afișează mai puțin
+firefoxview-show-all = Afișează tot
+firefoxview-search-text-box-clear-button =
+    .title = Golește
+# Placeholder for the input field to search in recent browsing ("search" is a verb).
+firefoxview-search-text-box-recentbrowsing =
+    .placeholder = Caută
 # Placeholder for the input field to search in history ("search" is a verb).
 firefoxview-search-text-box-history =
     .placeholder = Caută în istoric
@@ -151,6 +178,10 @@ firefoxview-search-text-box-syncedtabs =
 # Placeholder for the input field to search in open tabs ("search" is a verb).
 firefoxview-search-text-box-opentabs =
     .placeholder = Caută în filele deschise
+# "Search" is a noun (as in "Results of the search for")
+# Variables:
+#   $query (String) - The search query used for searching through browser history.
+firefoxview-search-results-header = Caută rezultate pentru „{ $query }”
 # Variables:
 #   $count (Number) - The number of visits matching the search query.
 firefoxview-search-results-count =
@@ -159,10 +190,41 @@ firefoxview-search-results-count =
         [few] { $count } site-uri
        *[other] { $count } de site-uri
     }
+# Message displayed when a search is performed and no matching results were found.
+# Variables:
+#   $query (String) - The search query.
+firefoxview-search-results-empty = Niciun rezultat pentru „{ $query }”
 firefoxview-sort-history-by-date-label = Sortează după dată
 firefoxview-sort-history-by-site-label = Sortează după site
 firefoxview-sort-open-tabs-by-recency-label = Sortează după activitatea recentă
 firefoxview-sort-open-tabs-by-order-label = Sortează după ordinea filelor
+# Variables:
+#   $url (string) - URL that will be opened in the new tab
+firefoxview-opentabs-tab-row =
+    .title = Treci pe { $url }
+
+## Variables:
+##   $date (string) - Date to be formatted based on locale
+
+firefoxview-history-date-today = Azi - { DATETIME($date, dateStyle: "full") }
+firefoxview-history-date-yesterday = Ieri - { DATETIME($date, dateStyle: "full") }
+firefoxview-history-date-this-month = { DATETIME($date, dateStyle: "full") }
+firefoxview-history-date-prev-month = { DATETIME($date, month: "long", year: "numeric") }
+# When history is sorted by site, this heading is used in place of a domain, in
+# order to group sites that do not come from an outside host.
+# For example, this would be the heading for all file:/// URLs in history.
+firefoxview-history-site-localhost = (fișiere locale)
+
+##
+
+firefoxview-show-all-history = Vezi tot istoricul
+firefoxview-view-more-browsing-history = Vezi mai mult istoric de căutare
+
+## Message displayed in Firefox View when the user has no history data
+
+firefoxview-history-empty-header = Întoarce-te unde ai fost
+firefoxview-history-empty-description = Pe măsură ce navighezi, paginile vizitate vor fi listate aici.
+firefoxview-history-empty-description-two = Protejarea vieții tale private este deviza noastră. De aceea, poți controla activitatea reținută de { -brand-short-name } în <a data-l10n-name="history-settings-url">setările pentru istoric</a>.
 
 ##
 
@@ -172,8 +234,11 @@ firefoxview-choose-browser-button = Alege browserul
 
 ## Message displayed in Firefox View when the user has chosen to never remember History
 
+firefoxview-dont-remember-history-empty-header = Nimic de afișat
 firefoxview-dont-remember-history-empty-description = Protejarea intimității tale este deviza noastră. De aceea, poți controla ce activitate stochează { -brand-short-name }.
 firefoxview-dont-remember-history-empty-description-two = În baza setărilor tale, { -brand-short-name } nu reține nicio activitate în timp ce navighezi. Pentru a schimba setarea, <a data-l10n-name="history-settings-url-two">modifică setările pentru istoric ca să îți stocheze istoricul</a>.
+firefoxview-dont-remember-history-empty-header-2 = Tu controlezi ce stochează { -brand-short-name }
+firefoxview-dont-remember-history-empty-description-one = Acum, { -brand-short-name } nu îți reține activitatea de navigare. Ca să modifici, <a data-l10n-name="history-settings-url-two">actualizează-ți setările pentru istoric</a>.
 
 ##
 
