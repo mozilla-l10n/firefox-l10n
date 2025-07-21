@@ -7,6 +7,7 @@
 
 confirmation-hint-breakage-report-sent = Raport trimis. Îți mulțumim!
 confirmation-hint-login-removed = Date de autentificare eliminate!
+confirmation-hint-password-removed = Parolă eliminată!
 confirmation-hint-page-bookmarked = Salvată în marcaje
 confirmation-hint-password-saved = Parolă salvată!
 confirmation-hint-address-updated = Adresă actualizată
