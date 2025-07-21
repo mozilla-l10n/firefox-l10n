@@ -64,6 +64,17 @@ menu-file-open-location =
 menu-file-open-file =
     .label = Deschide un fișier…
     .accesskey = O
+# Variables:
+#  $tabCount (Number): the number of tabs that are affected by the action.
+menu-file-close-tab =
+    .label =
+        { $tabCount ->
+            [1] Închide fila
+            [one] Închide fila
+            [few] Închide { $tabCount } file
+           *[other] Închide { $tabCount } de file
+        }
+    .accesskey = C
 menu-file-close-window =
     .label = Închide fereastra
     .accesskey = d

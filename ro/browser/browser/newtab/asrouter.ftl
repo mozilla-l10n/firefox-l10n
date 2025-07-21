@@ -65,6 +65,7 @@ cfr-doorhanger-extension-total-users =
 
 cfr-doorhanger-bookmark-fxa-header = Sincronizează-ți marcajele oriunde ai fi.
 cfr-doorhanger-bookmark-fxa-body = Descoperire grozavă! Acum, ca să nu rămâi fără acest marcaj pe dispozitivele tale mobile, începe să folosești un { -fxaccount-brand-name }.
+cfr-doorhanger-bookmark-fxa-body-2 = Ai găsit unul bun! Să nu rămâi fără acest marcaj pe dispozitivele mobile. Începe să îți faci un cont.
 cfr-doorhanger-bookmark-fxa-link-text = Sincronizează marcajele acum...
 cfr-doorhanger-bookmark-fxa-close-btn-tooltip =
     .aria-label = Buton de închidere
@@ -88,6 +89,15 @@ cfr-whatsnew-release-notes-link-text = Citește notele privind versiunea
 
 ## Enhanced Tracking Protection Milestones
 
+# Variables:
+#   $blockedCount (Number) - The total count of blocked trackers. This number will always be greater than 1.
+#   $date (Datetime) - The date we began recording the count of blocked trackers
+cfr-doorhanger-milestone-heading2 =
+    { $blockedCount ->
+        [one] { -brand-short-name } a blocat peste <b>{ $blockedCount }</b> element de urmărire de pe { DATETIME($date, month: "long", year: "numeric") }!
+        [few] { -brand-short-name } a blocat peste <b>{ $blockedCount }</b> elemente de urmărire de pe { DATETIME($date, month: "long", year: "numeric") }!
+       *[other] { -brand-short-name } a blocat peste <b>{ $blockedCount }</b> de elemente de urmărire de pe { DATETIME($date, month: "long", year: "numeric") }!
+    }
 cfr-doorhanger-milestone-ok-button = Afișează tot
     .accesskey = S
 cfr-doorhanger-milestone-close-button = Închide

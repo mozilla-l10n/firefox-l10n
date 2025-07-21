@@ -80,9 +80,35 @@ genai-shortcuts-selected-warning-generic =
             [few] Ai selectat { $selectionLength } caractere. Numărul de caractere pe care îl putem trimite la chatbotul IA este de circa { $maxLength }.
            *[other] Ai selectat { $selectionLength } de caractere. Numărul de caractere pe care îl putem trimite la chatbotul IA este de circa { $maxLength }.
         }
+# $provider (string) - name of the provider
+# $selectionLength (number) - selected text length
+# $maxLength (number) - max length of what can be selected
+genai-shortcuts-selected-warning =
+    .heading = { $provider } nu va primi toată selecția
+    .message =
+        { $selectionLength ->
+            [one] Ai selectat { $selectionLength } caracter. Numărul de caractere pe care îl putem trimite la { $provider } este de circa { $maxLength }.
+            [few] Ai selectat { $selectionLength } caractere. Numărul de caractere pe care îl putem trimite la { $provider } este de circa { $maxLength }.
+           *[other] Ai selectat { $selectionLength } de caractere. Numărul de caractere pe care îl putem trimite la { $provider } este de circa { $maxLength }.
+        }
+genai-shortcuts-hide =
+    .label = Ascunde scurtătura către chatbot
+genai-menu-no-provider =
+    .label = Întreabă un chatbot IA
+genai-menu-choose-chatbot =
+    .label = Alege un chatbot IA
 
 ## Chatbot header
 
+genai-chatbot-title = Chatbot IA
+genai-header-provider-menu =
+    .title = Alege un chatbot
+genai-header-options-button =
+    .title = Deschide meniul
+genai-header-close-button =
+    .title = Închide
+genai-provider-view-details =
+    .label = Vezi detalii despre chatbot
 genai-options-reload-generic =
     .label = Reîncarcă chatbot IA
 # $provider (string) - name of the provider
@@ -95,11 +121,18 @@ genai-options-hide-shortcut =
 genai-options-about-chatbot =
     .label = Despre chatboți IA în { -brand-short-name }
 
+## Chatbot footer
+
+genai-page-button-summarize = Fă rezumatul paginii
+
 ## Chatbot onboarding
 
 genai-onboarding-header = Rezumă, găsește idei și mai multe în timp ce navighezi
+genai-onboarding-choose-header = Alege un chatbot IA de utilizat în bara laterală { -brand-short-name }
 # "Switch anytime" refers to allowing the user to switch to a different chatbot.
 genai-onboarding-description = Alege un chatbot IA de folosit în bara laterală { -brand-short-name }. Vom afișa detalii despre fiecare chatbot când îl alegi. Îl poți schimba oricând. <a data-l10n-name="learn-more">Află mai multe</a>
+# "Switch anytime" refers to allowing the user to switch to a different chatbot.
+genai-onboarding-choose-description = Comută oricând. Pentru ajutor în alegere, <a data-l10n-name="learn-more">află mai multe despre fiecare chatbot</a>.
 genai-onboarding-primary = Continuă
 genai-onboarding-secondary = Închide
 genai-onboarding-claude-tooltip =
@@ -108,6 +141,9 @@ genai-onboarding-claude-learn = Află mai multe despre Claude
 genai-onboarding-chatgpt-tooltip =
     .title = ChatGPT
 genai-onboarding-chatgpt-learn = Află mai multe despre ChatGPT
+genai-onboarding-copilot-tooltip =
+    .title = Copilot
+genai-onboarding-copilot-learn = Află mai multe despre Copilot
 genai-onboarding-gemini-tooltip =
     .title = Google Gemini
 genai-onboarding-gemini-learn = Află mai multe despre Gemini
@@ -120,6 +156,18 @@ genai-onboarding-lechat-learn = Află mai multe despre Le Chat
 genai-onboarding-select-header = Selectează text pentru a vedea sugestii
 genai-onboarding-select-description = Când selectezi text, îți vom sugera interogări pe care le poți trimite chatbotului. Poți scrie și propriile interogări.
 genai-onboarding-select-primary = Începe discuția
+genai-chatbot-contextual-title = Folosește un chatbot IA fără să schimbi filele
+genai-chatbot-contextual-subtitle = Discuți și navighezi juxtapus când adaugi un chatbot IA în bara laterală { -brand-short-name }.
+genai-chatbot-contextual-button = Alege un chatbot
+genai-chatbot-summarize-title = Nou! Rezumatul paginilor dintr-un singur clic
+genai-chatbot-summarize-button = Fă rezumatul paginii
+# “Summarize Page” should be consistent with the translation for the string genai-menu-summarize-page
+genai-chatbot-summarize-sidebar-provider-subtitle = Dă clic dreapta pe chatbotul IA din bara laterală și alege „Fă rezumatul paginii”.
+# “Summarize Page” should be consistent with the translation for the string genai-menu-summarize-page
+genai-chatbot-summarize-sidebar-generic-subtitle = Dă clic dreapta pe butonul cu stea din bara laterală și alege „Fă rezumatul paginii”. Prima dată, vei alege și un chatbot IA.
+# “Summarize page” should be consistent with the translation for the string genai-page-button-summarize
+genai-chatbot-summarize-footer-provider-subtitle = Deschide chatbotul IA în bara laterală și alege „Fă rezumatul paginii” din partea de jos.
+genai-chatbot-summarize-footer-generic-subtitle = Adaugă un chatbot IA în bara laterală { -brand-short-name } pentru rezumatul rapid al paginilor.
 
 ## Chatbot onboarding choices
 ## These describe features/capabilities of chatbot providers. These are not buttons/actions.
@@ -130,10 +178,39 @@ genai-onboarding-claude-price = Opțiuni gratuite și contra cost; necesită con
 genai-onboarding-chatgpt-generate = Generează text, imagini și cod
 genai-onboarding-chatgpt-analyze = Analizează documente și imagini
 genai-onboarding-chatgpt-price = Opțiuni gratuite și contra cost; necesită cont în anumite țări sau pentru anumite sarcini
+genai-onboarding-copilot-generate = Generează text, imagini și cod
+genai-onboarding-copilot-analyze = Analizează imaginile
+genai-onboarding-copilot-price = Opțiuni gratuite și contra cost; necesită cont pentru unele sarcini
 genai-onboarding-gemini-generate = Generează text, imagini și cod
 genai-onboarding-gemini-analyze = Analizează imagini (gratuit) și documente (contra cost)
 genai-onboarding-gemini-price = Opțiuni gratuite și contra cost; necesită cont
 genai-onboarding-huggingchat-generate = Generează text și cod
 genai-onboarding-huggingchat-switch = Comută între diverse seturi de modele deschise
+genai-onboarding-huggingchat-price-2 = Gratuit; necesită cont după un anumit număr de interogări
 genai-onboarding-lechat-generate = Generează text și cod
 genai-onboarding-lechat-price = Gratuit; necesită cont
+
+## Model Optin Component
+
+genai-model-optin-continue =
+    .label = Continuă
+genai-model-optin-optout =
+    .label = Anulează
+genai-model-optin-cancel =
+    .label = Anulează
+
+## Link previews
+
+# ‘min’ is short for “minute”
+# ‘mins’ is short for “minutes”
+# An estimate for how long it takes to read an article,
+# expressed as a range covering both slow and fast readers.
+# Variables:
+#   $rangePlural (String): The plural category of the range, using the same set as for numbers.
+#   $range (String): The range of minutes as a localised string. Examples: "3-7", "~1".
+link-preview-reading-time =
+    { $rangePlural ->
+        [one] Timp de citire { $range } minut
+        [few] Timp de citire { $range } minute
+       *[other] Timp de citire { $range } de minute
+    }

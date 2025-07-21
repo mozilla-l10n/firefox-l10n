@@ -204,6 +204,7 @@ migration-chrome-windows-password-import-steps-header = În Chrome:
 migration-chrome-windows-password-import-step1 = Deschide meniul principal <img data-l10n-name="chrome-icon-3dots"/> și accesează Parole și completare automată > Manager de parole Google.
 migration-chrome-windows-password-import-step2 = Selectează „Setări” din meniu.
 migration-chrome-windows-password-import-step3 = Selectează „Descarcă fișierul” și salvează-l pe dispozitiv.
+migration-chrome-windows-password-import-step4 = Revino aici și apasă „Selectează fișierul” pentru finalizarea importului.
 migration-manual-password-import-skip-button = Omite
 migration-manual-password-import-select-button = Selectează un fișier
 migration-safari-password-import-skip-button = Omite
@@ -255,6 +256,11 @@ migration-wizard-progress-success-extensions =
 #   $matched (Number): the number of matched imported extensions
 #   $quantity (Number): the number of total extensions found during import
 migration-wizard-progress-partial-success-extensions = { $matched } din { $quantity } (de) extensii
+migration-wizard-progress-extensions-support-link = Află cum se potrivește { -brand-product-name } cu extensiile
+# Shown in the migration wizard if there are no matched extensions
+# on import from supported browsers.
+migration-wizard-progress-no-matched-extensions = Nicio extensie potrivită
+migration-wizard-progress-extensions-addons-link = Răsfoiți extensiile pentru { -brand-short-name }
 
 ##
 
