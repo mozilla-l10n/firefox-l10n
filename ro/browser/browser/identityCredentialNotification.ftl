@@ -26,4 +26,4 @@ identity-credential-sign-in-button =
     .label = Autentifică-te
     .accesskey = S
 identity-credential-policy-title = Folosește { $provider } ca furnizor de autentificare
-identity-credential-policy-description = Autentificarea în { $host } cu un cont { $provider } face subiectul <label data-l10n-name="privacy-url">Politicii lor privind confidențialitatea</label> și <label data-l10n-name="tos-url">Termenilor lor de utilizare a serviciilor</label>.
+identity-credential-policy-description = Autentificarea în { $host } cu un cont { $provider } face subiectul <label data-l10n-name="privacy-url">Politicii lor de confidențialitate</label> și <label data-l10n-name="tos-url">Condițiilor lor de utilizare a serviciilor</label>.
