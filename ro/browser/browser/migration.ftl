@@ -53,6 +53,7 @@ no-migration-sources = Niciun program care conține date cu marcaje, istoric sau
 import-source-page-title = Importă configurații și date
 import-items-page-title = Elemente pentru importare
 import-items-description = Selectează care elemente să se importe:
+import-permissions-page-title = Acordă permisiuni pentru { -brand-short-name }
 import-migrating-page-title = Se importă…
 import-migrating-description = Următoarele elemente se importă în prezent…
 import-select-profile-page-title = Selectează un profil

@@ -34,11 +34,16 @@ newtab-search-box-handoff-input-no-engine =
     .placeholder = Caută sau introdu adresa
     .title = Caută sau introdu adresa
     .aria-label = Caută sau introdu adresa
+newtab-search-box-input =
+    .placeholder = Caută pe web
+    .aria-label = Caută pe web
 
 ## Top Sites - General form dialog.
 
 newtab-topsites-add-search-engine-header = Adaugă motor de căutare
+newtab-topsites-add-shortcut-header = Comandă rapidă nouă
 newtab-topsites-edit-topsites-header = Editează site-ul de top
+newtab-topsites-edit-shortcut-header = Editează comanda rapidă
 newtab-topsites-title-label = Titlu
 newtab-topsites-title-input =
     .placeholder = Introdu un titlu
@@ -63,9 +68,6 @@ newtab-topsites-add-button = Adaugă
 newtab-confirm-delete-history-p1 = Sigur vrei să ștergi fiecare instanță a acestei pagini din istoric?
 # "This action" refers to deleting a page from history.
 newtab-confirm-delete-history-p2 = Această acțiune este ireversibilă.
-
-## Top Sites - Sponsored label
-
 
 ## Context Menu - Action Tooltips.
 
@@ -101,9 +103,6 @@ newtab-menu-save-to-pocket = Salvează în { -pocket-brand-name }
 newtab-menu-delete-pocket = Șterge din { -pocket-brand-name }
 newtab-menu-archive-pocket = Arhivează în { -pocket-brand-name }
 newtab-menu-show-privacy-info = Sponsorii noștri și confidențialitatea ta
-
-## Context menu options for sponsored stories and new ad formats on New Tab.
-
 
 ## Message displayed in a modal window to explain privacy and provide context for sponsored content.
 
@@ -217,12 +216,6 @@ newtab-pocket-learn-more = Află mai multe
 newtab-pocket-cta-button = Obține { -pocket-brand-name }
 newtab-pocket-cta-text = Salvează în { -pocket-brand-name } articolele care ți-au plăcut și hrănește-ți mintea cu lecturi fascinante.
 
-## Thumbs up and down buttons that shows over a newtab stories card thumbnail on hover.
-
-
-## Pocket content onboarding experience dialog and modal for new users seeing the Pocket section for the first time, shown as the first item in the Pocket section.
-
-
 ## Error Fallback Content.
 ## This message and suggested action link are shown in each section of UI that fails to render.
 
@@ -252,55 +245,3 @@ newtab-custom-recent-toggle =
     .description = O selecție de site-uri și conținut recente
 newtab-custom-close-button = Închide
 newtab-custom-settings = Gestionează mai multe setări
-
-## New Tab Wallpapers
-
-
-## Solid Colors
-
-
-## Abstract
-
-
-## Celestial
-
-
-## Celestial
-
-
-## New Tab Weather
-
-
-## Topic Labels
-
-
-## Topic Selection Modal
-
-
-## Content Feed Sections
-## "Follow", "unfollow", and "following" are social media terms that refer to subscribing to or unsubscribing from a section of stories.
-## e.g. Following the travel section of stories.
-
-
-## Button to block/unblock listed topics
-## "Block", "unblocked", and "blocked" are social media terms that refer to hiding a section of stories.
-## e.g. Blocked the politics section of stories.
-
-
-## Confirmation modal for blocking a section
-
-
-## Strings for custom wallpaper highlight
-
-
-## Strings for download mobile highlight
-
-
-## Strings for shortcuts highlight
-
-
-## Strings for reporting ads and content
-
-
-## Strings for trending searches
-

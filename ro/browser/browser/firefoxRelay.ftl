@@ -33,3 +33,7 @@ firefox-relay-opt-in-confirmation-disable =
 firefox-relay-opt-in-confirmation-postpone =
     .label = Nu acum
     .accesskey = N
+
+## The "control" variation of the Relay offer popup
+
+firefox-relay-offer-legal-notice-control = Prin crearea unui cont și crearea unei măști de e-mail, ești de acord cu <label data-l10n-name="tos-url">Condițiile de utilizare a serviciilor</label> și <label data-l10n-name="privacy-url">Notificarea privind confidențialitatea</label>.

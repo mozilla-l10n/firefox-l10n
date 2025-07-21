@@ -6,7 +6,5 @@
 # These messages are used by the Firefox ".desktop" file on Linux.
 # https://specifications.freedesktop.org/desktop-entry-spec/desktop-entry-spec-latest.html
 
-
-## Actions are visible in a context menu after right clicking the
-## taskbar icon, possibly other places depending on the environment.
-
+# The entry name is the label on the desktop icon, among other things.
+desktop-entry-name = { -brand-shortcut-name }

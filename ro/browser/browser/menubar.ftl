@@ -3,18 +3,6 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 
-# NOTE: For English locales, strings in this file should be in APA-style Title Case.
-# See https://apastyle.apa.org/style-grammar-guidelines/capitalization/title-case
-#
-# NOTE: For Engineers, please don't re-use these strings outside of the menubar.
-
-
-# NOTE: For English locales, strings in this file should be in APA-style Title Case.
-# See https://apastyle.apa.org/style-grammar-guidelines/capitalization/title-case
-#
-# NOTE: For Engineers, please don't reuse these strings outside of the menubar.
-
-
 ## Application Menu (macOS only)
 
 menu-application-preferences =
@@ -133,6 +121,8 @@ menu-view-history-button =
     .label = Istoric
 menu-view-synced-tabs-sidebar =
     .label = File sincronizate
+menu-view-megalist-sidebar =
+    .label = Parole
 menu-view-full-zoom =
     .label = Zoom
     .accesskey = Z
@@ -223,6 +213,9 @@ menu-bookmarks-manage =
     .label = Gestionează marcajele
 menu-bookmark-tab =
     .label = Marchează fila actuală…
+# "Search" is a verb, as in "Search in bookmarks"
+menu-bookmarks-search =
+    .label = Caută marcaje
 menu-bookmarks-all-tabs =
     .label = Marchează toate filele…
 menu-bookmarks-toolbar =
