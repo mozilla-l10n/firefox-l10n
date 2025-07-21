@@ -73,6 +73,9 @@ menu-file-save-page =
 menu-file-email-link =
     .label = Trimite linkul prin e-mail…
     .accesskey = E
+menu-file-share-url =
+    .label = Partajează
+    .accesskey = h
 menu-file-print-setup =
     .label = Aranjare în pagină…
     .accesskey = u
@@ -203,6 +206,9 @@ menu-history-undo-menu =
     .label = File închise recent
 menu-history-undo-window-menu =
     .label = Ferestre închise recent
+# "Search" is a verb, as in "Search in History"
+menu-history-search =
+    .label = Caută în istoric
 
 ## Bookmarks Menu
 
@@ -213,6 +219,8 @@ menu-bookmarks-manage =
     .label = Gestionează marcajele
 menu-bookmark-tab =
     .label = Marchează fila actuală…
+menu-edit-bookmark =
+    .label = Editează marcajul...
 # "Search" is a verb, as in "Search in bookmarks"
 menu-bookmarks-search =
     .label = Caută marcaje
@@ -233,6 +241,10 @@ menu-profiles-manage-profiles =
     .label = Gestionează profilurile
 menu-profiles-new-profile =
     .label = Profil nou
+# Variables:
+#  $profileName (String): the name of the users profile
+menu-profiles-current =
+    .label = { $profileName } (actual)
 
 ## Tools Menu
 
@@ -242,6 +254,9 @@ menu-tools =
 menu-tools-downloads =
     .label = Descărcări
     .accesskey = D
+menu-tools-extensions-and-themes =
+    .label = Extensii și teme
+    .accesskey = E
 menu-tools-addons-and-themes =
     .label = Suplimente și teme
     .accesskey = A

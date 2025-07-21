@@ -13,6 +13,64 @@ genai-settings-chat-huggingchat-links = Dacă alegi HuggingChat, ești de acord 
 genai-settings-chat-lechat-links = Alegând Le Chat Mistral, ești de acord cu <a data-l10n-name="link1">Condițiile Mistral AI de utilizare a serviciilor</a> și <a data-l10n-name="link2">Politica de confidențialitate</a>.
 genai-settings-chat-localhost-links = Folosește un chatbot local privat, cum ar fi <a data-l10n-name="link1">llamafile</a> de la grupul de inovație { -vendor-short-name }.
 
+## Chatbot prompts
+## Prompts are plain language ‘instructions’ sent to a chatbot.
+## These prompts have been made concise and direct in English because some chatbot providers
+## have character restrictions and being direct reduces the chance for misinterpretation.
+## When localizing, please be concise and direct, but not at the expense of losing meaning.
+
+# Prompt purpose: help users understand what a selection covers at a glance
+genai-prompts-summarize =
+    .label = Rezumă
+    .value = Te rog, rezumă selecția folosind un limbaj precis și concis. Folosește titluri și liste cu buline în rezumat, ca să fie ușor de înțeles. Menține înțelesul și acuratețea datelor.
+# Prompt purpose: make a selection easier to read
+genai-prompts-simplify =
+    .label = Simplifică limbajul
+    .value = Te rog rescrie selecția folosind propoziții și cuvinte simple. Menține sensul și acuratețea datelor.
+# Prompt purpose: test understanding of selection in an interactive way
+genai-prompts-quiz =
+    .label = Testează-mă
+    .value = Pune-mi întrebări din această selecție. Pune-mi diverse tipuri de întrebări, de exemplu întrebări cu răspunsuri multiple, adevărat sau fals și cu răspunsuri scurte. Așteaptă-mă să răspund înainte să treci la următoarea întrebare.
+# Prompt purpose: helps users understand words, phrases, concepts
+genai-prompts-explain =
+    .label = Explică
+    .value = Explică-mi ideile principale ale selecției, folosind cuvinte simple. Dă-mi și exemple.
+# Prompt purpose: writing tool that helps users with spelling and grammar mistakes and produce a response that identifies errors and rewrites the inputted text correctly
+genai-prompts-proofread =
+    .label = Corectură
+    .value = Corectează selecția pentru erori de ortografie și de gramatică. Identifică orice greșeli și dă-mi versiunea corectată a textului. Menține sensul și acuratețea datelor și scoate mai întâi lista cu corecturile propuse și, după aceea, versiunea finală, corectată, a textului.
+# This prompt is added to the beginning of selection prompts sent to a chatbot.
+# $tabTitle (string) - title of the webpage
+# $selection (string) - selected text
+genai-prompt-prefix-selection = Sunt pe pagina „{ $tabTitle }” cu textul „{ $selection }” selectat.
+
+## Chatbot menu shortcuts
+
+genai-menu-ask-generic =
+    .label = Întreabă chatbot IA
+# $provider (string) - name of the provider
+genai-menu-ask-provider =
+    .label = Întreabă { $provider }
+genai-menu-open-generic =
+    .label = Deschide Chatbot IA
+# $provider (string) - name of the provider
+genai-menu-open-provider =
+    .label = Deschide { $provider }
+genai-menu-remove-generic =
+    .label = Elimină chatbot IA
+# $provider (string) - name of the provider
+genai-menu-remove-provider =
+    .label = Elimină { $provider }
+genai-menu-remove-sidebar =
+    .label = Elimină din bara laterală
+genai-menu-new-badge = Nou
+genai-menu-summarize-page = Fă rezumatul paginii
+genai-input-ask-generic =
+    .placeholder = Întreabă chatbot-ul IA...
+# $provider (string) - name of the provider
+genai-input-ask-provider =
+    .placeholder = Întreabă { $provider }…
+
 ## Chatbot header
 
 genai-options-reload-generic =

@@ -114,9 +114,28 @@ spotlight-pin-primary-button =
 
 set-default-pdf-handler-headline = <strong>PDF-urile se deschid acum în { -brand-short-name }.</strong> Editează sau semnează formulare direct în browser. Pentru modificare, caută „PDF” în setări.
 
+## FxA sync CFR
+
+fxa-sync-cfr-body = Asigură-te că ai la îndemână cele mai recente marcaje, parole și file de fiecare dată când deschizi un browser { -brand-product-name } nou.
+fxa-sync-cfr-primary = Află mai multe
+    .accesskey = L
+fxa-sync-cfr-secondary = Amintește-mi mai târziu
+    .accesskey = R
+
 ## Device Migration FxA Spotlight
 
+device-migration-fxa-spotlight-heavy-user-header = Nu uita să faci o copie de rezervă cu datele tale
+device-migration-fxa-spotlight-heavy-user-body = Asigură-te că informațiile importante — cum ar fi marcajele și parolele — sunt actualizate și protejate pe toate dispozitivele.
+device-migration-fxa-spotlight-heavy-user-primary-button = Începe
+device-migration-fxa-spotlight-older-device-header = Liniște sufletească, de la { -brand-product-name }
+device-migration-fxa-spotlight-older-device-body = Un cont îți menține informațiile importante actualizate și protejate pe orice dispozitiv pe care te conectezi.
+device-migration-fxa-spotlight-older-device-primary-button = Creează un cont
+device-migration-fxa-spotlight-getting-new-device-header-2 = Un dispozitiv nou în viitor?
+device-migration-fxa-spotlight-getting-new-device-body-2 = Urmează câțiva pași simpli ca să iei cu tine marcajele, istoricul și parolele când începi să utilizezi un dispozitiv nou.
+device-migration-fxa-spotlight-getting-new-device-primary-button = Cum să fac o copie de rezervă cu datele mele
+device-migration-fxa-spotlight-sync-header = Navighează fără să pierzi ritmul
 device-migration-fxa-spotlight-sync-body = Sincronizează-ți toate informațiile importante cu criptare — cum ar fi marcaje și parole. Poți să preiei tot oriunde folosești { -brand-product-name }.
+device-migration-fxa-spotlight-sync-primary-button = Începe
 
 ## FxA Menu Message variants
 
