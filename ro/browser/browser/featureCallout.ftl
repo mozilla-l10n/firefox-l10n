@@ -12,6 +12,7 @@ callout-primary-complete-button-label = Am înțeles!
 # "Tab pickup" refers to the section in Firefox View that displays open
 # tabs from other devices
 callout-firefox-view-tab-pickup-title = Sari de pe un dispozitiv pe altul cu preluarea filelor
+callout-firefox-view-tab-pickup-subtitle = Preia rapid filele de pe telefon și deschide-le aici pentru viteză maximă.
 
 ## PDF.js Feature Tour Strings
 
@@ -46,6 +47,15 @@ perplexity-callout-theme-1-subtitle-1 = Încearcă Perplexity. Alege-l din buton
 perplexity-callout-theme-1-subtitle-2 = Pune întrebări. Obține răspunsuri complete și bine documentate. Ca să încerci Perplexity, alege-l din butonul de căutare.
 perplexity-callout-theme-2-subtitle-1 = Întreabă Perplexity. Vei primi răspunsuri complete, inclusiv sursele.
 perplexity-callout-theme-2-subtitle-2 = Pune întrebări. Obține răspunsuri complete și bine documentate.
+perplexity-callout-primary-label = Întreabă Perplexity
+perplexity-callout-secondary-label-1 = Respinge
+perplexity-callout-secondary-label-2 = Am înțeles
+
+## Account Adoption Passwords callout strings
+
+# Suggestion to backup passwords by signing up for Mozilla account and using sync
+fxa-adoption-passwords-title = Parolă salvată. Hai să facem o copie de rezervă.
+fxa-adoption-passwords-subtitle = Protejează-ți parolele sincronizându-le cu dispozitivele tale prin criptare.
 
 ## Sidebar Vertical Tabs Strings
 
@@ -65,13 +75,14 @@ sidebar-customization-callout-1-subtitle = Bara laterală { -brand-product-name 
 sidebar-customization-callout-callout-button = Personalizează bara laterală
 sidebar-customization-callout-dismiss-button = Ascunde bara laterală
 sidebar-customization-callout-2-title = Personalizează bara laterală { -brand-product-name }
+sidebar-customization-callout-2-subtitle = Adaugi și elimini instrumente. Plasează filele în bara laterală. Încearcă un chatbot IA. Modul în care îți personalizezi bara laterală e la latitudinea ta.
 
 ## Sidebar Callout Survey Strings
 
 sidebar-callout-survey-dont-use-it = Nu îl folosesc
 sidebar-callout-survey-productive-question =
     În ce măsură ești de acord sau nu cu această afirmație:<br/>
-    „Bara laterală { -brand-short-name } mă ajută să fiu mai productiv”?
+    „Bara laterală { -brand-short-name } mă ajută să fiu mai productiv(ă)”?
 sidebar-callout-survey-strongly-agree = Întru totul de acord
 sidebar-callout-survey-agree = De acord
 sidebar-callout-survey-disagree = Nu sunt de acord
@@ -79,3 +90,9 @@ sidebar-callout-survey-strongly-disagree = Nu sunt deloc de acord
 sidebar-callout-survey-features-question = Ai mai jos funcționalitățile posibile din bara laterală. Care dintre ele ți-ar îmbunătăți cel mai mult productivitatea în { -brand-short-name }?
 sidebar-callout-survey-split-view = Vizualizează oricare două site-uri web simultan, juxtapuse într-o vizualizare divizată
 sidebar-callout-survey-keep-website-open = Păstrează un site web, cum ar fi e-mailul sau calendarul, deschis în bara laterală în timp ce navighezi
+sidebar-callout-survey-submit = Trimite
+sidebar-callout-survey-thank-you = Îți mulțumim pentru feedback!
+sidebar-genai-survey-satisfaction-question = Cât de mulțumit(ă) ești de accesul la un chatbot IA în bara laterală?
+sidebar-genai-survey-productive-question =
+    În ce măsură ești de acord sau nu cu această afirmație:<br/>
+    „Chatbotul IA din bara laterală mă ajută să fiu mai productiv(ă)”?
