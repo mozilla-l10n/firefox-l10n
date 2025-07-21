@@ -16,5 +16,7 @@ crashed-request-report-title = Raportează această filă
 crashed-send-report-2 = Trimite automat un raport de defectiuni ca să putem rezolva probleme similare
 crashed-comment =
     .placeholder = Adaugă un comentariu (comentariile sunt vizibile publicului)
+crashed-include-URL-2 = Include URL-ul site-urilor pe care erai când { -brand-short-name } s-a închis neașteptat.
 crashed-report-sent = Raportul de defecțiuni a fost deja transmis; îți mulțumim pentru că ne ajuți să facem { -brand-short-name } mai bun!
 crashed-request-auto-submit-title = Raportează file din fundal
+crashed-auto-submit-checkbox-2 = Actualizează preferințele ca să trimiți automat rapoarte când { -brand-short-name } se închide neașteptat

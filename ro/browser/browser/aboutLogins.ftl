@@ -296,6 +296,12 @@ about-logins-confirm-remove-all-sync-dialog-title2 =
         [few] Elimini { $count } parole de pe toate dispozitivele?
        *[other] Elimini { $count } de parole de pe toate dispozitivele?
     }
+# Message for modal to confirm the removal of saved passwords when user IS synced.
+about-logins-confirm-remove-all-sync-dialog-message3 =
+    { $count ->
+        [1] Vei elimina parola salvată în { -brand-short-name } și pe toate dispozitivele sincronizate. Vei elimina și orice alerte de încălcare a securității datelor care apar aici. Acțiunea nu poate fi anulată.
+       *[other] This will remove all passwords saved to { -brand-short-name } on all your synced devices. This will also remove any breach alerts that appear here. You cannot undo this action.
+    }
 
 ##
 
@@ -400,6 +406,18 @@ about-logins-import-dialog-items-modified =
 about-logins-import-dialog-items-no-change =
     { $count ->
        *[other] <span>Date de autentificare duplicat găsite:</span> <span data-l10n-name="count">{ $count }</span> <span data-l10n-name="meta">(nu importate)</span>
+    }
+about-logins-import-dialog-items-added2 =
+    { $count ->
+       *[other] <span>Parole noi adăugate:</span> <span data-l10n-name="count">{ $count }</span>
+    }
+about-logins-import-dialog-items-modified2 =
+    { $count ->
+       *[other] <span>Intrări existente actualizate:</span> <span data-l10n-name="count">{ $count }</span>
+    }
+about-logins-import-dialog-items-no-change2 =
+    { $count ->
+       *[other] <span>Intrări duplicat găsite:</span> <span data-l10n-name="count">{ $count }</span> <span data-l10n-name="meta">(neimportate)</span>
     }
 about-logins-import-dialog-items-error =
     { $count ->

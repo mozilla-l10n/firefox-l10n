@@ -5,6 +5,9 @@
 # Used as the FxA toolbar menu item value when user has not
 # finished setting up an account.
 account-finish-account-setup = Finalizează configurarea contului
+# Used as the FxA toolbar menu item title when the user
+# needs to reconnect their account.
+account-disconnected2 = Cont deconectat
 # Menu item that sends a tab to all synced devices.
 account-send-to-all-devices = Trimite tuturor dispozitivelor
 # Menu item that links to the Firefox Accounts settings for connected devices.
@@ -39,6 +42,12 @@ account-send-tab-to-device-verify = Verifică-ți contul…
 
 ## These strings are used in a notification shown when a new device joins the Firefox account.
 
+# The title shown in a notification when either this device or another device
+# has connected to, or disconnected from, a Firefox account.
+account-connection-title = { -fxaccount-brand-name(capitalization: "title") }
+# The title shown in a notification when either this device or another device
+# has connected to, or disconnected from, a Firefox account.
+account-connection-title-2 = Cont
 # Variables:
 #   $deviceName (String): the name of the new device
 account-connection-connected-with = Acest calculator este acum conectat cu { $deviceName }.
@@ -97,3 +106,9 @@ account-multiple-tabs-arriving-from-unknown-device =
 ##   $closedCount (Number): the number of tabs closed
 
 account-view-recently-closed-tabs = Vezi filele închise recent
+account-tabs-closed-remotely =
+    { $closedCount ->
+        [one] { $closedCount } filă { -brand-short-name } închisă
+        [few] { $closedCount } file { -brand-short-name } închise
+       *[other] { $closedCount } de file { -brand-short-name } închise
+    }
