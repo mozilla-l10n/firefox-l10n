@@ -121,6 +121,7 @@ sidebar-button-callout-vertical-tabs = Pentru afișarea filelor, selectează but
 ## Sidebar Vertical Tabs Strings
 
 vertical-tabs-callout-1-title = Copleșit(ă) de prea multe file?
+vertical-tabs-callout-1-subtitle = Încearcă noul nostru aspect vertical al filelor pentru a trece rapid prin lista de file. Primii testeri raportează că îi ajută să se simtă mai organizați. Schimbi oricând.
 vertical-tabs-callout-1-cta-button = Încearcă filele verticale
 vertical-tabs-callout-2-cta-button = Încearcă acum
 vertical-tabs-callout-2-title = Păstrezi multe file deschise? Încearcă filele verticale.
@@ -135,8 +136,12 @@ sidebar-pins-callout-cta-button = Fixează fila
 ## Pinning Tabs Strings
 
 pin-tabs-callout-1-title = Ții la îndemână filele importante
+pin-tabs-callout-1-subtitle = Trage o filă la începutul benzii de file pentru a o fixa. Sau dă clic dreapta și alege Fixează fila.
 pin-tabs-callout-cta-1-button = Fixează această filă
 pin-tabs-callout-2-title = Fixează filele pe care intri cel mai des
+pin-tabs-callout-2-subtitle = Ca să fixezi orice filă, trage-o la începutul benzii de file. Sau dă clic dreapta și alege Fixează fila.
+pin-tabs-callout-cta-2-button = Fixează această filă
+pin-tabs-callout-3-title = Ții la îndemână site-urile importante
 
 ## Sidebar Onboarding Strings
 
@@ -181,4 +186,14 @@ unified-search-callout-subtitle = Alege ce funcționează cel mai bine pentru c�
 unified-search-callout-primary-label = Înainte
 unified-search-callout-secondary-label = Respinge
 unified-search-engines-callout-title = Caută cu o comandă rapidă
+unified-search-engines-callout-subtitle = Tastează „@” urmat de un cuvânt-cheie ca să cauți în istoric, marcaje, file sau cu un alt motor de căutare.
 unified-search-engines-callout-primary-label = Am înțeles
+actions-callout-title = Finalizează sarcini obișnuite sau accesează setările de bază
+# The user can type "print" and "clear" and a button will appear in the
+# search bar (e.g. Print page) the user can click to initiate the action.
+# These example text inputs correlate to the the following strings
+# (either matching the whole string, or the first word of the string).
+# "print" - quickactions-cmd-print
+# "clear" - quickactions-cmd-clearrecenthistory
+# When localizing, ensure the translations match to ensure the action button appears as expected.
+actions-callout-subtitle = Încearcă să tastezi o acțiune precum „tipărește” ca să scoți la imprimantă o pagină sau „șterge” ca să ștergi istoricul.
