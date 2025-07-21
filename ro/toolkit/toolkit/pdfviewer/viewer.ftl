@@ -195,6 +195,23 @@ pdfjs-find-match-case-checkbox-label = Ține cont de majuscule și minuscule
 pdfjs-find-entire-word-checkbox-label = Cuvinte întregi
 pdfjs-find-reached-top = Am ajuns la începutul documentului, continuă de la sfârșit
 pdfjs-find-reached-bottom = Am ajuns la sfârșitul documentului, continuă de la început
+# Variables:
+#   $current (Number) - the index of the currently active find result
+#   $total (Number) - the total number of matches in the document
+pdfjs-find-match-count =
+    { $total ->
+        [one] { $current } din { $total } rezultat
+        [few] { $current } din { $total } rezultate
+       *[other] { $current } din { $total } de rezultate
+    }
+# Variables:
+#   $limit (Number) - the maximum number of matches
+pdfjs-find-match-count-limit =
+    { $limit ->
+        [one] Mai mult de { $limit } rezultat
+        [few] Mai mult de { $limit } rezultate
+       *[other] Mai mult de { $limit } de rezultate
+    }
 pdfjs-find-not-found = Nu s-a găsit textul
 
 ## Predefined zoom values
@@ -206,9 +223,6 @@ pdfjs-page-scale-actual = Mărime reală
 # Variables:
 #   $scale (Number) - percent value for page scale
 pdfjs-page-scale-percent = { $scale }%
-
-## PDF page
-
 
 ## Loading indicator messages
 
@@ -240,63 +254,6 @@ pdfjs-password-ok-button = OK
 pdfjs-password-cancel-button = Anulează
 pdfjs-web-fonts-disabled = Fonturile web sunt dezactivate: nu se pot folosi fonturile PDF încorporate.
 
-## Editing
-
-
-## Default editor aria labels
-
-
-## Remove button for the various kind of editor.
-
-
-##
-
-
 ## Alt-text dialog
 
 pdfjs-editor-alt-text-cancel-button = Anulează
-
-## Editor resizers
-## This is used in an aria label to help to understand the role of the resizer.
-
-
-## Color picker
-
-
-## Show all highlights
-## This is a toggle button to show/hide all the highlights.
-
-
-## New alt-text dialog
-## Group note for entire feature: Alternative text (alt text) helps when people can't see the image. This feature includes a tool to create alt text automatically using an AI model that works locally on the user's device to preserve privacy.
-
-
-## Image alt-text settings
-
-
-## "Annotations removed" bar
-
-
-## Add a signature dialog
-
-
-## Tab names
-
-
-## Tab panels
-
-
-## Controls
-
-
-## Dialog buttons
-
-
-## Main menu for adding/removing signatures
-
-
-## Editor toolbar
-
-
-## Edit signature description dialog
-

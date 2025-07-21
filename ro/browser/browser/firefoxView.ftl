@@ -149,6 +149,14 @@ firefoxview-search-text-box-syncedtabs =
 # Placeholder for the input field to search in open tabs ("search" is a verb).
 firefoxview-search-text-box-opentabs =
     .placeholder = Caută în filele deschise
+# Variables:
+#   $count (Number) - The number of visits matching the search query.
+firefoxview-search-results-count =
+    { $count ->
+        [one] { $count } site
+        [few] { $count } site-uri
+       *[other] { $count } de site-uri
+    }
 firefoxview-sort-history-by-date-label = Sortează după dată
 firefoxview-sort-history-by-site-label = Sortează după site
 firefoxview-sort-open-tabs-by-recency-label = Sortează după activitatea recentă
