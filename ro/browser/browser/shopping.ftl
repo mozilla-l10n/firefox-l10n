@@ -40,6 +40,86 @@ shopping-letter-grade-tooltip =
 
 shopping-message-bar-warning-stale-analysis-message-2 = Informații noi de verificat
 shopping-message-bar-warning-stale-analysis-button = Verifică acum
+shopping-message-bar-generic-error =
+    .heading = Nu sunt disponibile informații în acest moment
+    .message = Lucrăm să rezolvăm problema. Te rugăm să revii puțin mai târziu.
+shopping-message-bar-warning-not-enough-reviews =
+    .heading = Nu sunt destule recenzii încă
+    .message = Când produsul va avea mai multe recenzii, vom putea să le verificăm calitatea.
+shopping-message-bar-warning-product-not-available =
+    .heading = Produsul nu este disponibil
+    .message = Dacă vezi iar produsul în stoc, raportează-l și vom verifica recenziile.
+shopping-message-bar-warning-product-not-available-button2 = Raportează că produsul este în stoc
+shopping-message-bar-thanks-for-reporting =
+    .heading = Îți mulțumim pentru sesizare!
+    .message = Ar trebui să avem informații despre recenziile pentru acest produs în 24 de ore. Te rugăm să revii.
+shopping-message-bar-warning-product-not-available-reported =
+    .heading = Informații în curând
+    .message = Ar trebui să avem informații despre recenziile acestui produs în 2 de ore. Te rugăm să revii.
+shopping-message-bar-analysis-in-progress-title2 = Verificăm calitatea recenziilor
+shopping-message-bar-analysis-in-progress-message2 = Ar trebui să dureze 60 de secunde.
+# Variables:
+#  $percentage (Number) - The percentage complete that the analysis is, per our servers.
+shopping-message-bar-analysis-in-progress-with-amount = Verificăm calitatea recenziilor ({ $percentage }%)
+shopping-message-bar-page-not-supported =
+    .heading = Nu putem verifica aceste recenzii
+    .message = Din păcate, nu putem verifica calitatea recenziilor pentru anumite tipuri de produse. De exemplu, felicitări și distribuire de videoclipuri, muzică și jocuri.
+shopping-message-bar-keep-closed-header =
+    .heading = Ții închis?
+    .message = Îți poți actualiza setările ca să ții Verificatorul de recenzii închis implicit. Acum se deschide automat.
+shopping-message-bar-keep-closed-dismiss-button = Nu, mulțumesc
+shopping-message-bar-keep-closed-accept-button = Da, ține-l închis
+
+## Strings for the product review snippets card
+
+shopping-highlights-label =
+    .label = Evidențieri din recenzii recente
+shopping-highlight-price = Preț
+shopping-highlight-quality = Calitate
+shopping-highlight-shipping = Expediere
+shopping-highlight-competitiveness = Competitivitate
+shopping-highlight-packaging = Ambalaj
+
+## Strings for show more card
+
+shopping-show-more-button = Afișează mai multe
+shopping-show-less-button = Arată mai puțin
+
+## Strings for the settings card
+
+shopping-settings-label =
+    .label = Setări
+shopping-settings-recommendations-toggle =
+    .label = Afișează reclame în Verificatorul de recenzii
+shopping-settings-recommendations-learn-more2 = Vei vedea ocazional reclame pentru produse relevante. Facem publicitate doar produselor cu recenzii de încredere. <a data-l10n-name="review-quality-url">Află mai multe</a>
+shopping-settings-opt-out-button = Închide Verificatorul de recenzii
+powered-by-fakespot = Verificatorul de recenzii este oferit de <a data-l10n-name="fakespot-link">{ -fakespot-brand-full-name }</a>.
+shopping-settings-auto-open-toggle =
+    .label = Deschide automat Verificatorul de recenzii
+# Description text for regions where we support three sites. Sites are limited to Amazon, Walmart and Best Buy.
+# Variables:
+#   $firstSite (String) - The first shopping page name
+#   $secondSite (String) - The second shopping page name
+#   $thirdSite (String) - The third shopping page name
+shopping-settings-auto-open-description-three-sites = Când te uiți la produse pe { $firstSite }, { $secondSite } și { $thirdSite }
+# Description text for regions where we support only one site (e.g. currently used in FR/DE with Amazon).
+# Variables:
+#   $currentSite (String) - The current shopping page name
+shopping-settings-auto-open-description-single-site = Când te uiți la produse pe { $currentSite }
+shopping-settings-sidebar-enabled-state = Verificatorul de recenzii este <strong>activat</strong>
+
+## Strings for the adjusted rating component
+
+# "Adjusted rating" means a star rating that has been adjusted to include only
+# reliable reviews.
+shopping-adjusted-rating-label =
+    .label = Evaluare ajustată
+shopping-adjusted-rating-unreliable-reviews = Recenziile care nu sunt de încredere au fost eliminate
+
+## Strings for the review reliability component
+
+shopping-review-reliability-label =
+    .label = Cât de încredere sunt aceste recenzii?
 
 ## Strings for the analysis explainer component
 
@@ -60,9 +140,9 @@ shopping-analysis-explainer-review-grading-scale-unreliable = Recenzii care nu s
 ## Strings for UrlBar button
 
 shopping-sidebar-open-button2 =
-    .tooltiptext = Deschide Verificare recenzii
+    .tooltiptext = Deschide Verificatorul de recenzii
 shopping-sidebar-close-button2 =
-    .tooltiptext = Închide Verificare recenzii
+    .tooltiptext = Închide Verificatorul de recenzii
 
 ## Strings for the unanalyzed product card.
 ## The word 'analyzer' when used here reflects what this tool is called on
@@ -84,7 +164,7 @@ ad-by-fakespot = Reclamă de la { -fakespot-brand-name }
 ## Shopping survey strings.
 
 shopping-survey-headline = Ajută-ne să îmbunătățim { -brand-product-name }
-shopping-survey-question-one = Cât de mulțumit(ă) ești de experiența cu Verificarea recenziilor în { -brand-product-name }?
+shopping-survey-question-one = Cât de mulțumit(ă) ești de experiența cu Verificatorul de recenzii în { -brand-product-name }?
 shopping-survey-q1-radio-1-label = Foarte mulțumit(ă)
 shopping-survey-q1-radio-2-label = Mulțumit(ă)
 shopping-survey-q1-radio-3-label = Neutru(ă)
@@ -115,3 +195,7 @@ shopping-callout-closed-not-opted-in-revised-button = Am înțeles
 shopping-callout-not-opted-in-reminder-title = Cumpără cu încredere
 shopping-callout-not-opted-in-reminder-subtitle = Nu ești sigur(ă) dacă recenziile unui produs sunt reale sau false? Verificatorul de recenzii de la { -brand-product-name } te poate ajuta.
 shopping-callout-not-opted-in-reminder-open-button = Deschide Verificatorul de recenzii
+shopping-callout-not-opted-in-reminder-close-button = Respinge
+shopping-callout-not-opted-in-reminder-ignore-checkbox = Nu mai afișa
+shopping-callout-not-opted-in-reminder-img-alt =
+    .aria-label = Ilustrație abstractă a trei recenzii de produs. Una are un simbol de avertizare care indică că este posibil să nu fie de încredere.
