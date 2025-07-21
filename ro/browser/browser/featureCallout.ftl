@@ -79,6 +79,9 @@ bookmarks-toolbar-callout-1-title = Adaugi acest site în bara de instrumente cu
 bookmarks-toolbar-callout-1-subtitle = Marcajul va fi salvat chiar sub bara de adrese pentru acces rapid.
 bookmarks-toolbar-callout-1-primary-button-label = Adaugă marcajul
 bookmarks-toolbar-callout-1-secondary-button-label = Nu, mulțumesc
+# Visible if user adds a bookmark in callout 1, bookmarks toolbar is set to always show when this message renders
+bookmarks-toolbar-callout-2a-title = Adaugi cu ușurință mai multe marcaje
+bookmarks-toolbar-callout-2a-subtitle = Poți trage și plasa file aici pentru a avea la îndemână mai multe dintre site-urile tale preferate.
 # Visible if user declines to add a bookmark in callout 1, bookmarks toolbar is set to always show when this message renders
 bookmarks-toolbar-callout-2b-title = Păstrezi bara de instrumente cu marcaje deschisă?
 bookmarks-toolbar-callout-2b-subtitle = Poți adăuga alte site-uri pe care intri mai des. Pur și simplu trage și plasează filele aici pentru a avea site-urile web preferate la îndemână.
@@ -112,6 +115,7 @@ sidebar-button-callout-vertical-tabs = Pentru afișarea filelor, selectează but
 
 ## Sidebar Vertical Tabs Strings
 
+vertical-tabs-callout-1-title = Copleșit(ă) de prea multe file?
 vertical-tabs-callout-2-title = Păstrezi multe file deschise? Încearcă filele verticale.
 vertical-tabs-callout-2-subtitle = Această dispunere facilitează scanarea rapidă a listei de file. În plus, poți ajusta lățimea ca să vezi mai multe sau mai puține titluri de file.
 
@@ -135,6 +139,9 @@ sidebar-customization-callout-2-subtitle = Adaugi și elimini instrumente. Plase
 sidebar-callout-survey-title = Ajută-ne să îmbunătățim { -brand-short-name }
 sidebar-callout-survey-satisfaction-question = Cât de mulțumit(ă) ești de experiența cu bara laterală în { -brand-short-name }?
 sidebar-callout-survey-privacy-notice-link = Notificare privind confidențialitatea
+sidebar-callout-survey-very-satisfied = Foarte mulțumit(ă)
+sidebar-callout-survey-satisfied = Mulțumit(ă)
+sidebar-callout-survey-neutral = Neutru(ă)
 sidebar-callout-survey-dont-use-it = Nu îl folosesc
 sidebar-callout-survey-productive-question =
     În ce măsură ești de acord sau nu cu această afirmație:<br/>
