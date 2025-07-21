@@ -717,6 +717,7 @@ picture-in-picture-urlbar-button-close =
     .tooltiptext = Închide modul imagine în imagine ({ $shortcut })
 picture-in-picture-panel-header = Imagine în imagine
 picture-in-picture-panel-headline = Acest site nu recomandă utilizarea modului de imagine în imagine
+picture-in-picture-panel-body = Este posibil ca videoclipurile să nu fie redate conform intenției dezvoltatorului atât timp cât ai activată funcționalitatea de imagine-în-imagine.
 picture-in-picture-enable-toggle =
     .label = Activează oricum
 
@@ -842,6 +843,9 @@ toolbar-overflow-customize-button =
 toolbar-button-email-link =
     .label = Trimite e-mail cu linkul
     .tooltiptext = Trimite un e-mail cu linkul către acestă pagină
+toolbar-button-logins =
+    .label = Parole
+    .tooltiptext = Vezi și gestionează parolele salvate
 # Variables:
 #  $shortcut (String): keyboard shortcut to save a copy of the page
 toolbar-button-save-page =
@@ -866,6 +870,7 @@ toolbar-button-new-private-window =
 eme-notifications-drm-content-playing = Unele elemente audio sau video de pe acest site folosesc programe DRM, care pot limita ceea ce îți permite { -brand-short-name } să faci cu ele.
 eme-notifications-drm-content-playing-manage = Gestionează setările
 eme-notifications-drm-content-playing-manage-accesskey = M
+eme-notifications-drm-content-playing-dismiss = Respinge
 eme-notifications-drm-content-playing-dismiss-accesskey = D
 
 ## Password save/update panel
@@ -902,6 +907,16 @@ edit-popup-settings =
 picture-in-picture-hide-toggle =
     .label = Ascunde comutatorul Picture-in-Picture
     .accesskey = H
+
+## Since the default position for PiP controls does not change for RTL layout,
+## right-to-left languages should use "Left" and "Right" as in the English strings,
+
+picture-in-picture-move-toggle-right =
+    .label = Dă butonul de imagine-în-imagine la dreapta
+    .accesskey = R
+picture-in-picture-move-toggle-left =
+    .label = Dă butonul de imagine-în-imagine la stânga
+    .accesskey = L
 
 ##
 
@@ -943,6 +958,8 @@ tabs-toolbar-list-all-tabs =
 
 ## Infobar shown at startup to suggest session-restore
 
+# <img data-l10n-name="icon"/> will be replaced by the application menu icon
+restore-session-startup-suggestion-message = <strong>Deschizi file anterioare?</strong> Poți restaura sesiunea anterioară din { -brand-short-name } meniul aplicației <img data-l10n-name="icon"/>, la Istoric.
 restore-session-startup-suggestion-button = Arată-mi cum
 
 ## Infobar shown when the user tries to open a file picker and file pickers are blocked by enterprise policy
@@ -993,6 +1010,18 @@ unified-extensions-button-quarantined =
 reset-pbm-toolbar-button =
     .label = Închide sesiunea privată
     .tooltiptext = Închide sesiunea privată
+reset-pbm-panel-heading = Termini sesiunea privată?
+reset-pbm-panel-description = Închide toate filele private și șterge istoricul, cookie-urile și toate celelalte date ale site-urilor.
+reset-pbm-panel-always-ask-checkbox =
+    .label = Întreabă-mă mereu
+    .accesskey = A
+reset-pbm-panel-cancel-button =
+    .label = Anulează
+    .accesskey = C
+reset-pbm-panel-confirm-button =
+    .label = Șterge datele sesiunii
+    .accesskey = D
+reset-pbm-panel-complete = Datele sesiunii private au fost șterse
 
 ## Autorefresh blocker
 
@@ -1002,11 +1031,20 @@ refresh-blocked-allow =
     .label = Permite
     .accesskey = A
 
+## Firefox Relay integration
+
+firefox-relay-offer-why-to-use-relay = Măștile noastre sigure și ușor de folost îți protejează identitatea și previn spamul prin ascunderea adresei tale de e-mail.
+# Variables:
+#  $useremail (String): user email that will receive messages
+firefox-relay-offer-what-relay-provides = Toate mesajele trimise către măștile tale de e-mail vor fi redirecționate către <strong>{ $useremail }</strong>(asta dacă nu vrei să le blochezi).
+firefox-relay-offer-legal-notice = Dând click pe „Folosește masca de e-mail”, ești de acord cu <label data-l10n-name="tos-url">Termenii de utilizare a serviciilor</label> și <label data-l10n-name="privacy-url">Nota privind confidențialitatea</label>.
+
 ## Add-on Pop-up Notifications
 
 popup-notification-addon-install-unsigned =
     .value = (Neverificat)
 popup-notification-xpinstall-prompt-learn-more = Află mai multe despre instalarea în siguranță a suplimentelor
+popup-notification-xpinstall-prompt-block-url = Vezi detalii
 
 ## Pop-up warning
 
@@ -1041,6 +1079,27 @@ popup-warning-button =
 #   $popupURI (String): the URI for the pop-up window
 popup-show-popup-menuitem =
     .label = Afișează „{ $popupURI }”
+
+## File-picker crash notification ("FilePickerCrashed.sys.mjs")
+
+file-picker-failed-open = Fereastra de dialog pentru fișiere Windows nu a putut fi deschisă. Nu s-a putut alege niciun fișier sau dosar.
+#   $path (string): The full path to which the file will be saved (e.g., 'C:\Users\Default User\Downloads\readme.txt').
+file-picker-failed-save-somewhere = Fereastra de dialog pentru fișiere Windows nu a putut fi deschisă. Fișierul va fi salvat în { $path }.
+file-picker-failed-save-nowhere = Fereastra de dialog pentru fișiere Windows nu a putut fi deschisă. Nu s-a găsit nicio locație implicită; fișierul nu va fi salvat.
+file-picker-crashed-open = Fereastra de dialog pentru fișiere Windows s-a oprit neașteptat. Nu s-a putut alege niciun fișier sau dosar.
+#   $path (string): The full path to which the file will be saved (e.g., 'C:\Users\Default User\Downloads\readme.txt').
+file-picker-crashed-save-somewhere = Fereastra de dialog pentru fișiere Windows s-a oprit neașteptat. Fișierul va fi salvat în { $path }.
+file-picker-crashed-save-nowhere = Fereastra de dialog pentru fișiere Windows s-a oprit neașteptat. Nu s-a găsit nicio locație implicită; fișierul nu va fi salvat.
+
+# Button used with file-picker-crashed-save-default. Opens the folder in Windows
+# Explorer, with the saved file selected and in focus.
+#
+# The wording here should be consistent with the Windows variant of
+# `downloads-cmd-show-menuitem-2` and similar messages.
+
+file-picker-crashed-show-in-folder =
+    .label = Afișează în dosar
+    .accessKey = F
 
 ## Onboarding Finish Setup checklist
 
