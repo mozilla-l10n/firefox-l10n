@@ -51,6 +51,70 @@ browser-main-window-title = { -brand-full-name }
 # The non-variable portion of this MUST match the translation of
 # "PRIVATE_BROWSING_SHORTCUT_TITLE" in custom.properties
 private-browsing-shortcut-text-2 = { -brand-shortcut-name } Navigare privată
+# These are the default window titles everywhere except macOS.
+# .data-title-default and .data-title-private are used when the web content
+# opened has no title:
+#
+# default - "Mozilla Firefox"
+# private - "Mozilla Firefox (Private Browsing)"
+#
+# .data-content-title-default and .data-content-title-private are for use when
+# there *is* a content title.
+#
+# .data-title-default-with-profile, .data-title-private-with-profile,
+# .data-content-title-default-with-profile,
+# .data-content-title-private-with-profile are used when there a
+# SelectableProfileService.current profile exists.
+#
+# Variables:
+#  $content-title (String): the title of the web content.
+#  $profile-name (String): the name of the current profile.
+browser-main-window-titles =
+    .data-title-default = { -brand-full-name }
+    .data-title-private = { -brand-full-name } Navigare privată
+    .data-title-default-with-profile = { $profile-name } — { -brand-full-name }
+    .data-title-private-with-profile = { $profile-name } — { -brand-full-name } Navigare privată
+    .data-content-title-default = { $content-title } — { -brand-full-name }
+    .data-content-title-private = { $content-title } — { -brand-full-name } Navigare privată
+    .data-content-title-default-with-profile = { $content-title } — { $profile-name } — { -brand-full-name }
+    .data-content-title-private-with-profile = { $content-title } — { $profile-name } — { -brand-full-name } Navigare privată
+# These are the default window titles on macOS.
+# .data-title-default and .data-title-private are used when the web content
+# opened has no title:
+#
+#
+# "default" - "Mozilla Firefox"
+# "private" - "Mozilla Firefox — (Private Browsing)"
+#
+# .data-content-title-default and .data-content-title-private are for use when
+# there *is* a content title.
+# Do not use the brand name in these, as we do on non-macOS.
+#
+# .data-title-default-with-profile, .data-title-private-with-profile,
+# .data-content-title-default-with-profile,
+# .data-content-title-private-with-profile are used when there a
+# SelectableProfileService.current profile exists.
+#
+# Also note the other subtle difference here: we use a `-` to separate the
+# brand name from `(Private Browsing)`, which does not happen on other OSes.
+#
+# Variables:
+#  $content-title (String): the title of the web content.
+#  $profile-name (String): the name of the current profile.
+browser-main-window-titles-mac =
+    .data-title-default = { -brand-full-name }
+    .data-title-private = { -brand-full-name } — Navigare privată
+    .data-title-default-with-profile = { $profile-name } — { -brand-full-name }
+    .data-title-private-with-profile = { $profile-name } — { -brand-full-name } Navigare privată
+    .data-content-title-default = { $content-title }
+    .data-content-title-private = { $content-title } — Navigare privată
+    .data-content-title-default-with-profile = { $content-title } — { $profile-name }
+    .data-content-title-private-with-profile = { $content-title } — { $profile-name } — Navigare privată
+# This gets set as the initial title, and is overridden as soon as we start
+# updating the titlebar based on loaded tabs or private browsing state.
+# This should match the `data-title-default` attribute in both
+# `browser-main-window` and `browser-main-window-mac`.
+browser-main-window-default-title = { -brand-full-name }
 
 ##
 
@@ -123,6 +187,32 @@ urlbar-result-menu-remove-from-history =
 urlbar-result-menu-tip-get-help =
     .label = Primește ajutor
     .accesskey = h
+urlbar-result-menu-dismiss-suggestion =
+    .label = Respinge sugestia
+    .accesskey = D
+urlbar-result-menu-learn-more-about-firefox-suggest =
+    .label = Află mai multe despre { -firefox-suggest-brand-name }
+    .accesskey = L
+urlbar-result-menu-manage-firefox-suggest =
+    .label = Gestionează { -firefox-suggest-brand-name }
+    .accesskey = M
+# Some urlbar suggestions show the user's approximate location as automatically
+# detected by Firefox (e.g., weather suggestions), and this menu item lets the
+# user tell Firefox that the location is not accurate. Typically the location
+# will be a city name, or a city name combined with the name of its parent
+# administrative division (e.g., a province, prefecture, or state).
+urlbar-result-menu-report-inaccurate-location =
+    .label = Raportează locație inexactă
+urlbar-result-menu-show-less-frequently =
+    .label = Arată mai rar
+urlbar-result-menu-dont-show-weather-suggestions =
+    .label = Nu afișa sugestii meteo
+# A message shown in the urlbar when the user submits feedback on a suggestion
+# (e.g., it shows an inaccurate location, it's shown too often, etc.).
+urlbar-feedback-acknowledgment = Îți mulțumim pentru feedback
+# A message shown in the urlbar when the user dismisses weather suggestions.
+# Weather suggestions won't be shown at all anymore.
+urlbar-dismissal-acknowledgment-weather = Îți mulțumim pentru feedback. Nu vei mai vedea sugestii meteo de acum înainte.
 
 ## Prompts users to use the Urlbar when they open a new tab or visit the
 ## homepage of their default search engine.
@@ -254,10 +344,17 @@ search-one-offs-actions =
 
 # Opens the about:addons page in the home / recommendations section
 quickactions-addons = Vezi suplimentele
+# In English we provide multiple spellings for "add-ons". If that's not
+# applicable to your language, only use the correct spelling (don't repeat the
+# same word).
+quickactions-cmd-addons3 = extensii, teme, suplimente
 quickactions-cmd-addons2 = suplimente
 # Opens the bookmarks library window
 quickactions-bookmarks2 = Gestionează marcajele
 quickactions-cmd-bookmarks = marcaje
+# Opens a SUMO article explaining how to clear history
+quickactions-clearrecenthistory = Șterge istoricul recent
+quickactions-cmd-clearrecenthistory = șterge istoricul recent, istoric
 # Opens a SUMO article explaining how to clear history
 quickactions-clearhistory = Șterge istoricul
 quickactions-cmd-clearhistory = șterge istoricul
@@ -397,6 +494,7 @@ identity-https-only-info-turn-on2 = Activează modul numai HTTPS pentru acest si
 identity-https-only-info-turn-off2 = Dacă pagina nu pare funcțională, poate vrei să dezactivezi modul HTTPS-Only pentru ca acest site și să se reîncarce folosind HTTP nesigur.
 identity-https-only-info-turn-on3 = Activează îmbunătățirile HTTPS pentru acest site dacă vrei ca { -brand-short-name } să securizeze conexiunea când este posibil.
 identity-https-only-info-turn-off3 = Dacă pagina pare să nu funcționeze corect, ar fi bine să dezactivezi îmbunătățirile HTTPS pentru acest site și să îl reîncarci cu HTTP nesecurizat.
+identity-https-only-info-no-upgrade = Conexiunea este imposibil de securizat.
 identity-permissions-storage-access-header = Cookie-uri inter-site-uri
 identity-permissions-storage-access-hint = Aceste părți pot folosi cookie-uri intersite-uri și date de site-uri web cât timp ești pe acest site.
 identity-permissions-storage-access-learn-more = Află mai multe
@@ -525,6 +623,10 @@ urlbar-search-mode-indicator-close =
 # engine is unknown.
 urlbar-placeholder =
     .placeholder = Caută sau introdu adresa
+# This placeholder is used when not in search mode and searching in the urlbar
+# is disabled via the keyword.enabled pref.
+urlbar-placeholder-keyword-disabled =
+    .placeholder = Introdu adresa
 # This placeholder is used in search mode with search engines that search the
 # entire web.
 # Variables
@@ -604,6 +706,8 @@ urlbar-result-action-visit = Vizitează
 # Variables
 # $container (String): the name of the target container
 urlbar-result-action-switch-tab-with-container = Treci la fila · <span>{ $container }</span>
+# Used when the target tab is in a tab group that doesn't have a label.
+urlbar-result-action-tab-group-unnamed = Grup fără nume
 # Allows the user to visit a URL that was previously copied to the clipboard.
 urlbar-result-action-visit-from-clipboard = Vizitează din clipboard
 # Directs a user to press the Tab key to perform a search with the specified
@@ -633,6 +737,65 @@ urlbar-result-action-copy-to-clipboard = Copiază
 # Variables
 #  $result (String): the string representation for a formula result
 urlbar-result-action-calculator-result = = { $result }
+# The string returned for an undefined calculator result such as when dividing by 0
+urlbar-result-action-undefined-calculator-result = nedefinit
+# Shows the result of a formula expression being calculated, in scientific notation.
+# The last = sign will be shown as part of the result (e.g. "= 1.0e17").
+# Variables
+#  $result (String): the string representation for a result in scientific notation
+#  (e.g. "1.0e17").
+urlbar-result-action-calculator-result-scientific-notation = = { $result }
+# Shows the result of a formula expression being calculated, this is used for numbers >= 1.
+# The last = sign will be shown as part of the result (e.g. "= 2").
+# Variables
+#  $result (String): the string representation for a formula result
+urlbar-result-action-calculator-result-3 = = { NUMBER($result, useGrouping: "false", maximumFractionDigits: 8) }
+# Shows the result of a formula expression being calculated, to a maximum of 9 significant
+# digits. This is used for numbers < 1.
+# The last = sign will be shown as part of the result (e.g. "= 0.333333333").
+# Variables
+#  $result (String): the string representation for a formula result
+urlbar-result-action-calculator-result-decimal = = { NUMBER($result, maximumSignificantDigits: 9) }
+# The title of a weather suggestion in the urlbar. The temperature and unit
+# substring should be inside a <strong> tag. If the temperature and unit are not
+# adjacent in the localization, it's OK to include only the temperature in the
+# tag.
+# Variables:
+#   $temperature (number) - The temperature value
+#   $unit (String) - The unit for the temperature, either "C" or "F"
+#   $city (String) - The name of the city the weather data is for
+#   $region (String) - The name of the city's region or country. Depending on
+#       the user's location in relation to the city, this may be the name or
+#       abbreviation of one of the city's administrative divisions like a
+#       province or state, or it may be the name of the city's country.
+urlbar-result-weather-title = <strong>{ $temperature }°{ $unit }</strong> în { $city }, { $region }
+# The title of a weather suggestion in the urlbar including a region and
+# country. The temperature and unit substring should be inside a <strong> tag.
+# If the temperature and unit are not adjacent in the localization, it's OK to
+# include only the temperature in the tag.
+# Variables:
+#   $temperature (number) - The temperature value
+#   $unit (String) - The unit for the temperature, either "C" or "F"
+#   $city (String) - The name of the city the weather data is for
+#   $region (String) - The name or abbreviation of one of the city's
+#       administrative divisions like a province or state.
+#   $country (String) - The name of the city's country.
+urlbar-result-weather-title-with-country = <strong>{ $temperature }°{ $unit }</strong> în { $city }, { $region }, { $country }
+# The title of a weather suggestion in the urlbar only including the city. The
+# temperature and unit substring should be inside a <strong> tag. If the
+# temperature and unit are not adjacent in the localization, it's OK to include
+# only the temperature in the tag.
+# Variables:
+#   $temperature (number) - The temperature value
+#   $unit (String) - The unit for the temperature, either "C" or "F"
+#   $city (String) - The name of the city the weather data is for
+urlbar-result-weather-title-city-only = <strong>{ $temperature }°{ $unit }</strong> în { $city }
+# Shows the name of the provider of weather data in a weather suggestion in the
+# urlbar.
+# Variables:
+#   $provider (String) - The name of the weather-data provider. It will be the
+#       name of a company, organization, or service.
+urlbar-result-weather-provider-sponsored = { $provider } · Sponsorizat
 
 ## Strings used for buttons in the urlbar
 
@@ -648,6 +811,8 @@ urlbar-result-search-with-local-search-mode = { $keywords } - Caută { $localSea
 #  $keywords (String): the default keyword and user's set keyword if available
 #  $engine (String): the name of a search engine
 urlbar-result-search-with-engine-keywords = { $keywords } - Caută cu { $engine }
+urlbar-searchmode-dropmarker =
+    .tooltiptext = Alege un motor de căutare
 urlbar-searchmode-bookmarks =
     .label = Marcaje
 urlbar-searchmode-tabs =
@@ -656,6 +821,24 @@ urlbar-searchmode-history =
     .label = Istoric
 urlbar-searchmode-actions =
     .label = Acțiuni
+urlbar-searchmode-exit-button =
+    .tooltiptext = Închide
+urlbar-searchmode-default =
+    .tooltiptext = Motor de căutare implicit
+# Label shown on the top of Searchmode Switcher popup. After this label, the
+# available search engines will be listed.
+urlbar-searchmode-popup-description = De data asta caută cu:
+urlbar-searchmode-popup-search-settings-menuitem =
+    .label = Setări de căutare
+# Searchmode Switcher button
+# Variables:
+#   $engine (String): the current default search engine.
+urlbar-searchmode-button2 =
+    .label = { $engine }, alege un motor de căutare
+    .tooltiptext = { $engine }, alege un motor de căutare
+urlbar-searchmode-button-no-engine =
+    .label = Nicio comandă rapidă selectată, alege o comandă rapidă
+    .tooltiptext = Nicio comandă rapidă selectată, alege o comandă rapidă
 
 ## Action text shown in urlbar results, usually appended after the search
 ## string or the url, like "result value - action text".
@@ -665,9 +848,19 @@ urlbar-result-action-search-bookmarks = Caută în marcaje
 urlbar-result-action-search-history = Caută în istoric
 urlbar-result-action-search-tabs = Caută file
 urlbar-result-action-search-actions = Acțiuni de căutare
+# Label for a quickaction result used to switch to an open tab group.
+#  $group (String): the name of the tab group to switch to
+urlbar-result-action-switch-to-tabgroup = Comută pe { $group }
+# Label for a quickaction result used to re-opan a saved tab group.
+#  $group (String): the name of the tab group to re-open
+urlbar-result-action-open-saved-tabgroup = Deschide { $group }
 
 ## Labels shown above groups of urlbar results
 
+# A label shown above the "Firefox Suggest" (bookmarks/history) group in the
+# urlbar results.
+urlbar-group-firefox-suggest =
+    .label = { -firefox-suggest-brand-name }
 # A label shown above the search suggestions group in the urlbar results. It
 # should use sentence case.
 # Variables
@@ -687,6 +880,9 @@ urlbar-group-recent-searches =
 #  $engine (String): the name of the search engine providing the trending suggestions
 urlbar-group-trending =
     .label = În tendințe pe { $engine }
+# Label shown above sponsored suggestions in the urlbar results.
+urlbar-group-sponsored =
+    .label = Sponsorizat
 # The result menu labels shown next to trending results.
 urlbar-result-menu-trending-dont-show =
     .label = Nu afișa căutări în tendințe
@@ -696,7 +892,7 @@ urlbar-result-menu-trending-why =
     .accesskey = W
 # A message that replaces a result when the user dismisses all suggestions of a
 # particular type.
-urlbar-trending-dismissal-acknowledgment = Îți mulțumim pentru feedback. Nu vei mai vedea căutări în tendințe de-acum încolo.
+urlbar-trending-dismissal-acknowledgment = Îți mulțumim pentru feedback. Nu vei mai vedea căutări în tendințe de acum înainte.
 
 ## Reader View toolbar buttons
 
@@ -883,6 +1079,9 @@ panel-save-update-password = Parolă
 # "More" item in macOS share menu
 menu-share-more =
     .label = Mai multe…
+menu-share-copy-link =
+    .label = Copiază linkul
+    .accesskey = L
 ui-tour-info-panel-close =
     .tooltiptext = Închide
 
@@ -930,6 +1129,8 @@ navbar-accessible =
     .aria-label = Navigare
 navbar-downloads =
     .label = Descărcări
+navbar-overflow-2 =
+    .tooltiptext = Mai multe instrumente
 navbar-overflow =
     .tooltiptext = Mai multe instrumente…
 # Variables:
@@ -974,12 +1175,18 @@ data-reporting-notification-button =
     .accesskey = C
 # Label for the indicator shown in the private browsing window titlebar.
 private-browsing-indicator-label = Navigare privată
+# Tooltip for the indicator shown in the private browsing window titlebar.
+private-browsing-indicator-tooltip =
+    .tooltiptext = Navigare privată
 # Tooltip for the indicator shown in the window titlebar when content analysis is active.
 # Variables:
 #   $agentName (String): The name of the DLP agent that is connected
 content-analysis-indicator-tooltip =
     .tooltiptext = Prevenirea pierderilor de date (PPD) de la { $agentName }. Dă clic pentru mai multe informații.
 content-analysis-panel-title = Protecția datelor
+# Variables:
+#   $agentName (String): The name of the DLP agent that is connected
+content-analysis-panel-text-styled = Organizația ta folosește <b>{ $agentName }</b> pentru protecție împotriva pierderilor de date. <a data-l10n-name="info">Află mai multe</a>
 
 ## Unified extensions (toolbar) button
 
@@ -1004,6 +1211,15 @@ unified-extensions-button-quarantined =
     .tooltiptext =
         Extensii
         Unele extensii nu sunt permise
+
+## Unified extensions button when some extensions are disabled (e.g. through add-ons blocklist).
+## Note that the new line is intentionally part of the tooltip.
+
+unified-extensions-button-blocklisted =
+    .label = Extensii
+    .tooltiptext =
+        Extensii
+        Unele extensii sunt dezactivate
 
 ## Private browsing reset button
 
@@ -1045,6 +1261,15 @@ popup-notification-addon-install-unsigned =
     .value = (Neverificat)
 popup-notification-xpinstall-prompt-learn-more = Află mai multe despre instalarea în siguranță a suplimentelor
 popup-notification-xpinstall-prompt-block-url = Vezi detalii
+# Note: Access key is set to p to match "private" in the corresponding localized label.
+popup-notification-addon-privatebrowsing-checkbox2 =
+    .label = Permite acestei extensii să ruleze în ferestre private
+    .accesskey = P
+# This string is similar to `webext-perms-description-data-long-technicalAndInteraction`
+# but it is used in the install prompt, and it needs an access key.
+popup-notification-addon-technical-and-interaction-checkbox =
+    .label = Partajează date tehnice și de interacțiune cu dezvoltatorul extensiei
+    .accesskey = S
 
 ## Pop-up warning
 

@@ -44,6 +44,12 @@ appmenu-addon-private-browsing-installed2 =
     .buttonlabel = OK
     .buttonaccesskey = O
 appmenu-addon-post-install-message3 = Gestionează-ți suplimentele și temele prin meniul aplicației.
+# This string is used in the confirmation popup displayed after an extension
+# has been installed, when the data collection feature is enabled.
+appmenu-addon-post-install-message-with-data-collection = Actualizează permisiunile și preferințele privind datele oricând în <a data-l10n-name="settings-link">setările extensiei</a>.
+appmenu-addon-post-install-pin-toolbarbutton-checkbox =
+    .label = Fixează extensia în bara de instrumente
+    .accesskey = P
 appmenu-addon-post-install-incognito-checkbox =
     .label = Permite acestei extensii să ruleze în ferestre private
     .accesskey = A
@@ -52,6 +58,12 @@ appmenu-new-tab-controlled-changes =
     .buttonlabel = Păstrează modificările
     .buttonaccesskey = K
     .secondarybuttonlabel = Administrează file noi
+    .secondarybuttonaccesskey = M
+appmenu-homepage-controlled-changes =
+    .label = Pagina ta de start s-a schimbat.
+    .buttonlabel = Păstrează modificările
+    .buttonaccesskey = K
+    .secondarybuttonlabel = Gestionează setările paginii de start
     .secondarybuttonaccesskey = M
 appmenu-tab-hide-controlled =
     .label = Accesează filele ascunse

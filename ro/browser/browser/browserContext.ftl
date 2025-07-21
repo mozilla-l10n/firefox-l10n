@@ -160,6 +160,15 @@ main-context-menu-copy-phone =
 main-context-menu-copy-link-simple =
     .label = Copiază linkul
     .accesskey = L
+main-context-menu-preview-link =
+    .label = Previzualizează linkul
+    .accesskey = r
+# "Copy Clean Link" means that Firefox will remove things from the link you
+# copied, like items that identify you for advertising purposes, and other items
+# sites add into URLs to help them deliver a certain browsing experience.
+main-context-menu-copy-clean-link =
+    .label = Copiază linkul curat
+    .accesskey = u
 # This command copies the link, removing additional
 # query parameters used to track users across sites.
 main-context-menu-strip-on-share-link =
@@ -315,6 +324,9 @@ main-context-menu-manage-passwords =
 main-context-menu-keyword =
     .label = Adaugă un cuvânt-cheie pentru această căutare…
     .accesskey = K
+main-context-menu-add-engine =
+    .label = Adaugă motor de căutare
+    .accesskey = S
 main-context-menu-link-send-to-device =
     .label = Trimite linkul către un dispozitiv
     .accesskey = n
@@ -333,6 +345,9 @@ main-context-menu-frame-open-window =
 main-context-menu-frame-reload =
     .label = Reîncarcă cadrul
     .accesskey = R
+main-context-menu-frame-add-bookmark =
+    .label = Marchează cadrul...
+    .accesskey = m
 main-context-menu-frame-save-as =
     .label = Salvează cadrul ca…
     .accesskey = F
