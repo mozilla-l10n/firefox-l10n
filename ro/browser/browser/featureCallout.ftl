@@ -82,6 +82,9 @@ bookmarks-toolbar-callout-1-secondary-button-label = Nu, mulțumesc
 # Visible if user adds a bookmark in callout 1, bookmarks toolbar is set to always show when this message renders
 bookmarks-toolbar-callout-2a-title = Adaugi cu ușurință mai multe marcaje
 bookmarks-toolbar-callout-2a-subtitle = Poți trage și plasa file aici pentru a avea la îndemână mai multe dintre site-urile tale preferate.
+bookmarks-toolbar-callout-2a-primary-button-label = Am înțeles
+# Reverts the bookmarks toolbar to the default setting
+bookmarks-toolbar-callout-2a-secondary-button-label = Ascunde bara de instrumente
 # Visible if user declines to add a bookmark in callout 1, bookmarks toolbar is set to always show when this message renders
 bookmarks-toolbar-callout-2b-title = Păstrezi bara de instrumente cu marcaje deschisă?
 bookmarks-toolbar-callout-2b-subtitle = Poți adăuga alte site-uri pe care intri mai des. Pur și simplu trage și plasează filele aici pentru a avea site-urile web preferate la îndemână.
@@ -106,6 +109,8 @@ perplexity-callout-secondary-label-2 = Am înțeles
 # Suggestion to backup passwords by signing up for Mozilla account and using sync
 fxa-adoption-passwords-title = Parolă salvată. Hai să facem o copie de rezervă.
 fxa-adoption-passwords-subtitle = Protejează-ți parolele sincronizându-le cu dispozitivele tale prin criptare.
+# Opens Mozilla accounts sign-up page
+fxa-adoption-passwords-primary-button-label = Înregistrează-te
 
 ## Sidebar Strings
 
@@ -116,6 +121,8 @@ sidebar-button-callout-vertical-tabs = Pentru afișarea filelor, selectează but
 ## Sidebar Vertical Tabs Strings
 
 vertical-tabs-callout-1-title = Copleșit(ă) de prea multe file?
+vertical-tabs-callout-1-cta-button = Încearcă filele verticale
+vertical-tabs-callout-2-cta-button = Încearcă acum
 vertical-tabs-callout-2-title = Păstrezi multe file deschise? Încearcă filele verticale.
 vertical-tabs-callout-2-subtitle = Această dispunere facilitează scanarea rapidă a listei de file. În plus, poți ajusta lățimea ca să vezi mai multe sau mai puține titluri de file.
 
@@ -124,6 +131,12 @@ vertical-tabs-callout-2-subtitle = Această dispunere facilitează scanarea rapi
 sidebar-pins-callout-title = Ai pierdut evidența filelor importante?
 sidebar-pins-callout-subtitle = Încearcă să le fixezi - le ține în partea de sus a listei de file. Dă clic dreapta pe o filă pe care vrei să o fixezi, apoi alege Fixează fila.
 sidebar-pins-callout-cta-button = Fixează fila
+
+## Pinning Tabs Strings
+
+pin-tabs-callout-1-title = Ții la îndemână filele importante
+pin-tabs-callout-cta-1-button = Fixează această filă
+pin-tabs-callout-2-title = Fixează filele pe care intri cel mai des
 
 ## Sidebar Onboarding Strings
 
@@ -142,6 +155,8 @@ sidebar-callout-survey-privacy-notice-link = Notificare privind confidențialita
 sidebar-callout-survey-very-satisfied = Foarte mulțumit(ă)
 sidebar-callout-survey-satisfied = Mulțumit(ă)
 sidebar-callout-survey-neutral = Neutru(ă)
+sidebar-callout-survey-dissatisfied-2 = Nemulţumit(ă)
+sidebar-callout-survey-very-dissatisfied-2 = Foarte nemulțumit(ă)
 sidebar-callout-survey-dont-use-it = Nu îl folosesc
 sidebar-callout-survey-productive-question =
     În ce măsură ești de acord sau nu cu această afirmație:<br/>
@@ -153,9 +168,17 @@ sidebar-callout-survey-strongly-disagree = Nu sunt deloc de acord
 sidebar-callout-survey-features-question = Ai mai jos funcționalitățile posibile din bara laterală. Care dintre ele ți-ar îmbunătăți cel mai mult productivitatea în { -brand-short-name }?
 sidebar-callout-survey-split-view = Vizualizează oricare două site-uri web simultan, juxtapuse într-o vizualizare divizată
 sidebar-callout-survey-keep-website-open = Păstrează un site web, cum ar fi e-mailul sau calendarul, deschis în bara laterală în timp ce navighezi
+sidebar-callout-survey-saved-websites-2 = Acces rapid la marcaje
+sidebar-callout-survey-none-of-above = Niciuna din cele de mai sus
 sidebar-callout-survey-submit = Trimite
 sidebar-callout-survey-thank-you = Îți mulțumim pentru feedback!
 sidebar-genai-survey-satisfaction-question = Cât de mulțumit(ă) ești de accesul la un chatbot IA în bara laterală?
 sidebar-genai-survey-productive-question =
     În ce măsură ești de acord sau nu cu această afirmație:<br/>
     „Chatbotul IA din bara laterală mă ajută să fiu mai productiv(ă)”?
+unified-search-callout-title = Comută între motoarele de căutare
+unified-search-callout-subtitle = Alege ce funcționează cel mai bine pentru căutarea ta specifică.
+unified-search-callout-primary-label = Înainte
+unified-search-callout-secondary-label = Respinge
+unified-search-engines-callout-title = Caută cu o comandă rapidă
+unified-search-engines-callout-primary-label = Am înțeles
