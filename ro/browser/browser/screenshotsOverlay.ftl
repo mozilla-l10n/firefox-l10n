@@ -3,3 +3,6 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 screenshots-overlay-cancel-button = Anulează
+screenshots-overlay-instructions = Trage sau dă clic pe pagină pentru a selecta o regiune. Apasă ESC pentru anulare.
+screenshots-overlay-download-button = Descarcă
+screenshots-overlay-copy-button = Copiază
