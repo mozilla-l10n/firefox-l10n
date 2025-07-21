@@ -74,7 +74,7 @@ appmenuitem-fullscreen =
 ## Firefox Account toolbar button and Sync panel in App menu.
 
 appmenu-remote-tabs-sign-into-sync =
-    .label = Autentifică-te pentru sincronizare…
+    .label = Intră în cont pentru sincronizare…
 appmenu-remote-tabs-turn-on-sync =
     .label = Activează sincronizarea…
 # This is shown after the tabs list if we can display more tabs by clicking on the button
@@ -99,7 +99,7 @@ appmenu-remote-tabs-connectdevice =
 appmenu-remote-tabs-welcome = Afișează o listă cu filele de pe celelalte dispozitive.
 appmenu-remote-tabs-unverified = Contul tău trebuie verificat.
 appmenuitem-fxa-toolbar-sync-now2 = Sincronizează acum
-appmenuitem-fxa-sign-in = Autentifică-te în { -brand-product-name }
+appmenuitem-fxa-sign-in = Intră în contul { -brand-product-name }
 appmenuitem-fxa-manage-account = Gestionează contul
 appmenu-fxa-header2 = { -fxaccount-brand-name(case: "indefinite-article", capitalization: "upper") }
 appmenu-account-header = Cont
@@ -109,7 +109,7 @@ appmenu-account-header = Cont
 appmenu-fxa-last-sync = Ultima sincronizare { $time }
     .label = Ultima sincronizare { $time }
 appmenu-fxa-sync-and-save-data2 = Sincronizează și salvează datele
-appmenu-fxa-signed-in-label = Autentifică-te
+appmenu-fxa-signed-in-label = Intră în cont
 appmenu-fxa-setup-sync =
     .label = Activează sincronizarea…
 appmenu-fxa-setup-sync-new = Activează

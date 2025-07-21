@@ -62,7 +62,7 @@ pocket-panel-home-new-user-message = Vezi aici salvările tale recente.
 ## Pocket panel header component
 
 pocket-panel-header-my-saves = Afișează salvările mele
-pocket-panel-header-sign-in = Autentificare
+pocket-panel-header-sign-in = Intră în cont
 
 ## Pocket panel buttons
 

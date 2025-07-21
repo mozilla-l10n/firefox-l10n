@@ -34,6 +34,7 @@ firefoxview-tabpickup-step-signin-description = Ca să preiei filele de pe telef
 firefoxview-tabpickup-step-signin-primarybutton = Continuă
 firefoxview-syncedtabs-signin-header-2 = Al tău { -brand-product-name } pe toate dispozitivele
 firefoxview-syncedtabs-signin-description-2 = Pentru a vedea filele pe care le-ai deschis pe telefon și pe alte dispozitive, autentifică-te sau creează un cont. Cu un cont, poți sincroniza și parolele, istoricul și multe altele.
+firefoxview-syncedtabs-signin-primarybutton-2 = Intră în cont
 firefoxview-syncedtabs-signin-header = Preia file de oriunde
 firefoxview-syncedtabs-signin-description = Pentru a-ți vedea filele de oriunde folosești { -brand-product-name }, intră în cont. Dacă nu ai un cont, te vom ajuta să îți creezi unul.
 firefoxview-syncedtabs-signin-primarybutton = Autentificare sau creare cont

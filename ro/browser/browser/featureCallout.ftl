@@ -71,7 +71,7 @@ split-dismiss-button-default-label =
 # The 'account icon' is the toolbar button with a 'profile' icon of a human
 # head/shoulders. It's for dealing with your Mozilla account. When hovering the
 # icon, the tooltip says 'Account'.
-login-status-advisory-title = Ești deconectat(ă). Dă clic pe pictograma contului pentru a intra iar în cont.
+login-status-advisory-title = Ai ieșit din cont. Dă clic pe pictograma contului pentru a intra iar în cont.
 
 ## Bookmarks toolbar callout strings
 
@@ -142,6 +142,7 @@ pin-tabs-callout-2-title = Fixează filele pe care intri cel mai des
 pin-tabs-callout-2-subtitle = Ca să fixezi orice filă, trage-o la începutul benzii de file. Sau dă clic dreapta și alege Fixează fila.
 pin-tabs-callout-cta-2-button = Fixează această filă
 pin-tabs-callout-3-title = Ții la îndemână site-urile importante
+pin-tabs-callout-4-title = Fixezi site-urile pe care intri cel mai des
 
 ## Sidebar Onboarding Strings
 

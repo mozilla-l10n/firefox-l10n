@@ -16,7 +16,7 @@ about-logins-login-filter2 =
 create-login-button =
     .title = Adaugă o parolă
 fxaccounts-sign-in-text = Obține parolele de pe celelalte dispozitive
-fxaccounts-sign-in-sync-button = Autentifică-te pentru a sincroniza
+fxaccounts-sign-in-sync-button = Intră în cont pentru sincronizare
 fxaccounts-avatar-button =
     .title = Gestionează contul
 
@@ -110,10 +110,10 @@ about-logins-list-section-week = Ultimele 7 zile
 about-logins-login-intro-heading-logged-out2 = Cauți datele de autentificare salvate? Activează sincronizarea sau importează-le.
 about-logins-login-intro-heading-logged-in = Nu am găsit date de autentificare sincronizate.
 login-intro-description = Dacă ți-ai salvat datele de autentificare în { -brand-product-name } pe un alt dispozitiv, iată cum le poți aduce aici:
-login-intro-instructions-fxa = Creează un cont sau autentifică-te în { -fxaccount-brand-name(case: "definite-article") } de pe dispozitivul pe care ai salvat datele de autentificare.
+login-intro-instructions-fxa = Fă-ți un cont sau intră în contul { -fxaccount-brand-name(case: "definite-article") } de pe dispozitivul pe care ai salvat datele de autentificare.
 about-logins-login-intro-heading-message = Salvează-ți parolele într-un loc sigur
 login-intro-description2 = Toate parolele pe care le salvezi în { -brand-product-name } sunt criptate. În plus, suntem atenți la încălcarea securității datelor și te alertăm dacă te afectează. <a data-l10n-name="breach-alert-link">Află mai multe</a>
-login-intro-instructions-fxa2 = Creează sau intră în contul tău pe dispozitivul în care sunt salvate datele tale de autentificare.
+login-intro-instructions-fxa2 = Fă-ți un cont sau intră în contul tău de pe dispozitivul pe care sunt salvate datele tale de autentificare.
 login-intro-instructions-fxa-settings = Mergi la Setări > Sincronizare > Activează sincronizarea… Bifează caseta de selectare Date de autentificare și parole.
 login-intro-instructions-fxa-passwords-help = Vizitează <a data-l10n-name="passwords-help-link">asistența pentru parole</a> pentru mai mult ajutor.
 about-logins-intro-browser-only-import = Dacă datele tale de autentificare sunt salvate în alt browser, le poți<a data-l10n-name="import-link">importa în { -brand-product-name }</a>
