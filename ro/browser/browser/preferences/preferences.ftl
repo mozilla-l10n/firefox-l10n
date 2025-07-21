@@ -634,7 +634,7 @@ containers-remove-button =
 sync-signedout-caption = Ia webul cu tine
 sync-signedout-description2 = Sincronizează marcajele, istoricul, filele, parolele, suplimentele și setările pe toate dispozitivele.
 sync-signedout-account-signin3 =
-    .label = Autentifică-te pentru sincronizare…
+    .label = Intră în cont pentru sincronizare…
     .accesskey = i
 # This message contains two links and two icon images.
 #   `<img data-l10n-name="android-icon"/>` - Android logo icon
@@ -674,7 +674,7 @@ sync-remove-account =
     .label = Elimină contul
     .accesskey = R
 sync-sign-in =
-    .label = Autentifică-te
+    .label = Intră în cont
     .accesskey = g
 
 ## Sync section - enabling or disabling sync.
@@ -813,6 +813,9 @@ forms-saved-logins =
 forms-primary-pw-use =
     .label = Folosește o parolă primară
     .accesskey = U
+# This operation requires the user to authenticate with the operating system (device sign-in)
+forms-os-reauth =
+    .label = Necesită să intri în cont pe dispozitiv ca să completezi și să gestionezi parole
 forms-primary-pw-learn-more-link = Află mai multe
 # This string uses the former name of the Primary Password feature
 # ("Master Password" in English) so that the preferences can be found
@@ -844,6 +847,12 @@ primary-password-os-auth-dialog-message-win = Pentru a crea o parolă primară, 
 # notes are only valid for English. Please test in your locale.
 primary-password-os-auth-dialog-message-macosx = creează o parolă primară
 master-password-os-auth-dialog-caption = { -brand-full-name }
+# The macOS string is preceded by the operating system with "Firefox is trying to ".
+autofill-creditcard-os-dialog-message =
+    { PLATFORM() ->
+        [macos] schimbă modificările pentru metodele de plată
+       *[other] { -brand-short-name } încearcă să modifice setările pentru metodele de plată. Intră în cont pe dispozitiv ca să permiți acțiunea.
+    }
 
 ## Privacy section - Autofill
 
@@ -853,6 +862,9 @@ autofill-payment-methods-checkbox-submessage = Include carduri de credit și de 
     .accesskey = I
 autofill-saved-payment-methods-button = Metode de plată salvate
     .accesskey = v
+# This operation requires the user to authenticate with the operating system (device sign-in)
+autofill-reauth-payment-methods-checkbox = Trebuie să intri în cont pe dispozitiv ca să completezi și să gestionezi metode de plată
+    .accesskey = o
 
 ## Privacy Section - History
 
@@ -937,12 +949,6 @@ sitedata-settings =
 sitedata-cookies-exceptions =
     .label = Gestionează excepțiile…
     .accesskey = x
-
-## Privacy Section - Cookie Banner Handling
-
-
-## Privacy Section - Cookie Banner Blocking
-
 
 ## Privacy Section - Address Bar
 
@@ -1127,9 +1133,6 @@ collection-backlogged-crash-reports-with-link = Permite ca { -brand-short-name }
     .accesskey = c
 collection-backlogged-crash-reports = Permite ca { -brand-short-name } să trimită în numele tău rapoarte de defecțiuni înregistrate în jurnal
     .accesskey = c
-
-## Privacy Section - Website Advertising Preferences
-
 
 ## Privacy Section - Security
 ##

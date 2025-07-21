@@ -12,7 +12,7 @@
 ##  $host (String): the hostname of the site that is being displayed.
 ##  $provider (String): the hostname of another website you are using to log in to the site being displayed
 
-identity-credential-header-providers = Autentifică-te cu un furnizor de autentificare
+identity-credential-header-providers = Intră în cont cu un furnizor de autentificare
 identity-credential-header-accounts = Autentifică-te cu { $provider }
 identity-credential-urlbar-anchor =
     .tooltiptext = Deschide panoul de autentificare

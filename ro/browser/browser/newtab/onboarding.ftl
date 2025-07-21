@@ -40,6 +40,8 @@ mr1-return-to-amo-subtitle = Salută { -brand-short-name }
 
 # This button will open system settings to turn on prefers-reduced-motion
 mr1-onboarding-reduce-motion-button-label = Dezactivează animațiile
+# String for the Firefox Accounts button
+mr1-onboarding-sign-in-button-label = Autentificare
 # The primary import button label will depend on whether we can detect which browser was used to download Firefox.
 # Variables:
 #   $previous (Str) - Previous browser name, such as Edge, Chrome
@@ -124,9 +126,6 @@ mr2022-onboarding-pin-primary-button-label =
        *[other] Fixează { -brand-short-name } în bara de activități
     }
 
-## MR2022 Existing User Pin Firefox Screen Strings
-
-
 ## MR2022 New User Set Default screen strings
 
 # This string is the title used when the user already has pinned the browser, but has not set default.
@@ -134,11 +133,6 @@ mr2022-onboarding-set-default-title = Desemnează { -brand-short-name } drept br
 # When translating "zip", please feel free to pick a verb that signifies movement and/or exploration
 # and makes sense in the context of navigating the web.
 mr2022-onboarding-set-default-subtitle = Folosește un browser susținut de o organizație non-profit. Îți apărăm confidențialitatea în timp ce navighezi pe web.
-
-## MR2022 Get Started screen strings.
-## These strings will be used on the welcome page
-## when Firefox is already set to default and pinned.
-
 
 ## MR2022 Get Started screen strings.
 ## These strings will be used on the welcome page
@@ -172,44 +166,28 @@ mr2022-upgrade-onboarding-pin-private-window-primary-button-label =
        *[other] Fixează navigarea privată { -brand-short-name } în bara de activități
     }
 
-## MR2022 Privacy Segmentation screen strings
-
-
 ## MR2022 Multistage Gratitude screen strings
 
 mr2022-onboarding-gratitude-title = Ne ajuți să construim un web mai bun
 mr2022-onboarding-gratitude-subtitle = Îți mulțumim că folosești { -brand-short-name }, susținut de Mozilla Foundation. Cu sprijinul tău, ne străduim să facem internetul mai deschis, mai accesibil și mai bun pentru toată lumea.
 mr2022-onboarding-gratitude-secondary-button-label = Începe să navighezi
 
-## Onboarding spotlight for infrequent users
-
-
-## MR2022 Illustration alt tags
-## Descriptive tags for illustrations used by screen readers and other assistive tech
-
-
 ## Device migration onboarding
 
-
-## Add-ons Picker screen
-
+onboarding-device-migration-subtitle = Intră în contul tău { -fxaccount-brand-name(capitalization: "sentence") } ca să îți aduci marcajele, parolele și istoricul pe dispozitivul nou.
+onboarding-device-migration-subtitle2 = Intră în contul tău ca să îți aduci marcajele, parolele și istoricul pe dispozitivul nou.
+onboarding-device-migration-primary-button-label = Autentificare
 
 ## The following screens have been updated to use security and privacy focused strings:
 
 # Easy setup screen
 onboarding-easy-setup-security-and-privacy-title = Ne place să te protejăm
-
-## New user time and familiarity survey strings
-
-
-## UI strings for the sidebar and vertical tabs
-
+onboarding-sign-up-description = Fă-ți un cont și toate informațiile tale importante — parole, marcaje și multe altele — vor fi stocate în siguranță și vor fi disponibile când te autentifici de pe orice dispozitiv.
+onboarding-sign-up-button = Fă-ți un cont sau intră în cont
 
 ## New user onboarding checklist
 
-
-## Tab Groups feature onboarding strings
-
+onboarding-checklist-sign-up = Fă-ți un cont sau intră în contul tău
 
 ## Multi Profiles feature onboarding messages
 
@@ -217,6 +195,3 @@ multi-profile-spotlight-title = Fă cunoștință cu profilurile { -brand-produc
 multi-profile-spotlight-cta = Creează un profil
 multi-profile-callout-title = Creează profiluri diferite pentru muncă și distracție
 multi-profile-callout-cta = Creează un profil
-
-## Desktop to Mobile Adoption feature callout strings
-

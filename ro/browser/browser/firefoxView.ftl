@@ -33,17 +33,18 @@ firefoxview-tabpickup-step-signin-header = Treci fără întreruperi de la un di
 firefoxview-tabpickup-step-signin-description = Ca să preiei filele de pe telefon, intră în cont sau creează-ți un cont.
 firefoxview-tabpickup-step-signin-primarybutton = Continuă
 firefoxview-syncedtabs-signin-header-2 = Al tău { -brand-product-name } pe toate dispozitivele
-firefoxview-syncedtabs-signin-description-2 = Pentru a vedea filele pe care le-ai deschis pe telefon și pe alte dispozitive, autentifică-te sau creează un cont. Cu un cont, poți sincroniza și parolele, istoricul și multe altele.
+firefoxview-syncedtabs-signin-description-2 = Ca să vezi filele deschise pe telefon și pe alte dispozitive, intră în cont sau fă-ți un cont. Cu un cont, poți sincroniza și parolele, istoricul și multe altele.
 firefoxview-syncedtabs-signin-primarybutton-2 = Intră în cont
 firefoxview-syncedtabs-signin-header = Preia file de oriunde
-firefoxview-syncedtabs-signin-description = Pentru a-ți vedea filele de oriunde folosești { -brand-product-name }, intră în cont. Dacă nu ai un cont, te vom ajuta să îți creezi unul.
-firefoxview-syncedtabs-signin-primarybutton = Autentificare sau creare cont
+firefoxview-syncedtabs-signin-description = Ca să îți vezi filele de oriunde folosești { -brand-product-name }, intră în cont. Dacă nu ai un cont, te vom ajuta să îți faci unul.
+firefoxview-syncedtabs-signin-primarybutton = Intră în cont sau fă-ți un cont
 firefoxview-tabpickup-adddevice-header = Sincronizează { -brand-product-name } pe telefon sau tabletă
-firefoxview-tabpickup-adddevice-description = Descarcă { -brand-product-name } pe mobil și autentifică-te.
+firefoxview-tabpickup-adddevice-description = Descarcă { -brand-product-name } pe mobil și intră în cont.
 firefoxview-tabpickup-adddevice-learn-how = Află cum
 firefoxview-tabpickup-adddevice-primarybutton = Obține { -brand-product-name } pentru mobil
-firefoxview-syncedtabs-adddevice-header = Autentifică-te în { -brand-product-name } pe celelalte dispozitive
-firefoxview-syncedtabs-adddevice-description = Ca să îți vezi filele de oriunde folosești { -brand-product-name }, autentifică-te pe toate dispozitivele. Află cum poți <a data-l10n-name="url">conecta dispozitive suplimentare</a>.
+firefoxview-syncedtabs-adddevice-description-2 = Intră în contul tău { -brand-product-name } pe telefon sau alt calculator ca să vezi filele aici. Află cum să <a data-l10n-name="url">conectezi alte dispozitive</a>.
+firefoxview-syncedtabs-adddevice-header = Intră în contul tău { -brand-product-name } pe celelalte dispozitive
+firefoxview-syncedtabs-adddevice-description = Ca să îți vezi filele de oriunde folosești { -brand-product-name }, intră în cont pe toate dispozitivele. Află cum poți <a data-l10n-name="url">conecta alte dispozitive</a>.
 firefoxview-syncedtabs-adddevice-primarybutton = Încearcă { -brand-product-name } pe mobil
 firefoxview-tabpickup-synctabs-header = Pornește sincronizarea filelor
 firefoxview-tabpickup-synctabs-description = Permite { -brand-short-name } să partajeze file între dispozitive.
@@ -74,10 +75,10 @@ firefoxview-syncedtab-password-locked-link = <a data-l10n-name="syncedtab-passwo
 firefoxview-tabpickup-signed-out-header = Intră în cont pentru reconectare
 firefoxview-tabpickup-signed-out-description = Pentru reconectare și preluarea filelor, intră în contul tău { -fxaccount-brand-name }.
 firefoxview-tabpickup-signed-out-description2 = Pentru reconectare și preluarea filelor, intră în contul tău.
-firefoxview-tabpickup-signed-out-primarybutton = Autentificare
+firefoxview-tabpickup-signed-out-primarybutton = Intră în cont
 firefoxview-tabpickup-syncing = Ai răbdare până sincronizăm filele. Nu va dura mult.
 firefoxview-mobile-promo-header = Preia filele de pe telefon sau tabletă.
-firefoxview-mobile-promo-description = Pentru a-ți vedea filele recente de pe mobil, autentifică-te în { -brand-product-name } pe iOS sau Android
+firefoxview-mobile-promo-description = Pentru a-ți vedea filele recente de pe mobil, intră în contul tău { -brand-product-name } pe iOS sau Android
 firefoxview-mobile-promo-primarybutton = Obține { -brand-product-name } pentru mobil
 firefoxview-mobile-confirmation-header = 🎉Gata de acțiune!
 firefoxview-mobile-confirmation-description = Acum îți poți prelua filele { -brand-product-name } de pe telefon sau tabletă.

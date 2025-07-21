@@ -51,6 +51,7 @@ item-history-and-downloads =
 item-cookies =
     .label = Cookie-urile
     .accesskey = C
+item-cookies-site-data-description = Este posibil să te deconecteze de la site-uri sau să îți golească coșurile de cumpărături
 item-active-logins =
     .label = Autentificările active
     .accesskey = L

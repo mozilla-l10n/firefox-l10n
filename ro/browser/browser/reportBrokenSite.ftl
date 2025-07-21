@@ -4,4 +4,8 @@
 
 report-broken-site-panel-reason-choose =
     .label = Alege un motiv
+report-broken-site-panel-reason-account2 =
+    .label = Imposibil de intrat în cont sau de creat un cont nou
+report-broken-site-panel-reason-account =
+    .label = Intră în cont sau ieși din cont
 report-broken-site-panel-missing-reason-label = Te rugăm să alegi un motiv

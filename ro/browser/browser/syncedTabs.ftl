@@ -57,3 +57,4 @@ synced-tabs-context-manage-devices =
 synced-tabs-context-sync-now =
     .label = Sincronizează acum
     .accesskey = S
+synced-tabs-fxa-sign-in = Intră în cont pentru sincronizare

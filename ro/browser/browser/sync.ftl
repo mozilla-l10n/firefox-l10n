@@ -30,9 +30,13 @@ fxa-menu-send-tab-to-device =
 fxa-menu-send-tab-to-device-syncnotready =
     .label = Se sincronizează dispozitivele…
 # This is shown within "Send tab to device" in fxa menu if account is not configured.
-fxa-menu-send-tab-to-device-description = Trimite o filă instantaneu oricărui dispozitiv pe care te-ai autentificat.
+fxa-menu-send-tab-to-device-description = Trimite o filă instantaneu pe orice dispozitiv pe care ești autentificat în cont.
 fxa-menu-sign-out =
     .label = Deconectează-te…
+fxa-avatar-sign-in = Intră în cont
+fxa-avatar-tooltip =
+    .tooltiptext = Intră în cont
+sync-setup-verify-heading = Sigur vrei să intri în cont pentru sincronizare?
 
 ## Sync warning strings that support the browser profiles feature, these will be shown when the user might be merging data
 

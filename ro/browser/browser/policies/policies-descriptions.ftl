@@ -108,3 +108,5 @@ policy-UserMessaging = Nu afișa anumite mesaje utilizatorului.
 # “format” refers to the format used for the value of this policy.
 policy-WebsiteFilter = Blochează intrarea pe site-uri web. Vezi documentația pentru detalii suplimentare despre format.
 policy-Windows10SSO = Permite conectarea unică Windows pentru conturile Microsoft, de la locul de muncă sau de la școală.
+# Entra is the name of a Microsoft product.
+policy-MicrosoftEntraSSO = Permite autentificarea unică pentru conturi Microsoft Entra.

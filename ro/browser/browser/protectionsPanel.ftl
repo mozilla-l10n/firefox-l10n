@@ -29,12 +29,6 @@ protections-panel-site-not-working = Site-ul nu funcționează?
 protections-panel-site-not-working-view =
     .title = Site-ul nu funcționează?
 
-## Text for the toggles shown when ETP is enabled/disabled for a given site.
-## .description is transferred into a separate paragraph by the moz-toggle
-## custom element code.
-##   $host (String): the hostname of the site that is being displayed.
-
-
 ## The "Allowed" header also includes a "Why?" link that, when hovered, shows
 ## a tooltip explaining why these items were not blocked in the page.
 
@@ -63,9 +57,6 @@ protections-panel-content-blocking-fingerprinters-label = Generatoare de amprent
 protections-panel-blocking-label = Blocate
 protections-panel-not-blocking-label = Permise
 protections-panel-not-found-label = Niciunul detectat
-
-## Smartblock strings
-
 
 ##
 
@@ -113,6 +104,7 @@ protections-panel-content-blocking-breakage-report-view-send-report =
 
 # Cookie Banner Handling
 
+protections-panel-cookie-banner-view-cookie-clear-warning = { -brand-short-name } va șterge cookie-urile acestui site și va reîncărca pagina. Ștergerea tuturor cookie-urilor te poate scoate din cont sau poate goli coșurile de cumpărături.
 
 ## Protections panel info message
 
