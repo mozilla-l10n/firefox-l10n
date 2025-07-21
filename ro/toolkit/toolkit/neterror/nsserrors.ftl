@@ -331,6 +331,7 @@ mozilla-pkix-error-invalid-integer-encoding = Serverul a prezentat un certificat
 mozilla-pkix-error-empty-issuer-name = Serverul a prezentat un certificat fără un nume de emițător.
 mozilla-pkix-error-additional-policy-constraint-failed = O constrângere suplimentară de politică a eșuat la validarea acestui certificat.
 mozilla-pkix-error-self-signed-cert = Certificatul nu prezintă încredere deoarece este semnat de el însuși.
+mozilla-pkix-error-issuer-no-longer-trusted = Autoritatea de certificare care a emis certificatul nu era de încredere înainte de emiterea certificatului.
 xp-java-remove-principal-error = Nu se poate elimina principalul
 xp-java-delete-privilege-error = Nu s-a putut șterge privilegiul
 xp-java-cert-not-exists-error = Acest principal nu are un certificat

@@ -13,9 +13,30 @@ callout-primary-complete-button-label = Am înțeles!
 # tabs from other devices
 callout-firefox-view-tab-pickup-title = Sari de pe un dispozitiv pe altul cu preluarea filelor
 callout-firefox-view-tab-pickup-subtitle = Preia rapid filele de pe telefon și deschide-le aici pentru viteză maximă.
+callout-firefox-view-recently-closed-title = Recuperează-ți filele închise într-o clipă
+callout-firefox-view-recently-closed-subtitle = Toate filele închise vor apărea ca prin magie aici. Nu îți mai face griji că vei închide accidental un site.
+callout-firefox-view-colorways-title = Adaugă o pată de culoare
+# "Shade" refer to different color options in each colorway.
+callout-firefox-view-colorways-subtitle = Alege o nuanță care se potrivește cu stilul tău. Doar cu { -brand-product-name }.
+callout-firefox-view-colorways-reminder-title = Explorează cele mai noi palete de culori
+# “Shades” refers to the different color options in each colorways
+callout-firefox-view-colorways-reminder-subtitle = Colorează-ți browserul cu aceste nuanțe emblematice, inspirate de voci independente. Doar cu { -brand-product-name }.
+
+## Continuous Onboarding - Firefox View: Tab pick up
+
+# “Boost your browsing” refers to the added benefit the user receives from having
+# access to the same browsing experience when moving from one browser to another.
+# Alternative: ”Improve your browsing experience with tab pickup”
+continuous-onboarding-firefox-view-tab-pickup-title = Îmbunătățește-ți navigarea cu recuperarea de file
+continuous-onboarding-firefox-view-tab-pickup-subtitle = Accesează filele deschise de pe orice dispozitiv. În plus, sincronizezi marcaje, parole și altele.
+continuous-onboarding-firefox-view-tab-pickup-primary-button-label = Să începem
 
 ## PDF.js Feature Tour Strings
 
+callout-pdfjs-edit-title = Editează PDF-uri cu noul nostru instrument de texte
+callout-pdfjs-edit-body-a = Completează formulare, adaugă comentarii sau ia notițe direct în { -brand-short-name }.
+callout-pdfjs-edit-body-b = Sari peste căutarea de editoare gratuite. Completează formulare, adaugă comentarii sau ia notițe direct în { -brand-short-name }.
+callout-pdfjs-edit-button = Înainte
 callout-pdfjs-draw-title = Semnează documente cu noul nostru instrument de desenat
 # “Mark up” refers to the process of “annotating” or adding free hand text or diagramming to the document.
 callout-pdfjs-draw-body-a = Marchează PDF-uri, apoi salvează-ți modificările.
@@ -30,8 +51,34 @@ fx-view-discoverability-subtitle = Găsește-le și redeschide-le rapid de aici.
 fx-view-discoverability-primary-button-label = Deschide { -firefoxview-brand-name }
 fx-view-discoverability-secondary-button-label = Respinge
 
+## Split Dismiss Button Labels
+
+# Blocks the message from showing again
+split-dismiss-button-dont-show-option =
+    .label = Nu mai afișa această recomandare
+# Dismisses message and reduces frequency of message
+split-dismiss-button-show-fewer-option =
+    .label = Arată mai puține recomandări
+# Opens about:preferences#general-cfrfeatures
+split-dismiss-button-manage-settings-option =
+    .label = Gestionează setările
+# Accessibility label for dropdown menu button
+split-dismiss-button-default-label =
+    .title = Mai multe opțiuni
+
+## Login Status Advisory Callout (points to the account icon)
+
+# The 'account icon' is the toolbar button with a 'profile' icon of a human
+# head/shoulders. It's for dealing with your Mozilla account. When hovering the
+# icon, the tooltip says 'Account'.
+login-status-advisory-title = Ești deconectat(ă). Dă clic pe pictograma contului pentru a intra iar în cont.
+
 ## Bookmarks toolbar callout strings
 
+bookmarks-toolbar-callout-1-title = Adaugi acest site în bara de instrumente cu marcaje?
+bookmarks-toolbar-callout-1-subtitle = Marcajul va fi salvat chiar sub bara de adrese pentru acces rapid.
+bookmarks-toolbar-callout-1-primary-button-label = Adaugă marcajul
+bookmarks-toolbar-callout-1-secondary-button-label = Nu, mulțumesc
 # Visible if user declines to add a bookmark in callout 1, bookmarks toolbar is set to always show when this message renders
 bookmarks-toolbar-callout-2b-title = Păstrezi bara de instrumente cu marcaje deschisă?
 bookmarks-toolbar-callout-2b-subtitle = Poți adăuga alte site-uri pe care intri mai des. Pur și simplu trage și plasează filele aici pentru a avea site-urile web preferate la îndemână.
@@ -57,6 +104,12 @@ perplexity-callout-secondary-label-2 = Am înțeles
 fxa-adoption-passwords-title = Parolă salvată. Hai să facem o copie de rezervă.
 fxa-adoption-passwords-subtitle = Protejează-ți parolele sincronizându-le cu dispozitivele tale prin criptare.
 
+## Sidebar Strings
+
+sidebar-button-callout-title = Afișează titlurile filelor în bara laterală
+sidebar-button-callout-subtitle = Folosește butonul din bara laterală pentru extinderea barei laterale ca să poți vedea titlurile filelor.
+sidebar-button-callout-vertical-tabs = Pentru afișarea filelor, selectează butonul din bara laterală din bara de instrumente.
+
 ## Sidebar Vertical Tabs Strings
 
 vertical-tabs-callout-2-title = Păstrezi multe file deschise? Încearcă filele verticale.
@@ -79,6 +132,9 @@ sidebar-customization-callout-2-subtitle = Adaugi și elimini instrumente. Plase
 
 ## Sidebar Callout Survey Strings
 
+sidebar-callout-survey-title = Ajută-ne să îmbunătățim { -brand-short-name }
+sidebar-callout-survey-satisfaction-question = Cât de mulțumit(ă) ești de experiența cu bara laterală în { -brand-short-name }?
+sidebar-callout-survey-privacy-notice-link = Notificare privind confidențialitatea
 sidebar-callout-survey-dont-use-it = Nu îl folosesc
 sidebar-callout-survey-productive-question =
     În ce măsură ești de acord sau nu cu această afirmație:<br/>

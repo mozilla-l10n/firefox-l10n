@@ -199,3 +199,36 @@ shopping-callout-not-opted-in-reminder-close-button = Respinge
 shopping-callout-not-opted-in-reminder-ignore-checkbox = Nu mai afișa
 shopping-callout-not-opted-in-reminder-img-alt =
     .aria-label = Ilustrație abstractă a trei recenzii de produs. Una are un simbol de avertizare care indică că este posibil să nu fie de încredere.
+shopping-callout-disabled-auto-open-title = Verificatorul de recenzii este acum închis implicit
+shopping-callout-disabled-auto-open-subtitle = Dă clic pe pictograma etichetei de preț din bara de adrese oricând vrei să vezi dacă poți avea încredere în recenziile unui produs.
+shopping-callout-disabled-auto-open-button = Am înțeles
+shopping-callout-opted-out-title = Verificatorul de recenzii este dezactivat
+shopping-callout-opted-out-subtitle = Pentru a-l reactiva, dă clic pe pictograma cu prețul din bara de adrese și urmează instrucțiunile.
+shopping-callout-opted-out-button = Am înțeles
+
+## Onboarding message strings.
+
+shopping-onboarding-headline = Încearcă ghidul nostru de încredere pentru recenzii de produse
+# Dynamic subtitle. Sites are limited to Amazon, Walmart or Best Buy.
+# Variables:
+#   $currentSite (str) - The current shopping page name
+#   $secondSite (str) - A second shopping page name
+#   $thirdSite (str) - A third shopping page name
+shopping-onboarding-dynamic-subtitle-1 = Vezi cât de încredere sunt recenziile produselor pe <b>{ $currentSite }</b> înainte de a cumpăra. Verificatorul de recenzii, o funcționalitate experimentală de la { -brand-product-name }, este integrat direct în browser. Merge și pe <b>{ $secondSite }</b> și <b>{ $thirdSite }</b>.
+# Subtitle for countries where we only support one shopping website (e.g. currently used in FR/DE with Amazon)
+# Variables:
+#   $currentSite (str) - The current shopping page name
+shopping-onboarding-single-subtitle = Vezi cât de încredere sunt recenziile produselor pe <b>{ $currentSite }</b> înainte de a cumpăra. Verificatorul de recenzii, o funcționalitate experimentală de la { -brand-product-name }, este integrat direct în browser.
+shopping-onboarding-body = Folosind puterea { -fakespot-brand-full-name }, te ajutăm să eviți recenziile părtinitoare și neautentice. Modelul nostru IA se îmbunătățește constant pentru a te proteja în timp ce faci cumpărături. <a data-l10n-name="learn_more">Află mai multe</a>
+shopping-onboarding-opt-in-privacy-policy-and-terms-of-use3 = Selectând „{ shopping-onboarding-opt-in-button }”, ești de acord cu <a data-l10n-name="privacy_policy">politica de confidențialitate</a> { -brand-product-name } și <a data-l10n-name="terms_of_use">condițiile de utilizare</a> { -fakespot-brand-name }.
+shopping-onboarding-opt-in-button = Da, încearcă
+shopping-onboarding-not-now-button = Nu acum
+shopping-onboarding-dialog-close-button =
+    .title = Închide
+    .aria-label = Închide
+# Aria-label to make the "steps" of the shopping onboarding container visible to screen readers.
+# Variables:
+#   $current (Int) - Number of the current page
+#   $total (Int) - Total number of pages
+shopping-onboarding-welcome-steps-indicator-label =
+    .aria-label = Progres: pasul { $current } din { $total }
