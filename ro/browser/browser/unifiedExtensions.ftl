@@ -21,6 +21,9 @@ unified-extensions-manage-extensions =
 unified-extensions-item-open-menu =
     .aria-label = Deschide meniul pentru { $extensionName }
 unified-extensions-item-message-manage = Gestionează extensia
+# Variables:
+#   $extensionName (String) - Name of the user-enabled soft-blocked extension.
+unified-extensions-item-messagebar-softblocked = { $extensionName } încalcă politicile Mozilla. Utilizarea poate fi riscantă.
 
 ## Extension's context menu
 
@@ -41,3 +44,22 @@ unified-extensions-context-menu-move-widget-down =
 
 unified-extensions-mb-quarantined-domain-title = Unele extensii nu sunt permise
 unified-extensions-mb-quarantined-domain-message = Pentru a-ți proteja datele, doar unele extensii monitorizate de { -vendor-short-name } sunt permise pe acest site.
+# .heading is processed by moz-message-bar to be used as a heading attribute
+unified-extensions-mb-quarantined-domain-message-3 =
+    .heading = Unele extensii nu sunt permise
+    .message = Pentru a-ți proteja datele, unele extensii nu pot citi sau nu pot modifica date pe acest site. Folosește setările extensiei ca să îi permiți pe site-uri restricționate de { -vendor-short-name }.
+unified-extensions-mb-quarantined-domain-learn-more = Află mai multe
+    .aria-label = Află mai multe: Unele extensii nu sunt permise
+unified-extensions-mb-about-addons-link = Mergi la setările extensiei
+# Variables:
+#   $extensionName (String) - Name of the extension disabled through a soft-block.
+unified-extensions-mb-blocklist-warning-single =
+    .heading = { $extensionName } dezactivată
+    .message =
+        Extensia încalcă politicile Mozilla și a fost dezactivată.
+        O poți activa în setări, dar poate fi riscant.
+# Variables:
+#   $extensionName (String) - Name of the extension disabled through a hard-block.
+unified-extensions-mb-blocklist-error-single =
+    .heading = { $extensionName } dezactivată
+    .message = Extensia încalcă politicile Mozilla și a fost dezactivată.

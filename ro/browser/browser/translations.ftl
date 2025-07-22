@@ -221,6 +221,10 @@ select-translations-panel-try-again-button =
     .label = Încearcă din nou
 # Text displayed as a placeholder when the panel is idle.
 select-translations-panel-idle-placeholder-text = Textul tradus va apărea aici.
+# Text displayed as a placeholder when the panel is actively translating.
+select-translations-panel-translating-placeholder-text = Se traduce…
+select-translations-panel-init-failure-message =
+    .message = Nu s-au putut încărca limbile. Verifică conexiunea la internet și încearcă din nou.
 # Text displayed when the translation fails to complete.
 select-translations-panel-translation-failure-message =
     .message = A apărut o problemă la traducere. Te rugăm să încerci din nou.
@@ -234,3 +238,8 @@ select-translations-panel-unsupported-language-message-known =
     .message = Ne pare rău, încă nu oferim suport pentru { $language }.
 select-translations-panel-unsupported-language-message-unknown =
     .message = Ne pare rău, încă nu oferim suport pentru această limbă.
+# Text displayed on the menuitem that opens the Translation Settings page.
+select-translations-panel-open-translations-settings-menuitem =
+    .label = Setări pentru traduceri
+# An announcement made to assistive technology when the translation is complete
+select-translations-panel-translation-complete-announcement = Traducere finalizată

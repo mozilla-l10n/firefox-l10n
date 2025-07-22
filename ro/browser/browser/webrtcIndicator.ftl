@@ -162,8 +162,14 @@ webrtc-allow-share-screen-and-audio-capture = Permiți { $origin } să asculte c
 ##   $thirdParty (String): the third party origin.
 
 webrtc-allow-share-camera-unsafe-delegation = Permiți { $origin } să dea { $thirdParty } acces la cameră?
+webrtc-allow-share-microphone-unsafe-delegation = Permiți { $origin } să dea { $thirdParty } acces la la microfon?
 webrtc-allow-share-screen-unsafe-delegation = Permiți { $origin } să dea { $thirdParty } permisiunea de a-ți vedea ecranul?
+# "Speakers" is used in a general sense that might include headphones or
+# another audio output connection.
+webrtc-allow-share-speaker-unsafe-delegation = Permiți { $origin } să dea { $thirdParty } acces la alte boxe?
 webrtc-allow-share-camera-and-microphone-unsafe-delegation = Permiți { $origin } să dea { $thirdParty } acces la cameră și microfon?
+webrtc-allow-share-camera-and-audio-capture-unsafe-delegation = Permiți { $origin } să dea { $thirdParty } acces la cameră și să asculte conținutul audio din această filă?
+webrtc-allow-share-screen-and-microphone-unsafe-delegation = Permiți { $origin } să dea { $thirdParty } acces la la microfon și să îți vadă ecranul?
 webrtc-allow-share-screen-and-audio-capture-unsafe-delegation = Permiți { $origin } să dea { $thirdParty } permisiunea de a asculta sunetul acestei file și de a-ți vedea ecranul?
 
 ##

@@ -181,9 +181,14 @@ tabbrowser-confirm-close-duplicate-tabs-title = Atenție!
 tabbrowser-confirm-close-duplicate-tabs-text = Vom păstra deschisă ultima filă activă
 tabbrowser-confirm-close-all-duplicate-tabs-title = Închizi filele duplicate?
 tabbrowser-confirm-close-all-duplicate-tabs-text = Vom închide filele duplicate din această fereastră. Ultima filă activă va rămâne deschisă.
+tabbrowser-confirm-close-all-duplicate-tabs-button-closetabs = Închide filele
 
 ##
 
+# Variables:
+#   $domain (String): URL of the page that is trying to steal focus.
+tabbrowser-allow-dialogs-to-get-focus =
+    .label = Permite notificărilor de acest gen de la { $domain } să te direcționeze către fila lor
 tabbrowser-customizemode-tab-title = Personalizează { -brand-short-name }
 
 ## Context menu buttons, of which only one will be visible at a time
@@ -227,6 +232,11 @@ tabbrowser-manager-unmute-tab =
     .tooltiptext = Activează sunetul filei
 tabbrowser-manager-close-tab =
     .tooltiptext = Închide fila
+# This is for tab groups that have been "saved and closed" (see tab-group-editor-action-save). It does
+# not include "deleted" tab groups (see tab-group-editor-action-delete).
+tabbrowser-manager-closed-tab-group =
+    .label = { $tabGroupName }
+    .tooltiptext = { $tabGroupName } — Închis
 tabbrowser-manager-current-window-tab-group =
     .label = { $tabGroupName }
     .tooltiptext = { $tabGroupName } — Fereastra actuală
@@ -241,6 +251,18 @@ tab-group-editor-name-field =
 tab-group-editor-cancel =
     .label = Anulează
     .accesskey = C
+tab-group-editor-color-selector =
+    .aria-label = Culoarea grupului de file
+tab-group-editor-color-selector2-blue = Albastru
+    .title = Albastru
+tab-group-editor-color-selector2-purple = Violet
+    .title = Violet
+tab-group-editor-color-selector2-cyan = Cyan
+    .title = Cyan
+tab-group-editor-color-selector2-orange = Portocaliu
+    .title = Portocaliu
+tab-group-editor-color-selector2-yellow = Galben
+    .title = Galben
 tab-group-editor-color-selector2-pink = Roz
     .title = Roz
 tab-group-editor-color-selector2-green = Verde
@@ -253,12 +275,44 @@ tab-group-editor-color-selector2-red = Roșu
 #  $tabGroupName (String): The name of the tab group. Defaults to the value
 #                          of tab-group-name-default.
 tab-group-description = { $tabGroupName } — Grup de file
+tab-context-unnamed-group =
+    .label = Grup fără nume
+tab-group-name-default = Grup fără nume
 
 ## Variables:
 ##  $tabCount (Number): the number of tabs that are affected by the action.
 
+tab-context-move-tab-to-new-group =
+    .label =
+        { $tabCount ->
+            [1] Adaugă fila în grupul nou
+           *[other] Adaugă filele în grupul nou
+        }
+    .accesskey = G
+tab-context-move-tab-to-group =
+    .label =
+        { $tabCount ->
+            [1] Adaugă fila în grupul nou
+           *[other] Adaugă filele în grupul nou
+        }
+    .accesskey = G
 tab-context-move-tab-to-group-saved-groups =
     .label = Grupuri închise
+tab-group-editor-action-new-tab =
+    .label = Filă nouă în grup
+tab-group-editor-action-new-window =
+    .label = Mută grupul într-o fereastră nouă
+tab-group-editor-action-save =
+    .label = Salvează și închide grupul
+tab-group-editor-action-ungroup =
+    .label = Degrupează filele
+tab-group-editor-action-delete =
+    .label = Șterge grupul
+tab-group-editor-done =
+    .label = Terminat
+    .accessKey = D
+tab-context-reopen-tab-group =
+    .label = Redeschide grupul de file
 # Variables:
 #  $groupCount (Number): the number of tab groups that are affected by the action.
 tab-context-ungroup-tab =
