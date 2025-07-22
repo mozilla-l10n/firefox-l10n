@@ -108,6 +108,8 @@ certificate-viewer-export = Exportă
 
 ##
 
+# Label for a tab where we haven't found a better label:
+certificate-viewer-unknown-group-label = (necunoscut)
 
 ## Labels for tabs displayed in stand-alone about:certificate page
 

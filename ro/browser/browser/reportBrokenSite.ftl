@@ -2,12 +2,46 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+report-broken-site-mainview-title = Raportează site nefuncțional
+report-broken-site-panel-header =
+    .label = Raportează site nefuncțional
+    .title = Raportează site nefuncțional
+report-broken-site-panel-intro = Ajută la îmbunătățirea { -brand-product-name } pentru toți. { -vendor-short-name } folosește informațiile pe care le trimiți pentru a remedia problemele pe site-uri web.
+report-broken-site-panel-url = URL
+report-broken-site-panel-reason-label = Ce nu merge?
+report-broken-site-panel-reason-optional-label = Ce nu merge? (opțional)
 report-broken-site-panel-reason-choose =
     .label = Alege un motiv
+report-broken-site-panel-reason-load =
+    .label = Site-ul nu se încarcă
+# These terms are referring to ecommerce websites
+report-broken-site-panel-reason-checkout =
+    .label = Nu pot plăti, finaliza achiziția sau cumpăra
+report-broken-site-panel-reason-slow2 =
+    .label = Site-ul este lent
+report-broken-site-panel-reason-media2 =
+    .label = Videoclipul nu se redă sau nu se încarcă
+report-broken-site-panel-reason-content2 =
+    .label = Conținut lipsă
 report-broken-site-panel-reason-account2 =
     .label = Imposibil de intrat în cont sau de creat un cont nou
+report-broken-site-panel-reason-adblocker2 =
+    .label = Site-ul a cerut dezactivarea blocării reclamelor
+report-broken-site-panel-reason-notsupported =
+    .label = Browserul nu este acceptat sau este blocat
+report-broken-site-panel-reason-slow =
+    .label = Site-ul este lent sau nu funcționează
+report-broken-site-panel-reason-media =
+    .label = Imagini sau videoclipuri
+report-broken-site-panel-reason-content =
+    .label = Butoane, linkuri și alt conținut
 report-broken-site-panel-reason-account =
     .label = Intră în cont sau ieși din cont
+report-broken-site-panel-reason-adblockers =
+    .label = Blocatoare de reclame
+report-broken-site-panel-reason-other =
+    .label = Altceva
+report-broken-site-panel-description-label = Descrie problema
 report-broken-site-panel-description-optional-label = Descrie problema (opțional)
 report-broken-site-panel-send-more-info-link = Trimite mai multe informații
 report-broken-site-panel-button-cancel =

@@ -3,11 +3,23 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 do-not-track-description = Trimite site-urilor web un semnal „Nu urmări” pentru a indica faptul că nu vrei să fii urmărit
+do-not-track-removal = Nu mai acceptăm semnalul „Nu urmări”
+do-not-track-description2 =
+    .label = Trimite site-urilor web o solicitare „Nu urmări”
+    .accesskey = d
 do-not-track-learn-more = Află mai multe
 do-not-track-option-default-content-blocking-known =
     .label = Numai când { -brand-short-name } este setat să blocheze elemente de urmărire cunoscute
 do-not-track-option-always =
     .label = Întotdeauna
+global-privacy-control-description =
+    .label = Spune site-urilor web să nu-mi vândă sau să nu-mi partajeze datele
+    .accesskey = s
+non-technical-privacy-header = Preferințe de confidențialitate pe site-uri web
+# Do not translate.
+# "Global Privacy Control" or "GPC" are a web platform feature name and abbreviation
+# included to facilitate power-user search of the about:preferences page.
+global-privacy-control-search = Global Privacy Control (GPC)
 settings-page-title = Setări
 # This is used to determine the width of the search field in about:preferences,
 # in order to make the entire placeholder string visible
@@ -21,6 +33,8 @@ search-input-box2 =
     .style = width: 15.4em
     .placeholder = Caută în Setări
 managed-notice = Browserul este gestionat de organizația ta.
+managed-notice-info-icon =
+    .alt = Informații
 category-list =
     .aria-label = Categorii
 pane-general-title = General
@@ -47,6 +61,7 @@ pane-experimental-description2 = Modificarea setărilor avansate de configurare 
 settings-pane-labs-title = { -firefoxlabs-brand-name }
 settings-category-labs =
     .tooltiptext = { -firefoxlabs-brand-name }
+pane-experimental-description3 = Încearcă funcționalitățile noastre experimentale! Sunt în curs de dezvoltare și evoluție, ceea ce ar putea influența modul în care funcționează { -brand-short-name }.
 pane-experimental-reset =
     .label = Restaurează valorile implicite
     .accesskey = R
@@ -76,9 +91,21 @@ restart-later = Repornește mai târziu
 ## Variables:
 ##   $name (string) - Name of the extension
 
+# This string is shown to notify the user that the password manager setting
+# is being controlled by an extension
+extension-controlling-password-saving = <img data-l10n-name="icon"/> <strong>{ $name }</strong> controlează această setare.
+# This string is shown to notify the user that their notifications permission
+# is being controlled by an extension.
+extension-controlling-web-notifications = <img data-l10n-name="icon"/> <strong>{ $name }</strong> controlează această setare.
 # This string is shown to notify the user that Container Tabs
 # are being enabled by an extension.
 extension-controlling-privacy-containers = <img data-l10n-name="icon"/> <strong>{ $name }</strong> necesită file container.
+# This string is shown to notify the user that their content blocking "All Detected Trackers"
+# preferences are being controlled by an extension.
+extension-controlling-websites-content-blocking-all-trackers = <img data-l10n-name="icon"/> <strong>{ $name }</strong> controlează această setare.
+# This string is shown to notify the user that their proxy configuration preferences
+# are being controlled by an extension.
+extension-controlling-proxy-config = <img data-l10n-name ="icon"/> <strong>{ $name }</strong> controlează cum se conectează { -brand-short-name } la internet.
 # This string is shown after the user disables an extension to notify the user
 # how to enable an extension that they disabled.
 #
@@ -107,6 +134,11 @@ set-as-my-default-browser =
 startup-restore-windows-and-tabs =
     .label = Deschide ferestrele și filele anterioare
     .accesskey = s
+windows-launch-on-login =
+    .label = Deschide automat { -brand-short-name } la pornirea calculatorului
+    .accesskey = O
+windows-launch-on-login-disabled = Preferința a fost dezactivată în Windows. Pentru modificare, intră în <a data-l10n-name="startup-link">Aplicații la pornire</a> în Setările de sistem.
+windows-launch-on-login-profile-disabled = Activează preferința bifând „{ profile-manager-use-selected.label }” în fereastra „Alege profilul de utilizator”.
 startup-restore-warn-on-quit =
     .label = Avertizează la închiderea browserului
 disable-extension =
@@ -117,6 +149,8 @@ preferences-data-migration-button =
     .label = Importă date
     .accesskey = m
 preferences-profiles-header = Profiluri
+preferences-manage-profiles-description = Fiecare profil are date și setări de navigare separate, inclusiv istoric, parole și multe altele.
+preferences-manage-profiles-learn-more = Află mai multe
 preferences-manage-profiles-button =
     .label = Gestionează profilurile
 tabs-group-header = File
@@ -129,9 +163,25 @@ open-new-link-as-tabs =
 ask-on-close-multiple-tabs =
     .label = Întreabă-mă înainte de a închide mai multe file
     .accesskey = m
+# This string is used for the confirm before quitting preference.
+# Variables:
+#   $quitKey (string) - the quit keyboard shortcut, and formatted
+#                       in the same manner as it would appear,
+#                       for example, in the File menu.
+ask-on-quit-with-key =
+    .label = Întreabă înainte de a ieși cu { $quitKey }
+    .accesskey = b
 confirm-on-close-multiple-tabs =
     .label = Confirmă înainte de a închide mai multe file
     .accesskey = m
+# This string is used for the confirm before quitting preference.
+# Variables:
+#   $quitKey (string) - the quit keyboard shortcut, and formatted
+#                       in the same manner as it would appear,
+#                       for example, in the File menu.
+confirm-on-quit-with-key =
+    .label = Confirmă înainte de a ieși cu { $quitKey }
+    .accesskey = b
 warn-on-open-many-tabs =
     .label = Te avertizează când deschiderea mai multor file ar putea încetini { -brand-short-name }
     .accesskey = d
@@ -180,6 +230,9 @@ containers-remove-alert-msg =
     }
 containers-remove-ok-button = Elimină acest container
 containers-remove-cancel-button = Nu elimina acest container
+settings-tabs-show-image-in-preview =
+    .label = Afișează o previzualizare a imaginii când treci cu mouse-ul peste o filă
+    .accessKey = h
 
 ## General Section - Language & Appearance
 
