@@ -179,6 +179,7 @@ language-name-st = Sotho de sud
 language-name-su = Sudaneză
 language-name-sv = Suedeză
 language-name-sw = Swahili
+language-name-szl = Sileziană
 language-name-ta = Tamilă
 language-name-te = Telugu
 language-name-tg = Tadjică

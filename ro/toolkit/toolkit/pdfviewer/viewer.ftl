@@ -39,6 +39,18 @@ pdfjs-open-file-button-label = Deschide
 pdfjs-print-button =
     .title = Tipărește
 pdfjs-print-button-label = Tipărește
+pdfjs-save-button =
+    .title = Salvează
+pdfjs-save-button-label = Salvează
+# Used in Firefox for Android as a tooltip for the download button (“download” is a verb).
+pdfjs-download-button =
+    .title = Descarcă
+# Used in Firefox for Android as a label for the download button (“download” is a verb).
+# Length of the translation matters since we are in a mobile context, with limited screen estate.
+pdfjs-download-button-label = Descarcă
+pdfjs-bookmark-button =
+    .title = Pagina curentă (Vezi URL din pagina curentă)
+pdfjs-bookmark-button-label = Pagină curentă
 
 ##  Secondary toolbar and context menu
 
@@ -63,6 +75,9 @@ pdfjs-cursor-text-select-tool-button-label = Instrumentul de selecție a textulu
 pdfjs-cursor-hand-tool-button =
     .title = Activează instrumentul mână
 pdfjs-cursor-hand-tool-button-label = Unealta mână
+pdfjs-scroll-page-button =
+    .title = Folosește derularea paginilor
+pdfjs-scroll-page-button-label = Derulare pagini
 pdfjs-scroll-vertical-button =
     .title = Folosește derularea verticală
 pdfjs-scroll-vertical-button-label = Derulare verticală
@@ -154,6 +169,8 @@ pdfjs-printing-not-ready = Avertisment: PDF-ul nu este încărcat complet pentru
 
 pdfjs-toggle-sidebar-button =
     .title = Comută bara laterală
+pdfjs-toggle-sidebar-notification-button =
+    .title = Comută bara laterală (documentul conține schițe/atașamente/straturi)
 pdfjs-toggle-sidebar-button-label = Comută bara laterală
 pdfjs-document-outline-button =
     .title = Afișează schița documentului (dublu-clic pentru a extinde/restrânge toate elementele)
@@ -161,12 +178,16 @@ pdfjs-document-outline-button-label = Schița documentului
 pdfjs-attachments-button =
     .title = Afișează atașamentele
 pdfjs-attachments-button-label = Atașamente
+pdfjs-layers-button =
+    .title = Afișează straturile (dă dublu clic pentru resetarea tuturor straturilor la starea implicită)
+pdfjs-layers-button-label = Straturi
 pdfjs-thumbs-button =
     .title = Afișează miniaturi
 pdfjs-thumbs-button-label = Miniaturi
 pdfjs-findbar-button =
     .title = Caută în document
 pdfjs-findbar-button-label = Caută
+pdfjs-additional-layers = Straturi suplimentare
 
 ## Thumbnails panel item (tooltip and alt text for images)
 
@@ -192,6 +213,7 @@ pdfjs-find-next-button =
 pdfjs-find-next-button-label = Înainte
 pdfjs-find-highlight-checkbox = Evidențiază toate aparițiile
 pdfjs-find-match-case-checkbox-label = Ține cont de majuscule și minuscule
+pdfjs-find-match-diacritics-checkbox-label = Respectă diacriticele
 pdfjs-find-entire-word-checkbox-label = Cuvinte întregi
 pdfjs-find-reached-top = Am ajuns la începutul documentului, continuă de la sfârșit
 pdfjs-find-reached-bottom = Am ajuns la sfârșitul documentului, continuă de la început
@@ -224,6 +246,13 @@ pdfjs-page-scale-actual = Mărime reală
 #   $scale (Number) - percent value for page scale
 pdfjs-page-scale-percent = { $scale }%
 
+## PDF page
+
+# Variables:
+#   $page (Number) - the page number
+pdfjs-page-landmark =
+    .aria-label = Pagina { $page }
+
 ## Loading indicator messages
 
 pdfjs-loading-error = A intervenit o eroare la încărcarea PDF-ului.
@@ -254,6 +283,73 @@ pdfjs-password-ok-button = OK
 pdfjs-password-cancel-button = Anulează
 pdfjs-web-fonts-disabled = Fonturile web sunt dezactivate: nu se pot folosi fonturile PDF încorporate.
 
+## Editing
+
+pdfjs-editor-free-text-button =
+    .title = Text
+pdfjs-editor-free-text-button-label = Text
+pdfjs-editor-ink-button =
+    .title = Desenează
+pdfjs-editor-ink-button-label = Desenează
+pdfjs-editor-stamp-button =
+    .title = Adaugă sau editează imagini
+pdfjs-editor-stamp-button-label = Adaugă sau editează imagini
+pdfjs-editor-highlight-button =
+    .title = Evidențiere
+pdfjs-editor-highlight-button-label = Evidențiere
+
+## Remove button for the various kind of editor.
+
+pdfjs-editor-remove-ink-button =
+    .title = Elimină desenul
+pdfjs-editor-remove-freetext-button =
+    .title = Elimină textul
+pdfjs-editor-remove-stamp-button =
+    .title = Elimină imaginea
+pdfjs-editor-remove-highlight-button =
+    .title = Elimină evidențierea
+
+##
+
+# Editor Parameters
+pdfjs-editor-free-text-color-input = Culoare
+pdfjs-editor-free-text-size-input = Mărime
+pdfjs-editor-ink-color-input = Culoare
+
 ## Alt-text dialog
 
 pdfjs-editor-alt-text-cancel-button = Anulează
+# .placeholder: This is a placeholder for the alt text input area
+pdfjs-editor-alt-text-textarea =
+    .placeholder = De exemplu, „Un tânăr se așează la o masă să mănânce”
+
+## Editor resizers
+## This is used in an aria label to help to understand the role of the resizer.
+
+pdfjs-editor-resizer-label-top-left = Colțul din stânga sus — redimensionează
+pdfjs-editor-resizer-label-top-middle = Mijloc de sus — redimensionează
+pdfjs-editor-resizer-label-top-right = Colțul din dreapta sus — redimensionează
+pdfjs-editor-resizer-label-middle-right = Mijloc dreapta — redimensionează
+pdfjs-editor-resizer-label-bottom-right = Colțul din dreapta jos — redimensionează
+pdfjs-editor-resizer-label-bottom-middle = Mijloc de jos - redimensionează
+pdfjs-editor-resizer-label-bottom-left = Colțul din stânga jos — redimensionează
+pdfjs-editor-resizer-label-middle-left = Mijloc stânga — redimensionează
+
+## Color picker
+
+# This means "Color used to highlight text"
+pdfjs-editor-highlight-colorpicker-label = Culoare de evidențiere
+pdfjs-editor-colorpicker-button =
+    .title = Schimbă culoarea
+pdfjs-editor-colorpicker-dropdown =
+    .aria-label = Opțiuni de culoare
+pdfjs-editor-colorpicker-yellow =
+    .title = Galben
+pdfjs-editor-colorpicker-green =
+    .title = Verde
+pdfjs-editor-colorpicker-blue =
+    .title = Albastru
+pdfjs-editor-colorpicker-pink =
+    .title = Roz
+pdfjs-editor-colorpicker-red =
+    .title = Roșu
