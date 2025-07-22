@@ -19,6 +19,8 @@ perftools-heading-features = Funcționalități
 perftools-heading-features-default = Funcționalități (Recomandate ca activate implicit)
 perftools-heading-features-disabled = Funcționalități dezactivate
 perftools-heading-features-experimental = Experimentale
+perftools-heading-threads = Fire de execuție
+perftools-heading-threads-jvm = Fire de execuție JVM
 
 ##
 
@@ -26,8 +28,16 @@ perftools-description-intro =
     Înregistrările lansează <a>profiler.firefox.com</a> într-o filă nouă. Toate datele sunt stocate
     local, dar poți alege să le încarci pentru partajare.
 
+## The controls for the interval at which the profiler samples the code.
+
+perftools-range-interval-label = Interval de eșantionare:
+perftools-range-interval-milliseconds = { NUMBER($interval, maxFractionalUnits: 2) } ms
+
 ##
 
+perftools-custom-threads-label = Adaugă fire de execuție personalizate după nume:
+perftools-devtools-interval-label = Interval:
+perftools-devtools-threads-label = Fire de execuție:
 perftools-devtools-settings-label = Setări
 
 ##
@@ -37,7 +47,9 @@ perftools-button-edit-settings = Editează setările…
 ## These messages are descriptions of the threads that can be enabled for the profiler.
 
 perftools-thread-renderer =
-    .title = Când WebRender este activat, firul care execută apelurile OpenGL
+    .title = Când este activat WebRender, firul care execută apelurile OpenGL
+perftools-thread-render-backend =
+    .title = Firul WebRender RenderBackend
 
 ## Onboarding UI labels. These labels are displayed in the new performance panel UI, when
 ## devtools.performance.new-panel-onboarding preference is true.
