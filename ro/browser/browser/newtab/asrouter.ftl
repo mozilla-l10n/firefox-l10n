@@ -112,6 +112,11 @@ cfr-doorhanger-doh-primary-button-2 = OK
 cfr-doorhanger-doh-secondary-button = Dezactivează
     .accesskey = D
 
+## Full Video Support CFR message
+
+cfr-doorhanger-video-support-body = Este posibil ca videoclipurile de pe acest site să nu fie redate corect pe această versiune { -brand-short-name }. Pentru asistență completă pentru videoclipuri, actualizează { -brand-short-name } acum.
+cfr-doorhanger-video-support-header = Actualizează { -brand-short-name } pentru redarea videoclipului
+
 ## Emotive Continuous Onboarding
 
 spotlight-pin-primary-button =

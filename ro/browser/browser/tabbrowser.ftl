@@ -79,25 +79,12 @@ tabbrowser-unblock-tab-audio-tooltip =
            *[other] Redă { $tabCount } de file
         }
 
-## Tooltips for tab audio control
-
-
 ## Confirmation dialog when closing a window with more than one tab open,
 ## or when quitting when only one window is open.
 
 tabbrowser-confirm-close-tabs-button = Închide filele
+tabbrowser-ask-close-tabs-checkbox = Întreabă-mă înainte de a închide mai multe file
 tabbrowser-confirm-close-tabs-checkbox = Confirmă înainte de a închide mai multe file
-
-## Confirmation dialog when quitting using the menu and multiple windows are open.
-
-
-## Confirmation dialog when quitting using the keyboard shortcut (Ctrl/Cmd+Q)
-## Windows does not show a prompt on quit when using the keyboard shortcut by default.
-
-
-## Confirmation dialog when quitting using the keyboard shortcut (Ctrl/Cmd+Q)
-## and browser.warnOnQuitShortcut is true.
-
 
 ## Confirmation dialog when opening multiple tabs simultaneously
 
@@ -116,9 +103,6 @@ tabbrowser-confirm-open-multiple-tabs-checkbox = Avertizează-mă când deschide
 tabbrowser-confirm-caretbrowsing-title = Navigare la cursor
 tabbrowser-confirm-caretbrowsing-message = Apăsarea pe F7 activează sau dezactivează navigarea la cursor. Acestă funcție plasează un cursor mobil în paginile web, permițându-ți să selectezi textul cu tastatura. Vrei să activezi navigarea la cursor?
 tabbrowser-confirm-caretbrowsing-checkbox = Nu mai afișa această casetă de dialog.
-
-## Confirmation dialog for closing all duplicate tabs
-
 
 ##
 
@@ -179,10 +163,3 @@ tab-group-editor-name-field =
 tab-group-editor-cancel =
     .label = Anulează
     .accesskey = C
-
-## Variables:
-##  $tabCount (Number): the number of tabs that are affected by the action.
-
-
-## Open/saved tab group context menu
-
