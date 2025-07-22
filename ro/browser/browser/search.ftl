@@ -25,8 +25,70 @@ searchbar-input =
 searchbar-icon =
     .tooltiptext = Căutare
 
+## Infobar shown when search engine is removed and replaced.
+## Variables
+## $oldEngine (String) - the search engine to be removed.
+## $newEngine (String) - the search engine to replace the removed search engine.
+
+remove-search-engine-button = OK
+
+## Infobar shown when default search engine is reset due to an issue reading the settings file.
+## Variables
+## $newEngine (String) - the name of the new default search engine.
+
+reset-search-settings-button = OK
+
 ## Infobar shown when user is prompted to install search engine.
 ## Variables
 ## $engineName (String) - the name of the search engine to install.
 
 install-search-engine = Adaugi { $engineName } ca motor de căutare?
+install-search-engine-add = Adaugă
+install-search-engine-no = Nu
+
+## The following strings are used as input labels.
+
+add-engine-window =
+    .title = Adaugă motor de căutare
+    .style = min-width: 32em;
+edit-engine-window =
+    .title = Editează motorul de căutare
+    .style = min-width: 32em;
+add-engine-button = Adaugă motor personalizat
+add-engine-name = Numele motorului de căutare
+add-engine-url2 = URL cu %s în locul termenului de căutare
+add-engine-keyword2 = Cuvânt-cheie (opțional)
+# POST and GET refer to the HTTP methods.
+add-engine-post-data = Date POST cu %s în locul termenului de căutare (lasă gol pentru GET)
+add-engine-suggest-url = URL de sugestii cu %s în locul termenului de căutare (opțional)
+
+## The following placeholders are shown in the inputs when adding a new engine.
+
+add-engine-name-placeholder =
+    .placeholder = de ex., Mozilla Developer Network
+
+## The following strings are used as error messages.
+
+add-engine-no-name = Tă rugăm să adaugi un nume.
+add-engine-no-url = Te rugăm să introduci un URL.
+add-engine-invalid-url = URL-ul nu pare corect. Verific-o și încearcă din nou.
+add-engine-invalid-protocol = URL-ul nu nu pare corect. Folosește un URL care începe cu http sau https.
+# This error is shown when the user typed URL is missing %s.
+add-engine-missing-terms-url = Încearcă să incluzi %s în locul termenului de căutare.
+# This error is shown when the user typed post data is missing %s.
+add-engine-missing-terms-post-data = Încearcă să incluzi %s în locul termenului de căutare.
+
+## The following strings are used as labels for the dialog's buttons.
+
+# buttonlabelextra1 is the label of a button to open the advanced section
+# of the dialog.
+add-engine-dialog2 =
+    .buttonlabelaccept = Adaugă motor
+    .buttonaccesskeyaccept = A
+    .buttonlabelextra1 = Advansat
+# buttonlabelextra1 is the label of a button to open the advanced section
+# of the dialog.
+edit-engine-dialog =
+    .buttonlabelaccept = Salvează motorul
+    .buttonaccesskeyaccept = S
+    .buttonlabelextra1 = Advansat

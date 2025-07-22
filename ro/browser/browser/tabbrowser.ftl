@@ -8,6 +8,19 @@ tabbrowser-menuitem-close-tab =
     .label = Închide fila
 tabbrowser-menuitem-close =
     .label = Închide
+# Displayed within the tooltip on tabs inside of a tab group.
+# Variables:
+#   $tabGroupName (String): the user-defined name of the current tab group.
+tabbrowser-tab-tooltip-tab-group = { $tabGroupName }
+# Displayed within the tooltip on tabs in a container.
+# Variables:
+#   $containerName (String): the name of the current container.
+tabbrowser-tab-tooltip-container = { $containerName }
+# Displayed within the tooltip on tabs inside of a tab group if the tab is also in a container.
+# Variables:
+#   $tabGroupName (String): the user-defined name of the current tab group.
+#   $containerName (String): the name of the current container.
+tabbrowser-tab-tooltip-tab-group-container = { $tabGroupName } — { $containerName }
 # Displayed as a tooltip on container tabs
 # Variables:
 #   $title (String): the title of the current tab.
@@ -79,12 +92,52 @@ tabbrowser-unblock-tab-audio-tooltip =
            *[other] Redă { $tabCount } de file
         }
 
+## Tooltips for tab audio control
+
+tabbrowser-unmute-tab-audio-aria-label =
+    .aria-label = Redă sonorul filei
+tabbrowser-mute-tab-audio-aria-label =
+    .aria-label = Dezactivează sonorul filei
+# Used to unblock a tab with audio from autoplaying
+tabbrowser-unblock-tab-audio-aria-label =
+    .aria-label = Redă fila
+
 ## Confirmation dialog when closing a window with more than one tab open,
 ## or when quitting when only one window is open.
 
+# The singular form is not considered since this string is used only for multiple tabs.
+# Variables:
+#   $tabCount (Number): The number of tabs that will be closed.
+tabbrowser-confirm-close-tabs-title =
+    { $tabCount ->
+        [few] Închizi { $tabCount } file?
+       *[other] Închizi { $tabCount } de file?
+    }
 tabbrowser-confirm-close-tabs-button = Închide filele
 tabbrowser-ask-close-tabs-checkbox = Întreabă-mă înainte de a închide mai multe file
 tabbrowser-confirm-close-tabs-checkbox = Confirmă înainte de a închide mai multe file
+
+## Confirmation dialog when quitting using the menu and multiple windows are open.
+
+# The forms for 0 or 1 items are not considered since this string is used only for
+# multiple windows.
+# Variables:
+#   $windowCount (Number): The number of windows that will be closed.
+tabbrowser-confirm-close-windows-title =
+    { $windowCount ->
+        [few] Închizi { $windowCount } ferestre?
+       *[other] Închizi { $windowCount } de ferestre?
+    }
+tabbrowser-confirm-close-windows-button =
+    { PLATFORM() ->
+        [windows] Închide și ieși
+       *[other] Închide și ieși
+    }
+
+## Confirmation dialog when quitting using the keyboard shortcut (Ctrl/Cmd+Q)
+## Windows does not show a prompt on quit when using the keyboard shortcut by default.
+
+tabbrowser-confirm-close-tabs-with-key-title = Închizi fereastra și ieși din { -brand-short-name }?
 
 ## Confirmation dialog when opening multiple tabs simultaneously
 

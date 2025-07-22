@@ -57,6 +57,8 @@ sync-profile-different-account-header = Profilul a fost sincronizat anterior cu 
 # Variables:
 #   $acctEmail (String) - Email of the account signing into sync.
 sync-profile-different-account-description = Pentru a-ți păstra datele organizate și securizate, fiecare profil { -brand-product-name } poate fi sincronizat doar cu un singur cont. Ca să intri în cont cu { $acctEmail }, creează un profil nou.
+# Dialog 1 - different account signing in with merge option
+sync-profile-different-account-title-merge = Profil sincronizat cu un alt cont
 # Variables:
 #   $acctEmail (String) - Email of the account signing into sync.
 #   $profileName (String) - Name of the current profile
@@ -67,6 +69,7 @@ sync-account-in-use-header = Contul este deja în uz
 #   $acctEmail (String) - Email of the account signing into sync.
 #   $otherProfile (String) - Name of the other profile that is associated with the account
 sync-account-in-use-header-merge = { $acctEmail } este deja autentificat în profilul „{ $otherProfile }”
+sync-account-in-use-description = Poți asocia acest cont doar cu un singur profil pe acest calculator.
 # Dialog 2 - account signed in on another profile with merge option
 sync-account-already-signed-in-header = Contul este deja autentificat în alt profil. Sincronizezi ambele profiluri?
 # Variables:
@@ -74,6 +77,9 @@ sync-account-already-signed-in-header = Contul este deja autentificat în alt pr
 #   $currentProfile (String): Name of the current profile signing in
 #   $otherProfile (String): Name of the profile that is already signed in
 sync-account-in-use-description-merge = { $acctEmail } este autentificat în profilul „{ $otherProfile }” de pe acest calculator. Sincronizarea profilului „{ $currentProfile }” va combina permanent datele din ambele profiluri, cum ar fi parole și marcaje.
+# Variables:
+#   $profileName (String) - Name of the profile to switch to
+sync-button-switch-profile = Treci pe „{ $profileName }”
 sync-button-create-profile = Creează un profil nou
 sync-button-sync-and-merge = Sincronizează și îmbină datele
 # Variables:

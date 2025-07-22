@@ -133,6 +133,9 @@ protections-panel-cookie-banner-view-turn-on-description = { -brand-short-name }
 protections-panel-cookie-banner-view-cancel = Anulează
 protections-panel-cookie-banner-view-turn-off = Dezactivează
 protections-panel-cookie-banner-view-turn-on = Activează
+protections-panel-report-broken-site =
+    .label = Raportează site nefuncțional
+    .title = Raportează site nefuncțional
 
 ## Protections panel info message
 

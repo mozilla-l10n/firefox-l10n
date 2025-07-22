@@ -2,18 +2,88 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+menu-view-genai-chat =
+    .label = Chatbot IA
+menu-view-contextual-password-manager =
+    .label = Parole
+sidebar-options-menu-button =
+    .title = Deschide meniul
+
+## Labels for sidebar history panel
+
+# Variables:
+#   $date (string) - Date to be formatted based on locale
+sidebar-history-date-today =
+    .heading = Azi - { DATETIME($date, dateStyle: "full") }
+sidebar-history-date-yesterday =
+    .heading = Ieri - { DATETIME($date, dateStyle: "full") }
+sidebar-history-date-this-month =
+    .heading = { DATETIME($date, dateStyle: "full") }
+sidebar-history-date-prev-month =
+    .heading = { DATETIME($date, month: "long", year: "numeric") }
+# When history is sorted by site, this heading is used in place of a domain, in
+# order to group sites that do not come from an outside host.
+# For example, this would be the heading for all file:/// URLs in history.
+sidebar-history-site-localhost =
+    .heading = (fișiere locale)
+sidebar-history-delete =
+    .title = Șterge din istoric
+sidebar-history-clear =
+    .label = Șterge istoricul
+sidebar-history-sort-by-heading = Sortează după:
+sidebar-history-sort-option-date =
+    .label = Dată
+sidebar-history-sort-option-site =
+    .label = Site
+sidebar-history-sort-option-date-and-site =
+    .label = Dată și site
+sidebar-history-sort-option-last-visited =
+    .label = Ultimul vizitat
+
+## Labels for sidebar search
+
+# "Search" is a noun (as in "Results of the search for")
+# Variables:
+#   $query (String) - The search query used for searching through browser history.
+sidebar-search-results-header =
+    .heading = Caută rezultate pentru „{ $query }”
 
 ## Labels for sidebar customize panel
 
+sidebar-customize-extensions-header = Extensii în bara laterală
 sidebar-customize-firefox-tools-header =
     .label = Instrumente { -brand-product-name }
+sidebar-customize-firefox-settings = Gestionează setările { -brand-short-name }
+sidebar-vertical-tabs =
+    .label = File verticale
+sidebar-settings =
+    .label = Setări bară laterală
+sidebar-hide-tabs-and-sidebar =
+    .label = Ascunde filele și bara laterală
+sidebar-show-on-the-right =
+    .label = Mută bara laterală la dreapta
+sidebar-show-on-the-left =
+    .label = Mută bara laterală la stânga
+# Option to automatically expand the collapsed sidebar when the mouse pointer
+# hovers over it.
+expand-sidebar-on-hover =
+    .label = Extinde bara laterală la trecerea cu mouse-ul
+sidebar-manage-extensions = Gestionează extensiile
 
 ## Labels for sidebar context menu items
 
+sidebar-context-menu-manage-extension =
+    .label = Gestionează extensia
+sidebar-context-menu-remove-extension =
+    .label = Elimină extensia
+sidebar-context-menu-report-extension =
+    .label = Raportează extensia
 sidebar-context-menu-open-in-tab =
     .label = Deschide într-o filă nouă
 sidebar-context-menu-open-in-container-tab =
     .label = Deschide într-o filă container nouă
+sidebar-context-menu-open-in-window =
+    .label = Deschide într-o fereastră nouă
 sidebar-context-menu-open-in-private-window =
     .label = Deschide într-o fereastră privată nouă
 sidebar-context-menu-forget-site =
