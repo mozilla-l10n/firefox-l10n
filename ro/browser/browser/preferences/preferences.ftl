@@ -233,6 +233,14 @@ containers-remove-cancel-button = Nu elimina acest container
 settings-tabs-show-image-in-preview =
     .label = Afișează o previzualizare a imaginii când treci cu mouse-ul peste o filă
     .accessKey = h
+browser-layout-horizontal-tabs =
+    .label = File orizontale
+browser-layout-horizontal-tabs-desc = Afișare în partea de sus a browserului
+browser-layout-vertical-tabs =
+    .label = File verticale
+browser-layout-vertical-tabs-desc = Afișare laterală, în bara laterală
+browser-layout-show-sidebar =
+    .label = Afișează bara laterală
 
 ## General Section - Language & Appearance
 
