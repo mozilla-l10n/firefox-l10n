@@ -170,6 +170,9 @@ profiler-popup-capture-shortcut =
         [macos] ⌃⇧2
        *[other] Ctrl+Shift+2
     }
+profiler-button-dropmarker =
+    .label = Адкрыць панэль прафайлера
+    .tooltiptext = Адкрыць панэль прафайлера
 
 ## Profiler presets
 ## They are shown in the popup's select box.
@@ -196,6 +199,9 @@ profiler-popup-presets-graphics-label =
 profiler-popup-presets-media-description2 = Папярэднія налады для даследавання хібаў гуку і відэа ў { -brand-shorter-name }.
 profiler-popup-presets-media-label =
     .label = Медыя
+profiler-popup-presets-ml-description = Папярэднія налады для даследавання хібаў машыннага навучання ў { -brand-shorter-name }.
+profiler-popup-presets-ml-label =
+    .label = Машыннае навучанне
 profiler-popup-presets-networking-description = Папярэднія налады для даследавання сеткавых хібаў у { -brand-shorter-name }.
 profiler-popup-presets-networking-label =
     .label = Сетка
