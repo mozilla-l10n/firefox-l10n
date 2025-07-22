@@ -29,6 +29,8 @@ return-to-amo-add-theme-label = Adaugă tema
 ##  Variables: $addon-name (String) - Name of the add-on to be installed
 
 mr1-return-to-amo-subtitle = Salută { -brand-short-name }
+mr1-return-to-amo-addon-title = Ai la îndemână un browser rapid care îți respectă viața privată. Acum poți adăuga <b>{ $addon-name }</b> și poți face și mai multe cu { -brand-short-name }.
+mr1-return-to-amo-add-extension-label = Adaugă { $addon-name }
 
 ## Multistage onboarding strings (about:welcome pages)
 
@@ -38,6 +40,8 @@ mr1-return-to-amo-subtitle = Salută { -brand-short-name }
 #   $current (Int) - Number of the current page
 #   $total (Int) - Total number of pages
 
+onboarding-welcome-steps-indicator-label =
+    .aria-label = Progres: pasul { $current } din { $total }
 # This button will open system settings to turn on prefers-reduced-motion
 mr1-onboarding-reduce-motion-button-label = Dezactivează animațiile
 # String for the Firefox Accounts button
@@ -46,12 +50,19 @@ mr1-onboarding-sign-in-button-label = Autentificare
 # Variables:
 #   $previous (Str) - Previous browser name, such as Edge, Chrome
 mr1-onboarding-import-primary-button-label-attribution = Importă din { $previous }{ $previous }
+mr1-onboarding-theme-header = Fă-l pe stilul tău
 mr1-onboarding-theme-subtitle = Personalizează { -brand-short-name } cu o temă.
 mr1-onboarding-theme-secondary-button-label = Nu acum
+newtab-wallpaper-onboarding-title = Încearcă o pată de culoare
+newtab-wallpaper-onboarding-subtitle = Alege o imagine de fundal ca să dai filelor noi un aspect proaspăt.
+newtab-wallpaper-onboarding-primary-button-label = Setează imaginea de fundal
 # System theme uses operating system color settings
 mr1-onboarding-theme-label-system = Tema sistemului
+mr1-onboarding-theme-label-light = Deschisă
+mr1-onboarding-theme-label-dark = Întunecată
 # "Alpenglow" here is the name of the theme, and should be kept in English.
 mr1-onboarding-theme-label-alpenglow = Alpenglow
+onboarding-theme-primary-button-label = Terminat
 
 ## Please make sure to split the content of the title attribute into lines whose
 ## width corresponds to about 40 Latin characters, to ensure that the tooltip
@@ -68,9 +79,43 @@ mr1-onboarding-theme-description-system =
     .aria-description =
         Urmează tema sistemului de operare
         pentru butoane, meniuri și ferestre.
+# Tooltip displayed on hover of light theme
+mr1-onboarding-theme-tooltip-light =
+    .title =
+        Folosește o temă luminoasă pentru
+        butoane, meniuri și ferestre.
+# Input description for light theme
+mr1-onboarding-theme-description-light =
+    .aria-description =
+        Folosește o temă luminoasă pentru
+        butoane, meniuri și ferestre.
+# Tooltip displayed on hover of dark theme
+mr1-onboarding-theme-tooltip-dark =
+    .title =
+        Folosește o temă întunecată pentru
+        butoane, meniuri și ferestre.
+# Input description for dark theme
+mr1-onboarding-theme-description-dark =
+    .aria-description =
+        Folosește o temă întunecată pentru
+        butoane, meniuri și ferestre.
+# Tooltip displayed on hover of Alpenglow theme
+mr1-onboarding-theme-tooltip-alpenglow =
+    .title =
+        Folosește o temă dinamică și colorată pentru
+        butoane, meniuri și ferestre.
+# Input description for Alpenglow theme
+mr1-onboarding-theme-description-alpenglow =
+    .aria-description =
+        Folosește o temă dinamică și colorată pentru
+        butoane, meniuri și ferestre.
+# Selector description for default themes
+mr2-onboarding-default-theme-label = Explorează temele implicite.
 
 ## Strings for Thank You page
 
+mr2-onboarding-thank-you-header = Îți mulțumim că ne-ai ales
+mr2-onboarding-thank-you-text = { -brand-short-name } este un browser independent susținut de o organizație non-profit. Împreună, facem internetul mai sigur, mai sănătos și mai atent cu viața privată.
 mr2-onboarding-start-browsing-button-label = Începe să navighezi
 
 ## Multistage live language reloading onboarding strings (about:welcome pages)
@@ -95,12 +140,24 @@ onboarding-live-language-skip-button-label = Omite
 
 ## Firefox 100 Thank You screens
 
+# "Hero Text" displayed on left side of welcome screen. This text can be
+# formatted to span multiple lines as needed. The <span data-l10n-name="zap">
+# </span> in this string allows a "zap" underline style to be automatically
+# added to the text inside it. "Yous" should stay inside the zap span, but
+# "Thank" can be put inside instead if there's no "you" in the translation.
+# The English text would normally be "100 Thank-Yous" i.e., plural noun, but for
+# aesthetics of splitting it across multiple lines, the hyphen is omitted.
+fx100-thank-you-hero-text =
+    100
+    de
+    <span data-l10n-name="zap">mulțumiri</span>
 fx100-thank-you-subtitle = Este versiunea noastră cu numărul 100! Îți mulțumim că ne ajuți să construim un internet mai bun și mai sănătos.
 fx100-thank-you-pin-primary-button-label =
     { PLATFORM() ->
         [macos] Păstrează { -brand-short-name } în Dock
        *[other] Fixează { -brand-short-name } în bara de activități
     }
+fx100-upgrade-thanks-header = 100 de ori mulțumim
 # Message shown with a start-browsing button. Emphasis <em> should be for "you"
 # but "Thank" can be used instead if there's no "you" in the translation.
 fx100-upgrade-thank-you-body = Este versiunea noastră cu numărul 100 a { -brand-short-name }. <em>Îți mulțumim</em> că ne ajuți să construim un internet mai bun și mai sănătos.
@@ -119,17 +176,43 @@ mr2022-onboarding-easy-setup-import-checkbox-label = Importă dintr-un browser a
 
 ## MR2022 New User Pin Firefox screen strings
 
+# Title used on about:welcome for new users when Firefox is not pinned.
+# In this context, open up is synonymous with "Discover".
+# The metaphor is that when they open their Firefox browser, it helps them discover an amazing internet.
+# If this translation does not make sense in your language, feel free to use the word "discover."
+mr2022-onboarding-welcome-pin-header = Deschide un internet uimitor
+# Subtitle is used on onboarding page for new users page when Firefox is not pinned
+mr2022-onboarding-welcome-pin-subtitle = Lansează { -brand-short-name } de oriunde cu un singur clic. De fiecare dată, alegi un web mai deschis și mai independent.
 # Primary button string used on welcome page for when Firefox is not pinned.
 mr2022-onboarding-pin-primary-button-label =
     { PLATFORM() ->
         [macos] Păstrează { -brand-short-name } în Dock
        *[other] Fixează { -brand-short-name } în bara de activități
     }
+# Primary button string used on welcome page for when Firefox is not pinned on MSIX
+mr2022-onboarding-pin-primary-button-label-msix = Fixează { -brand-short-name } în bara de sarcini și în meniul de start
+# Subtitle will be used when user already has Firefox pinned, but
+# has not set it as their default browser.
+# When translating "zip", please feel free to pick a verb that signifies movement and/or exploration
+# and makes sense in the context of navigating the web.
+mr2022-onboarding-set-default-only-subtitle = Începe cu un browser susținut de o organizație non-profit. Îți apărăm confidențialitatea când navighezi pe web.
+
+## MR2022 Existing User Pin Firefox Screen Strings
+
+# Title used on multistage onboarding page for existing users when Firefox is not pinned
+mr2022-onboarding-existing-pin-header = Îți mulțumim că apreciezi { -brand-product-name }
+# Subtitle is used on onboarding page for existing users when Firefox is not pinned
+mr2022-onboarding-existing-pin-subtitle = Lansează un internet mai sănătos de oriunde cu un singur clic. Cea mai recentă actualizare este plină de lucruri noi pe care credem că le vei adora.
+# Subtitle will be used on the welcome screen for existing users
+# when they already have Firefox pinned but not set as default
+mr2022-onboarding-existing-set-default-only-subtitle = Folosește un browser care îți protejează confidențialitatea când navighezi pe web. Cea mai recentă actualizare este plină de lucruri pe care le adori.
+mr2022-onboarding-existing-pin-checkbox-label = Adaugă și navigarea privată { -brand-short-name }
 
 ## MR2022 New User Set Default screen strings
 
 # This string is the title used when the user already has pinned the browser, but has not set default.
 mr2022-onboarding-set-default-title = Desemnează { -brand-short-name } drept browserul implicit
+mr2022-onboarding-set-default-primary-button-label = Setează { -brand-short-name } ca browser implicit
 # When translating "zip", please feel free to pick a verb that signifies movement and/or exploration
 # and makes sense in the context of navigating the web.
 mr2022-onboarding-set-default-subtitle = Folosește un browser susținut de o organizație non-profit. Îți apărăm confidențialitatea în timp ce navighezi pe web.

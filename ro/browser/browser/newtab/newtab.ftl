@@ -374,6 +374,9 @@ newtab-wallpaper-abstract-purple = Forme violete
 newtab-wallpaper-abstract-orange = Forme portocalii
 newtab-wallpaper-gradient-orange = Gradient de portocaliu și roz
 newtab-wallpaper-abstract-blue-purple = Forme albastre și violete
+newtab-wallpaper-abstract-white-curves = Alb cu curbe umbrite
+newtab-wallpaper-abstract-purple-green = Gradient de lumină violet și verde
+newtab-wallpaper-abstract-blue-purple-waves = Forme ondulate albastre și violete
 newtab-wallpaper-abstract-black-waves = Forme ondulate negre
 
 ## Celestial
@@ -383,12 +386,18 @@ newtab-wallpaper-beach-at-sunrise = Plajă la răsărit
 newtab-wallpaper-beach-at-sunset = Plajă la apus
 newtab-wallpaper-storm-sky = Cer cu furtună
 newtab-wallpaper-sky-with-pink-clouds = Cer cu nori roz
+newtab-wallpaper-red-panda-yawns-in-a-tree = Panda roșu căscând într-un copac
+newtab-wallpaper-white-mountains = Munții albi
 newtab-wallpaper-hot-air-balloons = Baloane cu aer cald în culori asortate, pe timp de zi
 newtab-wallpaper-starry-canyon = Noapte albastră înstelată
 newtab-wallpaper-suspension-bridge = Fotografie gri cu pod suspendat integral, pe timp de zi
 newtab-wallpaper-sand-dunes = Dune de nisip alb
 newtab-wallpaper-palm-trees = Siluetă de cocotieri la asfințit
 newtab-wallpaper-blue-flowers = Fotografie de prim-plan cu flori cu petale albastre înflorite
+# Variables
+#   $author_string (String) - The name of the creator of the photo.
+#   $webpage_string (String) - The name of the webpage where the photo is located.
+newtab-wallpaper-attribution = Fotografie de <a data-l10n-name="name-link">{ $author_string }</a> pe <a data-l10n-name="webpage-link">{ $webpage_string }</a>
 newtab-wallpaper-feature-highlight-header = Încearcă o pată de culoare
 newtab-wallpaper-feature-highlight-content = Dă-i filei noi un aspect proaspăt cu imagini de fundal.
 newtab-wallpaper-feature-highlight-button = Am înțeles
@@ -466,6 +475,22 @@ newtab-topic-label-education-science = Ştiinţă
 # at the top of https://getpocket.com/explore/self-improvement for more context.
 newtab-topic-label-society = Sfaturi practice
 newtab-topic-label-sports = Sport
+newtab-topic-label-tech = Tehnică
+newtab-topic-label-travel = Călătorie
+newtab-topic-label-home = Casă și grădină
+
+## Topic Selection Modal
+
+# “fine-tune” refers to the process of making small adjustments to something to get
+# the best or desired experience or performance.
+newtab-topic-selection-title = Selectează subiecte pentru feed
+# “tailored” refers to process of (a tailor) making (clothes) to fit individual customers.
+# In other words, “Our expert curators prioritize stories to fit your selected interests”
+newtab-topic-selection-subtitle = Alege două sau mai multe subiecte. Specialiștii noștri dau prioritate articolelor adaptate intereselor tale. Actualizează oricând.
+newtab-topic-selection-save-button = Salvează
+newtab-topic-selection-cancel-button = Anulează
+newtab-topic-selection-button-maybe-later = Poate mai târziu
+newtab-topic-selection-privacy-link = Aflați cum îți protejăm și gestionăm datele
 
 ## Strings for reporting ads and content
 
