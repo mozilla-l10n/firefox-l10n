@@ -268,7 +268,7 @@ newtab-pocket-thumbs-down-tooltip =
     .title = Nu-i pentru mine
 # Used to show the user a message upon clicking the thumbs up or down buttons
 newtab-toast-thumbs-up-or-down2 =
-    .message = Mulțumesc. Feedback-ul tău ne va ajuta să-ți îmbunătățim feedul.
+    .message = Mulțumesc. Feedback-ul tău ne va ajuta să-ți îmbunătățim fluxul.
 newtab-toast-dismiss-button =
     .title = Respinge
     .aria-label = Respinge
@@ -491,6 +491,39 @@ newtab-topic-selection-save-button = Salvează
 newtab-topic-selection-cancel-button = Anulează
 newtab-topic-selection-button-maybe-later = Poate mai târziu
 newtab-topic-selection-privacy-link = Aflați cum îți protejăm și gestionăm datele
+newtab-topic-selection-button-update-interests = Actualizează-ți interesele
+newtab-topic-selection-button-pick-interests = Alege-ți interesele
+
+## Content Feed Sections
+## "Follow", "unfollow", and "following" are social media terms that refer to subscribing to or unsubscribing from a section of stories.
+## e.g. Following the travel section of stories.
+
+newtab-section-follow-button = Urmărește
+newtab-section-following-button = Urmăresc
+newtab-section-unfollow-button = Nu mai urmări
+# A modal may appear next to the Follow button, directing users to try out the feature
+newtab-section-follow-highlight-title = Ajustează-ți feedul
+newtab-section-follow-highlight-subtitle = Urmărește ce te interesează ca să vezi mai multe din ceea ce îți place.
+
+## Button to block/unblock listed topics
+## "Block", "unblocked", and "blocked" are social media terms that refer to hiding a section of stories.
+## e.g. Blocked the politics section of stories.
+
+newtab-section-block-button = Blochează
+newtab-section-blocked-button = Blocat
+newtab-section-unblock-button = Deblochează
+
+## Confirmation modal for blocking a section
+
+newtab-section-cancel-button = Nu acum
+newtab-section-confirm-block-topic-p1 = Sigur vrei să blochezi acest subiect?
+newtab-section-confirm-block-topic-p2 = Subiectele blocate nu vor mai apărea în fluxul tău.
+
+## Strings for custom wallpaper highlight
+
+newtab-section-mangage-topics-title = Subiecte
+newtab-section-mangage-topics-followed-topics-empty-state = Nu ai urmărit încă niciun subiect.
+newtab-section-mangage-topics-blocked-topics-empty-state = Nu ai blocat încă niciun subiect.
 
 ## Strings for reporting ads and content
 

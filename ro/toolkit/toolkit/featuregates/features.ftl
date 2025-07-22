@@ -28,3 +28,4 @@ experimental-features-devtools-serviceworker-debugger-support =
     .label = Instrumente pentru dezvoltatori: Depanarea scripturilor service worker
 # "Service Worker" is an API name and is usually not translated.
 experimental-features-devtools-serviceworker-debugger-support-description = Activează un suport experimental pentru scripturi service worker în panoul Depanatorului. Această funcționalitate poate încetini Instrumentele pentru dezvoltatori și poate crește consumul de memorie.
+experimental-features-webrtc-global-mute-toggles-description = Adaugă controale la indicatorul de partajare globală WebRTC, care permit utilizatorilor să dezactiveze global sunetul microfonului și fluxul camerei.

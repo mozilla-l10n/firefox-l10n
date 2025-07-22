@@ -5,7 +5,7 @@
 
 ## Colorway names and descriptions
 
-playmaker-colorway-name = Coordonatorul
+playmaker-colorway-name = Jucător în echipă
 playmaker-colorway-description = Creezi oportunități de a câștiga și de a-i ajuta pe alții să-și ducă jocul la un nivel mai înalt.
 expressionist-colorway-name = Expresionistul
 expressionist-colorway-description = Vezi lumea altfel, iar creațiile tale stârnesc emoțiile altora.

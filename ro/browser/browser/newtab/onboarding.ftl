@@ -221,6 +221,17 @@ mr2022-onboarding-set-default-subtitle = Folosește un browser susținut de o or
 ## These strings will be used on the welcome page
 ## when Firefox is already set to default and pinned.
 
+# When translating "zip", please feel free to pick a verb that signifies movement and/or exploration
+# and makes sense in the context of navigating the web.
+mr2022-onboarding-get-started-primary-subtitle = Cea mai recentă versiune este făcută pentru tine, navigarea pe web este mai ușoară ca niciodată. Este plină de funcționalități pe care credem că le vei adora.
+mr2022-onboarding-get-started-primary-button-label = Configurează în câteva secunde
+
+## MR2022 Get Started screen strings.
+## These strings will be used on the welcome page
+## when Firefox is already set to default and pinned.
+
+mr2022-onboarding-import-header = Configurare cât ai zice pește
+mr2022-onboarding-import-subtitle = Configurează { -brand-short-name } cum vrei. Adaugă marcajele, parolele și multe altele din vechiul browser.
 mr2022-onboarding-import-primary-button-label-no-attribution = Importă dintr-un browser anterior
 
 ## If your language uses grammatical genders, in the description for the
@@ -228,8 +239,18 @@ mr2022-onboarding-import-primary-button-label-no-attribution = Importă dintr-un
 ## Playmaker. You create…") to "X: you…" ("Playmaker: You create…"). This might
 ## help creating a more inclusive translation.
 
+mr2022-onboarding-colorway-title = Alege culoarea care te inspiră
+mr2022-onboarding-colorway-subtitle = Vocile independente pot schimba cultura.
 mr2022-onboarding-colorway-primary-button-label-continue = Setează și continuă
 mr2022-onboarding-existing-colorway-checkbox-label = Fă din pagina de { -firefox-home-brand-name } pagina ta de start colorată
+mr2022-onboarding-colorway-label-default = Implicit
+mr2022-onboarding-colorway-tooltip-default2 =
+    .title = Culorile actuale { -brand-short-name }
+mr2022-onboarding-colorway-description-default = <b>Folosește culorile mele actuale { -brand-short-name }.</b>
+mr2022-onboarding-colorway-label-playmaker = Jucător în echipă
+mr2022-onboarding-colorway-tooltip-playmaker2 =
+    .title = Jucător în echipă (roșu)
+mr2022-onboarding-colorway-description-playmaker = <b>Ești un Jucător în echipă.</b> Creezi oportunități de a câștiga și îi ajuți pe toți cei din jurul tău să-și îmbunătățească jocul.
 
 ## MR2022 Multistage Mobile Download screen strings
 
@@ -269,6 +290,10 @@ onboarding-easy-setup-security-and-privacy-title = Ne place să te protejăm
 onboarding-sign-up-title = Sincronizează-ți datele pe dispozitive
 onboarding-sign-up-description = Fă-ți un cont și toate informațiile tale importante — parole, marcaje și multe altele — vor fi stocate în siguranță și vor fi disponibile când te autentifici de pe orice dispozitiv.
 onboarding-sign-up-button = Fă-ți un cont sau intră în cont
+
+## New user time and familiarity survey strings
+
+onboarding-new-user-survey-subtitle = Feedbackul tău ne ajută să facem { -brand-short-name } și mai bun.
 
 ## New user onboarding checklist
 
