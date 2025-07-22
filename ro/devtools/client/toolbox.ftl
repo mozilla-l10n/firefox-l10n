@@ -27,3 +27,5 @@ toolbox-meatball-menu-noautohide-label = Dezactivează ascunderea automată a fe
 
 ## These labels are shown in the top-toolbar in the Browser Toolbox and Browser Console
 
+toolbox-always-on-top-enabled2 = Dezactivează întotdeauna deasupra
+    .title = Va reporni instrumentele de dezvoltare
