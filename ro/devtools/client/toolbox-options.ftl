@@ -104,7 +104,7 @@ options-enable-service-workers-http-label = Activează scripturile Service Worke
 options-enable-service-workers-http-tooltip =
     .title = Pornirea acestei opțiuni va permite trecerea scripturilor service worker prin HTTP pentru toate filele care au caseta de instrumente deschisă.
 # The label for the checkbox that toggles source maps in all tools.
-options-source-maps-label = Activează hărțile pentru surse
+options-source-maps-label = Activează hărțile de cod-sursă
 options-source-maps-tooltip =
     .title = Dacă activezi această opțiune, sursele vor fi mapate în instrumente.
 # The message shown for settings that trigger page reload
