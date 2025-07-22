@@ -36,6 +36,14 @@ webrtc-sharing-window = Partajezi o altă fereastră a aplicației.
 webrtc-sharing-browser-window = Partajezi { -brand-short-name }.
 webrtc-sharing-screen = Îți partajezi tot ecranul.
 webrtc-stop-sharing-button = Oprește partajarea
+webrtc-microphone-unmuted =
+    .title = Oprește microfonul
+webrtc-microphone-muted =
+    .title = Pornește microfonul
+webrtc-camera-unmuted =
+    .title = Oprește camera
+webrtc-camera-muted =
+    .title = Pornește camera
 webrtc-minimize =
     .title = Minimalizează indicatorul
 
@@ -137,10 +145,17 @@ webrtc-indicator-menuitem-sharing-browser-with-n-tabs =
 ## Variables:
 ##   $origin (String): the website origin (e.g. www.mozilla.org).
 
+webrtc-allow-share-audio-capture = Permiți { $origin } să asculte conținutul audio de pe această filă?
 webrtc-allow-share-camera = Permiți { $origin } să îți folosească camera?
 webrtc-allow-share-microphone = Permiți lui { $origin } să îți folosească microfonul?
 webrtc-allow-share-screen = Permiți lui { $origin } să îți vadă ecranul?
+# "Speakers" is used in a general sense that might include headphones or
+# another audio output connection.
+webrtc-allow-share-speaker = Permiți { $origin } să folosească alte boxe?
 webrtc-allow-share-camera-and-microphone = Permiți lui { $origin } să îți folosească microfonul și camera?
+webrtc-allow-share-camera-and-audio-capture = Permiți { $origin } să folosească camera și să asculte conținutul audio de pe această filă?
+webrtc-allow-share-screen-and-microphone = Permiți { $origin } să folosească microfonul și să-ți vadă ecranul?
+webrtc-allow-share-screen-and-audio-capture = Permiți { $origin } să asculte conținutul audio de pe această filă și să îți vadă ecranul?
 
 ## Variables:
 ##   $origin (String): the first party origin.

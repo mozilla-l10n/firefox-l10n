@@ -66,9 +66,14 @@ add-engine-suggest-url = URL de sugestii cu %s în locul termenului de căutare 
 
 add-engine-name-placeholder =
     .placeholder = de ex., Mozilla Developer Network
+add-engine-url-placeholder =
+    .placeholder = de ex. https://developer.mozilla.com/search?q=%s
+add-engine-keyword-placeholder =
+    .placeholder = de ex. @mdn
 
 ## The following strings are used as error messages.
 
+add-engine-keyword-exists = Cuvântul-cheie este deja folosit. Încearcă unul diferit.
 add-engine-no-name = Tă rugăm să adaugi un nume.
 add-engine-no-url = Te rugăm să introduci un URL.
 add-engine-invalid-url = URL-ul nu pare corect. Verific-o și încearcă din nou.

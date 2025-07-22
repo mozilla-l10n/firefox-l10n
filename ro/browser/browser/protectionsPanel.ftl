@@ -72,6 +72,19 @@ protections-panel-blocking-label = Blocate
 protections-panel-not-blocking-label = Permise
 protections-panel-not-found-label = Niciunul detectat
 
+## Smartblock strings
+
+protections-panel-smartblock-desc-label = { -brand-short-name } blochează conținutul de urmărire cât timp ești pe acest site, cu excepția cazului în care îi permiți.
+# Variables
+#  $trackername (String): the name of the tracker that is currently being blocked.
+protections-panel-smartblock-blocking-toggle =
+    .label = Permite { $trackername }
+#  $trackername (String): the name of the tracker that is currently being blocked.
+smartblock-placeholder-title = Elemente de urmărire și conținut { $trackername } blocate
+smartblock-placeholder-desc = Setările { -brand-short-name } au blocat acest conținut să te urmărească pe alte site-uri sau să fie folosit pentru reclame.
+#  $websitehost (String): host of website with blocked content.
+smartblock-placeholder-button-text = Permite pe { $websitehost }
+
 ##
 
 protections-panel-settings-label = Setări pentru protecție
@@ -98,7 +111,10 @@ protections-panel-cryptominers = Criptomomerii folosesc puterea de calcul a sist
 protections-panel-fingerprinters = Detectoarele de amprente digitale îți colectează setările din browser și calculator și creează un profil despre tine. Cu această amprentă digitală, te pot urmări pe diferite site-uri web.
 protections-panel-tracking-content = Site-urile web pot încărca reclame externe, videoclipuri și alte conținuturi ce conțin coduri de urmărire. Blocarea conținutului de urmărire poate ajuta site-urile să se încarce mai rapid, dar este posibil ca unele butoane, formulare și câmpuri de autentificare să nu funcționeze.
 protections-panel-social-media-trackers = Rețelele de socializare plasează elemente de urmărire pe alte site-uri web pentru a urmări ce faci, ce vezi și ce urmărești online. Ele permit firmelor care dețin rețelele de socializare să afle mai multe despre tine, dincolo de ce partajezi pe profilurile de pe rețelele de socializare.
+protections-panel-description-shim-allowed = Unele elemente de urmărire marcate mai jos au fost deblocate parțial pe această pagină deoarece ai interacționat cu ele.
 protections-panel-description-shim-allowed-learn-more = Află mai multe
+protections-panel-shim-allowed-indicator =
+    .tooltiptext = Element de urmărire deblocat parțial
 protections-panel-content-blocking-manage-settings =
     .label = Gestionează setările pentru protecție
     .accesskey = M
@@ -118,6 +134,13 @@ protections-panel-content-blocking-breakage-report-view-send-report =
 
 # Cookie Banner Handling
 
+protections-panel-cookie-banner-handling-header = Reducerea bannerelor de cookie-uri
+protections-panel-cookie-banner-blocker-header = Blocator de bannere de cookie-uri
+protections-panel-cookie-banner-handling-enabled = Activat pentru acest site
+protections-panel-cookie-banner-handling-disabled = Dezactivat pentru acest site
+protections-panel-cookie-banner-handling-undetected = Site-ul nu este acceptat momentan
+protections-panel-cookie-banner-view-title =
+    .title = Reducerea bannerelor de cookie-uri
 # Variables
 #  $host (String): the hostname of the site that is being displayed.
 protections-panel-cookie-banner-view-turn-off-for-site = Dezactivezi reducerea bannerelor de cookie-uri pentru { $host }?
@@ -133,6 +156,13 @@ protections-panel-cookie-banner-view-turn-on-description = { -brand-short-name }
 protections-panel-cookie-banner-view-cancel = Anulează
 protections-panel-cookie-banner-view-turn-off = Dezactivează
 protections-panel-cookie-banner-view-turn-on = Activează
+protections-panel-cookie-banner-blocker-view-turn-on-description = Activează, iar { -brand-short-name } va încerca să refuze automat bannerele de cookie-uri pe acest site.
+protections-panel-cookie-banner-view-cancel-label =
+    .label = Anulează
+protections-panel-cookie-banner-view-turn-off-label =
+    .label = Oprește
+protections-panel-cookie-banner-view-turn-on-label =
+    .label = Activează
 protections-panel-report-broken-site =
     .label = Raportează site nefuncțional
     .title = Raportează site nefuncțional
