@@ -97,6 +97,10 @@ autofill-edit-card-password-prompt =
         [windows] { -brand-short-name } încearcă să afișeze informații despre cardurile de credit. Confirmă accesul la acest cont de Windows mai jos.
        *[other] { -brand-short-name } încearcă să afișeze informații despre cardurile de credit.
     }
+# The dialog title for creating credit cards in browser preferences.
+autofill-add-card-title = Adaugă card
+# The dialog title for editing credit cards in browser preferences.
+autofill-edit-card-title2 = Editează card
 autofill-card-number = Numărul cardului
 autofill-card-invalid-number = Te rugăm să introduci un număr de card valid
 autofill-card-name-on-card = Numele de pe card

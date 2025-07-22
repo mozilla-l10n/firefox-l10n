@@ -12,6 +12,9 @@ permissions-address = Adresa site-ului web
 permissions-block =
     .label = Blochează
     .accesskey = B
+permissions-disable-etp =
+    .label = Adaugă excepție
+    .accesskey = E
 permissions-session =
     .label = Permite pentru sesiune
     .accesskey = s
@@ -73,6 +76,7 @@ permissions-invalid-uri-label = Te rugăm să introduci un nume de gazdă valid
 permissions-exceptions-etp-window2 =
     .title = Excepții pentru protecția îmbunătățită împotriva urmăririi
     .style = { permissions-window2.style }
+permissions-exceptions-manage-etp-desc = Poți specifica site-urile web care au dezactivată Protecția îmbunătățită împotriva urmăririi. Introdu adresa exactă a site-ului pe care vrei să îl gestionezi, apoi dă clic pe Adaugă excepție.
 
 ## Exceptions - Cookies
 
@@ -101,9 +105,6 @@ permissions-exceptions-saved-logins-window2 =
     .title = Excepții - Date de autentificare salvate
     .style = { permissions-window2.style }
 permissions-exceptions-saved-logins-desc = Nu vor fi salvate date de autentificare pentru următoarele site-uri web
-
-## Exceptions - Saved Passwords
-
 
 ## Exceptions - Add-ons
 
@@ -168,8 +169,3 @@ permissions-site-microphone-desc = Următoarele site-uri web au solicitat să î
 permissions-site-microphone-disable-label =
     .label = Blochează noile solicitări de accesare a microfonului
 permissions-site-microphone-disable-desc = Acest lucru va împiedica orice site web care nu este listat mai sus să ceară permisiunea de a-ți accesa microfonul. Blocarea accesului la microfon ar putea interfera cu unele funcții ale site-urilor web.
-
-## Site Permissions - Speaker
-##
-## "Speaker" refers to an audio output device.
-

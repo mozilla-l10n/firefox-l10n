@@ -4,6 +4,8 @@
 
 places-error-title = { -brand-short-name }
 places-no-title = (fără titlu)
+# Do not translate `javascript:` and `data:`, they refer to the scheme used in URLs
+places-load-js-data-url-error = Din motive de securitate, URL-urile „javascript:” sau „data:” nu pot fi încărcate din fereastra de istoric sau din bara laterală.
 places-bookmarks-backup-title = Numele fișierului cu copia de siguranță a marcajelor
 places-bookmarks-restore-alert-title = Restaurează marcajele
 places-bookmarks-restore-alert = Acest lucru va înlocui toate marcajele actuale cu cele din copia de siguranță. Sigur vrei asta?
