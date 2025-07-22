@@ -5,6 +5,9 @@
 popup-notification-learn-more = Află mai multe
 popup-notification-more-actions-button =
     .aria-label = Mai multe acțiuni
+popup-notification-default-button2 =
+    .label = OK
+    .accesskey = O
 popup-notification-default-button =
-    .label = Ok!
+    .label = OK!
     .accesskey = O

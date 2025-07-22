@@ -11,6 +11,7 @@ search-header =
 ##   $domain - Domain name where add-ons are available (e.g. addons.mozilla.org)
 
 list-empty-get-extensions-message = Obține extensii și teme pe <a data-l10n-name="get-extensions">{ $domain }</a>
+list-empty-get-dictionaries-message = Obține dicționare pe <a data-l10n-name="get-extensions">{ $domain }</a>
 list-empty-get-language-packs-message = Obține pachete lingvistice pe <a data-l10n-name="get-extensions">{ $domain }</a>
 
 ##
@@ -39,6 +40,8 @@ detail-version =
     .label = Versiune
 detail-last-updated =
     .label = Ultima actualizare
+addon-detail-description-expand = Afișează mai multe
+addon-detail-description-collapse = Arată mai puțin
 detail-contributions-description = Dezvoltatorul acestei extensii îți cere sprijinul pentru continuarea perfecționării acesteia printr-o mică donație.
 detail-contributions-button = Contribuie
     .title = Contrbuie la dezvoltarea acestui supliment
@@ -138,6 +141,13 @@ addon-category-available-updates-title =
 addon-category-recent-updates = Actualizări recente
 addon-category-recent-updates-title =
     .title = Actualizări recente
+addon-category-sitepermission = Permisiuni site-uri
+addon-category-sitepermission-title =
+    .title = Permisiuni site-uri
+# String displayed in about:addons in the Site Permissions section
+# Variables:
+#  $host (string) - DNS host name for which the webextension enables permissions
+addon-sitepermission-host = Permisiuni site-uri pentru { $host }
 
 ## These are global warnings
 
@@ -154,6 +164,9 @@ extensions-warning-update-security2 =
     .message = Verificarea securității actualizărilor de suplimente este dezactivată. Ai putea primi actualizări compromise.
 extensions-warning-update-security-button = Activează
     .title = Activează verificarea securității actualizărilor suplimentelor
+extensions-warning-imported-addons2 =
+    .message = Te rugăm să finalizezi instalarea extensiilor importate în { -brand-short-name }.
+extensions-warning-imported-addons-button = Instalează extensii
 
 ## Strings connected to add-on updates
 
@@ -190,6 +203,10 @@ addon-updates-manual-updates-found = Vezi actualizările disponibile
 
 addon-install-from-file = Instalează un supliment dintr-un fișier…
     .accesskey = I
+# Like `addon-install-from-file` but used when the `extensions.webextensions.prefer-update-over-install-for-existing-addon`
+# pref is set.
+addon-install-or-update-from-file = Instalează sau actualizează suplimentul din fișier…
+    .accesskey = I
 addon-install-from-file-dialog-title = Selectează suplimentul pentru instalare
 addon-install-from-file-filter-name = Suplimente
 addon-open-about-debugging = Depanează suplimente
@@ -204,6 +221,9 @@ shortcuts-no-addons = Nu ai activat nicio extensie.
 shortcuts-no-commands = Următoarele extensii nu au comenzi rapide:
 shortcuts-input =
     .placeholder = Tastează o comandă rapidă
+# Accessible name for a trashcan icon button that removes an existent shortcut
+shortcuts-remove-button =
+    .aria-label = Elimină comanda rapidă
 shortcuts-browserAction2 = Activează butonul pentru bara de instrumente
 shortcuts-pageAction = Activează acțiunea pe pagină
 shortcuts-sidebarAction = Comută bara laterală
