@@ -50,6 +50,22 @@ perftools-thread-renderer =
     .title = Când este activat WebRender, firul care execută apelurile OpenGL
 perftools-thread-render-backend =
     .title = Firul WebRender RenderBackend
+perftools-thread-timer =
+    .title = Firul care gestionează temporizatoarele (setTimeout, setInterval, nsITimer)
+perftools-thread-style-thread =
+    .title = Calculul stilului este împărțit în mai multe fire
+perftools-thread-task-controller =
+    .title = Fire ale grupului de fire TaskController
+perftools-thread-jvm-gecko =
+    .title = Firul Gecko JVM principal
+perftools-thread-jvm-glean =
+    .title = Firele principale pentru SDK telemetrie Glean
+perftools-thread-jvm-pool =
+    .title = Fire create într-un grup de fire fără nume
+
+##
+
+perftools-record-all-registered-threads = Evită selecțiile de mai sus și înregistrează toate firele înregistrate
 
 ## Onboarding UI labels. These labels are displayed in the new performance panel UI, when
 ## devtools.performance.new-panel-onboarding preference is true.

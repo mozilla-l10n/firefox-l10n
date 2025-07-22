@@ -278,6 +278,7 @@ preferences-web-appearance-override-warning2 =
 # to adapt to your language, but should not be changed.
 preferences-web-appearance-footer = Gestionează temele { -brand-short-name } în <a data-l10n-name="themes-link">Extensii și teme</a>
 preferences-contrast-control-header = Reglarea contrastului
+preferences-contrast-control-description = Site-urile web au o varietate de culori de prim-plan și de fundal. Configurează { -brand-short-name } să utilizeze aceleași culori pe toate site-urile web pentru o lizibilitate îmbunătățită.
 preferences-contrast-control-use-platform-settings =
     .label = Automat (folosește setările de sistem)
     .accesskey = A
@@ -311,6 +312,8 @@ preferences-default-zoom-value =
 preferences-zoom-text-only =
     .label = Zoom doar pe text
     .accesskey = t
+preferences-text-zoom-override-warning =
+    .message = Avertisment: Dacă selectezi „Mărește doar textul” și zoom-ul implicit nu este setat la 100%, este posibil ca unele site-uri sau conținuturi să nu funcționeze corect.
 language-header = Limbă
 choose-language-description = Alege limba în care preferi să vezi paginile
 choose-button =
@@ -360,6 +363,9 @@ download-choose-folder =
 download-always-ask-where =
     .label = Întreabă întotdeauna unde să salvez fișierele
     .accesskey = n
+download-private-browsing-delete =
+    .label = Șterge fișierele descărcate în navigare privată când sunt închise toate ferestrele private
+    .accesskey = D
 applications-header = Aplicații
 applications-description = Alege felul în care { -brand-short-name } gestionează fișierele pe care le descarci de pe web sau aplicațiile pe care le folosești în timp ce navighezi.
 applications-filter =
@@ -476,6 +482,14 @@ update-application-suppress-prompts =
     .label = Afișează mai puține solicitări de notificare a actualizărilor
     .accesskey = n
 update-setting-write-failure-title2 = Eroare la salvarea setărilor de actualizare
+# Variables:
+#   $path (string) - Path to the configuration file
+# The newlines between the main text and the line containing the path is
+# intentional so the path is easier to identify.
+update-setting-write-failure-message2 =
+    { -brand-short-name } a întâmpinat o eroare și nu a salvat această modificare. Reține că modificarea acestei setări de actualizare necesită permisiunea de a scrie în fișierul de mai jos. Poți rezolva eroarea, tu sau administratorul sistemului, acordând grupului de utilizatori control deplin asupra acestui fișier.
+    
+    Nu s-a putut scrie în fișierul: { $path }
 update-in-progress-title = Actualizare în curs
 update-in-progress-message = Vrei ca { -brand-short-name } să continue cu această actualizare?
 update-in-progress-ok-button = Înlătură
@@ -1202,6 +1216,7 @@ addressbar-locbar-suggest-sponsored-option =
 addressbar-locbar-suggest-sponsored-desc = Susține { -brand-short-name } cu sugestii sponsorizate ocazionale.
 addressbar-quickactions-learn-more = Află mai multe
 addressbar-dismissed-suggestions-label = Sugestii respinse
+addressbar-restore-dismissed-suggestions-description = Restaurează sugestiile respinse de la sponsori și { -brand-short-name }.
 addressbar-restore-dismissed-suggestions-button =
     .label = Restaurează
 
@@ -1211,6 +1226,10 @@ content-blocking-enhanced-tracking-protection = Protecție îmbunătățită îm
 content-blocking-section-top-level-description = Elementele de urmărire te urmăresc online pentru a colecta informații despre obiceiurile și interesele tale de navigare. { -brand-short-name } blochează multe dintre aceste elementele de urmărire și alte scripturi rău-intenționate.
 content-blocking-learn-more = Află mai multe
 content-blocking-fpi-incompatibility-warning = Folosești First Party Isolation (FPI), care are prioritate față de unele dintre setările { -brand-short-name } pentru cookie-uri.
+# There is no need to translate "Resist Fingerprinting (RFP)". This is a
+# feature that can only be enabled via about:config, and it's not exposed to
+# standard users (e.g. via Settings).
+content-blocking-rfp-incompatibility-warning = Folosești Resist Fingerprinting (RFP), care înlocuiește o parte din setările de protecție la amprentare din { -brand-short-name }. Ar putea cauza defecțiuni ale unor site-uri.
 
 ## These strings are used to define the different levels of
 ## Enhanced Tracking Protection.
