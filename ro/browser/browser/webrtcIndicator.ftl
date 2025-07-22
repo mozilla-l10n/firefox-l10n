@@ -142,9 +142,6 @@ webrtc-allow-share-microphone = Permiți lui { $origin } să îți folosească m
 webrtc-allow-share-screen = Permiți lui { $origin } să îți vadă ecranul?
 webrtc-allow-share-camera-and-microphone = Permiți lui { $origin } să îți folosească microfonul și camera?
 
-## Special phrasing for sharing devices when the origin is a file url.
-
-
 ## Variables:
 ##   $origin (String): the first party origin.
 ##   $thirdParty (String): the third party origin.
@@ -156,9 +153,12 @@ webrtc-allow-share-screen-and-audio-capture-unsafe-delegation = Permiți { $orig
 
 ##
 
+webrtc-share-screen-warning = Nu partaja ecranul decât cu site-uri în care ai încredere. Partajarea poate permite site-urilor înșelătoare să își însușească identitatea ta la navigare și să îți fure datele private.
+webrtc-share-browser-warning = Nu partaja { -brand-short-name } decât cu site-uri în care ai încredere. Partajarea poate permite site-urilor înșelătoare să își însușească identitatea ta la navigare și să îți fure datele private.
 webrtc-share-screen-learn-more = Află mai multe
 webrtc-pick-window-or-screen = Selectează fereastra sau ecranul
 webrtc-share-entire-screen = Tot ecranul
+webrtc-share-pipe-wire-portal = Folosește setările sistemului de operare
 # Variables:
 #   $monitorIndex (String): screen number (digits 1, 2, etc).
 webrtc-share-monitor = Ecranul { $monitorIndex }
@@ -177,10 +177,23 @@ webrtc-share-application =
 webrtc-action-allow =
     .label = Permite
     .accesskey = A
+webrtc-action-block =
+    .label = Blochează
+    .accesskey = B
+webrtc-action-always-block =
+    .label = Blochează întotdeauna
+    .accesskey = w
+webrtc-action-not-now =
+    .label = Nu acum
+    .accesskey = N
 
 ##
 
 webrtc-remember-allow-checkbox = Ține minte decizia
+webrtc-remember-allow-checkbox-camera = Reține pentru toate camerele
+webrtc-remember-allow-checkbox-microphone = Reține pentru toate microfoanele
+webrtc-remember-allow-checkbox-camera-and-microphone = Reține pentru toate camerele și microfoanele
+webrtc-mute-notifications-checkbox = Dezactivează notificările site-urilor în timpul partajării
 webrtc-reason-for-no-permanent-allow-screen = { -brand-short-name } nu poate permite accesul permanent la ecran.
 webrtc-reason-for-no-permanent-allow-audio = { -brand-short-name } nu poate permite accesul permanent la sunetele din filă fără să te întrebe ce filă să partajeze.
 webrtc-reason-for-no-permanent-allow-insecure = Conexiunea la acest site nu este sigură. Pentru a te proteja, { -brand-short-name } va permite accesul numai pentru această sesiune.

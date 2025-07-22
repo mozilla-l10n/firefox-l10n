@@ -31,6 +31,12 @@ toolbar-context-menu-reopen-closed-tabs =
            *[other] Redeschide filele închise
         }
     .accesskey = o
+toolbar-context-turn-on-vertical-tabs =
+    .label = Activează filele verticale
+toolbar-context-turn-off-vertical-tabs =
+    .label = Dezactivează filele verticale
+toolbar-context-customize-sidebar =
+    .label = Personalizează bara laterală
 toolbar-context-menu-manage-extension =
     .label = Gestionează extensia
     .accesskey = E
@@ -52,6 +58,13 @@ toolbar-context-menu-pin-to-overflow-menu =
 toolbar-context-menu-auto-hide-downloads-button-2 =
     .label = Ascunde butonul când lista este goală
     .accesskey = H
+toolbar-context-menu-always-open-downloads-panel =
+    .label = Afișează panoul când începe descărcarea
+    .accesskey = S
+# Label of checkbox menu item to toggle visibility of Extensions Button.
+toolbar-context-menu-always-show-extensions-button =
+    .label = Afișează întotdeauna în bara de instrumente
+    .accesskey = A
 toolbar-context-menu-remove-from-toolbar =
     .label = Elimină din bara de instrumente
     .accesskey = R

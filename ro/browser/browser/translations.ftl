@@ -10,6 +10,19 @@ urlbar-translations-button =
 # panel.
 urlbar-translations-button2 =
     .tooltiptext = Tradu această pagină - Beta
+# Note that here "Beta" should not be translated, as it is a reflection of the
+# un-localized BETA icon that is in the panel.
+urlbar-translations-button-intro =
+    .tooltiptext = Încearcă traduceri private în { -brand-shorter-name } - Beta
+# If your language requires declining the language name, a possible solution
+# is to adapt the structure of the phrase, or use a support noun, e.g.
+# `Page translated from: { $fromLanguage }. Current target language: { $toLanguage }`
+#
+# Variables:
+#   $fromLanguage (string) - The original language of the document.
+#   $toLanguage (string) - The target language of the translation.
+urlbar-translations-button-translated =
+    .tooltiptext = Pagină tradusă din { $fromLanguage } în { $toLanguage }
 urlbar-translations-button-loading =
     .tooltiptext = Traducere în curs
 translations-panel-settings-button =
@@ -58,6 +71,8 @@ translations-panel-translate-button-loading =
 translations-panel-translate-cancel =
     .label = Anulează
 translations-panel-learn-more-link = Află mai multe
+translations-panel-intro-header = Încearcă traduceri private în { -brand-shorter-name }
+translations-panel-intro-description = Pentru confidențialitatea ta, traducerile nu părăsesc niciodată dispozitivul. În curând vor fi disponibile noi limbi și îmbunătățiri!
 translations-panel-error-translating = A apărut o problemă la traducere. Te rugăm să încerci din nou.
 translations-panel-error-load-languages = Nu s-au putut încărca limbile
 translations-panel-error-load-languages-hint = Verifică conexiunea la internet și încearcă din nou.
@@ -112,6 +127,12 @@ translations-manage-all-language = Toate limbile
 translations-manage-download-button = Descarcă
 translations-manage-delete-button = Șterge
 translations-manage-intro-2 = Setează preferințele de traducere pentru limbă și site-uri și gestionează limbile descărcate pentru traducerea offline.
+translations-manage-download-description = Descarcă limbi pentru traducere offline
+translations-manage-language-download-button =
+    .label = Descarcă
+translations-manage-language-download-all-button =
+    .label = Descarcă tot
+    .accesskey = D
 translations-manage-language-remove-button =
     .label = Elimină
 translations-manage-language-remove-all-button =
@@ -161,12 +182,45 @@ main-context-menu-translate-selection =
 main-context-menu-translate-selection-to-language =
     .label = Tradu selecția în { $language }
     .accesskey = n
+# Text displayed in the right-click context menu for translating
+# the text of a hyperlink to a yet-to-be-determined language.
+main-context-menu-translate-link-text =
+    .label = Tradu textul linkului…
+    .accesskey = n
+# Text displayed in the right-click context menu for translating
+# the text of a hyperlink to a target language.
+#
+# Variables:
+#   $language (string) - The localized display name of the target language
+main-context-menu-translate-link-text-to-language =
+    .label = Tradu textul linkului în { $language }
+    .accesskey = n
+# Text displayed in the select translations panel header.
+select-translations-panel-header = Traducere
+# Text displayed above the from-language dropdown menu.
+select-translations-panel-from-label = Din
+# Text displayed above the to-language dropdown menu.
+select-translations-panel-to-label = În
+# Text displayed above the try-another-source-language dropdown menu.
+select-translations-panel-try-another-language-label = Încearcă altă limbă-sursă
 select-translations-panel-cancel-button =
     .label = Anulează
+# Text displayed on the copy button before it is clicked.
+select-translations-panel-copy-button =
+    .label = Copiază
+# Text displayed on the copy button after it is clicked.
+select-translations-panel-copy-button-copied =
+    .label = Copiat
+select-translations-panel-done-button =
+    .label = Terminat
+select-translations-panel-translate-full-page-button =
+    .label = Tradu toată pagina
 select-translations-panel-translate-button =
     .label = Tradu
 select-translations-panel-try-again-button =
     .label = Încearcă din nou
+# Text displayed as a placeholder when the panel is idle.
+select-translations-panel-idle-placeholder-text = Textul tradus va apărea aici.
 # Text displayed when the translation fails to complete.
 select-translations-panel-translation-failure-message =
     .message = A apărut o problemă la traducere. Te rugăm să încerci din nou.

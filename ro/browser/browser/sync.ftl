@@ -53,6 +53,7 @@ sync-setup-verify-description = Un alt utilizator s-a autentificat în cont pent
 
 # Dialog 1 - different account signing in without option to merge
 sync-profile-different-account-title = A fost atinsă limita de conturi pentru acest profil
+sync-profile-different-account-header = Profilul a fost sincronizat anterior cu un alt cont
 # Variables:
 #   $acctEmail (String) - Email of the account signing into sync.
 sync-profile-different-account-description = Pentru a-ți păstra datele organizate și securizate, fiecare profil { -brand-product-name } poate fi sincronizat doar cu un singur cont. Ca să intri în cont cu { $acctEmail }, creează un profil nou.

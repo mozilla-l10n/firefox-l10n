@@ -32,10 +32,16 @@ duplicate-tabs =
 close-tabs-to-the-start =
     .label = Închide filele de la stânga
     .accesskey = l
+close-tabs-to-the-start-vertical =
+    .label = Închide filele de mai sus
+    .accesskey = I
 # The following string is displayed on a menuitem that will close the tabs from the end of the tabstrip to the currently targeted tab (excluding the currently targeted and any other selected tabs).
 # In left-to-right languages this should use "Right" and in right-to-left languages this should use "Left".
 close-tabs-to-the-end =
     .label = Închide filele de la dreapta
+    .accesskey = i
+close-tabs-to-the-end-vertical =
+    .label = Închide filele de mai jos
     .accesskey = i
 close-other-tabs =
     .label = Închide celelalte file
@@ -76,9 +82,22 @@ move-to-new-window =
 tab-context-close-multiple-tabs =
     .label = Închide mai multe file
     .accesskey = M
+tab-context-close-duplicate-tabs =
+    .label = Închide filele duplicat
+    .accesskey = u
 tab-context-share-url =
     .label = Partajează
     .accesskey = h
+# In left-to-right languages this should use "Right" and in right-to-left languages this should use "Left" to indicate the direction a new tab will open.
+tab-context-new-tab-open =
+    .label = Filă nouă la dreapta
+    .accesskey = w
+tab-context-new-tab-open-vertical =
+    .label = Filă nouă dedesubt
+    .accesskey = w
+tab-context-new-group =
+    .label = Grup nou
+    .accesskey = G
 
 ## Variables:
 ##  $tabCount (Number): the number of tabs that are affected by the action.
@@ -118,3 +137,12 @@ tab-context-send-tabs-to-device =
            *[other] Trimite { $tabCount } de file către un dispozitiv
         }
     .accesskey = n
+tab-context-unload-n-tabs =
+    .label =
+        { $tabCount ->
+            [1] Descarcă fila
+            [one] Descarcă { $tabCount } fila
+            [few] Descarcă { $tabCount } file
+           *[other] Descarcă { $tabCount } de file
+        }
+    .accesskey = U
