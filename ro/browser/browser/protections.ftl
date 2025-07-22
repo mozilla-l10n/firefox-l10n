@@ -59,6 +59,7 @@ mobile-app-card-content = Folosește browserul mobil cu protecție integrată î
 mobile-app-links = { -brand-product-name } Browser pentru <a data-l10n-name="android-mobile-inline-link">Android</a> și <a data-l10n-name="ios-mobile-inline-link">iOS</a>
 lockwise-title = Nu mai pierzi niciodată o parolă
 passwords-title-logged-in = Gestionează-ți parolele
+passwords-header-content = { -brand-product-name } stochează în siguranță parolele în browser.
 lockwise-header-content-logged-in = Stochează-ți și sincronizează-ți parolele în siguranță pe toate dispozitivele.
 protection-report-passwords-manage-passwords-button = Gestionează parolele
     .title = Gestionează parolele

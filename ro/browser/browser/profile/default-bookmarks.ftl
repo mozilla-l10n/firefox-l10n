@@ -27,5 +27,13 @@ default-bookmarks-firefox-about = Despre noi
 default-bookmarks-nightly-heading = Resurse Firefox Nightly
 # Nightly builds only, link title for https://blog.nightly.mozilla.org/
 default-bookmarks-nightly-blog = Blogul Firefox Nightly
+# Nightly builds only, link title for https://bugzilla.mozilla.org/
+default-bookmarks-bugzilla = Mozilla Bug Tracker
+# Nightly builds only, link title for https://developer.mozilla.org/
+default-bookmarks-mdn = Mozilla Developer Network
 # Nightly builds only, link title for https://addons.mozilla.org/firefox/addon/nightly-tester-tools/
 default-bookmarks-nightly-tester-tools = Instrumente de testare Nightly
+# Nightly builds only, link title for about:crashes
+default-bookmarks-crashes = Toate închiderile neașteptate
+# Nightly builds only, link title for https://planet.mozilla.org/
+default-bookmarks-planet = Planeta Mozilla

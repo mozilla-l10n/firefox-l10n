@@ -1038,6 +1038,8 @@ sitedata-option-block-cross-site-cookies =
     .label = Cookie-uri de urmărire inter-site-uri și izolează celelate cookie-uri inter-site-uri
 sitedata-option-block-unvisited =
     .label = Cookie-uri de pe site-uri web nevizitate
+sitedata-option-block-all-cross-site-cookies =
+    .label = Toate cookie-urile intersite-uri (pot cauza întreruperi ale site-urilor web)
 sitedata-option-block-all =
     .label = Toate cookie-urile (va împiedica funcționarea corectă a site-urilor web)
 sitedata-clear =
@@ -1049,6 +1051,19 @@ sitedata-settings =
 sitedata-cookies-exceptions =
     .label = Gestionează excepțiile…
     .accesskey = x
+
+## Privacy Section - Cookie Banner Handling
+
+cookie-banner-handling-header = Reducerea bannerelor de cookie-uri
+cookie-banner-handling-description = { -brand-short-name } încearcă automat să respingă solicitările de cookie-uri din bannerele de cookie-uri de pe site-urile acceptate.
+
+## Privacy Section - Cookie Banner Blocking
+
+cookie-banner-blocker-header = Blocarea bannerelor de cookie-uri
+cookie-banner-blocker-description = Când un site întreabă dacă poate folosi cookie-uri în modul de navigare privată, { -brand-short-name } refuză automat pentru tine. Numai pe site-urile acceptate.
+cookie-banner-learn-more = Află mai multe
+forms-handle-cookie-banners =
+    .label = Reducerea bannerelor de cookie-uri
 
 ## Privacy Section - Address Bar
 
@@ -1271,12 +1286,17 @@ space-alert-over-5gb-settings-button =
 ## Privacy Section - HTTPS-Only
 
 httpsonly-header = Mod numai HTTPS
+httpsonly-description3 = Permite doar conexiuni securizate la site-uri web. { -brand-short-name } va întreba înainte de a se conecta în mod nesecurizat.
+httpsonly-learn-more2 = Cum funcționează Numai HTTPS
 httpsonly-description = HTTPS oferă o conexiune criptată și securizată între { -brand-short-name } și site-urile web pe care intri. Cele mai multe site-uri au suport pentru HTTPS și, dacă este activat modul numai HTTPS, atunci { -brand-short-name } va folosi HTTPS pentru toate conexiunile.
 httpsonly-learn-more = Află mai multe
 httpsonly-radio-enabled =
     .label = Activează modul numai HTTPS în toate ferestrele
 httpsonly-radio-enabled-pbm =
     .label = Activează modul numai HTTPS doar în ferestrele private
+httpsonly-radio-disabled3 =
+    .label = Nu activa modul numai HTTPS
+    .description = { -brand-short-name } poate încă activa modul pe unele conexiuni
 httpsonly-radio-disabled =
     .label = Nu activa modul numai HTTPS
 
@@ -1284,9 +1304,60 @@ httpsonly-radio-disabled =
 
 preferences-doh-header = DNS prin HTTPS
 preferences-doh-description = Sistemul de nume de domeniu (DNS) prin HTTPS îți trimite cerere pentru un nume de domeniu printr-o conexiune criptată, creând un DNS securizat și făcând mai dificil pentru alții să vadă ce site web urmează să accesezi.
+preferences-doh-description2 = Sistemul de nume de domeniu (DNS) prin HTTPS îți trimite cerere pentru un nume de domeniu printr-o conexiune criptată, creând un DNS securizat și făcând mai dificil pentru alții să vadă ce site web urmează să accesezi.
+# Variables:
+#   $status (string) - The status of the DoH connection
+preferences-doh-status = Stare: { $status }
 # Variables:
 #   $name (string) - The name of the DNS over HTTPS resolver. If a custom resolver is used, the name will be the domain of the URL.
 preferences-doh-resolver = Furnizor: { $name }
+# This is displayed instead of $name in preferences-doh-resolver
+# when the DoH URL is not a valid URL
+preferences-doh-bad-url = URL nevalid
+preferences-doh-steering-status = Utilizare furnizor local
+preferences-doh-status-active = Activat
+preferences-doh-status-disabled = Dezactivat
+# Variables:
+#   $reason (string) - A string representation of the reason DoH is not active. For example NS_ERROR_UNKNOWN_HOST or TRR_RCODE_FAIL.
+preferences-doh-status-not-active = Inactiv ({ $reason })
+preferences-doh-group-message = Activează DNS securizat folosind:
+preferences-doh-group-message2 = Activează DNS prin HTTPS folosind:
+preferences-doh-expand-section =
+    .tooltiptext = Mai multe informații
+preferences-doh-setting-default =
+    .label = Protecție implicită
+    .accesskey = D
+preferences-doh-default-desc = { -brand-short-name } decide când să utilizeze un DNS securizat pentru a-ți proteja confidențialitatea.
+preferences-doh-default-detailed-desc-1 = Folosește DNS securizat în regiunile în care este disponibil
+preferences-doh-default-detailed-desc-2 = Folosește rezolverul DNS implicit dacă există o problemă cu furnizorul de DNS securizat
+preferences-doh-default-detailed-desc-3 = Folosește un furnizor local, dacă este posibil
+preferences-doh-default-detailed-desc-4 = Dezactivează când sunt active VPN-ul, controlul parental sau politicile companiei
+preferences-doh-default-detailed-desc-5 = Dezactivează când o rețea transmite către { -brand-short-name } că nu ar trebui să utilizeze DNS securizat
+preferences-doh-setting-enabled =
+    .label = Protecție sporită
+    .accesskey = I
+preferences-doh-enabled-desc = Tu controlezi când să utilizezi DNS securizat și îți alegi furnizorul.
+preferences-doh-enabled-detailed-desc-1 = Folosește furnizorul pe care îl alegi
+preferences-doh-enabled-detailed-desc-2 = Folosește rezolverul DNS implicit doar dacă există o problemă cu DNS-ul securizat
+preferences-doh-setting-strict =
+    .label = Protecție max
+    .accesskey = M
+preferences-doh-strict-desc = { -brand-short-name } va folosi întotdeauna un DNS securizat. Vei vedea un avertisment privind riscul de securitate înainte de a utiliza DNS-ul sistemului tău.
+preferences-doh-strict-detailed-desc-1 = Folosește doar furnizorul pe care îl alegi
+preferences-doh-strict-detailed-desc-2 = Avertizează întotdeauna dacă DNS-ul securizat nu este disponibil
+preferences-doh-strict-detailed-desc-3 = Dacă DNS-ul securizat nu este disponibil, site-urile nu se vor încărca sau nu vor funcționa corect.
+preferences-doh-setting-off =
+    .label = Dezactivat
+    .accesskey = O
+preferences-doh-off-desc = Folosește rezolverul DNS implicit
+preferences-doh-checkbox-warn =
+    .label = Avertizează dacă un terț împiedică în mod activ securitatea DNS
+    .accesskey = W
+preferences-doh-select-resolver = Alege furnizorul:
+preferences-doh-exceptions-description = { -brand-short-name } nu va folosi DNS securizat pe aceste site-uri
+preferences-doh-manage-exceptions =
+    .label = Gestionează excepțiile...
+    .accesskey = x
 
 ## The following strings are used in the Download section of settings
 

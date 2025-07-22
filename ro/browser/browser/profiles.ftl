@@ -7,6 +7,8 @@ profile-window-body = Păstrează separat munca și navigarea, inclusiv lucruri 
 # This checkbox appears in the Choose profile window that appears when the browser is opened. "Show this" refers to this window, which is displayed when the checkbox is enabled.
 profile-window-checkbox-label-2 =
     .label = Alege un profil când se deschide { -brand-short-name }
+# This subcopy appears below the checkbox when it is unchecked
+profile-window-checkbox-subcopy = { -brand-short-name } se va deschide cu profilul tău utilizat cel mai recent.
 profile-window-create-profile = Creează un profil
 profile-card-edit-button =
     .title = Editează profilul
@@ -34,8 +36,18 @@ edit-profile-page-avatar-header-2 =
     .label = Avatar
 edit-profile-page-delete-button =
     .label = Șterge
+edit-profile-page-avatar-selector-opener-link = Editează
+avatar-selector-icon-tab = Pictogramă
+avatar-selector-custom-tab = Personalizat
+avatar-selector-cancel-button =
+    .label = Anulează
+avatar-selector-save-button =
+    .label = Salvează
+avatar-selector-upload-file = Încarcă un fișier
+avatar-selector-drag-file = Sau trage un fișier aici
 edit-profile-page-no-name = Dă un nume acestui profil pentru a te ajuta să îl găsești mai târziu. Redenumește-l oricând.
 edit-profile-page-duplicate-name = Numele profilului este deja în uz. Încearcă un nume nou.
+edit-profile-page-profile-saved = Salvat
 new-profile-page-title = Profil nou
 new-profile-page-header = Personalizează-ți noul profil
 new-profile-page-header-description = Fiecare profil își păstrează istoricul de navigare și setările unice separat de celelalte profiluri ale tale. În plus, protecțiile puternice de confidențialitate ale lui { -brand-short-name } sunt activate în mod implicit.
@@ -110,6 +122,8 @@ shopping-avatar-alt =
     .alt = Coș de cumpărături
 star-avatar-alt =
     .alt = Stea
+custom-avatar-alt =
+    .alt = Avatar personalizat
 
 ## Labels for default avatar icons
 
