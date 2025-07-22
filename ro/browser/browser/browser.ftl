@@ -401,7 +401,7 @@ quickactions-cmd-refresh = reîmprospătează
 quickactions-restart = Repornește { -brand-short-name }
 quickactions-cmd-restart = repornește
 # Opens the screenshot tool
-quickactions-screenshot3 = Realizează o captură de ecran
+quickactions-screenshot3 = Fă o captură de ecran
 quickactions-cmd-screenshot2 = captură de ecran, fă o captură de ecran
 quickactions-cmd-screenshot = captură de ecran
 # Opens about:preferences

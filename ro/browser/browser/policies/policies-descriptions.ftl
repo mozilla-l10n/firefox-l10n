@@ -32,14 +32,18 @@ policy-ContentAnalysis = Activează sau dezactivează conexiunea la agentul de p
 policy-Cookies = Permite sau blochează setarea de cookie-uri de către site-urile web.
 # Containers in this context is referring to container tabs in Firefox.
 policy-Containers = Setează politici legate de containere.
+policy-DisableAccounts = Dezactivează serviciile bazate pe cont, inclusiv sincronizarea.
 policy-DisabledCiphers = Dezactivează cifrurile.
 policy-DefaultDownloadDirectory = Setează directorul implicit de descărcare.
 policy-DisableAppUpdate = Împiedică actualizarea browserului.
 policy-DisableBuiltinPDFViewer = Dezactivează PDF.js, lectorul de fișiere PDF încorporat în { -brand-short-name }.
 policy-DisableDefaultBrowserAgent = Împiedică agentul implicit de browser să ia orice măsură. Aplicabil numai pentru Windows; alte platforme nu au agentul.
 policy-DisableDeveloperTools = Blochează accesul la instrumentele pentru dezvoltatori.
+policy-DisableEncryptedClientHello = Dezactivează utilizarea funcției TLS Encrypted Client Hello (ECH).
 policy-DisableFeedbackCommands = Dezactivează comenzile de trimis feedback în meniul de Ajutor (Trimite feedback și Raportează site-uri înșelătoare).
 policy-DisableFirefoxAccounts = Dezactivează serviciile bazate pe { -fxaccount-brand-name(case: "definite-article") }, inclusiv Sync.
+# This string is in the process of being deprecated in favor of policy-DisableAccounts.
+policy-DisableFirefoxAccounts1 = Dezactivează serviciile bazate pe cont, inclusiv sincronizarea.
 # Firefox Screenshots is the name of the feature, and should not be translated.
 policy-DisableFirefoxScreenshots = Dezactivează funcționalitatea de capturi de ecran din Firefox.
 policy-DisableFirefoxStudies = Împiedică efectuarea de studii de către { -brand-short-name }.
@@ -56,6 +60,7 @@ policy-DisableSecurityBypass = Împiedică utilizatorul să ocolească anumite a
 policy-DisableSetAsDesktopBackground = Dezactivează comanda de meniu de setare ca fundal pe desktop pentru imagini.
 policy-DisableSystemAddonUpdate = Împiedică browserul să instaleze și să actualizeze suplimente de sistem.
 policy-DisableTelemetry = Dezactivează telemetria.
+policy-DisableThirdPartyModuleBlocking = Împiedică utilizatorul să blocheze modulele de la terți care sunt injectate în procesul { -brand-short-name }.
 policy-DisplayBookmarksToolbar = Afișează implicit bara de marcaje.
 policy-DisplayMenuBar = Afișează implicit bara de meniu.
 policy-DNSOverHTTPS = Configurează DNS prin HTTPS.
@@ -65,6 +70,7 @@ policy-DownloadDirectory = Setează și blochează directorul de descărcare.
 policy-EnableTrackingProtection = Activează sau dezactivează blocarea conținutului și, opțional, blochează opțiunea.
 # “lock” means that the user won’t be able to change this setting
 policy-EncryptedMediaExtensions = Activează sau dezactivează extensiile media criptate și, opțional, poți bloca opțiunea.
+policy-ExemptDomainFileTypePairsFromFileTypeDownloadWarnings = Dezactivează avertismentele bazate pe extensia de fișier pentru anumite tipuri de fișiere pe domenii.
 # A “locked” extension can’t be disabled or removed by the user. This policy
 # takes 3 keys (“Install”, ”Uninstall”, ”Locked”), you can either keep them in
 # English or translate them as verbs.
@@ -72,10 +78,14 @@ policy-Extensions = Instalează, dezinstalează sau blochează extensii. Opțiun
 policy-ExtensionSettings = Gestionează toate aspectele de instalare a extensiilor.
 policy-ExtensionUpdate = Activează sau dezactivează actualizările automate de extensii.
 policy-FirefoxHome2 = Configurează pagina de { -firefox-home-brand-name }.
+policy-FirefoxSuggest = Configurează { -firefox-suggest-brand-name }.
+policy-GoToIntranetSiteForSingleWordEntryInAddressBar = Forțează navigarea directă pe site-ul intranet în loc de căutare când tastezi un singur cuvânt în bara de adrese.
 policy-Handlers = Configurează gestionarii aplicațiilor implicite.
 policy-HardwareAcceleration = Dacă este dezactivat, oprește accelerarea hardware.
 # “lock” means that the user won’t be able to change this setting
 policy-Homepage = Setează și, opțional, blochează pagina de start.
+policy-HttpAllowlist = Origini care nu vor fi trecute la nivel HTTPS.
+policy-HttpsOnlyMode = Permite activarea modului Numai HTTPS.
 policy-InstallAddonsPermission = Permite anumitor site-uri web să instaleze suplimente.
 policy-LegacyProfiles = Dezactivează funcționalitatea care forțează crearea unui profil separat pentru fiecare versiune instalată.
 
@@ -88,7 +98,9 @@ policy-LegacySameSiteCookieBehaviorEnabledForDomainList = Revenire la comportame
 
 policy-LocalFileLinks = Permite anumitor site-uri web să se lege la fișiere locale.
 policy-ManagedBookmarks = Configurează o listă de marcaje gestionate de un administrator care nu poate fi modificată de utilizator.
+policy-ManualAppUpdateOnly = Permite numai actualizări manuale și nu anunța utilizatorul când sunt disponibile actualizări.
 policy-PrimaryPassword = Necesită sau împiedică folosirea unei parole primare.
+policy-PrintingEnabled = Activează sau dezactivează tipărirea.
 policy-NetworkPrediction = Activează sau dezactivează predicția de rețea (prelectură DNS).
 policy-NewTabPage = Activează sau dezactivează pagina Filă nouă.
 policy-NoDefaultBookmarks = Dezactivează crearea marcajelor implicite care vin la pachet cu { -brand-short-name } și crearea de marcaje inteligente (Cele mai vizitate, Etichete recente). Obs: politica produce efecte numai dacă este folosită înainte de prima utilizare a profilului.
@@ -97,12 +109,17 @@ policy-OfferToSaveLoginsDefault = Setează valoarea implicită ca să permiți {
 policy-OverrideFirstRunPage = Anulează pagina de întâmpinare la prima utilizare. Lasă politica goală dacă vrei să dezactivezi pagina de întâmpinare la prima utilizare.
 policy-OverridePostUpdatePage = Anulează pagina „Noutăți” după actualizare. Lasă politica goală dacă vrei să dezactivezi pagina post-actualizare.
 policy-PasswordManagerEnabled = Activează salvarea parolelor în managerul de parole.
+policy-PasswordManagerExceptions = Împiedică { -brand-short-name } să salveze parole pentru anumite site-uri.
+# Post-quantum refers to cryptography that is safe from attacks by quantum
+# computers. See https://en.wikipedia.org/wiki/Post-quantum_cryptography
+policy-PostQuantumKeyAgreementEnabled = Activează acordul cheii post-cuantice pentru TLS.
 # PDF.js and PDF should not be translated
 policy-PDFjs = Dezactivează sau configurează PDF.js, lectorul PDF încorporat în { -brand-short-name }.
 policy-Permissions2 = Configurează permisiunile pentru cameră, microfon, locație, notificări și redare automată.
 policy-PictureInPicture = Activează sau dezactivează modul Picture-in-Picture.
 policy-PopupBlocking = Permite anumitor site-uri web să afișeze implicit ferestre pop-up.
 policy-Preferences = Setează și blochează valoarea pentru un subset de preferințe.
+policy-PrivateBrowsingModeAvailability = Setează disponibilitatea modului de navigare privată.
 policy-PromptForDownloadLocation = Întreabă unde să fie salvate fișierele la descărcare.
 policy-Proxy = Configurează setările proxy.
 policy-RequestedLocales = Setează lista de limbi solicitate de aplicație, în ordinea preferinței.
@@ -110,9 +127,16 @@ policy-SanitizeOnShutdown2 = Șterge datele de navigare la închidere.
 policy-SearchBar = Setează locația implicită în bara de căutare. Utilizatorul are în continuare posibilitatea de personalizare.
 policy-SearchEngines = Configurează setările motorului de căutare. Politica este disponibilă numai în versiunea Ediție cu suport extins (ERS).
 policy-SearchSuggestEnabled = Activează sau dezactivează sugestiile de căutare.
+# For more information, see https://wikipedia.org/wiki/PKCS_11
+policy-SecurityDevices2 = Adaugă sau șterge module PKCS #11.
+policy-ShowHomeButton = Afișează butonul paginii de start în bara de instrumente.
+# ”You represent that...” means ”You confirm/declare that...”
+policy-SkipTermsOfUse2 = Nu afișa Condițiile de utilizare și Notificarea privind confidențialitatea la pornire. Declară că accepți și ai autoritatea de a accepta Condițiile de utilizare în numele tuturor persoanelor cărora le oferi acces la acest browser.
 policy-SSLVersionMax = Setează versiunea maximă SSL.
 policy-SSLVersionMin = Setează versiunea minimă SSL.
+policy-StartDownloadsInTempDirectory = Forțează începerea descărcărilor într-o locație locală, temporară, în loc de directorul implicit de descărcare.
 policy-SupportMenu = Adaugă un element personalizat din meniul de asistență în meniul Ajutor.
+policy-TranslateEnabled = Activează sau dezactivează traducerea paginilor web.
 policy-UserMessaging = Nu afișa anumite mesaje utilizatorului.
 # “format” refers to the format used for the value of this policy.
 policy-WebsiteFilter = Blochează intrarea pe site-uri web. Vezi documentația pentru detalii suplimentare despre format.
