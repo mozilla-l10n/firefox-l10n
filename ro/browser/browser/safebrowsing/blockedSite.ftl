@@ -30,6 +30,8 @@ safeb-blocked-phishing-page-learn-more = Află mai multe despre site-uri înșel
 ## Variables
 ##  $sitename (string) - Domain name for the blocked page
 
+safeb-blocked-malware-page-error-desc-override-sumo = <span data-l10n-name='sitename'>{ $sitename }</span> a fost <a data-l10n-name='error_desc_link'>raportat ca având programe rău intenționate</a>. Poți <a data-l10n-name='ignore_warning_link'>ignora riscul</a> și să intri pe acest site nesigur.
+safeb-blocked-malware-page-error-desc-no-override-sumo = <span data-l10n-name='sitename'>{ $sitename }</span> a fost <a data-l10n-name='error_desc_link'>raportat ca având programe rău intenționate</a>.
 
 ## Variables
 ##  $sitename (string) - Domain name for the blocked page

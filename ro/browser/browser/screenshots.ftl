@@ -5,6 +5,8 @@
 screenshot-toolbarbutton =
     .label = Captură de ecran
     .tooltiptext = Realizează o captură de ecran
+screenshot-shortcut =
+    .key = S
 screenshots-instructions = Trage sau dă clic pe pagină pentru a selecta o regiune. Apasă ESC pentru a renunța.
 screenshots-cancel-button = Anulează
 screenshots-save-visible-button = Salvează porțiunea vizibilă
@@ -13,6 +15,14 @@ screenshots-download-button = Descarcă
 screenshots-download-button-tooltip = Descarcă captura de ecran
 screenshots-copy-button = Copiază
 screenshots-copy-button-tooltip = Copiază captura de ecran în clipboard
+screenshots-download-button-title =
+    .title = Descarcă captura de ecran
+screenshots-copy-button-title =
+    .title = Copiază captura de ecran în clipboard
+screenshots-cancel-button-title =
+    .title = Anulează
+screenshots-retry-button-title =
+    .title = Reîncearcă captura de ecran
 screenshots-meta-key =
     { PLATFORM() ->
         [macos] ⌘
@@ -34,10 +44,47 @@ screenshots-private-window-error-title = { -screenshots-brand-name } este dezact
 screenshots-private-window-error-details = Ne pare rău pentru inconveniență. Lucrăm să introducem această funcție în versiunile viitoare.
 screenshots-generic-error-title = Aaah! { -screenshots-brand-name } a întâmpinat o eroare.
 screenshots-generic-error-details = Nu știm sigur ce s-a întâmplat. Ai vrea să încerci din nou sau realizezi o captură a altei pagini?
+screenshots-too-large-error-title = Captura de ecran a fost decupată deoarece era prea mare
+screenshots-too-large-error-details = Încearcă să selectezi o regiune care are o latură mai lungă de 32.700 de pixeli sau o suprafață totală de 124.900.000 de pixeli.
+screenshots-component-retry-button =
+    .title = Reîncearcă captura de ecran
+    .aria-label = Reîncearcă captura de ecran
+screenshots-component-cancel-button =
+    .title =
+        { PLATFORM() ->
+            [macos] Anulează (Esc)
+           *[other] Anulează (Esc)
+        }
+    .aria-label = Anulează
+# Variables
+#   $shortcut (String) - A keyboard shortcut for copying the screenshot.
+screenshots-component-copy-button-2 = Copiază
+    .title = Copiază ({ $shortcut })
+    .aria-label = Copiază
+# Variables
+#   $shortcut (String) - A keyboard shortcut for saving/downloading the screenshot.
+screenshots-component-download-button-2 = Descarcă
+    .title = Descarcă ({ $shortcut })
+    .aria-label = Descarcă
+# Variables
+#   $shortcut (String) - A keyboard shortcut for the screenshot command.
+screenshot-toolbar-button =
+    .label = Captură de ecran
+    .tooltiptext = Fă o captură de ecran ({ $shortcut })
 
 ## The below strings are used to capture keydown events so the strings should
 ## not be changed unless the keyboard layout in the locale requires it.
 
+screenshots-component-download-key = S
+screenshots-component-copy-key = C
 
 ##
 
+# This string represents the selection size area
+# "×" here represents "by" (i.e 123 by 456)
+# Variables:
+#   $width (Number) - The width of the selection region in pixels
+#   $height (Number) - The height of the selection region in pixels
+screenshots-overlay-selection-region-size-3 = { $width } × { $height }
+screenshots-overlay-preview-face-label =
+    .aria-label = Selectează această regiune

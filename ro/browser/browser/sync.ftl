@@ -7,6 +7,7 @@ sync-disconnect-dialog-title2 = Te deconectezi?
 sync-disconnect-dialog-body = { -brand-product-name } va opri sincronizarea cu contul tău, dar nu va șterge niciuna din datele de navigare de pe acest dispozitiv.
 sync-disconnect-dialog-button = Deconectează-te
 fxa-signout-dialog2-title = Te deconectezi din { -fxaccount-brand-name(case: "definite-article") }?
+fxa-signout-dialog-title2 = Ieși din cont?
 fxa-signout-dialog-body = Datele sincronizate vor rămâne în cont.
 fxa-signout-dialog2-button = Deconectează-te
 fxa-signout-dialog2-checkbox = Șterge datele de pe acest dispozitiv (parole, istoric, marcaje etc.).
@@ -34,9 +35,13 @@ fxa-menu-send-tab-to-device-description = Trimite o filă instantaneu pe orice d
 fxa-menu-sign-out =
     .label = Deconectează-te…
 fxa-menu-sync-title = Sincronizare
+fxa-menu-sync-description = Intră pe web de oriunde
 fxa-avatar-sign-in = Intră în cont
+fxa-avatar-sign-up = Fă-ți un cont
 fxa-avatar-tooltip =
     .tooltiptext = Intră în cont
+sync-setup-verify-continue = Continuă
+sync-setup-verify-title = Avertisment de îmbinare
 sync-setup-verify-heading = Sigur vrei să intri în cont pentru sincronizare?
 # The user was previously signed into sync. This dialog confirms to the user
 # that they will be merging the data from the previously signed in into the newly signed in one
@@ -46,6 +51,8 @@ sync-setup-verify-description = Un alt utilizator s-a autentificat în cont pent
 
 ## Sync warning strings that support the browser profiles feature, these will be shown when the user might be merging data
 
+# Dialog 1 - different account signing in without option to merge
+sync-profile-different-account-title = A fost atinsă limita de conturi pentru acest profil
 # Variables:
 #   $acctEmail (String) - Email of the account signing into sync.
 sync-profile-different-account-description = Pentru a-ți păstra datele organizate și securizate, fiecare profil { -brand-product-name } poate fi sincronizat doar cu un singur cont. Ca să intri în cont cu { $acctEmail }, creează un profil nou.
