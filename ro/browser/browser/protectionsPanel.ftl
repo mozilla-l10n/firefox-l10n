@@ -107,7 +107,18 @@ protections-panel-content-blocking-breakage-report-view-send-report =
 # Variables
 #  $host (String): the hostname of the site that is being displayed.
 protections-panel-cookie-banner-view-turn-off-for-site = Dezactivezi reducerea bannerelor de cookie-uri pentru { $host }?
+protections-panel-cookie-banner-view-turn-on-for-site = Activezi reducerea bannerelor de cookie-uri pentru acest site?
+protections-panel-cookie-banner-blocker-view-title =
+    .title = Blocator de bannere pentru cookie-uri
+# Variables
+#  $host (String): the hostname of the site that is being displayed.
+protections-panel-cookie-banner-blocker-view-turn-off-for-site = Dezactivezi blocarea bannerelor de cookie-uri pentru { $host }?
+protections-panel-cookie-banner-blocker-view-turn-on-for-site = Activezi blocarea bannerelor de cookie-uri pentru acest site?
 protections-panel-cookie-banner-view-cookie-clear-warning = { -brand-short-name } va șterge cookie-urile acestui site și va reîncărca pagina. Ștergerea tuturor cookie-urilor te poate scoate din cont sau poate goli coșurile de cumpărături.
+protections-panel-cookie-banner-view-turn-on-description = { -brand-short-name } încearcă să respingă automat toate solicitările de cookie-uri pe site-urile acceptate.
+protections-panel-cookie-banner-view-cancel = Anulează
+protections-panel-cookie-banner-view-turn-off = Dezactivează
+protections-panel-cookie-banner-view-turn-on = Activează
 
 ## Protections panel info message
 

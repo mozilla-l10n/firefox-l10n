@@ -1387,6 +1387,15 @@ collection-studies-description = Încearcă funcționalitățile și ideile îna
 collection-studies =
     .label = Permite ca { -brand-short-name } să instaleze și să realizeze studii
 collection-studies-link = Vezi studiile { -brand-short-name }
+addon-recommendations2 =
+    .label = Permite recomandări personalizate pentru extensii
+addon-recommendations-description = Obține recomandări de extensii pentru a-ți îmbunătăți experiența de navigare.
+# This message is displayed above disabled data sharing options in developer builds
+# or builds with no Telemetry support available.
+collection-health-report-disabled2 = Raportarea datelor este dezactivată în configurația folosită.
+collection-backlogged-crash-reports2 =
+    .label = Trimite automat rapoarte de închidere neașteptată
+    .accesskey = c
 addon-recommendations =
     .label = Permite ca { -brand-short-name } să facă recomandări de extensii personalizate
 addon-recommendations-link = Află mai multe
@@ -1398,6 +1407,18 @@ collection-backlogged-crash-reports-with-link = Permite ca { -brand-short-name }
 collection-backlogged-crash-reports = Permite ca { -brand-short-name } să trimită în numele tău rapoarte de defecțiuni înregistrate în jurnal
     .accesskey = c
 privacy-segmentation-section-header = Funcționalități noi care îmbunătățesc navigarea
+privacy-segmentation-section-description = Când oferim funcționalități care îți utilizează datele pentru a-ți oferi o experiență mai personalizată:
+privacy-segmentation-radio-off =
+    .label = Folosește recomandările { -brand-product-name }
+privacy-segmentation-radio-on =
+    .label = Afișează informații detaliate
+
+## Privacy Section - Website Advertising Preferences
+
+website-advertising-header = Preferințe de publicitate pe site-urile web
+website-advertising-private-attribution =
+    .label = Permite site-urilor web să efectueze măsurători ale anunțurilor care respectă confidențialitatea
+    .accesskey = a
 
 ## Privacy Section - Security
 ##
