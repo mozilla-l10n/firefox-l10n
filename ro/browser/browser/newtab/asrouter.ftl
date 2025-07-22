@@ -137,11 +137,63 @@ spotlight-public-wifi-vpn-link = Nu acum
 
 spotlight-better-internet-header = Un internet mai bun începe cu tine
 spotlight-better-internet-body = Când folosești { -brand-short-name }, votezi pentru un internet deschis și accesibil, mai bun pentru toată lumea.
+spotlight-peace-mind-body = În fiecare lună, { -brand-short-name } blochează în medie peste 3.000 de elemente de urmărire per utilizator. Pentru că nimic, în special problemele legate de confidențialitate, precum elementele de urmărire, nu ar trebui să stea între tine și internetul bun.
 spotlight-pin-primary-button =
     { PLATFORM() ->
         [macos] Păstrează în Dock
        *[other] Fixează în bara de activități
     }
+spotlight-pin-secondary-button = Nu acum
+
+## MR2022 Background Update Windows native toast notification strings.
+##
+## These strings will be displayed by the Windows operating system in
+## a native toast, like:
+##
+## <b>multi-line title</b>
+## multi-line text
+## <img>
+## [ primary button ] [ secondary button ]
+##
+## The button labels are fitted into narrow fixed-width buttons by
+## Windows and therefore must be as narrow as possible.
+
+mr2022-background-update-toast-title = Noul { -brand-short-name }. Mai multă confidențialitate. Mai puține elemente de urmărire. Fără compromisuri.
+mr2022-background-update-toast-text = Încearcă noul { -brand-short-name } acum, îmbunătățit cu cea mai puternică protecție antiurmărire de până acum.
+# This button label will be fitted into a narrow fixed-width button by
+# Windows. Try to not exceed the width of the English text (compare it
+# using a variable font like Arial): the button can only fit 1-2
+# additional characters, exceeding characters will be truncated.
+mr2022-background-update-toast-primary-button-label = Deschide { -brand-shorter-name } acum
+# This button label will be fitted into a narrow fixed-width button by
+# Windows. Try to not exceed the width of the English text (compare it using a
+# variable font like Arial): the button can only fit 1-2 additional characters,
+# exceeding characters will be truncated.
+mr2022-background-update-toast-secondary-button-label = Reamintește-mi mai târziu
+
+## Firefox View CFR
+
+firefoxview-cfr-primarybutton = Încearcă-l
+    .accesskey = T
+firefoxview-cfr-secondarybutton = Nu acum
+    .accesskey = N
+firefoxview-cfr-header-v2 = Continui rapid de unde ai rămas
+firefoxview-cfr-body-v2 = Recuperezi filele închise recent și sari fără probleme de la un dispozitiv la altul cu { -firefoxview-brand-name }.
+
+## Firefox View Spotlight
+
+firefoxview-spotlight-promo-title = Îți prezentăm { -firefoxview-brand-name }
+# “Poof” refers to the expression to convey when something or someone suddenly disappears, or in this case, reappears. For example, “Poof, it’s gone.”
+firefoxview-spotlight-promo-subtitle = Vrei fila deschisă pe telefon? Ia-o. Ai nevoie de site-ul pe care tocmai ai intrat? Pac! E în { -firefoxview-brand-name }.
+firefoxview-spotlight-promo-primarybutton = Vezi cum funcționează
+firefoxview-spotlight-promo-secondarybutton = Treci peste
+
+## Colorways expiry reminder CFR
+
+colorways-cfr-primarybutton = Alege paleta de culori
+    .accesskey = C
+# "shades" refers to the different color options available to users in colorways.
+colorways-cfr-body = Colorează-ți browserul cu nuanțe exclusive { -brand-short-name } inspirate de vocile care au schimbat cultura.
 
 ## These strings are used in the Set Firefox as Default PDF Handler for Existing Users experiment
 
