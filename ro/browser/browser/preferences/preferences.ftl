@@ -426,6 +426,8 @@ performance-default-content-process-count =
 ## General Section - Browsing
 
 browsing-title = Navigare
+browsing-group-label =
+    .aria-label = Navigare
 browsing-use-autoscroll =
     .label = Folosește derularea automată
     .accesskey = a
@@ -441,6 +443,9 @@ browsing-use-onscreen-keyboard =
 browsing-use-cursor-navigation =
     .label = Folosește întotdeauna săgețile pentru a naviga în pagini
     .accesskey = F
+browsing-use-full-keyboard-navigation =
+    .label = Folosește tasta Tab pentru a muta focalizarea între controalele formularului și linkuri
+    .accesskey = t
 browsing-search-on-start-typing =
     .label = Caută textul când încep să tastez
     .accesskey = x
@@ -520,12 +525,18 @@ home-prefs-shortcuts-by-option-sponsored =
 
 home-prefs-recommended-by-header =
     .label = Recomandat de { $provider }
+home-prefs-recommended-by-description-new = Conținut excepțional, selecționat de { $provider }, parte a familiei { -brand-product-name }
+home-prefs-recommended-by-header-generic =
+    .label = Articole recomandate
+home-prefs-recommended-by-description-generic = Conținut excepțional, selecționat de familia { -brand-product-name }
 
 ##
 
 home-prefs-recommended-by-learn-more = Cum funcționează
 home-prefs-recommended-by-option-sponsored-stories =
     .label = Articole sponsorizate
+home-prefs-recommended-by-option-recent-saves =
+    .label = Afișează salvările recente
 home-prefs-highlights-option-visited-pages =
     .label = Pagini vizitate
 home-prefs-highlights-options-bookmarks =
@@ -544,6 +555,18 @@ home-prefs-recent-activity-description = O selecție de site-uri și conținut r
 home-prefs-snippets-header =
     .label = Fragmente
 home-prefs-snippets-description-new = Sfaturi și știri de la { -vendor-short-name } și { -brand-product-name }
+home-prefs-weather-header =
+    .label = Meteo
+home-prefs-weather-description = Vremea azi dintr-o privire
+home-prefs-weather-learn-more-link = Află mai multe
+home-prefs-trending-search-header =
+    .label = Căutări în tendințe
+home-prefs-trending-search-description = Subiecte populare și căutate frecvent
+# "Support" here means to help sustain or contribute to something, especially through funding or sponsorship.
+home-prefs-support-firefox-header =
+    .label = Susține { -brand-product-name }
+home-prefs-mission-message = Sponsorii noștri ne susțin misiunea de a construi un web mai bun
+home-prefs-mission-message-learn-more-link = Află cum
 # Variables:
 #   $num (number) - Number of rows displayed
 home-prefs-sections-rows-option =
@@ -579,6 +602,10 @@ search-show-suggestions-url-bar-option =
     .label = Afișează sugestiile de căutare în rezultatele din bara de adresă
     .accesskey = l
 # With this option enabled, on the search results page
+# the URL will be replaced by the search terms in the address bar.
+search-show-search-term-option-2 =
+    .label = Afișează termenii de căutare în bara de adrese din paginile cu rezultate
+# With this option enabled, on the search results page
 # the URL will be replaced by the search terms in the address bar
 # when using the current default search engine.
 search-show-search-term-option =
@@ -606,6 +633,12 @@ search-restore-default =
 search-remove-engine =
     .label = Elimină
     .accesskey = R
+search-add-engine =
+    .label = Adaugă
+    .accesskey = A
+search-edit-engine =
+    .label = Editează
+    .accesskey = E
 search-find-more-link = Caută mai multe motoare de căutare
 # This warning is displayed when the chosen keyword is already in use
 # ('Duplicate' is an adjective)
@@ -614,6 +647,13 @@ search-keyword-warning-title = Cuvânt cheie duplicat
 #   $name (string) - Name of a search engine.
 search-keyword-warning-engine = Ai ales un cuvânt cheie care este folosit actualmente de „{ $name }”. Te rugăm să selectezi altul.
 search-keyword-warning-bookmark = Ai ales un cuvânt cheie care este folosit de un marcaj. Te rugăm să selectezi altul.
+# This warning is displayed when the chosen name is already in use.
+# Variables:
+#   $name (string) - Name of a search engine.
+edit-engine-name-warning-duplicate = Există deja un motor de căutare cu numele „{ $name }”. Te rugăm să alegi alt nume.
+remove-engine-confirmation = Sigur vrei să elimini acest motor de căutare?
+remove-engine-remove = Elimină
+remove-addon-engine-alert = Pentru a elimina acest motor de căutare, elimină extensia asociată.
 
 ## Containers Section
 
@@ -656,6 +696,10 @@ sync-profile-picture =
 sync-profile-picture-with-alt =
     .tooltiptext = Schimbă fotografia de profil
     .alt = Schimbă fotografia de profil
+sync-profile-picture-account-problem =
+    .alt = Fotografie de profil a contului
+fxa-login-rejected-warning =
+    .alt = Avertisment
 sync-sign-out =
     .label = Deconectează-te…
     .accesskey = g
@@ -673,6 +717,9 @@ sync-signedin-login-failure = Te rugăm să te autentifici pentru reconectare { 
 sync-resend-verification =
     .label = Retrimite verificarea
     .accesskey = d
+sync-verify-account =
+    .label = Verifică contul
+    .accesskey = V
 sync-remove-account =
     .label = Elimină contul
     .accesskey = R
@@ -684,6 +731,9 @@ sync-sign-in =
 
 prefs-syncing-on = Sincronizare: ACTIVATĂ
 prefs-syncing-off = Sincronizare: DEZACTIVATĂ
+prefs-sync-turn-on-syncing =
+    .label = Activează sincronizarea...
+    .accesskey = s
 prefs-sync-offer-setup-label2 = Sincronizează marcajele, istoricul, filele, parolele, suplimentele și setările pe toate dispozitivele.
 prefs-sync-now =
     .labelnotsyncing = Sincronizează acum
@@ -702,11 +752,15 @@ sync-currently-syncing-bookmarks = Marcaje
 sync-currently-syncing-history = Istoric
 sync-currently-syncing-tabs = File deschise
 sync-currently-syncing-logins-passwords = Date de autentificare și parole
+sync-currently-syncing-passwords = Parole
 sync-currently-syncing-addresses = Adrese
 sync-currently-syncing-creditcards = Carduri de credit
 sync-currently-syncing-payment-methods = Metode de plată
 sync-currently-syncing-addons = Suplimente
 sync-currently-syncing-settings = Setări
+sync-manage-options =
+    .label = Gestionează sincronizarea
+    .accesskey = M
 sync-change-options =
     .label = Modifică…
     .accesskey = C
@@ -735,6 +789,10 @@ sync-engine-logins-passwords =
     .label = Date de autentificare și parole
     .tooltiptext = Denumiri de utilizator și parole salvate
     .accesskey = L
+sync-engine-passwords =
+    .label = Parole
+    .tooltiptext = Parole pe care le-ai salvat
+    .accesskey = P
 sync-engine-addresses =
     .label = Adrese
     .tooltiptext = Adrese poștale salvate (doar desktop)
@@ -755,6 +813,13 @@ sync-engine-settings =
     .label = Setări
     .tooltiptext = Setările pe care le-ai modificat în secțiunile General, Confidențialitate și Securitate
     .accesskey = s
+sync-choose-what-to-sync-dialog4 =
+    .title = Gestionează ce se sincronizează pe toate dispozitivele tale conectate
+    .style = min-width: 36em;
+    .buttonlabelaccept = Salvează
+    .buttonaccesskeyaccept = S
+    .buttonlabelextra2 = Deconectează
+    .buttonaccesskeyextra2 = D
 
 ## The device name controls.
 
@@ -796,16 +861,33 @@ forms-ask-to-save-logins =
 
 ## Privacy Section - Passwords
 
+# "Logins" is the former term for "Passwords". Users should find password settings
+# by searching for the former term "logins". It's not displayed in the UI.
+pane-privacy-passwords-header = Parole
+    .searchkeywords = autentificări
+# Checkbox to control whether UI is shown to users to save or fill logins/passwords.
+forms-ask-to-save-passwords =
+    .label = Întreabă dacă să salveze parolele
+    .accesskey = A
 forms-exceptions =
     .label = Excepții…
     .accesskey = x
 forms-generate-passwords =
     .label = Sugerează și generează parole puternice
     .accesskey = u
+forms-suggest-passwords =
+    .label = Recomandă parole puternice
+    .accesskey = S
 forms-breach-alerts =
     .label = Afișează alerte despre parole pentru site-urile web a căror securitate a fost încălcată
     .accesskey = b
 forms-breach-alerts-learn-more-link = Află mai multe
+preferences-relay-integration-checkbox =
+    .label = Recomandă măști de e-mail { -relay-brand-name } pentru protejarea adresei de e-mail
+preferences-relay-integration-checkbox2 =
+    .label = Recomandă măști de e-mail { -relay-brand-name } pentru protejarea adresei de e-mail
+    .accesskey = r
+relay-integration-learn-more-link = Află mai multe
 # Checkbox which controls filling saved logins into fields automatically when they appear, in some cases without user interaction.
 forms-fill-logins-and-passwords =
     .label = Completează automat autentificări și parole
@@ -813,6 +895,13 @@ forms-fill-logins-and-passwords =
 forms-saved-logins =
     .label = Date de autentificare salvate…
     .accesskey = L
+# Checkbox which controls filling saved logins into fields automatically when they appear, in some cases without user interaction.
+forms-fill-usernames-and-passwords =
+    .label = Completează automat numele de utilizator și parolele
+    .accesskey = F
+forms-saved-passwords =
+    .label = Parole salvate
+    .accesskey = d
 forms-primary-pw-use =
     .label = Folosește o parolă primară
     .accesskey = U
@@ -839,6 +928,7 @@ forms-windows-sso =
     .label = Permite conectarea unică Windows pentru conturile Microsoft, de la locul de muncă sau de la școală
 forms-windows-sso-learn-more-link = Află mai multe
 forms-windows-sso-desc = Gestionează conturile în setările dispozitivului
+windows-passkey-settings-label = Gestionează cheile de acces în setările de sistem
 
 ## OS Authentication dialog
 
@@ -856,9 +946,15 @@ autofill-creditcard-os-dialog-message =
         [macos] schimbă modificările pentru metodele de plată
        *[other] { -brand-short-name } încearcă să modifice setările pentru metodele de plată. Intră în cont pe dispozitiv ca să permiți acțiunea.
     }
+autofill-creditcard-os-auth-dialog-caption = { -brand-full-name }
 
 ## Privacy section - Autofill
 
+pane-privacy-autofill-header = Completare automată
+autofill-addresses-checkbox = Salvează și completează adrese
+    .accesskey = a
+autofill-saved-addresses-button = Adrese salvate
+    .accesskey = S
 autofill-payment-methods-checkbox-message = Salvează și completează metodele de plată
     .accesskey = m
 autofill-payment-methods-checkbox-submessage = Include carduri de credit și de debit
@@ -923,6 +1019,7 @@ sitedata-delete-on-close =
     .label = Șterge cookie-urile și datele site-urilor la închiderea { -brand-short-name }
     .accesskey = c
 sitedata-delete-on-close-private-browsing = În modul de navigare privată permanentă, cookie-urile și datele site-urilor vor fi întotdeauna șterse la închiderea { -brand-short-name }.
+sitedata-delete-on-close-private-browsing2 = Pe baza setărilor istoricului, { -brand-short-name } șterge cookie-urile și datele site-urilor din sesiune la închiderea browserului.
 sitedata-allow-cookies-option =
     .label = Acceptă cookie-uri și datele site-urilor
     .accesskey = A

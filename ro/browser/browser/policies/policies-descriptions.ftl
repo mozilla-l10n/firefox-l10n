@@ -138,6 +138,7 @@ policy-StartDownloadsInTempDirectory = Forțează începerea descărcărilor în
 policy-SupportMenu = Adaugă un element personalizat din meniul de asistență în meniul Ajutor.
 policy-TranslateEnabled = Activează sau dezactivează traducerea paginilor web.
 policy-UserMessaging = Nu afișa anumite mesaje utilizatorului.
+policy-UseSystemPrintDialog = Tipărește folosind fereastra de dialog a sistemului.
 # “format” refers to the format used for the value of this policy.
 policy-WebsiteFilter = Blochează intrarea pe site-uri web. Vezi documentația pentru detalii suplimentare despre format.
 policy-Windows10SSO = Permite conectarea unică Windows pentru conturile Microsoft, de la locul de muncă sau de la școală.

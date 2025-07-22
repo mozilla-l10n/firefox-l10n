@@ -91,6 +91,7 @@ permissions-exceptions-https-only-window2 =
     .title = Excepții - Mod numai HTTPS
     .style = { permissions-window2.style }
 permissions-exceptions-https-only-desc = Poți opri modul numai HTTPS pentru anumite site-uri web. { -brand-short-name } nu va încerca să actualizeze conexiunea la HTTPS securizat pentru aceste site-uri. Excepțiile nu se aplică ferestrelor private.
+permissions-exceptions-https-only-desc2 = Poți opri modul Numai HTTPS pentru anumite site-uri web. { -brand-short-name } nu va încerca să treacă conexiunea pe HTTPS securizat pentru site-urile respective.
 
 ## Exceptions - Pop-ups
 
@@ -105,6 +106,13 @@ permissions-exceptions-saved-logins-window2 =
     .title = Excepții - Date de autentificare salvate
     .style = { permissions-window2.style }
 permissions-exceptions-saved-logins-desc = Nu vor fi salvate date de autentificare pentru următoarele site-uri web
+
+## Exceptions - Saved Passwords
+
+permissions-exceptions-saved-passwords-window =
+    .title = Excepții - parole salvate
+    .style = { permissions-window2.style }
+permissions-exceptions-saved-passwords-desc = { -brand-short-name } nu va salva parolele pentru site-urile listate aici.
 
 ## Exceptions - Add-ons
 
@@ -169,3 +177,21 @@ permissions-site-microphone-desc = Următoarele site-uri web au solicitat să î
 permissions-site-microphone-disable-label =
     .label = Blochează noile solicitări de accesare a microfonului
 permissions-site-microphone-disable-desc = Acest lucru va împiedica orice site web care nu este listat mai sus să ceară permisiunea de a-ți accesa microfonul. Blocarea accesului la microfon ar putea interfera cu unele funcții ale site-urilor web.
+
+## Site Permissions - Speaker
+##
+## "Speaker" refers to an audio output device.
+
+permissions-site-speaker-window =
+    .title = Setări - Permisiuni pentru boxe
+    .style = { permissions-window2.style }
+permissions-site-speaker-desc = Următoarele site-uri web au solicitat selectarea unui dispozitiv de ieșire audio. Poți specifica site-urile web cărora li se permite să selecteze un dispozitiv de ieșire audio.
+permissions-exceptions-doh-window =
+    .title = Excepții de site web pentru DNS prin HTTPS
+    .style = { permissions-window2.style }
+permissions-exceptions-manage-doh-desc = { -brand-short-name } nu va folosi DNS securizat pe aceste site-uri și subdomeniile lor.
+permissions-doh-entry-field = Introdu numele de domeniu al site-ului web
+    .accesskey = d
+permissions-doh-add-exception =
+    .label = Adaugă
+    .accesskey = A

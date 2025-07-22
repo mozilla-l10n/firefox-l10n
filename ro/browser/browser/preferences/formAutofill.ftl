@@ -10,6 +10,7 @@ autofill-manage-addresses-list-header = Adrese
 autofill-manage-credit-cards-title = Carduri de credit salvate
 autofill-manage-credit-cards-list-header = Carduri de credit
 autofill-manage-payment-methods-title = Metode de plată salvate
+autofill-manage-cards-list-header = Carduri
 autofill-manage-dialog =
     .style = min-width: 560px
 autofill-manage-remove-button = Elimină
@@ -18,12 +19,40 @@ autofill-manage-edit-button = Editează…
 
 ## The address capture doorhanger
 
+address-capture-save-doorhanger-header = Salvezi adresa?
+address-capture-save-doorhanger-description = Salvează informațiile în { -brand-short-name } pentru a putea completa rapid formularele.
+address-capture-update-doorhanger-header = Actualizezi adresa?
+address-capture-edit-doorhanger-header = Editează adresa
+address-capture-save-button =
+    .label = Salvează
+    .accessKey = S
+address-capture-not-now-button =
+    .label = Nu acum
+    .accessKey = N
+address-capture-cancel-button =
+    .label = Anulează
+    .accessKey = C
+address-capture-update-button =
+    .label = Actualizează
+    .accessKey = U
+address-capture-manage-address-button =
+    .label = Setări adresă
+address-capture-learn-more-button =
+    .label = Află mai multe
+address-capture-open-menu-button =
+    .aria-label = Deschide meniul
+address-capture-edit-address-button =
+    .aria-label = Editează adresa
+# The dialog title for creating addresses in browser preferences.
+autofill-add-address-title = Adaugă o adresă
 # The dialog title for editing addresses in browser preferences.
 autofill-edit-address-title = Editează adresa
 autofill-address-given-name = Prenume
 autofill-address-additional-name = Al doilea nume
 autofill-address-family-name = Nume de familie
+autofill-address-name = Nume
 autofill-address-organization = Organizație
+autofill-address-street-address = Strada
 autofill-address-street = Adresă poștală
 
 ## address-level-3 (Sublocality) names
@@ -80,6 +109,7 @@ autofill-address-eircode = Eircode (Irlanda)
 # The dialog title for creating addresses in browser preferences.
 autofill-add-new-address-title = Adaugă o adresă nouă
 autofill-address-country = Țară sau regiune
+autofill-address-country-only = Țara
 autofill-address-tel = Număr de telefon
 autofill-address-email = E-mail
 autofill-cancel-button = Anulează
@@ -97,6 +127,7 @@ autofill-edit-card-password-prompt =
         [windows] { -brand-short-name } încearcă să afișeze informații despre cardurile de credit. Confirmă accesul la acest cont de Windows mai jos.
        *[other] { -brand-short-name } încearcă să afișeze informații despre cardurile de credit.
     }
+autofill-message-tooltip = Vezi mesajul despre completarea automată
 # The dialog title for creating credit cards in browser preferences.
 autofill-add-card-title = Adaugă card
 # The dialog title for editing credit cards in browser preferences.
