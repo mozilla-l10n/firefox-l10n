@@ -1275,6 +1275,7 @@ content-blocking-etp-standard-tcp-rollout-description = Protecția totală a coo
 content-blocking-etp-standard-tcp-rollout-learn-more = Află mai multe
 content-blocking-etp-standard-tcp-title = Include protecția totală a cookie-urilor, cea mai puternică funcție de confidențialitate pe care am proiectat-o noi vreodată
 content-blocking-warning-title = Atenție!
+content-blocking-and-isolating-etp-warning-description-3 = Setarea poate face ca unele site-uri web să nu afișeze conținut sau să nu funcționeze corect. Oferim excepții opționale pentru site-urile web despre care știm că pot fi afectate de configurația ta. Pentru a reduce șansa apariției de site-uri web defecte, permite aceste excepții pentru elementele de urmărire. Dacă un site pare defect, poți dezactiva protecția împotriva urmăririi pentru site-ul respectiv ca să încarce tot conținutul și raportează problema ca să putem ajuta la remedierea ei pentru toți.
 content-blocking-and-isolating-etp-warning-description-2 = Această setare poate poate determina unele site-uri web să nu afișeze conținut sau să nu funcționeze corect. Dacă un site pare să fie defect, ai posibilitatea de a dezactiva protecția de urmărire pentru acel site pentru a încărca tot conținutul.
 content-blocking-warning-learn-how = Află cum
 content-blocking-baseline-exceptions =
@@ -1385,12 +1386,17 @@ permissions-addon-exceptions =
 collection-header = Colectarea și utilizarea de date din { -brand-short-name }
 collection-header2 = Colectarea și utilizarea de date în { -brand-short-name }
     .searchkeywords = telemetrie
+preferences-collection-description = Ne străduim să îți oferim opțiuni și să colectăm doar datele minime necesare pentru a îmbunătăți { -brand-product-name } pentru toți.
 preferences-collection-privacy-notice = Vezi notificarea privind confidențialitatea
+preferences-across-profiles = Setările se aplică fiecărui profil { -brand-product-name } de pe acest dispozitiv.
 preferences-view-profiles = Vezi toate profilurile
 collection-description = Ne străduim să îți oferim posibilitatea de a face alegeri și colectăm doar ceea ce avem nevoie ca să furnizăm și să îmbunătățim { -brand-short-name } pentru toată lumea. Întotdeauna solicităm permisiunea înainte de a primi informații cu caracter personal.
 collection-privacy-notice = Notificare privind confidențialitatea
 collection-health-report-telemetry-disabled = Nu mai permiți { -vendor-short-name } să îți capteze datele tehnice și de interacționare. Toate datele anterioare vor fi șterse în 30 de zile.
 collection-health-report-telemetry-disabled-link = Află mai multe
+collection-usage-ping =
+    .label = Trimite un ping de utilizare zilnică către { -vendor-short-name }
+    .accesskey = u
 collection-usage-ping-description = Ajută { -vendor-short-name } să estimeze utilizatorii activi.
 collection-health-report2 =
     .label = Trimite date tehnice și de interacțiune către { -vendor-short-name }
@@ -1415,6 +1421,7 @@ collection-health-report-disabled2 = Raportarea datelor este dezactivată în co
 collection-backlogged-crash-reports2 =
     .label = Trimite automat rapoarte de închidere neașteptată
     .accesskey = c
+collection-backlogged-crash-reports-description = Ajută { -vendor-short-name } să diagnosticheze și să repare probleme din browser. Rapoartele pot include date personale sau sensibile.
 addon-recommendations =
     .label = Permite ca { -brand-short-name } să facă recomandări de extensii personalizate
 addon-recommendations-link = Află mai multe
@@ -1438,6 +1445,7 @@ website-advertising-header = Preferințe de publicitate pe site-urile web
 website-advertising-private-attribution =
     .label = Permite site-urilor web să efectueze măsurători ale anunțurilor care respectă confidențialitatea
     .accesskey = a
+website-advertising-private-attribution-description = Ajută site-urile să înțeleagă cum se comportă anunțurile lor fără a colecta date despre tine.
 
 ## Privacy Section - Security
 ##
@@ -1469,9 +1477,14 @@ certs-view =
 certs-devices =
     .label = Dispozitive de securitate…
     .accesskey = D
+certs-thirdparty-toggle =
+    .label = Permite { -brand-short-name } să acorde automat încredere certificatelor-rădăcină terțe pe care le instalezi
+    .accesskey = t
 space-alert-over-5gb-settings-button =
     .label = Deschide setările
     .accesskey = O
+space-alert-over-5gb-message2 = <strong>{ -brand-short-name } rămâne fără spațiu pe disc. </strong>Este posibil ca conținutul site-urilor web să nu fie afișat corespunzător. Poți șterge datele stocate în Setări > Confidențialitate și securitate > Cookie-uri și date ale site-urilor.
+space-alert-under-5gb-message2 = <strong>{ -brand-short-name } rămâne fără spațiu pe disc.</strong> Este posibil va conținutul site-urilor web să nu fie afișat corespunzător. Intră pe „Află mai multe” ca să îți optimizezi utilizarea spațiului pe disc pentru o mai bună experiență la navigare.
 
 ## Privacy Section - HTTPS-Only
 

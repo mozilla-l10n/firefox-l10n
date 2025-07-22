@@ -30,12 +30,15 @@ searchbar-icon =
 ## $oldEngine (String) - the search engine to be removed.
 ## $newEngine (String) - the search engine to replace the removed search engine.
 
+removed-search-engine-message = <strong>Motorul de căutare implicit a fost modificat.</strong> { $oldEngine } nu mai este disponibil ca motor implicit de căutare în { -brand-short-name }. { $newEngine } este acum motorul tău de căutare implicit. Pentru a folosi alt motor de căutare implicit, mergi în setări. <label data-l10n-name="remove-search-engine-article">Află mai multe</label>
+removed-search-engine-message2 = <strong>Motorul de căutare implicit a fost modificat.</strong> { $oldEngine } nu mai este disponibil ca motor implicit de căutare în { -brand-short-name }. { $newEngine } este acum motorul tău de căutare implicit. Pentru a folosi alt motor de căutare implicit, mergi în setări.
 remove-search-engine-button = OK
 
 ## Infobar shown when default search engine is reset due to an issue reading the settings file.
 ## Variables
 ## $newEngine (String) - the name of the new default search engine.
 
+reset-search-settings-message = Din cauza unei probleme tehnice, motorul de căutare implicit a fost schimbat înapoi la { $newEngine }. Pentru schimbarea motorului de căutare implicit, mergi în setări.
 reset-search-settings-button = OK
 
 ## Infobar shown when user is prompted to install search engine.

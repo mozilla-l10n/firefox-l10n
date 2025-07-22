@@ -305,6 +305,8 @@ tab-context-move-tab-to-group =
            *[many] Дадаць карткі ў групу
         }
     .accesskey = п
+tab-context-move-tab-to-group-saved-groups =
+    .label = Закрытыя групы
 tab-group-editor-action-new-tab =
     .label = Новая картка ў групе
 tab-group-editor-action-new-window =

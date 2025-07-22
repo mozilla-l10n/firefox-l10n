@@ -8,6 +8,9 @@
 newtab-page-title = Новая картка
 newtab-settings-button =
     .title = Наладзіць вашу старонку новай карткі
+newtab-customize-panel-icon-button =
+    .title = Уладкаваць гэту старонку
+newtab-customize-panel-icon-button-label = Уладкаваць
 newtab-personalize-settings-icon-label =
     .title = Персаналізаваць новую картку
     .aria-label = Налады
@@ -543,9 +546,6 @@ newtab-download-mobile-highlight-body-variant-b = Працягвайце з т�
 newtab-download-mobile-highlight-body-variant-c = Ці ведаеце вы, што { -brand-product-name } можна браць у дарогу? Той жа браўзер. У кішэні.
 newtab-download-mobile-highlight-image =
     .aria-label = QR-код для сцягвання { -brand-product-name } для мабільных прылад
-
-## Strings for shortcuts highlight
-
 
 ## Strings for reporting ads and content
 

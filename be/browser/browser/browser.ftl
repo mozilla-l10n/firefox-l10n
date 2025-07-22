@@ -363,6 +363,7 @@ quickactions-downloads2 = Паглядзець сцягванні
 quickactions-cmd-downloads = сцягванні
 # Opens about:addons page in the extensions section
 quickactions-extensions = Кіраваць пашырэннямі
+quickactions-cmd-extensions2 = пашырэнні, дадаткі, дапаўненні
 quickactions-cmd-extensions = пашырэнні
 # Opens Firefox View
 quickactions-firefoxview = Адкрыць { -firefoxview-brand-name }
@@ -410,6 +411,10 @@ quickactions-cmd-settings2 = налады, перавагі, параметры,
 quickactions-cmd-settings = налады, перавагі, параметры
 # Opens about:addons page in the themes section
 quickactions-themes = Кіраваць тэмамі
+# In English we provide multiple spellings for "add-ons". If that's not
+# applicable to your language, only use the correct spelling (don't repeat the
+# same word).
+quickactions-cmd-themes2 = тэмы, дапаўненні, дадаткі
 quickactions-cmd-themes = тэмы
 # Opens a SUMO article explaining how to update the browser
 quickactions-update = Абнавіць { -brand-short-name }
@@ -618,6 +623,10 @@ urlbar-search-mode-indicator-close =
 # engine is unknown.
 urlbar-placeholder =
     .placeholder = Шукаць ці ўвесці адрас
+# This placeholder is used when not in search mode and searching in the urlbar
+# is disabled via the keyword.enabled pref.
+urlbar-placeholder-keyword-disabled =
+    .placeholder = Увядзіце адрас
 # This placeholder is used in search mode with search engines that search the
 # entire web.
 # Variables
@@ -760,6 +769,27 @@ urlbar-result-action-calculator-result-decimal = = { NUMBER($result, maximumSign
 #       abbreviation of one of the city's administrative divisions like a
 #       province or state, or it may be the name of the city's country.
 urlbar-result-weather-title = <strong>{ $temperature } °{ $unit }</strong> ў { $city }, { $region }
+# The title of a weather suggestion in the urlbar including a region and
+# country. The temperature and unit substring should be inside a <strong> tag.
+# If the temperature and unit are not adjacent in the localization, it's OK to
+# include only the temperature in the tag.
+# Variables:
+#   $temperature (number) - The temperature value
+#   $unit (String) - The unit for the temperature, either "C" or "F"
+#   $city (String) - The name of the city the weather data is for
+#   $region (String) - The name or abbreviation of one of the city's
+#       administrative divisions like a province or state.
+#   $country (String) - The name of the city's country.
+urlbar-result-weather-title-with-country = <strong>{ $temperature }°{ $unit }</strong> ў { $city }, { $region }, { $country }
+# The title of a weather suggestion in the urlbar only including the city. The
+# temperature and unit substring should be inside a <strong> tag. If the
+# temperature and unit are not adjacent in the localization, it's OK to include
+# only the temperature in the tag.
+# Variables:
+#   $temperature (number) - The temperature value
+#   $unit (String) - The unit for the temperature, either "C" or "F"
+#   $city (String) - The name of the city the weather data is for
+urlbar-result-weather-title-city-only = <strong>{ $temperature }°{ $unit }</strong> ў { $city }
 # Shows the name of the provider of weather data in a weather suggestion in the
 # urlbar.
 # Variables:
@@ -793,6 +823,8 @@ urlbar-searchmode-actions =
     .label = Дзеянні
 urlbar-searchmode-exit-button =
     .tooltiptext = Закрыць
+urlbar-searchmode-default =
+    .tooltiptext = Прадвызначаны пашукавік
 # Label shown on the top of Searchmode Switcher popup. After this label, the
 # available search engines will be listed.
 urlbar-searchmode-popup-description = Гэтым разам шукаць у:
@@ -1097,6 +1129,8 @@ navbar-accessible =
     .aria-label = Навігацыя
 navbar-downloads =
     .label = Сцягванні
+navbar-overflow-2 =
+    .tooltiptext = Іншыя інструменты
 navbar-overflow =
     .tooltiptext = Іншыя інструменты…
 # Variables:
@@ -1296,3 +1330,6 @@ file-picker-crashed-show-in-folder =
 ## Onboarding Finish Setup checklist
 
 onboarding-checklist-button-label = Скончыць наладку
+onboarding-aw-finish-setup-button =
+    .label = Скончыць наладку
+    .tooltiptext = Завяршыць наладжванне { -brand-short-name }
