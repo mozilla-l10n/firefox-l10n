@@ -10,6 +10,12 @@
 
 origin-controls-no-access =
     .label = Extensia nu poate citi și modifica datele
+origin-controls-quarantined =
+    .label = Extensia nu poate citi și modifica datele
+origin-controls-quarantined-status =
+    .label = Extensia nu este permisă pe site-urile restricționate
+origin-controls-quarantined-allow =
+    .label = Permite pe site-urile restricționate
 origin-controls-options =
     .label = Extensia poate citi și modifica datele
 origin-controls-option-all-domains =
@@ -27,6 +33,7 @@ origin-controls-option-always-on =
 ## messages. They currently appear in the unified extensions panel.
 
 origin-controls-state-no-access = Nu poate citi și modifica datele de pe acest site
+origin-controls-state-quarantined = Nu este permisă de { -vendor-short-name } pe acest site
 origin-controls-state-always-on = Poate citi și modifica oricând datele de pe acest site
 origin-controls-state-when-clicked = Este necesară permisiunea pentru a citi și modifica datele
 origin-controls-state-hover-run-visit-only = Rulează numai pentru această vizită
@@ -41,3 +48,17 @@ origin-controls-state-temporary-access = Poate citi și modifica datele pentru a
 origin-controls-toolbar-button =
     .label = { $extensionTitle }
     .tooltiptext = { $extensionTitle }
+# Extension's toolbar button when permission is needed.
+# Note that the new line is intentionally part of the tooltip.
+origin-controls-toolbar-button-permission-needed =
+    .label = { $extensionTitle }
+    .tooltiptext =
+        { $extensionTitle }
+        Necesită permisiune
+# Extension's toolbar button when quarantined.
+# Note that the new line is intentionally part of the tooltip.
+origin-controls-toolbar-button-quarantined =
+    .label = { $extensionTitle }
+    .tooltiptext =
+        { $extensionTitle }
+        Nu este permisă de { -vendor-short-name } pe acest site

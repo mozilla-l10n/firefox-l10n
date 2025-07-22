@@ -264,6 +264,15 @@ mr2022-onboarding-colorway-description-visionary = <b>Ești un Vizionar.</b> Ie�
 mr2022-onboarding-colorway-label-activist = Activistul
 mr2022-onboarding-colorway-tooltip-activist2 =
     .title = Activist (albastru)
+mr2022-onboarding-colorway-description-activist = <b>Ești un Activist.</b> Lași lumea un loc mai bun decât ai găsit-o și îi faci pe ceilalți să creadă.
+mr2022-onboarding-colorway-label-dreamer = Visătorul
+mr2022-onboarding-colorway-tooltip-dreamer2 =
+    .title = Visător (violet)
+mr2022-onboarding-colorway-description-dreamer = <b>Ești un Visător.</b> Crezi că norocul le surâde celor îndrăzneți și îi inspiri pe ceilalți să fie curajoși.
+mr2022-onboarding-colorway-label-innovator = Inovatorul
+mr2022-onboarding-colorway-tooltip-innovator2 =
+    .title = Inovator (portocaliu)
+mr2022-onboarding-colorway-description-innovator = <b>Ești un Inovator.</b> Vezi oportunități peste tot și influențezi viața tuturor celor din jur.
 
 ## MR2022 Multistage Mobile Download screen strings
 
@@ -283,11 +292,26 @@ mr2022-upgrade-onboarding-pin-private-window-primary-button-label =
        *[other] Fixează navigarea privată { -brand-short-name } în bara de activități
     }
 
+## MR2022 Privacy Segmentation screen strings
+
+mr2022-onboarding-privacy-segmentation-title = Îți respectăm întotdeauna confidențialitatea
+mr2022-onboarding-privacy-segmentation-subtitle = De la sugestii inteligente la căutări mai eficiente, lucrăm constant pentru a crea un { -brand-product-name } mai bun și mai personalizat.
+mr2022-onboarding-privacy-segmentation-text-cta = Ce vrei să vezi când oferim funcționalități noi care îți utilizează datele pentru a-ți îmbunătăți navigarea?
+mr2022-onboarding-privacy-segmentation-button-primary-label = Folosește recomandările { -brand-product-name }
+mr2022-onboarding-privacy-segmentation-button-secondary-label = Afișează informații detaliate
+
 ## MR2022 Multistage Gratitude screen strings
 
 mr2022-onboarding-gratitude-title = Ne ajuți să construim un web mai bun
 mr2022-onboarding-gratitude-subtitle = Îți mulțumim că folosești { -brand-short-name }, susținut de Mozilla Foundation. Cu sprijinul tău, ne străduim să facem internetul mai deschis, mai accesibil și mai bun pentru toată lumea.
+mr2022-onboarding-gratitude-primary-button-label = Vezi ce este nou
 mr2022-onboarding-gratitude-secondary-button-label = Începe să navighezi
+
+## Onboarding spotlight for infrequent users
+
+onboarding-infrequent-import-title = Fă-te comod(ă)
+onboarding-infrequent-import-subtitle = Indiferent dacă te instalezi comod sau ești doar în trecere, nu uita că poți importa marcaje, parole și multe altele.
+onboarding-infrequent-import-primary-button = Importă în { -brand-short-name }
 
 ## Device migration onboarding
 
@@ -308,19 +332,73 @@ onboarding-sign-up-button = Fă-ți un cont sau intră în cont
 
 onboarding-new-user-survey-subtitle = Feedbackul tău ne ajută să facem { -brand-short-name } și mai bun.
 
+## UI strings for the sidebar and vertical tabs
+
+# Setup screen for vertical tabs for existing users
+onboarding-existing-tabs-title2 = Îți prezentăm filele verticale
+# Setup screen for vertical tabs for existing users - "Switch it up" refers to switching between horizontal and vertical tabs.
+onboarding-existing-tabs-subtitle = Încearcă filele pe lateral. Activează-le oricând dorești în setările barei laterale.
+# Text underneath an image used for selecting browser tabs to appear on the side of the browser.
+onboarding-existing-vertical-tabs-label = Încearcă filele verticale
+onboarding-flair-text = Nou!
+# Text underneath an image used for selecting browser tabs to appear at the top of the browser.
+onboarding-existing-horizontal-tabs-label = Păstrează filele pe orizontală
+# Tooltip displayed on hover for vertical tabs image
+onboarding-vertical-tabs-tooltip =
+    .title = O fereastră de browser care afișează filele în laterala ecranului, încorporate în bara laterală { -brand-shorter-name }.
+# Description for vertical tabs image
+onboarding-vertical-tabs-description =
+    .aria-description = O fereastră de browser care afișează filele în laterala ecranului, încorporate în bara laterală { -brand-shorter-name }.
+# Tooltip displayed on hover for horizontal tabs image
+onboarding-horizontal-tabs-tooltip =
+    .title = O fereastră de browser care afișează filele în partea de sus.
+# Description for horizontal tabs image
+onboarding-horizontal-tabs-description =
+    .aria-description = O fereastră de browser care afișează filele în partea de sus.
+# Additional setup card for setting up aichatbot in the sidebar
+onboarding-genai-sidebar-title = Încearcă un chatbot IA în bara laterală
+# Setup card for setting up AI chatbot in the sidebar; "Providers" refers to AI chatbot providers (e.g. OpenAI, etc). "Switch anytime" refers to allowing the user to switch to a different chatbot.
+onboarding-genai-sidebar-subtitle = Face rezumate de conținut web, schimb de idei, compune mesaje — toate în timp ce navighezi. Alegi dintre mai mulți furnizori. Îl schimbi oricând. <a data-l10n-name="learn-more">Află mai multe</a>
+onboarding-genai-sidebar-primary-button = Alege un chatbot
+onboarding-genai-sidebar-secondary-button = Începe să navighezi
+
 ## New user onboarding checklist
 
+onboarding-checklist-title = Finalizează configurarea { -brand-short-name }
+onboarding-checklist-subtitle = Urmează acești pași pentru a profita la maxim de experiența de navigare.
+onboarding-checklist-set-default = Setează { -brand-short-name } ca browser implicit
+onboarding-checklist-pin = Fixează { -brand-short-name } în bara de sarcini
+onboarding-checklist-import = Importă dintr-un browser anterior
+onboarding-checklist-extension = Adaugă o extensie
 onboarding-checklist-sign-up = Fă-ți un cont sau intră în contul tău
+
+## Tab Groups feature onboarding strings
+
+tab-groups-onboarding-feature-callout-title = Încearcă grupurile de file pentru mai multă ordine și mai multă concentrare
+tab-groups-onboarding-feature-callout-subtitle = Organizează-te trăgând o filă peste alta ca să creezi primul grup.
+tab-groups-onboarding-create-group-title-2 = Ai aici grupurile de file oricând.
+tab-groups-onboarding-create-group-no-alltabs-button-title = Caută grupurile prin căutare în bara de adrese.
+tab-groups-onboarding-saved-groups-title-2 = Când închizi un grup de file, îl poți redeschide oricând aici.
+tab-groups-onboarding-saved-groups-no-alltabs-button-title-2 = Găsești grupurile închise căutând-le în bara de adrese.
+tab-groups-onboarding-session-restore-title = Redeschizi grupurile de file aici oricând.
+tab-groups-onboarding-dismiss = OK
 
 ## Multi Profiles feature onboarding messages
 
 multi-profile-spotlight-title = Fă cunoștință cu profilurile { -brand-product-name }
+multi-profile-spotlight-body = Comuți cu ușurință între navigarea pentru serviciu și cea pentru divertisment. Profilurile păstrează informațiile de navigare, inclusiv istoricul căutărilor și parolele, complet separate, astfel încât să poți rămâne organizat(ă).
 multi-profile-spotlight-cta = Creează un profil
 multi-profile-callout-title = Creează profiluri diferite pentru muncă și distracție
+multi-profile-callout-subtitle = Profilurile îți permit să păstrezi complet separate informațiile de navigare, cum ar fi istoricul căutărilor și parolele.
 multi-profile-callout-cta = Creează un profil
 
 ## Desktop to Mobile Adoption feature callout strings
 
+# If translating the headline is challenging, consider using a simplified alternative as a reference: 'Sync your browsing with Firefox for mobile.'
+desktop-to-mobile-headline = Descarcă, sincronizează și gata!
 # The phrase, 'on the go', is used to describe when people are very busy and are traveling from place to place.
 desktop-to-mobile-subtitle = Scanează contul QR ca să descarci { -brand-product-name } pentru mobil. După instalare, selectează „Sincronizare pe mobil” ca să ai acces la parole, marcaje și multe altele din mers.
+dismiss-button-label = Respinge
 sync-to-mobile-button-label = Sincronizează pe mobil
+desktop-to-mobile-qr-code-alt =
+    .aria-label = Cod QR pentru descărcarea { -brand-product-name } pentru mobil
