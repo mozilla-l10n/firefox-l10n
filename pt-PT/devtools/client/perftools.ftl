@@ -147,6 +147,7 @@ perftools-presets-graphics-label = Gráficos
 perftools-presets-graphics-description = Predefinição para investigar bugs gráficos no { -brand-shorter-name }.
 perftools-presets-media-label = Multimédia
 perftools-presets-media-description2 = Predefinição para investigar bugs de áudio e vídeo no { -brand-shorter-name }.
+perftools-presets-ml-label = Aprendizagem Automática
 perftools-presets-networking-label = Rede
 perftools-presets-networking-description = Predefinição para investigar bugs de rede no { -brand-shorter-name }.
 # "Power" is used in the sense of energy (electricity used by the computer).
@@ -155,6 +156,3 @@ perftools-presets-power-description = Predefinição para investigar bugs relaci
 perftools-presets-debug-label = Depuração
 perftools-presets-debug-description = Configuração pré-definida para depuração no { -brand-shorter-name }. Apresenta grande sobrecarga, não recomendada para tarefas de desempenho, mas sim para se concentrar em compreender o comportamento do navegador.
 perftools-presets-custom-label = Personalizada
-
-##
-
