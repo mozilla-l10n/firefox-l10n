@@ -44,6 +44,15 @@ options-default-color-unit-hsl = HSL(A)
 options-default-color-unit-rgb = RGB(A)
 options-default-color-unit-name = Nume de culori
 
+## Web Console section
+
+# The heading
+options-webconsole-label = Consolă web
+# The label for the checkbox that toggle whether the Split console is enabled
+options-webconsole-split-console-label = Activează consola divizată
+options-webconsole-split-console-tooltip =
+    .title = Deschide consola divizată cu tasta Escape
+
 ## Style Editor section
 
 # The heading
@@ -57,6 +66,10 @@ options-stylesheet-autocompletion-tooltip =
 
 # The heading
 options-screenshot-label = Comportamentul capturilor de ecran
+# Label for the checkbox that toggles screenshot to clipboard feature
+options-screenshot-clipboard-only-label = Captură de ecran doar în clipboard
+options-screenshot-clipboard-tooltip2 =
+    .title = Salvează captura de ecran direct în clipboard
 # Label for the checkbox that toggles the camera shutter audio for screenshot tool
 options-screenshot-audio-label = Redă sunetul obturatorului de cameră
 options-screenshot-audio-tooltip =
@@ -99,6 +112,10 @@ options-enable-chrome-tooltip =
 options-enable-remote-label = Activează depanarea la distanță
 options-enable-remote-tooltip2 =
     .title = Pornirea acestei opțiuni va permite depanarea la distanță a acestei instanțe a browserului
+# The label for checkbox that enables F12 as a shortcut to open DevTools
+options-enable-f12-label = Folosește tasta F12 ca să deschizi sau să închizi instrumentele de dezvoltare
+options-enable-f12-tooltip =
+    .title = Activarea acestei opțiuni va asocia tasta F12 pentru deschiderea sau închiderea trusei de instrumente de dezvoltare.
 # The label for checkbox that toggles the service workers testing over HTTP on or off.
 options-enable-service-workers-http-label = Activează scripturile Service Worker prin HTTP (când este deschisă caseta de instrumente)
 options-enable-service-workers-http-tooltip =

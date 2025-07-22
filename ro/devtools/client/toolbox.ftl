@@ -29,3 +29,5 @@ toolbox-meatball-menu-noautohide-label = Dezactivează ascunderea automată a fe
 
 toolbox-always-on-top-enabled2 = Dezactivează întotdeauna deasupra
     .title = Va reporni instrumentele de dezvoltare
+toolbox-always-on-top-disabled2 = Activează întotdeauna deasupra
+    .title = Va reporni instrumentele de dezvoltare
