@@ -406,7 +406,7 @@ about-logins-import-dialog-items-modified =
     }
 about-logins-import-dialog-items-no-change =
     { $count ->
-       *[other] <span>Date de autentificare duplicat găsite:</span> <span data-l10n-name="count">{ $count }</span> <span data-l10n-name="meta">(nu importate)</span>
+       *[other] <span>Date de autentificare duplicate găsite:</span> <span data-l10n-name="count">{ $count }</span> <span data-l10n-name="meta">(nu importate)</span>
     }
 about-logins-import-dialog-items-added2 =
     { $count ->
@@ -418,7 +418,7 @@ about-logins-import-dialog-items-modified2 =
     }
 about-logins-import-dialog-items-no-change2 =
     { $count ->
-       *[other] <span>Intrări duplicat găsite:</span> <span data-l10n-name="count">{ $count }</span> <span data-l10n-name="meta">(neimportate)</span>
+       *[other] <span>Intrări duplicate găsite:</span> <span data-l10n-name="count">{ $count }</span> <span data-l10n-name="meta">(neimportate)</span>
     }
 about-logins-import-dialog-items-error =
     { $count ->
@@ -474,7 +474,7 @@ about-logins-import-report-modified =
     }
 about-logins-import-report-no-change =
     { $count ->
-       *[other] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">Date de autentificare duplicat</div> <div data-l10n-name="not-imported">(nu importate)</div>
+       *[other] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">Date de autentificare duplicate</div> <div data-l10n-name="not-imported">(nu importate)</div>
     }
 about-logins-import-report-added2 =
     { $count ->
@@ -486,7 +486,7 @@ about-logins-import-report-modified2 =
     }
 about-logins-import-report-no-change2 =
     { $count ->
-       *[other] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">Intrări duplicat</div> <div data-l10n-name="not-imported">(nu importate)</div>
+       *[other] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">Intrări duplicate</div> <div data-l10n-name="not-imported">(nu importate)</div>
     }
 about-logins-import-report-error =
     { $count ->

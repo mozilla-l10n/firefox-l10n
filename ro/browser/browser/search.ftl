@@ -74,6 +74,7 @@ add-engine-keyword-placeholder =
 ## The following strings are used as error messages.
 
 add-engine-keyword-exists = Cuvântul-cheie este deja folosit. Încearcă unul diferit.
+add-engine-name-exists = Numele este deja folosit. Te rugăm să alegi altul.
 add-engine-no-name = Tă rugăm să adaugi un nume.
 add-engine-no-url = Te rugăm să introduci un URL.
 add-engine-invalid-url = URL-ul nu pare corect. Verific-o și încearcă din nou.

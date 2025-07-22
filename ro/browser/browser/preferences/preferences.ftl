@@ -725,7 +725,7 @@ search-edit-engine =
 search-find-more-link = Caută mai multe motoare de căutare
 # This warning is displayed when the chosen keyword is already in use
 # ('Duplicate' is an adjective)
-search-keyword-warning-title = Cuvânt cheie duplicat
+search-keyword-warning-title = Cuvânt-cheie duplicat
 # Variables:
 #   $name (string) - Name of a search engine.
 search-keyword-warning-engine = Ai ales un cuvânt cheie care este folosit actualmente de „{ $name }”. Te rugăm să selectezi altul.

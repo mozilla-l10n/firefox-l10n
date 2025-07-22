@@ -138,6 +138,24 @@ tabbrowser-confirm-close-windows-button =
 ## Windows does not show a prompt on quit when using the keyboard shortcut by default.
 
 tabbrowser-confirm-close-tabs-with-key-title = Închizi fereastra și ieși din { -brand-short-name }?
+tabbrowser-confirm-close-tabs-with-key-button = Închide { -brand-short-name }
+# Variables:
+#   $quitKey (String): the text of the keyboard shortcut for quitting.
+tabbrowser-ask-close-tabs-with-key-checkbox = Întreabă înainte de a ieși cu { $quitKey }
+# Variables:
+#   $quitKey (String): the text of the keyboard shortcut for quitting.
+tabbrowser-confirm-close-tabs-with-key-checkbox = Confirmă înainte de a ieși cu { $quitKey }
+
+## Confirmation dialog when quitting using the keyboard shortcut (Ctrl/Cmd+Q)
+## and browser.warnOnQuitShortcut is true.
+
+tabbrowser-confirm-close-warn-shortcut-title = Închizi { -brand-short-name } sau fila curentă?
+tabbrowser-confirm-close-windows-warn-shortcut-button =
+    { PLATFORM() ->
+        [windows] Ieși din { -brand-short-name }
+       *[other] Închide { -brand-short-name }
+    }
+tabbrowser-confirm-close-tab-only-button = Închide fila curentă
 
 ## Confirmation dialog when opening multiple tabs simultaneously
 
@@ -156,6 +174,13 @@ tabbrowser-confirm-open-multiple-tabs-checkbox = Avertizează-mă când deschide
 tabbrowser-confirm-caretbrowsing-title = Navigare la cursor
 tabbrowser-confirm-caretbrowsing-message = Apăsarea pe F7 activează sau dezactivează navigarea la cursor. Acestă funcție plasează un cursor mobil în paginile web, permițându-ți să selectezi textul cu tastatura. Vrei să activezi navigarea la cursor?
 tabbrowser-confirm-caretbrowsing-checkbox = Nu mai afișa această casetă de dialog.
+
+## Confirmation dialog for closing all duplicate tabs
+
+tabbrowser-confirm-close-duplicate-tabs-title = Atenție!
+tabbrowser-confirm-close-duplicate-tabs-text = Vom păstra deschisă ultima filă activă
+tabbrowser-confirm-close-all-duplicate-tabs-title = Închizi filele duplicate?
+tabbrowser-confirm-close-all-duplicate-tabs-text = Vom închide filele duplicate din această fereastră. Ultima filă activă va rămâne deschisă.
 
 ##
 

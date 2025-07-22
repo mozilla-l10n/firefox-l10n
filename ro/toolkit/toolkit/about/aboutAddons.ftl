@@ -213,16 +213,16 @@ shortcuts-invalid = Combinație nevalidă
 shortcuts-letter = Tastează o literă
 shortcuts-system = Scurtăturile { -brand-short-name } nu pot fi înlocuite
 # String displayed in warning label when there is a duplicate shortcut
-shortcuts-duplicate = Comandă rapidă duplicat
+shortcuts-duplicate = Comandă rapidă duplicată
 # String displayed when a keyboard shortcut is already assigned to more than one add-on
 # Variables:
 #   $shortcut (string) - Shortcut string for the add-on
-shortcuts-duplicate-warning-message = { $shortcut } este folosită drept comandă rapidă în mai mult de un caz. Comenzile rapide duplicat pot produce comportamente neașteptate.
+shortcuts-duplicate-warning-message = { $shortcut } este folosită drept comandă rapidă în mai mult de un caz. Comenzile rapide duplicate pot produce comportamente neașteptate.
 # String displayed when a keyboard shortcut is already assigned to more than one add-on
 # Variables:
 #   $shortcut (string) - Shortcut string for the add-on
 shortcuts-duplicate-warning-message2 =
-    .message = { $shortcut } este folosită drept comandă rapidă în mai mult de un caz. Comenzile rapide duplicat pot produce comportamente neașteptate.
+    .message = { $shortcut } este folosită drept comandă rapidă în mai mult de un caz. Comenzile rapide duplicate pot produce comportamente neașteptate.
 # String displayed when a keyboard shortcut is already used by another add-on
 # Variables:
 #   $addon (string) - Name of the add-on

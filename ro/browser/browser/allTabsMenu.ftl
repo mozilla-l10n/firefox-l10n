@@ -13,9 +13,9 @@ all-tabs-menu-manage-user-context =
     .label = Gestionează containerele
     .accesskey = O
 all-tabs-menu-close-duplicate-tabs =
-    .label = Închide filele duplicat
+    .label = Închide filele duplicate
 all-tabs-menu-close-all-duplicate-tabs =
-    .label = Închide toate filele duplicat
+    .label = Închide toate filele duplicate
 all-tabs-menu-synced-tabs =
     .label = File de pe alte dispozitive
 # "Recent" refers to tab groups being sorted in recently used order. We show up
