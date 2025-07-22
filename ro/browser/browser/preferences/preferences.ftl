@@ -277,6 +277,16 @@ preferences-web-appearance-override-warning2 =
 # This message contains one link. It can be moved within the sentence as needed
 # to adapt to your language, but should not be changed.
 preferences-web-appearance-footer = Gestionează temele { -brand-short-name } în <a data-l10n-name="themes-link">Extensii și teme</a>
+preferences-contrast-control-header = Reglarea contrastului
+preferences-contrast-control-use-platform-settings =
+    .label = Automat (folosește setările de sistem)
+    .accesskey = A
+preferences-contrast-control-off =
+    .label = Dezactivat
+    .accesskey = O
+preferences-contrast-control-custom =
+    .label = Personalizat
+    .accesskey = C
 preferences-colors-header = Culori
 preferences-colors-description = Suprascrie culorile implicite ale { -brand-short-name } pentru text, fundalurile site-urilor web și linkuri.
 preferences-colors-manage-button =
@@ -315,6 +325,7 @@ confirm-browser-language-change-button = Aplică și repornește
 translate-web-pages =
     .label = Tradu conținutul web
     .accesskey = T
+fx-translate-web-pages = { -translations-brand-name }
 # The <img> element is replaced by the logo of the provider
 # used to provide machine translations for web pages.
 translate-attribution = Traduceri de <img data-l10n-name="logo"/>
@@ -464,6 +475,7 @@ update-application-use-service =
 update-application-suppress-prompts =
     .label = Afișează mai puține solicitări de notificare a actualizărilor
     .accesskey = n
+update-setting-write-failure-title2 = Eroare la salvarea setărilor de actualizare
 update-in-progress-title = Actualizare în curs
 update-in-progress-message = Vrei ca { -brand-short-name } să continue cu această actualizare?
 update-in-progress-ok-button = Înlătură
@@ -502,6 +514,9 @@ browsing-use-autoscroll =
 browsing-use-smooth-scrolling =
     .label = Folosește derularea lină
     .accesskey = i
+browsing-gtk-use-non-overlay-scrollbars =
+    .label = Afișează întotdeauna barele de derulare
+    .accesskey = o
 browsing-always-underline-links =
     .label = Subliniază întotdeauna linkurile
     .accesskey = u
@@ -1132,17 +1147,29 @@ cookie-banner-blocker-description = Când un site întreabă dacă poate folosi 
 cookie-banner-learn-more = Află mai multe
 forms-handle-cookie-banners =
     .label = Reducerea bannerelor de cookie-uri
+cookie-banner-blocker-checkbox-label =
+    .label = Refuză automat bannerele de cookie-uri
 
 ## Privacy Section - Address Bar
 
 addressbar-header = Bară de adresă
 addressbar-suggest = Când se folosește bara de adresă, sugerează:
+# When Firefox Suggest is enabled, this replaces `addressbar-header`.
+addressbar-header-firefox-suggest = Bară de adrese — { -firefox-suggest-brand-name }
+# When Firefox Suggest is enabled, this replaces `addressbar-suggest`.
+addressbar-suggest-firefox-suggest = Alege tipul de sugestii care apar în bara de adrese.
+# When Firefox Suggest is enabled, a "Learn more" link appears at the end of
+# `addressbar-suggest-firefox-suggest`.
+addressbar-locbar-firefox-suggest-learn-more = Află mai multe
 addressbar-locbar-history-option =
     .label = Istoric de navigare
     .accesskey = H
 addressbar-locbar-bookmarks-option =
     .label = Marcaje
     .accesskey = k
+addressbar-locbar-clipboard-option =
+    .label = Clipboard
+    .accesskey = C
 addressbar-locbar-openpage-option =
     .label = File deschise
     .accesskey = O
@@ -1160,13 +1187,30 @@ addressbar-locbar-quickactions-option =
     .label = Acțiuni rapide
     .accesskey = Q
 addressbar-suggestions-settings = Schimbă preferințele pentru sugestiile motoarelor de căutare…
+addressbar-locbar-showrecentsearches-option =
+    .label = Afișează căutările recente
+    .accesskey = r
+addressbar-locbar-showtrendingsuggestions-option =
+    .label = Afișează sugestii de căutare în tendințe
+    .accesskey = t
+# Nonsponsored suggestions refers to Firefox Suggest suggestions like Wikipedia.
+addressbar-locbar-suggest-nonsponsored-option =
+    .label = Sugestii de la { -brand-short-name }
+addressbar-locbar-suggest-nonsponsored-desc = Obține sugestii de pe web legate de căutarea ta.
+addressbar-locbar-suggest-sponsored-option =
+    .label = Sugestii de la sponsori
+addressbar-locbar-suggest-sponsored-desc = Susține { -brand-short-name } cu sugestii sponsorizate ocazionale.
 addressbar-quickactions-learn-more = Află mai multe
+addressbar-dismissed-suggestions-label = Sugestii respinse
+addressbar-restore-dismissed-suggestions-button =
+    .label = Restaurează
 
 ## Privacy Section - Content Blocking
 
 content-blocking-enhanced-tracking-protection = Protecție îmbunătățită împotriva urmăririi
 content-blocking-section-top-level-description = Elementele de urmărire te urmăresc online pentru a colecta informații despre obiceiurile și interesele tale de navigare. { -brand-short-name } blochează multe dintre aceste elementele de urmărire și alte scripturi rău-intenționate.
 content-blocking-learn-more = Află mai multe
+content-blocking-fpi-incompatibility-warning = Folosești First Party Isolation (FPI), care are prioritate față de unele dintre setările { -brand-short-name } pentru cookie-uri.
 
 ## These strings are used to define the different levels of
 ## Enhanced Tracking Protection.
@@ -1197,8 +1241,13 @@ content-blocking-social-media-trackers = Elementele de urmărire ale rețelelor 
 content-blocking-all-cookies = Toate cookie-urile
 content-blocking-unvisited-cookies = Cookie-uri de la site-uri nevizitate
 content-blocking-all-windows-tracking-content = Conținutul de urmărire în toate ferestrele
+content-blocking-all-cross-site-cookies = Toate cookie-urile intersite-uri
 content-blocking-cryptominers = Criptominerii
 content-blocking-fingerprinters = Detectoarele de amprente digitale
+# The known fingerprinters are those that are known for collecting browser fingerprints from user devices. And
+# the suspected fingerprinters are those that we are uncertain about browser fingerprinting activities. But they could
+# possibly acquire browser fingerprints because of the behavior on accessing APIs that expose browser fingerprints.
+content-blocking-known-and-suspected-fingerprinters = Detectoare cunoscute și suspectate de amprente digitale
 
 # The tcp-rollout strings are no longer used for the rollout but for tcp-by-default in the standard section
 
@@ -1209,6 +1258,10 @@ content-blocking-etp-standard-tcp-title = Include protecția totală a cookie-ur
 content-blocking-warning-title = Atenție!
 content-blocking-and-isolating-etp-warning-description-2 = Această setare poate poate determina unele site-uri web să nu afișeze conținut sau să nu funcționeze corect. Dacă un site pare să fie defect, ai posibilitatea de a dezactiva protecția de urmărire pentru acel site pentru a încărca tot conținutul.
 content-blocking-warning-learn-how = Află cum
+content-blocking-baseline-exceptions =
+    .label = Permite { -brand-short-name } să aplice automat excepțiile necesare pentru a evita întreruperi majore ale site-ului web.
+content-blocking-convenience-exceptions =
+    .label = Aplică automat excepții necesare doar pentru remedierea de probleme minore și pentru a face disponibile funcționalități utile.
 content-blocking-reload-description = Va trebui să reîncarci filele pentru aplicarea acestor modificări.
 content-blocking-reload-tabs-button =
     .label = Reîncarcă toate filele
@@ -1237,6 +1290,18 @@ content-blocking-cryptominers-label =
 content-blocking-fingerprinters-label =
     .label = Detectoare de amprente digitale
     .accesskey = F
+# Browser fingerprinting is a method of tracking users by the configuration and settings information (their "digital fingerprint")
+# that is visible to websites they browse, rather than traditional tracking methods such as IP addresses and unique cookies.
+#
+# The known fingerprinters are those that are known for collecting browser fingerprints from user devices.
+content-blocking-known-fingerprinters-label =
+    .label = Detectoare cunoscute de amprente digitale
+    .accesskey = K
+# The suspected fingerprinters are those that we are uncertain about browser fingerprinting activities. But they could
+# possibly acquire browser fingerprints because of the behavior on accessing APIs that expose browser fingerprints.
+content-blocking-suspected-fingerprinters-label =
+    .label = Detectoare suspectate de amprente digitale
+    .accesskey = S
 
 ## Privacy Section - Tracking
 
@@ -1263,6 +1328,11 @@ permissions-microphone = Microfon
 permissions-microphone-settings =
     .label = Setări…
     .accesskey = m
+# Short form for "the act of choosing sound output devices and redirecting audio to the chosen devices".
+permissions-speaker = Selectare boxe
+permissions-speaker-settings =
+    .label = Setări...
+    .accesskey = t
 permissions-notification = Notificări
 permissions-notification-settings =
     .label = Setări…
@@ -1294,15 +1364,26 @@ permissions-addon-exceptions =
 ## Privacy Section - Data Collection
 
 collection-header = Colectarea și utilizarea de date din { -brand-short-name }
+collection-header2 = Colectarea și utilizarea de date în { -brand-short-name }
+    .searchkeywords = telemetrie
+preferences-collection-privacy-notice = Vezi notificarea privind confidențialitatea
 preferences-view-profiles = Vezi toate profilurile
 collection-description = Ne străduim să îți oferim posibilitatea de a face alegeri și colectăm doar ceea ce avem nevoie ca să furnizăm și să îmbunătățim { -brand-short-name } pentru toată lumea. Întotdeauna solicităm permisiunea înainte de a primi informații cu caracter personal.
 collection-privacy-notice = Notificare privind confidențialitatea
 collection-health-report-telemetry-disabled = Nu mai permiți { -vendor-short-name } să îți capteze datele tehnice și de interacționare. Toate datele anterioare vor fi șterse în 30 de zile.
 collection-health-report-telemetry-disabled-link = Află mai multe
+collection-usage-ping-description = Ajută { -vendor-short-name } să estimeze utilizatorii activi.
+collection-health-report2 =
+    .label = Trimite date tehnice și de interacțiune către { -vendor-short-name }
+    .accesskey = r
 collection-health-report =
     .label = Permite ca { -brand-short-name } să trimită informații tehnice și de interacțiune către { -vendor-short-name }
     .accesskey = r
 collection-health-report-link = Află mai multe
+collection-health-report-description = Ne ajută să îmbunătățim funcționalitățile, performanța și stabilitatea { -brand-product-name }.
+collection-studies2 =
+    .label = Instalează și execută studii
+collection-studies-description = Încearcă funcționalitățile și ideile înainte de a le lansa public.
 collection-studies =
     .label = Permite ca { -brand-short-name } să instaleze și să realizeze studii
 collection-studies-link = Vezi studiile { -brand-short-name }
@@ -1316,6 +1397,7 @@ collection-backlogged-crash-reports-with-link = Permite ca { -brand-short-name }
     .accesskey = c
 collection-backlogged-crash-reports = Permite ca { -brand-short-name } să trimită în numele tău rapoarte de defecțiuni înregistrate în jurnal
     .accesskey = c
+privacy-segmentation-section-header = Funcționalități noi care îmbunătățesc navigarea
 
 ## Privacy Section - Security
 ##

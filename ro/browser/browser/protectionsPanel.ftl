@@ -104,6 +104,9 @@ protections-panel-content-blocking-breakage-report-view-send-report =
 
 # Cookie Banner Handling
 
+# Variables
+#  $host (String): the hostname of the site that is being displayed.
+protections-panel-cookie-banner-view-turn-off-for-site = Dezactivezi reducerea bannerelor de cookie-uri pentru { $host }?
 protections-panel-cookie-banner-view-cookie-clear-warning = { -brand-short-name } va șterge cookie-urile acestui site și va reîncărca pagina. Ștergerea tuturor cookie-urilor te poate scoate din cont sau poate goli coșurile de cumpărături.
 
 ## Protections panel info message
