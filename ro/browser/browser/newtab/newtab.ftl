@@ -518,15 +518,59 @@ newtab-section-unblock-button = Deblochează
 newtab-section-cancel-button = Nu acum
 newtab-section-confirm-block-topic-p1 = Sigur vrei să blochezi acest subiect?
 newtab-section-confirm-block-topic-p2 = Subiectele blocate nu vor mai apărea în fluxul tău.
+# Variables:
+#   $topic (string) - Name of topic that user is blocking
+newtab-section-block-topic-button = Blochează { $topic }
 
 ## Strings for custom wallpaper highlight
 
 newtab-section-mangage-topics-title = Subiecte
+newtab-section-manage-topics-button-v2 =
+    .label = Gestionează subiectele
+newtab-section-mangage-topics-followed-topics = Urmărit
 newtab-section-mangage-topics-followed-topics-empty-state = Nu ai urmărit încă niciun subiect.
+newtab-section-mangage-topics-blocked-topics = Blocat
 newtab-section-mangage-topics-blocked-topics-empty-state = Nu ai blocat încă niciun subiect.
+newtab-custom-wallpaper-title = Sunt disponibile imagini de fundal personalizate
+# 'Make firefox yours" means to customize or personalize
+newtab-custom-wallpaper-subtitle = Încarcă propria imagine de fundal sau alege o culoare personalizată ca să îți personalizezi imaginea de fundal { -brand-product-name }.
+newtab-custom-wallpaper-cta = Încearcă-l
+
+## Strings for download mobile highlight
+
+newtab-download-mobile-highlight-title = Descarcă { -brand-product-name } pentru mobil
+# "Scan the code" refers to scanning the QR code that appears above the body text that leads to Firefox for mobile download.
+newtab-download-mobile-highlight-body-variant-a = Scanează codul ca să navighezi în siguranță din mers.
+newtab-download-mobile-highlight-body-variant-b = Reia de unde ai rămas când sincronizezi filele, parolele și multe altele.
+newtab-download-mobile-highlight-body-variant-c = Știai că poți lua { -brand-product-name } oriunde? În același browser. În buzunar.
+newtab-download-mobile-highlight-image =
+    .aria-label = Cod QR pentru descărcarea { -brand-product-name } pentru mobil
+
+## Strings for shortcuts highlight
+
+newtab-shortcuts-highlight-title = Preferatele tale la îndemână
+newtab-shortcuts-highlight-subtitle = Adaugă o comandă rapidă ca să-ți păstrezi site-urile preferate la un clic distanță.
 
 ## Strings for reporting ads and content
 
+newtab-report-content-why-reporting-this =
+    .label = De ce raportezi asta?
+newtab-report-ads-reason-not-interested =
+    .label = Nu mă interesează
+newtab-report-ads-reason-inappropriate =
+    .label = E necuviincios
+newtab-report-ads-reason-seen-it-too-many-times =
+    .label = L-am văzut de prea multe ori
+newtab-report-content-wrong-category =
+    .label = Categorie greșită
+newtab-report-content-outdated =
+    .label = Învechit
+newtab-report-content-inappropriate-offensive =
+    .label = Necuviincios sau ofensator
+newtab-report-content-spam-misleading =
+    .label = Spam sau conținut înșelător
+newtab-report-cancel = Anulează
+newtab-report-submit = Trimite
 newtab-toast-thanks-for-reporting =
     .message = Îți mulțumim pentru sesizare.
 

@@ -25,6 +25,8 @@ return-to-amo-subtitle = Nemaipomenit, ai { -brand-short-name }
 return-to-amo-addon-title = Acum hai să-ți obținem <img data-l10n-name="icon"/> <b>{ $addon-name }</b>.
 return-to-amo-add-extension-label = Adaugă extensia
 return-to-amo-add-theme-label = Adaugă tema
+return-to-amo-theme-install-complete-label = Temă instalată
+return-to-amo-extension-install-complete-label = Extensie instalată
 
 ##  Variables: $addon-name (String) - Name of the add-on to be installed
 
@@ -251,6 +253,17 @@ mr2022-onboarding-colorway-label-playmaker = Jucător în echipă
 mr2022-onboarding-colorway-tooltip-playmaker2 =
     .title = Jucător în echipă (roșu)
 mr2022-onboarding-colorway-description-playmaker = <b>Ești un Jucător în echipă.</b> Creezi oportunități de a câștiga și îi ajuți pe toți cei din jurul tău să-și îmbunătățească jocul.
+mr2022-onboarding-colorway-label-expressionist = Expresionistul
+mr2022-onboarding-colorway-tooltip-expressionist2 =
+    .title = Expresionist (galben)
+mr2022-onboarding-colorway-description-expressionist = <b>Ești un Expresionist.</b> Vezi lumea diferit, iar creațiile tale stârnesc emoțiile celorlalți.
+mr2022-onboarding-colorway-label-visionary = Vizionarul
+mr2022-onboarding-colorway-tooltip-visionary2 =
+    .title = Vizionar (verde)
+mr2022-onboarding-colorway-description-visionary = <b>Ești un Vizionar.</b> Ieși din tipare și îi faci și pe alții să își imagineze un viitor mai bun.
+mr2022-onboarding-colorway-label-activist = Activistul
+mr2022-onboarding-colorway-tooltip-activist2 =
+    .title = Activist (albastru)
 
 ## MR2022 Multistage Mobile Download screen strings
 
