@@ -300,6 +300,7 @@ newtab-custom-row-selector =
        *[other] { $num } de rânduri
     }
 newtab-custom-sponsored-sites = Comenzi rapide sponsorizate
+newtab-custom-pocket-title = Recomandat de { -pocket-brand-name }
 newtab-custom-pocket-subtitle = Conținut excepțional, creat de { -pocket-brand-name }, parte a familiei { -brand-product-name }
 newtab-custom-stories-toggle =
     .label = Articole recomandate
@@ -338,14 +339,56 @@ newtab-wallpaper-light-landscape = Peisaj montan cu ceață albastră
 newtab-wallpaper-light-beach = Plajă cu palmier
 newtab-wallpaper-dark-aurora = Aurora Boreală
 newtab-wallpaper-dark-color = Forme roșii și albastre
+newtab-wallpaper-dark-panda = Panda roșu ascuns în pădure
+newtab-wallpaper-dark-sky = Peisaj urban cu cer nocturn
+newtab-wallpaper-dark-mountain = Peisaj montan
+newtab-wallpaper-dark-city = Peisaj urban violet
+newtab-wallpaper-dark-fox-anniversary = O vulpe pe trotuar lângă o pădure
+newtab-wallpaper-light-fox-anniversary = O vulpe într-un câmp ierbos cu un peisaj montan încețoșat
+
+## Solid Colors
+
+newtab-wallpaper-category-title-colors = Culori uni
+newtab-wallpaper-blue = Albastru
+newtab-wallpaper-light-blue = Albastru deschis
+newtab-wallpaper-light-purple = Violet deschis
+newtab-wallpaper-light-green = Verde deschis
+newtab-wallpaper-green = Verde
+newtab-wallpaper-beige = Bej
+newtab-wallpaper-yellow = Galben
+newtab-wallpaper-orange = Portocaliu
+newtab-wallpaper-pink = Roz
+newtab-wallpaper-light-pink = Roz deschis
+newtab-wallpaper-red = Roșu
+newtab-wallpaper-dark-blue = Albastru închis
+newtab-wallpaper-dark-purple = Violet închis
+newtab-wallpaper-dark-green = Verde închis
+newtab-wallpaper-brown = Maro
 
 ## Abstract
 
+newtab-wallpaper-category-title-abstract = Abstract
+newtab-wallpaper-abstract-green = Forme verzi
+newtab-wallpaper-abstract-blue = Forme albastre
+newtab-wallpaper-abstract-purple = Forme violete
+newtab-wallpaper-abstract-orange = Forme portocalii
+newtab-wallpaper-gradient-orange = Gradient de portocaliu și roz
+newtab-wallpaper-abstract-blue-purple = Forme albastre și violete
 newtab-wallpaper-abstract-black-waves = Forme ondulate negre
 
 ## Celestial
 
+newtab-wallpaper-category-title-photographs = Fotografii
+newtab-wallpaper-beach-at-sunrise = Plajă la răsărit
+newtab-wallpaper-beach-at-sunset = Plajă la apus
+newtab-wallpaper-storm-sky = Cer cu furtună
+newtab-wallpaper-sky-with-pink-clouds = Cer cu nori roz
 newtab-wallpaper-hot-air-balloons = Baloane cu aer cald în culori asortate, pe timp de zi
+newtab-wallpaper-starry-canyon = Noapte albastră înstelată
+newtab-wallpaper-suspension-bridge = Fotografie gri cu pod suspendat integral, pe timp de zi
+newtab-wallpaper-sand-dunes = Dune de nisip alb
+newtab-wallpaper-palm-trees = Siluetă de cocotieri la asfințit
+newtab-wallpaper-blue-flowers = Fotografie de prim-plan cu flori cu petale albastre înflorite
 newtab-wallpaper-feature-highlight-header = Încearcă o pată de culoare
 newtab-wallpaper-feature-highlight-content = Dă-i filei noi un aspect proaspăt cu imagini de fundal.
 newtab-wallpaper-feature-highlight-button = Am înțeles
@@ -357,6 +400,19 @@ feature-highlight-wallpaper =
     .title = { -newtab-wallpaper-feature-highlight-header }
     .aria-label = { -newtab-wallpaper-feature-highlight-content }
 
+## Celestial
+
+# “Celestial” referring to astronomy; positioned in or relating to the sky,
+# or outer space as observed in astronomy.
+# Not to be confused with religious definition of the word.
+newtab-wallpaper-category-title-celestial = Ceresc
+newtab-wallpaper-celestial-lunar-eclipse = Eclipsă de lună
+newtab-wallpaper-celestial-earth-night = Fotografie nocturnă de pe orbita joasă a Pământului
+newtab-wallpaper-celestial-starry-sky = Cer înstelat
+newtab-wallpaper-celestial-eclipse-time-lapse = Eclipsă de lună în înregistrare secvenţială
+newtab-wallpaper-celestial-black-hole = Ilustrație de galaxie cu gaură neagră
+newtab-wallpaper-celestial-river = Imagine din satelit cu un râu
+
 ## New Tab Weather
 
 # Variables:
@@ -367,3 +423,64 @@ newtab-weather-see-forecast =
 #   $provider (string) - Service provider for weather data
 newtab-weather-sponsored = { $provider } ∙ Sponsorizat
 newtab-weather-menu-change-location = Schimbă locația
+newtab-weather-change-location-search-input-placeholder =
+    .placeholder = Caută locație
+    .aria-label = Caută locație
+newtab-weather-change-location-search-input = Caută locație
+newtab-weather-menu-weather-display = Afișaj meteo
+# Display options are:
+# - Simple: Displays a current weather condition icon and the current temperature
+# - Detailed: Include simple information plus a short text summary: e.g. "Mostly cloudy"
+newtab-weather-menu-weather-display-option-simple = Simplă
+newtab-weather-menu-change-weather-display-simple = Comută pe vizualizare simplă
+newtab-weather-menu-weather-display-option-detailed = Detaliată
+newtab-weather-menu-change-weather-display-detailed = Comută pe vizualizare detaliată
+newtab-weather-menu-temperature-units = Unități de temperatură
+newtab-weather-menu-temperature-option-fahrenheit = Fahrenheit
+newtab-weather-menu-temperature-option-celsius = Celsius
+newtab-weather-menu-change-temperature-units-fahrenheit = Treci pe Fahrenheit
+newtab-weather-menu-change-temperature-units-celsius = Treci pe Celsius
+newtab-weather-menu-hide-weather = Ascunde vremea în fila nouă
+newtab-weather-menu-learn-more = Află mai multe
+# This message is shown if user is working offline
+newtab-weather-error-not-available = Datele meteo nu sunt disponibile momentan.
+
+## Topic Labels
+
+newtab-topic-label-business = Afaceri
+newtab-topic-label-career = Carieră
+newtab-topic-label-education = Educație
+newtab-topic-label-arts = Divertisment
+newtab-topic-label-food = Mâncare
+newtab-topic-label-health = Sănătate
+newtab-topic-label-hobbies = Jocuri
+# ”Money” = “Personal Finance”, refers to articles and stories that help readers better manage
+# and understand their personal finances – from saving money to buying a home. See the
+# “Curated by our editors“ section at the top of https://getpocket.com/explore/personal-finance for more context
+newtab-topic-label-finance = Bani
+newtab-topic-label-society-parenting = Creşterea şi educarea copiilor
+newtab-topic-label-government = Politică
+newtab-topic-label-education-science = Ştiinţă
+# ”Life Hacks” = “Self Improvement”, refers to articles and stories aimed at helping readers improve various
+# aspects of their lives – from mental health to  productivity. See the “Curated by our editors“ section
+# at the top of https://getpocket.com/explore/self-improvement for more context.
+newtab-topic-label-society = Sfaturi practice
+newtab-topic-label-sports = Sport
+
+## Strings for reporting ads and content
+
+newtab-toast-thanks-for-reporting =
+    .message = Îți mulțumim pentru sesizare.
+
+## Strings for trending searches
+
+# "Trending on Google" refers to the trending topics coming from Google Search, usually seen when a user is focused on the search bar
+newtab-trending-searches-trending-on-google = În tendințe pe Google
+newtab-trending-searches-show-trending =
+    .title = Afișează căutări în tendințe
+newtab-trending-searches-hide-trending =
+    .title = Ascunde căutări în tendințe
+newtab-trending-searches-learn-more = Află mai multe
+newtab-trending-searches-dismiss = Ascunde căutări în tendințe
+# "Trending searches refers to popular searches from search engines
+newtab-trending-searches-title = Căutări în tendințe
