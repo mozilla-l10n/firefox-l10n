@@ -204,7 +204,7 @@ shortcuts-no-addons = Nu ai activat nicio extensie.
 shortcuts-no-commands = Următoarele extensii nu au comenzi rapide:
 shortcuts-input =
     .placeholder = Tastează o comandă rapidă
-shortcuts-browserAction2 = Activează butonul pentru bara de unelte
+shortcuts-browserAction2 = Activează butonul pentru bara de instrumente
 shortcuts-pageAction = Activează acțiunea pe pagină
 shortcuts-sidebarAction = Comută bara laterală
 shortcuts-modifier-mac = Include Ctrl, Alt sau ⌘
@@ -450,10 +450,3 @@ plugins-openh264-name = Codec video OpenH264 furnizat de Cisco Systems, Inc.
 plugins-openh264-description = Acest plugin este instalat automat de Mozilla pentru a se conforma cu specificațiile WebTRC și pentru a activa apelurile WebRTC cu dispozitive care necesită codecul video H.264. Vizitează http://www.openh264.org/ pentru a vedea codul sursă al codecului și pentru a afla mai multe despre implementare.
 plugins-widevine-name = Modul pentru decriptarea conținutului Widevine oferit de Google Inc.
 plugins-widevine-description = Acest plugin permite redarea fișierelor multimedia criptate în conformitate cu specificația Encrypted Media Extensions. Fișierele multimedia criptate sunt de obicei utilizate de site-uri pentru protecție împotriva copierii conținuturilor multimedia premium. Intră pe https://www.w3.org/TR/encrypted-media/ pentru mai multe informații despre Encrypted Media Extensions.
-
-## Headings for the Permissions tab in `about:addons` when the data collection
-## feature is enabled.
-
-
-## Mapping Engine IDs from AI models to how that feature represented by the engine Id is described in the used by section in local model management
-

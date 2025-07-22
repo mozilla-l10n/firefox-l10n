@@ -111,6 +111,7 @@ translations-manage-description = Descarcă limbi pentru traducere offline.
 translations-manage-all-language = Toate limbile
 translations-manage-download-button = Descarcă
 translations-manage-delete-button = Șterge
+translations-manage-intro-2 = Setează preferințele de traducere pentru limbă și site-uri și gestionează limbile descărcate pentru traducerea offline.
 translations-manage-language-remove-button =
     .label = Elimină
 translations-manage-language-remove-all-button =

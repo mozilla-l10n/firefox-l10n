@@ -44,9 +44,6 @@ options-default-color-unit-hsl = HSL(A)
 options-default-color-unit-rgb = RGB(A)
 options-default-color-unit-name = Nume de culori
 
-## Web Console section
-
-
 ## Style Editor section
 
 # The heading
@@ -109,6 +106,6 @@ options-enable-service-workers-http-tooltip =
 # The label for the checkbox that toggles source maps in all tools.
 options-source-maps-label = Activează hărțile pentru surse
 options-source-maps-tooltip =
-    .title = Dacă activezi opțiunea, sursele vor fi cartate în unelte.
+    .title = Dacă activezi această opțiune, sursele vor fi mapate în instrumente.
 # The message shown for settings that trigger page reload
 options-context-triggers-page-refresh = * Doar sesiunea actuală, reîncarcă pagina
