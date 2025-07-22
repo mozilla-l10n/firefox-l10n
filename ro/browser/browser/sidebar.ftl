@@ -3,34 +3,17 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 
-## Labels for sidebar history panel
-
-
-## Labels for sidebar search
-
-
 ## Labels for sidebar customize panel
 
-
-## Labels for sidebar context menu items
-
-
-## Labels for sidebar history context menu items
-
+sidebar-customize-firefox-tools-header =
+    .label = Instrumente { -brand-product-name }
 
 ## Labels for sidebar menu items.
 
 sidebar-menu-synced-tabs-label =
     .label = File de pe alte dispozitive
-
-## Tooltips for sidebar menu items.
-
-
-## Tooltips displayed over the AI chatbot icon.
-## Variables:
-##   $shortcut (String) - The OS specific keyboard shortcut.
-##   $provider (String) - The name of the AI chatbot provider (if available).
-
+sidebar-menu-more-tools-label =
+    .label = Mai multe instrumente
 
 ## Headings for sidebar menu panels.
 
@@ -46,6 +29,3 @@ sidebar-syncedtabs-title = File de pe alte dispozitive
 show-sidebars =
     .tooltiptext = Afișează barele laterale
     .label = Bare laterale
-
-## Tooltips for the sidebar toolbar widget.
-

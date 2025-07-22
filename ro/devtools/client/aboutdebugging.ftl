@@ -188,7 +188,7 @@ about-debugging-runtime-service-workers-not-compatible = Configurația browserul
 # "Troubleshooting" link points to https://firefox-source-docs.mozilla.org/devtools-user/about_colon_debugging/
 # { $runtimeVersion } is the version of the remote browser (for instance "67.0a1")
 # { $minVersion } is the minimum version that is compatible with the current Firefox instance (same format)
-about-debugging-browser-version-too-old = Browserul conectat are o versiune veche ({ $runtimeVersion }). Versiunea minimă cu suport este ({ $minVersion }). Aceasta este o configurație fără suport și poate produce disfuncționalități DevTools. Te rugăm să actualizezi browserul conectat. <a>Depanare</a>
+about-debugging-browser-version-too-old = Browserul conectat are o versiune veche ({ $runtimeVersion }). Versiunea minimă cu suport este ({ $minVersion }). Aceasta este o configurație fără suport și poate produce disfuncționalități în instrumentele pentru dezvoltatori. Te rugăm să actualizezi browserul conectat. <a>Depanare</a>
 # Dedicated message for a backward compatibility issue that occurs when connecting:
 # from Fx 70+ to the old Firefox for Android (aka Fennec) which uses Fx 68.
 about-debugging-browser-version-too-old-fennec = Această versiune de Firefox nu poate depana Firefox pentru Android (68). Recomandăm instalarea pentru testare pe telefon a versiunii Nightly de Firefox pentru Android. <a>Mai multe detalii</a>
@@ -198,7 +198,7 @@ about-debugging-browser-version-too-old-fennec = Această versiune de Firefox nu
 # { $localID } is the build ID of the current Firefox instance (same format)
 # { $runtimeVersion } is the version of the remote browser (for instance "67.0a1")
 # { $localVersion } is the version of your current browser (same format)
-about-debugging-browser-version-too-recent = Browserul conectat este mai recent ({ $runtimeVersion }, buildID { $runtimeID }) decât versiunea ta de { -brand-shorter-name } ({ $localVersion }, buildID { $localID }). Acesta este o configurare fără suport și poate conduce la disfuncționalități DevTools. Te rugăm să actualizezi Firefox. <a>Depanare</a>
+about-debugging-browser-version-too-recent = Browserul conectat este mai recent ({ $runtimeVersion }, buildID { $runtimeID }) decât versiunea ta de { -brand-shorter-name } ({ $localVersion }, buildID { $localID }). Acesta este o configurare fără suport și poate conduce la disfuncționalități în instrumentele pentru dezvoltatori. Te rugăm să actualizezi Firefox. <a>Depanare</a>
 # Displayed for runtime info in runtime pages.
 # { $name } is brand name such as "Firefox Nightly"
 # { $version } is version such as "64.0a1"
