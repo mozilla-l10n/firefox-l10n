@@ -269,16 +269,18 @@ tab-context-move-tab-to-new-group =
     .label =
         { $tabCount ->
             [1] Adicionar separador ao novo grupo
-           *[other] Add Tabs to New Group
+           *[other] Adicionar separadores ao novo grupo
         }
     .accesskey = g
 tab-context-move-tab-to-group =
     .label =
         { $tabCount ->
             [1] Adicionar separador ao grupo
-           *[other] Add Tabs to Group
+           *[other] Adicionar separadores ao grupo
         }
     .accesskey = g
+tab-context-move-tab-to-group-saved-groups =
+    .label = Grupos fechados
 tab-group-editor-action-new-tab =
     .label = Novo separador no grupo
 tab-group-editor-action-new-window =

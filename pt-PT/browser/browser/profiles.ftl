@@ -44,6 +44,7 @@ avatar-selector-cancel-button =
 avatar-selector-save-button =
     .label = Guardar
 avatar-selector-upload-file = Enviar um ficheiro
+avatar-selector-drag-file = Ou arrastar um ficheiro para aqui
 edit-profile-page-no-name = Dê um nome a este perfil para ajudar a encontrá-lo mais tarde. Renomeie-o a qualquer momento.
 edit-profile-page-duplicate-name = O nome de perfil já está a ser utilizado. Tente um novo nome.
 edit-profile-page-profile-saved = Guardado
@@ -121,6 +122,8 @@ shopping-avatar-alt =
     .alt = Carrinho de compras
 star-avatar-alt =
     .alt = Estrela
+custom-avatar-alt =
+    .alt = Avatar personalizado
 
 ## Labels for default avatar icons
 
