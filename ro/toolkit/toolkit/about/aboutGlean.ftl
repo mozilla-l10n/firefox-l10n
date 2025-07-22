@@ -70,3 +70,18 @@ about-glean-label-for-ping-names =
     pingul <code>events</code>
     și valoarea implicită pentru toate celelalte metrici este
     pingul <code>metrics</code>.
+# An in-line check box precedes this string.
+about-glean-label-for-log-pings =
+    (Opțional. Bifează caseta precedentă dacă vrei ca pingurile să fie înregistrate și când sunt trimise.
+    În plus, va trebui să <a data-l10n-name="enable-logging-link">activezi înregistrarea în jurnal</a>.)
+# Variables
+#   $debug-tag (String): The user-set value of the debug tag input on this page. Like "about-glean-kV"
+# An in-line button labeled "Apply settings and submit ping" precedes this string.
+about-glean-label-for-controls-submit =
+    Apasă butonul precedent ca să etichetezi toate pingurile { -glean-brand-name } cu eticheta ta și să trimiți pingul selectat.
+    (Toate pingurile trimise de atunci și până ce repornești aplicația vor fi etichetate cu
+    <code>{ $debug-tag }</code>.)
+about-glean-li-for-visit-gdpv =
+    <a data-l10n-name="gdpv-tagged-pings-link">Intră pe pagina { glean-debug-ping-viewer-brand-name } pentru pinguri cu eticheta ta</a>.
+    Nu ar trebui să dureze mai mult de câteva secunde de la apăsarea butonului și până la sosirea pingului.
+    Uneori este posibil să dureze câteva minute bune.
