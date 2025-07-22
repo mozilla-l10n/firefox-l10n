@@ -213,7 +213,7 @@ mr2022-onboarding-existing-pin-checkbox-label = Adaugă și navigarea privată {
 ## MR2022 New User Set Default screen strings
 
 # This string is the title used when the user already has pinned the browser, but has not set default.
-mr2022-onboarding-set-default-title = Desemnează { -brand-short-name } drept browserul implicit
+mr2022-onboarding-set-default-title = Setează { -brand-short-name } ca browser implicit
 mr2022-onboarding-set-default-primary-button-label = Setează { -brand-short-name } ca browser implicit
 # When translating "zip", please feel free to pick a verb that signifies movement and/or exploration
 # and makes sense in the context of navigating the web.

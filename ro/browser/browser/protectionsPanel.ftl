@@ -29,6 +29,20 @@ protections-panel-site-not-working = Site-ul nu funcționează?
 protections-panel-site-not-working-view =
     .title = Site-ul nu funcționează?
 
+## Text for the toggles shown when ETP is enabled/disabled for a given site.
+## .description is transferred into a separate paragraph by the moz-toggle
+## custom element code.
+##   $host (String): the hostname of the site that is being displayed.
+
+protections-panel-etp-toggle-on =
+    .label = Protecție îmbunătățită împotriva urmăririi
+    .description = Activată pentru acest site
+    .aria-label = Protecție îmbunătățită împotriva urmăririi: Activată pentru { $host }
+protections-panel-etp-toggle-off =
+    .label = Protecție îmbunătățită împotriva urmăririi
+    .description = Oprită pentru acest site
+    .aria-label = Protecție îmbunătățită împotriva urmăririi: Oprită pentru { $host }
+
 ## The "Allowed" header also includes a "Why?" link that, when hovered, shows
 ## a tooltip explaining why these items were not blocked in the page.
 

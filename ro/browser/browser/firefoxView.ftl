@@ -250,7 +250,7 @@ firefoxview-import-history-close-button =
 ## Text displayed in a dismissable banner to import bookmarks/history from another browser
 
 firefoxview-import-history-header = Importă istoricul dintr-un alt browser
-firefoxview-import-history-description = Desemnează { -brand-short-name } drept browserul implicit. Importă istoricul de navigare, marcajele și altele.
+firefoxview-import-history-description = Setează { -brand-short-name } ca browser implicit. Importă istoricul de navigare, marcajele și altele.
 
 ## Message displayed in Firefox View when the user has no recently closed tabs data
 

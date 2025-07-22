@@ -61,6 +61,8 @@ lockwise-title = Nu mai pierzi niciodată o parolă
 passwords-title-logged-in = Gestionează-ți parolele
 passwords-header-content = { -brand-product-name } stochează în siguranță parolele în browser.
 lockwise-header-content-logged-in = Stochează-ți și sincronizează-ți parolele în siguranță pe toate dispozitivele.
+protection-report-passwords-save-passwords-button = Salvează parolele
+    .title = Salvează parolele
 protection-report-passwords-manage-passwords-button = Gestionează parolele
     .title = Gestionează parolele
 # Variables:
