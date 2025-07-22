@@ -12,8 +12,21 @@ sidebar-customize-firefox-tools-header =
 
 sidebar-menu-synced-tabs-label =
     .label = File de pe alte dispozitive
+sidebar-menu-bookmarks-label =
+    .label = Marcaje
 sidebar-menu-more-tools-label =
     .label = Mai multe instrumente
+
+## Tooltips for sidebar menu items.
+
+# The tooltip to show over the bookmarks icon, when bookmarks is not currently showing.
+# Variables:
+#   $shortcut (String) - The OS specific keyboard shortcut.
+sidebar-menu-open-bookmarks-tooltip = Deschide marcajele ({ $shortcut })
+# The tooltip to show over the bookmarks icon, when bookmarks is currently showing.
+# Variables:
+#   $shortcut (String) - The OS specific keyboard shortcut.
+sidebar-menu-close-bookmarks-tooltip = Închide marcajele ({ $shortcut })
 
 ## Headings for sidebar menu panels.
 

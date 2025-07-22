@@ -30,15 +30,13 @@ webext-perms-description-tabHide = Să ascundă și să afișeze filele browseru
 webext-perms-description-topSites = Să acceseze istoricul de navigare
 webext-perms-description-webNavigation = Să acceseze activitatea browserului în timpul navigării
 
-## The userScripts permission includes an additional explanation that is
-## displayed prominently near the usual permission description.
-
-
 ## Short form to be used in lists or in a string (`webext-perms-description-data-some`)
 ## that formats some of the data collection permissions below using `Intl.ListFormat`.
 ##
 ## This is used when the data collection permissions are required.
 
+webext-perms-description-data-short-bookmarksInfo = marcaje
 
 ## Long form to be used in `about:addons` when these data collection permissions are optional.
 
+webext-perms-description-data-long-bookmarksInfo = Partajează informații despre marcaje cu dezvoltatorul extensiei
