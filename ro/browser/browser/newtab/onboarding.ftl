@@ -313,16 +313,51 @@ onboarding-infrequent-import-title = Fă-te comod(ă)
 onboarding-infrequent-import-subtitle = Indiferent dacă te instalezi comod sau ești doar în trecere, nu uita că poți importa marcaje, parole și multe altele.
 onboarding-infrequent-import-primary-button = Importă în { -brand-short-name }
 
+## MR2022 Illustration alt tags
+## Descriptive tags for illustrations used by screen readers and other assistive tech
+
+mr2022-onboarding-pin-image-alt =
+    .aria-label = Persoană care lucrează la un laptop înconjurată de stele și flori
+mr2022-onboarding-default-image-alt =
+    .aria-label = Persoană îmbrățișând sigla { -brand-product-name }
+mr2022-onboarding-import-image-alt =
+    .aria-label = Persoană care merge pe un skateboard cu o cutie de pictograme software
+mr2022-onboarding-mobile-download-image-alt =
+    .aria-label = Broaște sărind peste frunze de nufăr, cu un cod QR pentru descărcarea { -brand-product-name } pentru mobil în centru
+mr2022-onboarding-pin-private-image-alt =
+    .aria-label = Bagheta magică face ca logo-ul de navigare privată { -brand-product-name } să apară dintr-o pălărie
+mr2022-onboarding-privacy-segmentation-image-alt =
+    .aria-label = Două mâini, cu piele deschisă la culoare și cu piele închisă la culoare, care dau palma
+mr2022-onboarding-gratitude-image-alt =
+    .aria-label = Vedere a unui apus de soare printr-o fereastră cu o vulpe și o plantă de casă pe pervaz
+mr2022-onboarding-colorways-image-alt =
+    .aria-label = O mână pictează cu spray un colaj colorat cu un ochi verde, un pantof portocaliu, o minge de baschet roșie, căști mov, o inimă albastră și o coroană galbenă.
+
 ## Device migration onboarding
 
+onboarding-device-migration-image-alt =
+    .aria-label = O vulpe pe ecranul unui laptop care face cu mâna. Laptopul are un mouse conectat.
+onboarding-device-migration-title = Bine ai revenit!
 onboarding-device-migration-subtitle = Intră în contul tău { -fxaccount-brand-name(capitalization: "sentence") } ca să îți aduci marcajele, parolele și istoricul pe dispozitivul nou.
 onboarding-device-migration-subtitle2 = Intră în contul tău ca să îți aduci marcajele, parolele și istoricul pe dispozitivul nou.
 onboarding-device-migration-primary-button-label = Autentificare
+
+## Add-ons Picker screen
+
+amo-picker-title = Personalizează { -brand-short-name }
+amo-picker-subtitle = Extensiile sunt ca niște aplicații pentru browser și îți permit să protejezi parolele, să descarci videoclipuri, să găsești oferte, să blochezi reclame enervante, să schimbi aspectul browserului și multe altele.
+amo-picker-install-button-label = Adaugă în { -brand-short-name }
+amo-picker-install-complete-label = Instalat
+amo-picker-collection-link = Explorează mai multe suplimente
 
 ## The following screens have been updated to use security and privacy focused strings:
 
 # Easy setup screen
 onboarding-easy-setup-security-and-privacy-title = Ne place să te protejăm
+onboarding-easy-setup-security-and-privacy-subtitle = Browserul nostru susținut de o organizație non-profit te ajută să împiedici firmele să te urmărească în secret pe web.
+# Mobile download screen
+onboarding-mobile-download-security-and-privacy-title = Păstrează-ți datele criptate când treci de pe un dispozitiv pe altul
+onboarding-mobile-download-security-and-privacy-subtitle = La sincronizare, { -brand-short-name } îți criptează parolele, marcajele și multe altele. În plus, poți accesa file de pe celelalte dispozitive.
 # Sign up or Sign in screen
 onboarding-sign-up-title = Sincronizează-ți datele pe dispozitive
 onboarding-sign-up-description = Fă-ți un cont și toate informațiile tale importante — parole, marcaje și multe altele — vor fi stocate în siguranță și vor fi disponibile când te autentifici de pe orice dispozitiv.
