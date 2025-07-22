@@ -116,9 +116,27 @@ cfr-doorhanger-doh-secondary-button = Dezactivează
 
 cfr-doorhanger-video-support-body = Este posibil ca videoclipurile de pe acest site să nu fie redate corect pe această versiune { -brand-short-name }. Pentru asistență completă pentru videoclipuri, actualizează { -brand-short-name } acum.
 cfr-doorhanger-video-support-header = Actualizează { -brand-short-name } pentru redarea videoclipului
+cfr-doorhanger-video-support-primary-button = Actualizează acum
+    .accesskey = U
+
+## VPN promotion dialog for public Wi-Fi users
+##
+## If a user is detected to be on a public Wi-Fi network, they are given a
+## bit of info about how to improve their privacy and then offered a button
+## to the Mozilla VPN page and a link to dismiss the dialog.
+
+# This header text can be explicitly wrapped.
+spotlight-public-wifi-vpn-header = Se pare că folosești o rețea Wi-Fi publică
+spotlight-public-wifi-vpn-body = Ca să îți ascunzi locația și activitatea de navigare, ia în considerare o rețea privată virtuală. Te va ajuta să te protejezi când navighezi în locuri publice, cum ar fi aeroporturi și cafenele.
+spotlight-public-wifi-vpn-primary-button = Păstrează-ți datele private cu { -mozilla-vpn-brand-name }
+    .accesskey = S
+spotlight-public-wifi-vpn-link = Nu acum
+    .accesskey = N
 
 ## Emotive Continuous Onboarding
 
+spotlight-better-internet-header = Un internet mai bun începe cu tine
+spotlight-better-internet-body = Când folosești { -brand-short-name }, votezi pentru un internet deschis și accesibil, mai bun pentru toată lumea.
 spotlight-pin-primary-button =
     { PLATFORM() ->
         [macos] Păstrează în Dock
