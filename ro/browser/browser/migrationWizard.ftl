@@ -255,7 +255,12 @@ migration-wizard-progress-success-extensions =
 # Variables:
 #   $matched (Number): the number of matched imported extensions
 #   $quantity (Number): the number of total extensions found during import
-migration-wizard-progress-partial-success-extensions = { $matched } din { $quantity } (de) extensii
+migration-wizard-progress-partial-success-extensions =
+    { $quantity ->
+        [one] { $matched } din { $quantity } extensie
+        [few] { $matched } din { $quantity } extensii
+       *[other] { $matched } din { $quantity } de extensii
+    }
 migration-wizard-progress-extensions-support-link = Află cum se potrivește { -brand-product-name } cu extensiile
 # Shown in the migration wizard if there are no matched extensions
 # on import from supported browsers.
