@@ -154,7 +154,7 @@ webrtc-allow-share-screen = Permiți lui { $origin } să îți vadă ecranul?
 webrtc-allow-share-speaker = Permiți { $origin } să folosească alte boxe?
 webrtc-allow-share-camera-and-microphone = Permiți lui { $origin } să îți folosească microfonul și camera?
 webrtc-allow-share-camera-and-audio-capture = Permiți { $origin } să folosească camera și să asculte conținutul audio de pe această filă?
-webrtc-allow-share-screen-and-microphone = Permiți { $origin } să folosească microfonul și să-ți vadă ecranul?
+webrtc-allow-share-screen-and-microphone = Permiți { $origin } să folosească microfonul și să îți vadă ecranul?
 webrtc-allow-share-screen-and-audio-capture = Permiți { $origin } să asculte conținutul audio de pe această filă și să îți vadă ecranul?
 
 ## Variables:
