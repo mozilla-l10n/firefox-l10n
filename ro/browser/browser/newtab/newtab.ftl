@@ -8,11 +8,21 @@
 newtab-page-title = Filă nouă
 newtab-settings-button =
     .title = Personalizează pagina pentru filă nouă
+newtab-customize-panel-icon-button =
+    .title = Personalizează această pagină
+newtab-customize-panel-icon-button-label = Personalizează
+newtab-personalize-settings-icon-label =
+    .title = Personalizează pagina de filă nouă
+    .aria-label = Setări
+newtab-settings-dialog-label =
+    .aria-label = Setări
 newtab-personalize-icon-label =
     .title = Personalizează pagina pentru filă nouă
     .aria-label = Personalizează pagina pentru filă nouă
 newtab-personalize-dialog-label =
     .aria-label = Personalizează
+newtab-logo-and-wordmark =
+    .aria-label = { -brand-full-name }
 
 ## Search box component.
 
@@ -34,6 +44,7 @@ newtab-search-box-handoff-input-no-engine =
     .placeholder = Caută sau introdu adresa
     .title = Caută sau introdu adresa
     .aria-label = Caută sau introdu adresa
+newtab-search-box-text = Caută pe web
 newtab-search-box-input =
     .placeholder = Caută pe web
     .aria-label = Caută pe web
@@ -44,6 +55,7 @@ newtab-topsites-add-search-engine-header = Adaugă motor de căutare
 newtab-topsites-add-shortcut-header = Comandă rapidă nouă
 newtab-topsites-edit-topsites-header = Editează site-ul de top
 newtab-topsites-edit-shortcut-header = Editează comanda rapidă
+newtab-topsites-add-shortcut-label = Adaugă comanda rapidă
 newtab-topsites-title-label = Titlu
 newtab-topsites-title-input =
     .placeholder = Introdu un titlu
@@ -68,6 +80,10 @@ newtab-topsites-add-button = Adaugă
 newtab-confirm-delete-history-p1 = Sigur vrei să ștergi fiecare instanță a acestei pagini din istoric?
 # "This action" refers to deleting a page from history.
 newtab-confirm-delete-history-p2 = Această acțiune este ireversibilă.
+
+## Top Sites - Sponsored label
+
+newtab-topsite-sponsored = Sponsorizat
 
 ## Context Menu - Action Tooltips.
 
@@ -95,7 +111,7 @@ newtab-menu-topsites-placeholder-tooltip =
 newtab-menu-edit-topsites = Editează
 newtab-menu-open-new-window = Deschide într-o fereastră nouă
 newtab-menu-open-new-private-window = Deschide într-o fereastră privată nouă
-newtab-menu-dismiss = Înlătură
+newtab-menu-dismiss = Respinge
 newtab-menu-pin = Fixează
 newtab-menu-unpin = Anulează fixarea
 newtab-menu-delete-history = Șterge din istoric
@@ -103,6 +119,21 @@ newtab-menu-save-to-pocket = Salvează în { -pocket-brand-name }
 newtab-menu-delete-pocket = Șterge din { -pocket-brand-name }
 newtab-menu-archive-pocket = Arhivează în { -pocket-brand-name }
 newtab-menu-show-privacy-info = Sponsorii noștri și confidențialitatea ta
+newtab-menu-about-fakespot = Despre { -fakespot-brand-name }
+# Report is a verb (i.e. report issue with the content).
+newtab-menu-report = Raportează
+# Context menu option to personalize New Tab recommended stories by blocking a section of stories,
+# e.g. "Sports". "Block" is a verb here.
+newtab-menu-section-block = Blochează
+# "Follow", "unfollow", and "following" are social media terms that refer to subscribing to or unsubscribing from a section of stories.
+# e.g. Following the travel section of stories.
+newtab-menu-section-unfollow = Anulează urmărirea subiectului
+
+## Context menu options for sponsored stories and new ad formats on New Tab.
+
+newtab-menu-manage-sponsored-content = Gestionează conținutul sponsorizat
+newtab-menu-our-sponsors-and-your-privacy = Sponsorii noștri și confidențialitatea ta
+newtab-menu-report-this-ad = Raportează acest anunț
 
 ## Message displayed in a modal window to explain privacy and provide context for sponsored content.
 
@@ -160,6 +191,8 @@ newtab-label-sponsored-by = Sponsorizat de { $sponsor }
 #   $source (string) - The name of a company or their domain
 #   $timeToRead (number) - The estimated number of minutes to read this story
 newtab-label-source-read-time = { $source } · { $timeToRead } min
+# This string is used under fixed size ads to indicate sponsored content
+newtab-label-sponsored-fixed = Sponsorizat
 
 ## Section Menu: These strings are displayed in the section context menu and are
 ## meant as a call to action for the given section.
@@ -189,6 +222,9 @@ newtab-section-header-recent-activity = Activitate recentă
 # Variables:
 #   $provider (string) - Name of the corresponding content provider.
 newtab-section-header-pocket = Recomandat de { $provider }
+newtab-section-header-stories = Povești care îndeamnă la reflecție
+# "picks" refers to recommended articles
+newtab-section-header-todays-picks = Alegerile de astăzi pentru tine
 
 ## Empty Section States: These show when there are no more items in a section. Ex. When there are no more Pocket story recommendations, in the space where there would have been stories, this is shown instead.
 
@@ -197,6 +233,8 @@ newtab-empty-section-highlights = Începe să navighezi și noi îți vom arăta
 # Variables:
 #   $provider (string) - Name of the content provider for this section, e.g "Pocket".
 newtab-empty-section-topstories = Ai ajuns la capăt. Revino mai târziu pentru alte articole de la { $provider }. Nu mai vrei să aștepți? Selectează un subiect popular și găsește alte articole interesante de pe web.
+# Ex. When there are no more story recommendations, in the space where there would have been stories, this is shown instead.
+newtab-empty-section-topstories-generic = Ai terminat. Revino mai târziu pentru alte articole. Nu mai poți aștepta? Selectează un subiect popular și găsește alte articole interesante de pe web.
 
 ## Empty Section (Content Discovery Experience). These show when there are no more stories or when some stories fail to load.
 
@@ -211,10 +249,34 @@ newtab-discovery-empty-section-topstories-timed-out = Ups! Aproape că am încă
 
 # This is shown at the bottom of the trending stories section and precedes a list of links to popular topics.
 newtab-pocket-read-more = Subiecte populare:
+newtab-pocket-new-topics-title = Vrei și mai multe articole? Vezi aceste subiecte populare de la { -pocket-brand-name }
 newtab-pocket-more-recommendations = Mai multe recomandări
 newtab-pocket-learn-more = Află mai multe
 newtab-pocket-cta-button = Obține { -pocket-brand-name }
 newtab-pocket-cta-text = Salvează în { -pocket-brand-name } articolele care ți-au plăcut și hrănește-ți mintea cu lecturi fascinante.
+newtab-pocket-pocket-firefox-family = { -pocket-brand-name } face parte din familia { -brand-product-name }
+newtab-pocket-save = Salvează
+newtab-pocket-saved = Salvat
+
+## Thumbs up and down buttons that shows over a newtab stories card thumbnail on hover.
+
+# Clicking the thumbs up button for this story will result in more stories like this one being recommended
+newtab-pocket-thumbs-up-tooltip =
+    .title = Mai multe de genul acesta
+# Clicking the thumbs down button for this story informs us that the user does not feel like the story is interesting for them
+newtab-pocket-thumbs-down-tooltip =
+    .title = Nu-i pentru mine
+# Used to show the user a message upon clicking the thumbs up or down buttons
+newtab-toast-thumbs-up-or-down2 =
+    .message = Mulțumesc. Feedback-ul tău ne va ajuta să-ți îmbunătățim feedul.
+newtab-toast-dismiss-button =
+    .title = Respinge
+    .aria-label = Respinge
+
+## Pocket content onboarding experience dialog and modal for new users seeing the Pocket section for the first time, shown as the first item in the Pocket section.
+
+newtab-pocket-onboarding-discover = Descoperă ce e mai bun de pe web
+newtab-pocket-onboarding-cta = { -pocket-brand-name } explorează o gamă diversă de publicații pentru a oferi cel mai informativ, care inspiră și de încredere conținut direct în browserul { -brand-product-name }.
 
 ## Error Fallback Content.
 ## This message and suggested action link are shown in each section of UI that fails to render.
@@ -238,10 +300,70 @@ newtab-custom-row-selector =
        *[other] { $num } de rânduri
     }
 newtab-custom-sponsored-sites = Comenzi rapide sponsorizate
+newtab-custom-pocket-subtitle = Conținut excepțional, creat de { -pocket-brand-name }, parte a familiei { -brand-product-name }
+newtab-custom-stories-toggle =
+    .label = Articole recomandate
+    .description = Conținut excepțional îngrijit de familia { -brand-product-name }
+newtab-custom-pocket-sponsored = Articole sponsorizate
+newtab-custom-pocket-show-recent-saves = Afișează salvările recente
 newtab-custom-recent-title = Activitate recentă
 newtab-custom-recent-subtitle = O selecție de site-uri și conținut recente
 newtab-custom-recent-toggle =
     .label = Activitate recentă
     .description = O selecție de site-uri și conținut recente
+newtab-custom-weather-toggle =
+    .label = Meteo
+    .description = Vremea de astăzi dintr-o privire
+newtab-custom-trending-search-toggle =
+    .label = Căutări în tendințe
+    .description = Subiecte populare și căutate frecvent
 newtab-custom-close-button = Închide
 newtab-custom-settings = Gestionează mai multe setări
+
+## New Tab Wallpapers
+
+newtab-wallpaper-title = Imagini de fundal
+newtab-wallpaper-reset = Resetează la valorile implicite
+newtab-wallpaper-upload-image = Încarcă o imagine
+newtab-wallpaper-custom-color = Alege o culoare
+# Variables
+#   $file_size (number) - The number of the maximum image file size (in MB) that may be uploaded
+newtab-wallpaper-error-max-file-size = Imaginea a depășit limita de dimensiune a fișierului de { $file_size } MB. Te rugăm să încerci să încarci un fișier mai mic.
+newtab-wallpaper-error-file-type = Nu am putut încărca fișierul. Te rugăm să încerci din nou cu un alt tip de fișier.
+newtab-wallpaper-light-red-panda = Panda roșu
+newtab-wallpaper-light-mountain = Multe alb
+newtab-wallpaper-light-sky = Cer cu nori violeți și roz
+newtab-wallpaper-light-color = Forme albastre, roz și galbene
+newtab-wallpaper-light-landscape = Peisaj montan cu ceață albastră
+newtab-wallpaper-light-beach = Plajă cu palmier
+newtab-wallpaper-dark-aurora = Aurora Boreală
+newtab-wallpaper-dark-color = Forme roșii și albastre
+
+## Abstract
+
+newtab-wallpaper-abstract-black-waves = Forme ondulate negre
+
+## Celestial
+
+newtab-wallpaper-hot-air-balloons = Baloane cu aer cald în culori asortate, pe timp de zi
+newtab-wallpaper-feature-highlight-header = Încearcă o pată de culoare
+newtab-wallpaper-feature-highlight-content = Dă-i filei noi un aspect proaspăt cu imagini de fundal.
+newtab-wallpaper-feature-highlight-button = Am înțeles
+# Tooltip for dismiss button
+feature-highlight-dismiss-button =
+    .title = Respinge
+    .aria-label = Închide pop-up-ul
+feature-highlight-wallpaper =
+    .title = { -newtab-wallpaper-feature-highlight-header }
+    .aria-label = { -newtab-wallpaper-feature-highlight-content }
+
+## New Tab Weather
+
+# Variables:
+#   $provider (string) - Service provider for weather data
+newtab-weather-see-forecast =
+    .title = Vedeți prognoza meteo în { $provider }
+# Variables:
+#   $provider (string) - Service provider for weather data
+newtab-weather-sponsored = { $provider } ∙ Sponsorizat
+newtab-weather-menu-change-location = Schimbă locația
