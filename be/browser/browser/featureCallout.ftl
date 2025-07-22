@@ -106,6 +106,9 @@ perplexity-callout-secondary-label-2 = Зразумела
 
 ## Account Adoption Passwords callout strings
 
+# Suggestion to backup passwords by signing up for Mozilla account and using sync
+fxa-adoption-passwords-title = Пароль захаваны. Давайце зробім яго рэзервовую копію.
+fxa-adoption-passwords-subtitle = Абараніце свае паролі, сінхранізуючы іх паміж прыладамі з дапамогай шыфравання.
 # Opens Mozilla accounts sign-up page
 fxa-adoption-passwords-primary-button-label = Зарэгістравацца
 
@@ -133,8 +136,10 @@ sidebar-pins-callout-cta-button = Замацаваць картку
 ## Pinning Tabs Strings
 
 pin-tabs-callout-1-title = Трымайце важныя карткі пад рукой
+pin-tabs-callout-1-subtitle = Перацягніце картку ў пачатак паліцы картак, каб замацаваць яе. Або націсніце правай кнопкай мышы і абярыце «Замацаваць картку».
 pin-tabs-callout-cta-1-button = Замацаваць гэту картку
 pin-tabs-callout-2-title = Замацоўвайце карткі, якія вы наведваеце найчасцей
+pin-tabs-callout-2-subtitle = Каб замацаваць любую картку, перацягніце яе ў пачатак паліцы картак. Або націсніце правай кнопкай мышы і абярыце «Замацаваць картку».
 pin-tabs-callout-cta-2-button = Замацаваць гэту картку
 pin-tabs-callout-3-title = Трымайце важныя сайты пад рукой
 pin-tabs-callout-4-title = Замацоўвайце сайты, якія вы наведваеце найчасцей
