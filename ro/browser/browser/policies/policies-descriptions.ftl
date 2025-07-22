@@ -11,9 +11,13 @@
 ## in the documentation section in about:policies.
 
 policy-3rdparty = Setează politicile pe care WebExtensions le pot accesa prin chrome.storage.managed.
+policy-AllowedDomainsForApps = Definește domeniile cu permisiune de acces la Google Workspace.
+policy-AllowFileSelectionDialogs = Permite ferestre de dialog pentru selectarea filelor.
 policy-AppAutoUpdate = Activează sau dezactivează actualizarea automată a aplicației.
+policy-AppUpdatePin = Împiedică actualizarea { -brand-short-name } peste versiunea specificată.
 policy-AppUpdateURL = Setează un URL personalizat de actualizare a aplicației.
 policy-Authentication = Configurează autentificarea integrată pentru site-urile web care o acceptă.
+policy-AutofillAddressEnabled = Activează completarea automată pentru adrese.
 policy-AutofillCreditCardEnabled = Activează completarea automată pentru metodele de plată.
 policy-BlockAboutAddons = Blochează accesul la managerul de suplimente (about:addons).
 policy-BlockAboutConfig = Blochează accesul la pagina about:config.

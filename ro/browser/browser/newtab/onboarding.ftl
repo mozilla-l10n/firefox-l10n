@@ -358,17 +358,54 @@ onboarding-easy-setup-security-and-privacy-subtitle = Browserul nostru susținut
 # Mobile download screen
 onboarding-mobile-download-security-and-privacy-title = Păstrează-ți datele criptate când treci de pe un dispozitiv pe altul
 onboarding-mobile-download-security-and-privacy-subtitle = La sincronizare, { -brand-short-name } îți criptează parolele, marcajele și multe altele. În plus, poți accesa file de pe celelalte dispozitive.
+# Gratitude screen
+onboarding-gratitude-security-and-privacy-title = { -brand-short-name } te susține
+onboarding-gratitude-security-and-privacy-subtitle = Îți mulțumim că folosești { -brand-short-name }, susținut de Mozilla Foundation. Cu sprijinul tău, ne străduim să facem internetul mai sigur și mai accesibil pentru toți.
 # Sign up or Sign in screen
 onboarding-sign-up-title = Sincronizează-ți datele pe dispozitive
 onboarding-sign-up-description = Fă-ți un cont și toate informațiile tale importante — parole, marcaje și multe altele — vor fi stocate în siguranță și vor fi disponibile când te autentifici de pe orice dispozitiv.
 onboarding-sign-up-button = Fă-ți un cont sau intră în cont
+onboarding-sign-up-secondary-button = Începe să navighezi
 
 ## New user time and familiarity survey strings
 
+onboarding-new-user-time-based-survey-title = De cât timp folosești { -brand-short-name }?
+onboarding-new-user-familiarity-based-survey-title = Cât de familiarizat(ă) ești cu { -brand-short-name }?
 onboarding-new-user-survey-subtitle = Feedbackul tău ne ajută să facem { -brand-short-name } și mai bun.
+# When translating "next" it means the next screen in onboarding.
+onboarding-new-user-survey-next-button-label = Înainte
+onboarding-new-user-survey-legal-link-label = Selectând „{ onboarding-new-user-survey-next-button-label }”, ești de acord cu <a data-l10n-name="privacy_notice">Notificarea privind confidențialitatea</a> { -brand-product-name }.
+# When translating "brand new" it means completely new.
+onboarding-new-user-survey-time-based-option-1 = De-abia am început
+onboarding-new-user-survey-time-based-option-2 = Mai puțin de 1 lună
+onboarding-new-user-survey-time-based-option-3 = Mai mult de 1 lună, în mod regulat
+onboarding-new-user-survey-time-based-option-4 = Mai mult de 1 lună, ocazional
+# When translating "brand new" it means completely new.
+onboarding-new-user-survey-familiarity-based-option-1 = De-abia am început
+onboarding-new-user-survey-familiarity-based-option-2 = L-am folosit un pic
+onboarding-new-user-survey-familiarity-based-option-3 = Sunt foarte familiarizat(ă)
+onboarding-new-user-survey-familiarity-based-option-4 = L-am folosit în trecut, dar a trecut ceva timp
 
 ## UI strings for the sidebar and vertical tabs
 
+# Setup screen for vertical tabs
+onboarding-new-tabs-title = Spune-ne unde vrei să ții filele
+# Setup screen for vertical tabs - "Switch it up" refers to switching between horizontal and vertical tabs.
+onboarding-new-tabs-subtitle = Modifici când vrei din setările barei laterale.
+# Setup screen for vertical tabs - too many tabs variation
+onboarding-many-tabs-title = Filele tale, în stilul tău
+# Setup screen for vertical tabs - subtitle for too many tabs variation
+onboarding-many-tabs-subtitle = Ții multe file deschise? Încearcă filele puse în lateral pentru o vizualizare mai simplificată. Sau păstrează aspectul clasic, cu file în partea de sus. Schimbă oricând.
+# Setup screen for vertical tabs - focused variation
+onboarding-focused-tabs-title = Alege dispunerea filelor
+# Setup screen for vertical tabs - subtitle for focused variation
+onboarding-focused-tabs-subtitle = Pentru o vizualizare simplificată, care te poate ajuta să te concentrezi, încearcă filele puse în lateral. Sau păstrează aspectul clasic, cu filele în partea de sus. Schimbă oricând.
+# Text underneath an image used for selecting browser tabs to appear on the side of the browser.
+onboarding-new-vertical-tabs-label = File în lateral
+# Text underneath an image used for selecting browser tabs to appear at the top of the browser.
+onboarding-new-horizontal-tabs-label = File sus
+# Setup screen for vertical tabs for existing users
+onboarding-existing-tabs-title = Sunt disponibile filele pe verticală
 # Setup screen for vertical tabs for existing users
 onboarding-existing-tabs-title2 = Îți prezentăm filele verticale
 # Setup screen for vertical tabs for existing users - "Switch it up" refers to switching between horizontal and vertical tabs.
