@@ -241,6 +241,7 @@ browser-layout-vertical-tabs =
 browser-layout-vertical-tabs-desc = Afișare laterală, în bara laterală
 browser-layout-show-sidebar =
     .label = Afișează bara laterală
+browser-layout-show-sidebar-desc = Accesează rapid marcaje, file de pe telefon, chatbot-uri IA și multe altele fără a ieși vizualizarea principală.
 
 ## General Section - Language & Appearance
 
@@ -256,10 +257,16 @@ preferences-web-appearance-choice-tooltip-light =
     .title = Folosește un aspect deschis pentru fundalurile și conținutul site-urilor web.
 preferences-web-appearance-choice-tooltip-dark =
     .title = Folosește un aspect întunecat pentru fundalurile și conținutul site-urilor web.
+preferences-web-appearance-choice-input-auto =
+    .aria-description = { preferences-web-appearance-choice-tooltip-auto.title }
 preferences-web-appearance-choice-input-light =
     .aria-description = { preferences-web-appearance-choice-tooltip-light.title }
 preferences-web-appearance-choice-input-dark =
     .aria-description = { preferences-web-appearance-choice-tooltip-dark.title }
+# This can appear when using windows HCM or "Override colors: always" without
+# system colors.
+preferences-web-appearance-override-warning3 =
+    .message = Setările de reglare a contrastului au prioritate față de aspectul site-ului web.
 # This can appear when using windows HCM or "Override colors: always" without
 # system colors.
 preferences-web-appearance-override-warning = Alegerile tale de culoare suprascriu aspectul site-urilor web. <a data-l10n-name="colors-link">Gestionează culorile</a>
