@@ -2,6 +2,14 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+# Variables:
+#  $retriesLeft (Number): number of tries left
+webauthn-pin-invalid-long-prompt =
+    { $retriesLeft ->
+        [one] PIN incorect. Mai ai { $retriesLeft } încercare înainte de a pierde definitiv accesul la datele de autentificare de pe acest dispozitiv.
+        [few] PIN incorect. Mai ai { $retriesLeft } încercări înainte de a pierde definitiv accesul la datele de autentificare de pe acest dispozitiv.
+       *[other] PIN incorect. Mai ai { $retriesLeft } de încercări înainte de a pierde definitiv accesul la datele de autentificare de pe acest dispozitiv.
+    }
 webauthn-pin-invalid-short-prompt = PIN incorect. Încearcă din nou.
 webauthn-pin-required-prompt = Te rugăm să introduci codul PIN pentru dispozitivul tău.
 webauthn-select-sign-result-unknown-account = Cont necunoscut
