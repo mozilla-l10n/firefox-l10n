@@ -137,6 +137,7 @@ spotlight-public-wifi-vpn-link = Nu acum
 
 spotlight-better-internet-header = Un internet mai bun începe cu tine
 spotlight-better-internet-body = Când folosești { -brand-short-name }, votezi pentru un internet deschis și accesibil, mai bun pentru toată lumea.
+spotlight-peace-mind-header = Ne ocupăm noi
 spotlight-peace-mind-body = În fiecare lună, { -brand-short-name } blochează în medie peste 3.000 de elemente de urmărire per utilizator. Pentru că nimic, în special problemele legate de confidențialitate, precum elementele de urmărire, nu ar trebui să stea între tine și internetul bun.
 spotlight-pin-primary-button =
     { PLATFORM() ->
@@ -194,13 +195,43 @@ colorways-cfr-primarybutton = Alege paleta de culori
     .accesskey = C
 # "shades" refers to the different color options available to users in colorways.
 colorways-cfr-body = Colorează-ți browserul cu nuanțe exclusive { -brand-short-name } inspirate de vocile care au schimbat cultura.
+colorways-cfr-header-28days = Combinațiile de culori Independent Voices expiră pe 16 ianuarie
+colorways-cfr-header-14days = Paletele de culori Independent Voices expiră în două săptămâni
+colorways-cfr-header-7days = Paletele de culori Independent Voices expiră săptămâna aceasta
+colorways-cfr-header-today = Paletele de culori Independent Voices expiră azi
+
+## Cookie Banner Handling CFR
+
+cfr-cbh-header = Permiți { -brand-short-name } să respingă bannerele de cookie-uri?
+cfr-cbh-body = { -brand-short-name } poate respinge automat multe cereri de la bannere de cookie-uri.
+cfr-cbh-confirm-button = Respinge bannerele de cookie-uri
+    .accesskey = R
+cfr-cbh-dismiss-button = Nu acum
+    .accesskey = N
+cookie-banner-blocker-onboarding-header = { -brand-short-name } tocmai a refuzat un banner de cookie-uri pentru tine
+cookie-banner-blocker-onboarding-body = Mai puține distrageri ale atenției, mai puține cookie-uri care te urmăresc pe acest site.
+cookie-banner-blocker-onboarding-learn-more = Află mai multe
+
+## These strings are used in the Fox doodle Pin/set default spotlights
+
+july-jam-headline = Ne ocupăm noi
+july-jam-body = În fiecare lună, { -brand-short-name } blochează în medie peste 3.000 de elemente de urmărire per utilizator, oferindu-ți un acces sigur și rapid la internet de calitate.
+july-jam-set-default-primary = Deschide linkurile cu { -brand-short-name }
+fox-doodle-pin-headline = Bine ai revenit
+# “indie” is short for the term “independent”.
+# In this instance, free from outside influence or control.
+fox-doodle-pin-body = Iată o scurtă reamintire că poți păstra browserul tău independent preferat la doar un clic distanță.
+fox-doodle-pin-primary = Deschide linkurile cu { -brand-short-name }
+fox-doodle-pin-secondary = Nu acum
 
 ## These strings are used in the Set Firefox as Default PDF Handler for Existing Users experiment
 
 set-default-pdf-handler-headline = <strong>PDF-urile se deschid acum în { -brand-short-name }.</strong> Editează sau semnează formulare direct în browser. Pentru modificare, caută „PDF” în setări.
+set-default-pdf-handler-primary = Am înțeles
 
 ## FxA sync CFR
 
+fxa-sync-cfr-header = Un dispozitiv nou în viitor?
 fxa-sync-cfr-body = Asigură-te că ai la îndemână cele mai recente marcaje, parole și file de fiecare dată când deschizi un browser { -brand-product-name } nou.
 fxa-sync-cfr-primary = Află mai multe
     .accesskey = L
@@ -293,4 +324,25 @@ fxa-menu-message-backup-sync-primary-text = Păstrează-ți datele în siguranț
 fxa-menu-message-backup-sync-secondary-text = Sincronizarea îți salvează majoritatea datelor ca să le poți accesa oriunde folosești { -brand-short-name }.
 fxa-menu-message-backup-sync-collapsed-text = Sincronizează și fă o copie de rezervă a datelor
 fxa-menu-message-mobile-primary-text = Trimite file pe telefon
+fxa-menu-message-mobile-secondary-text = Reia instant de unde ai rămas când sincronizezi filele cu un dispozitiv mobil.
 fxa-menu-message-mobile-collapsed-text = Sincronizează cu telefonul
+
+## Multi-CTA Fox Doodle Spotlight
+
+multi-cta-fox-doodle-title = Bine ai revenit
+multi-cta-fox-doodle-set-default-checkbox = Setează { -brand-short-name } ca implicit
+multi-cta-fox-doodle-pin-startmenu-checkbox = Fixează { -brand-short-name } în meniul de start
+multi-cta-fox-doodle-pin-checkbox =
+    { PLATFORM() ->
+        [macos] Păstrează { -brand-short-name } în Dock
+       *[other] Fixează { -brand-short-name } în bara de sarcini
+    }
+multi-cta-fox-doodle-start-browsing-primary-button-label = Începe să navighezi
+multi-cta-fox-doodle-main-browser-primary-button-label = Setează { -brand-short-name } ca browser principal
+multi-cta-fox-doodle-quick-reminder-subtitle = Iată o scurtă reamintire că poți păstra browserul tău preferat care îți respectă viața privată la doar un clic distanță.
+multi-cta-fox-doodle-privacy-focused-subtitle =
+    { PLATFORM() ->
+        [macos] Păstrează-ți browserul preferat care îți respectă intimitatea la doar un clic distanță. Setează { -brand-short-name } ca browser implicit pentru deschiderea linkurilor și păstrează-l în Dock.
+       *[other] Păstrează-ți browserul preferat care îți respectă intimitatea la doar un clic distanță. Setează { -brand-short-name } ca browser implicit pentru deschiderea linkurilor și fixează-l în bara de sarcini.
+    }
+multi-cta-fox-doodle-msix-privacy-focused-subtitle = Păstrează-ți browserul preferat care îți respectă intimitatea la doar un clic distanță. Setează { -brand-short-name } ca browser implicit pentru deschiderea linkurilor și fixează-l în bara de sarcini și meniul de start.
