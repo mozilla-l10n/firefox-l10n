@@ -7,7 +7,7 @@ xpinstall-prompt = { -brand-short-name } a împiedicat acest site să îți cear
 ## Variables:
 ##   $host (String): The hostname of the site the add-on is being installed from.
 
-xpinstall-prompt-header = Permiți lui { $host } să instaleze un supliment?
+xpinstall-prompt-header = Permiți { $host } să instaleze un supliment?
 xpinstall-prompt-message = Încerci să instalezi un supliment de la { $host }. Asigură-te că ai încredere în acest site înainte de a continua.
 
 ##

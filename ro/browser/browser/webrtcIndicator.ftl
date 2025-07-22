@@ -147,20 +147,35 @@ webrtc-indicator-menuitem-sharing-browser-with-n-tabs =
 
 webrtc-allow-share-audio-capture = Permiți { $origin } să asculte conținutul audio de pe această filă?
 webrtc-allow-share-camera = Permiți { $origin } să îți folosească camera?
-webrtc-allow-share-microphone = Permiți lui { $origin } să îți folosească microfonul?
-webrtc-allow-share-screen = Permiți lui { $origin } să îți vadă ecranul?
+webrtc-allow-share-microphone = Permiți { $origin } să îți folosească microfonul?
+webrtc-allow-share-screen = Permiți { $origin } să îți vadă ecranul?
 # "Speakers" is used in a general sense that might include headphones or
 # another audio output connection.
 webrtc-allow-share-speaker = Permiți { $origin } să folosească alte boxe?
-webrtc-allow-share-camera-and-microphone = Permiți lui { $origin } să îți folosească microfonul și camera?
+webrtc-allow-share-camera-and-microphone = Permiți { $origin } să îți folosească microfonul și camera?
 webrtc-allow-share-camera-and-audio-capture = Permiți { $origin } să folosească camera și să asculte conținutul audio de pe această filă?
 webrtc-allow-share-screen-and-microphone = Permiți { $origin } să folosească microfonul și să îți vadă ecranul?
 webrtc-allow-share-screen-and-audio-capture = Permiți { $origin } să asculte conținutul audio de pe această filă și să îți vadă ecranul?
+
+## Special phrasing for sharing devices when the origin is a file url.
+
+webrtc-allow-share-audio-capture-with-file = Permiți acestui fișier local să asculte conținutul audio de pe această filă?
+webrtc-allow-share-camera-with-file = Permiți acestui fișier local să îți utilizeze camera?
+webrtc-allow-share-microphone-with-file = Permiți acestui fișier local să îți folosească microfonul?
+webrtc-allow-share-screen-with-file = Permiți acestui fișier local să îți vadă ecranul?
+# "Speakers" is used in a general sense that might include headphones or
+# another audio output connection.
+webrtc-allow-share-speaker-with-file = Permiți acestui fișier local să folosească alte boxe?
+webrtc-allow-share-camera-and-microphone-with-file = Permiți acestui fișier local să îți folosească camera și microfonul?
+webrtc-allow-share-camera-and-audio-capture-with-file = Permiți acestui fișier local să folosească camera și să asculte conținutul audio de pe această filă?
+webrtc-allow-share-screen-and-microphone-with-file = Permiți acestui fișier local să folosească microfonul și să îți vadă ecranul?
+webrtc-allow-share-screen-and-audio-capture-with-file = Permiți acestui fișier local să asculte conținutul audio de pe această filă și să îți vadă ecranul?
 
 ## Variables:
 ##   $origin (String): the first party origin.
 ##   $thirdParty (String): the third party origin.
 
+webrtc-allow-share-audio-capture-unsafe-delegation = Permiți { $origin } să dea { $thirdParty } permisiunea de a asculta conținutul audio de pe această filă?
 webrtc-allow-share-camera-unsafe-delegation = Permiți { $origin } să dea { $thirdParty } acces la cameră?
 webrtc-allow-share-microphone-unsafe-delegation = Permiți { $origin } să dea { $thirdParty } acces la la microfon?
 webrtc-allow-share-screen-unsafe-delegation = Permiți { $origin } să dea { $thirdParty } permisiunea de a-ți vedea ecranul?
