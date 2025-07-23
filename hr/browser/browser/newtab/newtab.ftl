@@ -56,6 +56,9 @@ newtab-topsites-add-shortcut-header = Novi prečac
 newtab-topsites-edit-topsites-header = Uredi najbolju stranicu
 newtab-topsites-edit-shortcut-header = Uredi prečac
 newtab-topsites-add-shortcut-label = Dodaj prečac
+newtab-topsites-add-shortcut-title =
+    .title = Dodaj prečac
+    .aria-label = Dodaj prečac
 newtab-topsites-title-label = Naslov
 newtab-topsites-title-input =
     .placeholder = Upiši naslov
@@ -539,6 +542,9 @@ newtab-custom-wallpaper-title = Isprobaj prilagođene slike pozadine
 # 'Make firefox yours" means to customize or personalize
 newtab-custom-wallpaper-subtitle = Prenesi vlastitu sliku pozadine ili odaberi prilagođenu boju za tvoj { -brand-product-name }.
 newtab-custom-wallpaper-cta = Isprobaj
+
+## Strings for new user activation custom wallpaper highlight
+
 
 ## Strings for download mobile highlight
 
