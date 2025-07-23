@@ -53,6 +53,9 @@ newtab-topsites-add-shortcut-header = Jauna saīsne
 newtab-topsites-edit-topsites-header = Rediģēt populārās vietnes
 newtab-topsites-edit-shortcut-header = Rediģēt saīsni
 newtab-topsites-add-shortcut-label = Pievienot saīsni
+newtab-topsites-add-shortcut-title =
+    .title = Pievienot saīsni
+    .aria-label = Pievienot saīsni
 newtab-topsites-title-label = Virsraksts
 newtab-topsites-title-input =
     .placeholder = Ievadīt nosaukumu
@@ -476,6 +479,9 @@ newtab-section-unfollow-button = Pārtraukt sekošanu
 newtab-section-cancel-button = Ne tagad
 
 ## Strings for custom wallpaper highlight
+
+
+## Strings for new user activation custom wallpaper highlight
 
 
 ## Strings for download mobile highlight
