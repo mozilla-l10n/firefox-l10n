@@ -44,6 +44,7 @@ avatar-selector-cancel-button =
 avatar-selector-save-button =
     .label = Захаваць
 avatar-selector-upload-file = Зацягнуць файл
+avatar-selector-drag-file = Або перацягніце файл сюды
 edit-profile-page-no-name = Назавіце гэты профіль, каб вы маглі знайсці яго пазней. Пераймянуйце яго ў любы час.
 edit-profile-page-duplicate-name = Назва профілю ўжо выкарыстоўваецца. Паспрабуйце іншую.
 edit-profile-page-profile-saved = Захавана
@@ -121,6 +122,8 @@ shopping-avatar-alt =
     .alt = Кошык
 star-avatar-alt =
     .alt = Зорка
+custom-avatar-alt =
+    .alt = Уласны аватар
 
 ## Labels for default avatar icons
 
