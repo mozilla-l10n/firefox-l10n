@@ -56,6 +56,9 @@ newtab-topsites-add-shortcut-header = Llwybr Byr Newydd
 newtab-topsites-edit-topsites-header = Golygu'r Hoff Wefan
 newtab-topsites-edit-shortcut-header = Golygu Llwybr Byr
 newtab-topsites-add-shortcut-label = Ychwanegu Llwybr Byr
+newtab-topsites-add-shortcut-title =
+    .title = Ychwanegu Llwybr Byr
+    .aria-label = Ychwanegu Llwybr Byr
 newtab-topsites-title-label = Teitl
 newtab-topsites-title-input =
     .placeholder = Rhoi teitl
@@ -543,6 +546,9 @@ newtab-custom-wallpaper-title = Mae papurau wal cyfaddas yma
 # 'Make firefox yours" means to customize or personalize
 newtab-custom-wallpaper-subtitle = Llwythwch i fyny eich papur wal eich hun neu dewiswch liw cyfaddas i wneud { -brand-product-name } deimlo'n gartrefol.
 newtab-custom-wallpaper-cta = Rhowch gynnig arni
+
+## Strings for new user activation custom wallpaper highlight
+
 
 ## Strings for download mobile highlight
 
