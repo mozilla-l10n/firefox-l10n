@@ -53,6 +53,9 @@ newtab-topsites-add-shortcut-header = میانبر جدید
 newtab-topsites-edit-topsites-header = ویرایش سایت برتر
 newtab-topsites-edit-shortcut-header = ویرایش میانبر
 newtab-topsites-add-shortcut-label = افزودن میان‌بر
+newtab-topsites-add-shortcut-title =
+    .title = افزودن میان‌بر
+    .aria-label = افزودن میان‌بر
 newtab-topsites-title-label = عنوان
 newtab-topsites-title-input =
     .placeholder = عنوان را وارد کنید
@@ -351,6 +354,9 @@ newtab-topic-selection-button-maybe-later = شاید بعداً
 
 
 ## Strings for custom wallpaper highlight
+
+
+## Strings for new user activation custom wallpaper highlight
 
 
 ## Strings for download mobile highlight
