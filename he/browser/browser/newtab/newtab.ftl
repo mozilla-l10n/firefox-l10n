@@ -56,6 +56,9 @@ newtab-topsites-add-shortcut-header = קיצור דרך חדש
 newtab-topsites-edit-topsites-header = עריכת אתר מוביל
 newtab-topsites-edit-shortcut-header = עריכת קיצור דרך
 newtab-topsites-add-shortcut-label = הוספת קיצור דרך
+newtab-topsites-add-shortcut-title =
+    .title = הוספת קיצור דרך
+    .aria-label = הוספת קיצור דרך
 newtab-topsites-title-label = כותרת
 newtab-topsites-title-input =
     .placeholder = נא להזין כותרת
@@ -532,6 +535,9 @@ newtab-custom-wallpaper-title = טפטים מותאמים אישית נמצאי�
 # 'Make firefox yours" means to customize or personalize
 newtab-custom-wallpaper-subtitle = ניתן להעלות טפט משלך או לבחור בצבע מותאם אישית כדי להפוך את { -brand-product-name } לשלך.
 newtab-custom-wallpaper-cta = בואו ננסה
+
+## Strings for new user activation custom wallpaper highlight
+
 
 ## Strings for download mobile highlight
 
