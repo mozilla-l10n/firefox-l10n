@@ -47,3 +47,4 @@ experimental-features-link-previews-description-no-ai =
         [macos] Pour en savoir plus sur une page web avant de cliquer, survolez un lien et appuyez sur Maj (⇧) + Option (⌥) ou Alt. Les aperçus peuvent inclure des détails tels que le titre et la durée de lecture. <a data-l10n-name="connect">Donner votre avis</a>
        *[other] Pour en savoir plus sur une page web avant de cliquer, survolez un lien et appuyez sur Maj + Alt. Les aperçus peuvent inclure des détails tels que le titre et la durée de lecture. <a data-l10n-name="connect">Donner votre avis</a>
     }
+experimental-features-newtab-sections-follow-block-description = Organisez les articles de votre page de nouvel onglet par thèmes (sports, nourriture, divertissement…) pour y accéder de façon plus ordonnée et plus simple. Servez-vous de nos nouveaux contrôles « Suivre et bloquer » pour personnaliser le contenu que vous voyez. <a data-l10n-name="connect">Donnez votre avis</a>
