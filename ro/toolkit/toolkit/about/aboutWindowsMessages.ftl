@@ -9,3 +9,12 @@
 ### individual browser windows. These messages can be useful in debugging
 ### hard-to-reproduce issues with window sizing and position.
 
+# Windows refers to the operating system
+windows-messages-page-title = Informații despre mesajele Windows
+windows-messages-intro =
+    Această pagină afișează cele mai recente mesaje trimise de Windows
+    către ferestrele browserului { -brand-short-name }. Intrarea
+    cu caractere îngroșate reprezintă această fereastră. Reține că pagina afișează
+    cele mai recente mesaje la momentul încărcării paginii;
+    ca să le vezi pe cele actuale, va trebui să reîmprospătezi pagina.
+windows-messages-copy-to-clipboard = Copiază în clipboard
