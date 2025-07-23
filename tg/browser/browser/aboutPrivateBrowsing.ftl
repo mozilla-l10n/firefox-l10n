@@ -11,12 +11,12 @@ about-private-browsing-search-btn =
 # Variables
 #  $engine (String): the name of the user's default search engine
 about-private-browsing-handoff =
-    .title = Нишониеро тавассути { $engine } ҷустуҷӯ кунед ё ворид намоед
+    .title = Ба воситаи «{ $engine }» ҷустуҷӯ кунед ё нишониеро ворид намоед
 about-private-browsing-handoff-no-engine =
     .title = Нишониеро ҷустуҷӯ кунед ё ворид намоед
 # Variables
 #  $engine (String): the name of the user's default search engine
-about-private-browsing-handoff-text = Нишониеро тавассути { $engine } ҷустуҷӯ кунед ё ворид намоед
+about-private-browsing-handoff-text = Ба воситаи «{ $engine }» ҷустуҷӯ кунед ё нишониеро ворид намоед
 about-private-browsing-handoff-text-no-engine = Нишониеро ҷустуҷӯ кунед ё ворид намоед
 about-private-browsing-not-private = Айни ҳол шумо дар равзанаи хусусӣ қарор надоред.
 about-private-browsing-info-description-private-window = Равзанаи хусусӣ: Ҳангоми пӯшидани ҳамаи равзанаҳои хусусӣ «{ -brand-short-name }» таърихи ҷустуҷӯ ва тамошобинии шуморо тоза мекунад. Аммо ин амал шуморо беном намегузорад.

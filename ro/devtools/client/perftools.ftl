@@ -121,6 +121,7 @@ perftools-onboarding-message = <b>Nou</b>: { -profiler-brand-name } este acum in
 # devtools/client/performance-new/shared/background.sys.mjs
 # The same labels and descriptions are also defined in appmenu.ftl.
 
+perftools-presets-web-developer-label = Dezvoltator web
 perftools-presets-web-developer-description = Presetare recomandată pentru depanarea majorității aplicațiilor web, cu suprasarcină redusă.
 perftools-presets-firefox-label = { -brand-shorter-name }
 perftools-presets-firefox-description = Presetare recomandată pentru profilare { -brand-shorter-name }.
@@ -128,8 +129,11 @@ perftools-presets-graphics-label = Grafică
 perftools-presets-graphics-description = Presetare pentru investigarea erorilor grafice în { -brand-shorter-name }.
 perftools-presets-media-label = Multimedia
 perftools-presets-media-description2 = Presetare pentru investigarea erorilor audio și video în { -brand-shorter-name }.
+perftools-presets-ml-label = Învățare automată
 perftools-presets-networking-label = Rețea
 perftools-presets-networking-description = Presetare pentru investigarea erorilor de rețea în { -brand-shorter-name }.
 # "Power" is used in the sense of energy (electricity used by the computer).
 perftools-presets-power-label = Putere
 perftools-presets-power-description = Presetare pentru investigarea erorilor legate de consumul de energie în { -brand-shorter-name }, cu o suprasarcină redusă.
+perftools-presets-debug-label = Depanează
+perftools-presets-custom-label = Personalizat
