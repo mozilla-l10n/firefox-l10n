@@ -56,6 +56,9 @@ newtab-topsites-add-shortcut-header = Incurtzadura noa
 newtab-topsites-edit-topsites-header = Modìfica su situ populare
 newtab-topsites-edit-shortcut-header = Modìfica s'incurtzadura
 newtab-topsites-add-shortcut-label = Agiunghe curtzadòrgiu
+newtab-topsites-add-shortcut-title =
+    .title = Agiunghe curtzadòrgiu
+    .aria-label = Agiunghe curtzadòrgiu
 newtab-topsites-title-label = Tìtulu
 newtab-topsites-title-input =
     .placeholder = Inserta unu tìtulu
@@ -503,6 +506,9 @@ newtab-custom-wallpaper-title = Immoe podes impreare isfundos personalizados
 # 'Make firefox yours" means to customize or personalize
 newtab-custom-wallpaper-subtitle = Càrriga un’isfundu tuo o sèbera unu colore pro personalizare { -brand-product-name }.
 newtab-custom-wallpaper-cta = Proa immoe
+
+## Strings for new user activation custom wallpaper highlight
+
 
 ## Strings for download mobile highlight
 
