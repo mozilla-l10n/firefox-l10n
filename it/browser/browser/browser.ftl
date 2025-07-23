@@ -1155,6 +1155,10 @@ tabs-toolbar-list-all-tabs =
     .label = Elenco di tutte le schede
     .tooltiptext = Elenco di tutte le schede
 
+## Drop indicator text for pinned tabs when no tabs are pinned.
+
+pinned-tabs-drop-indicator = Trascina qui una scheda per appuntarla
+
 ## Infobar shown at startup to suggest session-restore
 
 # <img data-l10n-name="icon"/> will be replaced by the application menu icon
@@ -1330,6 +1334,14 @@ onboarding-aw-finish-setup-button =
 
 trustpanel-etp-label-enabled = La protezione antitracciamento avanzata è attiva
 trustpanel-etp-label-disabled = La protezione antitracciamento avanzata è disattivata
+# Variables
+#  $host (String): the hostname of the site that is being displayed.
+trustpanel-etp-toggle-on =
+    .aria-label = Protezione antitracciamento avanzata: attiva per { $host }
+# Variables
+#  $host (String): the hostname of the site that is being displayed.
+trustpanel-etp-toggle-off =
+    .aria-label = Protezione antitracciamento avanzata: disattivata per { $host }
 trustpanel-etp-description-enabled = Se qualcosa non funziona su questo sito, prova a disattivare le protezioni.
 trustpanel-etp-description-disabled = { -brand-product-name } ritiene che le aziende dovrebbero seguirti di meno. Blocchiamo il maggior numero possibile di elementi traccianti quando attivi le protezioni.
 trustpanel-connection-label-secure = Connessione sicura
@@ -1351,7 +1363,7 @@ trustpanel-clear-cookies-subview-button-cancel = Annulla
 #  $host (String): the hostname of the site that is being displayed.
 trustpanel-site-information-header =
     .title = Protezioni per la connessione a { $host }
-trustpanel-connection-secure = La connessione con questo sito è sicura
+trustpanel-connection-secure = La connessione con questo sito è sicura.
 trustpanel-connection-not-secure = La connessione con questo sito non è sicura.
 trustpanel-siteinformation-morelink = Ulteriori informazioni sul sito
 trustpanel-blocker-see-all = Mostra tutti
