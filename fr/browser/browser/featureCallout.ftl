@@ -136,8 +136,10 @@ sidebar-pins-callout-cta-button = Épingler cet onglet
 ## Pinning Tabs Strings
 
 pin-tabs-callout-1-title = Gardez les onglets importants à portée de main
+pin-tabs-callout-1-subtitle = Faites glisser un onglet en début de la liste pour l’épingler. Ou faites un clic droit et choisissez « Épingler l’onglet ».
 pin-tabs-callout-cta-1-button = Épingler cet onglet
 pin-tabs-callout-2-title = Épinglez les onglets que vous ouvrez le plus souvent
+pin-tabs-callout-2-subtitle = Pour épingler un onglet quelconque, faites-le glisser au début de la liste des onglets. Ou faites un clic droit et choisissez « Épingler l’onglet ».
 pin-tabs-callout-cta-2-button = Épingler cet onglet
 pin-tabs-callout-3-title = Gardez les sites importants à portée de main
 pin-tabs-callout-4-title = Épinglez les sites que vous ouvrez le plus souvent
