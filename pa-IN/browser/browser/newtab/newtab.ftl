@@ -56,6 +56,9 @@ newtab-topsites-add-shortcut-header = ਨਵਾਂ ਸ਼ਾਰਟਕੱਟ
 newtab-topsites-edit-topsites-header = ਉਪਰਲੀ ਸਾਈਟ ਸੋਧੋ
 newtab-topsites-edit-shortcut-header = ਸ਼ਾਰਟਕੱਟ ਨੂੰ ਸੋਧੋ
 newtab-topsites-add-shortcut-label = ਸ਼ਾਰਟਕੱਟ ਨੂੰ ਜੋੜੋ
+newtab-topsites-add-shortcut-title =
+    .title = ਸ਼ਾਰਟਕੱਟ ਨੂੰ ਜੋੜੋ
+    .aria-label = ਸ਼ਾਰਟਕੱਟ ਨੂੰ ਜੋੜੋ
 newtab-topsites-title-label = ਸਿਰਲੇਖ
 newtab-topsites-title-input =
     .placeholder = ਸਿਰਲੇਖ ਦਿਓ
@@ -537,6 +540,9 @@ newtab-custom-wallpaper-title = ਪਸੰਦੀਦਾ ਵਾਲਪੇਪਰ ਇ�
 # 'Make firefox yours" means to customize or personalize
 newtab-custom-wallpaper-subtitle = { -brand-product-name } ਨੂੰ ਆਪਣਾ ਬਣਾਉਣ ਵਾਸਤੇ ਖੁਦ ਦਾ ਵਾਲਪੇਪਰ ਅੱਪਲੋਡ ਕਰੋ ਜਾਂ ਕਸਟਮ ਰੰਗ ਚੁਣੋ।
 newtab-custom-wallpaper-cta = ਅਜ਼ਮਾਓ
+
+## Strings for new user activation custom wallpaper highlight
+
 
 ## Strings for download mobile highlight
 
