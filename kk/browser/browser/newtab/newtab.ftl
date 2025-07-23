@@ -56,6 +56,9 @@ newtab-topsites-add-shortcut-header = Жаңа жарлық
 newtab-topsites-edit-topsites-header = Топ сайтын түзету
 newtab-topsites-edit-shortcut-header = Жарлықты түзету
 newtab-topsites-add-shortcut-label = Жарлықты қосу
+newtab-topsites-add-shortcut-title =
+    .title = Жарлықты қосу
+    .aria-label = Жарлықты қосу
 newtab-topsites-title-label = Атауы
 newtab-topsites-title-input =
     .placeholder = Атауын енгізіңіз
@@ -524,6 +527,9 @@ newtab-section-manage-topics-button-v2 =
 newtab-section-mangage-topics-blocked-topics = Бұғатталған
 newtab-custom-wallpaper-cta = Қолданып көру
 
+## Strings for new user activation custom wallpaper highlight
+
+
 ## Strings for download mobile highlight
 
 newtab-download-mobile-highlight-title = Мобильді { -brand-product-name } жүктеп алу
@@ -531,6 +537,9 @@ newtab-download-mobile-highlight-body-variant-b = Беттерді, пароль
 newtab-download-mobile-highlight-body-variant-c = { -brand-product-name } браузерін өзіңізбен бірге алып жүре алатыныңызды білдіңіз бе? Дәл сол браузер. Қалтаңызда.
 newtab-download-mobile-highlight-image =
     .aria-label = Мобильді { -brand-product-name } жүктеп алу үшін QR коды
+
+## Strings for shortcuts highlight
+
 
 ## Strings for reporting ads and content
 
