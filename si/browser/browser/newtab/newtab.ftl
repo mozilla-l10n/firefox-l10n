@@ -51,6 +51,9 @@ newtab-topsites-add-shortcut-header = නව කෙටිමඟ
 newtab-topsites-edit-topsites-header = ප්‍රචලිත අඩවිය සංස්කරණය
 newtab-topsites-edit-shortcut-header = කෙටිමඟ සංස්කරණය
 newtab-topsites-add-shortcut-label = කෙටිමඟක් යොදන්න
+newtab-topsites-add-shortcut-title =
+    .title = කෙටිමඟක් යොදන්න
+    .aria-label = කෙටිමඟක් යොදන්න
 newtab-topsites-title-label = සිරැසිය
 newtab-topsites-title-input =
     .placeholder = සිරැසියක් යොදන්න
@@ -341,6 +344,9 @@ newtab-section-blocked-button = අවහිරයි
 ## Strings for custom wallpaper highlight
 
 newtab-section-mangage-topics-blocked-topics = අවහිරයි
+
+## Strings for new user activation custom wallpaper highlight
+
 
 ## Strings for download mobile highlight
 
