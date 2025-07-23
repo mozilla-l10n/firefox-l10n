@@ -53,6 +53,9 @@ newtab-topsites-add-shortcut-header = Nuevo acceso directo
 newtab-topsites-edit-topsites-header = Editar sitio popular
 newtab-topsites-edit-shortcut-header = Editar acceso directo
 newtab-topsites-add-shortcut-label = Agregar acceso directo
+newtab-topsites-add-shortcut-title =
+    .title = Agregar acceso directo
+    .aria-label = Agregar acceso directo
 newtab-topsites-title-label = Título
 newtab-topsites-title-input =
     .placeholder = Introducir un título
@@ -513,6 +516,9 @@ newtab-section-mangage-topics-followed-topics = Seguido
 newtab-section-mangage-topics-followed-topics-empty-state = Aún no sigues ningún tema.
 newtab-section-mangage-topics-blocked-topics = Bloqueado
 newtab-section-mangage-topics-blocked-topics-empty-state = Aún no has bloqueado ningún tema.
+
+## Strings for new user activation custom wallpaper highlight
+
 
 ## Strings for download mobile highlight
 
