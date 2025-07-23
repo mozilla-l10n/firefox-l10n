@@ -56,6 +56,9 @@ newtab-topsites-add-shortcut-header = Миёнбури нав
 newtab-topsites-edit-topsites-header = Таҳрир кардани сомонаи беҳтарин
 newtab-topsites-edit-shortcut-header = Таҳрир кардани миёнбур
 newtab-topsites-add-shortcut-label = Илова кардани миёнбур
+newtab-topsites-add-shortcut-title =
+    .title = Илова кардани миёнбур
+    .aria-label = Илова кардани миёнбур
 newtab-topsites-title-label = Сарлавҳа
 newtab-topsites-title-input =
     .placeholder = Сарлавҳаро ворид намоед
@@ -536,6 +539,9 @@ newtab-custom-wallpaper-title = Тасвирҳои заминаи фармоиш
 # 'Make firefox yours" means to customize or personalize
 newtab-custom-wallpaper-subtitle = Барои ба таври худ танзим кардани «{ -brand-product-name }», тасвири заминаи худро бор кунед ё ранги дилхоҳеро интихоб намоед.
 newtab-custom-wallpaper-cta = Озмоед
+
+## Strings for new user activation custom wallpaper highlight
+
 
 ## Strings for download mobile highlight
 
