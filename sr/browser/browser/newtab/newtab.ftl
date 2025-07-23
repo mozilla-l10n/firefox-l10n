@@ -53,6 +53,9 @@ newtab-topsites-add-shortcut-header = Нова пречица
 newtab-topsites-edit-topsites-header = Уреди популарне сајтове
 newtab-topsites-edit-shortcut-header = Измени пречицу
 newtab-topsites-add-shortcut-label = Додај пречицу
+newtab-topsites-add-shortcut-title =
+    .title = Додај пречицу
+    .aria-label = Додај пречицу
 newtab-topsites-title-label = Наслов
 newtab-topsites-title-input =
     .placeholder = Унесите наслов
@@ -462,6 +465,9 @@ newtab-topic-selection-button-pick-interests = Одаберите ваша ин�
 
 
 ## Strings for custom wallpaper highlight
+
+
+## Strings for new user activation custom wallpaper highlight
 
 
 ## Strings for download mobile highlight
