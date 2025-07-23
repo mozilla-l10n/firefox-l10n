@@ -56,6 +56,9 @@ newtab-topsites-add-shortcut-header = Nova bližnjica
 newtab-topsites-edit-topsites-header = Uredi glavno stran
 newtab-topsites-edit-shortcut-header = Uredi bližnjico
 newtab-topsites-add-shortcut-label = Dodaj bližnjico
+newtab-topsites-add-shortcut-title =
+    .title = Dodaj bližnjico
+    .aria-label = Dodaj bližnjico
 newtab-topsites-title-label = Naslov
 newtab-topsites-title-input =
     .placeholder = Vnesite ime
@@ -539,6 +542,9 @@ newtab-custom-wallpaper-title = Ozadja po meri so tu
 # 'Make firefox yours" means to customize or personalize
 newtab-custom-wallpaper-subtitle = Naložite lastno ozadje ali izberite poljubno barvo, ki bo { -brand-product-name(sklon: "dajalnik") } dodala vašo osebno noto.
 newtab-custom-wallpaper-cta = Preizkusite
+
+## Strings for new user activation custom wallpaper highlight
+
 
 ## Strings for download mobile highlight
 

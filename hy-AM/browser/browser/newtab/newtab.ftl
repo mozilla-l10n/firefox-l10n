@@ -53,6 +53,9 @@ newtab-topsites-add-shortcut-header = Նոր դյուրանցում
 newtab-topsites-edit-topsites-header = Խմբագրել Լավագույն կայքերը
 newtab-topsites-edit-shortcut-header = Խմբագրել դյուրանցումը
 newtab-topsites-add-shortcut-label = Ավելացնել դյուրանցում
+newtab-topsites-add-shortcut-title =
+    .title = Ավելացնել դյուրանցում
+    .aria-label = Ավելացնել դյուրանցում
 newtab-topsites-title-label = Անվանում
 newtab-topsites-title-input =
     .placeholder = Մուտքագրեք անվանում
@@ -477,6 +480,9 @@ newtab-section-manage-topics-button-v2 =
 newtab-section-mangage-topics-followed-topics = Հետևված
 newtab-section-mangage-topics-blocked-topics = Արգելափակված
 newtab-custom-wallpaper-cta = Փորձել
+
+## Strings for new user activation custom wallpaper highlight
+
 
 ## Strings for download mobile highlight
 

@@ -53,6 +53,9 @@ newtab-topsites-add-shortcut-header = Nýr flýtilykill
 newtab-topsites-edit-topsites-header = Breyta toppsíðu
 newtab-topsites-edit-shortcut-header = Breyta flýtilykli
 newtab-topsites-add-shortcut-label = Bæta við flýtileið
+newtab-topsites-add-shortcut-title =
+    .title = Bæta við flýtileið
+    .aria-label = Bæta við flýtileið
 newtab-topsites-title-label = Titill
 newtab-topsites-title-input =
     .placeholder = Settu inn titil
@@ -527,6 +530,9 @@ newtab-section-mangage-topics-blocked-topics = Lokað á
 newtab-section-mangage-topics-blocked-topics-empty-state = Þú hefur ekki lokað á neitt umfjöllunarefni ennþá.
 newtab-custom-wallpaper-title = Sérsniðnir bakgrunnar eru hér
 newtab-custom-wallpaper-cta = Prófaðu það
+
+## Strings for new user activation custom wallpaper highlight
+
 
 ## Strings for download mobile highlight
 

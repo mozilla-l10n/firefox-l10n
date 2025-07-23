@@ -56,6 +56,9 @@ newtab-topsites-add-shortcut-header = ทางลัดใหม่
 newtab-topsites-edit-topsites-header = แก้ไขไซต์เด่น
 newtab-topsites-edit-shortcut-header = แก้ไขทางลัด
 newtab-topsites-add-shortcut-label = เพิ่มทางลัด
+newtab-topsites-add-shortcut-title =
+    .title = เพิ่มทางลัด
+    .aria-label = เพิ่มทางลัด
 newtab-topsites-title-label = ชื่อเรื่อง
 newtab-topsites-title-input =
     .placeholder = ป้อนชื่อเรื่อง
@@ -534,6 +537,9 @@ newtab-custom-wallpaper-title = รูปพื้นหลังกำหนด
 # 'Make firefox yours" means to customize or personalize
 newtab-custom-wallpaper-subtitle = อัปโหลดรูปพื้นหลังของคุณเองหรือเลือกสีกำหนดเองเพื่อปรับแต่ง { -brand-product-name } ในแบบของคุณ
 newtab-custom-wallpaper-cta = ลองเลย
+
+## Strings for new user activation custom wallpaper highlight
+
 
 ## Strings for download mobile highlight
 

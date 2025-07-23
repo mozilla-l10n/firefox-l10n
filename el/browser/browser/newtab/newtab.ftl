@@ -56,6 +56,9 @@ newtab-topsites-add-shortcut-header = Νέα συντόμευση
 newtab-topsites-edit-topsites-header = Επεξεργασία κορυφαίου ιστοτόπου
 newtab-topsites-edit-shortcut-header = Επεξεργασία συντόμευσης
 newtab-topsites-add-shortcut-label = Προσθήκη συντόμευσης
+newtab-topsites-add-shortcut-title =
+    .title = Προσθήκη συντόμευσης
+    .aria-label = Προσθήκη συντόμευσης
 newtab-topsites-title-label = Τίτλος
 newtab-topsites-title-input =
     .placeholder = Εισαγωγή τίτλου
@@ -538,6 +541,9 @@ newtab-custom-wallpaper-title = Οι προσαρμοσμένες ταπετσα
 # 'Make firefox yours" means to customize or personalize
 newtab-custom-wallpaper-subtitle = Μεταφορτώστε τη δική σας ταπετσαρία ή επιλέξτε ένα προσαρμοσμένο χρώμα για να κάνετε το { -brand-product-name } δικό σας.
 newtab-custom-wallpaper-cta = Δοκιμή
+
+## Strings for new user activation custom wallpaper highlight
+
 
 ## Strings for download mobile highlight
 

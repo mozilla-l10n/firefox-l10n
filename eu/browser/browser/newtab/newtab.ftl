@@ -56,6 +56,9 @@ newtab-topsites-add-shortcut-header = Lasterbide berria
 newtab-topsites-edit-topsites-header = Editatu maiz erabilitako gunea
 newtab-topsites-edit-shortcut-header = Editatu lasterbidea
 newtab-topsites-add-shortcut-label = Gehitu lasterbidea
+newtab-topsites-add-shortcut-title =
+    .title = Gehitu lasterbidea
+    .aria-label = Gehitu lasterbidea
 newtab-topsites-title-label = Izenburua
 newtab-topsites-title-input =
     .placeholder = Idatzi izenburua
@@ -471,6 +474,9 @@ newtab-section-mangage-topics-followed-topics-empty-state = Ez duzu inongo gairi
 newtab-section-mangage-topics-blocked-topics = Blokeatuta
 newtab-section-mangage-topics-blocked-topics-empty-state = Ez duzu inongo gairik blokeatu oraindik.
 newtab-custom-wallpaper-cta = Probatu
+
+## Strings for new user activation custom wallpaper highlight
+
 
 ## Strings for download mobile highlight
 

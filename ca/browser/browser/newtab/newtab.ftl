@@ -53,6 +53,9 @@ newtab-topsites-add-shortcut-header = Drecera nova
 newtab-topsites-edit-topsites-header = Edita el lloc principal
 newtab-topsites-edit-shortcut-header = Edita la drecera
 newtab-topsites-add-shortcut-label = Afegeix una drecera
+newtab-topsites-add-shortcut-title =
+    .title = Afegeix una drecera
+    .aria-label = Afegeix una drecera
 newtab-topsites-title-label = Títol
 newtab-topsites-title-input =
     .placeholder = Escriviu el títol
@@ -430,6 +433,9 @@ newtab-topic-selection-button-maybe-later = Potser més tard
 
 
 ## Strings for custom wallpaper highlight
+
+
+## Strings for new user activation custom wallpaper highlight
 
 
 ## Strings for download mobile highlight

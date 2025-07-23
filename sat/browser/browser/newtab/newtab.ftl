@@ -53,6 +53,9 @@ newtab-topsites-add-shortcut-header = ᱱᱟᱶᱟ ᱠᱷᱟᱴᱚᱢᱟᱪᱷ�
 newtab-topsites-edit-topsites-header = ᱪᱮᱛᱟᱱ ᱨᱤᱱ ᱥᱟᱭᱤᱴ ᱥᱟᱯᱲᱟᱣ ᱢᱮ
 newtab-topsites-edit-shortcut-header = ᱠᱷᱟᱴᱚᱢᱟᱪᱷᱟ ᱥᱟᱯᱲᱟᱣ ᱢᱮ
 newtab-topsites-add-shortcut-label = ᱠᱷᱟᱴᱚᱢᱟᱪᱷᱟ ᱥᱮᱞᱮᱫᱽ ᱢᱮ
+newtab-topsites-add-shortcut-title =
+    .title = ᱠᱷᱟᱴᱚᱢᱟᱪᱷᱟ ᱥᱮᱞᱮᱫᱽ ᱢᱮ
+    .aria-label = ᱠᱷᱟᱴᱚᱢᱟᱪᱷᱟ ᱥᱮᱞᱮᱫᱽ ᱢᱮ
 newtab-topsites-title-label = ᱧᱩᱛᱩᱢ
 newtab-topsites-title-input =
     .placeholder = ᱧᱩᱛᱩᱢ ᱟᱫᱮᱨ ᱢᱮ
@@ -465,6 +468,9 @@ newtab-topic-selection-button-pick-interests = ᱟᱢᱟᱜ ᱠᱩᱥᱤ ᱠᱚ 
 
 
 ## Strings for custom wallpaper highlight
+
+
+## Strings for new user activation custom wallpaper highlight
 
 
 ## Strings for download mobile highlight

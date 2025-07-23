@@ -56,6 +56,9 @@ newtab-topsites-add-shortcut-header = Új gyorskereső
 newtab-topsites-edit-topsites-header = Népszerű oldal szerkesztése
 newtab-topsites-edit-shortcut-header = Gyorskereső szerkesztése
 newtab-topsites-add-shortcut-label = Indítóikon hozzáadása
+newtab-topsites-add-shortcut-title =
+    .title = Indítóikon hozzáadása
+    .aria-label = Indítóikon hozzáadása
 newtab-topsites-title-label = Cím
 newtab-topsites-title-input =
     .placeholder = Cím megadása
@@ -538,6 +541,9 @@ newtab-custom-wallpaper-title = Itt vannak az egyéni háttérképek
 # 'Make firefox yours" means to customize or personalize
 newtab-custom-wallpaper-subtitle = Töltse fel a saját háttérképét, vagy válasszon egy egyéni háttérszínt, hogy a { -brand-product-name } a sajátja legyen.
 newtab-custom-wallpaper-cta = Próbálja ki
+
+## Strings for new user activation custom wallpaper highlight
+
 
 ## Strings for download mobile highlight
 

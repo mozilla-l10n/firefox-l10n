@@ -53,6 +53,9 @@ newtab-topsites-add-shortcut-header = Shkurtore e Re
 newtab-topsites-edit-topsites-header = Përpunoni Sajtin Kryesues
 newtab-topsites-edit-shortcut-header = Përpunoni Shkurtore
 newtab-topsites-add-shortcut-label = Shtoni Shkurtore
+newtab-topsites-add-shortcut-title =
+    .title = Shtoni Shkurtore
+    .aria-label = Shtoni Shkurtore
 newtab-topsites-title-label = Titull
 newtab-topsites-title-input =
     .placeholder = Jepni një titull
@@ -520,6 +523,9 @@ newtab-custom-wallpaper-title = Mbërritën sfonde vetjake
 # 'Make firefox yours" means to customize or personalize
 newtab-custom-wallpaper-subtitle = Ngarkoni sfondin tuaj vetjak, ose zgjidhni një ngjyrë vetjake, për ta bërë { -brand-product-name }-in si e doni.
 newtab-custom-wallpaper-cta = Provojeni
+
+## Strings for new user activation custom wallpaper highlight
+
 
 ## Strings for download mobile highlight
 

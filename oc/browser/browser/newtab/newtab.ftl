@@ -53,6 +53,9 @@ newtab-topsites-add-shortcut-header = Acorchi novèl
 newtab-topsites-edit-topsites-header = Modificar lo site popular
 newtab-topsites-edit-shortcut-header = Modificar acorchi
 newtab-topsites-add-shortcut-label = Apondre un acorchi
+newtab-topsites-add-shortcut-title =
+    .title = Apondre un acorchi
+    .aria-label = Apondre un acorchi
 newtab-topsites-title-label = Títol
 newtab-topsites-title-input =
     .placeholder = Picar un títol
@@ -417,6 +420,9 @@ newtab-topic-selection-button-pick-interests = Causir vòstres interèsses
 
 
 ## Strings for custom wallpaper highlight
+
+
+## Strings for new user activation custom wallpaper highlight
 
 
 ## Strings for download mobile highlight

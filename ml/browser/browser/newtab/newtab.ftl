@@ -53,6 +53,9 @@ newtab-topsites-add-shortcut-header = പുതിയ കുറുക്കു�
 newtab-topsites-edit-topsites-header = മികച്ച സൈറ്റ് പട്ടിക തിരുത്തൂ
 newtab-topsites-edit-shortcut-header = കുറുക്കുവഴി തിരുത്തുക
 newtab-topsites-add-shortcut-label = കുറുക്കുവഴി ചേർക്കുക
+newtab-topsites-add-shortcut-title =
+    .title = കുറുക്കുവഴി ചേർക്കുക
+    .aria-label = കുറുക്കുവഴി ചേർക്കുക
 newtab-topsites-title-label = തലക്കെട്ട്
 newtab-topsites-title-input =
     .placeholder = തലക്കെട്ട് നൽകൂ
@@ -440,6 +443,9 @@ newtab-section-mangage-topics-followed-topics-empty-state = താങ്ങൾ �
 newtab-section-mangage-topics-blocked-topics = തടഞ്ഞവ
 newtab-section-mangage-topics-blocked-topics-empty-state = താങ്ങൾ ഇതുവരെ ഒരു വിഷയത്തിനെയും ത‍ടഞ്ഞിട്ടില്ല
 newtab-custom-wallpaper-cta = ഉപയോഗിച്ചു് നോക്കൂ!
+
+## Strings for new user activation custom wallpaper highlight
+
 
 ## Strings for download mobile highlight
 
