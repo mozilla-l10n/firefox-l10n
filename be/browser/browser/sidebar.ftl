@@ -68,6 +68,7 @@ sidebar-show-on-the-left =
 # hovers over it.
 expand-sidebar-on-hover =
     .label = Разгарнуць бакавую панэль пры навядзенні
+sidebar-manage-extensions = Кіраваць пашырэннямі
 
 ## Labels for sidebar context menu items
 
@@ -101,6 +102,10 @@ sidebar-context-menu-customize-sidebar =
 #   $deviceName (String) - The name of the device the user is closing a tab for
 sidebar-context-menu-close-remote-tab =
     .label = Закрыць картку на { $deviceName }
+sidebar-context-menu-remove-extension2 =
+    .label = Выдаліць з { -brand-short-name }
+sidebar-context-menu-unpin-extension =
+    .label = Выдаліць з бакавой панэлі
 
 ## Labels for sidebar history context menu items
 
@@ -125,6 +130,8 @@ sidebar-menu-customize-label =
     .label = Уладкаванне бакавой панэлі
 sidebar-menu-contextual-password-manager-label =
     .label = Паролі
+sidebar-menu-more-tools-label =
+    .label = Іншыя інструменты
 
 ## Tooltips for sidebar menu items.
 

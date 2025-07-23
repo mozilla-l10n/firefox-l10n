@@ -161,6 +161,8 @@ contextual-manager-passwords-password-already-exists-error-button = Перайс
 contextual-manager-passwords-update-password-success-heading =
     .heading = Пароль захаваны
 contextual-manager-passwords-update-password-success-button = Гатова
+contextual-manager-passwords-update-username-success-heading =
+    .heading = Імя карыстальніка захавана
 # Message to confirm successful removal of a password/passwords.
 #   $total (number) - Total number of passwords
 contextual-manager-passwords-delete-password-success-heading =
@@ -208,6 +210,7 @@ contextual-manager-passwords-no-username-heading-and-message =
     .heading = Дадайце імя карыстальніка
     .message = Дадайце імя карыстальніка, каб уваходзіць хутчэй.
 contextual-manager-passwords-add-username-button = Дадаць імя карыстальніка
+contextual-manager-passwords-title = Паролі
 
 ## Login Form
 
@@ -270,6 +273,26 @@ contextual-manager-view-alert-heading =
     .heading = Паглядзець папярэджанне
 contextual-manager-view-alert-button =
     .tooltiptext = Папярэджанне аб праверцы
+# Variables
+#   $count (number) - The number of active alerts associated with the login
+contextual-manager-view-alert-heading-2 =
+    .heading =
+        { $count ->
+            [1] Паглядзець папярэджанне
+            [one] Паглядзець папярэджанне
+            [few] Паглядзець папярэджанні
+           *[many] Паглядзець папярэджанні
+        }
+# Variables
+#   $count (number) - The number of active alerts associated with the login
+contextual-manager-view-alert-button-2 =
+    .tooltiptext =
+        { $count ->
+            [1] Пераглядзець папярэджанне
+            [one] Пераглядзець папярэджанне
+            [few] Пераглядзець папярэджанні
+           *[many] Пераглядзець папярэджанні
+        }
 contextual-manager-show-password-button =
     .aria-label = Паказаць пароль
     .title = Паказаць пароль
