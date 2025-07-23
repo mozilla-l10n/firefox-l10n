@@ -552,6 +552,8 @@ newtab-download-mobile-highlight-image =
 
 ## Strings for shortcuts highlight
 
+newtab-shortcuts-highlight-title = I tiei preferîts a puartade di man
+newtab-shortcuts-highlight-subtitle = Zonte une scurte par mantignî i tiei sîts preferîts a puartade di clic.
 
 ## Strings for reporting ads and content
 
@@ -586,3 +588,5 @@ newtab-trending-searches-hide-trending =
     .title = Plate ricercjis di tindince
 newtab-trending-searches-learn-more = Plui informazions
 newtab-trending-searches-dismiss = Plate ricercjis di tindince
+# "Trending searches refers to popular searches from search engines
+newtab-trending-searches-title = Ricercjis di tindince

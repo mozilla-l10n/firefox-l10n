@@ -363,6 +363,7 @@ quickactions-downloads2 = Visualize i discjamâts
 quickactions-cmd-downloads = discjamâts
 # Opens about:addons page in the extensions section
 quickactions-extensions = Gjestìs estensions
+quickactions-cmd-extensions2 = estensions, components adizionâi
 quickactions-cmd-extensions = estensions
 # Opens Firefox View
 quickactions-firefoxview = Vierç { -firefoxview-brand-name }
@@ -410,6 +411,10 @@ quickactions-cmd-settings2 = impostazions, preferencis, opzions, gjestìs
 quickactions-cmd-settings = impostazions, preferencis, opzions
 # Opens about:addons page in the themes section
 quickactions-themes = Gjestìs temis
+# In English we provide multiple spellings for "add-ons". If that's not
+# applicable to your language, only use the correct spelling (don't repeat the
+# same word).
+quickactions-cmd-themes2 = temis, components adizionâi
 quickactions-cmd-themes = temis
 # Opens a SUMO article explaining how to update the browser
 quickactions-update = Inzorne { -brand-short-name }
@@ -812,6 +817,8 @@ urlbar-searchmode-actions =
     .label = Azions
 urlbar-searchmode-exit-button =
     .tooltiptext = Siere
+urlbar-searchmode-default =
+    .tooltiptext = Motôr di ricercje predefinît
 # Label shown on the top of Searchmode Switcher popup. After this label, the
 # available search engines will be listed.
 urlbar-searchmode-popup-description = Cheste volte cîr cun:

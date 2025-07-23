@@ -117,3 +117,62 @@ about-webauthn-auth-option-null = Nesuportat
 about-webauthn-auth-info-vendor-prototype-config-commands = Comenzi de configurare prototip furnizor
 about-webauthn-auth-info-remaining-discoverable-credentials = Date de autentificare rămase care pot fi descoperite
 about-webauthn-auth-info-certifications = Certificări
+about-webauthn-auth-info-uv-modality = Modalitate de verificare a utilizatorului
+about-webauthn-auth-info-preferred-platform-uv-attempts = Încercări preferate de verificare a utilizatorilor platformei
+about-webauthn-auth-info-firmware-version = Versiune firmware
+about-webauthn-auth-info-min-pin-length = Lungime minimă PIN
+about-webauthn-auth-info-force-pin-change = Forțează schimbarea PIN-ului
+about-webauthn-auth-info-algorithms = Algoritmi
+about-webauthn-auth-info-transports = Transporturi
+about-webauthn-auth-info-max-credential-id-length = Lungime max. ID date de autentificare
+about-webauthn-auth-info-max-credential-count-in-list = Număr max. de date de autentificare în listă
+about-webauthn-auth-info-pin-protocols = Protocoale PIN
+about-webauthn-auth-info-max-msg-size = Mărime max. mesaj
+# AAGUID should not be translated.
+about-webauthn-auth-info-aaguid = AAGUID
+about-webauthn-auth-info-extensions = Extensii
+about-webauthn-auth-info-versions = Versiuni
+# Shows when boolean value for an info field is True. True should not be translated.
+about-webauthn-auth-info-true = Adevărat
+# Shows when boolean value for an info field is False. False should not be translated.
+about-webauthn-auth-info-false = Fals
+about-webauthn-auth-info-null = Nesuportat
+
+## Bio enrollment sample feedbacks
+
+# To register a new enrollment (e.g. fingerprint) usually
+# multiple scans of the same finger have to be sampled.
+# This shows how many the user still has to do.
+# Variables:
+#  $repeatCount (Number): number of tries left
+about-webauthn-samples-still-needed =
+    { $repeatCount ->
+        [one] Mai trebuie încă { $repeatCount } mostră.
+        [few] Mai trebuie încă { $repeatCount } mostre.
+       *[other] Mai trebuie încă { $repeatCount } de mostre.
+    }
+# Scan (e.g. of fingerprint) was successful.
+about-webauthn-ctap2-enroll-feedback-good = Mostra a fost bună.
+
+## Scan (e.g. of fingerprint) was off-center (e.g. too high, too left, etc.).
+
+about-webauthn-ctap2-enroll-feedback-too-high = Mostra a fost prea mare.
+about-webauthn-ctap2-enroll-feedback-too-low = Mostra a fost prea mică.
+about-webauthn-ctap2-enroll-feedback-too-left = Mostra a fost prea la stânga.
+about-webauthn-ctap2-enroll-feedback-too-right = Mostra a fost prea la dreapta.
+
+##
+
+about-webauthn-ctap2-enroll-feedback-too-fast = Mostra a fost prea rapidă.
+about-webauthn-ctap2-enroll-feedback-too-slow = Mostra a fost prea lentă.
+about-webauthn-ctap2-enroll-feedback-poor-quality = Mostra a fost de proastă calitate.
+# Skewed in the sense of fingerprint/iris scan was too distorted
+about-webauthn-ctap2-enroll-feedback-too-skewed = Mostra a fost prea oblică.
+about-webauthn-ctap2-enroll-feedback-too-short = Mostra a fost prea scurtă.
+# Scan (e.g. of fingerprint) couldn't be merged with previous samples.
+about-webauthn-ctap2-enroll-feedback-merge-failure = Eșec la fuzionarea mostrelor.
+# Scan (e.g. of fingerprint) is somehow identical to an existing sample.
+about-webauthn-ctap2-enroll-feedback-exists = Mostra există deja.
+about-webauthn-ctap2-enroll-feedback-no-user-activity = Nicio activitate a utilizatorului.
+about-webauthn-ctap2-enroll-feedback-no-user-presence-transition = Utilizatorul nu a finalizat eșantionarea conform așteptărilor.
+about-webauthn-ctap2-enroll-feedback-other = Eroare mostră.
