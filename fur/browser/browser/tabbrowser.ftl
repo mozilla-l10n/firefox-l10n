@@ -279,6 +279,8 @@ tab-context-move-tab-to-group =
            *[other] Zonte schedis a un grup
         }
     .accesskey = G
+tab-context-move-tab-to-group-saved-groups =
+    .label = Grups sierâts
 tab-group-editor-action-new-tab =
     .label = Gnove schede tal grup
 tab-group-editor-action-new-window =
