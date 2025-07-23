@@ -56,6 +56,9 @@ newtab-topsites-add-shortcut-header = ახალი მალსახმო�
 newtab-topsites-edit-topsites-header = რჩეული საიტის ჩასწორება
 newtab-topsites-edit-shortcut-header = მალსახმობის ჩასწორება
 newtab-topsites-add-shortcut-label = მალსახმობის დამატება
+newtab-topsites-add-shortcut-title =
+    .title = მალსახმობის დამატება
+    .aria-label = მალსახმობის დამატება
 newtab-topsites-title-label = დასახელება
 newtab-topsites-title-input =
     .placeholder = სათაურის შეყვანა
@@ -537,6 +540,9 @@ newtab-custom-wallpaper-title = მორგებული ფონები �
 # 'Make firefox yours" means to customize or personalize
 newtab-custom-wallpaper-subtitle = ატვირთეთ საკუთარი ფონი ან შეარჩიეთ სასურველი ფერი, რომ გახადოთ { -brand-product-name } მეტად თქვენებური.
 newtab-custom-wallpaper-cta = მოსინჯვა
+
+## Strings for new user activation custom wallpaper highlight
+
 
 ## Strings for download mobile highlight
 
