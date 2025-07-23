@@ -56,6 +56,9 @@ newtab-topsites-add-shortcut-header = Gnove scurte
 newtab-topsites-edit-topsites-header = Modifiche sît principâl
 newtab-topsites-edit-shortcut-header = Modifiche scurte
 newtab-topsites-add-shortcut-label = Zonte scurte
+newtab-topsites-add-shortcut-title =
+    .title = Zonte scurte
+    .aria-label = Zonte scurte
 newtab-topsites-title-label = Titul
 newtab-topsites-title-input =
     .placeholder = Inserìs un titul
@@ -539,6 +542,9 @@ newtab-custom-wallpaper-title = I fonts personalizâts a son achì
 # 'Make firefox yours" means to customize or personalize
 newtab-custom-wallpaper-subtitle = Cjame il to font o sielç un colôr personalizât par fâ to { -brand-product-name }.
 newtab-custom-wallpaper-cta = Provilu
+
+## Strings for new user activation custom wallpaper highlight
+
 
 ## Strings for download mobile highlight
 
