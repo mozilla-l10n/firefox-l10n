@@ -149,6 +149,8 @@ perftools-presets-graphics-label = Grafiche
 perftools-presets-graphics-description = Preconfigurazion par investigâ sui erôrs grafics in { -brand-shorter-name }.
 perftools-presets-media-label = Media
 perftools-presets-media-description2 = Preconfigurazion par investigâ su erôrs audio e video in { -brand-shorter-name }.
+perftools-presets-ml-label = Machine Learning
+perftools-presets-ml-description2 = Preconfigurazion pe diagnosi di problemis relatîfs al machine learning in { -brand-shorter-name }.
 perftools-presets-networking-label = Rêt
 perftools-presets-networking-description = Preconfigurazion par investigâ su erôrs di rêt in { -brand-shorter-name }.
 # "Power" is used in the sense of energy (electricity used by the computer).
@@ -157,6 +159,3 @@ perftools-presets-power-description = Pre-configurazion par investigâ sui erôr
 perftools-presets-debug-label = Debug
 perftools-presets-debug-description = Impostazion prestabilide pal debug in { -brand-shorter-name }. Overhead elevât, no sta doprâlu pes analisis des prestazions, ma dome par capî il compuartament dal navigadôr.
 perftools-presets-custom-label = Personalizât
-
-##
-
