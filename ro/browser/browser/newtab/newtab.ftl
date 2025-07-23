@@ -56,6 +56,9 @@ newtab-topsites-add-shortcut-header = Comandă rapidă nouă
 newtab-topsites-edit-topsites-header = Editează site-ul de top
 newtab-topsites-edit-shortcut-header = Editează comanda rapidă
 newtab-topsites-add-shortcut-label = Adaugă comanda rapidă
+newtab-topsites-add-shortcut-title =
+    .title = Adaugă comanda rapidă
+    .aria-label = Adaugă comanda rapidă
 newtab-topsites-title-label = Titlu
 newtab-topsites-title-input =
     .placeholder = Introdu un titlu
@@ -535,6 +538,9 @@ newtab-custom-wallpaper-title = Sunt disponibile imagini de fundal personalizate
 # 'Make firefox yours" means to customize or personalize
 newtab-custom-wallpaper-subtitle = Încarcă propria imagine de fundal sau alege o culoare personalizată ca să îți personalizezi imaginea de fundal { -brand-product-name }.
 newtab-custom-wallpaper-cta = Încearcă-l
+
+## Strings for new user activation custom wallpaper highlight
+
 
 ## Strings for download mobile highlight
 
