@@ -48,6 +48,9 @@ newtab-topsites-add-shortcut-header = Нова клавишна комбинац
 newtab-topsites-edit-topsites-header = Променяне на често посещавана страница
 newtab-topsites-edit-shortcut-header = Промяна на икона
 newtab-topsites-add-shortcut-label = Добавяне на пряк път
+newtab-topsites-add-shortcut-title =
+    .title = Добавяне на пряк път
+    .aria-label = Добавяне на пряк път
 newtab-topsites-title-label = Заглавие
 newtab-topsites-title-input =
     .placeholder = Въведете заглавие
@@ -433,6 +436,9 @@ newtab-topic-selection-button-pick-interests = Изберете вашите и�
 ## Strings for custom wallpaper highlight
 
 newtab-custom-wallpaper-cta = Опитайте
+
+## Strings for new user activation custom wallpaper highlight
+
 
 ## Strings for download mobile highlight
 
