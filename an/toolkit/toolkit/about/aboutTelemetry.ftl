@@ -23,13 +23,13 @@ about-telemetry-telemetry-dashboard = Las <a data-l10n-name="dashboard-link">Tau
 about-telemetry-telemetry-probe-dictionary = Lo <a data-l10n-name="probe-dictionary-link">diccionario de prebas</a> da detalles y descripcions para las prebas recollidas por telemetría.
 about-telemetry-show-in-Firefox-json-viewer = Ubrir lo visor de JSON
 about-telemetry-home-section = Inicio
-about-telemetry-general-data-section =   Datos chenerals
+about-telemetry-general-data-section = { "  " }Datos chenerals
 about-telemetry-environment-data-section = Datos d'o entorno
 about-telemetry-session-info-section = Información d'a sesión
 about-telemetry-scalar-section = Escalars
 about-telemetry-keyed-scalar-section = Escalars con clau
 about-telemetry-histograms-section = Histogramas
-about-telemetry-keyed-histogram-section =   Datos chenerals
+about-telemetry-keyed-histogram-section = { "  " }Datos chenerals
 about-telemetry-events-section = Eventos
 about-telemetry-simple-measurements-section = Midas simples
 about-telemetry-slow-sql-section = Consultas SQL lentas

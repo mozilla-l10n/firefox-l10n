@@ -6,6 +6,3 @@ alert-close =
     .tooltiptext = Vala esi saziso
 alert-settings-title =
     .tooltiptext = Iisetingi
-
-## Reminder Notifications
-

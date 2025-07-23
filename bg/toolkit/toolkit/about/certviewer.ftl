@@ -67,9 +67,6 @@ certificate-viewer-download-pem-chain = PEM (верига)
 certificate-viewer-critical-extension =
     .title = Това разширение е отбелязано като критично, което означава, че клиентите трябва да отхвърлят сертификата, ако не го разбират.
 
-##
-
-
 ## Labels for tabs displayed in stand-alone about:certificate page
 
 certificate-viewer-tab-mine = Вашите сертификати

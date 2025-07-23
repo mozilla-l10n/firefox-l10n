@@ -102,9 +102,6 @@ permissions-exceptions-saved-logins-window2 =
     .style = { permissions-window2.style }
 permissions-exceptions-saved-logins-desc = No es guardaran les dades d'inici de sessió dels llocs web següents:
 
-## Exceptions - Saved Passwords
-
-
 ## Exceptions - Add-ons
 
 permissions-exceptions-addons-window2 =
@@ -168,8 +165,3 @@ permissions-site-microphone-desc = Els llocs web següents han sol·licitat acc�
 permissions-site-microphone-disable-label =
     .label = Bloca les noves sol·licituds d'accés al micròfon
 permissions-site-microphone-disable-desc = Això impedirà que els llocs web que no estiguen en esta llista vos sol·licitin permís per accedir al micròfon. Blocar l'accés al micròfon podria fer que algunes funcions dels llocs web no funcionen correctament.
-
-## Site Permissions - Speaker
-##
-## "Speaker" refers to an audio output device.
-

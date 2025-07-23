@@ -35,17 +35,6 @@ neterror-captive-portal = អ្នក​ត្រូវ​តែ​ចូល​
 neterror-dns-not-found-hint-try-again = ព្យាយាមម្ដងទៀតនៅពេលក្រោយ
 neterror-dns-not-found-hint-check-network = ពិនិត្យមើលការតភ្ជាប់បណ្ដាញរបស់អ្នក
 
-## TRR-only specific messages
-## Variables:
-##   $hostname (String) - Hostname of the website to which the user was trying to connect.
-##   $trrDomain (String) - Hostname of the DNS over HTTPS server that is currently in use.
-
-
-## Native fallback specific messages
-## Variables:
-##   $trrDomain (String) - Hostname of the DNS over HTTPS server that is currently in use.
-
-
 ##
 
 neterror-file-not-found-filename = ពិនិត្យ​ឈ្មោះ​ឯកសារ​រក​មើល​អក្សរពុម្ព​ ឬ​កំហុស​ក្នុង​ការ​វាយ​ផ្សេងទៀត​ ។

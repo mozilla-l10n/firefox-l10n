@@ -131,9 +131,6 @@ delete-email-cert-impact = اگر گواهی پست الکترونیکی شخص�
 cert-with-serial =
     .value = گواهینامه با شماره سریال: { $serialNumber }
 
-## Used to show whether an override is temporary or permanent
-
-
 ## Add Security Exception dialog
 
 add-exception-branded-warning = شما در حال تغییر روشی هستید که { -brand-short-name } توسط آن این پایگاه را می‌شناسد.

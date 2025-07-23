@@ -45,15 +45,6 @@ urlbar-persistent-storage-notification-anchor =
 urlbar-addons-notification-anchor =
     .tooltiptext = Vula iphanele yokongezelela umyalezo wokufakela
 
-## Prompts users to use the Urlbar when they open a new tab or visit the
-## homepage of their default search engine.
-## Variables:
-##  $engineName (String): The name of the user's default search engine. e.g. "Google" or "DuckDuckGo".
-
-
-## Local search mode indicator labels in the urlbar
-
-
 ##
 
 urlbar-geolocation-blocked =
@@ -76,9 +67,6 @@ urlbar-star-edit-bookmark =
 #   $shortcut (String) - A keyboard shortcut for the add bookmark command.
 urlbar-star-add-bookmark =
     .tooltiptext = Faka ibhukhmakhi kweli khasi ({ $shortcut })
-
-## Page Action Context Menu
-
 
 ## Auto-hide Context Menu
 
@@ -103,22 +91,6 @@ search-one-offs-context-set-as-default =
 # submenu using this as its label.
 search-one-offs-add-engine-menu =
     .label = Fakela injini yokukhangela
-
-## Local search mode one-off buttons
-## Variables:
-##  $restrict (String): The restriction token corresponding to the search mode.
-##    Restriction tokens are special characters users can type in the urlbar to
-##    restrict their searches to certain sources (e.g., "*" to search only
-##    bookmarks).
-
-
-## QuickActions are shown in the urlbar as the user types a matching string
-## The -cmd- strings are comma separated list of keywords that will match
-## the action.
-
-
-## Bookmark Panel
-
 
 ## Identity Panel
 
@@ -160,26 +132,9 @@ browser-window-minimize-button =
 browser-window-close-button =
     .tooltiptext = Vala
 
-## Tab actions
-
-
-## These labels should be written in all capital letters if your locale supports them.
-## Variables:
-##  $count (number): number of affected tabs
-
-
-## Bookmarks toolbar items
-
-
 ## WebRTC Pop-up notifications
 
 popup-all-windows-shared = Zonke iiwindowu ezikwiskrini sakho ziya kwabiwa.
-
-## WebRTC window or screen share tab switch warning
-
-
-## DevTools F12 popup
-
 
 ## URL Bar
 
@@ -211,17 +166,6 @@ urlbar-result-action-search-w-engine = Khangela ngo { $engine }
 urlbar-result-action-switch-tab = Tshintshela kwiThebhu
 urlbar-result-action-visit = Tyelela
 
-## Strings used for buttons in the urlbar
-
-
-## Action text shown in urlbar results, usually appended after the search
-## string or the url, like "result value - action text".
-## In these actions "Search" is a verb, followed by where the search is performed.
-
-
-## Labels shown above groups of urlbar results
-
-
 ## Reader View toolbar buttons
 
 # This should match menu-view-enter-readerview in menubar.ftl
@@ -230,11 +174,6 @@ reader-view-enter-button =
 # This should match menu-view-close-readerview in menubar.ftl
 reader-view-close-button =
     .aria-label = Imo Yokufunda Esondeleyo
-
-## Picture-in-Picture urlbar button
-## Variables:
-##   $shortcut (String) - Keyboard shortcut to execute the command.
-
 
 ## Full Screen and Pointer Lock UI
 
@@ -263,11 +202,6 @@ bookmarks-other-bookmarks-menu =
 bookmarks-mobile-bookmarks-menu =
     .label = IZalathisi eZiphawulayo zeMobhayili
 
-## Variables:
-##   $isVisible (boolean): if the specific element (e.g. bookmarks sidebar,
-##                         bookmarks toolbar, etc.) is visible or not.
-
-
 ##
 
 bookmarks-search =
@@ -278,15 +212,6 @@ bookmarks-toolbar-placeholder =
     .title = Iiayithem zethulbha yeebhukhmakhi
 bookmarks-toolbar-placeholder-button =
     .label = Iiayithem zethulbha yeebhukhmakhi
-
-## Library Panel items
-
-
-## Pocket toolbar button
-
-
-## Repair text encoding toolbar button
-
 
 ## Customize Toolbar Buttons
 
@@ -316,9 +241,6 @@ toolbar-button-new-private-window =
 
 eme-notifications-drm-content-playing = Enye into evakalayo okanye ividiyo kule sayithi isebenzisa i-DRM software, which may limit what { -brand-short-name } can let you do with it.
 
-## Password save/update panel
-
-
 ##
 
 ui-tour-info-panel-close =
@@ -339,10 +261,6 @@ popups-infobar-block =
 popups-infobar-dont-show-message =
     .label = Musa ukubonisa lo myalezo xa kunqandiwe okuzivelelayo
     .accesskey = D
-
-## Since the default position for PiP controls does not change for RTL layout,
-## right-to-left languages should use "Left" and "Right" as in the English strings,
-
 
 ##
 
@@ -371,36 +289,12 @@ tabs-toolbar-list-all-tabs =
     .label = Dwelisa zonke iithebhu
     .tooltiptext = Dwelisa zonke iithebhu
 
-## Infobar shown at startup to suggest session-restore
-
-
-## Infobar shown when the user tries to open a file picker and file pickers are blocked by enterprise policy
-
-
 ## Mozilla data reporting notification (Telemetry, Firefox Health Report, etc)
 
 data-reporting-notification-message = { -brand-short-name } ithumela enye ingcombolo ngokuzenzekelayo kwi-{ -vendor-short-name } ukuze sikwazi ukuphucula amava wakho.
 data-reporting-notification-button =
     .label = Khetha into endabelana ngayo
     .accesskey = K
-
-## Unified extensions (toolbar) button
-
-
-## Unified extensions button when permission(s) are needed.
-## Note that the new line is intentionally part of the tooltip.
-
-
-## Unified extensions button when some extensions are quarantined.
-## Note that the new line is intentionally part of the tooltip.
-
-
-## Unified extensions button when some extensions are disabled (e.g. through add-ons blocklist).
-## Note that the new line is intentionally part of the tooltip.
-
-
-## Private browsing reset button
-
 
 ## Autorefresh blocker
 
@@ -409,9 +303,6 @@ refresh-blocked-redirect-label = { -brand-short-name } ithintele eli phepha ekuy
 refresh-blocked-allow =
     .label = Vumela
     .accesskey = A
-
-## Firefox Relay integration
-
 
 ## Add-on Pop-up Notifications
 
@@ -442,16 +333,3 @@ popup-warning-button =
 #   $popupURI (String): the URI for the pop-up window
 popup-show-popup-menuitem =
     .label = Bonisa '{ $popupURI }'
-
-## File-picker crash notification ("FilePickerCrashed.sys.mjs")
-
-
-# Button used with file-picker-crashed-save-default. Opens the folder in Windows
-# Explorer, with the saved file selected and in focus.
-#
-# The wording here should be consistent with the Windows variant of
-# `downloads-cmd-show-menuitem-2` and similar messages.
-
-
-## Onboarding Finish Setup checklist
-

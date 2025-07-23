@@ -32,6 +32,3 @@ fxa-menu-send-tab-to-device-syncnotready =
 fxa-menu-send-tab-to-device-description = یک زبانه را فوراً به هر دستگاهی که با آن وارد سیستم شده‌اید ارسال کنید.
 fxa-menu-sign-out =
     .label = خروج…
-
-## Sync warning strings that support the browser profiles feature, these will be shown when the user might be merging data
-

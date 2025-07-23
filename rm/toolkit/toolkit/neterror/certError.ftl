@@ -111,10 +111,6 @@ fp-learn-more-about-secure-connection-failures = Ve a savair dapli davart errurs
 fp-learn-more-about-cert-issues = Ve a savair dapli davart tals problems cun certificats
 fp-learn-more-about-time-related-errors = Ve a savair dapli davart la soluziun da problems en connex cun l’ura
 
-## Variables:
-##   $hostname (string) - Hostname of the website with cert error.
-
-
 ## Messages used for certificate error titles
 
 connectionFailure-title = Connexiun betg reussida

@@ -513,10 +513,3 @@ plugins-openh264-name = Codèc vidèo OpenH264 provesit per Cisco Systems, Inc.
 plugins-openh264-description = Aqueste plugin es automaticament installat per Mozilla per complir las especificacions WebRTC e permetre las cridas WebRTC amb los periferics que lor cal lo codec vidèo H.264. Anatz sus http://www.openh264.org/ per consultar lo còde font del codec e ne saber mai sus son implementacion.
 plugins-widevine-name = Modul de deschiframent de contengut Widevine provesit per Google Inc.
 plugins-widevine-description = Aqueste plugin permet la lectura de supòrts chifrats segon l'especificacion de las extensions de supòrts chifrats. Los mèdias chifrats son mai sovent utilizats pels sites per se protegir contra la còpia de contengut multimèdia de qualitat superiora. Visitatz https://www.w3.org/TR/encrypted-media/ per mai d'informacions sus las extensions multimèdias chifradas.
-
-## Headings for the Permissions tab in `about:addons` when the data collection
-## feature is enabled.
-
-
-## Mapping Engine IDs from AI models to how that feature represented by the engine Id is described in the used by section in local model management
-

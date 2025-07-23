@@ -222,7 +222,9 @@ tabbrowser-manager-current-window-tab-group =
     .label = { $tabGroupName }
     .tooltiptext = { $tabGroupName } — Aktuellt fönster
 
-## Tab Groups
+## Variables:
+##  $tabGroupName (String): The name of the tab group. Defaults to the value
+##                          of tab-group-name-default.
 
 tab-group-editor-title-create = Skapa flikgrupp
 tab-group-editor-title-edit = Hantera flikgrupp
@@ -252,16 +254,12 @@ tab-group-editor-color-selector2-gray = Grå
     .title = Grå
 tab-group-editor-color-selector2-red = Röd
     .title = Röd
-# Variables:
-#  $tabGroupName (String): The name of the tab group. Defaults to the value
-#                          of tab-group-name-default.
 tab-group-description = { $tabGroupName } — Flikgrupp
 tab-context-unnamed-group =
     .label = Namnlös grupp
 tab-group-name-default = Namnlös grupp
 
-## Variables:
-##  $tabCount (Number): the number of tabs that are affected by the action.
+##
 
 tab-context-move-tab-to-new-group =
     .label =

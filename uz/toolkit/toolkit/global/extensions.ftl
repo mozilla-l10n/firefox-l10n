@@ -16,9 +16,6 @@ webext-perms-header-unsigned-with-perms = { $extension } qoʻshilsinmi? Bu kenga
 webext-perms-sideload-header = { $extension } qo‘shildi
 webext-perms-optional-perms-header = { $extension } qoʻshimcha ruxsat soʻramoqda.
 
-## Headers used in the webextension permissions dialog, inside the content.
-
-
 ##
 
 webext-perms-add =
@@ -44,20 +41,6 @@ webext-perms-optional-perms-deny =
     .label = Rad qilish
     .accesskey = D
 
-## Strings for data collection permissions in the permission prompt.
-
-
-## Headers used in the webextension permissions dialog for synthetic add-ons.
-## The part of the string describing what privileges the extension gives should be consistent
-## with the value of webext-site-perms-description-gated-perms-{sitePermission}.
-## Note, this string will be used as raw markup. Avoid characters like <, >, &
-## Variables:
-##   $hostname (String): the hostname of the site the add-on is being installed from.
-
-
-##
-
-
 ## Headers used in the webextension permissions dialog.
 ## Note: This string will be used as raw markup. Avoid characters like <, >, &
 ## Variables:
@@ -70,6 +53,3 @@ webext-site-perms-header-unsigned-with-perms = { $extension } qoʻshilsinmi? Bu 
 ## These should remain in sync with permissions.NAME.label in sitePermissions.properties
 
 webext-site-perms-midi = MIDI qurilmalariga kirish
-
-## Colorway theme migration
-

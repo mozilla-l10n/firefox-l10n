@@ -5,15 +5,3 @@
 
 ### These strings appear in the Unified Extensions panel.
 
-
-## Panel
-
-
-## An extension in the main list
-
-
-## Extension's context menu
-
-
-## Notifications
-

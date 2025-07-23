@@ -21,9 +21,6 @@ perftools-heading-threads = Niti
 perftools-heading-threads-jvm = Niti JVM
 perftools-heading-local-build = Lokalna graditev
 
-##
-
-
 ## The controls for the interval at which the profiler samples the code.
 
 perftools-range-interval-label = Interval vzorčenja:
@@ -135,6 +132,3 @@ perftools-presets-power-description = Prednastavitev za preiskovanje napak pri p
 perftools-presets-debug-label = Razhroščevanje
 perftools-presets-debug-description = Prednastavitev za razhroščevanje v { -brand-shorter-name(sklon: "mestnik") }. Visoka poraba sredstev – ne uporabljajte za delo pri visoki zmogljivosti, temveč za osredotočanje na razumevanje delovanja brskalnika.
 perftools-presets-custom-label = Po meri
-
-##
-

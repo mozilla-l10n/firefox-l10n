@@ -14,12 +14,6 @@ abuse-report-cancel-button = Cealaigh
 abuse-report-next-button = Ar Aghaidh
 abuse-report-goback-button = Siar
 
-## Message bars descriptions.
-##
-## Variables:
-##   $addon-name (string) - Name of the add-on
-
-
 ## Message bars actions.
 
 abuse-report-messagebar-action-remove-extension = Bain É

@@ -35,14 +35,3 @@ about-reader-font-type-sans-serif = ছেঞ্চ-ছেৰিফ
 
 about-reader-toolbar-close = ৰিডাৰ ভিউ বন্ধ কৰক
 about-reader-toolbar-savetopocket = { -pocket-brand-name }-ত সাঁচি থওক
-
-## Reader View colors menu
-
-
-## These are used as labels for the custom theme color pickers.
-## The .title element is used to make the editing functionality
-## clear and give context for screen reader users.
-
-
-## Reader View text and layout menu
-

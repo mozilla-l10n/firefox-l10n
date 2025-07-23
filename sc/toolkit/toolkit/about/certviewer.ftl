@@ -44,9 +44,6 @@ certificate-viewer-download-pem-chain = PEM (cadena)
 certificate-viewer-export = Esporta
     .download = { $fileName }.pem
 
-##
-
-
 ## Labels for tabs displayed in stand-alone about:certificate page
 
 certificate-viewer-tab-mine = Is tzertificados tuos

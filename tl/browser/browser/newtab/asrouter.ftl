@@ -130,20 +130,6 @@ spotlight-public-wifi-vpn-link = Hindi sa Ngayon
 spotlight-better-internet-header = Ang mas mahusay na internet ay nagsisimula sa iyo
 spotlight-peace-mind-header = Kaming bahala sa iyo
 
-## MR2022 Background Update Windows native toast notification strings.
-##
-## These strings will be displayed by the Windows operating system in
-## a native toast, like:
-##
-## <b>multi-line title</b>
-## multi-line text
-## <img>
-## [ primary button ] [ secondary button ]
-##
-## The button labels are fitted into narrow fixed-width buttons by
-## Windows and therefore must be as narrow as possible.
-
-
 ## Firefox View CFR
 
 firefoxview-cfr-primarybutton = Subukan ito
@@ -166,45 +152,8 @@ colorways-cfr-header-14days = Ang Independent Voices colorways ay mag-e-expire s
 colorways-cfr-header-7days = Ang Independent Voices colorways ay mag-e-expire ngayong linggo
 colorways-cfr-header-today = Ang Independent Voices colorways ay mag-e-expire ngayon
 
-## Cookie Banner Handling CFR
-
-
 ## These strings are used in the Fox doodle Pin/set default spotlights
 
 july-jam-headline = Kaming bahala sa iyo
 july-jam-body = Buwan-buwan, hinaharang ng { -brand-short-name } ang humigit-kumulang na 3,000+ tracker bawat user, na nagbibigay sa iyo ng ligtas at mabilis na access sa mabuting internet.
 july-jam-set-default-primary = Buksan ang aking mga link gamit ang { -brand-short-name }
-
-## These strings are used in the Set Firefox as Default PDF Handler for Existing Users experiment
-
-
-## FxA sync CFR
-
-
-## Device Migration FxA Spotlight
-
-
-## Set as Default PDF Reader Infobar
-
-
-## Launch on login infobar notification
-
-
-## These string variants are used when the “launch on login” infobar
-## notification is displayed for a second time.
-
-
-## Tail Fox Set Default Spotlight
-
-
-## Root Certificate Succession Infobar
-
-
-## Root Certificate Succession Windows Background Notification
-
-
-## FxA Menu Message variants
-
-
-## Multi-CTA Fox Doodle Spotlight
-

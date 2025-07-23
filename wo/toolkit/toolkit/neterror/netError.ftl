@@ -11,26 +11,12 @@ neterror-page-title = Jumte ci yebum xët wi
 
 neterror-try-again-button = Jéemaatal
 
-##
-
-
 ## Specific error messages
 
 neterror-generic-error = xamu ñu lu tax, { -brand-short-name } mënula yeb xët wi
 neterror-load-error-try-again = Dal bi mën na nekk kenn mënu cee jot walla mu bari liggéey jeemaaatal ci kanam
 neterror-load-error-connection = Su fekkee mënuloo joow ci benn dal, seetal sa jokkoo ordinatëër ak lëkkale gi.
 neterror-load-error-firewall = Su fekkee sa ordinatëër walla sa lëkkale danu leen aar ak paarfë walla benn proxy seetal ndax { -brand-short-name } am ndigal agg ci Web bi.
-
-## TRR-only specific messages
-## Variables:
-##   $hostname (String) - Hostname of the website to which the user was trying to connect.
-##   $trrDomain (String) - Hostname of the DNS over HTTPS server that is currently in use.
-
-
-## Native fallback specific messages
-## Variables:
-##   $trrDomain (String) - Hostname of the DNS over HTTPS server that is currently in use.
-
 
 ##
 

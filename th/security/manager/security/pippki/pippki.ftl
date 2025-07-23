@@ -48,9 +48,6 @@ download-cert-view-cert =
     .label = ดู
 download-cert-view-text = ตรวจสอบใบรับรอง CA
 
-## Client Authorization Ask dialog
-
-
 ## Client Authentication Ask dialog
 
 client-auth-window =

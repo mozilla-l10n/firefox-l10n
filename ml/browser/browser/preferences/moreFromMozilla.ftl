@@ -24,9 +24,3 @@ more-from-moz-firefox-relay-button = { -relay-brand-short-name } നേടുക
 
 more-from-moz-mozilla-monitor-title = { -mozmonitor-brand-name }
 more-from-moz-mozilla-monitor-button = { -monitor-brand-short-name } നേടുക
-
-## These strings are for the Solo card in about:preferences moreFromMozilla page
-
-
-## These strings are for the MDN card in about:preferences moreFromMozilla page
-

@@ -46,17 +46,6 @@ neterror-dns-not-found-hint-try-again = Sprōbuj zaś niyskorzij
 neterror-dns-not-found-hint-check-network = Badnij na swoje połōnczynie z necym
 neterror-dns-not-found-hint-firewall = Badnij jeźli aplikacyjo { -brand-short-name } mo zgoda na połōnczynie z necym (może być szperowano ôd firewalla)
 
-## TRR-only specific messages
-## Variables:
-##   $hostname (String) - Hostname of the website to which the user was trying to connect.
-##   $trrDomain (String) - Hostname of the DNS over HTTPS server that is currently in use.
-
-
-## Native fallback specific messages
-## Variables:
-##   $trrDomain (String) - Hostname of the DNS over HTTPS server that is currently in use.
-
-
 ##
 
 neterror-file-not-found-filename = Badnij na miano zbioru, jeźli niy mo felerōw abo złyj srogości liter.

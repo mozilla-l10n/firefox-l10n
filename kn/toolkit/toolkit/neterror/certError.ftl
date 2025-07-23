@@ -21,10 +21,6 @@ cert-error-details-hsts-label = HTTP ಸ್ಟ್ರಿಕ್ಟ್ ಟ್ರಾ
 cert-error-details-key-pinning-label = HTTP ಸಾರ್ವಜನಿಕ ಕೀಲಿ ಪಿನ್ನಿಂಗ್: { $hasHPKP }
 cert-error-details-cert-chain-label = ಪ್ರಮಾಣಪತ್ರದ ಕೊಂಡಿ:
 
-## Variables:
-##   $hostname (string) - Hostname of the website with cert error.
-
-
 ## Messages used for certificate error titles
 
 connectionFailure-title = ಸಂಪರ್ಕ ಹೊಂದಲು ಸಾಧ್ಯವಾಗಿಲ್ಲ
@@ -50,10 +46,3 @@ corruptedContentError-title = ವಿಷಯ ಹಾಳಾದ ದೋಷ
 sslv3Used-title = ಸುರಕ್ಷಿತವಾಗಿ ಸಂಪರ್ಕ ಸಾಧಿಸಲು ಸಾಧ್ಯವಾಗಿಲ್ಲ
 inadequateSecurityError-title = ನಿಮ್ಮ ಸಂಪರ್ಕವು ಸುರಕ್ಷಿತವಾಗಿಲ್ಲ‍
 blockedByPolicy-title = ನಿರ್ಬಂಧಿಸಿದ ಪುಟ
-
-## Felt Privacy V1 Strings
-
-
-## Variables:
-##   $hostname (String) - Hostname of the website to which the user was trying to connect.
-

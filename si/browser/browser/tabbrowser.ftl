@@ -33,14 +33,6 @@ tabbrowser-close-tabs-tooltip =
            *[other] පටිති { $tabCount } වසන්න
         }
 
-## Tooltips for tab audio control
-## Variables:
-##   $tabCount (Number): The number of tabs that will be affected.
-
-
-## Tooltips for tab audio control
-
-
 ## Confirmation dialog when closing a window with more than one tab open,
 ## or when quitting when only one window is open.
 
@@ -77,10 +69,6 @@ tabbrowser-ask-close-tabs-with-key-checkbox = { $quitKey } මඟින් ඉ�
 #   $quitKey (String): the text of the keyboard shortcut for quitting.
 tabbrowser-confirm-close-tabs-with-key-checkbox = { $quitKey } මඟින් ඉවත් වීමට පෙර තහවුරු කරන්න
 
-## Confirmation dialog when quitting using the keyboard shortcut (Ctrl/Cmd+Q)
-## and browser.warnOnQuitShortcut is true.
-
-
 ## Confirmation dialog when opening multiple tabs simultaneously
 
 tabbrowser-confirm-open-multiple-tabs-title = විවෘත කිරීම තහවුරුව
@@ -91,9 +79,6 @@ tabbrowser-confirm-open-multiple-tabs-message =
        *[other] ඔබ පටිති { $tabCount } ක් විවෘත කිරීමට සූදානම්ය. පිටු පූරණය අතරතුර { -brand-short-name } මන්දගාමී වීමට හැකිය. ඉදිරියට යාමට වුවමනා ද?
     }
 tabbrowser-confirm-open-multiple-tabs-button = පටිති අරින්න
-
-## Confirmation dialog for enabling caret browsing
-
 
 ## Confirmation dialog for closing all duplicate tabs
 
@@ -112,9 +97,6 @@ tabbrowser-context-unmute-tab =
     .label = පටිත්ත නොනිහඬ
     .accesskey = m
 
-## Ctrl-Tab dialog
-
-
 ## Tab manager menu buttons
 ## Variables:
 ##  $tabGroupName (String): The name of the tab group. See also tab-group-name-default, which will be
@@ -122,13 +104,3 @@ tabbrowser-context-unmute-tab =
 
 tabbrowser-manager-close-tab =
     .tooltiptext = පටිත්ත වසන්න
-
-## Tab Groups
-
-
-## Variables:
-##  $tabCount (Number): the number of tabs that are affected by the action.
-
-
-## Open/saved tab group context menu
-

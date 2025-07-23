@@ -77,14 +77,6 @@ pdfjs-document-properties-producer = PDF ପ୍ରଯୋଜକ:
 pdfjs-document-properties-version = PDF ସଂସ୍କରଣ:
 pdfjs-document-properties-page-count = ପୃଷ୍ଠା ଗଣନା:
 
-## Variables:
-##   $width (Number) - the width of the (current) page
-##   $height (Number) - the height of the (current) page
-##   $unit (String) - the unit of measurement of the (current) page
-##   $name (String) - the name of the (current) page
-##   $orientation (String) - the orientation of the (current) page
-
-
 ##
 
 pdfjs-document-properties-close-button = ବନ୍ଦ କରନ୍ତୁ
@@ -142,9 +134,6 @@ pdfjs-page-scale-fit = ପୃଷ୍ଠା ମେଳନ
 pdfjs-page-scale-auto = ସ୍ୱୟଂଚାଳିତ ଭାବରେ ଛୋଟବଡ଼ କରିବା
 pdfjs-page-scale-actual = ପ୍ରକୃତ ଆକାର
 
-## PDF page
-
-
 ## Loading indicator messages
 
 pdfjs-loading-error = PDF ଧାରଣ କରିବା ସମୟରେ ଏକ ତ୍ରୁଟି ଘଟିଲା।
@@ -170,63 +159,3 @@ pdfjs-password-invalid = ଭୁଲ ପ୍ରବେଶ ସଂକେତ। ଦୟ�
 pdfjs-password-ok-button = ଠିକ ଅଛି
 pdfjs-password-cancel-button = ବାତିଲ କରନ୍ତୁ
 pdfjs-web-fonts-disabled = ୱେବ ଅକ୍ଷରରୂପଗୁଡ଼ିକୁ ନିଷ୍କ୍ରିୟ କରାଯାଇଛି: ସନ୍ନିହିତ PDF ଅକ୍ଷରରୂପଗୁଡ଼ିକୁ ବ୍ୟବହାର କରିବାରେ ଅସମର୍ଥ।
-
-## Editing
-
-
-## Default editor aria labels
-
-
-## Remove button for the various kind of editor.
-
-
-##
-
-
-## Alt-text dialog
-
-
-## Editor resizers
-## This is used in an aria label to help to understand the role of the resizer.
-
-
-## Color picker
-
-
-## Show all highlights
-## This is a toggle button to show/hide all the highlights.
-
-
-## New alt-text dialog
-## Group note for entire feature: Alternative text (alt text) helps when people can't see the image. This feature includes a tool to create alt text automatically using an AI model that works locally on the user's device to preserve privacy.
-
-
-## Image alt-text settings
-
-
-## "Annotations removed" bar
-
-
-## Add a signature dialog
-
-
-## Tab names
-
-
-## Tab panels
-
-
-## Controls
-
-
-## Dialog buttons
-
-
-## Main menu for adding/removing signatures
-
-
-## Editor toolbar
-
-
-## Edit signature description dialog
-

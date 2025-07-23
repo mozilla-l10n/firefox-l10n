@@ -5,20 +5,6 @@
 support-addons-id = ID
 features-id = ID
 
-## Media titles
-
-
-## Codec support table
-
-
-## Media Content Decryption Modules (CDM)
-## See EME Spec for more explanation for following technical terms
-## https://w3c.github.io/encrypted-media/
-
-
-##
-
-
 ## Remote Debugging
 ##
 ## The Firefox remote protocol provides low-level debugging interfaces
@@ -30,9 +16,6 @@ features-id = ID
 
 remote-debugging-url = URL
 
-##
-
-
 ## The verb "blocked" here refers to a graphics feature such as "Direct2D" or "OpenGL layers".
 
 yes = Kuvi
@@ -42,25 +25,3 @@ yes = Kuvi
 ## not found.
 
 glcontext-crash-guard = OpenGL
-
-## Variables
-## $preferenceKey (string) - String ID of preference
-
-
-## Strings representing the status of the Enterprise Policies engine.
-
-
-## Printing section
-
-
-## Remote Settings sections
-
-
-## Normandy sections
-
-
-## Pointing devices
-
-
-## Content Analysis (DLP)
-

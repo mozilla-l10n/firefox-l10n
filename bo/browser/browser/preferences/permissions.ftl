@@ -48,18 +48,12 @@ permissions-capabilities-listitem-allow-session =
 permissions-invalid-uri-title = དྲ་མིང་མི་དག་པ་བཅུག་འདུག
 permissions-invalid-uri-label = ཡང་དག་པའི་དྲ་མིང་ཞིག་འཇུག་རོགས
 
-## Exceptions - Tracking Protection
-
-
 ## Exceptions - Cookies
 
 permissions-exceptions-cookie-window2 =
     .title = Exceptions - Cookies and Site Data
     .style = { permissions-window2.style }
 permissions-exceptions-cookie-desc = You can specify which websites are always or never allowed to use cookies and site data.  Type the exact address of the site you want to manage and then click Block, Allow for Session, or Allow.
-
-## Exceptions - HTTPS-Only Mode
-
 
 ## Exceptions - Pop-ups
 
@@ -75,18 +69,12 @@ permissions-exceptions-saved-logins-window2 =
     .style = { permissions-window2.style }
 permissions-exceptions-saved-logins-desc = Logins for the following websites will not be saved
 
-## Exceptions - Saved Passwords
-
-
 ## Exceptions - Add-ons
 
 permissions-exceptions-addons-window2 =
     .title = Allowed Websites - Add-ons Installation
     .style = { permissions-window2.style }
 permissions-exceptions-addons-desc = You can specify which websites are allowed to install add-ons. Type the exact address of the site you want to allow and then click Allow.
-
-## Site Permissions - Autoplay
-
 
 ## Site Permissions - Notifications
 
@@ -108,9 +96,6 @@ permissions-site-location-disable-label =
     .label = Block new requests asking to access your location
 permissions-site-location-disable-desc = This will prevent any websites not listed above from requesting permission to access your location. Blocking access to your location may break some website features.
 
-## Site Permissions - Virtual Reality
-
-
 ## Site Permissions - Camera
 
 permissions-site-camera-window2 =
@@ -130,8 +115,3 @@ permissions-site-microphone-desc = The following websites have requested to acce
 permissions-site-microphone-disable-label =
     .label = Block new requests asking to access your microphone
 permissions-site-microphone-disable-desc = This will prevent any websites not listed above from requesting permission to access your microphone. Blocking access to your microphone may break some website features.
-
-## Site Permissions - Speaker
-##
-## "Speaker" refers to an audio output device.
-

@@ -246,13 +246,3 @@ firefoxview-recentlyclosed-empty-description-two = বহু আগৰ টেব
 
 firefoxview-syncedtabs-device-notabs = এই ডিভাইচত কোনো টেব খোলা হোৱা নাই
 firefoxview-syncedtabs-connect-another-device = অন্য এটা ডিভাইচ সংযোগ কৰক
-
-## These tooltips will be displayed when hovering over a pinned tab on the Open Tabs page
-## Variables:
-##  $tabTitle (string) - Title of pinned tab that will be opened when selected
-
-
-## These tooltips will be displayed when hovering over an unpinned Open Tab
-## Variables:
-##   $url (string) - URL of tab that will be opened when selected
-

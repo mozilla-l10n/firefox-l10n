@@ -48,14 +48,3 @@ about-reader-font-type-sans-serif = Առանց փակոցների
 about-reader-toolbar-close = Ընթերցողի դիտակէտը Փակ է
 about-reader-toolbar-type-controls = Տեսակի կառավարներ
 about-reader-toolbar-savetopocket = Պահել { -pocket-brand-name }
-
-## Reader View colors menu
-
-
-## These are used as labels for the custom theme color pickers.
-## The .title element is used to make the editing functionality
-## clear and give context for screen reader users.
-
-
-## Reader View text and layout menu
-

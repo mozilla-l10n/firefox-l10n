@@ -9,9 +9,3 @@ home = Kitsàa
 find = Nduku
 share = Stucha
 close-window = Kasi ventana
-
-## Various categories of shortcuts for search.
-
-
-##
-

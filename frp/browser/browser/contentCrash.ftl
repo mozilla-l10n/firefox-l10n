@@ -3,9 +3,6 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 
-## Subframe crash notification
-
-
 ## Pending crash reports
 
 pending-crash-reports-always-send =

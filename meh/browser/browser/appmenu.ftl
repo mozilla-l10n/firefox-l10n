@@ -184,10 +184,6 @@ appmenu-get-help =
 appmenu-help-report-site-issue =
     .label = Iyo iin tixi nuu sitio ya´a...
 
-## appmenu-help-enter-troubleshoot-mode and appmenu-help-exit-troubleshoot-mode
-## are mutually exclusive, so it's possible to use the same accesskey for both.
-
-
 ## appmenu-help-report-deceptive-site and appmenu-help-not-deceptive
 ## are mutually exclusive, so it's possible to use the same accesskey for both.
 
@@ -203,9 +199,3 @@ appmenu-help-not-deceptive =
 appmenu-customizetoolbar =
     .label = Sá´á vii barra ka̱a̱...
 appmenu-developer-tools-subheader = Da ka̱a̱ ka̱a̱ nánuku
-
-## Panel for privacy and security products
-
-
-## Profiles panel
-

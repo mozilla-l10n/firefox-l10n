@@ -975,10 +975,6 @@ unified-extensions-button-quarantined =
         Paplašinājumi
         Daži paplašinājumi nav atļauti
 
-## Unified extensions button when some extensions are disabled (e.g. through add-ons blocklist).
-## Note that the new line is intentionally part of the tooltip.
-
-
 ## Private browsing reset button
 
 reset-pbm-toolbar-button =
@@ -1074,6 +1070,3 @@ file-picker-crashed-save-nowhere = Nevarēja atvērt Windows datņu dialoglodzi�
 file-picker-crashed-show-in-folder =
     .label = Rādīt mapē
     .accessKey = m
-
-## Onboarding Finish Setup checklist
-

@@ -14,50 +14,9 @@ perftools-heading-settings = എല്ലാ ക്രമീകരണങ്ങ�
 
 ##
 
-
-## The controls for the interval at which the profiler samples the code.
-
-
-##
-
 perftools-devtools-settings-label = ക്രമീകരണങ്ങള്‍
-
-## Various statuses that affect the current state of profiling, not typically displayed.
-
-
-## These are shown briefly when the user is waiting for the profiler to respond.
-
 
 ##
 
 perftools-button-save-settings = ക്രമീകരണങ്ങൾ കരുതിവച്ചിട്ടു് തിരിച്ചു് ചെല്ലുക
 perftools-button-edit-settings = ക്രമീകരണങ്ങൾ തിരുത്തുക…
-
-## More actions menu
-
-
-## These messages are descriptions of the threads that can be enabled for the profiler.
-
-
-##
-
-
-## Onboarding UI labels. These labels are displayed in the new performance panel UI, when
-## devtools.performance.new-panel-onboarding preference is true.
-
-
-## Profiler presets
-
-
-# Presets and their l10n IDs are defined in the file
-# devtools/client/performance-new/shared/background.jsm.js
-# The same labels and descriptions are also defined in appmenu.ftl.
-
-
-# Presets and their l10n IDs are defined in the file
-# devtools/client/performance-new/shared/background.sys.mjs
-# The same labels and descriptions are also defined in appmenu.ftl.
-
-
-##
-

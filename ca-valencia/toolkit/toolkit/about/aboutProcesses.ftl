@@ -27,28 +27,6 @@ about-processes-browser-process = { -brand-short-name } ({ $pid })
 about-processes-file-process = Fitxers ({ $pid })
 about-processes-gpu-process = GPU ({ $pid })
 
-## Isolated process names
-## Variables:
-##    $pid (String) The process id of this process, assigned by the OS.
-##    $origin (String) The domain name for this process.
-
-
-## Details within processes
-
-
-## Utility process actor names
-
-
-## Displaying CPU (percentage and total)
-## Variables:
-##    $percent (Number) The percentage of CPU used by the process or thread.
-##                      Always > 0, generally <= 200.
-##    $total (Number) The amount of time used by the process or thread since
-##                    its start.
-##    $unit (String) The unit in which to display $total. See the definitions
-##                   of `duration-unit-*`.
-
-
 ## Displaying Memory (total and delta)
 ## Variables:
 ##    $total (Number) The amount of memory currently used by the process.
@@ -62,9 +40,3 @@ about-processes-gpu-process = GPU ({ $pid })
 
 # Special case: no change.
 about-processes-total-memory-size-no-change = { NUMBER($total, maximumFractionDigits: 0) } { $totalUnit }
-
-## Duration units
-
-
-## Memory units
-

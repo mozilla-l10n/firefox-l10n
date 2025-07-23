@@ -8,13 +8,3 @@ about-logging-set-log-file = Defineix el fitxer de registre
 about-logging-set-log-modules = Defineix els mòduls de registre
 about-logging-start-logging = Inicia el registre
 about-logging-stop-logging = Atura el registre
-
-## Logging presets
-
-
-##
-
-
-## The upload interface is shown only with the preference toolkit.aboutLogging.uploadProfileToCloud
-## set to true. It is false by default, except on Android.
-

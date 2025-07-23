@@ -39,11 +39,6 @@ printui-options = Opțiuni
 printui-headers-footers-checkbox = Tipărește antete și subsoluri
 printui-backgrounds-checkbox = Tipărește fundaluri
 
-## The "Format" section, select a version of the website to print. Radio
-## options to select between the original page, selected text only, or a version
-## where the page is processed with "Reader View".
-
-
 ##
 
 printui-color-mode-label = Mod color
@@ -58,9 +53,6 @@ printui-primary-button = Tipărește
 printui-primary-button-save = Salvează
 printui-cancel-button = Anulează
 printui-loading = Se pregătește previzualizarea
-
-## Paper sizes that may be supported by the Save to PDF destination:
-
 
 ## Error messages shown when a user has an invalid input
 

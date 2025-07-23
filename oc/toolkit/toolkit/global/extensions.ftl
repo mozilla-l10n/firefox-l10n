@@ -17,9 +17,6 @@ webext-perms-header-unsigned-with-perms = Apondre { $extension } ? Aquesta ext
 webext-perms-sideload-header = { $extension } es estat apondut
 webext-perms-optional-perms-header = { $extension } demanda de permissions suplementàrias.
 
-## Headers used in the webextension permissions dialog, inside the content.
-
-
 ##
 
 webext-perms-add =
@@ -73,9 +70,6 @@ webext-perms-host-description-too-many-sites =
        *[other] Accedir a vòstras donadas dins { $domainCount } autres sites
     }
 
-## Strings for data collection permissions in the permission prompt.
-
-
 ## Headers used in the webextension permissions dialog for synthetic add-ons.
 ## The part of the string describing what privileges the extension gives should be consistent
 ## with the value of webext-site-perms-description-gated-perms-{sitePermission}.
@@ -85,9 +79,6 @@ webext-perms-host-description-too-many-sites =
 
 webext-site-perms-header-with-gated-perms-midi = Aqueste modul complementari dòna accès a { $hostname } a vòstres periferics MIDI.
 webext-site-perms-header-with-gated-perms-midi-sysex = Aqueste modul complementari dòna accès a { $hostname } a vòstres periferics MIDI (amb presa en carga de SysEx)
-
-##
-
 
 ## Headers used in the webextension permissions dialog.
 ## Note: This string will be used as raw markup. Avoid characters like <, >, &
@@ -102,6 +93,3 @@ webext-site-perms-header-unsigned-with-perms = Apondre { $extension } ? Aquest
 
 webext-site-perms-midi = Accedir als periferics MIDI
 webext-site-perms-midi-sysex = Accedir als periferics MIDI compatibles amb SysEx
-
-## Colorway theme migration
-

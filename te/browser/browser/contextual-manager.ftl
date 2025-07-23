@@ -89,11 +89,3 @@ contextual-manager-passwords-list-label =
     .aria-label = సంకేతపదాలు
 contextual-manager-copy-icon =
     .alt = కాపీచేయి
-
-## When the user has no saved passwords, we display the following messages to inform the user they can save
-## their passwords safely and securely in Firefox:
-
-
-## When the user cancels a login that's currently being edited, we display a message to confirm whether
-## or not the user wants to discard their current edits to the login.
-

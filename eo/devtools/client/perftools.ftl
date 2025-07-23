@@ -152,6 +152,3 @@ perftools-presets-power-description = Agordoj por senerarigo de uzo de energio e
 perftools-presets-debug-label = Senerarigi
 perftools-presets-debug-description = Antaŭagordo por senerarigo en { -brand-shorter-name }. Tio postulas multe pli da rimedoj, ne uzu por mezuri efikecon sed por pli koncentriĝe kompreni la konduton de la retumilo.
 perftools-presets-custom-label = Personecigita
-
-##
-

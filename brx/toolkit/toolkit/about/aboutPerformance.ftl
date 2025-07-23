@@ -3,22 +3,9 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 
-## Column headers
-
-
 ## Special values for the Name column
 
 ghost-windows = बावैसो बन्द खालामनाय टेबफोर
-
-## Values for the Type column
-
-
-## Values for the Energy Impact column
-##
-## Variables:
-##   $value (Number) - Value of the energy impact, eg. 0.25 (low),
-##                     5.38 (medium), 105.38 (high)
-
 
 ## Values for the Memory column
 ##

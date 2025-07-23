@@ -33,9 +33,6 @@ download-cert-view-cert =
     .label = Amharc
 download-cert-view-text = Scrúdaigh Teastas an Údaráis Deimhniúcháin
 
-## Client Authorization Ask dialog
-
-
 ## Client Authentication Ask dialog
 
 client-auth-window =
@@ -78,6 +75,3 @@ set-password-backup-pw =
 set-password-repeat-backup-pw =
     .value = Focal faire an chúltaca teastais (arís):
 set-password-reminder = Tábhachtach: má dhéanann tú dearmad ar an bhfocal faire don chúltaca teastais ní bheidh tú in ann an cúltaca seo a chur ar ais. Breac síos tuairisc de in áit shlán.
-
-## Protected authentication alert
-

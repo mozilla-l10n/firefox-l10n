@@ -45,9 +45,3 @@ about-networking-rcwn-avg-long = Garš vidējais
 about-networking-rcwn-std-dev-long = Gara standarta nobīde
 about-networking-rcwn-cache-slow = Kešatmiņas lēnumu skaits
 about-networking-rcwn-cache-not-slow = Kešatmiņas ne lēnumu skaits
-
-## Link is intended as "network link"
-
-
-##
-

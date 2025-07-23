@@ -15,13 +15,3 @@ storage-context-menu-copy =
 #   $itemName (String) - Name of the storage item that will be deleted
 storage-context-menu-delete =
     .label = Stoò “{ $itemName }”
-
-## Header names of the columns in the Storage Table for each type of storage available
-## through the Storage Tree to the side.
-
-
-## Labels for Storage type groups present in the Storage Tree, like cookies, local storage etc.
-
-
-##
-

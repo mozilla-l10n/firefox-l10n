@@ -31,10 +31,3 @@ screenshots-private-window-error-title = ખાનગી બ્રાઉઝિ�
 screenshots-private-window-error-details = અસુવીધી બદલ માફી. અમે ભવિષ્યના પ્રકાશનો માટે આ સુવિધા પર કામ કરી રહ્યા છીએ.
 screenshots-generic-error-title = થોભો!  { -screenshots-brand-name } અવ્યવસ્થિત થઈ ગયા.
 screenshots-generic-error-details = અમે ખાતરી નથીકે શું માત્ર થયું છે . ફરી પ્રયાસ કરો અથવા એક અલગ પૃષ્ઠ એક શોટ લેવા માટે કાળજી કરો?
-
-## The below strings are used to capture keydown events so the strings should
-## not be changed unless the keyboard layout in the locale requires it.
-
-
-##
-

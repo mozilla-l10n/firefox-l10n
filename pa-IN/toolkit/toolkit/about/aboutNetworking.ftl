@@ -64,6 +64,3 @@ about-networking-moved-about-logging = ਇਸ ਸਫ਼ੇ ਨੂੰ <a data-l10n-n
 
 about-networking-networkid-is-up = ਲਿੰਕ ਚਾਲੂ ਹੈ
 about-networking-networkid-status-known = ਲਿੰਕ ਸਥਿਤੀ ਜਾਣੀ ਹੈ
-
-##
-

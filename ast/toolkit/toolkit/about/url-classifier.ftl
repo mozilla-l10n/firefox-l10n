@@ -26,7 +26,3 @@ url-classifier-debug-title = Depuración
 url-classifier-trigger-update = Aicionar l'anovamientu
 url-classifier-not-available = N/D
 url-classifier-cannot-update = nun pue anovase
-
-## Variables
-##   $error (string) - Error message
-

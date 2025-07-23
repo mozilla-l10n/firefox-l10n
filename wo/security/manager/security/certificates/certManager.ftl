@@ -34,16 +34,10 @@ certmgr-add-exception =
 exception-mgr-cert-location-url =
     .value = Màkkaan :
 
-## PKCS#12 file dialogs
-
-
 ## Import certificate(s) file dialog
 
 import-ca-certs-prompt = Fal ab dencukaay bu am benn walla ñaari sarsifikaa AC bu (yu) wara fatu
 import-email-cert-prompt = Fal ab dencukaay bu am sarsifikaa imeel bu wara fatu
-
-## For editing certificates trust
-
 
 ## For Deleting Certificates
 
@@ -54,13 +48,7 @@ delete-email-cert-title =
     .title = Màbb sarsifikaa imeel
 delete-email-cert-confirm = Ndax bëgg nga dëgg màbb sarsifikaa imeel yu nit ñii?
 
-## Used to show whether an override is temporary or permanent
-
-
 ## Add Security Exception dialog
 
 add-exception-valid-short = Sarsifika bu dëggu
 add-exception-checking-short = Settantal xibaar yi
-
-## Certificate export "Save as" and error dialogs
-

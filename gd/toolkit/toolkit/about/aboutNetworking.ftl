@@ -63,6 +63,3 @@ about-networking-moved-about-logging = This page has been moved to <a data-l10n-
 
 about-networking-networkid-is-up = Tha an ceangal ag obair
 about-networking-networkid-status-known = Tha sinn eòlach air staid a’ cheangail
-
-##
-

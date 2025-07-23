@@ -48,18 +48,12 @@ permissions-capabilities-listitem-allow-session =
 permissions-invalid-uri-title = မှားယွင်းနေသောဟိုစ့်ဖြစ်နေသည်
 permissions-invalid-uri-label = အလုပ်လုပ်သောတည်ရှိနေရာကိုထည့်ပါ
 
-## Exceptions - Tracking Protection
-
-
 ## Exceptions - Cookies
 
 permissions-exceptions-cookie-window2 =
     .title = ခြွင်းချက်များ - ကွတ်ကီးများနှင့် ဆိုက်အချက်အလက်
     .style = { permissions-window2.style }
 permissions-exceptions-cookie-desc = သင်သည် မည်သည့် ၀တ်ဆိုက်အား ကွတ်ကီးများနှင့် ဆိုက်ဒေတာများ အမြဲခွင့်မြဲမည် အမြဲငြင်မည် ကို သတ်မှတ်နိုင်သည်။   တိကျသော၀တ်ဆိုက်လိပ်စာအားရိုက်ကာ ပိတ်မည်(သို့)ခွင့်ပြုမည်တစ်ခုခုလုပ်နိုင်သည်။ ဆိုက်လိပ်စာ ကို တိတိကျကျ ရိုက်ကာ ဆက်အလိုက်ဖြစ်စေ အမြဲဖြစ်စေ ခွင့်ပြုနိုင် ငြင်ပယ်နိုင်သည်။
-
-## Exceptions - HTTPS-Only Mode
-
 
 ## Exceptions - Pop-ups
 
@@ -75,18 +69,12 @@ permissions-exceptions-saved-logins-window2 =
     .style = { permissions-window2.style }
 permissions-exceptions-saved-logins-desc = အောက်ပါဆိုက်များအတွက် ဝင်ရောက်မှုများကို သိမ်းထားမည် မဟုတ်ပါ။
 
-## Exceptions - Saved Passwords
-
-
 ## Exceptions - Add-ons
 
 permissions-exceptions-addons-window2 =
     .title = ခွင့်ပြုထားသောဆိုက်များ - ထပ်မံဖြည့်စွက်မှုများ လုပ်ခြင်း
     .style = { permissions-window2.style }
 permissions-exceptions-addons-desc = သင်သည်မည်သည့်၀တ်ဆိုက်အားအတ်အွန်များသွင်းခွင့်ပေးမည်ကို ခန့်ခွဲနိုင်သည်။သင်ခွင့်ပြုလိုသော၀တ်ဆိုက်အားတိကျစွာရိုက်ကာ ခွင့်ပြုမည်ကိုနှိပ်ပါ။
-
-## Site Permissions - Autoplay
-
 
 ## Site Permissions - Notifications
 
@@ -104,9 +92,6 @@ permissions-site-location-window2 =
 permissions-site-location-disable-label =
     .label = တည်နေရာကို အသုံးပြုရန် တောင်းဆိုမှုအသစ်များကို တားဆီးပါ
 
-## Site Permissions - Virtual Reality
-
-
 ## Site Permissions - Camera
 
 permissions-site-camera-window2 =
@@ -122,8 +107,3 @@ permissions-site-microphone-window2 =
     .style = { permissions-window2.style }
 permissions-site-microphone-disable-label =
     .label = မိုက္ကရိုဖုန်းအသုံးပြုရန် တောင်းဆိုမှုအသစ်များကို တားဆီးပါ
-
-## Site Permissions - Speaker
-##
-## "Speaker" refers to an audio output device.
-

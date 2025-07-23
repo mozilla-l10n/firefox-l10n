@@ -10,14 +10,6 @@ learn-more = <span data-l10n-name="link">מידע נוסף</span>
 ## In the Rule View when a CSS property cannot be successfully applied we display
 ## an icon. When this icon is hovered this message is displayed to explain why
 ## the property is not applied.
-## Variables:
-##   $property (string) - A CSS property name e.g. "color".
-##   $display (string) - A CSS display value e.g. "inline-block".
-
-
-## In the Rule View when a CSS property cannot be successfully applied we display
-## an icon. When this icon is hovered this message is displayed to explain why
-## the property is not applied.
 ## The variables are all passed from the same place, in `InactiveCssTooltipHelper#getTemplate`
 ## (devtools/client/shared/widgets/tooltip/inactive-css-tooltip-helper.js#95)
 ## Variables:
@@ -32,16 +24,6 @@ inactive-css-not-flex-container = ל־<strong>{ $property }</strong> אין הש
 inactive-css-property-because-of-display = ל־<strong>{ $property }</strong> אין השפעה על רכיב זה מכיוון שה־display שלו מוגדר כ־<strong>{ $display }</strong>.
 inactive-css-not-display-block-on-floated = הערך של <strong>display</strong> השתנה על־ידי המנוע ל־<strong>block</strong> מכיוון שהרכיב הוא <strong>floated</strong>.
 inactive-css-property-is-impossible-to-override-in-visited = אי אפשר לדרוס את <strong>{ $property }</strong> עקב מגבלת <strong>‎:visited</strong>.
-
-## In the Rule View when a CSS property cannot be successfully applied we display
-## an icon. When this icon is hovered this message is displayed to explain why
-## the property is not applied.
-## The variables are all passed from the same place, in `InactiveCssTooltipHelper#getTemplate`
-## (devtools/client/shared/widgets/tooltip/inactive-css-tooltip-helper.js#95)
-## Variables:
-##   $property (string) - A CSS property name e.g. "color".
-##   $display (string) - A CSS display value e.g. "inline-block".
-
 
 ## In the Rule View when a CSS property cannot be successfully applied we display
 ## an icon. When this icon is hovered this message is displayed to explain how
@@ -74,8 +56,3 @@ inactive-css-text-wrap-balance-fragmented-fix = יש להימנע מפיצול �
 
 css-compatibility-default-message = ‏‎<strong>{ $property }</strong> אינו נתמך בדפדפנים הבאים:
 css-compatibility-learn-more-message = <span data-l10n-name="link">מידע נוסף</span> על <strong>{ $rootProperty }</strong>
-
-## In the Rule View when a rule selector can causes issues, we display an icon.
-## When this icon is hovered one or more of those messages are displayed to explain what
-## the issue are.
-

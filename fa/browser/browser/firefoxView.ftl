@@ -218,9 +218,6 @@ firefoxview-view-more-browsing-history = مشاهدهٔ تاریخچهٔ مرو�
 firefoxview-history-empty-header = به جایی که بوده‌اید برگردید
 firefoxview-history-empty-description = همان‌طور که به گشت‌و‌گذار می‌پردازید، صفحات بازدیدشدهٔ شما در اینجا فهرست خواهند شد.
 
-##
-
-
 ## Message displayed in Firefox View when the user has chosen to never remember History
 
 firefoxview-dont-remember-history-empty-header = چیزی برای نمایش نیست
@@ -248,13 +245,3 @@ firefoxview-syncedtabs-device-notabs = هیچ زبانه‌ای در این دس
 firefoxview-syncedtabs-connect-another-device = دستگاه دیگری را متصل کنید
 firefoxview-tabs =
     .title = زبانه‌ها
-
-## These tooltips will be displayed when hovering over a pinned tab on the Open Tabs page
-## Variables:
-##  $tabTitle (string) - Title of pinned tab that will be opened when selected
-
-
-## These tooltips will be displayed when hovering over an unpinned Open Tab
-## Variables:
-##   $url (string) - URL of tab that will be opened when selected
-

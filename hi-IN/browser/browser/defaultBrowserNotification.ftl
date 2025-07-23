@@ -9,8 +9,3 @@
 
 default-browser-prompt-button-primary-alt = तयशुदा ब्राउज़र के रूप में सेट करें
 default-browser-prompt-button-secondary = अभी नहीं
-
-## Strings for a Windows native guidance notification when the user is forced to
-## use Windows Settings to set the default browser. Instructions differ for
-## Windows 10 and 11.
-

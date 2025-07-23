@@ -7,10 +7,3 @@ places-file-close =
     .accesskey = C
 places-cmd-close =
     .key = w
-
-## Strings used as a placeholder in the Library search field. For example,
-## "Search History" stands for "Search through the browser's history".
-
-
-##
-

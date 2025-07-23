@@ -374,10 +374,6 @@ addon-detail-private-browsing-help = When allooed, the extension will hae ingang
 addon-detail-private-browsing-allow = Alloo
 addon-detail-private-browsing-disallow = Dinnae Alloo
 
-## "sites with restrictions" (internally called "quarantined") are special domains
-## where add-ons are normally blocked for security reasons.
-
-
 ## This is the tooltip text for the recommended badges for an extension in about:addons. The
 ## badge is a small icon displayed next to an extension when it is recommended on AMO.
 
@@ -468,10 +464,3 @@ plugins-openh264-name = OpenH264 Video Codec providit by Cisco Systems, Inc.
 plugins-openh264-description = This plugin is automatically instawed by Mozilla fur tae haud tae the WebRTC specification and tae enable WebRTC caws wi devices that need the H.264 video codec. Veesit https://www.openh264.org/ tae hae a luik at the codec soorce code and lairn mair aboot how it's implementit.
 plugins-widevine-name = Widevine Content Decryption Module providit by Google Inc.
 plugins-widevine-description = This plugin enables playback o encryptit media in keepin wi the Encryptit Media Extensions specification. Encryptit media is fur ordinar yaised by sites fur tae bield against copyin o premium media content. Veesit https://www.w3.org/TR/encrypted-media/ fur mair information on Encryptit Media Extensions.
-
-## Headings for the Permissions tab in `about:addons` when the data collection
-## feature is enabled.
-
-
-## Mapping Engine IDs from AI models to how that feature represented by the engine Id is described in the used by section in local model management
-

@@ -30,14 +30,6 @@ safeb-blocked-phishing-page-learn-more = ભ્રામક સાઇટ્સ �
 ## Variables
 ##  $sitename (string) - Domain name for the blocked page
 
-
-## Variables
-##  $sitename (string) - Domain name for the blocked page
-
-
-## Variables
-##  $sitename (string) - Domain name for the blocked page
-
 safeb-blocked-unwanted-page-error-desc-override = <span data-l10n-name='sitename'>{ $sitename }</span> એ <a data-l10n-name='error_desc_link'>હાનિકારક સૉફ્ટવેર શામેલ હોવા તરીકે અહેવાલ છે</a>. તમે <a data-l10n-name='ignore_warning_link'>જોખમને અવગણો</a> અને આ અસુરક્ષિત સાઇટ પર જઈ શકો છો.
 safeb-blocked-unwanted-page-error-desc-no-override = <span data-l10n-name='sitename'>{ $sitename }</span> એ <a data-l10n-name='error_desc_link'>હાનિકારક સૉફ્ટવેર શામેલ હોવા તરીકે અહેવાલ છે </a>.
 

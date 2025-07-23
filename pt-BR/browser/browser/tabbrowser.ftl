@@ -221,13 +221,15 @@ tabbrowser-manager-close-tab =
 # This is for tab groups that have been "saved and closed" (see tab-group-editor-action-save). It does
 # not include "deleted" tab groups (see tab-group-editor-action-delete).
 tabbrowser-manager-closed-tab-group =
-    .label = 	{ $tabGroupName }
-    .tooltiptext = 	{ $tabGroupName } — Fechado
+    .label = { "\u0009" }{ $tabGroupName }
+    .tooltiptext = { "\u0009" }{ $tabGroupName } — Fechado
 tabbrowser-manager-current-window-tab-group =
-    .label = 	{ $tabGroupName }
-    .tooltiptext = 	{ $tabGroupName } — Janela atual
+    .label = { "\u0009" }{ $tabGroupName }
+    .tooltiptext = { "\u0009" }{ $tabGroupName } — Janela atual
 
-## Tab Groups
+## Variables:
+##  $tabGroupName (String): The name of the tab group. Defaults to the value
+##                          of tab-group-name-default.
 
 tab-group-editor-title-create = Criar grupo de abas
 tab-group-editor-title-edit = Gerenciar grupo de abas
@@ -257,16 +259,12 @@ tab-group-editor-color-selector2-gray = Cinza
     .title = Cinza
 tab-group-editor-color-selector2-red = Vermelho
     .title = Vermelho
-# Variables:
-#  $tabGroupName (String): The name of the tab group. Defaults to the value
-#                          of tab-group-name-default.
 tab-group-description = { $tabGroupName } — Grupo de abas
 tab-context-unnamed-group =
     .label = Grupo sem nome
 tab-group-name-default = Grupo sem nome
 
-## Variables:
-##  $tabCount (Number): the number of tabs that are affected by the action.
+##
 
 tab-context-move-tab-to-new-group =
     .label =

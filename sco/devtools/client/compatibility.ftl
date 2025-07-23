@@ -7,9 +7,6 @@
 
 compatibility-all-elements-header = Aw Issues
 
-## Message used as labels for the type of issue
-
-
 ## Messages used as labels and titles for buttons in the footer
 
 compatibility-settings-button-label = Settins
@@ -19,6 +16,3 @@ compatibility-settings-button-title =
 ## Messages used as headers in settings pane
 
 compatibility-settings-header = Settins
-
-##
-

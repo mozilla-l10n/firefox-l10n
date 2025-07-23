@@ -7,10 +7,6 @@ search-header =
     .placeholder = Çerca in addons.mozilla.org
     .searchbuttonlabel = Çerca
 
-## Variables
-##   $domain - Domain name where add-ons are available (e.g. addons.mozilla.org)
-
-
 ##
 
 list-empty-installed =
@@ -198,29 +194,12 @@ shortcuts-card-collapse-button = Mostra meno
 header-back-button =
     .title = Vanni inderê
 
-## Recommended add-ons page
-
-
 ## Add-on actions
 
 remove-addon-button = Scancella
 disable-addon-button = Dizabilita
 enable-addon-button = Abilita
 permissions-addon-button = Permissi
-
-## Pending uninstall message bar
-
-
-## "sites with restrictions" (internally called "quarantined") are special domains
-## where add-ons are normally blocked for security reasons.
-
-
-## This is the tooltip text for the recommended badges for an extension in about:addons. The
-## badge is a small icon displayed next to an extension when it is recommended on AMO.
-
-
-##
-
 
 ## Page headings
 
@@ -273,10 +252,3 @@ plugins-gmp-privacy-info = Informaçion in sciâ privacy
 plugins-openh264-name = Codec video OpenH264 fæto da Cisco Systems, Inc.
 plugins-openh264-description = Sto plugin o vegne instalou aotomaticamente da Mozilla, in conformitæ co-e specifiche WebRTC, per consentire chiamate con dispositivi che richiedono un codec video H.264. Vixita http://www.openh264.org/ pe amiate o còdice sorgente e descovrî atre cöse in sce l'inplementaçion.
 plugins-widevine-name = Mòdolo Widevine Content Decryption fornio da Google Inc.
-
-## Headings for the Permissions tab in `about:addons` when the data collection
-## feature is enabled.
-
-
-## Mapping Engine IDs from AI models to how that feature represented by the engine Id is described in the used by section in local model management
-

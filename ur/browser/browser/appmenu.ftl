@@ -127,12 +127,12 @@ profiler-popup-capture-button =
 profiler-popup-start-shortcut =
     { PLATFORM() ->
         [macos] ⌃⇧1
-       *[other] 	Ctrl+Shift+1
+       *[other] { "\u0009" }Ctrl+Shift+1
     }
 profiler-popup-capture-shortcut =
     { PLATFORM() ->
-        [macos] 	⌃⇧2
-       *[other] 	Ctrl+Shift+2
+        [macos] { "\u0009" }⌃⇧2
+       *[other] { "\u0009" }Ctrl+Shift+2
     }
 
 ## Profiler presets
@@ -188,10 +188,6 @@ appmenu-get-help =
 appmenu-help-report-site-issue =
     .label = سائٹ مسلہ… رپورٹ کریں
 
-## appmenu-help-enter-troubleshoot-mode and appmenu-help-exit-troubleshoot-mode
-## are mutually exclusive, so it's possible to use the same accesskey for both.
-
-
 ## appmenu-help-report-deceptive-site and appmenu-help-not-deceptive
 ## are mutually exclusive, so it's possible to use the same accesskey for both.
 
@@ -207,9 +203,3 @@ appmenu-help-not-deceptive =
 appmenu-customizetoolbar =
     .label = ٹول بار کی تخصیص کریں…
 appmenu-developer-tools-subheader = براؤزر ٹولز
-
-## Panel for privacy and security products
-
-
-## Profiles panel
-

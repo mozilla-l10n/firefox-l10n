@@ -158,6 +158,3 @@ perftools-presets-power-description = Pśednastajenje za wuslěźenje zmólkow w
 perftools-presets-debug-label = Za zmólkami pytaś
 perftools-presets-debug-description = Pśednastajenje za pytanje zmólkow w { -brand-shorter-name }. Wusoka dodatna śěža, njewužywajśo jo za wugbaśowe źěło, ale wužywajśo jo, aby se na rozměśe zaźaržanja wobglědowaka fokusěrował.
 perftools-presets-custom-label = Swójski
-
-##
-

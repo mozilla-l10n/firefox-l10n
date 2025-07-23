@@ -111,12 +111,6 @@ about-webauthn-auth-info-true = Đúng
 about-webauthn-auth-info-false = Sai
 about-webauthn-auth-info-null = Không hỗ trợ
 
-## Bio enrollment sample feedbacks
-
-
-## Scan (e.g. of fingerprint) was off-center (e.g. too high, too left, etc.).
-
-
 ##
 
 about-webauthn-ctap2-enroll-feedback-no-user-activity = Không có hoạt động từ người dùng.

@@ -64,6 +64,3 @@ about-networking-moved-about-logging = ایں ورقہ کوں <a data-l10n-name=
 
 about-networking-networkid-is-up = لنک اوتے ہے
 about-networking-networkid-status-known = لنک دی حیثیت معلوم ہے۔
-
-##
-

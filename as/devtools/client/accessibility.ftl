@@ -24,8 +24,3 @@ accessibility-fail =
 ## with its text label or accessible name.
 
 accessibility-text-label-issue-image = ছবি থকা সমল লেবেলযুক্ত কৰিবই লাগিব। <a>অধিক জানক</a>
-
-## Text entries for a paragraph used in the accessibility panel sidebar's checks section
-## that describe that currently selected accessible object has a keyboard accessibility
-## issue.
-

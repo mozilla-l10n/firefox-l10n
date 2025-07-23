@@ -228,9 +228,6 @@ about-logins-vulnerable-alert-title = Poula segreta vulnerabile
 about-logins-vulnerable-alert-link = Vànni a { $hostname }
 about-logins-vulnerable-alert-learn-more-link = Atre informaçioin
 
-## Error Messages
-
-
 ## Login Export Dialog
 
 # The default file name shown in the file picker when exporting saved logins.
@@ -287,11 +284,3 @@ about-logins-import-report-row-description-error = Erô: Manca 'n canpo
 
 about-logins-import-report-row-description-error-multiple-values = Erô: Gh'é tanti valoî pe { $field }
 about-logins-import-report-row-description-error-missing-field = Erô: Manca { $field }
-
-##
-## Variables:
-##  $count (number) - The number of affected elements
-
-
-## Logins import report page
-

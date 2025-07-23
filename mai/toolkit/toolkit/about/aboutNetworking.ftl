@@ -23,9 +23,3 @@ about-networking-messages-sent = भेजल गेल सन्देश
 about-networking-messages-received = संदेश प्राप्त
 about-networking-bytes-sent = बाइट भेजल
 about-networking-bytes-received = पाओल बाइट
-
-## Link is intended as "network link"
-
-
-##
-

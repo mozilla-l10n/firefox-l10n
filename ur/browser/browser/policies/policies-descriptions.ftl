@@ -61,9 +61,6 @@ policy-Homepage = ابتدائی صفحہ سیٹ کریں اور اختیاری 
 policy-InstallAddonsPermission = چند ویب سائٹص کو اظافہ جات کی تنسیب کاری کی اجازت دیں۔
 policy-LegacyProfiles = ہر انسٹالیشن کے لئے ایک علیحدہ پروفائل نافذ کرنے والی خصوصیت کو غیر فعال کریں۔
 
-## Do not translate "SameSite", it's the name of a cookie attribute.
-
-
 ##
 
 policy-LocalFileLinks = مخصوص ویب سائٹوں کو مقامی فائلوں سے لنک کرنے کی اجازت دیں۔

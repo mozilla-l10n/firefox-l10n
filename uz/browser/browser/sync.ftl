@@ -29,6 +29,3 @@ fxa-menu-send-tab-to-device-syncnotready =
 fxa-menu-send-tab-to-device-description = Varaqni hisobingizdan kirilgan boshqa qurilmaga yuboring.
 fxa-menu-sign-out =
     .label = Chiqish…
-
-## Sync warning strings that support the browser profiles feature, these will be shown when the user might be merging data
-

@@ -224,7 +224,9 @@ tabbrowser-manager-current-window-tab-group =
     .label = { $tabGroupName }
     .tooltiptext = { $tabGroupName } – Aktueel finster
 
-## Tab Groups
+## Variables:
+##  $tabGroupName (String): The name of the tab group. Defaults to the value
+##                          of tab-group-name-default.
 
 tab-group-editor-title-create = Ljepblêdgroep meitsje
 tab-group-editor-title-edit = Ljepblêdgroep beheare
@@ -254,16 +256,12 @@ tab-group-editor-color-selector2-gray = Griis
     .title = Griis
 tab-group-editor-color-selector2-red = Read
     .title = Read
-# Variables:
-#  $tabGroupName (String): The name of the tab group. Defaults to the value
-#                          of tab-group-name-default.
 tab-group-description = { $tabGroupName } – Ljepblêdgroep
 tab-context-unnamed-group =
     .label = Nammeleaze groep
 tab-group-name-default = Nammeleaze groep
 
-## Variables:
-##  $tabCount (Number): the number of tabs that are affected by the action.
+##
 
 tab-context-move-tab-to-new-group =
     .label =

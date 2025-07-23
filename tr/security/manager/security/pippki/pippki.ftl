@@ -48,9 +48,6 @@ download-cert-view-cert =
     .label = Göster
 download-cert-view-text = CA sertifikasını incele
 
-## Client Authorization Ask dialog
-
-
 ## Client Authentication Ask dialog
 
 client-auth-window =

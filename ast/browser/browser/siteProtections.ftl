@@ -43,9 +43,3 @@ protections-blocking-tracking-content =
     .title = Conteníu que rastrexa ensin bloquiar
 protections-blocking-social-media-trackers =
     .title = Rastrexadores de redes sociales bloquiaos
-
-## Footer and Milestones sections in the Protections Panel
-## Variables:
-##   $trackerCount (Number): number of trackers blocked
-##   $date (Date): the date on which we started counting
-

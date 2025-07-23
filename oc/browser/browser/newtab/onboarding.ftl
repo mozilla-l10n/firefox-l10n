@@ -377,12 +377,6 @@ onboarding-flair-text = Novetat
 
 onboarding-checklist-extension = Apondre una extension
 
-## Tab Groups feature onboarding strings
-
-
 ## Multi Profiles feature onboarding messages
 
 multi-profile-callout-cta = Crear un perfil
-
-## Desktop to Mobile Adoption feature callout strings
-

@@ -5,8 +5,3 @@
 about-httpsonly-explanation-question = Qué puede estar causando esto?
 about-httpsonly-button-go-back = Ir enta zaga
 about-httpsonly-link-learn-more = Saber-ne mas…
-
-## Suggestion Box that only shows up if a secure connection to www can be established
-## Variables:
-##   $websiteUrl (String) - Url of the website that can be securely loaded with these alternatives. Example: example.com
-

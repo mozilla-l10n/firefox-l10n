@@ -34,9 +34,3 @@ about-networking-rcwn-status = Estáu de RCWN
 about-networking-rcwn-operation = Operación de la caché
 about-networking-rcwn-avg-short = Media curtia
 about-networking-rcwn-avg-long = Media llarga
-
-## Link is intended as "network link"
-
-
-##
-

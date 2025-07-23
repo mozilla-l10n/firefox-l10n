@@ -3,9 +3,6 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 
-## Change Password dialog
-
-
 ## Reset Primary Password dialog
 
 reset-password-button-label =
@@ -18,15 +15,3 @@ download-cert-window2 =
     .style = min-width: 46em
 download-cert-view-cert =
     .label = Mbwíʔ
-
-## Client Authorization Ask dialog
-
-
-## Client Authentication Ask dialog
-
-
-## Set password (p12) dialog
-
-
-## Protected authentication alert
-

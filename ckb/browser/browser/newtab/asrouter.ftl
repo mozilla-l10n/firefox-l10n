@@ -78,85 +78,9 @@ cfr-whatsnew-release-notes-link-text = سەرنجەکانی وەشان بخوێ�
 cfr-doorhanger-milestone-ok-button = هەمووی ببینە
     .accesskey = S
 
-## DOH Message
-
-
 ## Full Video Support CFR message
 
 cfr-doorhanger-video-support-body = ڤیدیۆکان لەوانەیە لەم ماڵپەڕە بە باشی کارنەکات لەم وەشانەی { -brand-short-name }. بۆ پشتگیری تەواو، تکایە { -brand-short-name } نوێبکەرەوە ئێستا.
 cfr-doorhanger-video-support-header = { -brand-short-name } نوێبکەرەوە بۆ پێکردنی ڤیدیۆ
 cfr-doorhanger-video-support-primary-button = ئێستا نوێیبکەرەوە
     .accesskey = ئ
-
-## VPN promotion dialog for public Wi-Fi users
-##
-## If a user is detected to be on a public Wi-Fi network, they are given a
-## bit of info about how to improve their privacy and then offered a button
-## to the Mozilla VPN page and a link to dismiss the dialog.
-
-
-## Emotive Continuous Onboarding
-
-
-## MR2022 Background Update Windows native toast notification strings.
-##
-## These strings will be displayed by the Windows operating system in
-## a native toast, like:
-##
-## <b>multi-line title</b>
-## multi-line text
-## <img>
-## [ primary button ] [ secondary button ]
-##
-## The button labels are fitted into narrow fixed-width buttons by
-## Windows and therefore must be as narrow as possible.
-
-
-## Firefox View CFR
-
-
-## Firefox View Spotlight
-
-
-## Colorways expiry reminder CFR
-
-
-## Cookie Banner Handling CFR
-
-
-## These strings are used in the Fox doodle Pin/set default spotlights
-
-
-## These strings are used in the Set Firefox as Default PDF Handler for Existing Users experiment
-
-
-## FxA sync CFR
-
-
-## Device Migration FxA Spotlight
-
-
-## Set as Default PDF Reader Infobar
-
-
-## Launch on login infobar notification
-
-
-## These string variants are used when the “launch on login” infobar
-## notification is displayed for a second time.
-
-
-## Tail Fox Set Default Spotlight
-
-
-## Root Certificate Succession Infobar
-
-
-## Root Certificate Succession Windows Background Notification
-
-
-## FxA Menu Message variants
-
-
-## Multi-CTA Fox Doodle Spotlight
-

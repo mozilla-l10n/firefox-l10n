@@ -24,6 +24,3 @@ toolbox-meatball-menu-community-label = কমিউনিটি…
 # to stay visible on blur, which is primarily useful for addon developers and Firefox
 # contributors.
 toolbox-meatball-menu-noautohide-label = পপআপ স্বয়ংক্রিয়-আড়াল নিষ্ক্রিয় করুন
-
-## These labels are shown in the top-toolbar in the Browser Toolbox and Browser Console
-

@@ -161,14 +161,6 @@ media-capabilities-title = Medijos galimybės
 # List all the entries of the database.
 media-capabilities-enumerate = Išvardinti duomenų bazės turinį
 
-## Codec support table
-
-
-## Media Content Decryption Modules (CDM)
-## See EME Spec for more explanation for following technical terms
-## https://w3c.github.io/encrypted-media/
-
-
 ##
 
 intl-title = Internacionalizacija ir lokalizacija
@@ -378,9 +370,6 @@ support-printing-modified-settings = Pakeistos spausdinimo nuostatos
 support-printing-prefs-name = Pavadinimas
 support-printing-prefs-value = Reikšmė
 
-## Remote Settings sections
-
-
 ## Normandy sections
 
 support-remote-experiments-title = Nuotoliniai eksperimentai
@@ -390,9 +379,3 @@ support-remote-experiments-see-about-studies = Paskaitykite <a data-l10n-name="s
 support-remote-features-title = Nuotolinės funkcijos
 support-remote-features-name = Pavadinimas
 support-remote-features-status = Būsena
-
-## Pointing devices
-
-
-## Content Analysis (DLP)
-

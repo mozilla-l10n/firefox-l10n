@@ -32,6 +32,3 @@ search-history = Historia
 search-opentabs = Irekitako fitxak
 search-tags = Etiketak
 search-titles = Izenburuak
-
-##
-

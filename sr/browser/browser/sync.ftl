@@ -36,6 +36,3 @@ fxa-menu-sign-out =
     .label = Одјави ме…
 fxa-menu-sync-description = Приступите интернету било где
 sync-setup-verify-continue = Настави
-
-## Sync warning strings that support the browser profiles feature, these will be shown when the user might be merging data
-

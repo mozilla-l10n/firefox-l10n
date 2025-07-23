@@ -18,13 +18,3 @@ about-logging-stop-logging = أوقف تسجيل الوقائع
 about-logging-info = معلومات:
 about-logging-log-modules-selection = اختيار وحدة السجل
 about-logging-new-log-modules = وحدات سجل جديدة:
-
-## Logging presets
-
-
-##
-
-
-## The upload interface is shown only with the preference toolkit.aboutLogging.uploadProfileToCloud
-## set to true. It is false by default, except on Android.
-

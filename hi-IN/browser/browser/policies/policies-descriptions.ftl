@@ -50,9 +50,6 @@ policy-HardwareAcceleration = अगर गलत है, तो हार्ड
 policy-Homepage = सेट और वैकल्पिक रूप से मुखपृष्ठ लॉक करें।
 policy-InstallAddonsPermission = कुछ वेबसाइटों को ऐड-ऑन संस्थापित करने की अनुमति दें।
 
-## Do not translate "SameSite", it's the name of a cookie attribute.
-
-
 ##
 
 policy-LocalFileLinks = विशिष्ट वेबसाइटों को स्थानीय फ़ाइलों से लिंक करने की अनुमति दें।

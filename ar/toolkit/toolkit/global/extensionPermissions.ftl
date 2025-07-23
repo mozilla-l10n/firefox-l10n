@@ -40,12 +40,3 @@ webext-perms-description-webNavigation = الوصول إلى نشاط المتص
 webext-perms-extra-warning-userScripts-long = قد تشكل السكربتات غير الموثوقة مخاطر أمنية وخصوصية، مثل تشغيل أكواد ضارة أو تتبع نشاط موقع الوِب. شغّل السكربتات من الامتدادات أو المصادر التي تثق بها فقط.
 # A shorter warning is displayed in UI surfaces with little room, such as a permission prompt.
 webext-perms-extra-warning-userScripts-short = قد تشكل السكربتات غير الموثوقة مخاطر أمنية وخصوصية، شغّل السكربتات من الامتدادات أو المصادر التي تثق بها فقط.
-
-## Short form to be used in lists or in a string (`webext-perms-description-data-some`)
-## that formats some of the data collection permissions below using `Intl.ListFormat`.
-##
-## This is used when the data collection permissions are required.
-
-
-## Long form to be used in `about:addons` when these data collection permissions are optional.
-

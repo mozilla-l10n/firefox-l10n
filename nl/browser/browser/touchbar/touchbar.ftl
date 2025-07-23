@@ -32,6 +32,3 @@ search-history = Geschiedenis
 search-opentabs = Open tabbladen
 search-tags = Labels
 search-titles = Titels
-
-##
-

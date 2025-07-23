@@ -37,9 +37,6 @@ options-default-color-unit-hsl = HSL
 options-default-color-unit-rgb = RGB
 options-default-color-unit-name = गाबनि मुं
 
-## Web Console section
-
-
 ## Style Editor section
 
 # The heading
@@ -48,9 +45,6 @@ options-styleeditor-label = आदब सुजुगिरि
 options-stylesheet-autocompletion-label = हार्सिं-जोबनाय CSS
 options-stylesheet-autocompletion-tooltip =
     .title = नोंथाङा टाइप खालामनाय बादि आदब सुजुगिरिआव हार्सिं-फोजोबनाय CSS आखुथाय, बेसेन आरो सायखग्रा दं
-
-## Screenshot section
-
 
 ## Editor section
 

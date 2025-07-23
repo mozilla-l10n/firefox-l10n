@@ -64,6 +64,3 @@ about-networking-moved-about-logging = Trang này đã được chuyển đến 
 
 about-networking-networkid-is-up = Liên kết hoạt động
 about-networking-networkid-status-known = Tình trạng liên kết đã biết
-
-##
-

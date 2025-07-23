@@ -52,10 +52,6 @@ screenshots-component-download-button-2 = Изтегляне
     .title = Изтегляне ({ $shortcut })
     .aria-label = Изтегляне
 
-## The below strings are used to capture keydown events so the strings should
-## not be changed unless the keyboard layout in the locale requires it.
-
-
 ##
 
 # This string represents the selection size area

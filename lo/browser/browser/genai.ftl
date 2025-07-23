@@ -3,9 +3,6 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 
-## Generative AI (GenAI) Settings section
-
-
 ## Chatbot prompts
 ## Prompts are plain language ‘instructions’ sent to a chatbot.
 ## These prompts have been made concise and direct in English because some chatbot providers
@@ -58,9 +55,6 @@ genai-options-show-shortcut =
 genai-options-hide-shortcut =
     .label = ເຊື່ອງທາງລັດໃນເວລາເລືອກຂໍ້ຄວາມ
 
-## Chatbot footer
-
-
 ## Chatbot onboarding
 
 genai-onboarding-primary = ສືບຕໍ່
@@ -103,6 +97,3 @@ genai-onboarding-lechat-price = ຟຣີ; ແຕ່ຕ້ອງມີບັນ�
 
 genai-model-optin-continue =
     .label = ສືບຕໍ່
-
-## Link previews
-

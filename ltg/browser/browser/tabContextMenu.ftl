@@ -44,7 +44,3 @@ bookmark-selected-tabs =
 move-to-new-window =
     .label = Puorīt iz jaunu lūgu
     .accesskey = P
-
-## Variables:
-##  $tabCount (Number): the number of tabs that are affected by the action.
-

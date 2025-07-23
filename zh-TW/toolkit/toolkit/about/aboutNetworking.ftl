@@ -64,6 +64,3 @@ about-networking-moved-about-logging = 此頁面已移動至 <a data-l10n-name="
 
 about-networking-networkid-is-up = 網路已連線
 about-networking-networkid-status-known = 已知網路連線狀態
-
-##
-

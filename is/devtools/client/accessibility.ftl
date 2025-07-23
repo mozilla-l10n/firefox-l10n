@@ -30,8 +30,3 @@ accessibility-best-practices =
 ## with its text label or accessible name.
 
 accessibility-text-label-issue-toolbar = Verkfærastikur verða að vera merktar þegar fleiri en ein verkfærastika er í notkun. <a>Frekari upplýsingar</a>
-
-## Text entries for a paragraph used in the accessibility panel sidebar's checks section
-## that describe that currently selected accessible object has a keyboard accessibility
-## issue.
-

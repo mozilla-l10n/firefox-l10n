@@ -183,7 +183,7 @@ duration-unit-d = dni
 
 ## Memory units
 
-memory-unit-B =  B
+memory-unit-B = { " " }B
 memory-unit-KB = KB
 memory-unit-MB = MB
 memory-unit-GB = GB

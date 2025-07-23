@@ -317,6 +317,3 @@ about-webrtc-hide-msg-sdp = Kaŝi SDP
 about-webrtc-media-context-show-msg = Montri aŭdvidan kuntekston
 about-webrtc-media-context-hide-msg = Kaŝi aŭdvidan kuntekston
 about-webrtc-media-context-heading = Aŭdvidan kuntekston
-
-##
-

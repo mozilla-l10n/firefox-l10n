@@ -347,11 +347,6 @@ about-logins-import-report-row-description-added2 = కొత్త సంకే
 
 ##
 ## Variables:
-##  $field (String) - The name of the field from the CSV file for example url, username or password
-
-
-##
-## Variables:
 ##  $count (number) - The number of affected elements
 
 about-logins-import-report-error =

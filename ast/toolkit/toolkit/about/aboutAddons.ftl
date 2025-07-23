@@ -113,13 +113,6 @@ addon-updates-view-updates = Ver los anovamientos de recién
 addon-updates-update-addons-automatically = Anovar automáticamente los complementos
     .accesskey = A
 
-## Specific add-ons can have custom update checking behaviors ("Manually",
-## "Automatically", "Use default global behavior"). These menu items reset the
-## update checking behavior for all add-ons to the default global behavior
-## (which itself is either "Automatically" or "Manually", controlled by the
-## extensions-updates-update-addons-automatically.label menu item).
-
-
 ## Status messages displayed when updating add-ons
 
 addon-updates-updating = Anovando los complementos
@@ -260,10 +253,6 @@ addon-detail-private-browsing-help = Al permitilo, la estensión va tener accesu
 addon-detail-private-browsing-allow = Permitir
 addon-detail-private-browsing-disallow = Nun permitir
 
-## "sites with restrictions" (internally called "quarantined") are special domains
-## where add-ons are normally blocked for security reasons.
-
-
 ## This is the tooltip text for the recommended badges for an extension in about:addons. The
 ## badge is a small icon displayed next to an extension when it is recommended on AMO.
 
@@ -352,10 +341,3 @@ plugins-openh264-name = Códec de videu OpenH264 apurríu por Cisco Systems, Inc
 plugins-openh264-description = Esti plugin instálalu automáticamente Mozilla pa cumplir cola especificación WebRTC y pa permitir llamaes WebRTC con preseos que riquen el códec de videu H.264. Visita http://www.openh264.org/ pa ver el códigu fonte del códec y lleer más tocante a la implementación.
 plugins-widevine-name = Módulu de descifráu de conteníu Widevine apurríu por Google Inc.
 plugins-widevine-description = Esti plugin activa la reproducción del conteníu multimedia cifráu acordies cola especificación d'Estensiones Multimedia Cifraes (EME). Davezu, los sitios usen conteníu multimedia cifráu pa protexer la copia d'esi conteníu prémium. Visita https://www.w3.org/TR/encrypted-media/ pa consiguir más información tocante a les Estensiones Multimedia Cifraes (EME)
-
-## Headings for the Permissions tab in `about:addons` when the data collection
-## feature is enabled.
-
-
-## Mapping Engine IDs from AI models to how that feature represented by the engine Id is described in the used by section in local model management
-

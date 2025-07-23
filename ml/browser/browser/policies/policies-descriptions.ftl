@@ -53,9 +53,6 @@ policy-HardwareAcceleration = തെറ്റാണെങ്കില്‍, ഹ
 policy-HttpsOnlyMode = HTTPS-മാത്രം പരിയെ സജ്ജമാക്കാൻ അനുവദിക്കുക
 policy-InstallAddonsPermission = ചില വെബ്സൈറ്റുകളെ ആഡ്-ഓണുകള്‍ സന്നിവേശിപ്പിയ്ക്കാന്‍ അനുവദിക്കുക.
 
-## Do not translate "SameSite", it's the name of a cookie attribute.
-
-
 ##
 
 policy-LocalFileLinks = നിർദ്ദിഷ്ട വെബ്സൈറ്റുകൾക്കു് പ്രാദേശിക ഫയലുകളുമായി ബന്ധിപ്പിക്കാന്‍ അനുവദിക്കുക.

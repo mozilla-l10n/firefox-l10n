@@ -12,9 +12,6 @@ about-webrtc-document-title = WebRTC ខាង​ក្នុង
 # translated. This string is used as a title for a file save dialog box.
 about-webrtc-save-page-dialog-title = រក្សា​ទុក about:webrtc ជា
 
-## These labels are for a disclosure which contains the information for closed PeerConnection sections
-
-
 ## AEC is an abbreviation for Acoustic Echo Cancellation.
 
 about-webrtc-aec-logging-msg-label = ការ​ចុះ​កំណត់ហេតុ AEC
@@ -54,11 +51,6 @@ about-webrtc-ice-state = សភាព ICE
 # "Stats" is an abbreviation for Statistics.
 about-webrtc-ice-stats-heading = សភាព ICE
 
-## These adjectives are used to label a line of statistics collected for a peer
-## connection. The data represents either the local or remote end of the
-## connection.
-
-
 ##
 
 # This adjective is used to label a table column. Cells in this column contain
@@ -93,11 +85,6 @@ about-webrtc-log-section-hide-msg = លាក់​កំណត់​ហេត�
 about-webrtc-connection-open = [ { $browser-id } | { $id } ] { $url } { $now }
 about-webrtc-connection-closed = [ { $browser-id } | { $id } ] { $url } (បាន​បិទ) { $now }
 
-## These are used to indicate what direction media is flowing.
-## Variables:
-##  $codecs - a list of media codecs
-
-
 ##
 
 about-webrtc-local-candidate = បេក្ខជន​ក្នុង​ស្រុក
@@ -113,23 +100,6 @@ about-webrtc-fold-default-hide-msg = លាក់​ព័ត៌មាន​ល�
     .title = ចុច​ដើម្បី​បង្រួម​ផ្នែក​នេះ
 about-webrtc-decoder-label = កម្ម​វិធី​ឌីកូដ
 about-webrtc-encoder-label = កម្ម​វិធី​អុីន​កូដ
-
-## SSRCs are identifiers that represent endpoints in an RTP stream
-
-
-## These are displayed on the button that shows or hides the
-## PeerConnection configuration disclosure
-
-
-##
-
-
-## These are displayed on the button that shows or hides the
-## user modified configuration disclosure
-
-
-##
-
 
 ##
 
@@ -147,18 +117,3 @@ about-webrtc-save-page-complete-msg = បាន​រក្សា​​ទុក
 # Variables:
 #   $jitter (Number) - The jitter.
 about-webrtc-jitter-label = ម៉ឺងម៉ាត់ { $jitter }
-
-## "SDP" is an abbreviation for Session Description Protocol, an IETF standard.
-## See http://wikipedia.org/wiki/Session_Description_Protocol
-
-
-## These are displayed on the button that shows or hides the SDP information disclosure
-
-
-## These are displayed on the button that shows or hides the Media Context information disclosure.
-## The Media Context is the set of preferences and detected capabilities that informs
-## the negotiated CODEC settings.
-
-
-##
-

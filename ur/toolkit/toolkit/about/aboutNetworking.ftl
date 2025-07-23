@@ -47,9 +47,3 @@ about-networking-rcwn-cache-slow = کیشیں کی دھیمی شمارات
 about-networking-rcwn-cache-not-slow = کیشیں کی غیر دھیمی شمارات
 about-networking-networkid = نیٹ ورک کی شناخت
 about-networking-networkid-id = نیٹ ورک کی شناخت
-
-## Link is intended as "network link"
-
-
-##
-

@@ -48,9 +48,6 @@ download-cert-view-cert =
     .label = Pogled
 download-cert-view-text = Ispitaj CA-ov certifikat
 
-## Client Authorization Ask dialog
-
-
 ## Client Authentication Ask dialog
 
 client-auth-window =
@@ -105,6 +102,3 @@ set-password-backup-pw =
 set-password-repeat-backup-pw =
     .value = Lozinka sigurnosne kopije certifikata (još jednom):
 set-password-reminder = Važno: ako zaboraviš svoju lozinku sigurnosne kopije certifikata, kasnije nećeš moći obnoviti ovu sigurnosnu kopiju. Spremi lozinku na sigurno mjesto.
-
-## Protected authentication alert
-

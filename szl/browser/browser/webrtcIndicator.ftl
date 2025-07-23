@@ -78,7 +78,7 @@ webrtc-indicator-sharing-browser =
 ## These strings are only used on Mac for menus attached to icons
 ## near the clock on the mac menubar.
 ## Variables:
-##   $streamTitle (String): the title of the tab using the share.
+##   $streamTitle (String): the host of the tab using the share.
 ##   $tabCount (Number): the title of the tab using the share.
 
 webrtc-indicator-menuitem-control-sharing =
@@ -156,9 +156,6 @@ webrtc-allow-share-camera-and-microphone = Dać serwerowi { $origin } używać k
 webrtc-allow-share-camera-and-audio-capture = Dać serwerowi { $origin } używać kamery i suchać źwiynku z tyj karty?
 webrtc-allow-share-screen-and-microphone = Dać serwerowi { $origin } używać mikrofōnu i widzieć twōj ekran?
 webrtc-allow-share-screen-and-audio-capture = Dać serwerowi { $origin } suchać źwiynku z tyj karty i widzieć twōj ekran?
-
-## Special phrasing for sharing devices when the origin is a file url.
-
 
 ## Variables:
 ##   $origin (String): the first party origin.

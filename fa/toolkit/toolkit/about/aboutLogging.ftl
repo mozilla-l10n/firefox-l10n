@@ -19,10 +19,3 @@ about-logging-preset-windows-label = ویندوز
 about-logging-preset-custom-label = سفارشی
 # Error handling
 about-logging-error = خطا:
-
-##
-
-
-## The upload interface is shown only with the preference toolkit.aboutLogging.uploadProfileToCloud
-## set to true. It is false by default, except on Android.
-

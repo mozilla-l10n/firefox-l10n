@@ -102,9 +102,6 @@ permissions-exceptions-saved-logins-window2 =
     .style = { permissions-window2.style }
 permissions-exceptions-saved-logins-desc = Järgnevate saitide kasutajakontosid ei salvestata
 
-## Exceptions - Saved Passwords
-
-
 ## Exceptions - Add-ons
 
 permissions-exceptions-addons-window2 =
@@ -168,8 +165,3 @@ permissions-site-microphone-desc = Järgmised saidid on avaldanud soovi ligipä�
 permissions-site-microphone-disable-label =
     .label = Bloki uued mikrofonile ligipääsemise soovid
 permissions-site-microphone-disable-desc = See takistab kõigil ülal mitte välja toodud saitidel mikrofonile ligipääsu kohta soovi avaldada. Mikrofonile ligipääsu blokkimine võib põhjustada probleeme mõne saidi töötamises.
-
-## Site Permissions - Speaker
-##
-## "Speaker" refers to an audio output device.
-

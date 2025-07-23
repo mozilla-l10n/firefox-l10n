@@ -17,12 +17,3 @@ delete-profile-bookmarks = ఇష్టాంశాలు
 delete-profile-cancel = రద్దుచేయి
 # Button label
 delete-profile-confirm = తొలగించు
-
-## These strings are color themes available to select from the profile selection screen. Theme names should be localized.
-
-
-## Alternative text for default profile icons
-
-
-## Labels for default avatar icons
-

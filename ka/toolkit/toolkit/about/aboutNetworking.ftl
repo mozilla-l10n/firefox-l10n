@@ -64,6 +64,3 @@ about-networking-moved-about-logging = გვერდის ახალი მ
 
 about-networking-networkid-is-up = ქსელის მაკავშირებელი გამართულია
 about-networking-networkid-status-known = ქსელის მაკავშირებლის მდგომარეობა უცნობია
-
-##
-

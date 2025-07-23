@@ -25,10 +25,3 @@ screenshots-unshootable-page-error-title = No poemmo fâ 'na föto do schermo de
 screenshots-unshootable-page-error-details = Sta chi a no l'é 'na pagina Web standard, coscì no peu faghe 'na föto do schermo.
 screenshots-generic-error-title = Ahime mi! { -screenshots-brand-name } o s'é ciantou.
 screenshots-generic-error-details = Niatri no emmo ben acapio cöse l'é sucesso. Ti peu miga preuvâ co-ina pagina dispægia?
-
-## The below strings are used to capture keydown events so the strings should
-## not be changed unless the keyboard layout in the locale requires it.
-
-
-##
-

@@ -513,10 +513,3 @@ plugins-openh264-name = Cisco Systems, Inc دے ذریعہ فراہم کردہ O
 plugins-openh264-description = ایہ پلگ ان Mozilla دے ذریعہ WebRTC تفصیلاں دی تعمیل کرݨ تے WebRTC کالز کوں انہاں آلات دے نال فعال کرݨ کیتے آپݨے آپ انسٹال کیتا ویندا ہے جنہاں کیتے H.264 ویڈیو کوڈیک دی لوڑ ہوندی ہے۔ کوڈیک سورس کوڈ ݙیکھݨ تے عمل درآمد دے بارے ودھیک ڄاݨݨ کیتے https://www.openh264.org/ ملاحظہ کرو۔
 plugins-widevine-name = گوگل انکارپوریٹڈ دے ذریعہ فراہم کردہ وائڈوائن مواد ڈکرپشن ماڈیول۔
 plugins-widevine-description = ایہ پلگ ان انکرپٹڈ میڈیا ایکسٹینشن دیاں تفصیلاں دے مطابق انکرپٹڈ میڈیا دے پلے بیک کوں قابل بݨیندا ہے۔ خفیہ کردہ میڈیا عام طور تے سائٹاں دے ذریعہ پریمیم میڈیا مواد دی کاپی کرݨ کنوں بچاوݨ کیتے استعمال کیتا ویندا ہے۔ انکرپٹڈ میڈیا ایکسٹینشنز دے بارے ودھیک معلومات کیتے https://www.w3.org/TR/encrypted-media/ ملاحظہ کرو۔
-
-## Headings for the Permissions tab in `about:addons` when the data collection
-## feature is enabled.
-
-
-## Mapping Engine IDs from AI models to how that feature represented by the engine Id is described in the used by section in local model management
-

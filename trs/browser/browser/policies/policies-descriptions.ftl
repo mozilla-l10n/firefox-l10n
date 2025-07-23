@@ -59,9 +59,6 @@ policy-HardwareAcceleration = Si sê sa yangà'a huin, duyichin' sa nagi'iaj hì
 policy-Homepage = Nachrun asi narrán akuan' riña pajinâ gayi'ìt.
 policy-InstallAddonsPermission = Ga'nïn riña da'aj pâjina gà'nïn sa nata'a.
 
-## Do not translate "SameSite", it's the name of a cookie attribute.
-
-
 ##
 
 policy-LocalFileLinks = Ga'nïn riña nej sîtio nagi'iaj duguì'ij nej archibô lokâ.

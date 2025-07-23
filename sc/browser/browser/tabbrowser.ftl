@@ -224,7 +224,9 @@ tabbrowser-manager-current-window-tab-group =
     .label = { $tabGroupName }
     .tooltiptext = { $tabGroupName } — Ventana atuale
 
-## Tab Groups
+## Variables:
+##  $tabGroupName (String): The name of the tab group. Defaults to the value
+##                          of tab-group-name-default.
 
 tab-group-editor-title-create = Crea unu grupu de ischedas
 tab-group-editor-title-edit = Gesti su grupu de ischedas
@@ -254,16 +256,12 @@ tab-group-editor-color-selector2-gray = Chinisu
     .title = Chinisu
 tab-group-editor-color-selector2-red = Ruju
     .title = Ruju
-# Variables:
-#  $tabGroupName (String): The name of the tab group. Defaults to the value
-#                          of tab-group-name-default.
 tab-group-description = { $tabGroupName } — Grupu de ischedas
 tab-context-unnamed-group =
     .label = Grupu chene nòmine
 tab-group-name-default = Grupu chene nòmine
 
-## Variables:
-##  $tabCount (Number): the number of tabs that are affected by the action.
+##
 
 tab-context-move-tab-to-new-group =
     .label =

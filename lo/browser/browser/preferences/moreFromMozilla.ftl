@@ -25,12 +25,3 @@ more-from-moz-learn-more-link = ຮຽນຮູ້ເພີ່ມເຕີມ
 more-from-moz-firefox-relay-title = { -relay-brand-name }
 more-from-moz-firefox-relay-description = ປົກປ້ອງກ່ອງຈົດໝາຍ ແລະຕົວຕົນຂອງທ່ານດ້ວຍການໃສ່ໜ້າກາກອີເມວຟຣີ.
 more-from-moz-firefox-relay-button = ເອົາ { -relay-brand-short-name }
-
-## These strings are for the Mozilla Monitor card in about:preferences moreFromMozilla page
-
-
-## These strings are for the Solo card in about:preferences moreFromMozilla page
-
-
-## These strings are for the MDN card in about:preferences moreFromMozilla page
-

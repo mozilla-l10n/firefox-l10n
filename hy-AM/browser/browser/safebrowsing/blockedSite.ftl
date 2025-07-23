@@ -30,14 +30,6 @@ safeb-blocked-phishing-page-learn-more = Իմացեք ավելին խաբուս�
 ## Variables
 ##  $sitename (string) - Domain name for the blocked page
 
-
-## Variables
-##  $sitename (string) - Domain name for the blocked page
-
-
-## Variables
-##  $sitename (string) - Domain name for the blocked page
-
 safeb-blocked-unwanted-page-error-desc-override = <span data-l10n-name='sitename'>{ $sitename }</span>-ը <a data-l10n-name='error_desc_link'>զեկուցվել է որպես վնասակար ծրագրաշար պարունակով</a>: Դուք կարող եք <a data-l10n-name='ignore_warning_link'>անտեսել վտանգը</a> և անցնել այդ ոչ ապահով կայքին:
 safeb-blocked-unwanted-page-error-desc-no-override = <span data-l10n-name='sitename'>{ $sitename }</span>-ը <a data-l10n-name='error_desc_link'>զեկուցվել է որպես վնասակար ծրագրաշար պարունակող</a>:
 

@@ -69,10 +69,6 @@ open-in-new-window-for-csp-or-xfo-error = سائٹ نویں ونڈو وچ کھو
 #   $hostname (string) - Hostname of the website blocked by csp or xfo error.
 csp-xfo-blocked-long-desc = تہاݙی سلامتی دے تحفظ کیتے، { $hostname } دی طرفوں { -brand-short-name } کوں ورقہ ݙکھاوݨ دی اجازت کینا ملسے جے  کہیں ٻئی سائٹ ایندے وِچ سرایت کر گھدی ہووے۔ ایں ورقے کوں ݙیکھݨ کیتے تہاکوں اینکوں ہک نویں ونڈو وِچ کھولݨ دی ضرورت ہے۔
 
-## Variables:
-##   $hostname (string) - Hostname of the website with cert error.
-
-
 ## Messages used for certificate error titles
 
 connectionFailure-title = جڑݨ وچ ناکام ریہا
@@ -118,7 +114,3 @@ certerror-mitm-title = سافٹ ویئر { -brand-short-name } کوں سائٹ  
 
 fp-certerror-advanced-title = ودھایا
 fp-certerror-advanced-button = ودھایا
-
-## Variables:
-##   $hostname (String) - Hostname of the website to which the user was trying to connect.
-

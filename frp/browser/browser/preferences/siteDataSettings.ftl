@@ -18,6 +18,3 @@ site-data-remove-selected =
 site-data-remove-all =
     .label = Tot garar
     .accesskey = T
-
-## Removing
-

@@ -24,6 +24,3 @@ toolbox-meatball-menu-community-label = Jamoa…
 # to stay visible on blur, which is primarily useful for addon developers and Firefox
 # contributors.
 toolbox-meatball-menu-noautohide-label = Qalqib chiqadigan oynalarni avtoyashirishni o‘chirib qo‘yish
-
-## These labels are shown in the top-toolbar in the Browser Toolbox and Browser Console
-

@@ -100,28 +100,10 @@ media-device-channels = ຊ່ອງ
 media-device-rate = ອັດຕາ
 media-device-latency = ການຍືດເວລາ
 
-## Codec support table
-
-
-## Media Content Decryption Modules (CDM)
-## See EME Spec for more explanation for following technical terms
-## https://w3c.github.io/encrypted-media/
-
-
 ##
 
 intl-app-title = ການຕັ້ງຄ່າແອັບພິເຄຊັ່ນ
 intl-os-title = ລະ​ບົບ​ປະ​ຕິ​ບັດ​ການ
-
-## Remote Debugging
-##
-## The Firefox remote protocol provides low-level debugging interfaces
-## used to inspect state and control execution of documents,
-## browser instrumentation, user interaction simulation,
-## and for subscribing to browser-internal events.
-##
-## See also https://firefox-source-docs.mozilla.org/remote/
-
 
 ##
 
@@ -227,18 +209,3 @@ touch-warning = async ການແຕະໄດ້ຖືກປິດການປ�
 policies-inactive = ປິດການໃຊ້ງານ
 policies-active = ເປີດໃຊ້ງານຢູ່
 policies-error = ຂໍ້ຜິດພາດ
-
-## Printing section
-
-
-## Remote Settings sections
-
-
-## Normandy sections
-
-
-## Pointing devices
-
-
-## Content Analysis (DLP)
-

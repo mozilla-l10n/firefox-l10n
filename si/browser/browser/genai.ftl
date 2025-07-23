@@ -74,9 +74,6 @@ genai-options-hide-shortcut =
 genai-options-about-chatbot =
     .label = { -brand-short-name } හි AI කතා ක්‍රමලේඛ ගැන
 
-## Chatbot footer
-
-
 ## Chatbot onboarding
 
 # "Switch anytime" refers to allowing the user to switch to a different chatbot.
@@ -123,9 +120,3 @@ genai-onboarding-gemini-price = නොමිලේ හා ගෙවන වික
 genai-onboarding-huggingchat-generate = පෙළ හා කේත උත්පාදනය
 genai-onboarding-lechat-generate = පෙළ හා කේත උත්පාදනය
 genai-onboarding-lechat-price = නොමිලේ; ගිණුමක් වුවමනාය
-
-## Model Optin Component
-
-
-## Link previews
-

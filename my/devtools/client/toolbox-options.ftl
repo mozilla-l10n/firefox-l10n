@@ -6,29 +6,11 @@
 ### Localization for Developer Tools options
 
 
-## Default Developer Tools section
-
-
-## Inspector section
-
-
-## "Default Color Unit" options for the Inspector
-
-
-## Web Console section
-
-
 ## Style Editor section
 
 # The heading
 options-styleeditor-label = စတိုင် အယ်ဒီတာ
 
-## Screenshot section
-
-
 ## Editor section
 
 options-sourceeditor-keybinding-default-label = မူရင်းအခြေအနေ
-
-## Advanced section
-

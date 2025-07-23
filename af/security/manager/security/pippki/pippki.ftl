@@ -33,9 +33,6 @@ download-cert-view-cert =
     .label = Bekyk
 download-cert-view-text = Ondersoek SO-sertifikaat
 
-## Client Authorization Ask dialog
-
-
 ## Client Authentication Ask dialog
 
 client-auth-window =
@@ -78,6 +75,3 @@ set-password-backup-pw =
 set-password-repeat-backup-pw =
     .value = Rugsteunsertifikaat-wagwoord (weer):
 set-password-reminder = Belangrik: Indien u u sertifikaat-rugsteunwagwoord vergeet, sal u nie hierdie rugsteuning later kan terugkopieer nie.  Teken dit op 'n veilige plek aan.
-
-## Protected authentication alert
-

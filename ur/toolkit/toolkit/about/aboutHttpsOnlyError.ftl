@@ -7,8 +7,3 @@ about-httpsonly-explanation-nosupport = زیادہ تر امکان ہے کہ ، 
 about-httpsonly-explanation-risk = یہ بھی ممکن ہے کہ حملہ آور ملوث ہو۔ اگر آپ ویب سائٹ ملاحظہ کرنے کا فیصلہ کر لیا ہےتو ، آپ کو حساس معلومات جیسے پاس ورڈز ، ای میلز ، یا کریڈٹ کارڈ کی تفصیلات درج نہیں کرنا چاہئییے۔
 about-httpsonly-button-go-back = واپس جائیں
 about-httpsonly-link-learn-more = مزید سیکھیں…
-
-## Suggestion Box that only shows up if a secure connection to www can be established
-## Variables:
-##   $websiteUrl (String) - Url of the website that can be securely loaded with these alternatives. Example: example.com
-

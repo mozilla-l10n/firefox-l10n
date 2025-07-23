@@ -39,9 +39,3 @@ about-networking-rcwn-perf-read = చదువు
 about-networking-rcwn-perf-write = రాయి
 about-networking-rcwn-avg-short = చిన్న సగటు
 about-networking-rcwn-avg-long = దీర్ఘ సగటు
-
-## Link is intended as "network link"
-
-
-##
-

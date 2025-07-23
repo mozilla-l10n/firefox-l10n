@@ -21,8 +21,3 @@ default-browser-prompt-message-alt = Consigue velocidat, seguranza y privacidat 
 default-browser-prompt-button-primary-alt = Configura-lo como lo navegador per defecto
 default-browser-prompt-checkbox-not-again-label = No tornes a amostrar este mensache
 default-browser-prompt-button-secondary = No pas agora
-
-## Strings for a Windows native guidance notification when the user is forced to
-## use Windows Settings to set the default browser. Instructions differ for
-## Windows 10 and 11.
-

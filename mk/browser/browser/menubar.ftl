@@ -3,18 +3,6 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 
-# NOTE: For English locales, strings in this file should be in APA-style Title Case.
-# See https://apastyle.apa.org/style-grammar-guidelines/capitalization/title-case
-#
-# NOTE: For Engineers, please don't re-use these strings outside of the menubar.
-
-
-# NOTE: For English locales, strings in this file should be in APA-style Title Case.
-# See https://apastyle.apa.org/style-grammar-guidelines/capitalization/title-case
-#
-# NOTE: For Engineers, please don't reuse these strings outside of the menubar.
-
-
 ## Application Menu (macOS only)
 
 menu-application-preferences =
@@ -163,9 +151,6 @@ menu-view-full-screen =
     .label = На цел екран
     .accesskey = ц
 
-## These menu items may use the same accesskey.
-
-
 ##
 
 menu-view-show-all-tabs =
@@ -208,9 +193,6 @@ menu-bookmarks-other =
     .label = Останати обележувачи
 menu-bookmarks-mobile =
     .label = Мобилни обележувачи
-
-## Profiles Menu
-
 
 ## Tools Menu
 

@@ -536,9 +536,6 @@ newtab-custom-wallpaper-title = טפטים מותאמים אישית נמצאי�
 newtab-custom-wallpaper-subtitle = ניתן להעלות טפט משלך או לבחור בצבע מותאם אישית כדי להפוך את { -brand-product-name } לשלך.
 newtab-custom-wallpaper-cta = בואו ננסה
 
-## Strings for new user activation custom wallpaper highlight
-
-
 ## Strings for download mobile highlight
 
 newtab-download-mobile-highlight-title = הורדת { -brand-product-name } לנייד
@@ -548,9 +545,6 @@ newtab-download-mobile-highlight-body-variant-b = ניתן להמשיך מאיפ
 newtab-download-mobile-highlight-body-variant-c = ידעת שניתן לקחת את { -brand-product-name } לדרכים? אותו הדפדפן, בכיס שלך.
 newtab-download-mobile-highlight-image =
     .aria-label = קוד QR להורדת { -brand-product-name } לנייד
-
-## Strings for shortcuts highlight
-
 
 ## Strings for reporting ads and content
 

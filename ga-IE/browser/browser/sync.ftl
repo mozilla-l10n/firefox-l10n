@@ -10,6 +10,3 @@ fxa-menu-send-tab-to-device-syncnotready =
     .label = Gléasanna á Sioncronú…
 fxa-menu-sign-out =
     .label = Logáil Amach…
-
-## Sync warning strings that support the browser profiles feature, these will be shown when the user might be merging data
-

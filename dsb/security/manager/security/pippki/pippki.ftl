@@ -48,9 +48,6 @@ download-cert-view-cert =
     .label = Naglěd
 download-cert-view-text = Certifikat certifikatoweje awtority pśeglědaś
 
-## Client Authorization Ask dialog
-
-
 ## Client Authentication Ask dialog
 
 client-auth-window =

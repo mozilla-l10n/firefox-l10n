@@ -56,12 +56,3 @@ add-engine-window =
     .style = min-width: 40em;
 add-engine-button = Agiuntar ina maschina persunalisada
 add-engine-name = Num da la maschina da tschertgar
-
-## The following placeholders are shown in the inputs when adding a new engine.
-
-
-## The following strings are used as error messages.
-
-
-## The following strings are used as labels for the dialog's buttons.
-

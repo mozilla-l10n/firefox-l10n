@@ -72,9 +72,6 @@ tabbrowser-unblock-tab-audio-tooltip =
            *[other] Включване звука на { $tabCount } раздела
         }
 
-## Tooltips for tab audio control
-
-
 ## Confirmation dialog when closing a window with more than one tab open,
 ## or when quitting when only one window is open.
 
@@ -202,7 +199,9 @@ tabbrowser-manager-unmute-tab =
 tabbrowser-manager-close-tab =
     .tooltiptext = Затваряне на раздела
 
-## Tab Groups
+## Variables:
+##  $tabGroupName (String): The name of the tab group. Defaults to the value
+##                          of tab-group-name-default.
 
 tab-group-editor-title-create = Създаване на група от раздели
 tab-group-editor-title-edit = Управление на група от раздели
@@ -215,8 +214,7 @@ tab-group-editor-cancel =
 tab-context-unnamed-group =
     .label = Неименувана група
 
-## Variables:
-##  $tabCount (Number): the number of tabs that are affected by the action.
+##
 
 tab-context-move-tab-to-new-group =
     .label =
@@ -256,6 +254,3 @@ tab-context-ungroup-tab =
            *[other] Премахване от групи
         }
     .accesskey = г
-
-## Open/saved tab group context menu
-

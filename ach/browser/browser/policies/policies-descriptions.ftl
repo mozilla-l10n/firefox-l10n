@@ -26,9 +26,6 @@ policy-DisableProfileImport = Juk twero me gin ayera me kelo data ki ii layeny m
 policy-DisableSecurityBypass = Geng latic kwede pe me kalo ciko mogo me ber bedo.
 policy-InstallAddonsPermission = Yee ki kakube mogo me keto med-ikome.
 
-## Do not translate "SameSite", it's the name of a cookie attribute.
-
-
 ##
 
 policy-NewTabPage = Cak onyo juk potbuk me Dirica Matidi Mnayen.

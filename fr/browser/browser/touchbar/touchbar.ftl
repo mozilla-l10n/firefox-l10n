@@ -32,6 +32,3 @@ search-history = Historique
 search-opentabs = Onglets ouverts
 search-tags = Étiquettes
 search-titles = Titres
-
-##
-

@@ -20,17 +20,3 @@ printui-page-range-picker =
 # Section title for the number of copies to print
 printui-copies-label = நகல்கள்
 printui-orientation = திசையமைப்பு
-
-## The "Format" section, select a version of the website to print. Radio
-## options to select between the original page, selected text only, or a version
-## where the page is processed with "Reader View".
-
-
-##
-
-
-## Paper sizes that may be supported by the Save to PDF destination:
-
-
-## Error messages shown when a user has an invalid input
-

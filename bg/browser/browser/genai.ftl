@@ -82,9 +82,6 @@ genai-options-hide-shortcut =
 genai-options-about-chatbot =
     .label = Относно AI чатботовете в { -brand-short-name }
 
-## Chatbot footer
-
-
 ## Chatbot onboarding
 
 genai-onboarding-header = Обобщавайте, обмисляйте и още, докато разглеждате
@@ -126,9 +123,3 @@ genai-onboarding-gemini-price = Безплатни и платени опции;
 genai-onboarding-huggingchat-generate = Генериране на текст и код
 genai-onboarding-lechat-generate = Генериране на текст и код
 genai-onboarding-lechat-price = Безплатно е, но се изисква да имате профил
-
-## Model Optin Component
-
-
-## Link previews
-

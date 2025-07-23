@@ -69,9 +69,3 @@ certificate-viewer-download-pem = PEM (cert)
     .download = { $fileName }.pem
 certificate-viewer-download-pem-chain = PEM (chain)
     .download = { $fileName }-chain.pem
-
-##
-
-
-## Labels for tabs displayed in stand-alone about:certificate page
-

@@ -48,14 +48,3 @@ about-reader-font-type-sans-serif = Sans-serif
 about-reader-toolbar-close = Tanca la vista de lectura
 about-reader-toolbar-type-controls = Controls de la lletra
 about-reader-toolbar-savetopocket = Desa al { -pocket-brand-name }
-
-## Reader View colors menu
-
-
-## These are used as labels for the custom theme color pickers.
-## The .title element is used to make the editing functionality
-## clear and give context for screen reader users.
-
-
-## Reader View text and layout menu
-

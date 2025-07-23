@@ -64,6 +64,3 @@ about-networking-moved-about-logging = Den här sidan har flyttats till <a data-
 
 about-networking-networkid-is-up = Länken är uppe
 about-networking-networkid-status-known = Länkstatus är känd
-
-##
-

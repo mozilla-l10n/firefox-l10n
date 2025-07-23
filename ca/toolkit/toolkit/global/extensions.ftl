@@ -17,9 +17,6 @@ webext-perms-header-unsigned-with-perms = Voleu afegir { $extension }? Aquesta e
 webext-perms-sideload-header = S'ha afegit { $extension }
 webext-perms-optional-perms-header = { $extension } sol·licita permisos addicionals.
 
-## Headers used in the webextension permissions dialog, inside the content.
-
-
 ##
 
 webext-perms-add =
@@ -73,9 +70,6 @@ webext-perms-host-description-too-many-sites =
        *[other] Accedir a les dades en { $domainCount } altres dominis
     }
 
-## Strings for data collection permissions in the permission prompt.
-
-
 ## Headers used in the webextension permissions dialog for synthetic add-ons.
 ## The part of the string describing what privileges the extension gives should be consistent
 ## with the value of webext-site-perms-description-gated-perms-{sitePermission}.
@@ -109,6 +103,3 @@ webext-site-perms-header-unsigned-with-perms = Voleu afegir { $extension }? Aque
 
 webext-site-perms-midi = Accés a dispositius MIDI
 webext-site-perms-midi-sysex = Accés a dispositius MIDI compatibles amb SysEx
-
-## Colorway theme migration
-

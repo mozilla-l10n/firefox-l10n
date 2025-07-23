@@ -51,18 +51,12 @@ permissions-capabilities-listitem-allow-session =
 permissions-invalid-uri-title = Nomme de host no valido
 permissions-invalid-uri-label = Pe piaxei inserisci un nomme de host valido
 
-## Exceptions - Tracking Protection
-
-
 ## Exceptions - Cookies
 
 permissions-exceptions-cookie-window2 =
     .title = Eceçioin - Cookie e Dæti di Sciti
     .style = { permissions-window2.style }
 permissions-exceptions-cookie-desc = Ti peu anche decidde quali sciti peuan de longo ò mai deuviâ cookie e dæti di sciti.  Scrivi ben l'indirisso ezatto di sciti che ti veu gestî e pöi sciacca Blòcca, Permetti pe sescion ò Permetti.
-
-## Exceptions - HTTPS-Only Mode
-
 
 ## Exceptions - Pop-ups
 
@@ -78,18 +72,12 @@ permissions-exceptions-saved-logins-window2 =
     .style = { permissions-window2.style }
 permissions-exceptions-saved-logins-desc = I dæti d'acesso pe sti sciti no saian sarvæ
 
-## Exceptions - Saved Passwords
-
-
 ## Exceptions - Add-ons
 
 permissions-exceptions-addons-window2 =
     .title = Sciti permissi - Instalaçion di conponenti azonti
     .style = { permissions-window2.style }
 permissions-exceptions-addons-desc = Ti ti peu dî quæ sciti peuan arvî ò instalâ di conponenti azonti. Scrivi l'indirisso di sciti a-i quæ ti veu dâ o permisso e sciacca Permetti.
-
-## Site Permissions - Autoplay
-
 
 ## Site Permissions - Notifications
 
@@ -111,9 +99,6 @@ permissions-site-location-disable-label =
     .label = Blòcca e neuve domande de acede a-a teu poxiçion
 permissions-site-location-disable-desc = Questo o blòcca i sciti che no en inta lista chi sorvia da domandâ o permisso de acede a-a teu poxiçion. Blocâ e notifiche o peu inpedî çerte carateristiche do scito.
 
-## Site Permissions - Virtual Reality
-
-
 ## Site Permissions - Camera
 
 permissions-site-camera-window2 =
@@ -133,8 +118,3 @@ permissions-site-microphone-desc = Sti sciti an domandou de acede a-a teu micrò
 permissions-site-microphone-disable-label =
     .label = Blòcca e neuve domande de acede a-a teu micròfono
 permissions-site-microphone-disable-desc = Questo o no permette a-i sciti che non en chi sotta de domandâ o permisso de acede a-a teu micròfono. Blocâ l'acesso a-a teu micròfono o peu inpedî çerte carateristiche do scito.
-
-## Site Permissions - Speaker
-##
-## "Speaker" refers to an audio output device.
-

@@ -8,13 +8,3 @@ about-logging-set-log-file = ຕັ້ງລັອກໄຟລ໌
 about-logging-set-log-modules = ຕັ້ງໂມດູລລັອກ
 about-logging-start-logging = ເລີ່ມການບັນທຶກລັອກ
 about-logging-stop-logging = ຢຸດການບັນທຶກລັອກ
-
-## Logging presets
-
-
-##
-
-
-## The upload interface is shown only with the preference toolkit.aboutLogging.uploadProfileToCloud
-## set to true. It is false by default, except on Android.
-

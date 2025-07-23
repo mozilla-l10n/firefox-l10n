@@ -317,6 +317,3 @@ about-webrtc-hide-msg-sdp = Plate SDP
 about-webrtc-media-context-show-msg = Mostre contest multimediâl
 about-webrtc-media-context-hide-msg = Plate contest multimediâl
 about-webrtc-media-context-heading = Contest multimediâl
-
-##
-

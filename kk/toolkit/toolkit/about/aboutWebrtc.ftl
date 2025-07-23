@@ -314,6 +314,3 @@ about-webrtc-hide-msg-sdp = SDP жасыру
 about-webrtc-media-context-show-msg = Медиа контекстін көрсету
 about-webrtc-media-context-hide-msg = Медиа контекстін жасыру
 about-webrtc-media-context-heading = Медиа контексті
-
-##
-

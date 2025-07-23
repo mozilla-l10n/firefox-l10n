@@ -32,6 +32,3 @@ search-history = История
 search-opentabs = Отворени раздели
 search-tags = Етикети
 search-titles = Заглавия
-
-##
-

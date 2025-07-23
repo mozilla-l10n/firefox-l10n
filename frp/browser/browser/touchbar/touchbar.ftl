@@ -12,9 +12,3 @@ fullscreen = Pllèn ècran
 find = Chèrchiér
 new-tab = Novèla tirèta
 add-bookmark = Apondre un mârca-pâge
-
-## Various categories of shortcuts for search.
-
-
-##
-

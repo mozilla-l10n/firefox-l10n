@@ -48,9 +48,6 @@ download-cert-view-cert =
     .label = Mussar
 download-cert-view-text = Controllar il certificat CA
 
-## Client Authorization Ask dialog
-
-
 ## Client Authentication Ask dialog
 
 client-auth-window =

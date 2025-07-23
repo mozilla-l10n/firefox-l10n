@@ -69,9 +69,6 @@ perftools-button-add-directory = Agregar un directorio
 perftools-button-remove-directory = Eliminar lo seleccionado
 perftools-button-edit-settings = Editar ajustes…
 
-## More actions menu
-
-
 ## These messages are descriptions of the threads that can be enabled for the profiler.
 
 perftools-thread-gecko-main =
@@ -152,6 +149,3 @@ perftools-presets-power-description = Preestablecido para investigar errores de 
 perftools-presets-debug-label = Depurar
 perftools-presets-debug-description = Preestablecido para depuración en { -brand-shorter-name }. Alta sobrecarga, no lo uses para mejoras de rendimiento sino para enfocarte en comprender el comportamiento del navegador.
 perftools-presets-custom-label = Personalizado
-
-##
-

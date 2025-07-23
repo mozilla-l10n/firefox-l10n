@@ -56,10 +56,6 @@ cert-error-details-hsts-label = HTTP Sıqı Naqliye Emniyeti: { $hasHSTS }
 cert-error-details-key-pinning-label = HTTP Aleniy Anahtar Tüyremesi: { $hasHPKP }
 cert-error-details-cert-chain-label = Şeadetname zıncırı:
 
-## Variables:
-##   $hostname (string) - Hostname of the website with cert error.
-
-
 ## Messages used for certificate error titles
 
 connectionFailure-title = Bağlanılalmay
@@ -96,10 +92,3 @@ networkProtocolError-title = Şebeke Protokolı Hatası
 nssBadCert-title = Tenbi: Potensial Emniyet Riski İleride
 nssBadCert-sts-title = Bağlanılmadı: Potensial Emniyet Meselesi
 certerror-mitm-title = Yazılım, { -brand-short-name } Uyğulamasınıñ Emin Olaraq Bu Saytqa Bağlanmasınıñ Aldını Ala
-
-## Felt Privacy V1 Strings
-
-
-## Variables:
-##   $hostname (String) - Hostname of the website to which the user was trying to connect.
-

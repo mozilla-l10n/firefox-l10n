@@ -36,10 +36,6 @@ cert-error-details-key-pinning-label = Key Pinning HTTP pubrico: { $hasHPKP }
 cert-error-details-cert-chain-label = Cadenna de certificati:
 open-in-new-window-for-csp-or-xfo-error = Arvi o scito inte 'n neuvo barcon
 
-## Variables:
-##   $hostname (string) - Hostname of the website with cert error.
-
-
 ## Messages used for certificate error titles
 
 connectionFailure-title = No riescio a conetime
@@ -76,10 +72,3 @@ clockSkewError-title = O releuio do computer o l'é erou
 networkProtocolError-title = Erô de protocòllo de ræ
 nssBadCert-title = Atençion: gh'é 'n reizego de seguessa potensiâ
 nssBadCert-sts-title = Conescion fermâ: reizego potensiâ de seguessa
-
-## Felt Privacy V1 Strings
-
-
-## Variables:
-##   $hostname (String) - Hostname of the website to which the user was trying to connect.
-

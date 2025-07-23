@@ -7,10 +7,6 @@ search-header =
     .placeholder = Cari di addons.mozilla.org
     .searchbuttonlabel = Cari
 
-## Variables
-##   $domain - Domain name where add-ons are available (e.g. addons.mozilla.org)
-
-
 ##
 
 list-empty-installed =
@@ -166,29 +162,6 @@ addon-install-from-file-filter-name = Add-ons
 addon-open-about-debugging = Add-ons Nyahpepijat
     .accesskey = s
 
-## Extension shortcut management
-
-
-## Recommended add-ons page
-
-
-## Add-on actions
-
-
-## Pending uninstall message bar
-
-
-## "sites with restrictions" (internally called "quarantined") are special domains
-## where add-ons are normally blocked for security reasons.
-
-
-## This is the tooltip text for the recommended badges for an extension in about:addons. The
-## badge is a small icon displayed next to an extension when it is recommended on AMO.
-
-
-##
-
-
 ## Page headings
 
 extension-heading = Urus ekstensi anda
@@ -239,10 +212,3 @@ plugins-gmp-privacy-info = Maklumat Privasi
 plugins-openh264-name = Kodek Video OpenH264 disediakan oleh Cisco Systems, Inc.
 plugins-openh264-description = Plugin ini dipasang secara automatik oleh Mozilla untuk mematuhi spesifikasi WebRTC dan untuk membolehkan panggilan WebRTC dengan peranti yang memerlukan kodeks video H.264. Layari http://www.openh264.org/ untuk melihat kod sumber kodeks dan ketahui selanjutnya mengenai pelaksanaannya.
 plugins-widevine-name = Modul Dekripsi Kandungan Widevine yang disediakan oleh Google Inc.
-
-## Headings for the Permissions tab in `about:addons` when the data collection
-## feature is enabled.
-
-
-## Mapping Engine IDs from AI models to how that feature represented by the engine Id is described in the used by section in local model management
-

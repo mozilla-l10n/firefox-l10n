@@ -70,10 +70,6 @@ screenshot-toolbar-button =
     .label = لقطة شاشة
     .tooltiptext = التقط لقطة شاشة ({ $shortcut })
 
-## The below strings are used to capture keydown events so the strings should
-## not be changed unless the keyboard layout in the locale requires it.
-
-
 ##
 
 # This string represents the selection size area

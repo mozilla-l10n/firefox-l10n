@@ -10,9 +10,6 @@ about-performance-title = Task Manager
 column-name = Nemme
 column-type = Type
 
-## Special values for the Name column
-
-
 ## Values for the Type column
 
 type-tab = Tab
@@ -20,13 +17,6 @@ type-addon = Eik-on
 type-browser = Stravaiger
 type-worker = Wirker
 type-other = Ither
-
-## Values for the Energy Impact column
-##
-## Variables:
-##   $value (Number) - Value of the energy impact, eg. 0.25 (low),
-##                     5.38 (medium), 105.38 (high)
-
 
 ## Values for the Memory column
 ##

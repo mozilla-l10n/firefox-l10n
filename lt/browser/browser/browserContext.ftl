@@ -78,9 +78,6 @@ toolbar-button-fxaccount =
     .label = „{ -fxaccount-brand-name }“ paskyra
     .tooltiptext = „{ -fxaccount-brand-name }“ paskyra
 
-## Account toolbar Button
-
-
 ## Save Page
 
 main-context-menu-page-save =

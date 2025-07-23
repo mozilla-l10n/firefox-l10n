@@ -69,13 +69,6 @@ webrtc-indicator-sharing-window =
 webrtc-indicator-sharing-browser =
     .tooltiptext = Tas compartiendo una llingüeta. Calca pa controlar qué compartir.
 
-## These strings are only used on Mac for menus attached to icons
-## near the clock on the mac menubar.
-## Variables:
-##   $streamTitle (String): the title of the tab using the share.
-##   $tabCount (Number): the title of the tab using the share.
-
-
 ## Variables:
 ##   $origin (String): the website origin (e.g. www.mozilla.org).
 
@@ -87,14 +80,6 @@ webrtc-allow-share-camera-and-microphone = ¿Permitir a { $origin } qu'use la c�
 webrtc-allow-share-camera-and-audio-capture = ¿Permitir a { $origin } qu'use la cámara y sienta l'audiu d'esta llingüeta?
 webrtc-allow-share-screen-and-microphone = ¿Permitir a { $origin } qu'use'l micrófonu y vea la pantalla?
 webrtc-allow-share-screen-and-audio-capture = ¿Permitir a { $origin } que sienta l'audiu d'esta llingüeta y vea la pantalla?
-
-## Special phrasing for sharing devices when the origin is a file url.
-
-
-## Variables:
-##   $origin (String): the first party origin.
-##   $thirdParty (String): the third party origin.
-
 
 ##
 

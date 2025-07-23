@@ -47,15 +47,10 @@ prompt-to-launch-existing-app-title =
     }
 prompt-to-launch-existing-app-message =
     { -brand-short-name.gender ->
-        [masculine] { -brand-short-name(case: "acc") } už máte nainstalovaný
-        [feminine] { -brand-short-name(case: "acc") } už máte nainstalovanou
-        [neuter] { -brand-short-name(case: "acc") } už máte nainstalované
-       *[other] Aplikaci { -brand-short-name } už máte nainstalovanou
-    }. Aby nedošlo ke ztrátě dat, doporučujeme používat nainstalovanou verzi { -brand-short-name.gender ->
-        [masculine] { -brand-short-name(case: "gen") }
-        [feminine] { -brand-short-name(case: "gen") }
-        [neuter] { -brand-short-name(case: "gen") }
-       *[other] aplikace { -brand-short-name }
-    }.
+        [masculine] { -brand-short-name(case: "acc") } už máte nainstalovaný. Aby nedošlo ke ztrátě dat, doporučujeme používat nainstalovanou verzi { -brand-short-name(case: "gen") }.
+        [feminine] { -brand-short-name(case: "acc") } už máte nainstalovanou. Aby nedošlo ke ztrátě dat, doporučujeme používat nainstalovanou verzi { -brand-short-name(case: "gen") }.
+        [neuter] { -brand-short-name(case: "acc") } už máte nainstalované. Aby nedošlo ke ztrátě dat, doporučujeme používat nainstalovanou verzi { -brand-short-name(case: "gen") }.
+       *[other] Aplikaci { -brand-short-name } už máte nainstalovanou. Aby nedošlo ke ztrátě dat, doporučujeme používat nainstalovanou verzi aplikace { -brand-short-name }.
+    }
 prompt-to-launch-existing-app-yes-button = Otevřít nainstalovanou verzi
 prompt-to-launch-existing-app-no-button = Ne, děkuji

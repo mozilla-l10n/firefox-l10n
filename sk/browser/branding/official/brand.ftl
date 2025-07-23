@@ -19,32 +19,32 @@
 
 -brand-shorter-name =
     { $case ->
-       *[nom] Firefox
         [gen] Firefoxu
         [dat] Firefoxu
         [acc] Firefox
         [loc] Firefoxe
         [ins] Firefoxom
+       *[nom] Firefox
     }
     .gender = masculine
 -brand-short-name =
     { $case ->
-       *[nom] Firefox
         [gen] Firefoxu
         [dat] Firefoxu
         [acc] Firefox
         [loc] Firefoxe
         [ins] Firefoxom
+       *[nom] Firefox
     }
     .gender = masculine
 -brand-shortcut-name =
     { $case ->
-       *[nom] Firefox
         [gen] Firefoxu
         [dat] Firefoxu
         [acc] Firefox
         [loc] Firefoxe
         [ins] Firefoxom
+       *[nom] Firefox
     }
     .gender = masculine
 -brand-full-name = Mozilla Firefox
@@ -52,22 +52,22 @@
 # remain unchanged across different versions (Nightly, Beta, etc.).
 -brand-product-name =
     { $case ->
-       *[nom] Firefox
         [gen] Firefoxu
         [dat] Firefoxu
         [acc] Firefox
         [loc] Firefoxe
         [ins] Firefoxom
+       *[nom] Firefox
     }
     .gender = masculine
 -vendor-short-name =
     { $case ->
-       *[nom] Mozilla
         [gen] Mozilly
         [dat] Mozille
         [acc] Mozillu
         [loc] Mozille
         [ins] Mozillou
+       *[nom] Mozilla
     }
     .gender = feminine
 trademarkInfo = Firefox a logá Firefox sú ochranné známky patriace Mozilla Foundation.

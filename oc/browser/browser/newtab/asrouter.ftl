@@ -278,9 +278,6 @@ root-certificate-succession-infobar-secondary-button =
     .label = Mai tard
     .accesskey = a
 
-## Root Certificate Succession Windows Background Notification
-
-
 ## FxA Menu Message variants
 
 fxa-menu-message-close-button =

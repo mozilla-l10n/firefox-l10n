@@ -18,31 +18,7 @@ safeb-palm-see-details-label = വിശദാംശങ്ങൾ കാണുക
 ## Variables
 ##  $sitename (string) - Domain name for the blocked page
 
-
-## Variables
-##  $sitename (string) - Domain name for the blocked page
-
-
-## Variables
-##  $sitename (string) - Domain name for the blocked page
-
-
-## Variables
-##  $sitename (string) - Domain name for the blocked page
-
-
-## Variables
-##  $sitename (string) - Domain name for the blocked page
-
 safeb-blocked-unwanted-page-error-desc-no-override = <span data-l10n-name='sitename'>{ $sitename }</span> ദോഷകരമായ സോഫ്റ്റവെയർ അടിങ്ങിയിരിക്കുന്നതായി <a data-l10n-name='error_desc_link'>റിപ്പോർട്ട് ചെയ്യപ്പെട്ടിരിക്കുന്നു</a>.
-
-## Variables
-##  $sitename (string) - Domain name for the blocked page
-
-
-## Variables
-##  $sitename (string) - Domain name for the blocked page
-
 
 ## Variables
 ##  $sitename (string) - Domain name for the blocked page

@@ -64,6 +64,3 @@ about-networking-moved-about-logging = Ta stran se je preselila na <a data-l10n-
 
 about-networking-networkid-is-up = Povezava je vzpostavljena
 about-networking-networkid-status-known = Stanje povezave je znano
-
-##
-

@@ -8,6 +8,3 @@ sync-disconnect-dialog-button = ချိတ်ဆက်ဖြုတ်ရန်
 # This is shown dynamically within "Send tab to device" in fxa menu.
 fxa-menu-send-tab-to-device-syncnotready =
     .label = ကိရိယာများကို ထပ်တူပြုနေသည်…
-
-## Sync warning strings that support the browser profiles feature, these will be shown when the user might be merging data
-

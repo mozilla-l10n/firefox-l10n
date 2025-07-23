@@ -64,6 +64,3 @@ about-networking-moved-about-logging = Cheste pagjine e je stade spostade su <a 
 
 about-networking-networkid-is-up = Il colegament al è atîf
 about-networking-networkid-status-known = Il stât dal colegament al è cognossût
-
-##
-

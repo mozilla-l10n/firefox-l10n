@@ -113,9 +113,6 @@ firefoxview-recently-closed-nav = Taq ruwi' nimakol ketz'apïx
     .title = Taq ruwi' nimakol ketz'apïx
 firefoxview-recently-closed-header = Taq ruwi' nimakol ketz'apïx
 
-## Tabs from other devices refers in this context refers to synced tabs from other devices
-
-
 ##
 
 # Used for a link in collapsible cards, in the ’Recent browsing’ page of Firefox View
@@ -148,9 +145,6 @@ firefoxview-history-site-localhost = (aj wawe' taq yakb'äl)
 firefoxview-show-all-history = Tik'ut ronojel natab'äl
 firefoxview-view-more-browsing-history = Ketz'et ch'aqa' chik kinatab'al okem
 
-## Message displayed in Firefox View when the user has no history data
-
-
 ##
 
 # Button text for choosing a browser within the ’Import history from another browser’ banner
@@ -167,22 +161,3 @@ firefoxview-dont-remember-history-empty-header = Majun achike nik'ut
 firefoxview-import-history-close-button =
     .aria-label = Titz'apïx
     .title = Titz'apïx
-
-## Text displayed in a dismissable banner to import bookmarks/history from another browser
-
-
-## Message displayed in Firefox View when the user has no recently closed tabs data
-
-
-## This message is displayed below the name of another connected device when it doesn't have any open tabs.
-
-
-## These tooltips will be displayed when hovering over a pinned tab on the Open Tabs page
-## Variables:
-##  $tabTitle (string) - Title of pinned tab that will be opened when selected
-
-
-## These tooltips will be displayed when hovering over an unpinned Open Tab
-## Variables:
-##   $url (string) - URL of tab that will be opened when selected
-

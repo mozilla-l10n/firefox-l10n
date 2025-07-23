@@ -18,9 +18,6 @@ sidebar-history-delete =
 sidebar-history-clear =
     .label = Skarzhañ ar roll istor
 
-## Labels for sidebar search
-
-
 ## Labels for sidebar customize panel
 
 sidebar-customize-firefox-tools-header =
@@ -53,9 +50,6 @@ sidebar-context-menu-remove-extension2 =
 sidebar-context-menu-unpin-extension =
     .label = Lemel diouzh ar varrenn gostez
 
-## Labels for sidebar history context menu items
-
-
 ## Labels for sidebar menu items.
 
 sidebar-menu-history-label =
@@ -66,15 +60,6 @@ sidebar-menu-bookmarks-label =
     .label = Sinedoù
 sidebar-menu-customize-label =
     .label = Personelaat ar varrenn gostez
-
-## Tooltips for sidebar menu items.
-
-
-## Tooltips displayed over the AI chatbot icon.
-## Variables:
-##   $shortcut (String) - The OS specific keyboard shortcut.
-##   $provider (String) - The name of the AI chatbot provider (if available).
-
 
 ## Headings for sidebar menu panels.
 

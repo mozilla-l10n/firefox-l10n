@@ -16,38 +16,13 @@ perftools-heading-threads = Нишки
 
 ##
 
-
-## The controls for the interval at which the profiler samples the code.
-
-
-##
-
 perftools-devtools-interval-label = Интервал:
 perftools-devtools-threads-label = Нишки:
 perftools-devtools-settings-label = Поставки
 
-## Various statuses that affect the current state of profiling, not typically displayed.
-
-
-## These are shown briefly when the user is waiting for the profiler to respond.
-
-
 ##
 
 perftools-button-remove-directory = Отстрани избрани
-
-## More actions menu
-
-
-## These messages are descriptions of the threads that can be enabled for the profiler.
-
-
-##
-
-
-## Onboarding UI labels. These labels are displayed in the new performance panel UI, when
-## devtools.performance.new-panel-onboarding preference is true.
-
 
 ## Profiler presets
 
@@ -62,6 +37,3 @@ perftools-button-remove-directory = Отстрани избрани
 # The same labels and descriptions are also defined in appmenu.ftl.
 
 perftools-presets-graphics-label = Графика
-
-##
-

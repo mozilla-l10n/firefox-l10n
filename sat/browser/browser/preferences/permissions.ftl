@@ -107,9 +107,6 @@ permissions-exceptions-saved-logins-window2 =
     .style = { permissions-window2.style }
 permissions-exceptions-saved-logins-desc = ᱞᱟᱛᱟᱨ ᱨᱮ ᱚᱞ ᱟᱠᱟᱱ ᱣᱮᱵᱽᱥᱟᱭᱤᱴ ᱠᱚ ᱨᱮᱭᱟᱜ ᱵᱚᱞᱚᱠᱚ ᱫᱚ ᱵᱟᱝ ᱥᱟᱧᱪᱟᱣ ᱦᱩᱭᱩᱜᱼᱟ
 
-## Exceptions - Saved Passwords
-
-
 ## Exceptions - Add-ons
 
 permissions-exceptions-addons-window2 =

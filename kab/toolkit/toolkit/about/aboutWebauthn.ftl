@@ -86,12 +86,6 @@ about-webauthn-auth-info-true = Uzɣrin
 about-webauthn-auth-info-false = Aruzɣin
 about-webauthn-auth-info-null = Ur yettwasefrak ara
 
-## Bio enrollment sample feedbacks
-
-
-## Scan (e.g. of fingerprint) was off-center (e.g. too high, too left, etc.).
-
-
 ##
 
 about-webauthn-ctap2-enroll-feedback-other = Tuccḍa tafessast.

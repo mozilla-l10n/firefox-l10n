@@ -68,10 +68,6 @@ open-in-new-window-for-csp-or-xfo-error = Բացել կայքը նոր պատո�
 #   $hostname (string) - Hostname of the website blocked by csp or xfo error.
 csp-xfo-blocked-long-desc = Ձեր անվտանգությունը պաշտպանելու համար { $hostname }-ը թույլ չի տա, որ { -brand-short-name }-ը ցուցադրի էջը, եթե մեկ այլ կայք ներկառուցել է այն: Այս էջը տեսնելու համար հարկավոր է այն բացել նոր պատուհանում:
 
-## Variables:
-##   $hostname (string) - Hostname of the website with cert error.
-
-
 ## Messages used for certificate error titles
 
 connectionFailure-title = Չհաջողվեց կապ հաստատել
@@ -109,10 +105,3 @@ networkProtocolError-title = Ցանցի հաղորդակարգի սխալ
 nssBadCert-title = Զգուշացում․ հնարավոր է ապահովության վտանգ
 nssBadCert-sts-title = Չկապակցվեց․ հնարավոր անվտանգության թողարկող
 certerror-mitm-title = Ծրագիրը կանխում է { -brand-short-name } Անվտանգորեն կապվելով այս կայքի հետ։
-
-## Felt Privacy V1 Strings
-
-
-## Variables:
-##   $hostname (String) - Hostname of the website to which the user was trying to connect.
-

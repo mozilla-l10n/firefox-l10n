@@ -56,6 +56,3 @@ about-networking-networkid-id = Ցանցի ID
 
 about-networking-networkid-is-up = Հղումը վեր է
 about-networking-networkid-status-known = Հայտնի է հղման կարգավիճակը
-
-##
-

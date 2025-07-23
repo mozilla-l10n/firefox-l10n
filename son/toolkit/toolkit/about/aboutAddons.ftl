@@ -4,10 +4,6 @@
 
 addons-page-title = Tontoney juwalkaa
 
-## Variables
-##   $domain - Domain name where add-ons are available (e.g. addons.mozilla.org)
-
-
 ##
 
 list-empty-installed =
@@ -153,29 +149,6 @@ addon-install-from-file-filter-name = Tontoney
 addon-open-about-debugging = Hanseyan tontoney
     .accesskey = a
 
-## Extension shortcut management
-
-
-## Recommended add-ons page
-
-
-## Add-on actions
-
-
-## Pending uninstall message bar
-
-
-## "sites with restrictions" (internally called "quarantined") are special domains
-## where add-ons are normally blocked for security reasons.
-
-
-## This is the tooltip text for the recommended badges for an extension in about:addons. The
-## badge is a small icon displayed next to an extension when it is recommended on AMO.
-
-
-##
-
-
 ## Page headings
 
 addon-page-options-button =
@@ -219,10 +192,3 @@ plugins-gmp-privacy-info = Sutura alhabar
 plugins-openh264-name = OpenH264 Video Codec kaŋ Cisco Systems, Inc. n'a noo.
 plugins-openh264-description = Mozilla ga bonse-sukari kayandi, hala nga nda WebRTC ma hin ka koy nda cere. Nda mo, WebRTC ma hin ka goy nda nga maršin-kotantey, kan ngey diraa ga widewo codec H.264 waažibandi. Codec ɲaŋey bangandi http://www.openh264.org/ boŋ, hala ma hansa ka faham nga diraa se.
 plugins-widevine-name = Widevine gundekuna feeriyan dunbu kaŋ Google Inc. n'a noondi
-
-## Headings for the Permissions tab in `about:addons` when the data collection
-## feature is enabled.
-
-
-## Mapping Engine IDs from AI models to how that feature represented by the engine Id is described in the used by section in local model management
-

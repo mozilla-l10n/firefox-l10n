@@ -179,23 +179,6 @@ shortcuts-invalid = অবৈধ সংমিশ্ৰণ
 
 discopane-notice-learn-more = অধিক জানক
 
-## Add-on actions
-
-
-## Pending uninstall message bar
-
-
-## "sites with restrictions" (internally called "quarantined") are special domains
-## where add-ons are normally blocked for security reasons.
-
-
-## This is the tooltip text for the recommended badges for an extension in about:addons. The
-## badge is a small icon displayed next to an extension when it is recommended on AMO.
-
-
-##
-
-
 ## Page headings
 
 locale-heading = আপোনাৰ ভাষাসমূহ পৰিচালনা কৰক
@@ -243,10 +226,3 @@ plugins-gmp-license-info = অনুজ্ঞা-পত্ৰৰ তথ্য
 plugins-gmp-privacy-info = গোপনীয়তাৰ তথ্য
 plugins-openh264-name = Cisco Systems, Inc দ্বাৰা প্ৰদান কৰা OpenH264।
 plugins-openh264-description = এই প্লাগিনটো WebRTC-ৰ নিৰ্দিষ্টকৰণ অনুসৰণ কৰিবলৈ আৰু H.264 ভিডিঅ' ক'ডেকৰ প্ৰয়োজন হোৱা ডিভাইচৰ সৈতে WebRTC কল সক্ৰিয় কৰিবলৈ Mozilla-ৰ দ্বাৰা স্বয়ংক্ৰিয়ভাৱে ইনষ্টল কৰা হয়। ক'ডেকৰ উৎস ক'ড চাবলৈ আৰু ৰূপায়ণৰ বিষয়ে অধিক জানিবলৈ https://www.openh264.org/ দৰ্শন কৰক।
-
-## Headings for the Permissions tab in `about:addons` when the data collection
-## feature is enabled.
-
-
-## Mapping Engine IDs from AI models to how that feature represented by the engine Id is described in the used by section in local model management
-

@@ -93,9 +93,3 @@ account-multiple-tabs-arriving-from-unknown-device =
         [few] Atkeliavo { $tabCount } kortelės
        *[other] Atkeliavo { $tabCount } kortelių
     }
-
-## These strings are used in notifications in which the user remotely closed
-## tabs from other devices
-## Variables:
-##   $closedCount (Number): the number of tabs closed
-

@@ -64,6 +64,3 @@ about-networking-moved-about-logging = Toś ten bok jo se pśesunuła do <a data
 
 about-networking-networkid-is-up = Wótkaz jo pśepadnjony
 about-networking-networkid-status-known = Wótkazowy status jo znaty
-
-##
-

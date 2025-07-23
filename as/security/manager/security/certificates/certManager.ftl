@@ -122,9 +122,6 @@ delete-email-cert-title =
 delete-email-cert-confirm = আপুনি এই কিজনৰ ইমেইল প্ৰমাণপত্ৰ আঁতৰাবলৈ নিশ্চিত নে?
 delete-email-cert-impact = আপুনি এইজনৰ ইমেইল প্ৰমাণপত্ৰ আঁতৰালে, আপুনি তেওঁলৈ আৰু এনক্ৰিপ্ট কৰা ইমেইল পঠিয়াব নোৱাৰিব।
 
-## Used to show whether an override is temporary or permanent
-
-
 ## Add Security Exception dialog
 
 add-exception-branded-warning = এই ছাইটক { -brand-short-name } এ কেনেদৰে চিনি পাই আপুনি সেইটো আওকাণ কৰি আগবাছিব খুজিছে।

@@ -21,6 +21,3 @@ open-sidebar = साइटबार
 ## Various categories of shortcuts for search.
 
 search-tags = टेगफोर
-
-##
-

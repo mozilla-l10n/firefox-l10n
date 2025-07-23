@@ -30,14 +30,6 @@ safeb-blocked-phishing-page-learn-more = Atre informaçioin in sci sciti inganev
 ## Variables
 ##  $sitename (string) - Domain name for the blocked page
 
-
-## Variables
-##  $sitename (string) - Domain name for the blocked page
-
-
-## Variables
-##  $sitename (string) - Domain name for the blocked page
-
 safeb-blocked-unwanted-page-error-desc-override = <span data-l10n-name='sitename'>{ $sitename }</span> o l'é stæto <a data-l10n-name='error_desc_link'>segnalou de contegnî software grammo</a>. Ti peu <a data-l10n-name='ignore_warning_link'>ignorâ o reizego</a> e anâ in sto scito pericolozo.
 safeb-blocked-unwanted-page-error-desc-no-override = <span data-l10n-name='sitename'>{ $sitename }</span> o l'é stæto <a data-l10n-name='error_desc_link'>segnalou de contegnî do software pericolozo</a>.
 

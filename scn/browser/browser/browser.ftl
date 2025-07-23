@@ -215,14 +215,6 @@ browser-window-minimize-button =
 browser-window-close-button =
     .tooltiptext = Chiuji
 
-## Tab actions
-
-
-## These labels should be written in all capital letters if your locale supports them.
-## Variables:
-##  $count (number): number of affected tabs
-
-
 ## Bookmarks toolbar items
 
 browser-import-button2 =
@@ -232,12 +224,6 @@ browser-import-button2 =
 ## WebRTC Pop-up notifications
 
 popup-all-windows-shared = Tutti i finestri visìbbili sunnu pi cullabburazziuni.
-
-## WebRTC window or screen share tab switch warning
-
-
-## DevTools F12 popup
-
 
 ## URL Bar
 
@@ -325,9 +311,6 @@ urlbar-searchmode-popup-search-settings-menuitem =
 
 urlbar-result-action-search-bookmarks = Riscedi nnê nzingalibbra
 
-## Labels shown above groups of urlbar results
-
-
 ## Reader View toolbar buttons
 
 # This should match menu-view-enter-readerview in menubar.ftl
@@ -336,11 +319,6 @@ reader-view-enter-button =
 # This should match menu-view-close-readerview in menubar.ftl
 reader-view-close-button =
     .aria-label = Chiuji mudalità littura
-
-## Picture-in-Picture urlbar button
-## Variables:
-##   $shortcut (String) - Keyboard shortcut to execute the command.
-
 
 ## Full Screen and Pointer Lock UI
 
@@ -434,9 +412,6 @@ save-to-pocket-button =
     .label = Sarba nne { -pocket-brand-name }
     .tooltiptext = Sarba nne { -pocket-brand-name }
 
-## Repair text encoding toolbar button
-
-
 ## Customize Toolbar Buttons
 
 toolbar-overflow-customize-button =
@@ -451,30 +426,16 @@ toolbar-button-open-file =
     .label = Grapi pricu
     .tooltiptext = Grapi un pricu ({ $shortcut })
 
-## EME notification panel
-
-
-## Password save/update panel
-
-
 ##
 
 ui-tour-info-panel-close =
     .tooltiptext = Chiuji
-
-## Variables:
-##  $uriHost (String): URI host for which the popup was allowed or blocked.
-
 
 ##
 
 picture-in-picture-hide-toggle =
     .label = Ammuccia buttuni dâ mmàggini-nnâ-mmàggini
     .accesskey = A
-
-## Since the default position for PiP controls does not change for RTL layout,
-## right-to-left languages should use "Left" and "Right" as in the English strings,
-
 
 ##
 
@@ -514,15 +475,6 @@ tabs-toolbar-list-all-tabs =
     .label = Lista di tutti i schedi
     .tooltiptext = Lista di tutti i schedi
 
-## Infobar shown at startup to suggest session-restore
-
-
-## Infobar shown when the user tries to open a file picker and file pickers are blocked by enterprise policy
-
-
-## Mozilla data reporting notification (Telemetry, Firefox Health Report, etc)
-
-
 ## Unified extensions (toolbar) button
 
 unified-extensions-button =
@@ -556,18 +508,12 @@ unified-extensions-button-blocklisted =
         Stinneri
         Certi stinneri sunnu sdisabbilitati
 
-## Private browsing reset button
-
-
 ## Autorefresh blocker
 
 refresh-blocked-redirect-label = { -brand-short-name } bluccau sta pàggina di purtàriti ’n autumàticu a n’autra pàggina.
 refresh-blocked-allow =
     .label = Pirmetti
     .accesskey = P
-
-## Firefox Relay integration
-
 
 ## Add-on Pop-up Notifications
 
@@ -592,16 +538,3 @@ popup-warning-button =
 #   $popupURI (String): the URI for the pop-up window
 popup-show-popup-menuitem =
     .label = Mustra “{ $popupURI }”
-
-## File-picker crash notification ("FilePickerCrashed.sys.mjs")
-
-
-# Button used with file-picker-crashed-save-default. Opens the folder in Windows
-# Explorer, with the saved file selected and in focus.
-#
-# The wording here should be consistent with the Windows variant of
-# `downloads-cmd-show-menuitem-2` and similar messages.
-
-
-## Onboarding Finish Setup checklist
-

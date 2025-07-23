@@ -256,7 +256,9 @@ tabbrowser-manager-current-window-tab-group =
     .label = { $tabGroupName }
     .tooltiptext = { $tabGroupName } – Aktualne wokno
 
-## Tab Groups
+## Variables:
+##  $tabGroupName (String): The name of the tab group. Defaults to the value
+##                          of tab-group-name-default.
 
 tab-group-editor-title-create = Rejtarikowu kupku napóraś
 tab-group-editor-title-edit = Rejtarikowu kupku zastojaś
@@ -286,16 +288,12 @@ tab-group-editor-color-selector2-gray = Šery
     .title = Šery
 tab-group-editor-color-selector2-red = Cerwjeny
     .title = Cerwjeny
-# Variables:
-#  $tabGroupName (String): The name of the tab group. Defaults to the value
-#                          of tab-group-name-default.
 tab-group-description = { $tabGroupName } – kupka rejtarikow
 tab-context-unnamed-group =
     .label = Kupka bźez mjenja
 tab-group-name-default = Kupka bźez mjenja
 
-## Variables:
-##  $tabCount (Number): the number of tabs that are affected by the action.
+##
 
 tab-context-move-tab-to-new-group =
     .label =

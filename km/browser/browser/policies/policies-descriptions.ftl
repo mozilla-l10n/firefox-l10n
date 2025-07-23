@@ -40,9 +40,6 @@ policy-DisplayMenuBar = បង្ហាញរបារម៉ឺនុយតា�
 policy-DNSOverHTTPS = កំណត់​រចនាសម្ព័ន្ធ DNS នៅ​លើ HTTPS ។
 policy-InstallAddonsPermission = អនុញ្ញាត​ឲ្យ​​គេហទំព័រ​ណា​មួយ​ដំឡើង​កម្មវិធី​ផ្នែក​បន្ថែម។
 
-## Do not translate "SameSite", it's the name of a cookie attribute.
-
-
 ##
 
 policy-Proxy = កំណត់​ការកំណត់​ប្រូកស៊ី។

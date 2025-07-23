@@ -36,9 +36,6 @@ shopping-message-bar-keep-closed-header =
 
 shopping-highlight-shipping = Доставка
 
-## Strings for show more card
-
-
 ## Strings for the settings card
 
 shopping-settings-recommendations-toggle =
@@ -48,12 +45,6 @@ powered-by-fakespot = Проверка на отзиви се осигурява
 shopping-settings-auto-open-toggle =
     .label = Автоматично отваряне на Проверка на отзиви
 shopping-settings-sidebar-enabled-state = Проверка на отзивите е <strong>включена</strong>
-
-## Strings for the adjusted rating component
-
-
-## Strings for the review reliability component
-
 
 ## Strings for the analysis explainer component
 
@@ -72,14 +63,6 @@ shopping-sidebar-open-button2 =
     .tooltiptext = Проверка на отзиви
 shopping-sidebar-close-button2 =
     .tooltiptext = Затваряне на Проверка на отзиви
-
-## Strings for the unanalyzed product card.
-## The word 'analyzer' when used here reflects what this tool is called on
-## fakespot.com. If possible, a different word should be used for the Fakespot
-## tool (the Fakespot by Mozilla 'analyzer') other than 'checker', which is
-## used in the name of the Firefox feature ('Review Checker'). If that is not
-## possible - if these terms are not meaningfully different - that is OK.
-
 
 ## Strings for the advertisement
 

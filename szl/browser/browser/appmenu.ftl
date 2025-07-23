@@ -251,9 +251,3 @@ appmenu-customizetoolbar =
 appmenu-developer-tools-subheader = Noczynia przeglōndarki
 appmenu-developer-tools-extensions =
     .label = Rozszyrzynia do deweloprōw
-
-## Panel for privacy and security products
-
-
-## Profiles panel
-

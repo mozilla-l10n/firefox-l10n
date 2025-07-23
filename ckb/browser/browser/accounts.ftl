@@ -81,9 +81,3 @@ account-multiple-tabs-arriving-from-unknown-device =
         [one] { $tabCount } بازدەر گەیشتن
        *[other] { $tabCount } بازدەر گەیشت
     }
-
-## These strings are used in notifications in which the user remotely closed
-## tabs from other devices
-## Variables:
-##   $closedCount (Number): the number of tabs closed
-

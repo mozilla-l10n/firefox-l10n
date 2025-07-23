@@ -3,12 +3,12 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 refresh-profile-dialog-title =
-    Вратити подразумевана подешавања { -brand-short-name.gender ->
-        [masculine] { -brand-short-name(case: "gen") }
-        [feminine] { -brand-short-name(case: "gen") }
-        [neuter] { -brand-short-name(case: "gen") }
-       *[other] програма { -brand-short-name }
-    }?
+    { -brand-short-name.gender ->
+        [masculine] Вратити подразумевана подешавања { -brand-short-name(case: "gen") }?
+        [feminine] Вратити подразумевана подешавања { -brand-short-name(case: "gen") }?
+        [neuter] Вратити подразумевана подешавања { -brand-short-name(case: "gen") }?
+       *[other] Вратити подразумевана подешавања програма { -brand-short-name }?
+    }
 refresh-profile-dialog-button =
     .label = Освежи { -brand-short-name }
 refresh-profile-dialog-description = Вратите се у почетно стање и решите проблем перформанси. Ово ће уклонити ваша проширења и прилагођавања. Нећете изгубити основне податке попут обележивача и лозинки.

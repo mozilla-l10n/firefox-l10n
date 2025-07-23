@@ -45,9 +45,3 @@ about-networking-rcwn-avg-long = લાંબુ સરેરાશ
 about-networking-rcwn-std-dev-long = લાંબા ધોરણ વિચલન
 about-networking-rcwn-cache-slow = કેશ ધીમી ગણતરી
 about-networking-rcwn-cache-not-slow = કેશની ધીમી ગણતરી નથી
-
-## Link is intended as "network link"
-
-
-##
-

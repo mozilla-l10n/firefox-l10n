@@ -542,9 +542,6 @@ newtab-custom-wallpaper-title = Własne tapety już tu są
 newtab-custom-wallpaper-subtitle = Ustaw własną tapetę lub wybierz dowolny kolor, aby { -brand-product-name } stał się Twój.
 newtab-custom-wallpaper-cta = Wypróbuj
 
-## Strings for new user activation custom wallpaper highlight
-
-
 ## Strings for download mobile highlight
 
 newtab-download-mobile-highlight-title = Pobierz { -brand-product-name(case: "acc") } na telefon

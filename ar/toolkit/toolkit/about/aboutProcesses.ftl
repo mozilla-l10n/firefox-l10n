@@ -53,9 +53,6 @@ about-processes-unknown-process = أخرى: { $type } ({ $pid })
 
 about-processes-web-isolated-process = { $origin } ({ $pid })
 
-## Details within processes
-
-
 ## Utility process actor names
 
 # "Oracle" refers to an internal Firefox process and should be kept in English

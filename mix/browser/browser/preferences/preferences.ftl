@@ -35,17 +35,6 @@ should-restart-ok = Ndakitsa{ -brand-short-name }michumi
 cancel-no-restart-button = Kunchatu
 restart-later = Ndakitsa nunu ka
 
-## Extension Control Notifications
-##
-## These strings are used to inform the user
-## about changes made by extensions to browser settings.
-##
-## <img data-l10n-name="icon"/> is going to be replaced by the extension icon.
-##
-## Variables:
-##   $name (string) - Name of the extension
-
-
 ## Preferences UI Search Results
 
 search-results-header = Nduku resultados
@@ -59,13 +48,6 @@ browser-containers-settings =
     .label = Nda sama...
     .accesskey = n
 containers-disable-alert-title = ¿A kunu kasu ntii xikua?
-
-## Variables:
-##   $tabCount (number) - Number of tabs
-
-
-##
-
 
 ## General Section - Language & Appearance
 
@@ -97,11 +79,6 @@ download-choose-folder =
         }
 applications-header = Aplicaciones
 
-## The strings in this group are used to populate
-## selected label element based on the string from
-## the selected menu item.
-
-
 ##
 
 play-drm-content-learn-more = Skua'a kuakaa
@@ -122,9 +99,6 @@ browsing-title = Sucha
 
 network-proxy-connection-learn-more = Skua'a kuakaa
 
-## Home Section
-
-
 ## Home Section - Home Page Customization
 
 home-newtabs-mode-label = Xikua tsa'a
@@ -140,12 +114,6 @@ home-homepage-custom-url =
 choose-bookmark =
     .label = Kuachu'un  markador…
     .accesskey = m
-
-## Home Section - Firefox Home Content Customization
-
-
-## Home Section - Firefox Home Content Customization
-
 
 ##
 
@@ -170,17 +138,6 @@ search-remove-engine =
 containers-remove-button =
     .label = Xitaá
 
-## Firefox account - Signed out. Note that "Sync" and "Firefox account" are now
-## more discrete ("signed in" no longer means "and sync is connected").
-
-
-## Firefox account - Signed in
-
-
-## Variables
-## $email (string) - Email used for Firefox account
-
-
 ##
 
 sync-remove-account =
@@ -189,12 +146,6 @@ sync-remove-account =
 sync-sign-in =
     .label = Kitsaa
     .accesskey = K
-
-## Sync section - enabling or disabling sync.
-
-
-## The list of things currently syncing.
-
 
 ## The "Choose what to sync" dialog.
 
@@ -221,25 +172,6 @@ sync-device-name-cancel =
 sync-device-name-save =
     .label = Chika vaà
     .accesskey = g
-
-## These strings are shown in a desktop notification after the
-## user requests we resend a verification email.
-
-
-## Privacy Section
-
-
-## Privacy Section - Logins and Passwords
-
-
-## Privacy Section - Passwords
-
-
-## OS Authentication dialog
-
-
-## Privacy section - Autofill
-
 
 ## Privacy Section - History
 
@@ -269,12 +201,6 @@ sitedata-settings =
     .label = Katsi tutu…
     .accesskey = M
 
-## Privacy Section - Cookie Banner Handling
-
-
-## Privacy Section - Cookie Banner Blocking
-
-
 ## Privacy Section - Address Bar
 
 addressbar-locbar-history-option =
@@ -287,24 +213,12 @@ addressbar-locbar-openpage-option =
     .label = Kuna xikua
     .accesskey = K
 
-## Privacy Section - Content Blocking
-
-
 ## These strings are used to define the different levels of
 ## Enhanced Tracking Protection.
 
 enhanced-tracking-protection-setting-custom =
     .label = Nixi kunu
     .accesskey = N
-
-##
-
-
-# The tcp-rollout strings are no longer used for the rollout but for tcp-by-default in the standard section
-
-
-## Privacy Section - Tracking
-
 
 ## Privacy Section - Permissions
 
@@ -335,24 +249,12 @@ permissions-addon-exceptions =
 
 collection-health-report-link = Kavi
 
-## Privacy Section - Website Advertising Preferences
-
-
 ## Privacy Section - Security
 ##
 ## It is important that wording follows the guidelines outlined on this page:
 ## https://developers.google.com/safe-browsing/developers_guide_v2#AcceptableUsage
 
 security-enable-safe-browsing-link = Skua'a kuakaa
-
-## Privacy Section - Certificates
-
-
-## Privacy Section - HTTPS-Only
-
-
-## DoH Section
-
 
 ## The following strings are used in the Download section of settings
 

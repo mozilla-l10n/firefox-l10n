@@ -26,9 +26,3 @@ about-networking-bytes-sent = បាន​ផ្ញើ​បៃ
 about-networking-bytes-received = ចំនួន​បៃ​ដែល​បាន​ទទួល
 about-networking-dns-lookup-button = ដោះស្រាយ
 about-networking-dns-lookup-table-column = IPs
-
-## Link is intended as "network link"
-
-
-##
-

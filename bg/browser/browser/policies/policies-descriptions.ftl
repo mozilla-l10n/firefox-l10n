@@ -29,9 +29,6 @@ policy-DNSOverHTTPS = Настройки на DNS през HTTPS.
 policy-DontCheckDefaultBrowser = Изключване на проверката за браузър по подразбиране при стартиране.
 policy-InstallAddonsPermission = Разрешава определени страници да инсталират добавки.
 
-## Do not translate "SameSite", it's the name of a cookie attribute.
-
-
 ##
 
 policy-Permissions2 = Настройване права за камера, микрофон, местоположение, известия и автоматично възпроизвеждане.

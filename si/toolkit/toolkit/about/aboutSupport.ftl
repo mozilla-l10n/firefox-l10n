@@ -124,14 +124,6 @@ media-device-format = ආකෘතිය
 media-device-channels = නාලිකා
 media-device-latency = ගුප්තතාව
 
-## Codec support table
-
-
-## Media Content Decryption Modules (CDM)
-## See EME Spec for more explanation for following technical terms
-## https://w3c.github.io/encrypted-media/
-
-
 ##
 
 intl-app-title = යෙදුමේ සැකසුම්
@@ -258,10 +250,6 @@ touch-enabled = ස්පර්ශ ආදානය සබලයි
 drag-enabled = අනුචලන තීරුව ඇදීම සබලයි
 keyboard-enabled = යතුරුපුවරුව සබලයි
 
-## Variables
-## $preferenceKey (string) - String ID of preference
-
-
 ## Strings representing the status of the Enterprise Policies engine.
 
 policies-inactive = අක්‍රිය
@@ -289,9 +277,3 @@ support-remote-experiments-name = නම
 support-remote-features-title = දුරස්ථ විශේෂාංග
 support-remote-features-name = නම
 support-remote-features-status = තත්‍වය
-
-## Pointing devices
-
-
-## Content Analysis (DLP)
-

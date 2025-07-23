@@ -117,9 +117,6 @@ permissions-exceptions-addons-window2 =
     .style = { permissions-window2.style }
 permissions-exceptions-addons-desc = ഏതൊക്കെ വെബ്‌ സൈറ്റുകള്‍ ആഡ്‌-ഓണുകള്‍ ഇന്‍സ്റ്റാള്‍ ചെയ്യണം എന്ന് താങ്കള്‍ക്ക്‌ നിഷ്കര്‍ഷിക്കാം. അനുവദിക്കെണ്ട സൈറ്റിന്റെ ശരിയായ വിലാസം ടൈപ്പ്‌ ചെയ്‌ത ശേഷം, അനുവദിക്കുക ബട്ടണ്‍ ക്ലിക്ക്‌ ചെയ്യുക
 
-## Site Permissions - Autoplay
-
-
 ## Site Permissions - Notifications
 
 permissions-site-notification-window2 =

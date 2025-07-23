@@ -30,9 +30,6 @@ about-webauthn-add-bio-enrollment-section-title = إضافة تسجيل جديد
 about-webauthn-results-success = تم!
 about-webauthn-results-general-error = خطأ!
 
-## Labels
-
-
 ## Buttons
 
 about-webauthn-cancel-button = ألغِ
@@ -70,12 +67,3 @@ about-webauthn-auth-info-true = صحيح
 # Shows when boolean value for an info field is False. False should not be translated.
 about-webauthn-auth-info-false = False
 about-webauthn-auth-info-null = غير مدعوم
-
-## Bio enrollment sample feedbacks
-
-
-## Scan (e.g. of fingerprint) was off-center (e.g. too high, too left, etc.).
-
-
-##
-

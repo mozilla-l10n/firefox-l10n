@@ -554,9 +554,6 @@ sharing-warning-screen = താങ്ങളുടെ പ്രലമാകെ �
 sharing-warning-proceed-to-tab =
     .label = ടാബിലേക്ക് ചെല്ലുക
 
-## DevTools F12 popup
-
-
 ## URL Bar
 
 # This string is used as an accessible name to the "X" button that cancels a custom search mode (i.e. exits the Amazon.com search mode).
@@ -991,10 +988,6 @@ edit-popup-settings =
     .label = പൊന്തുവരൽ ക്രമീകരണങ്ങൾ നിയന്ത്രിക്കുക...
     .accesskey = ക
 
-## Since the default position for PiP controls does not change for RTL layout,
-## right-to-left languages should use "Left" and "Right" as in the English strings,
-
-
 ##
 
 
@@ -1036,9 +1029,6 @@ tabs-toolbar-list-all-tabs =
 ## Infobar shown at startup to suggest session-restore
 
 restore-session-startup-suggestion-button = എങ്ങനെയെന്നു് കാണിയ്ക്കുക.
-
-## Infobar shown when the user tries to open a file picker and file pickers are blocked by enterprise policy
-
 
 ## Mozilla data reporting notification (Telemetry, Firefox Health Report, etc)
 
@@ -1107,9 +1097,6 @@ refresh-blocked-redirect-label = മറ്റൊരു താളിലേക്�
 refresh-blocked-allow =
     .label = അനുവദിക്കുക
     .accesskey = A
-
-## Firefox Relay integration
-
 
 ## Add-on Pop-up Notifications
 

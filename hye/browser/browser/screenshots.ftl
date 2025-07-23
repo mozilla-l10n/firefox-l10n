@@ -47,10 +47,3 @@ screenshots-generic-error-details = Մենք վստահ չենք, թէ ինչ է
 screenshots-component-retry-button =
     .title = Կրկին փորձել
     .aria-label = Կրկին փորձել
-
-## The below strings are used to capture keydown events so the strings should
-## not be changed unless the keyboard layout in the locale requires it.
-
-
-##
-

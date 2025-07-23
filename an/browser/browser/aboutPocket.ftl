@@ -45,9 +45,3 @@ pocket-panel-home-paragraph = Puetz fer servir { -pocket-brand-name } pa explora
 pocket-panel-home-explore-popular-topics = Explorar los temas populars
 pocket-panel-home-discover-more = Descubrir-ne mas
 pocket-panel-home-explore-more = Explorar
-
-## Pocket panel header component
-
-
-## Pocket panel buttons
-

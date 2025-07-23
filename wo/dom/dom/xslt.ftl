@@ -10,10 +10,3 @@ xslt-network-error = Amna njumte bi ñuy yeb melinu kayitu XSLT:
 # Variables:
 #   $errorCode (String) - The error code (formatted in hexadecimal)
 xslt-unknown-error = Njumte bu kenn xamul am na ({ $errorCode }).
-
-## Messages for the XML error page.
-##
-## Variables:
-##   $error (string) - the specific XSLT or XPath error (a translated string
-##   from the previous section)
-

@@ -63,6 +63,3 @@ about-networking-moved-about-logging = Ова страница је премеш
 
 about-networking-networkid-is-up = Веза је успостављена
 about-networking-networkid-status-known = Стање везе непознато
-
-##
-

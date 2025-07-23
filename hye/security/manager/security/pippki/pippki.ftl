@@ -48,9 +48,6 @@ download-cert-view-cert =
     .label = դիտել
 download-cert-view-text = Ոսումնասիրել ԱՀ վկայագիրը
 
-## Client Authorization Ask dialog
-
-
 ## Client Authentication Ask dialog
 
 client-auth-window =
@@ -93,6 +90,3 @@ set-password-backup-pw =
 set-password-repeat-backup-pw =
     .value = Վկայագրի կրկնաւրինակի գաղտնաբառը (կրկին).
 set-password-reminder = Կարեւոր է. Եթե մոռանաք ձեր վկայագրի կրկնաւրինակի գաղտնաբառը. չէք կարողանայ այս կրկնաւրինակն աւգտագործել: Խնդրանաւք, գրի առէք այն եւ ապահով տեղում պահէք:
-
-## Protected authentication alert
-

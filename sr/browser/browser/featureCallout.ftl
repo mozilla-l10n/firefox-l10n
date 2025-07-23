@@ -63,34 +63,10 @@ split-dismiss-button-show-fewer-option =
 split-dismiss-button-manage-settings-option =
     .label = Управљај подешавањима
 
-## Login Status Advisory Callout (points to the account icon)
-
-
-## Bookmarks toolbar callout strings
-
-
-## Perplexity callout strings
-
-
-## Account Adoption Passwords callout strings
-
-
 ## Sidebar Strings
 
 sidebar-button-callout-title = Прикажи наслове картица у бочном панелу
 sidebar-button-callout-subtitle = Користите тастер за бочни панел да проширите исти и видите наслове картица.
-
-## Sidebar Vertical Tabs Strings
-
-
-## Sidebar Vertical Tabs Pinning Strings
-
-
-## Pinning Tabs Strings
-
-
-## Sidebar Onboarding Strings
-
 
 ## Sidebar Callout Survey Strings
 

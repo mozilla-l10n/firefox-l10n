@@ -4,10 +4,6 @@
 
 xpinstall-prompt = { -brand-short-name } го спречи ова место да побара да инсталирате софтвер на вашиот компјутер.
 
-## Variables:
-##   $host (String): The hostname of the site the add-on is being installed from.
-
-
 ##
 
 xpinstall-prompt-dont-allow =
@@ -51,12 +47,3 @@ addon-install-cancel-button =
 addon-install-accept-button =
     .label = Додај
     .accesskey = Д
-
-## Variables:
-##   $addonCount (Number): the number of add-ons being installed
-
-
-## Add-on install errors
-## Variables:
-##   $addonName (String): the add-on name.
-

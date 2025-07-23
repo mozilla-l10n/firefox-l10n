@@ -2,13 +2,6 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-
-## Variables:
-## $timeValue (number) - Number of units of time
-
-
-##
-
 # — is the "em dash" (long dash)
 # example: 4 minutes left — 1.1 of 11.1 GB (2.2 MB/sec)
 # Variables:

@@ -47,7 +47,3 @@ about-logging-error = Greška:
 
 about-logging-invalid-output = Neispravna vrijednost „{ $v }” za ključ „{ $k }”
 about-logging-unknown-option = Nepoznata about:logging opcija „{ $k }”
-
-## The upload interface is shown only with the preference toolkit.aboutLogging.uploadProfileToCloud
-## set to true. It is false by default, except on Android.
-

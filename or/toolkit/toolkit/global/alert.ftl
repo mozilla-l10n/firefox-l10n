@@ -4,6 +4,3 @@
 
 alert-close =
     .tooltiptext = ଏହି ବିଜ୍ଞପ୍ତିକୁ ବନ୍ଦ କରନ୍ତୁ
-
-## Reminder Notifications
-

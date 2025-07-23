@@ -129,14 +129,6 @@ media-capabilities-title = মিডিয়ার ক্ষমতা
 # List all the entries of the database.
 media-capabilities-enumerate = ডাটাবেইজ তালিকাভুক্তি
 
-## Codec support table
-
-
-## Media Content Decryption Modules (CDM)
-## See EME Spec for more explanation for following technical terms
-## https://w3c.github.io/encrypted-media/
-
-
 ##
 
 intl-title = আন্তর্জাতিকিকরণ & স্থানীয়করণ
@@ -305,18 +297,3 @@ touch-warning = অ্যাসিঙ্ক টাচ ইনপুট অসম�
 policies-inactive = নিষ্ক্রিয়
 policies-active = সক্রিয়
 policies-error = ত্রুটি
-
-## Printing section
-
-
-## Remote Settings sections
-
-
-## Normandy sections
-
-
-## Pointing devices
-
-
-## Content Analysis (DLP)
-

@@ -70,9 +70,6 @@ urlbar-tip-icon-description =
 
 urlbar-search-tips-onboard = ઓછ ટાઇપ કરો, વધુ શોધો: { $engineName } તમારા સરનામાં બારમાંથી જ શોધો.
 
-## Local search mode indicator labels in the urlbar
-
-
 ##
 
 urlbar-geolocation-blocked =
@@ -104,9 +101,6 @@ urlbar-star-edit-bookmark =
 urlbar-star-add-bookmark =
     .tooltiptext = આ પાનાં ({ $shortcut }) ને બુકમાર્ક કરો
 
-## Page Action Context Menu
-
-
 ## Auto-hide Context Menu
 
 full-screen-autohide =
@@ -133,19 +127,6 @@ search-one-offs-context-set-as-default =
 # submenu using this as its label.
 search-one-offs-add-engine-menu =
     .label = શોધ એન્જિન ઉમેરો
-
-## Local search mode one-off buttons
-## Variables:
-##  $restrict (String): The restriction token corresponding to the search mode.
-##    Restriction tokens are special characters users can type in the urlbar to
-##    restrict their searches to certain sources (e.g., "*" to search only
-##    bookmarks).
-
-
-## QuickActions are shown in the urlbar as the user types a matching string
-## The -cmd- strings are comma separated list of keywords that will match
-## the action.
-
 
 ## Bookmark Panel
 
@@ -212,26 +193,9 @@ browser-window-minimize-button =
 browser-window-close-button =
     .tooltiptext = બંધ કરો
 
-## Tab actions
-
-
-## These labels should be written in all capital letters if your locale supports them.
-## Variables:
-##  $count (number): number of affected tabs
-
-
-## Bookmarks toolbar items
-
-
 ## WebRTC Pop-up notifications
 
 popup-all-windows-shared = તમારી સ્ક્રીન પર બધી દૃશ્યમાન વિન્ડો વહેંચાયેલ હશે.
-
-## WebRTC window or screen share tab switch warning
-
-
-## DevTools F12 popup
-
 
 ## URL Bar
 
@@ -267,17 +231,6 @@ urlbar-result-action-search-w-engine = { $engine } સાથે શોધો
 urlbar-result-action-switch-tab = ટૅબ પર સ્વિચ કરો
 urlbar-result-action-visit = મુલાકાત
 
-## Strings used for buttons in the urlbar
-
-
-## Action text shown in urlbar results, usually appended after the search
-## string or the url, like "result value - action text".
-## In these actions "Search" is a verb, followed by where the search is performed.
-
-
-## Labels shown above groups of urlbar results
-
-
 ## Reader View toolbar buttons
 
 # This should match menu-view-enter-readerview in menubar.ftl
@@ -286,11 +239,6 @@ reader-view-enter-button =
 # This should match menu-view-close-readerview in menubar.ftl
 reader-view-close-button =
     .aria-label = રીડર દૃશ્ય બંધ કરો
-
-## Picture-in-Picture urlbar button
-## Variables:
-##   $shortcut (String) - Keyboard shortcut to execute the command.
-
 
 ## Full Screen and Pointer Lock UI
 
@@ -368,9 +316,6 @@ save-to-pocket-button =
     .label = { -pocket-brand-name } પર સાચવો
     .tooltiptext = { -pocket-brand-name } પર સાચવો
 
-## Repair text encoding toolbar button
-
-
 ## Customize Toolbar Buttons
 
 toolbar-overflow-customize-button =
@@ -402,9 +347,6 @@ toolbar-button-new-private-window =
 
 eme-notifications-drm-content-playing = આ સાઇટ પરના કેટલાક ઑડિઓ અથવા વિડિઓ DRM સૉફ્ટવેરનો ઉપયોગ કરે છે, જે { -brand-short-name } તમને તેની સાથે શું કરી શકે છે તે મર્યાદિત કરી શકે છે.
 
-## Password save/update panel
-
-
 ##
 
 ui-tour-info-panel-close =
@@ -425,10 +367,6 @@ popups-infobar-block =
 popups-infobar-dont-show-message =
     .label = જ્યારે પોપઅપ અટકાવાયેલ હોય ત્યારે આ સંદેશો બતાવશો નહિં
     .accesskey = D
-
-## Since the default position for PiP controls does not change for RTL layout,
-## right-to-left languages should use "Left" and "Right" as in the English strings,
-
 
 ##
 
@@ -463,36 +401,12 @@ tabs-toolbar-list-all-tabs =
     .label = બધા ટૅબ્સની યાદી કરો
     .tooltiptext = બધા ટૅબ્સની યાદી કરો
 
-## Infobar shown at startup to suggest session-restore
-
-
-## Infobar shown when the user tries to open a file picker and file pickers are blocked by enterprise policy
-
-
 ## Mozilla data reporting notification (Telemetry, Firefox Health Report, etc)
 
 data-reporting-notification-message = { -brand-short-name } એ { -vendor-short-name } ને આપોઆપ અમુક માહિતી મોકલે છે કે જેથી અમે તમારો અનુભવ સુધારી શકીએ.
 data-reporting-notification-button =
     .label = શું વહેંચવું છે તે પસંદ કરો
     .accesskey = C
-
-## Unified extensions (toolbar) button
-
-
-## Unified extensions button when permission(s) are needed.
-## Note that the new line is intentionally part of the tooltip.
-
-
-## Unified extensions button when some extensions are quarantined.
-## Note that the new line is intentionally part of the tooltip.
-
-
-## Unified extensions button when some extensions are disabled (e.g. through add-ons blocklist).
-## Note that the new line is intentionally part of the tooltip.
-
-
-## Private browsing reset button
-
 
 ## Autorefresh blocker
 
@@ -501,9 +415,6 @@ refresh-blocked-redirect-label = { -brand-short-name } એ આ પાનાં�
 refresh-blocked-allow =
     .label = પરવાનગી આપો
     .accesskey = A
-
-## Firefox Relay integration
-
 
 ## Add-on Pop-up Notifications
 
@@ -538,16 +449,3 @@ popup-warning-button =
 #   $popupURI (String): the URI for the pop-up window
 popup-show-popup-menuitem =
     .label = '{ $popupURI }' બતાવો
-
-## File-picker crash notification ("FilePickerCrashed.sys.mjs")
-
-
-# Button used with file-picker-crashed-save-default. Opens the folder in Windows
-# Explorer, with the saved file selected and in focus.
-#
-# The wording here should be consistent with the Windows variant of
-# `downloads-cmd-show-menuitem-2` and similar messages.
-
-
-## Onboarding Finish Setup checklist
-

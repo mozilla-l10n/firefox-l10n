@@ -19,10 +19,3 @@ about-logging-preset-networking-cookie-label = കുക്കികള്‍
 # This is specifically "Microsoft Windows". Microsoft normally doesn't localize it, and we should follow their convention here.
 about-logging-preset-windows-label = Windows
 about-logging-preset-custom-label = ഇഷ്ടാനുസൃതം
-
-##
-
-
-## The upload interface is shown only with the preference toolkit.aboutLogging.uploadProfileToCloud
-## set to true. It is false by default, except on Android.
-

@@ -69,10 +69,6 @@ open-in-new-window-for-csp-or-xfo-error = Aberi situ in una ventana noa
 #   $hostname (string) - Hostname of the website blocked by csp or xfo error.
 csp-xfo-blocked-long-desc = Pro amparare sa seguresa tua, { $hostname } no at a permìtere { -brand-short-name } de ammustrare sa pàgina si est inclùdida in un'àteru situ. Pro visualizare sa pàgina, depes abèrrere una ventana noa.
 
-## Variables:
-##   $hostname (string) - Hostname of the website with cert error.
-
-
 ## Messages used for certificate error titles
 
 connectionFailure-title = Impossìbile connètere
@@ -117,7 +113,3 @@ certerror-mitm-title = Unu programma est evitende chi { -brand-short-name } si c
 ## Felt Privacy V1 Strings
 
 fp-certerror-what-can-you-do = Ite nche podes fàghere?
-
-## Variables:
-##   $hostname (String) - Hostname of the website to which the user was trying to connect.
-

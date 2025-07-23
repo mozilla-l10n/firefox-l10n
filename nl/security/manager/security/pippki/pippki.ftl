@@ -48,9 +48,6 @@ download-cert-view-cert =
     .label = Weergeven
 download-cert-view-text = CA-certificaat bestuderen
 
-## Client Authorization Ask dialog
-
-
 ## Client Authentication Ask dialog
 
 client-auth-window =

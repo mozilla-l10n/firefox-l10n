@@ -317,27 +317,3 @@ onboarding-device-migration-image-alt =
 onboarding-device-migration-title = ຍິນ​ດີ​ຕ້ອນ​ຮັບ​ກັບ!
 onboarding-device-migration-subtitle = ເຂົ້າສູ່ລະບົບ { -fxaccount-brand-name(capitalization: "sentence") } ຂອງທ່ານເພື່ອນຳເອົາບຸກມາກ, ລະຫັດຜ່ານ ແລະ ປະຫວັດຂອງທ່ານໄປນຳໃນອຸປະກອນໃໝ່ຂອງທ່ານ.
 onboarding-device-migration-primary-button-label = ເຂົ້າສູ່ລະບົບ
-
-## Add-ons Picker screen
-
-
-## The following screens have been updated to use security and privacy focused strings:
-
-
-## New user time and familiarity survey strings
-
-
-## UI strings for the sidebar and vertical tabs
-
-
-## New user onboarding checklist
-
-
-## Tab Groups feature onboarding strings
-
-
-## Multi Profiles feature onboarding messages
-
-
-## Desktop to Mobile Adoption feature callout strings
-

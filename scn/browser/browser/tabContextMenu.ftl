@@ -50,7 +50,3 @@ move-to-end =
 move-to-new-window =
     .label = Movi nta na finestra nova
     .accesskey = f
-
-## Variables:
-##  $tabCount (Number): the number of tabs that are affected by the action.
-

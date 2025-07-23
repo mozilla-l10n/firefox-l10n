@@ -12,10 +12,3 @@ extension-firefox-compact-light-description = ഇളം നിറങ്ങളു
 extension-firefox-compact-dark-name = ഇരുണ്ടത്
 extension-firefox-compact-dark-description = ഇരുണ്ട നിറങ്ങളുള്ള ഒരു ചായം.
 extension-firefox-alpenglow-name = ഫയർഫോക്സ് ആല്പെൻഗ്ലോ
-
-## Colorway Themes
-## These themes are variants of a colorway. The colorway is specified in the
-## $colorway-name variable.
-## Variables
-##   $colorway-name (String) The name of a colorway (e.g. Graffiti, Elemental).
-

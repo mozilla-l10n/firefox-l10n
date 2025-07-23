@@ -43,6 +43,3 @@ fxviewtabrow-save-to-pocket = { -pocket-brand-name }मा बचत गर्�
     .accesskey = o
 fxviewtabrow-copy-link = लिङ्कको प्रतिलिपि बनाउनुहोस्
     .accesskey = L
-
-## Strings below are to be used without context (tab title/URL) on mute/unmute buttons
-

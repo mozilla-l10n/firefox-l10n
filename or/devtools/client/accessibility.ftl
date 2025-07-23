@@ -8,20 +8,7 @@
 accessibility-learn-more = ଅଧିକ ଜାଣନ୍ତୁ
 accessibility-keyboard-header = କୀବୋର୍ଡ୍
 
-## These strings are used in the overlay displayed when running an audit in the accessibility panel
-
-
 ## Text entries that are used as text alternative for icons that depict accessibility issues.
 
 accessibility-fail =
     .alt = ତ୍ରୁଟି
-
-## Text entries for a paragraph used in the accessibility panel sidebar's checks section
-## that describe that currently selected accessible object has an accessibility issue
-## with its text label or accessible name.
-
-
-## Text entries for a paragraph used in the accessibility panel sidebar's checks section
-## that describe that currently selected accessible object has a keyboard accessibility
-## issue.
-

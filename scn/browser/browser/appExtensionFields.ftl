@@ -9,10 +9,3 @@ extension-firefox-compact-light-name = Chiaru
 extension-firefox-compact-light-description = Un tema cu nu schema di culuri chiaru.
 extension-firefox-compact-dark-name = Scuru
 extension-firefox-compact-dark-description = Un tema cu nu schema di culuri scuru.
-
-## Colorway Themes
-## These themes are variants of a colorway. The colorway is specified in the
-## $colorway-name variable.
-## Variables
-##   $colorway-name (String) The name of a colorway (e.g. Graffiti, Elemental).
-

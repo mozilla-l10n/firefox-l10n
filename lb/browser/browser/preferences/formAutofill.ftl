@@ -15,18 +15,9 @@ autofill-edit-address-title = Adress änneren
 autofill-address-given-name = Virnumm
 autofill-address-organization = Organisatioun
 
-## address-level-3 (Sublocality) names
-
-
-## address-level-2 names
-
-
 ## address-level-1 names
 
 autofill-address-province = Provënz
-
-## Postal code name types
-
 
 ##
 
@@ -37,6 +28,3 @@ autofill-cancel-button = Ofbriechen
 autofill-save-button = Späicheren
 autofill-card-number = Kaartennummer
 autofill-card-name-on-card = Numm op der Kaart
-
-## These are brand names and should only be translated when a locale-specific name for that brand is in common use
-

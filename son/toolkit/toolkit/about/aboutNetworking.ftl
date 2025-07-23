@@ -29,9 +29,3 @@ about-networking-dns-lookup = DNS gunari
 about-networking-dns-lookup-button = Anniya
 about-networking-dns-domain = Laama:
 about-networking-dns-lookup-table-column = IPs
-
-## Link is intended as "network link"
-
-
-##
-

@@ -9,9 +9,6 @@ devmgr-button-login =
     .label = Ixe't aq'on
     .accesskey = n
 
-## Strings used for load device
-
-
 ## Token Manager
 
 devinfo-hwversion =

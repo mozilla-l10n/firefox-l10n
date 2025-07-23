@@ -7,10 +7,6 @@ search-header =
     .placeholder = addons.mozilla.org’da qıdır
     .searchbuttonlabel = Qıdır
 
-## Variables
-##   $domain - Domain name where add-ons are available (e.g. addons.mozilla.org)
-
-
 ##
 
 list-empty-installed =
@@ -204,28 +200,11 @@ shortcuts-card-collapse-button = Daha Az Köster
 header-back-button =
     .title = Keri bar
 
-## Recommended add-ons page
-
-
 ## Add-on actions
 
 remove-addon-button = Çetleştir
 disable-addon-button = Naqabilleştir
 enable-addon-button = Qabilleştir
-
-## Pending uninstall message bar
-
-
-## "sites with restrictions" (internally called "quarantined") are special domains
-## where add-ons are normally blocked for security reasons.
-
-
-## This is the tooltip text for the recommended badges for an extension in about:addons. The
-## badge is a small icon displayed next to an extension when it is recommended on AMO.
-
-
-##
-
 
 ## Page headings
 
@@ -279,10 +258,3 @@ plugins-openh264-name = OpenH264 Video Kodek (Cisco Systems, Inc. tarafından te
 plugins-openh264-description = Bu plagin, WebRTC belirtimine riayet içün ve H.264 video kodekini şart qoşqan cihazlar ile WebRTC körüşmelerini qabilleştirmek içün Mozilla tarafından öz-özünden qurulır. Kodekniñ menba kodunı körmek ve bu eda aqqında daa çoq ögrenmek içün http://www.openh264.org/ ziyaret etiñiz.
 plugins-widevine-name = Widevine Muhteva Deşifreleme Modüli (Google Inc. tarafından temin etilir)
 plugins-widevine-description = Bu plagin, Şifrelendirilgen Vasat Uzantıları belirtimine riayette şifrelendirilgen vasatlarnıñ oynatılmasını qabilleştirir. Şifrelendirilgen vasatlar tipik olaraq saytlar tarafından premyüm muhtevanıñ kopiyalanmasına qarşı imaye etmek içün qullanılır. Şifrelendirilgen Vasat Uzantıları aqqında daha çoq malümat içün https://www.w3.org/TR/encrypted-media/ ziyaret etiñiz.
-
-## Headings for the Permissions tab in `about:addons` when the data collection
-## feature is enabled.
-
-
-## Mapping Engine IDs from AI models to how that feature represented by the engine Id is described in the used by section in local model management
-

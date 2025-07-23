@@ -46,14 +46,3 @@ about-reader-font-type-sans-serif = Безсерифен
 about-reader-toolbar-close = Затваря изгледа за четене
 about-reader-toolbar-type-controls = Управление на шрифта
 about-reader-toolbar-savetopocket = Запазване в { -pocket-brand-name }
-
-## Reader View colors menu
-
-
-## These are used as labels for the custom theme color pickers.
-## The .title element is used to make the editing functionality
-## clear and give context for screen reader users.
-
-
-## Reader View text and layout menu
-

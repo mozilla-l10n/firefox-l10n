@@ -21,6 +21,3 @@ version-dd = <span data-l10n-name="version">Versioun:</span> { $version }
 
 mime-type-label = MIME Typ
 description-label = Beschreiwung
-
-## Gecko Media Plugins (GMPs)
-

@@ -22,24 +22,6 @@ certmgr-restore =
 exception-mgr-cert-location-url =
     .value = Mahali:
 
-## PKCS#12 file dialogs
-
-
-## Import certificate(s) file dialog
-
-
-## For editing certificates trust
-
-
 ## For Deleting Certificates
 
 delete-email-cert-confirm = Uyaqiniseka yini ukuthi ufuna ukuzicisha lezi zitifiketi zezingosi zewebhu?
-
-## Used to show whether an override is temporary or permanent
-
-
-## Add Security Exception dialog
-
-
-## Certificate export "Save as" and error dialogs
-

@@ -6,28 +6,7 @@
 ### Localization for Developer Tools options
 
 
-## Default Developer Tools section
-
-
-## Inspector section
-
-
-## "Default Color Unit" options for the Inspector
-
-
-## Web Console section
-
-
 ## Style Editor section
 
 # The heading
 options-styleeditor-label = Kihariri Mtindo
-
-## Screenshot section
-
-
-## Editor section
-
-
-## Advanced section
-

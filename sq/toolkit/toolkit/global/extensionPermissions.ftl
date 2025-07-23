@@ -58,6 +58,3 @@ webext-perms-description-data-short-searchTerms = terma kërkimi
 webext-perms-description-data-short-technicalAndInteraction = të dhëna teknike dhe ndërveprimesh
 webext-perms-description-data-short-websiteActivity = veprimtari sajti
 webext-perms-description-data-short-websiteContent = lëndë sajti
-
-## Long form to be used in `about:addons` when these data collection permissions are optional.
-

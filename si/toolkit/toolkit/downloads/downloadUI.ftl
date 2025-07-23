@@ -39,6 +39,3 @@ download-ui-cancel-downloads-ok =
         [1] බාගැනීමක් අවලංගු කරන්න
        *[other] බාගැනීම් { $downloadsCount } ක් අවලංගු කරන්න
     }
-
-##
-

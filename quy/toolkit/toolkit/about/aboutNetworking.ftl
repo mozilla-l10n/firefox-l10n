@@ -28,9 +28,3 @@ about-networking-dns-lookup = DNS nisqa machkasqa
 about-networking-dns-lookup-button = Allipachiy.
 about-networking-dns-domain = Lliwtukipasqapuni:
 about-networking-dns-lookup-table-column = IPs nisqa
-
-## Link is intended as "network link"
-
-
-##
-

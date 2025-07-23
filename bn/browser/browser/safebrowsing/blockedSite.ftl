@@ -32,14 +32,6 @@ safeb-blocked-phishing-page-learn-more =
 ## Variables
 ##  $sitename (string) - Domain name for the blocked page
 
-
-## Variables
-##  $sitename (string) - Domain name for the blocked page
-
-
-## Variables
-##  $sitename (string) - Domain name for the blocked page
-
 safeb-blocked-unwanted-page-error-desc-override = <span data-l10n-name='sitename'>{ $sitename }</span> সাইটটিতে <a data-l10n-name='error_desc_link'>ক্ষতিকারক সফটওয়ার রয়েছে বলে রিপোর্ট করা হয়েছে</a>। আপনি <a data-l10n-name='ignore_warning_link'>ঝুঁকি উপেক্ষা করে</a> এই অনিরাপদ সাইট ভিজিট করতে পারে।
 safeb-blocked-unwanted-page-error-desc-no-override = <span data-l10n-name='sitename'>{ $sitename }</span> সাইটটিতে <a data-l10n-name='error_desc_link'>ক্ষতিকারক সফটওয়ার রয়েছে বলে রিপোর্ট করা হয়েছে</a>।
 

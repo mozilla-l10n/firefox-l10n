@@ -383,10 +383,6 @@ addon-detail-private-browsing-help = Leidus, priedas turės priėjimą prie jūs
 addon-detail-private-browsing-allow = Leisti
 addon-detail-private-browsing-disallow = Neleisti
 
-## "sites with restrictions" (internally called "quarantined") are special domains
-## where add-ons are normally blocked for security reasons.
-
-
 ## This is the tooltip text for the recommended badges for an extension in about:addons. The
 ## badge is a small icon displayed next to an extension when it is recommended on AMO.
 
@@ -481,10 +477,3 @@ plugins-openh264-name = „OpenH264“ vaizdo kodekas, sukurtas „Cisco Systems
 plugins-openh264-description = Šis papildinys yra automatiškai įdiegiamas norint laikytis „WebRTC“ specifikacijos ir įgalinti „WebRTC“ skambučius su įrenginiais, kurie reikalauja H.264 vaizdo kodeko. Apsilankykite http://www.openh264.org/ norėdami peržiūrėti pirminį kodeko kodą ir sužinoti daugiau apie jo realizavimą.
 plugins-widevine-name = „Google Inc.“ teikiamas „Widevine“ turinio dešifravimo modulis (CDM).
 plugins-widevine-description = Šis papildinys leidžia atkurti užšifruotą turinį, laikantis „Encrypted Media Extensions“ specifikacijos. Užšifruotą turinį svetainės dažniausiai naudoja norėdamos apsisaugoti nuo mokamo turinio kopijavimo. Aplankykite https://www.w3.org/TR/encrypted-media/ norėdami sužinoti daugiau apie „Encrypted Media Extensions“.
-
-## Headings for the Permissions tab in `about:addons` when the data collection
-## feature is enabled.
-
-
-## Mapping Engine IDs from AI models to how that feature represented by the engine Id is described in the used by section in local model management
-

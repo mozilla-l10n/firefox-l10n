@@ -14,17 +14,3 @@ cert-error-trust-unknown-issuer-intro = Se akaj kiejekua nesi kenha ken ne sitio
 cert-error-trust-unknown-issuer = Ne sitios tik ne matapan kiejekuat inhidentidad iwan ipalewika ne certificados. { -brand-short-name } tesu kiyulmati { $hostname } ika icertificado tesu mumati, ne certificado mutajkwilua isel, u ne servidor tesu kititania ne yejyek certificados intermedios.
 cert-error-trust-cert-invalid = Ne certificado tesu muyulmati ika se certificadoj CA tesu yek kititanij.
 cert-error-trust-untrusted-issuer = Ne certificadoj tesu muyulmati ika ne icertificadoj ne ká kititania tesu muyulmati.
-
-## Variables:
-##   $hostname (string) - Hostname of the website with cert error.
-
-
-## Messages used for certificate error titles
-
-
-## Felt Privacy V1 Strings
-
-
-## Variables:
-##   $hostname (String) - Hostname of the website to which the user was trying to connect.
-

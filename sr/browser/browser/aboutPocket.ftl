@@ -41,12 +41,12 @@ pocket-panel-signup-signup-cta = Региструјте се на { -pocket-bran
 pocket-panel-signup-signup-firefox = Региструјте се помоћу { -brand-product-name(case: "gen") }
 pocket-panel-signup-tagline = Сачувајте чланке и видео-снимке из { -brand-product-name(case: "gen") } да бисте их погледали у { -pocket-brand-name(case: "loc") } на било ком уређају, било када.
 pocket-panel-signup-tagline-story-one =
-    Кликните на дугме { -pocket-brand-name } да бисте сачували чланак, видео или страницу из { -brand-product-name.gender ->
-        [masculine] { -brand-product-name(case: "gen") }
-        [feminine] { -brand-product-name(case: "gen") }
-        [neuter] { -brand-product-name(case: "gen") }
-       *[other] програма { -brand-product-name }
-    }.
+    { -brand-product-name.gender ->
+        [masculine] Кликните на дугме { -pocket-brand-name } да бисте сачували чланак, видео или страницу из { -brand-product-name(case: "gen") }.
+        [feminine] Кликните на дугме { -pocket-brand-name } да бисте сачували чланак, видео или страницу из { -brand-product-name(case: "gen") }.
+        [neuter] Кликните на дугме { -pocket-brand-name } да бисте сачували чланак, видео или страницу из { -brand-product-name(case: "gen") }.
+       *[other] Кликните на дугме { -pocket-brand-name } да бисте сачували чланак, видео или страницу из програма { -brand-product-name }.
+    }
 pocket-panel-signup-tagline-story-two = Погледајте у { -pocket-brand-name(case: "loc") } на било ком уређају, било када.
 pocket-panel-signup-cta-a-fix = Дугме за чување вашег интернет садржаја
 pocket-panel-signup-cta-b-updated = Кликните на { -pocket-brand-name } дугме да бисте сачували чланке, видео снимке и везе. Пронађите сачувани садржај на свим својим уређајима било када.

@@ -46,23 +46,11 @@ toolbar-button-stop =
 toolbar-button-stop-reload =
     .title = { main-context-menu-reload.aria-label }{ main-context-menu-reload.aria-label }
 
-## Firefox Account Button
-
-
-## Account toolbar Button
-
-
 ## Save Page
 
 main-context-menu-page-save =
     .label = Jup u U'uje' Eche' uva'…
     .accesskey = U
-
-## Simple menu items
-
-
-##
-
 
 ## Media (video/audio) controls
 ##
@@ -86,10 +74,6 @@ main-context-menu-media-loop =
     .label = Lakapuli
     .accesskey = L
 
-## The access keys for "Show Controls" and "Hide Controls" are the same
-## because the two context-menu items are mutually exclusive.
-
-
 ##
 
 main-context-menu-media-video-fullscreen =
@@ -98,9 +82,3 @@ main-context-menu-media-video-fullscreen =
 main-context-menu-image-copy =
     .label = eesa ivatz u  vatzib'ale'
     .accesskey = e
-
-##
-
-
-##
-

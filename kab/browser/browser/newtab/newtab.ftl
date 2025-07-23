@@ -361,9 +361,6 @@ feature-highlight-wallpaper =
     .title = { -newtab-wallpaper-feature-highlight-header }
     .aria-label = { -newtab-wallpaper-feature-highlight-content }
 
-## Celestial
-
-
 ## New Tab Weather
 
 # Variables:
@@ -451,17 +448,11 @@ newtab-section-mangage-topics-blocked-topics = Iwḥel
 newtab-section-mangage-topics-blocked-topics-empty-state = Ur tesweḥleḍ ula d yiwen usentel akka ar tura.
 newtab-custom-wallpaper-cta = Ɛreḍ-it
 
-## Strings for new user activation custom wallpaper highlight
-
-
 ## Strings for download mobile highlight
 
 newtab-download-mobile-highlight-title = Sader { -brand-product-name } i uziraz
 newtab-download-mobile-highlight-image =
     .aria-label = Tangalt QR i usader n { -brand-product-name } i uziraz
-
-## Strings for shortcuts highlight
-
 
 ## Strings for reporting ads and content
 
@@ -471,6 +462,3 @@ newtab-report-content-wrong-category =
     .label = Yir taggayt
 newtab-report-cancel = Sefsex
 newtab-report-submit = Azen
-
-## Strings for trending searches
-

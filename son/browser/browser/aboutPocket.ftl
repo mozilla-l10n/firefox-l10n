@@ -5,18 +5,3 @@
 
 ### Pocket button panel strings for about:pocket-saved, about:pocket-signup, and about:pocket-home
 
-
-## about:pocket-saved panel
-
-
-## about:pocket-signup panel
-
-
-## about:pocket-home panel
-
-
-## Pocket panel header component
-
-
-## Pocket panel buttons
-

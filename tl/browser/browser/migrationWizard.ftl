@@ -41,14 +41,6 @@ migration-source-name-chrome = Google Chrome
 migration-imported-safari-reading-list = Listahan ng Babasahin (Mula sa Safari)
 migration-imported-edge-reading-list = Listahan ng Babasahin (Mula sa Edge)
 
-## These strings are shown if the selected browser data directory is unreadable.
-## In practice, this tends to only occur on Linux when Firefox
-## is installed as a Snap.
-
-
-## These strings will be displayed based on how many resources are selected to import
-
-
 ##
 
 migration-select-all-option-label = Piliin lahat
@@ -103,11 +95,3 @@ migration-wizard-progress-icon-completed =
     .aria-label = Tapos na
 migration-manual-password-import-skip-button = Laktawan
 migration-safari-password-import-skip-button = Laktawan
-
-## The import process identifies extensions installed in other supported
-## browsers and installs the corresponding (matching) extensions compatible
-## with Firefox, if available.
-
-
-##
-

@@ -159,6 +159,3 @@ perftools-presets-power-description = Настройки для выявлени
 perftools-presets-debug-label = Отладка
 perftools-presets-debug-description = Предустановка для отладки в { -brand-shorter-name }. Большие накладные расходы, не используйте для работы с производительностью, а используйте для понимания поведения браузера.
 perftools-presets-custom-label = Персональный
-
-##
-

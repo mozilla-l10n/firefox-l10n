@@ -39,6 +39,3 @@ more-from-moz-mozilla-monitor-button = Merrni { -monitor-brand-short-name }-in
 more-from-moz-solo-title = IA { -solo-ai-brand-name }
 more-from-moz-solo-description = Krijoni menjëherë sajtin tuaj dhe lidhni përkatësinë tuaj vetjake, falas
 more-from-moz-solo-button = Provoni { -solo-ai-brand-name }
-
-## These strings are for the MDN card in about:preferences moreFromMozilla page
-

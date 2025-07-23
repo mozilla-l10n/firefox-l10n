@@ -98,9 +98,6 @@ perftools-thread-jvm-nimbus =
 perftools-thread-jvm-glean =
     .title = Luồng chính cho Glean telemetry SDK
 
-##
-
-
 ## Onboarding UI labels. These labels are displayed in the new performance panel UI, when
 ## devtools.performance.new-panel-onboarding preference is true.
 
@@ -138,6 +135,3 @@ perftools-presets-power-description = Giá trị đặt trước để điều t
 perftools-presets-debug-label = Gỡ lỗi
 perftools-presets-debug-description = Giá trị đặt trước để gỡ lỗi trong { -brand-shorter-name }. Tải thêm cao, không sử dụng cho công việc về hiệu suất mà sử dụng để tập trung vào việc tìm hiểu hành vi của trình duyệt.
 perftools-presets-custom-label = Tùy chọn
-
-##
-

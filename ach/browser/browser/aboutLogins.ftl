@@ -186,16 +186,3 @@ about-logins-import-dialog-error-unable-to-read-title = Pe twero Ngiyo Pwail
 about-logins-import-dialog-error-unable-to-read-description = Nen ni meno iyero pwail me CSV onyo TSV.
 about-logins-import-dialog-error-learn-more = Nong ngec mapol
 about-logins-import-dialog-error-cancel = Juki
-
-##
-## Variables:
-##  $field (String) - The name of the field from the CSV file for example url, username or password
-
-
-##
-## Variables:
-##  $count (number) - The number of affected elements
-
-
-## Logins import report page
-

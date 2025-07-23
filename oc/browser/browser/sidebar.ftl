@@ -60,9 +60,6 @@ sidebar-context-menu-copy-link =
 sidebar-context-menu-close-remote-tab =
     .label = Tampar l’onglet sus { $deviceName }
 
-## Labels for sidebar history context menu items
-
-
 ## Labels for sidebar menu items.
 
 sidebar-menu-synced-tabs-label =
@@ -91,23 +88,8 @@ sidebar-menu-open-bookmarks-tooltip = Dobrir los marcapaginas ({ $shortcut })
 #   $shortcut (String) - The OS specific keyboard shortcut.
 sidebar-menu-close-bookmarks-tooltip = Tampar los marcapaginas ({ $shortcut })
 
-## Tooltips displayed over the AI chatbot icon.
-## Variables:
-##   $shortcut (String) - The OS specific keyboard shortcut.
-##   $provider (String) - The name of the AI chatbot provider (if available).
-
-
-## Headings for sidebar menu panels.
-
-
-## Titles for sidebar menu panels.
-
-
 ## Context for closing synced tabs when hovering over the items
 
 show-sidebars =
     .tooltiptext = Afichar los panèls laterals
     .label = Panèl lateral
-
-## Tooltips for the sidebar toolbar widget.
-

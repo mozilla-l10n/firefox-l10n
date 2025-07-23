@@ -8,13 +8,3 @@ about-logging-set-log-file = Seleçionn-a schedaio de diaio
 about-logging-set-log-modules = Inpòsta mòdoli do diaio
 about-logging-start-logging = Iniçia a registrâ
 about-logging-stop-logging = Ferma a registraçion
-
-## Logging presets
-
-
-##
-
-
-## The upload interface is shown only with the preference toolkit.aboutLogging.uploadProfileToCloud
-## set to true. It is false by default, except on Android.
-

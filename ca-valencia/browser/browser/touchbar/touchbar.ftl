@@ -32,6 +32,3 @@ search-history = Historial
 search-opentabs = Pestanyes obertes
 search-tags = Etiquetes
 search-titles = Títols
-
-##
-

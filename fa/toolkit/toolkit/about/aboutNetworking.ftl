@@ -45,9 +45,3 @@ about-networking-rcwn-avg-long = میانگین بلند
 about-networking-rcwn-std-dev-long = انحراف استاندارد بلند
 about-networking-rcwn-cache-slow = شمارش آرام ذخیره سازی موقت
 about-networking-rcwn-cache-not-slow = شماره سریع ذخیره سازی موقت
-
-## Link is intended as "network link"
-
-
-##
-

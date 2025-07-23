@@ -417,6 +417,3 @@ support-remote-features-status = Estat
 
 pointing-device-mouse = Mirga
 pointing-device-touchscreen = Ecran tactil
-
-## Content Analysis (DLP)
-

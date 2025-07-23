@@ -222,7 +222,9 @@ tabbrowser-manager-current-window-tab-group =
     .label = { $tabGroupName }
     .tooltiptext = { $tabGroupName } — Dritarja e tanishme
 
-## Tab Groups
+## Variables:
+##  $tabGroupName (String): The name of the tab group. Defaults to the value
+##                          of tab-group-name-default.
 
 tab-group-editor-title-create = Krijoni grup skedash
 tab-group-editor-title-edit = Administroni grup skedash
@@ -250,16 +252,12 @@ tab-group-editor-color-selector2-gray = Gri
     .title = Gri
 tab-group-editor-color-selector2-red = E kuqe
     .title = E kuqe
-# Variables:
-#  $tabGroupName (String): The name of the tab group. Defaults to the value
-#                          of tab-group-name-default.
 tab-group-description = { $tabGroupName } — Grup Skedash
 tab-context-unnamed-group =
     .label = Grup i paemër
 tab-group-name-default = Grup i Paemër
 
-## Variables:
-##  $tabCount (Number): the number of tabs that are affected by the action.
+##
 
 tab-context-move-tab-to-new-group =
     .label =

@@ -102,9 +102,6 @@ perplexity-callout-primary-label = Pyetni Perplexity-në
 perplexity-callout-secondary-label-1 = Hidhe tej
 perplexity-callout-secondary-label-2 = E mora vesh
 
-## Account Adoption Passwords callout strings
-
-
 ## Sidebar Strings
 
 sidebar-button-callout-title = Shfaq te anështylla tituj skedash
@@ -125,9 +122,6 @@ vertical-tabs-callout-2-subtitle = Kjo skemë e bën të kollajtë të kontrollo
 sidebar-pins-callout-title = Po humbni kontrollin mbi skedat tuaja të rëndësishme?
 sidebar-pins-callout-subtitle = Provoni t’i fiksoni, çka i mban në krye të listës së skedave tuaja. Djathtasklikoni mbi një skedë që dëshironi ta fiksoni, mandej zgjidhni “Fiksoje Skedën”.
 sidebar-pins-callout-cta-button = Fiksoje skedën
-
-## Pinning Tabs Strings
-
 
 ## Sidebar Onboarding Strings
 

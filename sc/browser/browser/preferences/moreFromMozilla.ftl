@@ -39,6 +39,3 @@ more-from-moz-mozilla-monitor-button = Otene { -monitor-brand-short-name }
 more-from-moz-solo-title = IA de { -solo-ai-brand-name }
 more-from-moz-solo-description = Crea su situ web tuo a lestru e connete cun unu domìniu personalizadu de badas.
 more-from-moz-solo-button = Proa { -solo-ai-brand-name }
-
-## These strings are for the MDN card in about:preferences moreFromMozilla page
-

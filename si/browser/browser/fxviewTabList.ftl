@@ -67,6 +67,3 @@ fxviewtabrow-unmute-tab = පටිත්ත නොනිහඬ
 #   $tabTitle (string) - Title of the tab to which the context menu is associated
 fxviewtabrow-options-menu-button =
     .title = { $tabTitle } සඳහා විකල්ප
-
-## Strings below are to be used without context (tab title/URL) on mute/unmute buttons
-

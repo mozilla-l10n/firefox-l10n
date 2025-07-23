@@ -612,9 +612,6 @@ urlbar-searchmode-actions =
 
 urlbar-result-action-search-bookmarks = বুকমার্ক অনুসন্ধান করুন
 
-## Labels shown above groups of urlbar results
-
-
 ## Reader View toolbar buttons
 
 # This should match menu-view-enter-readerview in menubar.ftl
@@ -818,10 +815,6 @@ picture-in-picture-hide-toggle =
     .label = পিকচার-ইন-পিকচার টগল লুকান
     .accesskey = H
 
-## Since the default position for PiP controls does not change for RTL layout,
-## right-to-left languages should use "Left" and "Right" as in the English strings,
-
-
 ##
 
 
@@ -865,33 +858,12 @@ tabs-toolbar-list-all-tabs =
 # <img data-l10n-name="icon"/> will be replaced by the application menu icon
 restore-session-startup-suggestion-message = <strong>পূর্ববর্তী ট্যাবগুলি খুলবেন?</strong> আপনি { -brand-short-name } অ্যাপ্লিকেশন মেনুতে গিয়ে <img data-l10n-name="icon"/>, ইতিহাস থেকে আপনার আগের সেশন পুনরুদ্ধার করতে পারেন।
 
-## Infobar shown when the user tries to open a file picker and file pickers are blocked by enterprise policy
-
-
 ## Mozilla data reporting notification (Telemetry, Firefox Health Report, etc)
 
 data-reporting-notification-message = { -brand-short-name } স্বয়ংক্রিয়ভাবে { -vendor-short-name } কে কিছু তথ্য প্রেরণ করে যাতে আমরা আপনার অভিজ্ঞতা উন্নত করতে পারি।
 data-reporting-notification-button =
     .label = আমি কি শেয়ার করি তা নির্বাচন করুন
     .accesskey = C
-
-## Unified extensions (toolbar) button
-
-
-## Unified extensions button when permission(s) are needed.
-## Note that the new line is intentionally part of the tooltip.
-
-
-## Unified extensions button when some extensions are quarantined.
-## Note that the new line is intentionally part of the tooltip.
-
-
-## Unified extensions button when some extensions are disabled (e.g. through add-ons blocklist).
-## Note that the new line is intentionally part of the tooltip.
-
-
-## Private browsing reset button
-
 
 ## Autorefresh blocker
 
@@ -900,9 +872,6 @@ refresh-blocked-redirect-label = { -brand-short-name } এই পাতাটি
 refresh-blocked-allow =
     .label = অনুমোদন
     .accesskey = A
-
-## Firefox Relay integration
-
 
 ## Add-on Pop-up Notifications
 
@@ -938,16 +907,3 @@ popup-warning-button =
 #   $popupURI (String): the URI for the pop-up window
 popup-show-popup-menuitem =
     .label = '{ $popupURI }' প্রদর্শন
-
-## File-picker crash notification ("FilePickerCrashed.sys.mjs")
-
-
-# Button used with file-picker-crashed-save-default. Opens the folder in Windows
-# Explorer, with the saved file selected and in focus.
-#
-# The wording here should be consistent with the Windows variant of
-# `downloads-cmd-show-menuitem-2` and similar messages.
-
-
-## Onboarding Finish Setup checklist
-

@@ -5,9 +5,6 @@
 about-reader-loading = Iyalayisha…
 about-reader-load-error = Ayikwazanga kulowuda inqaku ngokusuka kwiphepha
 
-## Reader View text and layout menu
-
-
 ## These are the styles of typeface that are options in the reader view controls.
 
 about-reader-font-type-serif = Iserifu
@@ -17,14 +14,3 @@ about-reader-font-type-sans-serif = I-sans-serif
 
 about-reader-toolbar-close = Imo Yokufunda Esondeleyo
 about-reader-toolbar-type-controls = Izilawuli zohlobo
-
-## Reader View colors menu
-
-
-## These are used as labels for the custom theme color pickers.
-## The .title element is used to make the editing functionality
-## clear and give context for screen reader users.
-
-
-## Reader View text and layout menu
-

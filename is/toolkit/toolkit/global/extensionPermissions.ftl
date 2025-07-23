@@ -40,12 +40,3 @@ webext-perms-description-webNavigation = Skoða vafranotkun við að fara um
 webext-perms-extra-warning-userScripts-long = Óstaðfestar skriftur geta valdið öryggis- og persónuverndaráhættu, svo sem það að keyra skaðlegan kóða eða rekja virkni vefsvæðis. Keyrðu aðeins skriftur frá viðbótum eða uppruna sem þú treystir.
 # A shorter warning is displayed in UI surfaces with little room, such as a permission prompt.
 webext-perms-extra-warning-userScripts-short = Óstaðfestar skriftur geta valdið öryggis- og persónuverndaráhættu. Keyrðu aðeins skriftur frá viðbótum eða uppruna sem þú treystir.
-
-## Short form to be used in lists or in a string (`webext-perms-description-data-some`)
-## that formats some of the data collection permissions below using `Intl.ListFormat`.
-##
-## This is used when the data collection permissions are required.
-
-
-## Long form to be used in `about:addons` when these data collection permissions are optional.
-

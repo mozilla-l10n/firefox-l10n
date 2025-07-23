@@ -5,36 +5,9 @@
 shopping-close-button =
     .title = වසන්න
 
-## Strings for the letter grade component.
-## For now, we only support letter grades A, B, C, D and F.
-## Letter A indicates the highest grade, and F indicates the lowest grade.
-## Letters are hardcoded and cannot be localized.
-
-
 ## Strings for the shopping message-bar
 
 shopping-message-bar-keep-closed-dismiss-button = එපා, ස්තුතියි
-
-## Strings for the product review snippets card
-
-
-## Strings for show more card
-
-
-## Strings for the settings card
-
-
-## Strings for the adjusted rating component
-
-
-## Strings for the review reliability component
-
-
-## Strings for the analysis explainer component
-
-
-## Strings for UrlBar button
-
 
 ## Strings for the unanalyzed product card.
 ## The word 'analyzer' when used here reflects what this tool is called on
@@ -44,9 +17,6 @@ shopping-message-bar-keep-closed-dismiss-button = එපා, ස්තුති�
 ## possible - if these terms are not meaningfully different - that is OK.
 
 shopping-unanalyzed-product-analyze-button = සමාලෝචනයේ ගුණත්‍වය බලන්න
-
-## Strings for the advertisement
-
 
 ## Shopping survey strings.
 

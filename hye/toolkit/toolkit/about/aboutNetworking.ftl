@@ -61,6 +61,3 @@ about-networking-networkid-id = Ցանցի նույնացուցիչ
 
 about-networking-networkid-is-up = Յղումը միացուած է
 about-networking-networkid-status-known = Յայտնի է յղման կարգաւիճակը
-
-##
-

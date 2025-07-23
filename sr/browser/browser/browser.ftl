@@ -1034,10 +1034,6 @@ unified-extensions-button-quarantined =
         Додаци
         Неки додаци нису дозвољени
 
-## Unified extensions button when some extensions are disabled (e.g. through add-ons blocklist).
-## Note that the new line is intentionally part of the tooltip.
-
-
 ## Private browsing reset button
 
 reset-pbm-toolbar-button =
@@ -1130,7 +1126,4 @@ file-picker-crashed-save-nowhere = Windows дијалошки оквир за и
 #
 # The wording here should be consistent with the Windows variant of
 # `downloads-cmd-show-menuitem-2` and similar messages.
-
-
-## Onboarding Finish Setup checklist
 

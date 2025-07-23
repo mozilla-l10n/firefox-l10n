@@ -39,9 +39,3 @@ pocket-panel-signup-tagline-story-one = Calca nel botón de { -pocket-brand-name
 
 pocket-panel-home-welcome-back = Volvi afayate
 pocket-panel-home-paragraph = Pues usar { -pocket-brand-name } pa esplorar y guardar páxines web, artículos, vídeos, podcasts o volver a lo que tabes lleendo.
-
-## Pocket panel header component
-
-
-## Pocket panel buttons
-

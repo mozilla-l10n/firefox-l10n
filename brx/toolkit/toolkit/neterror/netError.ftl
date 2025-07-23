@@ -19,26 +19,12 @@ neterror-return-to-previous-page-button = उनथिं थांफिन
 neterror-try-again-button = फिन नाजा
 neterror-view-certificate-link = चार्टिफिकेटखौ नाय
 
-##
-
-
 ## Specific error messages
 
 neterror-generic-error = माखासे जाहोननि थाखाय { -brand-short-name } आ बिलाइखौ ल'ड खालामनो हाया।
 neterror-load-error-try-again = साइटआ दसेनि थाखाय मोननो हाथाव जानो हागौ एबा जोबोद मुखुब जानो हागौ।दसेनि उनाव फिन नाजा।
 neterror-load-error-connection = नोंथाङा जायखि जाया बिलाइखौ ल'ड खालामनो हायाखैब्ला, नोंथांनि कम्पुटारनि नेटवार्क फोनांजाबखौआनजाद खालाम।
 neterror-load-error-firewall = नोंथांनि कम्पुटार एबा नेटवार्कआ फायारवाल एबा प्रक्सिजों रैखाथि खालामजायोब्ला { -brand-short-name } खौ वेब हाबहोनो गनायथि होनाय जायो नामा रोखा खालाम।
-
-## TRR-only specific messages
-## Variables:
-##   $hostname (String) - Hostname of the website to which the user was trying to connect.
-##   $trrDomain (String) - Hostname of the DNS over HTTPS server that is currently in use.
-
-
-## Native fallback specific messages
-## Variables:
-##   $trrDomain (String) - Hostname of the DNS over HTTPS server that is currently in use.
-
 
 ##
 

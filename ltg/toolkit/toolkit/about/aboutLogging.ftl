@@ -8,13 +8,3 @@ about-logging-set-log-file = Set Log File
 about-logging-set-log-modules = Set Log Modules
 about-logging-start-logging = Start Logging
 about-logging-stop-logging = Stop Logging
-
-## Logging presets
-
-
-##
-
-
-## The upload interface is shown only with the preference toolkit.aboutLogging.uploadProfileToCloud
-## set to true. It is false by default, except on Android.
-

@@ -493,10 +493,3 @@ plugins-openh264-name = OpenH264 Video Codec, որը մատակարարում է
 plugins-openh264-description = Այս բաղադրիչը ինքնաբար տեղադրված է Mozilla-ի կողմից և համապատասխանում է WebRTC բնութագրին և WebRTC-ը միացնելու համար կանչում է սարքեր, որոնք պահանջում են H.264 տեսանյութի կոդեկ: Այցելեք http://www.openh264.org/ կայք՝ դիտելու համար կոդեկի բնագիրը:
 plugins-widevine-name = Widevine Content Decryption Module՝ Google Inc.-ի կողմից
 plugins-widevine-description = Այս բաղադրիչը հնարավորություն է տալիս նվագարկել գաղտնագրված մեդիան՝ գաղտնագրված մեդիայի ընդարձակման հատկորոշման համաձայն: Գաղտնագրված մեդիան սովորաբար օգտագործվում է կայքերի կողմից պրեմիում մեդիա բովանդակությունը պատճենելուց պաշտպանվելու համար: Այցելեք https://www.w3.org/TR/encrypted-media/՝ գաղտնագրված մեդիայի ընդարձակման վերաբերյալ լրացուցիչ տեղեկություններ ստանալու համար:
-
-## Headings for the Permissions tab in `about:addons` when the data collection
-## feature is enabled.
-
-
-## Mapping Engine IDs from AI models to how that feature represented by the engine Id is described in the used by section in local model management
-

@@ -105,9 +105,6 @@ permissions-exceptions-saved-logins-window2 =
     .style = { permissions-window2.style }
 permissions-exceptions-saved-logins-desc = Man xkeyak ta kan ri kitikirib'al taq kimolojri'ïl re taq ajk'amaya'l ruxaq re'
 
-## Exceptions - Saved Passwords
-
-
 ## Exceptions - Add-ons
 
 permissions-exceptions-addons-window2 =

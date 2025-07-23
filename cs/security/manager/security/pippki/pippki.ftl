@@ -48,9 +48,6 @@ download-cert-view-cert =
     .label = Zobrazit
 download-cert-view-text = Zobrazit certifikát CA
 
-## Client Authorization Ask dialog
-
-
 ## Client Authentication Ask dialog
 
 client-auth-window =

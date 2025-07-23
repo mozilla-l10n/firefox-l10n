@@ -8,32 +8,3 @@
 # as a prefix followed by the unique identification key for the migrator.
 
 migration-wizard-migrator-display-name-firefox = Firefox
-
-## These strings are shown if the selected browser data directory is unreadable.
-## In practice, this tends to only occur on Linux when Firefox
-## is installed as a Snap.
-
-
-## These strings will be displayed based on how many resources are selected to import
-
-
-##
-
-
-## These strings will be used to create a dynamic list of items that can be
-## imported. The list will be created using Intl.ListFormat(), so it will
-## follow each locale's rules, and the first item will be capitalized by code.
-## When applicable, the resources should be in their plural form.
-## For example, a possible list could be "Bookmarks, passwords and autofill data".
-
-
-##
-
-
-## The import process identifies extensions installed in other supported
-## browsers and installs the corresponding (matching) extensions compatible
-## with Firefox, if available.
-
-
-##
-

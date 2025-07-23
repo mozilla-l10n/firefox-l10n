@@ -64,6 +64,3 @@ about-networking-moved-about-logging = Ин саҳифа ба <a data-l10n-name=
 
 about-networking-networkid-is-up = Пайванд фаъол аст
 about-networking-networkid-status-known = Вазъияти пайванд маълум аст
-
-##
-

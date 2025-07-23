@@ -32,6 +32,3 @@ search-history = مێژوو
 search-opentabs = بازدەرەکان بکەرەوە
 search-tags = تاگەکان
 search-titles = سەردێڕەکان
-
-##
-

@@ -95,9 +95,6 @@ perplexity-callout-primary-label = Spyrja Perplexity
 perplexity-callout-secondary-label-1 = Afgreiða
 perplexity-callout-secondary-label-2 = Náði því
 
-## Account Adoption Passwords callout strings
-
-
 ## Sidebar Strings
 
 sidebar-button-callout-title = Sýndu titla flipa í hliðarstikunni
@@ -116,9 +113,6 @@ vertical-tabs-callout-2-title = Ertu með marga opna flipa? Prófaðu lóðrétt
 
 sidebar-pins-callout-title = Ertu að missa yfirsýn yfir mikilvæga flipa?
 sidebar-pins-callout-cta-button = Festa flipa
-
-## Pinning Tabs Strings
-
 
 ## Sidebar Onboarding Strings
 

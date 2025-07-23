@@ -47,7 +47,3 @@ about-logging-unknown-option = Непозната about:logging опција “
 about-logging-configuration-url-ignored = URL конфигурације је игнорисан
 about-logging-file-and-profiler-override = Није могуће истовремено наметнути излаз датотеке и заменити опције профајлера
 about-logging-configured-via-url = Параметар је конфигурисан преко URL-а
-
-## The upload interface is shown only with the preference toolkit.aboutLogging.uploadProfileToCloud
-## set to true. It is false by default, except on Android.
-

@@ -33,9 +33,6 @@ download-cert-view-cert =
     .label = ನೋಟ
 download-cert-view-text = CA ಪ್ರಮಾಣಪತ್ರವನ್ನು ಪರಿಶೀಲಿಸಿ
 
-## Client Authorization Ask dialog
-
-
 ## Client Authentication Ask dialog
 
 client-auth-window =
@@ -77,6 +74,3 @@ set-password-backup-pw =
 set-password-repeat-backup-pw =
     .value = ಪ್ರಮಾಣಪತ್ರದ ಬ್ಯಾಕ್ಅಪ್ ಗುಪ್ತಪದ (ಮತ್ತೊಮ್ಮೆ):
 set-password-reminder = ಗಮನಿಸಿ: ನೀವು ನಿಮ್ಮ ಪ್ರಮಾಣಪತ್ರ ಬ್ಯಾಕ್ ಅಪ್ ಗುಪ್ತಪದವನ್ನು ಮರೆತ ಪಕ್ಷದಲ್ಲಿ, ನೀವು ನಂತರದ ಸಮಯದಲ್ಲಿ ಈ ಬ್ಯಾಕ್ಅಪ್ ಮರುಗಳಿಸಲು ಸಾಧ್ಯವಾಗುವುದಿಲ್ಲ.  ದಯವಿಟ್ಟು ಇದನ್ನು ಒಂದು ಸುರಕ್ಷಿತ ಸ್ಥಳದಲ್ಲಿ ಕಾಪಾಡಿ.
-
-## Protected authentication alert
-

@@ -16,23 +16,11 @@ options-select-dev-tools-theme-label = Temas
 # The heading
 options-context-inspector = Inspekteur
 
-## "Default Color Unit" options for the Inspector
-
-
-## Web Console section
-
-
 ## Style Editor section
 
 # The heading
 options-styleeditor-label = Stylredigeerder
 
-## Screenshot section
-
-
 ## Editor section
 
 options-sourceeditor-keybinding-default-label = Verstek
-
-## Advanced section
-

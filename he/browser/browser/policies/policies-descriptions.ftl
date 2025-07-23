@@ -89,9 +89,6 @@ policy-HttpsOnlyMode = לאפשר הפעלה של מצב HTTPS בלבד
 policy-InstallAddonsPermission = לאפשר לאתרים מסוימים להתקין תוספות.
 policy-LegacyProfiles = השבתת התכונה האוכפת פרופיל נפרד לכל התקנה
 
-## Do not translate "SameSite", it's the name of a cookie attribute.
-
-
 ##
 
 policy-LocalFileLinks = לאפשר לאתרים מסויימים לקשר לקבצים מקומיים.

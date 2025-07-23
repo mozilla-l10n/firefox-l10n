@@ -11,10 +11,6 @@ cert-error-trust-expired-issuer = Olukusa terwesigika kubanga olukusa lw'eyagiga
 cert-error-trust-self-signed = Olukusa terwesigika kubanga lweteerako omukono.
 cert-error-untrusted-default = Olukusa teruva mu kkubo lyesigika.
 
-## Variables:
-##   $hostname (string) - Hostname of the website with cert error.
-
-
 ## Messages used for certificate error titles
 
 connectionFailure-title = Tekisobose kuyungibwa
@@ -34,10 +30,3 @@ proxyResolveFailure-title = Tesobodde kuzuula kompyuta effuga zinayo
 redirectLoop-title = Omuko guno tegulagirira bulungi
 unknownSocketType-title = Engabirizi ezemu nga tekissubirwa
 corruptedContentError-title = Ensobi Mubyomunda Ebicupudwa
-
-## Felt Privacy V1 Strings
-
-
-## Variables:
-##   $hostname (String) - Hostname of the website to which the user was trying to connect.
-

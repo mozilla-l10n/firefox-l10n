@@ -28,9 +28,3 @@ about-networking-dns-lookup = DNS topish
 about-networking-dns-lookup-button = Hal qilish
 about-networking-dns-domain = Domen:
 about-networking-dns-lookup-table-column = IP manzillar
-
-## Link is intended as "network link"
-
-
-##
-

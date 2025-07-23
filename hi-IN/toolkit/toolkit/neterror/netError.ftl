@@ -38,17 +38,6 @@ neterror-load-error-connection = यदि आप किसी पृष्ठ �
 neterror-load-error-firewall = यदि आपका कंप्यूटर या प्रसार किसी फायरवाल या प्रॉक्सी से संरक्षित है, सुनिश्चित करें कि { -brand-short-name } वेब अभिगमन के लिए अनुमति प्राप्त है.
 neterror-captive-portal = इंटरनेट एक्सेस करने से पहले आपको इस नेटवर्क में लॉग इन करना होगा.
 
-## TRR-only specific messages
-## Variables:
-##   $hostname (String) - Hostname of the website to which the user was trying to connect.
-##   $trrDomain (String) - Hostname of the DNS over HTTPS server that is currently in use.
-
-
-## Native fallback specific messages
-## Variables:
-##   $trrDomain (String) - Hostname of the DNS over HTTPS server that is currently in use.
-
-
 ##
 
 neterror-file-not-found-filename = कैपिटलाइजेशन या दूसरी टाइपिंग त्रुटि के लिए फाइल नाम जांचें.

@@ -4,10 +4,3 @@
 
 protocolhandler-mailto-os-handler-yes-button = ডিফ’ল্ট-ৰূপে নিৰ্ধাৰণ কৰক
 protocolhandler-mailto-os-handler-no-button = এতিয়া নহয়
-
-## Variables:
-##  $url (String): The url of a webmailer, but only its full domain name.
-
-
-##
-

@@ -48,9 +48,6 @@ download-cert-view-cert =
     .label = Vizualizează
 download-cert-view-text = Examinează certificatul AC
 
-## Client Authorization Ask dialog
-
-
 ## Client Authentication Ask dialog
 
 client-auth-window =
@@ -93,6 +90,3 @@ set-password-backup-pw =
 set-password-repeat-backup-pw =
     .value = Parola de siguranță pentru certificate (din nou):
 set-password-reminder = Important: Dacă uiți parola de siguranță pentru certificate, nu vei putea reface această copie mai târziu.  Te rugăm să ai grijă să o păstrezi într-un loc sigur.
-
-## Protected authentication alert
-

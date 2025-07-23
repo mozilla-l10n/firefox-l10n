@@ -12,9 +12,6 @@ about-webrtc-document-title = WebRTC ներքին
 # translated. This string is used as a title for a file save dialog box.
 about-webrtc-save-page-dialog-title = պահել about:webrtc-ը որպես
 
-## These labels are for a disclosure which contains the information for closed PeerConnection sections
-
-
 ## AEC is an abbreviation for Acoustic Echo Cancellation.
 
 about-webrtc-aec-logging-msg-label = AEC արձանագրում
@@ -107,11 +104,6 @@ about-webrtc-log-section-hide-msg = Թաքցնել մատյանը
 about-webrtc-connection-open = [ { $browser-id } | { $id } ] { $url } { $now }
 about-webrtc-connection-closed = [ { $browser-id } | { $id } ] { $url } (փակված) { $now }
 
-## These are used to indicate what direction media is flowing.
-## Variables:
-##  $codecs - a list of media codecs
-
-
 ##
 
 about-webrtc-local-candidate = Տեղային թեկնածու
@@ -163,16 +155,6 @@ about-webrtc-pc-configuration-hide-msg = Թաքցնել կարգավորումը
 
 ##
 
-
-## These are displayed on the button that shows or hides the
-## user modified configuration disclosure
-
-
-##
-
-
-##
-
 about-webrtc-save-page-msg = էջը պահպանվել է՝ { $path }
 about-webrtc-debug-mode-off-state-msg = հետևելու մատյանը կարող է գտնվել՝ { $path }
 about-webrtc-debug-mode-on-state-msg = վրիպազերծման կերպը ակտիվ է, հետևելու մատյանը՝ { $path }
@@ -203,14 +185,3 @@ about-webrtc-sdp-set-at-timestamp-local = Կայել Տեղային SDP-ը { NUM
 # Variables:
 #  $timestamp (Number) - The Unix Epoch time at which the SDP was set.
 about-webrtc-sdp-set-at-timestamp-remote = Կայել Հեռակա SDP-ը { NUMBER($timestamp, useGrouping: "false") } ժամադրոշմում
-
-## These are displayed on the button that shows or hides the SDP information disclosure
-
-
-## These are displayed on the button that shows or hides the Media Context information disclosure.
-## The Media Context is the set of preferences and detected capabilities that informs
-## the negotiated CODEC settings.
-
-
-##
-

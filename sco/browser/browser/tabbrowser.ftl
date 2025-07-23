@@ -71,9 +71,6 @@ tabbrowser-unblock-tab-audio-tooltip =
            *[other] Pley { $tabCount } tabs
         }
 
-## Tooltips for tab audio control
-
-
 ## Confirmation dialog when closing a window with more than one tab open,
 ## or when quitting when only one window is open.
 
@@ -106,10 +103,6 @@ tabbrowser-confirm-close-tabs-with-key-button = Quit { -brand-short-name }
 #   $quitKey (String): the text of the keyboard shortcut for quitting.
 tabbrowser-confirm-close-tabs-with-key-checkbox = Confirm afore quittin wi { $quitKey }
 
-## Confirmation dialog when quitting using the keyboard shortcut (Ctrl/Cmd+Q)
-## and browser.warnOnQuitShortcut is true.
-
-
 ## Confirmation dialog when opening multiple tabs simultaneously
 
 tabbrowser-confirm-open-multiple-tabs-title = Confirm open
@@ -127,9 +120,6 @@ tabbrowser-confirm-open-multiple-tabs-checkbox = Lat me ken whan openin multiple
 tabbrowser-confirm-caretbrowsing-title = Caret Stravaigin
 tabbrowser-confirm-caretbrowsing-message = Pressin F7 turns Caret Stravaigin on or aff. This featur pits a flittable cursor in wab pages, allooin ye tae select text wi the keybuird. Are ye wantin tae turn Caret Stravaigin on?
 tabbrowser-confirm-caretbrowsing-checkbox = Dinnae kythe this dialog box oniemair.
-
-## Confirmation dialog for closing all duplicate tabs
-
 
 ##
 
@@ -162,19 +152,3 @@ tabbrowser-context-unmute-selected-tabs =
 #   $tabCount (Number): The number of tabs in the current browser window. It will always be 2 at least.
 tabbrowser-ctrl-tab-list-all-tabs =
     .label = List Aw { $tabCount } Tabs
-
-## Tab manager menu buttons
-## Variables:
-##  $tabGroupName (String): The name of the tab group. See also tab-group-name-default, which will be
-##                          used when the group's name is empty.
-
-
-## Tab Groups
-
-
-## Variables:
-##  $tabCount (Number): the number of tabs that are affected by the action.
-
-
-## Open/saved tab group context menu
-

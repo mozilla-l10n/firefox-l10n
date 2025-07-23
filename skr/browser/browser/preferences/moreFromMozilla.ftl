@@ -32,9 +32,3 @@ more-from-moz-mozilla-monitor-title = { -mozmonitor-brand-name }
 more-from-moz-mozilla-monitor-us-description = آپُوں آپ آپݨی بے نقاب ذاتی معلومات کوں وَلدا گِھن گِھنّو۔
 more-from-moz-mozilla-monitor-global-description = جہڑیلے تُہاݙا ڈیٹا خلاف ورزی تِھین٘دی پئی ہووے تاں چِتاوݨیاں گِھنّو۔
 more-from-moz-mozilla-monitor-button = { -monitor-brand-short-name } گھنو
-
-## These strings are for the Solo card in about:preferences moreFromMozilla page
-
-
-## These strings are for the MDN card in about:preferences moreFromMozilla page
-

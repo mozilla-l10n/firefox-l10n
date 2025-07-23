@@ -115,14 +115,6 @@ media-codec-support-supported = പിന്തുണക്കപ്പെട്
 media-codec-support-unsupported = പിന്തുണക്കപ്പെട്ടാത്ത
 media-codec-support-lack-of-extension = വിപുലീകരണം സ്ഥാപിക്കുക
 
-## Media Content Decryption Modules (CDM)
-## See EME Spec for more explanation for following technical terms
-## https://w3c.github.io/encrypted-media/
-
-
-##
-
-
 ## Remote Debugging
 ##
 ## The Firefox remote protocol provides low-level debugging interfaces
@@ -274,9 +266,3 @@ support-remote-settings-sync-history-datetime = തീയതി
 support-remote-experiments-name = പേരു്
 support-remote-features-name = പേരു്
 support-remote-features-status = അവസ്ഥ
-
-## Pointing devices
-
-
-## Content Analysis (DLP)
-

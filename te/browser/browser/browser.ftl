@@ -239,9 +239,6 @@ urlbar-star-edit-bookmark =
 urlbar-star-add-bookmark =
     .tooltiptext = ఈ పేజీను ఇష్టాంశముచేయుము ({ $shortcut })
 
-## Page Action Context Menu
-
-
 ## Auto-hide Context Menu
 
 full-screen-autohide =
@@ -489,9 +486,6 @@ sharing-warning-proceed-to-tab =
 sharing-warning-disable-for-session =
     .label = ఈ సెషనుకి పంచుకోలు రక్షణను అచేతనంచేయి
 
-## DevTools F12 popup
-
-
 ## URL Bar
 
 # This string is used as an accessible name to the "X" button that cancels a custom search mode (i.e. exits the Amazon.com search mode).
@@ -636,11 +630,6 @@ reader-view-enter-button =
 reader-view-close-button =
     .aria-label = చదువరి వీక్షణం మూయి
 
-## Picture-in-Picture urlbar button
-## Variables:
-##   $shortcut (String) - Keyboard shortcut to execute the command.
-
-
 ## Full Screen and Pointer Lock UI
 
 # Please ensure that the domain stays in the `<span data-l10n-name="domain">` markup.
@@ -727,9 +716,6 @@ save-to-pocket-button =
     .label = { -pocket-brand-name }‌కి భద్రపరుచు
     .tooltiptext = { -pocket-brand-name }‌కి భద్రపరుచు
 
-## Repair text encoding toolbar button
-
-
 ## Customize Toolbar Buttons
 
 # Variables:
@@ -806,10 +792,6 @@ popups-infobar-dont-show-message =
     .label = పాప్-అప్‌లు నిరోధించబడినప్పుడు ఈ సందేశాన్ని చూపించవద్దు
     .accesskey = D
 
-## Since the default position for PiP controls does not change for RTL layout,
-## right-to-left languages should use "Left" and "Right" as in the English strings,
-
-
 ##
 
 
@@ -851,9 +833,6 @@ tabs-toolbar-list-all-tabs =
 ## Infobar shown at startup to suggest session-restore
 
 restore-session-startup-suggestion-button = ఎలానో నాకు చూపించు
-
-## Infobar shown when the user tries to open a file picker and file pickers are blocked by enterprise policy
-
 
 ## Mozilla data reporting notification (Telemetry, Firefox Health Report, etc)
 
@@ -918,9 +897,6 @@ refresh-blocked-allow =
     .label = అనుమతించు
     .accesskey = A
 
-## Firefox Relay integration
-
-
 ## Add-on Pop-up Notifications
 
 popup-notification-addon-install-unsigned =
@@ -965,6 +941,3 @@ popup-show-popup-menuitem =
 file-picker-crashed-show-in-folder =
     .label = సంచయంలో చూపించు
     .accessKey = F
-
-## Onboarding Finish Setup checklist
-

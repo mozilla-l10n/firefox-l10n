@@ -39,17 +39,6 @@ neterror-load-error-connection = Gin ye cannae load onie pages, check yer comput
 neterror-load-error-firewall = Gin yer computer or netwark is bieldit by a firewaw or proxy, mak siccar that { -brand-short-name } is allooed ingang tae the Wab.
 neterror-captive-portal = Ye maun log in tae this netwark afore ye can access the Internet.
 
-## TRR-only specific messages
-## Variables:
-##   $hostname (String) - Hostname of the website to which the user was trying to connect.
-##   $trrDomain (String) - Hostname of the DNS over HTTPS server that is currently in use.
-
-
-## Native fallback specific messages
-## Variables:
-##   $trrDomain (String) - Hostname of the DNS over HTTPS server that is currently in use.
-
-
 ##
 
 neterror-file-not-found-filename = Check the file nemme fur capitalisation or ither typin mishanters.

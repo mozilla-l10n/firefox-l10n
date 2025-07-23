@@ -50,25 +50,6 @@ appmenuitem-save-page =
 
 whatsnew-panel-header = Ko Hesɗi
 
-## The Firefox Profiler – The popup is the UI to turn on the profiler, and record
-## performance profiles. To enable it go to profiler.firefox.com and click
-## "Enable Profiler Menu Button".
-
-
-## Profiler presets
-## They are shown in the popup's select box.
-
-
-# Presets and their l10n IDs are defined in the file
-# devtools/client/performance-new/shared/background.jsm.js
-# Please take care that the same values are also defined in devtools' perftools.ftl.
-
-
-# Presets and their l10n IDs are defined in the file
-# devtools/client/performance-new/shared/background.sys.mjs
-# Please take care that the same values are also defined in devtools' perftools.ftl.
-
-
 ## History panel
 
 appmenu-restore-session =
@@ -114,12 +95,3 @@ appmenu-help-report-deceptive-site =
 appmenu-help-not-deceptive =
     .label = Ɗum wonaa lowre fuuntoore…
     .accesskey = d
-
-## More Tools
-
-
-## Panel for privacy and security products
-
-
-## Profiles panel
-

@@ -66,12 +66,6 @@ toolbar-button-stop =
 toolbar-button-stop-reload =
     .title = { main-context-menu-reload.aria-label }
 
-## Firefox Account Button
-
-
-## Account toolbar Button
-
-
 ## Save Page
 
 main-context-menu-page-save =
@@ -143,10 +137,6 @@ main-context-menu-media-loop =
     .label = Ripeti
     .accesskey = R
 
-## The access keys for "Show Controls" and "Hide Controls" are the same
-## because the two context-menu items are mutually exclusive.
-
-
 ##
 
 main-context-menu-image-reload =
@@ -173,9 +163,6 @@ main-context-menu-audio-save-as =
 main-context-menu-audio-email =
     .label = Manna u sonu…
     .accesskey = a
-
-##
-
 
 ##
 

@@ -40,14 +40,6 @@ migration-source-name-chrome = गूगल‌ क्रोम
 migration-imported-safari-reading-list = पठन सूची (सफारी‌ से)
 migration-imported-edge-reading-list = पठन सूची (किनारे से)‌
 
-## These strings are shown if the selected browser data directory is unreadable.
-## In practice, this tends to only occur on Linux when Firefox
-## is installed as a Snap.
-
-
-## These strings will be displayed based on how many resources are selected to import
-
-
 ##
 
 migration-bookmarks-option-label = बुकमार्क
@@ -78,14 +70,3 @@ migration-cancel-button-label = रद्द करें
 migration-list-bookmark-label = बुकमार्क
 migration-list-history-label = इतिहास
 migration-list-extensions-label = एक्सटेंशन
-
-##
-
-
-## The import process identifies extensions installed in other supported
-## browsers and installs the corresponding (matching) extensions compatible
-## with Firefox, if available.
-
-
-##
-

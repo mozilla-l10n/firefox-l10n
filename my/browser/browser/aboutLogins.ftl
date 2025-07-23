@@ -88,11 +88,6 @@ login-item-save-changes-button = ပြောင်းလဲမှုမျာ�
 login-item-save-new-button = သိမ်းရန်
 login-item-cancel-button = ပယ်​ဖျက်ပါ
 
-## The date is displayed in a timeline showing the password evolution.
-## A label is displayed under the date to describe the type of change.
-## (e.g. updated, created, etc.)
-
-
 ## OS Authentication dialog
 
 about-logins-os-auth-dialog-caption = { -brand-full-name }
@@ -130,10 +125,6 @@ confirmation-dialog-dismiss-button =
 about-logins-confirm-remove-dialog-title = ဤ ဝင်ရောက်မှု ကို ဖယ်ရှားမှာလား။
 confirm-delete-dialog-message = ဤ လုပ်ဆောင်မှုကို နောက်ပြန်ဆုတ် ၍ မရပါ။
 about-logins-confirm-remove-dialog-confirm-button = ဖယ်ရှားပါ
-
-## Variables
-##   $count (number) - Number of items
-
 
 ##
 
@@ -226,11 +217,3 @@ about-logins-import-report-row-description-error = အမှား- နေရာ
 ##  $field (String) - The name of the field from the CSV file for example url, username or password
 
 about-logins-import-report-row-description-error-missing-field = အမှား- { $field } ပျောက်နေသည်
-
-##
-## Variables:
-##  $count (number) - The number of affected elements
-
-
-## Logins import report page
-

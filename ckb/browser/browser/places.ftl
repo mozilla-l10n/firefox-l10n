@@ -164,6 +164,3 @@ places-search-history =
     .placeholder = گەڕان لە ناو مێژووی کاردا
 places-search-downloads =
     .placeholder = گەڕان لەناو داگرتنەکان
-
-##
-

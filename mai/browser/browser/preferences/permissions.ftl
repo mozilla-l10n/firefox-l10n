@@ -34,48 +34,10 @@ permissions-capabilities-listitem-allow-session =
 permissions-invalid-uri-title = अवैध मेजबाननाम देल गेल
 permissions-invalid-uri-label = एकटा वैध मेजबाननाम डालू
 
-## Exceptions - Tracking Protection
-
-
-## Exceptions - Cookies
-
-
-## Exceptions - HTTPS-Only Mode
-
-
 ## Exceptions - Pop-ups
 
 permissions-exceptions-popup-desc = कओनसँ वेबसाइटक पापअप विंडो खुलत ई अहाँक हाथमे अछि. जकरा अहाँ ई अनुमति देब चाहैत छी हुनकर सही वेब पता लिखू आओर 'अनुमति दिअ' पर क्लिक करू .
 
-## Exceptions - Saved Logins
-
-
-## Exceptions - Saved Passwords
-
-
 ## Exceptions - Add-ons
 
 permissions-exceptions-addons-desc = कओनसँ वेबसाइट सहयुक्तिक संस्थापन करत ई अहाँक हाथमे अछि. जकरा अहाँ ई अनुमति देब चाहैत छी हुनकर सही वेब पता लिखू आओर 'अनुमति दिअ' पर क्लिक करू .
-
-## Site Permissions - Autoplay
-
-
-## Site Permissions - Notifications
-
-
-## Site Permissions - Location
-
-
-## Site Permissions - Virtual Reality
-
-
-## Site Permissions - Camera
-
-
-## Site Permissions - Microphone
-
-
-## Site Permissions - Speaker
-##
-## "Speaker" refers to an audio output device.
-

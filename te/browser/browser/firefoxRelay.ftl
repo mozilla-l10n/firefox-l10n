@@ -3,12 +3,6 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 
-## Error messages for failed HTTP web requests.
-## https://developer.mozilla.org/en-US/docs/Web/HTTP/Reference/Status#client_error_responses
-## Variables:
-##   $status (Number) - HTTP status code, for example 403
-
-
 ## The "control" variation of the Relay offer popup
 
 # This is followed, on a new line, by firefox-relay-opt-in-subtitle-1
@@ -30,15 +24,6 @@ firefox-relay-and-fxa-opt-in-confirmation-disable =
 firefox-relay-and-fxa-opt-in-confirmation-postpone =
     .label = ఇప్పుడు వద్దు
     .accesskey = N
-
-## The "control" variation of the Relay offer popup
-
-
-## The "basic-info" variation of the Relay offer popup
-
-
-## The "with-domain" variation of the Relay offer popup
-
 
 ## The "with-domain-and-value-prop" variation of the Relay offer popup
 

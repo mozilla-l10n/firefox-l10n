@@ -18,9 +18,3 @@ devmgr-button-logout =
 devmgr-button-changepw =
     .label = ປ່ຽນລະຫັດຜ່ານ
     .accesskey = P
-
-## Strings used for load device
-
-
-## Token Manager
-

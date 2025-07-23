@@ -78,9 +78,6 @@ genai-options-hide-shortcut =
 genai-options-about-chatbot =
     .label = { -brand-short-name } ᱨᱮ AI ᱪᱟᱴᱵᱚᱴ ᱵᱟᱨᱮᱛᱮ
 
-## Chatbot footer
-
-
 ## Chatbot onboarding
 
 genai-onboarding-header = ᱩᱥᱟᱹᱨᱟ ᱞᱟᱹᱭ ᱢᱮ, ᱦᱩᱫᱤᱥ ᱦᱚᱨᱟ ᱢᱮ, ᱟᱨ ᱟᱭᱢᱟ ᱡᱮᱞᱠᱟ ᱟᱢ ᱵᱽᱨᱟᱣᱩᱡᱽ ᱮᱫᱟᱢ
@@ -130,9 +127,3 @@ genai-onboarding-huggingchat-switch = ᱠᱷᱩᱞᱟᱹ ᱢᱳᱰᱮᱞ ᱨᱮ�
 genai-onboarding-huggingchat-price-2 = ᱯᱚᱞᱟ ᱛᱮ;  ᱛᱤᱱᱟᱹᱜ ᱜᱟᱱ ᱱᱮᱦᱚᱨ ᱛᱟᱭᱚᱢ ᱠᱷᱟᱛᱟ ᱞᱟᱹᱠᱛᱤᱜ ᱠᱟᱱᱟ
 genai-onboarding-lechat-generate = ᱚᱞ ᱟᱨ ᱠᱳᱰ ᱵᱮᱱᱟᱣ ᱢᱮ
 genai-onboarding-lechat-price = ᱯᱚᱞᱟ ᱛᱮ;  ᱠᱷᱟᱛᱟ ᱞᱟᱹᱠᱛᱤᱭᱟᱱᱟ
-
-## Model Optin Component
-
-
-## Link previews
-

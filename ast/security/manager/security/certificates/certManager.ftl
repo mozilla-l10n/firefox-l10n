@@ -81,9 +81,6 @@ pkcs12-dup-data = El certificáu y la clave privada yá esisten nel preséu de s
 
 file-browse-pkcs12-spec = Ficheros PKCS12
 
-## Import certificate(s) file dialog
-
-
 ## For editing certificates trust
 
 # Variables:

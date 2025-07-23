@@ -48,9 +48,6 @@ download-cert-view-cert =
     .label = Cjale
 download-cert-view-text = Esamine certificât CA
 
-## Client Authorization Ask dialog
-
-
 ## Client Authentication Ask dialog
 
 client-auth-window =

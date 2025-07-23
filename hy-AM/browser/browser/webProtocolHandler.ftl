@@ -4,10 +4,3 @@
 
 protocolhandler-mailto-os-handler-yes-button = Կայել որպես սկզբնադիր
 protocolhandler-mailto-os-handler-no-button = Ոչ հիմա
-
-## Variables:
-##  $url (String): The url of a webmailer, but only its full domain name.
-
-
-##
-

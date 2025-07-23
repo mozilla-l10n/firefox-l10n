@@ -9,21 +9,3 @@ certmgr-delete =
 ## PKCS#12 file dialogs
 
 file-browse-pkcs12-spec = Unq'a kolb'al aq'on PKCS12
-
-## Import certificate(s) file dialog
-
-
-## For editing certificates trust
-
-
-## For Deleting Certificates
-
-
-## Used to show whether an override is temporary or permanent
-
-
-## Add Security Exception dialog
-
-
-## Certificate export "Save as" and error dialogs
-

@@ -22,6 +22,3 @@ fxa-menu-send-tab-to-device-syncnotready =
 fxa-menu-send-tab-to-device-description = Manna sùbbitu na scheda a tutti i dispusitivi unni trasisti.
 fxa-menu-sign-out =
     .label = Nesci…
-
-## Sync warning strings that support the browser profiles feature, these will be shown when the user might be merging data
-

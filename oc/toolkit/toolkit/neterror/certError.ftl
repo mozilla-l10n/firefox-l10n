@@ -37,11 +37,11 @@ cert-error-domain-mismatch-multiple = Los sites web pròvan lor identitat via de
 # Variables:
 #   $hostname (string) - Hostname of the website with cert error.
 #   $not-after-local-time (Date) - Certificate is not valid after this time.
-cert-error-expired-now =  Los sites pròvan lor identitat via de certificats, que son pas que valids per un periòde de temps. Lo certificat per { $hostname } expira lo { $not-after-local-time }.
+cert-error-expired-now = { " " }Los sites pròvan lor identitat via de certificats, que son pas que valids per un periòde de temps. Lo certificat per { $hostname } expira lo { $not-after-local-time }.
 # Variables:
 #   $hostname (string) - Hostname of the website with cert error.
 #   $not-before-local-time (Date) - Certificate is not valid before this time.
-cert-error-not-yet-valid-now =  Los sites pròvan lor identitat via de certificats, que son pas que valids per un periòde de temps. Lo certificat per { $hostname } serà pas valid fins al { $not-before-local-time }.
+cert-error-not-yet-valid-now = { " " }Los sites pròvan lor identitat via de certificats, que son pas que valids per un periòde de temps. Lo certificat per { $hostname } serà pas valid fins al { $not-before-local-time }.
 # Variables:
 #   $error (string) - NSS error code string that specifies type of cert error. e.g. unknown issuer, invalid cert, etc.
 cert-error-code-prefix = Còdi d’error : { $error }
@@ -68,10 +68,6 @@ open-in-new-window-for-csp-or-xfo-error = Dobrir lo site dins una fenèstra nov�
 # Variables:
 #   $hostname (string) - Hostname of the website blocked by csp or xfo error.
 csp-xfo-blocked-long-desc = Per protegir vòstra seguretat, { $hostname } permetrà pas a { -brand-short-name } d‘afichar la pagina se aquesta es integrada sus un autre site. Per veire aquesta pagina, vos cal la dobrir dins una fenèstra novèla.
-
-## Variables:
-##   $hostname (string) - Hostname of the website with cert error.
-
 
 ## Messages used for certificate error titles
 
@@ -118,7 +114,3 @@ certerror-mitm-title = Un logicial empacha { -brand-short-name } de se connectar
 fp-certerror-advanced-title = Avançat
 fp-certerror-advanced-button = Avançat
 fp-certerror-hide-advanced-button = Rescondre
-
-## Variables:
-##   $hostname (String) - Hostname of the website to which the user was trying to connect.
-

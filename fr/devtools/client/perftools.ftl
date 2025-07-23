@@ -155,6 +155,3 @@ perftools-presets-power-description = Réglage conçu pour examiner les bugs li�
 perftools-presets-debug-label = Débogage
 perftools-presets-debug-description = Réglage conçu pour le débogage dans { -brand-shorter-name }. Sa surcharge est importante, à utiliser non pour étudier les performances, mais pour comprendre le comportement du navigateur.
 perftools-presets-custom-label = Personnalisé
-
-##
-

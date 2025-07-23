@@ -63,18 +63,9 @@ split-dismiss-button-show-fewer-option =
 split-dismiss-button-manage-settings-option =
     .label = ຈັດການການຕັ້ງຄ່າ
 
-## Login Status Advisory Callout (points to the account icon)
-
-
 ## Bookmarks toolbar callout strings
 
 bookmarks-toolbar-callout-1-secondary-button-label = ບໍ່, ຂອບໃຈ
-
-## Perplexity callout strings
-
-
-## Account Adoption Passwords callout strings
-
 
 ## Sidebar Strings
 
@@ -95,9 +86,6 @@ vertical-tabs-callout-2-subtitle = ຮູບແບບນີ້ເຮັດໃຫ
 sidebar-pins-callout-title = ສູນເສຍການຕິດຕາມແຖບທີ່ສໍາຄັນຂອງທ່ານບໍ?
 sidebar-pins-callout-subtitle = ລອງປັກໝຸດພວກມັນ, ເຊິ່ງເຮັດໃຫ້ພວກມັນຢູ່ເທິງສຸດຂອງລາຍການແຖບຂອງທ່ານ. ຄລິກຂວາໃສ່ແຖບທີ່ທ່ານຕ້ອງການປັກໝຸດ, ຈາກນັ້ນເລືອກແຖບ Pin.
 sidebar-pins-callout-cta-button = ປັກໝຸດແຖບ
-
-## Pinning Tabs Strings
-
 
 ## Sidebar Onboarding Strings
 

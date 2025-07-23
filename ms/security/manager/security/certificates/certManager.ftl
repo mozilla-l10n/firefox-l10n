@@ -131,9 +131,6 @@ delete-email-cert-impact = Jika anda menghapuskan sijil e-mel seseorang pengguna
 cert-with-serial =
     .value = Sijil dengan nombor siri: { $serialNumber }
 
-## Used to show whether an override is temporary or permanent
-
-
 ## Add Security Exception dialog
 
 add-exception-branded-warning = Anda bakal menindan cara { -brand-short-name } mengenal pasti laman ini.

@@ -32,17 +32,6 @@ neterror-load-error-try-again = ತಾಣವು ತಾತ್ಕಾಲಿಕವ�
 neterror-load-error-connection = ನಿಮಗೆ ಯಾವುದೆ ಪುಟವನ್ನು ಲೋಡ್‍ ಮಾಡಲುಆಗದೇ ಹೋದರೆ, ನಿಮ್ಮ ಗಣಕದ ಜಾಲ ಸಂಪರ್ಕವನ್ನು ಪರೀಕ್ಷಿಸಿ.
 neterror-load-error-firewall = ನಿಮ್ಮ ಗಣಕ ಅಥವ ಜಾಲಬಂಧವು ಒಂದು ಫೈರ್ವಾಲ್ ಅಥವ ಪ್ರಾಕ್ಸಿ ಇಂದ ಸಂರಕ್ಷಿತಗೊಂಡಿದ್ದೆ, { -brand-short-name } ವುಜಾಲವನ್ನು ನಿಲುಕಿಸಿಕೊಳ್ಳಲು ಅನುಮತಿ ಇದೆ ಎಂದು ಖಚಿತಪಡಿಸಿಕೊಳ್ಳಿ.
 
-## TRR-only specific messages
-## Variables:
-##   $hostname (String) - Hostname of the website to which the user was trying to connect.
-##   $trrDomain (String) - Hostname of the DNS over HTTPS server that is currently in use.
-
-
-## Native fallback specific messages
-## Variables:
-##   $trrDomain (String) - Hostname of the DNS over HTTPS server that is currently in use.
-
-
 ##
 
 neterror-file-not-found-filename = ಕ್ಯಾಪಿಟಲೈಸೇಶನ್‍ಗಾಗಿ ಅಥವ ಇತರೆ ಬೆರಳಚ್ಚು ದೋಷಗಳಿಗಾಗಿ ಕಡತದ ಹೆಸರನ್ನು ಪರೀಕ್ಷಿಸಿ.

@@ -3,7 +3,7 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 page-title = Upplýsingar fyrir úrræðaleit
-page-subtitle =   Þessi síða inniheldur tæknilegar upplýsingar sem gætu verið hjálplegar ef þú ert að reyna að leysa eitthvað vandamál. Ef þú ert að leita að svörum við algengum spurningum um { -brand-short-name }, athugaðu þá <a data-l10n-name="support-link">hjálparvefsvæðið okkar</a>.
+page-subtitle = { "  " }Þessi síða inniheldur tæknilegar upplýsingar sem gætu verið hjálplegar ef þú ert að reyna að leysa eitthvað vandamál. Ef þú ert að leita að svörum við algengum spurningum um { -brand-short-name }, athugaðu þá <a data-l10n-name="support-link">hjálparvefsvæðið okkar</a>.
 crashes-title = Hrunskýrslur
 crashes-id = Skýrslu auðkenni
 crashes-send-date = Sent

@@ -64,9 +64,6 @@ split-dismiss-button-manage-settings-option =
 split-dismiss-button-default-label =
     .title = Լրացուցիչ ընտրանքներ
 
-## Login Status Advisory Callout (points to the account icon)
-
-
 ## Bookmarks toolbar callout strings
 
 bookmarks-toolbar-callout-1-primary-button-label = Ավելացնել Էջանիշ
@@ -88,9 +85,6 @@ perplexity-callout-theme-1-title = Անմիջապես ճիշտ պատասխան�
 perplexity-callout-secondary-label-1 = Բաց թողնել
 perplexity-callout-secondary-label-2 = Հասկացա
 
-## Account Adoption Passwords callout strings
-
-
 ## Sidebar Strings
 
 sidebar-button-callout-title = Ցուցադրել ներդիրների վերնագրերը կողագոտիում
@@ -108,9 +102,6 @@ vertical-tabs-callout-2-title = Շատ ներդիրներ բաց պահե՞լ։ 
 ## Sidebar Vertical Tabs Pinning Strings
 
 sidebar-pins-callout-cta-button = Ամրացնել ներդիրը
-
-## Pinning Tabs Strings
-
 
 ## Sidebar Onboarding Strings
 

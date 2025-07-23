@@ -64,10 +64,6 @@ open-in-new-window-for-csp-or-xfo-error = نئی ونڈو میں سائٹ کھو
 #   $hostname (string) - Hostname of the website blocked by csp or xfo error.
 csp-xfo-blocked-long-desc = آپ کی سلامتی کے تحفظ کے لئے، { $hostname } کی جانب سے { -brand-short-name } کو صفحہ دکھانے کی اجازت نہیں ملے گی اگر  کسی اور سائٹ نے اس میں سرایت کرلی ہو۔ اس صفحے کو دیکھنے کے لئے آپ کو اسے ایک نئی ونڈو میں کھولنے کی ضرورت ہے۔
 
-## Variables:
-##   $hostname (string) - Hostname of the website with cert error.
-
-
 ## Messages used for certificate error titles
 
 connectionFailure-title = جڑنے میں ناکامیاب
@@ -105,10 +101,3 @@ networkProtocolError-title = نیٹ ورک پروٹوکول ایرر
 nssBadCert-title = انتباہ: اآگے ممکنہ سیکیورٹی کا خطرہ ہو سکتا ہے
 nssBadCert-sts-title = رابطہ قائم نہیں ھوا: امکانی حفاظتی مسئلہ
 certerror-mitm-title = سافٹ ویئر { -brand-short-name } کو سائٹ  سے منسلک ہونے سے محفوظ طریقے سے روک رہا ہے
-
-## Felt Privacy V1 Strings
-
-
-## Variables:
-##   $hostname (String) - Hostname of the website to which the user was trying to connect.
-

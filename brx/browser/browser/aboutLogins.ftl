@@ -57,9 +57,6 @@ about-logins-list-section-today = दिनै
 about-logins-list-section-yesterday = मैया
 about-logins-list-section-week = थांनाय 7 सान
 
-## Introduction screen
-
-
 ## Login
 
 login-item-new-login-title = गोदान ल'गइन खुलि
@@ -174,12 +171,6 @@ about-logins-error-message-duplicate-login-with-link = बे { $loginTitle } �
 # This is a generic error message.
 about-logins-error-message-default = बे फासवाद खौ लाखिनो नाजानायाव गोरोनथि जादों
 
-## Login Export Dialog
-
-
-## Login Import Dialog
-
-
 ##
 ## Variables:
 ##  $count (number) - The number of affected elements
@@ -191,16 +182,3 @@ about-logins-import-dialog-error-cancel = नेवसि
 # Variables:
 #  $number (number) - The number of the row
 about-logins-import-report-row-index = { $number } सारि
-
-##
-## Variables:
-##  $field (String) - The name of the field from the CSV file for example url, username or password
-
-
-##
-## Variables:
-##  $count (number) - The number of affected elements
-
-
-## Logins import report page
-

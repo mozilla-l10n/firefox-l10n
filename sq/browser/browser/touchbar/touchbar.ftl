@@ -32,6 +32,3 @@ search-history = Historik
 search-opentabs = Hapi Skedat
 search-tags = Etiketa
 search-titles = Tituj
-
-##
-

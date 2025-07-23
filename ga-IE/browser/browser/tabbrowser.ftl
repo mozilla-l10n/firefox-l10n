@@ -13,38 +13,10 @@ tabbrowser-menuitem-close =
 #   $containerName (String): the name of the current container.
 tabbrowser-container-tab-title = { $title } - { $containerName }
 
-## Tooltips for tab audio control
-## Variables:
-##   $tabCount (Number): The number of tabs that will be affected.
-
-
-## Tooltips for tab audio control
-
-
 ## Confirmation dialog when closing a window with more than one tab open,
 ## or when quitting when only one window is open.
 
 tabbrowser-confirm-close-tabs-button = Dún cluaisíní
-
-## Confirmation dialog when quitting using the menu and multiple windows are open.
-
-
-## Confirmation dialog when quitting using the keyboard shortcut (Ctrl/Cmd+Q)
-## Windows does not show a prompt on quit when using the keyboard shortcut by default.
-
-
-## Confirmation dialog when quitting using the keyboard shortcut (Ctrl/Cmd+Q)
-## and browser.warnOnQuitShortcut is true.
-
-
-## Confirmation dialog when opening multiple tabs simultaneously
-
-
-## Confirmation dialog for enabling caret browsing
-
-
-## Confirmation dialog for closing all duplicate tabs
-
 
 ##
 
@@ -71,19 +43,3 @@ tabbrowser-ctrl-tab-list-all-tabs =
             [many] Liostaigh na { $tabCount } gCluaisín
            *[other] Liostaigh na { $tabCount } Cluaisín
         }
-
-## Tab manager menu buttons
-## Variables:
-##  $tabGroupName (String): The name of the tab group. See also tab-group-name-default, which will be
-##                          used when the group's name is empty.
-
-
-## Tab Groups
-
-
-## Variables:
-##  $tabCount (Number): the number of tabs that are affected by the action.
-
-
-## Open/saved tab group context menu
-

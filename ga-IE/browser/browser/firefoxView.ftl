@@ -136,12 +136,6 @@ firefoxview-history-site-localhost = (comhaid logánta)
 
 ##
 
-
-## Message displayed in Firefox View when the user has no history data
-
-
-##
-
 # Button text for choosing a browser within the ’Import history from another browser’ banner
 firefoxview-choose-browser-button = Roghnaigh líonléitheoir
     .title = Roghnaigh líonléitheoir
@@ -156,9 +150,6 @@ firefoxview-dont-remember-history-empty-header = Níl faic le taispeáint
 firefoxview-import-history-close-button =
     .aria-label = Dún
     .title = Dún
-
-## Text displayed in a dismissable banner to import bookmarks/history from another browser
-
 
 ## Message displayed in Firefox View when the user has no recently closed tabs data
 
@@ -182,8 +173,3 @@ firefoxview-opentabs-pinned-tab =
 # This tooltip will be shown for a pinned tab whose URL is currently bookmarked.
 firefoxview-opentabs-bookmarked-pinned-tab =
     .title = Athraigh go { $tabTitle } (Sna Ceanáin)
-
-## These tooltips will be displayed when hovering over an unpinned Open Tab
-## Variables:
-##   $url (string) - URL of tab that will be opened when selected
-

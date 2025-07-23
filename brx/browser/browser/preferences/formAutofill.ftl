@@ -14,15 +14,6 @@ autofill-manage-remove-button = बोखार
 autofill-manage-add-button = दाजाबदेर...
 autofill-manage-edit-button = सुजुनाय…
 
-## The address capture doorhanger
-
-
-## address-level-3 (Sublocality) names
-
-
-## address-level-2 names
-
-
 ## address-level-1 names
 
 autofill-address-state = रायजो

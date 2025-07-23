@@ -69,9 +69,6 @@ perftools-button-add-directory = Gehitu direktorioa
 perftools-button-remove-directory = Kendu hautatutakoak
 perftools-button-edit-settings = Editatu ezarpenak…
 
-## More actions menu
-
-
 ## These messages are descriptions of the threads that can be enabled for the profiler.
 
 perftools-thread-gecko-main =
@@ -150,6 +147,3 @@ perftools-presets-networking-description = { -brand-shorter-name }(r)en sareko p
 perftools-presets-power-label = Energia
 perftools-presets-power-description = { -brand-shorter-name }(r)en energia-erabilpenaren arazoak ikertzeko aurrezarpena, eragin negatibo txikiarekin.
 perftools-presets-custom-label = Pertsonalizatua
-
-##
-

@@ -2,25 +2,12 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-
-## These strings are used to define the different levels of
-## Enhanced Tracking Protection.
-
-
-##
-
 protections-panel-etp-on-header = Proteçion anti traciamento avansâ a l'é ATIVA pe sto scito
 # The link to be clicked to open the sub-panel view
 protections-panel-site-not-working = O scito o no fonçionn-a?
 # The heading/title of the sub-panel view
 protections-panel-site-not-working-view =
     .title = O scito o no fonçionn-a?
-
-## Text for the toggles shown when ETP is enabled/disabled for a given site.
-## .description is transferred into a separate paragraph by the moz-toggle
-## custom element code.
-##   $host (String): the hostname of the site that is being displayed.
-
 
 ## The "Allowed" header also includes a "Why?" link that, when hovered, shows
 ## a tooltip explaining why these items were not blocked in the page.
@@ -41,12 +28,6 @@ protections-panel-content-blocking-fingerprinters-label = Rilevatoî de inpronte
 protections-panel-blocking-label = Blocòu
 protections-panel-not-blocking-label = Permisso
 protections-panel-not-found-label = Nisciun rilevou
-
-## Smartblock strings
-
-
-##
-
 
 ## In the Site Not Working? view, we suggest turning off protections if
 ## the user is experiencing issues with any of a variety of functionality.

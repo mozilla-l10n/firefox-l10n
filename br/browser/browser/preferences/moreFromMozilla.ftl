@@ -34,6 +34,3 @@ more-from-moz-mozilla-monitor-button = Tapout { -monitor-brand-short-name }
 ## These strings are for the Solo card in about:preferences moreFromMozilla page
 
 more-from-moz-solo-button = Esaeañ { -solo-ai-brand-name }
-
-## These strings are for the MDN card in about:preferences moreFromMozilla page
-

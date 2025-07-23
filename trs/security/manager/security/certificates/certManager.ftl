@@ -131,9 +131,6 @@ delete-email-cert-impact = Sisi nadurê't 'ngo si sertifikadô korreo 'ngo guì 
 cert-with-serial =
     .value = Ñanj nù da'nga' seriê: { $serialNumber }
 
-## Used to show whether an override is temporary or permanent
-
-
 ## Add Security Exception dialog
 
 add-exception-branded-warning = Doj sínj gàchin da' nadurê't { -brand-short-name } dàj atûjt riña sitiô nan.

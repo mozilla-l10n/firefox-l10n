@@ -29,12 +29,6 @@ protections-panel-site-not-working = Neveikia svetainė?
 protections-panel-site-not-working-view =
     .title = Neveikia svetainė?
 
-## Text for the toggles shown when ETP is enabled/disabled for a given site.
-## .description is transferred into a separate paragraph by the moz-toggle
-## custom element code.
-##   $host (String): the hostname of the site that is being displayed.
-
-
 ## The "Allowed" header also includes a "Why?" link that, when hovered, shows
 ## a tooltip explaining why these items were not blocked in the page.
 
@@ -63,9 +57,6 @@ protections-panel-content-blocking-fingerprinters-label = Skaitmeninių atspaud�
 protections-panel-blocking-label = Blokuojama
 protections-panel-not-blocking-label = Leidžiama
 protections-panel-not-found-label = Neaptikta jokių
-
-## Smartblock strings
-
 
 ##
 

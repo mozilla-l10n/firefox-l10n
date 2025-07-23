@@ -48,9 +48,6 @@ download-cert-view-cert =
     .label = ჩვენება
 download-cert-view-text = სააგენტოს სერტიფიკატის შემოწმება
 
-## Client Authorization Ask dialog
-
-
 ## Client Authentication Ask dialog
 
 client-auth-window =

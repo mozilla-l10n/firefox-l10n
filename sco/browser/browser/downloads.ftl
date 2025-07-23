@@ -140,15 +140,6 @@ downloads-history =
 downloads-details =
     .title = Doonload Details
 
-## These strings are displayed in the private browsing view of the downloads panel
-
-
-## Displayed when a site attempts to automatically download many files.
-## Variables:
-##   $num (number) - Number of blocked downloads.
-##   $url (string) - The url of the suspicious site, stripped of http, https and www prefix.
-
-
 ##
 
 downloads-clear-downloads-button =

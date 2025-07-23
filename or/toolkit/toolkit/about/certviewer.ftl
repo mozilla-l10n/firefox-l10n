@@ -6,16 +6,3 @@
 ## Error messages
 
 certificate-viewer-error-title = କିଛି ଗଡ଼ବଡ଼ ଦେଖାଯାଇଛି।
-
-## Certificate information labels
-
-
-## Variables:
-##   $fileName (String) - The file name to save the PEM data in, derived from the common name from the certificate being displayed.
-
-
-##
-
-
-## Labels for tabs displayed in stand-alone about:certificate page
-

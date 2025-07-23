@@ -26,9 +26,3 @@ about-networking-bytes-received = Grepe ontvang
 about-networking-dns-lookup = DNS-navraag
 about-networking-dns-domain = Domein:
 about-networking-dns-lookup-table-column = IP-adresse
-
-## Link is intended as "network link"
-
-
-##
-

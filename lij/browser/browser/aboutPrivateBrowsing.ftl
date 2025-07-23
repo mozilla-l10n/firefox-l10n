@@ -54,6 +54,3 @@ about-private-browsing-pin-promo-link-text =
 # in your language: `See fewer cookie requests`.
 about-private-browsing-cookie-banners-promo-header = Ferma i banner pe-i cookie
 about-private-browsing-cookie-banners-promo-button = Ridûxi o banner pe-i cookie
-
-## Strings for Felt Privacy v1 experiments in 119
-

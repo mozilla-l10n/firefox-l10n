@@ -9,9 +9,6 @@ column-name = పేరు
 column-type = రకం
 column-memory = మెమొరీ
 
-## Special values for the Name column
-
-
 ## Values for the Type column
 
 type-tab = ట్యాబు
@@ -29,12 +26,6 @@ type-other = ఇతరాలు
 energy-impact-high = ఎక్కువ ({ $value })
 energy-impact-medium = మధ్యస్థం ({ $value })
 energy-impact-low = తక్కువ ({ $value })
-
-## Values for the Memory column
-##
-## Variables:
-##   $value (Number) - How much memory is used
-
 
 ## Tooltips for the action buttons
 

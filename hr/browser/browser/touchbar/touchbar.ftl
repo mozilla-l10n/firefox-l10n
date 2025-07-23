@@ -32,6 +32,3 @@ search-history = Povijest
 search-opentabs = Otvorene kartice
 search-tags = Oznake
 search-titles = Naslovi
-
-##
-

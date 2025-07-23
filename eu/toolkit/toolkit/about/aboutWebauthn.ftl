@@ -13,9 +13,6 @@ about-webauthn-credential-management-section-title = Kudeatu kredentzialak
 about-webauthn-pin-required-section-title = PINa beharrezkoa
 about-webauthn-confirm-deletion-section-title = Berretsi ezabatzea
 
-## Info field texts
-
-
 ## Results label
 
 about-webauthn-results-success = Ongi!
@@ -59,12 +56,3 @@ about-webauthn-auth-info-true = Egia
 # Shows when boolean value for an info field is False. False should not be translated.
 about-webauthn-auth-info-false = Faltsua
 about-webauthn-auth-info-null = Ez dago onartuta
-
-## Bio enrollment sample feedbacks
-
-
-## Scan (e.g. of fingerprint) was off-center (e.g. too high, too left, etc.).
-
-
-##
-

@@ -14,7 +14,3 @@ url-classifier-cache-title = Kesh
 url-classifier-cache-refresh-btn = Yangilash
 url-classifier-cache-clear-btn = Tozalash
 url-classifier-cache-table-name = Jadval nomi
-
-## Variables
-##   $error (string) - Error message
-

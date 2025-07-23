@@ -12,16 +12,3 @@ webext-perms-description-browserSettings = Liesen an ännere vun de Browserastel
 webext-perms-description-downloads-open = Erofgeluede Fichieren opmaachen
 webext-perms-description-find = Den Text vun allen oppenen Tabs liesen
 webext-perms-description-notifications = Matdeelunge weisen
-
-## The userScripts permission includes an additional explanation that is
-## displayed prominently near the usual permission description.
-
-
-## Short form to be used in lists or in a string (`webext-perms-description-data-some`)
-## that formats some of the data collection permissions below using `Intl.ListFormat`.
-##
-## This is used when the data collection permissions are required.
-
-
-## Long form to be used in `about:addons` when these data collection permissions are optional.
-

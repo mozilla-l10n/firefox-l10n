@@ -29,10 +29,3 @@ screenshots-private-window-error-title = { -screenshots-brand-name }daaƴaama e 
 screenshots-private-window-error-details = Ay haame e saɗeende ndee. E min ngolloo e gollorgel wonande jame paaɗe.
 screenshots-generic-error-title = Woo! { -screenshots-brand-name } paanii
 screenshots-generic-error-details = Min njenanaaka ko kewi koo. Aɗa waawi ennditde walla nattoro-ɗaa yaynirde hello woɗngo?
-
-## The below strings are used to capture keydown events so the strings should
-## not be changed unless the keyboard layout in the locale requires it.
-
-
-##
-

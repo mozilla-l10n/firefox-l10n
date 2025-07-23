@@ -6,6 +6,3 @@ alert-close =
     .tooltiptext = Sneck this notification
 alert-settings-title =
     .tooltiptext = Settins
-
-## Reminder Notifications
-

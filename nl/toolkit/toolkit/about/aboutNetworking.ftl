@@ -64,6 +64,3 @@ about-networking-moved-about-logging = Deze pagina is verplaatst naar <a data-l1
 
 about-networking-networkid-is-up = Koppeling is beschikbaar
 about-networking-networkid-status-known = Koppelingsstatus is bekend
-
-##
-

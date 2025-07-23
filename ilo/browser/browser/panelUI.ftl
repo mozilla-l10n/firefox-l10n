@@ -3,9 +3,6 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 
-## Customization Menu
-
-
 ## Forget Button
 
 # The forget button can be added to the toolbar or overflow menu via the customization menu.

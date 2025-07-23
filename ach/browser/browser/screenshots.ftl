@@ -27,10 +27,3 @@ screenshots-unshootable-page-error-details = Man pe obedo Kakube me rwom, pi men
 screenshots-empty-selection-error-title = Yer mamegi tidi tutwal
 screenshots-generic-error-title = Woo! { -screenshots-brand-name } opo oo.
 screenshots-generic-error-details = Pe wa ngeyo ngo ma otime kombedi. Iromo temo ne doki onyo mako cal pa potbuk mukene?
-
-## The below strings are used to capture keydown events so the strings should
-## not be changed unless the keyboard layout in the locale requires it.
-
-
-##
-

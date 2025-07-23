@@ -48,9 +48,6 @@ download-cert-view-cert =
     .label = Visualitza
 download-cert-view-text = Examina el certificat de la CA
 
-## Client Authorization Ask dialog
-
-
 ## Client Authentication Ask dialog
 
 client-auth-window =
@@ -93,6 +90,3 @@ set-password-backup-pw =
 set-password-repeat-backup-pw =
     .value = Contrasenya de la còpia de seguretat del certificat (un altre cop):
 set-password-reminder = Important: si oblideu la contrasenya de la còpia de seguretat del certificat no podreu recuperar-la més avant. Guardeu-la en un lloc segur.
-
-## Protected authentication alert
-

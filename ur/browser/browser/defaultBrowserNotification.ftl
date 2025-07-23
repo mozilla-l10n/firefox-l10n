@@ -18,8 +18,3 @@ default-browser-prompt-title-alt = { -brand-short-name } کو اپنا طے شد
 default-browser-prompt-button-primary-alt = پہلے سے طے شدہ براؤزر کے طور پر سیٹ کریں
 default-browser-prompt-checkbox-not-again-label = یہ پیغام کو دوبارہ مت دکھائیں
 default-browser-prompt-button-secondary = ابھی نہیں
-
-## Strings for a Windows native guidance notification when the user is forced to
-## use Windows Settings to set the default browser. Instructions differ for
-## Windows 10 and 11.
-

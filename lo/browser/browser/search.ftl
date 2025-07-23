@@ -34,26 +34,7 @@ removed-search-engine-message = <strong>ເຄື່ອງ​ຈັກ​ຊອ�
 removed-search-engine-message2 = <strong>ເຄື່ອງ​ຈັກ​ຊອກ​ຫາ​ເລີ່ມ​ຕົ້ນ​ຂອງ​ທ່ານ​ໄດ້​ຖືກ​ປ່ຽນ​ແປງ​ແລ້ວ.</strong> { $oldEngine } ບໍ່​ມີ​ໃຫ້​ເປັນ​ເຄື່ອງ​ຈັກ​ຊອກ​ຫາ​ມາດ​ຕະ​ຖານ​ໃນ { -brand-short-name } . { $newEngine } ດຽວນີ້ແມ່ນເຄື່ອງຈັກຊອກຫາເລີ່ມຕົ້ນຂອງທ່ານ. ເພື່ອປ່ຽນເປັນເຄື່ອງຈັກຊອກຫາມາດຕະຖານອື່ນ, ໃຫ້ໄປທີ່ການຕັ້ງຄ່າ.
 remove-search-engine-button = ຕົກລົງ
 
-## Infobar shown when default search engine is reset due to an issue reading the settings file.
-## Variables
-## $newEngine (String) - the name of the new default search engine.
-
-
-## Infobar shown when user is prompted to install search engine.
-## Variables
-## $engineName (String) - the name of the search engine to install.
-
-
 ## The following strings are used as input labels.
 
 add-engine-button = ເພີ່ມ Custom Engine
 add-engine-name = ຊື່ເຄື່ອງມືການຄົ້ນຫາ
-
-## The following placeholders are shown in the inputs when adding a new engine.
-
-
-## The following strings are used as error messages.
-
-
-## The following strings are used as labels for the dialog's buttons.
-

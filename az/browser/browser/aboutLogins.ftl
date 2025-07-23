@@ -48,9 +48,6 @@ login-list-item-subtitle-missing-username = (istifadəçi adı yoxdur)
 about-logins-list-item-vulnerable-password-icon =
     .title = Təhlükəyə açıq parol
 
-## Introduction screen
-
-
 ## Login
 
 login-item-new-login-title = Yeni hesab yarat
@@ -72,11 +69,6 @@ login-item-copied-password-button-text = Köçürüldü!
 login-item-save-changes-button = Dəyişiklikləri yadda saxla
 login-item-save-new-button = Saxla
 login-item-cancel-button = Ləğv et
-
-## The date is displayed in a timeline showing the password evolution.
-## A label is displayed under the date to describe the type of change.
-## (e.g. updated, created, etc.)
-
 
 ## OS Authentication dialog
 
@@ -111,47 +103,13 @@ about-logins-confirm-remove-dialog-title = Bu hesab silinsin?
 confirm-delete-dialog-message = Bu əməliyyat geri qaytrıla bilməz.
 about-logins-confirm-remove-dialog-confirm-button = Sil
 
-## Variables
-##   $count (number) - Number of items
-
-
 ##
 
 confirm-discard-changes-dialog-title = Saxlanılmamış dəyişikliklər ləğv edilsin?
 confirm-discard-changes-dialog-message = Bütün saxlanılmamış dəyişikliklər itiriləcək.
 confirm-discard-changes-dialog-confirm-button = Ləğv et
 
-## Breach Alert notification
-
-
 ## Vulnerable Password notification
 
 about-logins-vulnerable-alert-title = Təhlükəyə açıq parol
 about-logins-vulnerable-alert-learn-more-link = Ətraflı öyrən
-
-## Error Messages
-
-
-## Login Export Dialog
-
-
-## Login Import Dialog
-
-
-##
-## Variables:
-##  $count (number) - The number of affected elements
-
-
-##
-## Variables:
-##  $field (String) - The name of the field from the CSV file for example url, username or password
-
-
-##
-## Variables:
-##  $count (number) - The number of affected elements
-
-
-## Logins import report page
-

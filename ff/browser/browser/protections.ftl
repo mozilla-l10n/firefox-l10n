@@ -37,11 +37,3 @@ monitor-link = Hol no gollortoo
 monitor-header-content-no-account = Ƴeewto { -monitor-brand-name }ngam ƴeewde so tawii a jeyanooma e ciigol keɓe ganndangol, etee heɓ jeertine baɗte ciigol keɓe kesol.
 monitor-header-content-signed-in = { -monitor-brand-name } ina reentin maa so kabaruuji maa peeñii e ciigol keɓe kesol ganndangol.
 auto-scan = Niiwtaama ɗoon e ɗoon hannde
-
-## The title attribute is used to display the type of protection.
-## The aria-label is spoken by screen readers to make the visual graph accessible to blind users.
-##
-## Variables:
-##   $count (Number) - Number of specific trackers
-##   $percentage (Number) - Percentage this type of tracker contributes to the whole graph
-

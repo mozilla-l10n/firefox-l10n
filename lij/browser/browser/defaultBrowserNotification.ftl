@@ -15,8 +15,3 @@ default-browser-prompt-button-primary-pin = Impòsta comme navegatô prinçipâ
 default-browser-prompt-button-primary-alt = Rendi navegatô predefinio
 default-browser-prompt-checkbox-not-again-label = No mostralo sto mesaggio ciù
 default-browser-prompt-button-secondary = Oua no
-
-## Strings for a Windows native guidance notification when the user is forced to
-## use Windows Settings to set the default browser. Instructions differ for
-## Windows 10 and 11.
-

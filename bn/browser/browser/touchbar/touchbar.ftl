@@ -32,6 +32,3 @@ search-history = ইতিহাস
 search-opentabs = খোলা ট্যাবগুলি
 search-tags = ট্যাগসমূহ
 search-titles = শিরোনাম
-
-##
-

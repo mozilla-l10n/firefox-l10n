@@ -28,7 +28,3 @@ process-type-webisolated = Loowdi Geese Njoñaandi
 process-type-gpu = GPU
 # process used to perform network operations
 process-type-socket = seŋirde
-
-##
-## Other
-

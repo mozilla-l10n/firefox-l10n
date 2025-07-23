@@ -180,7 +180,7 @@ duration-unit-d = d
 
 ## Memory units
 
-memory-unit-B =  字节
+memory-unit-B = { " " }字节
 memory-unit-KB = KB
 memory-unit-MB = MB
 memory-unit-GB = GB

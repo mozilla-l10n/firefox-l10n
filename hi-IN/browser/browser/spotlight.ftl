@@ -7,9 +7,6 @@ spotlight-dialog-close-button =
     .title = बंद करें
     .aria-label = बंद करें
 
-## Mobile download button strings
-
-
 ## Firefox Focus promo message strings
 
 spotlight-focus-promo-title = { -focus-brand-name } प्राप्त करें

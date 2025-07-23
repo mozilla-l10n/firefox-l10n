@@ -232,7 +232,9 @@ tabbrowser-manager-current-window-tab-group =
     .label = { $tabGroupName }
     .tooltiptext = { $tabGroupName } — Geçerli pencere
 
-## Tab Groups
+## Variables:
+##  $tabGroupName (String): The name of the tab group. Defaults to the value
+##                          of tab-group-name-default.
 
 tab-group-editor-title-create = Sekme grubu oluştur
 tab-group-editor-title-edit = Sekme grubunu yönet
@@ -262,16 +264,12 @@ tab-group-editor-color-selector2-gray = Gri
     .title = Gri
 tab-group-editor-color-selector2-red = Kırmızı
     .title = Kırmızı
-# Variables:
-#  $tabGroupName (String): The name of the tab group. Defaults to the value
-#                          of tab-group-name-default.
 tab-group-description = { $tabGroupName } — Sekme grubu
 tab-context-unnamed-group =
     .label = Adsız grup
 tab-group-name-default = Adsız Grup
 
-## Variables:
-##  $tabCount (Number): the number of tabs that are affected by the action.
+##
 
 tab-context-move-tab-to-new-group =
     .label =

@@ -29,16 +29,3 @@ webext-perms-description-tabs = I-access ang mga browser tab
 webext-perms-description-tabHide = Itago at ipakita ang mga browser tab
 webext-perms-description-topSites = I-access ang kasaysayan ng pag-browse
 webext-perms-description-webNavigation = I-access ang browser activity habang nag-nanavigate
-
-## The userScripts permission includes an additional explanation that is
-## displayed prominently near the usual permission description.
-
-
-## Short form to be used in lists or in a string (`webext-perms-description-data-some`)
-## that formats some of the data collection permissions below using `Intl.ListFormat`.
-##
-## This is used when the data collection permissions are required.
-
-
-## Long form to be used in `about:addons` when these data collection permissions are optional.
-

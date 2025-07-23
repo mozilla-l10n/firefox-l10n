@@ -6,6 +6,3 @@ alert-close =
     .tooltiptext = Zarrar ista notificación
 alert-settings-title =
     .tooltiptext = Configuración
-
-## Reminder Notifications
-

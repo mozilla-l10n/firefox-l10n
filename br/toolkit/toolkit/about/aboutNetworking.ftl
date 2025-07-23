@@ -55,9 +55,3 @@ about-networking-networkid = ID ar rouedad
 about-networking-networkid-id = ID ar rouedad
 # Note: do not translate about:logging, as it is a URL.
 about-networking-moved-about-logging = Dilec’hiet eo bet ar bajenn-mañ etrezek <a data-l10n-name="about-logging-url">about:logging</a>.
-
-## Link is intended as "network link"
-
-
-##
-

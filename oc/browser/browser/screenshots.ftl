@@ -60,10 +60,6 @@ screenshots-component-download-button-2 = Telecargar
     .title = Telecargar ({ $shortcut })
     .aria-label = Telecargar
 
-## The below strings are used to capture keydown events so the strings should
-## not be changed unless the keyboard layout in the locale requires it.
-
-
 ##
 
 screenshots-overlay-preview-face-label =

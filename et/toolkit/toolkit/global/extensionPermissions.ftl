@@ -29,16 +29,3 @@ webext-perms-description-tabs = ligipääs kaartidele
 webext-perms-description-tabHide = brauseri kaartide peitmine ja kuvamine
 webext-perms-description-topSites = ligipääs veebilehitsemise ajaloole
 webext-perms-description-webNavigation = ligipääs brauseri tegevusele veebilehitsemise vältel
-
-## The userScripts permission includes an additional explanation that is
-## displayed prominently near the usual permission description.
-
-
-## Short form to be used in lists or in a string (`webext-perms-description-data-some`)
-## that formats some of the data collection permissions below using `Intl.ListFormat`.
-##
-## This is used when the data collection permissions are required.
-
-
-## Long form to be used in `about:addons` when these data collection permissions are optional.
-

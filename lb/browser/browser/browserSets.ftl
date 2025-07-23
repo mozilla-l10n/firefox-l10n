@@ -79,11 +79,6 @@ bookmark-this-page-shortcut =
 bookmark-show-sidebar-shortcut =
     .key = b
 
-## All `-alt*` messages are alternative acceleration keys for zoom.
-## If shift key is needed with your locale popular keyboard for them,
-## you can use these alternative items. Otherwise, their values should be empty.
-
-
 ##
 
 private-browsing-shortcut =

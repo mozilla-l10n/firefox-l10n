@@ -37,6 +37,3 @@ fxa-menu-send-tab-to-device-description = Kasit un ivinell war-eeun d'un trevnad
 fxa-menu-sign-out =
     .label = Digennaskañ…
 fxa-menu-sync-title = Goubredañ
-
-## Sync warning strings that support the browser profiles feature, these will be shown when the user might be merging data
-

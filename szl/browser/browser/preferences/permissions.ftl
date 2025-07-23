@@ -102,9 +102,6 @@ permissions-exceptions-saved-logins-window2 =
     .style = { permissions-window2.style }
 permissions-exceptions-saved-logins-desc = Dane logowanio do tych strōn niy bydōm spamiyntowane
 
-## Exceptions - Saved Passwords
-
-
 ## Exceptions - Add-ons
 
 permissions-exceptions-addons-window2 =
@@ -168,8 +165,3 @@ permissions-site-microphone-desc = Te strōny poprosiyły ô zgoda na dostymp do
 permissions-site-microphone-disable-label =
     .label = Szperuj nowe prośby ô zgoda na dostymp do twojigo mikrofōnu
 permissions-site-microphone-disable-desc = Skuli tego strōny, co ich niy ma na wykazie, niy bydōm mogły prosić ô zgoda na dostymp do twojigo mikrofōnu. Przi zaszperowanym dostympie do mikrofōnu niykere funkcyje strōn mogōm niy fungować dobrze.
-
-## Site Permissions - Speaker
-##
-## "Speaker" refers to an audio output device.
-

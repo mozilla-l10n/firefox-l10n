@@ -46,12 +46,6 @@ about-private-browsing-search-banner-close-button =
 about-private-browsing-promo-close-button =
     .title = మూసివేయి
 
-## Strings used in a “pin promotion” message, which prompts users to pin a private window
-
-
-## Strings used in a promotion message for cookie banner reduction
-
-
 ## Strings for Felt Privacy v1 experiments in 119
 
 about-private-browsing-felt-privacy-v1-info-header = ఈ పరికరంలో జాడేమీ వదలకండి

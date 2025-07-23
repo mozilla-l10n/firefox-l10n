@@ -6,6 +6,3 @@ alert-close =
     .tooltiptext = ປິດການແຈ້ງເຕືອນນີ້
 alert-settings-title =
     .tooltiptext = ການຕັ້ງຄ່າ
-
-## Reminder Notifications
-

@@ -11,10 +11,3 @@ label-more-information = વધુ માહિતી: બગ { $bug }
 text-disabled-in-about-config = આ સુવિધા about:config માં નિષ્ક્રિય કરવામાં આવી છે
 text-no-interventions = કોઈ હસ્તક્ષેપનો ઉપયોગ કરવામાં આવતો નથી
 text-title = about:compat
-
-## Do not translate "SmartBlock". For reference, SmartBlock is a feature
-## of Firefox anti-tracking which fixes website breakage caused when
-## trackers are blocked, by acting just enough like those trackers to fix the
-## breakage. SmartBlock also contains special fixes for sites broken by
-## Firefox's Total Cookie Protection feature.
-

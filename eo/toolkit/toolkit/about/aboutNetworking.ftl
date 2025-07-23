@@ -64,6 +64,3 @@ about-networking-moved-about-logging = Tiu ĉi paĝo estis movita al <a data-l10
 
 about-networking-networkid-is-up = Ligo aktiva
 about-networking-networkid-status-known = Konata stato de ligo
-
-##
-

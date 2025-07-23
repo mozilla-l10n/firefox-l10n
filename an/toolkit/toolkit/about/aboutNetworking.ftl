@@ -45,9 +45,3 @@ about-networking-rcwn-avg-long = Meya larga
 about-networking-rcwn-std-dev-long = Desviación estandard larga
 about-networking-rcwn-cache-slow = Numero d'ocasions que la caché ye lenta
 about-networking-rcwn-cache-not-slow = Numero d'ocasions que la caché no ye lenta
-
-## Link is intended as "network link"
-
-
-##
-

@@ -38,11 +38,6 @@ printui-options = Opcions
 printui-headers-footers-checkbox = Imprentar los capiters y los pietz de pachina
 printui-backgrounds-checkbox = Imprentar los fondos
 
-## The "Format" section, select a version of the website to print. Radio
-## options to select between the original page, selected text only, or a version
-## where the page is processed with "Reader View".
-
-
 ##
 
 printui-color-mode-label = Modo de color

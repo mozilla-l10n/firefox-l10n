@@ -34,10 +34,3 @@ screenshots-private-window-error-title = { -screenshots-brand-name } ye desactiv
 screenshots-private-window-error-details = Sentimos las molestias. Somos treballando en esta ferramienta pa futuras versions.
 screenshots-generic-error-title = Ola! { -screenshots-brand-name } ha feito rabosa.
 screenshots-generic-error-details = No somos seguros de qué ha paasau. Puetz Mirar de prebar-lo atra vez u fer una foto de pantalla d'unatra pachina.
-
-## The below strings are used to capture keydown events so the strings should
-## not be changed unless the keyboard layout in the locale requires it.
-
-
-##
-

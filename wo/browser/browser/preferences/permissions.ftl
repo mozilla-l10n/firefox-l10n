@@ -31,48 +31,10 @@ permissions-capabilities-listitem-allow-session =
 permissions-invalid-uri-title = Tur bu jaaduwul
 permissions-invalid-uri-label = Dugalal tur bu jaadu
 
-## Exceptions - Tracking Protection
-
-
-## Exceptions - Cookies
-
-
-## Exceptions - HTTPS-Only Mode
-
-
 ## Exceptions - Pop-ups
 
 permissions-exceptions-popup-desc = Mën nga wone dalub web yi ñu may ñu ubbi ay palanteeru popup. Roofal màkaanu dal bi nga bëgg may te nga cuq ci may.
 
-## Exceptions - Saved Logins
-
-
-## Exceptions - Saved Passwords
-
-
 ## Exceptions - Add-ons
 
 permissions-exceptions-addons-desc = Mën nga wone dalub web yi ñu may ñu samp ay modili mottali. Roofal màkaanu dal bi nga bëgg may te nga cuq ci may.
-
-## Site Permissions - Autoplay
-
-
-## Site Permissions - Notifications
-
-
-## Site Permissions - Location
-
-
-## Site Permissions - Virtual Reality
-
-
-## Site Permissions - Camera
-
-
-## Site Permissions - Microphone
-
-
-## Site Permissions - Speaker
-##
-## "Speaker" refers to an audio output device.
-

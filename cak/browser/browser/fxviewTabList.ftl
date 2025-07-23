@@ -39,6 +39,3 @@ fxviewtabrow-save-to-pocket = Tiyak pa { -pocket-brand-name }
     .accesskey = p
 fxviewtabrow-copy-link = Tiwachib'ëx Ximonel
     .accesskey = X
-
-## Strings below are to be used without context (tab title/URL) on mute/unmute buttons
-

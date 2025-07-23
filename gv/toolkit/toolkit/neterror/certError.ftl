@@ -37,17 +37,3 @@ cert-error-domain-mismatch-multiple = Ta ynnydyn-eggey prowal quoi t'ad lesh tei
 # Variables:
 #   $error (string) - NSS error code string that specifies type of cert error. e.g. unknown issuer, invalid cert, etc.
 cert-error-code-prefix-link = Coad marranys: <a data-l10n-name="error-code-link">{ $error }</a>
-
-## Variables:
-##   $hostname (string) - Hostname of the website with cert error.
-
-
-## Messages used for certificate error titles
-
-
-## Felt Privacy V1 Strings
-
-
-## Variables:
-##   $hostname (String) - Hostname of the website to which the user was trying to connect.
-

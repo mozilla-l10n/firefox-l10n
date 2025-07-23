@@ -60,9 +60,6 @@ sidebar-context-menu-copy-link =
 sidebar-context-menu-close-remote-tab =
     .label = Затвори картицу на { $deviceName }
 
-## Labels for sidebar history context menu items
-
-
 ## Labels for sidebar menu items.
 
 sidebar-menu-genai-chat-label =
@@ -94,12 +91,6 @@ sidebar-menu-open-bookmarks-tooltip = Отвори обележиваче ({ $sh
 # Variables:
 #   $shortcut (String) - The OS specific keyboard shortcut.
 sidebar-menu-close-bookmarks-tooltip = Затвори облеживаче ({ $shortcut })
-
-## Tooltips displayed over the AI chatbot icon.
-## Variables:
-##   $shortcut (String) - The OS specific keyboard shortcut.
-##   $provider (String) - The name of the AI chatbot provider (if available).
-
 
 ## Headings for sidebar menu panels.
 

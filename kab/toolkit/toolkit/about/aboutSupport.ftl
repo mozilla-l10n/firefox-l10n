@@ -412,6 +412,3 @@ support-remote-features-status = Addad
 
 pointing-device-mouse = Taɣerdayt
 pointing-device-touchscreen = Nnal agdil
-
-## Content Analysis (DLP)
-

@@ -31,6 +31,7 @@
 -relay-brand-name = Firefox Relay
 -relay-brand-short-name = Relay
 -fakespot-brand-name = Fakespot
+-solo-ai-brand-name = Solo
 # Note the name of the website is capitalized.
 -fakespot-website-name = Fakespot.com
 # The particle "by" can be localized, "Fakespot" and "Mozilla" should not be localized or transliterated.
@@ -42,26 +43,24 @@
 # and kept in English.
 -firefox-home-brand-name =
     { $case ->
-       *[nom] Firefox-მთავარი
         [dat] Firefox-მთავარს
         [loc] Firefox-მთავარზე
+       *[nom] Firefox-მთავარი
     }
 # View" can be localized, “Firefox” must be treated as a brand
 # and kept in English.
 -firefoxview-brand-name =
     { $case ->
-       *[nom] Firefox-ხედი
         [dat] Firefox-ხედს
         [gen] Firefox-ხედის
         [ben] Firefox-ხედისთვის
         [loc] Firefox-ხედზე
         [ins] Firefox-ხედით
         [add] Firefox-ხედთან
+       *[nom] Firefox-ხედი
     }
 # Firefox Labs is the name for a page in Settings to allow users to learn about
 # experimental and in-development features, and turn those features on and off.
 # The "Labs" portion can be localized, “Firefox” must be treated as a brand
 # and kept in English.
 -firefoxlabs-brand-name = Firefox Labs
--solo-ai-brand-name = Solo
-

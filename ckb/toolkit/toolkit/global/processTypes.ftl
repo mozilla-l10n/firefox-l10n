@@ -28,7 +28,3 @@ process-type-webisolated = ناوەڕۆکی جیاکراوە
 process-type-gpu = چارەسەرکەری گرافیک
 # process used to perform network operations
 process-type-socket = سۆکێت
-
-##
-## Other
-

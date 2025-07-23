@@ -155,6 +155,3 @@ perftools-presets-power-description = Танзимот барои тафтиши
 perftools-presets-debug-label = Ислоҳ кардани хатоҳо
 perftools-presets-debug-description = Танзими пешбинишуда барои ислоҳ кардани хатоҳо дар «{ -brand-shorter-name }». Ба сабаби хароҷоти изофӣ, аз он барои кори самаранок истифода набаред, аммо аз он барои таваҷҷуҳ ба фаҳмидани рафтори браузер истифода баред.
 perftools-presets-custom-label = Фармоишӣ
-
-##
-

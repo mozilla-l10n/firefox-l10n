@@ -55,9 +55,6 @@ policy-HardwareAcceleration = Se false, asmòrta l'aceleraçion hardware.
 policy-Homepage = Inpòsta e blòcca (se ti veu) a pagina prinçipâ.
 policy-InstallAddonsPermission = Permetti a çerti sciti de instalâ conponenti azonti.
 
-## Do not translate "SameSite", it's the name of a cookie attribute.
-
-
 ##
 
 policy-NetworkPrediction = Abilita o dizabilita a prediçion da ræ (preletûa DNS).

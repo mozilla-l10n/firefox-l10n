@@ -72,9 +72,6 @@ protections-panel-blocking-label = Blocats
 protections-panel-not-blocking-label = Autorizats
 protections-panel-not-found-label = Cap pas detectat
 
-## Smartblock strings
-
-
 ##
 
 protections-panel-settings-label = Paramètres de proteccion

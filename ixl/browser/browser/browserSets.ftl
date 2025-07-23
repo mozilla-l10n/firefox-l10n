@@ -51,9 +51,6 @@ full-zoom-reset-shortcut =
 full-zoom-reset-shortcut-alt =
     .key = { "" }
 
-##
-
-
 ## The shortcuts below are for Mac specific
 ## global menu.
 

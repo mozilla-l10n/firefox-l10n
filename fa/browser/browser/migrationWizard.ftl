@@ -212,6 +212,3 @@ migration-wizard-progress-success-extensions =
         [one] { $quantity } افزونه
        *[other] { $quantity } افزونه
     }
-
-##
-

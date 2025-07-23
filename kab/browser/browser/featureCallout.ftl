@@ -65,9 +65,6 @@ split-dismiss-button-manage-settings-option =
 split-dismiss-button-default-label =
     .title = Ugar n yiɣewwaren
 
-## Login Status Advisory Callout (points to the account icon)
-
-
 ## Bookmarks toolbar callout strings
 
 bookmarks-toolbar-callout-1-primary-button-label = Rnu tacreṭ n usebter

@@ -7,10 +7,6 @@ search-header =
     .placeholder = Yeny addons.mozilla.org
     .searchbuttonlabel = Yeny
 
-## Variables
-##   $domain - Domain name where add-ons are available (e.g. addons.mozilla.org)
-
-
 ##
 
 list-empty-installed =
@@ -194,26 +190,6 @@ shortcuts-modifier-other = Ket Ctrl onyo Alt
 #   $addon (string) - Name of the add-on
 shortcuts-exists = { $addon } dong tye katic kwede
 
-## Recommended add-ons page
-
-
-## Add-on actions
-
-
-## Pending uninstall message bar
-
-
-## "sites with restrictions" (internally called "quarantined") are special domains
-## where add-ons are normally blocked for security reasons.
-
-
-## This is the tooltip text for the recommended badges for an extension in about:addons. The
-## badge is a small icon displayed next to an extension when it is recommended on AMO.
-
-
-##
-
-
 ## Page headings
 
 addons-heading-search-input =
@@ -258,10 +234,3 @@ plugins-gmp-license-info = Ngec me lancic
 plugins-gmp-privacy-info = Ngec me mung
 plugins-openh264-name = Cisco Systems, Inc aye omiyo latuk vidio OpenH264.
 plugins-openh264-description = Larwak man Mozilla keto pire kene me lubo cik ma WebRTC cimo kadong me cako lwongo me WebRTC ki nyonyo ma mito latuk vidio me H.264. Lim http://www.openh264.org/ me neno kod me yubo codec ki nong ngec mapol ikom keto ne itic.
-
-## Headings for the Permissions tab in `about:addons` when the data collection
-## feature is enabled.
-
-
-## Mapping Engine IDs from AI models to how that feature represented by the engine Id is described in the used by section in local model management
-

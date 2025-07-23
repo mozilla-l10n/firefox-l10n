@@ -542,9 +542,6 @@ newtab-custom-wallpaper-title = Mukautetut taustakuvat ovat täällä
 newtab-custom-wallpaper-subtitle = Valitse oma taustakuvasi tai mukautettu väri ja tee { -brand-product-name }ista mieluisesi.
 newtab-custom-wallpaper-cta = Kokeile
 
-## Strings for new user activation custom wallpaper highlight
-
-
 ## Strings for download mobile highlight
 
 newtab-download-mobile-highlight-title = Lataa { -brand-product-name } mobiililaitteille

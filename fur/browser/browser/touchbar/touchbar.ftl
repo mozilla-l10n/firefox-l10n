@@ -32,6 +32,3 @@ search-history = Cronologjie
 search-opentabs = Schedis viertis
 search-tags = Etichetis
 search-titles = Titui
-
-##
-

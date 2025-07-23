@@ -58,12 +58,3 @@ edit-engine-window =
 add-engine-button = Gehitu bilaketa-motor pertsonalizatua
 add-engine-name = Bilaketa-motorraren izena
 add-engine-keyword2 = Gako-hitza (aukerakoa)
-
-## The following placeholders are shown in the inputs when adding a new engine.
-
-
-## The following strings are used as error messages.
-
-
-## The following strings are used as labels for the dialog's buttons.
-

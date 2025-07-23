@@ -19,24 +19,3 @@ exception-mgr-cert-location-url =
 exception-mgr-cert-status-view-cert =
     .label = Kune'ya...
     .accesskey = V
-
-## PKCS#12 file dialogs
-
-
-## Import certificate(s) file dialog
-
-
-## For editing certificates trust
-
-
-## For Deleting Certificates
-
-
-## Used to show whether an override is temporary or permanent
-
-
-## Add Security Exception dialog
-
-
-## Certificate export "Save as" and error dialogs
-

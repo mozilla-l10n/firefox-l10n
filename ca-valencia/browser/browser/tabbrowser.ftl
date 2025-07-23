@@ -71,9 +71,6 @@ tabbrowser-unblock-tab-audio-tooltip =
            *[other] Reprodueix { $tabCount } pestanyes
         }
 
-## Tooltips for tab audio control
-
-
 ## Confirmation dialog when closing a window with more than one tab open,
 ## or when quitting when only one window is open.
 
@@ -106,10 +103,6 @@ tabbrowser-confirm-close-tabs-with-key-button = Ix del { -brand-short-name }
 #   $quitKey (String): the text of the keyboard shortcut for quitting.
 tabbrowser-confirm-close-tabs-with-key-checkbox = Confirma abans d'eixir amb { $quitKey }
 
-## Confirmation dialog when quitting using the keyboard shortcut (Ctrl/Cmd+Q)
-## and browser.warnOnQuitShortcut is true.
-
-
 ## Confirmation dialog when opening multiple tabs simultaneously
 
 tabbrowser-confirm-open-multiple-tabs-title = Confirmació d'obertura
@@ -127,9 +120,6 @@ tabbrowser-confirm-open-multiple-tabs-checkbox = Avisa'm quan el fet d'obrir mol
 tabbrowser-confirm-caretbrowsing-title = Navegació amb cursor
 tabbrowser-confirm-caretbrowsing-message = En prémer F7 s'activa o es desactiva la navegació amb cursor. Esta característica col·loca un cursor mòbil a les pàgines web que vos permet seleccionar text amb el teclat. Voleu activar-la?
 tabbrowser-confirm-caretbrowsing-checkbox = No em tornes a mostrar este diàleg.
-
-## Confirmation dialog for closing all duplicate tabs
-
 
 ##
 
@@ -162,19 +152,3 @@ tabbrowser-context-unmute-selected-tabs =
 #   $tabCount (Number): The number of tabs in the current browser window. It will always be 2 at least.
 tabbrowser-ctrl-tab-list-all-tabs =
     .label = Llista les { $tabCount } pestanyes
-
-## Tab manager menu buttons
-## Variables:
-##  $tabGroupName (String): The name of the tab group. See also tab-group-name-default, which will be
-##                          used when the group's name is empty.
-
-
-## Tab Groups
-
-
-## Variables:
-##  $tabCount (Number): the number of tabs that are affected by the action.
-
-
-## Open/saved tab group context menu
-

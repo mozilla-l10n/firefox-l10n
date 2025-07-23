@@ -64,6 +64,3 @@ about-networking-moved-about-logging = Гэта старонка была пер
 
 about-networking-networkid-is-up = Злучэнне актыўнае
 about-networking-networkid-status-known = Стан злучэння вядомы
-
-##
-

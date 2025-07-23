@@ -15,9 +15,3 @@ add-bookmark = বুকমাৰ্ক যোগ কৰক
 # Meant to match the string displayed in an empty URL bar.
 open-location = সন্ধান বা ঠিকনা প্ৰবিষ্ট কৰক
 close-window = উইণ্ড' বন্ধ কৰক
-
-## Various categories of shortcuts for search.
-
-
-##
-

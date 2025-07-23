@@ -32,10 +32,3 @@ screenshots-private-window-error-title = { -screenshots-brand-name } Maxfiy koʻ
 screenshots-private-window-error-details = Noqulaylik uchun uzr. Biz keyingi versiyalar uchun bu funksiya ustida ishlayapmiz.
 screenshots-generic-error-title = Obbo! { -screenshots-brand-name } ishdan chiqdi.
 screenshots-generic-error-details = Nima yuz berganiga tushunmadik. Yana urinib ko‘ring yoki boshqa sahifada skrinshot olib ko‘ring.
-
-## The below strings are used to capture keydown events so the strings should
-## not be changed unless the keyboard layout in the locale requires it.
-
-
-##
-

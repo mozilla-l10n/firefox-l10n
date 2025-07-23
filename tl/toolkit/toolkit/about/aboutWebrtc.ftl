@@ -12,9 +12,6 @@ about-webrtc-document-title = WebRTC Internals
 # translated. This string is used as a title for a file save dialog box.
 about-webrtc-save-page-dialog-title = i-save ang about:webrtc bilang
 
-## These labels are for a disclosure which contains the information for closed PeerConnection sections
-
-
 ## AEC is an abbreviation for Acoustic Echo Cancellation.
 
 about-webrtc-aec-logging-msg-label = AEC Logging
@@ -108,11 +105,6 @@ about-webrtc-log-section-hide-msg = Itago ang log
 about-webrtc-connection-open = [ { $browser-id } | { $id } ] { $url } { $now }
 about-webrtc-connection-closed = [ { $browser-id } | { $id } ] { $url } (nasara) { $now }
 
-## These are used to indicate what direction media is flowing.
-## Variables:
-##  $codecs - a list of media codecs
-
-
 ##
 
 about-webrtc-local-candidate = Lokal na Kandidato
@@ -152,20 +144,6 @@ about-webrtc-rotation-degrees = Pag-ikot (degree)
 about-webrtc-local-receive-ssrc = Local Receiving SSRC
 # This is an SSRC on the remote side of the connection that is sending RTP
 about-webrtc-remote-send-ssrc = Remote Sending SSRC
-
-## These are displayed on the button that shows or hides the
-## PeerConnection configuration disclosure
-
-
-##
-
-
-## These are displayed on the button that shows or hides the
-## user modified configuration disclosure
-
-
-##
-
 
 ##
 
@@ -212,14 +190,3 @@ about-webrtc-trickle-caption-msg = Pumatak na mga kandidato (nakarating pagkatap
 #  $timestamp (Number) - The Unix Epoch time at which the SDP was set.
 #  $relative-timestamp (Number) - The timestamp relative to the timestamp of the earliest received SDP.
 about-webrtc-sdp-set-timestamp = Timestamp { NUMBER($timestamp, useGrouping: "false") } (+ { $relative-timestamp } ms)
-
-## These are displayed on the button that shows or hides the SDP information disclosure
-
-
-## These are displayed on the button that shows or hides the Media Context information disclosure.
-## The Media Context is the set of preferences and detected capabilities that informs
-## the negotiated CODEC settings.
-
-
-##
-

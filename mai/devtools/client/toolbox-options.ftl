@@ -38,9 +38,6 @@ options-default-color-unit-hsl = HSL(A)
 options-default-color-unit-rgb = RGB(A)
 options-default-color-unit-name = रंग नाम
 
-## Web Console section
-
-
 ## Style Editor section
 
 # The heading
@@ -49,9 +46,6 @@ options-styleeditor-label = शैली संपादक
 options-stylesheet-autocompletion-label = स्वतःपूर्ण CSS
 options-stylesheet-autocompletion-tooltip =
     .title = स्वतःपूर्ण CSS विशेषता, मान आओर शैली संपादक मे चयनक अहाँक टाइप करए केर दौरान
-
-## Screenshot section
-
 
 ## Editor section
 

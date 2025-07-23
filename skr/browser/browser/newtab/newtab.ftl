@@ -118,9 +118,6 @@ newtab-menu-archive-pocket = { -pocket-brand-name } وِچ سوگھا کرو
 newtab-menu-show-privacy-info = ساݙے سپانسر تے تہاݙی رازداری
 newtab-menu-about-fakespot = { -fakespot-brand-name } بارے
 
-## Context menu options for sponsored stories and new ad formats on New Tab.
-
-
 ## Message displayed in a modal window to explain privacy and provide context for sponsored content.
 
 newtab-privacy-modal-button-done = تھی ڳیا
@@ -375,9 +372,6 @@ feature-highlight-wallpaper =
     .title = { -newtab-wallpaper-feature-highlight-header }
     .aria-label = { -newtab-wallpaper-feature-highlight-content }
 
-## Celestial
-
-
 ## New Tab Weather
 
 # Variables:
@@ -446,34 +440,3 @@ newtab-topic-selection-button-maybe-later = شاید بعد وچ
 newtab-topic-selection-privacy-link = سکھو جو اساں ڈیٹا دی حفاظت تے منیج کین٘ویں کریندے ہیں۔
 newtab-topic-selection-button-update-interests = آپݨیاں دلچسپیاں اپ ڈیٹ کرو
 newtab-topic-selection-button-pick-interests = آپݨیاں دلچسپیاں چݨو
-
-## Content Feed Sections
-## "Follow", "unfollow", and "following" are social media terms that refer to subscribing to or unsubscribing from a section of stories.
-## e.g. Following the travel section of stories.
-
-
-## Button to block/unblock listed topics
-## "Block", "unblocked", and "blocked" are social media terms that refer to hiding a section of stories.
-## e.g. Blocked the politics section of stories.
-
-
-## Confirmation modal for blocking a section
-
-
-## Strings for custom wallpaper highlight
-
-
-## Strings for new user activation custom wallpaper highlight
-
-
-## Strings for download mobile highlight
-
-
-## Strings for shortcuts highlight
-
-
-## Strings for reporting ads and content
-
-
-## Strings for trending searches
-

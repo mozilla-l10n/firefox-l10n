@@ -55,27 +55,6 @@ sandbox-sys-call-number = Syscall
 
 audio-backend = Audio Backend
 
-## Codec support table
-
-
-## Media Content Decryption Modules (CDM)
-## See EME Spec for more explanation for following technical terms
-## https://w3c.github.io/encrypted-media/
-
-
-##
-
-
-## Remote Debugging
-##
-## The Firefox remote protocol provides low-level debugging interfaces
-## used to inspect state and control execution of documents,
-## browser instrumentation, user interaction simulation,
-## and for subscribing to browser-internal events.
-##
-## See also https://firefox-source-docs.mozilla.org/remote/
-
-
 ##
 
 # Variables
@@ -139,25 +118,3 @@ sandbox-proc-type-media-plugin = yíb ná media
 multi-process-windows = { $remoteWindows }/{ $totalWindows }
 async-pan-zoom = Encuadro/zoom asíncrono
 apz-none = Yent tí
-
-## Variables
-## $preferenceKey (string) - String ID of preference
-
-
-## Strings representing the status of the Enterprise Policies engine.
-
-
-## Printing section
-
-
-## Remote Settings sections
-
-
-## Normandy sections
-
-
-## Pointing devices
-
-
-## Content Analysis (DLP)
-

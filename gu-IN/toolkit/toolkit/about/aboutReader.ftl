@@ -15,9 +15,6 @@ about-reader-estimated-read-time =
        *[other] { $range } મિનિટ
     }
 
-## Reader View text and layout menu
-
-
 ## These are the styles of typeface that are options in the reader view controls.
 
 about-reader-font-type-serif = શેરીફ
@@ -27,14 +24,3 @@ about-reader-font-type-sans-serif = સાન્સ-શેરીફ
 
 about-reader-toolbar-close = રીડર દૃશ્ય બંધ કરો
 about-reader-toolbar-type-controls = પ્રકાર નિયંત્રણો
-
-## Reader View colors menu
-
-
-## These are used as labels for the custom theme color pickers.
-## The .title element is used to make the editing functionality
-## clear and give context for screen reader users.
-
-
-## Reader View text and layout menu
-

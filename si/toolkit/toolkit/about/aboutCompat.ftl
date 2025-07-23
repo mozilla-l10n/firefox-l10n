@@ -7,10 +7,3 @@ label-enable = සබල කරන්න
 label-overrides = පරිශීලක නියෝතය අභිබවීම
 text-disabled-in-about-config = මෙම විශේෂාංගය about:config හි අබල කර ඇත
 text-title = about:compat
-
-## Do not translate "SmartBlock". For reference, SmartBlock is a feature
-## of Firefox anti-tracking which fixes website breakage caused when
-## trackers are blocked, by acting just enough like those trackers to fix the
-## breakage. SmartBlock also contains special fixes for sites broken by
-## Firefox's Total Cookie Protection feature.
-

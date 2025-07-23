@@ -24,6 +24,3 @@ open-sidebar = Странични ленти
 
 search-tags = Етикети
 search-titles = Наслови
-
-##
-

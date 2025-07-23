@@ -68,9 +68,6 @@ permissions-exceptions-cookie-window2 =
     .style = { permissions-window2.style }
 permissions-exceptions-cookie-desc = Po’ spicificari quali siti ponnu o nun ponnu mai usari viscotta e dati dû situ. Dìggita u nnirizzu giustu dû situ ca vo’ manijari e poi ammacca Blocca, Pirmetti pi sta sissiuni o Pirmetti.
 
-## Exceptions - HTTPS-Only Mode
-
-
 ## Exceptions - Pop-ups
 
 permissions-exceptions-popup-window2 =
@@ -84,9 +81,6 @@ permissions-exceptions-saved-logins-window2 =
     .title = Eccizzioni - Cridinziali sarbati
     .style = { permissions-window2.style }
 permissions-exceptions-saved-logins-desc = I cridinziali pî siti appressu nun vennu sarbati
-
-## Exceptions - Saved Passwords
-
 
 ## Exceptions - Add-ons
 
@@ -151,8 +145,3 @@ permissions-site-microphone-desc = I siti appressu dumannaru di accèdiri ô mic
 permissions-site-microphone-disable-label =
     .label = Blocca i novi dumanni d’accessu ô micròfunu
 permissions-site-microphone-disable-desc = Chistu mpidisci ê siti ca nun cumparìscinu supra di dumannari u pirmissu di accèdiri ô micròfunu. Bluccari l’accessu ô micròfunu putissi ncippari certi carattirìstichi dû situ.
-
-## Site Permissions - Speaker
-##
-## "Speaker" refers to an audio output device.
-

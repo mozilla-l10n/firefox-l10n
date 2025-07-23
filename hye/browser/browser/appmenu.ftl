@@ -248,9 +248,3 @@ appmenu-customizetoolbar =
 appmenu-developer-tools-subheader = Դիտարկչի գործիքներ
 appmenu-developer-tools-extensions =
     .label = Ընդլայնումներ մշակողների համար
-
-## Panel for privacy and security products
-
-
-## Profiles panel
-

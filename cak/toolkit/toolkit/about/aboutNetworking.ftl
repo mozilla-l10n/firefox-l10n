@@ -60,6 +60,3 @@ about-networking-networkid-id = K'amab'ey ID
 
 about-networking-networkid-is-up = Tzijïl Ximonel
 about-networking-networkid-status-known = Ri rub'anikil ruximonel etaman ruwäch
-
-##
-

@@ -220,7 +220,9 @@ tabbrowser-manager-current-window-tab-group =
     .label = { $tabGroupName }
     .tooltiptext = { $tabGroupName } — Asfaylu amiran
 
-## Tab Groups
+## Variables:
+##  $tabGroupName (String): The name of the tab group. Defaults to the value
+##                          of tab-group-name-default.
 
 tab-group-editor-title-create = Rnu agraw n waccaren
 tab-group-editor-title-edit = Sefrek agraw n waccaren
@@ -244,13 +246,9 @@ tab-group-editor-color-selector2-gray = Aɣiɣdi
     .title = Aɣiɣdi
 tab-group-editor-color-selector2-red = Azggaɣ
     .title = Azggaɣ
-# Variables:
-#  $tabGroupName (String): The name of the tab group. Defaults to the value
-#                          of tab-group-name-default.
 tab-group-description = { $tabGroupName } — Agraw n waccaren
 
-## Variables:
-##  $tabCount (Number): the number of tabs that are affected by the action.
+##
 
 tab-group-editor-action-new-tab =
     .label = Iccer amaynut deg ugraw

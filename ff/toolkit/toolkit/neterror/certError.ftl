@@ -59,10 +59,6 @@ cert-error-details-hsts-label = HTTP Strict Transport Security: { $hasHSTS }
 cert-error-details-key-pinning-label = HTTP Public Key Pinning: { $hasHPKP }
 cert-error-details-cert-chain-label = Calol Seedamfaagu:
 
-## Variables:
-##   $hostname (string) - Hostname of the website with cert error.
-
-
 ## Messages used for certificate error titles
 
 connectionFailure-title = Horiima seŋaade
@@ -99,10 +95,3 @@ networkProtocolError-title = Juumre jaɓɓitorde geese
 nssBadCert-title = Jeertino: Soomi tanaa kisal yeeso
 nssBadCert-sts-title = Hoto seŋo: soomi saɗeende kisal
 certerror-mitm-title = Topirde ndee haɗii { -brand-short-name } ceŋaade e kisal e ndee lowre
-
-## Felt Privacy V1 Strings
-
-
-## Variables:
-##   $hostname (String) - Hostname of the website to which the user was trying to connect.
-

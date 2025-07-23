@@ -10,14 +10,6 @@ learn-more = <span data-l10n-name="link">Իմանալ ավելին</span>
 ## In the Rule View when a CSS property cannot be successfully applied we display
 ## an icon. When this icon is hovered this message is displayed to explain why
 ## the property is not applied.
-## Variables:
-##   $property (string) - A CSS property name e.g. "color".
-##   $display (string) - A CSS display value e.g. "inline-block".
-
-
-## In the Rule View when a CSS property cannot be successfully applied we display
-## an icon. When this icon is hovered this message is displayed to explain why
-## the property is not applied.
 ## The variables are all passed from the same place, in `InactiveCssTooltipHelper#getTemplate`
 ## (devtools/client/shared/widgets/tooltip/inactive-css-tooltip-helper.js#95)
 ## Variables:
@@ -37,16 +29,6 @@ inactive-css-not-display-block-on-floated = <strong>ցուցադրման</strong
 inactive-css-property-is-impossible-to-override-in-visited = <strong>․այցելված</strong> սահմանափակման պատճառով անհնար է վերագրել <strong>{ $property }</strong>։
 inactive-css-position-property-on-unpositioned-box = <strong>{ $property }</strong> չունի որևէ ազդեցություն այս տարրի վրա, քանզի այն ցանցային բաղադրիչ չէ։
 inactive-text-overflow-when-no-overflow = <strong>{ $property }</strong> չունի որևէ ազդեցություն այս տարրի վրա, քանզի <strong>overflow:hidden</strong>-ը կայված չէ:
-
-## In the Rule View when a CSS property cannot be successfully applied we display
-## an icon. When this icon is hovered this message is displayed to explain why
-## the property is not applied.
-## The variables are all passed from the same place, in `InactiveCssTooltipHelper#getTemplate`
-## (devtools/client/shared/widgets/tooltip/inactive-css-tooltip-helper.js#95)
-## Variables:
-##   $property (string) - A CSS property name e.g. "color".
-##   $display (string) - A CSS display value e.g. "inline-block".
-
 
 ## In the Rule View when a CSS property cannot be successfully applied we display
 ## an icon. When this icon is hovered this message is displayed to explain how
@@ -74,8 +56,3 @@ inactive-text-overflow-when-no-overflow-fix = Փորձեք ավելացնել <s
 ##   $rootProperty (string) - A raw CSS property name e.g. "user-select" that is not a platform specific alias.
 
 css-compatibility-default-message = <strong>{ $property }-ը</strong> չի աջակցվում հետևյալ դիտարկիչներում`
-
-## In the Rule View when a rule selector can causes issues, we display an icon.
-## When this icon is hovered one or more of those messages are displayed to explain what
-## the issue are.
-

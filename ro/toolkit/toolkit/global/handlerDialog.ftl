@@ -13,14 +13,6 @@
 permission-dialog-description = Permiți acestui site să deschidă linkul { $scheme }?
 permission-dialog-description-app = Permiți acestui site să deschidă linkul { $scheme } cu { $appName }?
 
-## Please keep the emphasis around the hostname and scheme (ie the
-## `<strong>` HTML tags). Please also keep the hostname as close to the start
-## of the sentence as your language's grammar allows.
-## Variables:
-##  $host (string) - The hostname that is initiating the request
-##  $scheme (string) - The type of link that's being opened.
-
-
 ##
 
 permission-dialog-btn-choose-app =

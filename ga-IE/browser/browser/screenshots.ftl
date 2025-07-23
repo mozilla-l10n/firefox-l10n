@@ -24,10 +24,3 @@ screenshots-unshootable-page-error-details = Ní féidir gabháil scáileáin a 
 screenshots-empty-selection-error-title = Roghnaigh tú réigiún róbheag
 screenshots-generic-error-title = Úps! Tá { -screenshots-brand-name } imithe sa fhraoch.
 screenshots-generic-error-details = Nílimid cinnte cad a tharla. An bhfuil fonn ort triail eile a bhaint as, nó gabháil scáileáin eile a ghlacadh?
-
-## The below strings are used to capture keydown events so the strings should
-## not be changed unless the keyboard layout in the locale requires it.
-
-
-##
-

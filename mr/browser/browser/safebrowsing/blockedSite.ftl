@@ -30,14 +30,6 @@ safeb-blocked-phishing-page-learn-more = फसवी संकेतस्थ�
 ## Variables
 ##  $sitename (string) - Domain name for the blocked page
 
-
-## Variables
-##  $sitename (string) - Domain name for the blocked page
-
-
-## Variables
-##  $sitename (string) - Domain name for the blocked page
-
 safeb-blocked-unwanted-page-error-desc-override = <span data-l10n-name='sitename'>{ $sitename }</span> हे संकेतस्थळ <a data-l10n-name='error_desc_link'>घातक सॉफ्टवेअर असलेले</a> म्हणून निदर्शनास आणून देण्यात आले आहे. आपण <a data-l10n-name='ignore_warning_link'>धोका दुर्लक्षित करून</a> या असुरक्षित संकेतस्थळावर जाऊ शकता.
 safeb-blocked-unwanted-page-error-desc-no-override = <span data-l10n-name='sitename'>{ $sitename }</span> हे संकेतस्थळ <a data-l10n-name='error_desc_link'>घातक सॉफ्टवेअर असलेले</a> म्हणून निदर्शनास आणून देण्यात आले आहे.
 

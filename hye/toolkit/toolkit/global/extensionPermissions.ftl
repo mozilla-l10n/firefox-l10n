@@ -29,16 +29,3 @@ webext-perms-description-tabs = Մուտք գործեք զննարկչի ներ�
 webext-perms-description-tabHide = Թաքցնել եւ ցուցադրել զննարկչի ներդիրները
 webext-perms-description-topSites = Մուտք գործեք զննարկման պատմութիւն
 webext-perms-description-webNavigation = Ուղղորդման ընթացքում մատչել դիտարկիչի գործունութեանը
-
-## The userScripts permission includes an additional explanation that is
-## displayed prominently near the usual permission description.
-
-
-## Short form to be used in lists or in a string (`webext-perms-description-data-some`)
-## that formats some of the data collection permissions below using `Intl.ListFormat`.
-##
-## This is used when the data collection permissions are required.
-
-
-## Long form to be used in `about:addons` when these data collection permissions are optional.
-

@@ -28,16 +28,3 @@ webext-perms-description-tabs = విహారిణి ట్యాబుల�
 webext-perms-description-tabHide = విహారిణి ట్యాబులను దాచడం చూపించడం
 webext-perms-description-topSites = విహరణ చరిత్రను చూడటం
 webext-perms-description-webNavigation = నావిగేషన్ సమయంలో విహారిణి కార్యకలాపాన్ని చూడటం
-
-## The userScripts permission includes an additional explanation that is
-## displayed prominently near the usual permission description.
-
-
-## Short form to be used in lists or in a string (`webext-perms-description-data-some`)
-## that formats some of the data collection permissions below using `Intl.ListFormat`.
-##
-## This is used when the data collection permissions are required.
-
-
-## Long form to be used in `about:addons` when these data collection permissions are optional.
-

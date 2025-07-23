@@ -75,10 +75,6 @@ open-in-new-window-for-csp-or-xfo-error = Отвори сајт у новом п
 #   $hostname (string) - Hostname of the website blocked by csp or xfo error.
 csp-xfo-blocked-long-desc = Из безбедносних разлога { $hostname } не дозвољава да { -brand-short-name } прикаже страницу ако је уграђена у други сајт. Отворите страницу у новом прозору да бисте је видели.
 
-## Variables:
-##   $hostname (string) - Hostname of the website with cert error.
-
-
 ## Messages used for certificate error titles
 
 connectionFailure-title = Повезивање није могуће
@@ -124,10 +120,3 @@ certerror-mitm-title =
         [neuter] Софтвер спречава { -brand-short-name(case: "acc") } да успостави безбедну везу са овим сајтом
        *[other] Софтвер спречава програм { -brand-short-name } да успостави безбедну везу са овим сајтом
     }
-
-## Felt Privacy V1 Strings
-
-
-## Variables:
-##   $hostname (String) - Hostname of the website to which the user was trying to connect.
-

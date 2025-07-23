@@ -131,9 +131,6 @@ delete-email-cert-impact = Ka i kwanyo waraga me e-mail pa dano, pe dong iromo c
 cert-with-serial =
     .value = Catibiket ma ciral namba ne: { $serialNumber }
 
-## Used to show whether an override is temporary or permanent
-
-
 ## Add Security Exception dialog
 
 add-exception-branded-warning = I cok ki leyo kit { -brand-short-name } nyutu di bar man.

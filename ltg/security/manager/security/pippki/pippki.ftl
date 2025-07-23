@@ -33,9 +33,6 @@ download-cert-view-cert =
     .label = Apsavērt
 download-cert-view-text = Apsavērt CA sertifikatu
 
-## Client Authorization Ask dialog
-
-
 ## Client Authentication Ask dialog
 
 client-auth-window =
@@ -78,6 +75,3 @@ set-password-backup-pw =
 set-password-repeat-backup-pw =
     .value = Sertifikata rezerves puorspīdumi parole (vēļreiz):
 set-password-reminder = Svareigi: Ka aizmierssi itū paroli, navareisi atjaunōt itū rezerves kopiju.  Lyudzu sagloboj tū drūšā vītā.
-
-## Protected authentication alert
-

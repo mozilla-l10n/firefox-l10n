@@ -21,19 +21,6 @@ type-tracker = နောက်ယောင်ခံများ
 type-browser = ဘရောက်ဇာ
 type-other = အခြားအရာများ
 
-## Values for the Energy Impact column
-##
-## Variables:
-##   $value (Number) - Value of the energy impact, eg. 0.25 (low),
-##                     5.38 (medium), 105.38 (high)
-
-
-## Values for the Memory column
-##
-## Variables:
-##   $value (Number) - How much memory is used
-
-
 ## Tooltips for the action buttons
 
 close-tab =

@@ -159,6 +159,3 @@ perftools-presets-power-description = Unaprijed postavljen za istraživanje gre�
 perftools-presets-debug-label = Otklanjanje grešaka
 perftools-presets-debug-description = Unaprijed postavljeno za otklanjanje grešaka u { -brand-shorter-name }. Visoki troškovi, ne koristite za rad na performansama, već za fokusiranje na razumijevanje ponašanja pretraživača.
 perftools-presets-custom-label = Prilagođeno
-
-##
-

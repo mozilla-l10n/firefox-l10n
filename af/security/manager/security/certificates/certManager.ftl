@@ -128,9 +128,6 @@ delete-email-cert-impact = Indien u 'n persoon e-possertifikaat skrap, sal u nie
 cert-with-serial =
     .value = Sertifikaat met reeksnommer: { $serialNumber }
 
-## Used to show whether an override is temporary or permanent
-
-
 ## Add Security Exception dialog
 
 add-exception-branded-warning = U gaan nou die manier waarop { -brand-short-name } hierdie werf identifiseer, oorheers.

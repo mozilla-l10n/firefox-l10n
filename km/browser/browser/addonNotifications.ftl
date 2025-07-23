@@ -4,10 +4,6 @@
 
 xpinstall-prompt = { -brand-short-name } បាន​រារាំង​តំបន់​បណ្ដាញ​នេះ ពី​ការ​ទាមទារ​ឲ្យ​អ្នក​ដំឡើង​កម្មវិធី​លើ​កុំព្យូទ័រ​របស់​អ្នក ។
 
-## Variables:
-##   $host (String): The hostname of the site the add-on is being installed from.
-
-
 ##
 
 xpinstall-prompt-dont-allow =

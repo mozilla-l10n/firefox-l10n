@@ -72,9 +72,6 @@ protections-panel-blocking-label = Bloķēts
 protections-panel-not-blocking-label = Atļauts
 protections-panel-not-found-label = Nav konstatēts
 
-## Smartblock strings
-
-
 ##
 
 protections-panel-settings-label = Aizsardzības iestatījumi

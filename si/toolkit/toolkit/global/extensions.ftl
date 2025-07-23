@@ -17,9 +17,6 @@ webext-perms-header-unsigned-with-perms = { $extension } එක් කරන්�
 webext-perms-sideload-header = { $extension } එක් කෙරිණි
 webext-perms-optional-perms-header = { $extension } අතිරේක අවසර ඉල්ලා සිටියි.
 
-## Headers used in the webextension permissions dialog, inside the content.
-
-
 ##
 
 webext-perms-add =
@@ -52,20 +49,6 @@ webext-perms-host-description-all-urls = සියළුම අඩවි සඳ�
 #   $domain (String): will be replaced by the DNS host name for which a webextension is requesting access (e.g., www.mozilla.org)
 webext-perms-host-description-one-site = { $domain } සඳහා ඔබගේ දත්ත වෙත ප්‍රවේශය
 
-## Strings for data collection permissions in the permission prompt.
-
-
-## Headers used in the webextension permissions dialog for synthetic add-ons.
-## The part of the string describing what privileges the extension gives should be consistent
-## with the value of webext-site-perms-description-gated-perms-{sitePermission}.
-## Note, this string will be used as raw markup. Avoid characters like <, >, &
-## Variables:
-##   $hostname (String): the hostname of the site the add-on is being installed from.
-
-
-##
-
-
 ## Headers used in the webextension permissions dialog.
 ## Note: This string will be used as raw markup. Avoid characters like <, >, &
 ## Variables:
@@ -78,6 +61,3 @@ webext-site-perms-header-unsigned-with-perms = { $extension } එක් කර�
 
 webext-site-perms-midi = MIDI උපාංග ප්‍රවේශය
 webext-site-perms-midi-sysex = SysEx සහාය සහිතව MIDI උපාංග වෙත ප්‍රවේශය
-
-## Colorway theme migration
-

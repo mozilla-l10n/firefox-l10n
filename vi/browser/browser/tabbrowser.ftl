@@ -196,7 +196,9 @@ tabbrowser-manager-current-window-tab-group =
     .label = { $tabGroupName }
     .tooltiptext = { $tabGroupName } — Cửa sổ hiện tại
 
-## Tab Groups
+## Variables:
+##  $tabGroupName (String): The name of the tab group. Defaults to the value
+##                          of tab-group-name-default.
 
 tab-group-editor-title-create = Tạo nhóm thẻ
 tab-group-editor-title-edit = Quản lý nhóm thẻ
@@ -226,16 +228,12 @@ tab-group-editor-color-selector2-gray = Xám
     .title = Xám
 tab-group-editor-color-selector2-red = Đỏ
     .title = Đỏ
-# Variables:
-#  $tabGroupName (String): The name of the tab group. Defaults to the value
-#                          of tab-group-name-default.
 tab-group-description = { $tabGroupName } — Nhóm thẻ
 tab-context-unnamed-group =
     .label = Nhóm không tên
 tab-group-name-default = Nhóm chưa có tên
 
-## Variables:
-##  $tabCount (Number): the number of tabs that are affected by the action.
+##
 
 tab-context-move-tab-to-new-group =
     .label =

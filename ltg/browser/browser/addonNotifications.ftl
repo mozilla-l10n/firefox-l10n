@@ -4,10 +4,6 @@
 
 xpinstall-prompt = { -brand-short-name } prevented this site from asking you to install software on your computer.
 
-## Variables:
-##   $host (String): The hostname of the site the add-on is being installed from.
-
-
 ##
 
 xpinstall-prompt-dont-allow =

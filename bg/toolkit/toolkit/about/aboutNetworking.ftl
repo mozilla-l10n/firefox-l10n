@@ -64,6 +64,3 @@ about-networking-moved-about-logging = Страницата е преместе�
 
 about-networking-networkid-is-up = Връзката е готова
 about-networking-networkid-status-known = Състоянието на връзката е известно
-
-##
-

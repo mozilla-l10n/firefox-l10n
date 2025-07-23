@@ -7,13 +7,3 @@ about-logging-log-tutorial = Nen <a data-l10n-name="logging">Gwoko rikod me HTTP
 about-logging-set-log-file = Ter pwil me rikod
 about-logging-start-logging = Cak gwoko rikod
 about-logging-stop-logging = Juk gwoko rikod
-
-## Logging presets
-
-
-##
-
-
-## The upload interface is shown only with the preference toolkit.aboutLogging.uploadProfileToCloud
-## set to true. It is false by default, except on Android.
-

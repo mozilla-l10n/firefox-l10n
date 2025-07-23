@@ -314,6 +314,3 @@ about-webrtc-hide-msg-sdp = SDP 숨기기
 about-webrtc-media-context-show-msg = 미디어 컨텍스트 표시
 about-webrtc-media-context-hide-msg = 미디어 컨텍스트 숨기기
 about-webrtc-media-context-heading = 미디어 컨텍스트
-
-##
-

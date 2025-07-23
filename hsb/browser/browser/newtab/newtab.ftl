@@ -544,9 +544,6 @@ newtab-custom-wallpaper-title = Tu su swójske pozadkowe wobrazy
 newtab-custom-wallpaper-subtitle = Nahrajće swójski pozadkowy wobraz abo wubjerće swójsku barbu, zo byšće sej { -brand-product-name } přiswojił.
 newtab-custom-wallpaper-cta = Wupruwujće jón
 
-## Strings for new user activation custom wallpaper highlight
-
-
 ## Strings for download mobile highlight
 
 newtab-download-mobile-highlight-title = { -brand-product-name } za mobilny grat sćahnyć

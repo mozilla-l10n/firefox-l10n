@@ -48,9 +48,6 @@ download-cert-view-cert =
     .label = Tingnan
 download-cert-view-text = Suriin ang CA certificate
 
-## Client Authorization Ask dialog
-
-
 ## Client Authentication Ask dialog
 
 client-auth-window =
@@ -93,6 +90,3 @@ set-password-backup-pw =
 set-password-repeat-backup-pw =
     .value = Certificate backup password (pakiulit):
 set-password-reminder = Mahalaga: Kung nakalimutan mo ang iyong password sa backup certificate, hindi mo magagawang ibalik ang backup na ito mamaya. Paki-record ang mga ito sa isang ligtas na lokasyon.
-
-## Protected authentication alert
-

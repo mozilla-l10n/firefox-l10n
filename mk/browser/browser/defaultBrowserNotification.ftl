@@ -13,8 +13,3 @@ default-browser-notification-button =
 ## secondary button are shared between the variants.
 
 default-browser-prompt-button-secondary = Не сега
-
-## Strings for a Windows native guidance notification when the user is forced to
-## use Windows Settings to set the default browser. Instructions differ for
-## Windows 10 and 11.
-

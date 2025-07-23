@@ -145,7 +145,3 @@ fp-certerror-what-can-you-do = Какво можете да направите?
 fp-certerror-advanced-title = Разширени
 fp-certerror-advanced-button = Разширени
 fp-certerror-hide-advanced-button = Скриване на разширените настройки
-
-## Variables:
-##   $hostname (String) - Hostname of the website to which the user was trying to connect.
-

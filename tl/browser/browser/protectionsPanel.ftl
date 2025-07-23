@@ -72,9 +72,6 @@ protections-panel-blocking-label = Hinarang
 protections-panel-not-blocking-label = Pinapayagan
 protections-panel-not-found-label = Walang Nakita
 
-## Smartblock strings
-
-
 ##
 
 protections-panel-settings-label = Mga Protection Setting

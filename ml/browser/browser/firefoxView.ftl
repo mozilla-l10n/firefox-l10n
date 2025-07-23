@@ -198,9 +198,6 @@ firefoxview-history-site-localhost = (ചുറ്റുപാടു് ഫയ�
 firefoxview-show-all-history = നാൾവഴി മൊത്തം കാണിക്കുക
 firefoxview-view-more-browsing-history = ഇനിയും തിരച്ചിൽ നാൾവഴി കാണുക
 
-## Message displayed in Firefox View when the user has no history data
-
-
 ##
 
 # Button text for choosing a browser within the ’Import history from another browser’ banner

@@ -157,6 +157,3 @@ perftools-presets-power-description = ค่าที่ตั้งล่วง
 perftools-presets-debug-label = ดีบั๊ก
 perftools-presets-debug-description = พรีเซ็ตสำหรับการดีบั๊กใน { -brand-shorter-name }  มีโอเวอร์เฮดสูง อย่าใช้เพื่องานด้านประสิทธิภาพ แต่ให้ใช้เพื่อทำความเข้าใจพฤติกรรมการทำงานของเบราว์เซอร์
 perftools-presets-custom-label = กำหนดเอง
-
-##
-

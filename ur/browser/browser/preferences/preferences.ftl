@@ -48,17 +48,6 @@ should-restart-ok = { -brand-short-name } کو ابھی دوباره شروع ک
 cancel-no-restart-button = منسوخ کریں
 restart-later = بعد میں دوباره شروع کریں
 
-## Extension Control Notifications
-##
-## These strings are used to inform the user
-## about changes made by extensions to browser settings.
-##
-## <img data-l10n-name="icon"/> is going to be replaced by the extension icon.
-##
-## Variables:
-##   $name (string) - Name of the extension
-
-
 ## Preferences UI Search Results
 
 search-results-header = تلاش کے نتائج
@@ -679,9 +668,6 @@ forms-master-pw-fips-desc = پاس ورڈ تبدیلی ناکام
 primary-password-os-auth-dialog-message-macosx = ایک بنیادی پاس ورڈ بنائیں
 master-password-os-auth-dialog-caption = { -brand-full-name }
 
-## Privacy section - Autofill
-
-
 ## Privacy Section - History
 
 history-header = سابقات
@@ -695,7 +681,7 @@ history-header = سابقات
 #     This will result in "Firefox" + "Will remember history", etc.
 #   - As a stand-alone message, for example "Firefox history settings:".
 history-remember-label = { -brand-short-name }
-    .accesskey = 	w
+    .accesskey = { "\u0009" }w
 history-remember-option-all =
     .label = سابقات یاد رکھے
 history-remember-option-never =
@@ -756,12 +742,6 @@ sitedata-settings =
 sitedata-cookies-exceptions =
     .label = مستثنیات کو منظم کریں…
     .accesskey = x
-
-## Privacy Section - Cookie Banner Handling
-
-
-## Privacy Section - Cookie Banner Blocking
-
 
 ## Privacy Section - Address Bar
 
@@ -902,9 +882,6 @@ collection-health-report-link = مزید سیکھیں
 collection-studies-link = { -brand-short-name } کی مطالعات دیکھیں
 addon-recommendations-link = مزید سیکھیں
 
-## Privacy Section - Website Advertising Preferences
-
-
 ## Privacy Section - Security
 ##
 ## It is important that wording follows the guidelines outlined on this page:
@@ -941,9 +918,6 @@ space-alert-over-5gb-settings-button =
 ## Privacy Section - HTTPS-Only
 
 httpsonly-learn-more = اورجانیے
-
-## DoH Section
-
 
 ## The following strings are used in the Download section of settings
 

@@ -17,9 +17,6 @@ webext-perms-header-unsigned-with-perms = { $extension } اضافه شود؟ ا�
 webext-perms-sideload-header = { $extension } اضافه شد
 webext-perms-optional-perms-header = { $extension } نیازمند مجوزهای بیشتری است.
 
-## Headers used in the webextension permissions dialog, inside the content.
-
-
 ##
 
 webext-perms-add =
@@ -88,9 +85,6 @@ webext-perms-host-description-multiple-domains =
        *[other] دسترسی به داده‌های شما برای وبگاه‌های موجود در { $domainCount } دامنه
     }
 
-## Strings for data collection permissions in the permission prompt.
-
-
 ## Headers used in the webextension permissions dialog for synthetic add-ons.
 ## The part of the string describing what privileges the extension gives should be consistent
 ## with the value of webext-site-perms-description-gated-perms-{sitePermission}.
@@ -124,6 +118,3 @@ webext-site-perms-header-unsigned-with-perms = آیا { $extension } را اضا
 
 webext-site-perms-midi = دسترسی به دستگاه‌های MIDI
 webext-site-perms-midi-sysex = دسترسی به دستگاه‌های MIDI با پشتیبانی از SysEx
-
-## Colorway theme migration
-

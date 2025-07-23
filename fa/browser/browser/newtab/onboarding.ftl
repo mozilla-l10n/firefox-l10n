@@ -26,9 +26,6 @@ return-to-amo-addon-title = حالا اجازه بدهید برایتان <img d
 return-to-amo-add-extension-label = اضافه کردن افزونه
 return-to-amo-add-theme-label = افزودن زمینه
 
-##  Variables: $addon-name (String) - Name of the add-on to be installed
-
-
 ## Multistage onboarding strings (about:welcome pages)
 
 
@@ -131,12 +128,6 @@ onboarding-live-language-skip-button-label = پرش
 
 fx100-upgrade-thanks-header = ۱۰۰ سپاسگزاری
 
-## MR2022 New User Easy Setup screen strings
-
-
-## MR2022 New User Pin Firefox screen strings
-
-
 ## MR2022 Existing User Pin Firefox Screen Strings
 
 mr2022-onboarding-existing-pin-checkbox-label = همچنین مرور خصوصی { -brand-short-name } را بیافزایید
@@ -190,13 +181,6 @@ mr2022-onboarding-colorway-label-activist = کنشگر
 mr2022-onboarding-colorway-description-activist = <b>شما یک کنش‌گر هستید.</b> شما دنیا را بهتر از آنچه که یافتید و دیگران را برای باور کردنش رهبری کردید ترک می‌کنید.
 mr2022-onboarding-colorway-label-dreamer = رؤیاپرداز
 
-## MR2022 Multistage Mobile Download screen strings
-
-
-## MR2022 Upgrade Dialog screens
-## Pin private window screen shown only for users who don't have Firefox private pinned
-
-
 ## MR2022 Privacy Segmentation screen strings
 
 mr2022-onboarding-privacy-segmentation-title = ما همیشه به حریم خصوصی شما احترام می‌گذاریم
@@ -211,35 +195,7 @@ mr2022-onboarding-gratitude-secondary-button-label = آغاز مرور
 
 onboarding-infrequent-import-primary-button = درون‌ریزی به { -brand-short-name }
 
-## MR2022 Illustration alt tags
-## Descriptive tags for illustrations used by screen readers and other assistive tech
-
-
 ## Device migration onboarding
 
 onboarding-device-migration-title = خوش برگشتید!
 onboarding-device-migration-primary-button-label = ورود
-
-## Add-ons Picker screen
-
-
-## The following screens have been updated to use security and privacy focused strings:
-
-
-## New user time and familiarity survey strings
-
-
-## UI strings for the sidebar and vertical tabs
-
-
-## New user onboarding checklist
-
-
-## Tab Groups feature onboarding strings
-
-
-## Multi Profiles feature onboarding messages
-
-
-## Desktop to Mobile Adoption feature callout strings
-

@@ -64,12 +64,3 @@ about-webauthn-auth-info-true = Gwir
 # Shows when boolean value for an info field is False. False should not be translated.
 about-webauthn-auth-info-false = Gaou
 about-webauthn-auth-info-null = N’eo ket skoret
-
-## Bio enrollment sample feedbacks
-
-
-## Scan (e.g. of fingerprint) was off-center (e.g. too high, too left, etc.).
-
-
-##
-

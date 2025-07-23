@@ -93,11 +93,6 @@ login-item-save-changes-button = Oʻzgarishlarni saqlash
 login-item-save-new-button = Saqlash
 login-item-cancel-button = Bekor qilish
 
-## The date is displayed in a timeline showing the password evolution.
-## A label is displayed under the date to describe the type of change.
-## (e.g. updated, created, etc.)
-
-
 ## OS Authentication dialog
 
 about-logins-os-auth-dialog-caption = { -brand-full-name }
@@ -186,9 +181,6 @@ about-logins-error-message-default = Bu parolni saqlashda xatolik yuz berdi.
 # This must end in .csv
 about-logins-export-file-picker-default-filename = logins.csv
 
-## Login Import Dialog
-
-
 ##
 ## Variables:
 ##  $count (number) - The number of affected elements
@@ -196,16 +188,3 @@ about-logins-export-file-picker-default-filename = logins.csv
 about-logins-import-dialog-error-conflicting-values-description = Masalan: bir nechta foydalanuvchi nomi, parollar, URLlarni bitta login bilan olish mumkin.
 about-logins-import-report-description = Login va parollar { -brand-short-name }ga import qilindi.
 about-logins-import-report-row-description-modified = Mavjud login yangilandi
-
-##
-## Variables:
-##  $field (String) - The name of the field from the CSV file for example url, username or password
-
-
-##
-## Variables:
-##  $count (number) - The number of affected elements
-
-
-## Logins import report page
-

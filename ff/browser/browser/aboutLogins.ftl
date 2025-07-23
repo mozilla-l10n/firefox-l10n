@@ -80,11 +80,6 @@ login-item-save-changes-button = Danndu bayle
 login-item-save-new-button = Danndu
 login-item-cancel-button = Haaytu
 
-## The date is displayed in a timeline showing the password evolution.
-## A label is displayed under the date to describe the type of change.
-## (e.g. updated, created, etc.)
-
-
 ## OS Authentication dialog
 
 about-logins-os-auth-dialog-caption = { -brand-full-name }
@@ -124,10 +119,6 @@ about-logins-confirm-remove-dialog-title = Momtu ndee seŋorde?
 confirm-delete-dialog-message = Ngal baɗal waawaa firteede.
 about-logins-confirm-remove-dialog-confirm-button = Ittu
 
-## Variables
-##   $count (number) - Number of items
-
-
 ##
 
 confirm-discard-changes-dialog-title = Faalkisaade bayle ɗe ndanndaaka?
@@ -161,27 +152,3 @@ about-logins-vulnerable-alert-learn-more-link = Ɓeydu humpito
 about-logins-error-message-duplicate-login-with-link = Naatol ngam { $loginTitle } e ndee innde kuutoro ina woodi kisa.  <a data-l10n-name="duplicate-link"> Yah to naatol goodngol ngol?</a>
 # This is a generic error message.
 about-logins-error-message-default = Juumre waɗii tuma etagol danndude ndee finnde.
-
-## Login Export Dialog
-
-
-## Login Import Dialog
-
-
-##
-## Variables:
-##  $count (number) - The number of affected elements
-
-
-##
-## Variables:
-##  $field (String) - The name of the field from the CSV file for example url, username or password
-
-
-##
-## Variables:
-##  $count (number) - The number of affected elements
-
-
-## Logins import report page
-

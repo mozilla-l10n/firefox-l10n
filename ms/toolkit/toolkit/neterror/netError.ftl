@@ -38,17 +38,6 @@ neterror-load-error-connection = Jika anda tidak dapat memuatkan sebarang halama
 neterror-load-error-firewall = Jika komputer atau rangkaian anda dilindungi firewall atau proksi, sila pastikan bahawa { -brand-short-name } diberi izin mengakses Web.
 neterror-captive-portal = Anda perlu log masuk ke rangkaian ini sebelum anda boleh mengakses Internet.
 
-## TRR-only specific messages
-## Variables:
-##   $hostname (String) - Hostname of the website to which the user was trying to connect.
-##   $trrDomain (String) - Hostname of the DNS over HTTPS server that is currently in use.
-
-
-## Native fallback specific messages
-## Variables:
-##   $trrDomain (String) - Hostname of the DNS over HTTPS server that is currently in use.
-
-
 ##
 
 neterror-file-not-found-filename = Semak ralat huruf besar nama fail atau ralat menaip lain.

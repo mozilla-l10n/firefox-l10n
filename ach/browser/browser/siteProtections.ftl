@@ -31,9 +31,3 @@ protections-header = Gwokke pi { $host }
 
 protections-blocking-cookies-all =
     .title = Kigengo Angija Weng
-
-## Footer and Milestones sections in the Protections Panel
-## Variables:
-##   $trackerCount (Number): number of trackers blocked
-##   $date (Date): the date on which we started counting
-

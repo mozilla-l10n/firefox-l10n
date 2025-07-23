@@ -26,6 +26,3 @@ toolbox-meatball-menu-community-label = Համայնք…
 toolbox-meatball-menu-noautohide-label = Անջատել թռուցիկի ինքնապահումը
 toolbox-meatball-menu-pseudo-locale-accented = Թոյղատրել «շեշտուած» տեղայնութիւնը
 toolbox-meatball-menu-pseudo-locale-bidi = Թոյղատրել «երկկողմանի» տեղայնութիւնը
-
-## These labels are shown in the top-toolbar in the Browser Toolbox and Browser Console
-

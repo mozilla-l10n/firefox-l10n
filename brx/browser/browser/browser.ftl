@@ -86,12 +86,6 @@ urlbar-result-menu-tip-get-help =
     .label = मदद नागिर
     .accesskey = ह
 
-## Prompts users to use the Urlbar when they open a new tab or visit the
-## homepage of their default search engine.
-## Variables:
-##  $engineName (String): The name of the user's default search engine. e.g. "Google" or "DuckDuckGo".
-
-
 ## Local search mode indicator labels in the urlbar
 
 urlbar-search-mode-tabs = टेबफोर
@@ -277,14 +271,6 @@ browser-tab-audio-playing2 = दामगासिनो
 # This label should be written in all capital letters if your locale supports them.
 browser-tab-audio-pip = सावगारि सिङाव सावगारि
 
-## These labels should be written in all capital letters if your locale supports them.
-## Variables:
-##  $count (number): number of affected tabs
-
-
-## Bookmarks toolbar items
-
-
 ## WebRTC Pop-up notifications
 
 popup-select-camera-device =
@@ -298,12 +284,6 @@ popup-select-microphone-device =
 popup-select-microphone-icon =
     .tooltiptext = मायक्रोॱफोन
 popup-all-windows-shared = नोंथांनि स्क्रिननि गासै नुथाव उइन्ड'खौ शेयार खालामगोन।
-
-## WebRTC window or screen share tab switch warning
-
-
-## DevTools F12 popup
-
 
 ## URL Bar
 
@@ -365,17 +345,6 @@ urlbar-result-action-search-bookmarks = बुकमार्कफोरखौ 
 urlbar-result-action-search-history = जारिमिनखौ नागिर
 urlbar-result-action-search-tabs = गासै टेबफोरौ नागिर
 
-## Labels shown above groups of urlbar results
-
-
-## Reader View toolbar buttons
-
-
-## Picture-in-Picture urlbar button
-## Variables:
-##   $shortcut (String) - Keyboard shortcut to execute the command.
-
-
 ## Full Screen and Pointer Lock UI
 
 fullscreen-exit-button = आबुं स्क्रिन निफ्राय ओंखार लां (Esc)
@@ -394,11 +363,6 @@ bookmarks-other-bookmarks-menu =
     .label = गुबुन बुकमाकॅफोर
 bookmarks-mobile-bookmarks-menu =
     .label = मबाइल बुकमार्कफोर
-
-## Variables:
-##   $isVisible (boolean): if the specific element (e.g. bookmarks sidebar,
-##                         bookmarks toolbar, etc.) is visible or not.
-
 
 ##
 
@@ -428,9 +392,6 @@ library-bookmarks-menu =
 save-to-pocket-button =
     .label = { -pocket-brand-name } आव थिना दोन
     .tooltiptext = { -pocket-brand-name } आव थिना दोन
-
-## Repair text encoding toolbar button
-
 
 ## Customize Toolbar Buttons
 
@@ -497,10 +458,6 @@ popups-infobar-dont-show-message =
     .label = प'पआपखौ ब्लक खालामनाय समाव बे खौरांखौ दिनथिनो नाङा
     .accesskey = D
 
-## Since the default position for PiP controls does not change for RTL layout,
-## right-to-left languages should use "Left" and "Right" as in the English strings,
-
-
 ##
 
 
@@ -540,9 +497,6 @@ tabs-toolbar-list-all-tabs =
 
 restore-session-startup-suggestion-button = आगंनो दिन्थि माबोरै
 
-## Infobar shown when the user tries to open a file picker and file pickers are blocked by enterprise policy
-
-
 ## Mozilla data reporting notification (Telemetry, Firefox Health Report, etc)
 
 data-reporting-notification-message = { -brand-short-name } आ माखासे डाटाखौ { -vendor-short-name } आव गावनो गाव महरै दैथाय हरो, जाहाते जों नोंथांनि रोंगौथिखौ जौगाहोनो हायो।
@@ -572,10 +526,6 @@ unified-extensions-button-quarantined =
     .label = बारायनायफोर
     .tooltiptext = बारायनायफोर
 
-## Unified extensions button when some extensions are disabled (e.g. through add-ons blocklist).
-## Note that the new line is intentionally part of the tooltip.
-
-
 ## Private browsing reset button
 
 reset-pbm-panel-always-ask-checkbox =
@@ -592,12 +542,6 @@ refresh-blocked-redirect-label = { -brand-short-name } आ बे बिला�
 refresh-blocked-allow =
     .label = गनायथि हो
     .accesskey = A
-
-## Firefox Relay integration
-
-
-## Add-on Pop-up Notifications
-
 
 ## Pop-up warning
 
@@ -616,16 +560,3 @@ popup-warning-button =
 #   $popupURI (String): the URI for the pop-up window
 popup-show-popup-menuitem =
     .label = '{ $popupURI }' खौ दिनथि
-
-## File-picker crash notification ("FilePickerCrashed.sys.mjs")
-
-
-# Button used with file-picker-crashed-save-default. Opens the folder in Windows
-# Explorer, with the saved file selected and in focus.
-#
-# The wording here should be consistent with the Windows variant of
-# `downloads-cmd-show-menuitem-2` and similar messages.
-
-
-## Onboarding Finish Setup checklist
-

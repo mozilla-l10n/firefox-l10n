@@ -12,6 +12,3 @@ fxviewtabrow-time = { DATETIME($time, timeStyle: "short") }
 # Strings below are used for context menu options within panel-list.
 # For developers, this duplicates command because the label attribute is required.
 
-
-## Strings below are to be used without context (tab title/URL) on mute/unmute buttons
-

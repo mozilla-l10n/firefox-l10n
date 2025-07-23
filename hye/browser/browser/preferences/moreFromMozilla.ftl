@@ -19,15 +19,3 @@ more-from-moz-qr-code-firefox-mobile-img =
     .alt = QR այղագիր { -brand-product-name } Բջջային յաւելուածի բեռնման համար
 more-from-moz-button-mozilla-vpn-2 = Ստանալ VPN-ը
 more-from-moz-learn-more-link = Իմանալ աւելին
-
-## These strings are for the Firefox Relay card in about:preferences moreFromMozilla page
-
-
-## These strings are for the Mozilla Monitor card in about:preferences moreFromMozilla page
-
-
-## These strings are for the Solo card in about:preferences moreFromMozilla page
-
-
-## These strings are for the MDN card in about:preferences moreFromMozilla page
-

@@ -48,9 +48,6 @@ download-cert-view-cert =
     .label = Vis
 download-cert-view-text = Undersøg CA-certifikat
 
-## Client Authorization Ask dialog
-
-
 ## Client Authentication Ask dialog
 
 client-auth-window =

@@ -23,6 +23,3 @@ version-dd = <span data-l10n-name="version">Верзија:</span> { $version }
 mime-type-label = MIME тип
 description-label = Опис
 suffixes-label = Суфикси
-
-## Gecko Media Plugins (GMPs)
-

@@ -548,10 +548,3 @@ plugins-openh264-name = Codec da video OpenH264, purschì da Cisco Systems, Inc.
 plugins-openh264-description = Quest plug-in è vegnì installà automaticamain da Mozilla per ademplir la specificaziun da WebRTC e per pussibilitar la videotelefonia da WebRTC cun apparats che basegnan il codec da video H.264. Visita http://www.openh264.org/ per studegiar il code da funtauna dal codec e per emprender dapli davart l'implementaziun.
 plugins-widevine-name = Modul «Widevine Content Decryption», purschì da Google Inc.
 plugins-widevine-description = Quest plug-in pussibilitescha la lectura da medias criptadas tenor la specificaziun Encrypted Media Extensions. Websites utiliseschan per il pli medias criptadas per evitar che products da multimedia mess en vendita vegnian copiads. Visitescha https://www.w3.org/TR/encrypted-media/ per ulteriuras infurmaziuns davart medias criptadas.
-
-## Headings for the Permissions tab in `about:addons` when the data collection
-## feature is enabled.
-
-
-## Mapping Engine IDs from AI models to how that feature represented by the engine Id is described in the used by section in local model management
-

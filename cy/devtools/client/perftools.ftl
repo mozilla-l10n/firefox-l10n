@@ -160,6 +160,3 @@ perftools-presets-power-description = Y rhagosodiad ar gyfer ymchwilio i wallau 
 perftools-presets-debug-label = Dadfygio
 perftools-presets-debug-description = Rhagosodiad ar gyfer dadfygio yn { -brand-shorter-name }. Gorbenion uchel, peidiwch â'i ddefnyddio ar gyfer gwaith perfformiad ond yn hytrach ei ddefnyddio ar gyfer canolbwyntio ar ddeall ymddygiad porwyr.
 perftools-presets-custom-label = Cyfaddas
-
-##
-

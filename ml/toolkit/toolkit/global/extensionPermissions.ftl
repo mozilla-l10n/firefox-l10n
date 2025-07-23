@@ -31,16 +31,3 @@ webext-perms-description-tabs = ബ്രൌസര്‍ ടാബുകള്�
 webext-perms-description-tabHide = അന്വേഷിയന്ത്ര ടാബുകൾ മറയ്ക്കുകയും കാണിക്കുകയും ചെയ്യുക
 webext-perms-description-topSites = തിരച്ചിൽ നാള്‍വഴി പരിശോധിക്കുക
 webext-perms-description-webNavigation = നാവിഗേഷൻ ചെയ്യുമ്പോൾ ബ്രൗസർ പ്രവർത്തനം ആക്സസ്സുചെയ്യുക
-
-## The userScripts permission includes an additional explanation that is
-## displayed prominently near the usual permission description.
-
-
-## Short form to be used in lists or in a string (`webext-perms-description-data-some`)
-## that formats some of the data collection permissions below using `Intl.ListFormat`.
-##
-## This is used when the data collection permissions are required.
-
-
-## Long form to be used in `about:addons` when these data collection permissions are optional.
-

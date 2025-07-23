@@ -55,9 +55,6 @@ policy-HardwareAcceleration = false ise donanım ivmelenmesini kapat.
 policy-Homepage = Giriş sayfasını ayarla ve isteğe bağlı olarak kilitle.
 policy-InstallAddonsPermission = Belirli websitelerinin eklenti yüklemesine izin ver.
 
-## Do not translate "SameSite", it's the name of a cookie attribute.
-
-
 ##
 
 policy-NetworkPrediction = Şebeke tahminini (DNS ögketirmesi) qabilleştir yaki naqabilleştir.

@@ -29,12 +29,6 @@ downloads-cmd-cancel =
 downloads-cmd-cancel-panel =
     .aria-label = Откажи
 
-## Displayed in the downloads context menu for files that can be opened.
-## Variables:
-##   $handler (String) - The name of the mime type's default file handler.
-##   Example: "Notepad", "Acrobat Reader DC", "7-Zip File Manager"
-
-
 ##
 
 downloads-cmd-show-downloads =
@@ -90,15 +84,6 @@ downloads-show-more-information =
 downloads-open-file =
     .value = Отвори датотека
 
-## Displayed when the user clicked on a download in process. Indicates that the
-## downloading file will be opened after certain amount of time using an app
-## available in the system.
-## Variables:
-##   $hours (number) - Amount of hours left till the file opens.
-##   $seconds (number) - Amount of seconds left till the file opens.
-##   $minutes (number) - Amount of minutes till the file opens.
-
-
 ##
 
 # Displayed when hovering a download which is able to be retried by users,
@@ -119,15 +104,6 @@ downloads-history =
 # that we are showing the details of a single download.
 downloads-details =
     .title = Детали за преземање
-
-## These strings are displayed in the private browsing view of the downloads panel
-
-
-## Displayed when a site attempts to automatically download many files.
-## Variables:
-##   $num (number) - Number of blocked downloads.
-##   $url (string) - The url of the suspicious site, stripped of http, https and www prefix.
-
 
 ##
 

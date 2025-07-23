@@ -96,11 +96,6 @@ login-item-save-changes-button = Зачувај промени
 login-item-save-new-button = Сними
 login-item-cancel-button = Откажи
 
-## The date is displayed in a timeline showing the password evolution.
-## A label is displayed under the date to describe the type of change.
-## (e.g. updated, created, etc.)
-
-
 ## OS Authentication dialog
 
 about-logins-os-auth-dialog-caption = { -brand-full-name }
@@ -330,6 +325,3 @@ about-logins-import-report-modified =
         [one] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">Ажурирано е постоечко најавување</div>
        *[other] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">Ажурирани се постоечките најави</div>
     }
-
-## Logins import report page
-

@@ -12,9 +12,6 @@ about-webrtc-document-title = WebRTCren barne-xehetasunak
 # translated. This string is used as a title for a file save dialog box.
 about-webrtc-save-page-dialog-title = gorde about:webrtc honela
 
-## These labels are for a disclosure which contains the information for closed PeerConnection sections
-
-
 ## AEC is an abbreviation for Acoustic Echo Cancellation.
 
 about-webrtc-aec-logging-msg-label = AEC erregistroa
@@ -183,10 +180,6 @@ about-webrtc-configuration-element-not-provided = Ez hornitua
 # The options set by the user in about:config that could impact a WebRTC call
 about-webrtc-custom-webrtc-configuration-heading = Erabiltzaileak ezarritako WebRTC hobespenak
 
-## These are displayed on the button that shows or hides the
-## user modified configuration disclosure
-
-
 ##
 
 # Section header for estimated bandwidths of WebRTC media flows
@@ -292,11 +285,3 @@ about-webrtc-sdp-set-timestamp = Denbora-marka { NUMBER($timestamp, useGrouping:
 
 about-webrtc-show-msg-sdp = Erakutsi SDPa
 about-webrtc-hide-msg-sdp = Ezkutatu SDPa
-
-## These are displayed on the button that shows or hides the Media Context information disclosure.
-## The Media Context is the set of preferences and detected capabilities that informs
-## the negotiated CODEC settings.
-
-
-##
-

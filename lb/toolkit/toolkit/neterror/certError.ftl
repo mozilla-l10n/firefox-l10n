@@ -19,10 +19,6 @@ cert-error-details-hsts-label = HTTP Strict Transport Security: { $hasHSTS }
 cert-error-details-key-pinning-label = HTTP Public Key Pinning: { $hasHPKP }
 cert-error-details-cert-chain-label = Zertifikatsketten:
 
-## Variables:
-##   $hostname (string) - Hostname of the website with cert error.
-
-
 ## Messages used for certificate error titles
 
 fileNotFound-title = Fichier net fonnt
@@ -33,10 +29,3 @@ malformedURI-title = Hmm. Dës Adress schéngt net richteg ze sinn.
 netInterrupt-title = D'Verbindung gouf ënnerbrach
 notCached-title = Dokument ofgelaf
 inadequateSecurityError-title = Deng Verbindung ass net sécher
-
-## Felt Privacy V1 Strings
-
-
-## Variables:
-##   $hostname (String) - Hostname of the website to which the user was trying to connect.
-

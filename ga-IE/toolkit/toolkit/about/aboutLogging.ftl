@@ -8,13 +8,3 @@ about-logging-set-log-file = Socraigh Logchomhad
 about-logging-set-log-modules = Socraigh Logmhodúil
 about-logging-start-logging = Tosaigh Logáil
 about-logging-stop-logging = Stop Logáil
-
-## Logging presets
-
-
-##
-
-
-## The upload interface is shown only with the preference toolkit.aboutLogging.uploadProfileToCloud
-## set to true. It is false by default, except on Android.
-

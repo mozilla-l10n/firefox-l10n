@@ -63,9 +63,6 @@ genai-options-reload-provider =
 genai-options-about-chatbot =
     .label = { -brand-short-name } وچ اے آئی چیٹ بوٹاں بارے
 
-## Chatbot footer
-
-
 ## Chatbot onboarding
 
 genai-onboarding-primary = جاری
@@ -94,9 +91,3 @@ genai-onboarding-claude-generate = عبارت تے کوڈ جنریٹ کرو
 genai-onboarding-huggingchat-generate = عبارت تے کوڈ جنریٹ کرو
 genai-onboarding-lechat-generate = عبارت تے کوڈ جنریٹ کرو
 genai-onboarding-lechat-price = مفت: کھاتہ ضروری ہے
-
-## Model Optin Component
-
-
-## Link previews
-

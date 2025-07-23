@@ -69,10 +69,6 @@ open-in-new-window-for-csp-or-xfo-error = ᱱᱟᱶᱟ ᱣᱤᱱᱰᱳ ᱨᱮ �
 #   $hostname (string) - Hostname of the website blocked by csp or xfo error.
 csp-xfo-blocked-long-desc = ᱟᱢᱟᱜ ᱨᱩᱠᱷᱤᱭᱟᱹ ᱞᱟᱹᱜᱤᱫ, { $hostname } ᱫᱚ { -brand-short-name } ᱵᱷᱮᱜᱟᱨ ᱥᱟᱭᱤᱴ ᱮᱢ ᱛᱚᱵᱮᱫ ᱠᱟᱫ ᱥᱟᱦᱴᱟ ᱵᱟᱭ ᱮᱢ ᱪᱷᱚᱣᱟᱜᱼᱟᱭ ᱾ ᱱᱚᱶᱟ ᱥᱟᱦᱴᱟ ᱧᱮᱱ ᱞᱟᱹᱜᱤᱜ, ᱟᱢ ᱫᱚ ᱱᱚᱶᱟ ᱱᱟᱶᱟ ᱣᱤᱱᱰᱳ ᱨᱮ ᱠᱷᱩᱞᱟᱹ ᱛᱮ ᱦᱩᱭᱟᱢᱟ ᱾
 
-## Variables:
-##   $hostname (string) - Hostname of the website with cert error.
-
-
 ## Messages used for certificate error titles
 
 connectionFailure-title = ᱡᱩᱲᱟᱹᱣ ᱵᱟᱝ ᱦᱩᱭᱩᱜ ᱠᱟᱱᱟ
@@ -112,10 +108,3 @@ networkProtocolError-title = ᱱᱮᱴᱣᱟᱨᱠ ᱯᱨᱚᱴᱚᱠᱚᱞ ᱦ�
 nssBadCert-title = ᱦᱩᱥᱤᱭᱟᱹᱨ: ᱨᱩᱠᱷᱤᱭᱟᱹ ᱨᱮ ᱰᱤᱜᱟᱹᱣ ᱦᱩᱭ ᱫᱟᱲᱮᱭᱟᱜᱼᱟ
 nssBadCert-sts-title = ᱵᱟᱝ ᱡᱩᱲᱟᱹᱣ ᱞᱮᱱᱟ: ᱨᱩᱠᱷᱤᱭᱟᱹ ᱨᱮ ᱰᱤᱜᱟᱹᱣ ᱦᱩᱭ ᱫᱟᱲᱮᱭᱟᱜᱼᱟ
 certerror-mitm-title = ᱥᱚᱯᱷᱴᱣᱮᱨ ᱫᱚ { -brand-short-name } ᱱᱚᱶᱟ ᱥᱟᱭᱤᱴ ᱥᱟᱞᱟᱜ ᱵᱟᱭ ᱡᱩᱲᱟᱹᱣ ᱪᱷᱚᱣᱟᱜ ᱠᱟᱱᱟᱭ
-
-## Felt Privacy V1 Strings
-
-
-## Variables:
-##   $hostname (String) - Hostname of the website to which the user was trying to connect.
-

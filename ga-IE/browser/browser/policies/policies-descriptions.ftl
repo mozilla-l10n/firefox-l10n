@@ -12,9 +12,6 @@
 
 policy-DisableFormHistory = Ná cuimhnigh ar nithe a chuardaítear agus nithe a gcuirtear isteach i bhfoirmeacha.
 
-## Do not translate "SameSite", it's the name of a cookie attribute.
-
-
 ##
 
 policy-SearchBar = Socraigh ionad réamhshocraithe an bharra seolta. Tá cead fós ag an úsáideoir é a shaincheapú dó féin.

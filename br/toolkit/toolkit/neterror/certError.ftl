@@ -69,10 +69,6 @@ open-in-new-window-for-csp-or-xfo-error = Digeriñ al lec’hienn en ur prenestr
 #   $hostname (string) - Hostname of the website blocked by csp or xfo error.
 csp-xfo-blocked-long-desc = Evit gwareziñ ho surentez, { $hostname } na aotreo ket { -brand-short-name } da ziskouez ar bajenn ma vez ul lec’hienn all enkorfet enni. Evit gwelout ar bajenn-mañ ho peus ezhomm da zigeriñ anezhi en ur prenestr nevez.
 
-## Variables:
-##   $hostname (string) - Hostname of the website with cert error.
-
-
 ## Messages used for certificate error titles
 
 connectionFailure-title = Ne c’haller ket kennaskañ
@@ -110,10 +106,3 @@ networkProtocolError-title = Fazi komenad rouedad
 nssBadCert-title = Diwallit: gallout a ra bezañ un arvar diogelroez
 nssBadCert-sts-title = N'eo ket kennasket: kudenn diogelroez posupl
 certerror-mitm-title = Ur meziant a vir { -brand-short-name } da gennaskañ ent diogel d’al lec’hienn-mañ
-
-## Felt Privacy V1 Strings
-
-
-## Variables:
-##   $hostname (String) - Hostname of the website to which the user was trying to connect.
-

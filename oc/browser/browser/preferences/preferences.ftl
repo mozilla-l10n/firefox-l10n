@@ -213,7 +213,7 @@ containers-remove-alert-title = Suprimir aqueste contenedor ?
 #   $count (number) - Number of tabs that will be closed.
 containers-remove-alert-msg =
     { $count ->
-        [one] Se suprimiscatz aquel contenedor ara, { $count } onglet isolat serà tampat. Segur que volètz suprimir aqueste contenidor ? 
+        [one] Se suprimiscatz aquel contenedor ara, { $count } onglet isolat serà tampat. Segur que volètz suprimir aqueste contenidor ?{ " " }
        *[other] Se suprimiscatz aquel contenedor ara, { $count } onglets isolats seràn tampats. Segur que volètz suprimir aqueste contenidor ?
     }
 containers-remove-ok-button = Suprimir aqueste contenedor

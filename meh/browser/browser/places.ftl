@@ -110,6 +110,3 @@ places-search-history =
     .placeholder = Nánuku nu historial
 places-search-downloads =
     .placeholder = Nànuku a nxinuun
-
-##
-

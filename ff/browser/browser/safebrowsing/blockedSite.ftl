@@ -30,14 +30,6 @@ safeb-blocked-phishing-page-learn-more = Ɓeydu humpito baɗte lowe puuntooje e 
 ## Variables
 ##  $sitename (string) - Domain name for the blocked page
 
-
-## Variables
-##  $sitename (string) - Domain name for the blocked page
-
-
-## Variables
-##  $sitename (string) - Domain name for the blocked page
-
 safeb-blocked-unwanted-page-error-desc-override = <span data-l10n-name='sitename'>{ $sitename }</span> wonii <a data-l10n-name='error_desc_link'>jaŋtaaɗo hono baɗɗo topirɗe bonɗe </a>. Aɗa waawi <a data-l10n-name='ignore_warning_link'>faalkisaade ko hulaa koo </a> e yetto ndee lowre nde hisaani.
 safeb-blocked-unwanted-page-error-desc-no-override = <span data-l10n-name='sitename'>{ $sitename }</span> woni <a data-l10n-name='error_desc_link'>jaŋtaaɗo hono baɗɗo topirde bonnde </a>.
 

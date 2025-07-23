@@ -60,9 +60,6 @@ sidebar-context-menu-copy-link =
 sidebar-context-menu-close-remote-tab =
     .label = أغلق اللسان على { $deviceName }
 
-## Labels for sidebar history context menu items
-
-
 ## Labels for sidebar menu items.
 
 sidebar-menu-history-label =
@@ -92,12 +89,6 @@ sidebar-menu-open-bookmarks-tooltip = افتح العلامات ({ $shortcut })
 # Variables:
 #   $shortcut (String) - The OS specific keyboard shortcut.
 sidebar-menu-close-bookmarks-tooltip = أغلق العلامات ({ $shortcut })
-
-## Tooltips displayed over the AI chatbot icon.
-## Variables:
-##   $shortcut (String) - The OS specific keyboard shortcut.
-##   $provider (String) - The name of the AI chatbot provider (if available).
-
 
 ## Headings for sidebar menu panels.
 

@@ -37,11 +37,6 @@ webrtc-stop-sharing-button = সহভাগ বন্ধ কৰক
 webrtc-minimize =
     .title = ইণ্ডিকেটৰ সৰু কৰক
 
-## These strings will display as a tooltip on supported systems where we show
-## device sharing state in the OS notification area. We do not use these strings
-## on macOS, as global menu bar items do not have native tooltips.
-
-
 ## Tooltips used by the legacy global sharing indicator
 
 webrtc-indicator-sharing-camera-and-microphone =
@@ -62,7 +57,7 @@ webrtc-indicator-sharing-browser =
 ## These strings are only used on Mac for menus attached to icons
 ## near the clock on the mac menubar.
 ## Variables:
-##   $streamTitle (String): the title of the tab using the share.
+##   $streamTitle (String): the host of the tab using the share.
 ##   $tabCount (Number): the title of the tab using the share.
 
 webrtc-indicator-menuitem-control-sharing =
@@ -119,18 +114,6 @@ webrtc-indicator-menuitem-sharing-browser-with-n-tabs =
             [one] { $tabCount }টা টেবৰ সৈতে টেব ভাগ-বতৰা কৰি থকা হৈছে
            *[other] { $tabCount }টা টেবৰ সৈতে টেব ভাগ-বতৰা কৰি থকা হৈছে
         }
-
-## Variables:
-##   $origin (String): the website origin (e.g. www.mozilla.org).
-
-
-## Special phrasing for sharing devices when the origin is a file url.
-
-
-## Variables:
-##   $origin (String): the first party origin.
-##   $thirdParty (String): the third party origin.
-
 
 ##
 

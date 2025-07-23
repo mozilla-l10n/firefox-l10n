@@ -8,13 +8,3 @@ about-logging-set-log-file = Kütük Dosyesini Tesbit Et
 about-logging-set-log-modules = Kütük Modüllerini Tesbit Et
 about-logging-start-logging = Kütüklemeni Başlat
 about-logging-stop-logging = Kütüklemeni Toqtat
-
-## Logging presets
-
-
-##
-
-
-## The upload interface is shown only with the preference toolkit.aboutLogging.uploadProfileToCloud
-## set to true. It is false by default, except on Android.
-

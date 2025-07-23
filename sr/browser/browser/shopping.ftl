@@ -157,6 +157,3 @@ shopping-survey-thanks =
 
 shopping-callout-not-opted-in-reminder-close-button = Одбаци
 shopping-callout-not-opted-in-reminder-ignore-checkbox = Не приказуј поново
-
-## Onboarding message strings.
-

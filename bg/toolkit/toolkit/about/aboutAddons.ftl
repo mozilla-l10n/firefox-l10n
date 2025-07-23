@@ -392,10 +392,6 @@ addon-detail-private-browsing-disallow = Забраняване
 addon-detail-group-label-private-browsing =
     .aria-label = { detail-private-browsing-label }
 
-## "sites with restrictions" (internally called "quarantined") are special domains
-## where add-ons are normally blocked for security reasons.
-
-
 ## This is the tooltip text for the recommended badges for an extension in about:addons. The
 ## badge is a small icon displayed next to an extension when it is recommended on AMO.
 
@@ -491,10 +487,3 @@ plugins-openh264-name = Видео кодек OpenH264, доставен от Ci
 plugins-openh264-description = Тази приставка се инсталира автоматично от Mozilla за съвместимост със спецификацията на WebRTC, и за да направи възможни обаждания към устройства изискващи видео кодек H.264. Посетете http://www.openh264.org/, за да разгледате изходния код и да научите повече за реализацията.
 plugins-widevine-name = Модул за декриптиране на съдържание Widevine, предоставен от Google Inc.
 plugins-widevine-description = Тази приставка позволява възпроизвеждане на шифрована медия в съответствие със съответната спецификация. Шифровани (кодирани) медии обикновено се използват от сайтовете за защита срещу копиране на платено медийно съдържание. Посетете https://www.w3.org/TR/encrypted-media/ за повече информация относно разширенията за шифровани медии.
-
-## Headings for the Permissions tab in `about:addons` when the data collection
-## feature is enabled.
-
-
-## Mapping Engine IDs from AI models to how that feature represented by the engine Id is described in the used by section in local model management
-

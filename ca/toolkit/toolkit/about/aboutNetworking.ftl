@@ -35,9 +35,3 @@ about-networking-rcwn-operation = Operació de memòria cau
 about-networking-rcwn-perf-open = Obre
 about-networking-networkid = ID de xarxa
 about-networking-networkid-id = ID de xarxa
-
-## Link is intended as "network link"
-
-
-##
-

@@ -225,6 +225,3 @@ appmenuitem-vpn-title = { -mozilla-vpn-brand-name }
 appmenuitem-vpn-description = మీ ఆన్‌లైన్ కార్యాచరణను సంరక్షించుకోండి
 appmenu-services-header = నా సేవలు
 appmenu-other-protection-header = { -vendor-short-name } వారి ఇతర రక్షణ పనిముట్లని ప్రయత్నించండి:
-
-## Profiles panel
-

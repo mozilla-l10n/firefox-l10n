@@ -10,10 +10,6 @@ tracking-protection-icon-disabled-container =
 tracking-protection-icon-no-trackers-detected-container =
     .aria-label = { tracking-protection-icon-no-trackers-detected }
 
-## Variables:
-##   $host (String): the site's hostname
-
-
 ## Blocking and Not Blocking sub-views in the Protections Panel
 
 protections-blocking-fingerprinters =
@@ -24,9 +20,3 @@ protections-not-blocking-fingerprinters =
     .title = Nun staju bluccannu i giniratura d’urmi diggitali
 protections-not-blocking-social-media-trackers =
     .title = Trazzatura dî riti suciali nun bluccati
-
-## Footer and Milestones sections in the Protections Panel
-## Variables:
-##   $trackerCount (Number): number of trackers blocked
-##   $date (Date): the date on which we started counting
-

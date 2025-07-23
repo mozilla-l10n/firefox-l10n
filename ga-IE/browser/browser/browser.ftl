@@ -339,9 +339,6 @@ browser-tab-unblock =
        *[other] PLAY { $count } TABS
     }
 
-## Bookmarks toolbar items
-
-
 ## WebRTC Pop-up notifications
 
 popup-select-speaker-icon =
@@ -355,9 +352,6 @@ popup-all-windows-shared = Comhroinnfear gach fuinneog infheicthe ar do scáile�
 
 sharing-warning-proceed-to-tab =
     .label = Lean ar aghaidh go Cluaisín
-
-## DevTools F12 popup
-
 
 ## URL Bar
 
@@ -612,11 +606,6 @@ bookmarks-other-bookmarks-menu =
 bookmarks-mobile-bookmarks-menu =
     .label = Leabharmharcanna Soghluaiste
 
-## Variables:
-##   $isVisible (boolean): if the specific element (e.g. bookmarks sidebar,
-##                         bookmarks toolbar, etc.) is visible or not.
-
-
 ##
 
 bookmarks-search =
@@ -647,9 +636,6 @@ library-bookmarks-menu =
 save-to-pocket-button =
     .label = Sábháil i b{ -pocket-brand-name }
     .tooltiptext = Sábháil i b{ -pocket-brand-name }
-
-## Repair text encoding toolbar button
-
 
 ## Customize Toolbar Buttons
 
@@ -729,10 +715,6 @@ picture-in-picture-hide-toggle =
     .label = Folaigh an Scoránú Pictiúr-i-bPictiúr
     .accesskey = F
 
-## Since the default position for PiP controls does not change for RTL layout,
-## right-to-left languages should use "Left" and "Right" as in the English strings,
-
-
 ##
 
 
@@ -774,9 +756,6 @@ tabs-toolbar-list-all-tabs =
 ## Infobar shown at startup to suggest session-restore
 
 restore-session-startup-suggestion-button = Taispeáin dom conas
-
-## Infobar shown when the user tries to open a file picker and file pickers are blocked by enterprise policy
-
 
 ## Mozilla data reporting notification (Telemetry, Firefox Health Report, etc)
 
@@ -830,9 +809,6 @@ refresh-blocked-allow =
     .label = Ceadaigh
     .accesskey = A
 
-## Firefox Relay integration
-
-
 ## Add-on Pop-up Notifications
 
 popup-notification-addon-install-unsigned =
@@ -880,6 +856,3 @@ popup-show-popup-menuitem =
 file-picker-crashed-show-in-folder =
     .label = Taispeáin san Fhillteán
     .accessKey = F
-
-## Onboarding Finish Setup checklist
-

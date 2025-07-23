@@ -122,9 +122,6 @@ profiler-popup-presets-networking-label =
 profiler-popup-presets-custom-label =
     .label = خوازراو
 
-## History panel
-
-
 ## Help panel
 
 appmenu-about =
@@ -136,10 +133,6 @@ appmenu-get-help =
 appmenu-help-report-site-issue =
     .label = کێشەی ماڵپەڕ بنێرە...
 
-## appmenu-help-enter-troubleshoot-mode and appmenu-help-exit-troubleshoot-mode
-## are mutually exclusive, so it's possible to use the same accesskey for both.
-
-
 ## appmenu-help-report-deceptive-site and appmenu-help-not-deceptive
 ## are mutually exclusive, so it's possible to use the same accesskey for both.
 
@@ -149,12 +142,3 @@ appmenu-help-report-deceptive-site =
 appmenu-help-not-deceptive =
     .label = ئەمە ماڵپەڕێکی گومڕاکەر نیە...
     .accesskey = ن
-
-## More Tools
-
-
-## Panel for privacy and security products
-
-
-## Profiles panel
-

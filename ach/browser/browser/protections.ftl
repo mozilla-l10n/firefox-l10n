@@ -25,11 +25,3 @@ lockwise-header-content-logged-in = Gwok ka i rib maber mung me donyo mamegi i n
 lockwise-how-it-works-link = Kit ma tiyo kwede
 monitor-link = Kit ma tiyo kwede
 monitor-no-breaches-title = Kwena maber!
-
-## The title attribute is used to display the type of protection.
-## The aria-label is spoken by screen readers to make the visual graph accessible to blind users.
-##
-## Variables:
-##   $count (Number) - Number of specific trackers
-##   $percentage (Number) - Percentage this type of tracker contributes to the whole graph
-

@@ -25,12 +25,3 @@ more-from-moz-learn-more-link = Barrachd fiosrachaidh
 more-from-moz-firefox-relay-title = { -relay-brand-name }
 more-from-moz-firefox-relay-description = Dìon am bogsa a-steach is do dhearbh-aithne le masgadh puist-d an-asgaidh.
 more-from-moz-firefox-relay-button = Faigh { -relay-brand-short-name }
-
-## These strings are for the Mozilla Monitor card in about:preferences moreFromMozilla page
-
-
-## These strings are for the Solo card in about:preferences moreFromMozilla page
-
-
-## These strings are for the MDN card in about:preferences moreFromMozilla page
-

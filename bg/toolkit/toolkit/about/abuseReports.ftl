@@ -4,18 +4,6 @@
 
 abuse-report-title-extension = Докладвайте това разширение до { -vendor-short-name }
 
-## Panel buttons.
-
-
-## Message bars descriptions.
-##
-## Variables:
-##   $addon-name (string) - Name of the add-on
-
-
-## Message bars actions.
-
-
 ## Abuse report reasons (optionally paired with related examples and/or suggestions)
 
 abuse-report-settings-reason-v2 = Промени ми търсачката, началната страница или изгледа на новия раздел без да ме информира или да пита

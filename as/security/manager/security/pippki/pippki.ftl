@@ -33,9 +33,6 @@ download-cert-view-cert =
     .label = দৰ্শন কৰক
 download-cert-view-text = CA প্ৰমাণপত্ৰ পৰীক্ষা কৰক
 
-## Client Authorization Ask dialog
-
-
 ## Client Authentication Ask dialog
 
 client-auth-window =
@@ -54,6 +51,3 @@ set-password-backup-pw =
 set-password-repeat-backup-pw =
     .value = প্ৰমাণপত্ৰ সংৰক্ষণৰ পাছৱাৰ্ড (আকৌ):
 set-password-reminder = গুৰুত্বপূৰ্ণ: প্ৰমাণপত্ৰ সংৰক্ষণৰ পাছৱাৰ্ড পাহৰিলে, পিছত আপুনি এই বেক-আপ পুনঃ স্থাপন কৰিব নোৱাৰে।  অনুগ্ৰহ কৰি ইয়াক এটা সুৰক্ষিত স্থানত ৰাখক।
-
-## Protected authentication alert
-

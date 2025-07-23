@@ -13,13 +13,6 @@ genai-settings-chat-huggingchat-links = בחירה ב־HuggingChat מהווה ה
 genai-settings-chat-lechat-links = בחירה ב־Le Chat Mistral מהווה הסכמה ל<a data-l10n-name="link1">תנאי השירות</a> ול<a data-l10n-name="link2">מדיניות הפרטיות</a> של Mistral AI.
 genai-settings-chat-localhost-links = ניתן לספק צ’אט בוט מקומי פרטי משלך כמו למשל <a data-l10n-name="link1">llamafile</a> מקבוצת החדשנות של { -vendor-short-name }.
 
-## Chatbot prompts
-## Prompts are plain language ‘instructions’ sent to a chatbot.
-## These prompts have been made concise and direct in English because some chatbot providers
-## have character restrictions and being direct reduces the chance for misinterpretation.
-## When localizing, please be concise and direct, but not at the expense of losing meaning.
-
-
 ## Chatbot menu shortcuts
 
 # $provider (string) - name of the provider
@@ -87,9 +80,6 @@ genai-options-hide-shortcut =
     .label = הסתרת קיצור דרך בעת בחירת טקסט
 genai-options-about-chatbot =
     .label = על אודות צ’אט בוטים של AI ב־{ -brand-short-name }
-
-## Chatbot footer
-
 
 ## Chatbot onboarding
 

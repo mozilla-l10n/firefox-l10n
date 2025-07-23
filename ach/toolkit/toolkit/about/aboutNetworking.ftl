@@ -32,9 +32,3 @@ about-networking-dns-lookup-table-column = IPs
 about-networking-rcwn-perf-open = Yabi
 about-networking-rcwn-perf-read = Kwan
 about-networking-rcwn-perf-write = Coo
-
-## Link is intended as "network link"
-
-
-##
-

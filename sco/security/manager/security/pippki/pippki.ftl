@@ -48,9 +48,6 @@ download-cert-view-cert =
     .label = View
 download-cert-view-text = Examine CA certificate
 
-## Client Authorization Ask dialog
-
-
 ## Client Authentication Ask dialog
 
 client-auth-window =
@@ -93,6 +90,3 @@ set-password-backup-pw =
 set-password-repeat-backup-pw =
     .value = Certificate backup passwird (aince mair):
 set-password-reminder = Important: If you forget yer certificate backup passwird, ye'll no be able tae restore this backup efter. Gonnae keep it in a sauf airtin.
-
-## Protected authentication alert
-

@@ -37,9 +37,6 @@ login-list-item-title-new-login = Ktisaa Tsa'a
 login-list-item-subtitle-new-login = Chaa sivu takua kitsau
 login-list-item-subtitle-missing-username = (Koo sivi kitsau)
 
-## Introduction screen
-
-
 ## Login
 
 login-item-new-login-title = Saa nixi kitsau
@@ -59,19 +56,6 @@ login-item-save-changes-button = Chica vaa ña samu
 login-item-save-new-button = Chika vaà
 login-item-cancel-button = Kunchatu
 
-## The date is displayed in a timeline showing the password evolution.
-## A label is displayed under the date to describe the type of change.
-## (e.g. updated, created, etc.)
-
-
-## OS Authentication dialog
-
-
-## The macOS strings are preceded by the operating system with "Firefox is trying to "
-## and includes subtitle of "Enter password for the user "xxx" to allow this." These
-## notes are only valid for English. Please test in your respected locale.
-
-
 ## Primary Password notification
 
 master-password-reload-button =
@@ -86,10 +70,6 @@ confirmation-dialog-dismiss-button =
 confirm-delete-dialog-message = Ma kuu sau chu'un yo
 about-logins-confirm-remove-dialog-confirm-button = Xitaá
 
-## Variables
-##   $count (number) - Number of items
-
-
 ##
 
 about-logins-confirm-export-dialog-confirm-button = Stucha…
@@ -100,33 +80,3 @@ confirm-discard-changes-dialog-confirm-button = Descartar
 # Variables:
 #   $hostname (String) - The hostname of the website associated with the login, e.g. "example.com"
 about-logins-breach-alert-link = Kua'an { $hostname }
-
-## Vulnerable Password notification
-
-
-## Error Messages
-
-
-## Login Export Dialog
-
-
-## Login Import Dialog
-
-
-##
-## Variables:
-##  $count (number) - The number of affected elements
-
-
-##
-## Variables:
-##  $field (String) - The name of the field from the CSV file for example url, username or password
-
-
-##
-## Variables:
-##  $count (number) - The number of affected elements
-
-
-## Logins import report page
-

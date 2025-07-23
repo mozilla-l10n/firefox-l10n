@@ -17,9 +17,3 @@ reader-view = Mòddo letua
 open-location = Çerca ò scrivi indirisso
 share = Condividdi
 close-window = Særa barcon
-
-## Various categories of shortcuts for search.
-
-
-##
-

@@ -542,9 +542,6 @@ newtab-custom-wallpaper-title = Itt vannak az egyéni háttérképek
 newtab-custom-wallpaper-subtitle = Töltse fel a saját háttérképét, vagy válasszon egy egyéni háttérszínt, hogy a { -brand-product-name } a sajátja legyen.
 newtab-custom-wallpaper-cta = Próbálja ki
 
-## Strings for new user activation custom wallpaper highlight
-
-
 ## Strings for download mobile highlight
 
 newtab-download-mobile-highlight-title = Töltse le a mobilos { -brand-product-name }ot

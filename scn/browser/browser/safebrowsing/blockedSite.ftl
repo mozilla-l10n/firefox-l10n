@@ -30,14 +30,6 @@ safeb-blocked-phishing-page-learn-more = <a data-l10n-name='learn_more_link'>www
 ## Variables
 ##  $sitename (string) - Domain name for the blocked page
 
-
-## Variables
-##  $sitename (string) - Domain name for the blocked page
-
-
-## Variables
-##  $sitename (string) - Domain name for the blocked page
-
 safeb-blocked-unwanted-page-error-desc-override = <span data-l10n-name='sitename'>{ $sitename }</span> fu <a data-l10n-name='error_desc_link'>signalijatu comu un situ cu prugrammi nun sicuri</a>. Po’ <a data-l10n-name='ignore_warning_link'>nun tèniri cuntu dû rìsicu</a> e visitari stu situ nun sicuru.
 safeb-blocked-unwanted-page-error-desc-no-override = <span data-l10n-name='sitename'>{ $sitename }</span> fu <a data-l10n-name='error_desc_link'>signalijatu comu un situ cu prugrammi nun sicuri</a>.
 

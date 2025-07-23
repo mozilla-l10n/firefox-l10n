@@ -120,9 +120,6 @@ delete-email-cert-title =
 delete-email-cert-confirm = Okakasa oyagala ku sangula santifikati i-mayilu za bantu bano?
 delete-email-cert-impact = Bwosangula satifikati ya i-mayilu yo muntu, ojjakuba to kyasindika i-mayilu ekyakalanyi ku muntu oyo.
 
-## Used to show whether an override is temporary or permanent
-
-
 ## Add Security Exception dialog
 
 add-exception-branded-warning = Orikupii kukyusa engeri { -brand-short-name } etegeramu omuko nguno.

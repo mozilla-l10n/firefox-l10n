@@ -63,9 +63,3 @@ protections-not-blocking-tracking-content =
     .title = ٹریکنگ مواد کو روک نہیں رہا
 protections-not-blocking-social-media-trackers =
     .title = سوشل میڈیا ٹریکروں کو مسدود نہیں کررہا ہے
-
-## Footer and Milestones sections in the Protections Panel
-## Variables:
-##   $trackerCount (Number): number of trackers blocked
-##   $date (Date): the date on which we started counting
-

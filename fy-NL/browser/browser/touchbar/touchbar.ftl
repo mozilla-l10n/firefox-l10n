@@ -32,6 +32,3 @@ search-history = Skiednis
 search-opentabs = Iepen ljepblêden
 search-tags = Labels
 search-titles = Titels
-
-##
-

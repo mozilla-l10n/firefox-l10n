@@ -3,6 +3,3 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 webext-perms-learn-more = অধিক জানক
-
-## A modal confirmation dialog to allow an extension on quarantined domains.
-

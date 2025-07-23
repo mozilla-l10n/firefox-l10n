@@ -69,9 +69,6 @@ perftools-button-add-directory = Add a directory
 perftools-button-remove-directory = Remove selected
 perftools-button-edit-settings = Edit Settings…
 
-## More actions menu
-
-
 ## These messages are descriptions of the threads that can be enabled for the profiler.
 
 perftools-thread-gecko-main =
@@ -147,6 +144,3 @@ perftools-presets-media-description2 = Preset for investigating audio and video 
 perftools-presets-networking-label = Networking
 perftools-presets-networking-description = Preset for investigating networking bugs in { -brand-shorter-name }.
 perftools-presets-custom-label = Custom
-
-##
-

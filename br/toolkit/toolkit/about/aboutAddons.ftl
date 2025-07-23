@@ -482,10 +482,3 @@ plugins-openh264-name = Enboneger-ezvoneger Video OpenH264 pourchaset gant Cisco
 plugins-openh264-description = Ent emgefreek eo staliet an enlugellad-mañ gant Mozilla evit heuliañ despizadur WebRTC hag evit aotreañ galvadennoù WebRTC gant trevnadoù a hegerz ar bonez video H.264. Gweladennit http://www.openh264.org/ evit gwelet boneg tarzh ar bonez hag evit deskiñ hiroc'h diwar-benn e c'heflouerañ.
 plugins-widevine-name = Widevine Content Decryption Module pourchaset gant Google Inc.
 plugins-widevine-description = An enlugellad-mañ a ro an tu da lenn media enrineget a zouj ouzh erspizadur an enlugelladoù media enrineget. Ar media enrineget a zo arveret gant lec'hiennoù evit en em wareziñ ouzh eiladur danvez media paeus. Gweladennit https://www.w3.org/TR/encrypted-media/ evit kaout muioc'h a ditouroù war an enlugelladoù media enrineget.
-
-## Headings for the Permissions tab in `about:addons` when the data collection
-## feature is enabled.
-
-
-## Mapping Engine IDs from AI models to how that feature represented by the engine Id is described in the used by section in local model management
-

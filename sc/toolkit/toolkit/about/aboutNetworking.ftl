@@ -22,9 +22,3 @@ about-networking-idle = Inativu
 about-networking-type = Genia
 about-networking-sent = Imbiadu
 about-networking-received = Retzidu
-
-## Link is intended as "network link"
-
-
-##
-

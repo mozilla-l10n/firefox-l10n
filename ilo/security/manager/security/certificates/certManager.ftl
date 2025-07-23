@@ -90,9 +90,6 @@ delete-email-cert-title =
     .title = Borraen ti Sertipiko ti E-Mail
 delete-email-cert-impact = No borraenyo ti sertipiko ti korreo ti sabali, saanyonton a maipatulod ti nakakripta nga e-mail kadaydiay a tao.
 
-## Used to show whether an override is temporary or permanent
-
-
 ## Add Security Exception dialog
 
 add-exception-branded-warning = Baliwantyonto ti pakailasin ti { -brand-short-name } kadaytoy a purok.

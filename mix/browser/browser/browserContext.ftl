@@ -39,23 +39,11 @@ toolbar-button-stop =
 toolbar-button-stop-reload =
     .title = { main-context-menu-reload.aria-label }
 
-## Firefox Account Button
-
-
-## Account toolbar Button
-
-
-## Save Page
-
-
 ## Simple menu items
 
 main-context-menu-open-link =
     .label = Kuna enlace
     .accesskey = O
-
-##
-
 
 ## Media (video/audio) controls
 ##
@@ -82,10 +70,6 @@ main-context-menu-media-loop =
     .label = Kitsa tuku
     .accesskey = L
 
-## The access keys for "Show Controls" and "Hide Controls" are the same
-## because the two context-menu items are mutually exclusive.
-
-
 ##
 
 main-context-menu-image-copy =
@@ -94,9 +78,3 @@ main-context-menu-image-copy =
 main-context-menu-image-info =
     .label = Kunchee tu'un tsa tutu ndatavana
     .accesskey = f
-
-##
-
-
-##
-

@@ -17,9 +17,6 @@ perftools-heading-threads = Mga Thread
 perftools-heading-threads-jvm = Mga JVM Thread
 perftools-heading-local-build = Local build
 
-##
-
-
 ## The controls for the interval at which the profiler samples the code.
 
 perftools-range-interval-milliseconds = { NUMBER($interval, maxFractionalUnits: 2) } ms
@@ -28,9 +25,6 @@ perftools-range-interval-milliseconds = { NUMBER($interval, maxFractionalUnits: 
 
 perftools-devtools-threads-label = Mga Thread:
 perftools-devtools-settings-label = Mga Setting
-
-## Various statuses that affect the current state of profiling, not typically displayed.
-
 
 ## These are shown briefly when the user is waiting for the profiler to respond.
 
@@ -43,19 +37,6 @@ perftools-button-save-settings = i-Save ang mga setting at bumalik
 perftools-button-restart = Mag-restart
 perftools-button-remove-directory = Inalis ang mga napili
 perftools-button-edit-settings = Baguhin ang Settings…
-
-## More actions menu
-
-
-## These messages are descriptions of the threads that can be enabled for the profiler.
-
-
-##
-
-
-## Onboarding UI labels. These labels are displayed in the new performance panel UI, when
-## devtools.performance.new-panel-onboarding preference is true.
-
 
 ## Profiler presets
 
@@ -74,6 +55,3 @@ perftools-presets-firefox-label = { -brand-shorter-name }
 perftools-presets-graphics-label = Graphics
 perftools-presets-media-label = Media
 perftools-presets-custom-label = Pasadya
-
-##
-

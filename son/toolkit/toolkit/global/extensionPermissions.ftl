@@ -20,16 +20,3 @@ webext-perms-description-sessions = Duu kanjey kaŋ kokor ka daaba
 webext-perms-description-tabs = Duu ceecikaw kanjey
 webext-perms-description-topSites = Duu ceeciyan taariki
 webext-perms-description-webNavigation = Duu ceecikaw goyyan naarumi waate
-
-## The userScripts permission includes an additional explanation that is
-## displayed prominently near the usual permission description.
-
-
-## Short form to be used in lists or in a string (`webext-perms-description-data-some`)
-## that formats some of the data collection permissions below using `Intl.ListFormat`.
-##
-## This is used when the data collection permissions are required.
-
-
-## Long form to be used in `about:addons` when these data collection permissions are optional.
-

@@ -32,6 +32,3 @@ search-history = इतिहास
 search-opentabs = टैब खोलें
 search-tags = टैग
 search-titles = शीर्षक
-
-##
-

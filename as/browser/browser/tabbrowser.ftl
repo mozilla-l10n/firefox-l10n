@@ -13,14 +13,6 @@ tabbrowser-menuitem-close =
 #   $containerName (String): the name of the current container.
 tabbrowser-container-tab-title = { $title } — { $containerName }
 
-## Tooltips for tab audio control
-## Variables:
-##   $tabCount (Number): The number of tabs that will be affected.
-
-
-## Tooltips for tab audio control
-
-
 ## Confirmation dialog when closing a window with more than one tab open,
 ## or when quitting when only one window is open.
 
@@ -44,10 +36,6 @@ tabbrowser-confirm-close-windows-button =
 tabbrowser-confirm-close-tabs-with-key-title = উইণ্ড' বন্ধ কৰি { -brand-short-name }-ৰ পৰা ওলাই যাবনে?
 tabbrowser-confirm-close-tabs-with-key-button = { -brand-short-name }-ৰ পৰা ওলাই যাওক
 
-## Confirmation dialog when quitting using the keyboard shortcut (Ctrl/Cmd+Q)
-## and browser.warnOnQuitShortcut is true.
-
-
 ## Confirmation dialog when opening multiple tabs simultaneously
 
 tabbrowser-confirm-open-multiple-tabs-title = খোলাটো নিশ্চিত কৰক
@@ -58,9 +46,6 @@ tabbrowser-confirm-open-multiple-tabs-checkbox = বহুতো টেব খ�
 
 tabbrowser-confirm-caretbrowsing-title = কেৰেট ব্ৰাউছিং
 tabbrowser-confirm-caretbrowsing-checkbox = মোক এই সংলাপ-বাকচটো আকৌ নেদেখুৱাব।
-
-## Confirmation dialog for closing all duplicate tabs
-
 
 ##
 
@@ -82,22 +67,3 @@ tabbrowser-context-mute-selected-tabs =
 tabbrowser-context-unmute-selected-tabs =
     .label = টেববোৰ শব্দযুক্ত কৰক
     .accesskey = m
-
-## Ctrl-Tab dialog
-
-
-## Tab manager menu buttons
-## Variables:
-##  $tabGroupName (String): The name of the tab group. See also tab-group-name-default, which will be
-##                          used when the group's name is empty.
-
-
-## Tab Groups
-
-
-## Variables:
-##  $tabCount (Number): the number of tabs that are affected by the action.
-
-
-## Open/saved tab group context menu
-

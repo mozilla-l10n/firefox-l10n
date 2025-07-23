@@ -111,10 +111,6 @@ fp-learn-more-about-secure-connection-failures = درباره خرابی اتص�
 fp-learn-more-about-cert-issues = در مورد این نوع مشکلات گواهینامه بیشتر بدانید
 fp-learn-more-about-time-related-errors = در مورد رفع اشکال خطاهای مرتبط با زمان بیشتر بدانید
 
-## Variables:
-##   $hostname (string) - Hostname of the website with cert error.
-
-
 ## Messages used for certificate error titles
 
 connectionFailure-title = قادر به برقراری اتصال نیست

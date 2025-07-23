@@ -45,9 +45,3 @@ pocket-panel-home-paragraph = Podeu utilitzar el { -pocket-brand-name } per expl
 pocket-panel-home-explore-popular-topics = Exploreu els temes populars
 pocket-panel-home-discover-more = Descobriu-ne més
 pocket-panel-home-explore-more = Explora
-
-## Pocket panel header component
-
-
-## Pocket panel buttons
-

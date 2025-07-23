@@ -3,10 +3,6 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 
-## Variables:
-##   $hostname (string) - Hostname of the website with cert error.
-
-
 ## Messages used for certificate error titles
 
 connectionFailure-title = སྦྲེལ་མཐུད་བྱས་མ་ཐུབ
@@ -43,10 +39,3 @@ networkProtocolError-title = Network Protocol Error
 nssBadCert-title = Warning: Potential Security Risk Ahead
 nssBadCert-sts-title = Did Not Connect: Potential Security Issue
 certerror-mitm-title = Software is Preventing { -brand-short-name } From Safely Connecting to This Site
-
-## Felt Privacy V1 Strings
-
-
-## Variables:
-##   $hostname (String) - Hostname of the website to which the user was trying to connect.
-

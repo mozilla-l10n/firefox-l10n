@@ -263,7 +263,9 @@ tabbrowser-manager-current-window-tab-group =
     .label = { $tabGroupName }
     .tooltiptext = { $tabGroupName } — النافذة الحالية
 
-## Tab Groups
+## Variables:
+##  $tabGroupName (String): The name of the tab group. Defaults to the value
+##                          of tab-group-name-default.
 
 tab-group-editor-title-create = أنشئ مجموعة لسان
 tab-group-editor-title-edit = أدر مجموعة لسان
@@ -293,16 +295,12 @@ tab-group-editor-color-selector2-gray = الرمادي
     .title = الرمادي
 tab-group-editor-color-selector2-red = أحمر
     .title = أحمر
-# Variables:
-#  $tabGroupName (String): The name of the tab group. Defaults to the value
-#                          of tab-group-name-default.
 tab-group-description = { $tabGroupName } — مجموعة اللسان
 tab-context-unnamed-group =
     .label = مجموعة غير مسمّاة
 tab-group-name-default = مجموعة غير مسمّاة
 
-## Variables:
-##  $tabCount (Number): the number of tabs that are affected by the action.
+##
 
 tab-group-editor-action-new-tab =
     .label = لسان جديد في المجموعة

@@ -13,10 +13,3 @@ about-logging-set-log-file = Aberi s'archìviu de registru
 about-logging-preset-custom-label = Personalizadu
 # Error handling
 about-logging-error = Faddina:
-
-##
-
-
-## The upload interface is shown only with the preference toolkit.aboutLogging.uploadProfileToCloud
-## set to true. It is false by default, except on Android.
-

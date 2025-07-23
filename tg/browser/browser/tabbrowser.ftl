@@ -224,7 +224,9 @@ tabbrowser-manager-current-window-tab-group =
     .label = { $tabGroupName }
     .tooltiptext = { $tabGroupName } — Равзанаи ҷорӣ
 
-## Tab Groups
+## Variables:
+##  $tabGroupName (String): The name of the tab group. Defaults to the value
+##                          of tab-group-name-default.
 
 tab-group-editor-title-create = Эҷод кардани гурӯҳи варақаҳо
 tab-group-editor-title-edit = Идора кардани гурӯҳи варақаҳо
@@ -254,16 +256,12 @@ tab-group-editor-color-selector2-gray = Хокистарӣ
     .title = Хокистарӣ
 tab-group-editor-color-selector2-red = Сурх
     .title = Сурх
-# Variables:
-#  $tabGroupName (String): The name of the tab group. Defaults to the value
-#                          of tab-group-name-default.
 tab-group-description = { $tabGroupName } — Гурӯҳи варақаҳо
 tab-context-unnamed-group =
     .label = Гурӯҳи беном
 tab-group-name-default = Гурӯҳи беном
 
-## Variables:
-##  $tabCount (Number): the number of tabs that are affected by the action.
+##
 
 tab-context-move-tab-to-new-group =
     .label =

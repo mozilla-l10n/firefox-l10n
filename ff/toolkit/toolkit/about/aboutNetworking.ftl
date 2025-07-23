@@ -44,9 +44,3 @@ about-networking-rcwn-avg-long = Hakindo juutngo
 about-networking-rcwn-std-dev-long = Ɓur-celol juutngol
 about-networking-rcwn-cache-slow = Limoore leelnde moggere
 about-networking-rcwn-cache-not-slow = Limoore moggere leelaani
-
-## Link is intended as "network link"
-
-
-##
-

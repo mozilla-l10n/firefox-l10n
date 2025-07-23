@@ -49,6 +49,3 @@ places-search-history =
     .placeholder = Kuan ko güil
 places-search-downloads =
     .placeholder = Kuan ko blal
-
-##
-

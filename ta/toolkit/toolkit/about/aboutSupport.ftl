@@ -100,14 +100,6 @@ media-device-channels = சேனல்கள்
 media-device-rate = தரம்
 media-device-latency = தாமதம்
 
-## Codec support table
-
-
-## Media Content Decryption Modules (CDM)
-## See EME Spec for more explanation for following technical terms
-## https://w3c.github.io/encrypted-media/
-
-
 ##
 
 intl-app-title = பயன்பாட்டு அமைவுகள்
@@ -117,16 +109,6 @@ intl-locales-supported = பயன்பாட்டு மொழிகள்
 intl-os-title = இயங்கு தளம்
 intl-os-prefs-system-locales = கணினி மொழிகள்
 intl-regional-prefs = வட்டார முன்னுரிமைகள்
-
-## Remote Debugging
-##
-## The Firefox remote protocol provides low-level debugging interfaces
-## used to inspect state and control execution of documents,
-## browser instrumentation, user interaction simulation,
-## and for subscribing to browser-internal events.
-##
-## See also https://firefox-source-docs.mozilla.org/remote/
-
 
 ##
 
@@ -249,21 +231,3 @@ autoscroll-enabled = தானே உருள் செயலிடப்பட
 
 wheel-warning = ஆதரவற்ற முன்னுரிமை: { $preferenceKey } காரணமாக ஒத்திசையா சக்கர உள்ளீடு முடக்கப்பட்டது
 touch-warning = ஆதரவற்ற முன்னுரிமை: { $preferenceKey } காரணமாக ஒத்திசையா தொடு உள்ளீடு முடக்கப்பட்டது
-
-## Strings representing the status of the Enterprise Policies engine.
-
-
-## Printing section
-
-
-## Remote Settings sections
-
-
-## Normandy sections
-
-
-## Pointing devices
-
-
-## Content Analysis (DLP)
-

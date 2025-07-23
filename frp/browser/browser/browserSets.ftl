@@ -106,9 +106,6 @@ full-zoom-enlarge-shortcut-alt2 =
 full-zoom-reset-shortcut-alt =
     .key = { "" }
 
-##
-
-
 ## The shortcuts below are for Mac specific
 ## global menu.
 

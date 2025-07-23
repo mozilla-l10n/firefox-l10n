@@ -64,6 +64,3 @@ about-networking-moved-about-logging = Cette page a été déplacée vers <a dat
 
 about-networking-networkid-is-up = Liaison établie
 about-networking-networkid-status-known = L’état de la liaison est connu
-
-##
-

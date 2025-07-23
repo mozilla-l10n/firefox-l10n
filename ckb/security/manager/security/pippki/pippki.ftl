@@ -10,15 +10,6 @@ change-device-password-window =
     .title = گۆڕینی تێپەڕە وشە
 change-password-old = تێپەڕە وشەی ئێستا:
 
-## Reset Primary Password dialog
-
-
-## Downloading cert dialog
-
-
-## Client Authorization Ask dialog
-
-
 ## Client Authentication Ask dialog
 
 # Variables:
@@ -45,9 +36,3 @@ client-auth-cert-details-issued-by = نێردراوە لەلایەن: { $issuedB
 client-auth-cert-details-stored-on = هەڵگیراوە لە: { $storedOn }
 client-auth-cert-remember-box =
     .label = ئەم بڕیارەت لەبیربێت
-
-## Set password (p12) dialog
-
-
-## Protected authentication alert
-

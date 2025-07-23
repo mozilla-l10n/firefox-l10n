@@ -538,9 +538,6 @@ newtab-custom-wallpaper-title = รูปพื้นหลังกำหนด
 newtab-custom-wallpaper-subtitle = อัปโหลดรูปพื้นหลังของคุณเองหรือเลือกสีกำหนดเองเพื่อปรับแต่ง { -brand-product-name } ในแบบของคุณ
 newtab-custom-wallpaper-cta = ลองเลย
 
-## Strings for new user activation custom wallpaper highlight
-
-
 ## Strings for download mobile highlight
 
 newtab-download-mobile-highlight-title = ดาวน์โหลด { -brand-product-name } สำหรับมือถือ
@@ -550,9 +547,6 @@ newtab-download-mobile-highlight-body-variant-b = ท่องเว็บต่
 newtab-download-mobile-highlight-body-variant-c = คุณรู้ไหมว่าคุณสามารถใช้ { -brand-product-name } ขณะเดินทางได้? นำเบราว์เซอร์ตัวเดียวกันนี้มาไว้ในกระเป๋าของคุณ
 newtab-download-mobile-highlight-image =
     .aria-label = คิวอาร์โค้ดสำหรับดาวน์โหลด { -brand-product-name } สำหรับมือถือ
-
-## Strings for shortcuts highlight
-
 
 ## Strings for reporting ads and content
 

@@ -51,18 +51,12 @@ permissions-capabilities-listitem-allow-session =
 permissions-invalid-uri-title = Keçersiz Qonaqbay-İsmi Kirsetildi
 permissions-invalid-uri-label = Lütfen keçerli bir qonaqbay-ismi kirsetiñiz
 
-## Exceptions - Tracking Protection
-
-
 ## Exceptions - Cookies
 
 permissions-exceptions-cookie-window2 =
     .title = İstisnalar - Çörekler ve Sayt Verileri
     .style = { permissions-window2.style }
 permissions-exceptions-cookie-desc = Angi ağ-saytlarınınñ çöreklerni ve sayt verilerini er zaman qullanabilecegini yaki iç qullanalmaycağını belgileybilirsiñiz. İdare etmege istegeniñiz saytnıñ tam adresini yazıp “Blokla”, “Oturım içün İzin Ber” yaki “İzin Ber”ge çertiñiz.
-
-## Exceptions - HTTPS-Only Mode
-
 
 ## Exceptions - Pop-ups
 
@@ -78,18 +72,12 @@ permissions-exceptions-saved-logins-window2 =
     .style = { permissions-window2.style }
 permissions-exceptions-saved-logins-desc = Aşağıdaki saytlar içün içeri-imzalanışlar saqlanmaycaq
 
-## Exceptions - Saved Passwords
-
-
 ## Exceptions - Add-ons
 
 permissions-exceptions-addons-window2 =
     .title = İzin Berilgen Ağ-saytları - Eklentiler Qurulımı
     .style = { permissions-window2.style }
 permissions-exceptions-addons-desc = Qaysı ağ-saytlarına eklentiler qurmağa izin berilgenini belirtebilirsiñiz. İzin bermege istegeniñiz saytnıñ tam adresini kirsetiñiz ve ondan soñ İzin Ber çertiñiz.
-
-## Site Permissions - Autoplay
-
 
 ## Site Permissions - Notifications
 
@@ -111,9 +99,6 @@ permissions-site-location-disable-label =
     .label = Qonumıñızğa irişmege sorağan yañı istemlerni blokla
 permissions-site-location-disable-desc = Bu, yuqarıda listelenmegen ağ-saytlarınıñ hepisiniñ qonumıñızğa irişme ruhsetini rica etmesini öñleycek. Qonumıñızğa irişimniñ bloklanması belki bazı sayt hususiyetlerini qırar.
 
-## Site Permissions - Virtual Reality
-
-
 ## Site Permissions - Camera
 
 permissions-site-camera-window2 =
@@ -133,8 +118,3 @@ permissions-site-microphone-desc = Aşağıdaki ağ-saytları mikrofonıñızğa
 permissions-site-microphone-disable-label =
     .label = Mikrofonıñızğa irişmege sorağan yañı istemlerni blokla
 permissions-site-microphone-disable-desc = Bu, yuqarıda listelenmegen er angi ağ-saytınıñ mikrofonıñızğa irişme ruhsetini soramasınıñ aldını alacaq. Mikrofonıñızğa irişimniñ bloklanması belki bazı sayt hususiyetlerini sındırır.
-
-## Site Permissions - Speaker
-##
-## "Speaker" refers to an audio output device.
-

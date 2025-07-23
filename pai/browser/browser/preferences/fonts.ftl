@@ -4,9 +4,3 @@
 
 fonts-window-close =
     .key = w
-
-## Font groups by language
-
-
-## Default fonts and their sizes
-

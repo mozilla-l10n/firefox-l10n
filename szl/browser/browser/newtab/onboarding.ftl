@@ -26,9 +26,6 @@ return-to-amo-addon-title = Teroz pobier <img data-l10n-name="icon"/><b>{ $addon
 return-to-amo-add-extension-label = Przidej rozszyrzynie
 return-to-amo-add-theme-label = Przidej motyw
 
-##  Variables: $addon-name (String) - Name of the add-on to be installed
-
-
 ## Multistage onboarding strings (about:welcome pages)
 
 
@@ -156,9 +153,6 @@ fx100-upgrade-thank-you-body = To je 100. wydanie aplikacyje { -brand-short-name
 fx100-upgrade-thanks-keep-body = To je nasze setne wydanie! Dziynkujymy, żeś je tajlōm naszyj społeczności. Miyj aplikacyjo { -brand-short-name } pod rynkōm na nastympno setka.
 mr2022-onboarding-secondary-skip-button-label = Przeskocz tyn krok
 
-## MR2022 New User Easy Setup screen strings
-
-
 ## MR2022 New User Pin Firefox screen strings
 
 # Title used on about:welcome for new users when Firefox is not pinned.
@@ -166,72 +160,3 @@ mr2022-onboarding-secondary-skip-button-label = Przeskocz tyn krok
 # The metaphor is that when they open their Firefox browser, it helps them discover an amazing internet.
 # If this translation does not make sense in your language, feel free to use the word "discover."
 mr2022-onboarding-welcome-pin-header = Poznej niyzwyczajny internet
-
-## MR2022 Existing User Pin Firefox Screen Strings
-
-
-## MR2022 New User Set Default screen strings
-
-
-## MR2022 Get Started screen strings.
-## These strings will be used on the welcome page
-## when Firefox is already set to default and pinned.
-
-
-## MR2022 Get Started screen strings.
-## These strings will be used on the welcome page
-## when Firefox is already set to default and pinned.
-
-
-## If your language uses grammatical genders, in the description for the
-## colorway feel free to switch from "You are a X. You…" (e.g. "You are a
-## Playmaker. You create…") to "X: you…" ("Playmaker: You create…"). This might
-## help creating a more inclusive translation.
-
-
-## MR2022 Multistage Mobile Download screen strings
-
-
-## MR2022 Upgrade Dialog screens
-## Pin private window screen shown only for users who don't have Firefox private pinned
-
-
-## MR2022 Privacy Segmentation screen strings
-
-
-## MR2022 Multistage Gratitude screen strings
-
-
-## Onboarding spotlight for infrequent users
-
-
-## MR2022 Illustration alt tags
-## Descriptive tags for illustrations used by screen readers and other assistive tech
-
-
-## Device migration onboarding
-
-
-## Add-ons Picker screen
-
-
-## The following screens have been updated to use security and privacy focused strings:
-
-
-## New user time and familiarity survey strings
-
-
-## UI strings for the sidebar and vertical tabs
-
-
-## New user onboarding checklist
-
-
-## Tab Groups feature onboarding strings
-
-
-## Multi Profiles feature onboarding messages
-
-
-## Desktop to Mobile Adoption feature callout strings
-

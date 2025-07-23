@@ -34,6 +34,3 @@ fxa-menu-send-tab-to-device-syncnotready =
 fxa-menu-send-tab-to-device-description = Cuir taba sa bhad gu uidheam sam bith sa bheil thu air do chlàradh a-steach.
 fxa-menu-sign-out =
     .label = Clàraich a-mach…
-
-## Sync warning strings that support the browser profiles feature, these will be shown when the user might be merging data
-

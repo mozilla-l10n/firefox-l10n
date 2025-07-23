@@ -20,21 +20,21 @@ about-telemetry-telemetry-client-doc = <a data-l10n-name="client-doc-link"> مس
 about-telemetry-telemetry-dashboard = <a data-l10n-name="dashboard-link"> داشبورد Telemetry</a> به شما این امکان را می‌دهد تا داده های دریافت شده توسط Telemetryموزیلا را تصویر کنید.
 about-telemetry-show-in-Firefox-json-viewer = بازکردن در نمایشگرJSON
 about-telemetry-home-section = خانه
-about-telemetry-general-data-section =   اطلاعات عمومی
+about-telemetry-general-data-section = { "  " }اطلاعات عمومی
 about-telemetry-environment-data-section = اطلاعات محیطی
 about-telemetry-session-info-section = اطلاعات نشست
 about-telemetry-scalar-section = عددی
 about-telemetry-keyed-scalar-section = Keyed Scalars
-about-telemetry-histograms-section =   نمودارهای هیستوگرام
-about-telemetry-keyed-histogram-section =   نمودارهای هیستوگرام کوک شده
+about-telemetry-histograms-section = { "  " }نمودارهای هیستوگرام
+about-telemetry-keyed-histogram-section = { "  " }نمودارهای هیستوگرام کوک شده
 about-telemetry-events-section = رویدادها
-about-telemetry-simple-measurements-section =   اندازه‌گیری‌های ساده
-about-telemetry-slow-sql-section =   عبارات کند SQL
-about-telemetry-addon-details-section =   جزئیات افزونه
-about-telemetry-late-writes-section =   دیرنویس‌ها
+about-telemetry-simple-measurements-section = { "  " }اندازه‌گیری‌های ساده
+about-telemetry-slow-sql-section = { "  " }عبارات کند SQL
+about-telemetry-addon-details-section = { "  " }جزئیات افزونه
+about-telemetry-late-writes-section = { "  " }دیرنویس‌ها
 about-telemetry-raw-payload-section = Payload خام
 about-telemetry-raw = JSON خام
-about-telemetry-full-sql-warning =   نکته: رفع‌اشکال SQLهای کُند فعال است. رشته‌های کامل SQL ممکن است در پایین نمایش داده شوند ولی آنها در مسافت‌سنج ثبت نخواهند شد.
+about-telemetry-full-sql-warning = { "  " }نکته: رفع‌اشکال SQLهای کُند فعال است. رشته‌های کامل SQL ممکن است در پایین نمایش داده شوند ولی آنها در مسافت‌سنج ثبت نخواهند شد.
 about-telemetry-fetch-stack-symbols = دریافت نام توابع برای پشته‌ها
 about-telemetry-hide-stack-symbols = نمایش داده‌های خام پشته
 # Selects the correct release version

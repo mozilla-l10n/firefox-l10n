@@ -6,6 +6,3 @@ alert-close =
     .tooltiptext = Narrán riña nuguan' nan
 alert-settings-title =
     .tooltiptext = Nagi'iô'
-
-## Reminder Notifications
-

@@ -27,6 +27,3 @@ storage-table-headers-cookies-name = Sivɨ
 ## Labels for Storage type groups present in the Storage Tree, like cookies, local storage etc.
 
 storage-tree-labels-cookies = Cookies
-
-##
-

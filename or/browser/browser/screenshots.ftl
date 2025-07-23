@@ -19,10 +19,3 @@ screenshots-meta-key =
 screenshots-notification-link-copied-title = ଲିଙ୍କ ନକଲ ହୋଇଛି
 screenshots-notification-image-copied-title = ସ୍କ୍ରିନଶର୍ଟ ନକଲ ହୋଇଗଲା
 screenshots-request-error-title = ଖରାପ ହୋଇଯାଇଛି
-
-## The below strings are used to capture keydown events so the strings should
-## not be changed unless the keyboard layout in the locale requires it.
-
-
-##
-

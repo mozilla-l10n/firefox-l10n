@@ -118,11 +118,6 @@ about-webrtc-copy-report-history-button = העתק היסטוריית דוחות
 about-webrtc-connection-open = [ { $browser-id } | { $id } ] { $url } { $now }
 about-webrtc-connection-closed = [ { $browser-id } | { $id } ] { $url } (סגור) { $now }
 
-## These are used to indicate what direction media is flowing.
-## Variables:
-##  $codecs - a list of media codecs
-
-
 ##
 
 about-webrtc-local-candidate = מועמד מקומי
@@ -155,9 +150,6 @@ about-webrtc-height-px = גובה (px)
 about-webrtc-time-elapsed = זמן שחלף (שניות)
 about-webrtc-rotation-degrees = סיבוב (מעלות)
 
-## SSRCs are identifiers that represent endpoints in an RTP stream
-
-
 ## These are displayed on the button that shows or hides the
 ## PeerConnection configuration disclosure
 
@@ -168,10 +160,6 @@ about-webrtc-pc-configuration-hide-msg = הסתרת תצורה
 
 # The options set by the user in about:config that could impact a WebRTC call
 about-webrtc-custom-webrtc-configuration-heading = העדפות WebRTC שהוגדרו על־ידי המשתמש
-
-## These are displayed on the button that shows or hides the
-## user modified configuration disclosure
-
 
 ##
 
@@ -199,10 +187,6 @@ about-webrtc-jitter-label = Jitter { $jitter }
 # table with light blue background.
 about-webrtc-trickle-caption-msg = מועמדים שהסתננו (הגיעו לאחר המענה) מודגשים בכחול
 
-## "SDP" is an abbreviation for Session Description Protocol, an IETF standard.
-## See http://wikipedia.org/wiki/Session_Description_Protocol
-
-
 ## These are displayed on the button that shows or hides the SDP information disclosure
 
 about-webrtc-show-msg-sdp = הצגת SDP
@@ -215,6 +199,3 @@ about-webrtc-hide-msg-sdp = הסתרת SDP
 about-webrtc-media-context-show-msg = הצגת הקשר מדיה
 about-webrtc-media-context-hide-msg = הסתרת הקשר מדיה
 about-webrtc-media-context-heading = הקשר מדיה
-
-##
-

@@ -8,13 +8,3 @@ about-logging-set-log-file = Huruyan tuku kayandi
 about-logging-set-log-modules = Huruyan dunhey kayandi
 about-logging-start-logging = Huruyan šintin
 about-logging-stop-logging = Huruyan kayandi
-
-## Logging presets
-
-
-##
-
-
-## The upload interface is shown only with the preference toolkit.aboutLogging.uploadProfileToCloud
-## set to true. It is false by default, except on Android.
-

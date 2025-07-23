@@ -152,6 +152,3 @@ perftools-presets-power-description = { -brand-shorter-name } tarayıcısında g
 perftools-presets-debug-label = Hata ayıklama
 perftools-presets-debug-description = { -brand-shorter-name } tarayıcısında hata ayıklama ayarı. Yüksek ek yük nedeniyle performans çalışması için uygun değildir, tarayıcı davranışını anlamaya odaklanmak için kullanın.
 perftools-presets-custom-label = Özel
-
-##
-

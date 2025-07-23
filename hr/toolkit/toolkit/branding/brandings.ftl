@@ -23,30 +23,31 @@
 -mozmonitor-brand-name = Mozilla Monitor
 -pocket-brand-name =
     { $case ->
-       *[nom] Pocket
         [gen] Pocketa
         [dat] Pocketu
         [acc] Pocket
         [loc] Pocketu
         [ins] Pocketom
+       *[nom] Pocket
     }
 -send-brand-name = Firefox Send
 -screenshots-brand-name = Firefox Screenshots
 -mozilla-vpn-brand-name = Mozilla VPN
 -profiler-brand-name =
     { $case ->
-       *[nom] Firefox Profiler
         [gen] Firefox Profilera
         [dat] Firefox Profileru
         [acc] Firefox Profiler
         [loc] Firefox Profileru
         [ins] Firefox Profilerom
+       *[nom] Firefox Profiler
     }
 -translations-brand-name = Firefox Translations
 -focus-brand-name = Firefox Focus
 -relay-brand-name = Firefox Relay
 -relay-brand-short-name = Relay
 -fakespot-brand-name = Fakespot
+-solo-ai-brand-name = Solo
 # Note the name of the website is capitalized.
 -fakespot-website-name = Fakespot.com
 # The particle "by" can be localized, "Fakespot" and "Mozilla" should not be localized or transliterated.
@@ -65,5 +66,3 @@
 # The "Labs" portion can be localized, “Firefox” must be treated as a brand
 # and kept in English.
 -firefoxlabs-brand-name = Firefox Labs
--solo-ai-brand-name = Solo
-

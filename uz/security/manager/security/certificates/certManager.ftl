@@ -122,9 +122,6 @@ delete-email-cert-title =
 delete-email-cert-confirm = Ushbu odamlarning e-pochta sertifikatlarini o‘chirmoqchi ekanligingizga ishonchingiz komilmi?
 delete-email-cert-impact = Agar shaxsning e-pochta sertifikatini o‘chsangiz, siz ushbu shaxsga kodlangan xatni jo‘nata olmaysiz.
 
-## Used to show whether an override is temporary or permanent
-
-
 ## Add Security Exception dialog
 
 add-exception-branded-warning = Ushbu saytning { -brand-short-name } tasdiqlarini almashtirish arafasidasiz.

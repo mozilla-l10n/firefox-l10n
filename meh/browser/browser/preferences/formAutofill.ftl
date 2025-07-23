@@ -34,9 +34,6 @@ autofill-address-suburb = Suburbio
 # Used in HK
 autofill-address-area = Área
 
-## Postal code name types
-
-
 ##
 
 # The dialog title for creating addresses in browser preferences.

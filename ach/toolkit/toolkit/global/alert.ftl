@@ -6,6 +6,3 @@ alert-close =
     .tooltiptext = Lor ngec man
 alert-settings-title =
     .tooltiptext = Ter
-
-## Reminder Notifications
-

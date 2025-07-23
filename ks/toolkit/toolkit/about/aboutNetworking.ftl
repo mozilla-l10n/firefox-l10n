@@ -23,9 +23,3 @@ about-networking-messages-sent = مسیج آیہ سوزنْہ
 about-networking-messages-received = مسیج آیہ رٹنْہ
 about-networking-bytes-sent = بایٹْہ آیہ سوزنْہ
 about-networking-bytes-received = بایٹْہ آیہ رٹنْہ
-
-## Link is intended as "network link"
-
-
-##
-

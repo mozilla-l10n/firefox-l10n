@@ -69,10 +69,6 @@ open-in-new-window-for-csp-or-xfo-error = Ava sait uues aknas
 #   $hostname (string) - Hostname of the website blocked by csp or xfo error.
 csp-xfo-blocked-long-desc = Sinu turvalisuse tagamiseks ei luba sait { $hostname } { -brand-short-name }il seda lehte teise saidi sees kuvada. Selle lehe nägemiseks pead selle avama uues aknas.
 
-## Variables:
-##   $hostname (string) - Hostname of the website with cert error.
-
-
 ## Messages used for certificate error titles
 
 connectionFailure-title = Viga ühendumisel
@@ -110,10 +106,3 @@ networkProtocolError-title = Võrguprotokolli viga
 nssBadCert-title = Hoiatus: ees on ootamas võimalik turvarisk
 nssBadCert-sts-title = Ühendust ei loodud: võimalik turvarisk
 certerror-mitm-title = Tarkvara takistab { -brand-short-name }il selle saidiga turvalise ühenduse loomist
-
-## Felt Privacy V1 Strings
-
-
-## Variables:
-##   $hostname (String) - Hostname of the website to which the user was trying to connect.
-

@@ -31,9 +31,6 @@ account-send-tab-to-device-singledevice-learnmore = Maidir le Seoladh Cluaisín�
 account-send-tab-to-device-verify-status = Níl an cuntas deimhnithe
 account-send-tab-to-device-verify = Deimhnigh Do Chuntas…
 
-## These strings are used in a notification shown when a new device joins the Firefox account.
-
-
 ## These strings are used in a notification shown when we're opening
 ## a single tab another device sent us to display.
 ## The body for this notification is the URL of the received tab.
@@ -81,9 +78,3 @@ account-multiple-tabs-arriving-from-unknown-device =
         [many] Tháinig { $tabCount } gcluaisín
        *[other] Tháinig { $tabCount } cluaisín
     }
-
-## These strings are used in notifications in which the user remotely closed
-## tabs from other devices
-## Variables:
-##   $closedCount (Number): the number of tabs closed
-

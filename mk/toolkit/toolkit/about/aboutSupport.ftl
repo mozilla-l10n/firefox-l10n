@@ -35,30 +35,6 @@ library-version-title = Верзија на библиотеката
 copy-text-to-clipboard-label = Копирај го текстот
 copy-raw-data-to-clipboard-label = Копирај ги сировите податоци
 
-## Media titles
-
-
-## Codec support table
-
-
-## Media Content Decryption Modules (CDM)
-## See EME Spec for more explanation for following technical terms
-## https://w3c.github.io/encrypted-media/
-
-
-##
-
-
-## Remote Debugging
-##
-## The Firefox remote protocol provides low-level debugging interfaces
-## used to inspect state and control execution of documents,
-## browser instrumentation, user interaction simulation,
-## and for subscribing to browser-internal events.
-##
-## See also https://firefox-source-docs.mozilla.org/remote/
-
-
 ##
 
 raw-data-copied = Сировите податоци се ископирани
@@ -89,25 +65,3 @@ loaded-lib-versions = Верзија во употреба
 # $totalWindows (integer) - Number of total windows
 multi-process-windows = { $remoteWindows }/{ $totalWindows }
 drag-enabled = влечење на лизгач овозможено
-
-## Variables
-## $preferenceKey (string) - String ID of preference
-
-
-## Strings representing the status of the Enterprise Policies engine.
-
-
-## Printing section
-
-
-## Remote Settings sections
-
-
-## Normandy sections
-
-
-## Pointing devices
-
-
-## Content Analysis (DLP)
-

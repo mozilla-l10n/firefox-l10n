@@ -17,6 +17,3 @@ webext-default-search-no =
 # Variables:
 #   $addonName (String): localized named of the extension that was just installed.
 addon-post-install-message = { $addonName } was eikit on.
-
-## A modal confirmation dialog to allow an extension on quarantined domains.
-

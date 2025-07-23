@@ -162,9 +162,6 @@ mr2022-onboarding-colorway-label-default = തനിമട്ട്
 mr2022-onboarding-colorway-tooltip-dreamer2 =
     .title = വിനവുക്കാണി (ഊതന്നിറം)
 
-## MR2022 Multistage Mobile Download screen strings
-
-
 ## MR2022 Upgrade Dialog screens
 ## Pin private window screen shown only for users who don't have Firefox private pinned
 
@@ -184,10 +181,6 @@ mr2022-onboarding-gratitude-secondary-button-label = തിരയാൻ തു�
 ## Onboarding spotlight for infrequent users
 
 onboarding-infrequent-import-primary-button = { -brand-short-name }-ലോട്ടു് ഇറക്കുമതി ചെയ്യുക
-
-## MR2022 Illustration alt tags
-## Descriptive tags for illustrations used by screen readers and other assistive tech
-
 
 ## Device migration onboarding
 

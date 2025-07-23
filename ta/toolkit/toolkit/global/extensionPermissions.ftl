@@ -28,16 +28,3 @@ webext-perms-description-tabs = உலாவியின் கீற்று�
 webext-perms-description-tabHide = உலாவி கீற்றுகளை மறைத்து காண்பி
 webext-perms-description-topSites = உலாவல் வரலாற்றை அணுக
 webext-perms-description-webNavigation = வழிசெலுத்தும் போது உலாவி செயல்பாட்டை அணுகவும்
-
-## The userScripts permission includes an additional explanation that is
-## displayed prominently near the usual permission description.
-
-
-## Short form to be used in lists or in a string (`webext-perms-description-data-some`)
-## that formats some of the data collection permissions below using `Intl.ListFormat`.
-##
-## This is used when the data collection permissions are required.
-
-
-## Long form to be used in `about:addons` when these data collection permissions are optional.
-

@@ -36,6 +36,3 @@ unified-extensions-context-menu-move-widget-up =
     .label = Gluais suas
 unified-extensions-context-menu-move-widget-down =
     .label = Gluais sìos
-
-## Notifications
-

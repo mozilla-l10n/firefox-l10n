@@ -8,7 +8,3 @@ app-manager-window2 =
 app-manager-remove =
     .label = Xitaá
     .accesskey = X
-
-## These strings are followed, on a new line,
-## by the URL or path of the application.
-

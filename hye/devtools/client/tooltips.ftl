@@ -10,14 +10,6 @@ learn-more = <span data-l10n-name="link">Իմանալ աւելին</span>
 ## In the Rule View when a CSS property cannot be successfully applied we display
 ## an icon. When this icon is hovered this message is displayed to explain why
 ## the property is not applied.
-## Variables:
-##   $property (string) - A CSS property name e.g. "color".
-##   $display (string) - A CSS display value e.g. "inline-block".
-
-
-## In the Rule View when a CSS property cannot be successfully applied we display
-## an icon. When this icon is hovered this message is displayed to explain why
-## the property is not applied.
 ## The variables are all passed from the same place, in `InactiveCssTooltipHelper#getTemplate`
 ## (devtools/client/shared/widgets/tooltip/inactive-css-tooltip-helper.js#95)
 ## Variables:
@@ -41,16 +33,6 @@ inactive-css-not-for-internal-table-elements = <strong> { $property } </strong>�
 inactive-css-not-for-internal-table-elements-except-table-cells = <strong> { $property } </strong>֊ն որեւէ ազդեցութիւն չունի աղիւսակի ներքին տարրերի վրայ՝ բացառութեամբ աղիւսակի բջիջների:
 inactive-css-not-table = <strong> { $property } </strong>֊ը չունի որեւէ ազդեցութիւն այս տարրի վրայ, քանի որ այն աղիւսակ չէ:
 inactive-scroll-padding-when-not-scroll-container = <strong> { $property } </strong>-ը չունի որեւէ ազդեցութիւն այս տարրի վրայ մինչ այն չի ոլորուում։
-
-## In the Rule View when a CSS property cannot be successfully applied we display
-## an icon. When this icon is hovered this message is displayed to explain why
-## the property is not applied.
-## The variables are all passed from the same place, in `InactiveCssTooltipHelper#getTemplate`
-## (devtools/client/shared/widgets/tooltip/inactive-css-tooltip-helper.js#95)
-## Variables:
-##   $property (string) - A CSS property name e.g. "color".
-##   $display (string) - A CSS display value e.g. "inline-block".
-
 
 ## In the Rule View when a CSS property cannot be successfully applied we display
 ## an icon. When this icon is hovered this message is displayed to explain how
@@ -90,8 +72,3 @@ css-compatibility-deprecated-supported-message = <strong> { $property } </strong
 css-compatibility-experimental-message = <strong> { $property } </strong> փորձնական յատկութիւն է: Սա չի աջակցուում հետեւալ դիտարկիչներում.
 css-compatibility-experimental-supported-message = <strong> { $property } </strong> փորձնական յատկութիւն է:
 css-compatibility-learn-more-message = <span data-l10n-name="link"> Իմանալ աւելին </span>֊ի մասին <strong> { $rootProperty } </strong>
-
-## In the Rule View when a rule selector can causes issues, we display an icon.
-## When this icon is hovered one or more of those messages are displayed to explain what
-## the issue are.
-

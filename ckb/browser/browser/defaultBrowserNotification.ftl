@@ -21,8 +21,3 @@ default-browser-prompt-message-alt = خیرا، پارێزراوی، وتایب�
 default-browser-prompt-button-primary-alt = بیکە وێبگەڕی سەرەکی
 default-browser-prompt-checkbox-not-again-label = ئەم پەیامە پیشان مەدەرەوە جارێکی تر
 default-browser-prompt-button-secondary = ئێستا نا
-
-## Strings for a Windows native guidance notification when the user is forced to
-## use Windows Settings to set the default browser. Instructions differ for
-## Windows 10 and 11.
-

@@ -28,9 +28,6 @@ policy-DisableFirefoxAccounts = { -fxaccount-brand-name } baséiert Servicer des
 policy-DisableFirefoxScreenshots = Firefox Screenshots Funktioun desaktivéieren.
 policy-DisableTelemetry = Telemetrie ausschalten.
 
-## Do not translate "SameSite", it's the name of a cookie attribute.
-
-
 ##
 
 policy-Proxy = Proxy-Astellunge festleeën.

@@ -37,10 +37,6 @@ cert-error-details-hsts-label = HTTP କଠୋର ପରିବହନ ସୁର�
 cert-error-details-key-pinning-label = ଏଚଟିଟିପି ପବ୍ଲିକ କି ପିନିଙ୍ଗ { $hasHPKP }
 cert-error-details-cert-chain-label = ସାର୍ଟିଫିକେଟ ଚେନ
 
-## Variables:
-##   $hostname (string) - Hostname of the website with cert error.
-
-
 ## Messages used for certificate error titles
 
 connectionFailure-title = ସଂଯୋଗ କରିବାରେ ଅସମର୍ଥ
@@ -77,10 +73,3 @@ networkProtocolError-title = ନେଟୱର୍କ ପ୍ରୋଟୋକଲ୍ �
 nssBadCert-title = ଚେତାବନୀ: ସମ୍ଭାବ୍ୟ ସୁରକ୍ଷା ବିପଦ ଆଗରେ
 nssBadCert-sts-title = ସଂଯୋଗ ହୋଇନାହିଁ: ସମ୍ଭାବ୍ୟ ସୁରକ୍ଷା ସମସ୍ୟା
 certerror-mitm-title = ସଫ୍ଟୱେର୍ { -brand-short-name } ସାଇଟକୁ ସୁରକ୍ଷିତ ଭାବରେ ସଂଯୋଗ କରିବା ଠାରୁ ପ୍ରତିରୋଧ କରୁଛି
-
-## Felt Privacy V1 Strings
-
-
-## Variables:
-##   $hostname (String) - Hostname of the website to which the user was trying to connect.
-

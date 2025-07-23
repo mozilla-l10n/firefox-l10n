@@ -42,10 +42,3 @@ about-logging-preset-custom-label = ਚੁਣਿੰਦਾ
 about-logging-preset-custom-description = ਲਾਗ ਮੋਡੀਊਲ ਖੁਦ ਚੁਣੇ ਗਏ ਹਨ
 # Error handling
 about-logging-error = ਗਲਤੀ:
-
-##
-
-
-## The upload interface is shown only with the preference toolkit.aboutLogging.uploadProfileToCloud
-## set to true. It is false by default, except on Android.
-

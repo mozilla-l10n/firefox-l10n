@@ -47,11 +47,6 @@ neterror-captive-portal = K'o chi natikirsaj molojri'ïl pa re k'amab'ey re' chu
 
 neterror-dns-not-found-trr-unknown-host2 = Man nilitäj ta ri ruxaq ruma ri { $trrDomain }.
 
-## Native fallback specific messages
-## Variables:
-##   $trrDomain (String) - Hostname of the DNS over HTTPS server that is currently in use.
-
-
 ##
 
 neterror-file-not-found-filename = Tanik'oj chi majun sachoj pa rub'i' ri yakb'äl achi'el rutz'ib'axik, achi'el chuqa' rokisaxik nimatz'ib'.

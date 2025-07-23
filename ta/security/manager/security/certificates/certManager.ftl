@@ -128,9 +128,6 @@ delete-email-cert-impact = If you delete a person's e-mail certificate,  you wil
 cert-with-serial =
     .value = வரிசை எண் கொண்ட சான்றிதழ்: { $serialNumber }
 
-## Used to show whether an override is temporary or permanent
-
-
 ## Add Security Exception dialog
 
 add-exception-branded-warning = You are about to override  how { -brand-short-name } identifies this site.

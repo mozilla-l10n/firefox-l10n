@@ -6,11 +6,3 @@
 # capitalization for this string should match the output for your locale.
 graph-today = दिनै
 monitor-link = बेयो माबादि खामानि मावो
-
-## The title attribute is used to display the type of protection.
-## The aria-label is spoken by screen readers to make the visual graph accessible to blind users.
-##
-## Variables:
-##   $count (Number) - Number of specific trackers
-##   $percentage (Number) - Percentage this type of tracker contributes to the whole graph
-

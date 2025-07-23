@@ -56,26 +56,6 @@ shopping-show-less-button = نمایش کمتر
 shopping-settings-label =
     .label = تنظیمات
 
-## Strings for the adjusted rating component
-
-
-## Strings for the review reliability component
-
-
-## Strings for the analysis explainer component
-
-
-## Strings for UrlBar button
-
-
-## Strings for the unanalyzed product card.
-## The word 'analyzer' when used here reflects what this tool is called on
-## fakespot.com. If possible, a different word should be used for the Fakespot
-## tool (the Fakespot by Mozilla 'analyzer') other than 'checker', which is
-## used in the name of the Firefox feature ('Review Checker'). If that is not
-## possible - if these terms are not meaningfully different - that is OK.
-
-
 ## Strings for the advertisement
 
 ad-by-fakespot = تبلیغ توسط { -fakespot-brand-name }

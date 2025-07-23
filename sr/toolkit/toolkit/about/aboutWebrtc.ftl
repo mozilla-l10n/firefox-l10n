@@ -12,9 +12,6 @@ about-webrtc-document-title = WebRTC интернали
 # translated. This string is used as a title for a file save dialog box.
 about-webrtc-save-page-dialog-title = Чување странице about:webrtc
 
-## These labels are for a disclosure which contains the information for closed PeerConnection sections
-
-
 ## AEC is an abbreviation for Acoustic Echo Cancellation.
 
 about-webrtc-aec-logging-msg-label = AEC евидентирање
@@ -110,11 +107,6 @@ about-webrtc-log-section-hide-msg = Сакриј дневник
 about-webrtc-connection-open = [ { $browser-id } | { $id } ] { $url } { $now }
 about-webrtc-connection-closed = [ { $browser-id } | { $id } ] { $url } (затворена) { $now }
 
-## These are used to indicate what direction media is flowing.
-## Variables:
-##  $codecs - a list of media codecs
-
-
 ##
 
 about-webrtc-local-candidate = Локални кандидат
@@ -177,10 +169,6 @@ about-webrtc-configuration-element-provided = Одобрено
 about-webrtc-configuration-element-not-provided = Није одобрено
 # The options set by the user in about:config that could impact a WebRTC call
 about-webrtc-custom-webrtc-configuration-heading = Корисничка WebRTC подешавања
-
-## These are displayed on the button that shows or hides the
-## user modified configuration disclosure
-
 
 ##
 
@@ -292,11 +280,3 @@ about-webrtc-sdp-set-timestamp = Временска ознака { NUMBER($times
 
 about-webrtc-show-msg-sdp = Прикажи SDP
 about-webrtc-hide-msg-sdp = Сакриј SDP
-
-## These are displayed on the button that shows or hides the Media Context information disclosure.
-## The Media Context is the set of preferences and detected capabilities that informs
-## the negotiated CODEC settings.
-
-
-##
-

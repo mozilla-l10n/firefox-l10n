@@ -4,10 +4,6 @@
 
 xpinstall-prompt = { -brand-short-name } இணையதளத்தை நீங்கள் உங்கள் கணினியில் மென்பொருள் நிறுவலுக்கு கேட்பதிலிருந்து தடுக்கிறது.
 
-## Variables:
-##   $host (String): The hostname of the site the add-on is being installed from.
-
-
 ##
 
 xpinstall-prompt-dont-allow =

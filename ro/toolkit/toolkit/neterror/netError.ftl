@@ -39,17 +39,6 @@ neterror-load-error-connection = Dacă nu poți să încarci nicio pagină, veri
 neterror-load-error-firewall = Dacă calculatorul sau rețeaua este protejat(ă) de un firewall sau proxy, asigură-te că { -brand-short-name } are permisiunea de a accesa webul.
 neterror-captive-portal = Trebuie să te autentifici în această rețea ca să poți accesa internetul.
 
-## TRR-only specific messages
-## Variables:
-##   $hostname (String) - Hostname of the website to which the user was trying to connect.
-##   $trrDomain (String) - Hostname of the DNS over HTTPS server that is currently in use.
-
-
-## Native fallback specific messages
-## Variables:
-##   $trrDomain (String) - Hostname of the DNS over HTTPS server that is currently in use.
-
-
 ##
 
 neterror-file-not-found-filename = Verifică numele fișierului - să nu aibă erori de majuscule/minuscule sau alte erori de tastare.

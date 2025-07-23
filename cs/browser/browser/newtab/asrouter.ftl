@@ -94,19 +94,30 @@ cfr-whatsnew-release-notes-link-text = Přečtěte si poznámky k vydání
 #   $date (Datetime) - The date we began recording the count of blocked trackers
 cfr-doorhanger-milestone-heading2 =
     { -brand-short-name.gender ->
-        [masculine] { -brand-short-name } od { DATETIME($date, month: "long", year: "numeric") }
-        [feminine] { -brand-short-name } od { DATETIME($date, month: "long", year: "numeric") }
-        [neuter] { -brand-short-name } od { DATETIME($date, month: "long", year: "numeric") }
-       *[other] Aplikace { -brand-short-name } od { DATETIME($date, month: "long", year: "numeric") }
-    } { -brand-short-name.gender ->
-        [masculine] zablokoval více než
-        [feminine] zablokovala více než
-        [neuter] zablokovalo více než
-       *[other] zablokovala více než
-    } { $blockedCount ->
-        [one] jeden sledovací prvek.
-        [few] <b>{ $blockedCount }</b> sledovací prvky.
-       *[other] <b>{ $blockedCount }</b> sledovacích prvků.
+        [masculine]
+            { $blockedCount ->
+                [one] { -brand-short-name } od { DATETIME($date, month: "long", year: "numeric") } zablokoval více než jeden sledovací prvek.
+                [few] { -brand-short-name } od { DATETIME($date, month: "long", year: "numeric") } zablokoval více než <b>{ $blockedCount }</b> sledovací prvky.
+               *[other] { -brand-short-name } od { DATETIME($date, month: "long", year: "numeric") } zablokoval více než <b>{ $blockedCount }</b> sledovacích prvků.
+            }
+        [feminine]
+            { $blockedCount ->
+                [one] { -brand-short-name } od { DATETIME($date, month: "long", year: "numeric") } zablokovala více než jeden sledovací prvek.
+                [few] { -brand-short-name } od { DATETIME($date, month: "long", year: "numeric") } zablokovala více než <b>{ $blockedCount }</b> sledovací prvky.
+               *[other] { -brand-short-name } od { DATETIME($date, month: "long", year: "numeric") } zablokovala více než <b>{ $blockedCount }</b> sledovacích prvků.
+            }
+        [neuter]
+            { $blockedCount ->
+                [one] { -brand-short-name } od { DATETIME($date, month: "long", year: "numeric") } zablokovalo více než jeden sledovací prvek.
+                [few] { -brand-short-name } od { DATETIME($date, month: "long", year: "numeric") } zablokovalo více než <b>{ $blockedCount }</b> sledovací prvky.
+               *[other] { -brand-short-name } od { DATETIME($date, month: "long", year: "numeric") } zablokovalo více než <b>{ $blockedCount }</b> sledovacích prvků.
+            }
+       *[other]
+            { $blockedCount ->
+                [one] Aplikace { -brand-short-name } od { DATETIME($date, month: "long", year: "numeric") } zablokovala více než jeden sledovací prvek.
+                [few] Aplikace { -brand-short-name } od { DATETIME($date, month: "long", year: "numeric") } zablokovala více než <b>{ $blockedCount }</b> sledovací prvky.
+               *[other] Aplikace { -brand-short-name } od { DATETIME($date, month: "long", year: "numeric") } zablokovala více než <b>{ $blockedCount }</b> sledovacích prvků.
+            }
     }
 cfr-doorhanger-milestone-ok-button = Zobrazit vše
     .accesskey = v
@@ -130,12 +141,12 @@ cfr-doorhanger-video-support-body =
        *[no-cases] V této verzi aplikace { -brand-short-name } se videa na tomto serveru nemusí přehrávat správně. Pro plnou podporu videí aplikaci { -brand-short-name } aktualizujte.
     }
 cfr-doorhanger-video-support-header =
-    Pro přehrání videa aktualizujte { -brand-short-name.gender ->
-        [masculine] svůj { -brand-short-name(case: "acc") }
-        [feminine] svou { -brand-short-name(case: "acc") }
-        [neuter] své { -brand-short-name(case: "acc") }
-       *[other] svou aplikaci { -brand-short-name }
-    }.
+    { -brand-short-name.gender ->
+        [masculine] Pro přehrání videa aktualizujte svůj { -brand-short-name(case: "acc") }.
+        [feminine] Pro přehrání videa aktualizujte svou { -brand-short-name(case: "acc") }.
+        [neuter] Pro přehrání videa aktualizujte své { -brand-short-name(case: "acc") }.
+       *[other] Pro přehrání videa aktualizujte svou aplikaci { -brand-short-name }.
+    }
 cfr-doorhanger-video-support-primary-button = Aktualizovat
     .accesskey = A
 

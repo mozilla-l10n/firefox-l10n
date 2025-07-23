@@ -12,9 +12,6 @@ about-webrtc-document-title = உள்சார்ந்த WebRTC
 # translated. This string is used as a title for a file save dialog box.
 about-webrtc-save-page-dialog-title = about:webrtc ஆக சேமி
 
-## These labels are for a disclosure which contains the information for closed PeerConnection sections
-
-
 ## AEC is an abbreviation for Acoustic Echo Cancellation.
 
 about-webrtc-aec-logging-msg-label = AEC பதிவிடல்
@@ -106,11 +103,6 @@ about-webrtc-log-section-hide-msg = பதிவை மறை
 about-webrtc-connection-open = [ { $browser-id } | { $id } ] { $url } { $now }
 about-webrtc-connection-closed = [ { $browser-id } | { $id } ] { $url } (மூடியது) { $now }
 
-## These are used to indicate what direction media is flowing.
-## Variables:
-##  $codecs - a list of media codecs
-
-
 ##
 
 about-webrtc-local-candidate = உள்ளமை வேட்பாளர்
@@ -126,23 +118,6 @@ about-webrtc-fold-default-hide-msg = விவரங்களை மறை
     .title = இப்பிரிவை சுருக்க சொடுக்கவும்
 about-webrtc-decoder-label = குறியவிழக்கி
 about-webrtc-encoder-label = குறியாக்கி
-
-## SSRCs are identifiers that represent endpoints in an RTP stream
-
-
-## These are displayed on the button that shows or hides the
-## PeerConnection configuration disclosure
-
-
-##
-
-
-## These are displayed on the button that shows or hides the
-## user modified configuration disclosure
-
-
-##
-
 
 ##
 
@@ -160,18 +135,3 @@ about-webrtc-save-page-complete-msg = { $path } என்பதில் பக�
 # Variables:
 #   $jitter (Number) - The jitter.
 about-webrtc-jitter-label = Jitter { $jitter }
-
-## "SDP" is an abbreviation for Session Description Protocol, an IETF standard.
-## See http://wikipedia.org/wiki/Session_Description_Protocol
-
-
-## These are displayed on the button that shows or hides the SDP information disclosure
-
-
-## These are displayed on the button that shows or hides the Media Context information disclosure.
-## The Media Context is the set of preferences and detected capabilities that informs
-## the negotiated CODEC settings.
-
-
-##
-

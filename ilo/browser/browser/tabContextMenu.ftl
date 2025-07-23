@@ -12,7 +12,3 @@ reload-tab =
 move-to-new-window =
     .label = Move to New Window
     .accesskey = W
-
-## Variables:
-##  $tabCount (Number): the number of tabs that are affected by the action.
-

@@ -19,9 +19,6 @@ mr1-onboarding-get-started-primary-button-label = Вовед
 
 return-to-amo-add-extension-label = Додадете ја наставката
 
-##  Variables: $addon-name (String) - Name of the add-on to be installed
-
-
 ## Multistage onboarding strings (about:welcome pages)
 
 
@@ -41,12 +38,6 @@ mr1-onboarding-theme-label-dark = Темна
 mr1-onboarding-theme-label-alpenglow = Alpenglow
 onboarding-theme-primary-button-label = Готово
 
-## Please make sure to split the content of the title attribute into lines whose
-## width corresponds to about 40 Latin characters, to ensure that the tooltip
-## doesn't become too long. Line breaks will be preserved when displaying the
-## tooltip.
-
-
 ## Strings for Thank You page
 
 mr2-onboarding-thank-you-header = Ви благодариме што не избравте
@@ -63,81 +54,3 @@ mr2-onboarding-start-browsing-button-label = Започнете со прели�
 
 onboarding-live-language-secondary-cancel-download = Откажи
 onboarding-live-language-skip-button-label = Прескокни
-
-## Firefox 100 Thank You screens
-
-
-## MR2022 New User Easy Setup screen strings
-
-
-## MR2022 New User Pin Firefox screen strings
-
-
-## MR2022 Existing User Pin Firefox Screen Strings
-
-
-## MR2022 New User Set Default screen strings
-
-
-## MR2022 Get Started screen strings.
-## These strings will be used on the welcome page
-## when Firefox is already set to default and pinned.
-
-
-## MR2022 Get Started screen strings.
-## These strings will be used on the welcome page
-## when Firefox is already set to default and pinned.
-
-
-## If your language uses grammatical genders, in the description for the
-## colorway feel free to switch from "You are a X. You…" (e.g. "You are a
-## Playmaker. You create…") to "X: you…" ("Playmaker: You create…"). This might
-## help creating a more inclusive translation.
-
-
-## MR2022 Multistage Mobile Download screen strings
-
-
-## MR2022 Upgrade Dialog screens
-## Pin private window screen shown only for users who don't have Firefox private pinned
-
-
-## MR2022 Privacy Segmentation screen strings
-
-
-## MR2022 Multistage Gratitude screen strings
-
-
-## Onboarding spotlight for infrequent users
-
-
-## MR2022 Illustration alt tags
-## Descriptive tags for illustrations used by screen readers and other assistive tech
-
-
-## Device migration onboarding
-
-
-## Add-ons Picker screen
-
-
-## The following screens have been updated to use security and privacy focused strings:
-
-
-## New user time and familiarity survey strings
-
-
-## UI strings for the sidebar and vertical tabs
-
-
-## New user onboarding checklist
-
-
-## Tab Groups feature onboarding strings
-
-
-## Multi Profiles feature onboarding messages
-
-
-## Desktop to Mobile Adoption feature callout strings
-

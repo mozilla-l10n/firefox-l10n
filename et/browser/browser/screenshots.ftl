@@ -47,10 +47,3 @@ screenshots-generic-error-details = Me pole kindlad, mis just juhtus. Proovid eh
 screenshots-component-retry-button =
     .title = Proovi ekraanipilti uuesti teha
     .aria-label = Proovi ekraanipilti uuesti teha
-
-## The below strings are used to capture keydown events so the strings should
-## not be changed unless the keyboard layout in the locale requires it.
-
-
-##
-

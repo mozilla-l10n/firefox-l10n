@@ -64,6 +64,3 @@ about-networking-moved-about-logging = Laman ini telah dipindahkan ke <a data-l1
 
 about-networking-networkid-is-up = Sambungan nyala
 about-networking-networkid-status-known = Status sambungan diketahui
-
-##
-

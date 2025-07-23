@@ -2,24 +2,6 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-
-# NOTE: For English locales, strings in this file should be in APA-style Title Case.
-# See https://apastyle.apa.org/style-grammar-guidelines/capitalization/title-case
-#
-# NOTE: For Engineers, please don't re-use these strings outside of the menubar.
-
-
-# NOTE: For English locales, strings in this file should be in APA-style Title Case.
-# See https://apastyle.apa.org/style-grammar-guidelines/capitalization/title-case
-#
-# NOTE: For Engineers, please don't reuse these strings outside of the menubar.
-
-
-## Application Menu (macOS only)
-
-
-##
-
 # These menu-quit strings are only used on Windows and Linux.
 menu-quit =
     .label =
@@ -144,9 +126,6 @@ menu-view-full-screen =
     .label = Pantalla kanu
     .accesskey = P
 
-## These menu items may use the same accesskey.
-
-
 ##
 
 menu-view-show-all-tabs =
@@ -182,9 +161,6 @@ menu-bookmarks-other =
     .label = Inka markador
 menu-bookmarks-mobile =
     .label = Markador kaa ndusu
-
-## Profiles Menu
-
 
 ## Tools Menu
 

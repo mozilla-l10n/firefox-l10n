@@ -33,9 +33,6 @@ download-cert-view-cert =
     .label = Nen
 download-cert-view-text = Pim waraga me CA
 
-## Client Authorization Ask dialog
-
-
 ## Client Authentication Ask dialog
 
 client-auth-window =
@@ -78,6 +75,3 @@ set-password-backup-pw =
 set-password-repeat-backup-pw =
     .value = Mung me donyo me waraga (doki):
 set-password-reminder = Pire tek: Ka wiyi owil ki mung me kano waraga, pe iromo dong gwoko man lacen.  Tim ber i ket rekod ne i kabedo ma ogwoke maber.
-
-## Protected authentication alert
-

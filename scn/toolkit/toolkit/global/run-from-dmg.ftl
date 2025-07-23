@@ -9,11 +9,3 @@
 ## user accepts.
 
 prompt-to-install-title = Vo’ cumplitari u nzitamentu di { -brand-short-name }?
-
-## Strings for a dialog that opens if the installation failed.
-
-
-## Strings for a dialog that recommends to the user to start an existing
-## installation of the app in the Applications directory if one is detected,
-## rather than the app that was double-clicked in a .dmg.
-

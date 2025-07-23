@@ -62,7 +62,3 @@ move-to-end =
 move-to-new-window =
     .label = కొత్త విండోకి తరలించు
     .accesskey = W
-
-## Variables:
-##  $tabCount (Number): the number of tabs that are affected by the action.
-

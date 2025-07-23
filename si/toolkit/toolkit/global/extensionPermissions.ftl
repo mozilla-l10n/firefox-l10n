@@ -30,16 +30,3 @@ webext-perms-description-tabs = අතිරික්සුවේ පටිත�
 webext-perms-description-tabHide = අතිරික්සුවේ පටිති සැඟවීම හා පෙන්වීම
 webext-perms-description-topSites = පිරික්සුම් ඉතිහාසයට ප්‍රවේශය
 webext-perms-description-webNavigation = යාත්‍රණය අතරතුර අතිරික්සුවේ ක්‍රියාකාරකම් වෙත ප්‍රවේශය
-
-## The userScripts permission includes an additional explanation that is
-## displayed prominently near the usual permission description.
-
-
-## Short form to be used in lists or in a string (`webext-perms-description-data-some`)
-## that formats some of the data collection permissions below using `Intl.ListFormat`.
-##
-## This is used when the data collection permissions are required.
-
-
-## Long form to be used in `about:addons` when these data collection permissions are optional.
-

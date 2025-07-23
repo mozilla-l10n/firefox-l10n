@@ -63,6 +63,3 @@ about-networking-moved-about-logging = Orri hau lekuz aldatu da <a data-l10n-nam
 
 about-networking-networkid-is-up = Konexioa aktibatuta dago
 about-networking-networkid-status-known = Konexioaren egoera ezaguna da
-
-##
-

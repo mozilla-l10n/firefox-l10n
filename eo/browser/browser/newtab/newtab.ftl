@@ -538,9 +538,6 @@ newtab-custom-wallpaper-title = Tie ĉi troviĝas personecigitaj ekranfonoj
 newtab-custom-wallpaper-subtitle = Alŝutu vian propran ekranfonon aŭ elektu koloron por personecigi { -brand-product-name }.
 newtab-custom-wallpaper-cta = Provi
 
-## Strings for new user activation custom wallpaper highlight
-
-
 ## Strings for download mobile highlight
 
 newtab-download-mobile-highlight-title = Elŝutu { -brand-product-name } por poŝaparatoj

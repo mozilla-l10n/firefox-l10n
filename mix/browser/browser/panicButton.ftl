@@ -10,10 +10,3 @@ panic-button-open-new-window = Kuna iin ventana tsaa
 
 panic-button-day =
     .label = 24 hora
-
-## These strings are combined to form a complete sentence starting with
-## panic-button-action-desc. For example: "Proceeding will: Delete Recent Cookies".
-## Please ensure that this remains the case in the translation.
-## Note also that some strings include <strong> tags for emphasis on the
-## words "Cookies", "History", "Tabs" and "Windows". The translation should do the same.
-

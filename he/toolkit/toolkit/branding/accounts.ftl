@@ -6,6 +6,6 @@
 # and kept in English.
 -fxaccount-brand-name =
     { $case ->
-       *[a] חשבון Firefox
         [the] חשבון ה־Firefox
+       *[a] חשבון Firefox
     }

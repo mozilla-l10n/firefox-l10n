@@ -51,11 +51,3 @@ about-reader-toolbar-savetopocket = Պահպանել { -pocket-brand-name }-ու
 
 about-reader-fxtheme-tab = Սկզբնադիր
 about-reader-customtheme-tab = Հարմարեցված
-
-## These are used as labels for the custom theme color pickers.
-## The .title element is used to make the editing functionality
-## clear and give context for screen reader users.
-
-
-## Reader View text and layout menu
-

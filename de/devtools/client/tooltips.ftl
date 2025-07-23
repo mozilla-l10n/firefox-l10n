@@ -10,14 +10,6 @@ learn-more = <span data-l10n-name="link">Weitere Informationen</span>
 ## In the Rule View when a CSS property cannot be successfully applied we display
 ## an icon. When this icon is hovered this message is displayed to explain why
 ## the property is not applied.
-## Variables:
-##   $property (string) - A CSS property name e.g. "color".
-##   $display (string) - A CSS display value e.g. "inline-block".
-
-
-## In the Rule View when a CSS property cannot be successfully applied we display
-## an icon. When this icon is hovered this message is displayed to explain why
-## the property is not applied.
 ## The variables are all passed from the same place, in `InactiveCssTooltipHelper#getTemplate`
 ## (devtools/client/shared/widgets/tooltip/inactive-css-tooltip-helper.js#95)
 ## Variables:
@@ -73,8 +65,8 @@ inactive-css-cue-pseudo-element-not-supported = <strong>{ $property }</strong> w
 #   $lineCount (integer) - The number of lines the element has.
 inactive-css-text-wrap-balance-lines-exceeded =
     { $lineCount ->
-        [one] 	<strong>{ $property }</strong> hat bei diesem Element keine Wirkung, weil es mehr als { $lineCount } Zeile hat.
-       *[other] 	<strong>{ $property }</strong> hat bei diesem Element keine Wirkung, weil es mehr als { $lineCount } Zeilen hat.
+        [one] { "\u0009" }<strong>{ $property }</strong> hat bei diesem Element keine Wirkung, weil es mehr als { $lineCount } Zeile hat.
+       *[other] { "\u0009" }<strong>{ $property }</strong> hat bei diesem Element keine Wirkung, weil es mehr als { $lineCount } Zeilen hat.
     }
 inactive-css-text-wrap-balance-fragmented = <strong>{ $property }</strong> hat bei diesem Element keine Wirkung, weil es fragmentiert ist, d.h. sein Inhalt ist über mehrere Spalten oder Seiten verteilt.
 inactive-css-no-width-height = <strong>{ $property }</strong> hat bei diesem Element keine Wirkung, weil seine Breite und Höhe nicht gesetzt werden kann.

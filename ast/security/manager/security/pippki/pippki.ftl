@@ -17,15 +17,6 @@ pippki-pw-empty-warning = Nun van protexese les contraseñes y claves privaes qu
 pippki-pw-erased-ok = Desaniciesti la contraseña. { pippki-pw-empty-warning }
 pippki-pw-not-wanted = ¡Alvertencia! Decidiesti nun usar una contraseña. { pippki-pw-empty-warning }
 
-## Reset Primary Password dialog
-
-
-## Downloading cert dialog
-
-
-## Client Authorization Ask dialog
-
-
 ## Client Authentication Ask dialog
 
 client-auth-window =
@@ -53,9 +44,3 @@ client-auth-cert-details-issued-by = Emitióse por: { $issuedBy }
 client-auth-cert-details-stored-on = Atroxóse en: { $storedOn }
 client-auth-cert-remember-box =
     .label = Acordase d'esta decisión
-
-## Set password (p12) dialog
-
-
-## Protected authentication alert
-

@@ -47,9 +47,6 @@ download-cert-view-cert =
     .label = Տեսք
 download-cert-view-text = Ոսումնասիրել ԱՀ (CA) Վկայագիրը
 
-## Client Authorization Ask dialog
-
-
 ## Client Authentication Ask dialog
 
 client-auth-window =
@@ -95,6 +92,3 @@ set-password-backup-pw =
 set-password-repeat-backup-pw =
     .value = Վկայագրի Կրկնօրինակի Գաղտնաբառը (նորից).
 set-password-reminder = Կարևոր է. Եթե մոռանաք ձեր Վկայագրի կրկնօրինակի գաղտնաբառը. ի վիճակի չեք լինի այս կրկնօրինակն օգտագործել: Խնդրեմ, այն գրի առեք և ապահով տեղ պահեք:
-
-## Protected authentication alert
-

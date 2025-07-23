@@ -4,10 +4,6 @@
 
 addons-page-title = Msimamizi Kifaa cha Nyongeza
 
-## Variables
-##   $domain - Domain name where add-ons are available (e.g. addons.mozilla.org)
-
-
 ##
 
 list-empty-installed =
@@ -141,29 +137,6 @@ addon-install-from-file = Sakinisha Vifaa vya nyongeza Kutoka kwa Fail…
 addon-install-from-file-dialog-title = Chagua kifaa cha nyongeza cha kusakinishwa
 addon-install-from-file-filter-name = Vifaa vya nyongeza
 
-## Extension shortcut management
-
-
-## Recommended add-ons page
-
-
-## Add-on actions
-
-
-## Pending uninstall message bar
-
-
-## "sites with restrictions" (internally called "quarantined") are special domains
-## where add-ons are normally blocked for security reasons.
-
-
-## This is the tooltip text for the recommended badges for an extension in about:addons. The
-## badge is a small icon displayed next to an extension when it is recommended on AMO.
-
-
-##
-
-
 ## Page headings
 
 addon-page-options-button =
@@ -188,13 +161,3 @@ details-notification-softblocked = { $name } inajulikana kusababisha usalama au 
 details-notification-softblocked2 =
     .message = { $name } inajulikana kusababisha usalama au mambo ya uthabiti.
 details-notification-softblocked-link = Maelezo Zaidi
-
-## Gecko Media Plugins (GMPs)
-
-
-## Headings for the Permissions tab in `about:addons` when the data collection
-## feature is enabled.
-
-
-## Mapping Engine IDs from AI models to how that feature represented by the engine Id is described in the used by section in local model management
-

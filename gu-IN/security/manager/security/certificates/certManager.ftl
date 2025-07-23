@@ -131,9 +131,6 @@ delete-email-cert-impact = જો તમે વ્યક્તિનું ઈ-�
 cert-with-serial =
     .value = અનુક્રમ નંબર સાથે પ્રમાણપત્ર: { $serialNumber }
 
-## Used to show whether an override is temporary or permanent
-
-
 ## Add Security Exception dialog
 
 add-exception-branded-warning = કેવી રીતે { -brand-short-name } સાઈટો ઓળખે છે તેના ઉપર તમે ફરીથી લખવા જઈ રહ્યા છો.

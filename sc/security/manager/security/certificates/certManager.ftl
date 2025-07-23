@@ -80,15 +80,6 @@ exception-mgr-cert-status-view-cert =
     .accesskey = V
 pk11-bad-password = Sa crae insertada no est curreta.
 
-## PKCS#12 file dialogs
-
-
-## Import certificate(s) file dialog
-
-
-## For editing certificates trust
-
-
 ## For Deleting Certificates
 
 delete-user-cert-title =
@@ -100,9 +91,6 @@ delete-email-cert-title =
     .title = Cantzella is tzertificados de posta eletrònica
 # When a certificate is unavailable (for example, it has been deleted or the token it exists on has been removed).
 certificate-not-available = (no a disponimentu)
-
-## Used to show whether an override is temporary or permanent
-
 
 ## Add Security Exception dialog
 

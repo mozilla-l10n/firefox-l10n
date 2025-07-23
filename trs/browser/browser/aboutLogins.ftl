@@ -309,16 +309,3 @@ about-logins-import-dialog-error-cancel = Dūyichin\'
 # Variables:
 #  $number (number) - The number of the row
 about-logins-import-report-row-index = Dukuáan { $number }
-
-##
-## Variables:
-##  $field (String) - The name of the field from the CSV file for example url, username or password
-
-
-##
-## Variables:
-##  $count (number) - The number of affected elements
-
-
-## Logins import report page
-

@@ -17,13 +17,3 @@ update-checkingForUpdates = Kipepeta su muyankwilia…
 ##   $transfer (string) - Transfer progress.
 
 settings-update-downloading = <img data-l10n-name="icon"/>Mutemultia ne tayankwililis — <label data-l10n-name="download-status">{ $transfer }</label>
-
-##
-
-
-## Variables:
-##   $displayUrl (String): URL to page with download instructions. Example: www.mozilla.org/firefox/nightly/
-
-
-##
-

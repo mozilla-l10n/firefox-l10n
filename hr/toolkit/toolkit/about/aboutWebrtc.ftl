@@ -12,9 +12,6 @@ about-webrtc-document-title = WebRTC Internals
 # translated. This string is used as a title for a file save dialog box.
 about-webrtc-save-page-dialog-title = spremi about:webrtc kao
 
-## These labels are for a disclosure which contains the information for closed PeerConnection sections
-
-
 ## AEC is an abbreviation for Acoustic Echo Cancellation.
 
 about-webrtc-aec-logging-msg-label = AEC zapisnik
@@ -149,9 +146,6 @@ about-webrtc-time-elapsed = Proteklo vrijeme (s)
 about-webrtc-estimated-framerate = Procijenjena brzina okvira
 about-webrtc-rotation-degrees = Okretanje (u stupnjevima)
 
-## SSRCs are identifiers that represent endpoints in an RTP stream
-
-
 ## These are displayed on the button that shows or hides the
 ## PeerConnection configuration disclosure
 
@@ -230,10 +224,6 @@ about-webrtc-sent-label =
 #   $jitter (Number) - The jitter.
 about-webrtc-jitter-label = Jitter { $jitter }
 
-## "SDP" is an abbreviation for Session Description Protocol, an IETF standard.
-## See http://wikipedia.org/wiki/Session_Description_Protocol
-
-
 ## These are displayed on the button that shows or hides the SDP information disclosure
 
 about-webrtc-show-msg-sdp = Prikaži SDP
@@ -246,6 +236,3 @@ about-webrtc-hide-msg-sdp = Sakrij SDP
 about-webrtc-media-context-show-msg = Prikaži kontekst medija
 about-webrtc-media-context-hide-msg = Sakrij kontekst medija
 about-webrtc-media-context-heading = Kontekst medija
-
-##
-

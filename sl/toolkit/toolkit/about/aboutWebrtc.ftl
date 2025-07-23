@@ -190,10 +190,6 @@ about-webrtc-configuration-element-not-provided = Ni podano
 # The options set by the user in about:config that could impact a WebRTC call
 about-webrtc-custom-webrtc-configuration-heading = Uporabniške nastavitve WebRTC
 
-## These are displayed on the button that shows or hides the
-## user modified configuration disclosure
-
-
 ##
 
 # Section header for estimated bandwidths of WebRTC media flows
@@ -300,11 +296,3 @@ about-webrtc-sdp-set-timestamp = Časovni žig { NUMBER($timestamp, useGrouping:
 
 about-webrtc-show-msg-sdp = Prikaži SDP
 about-webrtc-hide-msg-sdp = Skrij SDP
-
-## These are displayed on the button that shows or hides the Media Context information disclosure.
-## The Media Context is the set of preferences and detected capabilities that informs
-## the negotiated CODEC settings.
-
-
-##
-

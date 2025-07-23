@@ -12,9 +12,6 @@ about-webrtc-document-title = Detalls interns de WebRTC
 # translated. This string is used as a title for a file save dialog box.
 about-webrtc-save-page-dialog-title = anomena i guarda l'eixida d'about:webrtc
 
-## These labels are for a disclosure which contains the information for closed PeerConnection sections
-
-
 ## AEC is an abbreviation for Acoustic Echo Cancellation.
 
 about-webrtc-aec-logging-msg-label = Registre d'AEC
@@ -102,11 +99,6 @@ about-webrtc-log-section-hide-msg = Amaga el registre
 about-webrtc-connection-open = [ { $browser-id } | { $id } ] { $url } { $now }
 about-webrtc-connection-closed = [ { $browser-id } | { $id } ] { $url } (tancat) { $now }
 
-## These are used to indicate what direction media is flowing.
-## Variables:
-##  $codecs - a list of media codecs
-
-
 ##
 
 about-webrtc-local-candidate = Candidat local
@@ -122,23 +114,6 @@ about-webrtc-fold-default-hide-msg = Amaga els detalls
     .title = Clic per reduir esta secció
 about-webrtc-decoder-label = Descodificador
 about-webrtc-encoder-label = Codificador
-
-## SSRCs are identifiers that represent endpoints in an RTP stream
-
-
-## These are displayed on the button that shows or hides the
-## PeerConnection configuration disclosure
-
-
-##
-
-
-## These are displayed on the button that shows or hides the
-## user modified configuration disclosure
-
-
-##
-
 
 ##
 
@@ -156,18 +131,3 @@ about-webrtc-save-page-complete-msg = La pàgina s'ha guardat a: { $path }
 # Variables:
 #   $jitter (Number) - The jitter.
 about-webrtc-jitter-label = Jitter { $jitter }
-
-## "SDP" is an abbreviation for Session Description Protocol, an IETF standard.
-## See http://wikipedia.org/wiki/Session_Description_Protocol
-
-
-## These are displayed on the button that shows or hides the SDP information disclosure
-
-
-## These are displayed on the button that shows or hides the Media Context information disclosure.
-## The Media Context is the set of preferences and detected capabilities that informs
-## the negotiated CODEC settings.
-
-
-##
-

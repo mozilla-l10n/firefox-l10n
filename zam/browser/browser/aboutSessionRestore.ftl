@@ -11,6 +11,3 @@ restore-page-tab-title = Veré cé mtetey
 restore-page-window-label = Window { $windowNumber }
 restore-page-restore-header =
     .label = bí~rè là kíy
-
-## The following strings are used in about:welcomeback
-

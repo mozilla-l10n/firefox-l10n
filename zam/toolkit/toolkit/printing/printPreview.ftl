@@ -13,8 +13,3 @@ printpreview-print =
 printpreview-page-setup =
     .label = Thus kue koo güil lo internet
     .accesskey = k
-
-## Variables
-## $percent (integer) - menuitem percent label
-## $arrow (String) - UTF-8 arrow character for navigation buttons
-

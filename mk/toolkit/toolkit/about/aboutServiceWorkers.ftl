@@ -11,10 +11,3 @@ about-service-workers-title = За Service Workers
 # Variables:
 #   $originTitle: original title
 origin-title = Потекло: { $originTitle }
-
-## These strings are for showing the information of workers.
-##
-## Variables:
-##  $name: the name of scope, active cache, waiting cache and the push end point.
-##  $url: the url of script specification and current worker.
-

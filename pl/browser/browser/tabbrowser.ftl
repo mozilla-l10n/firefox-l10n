@@ -246,7 +246,9 @@ tabbrowser-manager-current-window-tab-group =
     .label = { $tabGroupName }
     .tooltiptext = { $tabGroupName } — bieżące okno
 
-## Tab Groups
+## Variables:
+##  $tabGroupName (String): The name of the tab group. Defaults to the value
+##                          of tab-group-name-default.
 
 tab-group-editor-title-create = Utwórz grupę kart
 tab-group-editor-title-edit = Zarządzaj grupą kart
@@ -276,16 +278,12 @@ tab-group-editor-color-selector2-gray = Szary
     .title = Szary
 tab-group-editor-color-selector2-red = Czerwony
     .title = Czerwony
-# Variables:
-#  $tabGroupName (String): The name of the tab group. Defaults to the value
-#                          of tab-group-name-default.
 tab-group-description = { $tabGroupName } — grupa kart
 tab-context-unnamed-group =
     .label = Grupa bez nazwy
 tab-group-name-default = Grupa bez nazwy
 
-## Variables:
-##  $tabCount (Number): the number of tabs that are affected by the action.
+##
 
 tab-context-move-tab-to-new-group =
     .label =

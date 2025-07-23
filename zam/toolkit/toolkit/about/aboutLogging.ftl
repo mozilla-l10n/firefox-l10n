@@ -5,13 +5,3 @@
 about-logging-log-tutorial = Güí <a data-l10n-name="logging">HTTP Logging</a> for instructions on how to use this tool.
 about-logging-start-logging = Ngót~tòɁ Logging
 about-logging-stop-logging = Ngót~tòɁ Logging
-
-## Logging presets
-
-
-##
-
-
-## The upload interface is shown only with the preference toolkit.aboutLogging.uploadProfileToCloud
-## set to true. It is false by default, except on Android.
-

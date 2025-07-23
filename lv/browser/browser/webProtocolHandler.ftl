@@ -10,6 +10,3 @@ protocolhandler-mailto-os-handler-no-button = Ne tagad
 
 protocolhandler-mailto-handler-set = Vai izmantot <strong>{ -brand-short-name }, lai atvērtu vietni { $url }</strong> katru reizi, kad noklikšķināt uz saites, kas atver e-pastu?
 protocolhandler-mailto-handler-confirm = <strong>{ -brand-short-name } tiks atvērts { $url }</strong> ikreiz, kad noklikšķināsiet uz saites, kas nosūta e-pastu.
-
-##
-

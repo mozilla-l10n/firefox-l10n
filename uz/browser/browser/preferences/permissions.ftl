@@ -46,15 +46,6 @@ permissions-capabilities-listitem-allow-session =
 permissions-invalid-uri-title = Notogʻri host nomi kiritilgan
 permissions-invalid-uri-label = Iltimos, toʻgʻri host nomini kiriting
 
-## Exceptions - Tracking Protection
-
-
-## Exceptions - Cookies
-
-
-## Exceptions - HTTPS-Only Mode
-
-
 ## Exceptions - Pop-ups
 
 permissions-exceptions-popup-desc = Siz xohlagan vebsaytlaringizga paydo boʻluvchi oynalarni ochishiga ruxsat berishingiz mumkin. Ruxsat bermoqchi boʻlgan saytingiz manzilini yozing va "Ruxsat berish" tugmasini bosing.
@@ -65,32 +56,6 @@ permissions-exceptions-saved-logins-window2 =
     .title = Istisnolar - saqlangan taxalluslar
     .style = { permissions-window2.style }
 
-## Exceptions - Saved Passwords
-
-
 ## Exceptions - Add-ons
 
 permissions-exceptions-addons-desc = Siz xohlagan vebsaytingizga qoʻshimcha dasturlarni oʻrnatishga ruxsat berishingiz mumkin. Ruxsat bermoqchi boʻlgan saytingiz nomini yozing va "Ruxsat berish"ni bosing.
-
-## Site Permissions - Autoplay
-
-
-## Site Permissions - Notifications
-
-
-## Site Permissions - Location
-
-
-## Site Permissions - Virtual Reality
-
-
-## Site Permissions - Camera
-
-
-## Site Permissions - Microphone
-
-
-## Site Permissions - Speaker
-##
-## "Speaker" refers to an audio output device.
-

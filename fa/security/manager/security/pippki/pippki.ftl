@@ -33,9 +33,6 @@ download-cert-view-cert =
     .label = نمایش
 download-cert-view-text = بررسی گواهی مرجع صدور
 
-## Client Authorization Ask dialog
-
-
 ## Client Authentication Ask dialog
 
 client-auth-window =
@@ -78,6 +75,3 @@ set-password-backup-pw =
 set-password-repeat-backup-pw =
     .value = گذرواژهٔ پشتیبان گواهی (دوباره وارد کنید):
 set-password-reminder = مهم: اگر گذرواژهٔ پشتیبان گواهی‌تان را فراموش کنید، بغداً قادر نخواهید بود از این پشتیبان برای بازگرداندن سیستم به حالت قدیم استقاده کنید. لطفاً گذرواژه را در محل امنی ضبط کنید.
-
-## Protected authentication alert
-

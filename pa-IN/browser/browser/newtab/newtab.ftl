@@ -541,9 +541,6 @@ newtab-custom-wallpaper-title = ਪਸੰਦੀਦਾ ਵਾਲਪੇਪਰ ਇ�
 newtab-custom-wallpaper-subtitle = { -brand-product-name } ਨੂੰ ਆਪਣਾ ਬਣਾਉਣ ਵਾਸਤੇ ਖੁਦ ਦਾ ਵਾਲਪੇਪਰ ਅੱਪਲੋਡ ਕਰੋ ਜਾਂ ਕਸਟਮ ਰੰਗ ਚੁਣੋ।
 newtab-custom-wallpaper-cta = ਅਜ਼ਮਾਓ
 
-## Strings for new user activation custom wallpaper highlight
-
-
 ## Strings for download mobile highlight
 
 newtab-download-mobile-highlight-title = ਮੋਬਾਈਲ ਲਈ { -brand-product-name } ਨੂੰ ਡਾਊਨਲੋਡ ਕਰੋ

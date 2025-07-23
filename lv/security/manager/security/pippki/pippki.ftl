@@ -33,9 +33,6 @@ download-cert-view-cert =
     .label = Apskatīt
 download-cert-view-text = Apskatīt CA sertifikātu
 
-## Client Authorization Ask dialog
-
-
 ## Client Authentication Ask dialog
 
 client-auth-window =
@@ -78,6 +75,3 @@ set-password-backup-pw =
 set-password-repeat-backup-pw =
     .value = Sertifikāta rezerves kopijas parole (vēlreiz):
 set-password-reminder = Svarīgi: Ja aizmirsīsiet šo paroli, nevarēsiet atjaunot šo rezerves kopiju. Lūdzu saglabājiet to drošā vietā.
-
-## Protected authentication alert
-

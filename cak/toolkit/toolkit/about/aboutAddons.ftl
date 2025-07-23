@@ -478,10 +478,3 @@ plugins-openh264-name = Rucholajinel silowachib'äl OpenH264 talun ruma Cisco Sy
 plugins-openh264-description = Re nak'ab'äl re' niyak ruma ri Mozilla pa ruyonil, richin nojqäx ri rub'anikil WebRTC, ruma nuya' q'ij chi ke ri WebRTC taq oyonïk rik'in okisaxel rajowaxik chi ke ri H.264 rucholajinel silowachib'äl. Kab'etz'eton pa http://www.openh264.org/ richin natz'ët ri rucholajil ruxe' ri codec chuqa' richin nawetamaj ch'aqa' chik chi rij re samajib'äl.
 plugins-widevine-name = Widevine juperaj etaman rusik'ixik chi rupam ri Google Inc.
 plugins-widevine-description = Re nak'ab'äl re nutzïj ri rutzijoj k'ïy k'oxom ewan rusik'ixik, achi'el nichol pa Encrypted Media Extensions. Ri ewan rusik'ixik k'ïy k'oxom jutaqil nokisäx pa taq ruxaq  richin yechajij ri taq ruwachib'al kipam taq k'ïy k'oxom premium. Tab'etz'eta' https://www.w3.org/TR/encrypted-media/ richin nawetamaj ch'aqa' chik chi rij Encrypted Media Extensions.
-
-## Headings for the Permissions tab in `about:addons` when the data collection
-## feature is enabled.
-
-
-## Mapping Engine IDs from AI models to how that feature represented by the engine Id is described in the used by section in local model management
-

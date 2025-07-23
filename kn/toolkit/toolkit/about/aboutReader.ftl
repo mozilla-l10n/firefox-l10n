@@ -5,9 +5,6 @@
 about-reader-loading = ಲೋಡ್ ಆಗುತ್ತಿದೆ…
 about-reader-load-error = ಲೇಖನವನ್ನು ಪುಟದಿಂದ ತುಂಬಿಸುಲಾಗಲಿಲ್ಲ
 
-## Reader View text and layout menu
-
-
 ## These are the styles of typeface that are options in the reader view controls.
 
 about-reader-font-type-serif = ಸೆರಿಫ್
@@ -17,14 +14,3 @@ about-reader-font-type-sans-serif = ಸಾನ್ಸ್‍-ಸೆರಿಫ್
 
 about-reader-toolbar-close = ಓದುಗ ನೋಟ ಮುಚ್ಚು
 about-reader-toolbar-type-controls = ಶೈಲಿ ನಿಯಂತ್ರಣಗಳು
-
-## Reader View colors menu
-
-
-## These are used as labels for the custom theme color pickers.
-## The .title element is used to make the editing functionality
-## clear and give context for screen reader users.
-
-
-## Reader View text and layout menu
-

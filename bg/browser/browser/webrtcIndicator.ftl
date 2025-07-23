@@ -39,11 +39,6 @@ webrtc-stop-sharing-button = Спиране на споделянето
 webrtc-minimize =
     .title = Минимизиране на индикатора
 
-## These strings will display as a tooltip on supported systems where we show
-## device sharing state in the OS notification area. We do not use these strings
-## on macOS, as global menu bar items do not have native tooltips.
-
-
 ## Tooltips used by the legacy global sharing indicator
 
 webrtc-indicator-sharing-camera-and-microphone =
@@ -64,7 +59,7 @@ webrtc-indicator-sharing-browser =
 ## These strings are only used on Mac for menus attached to icons
 ## near the clock on the mac menubar.
 ## Variables:
-##   $streamTitle (String): the title of the tab using the share.
+##   $streamTitle (String): the host of the tab using the share.
 ##   $tabCount (Number): the title of the tab using the share.
 
 webrtc-indicator-menuitem-control-sharing =
@@ -122,10 +117,6 @@ webrtc-indicator-menuitem-sharing-browser-with-n-tabs =
            *[other] Споделяте прозорец с { $tabCount } раздела
         }
 
-## Variables:
-##   $origin (String): the website origin (e.g. www.mozilla.org).
-
-
 ## Special phrasing for sharing devices when the origin is a file url.
 
 # "Speakers" is used in a general sense that might include headphones or
@@ -134,11 +125,6 @@ webrtc-allow-share-speaker-with-file = Разрешавате ли на този
 webrtc-allow-share-camera-and-microphone-with-file = Разрешавате ли на този файл от вашия компютър да използва вашата камера и микрофон?
 webrtc-allow-share-camera-and-audio-capture-with-file = Разрешавате ли на този файл от вашия компютър да използва вашата камера и да слуша звука от този раздел?
 webrtc-allow-share-screen-and-microphone-with-file = Разрешавате ли на този файл от вашия компютър да използва микрофона и да вижда екрана ви?
-
-## Variables:
-##   $origin (String): the first party origin.
-##   $thirdParty (String): the third party origin.
-
 
 ##
 

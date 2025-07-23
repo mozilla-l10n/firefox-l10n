@@ -246,10 +246,6 @@ mr2022-onboarding-mobile-download-subtitle = Вземете разделите �
 mr2022-onboarding-mobile-download-cta-text = Сканирайте QR кода, за да получите { -brand-product-name } за мобилно устройство или <a data-l10n-name="download-label">изпратете си връзка за изтегляне.</a>
 mr2022-onboarding-no-mobile-download-cta-text = Сканирайте QR кода, за да получите { -brand-product-name } за мобилни устройства.
 
-## MR2022 Upgrade Dialog screens
-## Pin private window screen shown only for users who don't have Firefox private pinned
-
-
 ## MR2022 Privacy Segmentation screen strings
 
 mr2022-onboarding-privacy-segmentation-title = Ние винаги уважаваме вашата поверителност
@@ -318,15 +314,6 @@ onboarding-existing-vertical-tabs-label = Изпробвайте вертика�
 # Additional setup card for setting up aichatbot in the sidebar
 onboarding-genai-sidebar-title = Опитайте чатбот с AI в страничната лента
 
-## New user onboarding checklist
-
-
-## Tab Groups feature onboarding strings
-
-
 ## Multi Profiles feature onboarding messages
 
 multi-profile-spotlight-cta = Създаване на профил
-
-## Desktop to Mobile Adoption feature callout strings
-

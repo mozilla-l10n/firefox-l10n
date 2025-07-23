@@ -72,9 +72,6 @@ toolbar-button-stop =
 toolbar-button-stop-reload =
     .title = { main-context-menu-reload.aria-label }
 
-## Firefox Account Button
-
-
 ## Account toolbar Button
 
 toolbar-button-account =
@@ -212,9 +209,6 @@ main-context-menu-save-to-pocket =
 main-context-menu-send-to-device =
     .label = Seol an Leathanach chuig Gléas
     .accesskey = G
-
-##
-
 
 ##
 

@@ -524,9 +524,6 @@ newtab-custom-wallpaper-title = Mbërritën sfonde vetjake
 newtab-custom-wallpaper-subtitle = Ngarkoni sfondin tuaj vetjak, ose zgjidhni një ngjyrë vetjake, për ta bërë { -brand-product-name }-in si e doni.
 newtab-custom-wallpaper-cta = Provojeni
 
-## Strings for new user activation custom wallpaper highlight
-
-
 ## Strings for download mobile highlight
 
 newtab-download-mobile-highlight-title = Shkarkoni { -brand-product-name } për celular
@@ -536,9 +533,6 @@ newtab-download-mobile-highlight-body-variant-b = Vazhdoni ku e lata, kur njëko
 newtab-download-mobile-highlight-body-variant-c = E dinit se mund ta merrni { -brand-product-name } me vete kudo që gjendeni? Po ai shfletues. Në xhep.
 newtab-download-mobile-highlight-image =
     .aria-label = Kod QR për të shkarkuar { -brand-product-name } për celular
-
-## Strings for shortcuts highlight
-
 
 ## Strings for reporting ads and content
 
@@ -562,6 +556,3 @@ newtab-report-cancel = Anuloje
 newtab-report-submit = Parashtroje
 newtab-toast-thanks-for-reporting =
     .message = Faleminderit për njoftimin rreth kësaj.
-
-## Strings for trending searches
-

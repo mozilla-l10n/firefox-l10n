@@ -20,22 +20,10 @@ perftools-heading-threads-jvm = JVM-þræðir
 
 ##
 
-
-## The controls for the interval at which the profiler samples the code.
-
-
-##
-
 # The size of the memory buffer used to store things in the profiler.
 perftools-range-entries-label = Stærð biðminnis:
 perftools-devtools-threads-label = Þræðir:
 perftools-devtools-settings-label = Stillingar
-
-## Various statuses that affect the current state of profiling, not typically displayed.
-
-
-## These are shown briefly when the user is waiting for the profiler to respond.
-
 
 ##
 
@@ -43,15 +31,6 @@ perftools-button-restart = Endurræsa
 perftools-button-add-directory = Bæta við möppu
 perftools-button-remove-directory = Fjarlægja valið
 perftools-button-edit-settings = Breyta stillingum…
-
-## More actions menu
-
-
-## These messages are descriptions of the threads that can be enabled for the profiler.
-
-
-##
-
 
 ## Onboarding UI labels. These labels are displayed in the new performance panel UI, when
 ## devtools.performance.new-panel-onboarding preference is true.
@@ -83,6 +62,3 @@ perftools-presets-networking-description = Sú forstilling sem mælt er með til
 perftools-presets-power-label = Orka
 perftools-presets-power-description = Forstilling til að rannsaka orkunotkunarvillur í { -brand-shorter-name }, með lágum afkastakostnaði.
 perftools-presets-custom-label = Sérsniðið
-
-##
-

@@ -42,28 +42,6 @@ appmenu-remote-tabs-unverified = Esabıñız doğrulanmağa muhtac.
 appmenuitem-save-page =
     .label = Saifeni Şöyle Saqla…
 
-## What's New panel in App menu.
-
-
-## The Firefox Profiler – The popup is the UI to turn on the profiler, and record
-## performance profiles. To enable it go to profiler.firefox.com and click
-## "Enable Profiler Menu Button".
-
-
-## Profiler presets
-## They are shown in the popup's select box.
-
-
-# Presets and their l10n IDs are defined in the file
-# devtools/client/performance-new/shared/background.jsm.js
-# Please take care that the same values are also defined in devtools' perftools.ftl.
-
-
-# Presets and their l10n IDs are defined in the file
-# devtools/client/performance-new/shared/background.sys.mjs
-# Please take care that the same values are also defined in devtools' perftools.ftl.
-
-
 ## History panel
 
 appmenu-restore-session =
@@ -84,10 +62,6 @@ appmenu-about =
 appmenu-help-report-site-issue =
     .label = Sayt Mes'elesini Maruzala…
 
-## appmenu-help-enter-troubleshoot-mode and appmenu-help-exit-troubleshoot-mode
-## are mutually exclusive, so it's possible to use the same accesskey for both.
-
-
 ## appmenu-help-report-deceptive-site and appmenu-help-not-deceptive
 ## are mutually exclusive, so it's possible to use the same accesskey for both.
 
@@ -97,12 +71,3 @@ appmenu-help-report-deceptive-site =
 appmenu-help-not-deceptive =
     .label = Bu, yañıltıcı bir sayt degildir…
     .accesskey = d
-
-## More Tools
-
-
-## Panel for privacy and security products
-
-
-## Profiles panel
-

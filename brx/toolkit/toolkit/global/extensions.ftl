@@ -13,9 +13,6 @@
 webext-perms-header = दाजाबदेर { $extension }?
 webext-perms-sideload-header = { $extension } दाजाबदेरबाय
 
-## Headers used in the webextension permissions dialog, inside the content.
-
-
 ##
 
 webext-perms-add =
@@ -36,30 +33,3 @@ webext-perms-update-accept =
 webext-perms-optional-perms-allow =
     .label = गनायथि हो
     .accesskey = A
-
-## Strings for data collection permissions in the permission prompt.
-
-
-## Headers used in the webextension permissions dialog for synthetic add-ons.
-## The part of the string describing what privileges the extension gives should be consistent
-## with the value of webext-site-perms-description-gated-perms-{sitePermission}.
-## Note, this string will be used as raw markup. Avoid characters like <, >, &
-## Variables:
-##   $hostname (String): the hostname of the site the add-on is being installed from.
-
-
-##
-
-
-## Headers used in the webextension permissions dialog.
-## Note: This string will be used as raw markup. Avoid characters like <, >, &
-## Variables:
-##   $extension (String): replaced with the localized name of the extension being installed.
-##   $hostname (String): will be replaced by the DNS host name for which a webextension enables permissions.
-
-
-## These should remain in sync with permissions.NAME.label in sitePermissions.properties
-
-
-## Colorway theme migration
-

@@ -99,13 +99,6 @@ security-view-technical =
 help-button =
     .label = मदति
 
-## These strings are used to tell the user if the website is storing cookies
-## and data on the users computer in the security tab of pageInfo
-## Variables:
-##   $value (number) - Amount of data being stored
-##   $unit (string) - The unit of data being stored (Usually KB)
-
-
 ##
 
 image-size-unknown = अज्ञात

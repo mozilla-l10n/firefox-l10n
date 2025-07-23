@@ -34,10 +34,3 @@ screenshots-private-window-error-title = ব্যক্তিগত ব্ৰ�
 screenshots-private-window-error-details = অসুবিধাৰ বাবে ক্ষমা কৰিব। আমি ভৱিষ্যতৰ সংস্কৰণসমূহৰ বাবে এই সুবিধাৰ ওপৰত কাম কৰি আছোঁ।
 screenshots-generic-error-title = উস্‌! { -screenshots-brand-name }-এ খেলিমেলি কৰিছে।
 screenshots-generic-error-details = আমি ভালকৈ গম নাপাওঁ এইমাত্ৰ কি হ'ল। আকৌ চেষ্টা কৰিবলৈ বা বেলেগ এখন পৃষ্ঠাৰ শ্বট ল'বলৈ যত্ন কৰিবনে?
-
-## The below strings are used to capture keydown events so the strings should
-## not be changed unless the keyboard layout in the locale requires it.
-
-
-##
-

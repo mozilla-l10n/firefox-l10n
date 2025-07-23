@@ -7,10 +7,6 @@ search-header =
     .placeholder = Nana'uì' addons.mozilla.org
     .searchbuttonlabel = Nana'uì'
 
-## Variables
-##   $domain - Domain name where add-ons are available (e.g. addons.mozilla.org)
-
-
 ##
 
 list-empty-installed =
@@ -339,10 +335,6 @@ addon-detail-private-browsing-help = Sisi ga'nïn, ekstensiûn nan ga'ue ni'iaj 
 addon-detail-private-browsing-allow = Ga'nïn
 addon-detail-private-browsing-disallow = Si ga'nï'
 
-## "sites with restrictions" (internally called "quarantined") are special domains
-## where add-ons are normally blocked for security reasons.
-
-
 ## This is the tooltip text for the recommended badges for an extension in about:addons. The
 ## badge is a small icon displayed next to an extension when it is recommended on AMO.
 
@@ -416,10 +408,3 @@ plugins-gmp-privacy-info = Nuguan hua huii
 plugins-openh264-name = Sa ni'io' OpenH264digan Cisco Systems, Inc.
 plugins-openh264-description = Sa gu'naj plugin nga gatuj ma'an gi'iaj Mozilla da' gi'iaj sunj nga WebRTC ni daj ga'ue ga'minj nga WebRTC nga nej aga' 'iaj sun nga sa ahui ni'io' H.264. Ni'iaj riña http://www.openh264.org/ da' gini'in codec, daj huaj codec ni daj 'iaj sunj.
 plugins-widevine-name = Widevine Content Decryption Module provided by Google Inc.
-
-## Headings for the Permissions tab in `about:addons` when the data collection
-## feature is enabled.
-
-
-## Mapping Engine IDs from AI models to how that feature represented by the engine Id is described in the used by section in local model management
-

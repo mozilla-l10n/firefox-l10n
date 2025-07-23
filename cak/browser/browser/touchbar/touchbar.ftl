@@ -32,6 +32,3 @@ search-history = Natab'äl
 search-opentabs = Kejaq Ruwi'
 search-tags = Taq etal
 search-titles = Taq b'i'aj
-
-##
-

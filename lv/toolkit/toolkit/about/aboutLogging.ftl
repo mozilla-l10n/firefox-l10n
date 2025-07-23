@@ -8,13 +8,3 @@ about-logging-set-log-file = Iestatīt reģistrēšanas failu
 about-logging-set-log-modules = Iestatīt reģistrēšanas moduli
 about-logging-start-logging = Sākt reģistrēšanu
 about-logging-stop-logging = Pārtraukt reģistrēšanu
-
-## Logging presets
-
-
-##
-
-
-## The upload interface is shown only with the preference toolkit.aboutLogging.uploadProfileToCloud
-## set to true. It is false by default, except on Android.
-

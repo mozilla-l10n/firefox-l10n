@@ -181,7 +181,9 @@ tabbrowser-manager-current-window-tab-group =
     .label = { $tabGroupName }
     .tooltiptext = { $tabGroupName } — Jendela kini
 
-## Tab Groups
+## Variables:
+##  $tabGroupName (String): The name of the tab group. Defaults to the value
+##                          of tab-group-name-default.
 
 tab-group-editor-title-create = Buat grup tab
 tab-group-editor-title-edit = Kelola grup tab
@@ -211,16 +213,12 @@ tab-group-editor-color-selector2-gray = Kelabu
     .title = Kelabu
 tab-group-editor-color-selector2-red = Merah
     .title = Merah
-# Variables:
-#  $tabGroupName (String): The name of the tab group. Defaults to the value
-#                          of tab-group-name-default.
 tab-group-description = { $tabGroupName } — Grup Tab
 tab-context-unnamed-group =
     .label = Grup tanpa nama
 tab-group-name-default = Grup Tanpa Nama
 
-## Variables:
-##  $tabCount (Number): the number of tabs that are affected by the action.
+##
 
 tab-context-move-tab-to-new-group =
     .label =

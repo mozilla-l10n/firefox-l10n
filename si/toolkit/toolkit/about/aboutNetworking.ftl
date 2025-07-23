@@ -47,6 +47,3 @@ about-networking-moved-about-logging = මෙම පිටුව <a data-l10n-na
 ## Link is intended as "network link"
 
 about-networking-networkid-status-known = සබැඳියේ තත්‍වය දනී
-
-##
-

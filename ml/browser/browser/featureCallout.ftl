@@ -47,9 +47,6 @@ split-dismiss-button-manage-settings-option =
 split-dismiss-button-default-label =
     .title = കൂടുതൽ സാധ്യതകൾ
 
-## Login Status Advisory Callout (points to the account icon)
-
-
 ## Bookmarks toolbar callout strings
 
 bookmarks-toolbar-callout-1-title = അടയാളക്കുറിപ്പു കരുപട്ടയിൽ ഈ വെബ്ബിടം ചേൎക്കണോ?
@@ -88,9 +85,6 @@ vertical-tabs-callout-2-cta-button = ഇപ്പോൾ ശ്രമിച്ച
 ## Sidebar Vertical Tabs Pinning Strings
 
 sidebar-pins-callout-cta-button = ടാബിൽ കുത്തിസൂചിയിടുക
-
-## Pinning Tabs Strings
-
 
 ## Sidebar Onboarding Strings
 

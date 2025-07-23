@@ -38,12 +38,6 @@ toolbar-button-stop =
 toolbar-button-stop-reload =
     .title = { main-context-menu-reload.aria-label }
 
-## Firefox Account Button
-
-
-## Account toolbar Button
-
-
 ## Save Page
 
 main-context-menu-page-save =
@@ -64,13 +58,6 @@ main-context-menu-save-link =
 main-context-menu-copy-email =
     .label = Kopiaen ti Pagtaengan nga E-Mail
     .accesskey = E
-
-## Media (video/audio) controls
-##
-## The accesskey for "Play" and "Pause" are the
-## same because the two context-menu items are
-## mutually exclusive.
-
 
 ##
 
@@ -108,9 +95,6 @@ main-context-menu-image-info =
 main-context-menu-audio-save-as =
     .label = Idulin ti Audio kas...
     .accesskey = v
-
-##
-
 
 ##
 

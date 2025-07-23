@@ -106,15 +106,15 @@
     }
 -vendor-short-name =
     { $ending ->
-       *[normal]
-            { $case ->
-               *[upper] Mozilla
-                [lower] mozilla
-            }
         [accented]
             { $case ->
-               *[upper] Mozillá
                 [lower] mozillá
+               *[upper] Mozillá
+            }
+       *[normal]
+            { $case ->
+                [lower] mozilla
+               *[upper] Mozilla
             }
     }
 trademarkInfo = A Firefox és a Firefox logó a Mozilla Foundation védjegye.

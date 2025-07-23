@@ -12,6 +12,3 @@ site-data-column-cookies =
 #   $unit (String) - Name of the unit (for example: "bytes", "KB")
 site-storage-usage =
     .value = { $value } { $unit }
-
-## Removing
-

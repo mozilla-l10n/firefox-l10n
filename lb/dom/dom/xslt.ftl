@@ -3,9 +3,6 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 
-## XSLT and XPath specific errors.
-
-
 ## Messages for the XML error page.
 ##
 ## Variables:

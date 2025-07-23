@@ -5,12 +5,3 @@
 
 ### These messages are used in the DevTools toolbox.
 
-
-## These labels are shown in the "..." menu in the toolbox, and represent different
-## commands such as the docking of DevTools, toggling features, and viewing some
-## external links. Some of the commands have the keyboard shortcut shown next to
-## the label.
-
-
-## These labels are shown in the top-toolbar in the Browser Toolbox and Browser Console
-

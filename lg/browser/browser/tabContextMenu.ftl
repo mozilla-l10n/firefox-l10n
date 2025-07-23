@@ -15,7 +15,3 @@ unpin-tab =
 move-to-new-window =
     .label = Teeka mu Ddirisa ppya
     .accesskey = D
-
-## Variables:
-##  $tabCount (Number): the number of tabs that are affected by the action.
-

@@ -32,6 +32,3 @@ search-history = Vafurferli
 search-opentabs = Opnum flipum
 search-tags = Merki
 search-titles = Titlum
-
-##
-

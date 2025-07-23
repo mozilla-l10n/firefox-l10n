@@ -31,48 +31,10 @@ permissions-capabilities-listitem-allow-session =
 permissions-invalid-uri-title = Jina Batili la Mwenyeji limeingizwa
 permissions-invalid-uri-label = Tafadhali ingiza jina sahihi la mwenyeji
 
-## Exceptions - Tracking Protection
-
-
-## Exceptions - Cookies
-
-
-## Exceptions - HTTPS-Only Mode
-
-
 ## Exceptions - Pop-ups
 
 permissions-exceptions-popup-desc = Unaweza kubainisha ni wavuti gani zinaruhusiwa kufungua dirisha kidukizo. Andika anwani sahihi ya tovuti unayotaka kuruhusu na kisha bofya Ruhusu.
 
-## Exceptions - Saved Logins
-
-
-## Exceptions - Saved Passwords
-
-
 ## Exceptions - Add-ons
 
 permissions-exceptions-addons-desc = Unaweza kubainisha ni wavuti gani zinaruhusiwa kusakinisha programu jalizi. Andika anwani sahihi ya tovuti unayotaka kuruhusu na kisha bofya Ruhusu.
-
-## Site Permissions - Autoplay
-
-
-## Site Permissions - Notifications
-
-
-## Site Permissions - Location
-
-
-## Site Permissions - Virtual Reality
-
-
-## Site Permissions - Camera
-
-
-## Site Permissions - Microphone
-
-
-## Site Permissions - Speaker
-##
-## "Speaker" refers to an audio output device.
-

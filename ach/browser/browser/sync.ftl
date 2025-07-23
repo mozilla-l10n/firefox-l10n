@@ -20,6 +20,3 @@ fxa-menu-send-tab-to-device-syncnotready =
 fxa-menu-send-tab-to-device-description = Cwal cut dirica matidi i nyonyo mo keken ma idonyo iyie.
 fxa-menu-sign-out =
     .label = Kat Woko…
-
-## Sync warning strings that support the browser profiles feature, these will be shown when the user might be merging data
-

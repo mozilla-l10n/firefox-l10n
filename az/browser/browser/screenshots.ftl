@@ -31,10 +31,3 @@ screenshots-private-window-error-title = { -screenshots-brand-name } özəlliyi 
 screenshots-private-window-error-details = Narahatlıq üçün üzr istəyirik. Gələcək buraxılışlarda bu özəllik üzərində işləyirik.
 screenshots-generic-error-title = Off! { -screenshots-brand-name } dəli olub.
 screenshots-generic-error-details = Nə baş verdiyindən əmin deyilik. Bir daha yoxlayın və ya başqa səhifənin ekran görüntüsünü alaraq işləyib işləmədiyinə əmin olun.
-
-## The below strings are used to capture keydown events so the strings should
-## not be changed unless the keyboard layout in the locale requires it.
-
-
-##
-

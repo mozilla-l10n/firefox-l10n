@@ -19,9 +19,6 @@ autofill-edit-address-title = முகவரியைத் திருத்�
 autofill-address-additional-name = நடு பெயர்
 autofill-address-organization = நிறுவனம்
 
-## address-level-3 (Sublocality) names
-
-
 ## address-level-2 names
 
 autofill-address-city = நகரம்
@@ -30,14 +27,8 @@ autofill-address-city = நகரம்
 
 autofill-address-state = மாநிலம்
 
-## Postal code name types
-
-
 ##
 
 autofill-address-country = நாடு அல்லது பிராந்தியம்
 autofill-country-warning-message = படிவம் தானியங்குநிரப்பல் தற்போது குறிப்பிட்ட நாடுகளில் மட்டுமே கிடைக்கிறது.
 autofill-card-billing-address = விலைப்பட்டியல் முகவரி
-
-## These are brand names and should only be translated when a locale-specific name for that brand is in common use
-

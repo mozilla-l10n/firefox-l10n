@@ -48,9 +48,6 @@ download-cert-view-cert =
     .label = Näytä
 download-cert-view-text = Tarkastele varmentajan varmennetta
 
-## Client Authorization Ask dialog
-
-
 ## Client Authentication Ask dialog
 
 client-auth-window =
@@ -105,6 +102,3 @@ set-password-backup-pw =
 set-password-repeat-backup-pw =
     .value = Varmenteen varmuuskopion salasana (uudelleen):
 set-password-reminder = Tärkeää: Jos varmenteen varmuuskopion salasana unohtuu, niin varmennetta ei voi palauttaa myöhemmin. Säilytä salasana turvallisessa paikassa.
-
-## Protected authentication alert
-

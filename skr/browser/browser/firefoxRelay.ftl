@@ -43,9 +43,6 @@ firefox-relay-and-fxa-opt-in-confirmation-postpone =
     .label = ہݨ کائناں
     .accesskey = N
 
-## The "control" variation of the Relay offer popup
-
-
 ## The "basic-info" variation of the Relay offer popup
 
 firefox-relay-and-fxa-opt-in-confirmation-enable-button-basic-info =

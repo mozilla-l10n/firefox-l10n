@@ -58,6 +58,3 @@ about-networking-moved-about-logging = Kjo faqe është kaluar te <a data-l10n-n
 
 about-networking-networkid-is-up = Lidhja funksionon
 about-networking-networkid-status-known = Gjendja e lidhjes është e njohur
-
-##
-

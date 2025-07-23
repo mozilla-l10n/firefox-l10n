@@ -29,9 +29,3 @@ about-networking-dns-lookup = Ukhangelo LweDNS
 about-networking-dns-lookup-button = Combulula
 about-networking-dns-domain = Idomeyini:
 about-networking-dns-lookup-table-column = IPs
-
-## Link is intended as "network link"
-
-
-##
-

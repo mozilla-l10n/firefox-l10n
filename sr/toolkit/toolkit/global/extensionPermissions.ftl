@@ -31,16 +31,3 @@ webext-perms-description-tabs = Приступ картицама
 webext-perms-description-tabHide = Скривање и приказ картица
 webext-perms-description-topSites = Приступ историји прегледања
 webext-perms-description-webNavigation = Приступ активности прегледача током навигације
-
-## The userScripts permission includes an additional explanation that is
-## displayed prominently near the usual permission description.
-
-
-## Short form to be used in lists or in a string (`webext-perms-description-data-some`)
-## that formats some of the data collection permissions below using `Intl.ListFormat`.
-##
-## This is used when the data collection permissions are required.
-
-
-## Long form to be used in `about:addons` when these data collection permissions are optional.
-

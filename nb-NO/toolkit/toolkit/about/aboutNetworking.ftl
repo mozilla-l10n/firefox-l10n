@@ -64,6 +64,3 @@ about-networking-moved-about-logging = Denne siden har flyttet til <a data-l10n-
 
 about-networking-networkid-is-up = Nettverkstilkoblingen er oppe
 about-networking-networkid-status-known = Nettverkstilkoblingstatus er kjent
-
-##
-

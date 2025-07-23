@@ -33,9 +33,6 @@ download-cert-view-cert =
     .label = Veyer
 download-cert-view-text = Examinar o certificau d'a CA
 
-## Client Authorization Ask dialog
-
-
 ## Client Authentication Ask dialog
 
 client-auth-window =
@@ -78,6 +75,3 @@ set-password-backup-pw =
 set-password-repeat-backup-pw =
     .value = Clau d'a copia de seguranza d'o certificau (unatra vegada):
 set-password-reminder = Important: si ixuplida a clau d'a copia de seguranza d'o certificau no podrá restablir-la mas entabant.  Alce-la en un puesto seguro.
-
-## Protected authentication alert
-

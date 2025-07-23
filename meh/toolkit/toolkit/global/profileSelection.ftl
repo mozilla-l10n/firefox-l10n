@@ -4,6 +4,3 @@
 
 profile-selection-button-cancel =
     .label = Kene
-
-## Messages used in the profile manager
-

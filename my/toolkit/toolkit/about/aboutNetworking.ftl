@@ -29,9 +29,3 @@ about-networking-dns-lookup = DNS ကြည့်
 about-networking-dns-lookup-button = ဖြေရှင်းပါ
 about-networking-dns-domain = ဒိုမိန်း:
 about-networking-dns-lookup-table-column = IPs
-
-## Link is intended as "network link"
-
-
-##
-

@@ -70,6 +70,3 @@ screenshots-component-download-button-2 = Ներբեռնել
 
 screenshots-component-download-key = S
 screenshots-component-copy-key = C
-
-##
-

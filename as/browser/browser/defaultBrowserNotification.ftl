@@ -21,8 +21,3 @@ default-browser-prompt-message-alt = আপুনি যেইবাৰেই �
 default-browser-prompt-button-primary-alt = ডিফ'ল্ট ব্ৰাউজাৰৰূপে ছেট কৰক
 default-browser-prompt-checkbox-not-again-label = এই বাৰ্তাটো পুনৰ নেদেখুৱাব
 default-browser-prompt-button-secondary = এতিয়া নহয়
-
-## Strings for a Windows native guidance notification when the user is forced to
-## use Windows Settings to set the default browser. Instructions differ for
-## Windows 10 and 11.
-

@@ -317,6 +317,3 @@ about-webrtc-hide-msg-sdp = Απόκρυψη SDP
 about-webrtc-media-context-show-msg = Εμφάνιση πλαισίου πολυμέσων
 about-webrtc-media-context-hide-msg = Απόκρυψη πλαισίου πολυμέσων
 about-webrtc-media-context-heading = Πλαίσιο πολυμέσων
-
-##
-

@@ -48,9 +48,6 @@ download-cert-view-cert =
     .label = Werjaan
 download-cert-view-text = CA-sertifikaat bestudearje
 
-## Client Authorization Ask dialog
-
-
 ## Client Authentication Ask dialog
 
 client-auth-window =

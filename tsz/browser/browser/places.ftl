@@ -15,10 +15,3 @@ places-view-sort-col-url =
     .label = Nani exentani
 places-cmd-find-key =
     .key = f
-
-## Strings used as a placeholder in the Library search field. For example,
-## "Search History" stands for "Search through the browser's history".
-
-
-##
-

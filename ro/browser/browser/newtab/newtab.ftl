@@ -539,9 +539,6 @@ newtab-custom-wallpaper-title = Sunt disponibile imagini de fundal personalizate
 newtab-custom-wallpaper-subtitle = Încarcă propria imagine de fundal sau alege o culoare personalizată ca să îți personalizezi imaginea de fundal { -brand-product-name }.
 newtab-custom-wallpaper-cta = Încearcă-l
 
-## Strings for new user activation custom wallpaper highlight
-
-
 ## Strings for download mobile highlight
 
 newtab-download-mobile-highlight-title = Descarcă { -brand-product-name } pentru mobil

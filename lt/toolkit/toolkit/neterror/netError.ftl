@@ -39,17 +39,6 @@ neterror-load-error-connection = Jei nepavyksta įkelti ir kitų tinklalapių, p
 neterror-load-error-firewall = Jei jūsų kompiuteris ar tinklas apsaugotas užkarda arba jungiasi per įgaliotąjį serverį, tai įsitikinkite, kad „{ -brand-short-name }“ leidžiama pasiekti saityną.
 neterror-captive-portal = Turite prisijungti prie šio tinklo, kad galėtumėte naudotis internetu.
 
-## TRR-only specific messages
-## Variables:
-##   $hostname (String) - Hostname of the website to which the user was trying to connect.
-##   $trrDomain (String) - Hostname of the DNS over HTTPS server that is currently in use.
-
-
-## Native fallback specific messages
-## Variables:
-##   $trrDomain (String) - Hostname of the DNS over HTTPS server that is currently in use.
-
-
 ##
 
 neterror-file-not-found-filename = Patikrinkite, ar failo varde nėra rinkimo klaidų, pvz., didžiosios raidės pakeistos mažosiomis.

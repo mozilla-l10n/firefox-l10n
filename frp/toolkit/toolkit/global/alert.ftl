@@ -4,6 +4,3 @@
 
 alert-settings-title =
     .tooltiptext = Règllajos
-
-## Reminder Notifications
-

@@ -337,6 +337,3 @@ about-webrtc-hide-msg-sdp = Cuddio SDP
 about-webrtc-media-context-show-msg = Dangos Cyd-destun Cyfryngau
 about-webrtc-media-context-hide-msg = Cuddio Cyd-destun Cyfryngau
 about-webrtc-media-context-heading = Cyd-destun Cyfryngau
-
-##
-

@@ -69,10 +69,10 @@ third-party-button-to-unblock-module = Fjern blokering af dette modul
     .aria-label = Er i øjeblikket blokeret. Klik for at fjerne blokeringen.
 third-party-button-to-unblock-module-disabled = Fjern blokering af dette modul (blokeringsliste er i øjeblikket deaktiveret)
     .title =
-         I øjeblikket markeret som blokeret, selvom blokeringslisten er deaktiveret for denne 
+        { " " }I øjeblikket markeret som blokeret, selvom blokeringslisten er deaktiveret for denne 
         kørsel af { -brand-short-name }. Klik for at fjerne blokering.
     .aria-label =
-         I øjeblikket markeret som blokeret, selvom blokeringslisten er deaktiveret for denne 
+        { " " }I øjeblikket markeret som blokeret, selvom blokeringslisten er deaktiveret for denne 
         kørsel af { -brand-short-name }. Klik for at fjerne blokering.
 third-party-button-expand =
     .title = Vis detaljeret information

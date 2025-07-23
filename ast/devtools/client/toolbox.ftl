@@ -17,6 +17,3 @@ toolbox-meatball-menu-hideconsole-label = Anubrir la consola dixebrada
 toolbox-meatball-menu-settings-label = Axustes
 toolbox-meatball-menu-documentation-label = Documentación…
 toolbox-meatball-menu-community-label = Comunidá…
-
-## These labels are shown in the top-toolbar in the Browser Toolbox and Browser Console
-

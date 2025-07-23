@@ -33,9 +33,6 @@ download-cert-view-cert =
     .label = មើល
 download-cert-view-text = ត្រួត​ពិនិត្យ​វិញ្ញាបនបត្រ​ CA
 
-## Client Authorization Ask dialog
-
-
 ## Client Authentication Ask dialog
 
 client-auth-window =
@@ -54,6 +51,3 @@ set-password-backup-pw =
 set-password-repeat-backup-pw =
     .value = ពាក្យសម្ងាត់​សម្រាប់​បម្រុងទុក​វិញ្ញាបនបត្រ (ម្ដងទៀត)៖
 set-password-reminder = សំខាន់ ៖ ប្រសិនបើ​អ្នក​ភ្លេច​ពាក្យសម្ងាត់​សម្រាប់​បម្រុងទុក​វិញ្ញាបនបត្រ​របស់​អ្នក អ្នក​នឹង​មិន​អាច​ស្ដារ​ឯកសារ​បម្រុង​ទុក​នេះ​នៅ​ពេល​ក្រោយ​បាន​ទេ ។  សូម​ចម្លង​វា​ទុក​នៅ​ក្នុង​ទីតាំង​សុវត្ថិភាព ។
-
-## Protected authentication alert
-

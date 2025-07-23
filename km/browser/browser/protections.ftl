@@ -8,11 +8,3 @@ graph-today = ថ្ងៃនេះ
 social-tab-title = អ្នកតាមដានប្រព័ន្ធបណ្ដាញសង្គម
 tracker-tab-title = កំពុងតាមដានខ្លឹមសារ
 fingerprinter-tab-title = ស្នាម​ម្រាមដៃ
-
-## The title attribute is used to display the type of protection.
-## The aria-label is spoken by screen readers to make the visual graph accessible to blind users.
-##
-## Variables:
-##   $count (Number) - Number of specific trackers
-##   $percentage (Number) - Percentage this type of tracker contributes to the whole graph
-

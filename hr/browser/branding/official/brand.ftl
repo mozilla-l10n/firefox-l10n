@@ -29,54 +29,54 @@
     .gender = masculine
 -brand-short-name =
     { $case ->
-       *[nom] Firefox
         [gen] Firefoxa
         [dat] Firefoxu
         [acc] Firefox
         [loc] Firefoxu
         [ins] Firefoxom
+       *[nom] Firefox
     }
     .gender = masculine
 -brand-shortcut-name =
     { $case ->
-       *[nom] Firefox
         [gen] Firefoxa
         [dat] Firefoxu
         [acc] Firefox
         [loc] Firefoxu
         [ins] Firefoxom
+       *[nom] Firefox
     }
     .gender = masculine
 -brand-full-name =
     { $case ->
-       *[nom] Mozilla Firefox
         [gen] Mozilla Firefoxa
         [dat] Mozilla Firefoxu
         [acc] Mozilla Firefox
         [loc] Mozilla Firefoxu
         [ins] Mozilla Firefoxom
+       *[nom] Mozilla Firefox
     }
     .gender = masculine
 # This brand name can be used in messages where the product name needs to
 # remain unchanged across different versions (Nightly, Beta, etc.).
 -brand-product-name =
     { $case ->
-       *[nom] Firefox
         [gen] Firefoxa
         [dat] Firefoxu
         [acc] Firefox
         [loc] Firefoxu
         [ins] Firefoxom
+       *[nom] Firefox
     }
     .gender = masculine
 -vendor-short-name =
     { $case ->
-       *[nom] Mozilla
         [gen] Mozille
         [dat] Mozilli
         [acc] Mozillu
         [loc] Mozilli
         [ins] Mozillom
+       *[nom] Mozilla
     }
     .gender = feminine
 trademarkInfo = Firefox i Firefox logotipi su zaštićeni znakovi zaklade Mozilla.

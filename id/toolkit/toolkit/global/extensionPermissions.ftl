@@ -40,12 +40,3 @@ webext-perms-description-webNavigation = Mengakses aktivitas peramban selama nav
 webext-perms-extra-warning-userScripts-long = Skrip yang tidak terverifikasi dapat menimbulkan risiko keamanan dan privasi, seperti menjalankan kode berbahaya atau melacak aktivitas situs web. Jalankan hanya skrip dari ekstensi atau sumber yang Anda percayai.
 # A shorter warning is displayed in UI surfaces with little room, such as a permission prompt.
 webext-perms-extra-warning-userScripts-short = Skrip yang tidak terverifikasi dapat menimbulkan risiko keamanan dan privasi. Jalankan hanya skrip dari ekstensi atau sumber yang Anda percayai.
-
-## Short form to be used in lists or in a string (`webext-perms-description-data-some`)
-## that formats some of the data collection permissions below using `Intl.ListFormat`.
-##
-## This is used when the data collection permissions are required.
-
-
-## Long form to be used in `about:addons` when these data collection permissions are optional.
-

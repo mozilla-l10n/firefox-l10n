@@ -19,10 +19,6 @@ cert-error-details-hsts-label = HTTP Strict Transport Security: { $hasHSTS }
 cert-error-details-key-pinning-label = HTTP baytal kufal kanjiyan: { $hasHPKP }
 cert-error-details-cert-chain-label = Tabatiyan-tiira tenjiri:
 
-## Variables:
-##   $hostname (string) - Hostname of the website with cert error.
-
-
 ## Messages used for certificate error titles
 
 connectionFailure-title = Ši hin ka ciya
@@ -47,10 +43,3 @@ nssFailure2-title = Ciyari saajante kay
 corruptedContentError-title = Gundekuna laybante firka
 sslv3Used-title = Ši hin ka ciyari saajante tee
 inadequateSecurityError-title = War ciyaroo manti saajante
-
-## Felt Privacy V1 Strings
-
-
-## Variables:
-##   $hostname (String) - Hostname of the website to which the user was trying to connect.
-

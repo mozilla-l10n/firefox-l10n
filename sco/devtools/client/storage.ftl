@@ -31,9 +31,3 @@ storage-table-headers-cookies-name = Nemme
 storage-table-headers-cookies-value = Vailue
 storage-table-headers-cookies-size = Size
 storage-table-headers-cache-status = Status
-
-## Labels for Storage type groups present in the Storage Tree, like cookies, local storage etc.
-
-
-##
-

@@ -39,13 +39,6 @@ security-view-unknown = Ngyéntá
 help-button =
     .label = Taa diif yaal
 
-## These strings are used to tell the user if the website is storing cookies
-## and data on the users computer in the security tab of pageInfo
-## Variables:
-##   $value (number) - Amount of data being stored
-##   $unit (string) - The unit of data being stored (Usually KB)
-
-
 ##
 
 image-size-unknown = Ngyéntá
@@ -55,7 +48,3 @@ saved-passwords-yes = ăɁ
 # Variables:
 #   $size (number) - The size of the media file in kilobytes
 media-file-size = { $size } KB
-
-## Variables:
-##   $website (string) — The url of the website pageInfo is getting info for
-

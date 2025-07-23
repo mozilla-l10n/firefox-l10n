@@ -25,9 +25,6 @@ autofill-address-family-name = នាមត្រកូល
 autofill-address-organization = អង្គភាព
 autofill-address-street = អាសយ​ដ្ឋាន​វិថី
 
-## address-level-3 (Sublocality) names
-
-
 ## address-level-2 names
 
 autofill-address-city = ទីក្រុង
@@ -58,6 +55,3 @@ autofill-edit-card-title = កែកាតឥណទាន
 autofill-card-number = លេខ​កាត
 autofill-card-invalid-number = សូមបញ្ចូលលេខកាតត្រឹមត្រូវ
 autofill-card-name-on-card = ឈ្មោះ​លើ​កាត
-
-## These are brand names and should only be translated when a locale-specific name for that brand is in common use
-

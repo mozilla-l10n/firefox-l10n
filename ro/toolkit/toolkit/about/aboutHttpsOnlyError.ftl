@@ -14,8 +14,3 @@ about-httpsonly-explanation-continue = Dacă continui, modul numai HTTPS va fi o
 about-httpsonly-button-continue-to-site = Continuă la site-ul HTTP
 about-httpsonly-button-go-back = Înapoi
 about-httpsonly-link-learn-more = Află mai multe…
-
-## Suggestion Box that only shows up if a secure connection to www can be established
-## Variables:
-##   $websiteUrl (String) - Url of the website that can be securely loaded with these alternatives. Example: example.com
-

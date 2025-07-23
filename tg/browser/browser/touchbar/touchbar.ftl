@@ -32,6 +32,3 @@ search-history = Таърих
 search-opentabs = Варақаҳои кушодашуда
 search-tags = Барчаспҳо
 search-titles = Сарлавҳаҳо
-
-##
-

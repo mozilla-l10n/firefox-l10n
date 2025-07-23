@@ -6,13 +6,6 @@
 urlbar-translations-button =
     .tooltiptext = ترجمه این صفحه
 
-## Options in the Firefox Translations settings.
-
-
-## The translation panel appears from the url bar, and this view is the default
-## translation view.
-
-
 ## Each label is followed, on a new line, by a dropdown list of language names.
 ## If this structure is problematic for your locale, an alternative way is to
 ## translate them as `Source language:` and `Target language:`

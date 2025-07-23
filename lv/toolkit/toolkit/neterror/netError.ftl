@@ -38,17 +38,6 @@ neterror-load-error-connection = Ja nevarat atvērt nevienu lapu, pārbaudiet sa
 neterror-load-error-firewall = Ja jūsu datu aizsardzībai tiek izmantots ugunsmūris, pārliecinieties, ka { -brand-short-name } ir atļauts piekļūt tīmeklim.
 neterror-captive-portal = Pieslēdzieties tīklam, lai piekļūtu Internetam.
 
-## TRR-only specific messages
-## Variables:
-##   $hostname (String) - Hostname of the website to which the user was trying to connect.
-##   $trrDomain (String) - Hostname of the DNS over HTTPS server that is currently in use.
-
-
-## Native fallback specific messages
-## Variables:
-##   $trrDomain (String) - Hostname of the DNS over HTTPS server that is currently in use.
-
-
 ##
 
 neterror-file-not-found-filename = Pārbaudiet, vai faila vārds ir uzrakstīts pareizi un ar pareizā lieluma burtiem.

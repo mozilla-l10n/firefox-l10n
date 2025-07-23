@@ -32,6 +32,3 @@ search-history = žurnale
 search-opentabs = atvertose kortelėse
 search-tags = gairėse
 search-titles = pavadinimuose
-
-##
-

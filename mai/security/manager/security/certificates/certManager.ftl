@@ -122,9 +122,6 @@ delete-email-cert-title =
 delete-email-cert-confirm = की अहाँ ई लोकनिक इमेल प्रमाणपत्र केँ मेटाबैक लेल निश्चित छी?
 delete-email-cert-impact = जँ अहाँ ककरो व्यक्ति क इमेल प्रमाणपत्र मेटाबै छी, अहाँक ओ लोकनिकेँ गोपित इमेल भेजबाक लेल नहि रहि जएताह.
 
-## Used to show whether an override is temporary or permanent
-
-
 ## Add Security Exception dialog
 
 add-exception-branded-warning = ई साइट कहिना { -brand-short-name } केँ पहचानैत अछि अहाँ ओकरा बदलबाक लेल जाए रहल छी.

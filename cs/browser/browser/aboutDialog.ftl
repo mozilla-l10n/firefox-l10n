@@ -68,11 +68,11 @@ aboutdialog-submit-feedback = Odeslat zpětnou vazbu
 community-exp = <label data-l10n-name="community-exp-mozillaLink">{ -vendor-short-name }</label> je <label data-l10n-name="community-exp-creditsLink">celosvětová komunita</label> snažící se o zachování veřejně dostupného, otevřeného a všem přístupného webu.
 community-2 =
     { -brand-short-name.gender ->
-        [masculine] { -brand-short-name } byl vytvořen organizací <label data-l10n-name="community-mozillaLink">{ -vendor-short-name }</label>.
-        [feminine] { -brand-short-name } byla vytvořena organizací <label data-l10n-name="community-mozillaLink">{ -vendor-short-name }</label>.
-        [neuter] { -brand-short-name } bylo vytvořeno organizací <label data-l10n-name="community-mozillaLink">{ -vendor-short-name }</label>.
-       *[other] Aplikace { -brand-short-name } byla vytvořena organizací <label data-l10n-name="community-mozillaLink">{ -vendor-short-name }</label>.
-    } Jsme <label data-l10n-name="community-creditsLink">celosvětová komunita</label> snažící se o zachování veřejně dostupného, otevřeného a všem přístupného webu.
+        [masculine] { -brand-short-name } byl vytvořen organizací <label data-l10n-name="community-mozillaLink">{ -vendor-short-name }</label>. Jsme <label data-l10n-name="community-creditsLink">celosvětová komunita</label> snažící se o zachování veřejně dostupného, otevřeného a všem přístupného webu.
+        [feminine] { -brand-short-name } byla vytvořena organizací <label data-l10n-name="community-mozillaLink">{ -vendor-short-name }</label>. Jsme <label data-l10n-name="community-creditsLink">celosvětová komunita</label> snažící se o zachování veřejně dostupného, otevřeného a všem přístupného webu.
+        [neuter] { -brand-short-name } bylo vytvořeno organizací <label data-l10n-name="community-mozillaLink">{ -vendor-short-name }</label>. Jsme <label data-l10n-name="community-creditsLink">celosvětová komunita</label> snažící se o zachování veřejně dostupného, otevřeného a všem přístupného webu.
+       *[other] Aplikace { -brand-short-name } byla vytvořena organizací <label data-l10n-name="community-mozillaLink">{ -vendor-short-name }</label>. Jsme <label data-l10n-name="community-creditsLink">celosvětová komunita</label> snažící se o zachování veřejně dostupného, otevřeného a všem přístupného webu.
+    }
 helpus = Chcete pomoci? <label data-l10n-name="helpus-donateLink">Darujte příspěvek</label> nebo <label data-l10n-name="helpus-getInvolvedLink">se zapojte!</label>
 bottomLinks-license = Licence
 bottom-links-terms = Podmínky použití

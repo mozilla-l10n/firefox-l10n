@@ -51,12 +51,3 @@ addon-install-cancel-button =
 addon-install-accept-button =
     .label = زیادکردن
     .accesskey = A
-
-## Variables:
-##   $addonCount (Number): the number of add-ons being installed
-
-
-## Add-on install errors
-## Variables:
-##   $addonName (String): the add-on name.
-

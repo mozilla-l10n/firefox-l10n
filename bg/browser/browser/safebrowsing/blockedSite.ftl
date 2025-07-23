@@ -30,14 +30,6 @@ safeb-blocked-phishing-page-learn-more = Научете повече относ�
 ## Variables
 ##  $sitename (string) - Domain name for the blocked page
 
-
-## Variables
-##  $sitename (string) - Domain name for the blocked page
-
-
-## Variables
-##  $sitename (string) - Domain name for the blocked page
-
 safeb-blocked-unwanted-page-error-desc-override = Страницата <span data-l10n-name='sitename'>{ $sitename }</span> е <a data-l10n-name='error_desc_link'>докладвана за съдържание на зловредни приложения</a>. Може да <a data-l10n-name='ignore_warning_link'>пренебрегнете предупреждението</a> и да посетите опасната страница.
 safeb-blocked-unwanted-page-error-desc-no-override = Страницата <span data-l10n-name='sitename'>{ $sitename }</span> е <a data-l10n-name='error_desc_link'>докладвана за съдържание на зловредни приложения</a>.
 

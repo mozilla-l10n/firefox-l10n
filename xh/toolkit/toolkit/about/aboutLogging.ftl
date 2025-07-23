@@ -8,13 +8,3 @@ about-logging-set-log-file = Seta iFayile yokuLoga
 about-logging-set-log-modules = Seta iiModyuli zokuLoga
 about-logging-start-logging = Qalisa ukuLoga
 about-logging-stop-logging = Yeka ukuLoga
-
-## Logging presets
-
-
-##
-
-
-## The upload interface is shown only with the preference toolkit.aboutLogging.uploadProfileToCloud
-## set to true. It is false by default, except on Android.
-

@@ -49,30 +49,6 @@ copy-text-to-clipboard-label = ចម្លង​អត្ថបទ​ទៅ​�
 copy-raw-data-to-clipboard-label = ចម្លង​ទិន្នន័យ​ដើម​ទៅ​ក្ដារ​តម្បៀត​ខ្ទាស់
 sandbox-title = Sandbox
 
-## Media titles
-
-
-## Codec support table
-
-
-## Media Content Decryption Modules (CDM)
-## See EME Spec for more explanation for following technical terms
-## https://w3c.github.io/encrypted-media/
-
-
-##
-
-
-## Remote Debugging
-##
-## The Firefox remote protocol provides low-level debugging interfaces
-## used to inspect state and control execution of documents,
-## browser instrumentation, user interaction simulation,
-## and for subscribing to browser-internal events.
-##
-## See also https://firefox-source-docs.mozilla.org/remote/
-
-
 ##
 
 # Variables
@@ -137,21 +113,3 @@ touch-enabled = បាន​បើក​ការ​បញ្ចូល​ដោ�
 
 wheel-warning = បាន​បិទ​ការ​បញ្ចូល​ដោយ​កង់​កណ្ដុរ async ដោយ​សារ​ចំណូល​ចិត្ត​មិន​គាំទ្រ៖ { $preferenceKey }
 touch-warning = បាន​បិទ​ការ​បញ្ចូល​ដោយ​ប៉ះ async ដោយ​សារ​ចំណូល​ចិត្ត​មិន​គាំទ្រ៖ { $preferenceKey }
-
-## Strings representing the status of the Enterprise Policies engine.
-
-
-## Printing section
-
-
-## Remote Settings sections
-
-
-## Normandy sections
-
-
-## Pointing devices
-
-
-## Content Analysis (DLP)
-

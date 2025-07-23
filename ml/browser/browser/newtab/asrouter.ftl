@@ -156,9 +156,6 @@ firefoxview-cfr-secondarybutton = ഇപ്പോഴല്ല
 firefoxview-spotlight-promo-primarybutton = എങ്ങനെ ഇത് പ്രവര്‍ത്തിക്കുന്നു എന്ന് കാണുക
 firefoxview-spotlight-promo-secondarybutton = ഒഴിവാക്കുക
 
-## Colorways expiry reminder CFR
-
-
 ## Cookie Banner Handling CFR
 
 cfr-cbh-confirm-button = കുക്കി പൊന്തുവരലുകളെ നിരസിക്കുക

@@ -48,9 +48,6 @@ download-cert-view-cert =
     .label = Προβολή
 download-cert-view-text = Εξέταση CA πιστοποιητικού
 
-## Client Authorization Ask dialog
-
-
 ## Client Authentication Ask dialog
 
 client-auth-window =

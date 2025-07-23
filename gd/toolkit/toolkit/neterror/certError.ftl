@@ -69,10 +69,6 @@ open-in-new-window-for-csp-or-xfo-error = Fosgail an làrach ann an uinneag ùr
 #   $hostname (string) - Hostname of the website blocked by csp or xfo error.
 csp-xfo-blocked-long-desc = Gus do thèarainteachd a dhìon, cha leig { $hostname } le { -brand-short-name } an duilleag a thaisbeanadh ma tha làrach eile leabaichte na bhroinn. Feumaidh tu an duilleag seo fhosgladh ann an uinneag ùr mus fhaic thu e.
 
-## Variables:
-##   $hostname (string) - Hostname of the website with cert error.
-
-
 ## Messages used for certificate error titles
 
 connectionFailure-title = Cha ghabh ceangal a dhèanamh ris
@@ -112,10 +108,3 @@ networkProtocolError-title = Mearachd pròtacal an lìonraidh
 nssBadCert-title = Rabhadh: Tha rud romhad a dh’fhaodadh a bhith ’na chunnart tèarainteachd
 nssBadCert-sts-title = Cha deach ceangal a dhèanamh: Rud a dh’fhaodadh a bhith ’na chunnart tèarainteachd
 certerror-mitm-title = Tha bathar-bog ann a tha a’ cumail { -brand-short-name } o bhith a’ dèanamh ceangal tèarainte ris an làrach seo
-
-## Felt Privacy V1 Strings
-
-
-## Variables:
-##   $hostname (String) - Hostname of the website to which the user was trying to connect.
-

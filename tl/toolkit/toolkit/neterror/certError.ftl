@@ -68,10 +68,6 @@ open-in-new-window-for-csp-or-xfo-error = Buksan ang Site sa Bagong Window
 #   $hostname (string) - Hostname of the website blocked by csp or xfo error.
 csp-xfo-blocked-long-desc = Para maprotektahan ang iyong seguridad, hindi papayagan ng { $hostname } ang { -brand-short-name } na ipakita ang pahina kung ito ay naka-embed sa isa pang site. Para makita ang pahinang ito, kailangan mong buksan ito sa bagong window.
 
-## Variables:
-##   $hostname (string) - Hostname of the website with cert error.
-
-
 ## Messages used for certificate error titles
 
 connectionFailure-title = Hindi makakonekta
@@ -107,10 +103,3 @@ blockedByPolicy-title = Naka-block na Pahina
 clockSkewError-title = Mali ang oras ng iyong computer
 networkProtocolError-title = Network Protocol Error
 certerror-mitm-title = May software na pumipigil sa { -brand-short-name } sa pag-connect nang ligtas sa site na ito
-
-## Felt Privacy V1 Strings
-
-
-## Variables:
-##   $hostname (String) - Hostname of the website to which the user was trying to connect.
-

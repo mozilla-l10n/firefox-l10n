@@ -236,10 +236,6 @@ pdf-default-notification-decline-button =
 launch-on-login-infobar-reject-button = ບໍ່ແມ່ນຕອນນີ້
     .accesskey = N
 
-## These string variants are used when the “launch on login” infobar
-## notification is displayed for a second time.
-
-
 ## Tail Fox Set Default Spotlight
 
 tail-fox-spotlight-secondary-button = ບໍ່ແມ່ນຕອນນີ້
@@ -249,9 +245,6 @@ tail-fox-spotlight-secondary-button = ບໍ່ແມ່ນຕອນນີ້
 root-certificate-succession-infobar-secondary-button =
     .label = ພາຍຫຼັງ
     .accesskey = L
-
-## Root Certificate Succession Windows Background Notification
-
 
 ## FxA Menu Message variants
 

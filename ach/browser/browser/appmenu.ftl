@@ -141,10 +141,6 @@ appmenu-about =
 appmenu-help-report-site-issue =
     .label = Mi ripot ikom peko me kakube…
 
-## appmenu-help-enter-troubleshoot-mode and appmenu-help-exit-troubleshoot-mode
-## are mutually exclusive, so it's possible to use the same accesskey for both.
-
-
 ## appmenu-help-report-deceptive-site and appmenu-help-not-deceptive
 ## are mutually exclusive, so it's possible to use the same accesskey for both.
 
@@ -154,12 +150,3 @@ appmenu-help-report-deceptive-site =
 appmenu-help-not-deceptive =
     .label = Man pe kakube me bwola…
     .accesskey = b
-
-## More Tools
-
-
-## Panel for privacy and security products
-
-
-## Profiles panel
-

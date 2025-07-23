@@ -4,10 +4,6 @@
 
 addons-page-title = Topitorde Ɓeyditte
 
-## Variables
-##   $domain - Domain name where add-ons are available (e.g. addons.mozilla.org)
-
-
 ##
 
 list-empty-installed =
@@ -160,29 +156,6 @@ addon-install-from-file-filter-name = Ɓeyditte
 addon-open-about-debugging = Buggito Ɓeyditte
     .accesskey = b
 
-## Extension shortcut management
-
-
-## Recommended add-ons page
-
-
-## Add-on actions
-
-
-## Pending uninstall message bar
-
-
-## "sites with restrictions" (internally called "quarantined") are special domains
-## where add-ons are normally blocked for security reasons.
-
-
-## This is the tooltip text for the recommended badges for an extension in about:addons. The
-## badge is a small icon displayed next to an extension when it is recommended on AMO.
-
-
-##
-
-
 ## Page headings
 
 addon-page-options-button =
@@ -226,10 +199,3 @@ plugins-gmp-privacy-info = Humpito Suturo
 plugins-openh264-name = Kodek Wodewoo mo OpenH264  ko jeyi Cisco Systems, Inc.
 plugins-openh264-description = Ndee seŋre ko Mozilla aafata nde e jaajol ngam ɗooftaade keeroraaɗi WebRTC tee hurmina noddaali WebRTC e kaɓirɗi naamniiɗi kodek widewoo H.264 oo. Yillo http://www.openh264.org/ ngam yiyde ɗaɗi dokkol kodek oo tee ɓeydaa humpito baɗte gannominal mun.
 plugins-widevine-name = Widevine Content Decryption Module mo Google Inc. yuɓɓini.
-
-## Headings for the Permissions tab in `about:addons` when the data collection
-## feature is enabled.
-
-
-## Mapping Engine IDs from AI models to how that feature represented by the engine Id is described in the used by section in local model management
-

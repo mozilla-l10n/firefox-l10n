@@ -32,6 +32,3 @@ search-history = Историја
 search-opentabs = Отворене картице
 search-tags = Етикете
 search-titles = Наслови
-
-##
-

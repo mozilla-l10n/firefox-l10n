@@ -209,7 +209,9 @@ tabbrowser-manager-current-window-tab-group =
     .label = { $tabGroupName }
     .tooltiptext = { $tabGroupName } — Ventana actual
 
-## Tab Groups
+## Variables:
+##  $tabGroupName (String): The name of the tab group. Defaults to the value
+##                          of tab-group-name-default.
 
 tab-group-editor-title-create = Crear grupo de pestañas
 tab-group-editor-title-edit = Administrar grupo de pestañas
@@ -239,16 +241,12 @@ tab-group-editor-color-selector2-gray = Gris
     .title = Gris
 tab-group-editor-color-selector2-red = Rojo
     .title = Rojo
-# Variables:
-#  $tabGroupName (String): The name of the tab group. Defaults to the value
-#                          of tab-group-name-default.
 tab-group-description = { $tabGroupName } — Grupo de pestañas
 tab-context-unnamed-group =
     .label = Grupo sin nombre
 tab-group-name-default = Grupo sin nombre
 
-## Variables:
-##  $tabCount (Number): the number of tabs that are affected by the action.
+##
 
 tab-context-move-tab-to-new-group =
     .label =

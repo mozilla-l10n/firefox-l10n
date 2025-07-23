@@ -124,14 +124,6 @@ media-device-channels = چینلز
 media-device-rate = شرح
 media-device-latency = لیٹینسی
 
-## Codec support table
-
-
-## Media Content Decryption Modules (CDM)
-## See EME Spec for more explanation for following technical terms
-## https://w3c.github.io/encrypted-media/
-
-
 ##
 
 intl-title = انٹرنیشنلائزیشن & لوکلائزیشن
@@ -310,15 +302,3 @@ policies-error = نقص
 support-printing-title = چھاپ رہا ہے
 support-printing-prefs-name = نام
 support-printing-prefs-value = قدر
-
-## Remote Settings sections
-
-
-## Normandy sections
-
-
-## Pointing devices
-
-
-## Content Analysis (DLP)
-

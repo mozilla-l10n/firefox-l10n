@@ -10,15 +10,9 @@
 
 unified-extensions-header-title = Mga Extension
 
-## An extension in the main list
-
-
 ## Extension's context menu
 
 unified-extensions-context-menu-pin-to-toolbar =
     .label = I-pin sa Toolbar
 unified-extensions-context-menu-remove-extension =
     .label = Alisin ang Extension
-
-## Notifications
-

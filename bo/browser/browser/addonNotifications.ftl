@@ -4,10 +4,6 @@
 
 xpinstall-prompt = { -brand-short-name }་ཡིས་དྲ་ཚིགས་འདིས་ཁྱེད་ཀྱི་རྩིས་འཁོར་ཐོག་ཏུ་མཉེན་ཆས་སྒྲིག་འཇུག་བྱེད་པའི་རེ་ཞུ་བཀག་འགོག་བྱས་ཟིན།
 
-## Variables:
-##   $host (String): The hostname of the site the add-on is being installed from.
-
-
 ##
 
 xpinstall-prompt-dont-allow =
@@ -47,10 +43,6 @@ addon-install-cancel-button =
 addon-install-accept-button =
     .label = Add
     .accesskey = A
-
-## Variables:
-##   $addonCount (Number): the number of add-ons being installed
-
 
 ## Add-on install errors
 ## Variables:

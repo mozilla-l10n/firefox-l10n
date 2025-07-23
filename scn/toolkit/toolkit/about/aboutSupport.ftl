@@ -40,33 +40,6 @@ app-basics-update-dir =
 app-basics-update-history = Crunuluggìa di l’attualizzazzioni
 library-version-title = Virsioni libbrarìi
 
-## Media titles
-
-
-## Codec support table
-
-
-## Media Content Decryption Modules (CDM)
-## See EME Spec for more explanation for following technical terms
-## https://w3c.github.io/encrypted-media/
-
-
-##
-
-
-## Remote Debugging
-##
-## The Firefox remote protocol provides low-level debugging interfaces
-## used to inspect state and control execution of documents,
-## browser instrumentation, user interaction simulation,
-## and for subscribing to browser-internal events.
-##
-## See also https://firefox-source-docs.mozilla.org/remote/
-
-
-##
-
-
 ## The verb "blocked" here refers to a graphics feature such as "Direct2D" or "OpenGL layers".
 
 yes = Se
@@ -76,25 +49,3 @@ yes = Se
 ## not found.
 
 async-pan-zoom = Spustamentu/Grannizza asìncruni
-
-## Variables
-## $preferenceKey (string) - String ID of preference
-
-
-## Strings representing the status of the Enterprise Policies engine.
-
-
-## Printing section
-
-
-## Remote Settings sections
-
-
-## Normandy sections
-
-
-## Pointing devices
-
-
-## Content Analysis (DLP)
-

@@ -98,9 +98,6 @@ urlbar-star-edit-bookmark =
 urlbar-star-add-bookmark =
     .tooltiptext = Ket alama buk i pot buk man ({ $shortcut })
 
-## Page Action Context Menu
-
-
 ## Auto-hide Context Menu
 
 full-screen-autohide =
@@ -144,14 +141,6 @@ search-one-offs-add-engine =
 # submenu using this as its label.
 search-one-offs-add-engine-menu =
     .label = Med injin me yeny
-
-## Local search mode one-off buttons
-## Variables:
-##  $restrict (String): The restriction token corresponding to the search mode.
-##    Restriction tokens are special characters users can type in the urlbar to
-##    restrict their searches to certain sources (e.g., "*" to search only
-##    bookmarks).
-
 
 ## QuickActions are shown in the urlbar as the user types a matching string
 ## The -cmd- strings are comma separated list of keywords that will match
@@ -249,17 +238,6 @@ browser-window-minimize-button =
 browser-window-close-button =
     .tooltiptext = Lor
 
-## Tab actions
-
-
-## These labels should be written in all capital letters if your locale supports them.
-## Variables:
-##  $count (number): number of affected tabs
-
-
-## Bookmarks toolbar items
-
-
 ## WebRTC Pop-up notifications
 
 popup-all-windows-shared = Ki binywako dirica weng ma nen i wang kompiuta ni.
@@ -269,9 +247,6 @@ popup-all-windows-shared = Ki binywako dirica weng ma nen i wang kompiuta ni.
 sharing-warning-window = Itye ka nywako { -brand-short-name }. Jo mukene twero neno kacce iloke i dirica matidi manyen.
 sharing-warning-proceed-to-tab =
     .label = Mede i Dirica matidi
-
-## DevTools F12 popup
-
 
 ## URL Bar
 
@@ -367,11 +342,6 @@ reader-view-enter-button =
 reader-view-close-button =
     .aria-label = Lor Neno me Kwan
 
-## Picture-in-Picture urlbar button
-## Variables:
-##   $shortcut (String) - Keyboard shortcut to execute the command.
-
-
 ## Full Screen and Pointer Lock UI
 
 # Please ensure that the domain stays in the `<span data-l10n-name="domain">` markup.
@@ -455,9 +425,6 @@ save-to-pocket-button =
     .label = Gwok i { -pocket-brand-name }
     .tooltiptext = Gwok i { -pocket-brand-name }
 
-## Repair text encoding toolbar button
-
-
 ## Customize Toolbar Buttons
 
 toolbar-overflow-customize-button =
@@ -489,9 +456,6 @@ toolbar-button-new-private-window =
 
 eme-notifications-drm-content-playing = Dwon ki vidio mogo i kakube man tiyo ki purugram me DRM, ma romo gengo { -brand-short-name } mene ma weko itiyo kwede.
 
-## Password save/update panel
-
-
 ##
 
 # "More" item in macOS share menu
@@ -515,10 +479,6 @@ popups-infobar-block =
 popups-infobar-dont-show-message =
     .label = Pe inyut kwena man kace kigengo pye-malo woko
     .accesskey = D
-
-## Since the default position for PiP controls does not change for RTL layout,
-## right-to-left languages should use "Left" and "Right" as in the English strings,
-
 
 ##
 
@@ -557,33 +517,12 @@ tabs-toolbar-list-all-tabs =
 
 restore-session-startup-suggestion-button = Nyuta nining
 
-## Infobar shown when the user tries to open a file picker and file pickers are blocked by enterprise policy
-
-
 ## Mozilla data reporting notification (Telemetry, Firefox Health Report, etc)
 
 data-reporting-notification-message = { -brand-short-name } cwalo pire kene tic mogo bot { -vendor-short-name } wek wa yub kit me ticci.
 data-reporting-notification-button =
     .label = Yer ngo ma anywako
     .accesskey = Y
-
-## Unified extensions (toolbar) button
-
-
-## Unified extensions button when permission(s) are needed.
-## Note that the new line is intentionally part of the tooltip.
-
-
-## Unified extensions button when some extensions are quarantined.
-## Note that the new line is intentionally part of the tooltip.
-
-
-## Unified extensions button when some extensions are disabled (e.g. through add-ons blocklist).
-## Note that the new line is intentionally part of the tooltip.
-
-
-## Private browsing reset button
-
 
 ## Autorefresh blocker
 
@@ -592,9 +531,6 @@ refresh-blocked-redirect-label = { -brand-short-name } ogengo pot buk man me wir
 refresh-blocked-allow =
     .label = Ye
     .accesskey = A
-
-## Firefox Relay integration
-
 
 ## Add-on Pop-up Notifications
 
@@ -626,16 +562,3 @@ popup-warning-button =
 #   $popupURI (String): the URI for the pop-up window
 popup-show-popup-menuitem =
     .label = Nyut “{ $popupURI }”
-
-## File-picker crash notification ("FilePickerCrashed.sys.mjs")
-
-
-# Button used with file-picker-crashed-save-default. Opens the folder in Windows
-# Explorer, with the saved file selected and in focus.
-#
-# The wording here should be consistent with the Windows variant of
-# `downloads-cmd-show-menuitem-2` and similar messages.
-
-
-## Onboarding Finish Setup checklist
-

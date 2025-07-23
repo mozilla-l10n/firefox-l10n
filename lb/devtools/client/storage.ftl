@@ -25,9 +25,6 @@ storage-context-menu-delete =
 
 storage-table-headers-cookies-name = Numm
 
-## Labels for Storage type groups present in the Storage Tree, like cookies, local storage etc.
-
-
 ##
 
 # String displayed in the expires column when the cookie is a Session Cookie

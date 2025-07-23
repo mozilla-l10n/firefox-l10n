@@ -26,9 +26,6 @@ return-to-amo-addon-title = Hangime sulle nüüd ka laienduse <img data-l10n-nam
 return-to-amo-add-extension-label = Paigalda laiendus
 return-to-amo-add-theme-label = Lisa teema
 
-##  Variables: $addon-name (String) - Name of the add-on to be installed
-
-
 ## Multistage onboarding strings (about:welcome pages)
 
 
@@ -150,78 +147,3 @@ fx100-upgrade-thanks-header = 100 tänu
 fx100-upgrade-thank-you-body = See on meie 100. { -brand-short-name }i väljalase. <em>Täname</em>, et aitasid luua paremat ja tervislikumat internetti.
 # Message shown with either a pin-to-taskbar or set-default button.
 fx100-upgrade-thanks-keep-body = See on meie 100. väljalase. Täname, et oled osaks meie kogukonnast. Hoia { -brand-short-name } klõpsu kaugusel ka järgmise 100 väljalaske jooksul.
-
-## MR2022 New User Easy Setup screen strings
-
-
-## MR2022 New User Pin Firefox screen strings
-
-
-## MR2022 Existing User Pin Firefox Screen Strings
-
-
-## MR2022 New User Set Default screen strings
-
-
-## MR2022 Get Started screen strings.
-## These strings will be used on the welcome page
-## when Firefox is already set to default and pinned.
-
-
-## MR2022 Get Started screen strings.
-## These strings will be used on the welcome page
-## when Firefox is already set to default and pinned.
-
-
-## If your language uses grammatical genders, in the description for the
-## colorway feel free to switch from "You are a X. You…" (e.g. "You are a
-## Playmaker. You create…") to "X: you…" ("Playmaker: You create…"). This might
-## help creating a more inclusive translation.
-
-
-## MR2022 Multistage Mobile Download screen strings
-
-
-## MR2022 Upgrade Dialog screens
-## Pin private window screen shown only for users who don't have Firefox private pinned
-
-
-## MR2022 Privacy Segmentation screen strings
-
-
-## MR2022 Multistage Gratitude screen strings
-
-
-## Onboarding spotlight for infrequent users
-
-
-## MR2022 Illustration alt tags
-## Descriptive tags for illustrations used by screen readers and other assistive tech
-
-
-## Device migration onboarding
-
-
-## Add-ons Picker screen
-
-
-## The following screens have been updated to use security and privacy focused strings:
-
-
-## New user time and familiarity survey strings
-
-
-## UI strings for the sidebar and vertical tabs
-
-
-## New user onboarding checklist
-
-
-## Tab Groups feature onboarding strings
-
-
-## Multi Profiles feature onboarding messages
-
-
-## Desktop to Mobile Adoption feature callout strings
-

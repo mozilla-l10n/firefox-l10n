@@ -52,9 +52,3 @@ about-networking-rcwn-cache-slow = कैश सुस्ती गणना
 about-networking-rcwn-cache-not-slow = कैश असुस्ती गणना
 about-networking-networkid = नेटवर्क आईडी
 about-networking-networkid-id = नेटवर्क आईडी
-
-## Link is intended as "network link"
-
-
-##
-

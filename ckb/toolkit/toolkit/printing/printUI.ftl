@@ -33,19 +33,8 @@ printui-options = هەڵبژاردەکان
 printui-headers-footers-checkbox = سەرپەڕ و پێپەڕ چاپبکە
 printui-backgrounds-checkbox = پاشبنەما چاپبکە
 
-## The "Format" section, select a version of the website to print. Radio
-## options to select between the original page, selected text only, or a version
-## where the page is processed with "Reader View".
-
-
 ##
 
 printui-system-dialog-link = بەهۆی سیستمەوە چاپی بکە...
 printui-primary-button = چاپکردن
 printui-cancel-button = پاشگەزبوونەوە
-
-## Paper sizes that may be supported by the Save to PDF destination:
-
-
-## Error messages shown when a user has an invalid input
-

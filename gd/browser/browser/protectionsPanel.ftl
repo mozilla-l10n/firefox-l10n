@@ -29,12 +29,6 @@ protections-panel-site-not-working = Nach eil an làrach ag obair?
 protections-panel-site-not-working-view =
     .title = Nach eil an làrach ag obair?
 
-## Text for the toggles shown when ETP is enabled/disabled for a given site.
-## .description is transferred into a separate paragraph by the moz-toggle
-## custom element code.
-##   $host (String): the hostname of the site that is being displayed.
-
-
 ## The "Allowed" header also includes a "Why?" link that, when hovered, shows
 ## a tooltip explaining why these items were not blocked in the page.
 
@@ -63,9 +57,6 @@ protections-panel-content-blocking-fingerprinters-label = Lorgairean-meòir
 protections-panel-blocking-label = Bacte
 protections-panel-not-blocking-label = Ceadaichte
 protections-panel-not-found-label = Cha deach gin a lorg
-
-## Smartblock strings
-
 
 ##
 

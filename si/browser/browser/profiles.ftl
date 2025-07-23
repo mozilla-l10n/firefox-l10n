@@ -6,15 +6,3 @@
 ## Delete profile dialogue that allows users to review what they will lose if they choose to delete their profile. Each item (open windows, etc.) is displayed in a table, followed by a column with the number of items.
 
 delete-profile-autofill = ස්වයං පිරවුම් දත්ත (ලිපින, ගෙවීම් ක්‍රම)
-
-##
-
-
-## These strings are color themes available to select from the profile selection screen. Theme names should be localized.
-
-
-## Alternative text for default profile icons
-
-
-## Labels for default avatar icons
-

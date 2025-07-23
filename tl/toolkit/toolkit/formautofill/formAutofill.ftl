@@ -3,9 +3,6 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 
-## OS Prompt Dialog
-
-
 ## The credit card capture doorhanger
 
 # If Sync is enabled and credit card sync is available,

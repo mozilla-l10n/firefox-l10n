@@ -16,10 +16,6 @@ cert-error-untrusted-default = Die sertifikaat kom nie van 'n vertroude bron nie
 cert-error-details-hsts-label = HTTP streng oordragsekuriteit: { $hasHSTS }
 cert-error-details-cert-chain-label = Sertifikaaatketting:
 
-## Variables:
-##   $hostname (string) - Hostname of the website with cert error.
-
-
 ## Messages used for certificate error titles
 
 connectionFailure-title = Kan nie koppel nie
@@ -44,10 +40,3 @@ nssFailure2-title = Kon nie beveilig koppel nie
 corruptedContentError-title = Fout: inhoud korrup
 sslv3Used-title = Kan nie beveilig koppel nie
 inadequateSecurityError-title = Die verbinding is nie beveilig nie
-
-## Felt Privacy V1 Strings
-
-
-## Variables:
-##   $hostname (String) - Hostname of the website to which the user was trying to connect.
-

@@ -38,12 +38,6 @@ toolbar-button-stop =
 toolbar-button-stop-reload =
     .title = { main-context-menu-reload.aria-label }
 
-## Firefox Account Button
-
-
-## Account toolbar Button
-
-
 ## Save Page
 
 main-context-menu-page-save =
@@ -135,9 +129,6 @@ main-context-menu-audio-save-as =
 main-context-menu-video-email =
     .label = Wereza Olutambi mu emeyilo…
     .accesskey = z
-
-##
-
 
 ##
 

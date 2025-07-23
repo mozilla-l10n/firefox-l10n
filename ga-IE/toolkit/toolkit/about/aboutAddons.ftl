@@ -4,10 +4,6 @@
 
 addons-page-title = Bainisteoir na mBreiseán
 
-## Variables
-##   $domain - Domain name where add-ons are available (e.g. addons.mozilla.org)
-
-
 ##
 
 list-empty-installed =
@@ -157,29 +153,6 @@ addon-install-from-file-filter-name = Breiseáin
 addon-open-about-debugging = Dífhabhtaigh Breiseáin
     .accesskey = b
 
-## Extension shortcut management
-
-
-## Recommended add-ons page
-
-
-## Add-on actions
-
-
-## Pending uninstall message bar
-
-
-## "sites with restrictions" (internally called "quarantined") are special domains
-## where add-ons are normally blocked for security reasons.
-
-
-## This is the tooltip text for the recommended badges for an extension in about:addons. The
-## badge is a small icon displayed next to an extension when it is recommended on AMO.
-
-
-##
-
-
 ## Page headings
 
 default-heading-search-label = Faigh tuilleadh breiseáin
@@ -226,10 +199,3 @@ plugins-gmp-privacy-info = Eolas faoin Phríobháideachas
 plugins-openh264-name = Codec Físe OpenH264 le caoinchead Cisco Systems, Inc.
 plugins-openh264-description = Suiteálann Mozilla an breiseán seo go huathoibríoch chun sonraíocht WebRTC a chomhlíonadh, agus chun glaonna WebRTC a chumasú ar ghléasanna a dteastaíonn an codec físe H.264 uathu.  Tabhair cuairt ar http://www.openh264.org/ le cód foinseach an codec a fheiceáil agus le tuilleadh eolais a fháil faoin chur i bhfeidhm.
 plugins-widevine-name = Modúl Díchriptiúcháin i gcomhair ábhair Widevine a bhuí le Google Inc.
-
-## Headings for the Permissions tab in `about:addons` when the data collection
-## feature is enabled.
-
-
-## Mapping Engine IDs from AI models to how that feature represented by the engine Id is described in the used by section in local model management
-

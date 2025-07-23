@@ -28,9 +28,6 @@ autofill-address-neighborhood = دراوسێ
 autofill-address-village-township = لادێ یان ناوچە
 autofill-address-island = دوورگە
 
-## address-level-2 names
-
-
 ## address-level-1 names
 
 autofill-address-province = پارێزگا

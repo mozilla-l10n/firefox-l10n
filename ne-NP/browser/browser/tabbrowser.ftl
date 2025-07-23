@@ -26,35 +26,15 @@ tabbrowser-mute-tab-audio-tooltip =
            *[other] { $tabCount }ट्याब म्यूट गर्नुहोस् ({ $shortcut })
         }
 
-## Tooltips for tab audio control
-
-
 ## Confirmation dialog when closing a window with more than one tab open,
 ## or when quitting when only one window is open.
 
 tabbrowser-confirm-close-tabs-button = ट्याबहरू बन्द गर्नुहोस्
 
-## Confirmation dialog when quitting using the menu and multiple windows are open.
-
-
-## Confirmation dialog when quitting using the keyboard shortcut (Ctrl/Cmd+Q)
-## Windows does not show a prompt on quit when using the keyboard shortcut by default.
-
-
-## Confirmation dialog when quitting using the keyboard shortcut (Ctrl/Cmd+Q)
-## and browser.warnOnQuitShortcut is true.
-
-
 ## Confirmation dialog when opening multiple tabs simultaneously
 
 tabbrowser-confirm-open-multiple-tabs-title = खोल्नलाई पुष्टि गर्नुहोस्
 tabbrowser-confirm-open-multiple-tabs-button = ट्याबहरु खोल्नुहोस्
-
-## Confirmation dialog for enabling caret browsing
-
-
-## Confirmation dialog for closing all duplicate tabs
-
 
 ##
 
@@ -75,19 +55,3 @@ tabbrowser-context-unmute-tab =
 #   $tabCount (Number): The number of tabs in the current browser window. It will always be 2 at least.
 tabbrowser-ctrl-tab-list-all-tabs =
     .label = सबै { $tabCount } ट्याबहरू देखाउनुहोस्
-
-## Tab manager menu buttons
-## Variables:
-##  $tabGroupName (String): The name of the tab group. See also tab-group-name-default, which will be
-##                          used when the group's name is empty.
-
-
-## Tab Groups
-
-
-## Variables:
-##  $tabCount (Number): the number of tabs that are affected by the action.
-
-
-## Open/saved tab group context menu
-

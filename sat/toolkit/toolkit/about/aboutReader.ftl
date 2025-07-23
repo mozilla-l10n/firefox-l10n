@@ -49,14 +49,3 @@ about-reader-font-type-sans-serif = ᱥᱮᱱᱥ ᱥᱮᱨᱤᱯᱷ
 about-reader-toolbar-close = ᱨᱤᱰᱚᱨ ᱵᱷᱭᱩ ᱵᱚᱸᱫᱚᱭ ᱢᱮ
 about-reader-toolbar-type-controls = ᱞᱮᱠᱷᱟ ᱠᱚᱵᱽᱡᱟ
 about-reader-toolbar-savetopocket = { -pocket-brand-name } ᱨᱮ ᱥᱟᱺᱪᱟᱣ ᱢᱮ
-
-## Reader View colors menu
-
-
-## These are used as labels for the custom theme color pickers.
-## The .title element is used to make the editing functionality
-## clear and give context for screen reader users.
-
-
-## Reader View text and layout menu
-

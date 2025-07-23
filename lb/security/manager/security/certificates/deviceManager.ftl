@@ -9,9 +9,3 @@ devmgr-header-details =
     .label = Detailer
 devmgr-header-value =
     .label = Wäert
-
-## Strings used for load device
-
-
-## Token Manager
-

@@ -81,9 +81,3 @@ account-multiple-tabs-arriving-from-single-device = { $tabCount } टैब { $d
 account-multiple-tabs-arriving-from-multiple-devices = { $tabCount } टैब अहाँक कनेक्टेड डिवाइस सँ पहुँचल अछि
 # This version is used when we don't know any device names.
 account-multiple-tabs-arriving-from-unknown-device = { $tabCount } टैब आबि गेल अछि
-
-## These strings are used in notifications in which the user remotely closed
-## tabs from other devices
-## Variables:
-##   $closedCount (Number): the number of tabs closed
-

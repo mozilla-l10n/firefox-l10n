@@ -39,9 +39,6 @@ download-cert-view-cert =
     .label = نظارہ
 download-cert-view-text = سی اے تصدیق نامہ معائنہ کریں
 
-## Client Authorization Ask dialog
-
-
 ## Client Authentication Ask dialog
 
 client-auth-window =
@@ -84,6 +81,3 @@ set-password-backup-pw =
 set-password-repeat-backup-pw =
     .value = تصدیق نامہ پشتارہ پاس ورڈ (دوبارہ):
 set-password-reminder = اہم: اگر آپ اپنا تصدیق نامہ پشتارہ پاس ورڈ بھول جاتے ہیں تو بعد میں آپ یہ پشتارہ بحال کرنے کے اہل نہیں رہیں گے۔ لہذہٰ اسے محفوظ محل وقوع میں ریکارڈ کریں۔
-
-## Protected authentication alert
-

@@ -4,38 +4,3 @@
 
 # Menu item that links to the Firefox Accounts settings for connected devices.
 account-manage-devices = ଡିଭାଇସ୍ ପରିଚାଳନା…
-
-## Variables:
-##   $email (String): = Email address of user's Firefox Account.
-
-
-## Displayed in the Send Tab/Page/Link to Device context menu when right clicking a tab, a page or a link.
-
-
-## Displayed in the Send Tabs context menu when right clicking a tab, a page or a link
-## and the account has only 1 device connected.
-
-
-## Displayed in the Send Tabs context menu when right clicking a tab, a page or a link
-## and the Sync account is unverified. Redirects to the Sync preferences page.
-
-
-## These strings are used in a notification shown when a new device joins the Firefox account.
-
-
-## These strings are used in a notification shown when we're opening
-## a single tab another device sent us to display.
-## The body for this notification is the URL of the received tab.
-
-
-## These strings are used in a notification shown when we're opening
-## multiple tabs another device or devices sent us to display.
-## Variables:
-##   $tabCount (Number): the number of tabs received
-
-
-## These strings are used in notifications in which the user remotely closed
-## tabs from other devices
-## Variables:
-##   $closedCount (Number): the number of tabs closed
-

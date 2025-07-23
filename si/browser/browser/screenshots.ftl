@@ -48,6 +48,3 @@ screenshots-component-download-button-2 = බාගන්න
 ## not be changed unless the keyboard layout in the locale requires it.
 
 screenshots-component-download-key = S
-
-##
-

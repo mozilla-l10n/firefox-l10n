@@ -49,9 +49,6 @@ options-default-color-unit-rgb = RVB(A)
 options-default-color-unit-hwb = HWB
 options-default-color-unit-name = Noms de colors
 
-## Web Console section
-
-
 ## Style Editor section
 
 # The heading

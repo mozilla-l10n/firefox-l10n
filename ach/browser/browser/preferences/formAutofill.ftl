@@ -25,9 +25,6 @@ autofill-address-family-name = Nying Kwon
 autofill-address-organization = Dul
 autofill-address-street = Kanonge me yoo gudo
 
-## address-level-3 (Sublocality) names
-
-
 ## address-level-2 names
 
 autofill-address-city = Boma

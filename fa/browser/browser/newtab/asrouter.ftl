@@ -151,27 +151,15 @@ spotlight-pin-secondary-button = اکنون نه
 # exceeding characters will be truncated.
 mr2022-background-update-toast-secondary-button-label = زمانی دیگر یادآوری کن
 
-## Firefox View CFR
-
-
 ## Firefox View Spotlight
 
 firefoxview-spotlight-promo-primarybutton = ببینید چگونه کار می‌کند
 firefoxview-spotlight-promo-secondarybutton = پرش
 
-## Colorways expiry reminder CFR
-
-
-## Cookie Banner Handling CFR
-
-
 ## These strings are used in the Fox doodle Pin/set default spotlights
 
 fox-doodle-pin-headline = خوش برگشتید
 fox-doodle-pin-secondary = اکنون نه
-
-## These strings are used in the Set Firefox as Default PDF Handler for Existing Users experiment
-
 
 ## FxA sync CFR
 
@@ -184,25 +172,9 @@ fxa-sync-cfr-primary = بیشتر بدانید
 device-migration-fxa-spotlight-heavy-user-primary-button = شروع کنید
 device-migration-fxa-spotlight-sync-primary-button = شروع کنید
 
-## Set as Default PDF Reader Infobar
-
-
 ## Launch on login infobar notification
 
 launch-on-login-learnmore = بیشتر بدانید
-
-## These string variants are used when the “launch on login” infobar
-## notification is displayed for a second time.
-
-
-## Tail Fox Set Default Spotlight
-
-
-## Root Certificate Succession Infobar
-
-
-## Root Certificate Succession Windows Background Notification
-
 
 ## FxA Menu Message variants
 
@@ -210,6 +182,3 @@ fxa-menu-message-close-button =
     .title = بستن
     .aria-label = بستن
 fxa-menu-message-sign-up-button = نام نویسی
-
-## Multi-CTA Fox Doodle Spotlight
-

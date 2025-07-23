@@ -134,11 +134,6 @@ media-device-latency = Закъснение
 media-codec-support-supported = Поддържан
 media-codec-support-unsupported = Неподдържан
 
-## Media Content Decryption Modules (CDM)
-## See EME Spec for more explanation for following technical terms
-## https://w3c.github.io/encrypted-media/
-
-
 ##
 
 intl-title = Интернационализиране и локализация
@@ -311,9 +306,6 @@ policies-inactive = Изключени
 policies-active = Включено
 policies-error = Грешка
 
-## Printing section
-
-
 ## Remote Settings sections
 
 support-remote-settings-title = Отдалечени настройки
@@ -324,9 +316,3 @@ support-remote-settings-status-broken = Не работи
 
 support-remote-experiments-title = Отдалечени експерименти
 support-remote-features-title = Отдалечени функции
-
-## Pointing devices
-
-
-## Content Analysis (DLP)
-

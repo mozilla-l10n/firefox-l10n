@@ -14,6 +14,3 @@
 toolbox-meatball-menu-settings-label = Ter
 toolbox-meatball-menu-documentation-label = Gin acoya…
 toolbox-meatball-menu-community-label = Lwak…
-
-## These labels are shown in the top-toolbar in the Browser Toolbox and Browser Console
-

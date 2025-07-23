@@ -114,9 +114,6 @@ urlbar-star-edit-bookmark =
 urlbar-star-add-bookmark =
     .tooltiptext = یہ صفحہ نشان زد کریں ({ $shortcut })
 
-## Page Action Context Menu
-
-
 ## Auto-hide Context Menu
 
 full-screen-autohide =
@@ -166,11 +163,6 @@ search-one-offs-tabs =
     .tooltiptext = تبز  ({ $restrict })
 search-one-offs-history =
     .tooltiptext = سابقات ({ $restrict })
-
-## QuickActions are shown in the urlbar as the user types a matching string
-## The -cmd- strings are comma separated list of keywords that will match
-## the action.
-
 
 ## Bookmark Panel
 
@@ -268,14 +260,6 @@ browser-tab-audio-playing2 = ‏‏چلا رہا ہے
 # This label should be written in all capital letters if your locale supports them.
 browser-tab-audio-muted2 = خاموش
 
-## These labels should be written in all capital letters if your locale supports them.
-## Variables:
-##  $count (number): number of affected tabs
-
-
-## Bookmarks toolbar items
-
-
 ## WebRTC Pop-up notifications
 
 popup-select-camera-device =
@@ -296,9 +280,6 @@ popup-all-windows-shared = آپ کی سکرین پر نظر آنے والے تم
 
 sharing-warning-proceed-to-tab =
     .label = ٹیب پر آگے بڑھیں
-
-## DevTools F12 popup
-
 
 ## URL Bar
 
@@ -403,11 +384,6 @@ reader-view-enter-button =
 reader-view-close-button =
     .aria-label = ناظر نظارہ بند کریں
 
-## Picture-in-Picture urlbar button
-## Variables:
-##   $shortcut (String) - Keyboard shortcut to execute the command.
-
-
 ## Full Screen and Pointer Lock UI
 
 # Please ensure that the domain stays in the `<span data-l10n-name="domain">` markup.
@@ -496,9 +472,6 @@ save-to-pocket-button =
     .label = { -pocket-brand-name } میں محفوظ کریں
     .tooltiptext = { -pocket-brand-name } میں محفوظ کریں
 
-## Repair text encoding toolbar button
-
-
 ## Customize Toolbar Buttons
 
 # Variables:
@@ -575,10 +548,6 @@ picture-in-picture-hide-toggle =
     .label = تصویر میں تصویر ٹوگل چھپائیں
     .accesskey = H
 
-## Since the default position for PiP controls does not change for RTL layout,
-## right-to-left languages should use "Left" and "Right" as in the English strings,
-
-
 ##
 
 
@@ -621,33 +590,12 @@ tabs-toolbar-list-all-tabs =
 
 restore-session-startup-suggestion-button = مجھے دکھاؤ کیسے
 
-## Infobar shown when the user tries to open a file picker and file pickers are blocked by enterprise policy
-
-
 ## Mozilla data reporting notification (Telemetry, Firefox Health Report, etc)
 
 data-reporting-notification-message = { -brand-short-name } خودکار طور پر { -vendor-short-name } کو کچھ کوائف بھیجتا ہے تاکہ ہم آپ کا تجربہ بہتر کر سکیں۔
 data-reporting-notification-button =
     .label = میرے شیَر کرنے کی اشیاہ چنیں
     .accesskey = چ
-
-## Unified extensions (toolbar) button
-
-
-## Unified extensions button when permission(s) are needed.
-## Note that the new line is intentionally part of the tooltip.
-
-
-## Unified extensions button when some extensions are quarantined.
-## Note that the new line is intentionally part of the tooltip.
-
-
-## Unified extensions button when some extensions are disabled (e.g. through add-ons blocklist).
-## Note that the new line is intentionally part of the tooltip.
-
-
-## Private browsing reset button
-
 
 ## Autorefresh blocker
 
@@ -656,9 +604,6 @@ refresh-blocked-redirect-label = { -brand-short-name } نے اس پیج کو خ�
 refresh-blocked-allow =
     .label = اجازت دیں
     .accesskey = A
-
-## Firefox Relay integration
-
 
 ## Add-on Pop-up Notifications
 
@@ -690,16 +635,3 @@ popup-warning-button =
 #   $popupURI (String): the URI for the pop-up window
 popup-show-popup-menuitem =
     .label = '{ $popupURI }' دکھائیں
-
-## File-picker crash notification ("FilePickerCrashed.sys.mjs")
-
-
-# Button used with file-picker-crashed-save-default. Opens the folder in Windows
-# Explorer, with the saved file selected and in focus.
-#
-# The wording here should be consistent with the Windows variant of
-# `downloads-cmd-show-menuitem-2` and similar messages.
-
-
-## Onboarding Finish Setup checklist
-

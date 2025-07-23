@@ -13,9 +13,6 @@ devmgr-button-changepw =
     .label = Badilisha Nywila
     .accesskey = N
 
-## Strings used for load device
-
-
 ## Token Manager
 
 devinfo-status =

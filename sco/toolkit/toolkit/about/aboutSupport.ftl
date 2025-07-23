@@ -155,14 +155,6 @@ media-capabilities-title = Media Capabilities
 # List all the entries of the database.
 media-capabilities-enumerate = Enumerate database
 
-## Codec support table
-
-
-## Media Content Decryption Modules (CDM)
-## See EME Spec for more explanation for following technical terms
-## https://w3c.github.io/encrypted-media/
-
-
 ##
 
 intl-title = Internationalization & Localization
@@ -367,9 +359,6 @@ support-printing-modified-settings = Modified prent settins
 support-printing-prefs-name = Nemme
 support-printing-prefs-value = Vailue
 
-## Remote Settings sections
-
-
 ## Normandy sections
 
 support-remote-experiments-title = Remote Experiments
@@ -379,9 +368,3 @@ support-remote-experiments-see-about-studies = See <a data-l10n-name="support-ab
 support-remote-features-title = Remote Featurs
 support-remote-features-name = Nemme
 support-remote-features-status = Status
-
-## Pointing devices
-
-
-## Content Analysis (DLP)
-

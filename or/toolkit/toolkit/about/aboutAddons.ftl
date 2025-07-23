@@ -4,10 +4,6 @@
 
 addons-page-title = ଏଡ-ଅନ ପରିଚାଳକ
 
-## Variables
-##   $domain - Domain name where add-ons are available (e.g. addons.mozilla.org)
-
-
 ##
 
 list-empty-installed =
@@ -141,29 +137,6 @@ addon-install-from-file = ଫାଇଲରୁ ଏଡ-ଅନକୁ ସ୍ଥାପ
 addon-install-from-file-dialog-title = ସ୍ଥାପନ କରିବା ପାଇଁ ଏଡ-ଅନ ବାଛନ୍ତୁ
 addon-install-from-file-filter-name = ଏଡ-ଅନଗୁଡ଼ିକ
 
-## Extension shortcut management
-
-
-## Recommended add-ons page
-
-
-## Add-on actions
-
-
-## Pending uninstall message bar
-
-
-## "sites with restrictions" (internally called "quarantined") are special domains
-## where add-ons are normally blocked for security reasons.
-
-
-## This is the tooltip text for the recommended badges for an extension in about:addons. The
-## badge is a small icon displayed next to an extension when it is recommended on AMO.
-
-
-##
-
-
 ## Page headings
 
 addon-page-options-button =
@@ -195,10 +168,3 @@ details-notification-gmp-pending2 =
 ## Gecko Media Plugins (GMPs)
 
 plugins-openh264-name = Cisco Systems, Inc. ଦ୍ୱାରା ପ୍ରଦତ୍ତ OpenH264 ଭିଡ଼ିଓ କଡେକ
-
-## Headings for the Permissions tab in `about:addons` when the data collection
-## feature is enabled.
-
-
-## Mapping Engine IDs from AI models to how that feature represented by the engine Id is described in the used by section in local model management
-

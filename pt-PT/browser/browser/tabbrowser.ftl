@@ -224,7 +224,9 @@ tabbrowser-manager-current-window-tab-group =
     .label = { $tabGroupName }
     .tooltiptext = { $tabGroupName } — Janela atual
 
-## Tab Groups
+## Variables:
+##  $tabGroupName (String): The name of the tab group. Defaults to the value
+##                          of tab-group-name-default.
 
 tab-group-editor-title-create = Criar grupo de separadores
 tab-group-editor-title-edit = Gerir grupo de separadores
@@ -254,16 +256,12 @@ tab-group-editor-color-selector2-gray = Cinzento
     .title = Cinzento
 tab-group-editor-color-selector2-red = Vermelho
     .title = Vermelho
-# Variables:
-#  $tabGroupName (String): The name of the tab group. Defaults to the value
-#                          of tab-group-name-default.
 tab-group-description = { $tabGroupName } — Grupo de separadores
 tab-context-unnamed-group =
     .label = Grupo sem nome
 tab-group-name-default = Grupo sem nome
 
-## Variables:
-##  $tabCount (Number): the number of tabs that are affected by the action.
+##
 
 tab-context-move-tab-to-new-group =
     .label =

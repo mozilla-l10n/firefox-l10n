@@ -33,9 +33,6 @@ download-cert-view-cert =
     .label = Gunari
 download-cert-view-text = Tabatiyan-tiira hini koroši
 
-## Client Authorization Ask dialog
-
-
 ## Client Authentication Ask dialog
 
 client-auth-window =
@@ -78,6 +75,3 @@ set-password-backup-pw =
 set-password-repeat-backup-pw =
     .value = Tabatiyan-tiira banda-gaabu šennikufal (koyne):
 set-password-reminder = Hawgay: Nda war dirŋa war tabatiyan-tiira banda-gaabu šennikufaloo, war ši hin ka willi kate koyne hiino.  Taare w'a jiši doo saajantaa ra.
-
-## Protected authentication alert
-

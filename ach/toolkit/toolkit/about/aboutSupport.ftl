@@ -74,30 +74,12 @@ sandbox-sys-call-tid = TID
 
 media-device-name = Nying
 
-## Codec support table
-
-
-## Media Content Decryption Modules (CDM)
-## See EME Spec for more explanation for following technical terms
-## https://w3c.github.io/encrypted-media/
-
-
 ##
 
 intl-locales-requested = Leb ma kipenyo pi gi
 intl-locales-available = Leb matye
 intl-locales-supported = Leb me purugram
 intl-locales-default = Leb makwongo
-
-## Remote Debugging
-##
-## The Firefox remote protocol provides low-level debugging interfaces
-## used to inspect state and control execution of documents,
-## browser instrumentation, user interaction simulation,
-## and for subscribing to browser-internal events.
-##
-## See also https://firefox-source-docs.mozilla.org/remote/
-
 
 ##
 
@@ -202,18 +184,3 @@ touch-warning = kijuko woko keto me aguda mape time la kacel pi ter mape kicwako
 policies-inactive = Pe tye katic
 policies-active = Tye katic
 policies-error = Bal
-
-## Printing section
-
-
-## Remote Settings sections
-
-
-## Normandy sections
-
-
-## Pointing devices
-
-
-## Content Analysis (DLP)
-

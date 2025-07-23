@@ -9,6 +9,3 @@ profile-selection-button-cancel =
 profile-selection-delete-button =
     .label = Tòmbî Lól...
     .accesskey = b
-
-## Messages used in the profile manager
-

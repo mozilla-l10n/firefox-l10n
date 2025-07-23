@@ -48,9 +48,6 @@ download-cert-view-cert =
     .label = Seall
 download-cert-view-text = Sgrùdaich teisteanas an ùghdarrais theisteanachaidh
 
-## Client Authorization Ask dialog
-
-
 ## Client Authentication Ask dialog
 
 client-auth-window =

@@ -4,10 +4,6 @@
 
 addons-page-title = Papildinājumu pārvaldnieks
 
-## Variables
-##   $domain - Domain name where add-ons are available (e.g. addons.mozilla.org)
-
-
 ##
 
 list-empty-installed =
@@ -160,29 +156,6 @@ addon-install-from-file-filter-name = Papildinājumi
 addon-open-about-debugging = Atkļūdot papildinājumus
     .accesskey = d
 
-## Extension shortcut management
-
-
-## Recommended add-ons page
-
-
-## Add-on actions
-
-
-## Pending uninstall message bar
-
-
-## "sites with restrictions" (internally called "quarantined") are special domains
-## where add-ons are normally blocked for security reasons.
-
-
-## This is the tooltip text for the recommended badges for an extension in about:addons. The
-## badge is a small icon displayed next to an extension when it is recommended on AMO.
-
-
-##
-
-
 ## Page headings
 
 addon-page-options-button =
@@ -226,10 +199,3 @@ plugins-gmp-privacy-info = Privātuma informācija
 plugins-openh264-name = OpenH264 video kodeks, ko piedāvā Cisco Systems, Inc.
 plugins-openh264-description = Šo spraudni automātiski instalē Mozilla, lai nodrošinātu savietojamību ar WebRTC specifikāciju un ļautu realizēt WebRTC zvanus starp ierīcēm, kam nepieciešams H.264 video kodeks. Apmeklējiet http://www.openh264.org/, lai iepazītos ar pirmkodu un uzzinātu vairāk par realizāciju.
 plugins-widevine-name = Google Inc piedāvātais Widevine Content Decryption Module
-
-## Headings for the Permissions tab in `about:addons` when the data collection
-## feature is enabled.
-
-
-## Mapping Engine IDs from AI models to how that feature represented by the engine Id is described in the used by section in local model management
-

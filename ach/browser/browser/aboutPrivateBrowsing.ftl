@@ -39,12 +39,3 @@ about-private-browsing-search-banner-close-button =
     .aria-label = Lor
 about-private-browsing-promo-close-button =
     .title = Lor
-
-## Strings used in a “pin promotion” message, which prompts users to pin a private window
-
-
-## Strings used in a promotion message for cookie banner reduction
-
-
-## Strings for Felt Privacy v1 experiments in 119
-

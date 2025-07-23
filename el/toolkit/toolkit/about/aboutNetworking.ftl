@@ -64,6 +64,3 @@ about-networking-moved-about-logging = Αυτή η σελίδα έχει μετ�
 
 about-networking-networkid-is-up = Η σύνδεση είναι ενεργή
 about-networking-networkid-status-known = Η κατάσταση σύνδεσης είναι γνωστή
-
-##
-

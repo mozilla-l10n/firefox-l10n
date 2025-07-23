@@ -222,9 +222,6 @@ fxa-sync-cfr-primary = Tetamäx ch'aqa' chik
 fxa-sync-cfr-secondary = Tinatäx pe chwe
     .accesskey = n
 
-## Device Migration FxA Spotlight
-
-
 ## Set as Default PDF Reader Infobar
 
 pdf-default-notification-decline-button =
@@ -235,22 +232,6 @@ pdf-default-notification-decline-button =
 launch-on-login-infobar-reject-button = Wakami mani
     .accesskey = m
 
-## These string variants are used when the “launch on login” infobar
-## notification is displayed for a second time.
-
-
 ## Tail Fox Set Default Spotlight
 
 tail-fox-spotlight-secondary-button = Wakami mani
-
-## Root Certificate Succession Infobar
-
-
-## Root Certificate Succession Windows Background Notification
-
-
-## FxA Menu Message variants
-
-
-## Multi-CTA Fox Doodle Spotlight
-

@@ -1225,9 +1225,6 @@ refresh-blocked-allow =
     .label = Sireg
     .accesskey = A
 
-## Firefox Relay integration
-
-
 ## Add-on Pop-up Notifications
 
 popup-notification-addon-install-unsigned =

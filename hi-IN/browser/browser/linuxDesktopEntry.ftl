@@ -10,7 +10,3 @@
 desktop-entry-name = { -brand-shortcut-name }
 # Combine Name and GenericName. This string is specific to GNOME.
 desktop-entry-x-gnome-full-name = { -brand-shortcut-name } वेब ब्राउज़र
-
-## Actions are visible in a context menu after right clicking the
-## taskbar icon, possibly other places depending on the environment.
-

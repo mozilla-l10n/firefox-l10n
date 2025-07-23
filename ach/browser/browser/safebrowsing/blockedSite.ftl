@@ -30,14 +30,6 @@ safeb-blocked-phishing-page-learn-more = Nong ngec mapol ikom kakube me bwola ki
 ## Variables
 ##  $sitename (string) - Domain name for the blocked page
 
-
-## Variables
-##  $sitename (string) - Domain name for the blocked page
-
-
-## Variables
-##  $sitename (string) - Domain name for the blocked page
-
 safeb-blocked-unwanted-page-error-desc-override = <span data-l10n-name='sitename'>{ $sitename }</span> kimiyo ripot <a data-l10n-name='error_desc_link'>ni tye ki purugram maraco</a>. Itwero <a data-l10n-name='ignore_warning_link'>kwero ciko man</a> ka i cito i kakube man ma pe ber ni.
 safeb-blocked-unwanted-page-error-desc-no-override = <span data-l10n-name='sitename'>{ $sitename }</span> kimiyo ripot <a data-l10n-name='error_desc_link'>ni tye ki purugram maraco</a>.
 

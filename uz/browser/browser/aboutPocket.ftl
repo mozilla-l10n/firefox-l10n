@@ -45,9 +45,3 @@ pocket-panel-home-paragraph = Sayt, maqola, video va podkastlar bilan tanishish,
 pocket-panel-home-explore-popular-topics = Mashhur mavzular bilan tanishish
 pocket-panel-home-discover-more = Koʻproq tanishish
 pocket-panel-home-explore-more = Tanishish
-
-## Pocket panel header component
-
-
-## Pocket panel buttons
-

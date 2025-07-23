@@ -108,6 +108,3 @@ printui-paper-jis-b4 = JIS-B4
 printui-paper-letter = US kârta
 printui-paper-legal = US Ofîsio
 printui-paper-tabloid = Tablôide
-
-## Error messages shown when a user has an invalid input
-

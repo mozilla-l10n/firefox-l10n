@@ -29,9 +29,6 @@ tracking-protection-icon-no-trackers-detected-container =
 # Header of the Protections Panel.
 protections-header = { $host } కొరకు సంరక్షణలు
 
-## Blocking and Not Blocking sub-views in the Protections Panel
-
-
 ## Footer and Milestones sections in the Protections Panel
 ## Variables:
 ##   $trackerCount (Number): number of trackers blocked

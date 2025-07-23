@@ -63,12 +63,6 @@ urlbar-search-tips-confirm = ကောင်းပြီ၊ ရပါပြီ�
 urlbar-tip-icon-description =
     .alt = အကြံပြုချက်။
 
-## Prompts users to use the Urlbar when they open a new tab or visit the
-## homepage of their default search engine.
-## Variables:
-##  $engineName (String): The name of the user's default search engine. e.g. "Google" or "DuckDuckGo".
-
-
 ## Local search mode indicator labels in the urlbar
 
 urlbar-search-mode-bookmarks = စာမှတ်များ
@@ -103,9 +97,6 @@ urlbar-star-edit-bookmark =
 #   $shortcut (String) - A keyboard shortcut for the add bookmark command.
 urlbar-star-add-bookmark =
     .tooltiptext = စာအမှတ်အားမှတ်သားထားမည် ({ $shortcut })
-
-## Page Action Context Menu
-
 
 ## Auto-hide Context Menu
 
@@ -150,11 +141,6 @@ search-one-offs-tabs =
     .tooltiptext = တဗ်များ ({ $restrict })
 search-one-offs-history =
     .tooltiptext = မှတ်တမ်းများ ({ $restrict })
-
-## QuickActions are shown in the urlbar as the user types a matching string
-## The -cmd- strings are comma separated list of keywords that will match
-## the action.
-
 
 ## Bookmark Panel
 
@@ -225,17 +211,6 @@ browser-window-restore-down-button =
 browser-window-close-button =
     .tooltiptext = ပိတ်ပါ
 
-## Tab actions
-
-
-## These labels should be written in all capital letters if your locale supports them.
-## Variables:
-##  $count (number): number of affected tabs
-
-
-## Bookmarks toolbar items
-
-
 ## WebRTC Pop-up notifications
 
 popup-all-windows-shared = သင့်စကရင်ပေါ်ရှိ မြင်ရသော ဝင်းဒိုးအားလုံး မျှဝေပေးမည်။
@@ -244,9 +219,6 @@ popup-all-windows-shared = သင့်စကရင်ပေါ်ရှိ မ�
 
 sharing-warning-proceed-to-tab =
     .label = Tab ကိုဆက်လက်ဆောင်ရွက်ပါ
-
-## DevTools F12 popup
-
 
 ## URL Bar
 
@@ -291,14 +263,6 @@ urlbar-searchmode-tabs =
 urlbar-searchmode-history =
     .label = မှတ်တမ်း
 
-## Action text shown in urlbar results, usually appended after the search
-## string or the url, like "result value - action text".
-## In these actions "Search" is a verb, followed by where the search is performed.
-
-
-## Labels shown above groups of urlbar results
-
-
 ## Reader View toolbar buttons
 
 # This should match menu-view-enter-readerview in menubar.ftl
@@ -307,11 +271,6 @@ reader-view-enter-button =
 # This should match menu-view-close-readerview in menubar.ftl
 reader-view-close-button =
     .aria-label = စာဖတ်ပုံစံကို ပိတ်ရန်
-
-## Picture-in-Picture urlbar button
-## Variables:
-##   $shortcut (String) - Keyboard shortcut to execute the command.
-
 
 ## Full Screen and Pointer Lock UI
 
@@ -389,9 +348,6 @@ save-to-pocket-button =
     .label = { -pocket-brand-name } တွင်သိမ်းပါ
     .tooltiptext = { -pocket-brand-name } တွင်သိမ်းပါ
 
-## Repair text encoding toolbar button
-
-
 ## Customize Toolbar Buttons
 
 toolbar-overflow-customize-button =
@@ -423,9 +379,6 @@ toolbar-button-new-private-window =
 
 eme-notifications-drm-content-playing = ဒီဆိုက်ရှိ အော်ဒီယို (သို့) ဗွီဒီယိုအချို့သည် DRM ဆော့ဖ်ဝဲ({ -brand-short-name } က သင့်ကို ပေးထားသည့် လုပ်ပိုင်ခွင့်ကို ကန့်သတ်နိုင်သည်)ကို အသုံးပြုထားသည်။
 
-## Password save/update panel
-
-
 ##
 
 ui-tour-info-panel-close =
@@ -446,10 +399,6 @@ popups-infobar-block =
 popups-infobar-dont-show-message =
     .label = ဤစာတန်းအား pop-ups ဝင်းဒိုးများပိတ်ထားပါက ထပ်မပြပါနှင့်။
     .accesskey = D
-
-## Since the default position for PiP controls does not change for RTL layout,
-## right-to-left languages should use "Left" and "Right" as in the English strings,
-
 
 ##
 
@@ -484,36 +433,12 @@ tabs-toolbar-list-all-tabs =
     .label = တပ်ဗ်များအားလုံး၏ စာရင်းကို ပြပါ
     .tooltiptext = တပ်ဗ်များအားလုံး၏ စာရင်းကို ပြပါ
 
-## Infobar shown at startup to suggest session-restore
-
-
-## Infobar shown when the user tries to open a file picker and file pickers are blocked by enterprise policy
-
-
 ## Mozilla data reporting notification (Telemetry, Firefox Health Report, etc)
 
 data-reporting-notification-message = { -brand-short-name } သည် { -vendor-short-name } သို့အချို့အချက်အလက်များအား အလိုအလျောက်ပေးပို့ပြီးသင်၏ အတွေ့အကြုံကိုမြှင့်တင်ပေးပါလိမ့်မည်
 data-reporting-notification-button =
     .label = မျှဝေနိုင်သည်များကို ရွေးပါ
     .accesskey = C
-
-## Unified extensions (toolbar) button
-
-
-## Unified extensions button when permission(s) are needed.
-## Note that the new line is intentionally part of the tooltip.
-
-
-## Unified extensions button when some extensions are quarantined.
-## Note that the new line is intentionally part of the tooltip.
-
-
-## Unified extensions button when some extensions are disabled (e.g. through add-ons blocklist).
-## Note that the new line is intentionally part of the tooltip.
-
-
-## Private browsing reset button
-
 
 ## Autorefresh blocker
 
@@ -522,9 +447,6 @@ refresh-blocked-redirect-label = { -brand-short-name } သည် ဒီစာမ
 refresh-blocked-allow =
     .label = ခွင့်ပြုပါ
     .accesskey = A
-
-## Firefox Relay integration
-
 
 ## Add-on Pop-up Notifications
 
@@ -551,16 +473,3 @@ popup-warning-button =
 #   $popupURI (String): the URI for the pop-up window
 popup-show-popup-menuitem =
     .label = '{ $popupURI }' ကို ပြပါ
-
-## File-picker crash notification ("FilePickerCrashed.sys.mjs")
-
-
-# Button used with file-picker-crashed-save-default. Opens the folder in Windows
-# Explorer, with the saved file selected and in focus.
-#
-# The wording here should be consistent with the Windows variant of
-# `downloads-cmd-show-menuitem-2` and similar messages.
-
-
-## Onboarding Finish Setup checklist
-

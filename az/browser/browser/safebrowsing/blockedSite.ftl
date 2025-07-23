@@ -30,14 +30,6 @@ safeb-blocked-phishing-page-learn-more = Aldadıcı saytlar və fişinq haqqınd
 ## Variables
 ##  $sitename (string) - Domain name for the blocked page
 
-
-## Variables
-##  $sitename (string) - Domain name for the blocked page
-
-
-## Variables
-##  $sitename (string) - Domain name for the blocked page
-
 safeb-blocked-unwanted-page-error-desc-override = <span data-l10n-name='sitename'>{ $sitename }</span> saytında <a data-l10n-name='error_desc_link'>zərərli proqram olması xəbər edilib</a>. <a data-l10n-name='ignore_warning_link'>Təhlükəni görməməzdən gəl</a>ə və sayta daxil ola bilərsiz.
 safeb-blocked-unwanted-page-error-desc-no-override = <span data-l10n-name='sitename'>{ $sitename }</span> saytında <a data-l10n-name='error_desc_link'>zərərli proqram olması xəbər edilib</a>.
 

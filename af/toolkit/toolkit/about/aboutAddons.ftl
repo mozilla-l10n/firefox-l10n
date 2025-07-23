@@ -4,10 +4,6 @@
 
 addons-page-title = Byvoegingbestuurder
 
-## Variables
-##   $domain - Domain name where add-ons are available (e.g. addons.mozilla.org)
-
-
 ##
 
 list-empty-installed =
@@ -157,29 +153,6 @@ addon-install-from-file-filter-name = Byvoegings
 addon-open-about-debugging = Ontfout byvoegings
     .accesskey = b
 
-## Extension shortcut management
-
-
-## Recommended add-ons page
-
-
-## Add-on actions
-
-
-## Pending uninstall message bar
-
-
-## "sites with restrictions" (internally called "quarantined") are special domains
-## where add-ons are normally blocked for security reasons.
-
-
-## This is the tooltip text for the recommended badges for an extension in about:addons. The
-## badge is a small icon displayed next to an extension when it is recommended on AMO.
-
-
-##
-
-
 ## Page headings
 
 addon-page-options-button =
@@ -223,10 +196,3 @@ plugins-gmp-privacy-info = Privaatheidinligting
 plugins-openh264-name = OpenH264-videokodek verskaf deur Cisco Systems, geïnk.
 plugins-openh264-description = Dié inprop word outomaties deur Mozilla geïnstalleer om te voldoen aan die WebRTC-spesifikasie en om WebRTC-oproepe toe te laat met toestelle wat die H.264-videokodering gebruik. Besoek http://www.openh264.org/ om die bronkode te sien en vir meer inligting oor die implementasie.
 plugins-widevine-name = Widevine Content Decryption-module verkaf deur Google Inc.
-
-## Headings for the Permissions tab in `about:addons` when the data collection
-## feature is enabled.
-
-
-## Mapping Engine IDs from AI models to how that feature represented by the engine Id is described in the used by section in local model management
-

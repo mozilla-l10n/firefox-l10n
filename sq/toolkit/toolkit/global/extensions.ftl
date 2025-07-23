@@ -17,9 +17,6 @@ webext-perms-header-unsigned-with-perms = Të shtohet { $extension }? Ky zgjerim
 webext-perms-sideload-header = { $extension } u shtua
 webext-perms-optional-perms-header = { $extension } lyp leje shtesë.
 
-## Headers used in the webextension permissions dialog, inside the content.
-
-
 ##
 
 webext-perms-add =
@@ -87,9 +84,6 @@ webext-perms-host-description-multiple-domains =
         [one] Të hyjë në të dhënat tuaja për sajte në përkatësi { $domainCount }
        *[other] Të hyjë në të dhënat tuaja për sajte në përkatësi { $domainCount }
     }
-
-## Strings for data collection permissions in the permission prompt.
-
 
 ## Headers used in the webextension permissions dialog for synthetic add-ons.
 ## The part of the string describing what privileges the extension gives should be consistent

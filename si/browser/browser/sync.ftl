@@ -33,6 +33,3 @@ fxa-menu-send-tab-to-device-description = ඔබ ඇතුළු වී සි�
 fxa-menu-sign-out =
     .label = නික්මෙන්න…
 fxa-menu-sync-description = ඕනෑම තැනකින් වියමනට ප්‍රවේශය
-
-## Sync warning strings that support the browser profiles feature, these will be shown when the user might be merging data
-

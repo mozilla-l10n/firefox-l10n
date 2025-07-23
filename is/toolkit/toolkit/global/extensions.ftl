@@ -17,9 +17,6 @@ webext-perms-header-unsigned-with-perms = Bæta við { $extension }? Þessi forr
 webext-perms-sideload-header = { $extension } bætt við
 webext-perms-optional-perms-header = { $extension } þarfnast auka heimilda.
 
-## Headers used in the webextension permissions dialog, inside the content.
-
-
 ##
 
 webext-perms-add =
@@ -88,9 +85,6 @@ webext-perms-host-description-multiple-domains =
        *[other] Skoða gögnin þín fyrir vefsvæði á { $domainCount } lénum
     }
 
-## Strings for data collection permissions in the permission prompt.
-
-
 ## Headers used in the webextension permissions dialog for synthetic add-ons.
 ## The part of the string describing what privileges the extension gives should be consistent
 ## with the value of webext-site-perms-description-gated-perms-{sitePermission}.
@@ -124,6 +118,3 @@ webext-site-perms-header-unsigned-with-perms = Bæta við { $extension }? Þessi
 
 webext-site-perms-midi = Tengjast við MIDI-tæki
 webext-site-perms-midi-sysex = Tengjast við MIDI-tæki með stuðning við SysEx
-
-## Colorway theme migration
-

@@ -222,7 +222,9 @@ tabbrowser-manager-current-window-tab-group =
     .label = { $tabGroupName }
     .tooltiptext = ‏{ $tabGroupName } - חלון נוכחי
 
-## Tab Groups
+## Variables:
+##  $tabGroupName (String): The name of the tab group. Defaults to the value
+##                          of tab-group-name-default.
 
 tab-group-editor-title-create = יצירת קבוצת לשוניות
 tab-group-editor-title-edit = ניהול קבוצת לשוניות
@@ -252,16 +254,12 @@ tab-group-editor-color-selector2-gray = אפור
     .title = אפור
 tab-group-editor-color-selector2-red = אדום
     .title = אדום
-# Variables:
-#  $tabGroupName (String): The name of the tab group. Defaults to the value
-#                          of tab-group-name-default.
 tab-group-description = ‏{ $tabGroupName } - קבוצת לשוניות
 tab-context-unnamed-group =
     .label = קבוצה ללא שם
 tab-group-name-default = קבוצה ללא שם
 
-## Variables:
-##  $tabCount (Number): the number of tabs that are affected by the action.
+##
 
 tab-context-move-tab-to-new-group =
     .label =

@@ -42,10 +42,3 @@ screenshots-private-window-error-title = { -screenshots-brand-name } is disabled
 screenshots-private-window-error-details = Sorry aboot aw the faff. We're wirkin on this featur for future roll-oots.
 screenshots-generic-error-title = Help ma boab! { -screenshots-brand-name } jist went radge!
 screenshots-generic-error-details = We're no shair whit jist happened. Want tae try again or tak a shot o anither page?
-
-## The below strings are used to capture keydown events so the strings should
-## not be changed unless the keyboard layout in the locale requires it.
-
-
-##
-

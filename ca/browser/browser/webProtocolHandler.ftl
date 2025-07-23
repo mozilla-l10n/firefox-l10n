@@ -4,10 +4,3 @@
 
 protocolhandler-mailto-os-handler-yes-button = Defineix per defecte
 protocolhandler-mailto-os-handler-no-button = Ara no
-
-## Variables:
-##  $url (String): The url of a webmailer, but only its full domain name.
-
-
-##
-

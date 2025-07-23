@@ -48,9 +48,6 @@ download-cert-view-cert =
     .label = Veire
 download-cert-view-text = Examinar lo certificat d'AC
 
-## Client Authorization Ask dialog
-
-
 ## Client Authentication Ask dialog
 
 client-auth-window =

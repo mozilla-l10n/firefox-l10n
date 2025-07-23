@@ -146,14 +146,6 @@ media-device-rate = ارزیابی
 media-device-latency = تاخیر
 media-capabilities-title = قابلیت‌های رسانه
 
-## Codec support table
-
-
-## Media Content Decryption Modules (CDM)
-## See EME Spec for more explanation for following technical terms
-## https://w3c.github.io/encrypted-media/
-
-
 ##
 
 intl-title = بین المللی سازی& محلی سازی
@@ -332,9 +324,6 @@ support-printing-modified-settings = تنظیمات چاپ اصلاح شده
 support-printing-prefs-name = نام
 support-printing-prefs-value = مقدار
 
-## Remote Settings sections
-
-
 ## Normandy sections
 
 support-remote-experiments-title = آزمایش‌های از راه دور
@@ -343,9 +332,3 @@ support-remote-experiments-branch = شاخهٔ آزمایش
 support-remote-features-title = ویژگی‌های از راه دور
 support-remote-features-name = نام
 support-remote-features-status = وضعیت
-
-## Pointing devices
-
-
-## Content Analysis (DLP)
-

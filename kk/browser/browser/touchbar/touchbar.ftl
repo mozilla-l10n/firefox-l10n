@@ -32,6 +32,3 @@ search-history = Тарих
 search-opentabs = Ашық беттер
 search-tags = Тегтер
 search-titles = Тақырыптар
-
-##
-

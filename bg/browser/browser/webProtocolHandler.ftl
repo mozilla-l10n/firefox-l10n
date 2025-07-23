@@ -3,10 +3,3 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 protocolhandler-mailto-os-handler-no-button = Не сега
-
-## Variables:
-##  $url (String): The url of a webmailer, but only its full domain name.
-
-
-##
-

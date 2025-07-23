@@ -45,9 +45,3 @@ about-networking-rcwn-avg-long = Purata Panjang
 about-networking-rcwn-std-dev-long = Sisihan Piawai Panjang
 about-networking-rcwn-cache-slow = Kiraan perlahan cache
 about-networking-rcwn-cache-not-slow = Kiraan tidak perlahan cache
-
-## Link is intended as "network link"
-
-
-##
-

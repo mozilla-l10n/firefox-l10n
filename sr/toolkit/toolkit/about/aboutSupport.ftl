@@ -176,11 +176,6 @@ media-codec-support-codec-name = Име кодека
 media-codec-support-supported = Подржано
 media-codec-support-unsupported = Није подржано
 
-## Media Content Decryption Modules (CDM)
-## See EME Spec for more explanation for following technical terms
-## https://w3c.github.io/encrypted-media/
-
-
 ##
 
 intl-title = Интернационализација и локализација
@@ -406,9 +401,3 @@ support-remote-experiments-see-about-studies = За више информаци�
 support-remote-features-title = Удаљене функције
 support-remote-features-name = Назив
 support-remote-features-status = Статус
-
-## Pointing devices
-
-
-## Content Analysis (DLP)
-

@@ -21,10 +21,6 @@ tracking-protection-icon-disabled-container =
 tracking-protection-icon-no-trackers-detected-container =
     .aria-label = { tracking-protection-icon-no-trackers-detected }
 
-## Variables:
-##   $host (String): the site's hostname
-
-
 ## Blocking and Not Blocking sub-views in the Protections Panel
 
 protections-blocking-cryptominers =

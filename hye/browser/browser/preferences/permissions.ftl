@@ -102,9 +102,6 @@ permissions-exceptions-saved-logins-window2 =
     .style = { permissions-window2.style }
 permissions-exceptions-saved-logins-desc = Հետեւեալ կայքերի համար մտից անունները չեն պահպանուի
 
-## Exceptions - Saved Passwords
-
-
 ## Exceptions - Add-ons
 
 permissions-exceptions-addons-window2 =
@@ -168,8 +165,3 @@ permissions-site-microphone-desc = Հետեւեալ կայքերը ձեր խոս
 permissions-site-microphone-disable-label =
     .label = Արգելափակել ձեր խոսափողը մատչելու նոր հարցումները
 permissions-site-microphone-disable-desc = Ցանկում չընդգրկուած կայքէջերը չեն կարող թոյլտուութիւն խնդրել Ձեր խաւսափողին հասանելիութիւն ունենալու համար: Այս արգելափակումը կարող է խափանել կայքի որոշ առանձնայատկութիւններ:
-
-## Site Permissions - Speaker
-##
-## "Speaker" refers to an audio output device.
-

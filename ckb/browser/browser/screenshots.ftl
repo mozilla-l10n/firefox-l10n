@@ -24,10 +24,3 @@ screenshots-unshootable-page-error-title = ناتوانین وێنەی ڕووپ�
 screenshots-empty-selection-error-title = شوێنی دیاریکراو زۆر بچووکە
 screenshots-private-window-error-title = { -screenshots-brand-name } ناچالاکە لە دۆخی گەڕانی تایبەتەوە
 screenshots-generic-error-details = ئێمە نازانین چی ڕوویدا. دەتەوێت هەوڵبدەیتەوە یان وێنەی شوێنێکی تر بگریت؟
-
-## The below strings are used to capture keydown events so the strings should
-## not be changed unless the keyboard layout in the locale requires it.
-
-
-##
-

@@ -31,6 +31,3 @@ fxviewtabrow-save-to-pocket = Sarva in { -pocket-brand-name }
     .accesskey = S
 fxviewtabrow-copy-link = Còpia colegamento
     .accesskey = l
-
-## Strings below are to be used without context (tab title/URL) on mute/unmute buttons
-

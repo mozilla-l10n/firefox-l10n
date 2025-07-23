@@ -399,9 +399,6 @@ feature-highlight-wallpaper =
     .title = { -newtab-wallpaper-feature-highlight-header }
     .aria-label = { -newtab-wallpaper-feature-highlight-content }
 
-## Celestial
-
-
 ## New Tab Weather
 
 # Variables:
@@ -507,17 +504,11 @@ newtab-custom-wallpaper-title = Immoe podes impreare isfundos personalizados
 newtab-custom-wallpaper-subtitle = Càrriga un’isfundu tuo o sèbera unu colore pro personalizare { -brand-product-name }.
 newtab-custom-wallpaper-cta = Proa immoe
 
-## Strings for new user activation custom wallpaper highlight
-
-
 ## Strings for download mobile highlight
 
 newtab-download-mobile-highlight-title = Iscàrriga { -brand-product-name } pro dispositivos mòbiles
 # "Scan the code" refers to scanning the QR code that appears above the body text that leads to Firefox for mobile download.
 newtab-download-mobile-highlight-body-variant-a = Iscansiona su còdighe pro navigare cun seguresa in ònnia logu.
-
-## Strings for shortcuts highlight
-
 
 ## Strings for reporting ads and content
 
@@ -541,6 +532,3 @@ newtab-report-cancel = Annulla
 newtab-report-submit = Imbia
 newtab-toast-thanks-for-reporting =
     .message = Gràtzias de sa sinnalatzione.
-
-## Strings for trending searches
-

@@ -19,34 +19,6 @@ safeb-palm-see-details-label = تفصیلات دیکھیں
 ## Variables
 ##  $sitename (string) - Domain name for the blocked page
 
-
-## Variables
-##  $sitename (string) - Domain name for the blocked page
-
-
-## Variables
-##  $sitename (string) - Domain name for the blocked page
-
-
-## Variables
-##  $sitename (string) - Domain name for the blocked page
-
-
-## Variables
-##  $sitename (string) - Domain name for the blocked page
-
-
-## Variables
-##  $sitename (string) - Domain name for the blocked page
-
-
-## Variables
-##  $sitename (string) - Domain name for the blocked page
-
-
-## Variables
-##  $sitename (string) - Domain name for the blocked page
-
 safeb-blocked-harmful-page-learn-more = <a data-l10n-name='firefox_support'> support.mozilla.org </a> پر { -brand-short-name } کی فشنگ اور مالویئر پروٹیکشن کے بارے میں مزید معلومات حاصل کریں۔
 safeb-palm-notdeceptive =
     .label = یہ فریبی سائٹ نہیں ہے…

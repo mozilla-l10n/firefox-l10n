@@ -11,21 +11,6 @@ autofill-manage-remove-button = Sojsa el
 autofill-manage-add-button = Aq'o'ke'…
 autofill-manage-edit-button = B'an tuche'…
 
-## The address capture doorhanger
-
-
-## address-level-3 (Sublocality) names
-
-
-## address-level-2 names
-
-
-## address-level-1 names
-
-
-## Postal code name types
-
-
 ##
 
 autofill-cancel-button = Ya'sakan

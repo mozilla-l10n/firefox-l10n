@@ -252,8 +252,3 @@ firefoxview-tabs =
 
 firefoxview-opentabs-pinned-tab =
     .title = { $tabTitle } වෙත මාරුවන්න
-
-## These tooltips will be displayed when hovering over an unpinned Open Tab
-## Variables:
-##   $url (string) - URL of tab that will be opened when selected
-

@@ -541,9 +541,6 @@ newtab-custom-wallpaper-title = მორგებული ფონები �
 newtab-custom-wallpaper-subtitle = ატვირთეთ საკუთარი ფონი ან შეარჩიეთ სასურველი ფერი, რომ გახადოთ { -brand-product-name } მეტად თქვენებური.
 newtab-custom-wallpaper-cta = მოსინჯვა
 
-## Strings for new user activation custom wallpaper highlight
-
-
 ## Strings for download mobile highlight
 
 newtab-download-mobile-highlight-title = ჩამოტვირთეთ { -brand-product-name } მობილურზე

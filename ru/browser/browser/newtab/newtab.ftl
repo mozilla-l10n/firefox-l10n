@@ -543,9 +543,6 @@ newtab-custom-wallpaper-title = Пользовательские обои зде
 newtab-custom-wallpaper-subtitle = Загрузите свои обои или выберите цвет оформления, чтобы настроить { -brand-product-name } под себя.
 newtab-custom-wallpaper-cta = Попробовать
 
-## Strings for new user activation custom wallpaper highlight
-
-
 ## Strings for download mobile highlight
 
 newtab-download-mobile-highlight-title = Скачать { -brand-product-name } для мобильных устройств

@@ -155,11 +155,6 @@ media-device-latency = Dale
 
 media-codec-support-lack-of-extension = Staliañ an askouezh
 
-## Media Content Decryption Modules (CDM)
-## See EME Spec for more explanation for following technical terms
-## https://w3c.github.io/encrypted-media/
-
-
 ##
 
 intl-title = Etrevoradeladur & lec'hiadur
@@ -373,6 +368,3 @@ support-remote-features-status = Statud
 ## Pointing devices
 
 pointing-device-mouse = Logodenn
-
-## Content Analysis (DLP)
-

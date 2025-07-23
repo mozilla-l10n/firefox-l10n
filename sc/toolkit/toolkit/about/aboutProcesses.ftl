@@ -54,34 +54,3 @@ about-processes-web-isolated-process-private = { $origin } — Privadu ({ $pid }
 # Variables:
 #   $name (String) The name of the tab (typically the title of the page, might be the url while the page is loading).
 about-processes-tab-name = Ischeda: { $name }
-
-## Utility process actor names
-
-
-## Displaying CPU (percentage and total)
-## Variables:
-##    $percent (Number) The percentage of CPU used by the process or thread.
-##                      Always > 0, generally <= 200.
-##    $total (Number) The amount of time used by the process or thread since
-##                    its start.
-##    $unit (String) The unit in which to display $total. See the definitions
-##                   of `duration-unit-*`.
-
-
-## Displaying Memory (total and delta)
-## Variables:
-##    $total (Number) The amount of memory currently used by the process.
-##    $totalUnit (String) The unit in which to display $total. See the definitions
-##                        of `memory-unit-*`.
-##    $delta (Number) The absolute value of the amount of memory added recently.
-##    $deltaSign (String) Either "+" if the amount of memory has increased
-##                        or "-" if it has decreased.
-##    $deltaUnit (String) The unit in which to display $delta. See the definitions
-##                        of `memory-unit-*`.
-
-
-## Duration units
-
-
-## Memory units
-

@@ -34,17 +34,6 @@ neterror-error-reporting-automatic = Informar de fallos como esti p'ayudar a { -
 neterror-generic-error = { -brand-short-name } nun pue cargar esta páxina por dalgún motivu.
 neterror-captive-portal = Has aniciar sesión nesta rede enantes de poder acceder a internet.
 
-## TRR-only specific messages
-## Variables:
-##   $hostname (String) - Hostname of the website to which the user was trying to connect.
-##   $trrDomain (String) - Hostname of the DNS over HTTPS server that is currently in use.
-
-
-## Native fallback specific messages
-## Variables:
-##   $trrDomain (String) - Hostname of the DNS over HTTPS server that is currently in use.
-
-
 ##
 
 neterror-unknown-protocol = Quiciabes tengas d'instalar otru software p'abrir esta direición.

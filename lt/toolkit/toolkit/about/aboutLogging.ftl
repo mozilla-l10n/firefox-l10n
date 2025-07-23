@@ -8,13 +8,3 @@ about-logging-set-log-file = Parinkti žurnalo failą
 about-logging-set-log-modules = Parinkti žurnalo modulius
 about-logging-start-logging = Pradėti žurnalizavimą
 about-logging-stop-logging = Baigti žurnalizavimą
-
-## Logging presets
-
-
-##
-
-
-## The upload interface is shown only with the preference toolkit.aboutLogging.uploadProfileToCloud
-## set to true. It is false by default, except on Android.
-

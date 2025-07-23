@@ -111,10 +111,6 @@ fp-learn-more-about-secure-connection-failures = Қауіпсіз байланы
 fp-learn-more-about-cert-issues = Сертификат мәселелерінің осы түрлері туралы көбірек білу
 fp-learn-more-about-time-related-errors = Уақытқа байланысты қателерді шешу туралы көбірек білу
 
-## Variables:
-##   $hostname (string) - Hostname of the website with cert error.
-
-
 ## Messages used for certificate error titles
 
 connectionFailure-title = Байланысты орнату сәтсіз аяқталды

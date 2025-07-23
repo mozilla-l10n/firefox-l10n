@@ -64,6 +64,3 @@ about-networking-moved-about-logging = Þessi síða hefur verið færð á <a d
 
 about-networking-networkid-is-up = Tenging er virk
 about-networking-networkid-status-known = Staða tengingar er þekkt
-
-##
-

@@ -15,9 +15,6 @@ policy-DisablePrivateBrowsing = Оневозможи приватно преба
 policy-DisableTelemetry = Исклучете ја телеметријата.
 policy-DNSOverHTTPS = Конфигурирање на DNS преку HTTPS.
 
-## Do not translate "SameSite", it's the name of a cookie attribute.
-
-
 ##
 
 policy-Proxy = Конфигурирај поставки на прокси.

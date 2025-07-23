@@ -48,9 +48,6 @@ download-cert-view-cert =
     .label = Vidi
 download-cert-view-text = Ekzameni atestilon de CA
 
-## Client Authorization Ask dialog
-
-
 ## Client Authentication Ask dialog
 
 client-auth-window =

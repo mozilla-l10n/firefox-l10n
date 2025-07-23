@@ -29,12 +29,3 @@ pocket-panel-saved-tags-saved = குறிகள் சேர்க்கப�
 pocket-panel-signup-learn-more = மேலும் அறிக
 pocket-panel-signup-login = உள் நுழை
 pocket-panel-signup-signup-email = மின்னஞ்சல் கொண்டு உள்நுழையுங்கள்
-
-## about:pocket-home panel
-
-
-## Pocket panel header component
-
-
-## Pocket panel buttons
-

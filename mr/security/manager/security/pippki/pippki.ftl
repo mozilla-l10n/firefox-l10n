@@ -33,9 +33,6 @@ download-cert-view-cert =
     .label = दृश्य
 download-cert-view-text = CA प्रमाणपत्राचे परिक्षण करा
 
-## Client Authorization Ask dialog
-
-
 ## Client Authentication Ask dialog
 
 client-auth-window =
@@ -78,6 +75,3 @@ set-password-backup-pw =
 set-password-repeat-backup-pw =
     .value = प्रतिकृती पासवर्ड प्रमाणपत्र (पुन्हा):
 set-password-reminder = महत्वाचे: आपण प्रतिकृती पासवर्ड प्रमाणपत्र विसरलात तर याची प्रतिकृती पुनःस्थापित करता येणार नाही.  कृपया सुरक्षित ठिकाणी त्याची नोंद करा.
-
-## Protected authentication alert
-

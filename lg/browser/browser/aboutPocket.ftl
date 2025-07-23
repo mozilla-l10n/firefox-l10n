@@ -36,12 +36,3 @@ pocket-panel-signup-signup-firefox = Weyungeko ne { -brand-product-name }
 pocket-panel-signup-tagline = Teleko by'osoma n'obutambi okuva ku { -brand-product-name } osobole obulabira mu { -pocket-brand-name } wona ewala, esawa yona.
 pocket-panel-signup-tagline-story-one = Nyiga epesa lya { -pocket-brand-name } oteleke by'osoma, akatambi oba oluwayi lwona okuva ku { -brand-product-name }.
 pocket-panel-signup-tagline-story-two = Labira mu pocket ku nkola yona, esawa yona.
-
-## about:pocket-home panel
-
-
-## Pocket panel header component
-
-
-## Pocket panel buttons
-

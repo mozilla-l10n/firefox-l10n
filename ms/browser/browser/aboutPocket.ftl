@@ -36,12 +36,3 @@ pocket-panel-signup-signup-firefox = Daftar dengan { -brand-product-name }
 pocket-panel-signup-tagline = Simpan artikel dan video dari { -brand-product-name } untuk dilihat dalam { -pocket-brand-name } pada apa jua peranti pada bila-bila masa.
 pocket-panel-signup-tagline-story-one = Klik butang { -pocket-brand-name } untuk menyimpan apa jua artikel, video atau halaman daripada { -brand-product-name }.
 pocket-panel-signup-tagline-story-two = Papar dalam { -pocket-brand-name } dalam mana-mana peranti, bila-bila masa saja.
-
-## about:pocket-home panel
-
-
-## Pocket panel header component
-
-
-## Pocket panel buttons
-

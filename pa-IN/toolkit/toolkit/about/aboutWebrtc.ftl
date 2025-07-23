@@ -166,9 +166,6 @@ about-webrtc-time-elapsed = ਲੱਗਾ ਸਮਾਂ
 about-webrtc-estimated-framerate = ਅੰਦਾਜ਼ਨ ਫਰੇਮ-ਦਰ
 about-webrtc-rotation-degrees = ਘੁੰਮਾਉਣਾ (ਡਿਗਰੀਆਂ)
 
-## SSRCs are identifiers that represent endpoints in an RTP stream
-
-
 ## These are displayed on the button that shows or hides the
 ## PeerConnection configuration disclosure
 
@@ -183,13 +180,6 @@ about-webrtc-configuration-element-provided = ਦਿੱਤੇ
 # An option whose value will not be displayed but instead noted as having not
 # been provided
 about-webrtc-configuration-element-not-provided = ਨਾ ਦਿੱਤੇ
-
-## These are displayed on the button that shows or hides the
-## user modified configuration disclosure
-
-
-##
-
 
 ##
 
@@ -252,10 +242,6 @@ about-webrtc-jitter-label = ਜਿੱਟਰ { $jitter }
 # table with light blue background.
 about-webrtc-trickle-caption-msg = ਜ਼ਾਹਰ ਹੋਏ ਉਮੀਦਵਾਰਾਂ (ਜਵਾਬ ਦੇ ਬਾਅਦ ਪਹੁੰਚੇ) ਨੂੰ ਨੀਲਾ ਵਿੱਚ ਉਘਾੜਿਆ ਜਾ ਰਿਹਾ ਹੈ
 
-## "SDP" is an abbreviation for Session Description Protocol, an IETF standard.
-## See http://wikipedia.org/wiki/Session_Description_Protocol
-
-
 ## These are displayed on the button that shows or hides the SDP information disclosure
 
 about-webrtc-show-msg-sdp = SDP ਵੇਖਾਓ
@@ -268,6 +254,3 @@ about-webrtc-hide-msg-sdp = SDP ਓਹਲੇ
 about-webrtc-media-context-show-msg = ਮੀਡਿਆ ਪ੍ਰਸੰਗ ਵੇਖਾਓ
 about-webrtc-media-context-hide-msg = ਮੀਡਿਆ ਪ੍ਰਸੰਗ ਓਹਲੇ
 about-webrtc-media-context-heading = ਮੀਡਿਆ ਪ੍ਰਸੰਗ
-
-##
-

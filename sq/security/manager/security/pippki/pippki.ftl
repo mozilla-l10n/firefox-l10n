@@ -48,9 +48,6 @@ download-cert-view-cert =
     .label = Shfaqje
 download-cert-view-text = Shqyrtoni dëshmi AD-je
 
-## Client Authorization Ask dialog
-
-
 ## Client Authentication Ask dialog
 
 client-auth-window =

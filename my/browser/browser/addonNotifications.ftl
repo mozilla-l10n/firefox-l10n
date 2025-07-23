@@ -4,10 +4,6 @@
 
 xpinstall-prompt = သင့်ကွန်ပျူတာတွင် ဆော့ဖ်ဝဲတပ်ဆင်ရန် တောင်းဆိုသည့် ဤဝဘ်ဆိုက်ကို { -brand-short-name } က တားမြစ်ထားသည်။
 
-## Variables:
-##   $host (String): The hostname of the site the add-on is being installed from.
-
-
 ##
 
 xpinstall-prompt-dont-allow =

@@ -38,9 +38,6 @@ options-default-color-unit-hsl = HSL(A)
 options-default-color-unit-rgb = RGB(A)
 options-default-color-unit-name = നിറത്തിന്റെ പേരുകള്‍
 
-## Web Console section
-
-
 ## Style Editor section
 
 # The heading
@@ -49,9 +46,6 @@ options-styleeditor-label = സ്റ്റൈല്‍ എഡിറ്റര്
 options-stylesheet-autocompletion-label = CSS തനിയേ പൂർത്തിയാക്കുക
 options-stylesheet-autocompletion-tooltip =
     .title = CSS പ്രത്യേകതകളും, മൂല്യങ്ങളും, സെലക്ടറുകളും സ്റ്റൈൽ എഡിറ്ററിൽ നിങ്ങൾ ടൈപ്പ് ചെയ്യുന്ന മുറക്ക് തനിയേ പൂർത്തിയാക്കുക
-
-## Screenshot section
-
 
 ## Editor section
 

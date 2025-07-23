@@ -47,14 +47,3 @@ about-reader-font-type-sans-serif = Fără serife
 about-reader-toolbar-close = Închide modul de lectură
 about-reader-toolbar-type-controls = Controale de caractere
 about-reader-toolbar-savetopocket = Salvează în { -pocket-brand-name }
-
-## Reader View colors menu
-
-
-## These are used as labels for the custom theme color pickers.
-## The .title element is used to make the editing functionality
-## clear and give context for screen reader users.
-
-
-## Reader View text and layout menu
-

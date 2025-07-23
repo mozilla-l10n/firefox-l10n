@@ -66,9 +66,6 @@ split-dismiss-button-manage-settings-option =
 split-dismiss-button-default-label =
     .title = Aukera gehiago
 
-## Login Status Advisory Callout (points to the account icon)
-
-
 ## Bookmarks toolbar callout strings
 
 bookmarks-toolbar-callout-1-primary-button-label = Gehitu laster-marka

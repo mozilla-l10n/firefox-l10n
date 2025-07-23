@@ -32,6 +32,3 @@ search-history = تاریخچه
 search-opentabs = زبانه‌های باز
 search-tags = برچسب‌ها
 search-titles = عناوین
-
-##
-

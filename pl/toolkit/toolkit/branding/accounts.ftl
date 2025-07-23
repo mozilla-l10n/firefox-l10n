@@ -6,34 +6,34 @@
 # and kept in English.
 -fxaccount-brand-name =
     { $case ->
-       *[nom]
-            { $capitalization ->
-               *[upper] Konto Firefoksa
-                [lower] konto Firefoksa
-            }
         [gen]
             { $capitalization ->
-               *[upper] Konta Firefoksa
                 [lower] konta Firefoksa
+               *[upper] Konta Firefoksa
             }
         [dat]
             { $capitalization ->
-               *[upper] Kontu Firefoksa
                 [lower] kontu Firefoksa
+               *[upper] Kontu Firefoksa
             }
         [acc]
             { $capitalization ->
-               *[upper] Konto Firefoksa
                 [lower] konto Firefoksa
+               *[upper] Konto Firefoksa
             }
         [ins]
             { $capitalization ->
-               *[upper] Kontem Firefoksa
                 [lower] kontem Firefoksa
+               *[upper] Kontem Firefoksa
             }
         [loc]
             { $capitalization ->
-               *[upper] Koncie Firefoksa
                 [lower] koncie Firefoksa
+               *[upper] Koncie Firefoksa
+            }
+       *[nom]
+            { $capitalization ->
+                [lower] konto Firefoksa
+               *[upper] Konto Firefoksa
             }
     }

@@ -13,6 +13,3 @@ restore-page-restore-header =
     .label = Delloo na woon
 restore-page-list-header =
     .label = Palanteer yi ak koñ yi
-
-## The following strings are used in about:welcomeback
-

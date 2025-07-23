@@ -542,9 +542,6 @@ newtab-custom-wallpaper-title = Ussa pos ti utilisar funds davos persunalisads
 newtab-custom-wallpaper-subtitle = Transferescha tes agen maletg per il fund davos u tscherna ina colur tenor giavisch per persunalisar tes { -brand-product-name }.
 newtab-custom-wallpaper-cta = Empruvar
 
-## Strings for new user activation custom wallpaper highlight
-
-
 ## Strings for download mobile highlight
 
 newtab-download-mobile-highlight-title = Telechargia { -brand-product-name } per apparats mobils
@@ -579,6 +576,3 @@ newtab-report-content-spam-misleading =
     .label = Spam u engianus
 newtab-report-cancel = Interrumper
 newtab-report-submit = Trametter
-
-## Strings for trending searches
-

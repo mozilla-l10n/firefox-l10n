@@ -305,22 +305,22 @@ about-debugging-extension-backgroundscript-status-stopped = Zastavený
 # .disabledTitle is processed by the fluent-react / ActionButton code.
 about-debugging-worker-action-push2 = Push
     .disabledTitle =
-        Push od service workeru je pro { -brand-shorter-name.gender ->
-            [masculine] víceprocesový { -brand-shorter-name(case: "acc") }
-            [feminine] víceprocesovou { -brand-shorter-name(case: "acc") }
-            [neuter] víceprocesové { -brand-shorter-name(case: "acc") }
-           *[other] víceprocesovou aplikaci { -brand-shorter-name }
-        } zakázán
+        { -brand-shorter-name.gender ->
+            [masculine] Push od service workeru je pro víceprocesový { -brand-shorter-name(case: "acc") } zakázán
+            [feminine] Push od service workeru je pro víceprocesovou { -brand-shorter-name(case: "acc") } zakázán
+            [neuter] Push od service workeru je pro víceprocesové { -brand-shorter-name(case: "acc") } zakázán
+           *[other] Push od service workeru je pro víceprocesovou aplikaci { -brand-shorter-name } zakázán
+        }
 # This string is displayed as a label of the button that starts a service worker.
 # .disabledTitle is processed by the fluent-react / ActionButton code.
 about-debugging-worker-action-start2 = Spustit
     .disabledTitle =
-        Spuštění service workeru je pro { -brand-shorter-name.gender ->
-            [masculine] víceprocesový { -brand-shorter-name(case: "acc") }
-            [feminine] víceprocesovou { -brand-shorter-name(case: "acc") }
-            [neuter] víceprocesové { -brand-shorter-name(case: "acc") }
-           *[other] víceprocesovou aplikaci { -brand-shorter-name }
-        } zakázáno
+        { -brand-shorter-name.gender ->
+            [masculine] Spuštění service workeru je pro víceprocesový { -brand-shorter-name(case: "acc") } zakázáno
+            [feminine] Spuštění service workeru je pro víceprocesovou { -brand-shorter-name(case: "acc") } zakázáno
+            [neuter] Spuštění service workeru je pro víceprocesové { -brand-shorter-name(case: "acc") } zakázáno
+           *[other] Spuštění service workeru je pro víceprocesovou aplikaci { -brand-shorter-name } zakázáno
+        }
 # This string is displayed as a label of the button that unregisters a service worker.
 about-debugging-worker-action-unregister = Zrušit registraci
 # Displayed for service workers in runtime pages that listen to Fetch events.
@@ -351,12 +351,12 @@ about-debugging-worker-origin =
 # Displayed as title of the inspect button when service worker debugging is disabled.
 about-debugging-worker-inspect-action-disabled =
     .title =
-        Zkoumání service workerů je pro { -brand-shorter-name.gender ->
-            [masculine] víceprocesový { -brand-shorter-name(case: "acc") }
-            [feminine] víceprocesovou { -brand-shorter-name(case: "acc") }
-            [neuter] víceprocesové { -brand-shorter-name(case: "acc") }
-           *[other] víceprocesovou aplikaci { -brand-shorter-name }
-        } zakázáno
+        { -brand-shorter-name.gender ->
+            [masculine] Zkoumání service workerů je pro víceprocesový { -brand-shorter-name(case: "acc") } zakázáno
+            [feminine] Zkoumání service workerů je pro víceprocesovou { -brand-shorter-name(case: "acc") } zakázáno
+            [neuter] Zkoumání service workerů je pro víceprocesové { -brand-shorter-name(case: "acc") } zakázáno
+           *[other] Zkoumání service workerů je pro víceprocesovou aplikaci { -brand-shorter-name } zakázáno
+        }
 # Displayed as title of the inspect button for zombie tabs (e.g. tabs loaded via a session restore).
 about-debugging-zombie-tab-inspect-action-disabled =
     .title = Panel není plně načtený a nelze ho v průzkumníku otevřít

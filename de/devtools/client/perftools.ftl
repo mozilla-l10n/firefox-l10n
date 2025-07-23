@@ -157,6 +157,3 @@ perftools-presets-power-description = Voreinstellung für die Untersuchung von P
 perftools-presets-debug-label = Debuggen
 perftools-presets-debug-description = Voreinstellung für das Debuggen in { -brand-shorter-name }. Großer Overhead, nicht für Arbeiten an der Leistung verwenden, sondern für Fokus auf das Verständnis des Browser-Verhaltens.
 perftools-presets-custom-label = Benutzerdefiniert
-
-##
-

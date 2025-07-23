@@ -4,10 +4,6 @@
 
 addons-page-title = UMphathi wezongezelelo
 
-## Variables
-##   $domain - Domain name where add-ons are available (e.g. addons.mozilla.org)
-
-
 ##
 
 list-empty-installed =
@@ -157,29 +153,6 @@ addon-install-from-file-filter-name = Izongezelelo
 addon-open-about-debugging = Khuphaibhagi Kwizongezelelo
     .accesskey = i
 
-## Extension shortcut management
-
-
-## Recommended add-ons page
-
-
-## Add-on actions
-
-
-## Pending uninstall message bar
-
-
-## "sites with restrictions" (internally called "quarantined") are special domains
-## where add-ons are normally blocked for security reasons.
-
-
-## This is the tooltip text for the recommended badges for an extension in about:addons. The
-## badge is a small icon displayed next to an extension when it is recommended on AMO.
-
-
-##
-
-
 ## Page headings
 
 addon-page-options-button =
@@ -223,10 +196,3 @@ plugins-gmp-privacy-info = Inkcazelo Yeemfihlo
 plugins-openh264-name = I-OpenH264 Video Codec inikezelwe yiCisco Systems, Inc.
 plugins-openh264-description = Le plugin ifakelwe ngu-Mozilla ngokuzenzekelayo ukuthobelana kunye nokubalulwa kwe- WebRTC nokwenza iminxeba ye-WebRTC ngezixhobo ezifuna ividiyo code H.264. Tyelela http://www.openh264.org/ ukubona ikhowudi yemvelaphi ye-codec ze ufunde ngakumbi maluna nokuphunyezwa.
 plugins-widevine-name = I-Widevine Content Decryption Module elungiselelwe nguGoogle Inc.
-
-## Headings for the Permissions tab in `about:addons` when the data collection
-## feature is enabled.
-
-
-## Mapping Engine IDs from AI models to how that feature represented by the engine Id is described in the used by section in local model management
-

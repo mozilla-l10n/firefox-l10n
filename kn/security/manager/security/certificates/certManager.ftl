@@ -122,9 +122,6 @@ delete-email-cert-title =
 delete-email-cert-confirm = ನೀವು ಈ ಎಲ್ಲಾ ವಿ-ಅಂಚೆ ಪ್ರಮಾಣಪತ್ರಗಳನ್ನು ಖಚಿತವಾಗಿಯೂ ಅಳಿಸಲು ಬಯಸುತ್ತೀರೆ?
 delete-email-cert-impact = ನೀವು ಒಬ್ಬ ವ್ಯಕ್ತಿಯ ಇ-ಮೈಲ್‌ ಅಳಿಸಿದರೆ, ಆ ವ್ಯಕ್ತಿಗೆ ಮುಂದೆ ಗೂಢಲಿಪೀಕರಣಗೊಂಡ(ಎನ್‌ಕ್ರಿಪ್ಟ್‍ ) ಇ-ಮೈಲ್ ಅನ್ನು ಕಳುಹಿಸಲು ಸಾಧ್ಯವಿರುವುದಿಲ್ಲ.
 
-## Used to show whether an override is temporary or permanent
-
-
 ## Add Security Exception dialog
 
 add-exception-branded-warning = { -brand-short-name } ವು ಈ ತಾಣವನ್ನು ಹೇಗೆ ಗುರುತಿಸುತ್ತದೆ ಎನ್ನುವುದನ್ನು ನೀವು ರದ್ದುಗೊಳಿಸಲಿದ್ದೀರಿ.

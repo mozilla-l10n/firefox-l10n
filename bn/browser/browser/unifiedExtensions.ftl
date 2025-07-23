@@ -36,6 +36,3 @@ unified-extensions-context-menu-move-widget-up =
     .label = উপরে উঠান
 unified-extensions-context-menu-move-widget-down =
     .label = নিচে নামান
-
-## Notifications
-

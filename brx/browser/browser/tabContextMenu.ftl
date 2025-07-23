@@ -47,7 +47,3 @@ bookmark-selected-tabs =
 move-to-new-window =
     .label = गोदान उइन्ड'याव थां
     .accesskey = W
-
-## Variables:
-##  $tabCount (Number): the number of tabs that are affected by the action.
-

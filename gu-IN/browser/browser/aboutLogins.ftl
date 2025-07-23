@@ -75,14 +75,6 @@ login-item-save-changes-button = ફેરફારો સાચવો
 login-item-save-new-button = સાચવો
 login-item-cancel-button = રદ કરો
 
-## The date is displayed in a timeline showing the password evolution.
-## A label is displayed under the date to describe the type of change.
-## (e.g. updated, created, etc.)
-
-
-## OS Authentication dialog
-
-
 ## The macOS strings are preceded by the operating system with "Firefox is trying to "
 ## and includes subtitle of "Enter password for the user "xxx" to allow this." These
 ## notes are only valid for English. Please test in your respected locale.
@@ -109,10 +101,6 @@ about-logins-confirm-remove-dialog-title = આ લોગિન ને દૂર 
 confirm-delete-dialog-message = આ ક્રિયા પૂર્વવત્ કરી શકાતી નથી.
 about-logins-confirm-remove-dialog-confirm-button = દૂર કરો
 
-## Variables
-##   $count (number) - Number of items
-
-
 ##
 
 confirm-discard-changes-dialog-title = વણસાચવેલા ફેરફારોને કાઢી નાખો?
@@ -137,27 +125,3 @@ about-logins-vulnerable-alert-learn-more-link = વધુ જાણો
 
 # This is a generic error message.
 about-logins-error-message-default = આ પાસવર્ડને સાચવવાનો પ્રયાસ કરતી વખતે એક ભૂલ આવી.
-
-## Login Export Dialog
-
-
-## Login Import Dialog
-
-
-##
-## Variables:
-##  $count (number) - The number of affected elements
-
-
-##
-## Variables:
-##  $field (String) - The name of the field from the CSV file for example url, username or password
-
-
-##
-## Variables:
-##  $count (number) - The number of affected elements
-
-
-## Logins import report page
-

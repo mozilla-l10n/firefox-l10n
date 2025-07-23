@@ -99,12 +99,6 @@ about-webauthn-auth-info-true = True
 about-webauthn-auth-info-false = False
 about-webauthn-auth-info-null = Ni podprto
 
-## Bio enrollment sample feedbacks
-
-
-## Scan (e.g. of fingerprint) was off-center (e.g. too high, too left, etc.).
-
-
 ##
 
 # Scan (e.g. of fingerprint) is somehow identical to an existing sample.

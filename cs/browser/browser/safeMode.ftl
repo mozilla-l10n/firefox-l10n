@@ -30,8 +30,8 @@ skip-troubleshoot-refresh-profile =
 # Shown on the safe mode dialog after multiple startup crashes.
 auto-safe-mode-description =
     { -brand-short-name.gender ->
-        [masculine] { -brand-short-name } byl při startu neočekávaně ukončen
-        [feminine] { -brand-short-name } byla při startu neočekávaně ukončena
-        [neuter] { -brand-short-name } bylo při startu neočekávaně ukončeno
-       *[other] Aplikace { -brand-short-name } byla při startu neočekávaně ukončena
-    }, což mohlo být způsobeno nainstalovanými doplňky nebo jinými problémy. Můžete se pokusit problémy vyřešit v nouzovém režimu.
+        [masculine] { -brand-short-name } byl při startu neočekávaně ukončen, což mohlo být způsobeno nainstalovanými doplňky nebo jinými problémy. Můžete se pokusit problémy vyřešit v nouzovém režimu.
+        [feminine] { -brand-short-name } byla při startu neočekávaně ukončena, což mohlo být způsobeno nainstalovanými doplňky nebo jinými problémy. Můžete se pokusit problémy vyřešit v nouzovém režimu.
+        [neuter] { -brand-short-name } bylo při startu neočekávaně ukončeno, což mohlo být způsobeno nainstalovanými doplňky nebo jinými problémy. Můžete se pokusit problémy vyřešit v nouzovém režimu.
+       *[other] Aplikace { -brand-short-name } byla při startu neočekávaně ukončena, což mohlo být způsobeno nainstalovanými doplňky nebo jinými problémy. Můžete se pokusit problémy vyřešit v nouzovém režimu.
+    }

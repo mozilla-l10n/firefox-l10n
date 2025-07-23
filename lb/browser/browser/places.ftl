@@ -60,10 +60,3 @@ places-view-sortby-name =
 places-view-sortby-url =
     .label = Zortéieren no der Adress
     .accesskey = L
-
-## Strings used as a placeholder in the Library search field. For example,
-## "Search History" stands for "Search through the browser's history".
-
-
-##
-

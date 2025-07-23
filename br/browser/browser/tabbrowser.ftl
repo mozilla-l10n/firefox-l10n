@@ -106,9 +106,6 @@ tabbrowser-unblock-tab-audio-tooltip =
            *[other] Lenn { $tabCount } ivinell
         }
 
-## Tooltips for tab audio control
-
-
 ## Confirmation dialog when closing a window with more than one tab open,
 ## or when quitting when only one window is open.
 
@@ -249,7 +246,9 @@ tabbrowser-manager-current-window-tab-group =
     .label = { $tabGroupName }
     .tooltiptext = { $tabGroupName } — Prenestr a-vremañ
 
-## Tab Groups
+## Variables:
+##  $tabGroupName (String): The name of the tab group. Defaults to the value
+##                          of tab-group-name-default.
 
 tab-group-editor-title-create = Krouiñ ur strollad ivinelloù
 tab-group-editor-title-edit = Merañ ar strollad ivinelloù
@@ -279,16 +278,12 @@ tab-group-editor-color-selector2-gray = Loued
     .title = Loued
 tab-group-editor-color-selector2-red = Ruz
     .title = Ruz
-# Variables:
-#  $tabGroupName (String): The name of the tab group. Defaults to the value
-#                          of tab-group-name-default.
 tab-group-description = { $tabGroupName } — Strollad ivinelloù
 tab-context-unnamed-group =
     .label = Strollad dizanv
 tab-group-name-default = Strollad dizanv
 
-## Variables:
-##  $tabCount (Number): the number of tabs that are affected by the action.
+##
 
 tab-context-move-tab-to-new-group =
     .label =

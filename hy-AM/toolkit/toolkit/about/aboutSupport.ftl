@@ -143,14 +143,6 @@ media-capabilities-title = Մեդիա հնարավորություններ
 # List all the entries of the database.
 media-capabilities-enumerate = Վերցրեք գրառումները տվյալների բազայից
 
-## Codec support table
-
-
-## Media Content Decryption Modules (CDM)
-## See EME Spec for more explanation for following technical terms
-## https://w3c.github.io/encrypted-media/
-
-
 ##
 
 intl-title = Միջազգայնացում և տեղայնացում
@@ -337,12 +329,3 @@ support-printing-troubleshoot = Խափանաշտկում
 ## Remote Settings sections
 
 support-remote-settings-sync-history = Պատմություն
-
-## Normandy sections
-
-
-## Pointing devices
-
-
-## Content Analysis (DLP)
-

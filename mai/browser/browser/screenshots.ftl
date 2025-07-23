@@ -29,10 +29,3 @@ screenshots-private-window-error-title = निजी ब्राउज़िं�
 screenshots-private-window-error-details = असुविधा खातिर क्षमा करू. भविष्य संस्करण कलेल हमसभ एहि फीचर पर काज क रहल छी.
 screenshots-generic-error-title = ओह! { -screenshots-brand-name }Firefox स्क्रीनशॉट खराब भ'गेल.
 screenshots-generic-error-details = अखन कथि भेल हम सुनिश्चित नहि छी. फिनु प्रयास अथवा आन पेजक भिन्न शॉट लिअ चाहैत छी?
-
-## The below strings are used to capture keydown events so the strings should
-## not be changed unless the keyboard layout in the locale requires it.
-
-
-##
-

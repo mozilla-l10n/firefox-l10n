@@ -55,12 +55,12 @@ chooser-dialog-description = Отворите { $scheme } везу следећ�
 # Please keep the emphasis around the scheme (ie the `<strong>` HTML tags).
 chooser-dialog-remember = Увек отварај <strong>{ $scheme }</strong> везе у овом програму
 chooser-dialog-remember-extra =
-    Ово можете да промените у подешавањима { -brand-short-name.gender ->
-        [masculine] { -brand-short-name(case: "gen") }
-        [feminine] { -brand-short-name(case: "gen") }
-        [neuter] { -brand-short-name(case: "gen") }
-       *[other] програма { -brand-short-name }
-    }.
+    { -brand-short-name.gender ->
+        [masculine] Ово можете да промените у подешавањима { -brand-short-name(case: "gen") }.
+        [feminine] Ово можете да промените у подешавањима { -brand-short-name(case: "gen") }.
+        [neuter] Ово можете да промените у подешавањима { -brand-short-name(case: "gen") }.
+       *[other] Ово можете да промените у подешавањима програма { -brand-short-name }.
+    }
 choose-other-app-description = Одаберите други програм
 choose-app-btn =
     .label = Одабери…

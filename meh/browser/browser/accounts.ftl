@@ -57,15 +57,3 @@ account-single-tab-arriving-from-device-title = Sukua { $deviceName }
 # Variables:
 #   $url (String): the portion of the URL that remains after truncation.
 account-single-tab-arriving-truncated-url = { $url }…
-
-## These strings are used in a notification shown when we're opening
-## multiple tabs another device or devices sent us to display.
-## Variables:
-##   $tabCount (Number): the number of tabs received
-
-
-## These strings are used in notifications in which the user remotely closed
-## tabs from other devices
-## Variables:
-##   $closedCount (Number): the number of tabs closed
-

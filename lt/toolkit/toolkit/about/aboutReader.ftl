@@ -49,14 +49,3 @@ about-reader-font-type-sans-serif = Be užraitų
 about-reader-toolbar-close = Išjungti skaitymo rodinį
 about-reader-toolbar-type-controls = Tipų valdymas
 about-reader-toolbar-savetopocket = Įrašyti į „{ -pocket-brand-name }“
-
-## Reader View colors menu
-
-
-## These are used as labels for the custom theme color pickers.
-## The .title element is used to make the editing functionality
-## clear and give context for screen reader users.
-
-
-## Reader View text and layout menu
-

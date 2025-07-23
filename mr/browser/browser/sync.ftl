@@ -11,6 +11,3 @@ fxa-menu-send-tab-to-device-syncnotready =
     .label = उपकरणे सिंक करत आहे…
 fxa-menu-sign-out =
     .label = साइन आउट करा…
-
-## Sync warning strings that support the browser profiles feature, these will be shown when the user might be merging data
-

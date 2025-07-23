@@ -224,7 +224,9 @@ tabbrowser-manager-current-window-tab-group =
     .label = { $tabGroupName }
     .tooltiptext = { $tabGroupName } — Ovetã ag̃agua
 
-## Tab Groups
+## Variables:
+##  $tabGroupName (String): The name of the tab group. Defaults to the value
+##                          of tab-group-name-default.
 
 tab-group-editor-title-create = Emoheñói tendayke aty
 tab-group-editor-title-edit = Eñangareko tendayke aty
@@ -254,16 +256,12 @@ tab-group-editor-color-selector2-gray = Hũngy
     .title = Hũngy
 tab-group-editor-color-selector2-red = Ñanduti
     .title = Ñanduti
-# Variables:
-#  $tabGroupName (String): The name of the tab group. Defaults to the value
-#                          of tab-group-name-default.
 tab-group-description = { $tabGroupName } — Tendayke aty
 tab-context-unnamed-group =
     .label = Aty hera’ỹva
 tab-group-name-default = Aty hera’ỹva
 
-## Variables:
-##  $tabCount (Number): the number of tabs that are affected by the action.
+##
 
 tab-context-move-tab-to-new-group =
     .label =

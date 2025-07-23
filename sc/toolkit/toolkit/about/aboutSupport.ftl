@@ -175,14 +175,6 @@ media-codec-support-info = Informatzione de suportu pro is codec
 # List all the entries of the database.
 media-capabilities-enumerate = Numeratzione de sa base de datos
 
-## Codec support table
-
-
-## Media Content Decryption Modules (CDM)
-## See EME Spec for more explanation for following technical terms
-## https://w3c.github.io/encrypted-media/
-
-
 ##
 
 intl-title = Internatzionalizatzione e localizatzione
@@ -339,10 +331,6 @@ apz-none = nissunu
 keyboard-enabled = tecladu ativadu
 autoscroll-enabled = iscurrimentu automàticu ativadu
 
-## Variables
-## $preferenceKey (string) - String ID of preference
-
-
 ## Strings representing the status of the Enterprise Policies engine.
 
 policies-inactive = Disativadu
@@ -358,9 +346,6 @@ support-printing-modified-settings = Cunfiguratzione de imprenta modificada
 support-printing-prefs-name = Nòmine
 support-printing-prefs-value = Valore
 
-## Remote Settings sections
-
-
 ## Normandy sections
 
 support-remote-experiments-title = Esperimentos remotos
@@ -369,9 +354,3 @@ support-remote-experiments-branch = Ramu isperimentale
 support-remote-features-title = Funtzionalidades remotas
 support-remote-features-name = Nòmine
 support-remote-features-status = Istadu
-
-## Pointing devices
-
-
-## Content Analysis (DLP)
-

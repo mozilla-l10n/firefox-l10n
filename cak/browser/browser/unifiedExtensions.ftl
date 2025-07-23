@@ -32,6 +32,3 @@ unified-extensions-context-menu-remove-extension =
     .label = Tiyuj K'amal
 unified-extensions-context-menu-report-extension =
     .label = Tiya' Rutzijol K'amal
-
-## Notifications
-

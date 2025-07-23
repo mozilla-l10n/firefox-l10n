@@ -222,7 +222,9 @@ tabbrowser-manager-current-window-tab-group =
     .label = { $tabGroupName }
     .tooltiptext = { $tabGroupName } — Barcon corint
 
-## Tab Groups
+## Variables:
+##  $tabGroupName (String): The name of the tab group. Defaults to the value
+##                          of tab-group-name-default.
 
 tab-group-editor-title-create = Cree grup di schedis
 tab-group-editor-title-edit = Gjestìs grup di schedis
@@ -252,16 +254,12 @@ tab-group-editor-color-selector2-gray = Grîs
     .title = Grîs
 tab-group-editor-color-selector2-red = Ros
     .title = Ros
-# Variables:
-#  $tabGroupName (String): The name of the tab group. Defaults to the value
-#                          of tab-group-name-default.
 tab-group-description = { $tabGroupName } — Grup di schedis
 tab-context-unnamed-group =
     .label = Grup cence non
 tab-group-name-default = Grup cence non
 
-## Variables:
-##  $tabCount (Number): the number of tabs that are affected by the action.
+##
 
 tab-context-move-tab-to-new-group =
     .label =

@@ -30,14 +30,6 @@ safeb-blocked-phishing-page-learn-more = Learn more about deceptive sites and ph
 ## Variables
 ##  $sitename (string) - Domain name for the blocked page
 
-
-## Variables
-##  $sitename (string) - Domain name for the blocked page
-
-
-## Variables
-##  $sitename (string) - Domain name for the blocked page
-
 safeb-blocked-unwanted-page-error-desc-override = <span data-l10n-name='sitename'>{ $sitename }</span> has been <a data-l10n-name='error_desc_link'>reported as containing harmful software</a>. You can <a data-l10n-name='ignore_warning_link'>ignore the risk</a> and go to this unsafe site.
 safeb-blocked-unwanted-page-error-desc-no-override = <span data-l10n-name='sitename'>{ $sitename }</span> has been <a data-l10n-name='error_desc_link'>reported as containing harmful software</a>.
 

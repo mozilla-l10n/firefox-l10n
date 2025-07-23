@@ -15,10 +15,3 @@ places-view-sort-col-name =
 places-view-sortby-name =
     .label = Nuk'el ta'n b'ii
     .accesskey = N
-
-## Strings used as a placeholder in the Library search field. For example,
-## "Search History" stands for "Search through the browser's history".
-
-
-##
-

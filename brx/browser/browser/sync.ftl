@@ -4,6 +4,3 @@
 
 sync-disconnect-dialog-body = { -brand-product-name } निफाय सिनकया बनद' जासिगोन नाथाय नोंनि बृजिं दाथाखाै बे दिबायसनिफाय जेबो दाना |
 sync-disconnect-dialog-button = बनद' खालाम
-
-## Sync warning strings that support the browser profiles feature, these will be shown when the user might be merging data
-

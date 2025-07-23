@@ -33,9 +33,6 @@ download-cert-view-cert =
     .label = Fanni vedde
 download-cert-view-text = Ezamina o certificato CA
 
-## Client Authorization Ask dialog
-
-
 ## Client Authentication Ask dialog
 
 client-auth-window =
@@ -78,6 +75,3 @@ set-password-backup-pw =
 set-password-repeat-backup-pw =
     .value = Paròlla segreta pe-a còpia de seguessa (torna):
 set-password-reminder = Inportante: Se ti t'ascòrdi a paròlla segreta di certificati, no ti saiê ciù in graddo de repigiâ sta còpia de seguessa. Pe piaxei sarvila inte 'n leugo seguo.
-
-## Protected authentication alert
-

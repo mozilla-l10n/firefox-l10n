@@ -32,6 +32,3 @@ search-history = التاريخ
 search-opentabs = الألسنة المفتوحة
 search-tags = الوسوم
 search-titles = العناوين
-
-##
-

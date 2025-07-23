@@ -37,9 +37,6 @@ download-cert-view-cert =
     .label = കാണുക
 download-cert-view-text = CA സര്‍ട്ടിഫിക്കേറ്റ് പരിശോധിക്കുക
 
-## Client Authorization Ask dialog
-
-
 ## Client Authentication Ask dialog
 
 client-auth-window =
@@ -66,6 +63,3 @@ set-password-backup-pw =
 set-password-repeat-backup-pw =
     .value = സര്‍ട്ടിഫിക്കേറ്റ് ബാക്കപ്പ് പാസ്‌വേര്‍ഡ്  (വീണ്ടും):
 set-password-reminder = പ്രധാനപ്പെട്ടതു്: നിങ്ങളുടെ സര്‍ട്ടിഫിക്കേറ്റ് ബാക്കപ്പ് പാസ്‌വേര്‍ഡ് നഷ്ടമായാല്‍, ഈ ബാക്കപ്പ് പിന്നീട് ലഭ്യമാകുകയില്ല. ദയവായി, ഇതു് സുരക്ഷിതമായ ഒരു സ്ഥലത്തേക്കു് മാറ്റുക.
-
-## Protected authentication alert
-

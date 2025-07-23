@@ -4,10 +4,6 @@
 
 xpinstall-prompt = I-{ -brand-short-name } iyithintele le sayithi ekukuceleni ukuba ufakele isoftwe kwikhompyutha.
 
-## Variables:
-##   $host (String): The hostname of the site the add-on is being installed from.
-
-
 ##
 
 xpinstall-prompt-dont-allow =

@@ -21,8 +21,3 @@ default-browser-prompt-message-alt = Nagi'hiaj hio doj man da' gache nunt.
 default-browser-prompt-button-primary-alt = Dūnâj gāhuin man riña sa nānà'uì' yītïnjt
 default-browser-prompt-checkbox-not-again-label = Nagi'hiaj hio doj man da' gache nunt.
 default-browser-prompt-button-secondary = Sī ga'hue akuan' nïn
-
-## Strings for a Windows native guidance notification when the user is forced to
-## use Windows Settings to set the default browser. Instructions differ for
-## Windows 10 and 11.
-

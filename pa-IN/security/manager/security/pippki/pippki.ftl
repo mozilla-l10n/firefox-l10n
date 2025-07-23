@@ -48,9 +48,6 @@ download-cert-view-cert =
     .label = ਵੇਖੋ
 download-cert-view-text = CA ਸਰਟੀਫਿਕੇਟ ਨੂੰ ਵੇਖੋ
 
-## Client Authorization Ask dialog
-
-
 ## Client Authentication Ask dialog
 
 client-auth-window =

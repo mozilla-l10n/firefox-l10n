@@ -37,9 +37,6 @@ download-cert-view-cert =
     .label = देखें
 download-cert-view-text = CA प्रमाणपत्र जांचें
 
-## Client Authorization Ask dialog
-
-
 ## Client Authentication Ask dialog
 
 client-auth-window =
@@ -82,6 +79,3 @@ set-password-backup-pw =
 set-password-repeat-backup-pw =
     .value = प्रमाणपत्र बैकअप कूटशब्द (फिर):
 set-password-reminder = Important: अगर आप अपना प्रमाणपत्र बैकअप कूटशब्द भूल गये हैं, आप इस बैकअप को बाद में फिर नहीं ला पायेंगे. कृपया इसे सुरक्षित स्थान में रिकार्ड करें.
-
-## Protected authentication alert
-

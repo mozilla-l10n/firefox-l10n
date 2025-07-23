@@ -42,18 +42,12 @@ permissions-capabilities-prompt =
 permissions-invalid-uri-title = Salah Meupasoë Nanhost (Hostname)
 permissions-invalid-uri-label = Neutulông pasoë nanhost (hostname) nyang beutôi
 
-## Exceptions - Tracking Protection
-
-
 ## Exceptions - Cookies
 
 permissions-exceptions-cookie-window2 =
     .title = Keucuwali - Kukis ngön Data Situih
     .style = { permissions-window2.style }
 permissions-exceptions-cookie-desc = Droëneuh jeuët neupeuteuntèë situihwèb nyang toh sabé meupeuidin atawa hantom meupeuidin keu meungui kukis ngon data situih. Tuléh beubeutôi alamat situih nyang keuneuk atô lheuëhnyan neuklik bak Tham (Block), Peuidin keu Sési (Allow for Session) atawa Peudin.
-
-## Exceptions - HTTPS-Only Mode
-
 
 ## Exceptions - Pop-ups
 
@@ -69,18 +63,12 @@ permissions-exceptions-saved-logins-window2 =
     .style = { permissions-window2.style }
 permissions-exceptions-saved-logins-desc = Tamèng log lam situihwèb dimiyub nyoë hana teukeubah
 
-## Exceptions - Saved Passwords
-
-
 ## Exceptions - Add-ons
 
 permissions-exceptions-addons-window2 =
     .title = Peuidin Situihwèb - Pasang Add-on
     .style = { permissions-window2.style }
 permissions-exceptions-addons-desc = Droëneuh jeuët neupeuteuntèë toh situihwèb nyang meupeuidin keu pasang add-on. Tuléh beubeutôi alamat situih nyang neukeuneuk peuidin öh lheuëhnyan klik Peuidin (Allow).
-
-## Site Permissions - Autoplay
-
 
 ## Site Permissions - Notifications
 
@@ -102,9 +90,6 @@ permissions-site-location-disable-label =
     .label = Tham soe nyang laké lom nibak akses lokasi drôen
 permissions-site-location-disable-desc = Nyôe keu peutheun situs web laén nyang hana rôh lam list diateuh nibak ilakéi idin akses lokasi droen. Tham akses u lokasi droen jeut meuubah ladôm fitur situs web
 
-## Site Permissions - Virtual Reality
-
-
 ## Site Permissions - Camera
 
 permissions-site-camera-window2 =
@@ -124,8 +109,3 @@ permissions-site-microphone-desc = Situs web imiyub nyoe kalheuh ilakéi akses n
 permissions-site-microphone-disable-label =
     .label = Tham soe nyang neuk lakéi akses ngui mic droen
 permissions-site-microphone-disable-desc = Nyoe keu peutheun situs web laén nyang hana lam list diateuh nibak ilakéi idin akses mic. Tham akses u mic jeut meuubah ladôm fitur situs web
-
-## Site Permissions - Speaker
-##
-## "Speaker" refers to an audio output device.
-

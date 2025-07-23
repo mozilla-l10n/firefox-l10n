@@ -39,17 +39,6 @@ neterror-load-error-connection = Heç bir səhifə açılmırsa, kompüterinizin
 neterror-load-error-firewall = Əgər kompüteriniz ya da şəbəkəniz Firewall və ya proxy ilə qorunursa, { -brand-short-name } proqramının internetə bağlanma icazəsinin olduğuna əmin olun.
 neterror-captive-portal = İnternetə çıxmaq üçün bu şəbəkəyə daxil olmalısınız.
 
-## TRR-only specific messages
-## Variables:
-##   $hostname (String) - Hostname of the website to which the user was trying to connect.
-##   $trrDomain (String) - Hostname of the DNS over HTTPS server that is currently in use.
-
-
-## Native fallback specific messages
-## Variables:
-##   $trrDomain (String) - Hostname of the DNS over HTTPS server that is currently in use.
-
-
 ##
 
 neterror-file-not-found-filename = Faylın adını böyük hərf və ya digər yazı xətaları üçün yoxlayın.

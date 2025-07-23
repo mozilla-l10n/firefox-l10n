@@ -20,16 +20,11 @@ elevation-finished-background-page =
     }
 elevation-finished-background = Aktualizace:
 elevation-more-elevated =
-    Tato aktualizace vyžaduje oprávnění správce. Aktualizace bude nainstalována při příštím spuštění { -brand-short-name.gender ->
-        [masculine] { -brand-short-name(case: "gen") }
-        [feminine] { -brand-short-name(case: "gen") }
-        [neuter] { -brand-short-name(case: "gen") }
-       *[other] aplikace { -brand-short-name }
-    }. { -brand-short-name.gender ->
-        [masculine] Nyní ho můžete restartovat, pokračovat v práci a restartovat ho později, nebo aktualizaci zcela zrušit.
-        [feminine] Nyní ji můžete restartovat, pokračovat v práci a restartovat ji později, nebo aktualizaci zcela zrušit.
-        [neuter] Nyní ho můžete restartovat, pokračovat v práci a restartovat ho později, nebo aktualizaci zcela zrušit.
-       *[other] Nyní můžete aplikaci restartovat, pokračovat v práci a restartovat ji později, nebo aktualizaci zcela zrušit.
+    { -brand-short-name.gender ->
+        [masculine] Tato aktualizace vyžaduje oprávnění správce. Aktualizace bude nainstalována při příštím spuštění { -brand-short-name(case: "gen") }. Nyní ho můžete restartovat, pokračovat v práci a restartovat ho později, nebo aktualizaci zcela zrušit.
+        [feminine] Tato aktualizace vyžaduje oprávnění správce. Aktualizace bude nainstalována při příštím spuštění { -brand-short-name(case: "gen") }. Nyní ji můžete restartovat, pokračovat v práci a restartovat ji později, nebo aktualizaci zcela zrušit.
+        [neuter] Tato aktualizace vyžaduje oprávnění správce. Aktualizace bude nainstalována při příštím spuštění { -brand-short-name(case: "gen") }. Nyní ho můžete restartovat, pokračovat v práci a restartovat ho později, nebo aktualizaci zcela zrušit.
+       *[other] Tato aktualizace vyžaduje oprávnění správce. Aktualizace bude nainstalována při příštím spuštění aplikace { -brand-short-name }. Nyní můžete aplikaci restartovat, pokračovat v práci a restartovat ji později, nebo aktualizaci zcela zrušit.
     }
 sandbox-missing-unprivileged-namespaces = Některé z bezpečnostních funkcí { -brand-short-name(case: "gen") } mohou na vašem aktuálním operačním systému poskytovat horší ochranu.
 sandbox-unprivileged-namespaces-dismiss-button =

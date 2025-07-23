@@ -34,16 +34,6 @@ removed-search-engine-message = <strong>Jūsų numatytoji ieškyklė buvo pakeis
 removed-search-engine-message2 = <strong>Jūsų numatytoji ieškyklė buvo pakeista.</strong> „{ $oldEngine }“ daugiau nebesiūloma kaip numatytoji „{ -brand-short-name }“ ieškyklė. Jūsų numatytąja ieškykle tapo „{ $newEngine }“. Norėdami pakeisti numatytąją naršyklę, eikite į nustatymus.
 remove-search-engine-button = Gerai
 
-## Infobar shown when default search engine is reset due to an issue reading the settings file.
-## Variables
-## $newEngine (String) - the name of the new default search engine.
-
-
-## Infobar shown when user is prompted to install search engine.
-## Variables
-## $engineName (String) - the name of the search engine to install.
-
-
 ## The following strings are used as input labels.
 
 add-engine-window =
@@ -51,12 +41,3 @@ add-engine-window =
     .style = min-width: 32em;
 add-engine-button = Pridėti tinkintą ieškyklę
 add-engine-name = Ieškyklės pavadinimas
-
-## The following placeholders are shown in the inputs when adding a new engine.
-
-
-## The following strings are used as error messages.
-
-
-## The following strings are used as labels for the dialog's buttons.
-

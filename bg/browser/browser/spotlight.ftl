@@ -3,9 +3,6 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 
-## Mobile download button strings
-
-
 ## Firefox Focus promo message strings
 
 spotlight-focus-promo-title = Вземете { -focus-brand-name }

@@ -68,9 +68,6 @@ perftools-button-add-directory = Apondre un repertòri
 perftools-button-remove-directory = Suprimir la seleccion
 perftools-button-edit-settings = Modificar los paramètres…
 
-## More actions menu
-
-
 ## These messages are descriptions of the threads that can be enabled for the profiler.
 
 perftools-thread-gecko-main =
@@ -149,6 +146,3 @@ perftools-presets-networking-description = Preconfiguracion per analisar los bug
 perftools-presets-power-label = Energia
 perftools-presets-power-description = Preconfiguracion per analisar las avarias ligada a la consomacion energetica dins { -brand-shorter-name }, amb una subrecarga febla.
 perftools-presets-custom-label = Personalizat
-
-##
-

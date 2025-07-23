@@ -4,10 +4,6 @@
 
 xpinstall-prompt = { -brand-short-name } na nungoo woo ganji a ma hãa ka goyjinaa sinji war ordinateroo ra.
 
-## Variables:
-##   $host (String): The hostname of the site the add-on is being installed from.
-
-
 ##
 
 xpinstall-prompt-dont-allow =

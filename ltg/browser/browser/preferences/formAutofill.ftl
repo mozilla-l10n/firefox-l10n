@@ -25,9 +25,6 @@ autofill-address-family-name = Uzvōrds
 autofill-address-organization = Uzjāmums
 autofill-address-street = Adrese
 
-## address-level-3 (Sublocality) names
-
-
 ## address-level-2 names
 
 autofill-address-city = Piļsāta
@@ -62,6 +59,3 @@ autofill-card-name-on-card = Kartes eipašnīks
 autofill-card-expires-month = Deireiguma beigu mieness
 autofill-card-expires-year = Deireiguma beigu gods
 autofill-card-billing-address = Moksōšonys adrese
-
-## These are brand names and should only be translated when a locale-specific name for that brand is in common use
-

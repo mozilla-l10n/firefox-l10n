@@ -322,6 +322,3 @@ about-webrtc-hide-msg-sdp = Схаваць SDP
 about-webrtc-media-context-show-msg = Паказаць медыякантэкст
 about-webrtc-media-context-hide-msg = Схаваць медыякантэкст
 about-webrtc-media-context-heading = Медыякантэкст
-
-##
-

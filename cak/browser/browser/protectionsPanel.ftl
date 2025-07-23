@@ -29,12 +29,6 @@ protections-panel-site-not-working = ¿La man nisamäj ta ri ruxaq?
 protections-panel-site-not-working-view =
     .title = ¿La man nisamäj ta ri ruxaq?
 
-## Text for the toggles shown when ETP is enabled/disabled for a given site.
-## .description is transferred into a separate paragraph by the moz-toggle
-## custom element code.
-##   $host (String): the hostname of the site that is being displayed.
-
-
 ## The "Allowed" header also includes a "Why?" link that, when hovered, shows
 ## a tooltip explaining why these items were not blocked in the page.
 
@@ -63,9 +57,6 @@ protections-panel-content-blocking-fingerprinters-label = Fingerprinters
 protections-panel-blocking-label = Q'aton
 protections-panel-not-blocking-label = Ya'on q'ij
 protections-panel-not-found-label = Man Xilitäj Ta
-
-## Smartblock strings
-
 
 ##
 

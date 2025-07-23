@@ -370,10 +370,6 @@ addon-detail-private-browsing-help = Երբ թոյլատրած է, ընդլայ�
 addon-detail-private-browsing-allow = Թոյլատրել
 addon-detail-private-browsing-disallow = Չթոյլատրել
 
-## "sites with restrictions" (internally called "quarantined") are special domains
-## where add-ons are normally blocked for security reasons.
-
-
 ## This is the tooltip text for the recommended badges for an extension in about:addons. The
 ## badge is a small icon displayed next to an extension when it is recommended on AMO.
 
@@ -468,10 +464,3 @@ plugins-openh264-name = OpenH264 Video Codec, որը մատակարարում է
 plugins-openh264-description = Այս ներդիրն ինքնաբար տեղադրուած է Mozilla-ի կողմից, որպէսզի  համապատասխանի WebRTC բնութագրին եւ միացնի WebRTC կանչերն այն սարքերի հետ, որոն որոնք պահանջում են H.264 տեսանիւթի կոդեկ։ Այցելէք https://www.openh264.org/ կայք կոդեկի բնագիրը դիտելու համար։
 plugins-widevine-name = Google-ի կողմից տրամադրուող լայնածաւալ բովանդակութեան գաղտնագրման մոդուլ:
 plugins-widevine-description = Այս ներդիր-ը հնարաւորութիւն է տալիս գաղտնագրուած մեդիայի նուագարկումը`ըստ գաղտնագրուած մեդիայի ընդարձակման (Encrypted Media Extensions) առանձնայատկութեան։ Գաղտնագրուած մեդիան կայքերի կողմից  սովորաբար աւգտագործուում է վճարովի բովանդակութիւնը պատճէնումից պաշտպանուելու համար։ Այցելէք https://www.w3.org/TR/encrypted-media/ ՝ Գաղտնագրուած մեդիայի ընդարձակման վերաբերեալ լրացուցիչ տեղեկութիւնների համար։
-
-## Headings for the Permissions tab in `about:addons` when the data collection
-## feature is enabled.
-
-
-## Mapping Engine IDs from AI models to how that feature represented by the engine Id is described in the used by section in local model management
-

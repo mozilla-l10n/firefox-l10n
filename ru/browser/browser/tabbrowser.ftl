@@ -246,7 +246,9 @@ tabbrowser-manager-current-window-tab-group =
     .label = { $tabGroupName }
     .tooltiptext = { $tabGroupName } — Текущее окно
 
-## Tab Groups
+## Variables:
+##  $tabGroupName (String): The name of the tab group. Defaults to the value
+##                          of tab-group-name-default.
 
 tab-group-editor-title-create = Создать группу вкладок
 tab-group-editor-title-edit = Управление группой вкладок
@@ -276,16 +278,12 @@ tab-group-editor-color-selector2-gray = Серый
     .title = Серый
 tab-group-editor-color-selector2-red = Красный
     .title = Красный
-# Variables:
-#  $tabGroupName (String): The name of the tab group. Defaults to the value
-#                          of tab-group-name-default.
 tab-group-description = { $tabGroupName } — Группа вкладок
 tab-context-unnamed-group =
     .label = Безымянная группа
 tab-group-name-default = Безымянная группа
 
-## Variables:
-##  $tabCount (Number): the number of tabs that are affected by the action.
+##
 
 tab-context-move-tab-to-new-group =
     .label =

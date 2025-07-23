@@ -42,9 +42,6 @@ policy-DontCheckDefaultBrowser = غیر فعال کردن بررسی مرورگ�
 policy-DownloadDirectory = پوشهٔ بارگیری را تنظیم و قفل کنید.
 policy-InstallAddonsPermission = به وبگاه‌های مشخصی اجازهٔ نصب افزودنی داده شود.
 
-## Do not translate "SameSite", it's the name of a cookie attribute.
-
-
 ##
 
 policy-NewTabPage = صفحهٔ زبانهٔ جدید را فعال یا غیرفعال کنید.

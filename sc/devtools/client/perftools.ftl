@@ -16,9 +16,6 @@ perftools-heading-features-default = Caraterìsticas (cussigiadas in manera pred
 perftools-heading-features-disabled = Caraterìsticas disativadas
 perftools-heading-features-experimental = Isperimentales
 
-##
-
-
 ## The controls for the interval at which the profiler samples the code.
 
 perftools-range-interval-milliseconds = { NUMBER($interval, maxFractionalUnits: 2) } ms
@@ -27,9 +24,6 @@ perftools-range-interval-milliseconds = { NUMBER($interval, maxFractionalUnits: 
 
 perftools-devtools-interval-label = Intervallu:
 perftools-devtools-settings-label = Cunfiguratzione
-
-## Various statuses that affect the current state of profiling, not typically displayed.
-
 
 ## These are shown briefly when the user is waiting for the profiler to respond.
 
@@ -46,19 +40,6 @@ perftools-button-restart = Torra a aviare
 perftools-button-add-directory = Agiunghe una cartella
 perftools-button-remove-directory = Cantzella sa seletzione
 perftools-button-edit-settings = Modìfica sa cunfiguratzione...
-
-## More actions menu
-
-
-## These messages are descriptions of the threads that can be enabled for the profiler.
-
-
-##
-
-
-## Onboarding UI labels. These labels are displayed in the new performance panel UI, when
-## devtools.performance.new-panel-onboarding preference is true.
-
 
 ## Profiler presets
 
@@ -88,6 +69,3 @@ perftools-presets-power-description = Profilu pro compidare faddinas de impreu d
 perftools-presets-debug-label = Curregi faddinas
 perftools-presets-debug-description = Precunfiguratzione pro currègere faddinas in { -brand-shorter-name }. Est subracarrigadu meda, no dd’imprees pro atividades chi bògiant unu rendimentu artu, ma pro cumprèndere su cumportamentu de su navigadore.
 perftools-presets-custom-label = Personalizadu
-
-##
-

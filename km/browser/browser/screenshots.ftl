@@ -10,10 +10,3 @@ screenshots-meta-key =
         [macos] ⌘
        *[other] Ctrl
     }
-
-## The below strings are used to capture keydown events so the strings should
-## not be changed unless the keyboard layout in the locale requires it.
-
-
-##
-

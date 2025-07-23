@@ -132,9 +132,6 @@ newtab-menu-section-block = Blokeatu
 # e.g. Following the travel section of stories.
 newtab-menu-section-unfollow = Ez jarraitu gaia
 
-## Context menu options for sponsored stories and new ad formats on New Tab.
-
-
 ## Message displayed in a modal window to explain privacy and provide context for sponsored content.
 
 newtab-privacy-modal-button-done = Eginda
@@ -387,9 +384,6 @@ feature-highlight-wallpaper =
     .title = { -newtab-wallpaper-feature-highlight-header }
     .aria-label = { -newtab-wallpaper-feature-highlight-content }
 
-## Celestial
-
-
 ## New Tab Weather
 
 newtab-weather-menu-change-location = Aldatu kokapena
@@ -475,21 +469,9 @@ newtab-section-mangage-topics-blocked-topics = Blokeatuta
 newtab-section-mangage-topics-blocked-topics-empty-state = Ez duzu inongo gairik blokeatu oraindik.
 newtab-custom-wallpaper-cta = Probatu
 
-## Strings for new user activation custom wallpaper highlight
-
-
-## Strings for download mobile highlight
-
-
-## Strings for shortcuts highlight
-
-
 ## Strings for reporting ads and content
 
 newtab-report-cancel = Utzi
 newtab-report-submit = Bidali
 newtab-toast-thanks-for-reporting =
     .message = Eskerrik asko hau jakinarazteagatik.
-
-## Strings for trending searches
-

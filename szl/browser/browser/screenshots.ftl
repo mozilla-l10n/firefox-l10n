@@ -47,10 +47,3 @@ screenshots-generic-error-details = Niy sōm my zicher, co sie stało. Sprōbuje
 screenshots-component-retry-button =
     .title = Sprōbuj zaś zrobić ôbroz ekranu
     .aria-label = Sprōbuj zaś zrobić ôbroz ekranu
-
-## The below strings are used to capture keydown events so the strings should
-## not be changed unless the keyboard layout in the locale requires it.
-
-
-##
-

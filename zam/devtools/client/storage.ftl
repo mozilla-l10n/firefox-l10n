@@ -22,6 +22,3 @@ storage-table-headers-cookies-name = Xha mud leel
 ## Labels for Storage type groups present in the Storage Tree, like cookies, local storage etc.
 
 storage-tree-labels-cookies = Cookies
-
-##
-

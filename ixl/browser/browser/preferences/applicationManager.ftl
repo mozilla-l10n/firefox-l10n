@@ -5,7 +5,3 @@
 app-manager-remove =
     .label = Sojsa el
     .accesskey = S
-
-## These strings are followed, on a new line,
-## by the URL or path of the application.
-

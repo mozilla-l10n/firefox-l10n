@@ -6,6 +6,3 @@ alert-close =
     .tooltiptext = यह अधिसूचना बंद करें
 alert-settings-title =
     .tooltiptext = विन्यास
-
-## Reminder Notifications
-

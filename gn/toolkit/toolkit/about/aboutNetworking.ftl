@@ -64,6 +64,3 @@ about-networking-moved-about-logging = Ko kuatiarogue oñemongu’e <a data-l10n
 
 about-networking-networkid-is-up = Juajuha oĩ yvate
 about-networking-networkid-status-known = Pe juajuha reko ojekuaa
-
-##
-

@@ -78,9 +78,6 @@ genai-options-hide-shortcut =
 genai-options-about-chatbot =
     .label = О AI чет-ботовима у { -brand-short-name }-у
 
-## Chatbot footer
-
-
 ## Chatbot onboarding
 
 genai-onboarding-header = Сажимајте, разрађујте идеје и још много тога док прегледате
@@ -130,9 +127,3 @@ genai-onboarding-huggingchat-switch = Бирајте између разновр
 genai-onboarding-huggingchat-price-2 = Бесплатно; налог је потребан након одређеног броја захтева
 genai-onboarding-lechat-generate = Направи текст и кȏд
 genai-onboarding-lechat-price = Бесплатно; потребан је налог
-
-## Model Optin Component
-
-
-## Link previews
-

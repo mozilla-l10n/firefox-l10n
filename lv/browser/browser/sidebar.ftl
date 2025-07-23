@@ -46,9 +46,6 @@ sidebar-context-menu-remove-extension =
 sidebar-context-menu-report-extension =
     .label = Ziņot par paplašinājumu
 
-## Labels for sidebar history context menu items
-
-
 ## Labels for sidebar menu items.
 
 sidebar-menu-genai-chat-label =
@@ -62,15 +59,6 @@ sidebar-menu-bookmarks-label =
 sidebar-menu-customize-label =
     .label = Pielāgot sānjoslu
 
-## Tooltips for sidebar menu items.
-
-
-## Tooltips displayed over the AI chatbot icon.
-## Variables:
-##   $shortcut (String) - The OS specific keyboard shortcut.
-##   $provider (String) - The name of the AI chatbot provider (if available).
-
-
 ## Headings for sidebar menu panels.
 
 sidebar-menu-customize-header =
@@ -80,14 +68,8 @@ sidebar-menu-history-header =
 sidebar-menu-syncedtabs-header =
     .heading = Cilnes no citām ierīcēm
 
-## Titles for sidebar menu panels.
-
-
 ## Context for closing synced tabs when hovering over the items
 
 show-sidebars =
     .tooltiptext = Rādīt sānu joslas
     .label = Sānu joslas
-
-## Tooltips for the sidebar toolbar widget.
-

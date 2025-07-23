@@ -48,9 +48,6 @@ download-cert-view-cert =
     .label = Vider
 download-cert-view-text = Examinar le certificato de CA
 
-## Client Authorization Ask dialog
-
-
 ## Client Authentication Ask dialog
 
 client-auth-window =

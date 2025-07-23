@@ -45,9 +45,3 @@ about-networking-rcwn-avg-long = Garš videjais
 about-networking-rcwn-std-dev-long = Long Standard Deviation
 about-networking-rcwn-cache-slow = Cache slow count
 about-networking-rcwn-cache-not-slow = Cache not slow count
-
-## Link is intended as "network link"
-
-
-##
-

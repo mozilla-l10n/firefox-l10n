@@ -7,16 +7,7 @@
 
 abuse-report-cancel-button = Nkuvi-ka
 
-## Message bars descriptions.
-##
-## Variables:
-##   $addon-name (string) - Name of the add-on
-
-
 ## Message bars actions.
 
 abuse-report-messagebar-action-retry = Nasá´á tuku
 abuse-report-messagebar-action-cancel = Nkuvi-ka
-
-## Abuse report reasons (optionally paired with related examples and/or suggestions)
-

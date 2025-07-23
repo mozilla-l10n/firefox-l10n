@@ -17,28 +17,4 @@ safeb-blocked-phishing-page-error-desc-override = <span data-l10n-name='sitename
 ## Variables
 ##  $sitename (string) - Domain name for the blocked page
 
-
-## Variables
-##  $sitename (string) - Domain name for the blocked page
-
-
-## Variables
-##  $sitename (string) - Domain name for the blocked page
-
-
-## Variables
-##  $sitename (string) - Domain name for the blocked page
-
-
-## Variables
-##  $sitename (string) - Domain name for the blocked page
-
-
-## Variables
-##  $sitename (string) - Domain name for the blocked page
-
-
-## Variables
-##  $sitename (string) - Domain name for the blocked page
-
 safeb-blocked-harmful-page-learn-more = <a data-l10n-name='firefox_support'>support.mozilla.org</a>-ত { -brand-short-name }-ৰ ফিশ্বিং আৰু মেলৱেৰ সুৰক্ষাৰ বিষয়ে অধিক জানক।

@@ -19,7 +19,7 @@ about-webrtc-closed-peerconnection-disclosure-hide-msg = Masquer les connexions 
 
 ## AEC is an abbreviation for Acoustic Echo Cancellation.
 
-about-webrtc-aec-logging-msg-label = Journalisation AEC 
+about-webrtc-aec-logging-msg-label = Journalisation AEC{ " " }
 about-webrtc-aec-logging-off-state-label = Démarrer la journalisation AEC
 about-webrtc-aec-logging-on-state-label = Arrêter la journalisation AEC
 about-webrtc-aec-logging-on-state-msg = Journalisation AEC active (discutez quelques minutes avec votre correspondant puis arrêtez l’enregistrement)
@@ -93,7 +93,7 @@ about-webrtc-nominated = Nommé
 # This represents an attribute of an ICE candidate.
 about-webrtc-selected = Sélectionné
 about-webrtc-save-page-label = Enregistrer la page
-about-webrtc-debug-mode-msg-label = Mode débogage 
+about-webrtc-debug-mode-msg-label = Mode débogage{ " " }
 about-webrtc-debug-mode-off-state-label = Démarrer le mode débogage
 about-webrtc-debug-mode-on-state-label = Arrêter le mode débogage
 about-webrtc-stats-heading = Statistiques de session
@@ -317,6 +317,3 @@ about-webrtc-hide-msg-sdp = Masquer le SDP
 about-webrtc-media-context-show-msg = Afficher le contexte multimédia
 about-webrtc-media-context-hide-msg = Masquer le contexte multimédia
 about-webrtc-media-context-heading = Contexte multimédia
-
-##
-

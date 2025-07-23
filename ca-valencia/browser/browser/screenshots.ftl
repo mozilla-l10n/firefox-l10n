@@ -36,10 +36,3 @@ screenshots-private-window-error-title = El { -screenshots-brand-name } està de
 screenshots-private-window-error-details = Perdoneu les molèsties. Estem treballant en esta característica per a versions futures.
 screenshots-generic-error-title = El { -screenshots-brand-name } ha tingut un problema.
 screenshots-generic-error-details = S'ha produït un error inesperat. Torneu-ho a provar o captureu una altra pàgina.
-
-## The below strings are used to capture keydown events so the strings should
-## not be changed unless the keyboard layout in the locale requires it.
-
-
-##
-

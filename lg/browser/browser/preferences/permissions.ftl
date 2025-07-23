@@ -43,48 +43,10 @@ permissions-capabilities-listitem-allow-session =
 permissions-invalid-uri-title = Erinnya ry`omukyaaza eriyingizindwa tteririyo
 permissions-invalid-uri-label = Tukusaba oyingize erinnya ry'omukyaaza erituffu
 
-## Exceptions - Tracking Protection
-
-
-## Exceptions - Cookies
-
-
-## Exceptions - HTTPS-Only Mode
-
-
 ## Exceptions - Pop-ups
 
 permissions-exceptions-popup-desc = Oyinza okulondamu ebibanja ebikirizibbwa okugulawo obudirisa obweraga bwoka. Wandika engagiriro entuffu eyekyapa kyoyagala oku kkiriza bwomala okoone ku Kukkiriza.
 
-## Exceptions - Saved Logins
-
-
-## Exceptions - Saved Passwords
-
-
 ## Exceptions - Add-ons
 
 permissions-exceptions-addons-desc = Oyinza okulondamu ebibanja ebikkirizibwa okutekamu ebituusa. Wandika endagiriro entuffu eyomuko gwoyagala okukiriza bwo mala okoone ku Kkiriza.
-
-## Site Permissions - Autoplay
-
-
-## Site Permissions - Notifications
-
-
-## Site Permissions - Location
-
-
-## Site Permissions - Virtual Reality
-
-
-## Site Permissions - Camera
-
-
-## Site Permissions - Microphone
-
-
-## Site Permissions - Speaker
-##
-## "Speaker" refers to an audio output device.
-

@@ -48,9 +48,6 @@ download-cert-view-cert =
     .label = ᱧᱮᱱᱮᱞ
 download-cert-view-text = CA ᱯᱚᱨᱢᱟᱱ ᱥᱟᱠᱟᱢ ᱯᱚᱨᱚᱠ ᱵᱤᱲᱟᱹᱣ
 
-## Client Authorization Ask dialog
-
-
 ## Client Authentication Ask dialog
 
 client-auth-window =

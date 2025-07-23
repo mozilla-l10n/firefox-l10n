@@ -18,14 +18,6 @@ migration-wizard-migrator-display-name-ie = Microsoft Internet Explorer
 migration-wizard-migrator-display-name-safari = Safari
 migration-imported-safari-reading-list = Lista di littura (di Safari)
 
-## These strings are shown if the selected browser data directory is unreadable.
-## In practice, this tends to only occur on Linux when Firefox
-## is installed as a Snap.
-
-
-## These strings will be displayed based on how many resources are selected to import
-
-
 ##
 
 migration-bookmarks-option-label = Nzingalibbra

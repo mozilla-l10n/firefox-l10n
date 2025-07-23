@@ -53,7 +53,3 @@ move-to-end =
 move-to-new-window =
     .label = ဝင်းဒိုးအသစ်ဆီသို့ ရွှေ့ပါ
     .accesskey = W
-
-## Variables:
-##  $tabCount (Number): the number of tabs that are affected by the action.
-

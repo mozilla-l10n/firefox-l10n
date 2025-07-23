@@ -111,10 +111,6 @@ fp-learn-more-about-secure-connection-failures = Mësoni më tepër rreth dësht
 fp-learn-more-about-cert-issues = Mësoni më tepër rreth këtyre llojesh problemesh dëshmish
 fp-learn-more-about-time-related-errors = Mësoni më tepër rreth diagnostikimit dhe zgjidhjes së gabimeve që lidhjen me kohën
 
-## Variables:
-##   $hostname (string) - Hostname of the website with cert error.
-
-
 ## Messages used for certificate error titles
 
 connectionFailure-title = S’arrihet të lidhet

@@ -357,10 +357,6 @@ drag-enabled = גרירת פס גלילה מופעלת
 keyboard-enabled = מקלדת פעילה
 autoscroll-enabled = גלילה אוטומטית פעילה
 
-## Variables
-## $preferenceKey (string) - String ID of preference
-
-
 ## Strings representing the status of the Enterprise Policies engine.
 
 policies-inactive = לא פעיל

@@ -20,10 +20,6 @@ cert-error-details-hsts-label = Slándáil Dhian Aistrithe HTTP: { $hasHSTS }
 cert-error-details-key-pinning-label = Pionnáil Eochrach Poiblí HTTP: { $hasHPKP }
 cert-error-details-cert-chain-label = Slabhra teastais:
 
-## Variables:
-##   $hostname (string) - Hostname of the website with cert error.
-
-
 ## Messages used for certificate error titles
 
 connectionFailure-title = Ní féidir ceangal
@@ -51,10 +47,3 @@ nssFailure2-title = Níorbh Fhéidir Ceangal Slán a Bhunú
 corruptedContentError-title = Earráid: Ábhar Truaillithe
 sslv3Used-title = Ní féidir ceangal slán a bhunú
 inadequateSecurityError-title = Níl do cheangal slán
-
-## Felt Privacy V1 Strings
-
-
-## Variables:
-##   $hostname (String) - Hostname of the website to which the user was trying to connect.
-

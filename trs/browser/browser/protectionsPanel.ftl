@@ -2,13 +2,6 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-
-## These strings are used to define the different levels of
-## Enhanced Tracking Protection.
-
-
-##
-
 # The text a screen reader speaks when focused on the info button.
 protections-panel-etp-more-info =
     .aria-label = Gini'in doj dàj hua rayi'î sa narán rayi'ît nga aché nunt
@@ -19,12 +12,6 @@ protections-panel-site-not-working = Nitāj si 'iaj sun sîtio a'?
 # The heading/title of the sub-panel view
 protections-panel-site-not-working-view =
     .title = Nitāj si 'iaj sun Sîtio a'?
-
-## Text for the toggles shown when ETP is enabled/disabled for a given site.
-## .description is transferred into a separate paragraph by the moz-toggle
-## custom element code.
-##   $host (String): the hostname of the site that is being displayed.
-
 
 ## The "Allowed" header also includes a "Why?" link that, when hovered, shows
 ## a tooltip explaining why these items were not blocked in the page.
@@ -54,9 +41,6 @@ protections-panel-content-blocking-fingerprinters-label = Nej da'nga ra'a
 protections-panel-blocking-label = Nitāj si hūaj nayi'nin
 protections-panel-not-blocking-label = Ga'nïn'
 protections-panel-not-found-label = Nitāj à'ngòj nari'ij
-
-## Smartblock strings
-
 
 ##
 

@@ -100,9 +100,6 @@ permissions-exceptions-saved-logins-window2 =
     .style = { permissions-window2.style }
 permissions-exceptions-saved-logins-desc = ఈ క్రింది వెబ్‌సైట్ల ప్రవేశాలు భద్రపరచబడవు
 
-## Exceptions - Saved Passwords
-
-
 ## Exceptions - Add-ons
 
 permissions-exceptions-addons-window2 =
@@ -153,8 +150,3 @@ permissions-site-microphone-window2 =
     .style = { permissions-window2.style }
 permissions-site-microphone-disable-label =
     .label = మీ మైక్రోఫోనును వాడుటకై వచ్చే కొత్త అభ్యర్థనలను తిరస్కరించు
-
-## Site Permissions - Speaker
-##
-## "Speaker" refers to an audio output device.
-

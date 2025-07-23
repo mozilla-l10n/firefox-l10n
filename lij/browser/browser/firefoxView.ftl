@@ -42,48 +42,7 @@ firefoxview-recently-closed-nav = Feuggi seræ urtimamente
     .title = Feuggi seræ urtimamente
 firefoxview-recently-closed-header = Feuggi seræ urtimamente
 
-## Tabs from other devices refers in this context refers to synced tabs from other devices
-
-
 ##
 
 # Used for a link in collapsible cards, in the ’Recent browsing’ page of Firefox View
 firefoxview-view-all-link = Veddi tutto
-
-## Variables:
-##   $date (string) - Date to be formatted based on locale
-
-
-##
-
-
-## Message displayed in Firefox View when the user has no history data
-
-
-##
-
-
-## Message displayed in Firefox View when the user has chosen to never remember History
-
-
-##
-
-
-## Text displayed in a dismissable banner to import bookmarks/history from another browser
-
-
-## Message displayed in Firefox View when the user has no recently closed tabs data
-
-
-## This message is displayed below the name of another connected device when it doesn't have any open tabs.
-
-
-## These tooltips will be displayed when hovering over a pinned tab on the Open Tabs page
-## Variables:
-##  $tabTitle (string) - Title of pinned tab that will be opened when selected
-
-
-## These tooltips will be displayed when hovering over an unpinned Open Tab
-## Variables:
-##   $url (string) - URL of tab that will be opened when selected
-

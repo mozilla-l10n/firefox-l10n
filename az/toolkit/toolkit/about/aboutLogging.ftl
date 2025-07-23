@@ -8,13 +8,3 @@ about-logging-set-log-file = Qeydiyyat Faylını Qur
 about-logging-set-log-modules = Qeydiyyat Modullarını Qur
 about-logging-start-logging = Qeydiyyatı Başlat
 about-logging-stop-logging = Qeydiyyatı Dayandır
-
-## Logging presets
-
-
-##
-
-
-## The upload interface is shown only with the preference toolkit.aboutLogging.uploadProfileToCloud
-## set to true. It is false by default, except on Android.
-

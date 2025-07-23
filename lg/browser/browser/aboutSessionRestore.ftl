@@ -13,6 +13,3 @@ restore-page-restore-header =
     .label = Okkuza obujja
 restore-page-list-header =
     .label = Amaddirisa era Awadiriira
-
-## The following strings are used in about:welcomeback
-

@@ -52,14 +52,6 @@ about-reader-toolbar-close = Serriñ ar mod lenn
 about-reader-toolbar-type-controls = Reoliñ ar skritur
 about-reader-toolbar-savetopocket = Enrollañ e { -pocket-brand-name }
 
-## Reader View colors menu
-
-
-## These are used as labels for the custom theme color pickers.
-## The .title element is used to make the editing functionality
-## clear and give context for screen reader users.
-
-
 ## Reader View text and layout menu
 
 about-reader-text-header = Testenn

@@ -47,11 +47,6 @@ migration-source-name-chrome = Google Chrome
 migration-imported-safari-reading-list = Rucholajem taq sik'inem (richin ri Safari)
 migration-imported-edge-reading-list = Rucholajem taq sik'inem (richin Edge)
 
-## These strings are shown if the selected browser data directory is unreadable.
-## In practice, this tends to only occur on Linux when Firefox
-## is installed as a Snap.
-
-
 ## These strings will be displayed based on how many resources are selected to import
 
 migration-all-available-data-label = Kejik' ronojel taq tzij e k'o

@@ -65,9 +65,6 @@ split-dismiss-button-manage-settings-option =
 split-dismiss-button-default-label =
     .title = Dibarzhioù ouzhpenn
 
-## Login Status Advisory Callout (points to the account icon)
-
-
 ## Bookmarks toolbar callout strings
 
 bookmarks-toolbar-callout-1-primary-button-label = Ouzhpennañ ur sined
@@ -88,9 +85,6 @@ perplexity-callout-secondary-label-2 = Komprenet am eus
 
 # Opens Mozilla accounts sign-up page
 fxa-adoption-passwords-primary-button-label = Krouiñ ur gont
-
-## Sidebar Strings
-
 
 ## Sidebar Vertical Tabs Strings
 

@@ -22,12 +22,6 @@ abuse-report-next-button = അടുത്തത്
 abuse-report-goback-button = പുറകോട്ടു് പോകുക
 abuse-report-submit-button = സമര്‍പ്പിയ്ക്കുക
 
-## Message bars descriptions.
-##
-## Variables:
-##   $addon-name (string) - Name of the add-on
-
-
 ## Message bars actions.
 
 abuse-report-messagebar-action-remove-extension = അതെ, ഇത് നീക്കംചെയ്യുക

@@ -4,10 +4,3 @@
 
 protocolhandler-mailto-os-handler-yes-button = Ezarri lehenetsi gisa
 protocolhandler-mailto-os-handler-no-button = Une honetan ez
-
-## Variables:
-##  $url (String): The url of a webmailer, but only its full domain name.
-
-
-##
-

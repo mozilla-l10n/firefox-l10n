@@ -68,10 +68,6 @@ open-in-new-window-for-csp-or-xfo-error = Deschide site-ul într-o fereastră no
 #   $hostname (string) - Hostname of the website blocked by csp or xfo error.
 csp-xfo-blocked-long-desc = Pentru a-ți proteja securitatea, { $hostname } nu va permite { -brand-short-name } să afișeze pagina dacă a fost încorporată de alt site. Pentru a vedea această pagină, trebuie să o deschizi într-o fereastră nouă.
 
-## Variables:
-##   $hostname (string) - Hostname of the website with cert error.
-
-
 ## Messages used for certificate error titles
 
 connectionFailure-title = Nu se poate conecta
@@ -109,10 +105,3 @@ networkProtocolError-title = Eroare legată de protocolul de rețea
 nssBadCert-title = Avertisment: Urmează un posibil risc de securitate
 nssBadCert-sts-title = Nu s-a realizat conectarea: Posibilă problemă de securitate
 certerror-mitm-title = Un program împiedică { -brand-short-name } să se conecteze în siguranță la acest site
-
-## Felt Privacy V1 Strings
-
-
-## Variables:
-##   $hostname (String) - Hostname of the website to which the user was trying to connect.
-

@@ -25,7 +25,3 @@ url-classifier-enabled = ဖွင့်ထားသည်
 url-classifier-disabled = ပိတ်ထားသည်
 url-classifier-updating = ပြင်ဆင်နေသည်
 url-classifier-cannot-update = မပြင်ဆင်နိုင်ပါ
-
-## Variables
-##   $error (string) - Error message
-

@@ -24,10 +24,3 @@ about-logging-preset-networking-label = ජාලකරණය
 about-logging-preset-custom-label = අභිරුචි
 # Error handling
 about-logging-error = දෝෂය:
-
-##
-
-
-## The upload interface is shown only with the preference toolkit.aboutLogging.uploadProfileToCloud
-## set to true. It is false by default, except on Android.
-

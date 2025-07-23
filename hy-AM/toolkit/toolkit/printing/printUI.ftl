@@ -85,9 +85,3 @@ printui-pages-per-sheet = Էջեր թերթում
 # when the user prints a page and it is being sent to the printer.
 printui-print-progress-indicator = Տպում է…
 printui-print-progress-indicator-saving = Պահպանում է...
-
-## Paper sizes that may be supported by the Save to PDF destination:
-
-
-## Error messages shown when a user has an invalid input
-

@@ -4,10 +4,6 @@
 
 xpinstall-prompt = { -brand-short-name } het hierdie werf daarvan verhoed om u te vra om sagteware op die rekenaar te installeer.
 
-## Variables:
-##   $host (String): The hostname of the site the add-on is being installed from.
-
-
 ##
 
 xpinstall-prompt-dont-allow =

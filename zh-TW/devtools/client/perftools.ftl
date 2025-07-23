@@ -152,6 +152,3 @@ perftools-presets-power-description = 於 { -brand-shorter-name } 診斷耗電�
 perftools-presets-debug-label = 除錯
 perftools-presets-debug-description = { -brand-shorter-name } 的預設除錯選項。額外負荷較高，請只在需要了解瀏覽器行為時使用，勿用於需要較高效能的情境。
 perftools-presets-custom-label = 自訂
-
-##
-

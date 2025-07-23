@@ -57,6 +57,3 @@ about-networking-networkid-id = Network ID
 
 about-networking-networkid-is-up = Ang link ay naka-up
 about-networking-networkid-status-known = Ang katayuan ng link ay kilala
-
-##
-

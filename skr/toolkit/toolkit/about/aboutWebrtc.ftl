@@ -317,6 +317,3 @@ about-webrtc-hide-msg-sdp = SDP لُکاؤ
 about-webrtc-media-context-show-msg = میڈیا سياق ݙکھاؤ
 about-webrtc-media-context-hide-msg = میڈیا سياق لکاؤ
 about-webrtc-media-context-heading = میڈیا سياق
-
-##
-

@@ -31,48 +31,10 @@ permissions-capabilities-listitem-allow-session =
 permissions-invalid-uri-title = ଅବୈଧ ହୋଷ୍ଟ ନାମ ଭରଣ କରାଯାଇଛି
 permissions-invalid-uri-label = ଦୟାକରି ଗୋଟିଏ ବୈଧ ହୋଷ୍ଟ ନାମ ଭରଣ କରନ୍ତୁ
 
-## Exceptions - Tracking Protection
-
-
-## Exceptions - Cookies
-
-
-## Exceptions - HTTPS-Only Mode
-
-
 ## Exceptions - Pop-ups
 
 permissions-exceptions-popup-desc = କେଉଁ ୱେବ ସାଇଟଗୁଡ଼ିକ ପପ୍-ଅପ୍ ୱିଣ୍ଡୋଗୁଡ଼ିକୁ ଖୋଲିବାକୁ ଅନୁମତିପ୍ରାପ୍ତ ତାହା ଆପଣ ଉଲ୍ଲେଖ କରିପାରିବେ.ଆପଣ ଅନୁମତି ଦେବାକୁ ଚାହୁଁଥିବା ସାଇଟର ସଠିକ ଠିକଣା ଟାଇପ କରନ୍ତୁ ଏବଂ ତାପରେ ଅନୁମତିଦିଅନ୍ତୁକୁ ଦବାନ୍ତୁ.
 
-## Exceptions - Saved Logins
-
-
-## Exceptions - Saved Passwords
-
-
 ## Exceptions - Add-ons
 
 permissions-exceptions-addons-desc = କେଉଁ ୱେବ ସାଇଟଗୁଡ଼ିକ ଏଡ-ଅନଗୁଡ଼ିକୁ ସ୍ଥାପନ କରିବାକୁ ଅନୁମତିପ୍ରାପ୍ତ ତାହା ଆପଣ ଉଲ୍ଲେଖ କରିପାରିବେ. ଆପଣ ଅନୁମତି ଦେବାକୁ ଚାହୁଁଥିବା ସାଇଟର ସଠିକ ଠିକଣା ଟାଇପ କରନ୍ତୁ ଏବଂ ତାପରେ ଅନୁମତିଦିଅନ୍ତୁକୁ ଦବାନ୍ତୁ.
-
-## Site Permissions - Autoplay
-
-
-## Site Permissions - Notifications
-
-
-## Site Permissions - Location
-
-
-## Site Permissions - Virtual Reality
-
-
-## Site Permissions - Camera
-
-
-## Site Permissions - Microphone
-
-
-## Site Permissions - Speaker
-##
-## "Speaker" refers to an audio output device.
-

@@ -4,6 +4,3 @@
 
 alert-settings-title =
     .tooltiptext = Ib'anax tuche'
-
-## Reminder Notifications
-

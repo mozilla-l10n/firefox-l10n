@@ -32,6 +32,3 @@ search-history = Geçmiş
 search-opentabs = Açık sekmeler
 search-tags = Etiketler
 search-titles = Başlıklar
-
-##
-

@@ -24,6 +24,3 @@ storage-table-headers-cookies-name = B'ii
 ## Labels for Storage type groups present in the Storage Tree, like cookies, local storage etc.
 
 storage-tree-labels-cookies = Cookies
-
-##
-

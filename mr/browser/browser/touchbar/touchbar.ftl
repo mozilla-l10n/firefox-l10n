@@ -31,6 +31,3 @@ search-history = इतिहास
 search-opentabs = उघडे टॅब
 search-tags = टॅग
 search-titles = शीर्षके
-
-##
-

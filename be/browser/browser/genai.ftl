@@ -108,9 +108,6 @@ genai-options-hide-shortcut =
 genai-options-about-chatbot =
     .label = Пра чат-боты ШІ ў { -brand-short-name }
 
-## Chatbot footer
-
-
 ## Chatbot onboarding
 
 genai-onboarding-header = Рэзюмуйце, разважайце і многае іншае ў часе аглядання

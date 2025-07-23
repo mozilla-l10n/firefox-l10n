@@ -46,10 +46,6 @@ cert-error-details-key-pinning-label = HTTP Public Key Pinning: { $hasHPKP }
 cert-error-details-cert-chain-label = ສາຍໃບຮັບຮອງ:
 open-in-new-window-for-csp-or-xfo-error = ເປີດໄຊທ໌ໃນວິນໂດໃຫມ່
 
-## Variables:
-##   $hostname (string) - Hostname of the website with cert error.
-
-
 ## Messages used for certificate error titles
 
 connectionFailure-title = ບໍ່ສາມາດເຊື່ອມຕໍ່
@@ -87,10 +83,3 @@ networkProtocolError-title = ໂປໂຕຄໍເຄືອຂ່າຍມີຂ
 nssBadCert-title = ຄຳເຕືອນ: ຄວາມສ່ຽງດ້ານຄວາມປອດໄພທີ່ອາດເກີດຂຶ້ນຢູ່ຂ້າງໜ້າ
 nssBadCert-sts-title = ບໍ່ໄດ້ເຊື່ອມຕໍ່: ບັນຫາຄວາມປອດໄພທີ່ເປັນໄປໄດ້
 certerror-mitm-title = ຊອບແວກໍາລັງປ້ອງກັນ { -brand-short-name } ຈາກການເຊື່ອມຕໍ່ກັບເວັບໄຊທ໌ນີ້ຢ່າງປອດໄພ
-
-## Felt Privacy V1 Strings
-
-
-## Variables:
-##   $hostname (String) - Hostname of the website to which the user was trying to connect.
-

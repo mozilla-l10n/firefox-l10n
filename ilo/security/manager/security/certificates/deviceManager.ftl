@@ -13,9 +13,6 @@ devmgr-button-disable-fips =
     .label = Iddepen ti FIPS
     .accesskey = F
 
-## Strings used for load device
-
-
 ## Token Manager
 
 devinfo-status =

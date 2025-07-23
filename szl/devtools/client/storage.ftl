@@ -5,13 +5,3 @@
 
 ### These strings are used inside the Storage Inspector.
 
-
-## Header names of the columns in the Storage Table for each type of storage available
-## through the Storage Tree to the side.
-
-
-## Labels for Storage type groups present in the Storage Tree, like cookies, local storage etc.
-
-
-##
-

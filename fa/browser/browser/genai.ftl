@@ -3,9 +3,6 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 
-## Generative AI (GenAI) Settings section
-
-
 ## Chatbot prompts
 ## Prompts are plain language ‘instructions’ sent to a chatbot.
 ## These prompts have been made concise and direct in English because some chatbot providers
@@ -21,9 +18,6 @@ genai-prompts-simplify =
     .label = زبان را ساده‌سازی کنید
     .value = لطفا انتخاب را با استفاده از جملات کوتاه و کلمات ساده بازنویسی کنید. معنی و دقت را حفظ کنید.
 
-## Chatbot menu shortcuts
-
-
 ## Chatbot header
 
 genai-header-close-button =
@@ -32,9 +26,6 @@ genai-options-show-shortcut =
     .label = نمایش میانبر هنگام انتخاب متن
 genai-options-hide-shortcut =
     .label = پنهان کردن میانبر هنگام انتخاب متن
-
-## Chatbot footer
-
 
 ## Chatbot onboarding
 
@@ -70,9 +61,3 @@ genai-onboarding-gemini-price = گزینه‌های رایگان و پولی؛ �
 genai-onboarding-huggingchat-generate = تولید متن و کد
 genai-onboarding-huggingchat-switch = جابجایی بین مجموعه‌ای متنوع از مدل‌های آزاد
 genai-onboarding-lechat-generate = تولید متن و کد
-
-## Model Optin Component
-
-
-## Link previews
-

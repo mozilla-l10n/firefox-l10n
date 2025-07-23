@@ -362,18 +362,3 @@ onboarding-new-user-survey-familiarity-based-option-1 = Esmu jauniņais
 onboarding-new-user-survey-familiarity-based-option-2 = Esmu to izmantojis
 onboarding-new-user-survey-familiarity-based-option-3 = Esmu ar to ļoti pazīstams
 onboarding-new-user-survey-familiarity-based-option-4 = Esmu to izmantojis, bet tas bija sen
-
-## UI strings for the sidebar and vertical tabs
-
-
-## New user onboarding checklist
-
-
-## Tab Groups feature onboarding strings
-
-
-## Multi Profiles feature onboarding messages
-
-
-## Desktop to Mobile Adoption feature callout strings
-

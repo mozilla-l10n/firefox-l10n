@@ -17,9 +17,6 @@ webext-perms-header-unsigned-with-perms = Да бъде ли добавено р
 webext-perms-sideload-header = Добавката „{ $extension }“ е добавена
 webext-perms-optional-perms-header = Добавката „{ $extension }“ иска допълнителни права.
 
-## Headers used in the webextension permissions dialog, inside the content.
-
-
 ##
 
 webext-perms-add =
@@ -73,20 +70,6 @@ webext-perms-host-description-too-many-sites =
        *[other] Достъп до вашите данни от { $domainCount } други страници
     }
 
-## Strings for data collection permissions in the permission prompt.
-
-
-## Headers used in the webextension permissions dialog for synthetic add-ons.
-## The part of the string describing what privileges the extension gives should be consistent
-## with the value of webext-site-perms-description-gated-perms-{sitePermission}.
-## Note, this string will be used as raw markup. Avoid characters like <, >, &
-## Variables:
-##   $hostname (String): the hostname of the site the add-on is being installed from.
-
-
-##
-
-
 ## Headers used in the webextension permissions dialog.
 ## Note: This string will be used as raw markup. Avoid characters like <, >, &
 ## Variables:
@@ -95,9 +78,3 @@ webext-perms-host-description-too-many-sites =
 
 webext-site-perms-header-with-perms = Добавяне на { $extension }? Разширението предоставя следните възможности на { $hostname }:
 webext-site-perms-header-unsigned-with-perms = Да бъде ли добавено разширението { $extension }? То е непроверено. Злонамерените разширения могат да откраднат лична информация или да компрометират компютъра ви. Добавете разширението, само ако имате доверие на източника. Това разширение предоставя следните възможности на { $hostname }:
-
-## These should remain in sync with permissions.NAME.label in sitePermissions.properties
-
-
-## Colorway theme migration
-

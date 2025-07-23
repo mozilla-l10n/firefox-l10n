@@ -26,7 +26,3 @@ process-type-webisolated = पृथक वेब मजकूर
 # process used to communicate with the GPU for
 # graphics acceleration
 process-type-gpu = GPU
-
-##
-## Other
-

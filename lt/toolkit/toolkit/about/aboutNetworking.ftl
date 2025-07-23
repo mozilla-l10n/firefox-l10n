@@ -61,6 +61,3 @@ about-networking-networkid-id = Tinklo ID
 
 about-networking-networkid-is-up = Ryšys veikia
 about-networking-networkid-status-known = Ryšio būsena žinoma
-
-##
-

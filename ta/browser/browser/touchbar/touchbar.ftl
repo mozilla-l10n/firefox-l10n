@@ -17,9 +17,3 @@ reader-view = வாசகர் காட்சி
 open-location = தேடு அல்லது முகவரியை உள்ளிடு
 share = பகிர்க
 close-window = சாளரத்தை மூடுக
-
-## Various categories of shortcuts for search.
-
-
-##
-

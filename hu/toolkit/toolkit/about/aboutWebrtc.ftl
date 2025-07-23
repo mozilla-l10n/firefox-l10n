@@ -317,6 +317,3 @@ about-webrtc-hide-msg-sdp = SDP elrejtése
 about-webrtc-media-context-show-msg = Médiakörnyezet megjelenítése
 about-webrtc-media-context-hide-msg = Médiakörnyezet elrejtése
 about-webrtc-media-context-heading = Médiakörnyezet
-
-##
-

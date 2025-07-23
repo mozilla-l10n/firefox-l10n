@@ -45,9 +45,3 @@ about-networking-rcwn-avg-long = Media longa
 about-networking-rcwn-std-dev-long = Deviaçion standard longa
 about-networking-rcwn-cache-slow = Conto da cache lenta
 about-networking-rcwn-cache-not-slow = Conto da cache no lenta
-
-## Link is intended as "network link"
-
-
-##
-

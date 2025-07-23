@@ -970,10 +970,6 @@ unified-extensions-button-quarantined =
     .label = बिस्तारहरु
     .tooltiptext = बिस्तारहरु
 
-## Unified extensions button when some extensions are disabled (e.g. through add-ons blocklist).
-## Note that the new line is intentionally part of the tooltip.
-
-
 ## Private browsing reset button
 
 reset-pbm-toolbar-button =
@@ -1067,6 +1063,3 @@ file-picker-crashed-save-nowhere = Windows फाइल-संवाद क्�
 file-picker-crashed-show-in-folder =
     .label = फोल्डरमा देखाउनुहोस्
     .accessKey = F
-
-## Onboarding Finish Setup checklist
-

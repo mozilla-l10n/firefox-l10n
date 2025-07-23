@@ -40,9 +40,3 @@ about-networking-rcwn-perf-read = Leámh
 about-networking-rcwn-perf-write = Scríobh
 about-networking-rcwn-cache-slow = Líon amas mall ón taisce
 about-networking-rcwn-cache-not-slow = Líon amas nach mall ón taisce
-
-## Link is intended as "network link"
-
-
-##
-

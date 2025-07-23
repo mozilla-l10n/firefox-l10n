@@ -17,9 +17,3 @@ reader-view = စာဖတ်ပုံစံ
 open-location = လိပ်စာကို ရှာဖွေ သို့မဟုတ် ဝင်ပါ။
 share = မျှဝေ
 close-window = ဝင်းဒိုးကိုပိတ်ရန်
-
-## Various categories of shortcuts for search.
-
-
-##
-

@@ -152,6 +152,3 @@ perftools-presets-power-description = 排查 { -brand-shorter-name } 功耗 Bug 
 perftools-presets-debug-label = 调试
 perftools-presets-debug-description = 在 { -brand-shorter-name } 中调试时使用。开销较高，请勿用于性能用途，仅应用于了解浏览器行为。
 perftools-presets-custom-label = 自定义
-
-##
-

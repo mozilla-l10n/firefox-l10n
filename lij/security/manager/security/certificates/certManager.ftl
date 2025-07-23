@@ -131,9 +131,6 @@ delete-email-cert-impact = Se ti ti scancelli un certificato email, ti no saiæ 
 cert-with-serial =
     .value = Cartificato con numero seriale: { $serialNumber }
 
-## Used to show whether an override is temporary or permanent
-
-
 ## Add Security Exception dialog
 
 add-exception-branded-warning = T'ê apreuvo a cangiâ o mòddo ch'o l'à { -brand-short-name } de identificâ sto scito.

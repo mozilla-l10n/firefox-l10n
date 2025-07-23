@@ -28,9 +28,6 @@ download-cert-view-cert =
     .label = Jonga
 download-cert-view-text = Hlola isatifikethi se-CA
 
-## Client Authorization Ask dialog
-
-
 ## Client Authentication Ask dialog
 
 client-auth-window =
@@ -48,6 +45,3 @@ set-password-backup-pw =
 set-password-repeat-backup-pw =
     .value = Igama lokugqithisa lekopi egcinwayo yesatifikethi (kwakhona):
 set-password-reminder = Okubalulekileyo: Ukuba ulibala igama lokugqithisa lekopi egcinwayo yesatifikethi sakho, akusayi kukwazi ukubuyisela ikopi egcinwayo emva kwethuba.  Nceda yigcine ngokuyibhala kwindawo yokugcina ekhuselekileyo.
-
-## Protected authentication alert
-

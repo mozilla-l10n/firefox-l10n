@@ -6,10 +6,3 @@
 ## Logging presets
 
 about-logging-preset-networking-cookie-label = Viscotta
-
-##
-
-
-## The upload interface is shown only with the preference toolkit.aboutLogging.uploadProfileToCloud
-## set to true. It is false by default, except on Android.
-

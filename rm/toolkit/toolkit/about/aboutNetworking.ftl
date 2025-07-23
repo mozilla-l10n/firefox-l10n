@@ -64,6 +64,3 @@ about-networking-moved-about-logging = Questa pagina è vegnida spustada en <a d
 
 about-networking-networkid-is-up = La colliaziun è activa
 about-networking-networkid-status-known = Il status da la colliaziun è enconuschent
-
-##
-

@@ -212,7 +212,7 @@ bar-tooltip-cryptominer =
     .title = Ťažba kryptomien
     .aria-label =
         { $count ->
-            [one] Jeden pokus o ťažbu kryptomien
-            [few] { $count } pokusy o ťažbu kryptomien
-           *[other] { $count } pokusov o ťažbu kryptomien
-        } ({ $percentage }%)
+            [one] Jeden pokus o ťažbu kryptomien ({ $percentage }%)
+            [few] { $count } pokusy o ťažbu kryptomien ({ $percentage }%)
+           *[other] { $count } pokusov o ťažbu kryptomien ({ $percentage }%)
+        }

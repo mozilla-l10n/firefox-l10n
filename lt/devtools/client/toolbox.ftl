@@ -26,6 +26,3 @@ toolbox-meatball-menu-community-label = Bendruomenė…
 toolbox-meatball-menu-noautohide-label = Išjungti automatinį iškylančiųjų langų slėpimą
 toolbox-meatball-menu-pseudo-locale-accented = Įjungti „kirčiuotą“ lokalę
 toolbox-meatball-menu-pseudo-locale-bidi = Įjungti „dvikryptę“ lokalę
-
-## These labels are shown in the top-toolbar in the Browser Toolbox and Browser Console
-

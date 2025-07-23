@@ -227,9 +227,6 @@ quickactions-cmd-bookmarks = पुस्तचिह्न
 quickactions-clearhistory = इतिहास मेटाबू
 quickactions-cmd-clearhistory = इतिहास मेटाबू
 
-## Bookmark Panel
-
-
 ## Identity Panel
 
 identity-connection-internal = ई एकटा सुरक्षित { -brand-short-name } पेज अछि.
@@ -264,26 +261,9 @@ browser-window-minimize-button =
 browser-window-close-button =
     .tooltiptext = बन्न करू
 
-## Tab actions
-
-
-## These labels should be written in all capital letters if your locale supports them.
-## Variables:
-##  $count (number): number of affected tabs
-
-
-## Bookmarks toolbar items
-
-
 ## WebRTC Pop-up notifications
 
 popup-all-windows-shared = अहाँक स्क्रीन पर सभ दृश्य विंडो साझा कएल जाएत.
-
-## WebRTC window or screen share tab switch warning
-
-
-## DevTools F12 popup
-
 
 ## URL Bar
 
@@ -318,14 +298,6 @@ urlbar-searchmode-tabs =
 urlbar-searchmode-history =
     .label = इतिहास
 
-## Action text shown in urlbar results, usually appended after the search
-## string or the url, like "result value - action text".
-## In these actions "Search" is a verb, followed by where the search is performed.
-
-
-## Labels shown above groups of urlbar results
-
-
 ## Reader View toolbar buttons
 
 # This should match menu-view-enter-readerview in menubar.ftl
@@ -334,11 +306,6 @@ reader-view-enter-button =
 # This should match menu-view-close-readerview in menubar.ftl
 reader-view-close-button =
     .aria-label = पाठक व्यू बन्न करू
-
-## Picture-in-Picture urlbar button
-## Variables:
-##   $shortcut (String) - Keyboard shortcut to execute the command.
-
 
 ## Full Screen and Pointer Lock UI
 
@@ -362,11 +329,6 @@ bookmarks-toolbar-chevron =
 bookmarks-sidebar-content =
     .aria-label = पुस्तकचिह्न
 
-## Variables:
-##   $isVisible (boolean): if the specific element (e.g. bookmarks sidebar,
-##                         bookmarks toolbar, etc.) is visible or not.
-
-
 ##
 
 bookmarks-toolbar-menu =
@@ -375,15 +337,6 @@ bookmarks-toolbar-placeholder =
     .title = अओजारपट्टी मद पुस्तकचिह्नित करैता अछि
 bookmarks-toolbar-placeholder-button =
     .label = अओजारपट्टी मद पुस्तकचिह्नित करैता अछि
-
-## Library Panel items
-
-
-## Pocket toolbar button
-
-
-## Repair text encoding toolbar button
-
 
 ## Customize Toolbar Buttons
 
@@ -440,10 +393,6 @@ popups-infobar-dont-show-message =
     .label = ई संदेश केँ नहि देखाउ जखन पापअप रोकल गेल अछि
     .accesskey = D
 
-## Since the default position for PiP controls does not change for RTL layout,
-## right-to-left languages should use "Left" and "Right" as in the English strings,
-
-
 ##
 
 
@@ -469,36 +418,12 @@ tabs-toolbar-list-all-tabs =
     .label = सभटा टैब सूचीबद्ध करू
     .tooltiptext = सभटा टैब सूचीबद्ध करू
 
-## Infobar shown at startup to suggest session-restore
-
-
-## Infobar shown when the user tries to open a file picker and file pickers are blocked by enterprise policy
-
-
 ## Mozilla data reporting notification (Telemetry, Firefox Health Report, etc)
 
 data-reporting-notification-message = { -brand-short-name } स्वतः किछु आँकड़ा केँ { -vendor-short-name } मे भेजैछ जाहिसँ हम अहाँ अनुभव केँ बढ़ा सकू.
 data-reporting-notification-button =
     .label = चुनू जकरा हम साझा कएलहुँ (C)
     .accesskey = C
-
-## Unified extensions (toolbar) button
-
-
-## Unified extensions button when permission(s) are needed.
-## Note that the new line is intentionally part of the tooltip.
-
-
-## Unified extensions button when some extensions are quarantined.
-## Note that the new line is intentionally part of the tooltip.
-
-
-## Unified extensions button when some extensions are disabled (e.g. through add-ons blocklist).
-## Note that the new line is intentionally part of the tooltip.
-
-
-## Private browsing reset button
-
 
 ## Autorefresh blocker
 
@@ -507,9 +432,6 @@ refresh-blocked-redirect-label = { -brand-short-name } ने एहि पृ�
 refresh-blocked-allow =
     .label = स्वीकारू
     .accesskey = A
-
-## Firefox Relay integration
-
 
 ## Add-on Pop-up Notifications
 
@@ -529,16 +451,3 @@ popup-warning-message =
 #   $popupURI (String): the URI for the pop-up window
 popup-show-popup-menuitem =
     .label = '{ $popupURI }' देखाउ
-
-## File-picker crash notification ("FilePickerCrashed.sys.mjs")
-
-
-# Button used with file-picker-crashed-save-default. Opens the folder in Windows
-# Explorer, with the saved file selected and in focus.
-#
-# The wording here should be consistent with the Windows variant of
-# `downloads-cmd-show-menuitem-2` and similar messages.
-
-
-## Onboarding Finish Setup checklist
-

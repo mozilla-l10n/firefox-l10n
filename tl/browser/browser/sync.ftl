@@ -24,6 +24,3 @@ fxa-menu-send-tab-to-device-syncnotready =
 fxa-menu-send-tab-to-device-description = Magpadala agad ng tab sa device na naka-sign in ka.
 fxa-menu-sign-out =
     .label = Sign Out…
-
-## Sync warning strings that support the browser profiles feature, these will be shown when the user might be merging data
-

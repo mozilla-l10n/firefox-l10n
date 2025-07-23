@@ -48,9 +48,6 @@ download-cert-view-cert =
     .label = Қарап шығу
 download-cert-view-text = CA сертификатын тексеру
 
-## Client Authorization Ask dialog
-
-
 ## Client Authentication Ask dialog
 
 client-auth-window =

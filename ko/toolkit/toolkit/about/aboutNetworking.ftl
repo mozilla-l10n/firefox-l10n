@@ -64,6 +64,3 @@ about-networking-moved-about-logging = 이 페이지는 <a data-l10n-name="about
 
 about-networking-networkid-is-up = 링크가 작동 중
 about-networking-networkid-status-known = 링크 상태가 알려져 있음
-
-##
-

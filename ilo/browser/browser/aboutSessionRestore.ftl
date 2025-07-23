@@ -13,6 +13,3 @@ restore-page-restore-header =
     .label = Ipulang
 restore-page-list-header =
     .label = Tawa ken Etiketa
-
-## The following strings are used in about:welcomeback
-

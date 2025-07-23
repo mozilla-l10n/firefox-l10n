@@ -48,9 +48,6 @@ download-cert-view-cert =
     .label = Ikusi
 download-cert-view-text = Aztertu AZren ziurtagiriak
 
-## Client Authorization Ask dialog
-
-
 ## Client Authentication Ask dialog
 
 client-auth-window =

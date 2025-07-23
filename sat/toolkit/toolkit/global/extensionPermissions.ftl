@@ -31,16 +31,3 @@ webext-perms-description-tabs = ᱵᱽᱨᱟᱣᱩᱡᱚᱨ ᱴᱮᱵᱽ ᱟᱹ�
 webext-perms-description-tabHide = ᱵᱽᱨᱟᱣᱩᱡᱚᱨ ᱴᱮᱵᱽ ᱠᱚ ᱩᱠᱩ ᱟᱨ ᱩᱫᱩᱜ ᱢᱮ
 webext-perms-description-topSites = ᱵᱽᱨᱟᱣᱩᱡᱤᱝ ᱦᱤᱛᱟᱹᱞ ᱟᱹᱛᱩᱨ ᱢᱮ
 webext-perms-description-webNavigation = ᱵᱽᱨᱟᱣᱩᱡᱟᱹᱨ ᱨᱮᱭᱟᱜ ᱠᱟᱹᱢᱤ ᱟᱹᱛᱩᱨ ᱢᱮ ᱯᱟᱱᱛᱮ ᱜᱷᱚᱰᱤ
-
-## The userScripts permission includes an additional explanation that is
-## displayed prominently near the usual permission description.
-
-
-## Short form to be used in lists or in a string (`webext-perms-description-data-some`)
-## that formats some of the data collection permissions below using `Intl.ListFormat`.
-##
-## This is used when the data collection permissions are required.
-
-
-## Long form to be used in `about:addons` when these data collection permissions are optional.
-

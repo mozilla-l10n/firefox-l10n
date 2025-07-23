@@ -32,6 +32,3 @@ search-history = Azray
 search-opentabs = Lddi icarren
 search-tags = Tibzimin
 search-titles = Izwal
-
-##
-

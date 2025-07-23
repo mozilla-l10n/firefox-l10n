@@ -12,10 +12,7 @@ about-telemetry-home-section = အဖွင့်
 about-telemetry-general-data-section = အထွေထွေ အချက်အလက်
 about-telemetry-environment-data-section = Environment Data
 about-telemetry-session-info-section = အသုံးပြုမှုကာလအချက်အလက်
-about-telemetry-scalar-section =
-      
-      Scalars
-      
+about-telemetry-scalar-section = { "  \u000A  " }Scalars{ "\u000A  " }
 about-telemetry-keyed-scalar-section = Keyed Scalars
 about-telemetry-histograms-section = Histograms
 about-telemetry-keyed-histogram-section = ကီးများဖြင့် ဇယားကွက်

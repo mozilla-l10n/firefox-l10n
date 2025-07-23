@@ -48,9 +48,6 @@ download-cert-view-cert =
     .label = 보기
 download-cert-view-text = 인증 기관 인증서 조사
 
-## Client Authorization Ask dialog
-
-
 ## Client Authentication Ask dialog
 
 client-auth-window =

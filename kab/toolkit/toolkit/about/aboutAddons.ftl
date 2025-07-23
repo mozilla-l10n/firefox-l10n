@@ -540,6 +540,3 @@ addon-permissions-required-data-collection = Yesra alqaḍ n yisefka:
 addon-permissions-optional-data-collection = Alqaḍ n yisefka axetṛan:
 # Name of the Permissions tab in `about:addons` when the data collection feature is enabled.
 permissions-data-addon-button = Tisirag akked yisefka
-
-## Mapping Engine IDs from AI models to how that feature represented by the engine Id is described in the used by section in local model management
-

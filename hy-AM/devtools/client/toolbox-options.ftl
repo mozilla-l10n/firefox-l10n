@@ -48,9 +48,6 @@ options-default-color-unit-rgb = RGB(A)
 options-default-color-unit-hwb = HWB
 options-default-color-unit-name = Գույնի անունը
 
-## Web Console section
-
-
 ## Style Editor section
 
 # The heading

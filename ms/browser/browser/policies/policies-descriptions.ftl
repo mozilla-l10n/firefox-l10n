@@ -53,9 +53,6 @@ policy-HardwareAcceleration = Jika false, nyahaktifkan pecutan perkakasan.
 policy-Homepage = Tetapkan dan pilihan mengunci Laman.
 policy-InstallAddonsPermission = Izinkan laman web tertentu untuk memasang add-ons.
 
-## Do not translate "SameSite", it's the name of a cookie attribute.
-
-
 ##
 
 policy-NoDefaultBookmarks = Nyahdayakan penciptaan tandabuku piawai yang disertakan dengan { -brand-short-name }, dan Tandabuku Pintar (Paling Dilawati, Tag Terkini). Nota: polisi ini hanya berkesan jika digunakan sebelum profil pertama dilaksanakan.

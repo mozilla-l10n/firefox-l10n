@@ -63,10 +63,6 @@ cert-error-details-key-pinning-label = HTTP Public Key Pinning: { $hasHPKP }
 cert-error-details-cert-chain-label = Nyoo me catibiket:
 open-in-new-window-for-csp-or-xfo-error = Yab Kakube i Dirica Manyen
 
-## Variables:
-##   $hostname (string) - Hostname of the website with cert error.
-
-
 ## Messages used for certificate error titles
 
 connectionFailure-title = Pe romo kubo
@@ -102,10 +98,3 @@ blockedByPolicy-title = Potbuk ma kigengo
 clockSkewError-title = Cawa me kompiuta ni pe tye kakare
 networkProtocolError-title = Bal me Cik me Netwak
 certerror-mitm-title = Purugram tye ka Gengo { -brand-short-name } Me Kube Maber ki Kakube Man
-
-## Felt Privacy V1 Strings
-
-
-## Variables:
-##   $hostname (String) - Hostname of the website to which the user was trying to connect.
-

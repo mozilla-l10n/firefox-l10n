@@ -44,9 +44,6 @@ tabbrowser-unmute-tab-audio-background-tooltip =
 tabbrowser-unblock-tab-audio-tooltip =
     .label = ຫຼິ້ນ { $tabCount } ແທັບ
 
-## Tooltips for tab audio control
-
-
 ## Confirmation dialog when closing a window with more than one tab open,
 ## or when quitting when only one window is open.
 
@@ -79,10 +76,6 @@ tabbrowser-confirm-close-tabs-with-key-button = ອອກຈາກ { -brand-shor
 #   $quitKey (String): the text of the keyboard shortcut for quitting.
 tabbrowser-confirm-close-tabs-with-key-checkbox = ຢືນຢັນກ່ອນທີ່ຈະເຊົາກັບ { $quitKey }
 
-## Confirmation dialog when quitting using the keyboard shortcut (Ctrl/Cmd+Q)
-## and browser.warnOnQuitShortcut is true.
-
-
 ## Confirmation dialog when opening multiple tabs simultaneously
 
 tabbrowser-confirm-open-multiple-tabs-title = ຢືນຢັນການເປີດ
@@ -100,9 +93,6 @@ tabbrowser-confirm-open-multiple-tabs-checkbox = ເຕືອນຂ້ອຍເ�
 tabbrowser-confirm-caretbrowsing-title = ການເລື່ອນເບິງໂດຍໃຊ້ແປ້ນພິມ
 tabbrowser-confirm-caretbrowsing-message = ກົດ F7 ເພື່ອເປີດ ຫລື ປິດການເລື່ອນເບິງແປ້ນພິມ. ໃນການເລື່ອນເບິງແບບນີ້ຈະມີເຄີເຊີທີ່ເຄື່ອນທີ່ໄດ້ຢູ່ເທິງຫນ້າເວັບທີ່ເຮັດໃຫ້ທ່ານສາມາດເລືອກຂໍ້ຄວາມດ້ວຍແປ້ນພິມໄດ້. ທ່ານຕ້ອງການເປີດນຳໃຊ້ການເລື່ອນເບິງໂດຍໃຊ້ແປ້ນພິມຫລືບໍ່?
 tabbrowser-confirm-caretbrowsing-checkbox = ບໍ່ຕ້ອງສະແດງບັອກຂໍ້ຄວາມນີ້ອີກ.
-
-## Confirmation dialog for closing all duplicate tabs
-
 
 ##
 
@@ -149,13 +139,3 @@ tabbrowser-manager-unmute-tab =
     .tooltiptext = ເປີດສຽງແທັບ
 tabbrowser-manager-close-tab =
     .tooltiptext = ປິດແທັບ
-
-## Tab Groups
-
-
-## Variables:
-##  $tabCount (Number): the number of tabs that are affected by the action.
-
-
-## Open/saved tab group context menu
-

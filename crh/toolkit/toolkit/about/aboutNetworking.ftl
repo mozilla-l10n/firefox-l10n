@@ -45,9 +45,3 @@ about-networking-rcwn-avg-long = Uzun Ortalama
 about-networking-rcwn-std-dev-long = Uzun Standart Sapma
 about-networking-rcwn-cache-slow = Zula yavaş adedi
 about-networking-rcwn-cache-not-slow = Zula yavaş degil adedi
-
-## Link is intended as "network link"
-
-
-##
-

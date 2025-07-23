@@ -56,6 +56,3 @@ about-networking-networkid-id = ID rețea
 
 about-networking-networkid-is-up = Link stabilit
 about-networking-networkid-status-known = Starea linkului este necunoscută
-
-##
-

@@ -131,9 +131,6 @@ delete-email-cert-impact = So a momtii seedamfaagu iimel neɗɗo, a waawataa ha�
 cert-with-serial =
     .value = Seedamfaagu kame tonngoode looso: { $serialNumber }
 
-## Used to show whether an override is temporary or permanent
-
-
 ## Add Security Exception dialog
 
 add-exception-branded-warning = Ngon-ɗaa ko e fawtitaade hol no { -brand-short-name } innitorta ndee lowre.

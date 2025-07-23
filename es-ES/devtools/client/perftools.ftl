@@ -159,6 +159,3 @@ perftools-presets-power-description = Preestablecido para investigar errores rel
 perftools-presets-debug-label = Depurar
 perftools-presets-debug-description = Preestablecido para depuración en { -brand-shorter-name } Alta sobrecarga, no lo uses para mejoras de rendimiento sino para enfocarte en comprender el comportamiento del navegador.
 perftools-presets-custom-label = Personalizado
-
-##
-

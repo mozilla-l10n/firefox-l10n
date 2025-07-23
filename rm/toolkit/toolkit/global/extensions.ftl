@@ -17,9 +17,6 @@ webext-perms-header-unsigned-with-perms = Agiuntar { $extension }? Questa extens
 webext-perms-sideload-header = Agiuntà { $extension }
 webext-perms-optional-perms-header = { $extension } dumonda ulteriuras autorisaziuns.
 
-## Headers used in the webextension permissions dialog, inside the content.
-
-
 ##
 
 webext-perms-add =
@@ -88,9 +85,6 @@ webext-perms-host-description-multiple-domains =
        *[other] Acceder a tias datas per las websites da { $domainCount } domenas
     }
 
-## Strings for data collection permissions in the permission prompt.
-
-
 ## Headers used in the webextension permissions dialog for synthetic add-ons.
 ## The part of the string describing what privileges the extension gives should be consistent
 ## with the value of webext-site-perms-description-gated-perms-{sitePermission}.
@@ -124,6 +118,3 @@ webext-site-perms-header-unsigned-with-perms = Agiuntar { $extension }? Questa e
 
 webext-site-perms-midi = Acceder als apparats MIDI
 webext-site-perms-midi-sysex = Acceder als apparats MIDI cun sustegn da SysEx
-
-## Colorway theme migration
-

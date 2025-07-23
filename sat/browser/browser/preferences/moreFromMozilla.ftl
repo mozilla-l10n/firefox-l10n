@@ -25,12 +25,3 @@ more-from-moz-learn-more-link = ᱰᱷᱮᱨ ᱥᱮᱬᱟᱭ ᱢᱮ
 more-from-moz-firefox-relay-title = { -relay-brand-name }
 more-from-moz-firefox-relay-description = ᱟᱢᱟᱜ inbox ᱟᱨ ᱟᱢᱟᱜ ᱪᱤᱱᱦᱟᱹᱯ ᱠᱚ ᱯᱷᱨᱤ ᱤᱢᱮᱞ ᱩᱠᱩ ᱡᱤᱱᱤᱥ ᱛᱮ ᱨᱩᱠᱷᱤᱭᱟᱹ ᱢᱮ ᱾
 more-from-moz-firefox-relay-button = { -relay-brand-short-name } ᱟᱹᱜᱩᱭ ᱢᱮ
-
-## These strings are for the Mozilla Monitor card in about:preferences moreFromMozilla page
-
-
-## These strings are for the Solo card in about:preferences moreFromMozilla page
-
-
-## These strings are for the MDN card in about:preferences moreFromMozilla page
-

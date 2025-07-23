@@ -63,34 +63,10 @@ split-dismiss-button-show-fewer-option =
 split-dismiss-button-manage-settings-option =
     .label = ᱥᱟᱡᱟᱣ ᱠᱚ ᱢᱮᱱᱮᱡᱽ ᱢᱮ
 
-## Login Status Advisory Callout (points to the account icon)
-
-
-## Bookmarks toolbar callout strings
-
-
-## Perplexity callout strings
-
-
-## Account Adoption Passwords callout strings
-
-
 ## Sidebar Strings
 
 sidebar-button-callout-title = ᱥᱟᱭᱤᱰᱵᱟᱨ ᱨᱮ ᱴᱮᱵᱽ ᱴᱟᱭᱤᱴᱟᱞ ᱩᱫᱩᱜ ᱢᱮ
 sidebar-button-callout-subtitle = ᱥᱟᱭᱤᱰᱵᱟᱨ ᱯᱟᱥᱱᱟᱣ ᱞᱟᱹᱜᱤᱫ ᱥᱟᱭᱤᱰᱵᱟᱨ ᱵᱩᱛᱟᱢ ᱵᱮᱵᱷᱟᱨ ᱢᱮ, ᱡᱮᱢᱚᱱ ᱟᱢ ᱴᱮᱵᱽ ᱴᱟᱭᱤᱴᱟᱞ ᱠᱚᱢ ᱧᱮᱞ ᱫᱟᱲᱮᱭᱟᱜᱼᱟ ᱾
-
-## Sidebar Vertical Tabs Strings
-
-
-## Sidebar Vertical Tabs Pinning Strings
-
-
-## Pinning Tabs Strings
-
-
-## Sidebar Onboarding Strings
-
 
 ## Sidebar Callout Survey Strings
 

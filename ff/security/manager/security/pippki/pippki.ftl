@@ -33,9 +33,6 @@ download-cert-view-cert =
     .label = Hollir
 download-cert-view-text = Ƴeewto seedamfaagu CA
 
-## Client Authorization Ask dialog
-
-
 ## Client Authentication Ask dialog
 
 client-auth-window =
@@ -78,6 +75,3 @@ set-password-backup-pw =
 set-password-repeat-backup-pw =
     .value = Finnde dannditol seedamfaagu (ɗimmit):
 set-password-reminder = Teeŋtuɗum: So a hettii finnde dannditol  seedamfaagua, a waawoytaa arrtirde ngol dannditol so a artii. Tiiɗno mooftu finnde ndee e nokku cuuriiɗo.
-
-## Protected authentication alert
-

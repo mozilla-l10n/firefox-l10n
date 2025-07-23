@@ -9,9 +9,6 @@ accessibility-learn-more = بیش‌تر بدانید
 accessibility-text-label-header = نام‌ها و برچسب‌های متنی
 accessibility-keyboard-header = صفحه‌کلید
 
-## These strings are used in the overlay displayed when running an audit in the accessibility panel
-
-
 ## Text entries that are used as text alternative for icons that depict accessibility issues.
 
 accessibility-warning =
@@ -38,8 +35,3 @@ accessibility-text-label-issue-frame = عناصر <code>قاب</code> باید �
 accessibility-text-label-issue-glyph = برای برچسب زدن عناصر <span>mglyph</span> از ویژگی <code>دگرساز</code> استفاده کنید. <a> بیشتر بیاموزید</a>
 accessibility-text-label-issue-heading = عناوین باید برچسب‌گذاری شوند. <a>بیشتر بدانید</a>
 accessibility-text-label-issue-heading-content = عناوین باید محتوای متنی مشخصی داشته باشند. <a>بیشتر بدانید</a>
-
-## Text entries for a paragraph used in the accessibility panel sidebar's checks section
-## that describe that currently selected accessible object has a keyboard accessibility
-## issue.
-

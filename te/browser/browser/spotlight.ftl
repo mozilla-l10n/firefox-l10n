@@ -6,9 +6,3 @@
 spotlight-dialog-close-button =
     .title = మూసివేయి
     .aria-label = మూసివేయి
-
-## Mobile download button strings
-
-
-## Firefox Focus promo message strings
-

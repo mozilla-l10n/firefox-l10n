@@ -31,6 +31,3 @@ search-history = Geskiedenis
 search-opentabs = Oop oortjies
 search-tags = Merkers
 search-titles = Titels
-
-##
-

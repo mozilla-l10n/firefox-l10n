@@ -48,9 +48,6 @@ download-cert-view-cert =
     .label = Прагляд
 download-cert-view-text = Праверыць сертыфікат ЦС
 
-## Client Authorization Ask dialog
-
-
 ## Client Authentication Ask dialog
 
 client-auth-window =

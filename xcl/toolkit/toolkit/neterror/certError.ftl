@@ -16,10 +16,6 @@ cert-error-symantec-distrust-admin = Մարթ է ծանուցանել վարչի
 cert-error-details-cert-chain-label = Շղթայ վկայագրի՝
 open-in-new-window-for-csp-or-xfo-error = Բանալ զկայս ի նորում պատուհանի
 
-## Variables:
-##   $hostname (string) - Hostname of the website with cert error.
-
-
 ## Messages used for certificate error titles
 
 connectionFailure-title = Չէ հնար կապակցել
@@ -57,10 +53,3 @@ networkProtocolError-title = Սխալ հաղորդակարգի ցանցահիւ�
 nssBadCert-title = Զգուշացումն․ հնարաւոր վտանգ յառաջոյ
 nssBadCert-sts-title = Ոչ կապակցեցաւ․ հնարաւոր խնդիր անվտանգութեան
 certerror-mitm-title = Ծրագրաշար կանխէ  զ-{ -brand-short-name } յանվտանգ կապակցմանէ ընդ այս կայս:
-
-## Felt Privacy V1 Strings
-
-
-## Variables:
-##   $hostname (String) - Hostname of the website to which the user was trying to connect.
-

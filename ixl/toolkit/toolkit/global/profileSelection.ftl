@@ -4,6 +4,3 @@
 
 profile-selection-button-accept =
     .label = Ixe'teb'al { -brand-short-name }
-
-## Messages used in the profile manager
-

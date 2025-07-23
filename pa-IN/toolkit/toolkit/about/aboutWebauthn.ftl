@@ -113,12 +113,6 @@ about-webauthn-auth-info-true = ਸੱਚ
 about-webauthn-auth-info-false = ਗਲਤ
 about-webauthn-auth-info-null = ਸਹਿਯੋਗੀ ਨਹੀਂ ਹੈ
 
-## Bio enrollment sample feedbacks
-
-
-## Scan (e.g. of fingerprint) was off-center (e.g. too high, too left, etc.).
-
-
 ##
 
 about-webauthn-ctap2-enroll-feedback-no-user-activity = ਵਰਤੋਂਕਾਰ ਵਲੋਂ ਕੋਈ ਸਰਗਰਮੀ ਨਹੀਂ ਹੈ।

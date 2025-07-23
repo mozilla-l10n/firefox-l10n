@@ -59,7 +59,3 @@ move-to-end =
 move-to-new-window =
     .label = नवीन पटलाकडे हलवा
     .accesskey = W
-
-## Variables:
-##  $tabCount (Number): the number of tabs that are affected by the action.
-

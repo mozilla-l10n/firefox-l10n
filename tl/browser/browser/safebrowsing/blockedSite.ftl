@@ -30,10 +30,6 @@ safeb-blocked-phishing-page-learn-more = Alamin ang tungkol sa mga deceptive sit
 ## Variables
 ##  $sitename (string) - Domain name for the blocked page
 
-
-## Variables
-##  $sitename (string) - Domain name for the blocked page
-
 safeb-blocked-malware-page-learn-more-sumo = Alamin ang tungkol sa Phishing at Malware Protection ng { -brand-short-name } sa <a data-l10n-name='firefox_support'>support.mozilla.org</a>.
 
 ## Variables

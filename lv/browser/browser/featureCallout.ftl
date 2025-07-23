@@ -63,34 +63,10 @@ split-dismiss-button-show-fewer-option =
 split-dismiss-button-manage-settings-option =
     .label = Pārvaldīt iestatījumus
 
-## Login Status Advisory Callout (points to the account icon)
-
-
-## Bookmarks toolbar callout strings
-
-
-## Perplexity callout strings
-
-
-## Account Adoption Passwords callout strings
-
-
 ## Sidebar Strings
 
 sidebar-button-callout-title = Sānjoslā rādīt ciļņu virsrakstus
 sidebar-button-callout-subtitle = Izmantojiet sānjoslas pogu, lai izvērstu sānjoslu, lai varētu redzēt ciļņu virsrakstus.
-
-## Sidebar Vertical Tabs Strings
-
-
-## Sidebar Vertical Tabs Pinning Strings
-
-
-## Pinning Tabs Strings
-
-
-## Sidebar Onboarding Strings
-
 
 ## Sidebar Callout Survey Strings
 

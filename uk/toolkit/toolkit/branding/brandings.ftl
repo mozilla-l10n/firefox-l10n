@@ -31,6 +31,7 @@
 -relay-brand-name = Firefox Relay
 -relay-brand-short-name = Relay
 -fakespot-brand-name = Fakespot
+-solo-ai-brand-name = Solo
 # Note the name of the website is capitalized.
 -fakespot-website-name = Fakespot.com
 # The particle "by" can be localized, "Fakespot" and "Mozilla" should not be localized or transliterated.
@@ -42,70 +43,70 @@
 # and kept in English.
 -firefox-home-brand-name =
     { $case ->
-       *[nom]
-            { $capitalization ->
-               *[upper] Домівка Firefox
-                [lower] домівка Firefox
-            }
         [gen]
             { $capitalization ->
-               *[upper] Домівки Firefox
                 [lower] домівки Firefox
+               *[upper] Домівки Firefox
             }
         [dat]
             { $capitalization ->
-               *[upper] Домівці Firefox
                 [lower] домівці Firefox
+               *[upper] Домівці Firefox
             }
         [acc]
             { $capitalization ->
-               *[upper] Домівку Firefox
                 [lower] домівку Firefox
+               *[upper] Домівку Firefox
             }
         [abl]
             { $capitalization ->
-               *[upper] Домівкою Firefox
                 [lower] домівкою Firefox
+               *[upper] Домівкою Firefox
             }
         [loc]
             { $capitalization ->
-               *[upper] Домівці Firefox
                 [lower] домівці Firefox
+               *[upper] Домівці Firefox
+            }
+       *[nom]
+            { $capitalization ->
+                [lower] домівка Firefox
+               *[upper] Домівка Firefox
             }
     }
 # View" can be localized, “Firefox” must be treated as a brand
 # and kept in English.
 -firefoxview-brand-name =
     { $case ->
-       *[nom]
-            { $capitalization ->
-               *[upper] Оглядач Firefox
-                [lower] оглядач Firefox
-            }
         [gen]
             { $capitalization ->
-               *[upper] Оглядача Firefox
                 [lower] оглядача Firefox
+               *[upper] Оглядача Firefox
             }
         [dat]
             { $capitalization ->
-               *[upper] Оглядачу Firefox
                 [lower] оглядачу Firefox
+               *[upper] Оглядачу Firefox
             }
         [acc]
             { $capitalization ->
-               *[upper] Оглядача Firefox
                 [lower] оглядача Firefox
+               *[upper] Оглядача Firefox
             }
         [abl]
             { $capitalization ->
-               *[upper] Оглядачем Firefox
                 [lower] оглядачем Firefox
+               *[upper] Оглядачем Firefox
             }
         [loc]
             { $capitalization ->
-               *[upper] Оглядачі Firefox
                 [lower] оглядачі Firefox
+               *[upper] Оглядачі Firefox
+            }
+       *[nom]
+            { $capitalization ->
+                [lower] оглядач Firefox
+               *[upper] Оглядач Firefox
             }
     }
 # Firefox Labs is the name for a page in Settings to allow users to learn about
@@ -113,5 +114,3 @@
 # The "Labs" portion can be localized, “Firefox” must be treated as a brand
 # and kept in English.
 -firefoxlabs-brand-name = Firefox Labs
--solo-ai-brand-name = Solo
-

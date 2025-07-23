@@ -23,9 +23,3 @@ about-networking-messages-sent = ସନ୍ଦେଶଗୁଡ଼ିକୁ ପଠ�
 about-networking-messages-received = ସନ୍ଦେଶଗୁଡ଼ିକୁ ପାଇଛି
 about-networking-bytes-sent = ପଠାଯାଇଥିବା ବାଇଟ
 about-networking-bytes-received = ପ୍ରାପ୍ତ ହୋଇଥିବା ବାଇଟ
-
-## Link is intended as "network link"
-
-
-##
-

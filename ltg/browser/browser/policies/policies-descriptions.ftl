@@ -43,9 +43,3 @@ policy-EnableTrackingProtection = Īslādz ci atslādz satura bloķiešonu.
 # takes 3 keys (“Install”, ”Uninstall”, ”Locked”), you can either keep them in
 # English or translate them as verbs.
 policy-Extensions = Instalej, nūjem ci aizslādz paplašinojumus. Instaliešonys īspiejai ir jōnurōda adreses ci sistemas ceļi. Nūjimšonys un aizsliegšonys īspiejai jōnurōda paplašinojuma ID.
-
-## Do not translate "SameSite", it's the name of a cookie attribute.
-
-
-##
-

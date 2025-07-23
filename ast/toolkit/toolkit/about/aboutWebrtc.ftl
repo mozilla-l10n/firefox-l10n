@@ -7,16 +7,10 @@
 ### for WebRTC calls. See https://developer.mozilla.org/en-US/docs/Web/API/WebRTC_API.
 
 
-## These labels are for a disclosure which contains the information for closed PeerConnection sections
-
-
 ## AEC is an abbreviation for Acoustic Echo Cancellation.
 
 about-webrtc-aec-logging-off-state-label = Aniciar el rexistru AEC
 about-webrtc-aec-logging-on-state-label = Parar el rexistru AEC
-
-##
-
 
 ## "SDP" is an abbreviation for Session Description Protocol, an IETF standard.
 ## See http://wikipedia.org/wiki/Session_Description_Protocol
@@ -24,13 +18,6 @@ about-webrtc-aec-logging-on-state-label = Parar el rexistru AEC
 about-webrtc-sdp-heading = SDP
 about-webrtc-local-sdp-heading = SDP llocal
 about-webrtc-remote-sdp-heading = SDP remotu
-
-##
-
-
-## "ICE" is an abbreviation for Interactive Connectivity Establishment, which
-## is an IETF protocol, and should not normally be translated.
-
 
 ## These adjectives are used to label a line of statistics collected for a peer
 ## connection. The data represents either the local or remote end of the
@@ -58,11 +45,6 @@ about-webrtc-log-clear = Llimpiar el rexistru
 about-webrtc-connection-open = [ { $browser-id } | { $id } ] { $url } { $now }
 about-webrtc-connection-closed = [ { $browser-id } | { $id } ] { $url } (zarróse) { $now }
 
-## These are used to indicate what direction media is flowing.
-## Variables:
-##  $codecs - a list of media codecs
-
-
 ##
 
 about-webrtc-local-candidate = Candidatu llocal
@@ -72,38 +54,3 @@ about-webrtc-decoder-label = Descodificador
 about-webrtc-encoder-label = Codificador
 about-webrtc-width-px = Anchor (px)
 about-webrtc-height-px = Altor (px)
-
-## SSRCs are identifiers that represent endpoints in an RTP stream
-
-
-## These are displayed on the button that shows or hides the
-## PeerConnection configuration disclosure
-
-
-##
-
-
-## These are displayed on the button that shows or hides the
-## user modified configuration disclosure
-
-
-##
-
-
-##
-
-
-## "SDP" is an abbreviation for Session Description Protocol, an IETF standard.
-## See http://wikipedia.org/wiki/Session_Description_Protocol
-
-
-## These are displayed on the button that shows or hides the SDP information disclosure
-
-
-## These are displayed on the button that shows or hides the Media Context information disclosure.
-## The Media Context is the set of preferences and detected capabilities that informs
-## the negotiated CODEC settings.
-
-
-##
-

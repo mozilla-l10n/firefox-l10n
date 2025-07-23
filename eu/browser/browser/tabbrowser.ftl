@@ -224,7 +224,9 @@ tabbrowser-manager-current-window-tab-group =
     .label = { $tabGroupName }
     .tooltiptext = { $tabGroupName } — Uneko leihoa
 
-## Tab Groups
+## Variables:
+##  $tabGroupName (String): The name of the tab group. Defaults to the value
+##                          of tab-group-name-default.
 
 tab-group-editor-title-create = Sortu fitxen multzoa
 tab-group-editor-title-edit = Kudeatu fitxen multzoa
@@ -254,16 +256,12 @@ tab-group-editor-color-selector2-gray = Grisa
     .title = Grisa
 tab-group-editor-color-selector2-red = Gorria
     .title = Gorria
-# Variables:
-#  $tabGroupName (String): The name of the tab group. Defaults to the value
-#                          of tab-group-name-default.
 tab-group-description = { $tabGroupName } — Fitxa multzoa
 tab-context-unnamed-group =
     .label = Multzo izengabea
 tab-group-name-default = Multzo izengabea
 
-## Variables:
-##  $tabCount (Number): the number of tabs that are affected by the action.
+##
 
 tab-context-move-tab-to-new-group =
     .label =

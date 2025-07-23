@@ -538,9 +538,6 @@ newtab-custom-wallpaper-title = Los fondos de pantalla personalizados están aqu
 newtab-custom-wallpaper-subtitle = Suba su propio fondo de pantalla o elija un color personalizado para personalizar su { -brand-product-name }.
 newtab-custom-wallpaper-cta = Inténtelo
 
-## Strings for new user activation custom wallpaper highlight
-
-
 ## Strings for download mobile highlight
 
 newtab-download-mobile-highlight-title = Descargar { -brand-product-name } para móvil
@@ -550,9 +547,6 @@ newtab-download-mobile-highlight-body-variant-b = Continúe donde lo dejó al si
 newtab-download-mobile-highlight-body-variant-c = ¿Sabía usted que puede llevar { -brand-product-name } con usted? El mismo navegador. En su bolsillo.
 newtab-download-mobile-highlight-image =
     .aria-label = Código QR para descargar { -brand-product-name } para móviles
-
-## Strings for shortcuts highlight
-
 
 ## Strings for reporting ads and content
 

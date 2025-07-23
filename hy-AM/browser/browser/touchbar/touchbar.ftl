@@ -32,6 +32,3 @@ search-history = Պատմություն
 search-opentabs = Բացել ներդիրներ
 search-tags = Պիտակներ
 search-titles = Անվանումներ
-
-##
-

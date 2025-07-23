@@ -128,9 +128,6 @@ delete-email-cert-impact = اگر آپ ای میل تصدیق نامہ حذف ک
 cert-with-serial =
     .value = تصدیق نامہ مع سیریل نمبر: { $serialNumber }
 
-## Used to show whether an override is temporary or permanent
-
-
 ## Add Security Exception dialog
 
 add-exception-branded-warning = اس سائٹ کی { -brand-short-name } جس طرح شناخت کرتا ہے آپ وہ زیر کرنے والے ہیں۔

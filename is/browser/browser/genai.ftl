@@ -106,9 +106,6 @@ genai-options-hide-shortcut =
 genai-options-about-chatbot =
     .label = Um gervigreindar-spjallkerfi í { -brand-short-name }
 
-## Chatbot footer
-
-
 ## Chatbot onboarding
 
 genai-onboarding-header = Gerðu samantektir, fáðu hugmyndir og fleira um leið og þú vafrar

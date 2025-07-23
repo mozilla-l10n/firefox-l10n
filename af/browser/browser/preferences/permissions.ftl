@@ -31,15 +31,6 @@ permissions-capabilities-listitem-allow-session =
 permissions-invalid-uri-title = Ongeldige gasheernaam ingetik
 permissions-invalid-uri-label = Tik 'n geldige gasheernaam in
 
-## Exceptions - Tracking Protection
-
-
-## Exceptions - Cookies
-
-
-## Exceptions - HTTPS-Only Mode
-
-
 ## Exceptions - Pop-ups
 
 permissions-exceptions-popup-desc = U kan spesifiseer watter webwerwe toegelaat word om opspringers te open. Tik die presiese webadres van die werf wat u wil toelaat en kliek dan Laat toe.
@@ -50,32 +41,6 @@ permissions-exceptions-saved-logins-window2 =
     .title = Uitsonderings - Gestoorde aanmeldings
     .style = { permissions-window2.style }
 
-## Exceptions - Saved Passwords
-
-
 ## Exceptions - Add-ons
 
 permissions-exceptions-addons-desc = U kan spesifiseer watter webwerwe toegelaat word om byvoegings te installeer. Tik die presiese webadres van die werf wat u wil toelaat en klik dan Laat toe.
-
-## Site Permissions - Autoplay
-
-
-## Site Permissions - Notifications
-
-
-## Site Permissions - Location
-
-
-## Site Permissions - Virtual Reality
-
-
-## Site Permissions - Camera
-
-
-## Site Permissions - Microphone
-
-
-## Site Permissions - Speaker
-##
-## "Speaker" refers to an audio output device.
-

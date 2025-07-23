@@ -64,6 +64,3 @@ about-networking-moved-about-logging = This page has been moved to <a data-l10n-
 
 about-networking-networkid-is-up = Link is up
 about-networking-networkid-status-known = Link status is known
-
-##
-

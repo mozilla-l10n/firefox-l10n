@@ -34,6 +34,3 @@ fxa-menu-send-tab-to-device-syncnotready =
 fxa-menu-send-tab-to-device-description = ᱥᱩᱦᱤ ᱮᱢ ᱠᱟᱱ ᱡᱟᱦᱟᱸ ᱥᱟᱫᱷᱚᱱ ᱨᱮ ᱢᱤᱫᱴᱟᱝ ᱴᱮᱵᱽ ᱴᱟᱴᱠᱟ ᱥᱟᱹᱦᱤᱡ ᱵᱷᱮᱡᱟᱭ ᱢᱮ ᱾
 fxa-menu-sign-out =
     .label = ᱵᱟᱦᱨᱮ ᱚᱰᱚᱠ…
-
-## Sync warning strings that support the browser profiles feature, these will be shown when the user might be merging data
-

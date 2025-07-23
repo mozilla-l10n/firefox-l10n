@@ -6,6 +6,3 @@ alert-close =
     .tooltiptext = Bu xəbərdarlığı bağla
 alert-settings-title =
     .tooltiptext = Tənzimləmələr
-
-## Reminder Notifications
-

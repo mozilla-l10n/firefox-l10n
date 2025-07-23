@@ -4,10 +4,6 @@
 
 pictureinpicture-player-title = Sa ni'io' Riña sa ni'io'
 
-## Variables:
-##   $shortcut (String) - Keyboard shortcut to execute the command.
-
-
 ## Note that this uses .tooltip rather than the standard '.title'
 ## or '.tooltiptext' -  but it has the same effect. Code in the
 ## picture-in-picture window will read and copy this to an in-document
@@ -46,12 +42,3 @@ pictureinpicture-fullscreen-btn2 =
 # Keyboard shortcut to toggle fullscreen mode when Picture-in-Picture is open.
 pictureinpicture-toggle-fullscreen-shortcut =
     .key = F
-
-## Note that this uses .tooltip rather than the standard '.title'
-## or '.tooltiptext' -  but it has the same effect. Code in the
-## picture-in-picture window will read and copy this to an in-document
-## DOM node that then shows the tooltip.
-
-
-##
-

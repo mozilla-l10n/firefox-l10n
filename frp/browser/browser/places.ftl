@@ -44,10 +44,3 @@ places-import-bookmarks-from-html =
 places-export-bookmarks-to-html =
     .label = Èxportar de mârca-pâges en HTML…
     .accesskey = X
-
-## Strings used as a placeholder in the Library search field. For example,
-## "Search History" stands for "Search through the browser's history".
-
-
-##
-

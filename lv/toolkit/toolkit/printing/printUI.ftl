@@ -20,11 +20,6 @@ printui-two-sided-printing = Abpusējā drukāšana
 # Section title for miscellaneous print options
 printui-options = Opcijas
 
-## The "Format" section, select a version of the website to print. Radio
-## options to select between the original page, selected text only, or a version
-## where the page is processed with "Reader View".
-
-
 ##
 
 printui-color-mode-label = Krāsu režīms
@@ -49,6 +44,3 @@ printui-paper-a1 = A1
 printui-paper-a0 = A0
 printui-paper-b5 = B5
 printui-paper-b4 = B4
-
-## Error messages shown when a user has an invalid input
-

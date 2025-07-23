@@ -542,9 +542,6 @@ newtab-custom-wallpaper-title = Hjir fine jo oanpaste eftergrûnen
 newtab-custom-wallpaper-subtitle = Laad jo eigen eftergrûn op of kies in oanpaste kleur om { -brand-product-name } fan josels te meitsjen.
 newtab-custom-wallpaper-cta = Probearje
 
-## Strings for new user activation custom wallpaper highlight
-
-
 ## Strings for download mobile highlight
 
 newtab-download-mobile-highlight-title = { -brand-product-name } foar mobyl downloade

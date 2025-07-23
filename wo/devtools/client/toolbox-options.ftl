@@ -16,23 +16,11 @@ options-select-dev-tools-theme-label = Tem yi
 # The heading
 options-context-inspector = Inspektëër
 
-## "Default Color Unit" options for the Inspector
-
-
-## Web Console section
-
-
 ## Style Editor section
 
 # The heading
 options-styleeditor-label = Defarkatu melin
 
-## Screenshot section
-
-
 ## Editor section
 
 options-sourceeditor-keybinding-default-label = Ñakk ndigal
-
-## Advanced section
-

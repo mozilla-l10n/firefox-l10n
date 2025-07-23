@@ -349,9 +349,6 @@ feature-highlight-wallpaper =
     .title = { -newtab-wallpaper-feature-highlight-header }
     .aria-label = { -newtab-wallpaper-feature-highlight-content }
 
-## Celestial
-
-
 ## New Tab Weather
 
 # Variables:
@@ -444,15 +441,6 @@ newtab-section-mangage-topics-blocked-topics = തടഞ്ഞവ
 newtab-section-mangage-topics-blocked-topics-empty-state = താങ്ങൾ ഇതുവരെ ഒരു വിഷയത്തിനെയും ത‍ടഞ്ഞിട്ടില്ല
 newtab-custom-wallpaper-cta = ഉപയോഗിച്ചു് നോക്കൂ!
 
-## Strings for new user activation custom wallpaper highlight
-
-
-## Strings for download mobile highlight
-
-
-## Strings for shortcuts highlight
-
-
 ## Strings for reporting ads and content
 
 newtab-report-ads-reason-not-interested =
@@ -469,6 +457,3 @@ newtab-report-content-spam-misleading =
     .label = പാഴുള്ളടക്കം അല്ലെങ്കിൽ തെറ്റിദ്ധരിപ്പിക്കുന്നതു്.
 newtab-report-cancel = റദ്ദാക്കുക
 newtab-report-submit = സമൎപ്പിക്കുക
-
-## Strings for trending searches
-

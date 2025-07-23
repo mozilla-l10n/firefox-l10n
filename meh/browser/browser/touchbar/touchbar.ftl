@@ -32,6 +32,3 @@ search-history = Historial
 search-opentabs = Pestañas nune
 search-tags = Etiquetas
 search-titles = Títulos
-
-##
-

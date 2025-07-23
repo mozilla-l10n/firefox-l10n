@@ -12,10 +12,3 @@ extension-firefox-compact-dark-name = Escuridá
 extension-firefox-compact-dark-description = Un estilu con un esquema de colores escuros.
 extension-firefox-alpenglow-name = Firefox Alpenglow
 extension-firefox-alpenglow-description = Usa un aspeutu coloríu pa los botones, el menú y les ventanes.
-
-## Colorway Themes
-## These themes are variants of a colorway. The colorway is specified in the
-## $colorway-name variable.
-## Variables
-##   $colorway-name (String) The name of a colorway (e.g. Graffiti, Elemental).
-

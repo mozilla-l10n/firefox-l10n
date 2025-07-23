@@ -542,9 +542,6 @@ newtab-custom-wallpaper-title = Os fundos personalizados estão aqui
 newtab-custom-wallpaper-subtitle = Envie o seu próprio fundo ou escolha uma cor personalizada para tornar o { -brand-product-name } seu.
 newtab-custom-wallpaper-cta = Experimentar
 
-## Strings for new user activation custom wallpaper highlight
-
-
 ## Strings for download mobile highlight
 
 newtab-download-mobile-highlight-title = Transferir o { -brand-product-name } para dispositivos móveis

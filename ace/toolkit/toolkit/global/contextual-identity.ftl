@@ -15,6 +15,3 @@ user-context-work =
 user-context-shopping =
     .label = Meubloe
     .accesskey = S
-
-##
-

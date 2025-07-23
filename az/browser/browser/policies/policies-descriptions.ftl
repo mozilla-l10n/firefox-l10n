@@ -55,9 +55,6 @@ policy-HardwareAcceleration = Əgər false-dursa, avadanlıq sürətləndirməsi
 policy-Homepage = Ana səhifəni qur və seçimə görə kilitlə.
 policy-InstallAddonsPermission = Bəzi saytlara əlavə qurmağa icazə ver.
 
-## Do not translate "SameSite", it's the name of a cookie attribute.
-
-
 ##
 
 policy-NoDefaultBookmarks = { -brand-short-name } ilə dəstələnmiş ilkin əlfəcinlərin və Ağıllı Əlfəcinləri (Ən Çox Ziyarət Edilən, Son Teqlər) yaradılmasını söndür. Qeyd: bu siyasət ancaq profilin ilk açılışından əvvəl işlədildikdə effektiv olur.

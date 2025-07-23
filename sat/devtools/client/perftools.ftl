@@ -68,9 +68,6 @@ perftools-button-add-directory = ᱢᱤᱫᱴᱟᱝ ᱰᱟᱭᱨᱮᱠᱴᱚᱨ 
 perftools-button-remove-directory = ᱵᱟᱪᱷᱟᱣ ᱚᱪᱚᱜᱽ ᱢᱮ
 perftools-button-edit-settings = ᱥᱟᱡᱟᱣ ᱠᱚ ᱥᱟᱯᱲᱟᱣ ᱢᱮ …
 
-## More actions menu
-
-
 ## These messages are descriptions of the threads that can be enabled for the profiler.
 
 perftools-thread-gecko-main =
@@ -149,6 +146,3 @@ perftools-presets-networking-description = { -brand-shorter-name } ᱨᱮ ᱱᱮ
 perftools-presets-power-label = ᱞᱟᱹᱭᱤᱱ
 perftools-presets-power-description = ᱠᱚᱢ ᱚᱵᱷᱚᱨᱞᱚᱰ ᱥᱟᱶᱛᱮ, { -brand-shorter-name } ᱨᱮ ᱯᱟᱣᱟᱨ ᱵᱮᱵᱷᱟᱨ ᱰᱤᱜᱟᱹᱣ ᱡᱟᱸᱪ ᱯᱚᱲᱛᱟᱞ ᱨᱟᱭᱟᱜ ᱦᱟᱡᱚᱨ ᱾
 perftools-presets-custom-label = ᱠᱩᱥᱤᱭᱟᱜ
-
-##
-

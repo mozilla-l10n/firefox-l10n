@@ -17,9 +17,6 @@ webext-perms-header-unsigned-with-perms = { $extension } ᱥᱮᱞᱮᱫ ᱟ ᱥ
 webext-perms-sideload-header = { $extension } ᱥᱮᱞᱮᱫ ᱮᱱᱟ
 webext-perms-optional-perms-header = { $extension } ᱫᱚ ᱟᱨᱦᱚᱸ ᱦᱚᱠ ᱛᱟᱭ ᱫᱚᱨᱠᱟᱨ ᱾
 
-## Headers used in the webextension permissions dialog, inside the content.
-
-
 ##
 
 webext-perms-add =
@@ -73,9 +70,6 @@ webext-perms-host-description-too-many-sites =
        *[other] ᱟᱢᱟᱜ ᱰᱟᱴᱟ { $domainCount } ᱮᱴᱟᱜ ᱥᱟᱦᱴᱟ ᱨᱮ ᱧᱟᱢ ᱢᱮ
     }
 
-## Strings for data collection permissions in the permission prompt.
-
-
 ## Headers used in the webextension permissions dialog for synthetic add-ons.
 ## The part of the string describing what privileges the extension gives should be consistent
 ## with the value of webext-site-perms-description-gated-perms-{sitePermission}.
@@ -109,6 +103,3 @@ webext-site-perms-header-unsigned-with-perms = { $extension } ᱥᱮᱞᱮᱫ �
 
 webext-site-perms-midi = MIDI ᱥᱟᱫᱷᱚᱱ ᱠᱚ ᱟᱫᱮᱨ ᱢᱮ
 webext-site-perms-midi-sysex = SysEx ᱥᱚᱦᱚᱫ ᱥᱟᱞᱟᱜ ᱛᱮ MIDI ᱥᱟᱫᱷᱚᱱ ᱟᱫᱮᱨ ᱢᱮ
-
-## Colorway theme migration
-

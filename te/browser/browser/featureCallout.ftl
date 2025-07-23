@@ -41,33 +41,6 @@ split-dismiss-button-show-fewer-option =
 split-dismiss-button-manage-settings-option =
     .label = అమరికల నిర్వహణ
 
-## Login Status Advisory Callout (points to the account icon)
-
-
-## Bookmarks toolbar callout strings
-
-
-## Perplexity callout strings
-
-
-## Account Adoption Passwords callout strings
-
-
-## Sidebar Strings
-
-
-## Sidebar Vertical Tabs Strings
-
-
-## Sidebar Vertical Tabs Pinning Strings
-
-
-## Pinning Tabs Strings
-
-
-## Sidebar Onboarding Strings
-
-
 ## Sidebar Callout Survey Strings
 
 sidebar-callout-survey-privacy-notice-link = గోప్యతా విధానం

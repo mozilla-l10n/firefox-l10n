@@ -156,6 +156,3 @@ perftools-presets-power-description = Predvoľba pre diagnostiku chýb zvyšujú
 perftools-presets-debug-label = Ladenie
 perftools-presets-debug-description = Nastavenia pre ladenie vo { -brand-shorter-name(case: "loc") }. Vysoká réžia, nepoužívajte na výkonnú prácu, ale na pochopenie správania sa prehliadača.
 perftools-presets-custom-label = Vlastné
-
-##
-

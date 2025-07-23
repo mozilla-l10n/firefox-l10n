@@ -33,9 +33,6 @@ download-cert-view-cert =
     .label = Okulaba
 download-cert-view-text = Kenenya Satifiketi ya CA
 
-## Client Authorization Ask dialog
-
-
 ## Client Authentication Ask dialog
 
 client-auth-window =
@@ -53,6 +50,3 @@ set-password-backup-pw =
 set-password-repeat-backup-pw =
     .value = Certificate backup password (again):
 set-password-reminder = Important: If you forget your certificate backup password, you will not be able to restore this backup later.  Please record it in a safe location.
-
-## Protected authentication alert
-

@@ -104,9 +104,6 @@ perplexity-callout-primary-label = ถาม Perplexity
 perplexity-callout-secondary-label-1 = ปิด
 perplexity-callout-secondary-label-2 = เข้าใจแล้ว
 
-## Account Adoption Passwords callout strings
-
-
 ## Sidebar Strings
 
 sidebar-button-callout-title = แสดงชื่อแท็บในแถบข้าง
@@ -127,9 +124,6 @@ vertical-tabs-callout-2-subtitle = เค้าโครงนี้ทำให
 sidebar-pins-callout-title = พลาดข้อมูลข่าวสารจากแท็บสำคัญของคุณไปใช่ไหม?
 sidebar-pins-callout-subtitle = ลองปักหมุดแท็บเหล่านั้น ซึ่งจะเก็บแท็บเหล่านั้นไว้ด้านบนสุดของรายการแท็บของคุณ คลิกขวาที่แท็บซึ่งคุณต้องการปักหมุด แล้วเลือก "ปักหมุดแท็บ"
 sidebar-pins-callout-cta-button = ปักหมุดแท็บ
-
-## Pinning Tabs Strings
-
 
 ## Sidebar Onboarding Strings
 

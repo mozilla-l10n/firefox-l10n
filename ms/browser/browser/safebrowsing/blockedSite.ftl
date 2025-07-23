@@ -30,14 +30,6 @@ safeb-blocked-phishing-page-learn-more = Ketahui lebih lanjut perihal laman meng
 ## Variables
 ##  $sitename (string) - Domain name for the blocked page
 
-
-## Variables
-##  $sitename (string) - Domain name for the blocked page
-
-
-## Variables
-##  $sitename (string) - Domain name for the blocked page
-
 safeb-blocked-unwanted-page-error-desc-override = <span data-l10n-name='sitename'>{ $sitename }</span> telah dilaporkan <a data-l10n-name='error_desc_link'>mengandungi perisian berbahaya</a>. Anda boleh <a data-l10n-name='ignore_warning_link'>abaikan risiko ini</a> dan terus melayari laman yang tidak selamat ini.
 safeb-blocked-unwanted-page-error-desc-no-override = <span data-l10n-name='sitename'>{ $sitename }</span> telah dilaporkan <a data-l10n-name='error_desc_link'>mengandungi perisian berbahaya</a>.
 

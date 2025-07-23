@@ -7,12 +7,12 @@ unknowncontenttype-handleinternally =
     .accesskey = е
 unknowncontenttype-settingschange =
     .value =
-        Параметре можете да промените у подешавањима { -brand-short-name.gender ->
-            [masculine] { -brand-short-name(case: "gen") }
-            [feminine] { -brand-short-name(case: "gen") }
-            [neuter] { -brand-short-name(case: "gen") }
-           *[other] програма { -brand-short-name }
-        }.
+        { -brand-short-name.gender ->
+            [masculine] Параметре можете да промените у подешавањима { -brand-short-name(case: "gen") }.
+            [feminine] Параметре можете да промените у подешавањима { -brand-short-name(case: "gen") }.
+            [neuter] Параметре можете да промените у подешавањима { -brand-short-name(case: "gen") }.
+           *[other] Параметре можете да промените у подешавањима програма { -brand-short-name }.
+        }
 unknowncontenttype-intro = Све је спремно за преузимање датотеке:
 unknowncontenttype-which-is = Тип:
 unknowncontenttype-from = Адреса:

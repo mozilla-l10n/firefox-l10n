@@ -317,6 +317,3 @@ about-webrtc-hide-msg-sdp = Skjul SDP
 about-webrtc-media-context-show-msg = Vis media-kontekst
 about-webrtc-media-context-hide-msg = Gøym medie-kontekst
 about-webrtc-media-context-heading = Medie-kontekst
-
-##
-

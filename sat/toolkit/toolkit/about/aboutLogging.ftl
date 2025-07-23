@@ -56,7 +56,3 @@ about-logging-unknown-option = ᱵᱟᱝᱵᱟᱲᱟᱭ about:logging ᱢᱚᱱ�
 about-logging-configuration-url-ignored = ᱵᱮᱵᱚᱥᱛᱟ URL  ᱵᱮᱠᱷᱟᱛᱤᱨ ᱠᱟᱱᱟ
 about-logging-file-and-profiler-override = ᱢᱤᱫ ᱚᱠᱛᱚ ᱨᱮ ᱨᱮᱫᱽ ᱛᱮᱞᱟ ᱟᱨ ᱚᱣᱚᱨᱨᱟᱭᱤᱰ ᱢᱚᱦᱚᱨ ᱢᱚᱱᱮᱛᱮᱭᱟᱜ ᱫᱚ ᱡᱩᱨ ᱮᱢ ᱵᱟᱭ ᱜᱟᱱᱚᱜᱼᱟ
 about-logging-configured-via-url = URL ᱛᱮ ᱢᱚᱱᱮᱛᱮᱭᱟᱜ ᱵᱮᱵᱚᱥᱛᱟ ᱠᱟᱱᱟ
-
-## The upload interface is shown only with the preference toolkit.aboutLogging.uploadProfileToCloud
-## set to true. It is false by default, except on Android.
-

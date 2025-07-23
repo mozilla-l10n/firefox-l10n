@@ -64,6 +64,3 @@ about-networking-moved-about-logging = Aquesta pagina fogut desplaçada dins <a 
 
 about-networking-networkid-is-up = Ligason establida
 about-networking-networkid-status-known = L’estat de la ligason es conegut
-
-##
-

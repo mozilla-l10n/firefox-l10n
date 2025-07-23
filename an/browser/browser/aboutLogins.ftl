@@ -80,11 +80,6 @@ login-item-save-changes-button = Alzar los cambios
 login-item-save-new-button = Alzar
 login-item-cancel-button = Cancelar
 
-## The date is displayed in a timeline showing the password evolution.
-## A label is displayed under the date to describe the type of change.
-## (e.g. updated, created, etc.)
-
-
 ## OS Authentication dialog
 
 about-logins-os-auth-dialog-caption = { -brand-full-name }
@@ -129,10 +124,6 @@ confirmation-dialog-dismiss-button =
 about-logins-confirm-remove-dialog-title = Eliminar este nombre d'usuario?
 confirm-delete-dialog-message = Esta acción no se puet desfer.
 about-logins-confirm-remove-dialog-confirm-button = Eliminar
-
-## Variables
-##   $count (number) - Number of items
-
 
 ##
 
@@ -199,21 +190,3 @@ about-logins-import-file-picker-csv-filter-title =
         [macos] Documento CSV
        *[other] Archivo CSV
     }
-
-##
-## Variables:
-##  $count (number) - The number of affected elements
-
-
-##
-## Variables:
-##  $field (String) - The name of the field from the CSV file for example url, username or password
-
-
-##
-## Variables:
-##  $count (number) - The number of affected elements
-
-
-## Logins import report page
-

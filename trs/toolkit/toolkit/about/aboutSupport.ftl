@@ -129,14 +129,6 @@ media-capabilities-title = Dàj nìko ga’ue gimàn multimêdia
 # List all the entries of the database.
 media-capabilities-enumerate = Ganachrūn nûmero riña basê mà dâto
 
-## Codec support table
-
-
-## Media Content Decryption Modules (CDM)
-## See EME Spec for more explanation for following technical terms
-## https://w3c.github.io/encrypted-media/
-
-
 ##
 
 intl-title = Nagi'iô guendâ yumiguìi & Narì' man
@@ -305,18 +297,3 @@ touch-warning = nitaj si 'iaj sun ma da' duguché ro'o: { $preferenceKey }
 policies-inactive = Hua nâ'a
 policies-active = Ngà' 'iaj sunj
 policies-error = Nitaj si hua hue'ej
-
-## Printing section
-
-
-## Remote Settings sections
-
-
-## Normandy sections
-
-
-## Pointing devices
-
-
-## Content Analysis (DLP)
-

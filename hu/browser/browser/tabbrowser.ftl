@@ -224,7 +224,9 @@ tabbrowser-manager-current-window-tab-group =
     .label = { $tabGroupName }
     .tooltiptext = { $tabGroupName } – Jelenlegi ablak
 
-## Tab Groups
+## Variables:
+##  $tabGroupName (String): The name of the tab group. Defaults to the value
+##                          of tab-group-name-default.
 
 tab-group-editor-title-create = Lapcsoport létrehozása
 tab-group-editor-title-edit = Lapcsoport kezelése
@@ -254,16 +256,12 @@ tab-group-editor-color-selector2-gray = Szürke
     .title = Szürke
 tab-group-editor-color-selector2-red = Vörös
     .title = Vörös
-# Variables:
-#  $tabGroupName (String): The name of the tab group. Defaults to the value
-#                          of tab-group-name-default.
 tab-group-description = { $tabGroupName } – lapcsoport
 tab-context-unnamed-group =
     .label = Névtelen csoport
 tab-group-name-default = Névtelen csoport
 
-## Variables:
-##  $tabCount (Number): the number of tabs that are affected by the action.
+##
 
 tab-context-move-tab-to-new-group =
     .label =

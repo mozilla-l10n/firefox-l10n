@@ -19,15 +19,3 @@ delete-profile-page-title = Dilemel ar profil { $profilename }
 # Variables
 #   $profilename (String) - The name of the profile.
 delete-profile-header = Dilemel ar profil { $profilename }?
-
-##
-
-
-## These strings are color themes available to select from the profile selection screen. Theme names should be localized.
-
-
-## Alternative text for default profile icons
-
-
-## Labels for default avatar icons
-

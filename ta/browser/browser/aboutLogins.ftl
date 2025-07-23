@@ -92,11 +92,6 @@ login-item-save-changes-button = மாற்றங்களைச் சேம�
 login-item-save-new-button = சேமி
 login-item-cancel-button = இரத்து
 
-## The date is displayed in a timeline showing the password evolution.
-## A label is displayed under the date to describe the type of change.
-## (e.g. updated, created, etc.)
-
-
 ## OS Authentication dialog
 
 about-logins-os-auth-dialog-caption = { -brand-full-name }
@@ -194,24 +189,3 @@ about-logins-export-file-picker-csv-filter-title =
         [macos] CSV ஆவணம்
        *[other] CSV கோப்பு
     }
-
-## Login Import Dialog
-
-
-##
-## Variables:
-##  $count (number) - The number of affected elements
-
-
-##
-## Variables:
-##  $field (String) - The name of the field from the CSV file for example url, username or password
-
-
-##
-## Variables:
-##  $count (number) - The number of affected elements
-
-
-## Logins import report page
-

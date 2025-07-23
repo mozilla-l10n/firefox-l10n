@@ -4,10 +4,6 @@
 
 addons-page-title = Saytukatu modili mottali yi
 
-## Variables
-##   $domain - Domain name where add-ons are available (e.g. addons.mozilla.org)
-
-
 ##
 
 list-empty-installed =
@@ -141,29 +137,6 @@ addon-install-from-file = Samp modil dale ko ci…
 addon-install-from-file-dialog-title = Tann modil booy samp
 addon-install-from-file-filter-name = Modili mottali
 
-## Extension shortcut management
-
-
-## Recommended add-ons page
-
-
-## Add-on actions
-
-
-## Pending uninstall message bar
-
-
-## "sites with restrictions" (internally called "quarantined") are special domains
-## where add-ons are normally blocked for security reasons.
-
-
-## This is the tooltip text for the recommended badges for an extension in about:addons. The
-## badge is a small icon displayed next to an extension when it is recommended on AMO.
-
-
-##
-
-
 ## Page headings
 
 addon-page-options-button =
@@ -196,10 +169,3 @@ plugins-gmp-privacy-info = Xibaari sutura
 plugins-openh264-name = Codec bu wideo OpenH264 Cisco Systems, Inc. moo ko joxe.
 plugins-openh264-description = Gii lawal Mozilla moo ko sampal boppam ngir sàmmanteek àtte yu WebRTC ak ngir man a doxal woote yu WebRTC ci jumtukaay yi yittewoo Codec Wideo bu H.264. Xoolal http://www.openh264.org/ ngir ami xibaar ci nees defaree Codec bi.
 plugins-widevine-name = Google Inc. moo joxe tekkikaayu ëmbéefu Widevine.
-
-## Headings for the Permissions tab in `about:addons` when the data collection
-## feature is enabled.
-
-
-## Mapping Engine IDs from AI models to how that feature represented by the engine Id is described in the used by section in local model management
-

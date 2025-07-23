@@ -58,11 +58,11 @@ protections-panel-not-blocking-why-etp-off-tooltip-label =
 
 protections-panel-no-trackers-found =
     { -brand-short-name.gender ->
-        [masculine] { -brand-short-name } na této stránce nenalezl
-        [feminine] { -brand-short-name } na této stránce nenalezla
-        [neuter] { -brand-short-name } na této stránce nenalezlo
-       *[other] Aplikace { -brand-short-name } na této stránce nenalezla
-    } žádné známé sledovací prvky.
+        [masculine] { -brand-short-name } na této stránce nenalezl žádné známé sledovací prvky.
+        [feminine] { -brand-short-name } na této stránce nenalezla žádné známé sledovací prvky.
+        [neuter] { -brand-short-name } na této stránce nenalezlo žádné známé sledovací prvky.
+       *[other] Aplikace { -brand-short-name } na této stránce nenalezla žádné známé sledovací prvky.
+    }
 protections-panel-content-blocking-tracking-protection = Sledující obsah
 protections-panel-content-blocking-socialblock = Sledující prvky sociálních sítí
 protections-panel-content-blocking-cryptominers-label = Těžba kryptoměn

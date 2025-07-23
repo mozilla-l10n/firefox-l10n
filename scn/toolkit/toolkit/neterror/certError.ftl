@@ -59,17 +59,6 @@ cert-error-details-cert-chain-label = Catina dî cirtificati:
 # This string appears after the following string: "What can you do about it?" (fp-certerror-what-can-you-do)
 fp-certerror-bad-domain-what-can-you-do-body = Capaci nenti, picchì è pussìbbili chi cc’è un prubblema cû situ stissu. I siti ùsanu cirtificati criati d’auturità di cirtificazzioni pi virificari chi sunnu cu’ dìcinu di èssiri. Ma si sì cullijatu a na riti di n’azzienna, a to squatra di supportu ti po’ dari cchiù assai nfurmazzioni. Si stai usannu un prugramma antivirus, prova a riscèdiri si cci sunnu cunflitti o prubblemi già canusciuti.
 
-## Variables:
-##   $hostname (string) - Hostname of the website with cert error.
-
-
 ## Messages used for certificate error titles
 
 generic-title = Ah!
-
-## Felt Privacy V1 Strings
-
-
-## Variables:
-##   $hostname (String) - Hostname of the website to which the user was trying to connect.
-

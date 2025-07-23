@@ -544,9 +544,6 @@ newtab-custom-wallpaper-title = How su swójske slězynowe wobraze
 newtab-custom-wallpaper-subtitle = Nagrajśo swójski slězynowy wobraz abo wubjeŕśo swójsku barwu, aby se { -brand-product-name } pśiswójł.
 newtab-custom-wallpaper-cta = Wopytajśo jen
 
-## Strings for new user activation custom wallpaper highlight
-
-
 ## Strings for download mobile highlight
 
 newtab-download-mobile-highlight-title = { -brand-product-name } za mobilny rěd ześěgnuś

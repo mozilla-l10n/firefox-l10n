@@ -58,10 +58,6 @@ cert-error-details-key-pinning-label = HTTP राइजोनि साबि �
 cert-error-details-cert-chain-label = चार्टिफिकेटनि जिनजिरि:
 open-in-new-window-for-csp-or-xfo-error = गोदान उइन्ड'आव साइटखौ खेव
 
-## Variables:
-##   $hostname (string) - Hostname of the website with cert error.
-
-
 ## Messages used for certificate error titles
 
 connectionFailure-title = फोनांजाब खालामनो हायाखै
@@ -86,10 +82,3 @@ corruptedContentError-title = रैखाथि फोनांजाबा फ
 sslv3Used-title = रैखाथियै फोनांजाब खालामनो हायाखै
 blockedByPolicy-title = ब्लक जानाय बिलाइ
 networkProtocolError-title = नेटॱवर्क प्रोटोकल गोनांथि
-
-## Felt Privacy V1 Strings
-
-
-## Variables:
-##   $hostname (String) - Hostname of the website to which the user was trying to connect.
-

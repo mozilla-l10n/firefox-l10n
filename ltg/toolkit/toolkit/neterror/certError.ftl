@@ -64,10 +64,6 @@ cert-error-details-hsts-label = HTTP Strict Transport Security: { $hasHSTS }
 cert-error-details-key-pinning-label = HTTP Public Key Pinning: { $hasHPKP }
 cert-error-details-cert-chain-label = Certificate chain:
 
-## Variables:
-##   $hostname (string) - Hostname of the website with cert error.
-
-
 ## Messages used for certificate error titles
 
 connectionFailure-title = Navar pīsasliegt
@@ -101,10 +97,3 @@ inadequateSecurityError-title = Savīnuojums nav drūss
 blockedByPolicy-title = Bloķeita lopa
 clockSkewError-title = Tova datora stundinīks ir napareizs
 nssBadCert-title = Breidynojums: Potencials drūšeibys risks
-
-## Felt Privacy V1 Strings
-
-
-## Variables:
-##   $hostname (String) - Hostname of the website to which the user was trying to connect.
-

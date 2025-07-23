@@ -102,9 +102,6 @@ permissions-exceptions-saved-logins-window2 =
     .style = { permissions-window2.style }
 permissions-exceptions-saved-logins-desc = No s'alzarán los datos d'inicio en os siguients puestos web
 
-## Exceptions - Saved Passwords
-
-
 ## Exceptions - Add-ons
 
 permissions-exceptions-addons-window2 =
@@ -168,8 +165,3 @@ permissions-site-microphone-desc = Los siguients puestos web han demandau acceso
 permissions-site-microphone-disable-label =
     .label = Blocar nuevas demandas d'acceso a lo microfono
 permissions-site-microphone-disable-desc = Esto privará que garra puesto web no listau alto pueda demandar permiso d'acceso a lo tuyo microfono. Blocar l'acceso a lo microfono puede trencar bella caracteristica de bell puesto web.
-
-## Site Permissions - Speaker
-##
-## "Speaker" refers to an audio output device.
-

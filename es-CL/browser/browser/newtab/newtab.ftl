@@ -538,9 +538,6 @@ newtab-custom-wallpaper-title = Los fondos de pantalla personalizados están aqu
 newtab-custom-wallpaper-subtitle = Sube tu propio fondo de pantalla o elige un color personalizado para hacer tuyo { -brand-product-name }.
 newtab-custom-wallpaper-cta = Inténtalo
 
-## Strings for new user activation custom wallpaper highlight
-
-
 ## Strings for download mobile highlight
 
 newtab-download-mobile-highlight-title = Bajar { -brand-product-name } para dispositivos móviles

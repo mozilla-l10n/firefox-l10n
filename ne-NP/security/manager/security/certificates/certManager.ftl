@@ -128,9 +128,6 @@ delete-email-cert-confirm = के तपाईँ यी व्यक्ति�
 cert-with-serial =
     .value = { $serialNumber } क्रम सङ्ख्या भएको प्रमाणपत्र
 
-## Used to show whether an override is temporary or permanent
-
-
 ## Add Security Exception dialog
 
 add-exception-domain-mismatch-short = गलत साइट

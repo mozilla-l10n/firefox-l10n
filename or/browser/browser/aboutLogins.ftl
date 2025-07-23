@@ -93,11 +93,6 @@ login-item-save-changes-button = ପରିବର୍ତ୍ତନ ସଂରକ୍�
 login-item-save-new-button = ସଂରକ୍ଷଣ କରନ୍ତୁ
 login-item-cancel-button = ବାତିଲ କରନ୍ତୁ
 
-## The date is displayed in a timeline showing the password evolution.
-## A label is displayed under the date to describe the type of change.
-## (e.g. updated, created, etc.)
-
-
 ## OS Authentication dialog
 
 about-logins-os-auth-dialog-caption = { -brand-full-name }
@@ -137,10 +132,6 @@ about-logins-confirm-remove-dialog-title = ଲଗଇନକୁ ବିଲୋପ �
 confirm-delete-dialog-message = ଏହି କାର୍ଯ୍ୟର ପଦକ୍ଷେପ ବାତିଲ କରିପାରିବେ ନାହିଁ।
 about-logins-confirm-remove-dialog-confirm-button = କାଢ଼ନ୍ତୁ
 
-## Variables
-##   $count (number) - Number of items
-
-
 ##
 
 about-logins-confirm-export-dialog-confirm-button = …ରପ୍ତାନୀ କରିବା
@@ -170,12 +161,6 @@ about-logins-vulnerable-alert-learn-more-link = ଅଧିକ ଶିଖନ୍ତ�
 # This is a generic error message.
 about-logins-error-message-default = ପାସୱାର୍ଡ଼ ସଂରକ୍ଷଣ ସମୟରେ ତ୍ରୁଟିଟିଏ ଘଟିଲା
 
-## Login Export Dialog
-
-
-## Login Import Dialog
-
-
 ##
 ## Variables:
 ##  $count (number) - The number of affected elements
@@ -188,16 +173,6 @@ about-logins-import-dialog-error-unable-to-read-title = ଫାଇଲ ପାର�
 about-logins-import-dialog-error-learn-more = ଅଧିକ ଜାଣନ୍ତୁ
 about-logins-import-dialog-error-cancel = ବାତିଲ କରନ୍ତୁ
 about-logins-import-report-title = ସାରାଂଶ ଆମଦାନୀ କରନ୍ତୁ
-
-##
-## Variables:
-##  $field (String) - The name of the field from the CSV file for example url, username or password
-
-
-##
-## Variables:
-##  $count (number) - The number of affected elements
-
 
 ## Logins import report page
 

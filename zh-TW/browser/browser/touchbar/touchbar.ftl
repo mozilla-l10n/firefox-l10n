@@ -32,6 +32,3 @@ search-history = 瀏覽紀錄
 search-opentabs = 開啟的分頁
 search-tags = 標籤
 search-titles = 標題
-
-##
-

@@ -54,11 +54,6 @@ neterror-dns-not-found-trr-offline = No esteu connectat a Internet.
 neterror-dns-not-found-bad-trr-url = L’URL no és vàlid.
 neterror-dns-not-found-trr-unknown-problem = Problema inesperat.
 
-## Native fallback specific messages
-## Variables:
-##   $trrDomain (String) - Hostname of the DNS over HTTPS server that is currently in use.
-
-
 ##
 
 neterror-file-not-found-filename = Comproveu les majúscules i minúscules del nom del fitxer i qualsevol altre error que s'hagi produït en teclejar.

@@ -8,13 +8,3 @@ about-logging-set-log-file = Set Log File
 about-logging-set-log-modules = Nuto' riña Nachra So':
 about-logging-start-logging = Gayi'i' Nachro'
 about-logging-stop-logging = Dunikin' sa Nachro'
-
-## Logging presets
-
-
-##
-
-
-## The upload interface is shown only with the preference toolkit.aboutLogging.uploadProfileToCloud
-## set to true. It is false by default, except on Android.
-

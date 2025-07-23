@@ -312,6 +312,3 @@ about-webrtc-hide-msg-sdp = 隐藏SDP
 about-webrtc-media-context-show-msg = 显示媒体内容
 about-webrtc-media-context-hide-msg = 隐藏媒体内容
 about-webrtc-media-context-heading = 媒体内容
-
-##
-

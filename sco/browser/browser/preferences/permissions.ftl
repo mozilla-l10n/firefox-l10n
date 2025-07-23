@@ -102,9 +102,6 @@ permissions-exceptions-saved-logins-window2 =
     .style = { permissions-window2.style }
 permissions-exceptions-saved-logins-desc = Logins fur the follaein wabsites willnae be saved
 
-## Exceptions - Saved Passwords
-
-
 ## Exceptions - Add-ons
 
 permissions-exceptions-addons-window2 =
@@ -168,8 +165,3 @@ permissions-site-microphone-desc = The follaein wabsites hae speirt fur tae hae 
 permissions-site-microphone-disable-label =
     .label = Block new speirins fur tae hae ingang tae yer microphone
 permissions-site-microphone-disable-desc = This will stap onie wabsites no listit abuin fae speirin efter permeesion tae hae ingang tae yer microphone. Blockin ingang tae yer microphone micht brek some wabsite featurs.
-
-## Site Permissions - Speaker
-##
-## "Speaker" refers to an audio output device.
-

@@ -224,7 +224,9 @@ tabbrowser-manager-current-window-tab-group =
     .label = { $tabGroupName }
     .tooltiptext = { $tabGroupName } — Nykyinen ikkuna
 
-## Tab Groups
+## Variables:
+##  $tabGroupName (String): The name of the tab group. Defaults to the value
+##                          of tab-group-name-default.
 
 tab-group-editor-title-create = Luo välilehtiryhmä
 tab-group-editor-title-edit = Hallinnoi välilehtiryhmää
@@ -254,16 +256,12 @@ tab-group-editor-color-selector2-gray = Harmaa
     .title = Harmaa
 tab-group-editor-color-selector2-red = Punainen
     .title = Punainen
-# Variables:
-#  $tabGroupName (String): The name of the tab group. Defaults to the value
-#                          of tab-group-name-default.
 tab-group-description = { $tabGroupName } — Välilehtiryhmä
 tab-context-unnamed-group =
     .label = Nimetön ryhmä
 tab-group-name-default = Nimetön ryhmä
 
-## Variables:
-##  $tabCount (Number): the number of tabs that are affected by the action.
+##
 
 tab-context-move-tab-to-new-group =
     .label =

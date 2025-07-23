@@ -5,10 +5,3 @@
 label-disable = Оневозможи
 label-enable = Овозможи
 text-title = about:compat
-
-## Do not translate "SmartBlock". For reference, SmartBlock is a feature
-## of Firefox anti-tracking which fixes website breakage caused when
-## trackers are blocked, by acting just enough like those trackers to fix the
-## breakage. SmartBlock also contains special fixes for sites broken by
-## Firefox's Total Cookie Protection feature.
-

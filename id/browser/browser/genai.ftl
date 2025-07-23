@@ -98,9 +98,6 @@ genai-options-hide-shortcut =
 genai-options-about-chatbot =
     .label = Tentang bot obrolan AI dalam { -brand-short-name }
 
-## Chatbot footer
-
-
 ## Chatbot onboarding
 
 genai-onboarding-header = Meringkas, bertukar pikiran, dan banyak lagi saat Anda menjelajah
@@ -162,6 +159,3 @@ genai-model-optin-optout =
     .label = Batal
 genai-model-optin-cancel =
     .label = Batal
-
-## Link previews
-

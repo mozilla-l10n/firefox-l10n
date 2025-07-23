@@ -48,9 +48,6 @@ download-cert-view-cert =
     .label = Hecha
 download-cert-view-text = CA mboajepyre hechakatu
 
-## Client Authorization Ask dialog
-
-
 ## Client Authentication Ask dialog
 
 client-auth-window =

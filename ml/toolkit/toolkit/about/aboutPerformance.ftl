@@ -3,9 +3,6 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 
-## Column headers
-
-
 ## Special values for the Name column
 
 ghost-windows = അടുത്തിടെ അടച്ച ടാബുകള്‍

@@ -9,12 +9,6 @@
 
 perftools-intro-title = प्रोफाइलर सेटिंग
 
-## All of the headings for the various sections.
-
-
-##
-
-
 ## The controls for the interval at which the profiler samples the code.
 
 perftools-range-interval-milliseconds = { NUMBER($interval, maxFractionalUnits: 2) } ms
@@ -23,32 +17,16 @@ perftools-range-interval-milliseconds = { NUMBER($interval, maxFractionalUnits: 
 
 perftools-devtools-settings-label = सेटिंग
 
-## Various statuses that affect the current state of profiling, not typically displayed.
-
-
-## These are shown briefly when the user is waiting for the profiler to respond.
-
-
 ##
 
 perftools-button-start-recording = रिकॉर्डिंग शुरू करें
 perftools-button-cancel-recording = रिकॉर्डिंग रद्द करें
 perftools-button-save-settings = सेटिंग सहेजें और वापस जाएं
 
-## More actions menu
-
-
 ## These messages are descriptions of the threads that can be enabled for the profiler.
 
 perftools-thread-render-backend =
     .title = WebRender RenderBackend थ्रेड
-
-##
-
-
-## Onboarding UI labels. These labels are displayed in the new performance panel UI, when
-## devtools.performance.new-panel-onboarding preference is true.
-
 
 ## Profiler presets
 
@@ -66,6 +44,3 @@ perftools-presets-web-developer-label = वेब डेवलपर
 perftools-presets-firefox-label = { -brand-shorter-name }
 perftools-presets-graphics-label = ग्राफिक्स
 perftools-presets-media-label = मीडिया
-
-##
-

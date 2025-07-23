@@ -32,6 +32,3 @@ search-history = Historia
 search-opentabs = Avoimet välilehdet
 search-tags = Tunnisteet
 search-titles = Otsikot
-
-##
-

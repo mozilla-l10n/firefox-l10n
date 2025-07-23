@@ -33,6 +33,3 @@ fxa-menu-send-tab-to-device-syncnotready =
 fxa-menu-send-tab-to-device-description = Akimirksniu persiųskite kortelę į bet kurį susietą įrenginį.
 fxa-menu-sign-out =
     .label = Atsijungti…
-
-## Sync warning strings that support the browser profiles feature, these will be shown when the user might be merging data
-

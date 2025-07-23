@@ -3,7 +3,7 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 page-title = Problem həll etmə məlumatları
-page-subtitle =   Bu səhifə, bir problemi həll etməyə çalışarkən işinizə yaraya biləcək texniki məlumatlara malikdir. { -brand-short-name } haqqında ümumi suallarla bağlı cavab axtarırsınızsa <a data-l10n-name="support-link">dəstək saytımıza</a> baxın.
+page-subtitle = { "  " }Bu səhifə, bir problemi həll etməyə çalışarkən işinizə yaraya biləcək texniki məlumatlara malikdir. { -brand-short-name } haqqında ümumi suallarla bağlı cavab axtarırsınızsa <a data-l10n-name="support-link">dəstək saytımıza</a> baxın.
 crashes-title = Çökmə Məlumatları
 crashes-id = Hesabat kimliyi
 crashes-send-date = Göndərilib
@@ -109,14 +109,6 @@ media-device-channels = Kanallar
 media-device-rate = Tempi
 media-device-latency = Ləngimə
 
-## Codec support table
-
-
-## Media Content Decryption Modules (CDM)
-## See EME Spec for more explanation for following technical terms
-## https://w3c.github.io/encrypted-media/
-
-
 ##
 
 intl-title = Beynəlmiləlləşdirmə və Lokallaşdırma
@@ -128,16 +120,6 @@ intl-locales-default = Ön seçili dil
 intl-os-title = Əməliyyat Sistemi
 intl-os-prefs-system-locales = Sistem Dilləri
 intl-regional-prefs = Regional Nizamlamalar
-
-## Remote Debugging
-##
-## The Firefox remote protocol provides low-level debugging interfaces
-## used to inspect state and control execution of documents,
-## browser instrumentation, user interaction simulation,
-## and for subscribing to browser-internal events.
-##
-## See also https://firefox-source-docs.mozilla.org/remote/
-
 
 ##
 
@@ -281,18 +263,3 @@ touch-warning = dəstəklənməyən seçimdən dolayı asinxron toxunma girişi 
 policies-inactive = Passiv
 policies-active = Aktiv
 policies-error = Xəta
-
-## Printing section
-
-
-## Remote Settings sections
-
-
-## Normandy sections
-
-
-## Pointing devices
-
-
-## Content Analysis (DLP)
-

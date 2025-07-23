@@ -279,6 +279,3 @@ appmenuitem-relay-title = { -relay-brand-short-name }
 appmenuitem-relay-description = आफ्नो वास्तविक इमेल र फोन नम्बर लुकाउनुहोस्
 appmenuitem-vpn-title = { -mozilla-vpn-brand-name }
 appmenuitem-vpn-description = आफ्नो अनलाइन गतिविधि सुरक्षित गर्नुहोस्
-
-## Profiles panel
-

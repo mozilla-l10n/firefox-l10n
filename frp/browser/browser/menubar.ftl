@@ -3,18 +3,6 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 
-# NOTE: For English locales, strings in this file should be in APA-style Title Case.
-# See https://apastyle.apa.org/style-grammar-guidelines/capitalization/title-case
-#
-# NOTE: For Engineers, please don't re-use these strings outside of the menubar.
-
-
-# NOTE: For English locales, strings in this file should be in APA-style Title Case.
-# See https://apastyle.apa.org/style-grammar-guidelines/capitalization/title-case
-#
-# NOTE: For Engineers, please don't reuse these strings outside of the menubar.
-
-
 ## Application Menu (macOS only)
 
 menu-application-services =
@@ -36,35 +24,10 @@ menu-file-print =
     .label = Emprimar…
     .accesskey = p
 
-## Edit Menu
-
-
-## View Menu
-
-
-## These should match what Safari and other Apple applications
-## use on macOS.
-
-
-## These menu items may use the same accesskey.
-
-
-##
-
-
-## History Menu
-
-
 ## Bookmarks Menu
 
 menu-bookmarks-toolbar =
     .label = Bârra de mârca pâges
-
-## Profiles Menu
-
-
-## Tools Menu
-
 
 ## Window Menu
 

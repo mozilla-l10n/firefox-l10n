@@ -78,9 +78,6 @@ tabbrowser-unblock-tab-audio-tooltip =
            *[other] Groti { $tabCount } kortelių
         }
 
-## Tooltips for tab audio control
-
-
 ## Confirmation dialog when closing a window with more than one tab open,
 ## or when quitting when only one window is open.
 
@@ -121,10 +118,6 @@ tabbrowser-confirm-close-tabs-with-key-button = Išeiti iš „{ -brand-short-na
 #   $quitKey (String): the text of the keyboard shortcut for quitting.
 tabbrowser-confirm-close-tabs-with-key-checkbox = Patvirtinti prieš baigiant darbą su „{ $quitKey }“
 
-## Confirmation dialog when quitting using the keyboard shortcut (Ctrl/Cmd+Q)
-## and browser.warnOnQuitShortcut is true.
-
-
 ## Confirmation dialog when opening multiple tabs simultaneously
 
 tabbrowser-confirm-open-multiple-tabs-title = Atvėrimo patvirtinimas
@@ -142,9 +135,6 @@ tabbrowser-confirm-open-multiple-tabs-checkbox = Įspėti prieš atveriant daug 
 tabbrowser-confirm-caretbrowsing-title = Naršymas žymekliu
 tabbrowser-confirm-caretbrowsing-message = Klavišas F7 įjungia arba išjungia žymeklį, kai peržiūrimas tinklalapis. Jį įjungus teksto fragmentus galima pažymėti klaviatūra. Ar įjungti žymeklį?
 tabbrowser-confirm-caretbrowsing-checkbox = Šio dialogo daugiau neberodyti.
-
-## Confirmation dialog for closing all duplicate tabs
-
 
 ##
 
@@ -181,19 +171,3 @@ tabbrowser-ctrl-tab-list-all-tabs =
             [few] Parodyti visas { $tabCount } korteles
            *[other] Parodyti visas { $tabCount } kortelių
         }
-
-## Tab manager menu buttons
-## Variables:
-##  $tabGroupName (String): The name of the tab group. See also tab-group-name-default, which will be
-##                          used when the group's name is empty.
-
-
-## Tab Groups
-
-
-## Variables:
-##  $tabCount (Number): the number of tabs that are affected by the action.
-
-
-## Open/saved tab group context menu
-

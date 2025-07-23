@@ -131,9 +131,6 @@ delete-email-cert-impact = Ja izdzēsīsiet personas e-pasta sertifikātu, jūs 
 cert-with-serial =
     .value = Sertifikāts ar sērijas numurs: { $serialNumber }
 
-## Used to show whether an override is temporary or permanent
-
-
 ## Add Security Exception dialog
 
 add-exception-branded-warning = Jūs grasāties mainīt kā { -brand-short-name } identificē šo vietni.

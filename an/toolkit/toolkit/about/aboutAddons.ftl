@@ -7,10 +7,6 @@ search-header =
     .placeholder = Mirar en addons.mozilla.org
     .searchbuttonlabel = Mirar
 
-## Variables
-##   $domain - Domain name where add-ons are available (e.g. addons.mozilla.org)
-
-
 ##
 
 list-empty-installed =
@@ -174,29 +170,6 @@ addon-install-from-file-filter-name = Complementos
 addon-open-about-debugging = Depurar complementos
     .accesskey = p
 
-## Extension shortcut management
-
-
-## Recommended add-ons page
-
-
-## Add-on actions
-
-
-## Pending uninstall message bar
-
-
-## "sites with restrictions" (internally called "quarantined") are special domains
-## where add-ons are normally blocked for security reasons.
-
-
-## This is the tooltip text for the recommended badges for an extension in about:addons. The
-## badge is a small icon displayed next to an extension when it is recommended on AMO.
-
-
-##
-
-
 ## Page headings
 
 addons-heading-search-input =
@@ -243,10 +216,3 @@ plugins-openh264-name = Codec vidéo OpenH264 furniu por Cisco Systems, Inc.
 plugins-openh264-description = Iste connector ye instalau automaticament por Mozilla pa complir con a especificación WebRTC y ta permitir as gritadas WebRTC con dispositivos que requieran o codec de video H.264. Visite http://www.openh264.org/ pa veyer o codigo fuent d'o codigo y pa obtener mas información d'a implementación.
 plugins-widevine-name = Widevine Content Decryption Module furniu por Google Inc.
 plugins-widevine-description = Este complemento permite la reproducción de coneniu multimedia cifrau d'acuerdo con a especificación «Encrypted Media Extensions» (extensions de conteniu multimedia cifrau). Per un regular, los puestos web fan servir conteniu multimedia cifrau pa protecher-se contra la copia de conteniu premium. Visita https://www.w3.org/TR/encrypted-media/ pa obtener mas información sobre las extensions de conteniu multimedia cifrau.
-
-## Headings for the Permissions tab in `about:addons` when the data collection
-## feature is enabled.
-
-
-## Mapping Engine IDs from AI models to how that feature represented by the engine Id is described in the used by section in local model management
-

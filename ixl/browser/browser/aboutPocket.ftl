@@ -16,12 +16,3 @@ pocket-panel-saved-save-tags = Kola
 
 pocket-panel-signup-learn-more = Ootzi ka'te
 pocket-panel-signup-login = Ixe't aq'on
-
-## about:pocket-home panel
-
-
-## Pocket panel header component
-
-
-## Pocket panel buttons
-

@@ -64,6 +64,3 @@ about-networking-moved-about-logging = Iste pagina es ora disponibile in <a data
 
 about-networking-networkid-is-up = Ligamine active
 about-networking-networkid-status-known = Stato del ligamine note
-
-##
-

@@ -224,7 +224,9 @@ tabbrowser-manager-current-window-tab-group =
     .label = { $tabGroupName }
     .tooltiptext = { $tabGroupName } — Ағымдағы терезе
 
-## Tab Groups
+## Variables:
+##  $tabGroupName (String): The name of the tab group. Defaults to the value
+##                          of tab-group-name-default.
 
 tab-group-editor-title-create = Беттер тобын жасау
 tab-group-editor-title-edit = Беттер тобын басқару
@@ -254,16 +256,12 @@ tab-group-editor-color-selector2-gray = Сұр
     .title = Сұр
 tab-group-editor-color-selector2-red = Қызыл
     .title = Қызыл
-# Variables:
-#  $tabGroupName (String): The name of the tab group. Defaults to the value
-#                          of tab-group-name-default.
 tab-group-description = { $tabGroupName } — топтар беті
 tab-context-unnamed-group =
     .label = Атаусыз топ
 tab-group-name-default = Атаусыз топ
 
-## Variables:
-##  $tabCount (Number): the number of tabs that are affected by the action.
+##
 
 tab-context-move-tab-to-new-group =
     .label =

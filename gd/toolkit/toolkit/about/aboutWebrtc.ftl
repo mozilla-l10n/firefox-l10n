@@ -12,9 +12,6 @@ about-webrtc-document-title = WebRTC Internals
 # translated. This string is used as a title for a file save dialog box.
 about-webrtc-save-page-dialog-title = sàbhail about:webrtc mar
 
-## These labels are for a disclosure which contains the information for closed PeerConnection sections
-
-
 ## AEC is an abbreviation for Acoustic Echo Cancellation.
 
 about-webrtc-aec-logging-msg-label = Logadh AEC
@@ -110,11 +107,6 @@ about-webrtc-log-section-hide-msg = Falaich an loga
 about-webrtc-connection-open = [ { $browser-id } | { $id } ] { $url } { $now }
 about-webrtc-connection-closed = [ { $browser-id } | { $id } ] { $url } (air a dhùnadh) { $now }
 
-## These are used to indicate what direction media is flowing.
-## Variables:
-##  $codecs - a list of media codecs
-
-
 ##
 
 about-webrtc-local-candidate = Tagraiche ionadail
@@ -177,10 +169,6 @@ about-webrtc-configuration-element-provided = Chaidh a sholar
 about-webrtc-configuration-element-not-provided = Cha deach a sholar
 # The options set by the user in about:config that could impact a WebRTC call
 about-webrtc-custom-webrtc-configuration-heading = Roghainnean WebRTC a shuidhich a cleachdaiche
-
-## These are displayed on the button that shows or hides the
-## user modified configuration disclosure
-
 
 ##
 
@@ -297,11 +285,3 @@ about-webrtc-sdp-set-timestamp = Stampa-tìde { NUMBER($timestamp, useGrouping: 
 
 about-webrtc-show-msg-sdp = Show SDP
 about-webrtc-hide-msg-sdp = Hide SDP
-
-## These are displayed on the button that shows or hides the Media Context information disclosure.
-## The Media Context is the set of preferences and detected capabilities that informs
-## the negotiated CODEC settings.
-
-
-##
-

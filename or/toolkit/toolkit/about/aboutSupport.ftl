@@ -44,30 +44,6 @@ library-version-title = ଲାଇବ୍ରେରୀ ସଂସ୍କରଣଗୁ�
 copy-text-to-clipboard-label = ପାଠ୍ୟକୁ କ୍ଲିପବୋର୍ଡରେ ନକଲ କରନ୍ତୁ
 copy-raw-data-to-clipboard-label = ମୂଳ ତଥ୍ୟକୁ କ୍ଲିପବୋର୍ଡରେ ନକଲ କରନ୍ତୁ
 
-## Media titles
-
-
-## Codec support table
-
-
-## Media Content Decryption Modules (CDM)
-## See EME Spec for more explanation for following technical terms
-## https://w3c.github.io/encrypted-media/
-
-
-##
-
-
-## Remote Debugging
-##
-## The Firefox remote protocol provides low-level debugging interfaces
-## used to inspect state and control execution of documents,
-## browser instrumentation, user interaction simulation,
-## and for subscribing to browser-internal events.
-##
-## See also https://firefox-source-docs.mozilla.org/remote/
-
-
 ##
 
 # Variables
@@ -135,25 +111,3 @@ loaded-lib-versions = ବ୍ୟବହାର ହେଉଥିବା ସଂସ୍�
 # $remoteWindows (integer) - Number of remote windows
 # $totalWindows (integer) - Number of total windows
 multi-process-windows = { $remoteWindows }/{ $totalWindows }
-
-## Variables
-## $preferenceKey (string) - String ID of preference
-
-
-## Strings representing the status of the Enterprise Policies engine.
-
-
-## Printing section
-
-
-## Remote Settings sections
-
-
-## Normandy sections
-
-
-## Pointing devices
-
-
-## Content Analysis (DLP)
-

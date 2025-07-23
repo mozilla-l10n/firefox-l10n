@@ -39,17 +39,6 @@ neterror-load-error-connection = Si no podeu carregar cap pàgina, comproveu la 
 neterror-load-error-firewall = Si el vostre ordinador o la vostra xarxa estan protegits per un tallafoc o per un servidor intermediari, assegureu-vos que el { -brand-short-name } tinga permís per accedir al web.
 neterror-captive-portal = Heu d'iniciar la sessió en esta xarxa per poder accedir a Internet.
 
-## TRR-only specific messages
-## Variables:
-##   $hostname (String) - Hostname of the website to which the user was trying to connect.
-##   $trrDomain (String) - Hostname of the DNS over HTTPS server that is currently in use.
-
-
-## Native fallback specific messages
-## Variables:
-##   $trrDomain (String) - Hostname of the DNS over HTTPS server that is currently in use.
-
-
 ##
 
 neterror-file-not-found-filename = Comproveu les majúscules i minúscules del nom del fitxer i qualsevol altre error que s'haja produït en teclejar.

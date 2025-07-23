@@ -8,12 +8,6 @@
 sidebar-history-delete =
     .title = చరిత్ర నుండి తొలగించు
 
-## Labels for sidebar search
-
-
-## Labels for sidebar customize panel
-
-
 ## Labels for sidebar context menu items
 
 sidebar-context-menu-open-in-window =
@@ -22,9 +16,6 @@ sidebar-context-menu-open-in-private-window =
     .label = కొత్త అంతరంగిక కిటికీలో తెరువు
 sidebar-context-menu-copy-link =
     .label = లంకెను కాపీచేయి
-
-## Labels for sidebar history context menu items
-
 
 ## Labels for sidebar menu items.
 
@@ -35,15 +26,6 @@ sidebar-menu-synced-tabs-label =
 sidebar-menu-bookmarks-label =
     .label = ఇష్టాంశాలు
 
-## Tooltips for sidebar menu items.
-
-
-## Tooltips displayed over the AI chatbot icon.
-## Variables:
-##   $shortcut (String) - The OS specific keyboard shortcut.
-##   $provider (String) - The name of the AI chatbot provider (if available).
-
-
 ## Headings for sidebar menu panels.
 
 sidebar-menu-history-header =
@@ -53,14 +35,8 @@ sidebar-menu-syncedtabs-header =
 sidebar-panel-header-close-button =
     .tooltiptext = మూసివేయి
 
-## Titles for sidebar menu panels.
-
-
 ## Context for closing synced tabs when hovering over the items
 
 show-sidebars =
     .tooltiptext = పక్కపట్టీలు చూపించు
     .label = పక్కపట్టీలు
-
-## Tooltips for the sidebar toolbar widget.
-

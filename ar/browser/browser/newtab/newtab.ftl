@@ -374,9 +374,6 @@ feature-highlight-wallpaper =
     .title = { -newtab-wallpaper-feature-highlight-header }
     .aria-label = { -newtab-wallpaper-feature-highlight-content }
 
-## Celestial
-
-
 ## New Tab Weather
 
 # Variables:
@@ -393,9 +390,6 @@ newtab-weather-menu-weather-display-option-detailed = مفصل
 newtab-weather-menu-change-weather-display-detailed = بدّل إلى العرض التفصيلي
 newtab-weather-menu-temperature-option-celsius = درجة مئوية
 newtab-weather-menu-learn-more = اطّلع على المزيد
-
-## Topic Labels
-
 
 ## Topic Selection Modal
 
@@ -426,16 +420,10 @@ newtab-section-cancel-button = ليس الآن
 newtab-section-mangage-topics-title = المواضيع
 newtab-custom-wallpaper-cta = جربه
 
-## Strings for new user activation custom wallpaper highlight
-
-
 ## Strings for download mobile highlight
 
 # "Scan the code" refers to scanning the QR code that appears above the body text that leads to Firefox for mobile download.
 newtab-download-mobile-highlight-body-variant-a = افحص الرمز للتصفح بشكل آمن أثناء التنقل.
-
-## Strings for shortcuts highlight
-
 
 ## Strings for reporting ads and content
 
@@ -455,6 +443,3 @@ newtab-report-cancel = ألغِ
 newtab-report-submit = أرسِل
 newtab-toast-thanks-for-reporting =
     .message = شكرا لك على الإبلاغ عن هذا.
-
-## Strings for trending searches
-

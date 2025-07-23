@@ -18,6 +18,3 @@ autocomplete-import-logins-chromium =
 autocomplete-import-logins-chromium-edge =
     <div data-l10n-name="line1">Gānakāj sa gayi’ìt sēsiûn riña Microsoft Edge</div>
     <div data-l10n-name="line2">guendâ { $host } nī a’ngô nej sîtio</div>
-
-##
-

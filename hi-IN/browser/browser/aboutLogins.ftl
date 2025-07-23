@@ -241,16 +241,3 @@ about-logins-import-dialog-error-learn-more = अधिक जानें
 about-logins-import-dialog-error-cancel = रद्द करें
 about-logins-import-report-title = आयात सारांश
 about-logins-import-report-row-description-added = नया लॉगिन जोड़ा गया
-
-##
-## Variables:
-##  $field (String) - The name of the field from the CSV file for example url, username or password
-
-
-##
-## Variables:
-##  $count (number) - The number of affected elements
-
-
-## Logins import report page
-

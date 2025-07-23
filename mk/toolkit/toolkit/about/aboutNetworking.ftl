@@ -35,9 +35,3 @@ about-networking-rcwn-perf-write = Запишани
 about-networking-rcwn-avg-short = Краток просек
 about-networking-rcwn-avg-long = Долг просек
 about-networking-rcwn-std-dev-long = Долго стандардно отстапување
-
-## Link is intended as "network link"
-
-
-##
-

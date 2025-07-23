@@ -45,14 +45,3 @@ about-reader-font-type-sans-serif = Sans-serif
 
 about-reader-toolbar-close = Narun sa ahio'
 about-reader-toolbar-type-controls = Sa nikaj ñu'unj letra
-
-## Reader View colors menu
-
-
-## These are used as labels for the custom theme color pickers.
-## The .title element is used to make the editing functionality
-## clear and give context for screen reader users.
-
-
-## Reader View text and layout menu
-

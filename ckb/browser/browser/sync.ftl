@@ -20,6 +20,3 @@ fxa-menu-send-tab-to-device-syncnotready =
     .label = هاوکاتگەریکردنی ئامێرەکان...
 fxa-menu-sign-out =
     .label = بچۆ دەرەوە...
-
-## Sync warning strings that support the browser profiles feature, these will be shown when the user might be merging data
-

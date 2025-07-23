@@ -7,7 +7,6 @@
 -fxaccount-brand-name =
     { $kasua ->
         [0] Firefox kontu
-       *[a] Firefox kontua
         [k] Firefox kontuak
         [n] Firefox kontuan
         [tik] Firefox kontutik
@@ -17,4 +16,5 @@
         [ren] Firefox kontuaren
         [rekin] Firefox kontuarekin
         [rako] Firefox konturako
+       *[a] Firefox kontua
     }

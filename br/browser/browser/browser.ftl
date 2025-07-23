@@ -1104,9 +1104,6 @@ tabs-toolbar-list-all-tabs =
 restore-session-startup-suggestion-message = <strong>Digeriñ an ivinelloù kent?</strong> Gallout a rit assav hoc'h estez kent adalek al lañser arload { -brand-short-name } <img data-l10n-name="icon"/>, dindan Roll istor
 restore-session-startup-suggestion-button = Diskouez din penaos ober
 
-## Infobar shown when the user tries to open a file picker and file pickers are blocked by enterprise policy
-
-
 ## Mozilla data reporting notification (Telemetry, Firefox Health Report, etc)
 
 data-reporting-notification-message = { -brand-short-name } a dreuzkas roadennoù ent emgefreek da { -vendor-short-name } evit gwellaat ho skiant-prenet.
@@ -1143,10 +1140,6 @@ unified-extensions-button-quarantined =
     .tooltiptext =
         Askouezhioù
         Ul lodenn eus an askouezhioù n'int ket aotreet
-
-## Unified extensions button when some extensions are disabled (e.g. through add-ons blocklist).
-## Note that the new line is intentionally part of the tooltip.
-
 
 ## Private browsing reset button
 
@@ -1244,6 +1237,3 @@ popup-show-popup-menuitem =
 file-picker-crashed-show-in-folder =
     .label = Diskouez en teuliad
     .accessKey = t
-
-## Onboarding Finish Setup checklist
-

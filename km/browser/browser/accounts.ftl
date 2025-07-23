@@ -78,9 +78,3 @@ account-multiple-tabs-arriving-from-single-device = ផ្ទាំង { $tabCou
 account-multiple-tabs-arriving-from-multiple-devices = ផ្ទាំង { $tabCount } បាន​មកដល់​ពី​ឧបករណ៍​ដែល​បាន​តភ្ជាប់​របស់​អ្នក
 # This version is used when we don't know any device names.
 account-multiple-tabs-arriving-from-unknown-device = ផ្ទាំង { $tabCount } បាន​មកដល់
-
-## These strings are used in notifications in which the user remotely closed
-## tabs from other devices
-## Variables:
-##   $closedCount (Number): the number of tabs closed
-

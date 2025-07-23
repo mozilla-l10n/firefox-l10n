@@ -6,27 +6,6 @@
 ### Localization for Developer Tools options
 
 
-## Default Developer Tools section
-
-
-## Inspector section
-
-
-## "Default Color Unit" options for the Inspector
-
-
-## Web Console section
-
-
-## Style Editor section
-
-
-## Screenshot section
-
-
 ## Editor section
 
 options-sourceeditor-keybinding-default-label = Default
-
-## Advanced section
-

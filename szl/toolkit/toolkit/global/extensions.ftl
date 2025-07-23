@@ -17,9 +17,6 @@ webext-perms-header-unsigned-with-perms = Przidać „{ $extension }”? Te rozs
 webext-perms-sideload-header = Rozszyrzynie { $extension } je przidane
 webext-perms-optional-perms-header = Rozszyrzynie { $extension } prosi ô nowe zgody.
 
-## Headers used in the webextension permissions dialog, inside the content.
-
-
 ##
 
 webext-perms-add =
@@ -75,20 +72,6 @@ webext-perms-host-description-too-many-sites =
        *[many] Dostymp do twojich danych na { $domainCount } inkszych strōnach
     }
 
-## Strings for data collection permissions in the permission prompt.
-
-
-## Headers used in the webextension permissions dialog for synthetic add-ons.
-## The part of the string describing what privileges the extension gives should be consistent
-## with the value of webext-site-perms-description-gated-perms-{sitePermission}.
-## Note, this string will be used as raw markup. Avoid characters like <, >, &
-## Variables:
-##   $hostname (String): the hostname of the site the add-on is being installed from.
-
-
-##
-
-
 ## Headers used in the webextension permissions dialog.
 ## Note: This string will be used as raw markup. Avoid characters like <, >, &
 ## Variables:
@@ -102,6 +85,3 @@ webext-site-perms-header-unsigned-with-perms = Przidać { $extension }? Te rozsz
 
 webext-site-perms-midi = Dostymp do maszin MIDI
 webext-site-perms-midi-sysex = Dostymp do maszin MIDI z ôbsugōm SysEx
-
-## Colorway theme migration
-

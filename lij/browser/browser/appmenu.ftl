@@ -241,9 +241,3 @@ appmenu-customizetoolbar =
 appmenu-developer-tools-subheader = Atressi do navegatô
 appmenu-developer-tools-extensions =
     .label = Estenscioin pe-i svilopatoî
-
-## Panel for privacy and security products
-
-
-## Profiles panel
-

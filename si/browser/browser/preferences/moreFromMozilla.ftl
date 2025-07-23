@@ -39,6 +39,3 @@ more-from-moz-mozilla-monitor-button = { -monitor-brand-short-name } ගන්�
 more-from-moz-solo-title = { -solo-ai-brand-name } AI
 more-from-moz-solo-description = ඔබගේ අඩවිය ක්‍ෂණිකව සාදා නොමිලේ ඔබගේම අභිරුචි වසමක් සම්බන්ධ කරන්න.
 more-from-moz-solo-button = { -solo-ai-brand-name } බලන්න.
-
-## These strings are for the MDN card in about:preferences moreFromMozilla page
-

@@ -11,6 +11,3 @@ restore-page-tab-title = Pentani eska na japka
 restore-page-window-label = Window { $windowNumber }
 restore-page-restore-header =
     .label = Péntani méntaru
-
-## The following strings are used in about:welcomeback
-

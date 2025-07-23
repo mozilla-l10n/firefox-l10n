@@ -6,6 +6,3 @@ alert-close =
     .tooltiptext = Bu tebliğni qapat
 alert-settings-title =
     .tooltiptext = Ayarlar
-
-## Reminder Notifications
-

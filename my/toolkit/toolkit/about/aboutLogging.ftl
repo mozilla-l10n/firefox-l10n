@@ -8,13 +8,3 @@ about-logging-set-log-file = ခြေရာခံဖိုင်သတ်မှ
 about-logging-set-log-modules = အစိတ်အပိုင်များအား စတင်ခြေရာခံမည်
 about-logging-start-logging = ခြေရာခံခြင်းစပါ
 about-logging-stop-logging = ခြေရာခံခြင်းရပ်ပါ
-
-## Logging presets
-
-
-##
-
-
-## The upload interface is shown only with the preference toolkit.aboutLogging.uploadProfileToCloud
-## set to true. It is false by default, except on Android.
-

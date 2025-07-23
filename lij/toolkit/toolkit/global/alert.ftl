@@ -6,6 +6,3 @@ alert-close =
     .tooltiptext = Særa st'avizo
 alert-settings-title =
     .tooltiptext = Inpostaçioin
-
-## Reminder Notifications
-

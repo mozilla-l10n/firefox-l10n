@@ -82,9 +82,6 @@ sidebar-context-menu-customize-sidebar =
 sidebar-context-menu-close-remote-tab =
     .label = Cerrar pestaña en { $deviceName }
 
-## Labels for sidebar history context menu items
-
-
 ## Labels for sidebar menu items.
 
 sidebar-menu-genai-chat-label =

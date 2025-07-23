@@ -32,6 +32,3 @@ fxa-menu-send-tab-to-device-syncnotready =
 fxa-menu-send-tab-to-device-description = Saada kaart hetkega teise sisselogitud seadmesse.
 fxa-menu-sign-out =
     .label = Logi välja…
-
-## Sync warning strings that support the browser profiles feature, these will be shown when the user might be merging data
-

@@ -39,7 +39,7 @@ update-restarting = Ntaki tsai…
 
 # Variables:
 #   $channel (String): description of the update channel (e.g. "release", "beta", "nightly" etc.)
-aboutdialog-channel-description = Kuachu'un canal de actualizaciones <label data-l10n-name="current-channel">{ $channel }</label> . 
+aboutdialog-channel-description = Kuachu'un canal de actualizaciones <label data-l10n-name="current-channel">{ $channel }</label> .{ " " }
 warningDesc-version = { -brand-short-name } ña prueba kui cha ku sa ntasia.
 community-exp = <label data-l10n-name="community-exp-mozillaLink">{ -vendor-short-name }</label>kui inn ñaa<label data-l10n-name="community-exp-creditsLink">ñani ña yivii</label> sachu'un ntio taba na koo in web nuna, ña ntio cha nu nti'ina na kuu kuachui.
 community-2 = { -brand-short-name } ña saá <label data-l10n-name="community-mozillaLink">{ -vendor-short-name }</label>in <label data-l10n-name="community-creditsLink">ñani ña yivii</label> sachu'un ntio taba na koo in web nuna, ña ntio cha nu nti'ina na kuu kuachui.

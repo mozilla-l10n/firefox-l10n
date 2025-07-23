@@ -29,7 +29,3 @@ unpin-tab =
 move-to-new-window =
     .label = Skuif na nuwe venster
     .accesskey = v
-
-## Variables:
-##  $tabCount (Number): the number of tabs that are affected by the action.
-

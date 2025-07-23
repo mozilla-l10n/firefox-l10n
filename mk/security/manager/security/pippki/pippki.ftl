@@ -35,9 +35,6 @@ download-cert-view-cert =
     .label = Поглед
 download-cert-view-text = Испитај го CA сертификатот
 
-## Client Authorization Ask dialog
-
-
 ## Client Authentication Ask dialog
 
 client-auth-window =
@@ -56,6 +53,3 @@ set-password-backup-pw =
 set-password-repeat-backup-pw =
     .value = Резервна лозинка за сертификатот (повторно):
 set-password-reminder = Важно: ако ја заборавите лозинката за резервниот сертификат, нема да можете да му пристапите на истиот. Чувајте ја лозинката на сигурно место.
-
-## Protected authentication alert
-

@@ -79,9 +79,6 @@ perftools-thread-img-decoder =
 perftools-thread-dns-resolver =
     .title = פתרון כתובות מול ה־DNS מתרחש בתהליכון הזה
 
-##
-
-
 ## Onboarding UI labels. These labels are displayed in the new performance panel UI, when
 ## devtools.performance.new-panel-onboarding preference is true.
 
@@ -117,6 +114,3 @@ perftools-presets-power-description = ערכה לחקירת באגים של צר
 perftools-presets-debug-label = ניפוי שגיאות
 perftools-presets-debug-description = ערכה לניפוי שגיאות ב־{ -brand-shorter-name }. בעל תקורה גבוהה, אין להשתמש לעבודה על ביצועים אלא להשתמש להתמקדות על התנהגות הדפדפן.
 perftools-presets-custom-label = התאמה אישית
-
-##
-

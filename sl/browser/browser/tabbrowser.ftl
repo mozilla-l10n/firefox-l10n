@@ -256,7 +256,9 @@ tabbrowser-manager-current-window-tab-group =
     .label = { $tabGroupName }
     .tooltiptext = { $tabGroupName } – Trenutno okno
 
-## Tab Groups
+## Variables:
+##  $tabGroupName (String): The name of the tab group. Defaults to the value
+##                          of tab-group-name-default.
 
 tab-group-editor-title-create = Ustvari skupino zavihkov
 tab-group-editor-title-edit = Upravljanje skupine zavihkov
@@ -286,16 +288,12 @@ tab-group-editor-color-selector2-gray = Siva
     .title = Siva
 tab-group-editor-color-selector2-red = Rdeča
     .title = Rdeča
-# Variables:
-#  $tabGroupName (String): The name of the tab group. Defaults to the value
-#                          of tab-group-name-default.
 tab-group-description = { $tabGroupName } – Skupina zavihkov
 tab-context-unnamed-group =
     .label = Neimenovana skupina
 tab-group-name-default = Neimenovana skupina
 
-## Variables:
-##  $tabCount (Number): the number of tabs that are affected by the action.
+##
 
 tab-context-move-tab-to-new-group =
     .label =

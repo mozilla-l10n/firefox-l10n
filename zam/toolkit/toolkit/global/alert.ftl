@@ -4,6 +4,3 @@
 
 alert-close =
     .tooltiptext = TòɁw yêtz ré
-
-## Reminder Notifications
-

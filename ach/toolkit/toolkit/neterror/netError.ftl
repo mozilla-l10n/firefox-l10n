@@ -36,17 +36,6 @@ neterror-load-error-connection = Ka pe iromo cano pot buk mo keken, ngi kakube m
 neterror-load-error-firewall = Ka ce komputa onyo kakube ni kigengo ki lagwok komputa onyo latic pi lawote, nen ni meno { -brand-short-name } tye ki rukuca me donyo i Kakube.
 neterror-captive-portal = Myero kong i dony iyie netwak man me nongo intanet
 
-## TRR-only specific messages
-## Variables:
-##   $hostname (String) - Hostname of the website to which the user was trying to connect.
-##   $trrDomain (String) - Hostname of the DNS over HTTPS server that is currently in use.
-
-
-## Native fallback specific messages
-## Variables:
-##   $trrDomain (String) - Hostname of the DNS over HTTPS server that is currently in use.
-
-
 ##
 
 neterror-file-not-found-filename = Ngi nying pwail pi nukta madongo onyo coc mogo ma pe kicoyo maber.

@@ -34,15 +34,6 @@ permissions-capabilities-listitem-allow-session =
 permissions-invalid-uri-title = Zunbudoo maa laalo ka damandi
 permissions-invalid-uri-label = Taare war ma zunbudoo maa boryo dam
 
-## Exceptions - Tracking Protection
-
-
-## Exceptions - Cookies
-
-
-## Exceptions - HTTPS-Only Mode
-
-
 ## Exceptions - Pop-ups
 
 permissions-exceptions-popup-desc = War ga hin ka tabatandi Interneti nungey kaŋ ga biiboŋ bata zanfuney feeri. Nungu kaŋ war ga bag'a aderesu alhakiikaa hantum, de wa Noo fondo naagu.
@@ -53,32 +44,6 @@ permissions-exceptions-saved-logins-window2 =
     .title = Hasarawey - huruyan gaabuntey
     .style = { permissions-window2.style }
 
-## Exceptions - Saved Passwords
-
-
 ## Exceptions - Add-ons
 
 permissions-exceptions-addons-desc = War ga hin ka tabatandi Interneti nungey kaŋ ga duu fondo ka tontoney sinji. Nungoo kaŋ war ga bag'a aderesu alhakiikaa hantum, de wa Noo fondo naagu.
-
-## Site Permissions - Autoplay
-
-
-## Site Permissions - Notifications
-
-
-## Site Permissions - Location
-
-
-## Site Permissions - Virtual Reality
-
-
-## Site Permissions - Camera
-
-
-## Site Permissions - Microphone
-
-
-## Site Permissions - Speaker
-##
-## "Speaker" refers to an audio output device.
-

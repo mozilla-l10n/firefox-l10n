@@ -21,24 +21,7 @@ neterror-return-to-previous-page-recommended-button = بڕۆ دواوە (پێش�
 neterror-try-again-button = دووبارە هەوڵ بدەرەوە
 neterror-view-certificate-link = بڕوانامە پیشان بدە
 
-##
-
-
 ## Specific error messages
 
 neterror-generic-error = { -brand-short-name } ناتوانێت پەڕگە باربکات لەبەر چەند هۆکارێک.
 neterror-captive-portal = پێویستە پێش ئەوە بچیتە ژوورەوە بۆ ئەوەی بتوانی دەستت بگات بە ئینتەرنێت.
-
-## TRR-only specific messages
-## Variables:
-##   $hostname (String) - Hostname of the website to which the user was trying to connect.
-##   $trrDomain (String) - Hostname of the DNS over HTTPS server that is currently in use.
-
-
-## Native fallback specific messages
-## Variables:
-##   $trrDomain (String) - Hostname of the DNS over HTTPS server that is currently in use.
-
-
-##
-

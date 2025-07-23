@@ -105,9 +105,6 @@ permissions-exceptions-saved-logins-window2 =
     .style = { permissions-window2.style }
 permissions-exceptions-saved-logins-desc = Ang mga login para sa mga sumusunod na website ay hindi ise-save
 
-## Exceptions - Saved Passwords
-
-
 ## Exceptions - Add-ons
 
 permissions-exceptions-addons-window2 =
@@ -171,8 +168,3 @@ permissions-site-microphone-desc = Ang mga sumusunod na website ay humihingi ng 
 permissions-site-microphone-disable-label =
     .label = I-block ang mga humihingi ng pahintulot na i-access ang iyong microphone
 permissions-site-microphone-disable-desc = Pipigilan nito ang kahit na anong website na hindi kasama sa listahan sa paghingi ng permiso upang i-access ang iyong microphone. Ang pagblock ng access sa iyong microphone ay maaaring makasira sa ibang features ng website.
-
-## Site Permissions - Speaker
-##
-## "Speaker" refers to an audio output device.
-

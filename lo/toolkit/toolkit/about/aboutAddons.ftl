@@ -4,10 +4,6 @@
 
 addons-page-title = ຕົວຈັດການກັບ Add-ons
 
-## Variables
-##   $domain - Domain name where add-ons are available (e.g. addons.mozilla.org)
-
-
 ##
 
 list-empty-installed =
@@ -92,13 +88,6 @@ addon-updates-check-for-updates = ກວດສອບການອັບເດດ
 addon-updates-update-addons-automatically = ອັບເດດ Add-ons ໂດຍອັດຕະໂນມັດ
     .accesskey = A
 
-## Specific add-ons can have custom update checking behaviors ("Manually",
-## "Automatically", "Use default global behavior"). These menu items reset the
-## update checking behavior for all add-ons to the default global behavior
-## (which itself is either "Automatically" or "Manually", controlled by the
-## extensions-updates-update-addons-automatically.label menu item).
-
-
 ## Status messages displayed when updating add-ons
 
 addon-updates-updating = ກຳລັງອັບເດດ add-ons
@@ -112,29 +101,6 @@ addon-install-from-file-dialog-title = ເລືອກ add-on ເພື່ອທ
 addon-install-from-file-filter-name = Add-ons
 addon-open-about-debugging = ດີບັກ Add-on
     .accesskey = B
-
-## Extension shortcut management
-
-
-## Recommended add-ons page
-
-
-## Add-on actions
-
-
-## Pending uninstall message bar
-
-
-## "sites with restrictions" (internally called "quarantined") are special domains
-## where add-ons are normally blocked for security reasons.
-
-
-## This is the tooltip text for the recommended badges for an extension in about:addons. The
-## badge is a small icon displayed next to an extension when it is recommended on AMO.
-
-
-##
-
 
 ## Page headings
 
@@ -177,10 +143,3 @@ details-notification-gmp-pending2 =
 plugins-gmp-license-info = ​ຂໍ້ມູນກ່ຽວກັບລິຂະສິດ
 plugins-gmp-privacy-info = ຂໍ້ມູນສ່ວນຕົວ
 plugins-openh264-name = OpenH264 Video Codec ໄດ້ຮັບການສະຫນອງມາຈາກ Cisco Systems, Inc.
-
-## Headings for the Permissions tab in `about:addons` when the data collection
-## feature is enabled.
-
-
-## Mapping Engine IDs from AI models to how that feature represented by the engine Id is described in the used by section in local model management
-

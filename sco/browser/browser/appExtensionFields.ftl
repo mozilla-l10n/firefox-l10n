@@ -12,10 +12,3 @@ extension-firefox-compact-dark-name = Daurk
 extension-firefox-compact-dark-description = A theme wi a daurk colour scheme.
 extension-firefox-alpenglow-name = Firefox Alpenglow
 extension-firefox-alpenglow-description = Yaise a colourfu kythe fur buttons, menus, and windaes.
-
-## Colorway Themes
-## These themes are variants of a colorway. The colorway is specified in the
-## $colorway-name variable.
-## Variables
-##   $colorway-name (String) The name of a colorway (e.g. Graffiti, Elemental).
-

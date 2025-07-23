@@ -10,6 +10,3 @@ protocolhandler-mailto-os-handler-no-button = ഇപ്പോഴല്ല
 
 protocolhandler-mailto-handler-set = താങ്ങളുടെ ഇതപാൽ തുറക്കുന്ന എല്ലാ കണ്ണികളിൽ അമൎത്തിയാൽ എപ്പോഴും<strong>{ $url } തുറക്കാൻ വേണ്ടി { -brand-short-name } ഉപയോഗിക്കുക</strong>
 protocolhandler-mailto-handler-confirm = ഒരു ഇതപാൽ അയയ്ക്കുന്ന കണ്ണിയിൽ അമൎത്തുമ്പോൾ ഓരോ വട്ടം <strong>{ $url }-നെ { -brand-short-name } തുറക്കും</strong>
-
-##
-

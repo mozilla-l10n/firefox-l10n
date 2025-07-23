@@ -3,9 +3,6 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 
-## Error messages
-
-
 ## Certificate information labels
 
 # This message is used as a row header in the Miscellaneous section.
@@ -17,9 +14,3 @@ certificate-viewer-download = Endir
 
 certificate-viewer-export = İxrac et
     .download = { $fileName }.pem
-
-##
-
-
-## Labels for tabs displayed in stand-alone about:certificate page
-

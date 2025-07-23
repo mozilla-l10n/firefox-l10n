@@ -9,15 +9,3 @@ abuse-report-cancel-button = ຍົກເລີກ
 abuse-report-next-button = ຕໍ່ໄປ
 abuse-report-goback-button = ກັບຄືນ
 abuse-report-submit-button = ສົ່ງ
-
-## Message bars descriptions.
-##
-## Variables:
-##   $addon-name (string) - Name of the add-on
-
-
-## Message bars actions.
-
-
-## Abuse report reasons (optionally paired with related examples and/or suggestions)
-

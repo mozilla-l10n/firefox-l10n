@@ -106,9 +106,6 @@ certificate-viewer-critical-extension =
 certificate-viewer-export = Export
     .download = { $fileName }.pem
 
-##
-
-
 ## Labels for tabs displayed in stand-alone about:certificate page
 
 certificate-viewer-tab-mine = Your Certificates

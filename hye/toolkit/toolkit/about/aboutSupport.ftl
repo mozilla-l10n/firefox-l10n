@@ -160,14 +160,6 @@ media-capabilities-title = Մեդիայ հնարաւորութիւններ
 # List all the entries of the database.
 media-capabilities-enumerate = Թուանշուած տուեալների բազայ
 
-## Codec support table
-
-
-## Media Content Decryption Modules (CDM)
-## See EME Spec for more explanation for following technical terms
-## https://w3c.github.io/encrypted-media/
-
-
 ##
 
 intl-title = Միջազգայնացում եւ տեղայնացում
@@ -372,9 +364,6 @@ support-printing-modified-settings = Տպիչի փոփոխուած կարգաւ�
 support-printing-prefs-name = Անուանումը
 support-printing-prefs-value = Արժէքը
 
-## Remote Settings sections
-
-
 ## Normandy sections
 
 support-remote-experiments-title = Հեռակայ փորձեր
@@ -384,9 +373,3 @@ support-remote-experiments-see-about-studies = Տես <a data-l10n-name="support
 support-remote-features-title = Հեռակայ յատկութիւններ
 support-remote-features-name = Անուն
 support-remote-features-status = Կարգավիճակ
-
-## Pointing devices
-
-
-## Content Analysis (DLP)
-

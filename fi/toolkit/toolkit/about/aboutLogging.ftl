@@ -34,10 +34,3 @@ about-logging-preset-webgpu-label = WebGPU
 about-logging-preset-gfx-label = Grafiikka
 # Error handling
 about-logging-error = Virhe:
-
-##
-
-
-## The upload interface is shown only with the preference toolkit.aboutLogging.uploadProfileToCloud
-## set to true. It is false by default, except on Android.
-

@@ -23,6 +23,3 @@ search-search-in = Yeny ii:
 
 search-bookmarks = Alamabuk
 search-history = Gin mukato
-
-##
-

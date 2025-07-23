@@ -80,24 +80,10 @@ tabbrowser-unblock-tab-audio-tooltip =
            *[other] Patakbuhin ang mga { $tabCount } tab
         }
 
-## Tooltips for tab audio control
-
-
 ## Confirmation dialog when closing a window with more than one tab open,
 ## or when quitting when only one window is open.
 
 tabbrowser-confirm-close-tabs-button = Isara ang mga Tab
-
-## Confirmation dialog when quitting using the menu and multiple windows are open.
-
-
-## Confirmation dialog when quitting using the keyboard shortcut (Ctrl/Cmd+Q)
-## Windows does not show a prompt on quit when using the keyboard shortcut by default.
-
-
-## Confirmation dialog when quitting using the keyboard shortcut (Ctrl/Cmd+Q)
-## and browser.warnOnQuitShortcut is true.
-
 
 ## Confirmation dialog when opening multiple tabs simultaneously
 
@@ -116,9 +102,6 @@ tabbrowser-confirm-open-multiple-tabs-checkbox = Sabihan mo ko tuwing magbubukas
 tabbrowser-confirm-caretbrowsing-title = Caret Browsing
 tabbrowser-confirm-caretbrowsing-message = Ang pagpindot sa F7 ay nagbubukas o nagsasara ng Caret Browsing. Naglalagay ang feature na ito ng isang nagagalaw na cursor sa mga web page, para pwede kang makapili ng text gamit ang keyboard. Gusto mo bang buksan ang Caret Browsing?
 tabbrowser-confirm-caretbrowsing-checkbox = Huwag kailanman ipakita ang dialog box na ito.
-
-## Confirmation dialog for closing all duplicate tabs
-
 
 ##
 
@@ -152,27 +135,16 @@ tabbrowser-context-unmute-selected-tabs =
 tabbrowser-ctrl-tab-list-all-tabs =
     .label = Ilista ang lahat ng { $tabCount } na tab
 
-## Tab manager menu buttons
 ## Variables:
-##  $tabGroupName (String): The name of the tab group. See also tab-group-name-default, which will be
-##                          used when the group's name is empty.
-
-
-## Tab Groups
+##  $tabGroupName (String): The name of the tab group. Defaults to the value
+##                          of tab-group-name-default.
 
 tab-group-editor-title-create = Gumawa ng tab group
 tab-group-editor-color-selector =
     .aria-label = Kulay ng tab group
-# Variables:
-#  $tabGroupName (String): The name of the tab group. Defaults to the value
-#                          of tab-group-name-default.
 tab-group-description = { $tabGroupName } — Tab Group
 
-## Variables:
-##  $tabCount (Number): the number of tabs that are affected by the action.
+##
 
 tab-context-reopen-tab-group =
     .label = Buksang muli ang tab group
-
-## Open/saved tab group context menu
-

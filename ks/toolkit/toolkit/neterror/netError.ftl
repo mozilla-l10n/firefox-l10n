@@ -14,23 +14,6 @@ neterror-try-again-button = دوبارئ كریو كوشش
 
 ##
 
-
-## Specific error messages
-
-
-## TRR-only specific messages
-## Variables:
-##   $hostname (String) - Hostname of the website to which the user was trying to connect.
-##   $trrDomain (String) - Hostname of the DNS over HTTPS server that is currently in use.
-
-
-## Native fallback specific messages
-## Variables:
-##   $trrDomain (String) - Hostname of the DNS over HTTPS server that is currently in use.
-
-
-##
-
 neterror-file-not-found-filename = چک کْریو فایل ناو کیپٹیلایزیشن یا بدل ٹایپینگ ایرر باپت۔
 neterror-file-not-found-moved = چک کْریو وچھنْہ باپت ذِ فایل چھاہ مو کرنْہ آمْژ، دوبار نام دِنْہ آمْژ یا ڈیلیٹ کرنْہ آمْژ
 neterror-unknown-protocol = توہیہ ما پْیہ ضرورت بدل سافٹ وْیر انسٹال کرُن یہ پتاہ اوپْن کرنْہ باپت۔

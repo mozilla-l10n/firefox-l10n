@@ -73,14 +73,6 @@ pdfjs-document-properties-producer = پی ڈی ایف پروڈوسر:
 pdfjs-document-properties-version = پی ڈی ایف وْرجن:
 pdfjs-document-properties-page-count = پیج کاوُنٹ:
 
-## Variables:
-##   $width (Number) - the width of the (current) page
-##   $height (Number) - the height of the (current) page
-##   $unit (String) - the unit of measurement of the (current) page
-##   $name (String) - the name of the (current) page
-##   $orientation (String) - the orientation of the (current) page
-
-
 ##
 
 pdfjs-document-properties-close-button = بند
@@ -136,9 +128,6 @@ pdfjs-page-scale-actual = اصلی سایز
 #   $scale (Number) - percent value for page scale
 pdfjs-page-scale-percent = { $scale }%
 
-## PDF page
-
-
 ## Loading indicator messages
 
 pdfjs-loading-error = پی ڈی ایف كھولَن ویز۪ی گئی غلطی
@@ -147,72 +136,9 @@ pdfjs-missing-file-error = میسینگ پی ڈی ایف فایل۔
 pdfjs-unexpected-response-error = غیر متوقع سْرور جواب۔
 pdfjs-rendering-error = صفحئ كھولُن ویز۪ی گئی غلطی
 
-## Annotations
-
-
 ## Password
 
 pdfjs-password-label = پاس وأرڈ کْریو اینٹر یہ پی ڈی ایف فایل اوپْن کرنْہ باپت۔
 pdfjs-password-invalid = ناکار پاس وأرڈ۔ مہربأنی کْرتھ کْریو دوبار کوشش۔
 pdfjs-password-ok-button = OK
 pdfjs-web-fonts-disabled = ویب فانٹ چھ ڈیسیبلْڈ: ایمبیڈیڈ پی ڈی ایف فانٹ استعمال کرنْہ باپت کْریو انیبْل۔
-
-## Editing
-
-
-## Default editor aria labels
-
-
-## Remove button for the various kind of editor.
-
-
-##
-
-
-## Alt-text dialog
-
-
-## Editor resizers
-## This is used in an aria label to help to understand the role of the resizer.
-
-
-## Color picker
-
-
-## Show all highlights
-## This is a toggle button to show/hide all the highlights.
-
-
-## New alt-text dialog
-## Group note for entire feature: Alternative text (alt text) helps when people can't see the image. This feature includes a tool to create alt text automatically using an AI model that works locally on the user's device to preserve privacy.
-
-
-## Image alt-text settings
-
-
-## "Annotations removed" bar
-
-
-## Add a signature dialog
-
-
-## Tab names
-
-
-## Tab panels
-
-
-## Controls
-
-
-## Dialog buttons
-
-
-## Main menu for adding/removing signatures
-
-
-## Editor toolbar
-
-
-## Edit signature description dialog
-

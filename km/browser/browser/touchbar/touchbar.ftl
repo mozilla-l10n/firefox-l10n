@@ -17,9 +17,3 @@ reader-view = ទិដ្ឋភាពអ្នកអាន
 open-location = ស្វែងរក ឬ​បញ្ចូល​អាសយដ្ឋាន
 share = ចែករំលែក
 close-window = បិទបង្អួច
-
-## Various categories of shortcuts for search.
-
-
-##
-

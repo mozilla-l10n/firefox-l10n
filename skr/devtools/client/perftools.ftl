@@ -69,9 +69,6 @@ perftools-button-add-directory = ڈائریکٹری شامل کرو
 perftools-button-remove-directory = منتخب شدہ ہٹاؤ
 perftools-button-edit-settings = سیٹنگز وچ تبدیلی کرو…
 
-## More actions menu
-
-
 ## These messages are descriptions of the threads that can be enabled for the profiler.
 
 perftools-thread-gecko-main =
@@ -151,6 +148,3 @@ perftools-presets-power-label = بجلی
 perftools-presets-power-description = گھٹ اوور ہیڈ دے نال { -brand-shorter-name } وِچ پاور استعمال بگز دی چھان بین کیتے پری سیٹ۔
 perftools-presets-debug-label = ڈیبگ
 perftools-presets-custom-label = مخصوص
-
-##
-

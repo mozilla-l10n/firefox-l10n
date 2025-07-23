@@ -91,9 +91,6 @@ sidebar-context-menu-customize-sidebar =
 sidebar-context-menu-close-remote-tab =
     .label = Serrar il tab sin { $deviceName }
 
-## Labels for sidebar history context menu items
-
-
 ## Labels for sidebar menu items.
 
 sidebar-menu-genai-chat-label =

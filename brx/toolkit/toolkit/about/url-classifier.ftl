@@ -14,7 +14,3 @@ url-classifier-not-available = N/A
 url-classifier-enabled = मावथि खालामबाय
 url-classifier-disabled = लोरबां जाबाय
 url-classifier-success = जाफुंसारनाय
-
-## Variables
-##   $error (string) - Error message
-

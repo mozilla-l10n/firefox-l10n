@@ -27,7 +27,7 @@ processes-title = दूरस्थ प्रक्रियाएं
 app-basics-title = अनुप्रयोग मूल
 app-basics-name = नाम
 app-basics-version = संस्करण
-app-basics-build-id =  ID बनाएँ
+app-basics-build-id = { " " }ID बनाएँ
 app-basics-update-channel = चैनल अद्यतन करें
 # This message refers to the folder used to store updates on the device,
 # as in "Folder for updates". "Update" is a noun, not a verb.
@@ -123,14 +123,6 @@ media-device-format = प्रारूप
 media-device-channels = चैनल्स
 media-device-rate = दर
 media-device-latency = विलंबता
-
-## Codec support table
-
-
-## Media Content Decryption Modules (CDM)
-## See EME Spec for more explanation for following technical terms
-## https://w3c.github.io/encrypted-media/
-
 
 ##
 
@@ -303,16 +295,7 @@ policies-error = त्रुटि
 
 support-printing-prefs-name = नाम
 
-## Remote Settings sections
-
-
 ## Normandy sections
 
 support-remote-experiments-name = नाम
 support-remote-features-name = नाम
-
-## Pointing devices
-
-
-## Content Analysis (DLP)
-

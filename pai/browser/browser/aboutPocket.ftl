@@ -6,18 +6,6 @@
 ### Pocket button panel strings for about:pocket-saved, about:pocket-signup, and about:pocket-home
 
 
-## about:pocket-saved panel
-
-
 ## about:pocket-signup panel
 
 pocket-panel-signup-learn-more = Terabum Ŕpo
-
-## about:pocket-home panel
-
-
-## Pocket panel header component
-
-
-## Pocket panel buttons
-

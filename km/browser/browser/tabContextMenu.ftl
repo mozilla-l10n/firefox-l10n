@@ -53,7 +53,3 @@ move-to-end =
 move-to-new-window =
     .label = ផ្លាស់ទី​ទៅកាន់​បង្អួច​ថ្មី
     .accesskey = W
-
-## Variables:
-##  $tabCount (Number): the number of tabs that are affected by the action.
-

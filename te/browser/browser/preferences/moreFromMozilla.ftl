@@ -9,15 +9,3 @@ more-from-moz-title = { -vendor-short-name } నుండి మరిన్న�
 more-from-moz-category =
     .tooltiptext = { -vendor-short-name } నుండి మరిన్ని
 more-from-moz-learn-more-link = ఇంకా తెలుసుకోండి
-
-## These strings are for the Firefox Relay card in about:preferences moreFromMozilla page
-
-
-## These strings are for the Mozilla Monitor card in about:preferences moreFromMozilla page
-
-
-## These strings are for the Solo card in about:preferences moreFromMozilla page
-
-
-## These strings are for the MDN card in about:preferences moreFromMozilla page
-

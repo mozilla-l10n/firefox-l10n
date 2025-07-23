@@ -322,6 +322,3 @@ about-webrtc-hide-msg-sdp = Ukryj informacje SDP
 about-webrtc-media-context-show-msg = Pokaż kontekst mediów
 about-webrtc-media-context-hide-msg = Ukryj kontekst mediów
 about-webrtc-media-context-heading = Kontekst mediów
-
-##
-

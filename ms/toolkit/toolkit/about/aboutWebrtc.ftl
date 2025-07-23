@@ -12,9 +12,6 @@ about-webrtc-document-title = Dalaman WebRTC
 # translated. This string is used as a title for a file save dialog box.
 about-webrtc-save-page-dialog-title = simpan about:webrtc sebagai
 
-## These labels are for a disclosure which contains the information for closed PeerConnection sections
-
-
 ## AEC is an abbreviation for Acoustic Echo Cancellation.
 
 about-webrtc-aec-logging-msg-label = Pengelogan AEC
@@ -106,11 +103,6 @@ about-webrtc-log-section-hide-msg = Sorok log
 about-webrtc-connection-open = [ { $browser-id } | { $id } ] { $url } { $now }
 about-webrtc-connection-closed = [ { $browser-id } | { $id } ] { $url } (ditutup) { $now }
 
-## These are used to indicate what direction media is flowing.
-## Variables:
-##  $codecs - a list of media codecs
-
-
 ##
 
 about-webrtc-local-candidate = Local Candidate
@@ -138,23 +130,6 @@ about-webrtc-fold-default-hide-msg = Sorok butiran
 about-webrtc-decoder-label = Penyahkod
 about-webrtc-encoder-label = Pengekod
 
-## SSRCs are identifiers that represent endpoints in an RTP stream
-
-
-## These are displayed on the button that shows or hides the
-## PeerConnection configuration disclosure
-
-
-##
-
-
-## These are displayed on the button that shows or hides the
-## user modified configuration disclosure
-
-
-##
-
-
 ##
 
 about-webrtc-save-page-msg = halaman disimpan di: { $path }
@@ -175,18 +150,3 @@ about-webrtc-jitter-label = Ketaran { $jitter }
 # (an attribute of an ICE candidate). These are highlighted in the ICE stats
 # table with light blue background.
 about-webrtc-trickle-caption-msg = Calon yang disusun (tiba selepas jawapan) diserlahkan dalam warna biru
-
-## "SDP" is an abbreviation for Session Description Protocol, an IETF standard.
-## See http://wikipedia.org/wiki/Session_Description_Protocol
-
-
-## These are displayed on the button that shows or hides the SDP information disclosure
-
-
-## These are displayed on the button that shows or hides the Media Context information disclosure.
-## The Media Context is the set of preferences and detected capabilities that informs
-## the negotiated CODEC settings.
-
-
-##
-

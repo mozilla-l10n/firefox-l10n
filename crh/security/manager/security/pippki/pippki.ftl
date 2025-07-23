@@ -33,9 +33,6 @@ download-cert-view-cert =
     .label = Köster
 download-cert-view-text = CA sertifikasını kontrol et
 
-## Client Authorization Ask dialog
-
-
 ## Client Authentication Ask dialog
 
 client-auth-window =
@@ -78,6 +75,3 @@ set-password-backup-pw =
 set-password-repeat-backup-pw =
     .value = Sertifika yedekleme parolası (tekrar):
 set-password-reminder = Önemli: Eğer sertifika yedekleme parolanızı unutursanız, bu yedeklemeyi daha sonra yeniden oluşturamazsınız. Lütfen bunu güvenli bir ortamda saklayın.
-
-## Protected authentication alert
-

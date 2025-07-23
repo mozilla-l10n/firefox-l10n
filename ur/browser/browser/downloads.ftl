@@ -31,12 +31,6 @@ downloads-cmd-show-menuitem-2 =
         }
     .accesskey = F
 
-## Displayed in the downloads context menu for files that can be opened.
-## Variables:
-##   $handler (String) - The name of the mime type's default file handler.
-##   Example: "Notepad", "Acrobat Reader DC", "7-Zip File Manager"
-
-
 ##
 
 downloads-cmd-show-button-2 =
@@ -143,15 +137,6 @@ downloads-history =
 # that we are showing the details of a single download.
 downloads-details =
     .title = تفصیلات ڈاؤن لوڈ کریں
-
-## These strings are displayed in the private browsing view of the downloads panel
-
-
-## Displayed when a site attempts to automatically download many files.
-## Variables:
-##   $num (number) - Number of blocked downloads.
-##   $url (string) - The url of the suspicious site, stripped of http, https and www prefix.
-
 
 ##
 

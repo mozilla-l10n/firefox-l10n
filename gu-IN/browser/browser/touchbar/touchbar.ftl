@@ -17,9 +17,3 @@ reader-view = વાંચક જુઓ
 open-location = સરનામું શોધો અથવા દાખલ કરો
 share = ફેલાવો
 close-window = વિન્ડો બંધ કરો
-
-## Various categories of shortcuts for search.
-
-
-##
-

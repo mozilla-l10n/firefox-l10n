@@ -47,10 +47,6 @@ cert-error-details-cert-chain-label = සහතික දාමය:
 open-in-new-window-for-csp-or-xfo-error = නව කවුළුවකින් අඩවිය අරින්න
 fp-learn-more-about-secure-connection-failures = අසාර්ථක ආරක්‍ෂිත සම්බන්‍ධතා ගැන තව දැනගන්න
 
-## Variables:
-##   $hostname (string) - Hostname of the website with cert error.
-
-
 ## Messages used for certificate error titles
 
 connectionFailure-title = සම්බන්ධ වීමට නොහැකිය
@@ -88,10 +84,3 @@ networkProtocolError-title = ජාල කෙටුම්පතෙහි දෝ�
 nssBadCert-title = අවවාදයයි: ආරක්‍ෂණ අවදානමක් ඉදිරියෙන්
 nssBadCert-sts-title = සම්බන්‍ධ නොවුණි: ආරක්‍ෂණ ගැටලුවක් විය හැකිය.
 certerror-mitm-title = { -brand-short-name } ආරක්‍ෂිතව මෙම අඩවියට සම්බන්ධ වීම මෘදුකාංගය මගින් වළක්වයි
-
-## Felt Privacy V1 Strings
-
-
-## Variables:
-##   $hostname (String) - Hostname of the website to which the user was trying to connect.
-

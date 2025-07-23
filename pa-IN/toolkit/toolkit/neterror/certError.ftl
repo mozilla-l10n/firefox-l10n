@@ -90,10 +90,6 @@ fp-learn-more-about-secure-connection-failures = ਸੁਰੱਖਿਅਤ ਕਨ
 fp-learn-more-about-cert-issues = ਇਸ ਕਿਸਮ ਦੇ ਸਰਟੀਫਿਕੇਟ ਮਸਲਿਆਂ ਬਾਰੇ ਹੋਰ ਜਾਣੋ
 fp-learn-more-about-time-related-errors = ਸਮੇਂ ਨਾਲ ਸੰਬੰਧਿਤ ਗ਼ਲਤੀਆਂ ਬਾਰੇ ਸਮੱਸਿਆ ਹੱਲ਼ ਕਰਨ ਬਾਰੇ ਹੋਰ ਜਾਣੋ
 
-## Variables:
-##   $hostname (string) - Hostname of the website with cert error.
-
-
 ## Messages used for certificate error titles
 
 connectionFailure-title = ਕਨੈਕਟ ਕਰਨ ਲਈ ਅਸਮਰੱਥ

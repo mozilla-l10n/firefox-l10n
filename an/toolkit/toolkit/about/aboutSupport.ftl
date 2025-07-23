@@ -145,14 +145,6 @@ media-capabilities-title = Capacidatz multimedia
 # List all the entries of the database.
 media-capabilities-enumerate = Enumerar la base de datos
 
-## Codec support table
-
-
-## Media Content Decryption Modules (CDM)
-## See EME Spec for more explanation for following technical terms
-## https://w3c.github.io/encrypted-media/
-
-
 ##
 
 intl-title = Internacionalización & localización
@@ -331,18 +323,3 @@ touch-warning = a dentrada tactil asincrona ye desactivada porque i ha una prefe
 policies-inactive = Inactivo
 policies-active = Activo
 policies-error = Eror
-
-## Printing section
-
-
-## Remote Settings sections
-
-
-## Normandy sections
-
-
-## Pointing devices
-
-
-## Content Analysis (DLP)
-

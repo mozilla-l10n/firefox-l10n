@@ -12,9 +12,6 @@ about-webrtc-document-title = WebRTC आंतरिक
 # translated. This string is used as a title for a file save dialog box.
 about-webrtc-save-page-dialog-title = वेबआरटीसी: के बारे में सहेजे जैसे
 
-## These labels are for a disclosure which contains the information for closed PeerConnection sections
-
-
 ## AEC is an abbreviation for Acoustic Echo Cancellation.
 
 about-webrtc-aec-logging-msg-label = AEC लागिंग
@@ -107,11 +104,6 @@ about-webrtc-log-section-hide-msg = लॉग छुपाएँ
 about-webrtc-connection-open = [ { $browser-id } | { $id } ] { $url } { $now }
 about-webrtc-connection-closed = [ { $browser-id } | { $id } ] { $url } (बंद) { $now }
 
-## These are used to indicate what direction media is flowing.
-## Variables:
-##  $codecs - a list of media codecs
-
-
 ##
 
 about-webrtc-local-candidate = स्थानीय उम्मीदवार
@@ -143,20 +135,6 @@ about-webrtc-current-framerate-label = फ्रेम रेट
 about-webrtc-width-px = चौड़ाई (px)
 about-webrtc-height-px = ऊंचाई (px)
 about-webrtc-estimated-framerate = अनुमानित फ्रेमरेट
-
-## SSRCs are identifiers that represent endpoints in an RTP stream
-
-
-## These are displayed on the button that shows or hides the
-## PeerConnection configuration disclosure
-
-
-##
-
-
-## These are displayed on the button that shows or hides the
-## user modified configuration disclosure
-
 
 ##
 
@@ -209,14 +187,3 @@ about-webrtc-sdp-set-at-timestamp-remote = दूरस्थ SDP को टा�
 #  $timestamp (Number) - The Unix Epoch time at which the SDP was set.
 #  $relative-timestamp (Number) - The timestamp relative to the timestamp of the earliest received SDP.
 about-webrtc-sdp-set-timestamp = टाइमस्टैम्प { NUMBER($timestamp, useGrouping: "false") } (+ { $relative-timestamp } ms)
-
-## These are displayed on the button that shows or hides the SDP information disclosure
-
-
-## These are displayed on the button that shows or hides the Media Context information disclosure.
-## The Media Context is the set of preferences and detected capabilities that informs
-## the negotiated CODEC settings.
-
-
-##
-

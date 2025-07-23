@@ -8,9 +8,6 @@
 devmgr-header-value =
     .label = Value
 
-## Strings used for load device
-
-
 ## Token Manager
 
 devinfo-desc =

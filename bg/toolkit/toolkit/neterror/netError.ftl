@@ -54,11 +54,6 @@ neterror-dns-not-found-offline-hint-header = <strong>Какво можете д�
 
 neterror-dns-not-found-trr-unknown-host2 = Този сайт не беше намерен от { $trrDomain }.
 
-## Native fallback specific messages
-## Variables:
-##   $trrDomain (String) - Hostname of the DNS over HTTPS server that is currently in use.
-
-
 ##
 
 neterror-file-not-found-filename = Проверете името на файла за регистъра на буквите или други технически грешки.

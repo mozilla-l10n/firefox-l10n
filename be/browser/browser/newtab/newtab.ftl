@@ -543,9 +543,6 @@ newtab-custom-wallpaper-title = Карыстальніцкія шпалеры т
 newtab-custom-wallpaper-subtitle = Зацягніце свае шпалеры або выберыце ўласны колер, каб зрабіць { -brand-product-name } сваім.
 newtab-custom-wallpaper-cta = Паспрабаваць
 
-## Strings for new user activation custom wallpaper highlight
-
-
 ## Strings for download mobile highlight
 
 newtab-download-mobile-highlight-title = Сцягнуць { -brand-product-name } для мабільных прылад

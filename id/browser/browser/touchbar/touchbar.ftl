@@ -32,6 +32,3 @@ search-history = Riwayat
 search-opentabs = Tab Terbuka
 search-tags = Label
 search-titles = Judul
-
-##
-

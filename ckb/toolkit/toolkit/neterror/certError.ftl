@@ -69,10 +69,6 @@ open-in-new-window-for-csp-or-xfo-error = لە پەنجەرەیەکی نوێ ب�
 #   $hostname (string) - Hostname of the website blocked by csp or xfo error.
 csp-xfo-blocked-long-desc = بۆ پاراستنی سەلامەتیت، { $hostname } ڕێگە نادات { -brand-short-name } ئەو پەڕەیە نیشان بدات ئەگەر ماڵەپەڕێکی تر لەناو خۆی دانابێت. بۆ بینینی ئەم پەڕەیە، تۆ پێویستە لە پەنجەرەیەکی تازەدا بیکەیتەوە.
 
-## Variables:
-##   $hostname (string) - Hostname of the website with cert error.
-
-
 ## Messages used for certificate error titles
 
 connectionFailure-title = نەتوانرا پەیوەندی بکا
@@ -110,10 +106,3 @@ networkProtocolError-title = هەڵەی پرۆتۆکۆڵی ڕایەڵە
 nssBadCert-title = ئاگاداربە: کێشەیەکی مەترسیدار لە پێشە
 nssBadCert-sts-title = پەیوەندی مەبەستە: کێشەی مەترسیداری پاراستن هەیە
 certerror-mitm-title = نەرمەکاڵا ڕێگا نادات { -brand-short-name } بە سەلامەتی پەیوەندی بەم ماڵپەڕەوە بکەیت.
-
-## Felt Privacy V1 Strings
-
-
-## Variables:
-##   $hostname (String) - Hostname of the website to which the user was trying to connect.
-

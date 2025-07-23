@@ -317,6 +317,3 @@ about-webrtc-hide-msg-sdp = დაიმალოს SDP
 about-webrtc-media-context-show-msg = მულტიმედიური გარემოს ჩვენება
 about-webrtc-media-context-hide-msg = მულტიმედიური გარემოს დამალვა
 about-webrtc-media-context-heading = მულტიმედიური გარემო
-
-##
-

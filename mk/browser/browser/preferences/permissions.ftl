@@ -55,48 +55,10 @@ permissions-capabilities-listitem-allow-session =
 permissions-invalid-uri-title = Внесено е погрешно име на домаќин
 permissions-invalid-uri-label = Внесете точно име на домаќин
 
-## Exceptions - Tracking Protection
-
-
-## Exceptions - Cookies
-
-
-## Exceptions - HTTPS-Only Mode
-
-
 ## Exceptions - Pop-ups
 
 permissions-exceptions-popup-desc = Можете да одредите кои мрежни места смеат да отвораат скокачки прозорци. Внесете ја точната адреса за која сакате да дозволите и кликнете на „Дозволи“.
 
-## Exceptions - Saved Logins
-
-
-## Exceptions - Saved Passwords
-
-
 ## Exceptions - Add-ons
 
 permissions-exceptions-addons-desc = Можете да одредите од кои мрежни места смее да се инсталираат додатоци. Внесете ја точната адреса за коja сакате да дозволите и кликнете на „Дозволи“.
-
-## Site Permissions - Autoplay
-
-
-## Site Permissions - Notifications
-
-
-## Site Permissions - Location
-
-
-## Site Permissions - Virtual Reality
-
-
-## Site Permissions - Camera
-
-
-## Site Permissions - Microphone
-
-
-## Site Permissions - Speaker
-##
-## "Speaker" refers to an audio output device.
-

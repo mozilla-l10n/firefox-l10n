@@ -17,27 +17,7 @@ safeb-blocked-phishing-page-error-desc-override = <span data-l10n-name='sitename
 ## Variables
 ##  $sitename (string) - Domain name for the blocked page
 
-
-## Variables
-##  $sitename (string) - Domain name for the blocked page
-
-
-## Variables
-##  $sitename (string) - Domain name for the blocked page
-
-
-## Variables
-##  $sitename (string) - Domain name for the blocked page
-
 safeb-blocked-unwanted-page-error-desc-no-override = <span data-l10n-name='sitename'>{ $sitename }</span>ئەم ماڵپەڕە <a data-l10n-name='error_desc_link'>ڕاپۆرت کراوە کە نەرمەواڵەی ئازاربەخشی تێدایە</a>.
-
-## Variables
-##  $sitename (string) - Domain name for the blocked page
-
-
-## Variables
-##  $sitename (string) - Domain name for the blocked page
-
 
 ## Variables
 ##  $sitename (string) - Domain name for the blocked page

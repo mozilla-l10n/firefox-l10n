@@ -12,6 +12,3 @@ download-ui-cancel-downloads-ok =
         [1] Ibabawi diay 1 a Panagyulyulog
        *[other] Ibabawi diay { $downloadsCount } a Panagyulyulog
     }
-
-##
-

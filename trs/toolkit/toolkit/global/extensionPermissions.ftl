@@ -29,16 +29,3 @@ webext-perms-description-tabs = Gatū riña nej rakïj ñanj huā ‘iaj navegad
 webext-perms-description-tabHide = Gachī huì' nī dingen' rakïj ñanj aché nu'
 webext-perms-description-topSites = Gatū riña sa gahuin nga gaché nunt
 webext-perms-description-webNavigation = Gatū riña sun ‘iaj navegador nga aché nunt
-
-## The userScripts permission includes an additional explanation that is
-## displayed prominently near the usual permission description.
-
-
-## Short form to be used in lists or in a string (`webext-perms-description-data-some`)
-## that formats some of the data collection permissions below using `Intl.ListFormat`.
-##
-## This is used when the data collection permissions are required.
-
-
-## Long form to be used in `about:addons` when these data collection permissions are optional.
-

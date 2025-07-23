@@ -38,7 +38,3 @@ bookmark-selected-tabs =
 move-to-new-window =
     .label = Pinah u Tingkap Barô
     .accesskey = W
-
-## Variables:
-##  $tabCount (Number): the number of tabs that are affected by the action.
-

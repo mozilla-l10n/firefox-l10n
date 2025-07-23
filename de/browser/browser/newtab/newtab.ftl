@@ -542,9 +542,6 @@ newtab-custom-wallpaper-title = Hier gibt es benutzerdefinierte Hintergrundbilde
 newtab-custom-wallpaper-subtitle = Laden Sie Ihr eigenes Hintergrundbild hoch oder wählen Sie eine benutzerdefinierte Farbe, um { -brand-product-name } für Sie anzupassen.
 newtab-custom-wallpaper-cta = Ausprobieren
 
-## Strings for new user activation custom wallpaper highlight
-
-
 ## Strings for download mobile highlight
 
 newtab-download-mobile-highlight-title = { -brand-product-name } für Mobilgeräte herunterladen

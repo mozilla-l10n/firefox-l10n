@@ -60,18 +60,12 @@ perftools-button-add-directory = Dodaj mapu
 perftools-button-remove-directory = Ukloni odabrano
 perftools-button-edit-settings = Uredi postavke …
 
-## More actions menu
-
-
 ## These messages are descriptions of the threads that can be enabled for the profiler.
 
 perftools-thread-compositor =
     .title = Spaja različite obojene elemente na stranici
 perftools-thread-dom-worker =
     .title = Ovo upravlja web workerima i service workerima
-
-##
-
 
 ## Onboarding UI labels. These labels are displayed in the new performance panel UI, when
 ## devtools.performance.new-panel-onboarding preference is true.
@@ -106,6 +100,3 @@ perftools-presets-power-description = Zadana postavka za istraživanje grešaka 
 perftools-presets-debug-label = Otklanjanje grešaka
 perftools-presets-debug-description = Preporučene postavke za otklanjanje grešaka u { -brand-shorter-name(case: "loc") }. Visoko opterećenje, nemoj koristiti za rad koji zahtijeva performanse, već za fokusiranje na razumijevanje ponašanja preglednika.
 perftools-presets-custom-label = Prilagođeno
-
-##
-

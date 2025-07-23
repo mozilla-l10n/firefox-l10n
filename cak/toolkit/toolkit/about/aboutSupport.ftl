@@ -3,7 +3,7 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 page-title = Etamab'äl richin yesol taq k'ayewal
-page-subtitle =   Pa re ruxaq re' k'o samajel etamab'äl chupam, ri nito'on we nawajo' nasöl jun k'ayewal. Richin nawïl kitzijol relik taq k'utunïk chi rij { -brand-short-name }, kab'etz'eton pa qa <a data-l10n-name="support-link">ruxaq k'amaya'l richin to'ïk</a>.
+page-subtitle = { "  " }Pa re ruxaq re' k'o samajel etamab'äl chupam, ri nito'on we nawajo' nasöl jun k'ayewal. Richin nawïl kitzijol relik taq k'utunïk chi rij { -brand-short-name }, kab'etz'eton pa qa <a data-l10n-name="support-link">ruxaq k'amaya'l richin to'ïk</a>.
 crashes-title = Rutzijol taq sachoj
 crashes-id = Nimaläj rub'i' ri rutzijol
 crashes-send-date = Taqon
@@ -165,14 +165,6 @@ media-device-latency = Rub'anikil k'o wi
 media-capabilities-title = Kisamaj K'oxom
 # List all the entries of the database.
 media-capabilities-enumerate = Ticholajïx cholxe'el
-
-## Codec support table
-
-
-## Media Content Decryption Modules (CDM)
-## See EME Spec for more explanation for following technical terms
-## https://w3c.github.io/encrypted-media/
-
 
 ##
 
@@ -376,9 +368,6 @@ support-printing-modified-settings = Kinuk'ulem jalon taq tz'ajb'anïk
 support-printing-prefs-name = B'i'aj
 support-printing-prefs-value = Retal
 
-## Remote Settings sections
-
-
 ## Normandy sections
 
 support-remote-experiments-title = Näj Solna'oj
@@ -388,9 +377,3 @@ support-remote-experiments-see-about-studies = Titz'et <a data-l10n-name="suppor
 support-remote-features-title = Näj taq B'anikil
 support-remote-features-name = B'i'aj
 support-remote-features-status = B'anikil
-
-## Pointing devices
-
-
-## Content Analysis (DLP)
-

@@ -45,9 +45,3 @@ about-networking-rcwn-avg-long = Mediâ ye'èe
 about-networking-rcwn-std-dev-long = Desbiasiûn hua niña ye'èe
 about-networking-rcwn-cache-slow = Sa nahia naj kachê
 about-networking-rcwn-cache-not-slow = Sa nitaj si nahia naj kachê
-
-## Link is intended as "network link"
-
-
-##
-

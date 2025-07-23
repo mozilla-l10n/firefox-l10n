@@ -8,6 +8,3 @@
 
 # Short form for seconds
 download-utils-short-seconds = s
-
-##
-

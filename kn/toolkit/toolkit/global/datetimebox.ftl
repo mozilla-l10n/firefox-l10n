@@ -9,17 +9,3 @@ datetime-year-placeholder = ವವವವ
 datetime-month-placeholder = ತಿತಿ
 datetime-day-placeholder = ದಿದಿ
 datetime-time-placeholder = --
-
-## Field labels for input type=date
-
-
-## Field labels for input type=time
-
-
-## Calendar button for input type=date
-
-
-# This label is used by screenreaders and other assistive technology
-# to indicate the purpose of a toggle button inside of the <input type="date">
-# field that opens/closes a date picker calendar dialog
-

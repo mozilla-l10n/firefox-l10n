@@ -32,6 +32,3 @@ search-history = Historija
 search-opentabs = Wočinjene rajtarki
 search-tags = Znački
 search-titles = Titule
-
-##
-

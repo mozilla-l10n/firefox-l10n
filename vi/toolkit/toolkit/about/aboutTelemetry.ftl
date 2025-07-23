@@ -37,7 +37,7 @@ about-telemetry-addon-details-section = Chi tiết về các tiện ích
 about-telemetry-late-writes-section = Ghi trễ
 about-telemetry-raw-payload-section = Raw Payload
 about-telemetry-raw = JSON thô
-about-telemetry-full-sql-warning =    GHI CHÚ: Trình gỡ rối SQL chậm đã bật. Chuỗi SQL Đầy đủ có thể hiện ở dưới nhưng chúng không được gửi cho Telemetry. 
+about-telemetry-full-sql-warning = { "   " }GHI CHÚ: Trình gỡ rối SQL chậm đã bật. Chuỗi SQL Đầy đủ có thể hiện ở dưới nhưng chúng không được gửi cho Telemetry.{ " " }
 about-telemetry-fetch-stack-symbols = Lấy tên hàm cho ngăn xếp
 about-telemetry-hide-stack-symbols = Hiển thị dữ liệu ngăn xếp thô
 # Selects the correct release version

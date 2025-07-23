@@ -36,12 +36,3 @@ pocket-panel-signup-signup-firefox = { -brand-product-name } ಜೊತೆ ಸೈ
 pocket-panel-signup-tagline = ಯಾವುದೇ ಸಾಧನದಲ್ಲಿ, ಯಾವುದೇ ಸಮಯದಲ್ಲಿ { -pocket-brand-name } ನಲ್ಲಿ ವೀಕ್ಷಿಸಲು { -brand-product-name } ನಿಂದ ಲೇಖನಗಳು ಮತ್ತು ವೀಡಿಯೊಗಳನ್ನು ಉಳಿಸಿ.
 pocket-panel-signup-tagline-story-one = { -brand-product-name } ನಿಂದ ಯಾವುದೇ ಲೇಖನ, ವೀಡಿಯೊ ಅಥವಾ ಪುಟವನ್ನು ಉಳಿಸಲು { -pocket-brand-name } ಬಟನ್ ಅನ್ನು ಕ್ಲಿಕ್ ಮಾಡಿ.
 pocket-panel-signup-tagline-story-two = ಯಾವುದೇ ಸಾಧನದಲ್ಲಿ, ಯಾವುದೇ ಸಮಯದಲ್ಲಿ { -pocket-brand-name } ನಲ್ಲಿ ವೀಕ್ಷಿಸಿ.
-
-## about:pocket-home panel
-
-
-## Pocket panel header component
-
-
-## Pocket panel buttons
-

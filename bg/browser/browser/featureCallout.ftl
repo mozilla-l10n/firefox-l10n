@@ -63,18 +63,6 @@ split-dismiss-button-show-fewer-option =
 split-dismiss-button-manage-settings-option =
     .label = Настройки
 
-## Login Status Advisory Callout (points to the account icon)
-
-
-## Bookmarks toolbar callout strings
-
-
-## Perplexity callout strings
-
-
-## Account Adoption Passwords callout strings
-
-
 ## Sidebar Strings
 
 sidebar-button-callout-title = Заглавия на разделите в страничната лента
@@ -86,15 +74,6 @@ vertical-tabs-callout-1-subtitle = Изпробвайте вертикалнот
 vertical-tabs-callout-1-cta-button = Изпробвайте вертикалните раздели
 vertical-tabs-callout-2-cta-button = Опитайте сега
 vertical-tabs-callout-2-title = Дръжте ли много отворени раздели? Опитайте с вертикални раздели.
-
-## Sidebar Vertical Tabs Pinning Strings
-
-
-## Pinning Tabs Strings
-
-
-## Sidebar Onboarding Strings
-
 
 ## Sidebar Callout Survey Strings
 

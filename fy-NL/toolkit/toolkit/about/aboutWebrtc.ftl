@@ -317,6 +317,3 @@ about-webrtc-hide-msg-sdp = SDP ferstopje
 about-webrtc-media-context-show-msg = Mediakontekst toane
 about-webrtc-media-context-hide-msg = Mediakontekst ferstopje
 about-webrtc-media-context-heading = Mediakontekst
-
-##
-

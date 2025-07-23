@@ -4,16 +4,6 @@
 
 xpinstall-prompt = { -brand-short-name } ने एहि साइट केँ अहाँक कंप्यूटर पर साफ्टवेयर संस्थापनक लेल अहाँसँ पूछब सँ रोकए अछि.
 
-## Variables:
-##   $host (String): The hostname of the site the add-on is being installed from.
-
-
-##
-
-
-# These messages are shown when a website invokes navigator.requestMIDIAccess.
-
-
 ##
 
 xpinstall-disabled-locked = साफ्टवेयर संस्थापन अहाँक सिस्टम प्रशासक क द्वारा निष्क्रिय कए देल गेल अछि.

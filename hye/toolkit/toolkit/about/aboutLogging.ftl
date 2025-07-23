@@ -8,13 +8,3 @@ about-logging-set-log-file = Կայել մատեանի նիշքը
 about-logging-set-log-modules = Սահմանել գրանցամատեանի հանգուցակները
 about-logging-start-logging = Սկսել գրանցումը
 about-logging-stop-logging = Կանգնեցնել գրանցումը
-
-## Logging presets
-
-
-##
-
-
-## The upload interface is shown only with the preference toolkit.aboutLogging.uploadProfileToCloud
-## set to true. It is false by default, except on Android.
-

@@ -7,10 +7,6 @@
 cert-error-intro = { $hostname } inatumia cheti batili cha usalama
 cert-error-trust-unknown-issuer-intro = Mtu anaweza kuwa anajaribu kuiga tovuti na haufai kuendelea.
 
-## Variables:
-##   $hostname (string) - Hostname of the website with cert error.
-
-
 ## Messages used for certificate error titles
 
 connectionFailure-title = Imeshindwa kuunganisha
@@ -30,10 +26,3 @@ proxyResolveFailure-title = Imeshindwa kupata seva mbadala
 redirectLoop-title = Ukurasa huu hauelekezi tena vizuri
 unknownSocketType-title = Mwitikio usiotarajiwa kutoka kwa seva
 corruptedContentError-title = Kosa la Kuharibika kwa Maudhui
-
-## Felt Privacy V1 Strings
-
-
-## Variables:
-##   $hostname (String) - Hostname of the website to which the user was trying to connect.
-

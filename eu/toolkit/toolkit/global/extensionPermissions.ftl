@@ -48,6 +48,3 @@ webext-perms-extra-warning-userScripts-short = Egiaztatu gabeko scriptek segurta
 
 webext-perms-description-data-short-bookmarksInfo = laster-markak
 webext-perms-description-data-short-locationInfo = kokapena
-
-## Long form to be used in `about:addons` when these data collection permissions are optional.
-

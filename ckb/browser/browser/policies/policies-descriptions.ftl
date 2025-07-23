@@ -21,9 +21,6 @@ policy-DisableBuiltinPDFViewer = PDF.js بنەڕەت ناچالاک بکە، ک�
 policy-DisableDeveloperTools = دەستگەیشتن بە توڵامرازی گەشەپێدەر بلۆک بکە.
 policy-DisablePrivateBrowsing = گەڕانی تایبەت ناچالاک بکە.
 
-## Do not translate "SameSite", it's the name of a cookie attribute.
-
-
 ##
 
 policy-NewTabPage = چالاک وناچالاک کردنی پەڕەی بازدەری نوێ.

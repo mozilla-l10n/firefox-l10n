@@ -51,18 +51,12 @@ permissions-capabilities-listitem-allow-session =
 permissions-invalid-uri-title = Nama Hos Tidak Sah
 permissions-invalid-uri-label = Sila masukkan nama hos yang sah
 
-## Exceptions - Tracking Protection
-
-
 ## Exceptions - Cookies
 
 permissions-exceptions-cookie-window2 =
     .title = Pengecualian - Kuki dan Data Laman
     .style = { permissions-window2.style }
 permissions-exceptions-cookie-desc = Anda boleh tentukan laman web yang sentiasa atau tidak akan dizinkan menggunakan kuki dan data laman.  Taip alamat sebenar laman yang anda mahu urus dan kemudian klik Sekat, Izin untuk Sesi, atau Izinkan.
-
-## Exceptions - HTTPS-Only Mode
-
 
 ## Exceptions - Pop-ups
 
@@ -78,18 +72,12 @@ permissions-exceptions-saved-logins-window2 =
     .style = { permissions-window2.style }
 permissions-exceptions-saved-logins-desc = Log masuk ke laman berikut tidak akan disimpan
 
-## Exceptions - Saved Passwords
-
-
 ## Exceptions - Add-ons
 
 permissions-exceptions-addons-window2 =
     .title = Laman Web Diizinkan - Pemasangan Add-ons
     .style = { permissions-window2.style }
 permissions-exceptions-addons-desc = Anda boleh tentukan laman web yang diizinkan memasang add-ons. Taip alamat laman yang tepat untuk anda izinkan dan kemudian klik Izinkan.
-
-## Site Permissions - Autoplay
-
 
 ## Site Permissions - Notifications
 
@@ -111,9 +99,6 @@ permissions-site-location-disable-label =
     .label = Sekat permintaan baru yang meminta akses lokasi
 permissions-site-location-disable-desc = Ini akan menghalang mana-mana laman web yang tidak disenaraikan di atas daripada meminta izin untuk mengakses lokasi. Menyekat notifikasi boleh memecahkan beberapa ciri laman web.
 
-## Site Permissions - Virtual Reality
-
-
 ## Site Permissions - Camera
 
 permissions-site-camera-window2 =
@@ -133,8 +118,3 @@ permissions-site-microphone-desc = Laman web berikut meminta izin untuk mengakse
 permissions-site-microphone-disable-label =
     .label = Sekat permintaan baru yang mahu mengakses mikrofon
 permissions-site-microphone-disable-desc = Ini akan menghalang mana-mana laman web yang tidak disenaraikan di atas daripada meminta izin untuk mengakses mikrofon. Menyekat akses mikrofon boleh memecahkan beberapa ciri laman web.
-
-## Site Permissions - Speaker
-##
-## "Speaker" refers to an audio output device.
-

@@ -28,16 +28,3 @@ webext-perms-description-tabs = Nong dirica matino pa layeny
 webext-perms-description-tabHide = Kan ki nyut dirica matino me layent
 webext-perms-description-topSites = Nong gin mukato me yeny
 webext-perms-description-webNavigation = Nong tic pa layeny ikare me wot
-
-## The userScripts permission includes an additional explanation that is
-## displayed prominently near the usual permission description.
-
-
-## Short form to be used in lists or in a string (`webext-perms-description-data-some`)
-## that formats some of the data collection permissions below using `Intl.ListFormat`.
-##
-## This is used when the data collection permissions are required.
-
-
-## Long form to be used in `about:addons` when these data collection permissions are optional.
-

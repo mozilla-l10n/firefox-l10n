@@ -116,14 +116,6 @@ media-device-name = Nome
 media-device-group = Grupu
 media-device-channels = Canales
 
-## Codec support table
-
-
-## Media Content Decryption Modules (CDM)
-## See EME Spec for more explanation for following technical terms
-## https://w3c.github.io/encrypted-media/
-
-
 ##
 
 intl-title = Internacionalización y traducción
@@ -213,10 +205,6 @@ drag-enabled = arrastre de la barra de desplazamientu activáu
 keyboard-enabled = tecláu activáu
 autoscroll-enabled = desplazamientu automáticu activáu
 
-## Variables
-## $preferenceKey (string) - String ID of preference
-
-
 ## Strings representing the status of the Enterprise Policies engine.
 
 policies-error = Fallu
@@ -229,9 +217,6 @@ support-printing-modified-settings = Axustes d'imprentación modificaos
 support-printing-prefs-name = Nome
 support-printing-prefs-value = Valor
 
-## Remote Settings sections
-
-
 ## Normandy sections
 
 support-remote-experiments-title = Esperimentos remotos
@@ -240,9 +225,3 @@ support-remote-experiments-branch = Rama esperimental
 support-remote-features-title = Carauterístiques remotes
 support-remote-features-name = Nome
 support-remote-features-status = Estáu
-
-## Pointing devices
-
-
-## Content Analysis (DLP)
-

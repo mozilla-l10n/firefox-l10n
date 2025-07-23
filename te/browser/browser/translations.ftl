@@ -3,9 +3,6 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 
-## Options in the Firefox Translations settings.
-
-
 ## The translation panel appears from the url bar, and this view is the default
 ## translation view.
 
@@ -14,16 +11,6 @@ translations-panel-translate-cancel =
 translations-panel-learn-more-link = ఇంకా తెలుసుకోండి
 translations-panel-error-load-languages-hint-button =
     .label = మళ్ళీ ప్రయత్నించు
-
-## Each label is followed, on a new line, by a dropdown list of language names.
-## If this structure is problematic for your locale, an alternative way is to
-## translate them as `Source language:` and `Target language:`
-
-
-## The translation panel appears from the url bar, and this view is the "restore" view
-## that lets a user restore a page to the original language, or translate into another
-## language.
-
 
 ## Firefox Translations language management in about:preferences.
 

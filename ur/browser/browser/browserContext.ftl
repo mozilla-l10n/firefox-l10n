@@ -78,9 +78,6 @@ toolbar-button-fxaccount =
     .label = { -fxaccount-brand-name }
     .tooltiptext = { -fxaccount-brand-name }
 
-## Account toolbar Button
-
-
 ## Save Page
 
 main-context-menu-page-save =

@@ -15,15 +15,6 @@ autofill-manage-edit-button = Andam
 
 autofill-address-given-name = Nan Phoen
 
-## address-level-3 (Sublocality) names
-
-
-## address-level-2 names
-
-
-## address-level-1 names
-
-
 ## Postal code name types
 
 autofill-address-zip = Kode Pos
@@ -32,6 +23,3 @@ autofill-address-zip = Kode Pos
 
 autofill-cancel-button = Bateuë
 autofill-save-button = Keubah
-
-## These are brand names and should only be translated when a locale-specific name for that brand is in common use
-

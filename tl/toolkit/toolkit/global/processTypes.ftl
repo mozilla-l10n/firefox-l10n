@@ -34,7 +34,3 @@ process-type-gpu = GPU
 process-type-socket = Socket
 # process used to decode media
 process-type-rdd = RDD
-
-##
-## Other
-

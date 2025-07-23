@@ -106,9 +106,6 @@ permissions-exceptions-saved-logins-window2 =
     .style = { permissions-window2.style }
 permissions-exceptions-saved-logins-desc = Prisijungimai prie šių svetainių nebus įrašomi
 
-## Exceptions - Saved Passwords
-
-
 ## Exceptions - Add-ons
 
 permissions-exceptions-addons-window2 =
@@ -172,8 +169,3 @@ permissions-site-microphone-desc = Šios svetainės prašo leidimo naudoti jūs�
 permissions-site-microphone-disable-label =
     .label = Blokuoti naujus mikrofono naudojimo prašymus
 permissions-site-microphone-disable-desc = Tai neleis svetainėms, neišvardintoms aukščiau, prašyti leidimo naudoti jūsų mikrofoną. Mikrofono naudojimo blokavimas gali sutrikdyti svetainių funkcionalumą.
-
-## Site Permissions - Speaker
-##
-## "Speaker" refers to an audio output device.
-

@@ -32,6 +32,3 @@ search-history = היסטוריה
 search-opentabs = לשוניות פתוחות
 search-tags = תגיות
 search-titles = כותרות
-
-##
-

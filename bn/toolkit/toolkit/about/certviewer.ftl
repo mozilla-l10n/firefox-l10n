@@ -73,9 +73,3 @@ certificate-viewer-boolean =
 
 certificate-viewer-export = রপ্তানি করুন
     .download = { $fileName }.pem
-
-##
-
-
-## Labels for tabs displayed in stand-alone about:certificate page
-

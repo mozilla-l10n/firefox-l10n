@@ -134,27 +134,16 @@ mr2022-onboarding-easy-setup-primary-button-label = I-save at magpatuloy
 # Import action checkbox label used on new user onboarding first screen
 mr2022-onboarding-easy-setup-import-checkbox-label = Mag-import mula sa dati mong browser
 
-## MR2022 New User Pin Firefox screen strings
-
-
 ## MR2022 Existing User Pin Firefox Screen Strings
 
 # Title used on multistage onboarding page for existing users when Firefox is not pinned
 mr2022-onboarding-existing-pin-header = Salamat sa pagmamahal mo sa { -brand-product-name }
-
-## MR2022 New User Set Default screen strings
-
 
 ## MR2022 Get Started screen strings.
 ## These strings will be used on the welcome page
 ## when Firefox is already set to default and pinned.
 
 mr2022-onboarding-get-started-primary-button-label = I-set up ng ilang segundo
-
-## MR2022 Get Started screen strings.
-## These strings will be used on the welcome page
-## when Firefox is already set to default and pinned.
-
 
 ## If your language uses grammatical genders, in the description for the
 ## colorway feel free to switch from "You are a X. You…" (e.g. "You are a
@@ -165,50 +154,3 @@ mr2022-onboarding-colorway-label-default = Default
 mr2022-onboarding-colorway-tooltip-default2 =
     .title = Kasalukuyang mga kulay ng { -brand-short-name }
 mr2022-onboarding-colorway-label-playmaker = Playmaker
-
-## MR2022 Multistage Mobile Download screen strings
-
-
-## MR2022 Upgrade Dialog screens
-## Pin private window screen shown only for users who don't have Firefox private pinned
-
-
-## MR2022 Privacy Segmentation screen strings
-
-
-## MR2022 Multistage Gratitude screen strings
-
-
-## Onboarding spotlight for infrequent users
-
-
-## MR2022 Illustration alt tags
-## Descriptive tags for illustrations used by screen readers and other assistive tech
-
-
-## Device migration onboarding
-
-
-## Add-ons Picker screen
-
-
-## The following screens have been updated to use security and privacy focused strings:
-
-
-## New user time and familiarity survey strings
-
-
-## UI strings for the sidebar and vertical tabs
-
-
-## New user onboarding checklist
-
-
-## Tab Groups feature onboarding strings
-
-
-## Multi Profiles feature onboarding messages
-
-
-## Desktop to Mobile Adoption feature callout strings
-

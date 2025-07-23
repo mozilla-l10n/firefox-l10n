@@ -32,6 +32,3 @@ search-history = Chronologia
 search-opentabs = Schedas aperte
 search-tags = Etiquettas
 search-titles = Titulos
-
-##
-

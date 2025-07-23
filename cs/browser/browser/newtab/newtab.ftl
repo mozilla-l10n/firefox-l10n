@@ -553,9 +553,6 @@ newtab-custom-wallpaper-subtitle =
     }
 newtab-custom-wallpaper-cta = Vyzkoušejte ho
 
-## Strings for new user activation custom wallpaper highlight
-
-
 ## Strings for download mobile highlight
 
 newtab-download-mobile-highlight-title =

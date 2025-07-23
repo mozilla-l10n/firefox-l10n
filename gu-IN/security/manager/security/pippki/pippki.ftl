@@ -35,9 +35,6 @@ download-cert-view-cert =
     .label = જુઓ
 download-cert-view-text = CA પ્રમાણપત્ર ચકાસો
 
-## Client Authorization Ask dialog
-
-
 ## Client Authentication Ask dialog
 
 client-auth-window =
@@ -82,6 +79,3 @@ set-password-repeat-backup-pw =
 set-password-reminder =
     મહત્વનુઃ  જો તમે પ્રમાણપત્ર બેકઅપ પાસવર્ડ ભૂલી જશો તો ફરી બેકઅપ ફાઇલોને ખોલી શકશો નહિ.
     તેમને સુરક્ષિત જગ્યાએ નોંધી રાખો.
-
-## Protected authentication alert
-

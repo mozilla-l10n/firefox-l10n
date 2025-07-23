@@ -29,10 +29,6 @@ fp-certerror-return-to-previous-page-recommended-button = തിരികെ (�
 #   $error (string) - NSS error code string that specifies type of cert error. e.g. unknown issuer, invalid cert, etc.
 fp-cert-error-code = പിഴവു് സങ്കേതം: { $error }
 
-## Variables:
-##   $hostname (string) - Hostname of the website with cert error.
-
-
 ## Messages used for certificate error titles
 
 connectionFailure-title = കണക്ട്‌ ചെയ്യുവാന്‍ സാധിച്ചില്ല

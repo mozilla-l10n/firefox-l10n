@@ -172,14 +172,6 @@ media-codec-support-info = Codec Support Information
 # List all the entries of the database.
 media-capabilities-enumerate = Enumerate database
 
-## Codec support table
-
-
-## Media Content Decryption Modules (CDM)
-## See EME Spec for more explanation for following technical terms
-## https://w3c.github.io/encrypted-media/
-
-
 ##
 
 intl-title = Eadar-nàiseantachadh ⁊ ionadaileadh
@@ -397,9 +389,6 @@ support-printing-modified-settings = Chaidh roghainnean a’ chlò-bhualaidh ath
 support-printing-prefs-name = Ainm
 support-printing-prefs-value = Luach
 
-## Remote Settings sections
-
-
 ## Normandy sections
 
 support-remote-experiments-title = Deuchainnean cèine
@@ -409,9 +398,3 @@ support-remote-experiments-see-about-studies = See <a data-l10n-name="support-ab
 support-remote-features-title = Gleusan cèine
 support-remote-features-name = Ainm
 support-remote-features-status = Staid
-
-## Pointing devices
-
-
-## Content Analysis (DLP)
-

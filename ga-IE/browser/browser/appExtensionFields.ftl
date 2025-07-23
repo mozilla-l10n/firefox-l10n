@@ -9,10 +9,3 @@ extension-firefox-compact-light-name = Sorcha
 extension-firefox-compact-light-description = Téama a bhfuil scéim dathanna geala air.
 extension-firefox-compact-dark-name = Dorcha
 extension-firefox-compact-dark-description = Téama a bhfuil scéim dathanna dubha air.
-
-## Colorway Themes
-## These themes are variants of a colorway. The colorway is specified in the
-## $colorway-name variable.
-## Variables
-##   $colorway-name (String) The name of a colorway (e.g. Graffiti, Elemental).
-

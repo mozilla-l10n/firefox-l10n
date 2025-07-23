@@ -273,7 +273,9 @@ tabbrowser-manager-current-window-tab-group =
     .label = { $tabGroupName }
     .tooltiptext = { $tabGroupName } — aktuální okno
 
-## Tab Groups
+## Variables:
+##  $tabGroupName (String): The name of the tab group. Defaults to the value
+##                          of tab-group-name-default.
 
 tab-group-editor-title-create = Vytvořit skupinu panelů
 tab-group-editor-title-edit = Spravovat skupinu panelů
@@ -303,16 +305,12 @@ tab-group-editor-color-selector2-gray = Šedivý
     .title = Šedivý
 tab-group-editor-color-selector2-red = Červená
     .title = Červená
-# Variables:
-#  $tabGroupName (String): The name of the tab group. Defaults to the value
-#                          of tab-group-name-default.
 tab-group-description = { $tabGroupName } — Skupina panelů
 tab-context-unnamed-group =
     .label = Nepojmenovaná skupina
 tab-group-name-default = Nepojmenovaná skupina
 
-## Variables:
-##  $tabCount (Number): the number of tabs that are affected by the action.
+##
 
 tab-context-move-tab-to-new-group =
     .label =

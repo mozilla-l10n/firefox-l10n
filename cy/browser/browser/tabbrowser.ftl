@@ -276,7 +276,9 @@ tabbrowser-manager-current-window-tab-group =
     .label = { $tabGroupName }
     .tooltiptext = { $tabGroupName } — Y ffenestr gyfredol
 
-## Tab Groups
+## Variables:
+##  $tabGroupName (String): The name of the tab group. Defaults to the value
+##                          of tab-group-name-default.
 
 tab-group-editor-title-create = Creu grŵp tabiau
 tab-group-editor-title-edit = Rheoli grŵp tabiau
@@ -306,16 +308,12 @@ tab-group-editor-color-selector2-gray = Llwyd
     .title = Llwyd
 tab-group-editor-color-selector2-red = Coch
     .title = Coch
-# Variables:
-#  $tabGroupName (String): The name of the tab group. Defaults to the value
-#                          of tab-group-name-default.
 tab-group-description = { $tabGroupName } — Grŵp Tab
 tab-context-unnamed-group =
     .label = Grŵp heb ei enwi
 tab-group-name-default = Grŵp dienw
 
-## Variables:
-##  $tabCount (Number): the number of tabs that are affected by the action.
+##
 
 tab-context-move-tab-to-new-group =
     .label =

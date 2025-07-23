@@ -4,10 +4,6 @@
 
 xpinstall-prompt = { -brand-short-name } bu saytnıñ bilgisayarıñız üzerinde yazılım qurmañıznı soramasınıñ aldını aldı.
 
-## Variables:
-##   $host (String): The hostname of the site the add-on is being installed from.
-
-
 ##
 
 xpinstall-prompt-dont-allow =

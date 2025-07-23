@@ -79,10 +79,6 @@ fp-datetime = { DATETIME($datetime, month: "short", year: "numeric", day: "numer
 fp-learn-more-about-secure-connection-failures = Issin ugar ɣef tuqqniwin n tɣellist yeccḍen
 fp-learn-more-about-cert-issues = Issin ugar ɣef wanawen-a n wuguren n uselkin
 
-## Variables:
-##   $hostname (string) - Hostname of the website with cert error.
-
-
 ## Messages used for certificate error titles
 
 connectionFailure-title = Igguma ad iqqen

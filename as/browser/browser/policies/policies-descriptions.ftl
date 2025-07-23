@@ -12,9 +12,6 @@
 
 policy-Cookies = ৱেবছাইটবোৰক কুকীজ ছেট কৰাৰ অনুমতি দিয়ক বা নাচক কৰক।
 
-## Do not translate "SameSite", it's the name of a cookie attribute.
-
-
 ##
 
 policy-LocalFileLinks = নিৰ্দিষ্ট ৱেবছাইটসমূহক স্থানীয় ফাইললৈ লিংক কৰাৰ অনুমতি দিয়ক।

@@ -8,13 +8,3 @@ about-logging-set-log-file = Setează fișierul pentru jurnalizare
 about-logging-set-log-modules = Setează modulele de înregistrare în jurnal
 about-logging-start-logging = Pornește înregistrarea în jurnal
 about-logging-stop-logging = Oprește înregistrarea în jurnal
-
-## Logging presets
-
-
-##
-
-
-## The upload interface is shown only with the preference toolkit.aboutLogging.uploadProfileToCloud
-## set to true. It is false by default, except on Android.
-

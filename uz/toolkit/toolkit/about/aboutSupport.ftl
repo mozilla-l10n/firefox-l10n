@@ -75,27 +75,6 @@ clear-startup-cache-title = Ishga tushish keshini tozalashga harakat qiling
 
 audio-backend = Audio Server
 
-## Codec support table
-
-
-## Media Content Decryption Modules (CDM)
-## See EME Spec for more explanation for following technical terms
-## https://w3c.github.io/encrypted-media/
-
-
-##
-
-
-## Remote Debugging
-##
-## The Firefox remote protocol provides low-level debugging interfaces
-## used to inspect state and control execution of documents,
-## browser instrumentation, user interaction simulation,
-## and for subscribing to browser-internal events.
-##
-## See also https://firefox-source-docs.mozilla.org/remote/
-
-
 ##
 
 # Variables
@@ -197,21 +176,3 @@ zooming-enabled = silliq chimdib masshtabni oʻzgartirish yoqilgan
 
 wheel-warning = async g‘ildirakdan foydalanish mos kelmadyigan qo‘shimcha tufayli o‘chirib qo‘yildi: { $preferenceKey }
 touch-warning = async teginib kiritish mos kelmadyigan qo‘shimcha tufayli o‘chirib qo‘yildi: { $preferenceKey }
-
-## Strings representing the status of the Enterprise Policies engine.
-
-
-## Printing section
-
-
-## Remote Settings sections
-
-
-## Normandy sections
-
-
-## Pointing devices
-
-
-## Content Analysis (DLP)
-

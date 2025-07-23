@@ -186,11 +186,6 @@ media-codec-support-supported = ᱜᱚᱲᱚᱣᱟᱜ
 media-codec-support-unsupported = ᱵᱟᱝ ᱜᱚᱲᱚᱣᱟᱜ
 media-codec-support-error = ᱠᱳᱰᱮᱠ ᱜᱚᱲᱚ ᱵᱤᱵᱨᱚᱬ ᱵᱟᱹᱱᱩᱜ ᱠᱟᱫᱼᱟ ᱾ ᱢᱤᱫᱴᱟᱝ ᱢᱤᱰᱤᱭᱟ ᱨᱮᱫᱽ ᱮᱢ ᱪᱷᱚ ᱠᱟᱛᱮ ᱫᱩᱦᱲᱟ ᱪᱮᱥᱴᱟᱭ ᱢᱮ ᱾
 
-## Media Content Decryption Modules (CDM)
-## See EME Spec for more explanation for following technical terms
-## https://w3c.github.io/encrypted-media/
-
-
 ##
 
 intl-title = ᱡᱮᱜᱮᱛᱟᱹᱨᱤ ᱟᱨ ᱛᱚᱨᱡᱚᱢᱟ
@@ -398,9 +393,6 @@ support-printing-modified-settings = ᱵᱚᱫᱚᱞ ᱠᱟᱱ ᱪᱷᱟᱯᱟ �
 support-printing-prefs-name = ᱧᱩᱛᱩᱢ
 support-printing-prefs-value = ᱜᱚᱱᱚᱝ
 
-## Remote Settings sections
-
-
 ## Normandy sections
 
 support-remote-experiments-title = ᱨᱤᱢᱚᱴ ᱮᱠᱥᱯᱮᱨᱤᱢᱮᱱᱴᱠᱚ
@@ -417,6 +409,3 @@ pointing-device-mouse = ᱢᱟᱣᱥ
 pointing-device-touchscreen = ᱴᱚᱪ ᱥᱠᱨᱤᱱ
 pointing-device-pen-digitizer = ᱯᱚᱱ ᱰᱤᱡᱤᱴᱟᱭᱡᱚᱨ
 pointing-device-none = ᱩᱫᱩᱜ ᱥᱟᱫᱷᱚᱱᱠᱚ ᱵᱟᱹᱱᱩᱜ ᱠᱟᱫᱼᱟ
-
-## Content Analysis (DLP)
-

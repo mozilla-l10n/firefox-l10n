@@ -30,14 +30,6 @@ safeb-blocked-phishing-page-learn-more = भ्रामक साइटहर�
 ## Variables
 ##  $sitename (string) - Domain name for the blocked page
 
-
-## Variables
-##  $sitename (string) - Domain name for the blocked page
-
-
-## Variables
-##  $sitename (string) - Domain name for the blocked page
-
 safeb-blocked-unwanted-page-error-desc-override = <span data-l10n-name='sitename'>{ $sitename }</span> लाई <a data-l10n-name='error_desc_link'>दुर्भावनापूर्ण सफ्टवेयर भएको साइटको रुपमा रिपोर्ट गरिएको छ</a> । तपाईँले <a data-l10n-name='ignore_warning_link'>जोखिम लाई बेवास्ता गरेर</a> त्यो असुरक्षित साइटमा जानसक्नुहुन्छ ।
 safeb-blocked-unwanted-page-error-desc-no-override = <span data-l10n-name='sitename'>{ $sitename }</span> लाई <a data-l10n-name='error_desc_link'>दुर्भावनापूर्ण सफ्टवेयर भएको साइटको रुपमा रिपोर्ट गरिएको छ</a> ।
 

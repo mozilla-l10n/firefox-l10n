@@ -39,6 +39,3 @@ more-from-moz-mozilla-monitor-button = Obtegnair { -monitor-brand-short-name }
 more-from-moz-solo-title = { -solo-ai-brand-name } AI
 more-from-moz-solo-description = Creescha immediatamain tia website e connectescha gratuitamain tia atgna domena.
 more-from-moz-solo-button = Emprova { -solo-ai-brand-name }
-
-## These strings are for the MDN card in about:preferences moreFromMozilla page
-

@@ -17,9 +17,6 @@ webext-perms-header-unsigned-with-perms = Tambahkan { $extension }? Ekstensi ini
 webext-perms-sideload-header = { $extension } ditambahkan
 webext-perms-optional-perms-header = { $extension } meminta izin tambahan.
 
-## Headers used in the webextension permissions dialog, inside the content.
-
-
 ##
 
 webext-perms-add =
@@ -76,9 +73,6 @@ webext-perms-host-description-one-domain = Mengakses data Anda untuk situs pada 
 #     (the list of domains will follow this string).
 webext-perms-host-description-multiple-domains = Mengakses data Anda untuk situs dalam { $domainCount } domain
 
-## Strings for data collection permissions in the permission prompt.
-
-
 ## Headers used in the webextension permissions dialog for synthetic add-ons.
 ## The part of the string describing what privileges the extension gives should be consistent
 ## with the value of webext-site-perms-description-gated-perms-{sitePermission}.
@@ -112,6 +106,3 @@ webext-site-perms-header-unsigned-with-perms = Tambahkan { $extension }? Ekstens
 
 webext-site-perms-midi = Akses perangkat MIDI
 webext-site-perms-midi-sysex = Akses perangkat MIDI dengan dukungan SysEx
-
-## Colorway theme migration
-

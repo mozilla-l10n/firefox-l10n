@@ -5,6 +5,3 @@
 # This is shown dynamically within "Send tab to device" in fxa menu.
 fxa-menu-send-tab-to-device-syncnotready =
     .label = పరికరాలను సమకాలీకరిస్తోంది…
-
-## Sync warning strings that support the browser profiles feature, these will be shown when the user might be merging data
-

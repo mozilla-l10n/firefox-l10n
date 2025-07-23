@@ -543,9 +543,6 @@ newtab-custom-wallpaper-title = Користувацькі шпалери
 newtab-custom-wallpaper-subtitle = Вивантажте власне зображення або виберіть особливий колір, щоб персоналізувати { -brand-product-name }.
 newtab-custom-wallpaper-cta = Спробувати
 
-## Strings for new user activation custom wallpaper highlight
-
-
 ## Strings for download mobile highlight
 
 newtab-download-mobile-highlight-title = Завантажити { -brand-product-name } для мобільних пристроїв

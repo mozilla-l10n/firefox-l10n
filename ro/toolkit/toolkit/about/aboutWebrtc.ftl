@@ -12,9 +12,6 @@ about-webrtc-document-title = Date interne WebRTC
 # translated. This string is used as a title for a file save dialog box.
 about-webrtc-save-page-dialog-title = salvează about:webrtc ca
 
-## These labels are for a disclosure which contains the information for closed PeerConnection sections
-
-
 ## AEC is an abbreviation for Acoustic Echo Cancellation.
 
 about-webrtc-aec-logging-msg-label = Jurnalizare AEC
@@ -108,11 +105,6 @@ about-webrtc-log-section-hide-msg = Ascunde jurnalul
 about-webrtc-connection-open = [ { $browser-id } | { $id } ] { $url } { $now }
 about-webrtc-connection-closed = [ { $browser-id } | { $id } ] { $url } (închis) { $now }
 
-## These are used to indicate what direction media is flowing.
-## Variables:
-##  $codecs - a list of media codecs
-
-
 ##
 
 about-webrtc-local-candidate = Candidat local
@@ -156,10 +148,6 @@ about-webrtc-local-receive-ssrc = SSRC de recepție locală
 # This is an SSRC on the remote side of the connection that is sending RTP
 about-webrtc-remote-send-ssrc = SSRC de transmisie la distanță
 
-## These are displayed on the button that shows or hides the
-## PeerConnection configuration disclosure
-
-
 ##
 
 # An option whose value will not be displayed but instead noted as having been
@@ -170,13 +158,6 @@ about-webrtc-configuration-element-provided = Furnizat
 about-webrtc-configuration-element-not-provided = Nefurnizat
 # The options set by the user in about:config that could impact a WebRTC call
 about-webrtc-custom-webrtc-configuration-heading = Preferințe WebRTC setate de utilizator
-
-## These are displayed on the button that shows or hides the
-## user modified configuration disclosure
-
-
-##
-
 
 ##
 
@@ -215,14 +196,3 @@ about-webrtc-sdp-set-at-timestamp-remote = Setează SDP de la distanță la marc
 #  $timestamp (Number) - The Unix Epoch time at which the SDP was set.
 #  $relative-timestamp (Number) - The timestamp relative to the timestamp of the earliest received SDP.
 about-webrtc-sdp-set-timestamp = Marcaj temporal { NUMBER($timestamp, useGrouping: "false") } (+ { $relative-timestamp } ms)
-
-## These are displayed on the button that shows or hides the SDP information disclosure
-
-
-## These are displayed on the button that shows or hides the Media Context information disclosure.
-## The Media Context is the set of preferences and detected capabilities that informs
-## the negotiated CODEC settings.
-
-
-##
-

@@ -29,12 +29,6 @@ protections-panel-site-not-working = ছাইট কাম কৰি থকা 
 protections-panel-site-not-working-view =
     .title = ছাইট কাম কৰি থকা নাইনে?
 
-## Text for the toggles shown when ETP is enabled/disabled for a given site.
-## .description is transferred into a separate paragraph by the moz-toggle
-## custom element code.
-##   $host (String): the hostname of the site that is being displayed.
-
-
 ## The "Allowed" header also includes a "Why?" link that, when hovered, shows
 ## a tooltip explaining why these items were not blocked in the page.
 
@@ -63,9 +57,6 @@ protections-panel-content-blocking-fingerprinters-label = ফিংগাৰপ�
 protections-panel-blocking-label = অৱৰুদ্ধ
 protections-panel-not-blocking-label = অনুমোদিত
 protections-panel-not-found-label = একো ধৰা পৰা নাই
-
-## Smartblock strings
-
 
 ##
 

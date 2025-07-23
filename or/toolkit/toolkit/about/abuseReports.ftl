@@ -7,15 +7,6 @@
 
 abuse-report-cancel-button = ବାତିଲ୍ କରନ୍ତୁ
 
-## Message bars descriptions.
-##
-## Variables:
-##   $addon-name (string) - Name of the add-on
-
-
 ## Message bars actions.
 
 abuse-report-messagebar-action-cancel = ବାତିଲ କରନ୍ତୁ
-
-## Abuse report reasons (optionally paired with related examples and/or suggestions)
-

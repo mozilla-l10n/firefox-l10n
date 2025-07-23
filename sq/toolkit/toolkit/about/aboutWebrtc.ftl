@@ -298,6 +298,3 @@ about-webrtc-hide-msg-sdp = Fshih SDP
 about-webrtc-media-context-show-msg = Shfaq Kontekst Media
 about-webrtc-media-context-hide-msg = Fshih Kontekst Media
 about-webrtc-media-context-heading = Kontekst Media
-
-##
-

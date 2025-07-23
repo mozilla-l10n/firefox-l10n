@@ -51,48 +51,10 @@ permissions-capabilities-listitem-allow-session =
 permissions-invalid-uri-title = बाहायजायै हस्टमुं हाबहोबाय
 permissions-invalid-uri-label = अननानै मोनसे बाहायथाव हस्टमुं हाबहो
 
-## Exceptions - Tracking Protection
-
-
-## Exceptions - Cookies
-
-
-## Exceptions - HTTPS-Only Mode
-
-
 ## Exceptions - Pop-ups
 
 permissions-exceptions-popup-desc = पप-आप उइन्ड'खौ खेवनो मबे वेबसाइटखौ गनायथि होनांगौ बेखौ नोंथाङा थि खालामनो हायो। नोंथाङा गनायथि होनो लुबैनाय साइटनि थंखौ एखेयै टाइप खालाम आरो बेनि उनाव गनायथि हो-खौ क्लिक खालाम।
 
-## Exceptions - Saved Logins
-
-
-## Exceptions - Saved Passwords
-
-
 ## Exceptions - Add-ons
 
 permissions-exceptions-addons-desc = add-ons खौ इनष्टल खालामनो मबे वेबसाइटखौ गनायथि होनांगौ बेखौ नोंथाङा थि खालामनो हायो। नोंथाङा गनायथि होनो लुबैनाय साइटनि थंखौ एखेयै टाइप खालाम आरो बेनि उनाव गनायथि हो-खौ क्लिक खालाम।
-
-## Site Permissions - Autoplay
-
-
-## Site Permissions - Notifications
-
-
-## Site Permissions - Location
-
-
-## Site Permissions - Virtual Reality
-
-
-## Site Permissions - Camera
-
-
-## Site Permissions - Microphone
-
-
-## Site Permissions - Speaker
-##
-## "Speaker" refers to an audio output device.
-

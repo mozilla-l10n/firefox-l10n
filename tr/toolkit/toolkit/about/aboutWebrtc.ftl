@@ -317,6 +317,3 @@ about-webrtc-hide-msg-sdp = SDP’yi gizle
 about-webrtc-media-context-show-msg = Medya bağlamını göster
 about-webrtc-media-context-hide-msg = Medya bağlamını gizle
 about-webrtc-media-context-heading = Medya bağlamı
-
-##
-

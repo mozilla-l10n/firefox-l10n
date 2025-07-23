@@ -92,9 +92,6 @@ bookmarks-toolbar-callout-2b-primary-button-label = Zostaw otwarty
 # Reverts the bookmarks toolbar to the default setting
 bookmarks-toolbar-callout-2b-secondary-button-label = Nie, dziękuję
 
-## Perplexity callout strings
-
-
 ## Account Adoption Passwords callout strings
 
 # Suggestion to backup passwords by signing up for Mozilla account and using sync

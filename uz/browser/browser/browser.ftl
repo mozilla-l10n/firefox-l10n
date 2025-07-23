@@ -121,9 +121,6 @@ urlbar-star-edit-bookmark =
 urlbar-star-add-bookmark =
     .tooltiptext = Sahifani xatcho‘pga qo‘shish ({ $shortcut })
 
-## Page Action Context Menu
-
-
 ## Auto-hide Context Menu
 
 full-screen-autohide =
@@ -273,14 +270,6 @@ browser-window-minimize-button =
 browser-window-close-button =
     .tooltiptext = Yopish
 
-## Tab actions
-
-
-## These labels should be written in all capital letters if your locale supports them.
-## Variables:
-##  $count (number): number of affected tabs
-
-
 ## Bookmarks toolbar items
 
 browser-import-button2 =
@@ -295,9 +284,6 @@ popup-all-windows-shared = Ekraningizdagi barcha ko‘rinadigan oynalar bo‘lis
 
 sharing-warning-window = { -brand-short-name }ni ulashyapsiz. Boshqa odamlar yangi varaqqa oʻtganingizda koʻra olishadi.
 sharing-warning-screen = Toʻliq ekranni ulashyapsiz. Boshqa odamlar yangi varaqqa oʻtganingizda koʻra olishadi.
-
-## DevTools F12 popup
-
 
 ## URL Bar
 
@@ -387,14 +373,6 @@ urlbar-searchmode-history =
 urlbar-searchmode-actions =
     .label = Amallar
 
-## Action text shown in urlbar results, usually appended after the search
-## string or the url, like "result value - action text".
-## In these actions "Search" is a verb, followed by where the search is performed.
-
-
-## Labels shown above groups of urlbar results
-
-
 ## Reader View toolbar buttons
 
 # This should match menu-view-enter-readerview in menubar.ftl
@@ -403,11 +381,6 @@ reader-view-enter-button =
 # This should match menu-view-close-readerview in menubar.ftl
 reader-view-close-button =
     .aria-label = O‘qish ko‘rinishini yopish
-
-## Picture-in-Picture urlbar button
-## Variables:
-##   $shortcut (String) - Keyboard shortcut to execute the command.
-
 
 ## Full Screen and Pointer Lock UI
 
@@ -579,10 +552,6 @@ picture-in-picture-hide-toggle =
     .label = Rasm ichida rasm rejimini yashirish
     .accesskey = H
 
-## Since the default position for PiP controls does not change for RTL layout,
-## right-to-left languages should use "Left" and "Right" as in the English strings,
-
-
 ##
 
 
@@ -621,36 +590,12 @@ tabs-toolbar-list-all-tabs =
     .label = Barcha varaqlar roʻyxati
     .tooltiptext = Barcha varaqlar roʻyxati
 
-## Infobar shown at startup to suggest session-restore
-
-
-## Infobar shown when the user tries to open a file picker and file pickers are blocked by enterprise policy
-
-
 ## Mozilla data reporting notification (Telemetry, Firefox Health Report, etc)
 
 data-reporting-notification-message = { -brand-short-name } automatik tarzda bir qancha ma`lumotlarni { -vendor-short-name }`ga  sizning tajribangizni ochirishimiz uchun jo'natdi.
 data-reporting-notification-button =
     .label = Bo‘lishish kerak bo‘lganlarni tanlash
     .accesskey = t
-
-## Unified extensions (toolbar) button
-
-
-## Unified extensions button when permission(s) are needed.
-## Note that the new line is intentionally part of the tooltip.
-
-
-## Unified extensions button when some extensions are quarantined.
-## Note that the new line is intentionally part of the tooltip.
-
-
-## Unified extensions button when some extensions are disabled (e.g. through add-ons blocklist).
-## Note that the new line is intentionally part of the tooltip.
-
-
-## Private browsing reset button
-
 
 ## Autorefresh blocker
 
@@ -659,9 +604,6 @@ refresh-blocked-redirect-label = { -brand-short-name } ushbu sahifani avtomatik 
 refresh-blocked-allow =
     .label = Ruxsat berish
     .accesskey = A
-
-## Firefox Relay integration
-
 
 ## Add-on Pop-up Notifications
 
@@ -693,16 +635,3 @@ popup-warning-button =
 #   $popupURI (String): the URI for the pop-up window
 popup-show-popup-menuitem =
     .label = '{ $popupURI }”ni ko“rsatish
-
-## File-picker crash notification ("FilePickerCrashed.sys.mjs")
-
-
-# Button used with file-picker-crashed-save-default. Opens the folder in Windows
-# Explorer, with the saved file selected and in focus.
-#
-# The wording here should be consistent with the Windows variant of
-# `downloads-cmd-show-menuitem-2` and similar messages.
-
-
-## Onboarding Finish Setup checklist
-

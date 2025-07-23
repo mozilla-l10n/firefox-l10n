@@ -29,16 +29,3 @@ webext-perms-description-tabs = ចូលប្រើប្រាស់​ផ្
 webext-perms-description-tabHide = លាក់ និងបង្ហាញផ្ទាំងកម្មវិធីរុករក​អ៊ីនធឺណិត
 webext-perms-description-topSites = ចូលប្រើប្រាស់​ប្រវត្តិ​រក​មើល
 webext-perms-description-webNavigation = សកម្មភាព​ចូលប្រើប្រាស់​កម្មវិធី​អ៊ីនធឺណិត នៅ​ពេល​រុករក
-
-## The userScripts permission includes an additional explanation that is
-## displayed prominently near the usual permission description.
-
-
-## Short form to be used in lists or in a string (`webext-perms-description-data-some`)
-## that formats some of the data collection permissions below using `Intl.ListFormat`.
-##
-## This is used when the data collection permissions are required.
-
-
-## Long form to be used in `about:addons` when these data collection permissions are optional.
-

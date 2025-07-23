@@ -31,7 +31,3 @@ process-type-default = Հիմնական
 process-type-gpu = GPU
 # process used to perform network operations
 process-type-socket = Բնիկ
-
-##
-## Other
-

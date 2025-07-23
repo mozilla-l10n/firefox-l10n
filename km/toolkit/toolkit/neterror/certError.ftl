@@ -65,10 +65,6 @@ open-in-new-window-for-csp-or-xfo-error = បើក​គេហទំព័រ�
 #   $hostname (string) - Hostname of the website blocked by csp or xfo error.
 csp-xfo-blocked-long-desc = ដើម្បីការពារសុវត្ថិភាពរបស់អ្នក { $hostname }​ នឹងមិនអនុញ្ញាតឱ្យ { -brand-short-name } បង្ហាញទំព័រ ប្រសិនបើគេហទំព័រផ្សេងទៀតបានបង្កប់។ ដើម្បីមើលទំព័រនេះអ្នកត្រូវបើកវានៅក្នុងផ្ទាំង​ថ្មី។
 
-## Variables:
-##   $hostname (string) - Hostname of the website with cert error.
-
-
 ## Messages used for certificate error titles
 
 connectionFailure-title = មិន​អាច​តភ្ជាប់
@@ -106,10 +102,3 @@ networkProtocolError-title = បញ្ហា​​ពិធីការ​បណ
 nssBadCert-title = ប្រុងប្រយ័ត្ន៖ មានហានិភ័យសុវត្ថិភាពដែលអាច​នឹង​កើត​មាន
 nssBadCert-sts-title = មិនបានភ្ជាប់៖ បញ្ហាសុវត្ថិភាពដែល​អាច​កើតឡើង
 certerror-mitm-title = កម្មវិធីកំពុងការពារ { -brand-short-name } ពីការភ្ជាប់ទៅគេហទំព័រនេះដោយសុវត្ថិភាព
-
-## Felt Privacy V1 Strings
-
-
-## Variables:
-##   $hostname (String) - Hostname of the website to which the user was trying to connect.
-

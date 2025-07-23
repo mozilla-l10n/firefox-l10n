@@ -49,11 +49,3 @@ monitor-partial-breaches-percentage = { $percentageResolved }% завршено
 monitor-partial-breaches-motivation-title-start = Одличен почеток!
 monitor-partial-breaches-motivation-title-middle = Продолжи така!
 monitor-partial-breaches-motivation-title-end = Скоро готово! Продолжи така.
-
-## The title attribute is used to display the type of protection.
-## The aria-label is spoken by screen readers to make the visual graph accessible to blind users.
-##
-## Variables:
-##   $count (Number) - Number of specific trackers
-##   $percentage (Number) - Percentage this type of tracker contributes to the whole graph
-

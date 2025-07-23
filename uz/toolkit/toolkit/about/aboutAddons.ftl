@@ -4,10 +4,6 @@
 
 addons-page-title = Qoʻshimcha dasturlar boshqaruvchisi
 
-## Variables
-##   $domain - Domain name where add-ons are available (e.g. addons.mozilla.org)
-
-
 ##
 
 list-empty-installed =
@@ -166,9 +162,6 @@ addon-install-from-file-filter-name = Qoʻshimcha dasturlar
 addon-open-about-debugging = Qo‘shimcha dasturlarni tuzatish
     .accesskey = t
 
-## Extension shortcut management
-
-
 ## Recommended add-ons page
 
 # Explanatory introduction to the list of recommended add-ons. The action word
@@ -190,20 +183,6 @@ discopane-notice-recommendations2 =
     .message =
         Ayrim tavsiyalar aynan siz uchun moslashtirilgan. Ular siz oʻrnatgan boshqa 
         kengaytmalar, profil sozlamalari va foydalanish statistikasi asosida tavsiya etiladi.
-
-## Add-on actions
-
-
-## Pending uninstall message bar
-
-
-## "sites with restrictions" (internally called "quarantined") are special domains
-## where add-ons are normally blocked for security reasons.
-
-
-## This is the tooltip text for the recommended badges for an extension in about:addons. The
-## badge is a small icon displayed next to an extension when it is recommended on AMO.
-
 
 ##
 
@@ -254,10 +233,3 @@ plugins-gmp-privacy-info = Maxfiylik haqida ma’lumot
 plugins-openh264-name = OpenH264 video kodek Cisco Systems, Inc. tomonidan keltirilgan
 plugins-openh264-description = Bu plagin WebRTC ko‘rsatmalari bilan ishlashi va H.264 video kodekni talab qiladigan qurilmalarda WebRTC qo‘ng‘rioqlarini yoqib qo‘yish uchun Mozilla tomonidan o‘rnatildi. Kodek manba kodini ko‘rish va ishlatish bo‘icha batafsil ma’lumot olish uchun http://www.openh264.org/ saytiga tashrif buyuring.
 plugins-widevine-name = Google Inc tomonidan keltirilgan Widevine Content Decryption Module.
-
-## Headings for the Permissions tab in `about:addons` when the data collection
-## feature is enabled.
-
-
-## Mapping Engine IDs from AI models to how that feature represented by the engine Id is described in the used by section in local model management
-

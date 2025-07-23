@@ -10,14 +10,6 @@ learn-more = <span data-l10n-name="link">Argibide gehiago</span>
 ## In the Rule View when a CSS property cannot be successfully applied we display
 ## an icon. When this icon is hovered this message is displayed to explain why
 ## the property is not applied.
-## Variables:
-##   $property (string) - A CSS property name e.g. "color".
-##   $display (string) - A CSS display value e.g. "inline-block".
-
-
-## In the Rule View when a CSS property cannot be successfully applied we display
-## an icon. When this icon is hovered this message is displayed to explain why
-## the property is not applied.
 ## The variables are all passed from the same place, in `InactiveCssTooltipHelper#getTemplate`
 ## (devtools/client/shared/widgets/tooltip/inactive-css-tooltip-helper.js#95)
 ## Variables:
@@ -43,16 +35,6 @@ inactive-css-not-table = <strong>{ $property }</strong> propietateak ez du eragi
 inactive-scroll-padding-when-not-scroll-container = <strong>{ $property }</strong> propietateak ez du eraginik elementu honetan ezin delako korritu.
 inactive-css-border-image = <strong>{ $property }</strong> propietateak ez du eraginik elementu honetan ezin delako barneko taula-elementuetan aplikatu guraso taula-elementuan <strong>border-collapse</strong> atributuaren balioa <strong>collapse</strong> gisa ezarrita dagoenean.
 inactive-css-ruby-element = <strong>{ $property }</strong> propietateak ez du eraginik elementu honetan, 'ruby' elementua delako. Bere tamaina 'ruby' testuaren letra-tamainak zehazten du.
-
-## In the Rule View when a CSS property cannot be successfully applied we display
-## an icon. When this icon is hovered this message is displayed to explain why
-## the property is not applied.
-## The variables are all passed from the same place, in `InactiveCssTooltipHelper#getTemplate`
-## (devtools/client/shared/widgets/tooltip/inactive-css-tooltip-helper.js#95)
-## Variables:
-##   $property (string) - A CSS property name e.g. "color".
-##   $display (string) - A CSS display value e.g. "inline-block".
-
 
 ## In the Rule View when a CSS property cannot be successfully applied we display
 ## an icon. When this icon is hovered this message is displayed to explain how
@@ -94,8 +76,3 @@ css-compatibility-deprecated-supported-message = <strong>{ $property }</strong> 
 css-compatibility-experimental-message = <strong>{ $property }</strong> propietatea esperimentala da. Ez dago erabilgarri ondorengo nabigatzaileetan:
 css-compatibility-experimental-supported-message = <strong>{ $property }</strong> propietatea esperimentala da.
 css-compatibility-learn-more-message = <span data-l10n-name="link">Argibide gehiago</span> <strong>{ $rootProperty }</strong> propietateari buruz
-
-## In the Rule View when a rule selector can causes issues, we display an icon.
-## When this icon is hovered one or more of those messages are displayed to explain what
-## the issue are.
-

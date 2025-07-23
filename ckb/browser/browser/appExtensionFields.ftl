@@ -9,10 +9,3 @@ extension-firefox-compact-light-name = ڕوون
 extension-firefox-compact-light-description = ڕووکار لەگەڵ ڕەنگێکی ڕووناک.
 extension-firefox-compact-dark-name = تاریک
 extension-firefox-compact-dark-description = ڕووکار لەگەڵ ڕەنگێکی تاریک.
-
-## Colorway Themes
-## These themes are variants of a colorway. The colorway is specified in the
-## $colorway-name variable.
-## Variables
-##   $colorway-name (String) The name of a colorway (e.g. Graffiti, Elemental).
-

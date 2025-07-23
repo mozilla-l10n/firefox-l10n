@@ -122,9 +122,6 @@ delete-email-cert-title =
 delete-email-cert-confirm = ଏହି ଲୋକମାନଙ୍କର ଇ-ମେଲ ପ୍ରମାଣପତ୍ରଗୁଡ଼ିକୁ ଅପସାରଣ କରିବାକୁ ଚାହୁଁଛନ୍ତି ବୋଲି ଆପଣ ନିଶ୍ଚିତ କି?
 delete-email-cert-impact = ଯଦି ଆପଣ ଜଣେ ଲୋକର ଇ-ମେଲ ପ୍ରମାଣପତ୍ରକୁ ଅପସାରଣ କରୁଛନ୍ତି, ତେବେ ଆପଣ ସେହି ଲୋକକୁ କଦାପି ସଂଗୁପ୍ତ ଇ-ମେଲ ପଠାଇ ପାରିବେ ନାହିଁ.
 
-## Used to show whether an override is temporary or permanent
-
-
 ## Add Security Exception dialog
 
 add-exception-branded-warning = { -brand-short-name } କିପରି ଏହି ସାଇଟକୁ ଚିହ୍ନେ ଆପଣ ତାହାକୁ ଲଙ୍ଘନ କରିବାକୁ ଯାଉଛନ୍ତି.

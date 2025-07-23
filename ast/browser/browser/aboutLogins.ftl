@@ -86,11 +86,6 @@ login-item-save-changes-button = Guardar los cambeos
 login-item-save-new-button = Guardar
 login-item-cancel-button = Encaboxar
 
-## The date is displayed in a timeline showing the password evolution.
-## A label is displayed under the date to describe the type of change.
-## (e.g. updated, created, etc.)
-
-
 ## OS Authentication dialog
 
 about-logins-os-auth-dialog-caption = { -brand-full-name }

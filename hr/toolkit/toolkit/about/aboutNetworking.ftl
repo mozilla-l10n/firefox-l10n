@@ -64,6 +64,3 @@ about-networking-moved-about-logging = Ova je stranica premještena na <a data-l
 
 about-networking-networkid-is-up = Poveznica aktivna
 about-networking-networkid-status-known = Stanje poveznice je poznato
-
-##
-

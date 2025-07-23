@@ -48,9 +48,6 @@ download-cert-view-cert =
     .label = Golwg
 download-cert-view-text = Archwilio tystysgrif Awdurdod Tystysgrifo
 
-## Client Authorization Ask dialog
-
-
 ## Client Authentication Ask dialog
 
 client-auth-window =

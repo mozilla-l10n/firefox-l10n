@@ -30,9 +30,3 @@ about-networking-rcwn-perf-read = വായിച്ചത്
 about-networking-rcwn-perf-write = എഴുതിയത്
 about-networking-rcwn-avg-short = ചെറിയ ശരാശരി
 about-networking-rcwn-avg-long = വലിയ ശരാശരി
-
-## Link is intended as "network link"
-
-
-##
-

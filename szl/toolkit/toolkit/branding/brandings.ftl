@@ -17,70 +17,70 @@
 
 -facebook-container-brand-name =
     { $case ->
-       *[nom] Facebook Container
         [gen] Facebook Containera
         [dat] Facebook Containerowi
         [acc] Facebook Container
         [loc] Facebook Containerze
         [ins] Facebook Containerym
         [voc] Facebook Containerze
+       *[nom] Facebook Container
     }
     .gender = masculine
 -lockwise-brand-name =
     { $case ->
-       *[nom] Firefox Lockwise
         [gen] Firefox Lockwise'a
         [dat] Firefox Lockwise'owi
         [acc] Firefox Lockwise
         [loc] Firefox Lockwise'ie
         [ins] Firefox Lockwise'ym
         [voc] Firefox Locwise'ie
+       *[nom] Firefox Lockwise
     }
     .gender = masculine
 -lockwise-brand-short-name =
     { $case ->
-       *[nom] Lockwise
         [gen] Lockwise'a
         [dat] Lockwise'owi
         [acc] Lockwise
         [loc] Lockwise'ie
         [ins] Lockwise'ym
         [voc] Locwise'ie
+       *[nom] Lockwise
     }
     .gender = masculine
 -monitor-brand-name =
     { $case ->
-       *[nom] Firefox Mōnitōr
         [gen] Firefox Mōnitora
         [dat] Firefox Mōnitorowi
         [acc] Firefox Mōnitōr
         [loc] Firefox Mōnitorze
         [ins] Firefox Mōnitorym
         [voc] Firefox Mōnitorze
+       *[nom] Firefox Mōnitōr
     }
     .gender = masculine
 -monitor-brand-short-name = Monitor
 -mozmonitor-brand-name = Mozilla Monitor
 -pocket-brand-name =
     { $case ->
-       *[nom] Pocket
         [gen] Pocketa
         [dat] Pocketowi
         [acc] Pocket
         [loc] Pockecie
         [ins] Pocketym
         [voc] Pockecie
+       *[nom] Pocket
     }
     .gender = masculine
 -send-brand-name =
     { $case ->
-       *[nom] Firefox Send
         [gen] Firefox Senda
         [dat] Firefox Sendowi
         [acc] Firefox Send
         [loc] Firefox Sendzie
         [ins] Firefox Sendym
         [voc] Firefox Sendzie
+       *[nom] Firefox Send
     }
     .gender = masculine
 -screenshots-brand-name = Firefox Screenshots
@@ -90,6 +90,7 @@
 -focus-brand-name = Firefox Focus
 -relay-brand-name = Firefox Relay
 -relay-brand-short-name = Relay
+-solo-ai-brand-name = Solo
 # “Suggest” can be localized, “Firefox” must be treated as a brand
 # and kept in English.
 -firefox-suggest-brand-name = Firefox doradzo
@@ -98,5 +99,3 @@
 # The "Labs" portion can be localized, “Firefox” must be treated as a brand
 # and kept in English.
 -firefoxlabs-brand-name = Firefox Labs
--solo-ai-brand-name = Solo
-

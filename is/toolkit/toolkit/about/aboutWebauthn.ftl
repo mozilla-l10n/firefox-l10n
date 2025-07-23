@@ -6,12 +6,6 @@
 ### Localization for about:webauthn, a security token management page
 
 
-## Section titles
-
-
-## Info field texts
-
-
 ## Results label
 
 about-webauthn-results-success = Tókst!
@@ -69,12 +63,6 @@ about-webauthn-auth-info-true = Satt
 # Shows when boolean value for an info field is False. False should not be translated.
 about-webauthn-auth-info-false = Ósatt
 about-webauthn-auth-info-null = Óstutt
-
-## Bio enrollment sample feedbacks
-
-
-## Scan (e.g. of fingerprint) was off-center (e.g. too high, too left, etc.).
-
 
 ##
 

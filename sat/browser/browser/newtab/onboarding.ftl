@@ -433,12 +433,3 @@ onboarding-checklist-pin = ᱴᱟᱥᱠᱵᱟᱨ ᱨᱮ { -brand-short-name } �
 onboarding-checklist-import = ᱢᱟᱲᱟᱝᱟᱜ ᱵᱽᱨᱟᱣᱡᱚᱨ ᱠᱷᱚᱱ ᱟᱹᱜᱩᱭ ᱢᱮ
 onboarding-checklist-extension = ᱢᱤᱫ ᱮᱠᱥᱴᱮᱱᱥᱚᱱ ᱥᱮᱞᱮᱫ ᱢᱮ
 onboarding-checklist-sign-up = ᱟᱢᱟᱜ ᱠᱷᱟᱛᱟ ᱨᱮ ᱧᱩᱛᱩᱢ ᱚᱞ ᱥᱮ ᱥᱩᱦᱤ ᱮᱢ ᱢᱮ
-
-## Tab Groups feature onboarding strings
-
-
-## Multi Profiles feature onboarding messages
-
-
-## Desktop to Mobile Adoption feature callout strings
-

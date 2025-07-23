@@ -33,9 +33,6 @@ download-cert-view-cert =
     .label = Ko‘rinishi
 download-cert-view-text = CA sertifikatini sinovdan o‘tkazish
 
-## Client Authorization Ask dialog
-
-
 ## Client Authentication Ask dialog
 
 client-auth-window =
@@ -77,6 +74,3 @@ set-password-backup-pw =
 set-password-repeat-backup-pw =
     .value = Sertifikat zahira paroli (yana):
 set-password-reminder = Muhim: agar siz sertifikat zahira parolini unutsangiz, ushbu zahiralashni keyinroq tiklay olmaysiz. Uni xavfsiz joyga yozib qo‘ying.
-
-## Protected authentication alert
-

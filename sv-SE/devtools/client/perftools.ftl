@@ -159,6 +159,3 @@ perftools-presets-power-description = Förinställd för att undersöka buggar f
 perftools-presets-debug-label = Felsök
 perftools-presets-debug-description = Förinställd för felsökning i { -brand-shorter-name }. Hög omkostnad, använd inte för prestandaarbete men för att fokusera på att förstå webbläsarens beteende.
 perftools-presets-custom-label = Anpassad
-
-##
-

@@ -71,9 +71,6 @@ protections-panel-blocking-label = අවහිර කළ
 protections-panel-not-blocking-label = ඉඩ දී ඇත
 protections-panel-not-found-label = අනාවරණ නැත
 
-## Smartblock strings
-
-
 ##
 
 protections-panel-settings-label = රැකවරණ සැකසුම්

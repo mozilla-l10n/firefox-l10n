@@ -17,6 +17,3 @@ toolbox-meatball-menu-hideconsole-label = பிளவுபட்ட முன�
 toolbox-meatball-menu-settings-label = அமைவுகள்
 toolbox-meatball-menu-documentation-label = ஆவணமாக்கம்…
 toolbox-meatball-menu-community-label = சமூகம்…
-
-## These labels are shown in the top-toolbar in the Browser Toolbox and Browser Console
-

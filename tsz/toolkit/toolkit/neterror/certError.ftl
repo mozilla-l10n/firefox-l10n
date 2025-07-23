@@ -6,17 +6,6 @@
 #   $hostname (string) - Hostname of the website with cert error.
 cert-error-intro = { $hostname } no terukusïnti tsirimerakua.
 
-## Variables:
-##   $hostname (string) - Hostname of the website with cert error.
-
-
 ## Messages used for certificate error titles
 
 generic-title = Oops.
-
-## Felt Privacy V1 Strings
-
-
-## Variables:
-##   $hostname (String) - Hostname of the website to which the user was trying to connect.
-

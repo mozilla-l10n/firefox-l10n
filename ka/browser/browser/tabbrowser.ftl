@@ -224,7 +224,9 @@ tabbrowser-manager-current-window-tab-group =
     .label = { $tabGroupName }
     .tooltiptext = { $tabGroupName } — მიმდინარე ფანჯარა
 
-## Tab Groups
+## Variables:
+##  $tabGroupName (String): The name of the tab group. Defaults to the value
+##                          of tab-group-name-default.
 
 tab-group-editor-title-create = ჩანართების ჯგუფის შექმნა
 tab-group-editor-title-edit = ჩანართების ჯგუფის მართვა
@@ -254,16 +256,12 @@ tab-group-editor-color-selector2-gray = რუხი
     .title = რუხი
 tab-group-editor-color-selector2-red = წითელი
     .title = წითელი
-# Variables:
-#  $tabGroupName (String): The name of the tab group. Defaults to the value
-#                          of tab-group-name-default.
 tab-group-description = { $tabGroupName } — ჩანართების ჯგუფი
 tab-context-unnamed-group =
     .label = უსახელო ჯგუფი
 tab-group-name-default = უსახელო ჯგუფი
 
-## Variables:
-##  $tabCount (Number): the number of tabs that are affected by the action.
+##
 
 tab-context-move-tab-to-new-group =
     .label =

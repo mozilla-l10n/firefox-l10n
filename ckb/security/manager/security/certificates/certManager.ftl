@@ -90,9 +90,6 @@ file-browse-certificate-spec = پەڕگەکانی بڕوانامە
 import-ca-certs-prompt = پەڕگە هەڵبژێرە کە بڕوانامەی CA تێدایە بۆ هاوردەکردن
 import-email-cert-prompt = پەڕگە هەڵبژێرە کە پۆستی ئەلیکترۆنی کەسێکی تێدایە بۆ هاوردەکردن
 
-## For editing certificates trust
-
-
 ## For Deleting Certificates
 
 delete-user-cert-title =

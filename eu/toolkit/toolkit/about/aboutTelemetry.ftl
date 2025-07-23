@@ -23,13 +23,13 @@ about-telemetry-telemetry-dashboard = <a data-l10n-name="dashboard-link">Telemet
 about-telemetry-telemetry-probe-dictionary = Telemetry zerbitzuak bildutako zunden xehetasun eta deskribapenak hornitzen ditu <a data-l10n-name="probe-dictionary-link">hiztegi-zundak</a>.
 about-telemetry-show-in-Firefox-json-viewer = Ireki JSON ikustailean
 about-telemetry-home-section = Hasiera
-about-telemetry-general-data-section =   Datu orokorrak
+about-telemetry-general-data-section = { "  " }Datu orokorrak
 about-telemetry-environment-data-section = Ingurunearen datuak
 about-telemetry-session-info-section = Saioaren informazioa
 about-telemetry-scalar-section = Eskalarrak
 about-telemetry-keyed-scalar-section = Eskalar gakodunak
 about-telemetry-histograms-section = Histogramak
-about-telemetry-keyed-histogram-section =   Legendadun histogramak
+about-telemetry-keyed-histogram-section = { "  " }Legendadun histogramak
 about-telemetry-events-section = Gertaerak
 about-telemetry-simple-measurements-section = Neurketa sinpleak
 about-telemetry-slow-sql-section = SQL instrukzio motelak

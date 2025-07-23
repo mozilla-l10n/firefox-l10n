@@ -30,14 +30,6 @@ safeb-blocked-phishing-page-learn-more = <a data-l10n-name='learn_more_link'>www
 ## Variables
 ##  $sitename (string) - Domain name for the blocked page
 
-
-## Variables
-##  $sitename (string) - Domain name for the blocked page
-
-
-## Variables
-##  $sitename (string) - Domain name for the blocked page
-
 safeb-blocked-unwanted-page-error-desc-override = <span data-l10n-name='sitename'>{ $sitename }</span> saytınıñ <a data-l10n-name='error_desc_link'>fena-niyetli yazılım ihtiva etkeni maruza etilgendir</a>. <a data-l10n-name='ignore_warning_link'>Riskni ihmal et</a>ip ğayrı-emin bu saytqa barabilirsiñiz.
 safeb-blocked-unwanted-page-error-desc-no-override = <span data-l10n-name='sitename'>{ $sitename }</span> saytınıñ <a data-l10n-name='error_desc_link'>fena-niyetli yazılım ihtiva etkeni maruza etilgendir</a>.
 

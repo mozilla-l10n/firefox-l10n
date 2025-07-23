@@ -108,14 +108,6 @@ media-device-channels = च्यानलहरू
 media-device-rate = दर
 media-device-latency = विलम्बता
 
-## Codec support table
-
-
-## Media Content Decryption Modules (CDM)
-## See EME Spec for more explanation for following technical terms
-## https://w3c.github.io/encrypted-media/
-
-
 ##
 
 intl-title = अन्तरराष्ट्रियकरण & स्थानीयकरण
@@ -127,16 +119,6 @@ intl-locales-default = पूर्वनिर्धारित स्था�
 intl-os-title = सञ्चालन प्रणाली
 intl-os-prefs-system-locales = प्रणाली स्थानीयताहरू
 intl-regional-prefs = क्षेत्रीय प्राथमिकताहरू
-
-## Remote Debugging
-##
-## The Firefox remote protocol provides low-level debugging interfaces
-## used to inspect state and control execution of documents,
-## browser instrumentation, user interaction simulation,
-## and for subscribing to browser-internal events.
-##
-## See also https://firefox-source-docs.mozilla.org/remote/
-
 
 ##
 
@@ -269,18 +251,3 @@ touch-warning = असमर्थित प्राथमिकता: { $pref
 policies-inactive = निष्क्रिय
 policies-active = सक्रिय
 policies-error = त्रुटि
-
-## Printing section
-
-
-## Remote Settings sections
-
-
-## Normandy sections
-
-
-## Pointing devices
-
-
-## Content Analysis (DLP)
-

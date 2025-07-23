@@ -93,11 +93,6 @@ login-item-save-changes-button = K'ol unq'a vee' b'anel tu ve't a'n
 login-item-save-new-button = Kola
 login-item-cancel-button = Ya'sakan
 
-## The date is displayed in a timeline showing the password evolution.
-## A label is displayed under the date to describe the type of change.
-## (e.g. updated, created, etc.)
-
-
 ## OS Authentication dialog
 
 about-logins-os-auth-dialog-caption = { -brand-full-name }
@@ -211,27 +206,3 @@ about-logins-vulnerable-alert-learn-more-link = Ootzi ka'te
 about-logins-error-message-duplicate-login-with-link = Itok'eb'al { $loginTitle }ak te v'et u b'iie' b'a<a data-l10n-name="duplicate-link">oken tu atimb'ale' vee achit ve'te.
 # This is a generic error message.
 about-logins-error-message-default = Kat ilej va'lexh la kam tul uva' ni'k ikolpu u kachub'al tetze'.
-
-## Login Export Dialog
-
-
-## Login Import Dialog
-
-
-##
-## Variables:
-##  $count (number) - The number of affected elements
-
-
-##
-## Variables:
-##  $field (String) - The name of the field from the CSV file for example url, username or password
-
-
-##
-## Variables:
-##  $count (number) - The number of affected elements
-
-
-## Logins import report page
-

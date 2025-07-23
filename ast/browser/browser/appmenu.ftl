@@ -140,20 +140,6 @@ profiler-popup-capture-shortcut =
        *[other] Ctrl+Mayús+2
     }
 
-## Profiler presets
-## They are shown in the popup's select box.
-
-
-# Presets and their l10n IDs are defined in the file
-# devtools/client/performance-new/shared/background.jsm.js
-# Please take care that the same values are also defined in devtools' perftools.ftl.
-
-
-# Presets and their l10n IDs are defined in the file
-# devtools/client/performance-new/shared/background.sys.mjs
-# Please take care that the same values are also defined in devtools' perftools.ftl.
-
-
 ## History panel
 
 appmenu-manage-history =
@@ -211,9 +197,3 @@ appmenu-customizetoolbar =
 appmenu-developer-tools-subheader = Ferramientes del restolador
 appmenu-developer-tools-extensions =
     .label = Estensiones pa desendolcadores
-
-## Panel for privacy and security products
-
-
-## Profiles panel
-

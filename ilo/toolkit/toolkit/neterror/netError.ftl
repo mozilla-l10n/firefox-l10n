@@ -3,15 +3,9 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 
-## Error page titles
-
-
 ## Error page actions
 
 neterror-try-again-button = Uliten
-
-##
-
 
 ## Specific error messages
 
@@ -19,17 +13,6 @@ neterror-generic-error = Adda met ti rason no apay saan a maikarga ti { -brand-s
 neterror-load-error-try-again = Mabalinsa a saan a madanonan iti bassit wenno makumikom la unay daytoy a purok Web. Padasenyo man intuno bassit.
 neterror-load-error-connection = No saankayo a makakarga iti ania man a panid, paneknekanyo ti panilpo iti iket ti kompiuteryo.
 neterror-load-error-firewall = No salsalakniban ti firewall wenno proxy ti kompiuteryo wenno iketyo, paneknekan no mapalubosan ti { -brand-short-name } a makadanon iti Web.
-
-## TRR-only specific messages
-## Variables:
-##   $hostname (String) - Hostname of the website to which the user was trying to connect.
-##   $trrDomain (String) - Hostname of the DNS over HTTPS server that is currently in use.
-
-
-## Native fallback specific messages
-## Variables:
-##   $trrDomain (String) - Hostname of the DNS over HTTPS server that is currently in use.
-
 
 ##
 

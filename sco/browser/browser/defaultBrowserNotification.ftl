@@ -21,8 +21,3 @@ default-browser-prompt-message-alt = Get speed, siccarness and privacy onie time
 default-browser-prompt-button-primary-alt = Set as staunart wab-stravaiger
 default-browser-prompt-checkbox-not-again-label = Dinnae kythe this message again
 default-browser-prompt-button-secondary = No jist noo
-
-## Strings for a Windows native guidance notification when the user is forced to
-## use Windows Settings to set the default browser. Instructions differ for
-## Windows 10 and 11.
-

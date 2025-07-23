@@ -101,14 +101,6 @@ media-device-channels = Ceenuuji
 media-device-rate = Battal
 media-device-latency = Deeƴtal
 
-## Codec support table
-
-
-## Media Content Decryption Modules (CDM)
-## See EME Spec for more explanation for following technical terms
-## https://w3c.github.io/encrypted-media/
-
-
 ##
 
 intl-app-title = Teelte Jaaɓnirɗe
@@ -119,16 +111,6 @@ intl-locales-default = Nokkuuje Goowaaɗe
 intl-os-title = Yuɓɓo Gollotoongo
 intl-os-prefs-system-locales = Nokkuuje Yuɓɓo
 intl-regional-prefs = Cuɓoraaɗe Diiwaniyaŋkooje
-
-## Remote Debugging
-##
-## The Firefox remote protocol provides low-level debugging interfaces
-## used to inspect state and control execution of documents,
-## browser instrumentation, user interaction simulation,
-## and for subscribing to browser-internal events.
-##
-## See also https://firefox-source-docs.mozilla.org/remote/
-
 
 ##
 
@@ -252,21 +234,3 @@ autoscroll-enabled = gorwagol hoore mum kurminangol
 
 wheel-warning = async wheel input disabled due to unsupported pref: { $preferenceKey }
 touch-warning = async touch input disabled due to unsupported pref: { $preferenceKey }
-
-## Strings representing the status of the Enterprise Policies engine.
-
-
-## Printing section
-
-
-## Remote Settings sections
-
-
-## Normandy sections
-
-
-## Pointing devices
-
-
-## Content Analysis (DLP)
-

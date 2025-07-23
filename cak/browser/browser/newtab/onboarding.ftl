@@ -270,35 +270,7 @@ mr2022-onboarding-gratitude-secondary-button-label = Tichap okem pa k'amaya'l
 onboarding-infrequent-import-title = Tana' chi at k'o chi jay
 onboarding-infrequent-import-primary-button = Tijik' pa { -brand-short-name }
 
-## MR2022 Illustration alt tags
-## Descriptive tags for illustrations used by screen readers and other assistive tech
-
-
 ## Device migration onboarding
 
 onboarding-device-migration-title = Ütz apetik jumul chik!
 onboarding-device-migration-primary-button-label = Titikirisäx molojri'ïl
-
-## Add-ons Picker screen
-
-
-## The following screens have been updated to use security and privacy focused strings:
-
-
-## New user time and familiarity survey strings
-
-
-## UI strings for the sidebar and vertical tabs
-
-
-## New user onboarding checklist
-
-
-## Tab Groups feature onboarding strings
-
-
-## Multi Profiles feature onboarding messages
-
-
-## Desktop to Mobile Adoption feature callout strings
-

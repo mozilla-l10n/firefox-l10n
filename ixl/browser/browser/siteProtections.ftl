@@ -16,16 +16,3 @@ tracking-protection-icon-disabled-container =
     .aria-label = { tracking-protection-icon-disabled }
 tracking-protection-icon-no-trackers-detected-container =
     .aria-label = { tracking-protection-icon-no-trackers-detected }
-
-## Variables:
-##   $host (String): the site's hostname
-
-
-## Blocking and Not Blocking sub-views in the Protections Panel
-
-
-## Footer and Milestones sections in the Protections Panel
-## Variables:
-##   $trackerCount (Number): number of trackers blocked
-##   $date (Date): the date on which we started counting
-

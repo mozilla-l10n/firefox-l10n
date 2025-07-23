@@ -21,8 +21,3 @@ default-browser-prompt-message-alt = Արագութիւն, ապահովութի�
 default-browser-prompt-button-primary-alt = Դարձնել հիմնական զննարկիչ
 default-browser-prompt-checkbox-not-again-label = Այլեւս չցուցադրել այս հաղորդագրութիւնը
 default-browser-prompt-button-secondary = Ոչ հիմա
-
-## Strings for a Windows native guidance notification when the user is forced to
-## use Windows Settings to set the default browser. Instructions differ for
-## Windows 10 and 11.
-

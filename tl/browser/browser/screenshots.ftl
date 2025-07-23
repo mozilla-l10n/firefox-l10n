@@ -43,10 +43,3 @@ screenshots-private-window-error-details = Pasensya na sa abala. Inaayos namin a
 screenshots-generic-error-title = Aba! Nagkagulo na sa { -screenshots-brand-name }.
 screenshots-generic-error-details = Hindi kami sigurado kung ano ang nangyari. Nais mo bang subukan uli o kumuha ng shot ng ibang pahina?
 screenshots-too-large-error-title = Ang iyong screenshot ay na-crop dahil ito ay masyadong malaki
-
-## The below strings are used to capture keydown events so the strings should
-## not be changed unless the keyboard layout in the locale requires it.
-
-
-##
-

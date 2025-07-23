@@ -23,16 +23,16 @@ about-telemetry-telemetry-dashboard = <a data-l10n-name="dashboard-link">Telemet
 about-telemetry-telemetry-probe-dictionary = <a data-l10n-name="probe-dictionary-link">Zondų žodynas</a> pateikia telemetrijos surinktų zondų informaciją ir aprašus.
 about-telemetry-show-in-Firefox-json-viewer = Atverti JSON žiūrykle
 about-telemetry-home-section = Pradžia
-about-telemetry-general-data-section =   Įprasti duomenys
+about-telemetry-general-data-section = { "  " }Įprasti duomenys
 about-telemetry-environment-data-section = Aplinkos duomenys
 about-telemetry-session-info-section = Seanso informacija
 about-telemetry-scalar-section = Skaliarai
 about-telemetry-keyed-scalar-section = Raktiniai skaliarai
 about-telemetry-histograms-section = Histogramos
-about-telemetry-keyed-histogram-section =   Raktinės histogramos
+about-telemetry-keyed-histogram-section = { "  " }Raktinės histogramos
 about-telemetry-events-section = Įvykiai
 about-telemetry-simple-measurements-section = Paprasti matavimai
-about-telemetry-slow-sql-section =   Lėti SQL sakiniai
+about-telemetry-slow-sql-section = { "  " }Lėti SQL sakiniai
 about-telemetry-addon-details-section = Priedų duomenys
 about-telemetry-late-writes-section = Vėlavę įrašymai
 about-telemetry-raw-payload-section = Neapdorotas turinys

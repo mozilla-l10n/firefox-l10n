@@ -6,12 +6,6 @@
 ### Localization for Developer Tools options
 
 
-## Default Developer Tools section
-
-
-## Inspector section
-
-
 ## "Default Color Unit" options for the Inspector
 
 options-default-color-unit-authored = Run' taj dugui' girirā
@@ -19,15 +13,6 @@ options-default-color-unit-hex = Hex
 options-default-color-unit-hsl = HSL(A)
 options-default-color-unit-rgb = RGB(A)
 options-default-color-unit-name = Si yugui kolô
-
-## Web Console section
-
-
-## Style Editor section
-
-
-## Screenshot section
-
 
 ## Editor section
 

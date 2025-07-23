@@ -541,9 +541,6 @@ newtab-custom-wallpaper-title = Ko’ápe oĩ mba’erechaha rugua
 newtab-custom-wallpaper-subtitle = Ehupi ne mba’erechaha teéva térã eiporavo sa’yete embohéra hag̃ua ne { -brand-product-name }.
 newtab-custom-wallpaper-cta = Eha’ãjey
 
-## Strings for new user activation custom wallpaper highlight
-
-
 ## Strings for download mobile highlight
 
 newtab-download-mobile-highlight-title = Emboguejy { -brand-product-name } ne pumbyrýpe

@@ -26,6 +26,3 @@ toolbox-meatball-menu-community-label = Community…
 toolbox-meatball-menu-noautohide-label = Disable popup auto-hide
 toolbox-meatball-menu-pseudo-locale-accented = Enable “accented” locale
 toolbox-meatball-menu-pseudo-locale-bidi = Enable “bidi” locale
-
-## These labels are shown in the top-toolbar in the Browser Toolbox and Browser Console
-

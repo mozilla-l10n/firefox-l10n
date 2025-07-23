@@ -14,9 +14,6 @@ about-webauthn-credential-management-section-title = Gerir los identificants
 about-webauthn-pin-required-section-title = Còdi PIN requerit
 about-webauthn-confirm-deletion-section-title = Confirmacion la supression
 
-## Info field texts
-
-
 ## Results label
 
 about-webauthn-results-success = Succès !
@@ -54,12 +51,3 @@ about-webauthn-auth-info-versions = Versions
 about-webauthn-auth-info-true = True
 # Shows when boolean value for an info field is False. False should not be translated.
 about-webauthn-auth-info-false = False
-
-## Bio enrollment sample feedbacks
-
-
-## Scan (e.g. of fingerprint) was off-center (e.g. too high, too left, etc.).
-
-
-##
-

@@ -351,10 +351,6 @@ addon-detail-quarantined-domains-disallow = അനുവദിക്കരുത
 addon-detail-group-label-quarantined-domains =
     .aria-label = { addon-detail-quarantined-domains-label }
 
-## This is the tooltip text for the recommended badges for an extension in about:addons. The
-## badge is a small icon displayed next to an extension when it is recommended on AMO.
-
-
 ##
 
 available-updates-heading = ഉള്ള പുതുക്കലുകൾ
@@ -422,10 +418,3 @@ plugins-gmp-license-info = ലൈസന്‍സ് വിവരം
 plugins-gmp-privacy-info = സ്വകാര്യതാ വിവരം
 plugins-openh264-name = Cisco Systems, Inc ലഭ്യമാക്കുന്ന OpenH264 വീഡിയോ കോഡക്ക്
 plugins-openh264-description = WebRTC നിര്‍ദേശങ്ങള്‍ അനുസരിക്കുന്നതിനും H.264 വീഡിയോ കോഡെക്ക് ഉപയോഗിക്കുന്ന ഡിവൈസുകളുമായുള്ള WebRTC കോളുകള്‍ സാധ്യമാക്കുന്നതിനും വേണ്ടി മോസ്സില്ലാ ഈ പ്ലഗിന്‍ സ്വയമേ ഇന്‍സ്റ്റള്‍ ചെയ്തിരിക്കുന്നു. വീഡിയോ സോഴ്സ്സ് കോഡ് കാണ്ണുന്നതിനും കൂടുതല്‍ മനസ്സിലാക്കുന്നതിനും http://www.openh264.org/ സന്ദര്‍ശിക്കുക.
-
-## Headings for the Permissions tab in `about:addons` when the data collection
-## feature is enabled.
-
-
-## Mapping Engine IDs from AI models to how that feature represented by the engine Id is described in the used by section in local model management
-

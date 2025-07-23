@@ -120,9 +120,6 @@ delete-email-cert-title =
 delete-email-cert-confirm = Сигурно сакате да ги избришете поштенските сертификати на овие луѓе?
 delete-email-cert-impact = Ако избришете нечив сертификат за е-пошта, повеќе нема да можете да праќате енкриптирана пошта до тој човек.
 
-## Used to show whether an override is temporary or permanent
-
-
 ## Add Security Exception dialog
 
 add-exception-branded-warning = Ќе го смените начинот како { -brand-short-name } го идентификува ова место.

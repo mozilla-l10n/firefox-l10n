@@ -25,9 +25,6 @@ autofill-address-family-name = थर
 autofill-address-organization = सङ्गठन
 autofill-address-street = सडक ठेगाना
 
-## address-level-3 (Sublocality) names
-
-
 ## address-level-2 names
 
 autofill-address-city = सहर
@@ -57,6 +54,3 @@ autofill-add-new-card-title = नयाँ क्रेडिट कार्ड
 autofill-edit-card-title = क्रेडिट कार्ड सम्पादन गर्नुहोस्
 autofill-card-number = कार्ड नम्बर
 autofill-card-name-on-card = कार्डमा रहेको नाम
-
-## These are brand names and should only be translated when a locale-specific name for that brand is in common use
-

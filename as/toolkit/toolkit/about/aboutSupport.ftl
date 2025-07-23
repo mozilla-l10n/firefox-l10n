@@ -88,28 +88,10 @@ media-device-channels = চেনেল
 media-device-rate = হাৰ
 media-device-latency = বিলম্বতা
 
-## Codec support table
-
-
-## Media Content Decryption Modules (CDM)
-## See EME Spec for more explanation for following technical terms
-## https://w3c.github.io/encrypted-media/
-
-
 ##
 
 intl-app-title = এপ্লিকেশ্যন ছেটিংছ
 intl-locales-requested = অনুৰোধ কৰা ভাষাবোৰ
-
-## Remote Debugging
-##
-## The Firefox remote protocol provides low-level debugging interfaces
-## used to inspect state and control execution of documents,
-## browser instrumentation, user interaction simulation,
-## and for subscribing to browser-internal events.
-##
-## See also https://firefox-source-docs.mozilla.org/remote/
-
 
 ##
 
@@ -204,27 +186,8 @@ launcher-process-status-unknown = অজ্ঞাত স্থিতি
 multi-process-windows = { $remoteWindows }/{ $totalWindows }
 apz-none = এটাও নহয়
 
-## Variables
-## $preferenceKey (string) - String ID of preference
-
-
 ## Strings representing the status of the Enterprise Policies engine.
 
 policies-inactive = নিষ্ক্ৰিয়
 policies-active = সক্ৰিয়
 policies-error = ত্ৰুটি
-
-## Printing section
-
-
-## Remote Settings sections
-
-
-## Normandy sections
-
-
-## Pointing devices
-
-
-## Content Analysis (DLP)
-

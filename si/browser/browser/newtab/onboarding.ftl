@@ -287,10 +287,6 @@ mr2022-onboarding-gratitude-secondary-button-label = පිරික්සුම
 
 onboarding-infrequent-import-primary-button = { -brand-short-name } වෙත ආයාත කරන්න
 
-## MR2022 Illustration alt tags
-## Descriptive tags for illustrations used by screen readers and other assistive tech
-
-
 ## Device migration onboarding
 
 onboarding-device-migration-title = සාදරයෙන් පිළිගනිමු!
@@ -328,15 +324,3 @@ onboarding-existing-horizontal-tabs-label = තිරස් පටිති ත�
 # Additional setup card for setting up aichatbot in the sidebar
 onboarding-genai-sidebar-title = පැති තීරුවේ AI කතා ක්‍රමලේඛයක් තබා බලන්න
 onboarding-genai-sidebar-primary-button = කතා ක්‍රමලේඛයක් තෝරන්න
-
-## New user onboarding checklist
-
-
-## Tab Groups feature onboarding strings
-
-
-## Multi Profiles feature onboarding messages
-
-
-## Desktop to Mobile Adoption feature callout strings
-

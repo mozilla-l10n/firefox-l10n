@@ -33,9 +33,6 @@ download-cert-view-cert =
     .label = नुथाय
 download-cert-view-text = CA चार्टिफिकेट आनजाद खालाम
 
-## Client Authorization Ask dialog
-
-
 ## Client Authentication Ask dialog
 
 client-auth-window =
@@ -59,6 +56,3 @@ set-password-backup-pw =
 set-password-repeat-backup-pw =
     .value = चार्टिफिकेट बेकआप पासवार्ड (फिन):
 set-password-reminder = गोनांथार: नोंथाङा नोंथांनि सार्टिफिकेट बेकआप पासवार्डखौ बावयोब्ला नोंथाङा बे बेकआपखौ उनाव लाबोफिननो हानाय नङा। अननानै बेखौ मोनसे रैखाथि जायगायाव रेकर्ड खालाम।
-
-## Protected authentication alert
-

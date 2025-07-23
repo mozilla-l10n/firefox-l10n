@@ -8,13 +8,3 @@ about-logging-set-log-file = Suɓo Fiilde Logagol
 about-logging-set-log-modules = Suɓo Gulle logagol
 about-logging-start-logging = Fuɗɗo Logagol
 about-logging-stop-logging = Dartin Logagol
-
-## Logging presets
-
-
-##
-
-
-## The upload interface is shown only with the preference toolkit.aboutLogging.uploadProfileToCloud
-## set to true. It is false by default, except on Android.
-

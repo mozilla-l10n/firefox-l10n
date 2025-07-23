@@ -47,9 +47,6 @@ download-cert-view-cert =
     .label = දකින්න
 download-cert-view-text = CA සහතිකය පිරික්සන්න
 
-## Client Authorization Ask dialog
-
-
 ## Client Authentication Ask dialog
 
 client-auth-window =
@@ -94,6 +91,3 @@ set-password-backup-pw =
 set-password-repeat-backup-pw =
     .value = සහතිකයේ උපස්ථ මුරපදය (නැවත):
 set-password-reminder = වැදගත්: ඔබගේ සහතිකයේ උපස්ථ මුරපදය අමතක වුවහොත්, මෙම උපස්ථය පසුව ප්‍රත්‍යර්පණය කිරීමට නොහැකි වනු ඇත. එය ආරක්‍ෂිත ස්ථානයක සටහන් කරන්න.
-
-## Protected authentication alert
-

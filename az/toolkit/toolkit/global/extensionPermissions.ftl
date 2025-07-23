@@ -29,16 +29,3 @@ webext-perms-description-tabs = Səyyah vərəqlərinə baxmaq
 webext-perms-description-tabHide = Səyyah vərəqlərini gizlət və göstər
 webext-perms-description-topSites = Səyahət tarixçəsinə baxmaq
 webext-perms-description-webNavigation = Naviqasiya vaxtı səyyah aktivliyinə baxmaq
-
-## The userScripts permission includes an additional explanation that is
-## displayed prominently near the usual permission description.
-
-
-## Short form to be used in lists or in a string (`webext-perms-description-data-some`)
-## that formats some of the data collection permissions below using `Intl.ListFormat`.
-##
-## This is used when the data collection permissions are required.
-
-
-## Long form to be used in `about:addons` when these data collection permissions are optional.
-

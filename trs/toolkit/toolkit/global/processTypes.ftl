@@ -26,7 +26,3 @@ process-type-webisolated = Si’iaj Web nu ninïïn
 # process used to communicate with the GPU for
 # graphics acceleration
 process-type-gpu = GPU
-
-##
-## Other
-

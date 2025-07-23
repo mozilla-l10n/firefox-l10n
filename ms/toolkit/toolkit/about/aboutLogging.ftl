@@ -8,13 +8,3 @@ about-logging-set-log-file = Set Fail Log
 about-logging-set-log-modules = Set Modul Log
 about-logging-start-logging = Mulakan Menglog
 about-logging-stop-logging = Hentikan Menglog
-
-## Logging presets
-
-
-##
-
-
-## The upload interface is shown only with the preference toolkit.aboutLogging.uploadProfileToCloud
-## set to true. It is false by default, except on Android.
-

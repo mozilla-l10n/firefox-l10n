@@ -32,6 +32,3 @@ search-history = Hanes
 search-opentabs = Tabiau ar Agor
 search-tags = Tagiau
 search-titles = Teitlau
-
-##
-

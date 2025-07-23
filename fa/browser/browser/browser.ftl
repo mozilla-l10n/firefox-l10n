@@ -1177,16 +1177,6 @@ popup-warning-button =
 popup-show-popup-menuitem =
     .label = نمایش «‪{ $popupURI }‬»
 
-## File-picker crash notification ("FilePickerCrashed.sys.mjs")
-
-
-# Button used with file-picker-crashed-save-default. Opens the folder in Windows
-# Explorer, with the saved file selected and in focus.
-#
-# The wording here should be consistent with the Windows variant of
-# `downloads-cmd-show-menuitem-2` and similar messages.
-
-
 ## Onboarding Finish Setup checklist
 
 onboarding-checklist-button-label = پایان نصب

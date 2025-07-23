@@ -317,6 +317,3 @@ about-webrtc-hide-msg-sdp = Hide SDP
 about-webrtc-media-context-show-msg = Show Media Context
 about-webrtc-media-context-hide-msg = Hide Media Context
 about-webrtc-media-context-heading = Media Context
-
-##
-

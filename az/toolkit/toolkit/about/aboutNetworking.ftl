@@ -45,9 +45,3 @@ about-networking-rcwn-avg-long = Uzun ortalama
 about-networking-rcwn-std-dev-long = Uzun standart yayınma
 about-networking-rcwn-cache-slow = Yavaş keş sayısı
 about-networking-rcwn-cache-not-slow = Yavaş olmayan keş sayısı
-
-## Link is intended as "network link"
-
-
-##
-

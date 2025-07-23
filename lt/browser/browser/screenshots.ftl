@@ -47,10 +47,3 @@ screenshots-generic-error-details = Mes nesame tikri, kas ką tik nutiko. Norite
 screenshots-component-retry-button =
     .title = Kartoti ekrano nuotrauką
     .aria-label = Kartoti ekrano nuotrauką
-
-## The below strings are used to capture keydown events so the strings should
-## not be changed unless the keyboard layout in the locale requires it.
-
-
-##
-

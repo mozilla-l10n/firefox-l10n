@@ -21,8 +21,3 @@ default-browser-prompt-message-alt = Lehitse veebi kiirelt, turvaliselt ja priva
 default-browser-prompt-button-primary-alt = Määra vaikebrauseriks
 default-browser-prompt-checkbox-not-again-label = Seda teadet rohkem ei kuvata
 default-browser-prompt-button-secondary = Mitte praegu
-
-## Strings for a Windows native guidance notification when the user is forced to
-## use Windows Settings to set the default browser. Instructions differ for
-## Windows 10 and 11.
-

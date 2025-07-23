@@ -10,14 +10,6 @@ learn-more = <span data-l10n-name="link">আরো জানুন</span>
 ## In the Rule View when a CSS property cannot be successfully applied we display
 ## an icon. When this icon is hovered this message is displayed to explain why
 ## the property is not applied.
-## Variables:
-##   $property (string) - A CSS property name e.g. "color".
-##   $display (string) - A CSS display value e.g. "inline-block".
-
-
-## In the Rule View when a CSS property cannot be successfully applied we display
-## an icon. When this icon is hovered this message is displayed to explain why
-## the property is not applied.
 ## The variables are all passed from the same place, in `InactiveCssTooltipHelper#getTemplate`
 ## (devtools/client/shared/widgets/tooltip/inactive-css-tooltip-helper.js#95)
 ## Variables:
@@ -36,16 +28,6 @@ inactive-css-property-because-of-display = <strong>{ $display }</strong> এট�
 inactive-css-not-display-block-on-floated = <strong>প্রদর্শন</strong> মান ইঞ্জিন দ্বারা পরিবর্তিত <strong>ব্লক</strong> হয়েছে কারণ উপাদানটি <strong>ফ্লোটেড</strong>।
 inactive-css-property-is-impossible-to-override-in-visited = এটি ওভাররাইড করা অসম্ভব<strong>{ $property }</strong><strong>:পরিদর্শন</strong>নিষেধাজ্ঞার কারণে।
 inactive-css-position-property-on-unpositioned-box = এই উপাদানটির ওপর <strong>{ $property }</strong> এর কোন প্রভাব নেই কারণ এটি positioned element নয়।
-
-## In the Rule View when a CSS property cannot be successfully applied we display
-## an icon. When this icon is hovered this message is displayed to explain why
-## the property is not applied.
-## The variables are all passed from the same place, in `InactiveCssTooltipHelper#getTemplate`
-## (devtools/client/shared/widgets/tooltip/inactive-css-tooltip-helper.js#95)
-## Variables:
-##   $property (string) - A CSS property name e.g. "color".
-##   $display (string) - A CSS display value e.g. "inline-block".
-
 
 ## In the Rule View when a CSS property cannot be successfully applied we display
 ## an icon. When this icon is hovered this message is displayed to explain how
@@ -77,8 +59,3 @@ inactive-scroll-padding-when-not-scroll-container-fix = <strong>overflow:auto</s
 css-compatibility-default-message = <strong>{ $property }</strong> নিম্নলিখিত ব্রাউজারগুলিতে সমর্থিত নয়:
 css-compatibility-experimental-supported-message = <strong>{ $property }</strong> একটি পরীক্ষামূলক বৈশিষ্ট্য।
 css-compatibility-learn-more-message = <strong>{ $rootProperty }</strong> সম্পর্কে <span data-l10n-name="link">আরও জানুন</span>
-
-## In the Rule View when a rule selector can causes issues, we display an icon.
-## When this icon is hovered one or more of those messages are displayed to explain what
-## the issue are.
-

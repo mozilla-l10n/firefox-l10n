@@ -6,10 +6,10 @@
 # and kept in English.
 -fxaccount-brand-name =
     { $case ->
-       *[nom] Firefox налог
         [gen] Firefox налога
         [dat] Firefox налогу
         [acc] Firefox налог
         [ins] Firefox налогом
         [loc] Firefox налогу
+       *[nom] Firefox налог
     }

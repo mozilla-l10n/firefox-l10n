@@ -128,9 +128,6 @@ delete-email-cert-impact = လူတဦးရဲ့ အီးမေးလ် လ
 cert-with-serial =
     .value = အမှတ်စဉ်ဖြင့် လက်မှတ် - { $serialNumber }
 
-## Used to show whether an override is temporary or permanent
-
-
 ## Add Security Exception dialog
 
 add-exception-branded-warning = { -brand-short-name } က ဒီကွန်ရက်ကို ဖေါ်ထုတ်တဲ့နည်းကို သင် ထပ်ဖြည့်တော့မယ်။

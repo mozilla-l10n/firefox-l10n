@@ -218,7 +218,9 @@ tabbrowser-manager-current-window-tab-group =
     .label = { $tabGroupName }
     .tooltiptext = { $tabGroupName } — Fenêtre actuelle
 
-## Tab Groups
+## Variables:
+##  $tabGroupName (String): The name of the tab group. Defaults to the value
+##                          of tab-group-name-default.
 
 tab-group-editor-title-create = Créer un groupe d’onglets
 tab-group-editor-title-edit = Gérer le groupe d’onglets
@@ -248,16 +250,12 @@ tab-group-editor-color-selector2-gray = Gris
     .title = Gris
 tab-group-editor-color-selector2-red = Rouge
     .title = Rouge
-# Variables:
-#  $tabGroupName (String): The name of the tab group. Defaults to the value
-#                          of tab-group-name-default.
 tab-group-description = { $tabGroupName } — Groupe d’onglets
 tab-context-unnamed-group =
     .label = Groupe sans nom
 tab-group-name-default = Groupe sans nom
 
-## Variables:
-##  $tabCount (Number): the number of tabs that are affected by the action.
+##
 
 tab-context-move-tab-to-new-group =
     .label =

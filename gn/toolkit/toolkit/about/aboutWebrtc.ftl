@@ -317,6 +317,3 @@ about-webrtc-hide-msg-sdp = Eñomi SDP
 about-webrtc-media-context-show-msg = Ehechauka momaranduhára rehegua
 about-webrtc-media-context-hide-msg = Eñomi momaranduhára rehegua
 about-webrtc-media-context-heading = Momaranduhára rehegua
-
-##
-

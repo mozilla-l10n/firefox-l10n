@@ -6,9 +6,6 @@
 ### These strings appear in the Unified Extensions panel.
 
 
-## Panel
-
-
 ## An extension in the main list
 
 # Each extension in the unified extensions panel (list) has a secondary button

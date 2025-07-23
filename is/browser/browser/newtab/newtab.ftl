@@ -531,9 +531,6 @@ newtab-section-mangage-topics-blocked-topics-empty-state = Þú hefur ekki loka�
 newtab-custom-wallpaper-title = Sérsniðnir bakgrunnar eru hér
 newtab-custom-wallpaper-cta = Prófaðu það
 
-## Strings for new user activation custom wallpaper highlight
-
-
 ## Strings for download mobile highlight
 
 newtab-download-mobile-highlight-title = Sækja { -brand-product-name } fyrir farsíma
@@ -541,9 +538,6 @@ newtab-download-mobile-highlight-body-variant-b = Taktu upp þráðinn þar sem 
 newtab-download-mobile-highlight-body-variant-c = Vissir þú að þú getur tekið { -brand-product-name } með þér hvert sem er? Sami vafrinn, í vasanum þínum.
 newtab-download-mobile-highlight-image =
     .aria-label = QR-kóði til að sækja { -brand-product-name } fyrir farsíma
-
-## Strings for shortcuts highlight
-
 
 ## Strings for reporting ads and content
 

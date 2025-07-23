@@ -43,39 +43,3 @@ callout-pdfjs-draw-body-a = PDF मा चिन्ह लगाउनुहो�
 # “Mark up” refers to the process of “annotating” or adding free hand text or diagramming to the document.
 callout-pdfjs-draw-body-b = थप मुद्रण र स्क्यानिङ छैन। PDF मा चिन्ह लगाउनुहोस्, त्यसपछि आफ्नो परिवर्तनहरू बचत गर्नुहोस्।
 callout-pdfjs-draw-button = बुझे!
-
-## Firefox View Discoverability Strings
-
-
-## Split Dismiss Button Labels
-
-
-## Login Status Advisory Callout (points to the account icon)
-
-
-## Bookmarks toolbar callout strings
-
-
-## Perplexity callout strings
-
-
-## Account Adoption Passwords callout strings
-
-
-## Sidebar Strings
-
-
-## Sidebar Vertical Tabs Strings
-
-
-## Sidebar Vertical Tabs Pinning Strings
-
-
-## Pinning Tabs Strings
-
-
-## Sidebar Onboarding Strings
-
-
-## Sidebar Callout Survey Strings
-

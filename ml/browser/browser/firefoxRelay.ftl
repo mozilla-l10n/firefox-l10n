@@ -3,12 +3,6 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 
-## Error messages for failed HTTP web requests.
-## https://developer.mozilla.org/en-US/docs/Web/HTTP/Reference/Status#client_error_responses
-## Variables:
-##   $status (Number) - HTTP status code, for example 403
-
-
 ## The "control" variation of the Relay offer popup
 
 firefox-relay-must-login-to-fxa = { -relay-brand-name } ഉപയോഗിക്കാൻ വേണ്ടി താങ്ങൾക്കു് { -fxaccount-brand-name }-ലേക്കു് പ്രവേശിക്കേണ്ടിവരും.

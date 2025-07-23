@@ -39,17 +39,6 @@ neterror-load-error-connection = Եթե չի ստացուում բացել որ�
 neterror-load-error-firewall = Եթե Ձեր համակարգիչը կամ ցանցը ապահովագրուած է firewall-ով, համոզուեք, որ  { -brand-short-name }-ը ունի ցանցին միանալու արտոնութիւն։
 neterror-captive-portal = Դուք պէտք է մուտք գործէք այս ցանց, որ կարողանաք մուտք գործել համացանց։
 
-## TRR-only specific messages
-## Variables:
-##   $hostname (String) - Hostname of the website to which the user was trying to connect.
-##   $trrDomain (String) - Hostname of the DNS over HTTPS server that is currently in use.
-
-
-## Native fallback specific messages
-## Variables:
-##   $trrDomain (String) - Hostname of the DNS over HTTPS server that is currently in use.
-
-
 ##
 
 neterror-file-not-found-filename = Ստուգէք նիշքի անունը մեծատառերի կամ այլ տպագրական սխալների համար։

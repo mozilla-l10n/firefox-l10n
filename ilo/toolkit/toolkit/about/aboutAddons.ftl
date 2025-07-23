@@ -4,10 +4,6 @@
 
 addons-page-title = Mangimaton ti Raman
 
-## Variables
-##   $domain - Domain name where add-ons are available (e.g. addons.mozilla.org)
-
-
 ##
 
 list-empty-installed =
@@ -50,9 +46,6 @@ addon-category-recent-updates = Nabiit a Pannanarimaan
 addon-category-recent-updates-title =
     .title = Nabiit a Pannanarimaan
 
-## These are global warnings
-
-
 ## Strings connected to add-on updates
 
 addon-updates-check-for-updates = Palutputen ti Pannanarimaan
@@ -62,13 +55,6 @@ addon-updates-view-updates = Ipadlaw ti Nabiit a Pannanarimaan
 
 # This menu item is a checkbox that toggles the default global behavior for
 # add-on update checking.
-
-
-## Specific add-ons can have custom update checking behaviors ("Manually",
-## "Automatically", "Use default global behavior"). These menu items reset the
-## update checking behavior for all add-ons to the default global behavior
-## (which itself is either "Automatically" or "Manually", controlled by the
-## extensions-updates-update-addons-automatically.label menu item).
 
 
 ## Status messages displayed when updating add-ons
@@ -81,29 +67,6 @@ addon-updates-manual-updates-found = Ipakita ti Maal-ala a Pannanarimaan
 ## Add-on install/debug strings for page options menu
 
 addon-install-from-file-filter-name = Raman
-
-## Extension shortcut management
-
-
-## Recommended add-ons page
-
-
-## Add-on actions
-
-
-## Pending uninstall message bar
-
-
-## "sites with restrictions" (internally called "quarantined") are special domains
-## where add-ons are normally blocked for security reasons.
-
-
-## This is the tooltip text for the recommended badges for an extension in about:addons. The
-## badge is a small icon displayed next to an extension when it is recommended on AMO.
-
-
-##
-
 
 ## Page headings
 
@@ -121,13 +84,3 @@ details-notification-incompatible = Saan nga agkatunos ti { $name } iti { -brand
 #   $version (string) - Application version.
 details-notification-incompatible2 =
     .message = Saan nga agkatunos ti { $name } iti { -brand-short-name } { $version }.
-
-## Gecko Media Plugins (GMPs)
-
-
-## Headings for the Permissions tab in `about:addons` when the data collection
-## feature is enabled.
-
-
-## Mapping Engine IDs from AI models to how that feature represented by the engine Id is described in the used by section in local model management
-

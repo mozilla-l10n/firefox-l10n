@@ -33,29 +33,10 @@ tabbrowser-close-tabs-tooltip =
            *[other] { $tabCount } ടാബുകളെ അടയ്ക്കുക
         }
 
-## Tooltips for tab audio control
-## Variables:
-##   $tabCount (Number): The number of tabs that will be affected.
-
-
-## Tooltips for tab audio control
-
-
 ## Confirmation dialog when closing a window with more than one tab open,
 ## or when quitting when only one window is open.
 
 tabbrowser-confirm-close-tabs-button = റ്റാബുകള്‍ അടയ്ക്കുക
-
-## Confirmation dialog when quitting using the menu and multiple windows are open.
-
-
-## Confirmation dialog when quitting using the keyboard shortcut (Ctrl/Cmd+Q)
-## Windows does not show a prompt on quit when using the keyboard shortcut by default.
-
-
-## Confirmation dialog when quitting using the keyboard shortcut (Ctrl/Cmd+Q)
-## and browser.warnOnQuitShortcut is true.
-
 
 ## Confirmation dialog when opening multiple tabs simultaneously
 
@@ -110,7 +91,9 @@ tabbrowser-manager-current-window-tab-group =
     .label = { $tabGroupName }
     .tooltiptext = { $tabGroupName } — നിലവിലുള്ള ജാലകം
 
-## Tab Groups
+## Variables:
+##  $tabGroupName (String): The name of the tab group. Defaults to the value
+##                          of tab-group-name-default.
 
 tab-group-editor-title-create = ടാബുക്കൂട്ടം ഉണ്ടാക്കുക
 tab-group-editor-name-label = പേരു്
@@ -139,16 +122,12 @@ tab-group-editor-color-selector2-gray = ചാരം
     .title = ചാരം
 tab-group-editor-color-selector2-red = ചുവപ്പ്
     .title = ചുവപ്പ്
-# Variables:
-#  $tabGroupName (String): The name of the tab group. Defaults to the value
-#                          of tab-group-name-default.
 tab-group-description = { $tabGroupName } — ടാബുക്കൂട്ടം
 tab-context-unnamed-group =
     .label = പേരില്ലാത്ത കൂട്ടം
 tab-group-name-default = പേരില്ലാത്ത കൂട്ടം
 
-## Variables:
-##  $tabCount (Number): the number of tabs that are affected by the action.
+##
 
 tab-context-move-tab-to-new-group =
     .label =

@@ -44,9 +44,6 @@ options-default-color-unit-hsl = HSL(A)
 options-default-color-unit-rgb = RGB(A)
 options-default-color-unit-name = Noone maaɲey
 
-## Web Console section
-
-
 ## Style Editor section
 
 # The heading
@@ -55,9 +52,6 @@ options-styleeditor-label = Kaymi fasalkaw
 options-stylesheet-autocompletion-label = CSS boŋtimmandi
 options-stylesheet-autocompletion-tooltip =
     .title = CSS boŋtimmandi mayrawey, hinnawey nda suubakey takari fasalkaa ra waati kaŋ war ga hantum
-
-## Screenshot section
-
 
 ## Editor section
 

@@ -10,6 +10,3 @@ webext-default-search-description = { $addonName } asosiy qidiruv tizimingizni {
 # Variables:
 #   $addonName (String): localized named of the extension that was just installed.
 addon-post-install-message = { $addonName } qoʻshildi.
-
-## A modal confirmation dialog to allow an extension on quarantined domains.
-

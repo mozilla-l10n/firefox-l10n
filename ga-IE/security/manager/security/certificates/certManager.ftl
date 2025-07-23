@@ -128,9 +128,6 @@ delete-email-cert-impact = Má scriosann tú teastas ríomhphoist duine, ní bhe
 cert-with-serial =
     .value = Teastas le sraithuimhir: { $serialNumber }
 
-## Used to show whether an override is temporary or permanent
-
-
 ## Add Security Exception dialog
 
 add-exception-branded-warning = Tá tú ar tí an tslí ina n-aithníonn { -brand-short-name } an suíomh seo a shárú.

@@ -22,32 +22,3 @@ migration-source-name-edge = மைக்ரொசொப்ட் எட்ஜ�
 migration-source-name-chrome = கூகுள் கொறோம்
 migration-imported-safari-reading-list = (சபாரியில் இருந்து ) பட்டியல் படிக்கப்படுகிறது
 migration-imported-edge-reading-list = (எட்ஜ்லிருந்து) பட்டியல் படிக்கப்படுகிறது
-
-## These strings are shown if the selected browser data directory is unreadable.
-## In practice, this tends to only occur on Linux when Firefox
-## is installed as a Snap.
-
-
-## These strings will be displayed based on how many resources are selected to import
-
-
-##
-
-
-## These strings will be used to create a dynamic list of items that can be
-## imported. The list will be created using Intl.ListFormat(), so it will
-## follow each locale's rules, and the first item will be capitalized by code.
-## When applicable, the resources should be in their plural form.
-## For example, a possible list could be "Bookmarks, passwords and autofill data".
-
-
-##
-
-
-## The import process identifies extensions installed in other supported
-## browsers and installs the corresponding (matching) extensions compatible
-## with Firefox, if available.
-
-
-##
-

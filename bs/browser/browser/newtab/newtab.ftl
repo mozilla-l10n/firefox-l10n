@@ -543,9 +543,6 @@ newtab-custom-wallpaper-title = Prilagođene pozadine su ovdje
 newtab-custom-wallpaper-subtitle = Otpremite vlastitu pozadinu ili odaberite prilagođenu boju kako biste { -brand-product-name } prilagodili sebi.
 newtab-custom-wallpaper-cta = Probaj
 
-## Strings for new user activation custom wallpaper highlight
-
-
 ## Strings for download mobile highlight
 
 newtab-download-mobile-highlight-title = Preuzmite { -brand-product-name } za mobilne uređaje

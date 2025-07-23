@@ -6,18 +6,6 @@
 ### Localization for about:webauthn, a security token management page
 
 
-## Section titles
-
-
-## Info field texts
-
-
-## Results label
-
-
-## Labels
-
-
 ## Buttons
 
 about-webauthn-cancel-button = Չեղարկել
@@ -39,12 +27,3 @@ about-webauthn-auth-option-false = False
 about-webauthn-auth-info-true = True
 # Shows when boolean value for an info field is False. False should not be translated.
 about-webauthn-auth-info-false = False
-
-## Bio enrollment sample feedbacks
-
-
-## Scan (e.g. of fingerprint) was off-center (e.g. too high, too left, etc.).
-
-
-##
-

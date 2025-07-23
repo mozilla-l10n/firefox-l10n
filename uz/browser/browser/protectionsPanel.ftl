@@ -6,10 +6,6 @@ protections-panel-sendreportview-error = Hisobotni yuborishda xatolik yuz berdi.
 # A link shown when ETP is disabled for a site. Opens the breakage report subview when clicked.
 protections-panel-sitefixedsendreport-label = Sayt tuzatildimi? Hisobot yuboring
 
-## These strings are used to define the different levels of
-## Enhanced Tracking Protection.
-
-
 ##
 
 # The text a screen reader speaks when focused on the info button.
@@ -22,12 +18,6 @@ protections-panel-site-not-working = Sayt ishlamayaptimi?
 # The heading/title of the sub-panel view
 protections-panel-site-not-working-view =
     .title = Sayt ishlamayaptimi?
-
-## Text for the toggles shown when ETP is enabled/disabled for a given site.
-## .description is transferred into a separate paragraph by the moz-toggle
-## custom element code.
-##   $host (String): the hostname of the site that is being displayed.
-
 
 ## The "Allowed" header also includes a "Why?" link that, when hovered, shows
 ## a tooltip explaining why these items were not blocked in the page.
@@ -57,9 +47,6 @@ protections-panel-content-blocking-fingerprinters-label = Raqamli imzo yigʻuvch
 protections-panel-blocking-label = Bloklangan
 protections-panel-not-blocking-label = Ruxsat berilgan
 protections-panel-not-found-label = Hech narsa aniqlanmadi
-
-## Smartblock strings
-
 
 ##
 

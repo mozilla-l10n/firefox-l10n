@@ -34,33 +34,9 @@ split-dismiss-button-dont-show-option =
 split-dismiss-button-manage-settings-option =
     .label = Bainistigh na socruithe
 
-## Login Status Advisory Callout (points to the account icon)
-
-
-## Bookmarks toolbar callout strings
-
-
-## Perplexity callout strings
-
-
-## Account Adoption Passwords callout strings
-
-
-## Sidebar Strings
-
-
 ## Sidebar Vertical Tabs Strings
 
 vertical-tabs-callout-2-cta-button = Féach anois é
-
-## Sidebar Vertical Tabs Pinning Strings
-
-
-## Pinning Tabs Strings
-
-
-## Sidebar Onboarding Strings
-
 
 ## Sidebar Callout Survey Strings
 

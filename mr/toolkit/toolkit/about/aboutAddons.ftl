@@ -4,10 +4,6 @@
 
 addons-page-title = ॲड-ऑन्स् व्यवस्थापक
 
-## Variables
-##   $domain - Domain name where add-ons are available (e.g. addons.mozilla.org)
-
-
 ##
 
 list-empty-installed =
@@ -212,14 +208,6 @@ install-update-button = अद्ययावत करा
 addon-detail-private-browsing-allow = परवानगी द्या
 addon-detail-private-browsing-disallow = परवानगी देऊ नका
 
-## "sites with restrictions" (internally called "quarantined") are special domains
-## where add-ons are normally blocked for security reasons.
-
-
-## This is the tooltip text for the recommended badges for an extension in about:addons. The
-## badge is a small icon displayed next to an extension when it is recommended on AMO.
-
-
 ##
 
 available-updates-heading = उपलब्ध सुधारणा
@@ -278,10 +266,3 @@ plugins-gmp-privacy-info = गोपनीयता माहिती
 plugins-openh264-name = Cisco Systems, Inc तर्फे पुरवलेले OpenH264 व्हिडीओ कोडेक.
 plugins-openh264-description = WebRTC विनिर्दीष्ट पूर्ण करण्यासाठी आणि ज्यांना H.264 व्हिडिओ कोडेक आवश्यक असतो अशा साधनांसह WebRTC कॉल्स सक्षम करण्यासाठी Mozilla द्वारे हे प्लगिन स्वयंचलित रित्या इंस्टॉल केले गेले आहे. कोडेक स्त्रोत कोड पाहण्यासाठी http://www.openh264.org/ ला भेट द्या आणि आमल्बजावणी संदर्भात अधिक जाणून घ्या.
 plugins-widevine-name = Google Inc. द्वारे प्रदान वाइडवाइन सामग्री डिक्रीप्शन मॉड्यूल
-
-## Headings for the Permissions tab in `about:addons` when the data collection
-## feature is enabled.
-
-
-## Mapping Engine IDs from AI models to how that feature represented by the engine Id is described in the used by section in local model management
-

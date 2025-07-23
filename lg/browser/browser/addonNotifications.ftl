@@ -4,16 +4,6 @@
 
 xpinstall-prompt = { -brand-short-name } eziiyiza omuko guno okkubuuza okutekamu pulogulamu mu kompyuta yo.
 
-## Variables:
-##   $host (String): The hostname of the site the add-on is being installed from.
-
-
-##
-
-
-# These messages are shown when a website invokes navigator.requestMIDIAccess.
-
-
 ##
 
 xpinstall-disabled-locked = Akulira ebya komputya alemesezza okuteekamu enteekateeka za pulogulamu za kompyuta.
@@ -22,10 +12,6 @@ xpinstall-disabled = Enteekamu ya pulogulamu za kompyuta elemeseddwa. Nyiga epes
 ## Add-on removal warning
 
 addon-download-verifying = Ekakasa
-
-## Variables:
-##   $addonCount (Number): the number of add-ons being installed
-
 
 ## Add-on install errors
 ## Variables:

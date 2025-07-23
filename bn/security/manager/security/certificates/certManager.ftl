@@ -131,9 +131,6 @@ delete-email-cert-impact = কোনো ইমেইল সার্টিফি
 cert-with-serial =
     .value = সিরিয়াল নম্বর সহ সার্টিফিকেট: { $serialNumber }
 
-## Used to show whether an override is temporary or permanent
-
-
 ## Add Security Exception dialog
 
 add-exception-branded-warning = { -brand-short-name } দ্বারা এই সাইটের পরিচয় নির্ধারণের প্রক্রিয়া আপনি পরিবর্তন করতে চলেছেন।

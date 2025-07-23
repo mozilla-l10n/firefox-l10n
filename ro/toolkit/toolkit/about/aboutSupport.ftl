@@ -157,14 +157,6 @@ media-capabilities-title = Capabilități media
 # List all the entries of the database.
 media-capabilities-enumerate = Enumeră baza de date
 
-## Codec support table
-
-
-## Media Content Decryption Modules (CDM)
-## See EME Spec for more explanation for following technical terms
-## https://w3c.github.io/encrypted-media/
-
-
 ##
 
 intl-title = Internaționalizare și localizare
@@ -358,9 +350,6 @@ support-printing-modified-settings = Setări de tipărire modificate
 support-printing-prefs-name = Nume
 support-printing-prefs-value = Valoare
 
-## Remote Settings sections
-
-
 ## Normandy sections
 
 support-remote-experiments-title = Experimente la distanță
@@ -369,9 +358,3 @@ support-remote-experiments-see-about-studies = Consultă <a data-l10n-name="supp
 support-remote-features-title = Funcții la distanță
 support-remote-features-name = Nume
 support-remote-features-status = Stare
-
-## Pointing devices
-
-
-## Content Analysis (DLP)
-

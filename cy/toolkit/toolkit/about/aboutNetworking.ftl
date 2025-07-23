@@ -64,6 +64,3 @@ about-networking-moved-about-logging = Mae'r dudalen hon wedi'i symud i <a data-
 
 about-networking-networkid-is-up = Mae'r cyswllt ar i fyny
 about-networking-networkid-status-known = Mae statws y cyswllt yn hysbys
-
-##
-

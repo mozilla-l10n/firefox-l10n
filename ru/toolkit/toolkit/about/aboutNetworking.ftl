@@ -64,6 +64,3 @@ about-networking-moved-about-logging = Эта страница была пере
 
 about-networking-networkid-is-up = Соединение установлено
 about-networking-networkid-status-known = Состояние соединения известно
-
-##
-

@@ -12,9 +12,6 @@ about-webrtc-document-title = WebRTC આંતરિક
 # translated. This string is used as a title for a file save dialog box.
 about-webrtc-save-page-dialog-title = વિશે સાચવો:webrtc તરીકે
 
-## These labels are for a disclosure which contains the information for closed PeerConnection sections
-
-
 ## AEC is an abbreviation for Acoustic Echo Cancellation.
 
 about-webrtc-aec-logging-msg-label = AEC લૉગિંગ
@@ -106,11 +103,6 @@ about-webrtc-log-section-hide-msg = લોગ છુપાવો
 about-webrtc-connection-open = [ { $browser-id } | { $id } ] { $url } { $now }
 about-webrtc-connection-closed = [ { $browser-id } | { $id } ] { $url } (બંધ) { $now }
 
-## These are used to indicate what direction media is flowing.
-## Variables:
-##  $codecs - a list of media codecs
-
-
 ##
 
 about-webrtc-local-candidate = સ્થાનિક ઉમેદવાર
@@ -138,23 +130,6 @@ about-webrtc-fold-default-hide-msg = વિગતો છુપાવો
 about-webrtc-decoder-label = ડીકોડર
 about-webrtc-encoder-label = એન્કોડર
 
-## SSRCs are identifiers that represent endpoints in an RTP stream
-
-
-## These are displayed on the button that shows or hides the
-## PeerConnection configuration disclosure
-
-
-##
-
-
-## These are displayed on the button that shows or hides the
-## user modified configuration disclosure
-
-
-##
-
-
 ##
 
 about-webrtc-save-page-msg = પૃષ્ઠ પર સાચવ્યું: { $path }
@@ -175,18 +150,3 @@ about-webrtc-jitter-label = ઝીટર { $jitter }
 # (an attribute of an ICE candidate). These are highlighted in the ICE stats
 # table with light blue background.
 about-webrtc-trickle-caption-msg = ટ્રીકલ ઉમેદવારો (જવાબ પછી પહોંચ્યા) વાદળી માં પ્રકાશિત થયા
-
-## "SDP" is an abbreviation for Session Description Protocol, an IETF standard.
-## See http://wikipedia.org/wiki/Session_Description_Protocol
-
-
-## These are displayed on the button that shows or hides the SDP information disclosure
-
-
-## These are displayed on the button that shows or hides the Media Context information disclosure.
-## The Media Context is the set of preferences and detected capabilities that informs
-## the negotiated CODEC settings.
-
-
-##
-

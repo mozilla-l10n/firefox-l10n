@@ -164,14 +164,6 @@ media-capabilities-title = Meedia esitamise võimekus
 # List all the entries of the database.
 media-capabilities-enumerate = Hinda uuesti
 
-## Codec support table
-
-
-## Media Content Decryption Modules (CDM)
-## See EME Spec for more explanation for following technical terms
-## https://w3c.github.io/encrypted-media/
-
-
 ##
 
 intl-title = Lokaliseerimine
@@ -376,9 +368,6 @@ support-printing-modified-settings = Muudetud printimise sätted
 support-printing-prefs-name = Nimi
 support-printing-prefs-value = Väärtus
 
-## Remote Settings sections
-
-
 ## Normandy sections
 
 support-remote-experiments-title = Kauguuringud
@@ -388,9 +377,3 @@ support-remote-experiments-see-about-studies = Rohkema teabe saamiseks vaata <a 
 support-remote-features-title = Kaugfunktsionaalsused
 support-remote-features-name = Nimi
 support-remote-features-status = Olek
-
-## Pointing devices
-
-
-## Content Analysis (DLP)
-

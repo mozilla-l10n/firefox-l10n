@@ -5,8 +5,3 @@
 printpreview-close =
     .label = Ŕ´amch
     .accesskey = Ŕ
-
-## Variables
-## $percent (integer) - menuitem percent label
-## $arrow (String) - UTF-8 arrow character for navigation buttons
-

@@ -172,9 +172,6 @@ firefoxview-spotlight-promo-subtitle = Ցանկանո՞ւմ եք բացել նե
 firefoxview-spotlight-promo-primarybutton = Տեսեք, թե ինչպես է այն աշխատում
 firefoxview-spotlight-promo-secondarybutton = Բաց թողնել
 
-## Colorways expiry reminder CFR
-
-
 ## Cookie Banner Handling CFR
 
 cfr-cbh-header = Թույլատրե՞լ { -brand-short-name }-ին մերժել թխուկների պաստառները:

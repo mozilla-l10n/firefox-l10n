@@ -48,18 +48,12 @@ permissions-capabilities-listitem-allow-session =
 permissions-invalid-uri-title = បាន​បញ្ចូល​ឈ្មោះ​ម៉ាស៊ីន​ដែល​មិន​ត្រឹមត្រូវ
 permissions-invalid-uri-label = សូម​បញ្ចូល​ឈ្មោះ​ម៉ាស៊ីន​ត្រឹមត្រូវ
 
-## Exceptions - Tracking Protection
-
-
 ## Exceptions - Cookies
 
 permissions-exceptions-cookie-window2 =
     .title = ករណី​លើកលែង - ខូឃី និង​ទិន្នន័យ​គេហទំព័រ
     .style = { permissions-window2.style }
 permissions-exceptions-cookie-desc = អ្នក​អាច​បញ្ជាក់​តំបន់បណ្ដាញ​ណាមួយ​ដែល​តែងតែ ឬ​មិន​ដែល​អនុញ្ញាត​ឲ្យ​ប្រើ​ខូគី​និងទិន្នន័យសាយទាំងនេះ ។  វាយ​អាសយដ្ឋាន​ជាក់លាក់​របស់​តំបន់បណ្ដាញ​ដែល​អ្នក​ចង់​គ្រប់គ្រង បន្ទាប់មក​ចុច​ទប់ស្កាត់ អនុញ្ញាត​សម្រាប់​សម័យ ឬ​អនុញ្ញាត ។
-
-## Exceptions - HTTPS-Only Mode
-
 
 ## Exceptions - Pop-ups
 
@@ -75,18 +69,12 @@ permissions-exceptions-saved-logins-window2 =
     .style = { permissions-window2.style }
 permissions-exceptions-saved-logins-desc = ការចូលសម្រាប់គេហទំព័រខាងក្រោមនឹងមិនត្រូវបានរក្សាទុកទេ
 
-## Exceptions - Saved Passwords
-
-
 ## Exceptions - Add-ons
 
 permissions-exceptions-addons-window2 =
     .title = តំបន់បណ្ដាញដែលបានអនុញ្ញាត - ការដំឡើងកម្មវិធីបន្ថែម
     .style = { permissions-window2.style }
 permissions-exceptions-addons-desc = អ្នក​អាច​បញ្ជាក់​តំបន់បណ្ដាញ​ណាមួយ​ដែល​អនុញ្ញាត​ឲ្យ​ដំឡើង​កម្មវិធី​បន្ថែម ។ វាយ​អាសយដ្ឋាន​ជាក់លាក់​របស់​តំបន់បណ្ដាញ​ដែល​អ្នក​ចង់​អនុញ្ញាត បន្ទាប់មក ចុច​អនុញ្ញាត ។
-
-## Site Permissions - Autoplay
-
 
 ## Site Permissions - Notifications
 
@@ -108,9 +96,6 @@ permissions-site-location-disable-label =
     .label = ទប់ស្កាត់សំណើថ្មីដែលស្នើសុំឲ្យចូលប្រើទីតាំងរបស់អ្នក
 permissions-site-location-disable-desc = វា​នឹងរារាំងគេហទំព័រ​ដែលមិនមានក្នុងបញ្ជីខាងលើនេះមិនឲ្យស្នើសុំការអនុញ្ញាតដើម្បីចូលប្រើទីតាំងរបស់អ្នក។ ការទប់ស្កាត់ការចូលប្រើទីតាំងរបស់អ្នកអាចធ្វើឲ្យលក្ខណៈពិសេសនៃតំបន់បណ្ដាញមួយចំនួនមិនអាចប្រើបាន។
 
-## Site Permissions - Virtual Reality
-
-
 ## Site Permissions - Camera
 
 permissions-site-camera-window2 =
@@ -130,8 +115,3 @@ permissions-site-microphone-desc = គេហទំព័រ​ខាងក្រ
 permissions-site-microphone-disable-label =
     .label = ទប់ស្កាត់សំណើថ្មីដែលស្នើសុំឲ្យចូលប្រើមីក្រូហ្វូនរបស់អ្នក
 permissions-site-microphone-disable-desc = វា​នឹងរារាំងគេហទំព័រ​ដែលមិនមានក្នុងបញ្ជីខាងលើនេះមិនឲ្យស្នើសុំការអនុញ្ញាតដើម្បីចូលប្រើប្រាស់​មីក្រូហ្វូន​របស់អ្នក។ ការទប់ស្កាត់ការចូលប្រើប្រាស់​​មីក្រូហ្វូន​​របស់អ្នកអាចធ្វើឲ្យ​មុខងារ​​របស់​គេហទំព័រ​មួយចំនួនមិនអាចប្រើប្រាស់​បាន។
-
-## Site Permissions - Speaker
-##
-## "Speaker" refers to an audio output device.
-

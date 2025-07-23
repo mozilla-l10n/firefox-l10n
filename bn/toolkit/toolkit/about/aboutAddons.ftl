@@ -7,10 +7,6 @@ search-header =
     .placeholder = addons.mozilla.org এ অনুসন্ধান করুন
     .searchbuttonlabel = অনুসন্ধান
 
-## Variables
-##   $domain - Domain name where add-ons are available (e.g. addons.mozilla.org)
-
-
 ##
 
 list-empty-installed =
@@ -357,10 +353,6 @@ addon-detail-private-browsing-help = অনুমতি পেলে, প্র�
 addon-detail-private-browsing-allow = অনুমতি দাও
 addon-detail-private-browsing-disallow = অনুমতি দিও না
 
-## "sites with restrictions" (internally called "quarantined") are special domains
-## where add-ons are normally blocked for security reasons.
-
-
 ## This is the tooltip text for the recommended badges for an extension in about:addons. The
 ## badge is a small icon displayed next to an extension when it is recommended on AMO.
 
@@ -435,10 +427,3 @@ plugins-openh264-name = Cisco Systems, Inc. দ্বারা উপলব্�
 plugins-openh264-description = এই প্লাগিনটি স্বয়ংক্রিয়ভাবেই Mozilla এর মাধ্যমে ইন্সটল করা হয়েছে WebRTC স্পেসিফিকেশনের সাথে পাল্লা দেওয়ার জন্য এবং WebRTC কল সক্রিয় করার জন্য। কারন WebRTC তে H.264 ভিডিও কোডেক দরকার হয়। http://www.openh264.org/ ভিজিট করুন কোডেকের সোর্স কোড দেখার জন্য এবং ইমপ্লিমেন্টেশন সম্পর্কে আরও জানার জন্য।
 plugins-widevine-name = Google inc প্রদত্ত Widevine Content Decryption মডিউল
 plugins-widevine-description = এই প্লাগইনটি এনক্রিপ্ট করা মিডিয়া এক্সটেনশনের স্পেসিফিকেশনের সম্মতিতে এনক্রিপ্ট করা মিডিয়াগুলির প্লেব্যাক সক্ষম করে। এনক্রিপ্ট করা মিডিয়া সাধারণত প্রিমিয়াম মিডিয়া কন্টেন্ট কপি করা থেকে সুরক্ষার জন্য সাইটগুলি ব্যবহার করে থাকে। এনক্রিপ্ট করা মিডিয়া এক্সটেনশন সম্পর্কিত আরও তথ্যের জন্য https://www.w3.org/TR/encrypted-media/ দেখুন।
-
-## Headings for the Permissions tab in `about:addons` when the data collection
-## feature is enabled.
-
-
-## Mapping Engine IDs from AI models to how that feature represented by the engine Id is described in the used by section in local model management
-

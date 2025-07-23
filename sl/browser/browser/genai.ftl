@@ -110,9 +110,6 @@ genai-options-hide-shortcut =
 genai-options-about-chatbot =
     .label = O UI-klepetalnikih v { -brand-short-name(sklon: "mestnik") }
 
-## Chatbot footer
-
-
 ## Chatbot onboarding
 
 genai-onboarding-header = Povzemajte, razmišljajte in drugo med brskanjem

@@ -129,9 +129,6 @@ urlbar-star-edit-bookmark =
 urlbar-star-add-bookmark =
     .tooltiptext = Sa raj sun nichrà' doj pagina na ({ $shortcut })
 
-## Page Action Context Menu
-
-
 ## Auto-hide Context Menu
 
 full-screen-autohide =
@@ -161,14 +158,6 @@ search-one-offs-context-set-as-default-private =
 # submenu using this as its label.
 search-one-offs-add-engine-menu =
     .label = Nutò' a'ngô sa ruguñu'unj ñù' nana'uì'
-
-## Local search mode one-off buttons
-## Variables:
-##  $restrict (String): The restriction token corresponding to the search mode.
-##    Restriction tokens are special characters users can type in the urlbar to
-##    restrict their searches to certain sources (e.g., "*" to search only
-##    bookmarks).
-
 
 ## QuickActions are shown in the urlbar as the user types a matching string
 ## The -cmd- strings are comma separated list of keywords that will match
@@ -255,26 +244,9 @@ browser-window-minimize-button =
 browser-window-close-button =
     .tooltiptext = Narán
 
-## Tab actions
-
-
-## These labels should be written in all capital letters if your locale supports them.
-## Variables:
-##  $count (number): number of affected tabs
-
-
-## Bookmarks toolbar items
-
-
 ## WebRTC Pop-up notifications
 
 popup-all-windows-shared = Daran' ventana nu riña si pantayât ni ga'ue garasun nugua'ān ne'.
-
-## WebRTC window or screen share tab switch warning
-
-
-## DevTools F12 popup
-
 
 ## URL Bar
 
@@ -323,14 +295,6 @@ urlbar-searchmode-history =
 urlbar-searchmode-actions =
     .label = Sa gi'hiát
 
-## Action text shown in urlbar results, usually appended after the search
-## string or the url, like "result value - action text".
-## In these actions "Search" is a verb, followed by where the search is performed.
-
-
-## Labels shown above groups of urlbar results
-
-
 ## Reader View toolbar buttons
 
 # This should match menu-view-enter-readerview in menubar.ftl
@@ -339,11 +303,6 @@ reader-view-enter-button =
 # This should match menu-view-close-readerview in menubar.ftl
 reader-view-close-button =
     .aria-label = Nàrun' sa ahio'
-
-## Picture-in-Picture urlbar button
-## Variables:
-##   $shortcut (String) - Keyboard shortcut to execute the command.
-
 
 ## Full Screen and Pointer Lock UI
 
@@ -428,9 +387,6 @@ save-to-pocket-button =
     .label = Nanín sa'aj riña { -pocket-brand-name }
     .tooltiptext = Nanín sa'aj riña { -pocket-brand-name }
 
-## Repair text encoding toolbar button
-
-
 ## Customize Toolbar Buttons
 
 toolbar-overflow-customize-button =
@@ -462,9 +418,6 @@ toolbar-button-new-private-window =
 
 eme-notifications-drm-content-playing = Hua 'ngo sa achráa nej si video ni rajsun ma software DRM, ga'ue dure'ej { -brand-short-name } sa 'io' 'ngàj.
 
-## Password save/update panel
-
-
 ##
 
 ui-tour-info-panel-close =
@@ -488,10 +441,6 @@ popups-infobar-dont-show-message =
 picture-in-picture-hide-toggle =
     .label = Ga'nïnj huì sa ni'io' riña sa ni'io' Naduna
     .accesskey = H
-
-## Since the default position for PiP controls does not change for RTL layout,
-## right-to-left languages should use "Left" and "Right" as in the English strings,
-
 
 ##
 
@@ -531,36 +480,12 @@ tabs-toolbar-list-all-tabs =
     .label = Ni'io' nej rakïj ñanj hua ni'ninj
     .tooltiptext = Ni'io' nej rakïj ñanj hua ni'ninj
 
-## Infobar shown at startup to suggest session-restore
-
-
-## Infobar shown when the user tries to open a file picker and file pickers are blocked by enterprise policy
-
-
 ## Mozilla data reporting notification (Telemetry, Firefox Health Report, etc)
 
 data-reporting-notification-message = { -brand-short-name } a'nîn ma'ān ma dato { -vendor-short-name } da' nahuin hue'e ma.
 data-reporting-notification-button =
     .label = Naduno' sa ga'ni' ga'anj
     .accesskey = C
-
-## Unified extensions (toolbar) button
-
-
-## Unified extensions button when permission(s) are needed.
-## Note that the new line is intentionally part of the tooltip.
-
-
-## Unified extensions button when some extensions are quarantined.
-## Note that the new line is intentionally part of the tooltip.
-
-
-## Unified extensions button when some extensions are disabled (e.g. through add-ons blocklist).
-## Note that the new line is intentionally part of the tooltip.
-
-
-## Private browsing reset button
-
 
 ## Autorefresh blocker
 
@@ -569,9 +494,6 @@ refresh-blocked-redirect-label = { -brand-short-name } nū ga'ue ga'anj ma'an pa
 refresh-blocked-allow =
     .label = Ga'nïn
     .accesskey = A
-
-## Firefox Relay integration
-
 
 ## Add-on Pop-up Notifications
 
@@ -607,16 +529,3 @@ popup-warning-button =
 #   $popupURI (String): the URI for the pop-up window
 popup-show-popup-menuitem =
     .label = Digun' “{ $popupURI }”
-
-## File-picker crash notification ("FilePickerCrashed.sys.mjs")
-
-
-# Button used with file-picker-crashed-save-default. Opens the folder in Windows
-# Explorer, with the saved file selected and in focus.
-#
-# The wording here should be consistent with the Windows variant of
-# `downloads-cmd-show-menuitem-2` and similar messages.
-
-
-## Onboarding Finish Setup checklist
-

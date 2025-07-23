@@ -17,9 +17,6 @@ webext-perms-header-unsigned-with-perms = Додати { $extension }? Овај 
 webext-perms-sideload-header = Додатак { $extension } је додат
 webext-perms-optional-perms-header = { $extension } захтева додатне дозволе.
 
-## Headers used in the webextension permissions dialog, inside the content.
-
-
 ##
 
 webext-perms-add =
@@ -75,9 +72,6 @@ webext-perms-host-description-too-many-sites =
        *[other] Приступ подацима на још { $domainCount } сајтова
     }
 
-## Strings for data collection permissions in the permission prompt.
-
-
 ## Headers used in the webextension permissions dialog for synthetic add-ons.
 ## The part of the string describing what privileges the extension gives should be consistent
 ## with the value of webext-site-perms-description-gated-perms-{sitePermission}.
@@ -111,6 +105,3 @@ webext-site-perms-header-unsigned-with-perms = Додати { $extension }? Ов
 
 webext-site-perms-midi = Приступ MIDI уређајима
 webext-site-perms-midi-sysex = Приступ MIDI уређајима са SysEx подршком
-
-## Colorway theme migration
-

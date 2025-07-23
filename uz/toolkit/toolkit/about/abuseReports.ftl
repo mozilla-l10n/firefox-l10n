@@ -6,18 +6,6 @@ abuse-report-learnmore =
     Qaysi muammoni tanlashni bilamayapsizmi?
     <a data-l10n-name="learnmore-link">Kengaytma va mavzular ustidan shikoyat qilish haqida batafsil</a>
 
-## Panel buttons.
-
-
-## Message bars descriptions.
-##
-## Variables:
-##   $addon-name (string) - Name of the add-on
-
-
-## Message bars actions.
-
-
 ## Abuse report reasons (optionally paired with related examples and/or suggestions)
 
 abuse-report-settings-reason-v2 = Qidiruv tizimi, bosh sahifa va yangi varaqlarni mendan soʻramasdan va menga xabar bermay oʻzgartiryapti

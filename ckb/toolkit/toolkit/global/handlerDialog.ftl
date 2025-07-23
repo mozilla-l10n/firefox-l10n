@@ -13,17 +13,6 @@
 permission-dialog-description = ڕێگە بەم ماڵپەڕە بدە بەستەری { $scheme } بکاتەوە؟
 permission-dialog-description-file = ڕێگە بدە بەم پەڕگەیە بەستەری { $scheme } بکاتەوە؟
 
-## Please keep the emphasis around the hostname and scheme (ie the
-## `<strong>` HTML tags). Please also keep the hostname as close to the start
-## of the sentence as your language's grammar allows.
-## Variables:
-##  $host (string) - The hostname that is initiating the request
-##  $scheme (string) - The type of link that's being opened.
-
-
-##
-
-
 ## Chooser dialog
 ## Variables:
 ##  $scheme (string) - The type of link that's being opened.

@@ -44,9 +44,6 @@ options-default-color-unit-hsl = HSL(A)
 options-default-color-unit-rgb = RGB(A)
 options-default-color-unit-name = Kruosu nūsaukumi
 
-## Web Console section
-
-
 ## Style Editor section
 
 # The heading

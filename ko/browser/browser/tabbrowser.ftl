@@ -196,7 +196,9 @@ tabbrowser-manager-current-window-tab-group =
     .label = { $tabGroupName }
     .tooltiptext = { $tabGroupName } — 현재 창
 
-## Tab Groups
+## Variables:
+##  $tabGroupName (String): The name of the tab group. Defaults to the value
+##                          of tab-group-name-default.
 
 tab-group-editor-title-create = 탭 그룹 만들기
 tab-group-editor-title-edit = 탭 그룹 관리
@@ -226,16 +228,12 @@ tab-group-editor-color-selector2-gray = 회색
     .title = 회색
 tab-group-editor-color-selector2-red = 빨간색
     .title = 빨간색
-# Variables:
-#  $tabGroupName (String): The name of the tab group. Defaults to the value
-#                          of tab-group-name-default.
 tab-group-description = { $tabGroupName } — 탭 그룹
 tab-context-unnamed-group =
     .label = 이름없는 그룹
 tab-group-name-default = 이름없는 그룹
 
-## Variables:
-##  $tabCount (Number): the number of tabs that are affected by the action.
+##
 
 tab-context-move-tab-to-new-group =
     .label =

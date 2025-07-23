@@ -33,9 +33,6 @@ download-cert-view-cert =
     .label = दृश्य
 download-cert-view-text = CA प्रमाणपत्र जाँच गर्नुहोस्
 
-## Client Authorization Ask dialog
-
-
 ## Client Authentication Ask dialog
 
 client-auth-window =
@@ -78,6 +75,3 @@ set-password-backup-pw =
 set-password-repeat-backup-pw =
     .value = प्रमाणपत्र जगेडा गोप्यशब्द(पुनः):
 set-password-reminder = महत्वपूर्ण: तपाईँले आफ्नो प्रमाणपत्रको जगेडा गोप्यशब्द बिर्सनुभयो भने, तपाईँले यो जगेडालाई पछि पुनः भण्डारण गर्न सक्नुहुन्न। कृपया यसलाई सुरक्षित स्थानमा रेकर्ड गर्नुहोस्।
-
-## Protected authentication alert
-

@@ -25,23 +25,7 @@ safeb-blocked-phishing-page-learn-more = Kuni kue´eka jie da nuu ntu vatu je ph
 ## Variables
 ##  $sitename (string) - Domain name for the blocked page
 
-
-## Variables
-##  $sitename (string) - Domain name for the blocked page
-
 safeb-blocked-malware-page-learn-more-sumo = Kutu'va kue'eka jie a kumi noo´o nu phishing je malware { -brand-short-name } nu <a data-l10n-name='firefox_support'>support.mozilla.org</a>.
-
-## Variables
-##  $sitename (string) - Domain name for the blocked page
-
-
-## Variables
-##  $sitename (string) - Domain name for the blocked page
-
-
-## Variables
-##  $sitename (string) - Domain name for the blocked page
-
 
 ## Variables
 ##  $sitename (string) - Domain name for the blocked page

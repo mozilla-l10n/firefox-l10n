@@ -62,30 +62,6 @@ copy-text-to-clipboard-label = rapikunaq allchanapatamanta qilqaytaqi.
 copy-raw-data-to-clipboard-label = Rapikunaq  hanku allchanapatamanta qilqaytaqi.
 sandbox-title = Aqupata
 
-## Media titles
-
-
-## Codec support table
-
-
-## Media Content Decryption Modules (CDM)
-## See EME Spec for more explanation for following technical terms
-## https://w3c.github.io/encrypted-media/
-
-
-##
-
-
-## Remote Debugging
-##
-## The Firefox remote protocol provides low-level debugging interfaces
-## used to inspect state and control execution of documents,
-## browser instrumentation, user interaction simulation,
-## and for subscribing to browser-internal events.
-##
-## See also https://firefox-source-docs.mozilla.org/remote/
-
-
 ##
 
 # Variables
@@ -182,21 +158,3 @@ drag-enabled = Siqi kuyuq  chutapaypa kichasqa
 
 wheel-warning = Hukuchaq siqi kuyuynin haykuq sikisqa { $preferenceKey }nisqa mana chaskisqa kaqtin
 touch-warning = Tupaykunaq yaykuynin sikisqa { $preferenceKey } nisqa mana chaskisqa kaqtin
-
-## Strings representing the status of the Enterprise Policies engine.
-
-
-## Printing section
-
-
-## Remote Settings sections
-
-
-## Normandy sections
-
-
-## Pointing devices
-
-
-## Content Analysis (DLP)
-

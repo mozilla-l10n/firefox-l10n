@@ -16,18 +16,6 @@ browser-main-window-title = { -brand-full-name }
 urlbar-identity-button =
     .aria-label = Mbwíʔ yêts ré
 
-## Tooltips for images appearing in the address bar
-
-
-## Prompts users to use the Urlbar when they open a new tab or visit the
-## homepage of their default search engine.
-## Variables:
-##  $engineName (String): The name of the user's default search engine. e.g. "Google" or "DuckDuckGo".
-
-
-## Local search mode indicator labels in the urlbar
-
-
 ##
 
 # Variables
@@ -39,9 +27,6 @@ urlbar-star-edit-bookmark =
 urlbar-star-add-bookmark =
     .tooltiptext = Tób loo ré lèɁn ndó~làz=ná ({ $shortcut })
 
-## Page Action Context Menu
-
-
 ## Auto-hide Context Menu
 
 full-screen-autohide =
@@ -51,54 +36,12 @@ full-screen-exit =
     .label = mb-ròɁ lô
     .accesskey = l
 
-## Search Engine selection buttons (one-offs)
-
-
-## Local search mode one-off buttons
-## Variables:
-##  $restrict (String): The restriction token corresponding to the search mode.
-##    Restriction tokens are special characters users can type in the urlbar to
-##    restrict their searches to certain sources (e.g., "*" to search only
-##    bookmarks).
-
-
-## QuickActions are shown in the urlbar as the user types a matching string
-## The -cmd- strings are comma separated list of keywords that will match
-## the action.
-
-
-## Bookmark Panel
-
-
-## Identity Panel
-
-
 ## Window controls
 
 browser-window-minimize-button =
     .tooltiptext = Bli luuta
 browser-window-close-button =
     .tooltiptext = TòɁw
-
-## Tab actions
-
-
-## These labels should be written in all capital letters if your locale supports them.
-## Variables:
-##  $count (number): number of affected tabs
-
-
-## Bookmarks toolbar items
-
-
-## WebRTC Pop-up notifications
-
-
-## WebRTC window or screen share tab switch warning
-
-
-## DevTools F12 popup
-
 
 ## URL Bar
 
@@ -123,17 +66,6 @@ urlbar-go-button =
 #  $engine (String): the name of a search engine
 urlbar-result-action-search-w-engine = KwàɁn loo { $engine }
 
-## Strings used for buttons in the urlbar
-
-
-## Action text shown in urlbar results, usually appended after the search
-## string or the url, like "result value - action text".
-## In these actions "Search" is a verb, followed by where the search is performed.
-
-
-## Labels shown above groups of urlbar results
-
-
 ## Reader View toolbar buttons
 
 # This should match menu-view-enter-readerview in menubar.ftl
@@ -142,11 +74,6 @@ reader-view-enter-button =
 # This should match menu-view-close-readerview in menubar.ftl
 reader-view-close-button =
     .aria-label = TòɁw mbwíʔ
-
-## Picture-in-Picture urlbar button
-## Variables:
-##   $shortcut (String) - Keyboard shortcut to execute the command.
-
 
 ## Full Screen and Pointer Lock UI
 
@@ -166,11 +93,6 @@ bookmarks-other-bookmarks-menu =
 bookmarks-mobile-bookmarks-menu =
     .label = Ndó~làz=ná xó lent yib
 
-## Variables:
-##   $isVisible (boolean): if the specific element (e.g. bookmarks sidebar,
-##                         bookmarks toolbar, etc.) is visible or not.
-
-
 ##
 
 bookmarks-search =
@@ -182,15 +104,6 @@ bookmarks-toolbar-placeholder =
 bookmarks-toolbar-placeholder-button =
     .label = Té tak güin ko ndó~làz=ná
 
-## Library Panel items
-
-
-## Pocket toolbar button
-
-
-## Repair text encoding toolbar button
-
-
 ## Customize Toolbar Buttons
 
 # Variables:
@@ -199,27 +112,10 @@ toolbar-button-open-file =
     .label = Xhal yets ndedizh
     .tooltiptext = Mb-šàlɁ lá yêtz ({ $shortcut })
 
-## EME notification panel
-
-
-## Password save/update panel
-
-
 ##
 
 ui-tour-info-panel-close =
     .tooltiptext = TòɁw
-
-## Variables:
-##  $uriHost (String): URI host for which the popup was allowed or blocked.
-
-
-##
-
-
-## Since the default position for PiP controls does not change for RTL layout,
-## right-to-left languages should use "Left" and "Right" as in the English strings,
-
 
 ##
 
@@ -243,58 +139,9 @@ tabs-toolbar-list-all-tabs =
     .label = Loo ree taa loo
     .tooltiptext = Loo ree taa loo
 
-## Infobar shown at startup to suggest session-restore
-
-
-## Infobar shown when the user tries to open a file picker and file pickers are blocked by enterprise policy
-
-
-## Mozilla data reporting notification (Telemetry, Firefox Health Report, etc)
-
-
-## Unified extensions (toolbar) button
-
-
-## Unified extensions button when permission(s) are needed.
-## Note that the new line is intentionally part of the tooltip.
-
-
-## Unified extensions button when some extensions are quarantined.
-## Note that the new line is intentionally part of the tooltip.
-
-
-## Unified extensions button when some extensions are disabled (e.g. through add-ons blocklist).
-## Note that the new line is intentionally part of the tooltip.
-
-
-## Private browsing reset button
-
-
-## Autorefresh blocker
-
-
-## Firefox Relay integration
-
-
-## Add-on Pop-up Notifications
-
-
 ## Pop-up warning
 
 # Variables:
 #   $popupURI (String): the URI for the pop-up window
 popup-show-popup-menuitem =
     .label = Mb-lòɁ '{ $popupURI }'
-
-## File-picker crash notification ("FilePickerCrashed.sys.mjs")
-
-
-# Button used with file-picker-crashed-save-default. Opens the folder in Windows
-# Explorer, with the saved file selected and in focus.
-#
-# The wording here should be consistent with the Windows variant of
-# `downloads-cmd-show-menuitem-2` and similar messages.
-
-
-## Onboarding Finish Setup checklist
-

@@ -5,6 +5,3 @@
 webext-default-search-yes =
     .label = Kanoj
     .accesskey = K
-
-## A modal confirmation dialog to allow an extension on quarantined domains.
-

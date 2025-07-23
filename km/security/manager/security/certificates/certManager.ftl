@@ -122,9 +122,6 @@ delete-email-cert-title =
 delete-email-cert-confirm = តើ​អ្នក​ពិតជា​ចង់​លុប​វិញ្ញាបនបត្រ​អ៊ីមែល​របស់​មនុស្ស​ទាំងអស់​នេះ​ឬ ?
 delete-email-cert-impact = ប្រសិនបើ អ្នក​លុប​វិញ្ញាបនបត្រ​អ៊ីមែល​របស់​មនុស្ស​ណា​ម្នាក់ អ្នក​ក៏​នឹង​មិន​អាច​ផ្ញើ​អ៊ីមែល​ដែល​បាន​អ៊ិនគ្រីប​ទៅកាន់​មនុស្ស​ម្នាក់​នោះ​បាន​ទៀត​ដែរ ។
 
-## Used to show whether an override is temporary or permanent
-
-
 ## Add Security Exception dialog
 
 add-exception-branded-warning = អ្នក​បម្រុង​នឹង​បដិសេធ​របៀប { -brand-short-name } កំណត់​អត្តសញ្ញាណ​តំបន់បណ្ដាញ​នេះ ។

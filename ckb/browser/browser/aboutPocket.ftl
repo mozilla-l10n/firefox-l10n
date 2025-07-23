@@ -39,9 +39,6 @@ pocket-panel-signup-tagline = بابەتەکان و ڤیدیۆکان پاشەک�
 pocket-panel-signup-tagline-story-one = کرتە بکە لە دوگمەی { -pocket-brand-name } بۆ پاشەکەوتکردنی هەر بابەتێک، ڤیدیۆ یان پەڕە لە { -brand-product-name }ەوە.
 pocket-panel-signup-tagline-story-two = لە { -pocket-brand-name } پیشانی بدە لەهەر ئامێرێک، هەر کاتێک.
 
-## about:pocket-home panel
-
-
 ## Pocket panel header component
 
 pocket-panel-header-sign-in = بچۆژوورەوە

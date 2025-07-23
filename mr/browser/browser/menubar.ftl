@@ -3,18 +3,6 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 
-# NOTE: For English locales, strings in this file should be in APA-style Title Case.
-# See https://apastyle.apa.org/style-grammar-guidelines/capitalization/title-case
-#
-# NOTE: For Engineers, please don't re-use these strings outside of the menubar.
-
-
-# NOTE: For English locales, strings in this file should be in APA-style Title Case.
-# See https://apastyle.apa.org/style-grammar-guidelines/capitalization/title-case
-#
-# NOTE: For Engineers, please don't reuse these strings outside of the menubar.
-
-
 ## Application Menu (macOS only)
 
 menu-application-services =
@@ -213,9 +201,6 @@ menu-bookmarks-other =
     .label = इतर वाचनखूणा
 menu-bookmarks-mobile =
     .label = मोबाईल वाचनखूणा
-
-## Profiles Menu
-
 
 ## Tools Menu
 

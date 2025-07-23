@@ -439,12 +439,3 @@ onboarding-checklist-pin = Закачи { -brand-short-name } на траку з
 onboarding-checklist-import = Увези из претходног прегледача
 onboarding-checklist-extension = Додај додатак
 onboarding-checklist-sign-up = Региструј се или се пријави у налог
-
-## Tab Groups feature onboarding strings
-
-
-## Multi Profiles feature onboarding messages
-
-
-## Desktop to Mobile Adoption feature callout strings
-

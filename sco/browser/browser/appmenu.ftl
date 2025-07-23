@@ -234,9 +234,3 @@ appmenu-customizetoolbar =
 appmenu-developer-tools-subheader = Wab-Stravaiger Tools
 appmenu-developer-tools-extensions =
     .label = Extensions fur forderers
-
-## Panel for privacy and security products
-
-
-## Profiles panel
-

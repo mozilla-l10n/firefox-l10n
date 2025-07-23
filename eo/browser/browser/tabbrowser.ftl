@@ -222,7 +222,9 @@ tabbrowser-manager-current-window-tab-group =
     .label = { $tabGroupName }
     .tooltiptext = { $tabGroupName } — Nuna fenestro
 
-## Tab Groups
+## Variables:
+##  $tabGroupName (String): The name of the tab group. Defaults to the value
+##                          of tab-group-name-default.
 
 tab-group-editor-title-create = Krei grupon de langetoj
 tab-group-editor-title-edit = Administri grupon de langetoj
@@ -252,16 +254,12 @@ tab-group-editor-color-selector2-gray = Griza
     .title = Griza
 tab-group-editor-color-selector2-red = Ruĝa
     .title = Ruĝa
-# Variables:
-#  $tabGroupName (String): The name of the tab group. Defaults to the value
-#                          of tab-group-name-default.
 tab-group-description = { $tabGroupName } — Grupo de langetoj
 tab-context-unnamed-group =
     .label = Grupo sen nomo
 tab-group-name-default = Grupo sen nomo
 
-## Variables:
-##  $tabCount (Number): the number of tabs that are affected by the action.
+##
 
 tab-context-move-tab-to-new-group =
     .label =

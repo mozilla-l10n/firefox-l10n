@@ -255,6 +255,3 @@ appmenuitem-relay-title = { -relay-brand-short-name }
 appmenuitem-relay-description = සැබෑ වි-තැපෑල හා දුරකථනය ආවරණයට
 appmenuitem-vpn-title = { -mozilla-vpn-brand-name }
 appmenuitem-vpn-description = ඔබගේ මාර්ගගත ක්‍රියාකාරකම් රැකගන්න
-
-## Profiles panel
-

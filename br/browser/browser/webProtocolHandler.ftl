@@ -4,10 +4,3 @@
 
 protocolhandler-mailto-os-handler-yes-button = Lakaat dre ziouer
 protocolhandler-mailto-os-handler-no-button = Diwezhatoc’h
-
-## Variables:
-##  $url (String): The url of a webmailer, but only its full domain name.
-
-
-##
-

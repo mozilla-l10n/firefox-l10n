@@ -228,7 +228,9 @@ tabbrowser-manager-current-window-tab-group =
     .label = { $tabGroupName }
     .tooltiptext = { $tabGroupName } - Þessi gluggi
 
-## Tab Groups
+## Variables:
+##  $tabGroupName (String): The name of the tab group. Defaults to the value
+##                          of tab-group-name-default.
 
 tab-group-editor-title-create = Búa til flipahóp
 tab-group-editor-title-edit = Sýsla með flipahóp
@@ -258,16 +260,12 @@ tab-group-editor-color-selector2-gray = Grátt
     .title = Grátt
 tab-group-editor-color-selector2-red = Rautt
     .title = Rautt
-# Variables:
-#  $tabGroupName (String): The name of the tab group. Defaults to the value
-#                          of tab-group-name-default.
 tab-group-description = { $tabGroupName } - flipahópur
 tab-context-unnamed-group =
     .label = Ónefndur hópur
 tab-group-name-default = Ónefndur hópur
 
-## Variables:
-##  $tabCount (Number): the number of tabs that are affected by the action.
+##
 
 tab-context-move-tab-to-new-group =
     .label =

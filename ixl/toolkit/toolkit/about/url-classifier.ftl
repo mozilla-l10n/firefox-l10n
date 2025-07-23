@@ -13,7 +13,3 @@ url-classifier-search-btn = Xe'ten ti ichukpe
 url-classifier-cache-clear-btn = Tusi'
 url-classifier-debug-title = Eesamal el
 url-classifier-success = b'a'xi ya
-
-## Variables
-##   $error (string) - Error message
-

@@ -297,14 +297,6 @@ browser-window-close-button =
 # This label should be written in all capital letters if your locale supports them.
 browser-tab-audio-blocked = ब्लॉक किया गया
 
-## These labels should be written in all capital letters if your locale supports them.
-## Variables:
-##  $count (number): number of affected tabs
-
-
-## Bookmarks toolbar items
-
-
 ## WebRTC Pop-up notifications
 
 popup-select-camera-device =
@@ -325,9 +317,6 @@ sharing-warning-window = आप { -brand-short-name } को साझा कर
 sharing-warning-screen = आप पूरी स्क्रीन साझा कर रहे हैं। नए टैब पर जाने पर अन्य व्यक्ति इसे देख सकता है।
 sharing-warning-disable-for-session =
     .label = इस सत्र के लिए साझाकरण सुरक्षा अक्षम करें
-
-## DevTools F12 popup
-
 
 ## URL Bar
 
@@ -408,11 +397,6 @@ reader-view-enter-button =
 # This should match menu-view-close-readerview in menubar.ftl
 reader-view-close-button =
     .aria-label = रीडर दृश्य बंद करे|
-
-## Picture-in-Picture urlbar button
-## Variables:
-##   $shortcut (String) - Keyboard shortcut to execute the command.
-
 
 ## Full Screen and Pointer Lock UI
 
@@ -497,9 +481,6 @@ save-to-pocket-button =
     .label = { -pocket-brand-name } में सहेजें
     .tooltiptext = { -pocket-brand-name } में सहेजें
 
-## Repair text encoding toolbar button
-
-
 ## Customize Toolbar Buttons
 
 toolbar-overflow-customize-button =
@@ -558,10 +539,6 @@ popups-infobar-dont-show-message =
     .label = इस संदेश को मत दिखाएँ जब पॉप-अप रोके जाते हैं
     .accesskey = डी
 
-## Since the default position for PiP controls does not change for RTL layout,
-## right-to-left languages should use "Left" and "Right" as in the English strings,
-
-
 ##
 
 
@@ -600,36 +577,12 @@ tabs-toolbar-list-all-tabs =
     .label = सभी टैब सूचीबद्ध करें
     .tooltiptext = सभी टैब सूचीबद्ध करें
 
-## Infobar shown at startup to suggest session-restore
-
-
-## Infobar shown when the user tries to open a file picker and file pickers are blocked by enterprise policy
-
-
 ## Mozilla data reporting notification (Telemetry, Firefox Health Report, etc)
 
 data-reporting-notification-message = { -brand-short-name } स्वतः कुछ आँकड़ों को { -vendor-short-name } में भेजता है ताकि हम आपके अनुभव को बढ़ा सकें.
 data-reporting-notification-button =
     .label = चुनें जिसे मैंने साझा किया
     .accesskey = C
-
-## Unified extensions (toolbar) button
-
-
-## Unified extensions button when permission(s) are needed.
-## Note that the new line is intentionally part of the tooltip.
-
-
-## Unified extensions button when some extensions are quarantined.
-## Note that the new line is intentionally part of the tooltip.
-
-
-## Unified extensions button when some extensions are disabled (e.g. through add-ons blocklist).
-## Note that the new line is intentionally part of the tooltip.
-
-
-## Private browsing reset button
-
 
 ## Autorefresh blocker
 
@@ -638,9 +591,6 @@ refresh-blocked-redirect-label = { -brand-short-name } ने इस पृष�
 refresh-blocked-allow =
     .label = अनुमति दें
     .accesskey = A
-
-## Firefox Relay integration
-
 
 ## Add-on Pop-up Notifications
 
@@ -672,16 +622,3 @@ popup-warning-button =
 #   $popupURI (String): the URI for the pop-up window
 popup-show-popup-menuitem =
     .label = '{ $popupURI }' दिखाएँ
-
-## File-picker crash notification ("FilePickerCrashed.sys.mjs")
-
-
-# Button used with file-picker-crashed-save-default. Opens the folder in Windows
-# Explorer, with the saved file selected and in focus.
-#
-# The wording here should be consistent with the Windows variant of
-# `downloads-cmd-show-menuitem-2` and similar messages.
-
-
-## Onboarding Finish Setup checklist
-

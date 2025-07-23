@@ -63,18 +63,6 @@ split-dismiss-button-show-fewer-option =
 split-dismiss-button-manage-settings-option =
     .label = Gestiona els paràmetres
 
-## Login Status Advisory Callout (points to the account icon)
-
-
-## Bookmarks toolbar callout strings
-
-
-## Perplexity callout strings
-
-
-## Account Adoption Passwords callout strings
-
-
 ## Sidebar Strings
 
 sidebar-button-callout-title = Mostra els títols de les pestanyes a la barra lateral
@@ -95,9 +83,6 @@ vertical-tabs-callout-2-subtitle = Aquesta disposició permet examinar ràpidame
 sidebar-pins-callout-title = Heu perdut la pista de les vostres pestanyes importants?
 sidebar-pins-callout-subtitle = Proveu de fixar-les: es mantindran a la part superior de la llista de pestanyes. Feu clic amb el botó dret a la pestanya que vulgueu fixar i trieu «Fixa la pestanya».
 sidebar-pins-callout-cta-button = Fixa la pestanya
-
-## Pinning Tabs Strings
-
 
 ## Sidebar Onboarding Strings
 

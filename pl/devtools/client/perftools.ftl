@@ -159,6 +159,3 @@ perftools-presets-power-description = Ustawienie do badania błędów użycia en
 perftools-presets-debug-label = Debugowanie
 perftools-presets-debug-description = Ustawienie do debugowania w { -brand-shorter-name(case: "loc") }. Wysoki wpływ na wydajność. Nie należy używać do pracy nad wydajnością, tylko do zrozumienia zachowania przeglądarki.
 perftools-presets-custom-label = Inne
-
-##
-

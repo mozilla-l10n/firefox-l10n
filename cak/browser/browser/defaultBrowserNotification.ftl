@@ -21,8 +21,3 @@ default-browser-prompt-message-alt = Tak'ulu' aninem, jikomal chuqa' ichinanem t
 default-browser-prompt-button-primary-alt = Tiya' kan achi'el kanob'äl k'o wi
 default-browser-prompt-checkbox-not-again-label = Man tik'ut chik pe re rutzijol
 default-browser-prompt-button-secondary = Wakami mani
-
-## Strings for a Windows native guidance notification when the user is forced to
-## use Windows Settings to set the default browser. Instructions differ for
-## Windows 10 and 11.
-

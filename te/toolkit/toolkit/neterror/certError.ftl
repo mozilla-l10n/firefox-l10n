@@ -53,10 +53,6 @@ cert-error-details-key-pinning-label = HTTP పబ్లిక్ కీ పి�
 cert-error-details-cert-chain-label = ధృవీకరణపత్రం చైన్:
 open-in-new-window-for-csp-or-xfo-error = సైటును కొత్త కిటికీలో తెరువు
 
-## Variables:
-##   $hostname (string) - Hostname of the website with cert error.
-
-
 ## Messages used for certificate error titles
 
 connectionFailure-title = సంధానం సాధ్యం కావడంలేదు
@@ -94,10 +90,3 @@ networkProtocolError-title = నెట్‌వర్క్ ప్రొటో�
 nssBadCert-title = హెచ్చరిక: సంభావ్య భద్రతా అపాయం ముందుంది
 nssBadCert-sts-title = అనుసంధానం కాలేదు: సంభావ్య భద్రతా సమస్య
 certerror-mitm-title = { -brand-short-name }ను ఈ సైటుకు సురక్షితంగా అనుసంధానమవ్వకుండా సాఫ్ట్‌వేర్ నివారిస్తుంది
-
-## Felt Privacy V1 Strings
-
-
-## Variables:
-##   $hostname (String) - Hostname of the website to which the user was trying to connect.
-

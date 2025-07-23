@@ -103,9 +103,6 @@ permissions-exceptions-saved-logins-window2 =
     .style = { permissions-window2.style }
 permissions-exceptions-saved-logins-desc = ການເຂົ້າສູ່ລະບົບສຳລັບເວັບໄຊຕໍ່ໄປນີ້ຈະບໍ່ຖືກບັນທຶກ
 
-## Exceptions - Saved Passwords
-
-
 ## Exceptions - Add-ons
 
 permissions-exceptions-addons-window2 =

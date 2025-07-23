@@ -260,9 +260,3 @@ appmenu-customizetoolbar =
 appmenu-developer-tools-subheader = Naršyklės įrankiai
 appmenu-developer-tools-extensions =
     .label = Priedai programuotojams
-
-## Panel for privacy and security products
-
-
-## Profiles panel
-

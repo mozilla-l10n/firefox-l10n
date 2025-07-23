@@ -23,19 +23,10 @@ options-context-inspector = Inspeutor
 # The label for the checkbox option to show user agent styles
 options-show-user-agent-styles-label = Amosar los estilos del restolador
 
-## "Default Color Unit" options for the Inspector
-
-
-## Web Console section
-
-
 ## Style Editor section
 
 # The heading
 options-styleeditor-label = Editor d'estilos
-
-## Screenshot section
-
 
 ## Editor section
 

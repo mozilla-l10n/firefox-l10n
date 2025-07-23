@@ -153,14 +153,6 @@ media-capabilities-title = Mga Media Capability
 # List all the entries of the database.
 media-capabilities-enumerate = Ilista ang database
 
-## Codec support table
-
-
-## Media Content Decryption Modules (CDM)
-## See EME Spec for more explanation for following technical terms
-## https://w3c.github.io/encrypted-media/
-
-
 ##
 
 intl-title = Internationalization & Localization
@@ -343,18 +335,3 @@ touch-warning = na-disable ang async touch input dahil sa hindi suportadong pref
 policies-inactive = Di Aktibo
 policies-active = Aktibo
 policies-error = Error
-
-## Printing section
-
-
-## Remote Settings sections
-
-
-## Normandy sections
-
-
-## Pointing devices
-
-
-## Content Analysis (DLP)
-

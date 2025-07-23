@@ -122,9 +122,6 @@ delete-email-cert-title =
 delete-email-cert-confirm = تہئ چھُوئ یقین تہئ چھئوئ لوْكئن ہند ای میل سرٹئفیكیٹس خٲرج یژھان كر۪ین؟
 delete-email-cert-impact = اگر توہیہ ڈیلیٹ کْریو أکس نفر۔ سْنز ایمیل سرٹیفیکیٹ، توہیہ ہیکیو نْہ پتْہ سوزِتھ اینکریپٹیڈ ایمیل تس نفرس۔
 
-## Used to show whether an override is temporary or permanent
-
-
 ## Add Security Exception dialog
 
 add-exception-branded-warning = تہئ چھئوئ كرئن وئل اوئر رایڈ كیتھ كئن چھئ { -brand-short-name }  پرزناوان یئ سایٹ

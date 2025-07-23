@@ -48,9 +48,6 @@ download-cert-view-cert =
     .label = 檢視
 download-cert-view-text = 檢查憑證機構的憑證
 
-## Client Authorization Ask dialog
-
-
 ## Client Authentication Ask dialog
 
 client-auth-window =

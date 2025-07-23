@@ -48,9 +48,6 @@ download-cert-view-cert =
     .label = Skoða
 download-cert-view-text = Skoða CA skilríki
 
-## Client Authorization Ask dialog
-
-
 ## Client Authentication Ask dialog
 
 client-auth-window =

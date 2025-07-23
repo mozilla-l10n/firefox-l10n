@@ -48,9 +48,6 @@ download-cert-view-cert =
     .label = Преглед
 download-cert-view-text = Изследване на сертификат на CA
 
-## Client Authorization Ask dialog
-
-
 ## Client Authentication Ask dialog
 
 client-auth-window =

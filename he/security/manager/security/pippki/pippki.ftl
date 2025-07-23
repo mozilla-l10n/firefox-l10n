@@ -48,9 +48,6 @@ download-cert-view-cert =
     .label = הצגה
 download-cert-view-text = בחן אישור של רשות אישורים
 
-## Client Authorization Ask dialog
-
-
 ## Client Authentication Ask dialog
 
 client-auth-window =

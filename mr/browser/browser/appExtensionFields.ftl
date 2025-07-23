@@ -9,10 +9,3 @@ extension-firefox-compact-light-name = फिकट
 extension-firefox-compact-light-description = फिकट रंगयोजनेची थीम.
 extension-firefox-compact-dark-name = गडद
 extension-firefox-compact-dark-description = गडद रंगयोजनेची थीम.
-
-## Colorway Themes
-## These themes are variants of a colorway. The colorway is specified in the
-## $colorway-name variable.
-## Variables
-##   $colorway-name (String) The name of a colorway (e.g. Graffiti, Elemental).
-

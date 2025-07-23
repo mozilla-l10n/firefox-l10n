@@ -31,4 +31,3 @@
 -relay-brand-name = Firefox Relay
 -relay-brand-short-name = Relay
 -solo-ai-brand-name = Solo
-

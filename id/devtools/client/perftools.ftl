@@ -156,6 +156,3 @@ perftools-presets-power-description = Prasetel untuk menyelidiki bug penggunaan 
 perftools-presets-debug-label = Debug
 perftools-presets-debug-description = Prasetel untuk debugging di { -brand-shorter-name }. Profiler ini memiliki overhead tinggi, jangan gunakan untuk pekerjaan kinerja tetapi gunakan untuk fokus pada pemahaman perilaku peramban.
 perftools-presets-custom-label = Khusus
-
-##
-

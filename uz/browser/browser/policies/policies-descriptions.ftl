@@ -17,9 +17,6 @@ policy-DisableProfileImport = Boshqa brauzerdan import qilish uchun menyu buyruq
 policy-DisableSetAsDesktopBackground = Rasmlar uchun ish stoli orqa foni sifatida saqlash menyu buyrugʻini oʻchirish.
 policy-DisableSystemAddonUpdate = Brauzerga tizim qoʻshimchalarini oʻrnatish va yangilashni taqiqlang.
 
-## Do not translate "SameSite", it's the name of a cookie attribute.
-
-
 ##
 
 policy-Proxy = Proksi sozlamalarini sozlash

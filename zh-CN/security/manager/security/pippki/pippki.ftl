@@ -48,9 +48,6 @@ download-cert-view-cert =
     .label = 查看
 download-cert-view-text = 检查CA证书
 
-## Client Authorization Ask dialog
-
-
 ## Client Authentication Ask dialog
 
 client-auth-window =

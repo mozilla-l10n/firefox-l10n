@@ -40,9 +40,6 @@ options-collapse-attrs-tooltip =
 options-default-color-unit-label = وحدة الألوان المبدئية
 options-default-color-unit-name = أسماء الألوان
 
-## Web Console section
-
-
 ## Style Editor section
 
 # The heading

@@ -62,10 +62,6 @@ cert-error-details-key-pinning-label = HTTP Public Key Pinning: { $hasHPKP }
 cert-error-details-cert-chain-label = प्रमाणपत्र चैन:
 open-in-new-window-for-csp-or-xfo-error = नवीन विंडोमध्ये साइट उघडा
 
-## Variables:
-##   $hostname (string) - Hostname of the website with cert error.
-
-
 ## Messages used for certificate error titles
 
 connectionFailure-title = जोडणी होऊ शकत नाही
@@ -102,10 +98,3 @@ clockSkewError-title = आपले संगणक घड्याळ चुक
 networkProtocolError-title = नेटवर्क नियमात त्रुटी
 nssBadCert-title = चेतावणी: पुढे संभाव्य सुरक्षा धोका आहे
 nssBadCert-sts-title = कनेक्ट झाले नाही: संभाव्य सुरक्षा समस्या
-
-## Felt Privacy V1 Strings
-
-
-## Variables:
-##   $hostname (String) - Hostname of the website to which the user was trying to connect.
-

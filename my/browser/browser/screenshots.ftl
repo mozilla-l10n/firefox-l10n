@@ -31,10 +31,3 @@ screenshots-private-window-error-title = သီးသန့်ကြည့်ရ
 screenshots-private-window-error-details = အဆင်မပြေမှုများအတွက် တောင်းပန်ပါတယ်။ ယခုလုပ်ဆောင်ချက်ကို နောင်ထုတ်ကုန်တွင် ပါဝင်စေရန် ဆောင်ရွက်နေပါသည်။
 screenshots-generic-error-title = ဝိုး။ { -screenshots-brand-name } မှာ အမှားဖြစ်ပေါ်ခဲ့သည်။
 screenshots-generic-error-details = ဘာဖြစ်သွားခဲ့မှန်း သေချာမသိခဲ့ပါ။ ထပ်စမ်းကြည့်လိုပါသလား သို့မဟုတ် အခြားဝဘ်စာမျက်နှာကို ပုံရိပ်ဖမ်းလိုပါသလား။
-
-## The below strings are used to capture keydown events so the strings should
-## not be changed unless the keyboard layout in the locale requires it.
-
-
-##
-

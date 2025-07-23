@@ -24,9 +24,6 @@ options-default-color-unit-hsl = HSL(A)
 options-default-color-unit-rgb = RGB(A)
 options-default-color-unit-name = ਰੰਗਾਂ ਦੇ ਨਾਂ
 
-## Web Console section
-
-
 ## Style Editor section
 
 # The heading
@@ -45,6 +42,3 @@ options-screenshot-audio-tooltip =
 
 options-sourceeditor-tabsize-label = ਟੈਬ ਦਾ ਅਕਾਰ
 options-sourceeditor-keybinding-default-label = ਮੂਲ
-
-## Advanced section
-

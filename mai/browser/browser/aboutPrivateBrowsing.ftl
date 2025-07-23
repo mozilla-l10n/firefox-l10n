@@ -52,6 +52,3 @@ about-private-browsing-pin-promo-title = अहाँक डेस्कटॉ�
 # in your language: `See fewer cookie requests`.
 about-private-browsing-cookie-banners-promo-header = कुकी बैनर आरंभ भेल!
 about-private-browsing-cookie-banners-promo-button = कुकी बैनर हटाए
-
-## Strings for Felt Privacy v1 experiments in 119
-

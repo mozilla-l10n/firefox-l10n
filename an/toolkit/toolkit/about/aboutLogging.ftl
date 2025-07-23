@@ -8,13 +8,3 @@ about-logging-set-log-file = Determinar fichero de rechistro
 about-logging-set-log-modules = Determinar modulos de rechistro
 about-logging-start-logging = Empecipiar a rechistrar
 about-logging-stop-logging = Deixar de rechistrar
-
-## Logging presets
-
-
-##
-
-
-## The upload interface is shown only with the preference toolkit.aboutLogging.uploadProfileToCloud
-## set to true. It is false by default, except on Android.
-

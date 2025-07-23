@@ -20,10 +20,8 @@ about-telemetry-show-in-Firefox-json-viewer = ເປີດໃນຕົວເບ�
 about-telemetry-home-section = ໜ້າຫຼັກ
 about-telemetry-general-data-section = ຂໍ້ມູນທົ່ວໄປ
 about-telemetry-environment-data-section = ຂໍ້ມູນສະພາບແວດລ້ອມ
-about-telemetry-session-info-section =   ຂໍ້ມູນຂອງແຊສຊັນ
-about-telemetry-scalar-section =
-    Scalars
-      
+about-telemetry-session-info-section = { "  " }ຂໍ້ມູນຂອງແຊສຊັນ
+about-telemetry-scalar-section = Scalars{ "\u000A  " }
 about-telemetry-keyed-scalar-section = Keyed Scalars
 about-telemetry-histograms-section = Histograms
 about-telemetry-keyed-histogram-section = Keyed Histograms
@@ -31,7 +29,7 @@ about-telemetry-events-section = ເຫດການ
 about-telemetry-simple-measurements-section = ການວັດແທກທີ່ງ່າຍດາຍ
 about-telemetry-slow-sql-section = ຄຳສັ່ງ SQL ທີ່ເຮັດວຽກຊ້າ
 about-telemetry-addon-details-section = ລາຍລະອຽດຂອງ Add-on
-about-telemetry-late-writes-section =   ການຂຽນພາຍຫລັງ
+about-telemetry-late-writes-section = { "  " }ການຂຽນພາຍຫລັງ
 about-telemetry-raw-payload-section = Raw Payload
 about-telemetry-raw = Raw JSON
 about-telemetry-full-sql-warning = ຫມາຍເຫດ: ການດີບັກ SQL ທີ່ເຮັດວຽກຊ້າໄດ້ຖືກເປີດໃຊ້ງານຢູ່. ຄຳສັ່ງ SQL ແບບເຕັມອາດຈະຖືກສະແດງໄວ້ດ້ານລຸ່ມ ແຕ່ຈະບໍ່ຖືກສົ່ງອອກໄປຫາ Telemetry.

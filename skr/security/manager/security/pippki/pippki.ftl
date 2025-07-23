@@ -48,9 +48,6 @@ download-cert-view-cert =
     .label = نظارہ
 download-cert-view-text = CA سرٹیفکیٹ دا معائنہ کرو
 
-## Client Authorization Ask dialog
-
-
 ## Client Authentication Ask dialog
 
 client-auth-window =

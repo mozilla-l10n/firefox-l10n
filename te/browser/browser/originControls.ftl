@@ -29,8 +29,3 @@ origin-controls-option-always-on =
 origin-controls-state-hover-run-visit-only = ఈ ఒక్కసారికి నడుపు
 origin-controls-state-runnable-hover-open = పొడింతను తెరువు
 origin-controls-state-runnable-hover-run = పొడగింతను నడుపు
-
-## Extension's toolbar button.
-## Variables:
-##   $extensionTitle (String) - Extension name or title message.
-

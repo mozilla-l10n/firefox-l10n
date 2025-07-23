@@ -12,6 +12,3 @@ download-ui-cancel-downloads-ok =
         [1] B-láɁ thîb yêtz?
        *[other] B-láɁ { $downloadsCount } yêtz
     }
-
-##
-

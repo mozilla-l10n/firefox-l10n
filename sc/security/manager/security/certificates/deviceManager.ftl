@@ -30,9 +30,6 @@ devmgr-button-unload =
     .label = Iscàrriga
     .accesskey = s
 
-## Strings used for load device
-
-
 ## Token Manager
 
 devinfo-status =

@@ -1018,9 +1018,6 @@ tabs-toolbar-list-all-tabs =
 restore-session-startup-suggestion-message = <strong>Tornar dobrir los onglets precedents ?</strong> Podètz restablir vòstra session precedenta del menú d’aplicacion de { -brand-short-name } <img data-l10n-name="icon"/> estant jos Istoric.
 restore-session-startup-suggestion-button = Cossí far
 
-## Infobar shown when the user tries to open a file picker and file pickers are blocked by enterprise policy
-
-
 ## Mozilla data reporting notification (Telemetry, Firefox Health Report, etc)
 
 data-reporting-notification-message = { -brand-short-name } manda automaticament d'unas informacions a { -vendor-short-name } per tal que poscam melhorar vòstra experiéncia.
@@ -1149,6 +1146,3 @@ popup-show-popup-menuitem =
 file-picker-crashed-show-in-folder =
     .label = Mostrar dins lo dossièr
     .accessKey = M
-
-## Onboarding Finish Setup checklist
-

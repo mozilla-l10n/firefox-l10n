@@ -4,10 +4,6 @@
 
 addons-page-title = கூடுதல் இணைப்பு மேலாளர்
 
-## Variables
-##   $domain - Domain name where add-ons are available (e.g. addons.mozilla.org)
-
-
 ##
 
 list-empty-installed =
@@ -160,29 +156,6 @@ addon-install-from-file-filter-name = கூடுதல் இணைப்ப�
 addon-open-about-debugging = கூடுதல் இணைப்புளை வழுநீக்கு
     .accesskey = b
 
-## Extension shortcut management
-
-
-## Recommended add-ons page
-
-
-## Add-on actions
-
-
-## Pending uninstall message bar
-
-
-## "sites with restrictions" (internally called "quarantined") are special domains
-## where add-ons are normally blocked for security reasons.
-
-
-## This is the tooltip text for the recommended badges for an extension in about:addons. The
-## badge is a small icon displayed next to an extension when it is recommended on AMO.
-
-
-##
-
-
 ## Page headings
 
 addon-page-options-button =
@@ -226,10 +199,3 @@ plugins-gmp-privacy-info = தனியுரிமைத் தகவல்க�
 plugins-openh264-name = OpenH264 வீடியோ குறியாக்கி சிஸ்கோ சிஸ்டம்ஸ், இன்க். மூலம் வழங்கப்படுகிறது
 plugins-openh264-description = H.264 காணொளி குறியாக்கி தேவைப்படும் கருவிகளில், WebRTC விவரங்களுக்கு பொருந்துமாறு WebRTC அழைப்புகளைச் செயற்படுத்த இந்தச் செருகி Mozilla வினால் தானாக நிறுவப்பட்டுள்ளது. குறியாக்கியின் மூல நிரலைப் பார்க்க மற்றும் இச்செயல்முறை குறித்து மேலும் அறிய http://www.openh264.org/ தளத்தைப் பாருங்கள்.
 plugins-widevine-name = Google Inc. நிறுவனத்தால் ங்கப்பட்ட Widevine Content Decryption Module.
-
-## Headings for the Permissions tab in `about:addons` when the data collection
-## feature is enabled.
-
-
-## Mapping Engine IDs from AI models to how that feature represented by the engine Id is described in the used by section in local model management
-

@@ -472,9 +472,6 @@ sharing-warning-proceed-to-tab =
 sharing-warning-disable-for-session =
     .label = මෙම වාරය සඳහා බෙදාගැනීමේ ආරක්‍ෂාව අබල කරන්න
 
-## DevTools F12 popup
-
-
 ## URL Bar
 
 # This string is used as an accessible name to the "X" button that cancels a custom search mode (i.e. exits the Amazon.com search mode).
@@ -826,10 +823,6 @@ edit-popup-settings =
     .label = උත්පතන සැකසුම් කළමනාකරණය…
     .accesskey = M
 
-## Since the default position for PiP controls does not change for RTL layout,
-## right-to-left languages should use "Left" and "Right" as in the English strings,
-
-
 ##
 
 
@@ -911,10 +904,6 @@ unified-extensions-button-quarantined =
         දිගු
         ඇතැම් දිගු සඳහා ඉඩ නොදේ
 
-## Unified extensions button when some extensions are disabled (e.g. through add-ons blocklist).
-## Note that the new line is intentionally part of the tooltip.
-
-
 ## Private browsing reset button
 
 reset-pbm-panel-description = පෞද්ගලික පටිති සියල්ල වසා ඉතිහාසය, දත්තකඩ සහ අනෙකුත් සියලුම අඩවි දත්ත මකන්න.
@@ -982,6 +971,3 @@ popup-show-popup-menuitem =
 file-picker-crashed-show-in-folder =
     .label = බහාලුමෙහි පෙන්වන්න
     .accessKey = F
-
-## Onboarding Finish Setup checklist
-

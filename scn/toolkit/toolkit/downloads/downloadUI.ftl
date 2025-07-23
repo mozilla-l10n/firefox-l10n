@@ -26,6 +26,3 @@ download-ui-confirm-leave-private-browsing-windows-cancel-downloads =
         [1] Si chiuji ora tutti i schedi di navicazzioni privata, u scarricamentu sfallirà. Voi cuntinuari?
        *[other] Si chiuji ora tutti i schedi di navicazzioni privata, { $downloadsCount } scarricamenti sfallirannu. Voi cuntinuari?
     }
-
-##
-

@@ -71,9 +71,6 @@ urlbar-tip-icon-description =
 urlbar-search-tips-onboard = Tappu seeɗa, yiytu ko heewi: Yiylo { $engineName } e palal ñiiɓirde maa.
 urlbar-search-tips-redirect-2 = Fuɗɗo njiilaw e palal ñiiɓirde ngam yiyde baggine ummoraade e { $engineName } kam e aslol banngogol maa.
 
-## Local search mode indicator labels in the urlbar
-
-
 ##
 
 urlbar-geolocation-blocked =
@@ -107,9 +104,6 @@ urlbar-star-edit-bookmark =
 urlbar-star-add-bookmark =
     .tooltiptext = Maantoro ngoo hello ({ $shortcut })
 
-## Page Action Context Menu
-
-
 ## Auto-hide Context Menu
 
 full-screen-autohide =
@@ -139,19 +133,6 @@ search-one-offs-context-set-as-default-private =
 # submenu using this as its label.
 search-one-offs-add-engine-menu =
     .label = Ɓeydu yiylorde
-
-## Local search mode one-off buttons
-## Variables:
-##  $restrict (String): The restriction token corresponding to the search mode.
-##    Restriction tokens are special characters users can type in the urlbar to
-##    restrict their searches to certain sources (e.g., "*" to search only
-##    bookmarks).
-
-
-## QuickActions are shown in the urlbar as the user types a matching string
-## The -cmd- strings are comma separated list of keywords that will match
-## the action.
-
 
 ## Bookmark Panel
 
@@ -227,26 +208,9 @@ browser-window-maximize-button =
 browser-window-close-button =
     .tooltiptext = Uddu
 
-## Tab actions
-
-
-## These labels should be written in all capital letters if your locale supports them.
-## Variables:
-##  $count (number): number of affected tabs
-
-
-## Bookmarks toolbar items
-
-
 ## WebRTC Pop-up notifications
 
 popup-all-windows-shared = Kala henorde yiyotonde e yaynirde maaɗa maa lolline.
-
-## WebRTC window or screen share tab switch warning
-
-
-## DevTools F12 popup
-
 
 ## URL Bar
 
@@ -284,17 +248,6 @@ urlbar-result-action-search-w-engine = Yiyloro { $engine }
 urlbar-result-action-switch-tab = Yah to Tabbere
 urlbar-result-action-visit = Yillo
 
-## Strings used for buttons in the urlbar
-
-
-## Action text shown in urlbar results, usually appended after the search
-## string or the url, like "result value - action text".
-## In these actions "Search" is a verb, followed by where the search is performed.
-
-
-## Labels shown above groups of urlbar results
-
-
 ## Reader View toolbar buttons
 
 # This should match menu-view-enter-readerview in menubar.ftl
@@ -303,11 +256,6 @@ reader-view-enter-button =
 # This should match menu-view-close-readerview in menubar.ftl
 reader-view-close-button =
     .aria-label = Yaltu Jiytol Taro
-
-## Picture-in-Picture urlbar button
-## Variables:
-##   $shortcut (String) - Keyboard shortcut to execute the command.
-
 
 ## Full Screen and Pointer Lock UI
 
@@ -385,9 +333,6 @@ save-to-pocket-button =
     .label = Danndu e { -pocket-brand-name }
     .tooltiptext = Danndu e { -pocket-brand-name }
 
-## Repair text encoding toolbar button
-
-
 ## Customize Toolbar Buttons
 
 toolbar-overflow-customize-button =
@@ -419,9 +364,6 @@ toolbar-button-new-private-window =
 
 eme-notifications-drm-content-playing = Yoga e ojooji e widewooji ndee lowre ena kuutoroo topirde DRM, ɗum ena haɗa { -brand-short-name } waɗde heen won e geɗe.
 
-## Password save/update panel
-
-
 ##
 
 ui-tour-info-panel-close =
@@ -442,10 +384,6 @@ popups-infobar-block =
 popups-infobar-dont-show-message =
     .label = Hoto hollir nduu ɓatakuru so cuppitte palaama
     .accesskey = D
-
-## Since the default position for PiP controls does not change for RTL layout,
-## right-to-left languages should use "Left" and "Right" as in the English strings,
-
 
 ##
 
@@ -480,36 +418,12 @@ tabs-toolbar-list-all-tabs =
     .label = Waɗ doggol tabbe kala
     .tooltiptext = Waɗ doggol tabbe kala
 
-## Infobar shown at startup to suggest session-restore
-
-
-## Infobar shown when the user tries to open a file picker and file pickers are blocked by enterprise policy
-
-
 ## Mozilla data reporting notification (Telemetry, Firefox Health Report, etc)
 
 data-reporting-notification-message = { -brand-short-name } neldat keɓe seeɗa e jaajol to { -vendor-short-name } ngam min mbaawa ƴellitde dawtol maa.
 data-reporting-notification-button =
     .label = Suɓo Ko Lollintu-mi
     .accesskey = S
-
-## Unified extensions (toolbar) button
-
-
-## Unified extensions button when permission(s) are needed.
-## Note that the new line is intentionally part of the tooltip.
-
-
-## Unified extensions button when some extensions are quarantined.
-## Note that the new line is intentionally part of the tooltip.
-
-
-## Unified extensions button when some extensions are disabled (e.g. through add-ons blocklist).
-## Note that the new line is intentionally part of the tooltip.
-
-
-## Private browsing reset button
-
 
 ## Autorefresh blocker
 
@@ -518,9 +432,6 @@ refresh-blocked-redirect-label = { -brand-short-name } haɗii ngoo hello ɓennit
 refresh-blocked-allow =
     .label = Yamir
     .accesskey = A
-
-## Firefox Relay integration
-
 
 ## Add-on Pop-up Notifications
 
@@ -555,16 +466,3 @@ popup-warning-button =
 #   $popupURI (String): the URI for the pop-up window
 popup-show-popup-menuitem =
     .label = Hollir '{ $popupURI }'
-
-## File-picker crash notification ("FilePickerCrashed.sys.mjs")
-
-
-# Button used with file-picker-crashed-save-default. Opens the folder in Windows
-# Explorer, with the saved file selected and in focus.
-#
-# The wording here should be consistent with the Windows variant of
-# `downloads-cmd-show-menuitem-2` and similar messages.
-
-
-## Onboarding Finish Setup checklist
-

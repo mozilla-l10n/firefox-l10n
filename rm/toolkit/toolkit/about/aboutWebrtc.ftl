@@ -317,6 +317,3 @@ about-webrtc-hide-msg-sdp = Zuppentar il SDP
 about-webrtc-media-context-show-msg = Mussar il context da multimedia
 about-webrtc-media-context-hide-msg = Zuppentar il context da multimedia
 about-webrtc-media-context-heading = Context multimedia
-
-##
-

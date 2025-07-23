@@ -48,15 +48,6 @@ permissions-capabilities-listitem-allow-session =
 permissions-invalid-uri-title = ನಮೂದಿಸಲಾದ ಅತಿಥೇಯದ ಹೆಸರು ಅಮಾನ್ಯವಾಗಿದೆ
 permissions-invalid-uri-label = ದಯವಿಟ್ಟು ಒಂದು ಮಾನ್ಯವಾದ ಅತಿಥೇಯದ ಹೆಸರನ್ನು ನಮೂದಿಸಿ
 
-## Exceptions - Tracking Protection
-
-
-## Exceptions - Cookies
-
-
-## Exceptions - HTTPS-Only Mode
-
-
 ## Exceptions - Pop-ups
 
 permissions-exceptions-popup-desc = ಯಾವ ಜಾಲತಾಣಗಳು ಪುಟಿಕೆ ವಿಂಡೋಗಳನ್ನು  ತೆರೆಯಲು ಅನುಮತಿ ಇದೆ ಎಂದು ನೀವು ಸೂಚಿಸಬಹುದು. ನೀವು ಅನುಮತಿಸಲು ಬಯಸುವ ತಾಣದ ನಿಖರವಾದ ವಿಳಾಸವನ್ನು ನಮೂದಿಸಿ ನಂತರ ಅನುಮತಿಸು ಅನ್ನು ಕ್ಲಿಕ್ಕಿಸಿ.
@@ -67,24 +58,9 @@ permissions-exceptions-saved-logins-window2 =
     .title = ವಿನಾಯಿತಿಗಳು - ಉಳಿಸಿದ ಲಾಗಿನ್‍ಗಳು
     .style = { permissions-window2.style }
 
-## Exceptions - Saved Passwords
-
-
 ## Exceptions - Add-ons
 
 permissions-exceptions-addons-desc = ಯಾವ ಜಾಲತಾಣಗಳು ಆಡ್-ಆನ್‌ಗಳನ್ನು ಅನುಸ್ಥಾಪಿಸಲು ಅನುಮತಿ ಇದೆ ಎಂದು ನೀವು ಸೂಚಿಸಬಹುದು. ನೀವು ಅನುಮತಿಸಲು ಬಯಸುವ ತಾಣದ ನಿಖರವಾದ ವಿಳಾಸವನ್ನು ನಮೂದಿಸಿ ನಂತರ ಅನುಮತಿಸು ಅನ್ನು ಕ್ಲಿಕ್ಕಿಸಿ.
-
-## Site Permissions - Autoplay
-
-
-## Site Permissions - Notifications
-
-
-## Site Permissions - Location
-
-
-## Site Permissions - Virtual Reality
-
 
 ## Site Permissions - Camera
 
@@ -97,8 +73,3 @@ permissions-site-camera-window2 =
 permissions-site-microphone-window2 =
     .title = ಮೈಕ್ರೋಫೋನ್ ಅನುಮತಿ - ಸಿದ್ಧತೆಗಳು
     .style = { permissions-window2.style }
-
-## Site Permissions - Speaker
-##
-## "Speaker" refers to an audio output device.
-

@@ -36,12 +36,3 @@ pocket-panel-signup-signup-firefox = { -brand-product-name } ile Qayd Ol
 pocket-panel-signup-tagline = İstegeniñiz cihazda, istegeniñiz zaman { -pocket-brand-name }'te seyretmek üzre maqaleler ve videolarnı { -brand-product-name }’tan { -pocket-brand-name }’ke saqlañız.
 pocket-panel-signup-tagline-story-one = { -brand-product-name }’tan er angi maqale, video yaki saifeni saqlamaq içün { -pocket-brand-name } Dögmesi'ne çertiñiz.
 pocket-panel-signup-tagline-story-two = Er angi cihazda, er angi zamanda { -pocket-brand-name }’te seyretiñiz.
-
-## about:pocket-home panel
-
-
-## Pocket panel header component
-
-
-## Pocket panel buttons
-

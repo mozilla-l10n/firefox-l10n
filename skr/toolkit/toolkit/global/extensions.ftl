@@ -17,9 +17,6 @@ webext-perms-header-unsigned-with-perms = { $extension } شامل کرو؟ ای�
 webext-perms-sideload-header = { $extension } شامل تھی ڳئے
 webext-perms-optional-perms-header = { $extension } اضافی اجازتاں دی درخواست کریندا ہے
 
-## Headers used in the webextension permissions dialog, inside the content.
-
-
 ##
 
 webext-perms-add =
@@ -88,9 +85,6 @@ webext-perms-host-description-multiple-domains =
        *[other] { $domainCount } ڈومیناں وِچ  سائٹاں واسطے آپݨے ڈیٹا تک اپڑو
     }
 
-## Strings for data collection permissions in the permission prompt.
-
-
 ## Headers used in the webextension permissions dialog for synthetic add-ons.
 ## The part of the string describing what privileges the extension gives should be consistent
 ## with the value of webext-site-perms-description-gated-perms-{sitePermission}.
@@ -124,6 +118,3 @@ webext-site-perms-header-unsigned-with-perms = { $extension } شامل کرو؟ 
 
 webext-site-perms-midi = MIDI  ڈیوائیساں تک اپڑو
 webext-site-perms-midi-sysex = SysEx سپورٹ دے نال MIDI آلات تک رسائی حاصل کرو۔
-
-## Colorway theme migration
-

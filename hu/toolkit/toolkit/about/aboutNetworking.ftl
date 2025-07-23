@@ -64,6 +64,3 @@ about-networking-moved-about-logging = Ez az oldal átkerült az <a data-l10n-na
 
 about-networking-networkid-is-up = A kapcsolat él
 about-networking-networkid-status-known = A kapcsolat állapota ismert
-
-##
-

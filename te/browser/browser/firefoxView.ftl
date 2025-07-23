@@ -120,12 +120,6 @@ firefoxview-history-site-localhost = (స్థానిక ఫైళ్లు)
 firefoxview-show-all-history = మొత్తం చరిత్రను చూపించు
 firefoxview-view-more-browsing-history = మరింత విహరణ చరిత్ర చూపు
 
-## Message displayed in Firefox View when the user has no history data
-
-
-##
-
-
 ## Message displayed in Firefox View when the user has chosen to never remember History
 
 firefoxview-dont-remember-history-empty-header = చూపించడానికి ఏమీలేదు
@@ -137,23 +131,7 @@ firefoxview-import-history-close-button =
     .aria-label = మూసివేయి
     .title = మూసివేయి
 
-## Text displayed in a dismissable banner to import bookmarks/history from another browser
-
-
-## Message displayed in Firefox View when the user has no recently closed tabs data
-
-
 ## This message is displayed below the name of another connected device when it doesn't have any open tabs.
 
 firefoxview-tabs =
     .title = ట్యాబులు
-
-## These tooltips will be displayed when hovering over a pinned tab on the Open Tabs page
-## Variables:
-##  $tabTitle (string) - Title of pinned tab that will be opened when selected
-
-
-## These tooltips will be displayed when hovering over an unpinned Open Tab
-## Variables:
-##   $url (string) - URL of tab that will be opened when selected
-

@@ -136,9 +136,6 @@ delete-email-cert-impact = Եթե Դուք ջնջեք անձի էլ. փոստի 
 cert-with-serial =
     .value = Վկայագրել հաջորդական համարով՝ { $serialNumber }
 
-## Used to show whether an override is temporary or permanent
-
-
 ## Add Security Exception dialog
 
 add-exception-branded-warning = Դուք պատրաստվում եք ստիպողաբար փոխել ինքնությունը { -brand-short-name } կայքի համար:

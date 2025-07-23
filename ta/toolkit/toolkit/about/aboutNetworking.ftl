@@ -45,9 +45,3 @@ about-networking-rcwn-avg-long = யீண்ட சராசரி
 about-networking-rcwn-std-dev-long = நீண்ட கால அட்டவணை
 about-networking-rcwn-cache-slow = இடையக எண்ணிக்கை
 about-networking-rcwn-cache-not-slow = மெதுவான இடையக எண்
-
-## Link is intended as "network link"
-
-
-##
-

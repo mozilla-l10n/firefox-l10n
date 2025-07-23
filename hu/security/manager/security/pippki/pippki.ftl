@@ -48,9 +48,6 @@ download-cert-view-cert =
     .label = Megjelenítés
 download-cert-view-text = A CA tanúsítványának megvizsgálása
 
-## Client Authorization Ask dialog
-
-
 ## Client Authentication Ask dialog
 
 client-auth-window =

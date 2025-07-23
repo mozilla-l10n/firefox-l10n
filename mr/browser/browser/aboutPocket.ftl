@@ -36,12 +36,3 @@ pocket-panel-signup-signup-firefox = { -brand-product-name } सह साईन
 pocket-panel-signup-tagline = { -brand-product-name } मधील नोंदी आणि व्हिडीओ कुठल्याही साधनावर केंव्हाही { -pocket-brand-name } मध्ये पाहण्यासाठी साठवा.
 pocket-panel-signup-tagline-story-one = { -brand-product-name } वरील कोणताही लेख, व्हिडिओ किंवा पृष्ठ जतन करण्यासाठी { -pocket-brand-name } बटणावर क्लिक करा.
 pocket-panel-signup-tagline-story-two = कधीही कुठल्याही साधनावर { -pocket-brand-name } मध्ये पाहा.
-
-## about:pocket-home panel
-
-
-## Pocket panel header component
-
-
-## Pocket panel buttons
-

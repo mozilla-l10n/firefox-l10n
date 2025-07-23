@@ -48,9 +48,6 @@ download-cert-view-cert =
     .label = Намоиш додан
 download-cert-view-text = Тафтиш кардани гувоҳномаи маркази иҷозатномадиҳӣ
 
-## Client Authorization Ask dialog
-
-
 ## Client Authentication Ask dialog
 
 client-auth-window =

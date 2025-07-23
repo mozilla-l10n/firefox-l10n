@@ -542,9 +542,6 @@ newtab-custom-wallpaper-title = Οι προσαρμοσμένες ταπετσα
 newtab-custom-wallpaper-subtitle = Μεταφορτώστε τη δική σας ταπετσαρία ή επιλέξτε ένα προσαρμοσμένο χρώμα για να κάνετε το { -brand-product-name } δικό σας.
 newtab-custom-wallpaper-cta = Δοκιμή
 
-## Strings for new user activation custom wallpaper highlight
-
-
 ## Strings for download mobile highlight
 
 newtab-download-mobile-highlight-title = Λήψη του { -brand-product-name } για κινητές συσκευές

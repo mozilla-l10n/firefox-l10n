@@ -4,10 +4,6 @@
 
 protections-panel-sendreportview-error = अहवाल पाठविताना त्रुटी आली. कृपया पुन्हा प्रयत्न करा.
 
-## These strings are used to define the different levels of
-## Enhanced Tracking Protection.
-
-
 ##
 
 # The text a screen reader speaks when focused on the info button.
@@ -20,12 +16,6 @@ protections-panel-site-not-working = साइट कार्यरत ना�
 # The heading/title of the sub-panel view
 protections-panel-site-not-working-view =
     .title = साइट कार्यरत नाही?
-
-## Text for the toggles shown when ETP is enabled/disabled for a given site.
-## .description is transferred into a separate paragraph by the moz-toggle
-## custom element code.
-##   $host (String): the hostname of the site that is being displayed.
-
 
 ## The "Allowed" header also includes a "Why?" link that, when hovered, shows
 ## a tooltip explaining why these items were not blocked in the page.
@@ -52,9 +42,6 @@ protections-panel-content-blocking-fingerprinters-label = फिंगरप्�
 protections-panel-blocking-label = अवरोधित
 protections-panel-not-blocking-label = अनुमत
 protections-panel-not-found-label = काहीही आढळले नाही
-
-## Smartblock strings
-
 
 ##
 

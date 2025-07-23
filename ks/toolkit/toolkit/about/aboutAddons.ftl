@@ -4,10 +4,6 @@
 
 addons-page-title = ایڈ آن انتظامیئ
 
-## Variables
-##   $domain - Domain name where add-ons are available (e.g. addons.mozilla.org)
-
-
 ##
 
 list-empty-installed =
@@ -141,29 +137,6 @@ addon-install-from-file = فایلئ پ۪یٹھئ كریو ايڈ آن اِنس�
 addon-install-from-file-dialog-title = ايڈ آن ژٲریو اِنسٹال كرنئ خٲطرئ
 addon-install-from-file-filter-name = ایڈ۔آنس
 
-## Extension shortcut management
-
-
-## Recommended add-ons page
-
-
-## Add-on actions
-
-
-## Pending uninstall message bar
-
-
-## "sites with restrictions" (internally called "quarantined") are special domains
-## where add-ons are normally blocked for security reasons.
-
-
-## This is the tooltip text for the recommended badges for an extension in about:addons. The
-## badge is a small icon displayed next to an extension when it is recommended on AMO.
-
-
-##
-
-
 ## Page headings
 
 addon-page-options-button =
@@ -196,10 +169,3 @@ details-notification-gmp-pending2 =
 
 plugins-gmp-license-info = لاسن جانکأری
 plugins-openh264-name = کْریو اوپْن یوس فراہم کورمُت چُھ بذریعہ سیسکو سسٹم، اِنک۔ ویڈیو کوڈیکH264
-
-## Headings for the Permissions tab in `about:addons` when the data collection
-## feature is enabled.
-
-
-## Mapping Engine IDs from AI models to how that feature represented by the engine Id is described in the used by section in local model management
-

@@ -800,9 +800,6 @@ primary-password-os-auth-dialog-message-win = ເພື່ອສ້າງລະ�
 primary-password-os-auth-dialog-message-macosx = ສ້າງລະຫັດຜ່ານຫຼັກ
 master-password-os-auth-dialog-caption = { -brand-full-name }
 
-## Privacy section - Autofill
-
-
 ## Privacy Section - History
 
 history-header = ປະຫວັດ
@@ -1082,9 +1079,6 @@ privacy-segmentation-radio-off =
     .label = ໃຊ້ຄຳແນະນຳ { -brand-product-name }
 privacy-segmentation-radio-on =
     .label = ສະແດງຂໍ້ມູນລະອຽດ
-
-## Privacy Section - Website Advertising Preferences
-
 
 ## Privacy Section - Security
 ##

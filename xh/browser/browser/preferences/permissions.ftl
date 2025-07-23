@@ -34,15 +34,6 @@ permissions-capabilities-listitem-allow-session =
 permissions-invalid-uri-title = Kungeniswe igama loMamkeli elingasebenziyo
 permissions-invalid-uri-label = Nceda ngenisa igama lomamkeli elisebenzayo
 
-## Exceptions - Tracking Protection
-
-
-## Exceptions - Cookies
-
-
-## Exceptions - HTTPS-Only Mode
-
-
 ## Exceptions - Pop-ups
 
 permissions-exceptions-popup-desc = Ungabalula ukuba zeziphi na iiwebhusayithi ezivumeleke ukuvula iiwindow ezizivelelayo. Tayipha idilesi yokwenene yesayithi ofuna ukuyivumela uze ucofe Vumela.
@@ -53,32 +44,6 @@ permissions-exceptions-saved-logins-window2 =
     .title = Ezikhethekileyo - IiLogini Ezigciniweyo
     .style = { permissions-window2.style }
 
-## Exceptions - Saved Passwords
-
-
 ## Exceptions - Add-ons
 
 permissions-exceptions-addons-desc = Ungabalula ukuba zeziphi na iiwebhusayithi ezivumeleke ukufakela izongezelelo. Tayipha idilesi yokwenene yesayithi ofuna ukuyivumela uze ucofe Vumela.
-
-## Site Permissions - Autoplay
-
-
-## Site Permissions - Notifications
-
-
-## Site Permissions - Location
-
-
-## Site Permissions - Virtual Reality
-
-
-## Site Permissions - Camera
-
-
-## Site Permissions - Microphone
-
-
-## Site Permissions - Speaker
-##
-## "Speaker" refers to an audio output device.
-

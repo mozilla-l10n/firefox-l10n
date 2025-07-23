@@ -9,10 +9,3 @@ extension-firefox-compact-light-name = Açıq
 extension-firefox-compact-light-description = Açıq rəng sxemli mövzu.
 extension-firefox-compact-dark-name = Tünd
 extension-firefox-compact-dark-description = Tünd rəng sxemli mövzu.
-
-## Colorway Themes
-## These themes are variants of a colorway. The colorway is specified in the
-## $colorway-name variable.
-## Variables
-##   $colorway-name (String) The name of a colorway (e.g. Graffiti, Elemental).
-

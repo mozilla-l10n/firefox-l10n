@@ -22,11 +22,3 @@ graph-today = ယနေ့
 # This string is used to describe the graph for screenreader users.
 graph-legend-description = ယခုအပတ်တွင် ပိတ်ဆို့ ခဲ့သည့် ခြေရာခံလိုက်သူများ၏ စုစုပေါင်းအရေအတွက်ကို ဂရပ်တွင်ဖော်ပြထားသည်။
 social-tab-title = လူမှုမီဒီယာ ခြေရာခံကိရိယာများ
-
-## The title attribute is used to display the type of protection.
-## The aria-label is spoken by screen readers to make the visual graph accessible to blind users.
-##
-## Variables:
-##   $count (Number) - Number of specific trackers
-##   $percentage (Number) - Percentage this type of tracker contributes to the whole graph
-

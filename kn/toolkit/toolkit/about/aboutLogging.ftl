@@ -5,13 +5,3 @@
 about-logging-current-log-file = ಪ್ರಸ್ತುತ ಲಾಗ್ ಕಡತ:
 about-logging-start-logging = ದಿನಚರಿತುಂಬುವುದನ್ನು ಪ್ರಾರಂಭಿಸು
 about-logging-stop-logging = ದಿನಚರಿ ಪೇರಿಸುವುದನ್ನು ನಿಲ್ಲಿಸು
-
-## Logging presets
-
-
-##
-
-
-## The upload interface is shown only with the preference toolkit.aboutLogging.uploadProfileToCloud
-## set to true. It is false by default, except on Android.
-

@@ -22,6 +22,3 @@ open-sidebar = അണിവക്കങ്ങൾ
 
 search-bookmarks = അടയാളക്കുറിപ്പുകള്‍
 search-history = നാള്‍വഴി
-
-##
-

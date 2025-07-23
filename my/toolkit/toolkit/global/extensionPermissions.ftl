@@ -29,16 +29,3 @@ webext-perms-description-tabs = ဘယောက်ဆာတပ်ဗ်မျာ
 webext-perms-description-tabHide = ဘရောင်ဇာတပ်ဗ်များ ဖျောက်ကွယ်ခြင်းနှင့် ပြသခြင်း
 webext-perms-description-topSites = ကြည့်ရှုမှတ်တမ်းကို အသုံးပြုရန်
 webext-perms-description-webNavigation = ဘယောက်ဆာ သုံးဆွဲမှု အခြေအနေကိုကြည့်မည်
-
-## The userScripts permission includes an additional explanation that is
-## displayed prominently near the usual permission description.
-
-
-## Short form to be used in lists or in a string (`webext-perms-description-data-some`)
-## that formats some of the data collection permissions below using `Intl.ListFormat`.
-##
-## This is used when the data collection permissions are required.
-
-
-## Long form to be used in `about:addons` when these data collection permissions are optional.
-

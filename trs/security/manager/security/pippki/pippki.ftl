@@ -33,9 +33,6 @@ download-cert-view-cert =
     .label = Gini'iaj
 download-cert-view-text = Natsi' CA sertifikado
 
-## Client Authorization Ask dialog
-
-
 ## Client Authentication Ask dialog
 
 client-auth-window =
@@ -78,6 +75,3 @@ set-password-backup-pw =
 set-password-repeat-backup-pw =
     .value = Da'ngà' huìi guenda sertifikado na (gi'iaj hìo'):
 set-password-reminder = Sa ña'āanj: Si sā gini'ñunt si da'ngà' huì si sertifikadot nī si ga'ue nari' ñut'. Na'nïnj sa' hue'e.
-
-## Protected authentication alert
-

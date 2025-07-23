@@ -322,6 +322,3 @@ about-webrtc-hide-msg-sdp = Sakrij SDP
 about-webrtc-media-context-show-msg = Prikaži medijski kontekst
 about-webrtc-media-context-hide-msg = Sakrij medijski kontekst
 about-webrtc-media-context-heading = Medijski kontekst
-
-##
-

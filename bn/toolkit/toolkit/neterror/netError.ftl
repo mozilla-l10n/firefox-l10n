@@ -45,17 +45,6 @@ neterror-dns-not-found-hint-try-again = পরে আবার চেষ্ট�
 neterror-dns-not-found-hint-check-network = আপনার নেটওয়ার্ক সংযোগ পরীক্ষা করুন
 neterror-dns-not-found-hint-firewall = পরীক্ষা করুন যে { -brand-short-name }-এর ওয়েবে প্রবেশ করার অনুমতি রয়েছে (আপনি হয়ত ফায়ারওয়ালের পিছনে সংযুক্ত আছেন)
 
-## TRR-only specific messages
-## Variables:
-##   $hostname (String) - Hostname of the website to which the user was trying to connect.
-##   $trrDomain (String) - Hostname of the DNS over HTTPS server that is currently in use.
-
-
-## Native fallback specific messages
-## Variables:
-##   $trrDomain (String) - Hostname of the DNS over HTTPS server that is currently in use.
-
-
 ##
 
 neterror-file-not-found-filename = ফাইলের নামের বানান ও ছোট/বড় অক্ষর পরীক্ষা করুন।

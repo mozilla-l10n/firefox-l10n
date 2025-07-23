@@ -64,10 +64,6 @@ cert-error-details-hsts-label = HTTP  Iyak'ib'al ti' teqol b'en: { $hasHSTS }
 cert-error-details-key-pinning-label = HTTP la chit aaq'kan texhlal: { $hasHPKP }
 cert-error-details-cert-chain-label = Imolq'it tib' u tu'aale':
 
-## Variables:
-##   $hostname (string) - Hostname of the website with cert error.
-
-
 ## Messages used for certificate error titles
 
 connectionFailure-title = Ye'xh kam ni tuch taq'onve'
@@ -104,10 +100,3 @@ networkProtocolError-title = Kat yan teq'ol ti jikil
 nssBadCert-title = Aq'je' avi': Tul uma'l u va'lexh la kam savatz
 nssBadCert-sts-title = Ye'xh kam kat uch toke', kamal a'e' jik tatine'
 certerror-mitm-title = Uma'l u Software ni majon ivatz u  { -brand-short-name } jik chit ok axh tu atinb'ale' vaa'
-
-## Felt Privacy V1 Strings
-
-
-## Variables:
-##   $hostname (String) - Hostname of the website to which the user was trying to connect.
-

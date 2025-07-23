@@ -26,7 +26,7 @@ about-telemetry-home-section = Domů
 about-telemetry-general-data-section = Obecná data
 about-telemetry-environment-data-section = Data prostředí
 about-telemetry-session-info-section = Informace o relaci
-about-telemetry-scalar-section =   Skaláry
+about-telemetry-scalar-section = { "  " }Skaláry
 about-telemetry-keyed-scalar-section = Klíčové skaláry
 about-telemetry-histograms-section = Histogramy
 about-telemetry-keyed-histogram-section = Histogramy s klíčem
@@ -63,10 +63,10 @@ about-telemetry-upload-type =
 #   $sum (number) - Sum of histogram samples
 about-telemetry-histogram-stats =
     { $sampleCount ->
-        [one] { $sampleCount } vzorek
-        [few] { $sampleCount } vzorky
-       *[other] { $sampleCount } vzorků
-    }, průměr = { $prettyAverage }, součet = { $sum }
+        [one] { $sampleCount } vzorek, průměr = { $prettyAverage }, součet = { $sum }
+        [few] { $sampleCount } vzorky, průměr = { $prettyAverage }, součet = { $sum }
+       *[other] { $sampleCount } vzorků, průměr = { $prettyAverage }, součet = { $sum }
+    }
 # Variables:
 #   $telemetryServerOwner (string) - the value of the toolkit.telemetry.server_owner preference. Typically "Mozilla"
 about-telemetry-page-subtitle =

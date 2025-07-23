@@ -32,7 +32,3 @@ unpin-tab =
 move-to-new-window =
     .label = नयाँ सञ्झ्यालमा सार्नुहोस्
     .accesskey = W
-
-## Variables:
-##  $tabCount (Number): the number of tabs that are affected by the action.
-

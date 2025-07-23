@@ -128,9 +128,6 @@ delete-email-cert-impact = Nda war na boro foo bataga tabatiyan-tiiraa tuusu, wa
 cert-with-serial =
     .value = Tabatiyan-tiira nda fannu lanba: { $serialNumber }
 
-## Used to show whether an override is temporary or permanent
-
-
 ## Add Security Exception dialog
 
 add-exception-branded-warning = War soobay ka takaa kaŋ nda { -brand-short-name } ga nungoo tammaasa daaru.

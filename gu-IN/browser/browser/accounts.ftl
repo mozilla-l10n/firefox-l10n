@@ -31,9 +31,6 @@ account-send-tab-to-device-connectdevice = બીજા ઉપકરણ સા�
 account-send-tab-to-device-verify-status = ખાતું તપાસાયું નથી
 account-send-tab-to-device-verify = તમારું ખાતું ચકાસો…
 
-## These strings are used in a notification shown when a new device joins the Firefox account.
-
-
 ## These strings are used in a notification shown when we're opening
 ## a single tab another device sent us to display.
 ## The body for this notification is the URL of the received tab.
@@ -72,9 +69,3 @@ account-multiple-tabs-arriving-from-unknown-device =
         [one] { $tabCount } ટૅબ આવ્યા છે
        *[other] { $tabCount } ટૅબ્સ આવ્યા છે
     }
-
-## These strings are used in notifications in which the user remotely closed
-## tabs from other devices
-## Variables:
-##   $closedCount (Number): the number of tabs closed
-

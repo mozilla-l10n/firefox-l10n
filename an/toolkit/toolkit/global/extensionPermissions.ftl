@@ -29,16 +29,3 @@ webext-perms-description-tabs = Accedir a las pestanyas d'o navegador
 webext-perms-description-tabHide = Amagar y amostrar las pestanyas d'o navegador
 webext-perms-description-topSites = Conoixer l'historial de navegación
 webext-perms-description-webNavigation = Accedir a l'actividat durant la navegación
-
-## The userScripts permission includes an additional explanation that is
-## displayed prominently near the usual permission description.
-
-
-## Short form to be used in lists or in a string (`webext-perms-description-data-some`)
-## that formats some of the data collection permissions below using `Intl.ListFormat`.
-##
-## This is used when the data collection permissions are required.
-
-
-## Long form to be used in `about:addons` when these data collection permissions are optional.
-

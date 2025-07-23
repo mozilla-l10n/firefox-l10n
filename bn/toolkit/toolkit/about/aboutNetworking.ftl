@@ -45,9 +45,3 @@ about-networking-rcwn-avg-long = দীর্ঘ গড়
 about-networking-rcwn-std-dev-long = লং স্ট্যান্ডার্ড ডেভিয়েশন
 about-networking-rcwn-cache-slow = ক্যাশ স্লো গণনা
 about-networking-rcwn-cache-not-slow = ক্যাশ স্লো করছে না গণনা
-
-## Link is intended as "network link"
-
-
-##
-

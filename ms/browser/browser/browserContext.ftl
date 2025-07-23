@@ -72,12 +72,6 @@ toolbar-button-stop =
 toolbar-button-stop-reload =
     .title = { main-context-menu-reload.aria-label }
 
-## Firefox Account Button
-
-
-## Account toolbar Button
-
-
 ## Save Page
 
 main-context-menu-page-save =
@@ -187,9 +181,6 @@ main-context-menu-audio-email =
 main-context-menu-send-to-device =
     .label = Hantar Halaman ke Peranti
     .accesskey = P
-
-##
-
 
 ##
 

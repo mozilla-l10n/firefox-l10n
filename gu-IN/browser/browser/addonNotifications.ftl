@@ -4,10 +4,6 @@
 
 xpinstall-prompt = { -brand-short-name } આ સાઇટને તમારા કમ્પ્યુટર પર સૉફ્ટવેર ઇન્સ્ટોલ કરવા માટે તમને પૂછવાથી અટકાવેલ છે.
 
-## Variables:
-##   $host (String): The hostname of the site the add-on is being installed from.
-
-
 ##
 
 xpinstall-prompt-dont-allow =

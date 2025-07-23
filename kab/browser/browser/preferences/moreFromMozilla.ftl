@@ -37,6 +37,3 @@ more-from-moz-mozilla-monitor-button = Awi { -monitor-brand-short-name }
 ## These strings are for the Solo card in about:preferences moreFromMozilla page
 
 more-from-moz-solo-title = { -solo-ai-brand-name } AI
-
-## These strings are for the MDN card in about:preferences moreFromMozilla page
-

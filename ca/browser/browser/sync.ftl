@@ -34,6 +34,3 @@ fxa-menu-send-tab-to-device-description = Envieu una pestanya instantàniament a
 fxa-menu-sign-out =
     .label = Tanca la sessió…
 fxa-menu-sync-title = Sincronització
-
-## Sync warning strings that support the browser profiles feature, these will be shown when the user might be merging data
-

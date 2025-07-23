@@ -7,15 +7,6 @@
 
 abuse-report-cancel-button = Kunchatu
 
-## Message bars descriptions.
-##
-## Variables:
-##   $addon-name (string) - Name of the add-on
-
-
 ## Message bars actions.
 
 abuse-report-messagebar-action-cancel = Kunchatu
-
-## Abuse report reasons (optionally paired with related examples and/or suggestions)
-

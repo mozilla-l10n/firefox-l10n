@@ -59,9 +59,6 @@ sidebar-context-menu-copy-link =
 sidebar-context-menu-close-remote-tab =
     .label = { $deviceName }-ൽ ടാബു് അടയ്ക്കുക
 
-## Labels for sidebar history context menu items
-
-
 ## Labels for sidebar menu items.
 
 sidebar-menu-genai-chat-label =
@@ -95,12 +92,6 @@ sidebar-menu-open-bookmarks-tooltip = അടയാളക്കുറിപ്പ
 # Variables:
 #   $shortcut (String) - The OS specific keyboard shortcut.
 sidebar-menu-close-bookmarks-tooltip = അടയാളക്കുറിപ്പുകളെ അടയ്ക്കുക ({ $shortcut })
-
-## Tooltips displayed over the AI chatbot icon.
-## Variables:
-##   $shortcut (String) - The OS specific keyboard shortcut.
-##   $provider (String) - The name of the AI chatbot provider (if available).
-
 
 ## Headings for sidebar menu panels.
 

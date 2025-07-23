@@ -3,20 +3,8 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 
-## Error messages
-
-
-## Certificate information labels
-
-
 ## Variables:
 ##   $fileName (String) - The file name to save the PEM data in, derived from the common name from the certificate being displayed.
 
 certificate-viewer-download-pem-chain = PEM (जिनजिरि)
     .download = { $fileName }-chain.pem
-
-##
-
-
-## Labels for tabs displayed in stand-alone about:certificate page
-

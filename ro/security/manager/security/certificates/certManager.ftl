@@ -138,9 +138,6 @@ cert-with-serial =
 # Used to indicate that the user chose not to send a client authentication certificate to a server that requested one in a TLS handshake.
 send-no-client-certificate = Nu trimite niciun certificat de client
 
-## Used to show whether an override is temporary or permanent
-
-
 ## Add Security Exception dialog
 
 add-exception-branded-warning = Ești pe cale să schimbi modul în care { -brand-short-name } identifică acest site.

@@ -3,9 +3,3 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 close-window = Tôp Tingkap
-
-## Various categories of shortcuts for search.
-
-
-##
-

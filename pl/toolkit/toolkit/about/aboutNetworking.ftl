@@ -64,6 +64,3 @@ about-networking-moved-about-logging = Ta strona została przeniesiona do <a dat
 
 about-networking-networkid-is-up = Łącze jest aktywne
 about-networking-networkid-status-known = Stan łącza jest nieznany
-
-##
-

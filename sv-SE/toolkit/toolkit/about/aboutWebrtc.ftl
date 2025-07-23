@@ -317,6 +317,3 @@ about-webrtc-hide-msg-sdp = Dölj SDP
 about-webrtc-media-context-show-msg = Visa mediakontext
 about-webrtc-media-context-hide-msg = Dölj mediakontext
 about-webrtc-media-context-heading = Mediakontext
-
-##
-

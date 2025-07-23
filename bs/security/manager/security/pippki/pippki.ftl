@@ -48,9 +48,6 @@ download-cert-view-cert =
     .label = Pregled
 download-cert-view-text = Ispitaj CA certifikat
 
-## Client Authorization Ask dialog
-
-
 ## Client Authentication Ask dialog
 
 client-auth-window =

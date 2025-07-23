@@ -27,19 +27,10 @@ options-default-color-unit-hsl = HSL(A)
 options-default-color-unit-rgb = RGB(A)
 options-default-color-unit-name = Имиња на бои
 
-## Web Console section
-
-
-## Style Editor section
-
-
 ## Screenshot section
 
 options-screenshot-audio-tooltip =
     .title = Емитува звук на бленда кога се фаќаат слики од екран
-
-## Editor section
-
 
 ## Advanced section
 

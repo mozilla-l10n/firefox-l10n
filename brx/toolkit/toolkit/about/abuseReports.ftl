@@ -13,16 +13,7 @@ abuse-report-next-button = उननि
 abuse-report-goback-button = उनथिं थांफिन
 abuse-report-submit-button = गथाय
 
-## Message bars descriptions.
-##
-## Variables:
-##   $addon-name (string) - Name of the add-on
-
-
 ## Message bars actions.
 
 abuse-report-messagebar-action-retry = फिन नाजा
 abuse-report-messagebar-action-cancel = नेवसि
-
-## Abuse report reasons (optionally paired with related examples and/or suggestions)
-

@@ -90,11 +90,6 @@ login-item-save-changes-button = बदल जतन करा
 login-item-save-new-button = जतन करा
 login-item-cancel-button = रद्द करा
 
-## The date is displayed in a timeline showing the password evolution.
-## A label is displayed under the date to describe the type of change.
-## (e.g. updated, created, etc.)
-
-
 ## OS Authentication dialog
 
 about-logins-os-auth-dialog-caption = { -brand-full-name }
@@ -166,9 +161,6 @@ about-logins-error-message-default = हा पासवर्ड साठव�
 
 about-logins-export-file-picker-export-button = निर्यात करा
 
-## Login Import Dialog
-
-
 ##
 ## Variables:
 ##  $count (number) - The number of affected elements
@@ -192,16 +184,3 @@ about-logins-import-report-row-index = पंक्ती { $number }
 about-logins-import-report-row-description-no-change = डुप्लिकेट: विद्यमान लॉगिनशी अचूक मिळते.
 about-logins-import-report-row-description-modified = विद्यमान लॉगिन अद्ययावत केले
 about-logins-import-report-row-description-added = नवीन लॉगिन जोडले
-
-##
-## Variables:
-##  $field (String) - The name of the field from the CSV file for example url, username or password
-
-
-##
-## Variables:
-##  $count (number) - The number of affected elements
-
-
-## Logins import report page
-

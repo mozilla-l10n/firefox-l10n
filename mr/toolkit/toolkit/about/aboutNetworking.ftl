@@ -45,9 +45,3 @@ about-networking-rcwn-avg-long = लांब सरासरी
 about-networking-rcwn-std-dev-long = लॉंग स्टेंडर्ड डेव्हिएशन
 about-networking-rcwn-cache-slow = कॅशे हळु मोजणी
 about-networking-rcwn-cache-not-slow = कॅशे हळु मोजणी नाही
-
-## Link is intended as "network link"
-
-
-##
-

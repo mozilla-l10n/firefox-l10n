@@ -8,40 +8,9 @@
 ### file that are used for the profiler popup.
 
 
-## All of the headings for the various sections.
-
-
-##
-
-
-## The controls for the interval at which the profiler samples the code.
-
-
-##
-
-
-## Various statuses that affect the current state of profiling, not typically displayed.
-
-
 ## These are shown briefly when the user is waiting for the profiler to respond.
 
 perftools-request-to-stop-profiler = Спиране на записа
-
-##
-
-
-## More actions menu
-
-
-## These messages are descriptions of the threads that can be enabled for the profiler.
-
-
-##
-
-
-## Onboarding UI labels. These labels are displayed in the new performance panel UI, when
-## devtools.performance.new-panel-onboarding preference is true.
-
 
 ## Profiler presets
 
@@ -56,6 +25,3 @@ perftools-request-to-stop-profiler = Спиране на записа
 # The same labels and descriptions are also defined in appmenu.ftl.
 
 perftools-presets-firefox-label = { -brand-shorter-name }
-
-##
-

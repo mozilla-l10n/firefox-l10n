@@ -81,27 +81,6 @@ sandbox-sys-call-tid = TID
 
 audio-backend = Jinde bendoo
 
-## Codec support table
-
-
-## Media Content Decryption Modules (CDM)
-## See EME Spec for more explanation for following technical terms
-## https://w3c.github.io/encrypted-media/
-
-
-##
-
-
-## Remote Debugging
-##
-## The Firefox remote protocol provides low-level debugging interfaces
-## used to inspect state and control execution of documents,
-## browser instrumentation, user interaction simulation,
-## and for subscribing to browser-internal events.
-##
-## See also https://firefox-source-docs.mozilla.org/remote/
-
-
 ##
 
 # Variables
@@ -204,21 +183,3 @@ drag-enabled = cendizuu n' ka tunanndi
 
 wheel-warning = ganje howante damhaya ibaayi kaŋ ši nda kanbe sabbu ra: { $preferenceKey }
 touch-warning = manyan howante damahay kay ibaayi kaŋ ši kanbe sabbu ra: { $preferenceKey }
-
-## Strings representing the status of the Enterprise Policies engine.
-
-
-## Printing section
-
-
-## Remote Settings sections
-
-
-## Normandy sections
-
-
-## Pointing devices
-
-
-## Content Analysis (DLP)
-

@@ -64,6 +64,3 @@ about-networking-moved-about-logging = Dizze side is ferpleatst nei <a data-l10n
 
 about-networking-networkid-is-up = Keppeling is beskikber
 about-networking-networkid-status-known = Keppelingssteat is bekend
-
-##
-

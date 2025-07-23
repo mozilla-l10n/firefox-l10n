@@ -17,9 +17,6 @@ webext-perms-header-unsigned-with-perms = Աւելացնե՞լ { $extension }-ը
 webext-perms-sideload-header = { $extension }-ը աւելացուել է
 webext-perms-optional-perms-header = { $extension }-ը պահանջում է լրացուցիչ թոյլտուութիւններ։
 
-## Headers used in the webextension permissions dialog, inside the content.
-
-
 ##
 
 webext-perms-add =
@@ -73,20 +70,6 @@ webext-perms-host-description-too-many-sites =
        *[other] Ձեր տուեալներն հասանելի են { $domainCount } այլ կայքերում
     }
 
-## Strings for data collection permissions in the permission prompt.
-
-
-## Headers used in the webextension permissions dialog for synthetic add-ons.
-## The part of the string describing what privileges the extension gives should be consistent
-## with the value of webext-site-perms-description-gated-perms-{sitePermission}.
-## Note, this string will be used as raw markup. Avoid characters like <, >, &
-## Variables:
-##   $hostname (String): the hostname of the site the add-on is being installed from.
-
-
-##
-
-
 ## Headers used in the webextension permissions dialog.
 ## Note: This string will be used as raw markup. Avoid characters like <, >, &
 ## Variables:
@@ -100,6 +83,3 @@ webext-site-perms-header-unsigned-with-perms = Աւելացնե՞լ { $extension
 
 webext-site-perms-midi = Ստանալ հասանելիութիւն MIDI սարքերին
 webext-site-perms-midi-sysex = Ստանալ հասանելիութիւն MIDI սարքերին SysEx֊ի աջակցութեամբ
-
-## Colorway theme migration
-

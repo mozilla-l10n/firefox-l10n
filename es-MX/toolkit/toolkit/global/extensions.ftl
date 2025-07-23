@@ -17,9 +17,6 @@ webext-perms-header-unsigned-with-perms = ¿Añadir { $extension }? Este complem
 webext-perms-sideload-header = { $extension } agregado
 webext-perms-optional-perms-header = { $extension } requiere permisos adicionales.
 
-## Headers used in the webextension permissions dialog, inside the content.
-
-
 ##
 
 webext-perms-add =
@@ -88,9 +85,6 @@ webext-perms-host-description-multiple-domains =
        *[other] Acceder a tus datos para los sitios en { $domainCount } dominios
     }
 
-## Strings for data collection permissions in the permission prompt.
-
-
 ## Headers used in the webextension permissions dialog for synthetic add-ons.
 ## The part of the string describing what privileges the extension gives should be consistent
 ## with the value of webext-site-perms-description-gated-perms-{sitePermission}.
@@ -124,6 +118,3 @@ webext-site-perms-header-unsigned-with-perms = ¿Agregar { $extension }? Esta ex
 
 webext-site-perms-midi = Acceder a dispositivos MIDI
 webext-site-perms-midi-sysex = Acceder a dispositivos MIDI con soporte para SysEx
-
-## Colorway theme migration
-

@@ -32,10 +32,3 @@ screenshots-empty-selection-error-title = آپ کا انتخاب بہت چھوٹ
 screenshots-private-window-error-title = { -screenshots-brand-name } نجی برائوزنگ موڈ مییں نااہل بنایا گیا ہے
 screenshots-generic-error-title = لاجواب! { -screenshots-brand-name } بہت مشہور ہو گیا۔
 screenshots-generic-error-details = ہمیں یقین نہیں کہ کیا ہوا تھا۔ خیال رکھ کر پھر کوشش کریں یا بھر مختلف صفحہ کی تصویرلیں؟
-
-## The below strings are used to capture keydown events so the strings should
-## not be changed unless the keyboard layout in the locale requires it.
-
-
-##
-

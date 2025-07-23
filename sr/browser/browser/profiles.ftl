@@ -76,9 +76,3 @@ profiles-light-theme = Светла
 profiles-dark-theme = Тамна
 # The default system theme
 profiles-system-theme = Системска
-
-## Alternative text for default profile icons
-
-
-## Labels for default avatar icons
-

@@ -26,10 +26,6 @@ cert-error-details-hsts-label = HTTP mustahkam transport xavfsizligi: { $hasHSTS
 cert-error-details-key-pinning-label = HTTP ochiq kalitni qistirish: { $hasHPKP }
 cert-error-details-cert-chain-label = Sertifikat zanjiri:
 
-## Variables:
-##   $hostname (string) - Hostname of the website with cert error.
-
-
 ## Messages used for certificate error titles
 
 connectionFailure-title = Ulana olmadi
@@ -66,10 +62,3 @@ networkProtocolError-title = Tarmoq protokolida xatolik bor
 nssBadCert-title = Diqqat: xavfsizlikka tahdid ehtimoli mavjud
 nssBadCert-sts-title = Ulanmadi: xavfsizlikka tahdid ehtimoli mavjud
 certerror-mitm-title = Dasturiy taʼminot { -brand-short-name }ga bu saytga xavfsiz ulanish uchun ruxsat bermayapti
-
-## Felt Privacy V1 Strings
-
-
-## Variables:
-##   $hostname (String) - Hostname of the website to which the user was trying to connect.
-

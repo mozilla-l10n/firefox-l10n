@@ -86,9 +86,6 @@ genai-options-hide-shortcut =
 genai-options-about-chatbot =
     .label = { -brand-short-name }(e)ko AA txaterako botei buruz
 
-## Chatbot footer
-
-
 ## Chatbot onboarding
 
 genai-onboarding-header = Nabigatu ahala laburbildu, ideiak jaso eta gehiago
@@ -148,6 +145,3 @@ genai-model-optin-optout =
     .label = Utzi
 genai-model-optin-cancel =
     .label = Utzi
-
-## Link previews
-

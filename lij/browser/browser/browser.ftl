@@ -338,17 +338,6 @@ browser-window-restore-down-button =
 browser-window-close-button =
     .tooltiptext = Særa
 
-## Tab actions
-
-
-## These labels should be written in all capital letters if your locale supports them.
-## Variables:
-##  $count (number): number of affected tabs
-
-
-## Bookmarks toolbar items
-
-
 ## WebRTC Pop-up notifications
 
 popup-select-camera-device =
@@ -372,9 +361,6 @@ popup-all-windows-shared = Tutti i barcoin vixibili into schermo saian condivizi
 
 sharing-warning-proceed-to-tab =
     .label = Vanni a-o feuggio
-
-## DevTools F12 popup
-
 
 ## URL Bar
 
@@ -430,9 +416,6 @@ urlbar-result-action-search-bookmarks = Çerca Segnalibbri
 urlbar-result-action-search-history = Çerca Stöia
 urlbar-result-action-search-tabs = Çerca inte schede.
 
-## Labels shown above groups of urlbar results
-
-
 ## Reader View toolbar buttons
 
 # This should match menu-view-enter-readerview in menubar.ftl
@@ -441,11 +424,6 @@ reader-view-enter-button =
 # This should match menu-view-close-readerview in menubar.ftl
 reader-view-close-button =
     .aria-label = Særa Modalitæ letua
-
-## Picture-in-Picture urlbar button
-## Variables:
-##   $shortcut (String) - Keyboard shortcut to execute the command.
-
 
 ## Full Screen and Pointer Lock UI
 
@@ -523,9 +501,6 @@ save-to-pocket-button =
     .label = Sarva in { -pocket-brand-name }
     .tooltiptext = Sarva in { -pocket-brand-name }
 
-## Repair text encoding toolbar button
-
-
 ## Customize Toolbar Buttons
 
 toolbar-overflow-customize-button =
@@ -557,9 +532,6 @@ toolbar-button-new-private-window =
 
 eme-notifications-drm-content-playing = Quarche contegnuo aodio ò video in sto scito deuvia software DRM. Porieivan esighe de limitaçioin a-e açioin pe l’utente in { -brand-short-name }.
 
-## Password save/update panel
-
-
 ##
 
 # "More" item in macOS share menu
@@ -583,10 +555,6 @@ popups-infobar-block =
 popups-infobar-dont-show-message =
     .label = No fâ vedde sta notiçia quande i pop-up son blocæ
     .accesskey = N
-
-## Since the default position for PiP controls does not change for RTL layout,
-## right-to-left languages should use "Left" and "Right" as in the English strings,
-
 
 ##
 
@@ -621,36 +589,12 @@ tabs-toolbar-list-all-tabs =
     .label = Lista de tutti i feuggi
     .tooltiptext = Lista de tutti i feuggi
 
-## Infobar shown at startup to suggest session-restore
-
-
-## Infobar shown when the user tries to open a file picker and file pickers are blocked by enterprise policy
-
-
 ## Mozilla data reporting notification (Telemetry, Firefox Health Report, etc)
 
 data-reporting-notification-message = Çerte informaçioin se mandan aotomaticamente a { -vendor-short-name } da { -brand-short-name } pe megioane l'uzo.
 data-reporting-notification-button =
     .label = Çerni cöse condividde
     .accesskey = s
-
-## Unified extensions (toolbar) button
-
-
-## Unified extensions button when permission(s) are needed.
-## Note that the new line is intentionally part of the tooltip.
-
-
-## Unified extensions button when some extensions are quarantined.
-## Note that the new line is intentionally part of the tooltip.
-
-
-## Unified extensions button when some extensions are disabled (e.g. through add-ons blocklist).
-## Note that the new line is intentionally part of the tooltip.
-
-
-## Private browsing reset button
-
 
 ## Autorefresh blocker
 
@@ -659,9 +603,6 @@ refresh-blocked-redirect-label = { -brand-short-name } o l'inpedisce l'indirisam
 refresh-blocked-allow =
     .label = Permetti
     .accesskey = P
-
-## Firefox Relay integration
-
 
 ## Add-on Pop-up Notifications
 
@@ -692,16 +633,3 @@ popup-warning-button =
 #   $popupURI (String): the URI for the pop-up window
 popup-show-popup-menuitem =
     .label = Fanni vedde '{ $popupURI }'
-
-## File-picker crash notification ("FilePickerCrashed.sys.mjs")
-
-
-# Button used with file-picker-crashed-save-default. Opens the folder in Windows
-# Explorer, with the saved file selected and in focus.
-#
-# The wording here should be consistent with the Windows variant of
-# `downloads-cmd-show-menuitem-2` and similar messages.
-
-
-## Onboarding Finish Setup checklist
-

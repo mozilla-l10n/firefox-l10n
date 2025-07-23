@@ -68,10 +68,6 @@ open-in-new-window-for-csp-or-xfo-error = Atvērt vietni jaunā logā
 #   $hostname (string) - Hostname of the website blocked by csp or xfo error.
 csp-xfo-blocked-long-desc = Lai aizsargātu jūsu drošību, { $hostname } neļaus { -brand-short-name } rādīt lapu, ja to ir iegūlusi cita vietne. Lai redzētu šo lapu, tā ir jāatver jaunā logā.
 
-## Variables:
-##   $hostname (string) - Hostname of the website with cert error.
-
-
 ## Messages used for certificate error titles
 
 connectionFailure-title = Nevar pieslēgties
@@ -109,10 +105,3 @@ networkProtocolError-title = Tīkla protokola kļūda
 nssBadCert-title = Brīdinājums: Potenciāls drošības risks
 nssBadCert-sts-title = Netika izveidots savienojums: potenciāla drošības problēma
 certerror-mitm-title = Programmatūra neļauj { -brand-short-name } droši izveidot savienojumu ar šo vietni
-
-## Felt Privacy V1 Strings
-
-
-## Variables:
-##   $hostname (String) - Hostname of the website to which the user was trying to connect.
-

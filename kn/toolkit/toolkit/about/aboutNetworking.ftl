@@ -34,9 +34,3 @@ about-networking-rcwn-status = RCWN ಅಂಕಿಅಂಶಗಳು
 about-networking-rcwn-perf-open = ತೆರೆ
 about-networking-rcwn-perf-read = ಓದು
 about-networking-rcwn-perf-write = ಬರೆ
-
-## Link is intended as "network link"
-
-
-##
-

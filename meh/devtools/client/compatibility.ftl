@@ -6,15 +6,3 @@
 ## Messages used as headers in the main pane
 
 compatibility-all-elements-header = Kuaiyo da tixin
-
-## Message used as labels for the type of issue
-
-
-## Messages used as labels and titles for buttons in the footer
-
-
-## Messages used as headers in settings pane
-
-
-##
-

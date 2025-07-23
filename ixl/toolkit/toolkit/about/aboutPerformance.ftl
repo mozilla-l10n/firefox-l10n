@@ -7,19 +7,6 @@
 
 column-name = B'ii
 
-## Special values for the Name column
-
-
-## Values for the Type column
-
-
-## Values for the Energy Impact column
-##
-## Variables:
-##   $value (Number) - Value of the energy impact, eg. 0.25 (low),
-##                     5.38 (medium), 105.38 (high)
-
-
 ## Values for the Memory column
 ##
 ## Variables:

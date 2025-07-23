@@ -35,6 +35,3 @@ more-from-moz-mozilla-monitor-button = Eskuratu { -monitor-brand-short-name }
 ## These strings are for the Solo card in about:preferences moreFromMozilla page
 
 more-from-moz-solo-button = Probatu { -solo-ai-brand-name }
-
-## These strings are for the MDN card in about:preferences moreFromMozilla page
-

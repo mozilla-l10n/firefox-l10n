@@ -48,9 +48,6 @@ download-cert-view-cert =
     .label = Ogled
 download-cert-view-text = Preveri digitalno potrdilo overitelja
 
-## Client Authorization Ask dialog
-
-
 ## Client Authentication Ask dialog
 
 client-auth-window =

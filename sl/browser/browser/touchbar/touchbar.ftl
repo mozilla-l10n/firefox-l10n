@@ -32,6 +32,3 @@ search-history = zgodovini
 search-opentabs = odprtih zavihkih
 search-tags = oznakah
 search-titles = naslovih
-
-##
-

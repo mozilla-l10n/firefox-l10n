@@ -14,6 +14,3 @@ search-bookmarks = Leabharmharcanna
 search-history = Oireas
 search-opentabs = Cluaisíní Oscailte
 search-tags = Clibeanna
-
-##
-

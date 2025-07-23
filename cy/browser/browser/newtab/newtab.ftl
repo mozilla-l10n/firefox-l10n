@@ -547,9 +547,6 @@ newtab-custom-wallpaper-title = Mae papurau wal cyfaddas yma
 newtab-custom-wallpaper-subtitle = Llwythwch i fyny eich papur wal eich hun neu dewiswch liw cyfaddas i wneud { -brand-product-name } deimlo'n gartrefol.
 newtab-custom-wallpaper-cta = Rhowch gynnig arni
 
-## Strings for new user activation custom wallpaper highlight
-
-
 ## Strings for download mobile highlight
 
 newtab-download-mobile-highlight-title = Llwytho { -brand-product-name } symudol i lawr

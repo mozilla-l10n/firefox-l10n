@@ -32,6 +32,3 @@ search-history = Гісторыі
 search-opentabs = Адкрытых картках
 search-tags = Тэгах
 search-titles = Загалоўках
-
-##
-

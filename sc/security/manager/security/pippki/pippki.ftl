@@ -39,9 +39,6 @@ download-cert-view-cert =
     .label = Visualiza
 download-cert-view-text = Esàmina su tzertificadu de sa CA
 
-## Client Authorization Ask dialog
-
-
 ## Client Authentication Ask dialog
 
 # Variables:
@@ -49,9 +46,3 @@ download-cert-view-text = Esàmina su tzertificadu de sa CA
 client-auth-cert-details-issued-to = Emìtidu pro: { $issuedTo }
 client-auth-cert-remember-box =
     .label = Regorda custa detzisione
-
-## Set password (p12) dialog
-
-
-## Protected authentication alert
-

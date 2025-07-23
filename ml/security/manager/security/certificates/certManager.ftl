@@ -133,9 +133,6 @@ delete-email-cert-impact = നിങ്ങള്‍ ഒരാളുടെ ഈമ
 cert-with-serial =
     .value = { $serialNumber } സീരിയൽ നമ്പറുള്ള സർട്ടിഫിക്കറ്റ്
 
-## Used to show whether an override is temporary or permanent
-
-
 ## Add Security Exception dialog
 
 add-exception-branded-warning = { -brand-short-name } ഈ സൈറ്റ് എങ്ങനെ തിരിച്ചറിയുന്നു എന്നുള്ളതു് നിങ്ങള്‍ മാറ്റി എഴുതുവാന്‍ തുടങ്ങുന്നു.

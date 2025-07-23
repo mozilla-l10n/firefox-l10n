@@ -12,9 +12,6 @@ about-webrtc-document-title = വെബ്ആര്‍ടിസി ആഭ്യ�
 # translated. This string is used as a title for a file save dialog box.
 about-webrtc-save-page-dialog-title = about:webrtc മാറ്റി സൂക്ഷിക്കുക
 
-## These labels are for a disclosure which contains the information for closed PeerConnection sections
-
-
 ## AEC is an abbreviation for Acoustic Echo Cancellation.
 
 about-webrtc-aec-logging-msg-label = AEC ലോഗ്ഗിങ്ങ്
@@ -94,11 +91,6 @@ about-webrtc-log-section-hide-msg = ലോഗ് ഒളിപ്പിക്ക�
 about-webrtc-connection-open = [ { $browser-id } | { $id } ] { $url } { $now }
 about-webrtc-connection-closed = [ { $browser-id } | { $id } ] { $url } (അടച്ചിരിയ്ക്കുന്നു) { $now }
 
-## These are used to indicate what direction media is flowing.
-## Variables:
-##  $codecs - a list of media codecs
-
-
 ##
 
 about-webrtc-local-candidate = പ്രാദേശിക കാന്‍ഡിഡേറ്റ്
@@ -114,23 +106,6 @@ about-webrtc-fold-default-hide-msg = വിശദാംശങ്ങള്‍ മ
     .title = വിഭാഗം കൊളാപ്സ് ചെയ്യാന്‍ ക്ലിക്ക് ചെയ്യുക
 about-webrtc-decoder-label = ഡീകോഡര്‍
 about-webrtc-encoder-label = എന്‍കോഡര്‍
-
-## SSRCs are identifiers that represent endpoints in an RTP stream
-
-
-## These are displayed on the button that shows or hides the
-## PeerConnection configuration disclosure
-
-
-##
-
-
-## These are displayed on the button that shows or hides the
-## user modified configuration disclosure
-
-
-##
-
 
 ##
 
@@ -148,18 +123,3 @@ about-webrtc-save-page-complete-msg = { $path } -ലേക്കു് താള
 # Variables:
 #   $jitter (Number) - The jitter.
 about-webrtc-jitter-label = ജിറ്റര്‍ { $jitter }
-
-## "SDP" is an abbreviation for Session Description Protocol, an IETF standard.
-## See http://wikipedia.org/wiki/Session_Description_Protocol
-
-
-## These are displayed on the button that shows or hides the SDP information disclosure
-
-
-## These are displayed on the button that shows or hides the Media Context information disclosure.
-## The Media Context is the set of preferences and detected capabilities that informs
-## the negotiated CODEC settings.
-
-
-##
-

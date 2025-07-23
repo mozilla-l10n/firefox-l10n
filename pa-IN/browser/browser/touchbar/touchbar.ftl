@@ -32,6 +32,3 @@ search-history = ਅਤੀਤ
 search-opentabs = ਖੁੱਲ੍ਹੀਆਂ ਟੈਬਾਂ
 search-tags = ਪਰਚੀਆਂ
 search-titles = ਟਾਈਟਲਾਂ
-
-##
-

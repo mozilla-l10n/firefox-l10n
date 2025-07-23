@@ -95,10 +95,6 @@ fp-learn-more-about-secure-connection-failures = Saznaj više o kvarovima sigurn
 fp-learn-more-about-cert-issues = Saznaj više o ovim vrstama problema sa certifikatima
 fp-learn-more-about-time-related-errors = Saznaj više o rješavanju grešaka u vezi s vremenom
 
-## Variables:
-##   $hostname (string) - Hostname of the website with cert error.
-
-
 ## Messages used for certificate error titles
 
 connectionFailure-title = Povezivanje nije moguće

@@ -12,9 +12,6 @@ about-webrtc-document-title = WebRTC අභ්‍යන්තර
 # translated. This string is used as a title for a file save dialog box.
 about-webrtc-save-page-dialog-title = ලෙස about:webrtc සුරකින්න
 
-## These labels are for a disclosure which contains the information for closed PeerConnection sections
-
-
 ## AEC is an abbreviation for Acoustic Echo Cancellation.
 
 about-webrtc-aec-logging-msg-label = AEC සටහන් තැබීම
@@ -136,9 +133,6 @@ about-webrtc-height-px = උස (px)
 about-webrtc-estimated-framerate = තක්සේරුගත රාමුඅනු.
 about-webrtc-rotation-degrees = කරකැවීම (අංශක)
 
-## SSRCs are identifiers that represent endpoints in an RTP stream
-
-
 ## These are displayed on the button that shows or hides the
 ## PeerConnection configuration disclosure
 
@@ -155,10 +149,6 @@ about-webrtc-configuration-element-provided = සපයා ඇත
 about-webrtc-configuration-element-not-provided = සපයා නැත
 # The options set by the user in about:config that could impact a WebRTC call
 about-webrtc-custom-webrtc-configuration-heading = පරිශ්‍රීලක සැකසූ WebRTC අභිප්‍රේත
-
-## These are displayed on the button that shows or hides the
-## user modified configuration disclosure
-
 
 ##
 
@@ -197,10 +187,6 @@ about-webrtc-channels =
        *[other] නාලිකා { $channels }
     }
 
-## "SDP" is an abbreviation for Session Description Protocol, an IETF standard.
-## See http://wikipedia.org/wiki/Session_Description_Protocol
-
-
 ## These are displayed on the button that shows or hides the SDP information disclosure
 
 about-webrtc-show-msg-sdp = SDP පෙන්වන්න
@@ -213,6 +199,3 @@ about-webrtc-hide-msg-sdp = SDP සඟවන්න
 about-webrtc-media-context-show-msg = මාධ්‍ය සන්දර්භය පෙන්වන්න
 about-webrtc-media-context-hide-msg = මාධ්‍ය සන්දර්භය සඟවන්න
 about-webrtc-media-context-heading = මාධ්ය සන්දර්භය
-
-##
-

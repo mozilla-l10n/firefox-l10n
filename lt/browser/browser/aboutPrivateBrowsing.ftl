@@ -60,9 +60,3 @@ about-private-browsing-pin-promo-link-text =
        *[other] Įsegti į užduočių juostą
     }
 about-private-browsing-pin-promo-title = Jokių įrašytų slapukų ar naršymo žurnalo – tiesiai iš darbalaukio. Naršykite, lyg niekas nestebėtų.
-
-## Strings used in a promotion message for cookie banner reduction
-
-
-## Strings for Felt Privacy v1 experiments in 119
-

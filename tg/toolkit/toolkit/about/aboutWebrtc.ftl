@@ -317,6 +317,3 @@ about-webrtc-hide-msg-sdp = Пинҳон кардани SDP
 about-webrtc-media-context-show-msg = Намоиш додани муҳтавои расона
 about-webrtc-media-context-hide-msg = Пинҳон кардани муҳтавои расона
 about-webrtc-media-context-heading = Муҳтавои расона
-
-##
-

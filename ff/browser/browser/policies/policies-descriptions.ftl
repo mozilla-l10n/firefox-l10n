@@ -54,9 +54,6 @@ policy-HardwareAcceleration = So tawii wonaa goonga, ñif hartaango kaɓirgal.
 policy-Homepage = So ina hatojini, toɗɗo cokaa hello jaɓɓorgo ngoo.
 policy-InstallAddonsPermission = Yamir won ɗeen lowe aafde gulɗe timmitooje.
 
-## Do not translate "SameSite", it's the name of a cookie attribute.
-
-
 ##
 
 policy-NoDefaultBookmarks = Ñif cosgol maantore garduɗe e { -brand-short-name }, kam e maatore peeleeje (jele ɓurɗe yilleede, ɗe ɓooyaani). Tesko : ndee feere yuumtata tan ko nde huutoraa ko adii ciynugol gadanol sifoode ndee.

@@ -11,9 +11,6 @@ urlbar-translations-button =
 urlbar-translations-button2 =
     .tooltiptext = Isalin ang pahinang ito - Beta
 
-## Options in the Firefox Translations settings.
-
-
 ## The translation panel appears from the url bar, and this view is the default
 ## translation view.
 
@@ -27,11 +24,6 @@ translations-panel-translate-button =
 
 translations-panel-from-label = Isalin mula
 translations-panel-to-label = Isalin sa
-
-## The translation panel appears from the url bar, and this view is the "restore" view
-## that lets a user restore a page to the original language, or translate into another
-## language.
-
 
 ## Firefox Translations language management in about:preferences.
 

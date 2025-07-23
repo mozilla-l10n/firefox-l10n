@@ -36,12 +36,3 @@ pocket-panel-signup-signup-firefox = Winnditoro { -brand-product-name }
 pocket-panel-signup-tagline = Danndu binndanɗe e widewooji { -brand-product-name } ngam yiyde e { -pocket-brand-name }e kaɓirgol kala, sahaa kala.
 pocket-panel-signup-tagline-story-one = Dobo e Butoŋ { -pocket-brand-name } oo ngam danndude winndannde, widewoo wala hello iwde e { -brand-product-name }.
 pocket-panel-signup-tagline-story-two = Yiy e { -pocket-brand-name } e kaɓirgol kala, sahaa kala.
-
-## about:pocket-home panel
-
-
-## Pocket panel header component
-
-
-## Pocket panel buttons
-

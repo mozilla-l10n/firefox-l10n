@@ -4,9 +4,6 @@
 
 about-reader-load-error = पृष्ठ सँ आलेख लोड करए मे विफल
 
-## Reader View text and layout menu
-
-
 ## These are the styles of typeface that are options in the reader view controls.
 
 about-reader-font-type-serif = सेरिफ़
@@ -16,14 +13,3 @@ about-reader-font-type-sans-serif = सैंस-सेरिफ़:
 
 about-reader-toolbar-close = पाठक व्यू बन्न करू
 about-reader-toolbar-type-controls = नियंत्रण प्रकार
-
-## Reader View colors menu
-
-
-## These are used as labels for the custom theme color pickers.
-## The .title element is used to make the editing functionality
-## clear and give context for screen reader users.
-
-
-## Reader View text and layout menu
-

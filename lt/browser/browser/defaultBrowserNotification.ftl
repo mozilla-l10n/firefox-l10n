@@ -21,8 +21,3 @@ default-browser-prompt-message-alt = Gaukite greitį, saugumą, ir privatumą ki
 default-browser-prompt-button-primary-alt = Skirti numatytąja naršykle
 default-browser-prompt-checkbox-not-again-label = Daugiau šio pranešimo nerodyti
 default-browser-prompt-button-secondary = Ne dabar
-
-## Strings for a Windows native guidance notification when the user is forced to
-## use Windows Settings to set the default browser. Instructions differ for
-## Windows 10 and 11.
-

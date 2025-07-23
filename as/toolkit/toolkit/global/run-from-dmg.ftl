@@ -17,8 +17,3 @@ prompt-to-install-no-button = ইনষ্টল নকৰিব
 
 install-failed-title = { -brand-short-name } ইনষ্টলেশ্যন বিফল হ'ল।
 install-failed-message = { -brand-short-name } ইনষ্টল হোৱাত বিফল হ'ল যদিও চলি থাকিব।
-
-## Strings for a dialog that recommends to the user to start an existing
-## installation of the app in the Applications directory if one is detected,
-## rather than the app that was double-clicked in a .dmg.
-

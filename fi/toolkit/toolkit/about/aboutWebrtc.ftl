@@ -12,9 +12,6 @@ about-webrtc-document-title = WebRTC-tiedot
 # translated. This string is used as a title for a file save dialog box.
 about-webrtc-save-page-dialog-title = tallenna about:webrtc nimellä
 
-## These labels are for a disclosure which contains the information for closed PeerConnection sections
-
-
 ## AEC is an abbreviation for Acoustic Echo Cancellation.
 
 about-webrtc-aec-logging-msg-label = AEC-lokitus
@@ -189,10 +186,6 @@ about-webrtc-configuration-element-not-provided = Ei annettu
 # The options set by the user in about:config that could impact a WebRTC call
 about-webrtc-custom-webrtc-configuration-heading = Käyttäjän asettamat WebRTC-asetukset
 
-## These are displayed on the button that shows or hides the
-## user modified configuration disclosure
-
-
 ##
 
 # Section header for estimated bandwidths of WebRTC media flows
@@ -306,6 +299,3 @@ about-webrtc-hide-msg-sdp = Piilota SDP
 about-webrtc-media-context-show-msg = Näytä mediakonteksti
 about-webrtc-media-context-hide-msg = Piilota mediakonteksti
 about-webrtc-media-context-heading = Median konteksti
-
-##
-

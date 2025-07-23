@@ -63,6 +63,3 @@ about-networking-moved-about-logging = ᱥᱟᱦᱴᱟ ᱫᱚ <a data-l10n-name=
 
 about-networking-networkid-is-up = ᱞᱤᱝᱠ ᱫᱚ ᱪᱟᱹᱞᱩ ᱠᱟᱱᱟ
 about-networking-networkid-status-known = ᱞᱤᱝᱠ ᱨᱮᱭᱟᱜ ᱥᱛᱷᱤᱠᱛᱤ ᱵᱟᱲᱟᱭ ᱢᱮᱱᱟᱜᱼᱟ
-
-##
-

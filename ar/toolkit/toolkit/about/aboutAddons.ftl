@@ -521,10 +521,6 @@ plugins-openh264-description = تنصّب Mozilla هذه الملحقة تلقا
 plugins-widevine-name = وحدة Widevine لتعمية المحتوى من جوجل.
 plugins-widevine-description = تتيح هذه الملحقة تشغيل الوسائط المعمّاة لتتوافق ومواصفات امتدادات الوسائط المعمّاة. تستعمل المواقع عادةً الوسائط المعمّاة لتحميل محتواها الممتاز من النسخ. زُر https://www.w3.org/TR/encrypted-media/ لمزيد من المعلومات حول امتدادات الوسائط المعمّاة.
 
-## Headings for the Permissions tab in `about:addons` when the data collection
-## feature is enabled.
-
-
 ## Mapping Engine IDs from AI models to how that feature represented by the engine Id is described in the used by section in local model management
 
 # Label for button that when clicked removed local model

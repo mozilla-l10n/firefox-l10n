@@ -4,10 +4,6 @@
 
 addons-page-title = सहयुक्ति प्रबंधक
 
-## Variables
-##   $domain - Domain name where add-ons are available (e.g. addons.mozilla.org)
-
-
 ##
 
 list-empty-installed =
@@ -150,29 +146,6 @@ addon-install-from-file = फाइल सँ सहयुक्ति संस
 addon-install-from-file-dialog-title = संस्थापित करब क लेल सहयुक्ति चुनू
 addon-install-from-file-filter-name = सहयुक्तियाँ
 
-## Extension shortcut management
-
-
-## Recommended add-ons page
-
-
-## Add-on actions
-
-
-## Pending uninstall message bar
-
-
-## "sites with restrictions" (internally called "quarantined") are special domains
-## where add-ons are normally blocked for security reasons.
-
-
-## This is the tooltip text for the recommended badges for an extension in about:addons. The
-## badge is a small icon displayed next to an extension when it is recommended on AMO.
-
-
-##
-
-
 ## Page headings
 
 addon-page-options-button =
@@ -214,10 +187,3 @@ details-notification-gmp-pending2 =
 plugins-gmp-license-info = लाइसेंसिंग सूचना
 plugins-openh264-name = H264 वीडियो कोडेक जे  Cisco Systems, Inc द्वारा उपलब्ध कराएल गेल अछि केँ खोलू
 plugins-openh264-description = ई प्लगइन मोज़िला WebRTC विनिर्देशन सँग अनुपालन करए कलेल आओर h.264 वीडियो कोडेक केर आवश्यकता अछि जे उपकरण सँग WebRTC कॉल केँ सक्षम करए कलेल स्वचालित रूप सँ स्थापित अछि. कोडेक स्रोत कोड केँ देखए आओर कार्यान्वयन केर संबंध मे बेसी जानए कलेल एकटा लिंक http://www.openh264.org/ पर जाउ.
-
-## Headings for the Permissions tab in `about:addons` when the data collection
-## feature is enabled.
-
-
-## Mapping Engine IDs from AI models to how that feature represented by the engine Id is described in the used by section in local model management
-

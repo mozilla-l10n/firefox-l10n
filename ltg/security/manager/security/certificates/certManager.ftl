@@ -131,9 +131,6 @@ delete-email-cert-impact = Nui izdziessit personys e-posta sertifikatu, jius vai
 cert-with-serial =
     .value = Sertifikats ar serejis numurs: { $serialNumber }
 
-## Used to show whether an override is temporary or permanent
-
-
 ## Add Security Exception dialog
 
 add-exception-branded-warning = Jius grosotīs maineit kai { -brand-short-name } identificej itū vītni.

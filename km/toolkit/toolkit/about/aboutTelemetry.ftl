@@ -8,15 +8,15 @@ about-telemetry-show-subsession-data = បង្ហាញ​ទិន្នន�
 about-telemetry-choose-ping = ជ្រើស​ភីង៖
 about-telemetry-archive-ping-header = ភីង
 about-telemetry-page-title = ទិន្នន័យ Telemetry
-about-telemetry-general-data-section =   ទិន្នន័យ​ទូទៅ
+about-telemetry-general-data-section = { "  " }ទិន្នន័យ​ទូទៅ
 about-telemetry-environment-data-section = ទិន្នន័យ​បរិស្ថាន
-about-telemetry-histograms-section =    គំនូស​តាង​ជា​របារ
-about-telemetry-keyed-histogram-section =   Keyed Histograms
-about-telemetry-simple-measurements-section =    រង្វាស់​​សាមញ្ញ
-about-telemetry-slow-sql-section =    ស្តេតមិន SQL យឺត 
+about-telemetry-histograms-section = { "   " }គំនូស​តាង​ជា​របារ
+about-telemetry-keyed-histogram-section = { "  " }Keyed Histograms
+about-telemetry-simple-measurements-section = { "   " }រង្វាស់​​សាមញ្ញ
+about-telemetry-slow-sql-section = { "   " }ស្តេតមិន SQL យឺត{ " " }
 about-telemetry-addon-details-section = សេចក្ដី​លម្អិត​កម្មវិធី​បន្ថែម
 about-telemetry-late-writes-section = សរសេរ​យឺត
-about-telemetry-full-sql-warning =    ចំណាំ ៖ ការ​បំបាត់​កំហុស SQL ត្រូវ​បាន​បើក ។ ឃ្លា SQL ពេញ​លេញ​អាច​ត្រូវ​បាន​បង្ហាញ​ខាងក្រោម ប៉ុន្តែ​វា​នឹង​មិន​ត្រូវ​បាន​ដាក់​ស្នើ​ចំពោះ Telemetry ឡើយ ។
+about-telemetry-full-sql-warning = { "   " }ចំណាំ ៖ ការ​បំបាត់​កំហុស SQL ត្រូវ​បាន​បើក ។ ឃ្លា SQL ពេញ​លេញ​អាច​ត្រូវ​បាន​បង្ហាញ​ខាងក្រោម ប៉ុន្តែ​វា​នឹង​មិន​ត្រូវ​បាន​ដាក់​ស្នើ​ចំពោះ Telemetry ឡើយ ។
 # Variables:
 #   $telemetryServerOwner (string) - the value of the toolkit.telemetry.server_owner preference. Typically "Mozilla"
 about-telemetry-page-subtitle = ទំព័រ​នេះ​បង្ហាញ​ព័ត៌មាន​អំពី​ដំណើរការ ផ្នែក​រឹង ការ​ប្រើប្រាស់ និង​ការ​កំណត់​ផ្ទាល់ខ្លួន​ដែល​បាន​ប្រមូល​ដោយ​ទូរមាត្រ​វិធី ។ ព័ត៌មាន​នេះ​ត្រូវ​បាន​ដាក់​ស្នើ​ទៅ { $telemetryServerOwner } ដើម្បី​ធ្វើឲ្យ { -brand-full-name } ប្រសើរ​ឡើង ។

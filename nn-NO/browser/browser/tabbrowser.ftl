@@ -224,7 +224,9 @@ tabbrowser-manager-current-window-tab-group =
     .label = { $tabGroupName }
     .tooltiptext = { $tabGroupName } — Gjeldande vindauge
 
-## Tab Groups
+## Variables:
+##  $tabGroupName (String): The name of the tab group. Defaults to the value
+##                          of tab-group-name-default.
 
 tab-group-editor-title-create = Opprett fanegruppe
 tab-group-editor-title-edit = Handsam fanegruppe
@@ -254,16 +256,12 @@ tab-group-editor-color-selector2-gray = Grå
     .title = Grå
 tab-group-editor-color-selector2-red = Raud
     .title = Raud
-# Variables:
-#  $tabGroupName (String): The name of the tab group. Defaults to the value
-#                          of tab-group-name-default.
 tab-group-description = { $tabGroupName } — Fanegruppe
 tab-context-unnamed-group =
     .label = Namnlaus gruppe
 tab-group-name-default = Namnlaus gruppe
 
-## Variables:
-##  $tabCount (Number): the number of tabs that are affected by the action.
+##
 
 tab-context-move-tab-to-new-group =
     .label =

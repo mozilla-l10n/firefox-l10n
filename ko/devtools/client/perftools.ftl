@@ -159,6 +159,3 @@ perftools-presets-power-description = 오버헤드가 낮은 { -brand-shorter-na
 perftools-presets-debug-label = 디버그
 perftools-presets-debug-description = { -brand-shorter-name }에서 디버깅을 위한 프리셋입니다. 오버헤드가 높으므로 성능 작업에 사용하지 말고 브라우저 동작을 이해하는 데 중점을 두는 데 사용하세요.
 perftools-presets-custom-label = 사용자 지정
-
-##
-

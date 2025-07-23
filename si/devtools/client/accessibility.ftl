@@ -35,8 +35,3 @@ accessibility-text-label-issue-heading = ශ්‍රීර්ෂ නම්ප�
 accessibility-text-label-issue-heading-content = ශ්‍රීර්ෂවල පෙනෙන පෙළ අන්තර්ගතයක් තිබිය යුතුය. <a>තව දැනගන්න</a>
 accessibility-text-label-issue-image = රූප සහිත අන්තර්ගත නම්පත් කළ යුතුය. <a>තව දැනගන්න</a>
 accessibility-text-label-issue-toolbar = මෙවලම් තීරු කිහිපයක් තිබෙන විට ඒවාට නම්පත් යෙදිය යුතුය. <a>තව දැනගන්න</a>
-
-## Text entries for a paragraph used in the accessibility panel sidebar's checks section
-## that describe that currently selected accessible object has a keyboard accessibility
-## issue.
-

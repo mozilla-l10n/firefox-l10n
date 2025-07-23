@@ -4,10 +4,6 @@
 
 addons-page-title = កម្មវិធី​គ្រប់គ្រង​កម្មវិធី​បន្ថែម
 
-## Variables
-##   $domain - Domain name where add-ons are available (e.g. addons.mozilla.org)
-
-
 ##
 
 list-empty-installed =
@@ -153,29 +149,6 @@ addon-install-from-file-filter-name = កម្មវិធី​បន្ថែ
 addon-open-about-debugging = បំបាត់​កំហុស​ផ្នែក​បន្ថែម
     .accesskey = B
 
-## Extension shortcut management
-
-
-## Recommended add-ons page
-
-
-## Add-on actions
-
-
-## Pending uninstall message bar
-
-
-## "sites with restrictions" (internally called "quarantined") are special domains
-## where add-ons are normally blocked for security reasons.
-
-
-## This is the tooltip text for the recommended badges for an extension in about:addons. The
-## badge is a small icon displayed next to an extension when it is recommended on AMO.
-
-
-##
-
-
 ## Page headings
 
 addon-page-options-button =
@@ -217,10 +190,3 @@ details-notification-gmp-pending2 =
 plugins-gmp-license-info = ព័ត៌មាន​អាជ្ញាប័ណ្ណ
 plugins-openh264-name = កូដឌិក​វីដេអូ OpenH264 បាន​ផ្ដល់​ដោយ​ប្រព័ន្ធ Cisco Systems, Inc ។
 plugins-openh264-description = កម្មវិធី​ជំនួយ​នេះ​ត្រូវ​បាន​ដំឡើង​ដោយ Mozilla ដោយ​ស្វ័យ​ប្រវត្តិ ដើម្បី​ឲ្យ​ត្រូវគ្នា​ជាមួយ​សមត្ថភាព WebRTC និង​ដើម្បី​អនុញ្ញាត​ការ​ហៅ WebRTC ជាមួយ​ឧបករណ៍​ដែល​ទាមទារ​កូដឌិក​វីដេអូ H.264។ សូម​ទស្សនា http://www.openh264.org/ ដើម្បី​មើល​កូដ​ប្រភព និង​សិក្សា​បន្ថែម​អំពី​ការ​អនុវត្តិ។
-
-## Headings for the Permissions tab in `about:addons` when the data collection
-## feature is enabled.
-
-
-## Mapping Engine IDs from AI models to how that feature represented by the engine Id is described in the used by section in local model management
-

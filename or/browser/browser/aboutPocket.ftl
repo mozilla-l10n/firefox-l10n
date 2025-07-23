@@ -41,9 +41,6 @@ pocket-panel-signup-tagline-story-two = ଯେତେବେଳେ ଲୋଡ଼ା
 
 pocket-panel-home-welcome-back = ପୁଣି ଥରେ ସ୍ୱାଗତ
 
-## Pocket panel header component
-
-
 ## Pocket panel buttons
 
 pocket-panel-button-show-all = ସବୁ ଦେଖାଅ

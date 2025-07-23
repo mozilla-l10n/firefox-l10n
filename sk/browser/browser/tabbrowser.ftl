@@ -246,7 +246,9 @@ tabbrowser-manager-current-window-tab-group =
     .label = { $tabGroupName }
     .tooltiptext = { $tabGroupName } — aktuálne okno
 
-## Tab Groups
+## Variables:
+##  $tabGroupName (String): The name of the tab group. Defaults to the value
+##                          of tab-group-name-default.
 
 tab-group-editor-title-create = Vytvoriť skupinu kariet
 tab-group-editor-title-edit = Spravovať skupinu kariet
@@ -276,16 +278,12 @@ tab-group-editor-color-selector2-gray = Sivá
     .title = Sivá
 tab-group-editor-color-selector2-red = Červená
     .title = Červená
-# Variables:
-#  $tabGroupName (String): The name of the tab group. Defaults to the value
-#                          of tab-group-name-default.
 tab-group-description = { $tabGroupName } — Skupina kariet
 tab-context-unnamed-group =
     .label = Nepomenovaná skupina
 tab-group-name-default = Nepomenovaná skupina
 
-## Variables:
-##  $tabCount (Number): the number of tabs that are affected by the action.
+##
 
 tab-context-move-tab-to-new-group =
     .label =

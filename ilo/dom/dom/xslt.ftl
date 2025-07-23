@@ -18,10 +18,3 @@ xpath-binary-expected = Kammali iti panaganalisa iti XPath: inar-arig ti operado
 xslt-load-blocked-error = Adda ti pliego ti estilo a naikarga a nalapdan agsipud ti rason ti seguridad.
 xpath-invalid-expression-evaluated = Ipatpateg ti saan a maipateg nga expresion.
 xslt-bad-node-name = Parpasuaen ti elemento babaen saan a maipateg a QName.
-
-## Messages for the XML error page.
-##
-## Variables:
-##   $error (string) - the specific XSLT or XPath error (a translated string
-##   from the previous section)
-

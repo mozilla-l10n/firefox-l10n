@@ -16,6 +16,3 @@ fxviewtabrow-just-now-timestamp = Kombedi ni
 
 fxviewtabrow-save-to-pocket = Gwok i { -pocket-brand-name }
     .accesskey = o
-
-## Strings below are to be used without context (tab title/URL) on mute/unmute buttons
-

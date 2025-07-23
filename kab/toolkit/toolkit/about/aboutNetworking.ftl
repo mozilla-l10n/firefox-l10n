@@ -64,6 +64,3 @@ about-networking-moved-about-logging = Asebter-a yettwasenkez ɣer <a data-l10n-
 
 about-networking-networkid-is-up = Assaɣ yettwag
 about-networking-networkid-status-known = Addad n wassaɣ yettwasssen
-
-##
-

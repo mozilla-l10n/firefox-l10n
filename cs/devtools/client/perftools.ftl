@@ -180,6 +180,3 @@ perftools-presets-debug-description =
        *[no-cases] Přednastaveno pro ladění v aplikaci { -brand-shorter-name }. Vysoká režie, nepoužívat pro zlepšení výkonu, ale spíše pro pochopení chování prohlížeče.
     }
 perftools-presets-custom-label = Vlastní
-
-##
-

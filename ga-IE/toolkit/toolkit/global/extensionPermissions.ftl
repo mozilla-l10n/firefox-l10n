@@ -29,16 +29,3 @@ webext-perms-description-tabs = Teacht ar chluaisíní an bhrabhsálaí
 webext-perms-description-tabHide = Cluaisíní a chur i bhfolach nó a thaispeáint
 webext-perms-description-topSites = Teacht ar an stair bhrabhsála
 webext-perms-description-webNavigation = Teacht ar ghníomhaíocht an bhrabhsálaí le linn nascleanúna
-
-## The userScripts permission includes an additional explanation that is
-## displayed prominently near the usual permission description.
-
-
-## Short form to be used in lists or in a string (`webext-perms-description-data-some`)
-## that formats some of the data collection permissions below using `Intl.ListFormat`.
-##
-## This is used when the data collection permissions are required.
-
-
-## Long form to be used in `about:addons` when these data collection permissions are optional.
-

@@ -17,9 +17,3 @@ about-networking-dns-lookup-table-column = IPs
 about-networking-dns-https-rr-lookup-table-column = HTTP RRs
 about-networking-networkid = Netwark ID
 about-networking-networkid-id = Netwark ID
-
-## Link is intended as "network link"
-
-
-##
-

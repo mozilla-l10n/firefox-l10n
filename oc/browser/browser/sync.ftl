@@ -35,6 +35,3 @@ fxa-menu-sign-out =
     .label = Se desconnectar…
 fxa-menu-sync-title = Sincronizacion
 fxa-menu-sync-description = Accedissètz a vòstre Web de pertot
-
-## Sync warning strings that support the browser profiles feature, these will be shown when the user might be merging data
-

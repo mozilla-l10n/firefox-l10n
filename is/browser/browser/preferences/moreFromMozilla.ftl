@@ -39,6 +39,3 @@ more-from-moz-mozilla-monitor-button = Fáðu þér { -monitor-brand-short-name 
 more-from-moz-solo-title = { -solo-ai-brand-name } gervigreind
 more-from-moz-solo-description = Búðu til þitt eigið vefsvæði í hvelli og tengdu þitt eigið sérsniðið lén ókeypis.
 more-from-moz-solo-button = Prófaðu { -solo-ai-brand-name }
-
-## These strings are for the MDN card in about:preferences moreFromMozilla page
-

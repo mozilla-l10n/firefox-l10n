@@ -29,9 +29,3 @@ about-networking-dns-lookup = DNS Lookup
 about-networking-dns-lookup-button = Resolve
 about-networking-dns-domain = ໂດເມນ:
 about-networking-dns-lookup-table-column = IPs
-
-## Link is intended as "network link"
-
-
-##
-

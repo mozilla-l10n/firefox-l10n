@@ -17,9 +17,6 @@ webext-perms-header-unsigned-with-perms = ເພີ່ມ { $extension } ບໍ?
 webext-perms-sideload-header = ເພີ່ມ { $extension } ແລ້ວ
 webext-perms-optional-perms-header = { $extension } ຕ້ອງການການອະນຸຍາດເພີ່ມເຕີມ.
 
-## Headers used in the webextension permissions dialog, inside the content.
-
-
 ##
 
 webext-perms-add =
@@ -65,9 +62,6 @@ webext-perms-host-description-one-site = ເຂົ້າເຖິງຂໍ້ມ
 #     hosts for which this webextension is requesting permission.
 webext-perms-host-description-too-many-sites = ເຂົ້າເຖິງຂໍ້ມູນຂອງທ່ານໃນ { $domainCount } ໄຊທ໌ອື່ນ
 
-## Strings for data collection permissions in the permission prompt.
-
-
 ## Headers used in the webextension permissions dialog for synthetic add-ons.
 ## The part of the string describing what privileges the extension gives should be consistent
 ## with the value of webext-site-perms-description-gated-perms-{sitePermission}.
@@ -77,9 +71,6 @@ webext-perms-host-description-too-many-sites = ເຂົ້າເຖິງຂໍ
 
 webext-site-perms-header-with-gated-perms-midi = ສ່ວນເສີມນີ້ເຮັດໃຫ້ { $hostname } ເຂົ້າເຖິງອຸປະກອນ MIDI ຂອງທ່ານ.
 webext-site-perms-header-with-gated-perms-midi-sysex = ສ່ວນເສີມນີ້ເຮັດໃຫ້ { $hostname } ເຂົ້າເຖິງອຸປະກອນ MIDI ຂອງທ່ານ (ໂດຍຮອງຮັບ SysEx).
-
-##
-
 
 ## Headers used in the webextension permissions dialog.
 ## Note: This string will be used as raw markup. Avoid characters like <, >, &
@@ -94,6 +85,3 @@ webext-site-perms-header-unsigned-with-perms = ເພີ່ມ { $extension } �
 
 webext-site-perms-midi = ເຂົ້າເຖິງອຸປະກອນ MIDI
 webext-site-perms-midi-sysex = ເຂົ້າເຖິງອຸປະກອນ MIDI ດ້ວຍການຮອງຮັບ SysEx
-
-## Colorway theme migration
-

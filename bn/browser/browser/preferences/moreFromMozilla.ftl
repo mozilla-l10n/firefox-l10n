@@ -18,15 +18,3 @@ more-from-moz-qr-code-firefox-mobile-img =
     .alt = { -brand-product-name } মোবাইল ডাউনলোড করার জন্য QR কোড
 more-from-moz-button-mozilla-vpn-2 = ভিপিএন নিন
 more-from-moz-learn-more-link = আরও জানুন
-
-## These strings are for the Firefox Relay card in about:preferences moreFromMozilla page
-
-
-## These strings are for the Mozilla Monitor card in about:preferences moreFromMozilla page
-
-
-## These strings are for the Solo card in about:preferences moreFromMozilla page
-
-
-## These strings are for the MDN card in about:preferences moreFromMozilla page
-

@@ -64,6 +64,3 @@ about-networking-moved-about-logging = Tuta strona je so do <a data-l10n-name="a
 
 about-networking-networkid-is-up = Wotkaz je spadnjeny
 about-networking-networkid-status-known = Wotkazowy status je znaty
-
-##
-

@@ -12,26 +12,12 @@ neterror-page-title = पृष्ठक लोडिंगमे समस्�
 neterror-learn-more-link = आओर जानू…
 neterror-try-again-button = फेर कोशिश करू
 
-##
-
-
 ## Specific error messages
 
 neterror-generic-error = { -brand-short-name } किछु कारणक लेल एहि पृष्ठ केँ लोड नहि कए सकैत अछि .
 neterror-load-error-try-again = साइट अस्थायी रूपसँ अनुपलब्ध वा अत्यधिक व्यस्त भए सकैत अछि. किछु कालमे फेर कोशिश करू.
 neterror-load-error-connection = जों अहाँ केकरो पृष्ठ कए लोड करबामे असमर्थ छी,  अपन कंप्यूटर सँजाल संयोजनक जाँच करू.
 neterror-load-error-firewall = जों अहाँक कंप्यूटर वा सँजाल केकरो फायरवाल वा प्राक्सीस संरक्षित अछि , सुनिश्चित करू जे { -brand-short-name } वेबक पहुँचबाक लेल अनुमति प्राप्त अछि.
-
-## TRR-only specific messages
-## Variables:
-##   $hostname (String) - Hostname of the website to which the user was trying to connect.
-##   $trrDomain (String) - Hostname of the DNS over HTTPS server that is currently in use.
-
-
-## Native fallback specific messages
-## Variables:
-##   $trrDomain (String) - Hostname of the DNS over HTTPS server that is currently in use.
-
 
 ##
 

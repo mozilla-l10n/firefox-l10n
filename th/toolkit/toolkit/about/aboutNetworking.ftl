@@ -64,6 +64,3 @@ about-networking-moved-about-logging = หน้านี้ถูกย้า�
 
 about-networking-networkid-is-up = ลิงก์ถูกเชื่อมต่อแล้ว
 about-networking-networkid-status-known = ทราบสถานะลิงก์แล้ว
-
-##
-

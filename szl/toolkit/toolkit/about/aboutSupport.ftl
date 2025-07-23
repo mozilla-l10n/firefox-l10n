@@ -149,14 +149,6 @@ media-capabilities-title = Możności mydiōw
 # List all the entries of the database.
 media-capabilities-enumerate = Wystow baza danych
 
-## Codec support table
-
-
-## Media Content Decryption Modules (CDM)
-## See EME Spec for more explanation for following technical terms
-## https://w3c.github.io/encrypted-media/
-
-
 ##
 
 intl-title = Internacjonalizacyjo i lokalizacyjo
@@ -340,18 +332,3 @@ touch-warning = asynchrōniczne wkludzanie tykaniym je zastawiōne skuli niyôbs
 policies-inactive = Niyaktywne
 policies-active = Aktywne
 policies-error = Feler
-
-## Printing section
-
-
-## Remote Settings sections
-
-
-## Normandy sections
-
-
-## Pointing devices
-
-
-## Content Analysis (DLP)
-

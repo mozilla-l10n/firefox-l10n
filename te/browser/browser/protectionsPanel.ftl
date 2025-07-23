@@ -27,12 +27,6 @@ protections-panel-site-not-working = సైటు పనిచేయట్లే
 protections-panel-site-not-working-view =
     .title = సైటు పనిచేయట్లేదా?
 
-## Text for the toggles shown when ETP is enabled/disabled for a given site.
-## .description is transferred into a separate paragraph by the moz-toggle
-## custom element code.
-##   $host (String): the hostname of the site that is being displayed.
-
-
 ## The "Allowed" header also includes a "Why?" link that, when hovered, shows
 ## a tooltip explaining why these items were not blocked in the page.
 
@@ -55,9 +49,6 @@ protections-panel-content-blocking-fingerprinters-label = ఫింగర్‌�
 protections-panel-blocking-label = నిరోధించబడినవి
 protections-panel-not-blocking-label = అనుమతించబడినవి
 protections-panel-not-found-label = ఇవేమీ కనబడలేదు
-
-## Smartblock strings
-
 
 ##
 

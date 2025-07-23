@@ -19,15 +19,3 @@ more-from-moz-qr-code-firefox-mobile-img =
     .alt = QR-kood rakenduse { -brand-product-name } Mobile allalaadimiseks
 more-from-moz-button-mozilla-vpn-2 = Hangi VPN
 more-from-moz-learn-more-link = Rohkem teavet
-
-## These strings are for the Firefox Relay card in about:preferences moreFromMozilla page
-
-
-## These strings are for the Mozilla Monitor card in about:preferences moreFromMozilla page
-
-
-## These strings are for the Solo card in about:preferences moreFromMozilla page
-
-
-## These strings are for the MDN card in about:preferences moreFromMozilla page
-

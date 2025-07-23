@@ -89,24 +89,6 @@ pkcs12-unknown-err = मोनथिमोनै जाहोननि थाख
 pkcs12-info-no-smartcard-backup = स्मार्ट कार्ड बाइदि मोनसे हार्डवेयार रैखाथि डिभाइस निफ्राय सार्टिफिकेटखौ बेकआप लानो सम्भाव नङा।
 pkcs12-dup-data = चार्टिफिकेट आरो प्राइभेट साबिआ सिगाङावनो रैखाथि डिभाइसयाव दङ।
 
-## PKCS#12 file dialogs
-
-
-## Import certificate(s) file dialog
-
-
-## For editing certificates trust
-
-
 ## For Deleting Certificates
 
 delete-email-cert-confirm = नोंथाङा थारैनो बे सार्टिफिकेटखौ खोमोरनो सानो नामा?
-
-## Used to show whether an override is temporary or permanent
-
-
-## Add Security Exception dialog
-
-
-## Certificate export "Save as" and error dialogs
-

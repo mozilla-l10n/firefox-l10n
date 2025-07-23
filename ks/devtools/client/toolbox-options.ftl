@@ -37,9 +37,6 @@ options-default-color-unit-hsl = HSL(A)
 options-default-color-unit-rgb = RGB(A)
 options-default-color-unit-name = رنگ ناو
 
-## Web Console section
-
-
 ## Style Editor section
 
 # The heading
@@ -48,9 +45,6 @@ options-styleeditor-label = سٹایل ایڈیٹر
 options-stylesheet-autocompletion-label = آٹو کمپلیٹ کْریو سی ایس ایس
 options-stylesheet-autocompletion-tooltip =
     .title = آٹو کمپلیٹ سی ایس ایس خصوصیات، ویلیو تْہ سیلیکٹر سیٹایِل ایڈیٹرس منز یُتھ ذن توہیہ ٹایِپ کران چھیو
-
-## Screenshot section
-
 
 ## Editor section
 

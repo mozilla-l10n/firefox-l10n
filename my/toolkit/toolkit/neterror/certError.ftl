@@ -57,10 +57,6 @@ open-in-new-window-for-csp-or-xfo-error = ဆိုက်ကို ဝင်း�
 #   $hostname (string) - Hostname of the website blocked by csp or xfo error.
 csp-xfo-blocked-long-desc = သင်၏လုံခြုံရေးကိုကာကွယ်ရန် { -brand-short-name } သည် အခြားဆိုဒ် တစ်ခု ပေါင်းစပ် နေသော { $hostname } ၏ စာမျက်နှာအားဖော်ပြခွင့်မပြုပါ။ ဤစာမျက်နှာကို ကြည့်လိုပါက သင် ၎င်းကို ဝင်းဒိုး အသစ် တွင် ဖွင့်ရန်လိုသည်။
 
-## Variables:
-##   $hostname (string) - Hostname of the website with cert error.
-
-
 ## Messages used for certificate error titles
 
 connectionFailure-title = မချိတ်ဆက်နိုင်ပါ
@@ -98,10 +94,3 @@ networkProtocolError-title = ကွန်ယက် လုပ်ထုံး (ပ
 nssBadCert-title = သတိပေးချက်: လုံခြုံရေးအန္တရာယ်
 nssBadCert-sts-title = လုံခြုံရေးပြဿနာကြောင့် မချိတ်ဆက်ခဲ့ပါ။
 certerror-mitm-title = ဆော့ဝဲ သည် { -brand-short-name } မှ ဤ ဆိုက်ကို လုံခြုံစွာ ချိတ်ဆက်ရန် ကာကွယ်နေသည်
-
-## Felt Privacy V1 Strings
-
-
-## Variables:
-##   $hostname (String) - Hostname of the website to which the user was trying to connect.
-

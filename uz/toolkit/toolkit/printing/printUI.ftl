@@ -9,12 +9,3 @@
 
 # Option for printing just the content a user selected prior to printing.
 printui-selection-radio = Tanlash
-
-##
-
-
-## Paper sizes that may be supported by the Save to PDF destination:
-
-
-## Error messages shown when a user has an invalid input
-

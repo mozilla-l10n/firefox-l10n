@@ -11,9 +11,6 @@ abuse-report-dialog-title = { $addon-name } ကို သတင်းပို�
 abuse-report-title-extension = { -vendor-short-name } သို့ ထပ်တိုးအပို အကြာင်း သတင်းပို့ရန်
 abuse-report-learnmore = ဘာ ပြဿနာ လဲ မသေချာပါက? <a data-l10n-name="learnmore-link"> ‌ထပ်တိုးအပို နှင့် နောက်ခံ အပြင်အဆင် များ သတင်းပို့ရာအချက်အလက်များ ထပ်မံ လေ့လာပါ</a>
 
-## Panel buttons.
-
-
 ## Message bars descriptions.
 ##
 ## Variables:

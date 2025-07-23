@@ -12,10 +12,3 @@ extension-firefox-compact-dark-name = Fosco
 extension-firefox-compact-dark-description = Un tema con colors foscas.
 extension-firefox-alpenglow-name = Firefox Alpenglow
 extension-firefox-alpenglow-description = Usar una apariencia colorida pa botons, menús y finestras.
-
-## Colorway Themes
-## These themes are variants of a colorway. The colorway is specified in the
-## $colorway-name variable.
-## Variables
-##   $colorway-name (String) The name of a colorway (e.g. Graffiti, Elemental).
-

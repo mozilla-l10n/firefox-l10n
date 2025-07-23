@@ -64,6 +64,3 @@ about-networking-moved-about-logging = Цю сторінку було перем
 
 about-networking-networkid-is-up = Посилання працює
 about-networking-networkid-status-known = Стан посилання відомий
-
-##
-

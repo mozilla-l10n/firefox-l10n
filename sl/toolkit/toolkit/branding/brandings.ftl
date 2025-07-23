@@ -39,6 +39,7 @@
         [orodnik] Fakespotom
        *[imenovalnik] Fakespot
     }
+-solo-ai-brand-name = Solo
 # Note the name of the website is capitalized.
 -fakespot-website-name = Fakespot.com
 # The particle "by" can be localized, "Fakespot" and "Mozilla" should not be localized or transliterated.
@@ -50,11 +51,6 @@
 # and kept in English.
 -firefox-home-brand-name =
     { $sklon ->
-       *[imenovalnik]
-            { $zacetnica ->
-                [velika] Domača stran Firefoxa
-               *[mala] domača stran Firefoxa
-            }
         [rodilnik]
             { $zacetnica ->
                 [velika] Domače strani Firefoxa
@@ -80,6 +76,11 @@
                 [velika] Domačo stranjo Firefoxa
                *[mala] domačo stranjo Firefoxa
             }
+       *[imenovalnik]
+            { $zacetnica ->
+                [velika] Domača stran Firefoxa
+               *[mala] domača stran Firefoxa
+            }
     }
 # View" can be localized, “Firefox” must be treated as a brand
 # and kept in English.
@@ -89,5 +90,3 @@
 # The "Labs" portion can be localized, “Firefox” must be treated as a brand
 # and kept in English.
 -firefoxlabs-brand-name = Firefox Labs
--solo-ai-brand-name = Solo
-

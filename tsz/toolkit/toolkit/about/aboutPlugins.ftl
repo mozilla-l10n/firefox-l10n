@@ -19,6 +19,3 @@ path-dd = <span data-l10n-name="path">Path:</span> { $pluginFullPath }
 
 mime-type-label = Kararatarakuecha MIME
 description-label = Description
-
-## Gecko Media Plugins (GMPs)
-

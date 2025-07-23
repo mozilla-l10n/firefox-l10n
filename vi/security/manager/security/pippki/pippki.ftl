@@ -48,9 +48,6 @@ download-cert-view-cert =
     .label = Xem
 download-cert-view-text = Kiểm định chứng chỉ của CA
 
-## Client Authorization Ask dialog
-
-
 ## Client Authentication Ask dialog
 
 client-auth-window =

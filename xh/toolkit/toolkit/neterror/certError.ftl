@@ -12,10 +12,6 @@ cert-error-details-hsts-label = HTTP Ukhuseleko Olungqongqo Lwesithuthi: { $hasH
 cert-error-details-key-pinning-label = Iqhosha Likawonkewonke Eliyintloko Lepinning: { $hasHPKP }
 cert-error-details-cert-chain-label = Ikhonkco lesatifikethi
 
-## Variables:
-##   $hostname (string) - Hostname of the website with cert error.
-
-
 ## Messages used for certificate error titles
 
 connectionFailure-title = Ayikwazi kudibanisa
@@ -40,10 +36,3 @@ nssFailure2-title = Unxibelelwano Ukhuseleko Aluphumelelanga
 corruptedContentError-title = Imposiso yomxholo owonakalisiweyo
 sslv3Used-title = Akunxibelelani ngokukhuselekileyo
 inadequateSecurityError-title = Uqhagamshelo lwakho alukhuselekanga
-
-## Felt Privacy V1 Strings
-
-
-## Variables:
-##   $hostname (String) - Hostname of the website to which the user was trying to connect.
-

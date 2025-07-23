@@ -32,6 +32,3 @@ fxa-menu-send-tab-to-device-syncnotready =
 fxa-menu-send-tab-to-device-description = Send a tab tae onie device yer signed in on richt awa.
 fxa-menu-sign-out =
     .label = Sign Oot…
-
-## Sync warning strings that support the browser profiles feature, these will be shown when the user might be merging data
-

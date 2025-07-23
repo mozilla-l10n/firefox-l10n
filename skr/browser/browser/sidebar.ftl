@@ -62,9 +62,6 @@ sidebar-context-menu-copy-link =
 sidebar-context-menu-close-remote-tab =
     .label = { $deviceName } تے ٹیب بند کرو
 
-## Labels for sidebar history context menu items
-
-
 ## Labels for sidebar menu items.
 
 sidebar-menu-genai-chat-label =
@@ -77,15 +74,6 @@ sidebar-menu-bookmarks-label =
     .label = نشانیاں
 sidebar-menu-customize-label =
     .label = سائیڈ بار مرضی مطابق بݨاؤ
-
-## Tooltips for sidebar menu items.
-
-
-## Tooltips displayed over the AI chatbot icon.
-## Variables:
-##   $shortcut (String) - The OS specific keyboard shortcut.
-##   $provider (String) - The name of the AI chatbot provider (if available).
-
 
 ## Headings for sidebar menu panels.
 

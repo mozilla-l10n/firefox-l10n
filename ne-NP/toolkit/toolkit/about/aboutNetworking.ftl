@@ -45,9 +45,3 @@ about-networking-rcwn-avg-long = लामो औसत
 about-networking-rcwn-std-dev-long = लामो मानक विचलन
 about-networking-rcwn-cache-slow = क्यास सुस्त गणना
 about-networking-rcwn-cache-not-slow = क्यास सुस्त नभएको गणना
-
-## Link is intended as "network link"
-
-
-##
-

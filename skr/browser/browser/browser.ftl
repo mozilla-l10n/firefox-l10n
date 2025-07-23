@@ -1064,10 +1064,6 @@ unified-extensions-button-quarantined =
         ایکسٹنشناں
         کجھ ایکسٹنشناں دی اجازت کائنی
 
-## Unified extensions button when some extensions are disabled (e.g. through add-ons blocklist).
-## Note that the new line is intentionally part of the tooltip.
-
-
 ## Private browsing reset button
 
 reset-pbm-toolbar-button =
@@ -1158,6 +1154,3 @@ file-picker-crashed-save-nowhere = ونڈوز فائل ڈائیلاگ کریش �
 file-picker-crashed-show-in-folder =
     .label = فولڈر وِچ ݙکھاؤ
     .accessKey = F
-
-## Onboarding Finish Setup checklist
-

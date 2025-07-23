@@ -19,9 +19,3 @@ policy-DisableFirefoxScreenshots = Xita función Firefox Screenshots.
 policy-DisableFirefoxStudies = Nkua´a { -brand-short-name } sá´á estudios.
 policy-DisableForgetButton = Nkua´a kivɨ nuu botón nnaku´u.
 policy-DisableFormHistory = Nnaku´u nnánuku je historial formularios.
-
-## Do not translate "SameSite", it's the name of a cookie attribute.
-
-
-##
-

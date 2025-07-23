@@ -64,6 +64,3 @@ about-networking-moved-about-logging = Denne sida er flytta til <a data-l10n-nam
 
 about-networking-networkid-is-up = Lenka er oppe
 about-networking-networkid-status-known = Lenkestatus er kjend
-
-##
-

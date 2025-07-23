@@ -27,10 +27,6 @@ cert-error-details-key-pinning-label = HTTP सार्वजनिक गु�
 cert-error-details-cert-chain-label = प्रमाणपत्र श्रृंखला:
 open-in-new-window-for-csp-or-xfo-error = नवीन विंडो में साइट खोलू
 
-## Variables:
-##   $hostname (string) - Hostname of the website with cert error.
-
-
 ## Messages used for certificate error titles
 
 connectionFailure-title = कनेक्ट करबामे असमर्थ
@@ -67,10 +63,3 @@ networkProtocolError-title = कनेक्शन प्रोटोकॉल �
 nssBadCert-title = चेतावनी: आगाँ संभावित सुरक्षा रिस्क भ सकैत अछि
 nssBadCert-sts-title = कनेक्ट नहि करू: संभावित सुरक्षा संबंधित मामला
 certerror-mitm-title = सॉफ्टवेयर { -brand-short-name } सँ सुरक्षित रूप सँ जुड़ए मे आनाकानी क रहल अछि.
-
-## Felt Privacy V1 Strings
-
-
-## Variables:
-##   $hostname (String) - Hostname of the website to which the user was trying to connect.
-

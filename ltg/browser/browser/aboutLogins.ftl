@@ -68,19 +68,6 @@ login-item-save-changes-button = Saglobōt izmaiņis
 login-item-save-new-button = Saglobōt
 login-item-cancel-button = Atceļt
 
-## The date is displayed in a timeline showing the password evolution.
-## A label is displayed under the date to describe the type of change.
-## (e.g. updated, created, etc.)
-
-
-## OS Authentication dialog
-
-
-## The macOS strings are preceded by the operating system with "Firefox is trying to "
-## and includes subtitle of "Enter password for the user "xxx" to allow this." These
-## notes are only valid for English. Please test in your respected locale.
-
-
 ## Primary Password notification
 
 master-password-reload-button =
@@ -94,10 +81,6 @@ confirmation-dialog-dismiss-button =
     .title = Atceļt
 confirm-delete-dialog-message = Itei ir naatgrīzeniska darbeiba.
 
-## Variables
-##   $count (number) - Number of items
-
-
 ##
 
 confirm-discard-changes-dialog-title = Atmest nasaglobōtōs izmaiņis?
@@ -108,34 +91,7 @@ confirm-discard-changes-dialog-confirm-button = Atmest
 
 breach-alert-text = Nu tōs teizes, kod beji itymā lopā pādejū reizi, ir nūtykuse datu zagšona. Izmaini sovu paroli, kab pasorgōt sovu kontu.
 
-## Vulnerable Password notification
-
-
 ## Error Messages
 
 # This is a generic error message.
 about-logins-error-message-default = Raugūt saglobōt paroli, nūtykuse klaida.
-
-## Login Export Dialog
-
-
-## Login Import Dialog
-
-
-##
-## Variables:
-##  $count (number) - The number of affected elements
-
-
-##
-## Variables:
-##  $field (String) - The name of the field from the CSV file for example url, username or password
-
-
-##
-## Variables:
-##  $count (number) - The number of affected elements
-
-
-## Logins import report page
-

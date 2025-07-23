@@ -121,9 +121,6 @@ urlbar-star-edit-bookmark =
 urlbar-star-add-bookmark =
     .tooltiptext = Обележете ја оваа страница ({ $shortcut })
 
-## Page Action Context Menu
-
-
 ## Auto-hide Context Menu
 
 full-screen-autohide =
@@ -181,11 +178,6 @@ search-one-offs-tabs =
     .tooltiptext = Јазичиња ({ $restrict })
 search-one-offs-history =
     .tooltiptext = Историја ({ $restrict })
-
-## QuickActions are shown in the urlbar as the user types a matching string
-## The -cmd- strings are comma separated list of keywords that will match
-## the action.
-
 
 ## Bookmark Panel
 
@@ -356,9 +348,6 @@ sharing-warning-proceed-to-tab =
 sharing-warning-disable-for-session =
     .label = Оневозможи заштита за споделување за оваа сесија
 
-## DevTools F12 popup
-
-
 ## URL Bar
 
 # This string is used as an accessible name to the "X" button that cancels a custom search mode (i.e. exits the Amazon.com search mode).
@@ -493,14 +482,6 @@ urlbar-group-firefox-suggest =
 #  $engine (String): the name of the search engine providing the suggestions
 urlbar-group-search-suggestions =
     .label = Предлози за { $engine }
-
-## Reader View toolbar buttons
-
-
-## Picture-in-Picture urlbar button
-## Variables:
-##   $shortcut (String) - Keyboard shortcut to execute the command.
-
 
 ## Full Screen and Pointer Lock UI
 
@@ -735,33 +716,12 @@ tabs-toolbar-list-all-tabs =
 restore-session-startup-suggestion-message = <strong>Отворете ги претходните јазичиња?</strong> Можете да ја вратите претходната сесија од менито на апликацијата { -brand-short-name } <img data-l10n-name="icon"/>, под Историја.
 restore-session-startup-suggestion-button = Покажи ми како.
 
-## Infobar shown when the user tries to open a file picker and file pickers are blocked by enterprise policy
-
-
 ## Mozilla data reporting notification (Telemetry, Firefox Health Report, etc)
 
 data-reporting-notification-message = За да го подобриме вашето доживување { -brand-short-name } автоматски испраќа некои податоци до { -vendor-short-name }.
 data-reporting-notification-button =
     .label = Што споделувам?
     .accesskey = с
-
-## Unified extensions (toolbar) button
-
-
-## Unified extensions button when permission(s) are needed.
-## Note that the new line is intentionally part of the tooltip.
-
-
-## Unified extensions button when some extensions are quarantined.
-## Note that the new line is intentionally part of the tooltip.
-
-
-## Unified extensions button when some extensions are disabled (e.g. through add-ons blocklist).
-## Note that the new line is intentionally part of the tooltip.
-
-
-## Private browsing reset button
-
 
 ## Autorefresh blocker
 
@@ -770,9 +730,6 @@ refresh-blocked-redirect-label = { -brand-short-name } спречи оваа с�
 refresh-blocked-allow =
     .label = Дозволи
     .accesskey = Д
-
-## Firefox Relay integration
-
 
 ## Add-on Pop-up Notifications
 
@@ -803,16 +760,3 @@ popup-warning-button =
 #   $popupURI (String): the URI for the pop-up window
 popup-show-popup-menuitem =
     .label = Покажи го „{ $popupURI }“
-
-## File-picker crash notification ("FilePickerCrashed.sys.mjs")
-
-
-# Button used with file-picker-crashed-save-default. Opens the folder in Windows
-# Explorer, with the saved file selected and in focus.
-#
-# The wording here should be consistent with the Windows variant of
-# `downloads-cmd-show-menuitem-2` and similar messages.
-
-
-## Onboarding Finish Setup checklist
-

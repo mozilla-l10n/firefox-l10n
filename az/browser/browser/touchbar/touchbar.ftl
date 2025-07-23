@@ -17,9 +17,3 @@ reader-view = Oxuyucu Görünüşü
 open-location = Ünvanı daxil et və ya axtar
 share = Paylaş
 close-window = Pəncərəni Qapat
-
-## Various categories of shortcuts for search.
-
-
-##
-

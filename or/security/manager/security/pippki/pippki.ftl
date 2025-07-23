@@ -33,9 +33,6 @@ download-cert-view-cert =
     .label = ଦୃଶ୍ୟ
 download-cert-view-text = CA ପ୍ରମାଣପତ୍ରକୁ ଯାଞ୍ଚକରନ୍ତୁ
 
-## Client Authorization Ask dialog
-
-
 ## Client Authentication Ask dialog
 
 client-auth-window =
@@ -77,6 +74,3 @@ set-password-backup-pw =
 set-password-repeat-backup-pw =
     .value = ପ୍ରମାଣପତ୍ର ନକଲସଂରକ୍ଷଣ ପ୍ରବେଶ ସଂକେତ (ପୁଣିଥରେ):
 set-password-reminder = ଗୁରୁତ୍ୱପୂର୍ଣ୍ଣ: ଯଦି ଆପଣ ଆପଣଙ୍କର ପ୍ରମାଣପତ୍ର ନକଲ ସଂରକ୍ଷଣ ପ୍ରବେଶ ସଂକେତକୁ ଭୁଲିଯାଆନ୍ତି, ତେବେ ଆପଣ ପରେ ଏହି ନକଲ ସଂରକ୍ଷଣକୁ ପୁନଃସ୍ଥାପନ କରିବାରେ ସମର୍ଥ ହେବେ ନାହିଁ.  ଦୟାକରି ଏହାକୁ କୌଣସି ସୁରକ୍ଷିତ ସ୍ଥାନରେ ଲିପିବଦ୍ଧ କରନ୍ତୁ.
-
-## Protected authentication alert
-

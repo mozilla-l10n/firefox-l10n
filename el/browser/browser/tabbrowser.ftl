@@ -224,7 +224,9 @@ tabbrowser-manager-current-window-tab-group =
     .label = { $tabGroupName }
     .tooltiptext = { $tabGroupName } — Τρέχον παράθυρο
 
-## Tab Groups
+## Variables:
+##  $tabGroupName (String): The name of the tab group. Defaults to the value
+##                          of tab-group-name-default.
 
 tab-group-editor-title-create = Δημιουργία ομάδας καρτελών
 tab-group-editor-title-edit = Διαχείριση ομάδας καρτελών
@@ -254,16 +256,12 @@ tab-group-editor-color-selector2-gray = Γκρι
     .title = Γκρι
 tab-group-editor-color-selector2-red = Κόκκινο
     .title = Κόκκινο
-# Variables:
-#  $tabGroupName (String): The name of the tab group. Defaults to the value
-#                          of tab-group-name-default.
 tab-group-description = { $tabGroupName } — Ομάδα καρτελών
 tab-context-unnamed-group =
     .label = Ανώνυμη ομάδα
 tab-group-name-default = Ανώνυμη ομάδα
 
-## Variables:
-##  $tabCount (Number): the number of tabs that are affected by the action.
+##
 
 tab-context-move-tab-to-new-group =
     .label =

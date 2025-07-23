@@ -56,9 +56,6 @@ policy-HardwareAcceleration = જો ખોટા હોય, તો હાર્
 policy-Homepage = મુખ્યપૃષ્ઠને સેટ કરો અને વૈકલ્પિક રીતે લૉક કરો.
 policy-InstallAddonsPermission = અમુક વેબસાઇટ્સને ઍડ-ઑન્સ ઇન્સ્ટોલ કરવાની મંજૂરી આપો.
 
-## Do not translate "SameSite", it's the name of a cookie attribute.
-
-
 ##
 
 policy-NetworkPrediction = નેટવર્ક પૂર્વાનુમાન સક્ષમ કરો અથવા અક્ષમ કરો (DNS પ્રીફેચિંગ).

@@ -32,6 +32,3 @@ search-history = ປະຫວັດ
 search-opentabs = ແທັບທີ່ເປີດຢູ່
 search-tags = ແທັກ
 search-titles = ຫົວຂໍ້
-
-##
-

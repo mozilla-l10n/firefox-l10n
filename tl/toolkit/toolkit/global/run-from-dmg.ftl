@@ -12,9 +12,6 @@ prompt-to-install-title = Tapusin ang pag-install ng { -brand-short-name }?
 prompt-to-install-yes-button = I-install
 prompt-to-install-no-button = Huwag i-Install
 
-## Strings for a dialog that opens if the installation failed.
-
-
 ## Strings for a dialog that recommends to the user to start an existing
 ## installation of the app in the Applications directory if one is detected,
 ## rather than the app that was double-clicked in a .dmg.

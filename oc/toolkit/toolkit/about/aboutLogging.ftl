@@ -55,7 +55,3 @@ about-logging-unknown-option = Opcion « { $k } » per about:logging desconegu
 about-logging-configuration-url-ignored = URL de configuracion ignorada
 about-logging-file-and-profiler-override = Impossible de forçar la sortida del fichièr e de remplaçar las opcions del profilador a l’encòp
 about-logging-configured-via-url = Opcion configurada via URL
-
-## The upload interface is shown only with the preference toolkit.aboutLogging.uploadProfileToCloud
-## set to true. It is false by default, except on Android.
-

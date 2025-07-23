@@ -33,15 +33,3 @@ firefox-relay-opt-in-confirmation-disable =
 firefox-relay-opt-in-confirmation-postpone =
     .label = ᱱᱤᱛᱚᱜ ᱫᱚ ᱵᱟᱝᱟ
     .accesskey = N
-
-## The "control" variation of the Relay offer popup
-
-
-## The "basic-info" variation of the Relay offer popup
-
-
-## The "with-domain" variation of the Relay offer popup
-
-
-## The "with-domain-and-value-prop" variation of the Relay offer popup
-

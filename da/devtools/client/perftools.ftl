@@ -159,6 +159,3 @@ perftools-presets-power-description = Forhåndsindstilling for at undersøge str
 perftools-presets-debug-label = Debug
 perftools-presets-debug-description = Forhåndsindstilling for debugging i { -brand-shorter-name }. Tungt at køre, så benyt det ikke til opgaver fokuseret på ydelse, men til at fokusere på at forstå browseradfærd.
 perftools-presets-custom-label = Tilpasset
-
-##
-

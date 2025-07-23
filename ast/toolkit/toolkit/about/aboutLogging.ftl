@@ -5,13 +5,3 @@
 about-logging-set-log-file = Afitar el ficheru de rexistru
 about-logging-start-logging = Aniciar el rexistru
 about-logging-stop-logging = Parar el rexistru
-
-## Logging presets
-
-
-##
-
-
-## The upload interface is shown only with the preference toolkit.aboutLogging.uploadProfileToCloud
-## set to true. It is false by default, except on Android.
-

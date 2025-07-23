@@ -55,12 +55,3 @@ add-engine-window =
     .style = min-width: 32em;
 add-engine-button = Rnu amsedday n unadi udmawan
 add-engine-name = Isem n umsedday n unadi
-
-## The following placeholders are shown in the inputs when adding a new engine.
-
-
-## The following strings are used as error messages.
-
-
-## The following strings are used as labels for the dialog's buttons.
-

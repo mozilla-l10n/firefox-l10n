@@ -4,10 +4,6 @@
 
 download-ui-confirm-title = ¿A kuvinu siankuiñɨ kuaiyo da nxinuu?
 
-## Variables:
-##   $downloadsCount (Number): The current downloads count.
-
-
 ##
 
 download-ui-file-executable-security-warning-title = ¿Síne da archivos ejecutables?

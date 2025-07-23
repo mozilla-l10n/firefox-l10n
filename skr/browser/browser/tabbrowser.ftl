@@ -72,9 +72,6 @@ tabbrowser-unblock-tab-audio-tooltip =
            *[other] { $tabCount } ٹیباں چلاؤ
         }
 
-## Tooltips for tab audio control
-
-
 ## Confirmation dialog when closing a window with more than one tab open,
 ## or when quitting when only one window is open.
 
@@ -112,10 +109,6 @@ tabbrowser-confirm-close-tabs-with-key-button = چھوڑ ݙیو { -brand-short-n
 # Variables:
 #   $quitKey (String): the text of the keyboard shortcut for quitting.
 tabbrowser-confirm-close-tabs-with-key-checkbox = چھوڑݨ کنوں پہلے { $quitKey } دے نال تصدیق کرو
-
-## Confirmation dialog when quitting using the keyboard shortcut (Ctrl/Cmd+Q)
-## and browser.warnOnQuitShortcut is true.
-
 
 ## Confirmation dialog when opening multiple tabs simultaneously
 
@@ -191,7 +184,9 @@ tabbrowser-manager-unmute-tab =
 tabbrowser-manager-close-tab =
     .tooltiptext = ٹیب بند کرو
 
-## Tab Groups
+## Variables:
+##  $tabGroupName (String): The name of the tab group. Defaults to the value
+##                          of tab-group-name-default.
 
 tab-group-editor-title-create = ٹیب گروپ خلقو
 tab-group-editor-title-edit = ٹیب گروپ منیج کرو
@@ -202,12 +197,8 @@ tab-group-editor-cancel =
     .label = منسوخ
     .accesskey = C
 
-## Variables:
-##  $tabCount (Number): the number of tabs that are affected by the action.
+##
 
 tab-group-editor-done =
     .label = تھی ڳیا
     .accessKey = D
-
-## Open/saved tab group context menu
-

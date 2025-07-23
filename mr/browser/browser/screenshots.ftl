@@ -29,10 +29,3 @@ screenshots-private-window-error-title = खाजगी ब्राउझि�
 screenshots-private-window-error-details = गैरसोयीबद्दल क्षमस्व. आम्ही भविष्यातील प्रकाशनासाठी या वैशिष्ट्यांवर कार्यरत आहोत.
 screenshots-generic-error-title = ओहो! { -screenshots-brand-name } अस्ताव्यस्त झाले.
 screenshots-generic-error-details = काय घडले याची आम्हाला खात्री नाही. पुन्हा प्रयत्न करा किंवा भिन्न पृष्ठाचा शॉट घ्या?
-
-## The below strings are used to capture keydown events so the strings should
-## not be changed unless the keyboard layout in the locale requires it.
-
-
-##
-

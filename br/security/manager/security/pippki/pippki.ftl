@@ -48,9 +48,6 @@ download-cert-view-cert =
     .label = Gwelout
 download-cert-view-text = Sellout ouzh testeni an aotrouniezh testeniañ
 
-## Client Authorization Ask dialog
-
-
 ## Client Authentication Ask dialog
 
 client-auth-window =
@@ -93,6 +90,3 @@ set-password-backup-pw =
 set-password-repeat-backup-pw =
     .value = Ger-tremen an testeni atoriñ (c'hoazh):
 set-password-reminder = Pouezus: Mar bez ankouaet ger-tremen ho testeni atoriñ ne viot ket evit assav an atoradenn diwezhatoc'h. Enrollit ho ker-tremen en ul lec'h diarvar.
-
-## Protected authentication alert
-

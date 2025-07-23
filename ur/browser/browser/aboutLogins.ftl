@@ -88,11 +88,6 @@ login-item-save-changes-button = تبدیلیاں محفوظ کریں
 login-item-save-new-button = محفوظ کریں
 login-item-cancel-button = منسوخ کریں
 
-## The date is displayed in a timeline showing the password evolution.
-## A label is displayed under the date to describe the type of change.
-## (e.g. updated, created, etc.)
-
-
 ## OS Authentication dialog
 
 about-logins-os-auth-dialog-caption = { -brand-full-name }
@@ -239,16 +234,6 @@ about-logins-import-report-title = درآمد کا خلاصہ
 about-logins-import-report-row-index = قطار{ $number }
 about-logins-import-report-row-description-modified = موجودہ لاگ ان کی تازہ کاری کر دی گئی
 about-logins-import-report-row-description-added = نیا لاگ ان شامل کیا گیا
-
-##
-## Variables:
-##  $field (String) - The name of the field from the CSV file for example url, username or password
-
-
-##
-## Variables:
-##  $count (number) - The number of affected elements
-
 
 ## Logins import report page
 

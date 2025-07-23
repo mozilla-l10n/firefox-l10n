@@ -39,17 +39,6 @@ neterror-load-error-connection = Si no puede cargar garra pachina, comprebe a co
 neterror-load-error-firewall = Si o suyo equipo u ret son protechius por un tallafuegos u proxy, asegure-se que o { -brand-short-name } tiene permiso ta accedir ta la web.
 neterror-captive-portal = Has d'iniciar sesión en iste ret antes d'acceder a internet.
 
-## TRR-only specific messages
-## Variables:
-##   $hostname (String) - Hostname of the website to which the user was trying to connect.
-##   $trrDomain (String) - Hostname of the DNS over HTTPS server that is currently in use.
-
-
-## Native fallback specific messages
-## Variables:
-##   $trrDomain (String) - Hostname of the DNS over HTTPS server that is currently in use.
-
-
 ##
 
 neterror-file-not-found-filename = Comprebe que o nombre de fichero no tiene errors d'escritura u de l'uso de mayusclas.

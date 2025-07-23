@@ -235,9 +235,3 @@ appmenu-customizetoolbar =
 appmenu-developer-tools-subheader = Eines del navegador
 appmenu-developer-tools-extensions =
     .label = Extensions per a desenvolupadors
-
-## Panel for privacy and security products
-
-
-## Profiles panel
-

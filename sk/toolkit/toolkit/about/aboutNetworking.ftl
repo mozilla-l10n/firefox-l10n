@@ -64,6 +64,3 @@ about-networking-moved-about-logging = Táto stránka bola presunutá na stránk
 
 about-networking-networkid-is-up = Spojenie je aktívne
 about-networking-networkid-status-known = Stav spojenia je známy
-
-##
-

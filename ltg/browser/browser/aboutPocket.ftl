@@ -36,12 +36,3 @@ pocket-panel-signup-signup-firefox = Pīzareģistrēt ar { -brand-product-name }
 pocket-panel-signup-tagline = Sagloboj rokstus voi video nu { -brand-product-name }, kab vērtīs ar { -pocket-brand-name } jebkurā īreicē un laikā.
 pocket-panel-signup-tagline-story-one = Damīdz { -pocket-brand-name } pūgu, kab saglobōt { -brand-product-name } rokstus, video voi lopys.
 pocket-panel-signup-tagline-story-two = Verīs { -pocket-brand-name } uz jebkuras īreices jebkurā laikā.
-
-## about:pocket-home panel
-
-
-## Pocket panel header component
-
-
-## Pocket panel buttons
-

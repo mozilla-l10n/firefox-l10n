@@ -14,8 +14,3 @@ default-browser-notification-button =
 
 default-browser-prompt-title-pin = Ket { -brand-short-name } obed layeny mamegi makwongo?
 default-browser-prompt-title-alt = Ket { -brand-short-name } obed layeny mamegi makwongo?
-
-## Strings for a Windows native guidance notification when the user is forced to
-## use Windows Settings to set the default browser. Instructions differ for
-## Windows 10 and 11.
-

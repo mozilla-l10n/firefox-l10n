@@ -9,11 +9,11 @@ elevation-details-link-label =
     .value = Детаљи
 elevation-error-manual =
     { -brand-short-name.gender ->
-        [masculine] { -brand-short-name(case: "acc") }
-        [feminine] { -brand-short-name(case: "acc") }
-        [neuter] { -brand-short-name(case: "acc") }
-       *[other] Програм { -brand-short-name }
-    } можете да ажурирате ручно преузимањем најновије верзије са ове адресе:
+        [masculine] { -brand-short-name(case: "acc") } можете да ажурирате ручно преузимањем најновије верзије са ове адресе:
+        [feminine] { -brand-short-name(case: "acc") } можете да ажурирате ручно преузимањем најновије верзије са ове адресе:
+        [neuter] { -brand-short-name(case: "acc") } можете да ажурирате ручно преузимањем најновије верзије са ове адресе:
+       *[other] Програм { -brand-short-name } можете да ажурирате ручно преузимањем најновије верзије са ове адресе:
+    }
 elevation-finished-page = Ажурирање је спремно за инсталацију
 elevation-finished-background-page = Преузето је ажурирање са побољшањима безбедности и стабилности за { -brand-short-name } и спремно је за инсталирање.
 elevation-finished-background = Ажурирање:

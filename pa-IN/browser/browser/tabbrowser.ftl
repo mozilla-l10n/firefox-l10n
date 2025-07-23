@@ -222,7 +222,9 @@ tabbrowser-manager-current-window-tab-group =
     .label = { $tabGroupName }
     .tooltiptext = { $tabGroupName } — ਮੌਜੂਦਾ ਵਿੰਡੋ
 
-## Tab Groups
+## Variables:
+##  $tabGroupName (String): The name of the tab group. Defaults to the value
+##                          of tab-group-name-default.
 
 tab-group-editor-title-create = ਟੈਬ ਗਰੁੱਪ ਬਣਾਓ
 tab-group-editor-title-edit = ਟੈਬ ਗਰੁੱਪ ਦਾ ਇੰਤਜ਼ਾਮ ਕਰੋ
@@ -252,16 +254,12 @@ tab-group-editor-color-selector2-gray = ਸਲੇਟੀ
     .title = ਸਲੇਟੀ
 tab-group-editor-color-selector2-red = ਲਾਲ
     .title = ਲਾਲ
-# Variables:
-#  $tabGroupName (String): The name of the tab group. Defaults to the value
-#                          of tab-group-name-default.
 tab-group-description = { $tabGroupName } — ਟੈਬ ਗਰੁੱਪ
 tab-context-unnamed-group =
     .label = ਬੇਨਾਮਾ ਗਰੁੱਪ
 tab-group-name-default = ਬੇਨਾਮਾ ਗਰੁੱਪ
 
-## Variables:
-##  $tabCount (Number): the number of tabs that are affected by the action.
+##
 
 tab-context-move-tab-to-new-group =
     .label =

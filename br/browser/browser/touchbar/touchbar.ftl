@@ -32,6 +32,3 @@ search-history = Roll istor
 search-opentabs = Ivinelloù digor
 search-tags = Merkoù
 search-titles = Titloù
-
-##
-

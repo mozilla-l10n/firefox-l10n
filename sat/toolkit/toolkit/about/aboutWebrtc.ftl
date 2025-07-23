@@ -193,10 +193,6 @@ about-webrtc-configuration-element-not-provided = ᱵᱟᱝ ᱮᱢ ᱠᱟᱱᱟ
 # The options set by the user in about:config that could impact a WebRTC call
 about-webrtc-custom-webrtc-configuration-heading = ᱵᱮᱵᱷᱟᱨᱤᱭᱟᱹ ᱫᱚ WebRTC ᱠᱩᱥᱤᱠᱚ ᱥᱮᱴ ᱠᱟᱫᱟᱭ
 
-## These are displayed on the button that shows or hides the
-## user modified configuration disclosure
-
-
 ##
 
 # Section header for estimated bandwidths of WebRTC media flows
@@ -315,6 +311,3 @@ about-webrtc-hide-msg-sdp = SDP ᱩᱠᱩ
 about-webrtc-media-context-show-msg = ᱢᱤᱰᱤᱭᱟ ᱵᱟᱵᱚᱛ ᱫᱮᱠᱷᱟᱣ ᱢᱮ
 about-webrtc-media-context-hide-msg = ᱢᱤᱰᱤᱭᱟ ᱵᱟᱵᱚᱛ ᱩᱠᱩᱭ ᱢᱮ
 about-webrtc-media-context-heading = ᱢᱤᱰᱤᱭᱟ ᱵᱟᱵᱚᱛ
-
-##
-

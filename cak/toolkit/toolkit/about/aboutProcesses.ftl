@@ -106,9 +106,6 @@ about-processes-frame-name-one = Achruchi': { $url }
 #   $shortUrl (String) The shared prefix for the subframes in the group.
 about-processes-frame-name-many = Achruchi' ({ $number }): { $shortUrl }
 
-## Utility process actor names
-
-
 ## Displaying CPU (percentage and total)
 ## Variables:
 ##    $percent (Number) The percentage of CPU used by the process or thread.

@@ -17,9 +17,6 @@ webext-perms-header-unsigned-with-perms = Pridėti „{ $extension }“? Šis pr
 webext-perms-sideload-header = „{ $extension }“ pridėtas
 webext-perms-optional-perms-header = „{ $extension }“ prašo papildomų leidimų.
 
-## Headers used in the webextension permissions dialog, inside the content.
-
-
 ##
 
 webext-perms-add =
@@ -75,20 +72,6 @@ webext-perms-host-description-too-many-sites =
        *[other] Pasiekti jūsų duomenis { $domainCount } kitų svetainių
     }
 
-## Strings for data collection permissions in the permission prompt.
-
-
-## Headers used in the webextension permissions dialog for synthetic add-ons.
-## The part of the string describing what privileges the extension gives should be consistent
-## with the value of webext-site-perms-description-gated-perms-{sitePermission}.
-## Note, this string will be used as raw markup. Avoid characters like <, >, &
-## Variables:
-##   $hostname (String): the hostname of the site the add-on is being installed from.
-
-
-##
-
-
 ## Headers used in the webextension permissions dialog.
 ## Note: This string will be used as raw markup. Avoid characters like <, >, &
 ## Variables:
@@ -102,6 +85,3 @@ webext-site-perms-header-unsigned-with-perms = Pridėti „{ $extension }“? Š
 
 webext-site-perms-midi = Naudoti MIDI įrenginius
 webext-site-perms-midi-sysex = Naudoti MIDI įrenginius su „SysEx“ palaikymu
-
-## Colorway theme migration
-

@@ -9,20 +9,10 @@
 account-reconnect = फिन फोनांजाब { $email }
 account-verify = { $email } फोरमान खालाम
 
-## Displayed in the Send Tab/Page/Link to Device context menu when right clicking a tab, a page or a link.
-
-
-## Displayed in the Send Tabs context menu when right clicking a tab, a page or a link
-## and the account has only 1 device connected.
-
-
 ## Displayed in the Send Tabs context menu when right clicking a tab, a page or a link
 ## and the Sync account is unverified. Redirects to the Sync preferences page.
 
 account-send-tab-to-device-verify = नोंथांनि एकाउन्टखौ नायबिजिर...
-
-## These strings are used in a notification shown when a new device joins the Firefox account.
-
 
 ## These strings are used in a notification shown when we're opening
 ## a single tab another device sent us to display.
@@ -44,9 +34,3 @@ account-single-tab-arriving-truncated-url = { $url }…
 ##   $tabCount (Number): the number of tabs received
 
 account-multiple-tabs-arriving-title = टेबखौ मोनबाय
-
-## These strings are used in notifications in which the user remotely closed
-## tabs from other devices
-## Variables:
-##   $closedCount (Number): the number of tabs closed
-

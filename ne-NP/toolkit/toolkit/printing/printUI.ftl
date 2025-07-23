@@ -42,12 +42,3 @@ printui-backgrounds-checkbox = पृष्ठभूमिहरू छाप्
 
 # The section title.
 printui-source-label = ढाँचा
-
-##
-
-
-## Paper sizes that may be supported by the Save to PDF destination:
-
-
-## Error messages shown when a user has an invalid input
-

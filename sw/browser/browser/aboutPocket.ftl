@@ -14,12 +14,3 @@ pocket-panel-saved-save-tags = Hifadhi
 
 pocket-panel-signup-learn-more = Jifunze zaidi
 pocket-panel-signup-login = Ingia
-
-## about:pocket-home panel
-
-
-## Pocket panel header component
-
-
-## Pocket panel buttons
-

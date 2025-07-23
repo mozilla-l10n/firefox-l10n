@@ -104,9 +104,6 @@ genai-options-hide-shortcut =
 genai-options-about-chatbot =
     .label = Rreth robotësh IA fjalosjeje në { -brand-short-name }
 
-## Chatbot footer
-
-
 ## Chatbot onboarding
 
 genai-onboarding-header = Përmblidhni, reflektoni ide të reja, etj, teksa shfletoni

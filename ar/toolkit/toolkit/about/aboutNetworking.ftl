@@ -44,9 +44,3 @@ about-networking-rcwn-avg-long = متوسط الطويل
 about-networking-rcwn-std-dev-long = الانحراف المعياري الطويل
 about-networking-rcwn-cache-slow = مرات بطء الخبيئة
 about-networking-rcwn-cache-not-slow = مرات عدم بطء الخبيئة
-
-## Link is intended as "network link"
-
-
-##
-

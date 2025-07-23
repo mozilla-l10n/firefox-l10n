@@ -61,9 +61,6 @@ policy-Homepage = Mposta e si voi blocca a pàggina mastra.
 policy-InstallAddonsPermission = Pirmetti a certi siti di nzitari juncitini.
 policy-LegacyProfiles = Disabbìlita a funziuni chi forza un prufilu spartutu p’ogni nzitamentu.
 
-## Do not translate "SameSite", it's the name of a cookie attribute.
-
-
 ##
 
 policy-LocalFileLinks = Cunzenti a siti spicìfici di lijàrisi ê prichi lucali.

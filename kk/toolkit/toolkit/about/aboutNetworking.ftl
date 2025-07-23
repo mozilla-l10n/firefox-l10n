@@ -64,6 +64,3 @@ about-networking-moved-about-logging = Бұл бет <a data-l10n-name="about-lo
 
 about-networking-networkid-is-up = Байланыс орнатылды
 about-networking-networkid-status-known = Байланыс қалып-күйі белгісіз
-
-##
-

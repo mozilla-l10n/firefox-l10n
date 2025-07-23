@@ -11,17 +11,6 @@ printui-destination-pdf-label = Պահել ի PDF
 # Section title for miscellaneous print options
 printui-options = Ընտրանք
 
-## The "Format" section, select a version of the website to print. Radio
-## options to select between the original page, selected text only, or a version
-## where the page is processed with "Reader View".
-
-
 ##
 
 printui-primary-button-save = Պահել
-
-## Paper sizes that may be supported by the Save to PDF destination:
-
-
-## Error messages shown when a user has an invalid input
-

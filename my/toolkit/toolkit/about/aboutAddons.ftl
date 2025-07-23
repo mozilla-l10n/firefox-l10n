@@ -4,10 +4,6 @@
 
 addons-page-title = Add-ons Manager
 
-## Variables
-##   $domain - Domain name where add-ons are available (e.g. addons.mozilla.org)
-
-
 ##
 
 list-empty-installed =
@@ -153,29 +149,9 @@ addon-install-from-file-filter-name = ပေါင်းထည့် ဆော�
 addon-open-about-debugging = အတ်အွန်များကို အမှားရှာရန်
     .accesskey = b
 
-## Extension shortcut management
-
-
-## Recommended add-ons page
-
-
 ## Add-on actions
 
 addon-detail-homepage-label = အဖွင့်စာမျက်နှာ
-
-## Pending uninstall message bar
-
-
-## "sites with restrictions" (internally called "quarantined") are special domains
-## where add-ons are normally blocked for security reasons.
-
-
-## This is the tooltip text for the recommended badges for an extension in about:addons. The
-## badge is a small icon displayed next to an extension when it is recommended on AMO.
-
-
-##
-
 
 ## Page headings
 
@@ -220,10 +196,3 @@ plugins-gmp-privacy-info = ကိုယ်ရေးကာကွယ်မှု�
 plugins-openh264-name = Cisco Systems, Inc. မှ စီစဉ်ပေးသော OpenH264 Video Codec
 plugins-openh264-description = WebRTC သတ်မှတ်ချက်များနှင့် ကိုက်ညီစေရန် ဒီပလဂ်အင်ကို Mozilla မှ အလိုအလျောက် တပ်ဆင်ပါမည်။ ထို့ပြင် WebRTC ခေါ်ဆိုမှုများကို H.264 ဗွီဒီယို ကိုဒက်လိုအပ်သော ကိရိယာများတွင် အသုံးပြုနိုင်စေမည်။ ကိုဒက် ရင်းမြစ်ကုဒ်ကို ကြည့်ရန်နှင့် အကောင်အထည်ဖော်ခြင်းနှင့် ပတ်သက်သည်များကို ပိုမိုလေ့လာရန် https://www.openh264.org/ ကို သွားရောက်ကြည့်ရှုပါ။
 plugins-widevine-name = Google Inc  မှ Widevine Content Decryption Module
-
-## Headings for the Permissions tab in `about:addons` when the data collection
-## feature is enabled.
-
-
-## Mapping Engine IDs from AI models to how that feature represented by the engine Id is described in the used by section in local model management
-

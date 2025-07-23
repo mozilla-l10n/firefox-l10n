@@ -96,11 +96,6 @@ login-item-save-changes-button = Պահպանել փոփոխութիւնները
 login-item-save-new-button = Պահպանել
 login-item-cancel-button = Չեղարկել
 
-## The date is displayed in a timeline showing the password evolution.
-## A label is displayed under the date to describe the type of change.
-## (e.g. updated, created, etc.)
-
-
 ## OS Authentication dialog
 
 about-logins-os-auth-dialog-caption = { -brand-full-name }

@@ -112,20 +112,6 @@ profiler-popup-settings =
 profiler-popup-edit-settings-button =
     .label = Sozlamalarni tahrirlash
 
-## Profiler presets
-## They are shown in the popup's select box.
-
-
-# Presets and their l10n IDs are defined in the file
-# devtools/client/performance-new/shared/background.jsm.js
-# Please take care that the same values are also defined in devtools' perftools.ftl.
-
-
-# Presets and their l10n IDs are defined in the file
-# devtools/client/performance-new/shared/background.sys.mjs
-# Please take care that the same values are also defined in devtools' perftools.ftl.
-
-
 ## History panel
 
 appmenu-restore-session =
@@ -179,9 +165,3 @@ appmenu-customizetoolbar =
 appmenu-developer-tools-subheader = Brazuer vositalari
 appmenu-developer-tools-extensions =
     .label = Dasturchilar uchun kengaytmalar
-
-## Panel for privacy and security products
-
-
-## Profiles panel
-

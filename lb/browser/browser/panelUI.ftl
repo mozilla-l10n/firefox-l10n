@@ -3,9 +3,6 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 
-## Customization Menu
-
-
 ## Forget Button
 
 panic-button-thankyou-msg2 = Sécher surfen!

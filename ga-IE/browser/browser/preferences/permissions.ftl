@@ -42,15 +42,6 @@ permissions-capabilities-listitem-allow-session =
 permissions-invalid-uri-title = Óstainm neamhbhailí
 permissions-invalid-uri-label = Cuir óstainm bailí isteach, le do thoil
 
-## Exceptions - Tracking Protection
-
-
-## Exceptions - Cookies
-
-
-## Exceptions - HTTPS-Only Mode
-
-
 ## Exceptions - Pop-ups
 
 permissions-exceptions-popup-desc = Is féidir na suímh a bhfuil cead acu preabfhuinneoga a oscailt a shonrú. Clóscríobh seoladh cruinn an tsuímh a theastaíonn uait a cheadú agus ansin cliceáil Ceadaigh.
@@ -61,9 +52,6 @@ permissions-exceptions-saved-logins-window2 =
     .title = Eisceachtaí - Focail Fhaire a Sábháladh
     .style = { permissions-window2.style }
 
-## Exceptions - Saved Passwords
-
-
 ## Exceptions - Add-ons
 
 permissions-exceptions-addons-desc = Is féidir na suímh a bhfuil cead acu breiseáin a shuiteáil a shonrú. Clóscríobh seoladh cruinn an tsuímh a theastaíonn uait a cheadú agus ansin cliceáil Ceadaigh.
@@ -73,23 +61,3 @@ permissions-exceptions-addons-desc = Is féidir na suímh a bhfuil cead acu brei
 permissions-site-autoplay-window2 =
     .title = Socruithe - Uathsheinm
     .style = { permissions-window2.style }
-
-## Site Permissions - Notifications
-
-
-## Site Permissions - Location
-
-
-## Site Permissions - Virtual Reality
-
-
-## Site Permissions - Camera
-
-
-## Site Permissions - Microphone
-
-
-## Site Permissions - Speaker
-##
-## "Speaker" refers to an audio output device.
-

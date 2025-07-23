@@ -63,35 +63,11 @@ split-dismiss-button-show-fewer-option =
 split-dismiss-button-manage-settings-option =
     .label = Administrar ajustes
 
-## Login Status Advisory Callout (points to the account icon)
-
-
-## Bookmarks toolbar callout strings
-
-
-## Perplexity callout strings
-
-
-## Account Adoption Passwords callout strings
-
-
 ## Sidebar Strings
 
 sidebar-button-callout-title = Mostrar títulos de las pestañas en la barra lateral
 sidebar-button-callout-subtitle = Usa el botón de la barra lateral para expandirla y poder ver los títulos de las pestañas.
 sidebar-button-callout-vertical-tabs = Para mostrar tus pestañas, selecciona el botón de la barra lateral en la barra de herramientas.
-
-## Sidebar Vertical Tabs Strings
-
-
-## Sidebar Vertical Tabs Pinning Strings
-
-
-## Pinning Tabs Strings
-
-
-## Sidebar Onboarding Strings
-
 
 ## Sidebar Callout Survey Strings
 

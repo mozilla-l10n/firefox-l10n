@@ -23,9 +23,3 @@ about-networking-messages-sent = প্ৰেৰিত বাৰ্তাসম�
 about-networking-messages-received = প্ৰাপ্ত বাৰ্তাসমূহ
 about-networking-bytes-sent = প্ৰেৰিত বাইট
 about-networking-bytes-received = প্ৰাপ্ত বাইট
-
-## Link is intended as "network link"
-
-
-##
-

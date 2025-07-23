@@ -51,18 +51,12 @@ permissions-capabilities-listitem-allow-session =
 permissions-invalid-uri-title = Īvadeits nadereigs resursdatora nūsaukums
 permissions-invalid-uri-label = Lyudzu, īvodit dereigu resursdatora nūsaukumu
 
-## Exceptions - Tracking Protection
-
-
 ## Exceptions - Cookies
 
 permissions-exceptions-cookie-window2 =
     .title = Izjāmumi - seikdatnes un kešatmiņa
     .style = { permissions-window2.style }
 permissions-exceptions-cookie-desc = Tu vari nūrōdēt, kurom lopom ir un kurom nav atļauts izmontōt seikdatnes un kešatmiņu. Īroksti precizu lopys adresi un mīdz uz Bloķēt, Atļaut iz seseji  voi Atļaut.
-
-## Exceptions - HTTPS-Only Mode
-
 
 ## Exceptions - Pop-ups
 
@@ -78,18 +72,12 @@ permissions-exceptions-saved-logins-window2 =
     .style = { permissions-window2.style }
 permissions-exceptions-saved-logins-desc = Itū vītņu paroles natiks saglobuotys
 
-## Exceptions - Saved Passwords
-
-
 ## Exceptions - Add-ons
 
 permissions-exceptions-addons-window2 =
     .title = Atļautuos lopys - papyldynuojumu instaliešona
     .style = { permissions-window2.style }
 permissions-exceptions-addons-desc = Jius varot nūruodeit, nu kurom lopom ir atļauts instaleit papyldynuojums. Īrkostit precizu lopys adresu, nu kurys vālotīs atļaut papyldynuojumu instaliešonu, i nūspidit Atļaut.
-
-## Site Permissions - Autoplay
-
 
 ## Site Permissions - Notifications
 
@@ -111,9 +99,6 @@ permissions-site-location-disable-label =
     .label = Bloķēt nōkutnes pīprasejumus pīkļiut tovai acarošonas vītai
 permissions-site-location-disable-desc = Tys aizlīgs vyskurom lopom, kuras nav uzskaiteitas zamōk, pīpraseit atļauju pīkļiut tovai acarašonas vītai. Bloķiešona pīejai acarašonas vītai var samaitōt daļi nu lopys funkcionalitates.
 
-## Site Permissions - Virtual Reality
-
-
 ## Site Permissions - Camera
 
 permissions-site-camera-window2 =
@@ -133,8 +118,3 @@ permissions-site-microphone-desc = Itōs lopys ir lyugušas pīeeju tovam mikrof
 permissions-site-microphone-disable-label =
     .label = Bloķēt nōkutnes pīprasejumus pīkļiut tovam mikrofonam
 permissions-site-microphone-disable-desc = Tys aizlīgs vyskurom lopom, kuras nav uzskaiteitas zamōk, pīpraseit atļauju pīkļiut tovam mikrofonam. Bloķiešona pīejai mikrofonam var samaitōt daļi nu lopys funkcionalitates.
-
-## Site Permissions - Speaker
-##
-## "Speaker" refers to an audio output device.
-

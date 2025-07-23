@@ -12,34 +12,3 @@ opensearch-error-duplicate-title = Hitilafu ya Kusakinisha
 opensearch-error-duplicate-desc = { -brand-short-name } haikuweza kusakinisha programu-jalizi ya kutafuta kutoka kwa "{ $location-url }" kwa sababu mtambo ulio na jina sawia tayari upo.
 opensearch-error-download-title = Kosa la Kupakua
 opensearch-error-download-desc = { -brand-short-name } haiwezi kupakua programu-jalizi ya kutafuta kutoka kwa: { $location-url }
-
-##
-
-
-## Infobar shown when search engine is removed and replaced.
-## Variables
-## $oldEngine (String) - the search engine to be removed.
-## $newEngine (String) - the search engine to replace the removed search engine.
-
-
-## Infobar shown when default search engine is reset due to an issue reading the settings file.
-## Variables
-## $newEngine (String) - the name of the new default search engine.
-
-
-## Infobar shown when user is prompted to install search engine.
-## Variables
-## $engineName (String) - the name of the search engine to install.
-
-
-## The following strings are used as input labels.
-
-
-## The following placeholders are shown in the inputs when adding a new engine.
-
-
-## The following strings are used as error messages.
-
-
-## The following strings are used as labels for the dialog's buttons.
-

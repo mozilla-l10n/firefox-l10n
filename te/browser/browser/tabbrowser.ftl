@@ -32,41 +32,16 @@ tabbrowser-close-tabs-tooltip =
            *[other] { $tabCount } ట్యాబులను మూసివేయి
         }
 
-## Tooltips for tab audio control
-## Variables:
-##   $tabCount (Number): The number of tabs that will be affected.
-
-
-## Tooltips for tab audio control
-
-
 ## Confirmation dialog when closing a window with more than one tab open,
 ## or when quitting when only one window is open.
 
 tabbrowser-confirm-close-tabs-button = ట్యాబులను మూసివేయి
 tabbrowser-ask-close-tabs-checkbox = పలు ట్యాబులను ఒకేసారి మూసివేస్తున్నప్పుడు అడుగు
 
-## Confirmation dialog when quitting using the menu and multiple windows are open.
-
-
-## Confirmation dialog when quitting using the keyboard shortcut (Ctrl/Cmd+Q)
-## Windows does not show a prompt on quit when using the keyboard shortcut by default.
-
-
-## Confirmation dialog when quitting using the keyboard shortcut (Ctrl/Cmd+Q)
-## and browser.warnOnQuitShortcut is true.
-
-
 ## Confirmation dialog when opening multiple tabs simultaneously
 
 tabbrowser-confirm-open-multiple-tabs-title = తెరవడాన్ని నిర్ధారించండి
 tabbrowser-confirm-open-multiple-tabs-button = ట్యాబులను తెరువు
-
-## Confirmation dialog for enabling caret browsing
-
-
-## Confirmation dialog for closing all duplicate tabs
-
 
 ##
 
@@ -92,22 +67,11 @@ tabbrowser-context-unmute-tab =
 tabbrowser-ctrl-tab-list-all-tabs =
     .label = అన్ని { $tabCount } ట్యాబ్లను జాబితాచేయి
 
-## Tab manager menu buttons
 ## Variables:
-##  $tabGroupName (String): The name of the tab group. See also tab-group-name-default, which will be
-##                          used when the group's name is empty.
-
-
-## Tab Groups
+##  $tabGroupName (String): The name of the tab group. Defaults to the value
+##                          of tab-group-name-default.
 
 tab-group-editor-name-label = పేరు
 tab-group-editor-cancel =
     .label = రద్దుచేయి
     .accesskey = C
-
-## Variables:
-##  $tabCount (Number): the number of tabs that are affected by the action.
-
-
-## Open/saved tab group context menu
-

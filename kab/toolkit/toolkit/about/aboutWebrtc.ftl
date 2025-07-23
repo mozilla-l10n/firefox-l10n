@@ -191,10 +191,6 @@ about-webrtc-configuration-element-not-provided = Ur yettunefk ara
 # The options set by the user in about:config that could impact a WebRTC call
 about-webrtc-custom-webrtc-configuration-heading = Aseqdac yesbadu ismenyifen n WebRTC
 
-## These are displayed on the button that shows or hides the
-## user modified configuration disclosure
-
-
 ##
 
 # Section header for estimated bandwidths of WebRTC media flows
@@ -308,6 +304,3 @@ about-webrtc-hide-msg-sdp = Ffer SDP
 about-webrtc-media-context-show-msg = Sken asatal n umidyat
 about-webrtc-media-context-hide-msg = Ffer asatal n umidyat
 about-webrtc-media-context-heading = Asatal n umidyat
-
-##
-

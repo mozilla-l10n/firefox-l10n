@@ -61,6 +61,3 @@ about-networking-networkid-id = Network ID
 
 about-networking-networkid-is-up = Link is up
 about-networking-networkid-status-known = Link status is known
-
-##
-

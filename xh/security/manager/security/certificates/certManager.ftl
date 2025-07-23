@@ -87,9 +87,6 @@ delete-email-cert-title =
 delete-email-cert-confirm = Uqinisekile ufuna ukucima izatifikethi zemeyile zaba bantu?
 delete-email-cert-impact = Ukuba ucima isatifikethi semeyile, akusayi kuphinda ukwazi ukuthumela imeyile yoguqulelo oluntsonkothileyo kwabo bantu.
 
-## Used to show whether an override is temporary or permanent
-
-
 ## Add Security Exception dialog
 
 add-exception-unverified-or-bad-signature-short = Ubunini Obungaziwayo

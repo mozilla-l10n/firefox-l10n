@@ -13,6 +13,3 @@ spotlight-android-marketplace-button =
     .title = Преземи го од Google Play
 spotlight-ios-marketplace-button =
     .title = Преземете од App Store
-
-## Firefox Focus promo message strings
-

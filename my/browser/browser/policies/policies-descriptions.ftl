@@ -46,9 +46,6 @@ policy-ExtensionSettings = ထပ်တိုးအပို ထည်သွင�
 policy-ExtensionUpdate = အလိုလျှောက် ထပ်တိုးအပို အဆင့်မြှင့်တင်မှု့ ဖွင့် ခြင်း ပိတ်ခြင်း။
 policy-InstallAddonsPermission = အချို့သောဝက်ဘ်ဆိုက်များ မှ add-ons များတပ်ဆင်ရန်ခွင့်ပြုမှာလား။
 
-## Do not translate "SameSite", it's the name of a cookie attribute.
-
-
 ##
 
 policy-LocalFileLinks = ကြိုတင် စီစဉ်ထားသော ဝက်ဘ်ဆိုင်များမှ စက်ထဲရှိ ဖိုင်များနဲ့ လင့်ချိတ်ခွင့်ပြုမှာလား။

@@ -131,9 +131,6 @@ delete-email-cert-impact = ईमेल प्रमाणपत्र काढ
 cert-with-serial =
     .value = प्रमाणपत्राचा सिरीयल क्रमांक: { $serialNumber }
 
-## Used to show whether an override is temporary or permanent
-
-
 ## Add Security Exception dialog
 
 add-exception-branded-warning = { -brand-short-name } स्थळाची ओळख कसे करते हे आपणास लगेच कळेल.

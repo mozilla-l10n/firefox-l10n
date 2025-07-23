@@ -51,9 +51,6 @@ pocket-panel-home-most-recent-saves = Magi aye jami ma igwoko cokcoki:
 pocket-panel-home-most-recent-saves-loading = Cano jami ma igwoko cokcoki…
 pocket-panel-home-new-user-message = Nen jami ma igwoko cokcoki ki kany.
 
-## Pocket panel header component
-
-
 ## Pocket panel buttons
 
 pocket-panel-button-show-all = Nyut Weng

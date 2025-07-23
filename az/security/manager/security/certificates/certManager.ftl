@@ -131,9 +131,6 @@ delete-email-cert-impact = Əgər bir şəxsin poçt təsdiq sənədini silsəni
 cert-with-serial =
     .value = Seriya nömrəli sertifikat: { $serialNumber }
 
-## Used to show whether an override is temporary or permanent
-
-
 ## Add Security Exception dialog
 
 add-exception-branded-warning = Bu { -brand-short-name } proqramının saytı təyin etmə şəklini etibarsız saymaq üzrəsiniz.

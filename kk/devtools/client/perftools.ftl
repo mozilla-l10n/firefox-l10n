@@ -69,9 +69,6 @@ perftools-button-add-directory = Буманы қосу
 perftools-button-remove-directory = Таңдалғанды өшіру
 perftools-button-edit-settings = Баптауларды түзету…
 
-## More actions menu
-
-
 ## These messages are descriptions of the threads that can be enabled for the profiler.
 
 perftools-thread-gecko-main =
@@ -152,6 +149,3 @@ perftools-presets-power-description = { -brand-shorter-name } ішінде эл.
 perftools-presets-debug-label = Жөндеу
 perftools-presets-debug-description = { -brand-shorter-name } ішінде жөндеуге арналған алдын ала жасалған баптау. Жоғары шығынды, өнімділік жұмысы үшін емес, браузер әрекетін түсіну үшін пайдаланыңыз.
 perftools-presets-custom-label = Таңдауыңызша
-
-##
-
