@@ -45,6 +45,8 @@ avatar-selector-save-button =
     .label = Spara
 avatar-selector-upload-file = Ladda upp en fil
 avatar-selector-drag-file = Eller dra en fil hit
+avatar-selector-add-image = Lägg till en bild
+avatar-selector-crop = Beskär
 edit-profile-page-no-name = Ge profilen ett namn för att hjälpa dig hitta den senare. Byt namn på den när som helst.
 edit-profile-page-duplicate-name = Profilnamnet används redan. Prova ett nytt namn.
 edit-profile-page-profile-saved = Sparad
@@ -114,22 +116,101 @@ book-avatar-alt =
     .alt = Bok
 briefcase-avatar-alt =
     .alt = Portfölj
+# Canvas refers to an artist's painting canvas, not the general material
+canvas-avatar-alt =
+    .alt = Rityta
+# Craft refers to hobby arts and crafts, represented by a button/fastener commonly found on clothing like shirts
+craft-avatar-alt =
+    .alt = Hantverk
 flower-avatar-alt =
     .alt = Blomma
+folder-avatar-alt =
+    .alt = Mapp
+hammer-avatar-alt =
+    .alt = Hammare
 heart-avatar-alt =
     .alt = Hjärta
+heart-rate-avatar-alt =
+    .alt = Puls
+history-avatar-alt =
+    .alt = Historik
+leaf-avatar-alt =
+    .alt = Löv
+lightbulb-avatar-alt =
+    .alt = Glödlampa
+makeup-avatar-alt =
+    .alt = Smink
+# Message refers to a text message, not a traditional letter/envelope message
+message-avatar-alt =
+    .alt = Meddelande
+musical-note-avatar-alt =
+    .alt = Musik
+palette-avatar-alt =
+    .alt = Palett
+paw-print-avatar-alt =
+    .alt = Tassavtryck
+plane-avatar-alt =
+    .alt = Plan
+# Present refers to a gift box, not the current time period
+present-avatar-alt =
+    .alt = Presentera
 shopping-avatar-alt =
     .alt = Varukorg
+soccer-avatar-alt =
+    .alt = Fotboll
+sparkle-single-avatar-alt =
+    .alt = Sparkle
 star-avatar-alt =
     .alt = Stjärna
+video-game-controller-avatar-alt =
+    .alt = Handkontroll för TV-spel
 custom-avatar-alt =
     .alt = Anpassad avatar
+# Default favicon refers to the generic globe/world icon that appears in browser tabs when a website doesn't have its own favicon.
+default-favicon-avatar-alt =
+    .alt = Standard favicon
+# Diamond refers to the precious stone, not the geometric shape
+diamond-avatar-alt =
+    .alt = Diamant
+barbell-avatar-alt =
+    .alt = Skivstång
+bike-avatar-alt =
+    .alt = Cykel
 
 ## Labels for default avatar icons
 
 book-avatar = Bok
 briefcase-avatar = Portfölj
+# Canvas refers to an artist's painting canvas, not the general material
+canvas-avatar = Rityta
+# Craft refers to hobby arts and crafts, represented by a button/fastener commonly found on clothing like shirts
+craft-avatar = Hantverk
+custom-avatar = Anpassad avatar
+# Default favicon refers to the generic globe/world icon that appears in browser tabs when a website doesn't have its own favicon.
+default-favicon-avatar = Standard favicon
+# Diamond refers to the precious stone, not the geometric shape
+diamond-avatar = Diamant
 flower-avatar = Blomma
+folder-avatar = Mapp
+hammer-avatar = Hammare
 heart-avatar = Hjärta
+heart-rate-avatar = Puls
+history-avatar = Historik
+leaf-avatar = Löv
+lightbulb-avatar = Glödlampa
+makeup-avatar = Smink
+# Message refers to a text message, not a traditional letter/envelope message
+message-avatar = Meddelande
+musical-note-avatar = Musik
+palette-avatar = Palett
+paw-print-avatar = Tassavtryck
+plane-avatar = Plan
+# Present refers to a gift box, not the current time period
+present-avatar = Presentera
 shopping-avatar = Varukorg
+soccer-avatar = Fotboll
+sparkle-single-avatar = Sparkle
 star-avatar = Stjärna
+video-game-controller-avatar = Handkontroll för TV-spel
+barbell-avatar = Skivstång
+bike-avatar = Cykel

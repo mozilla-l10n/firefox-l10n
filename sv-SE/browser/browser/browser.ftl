@@ -207,6 +207,9 @@ urlbar-result-menu-show-less-frequently =
     .label = Visas mer sällan
 urlbar-result-menu-dont-show-weather-suggestions =
     .label = Visa inte väderförslag
+# Used for Split Button.
+urlbar-splitbutton-dropmarker =
+    .title = Öppna meny
 # A message shown in the urlbar when the user submits feedback on a suggestion
 # (e.g., it shows an inaccurate location, it's shown too often, etc.).
 urlbar-feedback-acknowledgment = Tack för din feedback
@@ -823,6 +826,8 @@ urlbar-searchmode-default =
 urlbar-searchmode-popup-description = Denna gång, sök med:
 urlbar-searchmode-popup-search-settings-menuitem =
     .label = Sökinställningar
+# Label shown next to a new search engine in the Searchmode Switcher popup to promote it.
+urlbar-searchmode-new = Ny
 # Searchmode Switcher button
 # Variables:
 #   $engine (String): the current default search engine.
@@ -1150,6 +1155,10 @@ tabs-toolbar-list-all-tabs =
     .label = Lista alla flikar
     .tooltiptext = Lista alla flikar
 
+## Drop indicator text for pinned tabs when no tabs are pinned.
+
+pinned-tabs-drop-indicator = Släpp flik här för att fästa
+
 ## Infobar shown at startup to suggest session-restore
 
 # <img data-l10n-name="icon"/> will be replaced by the application menu icon
@@ -1320,3 +1329,136 @@ onboarding-checklist-button-label = Slutför installationen
 onboarding-aw-finish-setup-button =
     .label = Slutför konfigurationen
     .tooltiptext = Slutför konfigureringen av { -brand-short-name }
+
+## The urlbar trust panel
+
+trustpanel-etp-label-enabled = Förbättrat spårningsskydd är på
+trustpanel-etp-label-disabled = Förbättrat spårningsskydd är avstängt
+# Variables
+#  $host (String): the hostname of the site that is being displayed.
+trustpanel-etp-toggle-on =
+    .aria-label = Förbättrat spårningsskydd: På för { $host }
+# Variables
+#  $host (String): the hostname of the site that is being displayed.
+trustpanel-etp-toggle-off =
+    .aria-label = Förbättrat spårningsskydd: Av för { $host }
+trustpanel-etp-description-enabled = Om något ser trasigt ut på den här webbplatsen, försök att stänga av skydden.
+trustpanel-etp-description-disabled = { -brand-product-name } tycker att företag borde följa dig mindre. Vi blockerar så många spårare vi kan när du slår på skydd.
+trustpanel-connection-label-secure = Anslutningen säker
+trustpanel-connection-label-insecure = Anslutningen är inte säker
+trustpanel-header-enabled = { -brand-product-name } är på vakt
+trustpanel-description-enabled = Du är skyddad. Om vi upptäcker något meddelar vi dig
+trustpanel-header-disabled = Du stängde av skydden
+trustpanel-description-disabled = { -brand-product-name } är ledig. Vi föreslår att du aktiverar skyddet igen.
+trustpanel-clear-cookies-button = Rensa kakor och webbplatsdata
+trustpanel-privacy-link = Sekretessinställningar
+# Variables
+#  $host (String): the hostname of the site that is being displayed.
+trustpanel-clear-cookies-header =
+    .title = Rensa kakor och webbplatsdata för { $host }
+trustpanel-clear-cookies-description = Att ta bort kakor och webbplatsdata kan logga ut dig från webbplatser och tömma kundvagnar.
+trustpanel-clear-cookies-subview-button-clear = Rensa
+trustpanel-clear-cookies-subview-button-cancel = Avbryt
+# Variables
+#  $host (String): the hostname of the site that is being displayed.
+trustpanel-site-information-header =
+    .title = Anslutningsskydd för { $host }
+trustpanel-connection-secure = Du är säkert ansluten till den här webbplatsen.
+trustpanel-connection-not-secure = Du är inte säkert ansluten till den här webbplatsen.
+trustpanel-siteinformation-morelink = Mer webbplatsinformation
+trustpanel-blocker-see-all = Visa alla
+# Variables
+#  $host (String): the hostname of the site that is being displayed.
+trustpanel-blocker-header =
+    .title = Spårningsskydd för { $host }
+
+## Variables
+##  $count (String): the number of trackers blocked.
+
+trustpanel-blocker-section-header =
+    { $count ->
+        [one] <span>{ $count }</span> spårare blockerad på den här webbplatsen
+       *[other] <span>{ $count }</span> spårare blockerade på den här webbplatsen
+    }
+trustpanel-blocker-description = { -brand-product-name } tycker att företag borde följa dig mindre. Så vi blockerar så många vi kan.
+trustpanel-blocked-header = { -brand-product-name } blockerade dessa saker för dig:
+trustpanel-tracking-header = { -brand-product-name } tillät dessa saker så att webbplatser inte går sönder:
+trustpanel-tracking-description = Utan spårare kanske vissa knappar, formulär och inloggningsfält inte fungerar.
+trustpanel-insecure-section-header = Din anslutning är inte säker
+trustpanel-insecure-description = Den data du skickar till den här webbplatsen är inte krypterad. Den kan visas, bli stulen eller ändrad.
+trustpanel-list-label-tracking-cookies =
+    { $count ->
+        [one] { $count } global spårningskaka
+       *[other] { $count } globala spårningskakor
+    }
+trustpanel-list-label-tracking-content = Spårningsinnehåll
+trustpanel-list-label-fingerprinter =
+    { $count ->
+        [one] { $count } Fingeravtrycksspårare
+       *[other] { $count } Fingeravtrycksspårare
+    }
+trustpanel-list-label-social-tracking =
+    { $count ->
+        [one] { $count } Social media-spårare
+       *[other] { $count } Sociala mediespårare
+    }
+trustpanel-list-label-cryptominer =
+    { $count ->
+        [one] { $count } Kryptogrävare
+       *[other] { $count } kryptogrävare
+    }
+trustpanel-social-tracking-blocking-tab-header =
+    { $count ->
+        [one] { -brand-product-name } blockerade { $count } sociala spårare
+       *[other] { -brand-product-name } blockerade { $count } sociala mediespårare
+    }
+trustpanel-social-tracking-not-blocking-tab-header =
+    { $count ->
+        [one] { -brand-product-name } tillät { $count } social media-spårare
+       *[other] { -brand-product-name } tillät { $count } sociala mediespårare
+    }
+trustpanel-social-tracking-tab-list-header = Dessa webbplatser försöker spåra dig:
+trustpanel-tracking-cookies-blocking-tab-header =
+    { $count ->
+        [one] { -brand-product-name } blockerade { $count } global spårningskaka
+       *[other] { -brand-product-name } blockerade { $count } globala spårningskakor
+    }
+trustpanel-tracking-cookies-not-blocking-tab-header =
+    { $count ->
+        [one] { -brand-product-name } tillät { $count } cross-site spårningskaka
+       *[other] { -brand-product-name } tillät { $count } globala spårningskakor
+    }
+trustpanel-tracking-cookies-tab-list-header = Dessa webbplatser försöker spåra dig:
+trustpanel-tracking-content-blocking-tab-header =
+    { $count ->
+        [one] { -brand-product-name } blockerade { $count } spårare
+       *[other] { -brand-product-name } blockerade { $count } spårare
+    }
+trustpanel-tracking-content-not-blocking-tab-header =
+    { $count ->
+        [one] { -brand-product-name } tilläter { $count } spårare
+       *[other] { -brand-product-name } tillåtna { $count } spårare
+    }
+trustpanel-tracking-content-tab-list-header = Dessa webbplatser försöker spåra dig:
+trustpanel-fingerprinter-blocking-tab-header =
+    { $count ->
+        [one] { -brand-product-name } blockerade { $count } fingeravtrycksspårare
+       *[other] { -brand-product-name } blockerade { $count } fingeravtrycksspårare
+    }
+trustpanel-fingerprinter-not-blocking-tab-header =
+    { $count ->
+        [one] { -brand-product-name } tillåter { $count } fingeravtrycksspårare
+       *[other] { -brand-product-name } tilläter { $count } fingeravtrycksspårare
+    }
+trustpanel-fingerprinter-list-header = Dessa webbplatser försöker ta fingeravtryck från dig:
+trustpanel-cryptominer-blocking-tab-header =
+    { $count ->
+        [one] { -brand-product-name } blockerade { $count } kryptogrävare
+       *[other] { -brand-product-name } blockerade { $count } kryptogrävare
+    }
+trustpanel-cryptominer-not-blocking-tab-header =
+    { $count ->
+        [one] { -brand-product-name } tilläter { $count } kryptogrävare
+       *[other] { -brand-product-name } tillåtna { $count } kryptogrävare
+    }
+trustpanel-cryptominer-tab-list-header = Dessa webbplatser försöker kryptominera:

@@ -29,6 +29,7 @@ about-logging-no-log-modules = Ingen
 about-logging-no-log-file = Ingen
 about-logging-logging-preset-selector-text = Förinställning för loggar:
 about-logging-with-profiler-stacks-checkbox = Aktivera stackspårningar för loggmeddelanden
+about-logging-with-javascript-tracing-checkbox = Aktivera JavaScript-spårning
 about-logging-menu =
     .title = Avancerade alternativ
 
@@ -52,6 +53,8 @@ about-logging-preset-webcodecs-label = WebCodecs
 about-logging-preset-webcodecs-description = Logga moduler för att diagnostisera problem med WebCodecs ljud/video-avkodare och kodare och bildavkodare
 about-logging-preset-ml-label = Maskininlärning
 about-logging-preset-ml-description = Logga moduler för att diagnostisera problem med maskininlärning
+about-logging-preset-web-compat-label = Webbkompatibel
+about-logging-preset-web-compat-description = Logga moduler för att diagnostisera webbkompatibilitetsproblem
 about-logging-preset-webgpu-label = WebGPU
 about-logging-preset-webgpu-description = Logga moduler för att diagnostisera WebGPU-problem
 about-logging-preset-gfx-label = Grafik

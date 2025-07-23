@@ -343,3 +343,16 @@ multi-cta-fox-doodle-privacy-focused-subtitle =
        *[other] Håll din favoritwebbläsare med fokus på integritet bara ett klick bort. Ställ in { -brand-short-name } som din standardwebbläsare för att öppna länkar och fäst den i aktivitetsfältet.
     }
 multi-cta-fox-doodle-msix-privacy-focused-subtitle = Håll din favoritwebbläsare med fokus på integritet bara ett klick bort. Ställ in { -brand-short-name } som din standardwebbläsare för att öppna länkar och fäst den i aktivitetsfältet och startmenyn.
+
+## Windows 10 EoS Sync messages group 1 spotlight
+
+windows-10-eos-sync-spotlight-title = Uppgraderar du från Windows 10 snart?
+windows-10-eos-sync-spotlight-subtitle = Säkerhetskopiera dina lösenord och bokmärken så att du är redo att ta steget till vilken enhet som helst.
+windows-10-eos-sync-spotlight-primary-label = Säkerhetskopiera dina { -brand-short-name }
+
+## Windows 10 EoS Sync messages group 1 toast notification
+
+windows-10-eos-sync-toast-title = Uppgradera till Windows 11? Tappa inte bokmärken och lösenord.
+windows-10-eos-sync-toast-subtitle = Säkerhetskopiera din data så att { -brand-short-name } är redo att användas när som helst, på den här datorn eller nästa.
+windows-10-eos-sync-toast-primary-label = Kom igång
+windows-10-eos-sync-toast-secondary-label = Påminn mig senare
