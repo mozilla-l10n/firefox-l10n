@@ -56,6 +56,9 @@ newtab-topsites-add-shortcut-header = Nowe zwjazanje
 newtab-topsites-edit-topsites-header = Najhusćišo wopytane sydło wobdźěłać
 newtab-topsites-edit-shortcut-header = Zwjazanje wobdźěłać
 newtab-topsites-add-shortcut-label = Skrótšenku přidać
+newtab-topsites-add-shortcut-title =
+    .title = Skrótšenku přidać
+    .aria-label = Skrótšenku přidać
 newtab-topsites-title-label = Titul
 newtab-topsites-title-input =
     .placeholder = Titul zapodać
@@ -540,6 +543,9 @@ newtab-custom-wallpaper-title = Tu su swójske pozadkowe wobrazy
 # 'Make firefox yours" means to customize or personalize
 newtab-custom-wallpaper-subtitle = Nahrajće swójski pozadkowy wobraz abo wubjerće swójsku barbu, zo byšće sej { -brand-product-name } přiswojił.
 newtab-custom-wallpaper-cta = Wupruwujće jón
+
+## Strings for new user activation custom wallpaper highlight
+
 
 ## Strings for download mobile highlight
 
