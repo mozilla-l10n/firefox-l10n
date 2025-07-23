@@ -56,6 +56,9 @@ newtab-topsites-add-shortcut-header = Nove accesso directe
 newtab-topsites-edit-topsites-header = Modificar le sito preferite
 newtab-topsites-edit-shortcut-header = Modificar accesso directe
 newtab-topsites-add-shortcut-label = Adder via-breve
+newtab-topsites-add-shortcut-title =
+    .title = Adder via-breve
+    .aria-label = Adder via-breve
 newtab-topsites-title-label = Titulo
 newtab-topsites-title-input =
     .placeholder = Scriber un titulo
@@ -534,6 +537,9 @@ newtab-custom-wallpaper-title = Ecce le fundos personalisate
 # 'Make firefox yours" means to customize or personalize
 newtab-custom-wallpaper-subtitle = Incarga tu proprie fundo o selige un color pro personalisar tu { -brand-product-name }.
 newtab-custom-wallpaper-cta = Prova lo
+
+## Strings for new user activation custom wallpaper highlight
+
 
 ## Strings for download mobile highlight
 
