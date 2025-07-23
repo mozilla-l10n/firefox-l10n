@@ -56,6 +56,9 @@ newtab-topsites-add-shortcut-header = Ny genväg
 newtab-topsites-edit-topsites-header = Redigera mest besökta
 newtab-topsites-edit-shortcut-header = Redigera genväg
 newtab-topsites-add-shortcut-label = Lägg till genväg
+newtab-topsites-add-shortcut-title =
+    .title = Lägg till genväg
+    .aria-label = Lägg till genväg
 newtab-topsites-title-label = Titel
 newtab-topsites-title-input =
     .placeholder = Ange en titel
@@ -538,6 +541,9 @@ newtab-custom-wallpaper-title = Anpassade bakgrundsbilder finns här
 # 'Make firefox yours" means to customize or personalize
 newtab-custom-wallpaper-subtitle = Ladda upp din egen bakgrundsbild eller välj en anpassad färg för att göra { -brand-product-name } till din.
 newtab-custom-wallpaper-cta = Prova den
+
+## Strings for new user activation custom wallpaper highlight
+
 
 ## Strings for download mobile highlight
 
