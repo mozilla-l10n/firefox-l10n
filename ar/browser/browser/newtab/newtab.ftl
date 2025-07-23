@@ -56,6 +56,9 @@ newtab-topsites-add-shortcut-header = اختصار جديد
 newtab-topsites-edit-topsites-header = حرّر الموقع الشائع
 newtab-topsites-edit-shortcut-header = حرّر الاختصار
 newtab-topsites-add-shortcut-label = أضِف اختصارًا
+newtab-topsites-add-shortcut-title =
+    .title = أضِف اختصارًا
+    .aria-label = أضِف اختصارًا
 newtab-topsites-title-label = العنوان
 newtab-topsites-title-input =
     .placeholder = أدخل عنوانًا
@@ -422,6 +425,9 @@ newtab-section-cancel-button = ليس الآن
 
 newtab-section-mangage-topics-title = المواضيع
 newtab-custom-wallpaper-cta = جربه
+
+## Strings for new user activation custom wallpaper highlight
+
 
 ## Strings for download mobile highlight
 
