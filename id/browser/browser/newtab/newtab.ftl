@@ -53,6 +53,9 @@ newtab-topsites-add-shortcut-header = Pintasan Baru
 newtab-topsites-edit-topsites-header = Ubah Situs Pilihan
 newtab-topsites-edit-shortcut-header = Edit Pintasan
 newtab-topsites-add-shortcut-label = Tambahkan Pintasan
+newtab-topsites-add-shortcut-title =
+    .title = Tambahkan Pintasan
+    .aria-label = Tambahkan Pintasan
 newtab-topsites-title-label = Judul
 newtab-topsites-title-input =
     .placeholder = Masukkan judul
@@ -520,6 +523,9 @@ newtab-custom-wallpaper-title = Wallpaper kustom ada di sini
 # 'Make firefox yours" means to customize or personalize
 newtab-custom-wallpaper-subtitle = Unggah wallpaper sendiri atau pilih warna kustom untuk menjadikan { -brand-product-name } lebih personal.
 newtab-custom-wallpaper-cta = Coba sekarang
+
+## Strings for new user activation custom wallpaper highlight
+
 
 ## Strings for download mobile highlight
 
