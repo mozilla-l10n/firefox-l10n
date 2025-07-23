@@ -56,6 +56,9 @@ newtab-topsites-add-shortcut-header = Новий ярлик
 newtab-topsites-edit-topsites-header = Редагувати популярний сайт
 newtab-topsites-edit-shortcut-header = Редагувати ярлик
 newtab-topsites-add-shortcut-label = Додати ярлик
+newtab-topsites-add-shortcut-title =
+    .title = Додати ярлик
+    .aria-label = Додати ярлик
 newtab-topsites-title-label = Заголовок
 newtab-topsites-title-input =
     .placeholder = Введіть назву
@@ -539,6 +542,9 @@ newtab-custom-wallpaper-title = Користувацькі шпалери
 # 'Make firefox yours" means to customize or personalize
 newtab-custom-wallpaper-subtitle = Вивантажте власне зображення або виберіть особливий колір, щоб персоналізувати { -brand-product-name }.
 newtab-custom-wallpaper-cta = Спробувати
+
+## Strings for new user activation custom wallpaper highlight
+
 
 ## Strings for download mobile highlight
 
