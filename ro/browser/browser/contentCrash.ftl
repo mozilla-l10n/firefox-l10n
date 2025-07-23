@@ -38,7 +38,7 @@ requested-crash-reports-message-new =
     { $reportCount ->
         [one] Ai { $reportCount } raport de închidere neașteptată netrimis, legat de erorile investigate de închidere neașteptată. Trimiterea lui ne va ajuta să îmbunătățim { -brand-product-name }. Închiderea acestei notificări va ignora raportul.
         [few] Ai { $reportCount } rapoarte de închidere neașteptată netrimise, legate de erorile investigate de închidere neașteptată. Trimiterea lor ne va ajuta să îmbunătățim { -brand-product-name }. Închiderea acestei notificări va ignora rapoartele.
-       *[other] Ai { $reportCount } (de) rapoarte de închidere neașteptată netrimise, legate de erorile investigate de închidere neașteptată. Trimiterea lor ne va ajuta să îmbunătățim { -brand-product-name }. Închiderea acestei notificări va ignora rapoartele.
+       *[other] Ai { $reportCount } de rapoarte de închidere neașteptată netrimise, legate de erorile investigate de închidere neașteptată. Trimiterea lor ne va ajuta să îmbunătățim { -brand-product-name }. Închiderea acestei notificări va ignora rapoartele.
     }
 # Variables:
 #   $reportCount (Number): the number of pending crash reports
