@@ -56,6 +56,9 @@ newtab-topsites-add-shortcut-header = 新建快捷方式
 newtab-topsites-edit-topsites-header = 编辑常用网站
 newtab-topsites-edit-shortcut-header = 编辑快捷方式
 newtab-topsites-add-shortcut-label = 添加快捷方式
+newtab-topsites-add-shortcut-title =
+    .title = 添加快捷方式
+    .aria-label = 添加快捷方式
 newtab-topsites-title-label = 标题
 newtab-topsites-title-input =
     .placeholder = 输入标题
@@ -533,6 +536,9 @@ newtab-custom-wallpaper-title = 在此处自定义壁纸
 # 'Make firefox yours" means to customize or personalize
 newtab-custom-wallpaper-subtitle = 自行上传壁纸或选取自定义颜色，让 { -brand-product-name } 更有个性。
 newtab-custom-wallpaper-cta = 试试看
+
+## Strings for new user activation custom wallpaper highlight
+
 
 ## Strings for download mobile highlight
 
