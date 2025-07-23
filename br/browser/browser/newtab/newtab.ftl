@@ -56,6 +56,9 @@ newtab-topsites-add-shortcut-header = Berradenn nevez
 newtab-topsites-edit-topsites-header = Kemmañ al lec'hienn wellañ
 newtab-topsites-edit-shortcut-header = Kemmañ ar verradenn
 newtab-topsites-add-shortcut-label = Ouzhpennañ ur verradenn
+newtab-topsites-add-shortcut-title =
+    .title = Ouzhpennañ ur verradenn
+    .aria-label = Ouzhpennañ ur verradenn
 newtab-topsites-title-label = Titl
 newtab-topsites-title-input =
     .placeholder = Enankañ un titl
@@ -442,6 +445,9 @@ newtab-section-block-topic-button = Stankañ { $topic }
 newtab-section-mangage-topics-followed-topics = O heuliañ
 newtab-section-mangage-topics-blocked-topics = Stanket
 newtab-custom-wallpaper-cta = Esaeañ
+
+## Strings for new user activation custom wallpaper highlight
+
 
 ## Strings for download mobile highlight
 
