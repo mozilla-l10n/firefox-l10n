@@ -50,6 +50,9 @@ newtab-topsites-add-shortcut-header = نواں شارٹ کٹ
 newtab-topsites-edit-topsites-header = بہترین سائٹ دی تدوین کرو
 newtab-topsites-edit-shortcut-header = شارٹ کٹ وِچ ترمیم کرو
 newtab-topsites-add-shortcut-label = شارٹ کٹ شامل کرو
+newtab-topsites-add-shortcut-title =
+    .title = شارٹ کٹ شامل کرو
+    .aria-label = شارٹ کٹ شامل کرو
 newtab-topsites-title-label = عنوان
 newtab-topsites-title-input =
     .placeholder = ہک عنوان درج کرو
@@ -458,6 +461,9 @@ newtab-topic-selection-button-pick-interests = آپݨیاں دلچسپیاں �
 
 
 ## Strings for custom wallpaper highlight
+
+
+## Strings for new user activation custom wallpaper highlight
 
 
 ## Strings for download mobile highlight
