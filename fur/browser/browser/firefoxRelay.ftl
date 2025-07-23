@@ -72,6 +72,7 @@ firefox-relay-and-fxa-opt-in-confirmation-enable-button-basic-info =
 
 firefox-relay-and-fxa-popup-notification-header-with-domain = Oten une mascare di pueste eletroniche gratuite
 firefox-relay-and-fxa-popup-notification-first-sentence-with-domain = Protêç dal spam la tô casele di pueste doprant une <label data-l10n-name="firefox-relay-learn-more-url">mascare di pueste eletroniche</label> par platâ la tô vere direzion. Lis e-mails di <label data-l10n-name="firefox-fxa-and-relay-offer-domain">chest sît</label> a continuaran a rivâ te tô casele di pueste, ma la tô direzion e-mail e restarà platade.
+firefox-relay-and-fxa-popup-notification-first-sentence = Protêç dal spam la tô casele di pueste doprant une <label data-l10n-name="firefox-relay-learn-more-url">mascare di pueste eletroniche { -relay-brand-name }</label> par platâ la tô vere direzion. Lis e-mails di <label data-l10n-name="firefox-fxa-and-relay-offer-domain">chest sît</label> a continuaran a rivâ te tô casele di pueste, ma la tô direzion e-mail e restarà platade.
 firefox-relay-and-fxa-popup-notification-second-sentence-with-domain = Par doprâ la mascare di pueste eletroniche prime, regjistriti o jentre sul to account
 firefox-relay-and-fxa-opt-in-confirmation-enable-button-with-domain =
     .label = Regjistriti
