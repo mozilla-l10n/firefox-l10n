@@ -56,6 +56,9 @@ newtab-topsites-add-shortcut-header = Uusi oikotie
 newtab-topsites-edit-topsites-header = Muokkaa ykkössivustoa
 newtab-topsites-edit-shortcut-header = Muokkaa oikotietä
 newtab-topsites-add-shortcut-label = Lisää pikavalinta
+newtab-topsites-add-shortcut-title =
+    .title = Lisää pikavalinta
+    .aria-label = Lisää pikavalinta
 newtab-topsites-title-label = Otsikko
 newtab-topsites-title-input =
     .placeholder = Kirjoita otsikko
@@ -538,6 +541,9 @@ newtab-custom-wallpaper-title = Mukautetut taustakuvat ovat täällä
 # 'Make firefox yours" means to customize or personalize
 newtab-custom-wallpaper-subtitle = Valitse oma taustakuvasi tai mukautettu väri ja tee { -brand-product-name }ista mieluisesi.
 newtab-custom-wallpaper-cta = Kokeile
+
+## Strings for new user activation custom wallpaper highlight
+
 
 ## Strings for download mobile highlight
 
