@@ -56,6 +56,9 @@ newtab-topsites-add-shortcut-header = 新增捷徑
 newtab-topsites-edit-topsites-header = 編輯熱門網站
 newtab-topsites-edit-shortcut-header = 編輯捷徑
 newtab-topsites-add-shortcut-label = 新增捷徑
+newtab-topsites-add-shortcut-title =
+    .title = 新增捷徑
+    .aria-label = 新增捷徑
 newtab-topsites-title-label = 標題
 newtab-topsites-title-input =
     .placeholder = 輸入標題
@@ -534,6 +537,9 @@ newtab-custom-wallpaper-title = 可以在這裡自訂背景圖片
 # 'Make firefox yours" means to customize or personalize
 newtab-custom-wallpaper-subtitle = 上傳您自己的背景圖，或挑選一組色彩，讓 { -brand-product-name } 有您的風格。
 newtab-custom-wallpaper-cta = 試試看
+
+## Strings for new user activation custom wallpaper highlight
+
 
 ## Strings for download mobile highlight
 
