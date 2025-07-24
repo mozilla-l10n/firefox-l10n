@@ -29,6 +29,7 @@ about-logging-no-log-modules = Gjin
 about-logging-no-log-file = Gjin
 about-logging-logging-preset-selector-text = Foarynstelling logging:
 about-logging-with-profiler-stacks-checkbox = Stacktraces foar lochboekberjochten ynskeakelje
+about-logging-with-javascript-tracing-checkbox = JavaScript-trasearring ynskeakelje
 about-logging-menu =
     .title = Avansearre opsjes
 
@@ -52,6 +53,8 @@ about-logging-preset-webcodecs-label = WebCodecs
 about-logging-preset-webcodecs-description = Logboekmodulen om problemen mei WebCodecs-audio-/fideodecoders en -encoders, en ôfbyldingsdecoders te diagnostisearjen
 about-logging-preset-ml-label = Masinaal leare
 about-logging-preset-ml-description = Logboekmodulen om masineoersettingsproblemen te diagnostisearjen
+about-logging-preset-web-compat-label = Webkompatibiliteit
+about-logging-preset-web-compat-description = Logboekmodulen om webkompatibiliteitsproblemen  te diagnostisearjen
 about-logging-preset-webgpu-label = WebGPU
 about-logging-preset-webgpu-description = Logboekmodulen om WebGPU te diagnostisearjen
 about-logging-preset-gfx-label = Grafysk

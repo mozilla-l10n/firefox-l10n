@@ -39,6 +39,7 @@ about-networking-dns-lookup = DNS-sykaksje
 about-networking-dns-lookup-button = Omsette
 about-networking-dns-domain = Domein:
 about-networking-dns-lookup-table-column = IP-adressen
+about-networking-dns-https-rrs-lookup-table-column = HTTPS-RR’s
 about-networking-dns-https-rr-lookup-table-column = HTTP-RR’s
 about-networking-rcwn = RCWN-statistiken
 about-networking-rcwn-status = RCWN-steat

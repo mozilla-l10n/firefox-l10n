@@ -207,6 +207,9 @@ urlbar-result-menu-show-less-frequently =
     .label = Daha az göster
 urlbar-result-menu-dont-show-weather-suggestions =
     .label = Hava durumu önerilerini gösterme
+# Used for Split Button.
+urlbar-splitbutton-dropmarker =
+    .title = Menüyü aç
 # A message shown in the urlbar when the user submits feedback on a suggestion
 # (e.g., it shows an inaccurate location, it's shown too often, etc.).
 urlbar-feedback-acknowledgment = Geri bildiriminiz için teşekkürler
@@ -825,6 +828,8 @@ urlbar-searchmode-default =
 urlbar-searchmode-popup-description = Burada ara:
 urlbar-searchmode-popup-search-settings-menuitem =
     .label = Arama ayarları
+# Label shown next to a new search engine in the Searchmode Switcher popup to promote it.
+urlbar-searchmode-new = Yeni
 # Searchmode Switcher button
 # Variables:
 #   $engine (String): the current default search engine.
@@ -1152,6 +1157,10 @@ tabs-toolbar-list-all-tabs =
     .label = Tüm sekmeleri listele
     .tooltiptext = Tüm sekmeleri listele
 
+## Drop indicator text for pinned tabs when no tabs are pinned.
+
+pinned-tabs-drop-indicator = Sekmeyi sabitlemek için buraya bırakın
+
 ## Infobar shown at startup to suggest session-restore
 
 # <img data-l10n-name="icon"/> will be replaced by the application menu icon
@@ -1324,3 +1333,22 @@ onboarding-checklist-button-label = Kurulumu tamamla
 onboarding-aw-finish-setup-button =
     .label = Kurulumu tamamla
     .tooltiptext = { -brand-short-name } kurulumunu tamamlayın
+
+## The urlbar trust panel
+
+trustpanel-etp-label-enabled = Gelişmiş izlenme koruması açık
+trustpanel-etp-label-disabled = Gelişmiş izlenme koruması kapalı
+# Variables
+#  $host (String): the hostname of the site that is being displayed.
+trustpanel-etp-toggle-on =
+    .aria-label = Gelişmiş izlenme koruması: { $host } için açık
+# Variables
+#  $host (String): the hostname of the site that is being displayed.
+trustpanel-etp-toggle-off =
+    .aria-label = Gelişmiş izlenme koruması: { $host } için kapalı
+trustpanel-etp-description-enabled = Site bozuk görünüyorsa korumaları kapatmayı deneyin.
+
+## Variables
+##  $count (String): the number of trackers blocked.
+
+trustpanel-social-tracking-tab-list-header = Bu siteler sizi izlemeye çalışıyor:
