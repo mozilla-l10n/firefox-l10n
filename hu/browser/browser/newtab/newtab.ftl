@@ -544,6 +544,8 @@ newtab-custom-wallpaper-cta = Próbálja ki
 
 ## Strings for new user activation custom wallpaper highlight
 
+newtab-new-user-custom-wallpaper-title = Válasszon háttérképet, hogy a { -brand-product-name }ot a sajátjává tegye
+newtab-new-user-custom-wallpaper-subtitle = Tegyen minden új lapot otthonossá az egyéni háttérképekkel és színekkel.
 newtab-new-user-custom-wallpaper-cta = Próbálja ki most
 
 ## Strings for download mobile highlight

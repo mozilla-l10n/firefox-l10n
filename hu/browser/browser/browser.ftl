@@ -1448,6 +1448,17 @@ trustpanel-fingerprinter-blocking-tab-header =
         [one] A { -brand-product-name } blokkolt { $count } ujjlenyomat-készítőt
        *[other] A { -brand-product-name } blokkolt { $count } ujjlenyomat-készítőt
     }
+trustpanel-fingerprinter-not-blocking-tab-header =
+    { $count ->
+        [one] A { -brand-product-name } engedélyezett { $count } ujjlenyomat-készítőt
+       *[other] A { -brand-product-name } engedélyezett { $count } ujjlenyomat-készítőt
+    }
+trustpanel-fingerprinter-list-header = Ezek a webhelyek ujjlenyomatot próbálnak készíteni Önről:
+trustpanel-cryptominer-blocking-tab-header =
+    { $count ->
+        [one] A { -brand-product-name } blokkolt { $count } kriptobányászt
+       *[other] A { -brand-product-name } blokkolt { $count } kriptobányászt
+    }
 trustpanel-cryptominer-not-blocking-tab-header =
     { $count ->
         [one] A { -brand-product-name } engedélyezett { $count } kriptobányászt
