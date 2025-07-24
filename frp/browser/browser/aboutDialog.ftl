@@ -39,7 +39,7 @@ update-restarting = Après renrayér…
 
 # Variables:
 #   $channel (String): description of the update channel (e.g. "release", "beta", "nightly" etc.)
-aboutdialog-channel-description = Vos utilisâds lo canal <label data-l10n-name="current-channel">{ $channel }</label> pèr betar a jorn.{ " " }
+aboutdialog-channel-description = Vos utilisâds lo canal <label data-l10n-name="current-channel">{ $channel }</label> pèr betar a jorn.
 warningDesc-version = { -brand-short-name } est èxpèrimentâl et pot éhtre enstâbllo.
 community-exp = <label data-l10n-name="community-exp-mozillaLink">{ -vendor-short-name }</label> est una <label data-l10n-name="community-exp-creditsLink">comunôtâ mondiâla</label> que travalye ensium pèr mantenir Internet ovèrt, publico et accessiblo a tuis.
 community-2 = { -brand-short-name } est rèalisâ pèr <label data-l10n-name="community-mozillaLink">{ -vendor-short-name }</label>, una <label data-l10n-name="community-creditsLink">comunôtâ mondiâla</label> que travalye ensium pèr mantenir Internet ovèrt, publico et accessiblo a tuis.

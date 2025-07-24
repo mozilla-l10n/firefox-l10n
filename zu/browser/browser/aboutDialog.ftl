@@ -35,7 +35,7 @@ update-unsupported = Awukwazi ukwenza ukufaka ukwaziswa kwamuva okuthuthukile ku
 
 # Variables:
 #   $channel (String): description of the update channel (e.g. "release", "beta", "nightly" etc.)
-aboutdialog-channel-description = Okwamanje uku <label data-l10n-name="current-channel">{ $channel }</label> vuselela isiteshi.{ " " }
+aboutdialog-channel-description = Okwamanje uku <label data-l10n-name="current-channel">{ $channel }</label> vuselela isiteshi.
 
 warningDesc-version = { -brand-short-name } ingukuhlola futhi ayimile ndawonye
 
@@ -46,4 +46,3 @@ community-2 = I-{ -brand-short-name } yenzwe ngu- <label data-l10n-name="communi
 bottomLinks-license = Imininingwane yokulayiseniswa
 bottomLinks-rights = Amalungelo womsebenzisi wokugcina
 bottomLinks-privacy = Inqubo Yemfihlo
-

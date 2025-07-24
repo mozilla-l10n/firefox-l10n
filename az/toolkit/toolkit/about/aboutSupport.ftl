@@ -3,7 +3,7 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 page-title = Problem həll etmə məlumatları
-page-subtitle = { "  " }Bu səhifə, bir problemi həll etməyə çalışarkən işinizə yaraya biləcək texniki məlumatlara malikdir. { -brand-short-name } haqqında ümumi suallarla bağlı cavab axtarırsınızsa <a data-l10n-name="support-link">dəstək saytımıza</a> baxın.
+page-subtitle = Bu səhifə, bir problemi həll etməyə çalışarkən işinizə yaraya biləcək texniki məlumatlara malikdir. { -brand-short-name } haqqında ümumi suallarla bağlı cavab axtarırsınızsa <a data-l10n-name="support-link">dəstək saytımıza</a> baxın.
 crashes-title = Çökmə Məlumatları
 crashes-id = Hesabat kimliyi
 crashes-send-date = Göndərilib

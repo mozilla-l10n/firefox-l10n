@@ -21,18 +21,18 @@ about-telemetry-telemetry-dashboard = <a data-l10n-name="dashboard-link">Telemet
 about-telemetry-telemetry-probe-dictionary = <a data-l10n-name="probe-dictionary-link">Zond Lüğəti</a> Telemetriya tərəfindən toplanmış zondlarla əlaqədar məlumat və açıqlamaları təchiz edir.
 about-telemetry-show-in-Firefox-json-viewer = JSON göstəricidə aç
 about-telemetry-home-section = Ev
-about-telemetry-general-data-section = { "  " }Ümumi Məlumat
+about-telemetry-general-data-section = Ümumi Məlumat
 about-telemetry-environment-data-section = Mühit Məlumatları
 about-telemetry-session-info-section = Sessiya Məlumatı
 about-telemetry-scalar-section = Skalyarlar
 about-telemetry-keyed-scalar-section = Açarlı Skalyarlar
-about-telemetry-histograms-section = { "  " }Histoqram
-about-telemetry-keyed-histogram-section = { "  " }Açarlanmış Histogramlar
+about-telemetry-histograms-section = Histoqram
+about-telemetry-keyed-histogram-section = Açarlanmış Histogramlar
 about-telemetry-events-section = Tədbirlər
-about-telemetry-simple-measurements-section = { "  " }Sadə Ölçülər
-about-telemetry-slow-sql-section = { "  " }Zəif SQL İfadələr
-about-telemetry-addon-details-section = { "  " }Əlavə Detalları
-about-telemetry-late-writes-section = { "  " }Gecikmiş Yazılar
+about-telemetry-simple-measurements-section = Sadə Ölçülər
+about-telemetry-slow-sql-section = Zəif SQL İfadələr
+about-telemetry-addon-details-section = Əlavə Detalları
+about-telemetry-late-writes-section = Gecikmiş Yazılar
 about-telemetry-raw-payload-section = Xam yük
 about-telemetry-raw = Xam JSON
 about-telemetry-full-sql-warning = NOTE: Slow SQL debugging is enabled. Full SQL strings may be displayed below but they will not be submitted to Telemetry.

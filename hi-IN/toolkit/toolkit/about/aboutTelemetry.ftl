@@ -21,13 +21,13 @@ about-telemetry-telemetry-client-doc = <a data-l10n-name="client-doc-link">Firef
 about-telemetry-telemetry-dashboard = <a data-l10n-name="dashboard-link">दूरमापी नियंत्रण-पट्ट</a> आपको दूरमापी के माध्यम से Mozilla को प्राप्त होने वाले आँकड़ों को देखने का अवसर देता है.
 about-telemetry-show-in-Firefox-json-viewer = JSON दर्शक में खोलें
 about-telemetry-home-section = मुख पृष्ठ
-about-telemetry-general-data-section = { "        " }सामान्य आंकड़ा
+about-telemetry-general-data-section = सामान्य आंकड़ा
 about-telemetry-environment-data-section = वातावरण डेटा
 about-telemetry-session-info-section = तंत्र जानकारी
 about-telemetry-scalar-section = अदिश
 about-telemetry-keyed-scalar-section = की स्केलर
 about-telemetry-histograms-section = आयत छवि
-about-telemetry-keyed-histogram-section = { "    " }keyed histograms
+about-telemetry-keyed-histogram-section = keyed histograms
 about-telemetry-events-section = घटनाएँ
 about-telemetry-simple-measurements-section = साधारण  माप
 about-telemetry-slow-sql-section = धीरे sql निवेदन

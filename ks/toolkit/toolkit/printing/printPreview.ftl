@@ -3,7 +3,7 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 printpreview-close =
-    .label = بند{ "  " }
+    .label = بند
     .accesskey = C
 printpreview-portrait =
     .label = پورٹریٹ
@@ -45,4 +45,4 @@ printpreview-nextarrow =
     .tooltiptext = بیاکھ پیج
 printpreview-endarrow =
     .label = { $arrow }
-    .tooltiptext = پْتیم پیج{ " " }
+    .tooltiptext = پْتیم پیج

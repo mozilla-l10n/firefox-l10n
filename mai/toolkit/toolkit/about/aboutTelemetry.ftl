@@ -8,13 +8,13 @@ about-telemetry-show-subsession-data = उपसत्र डेटा देख
 about-telemetry-choose-ping = पिंग चुनू:
 about-telemetry-archive-ping-header = पिंग
 about-telemetry-page-title = दूरमापी आंकड़ा
-about-telemetry-general-data-section = { "        " }सामान्य आंकड़ा
+about-telemetry-general-data-section = सामान्य आंकड़ा
 about-telemetry-environment-data-section = वातावरण डाटा
 about-telemetry-histograms-section = आयत छवि
 about-telemetry-keyed-histogram-section = बंद हिस्टोग्राम
 about-telemetry-simple-measurements-section = साधारण माप
 about-telemetry-slow-sql-section = धीमा sql निवेदन
-about-telemetry-addon-details-section = { "  " }सहयुक्तिक विवरण
+about-telemetry-addon-details-section = सहयुक्तिक विवरण
 about-telemetry-late-writes-section = किछु देर सँ लिखू
 about-telemetry-full-sql-warning = टिप्पणी: धीमा sql दोषसुधार सक्षम अछि. पूर्ण रूप सँ sql  वाक्यांश नीच्चाँ देखाइ दिए सकैत अछि मुदा ओ दूरमापी केँ जमा कएल जाए सकैत अछि
 # Variables:

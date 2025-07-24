@@ -42,7 +42,7 @@ update-internal-error2 = ভিতৰুৱা ত্ৰুটিৰ কাৰ�
 
 # Variables:
 #   $channel (String): description of the update channel (e.g. "release", "beta", "nightly" etc.)
-aboutdialog-channel-description = আপুনি বৰ্তমানে <label data-l10n-name="current-channel">{ $channel }</label> আপডেইট চেনেলত আছে।{ " " }
+aboutdialog-channel-description = আপুনি বৰ্তমানে <label data-l10n-name="current-channel">{ $channel }</label> আপডেইট চেনেলত আছে।
 warningDesc-version = { -brand-short-name } পৰিক্ষামূলক আৰু অস্থিৰ হব পাৰে।
 aboutdialog-help-user = { -brand-product-name } সহায়
 aboutdialog-submit-feedback = মতামত দাখিল কৰক

@@ -3,7 +3,7 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 page-title = Etamab'äl richin yesol taq k'ayewal
-page-subtitle = { "  " }Pa re ruxaq re' k'o samajel etamab'äl chupam, ri nito'on we nawajo' nasöl jun k'ayewal. Richin nawïl kitzijol relik taq k'utunïk chi rij { -brand-short-name }, kab'etz'eton pa qa <a data-l10n-name="support-link">ruxaq k'amaya'l richin to'ïk</a>.
+page-subtitle = Pa re ruxaq re' k'o samajel etamab'äl chupam, ri nito'on we nawajo' nasöl jun k'ayewal. Richin nawïl kitzijol relik taq k'utunïk chi rij { -brand-short-name }, kab'etz'eton pa qa <a data-l10n-name="support-link">ruxaq k'amaya'l richin to'ïk</a>.
 crashes-title = Rutzijol taq sachoj
 crashes-id = Nimaläj rub'i' ri rutzijol
 crashes-send-date = Taqon

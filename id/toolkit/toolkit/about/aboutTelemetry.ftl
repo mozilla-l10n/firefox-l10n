@@ -23,13 +23,13 @@ about-telemetry-telemetry-dashboard = <a data-l10n-name="dashboard-link">Dasbor 
 about-telemetry-telemetry-probe-dictionary = <a data-l10n-name="probe-dictionary-link">Probe Dictionary</a> menyediakan rincian dan deskripsi tentang data-data pemeriksaan yang dikumpulkan oleh Telemetry.
 about-telemetry-show-in-Firefox-json-viewer = Buka di penampil JSON
 about-telemetry-home-section = Beranda
-about-telemetry-general-data-section = { "   " }Data Umum
+about-telemetry-general-data-section = Data Umum
 about-telemetry-environment-data-section = Data Lingkungan
 about-telemetry-session-info-section = Informasi Sistem
 about-telemetry-scalar-section = Skalar
 about-telemetry-keyed-scalar-section = Skalar Berdasar Kunci
 about-telemetry-histograms-section = Histogram
-about-telemetry-keyed-histogram-section = { "  " }Histogram Berdasar Kunci
+about-telemetry-keyed-histogram-section = Histogram Berdasar Kunci
 about-telemetry-events-section = Acara
 about-telemetry-simple-measurements-section = Pengukuran Sederhana
 about-telemetry-slow-sql-section = Pernyataan SQL Lambat

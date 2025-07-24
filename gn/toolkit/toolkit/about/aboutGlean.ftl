@@ -96,7 +96,7 @@ about-glean-adhoc-explanation =
     <code>Glean.metricCategory.metricName.testGetValue()</code> ramo.
 # Do not translate strings between <code> </code> tags.
 about-glean-adhoc-explanation2 =
-    { " " }Eha’ãve hag̃ua <i>ad hoc</i>,
+    Eha’ãve hag̃ua <i>ad hoc</i>,
     avei ehechakuaa porupyrã repy ag̃aguáva mba’e heta’ỹva rehegua
     embojurujávo tembiporu mba’e’okarupa ñemboguataha ko’ápe <code>about:glean</code>-pe
     ha eiporúvo pe API <code>testGetValue()</code>

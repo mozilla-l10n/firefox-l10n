@@ -68,9 +68,9 @@ options-sourceeditor-keybinding-default-label = ڈیفالٹ
 # The heading (this item is also used in perftools.ftl)
 options-context-advanced-settings = ایڈوانسْڈ سیٹینگ
 # The label for checkbox that toggles JavaScript on or off
-options-disable-javascript-label = ڈیسیبْل کْریو جاوا سیکریپٹْہ  *{ " " }
+options-disable-javascript-label = ڈیسیبْل کْریو جاوا سیکریپٹْہ  *
 options-disable-javascript-tooltip =
-    .title = یہ اوپشن آن کرنْہ سْیت گژھ ڈیسیبْل جاوا سیکریپٹْہ موجود تیبس باپت۔ اگر ذن یہ ٹیب یا ٹول بوکْس بند کرنْہ یِیہ تیلہ یِیہ یہ سیٹینگ مْشراونْہ۔{ " " }
+    .title = یہ اوپشن آن کرنْہ سْیت گژھ ڈیسیبْل جاوا سیکریپٹْہ موجود تیبس باپت۔ اگر ذن یہ ٹیب یا ٹول بوکْس بند کرنْہ یِیہ تیلہ یِیہ یہ سیٹینگ مْشراونْہ۔
 # The label for checkbox that toggles remote debugging, i.e. the devtools.debugger.remote-enabled preference
 options-enable-remote-label = اینیبْل کْریو ریموٹ ڈیبگینگ
 # The message shown for settings that trigger page reload

@@ -15,8 +15,8 @@
 
 ## Used as list items in sharing menu
 
-webrtc-item-microphone = Jxukate wẽsenxi{ " " }
-webrtc-item-audio-capture = susnxi's txhuden{ " " }
+webrtc-item-microphone = Jxukate wẽsenxi
+webrtc-item-audio-capture = susnxi's txhuden
 
 ##
 
@@ -57,4 +57,3 @@ webrtc-sharing-menuitem =
 
 
 ##
-

@@ -37,11 +37,11 @@ cert-error-domain-mismatch-multiple = Los sites web pròvan lor identitat via de
 # Variables:
 #   $hostname (string) - Hostname of the website with cert error.
 #   $not-after-local-time (Date) - Certificate is not valid after this time.
-cert-error-expired-now = { " " }Los sites pròvan lor identitat via de certificats, que son pas que valids per un periòde de temps. Lo certificat per { $hostname } expira lo { $not-after-local-time }.
+cert-error-expired-now = Los sites pròvan lor identitat via de certificats, que son pas que valids per un periòde de temps. Lo certificat per { $hostname } expira lo { $not-after-local-time }.
 # Variables:
 #   $hostname (string) - Hostname of the website with cert error.
 #   $not-before-local-time (Date) - Certificate is not valid before this time.
-cert-error-not-yet-valid-now = { " " }Los sites pròvan lor identitat via de certificats, que son pas que valids per un periòde de temps. Lo certificat per { $hostname } serà pas valid fins al { $not-before-local-time }.
+cert-error-not-yet-valid-now = Los sites pròvan lor identitat via de certificats, que son pas que valids per un periòde de temps. Lo certificat per { $hostname } serà pas valid fins al { $not-before-local-time }.
 # Variables:
 #   $error (string) - NSS error code string that specifies type of cert error. e.g. unknown issuer, invalid cert, etc.
 cert-error-code-prefix = Còdi d’error : { $error }

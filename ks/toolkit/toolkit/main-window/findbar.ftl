@@ -41,5 +41,5 @@ findbar-found-matches-count-limit =
     .value =
         { $limit ->
             [one] { $limit } میچ کھوتْہ ذیادْ
-           *[other] { " " }{ $limit } میچ کھوتْہ ذیادْ
+           *[other] { $limit } میچ کھوتْہ ذیادْ
         }
