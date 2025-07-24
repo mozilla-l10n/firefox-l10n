@@ -342,3 +342,16 @@ multi-cta-fox-doodle-privacy-focused-subtitle =
        *[other] Ha din favorittnettleser med fokus på personvern bare ett klikk unna. Angi { -brand-short-name } som standardnettleser for å åpne lenker og fest den til oppgavelinjen.
     }
 multi-cta-fox-doodle-msix-privacy-focused-subtitle = Ha din favorittnettleser med fokus på personvern bare ett klikk unna. Angi { -brand-short-name } som standardnettleser for å åpne lenker, og fest den til oppgavelinjen og Start-menyen.
+
+## Windows 10 EoS Sync messages group 1 spotlight
+
+windows-10-eos-sync-spotlight-title = Skal du snart oppgradere fra Windows 10?
+windows-10-eos-sync-spotlight-subtitle = Ta sikkerhetskopi av passordene og bokmerkene dine, så du er klar til å ta spranget til hvilken som helst enhet.
+windows-10-eos-sync-spotlight-primary-label = Sikkerhetskopier din { -brand-short-name }
+
+## Windows 10 EoS Sync messages group 1 toast notification
+
+windows-10-eos-sync-toast-title = Oppgraderer du til Windows 11? Ikke mist bokmerker og passord.
+windows-10-eos-sync-toast-subtitle = Sikkerhetskopier dataene dine slik at { -brand-short-name } er klar til bruk når som helst, på denne PC-en eller den neste.
+windows-10-eos-sync-toast-primary-label = Kom i gang
+windows-10-eos-sync-toast-secondary-label = Minn meg på senere

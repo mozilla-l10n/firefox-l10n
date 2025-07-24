@@ -129,6 +129,7 @@ windows-10-eos-sync-general-title-2 = Nå er det et godt tidspunkt å sikkerhets
 windows-10-eos-sync-tour-title-1 = For mange faner? Rydd opp med fanegrupper.
 windows-10-eos-sync-tour-subtitle-1 = Dra én fane oppå en annen for å opprette en gruppe og holde ting organisert.
 windows-10-eos-sync-tour-title-2 = Bli organisert for Windows 11.
+windows-10-eos-sync-tour-subtitle-2 = Synkroniser bokmerkene, passordene og innstillingene dine for å sikkerhetskopiere dem før du bytter.
 
 ## Sidebar Strings
 

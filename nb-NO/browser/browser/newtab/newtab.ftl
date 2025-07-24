@@ -541,6 +541,12 @@ newtab-custom-wallpaper-title = Nå kan du velge din egen bakgrunn
 newtab-custom-wallpaper-subtitle = Last opp ditt eget bakgrunnsbilde eller velg en egendefinert farge for å gjøre { -brand-product-name } til ditt eget.
 newtab-custom-wallpaper-cta = Prøv det
 
+## Strings for new user activation custom wallpaper highlight
+
+newtab-new-user-custom-wallpaper-title = Velg et bakgrunnsbilde for å gjøre { -brand-product-name } til din egen
+newtab-new-user-custom-wallpaper-subtitle = Få hver nye fane til å føles som hjemme med tilpassede bakgrunner og farger.
+newtab-new-user-custom-wallpaper-cta = Prøv det nå
+
 ## Strings for download mobile highlight
 
 newtab-download-mobile-highlight-title = Last ned { -brand-product-name } for mobil
