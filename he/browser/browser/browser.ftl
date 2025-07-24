@@ -1410,3 +1410,36 @@ trustpanel-list-label-cryptominer =
         [one] כורה מטבעות דיגיטליים אחד
        *[other] { $count } כורי מטבעות דיגיטליים
     }
+trustpanel-social-tracking-blocking-tab-header =
+    { $count ->
+        [one] ‏{ -brand-product-name } חסם רכיב מעקב אחד של מדיה חברתית
+       *[other] ‏{ -brand-product-name } חסם { $count } רכיבי מעקב של מדיה חברתית
+    }
+trustpanel-social-tracking-not-blocking-tab-header =
+    { $count ->
+        [one] ‏{ -brand-product-name } איפשר רכיב מעקב אחד של מדיה חברתית
+       *[other] ‏{ -brand-product-name } איפשר { $count } רכיבי מעקב של מדיה חברתית
+    }
+trustpanel-social-tracking-tab-list-header = האתרים האלה מנסים לעקוב אחריך:
+trustpanel-tracking-cookies-blocking-tab-header =
+    { $count ->
+        [one] ‏{ -brand-product-name } חסם עוגיית מעקב אחת חוצה אתרים
+       *[other] ‏{ -brand-product-name } חסם { $count } עוגיות מעקב חוצות אתרים
+    }
+trustpanel-tracking-cookies-not-blocking-tab-header =
+    { $count ->
+        [one] ‏{ -brand-product-name } איפשר עוגיית מעקב אחת חוצה אתרים
+       *[other] ‏{ -brand-product-name } איפשר { $count } עוגיות מעקב חוצות אתרים
+    }
+trustpanel-tracking-cookies-tab-list-header = האתרים האלה מנסים לעקוב אחריך:
+trustpanel-tracking-content-blocking-tab-header =
+    { $count ->
+        [one] ‏{ -brand-product-name } חסם רכיב מעקב אחד
+       *[other] ‏{ -brand-product-name } חסם { $count } רכיבי מעקב
+    }
+trustpanel-tracking-content-not-blocking-tab-header =
+    { $count ->
+        [one] ‏{ -brand-product-name } איפשר רכיב מעקב אחד
+       *[other] ‏{ -brand-product-name } איפשר { $count } רכיבי מעקב
+    }
+trustpanel-tracking-content-tab-list-header = האתרים האלה מנסים לעקוב אחריך:
