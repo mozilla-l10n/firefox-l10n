@@ -122,6 +122,8 @@ shopping-avatar-alt =
     .alt = עגלת קניות
 star-avatar-alt =
     .alt = כוכב
+video-game-controller-avatar-alt =
+    .alt = בקר משחקי וידאו
 custom-avatar-alt =
     .alt = תמונה מייצגת מותאמת אישית
 

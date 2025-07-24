@@ -555,6 +555,7 @@ newtab-download-mobile-highlight-image =
 ## Strings for shortcuts highlight
 
 newtab-shortcuts-highlight-title = המועדפים שלך בקצות האצבעות
+newtab-shortcuts-highlight-subtitle = ניתן להוסיף קיצור דרך כדי לשמור את האתרים המועדפים עליך במרחק קליק אחד.
 
 ## Strings for reporting ads and content
 
