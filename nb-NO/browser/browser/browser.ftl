@@ -1392,6 +1392,11 @@ trustpanel-list-label-tracking-cookies =
        *[other] { $count } sporingsinfokapsler på tvers av nettsteder
     }
 trustpanel-list-label-tracking-content = Sporings-innhold
+trustpanel-list-label-fingerprinter =
+    { $count ->
+        [one] { $count } fingeravtrykkssporer
+       *[other] { $count } fingeravtrykkssporere
+    }
 trustpanel-list-label-cryptominer =
     { $count ->
         [one] { $count } kryptominer
