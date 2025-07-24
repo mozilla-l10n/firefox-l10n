@@ -143,7 +143,34 @@ book-avatar = ספר
 briefcase-avatar = מזוודה
 # Canvas refers to an artist's painting canvas, not the general material
 canvas-avatar = משטח ציור
+# Craft refers to hobby arts and crafts, represented by a button/fastener commonly found on clothing like shirts
+craft-avatar = כפתור
+custom-avatar = תמונה מייצגת מותאמת אישית
+# Default favicon refers to the generic globe/world icon that appears in browser tabs when a website doesn't have its own favicon.
+default-favicon-avatar = סמל ברירת מחדל
+# Diamond refers to the precious stone, not the geometric shape
+diamond-avatar = יהלום
 flower-avatar = פרח
+folder-avatar = תיקייה
+hammer-avatar = פטיש
 heart-avatar = לב
+heart-rate-avatar = לב
+history-avatar = היסטוריה
+leaf-avatar = עלה
+lightbulb-avatar = נורה
+makeup-avatar = איפור
+# Message refers to a text message, not a traditional letter/envelope message
+message-avatar = הודעה
+musical-note-avatar = תו מוזיקלי
+palette-avatar = לוח צבעים
+paw-print-avatar = טביעת כפה
+plane-avatar = מטוס
+# Present refers to a gift box, not the current time period
+present-avatar = מתנה
 shopping-avatar = עגלת קניות
+soccer-avatar = כדורגל
+sparkle-single-avatar = ניצוץ
 star-avatar = כוכב
+video-game-controller-avatar = בקר משחקי וידאו
+barbell-avatar = משקולת
+bike-avatar = אופניים

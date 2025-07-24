@@ -255,6 +255,8 @@ tab-group-editor-color-selector2-gray = אפור
 tab-group-editor-color-selector2-red = אדום
     .title = אדום
 tab-group-description = ‏{ $tabGroupName } - קבוצת לשוניות
+tab-group-label-tooltip-collapsed = ‏{ $tabGroupName } - מכווץ
+tab-group-label-tooltip-expanded = ‏{ $tabGroupName } - מורחב
 tab-context-unnamed-group =
     .label = קבוצה ללא שם
 tab-group-name-default = קבוצה ללא שם
@@ -301,6 +303,16 @@ tab-context-ungroup-tab =
            *[other] הסרה מהקבוצות
         }
     .accesskey = ה
+# When a tab group containing the active tab is collapsed, the active tab
+# remains visible. An indicator appears at the end of the group showing the
+# number of remaining tabs that are hidden by the collapsed group,
+# e.g. "+2" for a group with 3 total tabs.
+tab-group-overflow-count = +{ $tabCount }
+tab-group-overflow-count-tooltip =
+    { $tabCount ->
+        [one] עוד לשונית אחת
+       *[other] עוד { $tabCount } לשוניות
+    }
 
 ## Open/saved tab group context menu
 
