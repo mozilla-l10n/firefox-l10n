@@ -1158,6 +1158,10 @@ tabs-toolbar-list-all-tabs =
     .label = Lister tous les onglets
     .tooltiptext = Lister tous les onglets
 
+## Drop indicator text for pinned tabs when no tabs are pinned.
+
+pinned-tabs-drop-indicator = Déposez un onglet ici pour l’épingler
+
 ## Infobar shown at startup to suggest session-restore
 
 # <img data-l10n-name="icon"/> will be replaced by the application menu icon
@@ -1328,3 +1332,69 @@ onboarding-checklist-button-label = Terminer la configuration
 onboarding-aw-finish-setup-button =
     .label = Terminer la configuration
     .tooltiptext = Terminer la configuration de { -brand-short-name }
+
+## The urlbar trust panel
+
+trustpanel-etp-label-enabled = La protection renforcée contre le pistage est activée
+trustpanel-etp-label-disabled = La protection renforcée contre le pistage est désactivée
+# Variables
+#  $host (String): the hostname of the site that is being displayed.
+trustpanel-etp-toggle-on =
+    .aria-label = Protection renforcée contre le pistage : activée pour { $host }
+# Variables
+#  $host (String): the hostname of the site that is being displayed.
+trustpanel-etp-toggle-off =
+    .aria-label = Protection renforcée contre le pistage : désactivée pour { $host }
+trustpanel-etp-description-enabled = Si quelque chose semble ne pas fonctionner sur ce site, tentez de désactiver les protections.
+trustpanel-etp-description-disabled = { -brand-product-name } estime que les entreprises devraient moins vous pister. Nous bloquons autant de traqueurs que possible lorsque vous activez les protections.
+trustpanel-connection-label-secure = Connexion sécurisée
+trustpanel-connection-label-insecure = Connexion non sécurisée
+trustpanel-description-enabled = Vous êtes protégé·e. Si nous remarquons quelque chose, nous vous le ferons savoir
+trustpanel-header-disabled = Vous avez désactivé les protections
+trustpanel-clear-cookies-button = Effacer les cookies et les données de sites
+trustpanel-privacy-link = Paramètres de vie privée
+# Variables
+#  $host (String): the hostname of the site that is being displayed.
+trustpanel-clear-cookies-header =
+    .title = Effacer les cookies et les données de sites pour { $host }
+trustpanel-clear-cookies-description = Supprimer les cookies et les données de sites peut vous déconnecter de sites web et vider vos paniers d’achats.
+trustpanel-clear-cookies-subview-button-clear = Effacer
+trustpanel-clear-cookies-subview-button-cancel = Annuler
+# Variables
+#  $host (String): the hostname of the site that is being displayed.
+trustpanel-site-information-header =
+    .title = Protections de connexion pour { $host }
+trustpanel-connection-secure = Votre connexion à ce site est sécurisée.
+trustpanel-connection-not-secure = Votre connexion à ce site n’est pas sécurisée.
+trustpanel-siteinformation-morelink = Plus d’informations sur le site
+trustpanel-blocker-see-all = Tout afficher
+# Variables
+#  $host (String): the hostname of the site that is being displayed.
+trustpanel-blocker-header =
+    .title = Protections contre le pistage pour { $host }
+
+## Variables
+##  $count (String): the number of trackers blocked.
+
+trustpanel-blocker-section-header =
+    { $count ->
+        [one] <span>{ $count }</span> traqueur bloqué sur ce site
+       *[other] <span>{ $count }</span> traqueurs bloqués sur ce site
+    }
+trustpanel-blocker-description = { -brand-product-name } estime que les entreprises devraient moins vous pister. Nous bloquons donc tout ce que nous pouvons.
+trustpanel-blocked-header = { -brand-product-name } a bloqué ces éléments pour vous :
+trustpanel-tracking-header = { -brand-product-name } a autorisé ces éléments afin que les sites continuent de fonctionner :
+trustpanel-tracking-description = Sans les traqueurs, certains boutons, formulaires ou champs de connexion pourraient ne pas fonctionner.
+trustpanel-insecure-section-header = La connexion n’est pas sécurisée
+trustpanel-insecure-description = Les données que vous envoyez vers ce site ne sont pas chiffrées. Elles peuvent être consultées, dérobées ou modifiées.
+trustpanel-list-label-tracking-cookies =
+    { $count ->
+        [one] { $count } cookie de pistage intersites
+       *[other] { $count } cookies de pistage intersites
+    }
+trustpanel-list-label-tracking-content = Contenu utilisé pour le pistage
+trustpanel-list-label-fingerprinter =
+    { $count ->
+        [one] { $count } détecteur d’empreinte numérique
+       *[other] { $count } détecteurs d’empreinte numérique
+    }

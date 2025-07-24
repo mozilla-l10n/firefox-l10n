@@ -1365,6 +1365,12 @@ trustpanel-site-information-header =
     .title = Tilkoplingsvern for { $host }
 trustpanel-connection-secure = Du er sikkert kopla til denne nettstaden.
 trustpanel-connection-not-secure = Du er ikkje sikkert kopla til denne nettstaden.
+trustpanel-siteinformation-morelink = Meir informasjon om nettstaden
+trustpanel-blocker-see-all = Vis alle
+# Variables
+#  $host (String): the hostname of the site that is being displayed.
+trustpanel-blocker-header =
+    .title = Sporingsvern for { $host }
 
 ## Variables
 ##  $count (String): the number of trackers blocked.

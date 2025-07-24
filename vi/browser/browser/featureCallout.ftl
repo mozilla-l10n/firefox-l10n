@@ -112,6 +112,26 @@ fxa-adoption-passwords-subtitle = Bảo vệ mật khẩu của bạn bằng cá
 # Opens Mozilla accounts sign-up page
 fxa-adoption-passwords-primary-button-label = Đăng ký
 
+## Windows 10 EoS Sync messages group 1 callouts
+
+windows-10-eos-sync-urgency-title-1 = Đừng mất mọi thứ bạn đã lưu khi chuyển sang Windows 11.
+windows-10-eos-sync-urgency-subtitle-1 = Đồng bộ ngay để giữ cho dấu trang, mật khẩu và cài đặt { -brand-short-name } của bạn an toàn và dễ dàng khôi phục.
+windows-10-eos-sync-urgency-title-2 = Tạm biệt Windows 10? Hãy bảo vệ dữ liệu của bạn khi chuyển sang.
+windows-10-eos-sync-urgency-subtitle-2 = Ngay cả khi bạn không sử dụng { -brand-short-name } hàng ngày, hãy đồng bộ hóa để giữ cho dấu trang và mật khẩu an toàn và dễ truy cập.
+windows-10-eos-sync-new-device-title-1 = Đừng khởi đầu lại trên thiết bị tiếp theo của bạn.
+windows-10-eos-sync-new-device-subtitle-1 = Đồng bộ hóa để mang theo dấu trang { -brand-short-name }, mật khẩu và cài đặt ưa thích của bạn khi bạn di chuyển.
+windows-10-eos-sync-new-device-title-2 = Bạn sắp chuyển sang thiết bị mới? Đừng để mất những dữ liệu quan trọng.
+windows-10-eos-sync-new-device-subtitle-2 = Bất kể bạn sử dụng { -brand-short-name } như thế nào, tính năng đồng bộ hóa sẽ bảo vệ dấu trang, mật khẩu và cài đặt của bạn.
+windows-10-eos-sync-new-device-primary-label = Đồng bộ ngay
+windows-10-eos-sync-general-title-1 = Bảo vệ { -brand-short-name } mà bạn đã tạo ra.
+windows-10-eos-sync-general-subtitle-1 = Sao lưu và đồng bộ hóa mật khẩu, dấu trang, cài đặt và dữ liệu khác để bảo toàn những thông tin bạn đã lưu.
+windows-10-eos-sync-general-title-2 = Bây giờ là thời điểm thích hợp để sao lưu mật khẩu và dấu trang của bạn.
+windows-10-eos-sync-general-subtitle-2 = Đồng bộ ngay để bảo vệ những thông tin bạn tin tưởng { -brand-short-name } — và lấy lại thông tin đó ở bất kỳ đâu, bất kỳ lúc nào.
+windows-10-eos-sync-tour-title-1 = Quá nhiều thẻ? Hãy sắp xếp lại bằng cách nhóm thẻ.
+windows-10-eos-sync-tour-subtitle-1 = Kéo thẻ lên trên thẻ khác để tạo nhóm và sắp xếp mọi thứ ngăn nắp.
+windows-10-eos-sync-tour-title-2 = Sắp xếp mọi thứ cho Windows 11.
+windows-10-eos-sync-tour-subtitle-2 = Đồng bộ hóa dấu trang, mật khẩu và cài đặt của bạn để sao lưu trước khi chuyển sang.
+
 ## Sidebar Strings
 
 sidebar-button-callout-title = Hiển thị tiêu đề thẻ trong thanh lề
