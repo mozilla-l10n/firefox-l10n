@@ -1348,3 +1348,25 @@ trustpanel-privacy-link = 개인 정보 설정
 #  $host (String): the hostname of the site that is being displayed.
 trustpanel-clear-cookies-header =
     .title = { $host }에 대한 쿠키 및 사이트 데이터 지우기
+trustpanel-clear-cookies-description = 쿠키와 사이트 데이터를 제거하면 웹사이트에서 로그아웃되고 장바구니가 비워질 수 있습니다.
+trustpanel-clear-cookies-subview-button-clear = 지우기
+trustpanel-clear-cookies-subview-button-cancel = 취소
+# Variables
+#  $host (String): the hostname of the site that is being displayed.
+trustpanel-site-information-header =
+    .title = { $host }에 대한 연결 보호
+trustpanel-connection-secure = 이 사이트에 안전하게 연결되었습니다.
+trustpanel-connection-not-secure = 이 사이트에 안전하게 연결되어 있지 않습니다.
+trustpanel-siteinformation-morelink = 사이트 정보 더보기
+trustpanel-blocker-see-all = 모두 보기
+# Variables
+#  $host (String): the hostname of the site that is being displayed.
+trustpanel-blocker-header =
+    .title = { $host }에 대한 추적 보호
+
+## Variables
+##  $count (String): the number of trackers blocked.
+
+trustpanel-blocker-section-header = 이 사이트에서 <span>{ $count }</span>개의 추적기가 차단됨
+trustpanel-blocker-description = { -brand-product-name }는 회사가 사용자를 덜 팔로우해야 한다고 생각합니다. 그래서 우리는 가능한 한 많이 차단합니다.
+trustpanel-blocked-header = { -brand-product-name }가 다음 항목을 차단했습니다:
