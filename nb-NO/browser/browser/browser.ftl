@@ -1397,13 +1397,48 @@ trustpanel-list-label-fingerprinter =
         [one] { $count } fingeravtrykkssporer
        *[other] { $count } fingeravtrykkssporere
     }
+trustpanel-list-label-social-tracking =
+    { $count ->
+        [one] { $count } sporer via sosiale medier
+       *[other] { $count } sporere via sosiale medier
+    }
 trustpanel-list-label-cryptominer =
     { $count ->
-        [one] { $count } kryptominer
-       *[other] { $count } kryptominere
+        [one] { $count } kryptoutvinner
+       *[other] { $count } kryptoutvinnere
+    }
+trustpanel-social-tracking-blocking-tab-header =
+    { $count ->
+        [one] { -brand-product-name } blokkerte { $count } sporer via sosiale medier
+       *[other] { -brand-product-name } blokkerte { $count } sporere via sosiale medier
+    }
+trustpanel-social-tracking-not-blocking-tab-header =
+    { $count ->
+        [one] { -brand-product-name } tillot { $count } sporer via sosiale medier
+       *[other] { -brand-product-name } tillot { $count } sporere via sosiale medier
     }
 trustpanel-social-tracking-tab-list-header = Disse nettstedene prøver å spore deg:
+trustpanel-tracking-cookies-blocking-tab-header =
+    { $count ->
+        [one] { -brand-product-name } blokkerte { $count } sporingsinfokapsel på tvers av nettsteder
+       *[other] { -brand-product-name } blokkerte { $count } sporingsinfokapsler på tvers av nettsteder
+    }
+trustpanel-tracking-cookies-not-blocking-tab-header =
+    { $count ->
+        [one] { -brand-product-name } tillot { $count } sporingsinfokapsel på tvers av nettsteder
+       *[other] { -brand-product-name } tillot { $count } sporingsinfokapsler på tvers av nettsteder
+    }
 trustpanel-tracking-cookies-tab-list-header = Disse nettstedene prøver å spore deg:
+trustpanel-tracking-content-blocking-tab-header =
+    { $count ->
+        [one] { -brand-product-name } blokkerte { $count } sporer
+       *[other] { -brand-product-name } blokkerte { $count } sporere
+    }
+trustpanel-tracking-content-not-blocking-tab-header =
+    { $count ->
+        [one] { -brand-product-name } tillot { $count } sporer
+       *[other] { -brand-product-name } tillot { $count } sporere
+    }
 trustpanel-tracking-content-tab-list-header = Disse nettstedene prøver å spore deg:
 trustpanel-fingerprinter-blocking-tab-header =
     { $count ->
@@ -1414,5 +1449,15 @@ trustpanel-fingerprinter-not-blocking-tab-header =
     { $count ->
         [one] { -brand-product-name } tillot { $count } fingeravtrykkssporer
        *[other] { -brand-product-name } tillot { $count } fingeravtrykkssporere
+    }
+trustpanel-cryptominer-blocking-tab-header =
+    { $count ->
+        [one] { -brand-product-name } blokkerte { $count } kryptoutvinner
+       *[other] { -brand-product-name } blokkerte { $count } kryptoutvinnere
+    }
+trustpanel-cryptominer-not-blocking-tab-header =
+    { $count ->
+        [one] { -brand-product-name } tillot { $count } kryptoutvinner
+       *[other] { -brand-product-name } tillot { $count } kryptoutvinnere
     }
 trustpanel-cryptominer-tab-list-header = Disse nettstedene prøver å drive kryptomining:
