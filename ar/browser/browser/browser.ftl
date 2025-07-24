@@ -1353,3 +1353,7 @@ onboarding-aw-finish-setup-button =
 
 trustpanel-connection-label-secure = الاتصال آمن
 trustpanel-connection-label-insecure = الاتصال غير آمن
+trustpanel-privacy-link = إعدادات الخصوصية
+trustpanel-clear-cookies-subview-button-clear = امسح
+trustpanel-clear-cookies-subview-button-cancel = ألغِ
+trustpanel-blocker-see-all = اعرض الكل
