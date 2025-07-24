@@ -207,6 +207,9 @@ urlbar-result-menu-show-less-frequently =
     .label = Vis sjeldnere
 urlbar-result-menu-dont-show-weather-suggestions =
     .label = Ikke vis værforslag
+# Used for Split Button.
+urlbar-splitbutton-dropmarker =
+    .title = Åpne meny
 # A message shown in the urlbar when the user submits feedback on a suggestion
 # (e.g., it shows an inaccurate location, it's shown too often, etc.).
 urlbar-feedback-acknowledgment = Takk for tilbakemeldingen
@@ -823,6 +826,8 @@ urlbar-searchmode-default =
 urlbar-searchmode-popup-description = Søk denne gang med:
 urlbar-searchmode-popup-search-settings-menuitem =
     .label = Søkeinnstillinger
+# Label shown next to a new search engine in the Searchmode Switcher popup to promote it.
+urlbar-searchmode-new = Ny
 # Searchmode Switcher button
 # Variables:
 #   $engine (String): the current default search engine.
@@ -1150,6 +1155,10 @@ tabs-toolbar-list-all-tabs =
     .label = Vis liste over alle faner
     .tooltiptext = Vis liste over alle faner
 
+## Drop indicator text for pinned tabs when no tabs are pinned.
+
+pinned-tabs-drop-indicator = Slipp fanen her for å feste
+
 ## Infobar shown at startup to suggest session-restore
 
 # <img data-l10n-name="icon"/> will be replaced by the application menu icon
@@ -1320,3 +1329,8 @@ onboarding-checklist-button-label = Fullfør oppsettet
 onboarding-aw-finish-setup-button =
     .label = Fullfør oppsettet
     .tooltiptext = Fullfør oppsettet av { -brand-short-name }
+
+## The urlbar trust panel
+
+trustpanel-etp-label-enabled = Utvidet sporingsbeskyttelse er på
+trustpanel-etp-label-disabled = Utvidet sporingsbeskyttelse er av
