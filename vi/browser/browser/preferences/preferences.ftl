@@ -1242,7 +1242,7 @@ content-blocking-all-cookies = Tất cả cookie
 content-blocking-unvisited-cookies = Cookie từ các trang không mong muốn
 content-blocking-all-windows-tracking-content = Trình theo dõi nội dung trong tất cả cửa sổ
 content-blocking-all-cross-site-cookies = Tất cả cookie trên nhiều trang web
-content-blocking-cryptominers = Tiền điện tử
+content-blocking-cryptominers = Trình đào tiền điện tử
 content-blocking-fingerprinters = Dấu vết (Fingerprintng)
 # The known fingerprinters are those that are known for collecting browser fingerprints from user devices. And
 # the suspected fingerprinters are those that we are uncertain about browser fingerprinting activities. But they could
@@ -1284,7 +1284,7 @@ content-blocking-expand-section =
     .tooltiptext = Thông tin chi tiết
 # Cryptomining refers to using scripts on websites that can use a computer’s resources to mine cryptocurrency without a user’s knowledge.
 content-blocking-cryptominers-label =
-    .label = Tiền điện tử
+    .label = Trình đào tiền điện tử
     .accesskey = y
 # Browser fingerprinting is a method of tracking users by the configuration and settings information (their "digital fingerprint")
 # that is visible to websites they browse, rather than traditional tracking methods such as IP addresses and unique cookies.

@@ -147,6 +147,7 @@ perftools-presets-graphics-description = Réglage conçu pour examiner les bugs 
 perftools-presets-media-label = Multimédia
 perftools-presets-media-description2 = Réglage conçu pour examiner les bugs audio et vidéo dans { -brand-shorter-name }.
 perftools-presets-ml-label = Apprentissage automatique
+perftools-presets-ml-description2 = Réglage conçu pour examiner les bugs d’apprentissage automatique dans { -brand-shorter-name }.
 perftools-presets-networking-label = Réseau
 perftools-presets-networking-description = Réglage conçu pour examiner les bugs réseau dans { -brand-shorter-name }.
 # "Power" is used in the sense of energy (electricity used by the computer).

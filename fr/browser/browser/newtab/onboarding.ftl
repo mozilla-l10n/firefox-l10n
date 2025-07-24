@@ -448,10 +448,16 @@ onboarding-checklist-sign-up = Créer un compte ou vous connecter
 
 tab-groups-onboarding-feature-callout-title = Essayez les groupes d’onglets pour moins de distractions, plus de concentration
 tab-groups-onboarding-feature-callout-subtitle = Organisez vos onglets en faisant glisser un onglet au-dessus d’un autre pour créer votre premier groupe.
+# The text "list all tabs" refers to the string tabs-toolbar-list-all-tabs
+tab-groups-onboarding-create-group-title-3 = Retrouvez à tout moment vos groupes d’onglets dans le menu Lister tous les onglets.
 tab-groups-onboarding-create-group-title-2 = Retrouvez vos groupes d’onglets ici à tout moment.
 tab-groups-onboarding-create-group-no-alltabs-button-title = Retrouvez vos groupes en les recherchant dans la barre d’adresse.
+# The text "list all tabs" refers to the string tabs-toolbar-list-all-tabs
+tab-groups-onboarding-saved-groups-title-3 = Lorsque vous fermez un groupe d’onglets, vous pouvez le rouvrir à tout moment depuis le menu Lister tous les onglets.
 tab-groups-onboarding-saved-groups-title-2 = Lorsque vous fermez un groupe d’onglets, vous pouvez le rouvrir ici à tout moment.
 tab-groups-onboarding-saved-groups-no-alltabs-button-title-2 = Retrouvez les groupes fermés en les recherchant dans la barre d’adresse.
+# The text "list all tabs" refers to the string tabs-toolbar-list-all-tabs
+tab-groups-onboarding-session-restore-title-2 = Rouvrez vos groupes d’onglets à partir du menu Lister tous les onglets à tout moment.
 tab-groups-onboarding-session-restore-title = Rouvrez à tout moment vos groupes d’onglets ici.
 tab-groups-onboarding-dismiss = OK
 

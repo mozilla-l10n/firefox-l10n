@@ -45,8 +45,8 @@ tracker-tab-title = Trình theo dõi nội dung
 tracker-tab-description = Trang web có thể tải quảng cáo bên ngoài, video và nội dung khác với đoạn mã theo dõi. Chặn nội dung theo dõi có thể giúp các trang web tải nhanh hơn, nhưng một số nút, biểu mẫu và trường đăng nhập có thể không hoạt động. <a data-l10n-name="learn-more-link">Tìm hiểu thêm</a>
 fingerprinter-tab-title = Dấu vết
 fingerprinter-tab-content = Dấu vết thu thập cài đặt từ trình duyệt và máy tính của bạn để tạo hồ sơ về bạn. Sử dụng dấu vết kỹ thuật số này, họ có thể theo dõi bạn trên các trang web khác nhau. <a data-l10n-name="learn-more-link">Tìm hiểu thêm</a>
-cryptominer-tab-title = Tiền điện tử
-cryptominer-tab-content = Tiền điện tử sử dụng sức mạnh tính toán của hệ thống của bạn để khai thác tiền kỹ thuật số. Các tập lệnh mã hóa làm cạn kiệt pin của bạn, làm chậm máy tính của bạn và có thể tăng hóa đơn năng lượng của bạn. <a data-l10n-name="learn-more-link">Tìm hiểu thêm</a>
+cryptominer-tab-title = Trình đào tiền điện tử
+cryptominer-tab-content = Trình đào tiền điện tử sử dụng sức mạnh tính toán của hệ thống của bạn để khai thác tiền kỹ thuật số. Các tập lệnh mã hóa làm cạn kiệt pin của bạn, làm chậm máy tính của bạn và có thể tăng hóa đơn năng lượng của bạn. <a data-l10n-name="learn-more-link">Tìm hiểu thêm</a>
 protections-close-button2 =
     .aria-label = Đóng
     .title = Đóng
@@ -183,8 +183,8 @@ bar-tooltip-fingerprinter =
            *[other] { $count } dấu vết ({ $percentage }%)
         }
 bar-tooltip-cryptominer =
-    .title = Tiền điện tử
+    .title = Trình đào tiền điện tử
     .aria-label =
         { $count ->
-           *[other] { $count } tiền điện tử ({ $percentage }%)
+           *[other] { $count } trình đào tiền điện tử ({ $percentage }%)
         }

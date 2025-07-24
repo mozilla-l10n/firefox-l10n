@@ -29,6 +29,7 @@ about-logging-no-log-modules = Aucun
 about-logging-no-log-file = Aucun
 about-logging-logging-preset-selector-text = Réglage de journalisation :
 about-logging-with-profiler-stacks-checkbox = Activer les traces d’appels pour les messages du journal.
+about-logging-with-javascript-tracing-checkbox = Activer le traçage du JavaScript
 about-logging-menu =
     .title = Options avancées
 
@@ -51,6 +52,9 @@ about-logging-preset-webrtc-description = Modules de journalisation pour diagnos
 about-logging-preset-webcodecs-label = WebCodecs
 about-logging-preset-webcodecs-description = Modules de journalisation pour diagnostiquer les problèmes des décodeurs et encodeurs audio ou vidéo WebCodecs ainsi que des décodeurs d’images
 about-logging-preset-ml-label = Apprentissage automatique
+about-logging-preset-ml-description = Modules de journalisation pour diagnostiquer les problèmes d’apprentissage automatique
+about-logging-preset-web-compat-label = Compatibilité web
+about-logging-preset-web-compat-description = Modules de journalisation pour diagnostiquer les problèmes de compatibilité web
 about-logging-preset-webgpu-label = WebGPU
 about-logging-preset-webgpu-description = Modules de journalisation pour diagnostiquer les problèmes de WebGPU
 about-logging-preset-gfx-label = Accélération graphique
