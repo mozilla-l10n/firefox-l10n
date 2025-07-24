@@ -1370,3 +1370,5 @@ trustpanel-blocker-header =
 trustpanel-blocker-section-header = 이 사이트에서 <span>{ $count }</span>개의 추적기가 차단됨
 trustpanel-blocker-description = { -brand-product-name }는 회사가 사용자를 덜 팔로우해야 한다고 생각합니다. 그래서 우리는 가능한 한 많이 차단합니다.
 trustpanel-blocked-header = { -brand-product-name }가 다음 항목을 차단했습니다:
+trustpanel-tracking-header = { -brand-product-name }가 사이트가 깨지지 않도록 다음 항목을 허용했습니다:
+trustpanel-tracking-description = 추적기가 없으면 일부 버튼, 양식 및 로그인 필드가 작동하지 않을 수 있습니다.
