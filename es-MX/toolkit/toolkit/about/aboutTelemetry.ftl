@@ -23,13 +23,13 @@ about-telemetry-telemetry-dashboard = Los <a data-l10n-name="dashboard-link">tab
 about-telemetry-telemetry-probe-dictionary = El <a data-l10n-name="probe-dictionary-link">diccionario de sondeos</a> proporciona detalles y descripciones de los sondeos recopilados por Telemetry.
 about-telemetry-show-in-Firefox-json-viewer = Abrir en el visor de JSON
 about-telemetry-home-section = Inicio
-about-telemetry-general-data-section = { "  " }Datos generales
+about-telemetry-general-data-section = Datos generales
 about-telemetry-environment-data-section = Entorno de Datos
 about-telemetry-session-info-section = Información de la sesión
-about-telemetry-scalar-section = { " " }Escalares
+about-telemetry-scalar-section = Escalares
 about-telemetry-keyed-scalar-section = Escalares con llave
 about-telemetry-histograms-section = Histogramas
-about-telemetry-keyed-histogram-section = { "  " }Histogramas claves
+about-telemetry-keyed-histogram-section = Histogramas claves
 about-telemetry-events-section = Eventos
 about-telemetry-simple-measurements-section = Medidas simples
 about-telemetry-slow-sql-section = Sentencias SQL lentas

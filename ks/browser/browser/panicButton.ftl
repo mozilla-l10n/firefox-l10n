@@ -26,6 +26,6 @@ panic-button-day =
 ## words "Cookies", "History", "Tabs" and "Windows". The translation should do the same.
 
 panic-button-action-desc = پروسیڈینگ وِل:
-panic-button-delete-cookies = ڈیلیٹ کْریو تازْ <strong>Cookies</strong>{ " " }
-panic-button-delete-history = ڈیلیٹ کْریو تازْ <strong>History</strong>{ " " }
-panic-button-delete-tabs-and-windows = بند کْریو تمام <strong>Tabs</strong> and <strong>Windows</strong>{ " " }
+panic-button-delete-cookies = ڈیلیٹ کْریو تازْ <strong>Cookies</strong>
+panic-button-delete-history = ڈیلیٹ کْریو تازْ <strong>History</strong>
+panic-button-delete-tabs-and-windows = بند کْریو تمام <strong>Tabs</strong> and <strong>Windows</strong>

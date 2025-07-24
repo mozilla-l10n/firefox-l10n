@@ -184,5 +184,5 @@ main-context-menu-bidi-switch-page =
     .label = صفحہ سمت   بدلٲویو
     .accesskey = D
 main-context-menu-eme-learn-more =
-    .label = مزید ہیچھیوDRM…مُتلق{ " " }
+    .label = مزید ہیچھیوDRM…مُتلق
     .accesskey = D

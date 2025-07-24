@@ -13,7 +13,7 @@ psmerr-ssl2-disabled = No se puede conectar de forma segura porque el sitio usa 
 # This is a multi-line message.
 psmerr-hostreusedissuerandserial =
     Recibiste un certificado no válido. Ponte en contacto con el administrador del servidor o envíales un correo con la siguiente información:
-    
+
     Su certificado contiene el mismo número de serie que otro certificado expedido por la autoridad certificadora. Obtengan un nuevo certificado que contenga un número de serie único.
 ssl-error-export-only-server = No es posible comunicar de forma segura. El otro extremo de la conexión no admite cifrado de grado alto.
 ssl-error-us-only-server = No es posible comunicar de forma segura. El otro extremo de la conexión requiere cifrado de grado alto que no está admitido.
@@ -320,7 +320,7 @@ sec-error-cert-signature-algorithm-disabled = El certificado se firmó usando un
 mozilla-pkix-error-key-pinning-failure = Este servidor usa key pinning (HPKP) pero no se ha podido construir una cadena de certificados confiables que coincida con el pinset. Las violaciones de key pinning no se pueden solventar.
 mozilla-pkix-error-ca-cert-used-as-end-entity = El servidor usa un certificado con una extensión básica de restricciones que lo identifica como autoridad de certificación. Esto no debería ser el caso para un certificado emitido correctamente.
 mozilla-pkix-error-inadequate-key-size = El servidor ha presentado un certificado con un tamaño de clave que es demasiado pequeño para establecer una conexión segura.
-mozilla-pkix-error-v1-cert-used-as-ca = Un certificado X.509 versión 1 que no sea un anclar confiable se usó para emitir el certificado del servidor. Certificados X.509 versión 1 son obsoletos y no se deben usar para firmar otros certificados.{ "   " }
+mozilla-pkix-error-v1-cert-used-as-ca = Un certificado X.509 versión 1 que no sea un anclar confiable se usó para emitir el certificado del servidor. Certificados X.509 versión 1 son obsoletos y no se deben usar para firmar otros certificados.
 mozilla-pkix-error-not-yet-valid-certificate = El servidor ha presentado un certificado que aún no es válido.
 mozilla-pkix-error-not-yet-valid-issuer-certificate = Se ha usado un certificado que aún no es válido para emitir el certificado del servidor.
 mozilla-pkix-error-signature-algorithm-mismatch = El algoritmo de firma en el campo de firma del certificado no concuerda con el algoritmo en su campo signatureAlgorithm.

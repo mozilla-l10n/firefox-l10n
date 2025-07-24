@@ -91,7 +91,7 @@ menu-edit-bidi-switch-text-direction =
 ## View Menu
 
 menu-view =
-    .label = تئ وچھیو{ "  " }
+    .label = تئ وچھیو
     .accesskey = V
 menu-view-toolbars-menu =
     .label = ٹول بارز
@@ -166,7 +166,7 @@ menu-history-undo-window-menu =
 ## Bookmarks Menu
 
 menu-bookmarks-menu =
-    .label = نشانئ زد{ " " }
+    .label = نشانئ زد
     .accesskey = B
 menu-bookmarks-all-tabs =
     .label = سارنی ٹیبن تھٲویو نشان

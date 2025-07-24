@@ -46,7 +46,7 @@ findbar-entire-word-status =
 findbar-found-matches =
     .value =
         { $total ->
-            [one] { $current } of { $total } মিল{ " " }
+            [one] { $current } of { $total } মিল
            *[other] { $current } of { $total } মিলগুলি
         }
 

@@ -41,5 +41,5 @@ findbar-found-matches-count-limit =
     .value =
         { $limit ->
             [one] { $limit } ମେଳକରୁ ଅଧିକ
-           *[other] { " " }{ $limit } ମେଳକରୁ ଅଧିକ
+           *[other] { $limit } ମେଳକରୁ ଅଧିକ
         }

@@ -10,5 +10,5 @@
 input-file-and-more-files =
     { $fileCount ->
         [one] Vxite teeçxsa' jweiçxaa
-       *[other] { " " }vxite { $fileCount } jweiçxaa.
+       *[other] Vxite { $fileCount } jweiçxaa.
     }

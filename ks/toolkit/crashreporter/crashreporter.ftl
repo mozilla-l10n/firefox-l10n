@@ -2,7 +2,7 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-crashreporter-plea = { " " }اسِہ مدد کرنْہ باپت پرابلیمن ہُند انداز لگاونس منز  تْہ تم ٹھیک کرنْس منز، توہیہ ہیکیو سوزِتھ اسِہ اکھ کریش رپورٹ۔
+crashreporter-plea = اسِہ مدد کرنْہ باپت پرابلیمن ہُند انداز لگاونس منز  تْہ تم ٹھیک کرنْس منز، توہیہ ہیکیو سوزِتھ اسِہ اکھ کریش رپورٹ۔
 # $details (String) - the reason that a crash report cannot be submitted
 crashreporter-error-details = تفصیل: { $details }
 crashreporter-no-run-message = یہ ایپلیکیشن چھ رن کرنْہ یوان أکس کریشس پتْہ رپورٹ کرنْہ باپت اکھ پرابلیم ایپلیکیشن وینڈرس۔ یہ گژھ نْہ سیدِ سیود رن کرنْہ یِن۔
@@ -23,4 +23,3 @@ crashreporter-button-close = بند
 crashreporter-crash-identifier = کریش آی ڈی:{ $id }
 
 # Error strings
-

@@ -61,6 +61,6 @@ tab-context-send-tabs-to-device =
     .label =
         { $tabCount ->
             [one] ডিভাইসে ট্যাব পাঠান
-           *[other] { " " }ডিভাইসে { $tabCount } ট্যাব পাঠান
+           *[other] ডিভাইসে { $tabCount } ট্যাব পাঠান
         }
     .accesskey = n

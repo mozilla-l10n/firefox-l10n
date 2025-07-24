@@ -4,7 +4,7 @@
 
 crashreporter-title = Pta'sxni ewme'\u0020
 crashreporter-crash-message = { -brand-short-name } teeçx yuwe uynxisa' aphnxi neeyũuna.
-crashreporter-plea = { " " }Pu'çxna ma'wẽ piyatepa jiyuya' vxite yuwe ewmeesa's phewujxya', kaajxa' ewuma'k teeçx pta'sxnxi ewmeesa's.
+crashreporter-plea = Pu'çxna ma'wẽ piyatepa jiyuya' vxite yuwe ewmeesa's phewujxya', kaajxa' ewuma'k teeçx pta'sxnxi ewmeesa's.
 # $details (String) - the reason that a crash report cannot be submitted
 crashreporter-error-details = Na'wẽ: { $details }
 crashreporter-no-run-message = Naa vxisnxi's mjĩiya' teeçx ewmees'as  pta'sxna yuwe ewmeesa'k txhuhdena vxi'wa'j. mjĩiya' yuunxi yuwene'ga .
@@ -25,4 +25,3 @@ crashreporter-button-close = Aphnxi
 crashreporter-crash-identifier = ID ewmeesaa: { $id }
 
 # Error strings
-

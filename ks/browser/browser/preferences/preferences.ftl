@@ -75,7 +75,7 @@ applications-action-column =
     .accesskey = A
 # Variables:
 #   $extension (String) - file extension (e.g .TXT)
-applications-file-ending = { $extension } فائل{ " " }
+applications-file-ending = { $extension } فائل
 applications-action-save =
     .label = فایل كریو محفوظ
 # Variables:

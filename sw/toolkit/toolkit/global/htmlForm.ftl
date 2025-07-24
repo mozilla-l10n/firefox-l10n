@@ -10,7 +10,7 @@
 input-file-and-more-files =
     { $fileCount ->
         [one] ongeza moja
-       *[other] { " " }na nyingine { $fileCount }
+       *[other] na nyingine { $fileCount }
     }
 form-post-secure-to-insecure-warning-title = Onyo la Usalama
 form-post-secure-to-insecure-warning-continue = Endelea

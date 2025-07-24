@@ -33,6 +33,6 @@ settings-update-manual-with-link = Kunanpayashkakuna shinankapak -pi <a data-l10
 
 # Variables:
 #   $channel (String): description of the update channel (e.g. "release", "beta", "nightly" etc.)
-aboutdialog-channel-description = Witkuta arikuhun <label data-l10n-name="current-channel">{ $channel }</label> witkuta kunanpayana.{ " " }
+aboutdialog-channel-description = Witkuta arikuhun <label data-l10n-name="current-channel">{ $channel }</label> witkuta kunanpayana.
 bottomLinks-license = Nikikta willanata
 bottomLinks-privacy = Ñukapallak kapakkamay

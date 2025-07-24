@@ -10,10 +10,10 @@
 input-file-and-more-files =
     { $fileCount ->
         [one] tsenya ele nngwe gape
-       *[other] { " " }le { $fileCount } gape
+       *[other] le { $fileCount } gape
     }
 form-post-secure-to-insecure-warning-title = Tsiboso ya Pabalesego
 form-post-secure-to-insecure-warning-message =
     Tshedimosetso e o e tsentseng mo tsebeng e, e tla romelwa ka kgolagano e e sa sirelediwang mme go na le kgonagalo ya go ka buisiwa ke motho mongwe fela.
-    
+
     A o netefatsa gore o batla go romela tshedimosetso eno?

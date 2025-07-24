@@ -40,7 +40,7 @@ findbar-found-matches =
     .value =
         { $total ->
             [one] { $total } तली { $current } जोडी
-           *[other] { " " }{ $total } जोडी तली { $current }
+           *[other] { $total } जोडी तली { $current }
         }
 
 # Variables:

@@ -13,7 +13,7 @@
 pending-crash-reports-message =
     { $reportCount ->
         [one] আপনার একটা না যাওয়া ক্র্যাশ রিপোর্ট আছে
-       *[other] { " " }আপনার { $reportCount } না যাওয়া ক্র্যাশ রিপোর্ট আছে
+       *[other] আপনার { $reportCount } না যাওয়া ক্র্যাশ রিপোর্ট আছে
     }
 pending-crash-reports-view-all =
     .label = প্রদর্শন

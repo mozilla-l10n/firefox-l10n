@@ -73,7 +73,7 @@ webrtc-indicator-menuitem-sharing-camera-with-n-tabs =
     .label =
         { $tabCount ->
             [one] { $tabCount } टॅबासंयत कॅमेरा वाटून घेता
-           *[other] { "  " }{ $tabCount } टॅबांसंयत कॅमेरा वाटून घेता
+           *[other] { $tabCount } टॅबांसंयत कॅमेरा वाटून घेता
         }
 
 webrtc-indicator-menuitem-sharing-microphone-with =
@@ -82,7 +82,7 @@ webrtc-indicator-menuitem-sharing-microphone-with-n-tabs =
     .label =
         { $tabCount ->
             [one] { $tabCount } टॅबासंयत मायक्रोफोन वाटून घेता
-           *[other] { "  " }{ $tabCount } टॅबांसंयत मायक्रोफोन वाटून घेता
+           *[other] { $tabCount } टॅबांसंयत मायक्रोफोन वाटून घेता
         }
 
 webrtc-indicator-menuitem-sharing-application-with =
@@ -91,7 +91,7 @@ webrtc-indicator-menuitem-sharing-application-with-n-tabs =
     .label =
         { $tabCount ->
             [one] { $tabCount } टॅबासंयत अनुप्रयोग वाटून घेता
-           *[other] { "  " }{ $tabCount } टॅबांसंयत अनुप्रयोग वाटून घेता
+           *[other] { $tabCount } टॅबांसंयत अनुप्रयोग वाटून घेता
         }
 
 webrtc-indicator-menuitem-sharing-screen-with =
@@ -100,7 +100,7 @@ webrtc-indicator-menuitem-sharing-screen-with-n-tabs =
     .label =
         { $tabCount ->
             [one] { $tabCount } टॅबासंयत पड्डो वाटून घेता
-           *[other] { "  " }{ $tabCount } टॅबांसंयत पड्डो वाटून घेता
+           *[other] { $tabCount } टॅबांसंयत पड्डो वाटून घेता
         }
 
 webrtc-indicator-menuitem-sharing-window-with =
@@ -109,7 +109,7 @@ webrtc-indicator-menuitem-sharing-window-with-n-tabs =
     .label =
         { $tabCount ->
             [one] { $tabCount } टॅबासंयत विंडो वाटून घेता
-           *[other] { "  " }{ $tabCount } टॅबांसंयत विंडो वाटून घेता
+           *[other] { $tabCount } टॅबांसंयत विंडो वाटून घेता
         }
 
 webrtc-indicator-menuitem-sharing-browser-with =
@@ -140,4 +140,3 @@ webrtc-share-application =
 
 
 ##
-

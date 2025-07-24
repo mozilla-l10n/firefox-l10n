@@ -32,7 +32,7 @@ update-restarting = Inaanzishwa tena
 
 # Variables:
 #   $channel (String): description of the update channel (e.g. "release", "beta", "nightly" etc.)
-aboutdialog-channel-description = Kwa sasa uko kwenye<label data-l10n-name="current-channel">{ $channel }</label> sasisha idhaa.{ " " }
+aboutdialog-channel-description = Kwa sasa uko kwenye<label data-l10n-name="current-channel">{ $channel }</label> sasisha idhaa.
 warningDesc-version = { -brand-short-name } ni ya kujaribia na inaweza kuwa si thabiti.
 community-exp = <label data-l10n-name="community-exp-mozillaLink">{ -vendor-short-name }</label> ni <label data-l10n-name="community-exp-creditsLink">jamii ya ulimwengu</label> kufanya kazi pamoja ili kuweka Wavuti wazi, kwa umma na ufikiaji kwa wote.
 community-2 = { -brand-short-name } imeundwa na <label data-l10n-name="community-mozillaLink">{ -vendor-short-name }</label>, a <label data-l10n-name="community-creditsLink">jamii ya ulimwengu</label> kufanya kazi pamoja ili kuweka Wavuti wazi, kwa umma na ufikiaji kwa wote.

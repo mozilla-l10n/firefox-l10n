@@ -43,7 +43,7 @@ update-internal-error2 = Não foi possível verificar se há atualizações devi
 
 # Variables:
 #   $channel (String): description of the update channel (e.g. "release", "beta", "nightly" etc.)
-aboutdialog-channel-description = Usando o canal de atualização <label data-l10n-name="current-channel">{ $channel }</label>.{ " " }
+aboutdialog-channel-description = Usando o canal de atualização <label data-l10n-name="current-channel">{ $channel }</label>.
 warningDesc-version = O { -brand-short-name } é experimental e pode ser instável.
 aboutdialog-help-user = Ajuda do { -brand-product-name }
 aboutdialog-submit-feedback = Enviar opinião

@@ -22,6 +22,6 @@ set-background-center =
 set-background-stretch =
     .label = پھیلأیو
 set-background-fill =
-    .label = بھْریو{ " " }
+    .label = بھْریو
 set-background-fit =
     .label = صحیح

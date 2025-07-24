@@ -23,13 +23,13 @@ about-telemetry-telemetry-dashboard = <a data-l10n-name="dashboard-link">Тел�
 about-telemetry-telemetry-probe-dictionary = <a data-l10n-name="probe-dictionary-link">Зондтар сөздігі</a> Телеметрия жинаған зондтар ақпаратын және сипаттамасын сақтайды.
 about-telemetry-show-in-Firefox-json-viewer = JSON көрсетушісінде ашу
 about-telemetry-home-section = Үй
-about-telemetry-general-data-section = { "  " }Жалпы деректер
+about-telemetry-general-data-section = Жалпы деректер
 about-telemetry-environment-data-section = Қоршам деректері
 about-telemetry-session-info-section = Сессия ақпараты
 about-telemetry-scalar-section = Скалярлы шамалар
 about-telemetry-keyed-scalar-section = Кілт бойынша скалярлы шамалар
 about-telemetry-histograms-section = Гистограммалар
-about-telemetry-keyed-histogram-section = { "  " }Пернелер гистограммалары
+about-telemetry-keyed-histogram-section = Пернелер гистограммалары
 about-telemetry-events-section = Оқиғалар
 about-telemetry-simple-measurements-section = Қарапайым өлшемдер
 about-telemetry-slow-sql-section = Баяу SQL сұраныстары

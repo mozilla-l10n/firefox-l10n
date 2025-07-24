@@ -4,7 +4,7 @@
 
 about-mozilla-title-6-27 = Libro de Mozilla, 6:27
 about-mozilla-quote-6-27 =
-    { " " }Le Bestia ha continuate su studios con renovate <em>Foco</em>, producente optime labores de>
+    Le Bestia ha continuate su studios con renovate <em>Foco</em>, producente optime labores de>
     <em>Referentia</em> e contemplante nove <em>Realitates</em>. Le Bestia ha guidate su sequaces e
     acolytos pro crear un renovate plus agile forma de se mesme e, per medios <em>Malitiose</em>,
     lo ha inviate tra le mundo.

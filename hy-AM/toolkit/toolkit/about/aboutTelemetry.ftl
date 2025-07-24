@@ -23,13 +23,13 @@ about-telemetry-telemetry-dashboard = <a data-l10n-name="dashboard-link">Հեռ�
 about-telemetry-telemetry-probe-dictionary = <a data-l10n-name="probe-dictionary-link">Զննության բառարանը</a> մատակարարում է մանրամասնություններ և նկարագրություններ զննությունների համար, որոնք հավաքվել են հեռուսաչափության կողմից։
 about-telemetry-show-in-Firefox-json-viewer = Բացել JSON դիտումում
 about-telemetry-home-section = Տուն
-about-telemetry-general-data-section = { "  " }Գլխավոր տվյալներ
+about-telemetry-general-data-section = Գլխավոր տվյալներ
 about-telemetry-environment-data-section = Միջավայրի տվյալ
 about-telemetry-session-info-section = Տեղեկություն աշխատաշրջանի մասին
 about-telemetry-scalar-section = Կշեռքներ
 about-telemetry-keyed-scalar-section = Բանալիացուած մենարժէք
 about-telemetry-histograms-section = Գծապատկերներ
-about-telemetry-keyed-histogram-section = { "  " }Ստեղնաշարային հիստոգրամներ
+about-telemetry-keyed-histogram-section = Ստեղնաշարային հիստոգրամներ
 about-telemetry-events-section = Իրադարձություններ
 about-telemetry-simple-measurements-section = Պարզ չափումներ
 about-telemetry-slow-sql-section = Ցուցադրել SQL-ի առաջարկությունը

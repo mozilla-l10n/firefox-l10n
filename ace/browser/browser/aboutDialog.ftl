@@ -39,7 +39,7 @@ update-restarting = Ulang keulayi…
 
 # Variables:
 #   $channel (String): description of the update channel (e.g. "release", "beta", "nightly" etc.)
-aboutdialog-channel-description = Jinoë droëneuh teungoh na di <label data-l10n-name="current-channel">{ $channel }</label> peubarô saluran.{ " " }
+aboutdialog-channel-description = Jinoë droëneuh teungoh na di <label data-l10n-name="current-channel">{ $channel }</label> peubarô saluran.
 warningDesc-version = { -brand-short-name } mantöng geuujoe ngon mungkén hana stabil.
 aboutdialog-submit-feedback = Peuét Peunadan
 community-exp = <label data-l10n-name="community-exp-mozillaLink">{ -vendor-short-name }</label> nakeuh saboh <label data-l10n-name="community-exp-creditsLink">kawôm dônya</label> meuseuraya keu keumiët Web bah teuhah sabé, umum ngon mangat jeuet geupeuhah lé mandum ureueng.
