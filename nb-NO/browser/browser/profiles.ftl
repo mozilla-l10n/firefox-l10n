@@ -130,18 +130,82 @@ hammer-avatar-alt =
     .alt = Hammer
 heart-avatar-alt =
     .alt = Hjerte
+heart-rate-avatar-alt =
+    .alt = Hjertefrekvens
+history-avatar-alt =
+    .alt = Historie
+leaf-avatar-alt =
+    .alt = Blad
+lightbulb-avatar-alt =
+    .alt = Lyspære
+makeup-avatar-alt =
+    .alt = Sminke
+# Message refers to a text message, not a traditional letter/envelope message
+message-avatar-alt =
+    .alt = Melding
+musical-note-avatar-alt =
+    .alt = Musikknote
+palette-avatar-alt =
+    .alt = Palett
+paw-print-avatar-alt =
+    .alt = Poteavtrykk
+plane-avatar-alt =
+    .alt = Fly
+# Present refers to a gift box, not the current time period
+present-avatar-alt =
+    .alt = Gave
 shopping-avatar-alt =
     .alt = Handlevogn
+soccer-avatar-alt =
+    .alt = Fotball
+sparkle-single-avatar-alt =
+    .alt = Glitre
 star-avatar-alt =
     .alt = Stjerne
+video-game-controller-avatar-alt =
+    .alt = Videospillkontroller
 custom-avatar-alt =
     .alt = Tilpasset avatar
+# Diamond refers to the precious stone, not the geometric shape
+diamond-avatar-alt =
+    .alt = Diamant
+barbell-avatar-alt =
+    .alt = Vektstang
+bike-avatar-alt =
+    .alt = Sykkel
 
 ## Labels for default avatar icons
 
 book-avatar = Bok
 briefcase-avatar = Dokumentmappe
+# Canvas refers to an artist's painting canvas, not the general material
+canvas-avatar = Lerret
+# Craft refers to hobby arts and crafts, represented by a button/fastener commonly found on clothing like shirts
+craft-avatar = Håndverk
+custom-avatar = Tilpasset avatar
+# Diamond refers to the precious stone, not the geometric shape
+diamond-avatar = Diamant
 flower-avatar = Blomst
+folder-avatar = Mappe
+hammer-avatar = Hammer
 heart-avatar = Hjerte
+heart-rate-avatar = Hjertefrekvens
+history-avatar = Historie
+leaf-avatar = Blad
+lightbulb-avatar = Lyspære
+makeup-avatar = Sminke
+# Message refers to a text message, not a traditional letter/envelope message
+message-avatar = Melding
+musical-note-avatar = Musikknote
+palette-avatar = Palett
+paw-print-avatar = Poteavtrykk
+plane-avatar = Fly
+# Present refers to a gift box, not the current time period
+present-avatar = Gave
 shopping-avatar = Handlevogn
+soccer-avatar = Fotball
+sparkle-single-avatar = Glitre
 star-avatar = Stjerne
+video-game-controller-avatar = Videospillkontroller
+barbell-avatar = Vektstang
+bike-avatar = Sykkel
