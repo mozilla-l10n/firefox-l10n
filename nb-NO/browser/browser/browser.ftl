@@ -1334,3 +1334,16 @@ onboarding-aw-finish-setup-button =
 
 trustpanel-etp-label-enabled = Utvidet sporingsbeskyttelse er på
 trustpanel-etp-label-disabled = Utvidet sporingsbeskyttelse er av
+# Variables
+#  $host (String): the hostname of the site that is being displayed.
+trustpanel-etp-toggle-on =
+    .aria-label = Utvidet sporingsbeskyttelse: På for { $host }
+# Variables
+#  $host (String): the hostname of the site that is being displayed.
+trustpanel-etp-toggle-off =
+    .aria-label = Utvidet sporingsbeskyttelse: Av for { $host }
+trustpanel-etp-description-enabled = Hvis noe ser ødelagt ut på dette nettstedet, prøv å slå av beskyttelsen.
+trustpanel-etp-description-disabled = { -brand-product-name } mener at selskaper burde følge deg mindre. Vi blokkerer så mange sporere som mulig når du slår på beskyttelse.
+trustpanel-connection-label-secure = Tilkoblingen er sikker
+trustpanel-connection-label-insecure = Tilkoblingen er ikke sikker
+trustpanel-header-enabled = { -brand-product-name } er på vakt
