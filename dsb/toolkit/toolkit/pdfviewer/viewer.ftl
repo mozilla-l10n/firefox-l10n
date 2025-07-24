@@ -528,6 +528,11 @@ pdfjs-editor-alt-text-settings-show-dialog-button-label = Editor alternatiwnego 
 pdfjs-editor-alt-text-settings-show-dialog-description = Pomaga, wam wšym swójim wobrazam alternatiwny tekst pśidaś.
 pdfjs-editor-alt-text-settings-close-button = Zacyniś
 
+## Accessibility labels (announced by screen readers) for objects added to the editor.
+
+pdfjs-editor-stamp-added-alert = Wobraz pśidany
+pdfjs-editor-signature-added-alert = Signatura pśidana
+
 ## "Annotations removed" bar
 
 pdfjs-editor-undo-bar-message-highlight = Wótwónoźone wuzwignuś

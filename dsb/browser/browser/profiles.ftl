@@ -158,16 +158,56 @@ shopping-avatar-alt =
     .alt = Nakupowański wózyk
 soccer-avatar-alt =
     .alt = Kopańca
+sparkle-single-avatar-alt =
+    .alt = Błyskanje
 star-avatar-alt =
     .alt = Gwězda
+video-game-controller-avatar-alt =
+    .alt = Kontroler za wideograśa
 custom-avatar-alt =
     .alt = Swójski awatar
+# Default favicon refers to the generic globe/world icon that appears in browser tabs when a website doesn't have its own favicon.
+default-favicon-avatar-alt =
+    .alt = Standardny fawikon
+# Diamond refers to the precious stone, not the geometric shape
+diamond-avatar-alt =
+    .alt = Diamant
+barbell-avatar-alt =
+    .alt = Hantla
 
 ## Labels for default avatar icons
 
 book-avatar = Knigły
 briefcase-avatar = Listowka
+# Canvas refers to an artist's painting canvas, not the general material
+canvas-avatar = Canvas
+# Craft refers to hobby arts and crafts, represented by a button/fastener commonly found on clothing like shirts
+craft-avatar = Rucnikaŕstwo
+custom-avatar = Swójski awatar
+# Default favicon refers to the generic globe/world icon that appears in browser tabs when a website doesn't have its own favicon.
+default-favicon-avatar = Standardny fawikon
+# Diamond refers to the precious stone, not the geometric shape
+diamond-avatar = Diamant
 flower-avatar = Kwětk
+folder-avatar = Zarědnik
+hammer-avatar = Klapac
 heart-avatar = Wutšoba
+heart-rate-avatar = Dybot wutšoby
+history-avatar = Historija
+leaf-avatar = Łopjeno
+lightbulb-avatar = Žaglawka
+makeup-avatar = Makeup
+# Message refers to a text message, not a traditional letter/envelope message
+message-avatar = Powěsć
+musical-note-avatar = Muzikowa nota
+palette-avatar = Paleta
+paw-print-avatar = Wótśišć pace
+plane-avatar = Lětadło
+# Present refers to a gift box, not the current time period
+present-avatar = Dar
 shopping-avatar = Nakupowański wózyk
+soccer-avatar = Kopańca
+sparkle-single-avatar = Błyskanje
 star-avatar = Gwězda
+video-game-controller-avatar = Kontroler za wideograśa
+barbell-avatar = Hantla

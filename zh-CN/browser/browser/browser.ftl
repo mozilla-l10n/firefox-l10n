@@ -207,6 +207,9 @@ urlbar-result-menu-show-less-frequently =
     .label = 减少显示
 urlbar-result-menu-dont-show-weather-suggestions =
     .label = 不再显示天气建议
+# Used for Split Button.
+urlbar-splitbutton-dropmarker =
+    .title = 打开菜单
 # A message shown in the urlbar when the user submits feedback on a suggestion
 # (e.g., it shows an inaccurate location, it's shown too often, etc.).
 urlbar-feedback-acknowledgment = 感谢反馈
@@ -1310,3 +1313,9 @@ onboarding-checklist-button-label = 完成设置
 onboarding-aw-finish-setup-button =
     .label = 完成设置
     .tooltiptext = 完成对 { -brand-short-name } 的设置
+
+## The urlbar trust panel
+
+trustpanel-etp-label-enabled = 增强型跟踪保护已开启
+trustpanel-etp-label-disabled = 增强型跟踪保护已关闭
+trustpanel-etp-description-enabled = 若网站功能异常，请尝试关闭保护。

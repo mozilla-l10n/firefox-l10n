@@ -112,6 +112,11 @@ fxa-adoption-passwords-subtitle = Synchronizěrujśo swóje gronidła ze swójim
 # Opens Mozilla accounts sign-up page
 fxa-adoption-passwords-primary-button-label = Registrěrowaś
 
+## Windows 10 EoS Sync messages group 1 callouts
+
+windows-10-eos-sync-new-device-primary-label = Něnto synchronizěrowaś
+windows-10-eos-sync-tour-title-2 = Buźćo za Windows 11 pśigótowany.
+
 ## Sidebar Strings
 
 sidebar-button-callout-title = Titele rejtarikow w bocnicy pokazaś

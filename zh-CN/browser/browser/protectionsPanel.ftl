@@ -36,12 +36,12 @@ protections-panel-site-not-working-view =
 
 protections-panel-etp-toggle-on =
     .label = 增强型跟踪保护
-    .description = 已为此网站开启
-    .aria-label = 增强型跟踪保护：已为 { $host } 开启
+    .description = 已对此网站开启
+    .aria-label = 增强型跟踪保护：已对 { $host } 开启
 protections-panel-etp-toggle-off =
     .label = 增强型跟踪保护
-    .description = 已为此网站关闭
-    .aria-label = 增强型跟踪保护：已为 { $host } 关闭
+    .description = 已对此网站关闭
+    .aria-label = 增强型跟踪保护：已对 { $host } 关闭
 
 ## The "Allowed" header also includes a "Why?" link that, when hovered, shows
 ## a tooltip explaining why these items were not blocked in the page.

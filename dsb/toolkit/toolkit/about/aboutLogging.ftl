@@ -52,6 +52,7 @@ about-logging-preset-webcodecs-label = WebCodecs
 about-logging-preset-webcodecs-description = Module protokolěrowaś, aby se problemy z decoderami a encoderami awdio/wideo WebCodecs a wobrazowe decodery diagnosticěrowali
 about-logging-preset-ml-label = Mašinelne wuknjenje
 about-logging-preset-ml-description = Module za diagnosticěrowanje problemow z mašinelnym wuknjenim protokolěrowaś
+about-logging-preset-web-compat-label = Webkompatibelnosć
 about-logging-preset-webgpu-label = WebGPU
 about-logging-preset-webgpu-description = Protokolowe module za diagnosticěrowanje problemow WebGPU
 about-logging-preset-gfx-label = Grafika

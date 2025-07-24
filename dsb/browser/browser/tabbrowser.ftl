@@ -289,6 +289,8 @@ tab-group-editor-color-selector2-gray = Šery
 tab-group-editor-color-selector2-red = Cerwjeny
     .title = Cerwjeny
 tab-group-description = { $tabGroupName } – kupka rejtarikow
+tab-group-label-tooltip-collapsed = { $tabGroupName } – schowany
+tab-group-label-tooltip-expanded = { $tabGroupName } – pokazany
 tab-context-unnamed-group =
     .label = Kupka bźez mjenja
 tab-group-name-default = Kupka bźez mjenja
@@ -344,6 +346,18 @@ tab-context-ungroup-tab =
            *[other] Z { $groupCount } kupkow wótwónoźeś
         }
     .accesskey = Z
+# When a tab group containing the active tab is collapsed, the active tab
+# remains visible. An indicator appears at the end of the group showing the
+# number of remaining tabs that are hidden by the collapsed group,
+# e.g. "+2" for a group with 3 total tabs.
+tab-group-overflow-count = +{ $tabCount }
+tab-group-overflow-count-tooltip =
+    { $tabCount ->
+        [one] { $tabCount } dalšny rejtarik
+        [two] { $tabCount } dalšnej rejtarika
+        [few] { $tabCount } dalšne rejtariki
+       *[other] { $tabCount } dalšnych rejtarikow
+    }
 
 ## Open/saved tab group context menu
 
