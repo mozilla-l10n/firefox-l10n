@@ -537,6 +537,10 @@ newtab-custom-wallpaper-title = 在此处自定义壁纸
 newtab-custom-wallpaper-subtitle = 自行上传壁纸或选取自定义颜色，让 { -brand-product-name } 更有个性。
 newtab-custom-wallpaper-cta = 试试看
 
+## Strings for new user activation custom wallpaper highlight
+
+newtab-new-user-custom-wallpaper-cta = 现在就试试
+
 ## Strings for download mobile highlight
 
 newtab-download-mobile-highlight-title = 下载移动版 { -brand-product-name }
