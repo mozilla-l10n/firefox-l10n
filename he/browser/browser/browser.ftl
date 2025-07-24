@@ -1454,3 +1454,15 @@ trustpanel-fingerprinter-not-blocking-tab-header =
         [one] ‏{ -brand-product-name } איפשר רכיב זהות דיגיטלית אחד
        *[other] ‏{ -brand-product-name } איפשר { $count } רכיבי זהות דיגיטלית
     }
+trustpanel-fingerprinter-list-header = האתרים האלה מנסים לקחת את טביעת האצבע הדיגיטלית שלך:
+trustpanel-cryptominer-blocking-tab-header =
+    { $count ->
+        [one] ‏{ -brand-product-name } חסם כורה מטבעות דיגיטליים אחד
+       *[other] ‏{ -brand-product-name } חסם { $count } כורי מטבעות דיגיטליים
+    }
+trustpanel-cryptominer-not-blocking-tab-header =
+    { $count ->
+        [one] ‏{ -brand-product-name } איפשר כורה מטבעות דיגיטליים אחד
+       *[other] ‏{ -brand-product-name } איפשר { $count } כורי מטבעות דיגיטליים
+    }
+trustpanel-cryptominer-tab-list-header = האתרים האלה מנסים לכרות מטבעות דיגיטליים:
