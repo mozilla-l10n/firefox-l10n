@@ -1375,4 +1375,10 @@ trustpanel-blocker-header =
 ## Variables
 ##  $count (String): the number of trackers blocked.
 
+trustpanel-blocker-section-header =
+    { $count ->
+        [one] <span>{ $count }</span> sporar blokkert på denne nettstaden
+       *[other] <span>{ $count }</span> sporar blokkert på denne nettstaden
+    }
+trustpanel-blocker-description = { -brand-product-name } meinar at selskap burde følgje deg mindre. Så vi blokkerer så mange som råd er.
 trustpanel-list-label-tracking-content = Sporingsinnhald
