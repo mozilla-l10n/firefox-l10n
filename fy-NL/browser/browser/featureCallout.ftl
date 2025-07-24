@@ -112,6 +112,26 @@ fxa-adoption-passwords-subtitle = Beskermje jo wachtwurden troch se fersifere me
 # Opens Mozilla accounts sign-up page
 fxa-adoption-passwords-primary-button-label = Registrearje
 
+## Windows 10 EoS Sync messages group 1 callouts
+
+windows-10-eos-sync-urgency-title-1 = Ferlies net alles wat jo bewarre hawwe as jo oerstappe nei Windows 11.
+windows-10-eos-sync-urgency-subtitle-1 = Syngronisearje no om jo { -brand-short-name }-blêdwizers, -wachtwurden en -ynstelling feilich en maklik te werstellen.
+windows-10-eos-sync-urgency-title-2 = Nimme jo ôfskie fan Windows 10? Beskermje jo gegevens as jo oerstappe.
+windows-10-eos-sync-urgency-subtitle-2 = Syngronisearje om blêdwizers en wachtwurden feilich en tagonklik te hâlden, sels as jo { -brand-short-name } net deistich brûke.
+windows-10-eos-sync-new-device-title-1 = Rin net it risiko om op jo folgjende apparaat opnij te begjinnen.
+windows-10-eos-sync-new-device-subtitle-1 = Syngronisearje om jo { -brand-short-name }-blêdwizers, -wachtwurden en -foarkarsynstellingen mei te nimmen as jo ferhúzje.
+windows-10-eos-sync-new-device-title-2 = Ferhúzje jo nei in nij apparaat? Ferlies net wat wichtich is.
+windows-10-eos-sync-new-device-subtitle-2 = Hoe faak jo { -brand-short-name } ek brûke, syngronisaasje beskermet jo blêdwizers, wachtwurden en ynstellingen.
+windows-10-eos-sync-new-device-primary-label = No syngronisearje
+windows-10-eos-sync-general-title-1 = Beskermje de { -brand-short-name } dy’t jo fan jo makke hawwe.
+windows-10-eos-sync-general-subtitle-1 = Meitsje in reservekopy en syngronisearje jo wachtwurden, blêdwizers, ynstellingen en oare gegevens om te behâlden dêr’t jo op rekkenje.
+windows-10-eos-sync-general-title-2 = Dit is in goed momint om in reservekopy fan jo wachtwurden en blêdwizers te meitsjen.
+windows-10-eos-sync-general-subtitle-2 = Syngronisearje no om de dingen dy’t jo { -brand-short-name } tafertrouwe te beskermjen – en krij it oeral en altyd werom.
+windows-10-eos-sync-tour-title-1 = Tefolle ljepblêden? Romje it op mei ljepblêdgroepen.
+windows-10-eos-sync-tour-subtitle-1 = Sleep it iene ljepblêd boppe op it oare om in groep oan te meitsjen en dingen organisearre te hâlden.
+windows-10-eos-sync-tour-title-2 = Oarderje foar Windows 11.
+windows-10-eos-sync-tour-subtitle-2 = Syngronisearje jo blêdwizers, wachtwurden en ynstellingen om der in reservekopy fan te meitsjen eardat jo oerskeakelje.
+
 ## Sidebar Strings
 
 sidebar-button-callout-title = Ljepblêdtitels yn de sydbalke toane

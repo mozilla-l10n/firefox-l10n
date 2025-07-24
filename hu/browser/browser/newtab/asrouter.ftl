@@ -343,3 +343,16 @@ multi-cta-fox-doodle-privacy-focused-subtitle =
        *[other] Tartsa egyetlen kattintásra a kedvenc adatvédelmi fókuszú böngészőjét. Állítsa be a { -brand-short-name }ot alapértelmezett böngészőnek a hivatkozások megnyitásához, és rögzítse a tálcára.
     }
 multi-cta-fox-doodle-msix-privacy-focused-subtitle = Tartsa egyetlen kattintásra a kedvenc adatvédelmi fókuszú böngészőjét. Állítsa be a { -brand-short-name }ot alapértelmezett böngészőnek a hivatkozások megnyitásához, és rögzítse a tálcára és a Start menübe.
+
+## Windows 10 EoS Sync messages group 1 spotlight
+
+windows-10-eos-sync-spotlight-title = Hamarosan frissít a Windows 10-ről?
+windows-10-eos-sync-spotlight-subtitle = Készítsen biztonsági mentést a jelszavairól és könyvjelzőiről, hogy készen álljon az ugrásra, bármilyen eszközre.
+windows-10-eos-sync-spotlight-primary-label = Biztonsági mentés a { -brand-short-name }ról
+
+## Windows 10 EoS Sync messages group 1 toast notification
+
+windows-10-eos-sync-toast-title = Windows 11-re frissít? Ne veszítse el könyvjelzőit és jelszavait.
+windows-10-eos-sync-toast-subtitle = Készítsen biztonsági mentést az adatairól, hogy a { -brand-short-name } bármikor használatra készen álljon, ezen a számítógépen vagy a következőn.
+windows-10-eos-sync-toast-primary-label = Kezdő lépések
+windows-10-eos-sync-toast-secondary-label = Figyelmeztetés később

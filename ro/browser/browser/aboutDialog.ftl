@@ -25,7 +25,7 @@ update-applying = Se aplică actualizarea…
 update-failed = Actualizare eșuată. <label data-l10n-name="failed-link">Descarcă cea mai recentă versiune</label>
 update-failed-main = Actualizare eșuată. <a data-l10n-name="failed-link-main">Descarcă cea mai recentă versiune</a>
 update-adminDisabled = Actualizările sunt dezactivate de administratorul de sistem
-update-policy-disabled = Actualizările au fost dezactivate de organizația dvs.
+update-policy-disabled = Actualizările au fost dezactivate de organizația ta.
 update-noUpdatesFound = { -brand-short-name } este actualizat
 aboutdialog-update-checking-failed = Eșec la căutarea de actualizări.
 update-otherInstanceHandlingUpdates = { -brand-short-name } este actualizat de o altă instanță

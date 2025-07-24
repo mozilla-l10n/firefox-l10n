@@ -45,6 +45,8 @@ avatar-selector-save-button =
     .label = Bewarje
 avatar-selector-upload-file = In bestân oplade
 avatar-selector-drag-file = Of sleep in bestân hjirhinne
+avatar-selector-add-image = Ofbylding tafoegje
+avatar-selector-crop = Bysnije
 edit-profile-page-no-name = Jou dit profyl in namme, sadat jo it letter fine kinne. Jo kinne de namme op elk winske momint wizigje.
 edit-profile-page-duplicate-name = Profylnamme is al yn gebrûk. Probearje in nije namme.
 edit-profile-page-profile-saved = Bewarre
@@ -114,22 +116,101 @@ book-avatar-alt =
     .alt = Boek
 briefcase-avatar-alt =
     .alt = Wurkmap
+# Canvas refers to an artist's painting canvas, not the general material
+canvas-avatar-alt =
+    .alt = Canvas
+# Craft refers to hobby arts and crafts, represented by a button/fastener commonly found on clothing like shirts
+craft-avatar-alt =
+    .alt = Nifelje
 flower-avatar-alt =
     .alt = Blom
+folder-avatar-alt =
+    .alt = Map
+hammer-avatar-alt =
+    .alt = Hammer
 heart-avatar-alt =
     .alt = Hert
+heart-rate-avatar-alt =
+    .alt = Hertslach
+history-avatar-alt =
+    .alt = Skiednis
+leaf-avatar-alt =
+    .alt = Blêd
+lightbulb-avatar-alt =
+    .alt = Gloeilampe
+makeup-avatar-alt =
+    .alt = Make-up
+# Message refers to a text message, not a traditional letter/envelope message
+message-avatar-alt =
+    .alt = Berjocht
+musical-note-avatar-alt =
+    .alt = Muzyknoat
+palette-avatar-alt =
+    .alt = Palet
+paw-print-avatar-alt =
+    .alt = Poatôfdruk
+plane-avatar-alt =
+    .alt = Fleantúch
+# Present refers to a gift box, not the current time period
+present-avatar-alt =
+    .alt = Kado
 shopping-avatar-alt =
     .alt = Winkelwein
+soccer-avatar-alt =
+    .alt = Fuotbal
+sparkle-single-avatar-alt =
+    .alt = Glitter
 star-avatar-alt =
     .alt = Stjer
+video-game-controller-avatar-alt =
+    .alt = Fideogamecontroller
 custom-avatar-alt =
     .alt = Oanpaste avatar
+# Default favicon refers to the generic globe/world icon that appears in browser tabs when a website doesn't have its own favicon.
+default-favicon-avatar-alt =
+    .alt = Standertfavicon
+# Diamond refers to the precious stone, not the geometric shape
+diamond-avatar-alt =
+    .alt = Diamant
+barbell-avatar-alt =
+    .alt = Halter
+bike-avatar-alt =
+    .alt = Fyts
 
 ## Labels for default avatar icons
 
 book-avatar = Boek
 briefcase-avatar = Wurkmap
+# Canvas refers to an artist's painting canvas, not the general material
+canvas-avatar = Canvas
+# Craft refers to hobby arts and crafts, represented by a button/fastener commonly found on clothing like shirts
+craft-avatar = Nifelje
+custom-avatar = Oanpaste avatar
+# Default favicon refers to the generic globe/world icon that appears in browser tabs when a website doesn't have its own favicon.
+default-favicon-avatar = Standertfavicon
+# Diamond refers to the precious stone, not the geometric shape
+diamond-avatar = Diamant
 flower-avatar = Blom
+folder-avatar = Map
+hammer-avatar = Hammer
 heart-avatar = Hert
+heart-rate-avatar = Hertslach
+history-avatar = Skiednis
+leaf-avatar = Blêd
+lightbulb-avatar = Gloeilampe
+makeup-avatar = Make-up
+# Message refers to a text message, not a traditional letter/envelope message
+message-avatar = Berjocht
+musical-note-avatar = Muzyknoat
+palette-avatar = Palet
+paw-print-avatar = Poatôfdruk
+plane-avatar = Fleantúch
+# Present refers to a gift box, not the current time period
+present-avatar = Kado
 shopping-avatar = Winkelwein
+soccer-avatar = Fuotbal
+sparkle-single-avatar = Glitter
 star-avatar = Stjer
+video-game-controller-avatar = Fideogamecontroller
+barbell-avatar = Halter
+bike-avatar = Fyts

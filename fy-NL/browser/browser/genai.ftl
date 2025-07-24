@@ -93,6 +93,16 @@ genai-menu-no-provider =
     .label = In AI-chatbot freegje
 genai-menu-choose-chatbot =
     .label = Kies in AI-chatbot
+genai-menu-ask-generic-2 =
+    .label = AI-chatbot freegje
+    .accesskey = h
+# $provider (string) - name of the provider
+genai-menu-ask-provider-2 =
+    .label = { $provider } freegje
+    .accesskey = f
+genai-menu-no-provider-2 =
+    .label = In AI-chatbot freegje
+    .accesskey = c
 
 ## Chatbot header
 

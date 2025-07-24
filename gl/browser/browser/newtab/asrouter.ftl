@@ -343,3 +343,8 @@ multi-cta-fox-doodle-privacy-focused-subtitle =
        *[other] Mantén o teu navegador favorito centrado na privacidade a só un clic de distancia. Establece { -brand-short-name } como o teu navegador predeterminado para abrir ligazóns e ánclao á túa barra de tarefas.
     }
 multi-cta-fox-doodle-msix-privacy-focused-subtitle = Mantén o teu navegador favorito centrado na privacidade a só un clic de distancia. Establece { -brand-short-name } como o teu navegador predeterminado para abrir ligazóns e fíxao á túa barra de tarefas e ao menú de inicio.
+
+## Windows 10 EoS Sync messages group 1 toast notification
+
+windows-10-eos-sync-toast-primary-label = Comezar
+windows-10-eos-sync-toast-secondary-label = Lembrarmo máis tarde

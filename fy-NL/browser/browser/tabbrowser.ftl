@@ -257,6 +257,8 @@ tab-group-editor-color-selector2-gray = Griis
 tab-group-editor-color-selector2-red = Read
     .title = Read
 tab-group-description = { $tabGroupName } – Ljepblêdgroep
+tab-group-label-tooltip-collapsed = { $tabGroupName } – Ynklapt
+tab-group-label-tooltip-expanded = { $tabGroupName } – Utklapt
 tab-context-unnamed-group =
     .label = Nammeleaze groep
 tab-group-name-default = Nammeleaze groep
@@ -306,6 +308,16 @@ tab-context-ungroup-tab =
            *[other] Fuortsmite út groepen
         }
     .accesskey = F
+# When a tab group containing the active tab is collapsed, the active tab
+# remains visible. An indicator appears at the end of the group showing the
+# number of remaining tabs that are hidden by the collapsed group,
+# e.g. "+2" for a group with 3 total tabs.
+tab-group-overflow-count = +{ $tabCount }
+tab-group-overflow-count-tooltip =
+    { $tabCount ->
+        [one] Noch { $tabCount } ljepblêd
+       *[other] Noch { $tabCount } ljepblêden
+    }
 
 ## Open/saved tab group context menu
 

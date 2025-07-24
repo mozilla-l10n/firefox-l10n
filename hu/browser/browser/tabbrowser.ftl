@@ -257,6 +257,8 @@ tab-group-editor-color-selector2-gray = Szürke
 tab-group-editor-color-selector2-red = Vörös
     .title = Vörös
 tab-group-description = { $tabGroupName } – lapcsoport
+tab-group-label-tooltip-collapsed = { $tabGroupName } – összecsukva
+tab-group-label-tooltip-expanded = { $tabGroupName } – kibontva
 tab-context-unnamed-group =
     .label = Névtelen csoport
 tab-group-name-default = Névtelen csoport
@@ -306,6 +308,16 @@ tab-context-ungroup-tab =
            *[other] Eltávolítás a csoportokból
         }
     .accesskey = E
+# When a tab group containing the active tab is collapsed, the active tab
+# remains visible. An indicator appears at the end of the group showing the
+# number of remaining tabs that are hidden by the collapsed group,
+# e.g. "+2" for a group with 3 total tabs.
+tab-group-overflow-count = +{ $tabCount }
+tab-group-overflow-count-tooltip =
+    { $tabCount ->
+        [one] { $tabCount } további lap
+       *[other] { $tabCount } további lap
+    }
 
 ## Open/saved tab group context menu
 

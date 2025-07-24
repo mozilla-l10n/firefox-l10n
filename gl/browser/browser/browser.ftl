@@ -207,6 +207,9 @@ urlbar-result-menu-show-less-frequently =
     .label = Mostrar con menos frecuencia
 urlbar-result-menu-dont-show-weather-suggestions =
     .label = Non mostrar suxestións do tempo
+# Used for Split Button.
+urlbar-splitbutton-dropmarker =
+    .title = Abrir menú
 # A message shown in the urlbar when the user submits feedback on a suggestion
 # (e.g., it shows an inaccurate location, it's shown too often, etc.).
 urlbar-feedback-acknowledgment = Grazas polos teus comentarios
@@ -826,6 +829,8 @@ urlbar-searchmode-default =
 urlbar-searchmode-popup-description = Esta vez busca con:
 urlbar-searchmode-popup-search-settings-menuitem =
     .label = Axustes da busca
+# Label shown next to a new search engine in the Searchmode Switcher popup to promote it.
+urlbar-searchmode-new = Novo
 # Searchmode Switcher button
 # Variables:
 #   $engine (String): the current default search engine.
@@ -1323,3 +1328,28 @@ onboarding-checklist-button-label = Finalizar a configuración
 onboarding-aw-finish-setup-button =
     .label = Finalizar a configuración
     .tooltiptext = Finalizar a configuración de { -brand-short-name }
+
+## The urlbar trust panel
+
+trustpanel-connection-label-secure = Conexión segura
+trustpanel-connection-label-insecure = Conexión non segura
+trustpanel-header-disabled = Desactivaches as proteccións
+trustpanel-clear-cookies-button = Borrar as cookies e os datos do sitio
+trustpanel-privacy-link = Configuración de privacidade
+trustpanel-clear-cookies-subview-button-clear = Borrar
+trustpanel-clear-cookies-subview-button-cancel = Cancelar
+trustpanel-connection-secure = Estás conectado de forma segura a este sitio.
+trustpanel-connection-not-secure = Non estás conectado de forma segura a este sitio.
+trustpanel-siteinformation-morelink = Máis información do sitio
+trustpanel-blocker-see-all = Ver todo
+
+## Variables
+##  $count (String): the number of trackers blocked.
+
+trustpanel-insecure-section-header = A túa conexión non é segura
+trustpanel-list-label-fingerprinter =
+    { $count ->
+        [one] { $count } pegada dixital
+       *[other] { $count } pegadas dixitais
+    }
+trustpanel-cryptominer-tab-list-header = Estes sitios están tentando criptominar:

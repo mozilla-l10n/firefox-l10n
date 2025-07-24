@@ -95,6 +95,16 @@ genai-menu-no-provider =
     .label = MI csevegőbot megkérdezése
 genai-menu-choose-chatbot =
     .label = MI csevegőbot választása
+genai-menu-ask-generic-2 =
+    .label = MI csevegőbot megkérdezése
+    .accesskey = c
+# $provider (string) - name of the provider
+genai-menu-ask-provider-2 =
+    .label = A(z) { $provider } megkérdezése
+    .accesskey = k
+genai-menu-no-provider-2 =
+    .label = MI csevegőbot megkérdezése
+    .accesskey = c
 
 ## Chatbot header
 

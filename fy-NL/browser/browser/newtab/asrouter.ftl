@@ -343,3 +343,16 @@ multi-cta-fox-doodle-privacy-focused-subtitle =
        *[other] Hâld jo favorite op privacy rjochte browser op mar ien klik ôfstân. Stel { -brand-short-name } yn as jo standertbrowser foar it iepenjen fan keppelingen en hâld it programma fêst op jo taakbalke.
     }
 multi-cta-fox-doodle-msix-privacy-focused-subtitle = Hâld jo favorite op privacy rjochte browser op mar ien klik ôfstân. Stel { -brand-short-name } yn as jo standertbrowser foar it iepenjen fan keppelingen en hâld it programma fêst op jo taakbalke en startmenu.
+
+## Windows 10 EoS Sync messages group 1 spotlight
+
+windows-10-eos-sync-spotlight-title = Ynkoarten opwurdearje fan Windows 10 ôf?
+windows-10-eos-sync-spotlight-subtitle = Meitsje in reservekopy fan jo wachtwurden en blêdwizers, sadat jo klear binne om de sprong nei elk apparaat te meitsjen.
+windows-10-eos-sync-spotlight-primary-label = In reservekopy fan jo { -brand-short-name } meitsje
+
+## Windows 10 EoS Sync messages group 1 toast notification
+
+windows-10-eos-sync-toast-title = Opwurdearje nei Windows 11? Ferlies gjin blêdwizers en wachtwurden.
+windows-10-eos-sync-toast-subtitle = Meitsje in reservekopy fan jo gegevens, sadat { -brand-short-name } altyd klear is foar gebrûk op elk momint, op dizze pc of de folgjende.
+windows-10-eos-sync-toast-primary-label = Begjinne
+windows-10-eos-sync-toast-secondary-label = Letter werinnerje

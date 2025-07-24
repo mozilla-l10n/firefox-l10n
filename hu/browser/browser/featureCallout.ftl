@@ -119,11 +119,18 @@ windows-10-eos-sync-urgency-subtitle-1 = Szinkronizáljon most, hogy a { -brand-
 windows-10-eos-sync-urgency-title-2 = Búcsút int a Windows 10-nek? Védje meg az adatait a váltáskor.
 windows-10-eos-sync-urgency-subtitle-2 = Még ha nem is használja naponta a { -brand-short-name }ot, szinkronizáljon, hogy a könyvjelzők és jelszavak biztonságban legyenek és hozzáférhetőek legyenek.
 windows-10-eos-sync-new-device-title-1 = Ne kockáztassa meg az újrakezdést a következő eszközön.
+windows-10-eos-sync-new-device-subtitle-1 = Szinkronizáljon, hogy költözéskor magával vigye a { -brand-short-name } könyvjelzőit, jelszavait és előnyben részesített beállításait.
 windows-10-eos-sync-new-device-title-2 = Új eszközre költözik? Ne veszítse el azt, ami számít.
 windows-10-eos-sync-new-device-subtitle-2 = Nem számít, milyen gyakran használja a { -brand-short-name }ot, a szinkronizálás megvédi a könyvjelzőit, jelszavait és beállításait.
 windows-10-eos-sync-new-device-primary-label = Szinkronizálás most
 windows-10-eos-sync-general-title-1 = Védje meg a { -brand-short-name }ot, amelyet a sajátjáévá tett.
 windows-10-eos-sync-general-subtitle-1 = Készítsen biztonsági mentést és szinkronizálja jelszavait, könyvjelzőit, beállításait és egyéb adatait, hogy megőrizze azt, ami számít.
+windows-10-eos-sync-general-title-2 = Itt az alkalom, hogy biztonsági mentést készítsen a jelszavairól és könyvjelzőiről.
+windows-10-eos-sync-general-subtitle-2 = Szinkronizáljon most, hogy megvédje a { -brand-short-name }ra bízott dolgokat – és kapja vissza bárhol, bármikor.
+windows-10-eos-sync-tour-title-1 = Túl sok lap? Tegyen rendet a lapcsoportokkal.
+windows-10-eos-sync-tour-subtitle-1 = Húzzon egy lap egy másikra, hogy csoportot hozzon létre, és rendszerezze a dolgokat.
+windows-10-eos-sync-tour-title-2 = Készüljön elő a Windows 11-re.
+windows-10-eos-sync-tour-subtitle-2 = Váltás előtt szinkronizálja a könyvjelzőit, jelszavait és beállításait, hogy biztonsági mentést készítsen róluk.
 
 ## Sidebar Strings
 

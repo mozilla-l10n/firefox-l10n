@@ -207,6 +207,9 @@ urlbar-result-menu-show-less-frequently =
     .label = Minder faaks toane
 urlbar-result-menu-dont-show-weather-suggestions =
     .label = Gjin waarsuggestjes toane
+# Used for Split Button.
+urlbar-splitbutton-dropmarker =
+    .title = Menu iepenje
 # A message shown in the urlbar when the user submits feedback on a suggestion
 # (e.g., it shows an inaccurate location, it's shown too often, etc.).
 urlbar-feedback-acknowledgment = Tank foar jo kommentaar
@@ -826,6 +829,8 @@ urlbar-searchmode-default =
 urlbar-searchmode-popup-description = Diskear sykje mei:
 urlbar-searchmode-popup-search-settings-menuitem =
     .label = Sykynstellingen
+# Label shown next to a new search engine in the Searchmode Switcher popup to promote it.
+urlbar-searchmode-new = Nij
 # Searchmode Switcher button
 # Variables:
 #   $engine (String): the current default search engine.
@@ -1153,6 +1158,10 @@ tabs-toolbar-list-all-tabs =
     .label = Alle ljepblêdtitels werjaan
     .tooltiptext = Alle ljepblêdtitels werjaan
 
+## Drop indicator text for pinned tabs when no tabs are pinned.
+
+pinned-tabs-drop-indicator = Sleep it ljepblêd hjirhinne om it fêst te setten
+
 ## Infobar shown at startup to suggest session-restore
 
 # <img data-l10n-name="icon"/> will be replaced by the application menu icon
@@ -1323,3 +1332,136 @@ onboarding-checklist-button-label = Ynstellen foltôgje
 onboarding-aw-finish-setup-button =
     .label = Ynstellen foltôgje
     .tooltiptext = Ynstellen { -brand-short-name } foltôgje
+
+## The urlbar trust panel
+
+trustpanel-etp-label-enabled = Ferbettere beskerming tsjin folgjen is ynskeakele
+trustpanel-etp-label-disabled = Ferbettere beskerming tsjin folgjen is útskeakele
+# Variables
+#  $host (String): the hostname of the site that is being displayed.
+trustpanel-etp-toggle-on =
+    .aria-label = Ferbettere beskerming tsjin folgjen: oan foar { $host }
+# Variables
+#  $host (String): the hostname of the site that is being displayed.
+trustpanel-etp-toggle-off =
+    .aria-label = Ferbettere beskerming tsjin folgjen: út foar { $host }
+trustpanel-etp-description-enabled = As der wat op dizze website net wurket, probearje dan beskermingen út te skeakeljen.
+trustpanel-etp-description-disabled = { -brand-product-name } fynt dat bedriuwen jo minder folgje moatte. As jo beskerming ynskeakelje, blokkearje wy safolle mooglik trackers.
+trustpanel-connection-label-secure = Ferbining befeilige
+trustpanel-connection-label-insecure = Ferbining net befeilige
+trustpanel-header-enabled = { -brand-product-name } stiet op wacht
+trustpanel-description-enabled = Jo binne beskerme. As wy wat fine, litte wy jo dat witte
+trustpanel-header-disabled = Jo hawwe beskermingen útskeakele
+trustpanel-description-disabled = { -brand-product-name } hat gjin tsjinst. Wy riede jo oan beskermingen wer yn te skeakeljen.
+trustpanel-clear-cookies-button = Cookies en websitegegevens wiskje
+trustpanel-privacy-link = Privacyynstellingen
+# Variables
+#  $host (String): the hostname of the site that is being displayed.
+trustpanel-clear-cookies-header =
+    .title = Cookies en websitegegevens wiskje foar { $host }
+trustpanel-clear-cookies-description = It fuortsmiten fan cookies en websitegegevens kin jo by websites ôfmelde en winkelweinen wiskje.
+trustpanel-clear-cookies-subview-button-clear = Wiskje
+trustpanel-clear-cookies-subview-button-cancel = Annulearje
+# Variables
+#  $host (String): the hostname of the site that is being displayed.
+trustpanel-site-information-header =
+    .title = Ferbiningsbeskerming foar { $host }
+trustpanel-connection-secure = Jo hawwe in befeilige ferbining mei dizze website.
+trustpanel-connection-not-secure = Jo hawwe in ûnbefeilige ferbining mei dizze website.
+trustpanel-siteinformation-morelink = Mear website-ynformaasje
+trustpanel-blocker-see-all = Alles besjen
+# Variables
+#  $host (String): the hostname of the site that is being displayed.
+trustpanel-blocker-header =
+    .title = Beskerming tsjin folgjen foar { $host }
+
+## Variables
+##  $count (String): the number of trackers blocked.
+
+trustpanel-blocker-section-header =
+    { $count ->
+        [one] <span>{ $count }</span> tracker blokkearre op dizze website
+       *[other] <span>{ $count }</span> trackers blokkearre op dizze website
+    }
+trustpanel-blocker-description = { -brand-product-name } fynt dat bedriuwen jo minder folgje moatte. Dus blokkearje wy der safolle as wy kinne.
+trustpanel-blocked-header = { -brand-product-name } hat it folgjende foar jo blokkearre:
+trustpanel-tracking-header = { -brand-product-name } stiet it folgjende ta, sadat websites wurkje bliuwe:
+trustpanel-tracking-description = Sûnder trackers wurkje guon knoppen, formulieren en oanmeldfjilden mooglik net.
+trustpanel-insecure-section-header = Jo ferbining is net befeilige
+trustpanel-insecure-description = De gegevens dy’t jo nei dizze side ferstjoere, binne net fersifere. Se kinne besjoen, stellen of wizige wurde.
+trustpanel-list-label-tracking-cookies =
+    { $count ->
+        [one] { $count } cross-site-trackingcookie
+       *[other] { $count } cross-site-trackingcookies
+    }
+trustpanel-list-label-tracking-content = Folchynhâld
+trustpanel-list-label-fingerprinter =
+    { $count ->
+        [one] { $count } fingerprinter
+       *[other] { $count } fingerprinters
+    }
+trustpanel-list-label-social-tracking =
+    { $count ->
+        [one] { $count } sosjale-mediatracker
+       *[other] { $count } sosjale-mediatrackers
+    }
+trustpanel-list-label-cryptominer =
+    { $count ->
+        [one] { $count } cryptominer
+       *[other] { $count } cryptominers
+    }
+trustpanel-social-tracking-blocking-tab-header =
+    { $count ->
+        [one] { -brand-product-name } hat { $count } sosjale-mediatracker blokkearre
+       *[other] { -brand-product-name } hat { $count } sosjale-mediatrackers blokkearre
+    }
+trustpanel-social-tracking-not-blocking-tab-header =
+    { $count ->
+        [one] { -brand-product-name } hat { $count } sosjale-mediatracker tastien
+       *[other] { -brand-product-name } hat { $count } sosjale-mediatrackers tastien
+    }
+trustpanel-social-tracking-tab-list-header = Dizze websites probearje jo te folgjen:
+trustpanel-tracking-cookies-blocking-tab-header =
+    { $count ->
+        [one] { -brand-product-name } hat { $count } cross-site-trackingcookie blokkearre
+       *[other] { -brand-product-name } hat { $count } cross-site-trackingcookies blokkearre
+    }
+trustpanel-tracking-cookies-not-blocking-tab-header =
+    { $count ->
+        [one] { -brand-product-name } hat { $count } cross-site-trackingcookie tastien
+       *[other] { -brand-product-name } hat { $count } cross-site-trackingcookies tastien
+    }
+trustpanel-tracking-cookies-tab-list-header = Dizze websites probearje jo te folgjen:
+trustpanel-tracking-content-blocking-tab-header =
+    { $count ->
+        [one] { -brand-product-name } hat { $count } tracker blokkearre
+       *[other] { -brand-product-name } hat { $count } trackers blokkearre
+    }
+trustpanel-tracking-content-not-blocking-tab-header =
+    { $count ->
+        [one] { -brand-product-name } hat { $count } tracker tastien
+       *[other] { -brand-product-name } hat { $count } trackers tastien
+    }
+trustpanel-tracking-content-tab-list-header = Dizze websites probearje jo te folgjen:
+trustpanel-fingerprinter-blocking-tab-header =
+    { $count ->
+        [one] { -brand-product-name } hat { $count } fingerprinter blokkearre
+       *[other] { -brand-product-name } hat { $count } fingerprinters blokkearre
+    }
+trustpanel-fingerprinter-not-blocking-tab-header =
+    { $count ->
+        [one] { -brand-product-name } hat { $count } fingerprinter tastien
+       *[other] { -brand-product-name } hat { $count } fingerprinters tastien
+    }
+trustpanel-fingerprinter-list-header = Dizze websites probearje in fingerôfdruk fan jo te meitsjen:
+trustpanel-cryptominer-blocking-tab-header =
+    { $count ->
+        [one] { -brand-product-name } hat { $count } cryptominer blokkearre
+       *[other] { -brand-product-name } hat { $count } cryptominers blokkearre
+    }
+trustpanel-cryptominer-not-blocking-tab-header =
+    { $count ->
+        [one] { -brand-product-name } hat { $count } cryptominer tastien
+       *[other] { -brand-product-name } hat { $count } cryptominers tastien
+    }
+trustpanel-cryptominer-tab-list-header = Dizze websites probearje te cryptominen:
