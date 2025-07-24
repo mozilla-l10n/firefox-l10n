@@ -822,6 +822,8 @@ urlbar-searchmode-default =
 urlbar-searchmode-popup-description = 이번만 검색:
 urlbar-searchmode-popup-search-settings-menuitem =
     .label = 검색 설정
+# Label shown next to a new search engine in the Searchmode Switcher popup to promote it.
+urlbar-searchmode-new = 신규
 # Searchmode Switcher button
 # Variables:
 #   $engine (String): the current default search engine.
@@ -1149,6 +1151,10 @@ tabs-toolbar-list-all-tabs =
     .label = 탭 전체 목록
     .tooltiptext = 탭 전체 목록
 
+## Drop indicator text for pinned tabs when no tabs are pinned.
+
+pinned-tabs-drop-indicator = 탭을 고정하려면 여기에 놓으세요
+
 ## Infobar shown at startup to suggest session-restore
 
 # <img data-l10n-name="icon"/> will be replaced by the application menu icon
@@ -1315,3 +1321,21 @@ onboarding-checklist-button-label = 설정 완료
 onboarding-aw-finish-setup-button =
     .label = 설정 완료
     .tooltiptext = { -brand-short-name } 설정 완료
+
+## The urlbar trust panel
+
+trustpanel-etp-label-enabled = 향상된 추적 방지 켜짐
+trustpanel-etp-label-disabled = 향상된 추적 방지 꺼짐
+# Variables
+#  $host (String): the hostname of the site that is being displayed.
+trustpanel-etp-toggle-on =
+    .aria-label = 향상된 추적 방지: { $host }에 대해 켜짐
+# Variables
+#  $host (String): the hostname of the site that is being displayed.
+trustpanel-etp-toggle-off =
+    .aria-label = 향상된 추적 방지: { $host }에 대해 꺼짐
+trustpanel-etp-description-enabled = 이 사이트에서 뭔가 손상된 것처럼 보이면 보호 기능을 꺼보세요.
+trustpanel-etp-description-disabled = { -brand-product-name }는 회사가 사용자를 덜 팔로우해야 한다고 생각합니다. 보호 기능을 켜면 가능한 많은 추적기를 차단합니다.
+trustpanel-connection-label-secure = 안전한 연결
+trustpanel-connection-label-insecure = 안전하지 않은 연결
+trustpanel-header-enabled = { -brand-product-name }가 감시 중
