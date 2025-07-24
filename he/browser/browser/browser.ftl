@@ -207,6 +207,9 @@ urlbar-result-menu-show-less-frequently =
     .label = להציג בתדירות נמוכה יותר
 urlbar-result-menu-dont-show-weather-suggestions =
     .label = לא להציג הצעות מזג אוויר
+# Used for Split Button.
+urlbar-splitbutton-dropmarker =
+    .title = פתיחת תפריט
 # A message shown in the urlbar when the user submits feedback on a suggestion
 # (e.g., it shows an inaccurate location, it's shown too often, etc.).
 urlbar-feedback-acknowledgment = תודה על המשוב שלך
@@ -823,6 +826,8 @@ urlbar-searchmode-default =
 urlbar-searchmode-popup-description = הפעם לחפש באמצעות:
 urlbar-searchmode-popup-search-settings-menuitem =
     .label = הגדרות חיפוש
+# Label shown next to a new search engine in the Searchmode Switcher popup to promote it.
+urlbar-searchmode-new = חדש
 # Searchmode Switcher button
 # Variables:
 #   $engine (String): the current default search engine.
@@ -1150,6 +1155,10 @@ tabs-toolbar-list-all-tabs =
     .label = רשימת כל הלשוניות
     .tooltiptext = רשימת כל הלשוניות
 
+## Drop indicator text for pinned tabs when no tabs are pinned.
+
+pinned-tabs-drop-indicator = ניתן לשחרר לשונית כאן כדי לנעוץ אותה
+
 ## Infobar shown at startup to suggest session-restore
 
 # <img data-l10n-name="icon"/> will be replaced by the application menu icon
@@ -1324,3 +1333,17 @@ onboarding-checklist-button-label = סיום ההגדרה
 onboarding-aw-finish-setup-button =
     .label = סיום ההגדרה
     .tooltiptext = סיום הגדרת { -brand-short-name }
+
+## The urlbar trust panel
+
+trustpanel-etp-label-enabled = הגנת מעקב מתקדמת פעילה
+trustpanel-etp-label-disabled = הגנת מעקב מתקדמת כבויה
+# Variables
+#  $host (String): the hostname of the site that is being displayed.
+trustpanel-etp-toggle-on =
+    .aria-label = הגנת מעקב מתקדמת: פעילה עבור { $host }
+# Variables
+#  $host (String): the hostname of the site that is being displayed.
+trustpanel-etp-toggle-off =
+    .aria-label = הגנת מעקב מתקדמת: כבויה עבור { $host }
+trustpanel-etp-description-enabled = אם משהו נראה שבור באתר הזה, ניתן לנסות לכבות את ההגנות.
