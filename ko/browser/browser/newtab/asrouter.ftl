@@ -340,3 +340,16 @@ multi-cta-fox-doodle-privacy-focused-subtitle =
        *[other] 개인 정보 보호에 중점을 두는 브라우저를 단 한 번의 클릭으로 사용하세요. 링크를 여는 기본 브라우저를 { -brand-short-name }로 설정하고 작업 표시줄에 고정하세요.
     }
 multi-cta-fox-doodle-msix-privacy-focused-subtitle = 개인 정보 보호에 중점을 두는 브라우저를 단 한 번의 클릭으로 사용하세요. 링크를 여는 기본 브라우저를 { -brand-short-name }로 설정하고 작업 표시줄과 시작 메뉴에 고정하세요.
+
+## Windows 10 EoS Sync messages group 1 spotlight
+
+windows-10-eos-sync-spotlight-title = 곧 Windows 10에서 업그레이드하시겠습니까?
+windows-10-eos-sync-spotlight-subtitle = 어떤 기기에서도 바로 사용할 수 있도록 비밀번호와 북마크를 백업하세요.
+windows-10-eos-sync-spotlight-primary-label = { -brand-short-name } 백업
+
+## Windows 10 EoS Sync messages group 1 toast notification
+
+windows-10-eos-sync-toast-title = Windows 11로 업그레이드하시겠습니까? 북마크와 비밀번호를 잃어버리지 마세요.
+windows-10-eos-sync-toast-subtitle = 이 PC나 다음 PC에서 언제든지 { -brand-short-name }를 사용할 수 있도록 데이터를 백업하세요.
+windows-10-eos-sync-toast-primary-label = 시작하기
+windows-10-eos-sync-toast-secondary-label = 나중에 알림

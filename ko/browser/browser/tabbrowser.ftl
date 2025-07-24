@@ -229,6 +229,8 @@ tab-group-editor-color-selector2-gray = 회색
 tab-group-editor-color-selector2-red = 빨간색
     .title = 빨간색
 tab-group-description = { $tabGroupName } — 탭 그룹
+tab-group-label-tooltip-collapsed = { $tabGroupName } — 접힘
+tab-group-label-tooltip-expanded = { $tabGroupName } — 펼침
 tab-context-unnamed-group =
     .label = 이름없는 그룹
 tab-group-name-default = 이름없는 그룹
@@ -275,6 +277,12 @@ tab-context-ungroup-tab =
            *[other] 그룹에서 제거
         }
     .accesskey = R
+# When a tab group containing the active tab is collapsed, the active tab
+# remains visible. An indicator appears at the end of the group showing the
+# number of remaining tabs that are hidden by the collapsed group,
+# e.g. "+2" for a group with 3 total tabs.
+tab-group-overflow-count = +{ $tabCount }개
+tab-group-overflow-count-tooltip = 탭 { $tabCount }개 더
 
 ## Open/saved tab group context menu
 
