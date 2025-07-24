@@ -1358,6 +1358,7 @@ trustpanel-etp-toggle-on =
 trustpanel-etp-toggle-off =
     .aria-label = Pólěpšony slědowański šćit: znjemóžnjony za { $host }
 trustpanel-etp-description-enabled = Jolic něco na toś tom sedle wobškóźone wuglěda, wopytajśo šćity znjemóžniś.
+trustpanel-etp-description-disabled = { -brand-product-name } měni, až pśedewześa měli wam mjenjej slědowaś. Blokěrujomy tak wjele pśeslědowaki kaž móžomy, gaž wy škit zmóžnjaśo.
 trustpanel-connection-label-secure = Zwisk jo wěsty
 trustpanel-connection-label-insecure = Zwisk njejo wěsty
 trustpanel-header-enabled = { -brand-product-name } stražujo
@@ -1385,5 +1386,8 @@ trustpanel-blocker-see-all = Wšykne pokazaś
 ## Variables
 ##  $count (String): the number of trackers blocked.
 
+trustpanel-blocker-description = { -brand-product-name } měni, až pśedewześa měli wam mjenjej slědowaś. Togodla blokěrujomy tak wjele kaž móžomy.
+trustpanel-blocked-header = { -brand-product-name } jo blokěrował toś te wěcy za was:
+trustpanel-tracking-header = { -brand-product-name } jo dowólił toś te wěcy, aby sedła korektnje funkcioněrowali:
 trustpanel-insecure-section-header = Waš zwisk njejo wěsty
 trustpanel-list-label-tracking-content = Slědujuce wopśimjeśe

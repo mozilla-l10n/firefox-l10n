@@ -1341,3 +1341,8 @@ trustpanel-blocker-see-all = 查看全部
 ##  $count (String): the number of trackers blocked.
 
 trustpanel-insecure-section-header = 您的连接不安全
+trustpanel-list-label-tracking-cookies = { $count } 个跨站跟踪性 Cookie
+trustpanel-list-label-tracking-content = 跟踪性内容
+trustpanel-list-label-social-tracking = { $count } 个社交媒体跟踪器
+trustpanel-list-label-cryptominer = { $count } 个加密货币挖矿程序
+trustpanel-social-tracking-not-blocking-tab-header = { -brand-product-name } 已允许 { $count } 个社交媒体跟踪器
