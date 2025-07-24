@@ -520,6 +520,9 @@ pdfjs-editor-alt-text-settings-close-button = 닫기
 
 pdfjs-editor-highlight-added-alert = 강조 표시 추가됨
 pdfjs-editor-freetext-added-alert = 텍스트 추가됨
+pdfjs-editor-ink-added-alert = 그리기 추가됨
+pdfjs-editor-stamp-added-alert = 이미지 추가됨
+pdfjs-editor-signature-added-alert = 서명 추가됨
 
 ## "Annotations removed" bar
 

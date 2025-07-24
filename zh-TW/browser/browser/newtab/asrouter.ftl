@@ -340,3 +340,7 @@ multi-cta-fox-doodle-privacy-focused-subtitle =
        *[other] 把您最愛的隱私保護瀏覽器保留起來，點一下即可開啟。將 { -brand-short-name } 設定為您的預設瀏覽器，並釘選至工具列。
     }
 multi-cta-fox-doodle-msix-privacy-focused-subtitle = 把您最愛的隱私保護瀏覽器保留起來，點一下即可開啟。將 { -brand-short-name } 設定為您的預設瀏覽器，並釘選至工具列與開始選單。
+
+## Windows 10 EoS Sync messages group 1 toast notification
+
+windows-10-eos-sync-toast-secondary-label = 待會提醒我

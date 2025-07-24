@@ -207,6 +207,9 @@ urlbar-result-menu-show-less-frequently =
     .label = 減少顯示
 urlbar-result-menu-dont-show-weather-suggestions =
     .label = 不要顯示天氣建議
+# Used for Split Button.
+urlbar-splitbutton-dropmarker =
+    .title = 開啟選單
 # A message shown in the urlbar when the user submits feedback on a suggestion
 # (e.g., it shows an inaccurate location, it's shown too often, etc.).
 urlbar-feedback-acknowledgment = 感謝您的意見回饋！
@@ -823,6 +826,8 @@ urlbar-searchmode-default =
 urlbar-searchmode-popup-description = 這次使用下列搜尋引擎搜尋：
 urlbar-searchmode-popup-search-settings-menuitem =
     .label = 搜尋設定
+# Label shown next to a new search engine in the Searchmode Switcher popup to promote it.
+urlbar-searchmode-new = 新增
 # Searchmode Switcher button
 # Variables:
 #   $engine (String): the current default search engine.
@@ -1150,6 +1155,10 @@ tabs-toolbar-list-all-tabs =
     .label = 列出所有分頁
     .tooltiptext = 列出所有分頁
 
+## Drop indicator text for pinned tabs when no tabs are pinned.
+
+pinned-tabs-drop-indicator = 將分頁放到此處即可釘選
+
 ## Infobar shown at startup to suggest session-restore
 
 # <img data-l10n-name="icon"/> will be replaced by the application menu icon
@@ -1318,3 +1327,52 @@ onboarding-checklist-button-label = 完成設定
 onboarding-aw-finish-setup-button =
     .label = 完成設定
     .tooltiptext = 完成設定 { -brand-short-name }
+
+## The urlbar trust panel
+
+trustpanel-etp-label-enabled = 已開啟加強型追蹤保護
+trustpanel-etp-label-disabled = 已關閉加強型追蹤保護
+# Variables
+#  $host (String): the hostname of the site that is being displayed.
+trustpanel-etp-toggle-on =
+    .aria-label = 加強型追蹤保護：對 { $host } 開啟
+# Variables
+#  $host (String): the hostname of the site that is being displayed.
+trustpanel-etp-toggle-off =
+    .aria-label = 加強型追蹤保護：對 { $host } 關閉
+trustpanel-etp-description-enabled = 若此網站功能異常，可嘗試關閉保護。
+trustpanel-connection-label-secure = 連線安全
+trustpanel-connection-label-insecure = 連線不安全
+trustpanel-header-enabled = { -brand-product-name } 警戒中
+trustpanel-description-enabled = 您已受到保護，若我們發現某些不安全的地方會再通知您
+trustpanel-header-disabled = 您已關閉保護
+trustpanel-description-disabled = 已關閉 { -brand-product-name } 的追蹤保護，建議您重新開啟。
+trustpanel-clear-cookies-button = 清除 Cookie 與網站資料
+trustpanel-privacy-link = 隱私權設定
+# Variables
+#  $host (String): the hostname of the site that is being displayed.
+trustpanel-clear-cookies-header =
+    .title = 清除 { $host } 的 Cookie 與網站資料
+trustpanel-clear-cookies-description = 清除 Cookie 與網站資料，可能會將您從某些網站登出，或清除購物車內容。
+trustpanel-clear-cookies-subview-button-clear = 清除
+trustpanel-clear-cookies-subview-button-cancel = 取消
+trustpanel-siteinformation-morelink = 更多網站資訊
+trustpanel-blocker-see-all = 檢視全部
+# Variables
+#  $host (String): the hostname of the site that is being displayed.
+trustpanel-blocker-header =
+    .title = { $host } 的追蹤保護
+
+## Variables
+##  $count (String): the number of trackers blocked.
+
+trustpanel-list-label-tracking-content = 追蹤用內容
+trustpanel-tracking-cookies-tab-list-header = 下列網站嘗試追蹤您：
+trustpanel-tracking-content-blocking-tab-header = { -brand-product-name } 已封鎖 { $count } 組追蹤器
+trustpanel-tracking-content-not-blocking-tab-header = { -brand-product-name } 已放行 { $count } 組追蹤器
+trustpanel-tracking-content-tab-list-header = 下列網站嘗試追蹤您：
+trustpanel-fingerprinter-blocking-tab-header = { -brand-product-name } 已封鎖 { $count } 組數位指紋追蹤程式
+trustpanel-fingerprinter-not-blocking-tab-header = { -brand-product-name } 已放行 { $count } 組數位指紋追蹤程式
+trustpanel-cryptominer-blocking-tab-header = { -brand-product-name } 已封鎖 { $count } 組加密貨幣採礦程式
+trustpanel-cryptominer-not-blocking-tab-header = { -brand-product-name } 已放行 { $count } 組加密貨幣採礦程式
+trustpanel-cryptominer-tab-list-header = 下列網站嘗試挖礦：

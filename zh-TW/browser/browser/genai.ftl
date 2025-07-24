@@ -87,6 +87,16 @@ genai-menu-no-provider =
     .label = 問問 AI 聊天機器人
 genai-menu-choose-chatbot =
     .label = 挑選一套機器人
+genai-menu-ask-generic-2 =
+    .label = 問問 AI 聊天機器人
+    .accesskey = h
+# $provider (string) - name of the provider
+genai-menu-ask-provider-2 =
+    .label = 問問 { $provider }
+    .accesskey = h
+genai-menu-no-provider-2 =
+    .label = 問問 AI 聊天機器人
+    .accesskey = h
 
 ## Chatbot header
 
