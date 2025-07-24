@@ -1429,6 +1429,13 @@ trustpanel-fingerprinter-blocking-tab-header =
         [few] { -brand-product-name } je { $count } zběrarjow porstowych wotćišćow zablokował
        *[other] { -brand-product-name } je { $count } zběrarjow porstowych wotćišćow zablokował
     }
+trustpanel-fingerprinter-not-blocking-tab-header =
+    { $count ->
+        [one] { -brand-product-name } je { $count } zběrarja porstowych wotćišćow dowolił
+        [two] { -brand-product-name } je { $count } zběrarjow porstowych wotćišćow dowolił
+        [few] { -brand-product-name } je { $count } zběrarjow porstowych wotćišćow dowolił
+       *[other] { -brand-product-name } je { $count } zběrarjow porstowych wotćišćow dowolił
+    }
 trustpanel-fingerprinter-list-header = Tute sydło pospytuje, porstowe wotćišće wot was wzać:
 trustpanel-cryptominer-blocking-tab-header =
     { $count ->

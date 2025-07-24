@@ -29,6 +29,7 @@ about-logging-no-log-modules = Žadyn
 about-logging-no-log-file = Žadyn
 about-logging-logging-preset-selector-text = Přednastajenje za protokolowanje:
 about-logging-with-profiler-stacks-checkbox = Staplowe přesćěhanja za protokolowe zdźělenki zmóžnić
+about-logging-with-javascript-tracing-checkbox = Slědowanje JavaScript zmóžnić
 about-logging-menu =
     .title = Rozšěrjene nastajenja
 
@@ -53,6 +54,7 @@ about-logging-preset-webcodecs-description = Module protokolować, zo bychu so p
 about-logging-preset-ml-label = Mašinelne wuknjenje
 about-logging-preset-ml-description = Module za diagnosticěrowanje problemow z mašinelnym wuknjenjom protokolować
 about-logging-preset-web-compat-label = Webkompatibelnosć
+about-logging-preset-web-compat-description = Protokolowe module za diagnosticěrowanje problemow z webkompatibelnosću
 about-logging-preset-webgpu-label = WebGPU
 about-logging-preset-webgpu-description = Protokolowe module za diagnosticěrowanje problemow WebGPU
 about-logging-preset-gfx-label = Grafika
