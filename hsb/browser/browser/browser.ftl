@@ -1398,6 +1398,20 @@ trustpanel-tracking-header = { -brand-product-name } je tute wěcy dowolił, zo 
 trustpanel-insecure-section-header = Waš zwisk wěsty njeje
 trustpanel-insecure-description = Daty, kotrež na tute sydło sćeleće, njejsu zaklučowane. Dadźa so wobhladać, kradnyć abo změnić.
 trustpanel-list-label-tracking-content = Slědowacy wobsah
+trustpanel-list-label-fingerprinter =
+    { $count ->
+        [one] { $count } zběrar porstowych wotćišćow
+        [two] { $count } zběrarjej porstowych wotćišćow
+        [few] { $count } zběrarjo porstowych wotćišćow
+       *[other] { $count } zběrarjow porstowych wotćišćow
+    }
+trustpanel-list-label-social-tracking =
+    { $count ->
+        [one] { $count } přesćěhowak socialnych medijow
+        [two] { $count } přesćěhowakaj socialnych medijow
+        [few] { $count } přesćěhowaki socialnych medijow
+       *[other] { $count } přesćěhowakow socialnych medijow
+    }
 trustpanel-list-label-cryptominer =
     { $count ->
         [one] { $count } kryptokopar
@@ -1408,6 +1422,13 @@ trustpanel-list-label-cryptominer =
 trustpanel-social-tracking-tab-list-header = Tute sydła pospytuja wam slědować:
 trustpanel-tracking-cookies-tab-list-header = Tute sydła pospytuja wam slědować:
 trustpanel-tracking-content-tab-list-header = Tute sydła pospytuja wam slědować:
+trustpanel-fingerprinter-blocking-tab-header =
+    { $count ->
+        [one] { -brand-product-name } je { $count } zběrarja porstowych wotćišćow zablokował
+        [two] { -brand-product-name } je { $count } zběrarjow porstowych wotćišćow zablokował
+        [few] { -brand-product-name } je { $count } zběrarjow porstowych wotćišćow zablokował
+       *[other] { -brand-product-name } je { $count } zběrarjow porstowych wotćišćow zablokował
+    }
 trustpanel-fingerprinter-list-header = Tute sydło pospytuje, porstowe wotćišće wot was wzać:
 trustpanel-cryptominer-blocking-tab-header =
     { $count ->
