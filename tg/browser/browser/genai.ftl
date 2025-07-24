@@ -93,6 +93,9 @@ genai-menu-no-provider =
     .label = Аз чат-боти зеҳни сунъӣ «AI» пурсед
 genai-menu-choose-chatbot =
     .label = Интихоби чат-боти зеҳни сунъӣ «AI»
+genai-menu-no-provider-2 =
+    .label = Аз чат-боти зеҳни сунъӣ «AI» пурсед
+    .accesskey = А
 
 ## Chatbot header
 

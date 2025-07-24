@@ -207,6 +207,9 @@ urlbar-result-menu-show-less-frequently =
     .label = Бисёр маротиба нишон дода нашавад
 urlbar-result-menu-dont-show-weather-suggestions =
     .label = Пешниҳодҳои обу ҳаво нишон дода нашаванд
+# Used for Split Button.
+urlbar-splitbutton-dropmarker =
+    .title = Кушодани меню
 # A message shown in the urlbar when the user submits feedback on a suggestion
 # (e.g., it shows an inaccurate location, it's shown too often, etc.).
 urlbar-feedback-acknowledgment = Ташаккур барои изҳори назари шумо
@@ -823,6 +826,8 @@ urlbar-searchmode-default =
 urlbar-searchmode-popup-description = Ин дафъа бо зерин ҷустуҷӯ кунед:
 urlbar-searchmode-popup-search-settings-menuitem =
     .label = Танзимоти ҷустуҷӯ
+# Label shown next to a new search engine in the Searchmode Switcher popup to promote it.
+urlbar-searchmode-new = Нав
 # Searchmode Switcher button
 # Variables:
 #   $engine (String): the current default search engine.
