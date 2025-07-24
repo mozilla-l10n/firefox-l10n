@@ -262,6 +262,7 @@ quickactions-print2 = ໜ້າພິມ
 quickactions-cmd-print = ພິມ
 # Opens the print dialog at the save to PDF option
 quickactions-savepdf = ບັນທຶກເປັນ PDF
+quickactions-cmd-savepdf2 = pdf, ບັນທຶກຫນ້າ
 quickactions-cmd-savepdf = pdf
 # Opens a new private browsing window
 quickactions-private2 = ເປີດປ່ອງຢ້ຽມສ່ວນຕົວ
