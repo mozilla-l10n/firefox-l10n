@@ -207,6 +207,9 @@ urlbar-result-menu-show-less-frequently =
     .label = Mjenje často pokazać
 urlbar-result-menu-dont-show-weather-suggestions =
     .label = Wjedrowe daty njepokazać
+# Used for Split Button.
+urlbar-splitbutton-dropmarker =
+    .title = Meni wočinić
 # A message shown in the urlbar when the user submits feedback on a suggestion
 # (e.g., it shows an inaccurate location, it's shown too often, etc.).
 urlbar-feedback-acknowledgment = Dźakujemy so za waš komentar
@@ -834,6 +837,8 @@ urlbar-searchmode-default =
 urlbar-searchmode-popup-description = Tónkróć pytać z:
 urlbar-searchmode-popup-search-settings-menuitem =
     .label = Pytanske nastajenja
+# Label shown next to a new search engine in the Searchmode Switcher popup to promote it.
+urlbar-searchmode-new = Nowy
 # Searchmode Switcher button
 # Variables:
 #   $engine (String): the current default search engine.
@@ -1339,3 +1344,19 @@ onboarding-checklist-button-label = Konfiguraciju dokončić
 onboarding-aw-finish-setup-button =
     .label = Konfiguraciju dokónčić
     .tooltiptext = Konfiguraciju { -brand-short-name } dokónčić
+
+## The urlbar trust panel
+
+trustpanel-etp-label-enabled = Polěpšeny slědowanski škit je zmóžnjeny
+trustpanel-etp-label-disabled = Polěpšeny slědowanski škit je znjemóžnjeny
+# Variables
+#  $host (String): the hostname of the site that is being displayed.
+trustpanel-etp-toggle-on =
+    .aria-label = Polěpšeny slědowanski škit: Za { $host } zmóžnjeny
+# Variables
+#  $host (String): the hostname of the site that is being displayed.
+trustpanel-etp-toggle-off =
+    .aria-label = Polěpšeny slědowanski škit: Za { $host } znjemóžnjeny
+trustpanel-etp-description-enabled = Jeli něšto na tutym sydle wobškodźene wupada, spytajće škity znjemóžnić.
+trustpanel-connection-label-secure = Zwisk wěsty
+trustpanel-connection-label-insecure = Zwisk njewěsty
