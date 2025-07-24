@@ -45,6 +45,7 @@ avatar-selector-save-button =
     .label = שמירה
 avatar-selector-upload-file = העלאת קובץ
 avatar-selector-drag-file = או גרירת קובץ לכאן
+avatar-selector-add-image = הוספת תמונה
 edit-profile-page-no-name = ניתן לתת שם לפרופיל זה כדי לסייע לך למצוא אותו מאוחר יותר. אפשר לשנות את השם שלו בכל עת.
 edit-profile-page-duplicate-name = שם הפרופיל כבר בשימוש. נא לנסות שם חדש.
 edit-profile-page-profile-saved = נשמר

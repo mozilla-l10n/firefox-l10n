@@ -97,6 +97,26 @@ fxa-adoption-passwords-subtitle = ניתן להגן על הססמאות שלך �
 # Opens Mozilla accounts sign-up page
 fxa-adoption-passwords-primary-button-label = הרשמה
 
+## Windows 10 EoS Sync messages group 1 callouts
+
+windows-10-eos-sync-urgency-title-1 = לא לאבד את כל מה ששמרת בעת המעבר ל־Windows 11.
+windows-10-eos-sync-urgency-subtitle-1 = ניתן לסנכרן עכשיו כדי לשמור על הסימניות, הססמאות וההגדרות שלך ב־{ -brand-short-name } בטוחות וקלות לשחזור.
+windows-10-eos-sync-urgency-title-2 = בכוונתך להיפרד מ־Windows 10? ניתן להגן על הנתונים שלך בעת המעבר למערכת החדשה.
+windows-10-eos-sync-urgency-subtitle-2 = גם אם אין לך שימוש יום יומי ב־{ -brand-short-name }, כדאי לסנכרן כדי לשמור על הסימניות והססמאות שלך בטוחות ונגישות.
+windows-10-eos-sync-new-device-title-1 = לא להסתכן בהתחלה חדשה במכשיר הבא שלך.
+windows-10-eos-sync-new-device-subtitle-1 = ניתן לסנכרן כדי לקחת את הסימניות, הססמאות וההגדרות המועדפות עליך ב־{ -brand-short-name } יחד איתך בעת המעבר.
+windows-10-eos-sync-new-device-title-2 = עוברים למכשיר חדש? לא כדאי לאבד את מה שחשוב.
+windows-10-eos-sync-new-device-subtitle-2 = לא משנה באיזו תדירות יש לך שימוש ב־{ -brand-short-name }, הסנכרון מגן על הסימניות, הססמאות וההגדרות שלך.
+windows-10-eos-sync-new-device-primary-label = סנכרון כעת
+windows-10-eos-sync-general-title-1 = הגנה על ה־{ -brand-short-name } שהפכת לשלך.
+windows-10-eos-sync-general-subtitle-1 = כדאי לגבות ולסנכרן את הססמאות, הסימניות, ההגדרות ושאר הנתונים כדי לשמור על מה שחשוב לך.
+windows-10-eos-sync-general-title-2 = עכשיו זה זמן טוב לגבות את הססמאות והסימניות שלך.
+windows-10-eos-sync-general-subtitle-2 = כדאי לסנכרן עכשיו כדי להגן על הדברים החשובים לך ב־{ -brand-short-name } - ולקבל אותם בחזרה מכל מקום, בכל עת.
+windows-10-eos-sync-tour-title-1 = יש לך יותר מדי לשוניות? אפשר לעשות קצת סדר בעזרת קבוצות לשוניות.
+windows-10-eos-sync-tour-subtitle-1 = ניתן לגרור לשונית אחת על גבי לשונית אחרת כדי ליצור קבוצה ולשמור על הדברים מסודרים.
+windows-10-eos-sync-tour-title-2 = להתכונן למעבר ל־Windows 11.
+windows-10-eos-sync-tour-subtitle-2 = כדאי לסנכרן את הסימניות, הססמאות וההגדרות שלך כדי לגבות אותן לפני המעבר.
+
 ## Sidebar Strings
 
 sidebar-button-callout-title = הצגת כותרות של לשוניות בסרגל הצד
