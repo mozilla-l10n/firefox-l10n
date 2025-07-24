@@ -1382,3 +1382,41 @@ trustpanel-blocked-header = { -brand-product-name } at blocadu custas cosas pro 
 trustpanel-tracking-header = { -brand-product-name } at permìtidu custas cosas pro chi is sitos funtzionent:
 trustpanel-tracking-description = Chene is sighidores, podet èssere chi tzertos butones, formulàrios e campos de identificatzione non funtzionent.
 trustpanel-insecure-section-header = Sa connessione tua no est segura
+trustpanel-insecure-description = Is datos chi ses imbiende a custu situ no sunt tzifrados. Diant pòdere èssere bidos, furados o modificados.
+trustpanel-list-label-tracking-cookies =
+    { $count ->
+        [one] { $count } testimòngiu de sighidura intre sitos
+       *[other] { $count } testimòngios de sighidura intre sitos
+    }
+trustpanel-list-label-tracking-content = Cuntenutu chi ti sighit
+trustpanel-list-label-fingerprinter =
+    { $count ->
+        [one] { $count } generadore de imprentas digitales
+       *[other] { $count } generadores de imprentas digitales
+    }
+trustpanel-list-label-social-tracking =
+    { $count ->
+        [one] { $count } sighidura de is retes sotziales
+       *[other] { $count } sighiduras de is retes sotziales
+    }
+trustpanel-list-label-cryptominer =
+    { $count ->
+        [one] { $count } cripto-minadore
+       *[other] { $count } cripto-minadores
+    }
+trustpanel-social-tracking-blocking-tab-header =
+    { $count ->
+        [one] { -brand-product-name } at blocadu { $count } sighidura de retes sotziales
+       *[other] { -brand-product-name } at blocadu { $count } sighiduras de retes sotziales
+    }
+trustpanel-social-tracking-not-blocking-tab-header =
+    { $count ->
+        [one] { -brand-product-name } at permìtidu { $count } sighidura de retes sotziales
+       *[other] { -brand-product-name } at permìtidu { $count } sighiduras de retes sotziales
+    }
+trustpanel-social-tracking-tab-list-header = Custos sitos sunt chirchende de ti sighire:
+trustpanel-tracking-cookies-blocking-tab-header =
+    { $count ->
+        [one] { -brand-product-name } at blocadu { $count } testimòngiu de sighidura intre sitos
+       *[other] { -brand-product-name } at blocadu { $count } testimòngios de sighidura intre sitos
+    }
