@@ -81,6 +81,8 @@ addon-removal-title = Nche boles bogare a { $name }?
 addon-removal-message = Boles bogare { $name } dae { -brand-shorter-name }?
 addon-removal-button = Boga
 addon-removal-abuse-report-checkbox = Sinnala custa estensione a { -vendor-short-name }
+# "it" refers to the local AI model that is paired to the AI feature
+addon-mlmodel-removal-body = Si impreas is funtzionalidades o is estensiones chi impreant custu modellu, at a èssere torradu a agiùnghere.
 # Variables:
 #   $addonCount (Number): the number of add-ons being downloaded
 addon-downloading-and-verifying =
