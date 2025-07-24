@@ -126,11 +126,23 @@ video-game-controller-avatar-alt =
     .alt = בקר משחקי וידאו
 custom-avatar-alt =
     .alt = תמונה מייצגת מותאמת אישית
+# Default favicon refers to the generic globe/world icon that appears in browser tabs when a website doesn't have its own favicon.
+default-favicon-avatar-alt =
+    .alt = סמל ברירת מחדל
+# Diamond refers to the precious stone, not the geometric shape
+diamond-avatar-alt =
+    .alt = יהלום
+barbell-avatar-alt =
+    .alt = משקולת
+bike-avatar-alt =
+    .alt = אופניים
 
 ## Labels for default avatar icons
 
 book-avatar = ספר
 briefcase-avatar = מזוודה
+# Canvas refers to an artist's painting canvas, not the general material
+canvas-avatar = משטח ציור
 flower-avatar = פרח
 heart-avatar = לב
 shopping-avatar = עגלת קניות
