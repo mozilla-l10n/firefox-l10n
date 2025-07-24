@@ -1393,7 +1393,10 @@ trustpanel-blocker-header =
 ## Variables
 ##  $count (String): the number of trackers blocked.
 
+trustpanel-blocked-header = { -brand-product-name } je tute wěcy za was zablokował:
+trustpanel-tracking-header = { -brand-product-name } je tute wěcy dowolił, zo bychu sydła korektnje fungowali:
 trustpanel-insecure-section-header = Waš zwisk wěsty njeje
+trustpanel-insecure-description = Daty, kotrež na tute sydło sćeleće, njejsu zaklučowane. Dadźa so wobhladać, kradnyć abo změnić.
 trustpanel-list-label-tracking-content = Slědowacy wobsah
 trustpanel-list-label-cryptominer =
     { $count ->

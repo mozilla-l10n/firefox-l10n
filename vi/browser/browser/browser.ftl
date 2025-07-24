@@ -207,6 +207,9 @@ urlbar-result-menu-show-less-frequently =
     .label = Hiển thị ít thường xuyên hơn
 urlbar-result-menu-dont-show-weather-suggestions =
     .label = Không hiển thị đề xuất về thời tiết
+# Used for Split Button.
+urlbar-splitbutton-dropmarker =
+    .title = Mở menu
 # A message shown in the urlbar when the user submits feedback on a suggestion
 # (e.g., it shows an inaccurate location, it's shown too often, etc.).
 urlbar-feedback-acknowledgment = Cảm ơn phản hồi của bạn
@@ -819,6 +822,8 @@ urlbar-searchmode-default =
 urlbar-searchmode-popup-description = Lần này, tìm kiếm với:
 urlbar-searchmode-popup-search-settings-menuitem =
     .label = Cài đặt tìm kiếm
+# Label shown next to a new search engine in the Searchmode Switcher popup to promote it.
+urlbar-searchmode-new = Mới
 # Searchmode Switcher button
 # Variables:
 #   $engine (String): the current default search engine.
@@ -1146,6 +1151,10 @@ tabs-toolbar-list-all-tabs =
     .label = Liệt kê tất cả các thẻ
     .tooltiptext = Liệt kê tất cả các thẻ
 
+## Drop indicator text for pinned tabs when no tabs are pinned.
+
+pinned-tabs-drop-indicator = Thả thẻ ở đây để ghim
+
 ## Infobar shown at startup to suggest session-restore
 
 # <img data-l10n-name="icon"/> will be replaced by the application menu icon
@@ -1310,3 +1319,76 @@ onboarding-checklist-button-label = Hoàn tất thiết lập
 onboarding-aw-finish-setup-button =
     .label = Hoàn tất thiết lập
     .tooltiptext = Hoàn tất thiết lập { -brand-short-name }
+
+## The urlbar trust panel
+
+trustpanel-etp-label-enabled = Trình chống theo dõi nâng cao đang bật
+trustpanel-etp-label-disabled = Trình chống theo dõi nâng cao đã tắt
+# Variables
+#  $host (String): the hostname of the site that is being displayed.
+trustpanel-etp-toggle-on =
+    .aria-label = Trình chống theo dõi nâng cao: Đang bật cho { $host }
+# Variables
+#  $host (String): the hostname of the site that is being displayed.
+trustpanel-etp-toggle-off =
+    .aria-label = Trình chống theo dõi nâng cao: Đã tắt cho { $host }
+trustpanel-etp-description-enabled = Nếu có gì đó bị hỏng trên trang web này, hãy thử tắt trình chống.
+trustpanel-etp-description-disabled = { -brand-product-name } cho rằng các công ty nên theo dõi bạn ít hơn. Chúng tôi sẽ chặn càng nhiều trình theo dõi càng tốt khi bạn bật chế độ bảo vệ.
+trustpanel-connection-label-secure = Kết nối an toàn
+trustpanel-connection-label-insecure = Kết nối không an toàn
+trustpanel-header-enabled = { -brand-product-name } đang bảo vệ
+trustpanel-description-enabled = Bạn đã được bảo vệ. Nếu chúng tôi phát hiện ra điều gì đó, chúng tôi sẽ cho bạn biết.
+trustpanel-header-disabled = Bạn đã tắt trình chống
+trustpanel-description-disabled = { -brand-product-name } không còn hoạt động. Chúng tôi khuyên bạn nên bật lại trình chống.
+trustpanel-clear-cookies-button = Xóa cookie và dữ liệu trang web
+trustpanel-privacy-link = Cài đặt quyền riêng tư
+# Variables
+#  $host (String): the hostname of the site that is being displayed.
+trustpanel-clear-cookies-header =
+    .title = Xóa cookie và dữ liệu trang web cho { $host }
+trustpanel-clear-cookies-description = Việc xóa cookie và dữ liệu trang web có thể khiến bạn đăng xuất khỏi các trang web và xóa giỏ hàng.
+trustpanel-clear-cookies-subview-button-clear = Xóa
+trustpanel-clear-cookies-subview-button-cancel = Hủy bỏ
+# Variables
+#  $host (String): the hostname of the site that is being displayed.
+trustpanel-site-information-header =
+    .title = Bảo vệ kết nối cho { $host }
+trustpanel-connection-secure = Bạn đang kết nối an toàn tới trang này.
+trustpanel-connection-not-secure = Bạn không được kết nối an toàn với trang web này.
+trustpanel-siteinformation-morelink = Thông tin thêm về trang web
+trustpanel-blocker-see-all = Xem tất cả
+# Variables
+#  $host (String): the hostname of the site that is being displayed.
+trustpanel-blocker-header =
+    .title = Trình chống theo dõi cho { $host }
+
+## Variables
+##  $count (String): the number of trackers blocked.
+
+trustpanel-blocker-section-header = <span>{ $count }</span> trình theo dõi bị chặn trên trang web này
+trustpanel-blocker-description = { -brand-product-name } cho rằng các công ty nên theo dõi bạn ít hơn. Vì vậy, chúng tôi chặn càng nhiều càng tốt.
+trustpanel-blocked-header = { -brand-product-name } đã chặn những thứ này cho bạn:
+trustpanel-tracking-header = { -brand-product-name } cho phép những điều này để các trang web không bị hỏng:
+trustpanel-tracking-description = Nếu không có trình theo dõi, một số nút, biểu mẫu và trường đăng nhập có thể không hoạt động.
+trustpanel-insecure-section-header = Kết nối của bạn không an toàn
+trustpanel-insecure-description = Dữ liệu bạn gửi đến trang web này không được mã hóa. Dữ liệu có thể bị xem, đánh cắp hoặc thay đổi.
+trustpanel-list-label-tracking-cookies = { $count } cookie theo dõi liên trang web
+trustpanel-list-label-tracking-content = Trình theo dõi nội dung
+trustpanel-list-label-fingerprinter = { $count } dấu vết
+trustpanel-list-label-social-tracking = { $count } trình theo dõi truyền thông xã hội
+trustpanel-list-label-cryptominer = { $count } trình đào tiền điện tử
+trustpanel-social-tracking-blocking-tab-header = { -brand-product-name } đã chặn { $count } trình theo dõi truyền thông xã hội
+trustpanel-social-tracking-not-blocking-tab-header = { -brand-product-name } đã cho phép { $count } trình theo dõi truyền thông xã hội
+trustpanel-social-tracking-tab-list-header = Các trang web này đang cố gắng theo dõi bạn:
+trustpanel-tracking-cookies-blocking-tab-header = { -brand-product-name } đã chặn { $count } cookie theo dõi liên trang web
+trustpanel-tracking-cookies-not-blocking-tab-header = { -brand-product-name } đã cho phép { $count } cookie theo dõi liên trang web
+trustpanel-tracking-cookies-tab-list-header = Các trang web này đang cố gắng theo dõi bạn:
+trustpanel-tracking-content-blocking-tab-header = { -brand-product-name } đã chặn { $count } trình theo dõi
+trustpanel-tracking-content-not-blocking-tab-header = { -brand-product-name } đã cho phép { $count } trình theo dõi
+trustpanel-tracking-content-tab-list-header = Các trang web này đang cố gắng theo dõi bạn:
+trustpanel-fingerprinter-blocking-tab-header = { -brand-product-name } đã chặn { $count } dấu vết
+trustpanel-fingerprinter-not-blocking-tab-header = { -brand-product-name } đã cho phép { $count } dấu vết
+trustpanel-fingerprinter-list-header = Những trang web này đang cố gắng lấy dấu vết của bạn:
+trustpanel-cryptominer-blocking-tab-header = { -brand-product-name } đã chặn { $count } trình đào tiền điện tử
+trustpanel-cryptominer-not-blocking-tab-header = { -brand-product-name } đã cho phép { $count } trình đào tiền điện tử
+trustpanel-cryptominer-tab-list-header = Các trang web này đang cố gắng đào tiền điện tử:
