@@ -1389,6 +1389,7 @@ trustpanel-blocked-header = ‏{ -brand-product-name } חסם את הפריטי�
 trustpanel-tracking-header = ‏{ -brand-product-name } איפשר את הפריטים הבאים כדי שהאתרים לא יישברו:
 trustpanel-tracking-description = ללא רכיבי מעקב, ייתכן שחלק מהכפתורים, הטפסים ושדות ההתחברות לא יפעלו.
 trustpanel-insecure-section-header = החיבור שלך אינו מאובטח
+trustpanel-insecure-description = הנתונים הנשלחים לאתר זה אינם מוצפנים. גורם מצד שלישי יכול לצפות, לגנוב או לשנות אותו בזמן שהוא מועבר ברשת.
 trustpanel-list-label-tracking-cookies =
     { $count ->
         [one] עוגיית מעקב אחת חוצה אתרים
@@ -1443,3 +1444,13 @@ trustpanel-tracking-content-not-blocking-tab-header =
        *[other] ‏{ -brand-product-name } איפשר { $count } רכיבי מעקב
     }
 trustpanel-tracking-content-tab-list-header = האתרים האלה מנסים לעקוב אחריך:
+trustpanel-fingerprinter-blocking-tab-header =
+    { $count ->
+        [one] ‏{ -brand-product-name } חסם רכיב זהות דיגיטלית אחד
+       *[other] ‏{ -brand-product-name } חסם { $count } רכיבי זהות דיגיטלית
+    }
+trustpanel-fingerprinter-not-blocking-tab-header =
+    { $count ->
+        [one] ‏{ -brand-product-name } איפשר רכיב זהות דיגיטלית אחד
+       *[other] ‏{ -brand-product-name } איפשר { $count } רכיבי זהות דיגיטלית
+    }
