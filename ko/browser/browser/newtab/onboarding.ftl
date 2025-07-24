@@ -447,10 +447,16 @@ onboarding-checklist-sign-up = 계정 가입 또는 로그인
 
 tab-groups-onboarding-feature-callout-title = 덜 복잡하고 더 집중할 수 있도록 탭 그룹을 사용해 보세요
 tab-groups-onboarding-feature-callout-subtitle = 하나의 탭을 다른 탭 위에 드래그하여 첫 번째 그룹을 만들어 정리하세요.
+# The text "list all tabs" refers to the string tabs-toolbar-list-all-tabs
+tab-groups-onboarding-create-group-title-3 = 탭 전체 목록 메뉴에서 탭 그룹을 찾을 수 있습니다.
 tab-groups-onboarding-create-group-title-2 = 언제든지 여기에서 탭 그룹을 찾으세요.
 tab-groups-onboarding-create-group-no-alltabs-button-title = 주소 표시줄에서 그룹을 검색하여 찾으세요.
+# The text "list all tabs" refers to the string tabs-toolbar-list-all-tabs
+tab-groups-onboarding-saved-groups-title-3 = 탭 그룹을 닫으면 언제든지 탭 전체 목록 메뉴에서 다시 열 수 있습니다.
 tab-groups-onboarding-saved-groups-title-2 = 탭 그룹을 닫으면, 언제든지 여기서 다시 열 수 있습니다.
 tab-groups-onboarding-saved-groups-no-alltabs-button-title-2 = 주소 표시줄에서 검색하여 닫힌 그룹을 찾으세요.
+# The text "list all tabs" refers to the string tabs-toolbar-list-all-tabs
+tab-groups-onboarding-session-restore-title-2 = 탭 전체 목록 메뉴에서 언제든지 탭 그룹을 다시열 수 있습니다.
 tab-groups-onboarding-session-restore-title = 언제든지 여기에서 탭 그룹을 다시 열 수 있습니다.
 tab-groups-onboarding-dismiss = 확인
 

@@ -541,6 +541,12 @@ newtab-custom-wallpaper-title = 사용자 지정 배경 화면이 있습니다
 newtab-custom-wallpaper-subtitle = 자신만의 배경 화면을 업로드하거나 사용자 지정 색상을 선택하여 나만의 { -brand-product-name }로 만들 수 있습니다.
 newtab-custom-wallpaper-cta = 사용해 보기
 
+## Strings for new user activation custom wallpaper highlight
+
+newtab-new-user-custom-wallpaper-title = 나만의 { -brand-product-name }를 만들 배경 화면을 선택하세요
+newtab-new-user-custom-wallpaper-subtitle = 사용자 지정 배경화면과 색상으로 모든 새 탭을 내 집처럼 꾸며보세요.
+newtab-new-user-custom-wallpaper-cta = 지금 사용해보기
+
 ## Strings for download mobile highlight
 
 newtab-download-mobile-highlight-title = 모바일용 { -brand-product-name } 다운로드

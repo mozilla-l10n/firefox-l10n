@@ -29,6 +29,7 @@ about-logging-no-log-modules = 없음
 about-logging-no-log-file = 없음
 about-logging-logging-preset-selector-text = 로깅 프리셋:
 about-logging-with-profiler-stacks-checkbox = 로그 메시지에 대한 스택 추적 활성화
+about-logging-with-javascript-tracing-checkbox = JavaScript 추적 활성화
 about-logging-menu =
     .title = 고급 옵션
 
@@ -52,6 +53,8 @@ about-logging-preset-webcodecs-label = WebCodecs
 about-logging-preset-webcodecs-description = WebCodecs 오디오/동영상 디코더와 인코더, 이미지 디코더의 문제를 진단하기 위한 로그 모듈
 about-logging-preset-ml-label = 기계 학습
 about-logging-preset-ml-description = 기계 학습 문제를 진단하기 위한 로그 모듈
+about-logging-preset-web-compat-label = 웹 호환성
+about-logging-preset-web-compat-description = 웹 호환성 문제를 진단하기 위한 로그 모듈
 about-logging-preset-webgpu-label = WebGPU
 about-logging-preset-webgpu-description = WebGPU 문제를 진단하기 위한 로그 모듈
 about-logging-preset-gfx-label = 그래픽
