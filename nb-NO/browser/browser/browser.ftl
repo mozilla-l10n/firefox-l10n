@@ -1347,3 +1347,21 @@ trustpanel-etp-description-disabled = { -brand-product-name } mener at selskaper
 trustpanel-connection-label-secure = Tilkoblingen er sikker
 trustpanel-connection-label-insecure = Tilkoblingen er ikke sikker
 trustpanel-header-enabled = { -brand-product-name } er på vakt
+trustpanel-description-enabled = Du er beskyttet. Om vi oppdager noe sier vi ifra
+trustpanel-header-disabled = Du har slått av beskyttelse
+trustpanel-description-disabled = { -brand-product-name } er deaktivert. Vi foreslår at du skrur på beskyttelsen igjen.
+trustpanel-clear-cookies-button = Fjern infokapsler og nettstedsdata
+trustpanel-privacy-link = Personverninnstillinger
+# Variables
+#  $host (String): the hostname of the site that is being displayed.
+trustpanel-clear-cookies-header =
+    .title = Fjern infokapsler og nettstedsdata for { $host }
+trustpanel-clear-cookies-description = Fjerning av infokapsler og nettstedsdata kan logge deg ut av nettsteder og tømme handlekurver.
+trustpanel-clear-cookies-subview-button-clear = Tøm
+trustpanel-clear-cookies-subview-button-cancel = Avbryt
+# Variables
+#  $host (String): the hostname of the site that is being displayed.
+trustpanel-site-information-header =
+    .title = Tilkoblingsbeskyttelse for { $host }
+trustpanel-connection-secure = Du er sikkert koblet til dette nettstedet.
+trustpanel-connection-not-secure = Du er ikke sikkert koblet til dette nettstedet.
