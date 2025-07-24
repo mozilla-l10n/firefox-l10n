@@ -342,3 +342,8 @@ multi-cta-fox-doodle-privacy-focused-subtitle =
        *[other] Hald favorittnettlesaren din med fokus på personvern berre eitt klikk unna. Still inn { -brand-short-name } som standard nettlesar for å opne lenker og fest han til oppgåvelinja.
     }
 multi-cta-fox-doodle-msix-privacy-focused-subtitle = Hald favorittnettlesaren din med fokus på personvern berre eitt klikk unna. Still inn { -brand-short-name } som standard nettlesar for å opne lenker og fest han til oppgåvelinja og Start-menyen.
+
+## Windows 10 EoS Sync messages group 1 toast notification
+
+windows-10-eos-sync-toast-primary-label = Kom i gang
+windows-10-eos-sync-toast-secondary-label = Minn meg på det seinare
