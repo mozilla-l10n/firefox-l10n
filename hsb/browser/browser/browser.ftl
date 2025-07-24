@@ -1360,3 +1360,34 @@ trustpanel-etp-toggle-off =
 trustpanel-etp-description-enabled = Jeli něšto na tutym sydle wobškodźene wupada, spytajće škity znjemóžnić.
 trustpanel-connection-label-secure = Zwisk wěsty
 trustpanel-connection-label-insecure = Zwisk njewěsty
+trustpanel-header-enabled = { -brand-product-name } stražuje
+trustpanel-description-enabled = Sće škitany. Jeli něšto namakamy, zdźělimy wam to
+trustpanel-header-disabled = Sće škity znjemóžnił
+trustpanel-description-disabled = { -brand-product-name } njedźěła. Namjetujemy škity zaso zmóžnić.
+trustpanel-clear-cookies-button = Placki a sydłowe daty zhašeć
+trustpanel-privacy-link = Nastajenja priwatnosće
+# Variables
+#  $host (String): the hostname of the site that is being displayed.
+trustpanel-clear-cookies-header =
+    .title = Placki a sydłowe daty za { $host } zhašeć
+trustpanel-clear-cookies-description = Hdyž placki a sydłowe daty wotstronjeće, wotzjewjeće so snano wot websydłow a wuprózdnjeće nakupowanski wozyk.
+trustpanel-clear-cookies-subview-button-clear = Zhašeć
+trustpanel-clear-cookies-subview-button-cancel = Přetorhnyć
+# Variables
+#  $host (String): the hostname of the site that is being displayed.
+trustpanel-site-information-header =
+    .title = Zwiskowy škit za { $host }
+trustpanel-connection-secure = Sće wěsće z tutym sydłom zwjazany.
+trustpanel-connection-not-secure = Njejsće wěsće z tutym sydłom zwjazany.
+trustpanel-siteinformation-morelink = Dalše sydłowe informacije
+trustpanel-blocker-see-all = Wšě pokazać
+# Variables
+#  $host (String): the hostname of the site that is being displayed.
+trustpanel-blocker-header =
+    .title = Slědowanski škit za { $host }
+
+## Variables
+##  $count (String): the number of trackers blocked.
+
+trustpanel-insecure-section-header = Waš zwisk wěsty njeje
+trustpanel-list-label-tracking-content = Slědowacy wobsah

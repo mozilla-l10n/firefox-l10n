@@ -1399,3 +1399,4 @@ trustpanel-list-label-cryptominer =
 trustpanel-social-tracking-tab-list-header = Disse nettstedene prøver å spore deg:
 trustpanel-tracking-cookies-tab-list-header = Disse nettstedene prøver å spore deg:
 trustpanel-tracking-content-tab-list-header = Disse nettstedene prøver å spore deg:
+trustpanel-cryptominer-tab-list-header = Disse nettstedene prøver å drive kryptomining:

@@ -45,6 +45,7 @@ avatar-selector-save-button =
     .label = Składować
 avatar-selector-upload-file = Dataju nahrać
 avatar-selector-drag-file = Abo ćehńće dataju sem
+avatar-selector-add-image = Wobraz přidać
 edit-profile-page-no-name = Pomjenujće tutón profil, zo byšće jón pozdźišo zaso namakał. Přemjenujće jón kóždy čas.
 edit-profile-page-duplicate-name = Profilowe mjeno so hižo wužiwa. Spytajće nowe mjeno.
 edit-profile-page-profile-saved = Składowany

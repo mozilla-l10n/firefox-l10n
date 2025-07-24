@@ -1453,7 +1453,7 @@ trustpanel-fingerprinter-not-blocking-tab-header =
         [one] { -brand-product-name } heeft { $count } fingerprinter toegestaan
        *[other] { -brand-product-name } heeft { $count } fingerprinters toegestaan
     }
-trustpanel-fingerprinter-list-header = Deze websites proberen een vingerafdruk van u te nemen:
+trustpanel-fingerprinter-list-header = Deze websites proberen een vingerafdruk van u te maken:
 trustpanel-cryptominer-blocking-tab-header =
     { $count ->
         [one] { -brand-product-name } heeft { $count } cryptominer geblokkeerd
