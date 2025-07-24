@@ -118,20 +118,88 @@ briefcase-avatar-alt =
     .alt = 公文包
 flower-avatar-alt =
     .alt = 花朵
+folder-avatar-alt =
+    .alt = 文件夹
+hammer-avatar-alt =
+    .alt = 锤子
 heart-avatar-alt =
     .alt = 爱心
+heart-rate-avatar-alt =
+    .alt = 心率
+history-avatar-alt =
+    .alt = 历史记录
+leaf-avatar-alt =
+    .alt = 叶子
+lightbulb-avatar-alt =
+    .alt = 灯泡
+makeup-avatar-alt =
+    .alt = 化妆
+# Message refers to a text message, not a traditional letter/envelope message
+message-avatar-alt =
+    .alt = 信息
+musical-note-avatar-alt =
+    .alt = 音符
+palette-avatar-alt =
+    .alt = 调色板
+paw-print-avatar-alt =
+    .alt = 爪印
+plane-avatar-alt =
+    .alt = 飞机
+# Present refers to a gift box, not the current time period
+present-avatar-alt =
+    .alt = 礼物
 shopping-avatar-alt =
     .alt = 购物车
+soccer-avatar-alt =
+    .alt = 足球
+sparkle-single-avatar-alt =
+    .alt = 星芒
 star-avatar-alt =
     .alt = 星星
+video-game-controller-avatar-alt =
+    .alt = 视频游戏控制器
 custom-avatar-alt =
     .alt = 自定义头像
+# Default favicon refers to the generic globe/world icon that appears in browser tabs when a website doesn't have its own favicon.
+default-favicon-avatar-alt =
+    .alt = 默认网站图标
+# Diamond refers to the precious stone, not the geometric shape
+diamond-avatar-alt =
+    .alt = 钻石
+barbell-avatar-alt =
+    .alt = 杠铃
+bike-avatar-alt =
+    .alt = 自行车
 
 ## Labels for default avatar icons
 
 book-avatar = 书本
 briefcase-avatar = 公文包
+# Default favicon refers to the generic globe/world icon that appears in browser tabs when a website doesn't have its own favicon.
+default-favicon-avatar = 默认网站图标
+# Diamond refers to the precious stone, not the geometric shape
+diamond-avatar = 钻石
 flower-avatar = 花朵
+folder-avatar = 文件夹
+hammer-avatar = 锤子
 heart-avatar = 爱心
+heart-rate-avatar = 心率
+history-avatar = 历史记录
+leaf-avatar = 叶子
+lightbulb-avatar = 灯泡
+makeup-avatar = 化妆
+# Message refers to a text message, not a traditional letter/envelope message
+message-avatar = 信息
+musical-note-avatar = 音符
+palette-avatar = 调色板
+paw-print-avatar = 爪印
+plane-avatar = 飞机
+# Present refers to a gift box, not the current time period
+present-avatar = 礼物
 shopping-avatar = 购物车
+soccer-avatar = 足球
+sparkle-single-avatar = 星芒
 star-avatar = 星星
+video-game-controller-avatar = 视频游戏控制器
+barbell-avatar = 杠铃
+bike-avatar = 自行车

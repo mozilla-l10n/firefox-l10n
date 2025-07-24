@@ -227,6 +227,8 @@ tab-group-editor-color-selector2-gray = 灰色
 tab-group-editor-color-selector2-red = 红色
     .title = 红色
 tab-group-description = { $tabGroupName } — 标签页群组
+tab-group-label-tooltip-collapsed = { $tabGroupName } — 已折叠
+tab-group-label-tooltip-expanded = { $tabGroupName } — 已展开
 tab-context-unnamed-group =
     .label = 未命名群组
 tab-group-name-default = 未命名群组
@@ -273,6 +275,12 @@ tab-context-ungroup-tab =
            *[other] 从群组移除
         }
     .accesskey = R
+# When a tab group containing the active tab is collapsed, the active tab
+# remains visible. An indicator appears at the end of the group showing the
+# number of remaining tabs that are hidden by the collapsed group,
+# e.g. "+2" for a group with 3 total tabs.
+tab-group-overflow-count = +{ $tabCount }
+tab-group-overflow-count-tooltip = 还有 { $tabCount } 个标签页
 
 ## Open/saved tab group context menu
 
