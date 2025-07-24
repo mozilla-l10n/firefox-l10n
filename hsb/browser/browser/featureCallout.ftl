@@ -115,6 +115,7 @@ fxa-adoption-passwords-primary-button-label = Registrować
 ## Windows 10 EoS Sync messages group 1 callouts
 
 windows-10-eos-sync-new-device-primary-label = Nětko synchronizować
+windows-10-eos-sync-tour-title-1 = Přewjele rajtarkow? Čińće porjad ze skupinami rajtarkow.
 windows-10-eos-sync-tour-title-2 = Budźće za Windows 11 přihotowany.
 
 ## Sidebar Strings

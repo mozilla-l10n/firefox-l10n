@@ -352,9 +352,11 @@ multi-cta-fox-doodle-msix-privacy-focused-subtitle = Dźeržće swój najlubši 
 
 ## Windows 10 EoS Sync messages group 1 spotlight
 
+windows-10-eos-sync-spotlight-title = Z Windows 10 bórze aktualizować?
 windows-10-eos-sync-spotlight-primary-label = Waš { -brand-short-name } zawěsćić
 
 ## Windows 10 EoS Sync messages group 1 toast notification
 
+windows-10-eos-sync-toast-title = Na Windows 11 aktualizować? Njezhubjejće zapołožki a hesła.
 windows-10-eos-sync-toast-primary-label = Prěnje kroki
 windows-10-eos-sync-toast-secondary-label = Pozdźišo dopomnić

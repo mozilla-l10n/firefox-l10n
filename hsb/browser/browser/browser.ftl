@@ -1405,3 +1405,19 @@ trustpanel-list-label-cryptominer =
 trustpanel-social-tracking-tab-list-header = Tute sydła pospytuja wam slědować:
 trustpanel-tracking-cookies-tab-list-header = Tute sydła pospytuja wam slědować:
 trustpanel-tracking-content-tab-list-header = Tute sydła pospytuja wam slědować:
+trustpanel-fingerprinter-list-header = Tute sydło pospytuje, porstowe wotćišće wot was wzać:
+trustpanel-cryptominer-blocking-tab-header =
+    { $count ->
+        [one] { -brand-product-name } je { $count } kryptokoparja zablokował
+        [two] { -brand-product-name } je { $count } kryptokoparjej zablokował
+        [few] { -brand-product-name } je { $count } kryptokoparjow zablokował
+       *[other] { -brand-product-name } je { $count } kryptokoparjow zablokował
+    }
+trustpanel-cryptominer-not-blocking-tab-header =
+    { $count ->
+        [one] { -brand-product-name } je { $count } kryptokoparja dowolił
+        [two] { -brand-product-name } je { $count } kryptokoparjej dowolił
+        [few] { -brand-product-name } je { $count } kryptokoparjow dowolił
+       *[other] { -brand-product-name } je { $count } kryptokoparjow dowolił
+    }
+trustpanel-cryptominer-tab-list-header = Tute sydła kryptokopanje pospytuja:

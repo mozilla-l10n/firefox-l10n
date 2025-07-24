@@ -1382,6 +1382,7 @@ trustpanel-blocker-section-header =
     }
 trustpanel-blocker-description = { -brand-product-name } mener at selskaper burde følge deg mindre. Så vi blokkerer så mange som mulig.
 trustpanel-blocked-header = { -brand-product-name } blokkerte disse tingene for deg:
+trustpanel-tracking-header = { -brand-product-name } tillot dette slik at nettsteder ikke skulle slutte å fungere:
 trustpanel-tracking-description = Uten sporere kan det hende at enkelte knapper, skjemaer og innloggingsfelt ikke fungerer.
 trustpanel-insecure-section-header = Tilkoblingen er ikke sikker
 trustpanel-insecure-description = Dataene du sender til dette nettstedet er ikke kryptert. De kan bli sett, stjålet eller endret.
