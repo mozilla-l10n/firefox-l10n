@@ -207,6 +207,9 @@ urlbar-result-menu-show-less-frequently =
     .label = Ammustra prus pagu a s’ispissu
 urlbar-result-menu-dont-show-weather-suggestions =
     .label = No ammustres cussìgios de su tempus
+# Used for Split Button.
+urlbar-splitbutton-dropmarker =
+    .title = Aberi su menù
 # A message shown in the urlbar when the user submits feedback on a suggestion
 # (e.g., it shows an inaccurate location, it's shown too often, etc.).
 urlbar-feedback-acknowledgment = Gràtzias de s’opinione tua
@@ -363,6 +366,7 @@ quickactions-downloads2 = Ammustra is iscarrigamentos
 quickactions-cmd-downloads = iscarrigamentos
 # Opens about:addons page in the extensions section
 quickactions-extensions = Gesti is estensiones
+quickactions-cmd-extensions2 = estensiones, cumplementos
 quickactions-cmd-extensions = estensiones
 # Opens Firefox View
 quickactions-firefoxview = Aberi { -firefoxview-brand-name }
@@ -410,6 +414,10 @@ quickactions-cmd-settings2 = cunfiguratziones, preferèntzias, optziones, gesti
 quickactions-cmd-settings = cunfiguratziones, preferèntzias, optziones
 # Opens about:addons page in the themes section
 quickactions-themes = Gesti is temas
+# In English we provide multiple spellings for "add-ons". If that's not
+# applicable to your language, only use the correct spelling (don't repeat the
+# same word).
+quickactions-cmd-themes2 = temas, cumplementos
 quickactions-cmd-themes = temas
 # Opens a SUMO article explaining how to update the browser
 quickactions-update = Atualiza { -brand-short-name }
@@ -744,6 +752,40 @@ urlbar-result-action-calculator-result-3 = = { NUMBER($result, useGrouping: "fal
 # Variables
 #  $result (String): the string representation for a formula result
 urlbar-result-action-calculator-result-decimal = = { NUMBER($result, maximumSignificantDigits: 9) }
+# The title of a weather suggestion in the urlbar. The temperature and unit
+# substring should be inside a <strong> tag. If the temperature and unit are not
+# adjacent in the localization, it's OK to include only the temperature in the
+# tag.
+# Variables:
+#   $temperature (number) - The temperature value
+#   $unit (String) - The unit for the temperature, either "C" or "F"
+#   $city (String) - The name of the city the weather data is for
+#   $region (String) - The name of the city's region or country. Depending on
+#       the user's location in relation to the city, this may be the name or
+#       abbreviation of one of the city's administrative divisions like a
+#       province or state, or it may be the name of the city's country.
+urlbar-result-weather-title = <strong>{ $temperature }°{ $unit }</strong> in { $city }, { $region }
+# The title of a weather suggestion in the urlbar including a region and
+# country. The temperature and unit substring should be inside a <strong> tag.
+# If the temperature and unit are not adjacent in the localization, it's OK to
+# include only the temperature in the tag.
+# Variables:
+#   $temperature (number) - The temperature value
+#   $unit (String) - The unit for the temperature, either "C" or "F"
+#   $city (String) - The name of the city the weather data is for
+#   $region (String) - The name or abbreviation of one of the city's
+#       administrative divisions like a province or state.
+#   $country (String) - The name of the city's country.
+urlbar-result-weather-title-with-country = <strong>{ $temperature }°{ $unit }</strong> in { $city }, { $region }, { $country }
+# The title of a weather suggestion in the urlbar only including the city. The
+# temperature and unit substring should be inside a <strong> tag. If the
+# temperature and unit are not adjacent in the localization, it's OK to include
+# only the temperature in the tag.
+# Variables:
+#   $temperature (number) - The temperature value
+#   $unit (String) - The unit for the temperature, either "C" or "F"
+#   $city (String) - The name of the city the weather data is for
+urlbar-result-weather-title-city-only = <strong>{ $temperature }°{ $unit }</strong> in { $city }
 # Shows the name of the provider of weather data in a weather suggestion in the
 # urlbar.
 # Variables:
@@ -777,11 +819,15 @@ urlbar-searchmode-actions =
     .label = Atziones
 urlbar-searchmode-exit-button =
     .tooltiptext = Serra
+urlbar-searchmode-default =
+    .tooltiptext = Motore de chirca predefinidu
 # Label shown on the top of Searchmode Switcher popup. After this label, the
 # available search engines will be listed.
 urlbar-searchmode-popup-description = Custa borta chirca cun:
 urlbar-searchmode-popup-search-settings-menuitem =
     .label = Cunfiguratzione de chirca
+# Label shown next to a new search engine in the Searchmode Switcher popup to promote it.
+urlbar-searchmode-new = Nou
 # Searchmode Switcher button
 # Variables:
 #   $engine (String): the current default search engine.
@@ -1109,6 +1155,10 @@ tabs-toolbar-list-all-tabs =
     .label = Elenca totu is ischedas
     .tooltiptext = Elenca totu is ischedas
 
+## Drop indicator text for pinned tabs when no tabs are pinned.
+
+pinned-tabs-drop-indicator = Trìsina un’ischeda inoghe pro dd’apicare
+
 ## Infobar shown at startup to suggest session-restore
 
 # <img data-l10n-name="icon"/> will be replaced by the application menu icon
@@ -1217,6 +1267,11 @@ popup-notification-xpinstall-prompt-block-url = Ammustra detàllios
 popup-notification-addon-privatebrowsing-checkbox2 =
     .label = Permite chi custa estensione funtzionet in ventanas privadas
     .accesskey = p
+# This string is similar to `webext-perms-description-data-long-technicalAndInteraction`
+# but it is used in the install prompt, and it needs an access key.
+popup-notification-addon-technical-and-interaction-checkbox =
+    .label = Cumpartzire datos tècnicos e de interatziones cun s’iscuadra de isvilupu de s’estensione
+    .accesskey = C
 
 ## Pop-up warning
 
@@ -1274,3 +1329,56 @@ onboarding-checklist-button-label = Cumpleta sa cunfiguratzione
 onboarding-aw-finish-setup-button =
     .label = Cumpleta sa cunfiguratzione
     .tooltiptext = Cumpleta sa cunfiguratzione de { -brand-short-name }
+
+## The urlbar trust panel
+
+trustpanel-etp-label-enabled = Amparu megioradu contra sa sighidura ativadu
+trustpanel-etp-label-disabled = Amparu megioradu contra sa sighidura disativadu
+# Variables
+#  $host (String): the hostname of the site that is being displayed.
+trustpanel-etp-toggle-on =
+    .aria-label = Amparu megioradu contra sa sighidura: ativadu pro { $host }
+# Variables
+#  $host (String): the hostname of the site that is being displayed.
+trustpanel-etp-toggle-off =
+    .aria-label = Amparu megioradu contra sa sighidura: disativadu pro { $host }
+trustpanel-connection-label-secure = Connessione segura
+trustpanel-connection-label-insecure = Connessione non segura
+trustpanel-header-enabled = { -brand-product-name } est in alerta
+trustpanel-description-enabled = Ses a suta de s’amparu nostru. Si rilevamus calicuna cosa, ti dd’amus a fàghere ischire
+trustpanel-header-disabled = As disativadu is protetziones
+trustpanel-description-disabled = { -brand-product-name } no est funtzionende. Ti cussigiamus de torrare a ativare is protetziones.
+trustpanel-clear-cookies-button = Isbòida is testimòngios e is datos de is sitos
+trustpanel-privacy-link = Cunfiguratziones de riservadesa
+# Variables
+#  $host (String): the hostname of the site that is being displayed.
+trustpanel-clear-cookies-header =
+    .title = Isbòida is testimòngios e is datos de is sitos pro { $host }
+trustpanel-clear-cookies-subview-button-clear = Isbòida
+trustpanel-clear-cookies-subview-button-cancel = Annulla
+# Variables
+#  $host (String): the hostname of the site that is being displayed.
+trustpanel-site-information-header =
+    .title = Protetziones pro sa connessione a { $host }
+trustpanel-connection-secure = Sa connessione a custu situ est segura.
+trustpanel-connection-not-secure = Sa connessione a custu situ no est segura.
+trustpanel-siteinformation-morelink = Àteras informatziones de su situ
+trustpanel-blocker-see-all = Ammustra totu
+# Variables
+#  $host (String): the hostname of the site that is being displayed.
+trustpanel-blocker-header =
+    .title = Amparu contra sa sighidura pro { $host }
+
+## Variables
+##  $count (String): the number of trackers blocked.
+
+trustpanel-blocker-section-header =
+    { $count ->
+        [one] <span>{ $count }</span> sighidura blocada in custu situ
+       *[other] <span>{ $count }</span> sighiduras blocadas in custu situ
+    }
+trustpanel-blocker-description = { -brand-product-name } pensat chi is aziendas ti diant dèpere sighire prus pagu. E duncas nde blocamus cantu podimus.
+trustpanel-blocked-header = { -brand-product-name } at blocadu custas cosas pro tie:
+trustpanel-tracking-header = { -brand-product-name } at permìtidu custas cosas pro chi is sitos funtzionent:
+trustpanel-tracking-description = Chene is sighidores, podet èssere chi tzertos butones, formulàrios e campos de identificatzione non funtzionent.
+trustpanel-insecure-section-header = Sa connessione tua no est segura
