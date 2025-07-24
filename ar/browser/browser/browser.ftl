@@ -207,6 +207,9 @@ urlbar-result-menu-show-less-frequently =
     .label = اعرض أقل تواترا
 urlbar-result-menu-dont-show-weather-suggestions =
     .label = لا تعرض اقتراحات الطقس
+# Used for Split Button.
+urlbar-splitbutton-dropmarker =
+    .title = افتح القائمة
 # A message shown in the urlbar when the user submits feedback on a suggestion
 # (e.g., it shows an inaccurate location, it's shown too often, etc.).
 urlbar-feedback-acknowledgment = شكرًا على تعليقك
@@ -830,11 +833,15 @@ urlbar-searchmode-actions =
     .label = الإجراءات
 urlbar-searchmode-exit-button =
     .tooltiptext = أغلق
+urlbar-searchmode-default =
+    .tooltiptext = محرّك البحث المبدئي
 # Label shown on the top of Searchmode Switcher popup. After this label, the
 # available search engines will be listed.
 urlbar-searchmode-popup-description = ابحث هذه المرة ب:
 urlbar-searchmode-popup-search-settings-menuitem =
     .label = إعدادات البحث
+# Label shown next to a new search engine in the Searchmode Switcher popup to promote it.
+urlbar-searchmode-new = جديد
 # Searchmode Switcher button
 # Variables:
 #   $engine (String): the current default search engine.
@@ -1341,3 +1348,8 @@ onboarding-checklist-button-label = أنهِ الإعداد
 onboarding-aw-finish-setup-button =
     .label = أنهِ الإعداد
     .tooltiptext = أنهِ إعداد { -brand-short-name }
+
+## The urlbar trust panel
+
+trustpanel-connection-label-secure = الاتصال آمن
+trustpanel-connection-label-insecure = الاتصال غير آمن
