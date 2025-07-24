@@ -447,10 +447,16 @@ onboarding-checklist-sign-up = Đăng ký hoặc đăng nhập vào tài khoản
 
 tab-groups-onboarding-feature-callout-title = Hãy thử nhóm thẻ để bớt lộn xộn hơn, tập trung hơn
 tab-groups-onboarding-feature-callout-subtitle = Sắp xếp gọn gàng bằng cách kéo thẻ này lên trên thẻ khác để tạo nhóm đầu tiên của bạn.
+# The text "list all tabs" refers to the string tabs-toolbar-list-all-tabs
+tab-groups-onboarding-create-group-title-3 = Tìm nhóm thẻ của bạn trong menu Liệt kê tất cả thẻ bất cứ lúc nào.
 tab-groups-onboarding-create-group-title-2 = Tìm nhóm thẻ của bạn tại đây bất cứ lúc nào.
 tab-groups-onboarding-create-group-no-alltabs-button-title = Tìm nhóm của bạn bằng cách tìm kiếm nhóm trong thanh địa chỉ.
+# The text "list all tabs" refers to the string tabs-toolbar-list-all-tabs
+tab-groups-onboarding-saved-groups-title-3 = Khi bạn đóng một nhóm thẻ, hãy mở lại nhóm đó bất cứ lúc nào từ menu Liệt kê tất cả các thẻ.
 tab-groups-onboarding-saved-groups-title-2 = Khi đóng một nhóm thẻ, bạn có thể mở lại nhóm đó tại đây bất cứ lúc nào.
 tab-groups-onboarding-saved-groups-no-alltabs-button-title-2 = Tìm các nhóm mà bạn đã đóng bằng cách tìm kiếm chúng trong thanh địa chỉ.
+# The text "list all tabs" refers to the string tabs-toolbar-list-all-tabs
+tab-groups-onboarding-session-restore-title-2 = Mở lại nhóm thẻ của bạn từ menu Liệt kê tất cả thẻ bất cứ lúc nào.
 tab-groups-onboarding-session-restore-title = Mở lại các nhóm thẻ của bạn tại đây bất cứ lúc nào.
 tab-groups-onboarding-dismiss = OK
 

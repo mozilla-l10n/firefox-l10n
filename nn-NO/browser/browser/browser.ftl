@@ -1343,8 +1343,28 @@ trustpanel-etp-toggle-on =
 trustpanel-etp-toggle-off =
     .aria-label = Utvida sporingsvern: På for { $host }
 trustpanel-etp-description-enabled = Viss noko ser øydelagt ut på denne nettstaden, prøv å slå av vernet.
+trustpanel-etp-description-disabled = { -brand-product-name } meiner at selskap burde følgje deg mindre. Vi blokkerar så mange sporarar som mogleg når du slår på vern.
+trustpanel-connection-label-secure = Tilkoplinga er trygg
+trustpanel-connection-label-insecure = Tilkoplinga er ikkje trygg
+trustpanel-header-enabled = { -brand-product-name } er på vakt
+trustpanel-description-enabled = Du er verna. Om vi oppdagar noko seier vi ifrå
+trustpanel-header-disabled = Du har slått av vern
+trustpanel-description-disabled = { -brand-product-name } er deaktivert. Vi foreslår at du skrur på vernet igjen.
+trustpanel-clear-cookies-button = Slett infokapslar og nettstaddata
+trustpanel-privacy-link = Personverninnstillingar
+# Variables
+#  $host (String): the hostname of the site that is being displayed.
+trustpanel-clear-cookies-header =
+    .title = Fjern infokapslar og nettstad-data for { $host }
+trustpanel-clear-cookies-description = Fjerning av infokapslar og nettstad-data kan logge deg ut av nettstadar og tøme handlekorger.
 trustpanel-clear-cookies-subview-button-clear = Tøm
 trustpanel-clear-cookies-subview-button-cancel = Avbryt
+# Variables
+#  $host (String): the hostname of the site that is being displayed.
+trustpanel-site-information-header =
+    .title = Tilkoplingsvern for { $host }
+trustpanel-connection-secure = Du er sikkert kopla til denne nettstaden.
+trustpanel-connection-not-secure = Du er ikkje sikkert kopla til denne nettstaden.
 
 ## Variables
 ##  $count (String): the number of trackers blocked.

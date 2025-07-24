@@ -29,6 +29,7 @@ about-logging-no-log-modules = Không
 about-logging-no-log-file = Không
 about-logging-logging-preset-selector-text = Ghi nhật ký đặt trước:
 about-logging-with-profiler-stacks-checkbox = Bật dấu vết ngăn xếp (stack trace) cho tin nhắn nhật ký
+about-logging-with-javascript-tracing-checkbox = Bật theo dõi JavaScript
 about-logging-menu =
     .title = Tùy chọn nâng cao
 
@@ -52,6 +53,8 @@ about-logging-preset-webcodecs-label = WebCodecs
 about-logging-preset-webcodecs-description = Module nhật ký để chuẩn đoán sự cố với bộ giải mã và mã hoá âm thanh/video, và giải mã hình ảnh WebCodecs
 about-logging-preset-ml-label = Học máy (Machine Learning)
 about-logging-preset-ml-description = Ghi nhật ký các module để chẩn đoán các vấn đề về học máy (machine learning)
+about-logging-preset-web-compat-label = Web Compat
+about-logging-preset-web-compat-description = Ghi nhật ký module để chẩn đoán các vấn đề tương thích web
 about-logging-preset-webgpu-label = WebGPU
 about-logging-preset-webgpu-description = Ghi lại các module để chẩn đoán sự cố WebGPU
 about-logging-preset-gfx-label = Đồ họa

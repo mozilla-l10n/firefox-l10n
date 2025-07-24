@@ -207,6 +207,9 @@ urlbar-result-menu-show-less-frequently =
     .label = Afficher moins souvent
 urlbar-result-menu-dont-show-weather-suggestions =
     .label = Ne pas afficher les suggestions météo
+# Used for Split Button.
+urlbar-splitbutton-dropmarker =
+    .title = Ouvrir le menu
 # A message shown in the urlbar when the user submits feedback on a suggestion
 # (e.g., it shows an inaccurate location, it's shown too often, etc.).
 urlbar-feedback-acknowledgment = Merci de votre retour
@@ -826,6 +829,8 @@ urlbar-searchmode-default =
 urlbar-searchmode-popup-description = Pour cette fois-ci, rechercher avec :
 urlbar-searchmode-popup-search-settings-menuitem =
     .label = Paramètres de recherche
+# Label shown next to a new search engine in the Searchmode Switcher popup to promote it.
+urlbar-searchmode-new = Nouveau
 # Searchmode Switcher button
 # Variables:
 #   $engine (String): the current default search engine.

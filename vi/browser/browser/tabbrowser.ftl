@@ -229,6 +229,8 @@ tab-group-editor-color-selector2-gray = Xám
 tab-group-editor-color-selector2-red = Đỏ
     .title = Đỏ
 tab-group-description = { $tabGroupName } — Nhóm thẻ
+tab-group-label-tooltip-collapsed = { $tabGroupName } — Đã thu gọn
+tab-group-label-tooltip-expanded = { $tabGroupName } — Đã mở rộng
 tab-context-unnamed-group =
     .label = Nhóm không tên
 tab-group-name-default = Nhóm chưa có tên
@@ -275,6 +277,12 @@ tab-context-ungroup-tab =
            *[other] Xoá khỏi các nhóm
         }
     .accesskey = R
+# When a tab group containing the active tab is collapsed, the active tab
+# remains visible. An indicator appears at the end of the group showing the
+# number of remaining tabs that are hidden by the collapsed group,
+# e.g. "+2" for a group with 3 total tabs.
+tab-group-overflow-count = +{ $tabCount }
+tab-group-overflow-count-tooltip = { $tabCount } thẻ khác
 
 ## Open/saved tab group context menu
 

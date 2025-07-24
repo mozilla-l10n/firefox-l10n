@@ -340,3 +340,16 @@ multi-cta-fox-doodle-privacy-focused-subtitle =
        *[other] Giữ trình duyệt yêu thích tập trung vào quyền riêng tư của mình để mở bằng một cú nhấp chuột. Đặt { -brand-short-name } làm trình duyệt mặc định để mở các liên kết và ghim nó vào thanh tác vụ của bạn.
     }
 multi-cta-fox-doodle-msix-privacy-focused-subtitle = Giữ trình duyệt yêu thích tập trung vào quyền riêng tư của mình để mở bằng một cú nhấp chuột. Đặt { -brand-short-name } làm trình duyệt mặc định để mở các liên kết và ghim nó vào thanh tác vụ và Start menu của bạn.
+
+## Windows 10 EoS Sync messages group 1 spotlight
+
+windows-10-eos-sync-spotlight-title = Bạn sắp nâng cấp từ Windows 10?
+windows-10-eos-sync-spotlight-subtitle = Sao lưu mật khẩu và dấu trang để bạn sẵn sàng chuyển sang bất kỳ thiết bị nào.
+windows-10-eos-sync-spotlight-primary-label = Sao lưu { -brand-short-name } của bạn
+
+## Windows 10 EoS Sync messages group 1 toast notification
+
+windows-10-eos-sync-toast-title = Nâng cấp lên Windows 11? Đừng để bị mất dấu trang và mật khẩu.
+windows-10-eos-sync-toast-subtitle = Sao lưu dữ liệu của bạn để { -brand-short-name } luôn sẵn sàng sử dụng bất cứ lúc nào, trên máy tính này hoặc máy tính tiếp theo.
+windows-10-eos-sync-toast-primary-label = Bắt đầu
+windows-10-eos-sync-toast-secondary-label = Nhắc tôi sau

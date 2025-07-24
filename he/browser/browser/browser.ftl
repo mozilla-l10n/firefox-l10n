@@ -1405,3 +1405,8 @@ trustpanel-list-label-social-tracking =
         [one] רכיב מעקב אחד של מדיה חברתית
        *[other] { $count } רכיבי מעקב של מדיה חברתית
     }
+trustpanel-list-label-cryptominer =
+    { $count ->
+        [one] כורה מטבעות דיגיטליים אחד
+       *[other] { $count } כורי מטבעות דיגיטליים
+    }
