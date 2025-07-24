@@ -207,6 +207,9 @@ urlbar-result-menu-show-less-frequently =
     .label = 덜 자주 보기
 urlbar-result-menu-dont-show-weather-suggestions =
     .label = 날씨 제안을 표시하지 않음
+# Used for Split Button.
+urlbar-splitbutton-dropmarker =
+    .title = 메뉴 열기
 # A message shown in the urlbar when the user submits feedback on a suggestion
 # (e.g., it shows an inaccurate location, it's shown too often, etc.).
 urlbar-feedback-acknowledgment = 의견을 보내 주셔서 감사합니다
