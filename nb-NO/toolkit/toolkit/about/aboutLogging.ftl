@@ -29,6 +29,7 @@ about-logging-no-log-modules = Ingen
 about-logging-no-log-file = Ingen
 about-logging-logging-preset-selector-text = Forhåndsvalg for logging:
 about-logging-with-profiler-stacks-checkbox = Aktiver stack-sporing for loggmeldinger
+about-logging-with-javascript-tracing-checkbox = Aktiver JavaScript-sporing
 about-logging-menu =
     .title = Avanserte innstillinger
 

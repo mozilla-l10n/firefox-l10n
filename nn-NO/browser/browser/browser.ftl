@@ -207,6 +207,9 @@ urlbar-result-menu-show-less-frequently =
     .label = Vis sjeldnare
 urlbar-result-menu-dont-show-weather-suggestions =
     .label = Ikkje vis vêrforslag
+# Used for Split Button.
+urlbar-splitbutton-dropmarker =
+    .title = Opne meny
 # A message shown in the urlbar when the user submits feedback on a suggestion
 # (e.g., it shows an inaccurate location, it's shown too often, etc.).
 urlbar-feedback-acknowledgment = Takk for tilbakemeldinga di
@@ -823,6 +826,8 @@ urlbar-searchmode-default =
 urlbar-searchmode-popup-description = Søk denne gong med:
 urlbar-searchmode-popup-search-settings-menuitem =
     .label = Søkjeinnstillingar
+# Label shown next to a new search engine in the Searchmode Switcher popup to promote it.
+urlbar-searchmode-new = Ny
 # Searchmode Switcher button
 # Variables:
 #   $engine (String): the current default search engine.
@@ -1320,3 +1325,13 @@ onboarding-checklist-button-label = Fullfør oppsett
 onboarding-aw-finish-setup-button =
     .label = Fullfør oppsettet
     .tooltiptext = Fullfør oppsettet av { -brand-short-name }
+
+## The urlbar trust panel
+
+trustpanel-clear-cookies-subview-button-clear = Tøm
+trustpanel-clear-cookies-subview-button-cancel = Avbryt
+
+## Variables
+##  $count (String): the number of trackers blocked.
+
+trustpanel-list-label-tracking-content = Sporingsinnhald

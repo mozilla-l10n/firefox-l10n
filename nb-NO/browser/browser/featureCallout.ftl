@@ -112,6 +112,11 @@ fxa-adoption-passwords-subtitle = Beskytt passordene dine ved å synkronisere de
 # Opens Mozilla accounts sign-up page
 fxa-adoption-passwords-primary-button-label = Registrer deg
 
+## Windows 10 EoS Sync messages group 1 callouts
+
+windows-10-eos-sync-urgency-title-1 = Ikke mist alt du har lagret når du flytter til Windows 11.
+windows-10-eos-sync-urgency-title-2 = Skal du si farvel til Windows 10? Beskytt dataene dine når du bytter.
+
 ## Sidebar Strings
 
 sidebar-button-callout-title = Vis fanetitler i sidestolpen
