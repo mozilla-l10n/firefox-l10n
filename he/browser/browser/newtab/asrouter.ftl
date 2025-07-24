@@ -336,3 +336,7 @@ multi-cta-fox-doodle-privacy-focused-subtitle =
        *[other] באפשרותך לשמור את הדפדפן ממוקד הפרטיות האהוב עליך במרחק לחיצה אחת בלבד. כדאי להגדיר את { -brand-short-name } כדפדפן ברירת המחדל שלך לפתיחת קישורים ולהצמיד אותו לשורת המשימות שלך.
     }
 multi-cta-fox-doodle-msix-privacy-focused-subtitle = באפשרותך לשמור את הדפדפן ממוקד הפרטיות האהוב עליך במרחק לחיצה אחת בלבד. כדאי להגדיר את { -brand-short-name } כדפדפן ברירת המחדל שלך לפתיחת קישורים ולהצמיד אותו לשורת המשימות ותפריט ההתחל שלך.
+
+## Windows 10 EoS Sync messages group 1 spotlight
+
+windows-10-eos-sync-spotlight-title = בכוונתך לשדרג מ־Windows 10 בקרוב?
