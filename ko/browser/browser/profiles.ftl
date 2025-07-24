@@ -45,6 +45,8 @@ avatar-selector-save-button =
     .label = 저장
 avatar-selector-upload-file = 파일 업로드
 avatar-selector-drag-file = 또는 여기로 파일을 끌어서 놓기
+avatar-selector-add-image = 이미지 추가
+avatar-selector-crop = 자르기
 edit-profile-page-no-name = 나중에 쉽게 찾을 수 있도록 프로필의 이름을 지정하세요. 언제든지 이름을 변경할 수 있습니다.
 edit-profile-page-duplicate-name = 이미 사용 중인 프로필 이름입니다. 새로운 이름을 입력하세요.
 edit-profile-page-profile-saved = 저장됨
@@ -114,22 +116,101 @@ book-avatar-alt =
     .alt = 책
 briefcase-avatar-alt =
     .alt = 서류 가방
+# Canvas refers to an artist's painting canvas, not the general material
+canvas-avatar-alt =
+    .alt = 캔버스
+# Craft refers to hobby arts and crafts, represented by a button/fastener commonly found on clothing like shirts
+craft-avatar-alt =
+    .alt = 공예
 flower-avatar-alt =
     .alt = 꽃
+folder-avatar-alt =
+    .alt = 폴더
+hammer-avatar-alt =
+    .alt = 망치
 heart-avatar-alt =
     .alt = 하트
+heart-rate-avatar-alt =
+    .alt = 심박수
+history-avatar-alt =
+    .alt = 기록
+leaf-avatar-alt =
+    .alt = 잎
+lightbulb-avatar-alt =
+    .alt = 전구
+makeup-avatar-alt =
+    .alt = 화장
+# Message refers to a text message, not a traditional letter/envelope message
+message-avatar-alt =
+    .alt = 메시지
+musical-note-avatar-alt =
+    .alt = 음표
+palette-avatar-alt =
+    .alt = 팔레트
+paw-print-avatar-alt =
+    .alt = 발자국
+plane-avatar-alt =
+    .alt = 비행기
+# Present refers to a gift box, not the current time period
+present-avatar-alt =
+    .alt = 선물
 shopping-avatar-alt =
     .alt = 장바구니
+soccer-avatar-alt =
+    .alt = 축구
+sparkle-single-avatar-alt =
+    .alt = 불꽃
 star-avatar-alt =
     .alt = 별
+video-game-controller-avatar-alt =
+    .alt = 비디오 게임 컨트롤러
 custom-avatar-alt =
     .alt = 아바타 사용자 지정
+# Default favicon refers to the generic globe/world icon that appears in browser tabs when a website doesn't have its own favicon.
+default-favicon-avatar-alt =
+    .alt = 기본 파비콘
+# Diamond refers to the precious stone, not the geometric shape
+diamond-avatar-alt =
+    .alt = 다이아몬드
+barbell-avatar-alt =
+    .alt = 바벨
+bike-avatar-alt =
+    .alt = 자전거
 
 ## Labels for default avatar icons
 
 book-avatar = 책
 briefcase-avatar = 서류 가방
+# Canvas refers to an artist's painting canvas, not the general material
+canvas-avatar = 캔버스
+# Craft refers to hobby arts and crafts, represented by a button/fastener commonly found on clothing like shirts
+craft-avatar = 공예
+custom-avatar = 사용자 지정 아바타
+# Default favicon refers to the generic globe/world icon that appears in browser tabs when a website doesn't have its own favicon.
+default-favicon-avatar = 기본 파비콘
+# Diamond refers to the precious stone, not the geometric shape
+diamond-avatar = 다이아몬드
 flower-avatar = 꽃
+folder-avatar = 폴더
+hammer-avatar = 망치
 heart-avatar = 하트
+heart-rate-avatar = 심박수
+history-avatar = 기록
+leaf-avatar = 잎
+lightbulb-avatar = 전구
+makeup-avatar = 화장
+# Message refers to a text message, not a traditional letter/envelope message
+message-avatar = 메시지
+musical-note-avatar = 음표
+palette-avatar = 팔레트
+paw-print-avatar = 발자국
+plane-avatar = 비행기
+# Present refers to a gift box, not the current time period
+present-avatar = 선물
 shopping-avatar = 장바구니
+soccer-avatar = 축구
+sparkle-single-avatar = 불꽃
 star-avatar = 별
+video-game-controller-avatar = 비디오 게임 컨트롤러
+barbell-avatar = 바벨
+bike-avatar = 자전거
