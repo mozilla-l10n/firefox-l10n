@@ -120,6 +120,15 @@ windows-10-eos-sync-urgency-title-2 = Skal du si farvel til Windows 10? Beskytt 
 windows-10-eos-sync-urgency-subtitle-2 = Selv om du ikke bruker { -brand-short-name } daglig, bør du synkronisere for å holde bokmerker og passord sikker og tilgjengelig.
 windows-10-eos-sync-new-device-title-1 = Ikke risiker å måtte starte på nytt på den neste enheten din.
 windows-10-eos-sync-new-device-subtitle-1 = Synkroniser for å ta med deg bokmerkene, passordene og de foretrukne innstillingene dine fra { -brand-short-name } når du flytter.
+windows-10-eos-sync-new-device-title-2 = Skal du bytte til en ny enhet? Ikke mist det som betyr noe.
+windows-10-eos-sync-new-device-subtitle-2 = Uansett hvor ofte du bruker { -brand-short-name }, beskytter synkronisering dine bokmerker, passord og innstillinger.
+windows-10-eos-sync-new-device-primary-label = Synkroniser nå
+windows-10-eos-sync-general-title-1 = Beskytt { -brand-short-name } slik du har tilpasset den.
+windows-10-eos-sync-general-subtitle-1 = Sikkerhetskopier og synkroniser passordene, bokmerkene, innstillingene og andre data for å bevare det du er avhengig av.
+windows-10-eos-sync-general-title-2 = Nå er det et godt tidspunkt å sikkerhetskopiere dine passord og bokmerker.
+windows-10-eos-sync-tour-title-1 = For mange faner? Rydd opp med fanegrupper.
+windows-10-eos-sync-tour-subtitle-1 = Dra én fane oppå en annen for å opprette en gruppe og holde ting organisert.
+windows-10-eos-sync-tour-title-2 = Bli organisert for Windows 11.
 
 ## Sidebar Strings
 

@@ -112,6 +112,11 @@ fxa-adoption-passwords-subtitle = Synchronizujće swoje hesła ze swojimi gratam
 # Opens Mozilla accounts sign-up page
 fxa-adoption-passwords-primary-button-label = Registrować
 
+## Windows 10 EoS Sync messages group 1 callouts
+
+windows-10-eos-sync-new-device-primary-label = Nětko synchronizować
+windows-10-eos-sync-tour-title-2 = Budźće za Windows 11 přihotowany.
+
 ## Sidebar Strings
 
 sidebar-button-callout-title = Titule rajtarkow w bóčnicy pokazać

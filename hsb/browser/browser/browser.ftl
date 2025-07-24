@@ -1166,6 +1166,10 @@ tabs-toolbar-list-all-tabs =
     .label = Wšě rajtarki nalistować
     .tooltiptext = Wšě rajtarki nalistować
 
+## Drop indicator text for pinned tabs when no tabs are pinned.
+
+pinned-tabs-drop-indicator = Pušćće tu, zo byšće připjał
+
 ## Infobar shown at startup to suggest session-restore
 
 # <img data-l10n-name="icon"/> will be replaced by the application menu icon
@@ -1391,3 +1395,4 @@ trustpanel-blocker-header =
 
 trustpanel-insecure-section-header = Waš zwisk wěsty njeje
 trustpanel-list-label-tracking-content = Slědowacy wobsah
+trustpanel-tracking-content-tab-list-header = Tute sydła pospytuja wam slědować:
