@@ -45,6 +45,8 @@ avatar-selector-save-button =
     .label = Lagre
 avatar-selector-upload-file = Last opp en fil
 avatar-selector-drag-file = Eller dra en fil hit
+avatar-selector-add-image = Legg til et bilde
+avatar-selector-crop = Beskjær
 edit-profile-page-no-name = Gi denne profilen et navn for å hjelpe deg med å finne den senere. Bytt navn når som helst.
 edit-profile-page-duplicate-name = Profilnavnet er allerede i bruk. Prøv et annet navn.
 edit-profile-page-profile-saved = Lagret
@@ -114,8 +116,18 @@ book-avatar-alt =
     .alt = Bok
 briefcase-avatar-alt =
     .alt = Dokumentmappe
+# Canvas refers to an artist's painting canvas, not the general material
+canvas-avatar-alt =
+    .alt = Lerret
+# Craft refers to hobby arts and crafts, represented by a button/fastener commonly found on clothing like shirts
+craft-avatar-alt =
+    .alt = Håndverk
 flower-avatar-alt =
     .alt = Blomst
+folder-avatar-alt =
+    .alt = Mappe
+hammer-avatar-alt =
+    .alt = Hammer
 heart-avatar-alt =
     .alt = Hjerte
 shopping-avatar-alt =

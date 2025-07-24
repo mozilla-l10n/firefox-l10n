@@ -1365,3 +1365,37 @@ trustpanel-site-information-header =
     .title = Tilkoblingsbeskyttelse for { $host }
 trustpanel-connection-secure = Du er sikkert koblet til dette nettstedet.
 trustpanel-connection-not-secure = Du er ikke sikkert koblet til dette nettstedet.
+trustpanel-siteinformation-morelink = Mer informasjon om nettstedet
+trustpanel-blocker-see-all = Vis alle
+# Variables
+#  $host (String): the hostname of the site that is being displayed.
+trustpanel-blocker-header =
+    .title = Sporingsbeskyttelse for { $host }
+
+## Variables
+##  $count (String): the number of trackers blocked.
+
+trustpanel-blocker-section-header =
+    { $count ->
+        [one] <span>{ $count }</span> sporer blokkert på dette nettstedet
+       *[other] <span>{ $count }</span> sporere blokkert på dette nettstedet
+    }
+trustpanel-blocker-description = { -brand-product-name } mener at selskaper burde følge deg mindre. Så vi blokkerer så mange som mulig.
+trustpanel-blocked-header = { -brand-product-name } blokkerte disse tingene for deg:
+trustpanel-tracking-description = Uten sporere kan det hende at enkelte knapper, skjemaer og innloggingsfelt ikke fungerer.
+trustpanel-insecure-section-header = Tilkoblingen er ikke sikker
+trustpanel-insecure-description = Dataene du sender til dette nettstedet er ikke kryptert. De kan bli sett, stjålet eller endret.
+trustpanel-list-label-tracking-cookies =
+    { $count ->
+        [one] { $count } sporingsinfokapsel på tvers av nettsteder
+       *[other] { $count } sporingsinfokapsler på tvers av nettsteder
+    }
+trustpanel-list-label-tracking-content = Sporings-innhold
+trustpanel-list-label-cryptominer =
+    { $count ->
+        [one] { $count } kryptominer
+       *[other] { $count } kryptominere
+    }
+trustpanel-social-tracking-tab-list-header = Disse nettstedene prøver å spore deg:
+trustpanel-tracking-cookies-tab-list-header = Disse nettstedene prøver å spore deg:
+trustpanel-tracking-content-tab-list-header = Disse nettstedene prøver å spore deg:
