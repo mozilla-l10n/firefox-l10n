@@ -99,6 +99,16 @@ genai-menu-no-provider =
     .label = Chatbota KI se pšašaś
 genai-menu-choose-chatbot =
     .label = Wubjeŕśo chatbot KI
+genai-menu-ask-generic-2 =
+    .label = Chatbot KI se pšašaś
+    .accesskey = K
+# $provider (string) - name of the provider
+genai-menu-ask-provider-2 =
+    .label = { $provider } se pšašaś
+    .accesskey = a
+genai-menu-no-provider-2 =
+    .label = Chatbot KI se pšašaś
+    .accesskey = C
 
 ## Chatbot header
 
