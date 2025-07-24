@@ -1381,4 +1381,9 @@ trustpanel-blocker-section-header =
        *[other] <span>{ $count }</span> sporar blokkert på denne nettstaden
     }
 trustpanel-blocker-description = { -brand-product-name } meinar at selskap burde følgje deg mindre. Så vi blokkerer så mange som råd er.
+trustpanel-blocked-header = { -brand-product-name } blokkerte desse tinga for deg:
+trustpanel-tracking-header = { -brand-product-name } tillét dette slik at nettstadar ikkje skulle slutte å fungere:
+trustpanel-tracking-description = Utan sporarar kan det hende at enkelte knappar, skjema og innloggingsfelt ikkje fungerer.
+trustpanel-insecure-section-header = Tilkoplinga di er ikkje trygg
+trustpanel-insecure-description = Dataa du sender til denne nettstaden er ikkje krypterte. Dei kan bli sett, stolne eller endra.
 trustpanel-list-label-tracking-content = Sporingsinnhald
