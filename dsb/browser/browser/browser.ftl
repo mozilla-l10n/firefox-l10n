@@ -207,6 +207,9 @@ urlbar-result-menu-show-less-frequently =
     .label = Mjenjej cesto pokazaś
 urlbar-result-menu-dont-show-weather-suggestions =
     .label = Wjedrowe daty njepokazaś
+# Used for Split Button.
+urlbar-splitbutton-dropmarker =
+    .title = Meni wócyniś
 # A message shown in the urlbar when the user submits feedback on a suggestion
 # (e.g., it shows an inaccurate location, it's shown too often, etc.).
 urlbar-feedback-acknowledgment = Źěkujomy se za waš komentar
@@ -834,6 +837,8 @@ urlbar-searchmode-default =
 urlbar-searchmode-popup-description = Tenraz pytaś z:
 urlbar-searchmode-popup-search-settings-menuitem =
     .label = Pytańske nastajenja
+# Label shown next to a new search engine in the Searchmode Switcher popup to promote it.
+urlbar-searchmode-new = Nowy
 # Searchmode Switcher button
 # Variables:
 #   $engine (String): the current default search engine.
@@ -1339,3 +1344,33 @@ onboarding-checklist-button-label = Konfiguraciju dokóńcyś
 onboarding-aw-finish-setup-button =
     .label = Konfiguraciju dokóńcyś
     .tooltiptext = Konfiguraciju { -brand-short-name } dokóńcyś
+
+## The urlbar trust panel
+
+trustpanel-connection-label-secure = Zwisk jo wěsty
+trustpanel-connection-label-insecure = Zwisk njejo wěsty
+trustpanel-header-disabled = Sćo znjemóžnił šćity
+trustpanel-description-disabled = { -brand-product-name } njeźěła. Naraźujomy šćity zasej zmóžniś.
+trustpanel-clear-cookies-button = Cookieje a sedłowe daty wulašowaś
+trustpanel-privacy-link = Nastajenja priwatnosći
+# Variables
+#  $host (String): the hostname of the site that is being displayed.
+trustpanel-clear-cookies-header =
+    .title = Cookieje a sedłowe daty za { $host } wulašowaś
+trustpanel-clear-cookies-description = Gaž cookieje a sedłowe daty wótwónoźujośo, wótzjawjaśo se snaź wót websedłow a prozniśo nakupowański wózyk.
+trustpanel-clear-cookies-subview-button-clear = Wuprozniś
+trustpanel-clear-cookies-subview-button-cancel = Pśetergnuś
+# Variables
+#  $host (String): the hostname of the site that is being displayed.
+trustpanel-site-information-header =
+    .title = Zwiskowy šćit za { $host }
+trustpanel-connection-secure = Sćo wěsće zwězany z toś tym sedłom.
+trustpanel-connection-not-secure = Njejsćo wěsće zwězany z toś tym sedłom.
+trustpanel-siteinformation-morelink = Dalšne sedłowe informacije
+trustpanel-blocker-see-all = Wšykne pokazaś
+
+## Variables
+##  $count (String): the number of trackers blocked.
+
+trustpanel-insecure-section-header = Waš zwisk njejo wěsty
+trustpanel-list-label-tracking-content = Slědujuce wopśimjeśe

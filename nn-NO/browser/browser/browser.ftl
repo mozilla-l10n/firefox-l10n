@@ -1386,4 +1386,34 @@ trustpanel-tracking-header = { -brand-product-name } tillét dette slik at netts
 trustpanel-tracking-description = Utan sporarar kan det hende at enkelte knappar, skjema og innloggingsfelt ikkje fungerer.
 trustpanel-insecure-section-header = Tilkoplinga di er ikkje trygg
 trustpanel-insecure-description = Dataa du sender til denne nettstaden er ikkje krypterte. Dei kan bli sett, stolne eller endra.
+trustpanel-list-label-tracking-cookies =
+    { $count ->
+        [one] { $count } sporingsinfokapsel på tvers av nettstadar
+       *[other] { $count } sporingsinfokapslar på tvers av nettstadar
+    }
 trustpanel-list-label-tracking-content = Sporingsinnhald
+trustpanel-list-label-fingerprinter =
+    { $count ->
+        [one] { $count } fingeravtrykkssporar
+       *[other] { $count } fingeravtrykkssporarar
+    }
+trustpanel-list-label-social-tracking =
+    { $count ->
+        [one] { $count } sporar via sosiale medium
+       *[other] { $count } sporarar via sosiale medium
+    }
+trustpanel-list-label-cryptominer =
+    { $count ->
+        [one] { $count } kryptoutvinnar
+       *[other] { $count } kryptoutvinnarar
+    }
+trustpanel-social-tracking-blocking-tab-header =
+    { $count ->
+        [one] { -brand-product-name } blokkerte { $count } sporar via sosiale medium
+       *[other] { -brand-product-name } blokkerte { $count } sporarar via sosiale medium
+    }
+trustpanel-social-tracking-not-blocking-tab-header =
+    { $count ->
+        [one] { -brand-product-name } tillét { $count } sporar via sosiale medium
+       *[other] { -brand-product-name } tillét { $count } sporarar via sosiale medium
+    }
