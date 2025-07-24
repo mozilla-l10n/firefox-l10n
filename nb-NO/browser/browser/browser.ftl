@@ -1152,12 +1152,12 @@ tabs-toolbar =
 tabs-toolbar-new-tab =
     .label = Ny fane
 tabs-toolbar-list-all-tabs =
-    .label = Vis liste over alle faner
-    .tooltiptext = Vis liste over alle faner
+    .label = List opp alle faner
+    .tooltiptext = List opp alle faner
 
 ## Drop indicator text for pinned tabs when no tabs are pinned.
 
-pinned-tabs-drop-indicator = Slipp fanen her for å feste
+pinned-tabs-drop-indicator = Slipp fanen her for å feste den
 
 ## Infobar shown at startup to suggest session-restore
 

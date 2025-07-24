@@ -39,6 +39,7 @@ about-networking-dns-lookup = DNS-oppslag
 about-networking-dns-lookup-button = Slå opp
 about-networking-dns-domain = Domene:
 about-networking-dns-lookup-table-column = IP-er
+about-networking-dns-https-rrs-lookup-table-column = HTTPS RRs
 about-networking-dns-https-rr-lookup-table-column = HTTP-RR
 about-networking-rcwn = RCWN-statistikk
 about-networking-rcwn-status = RCWN-status

@@ -202,7 +202,7 @@ tabbrowser-tab-audio-playing-description = Spiller av lyd
 # Variables:
 #   $tabCount (Number): The number of tabs in the current browser window. It will always be 2 at least.
 tabbrowser-ctrl-tab-list-all-tabs =
-    .label = List alle { $tabCount } faner
+    .label = List opp alle { $tabCount } faner
 
 ## Tab manager menu buttons
 ## Variables:
@@ -257,6 +257,8 @@ tab-group-editor-color-selector2-gray = Grå
 tab-group-editor-color-selector2-red = Rød
     .title = Rød
 tab-group-description = { $tabGroupName } — Fanegruppe
+tab-group-label-tooltip-collapsed = { $tabGroupName } — Sammenfoldet
+tab-group-label-tooltip-expanded = { $tabGroupName } — Utfoldet
 tab-context-unnamed-group =
     .label = Navnløs gruppe
 tab-group-name-default = Navnløs gruppe
