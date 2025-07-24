@@ -340,3 +340,12 @@ multi-cta-fox-doodle-msix-privacy-focused-subtitle = באפשרותך לשמור
 ## Windows 10 EoS Sync messages group 1 spotlight
 
 windows-10-eos-sync-spotlight-title = בכוונתך לשדרג מ־Windows 10 בקרוב?
+windows-10-eos-sync-spotlight-subtitle = כדאי לגבות את הססמאות והסימניות שלך כדי שתהיה מוכן לעשות את הקפיצה לכל מכשיר.
+windows-10-eos-sync-spotlight-primary-label = גיבוי ה־{ -brand-short-name } שלך
+
+## Windows 10 EoS Sync messages group 1 toast notification
+
+windows-10-eos-sync-toast-title = בכוונתך לשדרג ל־Windows 11? כדאי לגבות את הסימניות והססמאות שלך.
+windows-10-eos-sync-toast-subtitle = ניתן לגבות את הנתונים שלך כך ש־{ -brand-short-name } יהיה מוכן לעבודה בכל עת, במחשב זה או במחשב הבא.
+windows-10-eos-sync-toast-primary-label = תחילת עבודה
+windows-10-eos-sync-toast-secondary-label = להזכיר לי מאוחר יותר
