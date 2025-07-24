@@ -1347,8 +1347,21 @@ onboarding-aw-finish-setup-button =
 
 ## The urlbar trust panel
 
+trustpanel-etp-label-enabled = Pólěpšony slědowański šćit jo zmóžnjony
+trustpanel-etp-label-disabled = Pólěpšony slědowański šćit jo znjemóžnjony
+# Variables
+#  $host (String): the hostname of the site that is being displayed.
+trustpanel-etp-toggle-on =
+    .aria-label = Pólěpšony slědowański šćit: zmóžnjony za { $host }
+# Variables
+#  $host (String): the hostname of the site that is being displayed.
+trustpanel-etp-toggle-off =
+    .aria-label = Pólěpšony slědowański šćit: znjemóžnjony za { $host }
+trustpanel-etp-description-enabled = Jolic něco na toś tom sedle wobškóźone wuglěda, wopytajśo šćity znjemóžniś.
 trustpanel-connection-label-secure = Zwisk jo wěsty
 trustpanel-connection-label-insecure = Zwisk njejo wěsty
+trustpanel-header-enabled = { -brand-product-name } stražujo
+trustpanel-description-enabled = Sćo šćitany. Jolic něco namakajomy, dajomy wam to k wěsći
 trustpanel-header-disabled = Sćo znjemóžnił šćity
 trustpanel-description-disabled = { -brand-product-name } njeźěła. Naraźujomy šćity zasej zmóžniś.
 trustpanel-clear-cookies-button = Cookieje a sedłowe daty wulašowaś

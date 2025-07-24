@@ -357,5 +357,6 @@ windows-10-eos-sync-spotlight-primary-label = Waš { -brand-short-name } zawěs�
 
 ## Windows 10 EoS Sync messages group 1 toast notification
 
+windows-10-eos-sync-toast-title = Na Windows 11 aktualizěrowaś? Njezgubujśo cytańske znamjenja a gronidła.
 windows-10-eos-sync-toast-primary-label = Prědne kšace
 windows-10-eos-sync-toast-secondary-label = Pózdźej dopomnjeś

@@ -1319,3 +1319,25 @@ onboarding-aw-finish-setup-button =
 trustpanel-etp-label-enabled = 增强型跟踪保护已开启
 trustpanel-etp-label-disabled = 增强型跟踪保护已关闭
 trustpanel-etp-description-enabled = 若网站功能异常，请尝试关闭保护。
+trustpanel-connection-label-secure = 连接安全
+trustpanel-connection-label-insecure = 连接不安全
+trustpanel-description-enabled = 您已受保护，我们会在发现异常情况时告知您。
+trustpanel-header-disabled = 您已关闭保护
+trustpanel-clear-cookies-button = 清除 Cookie 和网站数据
+trustpanel-privacy-link = 隐私设置
+# Variables
+#  $host (String): the hostname of the site that is being displayed.
+trustpanel-clear-cookies-header =
+    .title = 清除 { $host } 的 Cookie 和网站数据
+trustpanel-clear-cookies-description = 移除 Cookie 和网站数据可能会导致网站退出登录或清空购物车。
+trustpanel-clear-cookies-subview-button-clear = 清除
+trustpanel-clear-cookies-subview-button-cancel = 取消
+trustpanel-connection-secure = 您已安全地连接至此网站。
+trustpanel-connection-not-secure = 您并未安全地连接至此网站。
+trustpanel-siteinformation-morelink = 更多网站信息
+trustpanel-blocker-see-all = 查看全部
+
+## Variables
+##  $count (String): the number of trackers blocked.
+
+trustpanel-insecure-section-header = 您的连接不安全

@@ -530,6 +530,9 @@ pdfjs-editor-alt-text-settings-close-button = Zacyniś
 
 ## Accessibility labels (announced by screen readers) for objects added to the editor.
 
+pdfjs-editor-highlight-added-alert = Wuzwignjenje pśidane
+pdfjs-editor-freetext-added-alert = Tekst pśidany
+pdfjs-editor-ink-added-alert = Kreslanka pśidana
 pdfjs-editor-stamp-added-alert = Wobraz pśidany
 pdfjs-editor-signature-added-alert = Signatura pśidana
 

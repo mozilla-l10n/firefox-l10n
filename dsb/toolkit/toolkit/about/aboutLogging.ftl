@@ -29,6 +29,7 @@ about-logging-no-log-modules = Žeden
 about-logging-no-log-file = Žeden
 about-logging-logging-preset-selector-text = sednastajenje za protokolěrowanje:
 about-logging-with-profiler-stacks-checkbox = Štaplowe pśeslědowanja za protokolowe powěźeńki zmóžniś
+about-logging-with-javascript-tracing-checkbox = Slědowanje JavaScript zmóžniś
 about-logging-menu =
     .title = Rozšyrjone nastajenja
 
@@ -53,6 +54,7 @@ about-logging-preset-webcodecs-description = Module protokolěrowaś, aby se pro
 about-logging-preset-ml-label = Mašinelne wuknjenje
 about-logging-preset-ml-description = Module za diagnosticěrowanje problemow z mašinelnym wuknjenim protokolěrowaś
 about-logging-preset-web-compat-label = Webkompatibelnosć
+about-logging-preset-web-compat-description = Protokolowe module za diagnosticěrowanje problemow z webkompatibelnosću
 about-logging-preset-webgpu-label = WebGPU
 about-logging-preset-webgpu-description = Protokolowe module za diagnosticěrowanje problemow WebGPU
 about-logging-preset-gfx-label = Grafika
