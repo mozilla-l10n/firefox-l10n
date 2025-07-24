@@ -93,6 +93,16 @@ genai-menu-no-provider =
     .label = Een AI-chatbot vragen
 genai-menu-choose-chatbot =
     .label = Kies een AI-chatbot
+genai-menu-ask-generic-2 =
+    .label = AI-chatbot vragen
+    .accesskey = h
+# $provider (string) - name of the provider
+genai-menu-ask-provider-2 =
+    .label = { $provider } vragen
+    .accesskey = v
+genai-menu-no-provider-2 =
+    .label = Een AI-chatbot vragen
+    .accesskey = h
 
 ## Chatbot header
 

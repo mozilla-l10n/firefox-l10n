@@ -542,6 +542,12 @@ newtab-custom-wallpaper-title = Hier vindt u aangepaste achtergronden
 newtab-custom-wallpaper-subtitle = Upload uw eigen achtergrond of kies een aangepaste kleur om { -brand-product-name } van uzelf te maken.
 newtab-custom-wallpaper-cta = Uitproberen
 
+## Strings for new user activation custom wallpaper highlight
+
+newtab-new-user-custom-wallpaper-title = Kies een achtergrond om { -brand-product-name } van u te maken
+newtab-new-user-custom-wallpaper-subtitle = Laat elk nieuw tabblad als thuis voelen met aangepaste achtergronden en kleuren.
+newtab-new-user-custom-wallpaper-cta = Nu proberen
+
 ## Strings for download mobile highlight
 
 newtab-download-mobile-highlight-title = { -brand-product-name } voor mobiel downloaden

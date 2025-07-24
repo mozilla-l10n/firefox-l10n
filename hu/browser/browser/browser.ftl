@@ -207,6 +207,9 @@ urlbar-result-menu-show-less-frequently =
     .label = Megjelenítés ritkábban
 urlbar-result-menu-dont-show-weather-suggestions =
     .label = Ne jelenítsen meg időjárási javaslatokat
+# Used for Split Button.
+urlbar-splitbutton-dropmarker =
+    .title = Menü megnyitása
 # A message shown in the urlbar when the user submits feedback on a suggestion
 # (e.g., it shows an inaccurate location, it's shown too often, etc.).
 urlbar-feedback-acknowledgment = Köszönjük a visszajelzését
@@ -826,6 +829,8 @@ urlbar-searchmode-default =
 urlbar-searchmode-popup-description = Ezúttal keressen a következővel:
 urlbar-searchmode-popup-search-settings-menuitem =
     .label = Keresési beállítások
+# Label shown next to a new search engine in the Searchmode Switcher popup to promote it.
+urlbar-searchmode-new = Új
 # Searchmode Switcher button
 # Variables:
 #   $engine (String): the current default search engine.
@@ -1150,8 +1155,12 @@ tabs-toolbar =
 tabs-toolbar-new-tab =
     .label = Új lap
 tabs-toolbar-list-all-tabs =
-    .label = Minden lap felsorolása
-    .tooltiptext = Minden lap felsorolása
+    .label = Összes lap felsorolása
+    .tooltiptext = Összes lap felsorolása
+
+## Drop indicator text for pinned tabs when no tabs are pinned.
+
+pinned-tabs-drop-indicator = Húzza ide a lapot a rögzítéshez
 
 ## Infobar shown at startup to suggest session-restore
 
@@ -1323,3 +1332,119 @@ onboarding-checklist-button-label = Beállítás befejezése
 onboarding-aw-finish-setup-button =
     .label = Beállítás befejezése
     .tooltiptext = A { -brand-short-name } beállításának befejezése
+
+## The urlbar trust panel
+
+trustpanel-etp-label-enabled = A fokozott követés elleni védelem be van kapcsolva
+trustpanel-etp-label-disabled = A fokozott követés elleni védelem ki van kapcsolva
+# Variables
+#  $host (String): the hostname of the site that is being displayed.
+trustpanel-etp-toggle-on =
+    .aria-label = Fokozott követés elleni védelem: a(z) { $host } helyen be
+# Variables
+#  $host (String): the hostname of the site that is being displayed.
+trustpanel-etp-toggle-off =
+    .aria-label = Fokozott követés elleni védelem: a(z) { $host } helyen ki
+trustpanel-etp-description-enabled = Ha valami nem működik ezen az oldalon, próbálja meg kikapcsolni.
+trustpanel-etp-description-disabled = A { -brand-product-name } úgy gondolja, hogy a cégeknek kevésbé kellene Önt követniük. A lehető legtöbb követőt blokkoljuk, amikor bekapcsolja a védelmet.
+trustpanel-connection-label-secure = A kapcsolat biztonságos
+trustpanel-connection-label-insecure = A kapcsolat nem biztonságos
+trustpanel-header-enabled = A { -brand-product-name } résen van
+trustpanel-description-enabled = Védve van. Ha látunk valamit, értesíteni fogjuk
+trustpanel-header-disabled = Kikapcsolta a védelmeket
+trustpanel-description-disabled = A { -brand-product-name } szolgálaton kívül van. Javasoljuk a védelmek ismételt bekapcsolását.
+trustpanel-clear-cookies-button = Sütik és oldaladatok törlése
+trustpanel-privacy-link = Adatvédelmi beállítások
+# Variables
+#  $host (String): the hostname of the site that is being displayed.
+trustpanel-clear-cookies-header =
+    .title = A(z) { $host } sütijeinek és webhelyadatainak törlése
+trustpanel-clear-cookies-description = A sütik és webhelyadatok eltávolítása kijelentkeztetheti a webhelyekről, és törölheti a kosarait.
+trustpanel-clear-cookies-subview-button-clear = Törlés
+trustpanel-clear-cookies-subview-button-cancel = Mégse
+# Variables
+#  $host (String): the hostname of the site that is being displayed.
+trustpanel-site-information-header =
+    .title = A(z) { $host } kapcsolatának védelmei
+trustpanel-connection-secure = Biztonságosan kapcsolódik ehhez az oldalhoz.
+trustpanel-connection-not-secure = Nem biztonságosan kapcsolódik ehhez az oldalhoz.
+trustpanel-siteinformation-morelink = További webhely-információk
+trustpanel-blocker-see-all = Összes megjelenítése
+# Variables
+#  $host (String): the hostname of the site that is being displayed.
+trustpanel-blocker-header =
+    .title = A(z) { $host } követés elleni védelmei
+
+## Variables
+##  $count (String): the number of trackers blocked.
+
+trustpanel-blocker-section-header =
+    { $count ->
+        [one] <span>{ $count }</span> nyomkövető blokkolva ezen az oldalon
+       *[other] <span>{ $count }</span> nyomkövető blokkolva ezen az oldalon
+    }
+trustpanel-blocker-description = A { -brand-product-name } úgy gondolja, hogy a cégeknek kevésbé kellene Önt követniük. Ezért a lehető legtöbbet blokkoljuk.
+trustpanel-blocked-header = A { -brand-product-name } ezeket a dolgokat blokkolta Önnek:
+trustpanel-tracking-header = A { -brand-product-name } engedélyezte ezeket a dolgokat, hogy az oldalak ne legyenek hibásak:
+trustpanel-tracking-description = Nyomkövetők nélkül egyes gombok, űrlapok és bejelentkezési mezők lehet, hogy nem fognak működni.
+trustpanel-insecure-section-header = A kapcsolat nem biztonságos
+trustpanel-insecure-description = A webhelynek küldött adatok nem titkosítottak. Megtekinthetőek, ellophatóak vagy megváltoztathatóak.
+trustpanel-list-label-tracking-cookies =
+    { $count ->
+        [one] { $count } webhelyek közötti nyomkövető süti
+       *[other] { $count } webhelyek közötti nyomkövető süti
+    }
+trustpanel-list-label-tracking-content = Nyomkövető tartalom
+trustpanel-list-label-fingerprinter =
+    { $count ->
+        [one] { $count } ujjlenyomat-készítő
+       *[other] { $count } ujjlenyomat-készítő
+    }
+trustpanel-list-label-social-tracking =
+    { $count ->
+        [one] { $count } közösségimédia-követő
+       *[other] { $count } közösségimédia-követő
+    }
+trustpanel-list-label-cryptominer =
+    { $count ->
+        [one] { $count } kriptobányász
+       *[other] { $count } kriptobányász
+    }
+trustpanel-social-tracking-blocking-tab-header =
+    { $count ->
+        [one] A { -brand-product-name } blokkolt { $count } közösségimédia-követőt
+       *[other] A { -brand-product-name } blokkolt { $count } közösségimédia-követőt
+    }
+trustpanel-social-tracking-not-blocking-tab-header =
+    { $count ->
+        [one] A { -brand-product-name } engedélyezett { $count } közösségimédia-követőt
+       *[other] A { -brand-product-name } engedélyezett { $count } közösségimédia-követőt
+    }
+trustpanel-social-tracking-tab-list-header = Ezek a webhelyek próbálják követni Önt:
+trustpanel-tracking-cookies-blocking-tab-header =
+    { $count ->
+        [one] A { -brand-product-name } blokkolt { $count } webhelyek közötti nyomkövető sütit
+       *[other] A { -brand-product-name } blokkolt { $count } webhelyek közötti nyomkövető sütit
+    }
+trustpanel-tracking-cookies-not-blocking-tab-header =
+    { $count ->
+        [one] A { -brand-product-name } engedélyezett { $count } webhelyek közötti nyomkövető sütit
+       *[other] A { -brand-product-name } engedélyezett { $count } webhelyek közötti nyomkövető sütit
+    }
+trustpanel-tracking-cookies-tab-list-header = Ezek a webhelyek próbálják követni Önt:
+trustpanel-tracking-content-blocking-tab-header =
+    { $count ->
+        [one] A { -brand-product-name } blokkolt { $count } követőt
+       *[other] A { -brand-product-name } blokkolt { $count } követőt
+    }
+trustpanel-tracking-content-not-blocking-tab-header =
+    { $count ->
+        [one] A { -brand-product-name } engedélyezett { $count } követőt
+       *[other] A { -brand-product-name } engedélyezett { $count } követőt
+    }
+trustpanel-tracking-content-tab-list-header = Ezek a webhelyek próbálják követni Önt:
+trustpanel-fingerprinter-blocking-tab-header =
+    { $count ->
+        [one] A { -brand-product-name } blokkolt { $count } ujjlenyomat-készítőt
+       *[other] A { -brand-product-name } blokkolt { $count } ujjlenyomat-készítőt
+    }

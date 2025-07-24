@@ -31,6 +31,7 @@ about-logging-no-log-modules = Nincs
 about-logging-no-log-file = Nincs
 about-logging-logging-preset-selector-text = Naplózási előbeállítás:
 about-logging-with-profiler-stacks-checkbox = Veremkiíratások engedélyezése a naplóüzeneteknél
+about-logging-with-javascript-tracing-checkbox = JavaScript nyomkövetés engedélyezése
 about-logging-menu =
     .title = Speciális beállítások
 
@@ -54,6 +55,8 @@ about-logging-preset-webcodecs-label = WebCodecs
 about-logging-preset-webcodecs-description = Naplómodulok a WebCodecs hang/videó dekódolók és kódolók, valamint képdekódolók problémáinak diagnosztizálásához
 about-logging-preset-ml-label = Gépi tanulás
 about-logging-preset-ml-description = Naplómodulok a gépi tanulási problémák diagnosztizálásához
+about-logging-preset-web-compat-label = Webkompatibilitás
+about-logging-preset-web-compat-description = Naplómodulok a webes kompatibilitási problémák diagnosztizálásához
 about-logging-preset-webgpu-label = WebGPU
 about-logging-preset-webgpu-description = Naplómodulok a WebGPU problémák diagnosztizálásához
 about-logging-preset-gfx-label = Grafika

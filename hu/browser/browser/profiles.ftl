@@ -45,6 +45,8 @@ avatar-selector-save-button =
     .label = Mentés
 avatar-selector-upload-file = Fájl feltöltése
 avatar-selector-drag-file = Vagy húzzon ide egy fájlt
+avatar-selector-add-image = Kép hozzáadása
+avatar-selector-crop = Körülvágás
 edit-profile-page-no-name = Nevezze el ezt a profilt, hogy később segítsen megtalálni. Nevezze át bármikor.
 edit-profile-page-duplicate-name = A profilnév már használatban van. Próbáljon meg egy új nevet.
 edit-profile-page-profile-saved = Mentve
@@ -114,22 +116,100 @@ book-avatar-alt =
     .alt = Könyv
 briefcase-avatar-alt =
     .alt = Aktatáska
+# Canvas refers to an artist's painting canvas, not the general material
+canvas-avatar-alt =
+    .alt = Vászon
+# Craft refers to hobby arts and crafts, represented by a button/fastener commonly found on clothing like shirts
+craft-avatar-alt =
+    .alt = Kézművesség
 flower-avatar-alt =
     .alt = Virág
+folder-avatar-alt =
+    .alt = Mappa
+hammer-avatar-alt =
+    .alt = Kalapács
 heart-avatar-alt =
     .alt = Szív
+heart-rate-avatar-alt =
+    .alt = Pulzusszám
+history-avatar-alt =
+    .alt = Előzmények
+leaf-avatar-alt =
+    .alt = Levél
+lightbulb-avatar-alt =
+    .alt = Villanykörte
+makeup-avatar-alt =
+    .alt = Smink
+# Message refers to a text message, not a traditional letter/envelope message
+message-avatar-alt =
+    .alt = Üzenet
+musical-note-avatar-alt =
+    .alt = Hangjegy
+palette-avatar-alt =
+    .alt = Paletta
+paw-print-avatar-alt =
+    .alt = Mancslenyomat
+plane-avatar-alt =
+    .alt = Repülő
+# Present refers to a gift box, not the current time period
+present-avatar-alt =
+    .alt = Ajándék
 shopping-avatar-alt =
     .alt = Bevásárlókosár
+soccer-avatar-alt =
+    .alt = Foci
+sparkle-single-avatar-alt =
+    .alt = Szikrák
 star-avatar-alt =
     .alt = Csillag
+video-game-controller-avatar-alt =
+    .alt = Videójáték-vezérlő
 custom-avatar-alt =
     .alt = Egyéni profilkép
+# Default favicon refers to the generic globe/world icon that appears in browser tabs when a website doesn't have its own favicon.
+default-favicon-avatar-alt =
+    .alt = Alapértelmezett favicon
+# Diamond refers to the precious stone, not the geometric shape
+diamond-avatar-alt =
+    .alt = Gyémánt
+barbell-avatar-alt =
+    .alt = Súlyzó
+bike-avatar-alt =
+    .alt = Kerékpár
 
 ## Labels for default avatar icons
 
 book-avatar = Könyv
 briefcase-avatar = Aktatáska
+# Canvas refers to an artist's painting canvas, not the general material
+canvas-avatar = Vászon
+# Craft refers to hobby arts and crafts, represented by a button/fastener commonly found on clothing like shirts
+craft-avatar = Kézművesség
+custom-avatar = Egyéni profilkép
+# Default favicon refers to the generic globe/world icon that appears in browser tabs when a website doesn't have its own favicon.
+default-favicon-avatar = Alapértelmezett favicon
+# Diamond refers to the precious stone, not the geometric shape
+diamond-avatar = Gyémánt
 flower-avatar = Virág
+folder-avatar = Mappa
+hammer-avatar = Kalapács
 heart-avatar = Szív
+heart-rate-avatar = Pulzusszám
+history-avatar = Előzmények
+leaf-avatar = Levél
+lightbulb-avatar = Villanykörte
+makeup-avatar = Smink
+# Message refers to a text message, not a traditional letter/envelope message
+message-avatar = Üzenet
+musical-note-avatar = Hangjegy
+palette-avatar = Paletta
+paw-print-avatar = Mancslenyomat
+plane-avatar = Repülő
+# Present refers to a gift box, not the current time period
+present-avatar = Ajándék
 shopping-avatar = Bevásárlókosár
+soccer-avatar = Foci
+sparkle-single-avatar = Szikrák
 star-avatar = Csillag
+video-game-controller-avatar = Videójáték-vezérlő
+barbell-avatar = Súlyzó

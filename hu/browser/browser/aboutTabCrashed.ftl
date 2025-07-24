@@ -5,7 +5,7 @@
 crashed-title = Lapösszeomlás-bejelentő
 crashed-close-tab-button = Lap bezárása
 crashed-restore-tab-button = Lap visszaállítása
-crashed-restore-all-button = Minden összeomlott lap visszaállítása
+crashed-restore-all-button = Összes összeomlott lap visszaállítása
 crashed-header = Puff. A lap összeomlott.
 crashed-offer-help = Segíthetünk!
 crashed-single-offer-help-message = Válassza a „{ crashed-restore-tab-button }” lehetőséget az oldal újratöltéséhez.

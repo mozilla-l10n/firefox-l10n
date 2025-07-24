@@ -202,7 +202,7 @@ tabbrowser-tab-audio-playing-description = Hang lejátszása
 # Variables:
 #   $tabCount (Number): The number of tabs in the current browser window. It will always be 2 at least.
 tabbrowser-ctrl-tab-list-all-tabs =
-    .label = Minden lap ({ $tabCount }) felsorolása
+    .label = Összes lap ({ $tabCount }) felsorolása
 
 ## Tab manager menu buttons
 ## Variables:

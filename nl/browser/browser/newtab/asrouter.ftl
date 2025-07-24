@@ -343,3 +343,16 @@ multi-cta-fox-doodle-privacy-focused-subtitle =
        *[other] Houd uw favoriete op privacy gerichte browser op slechts één klik afstand. Stel { -brand-short-name } in als uw standaardbrowser voor het openen van koppelingen en zet het programma vast op uw taakbalk.
     }
 multi-cta-fox-doodle-msix-privacy-focused-subtitle = Houd uw favoriete op privacy gerichte browser op slechts één klik afstand. Stel { -brand-short-name } in als uw standaardbrowser voor het openen van koppelingen en zet het programma vast aan uw taakbalk en startmenu.
+
+## Windows 10 EoS Sync messages group 1 spotlight
+
+windows-10-eos-sync-spotlight-title = Binnenkort upgraden vanaf Windows 10?
+windows-10-eos-sync-spotlight-subtitle = Maak een reservekopie van uw wachtwoorden en bladwijzers, zodat u klaar bent om de sprong naar elk apparaat te maken.
+windows-10-eos-sync-spotlight-primary-label = Een reservekopie van uw { -brand-short-name } maken
+
+## Windows 10 EoS Sync messages group 1 toast notification
+
+windows-10-eos-sync-toast-title = Upgraden naar Windows 11? Verlies geen bladwijzers en wachtwoorden.
+windows-10-eos-sync-toast-subtitle = Maak een reservekopie van uw gegevens, zodat { -brand-short-name } altijd klaar is voor gebruik, op deze pc of de volgende.
+windows-10-eos-sync-toast-primary-label = Beginnen
+windows-10-eos-sync-toast-secondary-label = Later herinneren

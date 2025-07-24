@@ -35,6 +35,6 @@ welcome-back-page-info = A { -brand-short-name } készen áll.
 welcome-back-restore-button =
     .label = Gyerünk!
     .accesskey = G
-welcome-back-restore-all-label = Minden ablak és lap visszaállítása
+welcome-back-restore-all-label = Összes ablak és lap visszaállítása
 welcome-back-restore-some-label = Csak a kiválasztottak visszaállítása
 welcome-back-page-info-link = Kiegészítői és a testreszabások eltávolításra kerültek, és a böngésző beállításai vissza lettek állítva az alapbeállításokra. Ha ez nem oldotta meg a problémát, akkor <a data-l10n-name="link-more">tudjon meg többet a további lehetőségekről.</a>

@@ -207,6 +207,9 @@ urlbar-result-menu-show-less-frequently =
     .label = Mostrar menos frecuentemente
 urlbar-result-menu-dont-show-weather-suggestions =
     .label = No mostrar sugerencias de clima
+# Used for Split Button.
+urlbar-splitbutton-dropmarker =
+    .title = Abrir menú
 # A message shown in the urlbar when the user submits feedback on a suggestion
 # (e.g., it shows an inaccurate location, it's shown too often, etc.).
 urlbar-feedback-acknowledgment = Gracias por sus comentarios
@@ -826,6 +829,8 @@ urlbar-searchmode-default =
 urlbar-searchmode-popup-description = Esta vez buscar con:
 urlbar-searchmode-popup-search-settings-menuitem =
     .label = Configuración de búsqueda
+# Label shown next to a new search engine in the Searchmode Switcher popup to promote it.
+urlbar-searchmode-new = Nuevo
 # Searchmode Switcher button
 # Variables:
 #   $engine (String): the current default search engine.
@@ -1153,6 +1158,10 @@ tabs-toolbar-list-all-tabs =
     .label = Listar todas las pestañas
     .tooltiptext = Listar todas las pestañas
 
+## Drop indicator text for pinned tabs when no tabs are pinned.
+
+pinned-tabs-drop-indicator = Soltar la pestaña acá para pegar
+
 ## Infobar shown at startup to suggest session-restore
 
 # <img data-l10n-name="icon"/> will be replaced by the application menu icon
@@ -1321,3 +1330,135 @@ onboarding-checklist-button-label = Finalizar configuración
 onboarding-aw-finish-setup-button =
     .label = Finalizar configuración
     .tooltiptext = Finalizar configuración de { -brand-short-name }
+
+## The urlbar trust panel
+
+trustpanel-etp-label-enabled = Protección contra rastreo aumentada activada
+trustpanel-etp-label-disabled = Protección contra rastreo aumentada desactivada
+# Variables
+#  $host (String): the hostname of the site that is being displayed.
+trustpanel-etp-toggle-on =
+    .aria-label = Protección contra rastreo aumentada: Activada para { $host }
+# Variables
+#  $host (String): the hostname of the site that is being displayed.
+trustpanel-etp-toggle-off =
+    .aria-label = Protección contra rastreo aumentada: Desactivada para { $host }
+trustpanel-etp-description-enabled = Si algo parece roto en este sitio, pruebe desactivar las protecciones.
+trustpanel-etp-description-disabled = { -brand-product-name } piensa que las empresas deberían seguirlo menos. Bloqueamos tantos rastreadores como podemos cuando se activan las protecciones.
+trustpanel-connection-label-secure = Conexión segura
+trustpanel-connection-label-insecure = Conexión insegura
+trustpanel-header-enabled = { -brand-product-name } está en guardia
+trustpanel-description-enabled = Está protegido. Si detectamos algo, lo haremos saber.
+trustpanel-header-disabled = Desactivó las protecciones
+trustpanel-description-disabled = { -brand-product-name } está fuera de servicio. Sugerimos volver a activar las protecciones.
+trustpanel-clear-cookies-button = Borrar cookies y datos del sitio
+trustpanel-privacy-link = Configuración de privacidad
+# Variables
+#  $host (String): the hostname of the site that is being displayed.
+trustpanel-clear-cookies-header =
+    .title = Borrar cookies y datos del sitio para { $host }
+trustpanel-clear-cookies-description = Eliminar cookies y datos del sitio para puede cerrar sesión en los sitios web y limpiar los carritos de compras.
+trustpanel-clear-cookies-subview-button-clear = Limpiar
+trustpanel-clear-cookies-subview-button-cancel = Cancelar
+# Variables
+#  $host (String): the hostname of the site that is being displayed.
+trustpanel-site-information-header =
+    .title = Protecciones de conexión para { $host }
+trustpanel-connection-secure = Está conectado de forma segura a este sitio.
+trustpanel-connection-not-secure = La conexión a este sitio no es segura.
+trustpanel-siteinformation-morelink = Más información del sitio
+trustpanel-blocker-see-all = Ver todo
+# Variables
+#  $host (String): the hostname of the site that is being displayed.
+trustpanel-blocker-header =
+    .title = Protecciones de rastreo para { $host }
+
+## Variables
+##  $count (String): the number of trackers blocked.
+
+trustpanel-blocker-section-header =
+    { $count ->
+        [one] <span>{ $count }</span> rastreador bloqueado en este sitio
+       *[other] <span>{ $count }</span> rastreadores bloqueados en este sitio
+    }
+trustpanel-blocker-description = { -brand-product-name } piensa que las empresas deberían seguirlo menos. Así que bloqueamos tantos como podemos.
+trustpanel-blocked-header = { -brand-product-name } bloqueó estas cosas:
+trustpanel-tracking-header = { -brand-product-name } permitió estas cosas para que los sitios no se rompan:
+trustpanel-tracking-description = Sin rastreadores, algunos botones, formularios y campos de inicio de sesión podrían no funcionar.
+trustpanel-insecure-section-header = La conexión no es segura
+trustpanel-insecure-description = Los datos enviados a este sitio no están cifrados. Podrían ser vistos, robados o alterados.
+trustpanel-list-label-tracking-cookies =
+    { $count ->
+        [one] { $count } cookie de rastreo entre sitios
+       *[other] { $count } cookies de rastreo entre sitios
+    }
+trustpanel-list-label-tracking-content = Contenido de rastreo
+trustpanel-list-label-fingerprinter =
+    { $count ->
+        [one] { $count } detector de huellas digitales
+       *[other] { $count } detectores de huellas digitales
+    }
+trustpanel-list-label-social-tracking =
+    { $count ->
+        [one] { $count } rastreador de redes sociales
+       *[other] { $count } rastreadores de redes sociales
+    }
+trustpanel-list-label-cryptominer =
+    { $count ->
+        [one] { $count } criptominero
+       *[other] { $count } criptomineros
+    }
+trustpanel-social-tracking-blocking-tab-header =
+    { $count ->
+        [one] { -brand-product-name } bloqueó { $count } rastreador de redes sociales
+       *[other] { -brand-product-name } bloqueó { $count } rastreadores de redes sociales
+    }
+trustpanel-social-tracking-not-blocking-tab-header =
+    { $count ->
+        [one] { -brand-product-name } permitió { $count } rastreador de redes sociales
+       *[other] { -brand-product-name } permitió { $count } rastreadores de redes sociales
+    }
+trustpanel-social-tracking-tab-list-header = Estos sitios están tratando de rastrearlo:
+trustpanel-tracking-cookies-blocking-tab-header =
+    { $count ->
+        [one] { -brand-product-name } bloqueó { $count } cookie de rastreo entre sitios
+       *[other] { -brand-product-name } bloqueó { $count } cookies de rastreo entre sitios
+    }
+trustpanel-tracking-cookies-not-blocking-tab-header =
+    { $count ->
+        [one] { -brand-product-name } permitió { $count } cookie de rastreo entre sitios
+       *[other] { -brand-product-name } permitió { $count } cookies de rastreo entre sitios
+    }
+trustpanel-tracking-cookies-tab-list-header = Estos sitios están tratando de rastrearlo:
+trustpanel-tracking-content-blocking-tab-header =
+    { $count ->
+        [one] { -brand-product-name } bloqueó { $count } rastreador
+       *[other] { -brand-product-name } bloqueó { $count } rastreadores
+    }
+trustpanel-tracking-content-not-blocking-tab-header =
+    { $count ->
+        [one] { -brand-product-name } permitió { $count } rastreador
+       *[other] { -brand-product-name } permitió { $count } rastreadores
+    }
+trustpanel-tracking-content-tab-list-header = Estos sitios están tratando de rastrearlo:
+trustpanel-fingerprinter-blocking-tab-header =
+    { $count ->
+        [one] { -brand-product-name } bloqueó { $count } detector de huellas digitales
+       *[other] { -brand-product-name } bloqueó { $count } detectores de huellas digitales
+    }
+trustpanel-fingerprinter-not-blocking-tab-header =
+    { $count ->
+        [one] { -brand-product-name } permitió { $count } detector de huellas digitales
+       *[other] { -brand-product-name } permitió { $count } detectores de huellas digitales
+    }
+trustpanel-cryptominer-blocking-tab-header =
+    { $count ->
+        [one] { -brand-product-name } bloqueó { $count } criptominero
+       *[other] { -brand-product-name } bloqueó { $count } criptomineros
+    }
+trustpanel-cryptominer-not-blocking-tab-header =
+    { $count ->
+        [one] { -brand-product-name } permitió { $count } criptominero
+       *[other] { -brand-product-name } permitió { $count } criptomineros
+    }
+trustpanel-cryptominer-tab-list-header = Estos sitios están tratando de minar criptomonedas:

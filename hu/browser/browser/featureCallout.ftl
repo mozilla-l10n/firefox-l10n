@@ -112,6 +112,19 @@ fxa-adoption-passwords-subtitle = Védje meg a jelszavait azáltal, hogy titkos�
 # Opens Mozilla accounts sign-up page
 fxa-adoption-passwords-primary-button-label = Regisztráció
 
+## Windows 10 EoS Sync messages group 1 callouts
+
+windows-10-eos-sync-urgency-title-1 = Ne veszítsen el mindent, amit elmentett, amikor a Windows 11-re vált.
+windows-10-eos-sync-urgency-subtitle-1 = Szinkronizáljon most, hogy a { -brand-short-name } könyvjelzői, jelszavai és beállításai biztonságban legyenek, és könnyen vissza lehessen őket állítani.
+windows-10-eos-sync-urgency-title-2 = Búcsút int a Windows 10-nek? Védje meg az adatait a váltáskor.
+windows-10-eos-sync-urgency-subtitle-2 = Még ha nem is használja naponta a { -brand-short-name }ot, szinkronizáljon, hogy a könyvjelzők és jelszavak biztonságban legyenek és hozzáférhetőek legyenek.
+windows-10-eos-sync-new-device-title-1 = Ne kockáztassa meg az újrakezdést a következő eszközön.
+windows-10-eos-sync-new-device-title-2 = Új eszközre költözik? Ne veszítse el azt, ami számít.
+windows-10-eos-sync-new-device-subtitle-2 = Nem számít, milyen gyakran használja a { -brand-short-name }ot, a szinkronizálás megvédi a könyvjelzőit, jelszavait és beállításait.
+windows-10-eos-sync-new-device-primary-label = Szinkronizálás most
+windows-10-eos-sync-general-title-1 = Védje meg a { -brand-short-name }ot, amelyet a sajátjáévá tett.
+windows-10-eos-sync-general-subtitle-1 = Készítsen biztonsági mentést és szinkronizálja jelszavait, könyvjelzőit, beállításait és egyéb adatait, hogy megőrizze azt, ami számít.
+
 ## Sidebar Strings
 
 sidebar-button-callout-title = Lapcímek megjelenítése az oldalsávban

@@ -31,6 +31,7 @@ about-logging-no-log-modules = Geen
 about-logging-no-log-file = Geen
 about-logging-logging-preset-selector-text = Voorinstelling logging:
 about-logging-with-profiler-stacks-checkbox = Stacktraces voor logboekberichten inschakelen
+about-logging-with-javascript-tracing-checkbox = JavaScript-tracering inschakelen
 about-logging-menu =
     .title = Geavanceerde opties
 
@@ -54,6 +55,8 @@ about-logging-preset-webcodecs-label = WebCodecs
 about-logging-preset-webcodecs-description = Logboekmodules om problemen met WebCodecs-audio-/videodecoders en -encoders, en afbeeldingsdecoders te diagnosticeren
 about-logging-preset-ml-label = Machinaal leren
 about-logging-preset-ml-description = Logboekmodules om machinevertalingsproblemen te diagnosticeren
+about-logging-preset-web-compat-label = Webcompatibiliteit
+about-logging-preset-web-compat-description = Logboekmodules om webcompatibiliteitsproblemen te diagnosticeren
 about-logging-preset-webgpu-label = WebGPU
 about-logging-preset-webgpu-description = Logboekmodules om WebGPU te diagnosticeren
 about-logging-preset-gfx-label = Grafisch

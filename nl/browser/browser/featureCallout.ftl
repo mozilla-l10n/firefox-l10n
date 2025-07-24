@@ -112,6 +112,26 @@ fxa-adoption-passwords-subtitle = Bescherm uw wachtwoorden door ze versleuteld m
 # Opens Mozilla accounts sign-up page
 fxa-adoption-passwords-primary-button-label = Registreren
 
+## Windows 10 EoS Sync messages group 1 callouts
+
+windows-10-eos-sync-urgency-title-1 = Verlies niet alles wat u hebt opgeslagen als u overstapt naar Windows 11.
+windows-10-eos-sync-urgency-subtitle-1 = Synchroniseer nu om uw { -brand-short-name }-bladwijzers, -wachtwoorden en -instellingen veilig en eenvoudig te herstellen.
+windows-10-eos-sync-urgency-title-2 = Neemt u afscheid van Windows 10? Bescherm uw gegevens wanneer u overstapt.
+windows-10-eos-sync-urgency-subtitle-2 = Synchroniseer om bladwijzers en wachtwoorden veilig en toegankelijk te houden, zelfs als u { -brand-short-name } niet dagelijks gebruikt.
+windows-10-eos-sync-new-device-title-1 = Loop niet het risico om op uw volgende apparaat opnieuw te beginnen.
+windows-10-eos-sync-new-device-subtitle-1 = Synchroniseer om uw { -brand-short-name }-bladwijzers, -wachtwoorden en -voorkeursinstellingen mee te nemen wanneer u verhuist.
+windows-10-eos-sync-new-device-title-2 = Verhuist u naar een nieuw apparaat? Verlies niet wat belangrijk is.
+windows-10-eos-sync-new-device-subtitle-2 = Hoe vaak u { -brand-short-name } ook gebruikt, synchronisatie beschermt uw bladwijzers, wachtwoorden en instellingen.
+windows-10-eos-sync-new-device-primary-label = Nu synchroniseren
+windows-10-eos-sync-general-title-1 = Bescherm de { -brand-short-name } die u van u hebt gemaakt.
+windows-10-eos-sync-general-subtitle-1 = Maak een reservekopie en synchroniseer uw wachtwoorden, bladwijzers, instellingen en andere gegevens om te behouden waar u op rekent.
+windows-10-eos-sync-general-title-2 = Dit is een goed moment om een reservekopie te maken van uw wachtwoorden en bladwijzers.
+windows-10-eos-sync-general-subtitle-2 = Synchroniseer nu om de dingen die u { -brand-short-name } toevertrouwt te beschermen – en krijg het altijd en overal terug.
+windows-10-eos-sync-tour-title-1 = Te veel tabbladen? Ruim op met tabbladgroepen.
+windows-10-eos-sync-tour-subtitle-1 = Sleep het ene tabblad op het andere om een groep aan te maken en dingen geordend te houden.
+windows-10-eos-sync-tour-title-2 = Ordenen voor Windows 11.
+windows-10-eos-sync-tour-subtitle-2 = Synchroniseer uw bladwijzers, wachtwoorden en instellingen om er een reservekopie van te maken voordat u overschakelt.
+
 ## Sidebar Strings
 
 sidebar-button-callout-title = Tabbladtitels in de zijbalk tonen
