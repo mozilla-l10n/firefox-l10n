@@ -1362,6 +1362,7 @@ trustpanel-etp-toggle-on =
 trustpanel-etp-toggle-off =
     .aria-label = Polěpšeny slědowanski škit: Za { $host } znjemóžnjeny
 trustpanel-etp-description-enabled = Jeli něšto na tutym sydle wobškodźene wupada, spytajće škity znjemóžnić.
+trustpanel-etp-description-disabled = { -brand-product-name } měni, zo předewzaća měli wam mjenje slědować. Blokujemy tak wjele přesćěhowaki kaž móžemy, zo byšće škit zmóžnili.
 trustpanel-connection-label-secure = Zwisk wěsty
 trustpanel-connection-label-insecure = Zwisk njewěsty
 trustpanel-header-enabled = { -brand-product-name } stražuje
@@ -1393,6 +1394,7 @@ trustpanel-blocker-header =
 ## Variables
 ##  $count (String): the number of trackers blocked.
 
+trustpanel-blocker-description = { -brand-product-name } měni, zo předewzaća měli wam mjenje slědować. Tohodla blokujemy tak wjele kaž móžemy.
 trustpanel-blocked-header = { -brand-product-name } je tute wěcy za was zablokował:
 trustpanel-tracking-header = { -brand-product-name } je tute wěcy dowolił, zo bychu sydła korektnje fungowali:
 trustpanel-insecure-section-header = Waš zwisk wěsty njeje
