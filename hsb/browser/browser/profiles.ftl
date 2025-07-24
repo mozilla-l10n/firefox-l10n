@@ -119,6 +119,9 @@ briefcase-avatar-alt =
 # Canvas refers to an artist's painting canvas, not the general material
 canvas-avatar-alt =
     .alt = Canvas
+# Craft refers to hobby arts and crafts, represented by a button/fastener commonly found on clothing like shirts
+craft-avatar-alt =
+    .alt = Rjemjesło
 flower-avatar-alt =
     .alt = Kwětka
 folder-avatar-alt =
@@ -146,12 +149,31 @@ palette-avatar-alt =
     .alt = Paleta
 paw-print-avatar-alt =
     .alt = Wotćišć pacy
+plane-avatar-alt =
+    .alt = Lětadło
+# Present refers to a gift box, not the current time period
+present-avatar-alt =
+    .alt = Dar
 shopping-avatar-alt =
     .alt = Nakupowanski wozyčk
+soccer-avatar-alt =
+    .alt = Kopańca
+sparkle-single-avatar-alt =
+    .alt = Zybolenje
 star-avatar-alt =
     .alt = Hwězda
+video-game-controller-avatar-alt =
+    .alt = Kontroler za widejohry
 custom-avatar-alt =
     .alt = Swójski awatar
+# Default favicon refers to the generic globe/world icon that appears in browser tabs when a website doesn't have its own favicon.
+default-favicon-avatar-alt =
+    .alt = Standardny fawikon
+# Diamond refers to the precious stone, not the geometric shape
+diamond-avatar-alt =
+    .alt = Diamant
+barbell-avatar-alt =
+    .alt = Hantla
 
 ## Labels for default avatar icons
 

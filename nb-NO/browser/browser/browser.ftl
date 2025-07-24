@@ -1399,4 +1399,14 @@ trustpanel-list-label-cryptominer =
 trustpanel-social-tracking-tab-list-header = Disse nettstedene prøver å spore deg:
 trustpanel-tracking-cookies-tab-list-header = Disse nettstedene prøver å spore deg:
 trustpanel-tracking-content-tab-list-header = Disse nettstedene prøver å spore deg:
+trustpanel-fingerprinter-blocking-tab-header =
+    { $count ->
+        [one] { -brand-product-name } blokkerte { $count } fingeravtrykkssporer
+       *[other] { -brand-product-name } blokkerte { $count } fingeravtrykkssporere
+    }
+trustpanel-fingerprinter-not-blocking-tab-header =
+    { $count ->
+        [one] { -brand-product-name } tillot { $count } fingeravtrykkssporer
+       *[other] { -brand-product-name } tillot { $count } fingeravtrykkssporere
+    }
 trustpanel-cryptominer-tab-list-header = Disse nettstedene prøver å drive kryptomining:
