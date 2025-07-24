@@ -289,6 +289,8 @@ tab-group-editor-color-selector2-gray = Šěry
 tab-group-editor-color-selector2-red = Čerwjeny
     .title = Čerwjeny
 tab-group-description = { $tabGroupName } – skupina rajtarkow
+tab-group-label-tooltip-collapsed = { $tabGroupName } – schowany
+tab-group-label-tooltip-expanded = { $tabGroupName } – pokazany
 tab-context-unnamed-group =
     .label = Skupina bjez mjena
 tab-group-name-default = Skupina bjez mjena
@@ -344,6 +346,18 @@ tab-context-ungroup-tab =
            *[other] Z { $groupCount } skupinow wotstronić
         }
     .accesskey = t
+# When a tab group containing the active tab is collapsed, the active tab
+# remains visible. An indicator appears at the end of the group showing the
+# number of remaining tabs that are hidden by the collapsed group,
+# e.g. "+2" for a group with 3 total tabs.
+tab-group-overflow-count = +{ $tabCount }
+tab-group-overflow-count-tooltip =
+    { $tabCount ->
+        [one] { $tabCount } dalši rajtark
+        [two] { $tabCount } dalšej rajtarkaj
+        [few] { $tabCount } dalše rajtarki
+       *[other] { $tabCount } dalšich rajtarkow
+    }
 
 ## Open/saved tab group context menu
 

@@ -179,6 +179,15 @@ barbell-avatar-alt =
 
 book-avatar = Kniha
 briefcase-avatar = Listowka
+# Canvas refers to an artist's painting canvas, not the general material
+canvas-avatar = Canvas
+# Craft refers to hobby arts and crafts, represented by a button/fastener commonly found on clothing like shirts
+craft-avatar = Rjemjesło
+custom-avatar = Swójski awatar
+# Default favicon refers to the generic globe/world icon that appears in browser tabs when a website doesn't have its own favicon.
+default-favicon-avatar = Standardny fawikon
+# Diamond refers to the precious stone, not the geometric shape
+diamond-avatar = Diamant
 flower-avatar = Kwětka
 folder-avatar = Rjadowak
 hammer-avatar = Hamor
@@ -192,5 +201,13 @@ makeup-avatar = Makeup
 message-avatar = Powěsć
 musical-note-avatar = Hudźbna nota
 palette-avatar = Paleta
+paw-print-avatar = Wotćišć pacy
+plane-avatar = Lětadło
+# Present refers to a gift box, not the current time period
+present-avatar = Dar
 shopping-avatar = Nakupowanski wozyčk
+soccer-avatar = Kopańca
+sparkle-single-avatar = Zybolenje
 star-avatar = Hwězda
+video-game-controller-avatar = Kontroler za widejohry
+barbell-avatar = Hantla
