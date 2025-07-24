@@ -1339,3 +1339,12 @@ trustpanel-etp-description-disabled = { -brand-product-name }는 회사가 사�
 trustpanel-connection-label-secure = 안전한 연결
 trustpanel-connection-label-insecure = 안전하지 않은 연결
 trustpanel-header-enabled = { -brand-product-name }가 감시 중
+trustpanel-description-enabled = 보호받고 있습니다. 뭔가를 발견하면 알려드리겠습니다
+trustpanel-header-disabled = 보호 기능을 사용 중지함
+trustpanel-description-disabled = { -brand-product-name }가 비번 상태입니다. 보호 기능을 다시 켜는 것이 좋습니다.
+trustpanel-clear-cookies-button = 쿠키 및 사이트 데이터 지우기
+trustpanel-privacy-link = 개인 정보 설정
+# Variables
+#  $host (String): the hostname of the site that is being displayed.
+trustpanel-clear-cookies-header =
+    .title = { $host }에 대한 쿠키 및 사이트 데이터 지우기
