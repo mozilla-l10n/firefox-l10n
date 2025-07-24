@@ -1155,6 +1155,10 @@ tabs-toolbar-list-all-tabs =
     .label = Vis liste over alle faner
     .tooltiptext = Vis liste over alle faner
 
+## Drop indicator text for pinned tabs when no tabs are pinned.
+
+pinned-tabs-drop-indicator = Slepp fana her for å feste henne
+
 ## Infobar shown at startup to suggest session-restore
 
 # <img data-l10n-name="icon"/> will be replaced by the application menu icon
@@ -1328,6 +1332,17 @@ onboarding-aw-finish-setup-button =
 
 ## The urlbar trust panel
 
+trustpanel-etp-label-enabled = Utvida sporingsvern er på
+trustpanel-etp-label-disabled = Utvida sporingsvern er av
+# Variables
+#  $host (String): the hostname of the site that is being displayed.
+trustpanel-etp-toggle-on =
+    .aria-label = Utvida sporingsvern: På for { $host }
+# Variables
+#  $host (String): the hostname of the site that is being displayed.
+trustpanel-etp-toggle-off =
+    .aria-label = Utvida sporingsvern: På for { $host }
+trustpanel-etp-description-enabled = Viss noko ser øydelagt ut på denne nettstaden, prøv å slå av vernet.
 trustpanel-clear-cookies-subview-button-clear = Tøm
 trustpanel-clear-cookies-subview-button-cancel = Avbryt
 

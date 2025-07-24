@@ -1347,3 +1347,61 @@ trustpanel-etp-toggle-on =
 trustpanel-etp-toggle-off =
     .aria-label = הגנת מעקב מתקדמת: כבויה עבור { $host }
 trustpanel-etp-description-enabled = אם משהו נראה שבור באתר הזה, ניתן לנסות לכבות את ההגנות.
+trustpanel-etp-description-disabled = ‏{ -brand-product-name } חושב שחברות צריכות לעקוב אחריך פחות. אנו חוסמים כמה שיותר רכיבי מעקב כשההגנות פעילות.
+trustpanel-connection-label-secure = החיבור מאובטח
+trustpanel-connection-label-insecure = החיבור אינו מאובטח
+trustpanel-header-enabled = ‏{ -brand-product-name } עומד על המשמר
+trustpanel-description-enabled = ההגנות פעילות. אם נזהה משהו חריג, נודיע לך
+trustpanel-header-disabled = כיבית את ההגנות
+trustpanel-description-disabled = ההגנות של { -brand-product-name } מושבתות כרגע. אנו מציעים להפעיל מחדש את ההגנות.
+trustpanel-clear-cookies-button = ניקוי עוגיות ונתוני אתרים
+trustpanel-privacy-link = הגדרות פרטיות
+# Variables
+#  $host (String): the hostname of the site that is being displayed.
+trustpanel-clear-cookies-header =
+    .title = ניקוי עוגיות ונתוני אתר עבור { $host }
+trustpanel-clear-cookies-description = הסרת עוגיות ונתוני אתרים עשויה לנתק את החשבון שלך מאתרים ולרוקן עגלות קניות.
+trustpanel-clear-cookies-subview-button-clear = ניקוי
+trustpanel-clear-cookies-subview-button-cancel = ביטול
+# Variables
+#  $host (String): the hostname of the site that is being displayed.
+trustpanel-site-information-header =
+    .title = הגנות חיבור עבור { $host }
+trustpanel-connection-secure = התחברת לאתר זה באופן מאובטח.
+trustpanel-connection-not-secure = החיבור שלך לאתר זה אינו מאובטח.
+trustpanel-siteinformation-morelink = פרטי אתר נוספים
+trustpanel-blocker-see-all = צפייה בהכל
+# Variables
+#  $host (String): the hostname of the site that is being displayed.
+trustpanel-blocker-header =
+    .title = הגנות מעקב עבור { $host }
+
+## Variables
+##  $count (String): the number of trackers blocked.
+
+trustpanel-blocker-section-header =
+    { $count ->
+        [one] רכיב מעקב <span>אחד</span> חסום באתר זה
+       *[other] <span>{ $count }</span> רכיבי מעקב חסומים באתר זה
+    }
+trustpanel-blocker-description = ‏{ -brand-product-name } חושב שחברות צריכות לעקוב אחריך פחות. אז אנחנו חוסמים כמה שניתן.
+trustpanel-blocked-header = ‏{ -brand-product-name } חסם את הפריטים הבאים עבורך:
+trustpanel-tracking-header = ‏{ -brand-product-name } איפשר את הפריטים הבאים כדי שהאתרים לא יישברו:
+trustpanel-tracking-description = ללא רכיבי מעקב, ייתכן שחלק מהכפתורים, הטפסים ושדות ההתחברות לא יפעלו.
+trustpanel-insecure-section-header = החיבור שלך אינו מאובטח
+trustpanel-list-label-tracking-cookies =
+    { $count ->
+        [one] עוגיית מעקב אחת חוצה אתרים
+       *[other] { $count } עוגיות מעקב חוצות אתרים
+    }
+trustpanel-list-label-tracking-content = תוכן מעקב
+trustpanel-list-label-fingerprinter =
+    { $count ->
+        [one] רכיב זהות דיגיטלית אחד
+       *[other] { $count } רכיבי זהות דיגיטלית
+    }
+trustpanel-list-label-social-tracking =
+    { $count ->
+        [one] רכיב מעקב אחד של מדיה חברתית
+       *[other] { $count } רכיבי מעקב של מדיה חברתית
+    }
