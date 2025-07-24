@@ -112,6 +112,26 @@ fxa-adoption-passwords-subtitle = 암호화를 통해 비밀번호를 기기에 
 # Opens Mozilla accounts sign-up page
 fxa-adoption-passwords-primary-button-label = 가입
 
+## Windows 10 EoS Sync messages group 1 callouts
+
+windows-10-eos-sync-urgency-title-1 = Windows 11로 전환하여 저장한 모든 항목을 잃어버리지 마세요.
+windows-10-eos-sync-urgency-subtitle-1 = { -brand-short-name } 북마크, 비밀번호, 설정을 안전하고 쉽게 복원하려면 지금 동기화하세요.
+windows-10-eos-sync-urgency-title-2 = Windows 10과 작별을 고하시겠습니까? 전환 시에도 데이터를 보호하세요.
+windows-10-eos-sync-urgency-subtitle-2 = { -brand-short-name }를 매일 사용하지 않더라도, 북마크와 비밀번호를 안전하게 보관하고 접근할 수 있도록 동기화하세요.
+windows-10-eos-sync-new-device-title-1 = 다음 기기에서 다시 시작해야 하는 위험을 감수하지 마세요.
+windows-10-eos-sync-new-device-subtitle-1 = 동기화하여 { -brand-short-name } 북마크, 비밀번호, 설정을 기기를 옮길 때 함께 가져갈 수 있습니다.
+windows-10-eos-sync-new-device-title-2 = 새 기기로 옮기시겠습니까? 중요한 것을 잃지 마세요.
+windows-10-eos-sync-new-device-subtitle-2 = { -brand-short-name }를 얼마나 자주 사용하든 동기화는 북마크, 비밀번호, 설정을 보호합니다.
+windows-10-eos-sync-new-device-primary-label = 지금 동기화
+windows-10-eos-sync-general-title-1 = 나만의 것으로 만든 { -brand-short-name }를 보호하세요.
+windows-10-eos-sync-general-subtitle-1 = 중요한 데이터를 보존하기 위해 비밀번호, 북마크, 설정 및 기타 데이터를 백업하고 동기화하세요.
+windows-10-eos-sync-general-title-2 = 지금이 비밀번호와 북마크를 백업할 적기입니다.
+windows-10-eos-sync-general-subtitle-2 = 지금 동기화하여 { -brand-short-name }를 신뢰하는 자료를 보호하고 언제 어디서나 다시 가져올 수 있습니다.
+windows-10-eos-sync-tour-title-1 = 탭이 너무 많나요? 탭 그룹으로 깔끔하게 정리하세요.
+windows-10-eos-sync-tour-subtitle-1 = 그룹을 만들고 정리하려면 한 탭을 다른 탭 위로 드래그하세요.
+windows-10-eos-sync-tour-title-2 = Windows 11에 맞게 정리하세요.
+windows-10-eos-sync-tour-subtitle-2 = 전환하기 전에 북마크, 비밀번호 및 설정을 동기화하여 백업하세요.
+
 ## Sidebar Strings
 
 sidebar-button-callout-title = 사이드바에 탭 제목 표시
