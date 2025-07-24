@@ -340,3 +340,7 @@ multi-cta-fox-doodle-privacy-focused-subtitle =
        *[other] 随时随地一键打开您最爱的隐私为先浏览器。将 { -brand-short-name } 设为用于打开链接的默认浏览器，并固定到任务栏。
     }
 multi-cta-fox-doodle-msix-privacy-focused-subtitle = 随时随地一键打开您最爱的隐私为先浏览器。将 { -brand-short-name } 设为用于打开链接的默认浏览器，并固定到任务栏和开始菜单。
+
+## Windows 10 EoS Sync messages group 1 spotlight
+
+windows-10-eos-sync-spotlight-primary-label = 备份 { -brand-short-name }
