@@ -1347,8 +1347,90 @@ trustpanel-etp-toggle-on =
 trustpanel-etp-toggle-off =
     .aria-label = Gelişmiş izlenme koruması: { $host } için kapalı
 trustpanel-etp-description-enabled = Site bozuk görünüyorsa korumaları kapatmayı deneyin.
+trustpanel-etp-description-disabled = { -brand-product-name } şirketlerin sizi daha az takip etmesi gerektiğini düşünüyor. Korumaları açtığınızda mümkün olduğunca çok sayıda takip kodunu engelliyoruz.
+trustpanel-connection-label-secure = Bağlantı güvenli
+trustpanel-connection-label-insecure = Bağlantı güvenli değil
+trustpanel-description-enabled = Koruma altındasınız. Bir şey tespit edersek size haber vereceğiz.
+trustpanel-header-disabled = Korumaları kapattınız
+trustpanel-clear-cookies-button = Çerezleri ve site verilerini temizle
+trustpanel-privacy-link = Gizlilik ayarları
+# Variables
+#  $host (String): the hostname of the site that is being displayed.
+trustpanel-clear-cookies-header =
+    .title = { $host } çerezlerini ve site verilerini temizle
+trustpanel-clear-cookies-description = Çerezleri ve site verilerini temizlerseniz sitelerdeki oturumlarınız kapanabilir ve alışveriş sepetleriniz boşalabilir.
+trustpanel-clear-cookies-subview-button-clear = Temizle
+trustpanel-clear-cookies-subview-button-cancel = Vazgeç
+# Variables
+#  $host (String): the hostname of the site that is being displayed.
+trustpanel-site-information-header =
+    .title = { $host } bağlantı korumaları
+trustpanel-connection-secure = Bu siteye güvenli bir şekilde bağlandınız.
+trustpanel-connection-not-secure = Bu siteye güvenli bir şekilde bağlanmadınız.
+trustpanel-siteinformation-morelink = Daha fazla site bilgisi
+trustpanel-blocker-see-all = Tümünü göster
+# Variables
+#  $host (String): the hostname of the site that is being displayed.
+trustpanel-blocker-header =
+    .title = { $host } izlenme korumaları
 
 ## Variables
 ##  $count (String): the number of trackers blocked.
 
+trustpanel-blocker-section-header =
+    { $count ->
+        [one] Bu sitede <span>{ $count }</span> takip kodu engellendi
+       *[other] Bu sitede <span>{ $count }</span> takip kodu engellendi
+    }
+trustpanel-blocker-description = { -brand-product-name } şirketlerin sizi daha az takip etmesi gerektiğini düşünüyor. O yüzden mümkün olduğunca çok takip kodunu engelliyoruz.
+trustpanel-blocked-header = { -brand-product-name } sizin için aşağıdakileri engelledi:
+trustpanel-tracking-header = Sitelerin bozulmasını önlemek için { -brand-product-name } aşağıdakilere izin verdi:
+trustpanel-insecure-section-header = Bağlantınız güvenli değil
+trustpanel-list-label-tracking-cookies =
+    { $count ->
+        [one] { $count } siteler arası takip çerezi
+       *[other] { $count } siteler arası takip çerezi
+    }
+trustpanel-list-label-social-tracking =
+    { $count ->
+        [one] { $count } sosyal medya takip kodu
+       *[other] { $count } sosyal medya takip kodu
+    }
+trustpanel-list-label-cryptominer =
+    { $count ->
+        [one] { $count } kripto madencisi
+       *[other] { $count } kripto madencisi
+    }
+trustpanel-social-tracking-blocking-tab-header =
+    { $count ->
+        [one] { -brand-product-name } { $count } sosyal medya takip kodunu engelledi
+       *[other] { -brand-product-name } { $count } sosyal medya takip kodunu engelledi
+    }
+trustpanel-social-tracking-not-blocking-tab-header =
+    { $count ->
+        [one] { -brand-product-name } { $count } sosyal medya takip koduna izin verdi
+       *[other] { -brand-product-name } { $count } sosyal medya takip koduna izin verdi
+    }
 trustpanel-social-tracking-tab-list-header = Bu siteler sizi izlemeye çalışıyor:
+trustpanel-tracking-cookies-blocking-tab-header =
+    { $count ->
+        [one] { -brand-product-name } { $count } siteler arası takip çerezini engelledi
+       *[other] { -brand-product-name } { $count } siteler arası takip çerezini engelledi
+    }
+trustpanel-tracking-cookies-not-blocking-tab-header =
+    { $count ->
+        [one] { -brand-product-name } { $count } siteler arası takip çerezine izin verdi
+       *[other] { -brand-product-name } { $count } siteler arası takip çerezine izin verdi
+    }
+trustpanel-tracking-cookies-tab-list-header = Bu siteler sizi izlemeye çalışıyor:
+trustpanel-tracking-content-blocking-tab-header =
+    { $count ->
+        [one] { -brand-product-name } { $count } takip kodunu engelledi
+       *[other] { -brand-product-name } { $count } takip kodunu engelledi
+    }
+trustpanel-tracking-content-not-blocking-tab-header =
+    { $count ->
+        [one] { -brand-product-name } { $count } takip koduna izin verdi
+       *[other] { -brand-product-name } { $count } takip koduna izin verdi
+    }
+trustpanel-tracking-content-tab-list-header = Bu siteler sizi izlemeye çalışıyor:

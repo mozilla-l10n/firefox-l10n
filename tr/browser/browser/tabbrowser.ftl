@@ -314,6 +314,11 @@ tab-context-ungroup-tab =
            *[other] Gruplardan kaldır
         }
     .accesskey = G
+tab-group-overflow-count-tooltip =
+    { $tabCount ->
+        [one] { $tabCount } sekme daha
+       *[other] { $tabCount } sekme daha
+    }
 
 ## Open/saved tab group context menu
 

@@ -123,20 +123,65 @@ flower-avatar-alt =
     .alt = Çiçek
 folder-avatar-alt =
     .alt = Klasör
+hammer-avatar-alt =
+    .alt = Çekiç
 heart-avatar-alt =
     .alt = Kalp
+heart-rate-avatar-alt =
+    .alt = Nabız
+history-avatar-alt =
+    .alt = Tarih
+leaf-avatar-alt =
+    .alt = Yaprak
+lightbulb-avatar-alt =
+    .alt = Ampul
+makeup-avatar-alt =
+    .alt = Makyaj
+# Message refers to a text message, not a traditional letter/envelope message
+message-avatar-alt =
+    .alt = Mesaj
+musical-note-avatar-alt =
+    .alt = Müzik notası
+palette-avatar-alt =
+    .alt = Palet
+paw-print-avatar-alt =
+    .alt = Pati izi
+plane-avatar-alt =
+    .alt = Uçak
+# Present refers to a gift box, not the current time period
+present-avatar-alt =
+    .alt = Armağan
 shopping-avatar-alt =
     .alt = Alışveriş arabası
+soccer-avatar-alt =
+    .alt = Futbol
+sparkle-single-avatar-alt =
+    .alt = Parıltı
 star-avatar-alt =
     .alt = Yıldız
+video-game-controller-avatar-alt =
+    .alt = Video oyun kumandası
 custom-avatar-alt =
     .alt = Özel avatar
+# Diamond refers to the precious stone, not the geometric shape
+diamond-avatar-alt =
+    .alt = Elmas
+barbell-avatar-alt =
+    .alt = Halter
+bike-avatar-alt =
+    .alt = Bisiklet
 
 ## Labels for default avatar icons
 
 book-avatar = Kitap
 briefcase-avatar = Çanta
+# Canvas refers to an artist's painting canvas, not the general material
+canvas-avatar = Tuval
+custom-avatar = Özel avatar
+# Diamond refers to the precious stone, not the geometric shape
+diamond-avatar = Elmas
 flower-avatar = Çiçek
+folder-avatar = Klasör
 heart-avatar = Kalp
 shopping-avatar = Alışveriş arabası
 star-avatar = Yıldız

@@ -31,6 +31,7 @@ about-logging-no-log-modules = Yok
 about-logging-no-log-file = Yok
 about-logging-logging-preset-selector-text = Log kaydı ön ayarı:
 about-logging-with-profiler-stacks-checkbox = Log mesajları için yığın izini etkinleştir
+about-logging-with-javascript-tracing-checkbox = JavaScript izlemeyi etkinleştir
 about-logging-menu =
     .title = Gelişmiş seçenekler
 
@@ -54,6 +55,8 @@ about-logging-preset-webcodecs-label = WebCodecs
 about-logging-preset-webcodecs-description = WebCodecs ses/video çözücüleri, kodlayıcıları ve görüntü çözücüleriyle ilgili sorunları teşhis etmeye yönelik log modülleri
 about-logging-preset-ml-label = Makine öğrenimi
 about-logging-preset-ml-description = Makine öğrenimi sorunlarını teşhis etmeye yönelik log modülleri
+about-logging-preset-web-compat-label = Web Compat
+about-logging-preset-web-compat-description = Web uyumluluk sorunlarını teşhis etmeye yönelik log modülleri
 about-logging-preset-webgpu-label = WebGPU
 about-logging-preset-webgpu-description = WebGPU sorunlarını teşhis etmeye yönelik log modülleri
 about-logging-preset-gfx-label = Grafik
