@@ -1395,4 +1395,13 @@ trustpanel-blocker-header =
 
 trustpanel-insecure-section-header = Waš zwisk wěsty njeje
 trustpanel-list-label-tracking-content = Slědowacy wobsah
+trustpanel-list-label-cryptominer =
+    { $count ->
+        [one] { $count } kryptokopar
+        [two] { $count } kryptokoparjej
+        [few] { $count } kryptokoparjo
+       *[other] { $count } kryptokoparjow
+    }
+trustpanel-social-tracking-tab-list-header = Tute sydła pospytuja wam slědować:
+trustpanel-tracking-cookies-tab-list-header = Tute sydła pospytuja wam slědować:
 trustpanel-tracking-content-tab-list-header = Tute sydła pospytuja wam slědować:
