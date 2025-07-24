@@ -45,6 +45,8 @@ avatar-selector-save-button =
     .label = Lưu
 avatar-selector-upload-file = Tải lên một tập tin
 avatar-selector-drag-file = Hoặc kéo tập tin tại đây
+avatar-selector-add-image = Thêm một ảnh
+avatar-selector-crop = Cắt
 edit-profile-page-no-name = Đặt tên cho hồ sơ này để giúp bạn tìm thấy nó sau này. Có thể đổi tên bất cứ lúc nào.
 edit-profile-page-duplicate-name = Tên hồ sơ đã được sử dụng. Hãy thử một tên khác.
 edit-profile-page-profile-saved = Đã lưu
@@ -114,22 +116,101 @@ book-avatar-alt =
     .alt = Sách
 briefcase-avatar-alt =
     .alt = Cặp tài liệu
+# Canvas refers to an artist's painting canvas, not the general material
+canvas-avatar-alt =
+    .alt = Canvas
+# Craft refers to hobby arts and crafts, represented by a button/fastener commonly found on clothing like shirts
+craft-avatar-alt =
+    .alt = Cúc áo
 flower-avatar-alt =
     .alt = Hoa
+folder-avatar-alt =
+    .alt = Thư mục
+hammer-avatar-alt =
+    .alt = Búa
 heart-avatar-alt =
     .alt = Trái tim
+heart-rate-avatar-alt =
+    .alt = Nhịp tim
+history-avatar-alt =
+    .alt = Lịch sử
+leaf-avatar-alt =
+    .alt = Lá cây
+lightbulb-avatar-alt =
+    .alt = Bóng đèn
+makeup-avatar-alt =
+    .alt = Trang điểm
+# Message refers to a text message, not a traditional letter/envelope message
+message-avatar-alt =
+    .alt = Tin nhắn
+musical-note-avatar-alt =
+    .alt = Nốt nhạc
+palette-avatar-alt =
+    .alt = Bảng màu
+paw-print-avatar-alt =
+    .alt = Dấu chân
+plane-avatar-alt =
+    .alt = Máy bay
+# Present refers to a gift box, not the current time period
+present-avatar-alt =
+    .alt = Hộp quà
 shopping-avatar-alt =
     .alt = Giỏ hàng
+soccer-avatar-alt =
+    .alt = Bóng đá
+sparkle-single-avatar-alt =
+    .alt = Lấp lánh
 star-avatar-alt =
     .alt = Dấu sao
+video-game-controller-avatar-alt =
+    .alt = Bộ điều khiển trò chơi điện tử
 custom-avatar-alt =
     .alt = Tuỳ chỉnh ảnh đại diện
+# Default favicon refers to the generic globe/world icon that appears in browser tabs when a website doesn't have its own favicon.
+default-favicon-avatar-alt =
+    .alt = Biểu tượng mặc định
+# Diamond refers to the precious stone, not the geometric shape
+diamond-avatar-alt =
+    .alt = Kim cương
+barbell-avatar-alt =
+    .alt = Thanh tạ
+bike-avatar-alt =
+    .alt = Xe đạp
 
 ## Labels for default avatar icons
 
 book-avatar = Sách
 briefcase-avatar = Cặp tài liệu
+# Canvas refers to an artist's painting canvas, not the general material
+canvas-avatar = Canvas
+# Craft refers to hobby arts and crafts, represented by a button/fastener commonly found on clothing like shirts
+craft-avatar = Cúc áo
+custom-avatar = Tuỳ chỉnh ảnh đại diện
+# Default favicon refers to the generic globe/world icon that appears in browser tabs when a website doesn't have its own favicon.
+default-favicon-avatar = Biểu tượng mặc định
+# Diamond refers to the precious stone, not the geometric shape
+diamond-avatar = Kim cương
 flower-avatar = Hoa
+folder-avatar = Thư mục
+hammer-avatar = Búa
 heart-avatar = Trái tim
+heart-rate-avatar = Nhịp tim
+history-avatar = Lịch sử
+leaf-avatar = Lá cây
+lightbulb-avatar = Bóng đèn
+makeup-avatar = Trang điểm
+# Message refers to a text message, not a traditional letter/envelope message
+message-avatar = Tin nhắn
+musical-note-avatar = Nốt nhạc
+palette-avatar = Bảng màu
+paw-print-avatar = Dấu chân
+plane-avatar = Máy bay
+# Present refers to a gift box, not the current time period
+present-avatar = Hộp quà
 shopping-avatar = Giỏ hàng
+soccer-avatar = Bóng đá
+sparkle-single-avatar = Lấp lánh
 star-avatar = Dấu sao
+video-game-controller-avatar = Bộ điều khiển trò chơi điện tử
+barbell-avatar = Thanh tạ
+bike-avatar = Xe đạp

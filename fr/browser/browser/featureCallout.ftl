@@ -112,6 +112,26 @@ fxa-adoption-passwords-subtitle = Protégez vos mots de passe en les chiffrant e
 # Opens Mozilla accounts sign-up page
 fxa-adoption-passwords-primary-button-label = Créer un compte
 
+## Windows 10 EoS Sync messages group 1 callouts
+
+windows-10-eos-sync-urgency-title-1 = Ne perdez pas tout ce que vous avez enregistré lorsque vous passez à Windows 11.
+windows-10-eos-sync-urgency-subtitle-1 = Synchronisez maintenant pour conserver vos marque-pages, mots de passe et paramètres { -brand-short-name } en toute sécurité et faciliter leur restauration.
+windows-10-eos-sync-urgency-title-2 = Vous dites adieu à Windows 10 ? Protégez vos données lors de la mise à niveau.
+windows-10-eos-sync-urgency-subtitle-2 = Même si vous n’utilisez pas { -brand-short-name } au quotidien, synchronisez vos données afin que vos marque-pages et mots de passe restent accessibles et soient conservés en toute sécurité.
+windows-10-eos-sync-new-device-title-1 = Ne prenez pas le risque de repartir de zéro sur votre prochain appareil.
+windows-10-eos-sync-new-device-subtitle-1 = Activez la synchronisation pour emporter avec vous vos marque-pages, mots de passe et paramètres { -brand-short-name } lorsque vous changerez d’appareil.
+windows-10-eos-sync-new-device-title-2 = Vous changez d’appareil ? Ne perdez pas l’essentiel.
+windows-10-eos-sync-new-device-subtitle-2 = Quelle que soit votre fréquence d’utilisation de { -brand-short-name }, la synchronisation protège vos marque-pages, vos mots de passe et vos paramètres.
+windows-10-eos-sync-new-device-primary-label = Synchroniser maintenant
+windows-10-eos-sync-general-title-1 = Conservez votre personnalisation de { -brand-short-name }
+windows-10-eos-sync-general-subtitle-1 = Sauvegardez et synchronisez vos mots de passe, marque-pages, paramètres et autres données pour préserver ce qui vous est indispensable.
+windows-10-eos-sync-general-title-2 = C’est le bon moment pour sauvegarder vos mots de passe et vos marque-pages.
+windows-10-eos-sync-general-subtitle-2 = Synchronisez maintenant pour protéger les données que vous avez confiées à { -brand-short-name } et récupérez-les à tout moment, où vous en avez besoin.
+windows-10-eos-sync-tour-title-1 = Vous avez trop d’onglets ? Faites de la place avec les groupes d’onglets.
+windows-10-eos-sync-tour-subtitle-1 = Déposez un onglet au-dessus d’un autre pour créer un groupe et mettre de l’ordre dans vos onglets.
+windows-10-eos-sync-tour-title-2 = Préparez-vous pour Windows 11.
+windows-10-eos-sync-tour-subtitle-2 = Synchronisez vos marque-pages, mots de passe et paramètres pour les sauvegarder avant d’effectuer la mise à niveau.
+
 ## Sidebar Strings
 
 sidebar-button-callout-title = Afficher le titre des onglets dans le panneau latéral

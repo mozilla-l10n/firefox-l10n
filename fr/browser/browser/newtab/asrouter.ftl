@@ -342,3 +342,16 @@ multi-cta-fox-doodle-privacy-focused-subtitle =
        *[other] Gardez votre navigateur préféré et qui respecte votre vie privée à portée de clic. Faites de { -brand-short-name } votre navigateur par défaut pour ouvrir des liens et épinglez-le à la barre des tâches.
     }
 multi-cta-fox-doodle-msix-privacy-focused-subtitle = Gardez votre navigateur préféré et qui respecte votre vie privée à portée de clic. Faites de { -brand-short-name } votre navigateur par défaut pour ouvrir des liens et épinglez-le à la barre des tâches et au menu Démarrer.
+
+## Windows 10 EoS Sync messages group 1 spotlight
+
+windows-10-eos-sync-spotlight-title = Vous allez bientôt mettre à niveau Windows 10 ?
+windows-10-eos-sync-spotlight-subtitle = Sauvegardez vos mots de passe et marque-pages pour être prêt·e à utiliser n’importe quel appareil.
+windows-10-eos-sync-spotlight-primary-label = Sauvegardez { -brand-short-name }
+
+## Windows 10 EoS Sync messages group 1 toast notification
+
+windows-10-eos-sync-toast-title = Vous passez à Windows 11 ? Ne perdez pas vos marque-pages et vos mots de passe.
+windows-10-eos-sync-toast-subtitle = Sauvegardez vos données pour que { -brand-short-name } soit prêt à tout moment, sur ce PC comme sur le suivant.
+windows-10-eos-sync-toast-primary-label = Commencer
+windows-10-eos-sync-toast-secondary-label = Me le rappeler plus tard

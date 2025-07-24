@@ -1349,8 +1349,10 @@ trustpanel-etp-description-enabled = Si quelque chose semble ne pas fonctionner 
 trustpanel-etp-description-disabled = { -brand-product-name } estime que les entreprises devraient moins vous pister. Nous bloquons autant de traqueurs que possible lorsque vous activez les protections.
 trustpanel-connection-label-secure = Connexion sécurisée
 trustpanel-connection-label-insecure = Connexion non sécurisée
+trustpanel-header-enabled = { -brand-product-name } monte la garde
 trustpanel-description-enabled = Vous êtes protégé·e. Si nous remarquons quelque chose, nous vous le ferons savoir
 trustpanel-header-disabled = Vous avez désactivé les protections
+trustpanel-description-disabled = { -brand-product-name } n’est pas en service. Nous vous suggérons de réactiver les protections.
 trustpanel-clear-cookies-button = Effacer les cookies et les données de sites
 trustpanel-privacy-link = Paramètres de vie privée
 # Variables
@@ -1398,3 +1400,68 @@ trustpanel-list-label-fingerprinter =
         [one] { $count } détecteur d’empreinte numérique
        *[other] { $count } détecteurs d’empreinte numérique
     }
+trustpanel-list-label-social-tracking =
+    { $count ->
+        [one] { $count } traqueur de réseaux sociaux
+       *[other] { $count } traqueurs de réseaux sociaux
+    }
+trustpanel-list-label-cryptominer =
+    { $count ->
+        [one] { $count } mineur de cryptomonnaies
+       *[other] { $count } mineurs de cryptomonnaies
+    }
+trustpanel-social-tracking-blocking-tab-header =
+    { $count ->
+        [one] { -brand-product-name } a bloqué { $count } traqueur de réseaux sociaux
+       *[other] { -brand-product-name } a bloqué { $count } traqueurs de réseaux sociaux
+    }
+trustpanel-social-tracking-not-blocking-tab-header =
+    { $count ->
+        [one] { -brand-product-name } a autorisé { $count } traqueur de réseaux sociaux
+       *[other] { -brand-product-name } a autorisé { $count } traqueurs de réseaux sociaux
+    }
+trustpanel-social-tracking-tab-list-header = Les sites suivants tentent de vous pister :
+trustpanel-tracking-cookies-blocking-tab-header =
+    { $count ->
+        [one] { -brand-product-name } a bloqué { $count } cookie de pistage intersites
+       *[other] { -brand-product-name } a bloqué { $count } cookies de pistage intersites
+    }
+trustpanel-tracking-cookies-not-blocking-tab-header =
+    { $count ->
+        [one] { -brand-product-name } a autorisé { $count } cookie de pistage intersites
+       *[other] { -brand-product-name } a autorisé { $count } cookies de pistage intersites
+    }
+trustpanel-tracking-cookies-tab-list-header = Les sites suivants tentent de vous pister :
+trustpanel-tracking-content-blocking-tab-header =
+    { $count ->
+        [one] { -brand-product-name } a bloqué { $count } traqueur
+       *[other] { -brand-product-name } a bloqué { $count } traqueurs
+    }
+trustpanel-tracking-content-not-blocking-tab-header =
+    { $count ->
+        [one] { -brand-product-name } a autorisé { $count } traqueur
+       *[other] { -brand-product-name } a autorisé { $count } traqueurs
+    }
+trustpanel-tracking-content-tab-list-header = Les sites suivants tentent de vous pister :
+trustpanel-fingerprinter-blocking-tab-header =
+    { $count ->
+        [one] { -brand-product-name } a bloqué { $count } détecteur d’empreinte numérique
+       *[other] { -brand-product-name } a bloqué { $count } détecteurs d’empreinte numérique
+    }
+trustpanel-fingerprinter-not-blocking-tab-header =
+    { $count ->
+        [one] { -brand-product-name } a autorisé { $count } détecteur d’empreinte numérique
+       *[other] { -brand-product-name } a autorisé { $count } détecteurs d’empreinte numérique
+    }
+trustpanel-fingerprinter-list-header = Ces sites tentent de détecter votre empreinte numérique :
+trustpanel-cryptominer-blocking-tab-header =
+    { $count ->
+        [one] { -brand-product-name } a bloqué { $count } mineur de cryptomonnaies
+       *[other] { -brand-product-name } a bloqué { $count } mineurs de cryptomonnaies
+    }
+trustpanel-cryptominer-not-blocking-tab-header =
+    { $count ->
+        [one] { -brand-product-name } a autorisé { $count } mineur de cryptomonnaies
+       *[other] { -brand-product-name } a autorisé { $count } mineurs de cryptomonnaies
+    }
+trustpanel-cryptominer-tab-list-header = Ces sites tentent de miner des cryptomonnaies :
