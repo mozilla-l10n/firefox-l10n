@@ -1346,3 +1346,13 @@ trustpanel-etp-description-enabled = Агар ягон чиз дар ин сом
 trustpanel-etp-description-disabled = «{ -brand-product-name }» фикр мекунад, ки ширкатҳо бояд шуморо камтар пайгирӣ кунанд. Вақте ки шумо воситаҳои муҳофизи маълумоти шахсиро фаъол мекунед, мо ҳарчи бештар ҳар гуна васоити пайгириро манъ мекунем.
 trustpanel-connection-label-secure = Пайвастшавӣ бехатар аст
 trustpanel-connection-label-insecure = Пайвастшавӣ бехатар нест
+trustpanel-header-enabled = «{ -brand-product-name }» таҳти муҳофизат аст
+trustpanel-description-enabled = Мо шуморо муҳофизат кардем. Агар ягон чизеро пайдо кунем, мо ба шумо хабар медиҳем
+trustpanel-header-disabled = Шумо воситаҳои муҳофизатро хомӯш кардед
+trustpanel-description-disabled = Айни ҳол «{ -brand-product-name }» дар бефаъолиятӣ қарор дорад. Мо тавсия медиҳем, ки шумо воситаҳои муҳофизатро аз нав фаъол созед.
+trustpanel-clear-cookies-button = Пок кардани кукиҳо ва иттилооти сомона
+trustpanel-privacy-link = Танзимоти махфият
+# Variables
+#  $host (String): the hostname of the site that is being displayed.
+trustpanel-clear-cookies-header =
+    .title = Пок кардани кукиҳо ва иттилооти сомона барои { $host }
