@@ -27,6 +27,10 @@ perftools-heading-threads-jvm = Fire de execuție JVM
 perftools-description-intro =
     Înregistrările lansează <a>profiler.firefox.com</a> într-o filă nouă. Toate datele sunt stocate
     local, dar poți alege să le încarci pentru partajare.
+perftools-description-local-build =
+    Dacă profilezi o versiune pe care ai compilat-o singur, pe această
+    mașină, te rugăm să adaugi fișierul objdir al versiunii tale în lista de mai jos, astfel încât
+    să poată fi folosit pentru a căuta informații despre simboluri.
 
 ## The controls for the interval at which the profiler samples the code.
 
@@ -73,6 +77,8 @@ perftools-menu-more-actions-copy-for-perf-tests = Copiază parametrii pentru tes
 
 perftools-thread-gecko-main =
     .title = Procesele principale, atât pentru procesul-părinte, cât și pentru procesele de conținut
+perftools-thread-dom-worker =
+    .title = Gestionează atât web workerii, cât și service workerii
 perftools-thread-renderer =
     .title = Când este activat WebRender, firul care execută apelurile OpenGL
 perftools-thread-render-backend =
