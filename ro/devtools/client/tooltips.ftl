@@ -31,9 +31,15 @@ inactive-css-first-letter-pseudo-element-not-supported = <strong>{ $property }</
 inactive-css-placeholder-pseudo-element-not-supported = <strong>{ $property }</strong> nu este acceptat pe pseudoelemente ::placeholder.
 inactive-css-property-because-of-display = <strong>{ $property }</strong> nu are niciun efect asupra acestui element deoarece valoarea de afișare este <strong>{ $display }</strong>.
 inactive-css-not-display-block-on-floated = Valoarea <strong>display</strong> a fost modificată de motor în <strong>block</strong> deoarece elementul este <strong>floated</strong>.
+inactive-css-not-display-block-on-floated-2 = Valoarea <strong>display</strong> a fost modificată de motor în <strong>{ $display }</strong> deoarece elementul este <strong>flotant</strong>.
+inactive-css-only-non-grid-or-flex-item = <strong>{ $property }</strong> nu are niciun efect pentru că nu poate fi folosită pe elemente de grilă sau flex.
+inactive-css-not-block = <strong>{ $property }</strong> nu are niciun efect pentru că se aplică numai la elemente la nivel de bloc.
+inactive-css-not-floated = <strong>{ $property }</strong> nu are niciun efect pentru că se aplică numai elementelor flotante.
 inactive-css-property-is-impossible-to-override-in-visited = Imposibil de redefinit <strong>{ $property }</strong> din cauza restricției <strong>:visited</strong>.
 inactive-css-position-property-on-unpositioned-box = <strong>{ $property }</strong>nu are niciun efect asupra acestui element pentru că nu este element poziționat.
+inactive-css-only-replaced-elements = <strong>{ $property }</strong> nu are niciun efect asupra acestui element pentru că se poate aplica numai elementelor înlocuite.
 inactive-text-overflow-when-no-overflow = <strong>{ $property }</strong> nu are niciun efect asupra acestui element pentru că <strong>overflow:hidden</strong> nu este setat.
+inactive-css-no-size-containment = <strong>{ $property }</strong> nu are niciun efect asupra acestui element pentru că nu are nicio limită de dimensiune.
 
 ## In the Rule View when a CSS property cannot be successfully applied we display
 ## an icon. When this icon is hovered this message is displayed to explain why
