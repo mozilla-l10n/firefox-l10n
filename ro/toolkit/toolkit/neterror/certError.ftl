@@ -72,6 +72,14 @@ open-in-new-window-for-csp-or-xfo-error = Deschide site-ul într-o fereastră no
 #   $hostname (string) - Hostname of the website blocked by csp or xfo error.
 csp-xfo-blocked-long-desc = Pentru a-ți proteja securitatea, { $hostname } nu va permite { -brand-short-name } să afișeze pagina dacă a fost încorporată de alt site. Pentru a vedea această pagină, trebuie să o deschizi într-o fereastră nouă.
 fp-certerror-view-certificate-link = Vezi certificatul site-ului
+fp-certerror-return-to-previous-page-recommended-button = Întoarce-te (Recomandat)
+# This string appears after the following string: "What makes the site look dangerous?" (fp-certerror-why-site-dangerous)
+# Variables:
+#   $hostname (String) - Hostname of the website to which the user was trying to connect.
+#   $validHosts (String) - Valid hostnames.
+fp-certerror-bad-domain-why-dangerous-body = Site-ul este configurat să permită doar conexiuni securizate, dar există o problemă cu certificatul site-ului. Este posibil ca un actor rău intenționat să încerce să se dea drept site-ul. Site-urile folosesc certificate emise de o autoritate de certificare pentru a dovedi că sunt cu adevărat cine pretind că sunt. { -brand-short-name } nu are încredere în acest site deoarece certificatul lui nu este valid pentru { $hostname }. Certificatul este valid doar pentru: { $validHosts }.
+# This string appears after the following string: "What can you do about it?" (fp-certerror-what-can-you-do)
+fp-certerror-bad-domain-what-can-you-do-body = Probabil nimic, deoarece este probabil să existe o problemă cu site-ul în sine. Site-urile folosesc certificate emise de o autoritate de certificare pentru a dovedi că sunt cu adevărat cine pretind că sunt. Dar dacă te afli într-o rețea corporativă, echipa de asistență ar putea avea mai multe informații. Dacă folosești un software antivirus, încearcă să cauți potențiale conflicte sau probleme cunoscute.
 
 ## Messages used for certificate error titles
 
