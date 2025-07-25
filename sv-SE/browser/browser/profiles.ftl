@@ -118,7 +118,7 @@ briefcase-avatar-alt =
     .alt = Portfölj
 # Canvas refers to an artist's painting canvas, not the general material
 canvas-avatar-alt =
-    .alt = Rityta
+    .alt = Canvas
 # Craft refers to hobby arts and crafts, represented by a button/fastener commonly found on clothing like shirts
 craft-avatar-alt =
     .alt = Hantverk
@@ -144,13 +144,11 @@ makeup-avatar-alt =
 message-avatar-alt =
     .alt = Meddelande
 musical-note-avatar-alt =
-    .alt = Musik
+    .alt = Musiknot
 palette-avatar-alt =
     .alt = Palett
 paw-print-avatar-alt =
     .alt = Tassavtryck
-plane-avatar-alt =
-    .alt = Plan
 # Present refers to a gift box, not the current time period
 present-avatar-alt =
     .alt = Presentera

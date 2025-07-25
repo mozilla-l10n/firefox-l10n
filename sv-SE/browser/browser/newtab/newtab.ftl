@@ -545,8 +545,8 @@ newtab-custom-wallpaper-cta = Prova den
 ## Strings for new user activation custom wallpaper highlight
 
 newtab-new-user-custom-wallpaper-title = Välj en bakgrundsbild för att göra { -brand-product-name } till din
-newtab-new-user-custom-wallpaper-subtitle = Få varje ny flik att kännas som ett hemma med egna bakgrundsbilder och färger.
-newtab-new-user-custom-wallpaper-cta = Testa på en gång
+newtab-new-user-custom-wallpaper-subtitle = Få varje ny flik att kännas som hemma med anpassade bakgrunder och färger.
+newtab-new-user-custom-wallpaper-cta = Prova det nu
 
 ## Strings for download mobile highlight
 

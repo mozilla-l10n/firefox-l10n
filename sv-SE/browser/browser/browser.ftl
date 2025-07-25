@@ -1333,7 +1333,7 @@ onboarding-aw-finish-setup-button =
 ## The urlbar trust panel
 
 trustpanel-etp-label-enabled = Förbättrat spårningsskydd är på
-trustpanel-etp-label-disabled = Förbättrat spårningsskydd är avstängt
+trustpanel-etp-label-disabled = Förbättrat spårningsskydd är av
 # Variables
 #  $host (String): the hostname of the site that is being displayed.
 trustpanel-etp-toggle-on =
@@ -1349,7 +1349,7 @@ trustpanel-connection-label-insecure = Anslutningen är inte säker
 trustpanel-header-enabled = { -brand-product-name } är på vakt
 trustpanel-description-enabled = Du är skyddad. Om vi upptäcker något meddelar vi dig
 trustpanel-header-disabled = Du stängde av skydden
-trustpanel-description-disabled = { -brand-product-name } är ledig. Vi föreslår att du aktiverar skyddet igen.
+trustpanel-description-disabled = { -brand-product-name } är inte i drift. Vi föreslår att du aktiverar skydden igen.
 trustpanel-clear-cookies-button = Rensa kakor och webbplatsdata
 trustpanel-privacy-link = Sekretessinställningar
 # Variables
@@ -1382,7 +1382,7 @@ trustpanel-blocker-section-header =
     }
 trustpanel-blocker-description = { -brand-product-name } tycker att företag borde följa dig mindre. Så vi blockerar så många vi kan.
 trustpanel-blocked-header = { -brand-product-name } blockerade dessa saker för dig:
-trustpanel-tracking-header = { -brand-product-name } tillät dessa saker så att webbplatser inte går sönder:
+trustpanel-tracking-header = { -brand-product-name } tillät dessa saker så att webbplatser inte skulle sluta fungera:
 trustpanel-tracking-description = Utan spårare kanske vissa knappar, formulär och inloggningsfält inte fungerar.
 trustpanel-insecure-section-header = Din anslutning är inte säker
 trustpanel-insecure-description = Den data du skickar till den här webbplatsen är inte krypterad. Den kan visas, bli stulen eller ändrad.
@@ -1394,27 +1394,27 @@ trustpanel-list-label-tracking-cookies =
 trustpanel-list-label-tracking-content = Spårningsinnehåll
 trustpanel-list-label-fingerprinter =
     { $count ->
-        [one] { $count } Fingeravtrycksspårare
-       *[other] { $count } Fingeravtrycksspårare
+        [one] { $count } fingeravtrycksspårare
+       *[other] { $count } fingeravtrycksspårare
     }
 trustpanel-list-label-social-tracking =
     { $count ->
-        [one] { $count } Social media-spårare
-       *[other] { $count } Sociala mediespårare
+        [one] { $count } social mediespårare
+       *[other] { $count } sociala mediespårare
     }
 trustpanel-list-label-cryptominer =
     { $count ->
-        [one] { $count } Kryptogrävare
+        [one] { $count } kryptogrävare
        *[other] { $count } kryptogrävare
     }
 trustpanel-social-tracking-blocking-tab-header =
     { $count ->
-        [one] { -brand-product-name } blockerade { $count } sociala spårare
+        [one] { -brand-product-name } blockerade { $count } social mediespårare
        *[other] { -brand-product-name } blockerade { $count } sociala mediespårare
     }
 trustpanel-social-tracking-not-blocking-tab-header =
     { $count ->
-        [one] { -brand-product-name } tillät { $count } social media-spårare
+        [one] { -brand-product-name } tillät { $count } social mediespårare
        *[other] { -brand-product-name } tillät { $count } sociala mediespårare
     }
 trustpanel-social-tracking-tab-list-header = Dessa webbplatser försöker spåra dig:
@@ -1425,7 +1425,7 @@ trustpanel-tracking-cookies-blocking-tab-header =
     }
 trustpanel-tracking-cookies-not-blocking-tab-header =
     { $count ->
-        [one] { -brand-product-name } tillät { $count } cross-site spårningskaka
+        [one] { -brand-product-name } tillät { $count } global spårningskaka
        *[other] { -brand-product-name } tillät { $count } globala spårningskakor
     }
 trustpanel-tracking-cookies-tab-list-header = Dessa webbplatser försöker spåra dig:
@@ -1436,8 +1436,8 @@ trustpanel-tracking-content-blocking-tab-header =
     }
 trustpanel-tracking-content-not-blocking-tab-header =
     { $count ->
-        [one] { -brand-product-name } tilläter { $count } spårare
-       *[other] { -brand-product-name } tillåtna { $count } spårare
+        [one] { -brand-product-name } tillät { $count } spårare
+       *[other] { -brand-product-name } tillät { $count } spårare
     }
 trustpanel-tracking-content-tab-list-header = Dessa webbplatser försöker spåra dig:
 trustpanel-fingerprinter-blocking-tab-header =
@@ -1447,8 +1447,8 @@ trustpanel-fingerprinter-blocking-tab-header =
     }
 trustpanel-fingerprinter-not-blocking-tab-header =
     { $count ->
-        [one] { -brand-product-name } tillåter { $count } fingeravtrycksspårare
-       *[other] { -brand-product-name } tilläter { $count } fingeravtrycksspårare
+        [one] { -brand-product-name } tillät { $count } fingeravtrycksspårare
+       *[other] { -brand-product-name } tillät { $count } fingeravtrycksspårare
     }
 trustpanel-fingerprinter-list-header = Dessa webbplatser försöker ta fingeravtryck från dig:
 trustpanel-cryptominer-blocking-tab-header =
