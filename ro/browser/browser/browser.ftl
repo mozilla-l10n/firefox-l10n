@@ -207,6 +207,9 @@ urlbar-result-menu-show-less-frequently =
     .label = Arată mai rar
 urlbar-result-menu-dont-show-weather-suggestions =
     .label = Nu afișa sugestii meteo
+# Used for Split Button.
+urlbar-splitbutton-dropmarker =
+    .title = Deschide meniul
 # A message shown in the urlbar when the user submits feedback on a suggestion
 # (e.g., it shows an inaccurate location, it's shown too often, etc.).
 urlbar-feedback-acknowledgment = Îți mulțumim pentru feedback
@@ -830,6 +833,8 @@ urlbar-searchmode-default =
 urlbar-searchmode-popup-description = De data asta caută cu:
 urlbar-searchmode-popup-search-settings-menuitem =
     .label = Setări de căutare
+# Label shown next to a new search engine in the Searchmode Switcher popup to promote it.
+urlbar-searchmode-new = Nou
 # Searchmode Switcher button
 # Variables:
 #   $engine (String): the current default search engine.
@@ -1157,6 +1162,10 @@ tabs-toolbar-list-all-tabs =
     .label = Listează toate filele
     .tooltiptext = Listează toate filele
 
+## Drop indicator text for pinned tabs when no tabs are pinned.
+
+pinned-tabs-drop-indicator = Plasează aici fila de fixat
+
 ## Infobar shown at startup to suggest session-restore
 
 # <img data-l10n-name="icon"/> will be replaced by the application menu icon
@@ -1332,3 +1341,45 @@ onboarding-checklist-button-label = Finalizează configurarea
 onboarding-aw-finish-setup-button =
     .label = Finalizează configurarea
     .tooltiptext = Finalizează configurarea { -brand-short-name }
+
+## The urlbar trust panel
+
+trustpanel-etp-label-enabled = Protecția îmbunătățită împotriva urmăririi este activată
+trustpanel-etp-label-disabled = Protecția îmbunătățită împotriva urmăririi este dezactivată
+# Variables
+#  $host (String): the hostname of the site that is being displayed.
+trustpanel-etp-toggle-on =
+    .aria-label = Protecție îmbunătățită împotriva urmăririi: activată pentru { $host }
+# Variables
+#  $host (String): the hostname of the site that is being displayed.
+trustpanel-etp-toggle-off =
+    .aria-label = Protecție îmbunătățită împotriva urmăririi: dezactivată pentru { $host }
+trustpanel-etp-description-enabled = Dacă ceva pare defect pe acest site, încearcă să dezactivezi protecțiile.
+trustpanel-etp-description-disabled = { -brand-product-name } consideră că firmele ar trebui să te urmărească mai puțin. Blocăm cât mai multe elemente de urmărire posibil când activezi protecțiile.
+trustpanel-connection-label-secure = Conexiune securizată
+trustpanel-connection-label-insecure = Conexiune nesecurizată
+trustpanel-header-enabled = { -brand-product-name } este în gardă
+trustpanel-description-enabled = Ești protejat(ă). Dacă observăm ceva, te vom anunța.
+trustpanel-header-disabled = Ai dezactivat protecțiile
+trustpanel-description-disabled = { -brand-product-name } nu este în gardă. Îți sugerăm să reactivezi protecțiile.
+trustpanel-clear-cookies-button = Șterge cookie-urile și datele site-urilor
+trustpanel-privacy-link = Setări de confidențialitate
+# Variables
+#  $host (String): the hostname of the site that is being displayed.
+trustpanel-clear-cookies-header =
+    .title = Șterge cookie-urile și datele site-ului pentru { $host }
+trustpanel-clear-cookies-description = Eliminarea cookie-urilor și a datelor site-urilor te poate deconecta de pe site-uri web și poate goli coșurile de cumpărături.
+trustpanel-clear-cookies-subview-button-clear = Șterge
+trustpanel-clear-cookies-subview-button-cancel = Anulează
+# Variables
+#  $host (String): the hostname of the site that is being displayed.
+trustpanel-site-information-header =
+    .title = Protecții de conexiune pentru { $host }
+trustpanel-connection-secure = Ești conectat(ă) în mod securizat la acest site.
+trustpanel-connection-not-secure = Nu ești conectat(ă) în mod securizat la acest site.
+trustpanel-siteinformation-morelink = Mai multe informații despre site
+trustpanel-blocker-see-all = Afișează tot
+# Variables
+#  $host (String): the hostname of the site that is being displayed.
+trustpanel-blocker-header =
+    .title = Protecții împotriva urmăririi pentru { $host }
