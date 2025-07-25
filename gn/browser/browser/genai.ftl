@@ -97,6 +97,13 @@ genai-menu-choose-chatbot =
 genai-menu-ask-generic-2 =
     .label = Eporandu IA Chatbot-pe
     .accesskey = h
+# $provider (string) - name of the provider
+genai-menu-ask-provider-2 =
+    .label = Eporandu { $proveedor }-pe
+    .accesskey = h
+genai-menu-no-provider-2 =
+    .label = Eporandu IA Chatbot-pe
+    .accesskey = h
 
 ## Chatbot header
 

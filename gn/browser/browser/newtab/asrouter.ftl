@@ -342,3 +342,13 @@ multi-cta-fox-doodle-privacy-focused-subtitle =
        *[other] Ereko ne kundahára erohoryvéva ema’ẽvo tekoñemíre nde ykére oĩva. Emboheko { -brand-short-name } kundahára ypyguárõ embojuruja hag̃ua juajuha ha emboja ne rembiapo rupáre ha Ñepyrũha poravorãre.
     }
 multi-cta-fox-doodle-msix-privacy-focused-subtitle = Ereko ne kundahára erohoryvéva ema’ẽvo tekoñemíre nde ykére. Emboheko { -brand-short-name } kundahára ypyguárõ embojuruja hag̃ua juajuha ha emboja ne rembiapo rupáre ha Ñepyrũha poravorãre.
+
+## Windows 10 EoS Sync messages group 1 spotlight
+
+windows-10-eos-sync-spotlight-title = ¿Embohekopyahu Windows 10 pya’e?
+windows-10-eos-sync-spotlight-primary-label = Eñongatuve tekorosãrã ne { -brand-short-name } rehegua
+
+## Windows 10 EoS Sync messages group 1 toast notification
+
+windows-10-eos-sync-toast-primary-label = Emoñepyrũ
+windows-10-eos-sync-toast-secondary-label = Chemomandu’a ag̃ave
