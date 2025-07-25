@@ -1158,6 +1158,10 @@ tabs-toolbar-list-all-tabs =
     .label = Opaite tendayke jehechauka
     .tooltiptext = Opaite tendayke jehechauka
 
+## Drop indicator text for pinned tabs when no tabs are pinned.
+
+pinned-tabs-drop-indicator = Epoi ápe tendayke emboja hag̃ua
+
 ## Infobar shown at startup to suggest session-restore
 
 # <img data-l10n-name="icon"/> will be replaced by the application menu icon
@@ -1326,3 +1330,24 @@ onboarding-checklist-button-label = Emohu’ã ñemboheko
 onboarding-aw-finish-setup-button =
     .label = Emohu’ã ñemboheko
     .tooltiptext = Emohu’ã ne ñemboheko { -brand-short-name }
+
+## The urlbar trust panel
+
+trustpanel-connection-label-secure = Eike tekorosãme
+trustpanel-connection-label-insecure = Eike tekorosã’ỹme
+trustpanel-header-enabled = { -brand-product-name } oma’ẽmeme
+trustpanel-header-disabled = Emboguéma umi ñemo’ãha
+trustpanel-clear-cookies-button = Emboguete kookie ha mba’ekuaarã tendágui
+trustpanel-privacy-link = Ñemigua ñemboheko
+trustpanel-clear-cookies-subview-button-clear = Mopotĩ
+trustpanel-clear-cookies-subview-button-cancel = Heja
+trustpanel-blocker-see-all = Hechapa
+# Variables
+#  $host (String): the hostname of the site that is being displayed.
+trustpanel-blocker-header =
+    .title = Tapykuehoha mo’ãha { $host }-pe g̃uarã
+
+## Variables
+##  $count (String): the number of trackers blocked.
+
+trustpanel-blocked-header = { -brand-product-name } ojoko ko’ã mba’e ndéve g̃uarã:

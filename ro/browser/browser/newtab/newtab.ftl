@@ -542,6 +542,8 @@ newtab-custom-wallpaper-cta = Încearcă-l
 ## Strings for new user activation custom wallpaper highlight
 
 newtab-new-user-custom-wallpaper-title = Alege o imagine de fundal ca să personalizezi { -brand-product-name }
+newtab-new-user-custom-wallpaper-subtitle = Fă să simți fiecare filă nouă ca a ta, cu imagini de fundal și culori personalizate.
+newtab-new-user-custom-wallpaper-cta = Încearcă acum
 
 ## Strings for download mobile highlight
 

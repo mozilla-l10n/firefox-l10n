@@ -346,3 +346,16 @@ multi-cta-fox-doodle-privacy-focused-subtitle =
        *[other] Păstrează-ți browserul preferat care îți respectă intimitatea la doar un clic distanță. Setează { -brand-short-name } ca browser implicit pentru deschiderea linkurilor și fixează-l în bara de sarcini.
     }
 multi-cta-fox-doodle-msix-privacy-focused-subtitle = Păstrează-ți browserul preferat care îți respectă intimitatea la doar un clic distanță. Setează { -brand-short-name } ca browser implicit pentru deschiderea linkurilor și fixează-l în bara de sarcini și meniul de start.
+
+## Windows 10 EoS Sync messages group 1 spotlight
+
+windows-10-eos-sync-spotlight-title = Vei face upgrade de la Windows 10 în curând?
+windows-10-eos-sync-spotlight-subtitle = Fă copii de rezervă cu parolele și marcajele ca să fii gata să treci pe orice dispozitiv.
+windows-10-eos-sync-spotlight-primary-label = Fă copii de rezervă pentru { -brand-short-name }
+
+## Windows 10 EoS Sync messages group 1 toast notification
+
+windows-10-eos-sync-toast-title = Treci la Windows 11? Nu pierde marcajele și parolele.
+windows-10-eos-sync-toast-subtitle = Fă o copie de rezervă cu datele ca { -brand-short-name } să fie gata de utilizare oricând, pe acest calculator sau pe următorul.
+windows-10-eos-sync-toast-primary-label = Să începem
+windows-10-eos-sync-toast-secondary-label = Amintește-mi mai târziu

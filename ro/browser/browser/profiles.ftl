@@ -45,6 +45,8 @@ avatar-selector-save-button =
     .label = Salvează
 avatar-selector-upload-file = Încarcă un fișier
 avatar-selector-drag-file = Sau trage un fișier aici
+avatar-selector-add-image = Adaugă o imagine
+avatar-selector-crop = Decupează
 edit-profile-page-no-name = Dă un nume acestui profil pentru a te ajuta să îl găsești mai târziu. Redenumește-l oricând.
 edit-profile-page-duplicate-name = Numele profilului este deja în uz. Încearcă un nume nou.
 edit-profile-page-profile-saved = Salvat
@@ -114,6 +116,9 @@ book-avatar-alt =
     .alt = Carte
 briefcase-avatar-alt =
     .alt = Valiză
+# Canvas refers to an artist's painting canvas, not the general material
+canvas-avatar-alt =
+    .alt = Pânză
 # Craft refers to hobby arts and crafts, represented by a button/fastener commonly found on clothing like shirts
 craft-avatar-alt =
     .alt = Meșteșug
