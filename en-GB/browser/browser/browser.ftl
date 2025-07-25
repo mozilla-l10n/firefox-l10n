@@ -1356,7 +1356,7 @@ trustpanel-privacy-link = Privacy Settings
 #  $host (String): the hostname of the site that is being displayed.
 trustpanel-clear-cookies-header =
     .title = Clear cookies and site data for { $host }
-trustpanel-clear-cookies-description = Removing cookies and site data might log you out of web sites and clear shopping carts.
+trustpanel-clear-cookies-description = Removing cookies and site data might log you out of web sites and clear shopping baskets.
 trustpanel-clear-cookies-subview-button-clear = Clear
 trustpanel-clear-cookies-subview-button-cancel = Cancel
 # Variables
