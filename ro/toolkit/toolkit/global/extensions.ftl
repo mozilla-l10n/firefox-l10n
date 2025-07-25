@@ -26,6 +26,14 @@ webext-perms-header-required-perms = Permisiuni necesare:
 webext-perms-header-optional-settings = Setări opționale:
 webext-perms-header-update-required-perms = Noi permisiuni necesare:
 webext-perms-header-optional-required-perms = Permisiuni noi:
+webext-perms-header-data-collection-perms = Colectare necesară de date:
+webext-perms-header-data-collection-is-none = Colectare de date:
+# This is a header used in the add-ons "update" prompt, shown when the new
+# version requires new data collection permissions.
+webext-perms-header-update-data-collection-perms = Colectare necesară de date nouă:
+# This is a header used in the add-ons "optional" prompt, shown when the
+# extension requests new data collection permissions programmatically.
+webext-perms-header-optional-data-collection-perms = Colectare nouă de date:
 
 ##
 
@@ -45,7 +53,10 @@ webext-perms-sideload-cancel =
     .accesskey = C
 # Variables:
 #   $extension (String): replaced with the localized name of the extension.
-webext-perms-update-text = { $extension } a fost actualizat. Trebuie să aprobi noile permisiuni înainte ca versiunea actualizată să se instaleze. Dacă alegi „Anulează”, se va menține versiunea actuală a extensiei. Această extensie va avea permisiunea:
+webext-perms-update-text2 = %S a fost actualizată. Trebuie să aprobi permisiuni noi înainte de instalarea versiunii actualizate. Dacă alegi „Anulează”, vei menține versiunea actuală a extensiei.
+# Variables:
+#   $extension (String): replaced with the localized name of the extension.
+webext-perms-update-text = { $extension } a fost actualizat. Trebuie să aprobi permisiuni noi înainte de instalarea versiunii actualizate. Dacă alegi „Anulează”, vei menține versiunea actuală a extensiei. Această extensie va avea permisiunea:
 webext-perms-update-accept =
     .label = Actualizează
     .accesskey = U
@@ -81,6 +92,65 @@ webext-perms-host-description-too-many-sites =
         [few] Să îți acceseze datele pe alte { $domainCount } site-uri
        *[other] Să îți acceseze datele pe alte { $domainCount } de site-uri
     }
+# Variables:
+#   $domain (String): will be replaced by the DNS host name for which a webextension is requesting access (e.g., mozilla.org),
+#     $domain should be treated as plural (because it may also include all subdomains, e.g www.mozilla.org, ftp.mozilla.org).
+webext-perms-host-description-one-domain = Să îți acceseze datele pentru site-uri din domeniile { $domain }
+# Permission string used for webextensions requesting access to 2 or more domains (and so $domainCount is expected to always
+# be >= 2, for webextensions requesting access to only one domain the `webext-perms-host-description-one-domain` string is
+# used instead).
+# Variables:
+#   $domainCount (Number): Integer indicating the number of websites domains for which this webextension is requesting permission
+#     (the list of domains will follow this string).
+webext-perms-host-description-multiple-domains =
+    { $domainCount ->
+        [few] Să îți acceseze datele pentru site-uri din { $domainCount } domenii
+       *[other] Să îți acceseze datele pentru site-uri din { $domainCount } de domenii
+    }
+
+## Strings for data collection permissions in the permission prompt.
+
+webext-perms-description-data-none = Dezvoltatorul spune că această extensie nu necesită colectarea de date.
+# Variables:
+#    $permissions (String): a list of data collection permissions formatted with `Intl.ListFormat` using the "narrow" style.
+webext-perms-description-data-some = Dezvoltatorul spune că această extensie colectează: { $permissions }
+# Variables:
+#    $permissions (String): a list of data collection permissions formatted with `Intl.ListFormat` using the "narrow" style.
+webext-perms-description-data-some-update = Dezvoltatorul spune că această extensie va colecta: { $permissions }
+# Variables:
+#    $permissions (String): a list of data collection permissions formatted with `Intl.ListFormat` using the "narrow" style.
+webext-perms-description-data-some-optional = Dezvoltatorul spune că această extensie vrea să colecteze: { $permissions }
+# Variables:
+#   $extension (String): replaced with the localized name of the extension.
+webext-perms-update-text-with-data-collection = { $extension } necesită setări noi pentru actualizare
+webext-perms-update-list-intro-with-data-collection = Anulează pentru a păstra versiunea și setările curente sau actualizează pentru a obține noua versiune și a aproba modificările.
+# Variables:
+#   $extension (String): replaced with the localized name of the extension.
+webext-perms-optional-text-with-data-collection = { $extension } necesită setări suplimentare
+# Variables:
+#   $extension (String): replaced with the localized name of the extension.
+webext-perms-optional-text-with-data-collection-only = { $extension } necesită colectare de date suplimentare
+
+## Headers used in the webextension permissions dialog for synthetic add-ons.
+## The part of the string describing what privileges the extension gives should be consistent
+## with the value of webext-site-perms-description-gated-perms-{sitePermission}.
+## Note, this string will be used as raw markup. Avoid characters like <, >, &
+## Variables:
+##   $hostname (String): the hostname of the site the add-on is being installed from.
+
+webext-site-perms-header-with-gated-perms-midi = Acest supliment oferă { $hostname } acces la dispozitivele tale MIDI.
+webext-site-perms-header-with-gated-perms-midi-sysex = Acest supliment oferă { $hostname } acces la dispozitivele tale MIDI (cu suport SysEx).
+
+##
+
+# This string is used as description in the webextension permissions dialog for synthetic add-ons.
+# Note, the empty line is used to create a line break between the two sections.
+# Note, this string will be used as raw markup. Avoid characters like <, >, &
+webext-site-perms-description-gated-perms-midi =
+    Sunt de obicei dispozitive plug-in, cum ar fi sintetizatoare audio, dar pot fi și încorporate în calculator.
+    
+    
+    În mod normal, site-urile web nu au permisiunea de a accesa dispozitive MIDI. Utilizarea necorespunzătoare ar putea provoca daune sau ar putea compromite securitatea.
 
 ## Headers used in the webextension permissions dialog.
 ## Note: This string will be used as raw markup. Avoid characters like <, >, &

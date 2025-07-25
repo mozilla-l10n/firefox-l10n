@@ -40,3 +40,12 @@ webext-perms-description-data-short-bookmarksInfo = marcaje
 ## Long form to be used in `about:addons` when these data collection permissions are optional.
 
 webext-perms-description-data-long-bookmarksInfo = Partajează informații despre marcaje cu dezvoltatorul extensiei
+webext-perms-description-data-long-financialAndPaymentInfo = Partajează informații financiare și de plată cu dezvoltatorul extensiei
+webext-perms-description-data-long-healthInfo = Partajează informații despre sănătate cu dezvoltatorul extensiei
+webext-perms-description-data-long-locationInfo = Partajează informații despre locație cu dezvoltatorul extensiei
+webext-perms-description-data-long-personalCommunications = Partajează comunicări personale cu dezvoltatorul extensiei
+webext-perms-description-data-long-personallyIdentifyingInfo = Partajează informații de identificare personală cu dezvoltatorul extensiei
+webext-perms-description-data-long-searchTerms = Partajează termeni de căutare cu dezvoltatorul extensiei
+webext-perms-description-data-long-technicalAndInteraction = Partajează date tehnice și de interacțiune cu dezvoltatorul extensiei
+webext-perms-description-data-long-websiteActivity = Partajează activitate pe site-uri web cu dezvoltatorul extensiei
+webext-perms-description-data-long-websiteContent = Partajează conținuturi de pe site-uri web cu dezvoltatorul extensiei
