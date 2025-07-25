@@ -132,6 +132,10 @@ fxa-adoption-passwords-subtitle = Chraňte svá hesla synchronizací se zaříze
 # Opens Mozilla accounts sign-up page
 fxa-adoption-passwords-primary-button-label = Přihlásit se
 
+## Windows 10 EoS Sync messages group 1 callouts
+
+windows-10-eos-sync-new-device-primary-label = Synchronizovat
+
 ## Sidebar Strings
 
 sidebar-button-callout-title = Zobrazovat názvy panelů v postranní liště

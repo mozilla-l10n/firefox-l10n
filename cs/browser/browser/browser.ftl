@@ -911,6 +911,8 @@ urlbar-searchmode-default =
 urlbar-searchmode-popup-description = Vyhledat pomocí:
 urlbar-searchmode-popup-search-settings-menuitem =
     .label = Nastavení vyhledávání
+# Label shown next to a new search engine in the Searchmode Switcher popup to promote it.
+urlbar-searchmode-new = Nový
 # Searchmode Switcher button
 # Variables:
 #   $engine (String): the current default search engine.
@@ -1484,3 +1486,12 @@ onboarding-checklist-button-label = Dokončit nastavení
 onboarding-aw-finish-setup-button =
     .label = Dokončit nastavení
     .tooltiptext = Dokončí nastavení { -brand-short-name(case: "gen") }
+
+## The urlbar trust panel
+
+trustpanel-etp-label-enabled = Rozšířená ochrana proti sledování je zapnuta
+trustpanel-etp-label-disabled = Rozšířená ochrana proti sledování je vypnuta
+trustpanel-clear-cookies-subview-button-clear = Vymazat
+trustpanel-clear-cookies-subview-button-cancel = Zrušit
+trustpanel-siteinformation-morelink = Více informací o webu
+trustpanel-blocker-see-all = Zobrazit vše
