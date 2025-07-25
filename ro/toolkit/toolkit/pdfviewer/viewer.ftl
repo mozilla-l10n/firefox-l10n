@@ -105,6 +105,14 @@ pdfjs-document-properties-button-label = Proprietățile documentului…
 pdfjs-document-properties-file-name = Numele fișierului:
 pdfjs-document-properties-file-size = Mărimea fișierului:
 # Variables:
+#   $kb (Number) - the PDF file size in kilobytes
+#   $b (Number) - the PDF file size in bytes
+pdfjs-document-properties-size-kb = { NUMBER($kb, maximumSignificantDigits: 3) } KB ({ $b } octeți)
+# Variables:
+#   $mb (Number) - the PDF file size in megabytes
+#   $b (Number) - the PDF file size in bytes
+pdfjs-document-properties-size-mb = { NUMBER($mb, maximumSignificantDigits: 3) } MB ({ $b } octeți)
+# Variables:
 #   $size_kb (Number) - the PDF file size in kilobytes
 #   $size_b (Number) - the PDF file size in bytes
 pdfjs-document-properties-kb = { $size_kb } KB ({ $size_b } byți)
@@ -118,6 +126,9 @@ pdfjs-document-properties-subject = Subiect:
 pdfjs-document-properties-keywords = Cuvinte cheie:
 pdfjs-document-properties-creation-date = Data creării:
 pdfjs-document-properties-modification-date = Data modificării:
+# Variables:
+#   $dateObj (Date) - the creation/modification date and time of the PDF file
+pdfjs-document-properties-date-time-string = { DATETIME($dateObj, dateStyle: "short", timeStyle: "medium") }
 # Variables:
 #   $date (Date) - the creation/modification date of the PDF file
 #   $time (Time) - the creation/modification time of the PDF file
@@ -274,6 +285,9 @@ pdfjs-annotation-date-string = { $date }, { $time }
 # Some common types are e.g.: "Check", "Text", "Comment", "Note"
 pdfjs-text-annotation-type =
     .alt = [Adnotare { $type }]
+# Variables:
+#   $dateObj (Date) - the modification date and time of the annotation
+pdfjs-annotation-date-time-string = { DATETIME($dateObj, dateStyle: "short", timeStyle: "medium") }
 
 ## Password
 
@@ -297,6 +311,29 @@ pdfjs-editor-stamp-button-label = Adaugă sau editează imagini
 pdfjs-editor-highlight-button =
     .title = Evidențiere
 pdfjs-editor-highlight-button-label = Evidențiere
+pdfjs-highlight-floating-button1 =
+    .title = Evidențiază
+    .aria-label = Evidențiere
+pdfjs-highlight-floating-button-label = Evidențiază
+pdfjs-editor-signature-button =
+    .title = Adaugă semnătură
+pdfjs-editor-signature-button-label = Adaugă semnătură
+
+## Default editor aria labels
+
+# “Highlight” is a noun, the string is used on the editor for highlights.
+pdfjs-editor-highlight-editor =
+    .aria-label = Editor de evidențiere
+# “Drawing” is a noun, the string is used on the editor for drawings.
+pdfjs-editor-ink-editor =
+    .aria-label = Editor de desen
+# Used when a signature editor is selected/hovered.
+# Variables:
+#   $description (String) - a string describing/labeling the signature.
+pdfjs-editor-signature-editor1 =
+    .aria-description = Editor de semnătură: { $description }
+pdfjs-editor-stamp-editor =
+    .aria-label = Editor de imagini
 
 ## Remove button for the various kind of editor.
 
@@ -308,6 +345,8 @@ pdfjs-editor-remove-stamp-button =
     .title = Elimină imaginea
 pdfjs-editor-remove-highlight-button =
     .title = Elimină evidențierea
+pdfjs-editor-remove-signature-button =
+    .title = Elimină semnătura
 
 ##
 
@@ -315,13 +354,58 @@ pdfjs-editor-remove-highlight-button =
 pdfjs-editor-free-text-color-input = Culoare
 pdfjs-editor-free-text-size-input = Mărime
 pdfjs-editor-ink-color-input = Culoare
+pdfjs-editor-ink-thickness-input = Grosime
+pdfjs-editor-ink-opacity-input = Opacitate
+pdfjs-editor-stamp-add-image-button =
+    .title = Adaugă imagine
+pdfjs-editor-stamp-add-image-button-label = Adaugă imagine
+# This refers to the thickness of the line used for free highlighting (not bound to text)
+pdfjs-editor-free-highlight-thickness-input = Grosime
+pdfjs-editor-free-highlight-thickness-title =
+    .title = Schimbă grosimea când evidențiezi alte elemente decât text
+pdfjs-editor-add-signature-container =
+    .aria-label = Controale de semnături și semnături salvate
+pdfjs-editor-signature-add-signature-button =
+    .title = Adaugă o semnătură nouă
+pdfjs-editor-signature-add-signature-button-label = Adaugă o semnătură nouă
+# Used on the button to use an already saved signature.
+# Variables:
+#   $description (String) - a string describing/labeling the signature.
+pdfjs-editor-add-saved-signature-button =
+    .title = Semnătură salvată: { $description }
+# .default-content is used as a placeholder in an empty text editor.
+pdfjs-free-text2 =
+    .aria-label = Editor de text
+    .default-content = Începe să tastezi...
+pdfjs-free-text =
+    .aria-label = Editor de text
+pdfjs-free-text-default-content = Începe să tastezi…
+pdfjs-ink =
+    .aria-label = Editor de desene
+pdfjs-ink-canvas =
+    .aria-label = Imagine creată de utilizator
 
 ## Alt-text dialog
 
+pdfjs-editor-alt-text-button-label = Text alternativ
+pdfjs-editor-alt-text-edit-button =
+    .aria-label = Editează textul alternativ
+pdfjs-editor-alt-text-edit-button-label = Editează textul alternativ
+pdfjs-editor-alt-text-dialog-label = Alege o opțiune
+pdfjs-editor-alt-text-dialog-description = Textul alternativ (alt text) ajută când oamenii nu pot vedea imaginea sau când nu se încarcă.
+pdfjs-editor-alt-text-add-description-label = Adaugă o descriere
+pdfjs-editor-alt-text-add-description-description = Încearcă să scrii 1-2 propoziții care să descrie subiectul, cadrul sau acțiunile.
+pdfjs-editor-alt-text-mark-decorative-label = Marchează ca decorativ
+pdfjs-editor-alt-text-mark-decorative-description = Este pentru imagini ornamentale, cum ar fi chenare sau filigrane.
 pdfjs-editor-alt-text-cancel-button = Anulează
+pdfjs-editor-alt-text-save-button = Salvează
+pdfjs-editor-alt-text-decorative-tooltip = Marcat ca decorativ
 # .placeholder: This is a placeholder for the alt text input area
 pdfjs-editor-alt-text-textarea =
     .placeholder = De exemplu, „Un tânăr se așează la o masă să mănânce”
+# Alternative text (alt text) helps when people can't see the image.
+pdfjs-editor-alt-text-button =
+    .aria-label = Text alternativ
 
 ## Editor resizers
 ## This is used in an aria label to help to understand the role of the resizer.
@@ -334,6 +418,22 @@ pdfjs-editor-resizer-label-bottom-right = Colțul din dreapta jos — redimensio
 pdfjs-editor-resizer-label-bottom-middle = Mijloc de jos - redimensionează
 pdfjs-editor-resizer-label-bottom-left = Colțul din stânga jos — redimensionează
 pdfjs-editor-resizer-label-middle-left = Mijloc stânga — redimensionează
+pdfjs-editor-resizer-top-left =
+    .aria-label = Colțul din stânga sus — redimensionează
+pdfjs-editor-resizer-top-middle =
+    .aria-label = Mijloc de sus — redimensionează
+pdfjs-editor-resizer-top-right =
+    .aria-label = Colțul din dreapta sus — redimensionează
+pdfjs-editor-resizer-middle-right =
+    .aria-label = Mijloc dreapta — redimensionează
+pdfjs-editor-resizer-bottom-right =
+    .aria-label = Colțul din dreapta jos — redimensionează
+pdfjs-editor-resizer-bottom-middle =
+    .aria-label = Mijloc de jos - redimensionează
+pdfjs-editor-resizer-bottom-left =
+    .aria-label = Colțul din stânga jos — redimensionează
+pdfjs-editor-resizer-middle-left =
+    .aria-label = Mijloc stânga — redimensionează
 
 ## Color picker
 
@@ -353,3 +453,99 @@ pdfjs-editor-colorpicker-pink =
     .title = Roz
 pdfjs-editor-colorpicker-red =
     .title = Roșu
+
+## Accessibility labels (announced by screen readers) for objects added to the editor.
+
+pdfjs-editor-highlight-added-alert = Evidențiere adăugată
+pdfjs-editor-freetext-added-alert = Text adăugat
+pdfjs-editor-ink-added-alert = Desen adăugat
+pdfjs-editor-stamp-added-alert = Imagine adăugată
+pdfjs-editor-signature-added-alert = Semnătură adăugată
+
+## "Annotations removed" bar
+
+pdfjs-editor-undo-bar-message-stamp = Imagine eliminată
+pdfjs-editor-undo-bar-message-signature = Semnătură eliminată
+# Variables:
+#   $count (Number) - the number of removed annotations.
+pdfjs-editor-undo-bar-message-multiple =
+    { $count ->
+        [one] { $count } adnotare eliminată
+        [few] { $count } adnotări eliminate
+       *[other] { $count } de adnotări eliminate
+    }
+pdfjs-editor-undo-bar-undo-button =
+    .title = Anulează
+pdfjs-editor-undo-bar-undo-button-label = Anulează
+pdfjs-editor-undo-bar-close-button =
+    .title = Închide
+pdfjs-editor-undo-bar-close-button-label = Închide
+
+## Add a signature dialog
+
+pdfjs-editor-add-signature-dialog-label = Această fereastră permite utilizatorului să creeze o semnătură de adăugat la un document PDF. Utilizatorul poate edita numele (care servește și ca text alternativ) și, opțional, poate salva semnătura pentru utilizare repetată.
+pdfjs-editor-add-signature-dialog-title = Adaugă o semnătură
+
+## Tab names
+
+# Type is a verb (you can type your name as signature)
+pdfjs-editor-add-signature-type-button = Tip
+    .title = Tip
+# Draw is a verb (you can draw your signature)
+pdfjs-editor-add-signature-draw-button = Desenează
+    .title = Desenează
+pdfjs-editor-add-signature-image-button = Imagine
+    .title = Imagine
+
+## Tab panels
+
+pdfjs-editor-add-signature-type-input =
+    .aria-label = Tastează semnătura
+    .placeholder = Tastează semnătura
+pdfjs-editor-add-signature-draw-placeholder = Desenează semnătura
+pdfjs-editor-add-signature-draw-thickness-range-label = Grosime
+# Variables:
+#   $thickness (Number) - the thickness (in pixels) of the line used to draw a signature.
+pdfjs-editor-add-signature-draw-thickness-range =
+    .title = Grosimea desenului: { $thickness }
+pdfjs-editor-add-signature-image-placeholder = Trage aici un fișier pentru încărcare
+pdfjs-editor-add-signature-image-browse-link =
+    { PLATFORM() ->
+        [macos] Sau alege fișiere de imagini
+       *[other] Sau răsfoiește prin fișiere de imagini
+    }
+
+## Controls
+
+pdfjs-editor-add-signature-description-label = Descriere (text alternativ)
+pdfjs-editor-add-signature-description-input =
+    .title = Descriere (text alternativ)
+pdfjs-editor-add-signature-description-default-when-drawing = Semnătură
+pdfjs-editor-add-signature-clear-button-label = Șterge semnătura
+pdfjs-editor-add-signature-clear-button =
+    .title = Șterge semnătura
+pdfjs-editor-add-signature-save-checkbox = Salvează semnătura
+pdfjs-editor-add-signature-save-warning-message = Ai atins limita de 5 semnături salvate. Elimină una dacă vrei să salvezi alta.
+pdfjs-editor-add-signature-image-upload-error-title = Imaginea nu a putut fi încărcată
+pdfjs-editor-add-signature-image-upload-error-description = Verifică-ți conexiunea la rețea sau încearcă cu o altă imagine.
+pdfjs-editor-add-signature-error-close-button = Închide
+
+## Dialog buttons
+
+pdfjs-editor-add-signature-cancel-button = Anulează
+pdfjs-editor-add-signature-add-button = Adaugă
+pdfjs-editor-edit-signature-update-button = Actualizează
+
+## Main menu for adding/removing signatures
+
+pdfjs-editor-delete-signature-button1 =
+    .title = Elimină semnătura salvată
+pdfjs-editor-delete-signature-button-label1 = Elimină semnătura salvată
+
+## Editor toolbar
+
+pdfjs-editor-add-signature-edit-button-label = Editează descrierea
+
+## Edit signature description dialog
+
+pdfjs-editor-edit-signature-dialog-title = Editează descrierea
