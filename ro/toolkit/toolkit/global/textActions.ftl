@@ -22,6 +22,12 @@ text-action-copy =
     .accesskey = C
 text-action-copy-shortcut =
     .key = C
+# "Copy Clean Link" means that Firefox will remove things from the link you
+# copied, like items that identify you for advertising purposes, and other items
+# sites add into URLs to help them deliver a certain browsing experience.
+text-action-copy-clean-link =
+    .label = Copiază linkul curat
+    .accesskey = n
 # This command copies the link, removing additional
 # query parameters used to track users across sites.
 text-action-strip-on-share =
@@ -30,15 +36,40 @@ text-action-strip-on-share =
 text-action-paste =
     .label = Lipește
     .accesskey = P
+text-action-paste-no-formatting =
+    .label = Lipește fără formatare
+    .accesskey = m
 text-action-paste-shortcut =
     .key = V
 text-action-delete =
     .label = Șterge
     .accesskey = D
+text-action-reveal-password =
+    .label = Arată parola
+    .accesskey = v
 text-action-select-all =
     .label = Selectează tot
     .accesskey = A
 text-action-select-all-shortcut =
     .key = A
+text-action-spell-no-suggestions =
+    .label = Nicio sugestie de ortografie
+text-action-spell-add-to-dictionary =
+    .label = Adaugă în dicționar
+    .accesskey = o
+text-action-spell-undo-add-to-dictionary =
+    .label = Anulează adăugarea în dicționar
+    .accesskey = n
+text-action-spell-check-toggle =
+    .label = Verifică ortografia
+    .accesskey = g
+text-action-spell-add-dictionaries =
+    .label = Adaugă dicționare…
+    .accesskey = A
+text-action-spell-dictionaries =
+    .label = Limbi
+    .accesskey = L
 text-action-search-text-box-clear =
     .title = Curăță
+text-action-highlight-selection =
+    .label = Evidențiază selecția
