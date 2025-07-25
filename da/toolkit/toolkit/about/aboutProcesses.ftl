@@ -166,7 +166,7 @@ about-processes-cpu-fully-idle = inaktiv
 ##                        of `memory-unit-*`.
 
 # Common case.
-about-processes-total-memory-size-changed = { "\u0009" }{ NUMBER($total, maximumFractionDigits: 0) }{ $totalUnit }
+about-processes-total-memory-size-changed = { NUMBER($total, maximumFractionDigits: 0) }{ $totalUnit }
     .title = Udvikling: { $deltaSign }{ NUMBER($delta, maximumFractionDigits: 0) }{ $deltaUnit }
 # Special case: no change.
 about-processes-total-memory-size-no-change = { NUMBER($total, maximumFractionDigits: 0) }{ $totalUnit }

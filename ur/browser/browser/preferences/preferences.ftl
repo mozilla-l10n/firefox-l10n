@@ -681,7 +681,7 @@ history-header = سابقات
 #     This will result in "Firefox" + "Will remember history", etc.
 #   - As a stand-alone message, for example "Firefox history settings:".
 history-remember-label = { -brand-short-name }
-    .accesskey = { "\u0009" }w
+    .accesskey = w
 history-remember-option-all =
     .label = سابقات یاد رکھے
 history-remember-option-never =

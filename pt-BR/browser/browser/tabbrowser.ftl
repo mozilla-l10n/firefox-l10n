@@ -221,11 +221,11 @@ tabbrowser-manager-close-tab =
 # This is for tab groups that have been "saved and closed" (see tab-group-editor-action-save). It does
 # not include "deleted" tab groups (see tab-group-editor-action-delete).
 tabbrowser-manager-closed-tab-group =
-    .label = { "\u0009" }{ $tabGroupName }
-    .tooltiptext = { "\u0009" }{ $tabGroupName } — Fechado
+    .label = { $tabGroupName }
+    .tooltiptext = { $tabGroupName } — Fechado
 tabbrowser-manager-current-window-tab-group =
-    .label = { "\u0009" }{ $tabGroupName }
-    .tooltiptext = { "\u0009" }{ $tabGroupName } — Janela atual
+    .label = { $tabGroupName }
+    .tooltiptext = { $tabGroupName } — Janela atual
 
 ## Variables:
 ##  $tabGroupName (String): The name of the tab group. Defaults to the value

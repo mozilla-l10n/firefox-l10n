@@ -61,8 +61,8 @@ login-list-filtered-count =
 #   $count (number) - Number of logins
 login-list-count2 =
     { $count ->
-        [one] { "\u0009" }{ $count } گذرواژه
-       *[other] { "\u0009" }{ $count } گذرواژه
+        [one] { $count } گذرواژه
+       *[other] { $count } گذرواژه
     }
 # Variables
 #   $count (number) - Number of filtered logins
@@ -300,7 +300,7 @@ about-logins-confirm-export-dialog-message = گذرواژه‌های شما به
 about-logins-confirm-export-dialog-confirm-button = برون‌ریزی…
 about-logins-confirm-export-dialog-title2 = نکته‌ای درباره دریافت گذرواژه‌ها
 about-logins-confirm-export-dialog-message2 =
-    وقتی برون‌ریزی می‌کنید، گذرواژه‌های شما به یک پرونده با متن قابل خواندن ذخیره می‌شود. 
+    وقتی برون‌ریزی می‌کنید، گذرواژه‌های شما به یک پرونده با متن قابل خواندن ذخیره می‌شود.
     وقتی استفاده از پرونده تمام شد، توصیه می‌کنیم آن را حذف کنید تا دیگرانی که از این دستگاه استفاده می‌کنند نتوانند گذرواژه‌های شما را ببینند.
 about-logins-confirm-export-dialog-confirm-button2 = ادامه با برون‌ریزی
 about-logins-alert-import-title = ورود اطلاعات کامل شد
