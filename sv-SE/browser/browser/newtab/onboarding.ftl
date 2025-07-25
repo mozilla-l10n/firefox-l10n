@@ -448,15 +448,15 @@ onboarding-checklist-sign-up = Registrera dig eller logga in på ditt konto
 tab-groups-onboarding-feature-callout-title = Testa flikgrupper för mindre röra, mer fokus
 tab-groups-onboarding-feature-callout-subtitle = Bli organiserad genom att dra en flik ovanpå en annan för att skapa din första grupp.
 # The text "list all tabs" refers to the string tabs-toolbar-list-all-tabs
-tab-groups-onboarding-create-group-title-3 = Hitta dina flikgrupper i menyn Visa alla flikar när som helst.
+tab-groups-onboarding-create-group-title-3 = Hitta dina flikgrupper i menyn Lista alla flikar när som helst.
 tab-groups-onboarding-create-group-title-2 = Hitta dina flikgrupper här när som helst.
 tab-groups-onboarding-create-group-no-alltabs-button-title = Hitta dina grupper genom att söka efter dem i adressfältet.
 # The text "list all tabs" refers to the string tabs-toolbar-list-all-tabs
-tab-groups-onboarding-saved-groups-title-3 = När du stänger en flikgrupp, öppna den igen från menyn Visa alla flikar när som helst.
+tab-groups-onboarding-saved-groups-title-3 = När du stänger en flikgrupp, öppna den igen från menyn Lista alla flikar när som helst.
 tab-groups-onboarding-saved-groups-title-2 = När du stänger en flikgrupp kan du öppna den här igen när som helst.
 tab-groups-onboarding-saved-groups-no-alltabs-button-title-2 = Hitta dina stängda grupper genom att söka efter dem i adressfältet.
 # The text "list all tabs" refers to the string tabs-toolbar-list-all-tabs
-tab-groups-onboarding-session-restore-title-2 = Återöppna dina flikgrupper från menyn Visa alla flikar när som helst.
+tab-groups-onboarding-session-restore-title-2 = Återöppna dina flikgrupper från menyn Lista alla flikar när som helst.
 tab-groups-onboarding-session-restore-title = Återöppna dina flikgrupper här när som helst.
 tab-groups-onboarding-dismiss = Ok
 
