@@ -1475,3 +1475,4 @@ trustpanel-fingerprinter-not-blocking-tab-header =
         [few] { -brand-product-name } a permis { $count } detectoare de amprente digitale
        *[other] { -brand-product-name } a permis { $count } de detectoare de amprente digitale
     }
+trustpanel-fingerprinter-list-header = Aceste site-uri încearcă să îți detecteze amprentele digitale:
