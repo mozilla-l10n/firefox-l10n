@@ -80,6 +80,56 @@ fp-certerror-return-to-previous-page-recommended-button = Întoarce-te (Recomand
 fp-certerror-bad-domain-why-dangerous-body = Site-ul este configurat să permită doar conexiuni securizate, dar există o problemă cu certificatul site-ului. Este posibil ca un actor rău intenționat să încerce să se dea drept site-ul. Site-urile folosesc certificate emise de o autoritate de certificare pentru a dovedi că sunt cu adevărat cine pretind că sunt. { -brand-short-name } nu are încredere în acest site deoarece certificatul lui nu este valid pentru { $hostname }. Certificatul este valid doar pentru: { $validHosts }.
 # This string appears after the following string: "What can you do about it?" (fp-certerror-what-can-you-do)
 fp-certerror-bad-domain-what-can-you-do-body = Probabil nimic, deoarece este probabil să existe o problemă cu site-ul în sine. Site-urile folosesc certificate emise de o autoritate de certificare pentru a dovedi că sunt cu adevărat cine pretind că sunt. Dar dacă te afli într-o rețea corporativă, echipa de asistență ar putea avea mai multe informații. Dacă folosești un software antivirus, încearcă să cauți potențiale conflicte sau probleme cunoscute.
+# This string appears after the following string: "What makes the site look dangerous?" (fp-certerror-why-site-dangerous)
+fp-certerror-unknown-issuer-why-dangerous-body = E o problemă cu certificatul site-ului. Este posibil ca un actor rău intenționat să încerce să se dea drept site-ul. Site-urile folosesc certificate emise de o autoritate de certificare pentru a dovedi că sunt cu adevărat cine pretind că sunt. { -brand-short-name } nu are încredere în acest site deoarece nu putem ști cine a emis certificatul, este autosemnat sau site-ul nu trimite certificate intermediare în care avem încredere.
+# This string appears after the following string: "What can you do about it?" (fp-certerror-what-can-you-do)
+fp-certerror-unknown-issuer-what-can-you-do-body = Probabil nimic, deoarece este probabil să existe o problemă cu site-ul în sine. Dar dacă te afli într-o rețea corporativă, echipa de asistență ar putea avea mai multe informații. Dacă folosești un software antivirus, este posibil trebuiască configurat ca să funcționeze cu { -brand-short-name }.
+# This string appears after the following string: "What makes the site look dangerous?" (fp-certerror-why-site-dangerous)
+fp-certerror-self-signed-why-dangerous-body = Pentru că e o problemă cu certificatul site-ului. Site-urile folosesc certificate emise de o autoritate de certificare pentru a dovedi că sunt cu adevărat cine pretind că sunt. Certificatul acestui site este autosemnat. Nu a fost emis de o autoritate de certificare recunoscută – așa că nu avem încredere în el în mod implicit.
+# This string appears after the following string: "What can you do about it?" (fp-certerror-what-can-you-do)
+fp-certerror-self-signed-what-can-you-do-body = Nu prea multe. Probabil că e o problemă cu site-ul în sine.
+fp-certerror-self-signed-important-note = NOTĂ IMPORTANTĂ: Dacă încerci să intri pe acest site prin intranetul companiei, personalul IT poate utiliza certificate autosemnate. Ei te pot ajuta să le verifici autenticitatea.
+# This string appears after the following string: "What makes the site look dangerous?" (fp-certerror-why-site-dangerous)
+# Variables:
+#   $date (Date) - Certificate expiration date.
+fp-certerror-expired-why-dangerous-body = Site-urile folosesc certificate emise de o autoritate de certificare pentru a dovedi că sunt cu adevărat cine pretind că sunt. { -brand-short-name } nu are încredere în acest site deoarece se pare că certificatul a expirat pe { DATETIME($date, month: "numeric", day: "numeric", year: "numeric") }.
+# This string appears after the following string: "What makes the site look dangerous?" (fp-certerror-why-site-dangerous)
+# Variables:
+#   $date (Date) - Certificate start date.
+fp-certerror-not-yet-valid-why-dangerous-body = Site-urile folosesc certificate emise de o autoritate de certificare pentru a dovedi că sunt cu adevărat cine pretind că sunt. { -brand-short-name } nu are încredere în acest site deoarece se pare că certificatul nu va fi valabil până pe { DATETIME($date, month: "numeric", day: "numeric", year: "numeric") }.
+# This string appears after the following string: "What can you do about it?" (fp-certerror-what-can-you-do)
+# Variables:
+#   $date (Date) - Clock date.
+fp-certerror-expired-what-can-you-do-body = Ceasul dispozitivului tău este setat pe { DATETIME($date, month: "numeric", day: "numeric", year: "numeric") }. Dacă este corect, problema de securitate e probabil legată de site. Dacă este greșit, poți regla ceasul în setările de sistem ale dispozitivului.
+# Variables:
+#   $error (string) - NSS error code string that specifies type of cert error. e.g. unknown issuer, invalid cert, etc.
+fp-cert-error-code = Codul erorii: { $error }
+# Variables:
+#   $datetime (Date) - Current datetime.
+fp-datetime = { DATETIME($datetime, month: "short", year: "numeric", day: "numeric") } { DATETIME($datetime, timeStyle: "long") }
+fp-learn-more-about-secure-connection-failures = Află mai multe despre erorile conexiunilor securizate
+fp-learn-more-about-cert-issues = Află mai multe despre aceste tipuri de probleme cu certificatele
+fp-learn-more-about-time-related-errors = Află mai multe despre depanarea erorilor legate de ceas
+
+## Variables:
+##   $hostname (string) - Hostname of the website with cert error.
+
+cert-error-revoked-certificate = { -brand-short-name } ți-a blocat vizita pe acest site deoarece certificatul furnizat pentru { $hostname } a fost revocat și nu mai este considerat de încredere.
+cert-error-bad-signature = { -brand-short-name } ți-a blocat vizita pe acest site deoarece semnătura de pe certificatul furnizat pentru { $hostname } nu este validă.
+cert-error-key-pinning-failure = { -brand-short-name } ți-a blocat vizita pe acest site deoarece certificatul furnizat pentru { $hostname } folosește o cheie publică diferită de cea așteptată.
+cert-error-bad-der = { -brand-short-name } ți-a blocat vizita pe acest site deoarece certificatul furnizat pentru { $hostname } nu este codificat corect.
+cert-error-cert-not-in-name-space = { -brand-short-name } ți-a blocat vizita pe acest site deoarece certificatul furnizat pentru { $hostname } nu respectă restricțiile de nume ale unui certificat care l-a emis.
+cert-error-inadequate-cert-type = { -brand-short-name } ți-a blocat vizita pe acest site deoarece certificatul furnizat pentru { $hostname } nu are permisiune de utilizare de către un server web.
+cert-error-path-len-constraint-invalid = { -brand-short-name } ți-a blocat vizita pe acest site deoarece certificatul furnizat pentru { $hostname } are prea multe certificate intermediare în calea către certificatul-rădăcină.
+cert-error-invalid-key = { -brand-short-name } ți-a blocat vizita pe acest site deoarece certificatul furnizat pentru { $hostname } are o cheie nevalidă. Cel mai probabil, este prea mică pentru a fi sigură.
+cert-error-unknown-critical-extension = { -brand-short-name } ți-a blocat vizita pe acest site deoarece certificatul furnizat pentru { $hostname } conține o extensie critică neacceptată.
+cert-error-extension-value-invalid = { -brand-short-name } ți-a blocat vizita pe acest site deoarece certificatul furnizat pentru { $hostname } conține o extensie nevalidă.
+cert-error-untrusted-issuer = { -brand-short-name } ți-a blocat vizita pe acest site deoarece certificatul furnizat pentru { $hostname } a fost emis de o autoritate de certificare care nu mai este de încredere.
+cert-error-untrusted-cert = { -brand-short-name } ți-a blocat vizita pe acest site deoarece certificatul furnizat pentru { $hostname } este marcat ca nefiind de încredere.
+cert-error-invalid-integer-encoding = { -brand-short-name } ți-a blocat vizita pe acest site deoarece certificatul furnizat pentru { $hostname } conține o codificare nevalidă a unui număr întreg. Cauzele frecvente includ numere de serie negative, module RSA negative și codificări mai lungi decât este necesar.
+cert-error-unsupported-keyalg = { -brand-short-name } ți-a blocat vizita pe acest site deoarece certificatul furnizat pentru { $hostname } are un tip de cheie neacceptat.
+cert-error-issuer-no-longer-trusted = { -brand-short-name } ți-a blocat vizita pe acest site deoarece autoritatea de certificare care a emis certificatul furnizat pentru { $hostname } nu mai este de încredere.
+cert-error-signature-algorithm-mismatch = { -brand-short-name } ți-a blocat vizita pe acest site deoarece algoritmul de semnătură al certificatului furnizat pentru { $hostname } nu se potrivește cu câmpul lui de algoritm de semnătură.
 
 ## Messages used for certificate error titles
 
@@ -88,6 +138,9 @@ deniedPortAccess-title = Adresa este restricționată
 # "Hmm" is a sound made when considering or puzzling over something.
 # You don't have to include it in your translation if your language does not have a written word like this.
 dnsNotFound-title = Hmm. Întâmpinăm dificultăți în găsirea acestui site.
+internet-connection-offline-title = Se pare că ai o problemă cu conexiunea ta la internet.
+dns-not-found-trr-only-title2 = Posibil risc de securitate la căutarea acestui domeniu
+dns-not-found-native-fallback-title2 = Posibil risc de securitate la căutarea acestui domeniu
 fileNotFound-title = Fișier negăsit
 fileAccessDenied-title = Accesul la fișier a fost refuzat
 generic-title = Ups.
@@ -102,6 +155,8 @@ contentEncodingError-title = Eroare în codarea conținutului
 unsafeContentType-title = Tip de fișier nesigur
 netReset-title = Conexiunea a fost reinițializată
 netTimeout-title = Timpul de conectare a expirat
+httpErrorPage-title = Se pare că e o problemă cu acest site
+serverError-title = Se pare că e o problemă cu acest site
 unknownProtocolFound-title = Adresa nu a fost înțeleasă
 proxyConnectFailure-title = Serverul proxy refuză conexiuni
 proxyResolveFailure-title = Nu se poate găsi serverul proxy
@@ -118,3 +173,18 @@ networkProtocolError-title = Eroare legată de protocolul de rețea
 nssBadCert-title = Avertisment: Urmează un posibil risc de securitate
 nssBadCert-sts-title = Nu s-a realizat conectarea: Posibilă problemă de securitate
 certerror-mitm-title = Un program împiedică { -brand-short-name } să se conecteze în siguranță la acest site
+
+## Felt Privacy V1 Strings
+
+fp-certerror-page-title = Avertisment: Risc de securitate
+fp-certerror-body-title = Ai grijă. Ceva nu pare în regulă.
+fp-certerror-why-site-dangerous = Ce face ca site-ul să pară periculos?
+fp-certerror-what-can-you-do = Ce poți face?
+fp-certerror-advanced-title = Avansat
+fp-certerror-advanced-button = Avansat
+fp-certerror-hide-advanced-button = Ascundeți opțiunile avansate
+
+## Variables:
+##   $hostname (String) - Hostname of the website to which the user was trying to connect.
+
+fp-certerror-override-exception-button = Continuă către { $hostname } (Riscant)
