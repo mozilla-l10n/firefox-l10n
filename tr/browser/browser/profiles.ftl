@@ -189,5 +189,18 @@ history-avatar = Tarih
 leaf-avatar = Yaprak
 lightbulb-avatar = Ampul
 makeup-avatar = Makyaj
+# Message refers to a text message, not a traditional letter/envelope message
+message-avatar = Mesaj
+musical-note-avatar = Müzik notası
+palette-avatar = Palet
+paw-print-avatar = Pati izi
+plane-avatar = Uçak
+# Present refers to a gift box, not the current time period
+present-avatar = Armağan
 shopping-avatar = Alışveriş arabası
+soccer-avatar = Futbol
+sparkle-single-avatar = Parıltı
 star-avatar = Yıldız
+video-game-controller-avatar = Video oyun kumandası
+barbell-avatar = Halter
+bike-avatar = Bisiklet

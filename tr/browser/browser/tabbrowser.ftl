@@ -265,6 +265,8 @@ tab-group-editor-color-selector2-gray = Gri
 tab-group-editor-color-selector2-red = Kırmızı
     .title = Kırmızı
 tab-group-description = { $tabGroupName } — Sekme grubu
+tab-group-label-tooltip-collapsed = { $tabGroupName } — Daraltıldı
+tab-group-label-tooltip-expanded = { $tabGroupName } — Genişletildi
 tab-context-unnamed-group =
     .label = Adsız grup
 tab-group-name-default = Adsız Grup
@@ -314,6 +316,11 @@ tab-context-ungroup-tab =
            *[other] Gruplardan kaldır
         }
     .accesskey = G
+# When a tab group containing the active tab is collapsed, the active tab
+# remains visible. An indicator appears at the end of the group showing the
+# number of remaining tabs that are hidden by the collapsed group,
+# e.g. "+2" for a group with 3 total tabs.
+tab-group-overflow-count = +{ $tabCount }
 tab-group-overflow-count-tooltip =
     { $tabCount ->
         [one] { $tabCount } sekme daha

@@ -452,8 +452,12 @@ tab-groups-onboarding-feature-callout-subtitle = İlk grubunuzu oluşturmak içi
 tab-groups-onboarding-create-group-title-3 = Sekme gruplarınızı istediğiniz zaman “Tüm sekmeleri listele“ menüsünde bulabilirsiniz.
 tab-groups-onboarding-create-group-title-2 = Sekme gruplarınıza istediğiniz zaman buradan ulaşabilirsiniz.
 tab-groups-onboarding-create-group-no-alltabs-button-title = Gruplarınızı adres çubuğundan arayarak bulabilirsiniz.
+# The text "list all tabs" refers to the string tabs-toolbar-list-all-tabs
+tab-groups-onboarding-saved-groups-title-3 = Bir sekme grubunu kapattığınızda istediğiniz zaman “Tüm sekmeleri listele“ menüsünden yeniden açabilirsiniz.
 tab-groups-onboarding-saved-groups-title-2 = Bir sekme grubunu kapatırsanız istediğiniz zaman buradan yeniden açabilirsiniz.
 tab-groups-onboarding-saved-groups-no-alltabs-button-title-2 = Kapattığınız grupları adres çubuğundan arayarak bulabilirsiniz.
+# The text "list all tabs" refers to the string tabs-toolbar-list-all-tabs
+tab-groups-onboarding-session-restore-title-2 = İstediğiniz zaman “Tüm sekmeleri listele“ menüsünden sekme gruplarınızı yeniden açabilirsiniz.
 tab-groups-onboarding-session-restore-title = Sekme gruplarınızı istediğiniz zaman buradan yeniden açabilirsiniz.
 tab-groups-onboarding-dismiss = Tamam
 

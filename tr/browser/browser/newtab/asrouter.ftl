@@ -351,4 +351,5 @@ windows-10-eos-sync-spotlight-primary-label = { -brand-short-name } tarayıcın�
 ## Windows 10 EoS Sync messages group 1 toast notification
 
 windows-10-eos-sync-toast-title = Windows 11’e mi geçeceksiniz? Yer imlerinizi ve parolalarınızı kaybetmeyin.
+windows-10-eos-sync-toast-primary-label = Başlayın
 windows-10-eos-sync-toast-secondary-label = Daha sonra hatırlat
