@@ -115,9 +115,6 @@ fxa-adoption-passwords-primary-button-label = Registrera dig
 ## Windows 10 EoS Sync messages group 1 callouts
 
 windows-10-eos-sync-urgency-title-1 = Förlora inte allt du har sparat när du flyttar till Windows 11.
-windows-10-eos-sync-urgency-subtitle-1 = Synkronisera nu för att förvara dina bokmärken, lösenord och inställningar för { -brand-short-name } säkra och enkla att återställa.
-windows-10-eos-sync-urgency-title-2 = Säger adjö till Windows 10? Skydda din data när du byter.
-windows-10-eos-sync-urgency-subtitle-2 = Även om du inte använder { -brand-short-name } dagligen, synkronisera för att förvara bokmärken och lösenord säkra och tillgängliga.
 windows-10-eos-sync-new-device-title-1 = riskera inte att börja om på din nästa enhet.
 windows-10-eos-sync-new-device-subtitle-1 = Synkronisera för att ta med dig dina bokmärken, lösenord och önskade inställningar för { -brand-short-name } när du flyttar.
 windows-10-eos-sync-new-device-title-2 = Byta till en ny enhet? Förlora inte det som är viktigt.

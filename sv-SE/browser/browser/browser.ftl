@@ -1458,7 +1458,7 @@ trustpanel-cryptominer-blocking-tab-header =
     }
 trustpanel-cryptominer-not-blocking-tab-header =
     { $count ->
-        [one] { -brand-product-name } tilläter { $count } kryptogrävare
-       *[other] { -brand-product-name } tillåtna { $count } kryptogrävare
+        [one] { -brand-product-name } tillät { $count } kryptogrävare
+       *[other] { -brand-product-name } tillät { $count } kryptogrävare
     }
 trustpanel-cryptominer-tab-list-header = Dessa webbplatser försöker kryptominera:
