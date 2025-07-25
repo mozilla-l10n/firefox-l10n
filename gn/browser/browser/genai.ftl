@@ -94,6 +94,9 @@ genai-menu-no-provider =
     .label = Eporandu chatbot IA reheguápe
 genai-menu-choose-chatbot =
     .label = Eiporavo IA Chatbot
+genai-menu-ask-generic-2 =
+    .label = Eporandu IA Chatbot-pe
+    .accesskey = h
 
 ## Chatbot header
 

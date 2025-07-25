@@ -6,7 +6,9 @@ crashreporter-branded-title = Raportor de defecțiuni { -brand-short-name }
 crashreporter-apology = Ne pare rău
 crashreporter-crashed-and-restore = { -brand-short-name } a întâmpinat o problemă și s-a închis neașteptat. Vom încerca să restaurăm filele și ferestrele după repornire.
 crashreporter-plea = Pentru a ne ajuta să diagnosticăm și să reparăm problema, ne poți trimite un raport de defecțiuni.
-crashreporter-error-details-header = Detalii
+crashreporter-information = Aplicația este rulată după o închidere neașteptată pentru raportarea problemei către { -vendor-short-name }. Nu ar trebui rulată direct.
+crashreporter-error = { -brand-short-name } a întâmpinat o problemă și s-a închis neașteptat. Din păcate, raportorul de defecțiuni nu poate trimite un raport.
+crashreporter-error-details-header = Detalii:
 # $details (String) - the reason that a crash report cannot be submitted
 crashreporter-error-details = Detalii: { $details }
 crashreporter-no-run-message = Această aplicație este rulată după o încheiere neașteptată a programului pentru a raporta problema distribuitorului aplicației. Nu ar trebui executată direct.
