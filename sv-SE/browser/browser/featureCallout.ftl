@@ -115,18 +115,21 @@ fxa-adoption-passwords-primary-button-label = Registrera dig
 ## Windows 10 EoS Sync messages group 1 callouts
 
 windows-10-eos-sync-urgency-title-1 = Förlora inte allt du har sparat när du flyttar till Windows 11.
-windows-10-eos-sync-new-device-title-1 = riskera inte att börja om på din nästa enhet.
+windows-10-eos-sync-urgency-subtitle-1 = Synkronisera nu för att behålla dina bokmärken, lösenord och inställningar för { -brand-short-name } säkra och enkla att återställa.
+windows-10-eos-sync-urgency-title-2 = Säger adjö till Windows 10? Skydda din data när du byter.
+windows-10-eos-sync-urgency-subtitle-2 = Även om du inte använder { -brand-short-name } dagligen, synkronisera för att förvara bokmärken och lösenord säkra och tillgängliga.
+windows-10-eos-sync-new-device-title-1 = Riskera inte att börja om på din nästa enhet.
 windows-10-eos-sync-new-device-subtitle-1 = Synkronisera för att ta med dig dina bokmärken, lösenord och önskade inställningar för { -brand-short-name } när du flyttar.
 windows-10-eos-sync-new-device-title-2 = Byta till en ny enhet? Förlora inte det som är viktigt.
 windows-10-eos-sync-new-device-subtitle-2 = Oavsett hur ofta du använder { -brand-short-name }, skyddar synkronisering dina bokmärken, lösenord och inställningar.
 windows-10-eos-sync-new-device-primary-label = Synkronisera nu
-windows-10-eos-sync-general-title-1 = Skydda de { -brand-short-name } som du har gjort till din.
-windows-10-eos-sync-general-subtitle-1 = Säkerhetskopiera och synkronisera dina lösenord, bokmärken, inställningar och annan data för att bevara det du litar med.
+windows-10-eos-sync-general-title-1 = Skydda { -brand-short-name } som du har gjort till din egen.
+windows-10-eos-sync-general-subtitle-1 = Säkerhetskopiera och synkronisera dina lösenord, bokmärken, inställningar och annan data för att bevara det du litar på.
 windows-10-eos-sync-general-title-2 = Nu är ett bra tillfälle att säkerhetskopiera dina lösenord och bokmärken.
-windows-10-eos-sync-general-subtitle-2 = Synka nu för att skydda saker du litar på { -brand-short-name } med — och få tillbaka dem var som helst, när som helst.
+windows-10-eos-sync-general-subtitle-2 = Synkronisera nu för att skydda de saker du anförtror { -brand-short-name } – och få tillbaka dem var som helst, när som helst.
 windows-10-eos-sync-tour-title-1 = För många flikar? Städa med flikgrupper.
 windows-10-eos-sync-tour-subtitle-1 = Dra en flik ovanpå en annan för att skapa en grupp och hålla ordning på saker.
-windows-10-eos-sync-tour-title-2 = Få ordning för Windows 11.
+windows-10-eos-sync-tour-title-2 = Gör dig redo för Windows 11.
 windows-10-eos-sync-tour-subtitle-2 = Synkronisera dina bokmärken, lösenord och inställningar för att säkerhetskopiera dem innan du byter.
 
 ## Sidebar Strings

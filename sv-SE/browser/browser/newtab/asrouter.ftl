@@ -348,7 +348,7 @@ multi-cta-fox-doodle-msix-privacy-focused-subtitle = Håll din favoritwebbläsar
 
 windows-10-eos-sync-spotlight-title = Uppgraderar du från Windows 10 snart?
 windows-10-eos-sync-spotlight-subtitle = Säkerhetskopiera dina lösenord och bokmärken så att du är redo att ta steget till vilken enhet som helst.
-windows-10-eos-sync-spotlight-primary-label = Säkerhetskopiera dina { -brand-short-name }
+windows-10-eos-sync-spotlight-primary-label = Säkerhetskopiera { -brand-short-name }
 
 ## Windows 10 EoS Sync messages group 1 toast notification
 
