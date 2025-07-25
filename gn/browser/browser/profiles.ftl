@@ -119,12 +119,29 @@ briefcase-avatar-alt =
 # Canvas refers to an artist's painting canvas, not the general material
 canvas-avatar-alt =
     .alt = Canvas
+# Craft refers to hobby arts and crafts, represented by a button/fastener commonly found on clothing like shirts
+craft-avatar-alt =
+    .alt = Mba’e’apokuaa
 flower-avatar-alt =
     .alt = Yvoty
+folder-avatar-alt =
+    .alt = Ñongatuha
+hammer-avatar-alt =
+    .alt = Mbotaha
 heart-avatar-alt =
     .alt = Korasõ
+history-avatar-alt =
+    .alt = Tembiasakue
+# Message refers to a text message, not a traditional letter/envelope message
+message-avatar-alt =
+    .alt = Ñe’ẽmondo
+# Present refers to a gift box, not the current time period
+present-avatar-alt =
+    .alt = Oĩva
 shopping-avatar-alt =
     .alt = Mba’yruguata’i jejoguaha
+soccer-avatar-alt =
+    .alt = Mangapykuaa
 star-avatar-alt =
     .alt = Mbyja
 custom-avatar-alt =
@@ -134,6 +151,11 @@ custom-avatar-alt =
 
 book-avatar = Aranduka
 briefcase-avatar = Kuatiaryru
+# Canvas refers to an artist's painting canvas, not the general material
+canvas-avatar = Canvas
+# Craft refers to hobby arts and crafts, represented by a button/fastener commonly found on clothing like shirts
+craft-avatar = Mba’e’apokuaa
+custom-avatar = Avatar mboavapyre
 flower-avatar = Yvoty
 heart-avatar = Korasõ
 shopping-avatar = Mba’yruguata’i jejoguaha
