@@ -112,6 +112,10 @@ fxa-adoption-passwords-subtitle = 将密码加密同步到您的其他设备，�
 # Opens Mozilla accounts sign-up page
 fxa-adoption-passwords-primary-button-label = 注册
 
+## Windows 10 EoS Sync messages group 1 callouts
+
+windows-10-eos-sync-new-device-primary-label = 立即同步
+
 ## Sidebar Strings
 
 sidebar-button-callout-title = 在侧栏中显示标签页标题
