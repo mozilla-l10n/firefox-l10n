@@ -257,6 +257,8 @@ tab-group-editor-color-selector2-gray = Хокистарӣ
 tab-group-editor-color-selector2-red = Сурх
     .title = Сурх
 tab-group-description = { $tabGroupName } — Гурӯҳи варақаҳо
+tab-group-label-tooltip-collapsed = { $tabGroupName } — Печондашуда
+tab-group-label-tooltip-expanded = { $tabGroupName } — Баркушода
 tab-context-unnamed-group =
     .label = Гурӯҳи беном
 tab-group-name-default = Гурӯҳи беном
@@ -303,6 +305,16 @@ tab-context-ungroup-tab =
            *[other] Тоза кардан аз гурӯҳ
         }
     .accesskey = Т
+# When a tab group containing the active tab is collapsed, the active tab
+# remains visible. An indicator appears at the end of the group showing the
+# number of remaining tabs that are hidden by the collapsed group,
+# e.g. "+2" for a group with 3 total tabs.
+tab-group-overflow-count = +{ $tabCount }
+tab-group-overflow-count-tooltip =
+    { $tabCount ->
+        [one] { $tabCount } варақаи дигар
+       *[other] { $tabCount } варақаи дигар
+    }
 
 ## Open/saved tab group context menu
 

@@ -1356,3 +1356,12 @@ trustpanel-privacy-link = Танзимоти махфият
 #  $host (String): the hostname of the site that is being displayed.
 trustpanel-clear-cookies-header =
     .title = Пок кардани кукиҳо ва иттилооти сомона барои { $host }
+trustpanel-clear-cookies-description = Агар шумо барои сомонаи асосӣ кукиҳо ва маълумоти сомонаро тоза кунед, ин амал метавонад шуморо аз низомҳои сомонаҳои алоқаманд берун барорад ва сабадҳои харидории шуморо тоза намояд.
+trustpanel-clear-cookies-subview-button-clear = Пок кардан
+trustpanel-clear-cookies-subview-button-cancel = Бекор кардан
+trustpanel-siteinformation-morelink = Маълумоти бештар дар бораи сомона
+trustpanel-blocker-see-all = Ҳамаро дидан
+# Variables
+#  $host (String): the hostname of the site that is being displayed.
+trustpanel-blocker-header =
+    .title = Воситаҳои муҳофизат аз пайгирӣ барои { $host } фаъол аст

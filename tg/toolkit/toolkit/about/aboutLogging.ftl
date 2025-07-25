@@ -31,6 +31,7 @@ about-logging-no-log-modules = Ҳеҷ
 about-logging-no-log-file = Ҳеҷ
 about-logging-logging-preset-selector-text = Сабти рӯйдодҳои пешфарз:
 about-logging-with-profiler-stacks-checkbox = Фаъол кардани пайгирии даста барои паёмҳои сабти рӯйдодҳо
+about-logging-with-javascript-tracing-checkbox = Фаъол кардани пайгирии «JavaScript»
 about-logging-menu =
     .title = Имконоти иловагӣ
 

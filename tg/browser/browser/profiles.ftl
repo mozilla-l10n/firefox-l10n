@@ -119,24 +119,45 @@ briefcase-avatar-alt =
 # Canvas refers to an artist's painting canvas, not the general material
 canvas-avatar-alt =
     .alt = Саҳна
+# Craft refers to hobby arts and crafts, represented by a button/fastener commonly found on clothing like shirts
+craft-avatar-alt =
+    .alt = Чизи дӯстдошта
 flower-avatar-alt =
     .alt = Гул
+folder-avatar-alt =
+    .alt = Ҷузвдон
+hammer-avatar-alt =
+    .alt = Болға
 heart-avatar-alt =
     .alt = Дил
+heart-rate-avatar-alt =
+    .alt = Набзи дил
 history-avatar-alt =
     .alt = Таърих
+# Message refers to a text message, not a traditional letter/envelope message
+message-avatar-alt =
+    .alt = Паём
 shopping-avatar-alt =
     .alt = Сабади харидорӣ
 star-avatar-alt =
     .alt = Ситора
 custom-avatar-alt =
     .alt = Аватари фармоишӣ
+bike-avatar-alt =
+    .alt = Дучарха
 
 ## Labels for default avatar icons
 
 book-avatar = Китоб
 briefcase-avatar = Ҷузвгир
+# Canvas refers to an artist's painting canvas, not the general material
+canvas-avatar = Саҳна
 flower-avatar = Гул
+folder-avatar = Ҷузвдон
 heart-avatar = Дил
+history-avatar = Таърих
+# Message refers to a text message, not a traditional letter/envelope message
+message-avatar = Паём
 shopping-avatar = Сабади харидорӣ
 star-avatar = Ситора
+bike-avatar = Дучарха
