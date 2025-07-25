@@ -1155,6 +1155,10 @@ tabs-toolbar-list-all-tabs =
     .label = Рӯйхати ҳамаи варақаҳо
     .tooltiptext = Рӯйхати ҳамаи варақаҳо
 
+## Drop indicator text for pinned tabs when no tabs are pinned.
+
+pinned-tabs-drop-indicator = Барои васл кардани варақа, онро дар ин ҷой гузоред
+
 ## Infobar shown at startup to suggest session-restore
 
 # <img data-l10n-name="icon"/> will be replaced by the application menu icon
@@ -1325,3 +1329,20 @@ onboarding-checklist-button-label = Ба анҷом расонидани тан�
 onboarding-aw-finish-setup-button =
     .label = Ба анҷом расонидани танзимот
     .tooltiptext = Ба анҷом расонидани танзимоти «{ -brand-short-name }»
+
+## The urlbar trust panel
+
+trustpanel-etp-label-enabled = Муҳофизати такмилёфта аз пайгирӣ фаъол аст
+trustpanel-etp-label-disabled = Муҳофизати такмилёфта аз пайгирӣ ғайрифаъол аст
+# Variables
+#  $host (String): the hostname of the site that is being displayed.
+trustpanel-etp-toggle-on =
+    .aria-label = Муҳофизати такмилёфта аз пайгирӣ: Фаъол барои { $host }
+# Variables
+#  $host (String): the hostname of the site that is being displayed.
+trustpanel-etp-toggle-off =
+    .aria-label = Муҳофизати такмилёфта аз пайгирӣ: Ғайрифаъол барои { $host }
+trustpanel-etp-description-enabled = Агар ягон чиз дар ин сомона вайрон бошад, кӯшиш кунед, ки воситаи муҳофизатро хомӯш намоед.
+trustpanel-etp-description-disabled = «{ -brand-product-name }» фикр мекунад, ки ширкатҳо бояд шуморо камтар пайгирӣ кунанд. Вақте ки шумо воситаҳои муҳофизи маълумоти шахсиро фаъол мекунед, мо ҳарчи бештар ҳар гуна васоити пайгириро манъ мекунем.
+trustpanel-connection-label-secure = Пайвастшавӣ бехатар аст
+trustpanel-connection-label-insecure = Пайвастшавӣ бехатар нест
