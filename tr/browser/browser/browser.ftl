@@ -1350,6 +1350,7 @@ trustpanel-etp-description-enabled = Site bozuk görünüyorsa korumaları kapat
 trustpanel-etp-description-disabled = { -brand-product-name } şirketlerin sizi daha az takip etmesi gerektiğini düşünüyor. Korumaları açtığınızda mümkün olduğunca çok sayıda takip kodunu engelliyoruz.
 trustpanel-connection-label-secure = Bağlantı güvenli
 trustpanel-connection-label-insecure = Bağlantı güvenli değil
+trustpanel-header-enabled = { -brand-product-name } sizi koruyor
 trustpanel-description-enabled = Koruma altındasınız. Bir şey tespit edersek size haber vereceğiz.
 trustpanel-header-disabled = Korumaları kapattınız
 trustpanel-clear-cookies-button = Çerezleri ve site verilerini temizle
@@ -1385,11 +1386,19 @@ trustpanel-blocker-section-header =
 trustpanel-blocker-description = { -brand-product-name } şirketlerin sizi daha az takip etmesi gerektiğini düşünüyor. O yüzden mümkün olduğunca çok takip kodunu engelliyoruz.
 trustpanel-blocked-header = { -brand-product-name } sizin için aşağıdakileri engelledi:
 trustpanel-tracking-header = Sitelerin bozulmasını önlemek için { -brand-product-name } aşağıdakilere izin verdi:
+trustpanel-tracking-description = Takip kodları olmadan bazı düğmeler, formlar ve giriş alanları çalışmayabilir.
 trustpanel-insecure-section-header = Bağlantınız güvenli değil
+trustpanel-insecure-description = Bu siteye gönderdiğiniz veriler şifrelenmemiştir. Bu veriler görüntülenebilir, çalınabilir veya üzerinde değişiklik yapılabilir.
 trustpanel-list-label-tracking-cookies =
     { $count ->
         [one] { $count } siteler arası takip çerezi
        *[other] { $count } siteler arası takip çerezi
+    }
+trustpanel-list-label-tracking-content = Takip amaçlı içerikler
+trustpanel-list-label-fingerprinter =
+    { $count ->
+        [one] { $count } parmak izi toplayıcı
+       *[other] { $count } parmak izi toplayıcı
     }
 trustpanel-list-label-social-tracking =
     { $count ->
@@ -1434,6 +1443,16 @@ trustpanel-tracking-content-not-blocking-tab-header =
        *[other] { -brand-product-name } { $count } takip koduna izin verdi
     }
 trustpanel-tracking-content-tab-list-header = Bu siteler sizi izlemeye çalışıyor:
+trustpanel-fingerprinter-blocking-tab-header =
+    { $count ->
+        [one] { -brand-product-name } { $count } parmak izi toplayıcıyı engelledi
+       *[other] { -brand-product-name } { $count } parmak izi toplayıcıyı engelledi
+    }
+trustpanel-fingerprinter-not-blocking-tab-header =
+    { $count ->
+        [one] { -brand-product-name } { $count } parmak izi toplayıcıya izin verdi
+       *[other] { -brand-product-name } { $count } parmak izi toplayıcıya izin verdi
+    }
 trustpanel-fingerprinter-list-header = Bu siteler parmak izinizi almaya çalışıyor:
 trustpanel-cryptominer-blocking-tab-header =
     { $count ->
