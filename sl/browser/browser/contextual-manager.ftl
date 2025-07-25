@@ -276,6 +276,16 @@ contextual-manager-view-alert-button =
     .tooltiptext = Preglej opozorilo
 # Variables
 #   $count (number) - The number of active alerts associated with the login
+contextual-manager-view-alert-heading-2 =
+    .heading =
+        { $count ->
+            [one] Prikaži opozorilo
+            [two] Prikaži opozorili
+            [few] Prikaži opozorila
+           *[other] Prikaži opozorila
+        }
+# Variables
+#   $count (number) - The number of active alerts associated with the login
 contextual-manager-view-alert-button-2 =
     .tooltiptext =
         { $count ->
