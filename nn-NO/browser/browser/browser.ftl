@@ -1417,3 +1417,4 @@ trustpanel-social-tracking-not-blocking-tab-header =
         [one] { -brand-product-name } tillét { $count } sporar via sosiale medium
        *[other] { -brand-product-name } tillét { $count } sporarar via sosiale medium
     }
+trustpanel-social-tracking-tab-list-header = Desse nettstadane prøver å spore deg:
