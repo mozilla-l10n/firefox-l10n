@@ -1476,3 +1476,16 @@ trustpanel-fingerprinter-not-blocking-tab-header =
        *[other] { -brand-product-name } a permis { $count } de detectoare de amprente digitale
     }
 trustpanel-fingerprinter-list-header = Aceste site-uri încearcă să îți detecteze amprentele digitale:
+trustpanel-cryptominer-blocking-tab-header =
+    { $count ->
+        [one] { -brand-product-name } a blocat { $count } criptominer
+        [few] { -brand-product-name } a blocat { $count } criptomineri
+       *[other] { -brand-product-name } a blocat { $count } de criptomineri
+    }
+trustpanel-cryptominer-not-blocking-tab-header =
+    { $count ->
+        [one] { -brand-product-name } a permis { $count } criptominer
+        [few] { -brand-product-name } a permis { $count } criptomineri
+       *[other] { -brand-product-name } a permis { $count } de criptomineri
+    }
+trustpanel-cryptominer-tab-list-header = Aceste site-uri încearcă să criptomineze:

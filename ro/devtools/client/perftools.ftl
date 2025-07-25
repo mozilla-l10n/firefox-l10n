@@ -21,6 +21,7 @@ perftools-heading-features-disabled = Funcționalități dezactivate
 perftools-heading-features-experimental = Experimentale
 perftools-heading-threads = Fire de execuție
 perftools-heading-threads-jvm = Fire de execuție JVM
+perftools-heading-local-build = Versiune locală
 
 ##
 
@@ -77,6 +78,8 @@ perftools-menu-more-actions-copy-for-perf-tests = Copiază parametrii pentru tes
 
 perftools-thread-gecko-main =
     .title = Procesele principale, atât pentru procesul-părinte, cât și pentru procesele de conținut
+perftools-thread-compositor =
+    .title = Combină diferite elemente pictate pe pagină
 perftools-thread-dom-worker =
     .title = Gestionează atât web workerii, cât și service workerii
 perftools-thread-renderer =
@@ -87,6 +90,8 @@ perftools-thread-timer =
     .title = Firul care gestionează temporizatoarele (setTimeout, setInterval, nsITimer)
 perftools-thread-style-thread =
     .title = Calculul stilului este împărțit în mai multe fire
+pref-thread-stream-trans =
+    .title = Transport în flux de rețea
 perftools-thread-socket-thread =
     .title = Firul de execuție în care codul de rețea execută orice apeluri socket blocante
 perftools-thread-img-decoder =

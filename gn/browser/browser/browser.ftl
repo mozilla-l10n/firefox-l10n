@@ -207,6 +207,9 @@ urlbar-result-menu-show-less-frequently =
     .label = Ehechauka sa’ive eikóvo
 urlbar-result-menu-dont-show-weather-suggestions =
     .label = Ani ehechauka je’epy arapytu rehegua
+# Used for Split Button.
+urlbar-splitbutton-dropmarker =
+    .title = Eike poravorãme
 # A message shown in the urlbar when the user submits feedback on a suggestion
 # (e.g., it shows an inaccurate location, it's shown too often, etc.).
 urlbar-feedback-acknowledgment = Aguyje nde jehaipyrére
@@ -826,6 +829,8 @@ urlbar-searchmode-default =
 urlbar-searchmode-popup-description = Ko’ág̃a eheka hendive:
 urlbar-searchmode-popup-search-settings-menuitem =
     .label = Jehekaha ñemboheko
+# Label shown next to a new search engine in the Searchmode Switcher popup to promote it.
+urlbar-searchmode-new = Pyahu
 # Searchmode Switcher button
 # Variables:
 #   $engine (String): the current default search engine.

@@ -188,3 +188,5 @@ fp-certerror-hide-advanced-button = Ascundeți opțiunile avansate
 ##   $hostname (String) - Hostname of the website to which the user was trying to connect.
 
 fp-certerror-override-exception-button = Continuă către { $hostname } (Riscant)
+fp-certerror-intro = { -brand-short-name } a observat o problemă de securitate potențial gravă cu <strong>{ $hostname }</strong>. Cineva care se preface a fi site-ul ar putea încerca să fure informații precum datele cardului de credit, parole sau adrese de e-mail.
+fp-certerror-expired-into = { -brand-short-name } a observat o problemă de securitate cu <strong>{ $hostname }</strong>. Fie site-ul nu este configurat corect, fie ceasul dispozitivului este setat greșit.
