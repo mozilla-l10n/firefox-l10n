@@ -103,11 +103,15 @@ perftools-thread-jvm-pool =
 ##
 
 perftools-record-all-registered-threads = Evită selecțiile de mai sus și înregistrează toate firele înregistrate
+perftools-tools-threads-input-label =
+    .title = Aceste nume de fire de execuție sunt o listă separată prin virgulă, utilizată pentru a permite profilarea firelor de execuție în profiler. Numele trebuie să corespundă doar parțial cu numele firului de execuție pentru a fi inclus. Este sensibil la spații.
 
 ## Onboarding UI labels. These labels are displayed in the new performance panel UI, when
 ## devtools.performance.new-panel-onboarding preference is true.
 
 perftools-onboarding-message = <b>Nou</b>: { -profiler-brand-name } este acum integrat în instrumentele pentru dezvoltatori. <a>Află mai multe</a> despre această nouă unealtă puternică.
+perftools-onboarding-close-button =
+    .aria-label = Închide mesajul introductiv
 
 ## Profiler presets
 
@@ -130,10 +134,12 @@ perftools-presets-graphics-description = Presetare pentru investigarea erorilor 
 perftools-presets-media-label = Multimedia
 perftools-presets-media-description2 = Presetare pentru investigarea erorilor audio și video în { -brand-shorter-name }.
 perftools-presets-ml-label = Învățare automată
+perftools-presets-ml-description2 = Presetare pentru investigarea erorilor de învățare automată în { -brand-shorter-name }.
 perftools-presets-networking-label = Rețea
 perftools-presets-networking-description = Presetare pentru investigarea erorilor de rețea în { -brand-shorter-name }.
 # "Power" is used in the sense of energy (electricity used by the computer).
 perftools-presets-power-label = Putere
 perftools-presets-power-description = Presetare pentru investigarea erorilor legate de consumul de energie în { -brand-shorter-name }, cu o suprasarcină redusă.
 perftools-presets-debug-label = Depanează
+perftools-presets-debug-description = Presetare pentru depanare în { -brand-shorter-name }. Suprasarcină ridicată, a nu se folosi pentru lucru de performanță, ci pentru analiza comportamentului browserului.
 perftools-presets-custom-label = Personalizat

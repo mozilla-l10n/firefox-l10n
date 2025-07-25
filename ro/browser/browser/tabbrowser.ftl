@@ -274,6 +274,8 @@ tab-group-editor-color-selector2-gray = Gri
 tab-group-editor-color-selector2-red = Roșu
     .title = Roșu
 tab-group-description = { $tabGroupName } — Grup de file
+tab-group-label-tooltip-collapsed = { $tabGroupName } — Restrâns
+tab-group-label-tooltip-expanded = { $tabGroupName } — Extins
 tab-context-unnamed-group =
     .label = Grup fără nume
 tab-group-name-default = Grup fără nume
@@ -320,6 +322,17 @@ tab-context-ungroup-tab =
            *[other] Elimină din grupuri
         }
     .accesskey = R
+# When a tab group containing the active tab is collapsed, the active tab
+# remains visible. An indicator appears at the end of the group showing the
+# number of remaining tabs that are hidden by the collapsed group,
+# e.g. "+2" for a group with 3 total tabs.
+tab-group-overflow-count = +{ $tabCount }
+tab-group-overflow-count-tooltip =
+    { $tabCount ->
+        [one] încă { $tabCount } filă
+        [few] încă { $tabCount } file
+       *[other] încă { $tabCount } de file
+    }
 
 ## Open/saved tab group context menu
 

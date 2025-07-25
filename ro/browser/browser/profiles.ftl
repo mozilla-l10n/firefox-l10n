@@ -164,12 +164,48 @@ custom-avatar-alt =
 # Default favicon refers to the generic globe/world icon that appears in browser tabs when a website doesn't have its own favicon.
 default-favicon-avatar-alt =
     .alt = Pictogramă favorită implicită
+# Diamond refers to the precious stone, not the geometric shape
+diamond-avatar-alt =
+    .alt = Diamant
+barbell-avatar-alt =
+    .alt = Gantere
+bike-avatar-alt =
+    .alt = Bicicletă
 
 ## Labels for default avatar icons
 
 book-avatar = Carte
 briefcase-avatar = Valiză
+# Canvas refers to an artist's painting canvas, not the general material
+canvas-avatar = Pânză
+# Craft refers to hobby arts and crafts, represented by a button/fastener commonly found on clothing like shirts
+craft-avatar = Meșteșug
+custom-avatar = Avatar personalizat
+# Default favicon refers to the generic globe/world icon that appears in browser tabs when a website doesn't have its own favicon.
+default-favicon-avatar = Pictogramă favorită implicită
+# Diamond refers to the precious stone, not the geometric shape
+diamond-avatar = Diamant
 flower-avatar = Floare
+folder-avatar = Dosar
+hammer-avatar = Ciocan
 heart-avatar = Inimă
+heart-rate-avatar = Frecvență cardiacă
+history-avatar = Istorie
+leaf-avatar = Frunză
+lightbulb-avatar = Bec
+makeup-avatar = Machiaj
+# Message refers to a text message, not a traditional letter/envelope message
+message-avatar = Mesaj
+musical-note-avatar = Notă muzicală
+palette-avatar = Paletă
+paw-print-avatar = Amprentă de labă
+plane-avatar = Avion
+# Present refers to a gift box, not the current time period
+present-avatar = Cadou
 shopping-avatar = Coș de cumpărături
+soccer-avatar = Fotbal
+sparkle-single-avatar = Scânteie
 star-avatar = Stea
+video-game-controller-avatar = Controler de jocuri video
+barbell-avatar = Halteră
+bike-avatar = Bicicletă
