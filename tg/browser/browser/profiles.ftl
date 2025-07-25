@@ -134,15 +134,46 @@ heart-rate-avatar-alt =
     .alt = Набзи дил
 history-avatar-alt =
     .alt = Таърих
+leaf-avatar-alt =
+    .alt = Барг
+lightbulb-avatar-alt =
+    .alt = Чароғ
+makeup-avatar-alt =
+    .alt = Ороиш
 # Message refers to a text message, not a traditional letter/envelope message
 message-avatar-alt =
     .alt = Паём
+musical-note-avatar-alt =
+    .alt = Нотаи мусиқӣ
+palette-avatar-alt =
+    .alt = Рангубор
+paw-print-avatar-alt =
+    .alt = Панҷа
+plane-avatar-alt =
+    .alt = Ҳавопаймо
+# Present refers to a gift box, not the current time period
+present-avatar-alt =
+    .alt = Туҳфа
 shopping-avatar-alt =
     .alt = Сабади харидорӣ
+soccer-avatar-alt =
+    .alt = Футбол
+sparkle-single-avatar-alt =
+    .alt = Шарора
 star-avatar-alt =
     .alt = Ситора
+video-game-controller-avatar-alt =
+    .alt = Танзимгари бозии видеоӣ
 custom-avatar-alt =
     .alt = Аватари фармоишӣ
+# Default favicon refers to the generic globe/world icon that appears in browser tabs when a website doesn't have its own favicon.
+default-favicon-avatar-alt =
+    .alt = Нишони пешфарзи сомона
+# Diamond refers to the precious stone, not the geometric shape
+diamond-avatar-alt =
+    .alt = Алмос
+barbell-avatar-alt =
+    .alt = Вазна
 bike-avatar-alt =
     .alt = Дучарха
 
@@ -152,12 +183,25 @@ book-avatar = Китоб
 briefcase-avatar = Ҷузвгир
 # Canvas refers to an artist's painting canvas, not the general material
 canvas-avatar = Саҳна
+# Craft refers to hobby arts and crafts, represented by a button/fastener commonly found on clothing like shirts
+craft-avatar = Чизи дӯстдошта
+custom-avatar = Аватари фармоишӣ
+# Default favicon refers to the generic globe/world icon that appears in browser tabs when a website doesn't have its own favicon.
+default-favicon-avatar = Нишони пешфарзи сомона
+# Diamond refers to the precious stone, not the geometric shape
+diamond-avatar = Алмос
 flower-avatar = Гул
 folder-avatar = Ҷузвдон
+hammer-avatar = Болға
 heart-avatar = Дил
+heart-rate-avatar = Набзи дил
 history-avatar = Таърих
+leaf-avatar = Барг
+lightbulb-avatar = Чароғ
+makeup-avatar = Ороиш
 # Message refers to a text message, not a traditional letter/envelope message
 message-avatar = Паём
+musical-note-avatar = Нотаи мусиқӣ
 shopping-avatar = Сабади харидорӣ
 star-avatar = Ситора
 bike-avatar = Дучарха
