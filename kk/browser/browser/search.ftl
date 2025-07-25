@@ -67,6 +67,11 @@ add-engine-url-placeholder =
 add-engine-keyword-placeholder =
     .placeholder = мыс., @mdn
 
+## The following strings are used as error messages.
+
+add-engine-no-name = Атын енгізіңіз.
+add-engine-no-url = URL енгізіңіз.
+
 ## The following strings are used as labels for the dialog's buttons.
 
 # buttonlabelextra1 is the label of a button to open the advanced section

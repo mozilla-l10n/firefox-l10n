@@ -207,6 +207,9 @@ urlbar-result-menu-show-less-frequently =
     .label = Сиректеу көрсету
 urlbar-result-menu-dont-show-weather-suggestions =
     .label = Ауа райы ұсыныстарын көрсетпеу
+# Used for Split Button.
+urlbar-splitbutton-dropmarker =
+    .title = Мәзірді ашу
 # A message shown in the urlbar when the user submits feedback on a suggestion
 # (e.g., it shows an inaccurate location, it's shown too often, etc.).
 urlbar-feedback-acknowledgment = Пікіріңізге рахмет
@@ -823,6 +826,8 @@ urlbar-searchmode-default =
 urlbar-searchmode-popup-description = Осы рет, келесімен іздеу:
 urlbar-searchmode-popup-search-settings-menuitem =
     .label = Іздеу баптаулары
+# Label shown next to a new search engine in the Searchmode Switcher popup to promote it.
+urlbar-searchmode-new = Жаңа
 # Searchmode Switcher button
 # Variables:
 #   $engine (String): the current default search engine.
@@ -1150,6 +1155,10 @@ tabs-toolbar-list-all-tabs =
     .label = Барлық беттерді тізіп шығу
     .tooltiptext = Барлық беттерді тізіп шығу
 
+## Drop indicator text for pinned tabs when no tabs are pinned.
+
+pinned-tabs-drop-indicator = Бекіту үшін бетті осы жерге тастаңыз
+
 ## Infobar shown at startup to suggest session-restore
 
 # <img data-l10n-name="icon"/> will be replaced by the application menu icon
@@ -1320,3 +1329,18 @@ onboarding-checklist-button-label = Орнатуды аяқтау
 onboarding-aw-finish-setup-button =
     .label = Орнатуды аяқтау
     .tooltiptext = { -brand-short-name } орнатуын аяқтау
+
+## The urlbar trust panel
+
+trustpanel-etp-label-enabled = Бақылаудан кеңейтілген қорғаныс іске қосулы
+trustpanel-etp-label-disabled = Бақылаудан кеңейтілген қорғаныс сөндірулі
+trustpanel-connection-label-secure = Байланыс қауіпсіз
+trustpanel-connection-label-insecure = Байланыс қауіпсіз емес
+trustpanel-clear-cookies-subview-button-clear = Тазарту
+trustpanel-clear-cookies-subview-button-cancel = Бас тарту
+trustpanel-siteinformation-morelink = Сайт туралы қосымша ақпарат
+trustpanel-blocker-see-all = Барлығын қарау
+# Variables
+#  $host (String): the hostname of the site that is being displayed.
+trustpanel-blocker-header =
+    .title = { $host } үшін бақылаудан қорғаныстар
