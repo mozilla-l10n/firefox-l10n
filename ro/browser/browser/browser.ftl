@@ -1383,3 +1383,95 @@ trustpanel-blocker-see-all = Afișează tot
 #  $host (String): the hostname of the site that is being displayed.
 trustpanel-blocker-header =
     .title = Protecții împotriva urmăririi pentru { $host }
+
+## Variables
+##  $count (String): the number of trackers blocked.
+
+trustpanel-blocker-section-header =
+    { $count ->
+        [one] <span>{ $count }</span> element de urmărire blocat pe acest site
+        [few] <span>{ $count }</span> elemente de urmărire blocate pe acest site
+       *[other] <span>{ $count }</span> de elemente de urmărire blocate pe acest site
+    }
+trustpanel-blocker-description = { -brand-product-name } consideră că firmele ar trebui să te urmărească mai puțin. Așa că blocăm cât mai mult posibil.
+trustpanel-blocked-header = { -brand-product-name } a blocat aceste elemente pentru tine:
+trustpanel-tracking-header = { -brand-product-name } a permis aceste elemente ca să nu se defecteze site-urile:
+trustpanel-tracking-description = Fără elemente de urmărire, este posibil ca unele butoane, formulare și câmpuri de autentificare să nu funcționeze.
+trustpanel-insecure-section-header = Conexiunea nu este securizată
+trustpanel-insecure-description = Datele pe care le transmiți acestui site nu sunt criptate. Ar putea fi văzute, furate sau alterate.
+trustpanel-list-label-tracking-cookies =
+    { $count ->
+        [one] { $count } cookie de urmărire intersite-uri
+        [few] { $count } cookie-uri de urmărire intersite-uri
+       *[other] { $count } de cookie-uri de urmărire intersite-uri
+    }
+trustpanel-list-label-tracking-content = Conținut de urmărire
+trustpanel-list-label-fingerprinter =
+    { $count ->
+        [one] { $count } detector de amprente digitale
+        [few] { $count } detectoare de amprente digitale
+       *[other] { $count } de detectoare de amprente digitale
+    }
+trustpanel-list-label-social-tracking =
+    { $count ->
+        [one] { $count } element de urmărire de rețele sociale
+        [few] { $count } elemente de urmărire de rețele sociale
+       *[other] { $count } de elemente de urmărire de rețele sociale
+    }
+trustpanel-list-label-cryptominer =
+    { $count ->
+        [one] { $count } criptominer
+        [few] { $count } criptomineri
+       *[other] { $count } de criptomineri
+    }
+trustpanel-social-tracking-blocking-tab-header =
+    { $count ->
+        [one] { -brand-product-name } a blocat { $count } element de urmărire de rețele sociale
+        [few] { -brand-product-name } a blocat { $count } elemente de urmărire de rețele sociale
+       *[other] { -brand-product-name } a blocat { $count } de elemente de urmărire de rețele sociale
+    }
+trustpanel-social-tracking-not-blocking-tab-header =
+    { $count ->
+        [one] { -brand-product-name } a permis { $count } element de urmărire de rețele sociale
+        [few] { -brand-product-name } a permis { $count } elemente de urmărire de rețele sociale
+       *[other] { -brand-product-name } a permis { $count } de elemente de urmărire de rețele sociale
+    }
+trustpanel-social-tracking-tab-list-header = Aceste site-uri încearcă să te urmărească:
+trustpanel-tracking-cookies-blocking-tab-header =
+    { $count ->
+        [one] { -brand-product-name } a blocat { $count } cookie de urmărire intersite-uri
+        [few] { -brand-product-name } a blocat { $count } cookie-uri de urmărire intersite-uri
+       *[other] { -brand-product-name } a blocat { $count } de cookie-uri de urmărire intersite-uri
+    }
+trustpanel-tracking-cookies-not-blocking-tab-header =
+    { $count ->
+        [one] { -brand-product-name } a permis { $count } cookie de urmărire intersite-uri
+        [few] { -brand-product-name } a permis { $count } cookie-uri de urmărire intersite-uri
+       *[other] { -brand-product-name } a permis { $count } de cookie-uri de urmărire intersite-uri
+    }
+trustpanel-tracking-cookies-tab-list-header = Aceste site-uri încearcă să te urmărească:
+trustpanel-tracking-content-blocking-tab-header =
+    { $count ->
+        [one] { -brand-product-name } a blocat { $count } element de urmărire
+        [few] { -brand-product-name } a blocat { $count } elemente de urmărire
+       *[other] { -brand-product-name } a blocat { $count } de elemente de urmărire
+    }
+trustpanel-tracking-content-not-blocking-tab-header =
+    { $count ->
+        [one] { -brand-product-name } a permis { $count } element de urmărire
+        [few] { -brand-product-name } a permis { $count } elemente de urmărire
+       *[other] { -brand-product-name } a permis { $count } de elemente de urmărire
+    }
+trustpanel-tracking-content-tab-list-header = Aceste site-uri încearcă să te urmărească:
+trustpanel-fingerprinter-blocking-tab-header =
+    { $count ->
+        [one] { -brand-product-name } a blocat { $count } detector de amprente digitale
+        [few] { -brand-product-name } a blocat { $count } detectoare de amprente digitale
+       *[other] { -brand-product-name } a blocat { $count } de detectoare de amprente digitale
+    }
+trustpanel-fingerprinter-not-blocking-tab-header =
+    { $count ->
+        [one] { -brand-product-name } a permis { $count } detector de amprente digitale
+        [few] { -brand-product-name } a permis { $count } detectoare de amprente digitale
+       *[other] { -brand-product-name } a permis { $count } de detectoare de amprente digitale
+    }

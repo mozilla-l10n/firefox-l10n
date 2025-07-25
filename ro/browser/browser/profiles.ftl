@@ -114,16 +114,56 @@ book-avatar-alt =
     .alt = Carte
 briefcase-avatar-alt =
     .alt = Valiză
+# Craft refers to hobby arts and crafts, represented by a button/fastener commonly found on clothing like shirts
+craft-avatar-alt =
+    .alt = Meșteșug
 flower-avatar-alt =
     .alt = Floare
+folder-avatar-alt =
+    .alt = Dosar
+hammer-avatar-alt =
+    .alt = Ciocan
 heart-avatar-alt =
     .alt = Inimă
+heart-rate-avatar-alt =
+    .alt = Frecvență cardiacă
+history-avatar-alt =
+    .alt = Istorie
+leaf-avatar-alt =
+    .alt = Frunză
+lightbulb-avatar-alt =
+    .alt = Bec
+makeup-avatar-alt =
+    .alt = Machiaj
+# Message refers to a text message, not a traditional letter/envelope message
+message-avatar-alt =
+    .alt = Mesaj
+musical-note-avatar-alt =
+    .alt = Notă muzicală
+palette-avatar-alt =
+    .alt = Paletă
+paw-print-avatar-alt =
+    .alt = Amprentă de labă
+plane-avatar-alt =
+    .alt = Avion
+# Present refers to a gift box, not the current time period
+present-avatar-alt =
+    .alt = Cadou
 shopping-avatar-alt =
     .alt = Coș de cumpărături
+soccer-avatar-alt =
+    .alt = Fotbal
+sparkle-single-avatar-alt =
+    .alt = Scânteie
 star-avatar-alt =
     .alt = Stea
+video-game-controller-avatar-alt =
+    .alt = Controler de jocuri video
 custom-avatar-alt =
     .alt = Avatar personalizat
+# Default favicon refers to the generic globe/world icon that appears in browser tabs when a website doesn't have its own favicon.
+default-favicon-avatar-alt =
+    .alt = Pictogramă favorită implicită
 
 ## Labels for default avatar icons
 
