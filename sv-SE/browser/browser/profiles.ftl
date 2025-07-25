@@ -131,9 +131,9 @@ hammer-avatar-alt =
 heart-avatar-alt =
     .alt = Hjärta
 heart-rate-avatar-alt =
-    .alt = Puls
+    .alt = Hjärtfrekvens
 history-avatar-alt =
-    .alt = Historik
+    .alt = Historia
 leaf-avatar-alt =
     .alt = Löv
 lightbulb-avatar-alt =
@@ -149,15 +149,17 @@ palette-avatar-alt =
     .alt = Palett
 paw-print-avatar-alt =
     .alt = Tassavtryck
+plane-avatar-alt =
+    .alt = Flygplan
 # Present refers to a gift box, not the current time period
 present-avatar-alt =
-    .alt = Presentera
+    .alt = Present
 shopping-avatar-alt =
     .alt = Varukorg
 soccer-avatar-alt =
     .alt = Fotboll
 sparkle-single-avatar-alt =
-    .alt = Sparkle
+    .alt = Gnistra
 star-avatar-alt =
     .alt = Stjärna
 video-game-controller-avatar-alt =
@@ -166,7 +168,7 @@ custom-avatar-alt =
     .alt = Anpassad avatar
 # Default favicon refers to the generic globe/world icon that appears in browser tabs when a website doesn't have its own favicon.
 default-favicon-avatar-alt =
-    .alt = Standard favicon
+    .alt = Standardfavoritikon
 # Diamond refers to the precious stone, not the geometric shape
 diamond-avatar-alt =
     .alt = Diamant
@@ -180,34 +182,34 @@ bike-avatar-alt =
 book-avatar = Bok
 briefcase-avatar = Portfölj
 # Canvas refers to an artist's painting canvas, not the general material
-canvas-avatar = Rityta
+canvas-avatar = Canvas
 # Craft refers to hobby arts and crafts, represented by a button/fastener commonly found on clothing like shirts
 craft-avatar = Hantverk
 custom-avatar = Anpassad avatar
 # Default favicon refers to the generic globe/world icon that appears in browser tabs when a website doesn't have its own favicon.
-default-favicon-avatar = Standard favicon
+default-favicon-avatar = Standardfavoritikon
 # Diamond refers to the precious stone, not the geometric shape
 diamond-avatar = Diamant
 flower-avatar = Blomma
 folder-avatar = Mapp
 hammer-avatar = Hammare
 heart-avatar = Hjärta
-heart-rate-avatar = Puls
-history-avatar = Historik
+heart-rate-avatar = Hjärtfrekvens
+history-avatar = Historia
 leaf-avatar = Löv
 lightbulb-avatar = Glödlampa
 makeup-avatar = Smink
 # Message refers to a text message, not a traditional letter/envelope message
 message-avatar = Meddelande
-musical-note-avatar = Musik
+musical-note-avatar = Musiknot
 palette-avatar = Palett
 paw-print-avatar = Tassavtryck
-plane-avatar = Plan
+plane-avatar = Flygplan
 # Present refers to a gift box, not the current time period
-present-avatar = Presentera
+present-avatar = Present
 shopping-avatar = Varukorg
 soccer-avatar = Fotboll
-sparkle-single-avatar = Sparkle
+sparkle-single-avatar = Gnistra
 star-avatar = Stjärna
 video-game-controller-avatar = Handkontroll för TV-spel
 barbell-avatar = Skivstång
