@@ -513,6 +513,13 @@ pdfjs-editor-alt-text-settings-show-dialog-button-label = Суретті қос�
 pdfjs-editor-alt-text-settings-show-dialog-description = Барлық суреттерде балама мәтін бар екеніне көз жеткізуге көмектеседі.
 pdfjs-editor-alt-text-settings-close-button = Жабу
 
+## Accessibility labels (announced by screen readers) for objects added to the editor.
+
+pdfjs-editor-freetext-added-alert = Мәтін қосылды
+pdfjs-editor-ink-added-alert = Сызба қосылды
+pdfjs-editor-stamp-added-alert = Сурет қосылды
+pdfjs-editor-signature-added-alert = Қолтаңба қосылды
+
 ## "Annotations removed" bar
 
 pdfjs-editor-undo-bar-message-highlight = Ерекшелеу өшірілді
