@@ -112,6 +112,15 @@ fxa-adoption-passwords-subtitle = Parolalarınızı şifreleyip diğer cihazlar�
 # Opens Mozilla accounts sign-up page
 fxa-adoption-passwords-primary-button-label = Kaydol
 
+## Windows 10 EoS Sync messages group 1 callouts
+
+windows-10-eos-sync-urgency-title-1 = Windows 11’e geçerken daha önce kaydettiğiniz şeyleri kaybetmeyin.
+windows-10-eos-sync-urgency-subtitle-1 = { -brand-short-name } yer imlerinizi, parolalarınızı ve ayarlarınızı güvende tutmak ve istediğinizde kolayca geri yüklemek için şimdi eşitleme yapın.
+windows-10-eos-sync-urgency-title-2 = Windows 10’a veda mı ediyorsunuz? Geçiş yaparken verilerinizi koruyun.
+windows-10-eos-sync-new-device-title-2 = Yeni bir cihaza mı geçiyorsunuz? Önemli verilerinizi kaybetmeyin.
+windows-10-eos-sync-general-title-2 = Şimdi parolalarınızı ve yer imlerinizi yedeklemenin tam zamanı.
+windows-10-eos-sync-tour-title-1 = Çok fazla sekmeniz mi var? Sekmelerinizi gruplandırarak ortalığı toplayın.
+
 ## Sidebar Strings
 
 sidebar-button-callout-title = Sekme başlıklarını kenar çubuğunda göster

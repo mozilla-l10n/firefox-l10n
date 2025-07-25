@@ -343,3 +343,12 @@ multi-cta-fox-doodle-privacy-focused-subtitle =
        *[other] Gizlilik odaklı favori tarayıcınız bir tık uzağınızda. Bağlantıları açmak için { -brand-short-name } uygulamasını varsayılan tarayıcınız olarak ayarlayın, sonra da görev çubuğunuza sabitleyin.
     }
 multi-cta-fox-doodle-msix-privacy-focused-subtitle = Gizlilik odaklı favori tarayıcınız bir tık uzağınızda. Bağlantıları açmak için { -brand-short-name } uygulamasını varsayılan tarayıcınız olarak ayarlayın, sonra da görev çubuğunuza ve Başlat menünüze sabitleyin.
+
+## Windows 10 EoS Sync messages group 1 spotlight
+
+windows-10-eos-sync-spotlight-primary-label = { -brand-short-name } tarayıcınızı yedekleyin
+
+## Windows 10 EoS Sync messages group 1 toast notification
+
+windows-10-eos-sync-toast-title = Windows 11’e mi geçeceksiniz? Yer imlerinizi ve parolalarınızı kaybetmeyin.
+windows-10-eos-sync-toast-secondary-label = Daha sonra hatırlat

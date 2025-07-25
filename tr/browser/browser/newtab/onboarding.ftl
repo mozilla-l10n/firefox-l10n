@@ -448,6 +448,8 @@ onboarding-checklist-sign-up = Hesap açın veya hesaba giriş yapın
 
 tab-groups-onboarding-feature-callout-title = Dağınıklığı azaltarak daha iyi odaklanmak için sekme gruplarını deneyin
 tab-groups-onboarding-feature-callout-subtitle = İlk grubunuzu oluşturmak için sekmeleri üst üste sürükleyin.
+# The text "list all tabs" refers to the string tabs-toolbar-list-all-tabs
+tab-groups-onboarding-create-group-title-3 = Sekme gruplarınızı istediğiniz zaman “Tüm sekmeleri listele“ menüsünde bulabilirsiniz.
 tab-groups-onboarding-create-group-title-2 = Sekme gruplarınıza istediğiniz zaman buradan ulaşabilirsiniz.
 tab-groups-onboarding-create-group-no-alltabs-button-title = Gruplarınızı adres çubuğundan arayarak bulabilirsiniz.
 tab-groups-onboarding-saved-groups-title-2 = Bir sekme grubunu kapatırsanız istediğiniz zaman buradan yeniden açabilirsiniz.

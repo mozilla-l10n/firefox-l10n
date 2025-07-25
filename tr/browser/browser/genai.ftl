@@ -95,6 +95,16 @@ genai-menu-no-provider =
     .label = Yapay zekâ sohbet botuna sor
 genai-menu-choose-chatbot =
     .label = Yapay zekâ sohbet botunuzu seçin
+genai-menu-ask-generic-2 =
+    .label = Yapay zekâ sohbet botuna sor
+    .accesskey = Y
+# $provider (string) - name of the provider
+genai-menu-ask-provider-2 =
+    .label = { $provider } sohbet botuna sor
+    .accesskey = s
+genai-menu-no-provider-2 =
+    .label = Yapay zekâ sohbet botuna sor
+    .accesskey = Y
 
 ## Chatbot header
 

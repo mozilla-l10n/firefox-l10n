@@ -1434,3 +1434,15 @@ trustpanel-tracking-content-not-blocking-tab-header =
        *[other] { -brand-product-name } { $count } takip koduna izin verdi
     }
 trustpanel-tracking-content-tab-list-header = Bu siteler sizi izlemeye çalışıyor:
+trustpanel-fingerprinter-list-header = Bu siteler parmak izinizi almaya çalışıyor:
+trustpanel-cryptominer-blocking-tab-header =
+    { $count ->
+        [one] { -brand-product-name } { $count } kripto madenciyi engelledi
+       *[other] { -brand-product-name } { $count } kripto madenciyi engelledi
+    }
+trustpanel-cryptominer-not-blocking-tab-header =
+    { $count ->
+        [one] { -brand-product-name } { $count } kripto madenciye izin verdi
+       *[other] { -brand-product-name } { $count } kripto madenciye izin verdi
+    }
+trustpanel-cryptominer-tab-list-header = Bu siteler kripto madenciliği yapmaya çalışıyor:

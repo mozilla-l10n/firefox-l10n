@@ -538,6 +538,12 @@ newtab-custom-wallpaper-title = Artık kendi duvar kâğıtlarınızı kullanabi
 newtab-custom-wallpaper-subtitle = { -brand-product-name } tarayıcınızı kişiselleştirmek için kendi duvar kâğıdınızı yükleyin veya istediğiniz rengi seçin.
 newtab-custom-wallpaper-cta = Deneyin
 
+## Strings for new user activation custom wallpaper highlight
+
+newtab-new-user-custom-wallpaper-title = { -brand-product-name } tarayıcınızı kişiselleştirmek için bir duvar kâğıdı seçin
+newtab-new-user-custom-wallpaper-subtitle = Özel duvar kağıtları ve renklerle her yeni sekmede evinizdeymiş gibi hissedin.
+newtab-new-user-custom-wallpaper-cta = Hemen deneyin
+
 ## Strings for download mobile highlight
 
 newtab-download-mobile-highlight-title = Mobil cihazlar için { -brand-product-name }’u indirin
