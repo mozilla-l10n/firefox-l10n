@@ -45,6 +45,8 @@ avatar-selector-save-button =
     .label = Save
 avatar-selector-upload-file = Upload a file
 avatar-selector-drag-file = Or drag a file here
+avatar-selector-add-image = Add an image
+avatar-selector-crop = Crop
 edit-profile-page-no-name = Name this profile to help you find it later. Rename it any time.
 edit-profile-page-duplicate-name = Profile name already in use. Try a new name.
 edit-profile-page-profile-saved = Saved
@@ -114,6 +116,9 @@ book-avatar-alt =
     .alt = Book
 briefcase-avatar-alt =
     .alt = Briefcase
+# Canvas refers to an artist's painting canvas, not the general material
+canvas-avatar-alt =
+    .alt = Canvas
 # Craft refers to hobby arts and crafts, represented by a button/fastener commonly found on clothing like shirts
 craft-avatar-alt =
     .alt = Craft

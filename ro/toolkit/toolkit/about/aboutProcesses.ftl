@@ -2,12 +2,18 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+# Page title
+about-processes-title = Manager de procese
 # The Actions column
 about-processes-column-action =
     .title = Acțiuni
 
 ## Tooltips
 
+about-processes-shutdown-process =
+    .title = Descarcă filele și închide procesul
+about-processes-kill-process =
+    .title = Oprește procesul
 about-processes-shutdown-tab =
     .title = Închide fila
 # Profiler icons
@@ -21,6 +27,37 @@ about-processes-profile-process =
             [few] Profilează toate firele acestui proces pentru { $duration } secunde
            *[other] Profilează toate firele acestui proces pentru { $duration } de secunde
         }
+
+## Column headers
+
+about-processes-column-name = Nume
+about-processes-column-memory-resident = Memorie
+about-processes-column-cpu-total = CPU
+
+## Process names
+## Variables:
+##    $pid (String) The process id of this process, assigned by the OS.
+
+about-processes-browser-process = { -brand-short-name } ({ $pid })
+about-processes-web-process = Proces web partajat ({ $pid })
+about-processes-file-process = Fișiere ({ $pid })
+about-processes-extension-process = Extensii ({ $pid })
+about-processes-privilegedabout-process = Despre pagini ({ $pid })
+about-processes-plugin-process = Pluginuri ({ $pid })
+about-processes-privilegedmozilla-process = site-uri { -vendor-short-name } ({ $pid })
+about-processes-gmp-plugin-process = Pluginuri Gecko Media ({ $pid })
+about-processes-gpu-process = GPU ({ $pid })
+about-processes-vr-process = VR ({ $pid })
+about-processes-rdd-process = Decodor de date ({ $pid })
+about-processes-socket-process = Rețea ({ $pid })
+about-processes-remote-sandbox-broker-process = Broker de tip sandbox la distanță ({ $pid })
+
+## Isolated process names
+## Variables:
+##    $pid (String) The process id of this process, assigned by the OS.
+##    $origin (String) The domain name for this process.
+
+about-processes-web-isolated-process = { $origin } ({ $pid })
 
 ## Details within processes
 

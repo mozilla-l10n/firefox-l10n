@@ -1445,3 +1445,20 @@ trustpanel-fingerprinter-blocking-tab-header =
         [one] { -brand-product-name } blocked { $count } fingerprinter
        *[other] { -brand-product-name } blocked { $count } fingerprinters
     }
+trustpanel-fingerprinter-not-blocking-tab-header =
+    { $count ->
+        [one] { -brand-product-name } allowed { $count } fingerprinter
+       *[other] { -brand-product-name } allowed { $count } fingerprinters
+    }
+trustpanel-fingerprinter-list-header = These site are trying to fingerprint you:
+trustpanel-cryptominer-blocking-tab-header =
+    { $count ->
+        [one] { -brand-product-name } blocked { $count } cryptominer
+       *[other] { -brand-product-name } blocked { $count } cryptominers
+    }
+trustpanel-cryptominer-not-blocking-tab-header =
+    { $count ->
+        [one] { -brand-product-name } allowed { $count } cryptominer
+       *[other] { -brand-product-name } allowed { $count } cryptominers
+    }
+trustpanel-cryptominer-tab-list-header = These sites are trying to cryptomine:

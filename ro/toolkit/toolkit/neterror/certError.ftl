@@ -18,6 +18,9 @@ cert-error-trust-signature-algorithm-disabled = Certificatul nu prezintă încre
 cert-error-trust-expired-issuer = Certificatul nu prezintă încredere deoarece certificatul emitentului a expirat.
 cert-error-trust-self-signed = Certificatul nu prezintă încredere deoarece este semnat de el însuși.
 cert-error-trust-symantec = Certificatele emise de GeoTrust, RapidSSL, Symantec, Thawte și VeriSign nu mai sunt considerate sigure deoarece aceste autorități de certificare nu au respectat în trecut practicile de securitate.
+# Variables:
+#   $hostname (string) - Hostname of the website with cert error.
+cert-error-trust-certificate-transparency = { -brand-short-name } nu are încredere în { $hostname } deoarece nu a putut dovedi că îndeplinește cerințele de transparență a certificatelor publice.
 cert-error-untrusted-default = Certificatul nu provine de la o sursă de încredere.
 # Variables:
 #   $hostname (string) - Hostname of the website with cert error.
@@ -56,6 +59,7 @@ cert-error-ssl-connection-error = A apărut o eroare în timpul conectării la {
 #   $hostname (string) - Hostname of the website with cert error.
 cert-error-symantec-distrust-description = Site-urile web își demonstrează identitatea prin intermediul certificatelor, care sunt emise de autorități de certificare. Majoritatea browserelor nu mai au încredere în certificatele emise de GeoTrust, RapidSSL, Symantec, Thawte și VeriSign. { $hostname } folosește un certificat de la una dintre aceste autorități și, prin urmare, identitatea site-ului web nu poate fi demonstrată.
 cert-error-symantec-distrust-admin = Poți notifica administratorul site-ului web despre această problemă.
+cert-error-old-tls-version = Este posibil ca acest site web să nu fie compatibil cu protocolul TLS 1.2, care este versiunea minimă compatibilă cu { -brand-short-name }.
 # Variables:
 #   $hasHSTS (Boolean) - Indicates whether HSTS header is present.
 cert-error-details-hsts-label = Securitate strictă la transport HTTP: { $hasHSTS }
@@ -67,6 +71,7 @@ open-in-new-window-for-csp-or-xfo-error = Deschide site-ul într-o fereastră no
 # Variables:
 #   $hostname (string) - Hostname of the website blocked by csp or xfo error.
 csp-xfo-blocked-long-desc = Pentru a-ți proteja securitatea, { $hostname } nu va permite { -brand-short-name } să afișeze pagina dacă a fost încorporată de alt site. Pentru a vedea această pagină, trebuie să o deschizi într-o fereastră nouă.
+fp-certerror-view-certificate-link = Vezi certificatul site-ului
 
 ## Messages used for certificate error titles
 

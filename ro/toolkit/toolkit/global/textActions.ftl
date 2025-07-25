@@ -73,3 +73,15 @@ text-action-search-text-box-clear =
     .title = Curăță
 text-action-highlight-selection =
     .label = Evidențiază selecția
+# "Copy Link to Highlight" creates a permanent 'Text Fragment' link
+# to the current selection, and copies it into the user's clipboard.
+text-action-copy-link-to-highlight =
+    .label = Copiază linkul de evidențiat
+# If the page has been loaded with a text fragment and text is
+# visibly highlighted, this removes any highlighted sections on the page.
+text-action-remove-highlight =
+    .label = Elimină evidențierile
+# If the page has been loaded with a text fragment and text is
+# visibly highlighted, this removes any highlighted sections on the page.
+text-action-remove-all-highlights =
+    .label = Elimină toate evidențierile
