@@ -112,6 +112,10 @@ fxa-adoption-passwords-subtitle = Ниҳонвожаҳои худро тавас
 # Opens Mozilla accounts sign-up page
 fxa-adoption-passwords-primary-button-label = Бақайдгирӣ
 
+## Windows 10 EoS Sync messages group 1 callouts
+
+windows-10-eos-sync-new-device-primary-label = Ҳозир ҳамоҳанг кунед
+
 ## Sidebar Strings
 
 sidebar-button-callout-title = Нишон додани сарлавҳаҳои варақаҳо дар навори ҷонибӣ

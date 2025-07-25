@@ -202,6 +202,15 @@ makeup-avatar = Ороиш
 # Message refers to a text message, not a traditional letter/envelope message
 message-avatar = Паём
 musical-note-avatar = Нотаи мусиқӣ
+palette-avatar = Рангубор
+paw-print-avatar = Панҷа
+plane-avatar = Ҳавопаймо
+# Present refers to a gift box, not the current time period
+present-avatar = Туҳфа
 shopping-avatar = Сабади харидорӣ
+soccer-avatar = Футбол
+sparkle-single-avatar = Шарора
 star-avatar = Ситора
+video-game-controller-avatar = Танзимгари бозии видеоӣ
+barbell-avatar = Вазна
 bike-avatar = Дучарха

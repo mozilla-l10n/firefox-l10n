@@ -93,6 +93,13 @@ genai-menu-no-provider =
     .label = Аз чат-боти зеҳни сунъӣ «AI» пурсед
 genai-menu-choose-chatbot =
     .label = Интихоби чат-боти зеҳни сунъӣ «AI»
+genai-menu-ask-generic-2 =
+    .label = Аз чат-боти зеҳни сунъӣ «AI» пурсед
+    .accesskey = А
+# $provider (string) - name of the provider
+genai-menu-ask-provider-2 =
+    .label = Аз «{ $provider }» пурсед
+    .accesskey = А
 genai-menu-no-provider-2 =
     .label = Аз чат-боти зеҳни сунъӣ «AI» пурсед
     .accesskey = А
