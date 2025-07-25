@@ -40,6 +40,12 @@ inactive-css-position-property-on-unpositioned-box = <strong>{ $property }</stro
 inactive-css-only-replaced-elements = <strong>{ $property }</strong> nu are niciun efect asupra acestui element pentru că se poate aplica numai elementelor înlocuite.
 inactive-text-overflow-when-no-overflow = <strong>{ $property }</strong> nu are niciun efect asupra acestui element pentru că <strong>overflow:hidden</strong> nu este setat.
 inactive-css-no-size-containment = <strong>{ $property }</strong> nu are niciun efect asupra acestui element pentru că nu are nicio limită de dimensiune.
+inactive-css-not-for-internal-table-elements = <strong>{ $property }</strong> nu are efect asupra elementelor interne ale tabelului.
+inactive-css-not-for-internal-table-elements-except-table-cells = <strong>{ $property }</strong> nu are niciun efect asupra elementelor interne ale tabelului, cu excepția celulelor.
+inactive-css-not-table = <strong>{ $property }</strong> nu are niciun efect asupra acestui element pentru că nu este tabel.
+inactive-css-collapsed-table-borders = <strong>{ $property }</strong> nu are niciun efect asupra acestui element pentru că este tabel cu marginile restrânse.
+inactive-css-not-table-cell = <strong>{ $property }</strong> nu are niciun efect asupra acestui element pentru că nu este celulă de tabel.
+inactive-scroll-padding-when-not-scroll-container = <strong>{ $property }</strong> nu are niciun efect asupra acestui element pentru că nu se derulează.
 
 ## In the Rule View when a CSS property cannot be successfully applied we display
 ## an icon. When this icon is hovered this message is displayed to explain why
