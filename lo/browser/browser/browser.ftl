@@ -609,6 +609,8 @@ urlbar-searchmode-exit-button =
 urlbar-searchmode-popup-description = ຄັ້ງນີ້ ຄົ້ນຫາດ້ວຍ:
 urlbar-searchmode-popup-search-settings-menuitem =
     .label = ການຕັ້ງຄ່າການຄົ້ນຫາ
+# Label shown next to a new search engine in the Searchmode Switcher popup to promote it.
+urlbar-searchmode-new = ໃຫມ່
 
 ## Action text shown in urlbar results, usually appended after the search
 ## string or the url, like "result value - action text".
