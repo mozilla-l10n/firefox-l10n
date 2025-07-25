@@ -1359,6 +1359,8 @@ trustpanel-clear-cookies-header =
 trustpanel-clear-cookies-description = Агар шумо барои сомонаи асосӣ кукиҳо ва маълумоти сомонаро тоза кунед, ин амал метавонад шуморо аз низомҳои сомонаҳои алоқаманд берун барорад ва сабадҳои харидории шуморо тоза намояд.
 trustpanel-clear-cookies-subview-button-clear = Пок кардан
 trustpanel-clear-cookies-subview-button-cancel = Бекор кардан
+trustpanel-connection-secure = Шумо ба ин сомона тавассути шабакаи муҳофизатшуда пайваст шудед.
+trustpanel-connection-not-secure = Шумо ба ин сомона тавассути шабакаи муҳофизатнашуда пайваст шудед.
 trustpanel-siteinformation-morelink = Маълумоти бештар дар бораи сомона
 trustpanel-blocker-see-all = Ҳамаро дидан
 # Variables
