@@ -174,6 +174,8 @@ diamond-avatar-alt =
     .alt = Diamant
 barbell-avatar-alt =
     .alt = Hantla
+bike-avatar-alt =
+    .alt = Kólaso
 
 ## Labels for default avatar icons
 
@@ -211,3 +213,4 @@ sparkle-single-avatar = Błyskanje
 star-avatar = Gwězda
 video-game-controller-avatar = Kontroler za wideograśa
 barbell-avatar = Hantla
+bike-avatar = Kólaso

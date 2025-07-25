@@ -1166,6 +1166,10 @@ tabs-toolbar-list-all-tabs =
     .label = Wšykne rejtariki nalicyś
     .tooltiptext = Wšykne rejtariki nalicyś
 
+## Drop indicator text for pinned tabs when no tabs are pinned.
+
+pinned-tabs-drop-indicator = Pušććo how, aby pśipěł
+
 ## Infobar shown at startup to suggest session-restore
 
 # <img data-l10n-name="icon"/> will be replaced by the application menu icon
@@ -1382,6 +1386,10 @@ trustpanel-connection-secure = Sćo wěsće zwězany z toś tym sedłom.
 trustpanel-connection-not-secure = Njejsćo wěsće zwězany z toś tym sedłom.
 trustpanel-siteinformation-morelink = Dalšne sedłowe informacije
 trustpanel-blocker-see-all = Wšykne pokazaś
+# Variables
+#  $host (String): the hostname of the site that is being displayed.
+trustpanel-blocker-header =
+    .title = Slědowański šćit za { $host }
 
 ## Variables
 ##  $count (String): the number of trackers blocked.
