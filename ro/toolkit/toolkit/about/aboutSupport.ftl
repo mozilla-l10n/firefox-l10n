@@ -18,6 +18,14 @@ support-addons-type = Tip
 support-addons-enabled = Activate
 support-addons-version = Versiune
 support-addons-id = ID
+# In the add-on world, locations are where the addon files are stored. Each
+# location has name. For instance: app-system-addons, app-builtin,
+# app-temporary, etc.
+support-addons-location-name = Locație
+legacy-user-stylesheets-title = Fișe de stil moștenite create de utilizator
+legacy-user-stylesheets-enabled = Active
+legacy-user-stylesheets-stylesheet-types = Fișe de stil
+legacy-user-stylesheets-no-stylesheets-found = Nu s-au găsit fișe de stil
 security-software-title = Program de securitate
 security-software-type = Tip
 security-software-name = Nume
@@ -68,12 +76,20 @@ app-basics-third-party = Module terțe
 app-basics-profiles = Profiluri
 app-basics-launcher-process-status = Procesul lansatorului
 app-basics-multi-process-support = Ferestre multiproces
+app-basics-fission-support = Ferestre de fisiune
 app-basics-remote-processes-count = Procese la distanță
 app-basics-enterprise-policies = Politici dedicate întreprinderilor
 app-basics-location-service-key-google = Cheie de servicii Google pentru localizare
 app-basics-safebrowsing-key-google = Cheie Google pentru navigare în siguranță
 app-basics-key-mozilla = Cheie pentru serviciul de localizare Mozilla
 app-basics-safe-mode = Mod sigur
+app-basics-memory-size = Mărime memorie (RAM)
+app-basics-disk-available = Spațiu disponibil pe disc
+app-basics-pointing-devices = Dispozitive de indicare
+# Variables:
+#   $value (number) - Amount of data being stored
+#   $unit (string) - The unit of data being stored (e.g. MB)
+app-basics-data-size = { $value } { $unit }
 show-dir-label =
     { PLATFORM() ->
         [macos] Afișează în Finder

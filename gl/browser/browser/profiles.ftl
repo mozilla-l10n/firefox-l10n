@@ -126,6 +126,9 @@ palette-avatar-alt =
     .alt = Paleta
 plane-avatar-alt =
     .alt = Avión
+# Present refers to a gift box, not the current time period
+present-avatar-alt =
+    .alt = Agasallo
 shopping-avatar-alt =
     .alt = Carro da compra
 soccer-avatar-alt =
@@ -138,6 +141,12 @@ video-game-controller-avatar-alt =
     .alt = Controlador de videoxogos
 custom-avatar-alt =
     .alt = Avatar personalizado
+# Default favicon refers to the generic globe/world icon that appears in browser tabs when a website doesn't have its own favicon.
+default-favicon-avatar-alt =
+    .alt = Favicon predeterminado
+# Diamond refers to the precious stone, not the geometric shape
+diamond-avatar-alt =
+    .alt = Diamante
 
 ## Labels for default avatar icons
 
