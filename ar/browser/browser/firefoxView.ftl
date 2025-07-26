@@ -43,6 +43,8 @@ firefoxview-tabpickup-adddevice-description = قم بتنزيل { -brand-product
 firefoxview-tabpickup-adddevice-learn-how = اطّلع على الطريقة
 firefoxview-tabpickup-adddevice-primarybutton = احصل على { -brand-product-name } للجوال
 firefoxview-syncedtabs-adddevice-header-2 = اسحب الألسنة من أي مكان
+firefoxview-syncedtabs-adddevice-description-2 = لِج إلى { -brand-product-name } على هاتفك أو على جهاز كمبيوتر آخر لرؤية الألسنة هنا. تعرَّف على كيفية <a data-l10n-name="url">ربط أجهزة إضافية</a>.
+firefoxview-syncedtabs-adddevice-header = لِج الدخول إلى { -brand-product-name } على أجهزتك الأخرى
 firefoxview-syncedtabs-adddevice-primarybutton = جرّب { -brand-product-name } للجوال
 firefoxview-tabpickup-synctabs-header = فعّل مزامنة اللسان
 firefoxview-tabpickup-synctabs-description = اسمح لـ{ -brand-short-name } بمشاركة الألسنة بين الأجهزة.
@@ -68,6 +70,7 @@ firefoxview-tabpickup-password-locked-description = للحصول على ألسن
 firefoxview-tabpickup-password-locked-link = اطّلع على المزيد
 firefoxview-tabpickup-password-locked-primarybutton = أدخل كلمة السر الرئيسية
 firefoxview-syncedtab-password-locked-link = <a data-l10n-name="syncedtab-password-locked-link">اطّلع على المزيد</a>
+firefoxview-tabpickup-signed-out-header = لِج لإعادة الاتصال
 firefoxview-tabpickup-signed-out-primarybutton = لِج
 firefoxview-mobile-promo-primarybutton = نزّل { -brand-product-name } للجوال
 firefoxview-mobile-confirmation-header = جاهز! 🎉
@@ -86,6 +89,8 @@ firefoxview-pickup-tabs-badge = آخر نشاط
 #   $targetURI (string) - URL that will be opened in the new tab
 firefoxview-tabs-list-tab-button =
     .title = افتح { $targetURI } في لسان جديد
+firefoxview-try-colorways-button = جرِّب التلاوين
+firefoxview-change-colorway-button = غيّر التلاوين
 firefoxview-synced-tabs-placeholder-header = لا شيء لرؤيته بعد
 firefoxview-collapse-button-show =
     .title = اعرض القائمة
@@ -155,6 +160,10 @@ firefoxview-search-text-box-opentabs =
 # Variables:
 #   $query (String) - The search query used for searching through browser history.
 firefoxview-search-results-header = نتائج البحث عن "{ $query }"
+# Message displayed when a search is performed and no matching results were found.
+# Variables:
+#   $query (String) - The search query.
+firefoxview-search-results-empty = لا توجد نتائج لـ "{ $query }"
 firefoxview-sort-history-by-date-label = رتّب حسب التاريخ
 firefoxview-sort-history-by-site-label = رتّب حسب الموقع
 firefoxview-sort-open-tabs-by-recency-label = رتّب حسب النشاط الأخير
