@@ -822,6 +822,8 @@ urlbar-searchmode-default =
 urlbar-searchmode-popup-description = 本次搜索使用：
 urlbar-searchmode-popup-search-settings-menuitem =
     .label = 搜索设置
+# Label shown next to a new search engine in the Searchmode Switcher popup to promote it.
+urlbar-searchmode-new = 新
 # Searchmode Switcher button
 # Variables:
 #   $engine (String): the current default search engine.
@@ -1149,6 +1151,10 @@ tabs-toolbar-list-all-tabs =
     .label = 列出所有标签页
     .tooltiptext = 列出所有标签页
 
+## Drop indicator text for pinned tabs when no tabs are pinned.
+
+pinned-tabs-drop-indicator = 将标签页拖到此处以固定
+
 ## Infobar shown at startup to suggest session-restore
 
 # <img data-l10n-name="icon"/> will be replaced by the application menu icon
@@ -1318,11 +1324,21 @@ onboarding-aw-finish-setup-button =
 
 trustpanel-etp-label-enabled = 增强型跟踪保护已开启
 trustpanel-etp-label-disabled = 增强型跟踪保护已关闭
+# Variables
+#  $host (String): the hostname of the site that is being displayed.
+trustpanel-etp-toggle-on =
+    .aria-label = 增强型跟踪保护：已对 { $host } 开启
+# Variables
+#  $host (String): the hostname of the site that is being displayed.
+trustpanel-etp-toggle-off =
+    .aria-label = 增强型跟踪保护：已对 { $host } 关闭
 trustpanel-etp-description-enabled = 若网站功能异常，请尝试关闭保护。
 trustpanel-connection-label-secure = 连接安全
 trustpanel-connection-label-insecure = 连接不安全
+trustpanel-header-enabled = { -brand-product-name } 正在防护
 trustpanel-description-enabled = 您已受保护，我们会在发现异常情况时告知您。
 trustpanel-header-disabled = 您已关闭保护
+trustpanel-description-disabled = { -brand-product-name } 已暂停保护，建议重新启用。
 trustpanel-clear-cookies-button = 清除 Cookie 和网站数据
 trustpanel-privacy-link = 隐私设置
 # Variables
@@ -1340,6 +1356,10 @@ trustpanel-blocker-see-all = 查看全部
 ## Variables
 ##  $count (String): the number of trackers blocked.
 
+trustpanel-blocker-section-header = 已在此网站上拦截 <span>{ $count }</span> 个跟踪器
+trustpanel-blocked-header = { -brand-product-name } 为您拦截了以下项目：
+trustpanel-tracking-header = 为使网站正常运作，{ -brand-product-name } 已允许以下项目：
+trustpanel-tracking-description = 拦截跟踪器可能会使某些按钮、表单、登录信息栏无法正常工作。
 trustpanel-insecure-section-header = 您的连接不安全
 trustpanel-list-label-tracking-cookies = { $count } 个跨站跟踪性 Cookie
 trustpanel-list-label-tracking-content = 跟踪性内容
