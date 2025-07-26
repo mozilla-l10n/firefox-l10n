@@ -1359,8 +1359,13 @@ trustpanel-privacy-link = Configuración de privacidade
 #  $host (String): the hostname of the site that is being displayed.
 trustpanel-clear-cookies-header =
     .title = Borrar cookies e datos do sitio para { $host }
+trustpanel-clear-cookies-description = Eliminar as cookies e os datos do sitio podería pechar a túa sesión nos sitios web e borrar os carriños da compra.
 trustpanel-clear-cookies-subview-button-clear = Borrar
 trustpanel-clear-cookies-subview-button-cancel = Cancelar
+# Variables
+#  $host (String): the hostname of the site that is being displayed.
+trustpanel-site-information-header =
+    .title = Proteccións de conexión para { $host }
 trustpanel-connection-secure = Estás conectado de forma segura a este sitio.
 trustpanel-connection-not-secure = Non estás conectado de forma segura a este sitio.
 trustpanel-siteinformation-morelink = Máis información do sitio
