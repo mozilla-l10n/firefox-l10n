@@ -528,6 +528,7 @@ pdfjs-editor-alt-text-settings-close-button = Закрыть
 
 ## Accessibility labels (announced by screen readers) for objects added to the editor.
 
+pdfjs-editor-highlight-added-alert = Выделение добавлено
 pdfjs-editor-freetext-added-alert = Текст добавлен
 pdfjs-editor-ink-added-alert = Изображение добавлено
 pdfjs-editor-stamp-added-alert = Изображение добавлено

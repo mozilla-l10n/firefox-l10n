@@ -1394,5 +1394,97 @@ trustpanel-blocker-section-header =
     }
 trustpanel-blocker-description = { -brand-product-name } считает, что компании должны меньше следить за вами. Поэтому мы блокируем столько, сколько можем.
 trustpanel-blocked-header = { -brand-product-name } заблокировал для вас это:
+trustpanel-tracking-header = { -brand-product-name } разрешил это, чтобы сайты не ломались:
+trustpanel-tracking-description = Без трекеров некоторые кнопки, формы и поля для входа могут не работать.
 trustpanel-insecure-section-header = Ваше соединение не защищено
+trustpanel-insecure-description = Данные, отправляемые вами на этот сайт, не зашифрованы. Его можно просмотреть, украсть или изменить.
+trustpanel-list-label-tracking-cookies =
+    { $count ->
+        [one] { $count } межсайтовый отслеживающий куки
+        [few] { $count } межсайтовых отслеживающих куки
+       *[many] { $count } межсайтовых отслеживающих куки
+    }
 trustpanel-list-label-tracking-content = Отслеживающее содержимое
+trustpanel-list-label-fingerprinter =
+    { $count ->
+        [one] { $count } сборщик цифровых отпечатков
+        [few] { $count } сборщика цифровых отпечатков
+       *[many] { $count } сборщиков цифровых отпечатков
+    }
+trustpanel-list-label-social-tracking =
+    { $count ->
+        [one] { $count } трекер соцсетей
+        [few] { $count } трекера соцсетей
+       *[many] { $count } трекеров соцсетей
+    }
+trustpanel-list-label-cryptominer =
+    { $count ->
+        [one] { $count } криптомайнер
+        [few] { $count } криптомайнера
+       *[many] { $count } криптомайнеров
+    }
+trustpanel-social-tracking-blocking-tab-header =
+    { $count ->
+        [one] { -brand-product-name } заблокировал { $count } трекер социальных сетей
+        [few] { -brand-product-name } заблокировал { $count } трекера социальных сетей
+       *[many] { -brand-product-name } заблокировал { $count } трекеров социальных сетей
+    }
+trustpanel-social-tracking-not-blocking-tab-header =
+    { $count ->
+        [one] { -brand-product-name } разрешил { $count } трекер социальных сетей
+        [few] { -brand-product-name } разрешил { $count } трекера социальных сетей
+       *[many] { -brand-product-name } разрешил { $count } трекеров социальных сетей
+    }
+trustpanel-social-tracking-tab-list-header = Следующие сайты пытаются вас отследить:
+trustpanel-tracking-cookies-blocking-tab-header =
+    { $count ->
+        [one] { -brand-product-name } заблокировал { $count } межсайтовый отслеживающий куки
+        [few] { -brand-product-name } заблокировал { $count } межсайтовых отслеживающих куки
+       *[many] { -brand-product-name } заблокировал { $count } межсайтовых отслеживающих куки
+    }
+trustpanel-tracking-cookies-not-blocking-tab-header =
+    { $count ->
+        [one] { -brand-product-name } разрешил { $count } межсайтовый отслеживающих куки
+        [few] { -brand-product-name } разрешил { $count } межсайтовых отслеживающих куки
+       *[many] { -brand-product-name } разрешил { $count } межсайтовых отслеживающих куки
+    }
+trustpanel-tracking-cookies-tab-list-header = Следующие сайты пытаются вас отследить:
+trustpanel-tracking-content-blocking-tab-header =
+    { $count ->
+        [one] { -brand-product-name } заблокировал { $count } трекер
+        [few] { -brand-product-name } заблокировал { $count } трекера
+       *[many] { -brand-product-name } заблокировал { $count } трекеров
+    }
+trustpanel-tracking-content-not-blocking-tab-header =
+    { $count ->
+        [one] { -brand-product-name } разрешил { $count } трекер
+        [few] { -brand-product-name } разрешил { $count } трекера
+       *[many] { -brand-product-name } разрешил { $count } трекеров
+    }
+trustpanel-tracking-content-tab-list-header = Следующие сайты пытаются вас отследить:
+trustpanel-fingerprinter-blocking-tab-header =
+    { $count ->
+        [one] { -brand-product-name } заблокировал { $count } сборщик цифровых отпечатков
+        [few] { -brand-product-name } заблокировал { $count } сборщика цифровых отпечатков
+       *[many] { -brand-product-name } заблокировал { $count } сборщиков цифровых отпечатков
+    }
+trustpanel-fingerprinter-not-blocking-tab-header =
+    { $count ->
+        [one] { -brand-product-name } разрешил { $count } сборщик цифровых отпечатков
+        [few] { -brand-product-name } разрешил { $count } сборщика цифровых отпечатков
+       *[many] { -brand-product-name } разрешил { $count } сборщиков цифровых отпечатков
+    }
+trustpanel-fingerprinter-list-header = Следующие сайты пытаются собрать ваши цифровые отпечатки:
+trustpanel-cryptominer-blocking-tab-header =
+    { $count ->
+        [one] { -brand-product-name } заблокировал { $count } криптомайнер
+        [few] { -brand-product-name } заблокировал { $count } криптомайнера
+       *[many] { -brand-product-name } заблокировал { $count } криптомайнеров
+    }
+trustpanel-cryptominer-not-blocking-tab-header =
+    { $count ->
+        [one] { -brand-product-name } разрешил { $count } криптомайнер
+        [few] { -brand-product-name } разрешил { $count } криптомайнера
+       *[many] { -brand-product-name } разрешил { $count } криптомайнеров
+    }
+trustpanel-cryptominer-tab-list-header = Следующие сайты пытаются заниматься криптомайнингом:

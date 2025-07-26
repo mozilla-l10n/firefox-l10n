@@ -114,7 +114,19 @@ fxa-adoption-passwords-primary-button-label = Зарегистрироватьс
 
 ## Windows 10 EoS Sync messages group 1 callouts
 
+windows-10-eos-sync-urgency-title-1 = Не потеряйте всё, что вы сохранили, при переходе на Windows 11.
+windows-10-eos-sync-urgency-subtitle-1 = Выполните синхронизацию сейчас, чтобы обезопасить и легко восстановить ваши закладки, пароли и настройки { -brand-short-name }.
+windows-10-eos-sync-urgency-title-2 = Прощаемся с Windows 10? Защитите свои данные при переходе.
+windows-10-eos-sync-urgency-subtitle-2 = Даже если вы не используете { -brand-short-name } каждый день, используйте синхронизацию, чтобы хранить закладки и пароли в безопасном и доступном месте.
+windows-10-eos-sync-new-device-title-1 = Не рискуйте начать сначала на следующем устройстве.
+windows-10-eos-sync-new-device-subtitle-1 = Проводите синхронизацию, чтобы перенести свои закладки, пароли и предпочитаемые настройки на { -brand-short-name } при переходе.
+windows-10-eos-sync-new-device-title-2 = Переходите на новое устройство? Не потеряйте то, что важно.
+windows-10-eos-sync-new-device-subtitle-2 = Независимо от того, как часто вы используете { -brand-short-name }, синхронизация защищает ваши закладки, пароли и настройки.
 windows-10-eos-sync-new-device-primary-label = Синхронизировать
+windows-10-eos-sync-general-title-1 = Защитите { -brand-short-name }, который вы сделали своим.
+windows-10-eos-sync-general-subtitle-1 = Делайте резервные копии и синхронизируйте свои пароли, закладки, настройки и другие данные, чтобы сохранить то, на что вы рассчитываете.
+windows-10-eos-sync-general-title-2 = Пришло время создать резервную копию ваших паролей и закладок.
+windows-10-eos-sync-general-subtitle-2 = Проведите синхронизацию сейчас, чтобы защитить свои данные, которые вы доверяете { -brand-short-name }, и получите к ним доступ в любом месте, в любое время.
 
 ## Sidebar Strings
 
