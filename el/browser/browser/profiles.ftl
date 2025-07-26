@@ -45,6 +45,8 @@ avatar-selector-save-button =
     .label = Αποθήκευση
 avatar-selector-upload-file = Μεταφόρτωση αρχείου
 avatar-selector-drag-file = Ή σύρετε ένα αρχείο εδώ
+avatar-selector-add-image = Προσθήκη εικόνας
+avatar-selector-crop = Περικοπή
 edit-profile-page-no-name = Δώστε ένα όνομα στο προφίλ για να το βρείτε πιο εύκολα αργότερα. Μπορείτε να το μετονομάσετε ανά πάσα στιγμή.
 edit-profile-page-duplicate-name = Το όνομα προφίλ χρησιμοποιείται ήδη. Δοκιμάστε ένα νέο όνομα.
 edit-profile-page-profile-saved = Αποθηκεύτηκε
@@ -116,20 +118,71 @@ briefcase-avatar-alt =
     .alt = Χαρτοφύλακας
 flower-avatar-alt =
     .alt = Λουλούδι
+folder-avatar-alt =
+    .alt = Φάκελος
+hammer-avatar-alt =
+    .alt = Σφυρί
 heart-avatar-alt =
     .alt = Καρδιά
+leaf-avatar-alt =
+    .alt = Φύλλο
+lightbulb-avatar-alt =
+    .alt = Λαμπτήρας
+makeup-avatar-alt =
+    .alt = Μακιγιάζ
+# Message refers to a text message, not a traditional letter/envelope message
+message-avatar-alt =
+    .alt = Μήνυμα
+musical-note-avatar-alt =
+    .alt = Μουσική νότα
+palette-avatar-alt =
+    .alt = Παλέτα
+plane-avatar-alt =
+    .alt = Αεροπλάνο
+# Present refers to a gift box, not the current time period
+present-avatar-alt =
+    .alt = Δώρο
 shopping-avatar-alt =
     .alt = Καλάθι αγορών
+soccer-avatar-alt =
+    .alt = Ποδόσφαιρο
 star-avatar-alt =
     .alt = Αστέρι
 custom-avatar-alt =
     .alt = Προσαρμοσμένο avatar
+# Default favicon refers to the generic globe/world icon that appears in browser tabs when a website doesn't have its own favicon.
+default-favicon-avatar-alt =
+    .alt = Προεπιλεγμένο εικονίδιο
+# Diamond refers to the precious stone, not the geometric shape
+diamond-avatar-alt =
+    .alt = Διαμάντι
+bike-avatar-alt =
+    .alt = Ποδήλατο
 
 ## Labels for default avatar icons
 
 book-avatar = Βιβλίο
 briefcase-avatar = Χαρτοφύλακας
+custom-avatar = Προσαρμοσμένο εικονίδιο
+# Default favicon refers to the generic globe/world icon that appears in browser tabs when a website doesn't have its own favicon.
+default-favicon-avatar = Προεπιλεγμένο εικονίδιο
+# Diamond refers to the precious stone, not the geometric shape
+diamond-avatar = Διαμάντι
 flower-avatar = Λουλούδι
+folder-avatar = Φάκελος
+hammer-avatar = Σφυρί
 heart-avatar = Καρδιά
+leaf-avatar = Φύλλο
+lightbulb-avatar = Λαμπτήρας
+makeup-avatar = Μακιγιάζ
+# Message refers to a text message, not a traditional letter/envelope message
+message-avatar = Μήνυμα
+musical-note-avatar = Μουσική νότα
+palette-avatar = Παλέτα
+plane-avatar = Αεροπλάνο
+# Present refers to a gift box, not the current time period
+present-avatar = Δώρο
 shopping-avatar = Καλάθι αγορών
+soccer-avatar = Ποδόσφαιρο
 star-avatar = Αστέρι
+bike-avatar = Ποδήλατο
