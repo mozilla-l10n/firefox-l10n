@@ -207,6 +207,9 @@ urlbar-result-menu-show-less-frequently =
     .label = Zobrazovať menej často
 urlbar-result-menu-dont-show-weather-suggestions =
     .label = Nezobrazovať návrhy počasia
+# Used for Split Button.
+urlbar-splitbutton-dropmarker =
+    .title = Otvoriť ponuku
 # A message shown in the urlbar when the user submits feedback on a suggestion
 # (e.g., it shows an inaccurate location, it's shown too often, etc.).
 urlbar-feedback-acknowledgment = Ďakujeme za vašu spätnú väzbu
@@ -830,6 +833,8 @@ urlbar-searchmode-default =
 urlbar-searchmode-popup-description = Tentoraz vyhľadať pomocou:
 urlbar-searchmode-popup-search-settings-menuitem =
     .label = Nastavenia vyhľadávania
+# Label shown next to a new search engine in the Searchmode Switcher popup to promote it.
+urlbar-searchmode-new = Nové
 # Searchmode Switcher button
 # Variables:
 #   $engine (String): the current default search engine.
@@ -1157,6 +1162,10 @@ tabs-toolbar-list-all-tabs =
     .label = Zoznam všetkých kariet
     .tooltiptext = Zoznam všetkých kariet
 
+## Drop indicator text for pinned tabs when no tabs are pinned.
+
+pinned-tabs-drop-indicator = Ak chcete kartu pripnúť, presuňte ju sem
+
 ## Infobar shown at startup to suggest session-restore
 
 # <img data-l10n-name="icon"/> will be replaced by the application menu icon
@@ -1333,3 +1342,30 @@ onboarding-checklist-button-label = Dokončiť nastavenie
 onboarding-aw-finish-setup-button =
     .label = Dokončiť nastavenie
     .tooltiptext = Dokončiť nastavenie { -brand-short-name(case: "gen") }
+
+## The urlbar trust panel
+
+trustpanel-etp-label-enabled = Rozšírená ochrana pred sledovaním je zapnutá
+trustpanel-etp-label-disabled = Rozšírená ochrana pred sledovaním je vypnutá
+# Variables
+#  $host (String): the hostname of the site that is being displayed.
+trustpanel-etp-toggle-on =
+    .aria-label = Rozšírená ochrana pred sledovaním: zapnutá pre { $host }
+# Variables
+#  $host (String): the hostname of the site that is being displayed.
+trustpanel-etp-toggle-off =
+    .aria-label = Rozšírená ochrana pred sledovaním: vypnutá pre { $host }
+trustpanel-etp-description-enabled = Ak sa niečo na tejto stránke javí ako nefunkčné, skúste vypnúť ochranu.
+trustpanel-etp-description-disabled = { -brand-product-name } si myslí, že spoločnosti by vás mali menej sledovať. Keď zapnete ochranu, zablokujeme čo najviac sledovacích zariadení.
+trustpanel-connection-label-secure = Pripojenie je zabezpečené
+trustpanel-connection-label-insecure = Pripojenie nie je zabezpečené
+trustpanel-header-enabled = { -brand-product-name } je v strehu
+trustpanel-description-enabled = Ste chránení. Ak niečo zistíme, dáme vám vedieť
+trustpanel-header-disabled = Ochrana je vypnutá
+trustpanel-description-disabled = { -brand-product-name } nie je v strehu. Odporúčame vám znova zapnúť ochranu.
+trustpanel-clear-cookies-button = Vymazať cookies a údaje stránky
+trustpanel-privacy-link = Nastavenia ochrany súkromia
+# Variables
+#  $host (String): the hostname of the site that is being displayed.
+trustpanel-clear-cookies-header =
+    .title = Vymazať súbory cookie a údaje stránok pre { $host }
