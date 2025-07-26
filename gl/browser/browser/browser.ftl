@@ -1158,6 +1158,10 @@ tabs-toolbar-list-all-tabs =
     .label = Listar todas as lapelas
     .tooltiptext = Listar todas as lapelas
 
+## Drop indicator text for pinned tabs when no tabs are pinned.
+
+pinned-tabs-drop-indicator = Solta a pestana aquí para fixala
+
 ## Infobar shown at startup to suggest session-restore
 
 # <img data-l10n-name="icon"/> will be replaced by the application menu icon
@@ -1331,11 +1335,30 @@ onboarding-aw-finish-setup-button =
 
 ## The urlbar trust panel
 
+trustpanel-etp-label-enabled = A protección mellorada contra o rastrexo está activada
+trustpanel-etp-label-disabled = A protección mellorada contra o rastrexo está desactivada
+# Variables
+#  $host (String): the hostname of the site that is being displayed.
+trustpanel-etp-toggle-on =
+    .aria-label = Protección mellorada contra o rastrexo: Activada para { $host }
+# Variables
+#  $host (String): the hostname of the site that is being displayed.
+trustpanel-etp-toggle-off =
+    .aria-label = Protección mellorada contra o rastrexo: Desactivada para { $host }
+trustpanel-etp-description-enabled = Se algo parece que non funciona neste sitio, proba a desactivar as proteccións.
+trustpanel-etp-description-disabled = { -brand-product-name } pensa que as empresas deberían seguirte menos. Bloqueamos tantos rastrexadores como podemos cando activas as proteccións.
 trustpanel-connection-label-secure = Conexión segura
 trustpanel-connection-label-insecure = Conexión non segura
+trustpanel-header-enabled = { -brand-product-name } está en garda
+trustpanel-description-enabled = Está protexido. Se detectamos algo, avisarémoste.
 trustpanel-header-disabled = Desactivaches as proteccións
+trustpanel-description-disabled = { -brand-product-name } está fóra de servizo. Suxerímosche que volvas activar as proteccións.
 trustpanel-clear-cookies-button = Borrar as cookies e os datos do sitio
 trustpanel-privacy-link = Configuración de privacidade
+# Variables
+#  $host (String): the hostname of the site that is being displayed.
+trustpanel-clear-cookies-header =
+    .title = Borrar cookies e datos do sitio para { $host }
 trustpanel-clear-cookies-subview-button-clear = Borrar
 trustpanel-clear-cookies-subview-button-cancel = Cancelar
 trustpanel-connection-secure = Estás conectado de forma segura a este sitio.
