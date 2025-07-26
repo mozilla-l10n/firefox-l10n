@@ -11,6 +11,10 @@ experimental-features-css-masonry-description = Activează un suport experimenta
 # by various online articles and is technical in nature.
 experimental-features-web-gpu2 =
     .label = API Web: WebGPU
+# The title of the experiment should be kept in English as it may be referenced
+# by various online articles and is technical in nature.
+experimental-features-media-jxl =
+    .label = Mediu: JPEG XL
 experimental-features-devtools-compatibility-panel =
     .label = Instrumente pentru dezvoltatori: Panou de compatibilitate
 experimental-features-devtools-compatibility-panel-description = Un panou lateral pentru inspectorul de pagini care îți afișează informații detaliate despre starea compatibilității aplicației tale cu mai multe browsere. Vezi <a data-l10n-name="bugzilla">bug 1584464</a> pentru mai multe detalii.
@@ -29,3 +33,10 @@ experimental-features-devtools-serviceworker-debugger-support =
 # "Service Worker" is an API name and is usually not translated.
 experimental-features-devtools-serviceworker-debugger-support-description = Activează un suport experimental pentru scripturi service worker în panoul Depanatorului. Această funcționalitate poate încetini Instrumentele pentru dezvoltatori și poate crește consumul de memorie.
 experimental-features-webrtc-global-mute-toggles-description = Adaugă controale la indicatorul de partajare globală WebRTC, care permit utilizatorilor să dezactiveze global sunetul microfonului și fluxul camerei.
+# JS JIT Warp project
+experimental-features-js-warp =
+    .label = JavaScript JIT: Warp
+experimental-features-js-warp-description = Activează Warp, un proiect care îmbunătățește performanța JavaScript și utilizarea memoriei.
+# Search during IME
+experimental-features-ime-search =
+    .label = Bară de adrese: afișează rezultatele în timpul compunerii IME
