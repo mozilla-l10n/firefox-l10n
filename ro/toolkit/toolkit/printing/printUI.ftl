@@ -14,10 +14,16 @@ printui-sheets-count =
        *[other] { $sheetCount } de coli de hârtie
     }
 printui-page-range-all = Tot
+printui-page-range-current = Actuală
+printui-page-range-odd = Impare
+printui-page-range-even = Pare
 printui-page-range-custom = Personalizat
 printui-page-range-label = Pagini
 printui-page-range-picker =
     .aria-label = Alege intervalul de pagini
+printui-page-custom-range-input =
+    .aria-label = Introdu intervalul de pagini personalizat
+    .placeholder = de ex. 2-6, 9, 12-16
 # Section title for the number of copies to print
 printui-copies-label = Exemplare
 printui-orientation = Orientare
@@ -34,20 +40,49 @@ printui-scale = Scară
 printui-scale-fit-to-page-width = Adaptează la lățimea paginii
 # Label for input control where user can set the scale percentage
 printui-scale-pcent = Scară
+# Section title (noun) for the two-sided print options
+printui-two-sided-printing = Tipărire față-verso
+printui-two-sided-printing-off = Dezactivat
+# Flip the sheet as if it were bound along its long edge.
+printui-two-sided-printing-long-edge = Întoarce pe latura lungă
+# Flip the sheet as if it were bound along its short edge.
+printui-two-sided-printing-short-edge = Întoarce pe latura scurtă
 # Section title for miscellaneous print options
 printui-options = Opțiuni
 printui-headers-footers-checkbox = Tipărește antete și subsoluri
 printui-backgrounds-checkbox = Tipărește fundaluri
 
+## The "Format" section, select a version of the website to print. Radio
+## options to select between the original page, selected text only, or a version
+## where the page is processed with "Reader View".
+
+# The section title.
+printui-source-label = Format
+# Option for printing the original page.
+printui-source-radio = Original
+# Option for printing just the content a user selected prior to printing.
+printui-selection-radio = Selecție
+# Option for "simplifying" the page by printing the Reader View version.
+printui-simplify-page-radio = Simplificat
+
 ##
 
 printui-color-mode-label = Mod color
-printui-color-mode-color = Culoare
+printui-color-mode-color = Color
 printui-color-mode-bw = Alb-negru
 printui-margins = Margini
 printui-margins-default = Implicite
 printui-margins-min = Minime
 printui-margins-none = Niciuna
+printui-margins-custom-inches = Personalizat (țoli)
+printui-margins-custom-mm = Personalizat (mm)
+printui-margins-custom-top = Sus
+printui-margins-custom-top-inches = Sus (țoli)
+printui-margins-custom-top-mm = Sus (mm)
+printui-margins-custom-bottom = Jos
+printui-margins-custom-bottom-inches = Jos (țoli)
+printui-margins-custom-bottom-mm = Jos (mm)
+printui-margins-custom-left = Stânga
 printui-system-dialog-link = Tipărește folosind fereastra de dialog a sistemului…
 printui-primary-button = Tipărește
 printui-primary-button-save = Salvează

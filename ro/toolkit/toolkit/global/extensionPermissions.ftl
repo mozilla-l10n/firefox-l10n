@@ -57,10 +57,13 @@ webext-perms-description-data-short-personallyIdentifyingInfo = informații de i
 webext-perms-description-data-short-searchTerms = termeni de căutare
 webext-perms-description-data-short-technicalAndInteraction = date tehnice și de interacțiune
 webext-perms-description-data-short-websiteActivity = activitate pe site-urile web
+webext-perms-description-data-short-websiteContent = conținuturile site-urilor web
 
 ## Long form to be used in `about:addons` when these data collection permissions are optional.
 
+webext-perms-description-data-long-authenticationInfo = Partajează informații de autentificare cu dezvoltatorul extensiei
 webext-perms-description-data-long-bookmarksInfo = Partajează informații despre marcaje cu dezvoltatorul extensiei
+webext-perms-description-data-long-browsingActivity = Partajează activitatea de navigare cu dezvoltatorul extensiei
 webext-perms-description-data-long-financialAndPaymentInfo = Partajează informații financiare și de plată cu dezvoltatorul extensiei
 webext-perms-description-data-long-healthInfo = Partajează informații despre sănătate cu dezvoltatorul extensiei
 webext-perms-description-data-long-locationInfo = Partajează informații despre locație cu dezvoltatorul extensiei
