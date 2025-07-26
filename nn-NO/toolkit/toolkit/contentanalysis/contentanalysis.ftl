@@ -56,7 +56,7 @@ contentanalysis-block-message = Organisasjonen din brukar programvare for å hin
 # Variables:
 #   $agent - The name of the DLP agent doing the analysis
 #   $content - Localized text describing the content being blocked, such as "Paste denied."
-contentanalysis-unspecified-error-message-content = Det oppsto ein feil under kommunikasjonen med { $agent }. { $content }
+contentanalysis-unspecified-error-message-content = Det oppstod ein feil under kommunikasjonen med { $agent }. { $content }
 # Variables:
 #   $agent - The name of the DLP agent doing the analysis
 #   $content - Localized text describing the content being blocked, such as "Paste denied."
