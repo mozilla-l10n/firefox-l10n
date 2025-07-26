@@ -83,15 +83,48 @@ printui-margins-custom-bottom = Jos
 printui-margins-custom-bottom-inches = Jos (țoli)
 printui-margins-custom-bottom-mm = Jos (mm)
 printui-margins-custom-left = Stânga
+printui-margins-custom-left-inches = Stânga (țoli)
+printui-margins-custom-left-mm = Stânga (mm)
+printui-margins-custom-right = Dreapta
+printui-margins-custom-right-inches = Dreapta (țoli)
+printui-margins-custom-right-mm = Dreapta (mm)
 printui-system-dialog-link = Tipărește folosind fereastra de dialog a sistemului…
 printui-primary-button = Tipărește
 printui-primary-button-save = Salvează
 printui-cancel-button = Anulează
+printui-close-button = Închide
 printui-loading = Se pregătește previzualizarea
+# Reported by screen readers and other accessibility tools to indicate that
+# the print preview has focus.
+printui-preview-label =
+    .aria-label = Previzualizare pentru tipărire
+printui-pages-per-sheet = Pagini pe foaie
+# This is shown next to the Print button with an indefinite loading spinner
+# when the user prints a page and it is being sent to the printer.
+printui-print-progress-indicator = Se tipărește…
+printui-print-progress-indicator-saving = Se salvează...
+
+## Paper sizes that may be supported by the Save to PDF destination:
+
+printui-paper-a5 = A5
+printui-paper-a4 = A4
+printui-paper-a3 = A3
+printui-paper-a2 = A2
+printui-paper-a1 = A1
+printui-paper-a0 = A0
+printui-paper-b5 = B5
+printui-paper-b4 = B4
+printui-paper-jis-b5 = JIS-B5
+printui-paper-jis-b4 = JIS-B4
+printui-paper-letter = Scrisoare SUA
+printui-paper-legal = Juridic SUA
+printui-paper-tabloid = Tabloid
 
 ## Error messages shown when a user has an invalid input
 
 printui-error-invalid-scale = Scala trebuie să fie un număr între 10 și 200.
+printui-error-invalid-margin = Introdu o margine validă pentru dimensiunea hârtiei selectate.
+printui-error-invalid-copies = Exemplarele trebuie să fie un număr între 1 și 10000.
 # Variables
 # $numPages (integer) - Number of pages
 printui-error-invalid-range = Intervalul trebuie să fie un număr între 1 și { $numPages }.
