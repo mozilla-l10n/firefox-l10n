@@ -45,6 +45,8 @@ avatar-selector-save-button =
     .label = Сохранить
 avatar-selector-upload-file = Загрузить файл
 avatar-selector-drag-file = Или перетащите файл сюда
+avatar-selector-add-image = Добавить изображение
+avatar-selector-crop = Обрезать
 edit-profile-page-no-name = Дайте имя этому профилю, чтобы легче находить его позже. Изменяйте его имя в любое время.
 edit-profile-page-duplicate-name = Имя профиля уже используется. Попробуйте новое имя.
 edit-profile-page-profile-saved = Сохранено
@@ -114,22 +116,66 @@ book-avatar-alt =
     .alt = Книга
 briefcase-avatar-alt =
     .alt = Портфель
+# Canvas refers to an artist's painting canvas, not the general material
+canvas-avatar-alt =
+    .alt = Canvas
 flower-avatar-alt =
     .alt = Цветок
+folder-avatar-alt =
+    .alt = Папка
+hammer-avatar-alt =
+    .alt = Молоток
 heart-avatar-alt =
     .alt = Сердце
+heart-rate-avatar-alt =
+    .alt = Пульс
+history-avatar-alt =
+    .alt = История
+# Message refers to a text message, not a traditional letter/envelope message
+message-avatar-alt =
+    .alt = Сообщение
+palette-avatar-alt =
+    .alt = Палитра
+plane-avatar-alt =
+    .alt = Самолет
 shopping-avatar-alt =
     .alt = Тележка покупателя
+sparkle-single-avatar-alt =
+    .alt = Искра
 star-avatar-alt =
     .alt = Звёздочка
 custom-avatar-alt =
     .alt = Свой аватар
+# Default favicon refers to the generic globe/world icon that appears in browser tabs when a website doesn't have its own favicon.
+default-favicon-avatar-alt =
+    .alt = Значок по умолчанию
+barbell-avatar-alt =
+    .alt = Штанга
+bike-avatar-alt =
+    .alt = Велосипед
 
 ## Labels for default avatar icons
 
 book-avatar = Книга
 briefcase-avatar = Портфель
+# Canvas refers to an artist's painting canvas, not the general material
+canvas-avatar = Canvas
+custom-avatar = Свой аватар
+# Default favicon refers to the generic globe/world icon that appears in browser tabs when a website doesn't have its own favicon.
+default-favicon-avatar = Значок по умолчанию
 flower-avatar = Цветок
+folder-avatar = Папка
+hammer-avatar = Молоток
 heart-avatar = Сердце
+heart-rate-avatar = Пульс
+history-avatar = История
+# Message refers to a text message, not a traditional letter/envelope message
+message-avatar = Сообщение
+musical-note-avatar = Звуковая нота
+palette-avatar = Палитра
+plane-avatar = Самолет
 shopping-avatar = Тележка покупателя
+soccer-avatar = Футбол
+sparkle-single-avatar = Искра
 star-avatar = Звёздочка
+bike-avatar = Велосипед

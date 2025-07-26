@@ -52,6 +52,7 @@ about-logging-preset-webcodecs-label = WebCodecs
 about-logging-preset-webcodecs-description = Модули журнала для диагностики проблем с аудио/видео-декодерами и кодировщиками WebCodecs, а также декодерами изображений
 about-logging-preset-ml-label = Машинное обучение
 about-logging-preset-ml-description = Модули журнала для диагностики проблем машинного обучения
+about-logging-preset-web-compat-label = Веб-совместимость
 about-logging-preset-webgpu-label = WebGPU
 about-logging-preset-webgpu-description = Модули журнала для диагностики проблем WebGPU
 about-logging-preset-gfx-label = Графика

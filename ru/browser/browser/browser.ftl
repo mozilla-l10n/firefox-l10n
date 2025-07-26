@@ -207,6 +207,9 @@ urlbar-result-menu-show-less-frequently =
     .label = Показывать реже
 urlbar-result-menu-dont-show-weather-suggestions =
     .label = Не показывать предложения о погоде
+# Used for Split Button.
+urlbar-splitbutton-dropmarker =
+    .title = Открыть меню
 # A message shown in the urlbar when the user submits feedback on a suggestion
 # (e.g., it shows an inaccurate location, it's shown too often, etc.).
 urlbar-feedback-acknowledgment = Спасибо за ваш отзыв
@@ -828,6 +831,8 @@ urlbar-searchmode-default =
 urlbar-searchmode-popup-description = В этот раз искать в:
 urlbar-searchmode-popup-search-settings-menuitem =
     .label = Параметры поиска
+# Label shown next to a new search engine in the Searchmode Switcher popup to promote it.
+urlbar-searchmode-new = Создать
 # Searchmode Switcher button
 # Variables:
 #   $engine (String): the current default search engine.
@@ -1155,6 +1160,10 @@ tabs-toolbar-list-all-tabs =
     .label = Список всех вкладок
     .tooltiptext = Список всех вкладок
 
+## Drop indicator text for pinned tabs when no tabs are pinned.
+
+pinned-tabs-drop-indicator = Перетащите сюда вкладку, чтобы закрепить
+
 ## Infobar shown at startup to suggest session-restore
 
 # <img data-l10n-name="icon"/> will be replaced by the application menu icon
@@ -1331,3 +1340,59 @@ onboarding-checklist-button-label = Завершить настройку
 onboarding-aw-finish-setup-button =
     .label = Завершить настройку
     .tooltiptext = Завершение настройки { -brand-short-name }
+
+## The urlbar trust panel
+
+trustpanel-etp-label-enabled = Улучшенная защита от отслеживания включена
+trustpanel-etp-label-disabled = Улучшенная защита от отслеживания отключена
+# Variables
+#  $host (String): the hostname of the site that is being displayed.
+trustpanel-etp-toggle-on =
+    .aria-label = Улучшенная защита от отслеживания: Включена для { $host }
+# Variables
+#  $host (String): the hostname of the site that is being displayed.
+trustpanel-etp-toggle-off =
+    .aria-label = Улучшенная защита от отслеживания: Отключена для { $host }
+trustpanel-etp-description-enabled = Если что-то на этом сайте не работает, попробуйте отключить защиту.
+trustpanel-etp-description-disabled = { -brand-product-name } считает, что компании должны меньше следить за вами. Когда вы включаете защиту, мы блокируем столько трекеров, сколько можем.
+trustpanel-connection-label-secure = Защищённое соединение
+trustpanel-connection-label-insecure = Незащищённое соединение
+trustpanel-header-enabled = { -brand-product-name } на страже
+trustpanel-description-enabled = Вы защищены. Если мы что-то заметим, сообщим вам
+trustpanel-header-disabled = Вы отключили защиту
+trustpanel-description-disabled = { -brand-product-name } не защищает. Мы предлагаем снова включить защиту.
+trustpanel-clear-cookies-button = Удалить куки и данные сайтов
+trustpanel-privacy-link = Настройки приватности
+# Variables
+#  $host (String): the hostname of the site that is being displayed.
+trustpanel-clear-cookies-header =
+    .title = Удалить куки и данные сайта для { $host }
+trustpanel-clear-cookies-description = Удаление кук и данных сайтов может привести к разлогину на веб-сайтах и очищению корзины покупок.
+trustpanel-clear-cookies-subview-button-clear = Очистить
+trustpanel-clear-cookies-subview-button-cancel = Отмена
+# Variables
+#  $host (String): the hostname of the site that is being displayed.
+trustpanel-site-information-header =
+    .title = Защита соединения с { $host }
+trustpanel-connection-secure = Вы подключились к этому сайту по защищённому соединению.
+trustpanel-connection-not-secure = Вы подключились к этому сайту по незащищённому соединению.
+trustpanel-siteinformation-morelink = Больше информации о сайте
+trustpanel-blocker-see-all = Показать все
+# Variables
+#  $host (String): the hostname of the site that is being displayed.
+trustpanel-blocker-header =
+    .title = Защита от отслеживания на { $host }
+
+## Variables
+##  $count (String): the number of trackers blocked.
+
+trustpanel-blocker-section-header =
+    { $count ->
+        [one] <span>{ $count }</span> трекер заблокирован на этом сайте
+        [few] <span>{ $count }</span> трекера заблокировано на этом сайте
+       *[many] <span>{ $count }</span> трекеров заблокировано на этом сайте
+    }
+trustpanel-blocker-description = { -brand-product-name } считает, что компании должны меньше следить за вами. Поэтому мы блокируем столько, сколько можем.
+trustpanel-blocked-header = { -brand-product-name } заблокировал для вас это:
+trustpanel-insecure-section-header = Ваше соединение не защищено
+trustpanel-list-label-tracking-content = Отслеживающее содержимое
