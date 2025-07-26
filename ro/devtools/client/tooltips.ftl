@@ -46,6 +46,9 @@ inactive-css-not-table = <strong>{ $property }</strong> nu are niciun efect asup
 inactive-css-collapsed-table-borders = <strong>{ $property }</strong> nu are niciun efect asupra acestui element pentru că este tabel cu marginile restrânse.
 inactive-css-not-table-cell = <strong>{ $property }</strong> nu are niciun efect asupra acestui element pentru că nu este celulă de tabel.
 inactive-scroll-padding-when-not-scroll-container = <strong>{ $property }</strong> nu are niciun efect asupra acestui element pentru că nu se derulează.
+inactive-css-border-image = <strong>{ $property }</strong> nu are niciun efect asupra acestui element pentru că nu poate fi aplicat la elemente interne din tabel unde <strong>border-collapse</strong> e setat pe <strong>collapse</strong> în elementul-părinte din tabel.
+inactive-css-resize = <strong>{ $property }</strong> nu are niciun efect asupra acestui element pentru că poate fi aplicat numai elementelor cu o valoare de depășire alta decât cea vizibilă și anumitor elemente înlocuite, cum ar fi zonele de text.
+inactive-css-ruby-element = <strong>{ $property }</strong> nu are niciun efect asupra acestui element pentru că este un element ruby. Mărimea lui este determinată de mărirea fontului textului ruby.
 
 ## In the Rule View when a CSS property cannot be successfully applied we display
 ## an icon. When this icon is hovered this message is displayed to explain why
@@ -56,6 +59,8 @@ inactive-scroll-padding-when-not-scroll-container = <strong>{ $property }</stron
 ##   $property (string) - A CSS property name e.g. "color".
 ##   $display (string) - A CSS display value e.g. "inline-block".
 
+inactive-css-highlight-pseudo-elements-not-supported = <strong>{ $property }</strong> nu este acceptat pe pseudoelemente de evidențiere.
+inactive-css-cue-pseudo-element-not-supported = <strong>{ $property }</strong> nu este acceptat pe pseudoelemente ::cue.
 # Variables:
 #   $lineCount (integer) - The number of lines the element has.
 inactive-css-text-wrap-balance-lines-exceeded =
@@ -64,6 +69,8 @@ inactive-css-text-wrap-balance-lines-exceeded =
         [few] <strong>{ $property }</strong> nu are niciun efect asupra acestui element pentru că are mai mult de { $lineCount } linii.
        *[other] <strong>{ $property }</strong> nu are niciun efect asupra acestui element pentru că are mai mult de { $lineCount } de linii.
     }
+inactive-css-text-wrap-balance-fragmented = <strong>{ $property }</strong> nu are niciun efect asupra acestui element pentru că e fragmentat, adică are conținutul împărțit pe mai multe coloane sau pagini.
+inactive-css-no-width-height = <strong>{ $property }</strong> nu are niciun efect asupra acestui element pentru că nu i se pot seta lățimea și înălțimea.
 
 ## In the Rule View when a CSS property cannot be successfully applied we display
 ## an icon. When this icon is hovered this message is displayed to explain how
@@ -71,6 +78,7 @@ inactive-css-text-wrap-balance-lines-exceeded =
 ## not be translated.
 
 inactive-css-not-grid-or-flex-container-fix = Încearcă să adaugi <strong>display:grid</strong> sau <strong>display:flex</strong>. { learn-more }
+inactive-css-not-grid-or-flex-or-block-container-fix = Încearcă să adaugi <strong>display:grid</strong>, <strong>display:flex</strong> sau <strong>display:block</strong>. { learn-more }
 inactive-css-not-grid-or-flex-container-or-multicol-container-fix = Încearcă să adaugi <strong>display:grid</strong>, <strong>display:flex</strong> sau <strong>columns:2</strong>. { learn-more }
 inactive-css-column-span-fix = Încearcă să adaugi <strong>column-count</strong> sau <strong>column-width</strong> la unul dintre elementele-părinte. { learn-more }
 inactive-css-not-grid-item-fix-2 = Încearcă să adaugi <strong>display:grid</strong> or <strong>display:inline-grid</strong> la părintele elementului. { learn-more }
@@ -83,6 +91,7 @@ inactive-css-non-replaced-inline-or-table-column-or-column-group-fix = Încearc�
 inactive-css-not-display-block-on-floated-fix = Încearcă să elimini <strong>float</strong> sau să adaugi <strong>display:block</strong>. { learn-more }
 inactive-css-position-property-on-unpositioned-box-fix = Încearcă să îi setezi proprietatea <strong>poziție</strong> pe altceva decât <strong>static</strong>. { learn-more }
 inactive-text-overflow-when-no-overflow-fix = Încearcă să adaugi <strong>overflow:hidden</strong>. { learn-more }
+inactive-css-text-wrap-balance-lines-exceeded-fix = Încercați să reduceți numărul de rânduri. { learn-more }
 
 ## In the Rule View when a CSS property may have compatibility issues with other browsers
 ## we display an icon. When this icon is hovered this message is displayed to explain why

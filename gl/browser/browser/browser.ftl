@@ -1426,4 +1426,41 @@ trustpanel-tracking-cookies-blocking-tab-header =
         [one] { -brand-product-name } bloqueou { $count } cookie de seguimento entre sitios
        *[other] { -brand-product-name } bloqueou { $count } cookies de seguimento entre sitios
     }
+trustpanel-tracking-cookies-not-blocking-tab-header =
+    { $count ->
+        [one] { -brand-product-name } permitiu { $count } cookie de seguimento entre sitios
+       *[other] { -brand-product-name } permitiu { $count } cookies de seguimento entre sitios
+    }
+trustpanel-tracking-cookies-tab-list-header = Estes sitios están tentando rastrexarte:
+trustpanel-tracking-content-blocking-tab-header =
+    { $count ->
+        [one] { -brand-product-name } bloqueou { $count } rastrexador
+       *[other] { -brand-product-name } bloqueou { $count } rastrexadores
+    }
+trustpanel-tracking-content-not-blocking-tab-header =
+    { $count ->
+        [one] { -brand-product-name } permitiu { $count } rastrexador
+       *[other] { -brand-product-name } permitiu { $count } rastrexadores
+    }
+trustpanel-tracking-content-tab-list-header = Estes sitios están tentando rastrexarte:
+trustpanel-fingerprinter-blocking-tab-header =
+    { $count ->
+        [one] { -brand-product-name } bloqueou { $count } identificador de pegada dixital
+       *[other] { -brand-product-name } bloqueou { $count } identificadores de pegadas dixitais
+    }
+trustpanel-fingerprinter-not-blocking-tab-header =
+    { $count ->
+        [one] { -brand-product-name } permitiu { $count } identificador de pegada dixital
+       *[other] { -brand-product-name } permitiu { $count } identificadores de pegadas dixitais
+    }
+trustpanel-cryptominer-blocking-tab-header =
+    { $count ->
+        [one] { -brand-product-name } bloqueou { $count } criptomineiro
+       *[other] { -brand-product-name } bloqueou { $count } criptomineiros
+    }
+trustpanel-cryptominer-not-blocking-tab-header =
+    { $count ->
+        [one] { -brand-product-name } permitiu { $count } criptomineiro
+       *[other] { -brand-product-name } permitiu { $count } criptomineiros
+    }
 trustpanel-cryptominer-tab-list-header = Estes sitios están tentando criptominar:

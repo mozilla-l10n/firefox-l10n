@@ -20,6 +20,7 @@ styleeditor-save-button = Salvează
     .accesskey = S
 styleeditor-options-button =
     .tooltiptext = Opțiuni editor de stiluri
+styleeditor-at-rules = Reguli @
 styleeditor-editor-textbox =
     .data-placeholder = Tastează CSS aici.
 styleeditor-no-stylesheet = Pagina nu are nicio fișă de stil.

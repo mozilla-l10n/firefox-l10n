@@ -114,7 +114,16 @@ fxa-adoption-passwords-primary-button-label = Rexistrarse
 
 ## Windows 10 EoS Sync messages group 1 callouts
 
+windows-10-eos-sync-urgency-title-1 = Non perdas todo o que gardaches cando te movas a Windows 11.
+windows-10-eos-sync-urgency-subtitle-1 = Sincroniza agora para manter os teus marcadores, contrasinais e configuracións de { -brand-short-name } seguros e fáciles de restaurar.
+windows-10-eos-sync-urgency-title-2 = Dicíndolle adeus de Windows 10? Protexe os teus datos ao cambiar.
+windows-10-eos-sync-urgency-subtitle-2 = Aínda que non utilices { -brand-short-name } a diario, sincronízate para manter os marcadores e os contrasinais seguros e accesibles.
+windows-10-eos-sync-new-device-title-1 = Non te arrisques a comezar de novo no teu próximo dispositivo.
+windows-10-eos-sync-new-device-subtitle-1 = Sincroniza para levar contigo os teus marcadores, contrasinais e configuracións preferidas de { -brand-short-name } cando te movas.
+windows-10-eos-sync-new-device-title-2 = Movéndote a un dispositivo novo? Non perdas o que importa.
+windows-10-eos-sync-new-device-subtitle-2 = Non importa a frecuencia coa que uses { -brand-short-name }, a sincronización protexe os teus marcadores, contrasinais e configuración.
 windows-10-eos-sync-new-device-primary-label = Sincronizar agora
+windows-10-eos-sync-general-title-1 = Protexe o { -brand-short-name } que fixeches teu.
 
 ## Sidebar Strings
 
