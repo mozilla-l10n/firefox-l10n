@@ -431,10 +431,16 @@ onboarding-checklist-sign-up = 注册或登录账户
 
 tab-groups-onboarding-feature-callout-title = 用标签页群组摆脱繁乱，专注浏览
 tab-groups-onboarding-feature-callout-subtitle = 将标签页拖放到另一个标签页之上，即可创建首个群组，让标签页井井有条。
+# The text "list all tabs" refers to the string tabs-toolbar-list-all-tabs
+tab-groups-onboarding-create-group-title-3 = 随时可在“列出所有标签页”菜单找到标签页群组。
 tab-groups-onboarding-create-group-title-2 = 可随时在此找到您的标签页群组。
 tab-groups-onboarding-create-group-no-alltabs-button-title = 在地址栏搜索即可找到您的群组。
+# The text "list all tabs" refers to the string tabs-toolbar-list-all-tabs
+tab-groups-onboarding-saved-groups-title-3 = 关闭标签页群组后，可随时从“列出所有标签页”菜单重新打开。
 tab-groups-onboarding-saved-groups-title-2 = 关闭的标签页群组可随时在此处重新打开。
 tab-groups-onboarding-saved-groups-no-alltabs-button-title-2 = 在地址栏中搜索即可查找已关闭的群组。
+# The text "list all tabs" refers to the string tabs-toolbar-list-all-tabs
+tab-groups-onboarding-session-restore-title-2 = 随时可从“列出所有标签页”菜单重新打开标签页群组。
 tab-groups-onboarding-session-restore-title = 可随时在此重新打开您的标签页群组。
 tab-groups-onboarding-dismiss = 确定
 

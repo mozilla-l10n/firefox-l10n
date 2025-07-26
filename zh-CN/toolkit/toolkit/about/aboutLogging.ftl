@@ -29,6 +29,7 @@ about-logging-no-log-modules = 无
 about-logging-no-log-file = 无
 about-logging-logging-preset-selector-text = 日志预设置：
 about-logging-with-profiler-stacks-checkbox = 启用日志消息的堆栈跟踪
+about-logging-with-javascript-tracing-checkbox = 启用 JavaScript 跟踪
 about-logging-menu =
     .title = 高级选项
 
@@ -52,6 +53,8 @@ about-logging-preset-webcodecs-label = WebCodec
 about-logging-preset-webcodecs-description = 用于诊断 WebCodec 音/视频解码器和编码器，以及图像解码器问题的日志模块
 about-logging-preset-ml-label = 机器学习
 about-logging-preset-ml-description = 用于诊断机器学习问题的日志模块
+about-logging-preset-web-compat-label = Web Compat
+about-logging-preset-web-compat-description = 用于诊断 Web 兼容性问题的日志模块
 about-logging-preset-webgpu-label = WebGPU
 about-logging-preset-webgpu-description = 用于诊断 WebGPU 问题的日志模块
 about-logging-preset-gfx-label = 图形

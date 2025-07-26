@@ -539,6 +539,8 @@ newtab-custom-wallpaper-cta = 试试看
 
 ## Strings for new user activation custom wallpaper highlight
 
+newtab-new-user-custom-wallpaper-title = 选张壁纸，让 { -brand-product-name } 独具个性
+newtab-new-user-custom-wallpaper-subtitle = 自定义壁纸和颜色，让新标签页亲切如家。
 newtab-new-user-custom-wallpaper-cta = 现在就试试
 
 ## Strings for download mobile highlight

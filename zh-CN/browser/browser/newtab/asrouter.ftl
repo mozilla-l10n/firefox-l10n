@@ -344,3 +344,8 @@ multi-cta-fox-doodle-msix-privacy-focused-subtitle = 随时随地一键打开您
 ## Windows 10 EoS Sync messages group 1 spotlight
 
 windows-10-eos-sync-spotlight-primary-label = 备份 { -brand-short-name }
+
+## Windows 10 EoS Sync messages group 1 toast notification
+
+windows-10-eos-sync-toast-title = 要升级到 Windows 11？别忘了带上书签和密码。
+windows-10-eos-sync-toast-secondary-label = 稍后提醒
