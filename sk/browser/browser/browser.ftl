@@ -1430,3 +1430,18 @@ trustpanel-list-label-cryptominer =
         [many] { $count } ťažiarov kryptomien
        *[other] { $count } ťažiarov kryptomien
     }
+trustpanel-social-tracking-blocking-tab-header =
+    { $count ->
+        [one] { -brand-product-name } zablokoval { $count } sledovací prvok sociálnych médií
+        [few] { -brand-product-name } zablokoval { $count } sledovacie prvky sociálnych médií
+        [many] { -brand-product-name } zablokoval { $count } sledovacích prvkov sociálnych médií
+       *[other] { -brand-product-name } zablokoval { $count } sledovacích prvkov sociálnych médií
+    }
+trustpanel-social-tracking-not-blocking-tab-header =
+    { $count ->
+        [one] { -brand-product-name } povolil { $count } sledovací prvok sociálnych médií
+        [few] { -brand-product-name } povolil { $count } sledovacie prvky sociálnych médií
+        [many] { -brand-product-name } povolil { $count } sledovacích prvkov sociálnych médií
+       *[other] { -brand-product-name } povolil { $count } sledovacích prvkov sociálnych médií
+    }
+trustpanel-social-tracking-tab-list-header = Tieto stránky sa vás snažia sledovať:
