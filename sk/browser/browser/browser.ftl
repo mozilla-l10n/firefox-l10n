@@ -1445,3 +1445,47 @@ trustpanel-social-tracking-not-blocking-tab-header =
        *[other] { -brand-product-name } povolil { $count } sledovacích prvkov sociálnych médií
     }
 trustpanel-social-tracking-tab-list-header = Tieto stránky sa vás snažia sledovať:
+trustpanel-tracking-cookies-blocking-tab-header =
+    { $count ->
+        [one] { -brand-product-name } zablokoval { $count } sledovací súbor cookie tretích strán
+        [few] { -brand-product-name } zablokoval { $count } sledovacie súbory cookies tretích strán
+        [many] { -brand-product-name } zablokoval { $count } sledovacích súborov cookies tretích strán
+       *[other] { -brand-product-name } zablokoval { $count } sledovacích súborov cookies tretích strán
+    }
+trustpanel-tracking-cookies-not-blocking-tab-header =
+    { $count ->
+        [one] { -brand-product-name } povolil { $count } sledovací súbor cookie tretích strán
+        [few] { -brand-product-name } povolil { $count } sledovacie súbory cookies tretích strán
+        [many] { -brand-product-name } povolil { $count } sledovacích súborov cookies tretích strán
+       *[other] { -brand-product-name } povolil { $count } sledovacích súborov cookies tretích strán
+    }
+trustpanel-tracking-cookies-tab-list-header = Tieto stránky sa vás snažia sledovať:
+trustpanel-tracking-content-blocking-tab-header =
+    { $count ->
+        [one] { -brand-product-name } zablokoval { $count } sledovací prvok
+        [few] { -brand-product-name } zablokoval { $count } sledovacie prvky
+        [many] { -brand-product-name } zablokoval { $count } sledovacích prvkov
+       *[other] { -brand-product-name } zablokoval { $count } sledovacích prvkov
+    }
+trustpanel-tracking-content-not-blocking-tab-header =
+    { $count ->
+        [one] { -brand-product-name } povolil { $count } sledovací prvok
+        [few] { -brand-product-name } povolil { $count } sledovacie prvky
+        [many] { -brand-product-name } povolil { $count } sledovacích prvkov
+       *[other] { -brand-product-name } povolil { $count } sledovacích prvkov
+    }
+trustpanel-tracking-content-tab-list-header = Tieto stránky sa vás snažia sledovať:
+trustpanel-fingerprinter-blocking-tab-header =
+    { $count ->
+        [one] { -brand-product-name } zablokoval { $count } čítačku digitálnych odtlačkov
+        [few] { -brand-product-name } zablokoval { $count } čítačky digitálnych odtlačkov
+        [many] { -brand-product-name } zablokoval { $count } čítačiek digitálnych odtlačkov
+       *[other] { -brand-product-name } zablokoval { $count } čítačiek digitálnych odtlačkov
+    }
+trustpanel-fingerprinter-not-blocking-tab-header =
+    { $count ->
+        [one] { -brand-product-name } povolil { $count } čítačku digitálnych odtlačkov
+        [few] { -brand-product-name } povolil { $count } čítačky digitálnych odtlačkov
+        [many] { -brand-product-name } povolil { $count } čítačiek digitálnych odtlačkov
+       *[other] { -brand-product-name } povolil { $count } čítačiek digitálnych odtlačkov
+    }

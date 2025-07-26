@@ -25,8 +25,19 @@ process-type-prealloc = Prealocat
 ##
 ## Localization for Gecko process types defined in GeckoProcessTypes.h
 
+process-type-default = Principal
+process-type-tab = Filă
 # process used to communicate with the GPU for
 # graphics acceleration
 process-type-gpu = GPU
 # process used to perform network operations
 process-type-socket = Socket
+# process used to decode media
+process-type-rdd = RDD
+# process used to run inference
+process-type-inference = Inferență
+# process used to run some IPC actor in their own sandbox
+process-type-utility = Actor IPC în sandbox
+process-type-utility-actor-audio-decoder-generic = Utilitar decodificator audio generic
+process-type-utility-actor-audio-decoder-applemedia = Utilitar AppleMedia
+process-type-utility-actor-audio-decoder-wmf = Utilitar Windows Media Foundation

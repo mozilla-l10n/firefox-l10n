@@ -539,6 +539,10 @@ newtab-custom-wallpaper-title = Vlastné tapety sú tu
 newtab-custom-wallpaper-subtitle = Nahrajte svoju vlastnú tapetu alebo si vyberte vlastnú farbu a prispôsobte si svoj { -brand-product-name }.
 newtab-custom-wallpaper-cta = Vyskúšajte to
 
+## Strings for new user activation custom wallpaper highlight
+
+newtab-new-user-custom-wallpaper-cta = Vyskúšajte si to hneď teraz
+
 ## Strings for download mobile highlight
 
 newtab-download-mobile-highlight-title = Stiahnite si { -brand-product-name } pre mobilné zariadenia
