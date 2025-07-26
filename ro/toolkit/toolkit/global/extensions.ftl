@@ -53,7 +53,7 @@ webext-perms-sideload-cancel =
     .accesskey = C
 # Variables:
 #   $extension (String): replaced with the localized name of the extension.
-webext-perms-update-text2 = %S a fost actualizată. Trebuie să aprobi permisiuni noi înainte de instalarea versiunii actualizate. Dacă alegi „Anulează”, vei menține versiunea actuală a extensiei.
+webext-perms-update-text2 = { $extension } a fost actualizată. Trebuie să aprobi permisiuni noi înainte de instalarea versiunii actualizate. Dacă alegi „Anulează”, vei menține versiunea actuală a extensiei.
 # Variables:
 #   $extension (String): replaced with the localized name of the extension.
 webext-perms-update-text = { $extension } a fost actualizat. Trebuie să aprobi permisiuni noi înainte de instalarea versiunii actualizate. Dacă alegi „Anulează”, vei menține versiunea actuală a extensiei. Această extensie va avea permisiunea:

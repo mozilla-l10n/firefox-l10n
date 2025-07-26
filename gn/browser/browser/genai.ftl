@@ -99,7 +99,7 @@ genai-menu-ask-generic-2 =
     .accesskey = h
 # $provider (string) - name of the provider
 genai-menu-ask-provider-2 =
-    .label = Eporandu { $proveedor }-pe
+    .label = Eporandu { $provider }-pe
     .accesskey = h
 genai-menu-no-provider-2 =
     .label = Eporandu IA Chatbot-pe
