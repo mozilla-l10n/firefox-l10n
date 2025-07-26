@@ -12,6 +12,8 @@ neterror-blocked-by-policy-page-title = Pagină blocată
 neterror-captive-portal-page-title = Autentifică-te în rețea
 neterror-dns-not-found-title = Server negăsit
 neterror-malformed-uri-page-title = URL nevalid
+general-body-title = Ai grijă. Ceva nu pare în regulă.
+problem-with-this-site-title = Se pare că e o problemă cu acest site
 
 ## Error page actions
 
@@ -24,7 +26,11 @@ neterror-pref-reset-button = Restaurează setările implicite
 neterror-return-to-previous-page-button = Întoarce-te
 neterror-return-to-previous-page-recommended-button = Întoarce-te (Recomandat)
 neterror-try-again-button = Încearcă din nou
+neterror-add-exception-button = Continuă întotdeauna pentru acest site
+neterror-settings-button = Modifică setările DNS
 neterror-view-certificate-link = Vezi certificatul
+neterror-trr-continue-this-time = Continuă de data aceasta
+neterror-disable-native-feedback-warning = Continuă întotdeauna
 
 ##
 
@@ -37,8 +43,13 @@ neterror-generic-error = { -brand-short-name } nu poate încărca această pagin
 neterror-load-error-try-again = Site-ul ar putea fi indisponibil temporar sau prea ocupat. Încearcă din nou în câteva momente.
 neterror-load-error-connection = Dacă nu poți să încarci nicio pagină, verifică conexiunea la rețea a calculatorului.
 neterror-load-error-firewall = Dacă calculatorul sau rețeaua este protejat(ă) de un firewall sau proxy, asigură-te că { -brand-short-name } are permisiunea de a accesa webul.
+# This warning is only shown on macOS Sequoia and later (see bug 1929377)
+neterror-load-osx-permission = Dacă încerci să încarci o pagină din rețeaua locală, verifică dacă { -brand-short-name } a primit permisiuni pentru Rețeaua Locală în setările de Confidențialitate și Securitate macOS.
 neterror-http-error-page = Verifică dacă ai introdus corect adresa site-ului web.
 neterror-captive-portal = Trebuie să te autentifici în această rețea ca să poți accesa internetul.
+# Variables:
+# $hostAndPath (String) - a suggested site (e.g. "www.example.com") that the user may have meant instead.
+neterror-dns-not-found-with-suggestion = Ai vrut să mergi la <a data-l10n-name="website">{ $hostAndPath }</a>?
 neterror-dns-not-found-hint-header = <strong>Dacă ai introdus adresa corectă, poți:</strong>
 neterror-dns-not-found-hint-try-again = Încearcă din nou mai târziu
 neterror-dns-not-found-hint-check-network = Verifică-ți conexiunea la rețea
@@ -151,7 +162,8 @@ certerror-mitm-what-can-you-do-about-it-attack-sts = Dacă nu ești familiarizat
 certerror-what-should-i-do-bad-sts-cert-explanation = <b>{ $hostname }</b> are o politică de securitate numită HTTP Strict Transport Security (HSTS), ceea ce înseamnă că { -brand-short-name } se poate conecta la acesta numai în mod securizat. Nu poți adăuga o excepție pentru a vizita acest site.
 cert-error-trust-certificate-transparency-what-can-you-do-about-it = Probabil nimic pentru că trebuie să fie o problemă cu site-ul în sine.
 certerror-blocked-by-corp-headers-description = Uneori, site-urile web configurează protecții pentru ele însele și pentru persoane ca tine împotriva interacțiunilor nedorite cu alte site-uri.
-certerror-coop-learn-more = Află mai multe despre Cross Origin Opener Policies (COOP)
+certerror-coop-learn-more = Află mai multe despre Politicile privind deschiderile de origine încrucișată (Cross Origin Opener Policies, COOP)
+certerror-coep-learn-more = Află mai multe despre Politicile de înglobare de origine încrucișată (Cross Origin Embedder Policies, COEP)
 # Variables:
 #   $responsestatus (string) - HTTP response status code (e.g., 500).
 #   $responsestatustext (string) - HTTP response status text (e.g., "Internal Server Error").
