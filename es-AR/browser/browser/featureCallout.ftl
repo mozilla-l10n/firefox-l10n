@@ -120,6 +120,16 @@ windows-10-eos-sync-urgency-title-2 = ¿Diciéndole adiós a Windows 10? Proteja
 windows-10-eos-sync-urgency-subtitle-2 = Incluso si no usa { -brand-short-name } a diario, sincronice para mantener los marcadores y contraseñas seguros y accesibles.
 windows-10-eos-sync-new-device-title-1 = No se arriesgue a empezar de nuevo en un próximo dispositivo.
 windows-10-eos-sync-new-device-subtitle-1 = Sincronice para llevar sus marcadores, contraseñas y configuraciones preferidas de { -brand-short-name } cuando se mude.
+windows-10-eos-sync-new-device-title-2 = ¿Mudándose a un nuevo dispositivo? No pierda lo importante.
+windows-10-eos-sync-new-device-subtitle-2 = No importa la frecuencia con la que use { -brand-short-name }, la sincronización protege sus marcadores, contraseñas y configuración.
+windows-10-eos-sync-new-device-primary-label = Sincronizar ahora
+windows-10-eos-sync-general-title-1 = Proteja el { -brand-short-name } que hizo suyo.
+windows-10-eos-sync-general-subtitle-1 = Haga una copia de seguridad y sincronice sus contraseñas, marcadores, configuraciones y otros datos para preservar aquello con lo que cuenta.
+windows-10-eos-sync-general-title-2 = Ahora es un buen momento para hacer una copia de seguridad de sus contraseñas y marcadores.
+windows-10-eos-sync-general-subtitle-2 = Sincronice ahora para proteger las cosas en las que confía { -brand-short-name } y recupérelas en cualquier lugar y en cualquier momento.
+windows-10-eos-sync-tour-subtitle-1 = Arrastre una pestaña sobre otra para crear un grupo y mantener todo organizado.
+windows-10-eos-sync-tour-title-2 = Organícese para Windows 11.
+windows-10-eos-sync-tour-subtitle-2 = Sincronice sus marcadores, contraseñas y configuraciones para hacer una copia de seguridad antes de cambiarse.
 
 ## Sidebar Strings
 

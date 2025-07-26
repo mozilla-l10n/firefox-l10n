@@ -343,3 +343,8 @@ multi-cta-fox-doodle-privacy-focused-subtitle =
        *[other] Mantenga su navegador favorito enfocado en la privacidad a solo un clic. Establezca { -brand-short-name } como el navegador predeterminado para abrir enlaces y péguelo a la barra de tareas.
     }
 multi-cta-fox-doodle-msix-privacy-focused-subtitle = Mantenga su navegador favorito enfocado en la privacidad a solo un clic. Establezca { -brand-short-name } como el navegador predeterminado para abrir enlaces y péguelo a la barra de tareas y al menú inicio.
+
+## Windows 10 EoS Sync messages group 1 spotlight
+
+windows-10-eos-sync-spotlight-title = ¿Actualizando desde Windows 10 pronto?
+windows-10-eos-sync-spotlight-subtitle = Hacga una copia de seguridad de las contraseñas y marcadores para estar listo para dar el salto a cualquier dispositivo.
