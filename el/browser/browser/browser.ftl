@@ -1155,6 +1155,10 @@ tabs-toolbar-list-all-tabs =
     .label = Παράθεση όλων των καρτελών
     .tooltiptext = Παράθεση όλων των καρτελών
 
+## Drop indicator text for pinned tabs when no tabs are pinned.
+
+pinned-tabs-drop-indicator = Αποθέστε εδώ την καρτέλα για καρφίτσωμα
+
 ## Infobar shown at startup to suggest session-restore
 
 # <img data-l10n-name="icon"/> will be replaced by the application menu icon

@@ -303,6 +303,16 @@ tab-context-ungroup-tab =
            *[other] Αφαίρεση από ομάδες
         }
     .accesskey = Α
+# When a tab group containing the active tab is collapsed, the active tab
+# remains visible. An indicator appears at the end of the group showing the
+# number of remaining tabs that are hidden by the collapsed group,
+# e.g. "+2" for a group with 3 total tabs.
+tab-group-overflow-count = +{ $tabCount }
+tab-group-overflow-count-tooltip =
+    { $tabCount ->
+        [one] { $tabCount } καρτέλα ακόμα
+       *[other] { $tabCount } καρτέλες ακόμα
+    }
 
 ## Open/saved tab group context menu
 

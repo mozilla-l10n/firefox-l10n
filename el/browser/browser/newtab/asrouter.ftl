@@ -342,3 +342,7 @@ multi-cta-fox-doodle-privacy-focused-subtitle =
        *[other] Κρατήστε σε απόσταση ενός κλικ το αγαπημένο σας πρόγραμμα περιήγησης, που δίνει έμφαση στο απόρρητο. Ορίστε το { -brand-short-name } ως προεπιλογή για το άνοιγμα συνδέσμων και καρφιτσώστε το στη γραμμή εργασιών σας.
     }
 multi-cta-fox-doodle-msix-privacy-focused-subtitle = Κρατήστε σε απόσταση ενός κλικ το αγαπημένο σας πρόγραμμα περιήγησης, που δίνει έμφαση στο απόρρητο. Ορίστε το { -brand-short-name } ως προεπιλογή για το άνοιγμα συνδέσμων και καρφιτσώστε το στη γραμμή εργασιών και το μενού «Έναρξη» σας.
+
+## Windows 10 EoS Sync messages group 1 toast notification
+
+windows-10-eos-sync-toast-secondary-label = Υπενθύμιση αργότερα

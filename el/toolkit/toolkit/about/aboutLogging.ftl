@@ -29,6 +29,7 @@ about-logging-no-log-modules = Καμία
 about-logging-no-log-file = Κανένα
 about-logging-logging-preset-selector-text = Προκαθορισμένη καταγραφή:
 about-logging-with-profiler-stacks-checkbox = Ενεργοποίηση ιχνών στοίβας για μηνύματα καταγραφής
+about-logging-with-javascript-tracing-checkbox = Ενεργοποίηση ιχνηλάτησης JavaScript
 about-logging-menu =
     .title = Σύνθετες επιλογές
 
