@@ -1370,14 +1370,60 @@ trustpanel-connection-secure = Estás conectado de forma segura a este sitio.
 trustpanel-connection-not-secure = Non estás conectado de forma segura a este sitio.
 trustpanel-siteinformation-morelink = Máis información do sitio
 trustpanel-blocker-see-all = Ver todo
+# Variables
+#  $host (String): the hostname of the site that is being displayed.
+trustpanel-blocker-header =
+    .title = Proteccións de rastrexo para { $host }
 
 ## Variables
 ##  $count (String): the number of trackers blocked.
 
+trustpanel-blocker-section-header =
+    { $count ->
+        [one] <span>{ $count }</span> rastrexador bloqueado neste sitio
+       *[other] <span>{ $count }</span> rastrexadores bloqueados neste sitio
+    }
+trustpanel-blocker-description = { -brand-product-name } pensa que as empresas deberían seguirte menos. Así que bloqueamos tantos como podemos.
+trustpanel-blocked-header = { -brand-product-name } bloqueouche estas cousas:
+trustpanel-tracking-header = { -brand-product-name } permitiu estas cousas para que os sitios non rompan:
+trustpanel-tracking-description = Sen rastrexadores, algúns botóns, formularios e campos de inicio de sesión poden non funcionar.
 trustpanel-insecure-section-header = A túa conexión non é segura
+trustpanel-insecure-description = Os datos que estás enviando a este sitio non están cifrados. Pódense ver, roubar ou alterar.
+trustpanel-list-label-tracking-cookies =
+    { $count ->
+        [one] { $count } cookie de seguimento entre sitios
+       *[other] { $count } cookies de seguimento entre sitios
+    }
+trustpanel-list-label-tracking-content = Contido de rastrexo
 trustpanel-list-label-fingerprinter =
     { $count ->
         [one] { $count } pegada dixital
        *[other] { $count } pegadas dixitais
+    }
+trustpanel-list-label-social-tracking =
+    { $count ->
+        [one] { $count } rastrexador de redes sociais
+       *[other] { $count } rastrexadores de redes sociais
+    }
+trustpanel-list-label-cryptominer =
+    { $count ->
+        [one] { $count } criptomineiro
+       *[other] { $count } criptomineiros
+    }
+trustpanel-social-tracking-blocking-tab-header =
+    { $count ->
+        [one] { -brand-product-name } bloqueou { $count } rastrexador de redes sociais
+       *[other] { -brand-product-name } bloqueou { $count } rastrexadores de redes sociais
+    }
+trustpanel-social-tracking-not-blocking-tab-header =
+    { $count ->
+        [one] { -brand-product-name } permitiu { $count } rastrexador de redes sociais
+       *[other] { -brand-product-name } permitiu { $count } rastrexadores de redes sociais
+    }
+trustpanel-social-tracking-tab-list-header = Estes sitios están tentando rastrexarte:
+trustpanel-tracking-cookies-blocking-tab-header =
+    { $count ->
+        [one] { -brand-product-name } bloqueou { $count } cookie de seguimento entre sitios
+       *[other] { -brand-product-name } bloqueou { $count } cookies de seguimento entre sitios
     }
 trustpanel-cryptominer-tab-list-header = Estes sitios están tentando criptominar:
