@@ -123,6 +123,10 @@ webext-perms-description-data-some-update = Programer kaže da će ovo proširen
 webext-perms-description-data-some-optional = Programer kaže da ovo proširenje želi prikupljati podatke: { $permissions }
 # Variables:
 #   $extension (String): replaced with the localized name of the extension.
+webext-perms-update-text-with-data-collection = Za aktualiziranje proširenja, { $extension } zahtijeva nove postavke
+webext-perms-update-list-intro-with-data-collection = Prekini i zadrži trenutačnu verziju i postavke ili aktualiziraj za dobivanje nove verzije te odobravanje promjena.
+# Variables:
+#   $extension (String): replaced with the localized name of the extension.
 webext-perms-optional-text-with-data-collection = { $extension } zahtijeva dodatne postavke
 # Variables:
 #   $extension (String): replaced with the localized name of the extension.
