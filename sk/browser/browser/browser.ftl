@@ -1369,3 +1369,64 @@ trustpanel-privacy-link = Nastavenia ochrany súkromia
 #  $host (String): the hostname of the site that is being displayed.
 trustpanel-clear-cookies-header =
     .title = Vymazať súbory cookie a údaje stránok pre { $host }
+trustpanel-clear-cookies-description = Odstránenie súborov cookie a údajov stránok vás môže odhlásiť z webových stránok a vymazať nákupné košíky.
+trustpanel-clear-cookies-subview-button-clear = Vymazať
+trustpanel-clear-cookies-subview-button-cancel = Zrušiť
+# Variables
+#  $host (String): the hostname of the site that is being displayed.
+trustpanel-site-information-header =
+    .title = Ochrana pripojenia pre { $host }
+trustpanel-connection-secure = Pripojenie k tejto stránke je zabezpečené.
+trustpanel-connection-not-secure = Pripojenie k tejto stránke nie je zabezpečené.
+trustpanel-siteinformation-morelink = Ďalšie informácie o stránke
+trustpanel-blocker-see-all = Zobraziť všetko
+# Variables
+#  $host (String): the hostname of the site that is being displayed.
+trustpanel-blocker-header =
+    .title = Ochrana pred sledovaním pre { $host }
+
+## Variables
+##  $count (String): the number of trackers blocked.
+
+trustpanel-blocker-section-header =
+    { $count ->
+        [one] Na tejto stránke bol zablokovaný <span>{ $count }</span> sledovací prvok
+        [few] Na tejto stránke boli zablokované <span>{ $count }</span> sledovacie prvky
+        [many] Na tejto stránke bolo zablokovaných <span>{ $count }</span> sledovacích prvkov
+       *[other] Na tejto stránke bolo zablokovaných <span>{ $count }</span> sledovacích prvkov
+    }
+trustpanel-blocker-description = { -brand-product-name } si myslí, že spoločnosti by vás mali sledovať menej. Preto blokujeme toľko, koľko sa dá.
+trustpanel-blocked-header = { -brand-product-name } pre vás zablokoval tieto veci:
+trustpanel-tracking-header = { -brand-product-name } povolil tieto veci, aby stránky fungovali správne:
+trustpanel-tracking-description = Bez sledovacích prvkov nemusia niektoré tlačidlá, formuláre a prihlasovacie polia fungovať správne.
+trustpanel-insecure-section-header = Vaše pripojenie nie je zabezpečené
+trustpanel-insecure-description = Údaje, ktoré odosielate na túto stránku, nie sú šifrované. Môžu byť zobrazené, ukradnuté alebo zmenené.
+trustpanel-list-label-tracking-cookies =
+    { $count ->
+        [one] { $count } sledovací súbor cookie tretích strán
+        [few] { $count } sledovacie súbory cookies tretích strán
+        [many] { $count } sledovacích súborov cookies tretích strán
+       *[other] { $count } sledovacích súborov cookies tretích strán
+    }
+trustpanel-list-label-tracking-content = Sledovací obsah
+trustpanel-list-label-fingerprinter =
+    { $count ->
+        [one] { $count } čítačka digitálnych odtlačkov
+        [few] { $count } čítačky digitálnych odtlačkov
+        [many] { $count } čítačiek digitálnych odtlačkov
+       *[other] { $count } čítačiek digitálnych odtlačkov
+    }
+trustpanel-list-label-social-tracking =
+    { $count ->
+        [one] { $count } sledovací prvok sociálnych médií
+        [few] { $count } sledovacie prvky sociálnych médií
+        [many] { $count } sledovacích prvkov sociálnych médií
+       *[other] { $count } sledovacích prvkov sociálnych médií
+    }
+trustpanel-list-label-cryptominer =
+    { $count ->
+        [one] { $count } ťažiar kryptomien
+        [few] { $count } ťažiari kryptomien
+        [many] { $count } ťažiarov kryptomien
+       *[other] { $count } ťažiarov kryptomien
+    }
