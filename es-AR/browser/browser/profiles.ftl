@@ -170,7 +170,28 @@ bike-avatar-alt =
 book-avatar = Libro
 briefcase-avatar = Maletín
 custom-avatar = Avatar personalizado
+# Default favicon refers to the generic globe/world icon that appears in browser tabs when a website doesn't have its own favicon.
+default-favicon-avatar = Favicon predeterminado
+# Diamond refers to the precious stone, not the geometric shape
+diamond-avatar = Diamante
 flower-avatar = Flor
+folder-avatar = Carpeta
+hammer-avatar = Martillo
 heart-avatar = Corazón
+heart-rate-avatar = Frecuencia cardíaca
+history-avatar = Historial
+leaf-avatar = Hoja
+lightbulb-avatar = Lamparita
+makeup-avatar = Maquillaje
+# Message refers to a text message, not a traditional letter/envelope message
+message-avatar = Mensaje
+musical-note-avatar = Nota musical
+palette-avatar = Paleta
+paw-print-avatar = Huella
+# Present refers to a gift box, not the current time period
+present-avatar = Regalo
 shopping-avatar = Carrito de compras
+soccer-avatar = Fútbol
 star-avatar = Estrella
+video-game-controller-avatar = Controlador de videojuegos
+bike-avatar = Bicicleta
