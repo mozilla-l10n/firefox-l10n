@@ -124,6 +124,13 @@ windows-10-eos-sync-new-device-title-2 = Movéndote a un dispositivo novo? Non p
 windows-10-eos-sync-new-device-subtitle-2 = Non importa a frecuencia coa que uses { -brand-short-name }, a sincronización protexe os teus marcadores, contrasinais e configuración.
 windows-10-eos-sync-new-device-primary-label = Sincronizar agora
 windows-10-eos-sync-general-title-1 = Protexe o { -brand-short-name } que fixeches teu.
+windows-10-eos-sync-general-subtitle-1 = Fai unha copia de seguranza e sincroniza os teus contrasinais, marcadores, configuracións e outros datos para conservar o que importa.
+windows-10-eos-sync-general-title-2 = Agora é un bo momento para facer unha copia de seguranza dos teus contrasinais e marcadores.
+windows-10-eos-sync-general-subtitle-2 = Sincroniza agora para protexer as cousas nas que confía { -brand-short-name } e recupéraas en calquera lugar e en calquera momento.
+windows-10-eos-sync-tour-title-1 = Demasiadas pestanas? Ordénaas con grupos de pestanas.
+windows-10-eos-sync-tour-subtitle-1 = Arrastra unha pestana enriba doutra para crear un grupo e manter todo organizado.
+windows-10-eos-sync-tour-title-2 = Organízate para Windows 11.
+windows-10-eos-sync-tour-subtitle-2 = Sincroniza os teus marcadores, contrasinais e configuracións para facer unha copia de seguranza deles antes de cambiar.
 
 ## Sidebar Strings
 

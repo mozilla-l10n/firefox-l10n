@@ -4,6 +4,11 @@
 
 common-dialog-title-null = Această pagină spune
 common-dialog-title-system = { -brand-short-name }
+# Title displayed when the origin of a web dialog is unknown.
+common-dialog-title-unknown = Necunoscut
+# An indicator showing that Firefox is waiting for an operation to finish
+common-dialog-spinner =
+    .alt = Ocupat
 common-dialog-username =
     .value = Nume de utilizator
 common-dialog-password =

@@ -1109,7 +1109,7 @@ edit-popup-settings =
     .label = Gestionează setările ferestrelor pop-up…
     .accesskey = M
 picture-in-picture-hide-toggle =
-    .label = Ascunde comutatorul Picture-in-Picture
+    .label = Ascunde butonul de imagine-în-imagine
     .accesskey = H
 
 ## Since the default position for PiP controls does not change for RTL layout,

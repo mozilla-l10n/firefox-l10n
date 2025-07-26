@@ -344,7 +344,14 @@ multi-cta-fox-doodle-privacy-focused-subtitle =
     }
 multi-cta-fox-doodle-msix-privacy-focused-subtitle = Mantén o teu navegador favorito centrado na privacidade a só un clic de distancia. Establece { -brand-short-name } como o teu navegador predeterminado para abrir ligazóns e fíxao á túa barra de tarefas e ao menú de inicio.
 
+## Windows 10 EoS Sync messages group 1 spotlight
+
+windows-10-eos-sync-spotlight-title = Actualizando a Windows 10 pronto?
+windows-10-eos-sync-spotlight-subtitle = Fai unha copia de seguranza dos teus contrasinais e marcadores para estar listo a dar o salto a calquera dispositivo.
+windows-10-eos-sync-spotlight-primary-label = Fai unha copia de seguranza do teu { -brand-short-name }
+
 ## Windows 10 EoS Sync messages group 1 toast notification
 
+windows-10-eos-sync-toast-title = Actualizando a Windows 11? Non perdas os marcadores nin os contrasinais.
 windows-10-eos-sync-toast-primary-label = Comezar
 windows-10-eos-sync-toast-secondary-label = Lembrarmo máis tarde
