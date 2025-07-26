@@ -112,6 +112,21 @@ webext-perms-host-description-multiple-domains =
 ## Strings for data collection permissions in the permission prompt.
 
 webext-perms-description-data-none = Programer kaže da ovo proširenje ne zahtijeva prikupljanje podataka.
+# Variables:
+#    $permissions (String): a list of data collection permissions formatted with `Intl.ListFormat` using the "narrow" style.
+webext-perms-description-data-some = Programer kaže da ovo proširenje prikuplja podatke: { $permissions }
+# Variables:
+#    $permissions (String): a list of data collection permissions formatted with `Intl.ListFormat` using the "narrow" style.
+webext-perms-description-data-some-update = Programer kaže da će ovo proširenje prikupljati podatke: { $permissions }
+# Variables:
+#    $permissions (String): a list of data collection permissions formatted with `Intl.ListFormat` using the "narrow" style.
+webext-perms-description-data-some-optional = Programer kaže da ovo proširenje želi prikupljati podatke: { $permissions }
+# Variables:
+#   $extension (String): replaced with the localized name of the extension.
+webext-perms-optional-text-with-data-collection = { $extension } zahtijeva dodatne postavke
+# Variables:
+#   $extension (String): replaced with the localized name of the extension.
+webext-perms-optional-text-with-data-collection-only = { $extension } zahtijeva dodatno prikupljanje podataka
 
 ## Headers used in the webextension permissions dialog for synthetic add-ons.
 ## The part of the string describing what privileges the extension gives should be consistent
