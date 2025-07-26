@@ -17,6 +17,6 @@ crashed-send-report-2 = Šalji automatski izvještaj o prekidu rada programa kak
 crashed-comment =
     .placeholder = Neobavezni komentari (komentari su javno vidljivi)
 crashed-include-URL-2 = Uključi URL-ove otvorenih stranica prije rušenja { -brand-short-name(case: "gen") }.
-crashed-report-sent = Izvještaj o prekidu rada programa je već poslan. Hvala ti što pomažeš unaprijediti { -brand-short-name }!
+crashed-report-sent = Izvještaj o prekidu rada programa je već poslan. Hvala ti što pomažeš poboljšati { -brand-short-name }!
 crashed-request-auto-submit-title = Prijavi pozadinske kartice
 crashed-auto-submit-checkbox-2 = Aktualiziraj postavke kako bi se izvještaji o prekidu rada programa automatski slali kada { -brand-short-name } prekine raditi
