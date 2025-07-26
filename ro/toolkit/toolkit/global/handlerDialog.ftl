@@ -11,6 +11,8 @@
 ##  $extension (string) - Name of extension that initiated the request
 
 permission-dialog-description = Permiți acestui site să deschidă linkul { $scheme }?
+permission-dialog-description-file = Permiți acestui fișier să deschidă linkul { $scheme }?
+permission-dialog-description-host = Permiți { $host } să deschidă linkul { $scheme }?
 permission-dialog-description-app = Permiți acestui site să deschidă linkul { $scheme } cu { $appName }?
 
 ##

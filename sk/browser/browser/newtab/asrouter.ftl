@@ -346,3 +346,16 @@ multi-cta-fox-doodle-privacy-focused-subtitle =
        *[other] Ponechajte si svoj obľúbený prehliadač zameraný na ochranu osobných údajov jediným kliknutím. Nastavte { -brand-short-name } ako predvolený prehliadač na otváranie odkazov a pripnite ho na panel úloh.
     }
 multi-cta-fox-doodle-msix-privacy-focused-subtitle = Ponechajte si svoj obľúbený prehliadač zameraný na ochranu súkromia jediným kliknutím. Nastavte { -brand-short-name } ako predvolený prehliadač na otváranie odkazov a pripnite ho na panel úloh a ponuku Štart.
+
+## Windows 10 EoS Sync messages group 1 spotlight
+
+windows-10-eos-sync-spotlight-title = Čaká vás upgrade z Windowsu 10?
+windows-10-eos-sync-spotlight-subtitle = Zálohujte si heslá a záložky, aby ste boli pripravení prejsť na akékoľvek zariadenie.
+windows-10-eos-sync-spotlight-primary-label = Zálohujte si svoj { -brand-short-name }
+
+## Windows 10 EoS Sync messages group 1 toast notification
+
+windows-10-eos-sync-toast-title = Inovujete na Windows 11? Nestraťte záložky a heslá.
+windows-10-eos-sync-toast-subtitle = Zálohujte si svoje dáta, aby bol { -brand-short-name } kedykoľvek pripravený na použitie, na tomto alebo ďalšom počítači.
+windows-10-eos-sync-toast-primary-label = Začať
+windows-10-eos-sync-toast-secondary-label = Pripomenúť neskôr

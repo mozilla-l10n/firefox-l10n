@@ -541,6 +541,8 @@ newtab-custom-wallpaper-cta = Vyskúšajte to
 
 ## Strings for new user activation custom wallpaper highlight
 
+newtab-new-user-custom-wallpaper-title = Vyberte si tapetu a prispôsobte si { -brand-product-name }
+newtab-new-user-custom-wallpaper-subtitle = Vďaka vlastným tapetám a farbám sa budete cítiť ako doma na každej novej karte.
 newtab-new-user-custom-wallpaper-cta = Vyskúšajte si to hneď teraz
 
 ## Strings for download mobile highlight

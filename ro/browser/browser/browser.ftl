@@ -388,7 +388,7 @@ quickactions-cmd-logins = autentificări, parole
 quickactions-plugins = Gestionează pluginurile
 quickactions-cmd-plugins = pluginuri
 # Opens the print dialog
-quickactions-print2 = Imprimă pagina
+quickactions-print2 = Tipărește pagina
 quickactions-cmd-print = tipărire
 # Opens the print dialog at the save to PDF option
 quickactions-savepdf = Salvează pagina ca PDF

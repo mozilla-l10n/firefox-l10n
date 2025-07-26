@@ -99,6 +99,16 @@ genai-menu-no-provider =
     .label = Opýtajte sa AI chatbota
 genai-menu-choose-chatbot =
     .label = Vyberte si chatbota s umelou inteligenciou
+genai-menu-ask-generic-2 =
+    .label = Opýtajte sa AI chatbota
+    .accesskey = c
+# $provider (string) - name of the provider
+genai-menu-ask-provider-2 =
+    .label = Opýtajte sa { $provider }
+    .accesskey = O
+genai-menu-no-provider-2 =
+    .label = Opýtajte sa AI chatbota
+    .accesskey = c
 
 ## Chatbot header
 

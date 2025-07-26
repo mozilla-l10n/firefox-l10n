@@ -126,6 +126,7 @@ windows-10-eos-sync-new-device-primary-label = Synchronizovať
 windows-10-eos-sync-general-title-1 = Chráňte si { -brand-short-name }, ktorý ste si prispôsobili pre seba.
 windows-10-eos-sync-general-subtitle-1 = Zálohujte a synchronizujte svoje heslá, záložky, nastavenia a ďalšie údaje, aby ste si zachovali to, na čom vám záleží.
 windows-10-eos-sync-general-title-2 = Teraz je vhodný čas na zálohovanie hesiel a záložiek.
+windows-10-eos-sync-general-subtitle-2 = Synchronizujte teraz, aby ste ochránili veci, na ktorých vám záleží vo { -brand-short-name(case: "loc") } – a získajte ich späť kdekoľvek a kedykoľvek.
 windows-10-eos-sync-tour-title-1 = Príliš veľa kariet? Urobte si poriadok pomocou skupín kariet.
 windows-10-eos-sync-tour-subtitle-1 = Potiahnutím jednej karty na druhú vytvoríte skupinu a udržíte veci usporiadané.
 windows-10-eos-sync-tour-title-2 = Urobte si poriadok pre Windows 11.
