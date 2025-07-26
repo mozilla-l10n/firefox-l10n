@@ -45,6 +45,8 @@ avatar-selector-save-button =
     .label = Guardar
 avatar-selector-upload-file = Subir un archivo
 avatar-selector-drag-file = O arrastrar un archivo acá
+avatar-selector-add-image = Agregar una imagen
+avatar-selector-crop = Recortar
 edit-profile-page-no-name = Póngale nombre a este perfil para encontrarlo más fácil en el futuro. Se puede renombrar en cualquier momento.
 edit-profile-page-duplicate-name = El nombre del perfil ya está en uso. Probá un nombre nuevo.
 edit-profile-page-profile-saved = Guardado
@@ -116,19 +118,58 @@ briefcase-avatar-alt =
     .alt = Maletín
 flower-avatar-alt =
     .alt = Flor
+folder-avatar-alt =
+    .alt = Carpeta
+hammer-avatar-alt =
+    .alt = Martillo
 heart-avatar-alt =
     .alt = Corazón
+heart-rate-avatar-alt =
+    .alt = Frecuencia cardíaca
+history-avatar-alt =
+    .alt = Historial
+leaf-avatar-alt =
+    .alt = Hoja
+lightbulb-avatar-alt =
+    .alt = Lamparita
+makeup-avatar-alt =
+    .alt = Maquillaje
+# Message refers to a text message, not a traditional letter/envelope message
+message-avatar-alt =
+    .alt = Mensaje
+musical-note-avatar-alt =
+    .alt = Nota musical
+palette-avatar-alt =
+    .alt = Paleta
+paw-print-avatar-alt =
+    .alt = Huella
+# Present refers to a gift box, not the current time period
+present-avatar-alt =
+    .alt = Regalo
 shopping-avatar-alt =
     .alt = Carrito de compras
+soccer-avatar-alt =
+    .alt = Fútbol
 star-avatar-alt =
     .alt = Estrella
+video-game-controller-avatar-alt =
+    .alt = Controlador de videojuegos
 custom-avatar-alt =
     .alt = Avatar personalizado
+# Default favicon refers to the generic globe/world icon that appears in browser tabs when a website doesn't have its own favicon.
+default-favicon-avatar-alt =
+    .alt = Favicon predeterminado
+# Diamond refers to the precious stone, not the geometric shape
+diamond-avatar-alt =
+    .alt = Diamante
+bike-avatar-alt =
+    .alt = Bicicleta
 
 ## Labels for default avatar icons
 
 book-avatar = Libro
 briefcase-avatar = Maletín
+custom-avatar = Avatar personalizado
 flower-avatar = Flor
 heart-avatar = Corazón
 shopping-avatar = Carrito de compras
