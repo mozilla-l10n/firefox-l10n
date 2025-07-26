@@ -77,7 +77,7 @@ about-logging-configuration-url-ignored = Konfigurasjons-URL ignorert
 about-logging-file-and-profiler-override = Kan ikke tvinge utdata for fil og overstyre innstillinger for profilering samtidig
 # Variables:
 #   $errorText (string) - The received error message, inserted as is.
-about-logging-unknown-error = Det oppsto en feil: { $errorText }
+about-logging-unknown-error = Det oppstod en feil: { $errorText }
 about-logging-configured-via-url = Alternativ satt opp via URL
 
 ## The upload interface is shown only with the preference toolkit.aboutLogging.uploadProfileToCloud
@@ -98,7 +98,7 @@ about-logging-uploaded = Lastet opp til <a data-l10n-name="uploaded-message-url"
 about-logging-share-uploaded-url = <img data-l10n-name="share-image"/> Del URL
 # Variables:
 #   $errorText (string) - The received error message, inserted as is.
-about-logging-upload-error = Det oppsto en feil under opplasting av profilen: { $errorText }
+about-logging-upload-error = Det oppstod en feil under opplasting av profilen: { $errorText }
 # Variables:
 #   $errorText (string) - The received error message, inserted as is.
-about-logging-save-error = Det oppsto en feil under lagring av filen: { $errorText }
+about-logging-save-error = Det oppstod en feil under lagring av filen: { $errorText }
