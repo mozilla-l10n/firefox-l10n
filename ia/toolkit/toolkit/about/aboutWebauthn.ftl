@@ -87,9 +87,9 @@ about-webauthn-auth-option-clientpin = PIN del cliente
 about-webauthn-auth-option-rk = Clave residente
 about-webauthn-auth-option-plat = Apparato del platteforma
 # pinUvAuthToken should not be translated.
-about-webauthn-auth-option-pinuvauthtoken = Permissos del commando (pinUvAuthToken)
+about-webauthn-auth-option-pinuvauthtoken = Permissiones del commando (pinUvAuthToken)
 # MakeCredential and GetAssertion should not be translated.
-about-webauthn-auth-option-nomcgapermissionswithclientpin = Nulle MakeCredential/GetAssertion permissos con le PIN cliente
+about-webauthn-auth-option-nomcgapermissionswithclientpin = Necun permission MakeCredential/GetAssertion con le PIN del cliente
 about-webauthn-auth-option-largeblobs = Large blobs
 about-webauthn-auth-option-ep = Attestation de interprisa
 about-webauthn-auth-option-bioenroll = Registration biometric

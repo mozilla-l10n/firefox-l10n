@@ -44,7 +44,7 @@ neterror-load-error-try-again = Le sito pote esser temporarimente indisponibile 
 neterror-load-error-connection = Si tu non pote cargar alcun pagina, verifica le connexion de tu computator al rete.
 neterror-load-error-firewall = Si tu computator o rete es protegite per un firewall o proxy, assecura te que { -brand-short-name } es autorisate a acceder al Web.
 # This warning is only shown on macOS Sequoia and later (see bug 1929377)
-neterror-load-osx-permission = Si tu tenta cargar un pagina de rete local, verifica que a { -brand-short-name } ha essite concedite le permissos de Rete local in le macOS Privacy e le Parametros de securitate.
+neterror-load-osx-permission = Si tu tenta cargar un pagina de rete local, verifica que { -brand-short-name } dispone del permissiones de Rete local in le parametros de Privatessa e Securitate de macOS.
 neterror-http-error-page = Verifica que tu ha scribite le adresse del sito web correctemente.
 neterror-captive-portal = Tu debe aperir session in iste rete ante que tu pote acceder a internet.
 # Variables:

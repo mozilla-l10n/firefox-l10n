@@ -207,6 +207,9 @@ urlbar-result-menu-show-less-frequently =
     .label = Mostrar con menos frecuencia
 urlbar-result-menu-dont-show-weather-suggestions =
     .label = No mostrar condiciones meterológicas
+# Used for Split Button.
+urlbar-splitbutton-dropmarker =
+    .title = Abrir menú
 # A message shown in the urlbar when the user submits feedback on a suggestion
 # (e.g., it shows an inaccurate location, it's shown too often, etc.).
 urlbar-feedback-acknowledgment = Gracias por tus comentarios
@@ -826,6 +829,8 @@ urlbar-searchmode-default =
 urlbar-searchmode-popup-description = Esta vez buscar con:
 urlbar-searchmode-popup-search-settings-menuitem =
     .label = Ajustes de búsqueda
+# Label shown next to a new search engine in the Searchmode Switcher popup to promote it.
+urlbar-searchmode-new = Nuevo
 # Searchmode Switcher button
 # Variables:
 #   $engine (String): the current default search engine.
@@ -1153,6 +1158,10 @@ tabs-toolbar-list-all-tabs =
     .label = Listar todas las pestañas
     .tooltiptext = Listar todas las pestañas
 
+## Drop indicator text for pinned tabs when no tabs are pinned.
+
+pinned-tabs-drop-indicator = Suelta la pestaña aquí para fijarla
+
 ## Infobar shown at startup to suggest session-restore
 
 # <img data-l10n-name="icon"/> will be replaced by the application menu icon
@@ -1323,3 +1332,54 @@ onboarding-checklist-button-label = Finalizar la configuración
 onboarding-aw-finish-setup-button =
     .label = Finalizar la configuración
     .tooltiptext = Finalizar la configuración de { -brand-short-name }
+
+## The urlbar trust panel
+
+trustpanel-etp-label-enabled = Protección de seguimiento mejorada activada
+trustpanel-etp-label-disabled = Protección de seguimiento mejorada desactivada
+# Variables
+#  $host (String): the hostname of the site that is being displayed.
+trustpanel-etp-toggle-on =
+    .aria-label = Protección de seguimiento mejorada: Activada para { $host }
+# Variables
+#  $host (String): the hostname of the site that is being displayed.
+trustpanel-etp-toggle-off =
+    .aria-label = Protección de seguimiento mejorada: Desactivada para { $host }
+trustpanel-etp-description-enabled = Si algo parece corrupto en este sitio, prueba a desactivar las protecciones.
+trustpanel-etp-description-disabled = { -brand-product-name } cree que las empresas deberían seguirte menos. Bloqueamos todos los rastreadores posibles cuando activas las protecciones.
+trustpanel-connection-label-secure = Conexión segura
+trustpanel-connection-label-insecure = Conexión no segura
+trustpanel-header-enabled = { -brand-product-name } está en guardia
+trustpanel-description-enabled = Estás bajo protección. Si detectamos algo, te lo haremos saber
+trustpanel-header-disabled = Desactivaste las protecciones
+trustpanel-description-disabled = { -brand-product-name } está en descanso. Sugerimos reactivar las protecciones.
+trustpanel-clear-cookies-button = Limpiar cookies y datos del sitio
+trustpanel-privacy-link = Ajustes de privacidad
+# Variables
+#  $host (String): the hostname of the site that is being displayed.
+trustpanel-clear-cookies-header =
+    .title = Borrar cookies y datos del sitio para { $host }
+trustpanel-clear-cookies-description = Eliminar cookies y datos del sitio podría cerrar su sesión en los sitios web y borrar los carritos de compras.
+trustpanel-clear-cookies-subview-button-clear = Limpiar
+trustpanel-clear-cookies-subview-button-cancel = Cancelar
+# Variables
+#  $host (String): the hostname of the site that is being displayed.
+trustpanel-site-information-header =
+    .title = Protecciones de conexión para { $host }
+trustpanel-connection-secure = Está conectado de forma segura a este sitio.
+trustpanel-connection-not-secure = No estás conectado de forma segura a este sitio.
+trustpanel-siteinformation-morelink = Más información del sitio
+trustpanel-blocker-see-all = Ver todos
+# Variables
+#  $host (String): the hostname of the site that is being displayed.
+trustpanel-blocker-header =
+    .title = Protecciones de seguimiento para { $host }
+
+## Variables
+##  $count (String): the number of trackers blocked.
+
+trustpanel-blocker-section-header =
+    { $count ->
+        [one] <span>{ $count }</span> rastreador bloqueado en este sitio
+       *[other] <span>{ $count }</span> rastreadores bloqueados en este sitio
+    }

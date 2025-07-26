@@ -145,7 +145,7 @@ addon-category-sitepermission-title =
 # String displayed in about:addons in the Site Permissions section
 # Variables:
 #  $host (string) - DNS host name for which the webextension enables permissions
-addon-sitepermission-host = Permissos de sito pro { $host }
+addon-sitepermission-host = Permissiones de sito pro { $host }
 
 ## These are global warnings
 
@@ -460,7 +460,7 @@ available-updates-heading = Actualisationes disponibile
 recent-updates-heading = Actualisationes recente
 release-notes-loading = Cargamento…
 release-notes-error = Un error ha occurrite durante le cargamento del notas de version.
-addon-permissions-empty2 = Iste extension non require alcun permissos.
+addon-permissions-empty2 = Iste extension non require alcun permission.
 addon-permissions-empty = Iste extension non require alcun permission
 addon-permissions-required = Permissiones necessari pro functionalitate essential:
 addon-permissions-optional = Permissiones facultative pro functionalitate additional:

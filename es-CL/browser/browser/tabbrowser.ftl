@@ -255,6 +255,8 @@ tab-group-editor-color-selector2-gray = Gris
 tab-group-editor-color-selector2-red = Rojo
     .title = Rojo
 tab-group-description = { $tabGroupName } — Grupo de pestañas
+tab-group-label-tooltip-collapsed = { $tabGroupName } — Contraído
+tab-group-label-tooltip-expanded = { $tabGroupName } — Expandido
 tab-context-unnamed-group =
     .label = Grupo sin nombre
 tab-group-name-default = Grupo sin nombre
@@ -304,6 +306,11 @@ tab-context-ungroup-tab =
            *[other] Eliminar de los grupos
         }
     .accesskey = R
+# When a tab group containing the active tab is collapsed, the active tab
+# remains visible. An indicator appears at the end of the group showing the
+# number of remaining tabs that are hidden by the collapsed group,
+# e.g. "+2" for a group with 3 total tabs.
+tab-group-overflow-count = +{ $tabCount }
 
 ## Open/saved tab group context menu
 
