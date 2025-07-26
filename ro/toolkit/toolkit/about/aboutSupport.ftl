@@ -124,6 +124,15 @@ graphics-window-protocol = Protocol de ferestre
 # Desktop environment in use on Linux (e.g. GNOME, KDE, XFCE, etc).
 graphics-desktop-environment = Mediu desktop
 place-database-title = Bază de date cu locuri
+place-database-stats = Statistici
+place-database-stats-show = Arată statisticile
+place-database-stats-hide = Ascunde statisticile
+place-database-stats-entity = Entitate
+place-database-stats-count = Număr
+place-database-stats-size-kib = Mărime (KiB)
+place-database-stats-size-perc = Mărime (%)
+place-database-stats-efficiency-perc = Eficiență (%)
+place-database-stats-sequentiality-perc = Secvențialitate (%)
 place-database-integrity = Integritate
 place-database-verify-integrity = Verifică integritatea
 a11y-title = Accesibilitate
@@ -170,8 +179,31 @@ media-device-channels = Canale
 media-device-rate = Rată
 media-device-latency = Latență
 media-capabilities-title = Capabilități media
+media-codec-support-info = Informații privind suportul pentru codecuri
 # List all the entries of the database.
 media-capabilities-enumerate = Enumeră baza de date
+
+## Codec support table
+
+media-codec-support-sw-decoding = Decodificare software
+media-codec-support-hw-decoding = Decodificare hardware
+media-codec-support-sw-encoding = Codificare software
+media-codec-support-hw-encoding = Codificare hardware
+media-codec-support-codec-name = Nume codec
+media-codec-support-supported = Acceptat
+media-codec-support-unsupported = Neacceptat
+media-codec-support-error = Informațiile despre acceptarea codecurilor sunt indisponibile. Încearcă din nou după redarea unui fișier media.
+media-codec-support-lack-of-extension = Instalează extensia
+
+## Media Content Decryption Modules (CDM)
+## See EME Spec for more explanation for following technical terms
+## https://w3c.github.io/encrypted-media/
+
+media-content-decryption-modules-title = Informații despre modulele de decriptare a conținuturilor
+media-key-system-name = Denumire sistem de chei
+media-video-robustness = Robustețe video
+media-audio-robustness = Robustețe audio
+media-cdm-capabilities = Capabilități
 
 ##
 

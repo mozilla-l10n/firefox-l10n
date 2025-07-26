@@ -116,8 +116,16 @@ book-avatar-alt =
     .alt = Libro
 briefcase-avatar-alt =
     .alt = Maletín
+# Canvas refers to an artist's painting canvas, not the general material
+canvas-avatar-alt =
+    .alt = Lenzo
+# Craft refers to hobby arts and crafts, represented by a button/fastener commonly found on clothing like shirts
+craft-avatar-alt =
+    .alt = Artesanía
 flower-avatar-alt =
     .alt = Flor
+folder-avatar-alt =
+    .alt = Cartafol
 heart-avatar-alt =
     .alt = Corazón
 history-avatar-alt =

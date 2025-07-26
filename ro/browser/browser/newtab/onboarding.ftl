@@ -448,10 +448,16 @@ onboarding-checklist-sign-up = Fă-ți un cont sau intră în contul tău
 
 tab-groups-onboarding-feature-callout-title = Încearcă grupurile de file pentru mai multă ordine și mai multă concentrare
 tab-groups-onboarding-feature-callout-subtitle = Organizează-te trăgând o filă peste alta ca să creezi primul grup.
+# The text "list all tabs" refers to the string tabs-toolbar-list-all-tabs
+tab-groups-onboarding-create-group-title-3 = Găsești oricând grupurile de file în meniul Listează toate filele.
 tab-groups-onboarding-create-group-title-2 = Ai aici grupurile de file oricând.
 tab-groups-onboarding-create-group-no-alltabs-button-title = Caută grupurile prin căutare în bara de adrese.
+# The text "list all tabs" refers to the string tabs-toolbar-list-all-tabs
+tab-groups-onboarding-saved-groups-title-3 = Când închizi un grup de file, îl poți redeschide oricând din meniul Listează toate filele.
 tab-groups-onboarding-saved-groups-title-2 = Când închizi un grup de file, îl poți redeschide oricând aici.
 tab-groups-onboarding-saved-groups-no-alltabs-button-title-2 = Găsești grupurile închise căutând-le în bara de adrese.
+# The text "list all tabs" refers to the string tabs-toolbar-list-all-tabs
+tab-groups-onboarding-session-restore-title-2 = Redeschide grupurile de file în orice moment din meniul Listează toate filele.
 tab-groups-onboarding-session-restore-title = Redeschizi grupurile de file aici oricând.
 tab-groups-onboarding-dismiss = OK
 
