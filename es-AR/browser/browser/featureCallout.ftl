@@ -112,6 +112,15 @@ fxa-adoption-passwords-subtitle = Proteja sus contraseñas sincronizándolas a s
 # Opens Mozilla accounts sign-up page
 fxa-adoption-passwords-primary-button-label = Registrarse
 
+## Windows 10 EoS Sync messages group 1 callouts
+
+windows-10-eos-sync-urgency-title-1 = No pierda todo lo que guardó cuando se mude a Windows 11.
+windows-10-eos-sync-urgency-subtitle-1 = Sincronice ahora para mantener los marcadores, contraseñas y configuraciones de { -brand-short-name } seguros y fáciles de restaurar.
+windows-10-eos-sync-urgency-title-2 = ¿Diciéndole adiós a Windows 10? Proteja sus datos al cambiar.
+windows-10-eos-sync-urgency-subtitle-2 = Incluso si no usa { -brand-short-name } a diario, sincronice para mantener los marcadores y contraseñas seguros y accesibles.
+windows-10-eos-sync-new-device-title-1 = No se arriesgue a empezar de nuevo en un próximo dispositivo.
+windows-10-eos-sync-new-device-subtitle-1 = Sincronice para llevar sus marcadores, contraseñas y configuraciones preferidas de { -brand-short-name } cuando se mude.
+
 ## Sidebar Strings
 
 sidebar-button-callout-title = Mostrar los títulos de las pestañas en la barra lateral
