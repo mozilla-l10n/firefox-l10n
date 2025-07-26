@@ -1383,3 +1383,8 @@ trustpanel-blocker-section-header =
         [one] <span>{ $count }</span> rastreador bloqueado en este sitio
        *[other] <span>{ $count }</span> rastreadores bloqueados en este sitio
     }
+trustpanel-list-label-cryptominer =
+    { $count ->
+        [one] { $count } criptomineros
+       *[other] { $count } criptomineros
+    }

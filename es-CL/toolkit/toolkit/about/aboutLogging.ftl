@@ -29,6 +29,7 @@ about-logging-no-log-modules = Ninguno
 about-logging-no-log-file = Ninguno
 about-logging-logging-preset-selector-text = Registro preestablecido:
 about-logging-with-profiler-stacks-checkbox = Habilitar seguimientos de pila para mensajes de registro
+about-logging-with-javascript-tracing-checkbox = Habilitar el seguimiento de JavaScript
 about-logging-menu =
     .title = Opciones avanzadas
 
@@ -53,6 +54,7 @@ about-logging-preset-webcodecs-description = Módulos de registro para diagnosti
 about-logging-preset-ml-label = Machine Learning
 about-logging-preset-ml-description = Módulos de registro para diagnosticar problemas de Machine Learning
 about-logging-preset-web-compat-label = Compatibilidad web
+about-logging-preset-web-compat-description = Módulos de registro para diagnosticar problemas de compatibilidad web
 about-logging-preset-webgpu-label = WebGPU
 about-logging-preset-webgpu-description = Módulos de registro para diagnosticar problemas de WebGPU
 about-logging-preset-gfx-label = Gráficos

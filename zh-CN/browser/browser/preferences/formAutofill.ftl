@@ -142,7 +142,7 @@ autofill-card-network = 卡片类型
 
 ## These are brand names and should only be translated when a locale-specific name for that brand is in common use
 
-autofill-card-network-amex = 美国运通（American Express）
+autofill-card-network-amex = 美国运通
 autofill-card-network-cartebancaire = Carte Bancaire
 autofill-card-network-diners = 大来卡（Diners Club）
 autofill-card-network-discover = 发现卡（Discover）

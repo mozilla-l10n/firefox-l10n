@@ -75,20 +75,20 @@ contentanalysis-error-message-print = Imprimer refusate.
 #   $agent - The name of the DLP agent doing the analysis
 #   $contentName - Description of the content, such as "clipboard" or "aFile.txt"
 contentanalysis-timeout-block-error-message-content = Le connexion a { $agent } ha expirate. { $contentName } ha essite blocate.
-contentanalysis-block-dialog-title-upload-file = Tu non ha permisso de cargar iste file
+contentanalysis-block-dialog-title-upload-file = Tu non ha le permission de incargar iste file
 # Variables:
 #   $filename - Name of the file that was blocked, such as "aFile.txt"
-contentanalysis-block-dialog-body-upload-file = Sub le politicas de protection de datos de tu organisation, tu non ha le permisso de cargar le file  “{ $filename }”. Contacta tu administrator pro altere informationes.
+contentanalysis-block-dialog-body-upload-file = Sub le politicas de protection de datos de tu organisation, tu non ha le permission de incargar le file  “{ $filename }”. Contacta tu administrator pro plus informationes.
 contentanalysis-block-dialog-title-download-file = Tu non ha le permission de discargar iste file
 # Variables:
 #   $filename - Name of the file that was blocked, such as "aFile.txt"
 contentanalysis-block-dialog-body-download-file = Sub le politicas de protection de datos de tu organisation, tu non ha le permission de discargar le file  “{ $filename }”. Contacta tu administrator pro plus informationes.
-contentanalysis-block-dialog-title-clipboard = Tu non ha permisso de collar iste contento
-contentanalysis-block-dialog-body-clipboard = Sub le politicas de protection de datos de tu organisation, tu non ha le permisso de collar iste contento. Contacta tu administrator pro altere informationes.
-contentanalysis-block-dialog-title-dropped-text = Tu non ha permisso de deponer iste contento
-contentanalysis-block-dialog-body-dropped-text = Sub le politicas de protection de datos de tu organisation, tu non ha le permisso de traher e deponer iste contento. Contacta tu administrator pro altere informationes.
-contentanalysis-block-dialog-title-print = Tu non ha permisso de imprimer iste documento
-contentanalysis-block-dialog-body-print = Sub le politicas de protection de datos de tu organisation, tu non ha le permisso de imprimer iste documento. Contacta tu administrator pro altere informationes.
+contentanalysis-block-dialog-title-clipboard = Tu non ha le permission de collar iste contento
+contentanalysis-block-dialog-body-clipboard = Sub le politicas de protection de datos de tu organisation, tu non ha le permission de collar iste contento. Contacta tu administrator pro plus informationes.
+contentanalysis-block-dialog-title-dropped-text = Tu non ha le permission de deponer iste contento
+contentanalysis-block-dialog-body-dropped-text = Sub le politicas de protection de datos de tu organisation, tu non ha le permission de traher e deponer iste contento. Contacta tu administrator pro plus informationes.
+contentanalysis-block-dialog-title-print = Tu non ha le permission de imprimer iste documento
+contentanalysis-block-dialog-body-print = Sub le politicas de protection de datos de tu organisation, tu non ha le permission de imprimer iste documento. Contacta tu administrator pro plus informationes.
 contentanalysis-inprogress-quit-title = Quitar { -brand-shorter-name }?
 contentanalysis-inprogress-quit-message = Plure actiones es in curso. Si tu quita { -brand-shorter-name }, iste actiones non sera completate.
 contentanalysis-inprogress-quit-yesbutton = Si, quitar

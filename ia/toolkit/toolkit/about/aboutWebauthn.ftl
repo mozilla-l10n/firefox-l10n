@@ -95,9 +95,9 @@ about-webauthn-auth-option-ep = Attestation de interprisa
 about-webauthn-auth-option-bioenroll = Registration biometric
 # FIDO_2_1_PRE should not be translated.
 about-webauthn-auth-option-userverificationmgmtpreview = Prototypo de registration biometric (FIDO_2_1_PRE)
-about-webauthn-auth-option-uvbioenroll = Permisso de registration biometric
+about-webauthn-auth-option-uvbioenroll = Permission de registration biometric
 about-webauthn-auth-option-authnrcfg = Configuration del authenticator
-about-webauthn-auth-option-uvacfg = Permisso de configuration authenticator
+about-webauthn-auth-option-uvacfg = Permission de configuration del authenticator
 about-webauthn-auth-option-credmgmt = Gestion de credentiales
 about-webauthn-auth-option-credentialmgmtpreview = Sempre require verification del usator
 about-webauthn-auth-option-setminpinlength = Definir le longor minime del PIN

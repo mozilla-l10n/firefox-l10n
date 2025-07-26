@@ -186,8 +186,16 @@ canvas-avatar = Canvas
 # Craft refers to hobby arts and crafts, represented by a button/fastener commonly found on clothing like shirts
 craft-avatar = Artesanía
 custom-avatar = Avatar personalizado
+# Default favicon refers to the generic globe/world icon that appears in browser tabs when a website doesn't have its own favicon.
+default-favicon-avatar = Favicon predeterminado
+# Diamond refers to the precious stone, not the geometric shape
+diamond-avatar = Diamante
 flower-avatar = Flor
+folder-avatar = Carpeta
+hammer-avatar = Martillo
 heart-avatar = Corazón
+heart-rate-avatar = Frecuencia cardíaca
+history-avatar = Historial
 leaf-avatar = Hoja
 lightbulb-avatar = Ampolleta
 makeup-avatar = Maquillaje
