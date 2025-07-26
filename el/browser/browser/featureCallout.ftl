@@ -112,6 +112,12 @@ fxa-adoption-passwords-subtitle = Προστατέψτε τους κωδικού
 # Opens Mozilla accounts sign-up page
 fxa-adoption-passwords-primary-button-label = Εγγραφή
 
+## Windows 10 EoS Sync messages group 1 callouts
+
+windows-10-eos-sync-urgency-title-2 = Αποχαιρετάτε τα Windows 10; Προστατέψτε τα δεδομένα σας κατά τη μετάβαση.
+windows-10-eos-sync-new-device-primary-label = Συγχρονισμός τώρα
+windows-10-eos-sync-tour-title-2 = Οργανωθείτε για τα Windows 11.
+
 ## Sidebar Strings
 
 sidebar-button-callout-title = Εμφάνιση τίτλων καρτελών στην πλαϊνή γραμμή

@@ -207,6 +207,9 @@ urlbar-result-menu-show-less-frequently =
     .label = Εμφάνιση σπανιότερα
 urlbar-result-menu-dont-show-weather-suggestions =
     .label = Να μην εμφανίζονται προτάσεις καιρού
+# Used for Split Button.
+urlbar-splitbutton-dropmarker =
+    .title = Άνοιγμα μενού
 # A message shown in the urlbar when the user submits feedback on a suggestion
 # (e.g., it shows an inaccurate location, it's shown too often, etc.).
 urlbar-feedback-acknowledgment = Ευχαριστούμε για τα σχόλιά σας
@@ -823,6 +826,8 @@ urlbar-searchmode-default =
 urlbar-searchmode-popup-description = Αυτήν τη φορά αναζήτηση με:
 urlbar-searchmode-popup-search-settings-menuitem =
     .label = Ρυθμίσεις αναζήτησης
+# Label shown next to a new search engine in the Searchmode Switcher popup to promote it.
+urlbar-searchmode-new = Νέα
 # Searchmode Switcher button
 # Variables:
 #   $engine (String): the current default search engine.
@@ -1320,3 +1325,46 @@ onboarding-checklist-button-label = Ολοκλήρωση ρύθμισης
 onboarding-aw-finish-setup-button =
     .label = Ολοκλήρωση ρύθμισης
     .tooltiptext = Ολοκλήρωση της ρύθμισης του { -brand-short-name }
+
+## The urlbar trust panel
+
+trustpanel-connection-label-secure = Ασφαλής σύνδεση
+trustpanel-connection-label-insecure = Μη ασφαλής σύνδεση
+trustpanel-header-disabled = Απενεργοποιήσατε την προστασία
+trustpanel-privacy-link = Ρυθμίσεις απορρήτου
+trustpanel-clear-cookies-subview-button-cancel = Ακύρωση
+trustpanel-siteinformation-morelink = Περισσότερες πληροφορίες ιστοτόπου
+trustpanel-blocker-see-all = Προβολή όλων
+
+## Variables
+##  $count (String): the number of trackers blocked.
+
+trustpanel-social-tracking-tab-list-header = Αυτοί οι ιστότοποι προσπαθούν να σας καταγράψουν:
+trustpanel-tracking-cookies-tab-list-header = Αυτοί οι ιστότοποι προσπαθούν να σας καταγράψουν:
+trustpanel-tracking-content-blocking-tab-header =
+    { $count ->
+        [one] Το { -brand-product-name } απέκλεισε { $count } ιχνηλάτη
+       *[other] Το { -brand-product-name } απέκλεισε { $count } ιχνηλάτες
+    }
+trustpanel-tracking-content-not-blocking-tab-header =
+    { $count ->
+        [one] Το { -brand-product-name } επέτρεψε { $count } ιχνηλάτη
+       *[other] Το { -brand-product-name } επέτρεψε { $count } ιχνηλάτες
+    }
+trustpanel-tracking-content-tab-list-header = Αυτοί οι ιστότοποι προσπαθούν να σας καταγράψουν:
+trustpanel-fingerprinter-blocking-tab-header =
+    { $count ->
+        [one] Το { -brand-product-name } απέκλεισε { $count } fingerprinter
+       *[other] Το { -brand-product-name } απέκλεισε { $count } fingerprinter
+    }
+trustpanel-fingerprinter-not-blocking-tab-header =
+    { $count ->
+        [one] Το { -brand-product-name } επέτρεψε { $count } fingerprinter
+       *[other] Το { -brand-product-name } επέτρεψε { $count } fingerprinter
+    }
+trustpanel-cryptominer-not-blocking-tab-header =
+    { $count ->
+        [one] Το { -brand-product-name } επέτρεψε { $count } cryptominer
+       *[other] Το { -brand-product-name } επέτρεψε { $count } cryptominer
+    }
+trustpanel-cryptominer-tab-list-header = Αυτοί οι ιστότοποι προσπαθούν να εξορύξουν κρυπτονομίσματα:
