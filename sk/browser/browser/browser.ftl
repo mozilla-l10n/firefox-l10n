@@ -1489,3 +1489,19 @@ trustpanel-fingerprinter-not-blocking-tab-header =
         [many] { -brand-product-name } povolil { $count } čítačiek digitálnych odtlačkov
        *[other] { -brand-product-name } povolil { $count } čítačiek digitálnych odtlačkov
     }
+trustpanel-fingerprinter-list-header = Tieto stránky sa snažia odhaliť vaše digitálne odtlačky:
+trustpanel-cryptominer-blocking-tab-header =
+    { $count ->
+        [one] { -brand-product-name } zablokoval { $count } ťažiara kryptomien
+        [few] { -brand-product-name } zablokoval { $count } ťažiarov kryptomien
+        [many] { -brand-product-name } zablokoval { $count } ťažiarov kryptomien
+       *[other] { -brand-product-name } zablokoval { $count } ťažiarov kryptomien
+    }
+trustpanel-cryptominer-not-blocking-tab-header =
+    { $count ->
+        [one] { -brand-product-name } povolil { $count } ťažiara kryptomien
+        [few] { -brand-product-name } povolil { $count } ťažiarov kryptomien
+        [many] { -brand-product-name } povolil { $count } ťažiarov kryptomien
+       *[other] { -brand-product-name } povolil { $count } ťažiarov kryptomien
+    }
+trustpanel-cryptominer-tab-list-header = Tieto stránky sa snažia ťažiť kryptomeny:

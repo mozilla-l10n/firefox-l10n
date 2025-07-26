@@ -112,6 +112,21 @@ fxa-adoption-passwords-subtitle = Chráňte svoje heslá synchronizáciou so zar
 # Opens Mozilla accounts sign-up page
 fxa-adoption-passwords-primary-button-label = Zaregistrovať sa
 
+## Windows 10 EoS Sync messages group 1 callouts
+
+windows-10-eos-sync-urgency-title-1 = Nestraťte všetko, čo ste si uložili, keď prejdete na Windows 11.
+windows-10-eos-sync-urgency-subtitle-1 = Synchronizujte teraz, aby vaše záložky, heslá a nastavenia { -brand-short-name(case: "gen") } zostali v bezpečí a aby sa dali jednoducho obnoviť.
+windows-10-eos-sync-urgency-title-2 = Lúčite sa s Windowsom 10? Chráňte svoje dáta pri prechode.
+windows-10-eos-sync-urgency-subtitle-2 = Aj keď { -brand-short-name } nepoužívate denne, synchronizujte ho, aby boli záložky a heslá v bezpečí a dostupné.
+windows-10-eos-sync-new-device-title-1 = Neriskujte, že budete musieť začať odznova na ďalšom zariadení.
+windows-10-eos-sync-new-device-subtitle-1 = Synchronizujte si záložky, heslá a preferované nastavenia { -brand-short-name(case: "gen") } a vezmite ich so sebou pri prechode.
+windows-10-eos-sync-new-device-title-2 = Prechádzate na nové zariadenie? Nestraťte to dôležité.
+windows-10-eos-sync-new-device-subtitle-2 = Bez ohľadu na to, ako často používate { -brand-short-name }, synchronizácia chráni vaše záložky, heslá a nastavenia.
+windows-10-eos-sync-new-device-primary-label = Synchronizovať
+windows-10-eos-sync-general-title-1 = Chráňte si { -brand-short-name }, ktorý ste si prispôsobili pre seba.
+windows-10-eos-sync-general-subtitle-1 = Zálohujte a synchronizujte svoje heslá, záložky, nastavenia a ďalšie údaje, aby ste si zachovali to, na čom vám záleží.
+windows-10-eos-sync-general-title-2 = Teraz je vhodný čas na zálohovanie hesiel a záložiek.
+
 ## Sidebar Strings
 
 sidebar-button-callout-title = Zobrazovať názvy kariet na bočnom paneli

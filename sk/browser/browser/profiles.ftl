@@ -151,18 +151,66 @@ paw-print-avatar-alt =
     .alt = Odtlačok laby
 plane-avatar-alt =
     .alt = Lietadlo
+# Present refers to a gift box, not the current time period
+present-avatar-alt =
+    .alt = Darček
 shopping-avatar-alt =
     .alt = Nákupný košík
+soccer-avatar-alt =
+    .alt = Futbal
+sparkle-single-avatar-alt =
+    .alt = Trblietanie
 star-avatar-alt =
     .alt = Hviezdička
+video-game-controller-avatar-alt =
+    .alt = Ovládač videohier
 custom-avatar-alt =
     .alt = Vlastný avatar
+# Default favicon refers to the generic globe/world icon that appears in browser tabs when a website doesn't have its own favicon.
+default-favicon-avatar-alt =
+    .alt = Predvolená ikona stránky
+# Diamond refers to the precious stone, not the geometric shape
+diamond-avatar-alt =
+    .alt = Diamant
+barbell-avatar-alt =
+    .alt = Činka
+bike-avatar-alt =
+    .alt = Bicykel
 
 ## Labels for default avatar icons
 
 book-avatar = Kniha
 briefcase-avatar = Aktovka
+# Canvas refers to an artist's painting canvas, not the general material
+canvas-avatar = Plátno
+# Craft refers to hobby arts and crafts, represented by a button/fastener commonly found on clothing like shirts
+craft-avatar = Remeslo
+custom-avatar = Vlastný avatar
+# Default favicon refers to the generic globe/world icon that appears in browser tabs when a website doesn't have its own favicon.
+default-favicon-avatar = Predvolená ikona stránky
+# Diamond refers to the precious stone, not the geometric shape
+diamond-avatar = Diamant
 flower-avatar = Kvetina
+folder-avatar = Priečinok
+hammer-avatar = Kladivo
 heart-avatar = Srdce
+heart-rate-avatar = Srdcová frekvencia
+history-avatar = História
+leaf-avatar = List
+lightbulb-avatar = Žiarovka
+makeup-avatar = Líčenie
+# Message refers to a text message, not a traditional letter/envelope message
+message-avatar = Správa
+musical-note-avatar = Hudobná nota
+palette-avatar = Paleta
+paw-print-avatar = Odtlačok laby
+plane-avatar = Lietadlo
+# Present refers to a gift box, not the current time period
+present-avatar = Darček
 shopping-avatar = Nákupný košík
+soccer-avatar = Futbal
+sparkle-single-avatar = Trblietanie
 star-avatar = Hviezdička
+video-game-controller-avatar = Ovládač videohier
+barbell-avatar = Činka
+bike-avatar = Bicykel

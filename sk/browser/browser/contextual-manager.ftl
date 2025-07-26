@@ -65,6 +65,12 @@ contextual-manager-passwords-import-success-heading =
 #   $added (number) - Number of added passwords
 #   $modified (number) - Number of modified passwords
 contextual-manager-passwords-import-success-message = Nové: { $added }, aktualizované: { $modified }
+# Variables
+#   $added (number) - Number of added passwords
+#   $modified (number) - Number of modified passwords
+#   $no_change (number) - Number of duplicate passwords
+#   $error (number) - Number of invalid passwords
+contextual-manager-passwords-import-success-message-2 = Nové: { $added }, aktualizované: { $modified }, duplikáty: { $no_change }, chyby: { $error }
 contextual-manager-passwords-import-detailed-report = Zobraziť podrobnú správu
 contextual-manager-passwords-import-success-button = Hotovo
 contextual-manager-passwords-import-error-heading-and-message =

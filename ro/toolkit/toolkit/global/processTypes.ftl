@@ -16,6 +16,8 @@ process-type-privilegedmozilla = Conținut privilegiat Mozilla
 process-type-extension = Extensie
 # process used to open file:// URLs
 process-type-file = Fișier local
+# process used to instantiate new child processes
+process-type-forkserver = Server fork
 # process used to isolate a webpage from other web pages
 # to improve security
 process-type-webisolated = Conținut web izolat
@@ -41,3 +43,13 @@ process-type-utility = Actor IPC în sandbox
 process-type-utility-actor-audio-decoder-generic = Utilitar decodificator audio generic
 process-type-utility-actor-audio-decoder-applemedia = Utilitar AppleMedia
 process-type-utility-actor-audio-decoder-wmf = Utilitar Windows Media Foundation
+process-type-utility-actor-mf-media-engine = Utilitar Media Foundation Engine
+process-type-utility-actor-js-oracle = Utilitar JavaScript Oracle
+process-type-utility-actor-windows-utils = Utilitar Windows Utils
+process-type-utility-actor-windows-file-dialog = Utilitar fereastră de dialog fișiere Windows
+
+##
+## Other
+
+# fallback
+process-type-unknown = Necunoscut

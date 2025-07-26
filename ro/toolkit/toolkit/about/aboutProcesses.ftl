@@ -51,6 +51,7 @@ about-processes-vr-process = VR ({ $pid })
 about-processes-rdd-process = Decodor de date ({ $pid })
 about-processes-socket-process = Rețea ({ $pid })
 about-processes-remote-sandbox-broker-process = Broker de tip sandbox la distanță ({ $pid })
+about-processes-fork-server-process = Server fork ({ $pid })
 
 ## Isolated process names
 ## Variables:
@@ -95,3 +96,22 @@ about-processes-inactive-threads =
 #   $tid (String) The thread id of this thread, assigned by the OS.
 about-processes-thread-name-and-id = { $name }
     .title = ID fir: { $tid }
+
+## Duration units
+
+duration-unit-ns = ns
+duration-unit-us = µs
+duration-unit-ms = ms
+duration-unit-s = s
+duration-unit-m = m
+duration-unit-h = h
+duration-unit-d = d
+
+## Memory units
+
+memory-unit-B = B
+memory-unit-KB = KB
+memory-unit-MB = MB
+memory-unit-GB = GB
+memory-unit-TB = TB
+memory-unit-PB = PB

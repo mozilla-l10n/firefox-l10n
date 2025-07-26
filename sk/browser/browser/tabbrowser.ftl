@@ -279,6 +279,8 @@ tab-group-editor-color-selector2-gray = Sivá
 tab-group-editor-color-selector2-red = Červená
     .title = Červená
 tab-group-description = { $tabGroupName } — Skupina kariet
+tab-group-label-tooltip-collapsed = { $tabGroupName } — zbalené
+tab-group-label-tooltip-expanded = { $tabGroupName } — rozbalené
 tab-context-unnamed-group =
     .label = Nepomenovaná skupina
 tab-group-name-default = Nepomenovaná skupina
@@ -334,6 +336,18 @@ tab-context-ungroup-tab =
            *[other] Odstrániť zo skupín
         }
     .accesskey = d
+# When a tab group containing the active tab is collapsed, the active tab
+# remains visible. An indicator appears at the end of the group showing the
+# number of remaining tabs that are hidden by the collapsed group,
+# e.g. "+2" for a group with 3 total tabs.
+tab-group-overflow-count = + { $tabCount }
+tab-group-overflow-count-tooltip =
+    { $tabCount ->
+        [one] { $tabCount } ďalšia karta
+        [few] { $tabCount } ďalšie karty
+        [many] { $tabCount } ďalších kariet
+       *[other] { $tabCount } ďalších kariet
+    }
 
 ## Open/saved tab group context menu
 
