@@ -97,6 +97,16 @@ genai-menu-no-provider =
     .label = Спросить ИИ-чат-бота
 genai-menu-choose-chatbot =
     .label = Выберите ИИ-чат-бот
+genai-menu-ask-generic-2 =
+    .label = Спросить ИИ-чат-бота
+    .accesskey = h
+# $provider (string) - name of the provider
+genai-menu-ask-provider-2 =
+    .label = Спросить { $provider }
+    .accesskey = h
+genai-menu-no-provider-2 =
+    .label = Спросить ИИ-чат-бота
+    .accesskey = h
 
 ## Chatbot header
 

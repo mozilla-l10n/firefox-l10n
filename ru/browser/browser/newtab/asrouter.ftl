@@ -346,3 +346,16 @@ multi-cta-fox-doodle-privacy-focused-subtitle =
        *[other] Держите под рукой свой любимый, ориентированный на приватность браузер. Установите { -brand-short-name } в качестве браузера по умолчанию для открытия ссылок и закрепите его на панели задач.
     }
 multi-cta-fox-doodle-msix-privacy-focused-subtitle = Держите под рукой свой любимый, ориентированный на приватность браузер. Установите { -brand-short-name } в качестве браузера по умолчанию для открытия ссылок и закрепите его на панели задач и в меню «Пуск».
+
+## Windows 10 EoS Sync messages group 1 spotlight
+
+windows-10-eos-sync-spotlight-title = Скоро обновитесь с Windows 10?
+windows-10-eos-sync-spotlight-subtitle = Сделайте резервную копию своих паролей и закладок, чтобы подготовиться к переходу на любое устройство.
+windows-10-eos-sync-spotlight-primary-label = Сделайте резервную копию своего { -brand-short-name }
+
+## Windows 10 EoS Sync messages group 1 toast notification
+
+windows-10-eos-sync-toast-title = Переходите на Windows 11? Не потеряйте закладки и пароли.
+windows-10-eos-sync-toast-subtitle = Сделайте резервную копию своих данных, чтобы { -brand-short-name } был готов к работе в любое время, на этом или следующем компьютере.
+windows-10-eos-sync-toast-primary-label = Начать
+windows-10-eos-sync-toast-secondary-label = Напомнить позже

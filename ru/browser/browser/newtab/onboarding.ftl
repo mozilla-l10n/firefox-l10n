@@ -447,10 +447,16 @@ onboarding-checklist-sign-up = Зарегистрируйтесь или вой�
 
 tab-groups-onboarding-feature-callout-title = Попробуйте группы вкладок — меньше беспорядка, больше внимания
 tab-groups-onboarding-feature-callout-subtitle = Наведите порядок, перетащив одну вкладку на другую, чтобы создать свою первую группу.
+# The text "list all tabs" refers to the string tabs-toolbar-list-all-tabs
+tab-groups-onboarding-create-group-title-3 = Найдите свои группы вкладок в меню «Список всех вкладок» в любое время.
 tab-groups-onboarding-create-group-title-2 = Найдите здесь свои группы вкладок в любое время.
 tab-groups-onboarding-create-group-no-alltabs-button-title = Находите свои группы, совершая их поиск в адресной строке.
+# The text "list all tabs" refers to the string tabs-toolbar-list-all-tabs
+tab-groups-onboarding-saved-groups-title-3 = Когда вы закрываете группу вкладок, вы можете в любой момент открыть её из меню «Список всех вкладок».
 tab-groups-onboarding-saved-groups-title-2 = Когда вы закрываете группу вкладок, вы можете в любое время восстановить её здесь.
 tab-groups-onboarding-saved-groups-no-alltabs-button-title-2 = Найдите свои закрытые группы, выполнив поиск в адресной строке.
+# The text "list all tabs" refers to the string tabs-toolbar-list-all-tabs
+tab-groups-onboarding-session-restore-title-2 = Открывайте снова ваши группы вкладок из меню «Список всех вкладок» в любое время.
 tab-groups-onboarding-session-restore-title = Восстанавливайте здесь ваши группы вкладок в любое время.
 tab-groups-onboarding-dismiss = OK
 

@@ -338,6 +338,12 @@ tab-context-ungroup-tab =
 # number of remaining tabs that are hidden by the collapsed group,
 # e.g. "+2" for a group with 3 total tabs.
 tab-group-overflow-count = +{ $tabCount }
+tab-group-overflow-count-tooltip =
+    { $tabCount ->
+        [one] Ещё { $tabCount } вкладка
+        [few] Ещё { $tabCount } вкладки
+       *[many] Ещё { $tabCount } вкладок
+    }
 
 ## Open/saved tab group context menu
 
