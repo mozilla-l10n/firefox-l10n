@@ -19,7 +19,7 @@ graph-total-tracker-summary =
        *[other] <b>{ $count }</b> მეთვალყურეა შეზღუდული თარიღიდან { DATETIME($earliestDate, day: "numeric", month: "long", year: "numeric") }
     }
 # Text displayed instead of the graph when in Private Mode
-graph-private-window = { -brand-short-name } განაგრძობს მეთვალყურეების შეზღუდვას პირად ჩანართებში, თუმცა არ აღრიცხავს, რა შეიზღუდა.
+graph-private-window = { -brand-short-name } არ წყვეტს მეთვალყურეების შეზღუდვას პირად ჩანართებში, თუმცა იმას არ აღრიცხავს, რა შეიზღუდა.
 # Weekly summary of the graph when the graph is empty in Private Mode
 graph-week-summary-private-window = მეთვალყურეები, რომელთაც ზღუდავდა { -brand-short-name } ამ კვირაში
 protection-report-webpage-title = დაცვის მაჩვენებლები
@@ -48,12 +48,12 @@ tracker-tab-description = საიტები, ზოგჯერ გარე
 fingerprinter-tab-title = მომხმარებლის ამომცნობები
 fingerprinter-tab-content = მომხმარებლის ამომცნობები აგროვებს ბრაუზერისა და კომპიუტერის მონაცემებს თქვენი დახასიათების შესადგენად. ამის შედეგად კი თქვენი სხვებისგან გამორჩევაა შესაძლებელი სხვადასხვა საიტებზე. <a data-l10n-name="learn-more-link">ვრცლად</a>
 cryptominer-tab-title = კრიპტოვალუტის გამომმუშავებლები
-cryptominer-tab-content = კრიპტოვალუტის გამომმუშავებლები სარგებლობს თქვენი სისტემის გამოთვლის სიმძლავრით ციფრული ფულის მოსაპოვებლად. ამგვარი კოდები ასუსტებს ბატარეას, ანელებს კომპიუტერს და ზრდის დენის დანახარჯს. <a data-l10n-name="learn-more-link">ვრცლად</a>
+cryptominer-tab-content = კრიპტოვალუტის გამომმუშავებლები სარგებლობს თქვენი სისტემის გამოთვლის სიმძლავრით ციფრული ფულის მოსაპოვებლად. ამგვარი კოდები ასუსტებს ბატარეას, ანელებს კომპიუტერს და ზრდის დენის ხარჯს. <a data-l10n-name="learn-more-link">ვრცლად</a>
 protections-close-button2 =
     .aria-label = დახურვა
     .title = დახურვა
 mobile-app-title = შეზღუდეთ სარეკლამო მეთვალყურეები მეტ მოწყობილობაზე
-mobile-app-card-content = გამოიყენეთ მობილური ბრაუზერი ჩაშენებული დაცვით, სარეკლამო მეთვალყურეებისგან.
+mobile-app-card-content = გამოიყენეთ მობილური ბრაუზერი სარეკლამო მეთვალყურეებისგან ჩაშენებული დაცვით.
 mobile-app-links = { -brand-product-name } ბრაუზერი <a data-l10n-name="android-mobile-inline-link">Android-სა</a> და <a data-l10n-name="ios-mobile-inline-link">iOS-ზე</a>
 lockwise-title = აღარასდროს დაკარგავთ პაროლებს
 passwords-title-logged-in = მართეთ თქვენი პაროლები
