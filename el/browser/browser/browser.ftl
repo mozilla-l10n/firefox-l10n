@@ -1343,13 +1343,21 @@ trustpanel-etp-toggle-on =
 trustpanel-etp-toggle-off =
     .aria-label = Ενισχυμένη προστασία από καταγραφή: ανενεργή στο { $host }
 trustpanel-etp-description-enabled = Εάν κάτι δεν λειτουργεί σωστά σε αυτόν τον ιστότοπο, δοκιμάστε να απενεργοποιήσετε την προστασία.
+trustpanel-etp-description-disabled = Το { -brand-product-name } θεωρεί ότι οι εταιρείες θα πρέπει να σας ακολουθούν λιγότερο. Αποκλείουμε όσο περισσότερους ιχνηλάτες μπορούμε όταν ενεργοποιείτε την προστασία.
 trustpanel-connection-label-secure = Ασφαλής σύνδεση
 trustpanel-connection-label-insecure = Μη ασφαλής σύνδεση
 trustpanel-header-enabled = Το { -brand-product-name } είναι σε επιφυλακή
 trustpanel-description-enabled = Προστατεύεστε. Αν εντοπίσουμε κάτι, θα σας ενημερώσουμε.
 trustpanel-header-disabled = Απενεργοποιήσατε την προστασία
 trustpanel-description-disabled = Το { -brand-product-name } είναι εκτός υπηρεσίας. Προτείνουμε να ενεργοποιήσετε ξανά την προστασία.
+trustpanel-clear-cookies-button = Απαλοιφή cookie και δεδομένων ιστοτόπου
 trustpanel-privacy-link = Ρυθμίσεις απορρήτου
+# Variables
+#  $host (String): the hostname of the site that is being displayed.
+trustpanel-clear-cookies-header =
+    .title = Απαλοιφή cookie και δεδομένων ιστοτόπου για το { $host }
+trustpanel-clear-cookies-description = Η διαγραφή των cookie και των δεδομένων ιστοτόπων ενδέχεται να σας αποσυνδέσει από ιστοτόπους και να αδειάσει τα καλάθια αγορών.
+trustpanel-clear-cookies-subview-button-clear = Απαλοιφή
 trustpanel-clear-cookies-subview-button-cancel = Ακύρωση
 # Variables
 #  $host (String): the hostname of the site that is being displayed.
@@ -1393,6 +1401,16 @@ trustpanel-list-label-cryptominer =
     { $count ->
         [one] { $count } cryptominer
        *[other] { $count } cryptominer
+    }
+trustpanel-social-tracking-blocking-tab-header =
+    { $count ->
+        [one] Το { -brand-product-name } απέκλεισε { $count } ιχνηλάτη κοινωνικών δικτύων
+       *[other] Το { -brand-product-name } απέκλεισε { $count } ιχνηλάτες κοινωνικών δικτύων
+    }
+trustpanel-social-tracking-not-blocking-tab-header =
+    { $count ->
+        [one] Το { -brand-product-name } επέτρεψε { $count } ιχνηλάτη κοινωνικών δικτύων
+       *[other] Το { -brand-product-name } επέτρεψε { $count } ιχνηλάτες κοινωνικών δικτύων
     }
 trustpanel-social-tracking-tab-list-header = Αυτοί οι ιστότοποι προσπαθούν να σας καταγράψουν:
 trustpanel-tracking-cookies-tab-list-header = Αυτοί οι ιστότοποι προσπαθούν να σας καταγράψουν:

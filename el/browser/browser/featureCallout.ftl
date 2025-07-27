@@ -114,7 +114,11 @@ fxa-adoption-passwords-primary-button-label = Εγγραφή
 
 ## Windows 10 EoS Sync messages group 1 callouts
 
+windows-10-eos-sync-urgency-title-1 = Μην χάσετε ό,τι έχετε αποθηκεύσει κατά τη μεταφορά στα Windows 11.
+windows-10-eos-sync-urgency-subtitle-1 = Κάντε συγχρονισμό τώρα για την προστασία και την εύκολη ανάκτηση των σελιδοδεικτών, των κωδικών πρόσβασης και των ρυθμίσεων του { -brand-short-name }.
 windows-10-eos-sync-urgency-title-2 = Αποχαιρετάτε τα Windows 10; Προστατέψτε τα δεδομένα σας κατά τη μετάβαση.
+windows-10-eos-sync-urgency-subtitle-2 = Ακόμα κι αν δεν χρησιμοποιείτε το { -brand-short-name } καθημερινά, κάντε συγχρονισμό για την προστασία και την εύκολη πρόσβαση στους σελιδοδείκτες και τους κωδικούς πρόσβασής σας.
+windows-10-eos-sync-new-device-title-1 = Μην ρισκάρετε να ξεκινήσετε από την αρχή στην επόμενη συσκευή σας.
 windows-10-eos-sync-new-device-primary-label = Συγχρονισμός τώρα
 windows-10-eos-sync-general-title-1 = Προστατέψτε το { -brand-short-name } που έχετε κάνει δικό σας.
 windows-10-eos-sync-tour-title-2 = Οργανωθείτε για τα Windows 11.

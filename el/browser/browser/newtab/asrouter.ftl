@@ -346,9 +346,12 @@ multi-cta-fox-doodle-msix-privacy-focused-subtitle = Κρατήστε σε απ�
 ## Windows 10 EoS Sync messages group 1 spotlight
 
 windows-10-eos-sync-spotlight-title = Σκοπεύετε να κάνετε σύντομα αναβάθμιση από τα Windows 10;
+windows-10-eos-sync-spotlight-subtitle = Δημιουργήστε αντίγραφα ασφαλείας των κωδικών πρόσβασης και των σελιδοδεικτών σας, ώστε να κάνετε τη μετάβαση σε οποιαδήποτε συσκευή.
+windows-10-eos-sync-spotlight-primary-label = Δημιουργήστε αντίγραφο ασφαλείας για το { -brand-short-name } σας
 
 ## Windows 10 EoS Sync messages group 1 toast notification
 
 windows-10-eos-sync-toast-title = Κάνετε αναβάθμιση στα Windows 11; Μην χάσετε σελιδοδείκτες και κωδικούς πρόσβασης.
+windows-10-eos-sync-toast-subtitle = Δημιουργήστε αντίγραφα ασφαλείας των δεδομένων σας, ώστε το { -brand-short-name } να είναι έτοιμο ανά πάσα στιγμή, σε αυτόν ή στον νέο υπολογιστή σας.
 windows-10-eos-sync-toast-primary-label = Έναρξη
 windows-10-eos-sync-toast-secondary-label = Υπενθύμιση αργότερα
