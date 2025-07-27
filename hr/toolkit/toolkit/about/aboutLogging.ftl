@@ -15,6 +15,7 @@ about-logging-stop-logging = Zaustavi vođenje zapisnika
 about-logging-info = Informacije:
 about-logging-log-modules-selection = Izbor modula zapisnika
 about-logging-new-log-modules = Novi moduli zapisnika:
+about-logging-logging-to-profiler = Prijava na { -profiler-brand-name }
 about-logging-with-profiler-stacks-checkbox = Aktiviraj detaljni popis poziva za poruke zapisnika
 
 ## Logging presets
@@ -46,4 +47,6 @@ about-logging-error = Greška:
 ##
 
 about-logging-invalid-output = Neispravna vrijednost „{ $v }” za ključ „{ $k }”
+about-logging-unknown-profiler-preset = Nepoznata unaprijed postavljena postavka profilera „{ $v }”
 about-logging-unknown-option = Nepoznata about:logging opcija „{ $k }”
+about-logging-file-and-profiler-override = Nije moguće istovremeno prisiliti ispis datoteke i zamijeniti opcije profilera
