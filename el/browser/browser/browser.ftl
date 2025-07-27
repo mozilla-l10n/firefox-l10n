@@ -1381,6 +1381,7 @@ trustpanel-blocker-section-header =
        *[other] <span>{ $count }</span> αποκλεισμένοι ιχνηλάτες στον ιστότοπο
     }
 trustpanel-insecure-section-header = Η σύνδεσή σας δεν είναι ασφαλής
+trustpanel-insecure-description = Τα δεδομένα που στέλνετε σε αυτόν τον ιστότοπο δεν είναι κρυπτογραφημένα. Μπορούν να προβληθούν, να υποκλαπούν ή να αλλοιωθούν.
 trustpanel-list-label-tracking-cookies =
     { $count ->
         [one] { $count } cookie καταγραφής μεταξύ ιστοτόπων
