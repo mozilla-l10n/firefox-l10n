@@ -65,6 +65,12 @@ contextual-manager-passwords-import-success-heading =
 #   $added (number) - Number of added passwords
 #   $modified (number) - Number of modified passwords
 contextual-manager-passwords-import-success-message = Novaj: { $added }, ĝisdatigitaj: { $modified }
+# Variables
+#   $added (number) - Number of added passwords
+#   $modified (number) - Number of modified passwords
+#   $no_change (number) - Number of duplicate passwords
+#   $error (number) - Number of invalid passwords
+contextual-manager-passwords-import-success-message-2 = Novaj: { $added }, ĝisdatigitaj: { $modified }, duobligitaj: { $no_change }, nevalidaj: { $error }
 contextual-manager-passwords-import-detailed-report = Montri detalan raporton
 contextual-manager-passwords-import-success-button = Farita
 contextual-manager-passwords-import-error-heading-and-message =
