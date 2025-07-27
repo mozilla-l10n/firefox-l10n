@@ -105,6 +105,22 @@ webext-perms-host-description-multiple-domains =
        *[other] { $domainCount } домендегі сайттар үшін деректеріңізге қатынау
     }
 
+## Strings for data collection permissions in the permission prompt.
+
+webext-perms-description-data-none = Әзірлеуші бұл кеңейту деректер жинауды қажет етпейтінін хабарлады.
+# Variables:
+#    $permissions (String): a list of data collection permissions formatted with `Intl.ListFormat` using the "narrow" style.
+webext-perms-description-data-some = Әзірлеуші бұл кеңейту келесіні жинайтынын хабарлады: { $permissions }
+# Variables:
+#    $permissions (String): a list of data collection permissions formatted with `Intl.ListFormat` using the "narrow" style.
+webext-perms-description-data-some-update = Әзірлеуші бұл кеңейту келесіні жинайтынын хабарлады: { $permissions }
+# Variables:
+#   $extension (String): replaced with the localized name of the extension.
+webext-perms-optional-text-with-data-collection = { $extension } қосымша баптауларды сұрайды
+# Variables:
+#   $extension (String): replaced with the localized name of the extension.
+webext-perms-optional-text-with-data-collection-only = { $extension } қосымша деректер жинауды сұрайды
+
 ## Headers used in the webextension permissions dialog for synthetic add-ons.
 ## The part of the string describing what privileges the extension gives should be consistent
 ## with the value of webext-site-perms-description-gated-perms-{sitePermission}.

@@ -1376,3 +1376,25 @@ trustpanel-list-label-cryptominer =
         [one] { $count } криптомайнер
        *[other] { $count } криптомайнер
     }
+trustpanel-tracking-content-blocking-tab-header =
+    { $count ->
+        [one] { -brand-product-name } { $count } трекерді бұғаттады
+       *[other] { -brand-product-name } { $count } трекерді бұғаттады
+    }
+trustpanel-tracking-content-not-blocking-tab-header =
+    { $count ->
+        [one] { -brand-product-name } { $count } трекерді рұқсат етті
+       *[other] { -brand-product-name } { $count } трекерді рұқсат етті
+    }
+trustpanel-tracking-content-tab-list-header = Бұл сайттар сізді қадағалауға тырысуда:
+trustpanel-cryptominer-blocking-tab-header =
+    { $count ->
+        [one] { -brand-product-name } { $count } криптомайнерді бұғаттады
+       *[other] { -brand-product-name } { $count } криптомайнерді бұғаттады
+    }
+trustpanel-cryptominer-not-blocking-tab-header =
+    { $count ->
+        [one] { -brand-product-name } { $count } криптомайнерді рұқсат етті
+       *[other] { -brand-product-name } { $count } криптомайнерді рұқсат етті
+    }
+trustpanel-cryptominer-tab-list-header = Бұл сайттар криптомайнингпен айналасуға тырысуда:
