@@ -1453,6 +1453,7 @@ trustpanel-fingerprinter-not-blocking-tab-header =
         [one] { -brand-product-name } permitiu { $count } identificador de pegada dixital
        *[other] { -brand-product-name } permitiu { $count } identificadores de pegadas dixitais
     }
+trustpanel-fingerprinter-list-header = Estes sitios están tentando obter a túa pegada dixital:
 trustpanel-cryptominer-blocking-tab-header =
     { $count ->
         [one] { -brand-product-name } bloqueou { $count } criptomineiro
