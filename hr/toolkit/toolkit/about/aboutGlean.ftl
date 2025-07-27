@@ -19,6 +19,7 @@ about-glean-interface-description =
 about-glean-category-about-glean = Informacije o { -glean-brand-name }
 about-glean-category-manual-testing = Ručno testiranje
 about-glean-category-adhoc-testing = Ad hoc testiranje
+about-glean-category-profiler = Korištenje profilera
 about-glean-category-about-data = Informacije o podacima
 about-glean-upload-enabled = Prijenos podataka je aktiviran.
 about-glean-upload-disabled = Prijenos podataka je deaktiviran.
