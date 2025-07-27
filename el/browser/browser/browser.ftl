@@ -1414,6 +1414,16 @@ trustpanel-social-tracking-not-blocking-tab-header =
        *[other] Το { -brand-product-name } επέτρεψε { $count } ιχνηλάτες κοινωνικών δικτύων
     }
 trustpanel-social-tracking-tab-list-header = Αυτοί οι ιστότοποι προσπαθούν να σας καταγράψουν:
+trustpanel-tracking-cookies-blocking-tab-header =
+    { $count ->
+        [one] Το { -brand-product-name } απέκλεισε { $count } cookie καταγραφής μεταξύ ιστοτόπων
+       *[other] Το { -brand-product-name } απέκλεισε { $count } cookie καταγραφής μεταξύ ιστοτόπων
+    }
+trustpanel-tracking-cookies-not-blocking-tab-header =
+    { $count ->
+        [one] Το { -brand-product-name } επέτρεψε { $count } cookie καταγραφής μεταξύ ιστοτόπων
+       *[other] Το { -brand-product-name } επέτρεψε { $count } cookie καταγραφής μεταξύ ιστοτόπων
+    }
 trustpanel-tracking-cookies-tab-list-header = Αυτοί οι ιστότοποι προσπαθούν να σας καταγράψουν:
 trustpanel-tracking-content-blocking-tab-header =
     { $count ->
