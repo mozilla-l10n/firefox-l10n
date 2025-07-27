@@ -93,6 +93,16 @@ genai-menu-no-provider =
     .label = Demandi al dialoganto A.I.
 genai-menu-choose-chatbot =
     .label = Elekti dialoganton A.I.
+genai-menu-ask-generic-2 =
+    .label = Demandi al dialoganto A.I.
+    .accesskey = D
+# $provider (string) - name of the provider
+genai-menu-ask-provider-2 =
+    .label = Demandi al { $provider }
+    .accesskey = d
+genai-menu-no-provider-2 =
+    .label = Demandi al dialoganto A.I.
+    .accesskey = d
 
 ## Chatbot header
 
