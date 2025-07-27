@@ -138,10 +138,12 @@ sidebar-pins-callout-cta-button = Бетті бекіту
 
 ## Pinning Tabs Strings
 
+pin-tabs-callout-1-title = Маңызды беттерді қол жетімді жерде сақтаңыз
 pin-tabs-callout-cta-1-button = Бұл бетті бекіту
 pin-tabs-callout-2-title = Жиі кіретін беттерді бекітіңіз
 pin-tabs-callout-cta-2-button = Бұл бетті бекіту
 pin-tabs-callout-3-title = Маңызды сайттарды қол жетімді жерде сақтаңыз
+pin-tabs-callout-4-title = Жиі кіретін сайттарды бекітіңіз
 
 ## Sidebar Onboarding Strings
 

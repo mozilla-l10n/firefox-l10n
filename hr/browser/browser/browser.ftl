@@ -207,6 +207,9 @@ urlbar-result-menu-show-less-frequently =
     .label = Prikaži rjeđe
 urlbar-result-menu-dont-show-weather-suggestions =
     .label = Ne prikazuj prijedloge za vremensku prognozu
+# Used for Split Button.
+urlbar-splitbutton-dropmarker =
+    .title = Otvori izbornik
 # A message shown in the urlbar when the user submits feedback on a suggestion
 # (e.g., it shows an inaccurate location, it's shown too often, etc.).
 urlbar-feedback-acknowledgment = Hvala ti povratnim informacijama
@@ -363,6 +366,7 @@ quickactions-downloads2 = Prikaži preuzimanja
 quickactions-cmd-downloads = preuzimanja
 # Opens about:addons page in the extensions section
 quickactions-extensions = Upravljaj proširenjima
+quickactions-cmd-extensions2 = proširenja, dodaci
 quickactions-cmd-extensions = proširenja
 # Opens Firefox View
 quickactions-firefoxview = Otvori { -firefoxview-brand-name }
@@ -829,6 +833,8 @@ urlbar-searchmode-default =
 urlbar-searchmode-popup-description = Ovaj put traži pomoću:
 urlbar-searchmode-popup-search-settings-menuitem =
     .label = Postavke pretrage
+# Label shown next to a new search engine in the Searchmode Switcher popup to promote it.
+urlbar-searchmode-new = Novo
 # Searchmode Switcher button
 # Variables:
 #   $engine (String): the current default search engine.
@@ -1156,6 +1162,10 @@ tabs-toolbar-list-all-tabs =
     .label = Popis svih kartica
     .tooltiptext = Popis svih kartica
 
+## Drop indicator text for pinned tabs when no tabs are pinned.
+
+pinned-tabs-drop-indicator = Za prikvačivanje kartice ispusti karticu ovdje
+
 ## Infobar shown at startup to suggest session-restore
 
 # <img data-l10n-name="icon"/> will be replaced by the application menu icon
@@ -1332,3 +1342,26 @@ onboarding-checklist-button-label = Dovrši postavljanje
 onboarding-aw-finish-setup-button =
     .label = Završi postavljanje
     .tooltiptext = Završi s postavljanjem { -brand-short-name }a
+
+## The urlbar trust panel
+
+trustpanel-etp-label-enabled = Poboljšana zaštita od praćenja je uključena
+trustpanel-etp-label-disabled = Poboljšana zaštita od praćenja je isključena
+# Variables
+#  $host (String): the hostname of the site that is being displayed.
+trustpanel-etp-toggle-on =
+    .aria-label = Poboljšana zaštita od praćenja: Uključena za { $host }
+# Variables
+#  $host (String): the hostname of the site that is being displayed.
+trustpanel-etp-toggle-off =
+    .aria-label = Poboljšana zaštita od praćenja: Isključena za { $host }
+trustpanel-etp-description-enabled = Ako nešto na ovoj stranici izgleda neispravno, pokušaj isključiti zaštite.
+trustpanel-etp-description-disabled = { -brand-product-name } smatra da bi te tvrtke trebale manje pratiti. Blokiramo što više programa za praćenje kad uključiš zaštite.
+trustpanel-connection-label-secure = Veza je sigurna
+trustpanel-connection-label-insecure = Veza nije sigurna
+trustpanel-clear-cookies-button = Izbriši kolačiće i podatke stranica
+trustpanel-privacy-link = Postavke privatnosti
+# Variables
+#  $host (String): the hostname of the site that is being displayed.
+trustpanel-clear-cookies-header =
+    .title = Izbriši kolačiće i podatke stranica za { $host }

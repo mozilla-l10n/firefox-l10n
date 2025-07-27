@@ -1336,13 +1336,20 @@ trustpanel-etp-label-enabled = Бақылаудан кеңейтілген қо�
 trustpanel-etp-label-disabled = Бақылаудан кеңейтілген қорғаныс сөндірулі
 trustpanel-connection-label-secure = Байланыс қауіпсіз
 trustpanel-connection-label-insecure = Байланыс қауіпсіз емес
+trustpanel-description-enabled = Сіз қорғалғансыз. Бірдеңені байқасақ, сізге хабарлаймыз
+trustpanel-header-disabled = Сіз қорғаныстарды сөндірдіңіз
+trustpanel-description-disabled = { -brand-product-name } жұмыстан тыс. Біз қорғаныстарды қайта іске қосуды ұсынамыз.
+trustpanel-clear-cookies-button = Cookies файлдары және сайт деректерін тазарту
 trustpanel-privacy-link = Жекелік баптаулары
 # Variables
 #  $host (String): the hostname of the site that is being displayed.
 trustpanel-clear-cookies-header =
     .title = { $host } үшін cookie файлдары мен сайт деректерін өшіру
+trustpanel-clear-cookies-description = Cookie файлдары мен сайт деректерін өшіру сізді веб-сайттардан шығаруы және сауда қоржындарын тазалауы мүмкін.
 trustpanel-clear-cookies-subview-button-clear = Тазарту
 trustpanel-clear-cookies-subview-button-cancel = Бас тарту
+trustpanel-connection-secure = Бұл сайтқа қауіпсіз түрде байланысқансыз.
+trustpanel-connection-not-secure = Бұл сайтқа қауіпсіз түрде байланысқан емессіз.
 trustpanel-siteinformation-morelink = Сайт туралы қосымша ақпарат
 trustpanel-blocker-see-all = Барлығын қарау
 # Variables

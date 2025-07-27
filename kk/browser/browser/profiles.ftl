@@ -128,8 +128,21 @@ heart-rate-avatar-alt =
     .alt = Жүрек соғу жиілігі
 history-avatar-alt =
     .alt = Тарих
+leaf-avatar-alt =
+    .alt = Жапырақ
+lightbulb-avatar-alt =
+    .alt = Жарық шамы
+makeup-avatar-alt =
+    .alt = Косметика
+# Message refers to a text message, not a traditional letter/envelope message
+message-avatar-alt =
+    .alt = Хабарлама
+musical-note-avatar-alt =
+    .alt = Музыкалық нота
 palette-avatar-alt =
     .alt = Палитра
+paw-print-avatar-alt =
+    .alt = Табан ізі
 plane-avatar-alt =
     .alt = Ұшақ
 # Present refers to a gift box, not the current time period
@@ -139,18 +152,55 @@ shopping-avatar-alt =
     .alt = Кәрзеңке
 soccer-avatar-alt =
     .alt = Футбол
+sparkle-single-avatar-alt =
+    .alt = Шоқ
 star-avatar-alt =
     .alt = Жұлдызша
 video-game-controller-avatar-alt =
     .alt = Видео ойын контроллері
 custom-avatar-alt =
     .alt = Таңдауыңызша аватар
+# Default favicon refers to the generic globe/world icon that appears in browser tabs when a website doesn't have its own favicon.
+default-favicon-avatar-alt =
+    .alt = Бастапқы таңбаша
+# Diamond refers to the precious stone, not the geometric shape
+diamond-avatar-alt =
+    .alt = Бриллиант
+barbell-avatar-alt =
+    .alt = Штанга
+bike-avatar-alt =
+    .alt = Велосипед
 
 ## Labels for default avatar icons
 
 book-avatar = Кітап
 briefcase-avatar = Портфель
+custom-avatar = Таңдауыңызша аватар
+# Default favicon refers to the generic globe/world icon that appears in browser tabs when a website doesn't have its own favicon.
+default-favicon-avatar = Бастапқы таңбаша
+# Diamond refers to the precious stone, not the geometric shape
+diamond-avatar = Бриллиант
 flower-avatar = Гүл
+folder-avatar = Бума
+hammer-avatar = Балға
 heart-avatar = Жүрек
+heart-rate-avatar = Жүрек соғу жиілігі
+history-avatar = Тарих
+leaf-avatar = Жапырақ
+lightbulb-avatar = Жарық шамы
+makeup-avatar = Косметика
+# Message refers to a text message, not a traditional letter/envelope message
+message-avatar = Хабарлама
+musical-note-avatar = Музыкалық нота
+palette-avatar = Палитра
+paw-print-avatar = Табан ізі
+plane-avatar = Ұшақ
+# Present refers to a gift box, not the current time period
+present-avatar = Сыйлық
 shopping-avatar = Кәрзеңке
+soccer-avatar = Футбол
+sparkle-single-avatar = Шоқ
 star-avatar = Жұлдызша
+video-game-controller-avatar = Видео ойын контроллері
+barbell-avatar = Штанга
+bike-avatar = Велосипед
