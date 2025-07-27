@@ -776,11 +776,15 @@ urlbar-searchmode-actions =
     .label = Oberoù
 urlbar-searchmode-exit-button =
     .tooltiptext = Serriñ
+urlbar-searchmode-default =
+    .tooltiptext = Lusker enklask dre ziouer
 # Label shown on the top of Searchmode Switcher popup. After this label, the
 # available search engines will be listed.
 urlbar-searchmode-popup-description = Ar wech-mañ, klask gant:
 urlbar-searchmode-popup-search-settings-menuitem =
     .label = Arventennoù enklask
+# Label shown next to a new search engine in the Searchmode Switcher popup to promote it.
+urlbar-searchmode-new = Nevez
 # Searchmode Switcher button
 # Variables:
 #   $engine (String): the current default search engine.
@@ -1237,3 +1241,11 @@ popup-show-popup-menuitem =
 file-picker-crashed-show-in-folder =
     .label = Diskouez en teuliad
     .accessKey = t
+
+## The urlbar trust panel
+
+trustpanel-clear-cookies-subview-button-clear = Skarzhañ
+trustpanel-clear-cookies-subview-button-cancel = Nullañ
+trustpanel-connection-not-secure = N’oc’h ket kennasket d’al lec’hienn-mañ en un doare sur.
+trustpanel-siteinformation-morelink = Muioc’h a ditouroù diwar-benn al lec’hienn
+trustpanel-blocker-see-all = Gwelet pep tra
