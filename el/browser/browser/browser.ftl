@@ -1380,6 +1380,10 @@ trustpanel-blocker-section-header =
         [one] <span>{ $count }</span> αποκλεισμένος ιχνηλάτης στον ιστότοπο
        *[other] <span>{ $count }</span> αποκλεισμένοι ιχνηλάτες στον ιστότοπο
     }
+trustpanel-blocker-description = Το { -brand-product-name } θεωρεί ότι οι εταιρείες πρέπει να σας ακολουθούν λιγότερο. Αποκλείουμε λοιπόν όσους περισσότερους μπορούμε.
+trustpanel-blocked-header = Το { -brand-product-name } απέκλεισε τα παρακάτω στοιχεία για εσάς:
+trustpanel-tracking-header = Το { -brand-product-name } επέτρεψε τα παρακάτω στοιχεία για την εύρυθμη λειτουργία των ιστοτόπων:
+trustpanel-tracking-description = Χωρίς τους ιχνηλάτες, ορισμένα κουμπιά, φόρμες και πεδία σύνδεσης ενδέχεται να μην λειτουργούν.
 trustpanel-insecure-section-header = Η σύνδεσή σας δεν είναι ασφαλής
 trustpanel-insecure-description = Τα δεδομένα που στέλνετε σε αυτόν τον ιστότοπο δεν είναι κρυπτογραφημένα. Μπορούν να προβληθούν, να υποκλαπούν ή να αλλοιωθούν.
 trustpanel-list-label-tracking-cookies =
@@ -1445,6 +1449,12 @@ trustpanel-fingerprinter-not-blocking-tab-header =
     { $count ->
         [one] Το { -brand-product-name } επέτρεψε { $count } fingerprinter
        *[other] Το { -brand-product-name } επέτρεψε { $count } fingerprinter
+    }
+trustpanel-fingerprinter-list-header = Αυτοί οι ιστότοποι προσπαθούν να σας αναλύσουν το ψηφιακό σας αποτύπωμα:
+trustpanel-cryptominer-blocking-tab-header =
+    { $count ->
+        [one] Το { -brand-product-name } απέκλεισε { $count } cryptominer
+       *[other] Το { -brand-product-name } απέκλεισε { $count } cryptominer
     }
 trustpanel-cryptominer-not-blocking-tab-header =
     { $count ->
