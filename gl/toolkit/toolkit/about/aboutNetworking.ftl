@@ -39,6 +39,7 @@ about-networking-dns-lookup = Buscar DNS
 about-networking-dns-lookup-button = Resolución
 about-networking-dns-domain = Dominio:
 about-networking-dns-lookup-table-column = Enderezos IP
+about-networking-dns-https-rrs-lookup-table-column = HTTPS RRs
 about-networking-dns-https-rr-lookup-table-column = RR HTTP
 about-networking-rcwn = Estatísticas RCWN
 about-networking-rcwn-status = Estado RCWN

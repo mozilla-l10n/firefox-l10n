@@ -526,6 +526,9 @@ pdfjs-editor-alt-text-settings-close-button = Pechar
 
 ## Accessibility labels (announced by screen readers) for objects added to the editor.
 
+pdfjs-editor-highlight-added-alert = Resaltado engadido
+pdfjs-editor-freetext-added-alert = Texto engadido
+pdfjs-editor-ink-added-alert = Debuxo engadido
 pdfjs-editor-stamp-added-alert = Imaxe engadida
 pdfjs-editor-signature-added-alert = Sinatura engadida
 

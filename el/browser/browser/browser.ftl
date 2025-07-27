@@ -1343,6 +1343,27 @@ trustpanel-blocker-see-all = Προβολή όλων
 ## Variables
 ##  $count (String): the number of trackers blocked.
 
+trustpanel-list-label-tracking-cookies =
+    { $count ->
+        [one] { $count } cookie καταγραφής μεταξύ ιστοτόπων
+       *[other] { $count } cookie καταγραφής μεταξύ ιστοτόπων
+    }
+trustpanel-list-label-tracking-content = Περιεχόμενο καταγραφής
+trustpanel-list-label-fingerprinter =
+    { $count ->
+        [one] { $count } fingerprinter
+       *[other] { $count } fingerprinter
+    }
+trustpanel-list-label-social-tracking =
+    { $count ->
+        [one] { $count } ιχνηλάτης κοινωνικών δικτύων
+       *[other] { $count } ιχνηλάτες κοινωνικών δικτύων
+    }
+trustpanel-list-label-cryptominer =
+    { $count ->
+        [one] { $count } cryptominer
+       *[other] { $count } cryptominer
+    }
 trustpanel-social-tracking-tab-list-header = Αυτοί οι ιστότοποι προσπαθούν να σας καταγράψουν:
 trustpanel-tracking-cookies-tab-list-header = Αυτοί οι ιστότοποι προσπαθούν να σας καταγράψουν:
 trustpanel-tracking-content-blocking-tab-header =

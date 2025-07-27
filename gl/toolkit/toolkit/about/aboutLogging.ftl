@@ -29,6 +29,7 @@ about-logging-no-log-modules = Nada
 about-logging-no-log-file = Nada
 about-logging-logging-preset-selector-text = Predefinición de rexistro:
 about-logging-with-profiler-stacks-checkbox = Activa os rastrexos da pila para as mensaxes de rexistro
+about-logging-with-javascript-tracing-checkbox = Activar o rastrexo JavaScript
 about-logging-menu =
     .title = Opcións avanzadas
 
@@ -52,6 +53,7 @@ about-logging-preset-webcodecs-label = WebCodecs
 about-logging-preset-webcodecs-description = Rexistrar módulos para diagnosticar problemas cos decodificadores e codificadores de audio/vídeo WebCodecs e os descodificadores de imaxe
 about-logging-preset-ml-label = Aprendizaxe automática
 about-logging-preset-ml-description = Rexistrar módulos para diagnosticar problemas de aprendizaxe automática
+about-logging-preset-web-compat-description = Módulos de rexistro para diagnosticar problemas de compatibilidade web
 about-logging-preset-webgpu-label = WebGPU
 about-logging-preset-webgpu-description = Rexistrar módulos para diagnosticar problemas de WebGPU
 about-logging-preset-gfx-label = Gráficos

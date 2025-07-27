@@ -128,8 +128,19 @@ folder-avatar-alt =
     .alt = Cartafol
 heart-avatar-alt =
     .alt = Corazón
+heart-rate-avatar-alt =
+    .alt = Frecuencia cardíaca
 history-avatar-alt =
     .alt = Historial
+leaf-avatar-alt =
+    .alt = Folla
+lightbulb-avatar-alt =
+    .alt = Bombilla
+makeup-avatar-alt =
+    .alt = Maquillaxe
+# Message refers to a text message, not a traditional letter/envelope message
+message-avatar-alt =
+    .alt = Mensaxe
 palette-avatar-alt =
     .alt = Paleta
 plane-avatar-alt =
@@ -162,5 +173,16 @@ book-avatar = Libro
 briefcase-avatar = Maletín
 flower-avatar = Flor
 heart-avatar = Corazón
+# Message refers to a text message, not a traditional letter/envelope message
+message-avatar = Mensaxe
+musical-note-avatar = Nota musical
+palette-avatar = Paleta
+plane-avatar = Avión
+# Present refers to a gift box, not the current time period
+present-avatar = Agasallo
 shopping-avatar = Carro da compra
+soccer-avatar = Fútbol
+sparkle-single-avatar = Brillo
 star-avatar = Estrela
+video-game-controller-avatar = Controlador de videoxogos
+bike-avatar = Bicicleta
