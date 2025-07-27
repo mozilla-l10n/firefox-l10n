@@ -1365,3 +1365,10 @@ trustpanel-privacy-link = Postavke privatnosti
 #  $host (String): the hostname of the site that is being displayed.
 trustpanel-clear-cookies-header =
     .title = Izbriši kolačiće i podatke stranica za { $host }
+trustpanel-clear-cookies-description = Uklanjanje kolačića i podataka web stranice će te možda odjaviti s web stranice i isprazniti košaricu.
+trustpanel-clear-cookies-subview-button-clear = Izbriši
+trustpanel-clear-cookies-subview-button-cancel = Odustani
+# Variables
+#  $host (String): the hostname of the site that is being displayed.
+trustpanel-site-information-header =
+    .title = Zaštite veze za { $host }

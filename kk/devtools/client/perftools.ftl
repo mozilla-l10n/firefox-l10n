@@ -141,6 +141,7 @@ perftools-presets-graphics-label = Графика
 perftools-presets-graphics-description = { -brand-shorter-name } ішінде графика ақаулықтарын зерттеуге арналған баптаулар жиынтығы.
 perftools-presets-media-label = Медиа
 perftools-presets-media-description2 = { -brand-shorter-name } ішінде аудио және видео ақаулықтарын зерттеуге арналған баптаулар жиынтығы.
+perftools-presets-ml-label = Машиналық оқыту
 perftools-presets-networking-label = Желі
 perftools-presets-networking-description = { -brand-shorter-name } ішінде желі ақаулықтарын зерттеуге арналған баптаулар жиынтығы.
 # "Power" is used in the sense of energy (electricity used by the computer).

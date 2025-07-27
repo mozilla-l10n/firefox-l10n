@@ -38,6 +38,7 @@ remove-search-engine-button = ОК
 ## Variables
 ## $newEngine (String) - the name of the new default search engine.
 
+reset-search-settings-message = Техникалық ақауға байланысты незігзі іздеу жүйеңіз қайтадан { $newEngine } болып өзгертілді. Негізгі іздеу жүйесін өзгерту үшін параметрлерге өтіңіз.
 reset-search-settings-button = ОК
 
 ## Infobar shown when user is prompted to install search engine.

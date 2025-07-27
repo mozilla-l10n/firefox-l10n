@@ -24,6 +24,15 @@ webext-perms-header2 = { $extension } қосу
 webext-perms-header-required-perms = Керек рұқсаттар:
 webext-perms-header-optional-settings = Қосымша баптаулар:
 webext-perms-header-update-required-perms = Жаңа талап етілетін рұқсаттар:
+webext-perms-header-optional-required-perms = Жаңа рұқсаттар:
+webext-perms-header-data-collection-perms = Міндетті деректерді жинау:
+webext-perms-header-data-collection-is-none = Деректер жинау:
+# This is a header used in the add-ons "update" prompt, shown when the new
+# version requires new data collection permissions.
+webext-perms-header-update-data-collection-perms = Жаңа міндетті деректерді жинау:
+# This is a header used in the add-ons "optional" prompt, shown when the
+# extension requests new data collection permissions programmatically.
+webext-perms-header-optional-data-collection-perms = Жаңа деректер жинауы:
 
 ##
 
@@ -41,6 +50,9 @@ webext-perms-sideload-enable =
 webext-perms-sideload-cancel =
     .label = Бас тарту
     .accesskey = с
+# Variables:
+#   $extension (String): replaced with the localized name of the extension.
+webext-perms-update-text2 = { $extension } жаңартылды. Жаңартылған нұсқасы орнатылу алдында жаңа рұқсаттарды сізге растау керек. "Бас тарту" таңдасаңыз, кеңейтудің ағымдағы нұсқасы қалатын болады.
 # Variables:
 #   $extension (String): replaced with the localized name of the extension.
 webext-perms-update-text = { $extension } жаңартылды. Жаңартылған нұсқасы орнатылу алдында жаңа рұқсаттарды сізге растау керек. "Бас тарту" таңдасаңыз, кеңейтудің ағымдағы нұсқасы қалатын болады. Бұл кеңейтудің келесі рұқсаттары болады:

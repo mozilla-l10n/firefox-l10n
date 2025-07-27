@@ -257,6 +257,8 @@ tab-group-editor-color-selector2-gray = Сұр
 tab-group-editor-color-selector2-red = Қызыл
     .title = Қызыл
 tab-group-description = { $tabGroupName } — топтар беті
+tab-group-label-tooltip-collapsed = { $tabGroupName } — Бүктелген
+tab-group-label-tooltip-expanded = { $tabGroupName } — Жазық етілген
 tab-context-unnamed-group =
     .label = Атаусыз топ
 tab-group-name-default = Атаусыз топ
@@ -279,6 +281,8 @@ tab-context-move-tab-to-group =
            *[other] Беттерді топқа қосу
         }
     .accesskey = б
+tab-context-move-tab-to-group-saved-groups =
+    .label = Жабық топтар
 tab-group-editor-action-new-tab =
     .label = Топтағы жаңа бет
 tab-group-editor-action-new-window =
@@ -304,6 +308,16 @@ tab-context-ungroup-tab =
            *[other] Топтардан өшіру
         }
     .accesskey = р
+# When a tab group containing the active tab is collapsed, the active tab
+# remains visible. An indicator appears at the end of the group showing the
+# number of remaining tabs that are hidden by the collapsed group,
+# e.g. "+2" for a group with 3 total tabs.
+tab-group-overflow-count = +{ $tabCount }
+tab-group-overflow-count-tooltip =
+    { $tabCount ->
+        [one] Тағы { $tabCount } бет
+       *[other] Тағы { $tabCount } бет
+    }
 
 ## Open/saved tab group context menu
 
