@@ -544,6 +544,8 @@ newtab-custom-wallpaper-cta = Δοκιμή
 
 ## Strings for new user activation custom wallpaper highlight
 
+newtab-new-user-custom-wallpaper-title = Επιλέξτε μια ταπετσαρία για να κάνετε το { -brand-product-name } δικό σας
+newtab-new-user-custom-wallpaper-subtitle = Νιώστε άνετα σε κάθε νέα καρτέλα με προσαρμοσμένες ταπετσαρίες και χρώματα.
 newtab-new-user-custom-wallpaper-cta = Δοκιμή τώρα
 
 ## Strings for download mobile highlight

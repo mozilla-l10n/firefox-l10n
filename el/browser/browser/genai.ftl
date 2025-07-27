@@ -93,6 +93,16 @@ genai-menu-no-provider =
     .label = Ερώτηση σε chatbot ΤΝ
 genai-menu-choose-chatbot =
     .label = Επιλέξτε ένα chatbot ΤΝ
+genai-menu-ask-generic-2 =
+    .label = Ερώτηση στο chatbot ΤΝ
+    .accesskey = ρ
+# $provider (string) - name of the provider
+genai-menu-ask-provider-2 =
+    .label = Ερώτηση στο { $provider }
+    .accesskey = ρ
+genai-menu-no-provider-2 =
+    .label = Ερώτηση σε chatbot ΤΝ
+    .accesskey = ρ
 
 ## Chatbot header
 

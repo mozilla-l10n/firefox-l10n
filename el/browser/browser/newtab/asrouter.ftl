@@ -343,6 +343,12 @@ multi-cta-fox-doodle-privacy-focused-subtitle =
     }
 multi-cta-fox-doodle-msix-privacy-focused-subtitle = Κρατήστε σε απόσταση ενός κλικ το αγαπημένο σας πρόγραμμα περιήγησης, που δίνει έμφαση στο απόρρητο. Ορίστε το { -brand-short-name } ως προεπιλογή για το άνοιγμα συνδέσμων και καρφιτσώστε το στη γραμμή εργασιών και το μενού «Έναρξη» σας.
 
+## Windows 10 EoS Sync messages group 1 spotlight
+
+windows-10-eos-sync-spotlight-title = Σκοπεύετε να κάνετε σύντομα αναβάθμιση από τα Windows 10;
+
 ## Windows 10 EoS Sync messages group 1 toast notification
 
+windows-10-eos-sync-toast-title = Κάνετε αναβάθμιση στα Windows 11; Μην χάσετε σελιδοδείκτες και κωδικούς πρόσβασης.
+windows-10-eos-sync-toast-primary-label = Έναρξη
 windows-10-eos-sync-toast-secondary-label = Υπενθύμιση αργότερα
