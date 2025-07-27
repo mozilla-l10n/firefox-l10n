@@ -527,6 +527,10 @@ newtab-section-manage-topics-button-v2 =
 newtab-section-mangage-topics-blocked-topics = Бұғатталған
 newtab-custom-wallpaper-cta = Қолданып көру
 
+## Strings for new user activation custom wallpaper highlight
+
+newtab-new-user-custom-wallpaper-cta = Қазір қолданып көру
+
 ## Strings for download mobile highlight
 
 newtab-download-mobile-highlight-title = Мобильді { -brand-product-name } жүктеп алу

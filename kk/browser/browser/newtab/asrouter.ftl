@@ -340,3 +340,8 @@ multi-cta-fox-doodle-privacy-focused-subtitle =
        *[other] Жекелікке бағытталған таңдаулы браузеріңізді қасыңызда ұстауға болатынын еске саламыз. { -brand-short-name } сілтемелерді ашатын негізгі браузер қылыңыз және тапсырмалар панеліне бекітіңіз.
     }
 multi-cta-fox-doodle-msix-privacy-focused-subtitle = Жекелікке бағытталған таңдаулы браузеріңізді қасыңызда ұстауға болатынын еске саламыз. { -brand-short-name } сілтемелерді ашатын негізгі браузер қылыңыз және тапсырмалар панелі мен Бастау мәзіріне бекітіңіз.
+
+## Windows 10 EoS Sync messages group 1 toast notification
+
+windows-10-eos-sync-toast-primary-label = Бастау
+windows-10-eos-sync-toast-secondary-label = Кейінірек еске салу

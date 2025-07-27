@@ -145,6 +145,7 @@ genai-onboarding-lechat-learn = Le Chat туралы көбірек білу
 genai-onboarding-select-header = Ұсыныстарды көру үшін мәтінді таңдаңыз
 genai-onboarding-select-description = Мәтінді таңдаған кезде чат-ботқа жіберуге болатын ескертулерді ұсынамыз. Сіз өзіңіздің сұрауларыңызды да жаза аласыз.
 genai-onboarding-select-primary = Чатты бастау
+genai-chatbot-contextual-title = ЖИ чат-ботын бетті ауыстырмай қолдану
 genai-chatbot-contextual-button = Чат-ботты таңдау
 genai-chatbot-summarize-title = Жаңа! Бір шерту арқылы беттерді қорытындылау
 genai-chatbot-summarize-button = Бетті қорытындылау
@@ -178,3 +179,18 @@ genai-model-optin-optout =
     .label = Бас тарту
 genai-model-optin-cancel =
     .label = Бас тарту
+
+## Link previews
+
+# ‘min’ is short for “minute”
+# ‘mins’ is short for “minutes”
+# An estimate for how long it takes to read an article,
+# expressed as a range covering both slow and fast readers.
+# Variables:
+#   $rangePlural (String): The plural category of the range, using the same set as for numbers.
+#   $range (String): The range of minutes as a localised string. Examples: "3-7", "~1".
+link-preview-reading-time =
+    { $rangePlural ->
+        [one] оқу уақыты { $range } минут
+       *[other] оқу уақыты { $range } минут
+    }
