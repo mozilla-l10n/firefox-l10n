@@ -126,6 +126,8 @@ flower-avatar-alt =
     .alt = Flor
 folder-avatar-alt =
     .alt = Cartafol
+hammer-avatar-alt =
+    .alt = Martelo
 heart-avatar-alt =
     .alt = Corazón
 heart-rate-avatar-alt =
@@ -145,6 +147,8 @@ musical-note-avatar-alt =
     .alt = Nota musical
 palette-avatar-alt =
     .alt = Paleta
+paw-print-avatar-alt =
+    .alt = Pegada da pata
 plane-avatar-alt =
     .alt = Avión
 # Present refers to a gift box, not the current time period
@@ -168,6 +172,8 @@ default-favicon-avatar-alt =
 # Diamond refers to the precious stone, not the geometric shape
 diamond-avatar-alt =
     .alt = Diamante
+barbell-avatar-alt =
+    .alt = Barra
 bike-avatar-alt =
     .alt = Bicicleta
 
@@ -197,6 +203,7 @@ makeup-avatar = Maquillaxe
 message-avatar = Mensaxe
 musical-note-avatar = Nota musical
 palette-avatar = Paleta
+paw-print-avatar = Pegada da pata
 plane-avatar = Avión
 # Present refers to a gift box, not the current time period
 present-avatar = Agasallo
@@ -205,4 +212,5 @@ soccer-avatar = Fútbol
 sparkle-single-avatar = Brillo
 star-avatar = Estrela
 video-game-controller-avatar = Controlador de videoxogos
+barbell-avatar = Barra
 bike-avatar = Bicicleta

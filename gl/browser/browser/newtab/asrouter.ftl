@@ -353,5 +353,6 @@ windows-10-eos-sync-spotlight-primary-label = Fai unha copia de seguranza do teu
 ## Windows 10 EoS Sync messages group 1 toast notification
 
 windows-10-eos-sync-toast-title = Actualizando a Windows 11? Non perdas os marcadores nin os contrasinais.
+windows-10-eos-sync-toast-subtitle = Fai unha copia de seguranza dos teus datos para que { -brand-short-name } estea listo para funcionar en calquera momento, neste PC ou no seguinte.
 windows-10-eos-sync-toast-primary-label = Comezar
 windows-10-eos-sync-toast-secondary-label = Lembrarmo máis tarde
