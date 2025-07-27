@@ -168,6 +168,26 @@ permissions-site-camera-disable-label =
     .label = Blocca nuove richieste di accesso alla fotocamera
 permissions-site-camera-disable-desc = Verrà impedito a qualunque sito web non presente nell’elenco di richiedere il permesso di accedere alla fotocamera. L’impossibilità di accedere al dispositivo potrebbe comportare il malfunzionamento di alcuni siti web.
 
+## Site Permissions - Local host
+
+permissions-site-localhost-window =
+    .title = Impostazioni - App e servizi del dispositivo
+    .style = { permissions-window2.style }
+permissions-site-localhost-desc = Questi siti web hanno richiesto l’accesso ad app e servizi su questo dispositivo. Puoi scegliere di consentire o impedire ai siti di eseguire questa operazione.
+permissions-site-localhost-disable-label =
+    .label = Blocca nuove richieste di accesso ad app e servizi su questo dispositivo
+permissions-site-localhost-disable-desc = Verrà impedito a qualunque sito web non presente nell’elenco di richiedere il permesso di accedere ad app e servizi su questo dispositivo. Questo potrebbe comportare il malfunzionamento di alcuni siti web.
+
+## Site Permissions - Local network
+
+permissions-site-local-network-window =
+    .title = Impostazioni - Dispositivi di rete locale
+    .style = { permissions-window2.style }
+permissions-site-local-network-desc = Questi siti web hanno richiesto l’accesso ad app e servizi su dispositivi connessi alla tua rete Wi-Fi o locale. Puoi scegliere di consentire o impedire ai siti di eseguire questa operazione.
+permissions-site-local-network-disable-label =
+    .label = Blocca nuove richieste di accesso ad app e servizi su dispositivi connessi alla tua rete Wi-Fi o locale.
+permissions-site-local-network-disable-desc = Verrà impedito a qualunque sito web non presente nell’elenco di richiedere il permesso di accedere ad app e servizi su dispositivi connessi al tuo Wi-Fi o dispositivi di rete locale. Questo potrebbe comportare il malfunzionamento di alcuni siti web.
+
 ## Site Permissions - Microphone
 
 permissions-site-microphone-window2 =
