@@ -387,6 +387,7 @@ quickactions-print2 = Cetak halaman
 quickactions-cmd-print = cetak
 # Opens the print dialog at the save to PDF option
 quickactions-savepdf = Simpan laman sebagai PDF
+quickactions-cmd-savepdf2 = pdf, simpan halaman
 quickactions-cmd-savepdf = pdf
 # Opens a new private browsing window
 quickactions-private2 = Buka jendela pribadi
@@ -403,6 +404,8 @@ quickactions-cmd-screenshot2 = tangkapan layar, ambil tangkapan layar
 quickactions-cmd-screenshot = tangkapan layar
 # Opens about:preferences
 quickactions-settings2 = Kelola pengaturan
+# "manage" should match the corresponding command, which is “Manage settings” in English.
+quickactions-cmd-settings2 = pengaturan, preferensi, opsi, kelola
 quickactions-cmd-settings = pengaturan, preferensi, pilihan
 # Opens about:addons page in the themes section
 quickactions-themes = Kelola tema
@@ -603,6 +606,10 @@ urlbar-search-mode-indicator-close =
 # engine is unknown.
 urlbar-placeholder =
     .placeholder = Cari atau masukkan alamat
+# This placeholder is used when not in search mode and searching in the urlbar
+# is disabled via the keyword.enabled pref.
+urlbar-placeholder-keyword-disabled =
+    .placeholder = Masukkan alamat
 # This placeholder is used in search mode with search engines that search the
 # entire web.
 # Variables
@@ -682,6 +689,8 @@ urlbar-result-action-visit = Kunjungi
 # Variables
 # $container (String): the name of the target container
 urlbar-result-action-switch-tab-with-container = Pindah ke Tab · <span>{ $container }</span>
+# Used when the target tab is in a tab group that doesn't have a label.
+urlbar-result-action-tab-group-unnamed = Grup tanpa nama
 # Allows the user to visit a URL that was previously copied to the clipboard.
 urlbar-result-action-visit-from-clipboard = Kunjungi dari papan klip
 # Directs a user to press the Tab key to perform a search with the specified
@@ -812,6 +821,9 @@ urlbar-group-recent-searches =
 #  $engine (String): the name of the search engine providing the trending suggestions
 urlbar-group-trending =
     .label = Ngetren di { $engine }
+# Label shown above sponsored suggestions in the urlbar results.
+urlbar-group-sponsored =
+    .label = Disponsori
 # The result menu labels shown next to trending results.
 urlbar-result-menu-trending-dont-show =
     .label = Jangan tampilkan penelusuran ngetren

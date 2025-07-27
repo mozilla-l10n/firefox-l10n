@@ -34,6 +34,12 @@ removed-search-engine-message = <strong>Mesin pencari baku Anda telah diubah.</s
 removed-search-engine-message2 = <strong>Mesin pencari baku Anda telah diubah.</strong> { $oldEngine } tidak lagi tersedia sebagai mesin pencari baku di { -brand-short-name }. Kini, { $newEngine } menjadi mesin pencari baku Anda. Untuk mengubah ke mesin pencari baku lainnya, buka pengaturan.
 remove-search-engine-button = Oke
 
+## Infobar shown when default search engine is reset due to an issue reading the settings file.
+## Variables
+## $newEngine (String) - the name of the new default search engine.
+
+reset-search-settings-message = Karena masalah teknis, mesin pencari baku Anda telah diubah kembali menjadi { $newEngine }. Untuk mengubah mesin pencari baku, buka pengaturan.
+
 ## Infobar shown when user is prompted to install search engine.
 ## Variables
 ## $engineName (String) - the name of the search engine to install.

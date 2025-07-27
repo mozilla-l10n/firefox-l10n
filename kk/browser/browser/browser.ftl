@@ -1336,6 +1336,7 @@ trustpanel-etp-label-enabled = Бақылаудан кеңейтілген қо�
 trustpanel-etp-label-disabled = Бақылаудан кеңейтілген қорғаныс сөндірулі
 trustpanel-connection-label-secure = Байланыс қауіпсіз
 trustpanel-connection-label-insecure = Байланыс қауіпсіз емес
+trustpanel-privacy-link = Жекелік баптаулары
 trustpanel-clear-cookies-subview-button-clear = Тазарту
 trustpanel-clear-cookies-subview-button-cancel = Бас тарту
 trustpanel-siteinformation-morelink = Сайт туралы қосымша ақпарат
