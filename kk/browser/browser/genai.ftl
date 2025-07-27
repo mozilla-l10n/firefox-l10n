@@ -76,6 +76,16 @@ genai-menu-no-provider =
     .label = ЖИ чат-ботын сұрау
 genai-menu-choose-chatbot =
     .label = ЖИ чат-ботын таңдау
+genai-menu-ask-generic-2 =
+    .label = ЖИ чат-ботынан сұрау
+    .accesskey = ч
+# $provider (string) - name of the provider
+genai-menu-ask-provider-2 =
+    .label = { $provider } сұрау
+    .accesskey = р
+genai-menu-no-provider-2 =
+    .label = ЖИ чат-ботын сұрау
+    .accesskey = ч
 
 ## Chatbot header
 

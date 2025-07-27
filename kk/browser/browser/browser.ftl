@@ -1337,6 +1337,10 @@ trustpanel-etp-label-disabled = Бақылаудан кеңейтілген қо
 trustpanel-connection-label-secure = Байланыс қауіпсіз
 trustpanel-connection-label-insecure = Байланыс қауіпсіз емес
 trustpanel-privacy-link = Жекелік баптаулары
+# Variables
+#  $host (String): the hostname of the site that is being displayed.
+trustpanel-clear-cookies-header =
+    .title = { $host } үшін cookie файлдары мен сайт деректерін өшіру
 trustpanel-clear-cookies-subview-button-clear = Тазарту
 trustpanel-clear-cookies-subview-button-cancel = Бас тарту
 trustpanel-siteinformation-morelink = Сайт туралы қосымша ақпарат
@@ -1345,3 +1349,23 @@ trustpanel-blocker-see-all = Барлығын қарау
 #  $host (String): the hostname of the site that is being displayed.
 trustpanel-blocker-header =
     .title = { $host } үшін бақылаудан қорғаныстар
+
+## Variables
+##  $count (String): the number of trackers blocked.
+
+trustpanel-list-label-tracking-content = Бақылайтын мазмұн
+trustpanel-list-label-fingerprinter =
+    { $count ->
+        [one] { $count } цифрлық саусақ іздерін жинаушы
+       *[other] { $count } цифрлық саусақ іздерін жинаушы
+    }
+trustpanel-list-label-social-tracking =
+    { $count ->
+        [one] { $count } әлеуметтік желі медиа трекері
+       *[other] { $count } әлеуметтік желі медиа трекері
+    }
+trustpanel-list-label-cryptominer =
+    { $count ->
+        [one] { $count } криптомайнер
+       *[other] { $count } криптомайнер
+    }
