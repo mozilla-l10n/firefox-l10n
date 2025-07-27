@@ -132,14 +132,14 @@ whatsnew-panel-footer-checkbox =
 ## "Enable Profiler Menu Button".
 
 profiler-popup-button-idle =
-    .label = Alat za profiliranje
+    .label = Profiler
     .tooltiptext = Snimi profil performanse
 profiler-popup-button-recording =
-    .label = Alat za profiliranje
-    .tooltiptext = Alat za profiliranje zapisuje profil
+    .label = Profiler
+    .tooltiptext = Profiler snima jedan profil
 profiler-popup-button-capturing =
-    .label = Alat za profiliranje
-    .tooltiptext = Alat za profiliranje snima profil
+    .label = Profiler
+    .tooltiptext = Profiler snima jedan profil
 profiler-popup-header-text = { -profiler-brand-name }
 profiler-popup-reveal-description-button =
     .aria-label = Otkrij više informacija
@@ -170,6 +170,9 @@ profiler-popup-capture-shortcut =
         [macos] ⌃⇧2
        *[other] Ctrl+Shift+2
     }
+profiler-button-dropmarker =
+    .label = Otvori ploču profilera
+    .tooltiptext = Otvori ploču profilera
 
 ## Profiler presets
 ## They are shown in the popup's select box.

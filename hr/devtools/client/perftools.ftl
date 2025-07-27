@@ -7,7 +7,7 @@
 ### the remote profiling panel. There are additional profiler strings in the appmenu.ftl
 ### file that are used for the profiler popup.
 
-perftools-intro-title = Postavke profiliranja
+perftools-intro-title = Postavke profilera
 perftools-intro-description =
     Snimanja pokreću profiler.firefox.com u novoj kartici. Svi se podaci spremaju
     lokalno, ali ih možeš prenijeti za dijeljenje.
@@ -70,7 +70,7 @@ perftools-thread-dom-worker =
 ## Onboarding UI labels. These labels are displayed in the new performance panel UI, when
 ## devtools.performance.new-panel-onboarding preference is true.
 
-perftools-onboarding-message = <b>Novo</b>: { -profiler-brand-name } je sada integriran u alate za programere. <a>Saznaj više</a> o ovom moćnom novom alatu.
+perftools-onboarding-message = <b>Novi</b>: { -profiler-brand-name } je sada integriran u alate za programere. <a>Saznaj više</a> o ovom moćnom novom alatu.
 
 ## Profiler presets
 
