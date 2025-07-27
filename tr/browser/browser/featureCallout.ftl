@@ -117,13 +117,16 @@ fxa-adoption-passwords-primary-button-label = Kaydol
 windows-10-eos-sync-urgency-title-1 = Windows 11’e geçerken daha önce kaydettiğiniz şeyleri kaybetmeyin.
 windows-10-eos-sync-urgency-subtitle-1 = { -brand-short-name } yer imlerinizi, parolalarınızı ve ayarlarınızı güvende tutmak ve istediğinizde kolayca geri yüklemek için şimdi eşitleme yapın.
 windows-10-eos-sync-urgency-title-2 = Windows 10’a veda mı ediyorsunuz? Geçiş yaparken verilerinizi koruyun.
+windows-10-eos-sync-urgency-subtitle-2 = Her gün { -brand-short-name } kullanmasanız bile yer imlerinizi ve parolalarınızı güvende ve erişilebilir tutmak için eşitleme yapın.
 windows-10-eos-sync-new-device-title-1 = Yeni cihazınızda sıfırdan başlamak zorunda kalmayın.
 windows-10-eos-sync-new-device-subtitle-1 = Taşınırken { -brand-short-name } yer imlerinizi, parolalarınızı ve tercih ettiğiniz ayarlarınızı yanınızda götürmek için şimdi eşitleme yapın.
 windows-10-eos-sync-new-device-title-2 = Yeni bir cihaza mı geçiyorsunuz? Önemli verilerinizi kaybetmeyin.
+windows-10-eos-sync-new-device-subtitle-2 = { -brand-short-name } tarayıcısını ne sıklıkta kullanırsanız kullanın; eşitleme yaparak yer imlerinizi, parolalarınızı ve ayarlarınızı koruyabilirsiniz.
 windows-10-eos-sync-new-device-primary-label = Şimdi eşitle
 windows-10-eos-sync-general-subtitle-1 = Önemli bilgilerinizi kaybetmemek için parolalarınızı, yer imlerinizi, ayarlarınızı ve diğer verilerinizi yedekleyin ve eşitleyin.
 windows-10-eos-sync-general-title-2 = Şimdi parolalarınızı ve yer imlerinizi yedeklemenin tam zamanı.
 windows-10-eos-sync-tour-title-1 = Çok fazla sekmeniz mi var? Sekmelerinizi gruplandırarak ortalığı toplayın.
+windows-10-eos-sync-tour-subtitle-1 = Sekmeleri üst üste sürükleyerek grup oluşturup sekmeleri daha düzenli tutabilirsiniz.
 windows-10-eos-sync-tour-subtitle-2 = Geçiş yapmadan önce yer imlerinizi, parolalarınızı ve ayarlarınızı yedeklemek için eşitleme yapın.
 
 ## Sidebar Strings

@@ -346,6 +346,7 @@ multi-cta-fox-doodle-msix-privacy-focused-subtitle = Gizlilik odaklı favori tar
 
 ## Windows 10 EoS Sync messages group 1 spotlight
 
+windows-10-eos-sync-spotlight-subtitle = Parolalarınızı ve yer imlerinizi yedekleyerek yeni cihazınıza geçmeye hazırlanın.
 windows-10-eos-sync-spotlight-primary-label = { -brand-short-name } tarayıcınızı yedekleyin
 
 ## Windows 10 EoS Sync messages group 1 toast notification

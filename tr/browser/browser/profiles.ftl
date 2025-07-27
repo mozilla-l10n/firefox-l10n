@@ -163,6 +163,9 @@ video-game-controller-avatar-alt =
     .alt = Video oyun kumandası
 custom-avatar-alt =
     .alt = Özel avatar
+# Default favicon refers to the generic globe/world icon that appears in browser tabs when a website doesn't have its own favicon.
+default-favicon-avatar-alt =
+    .alt = Varsayılan site simgesi
 # Diamond refers to the precious stone, not the geometric shape
 diamond-avatar-alt =
     .alt = Elmas
@@ -178,6 +181,8 @@ briefcase-avatar = Çanta
 # Canvas refers to an artist's painting canvas, not the general material
 canvas-avatar = Tuval
 custom-avatar = Özel avatar
+# Default favicon refers to the generic globe/world icon that appears in browser tabs when a website doesn't have its own favicon.
+default-favicon-avatar = Varsayılan site simgesi
 # Diamond refers to the precious stone, not the geometric shape
 diamond-avatar = Elmas
 flower-avatar = Çiçek
