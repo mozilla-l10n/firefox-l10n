@@ -81,7 +81,7 @@ protections-panel-smartblock-blocking-toggle =
     .label = დაიშვას { $trackername }
 #  $trackername (String): the name of the tracker that is currently being blocked.
 smartblock-placeholder-title = { $trackername } მეთვალყურეებითა და შიგთავსით იზღუდება
-smartblock-placeholder-desc = თქვენი { -brand-short-name } მითითებული პარამეტრებით უზღუდავს ამ შიგთავსს თქვენს თვალთვალს სხვადასხვა საიტებზე ან სარეკლამოებისთვის გამოყენებას.
+smartblock-placeholder-desc = თქვენი { -brand-short-name } გამართულია ისე, რომ ამ შიგთავსით ვერ შეძლონ თვალის დევნება სხვადასხვა საიტზე ან მონაცემთა აღრიცხვა სარეკლამოდ.
 #  $websitehost (String): host of website with blocked content.
 smartblock-placeholder-button-text = დაიშვას { $websitehost }
 
