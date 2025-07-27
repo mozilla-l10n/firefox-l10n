@@ -141,6 +141,8 @@ makeup-avatar-alt =
 # Message refers to a text message, not a traditional letter/envelope message
 message-avatar-alt =
     .alt = Mensaxe
+musical-note-avatar-alt =
+    .alt = Nota musical
 palette-avatar-alt =
     .alt = Paleta
 plane-avatar-alt =
@@ -166,13 +168,31 @@ default-favicon-avatar-alt =
 # Diamond refers to the precious stone, not the geometric shape
 diamond-avatar-alt =
     .alt = Diamante
+bike-avatar-alt =
+    .alt = Bicicleta
 
 ## Labels for default avatar icons
 
 book-avatar = Libro
 briefcase-avatar = Maletín
+# Canvas refers to an artist's painting canvas, not the general material
+canvas-avatar = Lenzo
+# Craft refers to hobby arts and crafts, represented by a button/fastener commonly found on clothing like shirts
+craft-avatar = Artesanía
+custom-avatar = Avatar personalizado
+# Default favicon refers to the generic globe/world icon that appears in browser tabs when a website doesn't have its own favicon.
+default-favicon-avatar = Favicon predeterminado
+# Diamond refers to the precious stone, not the geometric shape
+diamond-avatar = Diamante
 flower-avatar = Flor
+folder-avatar = Cartafol
+hammer-avatar = Martelo
 heart-avatar = Corazón
+heart-rate-avatar = Frecuencia cardíaca
+history-avatar = Historial
+leaf-avatar = Folla
+lightbulb-avatar = Bombilla
+makeup-avatar = Maquillaxe
 # Message refers to a text message, not a traditional letter/envelope message
 message-avatar = Mensaxe
 musical-note-avatar = Nota musical

@@ -1332,17 +1332,47 @@ onboarding-aw-finish-setup-button =
 
 ## The urlbar trust panel
 
+trustpanel-etp-label-enabled = Η Ενισχυμένη προστασία από καταγραφή είναι ενεργή
+trustpanel-etp-label-disabled = Η Ενισχυμένη προστασία από καταγραφή είναι ανενεργή
+# Variables
+#  $host (String): the hostname of the site that is being displayed.
+trustpanel-etp-toggle-on =
+    .aria-label = Ενισχυμένη προστασία από καταγραφή: ενεργή στο { $host }
+# Variables
+#  $host (String): the hostname of the site that is being displayed.
+trustpanel-etp-toggle-off =
+    .aria-label = Ενισχυμένη προστασία από καταγραφή: ανενεργή στο { $host }
+trustpanel-etp-description-enabled = Εάν κάτι δεν λειτουργεί σωστά σε αυτόν τον ιστότοπο, δοκιμάστε να απενεργοποιήσετε την προστασία.
 trustpanel-connection-label-secure = Ασφαλής σύνδεση
 trustpanel-connection-label-insecure = Μη ασφαλής σύνδεση
+trustpanel-header-enabled = Το { -brand-product-name } είναι σε επιφυλακή
+trustpanel-description-enabled = Προστατεύεστε. Αν εντοπίσουμε κάτι, θα σας ενημερώσουμε.
 trustpanel-header-disabled = Απενεργοποιήσατε την προστασία
+trustpanel-description-disabled = Το { -brand-product-name } είναι εκτός υπηρεσίας. Προτείνουμε να ενεργοποιήσετε ξανά την προστασία.
 trustpanel-privacy-link = Ρυθμίσεις απορρήτου
 trustpanel-clear-cookies-subview-button-cancel = Ακύρωση
+# Variables
+#  $host (String): the hostname of the site that is being displayed.
+trustpanel-site-information-header =
+    .title = Προστασία σύνδεσης για το { $host }
+trustpanel-connection-secure = Η σύνδεσή σας με αυτόν τον ιστότοπο είναι ασφαλής.
+trustpanel-connection-not-secure = Η σύνδεσή σας με αυτόν τον ιστότοπο δεν είναι ασφαλής.
 trustpanel-siteinformation-morelink = Περισσότερες πληροφορίες ιστοτόπου
 trustpanel-blocker-see-all = Προβολή όλων
+# Variables
+#  $host (String): the hostname of the site that is being displayed.
+trustpanel-blocker-header =
+    .title = Προστασία από καταγραφή για το { $host }
 
 ## Variables
 ##  $count (String): the number of trackers blocked.
 
+trustpanel-blocker-section-header =
+    { $count ->
+        [one] <span>{ $count }</span> αποκλεισμένος ιχνηλάτης στον ιστότοπο
+       *[other] <span>{ $count }</span> αποκλεισμένοι ιχνηλάτες στον ιστότοπο
+    }
+trustpanel-insecure-section-header = Η σύνδεσή σας δεν είναι ασφαλής
 trustpanel-list-label-tracking-cookies =
     { $count ->
         [one] { $count } cookie καταγραφής μεταξύ ιστοτόπων

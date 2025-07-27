@@ -116,6 +116,12 @@ book-avatar-alt =
     .alt = Βιβλίο
 briefcase-avatar-alt =
     .alt = Χαρτοφύλακας
+# Canvas refers to an artist's painting canvas, not the general material
+canvas-avatar-alt =
+    .alt = Καμβάς
+# Craft refers to hobby arts and crafts, represented by a button/fastener commonly found on clothing like shirts
+craft-avatar-alt =
+    .alt = Χειροτεχνίες
 flower-avatar-alt =
     .alt = Λουλούδι
 folder-avatar-alt =
@@ -124,6 +130,10 @@ hammer-avatar-alt =
     .alt = Σφυρί
 heart-avatar-alt =
     .alt = Καρδιά
+heart-rate-avatar-alt =
+    .alt = Καρδιακός ρυθμός
+history-avatar-alt =
+    .alt = Ιστορικό
 leaf-avatar-alt =
     .alt = Φύλλο
 lightbulb-avatar-alt =
@@ -137,6 +147,8 @@ musical-note-avatar-alt =
     .alt = Μουσική νότα
 palette-avatar-alt =
     .alt = Παλέτα
+paw-print-avatar-alt =
+    .alt = Πατημασιά ζώου
 plane-avatar-alt =
     .alt = Αεροπλάνο
 # Present refers to a gift box, not the current time period
@@ -146,8 +158,12 @@ shopping-avatar-alt =
     .alt = Καλάθι αγορών
 soccer-avatar-alt =
     .alt = Ποδόσφαιρο
+sparkle-single-avatar-alt =
+    .alt = Λάμψη
 star-avatar-alt =
     .alt = Αστέρι
+video-game-controller-avatar-alt =
+    .alt = Χειριστήριο βιντεοπαιχνιδιού
 custom-avatar-alt =
     .alt = Προσαρμοσμένο avatar
 # Default favicon refers to the generic globe/world icon that appears in browser tabs when a website doesn't have its own favicon.
@@ -156,6 +172,8 @@ default-favicon-avatar-alt =
 # Diamond refers to the precious stone, not the geometric shape
 diamond-avatar-alt =
     .alt = Διαμάντι
+barbell-avatar-alt =
+    .alt = Μπάρα
 bike-avatar-alt =
     .alt = Ποδήλατο
 
@@ -163,6 +181,10 @@ bike-avatar-alt =
 
 book-avatar = Βιβλίο
 briefcase-avatar = Χαρτοφύλακας
+# Canvas refers to an artist's painting canvas, not the general material
+canvas-avatar = Καμβάς
+# Craft refers to hobby arts and crafts, represented by a button/fastener commonly found on clothing like shirts
+craft-avatar = Χειροτεχνίες
 custom-avatar = Προσαρμοσμένο εικονίδιο
 # Default favicon refers to the generic globe/world icon that appears in browser tabs when a website doesn't have its own favicon.
 default-favicon-avatar = Προεπιλεγμένο εικονίδιο
@@ -172,6 +194,8 @@ flower-avatar = Λουλούδι
 folder-avatar = Φάκελος
 hammer-avatar = Σφυρί
 heart-avatar = Καρδιά
+heart-rate-avatar = Καρδιακός ρυθμός
+history-avatar = Ιστορικό
 leaf-avatar = Φύλλο
 lightbulb-avatar = Λαμπτήρας
 makeup-avatar = Μακιγιάζ
@@ -179,10 +203,14 @@ makeup-avatar = Μακιγιάζ
 message-avatar = Μήνυμα
 musical-note-avatar = Μουσική νότα
 palette-avatar = Παλέτα
+paw-print-avatar = Πατημασιά ζώου
 plane-avatar = Αεροπλάνο
 # Present refers to a gift box, not the current time period
 present-avatar = Δώρο
 shopping-avatar = Καλάθι αγορών
 soccer-avatar = Ποδόσφαιρο
+sparkle-single-avatar = Λάμψη
 star-avatar = Αστέρι
+video-game-controller-avatar = Χειριστήριο βιντεοπαιχνιδιού
+barbell-avatar = Μπάρα
 bike-avatar = Ποδήλατο

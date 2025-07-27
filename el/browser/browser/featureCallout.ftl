@@ -116,6 +116,7 @@ fxa-adoption-passwords-primary-button-label = Εγγραφή
 
 windows-10-eos-sync-urgency-title-2 = Αποχαιρετάτε τα Windows 10; Προστατέψτε τα δεδομένα σας κατά τη μετάβαση.
 windows-10-eos-sync-new-device-primary-label = Συγχρονισμός τώρα
+windows-10-eos-sync-general-title-1 = Προστατέψτε το { -brand-short-name } που έχετε κάνει δικό σας.
 windows-10-eos-sync-tour-title-2 = Οργανωθείτε για τα Windows 11.
 
 ## Sidebar Strings
