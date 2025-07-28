@@ -121,14 +121,54 @@ canvas-avatar-alt =
     .alt = Platno
 flower-avatar-alt =
     .alt = Cvijet
+folder-avatar-alt =
+    .alt = Mapa
+hammer-avatar-alt =
+    .alt = Čekić
 heart-avatar-alt =
     .alt = Srce
+heart-rate-avatar-alt =
+    .alt = Otkucaji srca
+history-avatar-alt =
+    .alt = Povijest
+leaf-avatar-alt =
+    .alt = List
+lightbulb-avatar-alt =
+    .alt = Žarulja
+makeup-avatar-alt =
+    .alt = Šminka
+# Message refers to a text message, not a traditional letter/envelope message
+message-avatar-alt =
+    .alt = Poruka
+musical-note-avatar-alt =
+    .alt = Nota
+palette-avatar-alt =
+    .alt = Paleta
+paw-print-avatar-alt =
+    .alt = Otisak šape
+plane-avatar-alt =
+    .alt = Avion
+# Present refers to a gift box, not the current time period
+present-avatar-alt =
+    .alt = Poklon
 shopping-avatar-alt =
     .alt = Kolica za kupnju
+soccer-avatar-alt =
+    .alt = Nogomet
+sparkle-single-avatar-alt =
+    .alt = Iskra
 star-avatar-alt =
     .alt = Zvijezda
+video-game-controller-avatar-alt =
+    .alt = Kontroler za videoigre
 custom-avatar-alt =
     .alt = Prilagođeni avatar
+# Default favicon refers to the generic globe/world icon that appears in browser tabs when a website doesn't have its own favicon.
+default-favicon-avatar-alt =
+    .alt = Standardni favicon
+# Diamond refers to the precious stone, not the geometric shape
+diamond-avatar-alt =
+    .alt = Dijamant
 
 ## Labels for default avatar icons
 

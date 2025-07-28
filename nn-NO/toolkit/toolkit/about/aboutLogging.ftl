@@ -29,6 +29,7 @@ about-logging-no-log-modules = Ingen
 about-logging-no-log-file = Ingen
 about-logging-logging-preset-selector-text = Førehandsval for logging:
 about-logging-with-profiler-stacks-checkbox = Aktiver stack-sporing for loggmeldingar
+about-logging-with-javascript-tracing-checkbox = Aktiver JavaScript-sporing
 about-logging-menu =
     .title = Avanserte innstillingar
 
@@ -52,6 +53,8 @@ about-logging-preset-webcodecs-label = WebCodecs
 about-logging-preset-webcodecs-description = Loggmodular for å diagnostisere problem med WebCodecs lyd-/videodekodarar og -kodarar, og bildedekodarar
 about-logging-preset-ml-label = Maskinlæring
 about-logging-preset-ml-description = Profildataa er registrerte. Vil du lagre eller laste dei opp?
+about-logging-preset-web-compat-label = Webbkompatibilitet
+about-logging-preset-web-compat-description = Loggmodular for å diagnostisere problem med webbkompatibilitet
 about-logging-preset-webgpu-label = WebGPU
 about-logging-preset-webgpu-description = Loggmodular for å diagnostisere WebGPU-problem
 about-logging-preset-gfx-label = Grafikk
