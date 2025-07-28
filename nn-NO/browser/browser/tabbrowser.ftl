@@ -257,6 +257,8 @@ tab-group-editor-color-selector2-gray = Grå
 tab-group-editor-color-selector2-red = Raud
     .title = Raud
 tab-group-description = { $tabGroupName } — Fanegruppe
+tab-group-label-tooltip-collapsed = { $tabGroupName } — Samanfolda
+tab-group-label-tooltip-expanded = { $tabGroupName } — Utfolda
 tab-context-unnamed-group =
     .label = Namnlaus gruppe
 tab-group-name-default = Namnlaus gruppe
@@ -303,6 +305,16 @@ tab-context-ungroup-tab =
            *[other] Remove from Groups
         }
     .accesskey = F
+# When a tab group containing the active tab is collapsed, the active tab
+# remains visible. An indicator appears at the end of the group showing the
+# number of remaining tabs that are hidden by the collapsed group,
+# e.g. "+2" for a group with 3 total tabs.
+tab-group-overflow-count = +{ $tabCount }
+tab-group-overflow-count-tooltip =
+    { $tabCount ->
+        [one] { $tabCount } fane til
+       *[other] { $tabCount } faner til
+    }
 
 ## Open/saved tab group context menu
 

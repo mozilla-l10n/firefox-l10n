@@ -455,6 +455,8 @@ tab-groups-onboarding-create-group-no-alltabs-button-title = Finn fanegruppene d
 tab-groups-onboarding-saved-groups-title-3 = Når du lèt att ei fanegruppe, kan du når som helst opne henne på nytt frå List opp alle faner-menyen.
 tab-groups-onboarding-saved-groups-title-2 = Når du let att ei fanegruppe, kan du når som helst opne den på nytt her.
 tab-groups-onboarding-saved-groups-no-alltabs-button-title-2 = Finn dei attlatne gruppene dine ved å søkje etter dei i adresselinja.
+# The text "list all tabs" refers to the string tabs-toolbar-list-all-tabs
+tab-groups-onboarding-session-restore-title-2 = Opne fanegruppene dine på nytt frå List opp alle faner-menyen når som helst.
 tab-groups-onboarding-session-restore-title = Opne fanegruppene dine på nytt her, når som helst.
 tab-groups-onboarding-dismiss = OK
 
