@@ -114,6 +114,8 @@ fxa-adoption-passwords-primary-button-label = Registrěrowaś
 
 ## Windows 10 EoS Sync messages group 1 callouts
 
+windows-10-eos-sync-urgency-title-1 = Njezgubujśo nic, což sćo składował, gaž do Windows 11 pśeśěgujośo.
+windows-10-eos-sync-new-device-title-2 = Pśeśěgujośo do drugego rěda? Njezgubujśo, což jo wažne.
 windows-10-eos-sync-new-device-primary-label = Něnto synchronizěrowaś
 windows-10-eos-sync-general-title-2 = Něnto jo dobry cas, waše gronidła a cytańske znamjenja zawěsćiś.
 windows-10-eos-sync-tour-title-1 = Pśewjele rejtarikow? Zrumujśo z kupkami rejtarikow.
