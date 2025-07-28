@@ -221,9 +221,9 @@ tabbrowser-tab-audio-playing-description = Прайграванне гуку
 tabbrowser-ctrl-tab-list-all-tabs =
     .label =
         { $tabCount ->
-            [one] Улічыць усе { $tabCount } картку
-            [few] Улічыць усе { $tabCount } карткі
-           *[many] Улічыць усе { $tabCount } картак
+            [one] Паказаць усе { $tabCount } картку
+            [few] Паказаць усе { $tabCount } карткі
+           *[many] Паказаць усе { $tabCount } картак
         }
 
 ## Tab manager menu buttons
