@@ -1391,7 +1391,7 @@ trustpanel-list-label-tracking-cookies =
         [one] { $count } Cross-site tracking cookie
        *[other] { $count } Cross-site tracking cookies
     }
-trustpanel-list-label-tracking-content = Tracking Content
+trustpanel-list-label-tracking-content = Tracking content
 trustpanel-list-label-fingerprinter =
     { $count ->
         [one] { $count } Fingerprinters
@@ -1450,7 +1450,7 @@ trustpanel-fingerprinter-not-blocking-tab-header =
         [one] { -brand-product-name } allowed { $count } fingerprinter
        *[other] { -brand-product-name } allowed { $count } fingerprinters
     }
-trustpanel-fingerprinter-list-header = These site are trying to fingerprint you:
+trustpanel-fingerprinter-list-header = These sites are trying to fingerprint you:
 trustpanel-cryptominer-blocking-tab-header =
     { $count ->
         [one] { -brand-product-name } blocked { $count } cryptominer

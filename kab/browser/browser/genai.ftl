@@ -28,6 +28,10 @@ genai-input-ask-provider =
     .placeholder = Ssuter { $provider }…
 genai-shortcuts-hide =
     .label = Ffer anegzum n chatbot
+# $provider (string) - name of the provider
+genai-menu-ask-provider-2 =
+    .label = Ssuter { $provider }
+    .accesskey = h
 
 ## Chatbot header
 

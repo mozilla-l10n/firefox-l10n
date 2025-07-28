@@ -1303,3 +1303,12 @@ trustpanel-connection-label-secure = Taɣellist n tuqqna
 trustpanel-connection-label-insecure = Tuqqna taraɣelsant
 trustpanel-header-disabled = Tsenseḍ ammesten
 trustpanel-clear-cookies-button = Sfeḍ inagan n tuqna akked isefka n usmel
+trustpanel-privacy-link = Iɣewwaren n tbaḍnit
+trustpanel-clear-cookies-subview-button-clear = Sfeḍ
+trustpanel-clear-cookies-subview-button-cancel = Sefsex
+
+## Variables
+##  $count (String): the number of trackers blocked.
+
+trustpanel-insecure-section-header = Tuqqna-inek d taraɣellsant
+trustpanel-list-label-tracking-content = Agbur n uḍfaṛ

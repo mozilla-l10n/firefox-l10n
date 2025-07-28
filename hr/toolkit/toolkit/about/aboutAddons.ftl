@@ -310,7 +310,7 @@ addon-options-button =
 # making this recommendation.
 discopane-intro3 =
     Proširenja i teme ti omogućuju prilagoditi { -brand-product-name }. Mogu poboljšati privatnost,
-    povećati produktivnost, poboljšati medije, promijeniti način { -brand-product-name } izgleda i
+    povećati produktivnost, poboljšati medije, promijeniti izgled { -brand-product-name }a i
     još više. Ove male softverske programe često razvija treća strana. Ovo je
     odabir koji Firefox <a data-l10n-name="learn-more-trigger">preporučuje</a>
     za iznimnu sigurnost, performansu i funkcionalnost.

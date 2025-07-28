@@ -320,3 +320,8 @@ multi-cta-fox-doodle-pin-checkbox =
     }
 multi-cta-fox-doodle-start-browsing-primary-button-label = Bdu tunigin
 multi-cta-fox-doodle-main-browser-primary-button-label = Err { -brand-short-name } d iminig-iw agejdan
+
+## Windows 10 EoS Sync messages group 1 toast notification
+
+windows-10-eos-sync-toast-primary-label = Bdu
+windows-10-eos-sync-toast-secondary-label = Smekti-y-id ticki

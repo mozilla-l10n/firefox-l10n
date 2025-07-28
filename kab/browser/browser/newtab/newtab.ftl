@@ -8,6 +8,8 @@
 newtab-page-title = Iccer amaynut
 newtab-settings-button =
     .title = Sagen asebter n yiccer-ik amaynut
+newtab-customize-panel-icon-button =
+    .title = Sagen asebter-a
 newtab-customize-panel-icon-button-label = Sagen
 newtab-personalize-settings-icon-label =
     .title = Sagen iccer amaynut
@@ -391,6 +393,7 @@ newtab-weather-menu-learn-more = Issin ugar
 newtab-topic-label-business = Amahil
 newtab-topic-label-career = Axeddim
 newtab-topic-label-education = Aselmed
+newtab-topic-label-arts = Asedhu
 newtab-topic-label-food = Tuččit
 newtab-topic-label-health = Tazmert
 newtab-topic-label-hobbies = Uraren
