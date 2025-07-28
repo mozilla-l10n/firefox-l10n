@@ -451,8 +451,12 @@ tab-groups-onboarding-feature-callout-subtitle = Навядзіце парада
 tab-groups-onboarding-create-group-title-3 = Знайдзіце свае групы картак у меню «Пералічыць усе карткі» у любы час.
 tab-groups-onboarding-create-group-title-2 = Знаходзьце свае групы картак тут у любы час.
 tab-groups-onboarding-create-group-no-alltabs-button-title = Знайдзіце свае групы, пашакаўшы іх у адрасным радку.
+# The text "list all tabs" refers to the string tabs-toolbar-list-all-tabs
+tab-groups-onboarding-saved-groups-title-3 = Пасля закрыцця групы картак яе можна зноў адкрыць у любы час з меню «Пералічыць усе карткі».
 tab-groups-onboarding-saved-groups-title-2 = Калі вы закрываеце групу картак, вы можаце зноў адкрыць яе тут у любы час.
 tab-groups-onboarding-saved-groups-no-alltabs-button-title-2 = Знайдзіце свае закрытыя групы, пашакаўшы іх у адрасным радку.
+# The text "list all tabs" refers to the string tabs-toolbar-list-all-tabs
+tab-groups-onboarding-session-restore-title-2 = Вы можаце ў любы час зноў адкрыць групы картак з меню «Пералічыць усе карткі».
 tab-groups-onboarding-session-restore-title = Паўторна адкрывайце свае групы картак тут у любы час.
 tab-groups-onboarding-dismiss = Добра
 
