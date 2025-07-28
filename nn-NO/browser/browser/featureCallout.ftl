@@ -118,7 +118,14 @@ windows-10-eos-sync-urgency-title-1 = Ikkje mist alt du har lagra når du flytta
 windows-10-eos-sync-urgency-subtitle-1 = Synkroniser no for å halda bokmerka, passorda og innstillingane dine for { -brand-short-name } trygge og enkle å gjenopprette.
 windows-10-eos-sync-urgency-title-2 = Skal du seie farvel til Windows 10? Vern dataa dine når du byter.
 windows-10-eos-sync-urgency-subtitle-2 = Sjølv om du ikkje brukar { -brand-short-name } dagleg, bør du synkronisere for å halde bokmerke og passord sikkre og tilgjengelege.
+windows-10-eos-sync-new-device-title-1 = Ikkje risiker å måtta starta på nytt på den neste eininga din.
+windows-10-eos-sync-new-device-subtitle-1 = Synkroniser for å ta med deg bokmerka, passorda og dei føretrekte innstillingane dine frå { -brand-short-name } når du flyttar.
+windows-10-eos-sync-new-device-title-2 = Skal du byte til ei ny eining? Ikkje mist det som betyr noko.
+windows-10-eos-sync-new-device-subtitle-2 = Same kor ofte du brukar { -brand-short-name }, vernar synkronisering bokmerka dine, passord og innstillingar.
 windows-10-eos-sync-new-device-primary-label = Synkroniser no
+windows-10-eos-sync-general-title-1 = Vern { -brand-short-name } slik du har tilpassa han.
+windows-10-eos-sync-general-subtitle-1 = Sikkerheitskopier og synkroniser passorda, bokmerka, innstillingane, og andre data, for å bevare det du er avhengig av.
+windows-10-eos-sync-general-title-2 = Det passar bra no å sikkerheitskopiere passorda og bokmerka dine
 
 ## Sidebar Strings
 
