@@ -92,7 +92,7 @@ webext-perms-host-description-one-domain = { $domain } 도메인 사이트에 �
 # Variables:
 #   $domainCount (Number): Integer indicating the number of websites domains for which this webextension is requesting permission
 #     (the list of domains will follow this string).
-webext-perms-host-description-multiple-domains = { $domainCount }개 도메인 사이트에 대한 사용자 데이터에 접근
+webext-perms-host-description-multiple-domains = 도메인 { $domainCount }개 사이트에 대한 사용자 데이터에 접근
 
 ## Strings for data collection permissions in the permission prompt.
 
