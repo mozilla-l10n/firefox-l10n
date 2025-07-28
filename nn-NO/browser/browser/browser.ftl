@@ -1429,3 +1429,24 @@ trustpanel-tracking-cookies-not-blocking-tab-header =
        *[other] { -brand-product-name } tillét { $count } sporingsinfokapslar på tvers av nettstadar
     }
 trustpanel-tracking-cookies-tab-list-header = Desse nettstadane prøver å spore deg:
+trustpanel-tracking-content-blocking-tab-header =
+    { $count ->
+        [one] { -brand-product-name } blokkerte { $count } sporar
+       *[other] { -brand-product-name } blokkerte { $count } sporarar
+    }
+trustpanel-tracking-content-not-blocking-tab-header =
+    { $count ->
+        [one] { -brand-product-name } tillét { $count } tracker
+       *[other] { -brand-product-name } tillèt { $count } sporarar
+    }
+trustpanel-tracking-content-tab-list-header = Desse nettstadane prøver å spore deg:
+trustpanel-fingerprinter-blocking-tab-header =
+    { $count ->
+        [one] { -brand-product-name } blokkerte { $count } fingeravtrykksporar
+       *[other] { -brand-product-name } blokkerte { $count } fingeravtrykksporarar
+    }
+trustpanel-fingerprinter-not-blocking-tab-header =
+    { $count ->
+        [one] { -brand-product-name } tillét { $count } fingeravtrykksporar
+       *[other] { -brand-product-name } tillét { $count } fingeravtrykksporarar
+    }
