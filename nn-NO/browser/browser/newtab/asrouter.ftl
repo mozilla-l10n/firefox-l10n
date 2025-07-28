@@ -346,8 +346,12 @@ multi-cta-fox-doodle-msix-privacy-focused-subtitle = Hald favorittnettlesaren di
 ## Windows 10 EoS Sync messages group 1 spotlight
 
 windows-10-eos-sync-spotlight-title = Skal du snart oppgradere frå Windows 10?
+windows-10-eos-sync-spotlight-subtitle = Ta sikkerheitskopi av passorda og bokmerka dine, slik at du er klar for å ta spranget til kva eining som helst.
+windows-10-eos-sync-spotlight-primary-label = Sikkerheitskopier { -brand-short-name }
 
 ## Windows 10 EoS Sync messages group 1 toast notification
 
+windows-10-eos-sync-toast-title = Oppgraderer du til Windows 11? Ikkje mist bokmerke og passord.
+windows-10-eos-sync-toast-subtitle = Sikringskopier dataa dine slik at { -brand-short-name } er klar til bruk når som helst, på denne PC-en eller den neste.
 windows-10-eos-sync-toast-primary-label = Kom i gang
 windows-10-eos-sync-toast-secondary-label = Minn meg på det seinare

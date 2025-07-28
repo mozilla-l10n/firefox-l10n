@@ -695,6 +695,8 @@ urlbar-result-action-visit = Rzu
 # Variables
 # $container (String): the name of the target container
 urlbar-result-action-switch-tab-with-container = Uɣal ɣer yiccer · <span>{ $container }</span>
+# Used when the target tab is in a tab group that doesn't have a label.
+urlbar-result-action-tab-group-unnamed = Agraw arussin
 # Allows the user to visit a URL that was previously copied to the clipboard.
 urlbar-result-action-visit-from-clipboard = Rzu seg tecfawt
 # Directs a user to press the Tab key to perform a search with the specified
@@ -810,11 +812,15 @@ urlbar-searchmode-actions =
     .label = Tigawin
 urlbar-searchmode-exit-button =
     .tooltiptext = Mdel
+urlbar-searchmode-default =
+    .tooltiptext = Amsedday n unadi amezwer
 # Label shown on the top of Searchmode Switcher popup. After this label, the
 # available search engines will be listed.
 urlbar-searchmode-popup-description = Tikkelt-a, nadi s:
 urlbar-searchmode-popup-search-settings-menuitem =
     .label = Iɣewwaren n unadi
+# Label shown next to a new search engine in the Searchmode Switcher popup to promote it.
+urlbar-searchmode-new = Amaynut
 # Searchmode Switcher button
 # Variables:
 #   $engine (String): the current default search engine.
@@ -1289,3 +1295,11 @@ onboarding-checklist-button-label = Fakk asbeddi
 onboarding-aw-finish-setup-button =
     .label = Fakk asbeddi
     .tooltiptext = Fakk asbeddi { -brand-short-name }
+
+## The urlbar trust panel
+
+trustpanel-etp-description-enabled = Ma yella wayen ur nteddu ara ɣef usmel-a, εreḍ ad tsenseḍ ammesten.
+trustpanel-connection-label-secure = Taɣellist n tuqqna
+trustpanel-connection-label-insecure = Tuqqna taraɣelsant
+trustpanel-header-disabled = Tsenseḍ ammesten
+trustpanel-clear-cookies-button = Sfeḍ inagan n tuqna akked isefka n usmel

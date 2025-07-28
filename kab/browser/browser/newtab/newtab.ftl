@@ -8,6 +8,7 @@
 newtab-page-title = Iccer amaynut
 newtab-settings-button =
     .title = Sagen asebter n yiccer-ik amaynut
+newtab-customize-panel-icon-button-label = Sagen
 newtab-personalize-settings-icon-label =
     .title = Sagen iccer amaynut
     .aria-label = Iɣewwaren
@@ -448,6 +449,10 @@ newtab-section-mangage-topics-blocked-topics = Iwḥel
 newtab-section-mangage-topics-blocked-topics-empty-state = Ur tesweḥleḍ ula d yiwen usentel akka ar tura.
 newtab-custom-wallpaper-cta = Ɛreḍ-it
 
+## Strings for new user activation custom wallpaper highlight
+
+newtab-new-user-custom-wallpaper-cta = Ɛreḍ-it tura
+
 ## Strings for download mobile highlight
 
 newtab-download-mobile-highlight-title = Sader { -brand-product-name } i uziraz
@@ -460,5 +465,11 @@ newtab-report-content-why-reporting-this =
     .label = Ayɣer i d-tuzneḍ aneqqis ɣef waya?
 newtab-report-content-wrong-category =
     .label = Yir taggayt
+newtab-report-content-outdated =
+    .label = Aqbuṛ
 newtab-report-cancel = Sefsex
 newtab-report-submit = Azen
+
+## Strings for trending searches
+
+newtab-trending-searches-learn-more = Issin ugar
