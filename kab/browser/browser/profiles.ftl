@@ -127,11 +127,19 @@ star-avatar-alt =
     .alt = Itri
 custom-avatar-alt =
     .alt = Sagen avaṭar
+# Diamond refers to the precious stone, not the geometric shape
+diamond-avatar-alt =
+    .alt = Amkuẓ
 
 ## Labels for default avatar icons
 
 book-avatar = Adlis
 briefcase-avatar = Aqrab
+# Canvas refers to an artist's painting canvas, not the general material
+canvas-avatar = Abeckil
+custom-avatar = Sagen avaṭar
+# Diamond refers to the precious stone, not the geometric shape
+diamond-avatar = Amkuẓ
 flower-avatar = Ijeǧǧigen
 folder-avatar = Akaram
 hammer-avatar = Afḍis

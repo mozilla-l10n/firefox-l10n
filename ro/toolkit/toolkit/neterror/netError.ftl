@@ -167,4 +167,4 @@ certerror-coep-learn-more = Află mai multe despre Politicile de înglobare de o
 # Variables:
 #   $responsestatus (string) - HTTP response status code (e.g., 500).
 #   $responsestatustext (string) - HTTP response status text (e.g., "Internal Server Error").
-neterror-response-status-code = Cod de eroare: { $responestatus } { $responestatustext }
+neterror-response-status-code = Cod de eroare: { $responsestatus } { $responsestatustext }
