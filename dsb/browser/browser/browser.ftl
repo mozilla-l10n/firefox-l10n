@@ -1400,3 +1400,41 @@ trustpanel-tracking-header = { -brand-product-name } jo dowólił toś te wěcy,
 trustpanel-insecure-section-header = Waš zwisk njejo wěsty
 trustpanel-insecure-description = Daty, kótarež na toś to sedło sćelośo, njejsu skoděrowane. Daju se woglědaś, kšadnuś abo změniś.
 trustpanel-list-label-tracking-content = Slědujuce wopśimjeśe
+trustpanel-list-label-fingerprinter =
+    { $count ->
+        [one] { $count } zběraŕ palcowych wótśišćow
+        [two] { $count } zběrarja palcowych wótśišćow
+        [few] { $count } zběrarje palcowych wótśišćow
+       *[other] { $count } zběrarjow palcowych wótśišćow
+    }
+trustpanel-list-label-social-tracking =
+    { $count ->
+        [one] { $count } pśeslědowak socialnych medijow
+        [two] { $count } pśeslědowaka socialnych medijow
+        [few] { $count } pśeslědowaki socialnych medijow
+       *[other] { $count } pśeslědowaki socialnych medijow
+    }
+trustpanel-list-label-cryptominer =
+    { $count ->
+        [one] { $count } kryptokopaŕ
+        [two] { $count } kryptokoparja
+        [few] { $count } kryptokoparje
+       *[other] { $count } kryptokoparjow
+    }
+trustpanel-social-tracking-tab-list-header = Toś te sedła wopytuju wam slědowaś:
+trustpanel-tracking-cookies-tab-list-header = Toś te sedła wopytuju wam slědowaś:
+trustpanel-tracking-content-tab-list-header = Toś te sedła wopytuju wam slědowaś:
+trustpanel-fingerprinter-blocking-tab-header =
+    { $count ->
+        [one] { -brand-product-name } jo blokěrował { $count } zběrarja palcowych wótśišćow
+        [two] { -brand-product-name } jo blokěrował { $count } zběrarjowu palcowych wótśišćow
+        [few] { -brand-product-name } jo blokěrował { $count } zběrarjow palcowych wótśišćow
+       *[other] { -brand-product-name } jo blokěrował { $count } zběrarjow palcowych wótśišćow
+    }
+trustpanel-fingerprinter-not-blocking-tab-header =
+    { $count ->
+        [one] { -brand-product-name } jo dowólił { $count } zběrarja palcowych wótśišćow
+        [two] { -brand-product-name } jo dowólił { $count } zběrarjowu palcowych wótśišćow
+        [few] { -brand-product-name } jo dowólił { $count } zběrarjow palcowych wótśišćow
+       *[other] { -brand-product-name } jo dowólił { $count } zběrarjow palcowych wótśišćow
+    }
