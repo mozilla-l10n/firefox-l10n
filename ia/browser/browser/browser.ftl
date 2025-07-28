@@ -207,6 +207,9 @@ urlbar-result-menu-show-less-frequently =
     .label = Monstrar minus frequentemente
 urlbar-result-menu-dont-show-weather-suggestions =
     .label = Non monstrar suggestiones meteorologic
+# Used for Split Button.
+urlbar-splitbutton-dropmarker =
+    .title = Aperir menu
 # A message shown in the urlbar when the user submits feedback on a suggestion
 # (e.g., it shows an inaccurate location, it's shown too often, etc.).
 urlbar-feedback-acknowledgment = Gratias pro tu commentario.
@@ -823,6 +826,8 @@ urlbar-searchmode-default =
 urlbar-searchmode-popup-description = Iste vice cerca con:
 urlbar-searchmode-popup-search-settings-menuitem =
     .label = Parametros de recerca
+# Label shown next to a new search engine in the Searchmode Switcher popup to promote it.
+urlbar-searchmode-new = Nove
 # Searchmode Switcher button
 # Variables:
 #   $engine (String): the current default search engine.
@@ -1320,3 +1325,7 @@ onboarding-checklist-button-label = Completa le configuration
 onboarding-aw-finish-setup-button =
     .label = Finir configuration
     .tooltiptext = Fini configurar { -brand-short-name }
+
+## The urlbar trust panel
+
+trustpanel-etp-description-enabled = Si alco pare corrupte in iste sito, tenta disactivar protectiones.
