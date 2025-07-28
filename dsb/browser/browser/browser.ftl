@@ -1438,3 +1438,19 @@ trustpanel-fingerprinter-not-blocking-tab-header =
         [few] { -brand-product-name } jo dowólił { $count } zběrarjow palcowych wótśišćow
        *[other] { -brand-product-name } jo dowólił { $count } zběrarjow palcowych wótśišćow
     }
+trustpanel-fingerprinter-list-header = Toś to sedło wopytujo, palcowe wótśišće wót was wześ:
+trustpanel-cryptominer-blocking-tab-header =
+    { $count ->
+        [one] { -brand-product-name } jo blokěrował { $count } kryptokoparja
+        [two] { -brand-product-name } jo blokěrował { $count } kryptokoparjowu
+        [few] { -brand-product-name } jo blokěrował { $count } kryptokoparjow
+       *[other] { -brand-product-name } jo blokěrował { $count } kryptokoparjow
+    }
+trustpanel-cryptominer-not-blocking-tab-header =
+    { $count ->
+        [one] { -brand-product-name } jo dowólił { $count } kryptokoparja
+        [two] { -brand-product-name } jo dowólił { $count } kryptokoparjowu
+        [few] { -brand-product-name } jo dowólił { $count } kryptokoparjow
+       *[other] { -brand-product-name } jo dowólił { $count } kryptokoparjow
+    }
+trustpanel-cryptominer-tab-list-header = Toś te sedła kryptokopanje wopytuju:
