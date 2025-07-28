@@ -1372,3 +1372,22 @@ trustpanel-clear-cookies-subview-button-cancel = Odustani
 #  $host (String): the hostname of the site that is being displayed.
 trustpanel-site-information-header =
     .title = Zaštite veze za { $host }
+trustpanel-connection-secure = Sigurno si povezan/a na ovu web stranicu.
+trustpanel-connection-not-secure = Nisi sigurno povezan/a na ovu web stranicu.
+trustpanel-siteinformation-morelink = Više informacija o web stranici
+trustpanel-blocker-see-all = Pogledaj sve
+# Variables
+#  $host (String): the hostname of the site that is being displayed.
+trustpanel-blocker-header =
+    .title = Zaštite od praćenja za { $host }
+
+## Variables
+##  $count (String): the number of trackers blocked.
+
+trustpanel-blocker-section-header =
+    { $count ->
+        [one] <span>{ $count }</span> program za praćenje blokiran na ovoj web stranici
+        [few] <span>{ $count }</span> programa za praćenje blokirani na ovoj web stranici
+       *[other] <span>{ $count }</span> programa za praćenje blokirani na ovoj web stranici
+    }
+trustpanel-blocker-description = { -brand-product-name } smatra da bi te tvrtke trebale manje pratiti. Stoga blokiramo što više možemo.

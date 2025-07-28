@@ -126,6 +126,11 @@ windows-10-eos-sync-new-device-primary-label = Synkroniser no
 windows-10-eos-sync-general-title-1 = Vern { -brand-short-name } slik du har tilpassa han.
 windows-10-eos-sync-general-subtitle-1 = Sikkerheitskopier og synkroniser passorda, bokmerka, innstillingane, og andre data, for å bevare det du er avhengig av.
 windows-10-eos-sync-general-title-2 = Det passar bra no å sikkerheitskopiere passorda og bokmerka dine
+windows-10-eos-sync-general-subtitle-2 = Synkroniser no for å verne det du stolar på { -brand-short-name } med — og få det tilbake kvar som helst, når som helst.
+windows-10-eos-sync-tour-title-1 = For mange faner? Rydd opp med fanegrupper.
+windows-10-eos-sync-tour-subtitle-1 = Dra éi fane oppå ei anna for å opprette ei gruppe og halde ting organisert.
+windows-10-eos-sync-tour-title-2 = Gjer deg klar for Windows 11.
+windows-10-eos-sync-tour-subtitle-2 = Synkroniser bokmerka, passorda og innstillingane dine for å sikringskopiere dei før du byter.
 
 ## Sidebar Strings
 
