@@ -1329,3 +1329,19 @@ onboarding-aw-finish-setup-button =
 ## The urlbar trust panel
 
 trustpanel-etp-description-enabled = Si alco pare corrupte in iste sito, tenta disactivar protectiones.
+trustpanel-connection-label-secure = Connexion secur
+trustpanel-connection-label-insecure = Connexion non secur
+trustpanel-header-disabled = Tu disactivava le protectiones
+trustpanel-clear-cookies-button = Rader le cookies e le datos de sito
+trustpanel-privacy-link = Parametros del confidentialitate
+trustpanel-clear-cookies-subview-button-clear = Vacuar
+trustpanel-clear-cookies-subview-button-cancel = Cancellar
+trustpanel-connection-secure = Tu es connectite con securitate a iste sito.
+trustpanel-connection-not-secure = Tu non es connectite con securitate a iste sito.
+trustpanel-blocker-see-all = Vider toto
+
+## Variables
+##  $count (String): the number of trackers blocked.
+
+trustpanel-insecure-section-header = Tu connexion non es secur
+trustpanel-list-label-tracking-content = Contento traciante

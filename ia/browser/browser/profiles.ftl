@@ -45,6 +45,8 @@ avatar-selector-save-button =
     .label = Salvar
 avatar-selector-upload-file = Incargar un file
 avatar-selector-drag-file = O traher un file ci
+avatar-selector-add-image = Adder un imagine
+avatar-selector-crop = Reducer
 edit-profile-page-no-name = Nomina iste profilo pro adjutar te a trovar lo plus tarde. Renomina lo quandocunque.
 edit-profile-page-duplicate-name = Nomine de profilo jam in uso. Tenta un nove nomine.
 edit-profile-page-profile-saved = Salvate
@@ -114,10 +116,24 @@ book-avatar-alt =
     .alt = Libro
 briefcase-avatar-alt =
     .alt = Valise
+# Canvas refers to an artist's painting canvas, not the general material
+canvas-avatar-alt =
+    .alt = Canevas
 flower-avatar-alt =
     .alt = Flor
+folder-avatar-alt =
+    .alt = Plica
 heart-avatar-alt =
     .alt = Corde
+history-avatar-alt =
+    .alt = Chronologia
+# Message refers to a text message, not a traditional letter/envelope message
+message-avatar-alt =
+    .alt = Message
+musical-note-avatar-alt =
+    .alt = Nota musical
+palette-avatar-alt =
+    .alt = Paletta
 shopping-avatar-alt =
     .alt = Carretta de compras
 star-avatar-alt =
@@ -129,6 +145,9 @@ custom-avatar-alt =
 
 book-avatar = Libro
 briefcase-avatar = Valise
+# Canvas refers to an artist's painting canvas, not the general material
+canvas-avatar = Canevas
+custom-avatar = Avatar personalisate
 flower-avatar = Flor
 heart-avatar = Corde
 shopping-avatar = Carretta de compras

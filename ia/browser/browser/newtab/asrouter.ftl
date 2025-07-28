@@ -343,3 +343,8 @@ multi-cta-fox-doodle-privacy-focused-subtitle =
        *[other] Tene tu navigator preferite, e attente al confidentialitate, justo a portata de clic. Pone { -brand-short-name } como tu navigator predefinite pro aperir ligamines e fixa lo a tu barra de apps.
     }
 multi-cta-fox-doodle-msix-privacy-focused-subtitle = Tene a portata de clic tu navigator preferite, attente al confidentialitate. Pone { -brand-short-name } como navigator predefinite pro le apertura del ligamines, fixa lo al barra del apps.
+
+## Windows 10 EoS Sync messages group 1 toast notification
+
+windows-10-eos-sync-toast-primary-label = Comenciar
+windows-10-eos-sync-toast-secondary-label = Rememora me plus tarde
