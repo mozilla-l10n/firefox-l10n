@@ -86,6 +86,10 @@ perplexity-callout-secondary-label-2 = Awi-t
 # Opens Mozilla accounts sign-up page
 fxa-adoption-passwords-primary-button-label = Kcem
 
+## Windows 10 EoS Sync messages group 1 callouts
+
+windows-10-eos-sync-new-device-primary-label = Mtawi tura
+
 ## Sidebar Strings
 
 sidebar-button-callout-title = Sken izwal n waccaren deg ufeggag adisan
@@ -101,6 +105,7 @@ sidebar-pins-callout-cta-button = Rzi iccer
 
 ## Pinning Tabs Strings
 
+pin-tabs-callout-cta-1-button = Senṭeḍ iccer-a
 pin-tabs-callout-cta-2-button = Senṭeḍ iccer-a
 
 ## Sidebar Onboarding Strings

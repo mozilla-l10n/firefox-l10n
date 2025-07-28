@@ -23,6 +23,8 @@ firefox-relay-opt-in-title-1 = Mmesten tansa-k n yimayl:
 # ends with a colon. You might need to adapt the capitalization of this string.
 firefox-relay-opt-in-subtitle-1 = Seqdec ugelmus n yimayl n { -relay-brand-name }
 firefox-relay-use-mask-title = Seqdec ugelmus n yimayl n { -relay-brand-name }
+# This is preceded by firefox-relay-opt-in-title-a (on a different line)
+firefox-relay-opt-in-subtitle-a = Ffer tansa-k⋅m n yimayl n tidet
 # This is followed, on a new line, by firefox-relay-opt-in-subtitle-b
 firefox-relay-opt-in-title-b = Awi agelmus n yimayl n baṭel
 # This is preceded by firefox-relay-opt-in-title-b (on a different line)
