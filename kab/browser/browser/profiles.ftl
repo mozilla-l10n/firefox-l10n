@@ -103,8 +103,26 @@ hammer-avatar-alt =
     .alt = Afḍis
 heart-avatar-alt =
     .alt = Ul
+history-avatar-alt =
+    .alt = Azray
+leaf-avatar-alt =
+    .alt = Iferr
+lightbulb-avatar-alt =
+    .alt = Llamba
+makeup-avatar-alt =
+    .alt = Ḥmimuc
+# Message refers to a text message, not a traditional letter/envelope message
+message-avatar-alt =
+    .alt = Izen
+palette-avatar-alt =
+    .alt = Agalis n yiniten
+# Present refers to a gift box, not the current time period
+present-avatar-alt =
+    .alt = Yella
 shopping-avatar-alt =
     .alt = Taqecwalt n lqeḍyan
+sparkle-single-avatar-alt =
+    .alt = Acraraq
 star-avatar-alt =
     .alt = Itri
 custom-avatar-alt =
@@ -115,6 +133,19 @@ custom-avatar-alt =
 book-avatar = Adlis
 briefcase-avatar = Aqrab
 flower-avatar = Ijeǧǧigen
+folder-avatar = Akaram
+hammer-avatar = Afḍis
 heart-avatar = Ul
+history-avatar = Azray
+leaf-avatar = Iferr
+lightbulb-avatar = Llamba
+makeup-avatar = Ḥmimuc
+# Message refers to a text message, not a traditional letter/envelope message
+message-avatar = Izen
+palette-avatar = Agalis n yiniten
+plane-avatar = Asafag
+# Present refers to a gift box, not the current time period
+present-avatar = Yella
 shopping-avatar = Taqecwalt n lqeḍyan
+sparkle-single-avatar = Acraraq
 star-avatar = Itri
