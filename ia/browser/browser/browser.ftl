@@ -1155,6 +1155,10 @@ tabs-toolbar-list-all-tabs =
     .label = Listar tote le schedas
     .tooltiptext = Listar tote le schedas
 
+## Drop indicator text for pinned tabs when no tabs are pinned.
+
+pinned-tabs-drop-indicator = Deponer scheda ci pro appunctar lo
+
 ## Infobar shown at startup to suggest session-restore
 
 # <img data-l10n-name="icon"/> will be replaced by the application menu icon
@@ -1328,6 +1332,12 @@ onboarding-aw-finish-setup-button =
 
 ## The urlbar trust panel
 
+trustpanel-etp-label-enabled = Le Protection antitraciamento reinfortiate
+trustpanel-etp-label-disabled = Protection antitraciamento reinfortiate es disactivate
+# Variables
+#  $host (String): the hostname of the site that is being displayed.
+trustpanel-etp-toggle-on =
+    .aria-label = Protection antitraciamento reinfortiate: Active pro { $host }
 trustpanel-etp-description-enabled = Si alco pare corrupte in iste sito, tenta disactivar protectiones.
 trustpanel-connection-label-secure = Connexion secur
 trustpanel-connection-label-insecure = Connexion non secur
@@ -1345,3 +1355,9 @@ trustpanel-blocker-see-all = Vider toto
 
 trustpanel-insecure-section-header = Tu connexion non es secur
 trustpanel-list-label-tracking-content = Contento traciante
+trustpanel-social-tracking-tab-list-header = Iste sitos cerca traciar te:
+trustpanel-tracking-cookies-blocking-tab-header =
+    { $count ->
+        [one] { -brand-product-name } blocava { $count } traciamento cookie inter-sito
+       *[other] { -brand-product-name } blocava { $count } cookies traciator inter-sitos
+    }
