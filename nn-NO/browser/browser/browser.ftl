@@ -1461,3 +1461,4 @@ trustpanel-cryptominer-not-blocking-tab-header =
         [one] { -brand-product-name } tillét { $count } kryptoutvinnar
        *[other] { -brand-product-name } tillét { $count } kryptoutvinnarar
     }
+trustpanel-cryptominer-tab-list-header = Desse nettstadane prøvar å drive kryptomining:
