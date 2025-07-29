@@ -1382,7 +1382,10 @@ trustpanel-blocker-section-header =
     }
 trustpanel-blocker-description = { -brand-product-name } pensa que le companias deberea sequer te minus.
 trustpanel-blocked-header = { -brand-product-name } blocava iste cosas pro te:
+trustpanel-tracking-header = { -brand-product-name } permitteva iste cosas assi que le sitos non se corrumpe:
+trustpanel-tracking-description = Sin traciatores, alcun buttones, formas, e campos pro accesso pote non functionar.
 trustpanel-insecure-section-header = Tu connexion non es secur
+trustpanel-insecure-description = Le datos que tu invia a iste sito non es cryptate. Illos poterea esser vidite, robate, o alterate.
 trustpanel-list-label-tracking-cookies =
     { $count ->
         [one] { $count } Cookie de traciamento inter sitos

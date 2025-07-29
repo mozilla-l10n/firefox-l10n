@@ -45,6 +45,8 @@ avatar-selector-save-button =
     .label = Speichern
 avatar-selector-upload-file = Datei hochladen
 avatar-selector-drag-file = Oder eine Datei hierher ziehen
+avatar-selector-add-image = Ein Bild hinzufügen
+avatar-selector-crop = Zuschneiden
 edit-profile-page-no-name = Benennen Sie dieses Profil, damit Sie es später leichter finden. Benennen Sie es jederzeit um.
 edit-profile-page-duplicate-name = Profilname wird bereits verwendet. Probieren Sie einen neuen Namen aus.
 edit-profile-page-profile-saved = Gespeichert
@@ -114,21 +116,75 @@ book-avatar-alt =
     .alt = Buch
 briefcase-avatar-alt =
     .alt = Aktenkoffer
+# Canvas refers to an artist's painting canvas, not the general material
+canvas-avatar-alt =
+    .alt = Canvas
+# Craft refers to hobby arts and crafts, represented by a button/fastener commonly found on clothing like shirts
+craft-avatar-alt =
+    .alt = Handwerk
 flower-avatar-alt =
     .alt = Blume
+folder-avatar-alt =
+    .alt = Ordner
+hammer-avatar-alt =
+    .alt = Hammer
 heart-avatar-alt =
     .alt = Herz
+heart-rate-avatar-alt =
+    .alt = Herzfrequenz
+history-avatar-alt =
+    .alt = Geschichte
+leaf-avatar-alt =
+    .alt = Blatt
+lightbulb-avatar-alt =
+    .alt = Glühbirne
+makeup-avatar-alt =
+    .alt = Make-up
+# Message refers to a text message, not a traditional letter/envelope message
+message-avatar-alt =
+    .alt = Nachricht
+musical-note-avatar-alt =
+    .alt = Musiknote
+palette-avatar-alt =
+    .alt = Palette
+paw-print-avatar-alt =
+    .alt = Tatzenabdruck
+plane-avatar-alt =
+    .alt = Flugzeug
+# Present refers to a gift box, not the current time period
+present-avatar-alt =
+    .alt = Geschenk
 shopping-avatar-alt =
     .alt = Einkaufswagen
+soccer-avatar-alt =
+    .alt = Fußball
+sparkle-single-avatar-alt =
+    .alt = Funkeln
 star-avatar-alt =
     .alt = Stern
+video-game-controller-avatar-alt =
+    .alt = Videospiel-Controller
 custom-avatar-alt =
     .alt = Benutzerdefinierter Avatar
+# Default favicon refers to the generic globe/world icon that appears in browser tabs when a website doesn't have its own favicon.
+default-favicon-avatar-alt =
+    .alt = Standard-Favicon
+# Diamond refers to the precious stone, not the geometric shape
+diamond-avatar-alt =
+    .alt = Diamant
+barbell-avatar-alt =
+    .alt = Langhantel
+bike-avatar-alt =
+    .alt = Fahrrad
 
 ## Labels for default avatar icons
 
 book-avatar = Buch
 briefcase-avatar = Aktenkoffer
+# Canvas refers to an artist's painting canvas, not the general material
+canvas-avatar = Canvas
+# Craft refers to hobby arts and crafts, represented by a button/fastener commonly found on clothing like shirts
+craft-avatar = Handwerk
 flower-avatar = Blume
 heart-avatar = Herz
 shopping-avatar = Einkaufswagen

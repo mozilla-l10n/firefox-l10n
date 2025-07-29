@@ -168,6 +168,26 @@ permissions-site-camera-disable-label =
     .label = Blockera nya förfrågningar om att få tillgång till din kamera
 permissions-site-camera-disable-desc = Detta kommer att förhindra att webbplatser som inte listas ovan från att begära tillstånd att komma åt din kamera. Att blockera åtkomst till din kamera kan störa vissa webbplatsfunktioner.
 
+## Site Permissions - Local host
+
+permissions-site-localhost-window =
+    .title = Inställningar - Enhetens appar och tjänster
+    .style = { permissions-window2.style }
+permissions-site-localhost-desc = Dessa webbplatser har begärt åtkomst till appar och tjänster på den här enheten. Du kan välja att tillåta eller blockera webbplatser från att göra detta.
+permissions-site-localhost-disable-label =
+    .label = Blockera nya förfrågningar om åtkomst till appar och tjänster på den här enheten
+permissions-site-localhost-disable-desc = Detta stoppar alla webbplatser som inte listas ovan från att begära åtkomst till appar och tjänster på den här enheten. Att göra detta kan störa vissa webbplatsfunktioner.
+
+## Site Permissions - Local network
+
+permissions-site-local-network-window =
+    .title = Inställningar - Lokala nätverksenheter
+    .style = { permissions-window2.style }
+permissions-site-local-network-desc = Dessa webbplatser har begärt åtkomst till appar och tjänster på enheter anslutna till ditt Wi-Fi eller lokala nätverk. Du kan välja att tillåta eller blockera webbplatser från att göra detta.
+permissions-site-local-network-disable-label =
+    .label = Blockera nya förfrågningar om att komma åt appar och tjänster på enheter anslutna till ditt Wi-Fi eller lokala nätverk.
+permissions-site-local-network-disable-desc = Detta stoppar alla webbplatser som inte listas ovan från att begära åtkomst till appar och tjänster på enheter anslutna till ditt Wi-Fi eller lokala nätverksenheter. Att göra detta kan störa vissa webbplatsfunktioner.
+
 ## Site Permissions - Microphone
 
 permissions-site-microphone-window2 =
