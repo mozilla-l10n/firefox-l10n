@@ -6,13 +6,21 @@ contextual-manager-filter-input =
     .placeholder = Претражи лозинке
     .key = F
     .aria-label = Претражи лозинке
+contextual-manager-menu-more-options-button =
+    .title = Више опција
+contextual-manager-more-options-popup =
+    .aria-label = Више опција
 
 ## Passwords
 
 contextual-manager-passwords-command-create = Додај лозинку
 contextual-manager-passwords-command-import-from-browser = Увези из другог прегледача…
 contextual-manager-passwords-command-import = Увези из датотеке…
+contextual-manager-passwords-command-export = Извези лозинке
+contextual-manager-passwords-command-remove-all = Уклони све лозинке
+contextual-manager-passwords-command-settings = Подешавања
 contextual-manager-passwords-command-help = Помоћ
+contextual-manager-passwords-os-auth-dialog-caption = { -brand-full-name }
 # This message can be seen when attempting to export a password in about:logins on Windows.
 contextual-manager-passwords-export-os-auth-dialog-message-win = Унесите податке за пријаву на Windows да бисте извезли ваше лозинке. Ово помаже у заштити ваших налога.
 # This message can be seen when attempting to export a password in about:logins
@@ -35,6 +43,7 @@ contextual-manager-passwords-copy-password-os-auth-dialog-message-win = Из б�
 # The MacOS string is preceded by the operating system with "Firefox is trying to ".
 # Only provide the reason that account verification is needed. Do not put a complete sentence here.
 contextual-manager-passwords-copy-password-os-auth-dialog-message-macosx = копирај сачувану лозинку
+contextual-manager-passwords-import-file-picker-title = Увези лозинке
 contextual-manager-passwords-import-file-picker-import-button = Увези
 # A description for the .csv file format that may be shown as the file type
 # filter by the operating system.
@@ -42,9 +51,31 @@ contextual-manager-passwords-import-file-picker-csv-filter-title = CSV дато�
 # A description for the .tsv file format that may be shown as the file type
 # filter by the operating system. TSV is short for 'tab separated values'.
 contextual-manager-passwords-import-file-picker-tsv-filter-title = TSV датотека
+contextual-manager-passwords-import-success-heading =
+    .heading = Лозинке су увезене
+# Variables
+#   $added (number) - Number of added passwords
+#   $modified (number) - Number of modified passwords
+contextual-manager-passwords-import-success-message = Ново: { $added }, ажурирано: { $modified }
+# Variables
+#   $added (number) - Number of added passwords
+#   $modified (number) - Number of modified passwords
+#   $no_change (number) - Number of duplicate passwords
+#   $error (number) - Number of invalid passwords
+contextual-manager-passwords-import-success-message-2 = Ново: { $added }, ажурирано: { $modified }, дупликати: { $no_change }, грешке: { $error }
+contextual-manager-passwords-import-detailed-report = Погледај детаљан извештај
 contextual-manager-passwords-import-success-button = Готово
+contextual-manager-passwords-import-error-heading-and-message =
+    .heading = Није могуће увести лозинке
+    .message = Уверите се да ваша датотека садржи колону за сајтове, корисничка имена и лозинке.
+contextual-manager-passwords-import-error-button-try-again = Покушај поново
 contextual-manager-passwords-import-error-button-cancel = Откажи
+contextual-manager-passwords-import-learn-more = Сазнајте више о увозу лозинки
+contextual-manager-passwords-export-success-heading =
+    .heading = Лозинке су извезене
 contextual-manager-passwords-export-success-button = Готово
+# Export passwords to file dialog
+contextual-manager-export-passwords-dialog-title = Извези лозинке у датотеку?
 contextual-manager-export-passwords-dialog-confirm-button = Настави са извозом
 # Title of the file picker dialog
 contextual-manager-passwords-export-file-picker-title = Извези лозинке из { -brand-short-name }-а
