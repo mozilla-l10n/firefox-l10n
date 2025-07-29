@@ -1323,3 +1323,19 @@ onboarding-checklist-button-label = Concluir a configuração
 onboarding-aw-finish-setup-button =
     .label = Concluir configuração
     .tooltiptext = Concluir a configuração do { -brand-short-name }
+
+## The urlbar trust panel
+
+trustpanel-connection-label-secure = Conexão segura
+trustpanel-connection-label-insecure = Conexão não segura
+trustpanel-header-disabled = Você desativou proteções
+trustpanel-privacy-link = Configurações de privacidade
+trustpanel-clear-cookies-subview-button-clear = Limpar
+trustpanel-clear-cookies-subview-button-cancel = Cancelar
+trustpanel-siteinformation-morelink = Mais informações do site
+
+## Variables
+##  $count (String): the number of trackers blocked.
+
+trustpanel-insecure-section-header = Sua conexão não é segura
+trustpanel-list-label-tracking-content = Conteúdo com rastreamento

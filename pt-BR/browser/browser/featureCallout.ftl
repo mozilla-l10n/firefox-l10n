@@ -112,6 +112,10 @@ fxa-adoption-passwords-subtitle = Proteja suas senhas, sincronizando com seus di
 # Opens Mozilla accounts sign-up page
 fxa-adoption-passwords-primary-button-label = Criar uma conta
 
+## Windows 10 EoS Sync messages group 1 callouts
+
+windows-10-eos-sync-new-device-primary-label = Sincronizar agora
+
 ## Sidebar Strings
 
 sidebar-button-callout-title = Mostrar títulos de abas no painel lateral

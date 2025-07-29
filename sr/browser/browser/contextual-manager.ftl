@@ -115,14 +115,63 @@ contextual-manager-passwords-remove-all-confirm-button =
         [few] Уклони све
        *[other] Уклони све
     }
+# The attribute .data-after describes the text that should be displayed for the ::after pseudo-selector
+contextual-manager-passwords-username-label = Корисничко име
+    .data-after = Копирано
+# The attribute .data-after describes the text that should be displayed for the ::after pseudo-selector
+contextual-manager-passwords-password-label = Лозинка
+    .data-after = Копирана
+contextual-manager-passwords-radiogroup-label =
+    .aria-label = Филтрирај лозинке
+# Variables
+#   $url (string) - The url associated with the new login
+contextual-manager-passwords-add-password-success-heading =
+    .heading = Лозинка је додана за { $url }
+contextual-manager-passwords-add-password-success-button = Прикажи
+# Variables
+#   $url (string) - The url associated with the existing login
+contextual-manager-passwords-password-already-exists-error-heading =
+    .heading = Лозинка и корисничко име за { $url } већ постоје
+contextual-manager-passwords-password-already-exists-error-button = Иди на лозинку
+contextual-manager-passwords-update-password-success-heading =
+    .heading = Лозинка је сачувана
 contextual-manager-passwords-update-password-success-button = Готово
+contextual-manager-passwords-update-username-success-heading =
+    .heading = Корисничко име је сачувано
+# Message to confirm successful removal of a password/passwords.
+#   $total (number) - Total number of passwords
+contextual-manager-passwords-delete-password-success-heading =
+    .heading =
+        { $total ->
+            [1] Лозинка је уклоњена
+            [one] Лозинка је уклоњена
+            [few] Лозинке су уклоњене
+           *[other] Лозинки је уклоњено
+        }
 contextual-manager-passwords-delete-password-success-button = Готово
+#
+# Radiobutton label to display total number of passwords
+#   $total (number) - Total number of passwords
+contextual-manager-passwords-radiobutton-all = Укупно ({ $total })
+# Radiobutton label to display total number of alerts
+#   $total (number) - Total number of alerts
+contextual-manager-passwords-radiobutton-alerts = Упозорења ({ $total })
 # This message is displayed to make sure that a user wants to delete an existing login.
 contextual-manager-passwords-remove-login-card-title = Уклони лозинку?
+# This message warns the user that deleting a login is permanent.
+contextual-manager-passwords-remove-login-card-message = Не можете поништити ово.
+# This message gives the user an option to go back to the edit login form.
+contextual-manager-passwords-remove-login-card-back-message = Назад
 # This message confirms that the user wants to remove an existing login.
 contextual-manager-passwords-remove-login-card-remove-button = Уклони
 # This message gives the user the option to cancel their attempt to remove a login.
 contextual-manager-passwords-remove-login-card-cancel-button = Откажи
+contextual-manager-passwords-alert-card =
+    .aria-label = Упозорења лозинки
+contextual-manager-passwords-alert-back-button =
+    .label = Назад
+contextual-manager-passwords-alert-list =
+    .aria-label = Списак упозорења
 
 ## Login Form
 
