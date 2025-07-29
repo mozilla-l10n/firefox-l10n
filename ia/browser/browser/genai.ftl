@@ -98,6 +98,13 @@ genai-menu-choose-chatbot =
 genai-menu-ask-generic-2 =
     .label = Demandar a robot confabulator IA
     .accesskey = f
+# $provider (string) - name of the provider
+genai-menu-ask-provider-2 =
+    .label = Demandar a  { $provider }
+    .accesskey = d
+genai-menu-no-provider-2 =
+    .label = Demandar a un robot confabulator IA
+    .accesskey = f
 
 ## Chatbot header
 
