@@ -1343,19 +1343,34 @@ trustpanel-etp-toggle-on =
 trustpanel-etp-toggle-off =
     .aria-label = Protection contra-traciamento reinfortiate: disactivate pro { $host }
 trustpanel-etp-description-enabled = Si alco pare corrupte in iste sito, tenta disactivar protectiones.
+trustpanel-etp-description-disabled = { -brand-product-name } pensa que le companias deberea sequer te minus. Nos bloca quante plus traciatores como nos pote quando tu activa le protectiones.
 trustpanel-connection-label-secure = Connexion secur
 trustpanel-connection-label-insecure = Connexion non secur
+trustpanel-header-enabled = { -brand-product-name } es in alerta
 trustpanel-description-enabled = Tu es protegite. Si nos discoperi alco, lo facera saper vos
 trustpanel-header-disabled = Tu disactivava le protectiones
 trustpanel-description-disabled = { -brand-product-name } es foras de servicio. Nos consilia reactivar le protectiones.
 trustpanel-clear-cookies-button = Rader le cookies e le datos de sito
 trustpanel-privacy-link = Parametros del confidentialitate
+# Variables
+#  $host (String): the hostname of the site that is being displayed.
+trustpanel-clear-cookies-header =
+    .title = Vacuar cookies e datos del sito pro { $host }
+trustpanel-clear-cookies-description = Remover cookies e datos de sito pote disconnecter te de sitos web e vacuar carrettos de compras.
 trustpanel-clear-cookies-subview-button-clear = Vacuar
 trustpanel-clear-cookies-subview-button-cancel = Cancellar
+# Variables
+#  $host (String): the hostname of the site that is being displayed.
+trustpanel-site-information-header =
+    .title = Protectiones de connexion pro { $host }
 trustpanel-connection-secure = Tu es connectite con securitate a iste sito.
 trustpanel-connection-not-secure = Tu non es connectite con securitate a iste sito.
 trustpanel-siteinformation-morelink = Plus de informationes del sito
 trustpanel-blocker-see-all = Vider toto
+# Variables
+#  $host (String): the hostname of the site that is being displayed.
+trustpanel-blocker-header =
+    .title = Protectiones de traciamento pro { $host }
 
 ## Variables
 ##  $count (String): the number of trackers blocked.
