@@ -524,6 +524,14 @@ pdfjs-editor-alt-text-settings-show-dialog-button-label = Monstrar le redactor d
 pdfjs-editor-alt-text-settings-show-dialog-description = Te adjuta a verifica que tote tu imagines ha un texto alternative.
 pdfjs-editor-alt-text-settings-close-button = Clauder
 
+## Accessibility labels (announced by screen readers) for objects added to the editor.
+
+pdfjs-editor-highlight-added-alert = Evidentia addite
+pdfjs-editor-freetext-added-alert = Texto addite
+pdfjs-editor-ink-added-alert = Designo addite
+pdfjs-editor-stamp-added-alert = Imagine addite
+pdfjs-editor-signature-added-alert = Firma addite
+
 ## "Annotations removed" bar
 
 pdfjs-editor-undo-bar-message-highlight = Evidentiation removite

@@ -447,10 +447,16 @@ onboarding-checklist-sign-up = Registrate o accede a tu conto
 
 tab-groups-onboarding-feature-callout-title = Prova le gruppos de schedas pro minus disordine, plus concentration
 tab-groups-onboarding-feature-callout-subtitle = Organisa te trahente un scheda al summitate de un altere pro crear tu prime gruppo.
+# The text "list all tabs" refers to the string tabs-toolbar-list-all-tabs
+tab-groups-onboarding-create-group-title-3 = Trova quandocunque tu gruppos de schedas in le menu Listar tote le schedas.
 tab-groups-onboarding-create-group-title-2 = Trova hic tu gruppos de schedas in omne momento.
 tab-groups-onboarding-create-group-no-alltabs-button-title = Pro trovar tu gruppos, cerca los in le barra de adresse.
+# The text "list all tabs" refers to the string tabs-toolbar-list-all-tabs
+tab-groups-onboarding-saved-groups-title-3 = Si tu claudeva un gruppo de schedas, reaperi lo quandocunque per le menu Listar tote le schedas.
 tab-groups-onboarding-saved-groups-title-2 = Quando tu claude un gruppo de schedas, tu pote reaperir lo hic in omne momento.
 tab-groups-onboarding-saved-groups-no-alltabs-button-title-2 = Pro trovar tu gruppos claudite, cerca los in le barra de adresse.
+# The text "list all tabs" refers to the string tabs-toolbar-list-all-tabs
+tab-groups-onboarding-session-restore-title-2 = Reaperi tu gruppos de schedas quandocunque per le menu Listar tote le schedas.
 tab-groups-onboarding-session-restore-title = Reaperi tu gruppos de schedas hic in omne momento.
 tab-groups-onboarding-dismiss = OK
 
