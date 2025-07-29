@@ -1334,6 +1334,16 @@ onboarding-aw-finish-setup-button =
 
 trustpanel-etp-label-enabled = Бақылаудан кеңейтілген қорғаныс іске қосулы
 trustpanel-etp-label-disabled = Бақылаудан кеңейтілген қорғаныс сөндірулі
+# Variables
+#  $host (String): the hostname of the site that is being displayed.
+trustpanel-etp-toggle-on =
+    .aria-label = Бақылаудан кеңейтілген қорғаныс: { $host } үшін іске қосылған
+# Variables
+#  $host (String): the hostname of the site that is being displayed.
+trustpanel-etp-toggle-off =
+    .aria-label = Бақылаудан кеңейтілген қорғаныс: { $host } үшін сөндірілген
+trustpanel-etp-description-enabled = Бұл сайтта бірдеңе бұзылған болып көрінсе, қорғанысты сөндіріп көріңіз.
+trustpanel-etp-description-disabled = { -brand-product-name } компаниялар сізді азырақ бақылауы керек деп есептейді. Қорғанысты іске қосқанда, біз мүмкіндігінше көп трекерлерді бұғаттаймыз.
 trustpanel-connection-label-secure = Байланыс қауіпсіз
 trustpanel-connection-label-insecure = Байланыс қауіпсіз емес
 trustpanel-description-enabled = Сіз қорғалғансыз. Бірдеңені байқасақ, сізге хабарлаймыз
