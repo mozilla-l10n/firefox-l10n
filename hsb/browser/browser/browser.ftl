@@ -1396,11 +1396,25 @@ trustpanel-blocker-header =
 ## Variables
 ##  $count (String): the number of trackers blocked.
 
+trustpanel-blocker-section-header =
+    { $count ->
+        [one] <span>{ $count }</span> přesćěhowak je so na tutym sydle zablokował
+        [two] <span>{ $count }</span> přesćěhowakaj stej so na tutym sydle zablokowałoj
+        [few] <span>{ $count }</span> přesćěhowak su so na tutym sydle zablokowali
+       *[other] <span>{ $count }</span> přesćěhowakow je so na tutym sydle zablokowało
+    }
 trustpanel-blocker-description = { -brand-product-name } měni, zo předewzaća měli wam mjenje slědować. Tohodla blokujemy tak wjele kaž móžemy.
 trustpanel-blocked-header = { -brand-product-name } je tute wěcy za was zablokował:
 trustpanel-tracking-header = { -brand-product-name } je tute wěcy dowolił, zo bychu sydła korektnje fungowali:
 trustpanel-insecure-section-header = Waš zwisk wěsty njeje
 trustpanel-insecure-description = Daty, kotrež na tute sydło sćeleće, njejsu zaklučowane. Dadźa so wobhladać, kradnyć abo změnić.
+trustpanel-list-label-tracking-cookies =
+    { $count ->
+        [one] { $count } sydła přesahowacy slědowacy plack
+        [two] { $count } sydła přesahowacej slědowacej plackaj
+        [few] { $count } sydła přesahowace slědowace placki
+       *[other] { $count } sydła přesahowacych slědowacych plackow
+    }
 trustpanel-list-label-tracking-content = Slědowacy wobsah
 trustpanel-list-label-fingerprinter =
     { $count ->
@@ -1423,7 +1437,28 @@ trustpanel-list-label-cryptominer =
         [few] { $count } kryptokoparjo
        *[other] { $count } kryptokoparjow
     }
+trustpanel-social-tracking-blocking-tab-header =
+    { $count ->
+        [one] { -brand-product-name } je { $count } přesćěhowak socialnych medijow zablokował
+        [two] { -brand-product-name } je { $count } přesćěhowakaj socialnych medijow zablokował
+        [few] { -brand-product-name } je { $count } přesćěhowaki socialnych medijow zablokował
+       *[other] { -brand-product-name } je { $count } přesćěhowakow socialnych medijow zablokował
+    }
+trustpanel-social-tracking-not-blocking-tab-header =
+    { $count ->
+        [one] { -brand-product-name } je { $count } přesćěhowak socialnych medijow dowolił
+        [two] { -brand-product-name } je { $count } přesćěhowakaj socialnych medijow dowolił
+        [few] { -brand-product-name } je { $count } přesćěhowaki socialnych medijow dowolił
+       *[other] { -brand-product-name } je { $count } přesćěhowakow socialnych medijow dowolił
+    }
 trustpanel-social-tracking-tab-list-header = Tute sydła pospytuja wam slědować:
+trustpanel-tracking-cookies-blocking-tab-header =
+    { $count ->
+        [one] { -brand-product-name } je { $count } sydła přesahowacy slědowacy plack zablokował
+        [two] { -brand-product-name } je { $count } sydła přesahowacej slědowacej plackaj zablokował
+        [few] { -brand-product-name } je { $count } sydła přesahowace slědowace placki zablokował
+       *[other] { -brand-product-name } je { $count } sydła přesahowacych slědowacych plackow zablokował
+    }
 trustpanel-tracking-cookies-tab-list-header = Tute sydła pospytuja wam slědować:
 trustpanel-tracking-content-tab-list-header = Tute sydła pospytuja wam slědować:
 trustpanel-fingerprinter-blocking-tab-header =
