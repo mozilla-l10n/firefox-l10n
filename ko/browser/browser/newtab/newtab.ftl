@@ -88,6 +88,14 @@ newtab-confirm-delete-history-p2 = 이 작업은 취소할 수 없습니다.
 
 newtab-topsite-sponsored = 스폰서
 
+## Label used by screen readers for pinned top sites
+
+# Variables:
+#   $title (string) - The label or hostname of the site.
+topsite-label-pinned =
+    .aria-label = { $title } (고정)
+    .title = { $title }
+
 ## Context Menu - Action Tooltips.
 
 # General tooltip for context menus.
