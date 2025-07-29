@@ -172,15 +172,104 @@ contextual-manager-passwords-alert-back-button =
     .label = Назад
 contextual-manager-passwords-alert-list =
     .aria-label = Списак упозорења
+contextual-manager-passwords-breached-origin-heading-and-message =
+    .heading = Препоручује се промена лозинке
+    .message = Пријављено је да је лозинка са овог сајта украдена или процурела. Промените лозинку да заштитите ваш налог.
+contextual-manager-passwords-change-password-button = Промени лозинку
+contextual-manager-passwords-vulnerable-password-heading-and-message =
+    .heading = Препоручује се промена лозинке
+    .message = Ову лозинку је лако погодити. Промените лозинку да заштитите ваш налог.
+contextual-manager-passwords-add-username-button = Додај корисничко име
+contextual-manager-passwords-title = Лозинке
 
 ## Login Form
 
 contextual-manager-passwords-create-label =
     .label = Додај лозинку
+contextual-manager-passwords-edit-label =
+    .label = Уреди лозинку
+contextual-manager-passwords-remove-label =
+    .title = Уклони лозинку
+contextual-manager-passwords-origin-tooltip = Унесите тачну адресу са које ћете се пријавити на овај сајт.
+contextual-manager-passwords-username-tooltip = Унесите корисничко име, адресу е-поште или број налога који користите за пријаву.
+contextual-manager-passwords-password-tooltip = Унесите лозинку која се користи за пријављивање на овај налог.
 
 ## Password Card
 
 contextual-manager-passwords-list-label =
     .aria-label = Лозинке
+contextual-manager-website-icon =
+    .alt = Икона сајта
 contextual-manager-copy-icon =
     .alt = Копирај
+contextual-manager-check-icon-username =
+    .alt = Копирано
+contextual-manager-check-icon-password =
+    .alt = Копирано
+contextual-manager-alert-icon =
+    .alt = Упозорење
+# Variables
+#   $url (string) - The url associated with the login
+contextual-manager-origin-login-line =
+    .aria-label = Посети { $url }
+    .title = Посети { $url }
+# "(Warning)" indicates that a login's origin field has an alert icon.
+# Variables
+#   $url (string) - The url associated with the login
+contextual-manager-origin-login-line-with-alert =
+    .aria-label = Посети { $url } (Упозорење)
+    .title = Посети { $url } (Упозорење)
+# Variables
+#   $username (string) - The username associated with the login
+contextual-manager-username-login-line =
+    .aria-label = Копирај корисничко име { $username }
+    .title = Копирај корисничко име { $username }
+# "(Warning)" indicates that a login's username field has an alert icon.
+# Variables
+#   $username (string) - The username associated with the login
+contextual-manager-username-login-line-with-alert =
+    .aria-label = Копирај корисничко име { $username } (Упозорење)
+    .title = Копирај корисничко име { $username } (Упозорење)
+contextual-manager-password-login-line =
+    .aria-label = Копирај лозинку
+    .title = Копирај лозинку
+# "(Warning)" indicates that a login's password field has an alert icon.
+contextual-manager-password-login-line-with-alert =
+    .aria-label = Копирај лозинку (Упозорење)
+    .title = Копирај лозинку (Упозорење)
+contextual-manager-edit-login-button = Уреди
+    .tooltiptext = Уреди лозинку
+contextual-manager-view-alert-heading =
+    .heading = Прикажи упозорење
+contextual-manager-view-alert-button =
+    .tooltiptext = Прегледај упозорење
+# Variables
+#   $count (number) - The number of active alerts associated with the login
+contextual-manager-view-alert-heading-2 =
+    .heading =
+        { $count ->
+            [1] Прикажи упозорење
+            [one] Прикажи упозорење
+            [few] Прикажи упозорења
+           *[other] Прикажи упозорења
+        }
+# Variables
+#   $count (number) - The number of active alerts associated with the login
+contextual-manager-view-alert-button-2 =
+    .tooltiptext =
+        { $count ->
+            [1] Прегледај упозорење
+            [one] Прегледај упозорење
+            [few] Прегледај упозорења
+           *[other] Прегледај упозорења
+        }
+contextual-manager-show-password-button =
+    .aria-label = Прикажи лозинку
+    .title = Прикажи лозинку
+contextual-manager-hide-password-button =
+    .aria-label = Сакриј лозинку
+    .title = Сакриј лозинку
+# The message displayed when the search text does not match any of the user's saved logins.
+contextual-manager-passwords-no-passwords-found-header =
+    .heading = Нема пронађених лозинки
+contextual-manager-passwords-no-passwords-found-message = Нема пронађених лозинки. Претражите други појам и покушајте поново.
