@@ -1338,6 +1338,10 @@ trustpanel-etp-label-disabled = Protection antitraciamento reinfortiate es disac
 #  $host (String): the hostname of the site that is being displayed.
 trustpanel-etp-toggle-on =
     .aria-label = Protection antitraciamento reinfortiate: Active pro { $host }
+# Variables
+#  $host (String): the hostname of the site that is being displayed.
+trustpanel-etp-toggle-off =
+    .aria-label = Protection contra-traciamento reinfortiate: disactivate pro { $host }
 trustpanel-etp-description-enabled = Si alco pare corrupte in iste sito, tenta disactivar protectiones.
 trustpanel-connection-label-secure = Connexion secur
 trustpanel-connection-label-insecure = Connexion non secur
