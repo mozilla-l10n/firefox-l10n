@@ -183,10 +183,10 @@ sidebar-callout-survey-saved-websites-2 = גישה מהירה לסימניות �
 sidebar-callout-survey-none-of-above = אף אחד מהאמור לעיל
 sidebar-callout-survey-submit = שליחה
 sidebar-callout-survey-thank-you = אנו מודים לך על המשוב שלך!
-sidebar-genai-survey-satisfaction-question = עד כמה הינך מרוצה מכך שיש לך גישה לצ’אט בוט AI בסרגל הצד?
+sidebar-genai-survey-satisfaction-question = עד כמה הינך מרוצה מכך שיש לך גישה לצ’אטבוט AI בסרגל הצד?
 sidebar-genai-survey-productive-question =
     באיזו מידה היית נוטה להסכים או לא להסכים עם הצהרה זו:<br/>
-    ״צ’אט בוט AI בסרגל הצד מסייע לי להיות יותר פרודקטיבי״?
+    ״צ’אטבוט AI בסרגל הצד מסייע לי להיות יותר פרודקטיבי״?
 unified-search-callout-title = מעבר בין מנועי חיפוש
 unified-search-callout-subtitle = באפשרותך לבחור במה שהכי מתאים לחיפוש הספציפי שלך.
 unified-search-callout-primary-label = הבא

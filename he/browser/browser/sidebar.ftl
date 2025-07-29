@@ -3,7 +3,7 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 menu-view-genai-chat =
-    .label = צ’אט בוט AI
+    .label = צ’אטבוט AI
 menu-view-contextual-password-manager =
     .label = ססמאות
 sidebar-options-menu-button =
@@ -119,7 +119,7 @@ sidebar-history-context-menu-delete-pages =
 ## Labels for sidebar menu items.
 
 sidebar-menu-genai-chat-label =
-    .label = צ’אט בוט AI
+    .label = צ’אטבוט AI
 sidebar-menu-history-label =
     .label = היסטוריה
 sidebar-menu-synced-tabs-label =
@@ -157,9 +157,9 @@ sidebar-menu-close-bookmarks-tooltip = סגירת סימניות ({ $shortcut })
 ##   $shortcut (String) - The OS specific keyboard shortcut.
 ##   $provider (String) - The name of the AI chatbot provider (if available).
 
-sidebar-menu-open-ai-chatbot-tooltip-generic = פתיחת צ’אט בוט AI (‏{ $shortcut })
+sidebar-menu-open-ai-chatbot-tooltip-generic = פתיחת צ’אטבוט AI (‏{ $shortcut })
 sidebar-menu-open-ai-chatbot-provider-tooltip = פתיחת { $provider } (‏{ $shortcut })
-sidebar-menu-close-ai-chatbot-tooltip-generic = סגירת צ’אט בוט AI (‏{ $shortcut })
+sidebar-menu-close-ai-chatbot-tooltip-generic = סגירת צ’אטבוט AI (‏{ $shortcut })
 sidebar-menu-close-ai-chatbot-provider-tooltip = סגירת { $provider } (‏{ $shortcut })
 
 ## Headings for sidebar menu panels.

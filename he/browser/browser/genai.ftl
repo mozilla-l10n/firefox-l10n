@@ -11,7 +11,7 @@ genai-settings-chat-copilot-links = בחירה ב־Copilot מהווה הסכמה
 genai-settings-chat-gemini-links = בחירה ב־Google Gemini מהווה הסכמה ל<a data-l10n-name="link1">תנאי השירות של Google</a>, <a data-l10n-name="link2">מדיניות השימוש האסור של AI גנרטיבי</a> ו<a data-l10n-name="link3">הצהרת הפרטיות של Gemini Apps</a>.
 genai-settings-chat-huggingchat-links = בחירה ב־HuggingChat מהווה הסכמה ל<a data-l10n-name="link1">הצהרת הפרטיות של HuggingChat</a> ול<a data-l10n-name="link2">מדיניות הפרטיות של Hugging Face</a>.
 genai-settings-chat-lechat-links = בחירה ב־Le Chat Mistral מהווה הסכמה ל<a data-l10n-name="link1">תנאי השירות</a> ול<a data-l10n-name="link2">מדיניות הפרטיות</a> של Mistral AI.
-genai-settings-chat-localhost-links = ניתן לספק צ’אט בוט מקומי פרטי משלך כמו למשל <a data-l10n-name="link1">llamafile</a> מקבוצת החדשנות של { -vendor-short-name }.
+genai-settings-chat-localhost-links = ניתן לספק צ’אטבוט מקומי פרטי משלך כמו למשל <a data-l10n-name="link1">llamafile</a> מקבוצת החדשנות של { -vendor-short-name }.
 
 ## Chatbot menu shortcuts
 
@@ -19,12 +19,12 @@ genai-settings-chat-localhost-links = ניתן לספק צ’אט בוט מקו�
 genai-menu-ask-provider =
     .label = לשאול את { $provider }
 genai-menu-open-generic =
-    .label = פתיחת צ’אט בוט AI
+    .label = פתיחת צ’אטבוט AI
 # $provider (string) - name of the provider
 genai-menu-open-provider =
     .label = פתיחת { $provider }
 genai-menu-remove-generic =
-    .label = הסרת צ’אט בוט AI
+    .label = הסרת צ’אטבוט AI
 # $provider (string) - name of the provider
 genai-menu-remove-provider =
     .label = הסרת { $provider }
@@ -32,7 +32,7 @@ genai-menu-remove-sidebar =
     .label = הסרה מסרגל הצד
 genai-menu-new-badge = חדש
 genai-input-ask-generic =
-    .placeholder = לשאול צ’אט בוט AI…
+    .placeholder = לשאול צ’אטבוט AI…
 # $provider (string) - name of the provider
 genai-input-ask-provider =
     .placeholder = לשאול את { $provider }…
@@ -42,7 +42,7 @@ genai-shortcuts-selected-warning-generic =
     .heading = צ’אטבוט AI לא יקבל את הבחירה המלאה שלך
     .message =
         { $selectionLength ->
-           *[other] בחרת בכ־{ $selectionLength } תווים. מספר התווים שניתן לשלוח לצ’אט בוט AI הוא כ־{ $maxLength }.
+           *[other] בחרת בכ־{ $selectionLength } תווים. מספר התווים שניתן לשלוח לצ’אטבוט AI הוא כ־{ $maxLength }.
         }
 # $provider (string) - name of the provider
 # $selectionLength (number) - selected text length
@@ -54,23 +54,23 @@ genai-shortcuts-selected-warning =
            *[other] בחרת בכ־{ $selectionLength } תווים. מספר התווים שניתן לשלוח אל { $provider } הוא כ־{ $maxLength }.
         }
 genai-shortcuts-hide =
-    .label = הסתרת קיצור דרך לצ’אט בוט
+    .label = הסתרת קיצור דרך לצ’אטבוט
 genai-menu-choose-chatbot =
-    .label = בחירת צ’אט בוט AI
+    .label = בחירת צ’אטבוט AI
 
 ## Chatbot header
 
-genai-chatbot-title = צ’אט בוט AI
+genai-chatbot-title = צ’אטבוט AI
 genai-header-provider-menu =
-    .title = בחירת צ’אט בוט
+    .title = בחירת צ’אטבוט
 genai-header-options-button =
     .title = פתיחת תפריט
 genai-header-close-button =
     .title = סגירה
 genai-provider-view-details =
-    .label = הצגת פרטי צ’אט בוט
+    .label = הצגת פרטי צ’אטבוט
 genai-options-reload-generic =
-    .label = טעינה מחדש של צ’אט בוט AI
+    .label = טעינה מחדש של צ’אטבוט AI
 # $provider (string) - name of the provider
 genai-options-reload-provider =
     .label = טעינה מחדש של { $provider }
@@ -79,7 +79,7 @@ genai-options-show-shortcut =
 genai-options-hide-shortcut =
     .label = הסתרת קיצור דרך בעת בחירת טקסט
 genai-options-about-chatbot =
-    .label = על אודות צ’אט בוטים של AI ב־{ -brand-short-name }
+    .label = על אודות צ’אטבוטים של AI ב־{ -brand-short-name }
 
 ## Chatbot footer
 
@@ -88,11 +88,11 @@ genai-page-button-summarize = סיכום העמוד
 ## Chatbot onboarding
 
 genai-onboarding-header = סיכום טקסט, סיעור מוחות ועוד תוך כדי גלישה
-genai-onboarding-choose-header = בחירת צ’אט בוט AI לשימוש בסרגל הצד של { -brand-short-name }
+genai-onboarding-choose-header = בחירת צ’אטבוט AI לשימוש בסרגל הצד של { -brand-short-name }
 # "Switch anytime" refers to allowing the user to switch to a different chatbot.
-genai-onboarding-description = יש לבחור בצ’אט בוט AI לשימוש בסרגל הצד של { -brand-short-name }. אנו נציג פרטים על כל צ’אט בוט לאחר בחירה בו. ניתן להחליף בינהם בכל עת. <a data-l10n-name="learn-more">מידע נוסף</a>
+genai-onboarding-description = יש לבחור בצ’אטבוט AI לשימוש בסרגל הצד של { -brand-short-name }. אנו נציג פרטים על כל צ’אטבוט לאחר בחירה בו. ניתן להחליף בינהם בכל עת. <a data-l10n-name="learn-more">מידע נוסף</a>
 # "Switch anytime" refers to allowing the user to switch to a different chatbot.
-genai-onboarding-choose-description = אפשר להחליף בינהם בכל עת. לקבלת עזרה בבחירה, <a data-l10n-name="learn-more">אפשר לקבל כאן מידע נוסף על כל צ’אט בוט</a>.
+genai-onboarding-choose-description = אפשר להחליף בינהם בכל עת. לקבלת עזרה בבחירה, <a data-l10n-name="learn-more">אפשר לקבל כאן מידע נוסף על כל צ’אטבוט</a>.
 genai-onboarding-primary = המשך
 genai-onboarding-secondary = סגירה
 genai-onboarding-claude-tooltip =
@@ -117,7 +117,7 @@ genai-onboarding-select-header = יש לבחור בטקסט כדי לראות ה
 genai-onboarding-select-primary = התחלה בשיחוח
 genai-chatbot-contextual-title = שימוש בצ’אטבוט AI מבלי להחליף לשוניות
 genai-chatbot-contextual-subtitle = ניתן להתכתב עם AI ולגלוש בו זמנית, זה לצד זה, כאשר מוסיפים צ’אטבוט AI בסרגל הצד של { -brand-short-name }.
-genai-chatbot-contextual-button = בחירת צ’אט בוט
+genai-chatbot-contextual-button = בחירת צ’אטבוט
 genai-chatbot-summarize-title = חדש! סיכום עמודים בלחיצה אחת
 genai-chatbot-summarize-button = סיכום העמוד
 
