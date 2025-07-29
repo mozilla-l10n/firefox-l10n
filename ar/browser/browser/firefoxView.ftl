@@ -91,6 +91,10 @@ firefoxview-tabs-list-tab-button =
     .title = افتح { $targetURI } في لسان جديد
 firefoxview-try-colorways-button = جرِّب التلاوين
 firefoxview-change-colorway-button = غيّر التلاوين
+# Variables:
+#  $intensity (String): Colorway intensity
+#  $collection (String): Colorway Collection name
+firefoxview-colorway-description = { $intensity } · { $collection }
 firefoxview-synced-tabs-placeholder-header = لا شيء لرؤيته بعد
 firefoxview-collapse-button-show =
     .title = اعرض القائمة
@@ -205,8 +209,10 @@ firefoxview-choose-browser-button = أختر متصفح
 ## Message displayed in Firefox View when the user has chosen to never remember History
 
 firefoxview-dont-remember-history-empty-header = لا يوجد شيء لإظهاره
+firefoxview-dont-remember-history-empty-description = حماية خصوصيتك هي جوهر عملنا. ولذلك يمكنك التحكم في النشاط الذي يتذكره { -brand-short-name }.
 firefoxview-dont-remember-history-empty-description-two = بناءً على إعداداتك الحالية، لا يتذكر { -brand-short-name } نشاطك أثناء التصفح. لتغيير ذلك، <a data-l10n-name="history-settings-url-two">غيّر إعدادات التأريخ الخاص بك لتذكر تأريخك</a>.
 firefoxview-dont-remember-history-empty-header-2 = أنت تتحكم في ما يتذكره { -brand-short-name }
+firefoxview-dont-remember-history-empty-description-one = حاليًا، لا يتذكر { -brand-short-name } نشاط تصفحك. لتغيير ذلك، <a data-l10n-name="history-settings-url-two">حدّث إعدادات التأريخ</a>.
 
 ##
 

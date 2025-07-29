@@ -81,6 +81,10 @@ genai-options-hide-shortcut =
 genai-options-about-chatbot =
     .label = על אודות צ’אט בוטים של AI ב־{ -brand-short-name }
 
+## Chatbot footer
+
+genai-page-button-summarize = סיכום העמוד
+
 ## Chatbot onboarding
 
 genai-onboarding-header = סיכום טקסט, סיעור מוחות ועוד תוך כדי גלישה
@@ -114,6 +118,8 @@ genai-onboarding-select-primary = התחלה בשיחוח
 genai-chatbot-contextual-title = שימוש בצ’אטבוט AI מבלי להחליף לשוניות
 genai-chatbot-contextual-subtitle = ניתן להתכתב עם AI ולגלוש בו זמנית, זה לצד זה, כאשר מוסיפים צ’אטבוט AI בסרגל הצד של { -brand-short-name }.
 genai-chatbot-contextual-button = בחירת צ’אט בוט
+genai-chatbot-summarize-title = חדש! סיכום עמודים בלחיצה אחת
+genai-chatbot-summarize-button = סיכום העמוד
 
 ## Chatbot onboarding choices
 ## These describe features/capabilities of chatbot providers. These are not buttons/actions.
