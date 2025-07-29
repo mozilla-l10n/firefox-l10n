@@ -115,6 +115,7 @@ contextual-manager-passwords-remove-all-confirm-button =
         [few] Уклони све
        *[other] Уклони све
     }
+contextual-manager-passwords-origin-label = Сајт
 # The attribute .data-after describes the text that should be displayed for the ::after pseudo-selector
 contextual-manager-passwords-username-label = Корисничко име
     .data-after = Копирано
@@ -175,10 +176,15 @@ contextual-manager-passwords-alert-list =
 contextual-manager-passwords-breached-origin-heading-and-message =
     .heading = Препоручује се промена лозинке
     .message = Пријављено је да је лозинка са овог сајта украдена или процурела. Промените лозинку да заштитите ваш налог.
+contextual-manager-passwords-breached-origin-link-message = Како { -brand-product-name } зна за цурења података?
 contextual-manager-passwords-change-password-button = Промени лозинку
 contextual-manager-passwords-vulnerable-password-heading-and-message =
     .heading = Препоручује се промена лозинке
     .message = Ову лозинку је лако погодити. Промените лозинку да заштитите ваш налог.
+contextual-manager-passwords-vulnerable-password-link-message = Како { -brand-product-name } зна да је лозинка слаба?
+contextual-manager-passwords-no-username-heading-and-message =
+    .heading = Додај корисничко име
+    .message = Додајте за брже пријављивање.
 contextual-manager-passwords-add-username-button = Додај корисничко име
 contextual-manager-passwords-title = Лозинке
 
@@ -273,3 +279,33 @@ contextual-manager-hide-password-button =
 contextual-manager-passwords-no-passwords-found-header =
     .heading = Нема пронађених лозинки
 contextual-manager-passwords-no-passwords-found-message = Нема пронађених лозинки. Претражите други појам и покушајте поново.
+
+## When the user has no saved passwords, we display the following messages to inform the user they can save
+## their passwords safely and securely in Firefox:
+
+# This string encourages the user to save their passwords in Firefox (the "safe spot").
+contextual-manager-passwords-no-passwords-header = Сачувајте ваше лозинке на сигурном месту.
+# This string informs that we (Firefox) store all passwords securely and will notify them of any breaches and alerts their
+# passwords may be involved in.
+contextual-manager-passwords-no-passwords-message = Све лозинке су шифроване и пратићемо могућа цурења и упозорења ако будете погођени.
+# This string encourages the user to save their passwords to Firefox again.
+contextual-manager-passwords-no-passwords-get-started-message = Додајте их овде да започнете.
+# This string is displayed in a button. If the user clicks it, they will be taken to a form to create a new password.
+contextual-manager-passwords-add-manually = Додај ручно
+
+## When the user cancels a login that's currently being edited, we display a message to confirm whether
+## or not the user wants to discard their current edits to the login.
+
+contextual-manager-passwords-discard-changes-heading-and-message =
+    .heading = Затворити без чувања?
+    .message = Ваше измене неће бити сачуване.
+contextual-manager-passwords-discard-changes-close-button = Затвори
+contextual-manager-passwords-discard-changes-go-back-button = Назад
+#   $total (number) - Total number of passwords
+contextual-manager-passwords-remove-all-passwords-checkbox =
+    { $total ->
+        [1] Да, уклони лозинку
+        [one] Да, уклони лозинку
+        [few] Да, уклони лозинке
+       *[other] Да, уклони лозинке
+    }
