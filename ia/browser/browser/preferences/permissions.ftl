@@ -168,6 +168,26 @@ permissions-site-camera-disable-label =
     .label = Blocar nove requestas de acceder a tu camera
 permissions-site-camera-disable-desc = Isto impedira qualcunque sitos web non listate antea de demandar licentia a acceder a tu camera. Blocar le accesso a tu camera pote nocer alcun functionalitates del sito web.
 
+## Site Permissions - Local host
+
+permissions-site-localhost-window =
+    .title = Parametros: applicationes e servicios del apparato
+    .style = { permissions-window2.style }
+permissions-site-localhost-desc = Iste sitos web ha requirite accesso a applicationes e servicios sur iste apparato. Tu pote eliger de permitter o blocar le sitos de facer isto.
+permissions-site-localhost-disable-label =
+    .label = Blocar nove requestas de acceder a applicationes e servicios sur iste apparato
+permissions-site-localhost-disable-desc = Isto impedira a qualcunque sito web non in supra listate de requirer accesso a applicationes e servicios sur iste apparato. Facer isto pote corrumper alcun functionalitates de sitos web.
+
+## Site Permissions - Local network
+
+permissions-site-local-network-window =
+    .title = Parametros, apparatos de rete local
+    .style = { permissions-window2.style }
+permissions-site-local-network-desc = Iste sitos web ha requirite accesso a applicationes e servicios sur apparatos connexe a tu wi-fi o rete local. Tu pote eliger de permitter o blocar le sitos de facer isto.
+permissions-site-local-network-disable-label =
+    .label = Blocar nove requestas de acceder a applicationes e servicios sur apparatos connexe a tu wi-fi o rete local.
+permissions-site-local-network-disable-desc = Isto impedira a qualcunque sito web non listate supra de requirer accesso a applicationes e servicios sur apparatos connexe a tu wi-fi o rete local. Facer isto pote corrumper alcun functionalitates de sitos web.
+
 ## Site Permissions - Microphone
 
 permissions-site-microphone-window2 =
