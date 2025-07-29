@@ -76,13 +76,27 @@ contextual-manager-passwords-export-success-heading =
 contextual-manager-passwords-export-success-button = Готово
 # Export passwords to file dialog
 contextual-manager-export-passwords-dialog-title = Извези лозинке у датотеку?
+# This string recommends to the user that they delete the exported password file that is saved on their local machine.
+contextual-manager-export-passwords-dialog-message = Препоручујемо да обришете датотеку након извоза како други корисници уређаја не би видели ваше лозинке.
 contextual-manager-export-passwords-dialog-confirm-button = Настави са извозом
 # Title of the file picker dialog
 contextual-manager-passwords-export-file-picker-title = Извези лозинке из { -brand-short-name }-а
+# The default file name shown in the file picker when exporting saved logins.
+# The resultant filename will end in .csv (added in code).
+contextual-manager-passwords-export-file-picker-default-filename = лозинке
 contextual-manager-passwords-export-file-picker-export-button = Извези
 # A description for the .csv file format that may be shown as the file type
 # filter by the operating system.
 contextual-manager-passwords-export-file-picker-csv-filter-title = CSV датотека
+# Confirm the removal of all saved passwords
+#   $total (number) - Total number of passwords
+contextual-manager-passwords-remove-all-title =
+    { $total ->
+        [1] Уклонити лозинку?
+        [one] Уклонити { $total } лозинку?
+        [few] Уклонити све { $total } лозинке?
+       *[other] Уклонити свих { $total } лозинки?
+    }
 # Checkbox label to confirm the removal of saved passwords
 #   $total (number) - Total number of passwords
 contextual-manager-passwords-remove-all-confirm =
