@@ -347,6 +347,13 @@ multi-cta-fox-doodle-privacy-focused-subtitle =
     }
 multi-cta-fox-doodle-msix-privacy-focused-subtitle = Трымайце пад рукой свой любімы браўзер, арыентаваны на прыватнасць. Усталюйце { -brand-short-name } як ваш прадвызначаны браўзер для адкрыцця спасылак і замацуйце яго ў стартавым меню.
 
+## Windows 10 EoS Sync messages group 1 spotlight
+
+windows-10-eos-sync-spotlight-title = Хутка абновіце з Windows 10?
+windows-10-eos-sync-spotlight-subtitle = Зрабіце рэзервовую копію пароляў і закладак, каб быць гатовымі да выкарыстання на любой прыладзе.
+windows-10-eos-sync-spotlight-primary-label = Зрабіце рэзервовую копію свайго { -brand-short-name }
+
 ## Windows 10 EoS Sync messages group 1 toast notification
 
+windows-10-eos-sync-toast-title = Абнаўляецеся да Windows 11? Не губляйце закладкі і паролі.
 windows-10-eos-sync-toast-secondary-label = Нагадаць пазней
