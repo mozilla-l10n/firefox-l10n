@@ -1341,6 +1341,7 @@ permissions-location = Stejnišćo
 permissions-location-settings =
     .label = Nastajenja…
     .accesskey = t
+permissions-localhost = Gratowe nałoženja a słužby
 permissions-localhost-settings =
     .label = Nastajenja…
     .accesskey = t
