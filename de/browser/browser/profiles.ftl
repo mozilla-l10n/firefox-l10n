@@ -173,7 +173,7 @@ default-favicon-avatar-alt =
 diamond-avatar-alt =
     .alt = Diamant
 barbell-avatar-alt =
-    .alt = Langhantel
+    .alt = Hantel
 bike-avatar-alt =
     .alt = Fahrrad
 
@@ -220,5 +220,5 @@ custom-avatar-crop-area =
     .aria-label = Zuschneidebereich anpassen
 custom-avatar-drag-handle =
     .aria-label = Größe des Zuschneidebereiches anpassen
-barbell-avatar = Langhantel
+barbell-avatar = Hantel
 bike-avatar = Fahrrad
