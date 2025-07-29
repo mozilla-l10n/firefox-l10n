@@ -1459,7 +1459,28 @@ trustpanel-tracking-cookies-blocking-tab-header =
         [few] { -brand-product-name } je { $count } sydła přesahowace slědowace placki zablokował
        *[other] { -brand-product-name } je { $count } sydła přesahowacych slědowacych plackow zablokował
     }
+trustpanel-tracking-cookies-not-blocking-tab-header =
+    { $count ->
+        [one] { -brand-product-name } je { $count } sydła přesahowacy slědowacy plack dowolił
+        [two] { -brand-product-name } je { $count } sydła přesahowacej slědowacej plackaj dowolił
+        [few] { -brand-product-name } je { $count } sydła přesahowace slědowace placki dowolił
+       *[other] { -brand-product-name } je { $count } sydła přesahowacych slědowacych plackow dowolił
+    }
 trustpanel-tracking-cookies-tab-list-header = Tute sydła pospytuja wam slědować:
+trustpanel-tracking-content-blocking-tab-header =
+    { $count ->
+        [one] { -brand-product-name } je { $count } přesćěhowak zablokował
+        [two] { -brand-product-name } je { $count } přesćěhowakaj zablokował
+        [few] { -brand-product-name } je { $count } přesćěhowaki zablokował
+       *[other] { -brand-product-name } je { $count } přesćěhowakow zablokował
+    }
+trustpanel-tracking-content-not-blocking-tab-header =
+    { $count ->
+        [one] { -brand-product-name } je { $count } přesćěhowak dowolił
+        [two] { -brand-product-name } je { $count } přesćěhowakaj dowolił
+        [few] { -brand-product-name } je { $count } přesćěhowaki dowolił
+       *[other] { -brand-product-name } je { $count } přesćěhowakow dowolił
+    }
 trustpanel-tracking-content-tab-list-header = Tute sydła pospytuja wam slědować:
 trustpanel-fingerprinter-blocking-tab-header =
     { $count ->

@@ -168,6 +168,18 @@ permissions-site-camera-disable-label =
     .label = Nowe žadanja za přistupom na wašu kameru blokować
 permissions-site-camera-disable-desc = To budźe websydła, kotrež horjeka w lisćinje podate njejsu, při žadanju za přistupom k wašej kamerje haćić. Hdyž přistup k wašej kamerje blokujeće, móže so stać, zo někotre funkcije websydła njefunguja.
 
+## Site Permissions - Local host
+
+permissions-site-localhost-window =
+    .title = Nastajenja – Gratowe nałoženja a słužby
+    .style = { permissions-window2.style }
+
+## Site Permissions - Local network
+
+permissions-site-local-network-window =
+    .title = Nastajenje – Graty lokalneje syće
+    .style = { permissions-window2.style }
+
 ## Site Permissions - Microphone
 
 permissions-site-microphone-window2 =

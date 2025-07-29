@@ -135,7 +135,7 @@ permissions-site-notification-window2 =
 permissions-site-notification-desc = האתרים הבאים ביקשו לשלוח אליך התרעות. ניתן לציין לאילו אתרים מותר לשלוח אליך התרעות. ניתן גם לחסום בקשות חדשות לשליחת התרעות.
 permissions-site-notification-disable-label =
     .label = חסימת בקשות חדשות להפעלת התרעות
-permissions-site-notification-disable-desc = הגדרה זו תמנע מאתרים שלא מופיעים להלן מהגשת בקשה לקבלת הרשאה לשליחת התרעות. חסימת התרעות עשויה להפריע לפעולה של מגוון תכונות באתרים.
+permissions-site-notification-disable-desc = הגדרה זו תמנע מאתרים שלא מופיעים להלן לבקש הרשאה לקבל גישה לשליחת התרעות. חסימת התרעות עשויה להפריע לפעולה של מגוון תכונות בחלק מהאתרים.
 
 ## Site Permissions - Location
 
@@ -145,6 +145,7 @@ permissions-site-location-window2 =
 permissions-site-location-desc = האתרים הבאים ביקשו לגשת לנתוני המיקום שלך. באפשרותך לציין לאילו אתרים מותר לגשת לנתוני המיקום שלך. ניתן גם לחסום בקשות חדשות לגשת לנתוני המיקום שלך.
 permissions-site-location-disable-label =
     .label = חסימת בקשות חדשות לקבלת גישה לנתוני המיקום שלך
+permissions-site-location-disable-desc = הגדרה זו תמנע מאתרים שלא מופיעים להלן לבקש הרשאה לקבל גישה לנתוני המיקום שלך. חסימת הגישה לנתוני המיקום שלך עשויה להפריע לפעולה של מגוון תכונות בחלק מהאתרים.
 
 ## Site Permissions - Virtual Reality
 
@@ -154,6 +155,7 @@ permissions-site-xr-window2 =
 permissions-site-xr-desc = האתרים הבאים ביקשו לגשת למכשירי המציאות המדומה שלך. באפשרותך לציין לאילו אתרים מותר לגשת למכשירי המציאות המדומה שלך. ניתן גם לחסום בקשות חדשות לגשת למכשירי המציאות המדומה שלך.
 permissions-site-xr-disable-label =
     .label = חסימת בקשות חדשות לקבלת גישה למכשירי המציאות המדומה שלך
+permissions-site-xr-disable-desc = הגדרה זו תמנע מאתרים שלא מופיעים להלן לבקש הרשאה לקבל גישה למכשירי המציאות המדומה שלך. חסימת הגישה למכשירי המציאות המדומה שלך עשויה להפריע לפעולה של מגוון תכונות באתרים.
 
 ## Site Permissions - Camera
 
@@ -163,7 +165,7 @@ permissions-site-camera-window2 =
 permissions-site-camera-desc = האתרים הבאים ביקשו לגשת למצלמה שלך. באפשרותך לציין לאילו אתרים מותר לגשת למצלמה שלך. ניתן גם לחסום בקשות חדשות לגשת למצלמה שלך.
 permissions-site-camera-disable-label =
     .label = חסימת בקשות חדשות לקבלת גישה למצלמה שלך
-permissions-site-camera-disable-desc = הגדרה זו תמנע מאתרים שלא מופיעים להלן לבקש הרשאה לקבל גישה לגשת למצלמה שלך. חסימת הגישה למצלמה שלך עשויה להפריע לפעולה של מגוון תכונות באתר.
+permissions-site-camera-disable-desc = הגדרה זו תמנע מאתרים שלא מופיעים להלן לבקש הרשאה לקבל גישה למצלמה שלך. חסימת הגישה למצלמה שלך עשויה להפריע לפעולה של מגוון תכונות בחלק מהאתרים.
 
 ## Site Permissions - Local host
 
@@ -173,6 +175,7 @@ permissions-site-localhost-window =
 permissions-site-localhost-desc = אתרים אלו ביקשו לקבל גישה ליישומים ושירותים במכשיר זה. באפשרותך לבחור לאפשר או לחסום אתרים מלעשות זאת.
 permissions-site-localhost-disable-label =
     .label = חסימת בקשות חדשות לקבלת גישה ליישומים ושירותים במכשיר זה
+permissions-site-localhost-disable-desc = הגדרה זו תמנע מאתרים שלא מופיעים להלן לבקש הרשאה לקבל גישה ליישומים ושירותים במכשיר זה. חסימת הגישה עשויה להפריע לפעולה של מגוון תכונות בחלק מהאתרים.
 
 ## Site Permissions - Local network
 
@@ -182,6 +185,7 @@ permissions-site-local-network-window =
 permissions-site-local-network-desc = אתרים אלו ביקשו לקבל גישה ליישומים ושירותים במכשירים המחוברים לרשת ה־Wi-Fi או הרשת המקומית שלך. באפשרותך לבחור לאפשר או לחסום אתרים מלעשות זאת.
 permissions-site-local-network-disable-label =
     .label = חסימת בקשות חדשות לגשת ליישומים ושירותים במכשירים המחוברים לרשת ה־Wi-Fi או הרשת המקומית שלך.
+permissions-site-local-network-disable-desc = הגדרה זו תמנע מאתרים שלא מופיעים להלן לבקש הרשאה לקבל גישה ליישומים ושירותים במכשירים המחוברים לרשת ה־Wi-Fi או הרשת המקומית. חסימת הגישה עשויה להפריע לפעולה של מגוון תכונות בחלק מהאתרים.
 
 ## Site Permissions - Microphone
 
@@ -191,7 +195,7 @@ permissions-site-microphone-window2 =
 permissions-site-microphone-desc = האתרים הבאים ביקשו לגשת למיקרופון שלך. באפשרותך לציין לאילו אתרים מותר לגשת למיקרופון שלך. ניתן גם לחסום בקשות חדשות לקבלת גישה למיקרופון שלך.
 permissions-site-microphone-disable-label =
     .label = חסימת בקשות חדשות לקבלת גישה למיקרופון שלך
-permissions-site-microphone-disable-desc = הגדרה זו תמנע מאתרים שלא מופיעים להלן לבקש הרשאה לקבל גישה למיקרופון שלך. חסימת הגישה למיקרופון שלך עשויה להפריע לפעולה של מגוון תכונות באתר.
+permissions-site-microphone-disable-desc = הגדרה זו תמנע מאתרים שלא מופיעים להלן לבקש הרשאה לקבל גישה למיקרופון שלך. חסימת הגישה למיקרופון שלך עשויה להפריע לפעולה של מגוון תכונות בחלק מהאתרים.
 
 ## Site Permissions - Speaker
 ##
