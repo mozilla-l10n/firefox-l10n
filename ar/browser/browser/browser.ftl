@@ -141,6 +141,10 @@ urlbar-default-notification-anchor =
     .tooltiptext = افتح لوحة الرسائل
 urlbar-geolocation-notification-anchor =
     .tooltiptext = افتح لوحة طلب المكان
+urlbar-localhost-notification-anchor =
+    .tooltiptext = أدر وصول الجهاز المحلي لهذا الموقع
+urlbar-local-network-notification-anchor =
+    .tooltiptext = أدر مشاركة الوصول إلى الشبكة المحلية مع هذا الموقع
 urlbar-xr-notification-anchor =
     .tooltiptext = افتح لوحة تصاريح الواقع الافتراضي
 urlbar-storage-access-anchor =
@@ -241,6 +245,10 @@ urlbar-search-mode-actions = الإجراءات
 
 urlbar-geolocation-blocked =
     .tooltiptext = لقد حجبت معلومات مكانك عن هذا الموقع.
+urlbar-localhost-blocked =
+    .tooltiptext = لقد حجبت اتصالات الجهاز المحلي لهذا الموقع.
+urlbar-local-network-blocked =
+    .tooltiptext = لقد حجبت اتصالات الشبكة المحلية لهذا الموقع.
 urlbar-xr-blocked =
     .tooltiptext = لقد حجبت الوصول إلى جهاز الواقع الافتراضي عن هذا الموقع.
 urlbar-web-notifications-blocked =
@@ -1353,7 +1361,27 @@ onboarding-aw-finish-setup-button =
 
 trustpanel-connection-label-secure = الاتصال آمن
 trustpanel-connection-label-insecure = الاتصال غير آمن
+trustpanel-header-enabled = { -brand-product-name } على الحراسة
+trustpanel-header-disabled = لقد أوقفت الحماية
 trustpanel-privacy-link = إعدادات الخصوصية
 trustpanel-clear-cookies-subview-button-clear = امسح
 trustpanel-clear-cookies-subview-button-cancel = ألغِ
+# Variables
+#  $host (String): the hostname of the site that is being displayed.
+trustpanel-site-information-header =
+    .title = حماية الاتصال لـ { $host }
+trustpanel-connection-secure = أنت متصل مع هذا الموقع بأمان.
+trustpanel-connection-not-secure = لست متصلاً مع هذا الموقع بأمان.
+trustpanel-siteinformation-morelink = مزيد من المعلومات حول الموقع
 trustpanel-blocker-see-all = اعرض الكل
+
+## Variables
+##  $count (String): the number of trackers blocked.
+
+trustpanel-blocker-description = { -brand-product-name } يرى أن على الشركات تقليل متابعتك. لذلك نحظر أكبر عدد ممكن منها.
+trustpanel-insecure-section-header = اتّصالك غير آمن
+trustpanel-insecure-description = البيانات التي ترسلها إلى هذا الموقع غير مُعمّاة، مما قد يعرضها للعرض أو السرقة أو التعديل.
+trustpanel-social-tracking-tab-list-header = تحاول هذه المواقع تتبعك:
+trustpanel-tracking-cookies-tab-list-header = تحاول هذه المواقع تتبعك:
+trustpanel-tracking-content-tab-list-header = تحاول هذه المواقع تتبعك:
+trustpanel-fingerprinter-list-header = تحاول هذه المواقع تبصيمك:

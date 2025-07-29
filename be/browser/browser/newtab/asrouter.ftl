@@ -356,4 +356,6 @@ windows-10-eos-sync-spotlight-primary-label = Зрабіце рэзервову�
 ## Windows 10 EoS Sync messages group 1 toast notification
 
 windows-10-eos-sync-toast-title = Абнаўляецеся да Windows 11? Не губляйце закладкі і паролі.
+windows-10-eos-sync-toast-subtitle = Зрабіце рэзервовую копію сваіх дадзеных, каб { -brand-short-name } быў гатовы да выкарыстання ў любы час, як на гэтым, так і на наступным камп'ютары.
+windows-10-eos-sync-toast-primary-label = Пачаць
 windows-10-eos-sync-toast-secondary-label = Нагадаць пазней
