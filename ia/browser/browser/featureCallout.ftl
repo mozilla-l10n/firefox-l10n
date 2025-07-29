@@ -114,7 +114,23 @@ fxa-adoption-passwords-primary-button-label = Inscriber se
 
 ## Windows 10 EoS Sync messages group 1 callouts
 
+windows-10-eos-sync-urgency-title-1 = Non perde omne cosa que tu ha salvate quando tu te move a Windows 11.
+windows-10-eos-sync-urgency-subtitle-1 = Synchronisa ora pro mantener tu marcapaginas, contrasignos, e parametros de { -brand-short-name } secur e facile a restaurar.
+windows-10-eos-sync-urgency-title-2 = Preste a dicer adeo a Windows 10? Protege tu datos quando tu passa.
+windows-10-eos-sync-urgency-subtitle-2 = Mesmo si tu non usa { -brand-short-name } quotidianmente, synchronisa pro mantener marcapaginas e contrasignos secur e accessibile.
+windows-10-eos-sync-new-device-title-1 = Non risca recomenciar a zero sur tu proxime apparato.
+windows-10-eos-sync-new-device-subtitle-1 = Synchronisa pro portar con te tu marcapaginas, contrasignos, e parametros preferite de { -brand-short-name } quando tu te move.
+windows-10-eos-sync-new-device-title-2 = Va tu mover a un nove apparato? Non perde lo que es importante.
+windows-10-eos-sync-new-device-subtitle-2 = Non importa quanto sovente tu usa { -brand-short-name }, le synchronisation protege tu marcapaginas, contrasignos, e parametros.
 windows-10-eos-sync-new-device-primary-label = Synchronisar ora
+windows-10-eos-sync-general-title-1 = Protege le { -brand-short-name } que tu ha rendite tue.
+windows-10-eos-sync-general-subtitle-1 = Preserva e synchronisa tu contrasignos, marcapaginas, parametros, e altere datos pro preservar illo sur que tu conta.
+windows-10-eos-sync-general-title-2 = Ora es un bon tempore pro preservar tu contrasignos e marcapaginas.
+windows-10-eos-sync-general-subtitle-2 = Synchronisa ora pro proteger le substantia con que tu te fide de { -brand-short-name }, e obtene lo retro ubique, quando tu lo vole.
+windows-10-eos-sync-tour-title-1 = Troppe schedas? Pone los in ordine con gruppos de schedas.
+windows-10-eos-sync-tour-subtitle-1 = Trahe un scheda supra le summitate de un altere pro crear un gruppo e mantener le cosas organisate.
+windows-10-eos-sync-tour-title-2 = Sia organisate pro Windows 11.
+windows-10-eos-sync-tour-subtitle-2 = Synchronisa tu marcapaginas, contrasignos, e parametros, pro los reservar ante que tu passa.
 
 ## Sidebar Strings
 
