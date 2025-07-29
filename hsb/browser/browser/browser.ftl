@@ -245,6 +245,10 @@ urlbar-search-mode-actions = Akcije
 
 urlbar-geolocation-blocked =
     .tooltiptext = Sće tutomu websydłu informacijie wo stejnišću zapowědźił.
+urlbar-localhost-blocked =
+    .tooltiptext = Sće zwiski lokalneho grata za tute websydło zablokował.
+urlbar-local-network-blocked =
+    .tooltiptext = Sće zwiski lokalneje syće za tute websydło zablokował.
 urlbar-xr-blocked =
     .tooltiptext = Sće přistup ke gratej wirtuelneje reality za tute websydło zablokował.
 urlbar-web-notifications-blocked =
