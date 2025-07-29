@@ -95,6 +95,9 @@ genai-menu-no-provider =
     .label = Demanda a un chatbot IA
 genai-menu-choose-chatbot =
     .label = Elige un chatbot IA
+genai-menu-ask-generic-2 =
+    .label = Demandar a robot confabulator IA
+    .accesskey = f
 
 ## Chatbot header
 

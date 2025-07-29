@@ -1348,16 +1348,38 @@ trustpanel-clear-cookies-subview-button-clear = Vacuar
 trustpanel-clear-cookies-subview-button-cancel = Cancellar
 trustpanel-connection-secure = Tu es connectite con securitate a iste sito.
 trustpanel-connection-not-secure = Tu non es connectite con securitate a iste sito.
+trustpanel-siteinformation-morelink = Plus de informationes del sito
 trustpanel-blocker-see-all = Vider toto
 
 ## Variables
 ##  $count (String): the number of trackers blocked.
 
 trustpanel-insecure-section-header = Tu connexion non es secur
+trustpanel-list-label-tracking-cookies =
+    { $count ->
+        [one] { $count } Cookie de traciamento inter sitos
+       *[other] { $count } Cookies de traciamento inter sitos
+    }
 trustpanel-list-label-tracking-content = Contento traciante
+trustpanel-list-label-fingerprinter =
+    { $count ->
+        [one] { $count } Dactylogrammator
+       *[other] { $count } Dactylogrammatores
+    }
+trustpanel-list-label-social-tracking =
+    { $count ->
+        [one] { $count } Traciator de medios social
+       *[other] { $count } Traciatores de medios social
+    }
 trustpanel-social-tracking-tab-list-header = Iste sitos cerca traciar te:
 trustpanel-tracking-cookies-blocking-tab-header =
     { $count ->
         [one] { -brand-product-name } blocava { $count } traciamento cookie inter-sito
        *[other] { -brand-product-name } blocava { $count } cookies traciator inter-sitos
     }
+trustpanel-tracking-cookies-not-blocking-tab-header =
+    { $count ->
+        [one] { -brand-product-name } permitteva { $count } cookie traciator inter-sitos
+       *[other] { -brand-product-name } permitteva { $count } cookies traciator inter-sitos
+    }
+trustpanel-tracking-cookies-tab-list-header = Iste sitos cerca traciar te:
