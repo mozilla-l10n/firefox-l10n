@@ -127,6 +127,7 @@ windows-10-eos-sync-general-title-1 = Proteja el { -brand-short-name } que hizo 
 windows-10-eos-sync-general-subtitle-1 = Haga una copia de seguridad y sincronice sus contraseñas, marcadores, configuraciones y otros datos para preservar aquello con lo que cuenta.
 windows-10-eos-sync-general-title-2 = Ahora es un buen momento para hacer una copia de seguridad de sus contraseñas y marcadores.
 windows-10-eos-sync-general-subtitle-2 = Sincronice ahora para proteger las cosas en las que confía { -brand-short-name } y recupérelas en cualquier lugar y en cualquier momento.
+windows-10-eos-sync-tour-title-1 = ¿Demasiadas pestañas? Ordenalas con grupos de pestañas.
 windows-10-eos-sync-tour-subtitle-1 = Arrastre una pestaña sobre otra para crear un grupo y mantener todo organizado.
 windows-10-eos-sync-tour-title-2 = Organícese para Windows 11.
 windows-10-eos-sync-tour-subtitle-2 = Sincronice sus marcadores, contraseñas y configuraciones para hacer una copia de seguridad antes de cambiarse.
