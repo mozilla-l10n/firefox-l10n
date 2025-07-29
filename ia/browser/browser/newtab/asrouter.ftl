@@ -347,8 +347,12 @@ multi-cta-fox-doodle-msix-privacy-focused-subtitle = Tene a portata de clic tu n
 ## Windows 10 EoS Sync messages group 1 spotlight
 
 windows-10-eos-sync-spotlight-title = Tosto promovente ab Windows 10?
+windows-10-eos-sync-spotlight-subtitle = Preserva tu contrasignos e marcapaginas assi que tu es preste a facer le salto a qualcunque apparato.
+windows-10-eos-sync-spotlight-primary-label = Preserva tu { -brand-short-name }
 
 ## Windows 10 EoS Sync messages group 1 toast notification
 
+windows-10-eos-sync-toast-title = Va tu promover a Windows 11? Non perde marcapaginas e contrasignos.
+windows-10-eos-sync-toast-subtitle = Preserva tu datos assi que { -brand-short-name } es preste a continuar quandocunque, sur iste PC o sur le successive.
 windows-10-eos-sync-toast-primary-label = Comenciar
 windows-10-eos-sync-toast-secondary-label = Rememora me plus tarde
