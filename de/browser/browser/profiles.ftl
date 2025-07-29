@@ -133,7 +133,7 @@ heart-avatar-alt =
 heart-rate-avatar-alt =
     .alt = Herzfrequenz
 history-avatar-alt =
-    .alt = Geschichte
+    .alt = Chronik
 leaf-avatar-alt =
     .alt = Blatt
 lightbulb-avatar-alt =
@@ -185,7 +185,40 @@ briefcase-avatar = Aktenkoffer
 canvas-avatar = Canvas
 # Craft refers to hobby arts and crafts, represented by a button/fastener commonly found on clothing like shirts
 craft-avatar = Handwerk
+custom-avatar = Benutzerdefinierter Avatar
+# Default favicon refers to the generic globe/world icon that appears in browser tabs when a website doesn't have its own favicon.
+default-favicon-avatar = Standard-Favicon
+# Diamond refers to the precious stone, not the geometric shape
+diamond-avatar = Diamant
 flower-avatar = Blume
+folder-avatar = Ordner
+hammer-avatar = Hammer
 heart-avatar = Herz
+heart-rate-avatar = Herzfrequenz
+history-avatar = Chronik
+leaf-avatar = Blatt
+lightbulb-avatar = Glühbirne
+makeup-avatar = Make-up
+# Message refers to a text message, not a traditional letter/envelope message
+message-avatar = Nachricht
+musical-note-avatar = Musiknote
+palette-avatar = Palette
+paw-print-avatar = Tatzenabdruck
+plane-avatar = Flugzeug
+# Present refers to a gift box, not the current time period
+present-avatar = Geschenk
 shopping-avatar = Einkaufswagen
+soccer-avatar = Fußball
+sparkle-single-avatar = Funkeln
 star-avatar = Stern
+video-game-controller-avatar = Videospiel-Controller
+custom-avatar-crop-back-button =
+    .aria-label = Zurück
+custom-avatar-crop-view =
+    .aria-label = Ansicht zum Zuschneiden der Grafik
+custom-avatar-crop-area =
+    .aria-label = Zuschneidebereich anpassen
+custom-avatar-drag-handle =
+    .aria-label = Größe des Zuschneidebereiches anpassen
+barbell-avatar = Langhantel
+bike-avatar = Fahrrad

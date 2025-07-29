@@ -212,5 +212,7 @@ soccer-avatar = Fotball
 sparkle-single-avatar = Gnistre
 star-avatar = Stjerne
 video-game-controller-avatar = Videospelkontrollar
+custom-avatar-crop-back-button =
+    .aria-label = Tilbake
 barbell-avatar = Vektstong
 bike-avatar = Sykkel
