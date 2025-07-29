@@ -29,3 +29,5 @@ confirmation-hint-duplicate-tabs-closed =
         [one] Tutup { $tabCount } tab
        *[other] Tutup { $tabCount } tabs
     }
+# Subtle notification shown when Extensions button moves into the application menu.
+confirmation-hint-extensions-button-hidden = Dipindah ke menu

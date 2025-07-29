@@ -76,7 +76,7 @@ text-action-highlight-selection =
 # "Copy Link to Highlight" creates a permanent 'Text Fragment' link
 # to the current selection, and copies it into the user's clipboard.
 text-action-copy-link-to-highlight =
-    .label = Copier le lien à surligner
+    .label = Copier le lien du surlignage
 # This combines "Copy Link to Highlight" with "Copy Clean Link", ie.
 # it creates a link with a text fragment to the current selection
 # and it strips trackers etc.

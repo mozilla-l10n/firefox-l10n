@@ -81,6 +81,8 @@ addon-removal-title = Hapus { $name }?
 addon-removal-message = Hapus { $name } dari { -brand-shorter-name }?
 addon-removal-button = Hapus
 addon-removal-abuse-report-checkbox = Laporkan ekstensi ini ke { -vendor-short-name }
+# "it" refers to the local AI model that is paired to the AI feature
+addon-mlmodel-removal-body = Jika Anda menggunakan fitur atau ekstensi yang menggunakan model ini, itu akan ditambahkan kembali.
 # Variables:
 #   $addonCount (Number): the number of add-ons being downloaded
 addon-downloading-and-verifying = Mengunduh dan memverifikasi { $addonCount } pengaya…

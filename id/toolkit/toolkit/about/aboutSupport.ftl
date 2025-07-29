@@ -185,6 +185,8 @@ media-capabilities-enumerate = Daftar basis data
 
 media-codec-support-sw-decoding = Dekode Perangkat Lunak
 media-codec-support-hw-decoding = Dekode Perangkat Keras
+media-codec-support-sw-encoding = Pengodean Perangkat Lunak
+media-codec-support-hw-encoding = Pengodean Perangkat Keras
 media-codec-support-codec-name = Nama Codec
 media-codec-support-supported = Didukung
 media-codec-support-unsupported = Tidak didukung

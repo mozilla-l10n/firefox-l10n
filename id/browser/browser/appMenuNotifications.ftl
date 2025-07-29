@@ -44,6 +44,12 @@ appmenu-addon-private-browsing-installed2 =
     .buttonlabel = Oke
     .buttonaccesskey = O
 appmenu-addon-post-install-message3 = Kelola pengaya dan tema Anda melalui menu aplikasi.
+# This string is used in the confirmation popup displayed after an extension
+# has been installed, when the data collection feature is enabled.
+appmenu-addon-post-install-message-with-data-collection = Perbarui izin dan preferensi data kapan saja di <a data-l10n-name="settings-link">pengaturan ekstensi</a>.
+appmenu-addon-post-install-pin-toolbarbutton-checkbox =
+    .label = Sematkan ekstensi ke bilah alat
+    .accesskey = S
 appmenu-addon-post-install-incognito-checkbox =
     .label = Izinkan ekstensi ini untuk berjalan di Jendela Pribadi
     .accesskey = I

@@ -207,6 +207,9 @@ urlbar-result-menu-show-less-frequently =
     .label = Tampilkan lebih jarang
 urlbar-result-menu-dont-show-weather-suggestions =
     .label = Jangan tampilkan saran cuaca
+# Used for Split Button.
+urlbar-splitbutton-dropmarker =
+    .title = Buka menu
 # A message shown in the urlbar when the user submits feedback on a suggestion
 # (e.g., it shows an inaccurate location, it's shown too often, etc.).
 urlbar-feedback-acknowledgment = Terima kasih atas masukan Anda
@@ -739,6 +742,46 @@ urlbar-result-action-calculator-result-3 = = { NUMBER($result, useGrouping: "fal
 # Variables
 #  $result (String): the string representation for a formula result
 urlbar-result-action-calculator-result-decimal = = { NUMBER($result, maximumSignificantDigits: 9) }
+# The title of a weather suggestion in the urlbar. The temperature and unit
+# substring should be inside a <strong> tag. If the temperature and unit are not
+# adjacent in the localization, it's OK to include only the temperature in the
+# tag.
+# Variables:
+#   $temperature (number) - The temperature value
+#   $unit (String) - The unit for the temperature, either "C" or "F"
+#   $city (String) - The name of the city the weather data is for
+#   $region (String) - The name of the city's region or country. Depending on
+#       the user's location in relation to the city, this may be the name or
+#       abbreviation of one of the city's administrative divisions like a
+#       province or state, or it may be the name of the city's country.
+urlbar-result-weather-title = <strong>{ $temperature }°{ $unit }</strong> di { $city }, { $region }
+# The title of a weather suggestion in the urlbar including a region and
+# country. The temperature and unit substring should be inside a <strong> tag.
+# If the temperature and unit are not adjacent in the localization, it's OK to
+# include only the temperature in the tag.
+# Variables:
+#   $temperature (number) - The temperature value
+#   $unit (String) - The unit for the temperature, either "C" or "F"
+#   $city (String) - The name of the city the weather data is for
+#   $region (String) - The name or abbreviation of one of the city's
+#       administrative divisions like a province or state.
+#   $country (String) - The name of the city's country.
+urlbar-result-weather-title-with-country = <strong>{ $temperature }°{ $unit }</strong> di { $city }, { $region }, { $country }
+# The title of a weather suggestion in the urlbar only including the city. The
+# temperature and unit substring should be inside a <strong> tag. If the
+# temperature and unit are not adjacent in the localization, it's OK to include
+# only the temperature in the tag.
+# Variables:
+#   $temperature (number) - The temperature value
+#   $unit (String) - The unit for the temperature, either "C" or "F"
+#   $city (String) - The name of the city the weather data is for
+urlbar-result-weather-title-city-only = <strong>{ $temperature }°{ $unit }</strong> di { $city }
+# Shows the name of the provider of weather data in a weather suggestion in the
+# urlbar.
+# Variables:
+#   $provider (String) - The name of the weather-data provider. It will be the
+#       name of a company, organization, or service.
+urlbar-result-weather-provider-sponsored = { $provider } · Disponsori
 
 ## Strings used for buttons in the urlbar
 
@@ -766,11 +809,15 @@ urlbar-searchmode-actions =
     .label = Aksi
 urlbar-searchmode-exit-button =
     .tooltiptext = Tutup
+urlbar-searchmode-default =
+    .tooltiptext = Mesin pencari baku
 # Label shown on the top of Searchmode Switcher popup. After this label, the
 # available search engines will be listed.
 urlbar-searchmode-popup-description = Kali ini, cari dengan:
 urlbar-searchmode-popup-search-settings-menuitem =
     .label = Setelan Pencarian
+# Label shown next to a new search engine in the Searchmode Switcher popup to promote it.
+urlbar-searchmode-new = Baru
 # Searchmode Switcher button
 # Variables:
 #   $engine (String): the current default search engine.
@@ -1070,6 +1117,8 @@ navbar-accessible =
     .aria-label = Navigasi
 navbar-downloads =
     .label = Unduhan
+navbar-overflow-2 =
+    .tooltiptext = Alat lainnya
 navbar-overflow =
     .tooltiptext = Alat lainnya…
 # Variables:
@@ -1095,6 +1144,10 @@ tabs-toolbar-new-tab =
 tabs-toolbar-list-all-tabs =
     .label = Daftar tab
     .tooltiptext = Daftar tab
+
+## Drop indicator text for pinned tabs when no tabs are pinned.
+
+pinned-tabs-drop-indicator = Jatuhkan tab di sini untuk menyematkan
 
 ## Infobar shown at startup to suggest session-restore
 
@@ -1198,6 +1251,10 @@ popup-notification-addon-install-unsigned =
     .value = (Belum Diverifikasi)
 popup-notification-xpinstall-prompt-learn-more = Pelajari lebih lanjut tentang memasang pengaya dengan aman
 popup-notification-xpinstall-prompt-block-url = Lihat detail
+# Note: Access key is set to p to match "private" in the corresponding localized label.
+popup-notification-addon-privatebrowsing-checkbox2 =
+    .label = Izinkan ekstensi berjalan di jendela pribadi
+    .accesskey = p
 
 ## Pop-up warning
 
