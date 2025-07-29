@@ -120,6 +120,13 @@ genai-chatbot-contextual-subtitle = ניתן להתכתב עם AI ולגלוש �
 genai-chatbot-contextual-button = בחירת צ’אטבוט
 genai-chatbot-summarize-title = חדש! סיכום עמודים בלחיצה אחת
 genai-chatbot-summarize-button = סיכום העמוד
+# “Summarize Page” should be consistent with the translation for the string genai-menu-summarize-page
+genai-chatbot-summarize-sidebar-provider-subtitle = יש ללחוץ לחיצה ימנית על הצ’אטבוט AI שלך בסרגל הכלים ולבחור באפשרות ״סיכום העמוד״.
+# “Summarize Page” should be consistent with the translation for the string genai-menu-summarize-page
+genai-chatbot-summarize-sidebar-generic-subtitle = יש ללחוץ לחיצה ימנית על כפתור הניצוצות בסרגל הכלים ולבחור באפשרות ״סיכום העמוד״. בפעם הראשונה, יהיה צורך לבחור בצ’אטבוט.
+# “Summarize page” should be consistent with the translation for the string genai-page-button-summarize
+genai-chatbot-summarize-footer-provider-subtitle = יש לפתוח את הצ’אטבוט AI שלך בסרגל הכלים ולבחור באפשרות ״סיכום העמוד״ שבתחתית.
+genai-chatbot-summarize-footer-generic-subtitle = ניתן להוסיף צ’אטבוט AI לסרגל הכלים של { -brand-short-name } כדי לסכם עמודים במהירות.
 
 ## Chatbot onboarding choices
 ## These describe features/capabilities of chatbot providers. These are not buttons/actions.
