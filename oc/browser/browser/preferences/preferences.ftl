@@ -447,7 +447,7 @@ update-setting-write-failure-title2 = Error en enregistrant los paramètres de m
 # intentional so the path is easier to identify.
 update-setting-write-failure-message2 =
     { -brand-short-name } a rencontrat una error e a pas enregistrat aquesta modificacion. Notatz que definir aqueste paramètre de mesa a jorn requerís la permission d’escriure sul fichièr çai-jos. Vosautres o un administrator sistèma podètz benlèu corregir aquò en donant al grop Users l’accès complèt a aqueste fichièr.
-
+    
     Escritura impossibla sul fichièr : { $path }
 update-in-progress-title = Actualizacion en cors
 update-in-progress-message = Volètz que { -brand-short-name } contunhe amb aquesta mesa a jorn ?
