@@ -93,7 +93,7 @@ newtab-topsite-sponsored = Sponsrad
 # Variables:
 #   $title (string) - The label or hostname of the site.
 topsite-label-pinned =
-    .aria-label = { $title } (nålad)
+    .aria-label = { $title } (fäst)
     .title = { $title }
 
 ## Context Menu - Action Tooltips.

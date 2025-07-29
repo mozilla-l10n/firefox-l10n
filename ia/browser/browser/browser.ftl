@@ -1402,6 +1402,11 @@ trustpanel-list-label-social-tracking =
         [one] { $count } Traciator de medios social
        *[other] { $count } Traciatores de medios social
     }
+trustpanel-social-tracking-not-blocking-tab-header =
+    { $count ->
+        [one] { -brand-product-name } permitteva { $count } traciator de medios social
+       *[other] { -brand-product-name } permitteva { $count } traciatores de medios social
+    }
 trustpanel-social-tracking-tab-list-header = Iste sitos cerca traciar te:
 trustpanel-tracking-cookies-blocking-tab-header =
     { $count ->
@@ -1414,3 +1419,24 @@ trustpanel-tracking-cookies-not-blocking-tab-header =
        *[other] { -brand-product-name } permitteva { $count } cookies traciator inter-sitos
     }
 trustpanel-tracking-cookies-tab-list-header = Iste sitos cerca traciar te:
+trustpanel-tracking-content-blocking-tab-header =
+    { $count ->
+        [one] { -brand-product-name } blocava { $count } traciator
+       *[other] { -brand-product-name } blocava { $count } traciatores
+    }
+trustpanel-tracking-content-not-blocking-tab-header =
+    { $count ->
+        [one] { -brand-product-name } permitteva { $count } traciator
+       *[other] { -brand-product-name } permitteva { $count } traciatores
+    }
+trustpanel-tracking-content-tab-list-header = Iste sitos tenta traciar te:
+trustpanel-fingerprinter-blocking-tab-header =
+    { $count ->
+        [one] { -brand-product-name } blocava { $count } dactylogrammator
+       *[other] { -brand-product-name } blocava { $count } dactylogrammatores
+    }
+trustpanel-fingerprinter-not-blocking-tab-header =
+    { $count ->
+        [one] { -brand-product-name } permitteva { $count } dactylogrammator
+       *[other] { -brand-product-name } permitteva { $count } dactylogrammatores
+    }
