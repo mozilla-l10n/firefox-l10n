@@ -262,6 +262,10 @@ menu-profiles-manage-profiles =
     .label = Управљај профилима
 menu-profiles-new-profile =
     .label = Нови профил
+# Variables:
+#  $profileName (String): the name of the users profile
+menu-profiles-current =
+    .label = { $profileName } (тренутно)
 
 ## Tools Menu
 
@@ -271,6 +275,9 @@ menu-tools =
 menu-tools-downloads =
     .label = Преузимања
     .accesskey = П
+menu-tools-extensions-and-themes =
+    .label = Додаци и теме
+    .accesskey = Д
 menu-tools-addons-and-themes =
     .label = Додаци и теме
     .accesskey = Д

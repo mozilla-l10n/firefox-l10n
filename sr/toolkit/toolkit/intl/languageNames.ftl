@@ -2,9 +2,10 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-language-name-aa = афар
-language-name-ab = абкаски
-language-name-ach = ачолски
+language-name-aa = афарски
+language-name-ab = абхаски
+language-name-ach = аколи
+language-name-ae = авестански
 language-name-af = африканс
 language-name-ak = акан
 language-name-am = амхарски
