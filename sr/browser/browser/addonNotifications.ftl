@@ -81,6 +81,8 @@ addon-removal-title = Уклонити { $name }?
 addon-removal-message = Уклонити { $name } из { -brand-shorter-name }-а?
 addon-removal-button = Обриши
 addon-removal-abuse-report-checkbox = Пријави злоупотребу организацији { -vendor-short-name }
+# "it" refers to the local AI model that is paired to the AI feature
+addon-mlmodel-removal-body = Ако користите функције или додатке који користе овај модел, он ће бити поново додан.
 # Variables:
 #   $addonCount (Number): the number of add-ons being downloaded
 addon-downloading-and-verifying =

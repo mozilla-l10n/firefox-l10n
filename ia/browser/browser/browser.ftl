@@ -1458,6 +1458,7 @@ trustpanel-fingerprinter-not-blocking-tab-header =
         [one] { -brand-product-name } permitteva { $count } dactylogrammator
        *[other] { -brand-product-name } permitteva { $count } dactylogrammatores
     }
+trustpanel-fingerprinter-list-header = Iste sitos cerca dactylogrammar te:
 trustpanel-cryptominer-blocking-tab-header =
     { $count ->
         [one] { -brand-product-name } blocava { $count } cryptominator

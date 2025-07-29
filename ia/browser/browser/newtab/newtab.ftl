@@ -88,6 +88,14 @@ newtab-confirm-delete-history-p2 = Iste action es irreversibile.
 
 newtab-topsite-sponsored = Sponsorisate
 
+## Label used by screen readers for pinned top sites
+
+# Variables:
+#   $title (string) - The label or hostname of the site.
+topsite-label-pinned =
+    .aria-label = { $title } (appunctate)
+    .title = { $title }
+
 ## Context Menu - Action Tooltips.
 
 # General tooltip for context menus.
@@ -540,6 +548,8 @@ newtab-custom-wallpaper-cta = Prova lo
 
 ## Strings for new user activation custom wallpaper highlight
 
+newtab-new-user-custom-wallpaper-title = Selige un fundo pro render tue { -brand-product-name }
+newtab-new-user-custom-wallpaper-subtitle = Rende cata nove scheda como tu casa con fundos e colores personal.
 newtab-new-user-custom-wallpaper-cta = Proba lo subito
 
 ## Strings for download mobile highlight
