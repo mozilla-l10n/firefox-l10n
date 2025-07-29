@@ -554,6 +554,7 @@ newtab-custom-wallpaper-cta = Wupruwujće jón
 
 ## Strings for new user activation custom wallpaper highlight
 
+newtab-new-user-custom-wallpaper-title = Wubjerće pozadkowy wobraz, zo byšće sej { -brand-product-name } přiswojił
 newtab-new-user-custom-wallpaper-cta = Spytajće nětko
 
 ## Strings for download mobile highlight
