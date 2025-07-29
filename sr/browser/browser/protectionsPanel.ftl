@@ -63,7 +63,7 @@ protections-panel-no-trackers-found =
         [neuter] { -brand-short-name } на овој страници није пронашло познате елементе за праћење.
        *[other] Програм { -brand-short-name } на овој страници није пронашао познате елементе за праћење.
     }
-protections-panel-content-blocking-tracking-protection = Садржаји који прате
+protections-panel-content-blocking-tracking-protection = Садржај са елементима за праћење
 protections-panel-content-blocking-socialblock = Елементи за праћење са друштвених мрежа
 protections-panel-content-blocking-cryptominers-label = Крипто-рудари
 protections-panel-content-blocking-fingerprinters-label = Хватачи отиска

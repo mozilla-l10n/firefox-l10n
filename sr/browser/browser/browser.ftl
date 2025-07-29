@@ -1132,3 +1132,13 @@ file-picker-crashed-save-nowhere = Windows дијалошки оквир за и
 # The wording here should be consistent with the Windows variant of
 # `downloads-cmd-show-menuitem-2` and similar messages.
 
+
+## The urlbar trust panel
+
+trustpanel-blocker-see-all = Прикажи све
+
+## Variables
+##  $count (String): the number of trackers blocked.
+
+trustpanel-insecure-section-header = Ваша веза није безбедна
+trustpanel-insecure-description = Подаци које шаљете на овај сајт нису шифровани. Могу бити прегледани, украдени или измењени.
