@@ -115,6 +115,24 @@ contextual-manager-passwords-remove-all-confirm-button =
         [few] Уклони све
        *[other] Уклони све
     }
+# Message to confirm the removal of all saved passwords when user DOES NOT HAVE SYNC
+#   $total (number) - Total number of passwords
+contextual-manager-passwords-remove-all-message =
+    { $total ->
+        [1] Ово ће уклонити лозинку сачувану у { -brand-short-name(case: "loc") } и сва упозорења о цурењу података. Не можете поништити ову радњу.
+        [one] Ово ће уклонити лозинку сачувану у { -brand-short-name(case: "loc") } и сва упозорења о цурењу података. Не можете поништити ову радњу.
+        [few] Ово ће уклонити лозинке сачуване у { -brand-short-name(case: "loc") } и сва упозорења о цурењу података. Не можете поништити ову радњу.
+       *[other] Ово ће уклонити лозинки сачуваних у { -brand-short-name(case: "loc") } и сва упозорења о цурењу података. Не можете поништити ову радњу.
+    }
+# Message for modal to confirm the removal of all saved passwords when user HAS SYNC
+#   $total (number) - Total number of passwords
+contextual-manager-passwords-remove-all-message-sync =
+    { $total ->
+        [1] Ово ће уклонити лозинку сачувану у { -brand-short-name(case: "loc") } на свим вашим синхронизованим уређајима и сва упозорења о цурењу података. Не можете поништити ову радњу.
+        [one] Ово ће уклонити лозинку сачувану у { -brand-short-name(case: "loc") } на свим вашим синхронизованим уређајима и сва упозорења о цурењу података. Не можете поништити ову радњу.
+        [few] Ово ће уклонити лозинке сачуване у { -brand-short-name(case: "loc") } на свим вашим синхронизованим уређајима и сва упозорења о цурењу података. Не можете поништити ову радњу.
+       *[other] Ово ће уклонити лозинки сачуваних у { -brand-short-name(case: "loc") } на свим вашим синхронизованим уређајима и сва упозорења о цурењу података. Не можете поништити ову радњу.
+    }
 contextual-manager-passwords-origin-label = Сајт
 # The attribute .data-after describes the text that should be displayed for the ::after pseudo-selector
 contextual-manager-passwords-username-label = Корисничко име
