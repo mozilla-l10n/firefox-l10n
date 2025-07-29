@@ -53,6 +53,7 @@ about-logging-preset-webcodecs-label = WebCodecs
 about-logging-preset-webcodecs-description = RegistRegistrar módulos para diagnosticar problemas con decodificadores y codificadores de audio/video de WebCodecs y decodificadores de imágenes
 about-logging-preset-ml-label = Machine Learning
 about-logging-preset-ml-description = Registrar módulos para diagnosticar problemas de machine learning
+about-logging-preset-web-compat-label = Compatibilidad web
 about-logging-preset-web-compat-description = Registrar módulos para diagnosticar problemas de compatibilidad web
 about-logging-preset-webgpu-label = WebGPU
 about-logging-preset-webgpu-description = Registrar módulos para diagnosticar problemas de WebGPU
