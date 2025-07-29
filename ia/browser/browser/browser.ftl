@@ -141,6 +141,10 @@ urlbar-default-notification-anchor =
     .tooltiptext = Aperir le pannello de messages
 urlbar-geolocation-notification-anchor =
     .tooltiptext = Aperir le pannello de requesta de geolocalisation
+urlbar-localhost-notification-anchor =
+    .tooltiptext = Gerer accesso de apparatos local pro iste sito
+urlbar-local-network-notification-anchor =
+    .tooltiptext = Gerer compartimento del accesso a tu rete local pro iste sito
 urlbar-xr-notification-anchor =
     .tooltiptext = Aperir pannello de permissiones de realitate virtual
 urlbar-storage-access-anchor =
@@ -241,6 +245,10 @@ urlbar-search-mode-actions = Actiones
 
 urlbar-geolocation-blocked =
     .tooltiptext = Tu ha blocate le accesso al geolocalisation pro iste sito web.
+urlbar-localhost-blocked =
+    .tooltiptext = Tu ha blocate le connexiones del apparato local pro iste sito web.
+urlbar-local-network-blocked =
+    .tooltiptext = Tu ha blocate le connexiones del rete local pro iste sito web.
 urlbar-xr-blocked =
     .tooltiptext = Tu ha blocate le accesso de apparatos de realitate virtual pro iste sito web.
 urlbar-web-notifications-blocked =
@@ -1402,6 +1410,16 @@ trustpanel-list-label-social-tracking =
         [one] { $count } Traciator de medios social
        *[other] { $count } Traciatores de medios social
     }
+trustpanel-list-label-cryptominer =
+    { $count ->
+        [one] { $count }  cryptominator
+       *[other] { $count }  cryptominatores
+    }
+trustpanel-social-tracking-blocking-tab-header =
+    { $count ->
+        [one] { -brand-product-name } blocava { $count } traciator de medios social
+       *[other] { -brand-product-name } blocava { $count } traciatores de medios social
+    }
 trustpanel-social-tracking-not-blocking-tab-header =
     { $count ->
         [one] { -brand-product-name } permitteva { $count } traciator de medios social
@@ -1440,3 +1458,14 @@ trustpanel-fingerprinter-not-blocking-tab-header =
         [one] { -brand-product-name } permitteva { $count } dactylogrammator
        *[other] { -brand-product-name } permitteva { $count } dactylogrammatores
     }
+trustpanel-cryptominer-blocking-tab-header =
+    { $count ->
+        [one] { -brand-product-name } blocava { $count } cryptominator
+       *[other] { -brand-product-name } blocava { $count } cryptominatores
+    }
+trustpanel-cryptominer-not-blocking-tab-header =
+    { $count ->
+        [one] { -brand-product-name } permitteva { $count } cryptominator
+       *[other] { -brand-product-name } permitteva { $count } cryptominatores
+    }
+trustpanel-cryptominer-tab-list-header = Iste sitos tenta cryptominar:
