@@ -176,6 +176,7 @@ permissions-site-local-network-window =
 permissions-site-local-network-desc = 下列網站曾要求存取連結到您 Wi-Fi 或區域網路的裝置當中的應用程式或服務。您可以決定要允許或封鎖網站進行此動作。
 permissions-site-local-network-disable-label =
     .label = 封鎖存取其他連結到您 Wi-Fi 或區域網路上的其他裝置當中的應用程式與服務的新請求。
+permissions-site-local-network-disable-desc = 將停止任何未列於上方的網站請求存取連結至您 Wi-Fi 或區域網路中的裝置當中的應用程式與服務。這樣做可能會導致某些網站功能故障。
 
 ## Site Permissions - Microphone
 

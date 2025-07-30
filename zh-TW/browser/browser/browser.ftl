@@ -1381,6 +1381,10 @@ trustpanel-blocker-header =
 ##  $count (String): the number of trackers blocked.
 
 trustpanel-blocker-section-header = 已封鎖此網站上的 <span>{ $count }</span> 組追蹤器
+trustpanel-blocked-header = { -brand-product-name } 為您封鎖了下列項目：
+trustpanel-tracking-header = { -brand-product-name } 放行了下列項目，讓網站不致於故障：
+trustpanel-tracking-description = 如果完全沒有追蹤器，某些按鈕、表單、登入欄位可能無法運作。
+trustpanel-insecure-section-header = 您的連線並不安全
 trustpanel-list-label-tracking-cookies = { $count } 個跨網站追蹤 Cookie
 trustpanel-list-label-tracking-content = 追蹤用內容
 trustpanel-list-label-fingerprinter = { $count } 個數位指紋追蹤程式
