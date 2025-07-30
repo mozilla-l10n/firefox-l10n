@@ -174,6 +174,9 @@ permissions-site-localhost-window =
     .title = 設定 - 裝置應用程式與服務
     .style = { permissions-window2.style }
 permissions-site-localhost-desc = 下列網站曾要求存取此裝置中的應用程式或服務。您可以決定要允許或封鎖網站進行此動作。
+permissions-site-localhost-disable-label =
+    .label = 要在此裝置封鎖要連入應用程式或服務的新請求嗎？
+permissions-site-localhost-disable-desc = 將停止任何未列於上方的網站請求存取本裝置當中的應用程式與服務。這樣做可能會導致某些網站功能故障。
 
 ## Site Permissions - Local network
 
