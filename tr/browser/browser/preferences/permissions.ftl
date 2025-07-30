@@ -168,6 +168,19 @@ permissions-site-camera-disable-label =
     .label = Kamerama erişme isteklerini sormadan engelle
 permissions-site-camera-disable-desc = Yukarıdaki listede bulunmayan hiçbir web sitesi kameranıza erişme isteğinde bulunamayacaktır. Kamera erişimini engellerseniz bazı site özellikleri çalışmayabilir.
 
+## Site Permissions - Local host
+
+permissions-site-localhost-window =
+    .title = Ayarlar - Cihaz uygulamaları ve hizmetleri
+    .style = { permissions-window2.style }
+permissions-site-localhost-desc = Aşağıdaki siteler bu cihazdaki uygulama ve hizmetlere erişmek istedi. Erişime izin vermeyi veya erişimi engellemeyi seçebilirsiniz.
+permissions-site-localhost-disable-label =
+    .label = Bu cihazdaki uygulama ve hizmetlere erişim isteklerini engelle
+
+## Site Permissions - Local network
+
+permissions-site-local-network-desc = Aşağıdaki siteler Wi-Fi veya yerel ağınıza bağlı cihazlardaki uygulama ve hizmetlere erişmek istedi. Erişime izin vermeyi veya erişimi engellemeyi seçebilirsiniz.
+
 ## Site Permissions - Microphone
 
 permissions-site-microphone-window2 =

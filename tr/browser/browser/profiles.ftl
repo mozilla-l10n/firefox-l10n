@@ -119,6 +119,9 @@ briefcase-avatar-alt =
 # Canvas refers to an artist's painting canvas, not the general material
 canvas-avatar-alt =
     .alt = Kanvas
+# Craft refers to hobby arts and crafts, represented by a button/fastener commonly found on clothing like shirts
+craft-avatar-alt =
+    .alt = Zanaat
 flower-avatar-alt =
     .alt = Çiçek
 folder-avatar-alt =
@@ -180,6 +183,8 @@ book-avatar = Kitap
 briefcase-avatar = Çanta
 # Canvas refers to an artist's painting canvas, not the general material
 canvas-avatar = Tuval
+# Craft refers to hobby arts and crafts, represented by a button/fastener commonly found on clothing like shirts
+craft-avatar = Zanaat
 custom-avatar = Özel avatar
 # Default favicon refers to the generic globe/world icon that appears in browser tabs when a website doesn't have its own favicon.
 default-favicon-avatar = Varsayılan site simgesi
@@ -207,5 +212,13 @@ soccer-avatar = Futbol
 sparkle-single-avatar = Parıltı
 star-avatar = Yıldız
 video-game-controller-avatar = Video oyun kumandası
+custom-avatar-crop-back-button =
+    .aria-label = Geri
+custom-avatar-crop-view =
+    .aria-label = Resim görünümü kırp
+custom-avatar-crop-area =
+    .aria-label = Kırpma alanını ayarla
+custom-avatar-drag-handle =
+    .aria-label = Kırpma alanını yeniden boyutlandır
 barbell-avatar = Halter
 bike-avatar = Bisiklet
