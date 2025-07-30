@@ -186,6 +186,7 @@ permissions-site-local-network-window =
 permissions-site-local-network-desc = Disse nettstedene har bedt om tilgang til apper og tjenester på enheter som er koblet til Wi-Fi-nettverket eller det lokale nettverket ditt. Du kan velge å tillate eller blokkere nettsteder fra å gjøre dette.
 permissions-site-local-network-disable-label =
     .label = Blokker nye forespørsler om tilgang til apper og tjenester på enheter som er koblet til Wi-Fi-nettverket eller det lokale nettverket ditt.
+permissions-site-local-network-disable-desc = Dette vil hindre nettsteder som ikke er oppført ovenfor i å be om tilgang til apper og tjenester på enheter som er koblet til Wi-Fi eller lokale nettverksenheter. Dette kan føre til at enkelte nettstedsfunksjoner ikke fungerer.
 
 ## Site Permissions - Microphone
 
