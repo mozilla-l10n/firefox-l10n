@@ -168,6 +168,12 @@ permissions-site-camera-disable-label =
     .label = 封鎖新網站使用您攝影機的請求
 permissions-site-camera-disable-desc = 將防止上列以外的網站請您允許使用攝影機。封鎖使用攝影機的權限可能會影響某些網站的功能。
 
+## Site Permissions - Local network
+
+permissions-site-local-network-window =
+    .title = 設定 - 區域網路裝置
+    .style = { permissions-window2.style }
+
 ## Site Permissions - Microphone
 
 permissions-site-microphone-window2 =

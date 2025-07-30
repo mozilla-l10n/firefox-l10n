@@ -1321,6 +1321,7 @@ permissions-location = 位置
 permissions-location-settings =
     .label = 設定…
     .accesskey = l
+permissions-local-network = 區域網路裝置
 permissions-xr = 虛擬實境
 permissions-xr-settings =
     .label = 設定…

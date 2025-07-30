@@ -142,7 +142,7 @@ makeup-avatar-alt =
     .alt = 彩妝
 # Message refers to a text message, not a traditional letter/envelope message
 message-avatar-alt =
-    .alt = 訊息
+    .alt = 簡訊
 musical-note-avatar-alt =
     .alt = 音符
 palette-avatar-alt =
@@ -169,12 +169,56 @@ custom-avatar-alt =
 # Default favicon refers to the generic globe/world icon that appears in browser tabs when a website doesn't have its own favicon.
 default-favicon-avatar-alt =
     .alt = 預設最愛圖示
+# Diamond refers to the precious stone, not the geometric shape
+diamond-avatar-alt =
+    .alt = 鑽石
+barbell-avatar-alt =
+    .alt = 槓鈴
+bike-avatar-alt =
+    .alt = 單車
 
 ## Labels for default avatar icons
 
 book-avatar = 書本
 briefcase-avatar = 公事包
+# Canvas refers to an artist's painting canvas, not the general material
+canvas-avatar = 畫布
+# Craft refers to hobby arts and crafts, represented by a button/fastener commonly found on clothing like shirts
+craft-avatar = 手作
+custom-avatar = 自訂大頭照
+# Default favicon refers to the generic globe/world icon that appears in browser tabs when a website doesn't have its own favicon.
+default-favicon-avatar = 預設最愛圖示
+# Diamond refers to the precious stone, not the geometric shape
+diamond-avatar = 鑽石
 flower-avatar = 花朵
+folder-avatar = 資料夾
+hammer-avatar = 榔頭
 heart-avatar = 愛心
+heart-rate-avatar = 心律
+history-avatar = 歷史
+leaf-avatar = 葉子
+lightbulb-avatar = 燈泡
+makeup-avatar = 彩妝
+# Message refers to a text message, not a traditional letter/envelope message
+message-avatar = 簡訊
+musical-note-avatar = 音符
+palette-avatar = 調色盤
+paw-print-avatar = 掌印
+plane-avatar = 飛機
+# Present refers to a gift box, not the current time period
+present-avatar = 禮物
 shopping-avatar = 購物車
+soccer-avatar = 足球
+sparkle-single-avatar = 火花
 star-avatar = 星星
+video-game-controller-avatar = 遊戲手把
+custom-avatar-crop-back-button =
+    .aria-label = 上一頁
+custom-avatar-crop-view =
+    .aria-label = 裁切圖片畫面
+custom-avatar-crop-area =
+    .aria-label = 調整裁切區域
+custom-avatar-drag-handle =
+    .aria-label = 調整裁切大小
+barbell-avatar = 槓鈴
+bike-avatar = 單車
