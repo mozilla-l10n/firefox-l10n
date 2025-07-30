@@ -141,6 +141,10 @@ urlbar-default-notification-anchor =
     .tooltiptext = Abrir painel de mensagens
 urlbar-geolocation-notification-anchor =
     .tooltiptext = Abrir painel de requisição de localização
+urlbar-localhost-notification-anchor =
+    .tooltiptext = Gerenciar o acesso local deste site ao dispositivo
+urlbar-local-network-notification-anchor =
+    .tooltiptext = Gerenciar o compartilhamento do seu acesso à rede local com este site
 urlbar-xr-notification-anchor =
     .tooltiptext = Abrir painel de permissão de realidade virtual
 urlbar-storage-access-anchor =
@@ -1153,6 +1157,10 @@ tabs-toolbar-list-all-tabs =
     .label = Listar todas as abas
     .tooltiptext = Listar todas as abas
 
+## Drop indicator text for pinned tabs when no tabs are pinned.
+
+pinned-tabs-drop-indicator = Arraste e solte a aba aqui para fixar
+
 ## Infobar shown at startup to suggest session-restore
 
 # <img data-l10n-name="icon"/> will be replaced by the application menu icon
@@ -1326,6 +1334,17 @@ onboarding-aw-finish-setup-button =
 
 ## The urlbar trust panel
 
+trustpanel-etp-label-enabled = A proteção aprimorada contra rastreamento está ativada
+trustpanel-etp-label-disabled = A proteção aprimorada contra rastreamento está desativada
+# Variables
+#  $host (String): the hostname of the site that is being displayed.
+trustpanel-etp-toggle-on =
+    .aria-label = Proteção aprimorada contra rastreamento: Ativada em { $host }
+# Variables
+#  $host (String): the hostname of the site that is being displayed.
+trustpanel-etp-toggle-off =
+    .aria-label = Proteção aprimorada contra rastreamento: Desativada em { $host }
+trustpanel-etp-description-enabled = Se algo parecer não funcionar neste site, experimente desativar proteções.
 trustpanel-connection-label-secure = Conexão segura
 trustpanel-connection-label-insecure = Conexão não segura
 trustpanel-header-disabled = Você desativou proteções
