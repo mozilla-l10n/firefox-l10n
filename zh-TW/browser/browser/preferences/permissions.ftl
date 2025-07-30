@@ -173,6 +173,9 @@ permissions-site-camera-disable-desc = 將防止上列以外的網站請您允�
 permissions-site-local-network-window =
     .title = 設定 - 區域網路裝置
     .style = { permissions-window2.style }
+permissions-site-local-network-desc = 下列網站曾要求存取連結到您 Wi-Fi 或區域網路的裝置當中的應用程式或服務。您可以決定要允許或封鎖網站進行此動作。
+permissions-site-local-network-disable-label =
+    .label = 封鎖存取其他連結到您 Wi-Fi 或區域網路上的其他裝置當中的應用程式與服務的新請求。
 
 ## Site Permissions - Microphone
 
