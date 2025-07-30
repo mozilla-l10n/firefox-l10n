@@ -212,5 +212,7 @@ soccer-avatar = Voetbal
 sparkle-single-avatar = Glitter
 star-avatar = Ster
 video-game-controller-avatar = Videogamecontroller
+custom-avatar-crop-back-button =
+    .aria-label = Terug
 barbell-avatar = Halter
 bike-avatar = Fiets

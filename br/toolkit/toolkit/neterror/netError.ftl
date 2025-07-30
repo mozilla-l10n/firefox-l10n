@@ -12,6 +12,7 @@ neterror-blocked-by-policy-page-title = Pajenn stanket
 neterror-captive-portal-page-title = Kennaskañ d'ar rouedad
 neterror-dns-not-found-title = Dafariad ebet kavet
 neterror-malformed-uri-page-title = URL didalvoudek
+problem-with-this-site-title = War a-seblant ez eus ur gudenn gant al lec’hienn-mañ
 
 ## Error page actions
 
