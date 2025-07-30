@@ -212,5 +212,7 @@ soccer-avatar = Футбол
 sparkle-single-avatar = Искра
 star-avatar = Звёздочка
 video-game-controller-avatar = Контроллер для видеоигр
+custom-avatar-crop-back-button =
+    .aria-label = Назад
 barbell-avatar = Штанга
 bike-avatar = Велосипед

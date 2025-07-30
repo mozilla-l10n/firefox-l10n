@@ -168,6 +168,26 @@ permissions-site-camera-disable-label =
     .label = Блокировать новые запросы на доступ к вашей камере
 permissions-site-camera-disable-desc = Это не позволит веб-сайтам, кроме перечисленных выше, запрашивать разрешение на доступ к вашей камере. Блокировка доступа к вашей камере может нарушить некоторые функции веб-сайта.
 
+## Site Permissions - Local host
+
+permissions-site-localhost-window =
+    .title = Параметры — Приложения и службы устройства
+    .style = { permissions-window2.style }
+permissions-site-localhost-desc = Следующие веб-сайты запросили доступ к приложениям и службам на этом устройстве. Вы можете разрешить или запретить сайтам это делать.
+permissions-site-localhost-disable-label =
+    .label = Блокировать новые запросы на доступ к приложениям и службам на этом устройстве
+permissions-site-localhost-disable-desc = Это не позволит веб-сайтам, кроме перечисленных выше, запрашивать доступ к приложениям и службам на этом устройстве. Это может нарушить некоторые функции веб-сайтов.
+
+## Site Permissions - Local network
+
+permissions-site-local-network-window =
+    .title = Параметры - Локальные сетевые устройства
+    .style = { permissions-window2.style }
+permissions-site-local-network-desc = Эти веб-сайты запросили доступ к приложениям и службам на устройствах, подключенных к вашему Wi-Fi или локальной сети. Вы можете разрешить или запретить сайтам это делать.
+permissions-site-local-network-disable-label =
+    .label = Запретить новые запросы на доступ к приложениям и службам на устройствах, подключенных к вашему Wi-Fi или локальной сети.
+permissions-site-local-network-disable-desc = Это не позволит веб-сайтам, кроме перечисленных выше, запрашивать доступ к приложениям и службам на устройствах, подключенных к вашему Wi-Fi или локальной сети. Это может нарушить некоторые функции веб-сайтов.
+
 ## Site Permissions - Microphone
 
 permissions-site-microphone-window2 =
