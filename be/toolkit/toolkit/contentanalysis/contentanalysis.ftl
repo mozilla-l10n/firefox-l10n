@@ -35,6 +35,10 @@ contentanalysis-operationtype-clipboard = буфер абмену
 contentanalysis-operationtype-dropped-text = прапушчаны тэкст
 contentanalysis-operationtype-print = друк
 #   $filename - The filename associated with the request, such as "aFile.txt"
+contentanalysis-upload-description = зацягванне “{ $filename }”
+#   $filename - The filename associated with the request, such as "aFile.txt"
+contentanalysis-download-description = сцягванне “{ $filename }”
+#   $filename - The filename associated with the request, such as "aFile.txt"
 contentanalysis-customdisplaystring-description = зацягванне “{ $filename }”
 contentanalysis-warndialogtitle = Гэта змесціва можа быць небяспечным
 # Variables:
@@ -76,6 +80,10 @@ contentanalysis-block-dialog-title-upload-file = Вам не дазволена 
 # Variables:
 #   $filename - Name of the file that was blocked, such as "aFile.txt"
 contentanalysis-block-dialog-body-upload-file = Згодна з палітыкай абароны дадзеных вашай арганізацыі, вам не дазволена зацягваць файл “{ $filename }”. Звярніцеся да адміністратара для атрымання дадатковай інфармацыі.
+contentanalysis-block-dialog-title-download-file = Вам не дазволена сцягваць гэты файл
+# Variables:
+#   $filename - Name of the file that was blocked, such as "aFile.txt"
+contentanalysis-block-dialog-body-download-file = Згодна з палітыкай абароны дадзеных вашай арганізацыі, вам не дазволена сцягваць файл “{ $filename }”. Звярніцеся да адміністратара для атрымання дадатковай інфармацыі.
 contentanalysis-block-dialog-title-clipboard = Вам не дазволена ўстаўляць гэта змесціва
 contentanalysis-block-dialog-body-clipboard = Згодна з палітыкай абароны дадзеных вашай арганізацыі, вам не дазволена ўстаўляць гэта змесціва. Звярніцеся да адміністратара для атрымання дадатковай інфармацыі.
 contentanalysis-block-dialog-title-dropped-text = Вам не дазволена скідваць гэта змесціва
