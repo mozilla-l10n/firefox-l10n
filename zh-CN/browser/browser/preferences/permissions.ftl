@@ -168,6 +168,26 @@ permissions-site-camera-disable-label =
     .label = 禁止新的操控摄像头请求
 permissions-site-camera-disable-desc = 所有列表外的网站将无法请求操控您的摄像头。禁止此权限可能会影响某些网站的功能。
 
+## Site Permissions - Local host
+
+permissions-site-localhost-window =
+    .title = 设置 - 设备应用和服务
+    .style = { permissions-window2.style }
+permissions-site-localhost-desc = 下列网站曾请求访问此设备上的应用和服务，您可以选择允许或阻止其进行访问。
+permissions-site-localhost-disable-label =
+    .label = 禁止新的访问此设备上的应用和服务的请求
+permissions-site-localhost-disable-desc = 这将屏蔽未列于上方的网站对访问此设备上的应用和服务的请求。启用后可能破坏部分网站功能。
+
+## Site Permissions - Local network
+
+permissions-site-local-network-window =
+    .title = 设置 - 本地网络设备
+    .style = { permissions-window2.style }
+permissions-site-local-network-desc = 下列网站曾请求访问同一 Wi-Fi 或本地网络中的设备上的应用和服务，您可以选择允许或阻止其进行访问。
+permissions-site-local-network-disable-label =
+    .label = 禁止新的访问同一 Wi-Fi 或本地网络中的设备上的应用和服务的请求。
+permissions-site-local-network-disable-desc = 这将屏蔽未列于上方的网站对访问同一 Wi-Fi 或本地网络中的设备上的应用和服务的请求。启用后可能破坏部分网站功能。
+
 ## Site Permissions - Microphone
 
 permissions-site-microphone-window2 =

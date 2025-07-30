@@ -124,6 +124,11 @@ windows-10-eos-sync-new-device-subtitle-2 = 无论您是否经常使用 { -brand
 windows-10-eos-sync-new-device-primary-label = 立即同步
 windows-10-eos-sync-general-subtitle-1 = 备份与同步密码、书签、设置等数据，保护您的珍贵数据。
 windows-10-eos-sync-general-title-2 = 备份密码和书签，时机正好。
+windows-10-eos-sync-general-subtitle-2 = 立即同步，保护 { -brand-short-name } 为您保管的数据，您还可随时随地取用。
+windows-10-eos-sync-tour-title-1 = 标签页太多了？用标签页群组收拾整齐。
+windows-10-eos-sync-tour-subtitle-1 = 将标签页拖放到另一个标签页之上即可创建群组，让标签页井井有条。
+windows-10-eos-sync-tour-title-2 = 做足准备换用 Windows 11。
+windows-10-eos-sync-tour-subtitle-2 = 在更换系统前，同步并备份书签、密码、设置。
 
 ## Sidebar Strings
 
