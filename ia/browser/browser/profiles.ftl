@@ -119,14 +119,27 @@ briefcase-avatar-alt =
 # Canvas refers to an artist's painting canvas, not the general material
 canvas-avatar-alt =
     .alt = Canevas
+# Craft refers to hobby arts and crafts, represented by a button/fastener commonly found on clothing like shirts
+craft-avatar-alt =
+    .alt = Artisaneria
 flower-avatar-alt =
     .alt = Flor
 folder-avatar-alt =
     .alt = Plica
+hammer-avatar-alt =
+    .alt = Martello
 heart-avatar-alt =
     .alt = Corde
+heart-rate-avatar-alt =
+    .alt = Frequentia cardiac
 history-avatar-alt =
     .alt = Chronologia
+leaf-avatar-alt =
+    .alt = Folio
+lightbulb-avatar-alt =
+    .alt = Lampa
+makeup-avatar-alt =
+    .alt = Make-up
 # Message refers to a text message, not a traditional letter/envelope message
 message-avatar-alt =
     .alt = Message
@@ -134,14 +147,35 @@ musical-note-avatar-alt =
     .alt = Nota musical
 palette-avatar-alt =
     .alt = Paletta
+paw-print-avatar-alt =
+    .alt = Vestigio de pata
 plane-avatar-alt =
     .alt = Avion
+# Present refers to a gift box, not the current time period
+present-avatar-alt =
+    .alt = Presente
 shopping-avatar-alt =
     .alt = Carretta de compras
+soccer-avatar-alt =
+    .alt = Ballon de football
+sparkle-single-avatar-alt =
+    .alt = Scintillation
 star-avatar-alt =
     .alt = Stella
+video-game-controller-avatar-alt =
+    .alt = Controlator de video-joco
 custom-avatar-alt =
     .alt = Avatar personalisate
+# Default favicon refers to the generic globe/world icon that appears in browser tabs when a website doesn't have its own favicon.
+default-favicon-avatar-alt =
+    .alt = Icone predefinite
+# Diamond refers to the precious stone, not the geometric shape
+diamond-avatar-alt =
+    .alt = Diamante
+barbell-avatar-alt =
+    .alt = Barra con pesos
+bike-avatar-alt =
+    .alt = Bicyclo
 
 ## Labels for default avatar icons
 
@@ -149,8 +183,19 @@ book-avatar = Libro
 briefcase-avatar = Valise
 # Canvas refers to an artist's painting canvas, not the general material
 canvas-avatar = Canevas
+# Craft refers to hobby arts and crafts, represented by a button/fastener commonly found on clothing like shirts
+craft-avatar = Artisaneria
 custom-avatar = Avatar personalisate
+# Default favicon refers to the generic globe/world icon that appears in browser tabs when a website doesn't have its own favicon.
+default-favicon-avatar = Icone predefinite
+# Diamond refers to the precious stone, not the geometric shape
+diamond-avatar = Diamante
 flower-avatar = Flor
+folder-avatar = Plica
 heart-avatar = Corde
 shopping-avatar = Carretta de compras
 star-avatar = Stella
+custom-avatar-crop-view =
+    .aria-label = Vista de retalio de imagine
+custom-avatar-crop-area =
+    .aria-label = Adjustar area de retalio
