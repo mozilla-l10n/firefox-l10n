@@ -21,8 +21,8 @@ genai-settings-chat-localhost-links = Prineste si svojho vlastného súkromného
 
 # Prompt purpose: help users understand what a selection covers at a glance
 genai-prompts-summarize =
-    .label = Vytvor sumár
-    .value = Zhrň výber pomocou presného a výstižného jazyka. Použi hlavičky a zoznamy s odrážkami v súhrne, aby bolo možné ho skenovať. Zachovaj význam a vecnú presnosť.
+    .label = Vytvor súhrn
+    .value = Vytvor súhrn pomocou presného a výstižného jazyka. Použi hlavičky a zoznamy s odrážkami v súhrne, aby bolo možné ho skenovať. Zachovaj význam a vecnú presnosť.
 # Prompt purpose: make a selection easier to read
 genai-prompts-simplify =
     .label = Pomôž mi to zjednodušiť
@@ -64,7 +64,7 @@ genai-menu-remove-provider =
 genai-menu-remove-sidebar =
     .label = Odstrániť z bočného panela
 genai-menu-new-badge = Nové
-genai-menu-summarize-page = Zosumarizuj stránku
+genai-menu-summarize-page = Vytvor súhrn stránky
 genai-input-ask-generic =
     .placeholder = Opýtajte sa AI chatbota…
 # $provider (string) - name of the provider
@@ -135,11 +135,11 @@ genai-options-about-chatbot =
 
 ## Chatbot footer
 
-genai-page-button-summarize = Zosumarizuj stránku
+genai-page-button-summarize = Vytvor súhrn stránky
 
 ## Chatbot onboarding
 
-genai-onboarding-header = Sumarizujte, vymýšľajte a ešte oveľa viac
+genai-onboarding-header = Vytvárajte súhrny, vymýšľajte a ešte oveľa viac
 genai-onboarding-choose-header = V bočnom paneli { -brand-short-name(case: "gen") } vyberte AI chatbota, ktorého chcete použiť
 # "Switch anytime" refers to allowing the user to switch to a different chatbot.
 genai-onboarding-description = Na bočnom paneli { -brand-short-name(case: "gen") } zvoľte AI chatbota, ktorého chcete použiť. Ku každému chatbotovi vám zobrazíme informácie. Prepnúť chatbota môžete kedykoľvek. <a data-l10n-name="learn-more">Ďalšie informácie</a>
@@ -171,15 +171,15 @@ genai-onboarding-select-primary = Začnite četovať
 genai-chatbot-contextual-title = Používajte chatbota s umelou inteligenciou bez prepínania kariet
 genai-chatbot-contextual-subtitle = Chatujte a prehliadajte web vedľa seba tak, že si do bočného panela { -brand-short-name(case: "gen") } pridáte chatbota s umelou inteligenciou.
 genai-chatbot-contextual-button = Vyberte si chatbota
-genai-chatbot-summarize-title = Novinka! Zosumarizujte stránky jedným kliknutím
-genai-chatbot-summarize-button = Zosumarizuj stránku
+genai-chatbot-summarize-title = Novinka! Vytvorte súhrn stránky jedným kliknutím
+genai-chatbot-summarize-button = Vytvor súhrn stránky
 # “Summarize Page” should be consistent with the translation for the string genai-menu-summarize-page
-genai-chatbot-summarize-sidebar-provider-subtitle = Kliknite pravým tlačidlom myši na svojho chatbota s umelou inteligenciou v bočnom paneli a vyberte možnosť “Zosumarizuj stránku”.
+genai-chatbot-summarize-sidebar-provider-subtitle = Kliknite pravým tlačidlom myši na svojho chatbota s umelou inteligenciou v bočnom paneli a vyberte možnosť “Vytvor súhrn stránky”.
 # “Summarize Page” should be consistent with the translation for the string genai-menu-summarize-page
-genai-chatbot-summarize-sidebar-generic-subtitle = Kliknite pravým tlačidlom myši na tlačidlo s trblietkami na bočnom paneli a vyberte možnosť “Zosumarizuj stránku”. Pri prvom použití si tiež vyberiete chatbota s umelou inteligenciou.
+genai-chatbot-summarize-sidebar-generic-subtitle = Kliknite pravým tlačidlom myši na tlačidlo s trblietkami na bočnom paneli a vyberte možnosť “Vytvor súhrn stránky”. Pri prvom použití si tiež vyberiete chatbota s umelou inteligenciou.
 # “Summarize page” should be consistent with the translation for the string genai-page-button-summarize
-genai-chatbot-summarize-footer-provider-subtitle = Otvorte svojho chatbota s umelou inteligenciou v bočnom paneli a v dolnej časti vyberte možnosť „Zosumarizuj stránku“.
-genai-chatbot-summarize-footer-generic-subtitle = Pridajte do bočného panela { -brand-short-name(case: "gen") } chatbota s umelou inteligenciou, aby ste mohli rýchlo zosumarizovať stránky.
+genai-chatbot-summarize-footer-provider-subtitle = Otvorte svojho chatbota s umelou inteligenciou v bočnom paneli a v dolnej časti vyberte možnosť „Vytvor súhrn stránky“.
+genai-chatbot-summarize-footer-generic-subtitle = Pridajte do bočného panela { -brand-short-name(case: "gen") } chatbota s umelou inteligenciou, aby ste mohli rýchlo jednoducho vytvárať súhrny stránok.
 
 ## Chatbot onboarding choices
 ## These describe features/capabilities of chatbot providers. These are not buttons/actions.
