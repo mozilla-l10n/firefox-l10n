@@ -54,6 +54,7 @@ about-logging-preset-webcodecs-description = 用來診斷 WebCodecs 影音編解
 about-logging-preset-ml-label = 機器學習
 about-logging-preset-ml-description = 用來診斷機器學習問題的記錄模組
 about-logging-preset-web-compat-label = Web Compat
+about-logging-preset-web-compat-description = 用來診斷網頁相容性問題的記錄模組
 about-logging-preset-webgpu-label = WebGPU
 about-logging-preset-webgpu-description = 用來診斷 WebGPU 問題的記錄模組
 about-logging-preset-gfx-label = 圖形

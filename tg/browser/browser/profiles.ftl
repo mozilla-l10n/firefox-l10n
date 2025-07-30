@@ -212,5 +212,7 @@ soccer-avatar = Футбол
 sparkle-single-avatar = Шарора
 star-avatar = Ситора
 video-game-controller-avatar = Танзимгари бозии видеоӣ
+custom-avatar-crop-back-button =
+    .aria-label = Ба қафо
 barbell-avatar = Вазна
 bike-avatar = Дучарха
