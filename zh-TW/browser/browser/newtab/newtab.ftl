@@ -548,6 +548,8 @@ newtab-custom-wallpaper-cta = 試試看
 
 ## Strings for new user activation custom wallpaper highlight
 
+newtab-new-user-custom-wallpaper-title = 挑選一套背景圖，讓 { -brand-product-name } 有您的風格
+newtab-new-user-custom-wallpaper-subtitle = 使用自訂背景圖與色彩，讓每個新分頁感覺都像在家一樣習慣。
 newtab-new-user-custom-wallpaper-cta = 立刻試試
 
 ## Strings for download mobile highlight
