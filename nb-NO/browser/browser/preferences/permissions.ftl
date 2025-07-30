@@ -173,6 +173,10 @@ permissions-site-camera-disable-desc = Dette forhindrer nettsteder som ikke er o
 permissions-site-localhost-window =
     .title = Innstillinger – Enhetsapper og -tjenester
     .style = { permissions-window2.style }
+permissions-site-localhost-desc = Disse nettstedene har bedt om tilgang til apper og tjenester på denne enheten. Du kan velge å tillate eller blokkere nettsteder fra å gjøre dette.
+permissions-site-localhost-disable-label =
+    .label = Blokker nye forespørsler om tilgang til apper og tjenester på denne enheten
+permissions-site-localhost-disable-desc = Dette vil hindre nettsteder som ikke er oppført ovenfor i å be om tilgang til apper og tjenester på denne enheten. Dette kan føre til at enkelte nettstedsfunksjoner ikke fungerer.
 
 ## Site Permissions - Microphone
 
