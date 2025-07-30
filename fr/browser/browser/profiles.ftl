@@ -212,5 +212,7 @@ soccer-avatar = Ballon de foot
 sparkle-single-avatar = Étincelle
 star-avatar = Étoile
 video-game-controller-avatar = Manette de jeux vidéo
+custom-avatar-crop-back-button =
+    .aria-label = Retour
 barbell-avatar = Haltères
 bike-avatar = Vélo

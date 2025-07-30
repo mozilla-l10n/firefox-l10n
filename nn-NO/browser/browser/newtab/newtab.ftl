@@ -88,6 +88,14 @@ newtab-confirm-delete-history-p2 = Denne handlinga kan ikkje angrast.
 
 newtab-topsite-sponsored = Sponsa
 
+## Label used by screen readers for pinned top sites
+
+# Variables:
+#   $title (string) - The label or hostname of the site.
+topsite-label-pinned =
+    .aria-label = { $title } (festa)
+    .title = { $title }
+
 ## Context Menu - Action Tooltips.
 
 # General tooltip for context menus.

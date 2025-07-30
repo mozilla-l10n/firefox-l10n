@@ -168,6 +168,12 @@ permissions-site-camera-disable-label =
     .label = Blokker nye førespurnadar som ber om tilgang til kameraet ditt
 permissions-site-camera-disable-desc = Dette hindrar nettstadar som ikkje er førte opp ovanfor, og ber om løyve til å få tilgang til kameraet ditt. Viss du blokkerer tilgang til kameraet ditt, kan det hende at nokre nettstadfunksjoner ikkje vil fungere.
 
+## Site Permissions - Local host
+
+permissions-site-localhost-window =
+    .title = Innstillingar – Einingsappar og -tenester
+    .style = { permissions-window2.style }
+
 ## Site Permissions - Microphone
 
 permissions-site-microphone-window2 =

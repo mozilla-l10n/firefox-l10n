@@ -1332,6 +1332,7 @@ permissions-location = Localisation
 permissions-location-settings =
     .label = Paramètres…
     .accesskey = a
+permissions-localhost = Applications et services de l’appareil
 permissions-localhost-settings =
     .label = Paramètres…
     .accesskey = a
