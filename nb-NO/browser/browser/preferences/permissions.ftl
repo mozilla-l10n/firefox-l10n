@@ -178,6 +178,15 @@ permissions-site-localhost-disable-label =
     .label = Blokker nye forespørsler om tilgang til apper og tjenester på denne enheten
 permissions-site-localhost-disable-desc = Dette vil hindre nettsteder som ikke er oppført ovenfor i å be om tilgang til apper og tjenester på denne enheten. Dette kan føre til at enkelte nettstedsfunksjoner ikke fungerer.
 
+## Site Permissions - Local network
+
+permissions-site-local-network-window =
+    .title = Innstillinger – Lokale nettverksenheter
+    .style = { permissions-window2.style }
+permissions-site-local-network-desc = Disse nettstedene har bedt om tilgang til apper og tjenester på enheter som er koblet til Wi-Fi-nettverket eller det lokale nettverket ditt. Du kan velge å tillate eller blokkere nettsteder fra å gjøre dette.
+permissions-site-local-network-disable-label =
+    .label = Blokker nye forespørsler om tilgang til apper og tjenester på enheter som er koblet til Wi-Fi-nettverket eller det lokale nettverket ditt.
+
 ## Site Permissions - Microphone
 
 permissions-site-microphone-window2 =
