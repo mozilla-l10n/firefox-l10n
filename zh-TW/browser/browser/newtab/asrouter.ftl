@@ -341,6 +341,12 @@ multi-cta-fox-doodle-privacy-focused-subtitle =
     }
 multi-cta-fox-doodle-msix-privacy-focused-subtitle = 把您最愛的隱私保護瀏覽器保留起來，點一下即可開啟。將 { -brand-short-name } 設定為您的預設瀏覽器，並釘選至工具列與開始選單。
 
+## Windows 10 EoS Sync messages group 1 spotlight
+
+windows-10-eos-sync-spotlight-primary-label = 備份您的 { -brand-short-name }
+
 ## Windows 10 EoS Sync messages group 1 toast notification
 
+windows-10-eos-sync-toast-title = 準備要升級到 Windows 11 了嗎？別失去書籤與密碼。
+windows-10-eos-sync-toast-primary-label = 開始使用
 windows-10-eos-sync-toast-secondary-label = 待會提醒我

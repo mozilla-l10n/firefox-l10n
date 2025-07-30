@@ -143,6 +143,8 @@ urlbar-geolocation-notification-anchor =
     .tooltiptext = 開啟位置請求面板
 urlbar-localhost-notification-anchor =
     .tooltiptext = 管理此網站對本機裝置的存取權限
+urlbar-local-network-notification-anchor =
+    .tooltiptext = 管理您對此網站分享的本機網路存取權限
 urlbar-xr-notification-anchor =
     .tooltiptext = 開啟虛擬實境權限面板
 urlbar-storage-access-anchor =
@@ -243,6 +245,10 @@ urlbar-search-mode-actions = 動作
 
 urlbar-geolocation-blocked =
     .tooltiptext = 您已封鎖此網站取得您所在位置資訊的權限。
+urlbar-localhost-blocked =
+    .tooltiptext = 您已封鎖此網站對本機裝置的連線。
+urlbar-local-network-blocked =
+    .tooltiptext = 您已封鎖此網站對本機網路的連線。
 urlbar-xr-blocked =
     .tooltiptext = 您已封鎖此網站的虛擬實境裝置存取權限。
 urlbar-web-notifications-blocked =
@@ -1358,6 +1364,12 @@ trustpanel-clear-cookies-header =
 trustpanel-clear-cookies-description = 清除 Cookie 與網站資料，可能會將您從某些網站登出，或清除購物車內容。
 trustpanel-clear-cookies-subview-button-clear = 清除
 trustpanel-clear-cookies-subview-button-cancel = 取消
+# Variables
+#  $host (String): the hostname of the site that is being displayed.
+trustpanel-site-information-header =
+    .title = { $host } 的連線保護
+trustpanel-connection-secure = 您正安全地連線至此網站。
+trustpanel-connection-not-secure = 您並未安全地連線至此網站。
 trustpanel-siteinformation-morelink = 更多網站資訊
 trustpanel-blocker-see-all = 檢視全部
 # Variables
@@ -1368,13 +1380,24 @@ trustpanel-blocker-header =
 ## Variables
 ##  $count (String): the number of trackers blocked.
 
+trustpanel-blocker-section-header = 已封鎖此網站上的 <span>{ $count }</span> 組追蹤器
+trustpanel-list-label-tracking-cookies = { $count } 個跨網站追蹤 Cookie
 trustpanel-list-label-tracking-content = 追蹤用內容
+trustpanel-list-label-fingerprinter = { $count } 個數位指紋追蹤程式
+trustpanel-list-label-social-tracking = { $count } 個社群網路追蹤器
+trustpanel-list-label-cryptominer = { $count } 個加密貨幣採礦程式
+trustpanel-social-tracking-blocking-tab-header = { -brand-product-name } 已封鎖 { $count } 個社群網路追蹤器
+trustpanel-social-tracking-not-blocking-tab-header = { -brand-product-name } 已放行 { $count } 個社群網路追蹤器
+trustpanel-social-tracking-tab-list-header = 下列網站嘗試追蹤您：
+trustpanel-tracking-cookies-blocking-tab-header = { -brand-product-name } 已封鎖 { $count } 個跨網站追蹤 Cookie
+trustpanel-tracking-cookies-not-blocking-tab-header = { -brand-product-name } 已放行 { $count } 個跨網站追蹤 Cookie
 trustpanel-tracking-cookies-tab-list-header = 下列網站嘗試追蹤您：
 trustpanel-tracking-content-blocking-tab-header = { -brand-product-name } 已封鎖 { $count } 組追蹤器
 trustpanel-tracking-content-not-blocking-tab-header = { -brand-product-name } 已放行 { $count } 組追蹤器
 trustpanel-tracking-content-tab-list-header = 下列網站嘗試追蹤您：
 trustpanel-fingerprinter-blocking-tab-header = { -brand-product-name } 已封鎖 { $count } 組數位指紋追蹤程式
 trustpanel-fingerprinter-not-blocking-tab-header = { -brand-product-name } 已放行 { $count } 組數位指紋追蹤程式
+trustpanel-fingerprinter-list-header = 下列網站嘗試對您建立數位指紋：
 trustpanel-cryptominer-blocking-tab-header = { -brand-product-name } 已封鎖 { $count } 組加密貨幣採礦程式
 trustpanel-cryptominer-not-blocking-tab-header = { -brand-product-name } 已放行 { $count } 組加密貨幣採礦程式
 trustpanel-cryptominer-tab-list-header = 下列網站嘗試挖礦：

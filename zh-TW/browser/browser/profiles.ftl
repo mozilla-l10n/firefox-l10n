@@ -45,6 +45,7 @@ avatar-selector-save-button =
     .label = 儲存
 avatar-selector-upload-file = 上傳檔案
 avatar-selector-drag-file = 或將檔案拖曳至此處
+avatar-selector-add-image = 新增圖片
 avatar-selector-crop = 裁切
 edit-profile-page-no-name = 為此設定檔命名，方便之後尋找，可以隨時再更名。
 edit-profile-page-duplicate-name = 已有這個名稱的設定檔，請改用其他名稱。
@@ -144,12 +145,30 @@ message-avatar-alt =
     .alt = 訊息
 musical-note-avatar-alt =
     .alt = 音符
+palette-avatar-alt =
+    .alt = 調色盤：
+paw-print-avatar-alt =
+    .alt = 掌印
+plane-avatar-alt =
+    .alt = 飛機
+# Present refers to a gift box, not the current time period
+present-avatar-alt =
+    .alt = 禮物
 shopping-avatar-alt =
     .alt = 購物車
+soccer-avatar-alt =
+    .alt = 足球
+sparkle-single-avatar-alt =
+    .alt = 火花
 star-avatar-alt =
     .alt = 星星
+video-game-controller-avatar-alt =
+    .alt = 遊戲手把
 custom-avatar-alt =
     .alt = 自訂大頭照
+# Default favicon refers to the generic globe/world icon that appears in browser tabs when a website doesn't have its own favicon.
+default-favicon-avatar-alt =
+    .alt = 預設最愛圖示
 
 ## Labels for default avatar icons
 
