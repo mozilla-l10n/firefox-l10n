@@ -168,6 +168,18 @@ permissions-site-camera-disable-label =
     .label = Nowe pominanja za pśistupom na wašu kameru blokěrowaś
 permissions-site-camera-disable-desc = To buźo websedłam, kótarež górjejce w lisćinje pódane njejsu, pominanje za pśistupom k wašej kamerje zajźowaś. Gaž pśistup k wašej kamerje blokěrujośo, móžo se staś, až někotare funkcije websedła njefunkcioněruju.
 
+## Site Permissions - Local host
+
+permissions-site-localhost-window =
+    .title = Nastajenja – Rědowe nałoženja a słužby
+    .style = { permissions-window2.style }
+
+## Site Permissions - Local network
+
+permissions-site-local-network-window =
+    .title = Nastajenja – Rědy lokalneje seśi
+    .style = { permissions-window2.style }
+
 ## Site Permissions - Microphone
 
 permissions-site-microphone-window2 =

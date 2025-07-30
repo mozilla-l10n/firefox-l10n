@@ -177,7 +177,7 @@ permissions-site-localhost-window =
 ## Site Permissions - Local network
 
 permissions-site-local-network-window =
-    .title = Nastajenje – Graty lokalneje syće
+    .title = Nastajenja – Graty lokalneje syće
     .style = { permissions-window2.style }
 
 ## Site Permissions - Microphone
