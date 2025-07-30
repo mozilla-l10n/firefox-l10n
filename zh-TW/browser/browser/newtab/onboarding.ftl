@@ -435,10 +435,16 @@ onboarding-checklist-sign-up = 註冊或登入帳號
 
 tab-groups-onboarding-feature-callout-title = 試用分頁群組，減少雜亂、更能專注
 tab-groups-onboarding-feature-callout-subtitle = 將一個分頁拖曳到另一個分頁，即可建立第一個分頁群組。
+# The text "list all tabs" refers to the string tabs-toolbar-list-all-tabs
+tab-groups-onboarding-create-group-title-3 = 隨時使用「列出所有分頁」選單來尋找您的分頁群組。
 tab-groups-onboarding-create-group-title-2 = 可隨時在此處尋找您的分頁群組。
 tab-groups-onboarding-create-group-no-alltabs-button-title = 可以在網址列搜尋分頁群組。
+# The text "list all tabs" refers to the string tabs-toolbar-list-all-tabs
+tab-groups-onboarding-saved-groups-title-3 = 關閉分頁群組後，可隨時到「列出所有分頁」選單重新開啟。
 tab-groups-onboarding-saved-groups-title-2 = 關閉分頁群組後，可以隨時在此處重新開啟。
 tab-groups-onboarding-saved-groups-no-alltabs-button-title-2 = 可以在網址列搜尋關閉的分頁群組。
+# The text "list all tabs" refers to the string tabs-toolbar-list-all-tabs
+tab-groups-onboarding-session-restore-title-2 = 隨時從「列出所有分頁」選單重新開啟分頁群組。
 tab-groups-onboarding-session-restore-title = 可隨時在此處重新開啟您的分頁群組。
 tab-groups-onboarding-dismiss = 確定
 

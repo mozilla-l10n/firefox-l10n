@@ -173,6 +173,7 @@ permissions-site-camera-disable-desc = 將防止上列以外的網站請您允�
 permissions-site-localhost-window =
     .title = 設定 - 裝置應用程式與服務
     .style = { permissions-window2.style }
+permissions-site-localhost-desc = 下列網站曾要求存取此裝置中的應用程式或服務。您可以決定要允許或封鎖網站進行此動作。
 
 ## Site Permissions - Local network
 
