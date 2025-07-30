@@ -212,5 +212,7 @@ soccer-avatar = Kopańca
 sparkle-single-avatar = Błyskanje
 star-avatar = Gwězda
 video-game-controller-avatar = Kontroler za wideograśa
+custom-avatar-crop-back-button =
+    .aria-label = Slědk
 barbell-avatar = Hantla
 bike-avatar = Kólaso
