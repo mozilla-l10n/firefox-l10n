@@ -114,10 +114,16 @@ fxa-adoption-passwords-primary-button-label = 註冊
 
 ## Windows 10 EoS Sync messages group 1 callouts
 
+windows-10-eos-sync-urgency-title-1 = 別在您升級到 Windows 11 之後遺失所有儲存的資料。
+windows-10-eos-sync-urgency-title-2 = 要跟 Windows 10 說再見了嗎？在升級系統前先保護您的資料。
 windows-10-eos-sync-new-device-primary-label = 立刻同步
 windows-10-eos-sync-general-title-1 = 保護您自己打造出來的 { -brand-short-name }。
 windows-10-eos-sync-general-subtitle-1 = 進行備份並同步，以保留您的密碼、書籤、設定與其他資料。
 windows-10-eos-sync-general-title-2 = 現在是個開始備份密碼與書籤的好時機。
+windows-10-eos-sync-tour-title-1 = 有太多分頁了？使用分頁群組整理起來。
+windows-10-eos-sync-tour-subtitle-1 = 將一個分頁拖曳到另一個分頁上，即可建立群組。
+windows-10-eos-sync-tour-title-2 = 讓 Windows 11 更有條理。
+windows-10-eos-sync-tour-subtitle-2 = 在您升級之前先同步書籤、密碼、設定。
 
 ## Sidebar Strings
 

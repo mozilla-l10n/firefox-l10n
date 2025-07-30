@@ -89,4 +89,4 @@ text-action-remove-highlight =
 # If the page has been loaded with a text fragment and text is
 # visibly highlighted, this removes any highlighted sections on the page.
 text-action-remove-all-highlights =
-    .label = 移除所有強調樣式
+    .label = 移除所有強調效果

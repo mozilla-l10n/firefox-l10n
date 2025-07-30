@@ -516,6 +516,11 @@ pdfjs-editor-alt-text-settings-show-dialog-button-label = 新增圖片後立即�
 pdfjs-editor-alt-text-settings-show-dialog-description = 幫助您確保所有圖片都有替代文字。
 pdfjs-editor-alt-text-settings-close-button = 關閉
 
+## Accessibility labels (announced by screen readers) for objects added to the editor.
+
+pdfjs-editor-highlight-added-alert = 已加入強調範圍
+pdfjs-editor-freetext-added-alert = 已加入文字
+
 ## "Annotations removed" bar
 
 pdfjs-editor-undo-bar-message-highlight = 已移除強調
