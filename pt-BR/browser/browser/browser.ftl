@@ -830,6 +830,8 @@ urlbar-searchmode-default =
 urlbar-searchmode-popup-description = Desta vez, pesquisar com:
 urlbar-searchmode-popup-search-settings-menuitem =
     .label = Configurações de pesquisa
+# Label shown next to a new search engine in the Searchmode Switcher popup to promote it.
+urlbar-searchmode-new = Novidade
 # Searchmode Switcher button
 # Variables:
 #   $engine (String): the current default search engine.
@@ -1348,13 +1350,35 @@ trustpanel-etp-description-enabled = Se algo parecer não funcionar neste site, 
 trustpanel-connection-label-secure = Conexão segura
 trustpanel-connection-label-insecure = Conexão não segura
 trustpanel-header-disabled = Você desativou proteções
+trustpanel-clear-cookies-button = Limpar cookies e dados do site
 trustpanel-privacy-link = Configurações de privacidade
+# Variables
+#  $host (String): the hostname of the site that is being displayed.
+trustpanel-clear-cookies-header =
+    .title = Limpar cookies e dados de sites de { $host }
+trustpanel-clear-cookies-description = Remover cookies e dados de sites pode desconectar você de contas de sites e limpar carrinhos de compras.
 trustpanel-clear-cookies-subview-button-clear = Limpar
 trustpanel-clear-cookies-subview-button-cancel = Cancelar
+# Variables
+#  $host (String): the hostname of the site that is being displayed.
+trustpanel-site-information-header =
+    .title = Proteções de conexão de { $host }
+trustpanel-connection-secure = Você está conectado com segurança a este site.
+trustpanel-connection-not-secure = Você não está conectado com segurança a este site.
 trustpanel-siteinformation-morelink = Mais informações do site
+trustpanel-blocker-see-all = Ver tudo
+# Variables
+#  $host (String): the hostname of the site that is being displayed.
+trustpanel-blocker-header =
+    .title = Proteções contra rastreamento em { $host }
 
 ## Variables
 ##  $count (String): the number of trackers blocked.
 
+trustpanel-blocker-section-header =
+    { $count ->
+        [one] <span>{ $count }</span> rastreador bloqueado neste site
+       *[other] <span>{ $count }</span> rastreadores bloqueados neste site
+    }
 trustpanel-insecure-section-header = Sua conexão não é segura
 trustpanel-list-label-tracking-content = Conteúdo com rastreamento
