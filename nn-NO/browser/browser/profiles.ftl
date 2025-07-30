@@ -214,5 +214,7 @@ star-avatar = Stjerne
 video-game-controller-avatar = Videospelkontrollar
 custom-avatar-crop-back-button =
     .aria-label = Tilbake
+custom-avatar-crop-view =
+    .aria-label = Skjer til bildevising
 barbell-avatar = Vektstong
 bike-avatar = Sykkel

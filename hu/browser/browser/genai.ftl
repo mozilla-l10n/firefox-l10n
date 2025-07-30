@@ -64,7 +64,7 @@ genai-menu-remove-provider =
 genai-menu-remove-sidebar =
     .label = Eltávolítás az oldalsávról
 genai-menu-new-badge = Új
-genai-menu-summarize-page = Összefoglaló oldal
+genai-menu-summarize-page = Oldal összegzése
 genai-input-ask-generic =
     .placeholder = Az MI csevegőbot megkérdezése…
 # $provider (string) - name of the provider
@@ -131,7 +131,7 @@ genai-options-about-chatbot =
 
 ## Chatbot footer
 
-genai-page-button-summarize = Összefoglaló oldal
+genai-page-button-summarize = Oldal összegzése
 
 ## Chatbot onboarding
 
@@ -167,8 +167,8 @@ genai-onboarding-select-primary = Kezdjen csevegni
 genai-chatbot-contextual-title = Használjon egy MI csevegőbotot lapváltás nélkül
 genai-chatbot-contextual-subtitle = Csevegjen és böngésszen egymás mellett, ha felvesz egy MI csevegőbotot a { -brand-short-name } oldalsávba.
 genai-chatbot-contextual-button = Válasszon csevegőbotot
-genai-chatbot-summarize-title = Új! Foglalja össze az oldalakat egyetlen kattintással.
-genai-chatbot-summarize-button = Összefoglaló oldal
+genai-chatbot-summarize-title = Új! Összegezze az oldalakat egyetlen kattintással.
+genai-chatbot-summarize-button = Oldal összegzése
 # “Summarize Page” should be consistent with the translation for the string genai-menu-summarize-page
 genai-chatbot-summarize-sidebar-provider-subtitle = Kattintson jobb gombbal az MI csevegőbotjára az oldalsávban, és válassza az „Oldal összegzése” lehetőséget.
 # “Summarize Page” should be consistent with the translation for the string genai-menu-summarize-page

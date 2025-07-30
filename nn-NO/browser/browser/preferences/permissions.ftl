@@ -173,6 +173,20 @@ permissions-site-camera-disable-desc = Dette hindrar nettstadar som ikkje er fø
 permissions-site-localhost-window =
     .title = Innstillingar – Einingsappar og -tenester
     .style = { permissions-window2.style }
+permissions-site-localhost-desc = Desse nettstadane har bede om tilgang til appar og tenester på denne eininga. Du kan velje å tillate eller blokkere nettstadar frå å gjere dette.
+permissions-site-localhost-disable-label =
+    .label = Blokker nye førespurnadar om tilgang til appar og tenester på denne eininga
+permissions-site-localhost-disable-desc = Dette vil hindre nettstadar som ikkje er oppførte ovanfor i å be om tilgang til appar og tenester på denne eininga. Dette kan føre til at enkelte nettstadfunksjonar ikkje fungerer.
+
+## Site Permissions - Local network
+
+permissions-site-local-network-window =
+    .title = Innstillingar - Lokale nettverkseiningar
+    .style = { permissions-window2.style }
+permissions-site-local-network-desc = Desse nettstadane har bede om tilgang til appar og tenester på einingar som er kopla til Wi-Fi-nettverket eller det lokale nettverket ditt. Du kan velje å tillate eller blokkere nettstadar frå å gjere dette.
+permissions-site-local-network-disable-label =
+    .label = Blokker nye førespurnadar om tilgang til appar og tenester på einingar som er kopla til Wi-Fi-nettverket eller det lokale nettverket ditt.
+permissions-site-local-network-disable-desc = Dette vil hindre nettstader som ikkje er oppførte ovanfor i å be om tilgang til appar og tenester på einingar som er kopla til Wi-Fi eller lokale nettverkseiningar. Dette kan føre til at enkelte nettstadfunksjonar ikkje fungerer.
 
 ## Site Permissions - Microphone
 
