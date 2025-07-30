@@ -520,6 +520,9 @@ pdfjs-editor-alt-text-settings-close-button = 關閉
 
 pdfjs-editor-highlight-added-alert = 已加入強調範圍
 pdfjs-editor-freetext-added-alert = 已加入文字
+pdfjs-editor-ink-added-alert = 已新增繪圖
+pdfjs-editor-stamp-added-alert = 已新增圖片
+pdfjs-editor-signature-added-alert = 已新增簽章
 
 ## "Annotations removed" bar
 
