@@ -546,6 +546,10 @@ newtab-custom-wallpaper-title = 可以在這裡自訂背景圖片
 newtab-custom-wallpaper-subtitle = 上傳您自己的背景圖，或挑選一組色彩，讓 { -brand-product-name } 有您的風格。
 newtab-custom-wallpaper-cta = 試試看
 
+## Strings for new user activation custom wallpaper highlight
+
+newtab-new-user-custom-wallpaper-cta = 立刻試試
+
 ## Strings for download mobile highlight
 
 newtab-download-mobile-highlight-title = 下載 { -brand-product-name } 行動版

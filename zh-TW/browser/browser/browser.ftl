@@ -1349,6 +1349,7 @@ trustpanel-etp-toggle-on =
 trustpanel-etp-toggle-off =
     .aria-label = 加強型追蹤保護：對 { $host } 關閉
 trustpanel-etp-description-enabled = 若此網站功能異常，可嘗試關閉保護。
+trustpanel-etp-description-disabled = { -brand-product-name } 認為大企業們應該少追蹤您一點。開啟保護後，我們會盡可能封鎖追蹤器。
 trustpanel-connection-label-secure = 連線安全
 trustpanel-connection-label-insecure = 連線不安全
 trustpanel-header-enabled = { -brand-product-name } 警戒中
@@ -1381,6 +1382,7 @@ trustpanel-blocker-header =
 ##  $count (String): the number of trackers blocked.
 
 trustpanel-blocker-section-header = 已封鎖此網站上的 <span>{ $count }</span> 組追蹤器
+trustpanel-blocker-description = { -brand-product-name } 認為大企業們應該少追蹤您一點，我們會盡可能封鎖追蹤器。
 trustpanel-blocked-header = { -brand-product-name } 為您封鎖了下列項目：
 trustpanel-tracking-header = { -brand-product-name } 放行了下列項目，讓網站不致於故障：
 trustpanel-tracking-description = 如果完全沒有追蹤器，某些按鈕、表單、登入欄位可能無法運作。
