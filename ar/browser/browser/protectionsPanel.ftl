@@ -120,6 +120,7 @@ protections-panel-content-blocking-manage-settings =
     .accesskey = د
 protections-panel-content-blocking-breakage-report-view =
     .title = أبلِغ عن موقع معطوب
+protections-panel-content-blocking-breakage-report-view-description = حجب بعض المتعقبات قد يسبب مشاكل مع بعض المواقع. الإبلاغ عن تلك المشاكل يساعد في إبقاء { -brand-short-name } أفضل للجميع. إرسال هذا التقرير سيرسل رابط الموقع ومعلومات أخرى حول إعدادات متصفحك إلى موزيلا. <label data-l10n-name="learn-more">اعرف المزيد</label>
 protections-panel-content-blocking-breakage-report-view-collection-url = المسار
 protections-panel-content-blocking-breakage-report-view-collection-url-label =
     .aria-label = المسار
