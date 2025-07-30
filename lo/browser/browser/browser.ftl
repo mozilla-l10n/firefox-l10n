@@ -99,6 +99,9 @@ urlbar-result-menu-learn-more-about-firefox-suggest =
 urlbar-result-menu-manage-firefox-suggest =
     .label = ຈັດການ { -firefox-suggest-brand-name }
     .accesskey = M
+# Used for Split Button.
+urlbar-splitbutton-dropmarker =
+    .title = ເປີດເມນູ
 
 ## Prompts users to use the Urlbar when they open a new tab or visit the
 ## homepage of their default search engine.
@@ -1038,3 +1041,8 @@ file-picker-crashed-save-nowhere = Windows file-dialog ໄດ້ຂັດຂ້�
 file-picker-crashed-show-in-folder =
     .label = ສະແດງໃນ Finder
     .accessKey = F
+
+## The urlbar trust panel
+
+trustpanel-clear-cookies-subview-button-clear = ລົບລ້າງ
+trustpanel-clear-cookies-subview-button-cancel = ຍົກເລີກ
