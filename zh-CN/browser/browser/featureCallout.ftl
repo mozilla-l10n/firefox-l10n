@@ -114,7 +114,16 @@ fxa-adoption-passwords-primary-button-label = 注册
 
 ## Windows 10 EoS Sync messages group 1 callouts
 
+windows-10-eos-sync-urgency-title-1 = 换用 Windows 11 前，别忘了带走珍贵的数据。
+windows-10-eos-sync-urgency-subtitle-1 = 立即同步，确保 { -brand-short-name } 书签、密码、设置安全无虞，方便以后轻松恢复。
+windows-10-eos-sync-urgency-title-2 = 要告别 Windows 10 了？数据也要安稳搬新家。
+windows-10-eos-sync-new-device-title-1 = 从零开始的新设备生活可不好受。
+windows-10-eos-sync-new-device-subtitle-1 = 开启同步，以便日后将 { -brand-short-name } 书签、密码、偏好的设置带进新设备。
+windows-10-eos-sync-new-device-title-2 = 打算换用新设备？别忘了把重要数据带过去。
+windows-10-eos-sync-new-device-subtitle-2 = 无论您是否经常使用 { -brand-short-name }，都可通过同步来保护书签、密码、设置。
 windows-10-eos-sync-new-device-primary-label = 立即同步
+windows-10-eos-sync-general-subtitle-1 = 备份与同步密码、书签、设置等数据，保护您的珍贵数据。
+windows-10-eos-sync-general-title-2 = 备份密码和书签，时机正好。
 
 ## Sidebar Strings
 
