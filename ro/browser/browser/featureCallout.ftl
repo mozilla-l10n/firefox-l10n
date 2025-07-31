@@ -128,6 +128,9 @@ windows-10-eos-sync-general-subtitle-1 = Fă copii de rezervă și sincronizeaz�
 windows-10-eos-sync-general-title-2 = Acum este un moment bun să îți faci copii de rezervă cu parolele și marcajele.
 windows-10-eos-sync-general-subtitle-2 = Sincronizează acum pentru a-ți proteja datele pe care le-ai salvat cu încredere în { -brand-short-name } — și recuperează-le oriunde, oricând.
 windows-10-eos-sync-tour-title-1 = Prea multe file? Fă ordine folosind grupuri de file.
+windows-10-eos-sync-tour-subtitle-1 = Trage o filă peste alta și creează un grup. Ține totul organizat.
+windows-10-eos-sync-tour-title-2 = Pregătește-te pentru Windows 11.
+windows-10-eos-sync-tour-subtitle-2 = Sincronizează-ți marcajele, parolele și setările ca să le ai când faci schimbarea.
 
 ## Sidebar Strings
 

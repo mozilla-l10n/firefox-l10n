@@ -168,6 +168,26 @@ permissions-site-camera-disable-label =
     .label = Blochează noile solicitări de accesare a camerei
 permissions-site-camera-disable-desc = Acest lucru va împiedica orice site web care nu este listat mai sus să ceară permisiunea de a-ți accesa camera. Blocarea accesului la cameră ar putea interfera cu unele funcții ale site-urilor web.
 
+## Site Permissions - Local host
+
+permissions-site-localhost-window =
+    .title = Setări - aplicații și servicii pe dispozitiv
+    .style = { permissions-window2.style }
+permissions-site-localhost-desc = Aceste site-uri web au cerut acces la aplicații și servicii pe acest dispozitiv. Poți alege să le permiți sau să le blochezi.
+permissions-site-localhost-disable-label =
+    .label = Blochează cererile noi de acces la aplicații și servicii pe acest dispozitiv
+permissions-site-localhost-disable-desc = Va împiedica orice site web care nu este listat mai sus să ceară acces la aplicații și servicii pe acest dispozitiv. Ar putea duce la întreruperea anumitor funcții ale site-urilor web.
+
+## Site Permissions - Local network
+
+permissions-site-local-network-window =
+    .title = Setări - dispozitive din rețeaua locală
+    .style = { permissions-window2.style }
+permissions-site-local-network-desc = Aceste site-uri web au cerut acces la aplicații și servicii pe dispozitive conectate la rețeaua ta Wi-Fi sau locală. Poți alege să le permiți sau să le blochezi.
+permissions-site-local-network-disable-label =
+    .label = Blochează cererile noi de acces la aplicații și servicii de pe dispozitive conectate la rețeaua ta Wi-Fi sau locală.
+permissions-site-local-network-disable-desc = Va împiedica orice site web care nu este listat mai sus să ceară acces la aplicații și servicii de pe dispozitive conectate în rețeaua ta Wi-Fi sau locală. Ar putea duce la întreruperea anumitor funcții ale site-urilor web.
+
 ## Site Permissions - Microphone
 
 permissions-site-microphone-window2 =
