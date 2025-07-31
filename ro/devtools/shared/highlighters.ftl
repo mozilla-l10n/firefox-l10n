@@ -31,6 +31,13 @@ flextype-item = Element flex
 # The layout type of an element shown in the infobar when hovering over a DOM element and
 # it is both a flex container and a flex item.
 flextype-dual = Container/Element flex
+# The message displayed in the content page when the user clicks on the
+# "Pick an element from the page" in about:devtools-toolbox inspector panel, when
+# debugging a remote page.
+# Variables
+# $action (string) - Will either be remote-node-picker-notice-action-desktop or
+#                    remote-node-picker-notice-action-touch
+remote-node-picker-notice = Selector de noduri DevTools activat. { $action }
 # Text displayed in `remote-node-picker-notice`, when the remote page is on desktop
 remote-node-picker-notice-action-desktop = Dă clic pe un element pentru a-l selecta în Inspector
 # Text displayed in `remote-node-picker-notice`, when the remote page is on Android
@@ -39,6 +46,10 @@ remote-node-picker-notice-action-touch = Atinge un element pentru a-l selecta î
 # clicks on the "Pick an element from the page" in about:devtools-toolbox inspector panel,
 # when debugging a remote page.
 remote-node-picker-notice-hide-button = Ascunde
+# The text displayed in a toolbox notification message which is only displayed
+# if prefers-reduced-motion is enabled (via OS-level settings or by using the
+# ui.prefersReducedMotion=1 preference).
+simple-highlighters-message = Când este activată opțiunea „prefers-reduced-motion”, în panoul de setări poate fi activat un evidențiator mai simplu, pentru a evita culorile intermitente.
 # Text displayed in a button inside the "simple-highlighters-message" toolbox
 # notification. "Settings" here refers to the DevTools settings panel.
 simple-highlighters-settings-button = Deschide setările
