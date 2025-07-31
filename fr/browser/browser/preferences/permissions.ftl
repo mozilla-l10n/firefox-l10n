@@ -176,6 +176,7 @@ permissions-site-localhost-window =
 permissions-site-localhost-desc = Ces sites web ont demandé à accéder aux applications et services de cet appareil. Vous avez la possibilité d’autoriser ou de bloquer l’accès à certains sites.
 permissions-site-localhost-disable-label =
     .label = Bloquer les nouvelles demandes d’accès aux applications et services sur cet appareil
+permissions-site-localhost-disable-desc = Activer ce paramètre empêchera tous les sites web non listés ci-dessus de demander l’accès aux applications et services sur cet appareil. Certaines fonctionnalités de sites web pourraient ne plus fonctionner.
 
 ## Site Permissions - Local network
 
@@ -185,6 +186,7 @@ permissions-site-local-network-window =
 permissions-site-local-network-desc = Ces sites web ont demandé à accéder aux applications et services sur les appareils connectés à votre Wi-Fi ou à votre réseau local. Vous avez la possibilité d’autoriser ou de bloquer l’accès à certains sites.
 permissions-site-local-network-disable-label =
     .label = Bloquer les nouvelles demandes d’accès aux applications et services sur les appareils connectés à votre réseau Wi-Fi ou à votre réseau local.
+permissions-site-local-network-disable-desc = Activer ce paramètre empêchera tous les sites web non listés ci-dessus de demander l’accès aux applications et aux services sur les appareils connectés à votre Wi-Fi ou à votre réseau local. Certaines fonctionnalités de sites web pourraient ne plus fonctionner.
 
 ## Site Permissions - Microphone
 
