@@ -270,6 +270,15 @@ discopane-notice-recommendations = Unele dintre aceste recomandări sunt persona
 discopane-notice-recommendations2 =
     .message = Unele dintre aceste recomandări sunt personalizate. Această selecție se bazează pe alte extensii pe care le-ai instalat, pe preferințele de profil și pe statisticile de utilizare.
 discopane-notice-learn-more = Află mai multe
+# Notice for the colorway theme removal
+colorway-removal-notice-message =
+    .heading = Temele tale de culori au fost eliminate.
+    .message =
+        { -brand-product-name } și-a actualizat colecția de palete de culori. Am eliminat
+        versiunile vechi din lista ta de „Teme salvate”. Ia versiunile noi de pe
+        site-ul suplimentului.
+colorway-removal-notice-learn-more = Află mai multe
+colorway-removal-notice-button = Obține teme de culori actualizate
 privacy-policy = Politică de confidențialitate
 # Refers to the author of an add-on, shown below the name of the add-on.
 # Variables:
@@ -321,6 +330,8 @@ dictionary-enabled-heading = Activate
 dictionary-disabled-heading = Dezactivate
 locale-enabled-heading = Activate
 locale-disabled-heading = Dezactivate
+sitepermission-enabled-heading = Activat
+sitepermission-disabled-heading = Dezactivat
 always-activate-button = Activează întotdeauna
 never-activate-button = Nu activa niciodată
 addon-detail-author-label = Autor
@@ -369,6 +380,10 @@ addon-detail-updates-radio-on = Activate
 addon-detail-updates-radio-off = Dezactivate
 addon-detail-update-check-label = Caută actualizări
 install-update-button = Actualizare
+# aria-label associated to the updates row to help screen readers to announce the group
+# of input controls being entered.
+addon-detail-group-label-updates =
+    .aria-label = { addon-detail-updates-label }
 # This is the tooltip text for the private browsing badge in about:addons. The
 # badge is the private browsing icon included next to the extension's name.
 addon-badge-private-browsing-allowed3 =
@@ -381,6 +396,10 @@ addon-badge-private-browsing-allowed2 =
 addon-detail-private-browsing-help = Când are accesul permis, extensia va avea acces la activitățile tale online în navigarea privată. <a data-l10n-name="learn-more">Află mai multe</a>
 addon-detail-private-browsing-allow = Permite
 addon-detail-private-browsing-disallow = Nu permite
+# aria-label associated to the private browsing row to help screen readers to announce the group
+# of input controls being entered.
+addon-detail-group-label-private-browsing =
+    .aria-label = { detail-private-browsing-label }
 
 ## "sites with restrictions" (internally called "quarantined") are special domains
 ## where add-ons are normally blocked for security reasons.
@@ -392,6 +411,9 @@ addon-detail-quarantined-domains-help = Când are accesul permis, extensia va av
 # Used as label and tooltip text on the radio inputs associated to the quarantined domains UI controls.
 addon-detail-quarantined-domains-allow = Permite
 addon-detail-quarantined-domains-disallow = Nu permite
+# aria-label associated to the quarantined domains exempt row to help screen readers to announce the group.
+addon-detail-group-label-quarantined-domains =
+    .aria-label = { addon-detail-quarantined-domains-label }
 
 ## This is the tooltip text for the recommended badges for an extension in about:addons. The
 ## badge is a small icon displayed next to an extension when it is recommended on AMO.
@@ -399,6 +421,32 @@ addon-detail-quarantined-domains-disallow = Nu permite
 addon-badge-recommended2 =
     .title = { -brand-product-name } recomandă numai extensiile care ne întrunesc standardele de securitate și performanță
     .aria-label = { addon-badge-recommended2.title }
+# We hard code "Mozilla" in the string below because the extensions are built
+# by Mozilla and we don't want forks to display "by Fork".
+addon-badge-line3 =
+    .title = Extensie oficială creată de Mozilla. Întrunește standardele de securitate și performanță.
+    .aria-label = { addon-badge-line3.title }
+addon-badge-verified2 =
+    .title = Extensia a fost revizuită și întrunește standardele noastre de securitate și performanță
+    .aria-label = { addon-badge-verified2.title }
+# We hard code "Mozilla" in the string below because the extensions are built
+# by Mozilla and we don't want forks to display "by Fork".
+addon-badge-line4 =
+    .title = Extensie oficială creată de Mozilla. Întrunește standardele de securitate și performanță.
+# This string needs to work in the context of other forks that are not Firefox
+# or built by Mozilla. In particular, we do not want to imply that an
+# organisation other than Mozilla or the Firefox team are performing the
+# security or performance reviews. As such, we avoid personalising language
+# like the words "our" or "we".
+addon-badge-verified4 =
+    .title = Extensia a fost revizuită și întrunește standardele de securitate și performanță
+# This string needs to work in the context of other forks that are not Firefox
+# or built by Mozilla. In particular, we do not want to imply that an
+# organisation other than Mozilla or the Firefox team are making the
+# recommendation. As such, we hard code "Firefox" and avoid personalising
+# language like the words "our" or "we".
+addon-badge-recommended4 =
+    .title = Firefox recomandă numai extensii care respectă standardele de securitate și performanță
 
 ##
 
@@ -406,8 +454,10 @@ available-updates-heading = Actualizări disponibile
 recent-updates-heading = Actualizări recente
 release-notes-loading = Se încarcă...
 release-notes-error = Ne pare rău, dar a intervenit o eroare la încărcarea notelor privind versiunea.
+addon-permissions-empty2 = Această extensie nu necesită nicio permisiune.
 addon-permissions-empty = Această extensie nu necesită nicio permisiune
 addon-permissions-required = Permisiuni necesare pentru funcționalitatea de bază:
+addon-permissions-optional = Permisiuni opționale pentru funcționalitatea adăugată:
 addon-permissions-learnmore = Află mai multe despre permisiuni
 recommended-extensions-heading = Extensii recomandate
 recommended-themes-heading = Teme recomandate
@@ -423,11 +473,15 @@ plugin-heading = Gestionează pluginurile
 dictionary-heading = Gestionează dicționarele
 locale-heading = Gestionează limbile
 updates-heading = Gestionează-ți actualizările
+sitepermission-heading = Gestionează permisiunile pentru site-uri
 discover-heading = Personalizează { -brand-short-name }
 shortcuts-heading = Gestionează comenzile rapide ale extensiilor
 default-heading-search-label = Caută mai multe suplimente
 addons-heading-search-input =
     .placeholder = Caută pe addons.mozilla.org
+addons-heading-search-button =
+    .title = Caută pe addons.mozilla.org
+    .aria-label = Caută pe addons.mozilla.org
 addon-page-options-button =
     .title = Instrumente pentru toate suplimentele
 
@@ -442,6 +496,7 @@ details-notification-incompatible = { $name } este incompatibil cu { -brand-shor
 #   $version (string) - Application version.
 details-notification-incompatible2 =
     .message = { $name } este incompatibil cu { -brand-short-name } { $version }.
+details-notification-incompatible-link = Mai multe informații
 details-notification-unsigned-and-disabled = { $name } nu a putut fi verificat pentru a fi folosit în { -brand-short-name } și a fost dezactivat.
 details-notification-unsigned-and-disabled2 =
     .message = { $name } nu a putut fi verificat pentru a fi folosit în { -brand-short-name } și a fost dezactivat.
@@ -449,10 +504,24 @@ details-notification-unsigned-and-disabled-link = Mai multe informații
 details-notification-unsigned = { $name } nu a putut fi verificat pentru a fi folosit în { -brand-short-name }. Continuă cu atenție.
 details-notification-unsigned2 =
     .message = { $name } nu a putut fi verificat pentru a fi folosit în { -brand-short-name }. Continuă cu atenție.
+details-notification-hard-blocked-extension =
+    .message = Această extensie este blocată pentru încălcarea politicilor Mozilla și a fost dezactivată.
+details-notification-hard-blocked-other =
+    .message = Acest supliment este blocat pentru încălcarea politicilor Mozilla și a fost dezactivat.
 details-notification-unsigned-link = Mai multe informații
 details-notification-blocked = { $name } a fost dezactivat din cauza unor probleme de securitate sau stabilitate.
 details-notification-blocked2 =
     .message = { $name } a fost dezactivat din cauza unor probleme de securitate sau stabilitate.
+details-notification-blocked-link2 = Vezi detalii
+details-notification-soft-blocked-extension-disabled =
+    .message = Această extensie este restricționată pentru încălcarea politicilor Mozilla și a fost dezactivată. O poți activa, dar poate fi riscant.
+details-notification-soft-blocked-extension-enabled =
+    .message = Această extensie încalcă politicile Mozilla. Utilizarea ei poate fi riscantă.
+details-notification-soft-blocked-other-disabled =
+    .message = Acest supliment este restricționat pentru încălcarea politicilor Mozilla și a fost dezactivat. Îl poți activa, dar poate fi riscant.
+details-notification-soft-blocked-other-enabled =
+    .message = Acest supliment încalcă politicile Mozilla. Utilizarea lui poate fi riscantă.
+details-notification-softblocked-link2 = Vezi detalii
 details-notification-blocked-link = Mai multe informații
 details-notification-softblocked = Se știe că { $name } poate provoca probleme de securitate sau stabilitate.
 details-notification-softblocked2 =
@@ -470,3 +539,11 @@ plugins-openh264-name = Codec video OpenH264 furnizat de Cisco Systems, Inc.
 plugins-openh264-description = Acest plugin este instalat automat de Mozilla pentru a se conforma cu specificațiile WebTRC și pentru a activa apelurile WebRTC cu dispozitive care necesită codecul video H.264. Vizitează http://www.openh264.org/ pentru a vedea codul sursă al codecului și pentru a afla mai multe despre implementare.
 plugins-widevine-name = Modul pentru decriptarea conținutului Widevine oferit de Google Inc.
 plugins-widevine-description = Acest plugin permite redarea fișierelor multimedia criptate în conformitate cu specificația Encrypted Media Extensions. Fișierele multimedia criptate sunt de obicei utilizate de site-uri pentru protecție împotriva copierii conținuturilor multimedia premium. Intră pe https://www.w3.org/TR/encrypted-media/ pentru mai multe informații despre Encrypted Media Extensions.
+
+## Headings for the Permissions tab in `about:addons` when the data collection
+## feature is enabled.
+
+# This is a description for extension that use this AI model
+# Variables:
+#   $extensionName (String) - Name of the extension
+mlmodel-extension-label = Folosit de extensia { $extensionName }

@@ -144,6 +144,15 @@ cert-with-serial =
     .value = Certificatul cu numărul de serie: { $serialNumber }
 # Used to indicate that the user chose not to send a client authentication certificate to a server that requested one in a TLS handshake.
 send-no-client-certificate = Nu trimite niciun certificat de client
+# Used when no cert is stored for an override
+no-cert-stored-for-override = (Nestocat)
+# When a certificate is unavailable (for example, it has been deleted or the token it exists on has been removed).
+certificate-not-available = (Indisponibil)
+
+## Used to show whether an override is temporary or permanent
+
+permanent-override = Permanentă
+temporary-override = Temporară
 
 ## Add Security Exception dialog
 

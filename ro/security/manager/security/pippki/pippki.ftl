@@ -54,6 +54,11 @@ client-auth-window =
     .title = Cerere identificare utilizator
 client-auth-site-description = Acest site îți cere să te identifici cu un certificat:
 client-auth-choose-cert = Alege un certificat care să fie prezentat drept identificare:
+client-auth-send-no-certificate =
+    .label = Nu trimite un certificat
+# Variables:
+# $hostname (String) - The domain name of the site requesting the client authentication certificate
+client-auth-site-identification = „{ $hostname }” îți cere să te identifici cu un certificat:
 client-auth-cert-details = Detaliile certificatului selectat:
 # Variables:
 # $issuedTo (String) - The subject common name of the currently-selected client authentication certificate
@@ -77,6 +82,13 @@ client-auth-cert-details-issued-by = Emis de: { $issuedBy }
 # Variables:
 # $storedOn (String) - The name of the token holding the certificate (for example, "OS Client Cert Token (Modern)")
 client-auth-cert-details-stored-on = Stocat pe: { $storedOn }
+client-auth-cert-remember-label = Ține minte decizia:
+client-auth-cert-remember-never =
+    .label = O dată
+client-auth-cert-remember-always =
+    .label = Permanent
+client-auth-cert-remember-temporarily =
+    .label = Pentru această sesiune
 client-auth-cert-remember-box =
     .label = Ține minte decizia
 

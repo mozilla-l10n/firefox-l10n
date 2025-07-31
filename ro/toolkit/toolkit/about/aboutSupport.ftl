@@ -368,6 +368,16 @@ launcher-process-status-unknown = Stare necunoscută
 # $remoteWindows (integer) - Number of remote windows
 # $totalWindows (integer) - Number of total windows
 multi-process-windows = { $remoteWindows }/{ $totalWindows }
+fission-status-experiment-control = Dezactivate de experiment
+fission-status-experiment-treatment = Activate de experiment
+fission-status-disabled-by-e10s-env = Dezactivate de mediu
+fission-status-enabled-by-env = Activate de mediu
+fission-status-disabled-by-env = Dezactivate de mediu
+fission-status-enabled-by-default = Activate implicit
+fission-status-disabled-by-default = Dezactivate implicit
+fission-status-enabled-by-user-pref = Activate de utilizator
+fission-status-disabled-by-user-pref = Dezactivate de utilizator
+fission-status-disabled-by-e10s-other = Dezactivate de E10s
 async-pan-zoom = Panoramare/zoom asincron(ă)
 apz-none = fără
 wheel-enabled = intrare pentru rotița mouse-ului activată
