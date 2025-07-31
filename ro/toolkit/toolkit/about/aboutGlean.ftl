@@ -103,3 +103,12 @@ about-glean-adhoc-explanation2 =
     și folosind un API <code>testGetValue()</code>, cum ar fi
     <code>Glean.metricCategory.metricName.testGetValue()</code>
     pentru o metrică denumită <code>metric.category.metric_name</code>.
+# Do not translate strings between <code> </code> tags.
+about-glean-adhoc-note =
+    De reținut că folosești API-ul Glean JS când utilizezi consola de instrumente de depanare.
+    Înseamnă că denumirea metricii și categoria metricii sunt formatate în
+    API-uri <code>camelCase</code>, nu Rust și C++.
+about-glean-profiler-explanation =
+    Pentru o imagine completă a tuturor metricilor înregistrate, poți folosi { -profiler-brand-name }.
+    Mai întâi trebuie <a data-l10n-name="firefox-profiler-link">să captezi un profil de performanță</a>.
+    După ce ai captat profilul, selectează <q>Marker Chart</q> și vezi markerele din <q>Telemetrie</q>.
