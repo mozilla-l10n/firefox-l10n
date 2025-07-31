@@ -30,7 +30,7 @@ settings-page-title = Paramètres
 # is the name of the CSS property. It is intended only to adjust the element's width.
 # Do not translate.
 search-input-box2 =
-    .style = width: 19em
+    .style = width: 19.5em
     .placeholder = Rechercher dans les paramètres
 managed-notice = Votre navigateur est géré par votre organisation.
 managed-notice-info-icon =
