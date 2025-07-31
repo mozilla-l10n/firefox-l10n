@@ -168,6 +168,26 @@ permissions-site-camera-disable-label =
     .label = Bloquear nuevos pedidos de acceso a la cámara
 permissions-site-camera-disable-desc = Esto evitará que los sitios web no listados debajo puedan pedir permiso para acceder a la cámara. Bloquear acceso a la cámara puede hacer fallar ciertas características de algunos sitios web.
 
+## Site Permissions - Local host
+
+permissions-site-localhost-window =
+    .title = Configuración - Aplicaciones y servicios del dispositivo
+    .style = { permissions-window2.style }
+permissions-site-localhost-desc = Estos sitios han solicitado acceso a aplicaciones y servicios en este dispositivo. Puede elegir permitir o bloquear sitios para que no hagan esto.
+permissions-site-localhost-disable-label =
+    .label = Bloquear nuevos pedidos de acceso a aplicaciones y servicios en este dispositivo
+permissions-site-localhost-disable-desc = Esto evitará que cualquier sitio web no incluido en la lista solicite acceso a aplicaciones y servicios en este dispositivo. Hacer esto puede romper algunas características del sitio web.
+
+## Site Permissions - Local network
+
+permissions-site-local-network-window =
+    .title = Configuración - Dispositivos de red local
+    .style = { permissions-window2.style }
+permissions-site-local-network-desc = Estos sitios han solicitado acceso a aplicaciones y servicios en dispositivos conectados al Wi-Fi o red local. Puede elegir permitir o bloquear sitios para que no hagan esto.
+permissions-site-local-network-disable-label =
+    .label = Bloquear nuevos pedidos para acceder a aplicaciones y servicios en dispositivos conectados al Wi-Fi o red local.
+permissions-site-local-network-disable-desc = Esto evitará que cualquier sitio web que no esté en la lista anterior solicite acceso a aplicaciones y servicios en dispositivos conectados al Wi-Fi o red local. Hacer esto puede romper algunas características del sitio web.
+
 ## Site Permissions - Microphone
 
 permissions-site-microphone-window2 =
