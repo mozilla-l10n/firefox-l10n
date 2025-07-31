@@ -143,6 +143,8 @@ urlbar-geolocation-notification-anchor =
     .tooltiptext = Wobceŕk městnowego napšašowanja wócyniś
 urlbar-localhost-notification-anchor =
     .tooltiptext = Pśistup lokalnego rěda za toś to sedło zastojaś
+urlbar-local-network-notification-anchor =
+    .tooltiptext = Źělenje wašogo pśistupa lokalneje seśi z toś tym sedłom zastojaś
 urlbar-xr-notification-anchor =
     .tooltiptext = Dialog za pšawa wirtuelneje reality wócyniś
 urlbar-storage-access-anchor =
@@ -243,6 +245,10 @@ urlbar-search-mode-actions = Akcije
 
 urlbar-geolocation-blocked =
     .tooltiptext = Sćo toś tomu websedłoju informacijie wó městnje zawoborał.
+urlbar-localhost-blocked =
+    .tooltiptext = Sćo blokěrował zwiski lokalnego rěda za toś to websedło.
+urlbar-local-network-blocked =
+    .tooltiptext = Sćo blokěrował zwiski lokalneje seśi za toś to websedło.
 urlbar-xr-blocked =
     .tooltiptext = Sćo zablokěrował pśistup k rědoju wirtuelneje reality za toś to websedło.
 urlbar-web-notifications-blocked =
@@ -1396,6 +1402,13 @@ trustpanel-blocker-header =
 ## Variables
 ##  $count (String): the number of trackers blocked.
 
+trustpanel-blocker-section-header =
+    { $count ->
+        [one] <span>{ $count }</span> pśeslědowak jo se blokěrował na toś tom sedle
+        [two] <span>{ $count }</span> pśeslědowaka stej se blokěrowałej na toś tom sedle
+        [few] <span>{ $count }</span> pśeslědowaki su se blokěrowali na toś tom sedle
+       *[other] <span>{ $count }</span> pśeslědowakow jo se blokěrowało na toś tom sedle
+    }
 trustpanel-blocker-description = { -brand-product-name } měni, až pśedewześa měli wam mjenjej slědowaś. Togodla blokěrujomy tak wjele kaž móžomy.
 trustpanel-blocked-header = { -brand-product-name } jo blokěrował toś te wěcy za was:
 trustpanel-tracking-header = { -brand-product-name } jo dowólił toś te wěcy, aby sedła korektnje funkcioněrowali:
@@ -1423,8 +1436,36 @@ trustpanel-list-label-cryptominer =
         [few] { $count } kryptokoparje
        *[other] { $count } kryptokoparjow
     }
+trustpanel-social-tracking-blocking-tab-header =
+    { $count ->
+        [one] { -brand-product-name } jo blokěrował { $count } pśeslědowak socialnych medijow
+        [two] { -brand-product-name } jo blokěrował { $count } pśeslědowaka socialnych medijow
+        [few] { -brand-product-name } jo blokěrował { $count } pśeslědowaki socialnych medijow
+       *[other] { -brand-product-name } jo blokěrował { $count } pśeslědowaki socialnych medijow
+    }
+trustpanel-social-tracking-not-blocking-tab-header =
+    { $count ->
+        [one] { -brand-product-name } jo dowólił { $count } pśeslědowak socialnych medijow
+        [two] { -brand-product-name } jo dowólił { $count } pśeslědowaka socialnych medijow
+        [few] { -brand-product-name } jo dowólił { $count } pśeslědowaki socialnych medijow
+       *[other] { -brand-product-name } jo dowólił { $count } pśeslědowaki socialnych medijow
+    }
 trustpanel-social-tracking-tab-list-header = Toś te sedła wopytuju wam slědowaś:
 trustpanel-tracking-cookies-tab-list-header = Toś te sedła wopytuju wam slědowaś:
+trustpanel-tracking-content-blocking-tab-header =
+    { $count ->
+        [one] { -brand-product-name } jo blokěrował { $count } pśeslědowak
+        [two] { -brand-product-name } jo blokěrował { $count } pśeslědowaka
+        [few] { -brand-product-name } jo blokěrował { $count } pśeslědowaki
+       *[other] { -brand-product-name } jo blokěrował { $count } pśeslědowaki
+    }
+trustpanel-tracking-content-not-blocking-tab-header =
+    { $count ->
+        [one] { -brand-product-name } jo dowólił { $count } pśeslědowak
+        [two] { -brand-product-name } jo dowólił { $count } pśeslědowaka
+        [few] { -brand-product-name } jo dowólił { $count } pśeslědowaki
+       *[other] { -brand-product-name } jo dowólił { $count } pśeslědowaki
+    }
 trustpanel-tracking-content-tab-list-header = Toś te sedła wopytuju wam slědowaś:
 trustpanel-fingerprinter-blocking-tab-header =
     { $count ->
