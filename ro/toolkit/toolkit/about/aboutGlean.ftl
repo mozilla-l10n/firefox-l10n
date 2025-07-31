@@ -5,6 +5,7 @@
 
 ### "FOG", "Glean", and "Glean SDK" should remain in English.
 
+-fog-brand-name = FOG
 -glean-brand-name = Glean
 glean-sdk-brand-name = SDK { -glean-brand-name }
 glean-debug-ping-viewer-brand-name = Vizualizator pinguri de depanare { -glean-brand-name }
@@ -112,3 +113,35 @@ about-glean-profiler-explanation =
     Pentru o imagine completă a tuturor metricilor înregistrate, poți folosi { -profiler-brand-name }.
     Mai întâi trebuie <a data-l10n-name="firefox-profiler-link">să captezi un profil de performanță</a>.
     După ce ai captat profilul, selectează <q>Marker Chart</q> și vezi markerele din <q>Telemetrie</q>.
+about-glean-profiler-explanation-profiler =
+    În profilul de performanță, poți vedea toate metricile colectate, când au fost
+    colectate și ce valori au fost colectate mai exact. Treci cu mouse-ul peste markerele individuale
+    ca să verifici dacă a fost colectată valoarea corectă și dacă colectarea a avut loc la momentul potrivit.
+controls-button-label-verbose = Aplică setările și trimite pingul
+about-glean-feedback-settings-only =
+    .message = Setări aplicate!
+about-glean-feedback-settings-and-ping =
+    .message = Setări aplicate și ping trimis!
+about-glean-about-data-header = Despre date
+about-glean-about-data-description =
+    Sunt câteva instrumente diferite pe care le poți folosi ca să vezi datele, în funcție de
+    ce cauți.
+about-glean-about-data-description-list-intro =
+    Vezi lista de mai jos pentru cazuri specifice
+    de utilizare pentru fiecare instrument:
+about-glean-about-data-list-item-dictionary =
+    Ca să răsfoiești prin lista de date colectate cu { -glean-brand-name } per aplicație, vezi
+    <a data-l10n-name="glean-dictionary-link">{ -glean-brand-name } Dicționarul</a>.
+about-glean-about-data-list-item-about-telemetry =
+    Ca să răsfoiești datele colectate prin telemetrie moștenită, vezi
+    <a data-l10n-name="about-telemetry-link">about:telemetry</a>.
+about-glean-about-data-list-item-debug-ping-viewer =
+    Ca să răsfoiești tagurile de depanare, să vezi pingurile întregi, să vezi un eveniment live în flux sau pentru
+    vizualizări metrice, vezi
+    <a data-l10n-name="glean-debug-ping-viewer">{ glean-debug-ping-viewer-brand-name }</a>.
+about-glean-about-data-list-item-firefox-profiler =
+    Ca să înregistrezi un profil de performanță și să vezi toate metricile înregistrate, folosește
+    <a data-l10n-name="about-glean-firefox-profiler">{ -profiler-brand-name }</a>.
+about-glean-about-data-explanation =
+    Ca să răsfoiești lista de date colectate, vezi
+    <a data-l10n-name="glean-dictionary-link">{ -glean-brand-name } Dicționarul</a>.
