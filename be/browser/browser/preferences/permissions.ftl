@@ -168,6 +168,18 @@ permissions-site-camera-disable-label =
     .label = Блакаваць новыя запыты на доступ да вашай камеры
 permissions-site-camera-disable-desc = Гэта не дазволіць вэб-сайтам, акрамя пералічаных вышэй, запытваць дазвол на доступ да вашай камеры. Блакаванне доступу да вашай камеры можа парушыць некаторыя функцыі сайта.
 
+## Site Permissions - Local host
+
+permissions-site-localhost-window =
+    .title = Налады - Праграмы і службы прылады
+    .style = { permissions-window2.style }
+
+## Site Permissions - Local network
+
+permissions-site-local-network-window =
+    .title = Налады - Прылады лакальнай сеткі
+    .style = { permissions-window2.style }
+
 ## Site Permissions - Microphone
 
 permissions-site-microphone-window2 =
