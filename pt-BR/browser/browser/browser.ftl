@@ -1387,5 +1387,50 @@ trustpanel-blocker-section-header =
     }
 trustpanel-blocker-description = O { -brand-product-name } acha que as empresas devem te seguir menos. Por isso, bloqueamos o máximo que podemos.
 trustpanel-blocked-header = O { -brand-product-name } bloqueou o seguinte para você:
+trustpanel-tracking-header = O { -brand-product-name } permite o seguinte para não atrapalhar sites:
+trustpanel-tracking-description = Sem rastreadores, alguns botões, formulários e campos de acesso a contas podem não funcionar.
 trustpanel-insecure-section-header = Sua conexão não é segura
+trustpanel-insecure-description = Os dados que você envia para este site não são criptografados. Podem ser vistos, roubados ou alterados.
+trustpanel-list-label-tracking-cookies =
+    { $count ->
+        [one] { $count } cookie de rastreamento entre sites
+       *[other] { $count } cookies de rastreamento entre sites
+    }
 trustpanel-list-label-tracking-content = Conteúdo com rastreamento
+trustpanel-list-label-social-tracking =
+    { $count ->
+        [one] { $count } rastreador de mídias sociais
+       *[other] { $count } rastreadores de mídias sociais
+    }
+trustpanel-list-label-cryptominer =
+    { $count ->
+        [one] { $count } criptominerador
+       *[other] { $count } criptomineradores
+    }
+trustpanel-social-tracking-blocking-tab-header =
+    { $count ->
+        [one] O { -brand-product-name } bloqueou { $count } rastreador de mídias sociais
+       *[other] O { -brand-product-name } bloqueou { $count } rastreadores de mídias sociais
+    }
+trustpanel-social-tracking-not-blocking-tab-header =
+    { $count ->
+        [one] O { -brand-product-name } permitiu { $count } rastreador de mídias sociais
+       *[other] O { -brand-product-name } permitiu { $count } rastreadores de mídias sociais
+    }
+trustpanel-social-tracking-tab-list-header = Estes sites estão tentando rastrear você:
+trustpanel-tracking-cookies-blocking-tab-header =
+    { $count ->
+        [one] O { -brand-product-name } bloqueou { $count } cookie de rastreamento entre sites
+       *[other] O { -brand-product-name } bloqueou { $count } cookies de rastreamento entre sites
+    }
+trustpanel-tracking-cookies-not-blocking-tab-header =
+    { $count ->
+        [one] O { -brand-product-name } permitiu { $count } cookie de rastreamento entre sites
+       *[other] O { -brand-product-name } permitiu { $count } cookies de rastreamento entre sites
+    }
+trustpanel-tracking-cookies-tab-list-header = Estes sites estão tentando rastrear você:
+trustpanel-tracking-content-blocking-tab-header =
+    { $count ->
+        [one] O { -brand-product-name } bloqueou { $count } rastreador
+       *[other] O { -brand-product-name } bloqueou { $count } rastreadores
+    }
