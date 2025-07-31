@@ -1333,6 +1333,7 @@ permissions-location = Ubicación
 permissions-location-settings =
     .label = Configuración…
     .accesskey = U
+permissions-localhost = Aplicaciones y servicios del dispositivo
 permissions-localhost-settings =
     .label = Configuración…
     .accesskey = g
