@@ -1434,3 +1434,9 @@ trustpanel-tracking-content-blocking-tab-header =
         [one] O { -brand-product-name } bloqueou { $count } rastreador
        *[other] O { -brand-product-name } bloqueou { $count } rastreadores
     }
+trustpanel-tracking-content-not-blocking-tab-header =
+    { $count ->
+        [one] O { -brand-product-name } permitiu { $count } rastreador
+       *[other] O { -brand-product-name } permitiu { $count } rastreadores
+    }
+trustpanel-tracking-content-tab-list-header = Estes sites estão tentando rastrear você:
