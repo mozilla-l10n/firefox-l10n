@@ -5,6 +5,9 @@
 
 ### "FOG", "Glean", and "Glean SDK" should remain in English.
 
+-glean-brand-name = Glean
+glean-sdk-brand-name = SDK { -glean-brand-name }
+glean-debug-ping-viewer-brand-name = Vizualizator pinguri de depanare { -glean-brand-name }
 about-glean-page-title2 = Despre { -glean-brand-name }
 about-glean-header = Despre { -glean-brand-name }
 about-glean-interface-description =
@@ -85,3 +88,18 @@ about-glean-li-for-visit-gdpv =
     <a data-l10n-name="gdpv-tagged-pings-link">Intră pe pagina { glean-debug-ping-viewer-brand-name } pentru pinguri cu eticheta ta</a>.
     Nu ar trebui să dureze mai mult de câteva secunde de la apăsarea butonului și până la sosirea pingului.
     Uneori este posibil să dureze câteva minute bune.
+# Do not translate strings between <code> </code> tags.
+about-glean-adhoc-explanation =
+    Pentru mai multe teste <i>ad hoc</i>,
+    poți determina și valoarea curentă a unui element anumit de instrumentație
+    deschizând o consolă de instrumente de depanare aici pe <code>about:glean</code>
+    și folosind un API <code>testGetValue()</code>, cum ar fi
+    <code>Glean.metricCategory.metricName.testGetValue()</code>.
+# Do not translate strings between <code> </code> tags.
+about-glean-adhoc-explanation2 =
+    Pentru mai multe teste <i>ad hoc</i>,
+    poți determina și valoarea curentă a unui element anumit de instrumentație
+    deschizând o consolă de instrumente de depanare aici pe <code>about:glean</code>
+    și folosind un API <code>testGetValue()</code>, cum ar fi
+    <code>Glean.metricCategory.metricName.testGetValue()</code>
+    pentru o metrică denumită <code>metric.category.metric_name</code>.
