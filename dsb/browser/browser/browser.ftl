@@ -1412,6 +1412,7 @@ trustpanel-blocker-section-header =
 trustpanel-blocker-description = { -brand-product-name } měni, až pśedewześa měli wam mjenjej slědowaś. Togodla blokěrujomy tak wjele kaž móžomy.
 trustpanel-blocked-header = { -brand-product-name } jo blokěrował toś te wěcy za was:
 trustpanel-tracking-header = { -brand-product-name } jo dowólił toś te wěcy, aby sedła korektnje funkcioněrowali:
+trustpanel-tracking-description = Někotare tłocaški, formulary a pśizjawjeńske póla njamógli bźez pśeslědowakow funkcioněrowaś.
 trustpanel-insecure-section-header = Waš zwisk njejo wěsty
 trustpanel-insecure-description = Daty, kótarež na toś to sedło sćelośo, njejsu skoděrowane. Daju se woglědaś, kšadnuś abo změniś.
 trustpanel-list-label-tracking-content = Slědujuce wopśimjeśe
