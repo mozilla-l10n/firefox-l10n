@@ -112,6 +112,23 @@ fxa-adoption-passwords-subtitle = Protejează-ți parolele sincronizându-le cu 
 # Opens Mozilla accounts sign-up page
 fxa-adoption-passwords-primary-button-label = Înregistrează-te
 
+## Windows 10 EoS Sync messages group 1 callouts
+
+windows-10-eos-sync-urgency-title-1 = Nu pierde tot ce ai salvat când treci la Windows 11.
+windows-10-eos-sync-urgency-subtitle-1 = Sincronizează acum pentru a-ți păstra în siguranță marcajele, parolele și setările { -brand-short-name } și ca să le restaurezi ușor.
+windows-10-eos-sync-urgency-title-2 = Adio Windows 10? Protejează-ți datele când treci la Windows 11.
+windows-10-eos-sync-urgency-subtitle-2 = Chiar dacă nu folosești { -brand-short-name } zilnic, sincronizează-l ca să-ți păstrezi marcajele și parolele în siguranță și accesibile.
+windows-10-eos-sync-new-device-title-1 = Nu risca să o iei de la capăt pe următorul dispozitiv.
+windows-10-eos-sync-new-device-subtitle-1 = Sincronizează ca să-ți iei cu tine marcajele, parolele și setările preferate { -brand-short-name } când te muți.
+windows-10-eos-sync-new-device-title-2 = Treci pe un dispozitiv nou? Nu pierde ce contează.
+windows-10-eos-sync-new-device-subtitle-2 = Indiferent cât de des folosești { -brand-short-name }, sincronizarea îți protejează marcajele, parolele și setările.
+windows-10-eos-sync-new-device-primary-label = Sincronizează acum
+windows-10-eos-sync-general-title-1 = Protejează { -brand-short-name } pe care l-ai personalizat.
+windows-10-eos-sync-general-subtitle-1 = Fă copii de rezervă și sincronizează-ți parolele, marcajele, setările și alte date ca să păstrezi pe ce te bazezi.
+windows-10-eos-sync-general-title-2 = Acum este un moment bun să îți faci copii de rezervă cu parolele și marcajele.
+windows-10-eos-sync-general-subtitle-2 = Sincronizează acum pentru a-ți proteja datele pe care le-ai salvat cu încredere în { -brand-short-name } — și recuperează-le oriunde, oricând.
+windows-10-eos-sync-tour-title-1 = Prea multe file? Fă ordine folosind grupuri de file.
+
 ## Sidebar Strings
 
 sidebar-button-callout-title = Afișează titlurile filelor în bara laterală

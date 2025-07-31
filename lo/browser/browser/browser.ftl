@@ -885,6 +885,8 @@ navbar-accessible =
     .aria-label = ການນໍາທາງ
 navbar-downloads =
     .label = ດາວໂຫລດ
+navbar-overflow-2 =
+    .tooltiptext = ເຄື່ອງມືເພີ່ມເຕີມ
 navbar-overflow =
     .tooltiptext = ເຄື່ອງມືເພີ່ມເຕີມ…
 # Variables:
@@ -1044,5 +1046,8 @@ file-picker-crashed-show-in-folder =
 
 ## The urlbar trust panel
 
+trustpanel-connection-label-secure = ການເຊື່ອມຕໍ່ແມ່ນປອດໄພ
+trustpanel-connection-label-insecure = ການເຊື່ອມຕໍ່ບໍ່ປອດໄພ
 trustpanel-clear-cookies-subview-button-clear = ລົບລ້າງ
 trustpanel-clear-cookies-subview-button-cancel = ຍົກເລີກ
+trustpanel-blocker-see-all = ເບິງທັງໝົດ
