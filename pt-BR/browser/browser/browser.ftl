@@ -245,6 +245,8 @@ urlbar-search-mode-actions = Ações
 
 urlbar-geolocation-blocked =
     .tooltiptext = Você bloqueou informações de localização neste site.
+urlbar-local-network-blocked =
+    .tooltiptext = Você bloqueou conexões de rede local neste site.
 urlbar-xr-blocked =
     .tooltiptext = Você bloqueou o acesso do dispositivo de realidade virtual a este site.
 urlbar-web-notifications-blocked =
@@ -1347,9 +1349,12 @@ trustpanel-etp-toggle-on =
 trustpanel-etp-toggle-off =
     .aria-label = Proteção aprimorada contra rastreamento: Desativada em { $host }
 trustpanel-etp-description-enabled = Se algo parecer não funcionar neste site, experimente desativar proteções.
+trustpanel-etp-description-disabled = O { -brand-product-name } acha que as empresas devem te seguir menos. Bloqueamos o máximo possivel de rastreadores quando você ativa as proteções.
 trustpanel-connection-label-secure = Conexão segura
 trustpanel-connection-label-insecure = Conexão não segura
+trustpanel-description-enabled = Você está protegido. Se detectarmos algo, te avisaremos.
 trustpanel-header-disabled = Você desativou proteções
+trustpanel-description-disabled = O { -brand-product-name } não está te protegendo. Sugerimos reativar as proteções.
 trustpanel-clear-cookies-button = Limpar cookies e dados do site
 trustpanel-privacy-link = Configurações de privacidade
 # Variables
@@ -1380,5 +1385,7 @@ trustpanel-blocker-section-header =
         [one] <span>{ $count }</span> rastreador bloqueado neste site
        *[other] <span>{ $count }</span> rastreadores bloqueados neste site
     }
+trustpanel-blocker-description = O { -brand-product-name } acha que as empresas devem te seguir menos. Por isso, bloqueamos o máximo que podemos.
+trustpanel-blocked-header = O { -brand-product-name } bloqueou o seguinte para você:
 trustpanel-insecure-section-header = Sua conexão não é segura
 trustpanel-list-label-tracking-content = Conteúdo com rastreamento
