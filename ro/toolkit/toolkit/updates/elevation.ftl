@@ -16,6 +16,7 @@ elevation-finished-background-page =
     { -brand-short-name } și este pregătită să fie instalată.
 elevation-finished-background = Actualizare:
 elevation-more-elevated = Această actualizare necesită privilegii de administrator. Actualizarea va fi instalată data viitoare când va porni { -brand-short-name }. Poți reporni { -brand-short-name } acum, poți continua lucrul și să repornești mai târziu, sau poți refuza această actualizare.
+sandbox-missing-unprivileged-namespaces = Este posibil ca unele dintre funcționalitățile de securitate din { -brand-short-name } să ofere o protecție mai redusă pe sistemul de operare actual.
 sandbox-unprivileged-namespaces-dismiss-button =
     .label = Nu mai afișa
     .accesskey = D

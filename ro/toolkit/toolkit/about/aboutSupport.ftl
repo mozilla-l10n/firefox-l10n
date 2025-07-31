@@ -408,11 +408,44 @@ support-printing-modified-settings = Setări de tipărire modificate
 support-printing-prefs-name = Nume
 support-printing-prefs-value = Valoare
 
+## Remote Settings sections
+
+support-remote-settings-title = Setări la distanță
+support-remote-settings-status = Stare
+support-remote-settings-status-ok = OK
+# Status when synchronization is not working.
+support-remote-settings-status-broken = Nu funcționează
+support-remote-settings-last-check = Ultima verificare
+support-remote-settings-local-timestamp = Marcaj temporal local
+support-remote-settings-sync-history = Istoric
+support-remote-settings-sync-history-status = Stare
+support-remote-settings-sync-history-datetime = Dată
+support-remote-settings-sync-history-infos = Informații
+
 ## Normandy sections
 
 support-remote-experiments-title = Experimente la distanță
 support-remote-experiments-name = Nume
+support-remote-experiments-branch = Ramură experiment
 support-remote-experiments-see-about-studies = Consultă <a data-l10n-name="support-about-studies-link">about:studies</a> pentru mai multe informații, inclusiv cum să dezactivezi experimentele individuale sau cum să împiedici { -brand-short-name } să ruleze acest tip de experiment în viitor.
 support-remote-features-title = Funcții la distanță
 support-remote-features-name = Nume
 support-remote-features-status = Stare
+
+## Pointing devices
+
+pointing-device-mouse = Mouse
+pointing-device-touchscreen = Ecran tactil
+pointing-device-none = Fără dispozitive de indicare
+
+## Content Analysis (DLP)
+
+# DLP stands for Data Loss Prevention, an industry term for external software
+# that enterprises can set up to prevent sensitive data from being transferred
+# to external websites.
+content-analysis-title = Analiză de conținut (DLP)
+content-analysis-active = Activ
+content-analysis-connected-to-agent = Conectat la agent
+content-analysis-agent-path = Cale agent
+content-analysis-agent-failed-signature-verification = Verificarea semnăturii agentului a eșuat
+content-analysis-request-count = Număr de solicitări

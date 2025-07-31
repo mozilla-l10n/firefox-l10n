@@ -454,6 +454,16 @@ pdfjs-editor-colorpicker-pink =
 pdfjs-editor-colorpicker-red =
     .title = Roșu
 
+## Image alt-text settings
+
+pdfjs-editor-alt-text-settings-delete-model-button = Șterge
+pdfjs-editor-alt-text-settings-download-model-button = Descarcă
+pdfjs-editor-alt-text-settings-downloading-model-button = Se descarcă…
+pdfjs-editor-alt-text-settings-editor-title = Editor de text alternativ
+pdfjs-editor-alt-text-settings-show-dialog-button-label = Afișează editorul de text alternativ imediat când adaugi o imagine
+pdfjs-editor-alt-text-settings-show-dialog-description = Te ajută să te asiguri că toate imaginile au text alternativ.
+pdfjs-editor-alt-text-settings-close-button = Închide
+
 ## Accessibility labels (announced by screen readers) for objects added to the editor.
 
 pdfjs-editor-highlight-added-alert = Evidențiere adăugată
@@ -464,6 +474,9 @@ pdfjs-editor-signature-added-alert = Semnătură adăugată
 
 ## "Annotations removed" bar
 
+pdfjs-editor-undo-bar-message-highlight = Evidențiere eliminată
+pdfjs-editor-undo-bar-message-freetext = Text eliminat
+pdfjs-editor-undo-bar-message-ink = Desen eliminat
 pdfjs-editor-undo-bar-message-stamp = Imagine eliminată
 pdfjs-editor-undo-bar-message-signature = Semnătură eliminată
 # Variables:

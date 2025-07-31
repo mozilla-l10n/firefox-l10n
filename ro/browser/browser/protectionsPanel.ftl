@@ -60,7 +60,7 @@ protections-panel-no-trackers-found = Nu s-a detectat niciun element de urmărir
 protections-panel-content-blocking-tracking-protection = Conținut de urmărire
 protections-panel-content-blocking-socialblock = Elemente de urmărire ale rețelelor sociale
 protections-panel-content-blocking-cryptominers-label = Criptomineri
-protections-panel-content-blocking-fingerprinters-label = Generatoare de amprente digitale
+protections-panel-content-blocking-fingerprinters-label = Detectoare de amprente digitale
 
 ## In the protections panel, Content Blocking category items are in three sections:
 ##   "Blocked" for categories being blocked in the current page,
@@ -87,7 +87,7 @@ smartblock-placeholder-button-text = Permite pe { $websitehost }
 
 ##
 
-protections-panel-settings-label = Setări pentru protecție
+protections-panel-settings-label = Setări de protecție
 protections-panel-protectionsdashboard-label = Tablou de bord privind protecțiile
 
 ## In the Site Not Working? view, we suggest turning off protections if
