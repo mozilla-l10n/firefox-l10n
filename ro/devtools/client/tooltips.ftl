@@ -91,9 +91,24 @@ inactive-css-not-inline-or-tablecell-fix = Încearcă să adaugi <strong>display
 inactive-css-non-replaced-inline-or-table-row-or-row-group-fix = Încearcă să adaugi <strong>display:inline-block</strong> sau <strong>display:block</strong>. { learn-more }
 inactive-css-non-replaced-inline-or-table-column-or-column-group-fix = Încearcă să adaugi <strong>display:block</strong>. { learn-more }
 inactive-css-not-display-block-on-floated-fix = Încearcă să elimini <strong>float</strong> sau să adaugi <strong>display:block</strong>. { learn-more }
+inactive-css-only-non-grid-or-flex-item-fix = Încearcă să modifici valoarea <strong>display</strong> containerului elementului în altceva decât  <strong>flex</strong>, <strong>grid</strong>, <strong>inline-flex</strong> sau <strong>inline-grid</strong> ori eliminând <strong>float</strong>. { learn-more }
+inactive-css-not-block-fix = Încearcă să adaugi proprietăți precum <strong>display:block</strong> sau <strong>float:left</strong>. { learn-more }
+inactive-css-not-floated-fix = Încearcă să adaugi proprietatea <strong>float</strong> cu o valoare diferită de <strong>none</strong>. { learn-more }
 inactive-css-position-property-on-unpositioned-box-fix = Încearcă să îi setezi proprietatea <strong>poziție</strong> pe altceva decât <strong>static</strong>. { learn-more }
+inactive-css-only-replaced-elements-fix = Asigură-te că adaugi proprietatea la un element înlocuit. { learn-more }
 inactive-text-overflow-when-no-overflow-fix = Încearcă să adaugi <strong>overflow:hidden</strong>. { learn-more }
+inactive-css-no-size-containment-fix = Încearcă să-i setezi proprietatea <strong>display</strong> în altceva decât <strong>none</strong>, <strong>contents</strong>, <strong>table</strong> sau <strong>inline-table</strong> și asigură-te că nu e într-un tabel sau într-un segment ruby. { learn-more }
+inactive-css-not-for-internal-table-elements-fix = Încearcă să-i setezi proprietatea <strong>display</strong> în altceva decât <strong>table-cell</strong>, <strong>table-column</strong>, <strong>table-row</strong>, <strong>table-column-group</strong>, <strong>table-row-group</strong> sau <strong>table-footer-group</strong>. { learn-more }
+inactive-css-not-for-internal-table-elements-except-table-cells-fix = Încearcă să-i setezi proprietatea <strong>display</strong> în altceva decât <strong>table-column</strong>, <strong>table-row</strong>, <strong>table-column-group</strong>, <strong>table-row-group</strong> sau <strong>table-footer-group</strong>. { learn-more }
+inactive-css-not-table-fix = Încearcă să adaugi <strong>display:table</strong> sau <strong>display:inline-table</strong>. { learn-more }
+inactive-css-collapsed-table-borders-fix = Încearcă să adaugi <strong>border-collapse:separate</strong>. { learn-more }
+inactive-css-not-table-cell-fix = Încearcă să adaugi <strong>display:table-cell</strong>. { learn-more }
+inactive-scroll-padding-when-not-scroll-container-fix = Încearcă să adaugi <strong>overflow:auto</strong>, <strong>overflow:scroll</strong> sau <strong>overflow:hidden</strong>. { learn-more }
+inactive-css-border-image-fix = În elementul-părinte din tabel, elimină proprietatea sau modifică valoarea <strong>border-collapse</strong> în alta decât <strong>collapse</strong>. { learn-more }
+inactive-css-resize-fix = Încearcă să setezi <strong>overflow</strong> la altă valoare decât <strong>visible</strong> sau ca să țintească un element înlocuit care acceptă valoarea respectivă. { learn-more }
+inactive-css-ruby-element-fix = Încearcă să modifici <strong>font-size</strong> pentru textul ruby. { learn-more }
 inactive-css-text-wrap-balance-lines-exceeded-fix = Încercați să reduceți numărul de rânduri. { learn-more }
+inactive-css-text-wrap-balance-fragmented-fix = Evită fragmentarea conținutului elementului, de ex. prin eliminarea coloanelor sau folosind <strong>page-break-inside:avoid</strong>. { learn-more }
 
 ## In the Rule View when a CSS property may have compatibility issues with other browsers
 ## we display an icon. When this icon is hovered this message is displayed to explain why
@@ -110,3 +125,10 @@ css-compatibility-deprecated-supported-message = <strong>{ $property }</strong> 
 css-compatibility-experimental-message = <strong>{ $property }</strong> este o proprietate experimentală. Nu are suport pe următoarele browsere:
 css-compatibility-experimental-supported-message = <strong>{ $property }</strong> este o proprietate experimentală.
 css-compatibility-learn-more-message = <span data-l10n-name="link">Află mai multe</span> despre <strong>{ $rootProperty }</strong>
+
+## In the Rule View when a rule selector can causes issues, we display an icon.
+## When this icon is hovered one or more of those messages are displayed to explain what
+## the issue are.
+
+# :has() should not be translated
+css-selector-warning-unconstrained-has = Acest selector folosește <strong>:has()</strong> fără restricții, ceea ce poate fi lent
