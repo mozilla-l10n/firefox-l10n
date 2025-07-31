@@ -39,6 +39,7 @@ remove-search-engine-button = Oke
 ## $newEngine (String) - the name of the new default search engine.
 
 reset-search-settings-message = Karena masalah teknis, mesin pencari baku Anda telah diubah kembali menjadi { $newEngine }. Untuk mengubah mesin pencari baku, buka pengaturan.
+reset-search-settings-button = OKE
 
 ## Infobar shown when user is prompted to install search engine.
 ## Variables

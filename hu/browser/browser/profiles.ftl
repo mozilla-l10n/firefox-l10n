@@ -212,5 +212,7 @@ soccer-avatar = Foci
 sparkle-single-avatar = Szikrák
 star-avatar = Csillag
 video-game-controller-avatar = Videójáték-vezérlő
+custom-avatar-crop-back-button =
+    .aria-label = Vissza
 barbell-avatar = Súlyzó
 bike-avatar = Kerékpár

@@ -141,6 +141,8 @@ urlbar-default-notification-anchor =
     .tooltiptext = Buka panel pesan
 urlbar-geolocation-notification-anchor =
     .tooltiptext = Buka panel permintaan lokasi
+urlbar-localhost-notification-anchor =
+    .tooltiptext = Kelola akses perangkat lokal untuk situs ini
 urlbar-xr-notification-anchor =
     .tooltiptext = Buka panel perizinan realitas virtual
 urlbar-storage-access-anchor =
@@ -241,6 +243,8 @@ urlbar-search-mode-actions = Aksi
 
 urlbar-geolocation-blocked =
     .tooltiptext = Anda telah memblokir informasi lokasi untuk situs web ini.
+urlbar-localhost-blocked =
+    .tooltiptext = Anda telah memblokir sambungan perangkat lokal untuk situs web ini.
 urlbar-xr-blocked =
     .tooltiptext = Anda telah memblokir akses perangkat realitas virtual untuk situs web ini.
 urlbar-web-notifications-blocked =
@@ -366,6 +370,7 @@ quickactions-downloads2 = Tampilkan unduhan
 quickactions-cmd-downloads = unduhan
 # Opens about:addons page in the extensions section
 quickactions-extensions = Kelola ekstensi
+quickactions-cmd-extensions2 = ekstensi, pengaya
 quickactions-cmd-extensions = ekstensi
 # Opens Firefox View
 quickactions-firefoxview = Buka { -firefoxview-brand-name }
@@ -412,6 +417,10 @@ quickactions-cmd-settings2 = pengaturan, preferensi, opsi, kelola
 quickactions-cmd-settings = pengaturan, preferensi, pilihan
 # Opens about:addons page in the themes section
 quickactions-themes = Kelola tema
+# In English we provide multiple spellings for "add-ons". If that's not
+# applicable to your language, only use the correct spelling (don't repeat the
+# same word).
+quickactions-cmd-themes2 = tema, pengaya
 quickactions-cmd-themes = tema;themes;
 # Opens a SUMO article explaining how to update the browser
 quickactions-update = Perbarui { -brand-short-name }
