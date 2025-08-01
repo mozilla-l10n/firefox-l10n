@@ -139,17 +139,45 @@ briefcase-avatar-alt =
 # Canvas refers to an artist's painting canvas, not the general material
 canvas-avatar-alt =
     .alt = Canvas
+# Craft refers to hobby arts and crafts, represented by a button/fastener commonly found on clothing like shirts
+craft-avatar-alt =
+    .alt = Řemeslo
 flower-avatar-alt =
     .alt = Květina
 folder-avatar-alt =
     .alt = Složka
+hammer-avatar-alt =
+    .alt = Kladivo
 heart-avatar-alt =
     .alt = Srdce
+heart-rate-avatar-alt =
+    .alt = Srdeční frekvence
+history-avatar-alt =
+    .alt = Historie
+leaf-avatar-alt =
+    .alt = List
+lightbulb-avatar-alt =
+    .alt = Žárovka
+makeup-avatar-alt =
+    .alt = Líčení
 # Message refers to a text message, not a traditional letter/envelope message
 message-avatar-alt =
     .alt = Zpráva
+musical-note-avatar-alt =
+    .alt = Hudební nota
+palette-avatar-alt =
+    .alt = Paleta
+paw-print-avatar-alt =
+    .alt = Otisk tlapky
+plane-avatar-alt =
+    .alt = Letadlo
+# Present refers to a gift box, not the current time period
+present-avatar-alt =
+    .alt = Dárek
 shopping-avatar-alt =
     .alt = Nákupní košík
+soccer-avatar-alt =
+    .alt = Fotbal
 star-avatar-alt =
     .alt = Hvězdička
 custom-avatar-alt =
