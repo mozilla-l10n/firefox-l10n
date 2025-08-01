@@ -45,6 +45,8 @@ avatar-selector-save-button =
     .label = Shrani
 avatar-selector-upload-file = Naloži datoteko
 avatar-selector-drag-file = Ali povlecite datoteko sem
+avatar-selector-add-image = Dodaj sliko
+avatar-selector-crop = Obreži
 edit-profile-page-no-name = Nadenite profilu ime, s katerim ga boste lažje našli. Kadarkoli ga lahko preimenujete.
 edit-profile-page-duplicate-name = Ime profila se že uporablja. Poskusite z drugačnim imenom.
 edit-profile-page-profile-saved = Shranjeno
@@ -114,21 +116,69 @@ book-avatar-alt =
     .alt = Knjiga
 briefcase-avatar-alt =
     .alt = Aktovka
+# Canvas refers to an artist's painting canvas, not the general material
+canvas-avatar-alt =
+    .alt = Platno
 flower-avatar-alt =
     .alt = Cvet
+folder-avatar-alt =
+    .alt = Mapa
+hammer-avatar-alt =
+    .alt = Kladivo
 heart-avatar-alt =
     .alt = Srce
+heart-rate-avatar-alt =
+    .alt = Srčni utrip
+history-avatar-alt =
+    .alt = Zgodovina
+leaf-avatar-alt =
+    .alt = List
+lightbulb-avatar-alt =
+    .alt = Žarnica
+# Message refers to a text message, not a traditional letter/envelope message
+message-avatar-alt =
+    .alt = Sporočilo
+musical-note-avatar-alt =
+    .alt = Nota
+palette-avatar-alt =
+    .alt = Paleta
+paw-print-avatar-alt =
+    .alt = Odtis tace
+plane-avatar-alt =
+    .alt = Letalo
+# Present refers to a gift box, not the current time period
+present-avatar-alt =
+    .alt = Darilo
 shopping-avatar-alt =
     .alt = Nakupovalni voziček
+soccer-avatar-alt =
+    .alt = Nogomet
+sparkle-single-avatar-alt =
+    .alt = Iskra
 star-avatar-alt =
     .alt = Zvezdica
+video-game-controller-avatar-alt =
+    .alt = Krmilnik za videoigre
 custom-avatar-alt =
     .alt = Slika profila po meri
+# Default favicon refers to the generic globe/world icon that appears in browser tabs when a website doesn't have its own favicon.
+default-favicon-avatar-alt =
+    .alt = Privzeta ikona
+# Diamond refers to the precious stone, not the geometric shape
+diamond-avatar-alt =
+    .alt = Diamant
+barbell-avatar-alt =
+    .alt = Uteži
+bike-avatar-alt =
+    .alt = Kolo
 
 ## Labels for default avatar icons
 
 book-avatar = Knjiga
 briefcase-avatar = Aktovka
+# Canvas refers to an artist's painting canvas, not the general material
+canvas-avatar = Platno
+custom-avatar = Slika po meri
 flower-avatar = Cvet
 heart-avatar = Srce
 shopping-avatar = Nakupovalni voziček

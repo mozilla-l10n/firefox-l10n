@@ -349,3 +349,16 @@ multi-cta-fox-doodle-privacy-focused-subtitle =
        *[other] Naj bo vaš najljubši brskalnik, osredotočen na zasebnost, oddaljen le en klik. Nastavite { -brand-short-name } kot privzet brskalnik za odpiranje povezav ter ga pripnite v opravilno vrstico.
     }
 multi-cta-fox-doodle-msix-privacy-focused-subtitle = Naj bo vaš najljubši brskalnik, osredotočen na zasebnost, oddaljen le en klik. Nastavite { -brand-short-name } kot privzet brskalnik za odpiranje povezav ter ga pripnite v opravilno vrstico in v meni Start.
+
+## Windows 10 EoS Sync messages group 1 spotlight
+
+windows-10-eos-sync-spotlight-title = Nameravate kmalu nadgraditi z Windows 10?
+windows-10-eos-sync-spotlight-subtitle = Varnostno kopirajte gesla in zaznamke, da boste pripravljeni na preskok na katerokoli napravo.
+windows-10-eos-sync-spotlight-primary-label = Varnostno kopirajte { -brand-short-name(sklon: "tozilnik") }
+
+## Windows 10 EoS Sync messages group 1 toast notification
+
+windows-10-eos-sync-toast-title = Nadgrajujete na Windows 11? Ne izgubite zaznamkov in gesel.
+windows-10-eos-sync-toast-subtitle = Varnostno kopirajte svoje podatke in pripravite { -brand-short-name(sklon: "tozilnik") } za uporabo na tem računalniku ali na bodočem.
+windows-10-eos-sync-toast-primary-label = Začni
+windows-10-eos-sync-toast-secondary-label = Opomni me pozneje

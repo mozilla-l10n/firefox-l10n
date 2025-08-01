@@ -207,6 +207,9 @@ urlbar-result-menu-show-less-frequently =
     .label = Prikazuj manj pogosto
 urlbar-result-menu-dont-show-weather-suggestions =
     .label = Ne prikazuj podatkov o vremenu
+# Used for Split Button.
+urlbar-splitbutton-dropmarker =
+    .title = Odpri meni
 # A message shown in the urlbar when the user submits feedback on a suggestion
 # (e.g., it shows an inaccurate location, it's shown too often, etc.).
 urlbar-feedback-acknowledgment = Hvala za vaše mnenje
@@ -834,6 +837,8 @@ urlbar-searchmode-default =
 urlbar-searchmode-popup-description = Tokrat išči z iskalnikom:
 urlbar-searchmode-popup-search-settings-menuitem =
     .label = Nastavitve iskanja
+# Label shown next to a new search engine in the Searchmode Switcher popup to promote it.
+urlbar-searchmode-new = Novo
 # Searchmode Switcher button
 # Variables:
 #   $engine (String): the current default search engine.
@@ -1161,6 +1166,10 @@ tabs-toolbar-list-all-tabs =
     .label = Seznam vseh zavihkov
     .tooltiptext = Seznam vseh zavihkov
 
+## Drop indicator text for pinned tabs when no tabs are pinned.
+
+pinned-tabs-drop-indicator = Povlecite zavihek sem, da ga pripnete
+
 ## Infobar shown at startup to suggest session-restore
 
 # <img data-l10n-name="icon"/> will be replaced by the application menu icon
@@ -1339,3 +1348,60 @@ onboarding-checklist-button-label = Dokončaj nastavitev
 onboarding-aw-finish-setup-button =
     .label = Dokončaj nastavitev
     .tooltiptext = Dokončaj nastavitev { -brand-short-name(sklon: "rodilnik") }
+
+## The urlbar trust panel
+
+trustpanel-etp-label-enabled = Izboljšana zaščita pred sledenjem je vključena
+trustpanel-etp-label-disabled = Izboljšana zaščita pred sledenjem je izključena
+# Variables
+#  $host (String): the hostname of the site that is being displayed.
+trustpanel-etp-toggle-on =
+    .aria-label = Izboljšana zaščita pred sledenjem: vključena za { $host }
+# Variables
+#  $host (String): the hostname of the site that is being displayed.
+trustpanel-etp-toggle-off =
+    .aria-label = Izboljšana zaščita pred sledenjem: izključena za { $host }
+trustpanel-etp-description-enabled = Če je videti, da spletno mesto ne deluje pravilno, poskusite izklopiti zaščite.
+trustpanel-etp-description-disabled = { -brand-product-name } meni, da bi vam podjetja morala manj slediti. Ko vklopite zaščito, blokiramo toliko sledilcev, kolikor lahko.
+trustpanel-connection-label-secure = Povezava varna
+trustpanel-connection-label-insecure = Povezava ni varna
+trustpanel-header-enabled = { -brand-product-name } je na straži
+trustpanel-description-enabled = Zaščiteni ste. Če kaj opazimo, vas obvestimo
+trustpanel-header-disabled = Zaščito ste izključili
+trustpanel-clear-cookies-button = Počisti piškotke in podatke strani
+trustpanel-privacy-link = Nastavitve zasebnosti
+# Variables
+#  $host (String): the hostname of the site that is being displayed.
+trustpanel-clear-cookies-header =
+    .title = Počisti piškotke in podatke spletnega mesta { $host }
+trustpanel-clear-cookies-description = Izbris piškotkov in podatkov strani vas lahko odjavi iz spletnih strani in izprazni nakupovalne košarice.
+trustpanel-clear-cookies-subview-button-clear = Počisti
+trustpanel-clear-cookies-subview-button-cancel = Prekliči
+# Variables
+#  $host (String): the hostname of the site that is being displayed.
+trustpanel-site-information-header =
+    .title = Zaščite povezave za { $host }
+trustpanel-connection-secure = Varno ste povezani na to spletno mesto.
+trustpanel-connection-not-secure = Niste varno povezani na to spletno mesto.
+trustpanel-siteinformation-morelink = Več podatkov o strani
+trustpanel-blocker-see-all = Prikaži vse
+# Variables
+#  $host (String): the hostname of the site that is being displayed.
+trustpanel-blocker-header =
+    .title = Zaščite pred sledenjem za { $host }
+
+## Variables
+##  $count (String): the number of trackers blocked.
+
+trustpanel-blocker-section-header =
+    { $count ->
+        [one] <span>{ $count }</span> blokiran sledilec na tem spletnem mestu
+        [two] <span>{ $count }</span> blokirana sledilca na tem spletnem mestu
+        [few] <span>{ $count }</span> blokirani sledilci na tem spletnem mestu
+       *[other] <span>{ $count }</span> blokiranih sledilcev na tem spletnem mestu
+    }
+trustpanel-blocker-description = { -brand-product-name } meni, da bi vam podjetja morala manj slediti – zato blokiramo toliko sledilcev, kolikor lahko.
+trustpanel-blocked-header = { -brand-product-name } je za vas blokiral naslednje:
+trustpanel-tracking-header = Da se stran ne bi pokvarila, je { -brand-product-name } dovolil naslednje:
+trustpanel-tracking-description = Brez sledilcev morda nekateri gumbi, obrazci in prijavna polja ne bodo delovali.
+trustpanel-insecure-section-header = Vaša povezava ni varna

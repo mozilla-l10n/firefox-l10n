@@ -168,6 +168,26 @@ permissions-site-camera-disable-label =
     .label = Nije fersiken om tagong ta jo kamera blokkearje
 permissions-site-camera-disable-desc = Dit soarget derfoar dat websites dy’t hjirboppe net fermeld wurde om tastimming foar tagong ta jo kamera freegje. It blokkearjen fan tagong ta jo kamera kin bepaalde funksjes fan websites fersteure.
 
+## Site Permissions - Local host
+
+permissions-site-localhost-window =
+    .title = Ynstellingen - Apparaatapps en -services
+    .style = { permissions-window2.style }
+permissions-site-localhost-desc = Dizze websites hawwe op dit apparaat tagong ta apps en services frege. Jo kinne kieze om dit foar websites ta te stean of te blokkearjen.
+permissions-site-localhost-disable-label =
+    .label = Nije oanfragen foar tagong ta apps en services op dit apparaat blokkearje
+permissions-site-localhost-disable-desc = Dit foarkomt dat websites, dy’t hjirboppe net fermeld wurde, om tagong ta apps en services op dit apparaat freegje. As jo dit dogge, kinne guon websitefunksjes net wurkje.
+
+## Site Permissions - Local network
+
+permissions-site-local-network-window =
+    .title = Ynstellingen - Lokale netwurkapparaten
+    .style = { permissions-window2.style }
+permissions-site-local-network-desc = Dizze websites hawwe om tagong frege ta apps en services op apparaten dy’t ferbûn binne mei jo wifi- of lokale netwurk. Jo kinne derfoar kieze om dit foar websites ta te stean of te blokkearjen.
+permissions-site-local-network-disable-label =
+    .label = Nije fersiken foar tagong ta apps en services blokkearje op apparaten dy’t ferbûn binne mei jo wifi- of lokale netwurk.
+permissions-site-local-network-disable-desc = Dit foarkomt dat websites, dy’t hjirboppe net fermeld wurde, om tagong ta apps en services freegje op apparaten dy’t ferbûn binne mei jo wifi- of lokale netwurk. As jo dit dogge, kinne guon websitefunksjes net wurkje.
+
 ## Site Permissions - Microphone
 
 permissions-site-microphone-window2 =

@@ -289,6 +289,8 @@ tab-group-editor-color-selector2-gray = Siva
 tab-group-editor-color-selector2-red = Rdeča
     .title = Rdeča
 tab-group-description = { $tabGroupName } – Skupina zavihkov
+tab-group-label-tooltip-collapsed = { $tabGroupName } – strnjena
+tab-group-label-tooltip-expanded = { $tabGroupName } – razširjena
 tab-context-unnamed-group =
     .label = Neimenovana skupina
 tab-group-name-default = Neimenovana skupina
@@ -341,6 +343,18 @@ tab-context-ungroup-tab =
            *[other] Odstrani iz skupin
         }
     .accesskey = O
+# When a tab group containing the active tab is collapsed, the active tab
+# remains visible. An indicator appears at the end of the group showing the
+# number of remaining tabs that are hidden by the collapsed group,
+# e.g. "+2" for a group with 3 total tabs.
+tab-group-overflow-count = + { $tabCount }
+tab-group-overflow-count-tooltip =
+    { $tabCount ->
+        [one] Še { $tabCount } zavihek
+        [two] Še { $tabCount } zavihka
+        [few] Še { $tabCount } zavihki
+       *[other] Še { $tabCount } zavihkov
+    }
 
 ## Open/saved tab group context menu
 
