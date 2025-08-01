@@ -116,6 +116,12 @@ book-avatar-alt =
     .alt = Libro
 briefcase-avatar-alt =
     .alt = Maletín
+# Canvas refers to an artist's painting canvas, not the general material
+canvas-avatar-alt =
+    .alt = Canvas
+# Craft refers to hobby arts and crafts, represented by a button/fastener commonly found on clothing like shirts
+craft-avatar-alt =
+    .alt = Artesanía
 flower-avatar-alt =
     .alt = Flor
 folder-avatar-alt =
@@ -143,6 +149,8 @@ palette-avatar-alt =
     .alt = Paleta
 paw-print-avatar-alt =
     .alt = Huella
+plane-avatar-alt =
+    .alt = Avión
 # Present refers to a gift box, not the current time period
 present-avatar-alt =
     .alt = Regalo
@@ -150,6 +158,8 @@ shopping-avatar-alt =
     .alt = Carrito de compras
 soccer-avatar-alt =
     .alt = Fútbol
+sparkle-single-avatar-alt =
+    .alt = Destello
 star-avatar-alt =
     .alt = Estrella
 video-game-controller-avatar-alt =
@@ -162,6 +172,8 @@ default-favicon-avatar-alt =
 # Diamond refers to the precious stone, not the geometric shape
 diamond-avatar-alt =
     .alt = Diamante
+barbell-avatar-alt =
+    .alt = Barra con pesas
 bike-avatar-alt =
     .alt = Bicicleta
 
@@ -169,6 +181,10 @@ bike-avatar-alt =
 
 book-avatar = Libro
 briefcase-avatar = Maletín
+# Canvas refers to an artist's painting canvas, not the general material
+canvas-avatar = Canvas
+# Craft refers to hobby arts and crafts, represented by a button/fastener commonly found on clothing like shirts
+craft-avatar = Artesanía
 custom-avatar = Avatar personalizado
 # Default favicon refers to the generic globe/world icon that appears in browser tabs when a website doesn't have its own favicon.
 default-favicon-avatar = Favicon predeterminado
@@ -188,14 +204,21 @@ message-avatar = Mensaje
 musical-note-avatar = Nota musical
 palette-avatar = Paleta
 paw-print-avatar = Huella
+plane-avatar = Avión
 # Present refers to a gift box, not the current time period
 present-avatar = Regalo
 shopping-avatar = Carrito de compras
 soccer-avatar = Fútbol
+sparkle-single-avatar = Destello
 star-avatar = Estrella
 video-game-controller-avatar = Controlador de videojuegos
+custom-avatar-crop-back-button =
+    .aria-label = Atrás
+custom-avatar-crop-view =
+    .aria-label = Recortar la vista de la imagen
 custom-avatar-crop-area =
     .aria-label = Ajustar área de recorte
 custom-avatar-drag-handle =
     .aria-label = Redimensionar área de recorte
+barbell-avatar = Barra con pesas
 bike-avatar = Bicicleta

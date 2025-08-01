@@ -551,6 +551,7 @@ newtab-custom-wallpaper-cta = Pruébelo
 
 ## Strings for new user activation custom wallpaper highlight
 
+newtab-new-user-custom-wallpaper-title = Elegí un fondo de pantalla para hacer { -brand-product-name } tuyo.
 newtab-new-user-custom-wallpaper-subtitle = Haga que cada nueva pestaña se sienta como en casa con fondos de pantalla y colores personalizados.
 newtab-new-user-custom-wallpaper-cta = Probar ahora
 
