@@ -168,6 +168,26 @@ permissions-site-camera-disable-label =
     .label = Nieuwe verzoeken om toegang tot uw camera blokkeren
 permissions-site-camera-disable-desc = Dit voorkomt dat websites die hierboven niet worden vermeld om toestemming voor toegang tot uw camera vragen. Het blokkeren van toegang tot uw camera kan bepaalde functies van websites verstoren.
 
+## Site Permissions - Local host
+
+permissions-site-localhost-window =
+    .title = Instellingen - Apparaatapps en -services
+    .style = { permissions-window2.style }
+permissions-site-localhost-desc = Deze websites hebben op dit apparaat toegang tot apps en services gevraagd. U kunt kiezen om dit voor websites toe te staan of te blokkeren.
+permissions-site-localhost-disable-label =
+    .label = Nieuwe aanvragen voor toegang tot apps en services op dit apparaat blokkeren
+permissions-site-localhost-disable-desc = Dit voorkomt dat websites, die hierboven niet worden vermeld, om toegang tot apps en services op dit apparaat vragen. Als u dit doet, kunnen sommige websitefuncties niet werken.
+
+## Site Permissions - Local network
+
+permissions-site-local-network-window =
+    .title = Instellingen - Lokale netwerkapparaten
+    .style = { permissions-window2.style }
+permissions-site-local-network-desc = Deze websites hebben om toegang gevraagd tot apps en services op apparaten die zijn verbonden met uw wifi- of lokale netwerk. U kunt ervoor kiezen om dit voor websites toe te staan of te blokkeren.
+permissions-site-local-network-disable-label =
+    .label = Nieuwe verzoeken voor toegang tot apps en services blokkeren op apparaten die zijn verbonden met uw wifi- of lokale netwerk.
+permissions-site-local-network-disable-desc = Dit voorkomt dat websites, die hierboven niet worden vermeld, om toegang tot apps en services vragen op apparaten die zijn verbonden met uw wifi- of lokale netwerk. Als u dit doet, kunnen sommige websitefuncties niet werken.
+
 ## Site Permissions - Microphone
 
 permissions-site-microphone-window2 =

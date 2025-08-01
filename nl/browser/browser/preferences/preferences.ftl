@@ -1333,6 +1333,7 @@ permissions-location = Locatie
 permissions-location-settings =
     .label = Instellingen…
     .accesskey = t
+permissions-localhost = Apparaatapps en -services
 permissions-localhost-settings =
     .label = Instellingen…
     .accesskey = t
