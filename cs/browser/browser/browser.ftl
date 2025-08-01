@@ -1491,7 +1491,21 @@ onboarding-aw-finish-setup-button =
 
 trustpanel-etp-label-enabled = Rozšířená ochrana proti sledování je zapnuta
 trustpanel-etp-label-disabled = Rozšířená ochrana proti sledování je vypnuta
+trustpanel-connection-label-secure = Zabezpečené spojení
+trustpanel-connection-label-insecure = Spojení není zabezpečené
+trustpanel-header-disabled = Vypnuli jste ochranu
+trustpanel-clear-cookies-button = Vymazat cookies a uložená data
+trustpanel-privacy-link = Nastavení soukromí
 trustpanel-clear-cookies-subview-button-clear = Vymazat
 trustpanel-clear-cookies-subview-button-cancel = Zrušit
+trustpanel-connection-secure = Spojení s tímto serverem je zabezpečené.
+trustpanel-connection-not-secure = Spojení s tímto serverem není zabezpečené.
 trustpanel-siteinformation-morelink = Více informací o webu
 trustpanel-blocker-see-all = Zobrazit vše
+
+## Variables
+##  $count (String): the number of trackers blocked.
+
+trustpanel-tracking-description = Bez sledovacích prvků nemusí některá tlačítka, formuláře a přihlašovací údaje správně fungovat.
+trustpanel-insecure-section-header = Vaše připojení není zabezpečené
+trustpanel-list-label-tracking-content = Sledující obsah
