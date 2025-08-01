@@ -1509,3 +1509,5 @@ trustpanel-blocker-see-all = Zobrazit vše
 trustpanel-tracking-description = Bez sledovacích prvků nemusí některá tlačítka, formuláře a přihlašovací údaje správně fungovat.
 trustpanel-insecure-section-header = Vaše připojení není zabezpečené
 trustpanel-list-label-tracking-content = Sledující obsah
+trustpanel-tracking-cookies-tab-list-header = Tyto stránky se vás snaží sledovat:
+trustpanel-tracking-content-tab-list-header = Tyto stránky se vás snaží sledovat:

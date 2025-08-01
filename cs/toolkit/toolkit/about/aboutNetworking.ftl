@@ -39,6 +39,7 @@ about-networking-dns-lookup = Vyhledávání v DNS
 about-networking-dns-lookup-button = Přeložit
 about-networking-dns-domain = Doména:
 about-networking-dns-lookup-table-column = IP adresy
+about-networking-dns-https-rrs-lookup-table-column = HTTPS RR
 about-networking-dns-https-rr-lookup-table-column = RR HTTP
 about-networking-rcwn = Statistiky RCWN
 about-networking-rcwn-status = Stav RCWN
