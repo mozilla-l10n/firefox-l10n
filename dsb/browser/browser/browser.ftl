@@ -1415,6 +1415,13 @@ trustpanel-tracking-header = { -brand-product-name } jo dowólił toś te wěcy,
 trustpanel-tracking-description = Někotare tłocaški, formulary a pśizjawjeńske póla njamógli bźez pśeslědowakow funkcioněrowaś.
 trustpanel-insecure-section-header = Waš zwisk njejo wěsty
 trustpanel-insecure-description = Daty, kótarež na toś to sedło sćelośo, njejsu skoděrowane. Daju se woglědaś, kšadnuś abo změniś.
+trustpanel-list-label-tracking-cookies =
+    { $count ->
+        [one] { $count } sedła pśesegajucy slědujucy cookie
+        [two] { $count } sedła pśesegajucej slědujucej cookieja
+        [few] { $count } sedła pśesegajuce slědujuce cookieje
+       *[other] { $count } sedła pśesegajuce slědujuce cookieje
+    }
 trustpanel-list-label-tracking-content = Slědujuce wopśimjeśe
 trustpanel-list-label-fingerprinter =
     { $count ->
@@ -1452,6 +1459,13 @@ trustpanel-social-tracking-not-blocking-tab-header =
        *[other] { -brand-product-name } jo dowólił { $count } pśeslědowaki socialnych medijow
     }
 trustpanel-social-tracking-tab-list-header = Toś te sedła wopytuju wam slědowaś:
+trustpanel-tracking-cookies-blocking-tab-header =
+    { $count ->
+        [one] { -brand-product-name } jo blokěrował { $count } sedła pśesegajucy slědujucy cookie
+        [two] { -brand-product-name } jo blokěrował { $count } sedła pśesegajucej slědujucej cookieja
+        [few] { -brand-product-name } jo blokěrował { $count } sedła pśesegajuce slědujuce cookieje
+       *[other] { -brand-product-name } jo blokěrował { $count } sedła pśesegajuce slědujuce cookieje
+    }
 trustpanel-tracking-cookies-tab-list-header = Toś te sedła wopytuju wam slědowaś:
 trustpanel-tracking-content-blocking-tab-header =
     { $count ->
