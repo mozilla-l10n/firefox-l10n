@@ -534,6 +534,7 @@ pdfjs-editor-highlight-added-alert = Přidáno zvýraznění
 pdfjs-editor-freetext-added-alert = Text přidán
 pdfjs-editor-ink-added-alert = Kresba byla přidána
 pdfjs-editor-stamp-added-alert = Obrázek byl přidán
+pdfjs-editor-signature-added-alert = Byl přidán podpis
 
 ## "Annotations removed" bar
 
