@@ -183,6 +183,10 @@ permissions-site-localhost-disable-desc = Tím se zabrání tomu, aby všechny w
 permissions-site-local-network-window =
     .title = Nastavení - Zařízení v místní síti
     .style = { permissions-window2.style }
+permissions-site-local-network-desc = Tyto servery požádaly o přístup k aplikacím a službám na zařízeních připojených k vaší Wi-Fi nebo místní síti. Toto můžete stránkám povolit nebo zakázat.
+permissions-site-local-network-disable-label =
+    .label = Blokovat nové žádosti o přístup k aplikacím a službám na zařízeních připojených k vaší Wi-Fi nebo místní síti.
+permissions-site-local-network-disable-desc = Tímto zabráníte jakékoli webové stránce, která není uvedena výše, v žádosti o přístup k aplikacím a službám na zařízeních připojených k vaší Wi-Fi nebo místní síti. Tento krok může vést k nefunkčnosti některých funkcí webových stránek.
 
 ## Site Permissions - Microphone
 
