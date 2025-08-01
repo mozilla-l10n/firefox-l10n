@@ -291,6 +291,7 @@ quickactions-update = ອັບເດດ { -brand-short-name }
 quickactions-cmd-update = ອັບເດດ
 # Opens the view-source UI with current pages source
 quickactions-viewsource2 = ເບິງແຫລ່ງຂໍ້ມູນຂອງຫນ້ານີ້
+quickactions-cmd-viewsource2 = ເບິ່ງແຫຼ່ງ, ແຫຼ່ງ, ແຫຼ່ງຫນ້າ
 quickactions-cmd-viewsource = ເບິ່ງຕົ້ນສະບັບ, ຕົ້ນສະບັບ
 # Tooltip text for the help button shown in the result.
 quickactions-learn-more =
@@ -1046,6 +1047,10 @@ file-picker-crashed-show-in-folder =
 
 ## The urlbar trust panel
 
+# Variables
+#  $host (String): the hostname of the site that is being displayed.
+trustpanel-etp-toggle-off =
+    .aria-label = ການປົກປ້ອງການຕິດຕາມທີ່ປັບປຸງແລ້ວ: ປິດສຳລັບ { $host }
 trustpanel-connection-label-secure = ການເຊື່ອມຕໍ່ແມ່ນປອດໄພ
 trustpanel-connection-label-insecure = ການເຊື່ອມຕໍ່ບໍ່ປອດໄພ
 trustpanel-clear-cookies-subview-button-clear = ລົບລ້າງ
