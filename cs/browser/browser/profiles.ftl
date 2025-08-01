@@ -180,15 +180,54 @@ soccer-avatar-alt =
     .alt = Fotbal
 star-avatar-alt =
     .alt = Hvězdička
+video-game-controller-avatar-alt =
+    .alt = Ovladač pro videohry
 custom-avatar-alt =
     .alt = Vlastní avatar
+# Default favicon refers to the generic globe/world icon that appears in browser tabs when a website doesn't have its own favicon.
+default-favicon-avatar-alt =
+    .alt = Výchozí ikona stránky
+# Diamond refers to the precious stone, not the geometric shape
+diamond-avatar-alt =
+    .alt = Diamant
+barbell-avatar-alt =
+    .alt = Činka
+bike-avatar-alt =
+    .alt = Kolo
 
 ## Labels for default avatar icons
 
 book-avatar = Kniha
 briefcase-avatar = Kufřík
+# Canvas refers to an artist's painting canvas, not the general material
+canvas-avatar = Plátno
+# Craft refers to hobby arts and crafts, represented by a button/fastener commonly found on clothing like shirts
+craft-avatar = Řemeslo
+custom-avatar = Vlastní avatar
+# Default favicon refers to the generic globe/world icon that appears in browser tabs when a website doesn't have its own favicon.
+default-favicon-avatar = Výchozí ikona stránky
+# Diamond refers to the precious stone, not the geometric shape
+diamond-avatar = Diamant
 flower-avatar = Květina
 folder-avatar = Složka
+hammer-avatar = Kladivo
 heart-avatar = Srdce
+heart-rate-avatar = Srdeční frekvence
+history-avatar = Historie
+leaf-avatar = List
+lightbulb-avatar = Žárovka
+makeup-avatar = Líčení
+# Message refers to a text message, not a traditional letter/envelope message
+message-avatar = Zpráva
+musical-note-avatar = Hudební nota
+palette-avatar = Paleta
+paw-print-avatar = Otisk tlapky
+plane-avatar = Letadlo
+# Present refers to a gift box, not the current time period
+present-avatar = Dárek
 shopping-avatar = Nákupní košík
+soccer-avatar = Fotbal
 star-avatar = Hvězdička
+video-game-controller-avatar = Ovladač pro videohry
+barbell-avatar = Činka
+bike-avatar = Kolo
