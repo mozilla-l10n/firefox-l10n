@@ -342,3 +342,16 @@ multi-cta-fox-doodle-privacy-focused-subtitle =
        *[other] ਆਪਣੇ ਮਨਪਸੰਦ ਪਰਦੇਦਾਰੀ ਨੂੰ ਪਹਿਲ ਦੇਣ ਵਾਲੇ ਬਰਾਊਜ਼ਰ ਨੂੰ ਇੱਕ ਕਲਿੱਕ ਦੀ ਪਹੁੰਚ ਵਿੱਚ ਰੱਖੋ। ਲਿੰਕਾਂ ਨੂੰ ਖੋਲ੍ਹਣ ਲਈ { -brand-short-name } ਨੂੰ ਆਪਣਾ ਮੂਲ ਬਰਾਊਜ਼ਰ ਬਣਾਓ ਅਤੇ ਇਸ ਨੂੰ ਆਪਣੀ ਟਾਸਕ-ਬਾਰ ਵਿੱਚ ਟੰਗੋ।
     }
 multi-cta-fox-doodle-msix-privacy-focused-subtitle = ਆਪਣੇ ਮਨਪਸੰਦ ਪਰਦੇਦਾਰੀ ਨੂੰ ਪਹਿਲ ਦੇਣ ਵਾਲੇ ਬਰਾਊਜ਼ਰ ਨੂੰ ਇੱਕ ਕਲਿੱਕ ਦੀ ਪਹੁੰਚ ਵਿੱਚ ਰੱਖੋ। ਲਿੰਕਾਂ ਨੂੰ ਖੋਲ੍ਹਣ ਲਈ { -brand-short-name } ਨੂੰ ਆਪਣਾ ਮੂਲ ਬਰਾਊਜ਼ਰ ਬਣਾਓ ਅਤੇ ਇਸ ਨੂੰ ਆਪਣੀ ਟਾਸਕ-ਬਾਰ ਤੇ ਸਟਾਰਟ ਮੇਨੂ ਵਿੱਚ ਟੰਗੋ।
+
+## Windows 10 EoS Sync messages group 1 spotlight
+
+windows-10-eos-sync-spotlight-title = ਛੇਤੀ ਹੀ Windows 10 ਤੋਂ ਅੱਪਗਰੇਡ ਕਰਨ ਜਾ ਰਹੇ ਹੋ?
+windows-10-eos-sync-spotlight-subtitle = ਕਿਸੇ ਵੀ ਹੋਰ ਡਿਵਾਈਸ ਉੱਤੇ ਜਾਣ ਲਈ ਤਿਆਰ ਵਾਸਤੇ ਆਪਣੇ ਪਾਸਵਰਡਾਂ ਅਤੇ ਬੁੱਕਮਾਰਕਾਂ ਦਾ ਬੈਕਅੱਪ ਲੈ ਲਿਓ।
+windows-10-eos-sync-spotlight-primary-label = ਆਪਣੇ { -brand-short-name } ਦਾ ਬੈਕਅੱਪ ਲਵੋ
+
+## Windows 10 EoS Sync messages group 1 toast notification
+
+windows-10-eos-sync-toast-title = Windows 11 ਲਈ ਅੱਪਗਰੇਡ ਕਰ ਰਹੇ ਹੋ? ਬੁੱਕਮਾਰਕ ਅਤੇ ਪਾਸਵਰਡਾਂ ਨੂੰ ਨਾ ਗੁਆਇਓ।
+windows-10-eos-sync-toast-subtitle = ਆਪਣੇ ਡਾਟਾ ਦੇ ਬੈਕਅੱਪ ਲੈ ਲਿਓ ਤਾਂ ਕਿ { -brand-short-name } ਕਿਸੇ ਵੀ ਵੇਲੇ ਤੁਹਾਡੇ ਇਸ ਕੰਪਿਊਟਰ ਅਤੇ ਨਵੇਂ ਉੱਤੇ ਬਦਲਣ ਲਈ ਤਿਆਰ ਹੋਵੇ।
+windows-10-eos-sync-toast-primary-label = ਸ਼ੁਰੂ ਕਰੀਏ
+windows-10-eos-sync-toast-secondary-label = ਮੈਨੂੰ ਬਾਅਦ ਵਿੱਚ ਚੇਤੇ ਕਰਵਾਓ

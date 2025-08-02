@@ -168,6 +168,18 @@ permissions-site-camera-disable-label =
     .label = ਤੁਹਾਡੇ ਕੈਮਰੇ ਲਈ ਪਹੁੰਚ ਲਈ ਪੁੱਛਣ ਦੀਆਂ ਨਵੀਆਂ ਬੇਨਤੀਆਂ ਉੱਤੇ ਰੋਕ ਲਗਾਓ
 permissions-site-camera-disable-desc = ਇਹ ਉੱਤੇ ਸੂਚੀਬੱਧ ਨਾ ਹੋਣ ਵਾਲੀਆਂ ਕਿਸੇ ਵੀ ਵੈਬਸਾਈਟ ਨੂੰ ਤੁਹਾਡੇ ਕੈਮਰੇ ਦੀ ਵਰਤੋਂ ਕਰਨ ਦੀ ਇਜਾਜ਼ਤ ਦੀ ਬੇਨਤੀ ਕਰਨ ਤੋਂ ਰੋਕੇਗਾ। ਤੁਹਾਡੇ ਕੈਮਰੇ ਤੱਕ ਪਹੁੰਚ ਉੱਤੇ ਪਾਬੰਦੀ ਲਾਉਣ ਲਈ ਕੁਝ ਵੈਬਸਾਈਟ ਫੀਚਰ ਠੀਕ ਤਰ੍ਹਾਂ ਕੰਮ ਨਹੀਂ ਕਰ ਸਕਦੇ ਹਨ।
 
+## Site Permissions - Local host
+
+permissions-site-localhost-window =
+    .title = ਸੈਟਿੰਗਾਂ - ਡਿਵਾਈਸ ਐਪਾਂ ਅਤੇ ਸੇਵਾਵਾਂ
+    .style = { permissions-window2.style }
+
+## Site Permissions - Local network
+
+permissions-site-local-network-window =
+    .title = ਸੈਟਿੰਗਾਂ - ਲੋਕਲ ਨੈੱਟਵਰਕ ਡਿਵਾਈਸ
+    .style = { permissions-window2.style }
+
 ## Site Permissions - Microphone
 
 permissions-site-microphone-window2 =

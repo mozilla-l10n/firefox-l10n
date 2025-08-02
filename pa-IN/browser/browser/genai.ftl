@@ -93,6 +93,16 @@ genai-menu-no-provider =
     .label = AI ਚੈਟ-ਬੋਟ ਨੂੰ ਪੁੱਛੋ
 genai-menu-choose-chatbot =
     .label = ਕਿਸੇ AI ਚੈਟ-ਬੋਟ ਨੂੰ ਚੁਣੋ
+genai-menu-ask-generic-2 =
+    .label = AI ਚੈਟ-ਬੋਟ ਨੂੰ ਪੁੱਛੋ
+    .accesskey = h
+# $provider (string) - name of the provider
+genai-menu-ask-provider-2 =
+    .label = { $provider } ਨੂੰ ਪੁੱਛੋ
+    .accesskey = h
+genai-menu-no-provider-2 =
+    .label = ਕਿਸੇ AI ਚੈਟ-ਬੋਟ ਨੂੰ ਪੁੱਛੋ
+    .accesskey = h
 
 ## Chatbot header
 
@@ -157,6 +167,13 @@ genai-chatbot-contextual-subtitle = ਜਦੋਂ ਤੁਸੀਂ { -brand-short-
 genai-chatbot-contextual-button = ਕਿਸੇ ਚੈਟ-ਬੋਟ ਨੂੰ ਚੁਣੋ
 genai-chatbot-summarize-title = ਨਵਾਂ! ਇੱਕ ਕਲਿੱਕ ਨਾਲ ਸਫ਼ੇ ਦਾ ਸਾਰ ਲਵੋ
 genai-chatbot-summarize-button = ਸਫ਼ੇ ਦਾ ਸਾਰ
+# “Summarize Page” should be consistent with the translation for the string genai-menu-summarize-page
+genai-chatbot-summarize-sidebar-provider-subtitle = ਬਾਹੀ ਵਿੱਚ ਆਪਣੇ AI ਚੈਟ-ਬੋਟ ਉੱਤੇ ਸੱਜਾ ਕਲਿੱਕ ਕਰੋ ਅਤੇ "ਸਫ਼ੇ ਦਾ ਸਾਰ ਦਿਓ" ਨੂੰ ਚੁਣੋ।
+# “Summarize Page” should be consistent with the translation for the string genai-menu-summarize-page
+genai-chatbot-summarize-sidebar-generic-subtitle = ਬਾਹੀ ਵਿੱਚ ਚਮਕਦੇ ਬਟਨ ਉੱਤੇ ਸੱਜਾ ਕਲਿੱਕ ਕਰੋ ਅਤੇ "ਸਫ਼ੇ ਦਾ ਸਾਰ ਦਿਓ" ਨੂੰ ਚੁਣੋ। ਪਹਿਲੀ ਵਾਰ ਤੁਹਾਨੂੰ ਕਿਸੇ AI ਚੈਟ-ਬੋਟ ਵੀ ਨੂੰ ਚੁਣਨਾ ਪਵੇਗਾ।
+# “Summarize page” should be consistent with the translation for the string genai-page-button-summarize
+genai-chatbot-summarize-footer-provider-subtitle = ਬਾਹੀ ਵਿੱਚ ਆਪਣੇ AI ਚੈਟ-ਬੋਟ ਨੂਂ ਖੋਲ੍ਹੋ ਅਤੇ ਹੇਠਾਂ "ਸਫ਼ੇ ਦਾ ਸਾਰ ਦਿਓ" ਨੂੰ ਚੁਣੋ।
+genai-chatbot-summarize-footer-generic-subtitle = ਕਿਸੇ AI ਚੈਟ-ਬੋਟ ਨੂੰ { -brand-short-name } ਦੀ ਬਾਹੀ ਵਿੱਚ ਸਫ਼ਿਆਂ ਦਾ ਫੌਰੀ ਸਾਰ ਦੇਣ ਲਈ ਜੋੜੋ।
 
 ## Chatbot onboarding choices
 ## These describe features/capabilities of chatbot providers. These are not buttons/actions.
