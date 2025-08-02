@@ -65,6 +65,12 @@ contextual-manager-passwords-import-success-heading =
 #   $added (number) - Number of added passwords
 #   $modified (number) - Number of modified passwords
 contextual-manager-passwords-import-success-message = ਨਵੇਂ: { $added }, ਅੱਪਡੇਟ ਕੀਤੇ: { $modified }
+# Variables
+#   $added (number) - Number of added passwords
+#   $modified (number) - Number of modified passwords
+#   $no_change (number) - Number of duplicate passwords
+#   $error (number) - Number of invalid passwords
+contextual-manager-passwords-import-success-message-2 = ਨਵੇਂ: { $added }, ਅੱਪਡੇਟ ਕੀਤੇ { $modified }, ਡੁਪਲੀਕੇਟ: { $no_change }, ਗਲਤੀਆਂ: { $error }
 contextual-manager-passwords-import-detailed-report = ਵੇਰਵੇ ਸਮੇਤ ਰਿਪੋਰਟ ਨੂੰ ਵੇਖੋ
 contextual-manager-passwords-import-success-button = ਮੁਕੰਮਲ
 contextual-manager-passwords-import-error-heading-and-message =
