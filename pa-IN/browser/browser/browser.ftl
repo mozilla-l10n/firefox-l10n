@@ -1356,3 +1356,97 @@ trustpanel-etp-description-enabled = ਜੇ ਇਸ ਸਾਈਟ ਉੱਤੇ ਕ
 trustpanel-etp-description-disabled = { -brand-product-name } ਨੂੰ ਲੱਗਦਾ ਹੈ ਕਿ ਕੰਪਨੀਆਂ ਨੂੰ ਤੁਹਾਡਾ ਘੱਟ ਪਿੱਛਾ ਕਰਨਾ ਚਾਹੀਦਾ ਹੈ। ਜਦੋਂ ਵੀ ਤੁਸੀਂ ਸੁਰੱਖਿਆ ਨੂੰ ਚਾਲੂ ਕਰਦੇ ਹੋ ਤਾਂ ਅਸੀਂ ਵੱਧ ਤੋਂ ਵੱਧ ਟਰੈਕਰਾਂ ਉੱਤੇ ਪਾਬੰਦੀ ਲਾਉਣ ਦੀ ਕੋਸ਼ਿਸ਼ ਕਰਦੇ ਹਾਂ।
 trustpanel-connection-label-secure = ਕਨੈਕਸ਼ਨ ਸੁਰੱਖਿਅਤ ਹੈ
 trustpanel-connection-label-insecure = ਕਨੈਕਸ਼ਨ ਸੁਰੱਖਿਅਤ ਨਹੀਂ ਹੈ
+trustpanel-header-enabled = { -brand-product-name } ਪਹਿਰੇ ਉੱਤੇ ਹੈ
+trustpanel-description-enabled = ਤੁਸੀਂ ਸੁਰੱਖਿਅਤ ਹੋ। ਜੇ ਸਾਨੂੰ ਕੁਝ ਲੱਭਿਆ ਤਾਂ ਅਸੀਂ ਤੁਹਾਨੂੰ ਦੱਸਾਂਗੇ
+trustpanel-header-disabled = ਤੁਸੀਂ ਸੁਰੱਖਿਆਵਾਂ ਨੂੰ ਬੰਦ ਕੀਤਾ ਹੈ
+trustpanel-description-disabled = { -brand-product-name } ਛੁੱਟੀ ਉੱਤੇ ਹੈ। ਅਸੀਂ ਤੁਹਾਨੂੰ ਸੁਰੱਖਿਆ ਚਾਲੂ ਕਰਨ ਦੀ ਸਲਾਹ ਦਿੰਦੇ ਹਾਂ।
+trustpanel-clear-cookies-button = ਕੂਕੀਜ਼ ਤੇ ਸਾਈਟ ਡਾਟਾ ਨੂੰ ਮਿਟਾਓ
+trustpanel-privacy-link = ਪਰਦੇਦਾਰੀ ਸੈਟਿੰਗਾਂ
+# Variables
+#  $host (String): the hostname of the site that is being displayed.
+trustpanel-clear-cookies-header =
+    .title = { $host } ਲਈ ਕੂਕੀਜ਼ ਅਤੇ ਸਾਈਟ ਦੇ ਡਾਟੇ ਨੂੰ ਮਿਟਾਓ
+trustpanel-clear-cookies-description = ਕੂਕੀਜ਼ ਅਤੇ ਸਾਈਟ ਡਾਟੇ ਨੂੰ ਹਟਾਉਣ ਨਾਲ ਤੁਸੀਂ ਵੈੱਬਸਾਈਟਾਂ ਤੋਂ ਲਾਗ ਆਉਟ ਹੋ ਸਕਦੇ ਅਤੇ ਖਰੀਦਦਾਰੀ ਕਾਰਟ ਖਾਲੀ ਹੋ ਸਕਦੇ ਹਨ।
+trustpanel-clear-cookies-subview-button-clear = ਮਿਟਾਓ
+trustpanel-clear-cookies-subview-button-cancel = ਰੱਦ ਕਰੋ
+# Variables
+#  $host (String): the hostname of the site that is being displayed.
+trustpanel-site-information-header =
+    .title = { $host } ਲਈ ਕਨੈਕਸ਼ਨ ਸੁਰੱਖਿਆਵਾਂ
+trustpanel-connection-secure = ਤੁਸੀਂ ਇਸ ਸਾਈਟ ਨਾਲ ਸੁਰੱਖਿਅਤ ਢੰਗ ਨਾਲ ਕਨੈਕਟ ਹੋ।
+trustpanel-connection-not-secure = ਤੁਸੀਂ ਇਸ ਸਾਈਟ ਨਾਲ ਸੁਰੱਖਿਅਤ ਢੰਗ ਨਾਲ ਕਨੈਕਟ ਨਹੀਂ ਹੋ।
+trustpanel-siteinformation-morelink = ਸਾਈਟ ਦੇ ਬਾਰੇ ਹੋਰ ਜਾਣਕਾਰੀ
+trustpanel-blocker-see-all = ਸਾਰੇ ਵੇਖੋ
+# Variables
+#  $host (String): the hostname of the site that is being displayed.
+trustpanel-blocker-header =
+    .title = { $host } ਲਈ ਟਰੈਕਿੰਗ ਸੁਰੱਖਿਆ
+
+## Variables
+##  $count (String): the number of trackers blocked.
+
+trustpanel-blocker-section-header =
+    { $count ->
+        [one] ਇਸ ਸਾਈਟ ਤੋਂ <span>{ $count }</span> ਟਰੈਕਰ ਉੱਤੇ ਪਾਬੰਦੀ ਲਾਈ
+       *[other] ਇਸ ਸਾਈਟ ਤੋਂ <span>{ $count }</span> ਟਰੈਕਰਾਂ ਉੱਤੇ ਪਾਬੰਦੀ ਲਾਈ
+    }
+trustpanel-blocker-description = { -brand-product-name } ਨੂੰ ਜਾਪਦਾ ਹੈ ਕਿ ਕੰਪਨੀ ਨੂੰ ਤੁਹਾਡੀ ਘੱਟ ਸੂਹ ਲੈਣੀ ਚਾਹੀਦੀ ਹੈ। ਤਾਹੀਂ ਅਸੀਂ ਜਿੰਨੀਆਂ ਵੀ ਸੰਭਵ ਹੋਵੇ ਪਾਬੰਦੀਆਂ ਲਾਉਂਦੇ ਹਾਂ।
+trustpanel-blocked-header = { -brand-product-name } ਨੇ ਤੁਹਾਡੇ ਲਈ ਇਹਨਾਂ ਚੀਜ਼ਾਂ ਉੱਤੇ ਪਾਬੰਦੀ ਲਾਈ:
+trustpanel-tracking-header = { -brand-product-name } ਨੇ ਸਾਈਟਾਂ ਦੇ ਠੀਕ ਤਰ੍ਹਾਂ ਕੰਮ ਕਰਨ ਲਈ ਇਹਨਾਂ ਚੀਜ਼ਾਂ ਦੀ ਮਨਜ਼ੂਰੀ ਦਿੱਤੀ ਹੈ:
+trustpanel-tracking-description = ਕੁਝ ਟਰੈਕਰਾਂ ਬਿਨਾਂ, ਕੁਝ ਬਟਨ, ਫਾਰਮ ਅਤੇ ਲਾਗਇਨ ਖੇਤਰ ਕੰਮ ਨਹੀਂ ਕਰ ਸਕਦੇ ਹਨ।
+trustpanel-insecure-section-header = ਤੁਹਾਡਾ ਕਨੈਕਸ਼ਨ ਸੁਰੱਖਿਅਤ ਨਹੀਂ ਹੈ
+trustpanel-insecure-description = ਇਸ ਸਾਈਟ ਉੱਤੇ ਤੁਹਾਡੇ ਵਲੋਂ ਭੇਜਿਆ ਜਾ ਰਿਹਾ ਡਾਟਾ ਇੰਕ੍ਰਿਪਟ ਨਹੀਂ ਕੀਤਾ ਹੈ। ਇਸ ਨੂੰ ਵੇਖਿਆ, ਚੋਰੀ ਕੀਤਾ ਜਾਂ ਬਦਲਿਆ ਜਾ ਸਕਦਾ ਹੈ।
+trustpanel-list-label-tracking-cookies =
+    { $count ->
+        [one] { $count } ਅੰਤਰ-ਸਾਈਟ ਟਰੈਕਿੰਗ ਕੂਕੀ
+       *[other] { $count } ਅੰਤਰ-ਸਾਈਟ ਟਰੈਕਿੰਗ ਕੂਕੀਜ਼
+    }
+trustpanel-list-label-tracking-content = ਟਰੈਕਿੰਗ ਸਮੱਗਰੀ
+trustpanel-list-label-fingerprinter =
+    { $count ->
+        [one] { $count } ਫਿੰਗਰਪਰਿੰਟ
+       *[other] { $count } ਫਿੰਗਰਪਰਿੰਟ
+    }
+trustpanel-list-label-social-tracking =
+    { $count ->
+        [one] { $count } ਸ਼ੋਸ਼ਲ ਮੀਡੀਆ ਟਰੈਕਰ
+       *[other] { $count } ਸ਼ੋਸ਼ਲ ਮੀਡੀਆ ਟਰੈਕਰ
+    }
+trustpanel-list-label-cryptominer =
+    { $count ->
+        [one] { $count } ਕ੍ਰਿਪਟੋ-ਮਾਈਨਰ
+       *[other] { $count } ਕ੍ਰਿਪਟੋ-ਮਾਈਨਰ
+    }
+trustpanel-social-tracking-blocking-tab-header =
+    { $count ->
+        [one] { -brand-product-name } ਨੇ { $count } ਸ਼ੋਸ਼ਲ ਮੀਡੀਆ ਟਰੈਕਰ ਉੱਤੇ ਪਾਬੰਦੀ ਲਾਈ
+       *[other] { -brand-product-name } ਨੇ { $count } ਸ਼ੋਸ਼ਲ ਮੀਡੀਆ ਟਰੈਕਰਾਂ ਉੱਤੇ ਪਾਬੰਦੀ ਲਾਈ
+    }
+trustpanel-social-tracking-not-blocking-tab-header =
+    { $count ->
+        [one] { -brand-product-name } ਨੇ { $count } ਸ਼ੋਸ਼ਲ ਮੀਡੀਆ ਟਰੈਕਰ ਨੂੰ ਮਨਜ਼ੂਰੀ ਦਿੱਤੀ
+       *[other] { -brand-product-name } ਨੇ { $count } ਸ਼ੋਸ਼ਲ ਮੀਡੀਆ ਟਰੈਕਰਾਂ ਨੂੰ ਮਨਜ਼ੂਰੀ ਦਿੱਤੀ
+    }
+trustpanel-social-tracking-tab-list-header = ਇਹ ਸਾਈਟਾਂ ਤੁਹਾਨੂੰ ਟਰੈਕ ਕਰਨ ਦੀਆਂ ਕੋਸ਼ਿਸ਼ ਕਰ ਰਹੀਆਂ ਹਨ:
+trustpanel-tracking-cookies-blocking-tab-header =
+    { $count ->
+        [one] { -brand-product-name } ਨੇ { $count } ਅੰਤਰ-ਸਾਈਟ ਟਰੈਕਿੰਗ ਕੂਕੀ ਉੱਤੇ ਪਾਬੰਦੀ ਲਾਈ
+       *[other] { -brand-product-name } ਨੇ { $count } ਅੰਤਰ-ਸਾਈਟ ਟਰੈਕਿੰਗ ਕੂਕੀਜ਼ ਉੱਤੇ ਪਾਬੰਦੀ ਲਾਈ
+    }
+trustpanel-tracking-cookies-not-blocking-tab-header =
+    { $count ->
+        [one] { -brand-product-name } ਨੇ { $count } ਅੰਤਰ-ਸਾਈਟ ਟਰੈਕਿੰਗ ਕੂਕੀ ਨੂੰ ਮਨਜ਼ੂਰੀ ਦਿੱਤੀ
+       *[other] { -brand-product-name } ਨੇ { $count } ਅੰਤਰ-ਸਾਈਟ ਟਰੈਕਿੰਗ ਕੂਕੀਜ਼ ਨੂੰ ਮਨਜ਼ੂਰੀ ਦਿੱਤੀ
+    }
+trustpanel-tracking-cookies-tab-list-header = ਇਹ ਸਾਈਟਾਂ ਤੁਹਾਨੂੰ ਟਰੈਕ ਕਰਨ ਦੀਆਂ ਕੋਸ਼ਿਸ਼ ਕਰ ਰਹੀਆਂ ਹਨ:
+trustpanel-tracking-content-blocking-tab-header =
+    { $count ->
+        [one] { -brand-product-name } ਨੇ { $count } ਟਰੈਕਰ ਉੱਤੇ ਪਾਬੰਦੀ ਲਾਈ
+       *[other] { -brand-product-name } ਨੇ { $count } ਟਰੈਕਰਾਂ ਉੱਤੇ ਪਾਬੰਦੀ ਲਾਈ
+    }
+trustpanel-tracking-content-not-blocking-tab-header =
+    { $count ->
+        [one] { -brand-product-name } ਨੇ { $count } ਟਰੈਕਰ ਨੂੰ ਮਨਜ਼ੂਰੀ ਦਿੱਤੀ
+       *[other] { -brand-product-name } ਨੇ { $count } ਟਰੈਕਰਾਂ ਨੂੰ ਮਨਜ਼ੂਰੀ ਦਿੱਤੀ
+    }
+trustpanel-tracking-content-tab-list-header = ਇਹ ਸਾਈਟਾਂ ਤੁਹਾਨੂੰ ਟਰੈਕ ਕਰਨ ਦੀਆਂ ਕੋਸ਼ਿਸ਼ ਕਰ ਰਹੀਆਂ ਹਨ:
