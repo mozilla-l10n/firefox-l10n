@@ -577,7 +577,7 @@ mlmodel-extension-label = Được sử dụng bởi tiện ích mở rộng { $
 ## Mapping Engine IDs from AI models to how that feature represented by the engine Id is described in the used by section in local model management
 
 mlmodel-about-inference = { -brand-short-name } sử dụng cái này trên about:inference
-mlmodel-link-preview = { -brand-short-name } sử dụng cái này để tạo ra các điểm chính khi bạn xem trước các liên kết
+mlmodel-link-preview = { -brand-short-name } sử dụng cái này để tạo ra nội dung tóm tắt khi bạn xem trước các liên kết
 mlmodel-pdfjs = { -brand-short-name } sử dụng cái này để tạo văn bản thay thế cho hình ảnh bạn thêm vào PDF
 mlmodel-smart-tab-topic-engine = { -brand-short-name } sử dụng cái này để gợi ý tên cho nhóm thẻ của bạn
 mlmodel-smart-tab-embedding-engine = { -brand-short-name } sử dụng cái này để đề xuất các thẻ cho nhóm thẻ của bạn
