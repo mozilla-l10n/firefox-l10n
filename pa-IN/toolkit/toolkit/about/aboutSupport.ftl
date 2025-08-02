@@ -185,6 +185,8 @@ media-capabilities-enumerate = ਡਾਟਾਬੇਸ ਦੇ ਇੰਦਰਾਜ਼�
 
 media-codec-support-sw-decoding = ਸਾਫ਼ਟਵੇਅਰ ਡਿਕੋਡਿੰਗ
 media-codec-support-hw-decoding = ਹਾਰਡਵੇਅਰ ਡਿਕੋਡਿੰਗ
+media-codec-support-sw-encoding = ਸਾਫ਼ਟਵੇਅਰ ਇਨਕੋਡਿੰਗ
+media-codec-support-hw-encoding = ਹਾਰਡਵੇਅਰ ਇਨਕੋਡਿੰਗ
 media-codec-support-codec-name = Codec ਦਾ ਨਾਂ
 media-codec-support-supported = ਸਹਿਯੋਗੀ
 media-codec-support-unsupported = ਗ਼ੈਰ-ਸਹਿਯੋਗੀ

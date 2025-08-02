@@ -173,6 +173,7 @@ permissions-site-camera-disable-desc = ਇਹ ਉੱਤੇ ਸੂਚੀਬੱਧ
 permissions-site-localhost-window =
     .title = ਸੈਟਿੰਗਾਂ - ਡਿਵਾਈਸ ਐਪਾਂ ਅਤੇ ਸੇਵਾਵਾਂ
     .style = { permissions-window2.style }
+permissions-site-localhost-desc = ਇਹਨਾਂ ਵੈੱਬਸਾਈਟਾਂ ਨੇ ਇਸ ਡਿਵਾਈਸ ਉੱਤੇ ਐਪਾਂ ਅਤੇ ਸੇਵਾਵਾਂ ਲਈ ਪਹੁੰਚ ਦੀ ਬੇਨਤੀ ਕੀਤੀ ਹੈ। ਤੁਸੀਂ ਇਹ ਕਰਨ ਲਈ ਸਾਈਟਾਂ ਨੂੰ ਮਨਜ਼ੂਰੀ ਦੇ ਜਾਂ ਪਾਬੰਦੀ ਲਗਾ ਸਕਦੇ ਹੋ।
 
 ## Site Permissions - Local network
 

@@ -1450,3 +1450,25 @@ trustpanel-tracking-content-not-blocking-tab-header =
        *[other] { -brand-product-name } ਨੇ { $count } ਟਰੈਕਰਾਂ ਨੂੰ ਮਨਜ਼ੂਰੀ ਦਿੱਤੀ
     }
 trustpanel-tracking-content-tab-list-header = ਇਹ ਸਾਈਟਾਂ ਤੁਹਾਨੂੰ ਟਰੈਕ ਕਰਨ ਦੀਆਂ ਕੋਸ਼ਿਸ਼ ਕਰ ਰਹੀਆਂ ਹਨ:
+trustpanel-fingerprinter-blocking-tab-header =
+    { $count ->
+        [one] { -brand-product-name } ਨੇ { $count } ਫਿੰਗਰਪਰਿੰਟਰ ਉੱਤੇ ਪਾਬੰਦੀ ਲਾਈ
+       *[other] { -brand-product-name } ਨੇ { $count } ਫਿੰਗਰਪਰਿੰਟਰਾਂ ਉੱਤੇ ਪਾਬੰਦੀ ਲਾਈ
+    }
+trustpanel-fingerprinter-not-blocking-tab-header =
+    { $count ->
+        [one] { -brand-product-name } ਨੇ { $count } ਫਿੰਗਰਪਰਿੰਟਰ ਨੂੰ ਮਨਜ਼ੂਰੀ ਦਿੱਤੀ
+       *[other] { -brand-product-name } ਨੇ { $count } ਫਿੰਗਰਪਰਿੰਟਰਾਂ ਨੂੰ ਮਨਜ਼ੂਰੀ ਦਿੱਤੀ
+    }
+trustpanel-fingerprinter-list-header = ਇਹ ਸਾਈਟਾਂ ਤੁਹਾਡੇ ਫਿੰਗਰਪਰਿੰਟ ਲੈਣ ਦੀਆਂ ਕੋਸ਼ਿਸ਼ ਕਰ ਰਹੀਆਂ ਹਨ:
+trustpanel-cryptominer-blocking-tab-header =
+    { $count ->
+        [one] { -brand-product-name } ਨੇ { $count } ਕ੍ਰਿਪਟਮਾਈਨਰ ਉੱਤੇ ਪਾਬੰਦੀ ਲਾਈ
+       *[other] { -brand-product-name } ਨੇ { $count } ਕ੍ਰਿਪਟਮਾਈਨਰਾਂ ਉੱਤੇ ਪਾਬੰਦੀ ਲਾਈ
+    }
+trustpanel-cryptominer-not-blocking-tab-header =
+    { $count ->
+        [one] { -brand-product-name } ਨੇ { $count } ਕ੍ਰਿਪਟਮਾਈਨਰ ਨੂੰ ਮਨਜ਼ੂਰੀ ਦਿੱਤੀ
+       *[other] { -brand-product-name } ਨੇ { $count } ਕ੍ਰਿਪਟਮਾਈਨਰਾਂ ਨੂੰ ਮਨਜ਼ੂਰੀ ਦਿੱਤੀ
+    }
+trustpanel-cryptominer-tab-list-header = ਇਹ ਸਾਈਟਾਂ ਕ੍ਰਿਪਟੋ-ਮਾਈਨ ਕਰਨ ਦੀਆਂ ਕੋਸ਼ਿਸ਼ ਕਰ ਰਹੀਆਂ ਹਨ:

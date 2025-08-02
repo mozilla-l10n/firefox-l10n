@@ -991,7 +991,7 @@ forms-saved-logins =
     .accesskey = L
 # Checkbox which controls filling saved logins into fields automatically when they appear, in some cases without user interaction.
 forms-fill-usernames-and-passwords =
-    .label = Compilar nomines de usator e contrasignos automaticamente
+    .label = Completar automaticamente le nomines de usator e le contrasignos
     .accesskey = C
 forms-saved-passwords =
     .label = Contrasignos salvate
@@ -1001,7 +1001,7 @@ forms-primary-pw-use =
     .accesskey = U
 # This operation requires the user to authenticate with the operating system (device sign-in)
 forms-os-reauth =
-    .label = Requirer accesso al apparato pro compilar e gerer le contrasignos
+    .label = Requirer apertura de session sur le apparato pro completar e gerer contrasignos
 forms-primary-pw-learn-more-link = Saper plus
 # This string uses the former name of the Primary Password feature
 # ("Master Password" in English) so that the preferences can be found
@@ -1044,19 +1044,19 @@ autofill-creditcard-os-auth-dialog-caption = { -brand-full-name }
 
 ## Privacy section - Autofill
 
-pane-privacy-autofill-header = Compilar automaticamente
-autofill-addresses-checkbox = Salvar e compilar automaticamente adresses
+pane-privacy-autofill-header = Completamento automatic
+autofill-addresses-checkbox = Salvar e completar adresses
     .accesskey = a
 autofill-saved-addresses-button = Adresses salvate
     .accesskey = s
-autofill-payment-methods-checkbox-message = Salvar e compilar methodos de pagamento automaticamente
+autofill-payment-methods-checkbox-message = Salvar e completar methodos de pagamento
     .accesskey = S
 autofill-payment-methods-checkbox-submessage = Include cartas de credito e debito
     .accesskey = i
 autofill-saved-payment-methods-button = Methodos de pagamento salvate
     .accesskey = v
 # This operation requires the user to authenticate with the operating system (device sign-in)
-autofill-reauth-payment-methods-checkbox = Requirer accesso al apparato pro compilar e gerer methodos de pagamento
+autofill-reauth-payment-methods-checkbox = Requirer apertura de session sur le apparato pro completar e gerer methodos de pagamento
     .accesskey = o
 
 ## Privacy Section - History
@@ -1422,7 +1422,7 @@ addon-recommendations2 =
 addon-recommendations-description = Reciper recommendationes sur le extensiones pro meliorar tu experientia de navigation.
 # This message is displayed above disabled data sharing options in developer builds
 # or builds with no Telemetry support available.
-collection-health-report-disabled2 = Le reporto de datos es inactive pro iste configuration de compilation.
+collection-health-report-disabled2 = Le reportage de datos es disactivate pro iste configuration de compilation.
 collection-backlogged-crash-reports2 =
     .label = Automaticamente inviar reportos de crash
     .accesskey = c
@@ -1432,7 +1432,7 @@ addon-recommendations =
 addon-recommendations-link = Saper plus
 # This message is displayed above disabled data sharing options in developer builds
 # or builds with no Telemetry support available.
-collection-health-report-disabled = Le reporto de datos es inactive pro iste configuration de compilation
+collection-health-report-disabled = Le reportage de datos es disactivate pro iste configuration de compilation
 collection-backlogged-crash-reports-with-link = Permitter que { -brand-short-name } invia in tu nomine le reportos accumulate de crash <a data-l10n-name="crash-reports-link">saper plus</a>
     .accesskey = P
 collection-backlogged-crash-reports = Permitter que { -brand-short-name } invia in tu nomine le reportos accumulate de crash

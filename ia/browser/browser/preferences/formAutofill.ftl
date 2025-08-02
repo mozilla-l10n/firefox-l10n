@@ -127,7 +127,7 @@ autofill-edit-card-password-prompt =
         [windows] { -brand-short-name } tenta de monstrar informationes de carta de credito. Confirma le accesso a iste conto de Windows infra.
        *[other] { -brand-short-name } tenta de monstrar informationes de carta de credito.
     }
-autofill-message-tooltip = Monstrar le message re le compilation automatic de formularios
+autofill-message-tooltip = Monstrar le message sur le completamento automatic
 # The dialog title for creating credit cards in browser preferences.
 autofill-add-card-title = Adder carta
 # The dialog title for editing credit cards in browser preferences.

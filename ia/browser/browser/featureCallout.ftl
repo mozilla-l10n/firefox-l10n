@@ -34,7 +34,7 @@ continuous-onboarding-firefox-view-tab-pickup-primary-button-label = Comenciar
 ## PDF.js Feature Tour Strings
 
 callout-pdfjs-edit-title = Redige files PDF con nostre utensile pro textos
-callout-pdfjs-edit-body-a = Compila formularios e commentarios o prende notas directemente in { -brand-short-name }.
+callout-pdfjs-edit-body-a = Completa formularios, adde commentos o prende notas directemente in { -brand-short-name }.
 callout-pdfjs-edit-body-b = Salta le recerca pro editores gratis online. Plena formularios e commentarios o prende notas directemente in { -brand-short-name }.
 callout-pdfjs-edit-button = Sequente
 callout-pdfjs-draw-title = Firma documentos con nostre nove utensile de designo
