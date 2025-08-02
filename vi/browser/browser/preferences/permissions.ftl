@@ -168,6 +168,26 @@ permissions-site-camera-disable-label =
     .label = Chặn các yêu cầu mới về việc cho phép tru cập máy ảnh của bạn
 permissions-site-camera-disable-desc = Điều này sẽ ngăn chặn bất cứ trang web nào không được liệt kê ở trên gửi yêu cầu cho phép việc truy cập máy ảnh của bạn. Chặn thông báo có thể ảnh hưởng đến một số tính năng trang web.
 
+## Site Permissions - Local host
+
+permissions-site-localhost-window =
+    .title = Cài đặt - Ứng dụng và dịch vụ thiết bị
+    .style = { permissions-window2.style }
+permissions-site-localhost-desc = Các trang web này đã yêu cầu quyền truy cập vào các ứng dụng và dịch vụ trên thiết bị này. Bạn có thể chọn cho phép hoặc chặn các trang web thực hiện việc này.
+permissions-site-localhost-disable-label =
+    .label = Chặn các yêu cầu mới truy cập vào ứng dụng và dịch vụ trên thiết bị này
+permissions-site-localhost-disable-desc = Thao tác này sẽ ngăn bất kỳ trang web nào không được liệt kê ở trên yêu cầu quyền truy cập vào các ứng dụng và dịch vụ trên thiết bị này. Thao tác này có thể làm hỏng một số tính năng của trang web.
+
+## Site Permissions - Local network
+
+permissions-site-local-network-window =
+    .title = Cài đặt - Thiết bị mạng cục bộ
+    .style = { permissions-window2.style }
+permissions-site-local-network-desc = Các trang web này đã yêu cầu quyền truy cập vào các ứng dụng và dịch vụ trên thiết bị được kết nối với Wi-Fi hoặc mạng cục bộ của bạn. Bạn có thể chọn cho phép hoặc chặn các trang web thực hiện việc này.
+permissions-site-local-network-disable-label =
+    .label = Chặn các yêu cầu mới truy cập ứng dụng và dịch vụ trên các thiết bị được kết nối với Wi-Fi hoặc mạng cục bộ của bạn.
+permissions-site-local-network-disable-desc = Thao tác này sẽ ngăn bất kỳ trang web nào không được liệt kê ở trên yêu cầu quyền truy cập vào các ứng dụng và dịch vụ trên các thiết bị được kết nối với Wi-Fi hoặc thiết bị mạng cục bộ của bạn. Thao tác này có thể làm hỏng một số tính năng của trang web.
+
 ## Site Permissions - Microphone
 
 permissions-site-microphone-window2 =
