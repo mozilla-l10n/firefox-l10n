@@ -125,11 +125,13 @@ addon-install-error-corrupt-file = Impossibile installare il componente aggiunti
 addon-install-error-file-access = Impossibile installare { $addonName } in quanto { -brand-short-name } non è in grado di modificare il file richiesto.
 addon-install-error-not-signed = L’installazione di un componente aggiuntivo non verificato è stata bloccata da { -brand-short-name }.
 addon-install-error-invalid-domain = Impossibile installare il componente aggiuntivo { $addonName } da questo indirizzo.
+addon-install-error-no-addon-name-file-access = Impossibile installare questo componente aggiuntivo in quanto { -brand-short-name } non è in grado di modificare il file richiesto.
 addon-local-install-error-network-failure = Impossibile installare questo componente aggiuntivo in quanto si è verificato un errore nel filesystem.
 addon-local-install-error-incorrect-hash = Impossibile installare questo componente aggiuntivo in quanto non corrisponde al componente aggiuntivo previsto da { -brand-short-name }.
 addon-local-install-error-corrupt-file = Impossibile installare questo componente aggiuntivo in quanto risulta danneggiato.
 addon-local-install-error-file-access = Impossibile installare { $addonName } in quanto { -brand-short-name } non è in grado di modificare il file richiesto.
 addon-local-install-error-not-signed = Impossibile installare questo componente aggiuntivo in quanto non verificato.
+addon-local-install-no-addon-name-error-file-access = Impossibile installare questo componente aggiuntivo in quanto { -brand-short-name } non è in grado di modificare il file richiesto.
 # Variables:
 #   $appVersion (String): the application version.
 addon-install-error-incompatible = Impossibile installare { $addonName } in quanto non compatibile con { -brand-short-name } { $appVersion }.
