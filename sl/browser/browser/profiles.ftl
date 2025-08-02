@@ -179,7 +179,32 @@ briefcase-avatar = Aktovka
 # Canvas refers to an artist's painting canvas, not the general material
 canvas-avatar = Platno
 custom-avatar = Slika po meri
+# Default favicon refers to the generic globe/world icon that appears in browser tabs when a website doesn't have its own favicon.
+default-favicon-avatar = Privzeta ikona
+# Diamond refers to the precious stone, not the geometric shape
+diamond-avatar = Diamant
 flower-avatar = Cvet
+folder-avatar = Mapa
+hammer-avatar = Kladivo
 heart-avatar = Srce
+heart-rate-avatar = Srčni utrip
+history-avatar = Zgodovina
+leaf-avatar = List
+lightbulb-avatar = Žarnica
+# Message refers to a text message, not a traditional letter/envelope message
+message-avatar = Sporočilo
+musical-note-avatar = Nota
+palette-avatar = Paleta
+paw-print-avatar = Odtis tace
+plane-avatar = Letalo
+# Present refers to a gift box, not the current time period
+present-avatar = Darilo
 shopping-avatar = Nakupovalni voziček
+soccer-avatar = Nogomet
+sparkle-single-avatar = Iskra
 star-avatar = Zvezdica
+video-game-controller-avatar = Krmilnik za videoigre
+custom-avatar-crop-back-button =
+    .aria-label = Nazaj
+barbell-avatar = Uteži
+bike-avatar = Kolo

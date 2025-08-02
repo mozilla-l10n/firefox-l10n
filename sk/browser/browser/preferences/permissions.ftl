@@ -186,6 +186,7 @@ permissions-site-local-network-window =
 permissions-site-local-network-desc = Tieto webové stránky si vyžiadali prístup k aplikáciám a službám na zariadeniach pripojených k vašej sieti Wi‑Fi alebo lokálnej sieti. Môžete sa rozhodnúť, či to webovým stránkam povoliť alebo zablokovať.
 permissions-site-local-network-disable-label =
     .label = Blokovať nové požiadavky na prístup k aplikáciám a službám na zariadeniach pripojených k vašej sieti Wi‑Fi alebo lokálnej sieti.
+permissions-site-local-network-disable-desc = Týmto sa zabráni akýmkoľvek webovým stránkam, ktoré nie sú uvedené vyššie, aby požadovali prístup k aplikáciám a službám na zariadeniach pripojených k vašej sieti Wi‑Fi alebo lokálnym sieťam. Môže to znefunkčniť niektoré funkcie webových stránok.
 
 ## Site Permissions - Microphone
 
