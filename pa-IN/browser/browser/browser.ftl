@@ -141,6 +141,10 @@ urlbar-default-notification-anchor =
     .tooltiptext = ਸੁਨੇਹਾ ਪੈਨਲ ਨੂੰ ਖੋਲ੍ਹੋ
 urlbar-geolocation-notification-anchor =
     .tooltiptext = ਟਿਕਾਣਾ ਬੇਨਤੀ ਪੈਨਲ ਨੂੰ ਖੋਲ੍ਹੋ
+urlbar-localhost-notification-anchor =
+    .tooltiptext = ਇਸ ਸਾਈਟ ਲਈ ਲੋਕਲ ਡਿਵਾਈਸ ਲਈ ਪਹੁੰਚ ਦਾ ਇੰਤਜ਼ਾਮ ਕਰੋ
+urlbar-local-network-notification-anchor =
+    .tooltiptext = ਇਸ ਸਾਈਟ ਲਈ ਆਪਣੇ ਲੋਕਲ ਨੈੱਟਵਰਕ ਪਹੁੰਚ ਨੂੰ ਸਾਂਝਾ ਕਰਨ ਦਾ ਇੰਤਜ਼ਾਮ ਕਰੋ
 urlbar-xr-notification-anchor =
     .tooltiptext = ਫ਼ਰਜ਼ੀ ਅਸਲੀਅਤ ਇਜਾਜ਼ਤ ਪੈਨਲ ਨੂੰ ਖੋਲ੍ਹੋ
 urlbar-storage-access-anchor =
@@ -207,6 +211,9 @@ urlbar-result-menu-show-less-frequently =
     .label = ਘੱਟ ਵਾਰੀ ਦਿਖਾਓ
 urlbar-result-menu-dont-show-weather-suggestions =
     .label = ਮੌਸਮੀ ਸੁਝਾਅ ਨਾ ਦਿਖਾਓ
+# Used for Split Button.
+urlbar-splitbutton-dropmarker =
+    .title = ਮੇਨੂ ਨੂੰ ਖੋਲ੍ਹੋ
 # A message shown in the urlbar when the user submits feedback on a suggestion
 # (e.g., it shows an inaccurate location, it's shown too often, etc.).
 urlbar-feedback-acknowledgment = ਤੁਹਾਡੇ ਸੁਝਾਅ ਲਈ ਧੰਨਵਾਦ ਹੈ
@@ -238,6 +245,10 @@ urlbar-search-mode-actions = ਕਾਰਵਾਈਆਂ
 
 urlbar-geolocation-blocked =
     .tooltiptext = ਤੁਸੀਂ ਇਸ ਵੈੱਬਸਾਈਟ ਲਈ ਟਿਕਾਣਾ ਜਾਣਕਾਰੀ ਵਾਸਤੇ ਪਾਬੰਦੀ ਲਗਾਈ ਹੈ।
+urlbar-localhost-blocked =
+    .tooltiptext = ਤੁਸੀਂ ਇਸ ਵੈੱਬਸਾਈਟ ਵਾਸਤੇ ਲੋਕਲ ਡਿਵਾਈਸ ਕਨੈਕਸ਼ਨਾਂ ਉੱਤੇ ਪਾਬੰਦੀ ਲਾਈ ਹੈ।
+urlbar-local-network-blocked =
+    .tooltiptext = ਤੁਸੀਂ ਇਸ ਵੈੱਬਸਾਈਟ ਵਾਸਤੇ ਲੋਕਲ ਨੈੱਟਵਰਕ ਕਨੈਕਸ਼ਨਾਂ ਉੱਤੇ ਪਾਬੰਦੀ ਲਾਈ ਹੈ।
 urlbar-xr-blocked =
     .tooltiptext = ਤੁਸੀਂ ਇਸ ਵੈੱਬਸਾਈਟ ਲਈ ਮਸ਼ੀਨੀ ਅਸਲੀਅਤੀ ਡਿਵਾਈਸ ਦੀ ਪਹੁੰਚ ਉੱਤੇ ਪਾਬੰਦੀ ਲਗਾ ਚੁੱਕੇ ਹੋ।
 urlbar-web-notifications-blocked =
@@ -825,6 +836,8 @@ urlbar-searchmode-default =
 urlbar-searchmode-popup-description = ਇਹ ਵਾਰ ਖੋਜ ਇਸ ਨਾਲ ਕਰੋ:
 urlbar-searchmode-popup-search-settings-menuitem =
     .label = ਖੋਜ ਸੈਟਿੰਗਾਂ
+# Label shown next to a new search engine in the Searchmode Switcher popup to promote it.
+urlbar-searchmode-new = ਨਵਾਂ
 # Searchmode Switcher button
 # Variables:
 #   $engine (String): the current default search engine.
@@ -1152,6 +1165,10 @@ tabs-toolbar-list-all-tabs =
     .label = ਸਭ ਟੈਬਾਂ ਦੀ ਲਿਸਟ
     .tooltiptext = ਸਭ ਟੈਬਾਂ ਦੀ ਲਿਸਟ
 
+## Drop indicator text for pinned tabs when no tabs are pinned.
+
+pinned-tabs-drop-indicator = ਟੰਗਣ ਲਈ ਟੈਗ ਨੂੰ ਇੱਥੇ ਲਿਆਓ
+
 ## Infobar shown at startup to suggest session-restore
 
 # <img data-l10n-name="icon"/> will be replaced by the application menu icon
@@ -1322,3 +1339,20 @@ onboarding-checklist-button-label = ਸੈਟਅੱਪ ਮੁਕੰਮਲ
 onboarding-aw-finish-setup-button =
     .label = ਸੈਟਅੱਪ ਨੂੰ ਪੂਰਾ ਕਰੋ
     .tooltiptext = { -brand-short-name } ਦੇ ਸੈਟਅੱਪ ਨੂੰ ਪੂਰਾ ਕਰੋ
+
+## The urlbar trust panel
+
+trustpanel-etp-label-enabled = ਵਧਾਈ ਟਰੈਕਿੰਗ ਸੁਰੱਖਿਆ ਚਾਲੂ ਹੈ
+trustpanel-etp-label-disabled = ਵਧਾਈ ਟਰੈਕਿੰਗ ਸੁਰੱਖਿਆ ਬੰਦ ਹੈ
+# Variables
+#  $host (String): the hostname of the site that is being displayed.
+trustpanel-etp-toggle-on =
+    .aria-label = ਵਧਾਈ ਟਰੈਕਿੰਗ ਸੁਰੱਖਿਆ: { $host } ਲਈ ਚਾਲੂ ਹੈ
+# Variables
+#  $host (String): the hostname of the site that is being displayed.
+trustpanel-etp-toggle-off =
+    .aria-label = ਵਧਾਈ ਟਰੈਕਿੰਗ ਸੁਰੱਖਿਆ: { $host } ਲਈ ਬੰਦ ਹੈ
+trustpanel-etp-description-enabled = ਜੇ ਇਸ ਸਾਈਟ ਉੱਤੇ ਕੁਝ ਕੰਮ ਨਹੀਂ ਕਰਦਾ ਹੈ ਤਾਂ ਕੁਝ ਸੁਰੱਖਿਆਵਾਂ ਨੂੰ ਬੰਦ ਕਰਕੇ ਕੋਸ਼ਿਸ਼ ਕਰੋ।
+trustpanel-etp-description-disabled = { -brand-product-name } ਨੂੰ ਲੱਗਦਾ ਹੈ ਕਿ ਕੰਪਨੀਆਂ ਨੂੰ ਤੁਹਾਡਾ ਘੱਟ ਪਿੱਛਾ ਕਰਨਾ ਚਾਹੀਦਾ ਹੈ। ਜਦੋਂ ਵੀ ਤੁਸੀਂ ਸੁਰੱਖਿਆ ਨੂੰ ਚਾਲੂ ਕਰਦੇ ਹੋ ਤਾਂ ਅਸੀਂ ਵੱਧ ਤੋਂ ਵੱਧ ਟਰੈਕਰਾਂ ਉੱਤੇ ਪਾਬੰਦੀ ਲਾਉਣ ਦੀ ਕੋਸ਼ਿਸ਼ ਕਰਦੇ ਹਾਂ।
+trustpanel-connection-label-secure = ਕਨੈਕਸ਼ਨ ਸੁਰੱਖਿਅਤ ਹੈ
+trustpanel-connection-label-insecure = ਕਨੈਕਸ਼ਨ ਸੁਰੱਖਿਅਤ ਨਹੀਂ ਹੈ

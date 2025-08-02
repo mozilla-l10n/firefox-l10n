@@ -164,12 +164,58 @@ video-game-controller-avatar-alt =
     .alt = ਵੀਡੀਓ ਗੇਮ ਕੰਟਰੋਲਰ
 custom-avatar-alt =
     .alt = ਪਸੰਦੀਦਾ ਅਵਤਾਰ
+# Default favicon refers to the generic globe/world icon that appears in browser tabs when a website doesn't have its own favicon.
+default-favicon-avatar-alt =
+    .alt = ਮੂਲ ਫੇਵੀਕੌਨ
+# Diamond refers to the precious stone, not the geometric shape
+diamond-avatar-alt =
+    .alt = ਹੀਰਾ
+barbell-avatar-alt =
+    .alt = ਬਾਰਬੈੱਲ
+bike-avatar-alt =
+    .alt = ਸਾਈਕਲ
 
 ## Labels for default avatar icons
 
 book-avatar = ਕਿਤਾਬ
 briefcase-avatar = ਅਟੈਚੀ
+# Canvas refers to an artist's painting canvas, not the general material
+canvas-avatar = ਕੈਨਵਸ
+# Craft refers to hobby arts and crafts, represented by a button/fastener commonly found on clothing like shirts
+craft-avatar = ਕਰਾਫਟ
+custom-avatar = ਪਸੰਦੀਦਾ ਅਵਤਾਰ
+# Default favicon refers to the generic globe/world icon that appears in browser tabs when a website doesn't have its own favicon.
+default-favicon-avatar = ਮੂਲ ਫੇਵੀਕੌਨ
+# Diamond refers to the precious stone, not the geometric shape
+diamond-avatar = ਹੀਰਾ
 flower-avatar = ਫੁੱਲ
+folder-avatar = ਫੋਲਡਰ
+hammer-avatar = ਹਥੌੜਾ
 heart-avatar = ਦਿਲ
+heart-rate-avatar = ਦਿਲ ਦੀ ਧੜਕਨ
+history-avatar = ਅਤੀਤ
+leaf-avatar = ਪੱਤਾ
+lightbulb-avatar = ਲਾਈਟ-ਬਲੱਬ
+makeup-avatar = ਮੇਕਅੱਪ
+# Message refers to a text message, not a traditional letter/envelope message
+message-avatar = ਸੁਨੇਹਾ
+musical-note-avatar = ਸੰਗੀਤ ਦਾ ਨੋਡ
+palette-avatar = ਰੰਗ-ਪੱਟੀ
+paw-print-avatar = ਪੰਜਾ
+plane-avatar = ਜਹਾਜ਼
+# Present refers to a gift box, not the current time period
+present-avatar = ਤੋਹਫ਼ਾ
 shopping-avatar = ਖਰੀਦਦਾਰੀ ਕਾਰਟ
+soccer-avatar = ਫੁੱਟਬਾਲ
 star-avatar = ਤਾਰਾ
+video-game-controller-avatar = ਵੀਡੀਓ ਗੇਮ ਕੰਟਰੋਲਰ
+custom-avatar-crop-back-button =
+    .aria-label = ਪਿੱਛੇ
+custom-avatar-crop-view =
+    .aria-label = ਚਿੱਤਰ ਝਲਕ ਨੂੰ ਕਰੋਪ ਕਰੋ
+custom-avatar-crop-area =
+    .aria-label = ਕਰੋਪ ਕਰਨ ਵਾਲੇ ਖੇਤਰ ਨੂੰ ਠੀਕ ਕਰੋ
+custom-avatar-drag-handle =
+    .aria-label = ਕਰੋਪ ਕਰਨ ਵਾਲੇ ਖੇਤਰ ਦਾ ਆਕਾਰ ਬਦਲੋ
+barbell-avatar = ਬਾਰਬੈੱਲ
+bike-avatar = ਸਾਈਕਲ
