@@ -168,6 +168,25 @@ permissions-site-camera-disable-label =
     .label = Blokovať nové žiadosti o prístup ku kamere
 permissions-site-camera-disable-desc = Týmto zakážete webovým stránkam, ktoré nie sú uvedené v zozname vyššie, požiadať o prístup ku vašej kamere. Blokovanie prístupu ku kamere môže rozbiť niektoré funkcie stránok.
 
+## Site Permissions - Local host
+
+permissions-site-localhost-window =
+    .title = Nastavenia – Aplikácie a služby v zariadení
+    .style = { permissions-window2.style }
+permissions-site-localhost-desc = Tieto webové stránky si vyžiadali prístup k aplikáciám a službám v tomto zariadení. Môžete sa rozhodnúť, či im to povoliť alebo zablokovať.
+permissions-site-localhost-disable-label =
+    .label = Blokovať nové žiadosti o prístup k aplikáciám a službám na tomto zariadení
+permissions-site-localhost-disable-desc = Týmto sa zabráni všetkým webovým stránkam, ktoré nie sú uvedené vyššie, v požadovaní prístupu k aplikáciám a službám na tomto zariadení. Môže to znefunkčniť niektoré funkcie webových stránok.
+
+## Site Permissions - Local network
+
+permissions-site-local-network-window =
+    .title = Nastavenia – Zariadenia v lokálnej sieti
+    .style = { permissions-window2.style }
+permissions-site-local-network-desc = Tieto webové stránky si vyžiadali prístup k aplikáciám a službám na zariadeniach pripojených k vašej sieti Wi‑Fi alebo lokálnej sieti. Môžete sa rozhodnúť, či to webovým stránkam povoliť alebo zablokovať.
+permissions-site-local-network-disable-label =
+    .label = Blokovať nové požiadavky na prístup k aplikáciám a službám na zariadeniach pripojených k vašej sieti Wi‑Fi alebo lokálnej sieti.
+
 ## Site Permissions - Microphone
 
 permissions-site-microphone-window2 =
