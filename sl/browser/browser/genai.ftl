@@ -56,6 +56,9 @@ genai-menu-remove-generic =
 # $provider (string) - name of the provider
 genai-menu-remove-provider =
     .label = Odstrani { $provider }
+genai-menu-remove-sidebar =
+    .label = Odstrani iz stranske vrstice
+genai-menu-new-badge = Novo
 genai-input-ask-generic =
     .placeholder = Vprašaj UI-klepetalnik …
 # $provider (string) - name of the provider
