@@ -15,6 +15,7 @@ perftools-intro-description =
 ## All of the headings for the various sections.
 
 perftools-heading-settings = Setări complete
+perftools-heading-buffer = Setări pentru memoria-tampon
 perftools-heading-features = Funcționalități
 perftools-heading-features-default = Funcționalități (Recomandate ca activate implicit)
 perftools-heading-features-disabled = Funcționalități dezactivate
@@ -40,6 +41,8 @@ perftools-range-interval-milliseconds = { NUMBER($interval, maxFractionalUnits: 
 
 ##
 
+# The size of the memory buffer used to store things in the profiler.
+perftools-range-entries-label = Dimensiune pentru memoria-tampon:
 perftools-custom-threads-label = Adaugă fire de execuție personalizate după nume:
 perftools-devtools-interval-label = Interval:
 perftools-devtools-threads-label = Fire de execuție:

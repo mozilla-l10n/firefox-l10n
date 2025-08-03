@@ -141,6 +141,8 @@ urlbar-default-notification-anchor =
     .tooltiptext = Адкрыць панэль паведамленняў
 urlbar-geolocation-notification-anchor =
     .tooltiptext = Адкрыць панэль запытаў месцазнаходжання
+urlbar-localhost-notification-anchor =
+    .tooltiptext = Кіраванне лакальным доступам да прылад для гэтага сайта
 urlbar-xr-notification-anchor =
     .tooltiptext = Адкрыць панэль дазволаў віртуальнай рэальнасці
 urlbar-storage-access-anchor =
@@ -207,6 +209,9 @@ urlbar-result-menu-show-less-frequently =
     .label = Паказваць радзей
 urlbar-result-menu-dont-show-weather-suggestions =
     .label = Не паказваць прапановы надвор'я
+# Used for Split Button.
+urlbar-splitbutton-dropmarker =
+    .title = Адкрыць меню
 # A message shown in the urlbar when the user submits feedback on a suggestion
 # (e.g., it shows an inaccurate location, it's shown too often, etc.).
 urlbar-feedback-acknowledgment = Дзякуй за ваш водгук
