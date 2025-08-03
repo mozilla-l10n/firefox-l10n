@@ -91,7 +91,7 @@ about-logins-login-list-empty-search-title = Nu s-au găsit date de autentificar
 about-logins-login-list-empty-search-title2 = Nu s-au găsit parole
 about-logins-login-list-empty-search-description = Nu există rezultate care să corespundă căutării.
 login-list-item-title-new-login = Autentificare nouă
-login-list-item-subtitle-new-login = Introdu datele tale de autentificare
+login-list-item-subtitle-new-login = Introdu credențialele de autentificare
 login-list-item-title-new-login2 = Adaugă parola
 login-list-item-subtitle-missing-username = (niciun nume de utilizator)
 about-logins-list-item-breach-icon =
@@ -173,7 +173,7 @@ about-logins-os-auth-dialog-caption = { -brand-full-name }
 ## notes are only valid for English. Please test in your respected locale.
 
 # This message can be seen when attempting to edit a login in about:logins on Windows.
-about-logins-edit-login-os-auth-dialog-message-win = Pentru a-ți edita datele de autentificare, introdu-ți datele de autentificare pentru Windows. Ajută la protejarea securității conturilor tale.
+about-logins-edit-login-os-auth-dialog-message-win = Pentru a edita autentificarea, introdu credențialele de autentificare în Windows. Acest lucru ajută la protejarea securității conturilor tale.
 # This message can be seen when attempting to edit a login in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-edit-login-os-auth-dialog-message-macosx = editează datele de autentificare salvate
@@ -184,8 +184,6 @@ about-logins-os-auth-dialog-message =
         [macos] schimbă setările pentru parole
        *[other] { -brand-short-name } încearcă să schimbe setările pentru parole. Folosește autentificarea pe dispozitiv ca să permiți acțiunea.
     }
-# This message can be seen when attempting to edit a login in about:logins on Windows.
-about-logins-edit-login-os-auth-dialog-message2-win = Pentru editarea parolei, introdu-ți datele tale de autentificare pentru Windows. Ajută la protejarea securității conturilor tale.
 # This message can be seen when attempting to edit a login in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-edit-login-os-auth-dialog-message2-macosx = editează parola salvată
