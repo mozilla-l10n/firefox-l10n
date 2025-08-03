@@ -199,7 +199,13 @@ media-codec-support-lack-of-extension = Cài đặt tiện ích mở rộng
 
 media-content-decryption-modules-title = Thông tin về module giải mã nội dung - Content Decryption Modules (CDM)
 media-key-system-name = Tên khoá hệ thống
+media-video-robustness = Video Robustness (mức độ bảo vệ video)
+media-audio-robustness = Audio Robustness (mức độ bảo vệ âm thanh)
 media-cdm-capabilities = Khả năng
+# Clear Lead isn't defined in the spec, which means the the first few seconds
+# are not encrypted. It allows playback to start without having to wait for
+# license response, improving video start time and user experience.
+media-cdm-clear-lead = Clear Lead (phần mở đầu không mã hóa)
 # We choose 2.2 as this is the version which the video provider usually want to have in order to stream 4K video securely
 # HDCP version https://w3c.github.io/encrypted-media/#idl-def-hdcpversion
 media-hdcp-22-compatible = Tương thích HDCP 2.2
