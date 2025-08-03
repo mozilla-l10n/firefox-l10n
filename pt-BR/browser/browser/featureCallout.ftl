@@ -114,6 +114,10 @@ fxa-adoption-passwords-primary-button-label = Criar uma conta
 
 ## Windows 10 EoS Sync messages group 1 callouts
 
+windows-10-eos-sync-urgency-title-1 = Não perca tudo que você salvou ao mudar para o Windows 11.
+windows-10-eos-sync-urgency-subtitle-1 = Sincronize agora para manter seus favoritos, senhas e configurações do { -brand-short-name } seguros e fáceis de restaurar.
+windows-10-eos-sync-urgency-title-2 = Se despedindo do Windows 10? Proteja seus dados ao mudar.
+windows-10-eos-sync-urgency-subtitle-2 = Mesmo que você não use o { -brand-short-name } diariamente, sincronize para manter favoritos e senhas seguros e acessíveis.
 windows-10-eos-sync-new-device-primary-label = Sincronizar agora
 
 ## Sidebar Strings

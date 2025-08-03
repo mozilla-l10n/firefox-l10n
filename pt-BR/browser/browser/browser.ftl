@@ -1440,3 +1440,14 @@ trustpanel-tracking-content-not-blocking-tab-header =
        *[other] O { -brand-product-name } permitiu { $count } rastreadores
     }
 trustpanel-tracking-content-tab-list-header = Estes sites estão tentando rastrear você:
+trustpanel-cryptominer-blocking-tab-header =
+    { $count ->
+        [one] O { -brand-product-name } bloqueou { $count } criptominerador
+       *[other] O { -brand-product-name } bloqueou { $count } criptomineradores
+    }
+trustpanel-cryptominer-not-blocking-tab-header =
+    { $count ->
+        [one] O { -brand-product-name } permitiu { $count } criptominerador
+       *[other] O { -brand-product-name } permitiu { $count } criptomineradores
+    }
+trustpanel-cryptominer-tab-list-header = Estes sites estão tentando criptominerar:
