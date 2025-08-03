@@ -23,6 +23,8 @@ about-logging-logging-to-file = ਫ਼ਾਇਲ ਵਿੱਚ ਲਾਗ ਰੱਖੋ
 about-logging-logging-to-profiler = { -profiler-brand-name } ਲਈ ਲਾਗ ਕਰਨਾ
 about-logging-no-log-modules = ਕੋਈ ਨਹੀਂ
 about-logging-no-log-file = ਕੋਈ ਨਹੀਂ
+about-logging-menu =
+    .title = ਤਕਨੀਕੀ ਚੋਣਾਂ
 
 ## Logging presets
 
@@ -34,6 +36,7 @@ about-logging-preset-networking-http3-label = HTTP/3
 about-logging-preset-networking-http3-upload-speed-label = HTTP/3 ਅੱਪਲੋਡ ਗਤੀ
 about-logging-preset-media-playback-label = ਮੀਡੀਆ ਪਲੇਅਬੈਕ
 about-logging-preset-webrtc-label = WebRTC
+about-logging-preset-ml-label = ਮਸ਼ੀਨ ਸਿਖਲਾਈ
 about-logging-preset-webgpu-label = WebGPU
 about-logging-preset-gfx-label = ਗਰਾਫਿਕਸ
 # This is specifically "Microsoft Windows". Microsoft normally doesn't localize it, and we should follow their convention here.
@@ -42,3 +45,12 @@ about-logging-preset-custom-label = ਚੁਣਿੰਦਾ
 about-logging-preset-custom-description = ਲਾਗ ਮੋਡੀਊਲ ਖੁਦ ਚੁਣੇ ਗਏ ਹਨ
 # Error handling
 about-logging-error = ਗਲਤੀ:
+
+## The upload interface is shown only with the preference toolkit.aboutLogging.uploadProfileToCloud
+## set to true. It is false by default, except on Android.
+
+about-logging-save-button = ਸੰਭਾਲੋ
+about-logging-upload-button = ਅੱਪਲੋਡ ਕਰੋ
+# Variables:
+#   $path (string) - The path where the profile can be found.
+about-logging-saved = { $path } ਵਿੱਚ ਸੰਭਾਲਿਆ

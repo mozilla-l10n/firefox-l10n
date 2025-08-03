@@ -113,6 +113,10 @@ fxa-adoption-passwords-primary-button-label = ਸਾਈਟ ਅੱਪ
 ## Windows 10 EoS Sync messages group 1 callouts
 
 windows-10-eos-sync-urgency-title-1 = ਜਦੋਂ ਤੁਸੀਂ Windows 11 ਉੱਤੇ ਜਾਓ ਤਾਂ ਆਪਣੀਆਂ ਸੰਭਾਲੀਆਂ ਹੋਈਆਂ ਚੀਜ਼ਾਂ ਨੂੰ ਨਾ ਗੁਆਓ।
+windows-10-eos-sync-urgency-subtitle-1 = ਆਪਣੇ { -brand-short-name } ਬੁੱਕਮਾਰਕਾ, ਪਾਸਵਰਡਾਂ ਅਤੇ ਸੈਟਿੰਗਾਂ ਨੂੰ ਸੁਰੱਖਿਅ ਅਤੇ ਸੌਖੇ ਢੰਗ ਨਾਲ ਬਹਾਲ ਕਰਨ ਲਈ ਹੁਣੇ ਸਿੰਕ ਕਰੋ।
+windows-10-eos-sync-urgency-title-2 = Windows 10 ਨੂੰ ਅਲਵਿਦਾ ਕਹਿਣ ਦਾ ਸਮਾਂ ਹੈ? ਜਦੋਂ ਤੁਸੀਂ ਤਬਾਦਲਾ ਕਰੋ ਤਾਂ ਆਪਣੇ ਡਾਟੇ ਨੂੰ ਸੁਰੱਖਿਅਤ ਰੱਖੋ।
+windows-10-eos-sync-urgency-subtitle-2 = ਭਾਵੇਂ ਤੁਸੀਂ { -brand-short-name } ਨੂੰ ਰੋਜ਼ ਨਹੀਂ ਵਰਤਦੇ ਤਾਂ ਵੀ ਬੁੱਕਮਾਰਕਾਂ ਅਤੇ ਪਾਸਵਰਡਾਂ ਨੂੰ ਸੁਰੱਖਿਅਤ ਅਤੇ ਹੱਥ ਹੇਠ ਰੱਖਣ ਲਈ ਸਿੰਕ ਕਰੋ।
+windows-10-eos-sync-new-device-title-1 = ਆਪਣੇ ਅਗਲੇ ਡਿਵਾਈਸ ਨੂੰ ਮੁੱਢ ਤੋਂ ਸ਼ੁਰੂ ਕਰਨ ਦਾ ਖ਼ਤਰਾ ਨਾ ਸਹੇੜੋ।
 windows-10-eos-sync-tour-title-1 = ਬਹੁਤੀਆਂ ਟੈਬਾਂ ਹੋ ਗਈਆਂ? ਉਹਨਾਂ ਨੂੰ ਟੈਬ ਗਰੁੱਪਾਂ ਵਿੱਚ ਵੰਡ ਲਵੋ।
 windows-10-eos-sync-tour-title-2 = Windows 11 ਲਈ ਇੰਤਜ਼ਾਮ ਕਰੋ।
 windows-10-eos-sync-tour-subtitle-2 = ਬਦਲਣ ਤੋਂ ਪਹਿਲਾਂ ਆਪਣੇ ਬੁੱਕਮਾਰਕਾਂ, ਪਾਸਵਰਡਾਂ ਅਤੇ ਸੈਟਿੰਗਾਂ ਦਾ ਬੈਕ ਅੱਪ ਲੈਣ ਲਈ ਸਿੰਕ ਕਰੋ।

@@ -255,6 +255,8 @@ tab-group-editor-color-selector2-gray = ਸਲੇਟੀ
 tab-group-editor-color-selector2-red = ਲਾਲ
     .title = ਲਾਲ
 tab-group-description = { $tabGroupName } — ਟੈਬ ਗਰੁੱਪ
+tab-group-label-tooltip-collapsed = { $tabGroupName } — ਸਮੇਟੇ
+tab-group-label-tooltip-expanded = { $tabGroupName } — ਫਲਾਏ
 tab-context-unnamed-group =
     .label = ਬੇਨਾਮਾ ਗਰੁੱਪ
 tab-group-name-default = ਬੇਨਾਮਾ ਗਰੁੱਪ
@@ -277,6 +279,8 @@ tab-context-move-tab-to-group =
            *[other] ਟੈਬਾਂ ਨੂੰ ਗਰੁੱਪ ਵਿੱਚ ਜੋੜੋ
         }
     .accesskey = G
+tab-context-move-tab-to-group-saved-groups =
+    .label = ਗਰੁੱਪ ਬੰਦ ਕੀਤੇ
 tab-group-editor-action-new-tab =
     .label = ਗਰੁੱਪ ਵਿੱਚ ਨਵੀਂ ਟੈਬ
 tab-group-editor-action-new-window =
@@ -302,6 +306,16 @@ tab-context-ungroup-tab =
            *[other] ਗਰੁੱਪਾਂ ਵਿੱਚ ਹਟਾਓ
         }
     .accesskey = R
+# When a tab group containing the active tab is collapsed, the active tab
+# remains visible. An indicator appears at the end of the group showing the
+# number of remaining tabs that are hidden by the collapsed group,
+# e.g. "+2" for a group with 3 total tabs.
+tab-group-overflow-count = +{ $tabCount }
+tab-group-overflow-count-tooltip =
+    { $tabCount ->
+        [one] { $tabCount } ਹੋਰ ਟੈਬ
+       *[other] { $tabCount } ਹੋਰ ਟੈਬਾਂ
+    }
 
 ## Open/saved tab group context menu
 
