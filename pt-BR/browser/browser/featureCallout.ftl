@@ -125,6 +125,12 @@ windows-10-eos-sync-new-device-subtitle-2 = Não importa com que frequência voc
 windows-10-eos-sync-new-device-primary-label = Sincronizar agora
 windows-10-eos-sync-general-title-1 = Proteja o { -brand-short-name } que você deixou do seu jeito.
 windows-10-eos-sync-general-subtitle-1 = Faça backup e sincronize suas senhas, favoritos, configurações e outros dados para preservar o que é importante para você.
+windows-10-eos-sync-general-title-2 = Agora é um bom momento para fazer backup de suas senhas e favoritos.
+windows-10-eos-sync-general-subtitle-2 = Sincronize agora para proteger as coisas em que você confia no { -brand-short-name } e recupere em qualquer lugar, quando quiser.
+windows-10-eos-sync-tour-title-1 = Muitas abas? Organize com grupos de abas.
+windows-10-eos-sync-tour-subtitle-1 = Arraste uma aba sobre outra para criar um grupo e manter as coisas organizadas.
+windows-10-eos-sync-tour-title-2 = Prepare-se para o Windows 11.
+windows-10-eos-sync-tour-subtitle-2 = Sincronize seus favoritos, senhas e configurações para ter cópia de segurança antes de mudar.
 
 ## Sidebar Strings
 
