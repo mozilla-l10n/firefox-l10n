@@ -29,6 +29,7 @@ about-logging-no-log-modules = Nenhum
 about-logging-no-log-file = Nenhum
 about-logging-logging-preset-selector-text = Ajuste prévio de registro de log:
 about-logging-with-profiler-stacks-checkbox = Ativar stack trace em mensagens de log
+about-logging-with-javascript-tracing-checkbox = Ativar registro de JavaScript
 about-logging-menu =
     .title = Opções avançadas
 
@@ -52,6 +53,8 @@ about-logging-preset-webcodecs-label = WebCodecs
 about-logging-preset-webcodecs-description = Módulos de log para diagnosticar problemas com decodificadores e codificadores de áudio/vídeo WebCodecs e com decodificadores de imagens
 about-logging-preset-ml-label = Aprendizado de máquina
 about-logging-preset-ml-description = Módulos de log para diagnosticar problemas de aprendizado de máquina
+about-logging-preset-web-compat-label = Compatibilidade web
+about-logging-preset-web-compat-description = Módulos de log para diagnosticar problemas de compatibilidade web
 about-logging-preset-webgpu-label = WebGPU
 about-logging-preset-webgpu-description = Módulos de log para diagnosticar problemas de WebGPU
 about-logging-preset-gfx-label = Gráficos

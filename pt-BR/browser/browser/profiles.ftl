@@ -166,6 +166,9 @@ video-game-controller-avatar-alt =
     .alt = Controlador de videogame
 custom-avatar-alt =
     .alt = Avatar personalizado
+# Default favicon refers to the generic globe/world icon that appears in browser tabs when a website doesn't have its own favicon.
+default-favicon-avatar-alt =
+    .alt = Ícone padrão
 # Diamond refers to the precious stone, not the geometric shape
 diamond-avatar-alt =
     .alt = Diamante
@@ -183,8 +186,18 @@ canvas-avatar = Tela de pintura
 # Craft refers to hobby arts and crafts, represented by a button/fastener commonly found on clothing like shirts
 craft-avatar = Artesanato
 custom-avatar = Avatar personalizado
+# Default favicon refers to the generic globe/world icon that appears in browser tabs when a website doesn't have its own favicon.
+default-favicon-avatar = Ícone padrão
+# Diamond refers to the precious stone, not the geometric shape
+diamond-avatar = Diamante
 flower-avatar = Flor
+folder-avatar = Pasta
+hammer-avatar = Martelo
 heart-avatar = Coração
+heart-rate-avatar = Frequência cardíaca
+history-avatar = Histórico
+leaf-avatar = Folha
+lightbulb-avatar = Lâmpada
 makeup-avatar = Maquiagem
 # Message refers to a text message, not a traditional letter/envelope message
 message-avatar = Mensagem
