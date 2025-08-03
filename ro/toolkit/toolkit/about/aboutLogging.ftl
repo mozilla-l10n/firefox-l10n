@@ -28,6 +28,7 @@ about-logging-logging-to-profiler = Înregistrare în { -profiler-brand-name }
 about-logging-no-log-modules = Niciunul
 about-logging-no-log-file = Niciunul
 about-logging-logging-preset-selector-text = Presetare de jurnalizare:
+about-logging-with-profiler-stacks-checkbox = Activează urmărirea stivelor pentru mesajele din jurnal.
 about-logging-with-javascript-tracing-checkbox = Activează urmărirea JavaScript
 about-logging-menu =
     .title = Opțiuni avansate

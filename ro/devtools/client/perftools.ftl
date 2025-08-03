@@ -111,6 +111,8 @@ perftools-thread-jvm-default-dispatcher =
     .title = Expeditorul implicit pentru biblioteca de corutine Kotlin
 perftools-thread-jvm-glean =
     .title = Firele principale pentru SDK telemetrie Glean
+perftools-thread-jvm-arch-disk-io =
+    .title = Dispecerul IO pentru librăria de corutine Kotlin
 perftools-thread-jvm-pool =
     .title = Fire create într-un grup de fire fără nume
 
