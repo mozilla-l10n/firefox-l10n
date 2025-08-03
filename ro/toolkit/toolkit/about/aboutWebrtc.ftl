@@ -214,6 +214,11 @@ about-webrtc-track-identifier = Identificator de pistă
 about-webrtc-send-bandwidth-bytes-sec = Lățime de bandă de trimitere (octeți/sec)
 # The estimated bandwidth available for receiving WebRTC media in bytes per second
 about-webrtc-receive-bandwidth-bytes-sec = Lățime de bandă de recepție (octeți/sec)
+# The amount of time inserted between packets to keep them spaced out
+about-webrtc-pacer-delay-ms = Interval de timp între pachete (ms)
+# The amount of time it takes for a packet to travel from the local machine to the remote machine,
+# and then have a packet return
+about-webrtc-round-trip-time-ms = Timp dus-întors (RTT) (ms)
 # This is a section heading for video frame statistics for a MediaStreamTrack.
 # see https://developer.mozilla.org/en-US/docs/Web/API/MediaStreamTrack.
 # Variables:

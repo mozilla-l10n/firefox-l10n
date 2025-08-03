@@ -143,6 +143,8 @@ urlbar-geolocation-notification-anchor =
     .tooltiptext = Адкрыць панэль запытаў месцазнаходжання
 urlbar-localhost-notification-anchor =
     .tooltiptext = Кіраванне лакальным доступам да прылад для гэтага сайта
+urlbar-local-network-notification-anchor =
+    .tooltiptext = Кіраванне агульным доступам да лакальнай сеткі з гэтым сайтам
 urlbar-xr-notification-anchor =
     .tooltiptext = Адкрыць панэль дазволаў віртуальнай рэальнасці
 urlbar-storage-access-anchor =
@@ -243,6 +245,10 @@ urlbar-search-mode-actions = Дзеянні
 
 urlbar-geolocation-blocked =
     .tooltiptext = Вы заблакавалі звесткі аб месцазнаходжанні для гэтага сайта.
+urlbar-localhost-blocked =
+    .tooltiptext = Вы заблакавалі падключэнні лакальных прылад для гэтага сайта.
+urlbar-local-network-blocked =
+    .tooltiptext = Вы заблакавалі падключэнні да лакальнай сеткі для гэтага сайта.
 urlbar-xr-blocked =
     .tooltiptext = Вы заблакавалі доступ да прылад віртуальнай рэальнасці для гэтага сайта.
 urlbar-web-notifications-blocked =
@@ -835,6 +841,8 @@ urlbar-searchmode-default =
 urlbar-searchmode-popup-description = Гэтым разам шукаць у:
 urlbar-searchmode-popup-search-settings-menuitem =
     .label = Налады пошуку
+# Label shown next to a new search engine in the Searchmode Switcher popup to promote it.
+urlbar-searchmode-new = Стварыць
 # Searchmode Switcher button
 # Variables:
 #   $engine (String): the current default search engine.
@@ -1162,6 +1170,10 @@ tabs-toolbar-list-all-tabs =
     .label = Пералічыць усе карткі
     .tooltiptext = Пералічыць усе карткі
 
+## Drop indicator text for pinned tabs when no tabs are pinned.
+
+pinned-tabs-drop-indicator = Перацягніце картку сюды, каб замацаваць
+
 ## Infobar shown at startup to suggest session-restore
 
 # <img data-l10n-name="icon"/> will be replaced by the application menu icon
@@ -1338,3 +1350,27 @@ onboarding-checklist-button-label = Скончыць наладку
 onboarding-aw-finish-setup-button =
     .label = Скончыць наладку
     .tooltiptext = Завяршыць наладжванне { -brand-short-name }
+
+## The urlbar trust panel
+
+trustpanel-etp-label-enabled = Узмоцненая ахова ад сачэння ўключана
+trustpanel-etp-label-disabled = Узмоцненая ахова ад сачэння выключана
+# Variables
+#  $host (String): the hostname of the site that is being displayed.
+trustpanel-etp-toggle-on =
+    .aria-label = Узмоцненая ахова ад сачэння: Уключана для { $host }
+# Variables
+#  $host (String): the hostname of the site that is being displayed.
+trustpanel-etp-toggle-off =
+    .aria-label = Узмоцненая ахова ад сачэння: Выключана для { $host }
+trustpanel-privacy-link = Налады прыватнасці
+
+## Variables
+##  $count (String): the number of trackers blocked.
+
+trustpanel-tracking-content-blocking-tab-header =
+    { $count ->
+        [one] { -brand-product-name } заблакаваў { $count } трэкер
+        [few] { -brand-product-name } заблакаваў { $count } трэкеры
+       *[many] { -brand-product-name } заблакаваў { $count } трэкераў
+    }
