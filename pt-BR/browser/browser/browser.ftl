@@ -245,6 +245,8 @@ urlbar-search-mode-actions = Ações
 
 urlbar-geolocation-blocked =
     .tooltiptext = Você bloqueou informações de localização neste site.
+urlbar-localhost-blocked =
+    .tooltiptext = Você bloqueou conexões locais de dispositivos neste site.
 urlbar-local-network-blocked =
     .tooltiptext = Você bloqueou conexões de rede local neste site.
 urlbar-xr-blocked =
@@ -1352,6 +1354,7 @@ trustpanel-etp-description-enabled = Se algo parecer não funcionar neste site, 
 trustpanel-etp-description-disabled = O { -brand-product-name } acha que as empresas devem te seguir menos. Bloqueamos o máximo possivel de rastreadores quando você ativa as proteções.
 trustpanel-connection-label-secure = Conexão segura
 trustpanel-connection-label-insecure = Conexão não segura
+trustpanel-header-enabled = O { -brand-product-name } está em guarda
 trustpanel-description-enabled = Você está protegido. Se detectarmos algo, te avisaremos.
 trustpanel-header-disabled = Você desativou proteções
 trustpanel-description-disabled = O { -brand-product-name } não está te protegendo. Sugerimos reativar as proteções.
@@ -1397,6 +1400,11 @@ trustpanel-list-label-tracking-cookies =
        *[other] { $count } cookies de rastreamento entre sites
     }
 trustpanel-list-label-tracking-content = Conteúdo com rastreamento
+trustpanel-list-label-fingerprinter =
+    { $count ->
+        [one] { $count } rastreador de identidade digital
+       *[other] { $count } rastreadores de identidade digital
+    }
 trustpanel-list-label-social-tracking =
     { $count ->
         [one] { $count } rastreador de mídias sociais
@@ -1440,6 +1448,11 @@ trustpanel-tracking-content-not-blocking-tab-header =
        *[other] O { -brand-product-name } permitiu { $count } rastreadores
     }
 trustpanel-tracking-content-tab-list-header = Estes sites estão tentando rastrear você:
+trustpanel-fingerprinter-blocking-tab-header =
+    { $count ->
+        [one] O { -brand-product-name } bloqueou { $count } rastreador de identidade digital
+       *[other] O { -brand-product-name } bloqueou { $count } rastreadores de identidade digital
+    }
 trustpanel-cryptominer-blocking-tab-header =
     { $count ->
         [one] O { -brand-product-name } bloqueou { $count } criptominerador

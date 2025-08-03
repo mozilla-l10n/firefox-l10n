@@ -260,6 +260,8 @@ tab-group-editor-color-selector2-gray = Cinza
 tab-group-editor-color-selector2-red = Vermelho
     .title = Vermelho
 tab-group-description = { $tabGroupName } — Grupo de abas
+tab-group-label-tooltip-collapsed = { $tabGroupName } — Recolhido
+tab-group-label-tooltip-expanded = { $tabGroupName } — Expandido
 tab-context-unnamed-group =
     .label = Grupo sem nome
 tab-group-name-default = Grupo sem nome
@@ -306,6 +308,16 @@ tab-context-ungroup-tab =
            *[other] Remove from Groups
         }
     .accesskey = R
+# When a tab group containing the active tab is collapsed, the active tab
+# remains visible. An indicator appears at the end of the group showing the
+# number of remaining tabs that are hidden by the collapsed group,
+# e.g. "+2" for a group with 3 total tabs.
+tab-group-overflow-count = +{ $tabCount }
+tab-group-overflow-count-tooltip =
+    { $tabCount ->
+        [one] Mais { $tabCount } aba
+       *[other] Mais { $tabCount } abas
+    }
 
 ## Open/saved tab group context menu
 
