@@ -69,7 +69,7 @@ about-webauthn-confirm-deletion-label = Ești pe cale să ștergi:
 about-webauthn-current-set-pin-button = Setează PIN-ul
 about-webauthn-current-change-pin-button = Modifică PIN-ul
 # List is a verb, as in "Show list of credentials"
-about-webauthn-list-credentials-button = Listează datele de autentificare
+about-webauthn-list-credentials-button = Listează credențialele
 # List is a verb, as in "Show list of all enrollments"
 about-webauthn-list-bio-enrollments-button = Listează înscrierile
 about-webauthn-add-bio-enrollment-button = Adaugă înscriere
@@ -91,6 +91,7 @@ about-webauthn-auth-option-plat = Dispozitiv din platformă
 about-webauthn-auth-option-pinuvauthtoken = Permisiuni de comandă (pinUvAuthToken)
 # MakeCredential and GetAssertion should not be translated.
 about-webauthn-auth-option-nomcgapermissionswithclientpin = Fără permisiuni MakeCredential / GetAssertion cu PIN-ul clientului
+about-webauthn-auth-option-largeblobs = Blobs mari
 about-webauthn-auth-option-ep = Atestarea întreprinderii
 about-webauthn-auth-option-bioenroll = Înscriere biometrică
 # FIDO_2_1_PRE should not be translated.
@@ -115,10 +116,12 @@ about-webauthn-auth-option-null = Nesuportat
 ## Info fields correspond to the CTAP2 authenticatorGetInfo field member name and definitions found in https://fidoalliance.org/specs/fido-v2.1-ps-20210615/fido-client-to-authenticator-protocol-v2.1-ps-20210615.html#authenticatorGetInfo
 
 about-webauthn-auth-info-vendor-prototype-config-commands = Comenzi de configurare prototip furnizor
-about-webauthn-auth-info-remaining-discoverable-credentials = Date de autentificare rămase care pot fi descoperite
+about-webauthn-auth-info-remaining-discoverable-credentials = Credențiale rămase care pot fi descoperite
 about-webauthn-auth-info-certifications = Certificări
 about-webauthn-auth-info-uv-modality = Modalitate de verificare a utilizatorului
 about-webauthn-auth-info-preferred-platform-uv-attempts = Încercări preferate de verificare a utilizatorilor platformei
+about-webauthn-auth-info-max-rpids-for-set-min-pin-length = Număr maxim de ID-uri Relying Party pentru setarea lungimii minime a codului PIN
+about-webauthn-auth-info-max-cred-blob-length = Lungimea maximă a blobului de credențiale
 about-webauthn-auth-info-firmware-version = Versiune firmware
 about-webauthn-auth-info-min-pin-length = Lungime minimă PIN
 about-webauthn-auth-info-force-pin-change = Forțează schimbarea PIN-ului
