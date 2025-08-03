@@ -43,6 +43,8 @@ options-inspector-draggable-properties-tooltip =
 options-inspector-simplified-highlighters-label = Folosește evidențiatoare mai simple cu prefers-reduced-motion
 options-inspector-simplified-highlighters-tooltip =
     .title = Activează evidențiatoarele simplificate când este activată „prefers-reduced-motion”. Desenează linii în loc de dreptunghiuri pline în jurul elementelor evidențiate pentru evitarea efectelor de sclipire.
+options-inspector-rules-focus-next-on-enter-tooltip =
+    .title = Când este activată, apăsarea tastei Enter la editarea unui selector, a numelui unei proprietăți sau a unei valori va muta focalizarea pe următoarea intrare.
 
 ## "Default Color Unit" options for the Inspector
 
@@ -51,6 +53,7 @@ options-default-color-unit-authored = Ca la creare
 options-default-color-unit-hex = Hexazecimal
 options-default-color-unit-hsl = HSL(A)
 options-default-color-unit-rgb = RGB(A)
+options-default-color-unit-hwb = HWB
 options-default-color-unit-name = Nume de culori
 
 ## Web Console section
@@ -125,6 +128,10 @@ options-enable-remote-tooltip2 =
 options-enable-f12-label = Folosește tasta F12 ca să deschizi sau să închizi instrumentele de dezvoltare
 options-enable-f12-tooltip =
     .title = Activarea acestei opțiuni va asocia tasta F12 pentru deschiderea sau închiderea trusei de instrumente de dezvoltare.
+# The label for checkbox that toggles custom formatters for objects
+options-enable-custom-formatters-label = Activează formatoare personalizate
+options-enable-custom-formatters-tooltip =
+    .title = Activarea acestei opțiuni va permite site-urilor să definească formatoare personalizate pentru obiecte DOM
 # The label for checkbox that toggles the service workers testing over HTTP on or off.
 options-enable-service-workers-http-label = Activează scripturile Service Worker prin HTTP (când este deschisă caseta de instrumente)
 options-enable-service-workers-http-tooltip =

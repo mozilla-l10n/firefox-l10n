@@ -27,6 +27,8 @@ toolbox-meatball-menu-noautohide-label = Dezactivează ascunderea automată a fe
 
 ## These labels are shown in the top-toolbar in the Browser Toolbox and Browser Console
 
+toolbox-mode-browser-toolbox-label = Mod trusă de instrumente browser
+toolbox-mode-browser-console-label = Mod consolă browser
 toolbox-mode-everything-label = Multiproces
 toolbox-mode-everything-sub-label = (Mai lent)
 toolbox-mode-everything-container =
