@@ -39,6 +39,7 @@ about-networking-dns-lookup = Дархости DNS
 about-networking-dns-lookup-button = Ҳар кардан
 about-networking-dns-domain = Домен:
 about-networking-dns-lookup-table-column = Нишониҳои IP
+about-networking-dns-https-rrs-lookup-table-column = «HTTPS RR»-ҳо
 about-networking-dns-https-rr-lookup-table-column = HTTP RRs
 about-networking-rcwn = Омори RCWN
 about-networking-rcwn-status = Вазъияти RCWN

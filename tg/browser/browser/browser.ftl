@@ -141,6 +141,10 @@ urlbar-default-notification-anchor =
     .tooltiptext = Кушодани лавҳаи паёмҳо
 urlbar-geolocation-notification-anchor =
     .tooltiptext = Кушодани лавҳаи дархости маконҳо
+urlbar-localhost-notification-anchor =
+    .tooltiptext = Идора кардани дастрасии маҳаллии дастгоҳ ба ин сомона
+urlbar-local-network-notification-anchor =
+    .tooltiptext = Идора кардани мубодилаи дастрасии шабакаи маҳаллии худ бо ин сомона
 urlbar-xr-notification-anchor =
     .tooltiptext = Кушодани лавҳаи иҷозатҳои ҳақиқати виртуалӣ
 urlbar-storage-access-anchor =
@@ -241,6 +245,10 @@ urlbar-search-mode-actions = Амалҳо
 
 urlbar-geolocation-blocked =
     .tooltiptext = Шумо барои ин сомона маълумоти ҷойгиршавиро манъ кардед.
+urlbar-localhost-blocked =
+    .tooltiptext = Шумо барои ин сомона пайвастҳои дастгоҳҳои маҳаллиро манъ кардед.
+urlbar-local-network-blocked =
+    .tooltiptext = Шумо барои ин сомона пайвастҳои шабакаи маҳаллиро манъ кардед.
 urlbar-xr-blocked =
     .tooltiptext = Шумо барои ин сомона дастрасии дастгоҳи воқеияти виртуалиро манъ кардед.
 urlbar-web-notifications-blocked =
@@ -1359,6 +1367,10 @@ trustpanel-clear-cookies-header =
 trustpanel-clear-cookies-description = Агар шумо барои сомонаи асосӣ кукиҳо ва маълумоти сомонаро тоза кунед, ин амал метавонад шуморо аз низомҳои сомонаҳои алоқаманд берун барорад ва сабадҳои харидории шуморо тоза намояд.
 trustpanel-clear-cookies-subview-button-clear = Пок кардан
 trustpanel-clear-cookies-subview-button-cancel = Бекор кардан
+# Variables
+#  $host (String): the hostname of the site that is being displayed.
+trustpanel-site-information-header =
+    .title = Муҳофизати пайваст бо { $host }
 trustpanel-connection-secure = Шумо ба ин сомона тавассути шабакаи муҳофизатшуда пайваст шудед.
 trustpanel-connection-not-secure = Шумо ба ин сомона тавассути шабакаи муҳофизатнашуда пайваст шудед.
 trustpanel-siteinformation-morelink = Маълумоти бештар дар бораи сомона
