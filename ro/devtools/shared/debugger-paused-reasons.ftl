@@ -42,7 +42,7 @@ whypaused-interrupted = Pus în pauză la execuție
 whypaused-resume-limit = Pus pe pauză în timpul execuției pas cu pas
 # The text that is displayed in a info block explaining how the debugger is
 # currently paused on a dom event
-whypaused-pause-on-dom-events = Pus pe pauză de un listener de evenimente
+whypaused-pause-on-dom-events = Pus în pauză de un ascultător de evenimente
 # The text that is displayed in an info block when evaluating a conditional
 # breakpoint throws an error
 whypaused-breakpoint-condition-thrown = Eroare cu punctul de întrerupere condițional
