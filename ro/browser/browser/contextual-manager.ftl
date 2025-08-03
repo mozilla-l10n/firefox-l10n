@@ -22,24 +22,24 @@ contextual-manager-passwords-command-settings = Setări
 contextual-manager-passwords-command-help = Ajutor
 contextual-manager-passwords-os-auth-dialog-caption = { -brand-full-name }
 # This message can be seen when attempting to export a password in about:logins on Windows.
-contextual-manager-passwords-export-os-auth-dialog-message-win = Pentru exportarea parolelor, introdu datele de autentificare pentru Windows. Ajută la protejarea securității conturilor tale.
+contextual-manager-passwords-export-os-auth-dialog-message-win = Pentru a exporta parolele, introdu credențialele de autentificare în Windows. Acest lucru ajută la protejarea securității conturilor tale.
 # This message can be seen when attempting to export a password in about:logins
 # The macOS strings are preceded by the operating system with "Firefox is trying to "
 # and includes subtitle of "Enter password for the user "xxx" to allow this." These
 # notes are only valid for English. only provide the reason that account verification is needed. Do not put a complete sentence here.
 contextual-manager-passwords-export-os-auth-dialog-message-macosx = exportă parolele salvate
 # This message can be seen when attempting to reveal a password in contextual password manager on Windows
-contextual-manager-passwords-reveal-password-os-auth-dialog-message-win = Pentru a vizualiza parola, introdu-ți datele de autentificare pentru Windows. Ajută la protejarea securității conturilor tale.
+contextual-manager-passwords-reveal-password-os-auth-dialog-message-win = Pentru a vedea parola, introdu credențialele de autentificare în Windows. Acest lucru ajută la protejarea securității conturilor tale.
 # The MacOS string is preceded by the operating system with "Firefox is trying to ".
 # Only provide the reason that account verification is needed. Do not put a complete sentence here.
 contextual-manager-passwords-reveal-password-os-auth-dialog-message-macosx = afișează parola salvată
 # This message can be seen when attempting to edit a login in contextual password manager on Windows.
-contextual-manager-passwords-edit-password-os-auth-dialog-message-win = Pentru editarea parolei, introdu datele tale de autentificare pentru Windows. Ajută la protejarea securității conturilor tale.
+contextual-manager-passwords-edit-password-os-auth-dialog-message-win = Pentru a edita parola, introdu credențialele de autentificare în Windows. Acest lucru ajută la protejarea securității conturilor tale.
 # The MacOS string is preceded by the operating system with "Firefox is trying to ".
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 contextual-manager-passwords-edit-password-os-auth-dialog-message-macosx = editează parola salvată
 # This message can be seen when attempting to copy a password in contextual password manager on Windows.
-contextual-manager-passwords-copy-password-os-auth-dialog-message-win = Pentru a copia parola, introdu-ți datele de autentificare pentru Windows. Ajută la protejarea securității conturilor tale.
+contextual-manager-passwords-copy-password-os-auth-dialog-message-win = Pentru a copia parola, introdu credențialele de autentificare în Windows. Acest lucru ajută la protejarea securității conturilor tale.
 # The MacOS string is preceded by the operating system with "Firefox is trying to ".
 # Only provide the reason that account verification is needed. Do not put a complete sentence here.
 contextual-manager-passwords-copy-password-os-auth-dialog-message-macosx = copiază parola salvată
