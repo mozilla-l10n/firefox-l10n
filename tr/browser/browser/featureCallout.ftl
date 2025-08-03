@@ -123,10 +123,13 @@ windows-10-eos-sync-new-device-subtitle-1 = Taşınırken { -brand-short-name } 
 windows-10-eos-sync-new-device-title-2 = Yeni bir cihaza mı geçiyorsunuz? Önemli verilerinizi kaybetmeyin.
 windows-10-eos-sync-new-device-subtitle-2 = { -brand-short-name } tarayıcısını ne sıklıkta kullanırsanız kullanın; eşitleme yaparak yer imlerinizi, parolalarınızı ve ayarlarınızı koruyabilirsiniz.
 windows-10-eos-sync-new-device-primary-label = Şimdi eşitle
+windows-10-eos-sync-general-title-1 = { -brand-short-name } özelleştirmelerinizi kaybetmeyin.
 windows-10-eos-sync-general-subtitle-1 = Önemli bilgilerinizi kaybetmemek için parolalarınızı, yer imlerinizi, ayarlarınızı ve diğer verilerinizi yedekleyin ve eşitleyin.
 windows-10-eos-sync-general-title-2 = Şimdi parolalarınızı ve yer imlerinizi yedeklemenin tam zamanı.
+windows-10-eos-sync-general-subtitle-2 = { -brand-short-name } verilerinizi korumak için şimdi eşitleme yapın, sonra istediğiniz zaman verilerinizi geri yükleyin.
 windows-10-eos-sync-tour-title-1 = Çok fazla sekmeniz mi var? Sekmelerinizi gruplandırarak ortalığı toplayın.
 windows-10-eos-sync-tour-subtitle-1 = Sekmeleri üst üste sürükleyerek grup oluşturup sekmeleri daha düzenli tutabilirsiniz.
+windows-10-eos-sync-tour-title-2 = Windows 11 için hazırlıklarınızı yapın.
 windows-10-eos-sync-tour-subtitle-2 = Geçiş yapmadan önce yer imlerinizi, parolalarınızı ve ayarlarınızı yedeklemek için eşitleme yapın.
 
 ## Sidebar Strings

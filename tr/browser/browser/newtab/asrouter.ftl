@@ -346,11 +346,13 @@ multi-cta-fox-doodle-msix-privacy-focused-subtitle = Gizlilik odaklı favori tar
 
 ## Windows 10 EoS Sync messages group 1 spotlight
 
+windows-10-eos-sync-spotlight-title = Yakında Windows 10’dan yükseltme mi yapacaksınız?
 windows-10-eos-sync-spotlight-subtitle = Parolalarınızı ve yer imlerinizi yedekleyerek yeni cihazınıza geçmeye hazırlanın.
 windows-10-eos-sync-spotlight-primary-label = { -brand-short-name } tarayıcınızı yedekleyin
 
 ## Windows 10 EoS Sync messages group 1 toast notification
 
 windows-10-eos-sync-toast-title = Windows 11’e mi geçeceksiniz? Yer imlerinizi ve parolalarınızı kaybetmeyin.
+windows-10-eos-sync-toast-subtitle = { -brand-short-name } verilerinizi şimdi yedekleyin, sonra ister bu bilgisayarınıza yeni bilgisayarınıza geri yükleyin.
 windows-10-eos-sync-toast-primary-label = Başlayın
 windows-10-eos-sync-toast-secondary-label = Daha sonra hatırlat

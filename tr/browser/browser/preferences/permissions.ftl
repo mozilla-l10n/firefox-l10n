@@ -176,9 +176,13 @@ permissions-site-localhost-window =
 permissions-site-localhost-desc = Aşağıdaki siteler bu cihazdaki uygulama ve hizmetlere erişmek istedi. Erişime izin vermeyi veya erişimi engellemeyi seçebilirsiniz.
 permissions-site-localhost-disable-label =
     .label = Bu cihazdaki uygulama ve hizmetlere erişim isteklerini engelle
+permissions-site-localhost-disable-desc = Yukarıdaki listede bulunmayan hiçbir site bu cihazdaki uygulama ve hizmetlere erişim isteğinde bulunamayacaktır. Bu ayarı etkinleştirmeniz bazı sitelerin özelliklerini bozabilir.
 
 ## Site Permissions - Local network
 
+permissions-site-local-network-window =
+    .title = Ayarlar - Yerel Ağ Cihazları
+    .style = { permissions-window2.style }
 permissions-site-local-network-desc = Aşağıdaki siteler Wi-Fi veya yerel ağınıza bağlı cihazlardaki uygulama ve hizmetlere erişmek istedi. Erişime izin vermeyi veya erişimi engellemeyi seçebilirsiniz.
 
 ## Site Permissions - Microphone
