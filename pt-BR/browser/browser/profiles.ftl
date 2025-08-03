@@ -133,5 +133,10 @@ book-avatar = Livro
 briefcase-avatar = Maleta
 flower-avatar = Flor
 heart-avatar = Coração
+makeup-avatar = Maquiagem
+# Message refers to a text message, not a traditional letter/envelope message
+message-avatar = Mensagem
+musical-note-avatar = Nota musical
+palette-avatar = Paleta
 shopping-avatar = Carrinho de compras
 star-avatar = Estrela
