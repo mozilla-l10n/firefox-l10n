@@ -173,12 +173,16 @@ permissions-site-camera-disable-desc = To budźe websydła, kotrež horjeka w li
 permissions-site-localhost-window =
     .title = Nastajenja – Gratowe nałoženja a słužby
     .style = { permissions-window2.style }
+permissions-site-localhost-disable-label =
+    .label = Blokujće nowe naprašowanja za přistupom k nałoženjam a słužbam na tutym graće
 
 ## Site Permissions - Local network
 
 permissions-site-local-network-window =
     .title = Nastajenja – Graty lokalneje syće
     .style = { permissions-window2.style }
+permissions-site-local-network-disable-label =
+    .label = Blokujće nowe naprašowanja za přistupom k nałoženjam a słužbam na gratach, kotrež su z wašej lokalnej syću WLAN zwjazane.
 
 ## Site Permissions - Microphone
 
