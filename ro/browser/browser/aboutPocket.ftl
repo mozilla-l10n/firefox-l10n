@@ -43,8 +43,8 @@ pocket-panel-signup-tagline = Salvează articole și videoclipuri din { -brand-p
 pocket-panel-signup-tagline-story-one = Clic pe butonul { -pocket-brand-name } pentru a salva orice articol, videoclip sau pagină din { -brand-product-name }.
 pocket-panel-signup-tagline-story-two = Vezi în { -pocket-brand-name } de pe orice dispozitiv, oricând.
 pocket-panel-signup-cta-a-fix = Butonul tău de salvare pentru internet
-pocket-panel-signup-cta-b-updated = Dă click pe butonul { -pocket-brand-name } ca să salvezi articole, videoclipuri și link-uri. Vezi salvările pe orice dispozitiv în orice moment.
-pocket-panel-signup-cta-b-short = Dă clic pe butonul { -pocket-brand-name } ca să salvezi articole, videoclipuri și link-uri.
+pocket-panel-signup-cta-b-updated = Dă click pe butonul { -pocket-brand-name } ca să salvezi articole, videoclipuri și linkuri. Vezi salvările pe orice dispozitiv în orice moment.
+pocket-panel-signup-cta-b-short = Dă clic pe butonul { -pocket-brand-name } ca să salvezi articole, videoclipuri și linkuri.
 pocket-panel-signup-cta-c-updated = Îți vezi salvările pe orice dispozitiv, oricând.
 
 ## about:pocket-home panel

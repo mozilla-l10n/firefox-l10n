@@ -43,8 +43,8 @@ about-private-browsing-focus-promo-text-c = { -focus-brand-name } îți șterge 
 about-private-browsing-search-banner-title = { $engineName } este motorul tău de căutare implicit în ferestrele private
 about-private-browsing-search-banner-description =
     { PLATFORM() ->
-        [windows] Pentru a selecta alt motor de căutare, intră în <a data-l10n-name="link-options">Opțiuni</a>
-       *[other] Pentru a selecta alt motor de căutare, intră în <a data-l10n-name="link-options">Preferințe</a>
+        [windows] Pentru a selecta un alt motor de căutare, mergi la <a data-l10n-name="link-options">Opțiuni</a>
+       *[other] Pentru a selecta un alt motor de căutare, mergi la <a data-l10n-name="link-options">Preferințe</a>
     }
 about-private-browsing-search-banner-close-button =
     .aria-label = Închide
