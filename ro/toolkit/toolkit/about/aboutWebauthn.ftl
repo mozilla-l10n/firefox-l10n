@@ -125,6 +125,7 @@ about-webauthn-auth-info-max-cred-blob-length = Lungime maximă a blobului de cr
 about-webauthn-auth-info-firmware-version = Versiune firmware
 about-webauthn-auth-info-min-pin-length = Lungime minimă PIN
 about-webauthn-auth-info-force-pin-change = Forțează schimbarea PIN-ului
+about-webauthn-auth-info-max-ser-large-blob-array = Dimensiune maximă a unei matrice de bloburi mari
 about-webauthn-auth-info-algorithms = Algoritmi
 about-webauthn-auth-info-transports = Transporturi
 about-webauthn-auth-info-max-credential-id-length = Lungime maximă a ID-urilor credențialelor

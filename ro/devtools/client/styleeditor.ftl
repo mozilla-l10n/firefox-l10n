@@ -38,6 +38,8 @@ styleeditor-find-again =
 styleeditor-go-to-line =
     .label = Sari la rândul…
     .accesskey = J
+# Label displayed when searching a term that is not found in any stylesheet path
+styleeditor-stylesheet-all-filtered = Nu a fost găsită nicio foaie de stil potrivită.
 # This string is shown in the style sheets list
 # Variables:
 #   $ruleCount (Integer) - The number of rules in the stylesheet.
