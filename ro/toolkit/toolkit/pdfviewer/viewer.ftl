@@ -466,9 +466,55 @@ pdfjs-editor-highlight-show-all-button =
 
 # Modal header positioned above a text box where users can edit the alt text.
 pdfjs-editor-new-alt-text-dialog-edit-label = Editează textul alternativ (descrierea imaginii)
+# Modal header positioned above a text box where users can add the alt text.
+pdfjs-editor-new-alt-text-dialog-add-label = Adaugă text alternativ (descrierea imaginii)
+pdfjs-editor-new-alt-text-textarea =
+    .placeholder = Scrie descrierea aici...
+# This text refers to the alt text box above this description. It offers a definition of alt text.
+pdfjs-editor-new-alt-text-description = Scurtă descriere pentru cei care nu pot vedea imaginea sau pentru când nu se încarcă imaginea.
+# This is a required legal disclaimer that refers to the automatically created text inside the alt text box above this text. It disappears if the text is edited by a human.
+pdfjs-editor-new-alt-text-disclaimer1 = Acest text alternativ a fost creat automat și este posibil să nu fie exact.
+pdfjs-editor-new-alt-text-disclaimer-learn-more-url = Află mai multe
+pdfjs-editor-new-alt-text-create-automatically-button-label = Creează automat texte alternative
+pdfjs-editor-new-alt-text-not-now-button = Nu acum
+pdfjs-editor-new-alt-text-error-title = Nu s-a putut crea automat textul alternativ
+pdfjs-editor-new-alt-text-error-description = Te rugăm să scrii propriul text alternativ sau să încerci din nou mai târziu.
+pdfjs-editor-new-alt-text-error-close-button = Închide
+# Variables:
+#   $totalSize (Number) - the total size (in MB) of the AI model.
+#   $downloadedSize (Number) - the downloaded size (in MB) of the AI model.
+pdfjs-editor-new-alt-text-ai-model-downloading-progress = Se descarcă modelul IA de text alternativ ({ $downloadedSize } de { $totalSize } MB)
+    .aria-valuetext = Se descarcă modelul IA de text alternativ ({ $downloadedSize } de { $totalSize } MB)
+# This is a button that users can click to edit the alt text they have already added.
+pdfjs-editor-new-alt-text-added-button =
+    .aria-label = Text alternativ adăugat
+pdfjs-editor-new-alt-text-added-button-label = Text alternativ adăugat
+# This is a button that users can click to open the alt text editor and add alt text when it is not present.
+pdfjs-editor-new-alt-text-missing-button =
+    .aria-label = Text alternativ lipsă
+pdfjs-editor-new-alt-text-missing-button-label = Text alternativ lipsă
+# This is a button that opens up the alt text modal where users should review the alt text that was automatically generated.
+pdfjs-editor-new-alt-text-to-review-button =
+    .aria-label = Revizuiește textul alternativ
+pdfjs-editor-new-alt-text-to-review-button-label = Revizuiește textul alternativ
+# "Created automatically" is a prefix that will be added to the beginning of any alt text that has been automatically generated. After the colon, the user will see/hear the actual alt text description. If the alt text has been edited by a human, this prefix will not appear.
+# Variables:
+#   $generatedAltText (String) - the generated alt-text.
+pdfjs-editor-new-alt-text-generated-alt-text-with-disclaimer = Creat automat: { $generatedAltText }
 
 ## Image alt-text settings
 
+pdfjs-image-alt-text-settings-button =
+    .title = Setări text alternativ imagini
+pdfjs-image-alt-text-settings-button-label = Setări text alternativ imagini
+pdfjs-editor-alt-text-settings-dialog-label = Setări text alternativ imagini
+pdfjs-editor-alt-text-settings-automatic-title = Text alternativ automat
+pdfjs-editor-alt-text-settings-create-model-button-label = Creează automat texte alternative
+pdfjs-editor-alt-text-settings-create-model-description = Sugerează descrieri ca să îi ajuți pe cei care nu pot vedea imaginea sau pentru când nu se încarcă imaginea.
+# Variables:
+#   $totalSize (Number) - the total size (in MB) of the AI model.
+pdfjs-editor-alt-text-settings-download-model-label = Model IA de text alternativ ({ $totalSize } MB)
+pdfjs-editor-alt-text-settings-ai-model-description = Rulează local pe dispozitiv, deci datele tale rămân private. Necesar pentru text alternativ automat.
 pdfjs-editor-alt-text-settings-delete-model-button = Șterge
 pdfjs-editor-alt-text-settings-download-model-button = Descarcă
 pdfjs-editor-alt-text-settings-downloading-model-button = Se descarcă…

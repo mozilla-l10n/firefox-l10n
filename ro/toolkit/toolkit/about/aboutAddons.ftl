@@ -570,6 +570,13 @@ mlmodel-about-inference = { -brand-short-name } o folosește în about:inference
 mlmodel-link-preview = { -brand-short-name } o folosește ca să genereze puncte-cheie când previzualizezi linkuri
 mlmodel-pdfjs = { -brand-short-name } o folosește ca să creeze text alternativ pentru imagini pe care le adaugi în PDF-uri
 mlmodel-smart-tab-topic-engine = { -brand-short-name } o folosește ca să sugereze denumiri pentru grupele tale de file
+mlmodel-smart-tab-embedding-engine = { -brand-short-name } o folosește ca să sugereze file pentru grupurile tale de file
+# AI Model will be downloaded on the users device and used locally
+addon-category-mlmodel = IA pe dispozitiv
+addon-category-mlmodel-title =
+    .title = IA pe dispozitiv
+mlmodel-heading = Gestionează modelele de IA de pe dispozitiv
+mlmodel-description = Unele funcționalități și extensii din { -brand-short-name } sunt bazate pe modele IA care lucrează local pe dispozitivul tău. Abordarea îți protejează confidențialitatea și, în multe cazuri, crește performanța. <a data-l10n-name="learn-more">Află mai multe</a>
 # Label for button that when clicked removed local model
 mlmodel-remove-addon-button =
     .aria-label = Elimină
@@ -578,3 +585,7 @@ mlmodel-addon-detail-totalsize-label = Mărime fișier
 mlmodel-addon-detail-last-used-label = Ultima utilizare
 # This is a section label to describe what extensions or features use a specific local AI model
 mlmodel-addon-detail-used-by-label = Utilizat de
+# This is a section label to describe the link to the model card on the Hugging Face website
+mlmodel-addon-detail-model-card = Card de model
+# This is a label for the Model Card link to Hugging face
+mlmodel-addon-detail-model-card-link-label = Vizualizează pe Hugging Face
