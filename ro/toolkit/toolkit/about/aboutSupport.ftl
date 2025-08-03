@@ -453,6 +453,7 @@ support-remote-features-status = Stare
 
 pointing-device-mouse = Mouse
 pointing-device-touchscreen = Ecran tactil
+pointing-device-pen-digitizer = Digitizor stilou
 pointing-device-none = Fără dispozitive de indicare
 
 ## Content Analysis (DLP)

@@ -1368,6 +1368,7 @@ trustpanel-privacy-link = Налады прыватнасці
 ## Variables
 ##  $count (String): the number of trackers blocked.
 
+trustpanel-tracking-cookies-tab-list-header = Гэтыя сайты спрабуюць вас асачыць:
 trustpanel-tracking-content-blocking-tab-header =
     { $count ->
         [one] { -brand-product-name } заблакаваў { $count } трэкер

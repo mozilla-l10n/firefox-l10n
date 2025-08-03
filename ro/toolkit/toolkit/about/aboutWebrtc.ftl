@@ -214,6 +214,8 @@ about-webrtc-track-identifier = Identificator de pistă
 about-webrtc-send-bandwidth-bytes-sec = Lățime de bandă de trimitere (octeți/sec)
 # The estimated bandwidth available for receiving WebRTC media in bytes per second
 about-webrtc-receive-bandwidth-bytes-sec = Lățime de bandă de recepție (octeți/sec)
+# Maximum number of bytes per second that will be padding zeros at the ends of packets
+about-webrtc-max-padding-bytes-sec = Completare maximă (byți/s)
 # The amount of time inserted between packets to keep them spaced out
 about-webrtc-pacer-delay-ms = Interval de timp între pachete (ms)
 # The amount of time it takes for a packet to travel from the local machine to the remote machine,
