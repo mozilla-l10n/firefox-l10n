@@ -1453,6 +1453,12 @@ trustpanel-fingerprinter-blocking-tab-header =
         [one] O { -brand-product-name } bloqueou { $count } rastreador de identidade digital
        *[other] O { -brand-product-name } bloqueou { $count } rastreadores de identidade digital
     }
+trustpanel-fingerprinter-not-blocking-tab-header =
+    { $count ->
+        [one] O { -brand-product-name } permitiu { $count } rastreador de identidade digital
+       *[other] O { -brand-product-name } permitiu { $count } rastreadores de identidade digital
+    }
+trustpanel-fingerprinter-list-header = Estes sites estão tentando rastrear sua identidade digital:
 trustpanel-cryptominer-blocking-tab-header =
     { $count ->
         [one] O { -brand-product-name } bloqueou { $count } criptominerador

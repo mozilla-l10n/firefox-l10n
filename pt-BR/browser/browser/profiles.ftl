@@ -116,21 +116,73 @@ book-avatar-alt =
     .alt = Livro
 briefcase-avatar-alt =
     .alt = Maleta
+# Canvas refers to an artist's painting canvas, not the general material
+canvas-avatar-alt =
+    .alt = Tela de pintura
+# Craft refers to hobby arts and crafts, represented by a button/fastener commonly found on clothing like shirts
+craft-avatar-alt =
+    .alt = Artesanato
 flower-avatar-alt =
     .alt = Flor
+folder-avatar-alt =
+    .alt = Pasta
+hammer-avatar-alt =
+    .alt = Martelo
 heart-avatar-alt =
     .alt = Coração
+heart-rate-avatar-alt =
+    .alt = Frequência cardíaca
+history-avatar-alt =
+    .alt = Histórico
+leaf-avatar-alt =
+    .alt = Folha
+lightbulb-avatar-alt =
+    .alt = Lâmpada
+makeup-avatar-alt =
+    .alt = Maquiagem
+# Message refers to a text message, not a traditional letter/envelope message
+message-avatar-alt =
+    .alt = Mensagem
+musical-note-avatar-alt =
+    .alt = Nota musical
+palette-avatar-alt =
+    .alt = Paleta
+paw-print-avatar-alt =
+    .alt = Pegada de pata
+plane-avatar-alt =
+    .alt = Avião
+# Present refers to a gift box, not the current time period
+present-avatar-alt =
+    .alt = Presente
 shopping-avatar-alt =
     .alt = Carrinho de compras
+soccer-avatar-alt =
+    .alt = Futebol
+sparkle-single-avatar-alt =
+    .alt = Faísca
 star-avatar-alt =
     .alt = Estrela
+video-game-controller-avatar-alt =
+    .alt = Controlador de videogame
 custom-avatar-alt =
     .alt = Avatar personalizado
+# Diamond refers to the precious stone, not the geometric shape
+diamond-avatar-alt =
+    .alt = Diamante
+barbell-avatar-alt =
+    .alt = Haltere
+bike-avatar-alt =
+    .alt = Bicicleta
 
 ## Labels for default avatar icons
 
 book-avatar = Livro
 briefcase-avatar = Maleta
+# Canvas refers to an artist's painting canvas, not the general material
+canvas-avatar = Tela de pintura
+# Craft refers to hobby arts and crafts, represented by a button/fastener commonly found on clothing like shirts
+craft-avatar = Artesanato
+custom-avatar = Avatar personalizado
 flower-avatar = Flor
 heart-avatar = Coração
 makeup-avatar = Maquiagem
