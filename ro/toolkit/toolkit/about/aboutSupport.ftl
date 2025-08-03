@@ -119,6 +119,7 @@ graphics-gpu2-title = GPU #2
 graphics-decision-log-title = Jurnal de decizii
 graphics-crash-guards-title = Funcții dezactivate de Crash Guard
 graphics-workarounds-title = Alternative
+graphics-device-pixel-ratios = Rapoarte pixeli dispozitiv Windows
 # Windowing system in use on Linux (e.g. X11, Wayland).
 graphics-window-protocol = Protocol de ferestre
 # Desktop environment in use on Linux (e.g. GNOME, KDE, XFCE, etc).
@@ -204,6 +205,9 @@ media-key-system-name = Denumire sistem de chei
 media-video-robustness = Robustețe video
 media-audio-robustness = Robustețe audio
 media-cdm-capabilities = Capabilități
+# We choose 2.2 as this is the version which the video provider usually want to have in order to stream 4K video securely
+# HDCP version https://w3c.github.io/encrypted-media/#idl-def-hdcpversion
+media-hdcp-22-compatible = Compatibil cu HDCP 2.2
 
 ##
 
@@ -288,6 +292,7 @@ try-newer-driver = Blocat pentru versiunea ta de driver pentru adaptorul grafic.
 # there are no good translations, these are only used in about:support
 clear-type-parameters = Parametrii ClearType
 compositing = Compunere
+support-font-determination = Informații de depanare privind vizibilitatea fontului
 hardware-h264 = Decodare H264 hardware
 main-thread-no-omtc = fir principal, fără OMTC
 yes = Da
@@ -323,6 +328,8 @@ webgl2-renderer = Renderul driverului WebGL 2
 webgl2-version = Versiunea driverului WebGL 2
 webgl2-driver-extensions = Extensiile driverului WebGL 2
 webgl2-extensions = Extensii WebGL 2
+webgpu-default-adapter = Adaptor WebGPU implicit
+webgpu-fallback-adapter = Adaptor WebGPU de rezervă
 # Variables
 #   $bugNumber (string) - Bug number on Bugzilla
 support-blocklisted-bug = Pus pe lista de blocare din cauza problemelor cunoscute: <a data-l10n-name="bug-link">bug { $bugNumber }</a>
@@ -347,10 +354,15 @@ has-seccomp-bpf = Seccomp-BPF (filtrarea apelurilor de sistem)
 has-seccomp-tsync = Sincronizarea firului de execuție seccomp
 has-user-namespaces = Spații de nume ale utilizatorului
 has-privileged-user-namespaces = Spații de nume ale utilizatorului pentru procese privilegiate
+# Variables
+# $status (string) - Boolean value of hasUserNamespaces (should only be false when support-user-namespaces-unavailable is used)
+support-user-namespaces-unavailable = { $status } — Funcționalitatea nu este permisă pe sistemul tău. Funcționalitățile de securitate { -brand-short-name } pot fi restricționate.
 can-sandbox-content = Proces sandbox pentru continuț
 can-sandbox-media = Plugin sandbox pentru media
 content-sandbox-level = Nivel de sandbox al proceselor pentru conținut
 effective-content-sandbox-level = Nivel efectiv de sandbox al proceselor pentru conținut
+content-win32k-lockdown-state = Stare de blocare Win32k pentru procesul de conținut
+support-sandbox-gpu-level = Nivel sandbox pentru procese GPU
 sandbox-proc-type-content = conținut
 sandbox-proc-type-file = conținut fișier
 sandbox-proc-type-media-plugin = plugin media
@@ -368,6 +380,10 @@ launcher-process-status-unknown = Stare necunoscută
 # $remoteWindows (integer) - Number of remote windows
 # $totalWindows (integer) - Number of total windows
 multi-process-windows = { $remoteWindows }/{ $totalWindows }
+# Variables
+# $fissionWindows (integer) - Number of remote windows
+# $totalWindows (integer) - Number of total windows
+fission-windows = { $fissionWindows }/{ $totalWindows }
 fission-status-experiment-control = Dezactivate de experiment
 fission-status-experiment-treatment = Activate de experiment
 fission-status-disabled-by-e10s-env = Dezactivate de mediu
@@ -378,6 +394,7 @@ fission-status-disabled-by-default = Dezactivate implicit
 fission-status-enabled-by-user-pref = Activate de utilizator
 fission-status-disabled-by-user-pref = Dezactivate de utilizator
 fission-status-disabled-by-e10s-other = Dezactivate de E10s
+fission-status-enabled-by-rollout = Activat prin lansare etapizată
 async-pan-zoom = Panoramare/zoom asincron(ă)
 apz-none = fără
 wheel-enabled = intrare pentru rotița mouse-ului activată

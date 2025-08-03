@@ -4,9 +4,12 @@
 
 about-networking-title = Despre rețea
 about-networking-http = HTTP
+about-networking-http-clear-cache-button = Golește cache-ul HTTP
 about-networking-sockets = Socketuri
 about-networking-dns = DNS
 about-networking-dns-clear-cache-button = Golește cache-ul DNS
+about-networking-dns-trr-url = URL DoH
+about-networking-dns-trr-mode = Mod DoH
 about-networking-dns-suffix = Sufix DNS
 about-networking-websockets = WebSockets
 about-networking-refresh = Reîmprospătează
@@ -18,6 +21,7 @@ about-networking-ssl = SSL
 about-networking-active = Activ(ă)
 about-networking-idle = Inactiv(ă)
 about-networking-host = Gazdă
+about-networking-type = Tip
 about-networking-sent = Trimise
 about-networking-received = Primite
 about-networking-family = Familie
@@ -25,6 +29,7 @@ about-networking-trr = TRR
 about-networking-addresses = Adrese
 about-networking-expires = Expiră (secunde)
 about-networking-originAttributesSuffix = Cheie de izolare
+about-networking-flags = Semnalizări suplimentare
 about-networking-messages-sent = Mesaje trimise
 about-networking-messages-received = Mesaje primite
 about-networking-bytes-sent = Byți trimiși
@@ -34,6 +39,8 @@ about-networking-dns-lookup = Analizare DNS
 about-networking-dns-lookup-button = Rezolvă
 about-networking-dns-domain = Domeniu:
 about-networking-dns-lookup-table-column = IP-uri
+about-networking-dns-https-rrs-lookup-table-column = RR-uri HTTPS
+about-networking-dns-https-rr-lookup-table-column = RR-uri HTTP
 about-networking-rcwn = Statistici RCWN
 about-networking-rcwn-status = Stare RCWN
 about-networking-rcwn-cache-won-count = Număr de victorii ale memoriei cache
@@ -51,6 +58,8 @@ about-networking-rcwn-cache-slow = De câte ori memoria cache este lentă
 about-networking-rcwn-cache-not-slow = De câte ori memoria cache nu este lentă
 about-networking-networkid = ID rețea
 about-networking-networkid-id = ID rețea
+# Note: do not translate about:logging, as it is a URL.
+about-networking-moved-about-logging = Pagina a fost mutată la <a data-l10n-name="about-logging-url">about:logging</a>.
 
 ## Link is intended as "network link"
 

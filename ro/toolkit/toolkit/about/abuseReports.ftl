@@ -63,9 +63,14 @@ abuse-report-settings-suggestions-homepage = Schimbă pagina de start și de fil
 abuse-report-deceptive-reason-v2 = Pretinde că e ceva ce nu este
 abuse-report-deceptive-example = Exemplu: Descriere sau grafică ce induce în eroare
 abuse-report-broken-reason-extension-v2 = Nu funcționează, produce defecțiuni pe site-uri web sau înceteinește { -brand-product-name }
+abuse-report-broken-reason-sitepermission-v2 = Nu funcționează, produce defecțiuni pe site-uri web sau încetinește { -brand-product-name }
 abuse-report-broken-reason-theme-v2 = Nu funcționează sau face inutilizabil afișajul în browser
 abuse-report-broken-example = Exemplu: Funcționalitățile sunt lente, greu de utilizat sau nu funcționează; nu se încarcă părți din site-uri sau arată straniu
 abuse-report-broken-suggestions-extension = Pare că ai identificat o defecțiune. În plus față de transmiterea unei raportări aici, cea mai bună cale de rezolvare a unei probleme de funcționalitate este să contactezi dezvoltatorul extensiei. <a data-l10n-name="support-link">Intră pe site-ul extensiei</a> pentru a obține datele de contact ale dezvoltatorului.
+abuse-report-broken-suggestions-sitepermission =
+    Se pare că ai identificat o defecțiune. În plus față de transmiterea unui raport aici, cea mai bună cale 
+    de rezolvare a unei probleme de funcționalitate este să contactezi dezvoltatorul site-ului.
+    <a data-l10n-name="support-link">Intră pe site</a> ca să găsești datele de contact ale dezvoltatorului.
 abuse-report-broken-suggestions-theme = Pare că ai identificat o defecțiune. În plus față de transmiterea unei raportări aici, cea mai bună cale de rezolvare a unei probleme de funcționalitate este să contactezi dezvoltatorul temei. <a data-l10n-name="support-link">Intră pe site-ul temei</a> pentru a obține datele de contact ale dezvoltatorului.
 abuse-report-policy-reason-v2 = Are conținut de ură, violent sau ilegal
 abuse-report-policy-suggestions = Notă: Aspectele legate de drepturile de reproducere și mărcile comerciale trebuie raportate printr-o procedură separată. <a data-l10n-name="report-infringement-link">Folosește aceste instrucțiuni</a> ca să raportezi problema.
