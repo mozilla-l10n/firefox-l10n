@@ -47,3 +47,13 @@ styleeditor-stylesheet-rule-count =
         [few] { $ruleCount } reguli.
        *[other] { $ruleCount } de reguli.
     }
+# Title for the pretty print button in the editor footer.
+styleeditor-pretty-print-button =
+    .title = Reformatează fișa de stiluri
+# Title for the pretty print button in the editor footer, when it's disabled
+styleeditor-pretty-print-button-disabled =
+    .title = Poate reformata numai fișiere CSS
+# Title for the pretty print button in the editor footer, when it's disabled because
+# the stylesheet is read-only
+styleeditor-pretty-print-button-disabled-read-only =
+    .title = Nu poate reformata fișe de stiluri cu permisiune doar de citire.

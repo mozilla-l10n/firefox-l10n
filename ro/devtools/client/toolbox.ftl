@@ -24,6 +24,8 @@ toolbox-meatball-menu-community-label = Comunitate…
 # to stay visible on blur, which is primarily useful for addon developers and Firefox
 # contributors.
 toolbox-meatball-menu-noautohide-label = Dezactivează ascunderea automată a ferestrelor pop-up
+toolbox-meatball-menu-pseudo-locale-accented = Activează limbă locală cu diacritice
+toolbox-meatball-menu-pseudo-locale-bidi = Activează limbă locală „bidi”
 
 ## These labels are shown in the top-toolbar in the Browser Toolbox and Browser Console
 
