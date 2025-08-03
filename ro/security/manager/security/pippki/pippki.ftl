@@ -102,3 +102,9 @@ set-password-backup-pw =
 set-password-repeat-backup-pw =
     .value = Parola de siguranță pentru certificate (din nou):
 set-password-reminder = Important: Dacă uiți parola de siguranță pentru certificate, nu vei putea reface această copie mai târziu.  Te rugăm să ai grijă să o păstrezi într-un loc sigur.
+
+## Protected authentication alert
+
+# Variables:
+# $tokenName (String) - The name of the token to authenticate to (for example, "OS Client Cert Token (Modern)")
+protected-auth-alert = Te rugăm să te autentifici pe jetonul „{ $tokenName }”. Cum anume, depinde de jeton (de exemplu, folosind un cititor de amprente sau introducând un cod cu o tastatură).

@@ -299,6 +299,15 @@ find-more-themes = Găsește mai multe teme
 # used for screen readers.
 addon-options-button =
     .aria-label = Mai multe opțiuni
+# Explanatory introduction to the list of recommended add-ons. The action word
+# ("recommends") in the final sentence is a link to external documentation.
+# We hard code "Firefox" because we do not want to imply that a Firefox fork is
+# making this recommendation.
+discopane-intro3 =
+    Extensiile și temele îți permit să personalizezi { -brand-product-name }. Pot îmbunătăți confidențialitatea,
+    sporesc productivitatea, îmbunătățesc redarea multimedia, schimbă aspectul { -brand-product-name } și
+    multe altele. Aceste mici programe software sunt adesea dezvoltate de terți. Iată
+    o selecție pe care Firefox o <a data-l10n-name="learn-more-trigger">recomandă</a> pentru securitate, performanțe și funcționalitate excepționale.
 
 ## Add-on actions
 
@@ -461,6 +470,9 @@ addon-permissions-optional = Permisiuni opționale pentru funcționalitatea adă
 addon-permissions-learnmore = Află mai multe despre permisiuni
 recommended-extensions-heading = Extensii recomandate
 recommended-themes-heading = Teme recomandate
+# Variables:
+#   $hostname (string) - Host where the permissions are granted
+addon-sitepermissions-required = Acordă următoarele capacități pentru <span data-l10n-name="hostname">{ $hostname }</span>:
 # A recommendation for the Firefox Color theme shown at the bottom of the theme
 # list view. The "Firefox Color" name itself should not be translated.
 recommended-theme-1 = Te simți creativ? <a data-l10n-name="link">Construiește-ți propria temă cu Firefox Color.</a>
@@ -543,6 +555,10 @@ plugins-widevine-description = Acest plugin permite redarea fișierelor multimed
 ## Headings for the Permissions tab in `about:addons` when the data collection
 ## feature is enabled.
 
+addon-permissions-required-data-collection = Colectare de date necesare:
+addon-permissions-optional-data-collection = Colectare de date opționale:
+# Name of the Permissions tab in `about:addons` when the data collection feature is enabled.
+permissions-data-addon-button = Permisiuni și date
 # This is a description for extension that use this AI model
 # Variables:
 #   $extensionName (String) - Name of the extension
@@ -550,6 +566,10 @@ mlmodel-extension-label = Folosit de extensia { $extensionName }
 
 ## Mapping Engine IDs from AI models to how that feature represented by the engine Id is described in the used by section in local model management
 
+mlmodel-about-inference = { -brand-short-name } o folosește în about:inference
+mlmodel-link-preview = { -brand-short-name } o folosește ca să genereze puncte-cheie când previzualizezi linkuri
+mlmodel-pdfjs = { -brand-short-name } o folosește ca să creeze text alternativ pentru imagini pe care le adaugi în PDF-uri
+mlmodel-smart-tab-topic-engine = { -brand-short-name } o folosește ca să sugereze denumiri pentru grupele tale de file
 # Label for button that when clicked removed local model
 mlmodel-remove-addon-button =
     .aria-label = Elimină
