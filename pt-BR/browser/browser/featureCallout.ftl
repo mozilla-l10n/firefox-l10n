@@ -118,7 +118,13 @@ windows-10-eos-sync-urgency-title-1 = Não perca tudo que você salvou ao mudar 
 windows-10-eos-sync-urgency-subtitle-1 = Sincronize agora para manter seus favoritos, senhas e configurações do { -brand-short-name } seguros e fáceis de restaurar.
 windows-10-eos-sync-urgency-title-2 = Se despedindo do Windows 10? Proteja seus dados ao mudar.
 windows-10-eos-sync-urgency-subtitle-2 = Mesmo que você não use o { -brand-short-name } diariamente, sincronize para manter favoritos e senhas seguros e acessíveis.
+windows-10-eos-sync-new-device-title-1 = Não corra o risco de começar novamente no seu próximo dispositivo.
+windows-10-eos-sync-new-device-subtitle-1 = Sincronize para levar seus favoritos, senhas e configurações preferidos do { -brand-short-name } com você ao mudar.
+windows-10-eos-sync-new-device-title-2 = Vai mudar para um novo dispositivo? Não perca o que importa.
+windows-10-eos-sync-new-device-subtitle-2 = Não importa com que frequência você usa o { -brand-short-name }, a sincronização protege seus favoritos, senhas e configurações.
 windows-10-eos-sync-new-device-primary-label = Sincronizar agora
+windows-10-eos-sync-general-title-1 = Proteja o { -brand-short-name } que você deixou do seu jeito.
+windows-10-eos-sync-general-subtitle-1 = Faça backup e sincronize suas senhas, favoritos, configurações e outros dados para preservar o que é importante para você.
 
 ## Sidebar Strings
 
