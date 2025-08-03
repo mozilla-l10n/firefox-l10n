@@ -43,6 +43,9 @@ options-inspector-draggable-properties-tooltip =
 options-inspector-simplified-highlighters-label = Folosește evidențiatoare mai simple cu prefers-reduced-motion
 options-inspector-simplified-highlighters-tooltip =
     .title = Activează evidențiatoarele simplificate când este activată „prefers-reduced-motion”. Desenează linii în loc de dreptunghiuri pline în jurul elementelor evidențiate pentru evitarea efectelor de sclipire.
+# The label for the checkbox option to make the Enter key move the focus to the next input
+# when editing a property name or value in the Inspector rules view
+options-inspector-rules-focus-next-on-enter-label = Focalizează următoarea intrare pe <kbd>Enter</kbd>
 options-inspector-rules-focus-next-on-enter-tooltip =
     .title = Când este activată, apăsarea tastei Enter la editarea unui selector, a numelui unei proprietăți sau a unei valori va muta focalizarea pe următoarea intrare.
 

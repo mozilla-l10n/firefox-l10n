@@ -11,10 +11,12 @@ experimental-features-css-masonry-description = Activează un suport experimenta
 # by various online articles and is technical in nature.
 experimental-features-web-gpu2 =
     .label = API Web: WebGPU
+experimental-features-web-gpu-description3 = <a data-l10n-name="wikipedia-webgpu">WebGPU API</a> oferă suport de nivel scăzut pentru efectuarea de calcule și redare grafică folosind <a data-l10n-name="wikipedia-gpu">unitatea de procesare grafică (GPU)</a> de pe dispozitivul sau calculatorul utilizatorului. Prima versiune a <a data-l10n-name="spec">specificației</a> este aproape de finalizare. Vezi <a data-l10n-name="bugzilla">tichetul 1616739</a> pentru mai multe detalii.
 # The title of the experiment should be kept in English as it may be referenced
 # by various online articles and is technical in nature.
 experimental-features-media-jxl =
     .label = Mediu: JPEG XL
+experimental-features-media-jxl-description = Cu această funcționalitate activată, { -brand-short-name } acceptă formatul JPEG XL (JXL). Este un format de fișier de imagine îmbunătățit care acceptă tranziții fără pierderi de date de la fișierele JPEG tradiționale. Vezi <a data-l10n-name="bugzilla">tichetul 1539075</a> pentru mai multe detalii.
 experimental-features-devtools-compatibility-panel =
     .label = Instrumente pentru dezvoltatori: Panou de compatibilitate
 experimental-features-devtools-compatibility-panel-description = Un panou lateral pentru inspectorul de pagini care îți afișează informații detaliate despre starea compatibilității aplicației tale cu mai multe browsere. Vezi <a data-l10n-name="bugzilla">bug 1584464</a> pentru mai multe detalii.
@@ -32,6 +34,9 @@ experimental-features-devtools-serviceworker-debugger-support =
     .label = Instrumente pentru dezvoltatori: Depanarea scripturilor service worker
 # "Service Worker" is an API name and is usually not translated.
 experimental-features-devtools-serviceworker-debugger-support-description = Activează un suport experimental pentru scripturi service worker în panoul Depanatorului. Această funcționalitate poate încetini Instrumentele pentru dezvoltatori și poate crește consumul de memorie.
+# WebRTC global mute toggle controls
+experimental-features-webrtc-global-mute-toggles =
+    .label = Comutare (activare/dezactivare) globală WebRTC
 experimental-features-webrtc-global-mute-toggles-description = Adaugă controale la indicatorul de partajare globală WebRTC, care permit utilizatorilor să dezactiveze global sunetul microfonului și fluxul camerei.
 # JS JIT Warp project
 experimental-features-js-warp =
@@ -40,3 +45,4 @@ experimental-features-js-warp-description = Activează Warp, un proiect care îm
 # Search during IME
 experimental-features-ime-search =
     .label = Bară de adrese: afișează rezultatele în timpul compunerii IME
+experimental-features-ime-search-description = Un IME (Editor metodă de intrare) este un instrument care permite introducerea de simboluri complexe, cum ar fi cele utilizate în limbile est-asiatice sau indice, utilizând o tastatură standard. Activarea acestui experiment va menține deschis panoul din bara de adrese, afișând rezultatele căutării și sugestii, în timp ce folosești IME pentru introducerea de text. Reține că IME poate afișa un panou care acoperă rezultatele din bara de adrese; prin urmare, această preferință este sugerată doar pentru IME care nu utilizează acest tip de panou.

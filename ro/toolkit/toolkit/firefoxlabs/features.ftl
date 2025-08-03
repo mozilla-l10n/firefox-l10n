@@ -6,6 +6,7 @@
 # by various online articles and is technical in nature.
 experimental-features-media-jxl =
     .label = Mediu: JPEG XL
+experimental-features-media-jxl-description = Cu această funcționalitate activată, { -brand-short-name } acceptă formatul JPEG XL (JXL). Este un format de fișier de imagine îmbunătățit care acceptă tranziții fără pierderi de date de la fișierele JPEG tradiționale. Vezi <a data-l10n-name="bugzilla">tichetul 1539075</a> pentru mai multe detalii.
 # JS JIT Warp project
 experimental-features-js-warp =
     .label = JavaScript JIT: Warp
@@ -13,6 +14,11 @@ experimental-features-js-warp-description = Activează Warp, un proiect care îm
 # Search during IME
 experimental-features-ime-search =
     .label = Bară de adrese: afișează rezultatele în timpul compunerii IME
+experimental-features-ime-search-description = Un IME (Editor metodă de intrare) este un instrument care permite introducerea de simboluri complexe, cum ar fi cele utilizate în limbile est-asiatice sau indice, utilizând o tastatură standard. Activarea acestui experiment va menține deschis panoul din bara de adrese, afișând rezultatele căutării și sugestii, în timp ce folosești IME pentru introducerea de text. Reține că IME poate afișa un panou care acoperă rezultatele din bara de adrese; prin urmare, această preferință este sugerată doar pentru IME care nu utilizează acest tip de panou.
+# Auto Picture-in-Picture
+experimental-features-auto-pip =
+    .label = Imagine-în-imagine: deschidere automată la schimbarea filei
+experimental-features-auto-pip-description = Activează imagine-în-imagine pe videoclipuri active la schimbarea filei.
 experimental-features-group-developer-tools =
     .label = Instrumente de dezvoltare
 experimental-features-group-webpage-display =

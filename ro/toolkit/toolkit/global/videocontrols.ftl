@@ -8,6 +8,8 @@
 videocontrols-buffer-bar-label = Se încarcă:
 videocontrols-volume-control =
     .aria-label = Volum
+videocontrols-closed-caption-button =
+    .aria-label = Subtitrări închise
 videocontrols-play-button =
     .aria-label = Redare
 videocontrols-pause-button =
@@ -29,6 +31,13 @@ videocontrols-closed-caption-off =
 # This string is used as part of the Picture-in-Picture video toggle button when
 # the mouse is hovering it.
 videocontrols-picture-in-picture-label = Picture-in-Picture
+# This string is used as the label for a variation of the Picture-in-Picture video
+# toggle button when the mouse is hovering over the video.
+videocontrols-picture-in-picture-toggle-label2 = Extrage videoclipul într-o fereastră flotantă
+# This string is used as part of a variation of the Picture-in-Picture video toggle
+# button. When using this variation, this string appears below the toggle when the
+# mouse hovers the toggle.
+videocontrols-picture-in-picture-explainer3 = Mai multe ecrane, mai multă distracție. Redă videoclipul în timp ce faci altceva.
 videocontrols-error-aborted = Încărcarea videoclipului a fost oprită.
 videocontrols-error-network = Redarea videoclipului a fost abandonată datorită unei erori de rețea.
 videocontrols-error-decode = Videoclipul nu poate fi redat deoarece fișierul este corupt.

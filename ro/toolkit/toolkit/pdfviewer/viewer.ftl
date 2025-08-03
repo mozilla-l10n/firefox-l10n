@@ -454,6 +454,19 @@ pdfjs-editor-colorpicker-pink =
 pdfjs-editor-colorpicker-red =
     .title = Roșu
 
+## Show all highlights
+## This is a toggle button to show/hide all the highlights.
+
+pdfjs-editor-highlight-show-all-button-label = Afișează tot
+pdfjs-editor-highlight-show-all-button =
+    .title = Afișează tot
+
+## New alt-text dialog
+## Group note for entire feature: Alternative text (alt text) helps when people can't see the image. This feature includes a tool to create alt text automatically using an AI model that works locally on the user's device to preserve privacy.
+
+# Modal header positioned above a text box where users can edit the alt text.
+pdfjs-editor-new-alt-text-dialog-edit-label = Editează textul alternativ (descrierea imaginii)
+
 ## Image alt-text settings
 
 pdfjs-editor-alt-text-settings-delete-model-button = Șterge

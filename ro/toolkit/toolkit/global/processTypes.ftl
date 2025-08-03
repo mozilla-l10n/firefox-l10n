@@ -21,6 +21,9 @@ process-type-forkserver = Server fork
 # process used to isolate a webpage from other web pages
 # to improve security
 process-type-webisolated = Conținut web izolat
+# process used to isolate a ServiceWorker to improve
+# performance
+process-type-webserviceworker = Service worker izolat
 # process preallocated; may change to other types
 process-type-prealloc = Prealocat
 
