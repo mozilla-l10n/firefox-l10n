@@ -141,6 +141,10 @@ urlbar-default-notification-anchor =
     .tooltiptext = Otvori panel s porukama
 urlbar-geolocation-notification-anchor =
     .tooltiptext = Otvori panel sa zahtjevima lokacije
+urlbar-localhost-notification-anchor =
+    .tooltiptext = Upravljajte pristupom lokalnih uređaja za ovu stranicu
+urlbar-local-network-notification-anchor =
+    .tooltiptext = Upravljajte dijeljenjem pristupa vašoj lokalnoj mreži s ovom web stranicom
 urlbar-xr-notification-anchor =
     .tooltiptext = Otvorite panel dozvola za virtuelnu stvarnost
 urlbar-storage-access-anchor =
@@ -207,6 +211,9 @@ urlbar-result-menu-show-less-frequently =
     .label = Prikaži rjeđe
 urlbar-result-menu-dont-show-weather-suggestions =
     .label = Ne prikazuj prijedloge za vremensku prognozu
+# Used for Split Button.
+urlbar-splitbutton-dropmarker =
+    .title = Otvori meni
 # A message shown in the urlbar when the user submits feedback on a suggestion
 # (e.g., it shows an inaccurate location, it's shown too often, etc.).
 urlbar-feedback-acknowledgment = Hvala na vašim povratnim informacijama
@@ -238,6 +245,10 @@ urlbar-search-mode-actions = Radnje
 
 urlbar-geolocation-blocked =
     .tooltiptext = Blokirali ste lokacijske informacije za ovu web stranicu.
+urlbar-localhost-blocked =
+    .tooltiptext = Blokirali ste veze lokalnih uređaja za ovu web stranicu.
+urlbar-local-network-blocked =
+    .tooltiptext = Blokirali ste lokalne mrežne veze za ovu web stranicu.
 urlbar-xr-blocked =
     .tooltiptext = Blokirali ste pristup uređajima virtuelne stvarnosti za ovu web stranicu.
 urlbar-web-notifications-blocked =
@@ -831,6 +842,8 @@ urlbar-searchmode-default =
 urlbar-searchmode-popup-description = Ovaj put traži sa:
 urlbar-searchmode-popup-search-settings-menuitem =
     .label = Postavke pretraživanja
+# Label shown next to a new search engine in the Searchmode Switcher popup to promote it.
+urlbar-searchmode-new = Novo
 # Searchmode Switcher button
 # Variables:
 #   $engine (String): the current default search engine.
@@ -1158,6 +1171,10 @@ tabs-toolbar-list-all-tabs =
     .label = Izlistaj sve tabove
     .tooltiptext = Izlistaj sve tabove
 
+## Drop indicator text for pinned tabs when no tabs are pinned.
+
+pinned-tabs-drop-indicator = Ispustite tab ovdje da biste ga zakačili
+
 ## Infobar shown at startup to suggest session-restore
 
 # <img data-l10n-name="icon"/> will be replaced by the application menu icon
@@ -1334,3 +1351,61 @@ onboarding-checklist-button-label = Završi podešavanje
 onboarding-aw-finish-setup-button =
     .label = Završi podešavanje
     .tooltiptext = Završi podešavanje za { -brand-short-name }
+
+## The urlbar trust panel
+
+trustpanel-etp-label-enabled = Poboljšana zaštita od praćenja je uključena
+trustpanel-etp-label-disabled = Poboljšana zaštita od praćenja je isključena
+# Variables
+#  $host (String): the hostname of the site that is being displayed.
+trustpanel-etp-toggle-on =
+    .aria-label = Poboljšana zaštita od praćenja: Uključeno za { $host }
+# Variables
+#  $host (String): the hostname of the site that is being displayed.
+trustpanel-etp-toggle-off =
+    .aria-label = Poboljšana zaštita od praćenja: Isključeno za { $host }
+trustpanel-etp-description-enabled = Ako na ovoj stranici nešto izgleda pokvareno, pokušajte isključiti zaštitu.
+trustpanel-etp-description-disabled = { -brand-product-name } smatra da bi vas kompanije trebale manje pratiti. Blokiramo što više pratilaca kada uključite zaštitu.
+trustpanel-connection-label-secure = Sigurna veza
+trustpanel-connection-label-insecure = Veza nije sigurna
+trustpanel-header-enabled = { -brand-product-name } je na oprezu
+trustpanel-description-enabled = Zaštićeni ste. Ako nešto uočimo, obavijestit ćemo vas.
+trustpanel-header-disabled = Isključili ste zaštitu
+trustpanel-description-disabled = { -brand-product-name } nije u funkciji. Predlažemo da ponovo uključite zaštite.
+trustpanel-clear-cookies-button = Izbrišite kolačiće i podatke o web stranici
+trustpanel-privacy-link = Postavke privatnosti
+# Variables
+#  $host (String): the hostname of the site that is being displayed.
+trustpanel-clear-cookies-header =
+    .title = Obriši kolačiće i podatke web stranice za { $host }
+trustpanel-clear-cookies-description = Uklanjanje kolačića i podataka sa web stranice može vas odjaviti s web stranice i obrisati košarice za kupovinu.
+trustpanel-clear-cookies-subview-button-clear = Očisti
+trustpanel-clear-cookies-subview-button-cancel = Otkaži
+# Variables
+#  $host (String): the hostname of the site that is being displayed.
+trustpanel-site-information-header =
+    .title = Zaštite veze za { $host }
+trustpanel-connection-secure = Sigurno ste povezani s ovom stranicom.
+trustpanel-connection-not-secure = Niste sigurno povezani na ovu stranicu.
+trustpanel-siteinformation-morelink = Više informacija o stranici
+trustpanel-blocker-see-all = Vidi sve
+# Variables
+#  $host (String): the hostname of the site that is being displayed.
+trustpanel-blocker-header =
+    .title = Zaštita od praćenja za { $host }
+
+## Variables
+##  $count (String): the number of trackers blocked.
+
+trustpanel-blocker-section-header =
+    { $count ->
+        [one] <span>{ $count }</span> program za praćejenje je blokiran na ovoj stranici
+        [few] <span>{ $count }</span> programa za praćejenje je blokirano na ovoj stranici
+       *[other] <span>{ $count }</span> programa za praćejenje je blokirano na ovoj stranici
+    }
+trustpanel-blocker-description = { -brand-product-name } smatra da bi vas kompanije trebale manje pratiti. Zato blokiramo što više možemo.
+trustpanel-blocked-header = { -brand-product-name } je blokirao/la sljedeće stvari za vas:
+trustpanel-tracking-header = { -brand-product-name } je dozvolio ove stvari kako web stranice ne bi imale problema s radom:
+trustpanel-tracking-description = Bez alata za praćenje, neka dugmad, obrasci i polja za prijavu možda neće raditi.
+trustpanel-insecure-section-header = Vaša veza nije sigurna
+trustpanel-insecure-description = Podaci koje šaljete na ovu stranicu nisu šifrirani. Mogu biti pregledani, ukradeni ili izmijenjeni.
