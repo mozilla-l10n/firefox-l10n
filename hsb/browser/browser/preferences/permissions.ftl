@@ -176,6 +176,7 @@ permissions-site-localhost-window =
 permissions-site-localhost-desc = Tute websydła su wo přistup k nałoženjam a słužbam na tutym graće prosyli. Móžeće rozsudźić, hač sydłam dowoleće abo zakazujeće to činić.
 permissions-site-localhost-disable-label =
     .label = Blokujće nowe naprašowanja za přistupom k nałoženjam a słužbam na tutym graće
+permissions-site-localhost-disable-desc = To tomu zadźěwa, zo websydła, kotrež horjeka nalistowane njejsu, wo přistup k nałoženjam a słužbam na tutym graće proša. Hdyž to činiće, někotre funkcije websydła snano hižo korektnje njefunguja.
 
 ## Site Permissions - Local network
 

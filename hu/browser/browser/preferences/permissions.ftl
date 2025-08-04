@@ -174,6 +174,10 @@ permissions-site-localhost-window =
     .title = Beállítások – Eszközalkalmazások és -szolgáltatások
     .style = { permissions-window2.style }
 
+## Site Permissions - Local network
+
+permissions-site-local-network-disable-desc = Ez megakadályozza, hogy a fent fel nem sorolt weboldalak alkalmazásokhoz és szolgáltatásokhoz kérjenek hozzáférést az Ön Wi-Fi-jéhez csatlakoztatott vagy helyi hálózati eszközökön. Emiatt előfordulhat, hogy egyes weboldalfunkciók nem fognak működni.
+
 ## Site Permissions - Microphone
 
 permissions-site-microphone-window2 =

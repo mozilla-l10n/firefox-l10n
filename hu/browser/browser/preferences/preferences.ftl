@@ -1333,6 +1333,7 @@ permissions-location = Hely
 permissions-location-settings =
     .label = Beállítások…
     .accesskey = B
+permissions-localhost = Eszközalkalmazások és -szolgáltatások
 permissions-localhost-settings =
     .label = Beállítások…
     .accesskey = B
