@@ -128,7 +128,9 @@ windows-10-eos-sync-general-subtitle-1 = Zawěsćće a synchronizujće swoje hes
 windows-10-eos-sync-general-title-2 = Nětko je dobry čas, waše hesła a zapołožki zawěsćić.
 windows-10-eos-sync-general-subtitle-2 = Synchronizujće nětko, zo byšće maćiznu škitał, kotruž { -brand-short-name } dowěrjeće – a wobstarajće sej ju zaso, wšudźe a přeco.
 windows-10-eos-sync-tour-title-1 = Přewjele rajtarkow? Čińće porjad ze skupinami rajtarkow.
+windows-10-eos-sync-tour-subtitle-1 = Ćehńće jedyn rajtark na druhi, zo byšće skupinu wutworił a dźeržće wšitko w porjadku.
 windows-10-eos-sync-tour-title-2 = Budźće za Windows 11 přihotowany.
+windows-10-eos-sync-tour-subtitle-2 = Synchronizujće swoje zapołožki, hesła a nastajenja, zo byšće je zawěsćił, prjedy hač přećahujeće.
 
 ## Sidebar Strings
 
