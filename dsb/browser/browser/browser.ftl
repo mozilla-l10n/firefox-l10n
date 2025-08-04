@@ -1466,6 +1466,13 @@ trustpanel-tracking-cookies-blocking-tab-header =
         [few] { -brand-product-name } jo blokěrował { $count } sedła pśesegajuce slědujuce cookieje
        *[other] { -brand-product-name } jo blokěrował { $count } sedła pśesegajuce slědujuce cookieje
     }
+trustpanel-tracking-cookies-not-blocking-tab-header =
+    { $count ->
+        [one] { -brand-product-name } jo dowólił { $count } sedła pśesegajucy slědujucy cookie
+        [two] { -brand-product-name } jo dowólił { $count } sedła pśesegajucej slědujucej cookieja
+        [few] { -brand-product-name } jo dowólił { $count } sedła pśesegajuce slědujuce cookieje
+       *[other] { -brand-product-name } jo dowólił { $count } sedła pśesegajucych slědujucych cookiejow
+    }
 trustpanel-tracking-cookies-tab-list-header = Toś te sedła wopytuju wam slědowaś:
 trustpanel-tracking-content-blocking-tab-header =
     { $count ->

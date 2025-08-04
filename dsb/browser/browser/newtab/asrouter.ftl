@@ -353,10 +353,12 @@ multi-cta-fox-doodle-msix-privacy-focused-subtitle = Źaržćo swój nejlubšy w
 ## Windows 10 EoS Sync messages group 1 spotlight
 
 windows-10-eos-sync-spotlight-title = Z Windows 10 skóro aktualizěrowaś?
+windows-10-eos-sync-spotlight-subtitle = Zawěsććo swóje gronidł a cytańske znamjenja, aby gótowy był, na drugi rěd pśeśěgnuś.
 windows-10-eos-sync-spotlight-primary-label = Waš { -brand-short-name } zawěsćiś
 
 ## Windows 10 EoS Sync messages group 1 toast notification
 
 windows-10-eos-sync-toast-title = Na Windows 11 aktualizěrowaś? Njezgubujśo cytańske znamjenja a gronidła.
+windows-10-eos-sync-toast-subtitle = Zawěsććo swóje daty, aby { -brand-short-name } mógł je kuždy cas wužywaś, na toś tom PC abo na pśiducem.
 windows-10-eos-sync-toast-primary-label = Prědne kšace
 windows-10-eos-sync-toast-secondary-label = Pózdźej dopomnjeś
