@@ -1409,3 +1409,16 @@ trustpanel-tracking-header = { -brand-product-name } je dozvolio ove stvari kako
 trustpanel-tracking-description = Bez alata za praćenje, neka dugmad, obrasci i polja za prijavu možda neće raditi.
 trustpanel-insecure-section-header = Vaša veza nije sigurna
 trustpanel-insecure-description = Podaci koje šaljete na ovu stranicu nisu šifrirani. Mogu biti pregledani, ukradeni ili izmijenjeni.
+trustpanel-list-label-tracking-cookies =
+    { $count ->
+        [one] { $count } međustranični kolačić za praćenje
+        [few] { $count } međustranična kolačića za praćenje
+       *[other] { $count } međustraničnih kolačića za praćenje
+    }
+trustpanel-list-label-tracking-content = Praćenje sadržaja
+trustpanel-list-label-fingerprinter =
+    { $count ->
+        [one] { $count } sakupljač digitalnih otisaka
+        [few] { $count } sakupljača digitalnih otisaka
+       *[other] { $count } sakupljača digitalnih otisaka
+    }
