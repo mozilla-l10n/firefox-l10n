@@ -173,6 +173,7 @@ permissions-site-camera-disable-desc = To budźe websydła, kotrež horjeka w li
 permissions-site-localhost-window =
     .title = Nastajenja – Gratowe nałoženja a słužby
     .style = { permissions-window2.style }
+permissions-site-localhost-desc = Tute websydła su wo přistup k nałoženjam a słužbam na tutym graće prosyli. Móžeće rozsudźić, hač sydłam dowoleće abo zakazujeće to činić.
 permissions-site-localhost-disable-label =
     .label = Blokujće nowe naprašowanja za přistupom k nałoženjam a słužbam na tutym graće
 
