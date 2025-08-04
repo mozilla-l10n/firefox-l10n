@@ -119,10 +119,14 @@ windows-10-eos-sync-urgency-subtitle-1 = Synchronizujće nětko, zo bychu waše 
 windows-10-eos-sync-urgency-title-2 = Chceće so wot Windows 10 rozžohnować? Škitajće swoje daty, hdyž přeměnjeće.
 windows-10-eos-sync-urgency-subtitle-2 = Samo hdyž { -brand-short-name } kóždy dźeń njewužiwaće, synchronizujće, zo bychu zapołožki a hesła wěste a přistupne wostali.
 windows-10-eos-sync-new-device-title-1 = Njeriskěrujće na swojim přichodnym graće wot spočatka započeć.
+windows-10-eos-sync-new-device-subtitle-1 = Synchronizujće, zo byšće swoje zapołožki, hesła a preferowane nastajenja { -brand-short-name } sobu wzał, hdyž přećahujeće.
 windows-10-eos-sync-new-device-title-2 = Přećahaće do druheho grata? Njezhubjejće, štož je wažne.
+windows-10-eos-sync-new-device-subtitle-2 = Wšojedne kak husto { -brand-short-name } wužiwaće, synchronizowanje waše zapołožki, hesła a nastajenja škita.
 windows-10-eos-sync-new-device-primary-label = Nětko synchronizować
 windows-10-eos-sync-general-title-1 = Škitajće { -brand-short-name }, kotryž sće sej přiswojił.
+windows-10-eos-sync-general-subtitle-1 = Zawěsćće a synchronizujće swoje hesła, zapołožki, nastajenja a druhe daty, zo byšće wobchował, na čož so spušćeće.
 windows-10-eos-sync-general-title-2 = Nětko je dobry čas, waše hesła a zapołožki zawěsćić.
+windows-10-eos-sync-general-subtitle-2 = Synchronizujće nětko, zo byšće maćiznu škitał, kotruž { -brand-short-name } dowěrjeće – a wobstarajće sej ju zaso, wšudźe a přeco.
 windows-10-eos-sync-tour-title-1 = Přewjele rajtarkow? Čińće porjad ze skupinami rajtarkow.
 windows-10-eos-sync-tour-title-2 = Budźće za Windows 11 přihotowany.
 
