@@ -116,13 +116,19 @@ fxa-adoption-passwords-primary-button-label = Registrěrowaś
 
 windows-10-eos-sync-urgency-title-1 = Njezgubujśo nic, což sćo składował, gaž do Windows 11 pśeśěgujośo.
 windows-10-eos-sync-urgency-title-2 = Cośo se z Windows 10 rozžognowaś? Šćitajśo swóje daty, gaž pśeměnjaśo.
+windows-10-eos-sync-new-device-title-1 = Njeriskěrujśo na swójom pśiducem rěźe wót zachopjeńka zachopiś.
+windows-10-eos-sync-new-device-subtitle-1 = Synchronizěrujśo, aby swóje cytańske znamjenja, gronidła a preferěrowane nastajenja { -brand-short-name } sobu wzeł, gaž pśeśěgujośo.
 windows-10-eos-sync-new-device-title-2 = Pśeśěgujośo do drugego rěda? Njezgubujśo, což jo wažne.
+windows-10-eos-sync-new-device-subtitle-2 = Wšojadno kak cesto { -brand-short-name } wužywaśo, synchronizěrowanje waše cytańske znamjenja, gronidła a nastajenja šćita.
 windows-10-eos-sync-new-device-primary-label = Něnto synchronizěrowaś
 windows-10-eos-sync-general-title-1 = Šćitajśo { -brand-short-name }, kótaryž sćo se pśiswójł.
 windows-10-eos-sync-general-subtitle-1 = Zawěsććo a synchronizěrujśo swóje gronidła, cytańske znamjenja, nastajenja a druge daty, aby wobchował, na což se spušćaśo.
 windows-10-eos-sync-general-title-2 = Něnto jo dobry cas, waše gronidła a cytańske znamjenja zawěsćiś.
+windows-10-eos-sync-general-subtitle-2 = Synchronizěrujśo něnto, aby material šćitał, kótaryž { -brand-short-name } dowěriśo – a wobstarajśo se ju zasej, wšuźi a pśecej.
 windows-10-eos-sync-tour-title-1 = Pśewjele rejtarikow? Zrumujśo z kupkami rejtarikow.
+windows-10-eos-sync-tour-subtitle-1 = Śěgniśo jaden rejtarik na drugi, aby kupku napórał a źaržćo wšykno w rěchu.
 windows-10-eos-sync-tour-title-2 = Buźćo za Windows 11 pśigótowany.
+windows-10-eos-sync-tour-subtitle-2 = Synchronizěrujśo swóje cytańske znamjenja, gronidła a nastajenja, aby je zawěsćił, nježli až pśeśěgujośo.
 
 ## Sidebar Strings
 
