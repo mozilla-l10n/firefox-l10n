@@ -174,6 +174,9 @@ permissions-site-localhost-window =
     .title = Nastavitve – Aplikacije in storitve na napravi
     .style = { permissions-window2.style }
 permissions-site-localhost-desc = Naslednja spletna mesta so zahtevala dostop do aplikacij in storitev na tej napravi. Lahko jim ga dovolite ali prepoveste.
+permissions-site-localhost-disable-label =
+    .label = Zavrni nove zahteve za dostop do aplikacij in storitev na tej napravi
+permissions-site-localhost-disable-desc = To bo preprečilo vsem spletnim mestom, ki niso navedena zgoraj, da bi zahtevala dostop do aplikacij in storitev na tej napravi. S tem lahko povzročite, da nekatera ne bodo pravilno delovala.
 
 ## Site Permissions - Microphone
 

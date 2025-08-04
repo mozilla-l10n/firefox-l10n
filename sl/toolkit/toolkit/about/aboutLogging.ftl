@@ -29,6 +29,7 @@ about-logging-no-log-modules = brez
 about-logging-no-log-file = brez
 about-logging-logging-preset-selector-text = Prednastavitev beleženja:
 about-logging-with-profiler-stacks-checkbox = Omogoči sledi skladov za dnevniška sporočila
+about-logging-with-javascript-tracing-checkbox = Omogoči sledenje JavaScripta
 about-logging-menu =
     .title = Napredne možnosti
 
@@ -52,6 +53,8 @@ about-logging-preset-webcodecs-label = WebCodecs
 about-logging-preset-webcodecs-description = Beleženje modulov za diagnosticiranje težav s kodirniki in dekodirniki zvoka/videa ter dekodirniki slik (WebCodecs)
 about-logging-preset-ml-label = Strojno učenje
 about-logging-preset-ml-description = Beleženje modulov za diagnosticiranje težav s strojnim učenjem
+about-logging-preset-web-compat-label = Spletna združljivost
+about-logging-preset-web-compat-description = Beleženje modulov za diagnosticiranje težav s spletno združljivostjo
 about-logging-preset-webgpu-label = WebGPU
 about-logging-preset-webgpu-description = Beleženje modulov za diagnosticiranje težav z WebGPU
 about-logging-preset-gfx-label = Grafika
