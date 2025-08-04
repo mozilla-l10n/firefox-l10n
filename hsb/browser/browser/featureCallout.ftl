@@ -115,7 +115,9 @@ fxa-adoption-passwords-primary-button-label = Registrować
 ## Windows 10 EoS Sync messages group 1 callouts
 
 windows-10-eos-sync-urgency-title-1 = Njezhubjejće ničo, štož sće składował, hdyž do Windows 11 přećahaće.
+windows-10-eos-sync-urgency-subtitle-1 = Synchronizujće nětko, zo bychu waše zapołožki, hesła a nastajenja { -brand-short-name } wěste a lochko wobnowjomne wostali.
 windows-10-eos-sync-urgency-title-2 = Chceće so wot Windows 10 rozžohnować? Škitajće swoje daty, hdyž přeměnjeće.
+windows-10-eos-sync-urgency-subtitle-2 = Samo hdyž { -brand-short-name } kóždy dźeń njewužiwaće, synchronizujće, zo bychu zapołožki a hesła wěste a přistupne wostali.
 windows-10-eos-sync-new-device-title-1 = Njeriskěrujće na swojim přichodnym graće wot spočatka započeć.
 windows-10-eos-sync-new-device-title-2 = Přećahaće do druheho grata? Njezhubjejće, štož je wažne.
 windows-10-eos-sync-new-device-primary-label = Nětko synchronizować
