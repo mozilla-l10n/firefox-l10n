@@ -186,6 +186,7 @@ permissions-site-local-network-window =
 permissions-site-local-network-desc = Tute websydła su wo přistup k nałoženjam a słužbam na gratach prosyli, kotrež su z wašej lokalnej syću WLAN zwjazane. Móžeće rozsudźić, hač sydłam dowoleće abo zakazujeće to činić.
 permissions-site-local-network-disable-label =
     .label = Blokujće nowe naprašowanja za přistupom k nałoženjam a słužbam na gratach, kotrež su z wašej lokalnej syću WLAN zwjazane.
+permissions-site-local-network-disable-desc = To tomu zadźěwa, zo websydła, kotrež horjeka nalistowane njejsu, wo přistup k nałoženjam a słužbam na gratach proša, kotrež su z gratami WLAN abo lokalnej syću zwjazane. Hdyž to činiće, někotre funkcije websydła snano hižo korektnje njefunguja.
 
 ## Site Permissions - Microphone
 

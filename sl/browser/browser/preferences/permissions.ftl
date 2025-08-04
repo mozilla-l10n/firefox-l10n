@@ -168,6 +168,13 @@ permissions-site-camera-disable-label =
     .label = Zavrni nove zahteve, ki zahtevajo dostop do kamere
 permissions-site-camera-disable-desc = To bo preprečilo, da bi katero koli spletno mesto, ki ni navedeno zgoraj, zahtevalo dovoljenje za dostop do kamere. Blokiranje dostopa do kamere lahko povzroči nedelovanje nekaterih funkcij spletnega mesta.
 
+## Site Permissions - Local host
+
+permissions-site-localhost-window =
+    .title = Nastavitve – Aplikacije in storitve na napravi
+    .style = { permissions-window2.style }
+permissions-site-localhost-desc = Naslednja spletna mesta so zahtevala dostop do aplikacij in storitev na tej napravi. Lahko jim ga dovolite ali prepoveste.
+
 ## Site Permissions - Microphone
 
 permissions-site-microphone-window2 =
