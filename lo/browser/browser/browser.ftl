@@ -656,6 +656,9 @@ urlbar-group-recent-searches =
 #  $engine (String): the name of the search engine providing the trending suggestions
 urlbar-group-trending =
     .label = ກຳລັງເປັນທີ່ນິຍົມໃນ { $engine }
+# Label shown above sponsored suggestions in the urlbar results.
+urlbar-group-sponsored =
+    .label = ໄດ້ຮັບການສະຫນັບສະຫນູນ
 # The result menu labels shown next to trending results.
 urlbar-result-menu-trending-dont-show =
     .label = ຢ່າສະແດງການຄົ້ນຫາທີ່ມີກຳລັງມາແຮງ
