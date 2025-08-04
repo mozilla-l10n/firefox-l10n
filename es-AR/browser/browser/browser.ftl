@@ -1459,6 +1459,7 @@ trustpanel-fingerprinter-not-blocking-tab-header =
         [one] { -brand-product-name } permitió { $count } detector de huellas digitales
        *[other] { -brand-product-name } permitió { $count } detectores de huellas digitales
     }
+trustpanel-fingerprinter-list-header = Estos sitios están tratando de identificarlo:
 trustpanel-cryptominer-blocking-tab-header =
     { $count ->
         [one] { -brand-product-name } bloqueó { $count } criptominero
