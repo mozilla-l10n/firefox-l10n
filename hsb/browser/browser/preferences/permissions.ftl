@@ -183,6 +183,7 @@ permissions-site-localhost-disable-desc = To tomu zadźěwa, zo websydła, kotre
 permissions-site-local-network-window =
     .title = Nastajenja – Graty lokalneje syće
     .style = { permissions-window2.style }
+permissions-site-local-network-desc = Tute websydła su wo přistup k nałoženjam a słužbam na gratach prosyli, kotrež su z wašej lokalnej syću WLAN zwjazane. Móžeće rozsudźić, hač sydłam dowoleće abo zakazujeće to činić.
 permissions-site-local-network-disable-label =
     .label = Blokujće nowe naprašowanja za přistupom k nałoženjam a słužbam na gratach, kotrež su z wašej lokalnej syću WLAN zwjazane.
 
