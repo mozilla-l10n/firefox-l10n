@@ -448,10 +448,16 @@ onboarding-checklist-sign-up = Registrěrujśo se abo pśizjawśo se pla swójog
 
 tab-groups-onboarding-feature-callout-title = Wopytajśo kupki rejtarikow za mjenjej njepórěda a wěcej fokusa
 tab-groups-onboarding-feature-callout-subtitle = Organizěrujśo se, śěgniśo jaden rejtarik górjejce na drugi, aby wašu prědnu kupku napórał.
+# The text "list all tabs" refers to the string tabs-toolbar-list-all-tabs
+tab-groups-onboarding-create-group-title-3 = Namakajśo kuždy cas swóje kupki rejtarikow w meniju Wšykne rejtariki nalicyś.
 tab-groups-onboarding-create-group-title-2 = Namakajśo swóje kupki rejtarikow how kuždy cas.
 tab-groups-onboarding-create-group-no-alltabs-button-title = Pytajśo za swójimi kupkami, aby je w adresowem pólu namakał.
+# The text "list all tabs" refers to the string tabs-toolbar-list-all-tabs
+tab-groups-onboarding-saved-groups-title-3 = Gaž kupku rejtarikow zacynjaśo, wócyńśo ju zasej kuždy cas z menija Wšykne rejtariki nalicyś.
 tab-groups-onboarding-saved-groups-title-2 = Gaž kupku rejtarikow zacynjaśo, móžośo ju how kuždy cas zasej wócyniś.
 tab-groups-onboarding-saved-groups-no-alltabs-button-title-2 = Pytajśo za swójimi zacynjonymi kupkami, aby je w adresowem pólu namakał.
+# The text "list all tabs" refers to the string tabs-toolbar-list-all-tabs
+tab-groups-onboarding-session-restore-title-2 = Wócyńśo zasej kuždy cas swóje kupki rejtarikow z menija Wšykne rejtariki nalicyś.
 tab-groups-onboarding-session-restore-title = Wócyńśo zasej swóje kupki rejtarikow how kuždy cas.
 tab-groups-onboarding-dismiss = W pórěźe
 

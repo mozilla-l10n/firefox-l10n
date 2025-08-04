@@ -173,6 +173,9 @@ permissions-site-camera-disable-desc = To buźo websedłam, kótarež górjejce 
 permissions-site-localhost-window =
     .title = Nastajenja – Rědowe nałoženja a słužby
     .style = { permissions-window2.style }
+permissions-site-localhost-desc = Toś te websedła su pšosyli wó pśistup k nałoženjam a słužbam na toś tom rěźe. Móžośo rozsuźiś, lěc sedłam dowólujośo abo zakazujośo to cyniś.
+permissions-site-localhost-disable-label =
+    .label = Blokěrujśo nowe napšašowanja za pśistupom k nałoženjam a słužbam na toś tom rěźe
 
 ## Site Permissions - Local network
 

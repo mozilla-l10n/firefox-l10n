@@ -555,6 +555,7 @@ newtab-custom-wallpaper-cta = Wopytajśo jen
 ## Strings for new user activation custom wallpaper highlight
 
 newtab-new-user-custom-wallpaper-title = Wubjeŕśo slězynowy wobraz, aby se { -brand-product-name } pśiswójł
+newtab-new-user-custom-wallpaper-subtitle = Cujśo se na kuždem nowem rejtariku ako doma ze swójskimi slězynowymi wobrazami a barwami.
 newtab-new-user-custom-wallpaper-cta = Wopytajśo něnto
 
 ## Strings for download mobile highlight
