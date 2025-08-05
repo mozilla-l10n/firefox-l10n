@@ -38,7 +38,7 @@ abuse-report-messagebar-submitting = Se transmite raportarea pentru <span data-l
 abuse-report-messagebar-submitted = Îți mulțumim că ai trimis raportarea. Vrei să elimini <span data-l10n-name="addon-name">{ $addon-name }</span>?
 abuse-report-messagebar-submitted-noremove = Îți mulțumim că ai transmis o raportare.
 abuse-report-messagebar-removed-extension = Îți mulțumim că ai trimis o raportare. Ai eliminat extensia <span data-l10n-name="addon-name">{ $addon-name }</span>.
-abuse-report-messagebar-removed-sitepermission = Îți mulțumim pentru raport. Ai eliminat suplimentul de permisiuni pentru site-uri <span data-l10n-name="addon-name"></span>.
+abuse-report-messagebar-removed-sitepermission = Îți mulțumim pentru raport. Ai eliminat suplimentul de permisiuni pentru site-uri <<span data-l10n-name="addon-name">{ $addon-name }</span>.
 abuse-report-messagebar-removed-theme = Îți mulțumim că ai trimis o raportare. Ai eliminat tema <span data-l10n-name="addon-name">{ $addon-name }</span>.
 abuse-report-messagebar-error = A apărut o problemă la transmiterea raportării pentru <span data-l10n-name="addon-name">{ $addon-name }</span>.
 abuse-report-messagebar-error-recent-submit = Raportarea pentru <span data-l10n-name="addon-name">{ $addon-name }</span> nu a fost transmisă deoarece a mai fost depusă recent altă raportare.
