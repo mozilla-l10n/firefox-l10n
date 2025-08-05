@@ -184,6 +184,9 @@ permissions-site-local-network-window =
     .title = Ayarlar - Yerel Ağ Cihazları
     .style = { permissions-window2.style }
 permissions-site-local-network-desc = Aşağıdaki siteler Wi-Fi veya yerel ağınıza bağlı cihazlardaki uygulama ve hizmetlere erişmek istedi. Erişime izin vermeyi veya erişimi engellemeyi seçebilirsiniz.
+permissions-site-local-network-disable-label =
+    .label = Wi-Fi veya yerel ağıma bağlı cihazlardaki uygulama ve hizmetlere erişim için yapılacak yeni istekleri engelle.
+permissions-site-local-network-disable-desc = Yukarıdaki listede bulunmayan hiçbir site, Wi-Fi veya yerel ağınızdaki cihazlarda bulunan uygulama ve hizmetlere erişim isteğinde bulunamayacaktır. Bu ayarı etkinleştirmeniz bazı sitelerin özelliklerini bozabilir.
 
 ## Site Permissions - Microphone
 
