@@ -176,6 +176,17 @@ permissions-site-localhost-window =
 permissions-site-localhost-desc = Estos sitios web han solicitado acceso a aplicaciones y servicios en este dispositivo. Puedes permitir o bloquear este acceso.
 permissions-site-localhost-disable-label =
     .label = Bloquear nuevas solicitudes de acceso a aplicaciones y servicios en este dispositivo
+permissions-site-localhost-disable-desc = Esto impedirá que cualquier sitio web no mencionado anteriormente solicite acceso a aplicaciones y servicios en este dispositivo. Esto podría afectar algunas funciones del sitio web.
+
+## Site Permissions - Local network
+
+permissions-site-local-network-window =
+    .title = Ajustes - Dispositivos de red local
+    .style = { permissions-window2.style }
+permissions-site-local-network-desc = Estos sitios web han solicitado acceso a aplicaciones y servicios en dispositivos conectados a tu red Wi-Fi o local. Puedes permitir o bloquear este acceso.
+permissions-site-local-network-disable-label =
+    .label = Bloquea nuevas solicitudes de acceso a aplicaciones y servicios en dispositivos conectados a tu Wi-Fi o red local.
+permissions-site-local-network-disable-desc = Esto impedirá que cualquier sitio web no mencionado anteriormente solicite acceso a aplicaciones y servicios en dispositivos conectados a tu red Wi-Fi o local. Esto podría afectar algunas funciones del sitio web.
 
 ## Site Permissions - Microphone
 
