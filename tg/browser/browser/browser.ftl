@@ -1391,3 +1391,26 @@ trustpanel-blocker-section-header =
 trustpanel-blocker-description = «{ -brand-product-name }» фикр мекунад, ки ширкатҳо бояд шуморо камтар пайгирӣ кунанд. Бинобар ин, мо ҳарчи бештар ҳар гуна васоити пайгириро манъ мекунем.
 trustpanel-blocked-header = «{ -brand-product-name }» барои шумо зеринро манъ кард:
 trustpanel-tracking-header = «{ -brand-product-name }» зеринро иҷозат медиҳад, то сомона вайрон нашавад:
+trustpanel-insecure-section-header = Пайвасти шумо бехатар нест
+trustpanel-tracking-cookies-tab-list-header = Сомонаҳои зерин кӯшиш мекунанд, ки шуморо пайгирӣ кунанд:
+trustpanel-tracking-content-blocking-tab-header =
+    { $count ->
+        [one] «{ -brand-product-name }» { $count } воситаи пайгириро манъ кард
+       *[other] «{ -brand-product-name }» { $count } воситаи пайгириро манъ кард
+    }
+trustpanel-tracking-content-not-blocking-tab-header =
+    { $count ->
+        [one] «{ -brand-product-name }» { $count } воситаи пайгириро иҷозат медиҳад
+       *[other] «{ -brand-product-name }» { $count } воситаи пайгириро иҷозат медиҳад
+    }
+trustpanel-tracking-content-tab-list-header = Сомонаҳои зерин кӯшиш мекунанд, ки шуморо пайгирӣ кунанд:
+trustpanel-fingerprinter-blocking-tab-header =
+    { $count ->
+        [one] «{ -brand-product-name }» { $count } хонандаи нақши ангуштонро манъ кард
+       *[other] «{ -brand-product-name }» { $count } хонандаи нақши ангуштонро манъ кард
+    }
+trustpanel-fingerprinter-not-blocking-tab-header =
+    { $count ->
+        [one] «{ -brand-product-name }» { $count } хонандаи нақши ангуштонро иҷозат медиҳад
+       *[other] «{ -brand-product-name }» { $count } хонандаи нақши ангуштонро иҷозат медиҳад
+    }
