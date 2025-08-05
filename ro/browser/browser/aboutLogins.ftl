@@ -91,7 +91,7 @@ about-logins-login-list-empty-search-title = Nu s-au găsit date de autentificar
 about-logins-login-list-empty-search-title2 = Nu s-au găsit parole
 about-logins-login-list-empty-search-description = Nu există rezultate care să corespundă căutării.
 login-list-item-title-new-login = Autentificare nouă
-login-list-item-subtitle-new-login = Introdu credențialele de autentificare
+login-list-item-subtitle-new-login = Introdu credențialele
 login-list-item-title-new-login2 = Adaugă parola
 login-list-item-subtitle-missing-username = (niciun nume de utilizator)
 about-logins-list-item-breach-icon =
@@ -173,7 +173,7 @@ about-logins-os-auth-dialog-caption = { -brand-full-name }
 ## notes are only valid for English. Please test in your respected locale.
 
 # This message can be seen when attempting to edit a login in about:logins on Windows.
-about-logins-edit-login-os-auth-dialog-message-win = Pentru a edita autentificarea, introdu credențialele de autentificare în Windows. Acest lucru ajută la protejarea securității conturilor tale.
+about-logins-edit-login-os-auth-dialog-message-win = Pentru a edita autentificarea, introdu credențialele în Windows. Acest lucru ajută la protejarea securității conturilor tale.
 # This message can be seen when attempting to edit a login in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-edit-login-os-auth-dialog-message-macosx = editează datele de autentificare salvate
@@ -185,27 +185,27 @@ about-logins-os-auth-dialog-message =
        *[other] { -brand-short-name } încearcă să schimbe setările pentru parole. Folosește autentificarea pe dispozitiv ca să permiți acțiunea.
     }
 # This message can be seen when attempting to edit a login in about:logins on Windows.
-about-logins-edit-login-os-auth-dialog-message2-win = Pentru a edita parola, introdu credențialele de autentificare în Windows. Acest lucru ajută la protejarea securității conturilor tale.
+about-logins-edit-login-os-auth-dialog-message2-win = Pentru a edita parola, introdu credențialele în Windows. Acest lucru ajută la protejarea securității conturilor tale.
 # This message can be seen when attempting to edit a login in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-edit-login-os-auth-dialog-message2-macosx = editează parola salvată
 # This message can be seen when attempting to reveal a password in about:logins on Windows.
-about-logins-reveal-password-os-auth-dialog-message-win = Pentru a vedea parola, introdu credențialele de autentificare în Windows. Acest lucru ajută la protejarea securității conturilor tale.
+about-logins-reveal-password-os-auth-dialog-message-win = Pentru a vedea parola, introdu credențialele în Windows. Acest lucru ajută la protejarea securității conturilor tale.
 # This message can be seen when attempting to reveal a password in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-reveal-password-os-auth-dialog-message-macosx = afișează parola salvată
 # This message can be seen when attempting to copy a password in about:logins on Windows.
-about-logins-copy-password-os-auth-dialog-message-win = Pentru a copia parola, introdu credențialele de autentificare în Windows. Acest lucru ajută la protejarea securității conturilor tale.
+about-logins-copy-password-os-auth-dialog-message-win = Pentru a copia parola, introdu credențialele în Windows. Acest lucru ajută la protejarea securității conturilor tale.
 # This message can be seen when attempting to copy a password in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-copy-password-os-auth-dialog-message-macosx = copiază parola salvată
 # This message can be seen when attempting to export a password in about:logins on Windows.
-about-logins-export-password-os-auth-dialog-message-win = Pentru a exporta datele de autentificare, introdu credențialele de autentificare în Windows. Acest lucru ajută la protejarea securității conturilor tale.
+about-logins-export-password-os-auth-dialog-message-win = Pentru a exporta datele de autentificare, introdu credențialele în Windows. Acest lucru ajută la protejarea securității conturilor tale.
 # This message can be seen when attempting to export a password in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-export-password-os-auth-dialog-message-macosx = exportă datele de autentificare și parolele salvate
 # This message can be seen when attempting to export a password in about:logins on Windows.
-about-logins-export-password-os-auth-dialog-message2-win = Pentru a exporta parolele, introdu credențialele de autentificare în Windows. Acest lucru ajută la protejarea securității conturilor tale.
+about-logins-export-password-os-auth-dialog-message2-win = Pentru a exporta parolele, introdu credențialele în Windows. Acest lucru ajută la protejarea securității conturilor tale.
 # This message can be seen when attempting to export a password in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-export-password-os-auth-dialog-message2-macosx = exportă parolele salvate

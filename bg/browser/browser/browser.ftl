@@ -1250,8 +1250,32 @@ file-picker-crashed-show-in-folder =
     .label = Показване в папка
     .accessKey = о
 
+## Onboarding Finish Setup checklist
+
+onboarding-checklist-button-label = Завършване на настройката
+onboarding-aw-finish-setup-button =
+    .label = Завършване на настройката
+    .tooltiptext = Завършване на настройката на { -brand-short-name }
+
 ## The urlbar trust panel
 
+trustpanel-etp-label-enabled = Подобрената защита от проследяване е включена
+trustpanel-etp-label-disabled = Подобрената защита от проследяване е изключена
+# Variables
+#  $host (String): the hostname of the site that is being displayed.
+trustpanel-etp-toggle-on =
+    .aria-label = Подобрената защита от проследяване:  Включена за { $host }
+# Variables
+#  $host (String): the hostname of the site that is being displayed.
+trustpanel-etp-toggle-off =
+    .aria-label = Подобрената защита от проследяване:  Изключена за { $host }
+trustpanel-etp-description-enabled = Ако нещо на този сайт изглежда повредено, опитайте да изключите защитите.
+trustpanel-etp-description-disabled = { -brand-product-name } смята, че компаниите трябва по-малко да ви следят. Блокираме възможно най-много проследаващи механизми, когато защитите са включени.
+trustpanel-connection-label-secure = Връзката е защитена
+trustpanel-connection-label-insecure = Връзката не е защитена
+trustpanel-header-enabled = { -brand-product-name } ви пази
+trustpanel-description-enabled = Вие сте защитени. Ако забележим нещо, ще ви уведомим
+trustpanel-header-disabled = Защитите са изключени
 trustpanel-clear-cookies-subview-button-clear = Изчистване
 trustpanel-clear-cookies-subview-button-cancel = Отказ
 # Variables
@@ -1261,3 +1285,54 @@ trustpanel-site-information-header =
 trustpanel-connection-secure = Връзката със сайта е сигурна.
 trustpanel-connection-not-secure = Връзката към страницата не е защитена.
 trustpanel-siteinformation-morelink = Повече информация за уеб страницата
+trustpanel-blocker-see-all = Вижте всички
+
+## Variables
+##  $count (String): the number of trackers blocked.
+
+trustpanel-insecure-section-header = Връзката е незащитена
+trustpanel-insecure-description = Данните, които изпращате към този сайт не са шифровани. Могат да бъдат видяни, откраднати или променяни.
+trustpanel-list-label-tracking-cookies =
+    { $count ->
+        [one] { $count } бисквитка за проследяване в различни сайтове
+       *[other] { $count } бисквитки за проследяване в различни сайтове
+    }
+trustpanel-list-label-tracking-content = Проследяващо съдържание
+trustpanel-list-label-fingerprinter =
+    { $count ->
+        [one] { $count } снемащ отпечатък
+       *[other] { $count } снемащи отпечатъци
+    }
+trustpanel-list-label-social-tracking =
+    { $count ->
+        [one] { $count } проследяване от социални медии
+       *[other] { $count } проследявания от социални медии
+    }
+trustpanel-list-label-cryptominer =
+    { $count ->
+        [one] { $count } криптокопач
+       *[other] { $count } криптокопача
+    }
+trustpanel-social-tracking-tab-list-header = Следните сайтове се опитват да ви проследяват:
+trustpanel-tracking-cookies-blocking-tab-header =
+    { $count ->
+        [one] { -brand-product-name } спря { $count } бисквитка за проследяване в различни сайтове
+       *[other] { -brand-product-name } спря { $count } бисквитки за проследяване в различни сайтове
+    }
+trustpanel-tracking-cookies-not-blocking-tab-header =
+    { $count ->
+        [one] { -brand-product-name } разреши { $count } проследяваща бисквитка в различни сайтове
+       *[other] { -brand-product-name } разреши { $count } проследяващи бисквитки в различни сайтове
+    }
+trustpanel-tracking-cookies-tab-list-header = Следните сайтове се опитват да ви проследяват:
+trustpanel-tracking-content-blocking-tab-header =
+    { $count ->
+        [one] { -brand-product-name } спря { $count } проследяване
+       *[other] { -brand-product-name } спря { $count } проследявания
+    }
+trustpanel-tracking-content-not-blocking-tab-header =
+    { $count ->
+        [one] { -brand-product-name } разреши { $count } проследяване
+       *[other] { -brand-product-name } разреши { $count } проследявания
+    }
+trustpanel-tracking-content-tab-list-header = Следните сайтове се опитват да ви проследяват:
