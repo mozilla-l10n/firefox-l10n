@@ -44,6 +44,12 @@ appmenu-addon-private-browsing-installed2 =
     .buttonlabel = Добре
     .buttonaccesskey = о
 appmenu-addon-post-install-message3 = Управлявайте разширения и теми от менюто на приложението.
+# This string is used in the confirmation popup displayed after an extension
+# has been installed, when the data collection feature is enabled.
+appmenu-addon-post-install-message-with-data-collection = Променяйте разрешенията и предпочитанията за данни по всяко време от <a data-l10n-name="settings-link">настройките на разширението</a>.
+appmenu-addon-post-install-pin-toolbarbutton-checkbox =
+    .label = Закачане на разширение към лентата с инструменти
+    .accesskey = З
 appmenu-addon-post-install-incognito-checkbox =
     .label = Позволете на разширението да работи в поверителни прозорци
     .accesskey = з

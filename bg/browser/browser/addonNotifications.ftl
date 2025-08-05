@@ -81,6 +81,8 @@ addon-removal-title = Премахване на { $name }?
 addon-removal-message = Желаете ли да премахнете разширението „{ $name }“ от { -brand-shorter-name }?
 addon-removal-button = Премахване
 addon-removal-abuse-report-checkbox = Докладване разширението на { -vendor-short-name }
+# "it" refers to the local AI model that is paired to the AI feature
+addon-mlmodel-removal-body = Ако използвате функциите или разширения, които използват този модел, той ще бъде добавен наново.
 # Variables:
 #   $addonCount (Number): the number of add-ons being downloaded
 addon-downloading-and-verifying =

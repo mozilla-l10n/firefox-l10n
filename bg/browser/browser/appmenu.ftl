@@ -170,6 +170,9 @@ profiler-popup-capture-shortcut =
         [macos] ⌃⇧2
        *[other] Ctrl+Shift+2
     }
+profiler-button-dropmarker =
+    .label = Отваряне на профилатора
+    .tooltiptext = Отваряне на профилатора
 
 ## Profiler presets
 ## They are shown in the popup's select box.
@@ -196,6 +199,7 @@ profiler-popup-presets-graphics-label =
 profiler-popup-presets-media-description2 = Предварителни настройки за изследване на дефекти във видео и аудио във { -brand-shorter-name }.
 profiler-popup-presets-media-label =
     .label = Медия
+profiler-popup-presets-ml-description = Предварителни настройки за изследване на дефекти в машинното обучение в { -brand-shorter-name }.
 profiler-popup-presets-ml-label =
     .label = Машинно обучение
 profiler-popup-presets-networking-description = Предварителни настройки за изследване на дефекти при работа с мрежата във { -brand-shorter-name }.
@@ -286,6 +290,7 @@ appmenuitem-monitor-title = { -monitor-brand-short-name }
 appmenuitem-monitor-description = Получавайте сигнали за изтичане на данни
 appmenuitem-relay-title = { -relay-brand-short-name }
 appmenuitem-relay-description = Скрива истинския телефонен номер и адрес на ел. поща
+appmenuitem-services-relay-description = Стартираен на таблото за маскиране на електронните адреси
 appmenuitem-vpn-title = { -mozilla-vpn-brand-name }
 appmenuitem-vpn-description = Защита на действията ви онлайн
 appmenu-services-header = Моите услуги

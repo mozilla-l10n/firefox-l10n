@@ -141,6 +141,10 @@ urlbar-default-notification-anchor =
     .tooltiptext = Отваряне на панел със съобщението
 urlbar-geolocation-notification-anchor =
     .tooltiptext = Отваряне на панел със заявката за местоположение
+urlbar-localhost-notification-anchor =
+    .tooltiptext = Управление на достъпа от локално устройство за този сайт
+urlbar-local-network-notification-anchor =
+    .tooltiptext = Управление на достъпа до вашата локална мрежа за този сайт
 urlbar-xr-notification-anchor =
     .tooltiptext = Отваряне на панела за разрешения за виртуална реалност
 urlbar-storage-access-anchor =
@@ -203,11 +207,19 @@ urlbar-result-menu-manage-firefox-suggest =
 # administrative division (e.g., a province, prefecture, or state).
 urlbar-result-menu-report-inaccurate-location =
     .label = Докладване на неточно местоположение
+urlbar-result-menu-show-less-frequently =
+    .label = Показване по-рядко
 urlbar-result-menu-dont-show-weather-suggestions =
     .label = Без показване на предложения за времето
+# Used for Split Button.
+urlbar-splitbutton-dropmarker =
+    .title = Отваряне на меню
 # A message shown in the urlbar when the user submits feedback on a suggestion
 # (e.g., it shows an inaccurate location, it's shown too often, etc.).
 urlbar-feedback-acknowledgment = Благодарим ви за обратната връзка
+# A message shown in the urlbar when the user dismisses weather suggestions.
+# Weather suggestions won't be shown at all anymore.
+urlbar-dismissal-acknowledgment-weather = Благодарим ви за обратната връзка. Вече няма да виждате повече предложения за прогнозата за времето.
 
 ## Prompts users to use the Urlbar when they open a new tab or visit the
 ## homepage of their default search engine.
@@ -233,6 +245,8 @@ urlbar-search-mode-actions = Действия
 
 urlbar-geolocation-blocked =
     .tooltiptext = Забранили сте на страницата достъп до вашето местоположение.
+urlbar-localhost-blocked =
+    .tooltiptext = Забранили сте на този сайт връзките по локално устройство.
 urlbar-xr-blocked =
     .tooltiptext = Забранихте достъпа до устройства за виртуална реалност за тази страница.
 urlbar-web-notifications-blocked =
@@ -1235,3 +1249,15 @@ file-picker-crashed-save-nowhere = Файловият диалогов проз�
 file-picker-crashed-show-in-folder =
     .label = Показване в папка
     .accessKey = о
+
+## The urlbar trust panel
+
+trustpanel-clear-cookies-subview-button-clear = Изчистване
+trustpanel-clear-cookies-subview-button-cancel = Отказ
+# Variables
+#  $host (String): the hostname of the site that is being displayed.
+trustpanel-site-information-header =
+    .title = Защити на връзките за { $host }
+trustpanel-connection-secure = Връзката със сайта е сигурна.
+trustpanel-connection-not-secure = Връзката към страницата не е защитена.
+trustpanel-siteinformation-morelink = Повече информация за уеб страницата
