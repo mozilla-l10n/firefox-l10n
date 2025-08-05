@@ -1392,8 +1392,74 @@ trustpanel-blocker-section-header =
        *[other] <span>{ $count }</span> rastreadores bloqueados en este sitio
     }
 trustpanel-blocker-description = { -brand-product-name } cree que las empresas deberían seguirte menos. Por eso bloqueamos a todas las que podemos.
+trustpanel-blocked-header = { -brand-product-name } bloqueó estas cosas por ti:
+trustpanel-tracking-header = { -brand-product-name } permitió estas cosas para que los sitios no fallasen:
+trustpanel-tracking-description = Sin rastreadores, algunos botones, formularios y campos de conexión podrían no funcionar.
+trustpanel-insecure-section-header = Tu conexión no es segura
+trustpanel-insecure-description = Los datos que envías a este sitio no están cifrados. Podrían ser vistos, robados o alterados.
+trustpanel-list-label-tracking-cookies =
+    { $count ->
+        [one] { $count } cookie de rastreo de sitios cruzados
+       *[other] { $count } cookies de rastreo de sitios cruzados
+    }
+trustpanel-list-label-tracking-content = Contenido de rastreo
+trustpanel-list-label-fingerprinter =
+    { $count ->
+        [one] { $count } creador de huellas (Fingerprinters)
+       *[other] { $count } creadores de huellas (Fingerprinters)
+    }
+trustpanel-list-label-social-tracking =
+    { $count ->
+        [one] { $count } rastreador de redes sociales
+       *[other] { $count } rastreadores de redes sociales
+    }
 trustpanel-list-label-cryptominer =
     { $count ->
         [one] { $count } criptomineros
        *[other] { $count } criptomineros
     }
+trustpanel-social-tracking-blocking-tab-header =
+    { $count ->
+        [one] { -brand-product-name } bloqueó { $count } rastreador de redes sociales
+       *[other] { -brand-product-name } bloqueó { $count } rastreadores de redes sociales
+    }
+trustpanel-social-tracking-not-blocking-tab-header =
+    { $count ->
+        [one] { -brand-product-name } permitió { $count } rastreador de redes sociales
+       *[other] { -brand-product-name } permitió { $count } rastreadores de redes sociales
+    }
+trustpanel-social-tracking-tab-list-header = Estos sitios están intentando rastrearte:
+trustpanel-tracking-cookies-tab-list-header = Estos sitios están intentando rastrearte:
+trustpanel-tracking-content-blocking-tab-header =
+    { $count ->
+        [one] { -brand-product-name } bloqueó { $count } rastreador
+       *[other] { -brand-product-name } bloqueó { $count } rastreadores
+    }
+trustpanel-tracking-content-not-blocking-tab-header =
+    { $count ->
+        [one] { -brand-product-name } permitió { $count } rastreador
+       *[other] { -brand-product-name } permitió { $count } rastreadores
+    }
+trustpanel-tracking-content-tab-list-header = Estos sitios están intentando rastrearte:
+trustpanel-fingerprinter-blocking-tab-header =
+    { $count ->
+        [one] { -brand-product-name } bloqueó { $count } creador de huellas (Fingerprinter)
+       *[other] { -brand-product-name } bloqueó { $count } creadores de huellas (Fingerprinters)
+    }
+trustpanel-fingerprinter-not-blocking-tab-header =
+    { $count ->
+        [one] { -brand-product-name } permitió { $count } creador de huellas (Fingerprinters)
+       *[other] { -brand-product-name } permitió { $count } creadores de huellas (Fingerprinters)
+    }
+trustpanel-fingerprinter-list-header = Estos sitios están tratando de identificarte:
+trustpanel-cryptominer-blocking-tab-header =
+    { $count ->
+        [one] { -brand-product-name } bloqueó { $count } criptominero
+       *[other] { -brand-product-name } bloqueó { $count } criptomineros
+    }
+trustpanel-cryptominer-not-blocking-tab-header =
+    { $count ->
+        [one] { -brand-product-name } permitió { $count } criptominero
+       *[other] { -brand-product-name } permitió { $count } criptomineros
+    }
+trustpanel-cryptominer-tab-list-header = Estos sitios están intentando minar criptomonedas:
