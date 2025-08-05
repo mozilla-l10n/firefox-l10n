@@ -3,3 +3,4 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 webrtc-share-preview-button-show = Паказаць папярэдні прагляд
+webrtc-share-preview-button-hide = Схаваць папярэдні прагляд
