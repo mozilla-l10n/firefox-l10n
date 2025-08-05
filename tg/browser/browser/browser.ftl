@@ -1414,3 +1414,15 @@ trustpanel-fingerprinter-not-blocking-tab-header =
         [one] «{ -brand-product-name }» { $count } хонандаи нақши ангуштонро иҷозат медиҳад
        *[other] «{ -brand-product-name }» { $count } хонандаи нақши ангуштонро иҷозат медиҳад
     }
+trustpanel-fingerprinter-list-header = Сомонаҳои зерин кӯшиш мекунанд, ки нақши ангуштони рқамии шуморо ҷамъ кунанд:
+trustpanel-cryptominer-blocking-tab-header =
+    { $count ->
+        [one] «{ -brand-product-name }» { $count } криптомайнерро манъ кард
+       *[other] «{ -brand-product-name }» { $count } криптомайнерро манъ кард
+    }
+trustpanel-cryptominer-not-blocking-tab-header =
+    { $count ->
+        [one] «{ -brand-product-name }» { $count } криптомайнерро иҷозат медиҳад
+       *[other] «{ -brand-product-name }» { $count } криптомайнерро иҷозат медиҳад
+    }
+trustpanel-cryptominer-tab-list-header = Сомонаҳои зерин фаъолияти криптомайнингро кӯшиш мекунанд:
