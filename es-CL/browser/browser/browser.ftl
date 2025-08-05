@@ -141,6 +141,10 @@ urlbar-default-notification-anchor =
     .tooltiptext = Abrir panel de mensajes
 urlbar-geolocation-notification-anchor =
     .tooltiptext = Abrir panel de solicitud de ubicación
+urlbar-localhost-notification-anchor =
+    .tooltiptext = Gestionar el acceso al dispositivo local para este sitio
+urlbar-local-network-notification-anchor =
+    .tooltiptext = Gestionar el uso compartido de tu acceso a la red local con este sitio
 urlbar-xr-notification-anchor =
     .tooltiptext = Abrir el panel de permisos de realidad virtual
 urlbar-storage-access-anchor =
@@ -241,6 +245,10 @@ urlbar-search-mode-actions = Acciones
 
 urlbar-geolocation-blocked =
     .tooltiptext = Has bloqueado la información de ubicación para este sitio.
+urlbar-localhost-blocked =
+    .tooltiptext = Has bloqueado las conexiones a dispositivos locales para este sitio.
+urlbar-local-network-blocked =
+    .tooltiptext = Has bloqueado las conexiones a la red local para este sitio.
 urlbar-xr-blocked =
     .tooltiptext = Has bloqueado el acceso de dispositivos de realidad virtual para este sitio.
 urlbar-web-notifications-blocked =
@@ -1383,6 +1391,7 @@ trustpanel-blocker-section-header =
         [one] <span>{ $count }</span> rastreador bloqueado en este sitio
        *[other] <span>{ $count }</span> rastreadores bloqueados en este sitio
     }
+trustpanel-blocker-description = { -brand-product-name } cree que las empresas deberían seguirte menos. Por eso bloqueamos a todas las que podemos.
 trustpanel-list-label-cryptominer =
     { $count ->
         [one] { $count } criptomineros
