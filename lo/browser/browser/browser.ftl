@@ -1059,3 +1059,10 @@ trustpanel-connection-label-insecure = ການເຊື່ອມຕໍ່ບ�
 trustpanel-clear-cookies-subview-button-clear = ລົບລ້າງ
 trustpanel-clear-cookies-subview-button-cancel = ຍົກເລີກ
 trustpanel-blocker-see-all = ເບິງທັງໝົດ
+
+## Variables
+##  $count (String): the number of trackers blocked.
+
+trustpanel-list-label-tracking-content = ຕົວຕິດຕາມເນື້ອຫາ
+trustpanel-list-label-fingerprinter = { $count } ລາຍນິ້ວດິຈິຕອນ
+trustpanel-tracking-content-tab-list-header = ເວັບໄຊເຫຼົ່ານີ້ກຳລັງພະຍາຍາມຕິດຕາມທ່ານ:
