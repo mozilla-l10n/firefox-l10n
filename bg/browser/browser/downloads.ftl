@@ -183,6 +183,18 @@ downloads-history =
 downloads-details =
     .title = Подробности за изтеглянето
 
+## These strings are displayed in the private browsing view of the downloads panel
+
+downloads-private-browsing-details =
+    .title = Файловете остават на устройството ви
+downloads-private-browsing-message = Всеки, който използва това устройство може да вижда изтегленитефайлове, дори когато затворите всички поверителни прозорци.
+downloads-private-browsing-delete-button =
+    .label = Автоматично изтриване на файлове
+    .accesskey = А
+downloads-private-browsing-accept-button =
+    .label = Разбрах
+    .accesskey = Р
+
 ## Displayed when a site attempts to automatically download many files.
 ## Variables:
 ##   $num (number) - Number of blocked downloads.

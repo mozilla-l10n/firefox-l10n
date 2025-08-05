@@ -96,7 +96,7 @@ protections-panel-protectionsdashboard-label = Tablou de bord privind protecții
 # The header of the list
 protections-panel-site-not-working-view-header = Dezactivează protecțiile dacă ai probleme cu:
 # The list items, shown in a <ul>
-protections-panel-site-not-working-view-issue-list-login-fields = Câmpurile de autentificare
+protections-panel-site-not-working-view-issue-list-login-fields = Câmpuri de autentificare
 protections-panel-site-not-working-view-issue-list-forms = Formularele
 protections-panel-site-not-working-view-issue-list-payments = Plățile
 protections-panel-site-not-working-view-issue-list-comments = Comentariile

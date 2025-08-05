@@ -1375,10 +1375,23 @@ trustpanel-connection-secure = Връзката със сайта е сигур�
 trustpanel-connection-not-secure = Връзката към страницата не е защитена.
 trustpanel-siteinformation-morelink = Повече информация за уеб страницата
 trustpanel-blocker-see-all = Вижте всички
+# Variables
+#  $host (String): the hostname of the site that is being displayed.
+trustpanel-blocker-header =
+    .title = Защити от проследяване за { $host }
 
 ## Variables
 ##  $count (String): the number of trackers blocked.
 
+trustpanel-blocker-section-header =
+    { $count ->
+        [one] <span>{ $count }</span> спряно проследяване на този сайт
+       *[other] <span>{ $count }</span> спрени проследявания на този сайт
+    }
+trustpanel-blocker-description = { -brand-product-name } смята, че компаниите трябва по-малко да ви следят. Блокираме колкото се може повече.
+trustpanel-blocked-header = { -brand-product-name } спря следните неща:
+trustpanel-tracking-header = { -brand-product-name } позволява следните неща, за да не се счупят страниците:
+trustpanel-tracking-description = Без проследяване някои бутони, формуляри и полета за вход може да не работят.
 trustpanel-insecure-section-header = Връзката е незащитена
 trustpanel-insecure-description = Данните, които изпращате към този сайт не са шифровани. Могат да бъдат видяни, откраднати или променяни.
 trustpanel-list-label-tracking-cookies =
@@ -1435,6 +1448,17 @@ trustpanel-tracking-content-not-blocking-tab-header =
        *[other] { -brand-product-name } разреши { $count } проследявания
     }
 trustpanel-tracking-content-tab-list-header = Следните сайтове се опитват да ви проследяват:
+trustpanel-fingerprinter-blocking-tab-header =
+    { $count ->
+        [one] { -brand-product-name } спря { $count } опит за идентификация чрез цифров отпечатък
+       *[other] { -brand-product-name } спря { $count } опита за идентификация чрез цифров отпечатък
+    }
+trustpanel-fingerprinter-not-blocking-tab-header =
+    { $count ->
+        [one] { -brand-product-name } позволи { $count } опит за идентификация чрез цифров отпечатък
+       *[other] { -brand-product-name } позволи { $count } опита за идентификация чрез цифров отпечатък
+    }
+trustpanel-fingerprinter-list-header = Тези сайтове се опитват да ви идентифицират чрез уникалния отпечатък на устройството ви:
 trustpanel-cryptominer-blocking-tab-header =
     { $count ->
         [one] { -brand-product-name } спря { $count } криптоминьор

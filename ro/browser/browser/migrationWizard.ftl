@@ -75,7 +75,7 @@ migration-bookmarks-option-label = Marcaje
 # Favorites is used for Bookmarks when importing from Internet Explorer or
 # Edge, as this is the terminology for bookmarks on those browsers.
 migration-favorites-option-label = Favorite
-migration-logins-and-passwords-option-label = Date de autentificare și parole salvate
+migration-logins-and-passwords-option-label = Credențiale și parole salvate
 migration-passwords-option-label = Parole salvate
 migration-history-option-label = Istoric de navigare
 migration-extensions-option-label = Extensii

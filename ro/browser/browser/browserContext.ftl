@@ -300,7 +300,7 @@ main-context-menu-send-to-device =
 ##
 
 main-context-menu-use-saved-login =
-    .label = Folosește datele de autentificare salvate
+    .label = Folosește credențialele salvate
     .accesskey = o
 # Displayed when there are saved passwords and the user clicks inside a username or password field
 main-context-menu-use-saved-password =
@@ -316,7 +316,7 @@ main-context-menu-suggest-strong-password =
     .label = Sugerează o parolă puternică...
     .accesskey = S
 main-context-menu-manage-logins2 =
-    .label = Gestionează datele de autentificare
+    .label = Gestionează credențialele
     .accesskey = M
 main-context-menu-manage-passwords =
     .label = Gestionează parolele

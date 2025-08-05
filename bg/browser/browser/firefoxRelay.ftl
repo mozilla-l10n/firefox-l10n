@@ -72,6 +72,7 @@ firefox-relay-and-fxa-opt-in-confirmation-enable-button-basic-info =
 
 firefox-relay-and-fxa-popup-notification-header-with-domain = Вземете безплатна маска за пощата
 firefox-relay-and-fxa-popup-notification-first-sentence-with-domain = Защитете входящата си поща, като използвате безплатна <label data-l10n-name="firefox-relay-learn-more-url">маска за поща</label>, за да скриете истинския си адрес. Писмата от <label data-l10n-name="firefox-fxa-and-relay-offer-domain">този сайт</label> пак ще стигат до вас, но без да бъде видим вашия адрес на електронна поща.
+firefox-relay-and-fxa-popup-notification-first-sentence = Защитете входящата си кутия от спам, като използвате безплатна <label data-l10n-name="firefox-relay-learn-more-url">имейл маска { -relay-brand-name }</label>, за да скриете истинския си адрес. Имейлите от <label data-l10n-name="firefox-fxa-and-relay-offer-domain">този сайт</label> пак ще идват във входящата ви кутия, но със скрит имейл.
 firefox-relay-and-fxa-popup-notification-second-sentence-with-domain = Регистрирайте или влезте в профила си, за да използвате маска
 firefox-relay-and-fxa-opt-in-confirmation-enable-button-with-domain =
     .label = Регистриране
