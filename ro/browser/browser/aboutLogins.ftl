@@ -3,12 +3,12 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 # NOTE: New strings should use the about-logins- prefix.
 
-about-logins-page-title = Date de autentificare și parole
+about-logins-page-title = Credențiale și parole
 about-logins-login-filter =
-    .placeholder = Caută date de autentificare
+    .placeholder = Caută credențiale
     .key = F
 create-new-login-button =
-    .title = Creează date de autentificare noi
+    .title = Creează credențiale noi
 about-logins-page-title-name = Parole
 about-logins-login-filter2 =
     .placeholder = Caută parole
@@ -27,7 +27,7 @@ menu =
 # This menuitem is only visible on Windows and macOS
 about-logins-menu-menuitem-import-from-another-browser = Importă dintr-un alt browser…
 about-logins-menu-menuitem-import-from-a-file = Importă dintr-un fișier…
-about-logins-menu-menuitem-export-logins = Exportă date de autentificare…
+about-logins-menu-menuitem-export-logins = Exportă credențiale…
 about-logins-menu-menuitem-remove-all-logins = Elimină toate autentificările…
 about-logins-menu-menuitem-export-logins2 = Exportă parolele…
 about-logins-menu-menuitem-remove-all-logins2 = Elimină toate parolele…
@@ -41,14 +41,14 @@ about-logins-menu-menuitem-help = Ajutor
 ## Login List
 
 login-list =
-    .aria-label = Date de autentificare corespondente criteriilor de căutare
+    .aria-label = Credențiale corespondente criteriilor de căutare
 # Variables
 #   $count (number) - Number of logins
 login-list-count =
     { $count ->
-        [one] { $count } autentificare
-        [few] { $count } date de autentificare
-       *[other] { $count } de date de autentificare
+        [one] { $count } set de credențiale
+        [few] { $count } seturi de credențiale
+       *[other] { $count } de seturi de credențiale
     }
 # Variables
 #   $count (number) - Number of filtered logins
@@ -87,7 +87,7 @@ login-list-last-used-option = Ultima utilizare
 login-list-intro-title = Nicio autentificare găsită
 login-list-intro-title2 = Nu au fost salvate parole
 login-list-intro-description = Când salvezi o parolă în { -brand-product-name }, va apărea aici.
-about-logins-login-list-empty-search-title = Nu s-au găsit date de autentificare
+about-logins-login-list-empty-search-title = Nu s-au găsit credențiale
 about-logins-login-list-empty-search-title2 = Nu s-au găsit parole
 about-logins-login-list-empty-search-description = Nu există rezultate care să corespundă căutării.
 login-list-item-title-new-login = Autentificare nouă
@@ -107,17 +107,17 @@ about-logins-list-section-week = Ultimele 7 zile
 
 ## Introduction screen
 
-about-logins-login-intro-heading-logged-out2 = Cauți datele de autentificare salvate? Activează sincronizarea sau importează-le.
-about-logins-login-intro-heading-logged-in = Nu am găsit date de autentificare sincronizate.
-login-intro-description = Dacă ți-ai salvat datele de autentificare în { -brand-product-name } pe un alt dispozitiv, iată cum le poți aduce aici:
-login-intro-instructions-fxa = Fă-ți un cont sau intră în contul { -fxaccount-brand-name(case: "definite-article") } de pe dispozitivul pe care ai salvat datele de autentificare.
+about-logins-login-intro-heading-logged-out2 = Cauți credențiale salvate? Activează sincronizarea sau importă-le.
+about-logins-login-intro-heading-logged-in = Nu am găsit credențiale sincronizate.
+login-intro-description = Dacă ți-ai salvat credențiale în { -brand-product-name } pe un alt dispozitiv, iată cum le poți aduce aici:
+login-intro-instructions-fxa = Fă-ți un cont sau intră în contul { -fxaccount-brand-name(case: "definite-article") } de pe dispozitivul pe care ai salvat credențialele.
 about-logins-login-intro-heading-message = Salvează-ți parolele într-un loc sigur
 login-intro-description2 = Toate parolele pe care le salvezi în { -brand-product-name } sunt criptate. În plus, suntem atenți la încălcarea securității datelor și te alertăm dacă te afectează. <a data-l10n-name="breach-alert-link">Află mai multe</a>
-login-intro-instructions-fxa2 = Fă-ți un cont sau intră în contul tău de pe dispozitivul pe care sunt salvate datele tale de autentificare.
-login-intro-instructions-fxa-settings = Mergi la Setări > Sincronizare > Activează sincronizarea… Bifează caseta de selectare Date de autentificare și parole.
+login-intro-instructions-fxa2 = Fă-ți un cont sau intră în contul tău de pe dispozitivul pe care sunt salvate credențialele.
+login-intro-instructions-fxa-settings = Mergi la Setări > Sincronizare > Activează sincronizarea… Bifează caseta de selectare Credențiale și parole.
 login-intro-instructions-fxa-passwords-help = Vizitează <a data-l10n-name="passwords-help-link">asistența pentru parole</a> pentru mai mult ajutor.
-about-logins-intro-browser-only-import = Dacă datele tale de autentificare sunt salvate în alt browser, le poți<a data-l10n-name="import-link">importa în { -brand-product-name }</a>
-about-logins-intro-import2 = Dacă datele tale de autentificare sunt salvate în afara { -brand-product-name }, le poți <a data-l10n-name="import-browser-link">importa dintr-un alt browser</a> sau <a data-l10n-name="import-file-link">dintr-un fișier</a>
+about-logins-intro-browser-only-import = Dacă ai credențiale salvate în alt browser, le poți<a data-l10n-name="import-link">importa în { -brand-product-name }</a>
+about-logins-intro-import2 = Dacă ai credențiale salvate în afara { -brand-product-name }, le poți <a data-l10n-name="import-browser-link">importa dintr-un alt browser</a> sau <a data-l10n-name="import-file-link">dintr-un fișier</a>
 about-logins-intro-import3 = Selectează butonul cu semnul plus de mai sus pentru a adăuga o parolă acum. Poți și <a data-l10n-name="import-browser-link">importa parole dintr-un alt browser</a> sau <a data-l10n-name="import-file-link">dintr-un fișier</ a>.
 
 ## Login
@@ -173,10 +173,10 @@ about-logins-os-auth-dialog-caption = { -brand-full-name }
 ## notes are only valid for English. Please test in your respected locale.
 
 # This message can be seen when attempting to edit a login in about:logins on Windows.
-about-logins-edit-login-os-auth-dialog-message-win = Pentru a edita autentificarea, introdu credențialele în Windows. Acest lucru ajută la protejarea securității conturilor tale.
+about-logins-edit-login-os-auth-dialog-message-win = Pentru a edita autentificarea, introdu credențialele Windows. Acest lucru ajută la protejarea securității conturilor tale.
 # This message can be seen when attempting to edit a login in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
-about-logins-edit-login-os-auth-dialog-message-macosx = editează datele de autentificare salvate
+about-logins-edit-login-os-auth-dialog-message-macosx = editează credențialele salvate
 # The macOS strings are preceded by the operating system with "Firefox is trying to ".
 # This message can be seen when attempting to disable osauth in about:preferences.
 about-logins-os-auth-dialog-message =
@@ -185,34 +185,34 @@ about-logins-os-auth-dialog-message =
        *[other] { -brand-short-name } încearcă să schimbe setările pentru parole. Folosește autentificarea pe dispozitiv ca să permiți acțiunea.
     }
 # This message can be seen when attempting to edit a login in about:logins on Windows.
-about-logins-edit-login-os-auth-dialog-message2-win = Pentru a edita parola, introdu credențialele în Windows. Acest lucru ajută la protejarea securității conturilor tale.
+about-logins-edit-login-os-auth-dialog-message2-win = Pentru a edita parola, introdu credențialele Windows. Acest lucru ajută la protejarea securității conturilor tale.
 # This message can be seen when attempting to edit a login in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-edit-login-os-auth-dialog-message2-macosx = editează parola salvată
 # This message can be seen when attempting to reveal a password in about:logins on Windows.
-about-logins-reveal-password-os-auth-dialog-message-win = Pentru a vedea parola, introdu credențialele în Windows. Acest lucru ajută la protejarea securității conturilor tale.
+about-logins-reveal-password-os-auth-dialog-message-win = Pentru a vedea parola, introdu credențialele Windows. Acest lucru ajută la protejarea securității conturilor tale.
 # This message can be seen when attempting to reveal a password in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-reveal-password-os-auth-dialog-message-macosx = afișează parola salvată
 # This message can be seen when attempting to copy a password in about:logins on Windows.
-about-logins-copy-password-os-auth-dialog-message-win = Pentru a copia parola, introdu credențialele în Windows. Acest lucru ajută la protejarea securității conturilor tale.
+about-logins-copy-password-os-auth-dialog-message-win = Pentru a copia parola, introdu credențialele Windows. Acest lucru ajută la protejarea securității conturilor tale.
 # This message can be seen when attempting to copy a password in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-copy-password-os-auth-dialog-message-macosx = copiază parola salvată
 # This message can be seen when attempting to export a password in about:logins on Windows.
-about-logins-export-password-os-auth-dialog-message-win = Pentru a exporta datele de autentificare, introdu credențialele în Windows. Acest lucru ajută la protejarea securității conturilor tale.
+about-logins-export-password-os-auth-dialog-message-win = Pentru a exporta credențialele salvate, introdu credențialele Windows. Ajută la protejarea securității conturilor tale.
 # This message can be seen when attempting to export a password in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
-about-logins-export-password-os-auth-dialog-message-macosx = exportă datele de autentificare și parolele salvate
+about-logins-export-password-os-auth-dialog-message-macosx = exportă credențialele și parolele salvate
 # This message can be seen when attempting to export a password in about:logins on Windows.
-about-logins-export-password-os-auth-dialog-message2-win = Pentru a exporta parolele, introdu credențialele în Windows. Acest lucru ajută la protejarea securității conturilor tale.
+about-logins-export-password-os-auth-dialog-message2-win = Pentru a exporta parolele, introdu credențialele Windows. Acest lucru ajută la protejarea securității conturilor tale.
 # This message can be seen when attempting to export a password in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-export-password-os-auth-dialog-message2-macosx = exportă parolele salvate
 
 ## Primary Password notification
 
-about-logins-primary-password-notification-message = Te rugăm să îți introduci parola primară pentru a vedea datele de autentificare și parolele salvate
+about-logins-primary-password-notification-message = Te rugăm să îți introduci parola primară pentru a vedea credențialele și parolele salvate
 master-password-reload-button =
     .label = Autentifică-te
     .accesskey = L
@@ -239,13 +239,6 @@ about-logins-confirm-remove-all-dialog-confirm-button-label =
         [one] Elimină
         [few] Elimină-le pe toate
        *[other] Elimină-le pe toate
-    }
-about-logins-confirm-remove-all-dialog-checkbox-label =
-    { $count ->
-        [1] Da, elimină această autentificare
-        [one] Da, elimină această autentificare
-        [few] Da, elimină aceste date de autentificare
-       *[other] Da, elimină aceste date de autentificare
     }
 about-logins-confirm-remove-all-dialog-title =
     { $count ->

@@ -247,6 +247,8 @@ urlbar-geolocation-blocked =
     .tooltiptext = Забранили сте на страницата достъп до вашето местоположение.
 urlbar-localhost-blocked =
     .tooltiptext = Забранили сте на този сайт връзките по локално устройство.
+urlbar-local-network-blocked =
+    .tooltiptext = Забранили сте на този сайт връзките по локалната мрежа.
 urlbar-xr-blocked =
     .tooltiptext = Забранихте достъпа до устройства за виртуална реалност за тази страница.
 urlbar-web-notifications-blocked =
@@ -363,6 +365,7 @@ quickactions-bookmarks2 = Управление на отметки
 quickactions-cmd-bookmarks = отметки
 # Opens a SUMO article explaining how to clear history
 quickactions-clearrecenthistory = Изчистване на скорошна история
+quickactions-cmd-clearrecenthistory = изчистване на скорошна история, история
 # Opens a SUMO article explaining how to clear history
 quickactions-clearhistory = Изчистване на историята
 quickactions-cmd-clearhistory = изчистване на историята
@@ -375,6 +378,10 @@ quickactions-cmd-extensions2 = разширения и добавки
 quickactions-cmd-extensions = разширения
 # Opens Firefox View
 quickactions-firefoxview = Отваряне на { -firefoxview-brand-name }
+# English is using "view" and "open view", since the feature name is
+# "Firefox View". If you have translated the name in your language, you
+# should use a word related to the existing translation.
+quickactions-cmd-firefoxview = отваряне на { -firefoxview-brand-name }, { -firefoxview-brand-name }, отваряне на изглед, преглед
 # Opens SUMO home page
 quickactions-help = Помощ за { -brand-product-name }
 quickactions-cmd-help = помощ, поддръжка
@@ -406,18 +413,26 @@ quickactions-restart = Рестартиране на { -brand-short-name }
 quickactions-cmd-restart = рестарт, рестартиране
 # Opens the screenshot tool
 quickactions-screenshot3 = Снимка на екрана
+quickactions-cmd-screenshot2 = екранна снимка, правене на екранна снимка
 quickactions-cmd-screenshot = снимка на екрана
 # Opens about:preferences
 quickactions-settings2 = Настройки
+# "manage" should match the corresponding command, which is “Manage settings” in English.
+quickactions-cmd-settings2 = настройки, предпочитания, опции, управление
 quickactions-cmd-settings = настройки
 # Opens about:addons page in the themes section
 quickactions-themes = Управление на теми
+# In English we provide multiple spellings for "add-ons". If that's not
+# applicable to your language, only use the correct spelling (don't repeat the
+# same word).
+quickactions-cmd-themes2 = теми, добавки, добавки
 quickactions-cmd-themes = теми
 # Opens a SUMO article explaining how to update the browser
 quickactions-update = Обновяване на { -brand-short-name }
 quickactions-cmd-update = обновяване
 # Opens the view-source UI with current pages source
 quickactions-viewsource2 = Изходен код на страницата
+quickactions-cmd-viewsource2 = изходен код, код, източник на код
 quickactions-cmd-viewsource = преглед на изходния код, изходен код
 # Tooltip text for the help button shown in the result.
 quickactions-learn-more =
@@ -612,6 +627,10 @@ urlbar-search-mode-indicator-close =
 # engine is unknown.
 urlbar-placeholder =
     .placeholder = Търсете или въведете адрес
+# This placeholder is used when not in search mode and searching in the urlbar
+# is disabled via the keyword.enabled pref.
+urlbar-placeholder-keyword-disabled =
+    .placeholder = Въвеждане на адрес
 # This placeholder is used in search mode with search engines that search the
 # entire web.
 # Variables
@@ -691,6 +710,8 @@ urlbar-result-action-visit = Посещаване
 # Variables
 # $container (String): the name of the target container
 urlbar-result-action-switch-tab-with-container = Превключване към раздел · <span>{ $container }</span>
+# Used when the target tab is in a tab group that doesn't have a label.
+urlbar-result-action-tab-group-unnamed = Неименувана група
 # Allows the user to visit a URL that was previously copied to the clipboard.
 urlbar-result-action-visit-from-clipboard = Посещаване от междинната памет
 # Directs a user to press the Tab key to perform a search with the specified
@@ -720,6 +741,8 @@ urlbar-result-action-copy-to-clipboard = Копиране
 # Variables
 #  $result (String): the string representation for a formula result
 urlbar-result-action-calculator-result = = { $result }
+# The string returned for an undefined calculator result such as when dividing by 0
+urlbar-result-action-undefined-calculator-result = неопределено
 # Shows the result of a formula expression being calculated, in scientific notation.
 # The last = sign will be shown as part of the result (e.g. "= 1.0e17").
 # Variables
@@ -737,6 +760,46 @@ urlbar-result-action-calculator-result-3 = = { NUMBER($result, useGrouping: "fal
 # Variables
 #  $result (String): the string representation for a formula result
 urlbar-result-action-calculator-result-decimal = = { NUMBER($result, maximumSignificantDigits: 9) }
+# The title of a weather suggestion in the urlbar. The temperature and unit
+# substring should be inside a <strong> tag. If the temperature and unit are not
+# adjacent in the localization, it's OK to include only the temperature in the
+# tag.
+# Variables:
+#   $temperature (number) - The temperature value
+#   $unit (String) - The unit for the temperature, either "C" or "F"
+#   $city (String) - The name of the city the weather data is for
+#   $region (String) - The name of the city's region or country. Depending on
+#       the user's location in relation to the city, this may be the name or
+#       abbreviation of one of the city's administrative divisions like a
+#       province or state, or it may be the name of the city's country.
+urlbar-result-weather-title = <strong>{ $temperature }°{ $unit }</strong> в { $city }, { $region }
+# The title of a weather suggestion in the urlbar including a region and
+# country. The temperature and unit substring should be inside a <strong> tag.
+# If the temperature and unit are not adjacent in the localization, it's OK to
+# include only the temperature in the tag.
+# Variables:
+#   $temperature (number) - The temperature value
+#   $unit (String) - The unit for the temperature, either "C" or "F"
+#   $city (String) - The name of the city the weather data is for
+#   $region (String) - The name or abbreviation of one of the city's
+#       administrative divisions like a province or state.
+#   $country (String) - The name of the city's country.
+urlbar-result-weather-title-with-country = <strong>{ $temperature }°{ $unit }</strong> в { $city }, { $region }, { $country }
+# The title of a weather suggestion in the urlbar only including the city. The
+# temperature and unit substring should be inside a <strong> tag. If the
+# temperature and unit are not adjacent in the localization, it's OK to include
+# only the temperature in the tag.
+# Variables:
+#   $temperature (number) - The temperature value
+#   $unit (String) - The unit for the temperature, either "C" or "F"
+#   $city (String) - The name of the city the weather data is for
+urlbar-result-weather-title-city-only = <strong>{ $temperature }°{ $unit }</strong> в { $city }
+# Shows the name of the provider of weather data in a weather suggestion in the
+# urlbar.
+# Variables:
+#   $provider (String) - The name of the weather-data provider. It will be the
+#       name of a company, organization, or service.
+urlbar-result-weather-provider-sponsored = { $provider } · Спонсорирано
 
 ## Strings used for buttons in the urlbar
 
@@ -771,6 +834,8 @@ urlbar-searchmode-default =
 urlbar-searchmode-popup-description = Този път търсете с:
 urlbar-searchmode-popup-search-settings-menuitem =
     .label = Настройки за търсене
+# Label shown next to a new search engine in the Searchmode Switcher popup to promote it.
+urlbar-searchmode-new = Нов
 # Searchmode Switcher button
 # Variables:
 #   $engine (String): the current default search engine.
@@ -792,6 +857,9 @@ urlbar-result-action-search-actions = Действия при търсене
 # Label for a quickaction result used to switch to an open tab group.
 #  $group (String): the name of the tab group to switch to
 urlbar-result-action-switch-to-tabgroup = Превключване към { $group }
+# Label for a quickaction result used to re-opan a saved tab group.
+#  $group (String): the name of the tab group to re-open
+urlbar-result-action-open-saved-tabgroup = Отваряне на { $group }
 
 ## Labels shown above groups of urlbar results
 
@@ -1095,6 +1163,10 @@ tabs-toolbar-list-all-tabs =
     .label = Показване на всички раздели
     .tooltiptext = Показване на всички раздели
 
+## Drop indicator text for pinned tabs when no tabs are pinned.
+
+pinned-tabs-drop-indicator = Пуснете раздела тук, за да го закачите
+
 ## Infobar shown at startup to suggest session-restore
 
 # <img data-l10n-name="icon"/> will be replaced by the application menu icon
@@ -1199,6 +1271,15 @@ popup-notification-addon-install-unsigned =
     .value = (непроверено)
 popup-notification-xpinstall-prompt-learn-more = Научете повече за безопасното инсталиране на добавки
 popup-notification-xpinstall-prompt-block-url = Вижте подробности
+# Note: Access key is set to p to match "private" in the corresponding localized label.
+popup-notification-addon-privatebrowsing-checkbox2 =
+    .label = Разрешаване на разширението да работи в поверителни прозорци
+    .accesskey = ш
+# This string is similar to `webext-perms-description-data-long-technicalAndInteraction`
+# but it is used in the install prompt, and it needs an access key.
+popup-notification-addon-technical-and-interaction-checkbox =
+    .label = Споделяне на технически данни и данни за взаимодействието с разработчика на разширението
+    .accesskey = р
 
 ## Pop-up warning
 
@@ -1276,6 +1357,14 @@ trustpanel-connection-label-insecure = Връзката не е защитена
 trustpanel-header-enabled = { -brand-product-name } ви пази
 trustpanel-description-enabled = Вие сте защитени. Ако забележим нещо, ще ви уведомим
 trustpanel-header-disabled = Защитите са изключени
+trustpanel-description-disabled = { -brand-product-name } не ви защитава. Съветваме ви да включите защитите.
+trustpanel-clear-cookies-button = Изчистване на бисквитките и данните на сайта
+trustpanel-privacy-link = Настройки за поверителност!
+# Variables
+#  $host (String): the hostname of the site that is being displayed.
+trustpanel-clear-cookies-header =
+    .title = Изчистване на бисквитки и данни на страници за { $host }
+trustpanel-clear-cookies-description = Премахването на бисквитки и данни на страници може да ви принуди да излезете от тях и да изчистите съдържанието на пазарските си колички.
 trustpanel-clear-cookies-subview-button-clear = Изчистване
 trustpanel-clear-cookies-subview-button-cancel = Отказ
 # Variables
@@ -1313,6 +1402,16 @@ trustpanel-list-label-cryptominer =
         [one] { $count } криптокопач
        *[other] { $count } криптокопача
     }
+trustpanel-social-tracking-blocking-tab-header =
+    { $count ->
+        [one] { -brand-product-name } спря { $count } проследяване от социални медии
+       *[other] { -brand-product-name } спря { $count } проследявания от социални медии
+    }
+trustpanel-social-tracking-not-blocking-tab-header =
+    { $count ->
+        [one] { -brand-product-name } разреши { $count } проследяване от социални медии
+       *[other] { -brand-product-name } разреши { $count } проследявания от социални медии
+    }
 trustpanel-social-tracking-tab-list-header = Следните сайтове се опитват да ви проследяват:
 trustpanel-tracking-cookies-blocking-tab-header =
     { $count ->
@@ -1336,3 +1435,14 @@ trustpanel-tracking-content-not-blocking-tab-header =
        *[other] { -brand-product-name } разреши { $count } проследявания
     }
 trustpanel-tracking-content-tab-list-header = Следните сайтове се опитват да ви проследяват:
+trustpanel-cryptominer-blocking-tab-header =
+    { $count ->
+        [one] { -brand-product-name } спря { $count } криптоминьор
+       *[other] { -brand-product-name } спря { $count } криптоминьора
+    }
+trustpanel-cryptominer-not-blocking-tab-header =
+    { $count ->
+        [one] { -brand-product-name } позволи { $count } криптоминьор
+       *[other] { -brand-product-name } позволи { $count } криптоминьора
+    }
+trustpanel-cryptominer-tab-list-header = Следните сайтове се опитват да използват криптоминьори:
