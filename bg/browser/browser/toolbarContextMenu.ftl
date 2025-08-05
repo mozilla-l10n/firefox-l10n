@@ -29,6 +29,12 @@ toolbar-context-menu-reopen-closed-tabs =
            *[other] Възстановяване на затворени раздели
         }
     .accesskey = т
+toolbar-context-turn-on-vertical-tabs =
+    .label = Включване на вертикални раздели
+toolbar-context-turn-off-vertical-tabs =
+    .label = Изключване на вертикални раздели
+toolbar-context-customize-sidebar =
+    .label = Персонализиране на страничната лента
 toolbar-context-menu-manage-extension =
     .label = Управление на добавката
     .accesskey = д
@@ -53,6 +59,10 @@ toolbar-context-menu-auto-hide-downloads-button-2 =
 toolbar-context-menu-always-open-downloads-panel =
     .label = Показване на панела при започване на изтеглянето
     .accesskey = п
+# Label of checkbox menu item to toggle visibility of Extensions Button.
+toolbar-context-menu-always-show-extensions-button =
+    .label = Показване винаги в лентата с инструменти
+    .accesskey = в
 toolbar-context-menu-remove-from-toolbar =
     .label = Премахване от лентата с инструменти
     .accesskey = П

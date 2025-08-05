@@ -60,6 +60,10 @@ protections-not-blocking-fingerprinters =
     .title = Не спряно снемане на цифров отпечатък
 protections-not-blocking-cryptominers =
     .title = Не спряно добиване на криптовалути
+protections-not-blocking-cookies-third-party =
+    .title = Не спира бисквитките от трети страни
+protections-not-blocking-cookies-all =
+    .title = Не спира бисквитките
 protections-not-blocking-cross-site-tracking-cookies =
     .title = Не спрени бисквитки за следене в различни сайтове
 protections-not-blocking-tracking-content =
@@ -87,4 +91,10 @@ protections-footer-blocked-tracker-counter-no-tooltip =
     { $trackerCount ->
         [one] 1 спряно
        *[other] { $trackerCount } спрени
+    }
+# In English this looks like "Firefox blocked over 10,000 trackers since October 2019"
+protections-milestone =
+    { $trackerCount ->
+        [one] { -brand-short-name } спрял { $trackerCount } тракер от { DATETIME($date, year: "numeric", month: "long") }
+       *[other] { -brand-short-name } е спрял повече от { $trackerCount } тракера от { DATETIME($date, year: "numeric", month: "long") }
     }
