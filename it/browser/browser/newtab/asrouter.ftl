@@ -333,7 +333,7 @@ multi-cta-fox-doodle-pin-startmenu-checkbox = Aggiungi { -brand-short-name } al 
 multi-cta-fox-doodle-pin-checkbox =
     { PLATFORM() ->
         [macos] Mantieni { -brand-short-name } nel Dock
-       *[other] Aggiungi { -brand-short-name } al menu Start
+       *[other] Aggiungi { -brand-short-name } alla barra delle applicazioni
     }
 multi-cta-fox-doodle-start-browsing-primary-button-label = Inizia a navigare
 multi-cta-fox-doodle-main-browser-primary-button-label = Imposta { -brand-short-name } come browser principale
