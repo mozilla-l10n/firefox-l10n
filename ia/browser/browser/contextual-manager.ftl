@@ -18,6 +18,7 @@ contextual-manager-passwords-command-import-from-browser = Importar de un altere
 contextual-manager-passwords-command-import = Importar de un file…
 contextual-manager-passwords-command-export = Exportar contrasignos
 contextual-manager-passwords-command-remove-all = Remover tote le contrasignos
+contextual-manager-passwords-command-options = Optiones
 contextual-manager-passwords-command-settings = Parametros
 contextual-manager-passwords-command-help = Adjuta
 contextual-manager-passwords-os-auth-dialog-caption = { -brand-full-name }
@@ -160,6 +161,8 @@ contextual-manager-passwords-password-already-exists-error-button = Va al contra
 contextual-manager-passwords-update-password-success-heading =
     .heading = Contrasigno salvate
 contextual-manager-passwords-update-password-success-button = Facite
+contextual-manager-passwords-update-username-success-heading-2 =
+    .heading = Nomine de usator addite
 contextual-manager-passwords-update-username-success-heading =
     .heading = Nomine de usator salvaate
 # Message to confirm successful removal of a password/passwords.
