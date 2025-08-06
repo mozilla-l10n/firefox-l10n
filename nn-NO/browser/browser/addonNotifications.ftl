@@ -125,11 +125,13 @@ addon-install-error-corrupt-file = Klarte ikkje å installere tillegget, lasta n
 addon-install-error-file-access = Klarte ikkje å installere { $addonName } fordi { -brand-short-name } ikkje klarte å endre den påkravde fila.
 addon-install-error-not-signed = { -brand-short-name } har hindra denne sida frå å installere eit ikkje-stadfesta tillegg.
 addon-install-error-invalid-domain = Tillegget { $addonName } kan ikkje installerast frå denne plasseringa.
+addon-install-error-no-addon-name-file-access = Klarte ikkje å installere tillegget fordi { -brand-short-name } ikkje kan endre den nødvendige fila.
 addon-local-install-error-network-failure = Klarte ikkje å installere dette tillegget på grunn av ein feil i filsystemet.
 addon-local-install-error-incorrect-hash = Klarte ikkje å installere dette tillegget på grunn av at det ikkje passar med utvidinga som { -brand-short-name } venta.
 addon-local-install-error-corrupt-file = Klarte ikkje å installere dette tillegget fordi det ser ut til å vere skada.
 addon-local-install-error-file-access = Klarte ikkje å installere { $addonName } fordi { -brand-short-name } kan ikkje endre den påkravde fila.
 addon-local-install-error-not-signed = Klarte ikkje å installere dette tillegget fordi det ikkje er stadfesta.
+addon-local-install-no-addon-name-error-file-access = Klarte ikkje å installere tillegget fordi { -brand-short-name } ikkje kan endre den nødvendige fila.
 # Variables:
 #   $appVersion (String): the application version.
 addon-install-error-incompatible = Klarte ikkje å installere { $addonName } fordi det ikkje er kompatibelt med { -brand-short-name } { $appVersion }.
