@@ -11,3 +11,7 @@ existing-user-tou-message = <strong>Aktualizácia</strong> Zaviedli sme <a data-
 existing-user-tou-learn-more = Ďalšie informácie
 # Text for primary button
 existing-user-tou-accept = Prijať
+
+## Existing User Terms of Use Spotlight
+
+tou-existing-user-spotlight-remind-me-later = Pripomenúť neskôr

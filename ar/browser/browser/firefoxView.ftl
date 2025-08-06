@@ -45,6 +45,7 @@ firefoxview-tabpickup-adddevice-primarybutton = احصل على { -brand-product
 firefoxview-syncedtabs-adddevice-header-2 = اسحب الألسنة من أي مكان
 firefoxview-syncedtabs-adddevice-description-2 = لِج إلى { -brand-product-name } على هاتفك أو على جهاز كمبيوتر آخر لرؤية الألسنة هنا. تعرَّف على كيفية <a data-l10n-name="url">ربط أجهزة إضافية</a>.
 firefoxview-syncedtabs-adddevice-header = لِج الدخول إلى { -brand-product-name } على أجهزتك الأخرى
+firefoxview-syncedtabs-adddevice-description = لرؤية ألسنتك من أي مكان تستخدم فيه { -brand-product-name }، لِج على جميع أجهزتك. تعرَّف على كيفية <a data-l10n-name="url">ربط أجهزة إضافية</a>.
 firefoxview-syncedtabs-adddevice-primarybutton = جرّب { -brand-product-name } للجوال
 firefoxview-tabpickup-synctabs-header = فعّل مزامنة اللسان
 firefoxview-tabpickup-synctabs-description = اسمح لـ{ -brand-short-name } بمشاركة الألسنة بين الأجهزة.
@@ -62,8 +63,10 @@ firefoxview-tabpickup-network-offline-header = تحقَّق من اتصالك ب
 firefoxview-tabpickup-network-offline-description = إذا كنت تستخدم جدار حماية أو وكيلًا، فتأكد من أن { -brand-short-name } لديه إذن للوصول إلى الوب.
 firefoxview-tabpickup-network-offline-primarybutton = حاول مجددًا
 firefoxview-tabpickup-sync-error-header = نواجه مشكلة في المزامنة
+firefoxview-tabpickup-generic-sync-error-description = لا يمكن لـ { -brand-short-name } الوصول إلى خدمة المزامنة الآن. حاول مرة أخرى بعد بضع لحظات.
 firefoxview-tabpickup-sync-error-primarybutton = حاول مجددًا
 firefoxview-tabpickup-sync-disconnected-header = فعل المزامنة للمتابعة
+firefoxview-tabpickup-sync-disconnected-description = للحصول على ألسنتك، ستحتاج إلى السماح بالمزامنة في { -brand-short-name }.
 firefoxview-tabpickup-sync-disconnected-primarybutton = شغّل المزامنة في الإعدادات
 firefoxview-tabpickup-password-locked-header = أدخل كلمة السر الرئيسية لعرض الألسنة
 firefoxview-tabpickup-password-locked-description = للحصول على ألسنتك، ستحتاج إلى إدخال كلمة السر الرئيسية لـ { -brand-short-name }.
@@ -71,9 +74,15 @@ firefoxview-tabpickup-password-locked-link = اطّلع على المزيد
 firefoxview-tabpickup-password-locked-primarybutton = أدخل كلمة السر الرئيسية
 firefoxview-syncedtab-password-locked-link = <a data-l10n-name="syncedtab-password-locked-link">اطّلع على المزيد</a>
 firefoxview-tabpickup-signed-out-header = لِج لإعادة الاتصال
+firefoxview-tabpickup-signed-out-description = لإعادة الاتصال والحصول على ألسنتك، لِج إلى { -fxaccount-brand-name }.
+firefoxview-tabpickup-signed-out-description2 = لإعادة الاتصال واسترجاع ألسنتك، لِج إلى حسابك.
 firefoxview-tabpickup-signed-out-primarybutton = لِج
+firefoxview-tabpickup-syncing = انتظر بينما تتزامن ألسنتك. سننتهي خلال لحظة.
+firefoxview-mobile-promo-header = خذ الألسنة من هاتفك أو جهازك اللوحي
+firefoxview-mobile-promo-description = لعرض أحدث ألسنة هاتفك، لِج إلى { -brand-product-name } في iOS أو Android.
 firefoxview-mobile-promo-primarybutton = نزّل { -brand-product-name } للجوال
 firefoxview-mobile-confirmation-header = جاهز! 🎉
+firefoxview-mobile-confirmation-description = بات بإمكانك الآن جلب ألسنة { -brand-product-name } من جهازك اللوحي أو هاتفك.
 firefoxview-closed-tabs-title = المُغلقة حديثًا
 firefoxview-closed-tabs-description2 = أعِد فتح الصفحات التي أغلقتها في هذه النافذة.
 firefoxview-closed-tabs-placeholder-header = لا ألسنةً مغلقةً حديثًا

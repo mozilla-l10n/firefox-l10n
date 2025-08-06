@@ -70,6 +70,8 @@ cfr-doorhanger-bookmark-fxa-link-text = Synchronizujte svoje záložky…
 cfr-doorhanger-bookmark-fxa-close-btn-tooltip =
     .aria-label = Tlačidlo Zavrieť
     .title = Zavrieť
+fxa-adoption-credit-cards-backup-subtitle = Chráňte svoje platobné metódy ich synchronizáciou so zariadeniami pomocou šifrovania.
+fxa-adoption-primary-button-label = Zaregistrovať sa
 
 ## Protections panel
 

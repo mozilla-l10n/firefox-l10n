@@ -147,11 +147,16 @@ protections-panel-cookie-banner-view-turn-off-for-site = أتريد تعطيل �
 protections-panel-cookie-banner-view-turn-on-for-site = أتريد تفعيل تخفيض لافتة ملف التعريف لهذا الموقع؟
 protections-panel-cookie-banner-blocker-view-title =
     .title = مانع لافتة ملفات تعريف الارتباط
+# Variables
+#  $host (String): the hostname of the site that is being displayed.
+protections-panel-cookie-banner-blocker-view-turn-off-for-site = أطفئ مانع لافتات ملفات تعريف الارتباط ل { $host }؟
+protections-panel-cookie-banner-blocker-view-turn-on-for-site = أشغل مانع لافتات ملفات تعريف الارتباط لهذا الرابط؟
 protections-panel-cookie-banner-view-cookie-clear-warning = سيمسح { -brand-short-name } كعكات هذا الموقع و ينعش الصفحة. مسحك كل الكعكات قد يخرجك أو يمسح خانات التسوق.
 protections-panel-cookie-banner-view-turn-on-description = يحاول { -brand-short-name } رفض جميع طلبات ملفات تعريف الارتباط تلقائيًا على المواقع المدعومة.
 protections-panel-cookie-banner-view-cancel = ألغِ
 protections-panel-cookie-banner-view-turn-off = عطّل
 protections-panel-cookie-banner-view-turn-on = فعّل
+protections-panel-cookie-banner-blocker-view-turn-on-description = شغّل { -brand-short-name } وسيحاول رفض لافتات ملفات تعريف الارتباط على هذا الموقع تلقائيًا.
 protections-panel-cookie-banner-view-cancel-label =
     .label = ألغِ
 protections-panel-cookie-banner-view-turn-off-label =

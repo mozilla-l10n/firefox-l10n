@@ -815,6 +815,25 @@ urlbar-result-weather-title-city-only = <strong>{ $temperature }°{ $unit }</str
 #       name of a company, organization, or service.
 urlbar-result-weather-provider-sponsored = { $provider } · مموّل
 
+## These strings are used for Realtime suggestions in the urlbar.
+## Market refers to stocks, indexes, and funds.
+
+# This string is shown as button to activate online when realtime suggestion are disabled.
+urlbar-result-realtime-opt-in-allow = اعرض الاقتراحات
+# This string is shown in split button to dismiss activation the Realtime suggestion.
+urlbar-result-realtime-opt-in-not-now = ليس الآن
+urlbar-result-realtime-opt-in-dismiss = أهمِل
+urlbar-result-realtime-opt-in-dismiss-all =
+    .label = لا تعرض هذه الاقتراحات
+# This string is shown in the result menu.
+urlbar-result-menu-dont-show-market =
+    .label = لا تعرض اقتراحات السوق
+# A message that replaces a result when the user dismisses Market suggestions.
+urlbar-result-dismissal-acknowledgment-market = شكرًا لملاحظاتك. لن ترى اقتراحات السوق بعد الآن.
+# A message that replaces a result when the user dismisses all suggestions of a
+# particular type.
+urlbar-result-dismissal-acknowledgment-all = شكرًا لملاحظاتك. لن ترى هذه الاقتراحات بعد الآن.
+
 ## Strings used for buttons in the urlbar
 
 # Label prompting user to search with a particular search engine.
@@ -1359,6 +1378,11 @@ onboarding-aw-finish-setup-button =
 
 ## The urlbar trust panel
 
+trustpanel-etp-label-disabled = الحماية الموسّعة من التعقب معطّلة
+# Variables
+#  $host (String): the hostname of the site that is being displayed.
+trustpanel-etp-toggle-on =
+    .aria-label = الحماية الموسّعة من التعقب مفعّلة ل { $host }
 trustpanel-connection-label-secure = الاتصال آمن
 trustpanel-connection-label-insecure = الاتصال غير آمن
 trustpanel-header-enabled = { -brand-product-name } على الحراسة

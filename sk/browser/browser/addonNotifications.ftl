@@ -133,11 +133,13 @@ addon-install-error-corrupt-file = Doplnok stiahnutý z tejto stránky nemohol b
 addon-install-error-file-access = Doplnok { $addonName } nemohol byť nainštalovaný, pretože { -brand-short-name } nemohol upraviť potrebný súbor.
 addon-install-error-not-signed = { -brand-short-name } zabránil tejto stránke nainštalovať neoverený doplnok.
 addon-install-error-invalid-domain = Doplnok { $addonName } nie je možné nainštalovať z tohto umiestnenia.
+addon-install-error-no-addon-name-file-access = Doplnok nemohol byť nainštalovaný, pretože { -brand-short-name } nemohol upraviť potrebný súbor.
 addon-local-install-error-network-failure = Tento doplnok nemohol byť nainštalovaný kvôli chybe v súborovom systéme.
 addon-local-install-error-incorrect-hash = Tento doplnok nemohol byť nainštalovaný, pretože neodpovedá tomu, čo prehliadač { -brand-short-name } očakával.
 addon-local-install-error-corrupt-file = Tento doplnok nemohol byť nainštalovaný, pretože je zrejme poškodený.
 addon-local-install-error-file-access = Doplnok { $addonName } nemohol byť nainštalovaný, pretože { -brand-short-name } nemohol upraviť potrebný súbor.
 addon-local-install-error-not-signed = Tento doplnok nemohol byť nainštalovaný, pretože nebol overený.
+addon-local-install-no-addon-name-error-file-access = Doplnok nemohol byť nainštalovaný, pretože { -brand-short-name } nemohol upraviť potrebný súbor.
 # Variables:
 #   $appVersion (String): the application version.
 addon-install-error-incompatible = Doplnok { $addonName } nemohol byť nainštalovaný, pretože nie je kompatibilný s prehliadačom { -brand-short-name } { $appVersion }.

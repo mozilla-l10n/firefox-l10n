@@ -631,6 +631,12 @@ pdfjs-editor-edit-comment-actions-delete-button-label = Sil
 pdfjs-editor-edit-comment-manager-text-input =
     .placeholder = Yorumunuzu yazın
 pdfjs-editor-edit-comment-manager-cancel-button = Vazgeç
+pdfjs-editor-edit-comment-manager-save-button = Kaydet
+
+## Edit a comment button in the editor toolbar
+
+pdfjs-editor-edit-comment-button =
+    .title = Yorumu düzenle
 
 ## Main menu for adding/removing signatures
 
