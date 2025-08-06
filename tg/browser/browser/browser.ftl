@@ -1394,6 +1394,48 @@ trustpanel-tracking-header = «{ -brand-product-name }» зеринро иҷоз
 trustpanel-tracking-description = Агар шумо ҳар гуна васоити пайгириро манъ кунед, баъзеи тугмаҳо, шаклҳо ва майдонҳои воридшавӣ метавонанд бе онҳо кор накунанд.
 trustpanel-insecure-section-header = Пайвасти шумо бехатар нест
 trustpanel-insecure-description = Маълумоте, ки шумо ба ин сомона ирсол карда истодаед рамзгузорӣ нашудааст. Дар ин марвид, он метавонад дида шавад, дуздида шавад ё ҳатто тағйир дода шавад.
+trustpanel-list-label-tracking-cookies =
+    { $count ->
+        [one] { $count } кукии васоити пайгирии байнисомонавӣ
+       *[other] { $count } кукии васоити пайгирии байнисомонавӣ
+    }
+trustpanel-list-label-tracking-content = Муҳтавои пайгирикунанда
+trustpanel-list-label-fingerprinter =
+    { $count ->
+        [one] { $count } хонандаи нақши ангуштон
+       *[other] { $count } хонандаи нақши ангуштон
+    }
+trustpanel-list-label-social-tracking =
+    { $count ->
+        [one] { $count } воситаи пайгирии шабакаҳои иҷтимоӣ
+       *[other] { $count } воситаи пайгирии шабакаҳои иҷтимоӣ
+    }
+trustpanel-list-label-cryptominer =
+    { $count ->
+        [one] { $count } криптомайнер
+       *[other] { $count } криптомайнер
+    }
+trustpanel-social-tracking-blocking-tab-header =
+    { $count ->
+        [one] «{ -brand-product-name }» { $count } воситаи пайгирии шабакаҳои иҷтимоиро манъ кард
+       *[other] «{ -brand-product-name }» { $count } воситаи пайгирии шабакаҳои иҷтимоиро манъ кард
+    }
+trustpanel-social-tracking-not-blocking-tab-header =
+    { $count ->
+        [one] «{ -brand-product-name }» { $count } воситаи пайгирии шабакаҳои иҷтимоиро иҷозат медиҳад
+       *[other] «{ -brand-product-name }» { $count } воситаи пайгирии шабакаҳои иҷтимоиро иҷозат медиҳад
+    }
+trustpanel-social-tracking-tab-list-header = Сомонаҳои зерин кӯшиш мекунанд, ки шуморо пайгирӣ кунанд:
+trustpanel-tracking-cookies-blocking-tab-header =
+    { $count ->
+        [one] «{ -brand-product-name }» { $count } кукии васоити пайгирии байнисомонавиро манъ кард
+       *[other] «{ -brand-product-name }» { $count } кукии васоити пайгирии байнисомонавиро манъ кард
+    }
+trustpanel-tracking-cookies-not-blocking-tab-header =
+    { $count ->
+        [one] «{ -brand-product-name }» { $count } кукии васоити пайгирии байнисомонавиро иҷозат медиҳад
+       *[other] «{ -brand-product-name }» { $count } кукии васоити пайгирии байнисомонавиро иҷозат медиҳад
+    }
 trustpanel-tracking-cookies-tab-list-header = Сомонаҳои зерин кӯшиш мекунанд, ки шуморо пайгирӣ кунанд:
 trustpanel-tracking-content-blocking-tab-header =
     { $count ->

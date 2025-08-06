@@ -114,6 +114,7 @@ fxa-adoption-passwords-primary-button-label = Бақайдгирӣ
 
 ## Windows 10 EoS Sync messages group 1 callouts
 
+windows-10-eos-sync-urgency-title-1 = Ҳангоми гузариши ҳамвор ба низоми амалкунандаи «Windows 11» ҳамаи чизҳои нигоҳдошташудаи худро аз даст надиҳед.
 windows-10-eos-sync-new-device-primary-label = Ҳозир ҳамоҳанг кунед
 
 ## Sidebar Strings
