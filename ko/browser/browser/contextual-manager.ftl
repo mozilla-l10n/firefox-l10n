@@ -298,6 +298,7 @@ contextual-manager-hide-password-button =
 # The message displayed when the search text does not match any of the user's saved logins.
 contextual-manager-passwords-no-passwords-found-header =
     .heading = 비밀번호를 찾을 수 없음
+contextual-manager-passwords-no-passwords-found-message-2 = 다른 용어를 사용하고 다시 검색해 보세요.
 contextual-manager-passwords-no-passwords-found-message = 비밀번호를 찾을 수 없습니다. 다른 용어를 검색하고 다시 시도하세요.
 
 ## When the user has no saved passwords, we display the following messages to inform the user they can save
@@ -312,6 +313,8 @@ contextual-manager-passwords-no-passwords-message = 모든 비밀번호는 암�
 contextual-manager-passwords-no-passwords-get-started-message = 시작하려면 여기에 추가하세요.
 # This string is displayed in a button. If the user clicks it, they will be taken to a form to create a new password.
 contextual-manager-passwords-add-manually = 직접 추가
+# This string encourages the user to save their passwords in Firefox (the "safe spot").
+contextual-manager-passwords-no-passwords-header-2 = 비밀번호를 안전한 곳에 저장하세요
 
 ## When the user cancels a login that's currently being edited, we display a message to confirm whether
 ## or not the user wants to discard their current edits to the login.
@@ -327,3 +330,8 @@ contextual-manager-passwords-remove-all-passwords-checkbox =
         [1] 예, 비밀번호 제거
        *[other] 예, 비밀번호 제거
     }
+# This string informs the user they need to provide their primary password for FireFox to access their saved passwords in Firefox.
+contextual-manager-primary-password-reauth-header = 저장된 비밀번호를 보려면, 기본 비밀번호를 입력하세요.
+# This string informs the user their primary password is used to authenticate and access their passwords
+contextual-manager-primary-password-reauth-button = 기본 비밀번호 입력
+contextual-manager-primary-password-learn-more-link = 더 알아보기

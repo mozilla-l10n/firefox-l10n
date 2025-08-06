@@ -66,6 +66,8 @@ cfr-doorhanger-bookmark-fxa-link-text = 북마크 지금 동기화…
 cfr-doorhanger-bookmark-fxa-close-btn-tooltip =
     .aria-label = 닫기 버튼
     .title = 닫기
+fxa-adoption-addresses-backup-title = 저장된 주소를 백업합시다
+fxa-adoption-primary-button-label = 가입
 
 ## Protections panel
 
