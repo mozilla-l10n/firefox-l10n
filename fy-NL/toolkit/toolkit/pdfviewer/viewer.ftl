@@ -302,9 +302,13 @@ pdfjs-web-fonts-disabled = Weblettertypen binne útskeakele: gebrûk fan ynslute
 
 pdfjs-editor-free-text-button =
     .title = Tekst
+pdfjs-editor-color-picker-free-text-input =
+    .title = Tekstleur wizigje
 pdfjs-editor-free-text-button-label = Tekst
 pdfjs-editor-ink-button =
     .title = Tekenje
+pdfjs-editor-color-picker-ink-input =
+    .title = Tekenkleur wizigje
 pdfjs-editor-ink-button-label = Tekenje
 pdfjs-editor-stamp-button =
     .title = Ofbyldingen tafoegje of bewurkje
@@ -316,6 +320,10 @@ pdfjs-highlight-floating-button1 =
     .title = Markearje
     .aria-label = Markearje
 pdfjs-highlight-floating-button-label = Markearje
+pdfjs-comment-floating-button =
+    .title = Opmerking
+    .aria-label = Opmerking
+pdfjs-comment-floating-button-label = Opmerking
 pdfjs-editor-signature-button =
     .title = Hantekening tafoegje
 pdfjs-editor-signature-button-label = Hantekening tafoegje
@@ -607,6 +615,17 @@ pdfjs-editor-add-signature-error-close-button = Slute
 pdfjs-editor-add-signature-cancel-button = Annulearje
 pdfjs-editor-add-signature-add-button = Tafoegje
 pdfjs-editor-edit-signature-update-button = Bywurkje
+
+##  Edit a comment dialog
+
+pdfjs-editor-edit-comment-actions-button-label = Aksjes
+pdfjs-editor-edit-comment-actions-button =
+    .title = Aksjes
+pdfjs-editor-edit-comment-close-button-label = Slute
+pdfjs-editor-edit-comment-close-button =
+    .title = Slute
+pdfjs-editor-edit-comment-actions-edit-button-label = Bewurkje
+pdfjs-editor-edit-comment-actions-delete-button-label = Fuortsmite
 
 ## Main menu for adding/removing signatures
 

@@ -68,6 +68,11 @@ cfr-doorhanger-bookmark-fxa-link-text = Synkronoi kirjanmerkit nyt…
 cfr-doorhanger-bookmark-fxa-close-btn-tooltip =
     .aria-label = Sulje-painike
     .title = Sulje
+fxa-adoption-addresses-backup-title = Varmuuskopioidaan tallennetut osoitteesi
+fxa-adoption-addresses-backup-subtitle = Suojaa tallennetut osoitteesi synkronoimalla ne laitteillesi salattuna.
+fxa-adoption-credit-cards-backup-title = Varmuuskopioidaan maksutapasi
+fxa-adoption-credit-cards-backup-subtitle = Suojaa maksutapasi synkronoimalla ne laitteillesi salattuna.
+fxa-adoption-primary-button-label = Rekisteröidy
 
 ## Protections panel
 
@@ -342,3 +347,16 @@ multi-cta-fox-doodle-privacy-focused-subtitle =
        *[other] Pidä yksityisyyteen keskittyvä suosikkiselaimesi vain yhden napsautuksen päässä. Aseta { -brand-short-name } oletusselaimeksi linkkien avaamiseen ja kiinnitä se tehtäväpalkkiin.
     }
 multi-cta-fox-doodle-msix-privacy-focused-subtitle = Pidä yksityisyyteen keskittyvä suosikkiselaimesi vain yhden napsautuksen päässä. Aseta { -brand-short-name } oletusselaimeksi linkkien avaamiseen ja kiinnitä se tehtäväpalkkiin sekä Käynnistä-valikkoon.
+
+## Windows 10 EoS Sync messages group 1 spotlight
+
+windows-10-eos-sync-spotlight-title = Päivitätkö pian Windows 10:stä?
+windows-10-eos-sync-spotlight-subtitle = Varmuuskopioi salasanasi ja kirjanmerkkisi, jotta olet valmis siirtymään mille tahansa laitteelle.
+windows-10-eos-sync-spotlight-primary-label = Varmuuskopioi { -brand-short-name }
+
+## Windows 10 EoS Sync messages group 1 toast notification
+
+windows-10-eos-sync-toast-title = Päivitätkö Windows 11:een? Älä kadota kirjanmerkkejä ja salasanoja.
+windows-10-eos-sync-toast-subtitle = Varmuuskopioi tietosi, jotta { -brand-short-name } on käyttövalmis milloin tahansa, tällä tai seuraavalla tietokoneella.
+windows-10-eos-sync-toast-primary-label = Aloitetaan
+windows-10-eos-sync-toast-secondary-label = Muistuta myöhemmin

@@ -51,3 +51,6 @@ experimental-features-link-previews-description-no-ai =
 experimental-features-newtab-sections-follow-block =
     .label = Underwerpseksjes en Folgje/Blokkearje foar ferhalen op nije ljepblêden
 experimental-features-newtab-sections-follow-block-description = Organisearje de ferhalen op jo Nije-ljepblêdside yn ûnderwerpseksjes (Sport, Iten, Ferdivedaasje en mear) foar in mear strukturearre en makliker te scannen ûnderfining. Brûk ús nije folch- en blokkearingsknoppen om oan te passen hokker ynhâld jo sjogge. <a data-l10n-name="connect">Kommentaar diele</a>
+# Firefox Web Apps
+experimental-features-fx-web-apps =
+    .label = Websites oan jo taakbalke tafoegje

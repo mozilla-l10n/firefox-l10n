@@ -88,6 +88,14 @@ newtab-confirm-delete-history-p2 = Tämä toiminto on peruuttamaton.
 
 newtab-topsite-sponsored = Sponsoroitu
 
+## Label used by screen readers for pinned top sites
+
+# Variables:
+#   $title (string) - The label or hostname of the site.
+topsite-label-pinned =
+    .aria-label = { $title } (kiinnitetty)
+    .title = { $title }
+
 ## Context Menu - Action Tooltips.
 
 # General tooltip for context menus.
@@ -541,6 +549,12 @@ newtab-custom-wallpaper-title = Mukautetut taustakuvat ovat täällä
 # 'Make firefox yours" means to customize or personalize
 newtab-custom-wallpaper-subtitle = Valitse oma taustakuvasi tai mukautettu väri ja tee { -brand-product-name }ista mieluisesi.
 newtab-custom-wallpaper-cta = Kokeile
+
+## Strings for new user activation custom wallpaper highlight
+
+newtab-new-user-custom-wallpaper-title = Valitse taustakuva ja tee { -brand-product-name }ista omasi
+newtab-new-user-custom-wallpaper-subtitle = Tee jokaisesta uudesta välilehdestä tutunomainen mukautetuilla taustakuvilla ja väreillä.
+newtab-new-user-custom-wallpaper-cta = Kokeile nyt
 
 ## Strings for download mobile highlight
 

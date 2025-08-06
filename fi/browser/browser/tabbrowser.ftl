@@ -257,6 +257,8 @@ tab-group-editor-color-selector2-gray = Harmaa
 tab-group-editor-color-selector2-red = Punainen
     .title = Punainen
 tab-group-description = { $tabGroupName } — Välilehtiryhmä
+tab-group-label-tooltip-collapsed = { $tabGroupName } — Tiivistetty
+tab-group-label-tooltip-expanded = { $tabGroupName } — Laajennettu
 tab-context-unnamed-group =
     .label = Nimetön ryhmä
 tab-group-name-default = Nimetön ryhmä
@@ -306,6 +308,16 @@ tab-context-ungroup-tab =
            *[other] Poista ryhmistä
         }
     .accesskey = r
+# When a tab group containing the active tab is collapsed, the active tab
+# remains visible. An indicator appears at the end of the group showing the
+# number of remaining tabs that are hidden by the collapsed group,
+# e.g. "+2" for a group with 3 total tabs.
+tab-group-overflow-count = +{ $tabCount }
+tab-group-overflow-count-tooltip =
+    { $tabCount ->
+        [one] { $tabCount } välilehti lisää
+       *[other] { $tabCount } välilehteä lisää
+    }
 
 ## Open/saved tab group context menu
 
