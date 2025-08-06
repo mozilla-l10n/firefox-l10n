@@ -808,6 +808,21 @@ urlbar-result-weather-provider-sponsored = { $provider } · Sponsa
 urlbar-result-market-opt-in-title = Få aksjemarknadsdata rett i søkjefeltet
 # This string is shown as description when Market suggestion are disabled.
 urlbar-result-market-opt-in-description = Vis marknadsoppdateringar, og meir, frå partnarane våre når du deler søkjedatainformasjon med { -vendor-short-name }. <a data-l10n-name="learn-more-link">Les meir</a>
+# This string is shown as button to activate online when realtime suggestion are disabled.
+urlbar-result-realtime-opt-in-allow = Vis forslag
+# This string is shown in split button to dismiss activation the Realtime suggestion.
+urlbar-result-realtime-opt-in-not-now = Ikkje no
+urlbar-result-realtime-opt-in-dismiss = Ignorer
+urlbar-result-realtime-opt-in-dismiss-all =
+    .label = Ikkje vis desse forslaga
+# This string is shown in the result menu.
+urlbar-result-menu-dont-show-market =
+    .label = Ikkje vis marknadsforslag
+# A message that replaces a result when the user dismisses Market suggestions.
+urlbar-result-dismissal-acknowledgment-market = Takk for tilbakemeldinga di. Du vil ikkje lenger sjå marknadsforslag.
+# A message that replaces a result when the user dismisses all suggestions of a
+# particular type.
+urlbar-result-dismissal-acknowledgment-all = Takk for tilbakemeldinga di. Du vil ikkje lenger sjå desse forslaga.
 
 ## Strings used for buttons in the urlbar
 

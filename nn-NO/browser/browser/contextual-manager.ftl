@@ -18,6 +18,7 @@ contextual-manager-passwords-command-import-from-browser = Importer frå ein ann
 contextual-manager-passwords-command-import = Importer frå ei fil…
 contextual-manager-passwords-command-export = Eksporter passord
 contextual-manager-passwords-command-remove-all = Slett alle passorda
+contextual-manager-passwords-command-options = Innstillingar
 contextual-manager-passwords-command-settings = Innstillingar
 contextual-manager-passwords-command-help = HJelp
 contextual-manager-passwords-os-auth-dialog-caption = { -brand-full-name }
@@ -157,6 +158,8 @@ contextual-manager-passwords-password-already-exists-error-button = Gå til pass
 contextual-manager-passwords-update-password-success-heading =
     .heading = Passord lagra
 contextual-manager-passwords-update-password-success-button = Ferdig
+contextual-manager-passwords-update-username-success-heading-2 =
+    .heading = Brukarnamn lagt til
 contextual-manager-passwords-update-username-success-heading =
     .heading = Brukarnamn lagra
 # Message to confirm successful removal of a password/passwords.
@@ -211,6 +214,8 @@ contextual-manager-passwords-title = Passord
 
 contextual-manager-passwords-create-label =
     .label = Legg til passord
+contextual-manager-passwords-update-label =
+    .label = Oppdater passord
 contextual-manager-passwords-edit-label =
     .label = Rediger passord
 contextual-manager-passwords-remove-label =
