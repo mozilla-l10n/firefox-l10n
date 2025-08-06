@@ -15,5 +15,5 @@ existing-user-tou-accept = Acceptera
 ## Existing User Terms of Use Spotlight
 
 # Full Spotlight body message, with inline links to the Terms of Use, Privacy Notice, and Learn More FAQ that will be added at runtime.
-tou-existing-user-spotlight-body = Vi har introducerat <a data-l10n-name="terms-of-use">användarvillkor</a> och uppdaterat våra <a data-l10n-name="privacy-notice">sekretesspolicy</a> >.<br><br> Ta en stund att granska och acceptera. <a data-l10n-name="learn-more">Läs mer</a>.
+tou-existing-user-spotlight-body = Vi har introducerat <a data-l10n-name="terms-of-use">användarvillkor</a> och uppdaterat vårt <a data-l10n-name="privacy-notice">sekretessmeddelande</a> >.<br><br> Ta en stund att granska och acceptera. <a data-l10n-name="learn-more">Läs mer</a>.
 tou-existing-user-spotlight-remind-me-later = Påminn mig senare
