@@ -222,6 +222,7 @@ contextual-manager-passwords-remove-label =
     .title = הסרת הססמה
 contextual-manager-passwords-origin-tooltip = יש להכניס את הכתובת המדויקת אליה נכנסים כדי להתחבר לאתר.
 contextual-manager-passwords-username-tooltip = יש להכניס את שם המשתמש, כתובת הדוא״ל או מספר החשבון שבו משתמשים כדי להתחבר.
+contextual-manager-passwords-password-tooltip-2 = יש להכניס את הססמה שבה משתמשים כדי להתחבר לחשבון זה.
 contextual-manager-passwords-password-tooltip = יש להכניס את הססמה שבה משתמשים כדי להתחבר לחשבון זה.
 
 ## Password Card
@@ -298,6 +299,7 @@ contextual-manager-hide-password-button =
 # The message displayed when the search text does not match any of the user's saved logins.
 contextual-manager-passwords-no-passwords-found-header =
     .heading = לא נמצאו ססמאות
+contextual-manager-passwords-no-passwords-found-message-2 = נא לנסות מונח אחר ולחפש שוב.
 contextual-manager-passwords-no-passwords-found-message = לא נמצאו ססמאות. נא לחפש מונח אחר ולנסות שוב.
 
 ## When the user has no saved passwords, we display the following messages to inform the user they can save
@@ -312,6 +314,8 @@ contextual-manager-passwords-no-passwords-message = כל הססמאות מוצפ
 contextual-manager-passwords-no-passwords-get-started-message = ניתן להוסיף אותם כאן כדי להתחיל.
 # This string is displayed in a button. If the user clicks it, they will be taken to a form to create a new password.
 contextual-manager-passwords-add-manually = הוספה באופן ידני
+# This string encourages the user to save their passwords in Firefox (the "safe spot").
+contextual-manager-passwords-no-passwords-header-2 = שמירת הססמאות שלך במקום בטוח
 
 ## When the user cancels a login that's currently being edited, we display a message to confirm whether
 ## or not the user wants to discard their current edits to the login.
@@ -327,3 +331,8 @@ contextual-manager-passwords-remove-all-passwords-checkbox =
         [1] כן, להסיר את הססמה
        *[other] כן, להסיר את הססמאות
     }
+# This string informs the user they need to provide their primary password for FireFox to access their saved passwords in Firefox.
+contextual-manager-primary-password-reauth-header = כדי לראות את הססמאות השמורות שלך, יש להכניס את הססמה הראשית שלך.
+# This string informs the user their primary password is used to authenticate and access their passwords
+contextual-manager-primary-password-reauth-button = נא להכניס את הססמה הראשית
+contextual-manager-primary-password-learn-more-link = מידע נוסף

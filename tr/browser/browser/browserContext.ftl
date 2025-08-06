@@ -275,6 +275,10 @@ main-context-menu-image-info =
 main-context-menu-image-desc =
     .label = Açıklamayı göster
     .accesskey = A
+# Variables
+#   $engine (String) - Name of the search engine that will perform the search.
+main-context-menu-visual-search =
+    .label = { $engine } ile görsel ara
 main-context-menu-video-save-as =
     .label = Videoyu farklı kaydet…
     .accesskey = f
@@ -397,3 +401,5 @@ main-context-menu-open-link-in-container-tab =
 main-context-menu-reveal-password =
     .label = Parolayı göster
     .accesskey = o
+# The label of a badge shown in menu items to call out new features.
+main-context-menu-new-feature-badge = Yeni

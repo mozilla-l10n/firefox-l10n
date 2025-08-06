@@ -67,6 +67,11 @@ cfr-doorhanger-bookmark-fxa-link-text = סנכרון הסימניות כעת…
 cfr-doorhanger-bookmark-fxa-close-btn-tooltip =
     .aria-label = כפתור סגירה
     .title = סגירה
+fxa-adoption-addresses-backup-title = בואו נגבה את הכתובות השמורות שלך
+fxa-adoption-addresses-backup-subtitle = ניתן להגן על הכתובות השמורות שלך על־ידי סנכרונם למכשירים שלך באמצעות הצפנה.
+fxa-adoption-credit-cards-backup-title = בואו נגבה את אמצעי התשלום שלך
+fxa-adoption-credit-cards-backup-subtitle = ניתן להגן על אמצעי התשלום שלך על־ידי סנכרונם למכשירים שלך באמצעות הצפנה.
+fxa-adoption-primary-button-label = הרשמה
 
 ## Protections panel
 

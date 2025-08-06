@@ -18,6 +18,7 @@ contextual-manager-passwords-command-import-from-browser = Başka bir tarayıcı
 contextual-manager-passwords-command-import = Dosyadan içe aktar…
 contextual-manager-passwords-command-export = Parolaları dışa aktar
 contextual-manager-passwords-command-remove-all = Bütün parolaları sil
+contextual-manager-passwords-command-options = Seçenekler
 contextual-manager-passwords-command-settings = Ayarlar
 contextual-manager-passwords-command-help = Yardım
 contextual-manager-passwords-os-auth-dialog-caption = { -brand-full-name }
@@ -162,6 +163,8 @@ contextual-manager-passwords-password-already-exists-error-button = Parolaya git
 contextual-manager-passwords-update-password-success-heading =
     .heading = Parola kaydedildi
 contextual-manager-passwords-update-password-success-button = Tamam
+contextual-manager-passwords-update-username-success-heading-2 =
+    .heading = Kullanıcı adı eklendi
 contextual-manager-passwords-update-username-success-heading =
     .heading = Kullanıcı adı kaydedildi
 # Message to confirm successful removal of a password/passwords.
@@ -216,12 +219,15 @@ contextual-manager-passwords-title = Parolalar
 
 contextual-manager-passwords-create-label =
     .label = Parola ekle
+contextual-manager-passwords-update-label =
+    .label = Parolayı güncelle
 contextual-manager-passwords-edit-label =
     .label = Parola düzenle
 contextual-manager-passwords-remove-label =
     .title = Parolayı sil
 contextual-manager-passwords-origin-tooltip = Bu siteye giriş yapacağınız tam adresi girin.
 contextual-manager-passwords-username-tooltip = Giriş yapmak için kullandığınız kullanıcı adını, e-posta adresini veya hesap numarasını girin.
+contextual-manager-passwords-password-tooltip-2 = Bu hesaba giriş yapmak için parolayı yazın.
 contextual-manager-passwords-password-tooltip = Bu hesaba giriş yapmak için kullandığınız parolayı girin.
 
 ## Password Card
@@ -300,6 +306,7 @@ contextual-manager-hide-password-button =
 # The message displayed when the search text does not match any of the user's saved logins.
 contextual-manager-passwords-no-passwords-found-header =
     .heading = Hiçbir parola bulunamadı
+contextual-manager-passwords-no-passwords-found-message-2 = Farklı bir terim deneyip yeniden arama yapın.
 contextual-manager-passwords-no-passwords-found-message = Parola bulunamadı. Farklı bir terimle yeniden aramayı deneyin.
 
 ## When the user has no saved passwords, we display the following messages to inform the user they can save
@@ -314,6 +321,8 @@ contextual-manager-passwords-no-passwords-message = Tüm parolalar şifrelenerek
 contextual-manager-passwords-no-passwords-get-started-message = Başlamak için parolalarınızı buraya ekleyin.
 # This string is displayed in a button. If the user clicks it, they will be taken to a form to create a new password.
 contextual-manager-passwords-add-manually = Elle ekle
+# This string encourages the user to save their passwords in Firefox (the "safe spot").
+contextual-manager-passwords-no-passwords-header-2 = Parolalarınızı güvenli bir yere kaydedin
 
 ## When the user cancels a login that's currently being edited, we display a message to confirm whether
 ## or not the user wants to discard their current edits to the login.
@@ -330,3 +339,8 @@ contextual-manager-passwords-remove-all-passwords-checkbox =
         [one] Evet, parolayı sil
        *[other] Evet, parolaları sil
     }
+# This string informs the user they need to provide their primary password for FireFox to access their saved passwords in Firefox.
+contextual-manager-primary-password-reauth-header = Kayıtlı parolalarınızı görmek için ana parolanızı yazın.
+# This string informs the user their primary password is used to authenticate and access their passwords
+contextual-manager-primary-password-reauth-button = Ana parolayı yazın
+contextual-manager-primary-password-learn-more-link = Daha fazla bilgi alın

@@ -68,6 +68,11 @@ cfr-doorhanger-bookmark-fxa-link-text = Yer imlerini eşitle…
 cfr-doorhanger-bookmark-fxa-close-btn-tooltip =
     .aria-label = Kapat düğmesi
     .title = Kapat
+fxa-adoption-addresses-backup-title = Kayıtlı adreslerinizi yedekleyelim
+fxa-adoption-addresses-backup-subtitle = Kayıtlı adreslerinizi şifreleyip diğer cihazlarınızla eşitleyerek onları koruyabilirsiniz.
+fxa-adoption-credit-cards-backup-title = Ödeme yöntemlerinizi yedekleyelim
+fxa-adoption-credit-cards-backup-subtitle = Ödeme yöntemlerinizi şifreleyip diğer cihazlarınızla eşitleyerek onları koruyabilirsiniz.
+fxa-adoption-primary-button-label = Kaydol
 
 ## Protections panel
 
@@ -353,6 +358,6 @@ windows-10-eos-sync-spotlight-primary-label = { -brand-short-name } tarayıcın�
 ## Windows 10 EoS Sync messages group 1 toast notification
 
 windows-10-eos-sync-toast-title = Windows 11’e mi geçeceksiniz? Yer imlerinizi ve parolalarınızı kaybetmeyin.
-windows-10-eos-sync-toast-subtitle = { -brand-short-name } verilerinizi şimdi yedekleyin, sonra ister bu bilgisayarınıza yeni bilgisayarınıza geri yükleyin.
+windows-10-eos-sync-toast-subtitle = { -brand-short-name } verilerinizi şimdi yedekleyin, sonra ister bu bilgisayarınıza ister yeni bilgisayarınıza geri yükleyin.
 windows-10-eos-sync-toast-primary-label = Başlayın
 windows-10-eos-sync-toast-secondary-label = Daha sonra hatırlat

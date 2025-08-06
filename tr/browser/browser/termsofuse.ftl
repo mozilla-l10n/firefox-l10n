@@ -11,3 +11,7 @@ existing-user-tou-message = <strong>Güncelleme</strong> { -brand-short-name } <
 existing-user-tou-learn-more = Daha fazla bilgi al
 # Text for primary button
 existing-user-tou-accept = Kabul et
+
+## Existing User Terms of Use Spotlight
+
+tou-existing-user-spotlight-remind-me-later = Daha sonra hatırlat

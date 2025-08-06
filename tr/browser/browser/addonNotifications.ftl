@@ -121,11 +121,13 @@ addon-install-error-corrupt-file = Bu siteden indirilen eklenti yüklenemiyor ç
 addon-install-error-file-access = { $addonName } yüklenemedi çünkü { -brand-short-name } gerekli dosyayı değiştiremiyor.
 addon-install-error-not-signed = { -brand-short-name } bu sitenin doğrulanmamış bir eklenti yüklemesini önledi.
 addon-install-error-invalid-domain = { $addonName } eklentisi bu konumdan yüklenemez.
+addon-install-error-no-addon-name-file-access = { -brand-short-name } gerekli dosyayı değiştiremediği için eklenti yüklenemedi.
 addon-local-install-error-network-failure = Bu eklenti, bir dosya sistemi hatası nedeniyle yüklenemedi.
 addon-local-install-error-incorrect-hash = Bu eklenti yüklenemedi çünkü { -brand-short-name } tarafından beklenen eklenti ile eşleşmiyor.
 addon-local-install-error-corrupt-file = Bu eklenti yüklenemedi çünkü görünüşe göre eklenti bozuk.
 addon-local-install-error-file-access = { $addonName } yüklenemedi çünkü { -brand-short-name } gerekli dosyayı değiştiremiyor.
 addon-local-install-error-not-signed = Bu eklenti doğrulanmadığı için yüklenemiyor.
+addon-local-install-no-addon-name-error-file-access = { -brand-short-name } gerekli dosyayı değiştiremediği için eklenti yüklenemedi.
 # Variables:
 #   $appVersion (String): the application version.
 addon-install-error-incompatible = { $addonName } yüklenemedi çünkü { -brand-short-name } { $appVersion } ile uyumlu değil.

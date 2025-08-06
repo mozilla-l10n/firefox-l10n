@@ -51,3 +51,6 @@ experimental-features-link-previews-description-no-ai =
 experimental-features-newtab-sections-follow-block =
     .label = Yeni Sekme makaleleri için konu bölümleri ve takip etme/engelleme
 experimental-features-newtab-sections-follow-block-description = Daha yapılandırılmış ve göz atması kolay bir deneyim için Yeni Sekme sayfanızdaki makaleleri konulara (Spor, Yemek, Eğlence vb.) ayırın. Yeni “Takip et” ve “Engelle” düğmelerimizi kullanarak hangi içerikleri görmek istediğinizi özelleştirebilirsiniz. <a data-l10n-name="connect">Görüşlerinizi paylaşın</a>
+# Firefox Web Apps
+experimental-features-fx-web-apps =
+    .label = Siteleri görev çubuğunuza ekleyin
