@@ -18,6 +18,7 @@ contextual-manager-passwords-command-import-from-browser = ייבוא מדפדפ
 contextual-manager-passwords-command-import = ייבוא מקובץ…
 contextual-manager-passwords-command-export = ייצוא ססמאות
 contextual-manager-passwords-command-remove-all = הסרת כל הססמאות
+contextual-manager-passwords-command-options = אפשרויות
 contextual-manager-passwords-command-settings = הגדרות
 contextual-manager-passwords-command-help = עזרה
 contextual-manager-passwords-os-auth-dialog-caption = { -brand-full-name }
@@ -158,6 +159,8 @@ contextual-manager-passwords-password-already-exists-error-button = מעבר ל�
 contextual-manager-passwords-update-password-success-heading =
     .heading = הססמה נשמרה
 contextual-manager-passwords-update-password-success-button = סיום
+contextual-manager-passwords-update-username-success-heading-2 =
+    .heading = שם המשתמש נוסף
 contextual-manager-passwords-update-username-success-heading =
     .heading = שם המשתמש נשמר
 # Message to confirm successful removal of a password/passwords.
@@ -211,6 +214,8 @@ contextual-manager-passwords-title = ססמאות
 
 contextual-manager-passwords-create-label =
     .label = הוספת ססמה
+contextual-manager-passwords-update-label =
+    .label = עדכון ססמה
 contextual-manager-passwords-edit-label =
     .label = עריכת הססמה
 contextual-manager-passwords-remove-label =

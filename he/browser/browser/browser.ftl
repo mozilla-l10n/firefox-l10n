@@ -801,6 +801,29 @@ urlbar-result-weather-title-city-only = <strong>{ $temperature }°{ $unit }</str
 #       name of a company, organization, or service.
 urlbar-result-weather-provider-sponsored = ‏{ $provider } · ממומן
 
+## These strings are used for Realtime suggestions in the urlbar.
+## Market refers to stocks, indexes, and funds.
+
+# This string is shown as title when Market suggestion are disabled.
+urlbar-result-market-opt-in-title = קבלת נתוני שוק המניות ישירות בשורת החיפוש שלך
+# This string is shown as description when Market suggestion are disabled.
+urlbar-result-market-opt-in-description = הצגת עדכונים של שוק המניות ועוד מהשותפים שלנו בעת שיתוף נתוני שאילתות חיפוש עם { -vendor-short-name }. <a data-l10n-name="learn-more-link">מידע נוסף</a>
+# This string is shown as button to activate online when realtime suggestion are disabled.
+urlbar-result-realtime-opt-in-allow = הצגת הצעות
+# This string is shown in split button to dismiss activation the Realtime suggestion.
+urlbar-result-realtime-opt-in-not-now = לא כעת
+urlbar-result-realtime-opt-in-dismiss = סגירה
+urlbar-result-realtime-opt-in-dismiss-all =
+    .label = לא להציג הצעות אלו
+# This string is shown in the result menu.
+urlbar-result-menu-dont-show-market =
+    .label = לא להציג הצעות שוק מניות
+# A message that replaces a result when the user dismisses Market suggestions.
+urlbar-result-dismissal-acknowledgment-market = תודה על המשוב שלך. לא יוצגו עוד הצעות לשוק מניות.
+# A message that replaces a result when the user dismisses all suggestions of a
+# particular type.
+urlbar-result-dismissal-acknowledgment-all = תודה על המשוב שלך. לא יוצגו עוד הצעות אלו.
+
 ## Strings used for buttons in the urlbar
 
 # Label prompting user to search with a particular search engine.
