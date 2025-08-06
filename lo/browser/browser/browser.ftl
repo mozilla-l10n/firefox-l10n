@@ -44,6 +44,10 @@ urlbar-default-notification-anchor =
     .tooltiptext = ເປີດແຜງຂໍ້ຄວາມ
 urlbar-geolocation-notification-anchor =
     .tooltiptext = ເປີດແຜງການຮ້ອງຂໍຕຳແຫນ່ງທີ່ຕັ້ງ
+urlbar-localhost-notification-anchor =
+    .tooltiptext = ຈັດການການເຂົ້າເຖິງອຸປະກອນທ້ອງຖິ່ນສໍາລັບເວັບໄຊທ໌ນີ້
+urlbar-local-network-notification-anchor =
+    .tooltiptext = ຈັດການການແບ່ງປັນການເຂົ້າເຖິງເຄືອຂ່າຍທ້ອງຖິ່ນຂອງທ່ານກັບເວັບໄຊທ໌ນີ້
 urlbar-xr-notification-anchor =
     .tooltiptext = ເປີດແຜງການອະນຸຍາດຄວາມຈິງສະເໝືອນ
 urlbar-storage-access-anchor =
@@ -99,6 +103,15 @@ urlbar-result-menu-learn-more-about-firefox-suggest =
 urlbar-result-menu-manage-firefox-suggest =
     .label = ຈັດການ { -firefox-suggest-brand-name }
     .accesskey = M
+# Some urlbar suggestions show the user's approximate location as automatically
+# detected by Firefox (e.g., weather suggestions), and this menu item lets the
+# user tell Firefox that the location is not accurate. Typically the location
+# will be a city name, or a city name combined with the name of its parent
+# administrative division (e.g., a province, prefecture, or state).
+urlbar-result-menu-report-inaccurate-location =
+    .label = ລາຍງານສະຖານທີ່ບໍ່ຖືກຕ້ອງ
+urlbar-result-menu-show-less-frequently =
+    .label = ສະແດງໜ້ອຍລົງເລື້ອຍໆ
 # Used for Split Button.
 urlbar-splitbutton-dropmarker =
     .title = ເປີດເມນູ
