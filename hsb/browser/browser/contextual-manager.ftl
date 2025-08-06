@@ -322,6 +322,7 @@ contextual-manager-hide-password-button =
 # The message displayed when the search text does not match any of the user's saved logins.
 contextual-manager-passwords-no-passwords-found-header =
     .heading = Žane hesła namakane
+contextual-manager-passwords-no-passwords-found-message-2 = Spytajće druhi wuraz a pytajće hišće raz.
 contextual-manager-passwords-no-passwords-found-message = Žane hesła namakane. Pytajće za druhim wurazom a spytajće hišće raz.
 
 ## When the user has no saved passwords, we display the following messages to inform the user they can save
@@ -356,6 +357,8 @@ contextual-manager-passwords-remove-all-passwords-checkbox =
         [few] Haj, { $total } hesła wotstronić
        *[other] Haj, { $total } hesłow wotstronić
     }
+# This string informs the user they need to provide their primary password for FireFox to access their saved passwords in Firefox.
+contextual-manager-primary-password-reauth-header = Zo byšće swoje składowane hesła widźał, zapodajće swoje hłowne hesło.
 # This string informs the user their primary password is used to authenticate and access their passwords
 contextual-manager-primary-password-reauth-button = Zapodajće hłowne hesło
 contextual-manager-primary-password-learn-more-link = Dalše informacije

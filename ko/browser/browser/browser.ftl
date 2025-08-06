@@ -797,6 +797,29 @@ urlbar-result-weather-title-city-only = <strong>{ $temperature }°{ $unit }</str
 #       name of a company, organization, or service.
 urlbar-result-weather-provider-sponsored = { $provider } · 스폰서
 
+## These strings are used for Realtime suggestions in the urlbar.
+## Market refers to stocks, indexes, and funds.
+
+# This string is shown as title when Market suggestion are disabled.
+urlbar-result-market-opt-in-title = 검색 표시줄에서 바로 주식 시장 데이터를 확인하세요
+# This string is shown as description when Market suggestion are disabled.
+urlbar-result-market-opt-in-description = { -vendor-short-name }와 검색 쿼리 데이터를 공유하면 파트너사로부터 시장 동향 및 추가 정보를 확인할 수 있습니다. <a data-l10n-name="learn-more-link">더 알아보기</a>
+# This string is shown as button to activate online when realtime suggestion are disabled.
+urlbar-result-realtime-opt-in-allow = 제안 표시
+# This string is shown in split button to dismiss activation the Realtime suggestion.
+urlbar-result-realtime-opt-in-not-now = 나중에
+urlbar-result-realtime-opt-in-dismiss = 닫기
+urlbar-result-realtime-opt-in-dismiss-all =
+    .label = 이 제안을 표시하지 않음
+# This string is shown in the result menu.
+urlbar-result-menu-dont-show-market =
+    .label = 시장 제안을 표시하지 않음
+# A message that replaces a result when the user dismisses Market suggestions.
+urlbar-result-dismissal-acknowledgment-market = 의견을 보내 주셔서 감사합니다. 시장 제안이 더 이상 표시되지 않습니다.
+# A message that replaces a result when the user dismisses all suggestions of a
+# particular type.
+urlbar-result-dismissal-acknowledgment-all = 의견을 보내 주셔서 감사합니다. 이 제안이 더 이상 표시되지 않습니다.
+
 ## Strings used for buttons in the urlbar
 
 # Label prompting user to search with a particular search engine.

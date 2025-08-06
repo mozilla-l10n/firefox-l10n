@@ -72,6 +72,7 @@ cfr-doorhanger-bookmark-fxa-link-text = Synchronizujće nětko zapołožki…
 cfr-doorhanger-bookmark-fxa-close-btn-tooltip =
     .aria-label = Tłóčatko Začinić
     .title = Začinić
+fxa-adoption-addresses-backup-title = Zawěsćmy waše składowane adresy.
 fxa-adoption-addresses-backup-subtitle = Synchronizujće swoje hesła ze swojimi gratami ze zaklučowanjom, zo byšće swoje składowane adresy škitał.
 fxa-adoption-credit-cards-backup-title = Zawěsćmy waše płaćenske metody
 fxa-adoption-credit-cards-backup-subtitle = Synchronizujće swoje hesła ze swojimi gratami ze zaklučowanjom, zo byšće swoje płaćenske metody škitał.

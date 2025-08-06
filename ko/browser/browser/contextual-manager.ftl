@@ -18,6 +18,7 @@ contextual-manager-passwords-command-import-from-browser = 다른 브라우저�
 contextual-manager-passwords-command-import = 파일에서 가져오기…
 contextual-manager-passwords-command-export = 비밀번호 내보내기
 contextual-manager-passwords-command-remove-all = 모든 비밀번호 제거
+contextual-manager-passwords-command-options = 옵션
 contextual-manager-passwords-command-settings = 설정
 contextual-manager-passwords-command-help = 도움말
 contextual-manager-passwords-os-auth-dialog-caption = { -brand-full-name }
@@ -157,6 +158,8 @@ contextual-manager-passwords-password-already-exists-error-button = 비밀번호
 contextual-manager-passwords-update-password-success-heading =
     .heading = 비밀번호 저장됨
 contextual-manager-passwords-update-password-success-button = 완료
+contextual-manager-passwords-update-username-success-heading-2 =
+    .heading = 사용자 이름 추가됨
 contextual-manager-passwords-update-username-success-heading =
     .heading = 사용자 이름 저장됨
 # Message to confirm successful removal of a password/passwords.
@@ -210,12 +213,15 @@ contextual-manager-passwords-title = 비밀번호
 
 contextual-manager-passwords-create-label =
     .label = 비밀번호 추가
+contextual-manager-passwords-update-label =
+    .label = 비밀번호 업데이트
 contextual-manager-passwords-edit-label =
     .label = 비밀번호 편집
 contextual-manager-passwords-remove-label =
     .title = 비밀번호 제거
 contextual-manager-passwords-origin-tooltip = 이 사이트에 로그인할 정확한 주소를 입력하세요.
 contextual-manager-passwords-username-tooltip = 사용자 이름, 이메일 주소 또는 로그인할 때 사용한 계정 번호를 입력하세요.
+contextual-manager-passwords-password-tooltip-2 = 이 계정에 로그인하려면 비밀번호를 입력하세요.
 contextual-manager-passwords-password-tooltip = 이 계정에 로그인할 때 사용했던 비밀번호를 입력해 주세요.
 
 ## Password Card
