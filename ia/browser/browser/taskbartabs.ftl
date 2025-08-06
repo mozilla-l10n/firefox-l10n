@@ -7,5 +7,21 @@
 ## browser.taskbarTabs.enabled = true and the user
 ## navigates to a website.
 
+taskbar-tab-urlbar-button-open =
+    .tooltiptext = Adde scheda al barra del applicationes
 taskbar-tab-urlbar-button-close =
     .tooltiptext = Remover scheda ab barra de instrumentos
+# This string is used in the description of a Windows Start Menu
+# shortcut for a Taskbar Tab.
+# Variables:
+#   $name (string) - A name associated to the website. This might be
+#                    pulled from a Web Application Manifest, generated
+#                    via a heuristic, or simply be the hostname of the
+#                    site.
+taskbar-tab-shortcut-description = Application web { $name }
+# This string is used as the name of the folder that contains Taskbar
+# Tabs. Don't use any characters that can't go in a folder name, or
+# they will be replaced by underscores. (This generally means to not
+# use: '<' '>' ':' '"' '/' '\' '|' '?' '*' . All other characters
+# should be fine.)
+taskbar-tab-shortcut-folder = Applicationes web { -brand-short-name }

@@ -608,6 +608,8 @@ pdfjs-editor-add-signature-save-checkbox = Salvar signatura
 pdfjs-editor-add-signature-save-warning-message = Tu ha attingite le limite de 5 firmas salvate. Remove un pro salvar un altere.
 pdfjs-editor-add-signature-image-upload-error-title = Non poteva incargar le imagine
 pdfjs-editor-add-signature-image-upload-error-description = Verifica tu connexion al rete o tenta un altere imagine.
+pdfjs-editor-add-signature-image-no-data-error-title = Impossibile converter iste imagine in un firma
+pdfjs-editor-add-signature-image-no-data-error-description = Essaya cargar un imagine differente.
 pdfjs-editor-add-signature-error-close-button = Clauder
 
 ## Dialog buttons
@@ -626,6 +628,15 @@ pdfjs-editor-edit-comment-close-button =
     .title = Clauder
 pdfjs-editor-edit-comment-actions-edit-button-label = Rediger
 pdfjs-editor-edit-comment-actions-delete-button-label = Deler
+pdfjs-editor-edit-comment-manager-text-input =
+    .placeholder = Insere tu commento
+pdfjs-editor-edit-comment-manager-cancel-button = Cancellar
+pdfjs-editor-edit-comment-manager-save-button = Salvar
+
+## Edit a comment button in the editor toolbar
+
+pdfjs-editor-edit-comment-button =
+    .title = Rediger commento
 
 ## Main menu for adding/removing signatures
 

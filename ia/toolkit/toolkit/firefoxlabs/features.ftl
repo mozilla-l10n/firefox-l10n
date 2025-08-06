@@ -51,3 +51,6 @@ experimental-features-link-previews-description-no-ai =
 experimental-features-newtab-sections-follow-block =
     .label = Sectiones de topico e Sequer/Blocar pro Historias sur nove scheda
 experimental-features-newtab-sections-follow-block-description = Organisa le historias sur tu pagina de nove scheda in sectiones thematic (Sports, Alimentos, Intertenimento e plus) pro un experientia plus structurate e legibile. Usa nostre nove controlos de Sequer e Blocar pro personalisar le contento que tu videra. <a data-l10n-name="connect">Dar tu opinion</a>
+# Firefox Web Apps
+experimental-features-fx-web-apps =
+    .label = Adde sitos a tu barra del applicationes

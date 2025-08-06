@@ -304,6 +304,7 @@ contextual-manager-hide-password-button =
 # The message displayed when the search text does not match any of the user's saved logins.
 contextual-manager-passwords-no-passwords-found-header =
     .heading = Nulle contrasigno trovate
+contextual-manager-passwords-no-passwords-found-message-2 = Essaya un termino differente e cerca de novo.
 contextual-manager-passwords-no-passwords-found-message = Nulle contrasigno trovate. Cerca un termino differente e retenta.
 
 ## When the user has no saved passwords, we display the following messages to inform the user they can save
@@ -335,6 +336,8 @@ contextual-manager-passwords-remove-all-passwords-checkbox =
         [1] Si, remover contrasigno
        *[other] Si, remover contrasignos
     }
+# This string informs the user they need to provide their primary password for FireFox to access their saved passwords in Firefox.
+contextual-manager-primary-password-reauth-header = Pro visualisar le contrasignos salvate, insere le contrasigno principal.
 # This string informs the user their primary password is used to authenticate and access their passwords
 contextual-manager-primary-password-reauth-button = Insere contrasigno primari
 contextual-manager-primary-password-learn-more-link = Pro saper plus
