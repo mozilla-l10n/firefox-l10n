@@ -68,6 +68,10 @@ cfr-doorhanger-bookmark-fxa-link-text = Bladwijzers nu synchroniseren…
 cfr-doorhanger-bookmark-fxa-close-btn-tooltip =
     .aria-label = Knop Sluiten
     .title = Sluiten
+fxa-adoption-addresses-backup-subtitle = Bescherm uw opgeslagen wachtwoorden door ze versleuteld met uw apparaten te synchroniseren.
+fxa-adoption-credit-cards-backup-title = Laten we een reservekopie van uw betalingsmethoden maken
+fxa-adoption-credit-cards-backup-subtitle = Bescherm uw betalingsmethoden door ze versleuteld met uw apparaten te synchroniseren.
+fxa-adoption-primary-button-label = Registreren
 
 ## Protections panel
 

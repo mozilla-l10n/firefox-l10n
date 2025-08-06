@@ -275,6 +275,10 @@ main-context-menu-image-info =
 main-context-menu-image-desc =
     .label = Omskriuwing besjen
     .accesskey = o
+# Variables
+#   $engine (String) - Name of the search engine that will perform the search.
+main-context-menu-visual-search =
+    .label = Ofbylding sykje mei { $engine }
 main-context-menu-video-save-as =
     .label = Bewarje fideo as…
     .accesskey = f
@@ -397,3 +401,5 @@ main-context-menu-open-link-in-container-tab =
 main-context-menu-reveal-password =
     .label = Wachtwurd toane
     .accesskey = u
+# The label of a badge shown in menu items to call out new features.
+main-context-menu-new-feature-badge = Nij

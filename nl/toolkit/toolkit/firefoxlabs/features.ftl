@@ -51,3 +51,6 @@ experimental-features-link-previews-description-no-ai =
 experimental-features-newtab-sections-follow-block =
     .label = Onderwerpsecties en volgen/blokkeren voor nieuwe tabbladverhalen
 experimental-features-newtab-sections-follow-block-description = Orden de verhalen op uw Nieuw-tabbladpagina in onderwerpsecties (Sport, Eten, Amusement en meer) voor een meer gestructureerde en eenvoudig te scannen ervaring. Gebruik onze nieuwe volg- en blokkeringsknoppen om aan te passen welke inhoud u ziet. <a data-l10n-name="connect">Feedback delen</a>
+# Firefox Web Apps
+experimental-features-fx-web-apps =
+    .label = Websites aan uw taakbalk toevoegen

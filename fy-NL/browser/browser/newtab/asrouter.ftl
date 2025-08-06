@@ -68,6 +68,11 @@ cfr-doorhanger-bookmark-fxa-link-text = Blêdwizers no syngronisearje…
 cfr-doorhanger-bookmark-fxa-close-btn-tooltip =
     .aria-label = Knop Slute
     .title = Slute
+fxa-adoption-addresses-backup-title = Litte wy in reservekopy fan jo bewarre adressen meitsje
+fxa-adoption-addresses-backup-subtitle = Beskermje jo bewarre wachtwurden troch se fersifere mei jo apparaten mei te syngronisearjen.
+fxa-adoption-credit-cards-backup-title = Litte wy in reservekopy fan jo betelmetoaden meitsje
+fxa-adoption-credit-cards-backup-subtitle = Beskermje jo betellingsmetoaden troch se fersifere mei jo apparaten mei te syngronisearjen.
+fxa-adoption-primary-button-label = Registrearje
 
 ## Protections panel
 

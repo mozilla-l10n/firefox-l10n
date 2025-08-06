@@ -11,3 +11,7 @@ existing-user-tou-message = <strong>Update</strong> Wy hawwe <a data-l10n-name="
 existing-user-tou-learn-more = Mear ynfo
 # Text for primary button
 existing-user-tou-accept = Akseptearje
+
+## Existing User Terms of Use Spotlight
+
+tou-existing-user-spotlight-remind-me-later = Letter werinnerje

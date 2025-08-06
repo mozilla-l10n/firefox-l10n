@@ -18,6 +18,7 @@ contextual-manager-passwords-command-import-from-browser = Ymportearje fan in oa
 contextual-manager-passwords-command-import = Ut in bestân ymportearje…
 contextual-manager-passwords-command-export = Wachtwurden eksportearje
 contextual-manager-passwords-command-remove-all = Alle wachtwurden fuortsmite
+contextual-manager-passwords-command-options = Opsjes
 contextual-manager-passwords-command-settings = Ynstellingen
 contextual-manager-passwords-command-help = Help
 contextual-manager-passwords-os-auth-dialog-caption = { -brand-full-name }
@@ -162,6 +163,8 @@ contextual-manager-passwords-password-already-exists-error-button = Nei wachtwur
 contextual-manager-passwords-update-password-success-heading =
     .heading = Wachtwurd bewarre
 contextual-manager-passwords-update-password-success-button = Dien
+contextual-manager-passwords-update-username-success-heading-2 =
+    .heading = Brûkersnamme tafoege
 contextual-manager-passwords-update-username-success-heading =
     .heading = Brûkersnamme bewarre
 # Message to confirm successful removal of a password/passwords.
@@ -216,12 +219,15 @@ contextual-manager-passwords-title = Wachtwurden
 
 contextual-manager-passwords-create-label =
     .label = Wachtwurd tafoegje
+contextual-manager-passwords-update-label =
+    .label = Wachtwurd bywurkje
 contextual-manager-passwords-edit-label =
     .label = Wachtwurd bewurkje
 contextual-manager-passwords-remove-label =
     .title = Wachtwurd fuortsmite
 contextual-manager-passwords-origin-tooltip = Fier it krekte adres yn wêr’t jo jo op dizze website oanmelde sille.
 contextual-manager-passwords-username-tooltip = Fier de brûkersnamme, it e-mailadres of it accountnûmer yn dat jo brûke om jo oan te melden.
+contextual-manager-passwords-password-tooltip-2 = Fier it wachtwurd yn om jo oan te melden by dizze account.
 contextual-manager-passwords-password-tooltip = Fier it wachtwurd yn dat brûkt is om jo oan te melden by dizze account.
 
 ## Password Card
@@ -300,6 +306,7 @@ contextual-manager-hide-password-button =
 # The message displayed when the search text does not match any of the user's saved logins.
 contextual-manager-passwords-no-passwords-found-header =
     .heading = Gjin wachtwurden fûn
+contextual-manager-passwords-no-passwords-found-message-2 = Probearje in oare term en sykje opnij.
 contextual-manager-passwords-no-passwords-found-message = Gjin wachtwurden fûn. Sykje in oare term en probearje it nochris.
 
 ## When the user has no saved passwords, we display the following messages to inform the user they can save
@@ -314,6 +321,8 @@ contextual-manager-passwords-no-passwords-message = Alle wachtwurden binne fersi
 contextual-manager-passwords-no-passwords-get-started-message = Foegje se hjir ta om te begjinnen.
 # This string is displayed in a button. If the user clicks it, they will be taken to a form to create a new password.
 contextual-manager-passwords-add-manually = Hânmjittich tafoegje
+# This string encourages the user to save their passwords in Firefox (the "safe spot").
+contextual-manager-passwords-no-passwords-header-2 = Bewarje jo wachtwurden op in feilich plak
 
 ## When the user cancels a login that's currently being edited, we display a message to confirm whether
 ## or not the user wants to discard their current edits to the login.
@@ -330,3 +339,8 @@ contextual-manager-passwords-remove-all-passwords-checkbox =
         [one] Ja, wachtwurd fuortsmite
        *[other] Ja, wachtwurden fuortsmite
     }
+# This string informs the user they need to provide their primary password for FireFox to access their saved passwords in Firefox.
+contextual-manager-primary-password-reauth-header = Fier jo haadwachtwurd yn om jo bewarre wachtwurden te besjen.
+# This string informs the user their primary password is used to authenticate and access their passwords
+contextual-manager-primary-password-reauth-button = Haadwachtwurd ynfiere
+contextual-manager-primary-password-learn-more-link = Mear ynfo
