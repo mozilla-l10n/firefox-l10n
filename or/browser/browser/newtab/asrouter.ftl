@@ -59,7 +59,7 @@ cfr-doorhanger-extension-total-users =
        *[other] { $total } ବ୍ୟବହାରକାରୀଗଣ
     }
 
-## Firefox Accounts Message
+## Mozilla Account messages
 
 cfr-doorhanger-bookmark-fxa-link-text = ବର୍ତ୍ତମାନ ବୁକମାର୍କକୁ ସମସାମୟିକ କରନ୍ତୁ...
 cfr-doorhanger-bookmark-fxa-close-btn-tooltip =

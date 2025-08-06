@@ -61,7 +61,7 @@ cfr-doorhanger-extension-total-users =
        *[other] { $total } používateľov
     }
 
-## Firefox Accounts Message
+## Mozilla Account messages
 
 cfr-doorhanger-bookmark-fxa-header = Majte svoje záložky všade so sebou.
 cfr-doorhanger-bookmark-fxa-body = Skvelý nález! Chcete mať túto záložku aj vo svojom mobilnom zariadení? Použite { -fxaccount-brand-name(capitalization: "sentence") }.

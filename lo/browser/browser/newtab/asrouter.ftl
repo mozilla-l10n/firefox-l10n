@@ -47,7 +47,7 @@ cfr-doorhanger-extension-total-users =
        *[other] { $total } ຜູ່ໃຊ້
     }
 
-## Firefox Accounts Message
+## Mozilla Account messages
 
 cfr-doorhanger-bookmark-fxa-header = ຊິງຄ໌ບຸກມາກຂອງທ່ານຢູ່ທົ່ວທຸກແຫ່ງ.
 cfr-doorhanger-bookmark-fxa-body = ຊອກຫາທີ່ຍິ່ງໃຫຍ່! ດຽວນີ້ຢ່າປະໄວ້ໂດຍບໍ່ມີບຸກມາກນີ້ຢູ່ໃນອຸປະກອນມືຖືຂອງເຈົ້າ. ເລີ່ມຕົ້ນດ້ວຍ { -fxaccount-brand-name }.

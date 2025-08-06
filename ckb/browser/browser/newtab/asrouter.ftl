@@ -49,7 +49,7 @@ cfr-doorhanger-extension-total-users =
        *[other] { $total } بەکارهێنەر
     }
 
-## Firefox Accounts Message
+## Mozilla Account messages
 
 cfr-doorhanger-bookmark-fxa-header = دڵخوازەکان لە هەموو شوێنێک هاوکاتگەری پێبکە.
 cfr-doorhanger-bookmark-fxa-link-text = ئێستا دڵخوازەکان هاوکاتگەری پێبکە...

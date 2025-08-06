@@ -49,7 +49,7 @@ cfr-doorhanger-extension-total-users =
        *[other] { $total } वापरकर्ते
     }
 
-## Firefox Accounts Message
+## Mozilla Account messages
 
 cfr-doorhanger-bookmark-fxa-header = आपले बुकमार्क कुठेही सिंक करा.
 cfr-doorhanger-bookmark-fxa-close-btn-tooltip =

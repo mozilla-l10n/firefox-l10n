@@ -59,7 +59,7 @@ cfr-doorhanger-extension-total-users =
        *[other] { $total } потребителя
     }
 
-## Firefox Accounts Message
+## Mozilla Account messages
 
 cfr-doorhanger-bookmark-fxa-header = Синхронизирайте отметките си навсякъде.
 cfr-doorhanger-bookmark-fxa-body = Чудесно откритие! Сега не оставайте без тази отметка на мобилните си устройства. Започнете с { -fxaccount-brand-name }.

@@ -49,7 +49,7 @@ cfr-doorhanger-extension-total-users =
        *[other] { $total } úsáideoir
     }
 
-## Firefox Accounts Message
+## Mozilla Account messages
 
 cfr-doorhanger-bookmark-fxa-link-text = Sioncronaigh leabharmharcanna anois…
 

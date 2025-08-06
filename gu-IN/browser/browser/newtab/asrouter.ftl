@@ -59,7 +59,7 @@ cfr-doorhanger-extension-total-users =
        *[other] { $total } વપરાશકર્તાઓ
     }
 
-## Firefox Accounts Message
+## Mozilla Account messages
 
 cfr-doorhanger-bookmark-fxa-header = દરેક જગ્યાએ તમારા બુકમાર્ક્સ સમન્વયિત કરો.
 cfr-doorhanger-bookmark-fxa-body = મહાન શોધ! હવે તમારા મોબાઇલ ઉપકરણો પર આ બુકમાર્ક વિના છોડી શકાશે નહીં. { -fxaccount-brand-name } થી પ્રારંભ કરો.

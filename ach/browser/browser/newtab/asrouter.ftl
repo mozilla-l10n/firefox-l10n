@@ -21,7 +21,7 @@ cfr-doorhanger-extension-learn-more-link = Nong ngec mapol
 #   $name (String) - Add-on author name
 cfr-doorhanger-extension-author = ki { $name }
 
-## Firefox Accounts Message
+## Mozilla Account messages
 
 cfr-doorhanger-bookmark-fxa-link-text = Rib alama buk kombedi…
 

@@ -59,7 +59,7 @@ cfr-doorhanger-extension-total-users =
        *[other] { $total } صارفین
     }
 
-## Firefox Accounts Message
+## Mozilla Account messages
 
 cfr-doorhanger-bookmark-fxa-header = ہر جاہ اپݨے بک مارکس سینک کرو
 cfr-doorhanger-bookmark-fxa-body = وݙی لبھت! ہݨ اپݨے موبائل آلات تے ایں نشانی دے بغیر نہ رہو۔ ہک { -fxaccount-brand-name } دے نال شروع کرو۔

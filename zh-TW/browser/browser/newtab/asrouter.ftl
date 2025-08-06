@@ -57,7 +57,7 @@ cfr-doorhanger-extension-total-users =
        *[other] { $total } 使用者
     }
 
-## Firefox Accounts Message
+## Mozilla Account messages
 
 cfr-doorhanger-bookmark-fxa-header = 將您的書籤同步帶著走。
 cfr-doorhanger-bookmark-fxa-body = 找到好網站了！接下來也把這筆書籤同步進手機吧。試試使用 { -fxaccount-brand-name }。

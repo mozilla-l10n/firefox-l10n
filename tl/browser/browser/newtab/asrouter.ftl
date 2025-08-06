@@ -59,7 +59,7 @@ cfr-doorhanger-extension-total-users =
        *[other] { $total } mga taga-gamit
     }
 
-## Firefox Accounts Message
+## Mozilla Account messages
 
 cfr-doorhanger-bookmark-fxa-header = I-sync mo ang mga bookmark mo kahit saan.
 cfr-doorhanger-bookmark-fxa-body = Magaling! Ngayon huwag kang magpaiwan nang wala ang bookmark na ito sa mga mobile devices mo. Simulan mo sa pamamagitan ng { -fxaccount-brand-name }.

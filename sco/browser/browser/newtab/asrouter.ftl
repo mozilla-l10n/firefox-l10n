@@ -59,7 +59,7 @@ cfr-doorhanger-extension-total-users =
        *[other] { $total } yaisers
     }
 
-## Firefox Accounts Message
+## Mozilla Account messages
 
 cfr-doorhanger-bookmark-fxa-header = Sync yer buikmerks awwhaur.
 cfr-doorhanger-bookmark-fxa-body = Whit a spot! Noo dinnae get stuck wioot this buikmerk on yer mobile devices. Get Stertit wi a { -fxaccount-brand-name }.

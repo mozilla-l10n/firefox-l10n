@@ -61,7 +61,7 @@ cfr-doorhanger-extension-total-users =
        *[many] { $total } użytkownikōw
     }
 
-## Firefox Accounts Message
+## Mozilla Account messages
 
 cfr-doorhanger-bookmark-fxa-header = Miyj swoje zokłodki wszyńdzie zsynchrōnizowane.
 cfr-doorhanger-bookmark-fxa-body = Terozki już nigdy niy ôstaniesz bez tyj zokłodki na swojich maszinach. Napocznij używać { -fxaccount-brand-name(case: "gen") }.

@@ -61,7 +61,7 @@ cfr-doorhanger-extension-total-users =
        *[other] { $total } корисника
     }
 
-## Firefox Accounts Message
+## Mozilla Account messages
 
 cfr-doorhanger-bookmark-fxa-header = Приступите обележивачима свуда.
 cfr-doorhanger-bookmark-fxa-body = Одлично откриће! Пренесите овај обележивач и на мобилне уређаје помоћу { -fxaccount-brand-name(case: "gen") }.

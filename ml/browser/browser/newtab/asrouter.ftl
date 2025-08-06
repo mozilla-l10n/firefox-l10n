@@ -59,7 +59,7 @@ cfr-doorhanger-extension-total-users =
        *[other] { $total } ഉപയോക്താക്കൾ
     }
 
-## Firefox Accounts Message
+## Mozilla Account messages
 
 cfr-doorhanger-bookmark-fxa-header = എല്ലായിടത്തും നിങ്ങളുടെ അടയാളകുറിപ്പുകള്‍ സമന്വയിപ്പിക്കുക
 cfr-doorhanger-bookmark-fxa-link-text = അടയാളകുറിപ്പുകള്‍ ഇപ്പോൾ സമന്വയിപ്പിക്കുക…

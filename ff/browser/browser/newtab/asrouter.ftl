@@ -59,7 +59,7 @@ cfr-doorhanger-extension-total-users =
        *[other] { $total } huutorɓe
     }
 
-## Firefox Accounts Message
+## Mozilla Account messages
 
 cfr-doorhanger-bookmark-fxa-header = Jokkondir maantore maa kala nokku.
 cfr-doorhanger-bookmark-fxa-link-text = Jokkondir maantore jooni…

@@ -48,7 +48,7 @@ cfr-doorhanger-extension-total-users =
        *[other] { $total }பயனர்கள்
     }
 
-## Firefox Accounts Message
+## Mozilla Account messages
 
 cfr-doorhanger-bookmark-fxa-header = உங்கள் புத்தககுறிகளை எல்லா இடங்களிலும் ஒத்திசைக்கவும்.
 cfr-doorhanger-bookmark-fxa-link-text = புத்தககுறிகளை இப்போது ஒத்திசை…

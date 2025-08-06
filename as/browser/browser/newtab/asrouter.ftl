@@ -47,7 +47,7 @@ cfr-doorhanger-extension-total-users =
        *[other] { $total } গৰাকী ব্যৱহাৰকাৰী
     }
 
-## Firefox Accounts Message
+## Mozilla Account messages
 
 cfr-doorhanger-bookmark-fxa-header = সকলো ঠাইতে আপোনাৰ বুকমাৰ্কসমূহ ছিংক কৰক।
 cfr-doorhanger-bookmark-fxa-link-text = এতিয়াই বুকমাৰ্ক চিংক কৰক…

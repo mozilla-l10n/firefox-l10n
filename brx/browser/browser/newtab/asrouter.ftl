@@ -32,7 +32,7 @@ cfr-doorhanger-extension-total-users =
        *[other] { $total } बाहायग्राफोर
     }
 
-## Firefox Accounts Message
+## Mozilla Account messages
 
 cfr-doorhanger-bookmark-fxa-header = जेरावबो नोंथांनि बुकमार्कफोर सिनक खालाम
 cfr-doorhanger-bookmark-fxa-close-btn-tooltip =
