@@ -38,6 +38,7 @@ edit-profile-page-delete-button =
     .label = Odstrániť
 edit-profile-page-avatar-selector-opener-link = Upraviť
 avatar-selector-icon-tab = Ikona
+avatar-selector-custom-tab = Vlastný
 avatar-selector-cancel-button =
     .label = Zrušiť
 avatar-selector-save-button =

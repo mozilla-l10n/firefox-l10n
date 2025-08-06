@@ -634,6 +634,15 @@ pdfjs-editor-edit-comment-close-button =
     .title = Zavrieť
 pdfjs-editor-edit-comment-actions-edit-button-label = Upraviť
 pdfjs-editor-edit-comment-actions-delete-button-label = Odstrániť
+pdfjs-editor-edit-comment-manager-text-input =
+    .placeholder = Zadajte svoj komentár
+pdfjs-editor-edit-comment-manager-cancel-button = Zrušiť
+pdfjs-editor-edit-comment-manager-save-button = Uložiť
+
+## Edit a comment button in the editor toolbar
+
+pdfjs-editor-edit-comment-button =
+    .title = Upraviť komentár
 
 ## Main menu for adding/removing signatures
 
