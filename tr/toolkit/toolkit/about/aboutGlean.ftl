@@ -85,6 +85,8 @@ about-glean-li-for-visit-gdpv =
 # Do not translate strings between <code> </code> tags.
 about-glean-adhoc-explanation = Daha fazla <i>ad hoc</i> test için <code>about:glean</code> sayfasında geliştirici araçları konsolunu açıp <code>testGetValue()</code> API’sini <code>Glean.metricCategory.metricName.testGetValue()</code> örneğindeki gibi kullanarak belirli bir enstrümantasyonun geçerli değerini de belirleyebilirsiniz.
 # Do not translate strings between <code> </code> tags.
+about-glean-adhoc-explanation2 = Daha fazla <i>ad hoc</i> test için <code>about:glean</code> sayfasında geliştirici araçları konsolunu açıp <code>testGetValue()</code> API’sini kullanarak belirli bir enstrümantasyonun geçerli değerini de belirleyebilirsiniz. Örneğin <code>metric.category.metric_name</code> adında bir metrik için <code>Glean.metricCategory.metricName.testGetValue()</code> şeklinde kullanabilirsiniz.
+# Do not translate strings between <code> </code> tags.
 about-glean-adhoc-note =
     Geliştirici araçları konsolunda Glean JS API’sinin çalıştığını unutmayın.
     Bu nedenle, ölçüm kategorisi ve ölçüm adı Rust ve C++ API’lerinden farklı olarak
