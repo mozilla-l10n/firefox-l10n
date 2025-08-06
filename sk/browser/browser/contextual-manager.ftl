@@ -18,6 +18,7 @@ contextual-manager-passwords-command-import-from-browser = Importovať z iného 
 contextual-manager-passwords-command-import = Importovať zo súboru…
 contextual-manager-passwords-command-export = Exportovať heslá
 contextual-manager-passwords-command-remove-all = Odstrániť všetky heslá
+contextual-manager-passwords-command-options = Možnosti
 contextual-manager-passwords-command-settings = Nastavenia
 contextual-manager-passwords-command-help = Pomocník
 contextual-manager-passwords-os-auth-dialog-caption = { -brand-full-name }
@@ -171,6 +172,8 @@ contextual-manager-passwords-password-already-exists-error-button = Prejsť na h
 contextual-manager-passwords-update-password-success-heading =
     .heading = Heslo bolo uložené
 contextual-manager-passwords-update-password-success-button = Hotovo
+contextual-manager-passwords-update-username-success-heading-2 =
+    .heading = Používateľské meno bolo pridané
 contextual-manager-passwords-update-username-success-heading =
     .heading = Používateľské meno bolo uložené
 # Message to confirm successful removal of a password/passwords.
@@ -227,12 +230,15 @@ contextual-manager-passwords-title = Heslá
 
 contextual-manager-passwords-create-label =
     .label = Pridať heslo
+contextual-manager-passwords-update-label =
+    .label = Aktualizovať heslo
 contextual-manager-passwords-edit-label =
     .label = Upraviť heslo
 contextual-manager-passwords-remove-label =
     .title = Odstrániť heslo
 contextual-manager-passwords-origin-tooltip = Zadajte presnú adresu, na ktorej sa budete prihlasovať na túto stránku.
 contextual-manager-passwords-username-tooltip = Zadajte používateľské meno, e‑mailovú adresu alebo číslo účtu, ktoré používate na prihlásenie.
+contextual-manager-passwords-password-tooltip-2 = Zadajte heslo na prihlásenie do tohto účtu.
 contextual-manager-passwords-password-tooltip = Zadajte heslo používané na prihlásenie do tohto účtu.
 
 ## Password Card
@@ -315,6 +321,7 @@ contextual-manager-hide-password-button =
 # The message displayed when the search text does not match any of the user's saved logins.
 contextual-manager-passwords-no-passwords-found-header =
     .heading = Neboli nájdené žiadne heslá
+contextual-manager-passwords-no-passwords-found-message-2 = Skúste iný výraz a vyhľadajte znova.
 contextual-manager-passwords-no-passwords-found-message = Nenašli sa žiadne heslá. Vyhľadajte iný výraz a skúste to znova.
 
 ## When the user has no saved passwords, we display the following messages to inform the user they can save
@@ -329,6 +336,8 @@ contextual-manager-passwords-no-passwords-message = Všetky heslá sú šifrovan
 contextual-manager-passwords-no-passwords-get-started-message = Ak chcete začať, pridajte ich tu.
 # This string is displayed in a button. If the user clicks it, they will be taken to a form to create a new password.
 contextual-manager-passwords-add-manually = Pridať manuálne
+# This string encourages the user to save their passwords in Firefox (the "safe spot").
+contextual-manager-passwords-no-passwords-header-2 = Uložte si heslá na bezpečné miesto
 
 ## When the user cancels a login that's currently being edited, we display a message to confirm whether
 ## or not the user wants to discard their current edits to the login.
@@ -347,3 +356,8 @@ contextual-manager-passwords-remove-all-passwords-checkbox =
         [many] Áno, odstrániť heslá
        *[other] Áno, odstrániť heslá
     }
+# This string informs the user they need to provide their primary password for FireFox to access their saved passwords in Firefox.
+contextual-manager-primary-password-reauth-header = Ak chcete zobraziť uložené heslá, zadajte svoje hlavné heslo.
+# This string informs the user their primary password is used to authenticate and access their passwords
+contextual-manager-primary-password-reauth-button = Zadajte hlavné heslo
+contextual-manager-primary-password-learn-more-link = Ďalšie informácie

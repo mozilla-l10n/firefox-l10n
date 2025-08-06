@@ -51,3 +51,8 @@ experimental-features-link-previews-description-no-ai =
 experimental-features-newtab-sections-follow-block =
     .label = Sekcie tém a sledovanie/blokovanie pre príbehy na novej karte
 experimental-features-newtab-sections-follow-block-description = Usporiadajte si články na stránke Nová karta do tematických sekcií (Šport, Jedlo, Zábava a ďalšie) pre štruktúrovanejší a ľahšie čitateľný zážitok. Použite naše nové ovládacie prvky Sledovať a Blokovať na prispôsobenie obsahu, ktorý sa vám zobrazuje. <a data-l10n-name="connect">Zdieľať spätnú väzbu</a>
+# Firefox Web Apps
+experimental-features-fx-web-apps =
+    .label = Pridanie webových stránok na panel úloh
+# “Add tab to taskbar” is found in the tooltip text of `-taskbar-tab-urlbar-button-open`.
+experimental-features-fx-web-apps-description = Otvárajte často navštevované stránky ako webovú aplikáciu z panela úloh. Vyhľadajte ikonu „Pridať kartu na panel úloh“ napravo od panela s adresou, čím spustíte danú stránku v zjednodušenom okne so všetkými ochranami { -brand-product-name(case: "gen") }. <a data-l10n-name="connect">Zdieľať spätnú väzbu</a>

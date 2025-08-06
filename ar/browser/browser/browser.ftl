@@ -1383,10 +1383,17 @@ trustpanel-etp-label-disabled = الحماية الموسّعة من التعق�
 #  $host (String): the hostname of the site that is being displayed.
 trustpanel-etp-toggle-on =
     .aria-label = الحماية الموسّعة من التعقب مفعّلة ل { $host }
+# Variables
+#  $host (String): the hostname of the site that is being displayed.
+trustpanel-etp-toggle-off =
+    .aria-label = الحماية الموسّعة من التعقب معطّلة ل { $host }
+trustpanel-etp-description-enabled = إذا كان هناك شيء يبدو معطوبًا في هذا الموقع، فحاول إيقاف تشغيل الحماية.
 trustpanel-connection-label-secure = الاتصال آمن
 trustpanel-connection-label-insecure = الاتصال غير آمن
 trustpanel-header-enabled = { -brand-product-name } على الحراسة
+trustpanel-description-enabled = أنت محمي. إذا لاحظنا أي شيء، سنُعلمك.
 trustpanel-header-disabled = لقد أوقفت الحماية
+trustpanel-clear-cookies-button = امسح الكعكات و بيانات المواقع
 trustpanel-privacy-link = إعدادات الخصوصية
 trustpanel-clear-cookies-subview-button-clear = امسح
 trustpanel-clear-cookies-subview-button-cancel = ألغِ
@@ -1405,6 +1412,7 @@ trustpanel-blocker-see-all = اعرض الكل
 trustpanel-blocker-description = { -brand-product-name } يرى أن على الشركات تقليل متابعتك. لذلك نحظر أكبر عدد ممكن منها.
 trustpanel-insecure-section-header = اتّصالك غير آمن
 trustpanel-insecure-description = البيانات التي ترسلها إلى هذا الموقع غير مُعمّاة، مما قد يعرضها للعرض أو السرقة أو التعديل.
+trustpanel-list-label-tracking-content = المحتوى الذي يتعقّبك
 trustpanel-social-tracking-tab-list-header = تحاول هذه المواقع تتبعك:
 trustpanel-tracking-cookies-tab-list-header = تحاول هذه المواقع تتبعك:
 trustpanel-tracking-content-tab-list-header = تحاول هذه المواقع تتبعك:
