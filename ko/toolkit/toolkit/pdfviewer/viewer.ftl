@@ -294,6 +294,8 @@ pdfjs-web-fonts-disabled = 웹 폰트가 비활성화됨: 내장된 PDF 글꼴�
 
 pdfjs-editor-free-text-button =
     .title = 텍스트
+pdfjs-editor-color-picker-free-text-input =
+    .title = 텍스트 색상 변경
 pdfjs-editor-free-text-button-label = 텍스트
 pdfjs-editor-ink-button =
     .title = 그리기

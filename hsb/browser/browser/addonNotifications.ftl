@@ -137,11 +137,13 @@ addon-install-error-corrupt-file = Přidatk, kotryž sće z tutoho sydła sćahn
 addon-install-error-file-access = { $addonName } njeda so instalować, dokelž { -brand-short-name } njemóže trěbnu dataju změnić.
 addon-install-error-not-signed = { -brand-short-name } je tute sydło při instalowanju njepřepruwowaneho přidatka haćił.
 addon-install-error-invalid-domain = Přidatk { $addonName } njeda so z tutoho městna instalować.
+addon-install-error-no-addon-name-file-access = Přidatk njeda so instalować, dokelž { -brand-short-name } njemóže trěbnu dataju změnić.
 addon-local-install-error-network-failure = Tutón přidatk njeda so systemoweho zmylka dla instalować.
 addon-local-install-error-incorrect-hash = Tutón přidatk njeda so instalować, dokelž njewotpowěduje přidatkej, kotryž { -brand-short-name } wočakowaše.
 addon-local-install-error-corrupt-file = Tutón přidatk njeda so instalować, dokelž zda so, zo je wobškodźeny.
 addon-local-install-error-file-access = { $addonName } njeda so instalować, dokelž { -brand-short-name } njemóže trěbnu dataju změnić.
 addon-local-install-error-not-signed = Tutón přidatk njeda so instalować, dokelž njeje wobkrućeny.
+addon-local-install-no-addon-name-error-file-access = Přidatk njeda so instalować, dokelž { -brand-short-name } njemóže trěbnu dataju změnić.
 # Variables:
 #   $appVersion (String): the application version.
 addon-install-error-incompatible = { $addonName } njeda so instalować, dokelž z { -brand-short-name } { $appVersion } kompatibelny njeje.

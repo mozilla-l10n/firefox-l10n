@@ -51,3 +51,8 @@ experimental-features-link-previews-description-no-ai =
 experimental-features-newtab-sections-follow-block =
     .label = Тематические разделы и Отслеживать/Блокировать для Историй Новой вкладки
 experimental-features-newtab-sections-follow-block-description = Организуйте статьи на странице Новая вкладка в тематические разделы (Спорт, Еда, Развлечения и другие) для более структурированного и удобного просмотра. Используйте новые элементы управления Отслеживать и Блокировать, чтобы настроить, какой контент вы видите. <a data-l10n-name="connect">Поделитесь отзывом</a>
+# Firefox Web Apps
+experimental-features-fx-web-apps =
+    .label = Добавьте сайты на панель задач
+# “Add tab to taskbar” is found in the tooltip text of `-taskbar-tab-urlbar-button-open`.
+experimental-features-fx-web-apps-description = Открывайте сайты, которые вы часто посещаете как веб-приложение, с панели задач. Найдите значок «Добавить вкладку на панель задач» справа от адресной строки, чтобы запустить сайт в упрощённом окне со всеми защитами { -brand-product-name }. <a data-l10n-name="connect">Поделитесь отзывом</a>
