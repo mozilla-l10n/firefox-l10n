@@ -215,3 +215,7 @@ sidebar-widget-show-sidebar2 =
 sidebar-widget-hide-sidebar2 =
     .tooltiptext = Bóčnicu schować ({ $shortcut })
     .label = Bóčnicy
+# Promotional message displayed in the expanded sidebar state for Vertical Tabs
+# users who do not have any pinned tabs. Indicates that they can drop tabs in
+# this area to pin them.
+sidebar-pins-promo-text = Ćehńće wažne rajtarki sem, zo byšće je k ruce měł

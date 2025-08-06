@@ -51,3 +51,6 @@ experimental-features-link-previews-description-no-ai =
 experimental-features-newtab-sections-follow-block =
     .label = Temowe wotrězki a Slědować/Blokować za stawiznički strony Nowy rajtark
 experimental-features-newtab-sections-follow-block-description = Organizujće stawiznički na wašej stronje Nowy rajtark w temowych wotrězkach (sport, cyroba, zabawa a wjace) za bóle strukturowane dožiwjenje, kotrež da so lochko skenować. Wužiwajće našej wodźenskej elementaj Slědować a Blokować, zo byšće přiměrił, kotry wobsah widźiće. <a data-l10n-name="connect">Měnjenje dźělić</a>
+# Firefox Web Apps
+experimental-features-fx-web-apps =
+    .label = Wašej nadawkowej lajsće sydła přidać

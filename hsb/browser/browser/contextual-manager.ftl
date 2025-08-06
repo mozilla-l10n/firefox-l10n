@@ -239,6 +239,7 @@ contextual-manager-passwords-remove-label =
     .title = Hesło wotstronić
 contextual-manager-passwords-origin-tooltip = Zapodajće eksaktnu adresu, hdźež so pola tutoho sydła přizjewjeće.
 contextual-manager-passwords-username-tooltip = Zapodajće wužiwarske mjeno, e-mejlowu adresu abo kontowe čisło, kotrež wužiwaće, zo byšće so přizjewił.
+contextual-manager-passwords-password-tooltip-2 = Zapodajće hesło, zo byšće so pola tutoho konta přizjewił.
 contextual-manager-passwords-password-tooltip = Zapodajće hesło, kotrež so wužiwa, zo byšće so pola tutoho konta přizjewił.
 
 ## Password Card
@@ -335,6 +336,8 @@ contextual-manager-passwords-no-passwords-message = Wšě hesła su zaklučowane
 contextual-manager-passwords-no-passwords-get-started-message = Přidajće je tu, zo byšće započał.
 # This string is displayed in a button. If the user clicks it, they will be taken to a form to create a new password.
 contextual-manager-passwords-add-manually = Manuelnje přidać
+# This string encourages the user to save their passwords in Firefox (the "safe spot").
+contextual-manager-passwords-no-passwords-header-2 = Składujće swoje hesła na wěstym městnje
 
 ## When the user cancels a login that's currently being edited, we display a message to confirm whether
 ## or not the user wants to discard their current edits to the login.
@@ -353,3 +356,6 @@ contextual-manager-passwords-remove-all-passwords-checkbox =
         [few] Haj, { $total } hesła wotstronić
        *[other] Haj, { $total } hesłow wotstronić
     }
+# This string informs the user their primary password is used to authenticate and access their passwords
+contextual-manager-primary-password-reauth-button = Zapodajće hłowne hesło
+contextual-manager-primary-password-learn-more-link = Dalše informacije

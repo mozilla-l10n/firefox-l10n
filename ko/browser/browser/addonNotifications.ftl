@@ -113,11 +113,13 @@ addon-install-error-corrupt-file = 이 사이트에서 다운로드한 부가 �
 addon-install-error-file-access = { -brand-short-name }가 필요한 파일을 고칠 수 없어 { $addonName }를 설치할 수 없습니다.
 addon-install-error-not-signed = { -brand-short-name }가 이 사이트에서 확인되지 않은 부가 기능을 설치하지 못하게 막았습니다.
 addon-install-error-invalid-domain = { $addonName } 부가기능은 이 위치에서 설치할 수 없습니다.
+addon-install-error-no-addon-name-file-access = 이 부가 기능은 { -brand-short-name }가 필요한 파일을 고칠 수 없어 설치할 수 없습니다.
 addon-local-install-error-network-failure = 이 부가 기능은 파일 시스템에서 잘못되어 설치할 수 없습니다.
 addon-local-install-error-incorrect-hash = 이 부가 기능은 { -brand-short-name }가 찾고 있던 것과 다므르로 설치할 수 없습니다.
 addon-local-install-error-corrupt-file = 이 부가 기능은 손상된 것 같으므로 설치할 수 없습니다.
 addon-local-install-error-file-access = { -brand-short-name }가 필요한 파일을 고칠 수 없어 { $addonName }를 설치할 수 없습니다.
 addon-local-install-error-not-signed = 이 부가 기능은 확인되지 않았으므로 설치할 수 없습니다.
+addon-local-install-no-addon-name-error-file-access = 이 부가 기능은 { -brand-short-name }가 필요한 파일을 고칠 수 없어 설치할 수 없습니다.
 # Variables:
 #   $appVersion (String): the application version.
 addon-install-error-incompatible = { $addonName }는 { -brand-short-name } { $appVersion }에서 돌아가지 않으므로 설치할 수 없습니다.

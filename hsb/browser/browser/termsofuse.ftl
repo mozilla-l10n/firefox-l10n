@@ -11,3 +11,7 @@ existing-user-tou-message = <strong>Aktualizacija</strong> Smy <a data-l10n-name
 existing-user-tou-learn-more = Dalše informacije
 # Text for primary button
 existing-user-tou-accept = Akceptować
+
+## Existing User Terms of Use Spotlight
+
+tou-existing-user-spotlight-remind-me-later = Pozdźišo dopomnić

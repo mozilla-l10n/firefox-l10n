@@ -299,6 +299,8 @@ pdfjs-editor-color-picker-free-text-input =
 pdfjs-editor-free-text-button-label = 텍스트
 pdfjs-editor-ink-button =
     .title = 그리기
+pdfjs-editor-color-picker-ink-input =
+    .title = 그리기 색상 변경
 pdfjs-editor-ink-button-label = 그리기
 pdfjs-editor-stamp-button =
     .title = 이미지 추가 또는 편집
@@ -310,6 +312,10 @@ pdfjs-highlight-floating-button1 =
     .title = 강조 표시
     .aria-label = 강조 표시
 pdfjs-highlight-floating-button-label = 강조 표시
+pdfjs-comment-floating-button =
+    .title = 주석
+    .aria-label = 주석
+pdfjs-comment-floating-button-label = 주석
 pdfjs-editor-signature-button =
     .title = 서명 추가
 pdfjs-editor-signature-button-label = 서명 추가
@@ -590,6 +596,8 @@ pdfjs-editor-add-signature-save-checkbox = 서명 저장
 pdfjs-editor-add-signature-save-warning-message = 저장된 서명의 한계에 도달했습니다. 더 저장하려면 하나를 제거하세요.
 pdfjs-editor-add-signature-image-upload-error-title = 이미지를 업로드할 수 없음
 pdfjs-editor-add-signature-image-upload-error-description = 네트워크 연결을 확인하거나 다른 이미지로 시도하세요.
+pdfjs-editor-add-signature-image-no-data-error-title = 이 이미지를 서명으로 변환할 수 없음
+pdfjs-editor-add-signature-image-no-data-error-description = 다른 이미지를 업로드 해 주세요.
 pdfjs-editor-add-signature-error-close-button = 닫기
 
 ## Dialog buttons
@@ -597,6 +605,26 @@ pdfjs-editor-add-signature-error-close-button = 닫기
 pdfjs-editor-add-signature-cancel-button = 취소
 pdfjs-editor-add-signature-add-button = 추가
 pdfjs-editor-edit-signature-update-button = 업데이트
+
+##  Edit a comment dialog
+
+pdfjs-editor-edit-comment-actions-button-label = 동작
+pdfjs-editor-edit-comment-actions-button =
+    .title = 동작
+pdfjs-editor-edit-comment-close-button-label = 닫기
+pdfjs-editor-edit-comment-close-button =
+    .title = 닫기
+pdfjs-editor-edit-comment-actions-edit-button-label = 편집
+pdfjs-editor-edit-comment-actions-delete-button-label = 삭제
+pdfjs-editor-edit-comment-manager-text-input =
+    .placeholder = 주석을 입력하세요
+pdfjs-editor-edit-comment-manager-cancel-button = 취소
+pdfjs-editor-edit-comment-manager-save-button = 저장
+
+## Edit a comment button in the editor toolbar
+
+pdfjs-editor-edit-comment-button =
+    .title = 주석 편집
 
 ## Main menu for adding/removing signatures
 
