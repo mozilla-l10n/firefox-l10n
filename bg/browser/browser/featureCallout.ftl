@@ -102,6 +102,11 @@ fxa-adoption-passwords-subtitle = Защитете паролите си, кат
 # Opens Mozilla accounts sign-up page
 fxa-adoption-passwords-primary-button-label = Регистриране
 
+## Windows 10 EoS Sync messages group 1 callouts
+
+windows-10-eos-sync-urgency-title-1 = Не губете всичко запазено, когато преминете към Windows 11.
+windows-10-eos-sync-urgency-title-2 = Сбогуване с Windows 10? Защитете данните си, когато го направите.
+
 ## Sidebar Strings
 
 sidebar-button-callout-title = Заглавия на разделите в страничната лента
@@ -161,6 +166,8 @@ sidebar-genai-survey-productive-question =
     До каква степен сте съгласни или не с твърдението:<br/>
     „Чатбота с AI в страничната лента ме прави по-продуктивен/а“?
 unified-search-callout-title = Превключване между търсачките
+unified-search-callout-subtitle = Изберете най-доброто за вашето търсене.
+unified-search-callout-primary-label = Напред
 # The user can type "print" and "clear" and a button will appear in the
 # search bar (e.g. Print page) the user can click to initiate the action.
 # These example text inputs correlate to the the following strings

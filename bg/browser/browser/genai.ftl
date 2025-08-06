@@ -58,6 +58,18 @@ genai-input-ask-provider =
     .placeholder = Попитайте { $provider }
 genai-shortcuts-hide =
     .label = Скриване на прекия път към чат-бота
+genai-menu-choose-chatbot =
+    .label = Изберете бот за разговори с ИИ
+genai-menu-ask-generic-2 =
+    .label = Питане на чатбота с ИИ
+    .accesskey = ч
+# $provider (string) - name of the provider
+genai-menu-ask-provider-2 =
+    .label = Питане на { $provider }
+    .accesskey = П
+genai-menu-no-provider-2 =
+    .label = Питане на чатбот с ИИ
+    .accesskey = П
 
 ## Chatbot header
 
