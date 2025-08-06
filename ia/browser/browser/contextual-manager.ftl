@@ -217,12 +217,15 @@ contextual-manager-passwords-title = Contrasignos
 
 contextual-manager-passwords-create-label =
     .label = Adder contrasigno
+contextual-manager-passwords-update-label =
+    .label = Actualisar contrasigno
 contextual-manager-passwords-edit-label =
     .label = Modificar le contrasigno
 contextual-manager-passwords-remove-label =
     .title = Remover contrasigno
 contextual-manager-passwords-origin-tooltip = Insere le adresse exacte ubi tu aperira session sur iste sito.
 contextual-manager-passwords-username-tooltip = Insere le nomine de usator, adresse de e-mail, o numero de conto que tu usa pro aperir session.
+contextual-manager-passwords-password-tooltip-2 = Insere le contrasigno usate pro aperir session in iste conto.
 contextual-manager-passwords-password-tooltip = Insere le contrasigno usate pro aperir session a iste conto.
 
 ## Password Card
@@ -315,6 +318,8 @@ contextual-manager-passwords-no-passwords-message = Tote le contrasignos es cryp
 contextual-manager-passwords-no-passwords-get-started-message = Adde los ci pro initiar.
 # This string is displayed in a button. If the user clicks it, they will be taken to a form to create a new password.
 contextual-manager-passwords-add-manually = Adder manualmente
+# This string encourages the user to save their passwords in Firefox (the "safe spot").
+contextual-manager-passwords-no-passwords-header-2 = Salva tu contrasignos a un loco secur
 
 ## When the user cancels a login that's currently being edited, we display a message to confirm whether
 ## or not the user wants to discard their current edits to the login.
@@ -330,3 +335,6 @@ contextual-manager-passwords-remove-all-passwords-checkbox =
         [1] Si, remover contrasigno
        *[other] Si, remover contrasignos
     }
+# This string informs the user their primary password is used to authenticate and access their passwords
+contextual-manager-primary-password-reauth-button = Insere contrasigno primari
+contextual-manager-primary-password-learn-more-link = Pro saper plus

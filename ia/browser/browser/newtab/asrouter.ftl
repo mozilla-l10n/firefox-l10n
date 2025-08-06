@@ -68,6 +68,8 @@ cfr-doorhanger-bookmark-fxa-link-text = Synchronisar marcapaginas ora…
 cfr-doorhanger-bookmark-fxa-close-btn-tooltip =
     .aria-label = Button Clauder
     .title = Clauder
+fxa-adoption-credit-cards-backup-subtitle = Protege tu methodos de pagamento synchronisante los, con cryptation, a tu apparatos.
+fxa-adoption-primary-button-label = Inscriber se
 
 ## Protections panel
 

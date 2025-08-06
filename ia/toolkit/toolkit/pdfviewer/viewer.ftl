@@ -302,9 +302,13 @@ pdfjs-web-fonts-disabled = Le typos de litteras web es disactivate: impossibile 
 
 pdfjs-editor-free-text-button =
     .title = Texto
+pdfjs-editor-color-picker-free-text-input =
+    .title = Cambiar color de texto
 pdfjs-editor-free-text-button-label = Texto
 pdfjs-editor-ink-button =
     .title = Designar
+pdfjs-editor-color-picker-ink-input =
+    .title = Cambiar color de designo
 pdfjs-editor-ink-button-label = Designar
 pdfjs-editor-stamp-button =
     .title = Adder o rediger imagines
@@ -316,6 +320,10 @@ pdfjs-highlight-floating-button1 =
     .title = Evidentiar
     .aria-label = Evidentiar
 pdfjs-highlight-floating-button-label = Evidentiar
+pdfjs-comment-floating-button =
+    .title = Commento
+    .aria-label = Commento
+pdfjs-comment-floating-button-label = Commento
 pdfjs-editor-signature-button =
     .title = Adder signatura
 pdfjs-editor-signature-button-label = Adder signatura
@@ -607,6 +615,17 @@ pdfjs-editor-add-signature-error-close-button = Clauder
 pdfjs-editor-add-signature-cancel-button = Cancellar
 pdfjs-editor-add-signature-add-button = Adder
 pdfjs-editor-edit-signature-update-button = Actualisar
+
+##  Edit a comment dialog
+
+pdfjs-editor-edit-comment-actions-button-label = Actiones
+pdfjs-editor-edit-comment-actions-button =
+    .title = Actiones
+pdfjs-editor-edit-comment-close-button-label = Clauder
+pdfjs-editor-edit-comment-close-button =
+    .title = Clauder
+pdfjs-editor-edit-comment-actions-edit-button-label = Rediger
+pdfjs-editor-edit-comment-actions-delete-button-label = Deler
 
 ## Main menu for adding/removing signatures
 
