@@ -151,4 +151,13 @@ contextual-manager-show-password-button =
 contextual-manager-hide-password-button =
     .aria-label = Скриване на паролата
     .title = Скриване на паролата
+# The message displayed when the search text does not match any of the user's saved logins.
+contextual-manager-passwords-no-passwords-found-header =
+    .heading = Няма намерени пароли
 contextual-manager-passwords-no-passwords-found-message = Няма намерени пароли. Потърсете друга дума и опитайте отново.
+
+## When the user cancels a login that's currently being edited, we display a message to confirm whether
+## or not the user wants to discard their current edits to the login.
+
+contextual-manager-passwords-discard-changes-close-button = Затваряне
+contextual-manager-passwords-discard-changes-go-back-button = Връщане назад

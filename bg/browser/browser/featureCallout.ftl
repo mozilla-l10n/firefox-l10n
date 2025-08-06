@@ -62,6 +62,45 @@ split-dismiss-button-show-fewer-option =
 # Opens about:preferences#general-cfrfeatures
 split-dismiss-button-manage-settings-option =
     .label = Настройки
+# Accessibility label for dropdown menu button
+split-dismiss-button-default-label =
+    .title = Повече настройки
+
+## Bookmarks toolbar callout strings
+
+bookmarks-toolbar-callout-1-secondary-button-label = Не, благодаря
+# Visible if user adds a bookmark in callout 1, bookmarks toolbar is set to always show when this message renders
+bookmarks-toolbar-callout-2a-title = Лесно добавяне на повече отметки
+bookmarks-toolbar-callout-2a-subtitle = Можете да влачите и пускате раздели тук, за да държите повече от любимите си сайтове под ръка.
+bookmarks-toolbar-callout-2a-primary-button-label = Разбрах
+# Reverts the bookmarks toolbar to the default setting
+bookmarks-toolbar-callout-2a-secondary-button-label = Скриване на лентата с инструменти
+# Visible if user declines to add a bookmark in callout 1, bookmarks toolbar is set to always show when this message renders
+bookmarks-toolbar-callout-2b-title = Задържане на лентата с отметки отворена?
+bookmarks-toolbar-callout-2b-subtitle = Може да добавите и други сайтове, които посещавате по-често. Просто плъзнете и пуснете разделите тук, за да държите любимите уебсайтове под ръка.
+bookmarks-toolbar-callout-2b-primary-button-label = Дръжте отворена
+# Reverts the bookmarks toolbar to the default setting
+bookmarks-toolbar-callout-2b-secondary-button-label = Не, благодаря
+
+## Perplexity callout strings
+
+perplexity-callout-theme-1-title = Имате нужда от точен отговор, веднага?
+perplexity-callout-theme-2-title = Опитайте Perplexity: нов начин за търсене
+perplexity-callout-theme-1-subtitle-1 = Опитай с Perplexity. Изберете го от бутона за търсене, когато искате пълни отговори, включително източници.
+perplexity-callout-theme-1-subtitle-2 = Задавайте въпроси. Получете пълни и добре цитирани отговори. За да опитате Perplexity, изберете го от бутона за търсене.
+perplexity-callout-theme-2-subtitle-1 = Питайте Perplexity. Ще получите изчерпателни отговори, включително източници.
+perplexity-callout-theme-2-subtitle-2 = Задавайте въпроси. Получете пълни и добре цитирани отговори.
+perplexity-callout-primary-label = Питайте Perplexity
+perplexity-callout-secondary-label-1 = Прекратяване
+perplexity-callout-secondary-label-2 = Разбрах
+
+## Account Adoption Passwords callout strings
+
+# Suggestion to backup passwords by signing up for Mozilla account and using sync
+fxa-adoption-passwords-title = Паролата е запазена. Нека я архивираме.
+fxa-adoption-passwords-subtitle = Защитете паролите си, като ги синхронизирате с устройствата си чрез шифроване.
+# Opens Mozilla accounts sign-up page
+fxa-adoption-passwords-primary-button-label = Регистриране
 
 ## Sidebar Strings
 
@@ -70,10 +109,27 @@ sidebar-button-callout-subtitle = Използвайте бутона на ст�
 
 ## Sidebar Vertical Tabs Strings
 
+vertical-tabs-callout-1-title = Претоварени сте от твърде много раздели?
 vertical-tabs-callout-1-subtitle = Изпробвайте вертикалното оформление на разделите, за да ги преглеждате по-бързо. Първите потребители тестващи системата съобщават, че това оформление им помага да се чувстват по-организирани. Можете да превключите разположението по всяко време.
 vertical-tabs-callout-1-cta-button = Изпробвайте вертикалните раздели
 vertical-tabs-callout-2-cta-button = Опитайте сега
 vertical-tabs-callout-2-title = Дръжте ли много отворени раздели? Опитайте с вертикални раздели.
+vertical-tabs-callout-2-subtitle = Това оформление улеснява бързото сканиране на вашия списък с раздели. Освен това можете да регулирате ширината, за да виждате повече или по-малко от заглавията на разделите.
+
+## Sidebar Vertical Tabs Pinning Strings
+
+sidebar-pins-callout-title = Загубвате ли следите на важните си раздели?
+sidebar-pins-callout-subtitle = Опитайте да ги закачите, което ще ги държи начело в списъка с раздели. Щракнете с десния бутон върху раздел, който искате да закачите, след което изберете "Закачане на раздел".
+sidebar-pins-callout-cta-button = Закачане на раздела
+
+## Sidebar Onboarding Strings
+
+sidebar-customization-callout-1-title = Странична лента: вашето място за инструменти и раздели
+sidebar-customization-callout-1-subtitle = Страничната лента на { -brand-product-name } ви дава бърз достъп до историята на сърфирането, раздели от други устройства и чатбот с ИИ — всичко това без да напускате основния ви изглед.
+sidebar-customization-callout-callout-button = Приспособяване на страничната лента
+sidebar-customization-callout-dismiss-button = Скриване на страничната лента
+sidebar-customization-callout-2-title = Направете страничната лента на { -brand-product-name } по ваш вкус
+sidebar-customization-callout-2-subtitle = Добавяне и премахване на инструменти. Поставете разделите в страничната лента. Опитайте чат бот с ИИ. Как да персонализирате страничната си лента, зависи от вас.
 
 ## Sidebar Callout Survey Strings
 
@@ -104,6 +160,7 @@ sidebar-genai-survey-satisfaction-question = Доколко сте доволн�
 sidebar-genai-survey-productive-question =
     До каква степен сте съгласни или не с твърдението:<br/>
     „Чатбота с AI в страничната лента ме прави по-продуктивен/а“?
+unified-search-callout-title = Превключване между търсачките
 # The user can type "print" and "clear" and a button will appear in the
 # search bar (e.g. Print page) the user can click to initiate the action.
 # These example text inputs correlate to the the following strings
