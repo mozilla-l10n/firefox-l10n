@@ -18,6 +18,7 @@ contextual-manager-passwords-command-import-from-browser = Импорт из д�
 contextual-manager-passwords-command-import = Импорт из файла…
 contextual-manager-passwords-command-export = Экспорт паролей
 contextual-manager-passwords-command-remove-all = Удалить все пароли
+contextual-manager-passwords-command-options = Настройки
 contextual-manager-passwords-command-settings = Настройки
 contextual-manager-passwords-command-help = Помощь
 contextual-manager-passwords-os-auth-dialog-caption = { -brand-full-name }
@@ -167,6 +168,8 @@ contextual-manager-passwords-password-already-exists-error-button = Перейт
 contextual-manager-passwords-update-password-success-heading =
     .heading = Пароль сохранён
 contextual-manager-passwords-update-password-success-button = Готово
+contextual-manager-passwords-update-username-success-heading-2 =
+    .heading = Имя пользователя добавлено
 contextual-manager-passwords-update-username-success-heading =
     .heading = Имя пользователя сохранено
 # Message to confirm successful removal of a password/passwords.
@@ -222,12 +225,15 @@ contextual-manager-passwords-title = Пароли
 
 contextual-manager-passwords-create-label =
     .label = Добавить пароль
+contextual-manager-passwords-update-label =
+    .label = Обновить пароль
 contextual-manager-passwords-edit-label =
     .label = Изменить пароль
 contextual-manager-passwords-remove-label =
     .title = Удалить пароль
 contextual-manager-passwords-origin-tooltip = Введите точный адрес страницы входа на сайт.
 contextual-manager-passwords-username-tooltip = Введите имя пользователя, адрес электронной почты или номер аккаунта, которые вы используете для входа.
+contextual-manager-passwords-password-tooltip-2 = Введите пароль для входа в этот аккаунт.
 contextual-manager-passwords-password-tooltip = Введите пароль, используемый для входа в этот аккаунт.
 
 ## Password Card

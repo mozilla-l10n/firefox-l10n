@@ -133,11 +133,13 @@ addon-install-error-corrupt-file = Дополнение, загруженное 
 addon-install-error-file-access = { $addonName } не может быть установлено, так как { -brand-short-name } не может изменить нужный файл.
 addon-install-error-not-signed = { -brand-short-name } заблокировал установку непроверенного дополнения с этого сайта.
 addon-install-error-invalid-domain = Дополнение { $addonName } не может быть установлено из этого расположения.
+addon-install-error-no-addon-name-file-access = Дополнение не может быть установлено, так как { -brand-short-name } не может изменить необходимый файл.
 addon-local-install-error-network-failure = Это дополнение не может быть установлено из-за ошибки файловой системы.
 addon-local-install-error-incorrect-hash = Это дополнение не может быть установлено, так как оно не соответствует дополнению, ожидаемому { -brand-short-name }.
 addon-local-install-error-corrupt-file = Это дополнение не может быть установлено, так как оно, по-видимому, повреждено.
 addon-local-install-error-file-access = { $addonName } не может быть установлено, так как { -brand-short-name } не может изменить нужный файл.
 addon-local-install-error-not-signed = Это дополнение не может быть установлено, так как оно не было проверено.
+addon-local-install-no-addon-name-error-file-access = Дополнение не может быть установлено, так как { -brand-short-name } не может изменить необходимый файл.
 # Variables:
 #   $appVersion (String): the application version.
 addon-install-error-incompatible = { $addonName } не может быть установлено, так как оно не совместимо с { -brand-short-name } { $appVersion }.
