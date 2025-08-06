@@ -51,3 +51,8 @@ experimental-features-link-previews-description-no-ai =
 experimental-features-newtab-sections-follow-block =
     .label = Emneseksjoner og følg/blokker for artikler på ny fane-siden
 experimental-features-newtab-sections-follow-block-description = Organiser artiklene på ny fane-siden din i emneseksjoner (sport, mat, underholdning og mer) for en mer strukturert og brukervennlig opplevelse. Bruk de nye følg- og blokker-kontrollene våre for å tilpasse hvilket innhold du ser. <a data-l10n-name="connect">Del tilbakemeldinger</a>
+# Firefox Web Apps
+experimental-features-fx-web-apps =
+    .label = Legg til nettsteder på oppgavelinjen
+# “Add tab to taskbar” is found in the tooltip text of `-taskbar-tab-urlbar-button-open`.
+experimental-features-fx-web-apps-description = Åpne nettsteder du besøker ofte som en nettapp fra oppgavelinjen. Se etter ikonet «Legg til fane i oppgavelinjen» til høyre for adressefeltet for å starte nettstedet i et strømlinjeformet vindu med alle { -brand-product-name } sine beskyttelser. <a data-l10n-name="connect">Del tilbakemelding</a>

@@ -302,6 +302,8 @@ pdfjs-web-fonts-disabled = Web-fonter er avslått: Kan ikke bruke innbundne PDF-
 
 pdfjs-editor-free-text-button =
     .title = Tekst
+pdfjs-editor-color-picker-free-text-input =
+    .title = Endre tekstfarge
 pdfjs-editor-free-text-button-label = Tekst
 pdfjs-editor-ink-button =
     .title = Tegn

@@ -11,3 +11,7 @@ existing-user-tou-message = <strong>Oppdatering</strong> Vi har introdusert <a d
 existing-user-tou-learn-more = Les mer
 # Text for primary button
 existing-user-tou-accept = Godta
+
+## Existing User Terms of Use Spotlight
+
+tou-existing-user-spotlight-remind-me-later = Minn meg på senere
