@@ -67,6 +67,9 @@ cfr-doorhanger-bookmark-fxa-close-btn-tooltip =
     .aria-label = 닫기 버튼
     .title = 닫기
 fxa-adoption-addresses-backup-title = 저장된 주소를 백업합시다
+fxa-adoption-addresses-backup-subtitle = 암호화를 통해 저장된 주소를 기기에 동기화하여 보호하세요.
+fxa-adoption-credit-cards-backup-title = 결제 방법을 백업합시다
+fxa-adoption-credit-cards-backup-subtitle = 암호화를 통해 결제 방법을 기기에 동기화하여 보호하세요.
 fxa-adoption-primary-button-label = 가입
 
 ## Protections panel

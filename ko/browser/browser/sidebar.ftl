@@ -215,3 +215,7 @@ sidebar-widget-show-sidebar2 =
 sidebar-widget-hide-sidebar2 =
     .tooltiptext = 사이드바 숨기기 ({ $shortcut })
     .label = 사이드바
+# Promotional message displayed in the expanded sidebar state for Vertical Tabs
+# users who do not have any pinned tabs. Indicates that they can drop tabs in
+# this area to pin them.
+sidebar-pins-promo-text = 중요한 탭을 가까운 곳에 두려면 여기로 드래그 하세요

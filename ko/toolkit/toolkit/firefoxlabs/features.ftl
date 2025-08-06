@@ -51,3 +51,8 @@ experimental-features-link-previews-description-no-ai =
 experimental-features-newtab-sections-follow-block =
     .label = 새 탭 이야기에 대한 주제 섹션과 팔로우/차단
 experimental-features-newtab-sections-follow-block-description = 새 탭 페이지의 이야기를 주제 섹션( 스포츠, 음식, 연예 등)으로 구성하여 보다 체계적이고 쉽게 스캔할 수 있습니다. 새로운 팔로우 및 차단 컨트롤을 사용하여 표시할 콘텐츠를 맞춤 설정할 수 있습니다. <a data-l10n-name="connect">의견 공유</a>
+# Firefox Web Apps
+experimental-features-fx-web-apps =
+    .label = 작업 표시줄에 사이트 추가
+# “Add tab to taskbar” is found in the tooltip text of `-taskbar-tab-urlbar-button-open`.
+experimental-features-fx-web-apps-description = 자주 방문하는 사이트를 작업 표시줄에서 웹 앱으로 엽니다. { -brand-product-name }의 모든 보호 기능과 함께 간소화된 창에서 해당 사이트를 실행하려면 주소 표시줄 오른쪽에 있는 "작업 표시줄에 탭 추가" 아이콘을 찾으세요. <a data-l10n-name="connect">의견 공유</a>
