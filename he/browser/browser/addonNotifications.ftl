@@ -125,11 +125,13 @@ addon-install-error-corrupt-file = לא ניתן היה להתקין את התו
 addon-install-error-file-access = לא ניתן היה להתקין את { $addonName } מכיוון של־{ -brand-short-name } אין אפשרות לשנות את הקובץ הנדרש.
 addon-install-error-not-signed = { -brand-short-name } מנע מאתר זה להתקין תוספת לא מאומתת.
 addon-install-error-invalid-domain = לא ניתן להתקין את התוספת { $addonName } ממיקום זה.
+addon-install-error-no-addon-name-file-access = לא ניתן היה להתקין את התוספת מכיוון של־{ -brand-short-name } אין אפשרות לשנות את הקובץ הנדרש.
 addon-local-install-error-network-failure = לא ניתן היה להתקין תוספת זו עקב שגיאה במערכת הקבצים.
 addon-local-install-error-incorrect-hash = לא ניתן להתקין תוספת זו כיוון שהיא אינה תואמת את התוספת המצופה { -brand-short-name }.
 addon-local-install-error-corrupt-file = לא ניתן היה להתקין תוספת זו מכיוון שהיא ככל הנראה פגומה.
 addon-local-install-error-file-access = לא ניתן היה להתקין את { $addonName } מכיוון של־{ -brand-short-name } אין אפשרות לשנות את הקובץ הנדרש.
 addon-local-install-error-not-signed = לא ניתן היה להתקין תוספת זו מכיוון שהיא לא אומתה.
+addon-local-install-no-addon-name-error-file-access = לא ניתן היה להתקין את התוספת מכיוון של־{ -brand-short-name } אין אפשרות לשנות את הקובץ הנדרש.
 # Variables:
 #   $appVersion (String): the application version.
 addon-install-error-incompatible = לא ניתן היה להתקין את { $addonName } מכיוון שאינה תואמת ל־{ -brand-short-name } { $appVersion }.

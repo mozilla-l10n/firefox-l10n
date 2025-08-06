@@ -801,6 +801,29 @@ urlbar-result-weather-title-city-only = <strong>{ $temperature }°{ $unit }</str
 #       name of a company, organization, or service.
 urlbar-result-weather-provider-sponsored = { $provider } · Sponsrad
 
+## These strings are used for Realtime suggestions in the urlbar.
+## Market refers to stocks, indexes, and funds.
+
+# This string is shown as title when Market suggestion are disabled.
+urlbar-result-market-opt-in-title = Få börsdata direkt i sökfältet
+# This string is shown as description when Market suggestion are disabled.
+urlbar-result-market-opt-in-description = Visa marknadsuppdateringar och mer från våra partners när du delar sökfrågedata med { -vendor-short-name }. <a data-l10n-name="learn-more-link">Läs mer</a>
+# This string is shown as button to activate online when realtime suggestion are disabled.
+urlbar-result-realtime-opt-in-allow = Visa förslag
+# This string is shown in split button to dismiss activation the Realtime suggestion.
+urlbar-result-realtime-opt-in-not-now = Inte nu
+urlbar-result-realtime-opt-in-dismiss = Ignorera
+urlbar-result-realtime-opt-in-dismiss-all =
+    .label = Visa inte dessa förslag
+# This string is shown in the result menu.
+urlbar-result-menu-dont-show-market =
+    .label = Visa inte marknadsförslag
+# A message that replaces a result when the user dismisses Market suggestions.
+urlbar-result-dismissal-acknowledgment-market = Tack för din feedback. Du ser inte marknadsförslag längre.
+# A message that replaces a result when the user dismisses all suggestions of a
+# particular type.
+urlbar-result-dismissal-acknowledgment-all = Tack för din feedback. Du ser inte dessa förslag längre.
+
 ## Strings used for buttons in the urlbar
 
 # Label prompting user to search with a particular search engine.

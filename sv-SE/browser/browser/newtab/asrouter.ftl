@@ -68,6 +68,11 @@ cfr-doorhanger-bookmark-fxa-link-text = Synkronisera bokmärken nu...
 cfr-doorhanger-bookmark-fxa-close-btn-tooltip =
     .aria-label = Stäng knapp
     .title = Stäng
+fxa-adoption-addresses-backup-title = Låt oss säkerhetskopiera dina sparade adresser
+fxa-adoption-addresses-backup-subtitle = Skydda dina sparade adresser genom att synkronisera dem till dina enheter med kryptering.
+fxa-adoption-credit-cards-backup-title = Låt oss säkerhetskopiera dina betalningsmetoder
+fxa-adoption-credit-cards-backup-subtitle = Skydda dina betalningsmetoder genom att synkronisera dem till dina enheter med kryptering.
+fxa-adoption-primary-button-label = Registrera dig
 
 ## Protections panel
 

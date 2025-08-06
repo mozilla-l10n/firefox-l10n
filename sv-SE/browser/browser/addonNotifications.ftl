@@ -125,11 +125,13 @@ addon-install-error-corrupt-file = Tillägget som hämtades från denna sida kun
 addon-install-error-file-access = { $addonName } kunde inte installeras eftersom { -brand-short-name } inte kan modifiera den nödvändiga filen.
 addon-install-error-not-signed = { -brand-short-name } har hindrat den här webbplatsen från att installera ett overifierat tillägg.
 addon-install-error-invalid-domain = Tillägget { $addonName } kan inte installeras från den här platsen.
+addon-install-error-no-addon-name-file-access = Tillägget kunde inte installeras eftersom { -brand-short-name } inte kan ändra den nödvändiga filen.
 addon-local-install-error-network-failure = Tillägget kunde inte installeras på grund av ett fel i filsystemet.
 addon-local-install-error-incorrect-hash = Tillägget kunde inte installeras eftersom det inte matchar tillägget som { -brand-short-name } förväntade sig.
 addon-local-install-error-corrupt-file = Tillägget kunde inte installeras eftersom det verkar vara trasigt.
 addon-local-install-error-file-access = { $addonName } kunde inte installeras eftersom { -brand-short-name } inte kan modifiera den nödvändiga filen.
 addon-local-install-error-not-signed = Detta tillägg kunde inte installeras eftersom det inte har verifierats.
+addon-local-install-no-addon-name-error-file-access = Tillägget kunde inte installeras eftersom { -brand-short-name } inte kan ändra den nödvändiga filen.
 # Variables:
 #   $appVersion (String): the application version.
 addon-install-error-incompatible = { $addonName } kunde inte installeras eftersom det inte är kompatibelt med { -brand-short-name } { $appVersion }.
