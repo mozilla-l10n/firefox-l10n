@@ -45,6 +45,7 @@ avatar-selector-save-button =
     .label = Tallenna
 avatar-selector-upload-file = Lähetä tiedosto
 avatar-selector-drag-file = Tai vedä tiedosto tähän
+avatar-selector-add-image = Lisää kuva
 edit-profile-page-no-name = Nimeä tämä profiili, jotta tunnistat sen myöhemmin. Nimeä se uudelleen milloin tahansa.
 edit-profile-page-duplicate-name = Profiilin nimi on jo käytössä. Kokeile toista nimeä.
 edit-profile-page-profile-saved = Tallennettu

@@ -626,6 +626,15 @@ pdfjs-editor-edit-comment-close-button =
     .title = Slute
 pdfjs-editor-edit-comment-actions-edit-button-label = Bewurkje
 pdfjs-editor-edit-comment-actions-delete-button-label = Fuortsmite
+pdfjs-editor-edit-comment-manager-text-input =
+    .placeholder = Fier jo opmerking yn
+pdfjs-editor-edit-comment-manager-cancel-button = Annulearje
+pdfjs-editor-edit-comment-manager-save-button = Bewarje
+
+## Edit a comment button in the editor toolbar
+
+pdfjs-editor-edit-comment-button =
+    .title = Opmerking bewurkje
 
 ## Main menu for adding/removing signatures
 
