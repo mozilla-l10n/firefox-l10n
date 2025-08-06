@@ -140,3 +140,4 @@ addon-install-error-blocklisted = Impossibile installare { $addonName } in quant
 addon-install-error-soft-blocked = { $addonName } viola i criteri di Mozilla e non è possibile installarlo in { -brand-short-name }.
 # Enterprise policies is a feature aimed at system administrators who want to deploy custom settings for Firefox.
 addon-install-error-admin-install-only = Non è possibile installare { $addonName } come utente finale, può essere installato solo da un’organizzazione che utilizza criteri aziendali.
+

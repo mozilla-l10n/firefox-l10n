@@ -18,3 +18,4 @@ colorpicker-tooltip-color-name-title = Colore più simile: { $colorName }
 colorpicker-tooltip-hue-slider-title = Tonalità
 # A title text for the alpha slider in the color picker tooltip.
 colorpicker-tooltip-alpha-slider-title = Opacità
+

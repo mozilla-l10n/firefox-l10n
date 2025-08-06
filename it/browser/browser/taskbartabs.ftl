@@ -25,3 +25,4 @@ taskbar-tab-shortcut-description = App web { $name }
 # use: '<' '>' ':' '"' '/' '\' '|' '?' '*' . All other characters
 # should be fine.)
 taskbar-tab-shortcut-folder = App web di { -brand-short-name }
+
