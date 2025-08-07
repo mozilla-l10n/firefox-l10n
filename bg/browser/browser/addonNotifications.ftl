@@ -125,6 +125,7 @@ addon-install-error-corrupt-file = Изтеглената добавка не м
 addon-install-error-file-access = Добавката { $addonName } не може да бъде инсталирана, защото { -brand-short-name } не може да промени необходимите файлове.
 addon-install-error-not-signed = { -brand-short-name } предотврати опит за инсталиране на непроверена добавка от страницата.
 addon-install-error-invalid-domain = Добавката { $addonName } не може да бъде инсталирана от това място.
+addon-install-error-no-addon-name-file-access = Добавката не може да бъде инсталирана, защото { -brand-short-name } не може да променя нужния файл.
 addon-local-install-error-network-failure = Добавката не може да бъде инсталирана поради грешка във файловата система.
 addon-local-install-error-incorrect-hash = Добавката не може да бъде инсталирана, защото не е тази, която { -brand-short-name } очаква.
 addon-local-install-error-corrupt-file = Добавката не може да бъде инсталирана, защото изглежда е повредена.
