@@ -878,6 +878,24 @@ urlbar-result-weather-title-city-only = <strong>{ $temperature }°{ $unit }</str
 #       name of a company, organization, or service.
 urlbar-result-weather-provider-sponsored = { $provider } · Sponzorované
 
+## These strings are used for Realtime suggestions in the urlbar.
+## Market refers to stocks, indexes, and funds.
+
+# This string is shown as title when Market suggestion are disabled.
+urlbar-result-market-opt-in-title = Získejte data o akciových trzích přímo do vyhledávacího pole
+# This string is shown as button to activate online when realtime suggestion are disabled.
+urlbar-result-realtime-opt-in-allow = Povolit našeptávání
+# This string is shown in split button to dismiss activation the Realtime suggestion.
+urlbar-result-realtime-opt-in-not-now = Teď ne
+urlbar-result-realtime-opt-in-dismiss = Zavřít
+urlbar-result-realtime-opt-in-dismiss-all =
+    .label = Tyto návrhy nezobrazovat
+# This string is shown in the result menu.
+urlbar-result-menu-dont-show-market =
+    .label = Nezobrazovat návrhy z akciových trhů
+# A message that replaces a result when the user dismisses Market suggestions.
+urlbar-result-dismissal-acknowledgment-market = Děkujeme za vaši zpětnou vazbu. Návrhy z akciových trhů se vám už nebudou zobrazovat.
+
 ## Strings used for buttons in the urlbar
 
 # Label prompting user to search with a particular search engine.
