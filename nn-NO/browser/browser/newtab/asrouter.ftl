@@ -68,6 +68,7 @@ cfr-doorhanger-bookmark-fxa-link-text = Synkroniser bokmerke no…
 cfr-doorhanger-bookmark-fxa-close-btn-tooltip =
     .aria-label = Lat att-knapp
     .title = Lat att
+fxa-adoption-primary-button-label = Registrer deg
 
 ## Protections panel
 

@@ -329,3 +329,4 @@ contextual-manager-passwords-remove-all-passwords-checkbox =
         [1] Ja, fjern passordet
        *[other] Yes, remove passwords
     }
+contextual-manager-primary-password-learn-more-link = Les meir
