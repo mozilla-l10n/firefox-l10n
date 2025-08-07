@@ -51,3 +51,6 @@ experimental-features-link-previews-description-no-ai =
 experimental-features-newtab-sections-follow-block =
     .label = 主題區段與關注/封鎖新分頁文章
 experimental-features-newtab-sections-follow-block-description = 將「新分頁」頁面中的文章整理成不同主題區塊（體育、美食、娛樂等），讓您獲得更有條理的上網體驗。使用全新的關注或封鎖元件來自訂您要看到的內容。<a data-l10n-name="connect">分享意見回饋</a>
+# Firefox Web Apps
+experimental-features-fx-web-apps =
+    .label = 將網站新增至工具列

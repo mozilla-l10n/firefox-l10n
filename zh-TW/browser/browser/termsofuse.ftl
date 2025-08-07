@@ -11,3 +11,7 @@ existing-user-tou-message = <strong>更新</strong>我們推出了 { -brand-shor
 existing-user-tou-learn-more = 更多資訊
 # Text for primary button
 existing-user-tou-accept = 接受
+
+## Existing User Terms of Use Spotlight
+
+tou-existing-user-spotlight-remind-me-later = 待會提醒我
