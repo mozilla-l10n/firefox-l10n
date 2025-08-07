@@ -275,6 +275,10 @@ main-context-menu-image-info =
 main-context-menu-image-desc =
     .label = Дидани тавсиф
     .accesskey = Д
+# Variables
+#   $engine (String) - Name of the search engine that will perform the search.
+main-context-menu-visual-search =
+    .label = Ҷустуҷӯи тасвир тавассути { $engine }
 main-context-menu-video-save-as =
     .label = Нигоҳ доштани видео ҳамчун…
     .accesskey = Н

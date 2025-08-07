@@ -1332,6 +1332,7 @@ permissions-location = Ҷойгиршавӣ
 permissions-location-settings =
     .label = Танзимот…
     .accesskey = Т
+permissions-localhost = Барномаҳо ва хизматҳои дастгоҳ
 permissions-localhost-settings =
     .label = Танзимот…
     .accesskey = Т
