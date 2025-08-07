@@ -51,3 +51,6 @@ experimental-features-link-previews-description-no-ai =
 experimental-features-newtab-sections-follow-block =
     .label = Emneseksjonar og følg/blokker for artiklar på ny fane-sida
 experimental-features-newtab-sections-follow-block-description = Organiser artiklane på ny fane-sida di i emneseksjonar (sport, mat, underhaldning og meir) for ei meir strukturert og brukarvennleg oppleving. Bruk dei nye følg- og blokker-kontrollene våre for å tilpasse kva innhald du ser. <a data-l10n-name="connect">Del tilbakemeldingar</a>
+# Firefox Web Apps
+experimental-features-fx-web-apps =
+    .label = Legg til nettstadar på oppgåvelinja
