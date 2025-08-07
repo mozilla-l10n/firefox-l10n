@@ -804,6 +804,27 @@ urlbar-result-weather-title-city-only = <strong>{ $temperature } °{ $unit }</st
 #       name of a company, organization, or service.
 urlbar-result-weather-provider-sponsored = { $provider } ∙ Szponzorálva
 
+## These strings are used for Realtime suggestions in the urlbar.
+## Market refers to stocks, indexes, and funds.
+
+# This string is shown as title when Market suggestion are disabled.
+urlbar-result-market-opt-in-title = Szerezzen tőzsdei adatokat közvetlenül a keresősávban
+# This string is shown as button to activate online when realtime suggestion are disabled.
+urlbar-result-realtime-opt-in-allow = Javaslatok megjelenítése
+# This string is shown in split button to dismiss activation the Realtime suggestion.
+urlbar-result-realtime-opt-in-not-now = Most nem
+urlbar-result-realtime-opt-in-dismiss = Eltüntetés
+urlbar-result-realtime-opt-in-dismiss-all =
+    .label = Ne jelenítse meg ezeket a javaslatokat
+# This string is shown in the result menu.
+urlbar-result-menu-dont-show-market =
+    .label = Ne jelenítsen meg pénzpiaci javaslatokat
+# A message that replaces a result when the user dismisses Market suggestions.
+urlbar-result-dismissal-acknowledgment-market = Köszönjük a visszajelzését. Többé nem fogja látni az pénzpiaci javaslatokat.
+# A message that replaces a result when the user dismisses all suggestions of a
+# particular type.
+urlbar-result-dismissal-acknowledgment-all = Köszönjük a visszajelzését. Többé nem fogja látni ezeket a javaslatokat.
+
 ## Strings used for buttons in the urlbar
 
 # Label prompting user to search with a particular search engine.

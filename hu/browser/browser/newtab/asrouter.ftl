@@ -68,6 +68,8 @@ cfr-doorhanger-bookmark-fxa-link-text = Könyvjelzők szinkronizálása most…
 cfr-doorhanger-bookmark-fxa-close-btn-tooltip =
     .aria-label = Bezárás gomb
     .title = Bezárás
+fxa-adoption-addresses-backup-title = Készítsen biztonsági mentést a mentett címekről
+fxa-adoption-addresses-backup-subtitle = Védje meg a mentett címeit azáltal, hogy titkosítva szinkronizálja azokat az eszközeire.
 
 ## Protections panel
 
