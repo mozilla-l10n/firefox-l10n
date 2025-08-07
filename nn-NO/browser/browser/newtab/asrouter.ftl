@@ -71,6 +71,7 @@ cfr-doorhanger-bookmark-fxa-close-btn-tooltip =
 fxa-adoption-addresses-backup-title = La oss sikringskopiere dei lagra adressene dine
 fxa-adoption-addresses-backup-subtitle = Vern dei lagra adressene dine ved å synkronisere dei med einingane dine, med kryptering.
 fxa-adoption-credit-cards-backup-title = La oss sikringskopiere betalingsmåtane dine
+fxa-adoption-credit-cards-backup-subtitle = Vern betalingsmåtane dine ved å synkronisere dei med einingane dine, med kryptering.
 fxa-adoption-primary-button-label = Registrer deg
 
 ## Protections panel
