@@ -71,6 +71,7 @@ cfr-doorhanger-bookmark-fxa-close-btn-tooltip =
 fxa-adoption-addresses-backup-title = Készítsen biztonsági mentést a mentett címekről
 fxa-adoption-addresses-backup-subtitle = Védje meg a mentett címeit azáltal, hogy titkosítva szinkronizálja azokat az eszközeire.
 fxa-adoption-credit-cards-backup-title = Készítsen biztonsági mentést a fizetési módokról
+fxa-adoption-credit-cards-backup-subtitle = Védje meg a fizetési módjait azáltal, hogy titkosítva szinkronizálja azokat az eszközeire.
 
 ## Protections panel
 
