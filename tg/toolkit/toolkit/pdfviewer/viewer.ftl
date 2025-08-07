@@ -316,6 +316,10 @@ pdfjs-highlight-floating-button1 =
     .title = Ҷудокунӣ
     .aria-label = Ҷудокунӣ
 pdfjs-highlight-floating-button-label = Ҷудокунӣ
+pdfjs-comment-floating-button =
+    .title = Шарҳ
+    .aria-label = Шарҳ
+pdfjs-comment-floating-button-label = Шарҳ
 pdfjs-editor-signature-button =
     .title = Илова кардани имзо
 pdfjs-editor-signature-button-label = Илова кардани имзо
@@ -607,6 +611,21 @@ pdfjs-editor-add-signature-error-close-button = Пӯшидан
 pdfjs-editor-add-signature-cancel-button = Бекор кардан
 pdfjs-editor-add-signature-add-button = Илова кардан
 pdfjs-editor-edit-signature-update-button = Навсозӣ кардан
+
+##  Edit a comment dialog
+
+pdfjs-editor-edit-comment-actions-button-label = Амалҳо
+pdfjs-editor-edit-comment-actions-button =
+    .title = Амалҳо
+pdfjs-editor-edit-comment-close-button-label = Пӯшидан
+pdfjs-editor-edit-comment-close-button =
+    .title = Пӯшидан
+pdfjs-editor-edit-comment-actions-edit-button-label = Таҳрир кардан
+pdfjs-editor-edit-comment-actions-delete-button-label = Нест кардан
+pdfjs-editor-edit-comment-manager-text-input =
+    .placeholder = Шарҳи худро ворид кунед
+pdfjs-editor-edit-comment-manager-cancel-button = Бекор кардан
+pdfjs-editor-edit-comment-manager-save-button = Нигоҳ доштан
 
 ## Main menu for adding/removing signatures
 

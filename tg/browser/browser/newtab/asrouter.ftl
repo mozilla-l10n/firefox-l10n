@@ -68,6 +68,7 @@ cfr-doorhanger-bookmark-fxa-link-text = Хатбаракҳо ҳозир ҳамо
 cfr-doorhanger-bookmark-fxa-close-btn-tooltip =
     .aria-label = Тугмаи «Пӯшидан»
     .title = Пӯшидан
+fxa-adoption-primary-button-label = Бақайдгирӣ
 
 ## Protections panel
 
