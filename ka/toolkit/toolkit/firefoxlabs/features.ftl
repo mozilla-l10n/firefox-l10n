@@ -54,3 +54,5 @@ experimental-features-newtab-sections-follow-block-description = დაალა
 # Firefox Web Apps
 experimental-features-fx-web-apps =
     .label = დაამატეთ საიტები ამოცანათა ზოლზე
+# “Add tab to taskbar” is found in the tooltip text of `-taskbar-tab-urlbar-button-open`.
+experimental-features-fx-web-apps-description = გახსენით საიტები, რომელთაც ხშირად სტუმრობთ, ვებპროგრამის მსგავსად პირდაპირ ამოცანათა ზოლიდან. მონახეთ ხატულა „ჩანართის დამატება ამოცანათა ზოლზე“ მისამართების ველის მარჯვნივ, რომ გაუშვათ საიტი სადა ფანჯარაში ყველა იმ დაცვის საშუალებებით, რომელთაც გთავაზობთ { -brand-product-name }.  <a data-l10n-name="connect">გამოგვეხმაურეთ</a>
