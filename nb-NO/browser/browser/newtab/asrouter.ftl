@@ -171,7 +171,7 @@ mr2022-background-update-toast-primary-button-label = Åpne { -brand-shorter-nam
 # Windows. Try to not exceed the width of the English text (compare it using a
 # variable font like Arial): the button can only fit 1-2 additional characters,
 # exceeding characters will be truncated.
-mr2022-background-update-toast-secondary-button-label = Påminn senere
+mr2022-background-update-toast-secondary-button-label = Minn meg på det senere
 
 ## Firefox View CFR
 
@@ -236,8 +236,8 @@ fxa-sync-cfr-header = Planlegger du å kjøpe en ny enhet i fremtiden?
 fxa-sync-cfr-body = Sørg for at de nyeste bokmerkene, passordene og fanene dine følger med deg hver gang du åpner en ny { -brand-product-name }-nettleser.
 fxa-sync-cfr-primary = Les mer
     .accesskey = L
-fxa-sync-cfr-secondary = Påminn senere
-    .accesskey = P
+fxa-sync-cfr-secondary = Minn meg på det senere
+    .accesskey = p
 
 ## Device Migration FxA Spotlight
 
@@ -359,4 +359,4 @@ windows-10-eos-sync-spotlight-primary-label = Sikkerhetskopier din { -brand-shor
 windows-10-eos-sync-toast-title = Oppgraderer du til Windows 11? Ikke mist bokmerker og passord.
 windows-10-eos-sync-toast-subtitle = Sikkerhetskopier dataene dine slik at { -brand-short-name } er klar til bruk når som helst, på denne PC-en eller den neste.
 windows-10-eos-sync-toast-primary-label = Kom i gang
-windows-10-eos-sync-toast-secondary-label = Minn meg på senere
+windows-10-eos-sync-toast-secondary-label = Minn meg på det senere
