@@ -608,4 +608,3 @@ newtab-trending-searches-learn-more = Ulteriori informazioni
 newtab-trending-searches-dismiss = Nascondi ricerche di tendenza
 # "Trending searches refers to popular searches from search engines
 newtab-trending-searches-title = Ricerche di tendenza
-
