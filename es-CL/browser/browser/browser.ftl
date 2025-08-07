@@ -804,6 +804,29 @@ urlbar-result-weather-title-city-only = <strong>{ $temperature }°{ $unit }</str
 #       name of a company, organization, or service.
 urlbar-result-weather-provider-sponsored = { $provider } · Patrocinado
 
+## These strings are used for Realtime suggestions in the urlbar.
+## Market refers to stocks, indexes, and funds.
+
+# This string is shown as title when Market suggestion are disabled.
+urlbar-result-market-opt-in-title = Obtén datos del mercado de valores directamente en tu barra de búsqueda
+# This string is shown as description when Market suggestion are disabled.
+urlbar-result-market-opt-in-description = Muestra actualizaciones del mercado y más de nuestros socios al compartir datos de consultas de búsqueda con { -vendor-short-name }. <a data-l10n-name="learn-more-link">Aprender más</a>
+# This string is shown as button to activate online when realtime suggestion are disabled.
+urlbar-result-realtime-opt-in-allow = Mostrar sugerencias
+# This string is shown in split button to dismiss activation the Realtime suggestion.
+urlbar-result-realtime-opt-in-not-now = Ahora no
+urlbar-result-realtime-opt-in-dismiss = Ocultar
+urlbar-result-realtime-opt-in-dismiss-all =
+    .label = No mostrar estas sugerencias
+# This string is shown in the result menu.
+urlbar-result-menu-dont-show-market =
+    .label = No mostrar sugerencias de mercado
+# A message that replaces a result when the user dismisses Market suggestions.
+urlbar-result-dismissal-acknowledgment-market = Gracias por tu opinión. Ya no verás sugerencias de mercado.
+# A message that replaces a result when the user dismisses all suggestions of a
+# particular type.
+urlbar-result-dismissal-acknowledgment-all = Gracias por tu opinión. Ya no verás estas sugerencias.
+
 ## Strings used for buttons in the urlbar
 
 # Label prompting user to search with a particular search engine.

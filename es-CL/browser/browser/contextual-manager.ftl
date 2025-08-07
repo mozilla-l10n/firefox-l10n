@@ -18,6 +18,7 @@ contextual-manager-passwords-command-import-from-browser = Importar desde otro n
 contextual-manager-passwords-command-import = Importar desde un archivo…
 contextual-manager-passwords-command-export = Exportar contraseñas
 contextual-manager-passwords-command-remove-all = Eliminar todas las contraseñas
+contextual-manager-passwords-command-options = Opciones
 contextual-manager-passwords-command-settings = Ajustes
 contextual-manager-passwords-command-help = Ayuda
 contextual-manager-passwords-os-auth-dialog-caption = { -brand-full-name }
@@ -162,6 +163,8 @@ contextual-manager-passwords-password-already-exists-error-button = Ir a la cont
 contextual-manager-passwords-update-password-success-heading =
     .heading = Contraseña guardada
 contextual-manager-passwords-update-password-success-button = Hecho
+contextual-manager-passwords-update-username-success-heading-2 =
+    .heading = Nombre de usuario añadido
 contextual-manager-passwords-update-username-success-heading =
     .heading = Nombre de usuario guardado
 # Message to confirm successful removal of a password/passwords.
@@ -216,12 +219,15 @@ contextual-manager-passwords-title = Contraseñas
 
 contextual-manager-passwords-create-label =
     .label = Añadir contraseña
+contextual-manager-passwords-update-label =
+    .label = Actualizar contraseña
 contextual-manager-passwords-edit-label =
     .label = Editar contraseña
 contextual-manager-passwords-remove-label =
     .title = Eliminar contraseña
 contextual-manager-passwords-origin-tooltip = Introduce la dirección exacta donde te conectarás a este sitio.
 contextual-manager-passwords-username-tooltip = Ingresa el nombre de usuario, la dirección de correo electrónico o el número de cuenta que utilizas para conectarte.
+contextual-manager-passwords-password-tooltip-2 = Introduce la contraseña para conectarte con esta cuenta.
 contextual-manager-passwords-password-tooltip = Introduce la contraseña utilizada para conectarte con esta cuenta.
 
 ## Password Card
@@ -300,6 +306,7 @@ contextual-manager-hide-password-button =
 # The message displayed when the search text does not match any of the user's saved logins.
 contextual-manager-passwords-no-passwords-found-header =
     .heading = No se encontraron contraseñas
+contextual-manager-passwords-no-passwords-found-message-2 = Prueba con un término diferente y busca nuevamente.
 contextual-manager-passwords-no-passwords-found-message = No se encontraron contraseñas. Busca otro término y vuelve a intentarlo.
 
 ## When the user has no saved passwords, we display the following messages to inform the user they can save
@@ -314,6 +321,8 @@ contextual-manager-passwords-no-passwords-message = Todas las contraseñas está
 contextual-manager-passwords-no-passwords-get-started-message = Añádelos acá para empezar.
 # This string is displayed in a button. If the user clicks it, they will be taken to a form to create a new password.
 contextual-manager-passwords-add-manually = Añadir manualmente
+# This string encourages the user to save their passwords in Firefox (the "safe spot").
+contextual-manager-passwords-no-passwords-header-2 = Guarda tus contraseñas en un lugar seguro
 
 ## When the user cancels a login that's currently being edited, we display a message to confirm whether
 ## or not the user wants to discard their current edits to the login.

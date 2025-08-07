@@ -608,6 +608,17 @@ pdfjs-editor-add-signature-cancel-button = Cancelar
 pdfjs-editor-add-signature-add-button = Añadir
 pdfjs-editor-edit-signature-update-button = Actualizar
 
+##  Edit a comment dialog
+
+pdfjs-editor-edit-comment-actions-button-label = Acciones
+pdfjs-editor-edit-comment-actions-button =
+    .title = Acciones
+pdfjs-editor-edit-comment-close-button-label = Cerrar
+pdfjs-editor-edit-comment-close-button =
+    .title = Cerrar
+pdfjs-editor-edit-comment-actions-edit-button-label = Editar
+pdfjs-editor-edit-comment-actions-delete-button-label = Eliminar
+
 ## Main menu for adding/removing signatures
 
 pdfjs-editor-delete-signature-button1 =
