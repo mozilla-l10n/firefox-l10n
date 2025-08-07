@@ -141,6 +141,10 @@ urlbar-default-notification-anchor =
     .tooltiptext = Ansicht mit Benachrichtigung öffnen
 urlbar-geolocation-notification-anchor =
     .tooltiptext = Ansicht mit Standortanfrage öffnen
+urlbar-localhost-notification-anchor =
+    .tooltiptext = Zugriff auf lokale Geräte für diese Website verwalten
+urlbar-local-network-notification-anchor =
+    .tooltiptext = Verwalten des Zugriffs auf Ihr lokales Netzwerk durch diese Website
 urlbar-xr-notification-anchor =
     .tooltiptext = Ansicht für VR-Zugriff (Virtuelle Realität) öffnen
 urlbar-storage-access-anchor =
@@ -207,6 +211,9 @@ urlbar-result-menu-show-less-frequently =
     .label = Seltener anzeigen
 urlbar-result-menu-dont-show-weather-suggestions =
     .label = Keine Wettervorschläge anzeigen
+# Used for Split Button.
+urlbar-splitbutton-dropmarker =
+    .title = Menü öffnen
 # A message shown in the urlbar when the user submits feedback on a suggestion
 # (e.g., it shows an inaccurate location, it's shown too often, etc.).
 urlbar-feedback-acknowledgment = Danke für Ihre Rückmeldung!
@@ -238,6 +245,10 @@ urlbar-search-mode-actions = Aktionen
 
 urlbar-geolocation-blocked =
     .tooltiptext = Sie haben den Zugriff auf Ihren Standort durch diese Website blockiert.
+urlbar-localhost-blocked =
+    .tooltiptext = Sie haben Verbindungen zu lokalen Geräten für diese Webseite blockiert.
+urlbar-local-network-blocked =
+    .tooltiptext = Sie haben Verbindungen zum lokalen Netzwerk für diese Webseite blockiert.
 urlbar-xr-blocked =
     .tooltiptext = Sie haben den Zugriff auf VR-Geräte durch diese Website blockiert.
 urlbar-web-notifications-blocked =
@@ -790,6 +801,29 @@ urlbar-result-weather-title-city-only = <strong>{ $temperature }°{ $unit }</str
 #       name of a company, organization, or service.
 urlbar-result-weather-provider-sponsored = { $provider } · Gesponsert
 
+## These strings are used for Realtime suggestions in the urlbar.
+## Market refers to stocks, indexes, and funds.
+
+# This string is shown as title when Market suggestion are disabled.
+urlbar-result-market-opt-in-title = Holen Sie sich Aktiendaten direkt in Ihre Suchleiste
+# This string is shown as description when Market suggestion are disabled.
+urlbar-result-market-opt-in-description = ´Markt-Updates und mehr von unseren Partnern anzeigen, wenn Sie Suchanfragedaten mit { -vendor-short-name } teilen. <a data-l10n-name="learn-more-link">Weitere Informationen</a>
+# This string is shown as button to activate online when realtime suggestion are disabled.
+urlbar-result-realtime-opt-in-allow = Vorschläge anzeigen
+# This string is shown in split button to dismiss activation the Realtime suggestion.
+urlbar-result-realtime-opt-in-not-now = Nicht jetzt
+urlbar-result-realtime-opt-in-dismiss = Schließen
+urlbar-result-realtime-opt-in-dismiss-all =
+    .label = Diese Vorschläge nicht anzeigen
+# This string is shown in the result menu.
+urlbar-result-menu-dont-show-market =
+    .label = Marktvorschläge nicht anzeigen
+# A message that replaces a result when the user dismisses Market suggestions.
+urlbar-result-dismissal-acknowledgment-market = Danke für Ihr Feedback. Marktvorschläge werden nicht mehr angezeigt.
+# A message that replaces a result when the user dismisses all suggestions of a
+# particular type.
+urlbar-result-dismissal-acknowledgment-all = Danke für Ihr Feedback. Diese Vorschläge werden nicht mehr angezeigt.
+
 ## Strings used for buttons in the urlbar
 
 # Label prompting user to search with a particular search engine.
@@ -823,6 +857,8 @@ urlbar-searchmode-default =
 urlbar-searchmode-popup-description = Einmalig suchen mit:
 urlbar-searchmode-popup-search-settings-menuitem =
     .label = Sucheinstellungen
+# Label shown next to a new search engine in the Searchmode Switcher popup to promote it.
+urlbar-searchmode-new = Neu
 # Searchmode Switcher button
 # Variables:
 #   $engine (String): the current default search engine.
@@ -1149,6 +1185,10 @@ tabs-toolbar-new-tab =
 tabs-toolbar-list-all-tabs =
     .label = Alle Tabs auflisten
     .tooltiptext = Alle Tabs auflisten
+
+## Drop indicator text for pinned tabs when no tabs are pinned.
+
+pinned-tabs-drop-indicator = Tab zum Anheften hier loslassen
 
 ## Infobar shown at startup to suggest session-restore
 

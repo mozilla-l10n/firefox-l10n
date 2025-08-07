@@ -19,7 +19,7 @@ error-long-desc1 = Roboter kan ikke skade et menneske, eller gjennom uvirksomhet
 # Movie: Blade Runner. Batty: "I've seen things you people wouldn’t believe..."
 error-long-desc2 = Roboter har sett ting som dere mennesker ikke vil tro.
 # Book: Hitchhiker’s Guide To The Galaxy. What the Sirius Cybernetics Corporation calls robots.
-error-long-desc3 = Roboter er plastikkvennen som det er moro å være sammen med
+error-long-desc3 = Roboter er din plastvenn som det er gøy å være sammen med.
 # TV: Futurama. Bender's first line is "Bite my shiny metal ass."
 error-long-desc4 = Roboter har skinnende bakdeler som helst ikke skal bites.
 # TV: Battlestar Galactica (2004 series). From the opening text.

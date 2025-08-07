@@ -125,11 +125,13 @@ addon-install-error-corrupt-file = Das von dieser Seite heruntergeladene Add-on 
 addon-install-error-file-access = { $addonName } konnte nicht installiert werden, da { -brand-short-name } die benötigte Datei nicht verändern kann.
 addon-install-error-not-signed = { -brand-short-name } hat diese Website am Installieren eines nicht verifizierten Add-ons gehindert.
 addon-install-error-invalid-domain = Das Add-on { $addonName } kann von diesem Speicherort nicht installiert werden.
+addon-install-error-no-addon-name-file-access = Das Add-on konnte nicht installiert werden, da { -brand-short-name } die benötigte Datei nicht verändern kann.
 addon-local-install-error-network-failure = Dieses Add-on konnte wegen eines Dateisystem-Fehlers nicht installiert werden.
 addon-local-install-error-incorrect-hash = Dieses Add-on konnte nicht installiert werden, da es nicht das von { -brand-short-name } erwartete Add-on ist.
 addon-local-install-error-corrupt-file = Dieses Add-on konnte nicht installiert werden, da es beschädigt zu sein scheint.
 addon-local-install-error-file-access = { $addonName } konnte nicht installiert werden, da { -brand-short-name } die benötigte Datei nicht verändern kann.
 addon-local-install-error-not-signed = Dieses Add-on konnte nicht installiert werden, da es nicht verifiziert wurde.
+addon-local-install-no-addon-name-error-file-access = Das Add-on konnte nicht installiert werden, da { -brand-short-name } die benötigte Datei nicht verändern kann.
 # Variables:
 #   $appVersion (String): the application version.
 addon-install-error-incompatible = { $addonName } konnte nicht installiert werden, da es nicht mit { -brand-short-name } { $appVersion } kompatibel ist.
