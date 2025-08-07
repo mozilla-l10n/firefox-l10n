@@ -298,9 +298,13 @@ pdfjs-web-fonts-disabled = Les polices web sont désactivées : impossible d’
 
 pdfjs-editor-free-text-button =
     .title = Texte
+pdfjs-editor-color-picker-free-text-input =
+    .title = Changer la couleur du texte
 pdfjs-editor-free-text-button-label = Texte
 pdfjs-editor-ink-button =
     .title = Dessiner
+pdfjs-editor-color-picker-ink-input =
+    .title = Changer la couleur pour dessiner
 pdfjs-editor-ink-button-label = Dessiner
 pdfjs-editor-stamp-button =
     .title = Ajouter ou modifier des images
@@ -600,6 +604,8 @@ pdfjs-editor-add-signature-save-checkbox = Enregistrer la signature
 pdfjs-editor-add-signature-save-warning-message = Vous avez atteint la limite de 5 signatures enregistrées. Supprimez-en une pour en enregistrer une autre.
 pdfjs-editor-add-signature-image-upload-error-title = Impossible d’envoyer l’image
 pdfjs-editor-add-signature-image-upload-error-description = Vérifiez votre connexion réseau ou essayez avec une autre image.
+pdfjs-editor-add-signature-image-no-data-error-title = Impossible de convertir cette image en signature
+pdfjs-editor-add-signature-image-no-data-error-description = Veuillez essayer d’envoyer une autre image.
 pdfjs-editor-add-signature-error-close-button = Fermer
 
 ## Dialog buttons
@@ -611,7 +617,11 @@ pdfjs-editor-edit-signature-update-button = Mettre à jour
 ##  Edit a comment dialog
 
 pdfjs-editor-edit-comment-actions-button-label = Actions
+pdfjs-editor-edit-comment-actions-button =
+    .title = Actions
 pdfjs-editor-edit-comment-close-button-label = Fermer
+pdfjs-editor-edit-comment-close-button =
+    .title = Fermer
 pdfjs-editor-edit-comment-actions-edit-button-label = Modifier
 pdfjs-editor-edit-comment-actions-delete-button-label = Supprimer
 pdfjs-editor-edit-comment-manager-text-input =

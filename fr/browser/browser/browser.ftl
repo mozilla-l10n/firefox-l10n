@@ -799,6 +799,8 @@ urlbar-result-weather-provider-sponsored = { $provider } · Sponsorisé
 ## These strings are used for Realtime suggestions in the urlbar.
 ## Market refers to stocks, indexes, and funds.
 
+# This string is shown as title when Market suggestion are disabled.
+urlbar-result-market-opt-in-title = Les informations boursières directement dans votre barre de recherche
 # This string is shown as button to activate online when realtime suggestion are disabled.
 urlbar-result-realtime-opt-in-allow = Afficher les suggestions
 # This string is shown in split button to dismiss activation the Realtime suggestion.
