@@ -197,11 +197,21 @@ addon-install-error-not-signed =
        *[other] Aplikace { -brand-short-name } zabránila tomuto serveru v instalaci neověřeného doplňku.
     }
 addon-install-error-invalid-domain = Doplněk { $addonName } nelze z této adresy nainstalovat.
+addon-install-error-no-addon-name-file-access =
+    { -brand-short-name.case-status ->
+        [with-cases] Doplněk nemohl být nainstalován, protože { -brand-short-name } nemůže upravit potřebný soubor.
+       *[no-cases] Doplněk nemohl být nainstalován, protože aplikace { -brand-short-name } nemůže upravit potřebný soubor.
+    }
 addon-local-install-error-network-failure = Tento doplněk nemohl být nainstalován z důvodu chyby souborového systému.
 addon-local-install-error-incorrect-hash = Tento doplněk nemohl být nainstalován, protože neodpovídá doplňku, který { -brand-short-name } očekává.
 addon-local-install-error-corrupt-file = Tento doplněk nemohl být nainstalován, protože je poškozený.
 addon-local-install-error-file-access = Doplněk { $addonName } nemohl být nainstalován, protože { -brand-short-name } nemůže upravit potřebný soubor.
 addon-local-install-error-not-signed = Tento doplněk nemohl být nainstalován, protože nebyl ověřen.
+addon-local-install-no-addon-name-error-file-access =
+    { -brand-short-name.case-status ->
+        [with-cases] Doplněk nemohl být nainstalován, protože { -brand-short-name } nemůže upravit potřebný soubor.
+       *[no-cases] Doplněk nemohl být nainstalován, protože aplikace { -brand-short-name } nemůže upravit potřebný soubor.
+    }
 # Variables:
 #   $appVersion (String): the application version.
 addon-install-error-incompatible =

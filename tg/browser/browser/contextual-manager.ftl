@@ -298,6 +298,7 @@ contextual-manager-hide-password-button =
 # The message displayed when the search text does not match any of the user's saved logins.
 contextual-manager-passwords-no-passwords-found-header =
     .heading = Ягон ниҳонвожа ёфт нашуд
+contextual-manager-passwords-no-passwords-found-message-2 = Калидвожаи дигареро кӯшиш карда, аз нав ҷустуҷӯ кунед.
 contextual-manager-passwords-no-passwords-found-message = Ягон ниҳонвожа ёфт нашуд. Вожаи дигареро ҷустуҷӯ кунед ва аз нав кӯшиш намоед.
 
 ## When the user has no saved passwords, we display the following messages to inform the user they can save
@@ -312,6 +313,8 @@ contextual-manager-passwords-no-passwords-message = Ҳамаи ниҳонвож�
 contextual-manager-passwords-no-passwords-get-started-message = Барои оғози кор, онҳоро дар ин ҷой илова намоед.
 # This string is displayed in a button. If the user clicks it, they will be taken to a form to create a new password.
 contextual-manager-passwords-add-manually = Ба таври дастӣ илова кардан
+# This string encourages the user to save their passwords in Firefox (the "safe spot").
+contextual-manager-passwords-no-passwords-header-2 = Ниҳонвожаҳои худро дар ҷойи бехатар нигоҳ доред
 
 ## When the user cancels a login that's currently being edited, we display a message to confirm whether
 ## or not the user wants to discard their current edits to the login.

@@ -302,9 +302,13 @@ pdfjs-web-fonts-disabled = Шрифтҳои интернетӣ ғайрифаъ�
 
 pdfjs-editor-free-text-button =
     .title = Матн
+pdfjs-editor-color-picker-free-text-input =
+    .title = Иваз кардани ранги матн
 pdfjs-editor-free-text-button-label = Матн
 pdfjs-editor-ink-button =
     .title = Расмкашӣ
+pdfjs-editor-color-picker-ink-input =
+    .title = Иваз кардани ранги расмкашӣ
 pdfjs-editor-ink-button-label = Расмкашӣ
 pdfjs-editor-stamp-button =
     .title = Илова ё таҳрир кардани тасвирҳо
@@ -604,6 +608,7 @@ pdfjs-editor-add-signature-save-checkbox = Нигоҳ доштани имзо
 pdfjs-editor-add-signature-save-warning-message = Шумо ба ҳадди 5 имзои нигоҳдошташуда расидед. Барои нигоҳ доштани имзои нав, яке аз имзоҳои нигоҳдошташударо тоза намоед.
 pdfjs-editor-add-signature-image-upload-error-title = Тасвир бор карда нашуд
 pdfjs-editor-add-signature-image-upload-error-description = Пайвастшавии шабакаи худро санҷед ё тасвири дигареро кӯшиш кунед.
+pdfjs-editor-add-signature-image-no-data-error-description = Лутфан, кӯшиш кунед, ки тасвири дигареро бор намоед.
 pdfjs-editor-add-signature-error-close-button = Пӯшидан
 
 ## Dialog buttons

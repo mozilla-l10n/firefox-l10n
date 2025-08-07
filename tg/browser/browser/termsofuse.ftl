@@ -11,3 +11,7 @@ existing-user-tou-message = <strong>Тағйиру иловаҳо</strong> Мо 
 existing-user-tou-learn-more = Маълумоти бештар
 # Text for primary button
 existing-user-tou-accept = Қабул кардан
+
+## Existing User Terms of Use Spotlight
+
+tou-existing-user-spotlight-remind-me-later = Баъдтар ёдоварӣ кунед
