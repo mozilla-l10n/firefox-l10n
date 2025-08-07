@@ -222,6 +222,7 @@ contextual-manager-passwords-remove-label =
     .title = Fjern passord
 contextual-manager-passwords-origin-tooltip = Skriv inn den nøyaktige adressa du brukar for å logge inn på denne nettstaden.
 contextual-manager-passwords-username-tooltip = Skriv inn brukarnamnet, e-postadressa eller kontonummeret du brukar for å logge på.
+contextual-manager-passwords-password-tooltip-2 = Skriv inn passordet for å logge inn på denne kontoen.
 contextual-manager-passwords-password-tooltip = Skriv inn passordet du brukar for å logge inn på denne kontoen.
 
 ## Password Card
@@ -314,6 +315,8 @@ contextual-manager-passwords-no-passwords-message = Alle passord er krypterte, o
 contextual-manager-passwords-no-passwords-get-started-message = Legg dei til her for å kome i gang.
 # This string is displayed in a button. If the user clicks it, they will be taken to a form to create a new password.
 contextual-manager-passwords-add-manually = Legg til manuelt
+# This string encourages the user to save their passwords in Firefox (the "safe spot").
+contextual-manager-passwords-no-passwords-header-2 = Lagre passorda dine på ein trygg stad
 
 ## When the user cancels a login that's currently being edited, we display a message to confirm whether
 ## or not the user wants to discard their current edits to the login.
