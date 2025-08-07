@@ -806,6 +806,20 @@ urlbar-result-weather-provider-sponsored = { $provider } · Patrocinado
 
 # This string is shown as title when Market suggestion are disabled.
 urlbar-result-market-opt-in-title = Obtenha dados do mercado de ações diretamente na barra de pesquisa
+# This string is shown as description when Market suggestion are disabled.
+urlbar-result-market-opt-in-description = Mostrar novidades do mercado financeiro e muito mais de nossos parceiros ao compartilhar dados de consultas de pesquisa com a { -vendor-short-name }. <a data-l10n-name="learn-more-link">Saiba mais</a>
+# This string is shown as button to activate online when realtime suggestion are disabled.
+urlbar-result-realtime-opt-in-allow = Mostrar sugestões
+# This string is shown in split button to dismiss activation the Realtime suggestion.
+urlbar-result-realtime-opt-in-not-now = Agora não
+urlbar-result-realtime-opt-in-dismiss = Descartar
+urlbar-result-realtime-opt-in-dismiss-all =
+    .label = Não mostrar essas sugestões
+# This string is shown in the result menu.
+urlbar-result-menu-dont-show-market =
+    .label = Não mostrar sugestões do mercado financeiro
+# A message that replaces a result when the user dismisses Market suggestions.
+urlbar-result-dismissal-acknowledgment-market = Obrigado por sua opinião. Não aparecerão mais sugestões do mercado financeiro para você.
 
 ## Strings used for buttons in the urlbar
 
