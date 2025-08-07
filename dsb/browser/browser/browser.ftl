@@ -812,6 +812,12 @@ urlbar-result-weather-title-city-only = <strong>{ $temperature }°{ $unit }</str
 #       name of a company, organization, or service.
 urlbar-result-weather-provider-sponsored = { $provider } · Sponserowany
 
+## These strings are used for Realtime suggestions in the urlbar.
+## Market refers to stocks, indexes, and funds.
+
+# This string is shown as title when Market suggestion are disabled.
+urlbar-result-market-opt-in-title = Wobstarajśo se daty akcijowych wikow direktnje w pytańskem pólu
+
 ## Strings used for buttons in the urlbar
 
 # Label prompting user to search with a particular search engine.

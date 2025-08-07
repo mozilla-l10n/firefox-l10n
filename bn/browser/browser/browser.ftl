@@ -200,6 +200,15 @@ urlbar-result-menu-report-inaccurate-location =
     .label = ভুল লোকেশন রিপোর্ট করুন
 urlbar-result-menu-show-less-frequently =
     .label = কম ঘন ঘন দেখান
+# Used for Split Button.
+urlbar-splitbutton-dropmarker =
+    .title = মেনু খুলুন
+# A message shown in the urlbar when the user submits feedback on a suggestion
+# (e.g., it shows an inaccurate location, it's shown too often, etc.).
+urlbar-feedback-acknowledgment = আপনার মতামতের জন্য ধন্যবাদ
+# A message shown in the urlbar when the user dismisses weather suggestions.
+# Weather suggestions won't be shown at all anymore.
+urlbar-dismissal-acknowledgment-weather = আপনার প্রতিক্রিয়ার জন্য ধন্যবাদ। এখন থেকে আপনি আর আবহাওয়ার সুপারিশ দেখতে পাবেন না।
 
 ## Prompts users to use the Urlbar when they open a new tab or visit the
 ## homepage of their default search engine.
@@ -225,6 +234,10 @@ urlbar-search-mode-actions = অ্যাকশন
 
 urlbar-geolocation-blocked =
     .tooltiptext = আপনি এই ওয়েবসাইটের জন্য অবস্থানগত তথ্য ব্লক করেছেন
+urlbar-localhost-blocked =
+    .tooltiptext = আপনি এই ওয়েবসাইটের জন্য লোকাল ডিভাইস সংযোগ বন্ধ করেছেন।
+urlbar-local-network-blocked =
+    .tooltiptext = আপনি এই ওয়েবসাইটের জন্য লোকাল নেটওয়ার্ক সংযোগ বন্ধ করেছেন।
 urlbar-xr-blocked =
     .tooltiptext = আপনি এই ওয়েবসাইটের জন্য ভার্চুয়াল রিয়েলিটি ডিভাইস এক্সেস ব্লক করেছেন।
 urlbar-web-notifications-blocked =
@@ -335,6 +348,8 @@ quickactions-cmd-addons2 = অ্যাড-অন
 # Opens the bookmarks library window
 quickactions-bookmarks2 = বুকমার্ক পরিচালনা করুন
 quickactions-cmd-bookmarks = বুকমার্ক
+# Opens a SUMO article explaining how to clear history
+quickactions-clearrecenthistory = সাম্প্রতিক ইতিহাস মুছে ফেলুন
 # Opens a SUMO article explaining how to clear history
 quickactions-clearhistory = ইতিহাস সাফ করুন
 quickactions-cmd-clearhistory = ইতিহাস পরিষ্কার করুন
