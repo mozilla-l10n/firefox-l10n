@@ -54,3 +54,5 @@ experimental-features-newtab-sections-follow-block-description = 將「新分頁
 # Firefox Web Apps
 experimental-features-fx-web-apps =
     .label = 將網站新增至工具列
+# “Add tab to taskbar” is found in the tooltip text of `-taskbar-tab-urlbar-button-open`.
+experimental-features-fx-web-apps-description = 將您常造訪的網站放置於工具列，以網頁應用程式方式開啟。可尋找網址列右方的「將分頁新增至工具列」圖示，即可以流線化的視窗開啟該網站，並依然獲得 { -brand-product-name } 的所有保護機制。<a data-l10n-name="connect">分享意見回饋</a>

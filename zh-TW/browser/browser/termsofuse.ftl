@@ -14,4 +14,6 @@ existing-user-tou-accept = 接受
 
 ## Existing User Terms of Use Spotlight
 
+# Full Spotlight body message, with inline links to the Terms of Use, Privacy Notice, and Learn More FAQ that will be added at runtime.
+tou-existing-user-spotlight-body = 我們推出了<a data-l10n-name="terms-of-use">使用條款</a>並且更新了<a data-l10n-name="privacy-notice">隱私權公告</a>。<br><br>請花一些時間閱讀內容並且接受。<a data-l10n-name="learn-more">更多資訊</a>。
 tou-existing-user-spotlight-remind-me-later = 待會提醒我

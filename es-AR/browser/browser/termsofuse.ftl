@@ -11,3 +11,9 @@ existing-user-tou-message = <strong>Actualización</strong> Introdujimos <a data
 existing-user-tou-learn-more = Conocer más
 # Text for primary button
 existing-user-tou-accept = Aceptar
+
+## Existing User Terms of Use Spotlight
+
+# Full Spotlight body message, with inline links to the Terms of Use, Privacy Notice, and Learn More FAQ that will be added at runtime.
+tou-existing-user-spotlight-body = Introducimos <a data-l10n-name="terms-of-use">Términos de uso</a> y actualizamos nuestra <a data-l10n-name="privacy-notice">Nota de privacidad</a >.<br><br> Tómese un momento para revisar y aceptar. <a data-l10n-name="learn-more">Conocer más</a>.
+tou-existing-user-spotlight-remind-me-later = Recordarme más tarde

@@ -127,12 +127,48 @@ hammer-avatar-alt =
     .alt = ჩაქუჩი
 heart-avatar-alt =
     .alt = გული
+heart-rate-avatar-alt =
+    .alt = გულისცემა
+history-avatar-alt =
+    .alt = ისტორია
+leaf-avatar-alt =
+    .alt = ფოთოლი
+lightbulb-avatar-alt =
+    .alt = ნათურა
+makeup-avatar-alt =
+    .alt = საცხი
+# Message refers to a text message, not a traditional letter/envelope message
+message-avatar-alt =
+    .alt = შეტყობინება
+musical-note-avatar-alt =
+    .alt = მუსიკალური ნოტი
+palette-avatar-alt =
+    .alt = საღებავების დაფა
+paw-print-avatar-alt =
+    .alt = თათის ანაბეჭდი
+plane-avatar-alt =
+    .alt = თვითმფრინავი
+# Present refers to a gift box, not the current time period
+present-avatar-alt =
+    .alt = საჩუქარი
 shopping-avatar-alt =
     .alt = საყიდლების კალათა
+soccer-avatar-alt =
+    .alt = ფეხბურთი
+sparkle-single-avatar-alt =
+    .alt = ნაპერწკალი
 star-avatar-alt =
     .alt = ვარსკვლავი
+video-game-controller-avatar-alt =
+    .alt = ვიდეოთამაშის სამართავი
 custom-avatar-alt =
     .alt = მორგებული გამოსახულება
+# Default favicon refers to the generic globe/world icon that appears in browser tabs when a website doesn't have its own favicon.
+default-favicon-avatar-alt =
+    .alt = ნაგულისხმევი ხატულა
+# Diamond refers to the precious stone, not the geometric shape
+diamond-avatar-alt =
+    .alt = ალმასი
 
 ## Labels for default avatar icons
 
