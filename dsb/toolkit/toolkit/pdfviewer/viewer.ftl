@@ -615,6 +615,7 @@ pdfjs-editor-add-signature-save-warning-message = Sćo dojśpił limit 5 skłaź
 pdfjs-editor-add-signature-image-upload-error-title = Wobraz njedajo se nagraś
 pdfjs-editor-add-signature-image-upload-error-description = Pśeglědajśo swój seśowy zwisk abo wopytajśo drugi wobraz.
 pdfjs-editor-add-signature-image-no-data-error-title = Toś ten wobraz njedajo se do signatury pśetwóriś
+pdfjs-editor-add-signature-image-no-data-error-description = Wopytajśo pšosym drugi wobraz nagraś.
 pdfjs-editor-add-signature-error-close-button = Zacyniś
 
 ## Dialog buttons
@@ -622,6 +623,26 @@ pdfjs-editor-add-signature-error-close-button = Zacyniś
 pdfjs-editor-add-signature-cancel-button = Pśetergnuś
 pdfjs-editor-add-signature-add-button = Pśidaś
 pdfjs-editor-edit-signature-update-button = Aktualizěrowaś
+
+##  Edit a comment dialog
+
+pdfjs-editor-edit-comment-actions-button-label = Akcije
+pdfjs-editor-edit-comment-actions-button =
+    .title = Akcije
+pdfjs-editor-edit-comment-close-button-label = Zacyniś
+pdfjs-editor-edit-comment-close-button =
+    .title = Zacyniś
+pdfjs-editor-edit-comment-actions-edit-button-label = Wobźěłaś
+pdfjs-editor-edit-comment-actions-delete-button-label = Lašowaś
+pdfjs-editor-edit-comment-manager-text-input =
+    .placeholder = Zapódajśo swój komentar
+pdfjs-editor-edit-comment-manager-cancel-button = Pśetergnuś
+pdfjs-editor-edit-comment-manager-save-button = Składowaś
+
+## Edit a comment button in the editor toolbar
+
+pdfjs-editor-edit-comment-button =
+    .title = Komentar wobźěłaś
 
 ## Main menu for adding/removing signatures
 

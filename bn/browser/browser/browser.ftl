@@ -730,6 +730,9 @@ urlbar-result-menu-dont-show-market =
     .label = মার্কেটের পরামর্শগুলি দেখাবেন না
 # A message that replaces a result when the user dismisses Market suggestions.
 urlbar-result-dismissal-acknowledgment-market = আপনার প্রতিক্রিয়ার জন্য ধন্যবাদ। এখন থেকে আপনি আর মার্কেটের পরামর্শগুলি দেখবেন না।
+# A message that replaces a result when the user dismisses all suggestions of a
+# particular type.
+urlbar-result-dismissal-acknowledgment-all = আপনার প্রতিক্রিয়ার জন্য ধন্যবাদ। এখন থেকে আপনি আর এই পরামর্শগুলি দেখবেন না।
 
 ## Strings used for buttons in the urlbar
 
@@ -749,6 +752,8 @@ urlbar-searchmode-default =
     .tooltiptext = ডিফল্ট সার্চ ইঞ্জিন
 urlbar-searchmode-popup-search-settings-menuitem =
     .label = অনুসন্ধান সেটিংস
+# Label shown next to a new search engine in the Searchmode Switcher popup to promote it.
+urlbar-searchmode-new = নতুন
 urlbar-searchmode-button-no-engine =
     .label = কোনো শর্টকাট নির্বাচন করা হয়নি, একটি শর্টকাট বাছুন
     .tooltiptext = কোনো শর্টকাট নির্বাচন করা হয়নি, একটি শর্টকাট বাছুন
@@ -780,6 +785,9 @@ urlbar-group-quickactions =
 #  $engine (String): the name of the search engine used to search.
 urlbar-group-recent-searches =
     .label = সাম্প্রতিক অনুসন্ধান
+# Label shown above sponsored suggestions in the urlbar results.
+urlbar-group-sponsored =
+    .label = স্পন্সরকৃত
 
 ## Reader View toolbar buttons
 
@@ -1026,6 +1034,7 @@ tabs-toolbar-list-all-tabs =
 
 # <img data-l10n-name="icon"/> will be replaced by the application menu icon
 restore-session-startup-suggestion-message = <strong>পূর্ববর্তী ট্যাবগুলি খুলবেন?</strong> আপনি { -brand-short-name } অ্যাপ্লিকেশন মেনুতে গিয়ে <img data-l10n-name="icon"/>, ইতিহাস থেকে আপনার আগের সেশন পুনরুদ্ধার করতে পারেন।
+restore-session-startup-suggestion-button = আমাকে দেখান কিভাবে
 
 ## Mozilla data reporting notification (Telemetry, Firefox Health Report, etc)
 
@@ -1033,6 +1042,16 @@ data-reporting-notification-message = { -brand-short-name } স্বয়ং�
 data-reporting-notification-button =
     .label = আমি কি শেয়ার করি তা নির্বাচন করুন
     .accesskey = C
+# Label for the indicator shown in the private browsing window titlebar.
+private-browsing-indicator-label = ব্যক্তিগত ব্রাউজিং
+# Tooltip for the indicator shown in the private browsing window titlebar.
+private-browsing-indicator-tooltip =
+    .tooltiptext = ব্যক্তিগত ব্রাউজিং
+content-analysis-panel-title = তথ্য সুরক্ষা
+
+## Private browsing reset button
+
+reset-pbm-panel-complete = ব্যক্তিগত সেশনের তথ্য মুছে ফেলা হয়েছে
 
 ## Autorefresh blocker
 
@@ -1047,6 +1066,7 @@ refresh-blocked-allow =
 popup-notification-addon-install-unsigned =
     .value = (অপরিক্ষীত)
 popup-notification-xpinstall-prompt-learn-more = নিরাপদে অ্যাড-অন ইনস্টল করা সম্পর্কে আরও জানুন
+popup-notification-xpinstall-prompt-block-url = বিস্তারিত দেখুন
 
 ## Pop-up warning
 
@@ -1076,3 +1096,11 @@ popup-warning-button =
 #   $popupURI (String): the URI for the pop-up window
 popup-show-popup-menuitem =
     .label = '{ $popupURI }' প্রদর্শন
+
+## The urlbar trust panel
+
+trustpanel-connection-label-secure = সংযোগ সুরক্ষিত
+trustpanel-connection-label-insecure = সংযোগ নিরাপদ নয়
+trustpanel-header-disabled = আপনি সুরক্ষা বন্ধ করে দিয়েছেন
+trustpanel-clear-cookies-subview-button-cancel = বাতিল
+trustpanel-blocker-see-all = সব দেখুন
