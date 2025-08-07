@@ -141,6 +141,8 @@ urlbar-default-notification-anchor =
     .tooltiptext = Afficher une notification
 urlbar-geolocation-notification-anchor =
     .tooltiptext = Afficher la demande de géolocalisation
+urlbar-localhost-notification-anchor =
+    .tooltiptext = Gérer l’accès aux appareils locaux pour ce site
 urlbar-local-network-notification-anchor =
     .tooltiptext = Gérer le partage de l’accès à votre réseau local avec ce site
 urlbar-xr-notification-anchor =
@@ -243,6 +245,8 @@ urlbar-search-mode-actions = Actions
 
 urlbar-geolocation-blocked =
     .tooltiptext = Vous avez empêché ce site d’accéder à vos données de géolocalisation.
+urlbar-localhost-blocked =
+    .tooltiptext = Vous avez empêché ce site d’accéder aux appareils de votre réseau local.
 urlbar-xr-blocked =
     .tooltiptext = Vous avez bloqué l’accès aux appareils de réalité virtuelle pour ce site web.
 urlbar-web-notifications-blocked =
