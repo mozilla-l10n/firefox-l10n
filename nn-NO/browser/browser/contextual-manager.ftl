@@ -301,6 +301,7 @@ contextual-manager-hide-password-button =
 # The message displayed when the search text does not match any of the user's saved logins.
 contextual-manager-passwords-no-passwords-found-header =
     .heading = Fann ingen passord
+contextual-manager-passwords-no-passwords-found-message-2 = Prøv ein annan term og søk på nytt.
 contextual-manager-passwords-no-passwords-found-message = Fann ingen passord. Søk etter ein annan term og prøv på nytt.
 
 ## When the user has no saved passwords, we display the following messages to inform the user they can save
@@ -332,4 +333,6 @@ contextual-manager-passwords-remove-all-passwords-checkbox =
         [1] Ja, fjern passordet
        *[other] Yes, remove passwords
     }
+# This string informs the user they need to provide their primary password for FireFox to access their saved passwords in Firefox.
+contextual-manager-primary-password-reauth-header = For å sjå dei lagra passorda dine, skriv inn hovudpassordet ditt.
 contextual-manager-primary-password-learn-more-link = Les meir
