@@ -54,3 +54,5 @@ experimental-features-newtab-sections-follow-block-description = Organiser artik
 # Firefox Web Apps
 experimental-features-fx-web-apps =
     .label = Legg til nettstadar på oppgåvelinja
+# “Add tab to taskbar” is found in the tooltip text of `-taskbar-tab-urlbar-button-open`.
+experimental-features-fx-web-apps-description = Opne nettstadar du besøkjer ofte som ein nettapp frå oppgåvelinja. Sjå etter ikonet «Legg til fane i oppgåvelinja» til høgre for adressefeltet for å starte nettstaden i eit straumlinjeforma vindauge med alle { -brand-product-name } verna sine. <a data-l10n-name="connect">Del tilbakemelding</a>
