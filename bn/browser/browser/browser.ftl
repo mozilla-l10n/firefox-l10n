@@ -143,6 +143,8 @@ urlbar-geolocation-notification-anchor =
     .tooltiptext = অবস্থান অনুরোধ প্যানেল খুলুন
 urlbar-localhost-notification-anchor =
     .tooltiptext = এই সাইটের জন্য লোকাল ডিভাইস অ্যাক্সেস পরিচালনা করুন
+urlbar-local-network-notification-anchor =
+    .tooltiptext = এই সাইটের সাথে আপনার লোকাল নেটওয়ার্ক অ্যাক্সেস শেয়ারিং পরিচালনা করুন
 urlbar-xr-notification-anchor =
     .tooltiptext = ভার্চুয়াল রিয়েলিটি অনুমোদন প্যানেলে যান
 urlbar-storage-access-anchor =
@@ -189,6 +191,15 @@ urlbar-result-menu-remove-from-history =
 urlbar-result-menu-tip-get-help =
     .label = সাহায্য নিন
     .accesskey = h
+# Some urlbar suggestions show the user's approximate location as automatically
+# detected by Firefox (e.g., weather suggestions), and this menu item lets the
+# user tell Firefox that the location is not accurate. Typically the location
+# will be a city name, or a city name combined with the name of its parent
+# administrative division (e.g., a province, prefecture, or state).
+urlbar-result-menu-report-inaccurate-location =
+    .label = ভুল লোকেশন রিপোর্ট করুন
+urlbar-result-menu-show-less-frequently =
+    .label = কম ঘন ঘন দেখান
 
 ## Prompts users to use the Urlbar when they open a new tab or visit the
 ## homepage of their default search engine.
