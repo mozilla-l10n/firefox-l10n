@@ -895,6 +895,9 @@ urlbar-result-menu-dont-show-market =
     .label = Nezobrazovat návrhy z akciových trhů
 # A message that replaces a result when the user dismisses Market suggestions.
 urlbar-result-dismissal-acknowledgment-market = Děkujeme za vaši zpětnou vazbu. Návrhy z akciových trhů se vám už nebudou zobrazovat.
+# A message that replaces a result when the user dismisses all suggestions of a
+# particular type.
+urlbar-result-dismissal-acknowledgment-all = Děkujeme za vaši zpětnou vazbu. Tyto návrhy se vám už nebudou zobrazovat.
 
 ## Strings used for buttons in the urlbar
 
@@ -1266,6 +1269,10 @@ tabs-toolbar-list-all-tabs =
     .label = Seznam všech panelů
     .tooltiptext = Seznam všech panelů
 
+## Drop indicator text for pinned tabs when no tabs are pinned.
+
+pinned-tabs-drop-indicator = Přetažením panelu sem jej připnete
+
 ## Infobar shown at startup to suggest session-restore
 
 # <img data-l10n-name="icon"/> will be replaced by the application menu icon
@@ -1509,23 +1516,65 @@ onboarding-aw-finish-setup-button =
 
 trustpanel-etp-label-enabled = Rozšířená ochrana proti sledování je zapnuta
 trustpanel-etp-label-disabled = Rozšířená ochrana proti sledování je vypnuta
+# Variables
+#  $host (String): the hostname of the site that is being displayed.
+trustpanel-etp-toggle-on =
+    .aria-label = Rozšířená ochrana proti sledování: zapnuta pro { $host }
+# Variables
+#  $host (String): the hostname of the site that is being displayed.
+trustpanel-etp-toggle-off =
+    .aria-label = Rozšířená ochrana proti sledování: vypnuta na { $host }
+trustpanel-etp-description-enabled = Pokud na tomto webu něco vypadá nefunkčně, zkuste vypnout ochrany.
+trustpanel-etp-description-disabled =
+    { -brand-product-name.case-status ->
+        [with-cases] { -brand-product-name } si myslí, že by vás společnosti měly sledovat méně. Když si zapnete ochranu, blokujeme tolik sledovacích prvků, kolik jen můžeme.
+       *[no-cases] Aplikace { -brand-product-name } si myslí, že by vás společnosti měly sledovat méně. Když si zapnete ochranu, blokujeme tolik sledovacích prvků, kolik jen můžeme.
+    }
 trustpanel-connection-label-secure = Zabezpečené spojení
 trustpanel-connection-label-insecure = Spojení není zabezpečené
+trustpanel-header-enabled = { -brand-product-name } je ve střehu
+trustpanel-description-enabled = Jste chráněni. Pokud něco zjistíme, dáme vám vědět
 trustpanel-header-disabled = Vypnuli jste ochranu
+trustpanel-description-disabled = { -brand-product-name } není ve střehu. Doporučujeme vám znovu zapnout ochranu.
 trustpanel-clear-cookies-button = Vymazat cookies a uložená data
 trustpanel-privacy-link = Nastavení soukromí
+# Variables
+#  $host (String): the hostname of the site that is being displayed.
+trustpanel-clear-cookies-header =
+    .title = Vymazat cookies a data stránek pro { $host }
+trustpanel-clear-cookies-description = Smazání cookies a dat stránek vás může odhlásit z některých stránek a vymazat nákupní košíky.
 trustpanel-clear-cookies-subview-button-clear = Vymazat
 trustpanel-clear-cookies-subview-button-cancel = Zrušit
+# Variables
+#  $host (String): the hostname of the site that is being displayed.
+trustpanel-site-information-header =
+    .title = Ochrana připojení pro { $host }
 trustpanel-connection-secure = Spojení s tímto serverem je zabezpečené.
 trustpanel-connection-not-secure = Spojení s tímto serverem není zabezpečené.
 trustpanel-siteinformation-morelink = Více informací o webu
 trustpanel-blocker-see-all = Zobrazit vše
+# Variables
+#  $host (String): the hostname of the site that is being displayed.
+trustpanel-blocker-header =
+    .title = Ochrana proti sledování pro { $host }
 
 ## Variables
 ##  $count (String): the number of trackers blocked.
 
+trustpanel-blocked-header =
+    { -brand-product-name.case-status ->
+        [with-cases] { -brand-product-name } zablokoval tyto věci:
+       *[no-cases] Aplikace { -brand-product-name } zablokovala tyto věci:
+    }
+trustpanel-tracking-header =
+    { -brand-short-name.case-status ->
+        [with-cases] { -brand-product-name } povolil tyto věci, aby se stránky nerozbily:
+       *[no-cases] Aplikace { -brand-product-name } povolila tyto věci, aby se stránky nerozbily:
+    }
 trustpanel-tracking-description = Bez sledovacích prvků nemusí některá tlačítka, formuláře a přihlašovací údaje správně fungovat.
 trustpanel-insecure-section-header = Vaše připojení není zabezpečené
+trustpanel-insecure-description = Data, která posíláte na tento server, nejsou šifrována. Může být viděn, ukraden nebo pozměněn.
 trustpanel-list-label-tracking-content = Sledující obsah
+trustpanel-social-tracking-tab-list-header = Tyto stránky se vás snaží sledovat:
 trustpanel-tracking-cookies-tab-list-header = Tyto stránky se vás snaží sledovat:
 trustpanel-tracking-content-tab-list-header = Tyto stránky se vás snaží sledovat:
