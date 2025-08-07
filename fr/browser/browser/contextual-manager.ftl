@@ -218,6 +218,7 @@ contextual-manager-passwords-remove-label =
     .title = Supprimer le mot de passe
 contextual-manager-passwords-origin-tooltip = Saisissez l’adresse exacte de la page de connexion de ce site.
 contextual-manager-passwords-username-tooltip = Saisissez le nom d’utilisateur, l’adresse e-mail ou le numéro de compte que vous utilisez pour vous connecter.
+contextual-manager-passwords-password-tooltip-2 = Saisissez le mot de passe pour vous connecter à ce compte.
 contextual-manager-passwords-password-tooltip = Saisissez le mot de passe utilisé pour vous connecter à ce compte.
 
 ## Password Card
