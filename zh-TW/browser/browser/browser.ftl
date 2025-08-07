@@ -804,6 +804,8 @@ urlbar-result-weather-provider-sponsored = { $provider }∙贊助資訊
 ## These strings are used for Realtime suggestions in the urlbar.
 ## Market refers to stocks, indexes, and funds.
 
+# This string is shown as description when Market suggestion are disabled.
+urlbar-result-market-opt-in-description = 與 { -vendor-short-name } 分享您的搜尋資料，獲得更多來自我們的夥伴的金融市場更新資訊。<a data-l10n-name="learn-more-link">更多資訊</a>
 # This string is shown as button to activate online when realtime suggestion are disabled.
 urlbar-result-realtime-opt-in-allow = 顯示搜尋建議
 # This string is shown in split button to dismiss activation the Realtime suggestion.
@@ -814,6 +816,11 @@ urlbar-result-realtime-opt-in-dismiss-all =
 # This string is shown in the result menu.
 urlbar-result-menu-dont-show-market =
     .label = 不要顯示金融市場建議
+# A message that replaces a result when the user dismisses Market suggestions.
+urlbar-result-dismissal-acknowledgment-market = 感謝您的意見回饋，不再會看到金融市場建議。
+# A message that replaces a result when the user dismisses all suggestions of a
+# particular type.
+urlbar-result-dismissal-acknowledgment-all = 感謝您的意見回饋，不再會看到建議資訊。
 
 ## Strings used for buttons in the urlbar
 

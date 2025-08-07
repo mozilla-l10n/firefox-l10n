@@ -18,6 +18,7 @@ contextual-manager-passwords-command-import-from-browser = 從另一套瀏覽器
 contextual-manager-passwords-command-import = 從檔案匯入…
 contextual-manager-passwords-command-export = 匯出密碼
 contextual-manager-passwords-command-remove-all = 刪除所有密碼
+contextual-manager-passwords-command-options = 選項
 contextual-manager-passwords-command-settings = 設定
 contextual-manager-passwords-command-help = 說明
 contextual-manager-passwords-os-auth-dialog-caption = { -brand-full-name }
@@ -157,6 +158,8 @@ contextual-manager-passwords-password-already-exists-error-button = 前往密碼
 contextual-manager-passwords-update-password-success-heading =
     .heading = 已儲存密碼
 contextual-manager-passwords-update-password-success-button = 完成
+contextual-manager-passwords-update-username-success-heading-2 =
+    .heading = 已新增使用者名稱
 contextual-manager-passwords-update-username-success-heading =
     .heading = 已儲存使用者名稱
 # Message to confirm successful removal of a password/passwords.
@@ -210,12 +213,15 @@ contextual-manager-passwords-title = 密碼
 
 contextual-manager-passwords-create-label =
     .label = 新增密碼
+contextual-manager-passwords-update-label =
+    .label = 已更新密碼
 contextual-manager-passwords-edit-label =
     .label = 編輯密碼
 contextual-manager-passwords-remove-label =
     .title = 刪除密碼
 contextual-manager-passwords-origin-tooltip = 請輸入用於登入此網站的完整網址。
 contextual-manager-passwords-username-tooltip = 請輸入用於登入此網站的帳號、使用者名稱，或電子郵件地址。
+contextual-manager-passwords-password-tooltip-2 = 請輸入登入此網站的密碼。
 contextual-manager-passwords-password-tooltip = 請輸入用於登入此網站的密碼。
 
 ## Password Card
