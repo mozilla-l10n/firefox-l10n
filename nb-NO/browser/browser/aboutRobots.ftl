@@ -13,7 +13,7 @@ page-title = Gort! Klaatu barada nikto!
 # Movie: Logan's Run... Box (cyborg): "Welcome Humans! I am ready for you."
 error-title-text = Velkommen, mennesker!
 # Movie: The Day The Earth Stood Still. Spoken by Klaatu.
-error-short-desc-text = Vi har kommet for å besøke dere i fred og med vennlighet!
+error-short-desc-text = Vi har kommet for å besøke dere i fred og med gode hensikter!
 # Various books by Isaac Asimov. http://en.wikipedia.org/wiki/Three_Laws_of_Robotics
 error-long-desc1 = Roboter kan ikke skade et menneske, eller gjennom uvirksomhet, tillate at et menneske blir skadd.
 # Movie: Blade Runner. Batty: "I've seen things you people wouldn’t believe..."
@@ -27,4 +27,4 @@ error-trailer-desc-text = Og de har en plan.
 # Book: Hitchhiker's Guide To The Galaxy. Arthur presses a button and it warns him.
 # Note: .label2 replaces this label after pressing the button the first time.
 error-try-again = Prøv igjen
-    .label2 = Vennligst ikke trykk på denne knappen igjen.
+    .label2 = Ikke trykk på denne knappen igjen.
