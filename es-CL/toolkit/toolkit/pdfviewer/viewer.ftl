@@ -618,6 +618,15 @@ pdfjs-editor-edit-comment-close-button =
     .title = Cerrar
 pdfjs-editor-edit-comment-actions-edit-button-label = Editar
 pdfjs-editor-edit-comment-actions-delete-button-label = Eliminar
+pdfjs-editor-edit-comment-manager-text-input =
+    .placeholder = Ingresa tu comentario
+pdfjs-editor-edit-comment-manager-cancel-button = Cancelar
+pdfjs-editor-edit-comment-manager-save-button = Guardar
+
+## Edit a comment button in the editor toolbar
+
+pdfjs-editor-edit-comment-button =
+    .title = Editar comentario
 
 ## Main menu for adding/removing signatures
 

@@ -113,11 +113,13 @@ addon-install-error-corrupt-file = 因為檔案看起來已經毀損，無法安
 addon-install-error-file-access = 因為 { -brand-short-name } 無法修改必要的檔案，無法安裝 { $addonName }。
 addon-install-error-not-signed = { -brand-short-name } 已防止此網站安裝未驗證的附加元件。
 addon-install-error-invalid-domain = 無法從此位置安裝 { $addonName } 附加元件。
+addon-install-error-no-addon-name-file-access = 因為 { -brand-short-name } 無法修改必要的檔案，無法安裝附加元件。
 addon-local-install-error-network-failure = 由於檔案系統錯誤，無法安裝此附加元件。
 addon-local-install-error-incorrect-hash = 因為不符合 { -brand-short-name } 所預期的附加元件，無法安裝。
 addon-local-install-error-corrupt-file = 檔案似乎已損毀，無法安裝此附加元件。
 addon-local-install-error-file-access = 因為 { -brand-short-name } 無法修改必要的檔案，無法安裝 { $addonName }。
 addon-local-install-error-not-signed = 因為此附加元件尚未經過驗證，無法安裝。
+addon-local-install-no-addon-name-error-file-access = 因為 { -brand-short-name } 無法修改必要的檔案，無法安裝附加元件。
 # Variables:
 #   $appVersion (String): the application version.
 addon-install-error-incompatible = 因為與 { -brand-short-name } { $appVersion } 不相容，無法安裝 { $addonName }。

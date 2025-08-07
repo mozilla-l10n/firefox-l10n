@@ -801,6 +801,20 @@ urlbar-result-weather-title-city-only = { $city } 氣溫 <strong>{ $temperature 
 #       name of a company, organization, or service.
 urlbar-result-weather-provider-sponsored = { $provider }∙贊助資訊
 
+## These strings are used for Realtime suggestions in the urlbar.
+## Market refers to stocks, indexes, and funds.
+
+# This string is shown as button to activate online when realtime suggestion are disabled.
+urlbar-result-realtime-opt-in-allow = 顯示搜尋建議
+# This string is shown in split button to dismiss activation the Realtime suggestion.
+urlbar-result-realtime-opt-in-not-now = 現在不要
+urlbar-result-realtime-opt-in-dismiss = 知道了！
+urlbar-result-realtime-opt-in-dismiss-all =
+    .label = 不要顯示這些建議
+# This string is shown in the result menu.
+urlbar-result-menu-dont-show-market =
+    .label = 不要顯示金融市場建議
+
 ## Strings used for buttons in the urlbar
 
 # Label prompting user to search with a particular search engine.

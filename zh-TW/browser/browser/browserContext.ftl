@@ -275,6 +275,10 @@ main-context-menu-image-info =
 main-context-menu-image-desc =
     .label = 檢視說明
     .accesskey = D
+# Variables
+#   $engine (String) - Name of the search engine that will perform the search.
+main-context-menu-visual-search =
+    .label = 使用 { $engine } 搜尋圖片
 main-context-menu-video-save-as =
     .label = 另存視訊檔案…
     .accesskey = v
@@ -397,3 +401,5 @@ main-context-menu-open-link-in-container-tab =
 main-context-menu-reveal-password =
     .label = 顯示密碼
     .accesskey = v
+# The label of a badge shown in menu items to call out new features.
+main-context-menu-new-feature-badge = 新功能
