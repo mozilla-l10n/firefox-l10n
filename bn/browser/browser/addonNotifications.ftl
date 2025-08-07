@@ -125,6 +125,7 @@ addon-install-error-corrupt-file = ডাউনলোড করা এড অন
 addon-install-error-file-access = { $addonName } ইনস্টল করা যায়নি কারণ { -brand-short-name } প্রয়োজনীয় ফাইল পরিবর্তন করতে পারে না।
 addon-install-error-not-signed = { -brand-short-name } এই সাইট থেকে একটি অযাচিত অ্যাড-অন ইন্সটল করতে বাঁধা দিচ্ছে।
 addon-install-error-invalid-domain = অ্যাড-অন { $addonName } এই অবস্থান থেকে ইনস্টল করা যাবে না৷
+addon-install-error-no-addon-name-file-access = অ্যাড-অনটি ইনস্টল করা যায়নি কারণ { -brand-short-name } প্রয়োজনীয় ফাইলটি পরিবর্তন করতে পারে না।
 addon-local-install-error-network-failure = ফাইলসিস্টেমে ত্রুটির জন্য অ্যাড-অন ইন্সটল করা যায় না।
 addon-local-install-error-incorrect-hash = এই অ্যাড-অন ইনস্টল করা যায়নি কারণ প্রত্যাশিত { -brand-short-name } অ্যাড অন এর সাথে এটা মিলে না।
 addon-local-install-error-corrupt-file = ত্রুটিযুক্ত হওয়ায় এ অ্যাড-অন ইনস্টল করা যায়নি।

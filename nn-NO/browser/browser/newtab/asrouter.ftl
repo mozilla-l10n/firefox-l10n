@@ -68,6 +68,8 @@ cfr-doorhanger-bookmark-fxa-link-text = Synkroniser bokmerke no…
 cfr-doorhanger-bookmark-fxa-close-btn-tooltip =
     .aria-label = Lat att-knapp
     .title = Lat att
+fxa-adoption-addresses-backup-title = La oss sikringskopiere dei lagra adressene dine
+fxa-adoption-addresses-backup-subtitle = Vern dei lagra adressene dine ved å synkronisere dei med einingane dine, med kryptering.
 fxa-adoption-primary-button-label = Registrer deg
 
 ## Protections panel
