@@ -54,3 +54,5 @@ experimental-features-newtab-sections-follow-block-description = Organizujće st
 # Firefox Web Apps
 experimental-features-fx-web-apps =
     .label = Wašej nadawkowej lajsće sydła přidać
+# “Add tab to taskbar” is found in the tooltip text of `-taskbar-tab-urlbar-button-open`.
+experimental-features-fx-web-apps-description = Wočińće sydła, kotrež husto wopytujeće jako webnałoženje ze swojeje nadawkowej lajsty. Pytajće za symbolom „Nadawkowej lajsće rajtar přidać“ naprawo pódla adresoweho pola, zo byšće te sydło w optimowanym woknje ze wšěmi škitami { -brand-product-name } startował. <a data-l10n-name="connect">Měnjenje dźělić</a>
