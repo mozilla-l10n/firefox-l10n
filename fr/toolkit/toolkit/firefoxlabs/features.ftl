@@ -51,3 +51,6 @@ experimental-features-link-previews-description-no-ai =
 experimental-features-newtab-sections-follow-block =
     .label = Classement par thème et Suivre ou Bloquer pour les articles de la page de nouvel onglet
 experimental-features-newtab-sections-follow-block-description = Organisez les articles de votre page de nouvel onglet par thèmes (sports, nourriture, divertissement…) pour y accéder de façon plus ordonnée et plus simple. Servez-vous de nos nouveaux contrôles « Suivre » et « Bloquer » pour personnaliser le contenu que vous voyez. <a data-l10n-name="connect">Donnez votre avis</a>
+# Firefox Web Apps
+experimental-features-fx-web-apps =
+    .label = Ajouter des sites à votre barre des tâches

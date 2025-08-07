@@ -796,6 +796,23 @@ urlbar-result-weather-title-city-only = <strong>{ $temperature }°{ $unit }</str
 #       name of a company, organization, or service.
 urlbar-result-weather-provider-sponsored = { $provider } · Sponsorisé
 
+## These strings are used for Realtime suggestions in the urlbar.
+## Market refers to stocks, indexes, and funds.
+
+# This string is shown as button to activate online when realtime suggestion are disabled.
+urlbar-result-realtime-opt-in-allow = Afficher les suggestions
+# This string is shown in split button to dismiss activation the Realtime suggestion.
+urlbar-result-realtime-opt-in-not-now = Plus tard
+urlbar-result-realtime-opt-in-dismiss = Ignorer
+urlbar-result-realtime-opt-in-dismiss-all =
+    .label = Ne pas afficher ces suggestions
+# This string is shown in the result menu.
+urlbar-result-menu-dont-show-market =
+    .label = Ne pas afficher les suggestions liées aux marchés
+# A message that replaces a result when the user dismisses all suggestions of a
+# particular type.
+urlbar-result-dismissal-acknowledgment-all = Merci de votre retour. Vous ne verrez plus ces suggestions.
+
 ## Strings used for buttons in the urlbar
 
 # Label prompting user to search with a particular search engine.

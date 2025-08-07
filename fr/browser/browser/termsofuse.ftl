@@ -11,3 +11,7 @@ existing-user-tou-message = <strong>Mise à jour</strong> Nous avons ajouté des
 existing-user-tou-learn-more = En savoir plus
 # Text for primary button
 existing-user-tou-accept = Accepter
+
+## Existing User Terms of Use Spotlight
+
+tou-existing-user-spotlight-remind-me-later = Me le rappeler plus tard

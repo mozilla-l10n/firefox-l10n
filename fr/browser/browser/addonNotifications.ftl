@@ -125,11 +125,13 @@ addon-install-error-corrupt-file = Le module complémentaire téléchargé depui
 addon-install-error-file-access = { $addonName } n’a pas pu être installé car un fichier n’a pas pu être modifié par { -brand-short-name }.
 addon-install-error-not-signed = { -brand-short-name } a empêché ce site d’installer un module complémentaire non vérifié.
 addon-install-error-invalid-domain = Le module complémentaire { $addonName } ne peut pas être installé depuis cet emplacement.
+addon-install-error-no-addon-name-file-access = Ce module complémentaire n’a pas pu être installé car un fichier n’a pas pu être modifié par { -brand-short-name }.
 addon-local-install-error-network-failure = Ce module complémentaire n’a pas pu être installé à cause d’une erreur du système de fichiers.
 addon-local-install-error-incorrect-hash = Ce module complémentaire n’a pas pu être installé car il ne correspond pas au module attendu par { -brand-short-name }.
 addon-local-install-error-corrupt-file = Ce module complémentaire n’a pas pu être installé car il semble être corrompu.
 addon-local-install-error-file-access = { $addonName } n’a pas pu être installé car un fichier n’a pas pu être modifié par { -brand-short-name }.
 addon-local-install-error-not-signed = Ce module complémentaire n’a pas pu être installé car il n’a pas été vérifié.
+addon-local-install-no-addon-name-error-file-access = Ce module complémentaire n’a pas pu être installé car un fichier n’a pas pu être modifié par { -brand-short-name }.
 # Variables:
 #   $appVersion (String): the application version.
 addon-install-error-incompatible = { $addonName } n’a pas pu être installé car il n’est pas compatible avec { -brand-short-name } { $appVersion }.

@@ -18,6 +18,7 @@ contextual-manager-passwords-command-import-from-browser = Importer depuis un au
 contextual-manager-passwords-command-import = Importer depuis un fichier…
 contextual-manager-passwords-command-export = Exporter les mots de passe
 contextual-manager-passwords-command-remove-all = Supprimer tous les mots de passe
+contextual-manager-passwords-command-options = Options
 contextual-manager-passwords-command-settings = Paramètres
 contextual-manager-passwords-command-help = Aide
 contextual-manager-passwords-os-auth-dialog-caption = { -brand-full-name }
@@ -155,6 +156,8 @@ contextual-manager-passwords-password-already-exists-error-button = Aller au mot
 contextual-manager-passwords-update-password-success-heading =
     .heading = Mot de passe enregistré
 contextual-manager-passwords-update-password-success-button = Terminé
+contextual-manager-passwords-update-username-success-heading-2 =
+    .heading = Nom d’utilisateur ajouté
 contextual-manager-passwords-update-username-success-heading =
     .heading = Nom d’utilisateur enregistré
 # Message to confirm successful removal of a password/passwords.
@@ -305,6 +308,8 @@ contextual-manager-passwords-no-passwords-message = Tous les mots de passe sont 
 contextual-manager-passwords-no-passwords-get-started-message = Ajoutez-les ici pour commencer.
 # This string is displayed in a button. If the user clicks it, they will be taken to a form to create a new password.
 contextual-manager-passwords-add-manually = Ajouter manuellement
+# This string encourages the user to save their passwords in Firefox (the "safe spot").
+contextual-manager-passwords-no-passwords-header-2 = Enregistrez vos mots de passe en lieu sûr
 
 ## When the user cancels a login that's currently being edited, we display a message to confirm whether
 ## or not the user wants to discard their current edits to the login.
@@ -320,3 +325,8 @@ contextual-manager-passwords-remove-all-passwords-checkbox =
         [one] Oui, supprimer le mot de passe
        *[other] Oui, supprimer les mots de passe
     }
+# This string informs the user they need to provide their primary password for FireFox to access their saved passwords in Firefox.
+contextual-manager-primary-password-reauth-header = Pour consulter vos mots de passe enregistrés, saisissez votre mot de passe principal.
+# This string informs the user their primary password is used to authenticate and access their passwords
+contextual-manager-primary-password-reauth-button = Saisissez le mot de passe principal
+contextual-manager-primary-password-learn-more-link = En savoir plus

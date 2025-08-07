@@ -68,6 +68,11 @@ cfr-doorhanger-bookmark-fxa-link-text = Synchroniser les marque-pages maintenant
 cfr-doorhanger-bookmark-fxa-close-btn-tooltip =
     .aria-label = Bouton de fermeture
     .title = Fermer
+fxa-adoption-addresses-backup-title = Sauvegardons vos adresses enregistrées
+fxa-adoption-addresses-backup-subtitle = Protégez vos adresses enregistrées en les synchronisant sur vos appareils de façon chiffrée.
+fxa-adoption-credit-cards-backup-title = Sauvegardons vos moyens de paiement
+fxa-adoption-credit-cards-backup-subtitle = Protégez vos moyens de paiement en les synchronisant sur vos appareils de façon chiffrée.
+fxa-adoption-primary-button-label = Créer un compte
 
 ## Protections panel
 

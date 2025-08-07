@@ -312,6 +312,10 @@ pdfjs-highlight-floating-button1 =
     .title = Surligner
     .aria-label = Surligner
 pdfjs-highlight-floating-button-label = Surligner
+pdfjs-comment-floating-button =
+    .title = Commenter
+    .aria-label = Commenter
+pdfjs-comment-floating-button-label = Commenter
 pdfjs-editor-signature-button =
     .title = Ajouter une signature
 pdfjs-editor-signature-button-label = Ajouter une signature
@@ -603,6 +607,22 @@ pdfjs-editor-add-signature-error-close-button = Fermer
 pdfjs-editor-add-signature-cancel-button = Annuler
 pdfjs-editor-add-signature-add-button = Ajouter
 pdfjs-editor-edit-signature-update-button = Mettre à jour
+
+##  Edit a comment dialog
+
+pdfjs-editor-edit-comment-actions-button-label = Actions
+pdfjs-editor-edit-comment-close-button-label = Fermer
+pdfjs-editor-edit-comment-actions-edit-button-label = Modifier
+pdfjs-editor-edit-comment-actions-delete-button-label = Supprimer
+pdfjs-editor-edit-comment-manager-text-input =
+    .placeholder = Saisissez votre commentaire
+pdfjs-editor-edit-comment-manager-cancel-button = Annuler
+pdfjs-editor-edit-comment-manager-save-button = Enregistrer
+
+## Edit a comment button in the editor toolbar
+
+pdfjs-editor-edit-comment-button =
+    .title = Modifier le commentaire
 
 ## Main menu for adding/removing signatures
 
