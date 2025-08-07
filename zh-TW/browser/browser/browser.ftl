@@ -804,6 +804,8 @@ urlbar-result-weather-provider-sponsored = { $provider }∙贊助資訊
 ## These strings are used for Realtime suggestions in the urlbar.
 ## Market refers to stocks, indexes, and funds.
 
+# This string is shown as title when Market suggestion are disabled.
+urlbar-result-market-opt-in-title = 直接從搜尋列中獲得股票市場資料
 # This string is shown as description when Market suggestion are disabled.
 urlbar-result-market-opt-in-description = 與 { -vendor-short-name } 分享您的搜尋資料，獲得更多來自我們的夥伴的金融市場更新資訊。<a data-l10n-name="learn-more-link">更多資訊</a>
 # This string is shown as button to activate online when realtime suggestion are disabled.

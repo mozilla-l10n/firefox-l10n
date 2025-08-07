@@ -66,6 +66,11 @@ cfr-doorhanger-bookmark-fxa-link-text = 立即同步書籤…
 cfr-doorhanger-bookmark-fxa-close-btn-tooltip =
     .aria-label = 關閉按鈕
     .title = 關閉
+fxa-adoption-addresses-backup-title = 一起備份儲存的網址吧！
+fxa-adoption-addresses-backup-subtitle = 加密後同步到其他裝置中，以保護您儲存的地址。
+fxa-adoption-credit-cards-backup-title = 一起備份您的付款資訊吧！
+fxa-adoption-credit-cards-backup-subtitle = 加密後同步到其他裝置中，以保護您的付款資訊。
+fxa-adoption-primary-button-label = 註冊
 
 ## Protections panel
 

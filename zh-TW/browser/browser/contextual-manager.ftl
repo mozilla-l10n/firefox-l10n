@@ -298,6 +298,7 @@ contextual-manager-hide-password-button =
 # The message displayed when the search text does not match any of the user's saved logins.
 contextual-manager-passwords-no-passwords-found-header =
     .heading = 找不到密碼
+contextual-manager-passwords-no-passwords-found-message-2 = 可試著改用其他關鍵字重新搜尋。
 contextual-manager-passwords-no-passwords-found-message = 找不到密碼，請用其他關鍵字重新搜尋。
 
 ## When the user has no saved passwords, we display the following messages to inform the user they can save
@@ -312,6 +313,8 @@ contextual-manager-passwords-no-passwords-message = 所有密碼都經過加密�
 contextual-manager-passwords-no-passwords-get-started-message = 加到此處開始使用。
 # This string is displayed in a button. If the user clicks it, they will be taken to a form to create a new password.
 contextual-manager-passwords-add-manually = 手動新增
+# This string encourages the user to save their passwords in Firefox (the "safe spot").
+contextual-manager-passwords-no-passwords-header-2 = 將您的密碼儲存於安全的地方
 
 ## When the user cancels a login that's currently being edited, we display a message to confirm whether
 ## or not the user wants to discard their current edits to the login.
@@ -327,3 +330,8 @@ contextual-manager-passwords-remove-all-passwords-checkbox =
         [1] 好，請移除密碼
        *[other] 好，請移除密碼
     }
+# This string informs the user they need to provide their primary password for FireFox to access their saved passwords in Firefox.
+contextual-manager-primary-password-reauth-header = 若要檢視您儲存的密碼，請先輸入主控密碼。
+# This string informs the user their primary password is used to authenticate and access their passwords
+contextual-manager-primary-password-reauth-button = 請輸入主控密碼
+contextual-manager-primary-password-learn-more-link = 更多資訊
