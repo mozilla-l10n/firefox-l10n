@@ -335,4 +335,6 @@ contextual-manager-passwords-remove-all-passwords-checkbox =
     }
 # This string informs the user they need to provide their primary password for FireFox to access their saved passwords in Firefox.
 contextual-manager-primary-password-reauth-header = For å sjå dei lagra passorda dine, skriv inn hovudpassordet ditt.
+# This string informs the user their primary password is used to authenticate and access their passwords
+contextual-manager-primary-password-reauth-button = Skriv inn hovudpassordet
 contextual-manager-primary-password-learn-more-link = Les meir

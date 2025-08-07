@@ -135,6 +135,6 @@ tab-context-unload-n-tabs =
     .label =
         { $tabCount ->
             [1] Descarregar aba
-           *[other] Unload { $tabCount } Tabs
+           *[other] Descarregar { $tabCount } abas
         }
     .accesskey = D

@@ -272,14 +272,14 @@ tab-context-move-tab-to-new-group =
     .label =
         { $tabCount ->
             [1] Adicionar aba a um novo grupo
-           *[other] Add Tabs to New Group
+           *[other] Adicionar abas a um novo grupo
         }
     .accesskey = g
 tab-context-move-tab-to-group =
     .label =
         { $tabCount ->
             [1] Adicionar aba a um grupo
-           *[other] Add Tabs to Group
+           *[other] Adicionar abas a um grupo
         }
     .accesskey = g
 tab-context-move-tab-to-group-saved-groups =
