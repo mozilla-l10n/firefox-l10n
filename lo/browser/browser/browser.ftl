@@ -298,6 +298,10 @@ quickactions-settings2 = ຈັດການການຕັ້ງຄ່າ
 quickactions-cmd-settings = ການຕັ້ງຄ່າ, ຄ່າກຳນົດ, ຕົວເລືອກ
 # Opens about:addons page in the themes section
 quickactions-themes = ຈັດການຊຸດຕົບແຕ່ງ
+# In English we provide multiple spellings for "add-ons". If that's not
+# applicable to your language, only use the correct spelling (don't repeat the
+# same word).
+quickactions-cmd-themes2 = themes, add-ons, addons
 quickactions-cmd-themes = ຊຸດຕົກແຕ່ງ
 # Opens a SUMO article explaining how to update the browser
 quickactions-update = ອັບເດດ { -brand-short-name }
@@ -595,6 +599,17 @@ urlbar-result-weather-title-city-only = <strong>{ $temperature }°{ $unit }</str
 #       name of a company, organization, or service.
 urlbar-result-weather-provider-sponsored = { $provider } · ສະໜັບສະໜູນ
 
+## These strings are used for Realtime suggestions in the urlbar.
+## Market refers to stocks, indexes, and funds.
+
+# This string is shown as title when Market suggestion are disabled.
+urlbar-result-market-opt-in-title = ເອົາຂໍ້ມູນຕະຫຼາດຫຼັກຊັບໃນແຖບຄົ້ນຫາຂອງທ່ານ
+# This string is shown as button to activate online when realtime suggestion are disabled.
+urlbar-result-realtime-opt-in-allow = ສະແດງຄຳແນະນຳ
+# This string is shown in split button to dismiss activation the Realtime suggestion.
+urlbar-result-realtime-opt-in-not-now = ບໍ່ແມ່ນຕອນນີ້
+urlbar-result-realtime-opt-in-dismiss = ຍົກເລີກ
+
 ## Strings used for buttons in the urlbar
 
 # Label prompting user to search with a particular search engine.
@@ -621,6 +636,8 @@ urlbar-searchmode-actions =
     .label = ການກະທຳ
 urlbar-searchmode-exit-button =
     .tooltiptext = ປິດ
+urlbar-searchmode-default =
+    .tooltiptext = ເຄື່ອງມືການຄົ້ນຫາພື້ນຖານ
 # Label shown on the top of Searchmode Switcher popup. After this label, the
 # available search engines will be listed.
 urlbar-searchmode-popup-description = ຄັ້ງນີ້ ຄົ້ນຫາດ້ວຍ:
