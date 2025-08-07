@@ -116,8 +116,15 @@ book-avatar-alt =
     .alt = წიგნი
 briefcase-avatar-alt =
     .alt = პორტფელი
+# Canvas refers to an artist's painting canvas, not the general material
+canvas-avatar-alt =
+    .alt = გამოსახულება
 flower-avatar-alt =
     .alt = ყვავილი
+folder-avatar-alt =
+    .alt = საქაღალდე
+hammer-avatar-alt =
+    .alt = ჩაქუჩი
 heart-avatar-alt =
     .alt = გული
 shopping-avatar-alt =

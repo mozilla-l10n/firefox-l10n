@@ -18,6 +18,7 @@ contextual-manager-passwords-command-import-from-browser = Importar desde otro n
 contextual-manager-passwords-command-import = Importar desde un archivo…
 contextual-manager-passwords-command-export = Exportar contraseñas
 contextual-manager-passwords-command-remove-all = Eliminar todas las contraseñas
+contextual-manager-passwords-command-options = Opciones
 contextual-manager-passwords-command-settings = Configuración
 contextual-manager-passwords-command-help = Ayuda
 contextual-manager-passwords-os-auth-dialog-caption = { -brand-full-name }
@@ -162,6 +163,8 @@ contextual-manager-passwords-password-already-exists-error-button = Ir a contras
 contextual-manager-passwords-update-password-success-heading =
     .heading = Contraseña guardada
 contextual-manager-passwords-update-password-success-button = Hecho
+contextual-manager-passwords-update-username-success-heading-2 =
+    .heading = Nombre de usuario agregado
 contextual-manager-passwords-update-username-success-heading =
     .heading = Nombre de usuario guardado
 # Message to confirm successful removal of a password/passwords.
@@ -216,12 +219,15 @@ contextual-manager-passwords-title = Contraseñas
 
 contextual-manager-passwords-create-label =
     .label = Agregar contraseña
+contextual-manager-passwords-update-label =
+    .label = Actualizar contraseña
 contextual-manager-passwords-edit-label =
     .label = Editar contraseña
 contextual-manager-passwords-remove-label =
     .title = Eliminar contraseña
 contextual-manager-passwords-origin-tooltip = Ingrese la dirección exacta donde iniciará sesión en este sitio.
 contextual-manager-passwords-username-tooltip = Ingrese el nombre de usuario, dirección de correo electrónico o número de cuenta que usa para iniciar sesión.
+contextual-manager-passwords-password-tooltip-2 = Ingrese la contraseña para iniciar sesión en esta cuenta.
 contextual-manager-passwords-password-tooltip = Ingrese la contraseña usada para iniciar sesión en esta cuenta.
 
 ## Password Card
@@ -300,6 +306,7 @@ contextual-manager-hide-password-button =
 # The message displayed when the search text does not match any of the user's saved logins.
 contextual-manager-passwords-no-passwords-found-header =
     .heading = No se encontraron contraseñas
+contextual-manager-passwords-no-passwords-found-message-2 = Pruebe con un término diferente y busque de nuevo.
 contextual-manager-passwords-no-passwords-found-message = No se encontraron contraseñas. Busque un término diferente e intente nuevamente.
 
 ## When the user has no saved passwords, we display the following messages to inform the user they can save
@@ -314,6 +321,8 @@ contextual-manager-passwords-no-passwords-message = Todas las contraseñas está
 contextual-manager-passwords-no-passwords-get-started-message = Agregalas acá para empezar.
 # This string is displayed in a button. If the user clicks it, they will be taken to a form to create a new password.
 contextual-manager-passwords-add-manually = Agregar manualmente
+# This string encourages the user to save their passwords in Firefox (the "safe spot").
+contextual-manager-passwords-no-passwords-header-2 = Guarde las contraseñas en un lugar seguro
 
 ## When the user cancels a login that's currently being edited, we display a message to confirm whether
 ## or not the user wants to discard their current edits to the login.
@@ -330,3 +339,8 @@ contextual-manager-passwords-remove-all-passwords-checkbox =
         [one] Sí, eliminar la contraseña
        *[other] Sí, eliminar las contraseñas
     }
+# This string informs the user they need to provide their primary password for FireFox to access their saved passwords in Firefox.
+contextual-manager-primary-password-reauth-header = Para ver las contraseñas guardadas, ingrese la contraseña maestra.
+# This string informs the user their primary password is used to authenticate and access their passwords
+contextual-manager-primary-password-reauth-button = Ingresar contraseña maestra
+contextual-manager-primary-password-learn-more-link = Conocer más

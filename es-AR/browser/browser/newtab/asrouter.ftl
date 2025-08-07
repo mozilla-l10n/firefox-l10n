@@ -68,6 +68,7 @@ cfr-doorhanger-bookmark-fxa-link-text = Sincronizando marcadores…
 cfr-doorhanger-bookmark-fxa-close-btn-tooltip =
     .aria-label = Cerrar botón
     .title = Cerrar
+fxa-adoption-addresses-backup-title = Hagamos una copia de seguridad de las direcciones guardadas
 
 ## Protections panel
 
