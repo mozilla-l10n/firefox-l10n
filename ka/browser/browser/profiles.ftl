@@ -119,6 +119,9 @@ briefcase-avatar-alt =
 # Canvas refers to an artist's painting canvas, not the general material
 canvas-avatar-alt =
     .alt = გამოსახულება
+# Craft refers to hobby arts and crafts, represented by a button/fastener commonly found on clothing like shirts
+craft-avatar-alt =
+    .alt = ხელსაქმე
 flower-avatar-alt =
     .alt = ყვავილი
 folder-avatar-alt =
@@ -169,12 +172,53 @@ default-favicon-avatar-alt =
 # Diamond refers to the precious stone, not the geometric shape
 diamond-avatar-alt =
     .alt = ალმასი
+barbell-avatar-alt =
+    .alt = ორბირთულა
+bike-avatar-alt =
+    .alt = ველოსიპედი
 
 ## Labels for default avatar icons
 
 book-avatar = წიგნი
 briefcase-avatar = პორტფელი
+# Canvas refers to an artist's painting canvas, not the general material
+canvas-avatar = გამოსახულება
+# Craft refers to hobby arts and crafts, represented by a button/fastener commonly found on clothing like shirts
+craft-avatar = ხელსაქმე
+custom-avatar = მორგებული გამოსახულება
+# Default favicon refers to the generic globe/world icon that appears in browser tabs when a website doesn't have its own favicon.
+default-favicon-avatar = ნაგულისხმევი ხატულა
+# Diamond refers to the precious stone, not the geometric shape
+diamond-avatar = ალმასი
 flower-avatar = ყვავილი
+folder-avatar = საქაღალდე
+hammer-avatar = ჩაქუჩი
 heart-avatar = გული
+heart-rate-avatar = გულისცემა
+history-avatar = ისტორია
+leaf-avatar = ფოთოლი
+lightbulb-avatar = ნათურა
+makeup-avatar = საცხი
+# Message refers to a text message, not a traditional letter/envelope message
+message-avatar = შეტყობინება
+musical-note-avatar = მუსიკალური ნოტი
+palette-avatar = საღებავების დაფა
+paw-print-avatar = თათის ნაკვალევი
+plane-avatar = თვითმფრინავი
+# Present refers to a gift box, not the current time period
+present-avatar = საჩუქარი
 shopping-avatar = საყიდლების კალათა
+soccer-avatar = ფეხბურთი
+sparkle-single-avatar = ნაპერწკალი
 star-avatar = ვარსკვლავი
+video-game-controller-avatar = ვიდეოთამაშის სამართავი
+custom-avatar-crop-back-button =
+    .aria-label = უკან
+custom-avatar-crop-view =
+    .aria-label = გამოსახულების ხედის ამოჭრა
+custom-avatar-crop-area =
+    .aria-label = ამოჭრის არეების მორგება
+custom-avatar-drag-handle =
+    .aria-label = ამოსაჭრელი ზომების შეცვლა
+barbell-avatar = ორბირთულა
+bike-avatar = ველოსიპედი
