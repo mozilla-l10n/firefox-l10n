@@ -306,9 +306,13 @@ pdfjs-web-fonts-disabled = Webpisma su znjemóžnjone: njejo móžno, zasajźone
 
 pdfjs-editor-free-text-button =
     .title = Tekst
+pdfjs-editor-color-picker-free-text-input =
+    .title = Tekstowu barwu změniś
 pdfjs-editor-free-text-button-label = Tekst
 pdfjs-editor-ink-button =
     .title = Kresliś
+pdfjs-editor-color-picker-ink-input =
+    .title = Kresleńsku barwu změniś
 pdfjs-editor-ink-button-label = Kresliś
 pdfjs-editor-stamp-button =
     .title = Wobraze pśidaś abo wobźěłaś
@@ -320,6 +324,10 @@ pdfjs-highlight-floating-button1 =
     .title = Wuzwignuś
     .aria-label = Wuzwignuś
 pdfjs-highlight-floating-button-label = Wuzwignuś
+pdfjs-comment-floating-button =
+    .title = Komentar
+    .aria-label = Komentar
+pdfjs-comment-floating-button-label = Komentar
 pdfjs-editor-signature-button =
     .title = Signaturu pśidaś
 pdfjs-editor-signature-button-label = Signaturu pśidaś
@@ -606,6 +614,7 @@ pdfjs-editor-add-signature-save-checkbox = Signaturu składowaś
 pdfjs-editor-add-signature-save-warning-message = Sćo dojśpił limit 5 skłaźonych signaturow. Wótwónoźćo jadnu, aby wěcej składował.
 pdfjs-editor-add-signature-image-upload-error-title = Wobraz njedajo se nagraś
 pdfjs-editor-add-signature-image-upload-error-description = Pśeglědajśo swój seśowy zwisk abo wopytajśo drugi wobraz.
+pdfjs-editor-add-signature-image-no-data-error-title = Toś ten wobraz njedajo se do signatury pśetwóriś
 pdfjs-editor-add-signature-error-close-button = Zacyniś
 
 ## Dialog buttons

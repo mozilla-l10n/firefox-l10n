@@ -608,6 +608,8 @@ pdfjs-editor-add-signature-save-checkbox = Hantekening bewarje
 pdfjs-editor-add-signature-save-warning-message = Jo hawwe de limyt fan 5 bewarre hantekeningen berikt. Ferwiderje ien om in oar te bewarjen.
 pdfjs-editor-add-signature-image-upload-error-title = Kin de ôfbylding net oplade
 pdfjs-editor-add-signature-image-upload-error-description = Kontrolearje jo netwurkferbining of probearje in oare ôfbylding.
+pdfjs-editor-add-signature-image-no-data-error-title = Kin dizze ôfbylding net nei in hantekening konvertearje
+pdfjs-editor-add-signature-image-no-data-error-description = Probearje in oare ôfbylding op te laden.
 pdfjs-editor-add-signature-error-close-button = Slute
 
 ## Dialog buttons

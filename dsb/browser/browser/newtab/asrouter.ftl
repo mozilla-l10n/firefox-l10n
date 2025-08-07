@@ -75,6 +75,8 @@ cfr-doorhanger-bookmark-fxa-close-btn-tooltip =
 fxa-adoption-addresses-backup-title = Zawěsćmy waše skłaźone adrese.
 fxa-adoption-addresses-backup-subtitle = Synchronizěrujśo swóje gronidła ze swójimi rědami ze skoděrowanim, aby swóje skłaźone adrese šćitał.
 fxa-adoption-credit-cards-backup-title = Zawěsćmy waše płaśeńske metody
+fxa-adoption-credit-cards-backup-subtitle = Synchronizěrujśo swóje gronidła ze swójimi rědami ze skoděrowanim, aby swóje płaśeńske metody šćitał.
+fxa-adoption-primary-button-label = Registrěrowaś
 
 ## Protections panel
 

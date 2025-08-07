@@ -54,3 +54,5 @@ experimental-features-newtab-sections-follow-block-description = Organisearje de
 # Firefox Web Apps
 experimental-features-fx-web-apps =
     .label = Websites oan jo taakbalke tafoegje
+# “Add tab to taskbar” is found in the tooltip text of `-taskbar-tab-urlbar-button-open`.
+experimental-features-fx-web-apps-description = Iepenje websites dy’t jo regelmjittich besykje as in webapp fan jo taakbalke út. Sykje nei it piktogram ‘Ljepblêd oan taakbalke tafoegje’ rjochts yn de adresbalke om dy website yn in streamline finster te iepenjen, mei alle beskermingen fan { -brand-product-name }. <a data-l10n-name="connect">Kommentaar diele</a>

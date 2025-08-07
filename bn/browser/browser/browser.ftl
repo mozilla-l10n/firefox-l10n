@@ -706,6 +706,30 @@ urlbar-result-action-tabtosearch-web = ঠিকানাদণ্ড থেক�
 urlbar-result-action-copy-to-clipboard = কপি
 # The string returned for an undefined calculator result such as when dividing by 0
 urlbar-result-action-undefined-calculator-result = অনির্ধারিত
+# Shows the name of the provider of weather data in a weather suggestion in the
+# urlbar.
+# Variables:
+#   $provider (String) - The name of the weather-data provider. It will be the
+#       name of a company, organization, or service.
+urlbar-result-weather-provider-sponsored = { $provider } · স্পন্সরকৃত
+
+## These strings are used for Realtime suggestions in the urlbar.
+## Market refers to stocks, indexes, and funds.
+
+# This string is shown as title when Market suggestion are disabled.
+urlbar-result-market-opt-in-title = আপনার সার্চ বারেই শেয়ার বাজারের তথ্য পান
+# This string is shown as button to activate online when realtime suggestion are disabled.
+urlbar-result-realtime-opt-in-allow = পরামর্শ দেখান
+# This string is shown in split button to dismiss activation the Realtime suggestion.
+urlbar-result-realtime-opt-in-not-now = এখন নয়
+urlbar-result-realtime-opt-in-dismiss = বাতিল
+urlbar-result-realtime-opt-in-dismiss-all =
+    .label = এই পরামর্শগুলি দেখাবেন না
+# This string is shown in the result menu.
+urlbar-result-menu-dont-show-market =
+    .label = মার্কেটের পরামর্শগুলি দেখাবেন না
+# A message that replaces a result when the user dismisses Market suggestions.
+urlbar-result-dismissal-acknowledgment-market = আপনার প্রতিক্রিয়ার জন্য ধন্যবাদ। এখন থেকে আপনি আর মার্কেটের পরামর্শগুলি দেখবেন না।
 
 ## Strings used for buttons in the urlbar
 
@@ -721,6 +745,8 @@ urlbar-searchmode-actions =
     .label = অ্যাকশন
 urlbar-searchmode-exit-button =
     .tooltiptext = বন্ধ
+urlbar-searchmode-default =
+    .tooltiptext = ডিফল্ট সার্চ ইঞ্জিন
 urlbar-searchmode-popup-search-settings-menuitem =
     .label = অনুসন্ধান সেটিংস
 urlbar-searchmode-button-no-engine =
@@ -746,6 +772,14 @@ urlbar-result-action-open-saved-tabgroup = খুলুন { $group }
 #  $engine (String): the name of the search engine providing the suggestions
 urlbar-group-search-suggestions =
     .label = { $engine } সুপারিশসমূহ
+# A label shown above Quick Actions in the urlbar results.
+urlbar-group-quickactions =
+    .label = দ্রুত পদক্ষেপ
+# A label shown above the recent searches group in the urlbar results.
+# Variables
+#  $engine (String): the name of the search engine used to search.
+urlbar-group-recent-searches =
+    .label = সাম্প্রতিক অনুসন্ধান
 
 ## Reader View toolbar buttons
 

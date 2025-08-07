@@ -125,11 +125,13 @@ addon-install-error-corrupt-file = De fan dizze website downloade add-on koe net
 addon-install-error-file-access = { $addonName } koe net ynstallearre wurde, omdat { -brand-short-name } it nedige bestân net oanpasse kin.
 addon-install-error-not-signed = { -brand-short-name } hat opkeard dat dizze website in net-ferifiearre add-on ynstallearre hat.
 addon-install-error-invalid-domain = De add-on { $addonName } kin net fan dizze lokaasje ynstallearre wurde.
+addon-install-error-no-addon-name-file-access = De add-on koe net ynstallearre wurde, omdat { -brand-short-name } it nedige bestân net oanpasse kin.
 addon-local-install-error-network-failure = Dizze add-on koe net ynstallearre wurde, fanwegen in bestânssysteemflater.
 addon-local-install-error-incorrect-hash = Dizze add-on koe net ynstallearre wurde, omdat dizze net oerienkomt mei de ferwachte add-on { -brand-short-name }.
 addon-local-install-error-corrupt-file = Dizze add-on koe net ynstallearre wurde, omdat dizze skansearre liket.
 addon-local-install-error-file-access = { $addonName } koe net ynstallearre wurde, omdat { -brand-short-name } it nedige bestân net oanpasse kin.
 addon-local-install-error-not-signed = Dizze add-on koe net ynstallearre wurde, omdat dizze net ferifiearre is.
+addon-local-install-no-addon-name-error-file-access = De add-on koe net ynstallearre wurde, omdat { -brand-short-name } it nedige bestân net oanpasse kin.
 # Variables:
 #   $appVersion (String): the application version.
 addon-install-error-incompatible = { $addonName } koe net ynstallearre wurde, omdat it net kompatibel is mei { -brand-short-name } { $appVersion }.

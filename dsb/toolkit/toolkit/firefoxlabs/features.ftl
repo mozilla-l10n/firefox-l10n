@@ -51,3 +51,8 @@ experimental-features-link-previews-description-no-ai =
 experimental-features-newtab-sections-follow-block =
     .label = Temowe wótrězki a Slědowaś/Blokěrowaś za tšojeńka boka Nowy rejtarik
 experimental-features-newtab-sections-follow-block-description = Organizěrujśo tšojeńka na wašom boku Nowy rejtarik w temowych wótrězkach (sport, caroba, rozwjaselenje a wěcej) za wěcej strukturěrowane dožywjenje, kótarež dajo se lažko scannowaś. Wužywajśo našej wóźeńskej elementa Slědowaś a Blokěrowaś, aby pśiměrił, kótare wopśimjeśe wiźiśo. <a data-l10n-name="connect">Měnjenje źěliś</a>
+# Firefox Web Apps
+experimental-features-fx-web-apps =
+    .label = Nadawkowej rědce sedła pśidaś
+# “Add tab to taskbar” is found in the tooltip text of `-taskbar-tab-urlbar-button-open`.
+experimental-features-fx-web-apps-description = Wócyńśo sedła, ku kótarymž cesto woglědujośo ako webnałoženje ze swójeje nadawkoweje rědki. Pytajśo za symbolom „Nadawkowej rědce rejtarik pśidaś“ napšawo pódla adresowego póla, aby to sedło w optiměrowanem woknje ze wšymi šćitami { -brand-product-name } startował. <a data-l10n-name="connect">Měnjenje źěliś</a>
