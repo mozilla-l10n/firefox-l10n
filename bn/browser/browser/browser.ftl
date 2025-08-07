@@ -191,6 +191,12 @@ urlbar-result-menu-remove-from-history =
 urlbar-result-menu-tip-get-help =
     .label = সাহায্য নিন
     .accesskey = h
+urlbar-result-menu-dismiss-suggestion =
+    .label = এই পরামর্শটি বাতিল করুন
+    .accesskey = D
+urlbar-result-menu-learn-more-about-firefox-suggest =
+    .label = { -firefox-suggest-brand-name } সম্পর্কে আরও জানুন
+    .accesskey = L
 # Some urlbar suggestions show the user's approximate location as automatically
 # detected by Firefox (e.g., weather suggestions), and this menu item lets the
 # user tell Firefox that the location is not accurate. Typically the location

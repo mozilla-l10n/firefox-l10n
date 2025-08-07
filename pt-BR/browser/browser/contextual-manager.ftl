@@ -18,6 +18,7 @@ contextual-manager-passwords-command-import-from-browser = Importar de outro nav
 contextual-manager-passwords-command-import = Importar de um arquivo…
 contextual-manager-passwords-command-export = Exportar senhas
 contextual-manager-passwords-command-remove-all = Remover todas as senhas
+contextual-manager-passwords-command-options = Opções
 contextual-manager-passwords-command-settings = Configurações
 contextual-manager-passwords-command-help = Ajuda
 contextual-manager-passwords-os-auth-dialog-caption = { -brand-full-name }
@@ -159,6 +160,8 @@ contextual-manager-passwords-password-already-exists-error-button = Ir para a se
 contextual-manager-passwords-update-password-success-heading =
     .heading = Senha salva
 contextual-manager-passwords-update-password-success-button = Concluído
+contextual-manager-passwords-update-username-success-heading-2 =
+    .heading = Nome de usuário adicionado
 contextual-manager-passwords-update-username-success-heading =
     .heading = Nome de usuário salvo
 # Message to confirm successful removal of a password/passwords.
@@ -212,12 +215,15 @@ contextual-manager-passwords-title = Senhas
 
 contextual-manager-passwords-create-label =
     .label = Adicionar senha
+contextual-manager-passwords-update-label =
+    .label = Atualizar senha
 contextual-manager-passwords-edit-label =
     .label = Editar senha
 contextual-manager-passwords-remove-label =
     .title = Remover senha
 contextual-manager-passwords-origin-tooltip = Insira o endereço exato onde você entra na conta neste site.
 contextual-manager-passwords-username-tooltip = Digite o nome de usuário, endereço de email ou número de conta que você usa para entrar.
+contextual-manager-passwords-password-tooltip-2 = Digite a senha para entrar nesta conta.
 contextual-manager-passwords-password-tooltip = Digite a senha usada para entrar nesta conta.
 
 ## Password Card
@@ -294,6 +300,7 @@ contextual-manager-hide-password-button =
 # The message displayed when the search text does not match any of the user's saved logins.
 contextual-manager-passwords-no-passwords-found-header =
     .heading = Nenhuma senha encontrada
+contextual-manager-passwords-no-passwords-found-message-2 = Experimente um termo diferente e pesquise novamente.
 contextual-manager-passwords-no-passwords-found-message = Nenhuma senha encontrada. Pesquise outro termo e tente novamente.
 
 ## When the user has no saved passwords, we display the following messages to inform the user they can save
@@ -308,6 +315,8 @@ contextual-manager-passwords-no-passwords-message = Todas as senhas são criptog
 contextual-manager-passwords-no-passwords-get-started-message = Adicione aqui para iniciar.
 # This string is displayed in a button. If the user clicks it, they will be taken to a form to create a new password.
 contextual-manager-passwords-add-manually = Adicionar manualmente
+# This string encourages the user to save their passwords in Firefox (the "safe spot").
+contextual-manager-passwords-no-passwords-header-2 = Salve suas senhas em um local seguro
 
 ## When the user cancels a login that's currently being edited, we display a message to confirm whether
 ## or not the user wants to discard their current edits to the login.
@@ -323,3 +332,8 @@ contextual-manager-passwords-remove-all-passwords-checkbox =
         [1] Sim, remover senha
        *[other] Yes, remove passwords
     }
+# This string informs the user they need to provide their primary password for FireFox to access their saved passwords in Firefox.
+contextual-manager-primary-password-reauth-header = Para ver suas senhas salvas, digite sua senha principal.
+# This string informs the user their primary password is used to authenticate and access their passwords
+contextual-manager-primary-password-reauth-button = Digite a senha principal
+contextual-manager-primary-password-learn-more-link = Saiba mais
