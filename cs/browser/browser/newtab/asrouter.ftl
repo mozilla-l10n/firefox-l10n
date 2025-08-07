@@ -74,6 +74,7 @@ fxa-adoption-addresses-backup-title = Zazálohujte si uložené adresy
 fxa-adoption-addresses-backup-subtitle = Chraňte svá hesla synchronizací se zařízeními pomocí šifrování.
 fxa-adoption-credit-cards-backup-title = Pojďme si zazálohovat vaše platební metody
 fxa-adoption-credit-cards-backup-subtitle = Chraňte své platební metody tím, že je synchronizujete se svými zařízeními pomocí šifrování.
+fxa-adoption-primary-button-label = Zaregistrovat se
 
 ## Protections panel
 
@@ -502,6 +503,18 @@ multi-cta-fox-doodle-privacy-focused-subtitle =
     }
 multi-cta-fox-doodle-msix-privacy-focused-subtitle = Svůj oblíbený prohlížeč zaměřený na ochranu soukromí můžete mít na dosah jediného klepnutí. Nastavte { -brand-short-name } jako výchozí prohlížeč pro otevírání odkazů a připněte jej na hlavní panel a do nabídky Start.
 
+## Windows 10 EoS Sync messages group 1 spotlight
+
+windows-10-eos-sync-spotlight-title = Budete brzy aktualizovat z Windows 10?
+windows-10-eos-sync-spotlight-subtitle = Zálohujte si svá hesla a záložky, abyste je mohli začít používat kdekoliv na svém zařízení.
+windows-10-eos-sync-spotlight-primary-label =
+    { -brand-short-name.case-status ->
+        [with-cases] Zálohujte si svůj { -brand-short-name(case: "acc") }
+       *[no-cases] Zálohujte si svou aplikaci { -brand-short-name }
+    }
+
 ## Windows 10 EoS Sync messages group 1 toast notification
 
+windows-10-eos-sync-toast-title = Chcete aktualizovat na Windows 11? Neztraťte své záložky a hesla.
+windows-10-eos-sync-toast-primary-label = Začít
 windows-10-eos-sync-toast-secondary-label = Upozornit mě později

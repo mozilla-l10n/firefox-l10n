@@ -88,6 +88,14 @@ newtab-confirm-delete-history-p2 = Tuto akci nelze vzít zpět.
 
 newtab-topsite-sponsored = Sponzorováno
 
+## Label used by screen readers for pinned top sites
+
+# Variables:
+#   $title (string) - The label or hostname of the site.
+topsite-label-pinned =
+    .aria-label = { $title } (připnuta)
+    .title = { $title }
+
 ## Context Menu - Action Tooltips.
 
 # General tooltip for context menus.
@@ -555,6 +563,7 @@ newtab-custom-wallpaper-cta = Vyzkoušejte ho
 
 ## Strings for new user activation custom wallpaper highlight
 
+newtab-new-user-custom-wallpaper-subtitle = Zajistěte, aby se každý nový panel cítil jako doma pomocí vlastních tapet a barev.
 newtab-new-user-custom-wallpaper-cta = Vyzkoušejte nyní
 
 ## Strings for download mobile highlight
