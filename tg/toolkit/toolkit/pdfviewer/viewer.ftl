@@ -627,6 +627,11 @@ pdfjs-editor-edit-comment-manager-text-input =
 pdfjs-editor-edit-comment-manager-cancel-button = Бекор кардан
 pdfjs-editor-edit-comment-manager-save-button = Нигоҳ доштан
 
+## Edit a comment button in the editor toolbar
+
+pdfjs-editor-edit-comment-button =
+    .title = Таҳрир кардани шарҳ
+
 ## Main menu for adding/removing signatures
 
 pdfjs-editor-delete-signature-button1 =

@@ -804,9 +804,21 @@ urlbar-result-weather-provider-sponsored = { $provider } · Сарпарастӣ
 ## These strings are used for Realtime suggestions in the urlbar.
 ## Market refers to stocks, indexes, and funds.
 
+# This string is shown as button to activate online when realtime suggestion are disabled.
+urlbar-result-realtime-opt-in-allow = Нишон додани пешниҳодҳо
 # This string is shown in split button to dismiss activation the Realtime suggestion.
 urlbar-result-realtime-opt-in-not-now = Ҳоло не
 urlbar-result-realtime-opt-in-dismiss = Нодида гузарондан
+urlbar-result-realtime-opt-in-dismiss-all =
+    .label = Пешниҳодҳои зерин нишон дода нашаванд
+# This string is shown in the result menu.
+urlbar-result-menu-dont-show-market =
+    .label = Пешниҳодҳои бозоршиносӣ нишон дода нашаванд
+# A message that replaces a result when the user dismisses Market suggestions.
+urlbar-result-dismissal-acknowledgment-market = Ташаккур барои изҳори назари шумо. Ба шумо дигар пешниҳодҳои бозоршиносӣ нишон дода намешаванд.
+# A message that replaces a result when the user dismisses all suggestions of a
+# particular type.
+urlbar-result-dismissal-acknowledgment-all = Ташаккур барои изҳори назари шумо. Ба шумо дигар пешниҳодҳои зерин нишон дода намешаванд.
 
 ## Strings used for buttons in the urlbar
 

@@ -18,6 +18,7 @@ contextual-manager-passwords-command-import-from-browser = Аз браузери
 contextual-manager-passwords-command-import = Аз файл ворид кардан…
 contextual-manager-passwords-command-export = Содир кардани ниҳонвожаҳо
 contextual-manager-passwords-command-remove-all = Тоза кардани ҳамаи ниҳонвожаҳо
+contextual-manager-passwords-command-options = Имконот
 contextual-manager-passwords-command-settings = Танзимот
 contextual-manager-passwords-command-help = Кумак
 contextual-manager-passwords-os-auth-dialog-caption = { -brand-full-name }
@@ -157,6 +158,8 @@ contextual-manager-passwords-password-already-exists-error-button = Гузари
 contextual-manager-passwords-update-password-success-heading =
     .heading = Ниҳонвожа нигоҳ дошта шуд
 contextual-manager-passwords-update-password-success-button = Тайёр
+contextual-manager-passwords-update-username-success-heading-2 =
+    .heading = Номи корбар илова карда шуд
 contextual-manager-passwords-update-username-success-heading =
     .heading = Номи корбар нигоҳ дошта шуд
 # Message to confirm successful removal of a password/passwords.
@@ -210,12 +213,15 @@ contextual-manager-passwords-title = Ниҳонвожаҳо
 
 contextual-manager-passwords-create-label =
     .label = Илова кардани ниҳонвожа
+contextual-manager-passwords-update-label =
+    .label = Нав кардани ниҳонвожа
 contextual-manager-passwords-edit-label =
     .label = Таҳрир кардани ниҳонвожа
 contextual-manager-passwords-remove-label =
     .title = Тоза кардани ниҳонвожа
 contextual-manager-passwords-origin-tooltip = Нишонии дақиқеро, ки шумо аз он ба ин сомона ворид мешавед, ворид намоед.
 contextual-manager-passwords-username-tooltip = Номи корбар, нишонии почтаи электронӣ ё рақами ҳисоберо, ки шумо барои воридшавӣ истифода мебаред, ворид намоед.
+contextual-manager-passwords-password-tooltip-2 = Барои ворид шудан ба ин ҳисоб ниҳонвожаро ворид намоед.
 contextual-manager-passwords-password-tooltip = Ниҳонвожаеро, ки барои воридшавӣ ба ин ҳисоб истифода мешавад, ворид намоед.
 
 ## Password Card
@@ -321,3 +327,6 @@ contextual-manager-passwords-remove-all-passwords-checkbox =
         [1] Ҳа, ниҳонвожаро тоза намоед
        *[other] Yes, remove passwords
     }
+# This string informs the user their primary password is used to authenticate and access their passwords
+contextual-manager-primary-password-reauth-button = Ниҳонвожаи асосиро ворид кунед
+contextual-manager-primary-password-learn-more-link = Маълумоти бештар
