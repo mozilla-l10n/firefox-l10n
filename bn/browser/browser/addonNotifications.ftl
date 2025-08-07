@@ -81,6 +81,8 @@ addon-removal-title = { $name } অপসারণ করতে চান?
 addon-removal-message = { -brand-shorter-name } হতে { $name } অপসারণ করবেন?
 addon-removal-button = অপসারণ
 addon-removal-abuse-report-checkbox = এই এক্সটেনশনটি { -vendor-short-name }-এ রিপোর্ট করুন
+# "it" refers to the local AI model that is paired to the AI feature
+addon-mlmodel-removal-body = আপনি যদি এই মডেলটি ব্যবহার করে ফিচার বা এক্সটেনশন ব্যবহার করেন, তাহলে এটি পুনরায় যোগ করা হবে।
 # Variables:
 #   $addonCount (Number): the number of add-ons being downloaded
 addon-downloading-and-verifying =

@@ -3,6 +3,8 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 about-policies-title = এন্টারপ্রাইজ নীতিমালা
+aboutpolicies-page-heading =
+    .heading = নীতিমালা সম্পর্কে
 # 'Active' is used to describe the policies that are currently active
 active-policies-tab = সক্রিয়
 errors-tab = ত্রুটিসমূহ
