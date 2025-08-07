@@ -816,7 +816,7 @@ urlbar-result-weather-provider-sponsored = { $provider } · Sponserowany
 ## Market refers to stocks, indexes, and funds.
 
 # This string is shown as title when Market suggestion are disabled.
-urlbar-result-market-opt-in-title = Wobstarajće sej daty akcijowych wikow direktnje w pytanskej lajsće
+urlbar-result-market-opt-in-title = Wobstarajće sej daty akcijowych wikow direktnje w pytanskim polu
 # This string is shown as description when Market suggestion are disabled.
 urlbar-result-market-opt-in-description = Pokazajće aktualizacije wikow a wjace wot našich partnerow, hdyž daty pytanja z { -vendor-short-name } dźěliće. <a data-l10n-name="learn-more-link">Dalše informacije</a>
 # This string is shown as button to activate online when realtime suggestion are disabled.

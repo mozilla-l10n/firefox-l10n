@@ -18,6 +18,7 @@ contextual-manager-passwords-command-import-from-browser = Z drugego wobglědowa
 contextual-manager-passwords-command-import = Z dataje importěrowaś…
 contextual-manager-passwords-command-export = Gronidła eksportěrowaś
 contextual-manager-passwords-command-remove-all = Wšykne gronidła wótwónoźeś
+contextual-manager-passwords-command-options = Nastajenja
 contextual-manager-passwords-command-settings = Nastajenja
 contextual-manager-passwords-command-help = Pomoc
 contextual-manager-passwords-os-auth-dialog-caption = { -brand-full-name }
@@ -172,6 +173,8 @@ contextual-manager-passwords-password-already-exists-error-button = Ku gronidło
 contextual-manager-passwords-update-password-success-heading =
     .heading = Gronidło jo se składło
 contextual-manager-passwords-update-password-success-button = Dokóńcone
+contextual-manager-passwords-update-username-success-heading-2 =
+    .heading = Wužywaŕske mě jo se pśidało
 contextual-manager-passwords-update-username-success-heading =
     .heading = Wužywaŕske mě jo se składło
 # Message to confirm successful removal of a password/passwords.
@@ -228,12 +231,15 @@ contextual-manager-passwords-title = Gronidła
 
 contextual-manager-passwords-create-label =
     .label = Gronidło pśidaś
+contextual-manager-passwords-update-label =
+    .label = Gronidło aktualizěrowaś
 contextual-manager-passwords-edit-label =
     .label = Gronidło wobźěłaś
 contextual-manager-passwords-remove-label =
     .title = Gronidło wótwónoźeś
 contextual-manager-passwords-origin-tooltip = Zapódajśo eksaktnu adresu, źož se pla toś togo sedła pśizjawjaśo.
 contextual-manager-passwords-username-tooltip = Zapódajśo wužywaŕske mě, e-mailowu adresu abo kontowy numer, kótaryž wužywaśo, aby se pśizjawił.
+contextual-manager-passwords-password-tooltip-2 = Zapódajśo gronidło, aby se pla toś togo konta pśizjawił.
 contextual-manager-passwords-password-tooltip = Zapódajśo gronidło, kótarež se wužywa, aby se pla toś togo konta pśizjawił.
 
 ## Password Card
@@ -316,6 +322,7 @@ contextual-manager-hide-password-button =
 # The message displayed when the search text does not match any of the user's saved logins.
 contextual-manager-passwords-no-passwords-found-header =
     .heading = Žedne gronidła namakane
+contextual-manager-passwords-no-passwords-found-message-2 = Wopytajśo drugi wuraz a pytajśo hyšći raz.
 contextual-manager-passwords-no-passwords-found-message = Žedne gronidła namakane. Pytajśo za drugim wurazom a wopytajśo hyšći raz.
 
 ## When the user has no saved passwords, we display the following messages to inform the user they can save
@@ -330,6 +337,8 @@ contextual-manager-passwords-no-passwords-message = Wšykne gronidła su skoděr
 contextual-manager-passwords-no-passwords-get-started-message = Pśidajśo je how, aby zachopił.
 # This string is displayed in a button. If the user clicks it, they will be taken to a form to create a new password.
 contextual-manager-passwords-add-manually = Manuelnje pśidaś
+# This string encourages the user to save their passwords in Firefox (the "safe spot").
+contextual-manager-passwords-no-passwords-header-2 = Składujśo swóje gronidła na wěstem městnje
 
 ## When the user cancels a login that's currently being edited, we display a message to confirm whether
 ## or not the user wants to discard their current edits to the login.
@@ -348,3 +357,8 @@ contextual-manager-passwords-remove-all-passwords-checkbox =
         [few] Jo, { $total } gronidła wótwónoźeś
        *[other] Jo, { $total } gronidłow wótwónoźeś
     }
+# This string informs the user they need to provide their primary password for FireFox to access their saved passwords in Firefox.
+contextual-manager-primary-password-reauth-header = Aby swóje skłaźone gronidła wiźeł, zapódajśo swójo głowne gronidło.
+# This string informs the user their primary password is used to authenticate and access their passwords
+contextual-manager-primary-password-reauth-button = Zapódajśo głowne gronidło
+contextual-manager-primary-password-learn-more-link = Dalšne informacije

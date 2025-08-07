@@ -72,6 +72,9 @@ cfr-doorhanger-bookmark-fxa-link-text = Synchronizěrujśo něnto cytańske znam
 cfr-doorhanger-bookmark-fxa-close-btn-tooltip =
     .aria-label = Tłocašk Zacyniś
     .title = Zacyniś
+fxa-adoption-addresses-backup-title = Zawěsćmy waše skłaźone adrese.
+fxa-adoption-addresses-backup-subtitle = Synchronizěrujśo swóje gronidła ze swójimi rědami ze skoděrowanim, aby swóje skłaźone adrese šćitał.
+fxa-adoption-credit-cards-backup-title = Zawěsćmy waše płaśeńske metody
 
 ## Protections panel
 

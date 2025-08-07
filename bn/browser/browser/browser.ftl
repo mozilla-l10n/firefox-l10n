@@ -350,6 +350,7 @@ quickactions-bookmarks2 = বুকমার্ক পরিচালনা ক�
 quickactions-cmd-bookmarks = বুকমার্ক
 # Opens a SUMO article explaining how to clear history
 quickactions-clearrecenthistory = সাম্প্রতিক ইতিহাস মুছে ফেলুন
+quickactions-cmd-clearrecenthistory = সাম্প্রতিক ইতিহাস মুছুন, ইতিহাস
 # Opens a SUMO article explaining how to clear history
 quickactions-clearhistory = ইতিহাস সাফ করুন
 quickactions-cmd-clearhistory = ইতিহাস পরিষ্কার করুন
@@ -359,6 +360,10 @@ quickactions-cmd-downloads = ডাউনলোড
 # Opens about:addons page in the extensions section
 quickactions-extensions = এক্সটেনশন পরিচালনা করুন
 quickactions-cmd-extensions = এক্সটেনশন
+# Opens Firefox View
+quickactions-firefoxview = খুলুন { -firefoxview-brand-name }
+# Opens SUMO home page
+quickactions-help = { -brand-product-name } সাহায্য
 # Opens the devtools web inspector
 quickactions-inspector2 = বিকাশকারী সরঞ্জাম খুলুন
 quickactions-cmd-inspector = পরিদর্শক, devtools
@@ -385,6 +390,7 @@ quickactions-restart = পুনরায় চালু করুন { -brand-
 quickactions-cmd-restart = রিস্টার্ট করুন
 # Opens the screenshot tool
 quickactions-screenshot3 = একটি স্ক্রিনশট নিন
+quickactions-cmd-screenshot2 = স্ক্রিনশট, একটি স্ক্রিনশট তুলুন
 quickactions-cmd-screenshot = স্ক্রিনশট
 # Opens about:preferences
 quickactions-settings2 = সেটিংস পরিচালনা করুন
@@ -401,6 +407,10 @@ quickactions-cmd-viewsource = উৎস দেখুন, উৎস
 # Tooltip text for the help button shown in the result.
 quickactions-learn-more =
     .title = দ্রুত ক্রিয়া সম্পর্কে আরও জানুন
+# Will be shown to users the first configurable number of times
+# they experience actions giving them instructions on how to
+# select the action shown by pressing the tab key.
+press-tab-label = নির্বাচন করতে ট্যাব চাপুন:
 
 ## Bookmark Panel
 
@@ -589,6 +599,10 @@ urlbar-search-mode-indicator-close =
 # engine is unknown.
 urlbar-placeholder =
     .placeholder = অনুসন্ধান করুন বা ঠিকানা দিন
+# This placeholder is used when not in search mode and searching in the urlbar
+# is disabled via the keyword.enabled pref.
+urlbar-placeholder-keyword-disabled =
+    .placeholder = ঠিকানা লিখুন
 # This placeholder is used in search mode with search engines that search the
 # entire web.
 # Variables
@@ -668,6 +682,8 @@ urlbar-result-action-visit = পরিদর্শন করুন
 # Variables
 # $container (String): the name of the target container
 urlbar-result-action-switch-tab-with-container = ট্যাবে স্যুইচ করুন · <span>{ $container }</span>৷
+# Used when the target tab is in a tab group that doesn't have a label.
+urlbar-result-action-tab-group-unnamed = নামহীন গ্রুপ
 # Allows the user to visit a URL that was previously copied to the clipboard.
 urlbar-result-action-visit-from-clipboard = ক্লিপবোর্ড থেকে দেখুন
 # Directs a user to press the Tab key to perform a search with the specified
@@ -686,9 +702,15 @@ urlbar-result-action-before-tabtosearch-other = { $engine } অনুসন্�
 #  $engine (String): the name of a search engine that searches the entire Web
 #  (e.g. Google).
 urlbar-result-action-tabtosearch-web = ঠিকানাদণ্ড থেকে সরাসরি { $engine } দ্বারা অনুসন্ধান করুন।
+# Action text for copying to clipboard.
+urlbar-result-action-copy-to-clipboard = কপি
+# The string returned for an undefined calculator result such as when dividing by 0
+urlbar-result-action-undefined-calculator-result = অনির্ধারিত
 
 ## Strings used for buttons in the urlbar
 
+urlbar-searchmode-dropmarker =
+    .tooltiptext = একটি সার্চ ইঞ্জিন বাছুন
 urlbar-searchmode-bookmarks =
     .label = বুকমার্ক
 urlbar-searchmode-tabs =
@@ -697,12 +719,33 @@ urlbar-searchmode-history =
     .label = ইতিহাস
 urlbar-searchmode-actions =
     .label = অ্যাকশন
+urlbar-searchmode-exit-button =
+    .tooltiptext = বন্ধ
+urlbar-searchmode-popup-search-settings-menuitem =
+    .label = অনুসন্ধান সেটিংস
+urlbar-searchmode-button-no-engine =
+    .label = কোনো শর্টকাট নির্বাচন করা হয়নি, একটি শর্টকাট বাছুন
+    .tooltiptext = কোনো শর্টকাট নির্বাচন করা হয়নি, একটি শর্টকাট বাছুন
 
 ## Action text shown in urlbar results, usually appended after the search
 ## string or the url, like "result value - action text".
 ## In these actions "Search" is a verb, followed by where the search is performed.
 
 urlbar-result-action-search-bookmarks = বুকমার্ক অনুসন্ধান করুন
+urlbar-result-action-search-history = অনুসন্ধান ইতিহাস
+urlbar-result-action-search-tabs = অনুসন্ধান ট্যাব
+# Label for a quickaction result used to re-opan a saved tab group.
+#  $group (String): the name of the tab group to re-open
+urlbar-result-action-open-saved-tabgroup = খুলুন { $group }
+
+## Labels shown above groups of urlbar results
+
+# A label shown above the search suggestions group in the urlbar results. It
+# should use sentence case.
+# Variables
+#  $engine (String): the name of the search engine providing the suggestions
+urlbar-group-search-suggestions =
+    .label = { $engine } সুপারিশসমূহ
 
 ## Reader View toolbar buttons
 

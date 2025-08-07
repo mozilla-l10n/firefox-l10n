@@ -817,6 +817,23 @@ urlbar-result-weather-provider-sponsored = { $provider } · Sponserowany
 
 # This string is shown as title when Market suggestion are disabled.
 urlbar-result-market-opt-in-title = Wobstarajśo se daty akcijowych wikow direktnje w pytańskem pólu
+# This string is shown as description when Market suggestion are disabled.
+urlbar-result-market-opt-in-description = Pokažćo aktualizacije wikow a wěcej wót našych partnerow, gaž daty pytanja z { -vendor-short-name } źěliśo. <a data-l10n-name="learn-more-link">Dalšne informacije</a>
+# This string is shown as button to activate online when realtime suggestion are disabled.
+urlbar-result-realtime-opt-in-allow = Naraźenja pokazaś
+# This string is shown in split button to dismiss activation the Realtime suggestion.
+urlbar-result-realtime-opt-in-not-now = Nic něnto
+urlbar-result-realtime-opt-in-dismiss = Zachyśiś
+urlbar-result-realtime-opt-in-dismiss-all =
+    .label = Toś te naraźenja njepokazaś
+# This string is shown in the result menu.
+urlbar-result-menu-dont-show-market =
+    .label = Toś te wikowe naraźenja njepokazaś
+# A message that replaces a result when the user dismisses Market suggestions.
+urlbar-result-dismissal-acknowledgment-market = Wjeliki źěk za waš komentar. Njebuźośo wěcej wikowe naraźenja wiźeś.
+# A message that replaces a result when the user dismisses all suggestions of a
+# particular type.
+urlbar-result-dismissal-acknowledgment-all = Wjeliki źěk za waš komentar. Njebuźośo wěcej toś te naraźenja wiźeś.
 
 ## Strings used for buttons in the urlbar
 
