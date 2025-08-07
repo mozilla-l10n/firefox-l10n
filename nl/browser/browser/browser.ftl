@@ -807,6 +807,10 @@ urlbar-result-weather-provider-sponsored = { $provider } · Gesponsord
 ## These strings are used for Realtime suggestions in the urlbar.
 ## Market refers to stocks, indexes, and funds.
 
+# This string is shown as title when Market suggestion are disabled.
+urlbar-result-market-opt-in-title = Ontvang beursgegevens rechtstreeks in uw zoekbalk
+# This string is shown as description when Market suggestion are disabled.
+urlbar-result-market-opt-in-description = Toon beursupdates en meer van onze partners wanneer u zoekopdrachtgegevens deelt met { -vendor-short-name }. <a data-l10n-name="learn-more-link">Meer info</a>
 # This string is shown as button to activate online when realtime suggestion are disabled.
 urlbar-result-realtime-opt-in-allow = Suggesties tonen
 # This string is shown in split button to dismiss activation the Realtime suggestion.
@@ -814,6 +818,14 @@ urlbar-result-realtime-opt-in-not-now = Niet nu
 urlbar-result-realtime-opt-in-dismiss = Sluiten
 urlbar-result-realtime-opt-in-dismiss-all =
     .label = Deze suggesties niet tonen
+# This string is shown in the result menu.
+urlbar-result-menu-dont-show-market =
+    .label = Geen beurssuggesties tonen
+# A message that replaces a result when the user dismisses Market suggestions.
+urlbar-result-dismissal-acknowledgment-market = Bedankt voor uw feedback. U ziet geen beurssuggesties meer.
+# A message that replaces a result when the user dismisses all suggestions of a
+# particular type.
+urlbar-result-dismissal-acknowledgment-all = Bedankt voor uw feedback. U ziet deze suggesties niet meer.
 
 ## Strings used for buttons in the urlbar
 

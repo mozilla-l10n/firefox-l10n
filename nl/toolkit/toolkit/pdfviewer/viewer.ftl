@@ -608,6 +608,8 @@ pdfjs-editor-add-signature-save-checkbox = Handtekening opslaan
 pdfjs-editor-add-signature-save-warning-message = U hebt de limiet van 5 opgeslagen handtekeningen bereikt. Verwijder er een om een andere op te slaan.
 pdfjs-editor-add-signature-image-upload-error-title = Kan afbeelding niet uploaden
 pdfjs-editor-add-signature-image-upload-error-description = Controleer uw netwerkverbinding of probeer een andere afbeelding.
+pdfjs-editor-add-signature-image-no-data-error-title = Kan deze afbeelding niet naar een handtekening converteren
+pdfjs-editor-add-signature-image-no-data-error-description = Probeer een andere afbeelding te uploaden.
 pdfjs-editor-add-signature-error-close-button = Sluiten
 
 ## Dialog buttons
@@ -626,6 +628,15 @@ pdfjs-editor-edit-comment-close-button =
     .title = Sluiten
 pdfjs-editor-edit-comment-actions-edit-button-label = Bewerken
 pdfjs-editor-edit-comment-actions-delete-button-label = Verwijderen
+pdfjs-editor-edit-comment-manager-text-input =
+    .placeholder = Voer uw opmerking in
+pdfjs-editor-edit-comment-manager-cancel-button = Annuleren
+pdfjs-editor-edit-comment-manager-save-button = Opslaan
+
+## Edit a comment button in the editor toolbar
+
+pdfjs-editor-edit-comment-button =
+    .title = Opmerking bewerken
 
 ## Main menu for adding/removing signatures
 
