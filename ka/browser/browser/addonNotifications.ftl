@@ -125,6 +125,7 @@ addon-install-error-corrupt-file = ამ საიტიდან ჩამო�
 addon-install-error-file-access = { $addonName } ვერ ჩაიდგმება, რადგან { -brand-short-name } ვერ ახერხებს საჭირო ფაილის ცვლილებას.
 addon-install-error-not-signed = { -brand-short-name } უზღუდავს ამ საიტს დაუმოწმებელი დამატებების ჩადგმას.
 addon-install-error-invalid-domain = დამატება { $addonName } ვერ ჩაიდგმება ამ მისამართიდან.
+addon-install-error-no-addon-name-file-access = დამატება ვერ ჩაიდგმება, რადგან { -brand-short-name } ვერ ახერხებს საჭირო ფაილის ცვლილებას.
 addon-local-install-error-network-failure = დამატების ჩადგმა ვერ მოხერხდა, ფაილური სისტემის შეცდომის გამო.
 addon-local-install-error-incorrect-hash = დამატების ჩადგმა ვერ მოხერხდა, რადგან განსხვავდება იმ დამატებისგან, რომელსაც { -brand-short-name } მოელოდა.
 addon-local-install-error-corrupt-file = ეს დამატება ვერ ჩაიდგმება, ვინაიდან როგორც ჩანს, დაზიანებულია.
