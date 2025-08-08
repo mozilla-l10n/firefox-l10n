@@ -108,7 +108,7 @@ about-logins-login-intro-heading-logged-in = Eşitlenmiş hesap bulunamadı.
 login-intro-description = Hesaplarınızı farklı bir cihazdaki { -brand-product-name } tarayıcınıza kaydettiyseniz onları buraya aktarabilirsiniz:
 login-intro-instructions-fxa = Hesaplarınızın kayıtlı olduğu cihazda { -fxaccount-brand-name } açın veya hesabınıza giriş yapın.
 about-logins-login-intro-heading-message = Parolalarınızı güvenli bir yere kaydedin
-login-intro-description2 = { -brand-product-name } tarayıcınıza kaydettiğiniz tüm parolalar şifrelenir. Ayrıca, ihlalleri takip ediyor ve etkilenmeniz durumunda sizi uyarıyoruz. <a data-l10n-name="breach-alert-link">Daha fazla bilgi alın</a>
+login-intro-description2 = { -brand-product-name } tarayıcınıza kaydettiğiniz tüm parolalar şifrelenir. Ayrıca, parolalarınızın bir ihlalden etkilendiğini tespit edersek size haber veririz. <a data-l10n-name="breach-alert-link">Daha fazla bilgi alın</a>
 login-intro-instructions-fxa2 = Hesaplarınızın kayıtlı olduğu cihazda hesap açın veya hesabınıza giriş yapın.
 login-intro-instructions-fxa-settings = Ayarlar > Eşitleme > “Eşitlemeyi başlat…” kısmına gidip “Hesaplar ve parolalar”ı işaretleyin.
 login-intro-instructions-fxa-passwords-help = Yardıma ihtiyacınız varsa <a data-l10n-name="passwords-help-link">parola desteğini</a> ziyaret edebilirsiniz.
@@ -128,8 +128,8 @@ login-item-tooltip-message = Giriş yaptığınız web sitesinin tam adresiyle a
 about-logins-origin-tooltip2 = Tam adresi yazın ve giriş yaptığınız adresle tam olarak aynı olduğundan emin olun.
 # Variables
 #   $webTitle (String) - Website title of the password being changed.
-about-logins-edit-password-tooltip = Bu sitede kullanmakta olduğunuz parolayı kaydettiğinizden emin olun. Buradaki parolayı değiştirmek { $webTitle } sitesindeki parolanızı değiştirmez.
-about-logins-add-password-tooltip = Bu sitede kullanmakta olduğunuz parolayı kaydettiğinizden emin olun.
+about-logins-edit-password-tooltip = Bu sitede kullandığınız parolayı kaydedin. Buradaki parolayı değiştirmek { $webTitle } sitesindeki parolanızı değiştirmez.
+about-logins-add-password-tooltip = Bu sitede kullandığınız parolayı kaydettiğinizden emin olun.
 login-item-origin =
     .placeholder = https://www.example.com
 login-item-username-label = Kullanıcı adı
@@ -147,7 +147,7 @@ login-item-copied-password-button-text = Kopyalandı!
 login-item-save-changes-button = Değişiklikleri kaydet
 about-logins-login-item-save-changes-button = Kaydet
 login-item-save-new-button = Kaydet
-login-item-cancel-button = İptal
+login-item-cancel-button = Vazgeç
 
 ## The date is displayed in a timeline showing the password evolution.
 ## A label is displayed under the date to describe the type of change.
@@ -215,9 +215,9 @@ master-password-reload-button =
 
 ## Dialogs
 
-confirmation-dialog-cancel-button = İptal
+confirmation-dialog-cancel-button = Vazgeç
 confirmation-dialog-dismiss-button =
-    .title = İptal
+    .title = Vazgeç
 about-logins-confirm-remove-dialog-title = Bu hesap kaldırılsın mı?
 confirm-delete-dialog-message = Bu işlem geri alınamaz.
 # Title for modal to confirm the removal of one saved password

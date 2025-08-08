@@ -172,7 +172,7 @@ pdfjs-print-progress-message = Belge yazdırılmaya hazırlanıyor…
 # Variables:
 #   $progress (Number) - percent value
 pdfjs-print-progress-percent = %{ $progress }
-pdfjs-print-progress-close-button = İptal
+pdfjs-print-progress-close-button = Vazgeç
 pdfjs-printing-not-supported = Uyarı: Yazdırma bu tarayıcı tarafından tam olarak desteklenmemektedir.
 pdfjs-printing-not-ready = Uyarı: PDF tamamen yüklenmedi ve yazdırmaya hazır değil.
 
@@ -295,7 +295,7 @@ pdfjs-annotation-date-time-string = { DATETIME($dateObj, dateStyle: "short", tim
 pdfjs-password-label = Bu PDF dosyasını açmak için parolasını yazın.
 pdfjs-password-invalid = Geçersiz parola. Lütfen yeniden deneyin.
 pdfjs-password-ok-button = Tamam
-pdfjs-password-cancel-button = İptal
+pdfjs-password-cancel-button = Vazgeç
 pdfjs-web-fonts-disabled = Web fontları devre dışı: Gömülü PDF fontları kullanılamıyor.
 
 ## Editing

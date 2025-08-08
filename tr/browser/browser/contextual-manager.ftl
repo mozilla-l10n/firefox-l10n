@@ -193,7 +193,7 @@ contextual-manager-passwords-remove-login-card-back-message = Geri dön
 # This message confirms that the user wants to remove an existing login.
 contextual-manager-passwords-remove-login-card-remove-button = Sil
 # This message gives the user the option to cancel their attempt to remove a login.
-contextual-manager-passwords-remove-login-card-cancel-button = İptal
+contextual-manager-passwords-remove-login-card-cancel-button = Vazgeç
 contextual-manager-passwords-alert-card =
     .aria-label = Parola uyarıları
 contextual-manager-passwords-alert-back-button =
@@ -313,7 +313,7 @@ contextual-manager-passwords-no-passwords-found-message = Parola bulunamadı. Fa
 ## their passwords safely and securely in Firefox:
 
 # This string encourages the user to save their passwords in Firefox (the "safe spot").
-contextual-manager-passwords-no-passwords-header = Parolalarınızı güvenli bir yere kaydedin.
+contextual-manager-passwords-no-passwords-header = Parolalarınızı güvenle kaydedin.
 # This string informs that we (Firefox) store all passwords securely and will notify them of any breaches and alerts their
 # passwords may be involved in.
 contextual-manager-passwords-no-passwords-message = Tüm parolalar şifrelenerek saklanır. Ayrıca, parolalarınızın bir ihlalden etkilendiğini tespit edersek size haber veririz.
@@ -322,7 +322,7 @@ contextual-manager-passwords-no-passwords-get-started-message = Başlamak için 
 # This string is displayed in a button. If the user clicks it, they will be taken to a form to create a new password.
 contextual-manager-passwords-add-manually = Elle ekle
 # This string encourages the user to save their passwords in Firefox (the "safe spot").
-contextual-manager-passwords-no-passwords-header-2 = Parolalarınızı güvenli bir yere kaydedin
+contextual-manager-passwords-no-passwords-header-2 = Parolalarınızı güvenle kaydedin
 
 ## When the user cancels a login that's currently being edited, we display a message to confirm whether
 ## or not the user wants to discard their current edits to the login.

@@ -92,8 +92,8 @@ addon-downloading-and-verifying =
     }
 addon-download-verifying = Doğrulanıyor
 addon-install-cancel-button =
-    .label = İptal
-    .accesskey = a
+    .label = Vazgeç
+    .accesskey = V
 addon-install-accept-button =
     .label = Ekle
     .accesskey = E

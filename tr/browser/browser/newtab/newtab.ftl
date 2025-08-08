@@ -72,7 +72,7 @@ newtab-topsites-image-validation = Resim yüklenemedi. Başka bir adres deneyin.
 
 ## Top Sites - General form dialog buttons. These are verbs/actions.
 
-newtab-topsites-cancel-button = İptal
+newtab-topsites-cancel-button = Vazgeç
 newtab-topsites-delete-history-button = Geçmişten sil
 newtab-topsites-save-button = Kaydet
 newtab-topsites-preview-button = Ön izleme yap
