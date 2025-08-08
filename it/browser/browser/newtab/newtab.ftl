@@ -663,5 +663,6 @@ newtab-widget-timer-pause =
 newtab-widget-timer-reset =
     .title = Ripristina
 newtab-widget-timer-menu-notifications = Disattiva notifiche
+newtab-widget-timer-menu-notifications-on = Attiva le notifiche
 newtab-widget-timer-menu-hide = Nascondi timer
 newtab-widget-timer-menu-learn-more = Ulteriori informazioni
