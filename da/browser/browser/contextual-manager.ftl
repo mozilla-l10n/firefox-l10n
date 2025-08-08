@@ -18,6 +18,7 @@ contextual-manager-passwords-command-import-from-browser = Importer fra en anden
 contextual-manager-passwords-command-import = Importer fra fil…
 contextual-manager-passwords-command-export = Eksporter adgangskoder
 contextual-manager-passwords-command-remove-all = Fjern alle adgangskoder
+contextual-manager-passwords-command-options = Indstillinger
 contextual-manager-passwords-command-settings = Indstillinger
 contextual-manager-passwords-command-help = Hjælp
 contextual-manager-passwords-os-auth-dialog-caption = { -brand-full-name }
@@ -65,6 +66,12 @@ contextual-manager-passwords-import-success-heading =
 #   $added (number) - Number of added passwords
 #   $modified (number) - Number of modified passwords
 contextual-manager-passwords-import-success-message = Nye: { $added }, Opdaterede: { $modified }
+# Variables
+#   $added (number) - Number of added passwords
+#   $modified (number) - Number of modified passwords
+#   $no_change (number) - Number of duplicate passwords
+#   $error (number) - Number of invalid passwords
+contextual-manager-passwords-import-success-message-2 = Nye: { $added }, opdaterede: { $modified }, dubletter: { $no_change }, fejl: { $error }
 contextual-manager-passwords-import-detailed-report = Se detaljeret rapport
 contextual-manager-passwords-import-success-button = Færdig
 contextual-manager-passwords-import-error-heading-and-message =
@@ -155,6 +162,8 @@ contextual-manager-passwords-password-already-exists-error-button = Gå til adga
 contextual-manager-passwords-update-password-success-heading =
     .heading = Adgangskode gemt
 contextual-manager-passwords-update-password-success-button = Færdig
+contextual-manager-passwords-update-username-success-heading-2 =
+    .heading = Brugernavn tilføjet
 contextual-manager-passwords-update-username-success-heading =
     .heading = Brugernavn gemt
 # Message to confirm successful removal of a password/passwords.
@@ -209,6 +218,8 @@ contextual-manager-passwords-title = Adgangskoder
 
 contextual-manager-passwords-create-label =
     .label = Tilføj adgangskode
+contextual-manager-passwords-update-label =
+    .label = Opdater adgangskode
 contextual-manager-passwords-edit-label =
     .label = Rediger adgangskode
 contextual-manager-passwords-remove-label =
@@ -321,3 +332,5 @@ contextual-manager-passwords-remove-all-passwords-checkbox =
         [one] Ja, fjern adgangskode
        *[other] Ja, fjern adgangskoder
     }
+# This string informs the user their primary password is used to authenticate and access their passwords
+contextual-manager-primary-password-reauth-button = Indtast hovedadgangskode

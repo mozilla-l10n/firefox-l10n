@@ -1337,3 +1337,52 @@ onboarding-checklist-button-label = Afslut opsætning
 onboarding-aw-finish-setup-button =
     .label = Afslut opsætning
     .tooltiptext = Afslut opsætningen af { -brand-short-name }
+
+## The urlbar trust panel
+
+trustpanel-etp-description-enabled = Hvis noget på webstedet ikke ser ud til at virke som det skal, så prøv at slå beskyttelse fra.
+trustpanel-connection-label-secure = Forbindelsen er sikker
+trustpanel-connection-label-insecure = Forbindelsen er ikke sikker
+trustpanel-description-enabled = Du er beskyttet. Vi giver dig besked, hvis vi opdager noget.
+trustpanel-header-disabled = Du har slået beskyttelse fra
+trustpanel-clear-cookies-button = Ryd cookies og websteds-data
+# Variables
+#  $host (String): the hostname of the site that is being displayed.
+trustpanel-clear-cookies-header =
+    .title = Ryd cookies og websteds-data for { $host }
+trustpanel-clear-cookies-description = Ved at fjerne cookies og webstedsdata kan du blive logget ud fra websteder, og indkøbskurve kan blive ryddet.
+trustpanel-clear-cookies-subview-button-clear = Ryd
+trustpanel-clear-cookies-subview-button-cancel = Annuller
+# Variables
+#  $host (String): the hostname of the site that is being displayed.
+trustpanel-site-information-header =
+    .title = Forbindelses-sikkerhed for { $host }
+trustpanel-connection-secure = Din forbindelse til dette websted er sikker.
+trustpanel-connection-not-secure = Din forbindelse til webstedet er ikke sikker.
+trustpanel-blocker-see-all = Vis alle
+# Variables
+#  $host (String): the hostname of the site that is being displayed.
+trustpanel-blocker-header =
+    .title = Sporingsbeskyttelse for { $host }
+
+## Variables
+##  $count (String): the number of trackers blocked.
+
+trustpanel-blocker-section-header =
+    { $count ->
+        [one] <span>{ $count }</span> sporings-mekanisme blokeret på dette websted
+       *[other] <span>{ $count }</span> sporings-mekanismer blokeret på dette websted
+    }
+trustpanel-blocked-header = { -brand-product-name } blokerede disse ting for dig:
+trustpanel-tracking-header = { -brand-product-name } tillod disse ting, så websteder ikke går i stykker:
+trustpanel-insecure-section-header = Din forbindelse er ikke sikker
+trustpanel-cryptominer-blocking-tab-header =
+    { $count ->
+        [one] { -brand-product-name } blokerede { $count } cryptominer
+       *[other] { -brand-product-name } blokerede { $count } cryptominers
+    }
+trustpanel-cryptominer-not-blocking-tab-header =
+    { $count ->
+        [one] { -brand-product-name } tillod { $count } cryptominer
+       *[other] { -brand-product-name } tillod { $count } cryptominers
+    }
