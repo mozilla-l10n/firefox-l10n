@@ -456,6 +456,8 @@ tab-groups-onboarding-create-group-no-alltabs-button-title = მონახე�
 tab-groups-onboarding-saved-groups-title-3 = ჩანართის ჯგუფის დახურვის შემდგომ, ნებისმიერ დროს შეგეძლებათ მისი დაბრუნება ყველა ჩანართის მენიუდან.
 tab-groups-onboarding-saved-groups-title-2 = ჩანართის ჯგუფი დახურვის შემთხვევაში, აქედან შეგეძლებათ კვლავ გახსნათ ნებისმიერ დროს.
 tab-groups-onboarding-saved-groups-no-alltabs-button-title-2 = მონახეთ დახურული ჯგუფები მისამართების ველში მოძიებით.
+# The text "list all tabs" refers to the string tabs-toolbar-list-all-tabs
+tab-groups-onboarding-session-restore-title-2 = ნებისმიერ დროს შეგეძლებათ თქვენი ჩანართის ჯგუფები კვლავ გახსნათ ყველა ჩანართის მენიუდან.
 tab-groups-onboarding-session-restore-title = კვლავ გახსენით აქედან თქვენი ჩანართების ჯგუფები ნებისმიერ დროს.
 tab-groups-onboarding-dismiss = კარგი
 

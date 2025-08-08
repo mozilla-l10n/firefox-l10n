@@ -131,6 +131,7 @@ addon-local-install-error-incorrect-hash = დამატების ჩად
 addon-local-install-error-corrupt-file = ეს დამატება ვერ ჩაიდგმება, ვინაიდან როგორც ჩანს, დაზიანებულია.
 addon-local-install-error-file-access = { $addonName } ვერ ჩაიდგმება, რადგან { -brand-short-name } ვერ ახერხებს საჭირო ფაილის ცვლილებას.
 addon-local-install-error-not-signed = ამ დამატების დაყენება ვერ მოხერხდა, რადგან დაუმოწმებელია.
+addon-local-install-no-addon-name-error-file-access = დამატება ვერ ჩაიდგმება, რადგან { -brand-short-name } ვერ ახერხებს საჭირო ფაილის ცვლილებას.
 # Variables:
 #   $appVersion (String): the application version.
 addon-install-error-incompatible = { $addonName } ვერ ჩაიდგმება, რადგან არათავსებადია { -brand-short-name } { $appVersion } ვერსიასთან.

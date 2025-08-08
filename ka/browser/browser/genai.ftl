@@ -95,6 +95,16 @@ genai-menu-no-provider =
     .label = ჰკითხეთ AI-თანამოსაუბრეს
 genai-menu-choose-chatbot =
     .label = AI-თანამოსაუბრის არჩევა
+genai-menu-ask-generic-2 =
+    .label = ჰკითხეთ AI-თანამოსაუბრეს
+    .accesskey = ი
+# $provider (string) - name of the provider
+genai-menu-ask-provider-2 =
+    .label = გიპასუხებთ { $provider }
+    .accesskey = ი
+genai-menu-no-provider-2 =
+    .label = ჰკითხეთ AI-თანამოსაუბრეს
+    .accesskey = ი
 
 ## Chatbot header
 

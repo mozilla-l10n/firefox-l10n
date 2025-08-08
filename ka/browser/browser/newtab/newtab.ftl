@@ -88,6 +88,14 @@ newtab-confirm-delete-history-p2 = ეს ქმედება შეუქც�
 
 newtab-topsite-sponsored = დამკვეთებისგან
 
+## Label used by screen readers for pinned top sites
+
+# Variables:
+#   $title (string) - The label or hostname of the site.
+topsite-label-pinned =
+    .aria-label = { $title } (მიმაგრებული)
+    .title = { $title }
+
 ## Context Menu - Action Tooltips.
 
 # General tooltip for context menus.
@@ -540,6 +548,12 @@ newtab-custom-wallpaper-title = მორგებული ფონები �
 # 'Make firefox yours" means to customize or personalize
 newtab-custom-wallpaper-subtitle = ატვირთეთ საკუთარი ფონი ან შეარჩიეთ სასურველი ფერი, რომ გახადოთ { -brand-product-name } მეტად თქვენებური.
 newtab-custom-wallpaper-cta = მოსინჯვა
+
+## Strings for new user activation custom wallpaper highlight
+
+newtab-new-user-custom-wallpaper-title = აირჩიეთ ფონი, რომ გახადოთ { -brand-product-name } მეტად თქვენებური
+newtab-new-user-custom-wallpaper-subtitle = ახალი ჩანართის გახსნისას იგრძენით თავი შინ სასურველი ფონისა და ფერების შერჩევით.
+newtab-new-user-custom-wallpaper-cta = მოსინჯეთ ახლავე
 
 ## Strings for download mobile highlight
 
