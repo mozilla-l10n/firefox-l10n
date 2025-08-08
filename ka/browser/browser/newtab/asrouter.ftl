@@ -268,7 +268,7 @@ pdf-default-notification-decline-button =
 
 launch-on-login-infobar-message = <strong>კომპიუტერის ყოველი ჩართვისას გიწევთ გახსნათ { -brand-short-name }?</strong> ახლა უკვე შეგიძლიათ მიუთითოთ, რომ { -brand-short-name } თავისით გაეშვას მოწყობილობის ხელახლა ჩართვისას.
 launch-on-login-learnmore = ვრცლად
-launch-on-login-infobar-confirm-button = დიახ, გაეშვას { -brand-short-name }
+launch-on-login-infobar-confirm-button = დიახ, თავისით გაეშვას { -brand-short-name }
     .accesskey = დ
 launch-on-login-infobar-reject-button = ახლა არა
     .accesskey = ა

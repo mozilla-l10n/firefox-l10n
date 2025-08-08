@@ -56,8 +56,8 @@ about-private-browsing-promo-close-button =
 about-private-browsing-pin-promo-header = პირადი თვალიერება ერთი დაწკაპებით
 about-private-browsing-pin-promo-link-text =
     { PLATFORM() ->
-        [macos] დატოვება Dock-ზე
-       *[other] მიმაგრება სამუშაო ზოლზე
+        [macos] დატოვეთ Dock-ზე
+       *[other] მიამაგრეთ სამუშაო ზოლზე
     }
 about-private-browsing-pin-promo-title = არანაირი კვალი და გვერდების ისტორია, პირდაპირ სამუშაო ეკრანიდან. მოინახულეთ საიტები მეთვალყურეობის გარეშე.
 

@@ -278,8 +278,8 @@ mr2022-onboarding-colorway-description-innovator = <b>სიახლის შ�
 
 mr2022-onboarding-mobile-download-title = მოქნილად გადაერთეთ ნოუთბუქიდან ტელეფონზე ან პირიქით
 mr2022-onboarding-mobile-download-subtitle = წაიყოლეთ ჩანართები სხვა მოწყობილობაზე და განაგრძეთ იქიდან, სადაც შეჩერდით. ამასთანავე, დაასინქრონეთ სანიშნები და პაროლები ყველგან, სადაც { -brand-product-name } გიყენიათ.
-mr2022-onboarding-mobile-download-cta-text = წააკითხეთ QR-კოდი, რომ გადმოწეროთ { -brand-product-name } მობილურზე ან <a data-l10n-name="download-label">გაგზავნეთ ჩამოსატვირთი ბმული.</a>
-mr2022-onboarding-no-mobile-download-cta-text = წააკითხეთ QR-კოდი, რომ გადმოწეროთ { -brand-product-name } მობილურზე.
+mr2022-onboarding-mobile-download-cta-text = გადაუღეთ QR-კოდს, რომ გადმოწეროთ { -brand-product-name } მობილურზე ან <a data-l10n-name="download-label">გაგზავნეთ ჩამოსატვირთი ბმული.</a>
+mr2022-onboarding-no-mobile-download-cta-text = გადაუღეთ QR-კოდს, რომ გადმოწეროთ { -brand-product-name } მობილურზე.
 
 ## MR2022 Upgrade Dialog screens
 ## Pin private window screen shown only for users who don't have Firefox private pinned
@@ -475,7 +475,7 @@ multi-profile-callout-cta = პროფილის შექმნა
 # If translating the headline is challenging, consider using a simplified alternative as a reference: 'Sync your browsing with Firefox for mobile.'
 desktop-to-mobile-headline = ჩამოტვირთეთ, დაასინქრონეთ და გზას გაუდექით!
 # The phrase, 'on the go', is used to describe when people are very busy and are traveling from place to place.
-desktop-to-mobile-subtitle = წააკითხეთ QR-კოდი, რომ ჩამოტვირთოთ { -brand-product-name } მობილურზე. დაყენების შემდეგ აირჩიეთ „დასინქრონება მობილურზე“ თქვენს პაროლებთან, სანიშნებთან და სხვა მასალებთან წვდომისთვის ნებისმიერი ადგილიდან.
+desktop-to-mobile-subtitle = გადაუღეთ QR-კოდს, რომ ჩამოტვირთოთ { -brand-product-name } მობილურზე. დაყენების შემდეგ აირჩიეთ „დასინქრონება მობილურზე“ თქვენს პაროლებთან, სანიშნებთან და სხვა მასალებთან წვდომისთვის ნებისმიერი ადგილიდან.
 dismiss-button-label = აცილება
 sync-to-mobile-button-label = დასინქრონება მობილურზე
 desktop-to-mobile-qr-code-alt =

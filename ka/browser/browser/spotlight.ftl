@@ -17,6 +17,6 @@ spotlight-ios-marketplace-button =
 ## Firefox Focus promo message strings
 
 spotlight-focus-promo-title = გადმოწერეთ { -focus-brand-name }
-spotlight-focus-promo-subtitle = წააკითხეთ QR-კოდი ჩამოსატვირთად.
+spotlight-focus-promo-subtitle = გადაუღეთ QR-კოდს ჩამოსატვირთად.
 spotlight-focus-promo-qr-code =
-    .alt = წააკითხეთ QR-კოდი, რომ გადმოწეროთ { -focus-brand-name }.
+    .alt = გადაუღეთ QR-კოდს, რომ გადმოწეროთ { -focus-brand-name }.
