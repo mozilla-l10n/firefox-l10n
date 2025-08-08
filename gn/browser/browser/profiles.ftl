@@ -143,6 +143,10 @@ makeup-avatar-alt =
 # Message refers to a text message, not a traditional letter/envelope message
 message-avatar-alt =
     .alt = Ñe’ẽmondo
+musical-note-avatar-alt =
+    .alt = Purahéi nóta
+palette-avatar-alt =
+    .alt = Paléta
 # Present refers to a gift box, not the current time period
 present-avatar-alt =
     .alt = Oĩva
@@ -154,6 +158,14 @@ star-avatar-alt =
     .alt = Mbyja
 custom-avatar-alt =
     .alt = Avatar mboavapyre
+# Default favicon refers to the generic globe/world icon that appears in browser tabs when a website doesn't have its own favicon.
+default-favicon-avatar-alt =
+    .alt = Favicon ypykuéva
+# Diamond refers to the precious stone, not the geometric shape
+diamond-avatar-alt =
+    .alt = Itavera
+barbell-avatar-alt =
+    .alt = Bárra mba’epohýi reheve
 
 ## Labels for default avatar icons
 
