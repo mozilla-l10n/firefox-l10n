@@ -125,11 +125,13 @@ addon-install-error-corrupt-file = Tilføjelsen fra dette websted kunne ikke ins
 addon-install-error-file-access = { $addonName } kunne ikke installeres, fordi { -brand-short-name } ikke kan redigere den nødvendige fil.
 addon-install-error-not-signed = { -brand-short-name } har forhindret dette websted i at installere en uverificeret tilføjelse.
 addon-install-error-invalid-domain = Tilføjelsen { $addonName } kan ikke installeres fra denne placering.
+addon-install-error-no-addon-name-file-access = Tilføjelsen kunne ikke installeres, fordi { -brand-short-name } ikke kan redigere den nødvendige fil.
 addon-local-install-error-network-failure = Denne tilføjelse kunne ikke installeres på grund af en filsystemsfejl.
 addon-local-install-error-incorrect-hash = Denne tilføjelse kunne ikke installeres, fordi den ikke matcher den tilføjelse { -brand-short-name } forventede.
 addon-local-install-error-corrupt-file = Denne tilføjelse kunne ikke installeres, fordi den lader til at være ødelagt.
 addon-local-install-error-file-access = { $addonName } kunne ikke installeres, fordi { -brand-short-name } ikke kan redigere den nødvendige fil.
 addon-local-install-error-not-signed = Denne tilføjelse kunne ikke installeres, fordi den ikke er blevet verificeret.
+addon-local-install-no-addon-name-error-file-access = Tilføjelsen kunne ikke installeres, fordi { -brand-short-name } ikke kan redigere den nødvendige fil.
 # Variables:
 #   $appVersion (String): the application version.
 addon-install-error-incompatible = { $addonName } kunne ikke installeres, da den ikke er kompatibel med { -brand-short-name } { $appVersion }.

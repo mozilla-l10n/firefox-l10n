@@ -141,6 +141,8 @@ urlbar-default-notification-anchor =
     .tooltiptext = Åbn panelet for beskeder
 urlbar-geolocation-notification-anchor =
     .tooltiptext = Åbn panelet for positions-forespørgsler
+urlbar-local-network-notification-anchor =
+    .tooltiptext = Administrer deling af adgang til dit lokale netværk med webstedet
 urlbar-xr-notification-anchor =
     .tooltiptext = Åbn panelet tilladelser for virtual reality
 urlbar-storage-access-anchor =
@@ -241,6 +243,8 @@ urlbar-search-mode-actions = Handlinger
 
 urlbar-geolocation-blocked =
     .tooltiptext = Du har blokeret dette websteds mulighed for at se din position.
+urlbar-localhost-blocked =
+    .tooltiptext = Du har blokeret forbindelser til lokale enheder for dette websted.
 urlbar-xr-blocked =
     .tooltiptext = Du har blokeret dette websteds adgang til virtual reality-enheder
 urlbar-web-notifications-blocked =
@@ -799,11 +803,25 @@ urlbar-result-weather-provider-sponsored = { $provider } · Sponsoreret
 ## These strings are used for Realtime suggestions in the urlbar.
 ## Market refers to stocks, indexes, and funds.
 
+# This string is shown as title when Market suggestion are disabled.
+urlbar-result-market-opt-in-title = Få data fra aktiemarkedet direkte i søgefeltet
+# This string is shown as description when Market suggestion are disabled.
+urlbar-result-market-opt-in-description = Vis markedsopdatering og mere fra vores partnere, når du deler data om søgeforespørgsler med { -vendor-short-name }. <a data-l10n-name="learn-more-link">Læs mere</a>
 # This string is shown as button to activate online when realtime suggestion are disabled.
 urlbar-result-realtime-opt-in-allow = Vis forslag
 # This string is shown in split button to dismiss activation the Realtime suggestion.
 urlbar-result-realtime-opt-in-not-now = Ikke nu
 urlbar-result-realtime-opt-in-dismiss = Afvis
+urlbar-result-realtime-opt-in-dismiss-all =
+    .label = Vis ikke disse forslag
+# This string is shown in the result menu.
+urlbar-result-menu-dont-show-market =
+    .label = Vis ikke markeds-forslag
+# A message that replaces a result when the user dismisses Market suggestions.
+urlbar-result-dismissal-acknowledgment-market = Tak for tilbagemeldingen. Du vil ikke længere se markeds-forslag.
+# A message that replaces a result when the user dismisses all suggestions of a
+# particular type.
+urlbar-result-dismissal-acknowledgment-all = Tak for tilbagemeldingen. Du vil ikke længere se disse forslag.
 
 ## Strings used for buttons in the urlbar
 
@@ -1167,6 +1185,10 @@ tabs-toolbar-list-all-tabs =
     .label = List alle faneblade
     .tooltiptext = List alle faneblade
 
+## Drop indicator text for pinned tabs when no tabs are pinned.
+
+pinned-tabs-drop-indicator = Slip fanebladet her for at fastgøre det
+
 ## Infobar shown at startup to suggest session-restore
 
 # <img data-l10n-name="icon"/> will be replaced by the application menu icon
@@ -1341,11 +1363,14 @@ onboarding-aw-finish-setup-button =
 ## The urlbar trust panel
 
 trustpanel-etp-description-enabled = Hvis noget på webstedet ikke ser ud til at virke som det skal, så prøv at slå beskyttelse fra.
+trustpanel-etp-description-disabled = { -brand-product-name } mener, at virksomheder bør overvåge dig mindre. Vi blokerer så mange sporings-mekanismer som muligt, når du aktiverer beskyttelse.
 trustpanel-connection-label-secure = Forbindelsen er sikker
 trustpanel-connection-label-insecure = Forbindelsen er ikke sikker
 trustpanel-description-enabled = Du er beskyttet. Vi giver dig besked, hvis vi opdager noget.
 trustpanel-header-disabled = Du har slået beskyttelse fra
+trustpanel-description-disabled = { -brand-product-name } er ikke aktiveret. Vi foreslår, at du slår beskyttelse til igen.
 trustpanel-clear-cookies-button = Ryd cookies og websteds-data
+trustpanel-privacy-link = Indstillinger for beskyttelse af dit privatliv
 # Variables
 #  $host (String): the hostname of the site that is being displayed.
 trustpanel-clear-cookies-header =
@@ -1359,6 +1384,7 @@ trustpanel-site-information-header =
     .title = Forbindelses-sikkerhed for { $host }
 trustpanel-connection-secure = Din forbindelse til dette websted er sikker.
 trustpanel-connection-not-secure = Din forbindelse til webstedet er ikke sikker.
+trustpanel-siteinformation-morelink = Mere information om webstedet
 trustpanel-blocker-see-all = Vis alle
 # Variables
 #  $host (String): the hostname of the site that is being displayed.
@@ -1373,8 +1399,10 @@ trustpanel-blocker-section-header =
         [one] <span>{ $count }</span> sporings-mekanisme blokeret på dette websted
        *[other] <span>{ $count }</span> sporings-mekanismer blokeret på dette websted
     }
+trustpanel-blocker-description = { -brand-product-name } mener, at virksomheder bør overvåge dig mindre. Så vi blokerer så mange som muligt.
 trustpanel-blocked-header = { -brand-product-name } blokerede disse ting for dig:
 trustpanel-tracking-header = { -brand-product-name } tillod disse ting, så websteder ikke går i stykker:
+trustpanel-tracking-description = Uden sporings-mekanismer fungerer nogle knapper, formularer og loginfelter muligvis ikke.
 trustpanel-insecure-section-header = Din forbindelse er ikke sikker
 trustpanel-list-label-tracking-cookies =
     { $count ->
