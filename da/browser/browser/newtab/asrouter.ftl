@@ -71,6 +71,8 @@ cfr-doorhanger-bookmark-fxa-close-btn-tooltip =
 fxa-adoption-addresses-backup-title = Lad os sikkerhedskopiere dine gemte adresser
 fxa-adoption-addresses-backup-subtitle = Beskyt dine gemte adresser ved at kryptere og synkronisere dem med dine enheder.
 fxa-adoption-credit-cards-backup-title = Lad os gemme dine betalingsmetoder
+fxa-adoption-credit-cards-backup-subtitle = Beskyt dine betalingsmetoder ved at kryptere og synkronisere dem med dine enheder.
+fxa-adoption-primary-button-label = Tilmeld dig
 
 ## Protections panel
 
@@ -346,7 +348,15 @@ multi-cta-fox-doodle-privacy-focused-subtitle =
     }
 multi-cta-fox-doodle-msix-privacy-focused-subtitle = Hav din foretrukne privatlivsfokuserede browser inden for rækkevidde. Angiv { -brand-short-name } som din standard-browser for at åbne links i den og beholde den i din proceslinje og startmenu.
 
+## Windows 10 EoS Sync messages group 1 spotlight
+
+windows-10-eos-sync-spotlight-title = Skal du snart opgradere fra Windows 10?
+windows-10-eos-sync-spotlight-subtitle = Sikkerhedskopier dine adgangskoder og bogmærker, så du er klar til at skifte til nye enheder.
+windows-10-eos-sync-spotlight-primary-label = Sikkerhedskopier { -brand-short-name }
+
 ## Windows 10 EoS Sync messages group 1 toast notification
 
+windows-10-eos-sync-toast-title = Opgraderer du til Windows 11? Behold dine bogmærker og adgangskoder.
+windows-10-eos-sync-toast-subtitle = Sikkerhedskopier dine data, så { -brand-short-name } er klar til brug når som helst, på den samme computer eller en ny.
 windows-10-eos-sync-toast-primary-label = Kom i gang
 windows-10-eos-sync-toast-secondary-label = Påmind mig senere

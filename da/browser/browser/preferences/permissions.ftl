@@ -173,14 +173,20 @@ permissions-site-camera-disable-desc = Dette vil forhindre websteder, der ikke e
 permissions-site-localhost-window =
     .title = Indstillinger - Enhedsapps og -tjenester
     .style = { permissions-window2.style }
+permissions-site-localhost-desc = Disse websteder har anmodet om adgang til apps og tjenester på denne enhed. Du kan vælge, om websteder skal have mulighed for at gøre dette.
 permissions-site-localhost-disable-label =
     .label = Bloker nye anmodninger om adgang til apps og tjenester på denne enhed
+permissions-site-localhost-disable-desc = Dette vil forhindre websteder, der ikke er nævnt ovenfor, i at anmode om adgang til apps og tjenester på denne enhed. Dette kan muligvis forhindre nogle funktioner på websteder i at fungere.
 
 ## Site Permissions - Local network
 
 permissions-site-local-network-window =
     .title = Indstillinger - Lokale netværksenheder
     .style = { permissions-window2.style }
+permissions-site-local-network-desc = Disse websteder har anmodet om adgang til apps og tjenester på enheder, der er forbundet til dit wi-fi eller dit lokale netværk. Du kan vælge, om websteder skal have mulighed for at gøre dette.
+permissions-site-local-network-disable-label =
+    .label = Bloker nye anmodninger om adgang til apps og tjenester på enheder, der er tilsluttet dit wi-fi- eller dit lokale netværk.
+permissions-site-local-network-disable-desc = Dette vil forhindre websteder, der ikke er nævnt ovenfor, i at anmode om adgang til apps og tjenester på enheder, der er tilsluttet dit wi-fi eller dit lokale netværk. Dette kan muligvis forhindre nogle funktioner på websteder i at fungere.
 
 ## Site Permissions - Microphone
 

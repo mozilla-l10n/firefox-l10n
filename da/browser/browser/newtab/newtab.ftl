@@ -553,6 +553,8 @@ newtab-custom-wallpaper-cta = Prøv det
 
 ## Strings for new user activation custom wallpaper highlight
 
+newtab-new-user-custom-wallpaper-title = Vælg en baggrund for at gøre { -brand-product-name } til din egen
+newtab-new-user-custom-wallpaper-subtitle = Føl dig hjemme på alle nye faneblade med tilpassede baggrunde og farver.
 newtab-new-user-custom-wallpaper-cta = Prøv det nu
 
 ## Strings for download mobile highlight
