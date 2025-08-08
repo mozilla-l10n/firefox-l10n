@@ -121,9 +121,9 @@ contextual-manager-passwords-remove-all-confirm =
 #   $total (number) - Total number of passwords
 contextual-manager-passwords-remove-all-confirm-button =
     { $total ->
-        [1] Kaldır
-        [one] Kaldır
-       *[other] Tümünü kaldır
+        [1] Sil
+        [one] Sil
+       *[other] Tümünü sil
     }
 # Message to confirm the removal of all saved passwords when user DOES NOT HAVE SYNC
 #   $total (number) - Total number of passwords
@@ -153,7 +153,7 @@ contextual-manager-passwords-radiogroup-label =
 # Variables
 #   $url (string) - The url associated with the new login
 contextual-manager-passwords-add-password-success-heading =
-    .heading = { $url } için parola eklendi
+    .heading = { $url } parolası eklendi
 contextual-manager-passwords-add-password-success-button = Göster
 # Variables
 #   $url (string) - The url associated with the existing login
@@ -191,7 +191,7 @@ contextual-manager-passwords-remove-login-card-message = Bu işlemi geri alamazs
 # This message gives the user an option to go back to the edit login form.
 contextual-manager-passwords-remove-login-card-back-message = Geri dön
 # This message confirms that the user wants to remove an existing login.
-contextual-manager-passwords-remove-login-card-remove-button = Kaldır
+contextual-manager-passwords-remove-login-card-remove-button = Sil
 # This message gives the user the option to cancel their attempt to remove a login.
 contextual-manager-passwords-remove-login-card-cancel-button = İptal
 contextual-manager-passwords-alert-card =
@@ -227,7 +227,7 @@ contextual-manager-passwords-remove-label =
     .title = Parolayı sil
 contextual-manager-passwords-origin-tooltip = Bu siteye giriş yapacağınız tam adresi girin.
 contextual-manager-passwords-username-tooltip = Giriş yapmak için kullandığınız kullanıcı adını, e-posta adresini veya hesap numarasını girin.
-contextual-manager-passwords-password-tooltip-2 = Bu hesaba giriş yapmak için parolayı yazın.
+contextual-manager-passwords-password-tooltip-2 = Bu hesaba giriş yapmak için kullandığınız parolayı girin.
 contextual-manager-passwords-password-tooltip = Bu hesaba giriş yapmak için kullandığınız parolayı girin.
 
 ## Password Card
@@ -235,7 +235,7 @@ contextual-manager-passwords-password-tooltip = Bu hesaba giriş yapmak için ku
 contextual-manager-passwords-list-label =
     .aria-label = Parolalar
 contextual-manager-website-icon =
-    .alt = Web sitesi simgesi
+    .alt = Site simgesi
 contextual-manager-copy-icon =
     .alt = Kopyala
 contextual-manager-check-icon-username =
