@@ -806,6 +806,9 @@ urlbar-result-realtime-opt-in-not-now = Ani ko’ág̃a
 urlbar-result-realtime-opt-in-dismiss = Mboyke
 urlbar-result-realtime-opt-in-dismiss-all =
     .label = Ani ehechauka ko’ã ñemoñe’ẽ
+# This string is shown in the result menu.
+urlbar-result-menu-dont-show-market =
+    .label = Ani ehechauka ñemoñe’ẽ ñemuhagua
 
 ## Strings used for buttons in the urlbar
 
@@ -1344,6 +1347,8 @@ onboarding-aw-finish-setup-button =
 
 ## The urlbar trust panel
 
+trustpanel-etp-label-enabled = Tapykueho mo’ãha iporãvéva hendýma
+trustpanel-etp-label-disabled = Tapykueho mo’ãha iporãvéva ojejoko
 trustpanel-connection-label-secure = Eike tekorosãme
 trustpanel-connection-label-insecure = Eike tekorosã’ỹme
 trustpanel-header-enabled = { -brand-product-name } oma’ẽmeme
@@ -1352,6 +1357,13 @@ trustpanel-clear-cookies-button = Emboguete kookie ha mba’ekuaarã tendágui
 trustpanel-privacy-link = Ñemigua ñemboheko
 trustpanel-clear-cookies-subview-button-clear = Mopotĩ
 trustpanel-clear-cookies-subview-button-cancel = Heja
+# Variables
+#  $host (String): the hostname of the site that is being displayed.
+trustpanel-site-information-header =
+    .title = Tapykuehoha jeikerã { $host }-pe g̃uarã
+trustpanel-connection-secure = Eikehína tekorosãme ko tendápe.
+trustpanel-connection-not-secure = Nde jeike ko tendapegua nahekorosãi.
+trustpanel-siteinformation-morelink = Maranduve tenda rehegua
 trustpanel-blocker-see-all = Hechapa
 # Variables
 #  $host (String): the hostname of the site that is being displayed.
