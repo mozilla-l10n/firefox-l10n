@@ -29,6 +29,7 @@ about-logging-no-log-modules = Keine
 about-logging-no-log-file = Keine
 about-logging-logging-preset-selector-text = Voreinstellung für die Protokollierung:
 about-logging-with-profiler-stacks-checkbox = Stack-Traces für Log-Meldungen aktivieren
+about-logging-with-javascript-tracing-checkbox = JavaScript-Tracing aktivieren
 about-logging-menu =
     .title = Erweiterte Optionen
 
@@ -52,6 +53,8 @@ about-logging-preset-webcodecs-label = WebCodecs
 about-logging-preset-webcodecs-description = Zu protokollierende Module zur Diagnose von Problemen mit WebCodecs-Audio/Video-Decodern und -Encodern sowie Bild-Decodern
 about-logging-preset-ml-label = Maschinelles Lernen
 about-logging-preset-ml-description = Protokollieren Sie Module zur Diagnose von Problemen mit maschinellem Lernen
+about-logging-preset-web-compat-label = Web Compat
+about-logging-preset-web-compat-description = Zu protokollierende Module zur Diagnose von Web-Kompatibilitätsproblemen
 about-logging-preset-webgpu-label = WebGPU
 about-logging-preset-webgpu-description = Zu protokollierende Module zur Diagnose von WebGPU-Problemen
 about-logging-preset-gfx-label = Grafik

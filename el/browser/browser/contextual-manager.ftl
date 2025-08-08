@@ -18,6 +18,7 @@ contextual-manager-passwords-command-import-from-browser = Εισαγωγή απ
 contextual-manager-passwords-command-import = Εισαγωγή από αρχείο…
 contextual-manager-passwords-command-export = Εξαγωγή κωδικών πρόσβασης
 contextual-manager-passwords-command-remove-all = Αφαίρεση όλων των κωδικών πρόσβασης
+contextual-manager-passwords-command-options = Επιλογές
 contextual-manager-passwords-command-settings = Ρυθμίσεις
 contextual-manager-passwords-command-help = Βοήθεια
 contextual-manager-passwords-os-auth-dialog-caption = { -brand-full-name }
@@ -157,6 +158,8 @@ contextual-manager-passwords-password-already-exists-error-button = Μετάβα
 contextual-manager-passwords-update-password-success-heading =
     .heading = Ο κωδικός πρόσβασης αποθηκεύτηκε
 contextual-manager-passwords-update-password-success-button = Τέλος
+contextual-manager-passwords-update-username-success-heading-2 =
+    .heading = Το όνομα χρήστη προστέθηκε
 contextual-manager-passwords-update-username-success-heading =
     .heading = Το όνομα χρήστη αποθηκεύτηκε
 # Message to confirm successful removal of a password/passwords.
@@ -210,6 +213,8 @@ contextual-manager-passwords-title = Κωδικοί πρόσβασης
 
 contextual-manager-passwords-create-label =
     .label = Προσθήκη κωδικού πρόσβασης
+contextual-manager-passwords-update-label =
+    .label = Ενημέρωση κωδικού πρόσβασης
 contextual-manager-passwords-edit-label =
     .label = Επεξεργασία κωδικού πρόσβασης
 contextual-manager-passwords-remove-label =
@@ -321,3 +326,4 @@ contextual-manager-passwords-remove-all-passwords-checkbox =
         [1] Ναι, αφαίρεση κωδικού πρόσβασης
        *[other] Ναι, αφαίρεση κωδικών πρόσβασης
     }
+contextual-manager-primary-password-learn-more-link = Μάθετε περισσότερα

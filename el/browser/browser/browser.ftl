@@ -801,6 +801,15 @@ urlbar-result-weather-title-city-only = <strong>{ $temperature }°{ $unit }</str
 #       name of a company, organization, or service.
 urlbar-result-weather-provider-sponsored = { $provider } · Χορηγία
 
+## These strings are used for Realtime suggestions in the urlbar.
+## Market refers to stocks, indexes, and funds.
+
+# This string is shown as button to activate online when realtime suggestion are disabled.
+urlbar-result-realtime-opt-in-allow = Εμφάνιση προτάσεων
+# This string is shown in split button to dismiss activation the Realtime suggestion.
+urlbar-result-realtime-opt-in-not-now = Όχι τώρα
+urlbar-result-realtime-opt-in-dismiss = Απόρριψη
+
 ## Strings used for buttons in the urlbar
 
 # Label prompting user to search with a particular search engine.

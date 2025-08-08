@@ -11,3 +11,7 @@ existing-user-tou-message = <strong>Ενημέρωση:</strong> Παρουσι�
 existing-user-tou-learn-more = Μάθετε περισσότερα
 # Text for primary button
 existing-user-tou-accept = Αποδοχή
+
+## Existing User Terms of Use Spotlight
+
+tou-existing-user-spotlight-remind-me-later = Υπενθύμιση αργότερα

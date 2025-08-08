@@ -302,9 +302,13 @@ pdfjs-web-fonts-disabled = Οι γραμματοσειρές ιστού είνα
 
 pdfjs-editor-free-text-button =
     .title = Κείμενο
+pdfjs-editor-color-picker-free-text-input =
+    .title = Αλλαγή χρώματος κειμένου
 pdfjs-editor-free-text-button-label = Κείμενο
 pdfjs-editor-ink-button =
     .title = Σχέδιο
+pdfjs-editor-color-picker-ink-input =
+    .title = Αλλαγή χρώματος σχεδίου
 pdfjs-editor-ink-button-label = Σχέδιο
 pdfjs-editor-stamp-button =
     .title = Προσθήκη ή επεξεργασία εικόνων
@@ -316,6 +320,10 @@ pdfjs-highlight-floating-button1 =
     .title = Επισήμανση
     .aria-label = Επισήμανση
 pdfjs-highlight-floating-button-label = Επισήμανση
+pdfjs-comment-floating-button =
+    .title = Σχόλιο
+    .aria-label = Σχόλιο
+pdfjs-comment-floating-button-label = Σχόλιο
 pdfjs-editor-signature-button =
     .title = Προσθήκη υπογραφής
 pdfjs-editor-signature-button-label = Προσθήκη υπογραφής
@@ -607,6 +615,24 @@ pdfjs-editor-add-signature-error-close-button = Κλείσιμο
 pdfjs-editor-add-signature-cancel-button = Ακύρωση
 pdfjs-editor-add-signature-add-button = Προσθήκη
 pdfjs-editor-edit-signature-update-button = Ενημέρωση
+
+##  Edit a comment dialog
+
+pdfjs-editor-edit-comment-actions-button-label = Ενέργειες
+pdfjs-editor-edit-comment-actions-button =
+    .title = Ενέργειες
+pdfjs-editor-edit-comment-close-button-label = Κλείσιμο
+pdfjs-editor-edit-comment-close-button =
+    .title = Κλείσιμο
+pdfjs-editor-edit-comment-actions-edit-button-label = Επεξεργασία
+pdfjs-editor-edit-comment-actions-delete-button-label = Διαγραφή
+pdfjs-editor-edit-comment-manager-cancel-button = Ακύρωση
+pdfjs-editor-edit-comment-manager-save-button = Αποθήκευση
+
+## Edit a comment button in the editor toolbar
+
+pdfjs-editor-edit-comment-button =
+    .title = Επεξεργασία σχολίου
 
 ## Main menu for adding/removing signatures
 

@@ -68,6 +68,7 @@ cfr-doorhanger-bookmark-fxa-link-text = Συγχρονισμός σελιδοδ�
 cfr-doorhanger-bookmark-fxa-close-btn-tooltip =
     .aria-label = Κουμπί κλεισίματος
     .title = Κλείσιμο
+fxa-adoption-primary-button-label = Εγγραφή
 
 ## Protections panel
 
