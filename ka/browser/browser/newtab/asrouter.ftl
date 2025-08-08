@@ -68,6 +68,11 @@ cfr-doorhanger-bookmark-fxa-link-text = დაასინქრონეთ ს
 cfr-doorhanger-bookmark-fxa-close-btn-tooltip =
     .aria-label = დახურვის ღილაკი
     .title = დახურვა
+fxa-adoption-addresses-backup-title = დაამარქაფეთ თქვენი შენახული მისამართები
+fxa-adoption-addresses-backup-subtitle = დაიცავით თქვენი შენახული მისამართები დაშიფრულად დასინქრონებით სხვადასხვა მოწყობილობაზე.
+fxa-adoption-credit-cards-backup-title = დაამარქაფეთ თქვენი გადახდის საშუალებები
+fxa-adoption-credit-cards-backup-subtitle = დაიცავით თქვენი გადახდის საშუალებები დაშიფრულად დასინქრონებით სხვადასხვა მოწყობილობაზე.
+fxa-adoption-primary-button-label = ანგარიშის შექმნა
 
 ## Protections panel
 
@@ -343,3 +348,16 @@ multi-cta-fox-doodle-privacy-focused-subtitle =
        *[other] გქონდეთ პირადულობის უზრუნველყოფის ბრაუზერი თითის ერთ გაწვდენაზე. მიუთითეთ { -brand-short-name } ნაგულისხმევ ბრაუზერად ბმულების გახსნისთვის და მიამაგრეთ ამოცანათა ზოლზე.
     }
 multi-cta-fox-doodle-msix-privacy-focused-subtitle = გქონდეთ პირადულობის უზრუნველყოფის ბრაუზერი თითის ერთ გაწვდენაზე. მიუთითეთ { -brand-short-name } ნაგულისხმევ ბრაუზერად ბმულების გახსნისთვის და მიამაგრეთ ამოცანათა ზოლსა თუ საწყის მენიუში.
+
+## Windows 10 EoS Sync messages group 1 spotlight
+
+windows-10-eos-sync-spotlight-title = მალე აპირებთ განახლებით ჩაანაცვლოთ Windows 10?
+windows-10-eos-sync-spotlight-subtitle = დაამარქაფეთ პაროლები და სანიშნები, რომ მზად იყოთ მნიშვნელოვანი ცვლილებებისთვის ნებისმიერ მოწყობილობაზე.
+windows-10-eos-sync-spotlight-primary-label = დაამარქაფეთ თქვენი { -brand-short-name }
+
+## Windows 10 EoS Sync messages group 1 toast notification
+
+windows-10-eos-sync-toast-title = გსურთ განახლებით დააყენოთ Windows 11? ნუ დაკარგავთ სანიშნებსა და პაროლებს.
+windows-10-eos-sync-toast-subtitle = დაამარქაფეთ მონაცემები, რომ { -brand-short-name } მზად იყოს, ნებისმიერ დროს თან გამოგყვეთ ამ თუ სხვა კომპიუტერზე.
+windows-10-eos-sync-toast-primary-label = დაიწყეთ
+windows-10-eos-sync-toast-secondary-label = მოგვიანებით შეხსენება

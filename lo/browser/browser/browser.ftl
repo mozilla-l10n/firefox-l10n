@@ -115,6 +115,12 @@ urlbar-result-menu-show-less-frequently =
 # Used for Split Button.
 urlbar-splitbutton-dropmarker =
     .title = ເປີດເມນູ
+# A message shown in the urlbar when the user submits feedback on a suggestion
+# (e.g., it shows an inaccurate location, it's shown too often, etc.).
+urlbar-feedback-acknowledgment = ຂໍ​ຂອບ​ໃຈ​ສໍາ​ລັບ​ຄໍາ​ຄຶດ​ຄໍາ​ເຫັນ​ຂອງ​ທ່ານ​
+# A message shown in the urlbar when the user dismisses weather suggestions.
+# Weather suggestions won't be shown at all anymore.
+urlbar-dismissal-acknowledgment-weather = ຂອບໃຈສໍາລັບຄໍາຄິດເຫັນຂອງທ່ານ. ທ່ານຈະບໍ່ເຫັນການແນະນຳສະພາບອາກາດອີກຕໍ່ໄປ.
 
 ## Prompts users to use the Urlbar when they open a new tab or visit the
 ## homepage of their default search engine.

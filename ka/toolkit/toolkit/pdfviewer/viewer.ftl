@@ -303,7 +303,7 @@ pdfjs-web-fonts-disabled = ვებშრიფტები გამორთ�
 pdfjs-editor-free-text-button =
     .title = წარწერა
 pdfjs-editor-color-picker-free-text-input =
-    .title = ნაწერის ფერის შეცვლა
+    .title = წარწერის ფერის შეცვლა
 pdfjs-editor-free-text-button-label = წარწერა
 pdfjs-editor-ink-button =
     .title = მოხაზვა
@@ -384,11 +384,13 @@ pdfjs-editor-add-saved-signature-button =
     .title = შენახული ხელმოწერა: { $description }
 # .default-content is used as a placeholder in an empty text editor.
 pdfjs-free-text2 =
-    .aria-label = ნაწერის ჩასწორება
+    .aria-label = წარწერის ჩასწორება
     .default-content = დაიწყეთ აკრეფა…
 pdfjs-free-text =
-    .aria-label = ნაწერის ჩასწორება
+    .aria-label = წარწერის ჩასწორება
 pdfjs-free-text-default-content = აკრიფეთ…
+pdfjs-ink =
+    .aria-label = მოხაზულის შესწორება
 pdfjs-ink-canvas =
     .aria-label = მომხმარებლის შექმნილი სურათი
 
@@ -530,10 +532,19 @@ pdfjs-editor-alt-text-settings-show-dialog-button-label = გამოჩნდ�
 pdfjs-editor-alt-text-settings-show-dialog-description = უზრუნველყოფს, რომ თქვენს ყველა სურათს ახლდეს დართული წარწერა.
 pdfjs-editor-alt-text-settings-close-button = დახურვა
 
+## Accessibility labels (announced by screen readers) for objects added to the editor.
+
+pdfjs-editor-highlight-added-alert = მონიშვნა დამატებულია
+pdfjs-editor-freetext-added-alert = წარწერა დამატებულია
+pdfjs-editor-ink-added-alert = მოხაზვა დამატებული
+pdfjs-editor-stamp-added-alert = სურათი დამატებულია
+pdfjs-editor-signature-added-alert = ხელმოწერა დამატებულია
+
 ## "Annotations removed" bar
 
 pdfjs-editor-undo-bar-message-highlight = მონიშვნა მოცილებულია
 pdfjs-editor-undo-bar-message-freetext = წარწერა მოცილებულია
+pdfjs-editor-undo-bar-message-ink = მოხაზულის მოცილებულია
 pdfjs-editor-undo-bar-message-stamp = სურათი მოცილებულია
 pdfjs-editor-undo-bar-message-signature = ხელმოწერა მოცილებულია
 # Variables:
@@ -586,9 +597,9 @@ pdfjs-editor-add-signature-image-browse-link =
 
 ## Controls
 
-pdfjs-editor-add-signature-description-label = აღწერილობა (დართული ტექსტი)
+pdfjs-editor-add-signature-description-label = აღწერილობა (დართული წარწერა)
 pdfjs-editor-add-signature-description-input =
-    .title = აღწერილობა (დართული ტექსტი)
+    .title = აღწერილობა (დართული წარწერა)
 pdfjs-editor-add-signature-description-default-when-drawing = ხელმოწერა
 pdfjs-editor-add-signature-clear-button-label = ხელმოწერის წაშლა
 pdfjs-editor-add-signature-clear-button =

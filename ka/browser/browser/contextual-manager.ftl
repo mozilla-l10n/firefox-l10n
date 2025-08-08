@@ -18,6 +18,7 @@ contextual-manager-passwords-command-import-from-browser = გადმოტა
 contextual-manager-passwords-command-import = ფაილიდან გადმოტანა…
 contextual-manager-passwords-command-export = პაროლების გატანა
 contextual-manager-passwords-command-remove-all = ყველა პაროლის მოცილება
+contextual-manager-passwords-command-options = პარამეტრები
 contextual-manager-passwords-command-settings = პარამეტრები
 contextual-manager-passwords-command-help = დახმარება
 contextual-manager-passwords-os-auth-dialog-caption = { -brand-full-name }
@@ -65,6 +66,12 @@ contextual-manager-passwords-import-success-heading =
 #   $added (number) - Number of added passwords
 #   $modified (number) - Number of modified passwords
 contextual-manager-passwords-import-success-message = ახალი: { $added }, განახლებული: { $modified }
+# Variables
+#   $added (number) - Number of added passwords
+#   $modified (number) - Number of modified passwords
+#   $no_change (number) - Number of duplicate passwords
+#   $error (number) - Number of invalid passwords
+contextual-manager-passwords-import-success-message-2 = ახალი: { $added }, განახლებული: { $modified }, განმეორებული: { $no_change }, შეცდომა: { $error }
 contextual-manager-passwords-import-detailed-report = დაწვრილებითი ანგარიშის ნახვა
 contextual-manager-passwords-import-success-button = მზადაა
 contextual-manager-passwords-import-error-heading-and-message =
