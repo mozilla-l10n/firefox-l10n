@@ -295,7 +295,7 @@ mr2022-upgrade-onboarding-pin-private-window-primary-button-label =
 ## MR2022 Privacy Segmentation screen strings
 
 mr2022-onboarding-privacy-segmentation-title = ჩვენ ყოველთვის პატივს ვცემთ თქვენს პირადულობას
-mr2022-onboarding-privacy-segmentation-subtitle = საზრიანი შემოთავაზებებითა გონიერი საძიებოთი მუდამ ვცდილობთ, გავხადოთ { -brand-product-name } უკეთესი და მეტად პირადი.
+mr2022-onboarding-privacy-segmentation-subtitle = საზრიანი შემოთავაზებებითა და გონიერი საძიებოთი მუდამ ვცდილობთ, გავხადოთ { -brand-product-name } უკეთესი და მეტად პირადი.
 mr2022-onboarding-privacy-segmentation-text-cta = რისი ხილვა გსურთ თქვენი მონაცემების საფუძველზე ახალი შესაძლებლობების შემოთავაზებისას?
 mr2022-onboarding-privacy-segmentation-button-primary-label = { -brand-product-name }-შემოთავაზებების გამოყენება
 mr2022-onboarding-privacy-segmentation-button-secondary-label = დაწვრილებით ჩვენება
