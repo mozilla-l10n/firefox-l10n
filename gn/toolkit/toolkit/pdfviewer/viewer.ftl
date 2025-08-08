@@ -316,6 +316,10 @@ pdfjs-highlight-floating-button1 =
     .title = Mbosa’y
     .aria-label = Mbosa’y
 pdfjs-highlight-floating-button-label = Mbosa’y
+pdfjs-comment-floating-button =
+    .title = Je’erei
+    .aria-label = Je’erei
+pdfjs-comment-floating-button-label = Je’erei
 pdfjs-editor-signature-button =
     .title = Embojuaju teraguapy
 pdfjs-editor-signature-button-label = Embojuaju teraguapy
@@ -605,6 +609,21 @@ pdfjs-editor-add-signature-error-close-button = Mboty
 pdfjs-editor-add-signature-cancel-button = Heja
 pdfjs-editor-add-signature-add-button = Mbojuaju
 pdfjs-editor-edit-signature-update-button = Mbohekopyahu
+
+##  Edit a comment dialog
+
+pdfjs-editor-edit-comment-close-button-label = Mboty
+pdfjs-editor-edit-comment-close-button =
+    .title = Mboty
+pdfjs-editor-edit-comment-actions-edit-button-label = Mbosako’i
+pdfjs-editor-edit-comment-actions-delete-button-label = Mboguete
+pdfjs-editor-edit-comment-manager-cancel-button = Heja
+pdfjs-editor-edit-comment-manager-save-button = Ñongatu
+
+## Edit a comment button in the editor toolbar
+
+pdfjs-editor-edit-comment-button =
+    .title = Je’erei mbosako’i
 
 ## Main menu for adding/removing signatures
 
