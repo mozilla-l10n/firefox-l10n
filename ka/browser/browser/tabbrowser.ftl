@@ -257,6 +257,8 @@ tab-group-editor-color-selector2-gray = რუხი
 tab-group-editor-color-selector2-red = წითელი
     .title = წითელი
 tab-group-description = { $tabGroupName } — ჩანართების ჯგუფი
+tab-group-label-tooltip-collapsed = { $tabGroupName } — შეკეცილი
+tab-group-label-tooltip-expanded = { $tabGroupName } — გაშლილი
 tab-context-unnamed-group =
     .label = უსახელო ჯგუფი
 tab-group-name-default = უსახელო ჯგუფი
@@ -303,6 +305,16 @@ tab-context-ungroup-tab =
            *[other] მოცილება ჯგუფებიდან
         }
     .accesskey = ც
+# When a tab group containing the active tab is collapsed, the active tab
+# remains visible. An indicator appears at the end of the group showing the
+# number of remaining tabs that are hidden by the collapsed group,
+# e.g. "+2" for a group with 3 total tabs.
+tab-group-overflow-count = +{ $tabCount }
+tab-group-overflow-count-tooltip =
+    { $tabCount ->
+        [one] { $tabCount } ჩანართი კიდევ
+       *[other] { $tabCount } ჩანართი კიდევ
+    }
 
 ## Open/saved tab group context menu
 
