@@ -115,8 +115,20 @@ fxa-adoption-passwords-primary-button-label = Tilmeld dig
 ## Windows 10 EoS Sync messages group 1 callouts
 
 windows-10-eos-sync-urgency-title-1 = Mist ikke alt, hvad du har gemt, når du skifter til Windows 11.
+windows-10-eos-sync-urgency-subtitle-1 = Synkroniser nu for at gøre dine bogmærker, adgangskoder og indstillinger fra { -brand-short-name }  sikre og nemme at gendanne.
+windows-10-eos-sync-urgency-title-2 = Er det på tide at sige farvel til Windows 10? Beskyt dine data, når du skifter.
+windows-10-eos-sync-urgency-subtitle-2 = Selv hvis du ikke bruger { -brand-short-name } dagligt, bør du synkronisere for at gøre dine bogmærker og adgangskoder sikre og tilgængelige.
+windows-10-eos-sync-new-device-title-1 = Undgå at skulle starte forfra på din næste enhed.
+windows-10-eos-sync-new-device-subtitle-1 = Synkroniser for at tage dine bogmærker, adgangskoder og foretrukne indstillinger fra { -brand-short-name } med dig, når du flytter.
+windows-10-eos-sync-new-device-title-2 = Skifter du til en ny enhed? Behold de vigtige ting.
 windows-10-eos-sync-new-device-subtitle-2 = Uanset hvor ofte du bruger { -brand-short-name }, beskytter synkronisering dine bogmærker, adgangskoder og indstillinger.
 windows-10-eos-sync-new-device-primary-label = Synkroniser nu
+windows-10-eos-sync-general-title-1 = Beskyt din tilpassede version af { -brand-short-name }.
+windows-10-eos-sync-general-subtitle-1 = Sikkerhedskopier og synkroniser dine adgangskoder, bogmærker, indstillinger og andre data for at bevare de ting, du behøver.
+windows-10-eos-sync-general-title-2 = Nu er et godt tidspunkt at sikkerhedskopiere dine adgangskoder og bogmærker.
+windows-10-eos-sync-tour-title-1 = For mange faneblade? Ryd op med fanebladsgrupper.
+windows-10-eos-sync-tour-subtitle-1 = Træk et faneblade oven på et andet for at oprette en gruppe og holde tingene organiseret.
+windows-10-eos-sync-tour-title-2 = Forbered dig til Windows 11.
 windows-10-eos-sync-tour-subtitle-2 = Synkroniser dine bogmærker, adgangskoder og indstillinger for at sikkerhedskopiere dem, før du skifter.
 
 ## Sidebar Strings

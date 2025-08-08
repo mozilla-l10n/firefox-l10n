@@ -68,6 +68,9 @@ cfr-doorhanger-bookmark-fxa-link-text = Synkroniser bogmærker nu…
 cfr-doorhanger-bookmark-fxa-close-btn-tooltip =
     .aria-label = Luk-knap
     .title = Luk
+fxa-adoption-addresses-backup-title = Lad os sikkerhedskopiere dine gemte adresser
+fxa-adoption-addresses-backup-subtitle = Beskyt dine gemte adresser ved at kryptere og synkronisere dem med dine enheder.
+fxa-adoption-credit-cards-backup-title = Lad os gemme dine betalingsmetoder
 
 ## Protections panel
 

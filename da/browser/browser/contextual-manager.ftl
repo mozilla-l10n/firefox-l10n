@@ -226,6 +226,7 @@ contextual-manager-passwords-remove-label =
     .title = Fjern adgangskode
 contextual-manager-passwords-origin-tooltip = Indtast den eksakte adresse, du bruger til at logge ind på dette websted.
 contextual-manager-passwords-username-tooltip = Indtast brugernavnet, mailadressen eller kontonummeret, du bruger til at logge ind.
+contextual-manager-passwords-password-tooltip-2 = Indtast adgangskoden for at logge ind på denne konto.
 contextual-manager-passwords-password-tooltip = Indtast adgangskoden, du bruger til at logge ind på denne konto.
 
 ## Password Card
@@ -302,6 +303,7 @@ contextual-manager-hide-password-button =
 # The message displayed when the search text does not match any of the user's saved logins.
 contextual-manager-passwords-no-passwords-found-header =
     .heading = Ingen adgangskoder fundet
+contextual-manager-passwords-no-passwords-found-message-2 = Prøv en anden søgeterm og søg igen.
 contextual-manager-passwords-no-passwords-found-message = Ingen adgangskoder fundet. Prøv at søge igen med et andet søgeudtryk.
 
 ## When the user has no saved passwords, we display the following messages to inform the user they can save
@@ -316,6 +318,8 @@ contextual-manager-passwords-no-passwords-message = Alle adgangskoder er krypter
 contextual-manager-passwords-no-passwords-get-started-message = Tilføj dem her for at komme i gang.
 # This string is displayed in a button. If the user clicks it, they will be taken to a form to create a new password.
 contextual-manager-passwords-add-manually = Tilføj manuelt
+# This string encourages the user to save their passwords in Firefox (the "safe spot").
+contextual-manager-passwords-no-passwords-header-2 = Gem dine adgangskoder et sikkert sted
 
 ## When the user cancels a login that's currently being edited, we display a message to confirm whether
 ## or not the user wants to discard their current edits to the login.
@@ -332,5 +336,8 @@ contextual-manager-passwords-remove-all-passwords-checkbox =
         [one] Ja, fjern adgangskode
        *[other] Ja, fjern adgangskoder
     }
+# This string informs the user they need to provide their primary password for FireFox to access their saved passwords in Firefox.
+contextual-manager-primary-password-reauth-header = Indtast din hovedadgangskode for at se dine gemte adgangskoder.
 # This string informs the user their primary password is used to authenticate and access their passwords
 contextual-manager-primary-password-reauth-button = Indtast hovedadgangskode
+contextual-manager-primary-password-learn-more-link = Læs mere
