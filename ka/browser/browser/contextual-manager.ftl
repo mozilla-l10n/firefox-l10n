@@ -163,6 +163,8 @@ contextual-manager-passwords-password-already-exists-error-button = გადა
 contextual-manager-passwords-update-password-success-heading =
     .heading = პაროლი შენახულია
 contextual-manager-passwords-update-password-success-button = მზადაა
+contextual-manager-passwords-update-username-success-heading-2 =
+    .heading = მეტსახელი დამატებულია
 contextual-manager-passwords-update-username-success-heading =
     .heading = მომხმ. სახელი შენახულია
 # Message to confirm successful removal of a password/passwords.
@@ -217,12 +219,15 @@ contextual-manager-passwords-title = პაროლები
 
 contextual-manager-passwords-create-label =
     .label = პაროლის დამატება
+contextual-manager-passwords-update-label =
+    .label = პაროლის განახლება
 contextual-manager-passwords-edit-label =
     .label = პაროლის შესწორება
 contextual-manager-passwords-remove-label =
     .title = პაროლის მოცილება
 contextual-manager-passwords-origin-tooltip = მიუთითეთ ზუსტი მისამართი, რომ საიტზე შესვლაც გსურთ.
 contextual-manager-passwords-username-tooltip = მიუთითეთ მომხმარებლის სახელი, ელფოსტის მისამართი ან ანგარიშის ნომერი, რომელსაც იყენებთ ანგარიშზე შესასვლელად.
+contextual-manager-passwords-password-tooltip-2 = მიუთითეთ პაროლი ამ ანგარიშზე შესასვლელად.
 contextual-manager-passwords-password-tooltip = მიუთითეთ პაროლი, რომელსაც იყენებთ ამ ანგარიშზე შესასვლელად.
 
 ## Password Card
@@ -299,6 +304,7 @@ contextual-manager-hide-password-button =
 # The message displayed when the search text does not match any of the user's saved logins.
 contextual-manager-passwords-no-passwords-found-header =
     .heading = პაროლები ვერ მოიძებნა
+contextual-manager-passwords-no-passwords-found-message-2 = მოსინჯეთ სხვა სიტყვა და ხელახლა მოძებნეთ.
 contextual-manager-passwords-no-passwords-found-message = პაროლები ვერ მოიძებნა. კვლავ სცადეთ მონახვა სხვა საძებნი სიტყვებით.
 
 ## When the user has no saved passwords, we display the following messages to inform the user they can save
@@ -313,6 +319,8 @@ contextual-manager-passwords-no-passwords-message = ყველა პარო
 contextual-manager-passwords-no-passwords-get-started-message = დაამატეთ აქ დასაწყებად.
 # This string is displayed in a button. If the user clicks it, they will be taken to a form to create a new password.
 contextual-manager-passwords-add-manually = ხელით დამატება
+# This string encourages the user to save their passwords in Firefox (the "safe spot").
+contextual-manager-passwords-no-passwords-header-2 = შეინახეთ პაროლები უსაფრთხო ადგილას
 
 ## When the user cancels a login that's currently being edited, we display a message to confirm whether
 ## or not the user wants to discard their current edits to the login.
@@ -328,3 +336,8 @@ contextual-manager-passwords-remove-all-passwords-checkbox =
         [1] დიახ, წაიშალოს პაროლი
        *[other] დიახ, წაიშალოს პაროლები
     }
+# This string informs the user they need to provide their primary password for FireFox to access their saved passwords in Firefox.
+contextual-manager-primary-password-reauth-header = შენახული პაროლების სანახავად შეიყვანეთ მთავარი პაროლი.
+# This string informs the user their primary password is used to authenticate and access their passwords
+contextual-manager-primary-password-reauth-button = შეიყვანეთ მთავარი პაროლი
+contextual-manager-primary-password-learn-more-link = ვრცლად

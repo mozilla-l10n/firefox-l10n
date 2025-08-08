@@ -168,6 +168,25 @@ permissions-site-camera-disable-label =
     .label = კამერასთან წვდომის ახალი მოთხოვნების შეზღუდვა
 permissions-site-camera-disable-desc = შედეგად, ყველა ვებსაიტს, რომელიც ზემოთ არ იქნება მითითებული, აეკრძალება თქვენს კამერასთან წვდომა. კამერასთან წვდომის შეზღუდვის გამო შესაძლოა, ვებსაიტის ზოგიერთმა შესაძლებლობამ ვერ იმუშაოს.
 
+## Site Permissions - Local host
+
+permissions-site-localhost-window =
+    .title = პარამეტრები – მოწყობილობის პროგრამები და მომსახურებები
+    .style = { permissions-window2.style }
+permissions-site-localhost-desc = მოცემული ვებსაიტები ითხოვს წვდომას პროგრამებთან და მომსახურებებთან ამ მოწყობილობაზე. შეგიძლიათ დართოთ ნება ან შეუზღუდოთ.
+permissions-site-localhost-disable-label =
+    .label = პროგრამებთან ან მომსახურებებთან წვდომის ახალი მოთხოვნების შეზღუდვა ამ მოწყობილობაზე
+permissions-site-localhost-disable-desc = შედეგად, ყველა ვებსაიტს, რომელიც ზემოთ არ იქნება მითითებული, შეეზღუდება წვდომის ჩვენების უფლება პროგრამებსა და მომსახურებებთან ამ მოწყობილობაზე. ამის გამო შესაძლოა, ვებსაიტის ზოგიერთმა შესაძლებლობამ ვერ იმუშაოს.
+
+## Site Permissions - Local network
+
+permissions-site-local-network-window =
+    .title = პარამეტრები – ადგილობრივი ქსელის მოწყობილობები
+    .style = { permissions-window2.style }
+permissions-site-local-network-desc = მოცემული ვებსაიტები ითხოვს წვდომას პროგრამებთან და მომსახურებებთან თქვენს ადგილობრივ ან WiFi-ქსელში ჩართულ მოწყობილობებზე. შეგიძლიათ დართოთ ნება ან შეუზღუდოთ.
+permissions-site-local-network-disable-label =
+    .label = პროგრამებთან ან მომსახურებებთან წვდომის ახალი მოთხოვნების შეზღუდვა ადგილობრივ ან WiFi-ქსელში ჩართულ მოწყობილობებზე.
+
 ## Site Permissions - Microphone
 
 permissions-site-microphone-window2 =
