@@ -141,6 +141,10 @@ urlbar-default-notification-anchor =
     .tooltiptext = Open message panel
 urlbar-geolocation-notification-anchor =
     .tooltiptext = Open location request panel
+urlbar-localhost-notification-anchor =
+    .tooltiptext = Manage local device access for this site
+urlbar-local-network-notification-anchor =
+    .tooltiptext = Manage sharing your local network access with this site
 urlbar-xr-notification-anchor =
     .tooltiptext = Open virtual reality permission panel
 urlbar-storage-access-anchor =
@@ -207,6 +211,9 @@ urlbar-result-menu-show-less-frequently =
     .label = Show less frequently
 urlbar-result-menu-dont-show-weather-suggestions =
     .label = Don’t show weather suggestions
+# Used for Split Button.
+urlbar-splitbutton-dropmarker =
+    .title = Open menu
 # A message shown in the urlbar when the user submits feedback on a suggestion
 # (e.g., it shows an inaccurate location, it's shown too often, etc.).
 urlbar-feedback-acknowledgment = Thanks for your feedback
@@ -238,6 +245,10 @@ urlbar-search-mode-actions = Actions
 
 urlbar-geolocation-blocked =
     .tooltiptext = You have blocked location information for this website.
+urlbar-localhost-blocked =
+    .tooltiptext = You have blocked local device connections for this website.
+urlbar-local-network-blocked =
+    .tooltiptext = You have blocked local network connections for this website.
 urlbar-xr-blocked =
     .tooltiptext = You have blocked virtual reality device access for this website.
 urlbar-web-notifications-blocked =
@@ -790,6 +801,29 @@ urlbar-result-weather-title-city-only = <strong>{ $temperature }°{ $unit }</str
 #       name of a company, organization, or service.
 urlbar-result-weather-provider-sponsored = { $provider } · Sponsored
 
+## These strings are used for Realtime suggestions in the urlbar.
+## Market refers to stocks, indexes, and funds.
+
+# This string is shown as title when Market suggestion are disabled.
+urlbar-result-market-opt-in-title = Get stock market data right in your search bar
+# This string is shown as description when Market suggestion are disabled.
+urlbar-result-market-opt-in-description = Show market updates and more from our partners when you share search query data with { -vendor-short-name }. <a data-l10n-name="learn-more-link">Learn more</a>
+# This string is shown as button to activate online when realtime suggestion are disabled.
+urlbar-result-realtime-opt-in-allow = Show suggestions
+# This string is shown in split button to dismiss activation the Realtime suggestion.
+urlbar-result-realtime-opt-in-not-now = Not now
+urlbar-result-realtime-opt-in-dismiss = Dismiss
+urlbar-result-realtime-opt-in-dismiss-all =
+    .label = Don’t show these suggestions
+# This string is shown in the result menu.
+urlbar-result-menu-dont-show-market =
+    .label = Don’t show market suggestions
+# A message that replaces a result when the user dismisses Market suggestions.
+urlbar-result-dismissal-acknowledgment-market = Thanks for your feedback. You won’t see market suggestions anymore.
+# A message that replaces a result when the user dismisses all suggestions of a
+# particular type.
+urlbar-result-dismissal-acknowledgment-all = Thanks for your feedback. You won’t see these suggestions anymore.
+
 ## Strings used for buttons in the urlbar
 
 # Label prompting user to search with a particular search engine.
@@ -823,6 +857,8 @@ urlbar-searchmode-default =
 urlbar-searchmode-popup-description = This time search with:
 urlbar-searchmode-popup-search-settings-menuitem =
     .label = Search Settings
+# Label shown next to a new search engine in the Searchmode Switcher popup to promote it.
+urlbar-searchmode-new = New
 # Searchmode Switcher button
 # Variables:
 #   $engine (String): the current default search engine.
@@ -1150,6 +1186,10 @@ tabs-toolbar-list-all-tabs =
     .label = List all tabs
     .tooltiptext = List all tabs
 
+## Drop indicator text for pinned tabs when no tabs are pinned.
+
+pinned-tabs-drop-indicator = Drop tab here to pin
+
 ## Infobar shown at startup to suggest session-restore
 
 # <img data-l10n-name="icon"/> will be replaced by the application menu icon
@@ -1320,3 +1360,119 @@ onboarding-checklist-button-label = Finish setup
 onboarding-aw-finish-setup-button =
     .label = Finish setup
     .tooltiptext = Finish setting up { -brand-short-name }
+
+## The urlbar trust panel
+
+trustpanel-etp-label-enabled = Enhanced Tracking Protection is on
+trustpanel-etp-label-disabled = Enhanced Tracking Protection is off
+# Variables
+#  $host (String): the hostname of the site that is being displayed.
+trustpanel-etp-toggle-on =
+    .aria-label = Enhanced Tracking Protection: On for { $host }
+# Variables
+#  $host (String): the hostname of the site that is being displayed.
+trustpanel-etp-toggle-off =
+    .aria-label = Enhanced Tracking Protection: Off for { $host }
+trustpanel-etp-description-enabled = If something looks broken on this site, try turning off protections.
+trustpanel-etp-description-disabled = { -brand-product-name } thinks companies should follow you less. We block as many trackers as we can when you turn on protections.
+trustpanel-connection-label-secure = Connection secure
+trustpanel-connection-label-insecure = Connection not secure
+trustpanel-header-enabled = { -brand-product-name } is on guard
+trustpanel-description-enabled = You’re protected. If we spot something, we’ll let you know
+trustpanel-header-disabled = You turned off protections
+trustpanel-description-disabled = { -brand-product-name } is off-duty. We suggest turning protections back on.
+trustpanel-clear-cookies-button = Clear cookies and site data
+trustpanel-privacy-link = Privacy Settings
+# Variables
+#  $host (String): the hostname of the site that is being displayed.
+trustpanel-clear-cookies-header =
+    .title = Clear cookies and site data for { $host }
+trustpanel-clear-cookies-description = Removing cookies and site data might log you out of websites and clear shopping carts.
+trustpanel-clear-cookies-subview-button-clear = Clear
+trustpanel-clear-cookies-subview-button-cancel = Cancel
+# Variables
+#  $host (String): the hostname of the site that is being displayed.
+trustpanel-site-information-header =
+    .title = Connection protections for { $host }
+trustpanel-connection-secure = You are securely connected to this site.
+trustpanel-connection-not-secure = You are not securely connected to this site.
+trustpanel-siteinformation-morelink = More site information
+trustpanel-blocker-see-all = See All
+# Variables
+#  $host (String): the hostname of the site that is being displayed.
+trustpanel-blocker-header =
+    .title = Tracking protections for { $host }
+
+## Variables
+##  $count (String): the number of trackers blocked.
+
+trustpanel-blocker-section-header =
+    { $count ->
+        [one] <span>{ $count }</span> Tracker blocked on this site
+       *[other] <span>{ $count }</span> Trackers blocked on this site
+    }
+trustpanel-blocker-description = { -brand-product-name } thinks companies should follow you less. So we block as many as we can.
+trustpanel-blocked-header = { -brand-product-name } blocked these things for you:
+trustpanel-tracking-header = { -brand-product-name } allowed these things so sites don’t break:
+trustpanel-tracking-description = Without trackers, some buttons, forms, and login fields might not work.
+trustpanel-insecure-section-header = Your connection isn’t secure
+trustpanel-insecure-description = The data you’re sending to this site isn’t encrypted. It could be viewed, stolen, or altered.
+trustpanel-list-label-tracking-cookies =
+    { $count ->
+        [one] { $count } Cross-site tracking cookie
+       *[other] { $count } Cross-site tracking cookies
+    }
+trustpanel-list-label-tracking-content = Tracking content
+trustpanel-list-label-fingerprinter =
+    { $count ->
+        [one] { $count } Fingerprinters
+       *[other] { $count } Fingerprinters
+    }
+trustpanel-list-label-social-tracking =
+    { $count ->
+        [one] { $count } Social media tracker
+       *[other] { $count } Social media trackers
+    }
+trustpanel-list-label-cryptominer =
+    { $count ->
+        [one] { $count } Cryptominer
+       *[other] { $count } Cryptominers
+    }
+trustpanel-social-tracking-blocking-tab-header =
+    { $count ->
+        [one] { -brand-product-name } blocked { $count } social media tracker
+       *[other] { -brand-product-name } blocked { $count } social media trackers
+    }
+trustpanel-social-tracking-not-blocking-tab-header =
+    { $count ->
+        [one] { -brand-product-name } allowed { $count } social media tracker
+       *[other] { -brand-product-name } allowed { $count } social media trackers
+    }
+trustpanel-social-tracking-tab-list-header = These sites are trying to track you:
+trustpanel-tracking-cookies-blocking-tab-header =
+    { $count ->
+        [one] { -brand-product-name } blocked { $count } cross-site tracking cookie
+       *[other] { -brand-product-name } blocked { $count } cross-site tracking cookies
+    }
+trustpanel-tracking-cookies-not-blocking-tab-header =
+    { $count ->
+        [one] { -brand-product-name } allowed { $count } cross-site tracking cookie
+       *[other] { -brand-product-name } allowed { $count } cross-site tracking cookies
+    }
+trustpanel-tracking-cookies-tab-list-header = These sites are trying to track you:
+trustpanel-tracking-content-blocking-tab-header =
+    { $count ->
+        [one] { -brand-product-name } blocked { $count } tracker
+       *[other] { -brand-product-name } blocked { $count } trackers
+    }
+trustpanel-tracking-content-not-blocking-tab-header =
+    { $count ->
+        [one] { -brand-product-name } allowed { $count } tracker
+       *[other] { -brand-product-name } allowed { $count } trackers
+    }
+trustpanel-tracking-content-tab-list-header = These sites are trying to track you:
+trustpanel-fingerprinter-blocking-tab-header =
+    { $count ->
+        [one] { -brand-product-name } blocked { $count } fingerprinter
+       *[other] { -brand-product-name } blocked { $count } fingerprinters
+    }

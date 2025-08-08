@@ -204,12 +204,15 @@ contextual-manager-passwords-title = Passwords
 
 contextual-manager-passwords-create-label =
     .label = Add password
+contextual-manager-passwords-update-label =
+    .label = Update password
 contextual-manager-passwords-edit-label =
     .label = Edit password
 contextual-manager-passwords-remove-label =
     .title = Remove password
 contextual-manager-passwords-origin-tooltip = Enter the exact address where you’ll sign in to this site.
 contextual-manager-passwords-username-tooltip = Enter the username, email address, or account number you use to sign in.
+contextual-manager-passwords-password-tooltip-2 = Enter the password to sign in to this account.
 contextual-manager-passwords-password-tooltip = Enter the password used to sign in to this account.
 
 ## Password Card
@@ -286,6 +289,7 @@ contextual-manager-hide-password-button =
 # The message displayed when the search text does not match any of the user's saved logins.
 contextual-manager-passwords-no-passwords-found-header =
     .heading = No passwords found
+contextual-manager-passwords-no-passwords-found-message-2 = Try a different term and search again.
 contextual-manager-passwords-no-passwords-found-message = No passwords found. Search a different term and try again.
 
 ## When the user has no saved passwords, we display the following messages to inform the user they can save
@@ -300,6 +304,8 @@ contextual-manager-passwords-no-passwords-message = All passwords are encrypted 
 contextual-manager-passwords-no-passwords-get-started-message = Add them here to get started.
 # This string is displayed in a button. If the user clicks it, they will be taken to a form to create a new password.
 contextual-manager-passwords-add-manually = Add manually
+# This string encourages the user to save their passwords in Firefox (the "safe spot").
+contextual-manager-passwords-no-passwords-header-2 = Save your passwords to a safe spot
 
 ## When the user cancels a login that's currently being edited, we display a message to confirm whether
 ## or not the user wants to discard their current edits to the login.
@@ -315,3 +321,8 @@ contextual-manager-passwords-remove-all-passwords-checkbox =
         [1] Yes, remove password
        *[other] Yes, remove passwords
     }
+# This string informs the user they need to provide their primary password for FireFox to access their saved passwords in Firefox.
+contextual-manager-primary-password-reauth-header = To see your saved passwords, enter your primary password.
+# This string informs the user their primary password is used to authenticate and access their passwords
+contextual-manager-primary-password-reauth-button = Enter primary password
+contextual-manager-primary-password-learn-more-link = Learn more

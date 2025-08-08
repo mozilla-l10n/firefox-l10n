@@ -68,6 +68,11 @@ cfr-doorhanger-bookmark-fxa-link-text = Sync bookmarks now…
 cfr-doorhanger-bookmark-fxa-close-btn-tooltip =
     .aria-label = Close button
     .title = Close
+fxa-adoption-addresses-backup-title = Let’s back up your saved addresses
+fxa-adoption-addresses-backup-subtitle = Protect your saved addresses by syncing them to your devices with encryption.
+fxa-adoption-credit-cards-backup-title = Let’s back up your payment methods
+fxa-adoption-credit-cards-backup-subtitle = Protect your payment methods by syncing them to your devices with encryption.
+fxa-adoption-primary-button-label = Sign up
 
 ## Protections panel
 
@@ -342,3 +347,16 @@ multi-cta-fox-doodle-privacy-focused-subtitle =
        *[other] Keep your favourite privacy-focused browser just one click away. Set { -brand-short-name } as your default browser for opening links and pin it to your taskbar.
     }
 multi-cta-fox-doodle-msix-privacy-focused-subtitle = Keep your favourite privacy-focused browser just one click away. Set { -brand-short-name } as your default browser for opening links and pin it to your taskbar and Start menu.
+
+## Windows 10 EoS Sync messages group 1 spotlight
+
+windows-10-eos-sync-spotlight-title = Upgrading from Windows 10 soon?
+windows-10-eos-sync-spotlight-subtitle = Back up your passwords and bookmarks so you’re ready to make the leap to any device.
+windows-10-eos-sync-spotlight-primary-label = Back up your { -brand-short-name }
+
+## Windows 10 EoS Sync messages group 1 toast notification
+
+windows-10-eos-sync-toast-title = Upgrading to Windows 11? Don’t lose bookmarks and passwords.
+windows-10-eos-sync-toast-subtitle = Back up your data so { -brand-short-name } is ready to go any time, on this PC or the next one.
+windows-10-eos-sync-toast-primary-label = Get started
+windows-10-eos-sync-toast-secondary-label = Remind me later
