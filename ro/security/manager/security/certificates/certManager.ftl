@@ -64,11 +64,11 @@ certmgr-delete-builtin =
     .label = Șterge sau anulează încrederea…
     .accesskey = D
 certmgr-backup =
-    .label = Salvează
-    .accesskey = S
+    .label = Copie de siguranță…
+    .accesskey = B
 certmgr-backup-all =
-    .label = Salvează tot
-    .accesskey = l
+    .label = Copie de siguranță pentru toate…
+    .accesskey = k
 certmgr-restore =
     .label = Importă…
     .accesskey = m
@@ -95,14 +95,14 @@ exception-mgr-permanent =
 pk11-bad-password = Parola introdusă este incorectă.
 pkcs12-decode-err = Nu se poate decoda fișierul.  Fie acesta nu e în format PKCS #12, fie a fost corupt, fie parola pe care ați introdus-o e incorectă.
 pkcs12-unknown-err-restore = Nu s-a putut restaura fișierul de tip PKCS #12 din motive necunoscute.
-pkcs12-unknown-err-backup = Nu s-a putut crea fișierul de backup de tip PKCS #12 din motive necunoscute.
+pkcs12-unknown-err-backup = Nu s-a putut copia de siguranță PKCS #12 din motive necunoscute.
 pkcs12-unknown-err = Operația PKCS #12 a eșuat din motive necunoscute.
 pkcs12-info-no-smartcard-backup = Nu este posibilă salvarea certificatelor de pe dispozitive hardware de securitate, cum ar fi cardurile inteligente.
 pkcs12-dup-data = Certificatul și cheia privată există deja în dispozitivul de securitate.
 
 ## PKCS#12 file dialogs
 
-choose-p12-backup-file-dialog = Nume fișier de salvat
+choose-p12-backup-file-dialog = Denumire fișier de făcut copie de siguranță
 file-browse-pkcs12-spec = Fișiere PKCS12
 choose-p12-restore-file-dialog = Fișierul certificatului de importat
 

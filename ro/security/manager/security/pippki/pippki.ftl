@@ -95,12 +95,12 @@ client-auth-cert-remember-box =
 ## Set password (p12) dialog
 
 set-password-window =
-    .title = Alege o parolă de siguranță pentru certificate
+    .title = Alege o parolă pentru copia de siguranță cu certificate
 set-password-message = Parola pe care o setezi aici protejează fișierul de siguranță pe care ești pe cale să-l creezi.  Trebuie să setezi această parolă pentru a continua salvarea de siguranță.
 set-password-backup-pw =
-    .value = Parola de siguranță pentru certificate:
+    .value = Parola copiei de siguranță cu certificate:
 set-password-repeat-backup-pw =
-    .value = Parola de siguranță pentru certificate (din nou):
+    .value = Parola copiei de siguranță cu certificate (din nou):
 set-password-reminder = Important: Dacă uiți parola de siguranță pentru certificate, nu vei putea reface această copie mai târziu.  Te rugăm să ai grijă să o păstrezi într-un loc sigur.
 
 ## Protected authentication alert
