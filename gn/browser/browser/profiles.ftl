@@ -166,6 +166,8 @@ diamond-avatar-alt =
     .alt = Itavera
 barbell-avatar-alt =
     .alt = Bárra mba’epohýi reheve
+bike-avatar-alt =
+    .alt = Vísi
 
 ## Labels for default avatar icons
 
@@ -176,7 +178,32 @@ canvas-avatar = Canvas
 # Craft refers to hobby arts and crafts, represented by a button/fastener commonly found on clothing like shirts
 craft-avatar = Mba’e’apokuaa
 custom-avatar = Avatar mboavapyre
+# Default favicon refers to the generic globe/world icon that appears in browser tabs when a website doesn't have its own favicon.
+default-favicon-avatar = Favicon ypykuéva
+# Diamond refers to the precious stone, not the geometric shape
+diamond-avatar = Itavera
 flower-avatar = Yvoty
+folder-avatar = Ñongatuha
+hammer-avatar = Mbotaha
 heart-avatar = Korasõ
+heart-rate-avatar = Korasõ tytýi
+history-avatar = Tembiasakue
+leaf-avatar = Kuatia
+lightbulb-avatar = Myesakãha
+makeup-avatar = Moporãha
+# Message refers to a text message, not a traditional letter/envelope message
+message-avatar = Ñe’ẽmondo
+musical-note-avatar = Purahéi nóta
+palette-avatar = Paléta
+paw-print-avatar = Pypore
+plane-avatar = Aviõ
+# Present refers to a gift box, not the current time period
+present-avatar = Oĩva
 shopping-avatar = Mba’yruguata’i jejoguaha
+soccer-avatar = Mangapykuaa
+sparkle-single-avatar = Mba’erendy
 star-avatar = Mbyja
+custom-avatar-crop-back-button =
+    .aria-label = Tapykue
+barbell-avatar = Bárra mba’epohýi reheve
+bike-avatar = Vísi

@@ -306,6 +306,8 @@ tab-group-editor-color-selector2-gray = Šedivý
 tab-group-editor-color-selector2-red = Červená
     .title = Červená
 tab-group-description = { $tabGroupName } — Skupina panelů
+tab-group-label-tooltip-collapsed = { $tabGroupName } — zbaleno
+tab-group-label-tooltip-expanded = { $tabGroupName } — rozbaleno
 tab-context-unnamed-group =
     .label = Nepojmenovaná skupina
 tab-group-name-default = Nepojmenovaná skupina
@@ -361,6 +363,18 @@ tab-context-ungroup-tab =
            *[other] Odebrat ze skupin
         }
     .accesskey = d
+# When a tab group containing the active tab is collapsed, the active tab
+# remains visible. An indicator appears at the end of the group showing the
+# number of remaining tabs that are hidden by the collapsed group,
+# e.g. "+2" for a group with 3 total tabs.
+tab-group-overflow-count = + { $tabCount }
+tab-group-overflow-count-tooltip =
+    { $tabCount ->
+        [one] { $tabCount } další panel
+        [few] { $tabCount } další panely
+        [many] { $tabCount } dalších panelů
+       *[other] { $tabCount } dalších panelů
+    }
 
 ## Open/saved tab group context menu
 

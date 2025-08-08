@@ -29,6 +29,7 @@ about-logging-no-log-modules = Žádný
 about-logging-no-log-file = Žádný
 about-logging-logging-preset-selector-text = Přednastavené protokolování:
 about-logging-with-profiler-stacks-checkbox = Povolit výpis zásobníku pro zprávy protokolu
+about-logging-with-javascript-tracing-checkbox = Povolit sledování JavaScriptu
 about-logging-menu =
     .title = Rozšířené možnosti
 
@@ -52,6 +53,8 @@ about-logging-preset-webcodecs-label = WebCodecs
 about-logging-preset-webcodecs-description = Moduly protokolu pro diagnostiku problémů s dekodéry a enkodéry zvuku/videa a dekodéry obrazu WebCodecs
 about-logging-preset-ml-label = Strojové učení
 about-logging-preset-ml-description = Moduly protokolů pro diagnostiku problémů se strojovým učením
+about-logging-preset-web-compat-label = Webová kompatibilita
+about-logging-preset-web-compat-description = Moduly protokolů pro diagnostiku problémů s kompatibilitou webů
 about-logging-preset-webgpu-label = WebGPU
 about-logging-preset-webgpu-description = Moduly protokolů pro diagnostiku problémů s WebGPU.
 about-logging-preset-gfx-label = Grafika
