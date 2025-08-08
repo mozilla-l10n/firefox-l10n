@@ -73,6 +73,8 @@ cfr-doorhanger-bookmark-fxa-close-btn-tooltip =
 fxa-adoption-addresses-backup-title = Hai să facem o copie de rezervă cu adresele salvate
 fxa-adoption-addresses-backup-subtitle = Protejează-ți adresele salvate sincronizându-le pe dispozitive cu criptare.
 fxa-adoption-credit-cards-backup-title = Hai să facem o copie de rezervă cu metodele de plată
+fxa-adoption-credit-cards-backup-subtitle = Protejează-ți metodele de plată sincronizându-le pe dispozitive cu criptare.
+fxa-adoption-primary-button-label = Fă-ți un cont
 
 ## Protections panel
 

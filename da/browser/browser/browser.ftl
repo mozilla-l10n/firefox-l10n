@@ -1376,6 +1376,70 @@ trustpanel-blocker-section-header =
 trustpanel-blocked-header = { -brand-product-name } blokerede disse ting for dig:
 trustpanel-tracking-header = { -brand-product-name } tillod disse ting, så websteder ikke går i stykker:
 trustpanel-insecure-section-header = Din forbindelse er ikke sikker
+trustpanel-list-label-tracking-cookies =
+    { $count ->
+        [one] { $count } sporings-cookie på tværs af websteder
+       *[other] { $count } sporings-cookies på tværs af websteder
+    }
+trustpanel-list-label-tracking-content = Sporings-indhold
+trustpanel-list-label-fingerprinter =
+    { $count ->
+        [one] { $count } fingerprinter
+       *[other] { $count } fingerprinters
+    }
+trustpanel-list-label-social-tracking =
+    { $count ->
+        [one] { $count } sporing via sociale medier
+       *[other] { $count } sporinger via sociale medier
+    }
+trustpanel-list-label-cryptominer =
+    { $count ->
+        [one] { $count } cryptominer
+       *[other] { $count } cryptominers
+    }
+trustpanel-social-tracking-blocking-tab-header =
+    { $count ->
+        [one] { -brand-product-name } blokerede { $count } sporing via sociale medier
+       *[other] { -brand-product-name } blokerede { $count } sporinger via sociale medier
+    }
+trustpanel-social-tracking-not-blocking-tab-header =
+    { $count ->
+        [one] { -brand-product-name } tillod { $count } sporing via sociale medier
+       *[other] { -brand-product-name } tillod { $count } sporinger via sociale medier
+    }
+trustpanel-social-tracking-tab-list-header = Disse websteder forsøger at spore dig:
+trustpanel-tracking-cookies-blocking-tab-header =
+    { $count ->
+        [one] { -brand-product-name } blokerede { $count } sporings-cookie på tværs af websteder
+       *[other] { -brand-product-name } blokerede { $count } sporings-cookies på tværs af websteder
+    }
+trustpanel-tracking-cookies-not-blocking-tab-header =
+    { $count ->
+        [one] { -brand-product-name } tillod { $count } sporings-cookie på tværs af websteder
+       *[other] { -brand-product-name } tillod { $count } sporings-cookies på tværs af websteder
+    }
+trustpanel-tracking-cookies-tab-list-header = Disse websteder forsøger at spore dig:
+trustpanel-tracking-content-blocking-tab-header =
+    { $count ->
+        [one] { -brand-product-name } blokerede { $count } sporings-mekanisme
+       *[other] { -brand-product-name } blokerede { $count } sporings-mekanismer
+    }
+trustpanel-tracking-content-not-blocking-tab-header =
+    { $count ->
+        [one] { -brand-product-name } tillod { $count } sporings-mekanisme
+       *[other] { -brand-product-name } tillod { $count } sporings-mekanismer
+    }
+trustpanel-tracking-content-tab-list-header = Disse websteder forsøger at spore dig:
+trustpanel-fingerprinter-blocking-tab-header =
+    { $count ->
+        [one] { -brand-product-name } blokerede { $count } fingerprinter
+       *[other] { -brand-product-name } blokerede { $count } fingerprinters
+    }
+trustpanel-fingerprinter-not-blocking-tab-header =
+    { $count ->
+        [one] { -brand-product-name } tillod { $count } fingerprinter
+       *[other] { -brand-product-name } tillod { $count } fingerprinters
+    }
 trustpanel-cryptominer-blocking-tab-header =
     { $count ->
         [one] { -brand-product-name } blokerede { $count } cryptominer

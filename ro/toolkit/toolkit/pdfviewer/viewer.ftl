@@ -304,9 +304,13 @@ pdfjs-web-fonts-disabled = Fonturile web sunt dezactivate: nu se pot folosi font
 
 pdfjs-editor-free-text-button =
     .title = Text
+pdfjs-editor-color-picker-free-text-input =
+    .title = Schimbă culoarea textului
 pdfjs-editor-free-text-button-label = Text
 pdfjs-editor-ink-button =
     .title = Desenează
+pdfjs-editor-color-picker-ink-input =
+    .title = Schimbă culoarea de desen
 pdfjs-editor-ink-button-label = Desenează
 pdfjs-editor-stamp-button =
     .title = Adaugă sau editează imagini
@@ -318,6 +322,10 @@ pdfjs-highlight-floating-button1 =
     .title = Evidențiază
     .aria-label = Evidențiere
 pdfjs-highlight-floating-button-label = Evidențiază
+pdfjs-comment-floating-button =
+    .title = Comentează
+    .aria-label = Comentariu
+pdfjs-comment-floating-button-label = Comentează
 pdfjs-editor-signature-button =
     .title = Adaugă semnătură
 pdfjs-editor-signature-button-label = Adaugă semnătură
@@ -603,6 +611,8 @@ pdfjs-editor-add-signature-save-checkbox = Salvează semnătura
 pdfjs-editor-add-signature-save-warning-message = Ai atins limita de 5 semnături salvate. Elimină una dacă vrei să salvezi alta.
 pdfjs-editor-add-signature-image-upload-error-title = Imaginea nu a putut fi încărcată
 pdfjs-editor-add-signature-image-upload-error-description = Verifică-ți conexiunea la rețea sau încearcă cu o altă imagine.
+pdfjs-editor-add-signature-image-no-data-error-title = Imaginea nu poate fi convertită în semnătură
+pdfjs-editor-add-signature-image-no-data-error-description = Încearcă să încarci altă imagine.
 pdfjs-editor-add-signature-error-close-button = Închide
 
 ## Dialog buttons
@@ -610,6 +620,26 @@ pdfjs-editor-add-signature-error-close-button = Închide
 pdfjs-editor-add-signature-cancel-button = Anulează
 pdfjs-editor-add-signature-add-button = Adaugă
 pdfjs-editor-edit-signature-update-button = Actualizează
+
+##  Edit a comment dialog
+
+pdfjs-editor-edit-comment-actions-button-label = Acțiuni
+pdfjs-editor-edit-comment-actions-button =
+    .title = Acțiuni
+pdfjs-editor-edit-comment-close-button-label = Închide
+pdfjs-editor-edit-comment-close-button =
+    .title = Închide
+pdfjs-editor-edit-comment-actions-edit-button-label = Editează
+pdfjs-editor-edit-comment-actions-delete-button-label = Șterge
+pdfjs-editor-edit-comment-manager-text-input =
+    .placeholder = Introdu comentariul
+pdfjs-editor-edit-comment-manager-cancel-button = Anulează
+pdfjs-editor-edit-comment-manager-save-button = Salvează
+
+## Edit a comment button in the editor toolbar
+
+pdfjs-editor-edit-comment-button =
+    .title = Editează comentariul
 
 ## Main menu for adding/removing signatures
 
