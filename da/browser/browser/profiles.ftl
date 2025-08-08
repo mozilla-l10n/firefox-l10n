@@ -134,11 +134,15 @@ heart-rate-avatar-alt =
     .alt = Hjerterytme
 leaf-avatar-alt =
     .alt = Blad
+lightbulb-avatar-alt =
+    .alt = Lyspære
 makeup-avatar-alt =
     .alt = Makeup
 # Message refers to a text message, not a traditional letter/envelope message
 message-avatar-alt =
     .alt = Meddelelse
+musical-note-avatar-alt =
+    .alt = Node (musik)
 palette-avatar-alt =
     .alt = Palet
 paw-print-avatar-alt =
@@ -156,8 +160,13 @@ sparkle-single-avatar-alt =
     .alt = Glitter
 star-avatar-alt =
     .alt = Stjerne
+video-game-controller-avatar-alt =
+    .alt = Videospils-controller
 custom-avatar-alt =
     .alt = Tilpas avatar
+# Default favicon refers to the generic globe/world icon that appears in browser tabs when a website doesn't have its own favicon.
+default-favicon-avatar-alt =
+    .alt = Standard-favicon
 # Diamond refers to the precious stone, not the geometric shape
 diamond-avatar-alt =
     .alt = Diamant
@@ -174,23 +183,38 @@ briefcase-avatar = Mappe
 canvas-avatar = Lærred
 # Craft refers to hobby arts and crafts, represented by a button/fastener commonly found on clothing like shirts
 craft-avatar = Håndværk
+custom-avatar = Tilpasset avatar
+# Default favicon refers to the generic globe/world icon that appears in browser tabs when a website doesn't have its own favicon.
+default-favicon-avatar = Standard-favicon
 # Diamond refers to the precious stone, not the geometric shape
 diamond-avatar = Diamant
 flower-avatar = Blomst
 folder-avatar = Mappe
 hammer-avatar = Hammer
 heart-avatar = Hjerte
+heart-rate-avatar = Hjerterytme
 leaf-avatar = Blad
+lightbulb-avatar = Lyspære
 makeup-avatar = Makeup
+# Message refers to a text message, not a traditional letter/envelope message
+message-avatar = Meddelelse
+musical-note-avatar = Node (musik)
 palette-avatar = Palet
+paw-print-avatar = Poteaftryk
 plane-avatar = Fly
 # Present refers to a gift box, not the current time period
 present-avatar = Gave
 shopping-avatar = Indkøbsvogn
 soccer-avatar = Fodbold
+sparkle-single-avatar = Glitter
 star-avatar = Stjerne
+video-game-controller-avatar = Videospils-controller
 custom-avatar-crop-back-button =
     .aria-label = Tilbage
+custom-avatar-crop-view =
+    .aria-label = Beskær visning af billede
+custom-avatar-crop-area =
+    .aria-label = Tilpas område for beskæring
 custom-avatar-drag-handle =
     .aria-label = Ændr størrelsen på beskæringsområdet
 barbell-avatar = Vægtstang
