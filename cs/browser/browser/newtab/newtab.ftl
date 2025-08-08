@@ -563,6 +563,11 @@ newtab-custom-wallpaper-cta = Vyzkoušejte ho
 
 ## Strings for new user activation custom wallpaper highlight
 
+newtab-new-user-custom-wallpaper-title =
+    { -brand-product-name.case-status ->
+        [with-cases] Vyberte si tapetu, kterou chcete, aby byl { -brand-product-name } podle vás
+       *[no-cases] Vyberte si tapetu, kterou chcete, aby byla aplikace { -brand-product-name } podle vás
+    }
 newtab-new-user-custom-wallpaper-subtitle = Zajistěte, aby se každý nový panel cítil jako doma pomocí vlastních tapet a barev.
 newtab-new-user-custom-wallpaper-cta = Vyzkoušejte nyní
 
