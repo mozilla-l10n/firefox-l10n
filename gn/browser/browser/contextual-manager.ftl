@@ -18,6 +18,7 @@ contextual-manager-passwords-command-import-from-browser = Egueru ambue kundahá
 contextual-manager-passwords-command-import = Marandurendágui jegueru…
 contextual-manager-passwords-command-export = Ñe’ẽñemi guerahauka
 contextual-manager-passwords-command-remove-all = Emboguepa opaite ñe’ẽñemi
+contextual-manager-passwords-command-options = Jeporavorã
 contextual-manager-passwords-command-settings = Ñemboheko
 contextual-manager-passwords-command-help = Pytyvõ
 contextual-manager-passwords-os-auth-dialog-caption = { -brand-full-name }
@@ -156,6 +157,8 @@ contextual-manager-passwords-password-already-exists-error-button = Eho ñe’�
 contextual-manager-passwords-update-password-success-heading =
     .heading = Ñe’ẽñemi ñongatupyre
 contextual-manager-passwords-update-password-success-button = Apopyre
+contextual-manager-passwords-update-username-success-heading-2 =
+    .heading = Poruhára réra juajupyre
 contextual-manager-passwords-update-username-success-heading =
     .heading = Poruhára réra ñongatupyre
 # Message to confirm successful removal of a password/passwords.
@@ -210,6 +213,8 @@ contextual-manager-passwords-title = Ñe’ẽñemi
 
 contextual-manager-passwords-create-label =
     .label = Embojuaju ñe’ẽñemi
+contextual-manager-passwords-update-label =
+    .label = Embopyahu ñe’ẽñemi
 contextual-manager-passwords-edit-label =
     .label = Embosako’i ñe’ẽñemi
 contextual-manager-passwords-remove-label =
@@ -324,3 +329,4 @@ contextual-manager-passwords-remove-all-passwords-checkbox =
         [one] Héẽ, emboguete ñe’ẽñeminguéra
        *[other] Héẽ, emboguete ñe’ẽñeminguéra
     }
+contextual-manager-primary-password-learn-more-link = Eikuaave

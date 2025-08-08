@@ -612,6 +612,9 @@ pdfjs-editor-edit-signature-update-button = Mbohekopyahu
 
 ##  Edit a comment dialog
 
+pdfjs-editor-edit-comment-actions-button-label = Ñemongu’e
+pdfjs-editor-edit-comment-actions-button =
+    .title = Ñemongu’e
 pdfjs-editor-edit-comment-close-button-label = Mboty
 pdfjs-editor-edit-comment-close-button =
     .title = Mboty
