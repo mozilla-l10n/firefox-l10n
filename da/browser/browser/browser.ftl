@@ -207,6 +207,9 @@ urlbar-result-menu-show-less-frequently =
     .label = Vis sjældnere
 urlbar-result-menu-dont-show-weather-suggestions =
     .label = Vis ikke vejr-forslag
+# Used for Split Button.
+urlbar-splitbutton-dropmarker =
+    .title = Åben menu
 # A message shown in the urlbar when the user submits feedback on a suggestion
 # (e.g., it shows an inaccurate location, it's shown too often, etc.).
 urlbar-feedback-acknowledgment = Tak for tilbagemeldingen
@@ -793,6 +796,15 @@ urlbar-result-weather-title-city-only = <strong>{ $temperature }°{ $unit }</str
 #       name of a company, organization, or service.
 urlbar-result-weather-provider-sponsored = { $provider } · Sponsoreret
 
+## These strings are used for Realtime suggestions in the urlbar.
+## Market refers to stocks, indexes, and funds.
+
+# This string is shown as button to activate online when realtime suggestion are disabled.
+urlbar-result-realtime-opt-in-allow = Vis forslag
+# This string is shown in split button to dismiss activation the Realtime suggestion.
+urlbar-result-realtime-opt-in-not-now = Ikke nu
+urlbar-result-realtime-opt-in-dismiss = Afvis
+
 ## Strings used for buttons in the urlbar
 
 # Label prompting user to search with a particular search engine.
@@ -826,6 +838,8 @@ urlbar-searchmode-default =
 urlbar-searchmode-popup-description = Søg denne gang med:
 urlbar-searchmode-popup-search-settings-menuitem =
     .label = Søgeindstillinger
+# Label shown next to a new search engine in the Searchmode Switcher popup to promote it.
+urlbar-searchmode-new = Ny
 # Searchmode Switcher button
 # Variables:
 #   $engine (String): the current default search engine.
