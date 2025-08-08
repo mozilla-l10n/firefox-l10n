@@ -176,6 +176,17 @@ permissions-site-localhost-window =
 permissions-site-localhost-desc = Diese Websites haben Zugriff auf Apps und Dienste auf diesem Gerät angefordert. Sie können dies zulassen oder blockieren.
 permissions-site-localhost-disable-label =
     .label = Neue Anfragen für den Zugriff auf Apps und Dienste auf diesem Gerät blockieren
+permissions-site-localhost-disable-desc = Dies hindert alle Websites, die nicht oben aufgeführt sind, daran, Zugriff auf Apps und Dienste auf diesem Gerät anzufordern. Dadurch können einige Funktionen der Website beeinträchtigt sein.
+
+## Site Permissions - Local network
+
+permissions-site-local-network-window =
+    .title = Einstellungen — Lokale Netzwerkgeräte
+    .style = { permissions-window2.style }
+permissions-site-local-network-desc = Diese Websites haben Zugriff auf Apps und Dienste auf Geräten angefragt, die mit Ihrem WLAN oder Ihrem lokalen Netzwerk verbunden sind. Sie können dies für Websites zulassen oder blockieren.
+permissions-site-local-network-disable-label =
+    .label = Neue Anfragen für den Zugriff auf Apps und Dienste auf Geräten, die mit Ihrem WLAN oder lokalen Netzwerk verbunden sind, blockieren.
+permissions-site-local-network-disable-desc = Dies hindert alle Websites, die nicht oben aufgeführt sind, daran, Zugriff auf Apps und Dienste auf Geräten anzufordern, die mit Ihrem WLAN oder lokal vernetzten Geräten verbunden sind. Dadurch können einige Funktionen der Website beeinträchtigt sein.
 
 ## Site Permissions - Microphone
 
