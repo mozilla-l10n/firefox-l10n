@@ -130,8 +130,16 @@ hammer-avatar-alt =
     .alt = Mbotaha
 heart-avatar-alt =
     .alt = Korasõ
+heart-rate-avatar-alt =
+    .alt = Korasõ tytýi
 history-avatar-alt =
     .alt = Tembiasakue
+leaf-avatar-alt =
+    .alt = Kuatia
+lightbulb-avatar-alt =
+    .alt = Myesakãha
+makeup-avatar-alt =
+    .alt = Moporãha
 # Message refers to a text message, not a traditional letter/envelope message
 message-avatar-alt =
     .alt = Ñe’ẽmondo

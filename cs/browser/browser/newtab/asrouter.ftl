@@ -516,5 +516,10 @@ windows-10-eos-sync-spotlight-primary-label =
 ## Windows 10 EoS Sync messages group 1 toast notification
 
 windows-10-eos-sync-toast-title = Chcete aktualizovat na Windows 11? Neztraťte své záložky a hesla.
+windows-10-eos-sync-toast-subtitle =
+    { -brand-short-name.case-status ->
+        [with-cases] Zálohujte svá data, aby byl { -brand-short-name } kdykoli připraven k použití na tomto nebo tom příštím počítači.
+       *[no-cases] Zálohujte svá data, aby byla aplikace { -brand-short-name } kdykoli připravena k použití na tomto nebo tom příštím počítači.
+    }
 windows-10-eos-sync-toast-primary-label = Začít
 windows-10-eos-sync-toast-secondary-label = Upozornit mě později
