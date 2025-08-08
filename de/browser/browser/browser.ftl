@@ -1377,3 +1377,118 @@ trustpanel-etp-description-enabled = Wenn etwas auf dieser Website beschädigt a
 trustpanel-etp-description-disabled = { -brand-product-name } ist der Meinung, dass Unternehmen Ihnen weniger folgen sollten. Wir blockieren so viele Elemente zur Aktivitätenverfolgung wie möglich, wenn Sie die Schutzmaßnahmen aktivieren.
 trustpanel-connection-label-secure = Verbindung sicher
 trustpanel-connection-label-insecure = Verbindung nicht sicher
+trustpanel-header-enabled = { -brand-product-name } ist wachsam
+trustpanel-description-enabled = Sie sind geschützt. Wenn wir etwas entdecken, sagen wir es Ihnen
+trustpanel-header-disabled = Sie haben die Schutzmaßnahmen deaktiviert
+trustpanel-description-disabled = { -brand-product-name } ist deaktiviert. Wir empfehlen Ihnen, den Schutz wieder zu aktivieren.
+trustpanel-clear-cookies-button = Cookies und Website-Daten löschen
+trustpanel-privacy-link = Datenschutzeinstellungen
+# Variables
+#  $host (String): the hostname of the site that is being displayed.
+trustpanel-clear-cookies-header =
+    .title = Cookies und Website-Daten für { $host } löschen
+trustpanel-clear-cookies-description = Durch das Löschen von Cookies und Website-Daten werden Sie eventuell von Websites abgemeldet und Warenkörbe gelöscht.
+trustpanel-clear-cookies-subview-button-clear = Löschen
+trustpanel-clear-cookies-subview-button-cancel = Abbrechen
+# Variables
+#  $host (String): the hostname of the site that is being displayed.
+trustpanel-site-information-header =
+    .title = Verbindungssicherheit für { $host }
+trustpanel-connection-secure = Sie sind derzeit über eine gesicherte Verbindung mit dieser Website verbunden.
+trustpanel-connection-not-secure = Sie sind derzeit nicht über eine gesicherte Verbindung mit dieser Website verbunden.
+trustpanel-siteinformation-morelink = Mehr Website-Informationen
+trustpanel-blocker-see-all = Alle anzeigen
+# Variables
+#  $host (String): the hostname of the site that is being displayed.
+trustpanel-blocker-header =
+    .title = Verfolgungsschutz für { $host }
+
+## Variables
+##  $count (String): the number of trackers blocked.
+
+trustpanel-blocker-section-header =
+    { $count ->
+        [one] <span>{ $count }</span>Tracker auf dieser Website blockiert
+       *[other] <span>{ $count }</span>Tracker auf dieser Website blockiert
+    }
+trustpanel-blocker-description = { -brand-product-name } ist der Meinung, dass Unternehmen Ihnen weniger folgen sollten. Daher blockieren wir so viele wie möglich.
+trustpanel-blocked-header = { -brand-product-name } hat dies für Sie blockiert:
+trustpanel-tracking-header = { -brand-product-name } erlaubt diese Dinge, damit Websites noch funktionieren:
+trustpanel-tracking-description = Ohne Tracker funktionieren einige Schaltflächen, Formulare und Anmeldefelder möglicherweise nicht.
+trustpanel-insecure-section-header = Ihre Verbindung ist nicht sicher
+trustpanel-insecure-description = Die Daten, die Sie an diese Website senden, sind nicht verschlüsselt. Sie könnten eingesehen, gestohlen oder verändert werden.
+trustpanel-list-label-tracking-cookies =
+    { $count ->
+        [one] { $count } Cookie zur seitenübergreifenden Aktivitätenverfolgung
+       *[other] { $count } Cookies zur seitenübergreifenden Aktivitätenverfolgung
+    }
+trustpanel-list-label-tracking-content = Inhalte zur Aktivitätenverfolgung
+trustpanel-list-label-fingerprinter =
+    { $count ->
+        [one] { $count } Identifizierer (Fingerprinter)
+       *[other] { $count } Identifizierer (Fingerprinter)
+    }
+trustpanel-list-label-social-tracking =
+    { $count ->
+        [one] { $count } Social-Media-Tracker (Skript zur Aktivitätenverfolgung durch soziale Netzwerke)
+       *[other] { $count } Social-Media-Tracker (Skripte zur Aktivitätenverfolgung durch soziale Netzwerke)
+    }
+trustpanel-list-label-cryptominer =
+    { $count ->
+        [one] { $count } Heimlicher Digitalwährungsberechner (Krypto-Miner)
+       *[other] { $count } Heimliche Digitalwährungsberechner (Krypto-Miner)
+    }
+trustpanel-social-tracking-blocking-tab-header =
+    { $count ->
+        [one] { -brand-product-name } hat { $count } Social-Media-Tracker blockiert
+       *[other] { -brand-product-name } hat { $count } Social-Media-Tracker blockiert
+    }
+trustpanel-social-tracking-not-blocking-tab-header =
+    { $count ->
+        [one] { -brand-product-name } hat { $count } Social-Media-Tracker erlaubt
+       *[other] { -brand-product-name } hat { $count } Social-Media-Tracker erlaubt
+    }
+trustpanel-social-tracking-tab-list-header = Diese Websites versuchen, Sie zu verfolgen:
+trustpanel-tracking-cookies-blocking-tab-header =
+    { $count ->
+        [one] { -brand-product-name } hat { $count } Cookie zur seitenübergreifenden Aktivitätenverfolgung blockiert
+       *[other] { -brand-product-name } hat { $count } Cookies zur seitenübergreifenden Aktivitätenverfolgung blockiert
+    }
+trustpanel-tracking-cookies-not-blocking-tab-header =
+    { $count ->
+        [one] { -brand-product-name } hat { $count } Cookie zur seitenübergreifenden Aktivitätenverfolgung erlaubt
+       *[other] { -brand-product-name } hat { $count } Cookies zur seitenübergreifenden Aktivitätenverfolgung erlaubt
+    }
+trustpanel-tracking-cookies-tab-list-header = Diese Websites versuchen, Sie zu verfolgen:
+trustpanel-tracking-content-blocking-tab-header =
+    { $count ->
+        [one] { -brand-product-name } hat { $count } Element zur Aktivitätenverfolgung blockiert
+       *[other] { -brand-product-name } hat { $count } Elemente zur Aktivitätenverfolgung blockiert
+    }
+trustpanel-tracking-content-not-blocking-tab-header =
+    { $count ->
+        [one] { -brand-product-name } hat { $count } Element zur Aktivitätenverfolgung erlaubt
+       *[other] { -brand-product-name } hat { $count } Elemente zur Aktivitätenverfolgung erlaubt
+    }
+trustpanel-tracking-content-tab-list-header = Diese Websites versuchen, Sie zu verfolgen:
+trustpanel-fingerprinter-blocking-tab-header =
+    { $count ->
+        [one] { -brand-product-name } hat { $count } Identifizierer (Fingerprinter) blockiert
+       *[other] { -brand-product-name } hat { $count } Identifizierer (Fingerprinter) blockiert
+    }
+trustpanel-fingerprinter-not-blocking-tab-header =
+    { $count ->
+        [one] { -brand-product-name } hat { $count } Identifizierer (Fingerprinter) erlaubt
+       *[other] { -brand-product-name } hat { $count } Identifizierer (Fingerprinter) erlaubt
+    }
+trustpanel-fingerprinter-list-header = Diese Websites versuchen, Fingerabdrücke von Ihnen zu erstellen:
+trustpanel-cryptominer-blocking-tab-header =
+    { $count ->
+        [one] { -brand-product-name } hat { $count } heimlichen Digitalwährungsberechner (Krypto-Miner) blockiert
+       *[other] { -brand-product-name } hat { $count } heimliche Digitalwährungsberechner (Krypto-Miner) blockiert
+    }
+trustpanel-cryptominer-not-blocking-tab-header =
+    { $count ->
+        [one] { -brand-product-name } hat { $count } heimlichen Digitalwährungsberechner (Krypto-Miner) erlaubt
+       *[other] { -brand-product-name } hat { $count } heimliche Digitalwährungsberechner (Krypto-Miner) erlaubt
+    }
