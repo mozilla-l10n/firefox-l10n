@@ -1360,3 +1360,20 @@ onboarding-checklist-button-label = Einrichtung abschließen
 onboarding-aw-finish-setup-button =
     .label = Einrichtung abschließen
     .tooltiptext = Einrichtung von { -brand-short-name } abschließen
+
+## The urlbar trust panel
+
+trustpanel-etp-label-enabled = Verbesserter Tracking-Schutz ist aktiviert
+trustpanel-etp-label-disabled = Verbesserter Tracking-Schutz ist deaktiviert
+# Variables
+#  $host (String): the hostname of the site that is being displayed.
+trustpanel-etp-toggle-on =
+    .aria-label = Verbesserter Tracking-Schutz: aktiviert für { $host }
+# Variables
+#  $host (String): the hostname of the site that is being displayed.
+trustpanel-etp-toggle-off =
+    .aria-label = Verbesserter Tracking-Schutz: deaktiviert für { $host }
+trustpanel-etp-description-enabled = Wenn etwas auf dieser Website beschädigt aussieht, versuchen Sie, die Schutzmaßnahmen zu deaktivieren.
+trustpanel-etp-description-disabled = { -brand-product-name } ist der Meinung, dass Unternehmen Ihnen weniger folgen sollten. Wir blockieren so viele Elemente zur Aktivitätenverfolgung wie möglich, wenn Sie die Schutzmaßnahmen aktivieren.
+trustpanel-connection-label-secure = Verbindung sicher
+trustpanel-connection-label-insecure = Verbindung nicht sicher
