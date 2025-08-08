@@ -95,6 +95,9 @@ genai-menu-no-provider =
     .label = Spørg en AI-chatbot
 genai-menu-choose-chatbot =
     .label = Vælg en AI-chatbot
+genai-menu-no-provider-2 =
+    .label = Spørg en AI-chatbot
+    .accesskey = h
 
 ## Chatbot header
 

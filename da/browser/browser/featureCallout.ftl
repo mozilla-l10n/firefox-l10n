@@ -117,6 +117,7 @@ fxa-adoption-passwords-primary-button-label = Tilmeld dig
 windows-10-eos-sync-urgency-title-1 = Mist ikke alt, hvad du har gemt, når du skifter til Windows 11.
 windows-10-eos-sync-new-device-subtitle-2 = Uanset hvor ofte du bruger { -brand-short-name }, beskytter synkronisering dine bogmærker, adgangskoder og indstillinger.
 windows-10-eos-sync-new-device-primary-label = Synkroniser nu
+windows-10-eos-sync-tour-subtitle-2 = Synkroniser dine bogmærker, adgangskoder og indstillinger for at sikkerhedskopiere dem, før du skifter.
 
 ## Sidebar Strings
 
