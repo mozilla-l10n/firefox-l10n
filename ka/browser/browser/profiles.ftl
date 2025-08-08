@@ -70,7 +70,7 @@ delete-profile-page-title = წაიშალოს { $profilename }
 # Variables
 #   $profilename (String) - The name of the profile.
 delete-profile-header = წაიშალოს { $profilename } პროფილი?
-delete-profile-description = { -brand-short-name } სამუდამოდ წაშლის მოწყობილობიდან მონაცემებს, როგორიცაა:
+delete-profile-description = { -brand-short-name } სამუდამოდ წაშლის მოწყობილობიდან მონაცემებს, მათ შორის:
 # Open is an adjective, as in "browser windows currently open".
 delete-profile-windows = გახსნილი ფანჯრები
 # Open is an adjective, as in "browser tabs currently open".
@@ -148,7 +148,7 @@ musical-note-avatar-alt =
 palette-avatar-alt =
     .alt = საღებავების დაფა
 paw-print-avatar-alt =
-    .alt = თათის ანაბეჭდი
+    .alt = თათის ნაკვალევი
 plane-avatar-alt =
     .alt = თვითმფრინავი
 # Present refers to a gift box, not the current time period
