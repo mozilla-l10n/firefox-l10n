@@ -342,3 +342,8 @@ multi-cta-fox-doodle-privacy-focused-subtitle =
        *[other] Hav din foretrukne privatlivsfokuserede browser inden for rækkevidde. Angiv { -brand-short-name } som din standard-browser for at åbne links i den og beholde den i din proceslinje.
     }
 multi-cta-fox-doodle-msix-privacy-focused-subtitle = Hav din foretrukne privatlivsfokuserede browser inden for rækkevidde. Angiv { -brand-short-name } som din standard-browser for at åbne links i den og beholde den i din proceslinje og startmenu.
+
+## Windows 10 EoS Sync messages group 1 toast notification
+
+windows-10-eos-sync-toast-primary-label = Kom i gang
+windows-10-eos-sync-toast-secondary-label = Påmind mig senere
