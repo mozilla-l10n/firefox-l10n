@@ -68,6 +68,7 @@ cfr-doorhanger-bookmark-fxa-link-text = Embojuehehína techaukaha...
 cfr-doorhanger-bookmark-fxa-close-btn-tooltip =
     .aria-label = Emboty votõ
     .title = Emboty
+fxa-adoption-primary-button-label = Eñemboheraguapy
 
 ## Protections panel
 

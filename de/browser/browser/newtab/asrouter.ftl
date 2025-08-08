@@ -68,6 +68,11 @@ cfr-doorhanger-bookmark-fxa-link-text = Lesezeichen jetzt synchronisieren…
 cfr-doorhanger-bookmark-fxa-close-btn-tooltip =
     .aria-label = Schließen-Schaltfläche
     .title = Schließen
+fxa-adoption-addresses-backup-title = Sichern wir Ihre gespeicherten Adressen
+fxa-adoption-addresses-backup-subtitle = Schützen Sie Ihre gespeicherten Adressen, indem Sie diese verschlüsselt mit Ihren Geräten synchronisieren.
+fxa-adoption-credit-cards-backup-title = Sichern wir Ihre Zahlungsmethoden
+fxa-adoption-credit-cards-backup-subtitle = Schützen Sie Ihre Zahlungsmethoden, indem Sie diese verschlüsselt mit Ihren Geräten synchronisieren.
+fxa-adoption-primary-button-label = Registrieren
 
 ## Protections panel
 
@@ -343,3 +348,16 @@ multi-cta-fox-doodle-privacy-focused-subtitle =
        *[other] Halte deinen Lieblings-Browser mit Fokus auf Privatsphäre stets griffbereit. Lege { -brand-short-name } als Standardbrowser zum Öffnen von Links fest und hefte ihn an deine Taskleiste.
     }
 multi-cta-fox-doodle-msix-privacy-focused-subtitle = Halte deinen Lieblings-Browser mit Fokus auf Privatsphäre stets griffbereit. Lege { -brand-short-name } als Standardbrowser zum Öffnen von Links fest und hefte ihn an deine Taskleiste und dein Startmenü.
+
+## Windows 10 EoS Sync messages group 1 spotlight
+
+windows-10-eos-sync-spotlight-title = Führen Sie bald ein Upgrade von Windows 10 durch?
+windows-10-eos-sync-spotlight-subtitle = Sichern Sie Ihre Passwörter und Lesezeichen, damit Sie auf jedes Gerät wechseln können.
+windows-10-eos-sync-spotlight-primary-label = Erstellen Sie ein Backup von Ihrem { -brand-short-name }
+
+## Windows 10 EoS Sync messages group 1 toast notification
+
+windows-10-eos-sync-toast-title = Upgrade auf Windows 11? Verlieren Sie keine Lesezeichen und Passwörter.
+windows-10-eos-sync-toast-subtitle = Sicheren Sie Ihre Daten, damit { -brand-short-name } jederzeit einsatzbereit ist – auf diesem PC und auf dem nächsten.
+windows-10-eos-sync-toast-primary-label = Erste Schritte
+windows-10-eos-sync-toast-secondary-label = Später erinnern

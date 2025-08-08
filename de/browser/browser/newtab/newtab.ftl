@@ -88,6 +88,14 @@ newtab-confirm-delete-history-p2 = Diese Aktion kann nicht rückgängig gemacht 
 
 newtab-topsite-sponsored = Gesponsert
 
+## Label used by screen readers for pinned top sites
+
+# Variables:
+#   $title (string) - The label or hostname of the site.
+topsite-label-pinned =
+    .aria-label = { $title } (angeheftet)
+    .title = { $title }
+
 ## Context Menu - Action Tooltips.
 
 # General tooltip for context menus.

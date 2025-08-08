@@ -112,6 +112,26 @@ fxa-adoption-passwords-subtitle = Schützen Sie Ihre Passwörter, indem Sie dies
 # Opens Mozilla accounts sign-up page
 fxa-adoption-passwords-primary-button-label = Registrieren
 
+## Windows 10 EoS Sync messages group 1 callouts
+
+windows-10-eos-sync-urgency-title-1 = Verlieren Sie beim Umstieg zu Windows 11 nicht alles, was Sie gespeichert haben.
+windows-10-eos-sync-urgency-subtitle-1 = Synchronisieren Sie jetzt, um Ihre Lesezeichen, Passwörter und Einstellungen von { -brand-short-name } zu sichern und einfach wiederherzustellen.
+windows-10-eos-sync-urgency-title-2 = Verabschieden Sie sich von Windows 10? Schützen Sie Ihre Daten beim Wechsel.
+windows-10-eos-sync-urgency-subtitle-2 = Auch wenn Sie { -brand-short-name } nicht täglich verwenden, synchronisieren Sie, um Lesezeichen und Passwörter sicher und zugänglich zu speichern.
+windows-10-eos-sync-new-device-title-1 = Gehen Sie nicht das Risiko ein, auf Ihrem nächsten Gerät von vorn beginnen zu müssen.
+windows-10-eos-sync-new-device-subtitle-1 = Synchronisieren Sie, um die Lesezeichen, Passwörter und bevorzugten Einstellungen von { -brand-short-name } beim Wechsel mitzunehmen.
+windows-10-eos-sync-new-device-title-2 = Umzug auf ein neues Gerät? Verlieren Sie nicht, was wichtig ist.
+windows-10-eos-sync-new-device-subtitle-2 = Egal, wie oft Sie { -brand-short-name } verwenden, die Synchronisierung schützt Ihre Lesezeichen, Passwörter und Einstellungen.
+windows-10-eos-sync-new-device-primary-label = Jetzt synchronisieren
+windows-10-eos-sync-general-title-1 = Schützen Sie den { -brand-short-name }, den Sie sich zu eigen gemacht haben.
+windows-10-eos-sync-general-subtitle-1 = Sichern und synchronisieren Sie Ihre Passwörter, Lesezeichen, Einstellungen und andere Daten, um zu erhalten, was Ihnen wichtig ist.
+windows-10-eos-sync-general-title-2 = Jetzt ist ein guter Zeitpunkt, um Ihre Passwörter und Lesezeichen zu sichern.
+windows-10-eos-sync-general-subtitle-2 = Synchronisieren Sie jetzt, um die Daten zu schützen, die Sie { -brand-short-name } anvertrauen — und sie überall und jederzeit wiederherzustellen.
+windows-10-eos-sync-tour-title-1 = Zu viele Tabs? Mit Tab-Gruppen können Sie aufräumen.
+windows-10-eos-sync-tour-subtitle-1 = Ziehen Sie einen Tab über den anderen, um eine Gruppe zu erstellen und Ordnung zu halten.
+windows-10-eos-sync-tour-title-2 = Bleiben Sie organisiert für Windows 11.
+windows-10-eos-sync-tour-subtitle-2 = Synchronisieren Sie Lesezeichen, Passwörter und Einstellungen, um sie vor dem Wechseln zu sichern.
+
 ## Sidebar Strings
 
 sidebar-button-callout-title = Tab-Titel in der Sidebar anzeigen

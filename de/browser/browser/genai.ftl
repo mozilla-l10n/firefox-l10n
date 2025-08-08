@@ -95,6 +95,16 @@ genai-menu-no-provider =
     .label = Fragen Sie einen KI-Chatbot
 genai-menu-choose-chatbot =
     .label = Wählen Sie einen KI-Chatbot
+genai-menu-ask-generic-2 =
+    .label = KI-Chatbot fragen
+    .accesskey = K
+# $provider (string) - name of the provider
+genai-menu-ask-provider-2 =
+    .label = { $provider } fragen
+    .accesskey = f
+genai-menu-no-provider-2 =
+    .label = Einen KI-Chatbot fragen
+    .accesskey = K
 
 ## Chatbot header
 

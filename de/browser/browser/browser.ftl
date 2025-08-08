@@ -1492,3 +1492,4 @@ trustpanel-cryptominer-not-blocking-tab-header =
         [one] { -brand-product-name } hat { $count } heimlichen Digitalwährungsberechner (Krypto-Miner) erlaubt
        *[other] { -brand-product-name } hat { $count } heimliche Digitalwährungsberechner (Krypto-Miner) erlaubt
     }
+trustpanel-cryptominer-tab-list-header = Diese Websites versuchen Krypto-Mining zu betreiben:
