@@ -448,8 +448,12 @@ onboarding-checklist-sign-up = შექმენით ან შედით �
 
 tab-groups-onboarding-feature-callout-title = მოსინჯეთ ჩანართების დაჯგუფება არეულობის ასარიდებლად და ყურადღების მოსაკრებად
 tab-groups-onboarding-feature-callout-subtitle = დაალაგეთ ჩანართები ერთიმეორის ზემოთ მოქცევით, რომ შეიქმნას პირველი ჯგუფი.
+# The text "list all tabs" refers to the string tabs-toolbar-list-all-tabs
+tab-groups-onboarding-create-group-title-3 = ნებისმიერ დროს მონახეთ თქვენი ჩანართის ჯგუფები ყველა ჩანართის მენიუში.
 tab-groups-onboarding-create-group-title-2 = აქ მოიძიეთ ნებისმიერ დროს თქვენი ჩანართების ჯგუფები.
 tab-groups-onboarding-create-group-no-alltabs-button-title = მონახეთ თქვენი ჯგუფები მისამართების ველში მოძიებით.
+# The text "list all tabs" refers to the string tabs-toolbar-list-all-tabs
+tab-groups-onboarding-saved-groups-title-3 = ჩანართის ჯგუფის დახურვის შემდგომ, ნებისმიერ დროს შეგეძლებათ მისი დაბრუნება ყველა ჩანართის მენიუდან.
 tab-groups-onboarding-saved-groups-title-2 = ჩანართის ჯგუფი დახურვის შემთხვევაში, აქედან შეგეძლებათ კვლავ გახსნათ ნებისმიერ დროს.
 tab-groups-onboarding-saved-groups-no-alltabs-button-title-2 = მონახეთ დახურული ჯგუფები მისამართების ველში მოძიებით.
 tab-groups-onboarding-session-restore-title = კვლავ გახსენით აქედან თქვენი ჩანართების ჯგუფები ნებისმიერ დროს.
