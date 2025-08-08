@@ -202,7 +202,7 @@ sidebar-genai-survey-satisfaction-question = Cât de mulțumit(ă) ești de acce
 sidebar-genai-survey-productive-question =
     În ce măsură ești de acord sau nu cu această afirmație:<br/>
     „Chatbotul IA din bara laterală mă ajută să fiu mai productiv(ă)”?
-unified-search-callout-title = Comută între motoarele de căutare
+unified-search-callout-title = Treci de la un  motor de căutare la altul
 unified-search-callout-subtitle = Alege ce funcționează cel mai bine pentru căutarea ta specifică.
 unified-search-callout-primary-label = Înainte
 unified-search-callout-secondary-label = Respinge

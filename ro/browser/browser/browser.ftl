@@ -682,7 +682,7 @@ urlbar-remote-control-notification-anchor2 =
 urlbar-permissions-granted =
     .tooltiptext = Ai acordat permisiuni suplimentare acestui site web.
 urlbar-switch-to-tab =
-    .value = Comută pe filă:
+    .value = Treci pe fila:
 # Used to indicate that a selected autocomplete entry is provided by an extension.
 urlbar-extension =
     .value = Extensie:
@@ -710,7 +710,7 @@ urlbar-result-action-search-in-private = Caută într-o fereastră privată
 #  $engine (String): the name of a search engine
 urlbar-result-action-search-w-engine = Caută pe { $engine }
 urlbar-result-action-sponsored = Sponsorizat
-urlbar-result-action-switch-tab = Comută la filă
+urlbar-result-action-switch-tab = Treci la filă
 urlbar-result-action-visit = Vizitează
 # "Switch to tab with container" is used when the target tab is located in a
 # different container.
@@ -863,7 +863,7 @@ urlbar-result-action-search-tabs = Caută file
 urlbar-result-action-search-actions = Acțiuni de căutare
 # Label for a quickaction result used to switch to an open tab group.
 #  $group (String): the name of the tab group to switch to
-urlbar-result-action-switch-to-tabgroup = Comută pe { $group }
+urlbar-result-action-switch-to-tabgroup = Treci pe { $group }
 # Label for a quickaction result used to re-opan a saved tab group.
 #  $group (String): the name of the tab group to re-open
 urlbar-result-action-open-saved-tabgroup = Deschide { $group }

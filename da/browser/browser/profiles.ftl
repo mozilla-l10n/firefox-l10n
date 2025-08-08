@@ -45,6 +45,8 @@ avatar-selector-save-button =
     .label = Gem
 avatar-selector-upload-file = Upload en fil
 avatar-selector-drag-file = Eller træk en fil herhen.
+avatar-selector-add-image = Tilføj et billede
+avatar-selector-crop = Beskær
 edit-profile-page-no-name = Giv denne profil et navn for at hjælpe dig med at finde den senere. Omdøb den når som helst.
 edit-profile-page-duplicate-name = Profilnavnet er allerede i brug. Prøv et nyt navn.
 edit-profile-page-profile-saved = Gemt
@@ -114,21 +116,51 @@ book-avatar-alt =
     .alt = Bog
 briefcase-avatar-alt =
     .alt = Mappe
+# Canvas refers to an artist's painting canvas, not the general material
+canvas-avatar-alt =
+    .alt = Lærred
 flower-avatar-alt =
     .alt = Blomst
 heart-avatar-alt =
     .alt = Hjerte
+# Message refers to a text message, not a traditional letter/envelope message
+message-avatar-alt =
+    .alt = Meddelelse
+palette-avatar-alt =
+    .alt = Palet
+paw-print-avatar-alt =
+    .alt = Poteaftryk
+plane-avatar-alt =
+    .alt = Fly
+# Present refers to a gift box, not the current time period
+present-avatar-alt =
+    .alt = Gave
 shopping-avatar-alt =
     .alt = Indkøbsvogn
+soccer-avatar-alt =
+    .alt = Fodbold
+sparkle-single-avatar-alt =
+    .alt = Glitter
 star-avatar-alt =
     .alt = Stjerne
 custom-avatar-alt =
     .alt = Tilpas avatar
+# Diamond refers to the precious stone, not the geometric shape
+diamond-avatar-alt =
+    .alt = Diamant
+barbell-avatar-alt =
+    .alt = Vægtstang
+bike-avatar-alt =
+    .alt = Cykel
 
 ## Labels for default avatar icons
 
 book-avatar = Bog
 briefcase-avatar = Mappe
+# Canvas refers to an artist's painting canvas, not the general material
+canvas-avatar = Lærred
+# Craft refers to hobby arts and crafts, represented by a button/fastener commonly found on clothing like shirts
+craft-avatar = Håndværk
 flower-avatar = Blomst
 heart-avatar = Hjerte
 shopping-avatar = Indkøbsvogn

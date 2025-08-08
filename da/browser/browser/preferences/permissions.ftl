@@ -173,6 +173,14 @@ permissions-site-camera-disable-desc = Dette vil forhindre websteder, der ikke e
 permissions-site-localhost-window =
     .title = Indstillinger - Enhedsapps og -tjenester
     .style = { permissions-window2.style }
+permissions-site-localhost-disable-label =
+    .label = Bloker nye anmodninger om adgang til apps og tjenester på denne enhed
+
+## Site Permissions - Local network
+
+permissions-site-local-network-window =
+    .title = Indstillinger - Lokale netværksenheder
+    .style = { permissions-window2.style }
 
 ## Site Permissions - Microphone
 

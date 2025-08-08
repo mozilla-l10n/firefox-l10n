@@ -142,7 +142,7 @@ genai-onboarding-choose-header = Alege un chatbot IA de utilizat în bara latera
 # "Switch anytime" refers to allowing the user to switch to a different chatbot.
 genai-onboarding-description = Alege un chatbot IA de folosit în bara laterală { -brand-short-name }. Vom afișa detalii despre fiecare chatbot când îl alegi. Îl poți schimba oricând. <a data-l10n-name="learn-more">Află mai multe</a>
 # "Switch anytime" refers to allowing the user to switch to a different chatbot.
-genai-onboarding-choose-description = Comută oricând. Pentru ajutor în alegere, <a data-l10n-name="learn-more">află mai multe despre fiecare chatbot</a>.
+genai-onboarding-choose-description = Îl schimbi oricând. Pentru ajutor în alegere, <a data-l10n-name="learn-more">află mai multe despre fiecare chatbot</a>.
 genai-onboarding-primary = Continuă
 genai-onboarding-secondary = Închide
 genai-onboarding-claude-tooltip =
@@ -195,7 +195,7 @@ genai-onboarding-gemini-generate = Generează text, imagini și cod
 genai-onboarding-gemini-analyze = Analizează imagini (gratuit) și documente (contra cost)
 genai-onboarding-gemini-price = Opțiuni gratuite și contra cost; necesită cont
 genai-onboarding-huggingchat-generate = Generează text și cod
-genai-onboarding-huggingchat-switch = Comută între diverse seturi de modele deschise
+genai-onboarding-huggingchat-switch = Treci de la un set la altul de modele deschise
 genai-onboarding-huggingchat-price-2 = Gratuit; necesită cont după un anumit număr de interogări
 genai-onboarding-lechat-generate = Generează text și cod
 genai-onboarding-lechat-price = Gratuit; necesită cont

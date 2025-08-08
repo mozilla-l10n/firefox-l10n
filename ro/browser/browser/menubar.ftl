@@ -345,7 +345,7 @@ menu-help-exit-troubleshoot-mode =
     .label = Oprește modul de depanare
     .accesskey = M
 menu-help-switch-device =
-    .label = Comutarea pe un dispozitiv nou
+    .label = Trecere la un dispozitiv nou
     .accesskey = N
 # Label of the Help menu item. Either this or
 # menu-help-notdeceptive is shown.
