@@ -808,6 +808,29 @@ urlbar-result-weather-title-city-only = <strong>{ $temperature }°{ $unit }</str
 #       name of a company, organization, or service.
 urlbar-result-weather-provider-sponsored = { $provider } · Sponsorizat
 
+## These strings are used for Realtime suggestions in the urlbar.
+## Market refers to stocks, indexes, and funds.
+
+# This string is shown as title when Market suggestion are disabled.
+urlbar-result-market-opt-in-title = Obține date de pe bursă direct din bara de căutare
+# This string is shown as description when Market suggestion are disabled.
+urlbar-result-market-opt-in-description = Afișează actualizări de piață și multe altele de la partenerii noștri când partajezi date despre interogările de căutare cu { -vendor-short-name }. <a data-l10n-name="learn-more-link">Află mai multe</a>
+# This string is shown as button to activate online when realtime suggestion are disabled.
+urlbar-result-realtime-opt-in-allow = Arată sugestii
+# This string is shown in split button to dismiss activation the Realtime suggestion.
+urlbar-result-realtime-opt-in-not-now = Nu acum
+urlbar-result-realtime-opt-in-dismiss = Respinge
+urlbar-result-realtime-opt-in-dismiss-all =
+    .label = Nu mai arăta aceste sugestii
+# This string is shown in the result menu.
+urlbar-result-menu-dont-show-market =
+    .label = Nu mai arăta sugestii de pe piețe
+# A message that replaces a result when the user dismisses Market suggestions.
+urlbar-result-dismissal-acknowledgment-market = Îți mulțumim pentru feedback. Nu vei mai vedea sugestii de pe piețe.
+# A message that replaces a result when the user dismisses all suggestions of a
+# particular type.
+urlbar-result-dismissal-acknowledgment-all = Îți mulțumim pentru feedback. Nu vei mai vedea aceste sugestii.
+
 ## Strings used for buttons in the urlbar
 
 # Label prompting user to search with a particular search engine.

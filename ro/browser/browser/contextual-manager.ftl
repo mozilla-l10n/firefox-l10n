@@ -18,6 +18,7 @@ contextual-manager-passwords-command-import-from-browser = Importă dintr-un alt
 contextual-manager-passwords-command-import = Importă dintr-un fișier…
 contextual-manager-passwords-command-export = Exportă parolele
 contextual-manager-passwords-command-remove-all = Elimină toate parolele
+contextual-manager-passwords-command-options = Opțiuni
 contextual-manager-passwords-command-settings = Setări
 contextual-manager-passwords-command-help = Ajutor
 contextual-manager-passwords-os-auth-dialog-caption = { -brand-full-name }
@@ -161,6 +162,8 @@ contextual-manager-passwords-password-already-exists-error-button = Mergi la par
 contextual-manager-passwords-update-password-success-heading =
     .heading = Parolă salvată
 contextual-manager-passwords-update-password-success-button = Terminat
+contextual-manager-passwords-update-username-success-heading-2 =
+    .heading = Numele de utilizator a fost adăugat
 contextual-manager-passwords-update-username-success-heading =
     .heading = Nume de utilizator salvat
 # Message to confirm successful removal of a password/passwords.
@@ -216,12 +219,15 @@ contextual-manager-passwords-title = Parole
 
 contextual-manager-passwords-create-label =
     .label = Adaugă parola
+contextual-manager-passwords-update-label =
+    .label = Actualizează parola
 contextual-manager-passwords-edit-label =
     .label = Editează parola
 contextual-manager-passwords-remove-label =
     .title = Elimină parola
 contextual-manager-passwords-origin-tooltip = Introdu adresa exactă de la unde te vei autentifica pe acest site.
 contextual-manager-passwords-username-tooltip = Introdu numele de utilizator, adresa de e-mail sau numărul de cont pe care îl/o utilizezi pentru autentificare.
+contextual-manager-passwords-password-tooltip-2 = Introdu parola ca să intri în cont.
 contextual-manager-passwords-password-tooltip = Introdu parola utilizată pentru autentificarea în acest cont.
 
 ## Password Card
@@ -298,6 +304,7 @@ contextual-manager-hide-password-button =
 # The message displayed when the search text does not match any of the user's saved logins.
 contextual-manager-passwords-no-passwords-found-header =
     .heading = Nu s-au găsit parole
+contextual-manager-passwords-no-passwords-found-message-2 = Încearcă alt termen de căutare și caută din nou.
 contextual-manager-passwords-no-passwords-found-message = Nu s-au găsit parole. Caută un alt termen și încearcă din nou.
 
 ## When the user has no saved passwords, we display the following messages to inform the user they can save
@@ -312,6 +319,8 @@ contextual-manager-passwords-no-passwords-message = Toate parolele sunt criptate
 contextual-manager-passwords-no-passwords-get-started-message = Adaugă-le aici pentru a începe.
 # This string is displayed in a button. If the user clicks it, they will be taken to a form to create a new password.
 contextual-manager-passwords-add-manually = Adaugă manual
+# This string encourages the user to save their passwords in Firefox (the "safe spot").
+contextual-manager-passwords-no-passwords-header-2 = Salvează-ți parolele într-un loc sigur
 
 ## When the user cancels a login that's currently being edited, we display a message to confirm whether
 ## or not the user wants to discard their current edits to the login.
@@ -327,3 +336,8 @@ contextual-manager-passwords-remove-all-passwords-checkbox =
         [1] Da, elimină parola
        *[other] Yes, remove passwords
     }
+# This string informs the user they need to provide their primary password for FireFox to access their saved passwords in Firefox.
+contextual-manager-primary-password-reauth-header = Ca să îți vezi parolele salvate, introdu parola primară.
+# This string informs the user their primary password is used to authenticate and access their passwords
+contextual-manager-primary-password-reauth-button = Introdu parola primară
+contextual-manager-primary-password-learn-more-link = Află mai multe

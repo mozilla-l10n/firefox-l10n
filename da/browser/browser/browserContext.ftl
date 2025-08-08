@@ -295,7 +295,7 @@ main-context-menu-save-to-pocket =
     .accesskey = o
 main-context-menu-send-to-device =
     .label = Send side til enhed
-    .accesskey = h
+    .accesskey = d
 
 ##
 

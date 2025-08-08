@@ -161,7 +161,24 @@ briefcase-avatar = Mappe
 canvas-avatar = Lærred
 # Craft refers to hobby arts and crafts, represented by a button/fastener commonly found on clothing like shirts
 craft-avatar = Håndværk
+# Diamond refers to the precious stone, not the geometric shape
+diamond-avatar = Diamant
 flower-avatar = Blomst
+folder-avatar = Mappe
+hammer-avatar = Hammer
 heart-avatar = Hjerte
+leaf-avatar = Blad
+makeup-avatar = Makeup
+palette-avatar = Palet
+plane-avatar = Fly
+# Present refers to a gift box, not the current time period
+present-avatar = Gave
 shopping-avatar = Indkøbsvogn
+soccer-avatar = Fodbold
 star-avatar = Stjerne
+custom-avatar-crop-back-button =
+    .aria-label = Tilbage
+custom-avatar-drag-handle =
+    .aria-label = Ændr størrelsen på beskæringsområdet
+barbell-avatar = Vægtstang
+bike-avatar = Cykel

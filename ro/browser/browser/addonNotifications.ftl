@@ -132,11 +132,13 @@ addon-install-error-corrupt-file = Suplimentul descărcat de pe acest site nu a 
 addon-install-error-file-access = { $addonName } nu a putut fi instalat deoarece { -brand-short-name } nu poate modifica fișierul necesar.
 addon-install-error-not-signed = { -brand-short-name } a împiedicat acest site să instaleze un supliment neverificat.
 addon-install-error-invalid-domain = Suplimentul { $addonName } nu poate fi instalat din această locație.
+addon-install-error-no-addon-name-file-access = Suplimentul nu a putut fi instalat deoarece { -brand-short-name } nu poate modifica fișierul necesar.
 addon-local-install-error-network-failure = Acest supliment nu a putut fi instalat din cauza unei erori la sistemul de fișiere.
 addon-local-install-error-incorrect-hash = Acest supliment nu a putut fi instalat deoarece nu se potrivește cu suplimentul { -brand-short-name } așteptat.
 addon-local-install-error-corrupt-file = Acest supliment nu a putut fi instalat deoarece pare să fie corupt.
 addon-local-install-error-file-access = { $addonName } nu a putut fi instalat deoarece { -brand-short-name } nu poate modifica fișierul necesar.
 addon-local-install-error-not-signed = Acest supliment nu a putut fi instalat deoarece nu a fost verificat.
+addon-local-install-no-addon-name-error-file-access = Suplimentul nu a putut fi instalat deoarece { -brand-short-name } nu poate modifica fișierul necesar.
 # Variables:
 #   $appVersion (String): the application version.
 addon-install-error-incompatible = { $addonName } nu a putut fi instalat deoarece nu este compatibil cu { -brand-short-name } { $appVersion }.
