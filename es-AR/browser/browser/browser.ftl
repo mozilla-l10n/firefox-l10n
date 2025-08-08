@@ -237,7 +237,7 @@ urlbar-tabtosearch-onboard = Seleccione este atajo de tecaldo para encontrar má
 ## Local search mode indicator labels in the urlbar
 
 urlbar-search-mode-bookmarks = Marcadores
-urlbar-search-mode-tabs = Pestañas
+urlbar-search-mode-tabs = Pestañasidentity-clear-site-data =
 urlbar-search-mode-history = Historial
 urlbar-search-mode-actions = Acciones
 
@@ -509,8 +509,6 @@ identity-permissions-storage-access-header = Cookies de sitios cruzados
 identity-permissions-storage-access-hint = Estas partes pueden usar cookies y datos de sitios cruzados mientras estás en este sitio.
 identity-permissions-storage-access-learn-more = Conocer más
 identity-permissions-reload-hint = Hay que recargar la página para que se apliquen los cambios.
-identity-clear-site-data =
-    .label = Eliminar las cookies y los datos del sitio…
 identity-connection-not-secure-security-view = Su conexión a este sitio no es segura.
 identity-connection-verified = Está conectado de forma segura a este sitio.
 identity-ev-owner-label = Certificado emitido a:
@@ -807,6 +805,10 @@ urlbar-result-weather-provider-sponsored = { $provider } · Patrocinado
 ## These strings are used for Realtime suggestions in the urlbar.
 ## Market refers to stocks, indexes, and funds.
 
+# This string is shown as title when Market suggestion are disabled.
+urlbar-result-market-opt-in-title = Obtenga datos del mercado de valores directamente en la barra de búsqueda
+# This string is shown as description when Market suggestion are disabled.
+urlbar-result-market-opt-in-description = Comparta los datos de la búsqueda con { -vendor-short-name } y obtenga información actualizada sobre el mercado y más datos de nuestros socios. <a data-l10n-name="learn-more-link">Conocer más.</a>
 # This string is shown as button to activate online when realtime suggestion are disabled.
 urlbar-result-realtime-opt-in-allow = Mostrar sugerencias
 # This string is shown in split button to dismiss activation the Realtime suggestion.
