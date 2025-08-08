@@ -636,6 +636,11 @@ pdfjs-editor-edit-comment-manager-text-input =
 pdfjs-editor-edit-comment-manager-cancel-button = Скасаваць
 pdfjs-editor-edit-comment-manager-save-button = Захаваць
 
+## Edit a comment button in the editor toolbar
+
+pdfjs-editor-edit-comment-button =
+    .title = Змяніць каментарый
+
 ## Main menu for adding/removing signatures
 
 pdfjs-editor-delete-signature-button1 =

@@ -173,12 +173,17 @@ permissions-site-camera-disable-desc = Гэта не дазволіць вэб-�
 permissions-site-localhost-window =
     .title = Налады - Праграмы і службы прылады
     .style = { permissions-window2.style }
+permissions-site-localhost-desc = Гэтыя сайты запыталі доступ да праграм і службаў на гэтай прыладзе. Вы можаце дазволіць або забараніць сайтам рабіць гэта.
+permissions-site-localhost-disable-label =
+    .label = Блакаваць новыя запыты на доступ да праграм і службаў на гэтай прыладзе
 
 ## Site Permissions - Local network
 
 permissions-site-local-network-window =
     .title = Налады - Прылады лакальнай сеткі
     .style = { permissions-window2.style }
+permissions-site-local-network-disable-label =
+    .label = Блакаваць новыя запыты на доступ да праграм і службаў на прыладах, падлучаных да вашай лакальнай сеткі або Wi-Fi.
 
 ## Site Permissions - Microphone
 
