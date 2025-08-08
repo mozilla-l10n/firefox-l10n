@@ -119,10 +119,21 @@ briefcase-avatar-alt =
 # Canvas refers to an artist's painting canvas, not the general material
 canvas-avatar-alt =
     .alt = Lærred
+# Craft refers to hobby arts and crafts, represented by a button/fastener commonly found on clothing like shirts
+craft-avatar-alt =
+    .alt = Håndværk
 flower-avatar-alt =
     .alt = Blomst
+folder-avatar-alt =
+    .alt = Mappe
+hammer-avatar-alt =
+    .alt = Hammer
 heart-avatar-alt =
     .alt = Hjerte
+leaf-avatar-alt =
+    .alt = Blad
+makeup-avatar-alt =
+    .alt = Makeup
 # Message refers to a text message, not a traditional letter/envelope message
 message-avatar-alt =
     .alt = Meddelelse
