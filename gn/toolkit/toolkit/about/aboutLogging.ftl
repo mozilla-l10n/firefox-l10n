@@ -29,6 +29,7 @@ about-logging-no-log-modules = Avave
 about-logging-no-log-file = Avave
 about-logging-logging-preset-selector-text = Mboheraguapy ypygua:
 about-logging-with-profiler-stacks-checkbox = Emyandy píla resa’ỹijoha ñe’ẽmondo jehaipyrãme g̃uarã
+about-logging-with-javascript-tracing-checkbox = Emyandy JavaScript rapykuehoha
 about-logging-menu =
     .title = Jeporavorã opapotáva
 
@@ -52,6 +53,7 @@ about-logging-preset-webcodecs-label = WebCodecs
 about-logging-preset-webcodecs-description = Mboheraguapy ayvu eikuaa hag̃ua apañuái WebCodecs ndive ha mba’epu/ta’ãngamýi ha ta’ãnga mbopapapy’oha
 about-logging-preset-ml-label = Kuaarã Ijeheguíva
 about-logging-preset-ml-description = Mboheraguapy ra’ãha ehecha hag̃ua kuaarã ijeheguíva apañuái
+about-logging-preset-web-compat-label = Ñandutirogue jokupyty
 about-logging-preset-webgpu-label = WebGPU
 about-logging-preset-webgpu-description = Mboheraguapy ra’ãha ehecha hag̃ua WebGPU apañuái
 about-logging-preset-gfx-label = Ta’ãnga

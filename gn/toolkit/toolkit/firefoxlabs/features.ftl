@@ -38,3 +38,6 @@ experimental-features-link-previews =
 # New Tab Sections with follow and block
 experimental-features-newtab-sections-follow-block =
     .label = Téma rendakuéra ha Tapykueho/Joko tembiasakue pyahurã
+# Firefox Web Apps
+experimental-features-fx-web-apps =
+    .label = Embojuaju tenda ne rembiaporãre

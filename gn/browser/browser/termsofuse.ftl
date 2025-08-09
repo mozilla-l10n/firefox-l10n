@@ -9,3 +9,7 @@
 existing-user-tou-learn-more = Kuaave
 # Text for primary button
 existing-user-tou-accept = Moneĩ
+
+## Existing User Terms of Use Spotlight
+
+tou-existing-user-spotlight-remind-me-later = Chemomandu’a ag̃ave

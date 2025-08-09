@@ -1379,6 +1379,10 @@ trustpanel-header-enabled = { -brand-product-name } oma’ẽmeme
 trustpanel-header-disabled = Emboguéma umi ñemo’ãha
 trustpanel-clear-cookies-button = Emboguete kookie ha mba’ekuaarã tendágui
 trustpanel-privacy-link = Ñemigua ñemboheko
+# Variables
+#  $host (String): the hostname of the site that is being displayed.
+trustpanel-clear-cookies-header =
+    .title = Embogue kookie ha tenda mba’ekuaarã { $host }-pe g̃uarã
 trustpanel-clear-cookies-subview-button-clear = Mopotĩ
 trustpanel-clear-cookies-subview-button-cancel = Heja
 # Variables
