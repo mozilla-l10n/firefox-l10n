@@ -173,9 +173,16 @@ permissions-site-camera-disable-desc = Ez megakadályozza, hogy a fent fel nem s
 permissions-site-localhost-window =
     .title = Beállítások – Eszközalkalmazások és -szolgáltatások
     .style = { permissions-window2.style }
+permissions-site-localhost-desc = Ezek a webhelyek alkalmazásokhoz és szolgáltatásokhoz kértek hozzáférést ezen az eszközön. Kiválaszthatja, hogy engedélyezi vagy letiltja ezt a webhelyek számára.
+permissions-site-localhost-disable-label =
+    .label = Alkalmazások és szolgáltatások elérésére vonatkozó új kérések blokkolása ezen az eszközön
+permissions-site-localhost-disable-desc = Ez megakadályozza, hogy a fent fel nem sorolt weboldalak alkalmazásokhoz és szolgáltatásokhoz kérjenek hozzáférést ezen az eszközön. Emiatt előfordulhat, hogy egyes weboldalfunkciók nem fognak működni.
 
 ## Site Permissions - Local network
 
+permissions-site-local-network-window =
+    .title = Beállítások –Helyi hálózati eszközök
+    .style = { permissions-window2.style }
 permissions-site-local-network-disable-desc = Ez megakadályozza, hogy a fent fel nem sorolt weboldalak alkalmazásokhoz és szolgáltatásokhoz kérjenek hozzáférést az Ön Wi-Fi-jéhez csatlakoztatott vagy helyi hálózati eszközökön. Emiatt előfordulhat, hogy egyes weboldalfunkciók nem fognak működni.
 
 ## Site Permissions - Microphone
