@@ -106,8 +106,8 @@ newtab-menu-content-tooltip =
     .aria-label = Malfermi kuntekstan menu por { $title }
 # Tooltip on an empty topsite box to open the New Top Site dialog.
 newtab-menu-topsites-placeholder-tooltip =
-    .title = Redakti ĉi tiun retejon
-    .aria-label = Redakti ĉi tiun retejon
+    .title = Modifi tiun ĉi retejon
+    .aria-label = Modifi tiun ĉi retejon
 
 ## Context Menu: These strings are displayed in a context menu and are meant as a call to action for a given page.
 
