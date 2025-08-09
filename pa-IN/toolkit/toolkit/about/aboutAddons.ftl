@@ -276,6 +276,7 @@ discopane-notice-recommendations2 =
          ਅਤੇ ਵਰਤੋਂ ਅੰਕੜਿਆਂ ਦੇ ਉੱਤੇ ਅਧਾਰਿਤ ਹਨ।
 discopane-notice-learn-more = ਹੋਰ ਸਿੱਖੋ
 colorway-removal-notice-learn-more = ਹੋਰ ਜਾਣੋ
+colorway-removal-notice-button = ਅੱਪਡੇਟ ਕੀਤੇ ਰੰਗ-ਢੰਗ ਥੀਮਾਂ ਨੂੰ ਲਵੋ
 privacy-policy = ਪਰਦੇਦਾਰੀ ਨੀਤੀ
 # Refers to the author of an add-on, shown below the name of the add-on.
 # Variables:
@@ -296,6 +297,11 @@ find-more-themes = ਹੋਰ ਥੀਮ ਲੱਭੋ
 # used for screen readers.
 addon-options-button =
     .aria-label = ਹੋਰ ਚੋਣਾਂ
+# Explanatory introduction to the list of recommended add-ons. The action word
+# ("recommends") in the final sentence is a link to external documentation.
+# We hard code "Firefox" because we do not want to imply that a Firefox fork is
+# making this recommendation.
+discopane-intro3 = ਇਕਸਟੈਨਸ਼ਨ ਅਤੇ ਥੀਮ ਤੁਹਾਨੂੰ { -brand-product-name } ਕਸਟਮਾਈਜ਼ ਕਰਨ ਦਿੰਦੇ ਹਨ। ਇਹ ਪਰਦੇਦਾਰੀ ਵਧਾਉਣ, ਕਾਰਗੁਜ਼ਾਰੀ ਵਿੱਚ ਵਾਧਾ, ਮੀਡੀਏ ਨੂੰ ਵਧੀਆ ਬਣਾਉਣ, { -brand-product-name } ਦੀ ਦਿੱਖ ਨੂੰ ਬਦਲਣ, ਅਤੇ ਕੋਈ ਕੁਝ ਹੋਰ ਕਰਨ ਸਕਦੇ ਹਨ। ਇਹਨਾਂ ਛੋਟੇ ਸਾਫਟਵੇਅਰਾਂ ਨੂੰ ਅਕਸਰ ਸੁਤੰਤਰ ਧਿਰਾਂ ਵਲੋਂ ਤਿਆਰ ਕੀਤਾ ਜਾਂਦਾ ਹੈ। ਸ਼ਾਨਦਾਰ ਸੁਰੱਖਿਆ, ਕਾਰਗੁਜ਼ਾਰੀ ਅਤੇ ਕਾਰਜ ਸਮਰੱਥਾ ਲਈ Firefox <a data-l10n-name="learn-more-trigger">ਸਿਫਾਰਸ਼ਾਂ</a> ਇਹ ਹਨ।
 
 ## Add-on actions
 
@@ -431,6 +437,13 @@ addon-badge-line4 =
     .title = ਅਧਿਕਾਰਿਤ ਇਕਸਟੈਨਸ਼ਨ Mozilla ਵਲੋਂ ਬਣਾਈ ਹੈ। ਸਾਰੇ ਸੁਰੱਖਿਆ ਅਤੇ ਕਾਰਗੁਜ਼ਾਰੀ ਮਿਆਰਾਂ ਉੱਤੇ ਖ਼ਰਾ ਉਤਰਦੀ ਹੈ।
 # This string needs to work in the context of other forks that are not Firefox
 # or built by Mozilla. In particular, we do not want to imply that an
+# organisation other than Mozilla or the Firefox team are performing the
+# security or performance reviews. As such, we avoid personalising language
+# like the words "our" or "we".
+addon-badge-verified4 =
+    .title = ਸੁਰੱਖਿਆ ਅਤੇ ਕਾਰਗੁਜ਼ਾਰੀ ਲਈ ਮਿਆਰਾਂ ਉੱਤੇ ਖ਼ਰ੍ਹਾ ਉਤਰਨ ਲਈ ਇਸ ਇਕਸਟੈਨਸ਼ਨ ਦੀ ਜਾਂਚ ਕੀਤੀ ਜਾ ਚੁੱਕੀ ਹੈ
+# This string needs to work in the context of other forks that are not Firefox
+# or built by Mozilla. In particular, we do not want to imply that an
 # organisation other than Mozilla or the Firefox team are making the
 # recommendation. As such, we hard code "Firefox" and avoid personalising
 # language like the words "our" or "we".
@@ -547,6 +560,7 @@ mlmodel-extension-label = { $extensionName } ਇਕਸਟੈਨਸ਼ਨ ਵਲੋ�
 ## Mapping Engine IDs from AI models to how that feature represented by the engine Id is described in the used by section in local model management
 
 mlmodel-about-inference = { -brand-short-name } ਇਸ ਨੂੰ about:inference ਉੱਤੇ ਵਰਤਦਾ ਹੈ
+mlmodel-link-preview = ਜਦੋਂ ਤੁਸੀਂ ਲਿੰਕਾਂ ਦੀ ਝਲਕ ਵੇਖਦੇ ਹੋ ਤਾਂ { -brand-short-name } ਇਸ ਨੂੰ ਪ੍ਰਮੁੱਖ ਨੁਕਤੇ ਤਿਆਰ ਕਰਨ ਲਈ ਵਰਤਦਾ ਹੈ
 # AI Model will be downloaded on the users device and used locally
 addon-category-mlmodel = ਡਿਵਾਈਸ ਉੱਤੇ AI
 addon-category-mlmodel-title =

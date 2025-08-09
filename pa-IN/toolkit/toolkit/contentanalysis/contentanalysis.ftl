@@ -13,6 +13,15 @@ contentanalysis-slow-agent-dialog-header = ਸਕੈਨ ਕਰਨਾ ਜਾਰ�
 contentanalysis-slow-agent-dialog-body-file = { $agent } ਤੁਹਾਡੇ ਸੰਗਠਨ ਦੀਆਂ ਡਾਟਾ ਨੀਤੀਆਂ ਦੇ ਉਲਟ “{ $filename }” ਦੀ ਪੜਤਾਲ ਕਰ ਰਿਹਾ ਹੈ। ਇਸ ਨੂੰ ਕੁਝ ਪਲ਼ ਲੱਗ ਸਕਦੇ ਹਨ।
 # Variables:
 #   $agent - The name of the DLP agent doing the analysis
+#   $filename - Name of a file being analyzed, such as "aFile.txt"
+#   $count (number) - The number of additional items in the request for analysis
+contentanalysis-slow-agent-dialog-body-file-and-more =
+    { $count ->
+        [one] { $agent } ਤੁਹਾਡੇ ਸੰਗਠਨ ਦੀ ਡਾਟਾ ਪਾਲਸੀ ਦੇ ਉਲਟ “{ $filename }” ਅਤੇ { $count } ਹੋਰ ਚੀਜ਼ ਦੀ ਪੜਤਾਲ ਕਰ ਰਿਹਾ ਹੈ। ਇਸ ਨੂੰ ਕੁਝ ਪਲ਼ ਲੱਗ ਸਕਦੇ ਹਨ।
+       *[other] { $agent } ਤੁਹਾਡੇ ਸੰਗਠਨ ਦੀ ਡਾਟਾ ਪਾਲਸੀ ਦੇ ਉਲਟ “{ $filename }” ਅਤੇ { $count } ਹੋਰ ਚੀਜ਼ਾ ਦੀ ਪੜਤਾਲ ਕਰ ਰਿਹਾ ਹੈ। ਇਸ ਨੂੰ ਕੁਝ ਪਲ਼ ਲੱਗ ਸਕਦੇ ਹਨ।
+    }
+# Variables:
+#   $agent - The name of the DLP agent doing the analysis
 contentanalysis-slow-agent-dialog-body-clipboard = { $agent } ਤੁਹਾਡੇ ਵਲੋਂ ਤੁਹਾਡੇ ਸੰਗਠਨ ਦੀਆਂ ਡਾਟਾ ਨੀਤੀਆਂ ਦੇ ਉਲਟ ਚੇਪਣ ਦੀ ਪੜਤਾਲ ਕਰ ਰਿਹਾ ਹੈ। ਇਸ ਨੂੰ ਕੁਝ ਪਲ਼ ਲੱਗ ਸਕਦੇ ਹਨ।
 # Note that this is shown when the user drag and drops text into the browser.
 # Variables:

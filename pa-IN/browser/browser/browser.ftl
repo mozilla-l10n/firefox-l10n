@@ -808,6 +808,8 @@ urlbar-result-weather-provider-sponsored = { $provider } · ਸਪੌਂਸਰ
 
 # This string is shown as title when Market suggestion are disabled.
 urlbar-result-market-opt-in-title = ਆਪਣੀ ਖੋਜ ਪੱਟੀ ਵਿੱਚ ਸਟਾਕ ਮਾਰਕੀਟ ਡਾਟਾ ਸਿੱਧਾ ਵੇਖੋ
+# This string is shown as description when Market suggestion are disabled.
+urlbar-result-market-opt-in-description = ਜਦੋਂ ਤੁਸੀਂ { -vendor-short-name } ਨਾਲ ਖੋਜ ਕਿਊਰੀ ਡਾਟਾ ਸਾਂਝਾ ਕਰਦੇ ਹੋ ਤਾਂ ਸਾਡੇ ਹਿੱਸੇਦਾਰਾਂ ਤੋਂ ਮਾਰਕੀਟ ਅੱਪਡੇਟ ਅਤੇ ਹੋਰ ਜਾਣਕਾਰੀ ਵੇਖੋ। <a data-l10n-name="learn-more-link">ਹੋਰ ਜਾਣੋ</a>
 # This string is shown as button to activate online when realtime suggestion are disabled.
 urlbar-result-realtime-opt-in-allow = ਸੁਝਾਵਾਂ ਨੂੰ ਵੇਖਾਓ
 # This string is shown in split button to dismiss activation the Realtime suggestion.
@@ -820,6 +822,9 @@ urlbar-result-menu-dont-show-market =
     .label = ਮਾਰਕੀਟ ਸੁਝਾਅ ਨਾ ਵੇਖਾਓ
 # A message that replaces a result when the user dismisses Market suggestions.
 urlbar-result-dismissal-acknowledgment-market = ਤੁਹਾਡੇ ਸੁਝਾਅ ਲਈ ਧੰਨਵਾਦ ਹੈ। ਤੁਸੀਂ ਹੁਣ ਮਾਰਕੀਟ ਸੁਝਾਅ ਨਹੀਂ ਵੇਖੋਗੇ।
+# A message that replaces a result when the user dismisses all suggestions of a
+# particular type.
+urlbar-result-dismissal-acknowledgment-all = ਤੁਹਾਡੇ ਸੁਝਾਅ ਲਈ ਧੰਨਵਾਦ ਹੈ। ਤੁਸੀਂ ਹੁਣ ਇਹ ਸੁਝਾਅ ਨਹੀਂ ਵੇਖੋਗੇ।
 
 ## Strings used for buttons in the urlbar
 

@@ -68,6 +68,11 @@ cfr-doorhanger-bookmark-fxa-link-text = …ਬੁੱਕਮਾਰਕਾਂ ਨੂ
 cfr-doorhanger-bookmark-fxa-close-btn-tooltip =
     .aria-label = ਬੰਦ ਕਰੋ ਬਟਨ
     .title = ਬੰਦ ਕਰੋ
+fxa-adoption-addresses-backup-title = ਆਓ ਤੁਹਾਡੇ ਸੰਭਾਲੇ ਹੋਏ ਸਿਰਨਾਵਿਆਂ ਦਾ ਬੈਕਅੱਪ ਲਈਏ
+fxa-adoption-addresses-backup-subtitle = ਆਪਣੇ ਸੰਭਾਲੇ ਹੋਏ ਸਿਰਨਾਵਿਆਂ ਨੂੰ ਇੰਕ੍ਰਿਪਸ਼ਨ ਨਾਲ ਆਪਣੇ ਡਿਵਾਈਸਾਂ ਉੱਤੇ ਸਿੰਕ ਕਰਕੇ ਸੁਰੱਖਿਅਤ ਕਰੋ।
+fxa-adoption-credit-cards-backup-title = ਆਓ ਤੁਹਾਡੇ ਭੁਗਤਾਨ ਕਰਨ ਦੇ ਢੰਗਾਂ ਦਾ ਬੈਕਅੱਪ ਲਈਏ
+fxa-adoption-credit-cards-backup-subtitle = ਆਪਣੇ ਭੁਗਤਾਨ ਦੇ ਢੰਗਾਂ ਨੂੰ ਇੰਕ੍ਰਿਪਸ਼ਨ ਨਾਲ ਆਪਣੇ ਡਿਵਾਈਸਾਂ ਉੱਤੇ ਸਿੰਕ ਕਰਕੇ ਸੁਰੱਖਿਅਤ ਰੱਖੋ।
+fxa-adoption-primary-button-label = ਸਾਈਨ ਅੱਪ ਕਰੋ
 
 ## Protections panel
 
