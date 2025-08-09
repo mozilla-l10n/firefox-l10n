@@ -143,6 +143,8 @@ urlbar-geolocation-notification-anchor =
     .tooltiptext = მდებარეობის მოთხოვნის არე
 urlbar-localhost-notification-anchor =
     .tooltiptext = ადგილობრივ მოწყობილობაზე წვდომის მართვა ამ საიტისთვის
+urlbar-local-network-notification-anchor =
+    .tooltiptext = საიტისთვის თქვენი შიდა ქსელის გაზიარების მართვა
 urlbar-xr-notification-anchor =
     .tooltiptext = წარმოსახვითი სინამდვილის ნებართვების არე
 urlbar-storage-access-anchor =
@@ -209,6 +211,9 @@ urlbar-result-menu-show-less-frequently =
     .label = იშვიათად ჩვენება
 urlbar-result-menu-dont-show-weather-suggestions =
     .label = ამინდის შემოთავაზებების გარეშე
+# Used for Split Button.
+urlbar-splitbutton-dropmarker =
+    .title = მენიუს გახსნა
 # A message shown in the urlbar when the user submits feedback on a suggestion
 # (e.g., it shows an inaccurate location, it's shown too often, etc.).
 urlbar-feedback-acknowledgment = გმადლობთ გამოხმაურებისთვის
@@ -240,6 +245,10 @@ urlbar-search-mode-actions = მოქმედებები
 
 urlbar-geolocation-blocked =
     .tooltiptext = ამ საიტისთვის თქვენს მდებარეობასთან წვდომა შეზღუდული გაქვთ.
+urlbar-localhost-blocked =
+    .tooltiptext = ამ საიტისთვის ადგილობრივ მოწყობილობასთან კავშირის უფლება შეზღუდული გაქვთ.
+urlbar-local-network-blocked =
+    .tooltiptext = ამ საიტისთვის შიდა ქსელთან კავშირის უფლება შეზღუდული გაქვთ.
 urlbar-xr-blocked =
     .tooltiptext = ამ საიტისთვის წარმოსახვითი სინამდვილის თქვენს მოწყობილობასთან წვდომა შეზღუდული გაქვთ.
 urlbar-web-notifications-blocked =
