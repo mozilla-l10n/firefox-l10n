@@ -125,11 +125,13 @@ addon-install-error-corrupt-file = La aldonaĵo elŝutita el tiu ĉi retejo ne p
 addon-install-error-file-access = { $addonName } no povis esti instalita ĉar { -brand-short-name } ne povas modifi la bezonatan dosieron.
 addon-install-error-not-signed = { -brand-short-name } evitis ke tiu ĉi retejo instalu nekontrolitan aldonaĵon.
 addon-install-error-invalid-domain = La aldonaĵo { $addonName } ne povas esti instalita el tiu ĉi ejo.
+addon-install-error-no-addon-name-file-access = La etendaĵo ne povis esti instalita ĉar { -brand-short-name } ne povas modifi bezonatan dosieron.
 addon-local-install-error-network-failure = Tiu ĉi aldonaĵo ne povis esti instalita pro eraro en la dosiersistemo.
 addon-local-install-error-incorrect-hash = Tiu ĉi aldonaĵo ne povis esti instalita ĉar ĝi ne kongruas kun la aldonaĵo, kiun atendis { -brand-short-name }.
 addon-local-install-error-corrupt-file = Tiu ĉi aldonaĵo ne povis esti instalita ĉar ĝi aspektas difektite.
 addon-local-install-error-file-access = { $addonName } ne povis esti instalita ĉar { -brand-short-name } ne povas modifi la bezonatan dosieron.
 addon-local-install-error-not-signed = Tiu ĉi aldonaĵo ne povis esti instalita ĉar ĝi ne estas kontrolita.
+addon-local-install-no-addon-name-error-file-access = La etendaĵo ne povis esti instalita ĉar { -brand-short-name } ne povas modifi bezonatan dosieron.
 # Variables:
 #   $appVersion (String): the application version.
 addon-install-error-incompatible = { $addonName } ne povis esti instalita ĉar ĝi ne kongruas kun { -brand-short-name } { $appVersion }.
