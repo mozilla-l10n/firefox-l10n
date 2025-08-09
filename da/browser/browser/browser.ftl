@@ -1365,6 +1365,7 @@ onboarding-aw-finish-setup-button =
 ## The urlbar trust panel
 
 trustpanel-etp-label-enabled = Udvidet beskyttelse mod sporing er slået til
+trustpanel-etp-label-disabled = Udvidet beskyttelse mod sporing er slået fra
 # Variables
 #  $host (String): the hostname of the site that is being displayed.
 trustpanel-etp-toggle-on =
@@ -1377,6 +1378,7 @@ trustpanel-etp-description-enabled = Hvis noget på webstedet ikke ser ud til at
 trustpanel-etp-description-disabled = { -brand-product-name } mener, at virksomheder bør overvåge dig mindre. Vi blokerer så mange sporings-mekanismer som muligt, når du aktiverer beskyttelse.
 trustpanel-connection-label-secure = Forbindelsen er sikker
 trustpanel-connection-label-insecure = Forbindelsen er ikke sikker
+trustpanel-header-enabled = { -brand-product-name } beskytter dig
 trustpanel-description-enabled = Du er beskyttet. Vi giver dig besked, hvis vi opdager noget.
 trustpanel-header-disabled = Du har slået beskyttelse fra
 trustpanel-description-disabled = { -brand-product-name } er ikke aktiveret. Vi foreslår, at du slår beskyttelse til igen.
