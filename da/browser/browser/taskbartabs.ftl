@@ -7,6 +7,10 @@
 ## browser.taskbarTabs.enabled = true and the user
 ## navigates to a website.
 
+taskbar-tab-urlbar-button-open =
+    .tooltiptext = Føj faneblad til proceslinjen
+taskbar-tab-urlbar-button-close =
+    .tooltiptext = Fjern faneblad fra proceslinjen
 # This string is used in the description of a Windows Start Menu
 # shortcut for a Taskbar Tab.
 # Variables:

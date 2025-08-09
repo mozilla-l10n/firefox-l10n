@@ -302,6 +302,8 @@ pdfjs-web-fonts-disabled = Webskrifttyper er deaktiverede. De indlejrede skriftt
 
 pdfjs-editor-free-text-button =
     .title = Tekst
+pdfjs-editor-color-picker-free-text-input =
+    .title = Skift tekstfarve
 pdfjs-editor-free-text-button-label = Tekst
 pdfjs-editor-ink-button =
     .title = Tegn

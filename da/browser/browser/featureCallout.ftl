@@ -126,6 +126,7 @@ windows-10-eos-sync-new-device-primary-label = Synkroniser nu
 windows-10-eos-sync-general-title-1 = Beskyt din tilpassede version af { -brand-short-name }.
 windows-10-eos-sync-general-subtitle-1 = Sikkerhedskopier og synkroniser dine adgangskoder, bogmærker, indstillinger og andre data for at bevare de ting, du behøver.
 windows-10-eos-sync-general-title-2 = Nu er et godt tidspunkt at sikkerhedskopiere dine adgangskoder og bogmærker.
+windows-10-eos-sync-general-subtitle-2 = Synkroniser nu for at beskytte de ting, du har gemt i { -brand-short-name } – og få dem tilbage hvor som helst og når som helst.
 windows-10-eos-sync-tour-title-1 = For mange faneblade? Ryd op med fanebladsgrupper.
 windows-10-eos-sync-tour-subtitle-1 = Træk et faneblade oven på et andet for at oprette en gruppe og holde tingene organiseret.
 windows-10-eos-sync-tour-title-2 = Forbered dig til Windows 11.

@@ -115,7 +115,7 @@ profiles-moss-theme-2 = Mosgrøn
 book-avatar-alt =
     .alt = Bog
 briefcase-avatar-alt =
-    .alt = Mappe
+    .alt = Attachemappe
 # Canvas refers to an artist's painting canvas, not the general material
 canvas-avatar-alt =
     .alt = Lærred
@@ -132,6 +132,8 @@ heart-avatar-alt =
     .alt = Hjerte
 heart-rate-avatar-alt =
     .alt = Hjerterytme
+history-avatar-alt =
+    .alt = Historie
 leaf-avatar-alt =
     .alt = Blad
 lightbulb-avatar-alt =
@@ -178,7 +180,7 @@ bike-avatar-alt =
 ## Labels for default avatar icons
 
 book-avatar = Bog
-briefcase-avatar = Mappe
+briefcase-avatar = Attachemappe
 # Canvas refers to an artist's painting canvas, not the general material
 canvas-avatar = Lærred
 # Craft refers to hobby arts and crafts, represented by a button/fastener commonly found on clothing like shirts
@@ -193,6 +195,7 @@ folder-avatar = Mappe
 hammer-avatar = Hammer
 heart-avatar = Hjerte
 heart-rate-avatar = Hjerterytme
+history-avatar = Historik
 leaf-avatar = Blad
 lightbulb-avatar = Lyspære
 makeup-avatar = Makeup

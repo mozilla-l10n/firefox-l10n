@@ -1479,3 +1479,4 @@ trustpanel-cryptominer-not-blocking-tab-header =
         [one] { -brand-product-name } tillod { $count } cryptominer
        *[other] { -brand-product-name } tillod { $count } cryptominers
     }
+trustpanel-cryptominer-tab-list-header = Disse websteder forsøger at lave cryptomining:
