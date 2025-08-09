@@ -51,3 +51,6 @@ experimental-features-link-previews-description-no-ai =
 experimental-features-newtab-sections-follow-block =
     .label = Emne-afsnit og Følg/Bloker for historier på siden Nyt Faneblad
 experimental-features-newtab-sections-follow-block-description = Organiser historierne på siden Nyt faneblad i emne-afsnit (Sport, Mad, Underholdning og mere) for at få en mere struktureret og brugervenlig oplevelse. Brug vores nye Følg- og Bloker-funktioner til at tilpasse, hvilket indhold du får vist. <a data-l10n-name="connect">Del feedback</a>
+# Firefox Web Apps
+experimental-features-fx-web-apps =
+    .label = Tilføj websteder til din proceslinje
