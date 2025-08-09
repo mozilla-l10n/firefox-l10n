@@ -1359,6 +1359,15 @@ onboarding-aw-finish-setup-button =
 
 trustpanel-etp-label-enabled = Tapykueho mo’ãha iporãvéva hendýma
 trustpanel-etp-label-disabled = Tapykueho mo’ãha iporãvéva ojejoko
+# Variables
+#  $host (String): the hostname of the site that is being displayed.
+trustpanel-etp-toggle-on =
+    .aria-label = Jehapykueho mo’ãha oikóva: { $host }-pe g̃uarã
+# Variables
+#  $host (String): the hostname of the site that is being displayed.
+trustpanel-etp-toggle-off =
+    .aria-label = Jehapykueho mo’ãha oikóva: ogue { $host }-pe g̃uarã
+trustpanel-etp-description-enabled = Oĩrõ ndoikoporãiva ko tendápe g̃uarã, eñeha’ã eipe’a umi ñemo’ãha.
 trustpanel-connection-label-secure = Eike tekorosãme
 trustpanel-connection-label-insecure = Eike tekorosã’ỹme
 trustpanel-header-enabled = { -brand-product-name } oma’ẽmeme
