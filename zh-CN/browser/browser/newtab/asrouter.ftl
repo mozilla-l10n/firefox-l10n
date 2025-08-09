@@ -355,5 +355,6 @@ windows-10-eos-sync-spotlight-primary-label = 备份 { -brand-short-name }
 ## Windows 10 EoS Sync messages group 1 toast notification
 
 windows-10-eos-sync-toast-title = 要升级到 Windows 11？别忘了带上书签和密码。
+windows-10-eos-sync-toast-subtitle = 备份您的数据，之后无论是升级系统还是换新电脑， { -brand-short-name } 都能随时准备好搬家。
 windows-10-eos-sync-toast-primary-label = 开始操作
 windows-10-eos-sync-toast-secondary-label = 稍后提醒
