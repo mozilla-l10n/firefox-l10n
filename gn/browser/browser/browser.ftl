@@ -143,6 +143,8 @@ urlbar-geolocation-notification-anchor =
     .tooltiptext = Tendaite jerurepy rupa ijurujáva
 urlbar-localhost-notification-anchor =
     .tooltiptext = Eñangareko mba’e’okápe jeike ko tendápe g̃uarã
+urlbar-local-network-notification-anchor =
+    .tooltiptext = Eñangareko ñandutípe jeike jeporu joja ko tenda ndive
 urlbar-xr-notification-anchor =
     .tooltiptext = Embojuruja ñemoneĩ rupa añetegua ñanduti rehegua
 urlbar-storage-access-anchor =
@@ -243,6 +245,10 @@ urlbar-search-mode-actions = Ñemongu’e
 
 urlbar-geolocation-blocked =
     .tooltiptext = Ejokóma marandu ejuhukuaa hag̃ua ko ñanduti renda.
+urlbar-localhost-blocked =
+    .tooltiptext = Ejokóma umi mba’e’okápe jeikekuaa ñanduti roguépe g̃uarã.
+urlbar-local-network-blocked =
+    .tooltiptext = Ejokóma umi mba’e’okápe jeikekuaa ko ñandutípe g̃uarã.
 urlbar-xr-blocked =
     .tooltiptext = Ejokóma mba’e’okápe jeike añetegua ñanduti ko tendápe g̃uarã.
 urlbar-web-notifications-blocked =
@@ -801,6 +807,8 @@ urlbar-result-weather-provider-sponsored = { $provider } · Ykekopyre
 ## These strings are used for Realtime suggestions in the urlbar.
 ## Market refers to stocks, indexes, and funds.
 
+# This string is shown as title when Market suggestion are disabled.
+urlbar-result-market-opt-in-title = Eru mba’ekuaarã mba’erepy ñemuhaguasugua jehekahápe
 # This string is shown as button to activate online when realtime suggestion are disabled.
 urlbar-result-realtime-opt-in-allow = Ñemoñe’ẽ jehechauka
 # This string is shown in split button to dismiss activation the Realtime suggestion.
