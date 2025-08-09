@@ -51,3 +51,6 @@ experimental-features-link-previews-description-no-ai =
 experimental-features-newtab-sections-follow-block =
     .label = 新标签页文章的主题分组和关注/屏蔽
 experimental-features-newtab-sections-follow-block-description = 将新标签页上的文章按主题（例如体育、美食、娱乐等）分组，浏览体验更直观有序。还可使用全新的“关注”和“屏蔽”控制方式来定制您想看的内容。<a data-l10n-name="connect">分享反馈</a>
+# Firefox Web Apps
+experimental-features-fx-web-apps =
+    .label = 将网站添加到任务栏
