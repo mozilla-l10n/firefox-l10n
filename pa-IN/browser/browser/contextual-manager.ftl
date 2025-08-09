@@ -18,6 +18,7 @@ contextual-manager-passwords-command-import-from-browser = …ਹੋਰ ਬਰ�
 contextual-manager-passwords-command-import = …ਤੋਂ ਫ਼ਾਇਲ ਇੰਪੋਰਟ ਕਰੋ
 contextual-manager-passwords-command-export = ਪਾਸਵਰਡਾਂ ਨੂੰ ਐਕਸਪੋਰਟ ਕਰੋ
 contextual-manager-passwords-command-remove-all = ਸਭ ਪਾਸਵਰਡਾਂ ਨੂੰ ਹਟਾਓ
+contextual-manager-passwords-command-options = ਚੋਣਾਂ
 contextual-manager-passwords-command-settings = ਸੈਟਿੰਗਾਂ
 contextual-manager-passwords-command-help = ਮਦਦ
 contextual-manager-passwords-os-auth-dialog-caption = { -brand-full-name }
@@ -158,6 +159,8 @@ contextual-manager-passwords-password-already-exists-error-button = ਪਾਸਵ
 contextual-manager-passwords-update-password-success-heading =
     .heading = ਪਾਸਵਰਡ ਸੰਭਾਲਿਆ
 contextual-manager-passwords-update-password-success-button = ਮੁਕੰਮਲ
+contextual-manager-passwords-update-username-success-heading-2 =
+    .heading = ਵਰਤੋਂਕਾਰ-ਨਾਂ ਨੂੰ ਜੋੜਿਆ
 contextual-manager-passwords-update-username-success-heading =
     .heading = ਵਰਤੋਂਕਾਰ-ਨਾਂ ਨੂੰ ਸੰਭਾਲਿਆ ਗਿਆ
 # Message to confirm successful removal of a password/passwords.
@@ -211,12 +214,15 @@ contextual-manager-passwords-title = ਪਾਸਵਰਡ
 
 contextual-manager-passwords-create-label =
     .label = ਪਾਸਵਰਡ ਨੂੰ ਜੋੜੋ
+contextual-manager-passwords-update-label =
+    .label = ਪਾਸਵਰਡ ਨੂੰ ਅੱਪਡੇਟ ਕੀਤਾ
 contextual-manager-passwords-edit-label =
     .label = ਪਾਸਵਰਡ ਨੂੰ ਸੋਧੋ
 contextual-manager-passwords-remove-label =
     .title = ਪਾਸਵਰਡ ਨੂੰ ਹਟਾਓ
 contextual-manager-passwords-origin-tooltip = ਪੂਰਾ ਸਹੀ ਸਿਰਨਾਵਾਂ ਦਿਓ, ਜਿੱਥੇ ਤੁਸੀਂ ਇਸ ਸਾਈਟ ਲਈ ਸਾਈਨ ਇਨ ਕਰੋਗੇ।
 contextual-manager-passwords-username-tooltip = ਵਰਤੋਂਕਾਰ-ਨਾਂ, ਈਮੇਲ ਸਿਰਨਾਵਾਂ ਜਾਂ ਖਾਤਾ ਨੰਬਰ, ਜੋ ਤੁਸੀਂ ਸਾਈਨ ਇਨ ਕਰਨ ਲਈ ਵਰਤਦੇ ਹੋ, ਦਿਓ।
+contextual-manager-passwords-password-tooltip-2 = ਇਸ ਖਾਤੇ ਵਿੱਚ ਸਾਈਨ ਇਨ ਕਰਨ ਲਈ ਪਾਸਵਰਡ ਦਿਓ।
 contextual-manager-passwords-password-tooltip = ਇਸ ਖਾਤੇ ਵਿੱਚ ਸਾਈਨ ਇਨ ਕਰਨ ਲਈ ਵਰਤਿਆ ਜਾਂਦਾ ਪਾਸਵਰਡ ਦਿਓ।
 
 ## Password Card
@@ -294,6 +300,7 @@ contextual-manager-hide-password-button =
 # The message displayed when the search text does not match any of the user's saved logins.
 contextual-manager-passwords-no-passwords-found-header =
     .heading = ਕੋਈ ਪਾਸਵਰਡ ਨਹੀਂ ਲੱਭਿਆ
+contextual-manager-passwords-no-passwords-found-message-2 = ਵੱਖਰਾ ਸ਼ਬਦ ਦੇ ਕੇ ਫੇਰ ਖੋਜਣ ਦੀ ਕੋਸ਼ਿਸ਼ ਕਰੋ।
 contextual-manager-passwords-no-passwords-found-message = ਕੋਈ ਪਾਸਵਰਡ ਨਹੀਂ ਲੱਭੇ ਹਨ। ਵੱਖਰੇ ਸ਼ਬਦ ਨਾਲ ਲੱਭਣ ਦੀ ਕੋਸ਼ਿਸ਼ ਕਰੋ।
 
 ## When the user has no saved passwords, we display the following messages to inform the user they can save
@@ -308,6 +315,8 @@ contextual-manager-passwords-no-passwords-message = ਸਾਰੇ ਪਾਸਵਰ
 contextual-manager-passwords-no-passwords-get-started-message = ਸ਼ੁਰੂ ਕਰਨ ਵਾਸਤੇ ਉਹਨਾਂ ਨੂੰ ਇੱਥੇ ਜੋੜੋ।
 # This string is displayed in a button. If the user clicks it, they will be taken to a form to create a new password.
 contextual-manager-passwords-add-manually = ਦਸਤੀ ਜੋੜੋ
+# This string encourages the user to save their passwords in Firefox (the "safe spot").
+contextual-manager-passwords-no-passwords-header-2 = ਆਪਣੇ ਪਾਸਵਰਡਾਂ ਨੂੰ ਸੁਰੱਖਿਅਤ ਥਾਂ ਉੱਤੇ ਸੰਭਾਲੋ
 
 ## When the user cancels a login that's currently being edited, we display a message to confirm whether
 ## or not the user wants to discard their current edits to the login.
@@ -323,3 +332,8 @@ contextual-manager-passwords-remove-all-passwords-checkbox =
         [1] ਹਾਂ, ਪਾਸਵਰਡ ਨੂੰ ਹਟਾਓ
        *[other] Yes, remove passwords
     }
+# This string informs the user they need to provide their primary password for FireFox to access their saved passwords in Firefox.
+contextual-manager-primary-password-reauth-header = ਆਪਣੇ ਸੰਭਾਲੇ ਹੋਏ ਪਾਸਵਰਡ ਵੇਖਣ ਲਈ ਆਪਣਾ ਮੁੱਢਲਾ ਪਾਸਵਰਡ ਦਿਓ।
+# This string informs the user their primary password is used to authenticate and access their passwords
+contextual-manager-primary-password-reauth-button = ਆਪਣਾ ਮੁੱਢਲਾ ਪਾਸਵਰਡ ਦਿਓ
+contextual-manager-primary-password-learn-more-link = ਹੋਰ ਜਾਣੋ

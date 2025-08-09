@@ -125,11 +125,13 @@ addon-install-error-corrupt-file = ਇਸ ਸਾਈਟ ਤੋਂ ਡਾਊਨਲ
 addon-install-error-file-access = { $addonName } ਨੂੰ ਇੰਸਟਾਲ ਨਹੀਂ ਕੀਤਾ ਜਾ ਸਕਿਆ ਕਿਉਂਕਿ { -brand-short-name } ਲੋੜੀਂਦੀ ਫਾਈਲ ਨੂੰ ਸੋਧ ਨਹੀਂ ਸਕਦਾ ਹੈ।
 addon-install-error-not-signed = { -brand-short-name } ਨੇ ਇਸ ਸਾਈਟ ਨਾ-ਤਸਦੀਕ ਹੋਈ ਐਡ-ਆਨ ਨੂੰ ਇੰਸਟਾਲ ਹੋਣ ਤੋਂ ਰੋਕ ਦਿੱਤੀ ਹੈ।
 addon-install-error-invalid-domain = { $addonName } ਐਡ-ਆਨ ਨੂੰ ਇਸ ਟਿਕਾਣੇ ਲਈ ਇੰਸਟਾਲ ਨਹੀਂ ਕੀਤਾ ਜਾ ਸਕਦਾ ਹੈ।
+addon-install-error-no-addon-name-file-access = { -brand-short-name } ਵਲੋਂ ਲੋੜੀਂਦੀ ਫਾਈਲ ਨੂੰ ਸੋਧ ਨਾ ਸਕਣ ਕਰਕੇ ਐਡ-ਆਨ ਨੂੰ ਇੰਸਟਾਲ ਨਹੀਂ ਕੀਤਾ ਜਾ ਸਕਿਆ ਹੈ।
 addon-local-install-error-network-failure = ਫ਼ਾਇਲ-ਸਿਸਟਮ ਦੀ ਗਲਤੀ ਕਰਕੇ ਇਸ ਐਡ-ਆਨ ਨੂੰ ਇੰਸਟਾਲ ਨਹੀਂ ਕੀਤਾ ਜਾ ਸਕਿਆ।
 addon-local-install-error-incorrect-hash = ਇਸ ਐਡ-ਆਨ ਨੂੰ ਇੰਸਟਾਲ ਨਹੀਂ ਕੀਤਾ ਜਾ ਸਕਿਆ, ਕਿਉਂਕਿ ਇਹ ਉਮੀਦ ਕੀਤੀ { -brand-short-name } ਐਡ-ਆਨ ਨਾਲ ਮਿਲਦੀ ਨਹੀਂ ਹੈ।
 addon-local-install-error-corrupt-file = ਐਡ-ਆਨ ਨਿਕਾਰਾ ਹੋਣ ਕਰਕੇ ਇਸ ਨੂੰ ਇੰਸਟਾਲ ਨਹੀਂ ਕੀਤਾ ਜਾ ਸਕਿਆ।
 addon-local-install-error-file-access = { $addonName } ਨੂੰ ਇੰਸਟਾਲ ਨਹੀਂ ਕੀਤਾ ਜਾ ਸਕਿਆ ਕਿਉਂਕਿ { -brand-short-name } ਲੋੜੀਂਦੀ ਫ਼ਾਇਲ ਨੂੰ ਸੋਧ ਨਹੀਂ ਸਕਦਾ ਹੈ।
 addon-local-install-error-not-signed = ਇਸ ਐਡ-ਆਨ ਨੂੰ ਇੰਸਟਾਲ ਨਹੀਂ ਕੀਤਾ ਜਾ ਸਕਿਆ ਕਿਉਂਕਿ ਇਸ ਦੀ ਤਸਦੀਕ ਨਹੀਂ ਹੋ ਸਕੀ ਹੈ।
+addon-local-install-no-addon-name-error-file-access = { -brand-short-name } ਵਲੋਂ ਲੋੜੀਂਦੀ ਫਾਈਲ ਨੂੰ ਸੋਧ ਨਾ ਸਕਣ ਕਰਕੇ ਐਡ-ਆਨ ਨੂੰ ਇੰਸਟਾਲ ਨਹੀਂ ਕੀਤਾ ਜਾ ਸਕਿਆ ਹੈ।
 # Variables:
 #   $appVersion (String): the application version.
 addon-install-error-incompatible = { $addonName } ਨੂੰ ਇੰਸਟਾਲ ਨਹੀਂ ਕੀਤਾ ਜਾ ਸਕਿਆ ਕਿਉਂਕਿ ਇਹ { -brand-short-name } { $appVersion } ਲਈ ਢੁੱਕਵੀਂ ਨਹੀਂ ਹੈ।

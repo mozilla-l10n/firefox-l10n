@@ -59,6 +59,7 @@ edit-engine-window =
     .style = min-width: 32em;
 add-engine-button = ਕਸਟਮ ਇੰਜਣ ਜੋੜੋ
 add-engine-name = ਖੋਜ ਇੰਜਣ ਦਾ ਨਾਂ
+add-engine-url2 = ਖੋਜ ਸ਼ਬਦ ਦੀ ਥਾਂ ਉੱਤੇ %s ਨਾਲ URL ਦਿਓ
 add-engine-keyword2 = ਸ਼ਬਦ (ਚੋਣਵਾਂ)
 
 ## The following placeholders are shown in the inputs when adding a new engine.

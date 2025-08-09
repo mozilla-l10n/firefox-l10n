@@ -15,6 +15,7 @@ about-logging-set-log-file = ਲਾਗ ਫਾਇਲ ਸੈੱਟ ਕਰੋ
 about-logging-set-log-modules = ਲਾਗ ਮੋਡੀਊਲ ਸੈੱਟ ਕਰੋ
 about-logging-start-logging = ਲਾਗ ਕਰਨਾ ਸ਼ੁਰੂ ਕਰੋ
 about-logging-stop-logging = ਲਾਗ ਕਰਨਾ ਰੋਕੋ
+about-logging-copy-as-url = ਮੌਜੂਦਾ ਸੈਟਿੰਗਾਂ ਨੂੰ URL ਵਜੋਂ ਕਾਪੀ ਕਰੋ
 about-logging-info = ਜਾਣਕਾਰੀ:
 about-logging-log-modules-selection = ਲਾਗ ਮੋਡੀਊਲ ਚੋਣ
 about-logging-new-log-modules = ਨਵਾਂ ਲਾਗ ਮੋਡੀਊਲ:

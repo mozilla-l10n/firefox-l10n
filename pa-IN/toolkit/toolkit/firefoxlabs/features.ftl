@@ -29,3 +29,6 @@ experimental-features-custom-wallpaper-description = ਆਪਣੀ ਨਵੀਂ �
 # Link Previews with AI
 experimental-features-link-previews =
     .label = ਲਿੰਕ ਦੀ ਝਲਕ
+# Firefox Web Apps
+experimental-features-fx-web-apps =
+    .label = ਸਾਈਟਾਂ ਨੂੰ ਤੁਹਾਡੀ ਟਾਸਕ-ਪੱਟੀ ਵਿੱਚ ਜੋੜੋ
