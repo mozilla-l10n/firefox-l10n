@@ -806,6 +806,23 @@ urlbar-result-weather-provider-sponsored = { $provider } · დამკვე�
 
 # This string is shown as title when Market suggestion are disabled.
 urlbar-result-market-opt-in-title = მიიღეთ საფონდო ბირჟის მონაცემები პირდაპირ საძიებო ველში
+# This string is shown as description when Market suggestion are disabled.
+urlbar-result-market-opt-in-description = ბაზრის სიახლეებსა და მსგავს ინფორმაციას იხილავთ ჩვენი მოკავშირეებისგან, როცა თქვენი ნებართვით საძიებო სიტყვებს გაეცნობა { -vendor-short-name }. <a data-l10n-name="learn-more-link">ვრცლად</a>
+# This string is shown as button to activate online when realtime suggestion are disabled.
+urlbar-result-realtime-opt-in-allow = შემოთავაზებების ჩვენება
+# This string is shown in split button to dismiss activation the Realtime suggestion.
+urlbar-result-realtime-opt-in-not-now = ახლა არა
+urlbar-result-realtime-opt-in-dismiss = აცილება
+urlbar-result-realtime-opt-in-dismiss-all =
+    .label = აღარ გამოჩნდეს ამგვარი შემოთავაზებები
+# This string is shown in the result menu.
+urlbar-result-menu-dont-show-market =
+    .label = აღარ გამოჩნდეს ბაზრის შემოთავაზებები
+# A message that replaces a result when the user dismisses Market suggestions.
+urlbar-result-dismissal-acknowledgment-market = გმადლობთ გამოხმაურებისთვის. ბაზრის შესახებ შემოთავაზებებს აღარ იხილავთ.
+# A message that replaces a result when the user dismisses all suggestions of a
+# particular type.
+urlbar-result-dismissal-acknowledgment-all = გმადლობთ გამოხმაურებისთვის. ამგვარ შემოთავაზებებს აღარ იხილავთ.
 
 ## Strings used for buttons in the urlbar
 
@@ -840,6 +857,8 @@ urlbar-searchmode-default =
 urlbar-searchmode-popup-description = ძიებისთვის ამჯერად გამოიყენეთ:
 urlbar-searchmode-popup-search-settings-menuitem =
     .label = ძიების პარამეტრები
+# Label shown next to a new search engine in the Searchmode Switcher popup to promote it.
+urlbar-searchmode-new = სიახლე
 # Searchmode Switcher button
 # Variables:
 #   $engine (String): the current default search engine.
@@ -1167,6 +1186,10 @@ tabs-toolbar-list-all-tabs =
     .label = ყველა ჩანართის სია
     .tooltiptext = ყველა ჩანართის სია
 
+## Drop indicator text for pinned tabs when no tabs are pinned.
+
+pinned-tabs-drop-indicator = ჩავლებით გადმოიტანეთ ჩანართი აქ მისამაგრებლად
+
 ## Infobar shown at startup to suggest session-restore
 
 # <img data-l10n-name="icon"/> will be replaced by the application menu icon
@@ -1337,3 +1360,26 @@ onboarding-checklist-button-label = გამართვის დასრუ�
 onboarding-aw-finish-setup-button =
     .label = გამართვის დასრულება
     .tooltiptext = სრულადაა გამართული { -brand-short-name }
+
+## The urlbar trust panel
+
+trustpanel-etp-label-enabled = თვალთვალისგან გაძლიერებული დაცვა ჩართ.
+trustpanel-etp-label-disabled = თვალთვალისგან გაძლიერებული დაცვა გამორთ.
+# Variables
+#  $host (String): the hostname of the site that is being displayed.
+trustpanel-etp-toggle-on =
+    .aria-label = თვალთვალისგან გაძლიერებული დაცვა: ჩართ. { $host }
+# Variables
+#  $host (String): the hostname of the site that is being displayed.
+trustpanel-etp-toggle-off =
+    .aria-label = თვალთვალისგან გაძლიერებული დაცვა: გამორთ. { $host }
+trustpanel-etp-description-enabled = თუ საიტზე რამე გაუმართავად ჩანს, სინჯეთ გამორთვა.
+trustpanel-etp-description-disabled = { -brand-product-name } მიიჩნევს, რომ კომპანიები ნაკლებად უნდა გადევნებდნენ თვალს. ჩვენ ვზღუდავთ რაც შეიძლება მეტ მეთვალყურეს დაცვის ჩართვისას.
+trustpanel-connection-label-secure = კავშირი დაცულია
+trustpanel-connection-label-insecure = დაუცველი კავშირი
+trustpanel-header-enabled = { -brand-product-name } სადარაჯოზეა
+trustpanel-description-enabled = დაცული ხართ. თუ რამეს შევნიშნავთ, გეცნობებათ.
+trustpanel-header-disabled = გამორთული გაქვთ დაცვა
+trustpanel-description-disabled = { -brand-product-name } უქმადაა. გირჩევთ, კვლავ ჩართოთ დაცვა.
+trustpanel-clear-cookies-button = ფუნთუშებისა და საიტის მონაცემების გასუფთავება
+trustpanel-privacy-link = პირადულობის გამართვა
