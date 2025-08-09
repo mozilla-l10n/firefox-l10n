@@ -3,3 +3,4 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 webrtc-share-preview-button-show = Ema’ẽ hechaha ypy
+webrtc-share-preview-button-hide = Eñomi hechaha ypýre

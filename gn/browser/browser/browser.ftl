@@ -1420,3 +1420,4 @@ trustpanel-list-label-cryptominer =
        *[other] { $count } Criptominero
     }
 trustpanel-social-tracking-tab-list-header = Ko’ã tenda ha’ete nderapykuehoséva:
+trustpanel-tracking-cookies-tab-list-header = Ko’ã tenda ha’ete nderapykuehoséva:
