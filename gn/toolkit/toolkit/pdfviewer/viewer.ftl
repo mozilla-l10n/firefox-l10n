@@ -607,6 +607,8 @@ pdfjs-editor-add-signature-save-checkbox = Eñongatu teraguapy
 pdfjs-editor-add-signature-save-warning-message = Ehupytýma 5 mboheraguapy ñongatupyre. Embogue peteĩ eñongatukuaa jey hag̃ua.
 pdfjs-editor-add-signature-image-upload-error-title = Ndaikatúi ojehupi pe ta’ãnga
 pdfjs-editor-add-signature-image-upload-error-description = Ehechajey ne ñanduti oikópa térã aha’ã ambue ta’ãnga ndive.
+pdfjs-editor-add-signature-image-no-data-error-title = Ndaikatúi ejapo ko ta’ãngágui teraguapy
+pdfjs-editor-add-signature-image-no-data-error-description = Eñeha’ãkena ehupi ambuéva ta’ãnga.
 pdfjs-editor-add-signature-error-close-button = Mboty
 
 ## Dialog buttons
@@ -625,6 +627,8 @@ pdfjs-editor-edit-comment-close-button =
     .title = Mboty
 pdfjs-editor-edit-comment-actions-edit-button-label = Mbosako’i
 pdfjs-editor-edit-comment-actions-delete-button-label = Mboguete
+pdfjs-editor-edit-comment-manager-text-input =
+    .placeholder = Ehai peteĩ je’erei
 pdfjs-editor-edit-comment-manager-cancel-button = Heja
 pdfjs-editor-edit-comment-manager-save-button = Ñongatu
 

@@ -819,6 +819,11 @@ urlbar-result-realtime-opt-in-dismiss-all =
 # This string is shown in the result menu.
 urlbar-result-menu-dont-show-market =
     .label = Ani ehechauka ñemoñe’ẽ ñemuhagua
+# A message that replaces a result when the user dismisses Market suggestions.
+urlbar-result-dismissal-acknowledgment-market = Aguyje ne remiandúre. Nderehechamoʼãvéima je’epy ñemuhaguasugua.
+# A message that replaces a result when the user dismisses all suggestions of a
+# particular type.
+urlbar-result-dismissal-acknowledgment-all = Aguyje ne remiandu rehe. Nderehechamoʼãvéima ko’ã temiandu.
 
 ## Strings used for buttons in the urlbar
 
