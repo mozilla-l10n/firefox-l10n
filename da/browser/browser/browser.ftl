@@ -1404,6 +1404,7 @@ trustpanel-blocked-header = { -brand-product-name } blokerede disse ting for dig
 trustpanel-tracking-header = { -brand-product-name } tillod disse ting, så websteder ikke går i stykker:
 trustpanel-tracking-description = Uden sporings-mekanismer fungerer nogle knapper, formularer og loginfelter muligvis ikke.
 trustpanel-insecure-section-header = Din forbindelse er ikke sikker
+trustpanel-insecure-description = De data, du sender til dette websted, er ikke krypteret. De kan ses, stjæles eller ændres.
 trustpanel-list-label-tracking-cookies =
     { $count ->
         [one] { $count } sporings-cookie på tværs af websteder
