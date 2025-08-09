@@ -51,3 +51,8 @@ experimental-features-link-previews-description-no-ai =
 experimental-features-newtab-sections-follow-block =
     .label = Seções de tópicos e controles de seguir e bloquear em histórias na página de nova aba
 experimental-features-newtab-sections-follow-block-description = Organize as histórias na página nova aba em seções de tópicos (esporte, comida, diversão, etc.) para ter uma experiência mais estruturada e fácil de analisar. Use os novos controles de seguir e bloquear para personalizar que conteúdo aparecer. <a data-l10n-name="connect">Compartilhar opinião</a>
+# Firefox Web Apps
+experimental-features-fx-web-apps =
+    .label = Adicionar sites à barra de tarefas
+# “Add tab to taskbar” is found in the tooltip text of `-taskbar-tab-urlbar-button-open`.
+experimental-features-fx-web-apps-description = Abra sites que você visita com frequência como aplicativos web a partir da barra de tarefas. Procure o ícone "Adicionar aba à barra de tarefas" à direita da barra de endereços para abrir o site em uma janela simplificada, com todas as proteções do { -brand-product-name }. <a data-l10n-name="connect">Compartilhar opinião</a>
