@@ -18,6 +18,7 @@ contextual-manager-passwords-command-import-from-browser = 从其他浏览器导
 contextual-manager-passwords-command-import = 从文件导入…
 contextual-manager-passwords-command-export = 导出密码
 contextual-manager-passwords-command-remove-all = 移除所有密码
+contextual-manager-passwords-command-options = 选项
 contextual-manager-passwords-command-settings = 设置
 contextual-manager-passwords-command-help = 帮助
 contextual-manager-passwords-os-auth-dialog-caption = { -brand-full-name }
@@ -65,6 +66,12 @@ contextual-manager-passwords-import-success-heading =
 #   $added (number) - Number of added passwords
 #   $modified (number) - Number of modified passwords
 contextual-manager-passwords-import-success-message = 已新增 { $added } 个，已更新 { $modified } 个
+# Variables
+#   $added (number) - Number of added passwords
+#   $modified (number) - Number of modified passwords
+#   $no_change (number) - Number of duplicate passwords
+#   $error (number) - Number of invalid passwords
+contextual-manager-passwords-import-success-message-2 = 新增：{ $added } 个、更新：{ $modified } 个、重复：{ $no_change } 个、错误：{ $error } 个
 contextual-manager-passwords-import-detailed-report = 查看详细报告
 contextual-manager-passwords-import-success-button = 完成
 contextual-manager-passwords-import-error-heading-and-message =
@@ -151,6 +158,8 @@ contextual-manager-passwords-password-already-exists-error-button = 转到密码
 contextual-manager-passwords-update-password-success-heading =
     .heading = 密码已保存
 contextual-manager-passwords-update-password-success-button = 完成
+contextual-manager-passwords-update-username-success-heading-2 =
+    .heading = 用户名已添加
 contextual-manager-passwords-update-username-success-heading =
     .heading = 用户名已保存
 # Message to confirm successful removal of a password/passwords.
@@ -204,12 +213,15 @@ contextual-manager-passwords-title = 密码
 
 contextual-manager-passwords-create-label =
     .label = 添加密码
+contextual-manager-passwords-update-label =
+    .label = 更新密码
 contextual-manager-passwords-edit-label =
     .label = 编辑密码
 contextual-manager-passwords-remove-label =
     .title = 移除密码
 contextual-manager-passwords-origin-tooltip = 输入此网站的准确登录地址。
 contextual-manager-passwords-username-tooltip = 输入用于登录的用户名、邮箱地址或账号。
+contextual-manager-passwords-password-tooltip-2 = 输入密码以登录此账户。
 contextual-manager-passwords-password-tooltip = 输入用于登录此账户的密码。
 
 ## Password Card

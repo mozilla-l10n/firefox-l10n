@@ -113,11 +113,13 @@ addon-install-error-corrupt-file = 从该网站下载的附加组件似乎已损
 addon-install-error-file-access = “{ $addonName }”未能安装，因为 { -brand-short-name } 无法修改所需的文件。
 addon-install-error-not-signed = { -brand-short-name } 已阻止此网站安装未通过验证的附加组件。
 addon-install-error-invalid-domain = 无法从此位置安装附加组件“{ $addonName }”。
+addon-install-error-no-addon-name-file-access = 无法安装此附加组件，因为 { -brand-short-name } 无法修改所需的文件。
 addon-local-install-error-network-failure = 因为文件系统错误，无法安装该附加组件。
 addon-local-install-error-incorrect-hash = 无法安装此附加组件，因为其不符合 { -brand-short-name } 预期。
 addon-local-install-error-corrupt-file = 该附加组件无法安装，因为它似乎已损坏。
 addon-local-install-error-file-access = “{ $addonName }”未能安装，因为 { -brand-short-name } 无法修改所需的文件。
 addon-local-install-error-not-signed = 此附加组件无法安装，因为它未通过验证。
+addon-local-install-no-addon-name-error-file-access = 无法安装此附加组件，因为 { -brand-short-name } 无法修改所需的文件。
 # Variables:
 #   $appVersion (String): the application version.
 addon-install-error-incompatible = “{ $addonName }”未能安装，因为它与 { -brand-short-name } { $appVersion } 不兼容。

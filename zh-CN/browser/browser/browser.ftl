@@ -797,6 +797,25 @@ urlbar-result-weather-title-city-only = <strong>{ $temperature }°{ $unit }</str
 #       name of a company, organization, or service.
 urlbar-result-weather-provider-sponsored = { $provider } · 赞助
 
+## These strings are used for Realtime suggestions in the urlbar.
+## Market refers to stocks, indexes, and funds.
+
+# This string is shown as title when Market suggestion are disabled.
+urlbar-result-market-opt-in-title = 直接通过搜索栏掌握股市数据
+# This string is shown as button to activate online when realtime suggestion are disabled.
+urlbar-result-realtime-opt-in-allow = 显示建议
+# This string is shown in split button to dismiss activation the Realtime suggestion.
+urlbar-result-realtime-opt-in-not-now = 暂时不要
+urlbar-result-realtime-opt-in-dismiss = 知道了
+urlbar-result-realtime-opt-in-dismiss-all =
+    .label = 不再显示此类建议
+# This string is shown in the result menu.
+urlbar-result-menu-dont-show-market =
+    .label = 不再显示股市建议
+# A message that replaces a result when the user dismisses all suggestions of a
+# particular type.
+urlbar-result-dismissal-acknowledgment-all = 感谢反馈，此类建议将不再显示。
+
 ## Strings used for buttons in the urlbar
 
 # Label prompting user to search with a particular search engine.
@@ -1356,10 +1375,18 @@ trustpanel-clear-cookies-header =
 trustpanel-clear-cookies-description = 移除 Cookie 和网站数据可能会导致网站退出登录或清空购物车。
 trustpanel-clear-cookies-subview-button-clear = 清除
 trustpanel-clear-cookies-subview-button-cancel = 取消
+# Variables
+#  $host (String): the hostname of the site that is being displayed.
+trustpanel-site-information-header =
+    .title = 连接保护：{ $host }
 trustpanel-connection-secure = 您已安全地连接至此网站。
 trustpanel-connection-not-secure = 您并未安全地连接至此网站。
 trustpanel-siteinformation-morelink = 更多网站信息
 trustpanel-blocker-see-all = 查看全部
+# Variables
+#  $host (String): the hostname of the site that is being displayed.
+trustpanel-blocker-header =
+    .title = 跟踪保护：{ $host }
 
 ## Variables
 ##  $count (String): the number of trackers blocked.
