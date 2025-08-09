@@ -125,11 +125,13 @@ addon-install-error-corrupt-file = Pe moĩmbaha oñemboguejýva ko tendágui nda
 addon-install-error-file-access = { $addonName } noñemohendakuaái ndaikatúigui { -brand-short-name } omoambue marandurenda tekotevẽva.
 addon-install-error-not-signed = { -brand-short-name } ojoko ko tendágui omboguejy guive pe add-on ojehechajey’ỹva.
 addon-install-error-invalid-domain = Pe moĩmbaha { $addonName } noñemohendakuaái ko tendaite rupive.
+addon-install-error-no-addon-name-file-access = { -brand-short-name } nomohendakuaái moĩmbaha ndaikatúigui omoambue marandurenda tekotevẽva.
 addon-local-install-error-network-failure = Ko moĩmbaha ndaikatúi oñemohenda oĩgui jejavy apopyvusúpe.
 addon-local-install-error-incorrect-hash = Ko moĩmbaha ndaikatúi oñemohenda ndojokupytýi rupi moĩmbaha { -brand-short-name } oñeha’ãrõvare.
 addon-local-install-error-corrupt-file = Pe moĩmbaha ndaikatúi oñemohenda noĩporãmbái rupi.
 addon-local-install-error-file-access = { $addonName } noñemohendakuaái ndaikatúigui { -brand-short-name } omoambue marandurenda tekotevẽva.
 addon-local-install-error-not-signed = Ko moĩmbaha ndaikatúi oñemohenda ndojehechajeýi rupi.
+addon-local-install-no-addon-name-error-file-access = { -brand-short-name } nomohendakuaái moĩmbaha ndaikatúigui omoambue marandurenda tekotevẽva.
 # Variables:
 #   $appVersion (String): the application version.
 addon-install-error-incompatible = { $addonName } ndaikatúi oñemohenda ndojokupytýi rupi { -brand-short-name } { $appVersion } ndive.
