@@ -183,6 +183,9 @@ permissions-site-localhost-disable-desc = Ez megakadályozza, hogy a fent fel ne
 permissions-site-local-network-window =
     .title = Beállítások –Helyi hálózati eszközök
     .style = { permissions-window2.style }
+permissions-site-local-network-desc = Ezek a webhelyek alkalmazásokhoz és szolgáltatásokhoz kértek hozzáférést a Wi-Fi-jéhez vagy helyi hálózatához csatlakoztatott eszközökön. Kiválaszthatja, hogy engedélyezi vagy letiltja ezt a webhelyek számára.
+permissions-site-local-network-disable-label =
+    .label = A helyi hálózatra csatlakozó eszközök alkalmazásainak és szolgáltatásainak elérésére vonatkozó új kérések blokkolása.
 permissions-site-local-network-disable-desc = Ez megakadályozza, hogy a fent fel nem sorolt weboldalak alkalmazásokhoz és szolgáltatásokhoz kérjenek hozzáférést az Ön Wi-Fi-jéhez csatlakoztatott vagy helyi hálózati eszközökön. Emiatt előfordulhat, hogy egyes weboldalfunkciók nem fognak működni.
 
 ## Site Permissions - Microphone
