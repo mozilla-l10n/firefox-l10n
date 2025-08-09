@@ -66,6 +66,9 @@ cfr-doorhanger-bookmark-fxa-link-text = 立即同步书签...
 cfr-doorhanger-bookmark-fxa-close-btn-tooltip =
     .aria-label = 关闭按钮
     .title = 关闭
+fxa-adoption-addresses-backup-title = 备份保存的地址
+fxa-adoption-credit-cards-backup-title = 备份付款方式
+fxa-adoption-primary-button-label = 注册
 
 ## Protections panel
 
@@ -350,4 +353,5 @@ windows-10-eos-sync-spotlight-primary-label = 备份 { -brand-short-name }
 ## Windows 10 EoS Sync messages group 1 toast notification
 
 windows-10-eos-sync-toast-title = 要升级到 Windows 11？别忘了带上书签和密码。
+windows-10-eos-sync-toast-primary-label = 开始操作
 windows-10-eos-sync-toast-secondary-label = 稍后提醒

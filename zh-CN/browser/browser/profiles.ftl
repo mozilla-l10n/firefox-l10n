@@ -116,6 +116,12 @@ book-avatar-alt =
     .alt = 书本
 briefcase-avatar-alt =
     .alt = 公文包
+# Canvas refers to an artist's painting canvas, not the general material
+canvas-avatar-alt =
+    .alt = 画布
+# Craft refers to hobby arts and crafts, represented by a button/fastener commonly found on clothing like shirts
+craft-avatar-alt =
+    .alt = 手工
 flower-avatar-alt =
     .alt = 花朵
 folder-avatar-alt =
@@ -175,6 +181,11 @@ bike-avatar-alt =
 
 book-avatar = 书本
 briefcase-avatar = 公文包
+# Canvas refers to an artist's painting canvas, not the general material
+canvas-avatar = 画布
+# Craft refers to hobby arts and crafts, represented by a button/fastener commonly found on clothing like shirts
+craft-avatar = 手工
+custom-avatar = 自定义图标
 # Default favicon refers to the generic globe/world icon that appears in browser tabs when a website doesn't have its own favicon.
 default-favicon-avatar = 默认网站图标
 # Diamond refers to the precious stone, not the geometric shape
