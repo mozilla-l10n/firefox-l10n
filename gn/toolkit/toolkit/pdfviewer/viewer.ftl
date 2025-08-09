@@ -302,9 +302,13 @@ pdfjs-web-fonts-disabled = Ñanduti taity oñemongéma: ndaikatumo’ãi eiporu 
 
 pdfjs-editor-free-text-button =
     .title = Moñe’ẽrã
+pdfjs-editor-color-picker-free-text-input =
+    .title = Emoambue moñe’ẽrã sa’y
 pdfjs-editor-free-text-button-label = Moñe’ẽrã
 pdfjs-editor-ink-button =
     .title = Moha’ãnga
+pdfjs-editor-color-picker-ink-input =
+    .title = Emoambue ta’ãnga sa’y
 pdfjs-editor-ink-button-label = Moha’ãnga
 pdfjs-editor-stamp-button =
     .title = Embojuaju térã embosako’i ta’ãnga
@@ -530,6 +534,7 @@ pdfjs-editor-alt-text-settings-close-button = Mboty
 
 ## Accessibility labels (announced by screen readers) for objects added to the editor.
 
+pdfjs-editor-highlight-added-alert = Techaukarã juajupyre
 pdfjs-editor-freetext-added-alert = Moñe’ẽrã juajupyre
 pdfjs-editor-ink-added-alert = Ta’ãnga juajupyre
 pdfjs-editor-stamp-added-alert = Ta’ãnga juajupyre

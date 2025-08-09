@@ -79,7 +79,7 @@ policy-ExtensionSettings = Håndter alle aspekter af udvidelses-installering.
 policy-ExtensionUpdate = Slå automatisk opdatering af udvidelser til eller fra.
 policy-FirefoxHome2 = Konfigurer { -firefox-home-brand-name }.
 policy-FirefoxSuggest = Konfigurer { -firefox-suggest-brand-name }.
-policy-GoToIntranetSiteForSingleWordEntryInAddressBar = Gennemtving direkte intranet-navigation fremfor søgning, når der indtastes enkelte ord i adresselinjen.
+policy-GoToIntranetSiteForSingleWordEntryInAddressBar = Gennemtving direkte intranet-navigering fremfor søgning, når der indtastes enkelte ord i adresselinjen.
 policy-Handlers = Indstil håndtering af standard-applikationer.
 policy-HardwareAcceleration = False slår hardware-acceleration fra.
 # “lock” means that the user won’t be able to change this setting

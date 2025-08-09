@@ -675,7 +675,7 @@ home-prefs-sections-rows-option =
 
 search-bar-header = Søgefelt
 search-bar-hidden =
-    .label = Brug adressefeltet til søgning og navigation
+    .label = Brug adressefeltet til søgning og navigering
 search-bar-shown =
     .label = Tilføj søgefeltet til værktøjslinjen
 search-engine-default-header = Standard-søgetjeneste
