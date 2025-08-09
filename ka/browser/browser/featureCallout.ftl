@@ -34,6 +34,7 @@ continuous-onboarding-firefox-view-tab-pickup-primary-button-label = დაი�
 ## PDF.js Feature Tour Strings
 
 callout-pdfjs-edit-title = ჩაასწორეთ PDF ჩვენი ახალი ხელსაწყოთი
+callout-pdfjs-edit-body-a = გამოიყენეთ { -brand-short-name } და შიგნითვე შეავსეთ კითხვარები, დაურთეთ შენიშვნები ან მოხაზეთ ნაწერი.
 callout-pdfjs-edit-body-b = ნუღარ მოიძიებთ ინტერნეტში უფასოდ ჩასწორების საშუალებებს. გამოიყენეთ { -brand-short-name } და აქვე შეავსეთ კითხვარები, დაურთეთ შენიშვნები ან მოხაზეთ ნაწერი.
 callout-pdfjs-edit-button = შემდეგ
 callout-pdfjs-draw-title = მოაწერეთ ხელი დოკუმენტს ჩვენი ხაზვის ხელსაწყოთი.
@@ -110,6 +111,13 @@ fxa-adoption-passwords-title = პაროლი შენახულია. �
 fxa-adoption-passwords-subtitle = დაიცავით თქვენი პაროლები დაშიფრულად დასინქრონებით სხვადასხვა მოწყობილობაზე.
 # Opens Mozilla accounts sign-up page
 fxa-adoption-passwords-primary-button-label = ანგარიშის შექმნა
+
+## Windows 10 EoS Sync messages group 1 callouts
+
+windows-10-eos-sync-urgency-title-1 = ნუ დაკარგავთ შენახულ მონაცემებს, როცა დააპირებთ დააყენოთ Windows 11.
+windows-10-eos-sync-urgency-subtitle-1 = დაასინქრონეთ ახლავე და { -brand-short-name } უსაფრთხოდ შეინარჩუნებს თქვენს სანიშნებს, პაროლებსა და პარამეტრებს ადვილად აღდგენისთვის.
+windows-10-eos-sync-urgency-title-2 = აპირებთ დატოვოთ Windows 10? დაიცავით თქვენი მონაცემები გადასვლისას.
+windows-10-eos-sync-urgency-subtitle-2 = მაშინაც კი, თუ ყოველდღიურობისთვის არ გესაჭიროებათ { -brand-short-name }, დასინქრონება გამოგადგებათ სანიშნებისა და პაროლების უსაფრთხოებისა და ხელმისაწვდომობისთვის.
 
 ## Sidebar Strings
 

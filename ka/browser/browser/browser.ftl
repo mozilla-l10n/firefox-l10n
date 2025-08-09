@@ -1443,3 +1443,53 @@ trustpanel-social-tracking-blocking-tab-header =
         [one] { -brand-product-name } ზღუდავს სოცქსელის { $count } მეთვალყურეს
        *[other] { -brand-product-name } ზღუდავს სოცქსელის { $count } მეთვალყურეს
     }
+trustpanel-social-tracking-not-blocking-tab-header =
+    { $count ->
+        [one] { -brand-product-name } ნებას რთავს სოცქსელის { $count } მეთვალყურეს
+       *[other] { -brand-product-name } ნებას რთავს სოცქსელის { $count } მეთვალყურეს
+    }
+trustpanel-social-tracking-tab-list-header = მოცემული საიტები ცდილობს თვალის დევნებას:
+trustpanel-tracking-cookies-blocking-tab-header =
+    { $count ->
+        [one] { -brand-product-name } ზღუდავს { $count } საიტთაშორის მეთვალყურეს
+       *[other] { -brand-product-name } ზღუდავს { $count } საიტთაშორის მეთვალყურეს
+    }
+trustpanel-tracking-cookies-not-blocking-tab-header =
+    { $count ->
+        [one] { -brand-product-name } ნებას რთავს { $count } საიტთაშორის მეთვალყურეს
+       *[other] { -brand-product-name } ნებას რთავს { $count } საიტთაშორის მეთვალყურეს
+    }
+trustpanel-tracking-cookies-tab-list-header = მოცემული საიტები ცდილობს თვალის დევნებას:
+trustpanel-tracking-content-blocking-tab-header =
+    { $count ->
+        [one] { -brand-product-name } ზღუდავს { $count } მეთვალყურეს
+       *[other] { -brand-product-name } ზღუდავს { $count } მეთვალყურეს
+    }
+trustpanel-tracking-content-not-blocking-tab-header =
+    { $count ->
+        [one] { -brand-product-name } ნებას რთავს { $count } მეთვალყურეს
+       *[other] { -brand-product-name } ნებას რთავს { $count } მეთვალყურეს
+    }
+trustpanel-tracking-content-tab-list-header = მოცემული საიტები ცდილობს თვალის დევნებას:
+trustpanel-fingerprinter-blocking-tab-header =
+    { $count ->
+        [one] { -brand-product-name } ზღუდავს მომხმარებლის { $count } ამომცნობს
+       *[other] { -brand-product-name } ზღუდავს მომხმარებლის { $count } ამომცნობს
+    }
+trustpanel-fingerprinter-not-blocking-tab-header =
+    { $count ->
+        [one] { -brand-product-name } ნებას რთავს მომხმარებლის { $count } ამომცნობს
+       *[other] { -brand-product-name } ნებას რთავს მომხმარებლის { $count } ამომცნობს
+    }
+trustpanel-fingerprinter-list-header = მოცემული საიტები ცდილობს, გამოგარჩიოთ სხვებისგან:
+trustpanel-cryptominer-blocking-tab-header =
+    { $count ->
+        [one] { -brand-product-name } ზღუდავს { $count } კრიპტოგამომმუშავებელს
+       *[other] { -brand-product-name } ზღუდავს { $count } კრიპტოგამომმუშავებელს
+    }
+trustpanel-cryptominer-not-blocking-tab-header =
+    { $count ->
+        [one] { -brand-product-name } ნებას რთავს { $count } კრიპტოგამომმუშავებელს
+       *[other] { -brand-product-name } ნებას რთავს { $count } კრიპტოგამომმუშავებელს
+    }
+trustpanel-cryptominer-tab-list-header = მოცემული საიტები ცდილობს კრიპტოგამომუშავებას:
