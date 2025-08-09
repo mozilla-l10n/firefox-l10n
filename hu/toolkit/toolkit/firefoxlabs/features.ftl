@@ -51,3 +51,8 @@ experimental-features-link-previews-description-no-ai =
 experimental-features-newtab-sections-follow-block =
     .label = Témaszakaszok és követés/blokkolás az Új lap oldal történeteihez
 experimental-features-newtab-sections-follow-block-description = Szervezze a történeteket az Új lap oldalon témacsoportokba (Sport, Étel, Szórakozás és egyebek) a strukturáltabb és könnyen áttekinthető élmény érdekében. Használja az új Követés és Blokkolás vezérlőket a látott tartalmak testreszabásához. <a data-l10n-name="connect">Visszajelzés megosztása</a>
+# Firefox Web Apps
+experimental-features-fx-web-apps =
+    .label = Webhelyek hozzáadása a tálcához
+# “Add tab to taskbar” is found in the tooltip text of `-taskbar-tab-urlbar-button-open`.
+experimental-features-fx-web-apps-description = Nyissa meg a gyakran felkeresett webhelyeket webalkalmazásként a tálcáról. Keresse a „Lap hozzáadása a tálcához” ikont a címsáv jobb oldalán, hogy a webhelyet egy letisztult ablakban nyissa meg, a { -brand-product-name } összes védelmével együtt. <a data-l10n-name="connect">Visszajelzés megosztása</a>

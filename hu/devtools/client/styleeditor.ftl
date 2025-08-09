@@ -50,11 +50,11 @@ styleeditor-stylesheet-rule-count =
     }
 # Title for the pretty print button in the editor footer.
 styleeditor-pretty-print-button =
-    .title = Formázott kiírás stíluslapja
+    .title = Csinosítás stíluslapja
 # Title for the pretty print button in the editor footer, when it's disabled
 styleeditor-pretty-print-button-disabled =
-    .title = Csak a CSS-fájlok írhatók ki formázottan
+    .title = Csak a CSS-fájlok csinosíthatóak
 # Title for the pretty print button in the editor footer, when it's disabled because
 # the stylesheet is read-only
 styleeditor-pretty-print-button-disabled-read-only =
-    .title = Nem lehet formázni az írásvédett stíluslapot.
+    .title = Nem lehet csinosítani az írásvédett stíluslapot.
