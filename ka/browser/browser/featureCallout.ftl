@@ -118,6 +118,13 @@ windows-10-eos-sync-urgency-title-1 = ნუ დაკარგავთ შე�
 windows-10-eos-sync-urgency-subtitle-1 = დაასინქრონეთ ახლავე და { -brand-short-name } უსაფრთხოდ შეინარჩუნებს თქვენს სანიშნებს, პაროლებსა და პარამეტრებს ადვილად აღდგენისთვის.
 windows-10-eos-sync-urgency-title-2 = აპირებთ დატოვოთ Windows 10? დაიცავით თქვენი მონაცემები გადასვლისას.
 windows-10-eos-sync-urgency-subtitle-2 = მაშინაც კი, თუ ყოველდღიურობისთვის არ გესაჭიროებათ { -brand-short-name }, დასინქრონება გამოგადგებათ სანიშნებისა და პაროლების უსაფრთხოებისა და ხელმისაწვდომობისთვის.
+windows-10-eos-sync-new-device-subtitle-1 = დაასინქრონეთ ახლავე და { -brand-short-name } თან წამოიყოლებს თქვენს სანიშნებს, პაროლებსა და პარამეტრებს, როცა გადახვალთ.
+windows-10-eos-sync-new-device-title-2 = მოწყობილობის შეცვლას აპირებთ? ნუ დაკარგავთ მნიშვნელოვან მასალებს.
+windows-10-eos-sync-new-device-subtitle-2 = არ აქვს მნიშვნელობა, რამდენად ხშირად გადგებათ { -brand-short-name }, დასინქრონება დაიცავს თქვენს სანიშნებს, პაროლებსა და პარამეტრებს.
+windows-10-eos-sync-new-device-primary-label = დასინქრონება ახლავე
+windows-10-eos-sync-general-title-1 = შეინარჩუნეთ { -brand-short-name } თქვენებური
+windows-10-eos-sync-general-subtitle-1 = დაამარქაფეთ და დაასინქრონეთ თქვენი პაროლები, სანიშნები, პარამეტრები და სხვა მონაცემები, რომ შეინარჩუნოთ ის, რაც მნიშვნელოვანი და საიმედოა.
+windows-10-eos-sync-general-title-2 = კარგი დროა პაროლებისა და სანიშნების დასამარქაფებლად.
 
 ## Sidebar Strings
 
