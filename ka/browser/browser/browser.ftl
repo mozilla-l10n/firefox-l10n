@@ -1383,3 +1383,63 @@ trustpanel-header-disabled = გამორთული გაქვთ და�
 trustpanel-description-disabled = { -brand-product-name } უქმადაა. გირჩევთ, კვლავ ჩართოთ დაცვა.
 trustpanel-clear-cookies-button = ფუნთუშებისა და საიტის მონაცემების გასუფთავება
 trustpanel-privacy-link = პირადულობის გამართვა
+# Variables
+#  $host (String): the hostname of the site that is being displayed.
+trustpanel-clear-cookies-header =
+    .title = ფუნთუშებისა და საიტის მონაცემების გასუფთავება საიტისთვის { $host }
+trustpanel-clear-cookies-description = ფუნთუშებისა და საიტის მონაცემების წაშლით შეიძლება გამოხვიდეთ შესული ანგარიშებიდან და დაგიცარიელდეთ საყიდლების კალათები.
+trustpanel-clear-cookies-subview-button-clear = გასუფთავება
+trustpanel-clear-cookies-subview-button-cancel = გაუქმება
+# Variables
+#  $host (String): the hostname of the site that is being displayed.
+trustpanel-site-information-header =
+    .title = კავშირის უსაფრთხოება საიტთან { $host }
+trustpanel-connection-secure = თქვენ საიმედოდ ხართ დაკავშირებული ამ საიტთან.
+trustpanel-connection-not-secure = თქვენი კავშირი ამ საიტთან არაა დაცული.
+trustpanel-siteinformation-morelink = საიტის სხვა მონაცემები
+trustpanel-blocker-see-all = ყველას ნახვა
+# Variables
+#  $host (String): the hostname of the site that is being displayed.
+trustpanel-blocker-header =
+    .title = თვალთვალისგან დაცვა საიტისთვის { $host }
+
+## Variables
+##  $count (String): the number of trackers blocked.
+
+trustpanel-blocker-section-header =
+    { $count ->
+        [one] <span>{ $count }</span> მეთვალყურე შეიზღუდა ამ საიტზე
+       *[other] <span>{ $count }</span> მეთვალყურე შეიზღუდა ამ საიტზე
+    }
+trustpanel-blocker-description = { -brand-product-name } მიიჩნევს, რომ კომპანიები ნაკლებად უნდა გადევნებდნენ თვალს. ასე რომ ჩვენ ვზღუდავთ რაც შეიძლება მეტ მათგანს.
+trustpanel-blocked-header = { -brand-product-name } თქვენთვის ზღუდავს შემდეგს:
+trustpanel-tracking-header = { -brand-product-name } საიტების გაუმართაობის ასარიდებლად არ ზღუდავს შემდეგს:
+trustpanel-tracking-description = მეთვალყურეების შეზღუდვით ზოგიერთმა ღილაკმა, კითხვარის შესავსებმა და ანგარიშზე შესვლის ველებმა შეიძლება ვერ იმუშაოს.
+trustpanel-insecure-section-header = თქვენი კავშირი დაუცველია
+trustpanel-insecure-description = ამ საიტზე შეყვანილი მონაცემები დაუშიფრავია. შეიძლება ვინმე სხვამ იხილოს, მიიტაცოს ან გადააკეთოს.
+trustpanel-list-label-tracking-cookies =
+    { $count ->
+        [one] { $count } საიტთაშორისი მეთვალყურე ფუნთუშა
+       *[other] { $count } საიტთაშორისი მეთვალყურე ფუნთუშა
+    }
+trustpanel-list-label-tracking-content = თვალის მდევნელი შიგთავსი
+trustpanel-list-label-fingerprinter =
+    { $count ->
+        [one] მომხმარებლის { $count } ამომცნობი
+       *[other] მომხმარებლის { $count } ამომცნობი
+    }
+trustpanel-list-label-social-tracking =
+    { $count ->
+        [one] სოცქსელის { $count } მეთვალყურე
+       *[other] სოცქსელის { $count } მეთვალყურე
+    }
+trustpanel-list-label-cryptominer =
+    { $count ->
+        [one] { $count } კრიპტოგამომმუშავებელი
+       *[other] { $count } კრიპტოგამომმუშავებელი
+    }
+trustpanel-social-tracking-blocking-tab-header =
+    { $count ->
+        [one] { -brand-product-name } ზღუდავს სოცქსელის { $count } მეთვალყურეს
+       *[other] { -brand-product-name } ზღუდავს სოცქსელის { $count } მეთვალყურეს
+    }
