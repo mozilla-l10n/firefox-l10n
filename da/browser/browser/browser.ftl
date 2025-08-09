@@ -1364,6 +1364,15 @@ onboarding-aw-finish-setup-button =
 
 ## The urlbar trust panel
 
+trustpanel-etp-label-enabled = Udvidet beskyttelse mod sporing er slået til
+# Variables
+#  $host (String): the hostname of the site that is being displayed.
+trustpanel-etp-toggle-on =
+    .aria-label = Udvidet beskyttelse mod sporing: slået til for { $host }
+# Variables
+#  $host (String): the hostname of the site that is being displayed.
+trustpanel-etp-toggle-off =
+    .aria-label = Udvidet beskyttelse mod sporing: slået fra for { $host }
 trustpanel-etp-description-enabled = Hvis noget på webstedet ikke ser ud til at virke som det skal, så prøv at slå beskyttelse fra.
 trustpanel-etp-description-disabled = { -brand-product-name } mener, at virksomheder bør overvåge dig mindre. Vi blokerer så mange sporings-mekanismer som muligt, når du aktiverer beskyttelse.
 trustpanel-connection-label-secure = Forbindelsen er sikker
@@ -1471,6 +1480,7 @@ trustpanel-fingerprinter-not-blocking-tab-header =
         [one] { -brand-product-name } tillod { $count } fingerprinter
        *[other] { -brand-product-name } tillod { $count } fingerprinters
     }
+trustpanel-fingerprinter-list-header = Disse websteder forsøger at fingerprinte dig:
 trustpanel-cryptominer-blocking-tab-header =
     { $count ->
         [one] { -brand-product-name } blokerede { $count } cryptominer

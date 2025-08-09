@@ -54,3 +54,5 @@ experimental-features-newtab-sections-follow-block-description = Organiser histo
 # Firefox Web Apps
 experimental-features-fx-web-apps =
     .label = Tilføj websteder til din proceslinje
+# “Add tab to taskbar” is found in the tooltip text of `-taskbar-tab-urlbar-button-open`.
+experimental-features-fx-web-apps-description = Åbn websteder, du besøger ofte, som web-apps fra din proceslinje. Find ikonet "Føj faneblad til proceslinjen" til højre for adressefeltet for at åbne webstedet i et optimeret vindue med alle beskyttelsesfunktionerne fra { -brand-product-name }. <a data-l10n-name="connect">Del feedback</a>
