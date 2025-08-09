@@ -158,7 +158,7 @@ tabbrowser-confirm-open-multiple-tabs-checkbox = Averti min se malfermado de plu
 
 tabbrowser-confirm-caretbrowsing-title = Esplorado per montrilo
 tabbrowser-confirm-caretbrowsing-message = Premo de F7 ŝaltas aŭ malŝaltas la esploradon per montrilo. Tiu trajto metas moveblan montrilon en retpaĝojn, kiu permesas al vi elekti tekston per la klavaro. Ĉu vi volas ŝalti la esploradon per montrilo?
-tabbrowser-confirm-caretbrowsing-checkbox = Ne montri ĉi tiun dialogon denove.
+tabbrowser-confirm-caretbrowsing-checkbox = Ne montri tiun ĉi dialogon denove.
 
 ## Confirmation dialog for closing all duplicate tabs
 

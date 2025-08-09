@@ -153,7 +153,7 @@ webrtc-allow-share-screen-and-audio-capture = Ĉu permesi al { $origin } aŭskul
 
 ## Special phrasing for sharing devices when the origin is a file url.
 
-webrtc-allow-share-audio-capture-with-file = Ĉu permesi al tiu ĉi loka dosiero aŭskulti la sonon de ĉi tiu langeto?
+webrtc-allow-share-audio-capture-with-file = Ĉu permesi al tiu ĉi loka dosiero aŭskulti la sonon de tiu ĉi langeto?
 webrtc-allow-share-camera-with-file = Ĉu permesi al tiu ĉi loka dosiero uzi vian filmilon?
 webrtc-allow-share-microphone-with-file = Ĉu permesi al tiu ĉi loka dosieron uzi vian mikrofonon?
 webrtc-allow-share-screen-with-file = Ĉu permesi al tiu ĉi loka dosiero vidi vian ekranon?

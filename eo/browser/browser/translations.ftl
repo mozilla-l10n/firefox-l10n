@@ -63,7 +63,7 @@ translations-panel-settings-never-translate-site =
 ## The translation panel appears from the url bar, and this view is the default
 ## translation view.
 
-translations-panel-header = Ĉu traduki ĉi tiun paĝon?
+translations-panel-header = Ĉu traduki tiun ĉi paĝon?
 translations-panel-translate-button =
     .label = Traduki
 translations-panel-translate-button-loading =
