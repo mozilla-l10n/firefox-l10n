@@ -1364,6 +1364,7 @@ trustpanel-etp-toggle-on =
 trustpanel-etp-toggle-off =
     .aria-label = 增强型跟踪保护：已对 { $host } 关闭
 trustpanel-etp-description-enabled = 若网站功能异常，请尝试关闭保护。
+trustpanel-etp-description-disabled = { -brand-product-name } 认为大公司应该减少对您的跟踪。开启保护功能后，我们将尽可能拦截跟踪器。
 trustpanel-connection-label-secure = 连接安全
 trustpanel-connection-label-insecure = 连接不安全
 trustpanel-header-enabled = { -brand-product-name } 正在防护
@@ -1396,6 +1397,7 @@ trustpanel-blocker-header =
 ##  $count (String): the number of trackers blocked.
 
 trustpanel-blocker-section-header = 已在此网站上拦截 <span>{ $count }</span> 个跟踪器
+trustpanel-blocker-description = { -brand-product-name } 认为大公司应该减少对您的跟踪，所以我们会尽可能拦截跟踪项。
 trustpanel-blocked-header = { -brand-product-name } 为您拦截了以下项目：
 trustpanel-tracking-header = 为使网站正常运作，{ -brand-product-name } 已允许以下项目：
 trustpanel-tracking-description = 拦截跟踪器可能会使某些按钮、表单、登录信息栏无法正常工作。
