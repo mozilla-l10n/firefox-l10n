@@ -803,6 +803,24 @@ urlbar-result-weather-title-city-only = { $city } ਵਿਖੇ <strong>{ $temper
 #       name of a company, organization, or service.
 urlbar-result-weather-provider-sponsored = { $provider } · ਸਪੌਂਸਰ
 
+## These strings are used for Realtime suggestions in the urlbar.
+## Market refers to stocks, indexes, and funds.
+
+# This string is shown as title when Market suggestion are disabled.
+urlbar-result-market-opt-in-title = ਆਪਣੀ ਖੋਜ ਪੱਟੀ ਵਿੱਚ ਸਟਾਕ ਮਾਰਕੀਟ ਡਾਟਾ ਸਿੱਧਾ ਵੇਖੋ
+# This string is shown as button to activate online when realtime suggestion are disabled.
+urlbar-result-realtime-opt-in-allow = ਸੁਝਾਵਾਂ ਨੂੰ ਵੇਖਾਓ
+# This string is shown in split button to dismiss activation the Realtime suggestion.
+urlbar-result-realtime-opt-in-not-now = ਹੁਣੇ ਨਹੀਂ
+urlbar-result-realtime-opt-in-dismiss = ਖ਼ਾਰਜ ਕਰੋ
+urlbar-result-realtime-opt-in-dismiss-all =
+    .label = ਇਹ ਸੁਝਾਅ ਨਾ ਵੇਖਾਓ
+# This string is shown in the result menu.
+urlbar-result-menu-dont-show-market =
+    .label = ਮਾਰਕੀਟ ਸੁਝਾਅ ਨਾ ਵੇਖਾਓ
+# A message that replaces a result when the user dismisses Market suggestions.
+urlbar-result-dismissal-acknowledgment-market = ਤੁਹਾਡੇ ਸੁਝਾਅ ਲਈ ਧੰਨਵਾਦ ਹੈ। ਤੁਸੀਂ ਹੁਣ ਮਾਰਕੀਟ ਸੁਝਾਅ ਨਹੀਂ ਵੇਖੋਗੇ।
+
 ## Strings used for buttons in the urlbar
 
 # Label prompting user to search with a particular search engine.

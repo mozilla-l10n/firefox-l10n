@@ -215,3 +215,7 @@ sidebar-widget-show-sidebar2 =
 sidebar-widget-hide-sidebar2 =
     .tooltiptext = ਬਾਹੀ ਨੂੰ ਓਹਲੇ ਕਰੋ ({ $shortcut })
     .label = ਬਾਹੀ
+# Promotional message displayed in the expanded sidebar state for Vertical Tabs
+# users who do not have any pinned tabs. Indicates that they can drop tabs in
+# this area to pin them.
+sidebar-pins-promo-text = ਜ਼ਰੂਰੀ ਟੈਬਾਂ ਨੂੰ ਆਪਣੀ ਪਹੁੰਚ ਵਿੱਚ ਰੱਖਣ ਵਾਸਤੇ ਉਹਨਾਂ ਨੂੰ ਇੱਥੇ ਰੱਖੋ
