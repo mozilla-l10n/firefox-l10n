@@ -809,6 +809,8 @@ urlbar-result-weather-provider-sponsored = { $provider } ∙ Szponzorálva
 
 # This string is shown as title when Market suggestion are disabled.
 urlbar-result-market-opt-in-title = Szerezzen tőzsdei adatokat közvetlenül a keresősávban
+# This string is shown as description when Market suggestion are disabled.
+urlbar-result-market-opt-in-description = Pénzpiaci hírek és egyebek megjelenítése a partnereinktől, ha megosztja a keresési adatokat a { -vendor-short-name(ending: "accented") }val. <a data-l10n-name="learn-more-link">További tudnivalók</a>
 # This string is shown as button to activate online when realtime suggestion are disabled.
 urlbar-result-realtime-opt-in-allow = Javaslatok megjelenítése
 # This string is shown in split button to dismiss activation the Realtime suggestion.
