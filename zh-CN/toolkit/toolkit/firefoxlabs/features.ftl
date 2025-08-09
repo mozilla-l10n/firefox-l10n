@@ -54,3 +54,5 @@ experimental-features-newtab-sections-follow-block-description = 将新标签页
 # Firefox Web Apps
 experimental-features-fx-web-apps =
     .label = 将网站添加到任务栏
+# “Add tab to taskbar” is found in the tooltip text of `-taskbar-tab-urlbar-button-open`.
+experimental-features-fx-web-apps-description = 通过任务栏，以 Web 应用形式打开常用网站。点击地址栏右侧的“添加标签页到任务栏”图标，即可在简化窗口中启动相应网站，同时仍能获得 { -brand-product-name } 的所有保护。<a data-l10n-name="connect">分享反馈</a>
