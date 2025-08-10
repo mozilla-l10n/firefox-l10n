@@ -813,6 +813,23 @@ urlbar-result-weather-provider-sponsored = { $provider } · Sponsorowane
 
 # This string is shown as title when Market suggestion are disabled.
 urlbar-result-market-opt-in-title = Wyświetlaj dane giełdowe bezpośrednio na pasku adresu
+# This string is shown as description when Market suggestion are disabled.
+urlbar-result-market-opt-in-description = Wyświetlaj dane giełdowe i nie tylko od naszych partnerów, kiedy udostępniasz { -vendor-short-name(case: "dat") } informacje o wyszukiwaniach. <a data-l10n-name="learn-more-link">Więcej informacji</a>
+# This string is shown as button to activate online when realtime suggestion are disabled.
+urlbar-result-realtime-opt-in-allow = Wyświetlaj podpowiedzi
+# This string is shown in split button to dismiss activation the Realtime suggestion.
+urlbar-result-realtime-opt-in-not-now = Nie teraz
+urlbar-result-realtime-opt-in-dismiss = Zamknij
+urlbar-result-realtime-opt-in-dismiss-all =
+    .label = Nie pokazuj tych podpowiedzi
+# This string is shown in the result menu.
+urlbar-result-menu-dont-show-market =
+    .label = Nie pokazuj danych giełdowych
+# A message that replaces a result when the user dismisses Market suggestions.
+urlbar-result-dismissal-acknowledgment-market = Dziękujemy za opinię. Nie będziemy już pokazywać danych giełdowych.
+# A message that replaces a result when the user dismisses all suggestions of a
+# particular type.
+urlbar-result-dismissal-acknowledgment-all = Dziękujemy za opinię. Nie będziemy już pokazywać tych podpowiedzi.
 
 ## Strings used for buttons in the urlbar
 
@@ -847,6 +864,8 @@ urlbar-searchmode-default =
 urlbar-searchmode-popup-description = Tym razem szukaj w:
 urlbar-searchmode-popup-search-settings-menuitem =
     .label = Ustawienia wyszukiwania
+# Label shown next to a new search engine in the Searchmode Switcher popup to promote it.
+urlbar-searchmode-new = Nowe
 # Searchmode Switcher button
 # Variables:
 #   $engine (String): the current default search engine.
@@ -1174,6 +1193,10 @@ tabs-toolbar-list-all-tabs =
     .label = Pokaż wszystkie karty
     .tooltiptext = Pokaż wszystkie karty
 
+## Drop indicator text for pinned tabs when no tabs are pinned.
+
+pinned-tabs-drop-indicator = Przeciągnij tu kartę, aby ją przypiąć
+
 ## Infobar shown at startup to suggest session-restore
 
 # <img data-l10n-name="icon"/> will be replaced by the application menu icon
@@ -1350,3 +1373,26 @@ onboarding-checklist-button-label = Dokończ konfigurację
 onboarding-aw-finish-setup-button =
     .label = Dokończ konfigurację
     .tooltiptext = Dokończ konfigurowanie { -brand-short-name(case: "gen") }
+
+## The urlbar trust panel
+
+trustpanel-etp-label-enabled = Wzmocniona ochrona przed śledzeniem jest włączona
+trustpanel-etp-label-disabled = Wzmocniona ochrona przed śledzeniem jest wyłączona
+# Variables
+#  $host (String): the hostname of the site that is being displayed.
+trustpanel-etp-toggle-on =
+    .aria-label = Wzmocniona ochrona przed śledzeniem: włączona na witrynie { $host }
+# Variables
+#  $host (String): the hostname of the site that is being displayed.
+trustpanel-etp-toggle-off =
+    .aria-label = Wzmocniona ochrona przed śledzeniem: wyłączona na witrynie { $host }
+trustpanel-etp-description-enabled = Jeśli coś na tej witrynie nie działa, spróbuj wyłączyć ochronę.
+trustpanel-etp-description-disabled = { -brand-product-name } uważa, że firmy powinny mniej Cię śledzić. Kiedy włączysz ochronę, blokujemy jak najwięcej elementów śledzących.
+trustpanel-connection-label-secure = Zabezpieczone połączenie
+trustpanel-connection-label-insecure = Niezabezpieczone połączenie
+trustpanel-header-enabled = { -brand-product-name } jest na straży
+trustpanel-description-enabled = Ochrona jest włączona. Jeśli coś zauważymy, damy Ci znać.
+trustpanel-header-disabled = Wyłączono ochronę
+trustpanel-description-disabled = { -brand-product-name } jest po służbie. Zalecamy ponowne włączenie ochrony.
+trustpanel-clear-cookies-button = Wyczyść ciasteczka i dane witryny
+trustpanel-privacy-link = Ustawienia prywatności
