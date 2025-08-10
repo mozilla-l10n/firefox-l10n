@@ -141,6 +141,10 @@ urlbar-default-notification-anchor =
     .tooltiptext = Avaa viestipaneeli
 urlbar-geolocation-notification-anchor =
     .tooltiptext = Avaa paikannustietojen pyyntöpaneeli
+urlbar-localhost-notification-anchor =
+    .tooltiptext = Hallinnoi paikallisten laitteiden pääsyä tälle sivustolle
+urlbar-local-network-notification-anchor =
+    .tooltiptext = Hallinnoi lähiverkon pääsyn jakamista tämän sivuston kanssa
 urlbar-xr-notification-anchor =
     .tooltiptext = Avaa virtuaalitodellisuuden käyttöoikeuspaneeli
 urlbar-storage-access-anchor =
@@ -241,6 +245,10 @@ urlbar-search-mode-actions = Toiminnot
 
 urlbar-geolocation-blocked =
     .tooltiptext = Olet estänyt sijaintitiedot tältä sivustolta.
+urlbar-localhost-blocked =
+    .tooltiptext = Olet estänyt paikallisten laitteiden yhteydet tälle verkkosivustolle.
+urlbar-local-network-blocked =
+    .tooltiptext = Olet estänyt paikallisverkon yhteydet tälle verkkosivustolle.
 urlbar-xr-blocked =
     .tooltiptext = Olet estänyt virtuaalitodellisuuslaitteen käytön tältä sivustolta.
 urlbar-web-notifications-blocked =
@@ -797,6 +805,10 @@ urlbar-result-weather-provider-sponsored = { $provider } · Sponsoroitu
 ## These strings are used for Realtime suggestions in the urlbar.
 ## Market refers to stocks, indexes, and funds.
 
+# This string is shown as title when Market suggestion are disabled.
+urlbar-result-market-opt-in-title = Hanki osakemarkkinatietoja suoraan hakupalkkiin
+# This string is shown as description when Market suggestion are disabled.
+urlbar-result-market-opt-in-description = Näytä markkinapäivityksiä ja muuta kumppaneiltamme, kun jaat hakukyselytietoja toimijan { -vendor-short-name } kanssa. <a data-l10n-name="learn-more-link">Lisätietoja</a>
 # This string is shown as button to activate online when realtime suggestion are disabled.
 urlbar-result-realtime-opt-in-allow = Näytä ehdotukset
 # This string is shown in split button to dismiss activation the Realtime suggestion.
@@ -804,6 +816,14 @@ urlbar-result-realtime-opt-in-not-now = Ei nyt
 urlbar-result-realtime-opt-in-dismiss = Hylkää
 urlbar-result-realtime-opt-in-dismiss-all =
     .label = Älä näytä näitä ehdotuksia
+# This string is shown in the result menu.
+urlbar-result-menu-dont-show-market =
+    .label = Älä näytä osakemarkkinaehdotuksia
+# A message that replaces a result when the user dismisses Market suggestions.
+urlbar-result-dismissal-acknowledgment-market = Kiitos palautteestasi. Et enää näe osakemarkkinaehdotuksia.
+# A message that replaces a result when the user dismisses all suggestions of a
+# particular type.
+urlbar-result-dismissal-acknowledgment-all = Kiitos palautteestasi. Et enää näe näitä ehdotuksia.
 
 ## Strings used for buttons in the urlbar
 
@@ -838,6 +858,8 @@ urlbar-searchmode-default =
 urlbar-searchmode-popup-description = Tällä kertaa käytä hakuun:
 urlbar-searchmode-popup-search-settings-menuitem =
     .label = Hakuasetukset
+# Label shown next to a new search engine in the Searchmode Switcher popup to promote it.
+urlbar-searchmode-new = Uusi
 # Searchmode Switcher button
 # Variables:
 #   $engine (String): the current default search engine.
@@ -1165,6 +1187,10 @@ tabs-toolbar-list-all-tabs =
     .label = Listaa kaikki välilehdet
     .tooltiptext = Listaa kaikki välilehdet
 
+## Drop indicator text for pinned tabs when no tabs are pinned.
+
+pinned-tabs-drop-indicator = Pudota välilehti tähän kiinnittääksesi sen
+
 ## Infobar shown at startup to suggest session-restore
 
 # <img data-l10n-name="icon"/> will be replaced by the application menu icon
@@ -1338,8 +1364,30 @@ onboarding-aw-finish-setup-button =
 
 ## The urlbar trust panel
 
+trustpanel-etp-label-enabled = Tehostettu seurannan suojaus on päällä
+trustpanel-etp-label-disabled = Tehostettu seurannan suojaus ei ole päällä
+# Variables
+#  $host (String): the hostname of the site that is being displayed.
+trustpanel-etp-toggle-on =
+    .aria-label = Tehostettu seurannan suojaus: Käytössä sivustolla { $host }
+# Variables
+#  $host (String): the hostname of the site that is being displayed.
+trustpanel-etp-toggle-off =
+    .aria-label = Tehostettu seurannan suojaus: Ei käytössä sivustolla { $host }
+trustpanel-etp-description-enabled = Jos jokin näyttää olevan rikki tällä sivustolla, yritä poistaa suojaukset käytöstä.
+trustpanel-etp-description-disabled = { -brand-product-name } on sitä mieltä, että yritysten tulisi seurata sinua vähemmän. Estämme niin monta seurainta kuin mahdollista, kun otat suojaukset käyttöön.
 trustpanel-connection-label-secure = Yhteys on suojattu
 trustpanel-connection-label-insecure = Yhteys ei ole suojattu
+trustpanel-header-enabled = { -brand-product-name } on valppaana
+trustpanel-description-enabled = Olet suojattu. Jos havaitsemme jotain, ilmoitamme sinulle
+trustpanel-header-disabled = Poistit suojaukset käytöstä
+trustpanel-description-disabled = { -brand-product-name } ei ole työvuorossa. Suosittelemme suojausten kytkemistä takaisin päälle.
+trustpanel-clear-cookies-button = Tyhjennä evästeet ja sivustotiedot
+trustpanel-privacy-link = Tietosuoja-asetukset
+# Variables
+#  $host (String): the hostname of the site that is being displayed.
+trustpanel-clear-cookies-header =
+    .title = Tyhjennä evästeet ja sivustotiedot sivuston { $host } osalta
 trustpanel-clear-cookies-subview-button-clear = Tyhjennä
 trustpanel-clear-cookies-subview-button-cancel = Peruuta
 
