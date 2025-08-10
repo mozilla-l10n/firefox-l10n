@@ -1010,6 +1010,8 @@ navbar-accessible =
     .aria-label = ন্যাভিগেশন
 navbar-downloads =
     .label = ডাউনলোড
+navbar-overflow-2 =
+    .tooltiptext = আরও টুলস
 navbar-overflow =
     .tooltiptext = আরও সরঞ্জাম…
 # Variables:
@@ -1042,6 +1044,10 @@ tabs-toolbar-list-all-tabs =
 restore-session-startup-suggestion-message = <strong>পূর্ববর্তী ট্যাবগুলি খুলবেন?</strong> আপনি { -brand-short-name } অ্যাপ্লিকেশন মেনুতে গিয়ে <img data-l10n-name="icon"/>, ইতিহাস থেকে আপনার আগের সেশন পুনরুদ্ধার করতে পারেন।
 restore-session-startup-suggestion-button = আমাকে দেখান কিভাবে
 
+## Infobar shown when the user tries to open a file picker and file pickers are blocked by enterprise policy
+
+filepicker-blocked-infobar = আপনার সংস্থা এই কম্পিউটারে লোকাল ফাইলগুলিতে অ্যাক্সেস ব্লক করেছে
+
 ## Mozilla data reporting notification (Telemetry, Firefox Health Report, etc)
 
 data-reporting-notification-message = { -brand-short-name } স্বয়ংক্রিয়ভাবে { -vendor-short-name } কে কিছু তথ্য প্রেরণ করে যাতে আমরা আপনার অভিজ্ঞতা উন্নত করতে পারি।
@@ -1057,6 +1063,8 @@ content-analysis-panel-title = তথ্য সুরক্ষা
 
 ## Private browsing reset button
 
+reset-pbm-panel-heading = আপনার প্রাইভেট সেশন শেষ করবেন?
+reset-pbm-panel-description = সব প্রাইভেট ট্যাব বন্ধ করুন এবং হিস্টরি, কুকি এবং অন্যান্য সকল সাইট ডেটা মুছে ফেলুন।
 reset-pbm-panel-complete = ব্যক্তিগত সেশনের তথ্য মুছে ফেলা হয়েছে
 
 ## Autorefresh blocker
