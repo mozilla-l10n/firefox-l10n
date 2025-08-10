@@ -1130,10 +1130,28 @@ file-picker-failed-open = Windows ফাইল-ডায়লগ খোলা য�
 # `downloads-cmd-show-menuitem-2` and similar messages.
 
 
+## Onboarding Finish Setup checklist
+
+onboarding-checklist-button-label = সেটআপ শেষ করুন
+
 ## The urlbar trust panel
 
 trustpanel-connection-label-secure = সংযোগ সুরক্ষিত
 trustpanel-connection-label-insecure = সংযোগ নিরাপদ নয়
 trustpanel-header-disabled = আপনি সুরক্ষা বন্ধ করে দিয়েছেন
+trustpanel-clear-cookies-button = কুকি ও সাইট ডেটা মুছে ফেলুন
+trustpanel-privacy-link = প্রাইভেসি সেটিংস
 trustpanel-clear-cookies-subview-button-cancel = বাতিল
+trustpanel-siteinformation-morelink = আরও সাইটের তথ্য
 trustpanel-blocker-see-all = সব দেখুন
+
+## Variables
+##  $count (String): the number of trackers blocked.
+
+trustpanel-insecure-section-header = আপনার সংযোগ নিরাপদ নয়
+trustpanel-list-label-tracking-content = ট্র্যাকিং কন্টেন্ট
+trustpanel-social-tracking-tab-list-header = এই সাইটগুলি আপনাকে ট্র্যাক করার চেষ্টা করছে:
+trustpanel-tracking-cookies-tab-list-header = এই সাইটগুলি আপনাকে ট্র্যাক করার চেষ্টা করছে:
+trustpanel-tracking-content-tab-list-header = এই সাইটগুলি আপনাকে ট্র্যাক করার চেষ্টা করছে:
+trustpanel-fingerprinter-list-header = এই সাইটগুলো আপনার ফিঙ্গারপ্রিন্ট নেওয়ার চেষ্টা করছে:
+trustpanel-cryptominer-tab-list-header = এই সাইটগুলো ক্রিপ্টো মাইনিং করার চেষ্টা করছে:
