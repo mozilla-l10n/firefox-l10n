@@ -57,7 +57,7 @@ firefox-relay-and-fxa-opt-in-confirmation-postpone =
 ## The "control" variation of the Relay offer popup
 
 firefox-relay-and-fxa-popup-notification-second-sentence-control = Først må du registrere deg eller logge inn på kontoen din for å bruke et e-postalias
-firefox-relay-offer-legal-notice-control = Ved å registrere deg og opprette et e-postalias, godtar du <label data-l10n-name="tos-url">tjenestevilkårene</label> og <label data-l10n-name="privacy-url">personvernerklæringen</label>.
+firefox-relay-offer-legal-notice-control = Ved å registrere deg og opprette et e-postalias, godtar du <label data-l10n-name="tos-url">bruksvilkårene</label> og <label data-l10n-name="privacy-url">personvernerklæringen</label>.
 
 ## The "basic-info" variation of the Relay offer popup
 
