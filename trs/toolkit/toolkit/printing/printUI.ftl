@@ -92,6 +92,16 @@ printui-primary-button = Nārī ñadu’ua
 printui-primary-button-save = Na'nïnj sà'
 printui-cancel-button = Dūyichin'
 printui-close-button = Narán
+printui-loading = ‘Hiaj yūgui dàj gūruguì’ man
+# Reported by screen readers and other accessibility tools to indicate that
+# the print preview has focus.
+printui-preview-label =
+    .aria-label = Dàj gā man si Nārit ñadū'hua
+printui-pages-per-sheet = Nej pajinâ gānikāj ñanj
+# This is shown next to the Print button with an indefinite loading spinner
+# when the user prints a page and it is being sent to the printer.
+printui-print-progress-indicator = Narij ñadū’hua ñanj…
+printui-print-progress-indicator-saving = Na'nïn sà'aj...
 
 ## Paper sizes that may be supported by the Save to PDF destination:
 
