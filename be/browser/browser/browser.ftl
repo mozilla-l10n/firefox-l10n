@@ -808,6 +808,24 @@ urlbar-result-weather-title-city-only = <strong>{ $temperature }°{ $unit }</str
 #       name of a company, organization, or service.
 urlbar-result-weather-provider-sponsored = { $provider } · Спонсар
 
+## These strings are used for Realtime suggestions in the urlbar.
+## Market refers to stocks, indexes, and funds.
+
+# This string is shown as title when Market suggestion are disabled.
+urlbar-result-market-opt-in-title = Атрымлівайце звесткі фондавага рынку прама ў радку пошуку
+# This string is shown as description when Market suggestion are disabled.
+urlbar-result-market-opt-in-description = Паказваць навіны рынку і іншую інфармацыю ад нашых партнёраў, калі вы дзеліцеся дадзенымі пошукавых запытаў з { -vendor-short-name }. <a data-l10n-name="learn-more-link">Даведацца больш</a>
+# This string is shown as button to activate online when realtime suggestion are disabled.
+urlbar-result-realtime-opt-in-allow = Паказваць прапановы
+# This string is shown in split button to dismiss activation the Realtime suggestion.
+urlbar-result-realtime-opt-in-not-now = Не зараз
+urlbar-result-realtime-opt-in-dismiss = Адхіліць
+urlbar-result-realtime-opt-in-dismiss-all =
+    .label = Не паказваць гэтыя прапановы
+# This string is shown in the result menu.
+urlbar-result-menu-dont-show-market =
+    .label = Не паказваць прапановы па рынку
+
 ## Strings used for buttons in the urlbar
 
 # Label prompting user to search with a particular search engine.
