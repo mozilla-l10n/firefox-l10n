@@ -1427,6 +1427,41 @@ trustpanel-blocker-section-header =
     }
 trustpanel-blocker-description = { -brand-product-name } лічыць, што кампаніі павінны менш сачыць за вамі. Таму мы блакуем столькі, колькі можам.
 trustpanel-blocked-header = { -brand-product-name } заблакаваў для вас наступнае:
+trustpanel-tracking-header = { -brand-product-name } дазволіў наступныя рэчы, каб сайты не зламаліся:
+trustpanel-tracking-description = Без трэкераў некаторыя кнопкі, формы і палі ўваходу могуць не працаваць.
+trustpanel-insecure-section-header = Ваша злучэнне не бяспечнае
+trustpanel-insecure-description = Дадзеныя, якія вы адпраўляеце на гэты сайт, не зашыфраваныя. Іх могуць паглядзець, украсці або змяніць.
+trustpanel-list-label-tracking-cookies =
+    { $count ->
+        [one] { $count } міжсайтавы кукі сачэння
+        [few] { $count } міжсайтавыя кукі сачэння
+       *[many] { $count } міжсайтавых кукі сачэння
+    }
+trustpanel-list-label-tracking-content = Элементы сачэння
+trustpanel-list-label-fingerprinter =
+    { $count ->
+        [one] { $count } збіральнік лічбавых адбіткаў
+        [few] { $count } збіральнікі лічбавых адбіткаў
+       *[many] { $count } збіральнікаў лічбавых адбіткаў
+    }
+trustpanel-list-label-social-tracking =
+    { $count ->
+        [one] { $count } трэкер сацыяльных сетак
+        [few] { $count } трэкеры сацыяльных сетак
+       *[many] { $count } трэкераў сацыяльных сетак
+    }
+trustpanel-list-label-cryptominer =
+    { $count ->
+        [one] { $count } крыптамайнер
+        [few] { $count } крыптамайнеры
+       *[many] { $count } крыптамайнераў
+    }
+trustpanel-social-tracking-blocking-tab-header =
+    { $count ->
+        [one] { -brand-product-name } заблакаваў { $count } трэкер сацыяльных сетак
+        [few] { -brand-product-name } заблакаваў { $count } трэкеры сацыяльных сетак
+       *[many] { -brand-product-name } заблакаваў { $count } трэкераў сацыяльных сетак
+    }
 trustpanel-tracking-cookies-tab-list-header = Гэтыя сайты спрабуюць вас асачыць:
 trustpanel-tracking-content-blocking-tab-header =
     { $count ->
