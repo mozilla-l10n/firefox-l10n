@@ -51,3 +51,6 @@ experimental-features-link-previews-description-no-ai =
 experimental-features-newtab-sections-follow-block =
     .label = Тэматычныя раздзелы і падпіска/блакаванне для гісторый новай карткі
 experimental-features-newtab-sections-follow-block-description = Арганізуйце артыкулы на старонцы новай карткі па тэматычных раздзелах (Спорт, Ежа, Забавы і іншае) для больш структураванага і зручнага прагляду. Выкарыстоўвайце нашы новыя элементы кіравання "Падпісацца" і "Блакаваць", каб наладзіць змесціва, якое вы бачыце. <a data-l10n-name="connect">Падзяліцца водгукам</a>
+# Firefox Web Apps
+experimental-features-fx-web-apps =
+    .label = Дадайце сайты на панэль задач

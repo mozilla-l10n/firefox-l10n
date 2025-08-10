@@ -18,6 +18,7 @@ contextual-manager-passwords-command-import-from-browser = Імпартавац�
 contextual-manager-passwords-command-import = Імпартаваць з файла…
 contextual-manager-passwords-command-export = Экспартаваць паролі
 contextual-manager-passwords-command-remove-all = Выдаленне усіх пароляў
+contextual-manager-passwords-command-options = Налады
 contextual-manager-passwords-command-settings = Налады
 contextual-manager-passwords-command-help = Даведка
 contextual-manager-passwords-os-auth-dialog-caption = { -brand-full-name }
@@ -167,6 +168,8 @@ contextual-manager-passwords-password-already-exists-error-button = Перайс
 contextual-manager-passwords-update-password-success-heading =
     .heading = Пароль захаваны
 contextual-manager-passwords-update-password-success-button = Гатова
+contextual-manager-passwords-update-username-success-heading-2 =
+    .heading = Імя карыстальніка дададзена
 contextual-manager-passwords-update-username-success-heading =
     .heading = Імя карыстальніка захавана
 # Message to confirm successful removal of a password/passwords.
@@ -222,12 +225,15 @@ contextual-manager-passwords-title = Паролі
 
 contextual-manager-passwords-create-label =
     .label = Дадаць пароль
+contextual-manager-passwords-update-label =
+    .label = Абнавіць пароль
 contextual-manager-passwords-edit-label =
     .label = Змяніць пароль
 contextual-manager-passwords-remove-label =
     .title = Выдаліць пароль
 contextual-manager-passwords-origin-tooltip = Увядзіце дакладны адрас, дзе вы будзеце ўваходзіць на гэты сайт.
 contextual-manager-passwords-username-tooltip = Увядзіце імя карыстальніка, адрас электроннай пошты або нумар уліковага запісу, які вы выкарыстоўваеце для ўваходу.
+contextual-manager-passwords-password-tooltip-2 = Увядзіце пароль для ўваходу ў гэты ўліковы запіс.
 contextual-manager-passwords-password-tooltip = Увядзіце пароль, які выкарыстоўваецца для ўваходу ў гэты ўліковы запіс.
 
 ## Password Card
@@ -308,6 +314,7 @@ contextual-manager-hide-password-button =
 # The message displayed when the search text does not match any of the user's saved logins.
 contextual-manager-passwords-no-passwords-found-header =
     .heading = Паролі не знойдзены
+contextual-manager-passwords-no-passwords-found-message-2 = Паспрабуйце іншы тэрмін і пашукайце зноў.
 contextual-manager-passwords-no-passwords-found-message = Паролі не знойдзены. Увядзіце іншы запыт і паспрабуйце яшчэ раз.
 
 ## When the user has no saved passwords, we display the following messages to inform the user they can save
@@ -322,6 +329,8 @@ contextual-manager-passwords-no-passwords-message = Усе паролі зашы
 contextual-manager-passwords-no-passwords-get-started-message = Дадайце іх сюды, каб пачаць.
 # This string is displayed in a button. If the user clicks it, they will be taken to a form to create a new password.
 contextual-manager-passwords-add-manually = Дадаць уручную
+# This string encourages the user to save their passwords in Firefox (the "safe spot").
+contextual-manager-passwords-no-passwords-header-2 = Захоўвайце свае паролі ў бяспечным месцы
 
 ## When the user cancels a login that's currently being edited, we display a message to confirm whether
 ## or not the user wants to discard their current edits to the login.
@@ -339,3 +348,8 @@ contextual-manager-passwords-remove-all-passwords-checkbox =
         [few] Так, выдаліць паролі
        *[many] Так, выдаліць паролі
     }
+# This string informs the user they need to provide their primary password for FireFox to access their saved passwords in Firefox.
+contextual-manager-primary-password-reauth-header = Каб убачыць захаваныя паролі, увядзіце свой галоўны пароль.
+# This string informs the user their primary password is used to authenticate and access their passwords
+contextual-manager-primary-password-reauth-button = Увядзіце галоўны пароль
+contextual-manager-primary-password-learn-more-link = Падрабязней

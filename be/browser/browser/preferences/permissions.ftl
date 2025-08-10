@@ -176,6 +176,7 @@ permissions-site-localhost-window =
 permissions-site-localhost-desc = Гэтыя сайты запыталі доступ да праграм і службаў на гэтай прыладзе. Вы можаце дазволіць або забараніць сайтам рабіць гэта.
 permissions-site-localhost-disable-label =
     .label = Блакаваць новыя запыты на доступ да праграм і службаў на гэтай прыладзе
+permissions-site-localhost-disable-desc = Гэта перашкодзіць любым сайтам, не пералічаным вышэй, запытваць доступ да праграм і службаў на гэтай прыладзе. Гэта можа парушыць некаторыя функцыі сайтаў.
 
 ## Site Permissions - Local network
 
@@ -185,6 +186,7 @@ permissions-site-local-network-window =
 permissions-site-local-network-desc = Гэтыя сайты запыталі доступ да праграм і службаў на прыладах, падлучаных да вашай лакальнай сеткі ці Wi-Fi. Вы можаце дазволіць або забараніць сайтам рабіць гэта.
 permissions-site-local-network-disable-label =
     .label = Блакаваць новыя запыты на доступ да праграм і службаў на прыладах, падлучаных да вашай лакальнай сеткі або Wi-Fi.
+permissions-site-local-network-disable-desc = Гэта перашкодзіць любым сайтам, не пералічаным вышэй, запытваць доступ да праграм і службаў на прыладах, падлучаных да вашай сеткі Wi-Fi ці лакальнай сеткі. Гэта можа парушыць некаторыя функцыі сайтаў.
 
 ## Site Permissions - Microphone
 

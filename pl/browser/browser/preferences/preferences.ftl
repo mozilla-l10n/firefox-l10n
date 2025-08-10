@@ -1049,7 +1049,7 @@ autofill-creditcard-os-auth-dialog-caption = { -brand-full-name }
 ## Privacy section - Autofill
 
 pane-privacy-autofill-header = Automatyczne wypełnianie
-autofill-addresses-checkbox = Zachowywanie i wypełnianie adresów
+autofill-addresses-checkbox = Zachowywanie i wypełnianie adresów.
     .accesskey = Z
 autofill-saved-addresses-button = Zachowane adresy
     .accesskey = c
