@@ -181,7 +181,7 @@ permissions-site-localhost-disable-desc = შედეგად, ყველა
 ## Site Permissions - Local network
 
 permissions-site-local-network-window =
-    .title = პარამეტრები – ადგილობრივი ქსელის მოწყობილობები
+    .title = პარამეტრები – შიდა ქსელის მოწყობილობები
     .style = { permissions-window2.style }
 permissions-site-local-network-desc = მოცემული ვებსაიტები ითხოვს წვდომას პროგრამებთან და მომსახურებებთან თქვენს ადგილობრივ ან WiFi-ქსელში ჩართულ მოწყობილობებზე. შეგიძლიათ დართოთ ნება ან შეუზღუდოთ.
 permissions-site-local-network-disable-label =

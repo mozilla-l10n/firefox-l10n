@@ -26,4 +26,4 @@ identity-credential-sign-in-button =
     .label = Logg inn
     .accesskey = L
 identity-credential-policy-title = Bruk { $provider } som innloggingsleverandør
-identity-credential-policy-description = Å logge på { $host } med en { $provider }-konto er underlagt deres <label data-l10n-name="privacy-url">personvernbestemmelser</label> og <label data-l10n-name="tos-url">tjenestevilkår</label>.
+identity-credential-policy-description = Å logge på { $host } med en { $provider }-konto er underlagt deres <label data-l10n-name="privacy-url">personvernerklæring</label> og <label data-l10n-name="tos-url">bruksvilkår</label>.

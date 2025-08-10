@@ -220,7 +220,7 @@ shopping-onboarding-dynamic-subtitle-1 = Se hvor pålitelige produktvurderinger 
 #   $currentSite (str) - The current shopping page name
 shopping-onboarding-single-subtitle = Se hvor pålitelige produktvurderinger er på <b>{ $currentSite }</b> før du handler. Vurderingskontrollør, en eksperimentell funksjon fra { -brand-product-name }, er innebygd rett i nettleseren.
 shopping-onboarding-body = Ved å bruke kraften til { -fakespot-brand-full-name } hjelper vi deg å unngå ensidige og ikke-troverdige vurderinger. AI-modellen vår blir alltid bedre for å beskytte deg mens du handler. <a data-l10n-name="learn_more">Les mer</a>
-shopping-onboarding-opt-in-privacy-policy-and-terms-of-use3 = Ved å velge «{ shopping-onboarding-opt-in-button }» godtar du { -brand-product-name } sine <a data-l10n-name="privacy_policy">personvernbestemmelser</a> og { -fakespot-brand-name } sine <a data-l10n-name="terms_of_use">brukervilkår.</a>
+shopping-onboarding-opt-in-privacy-policy-and-terms-of-use3 = Ved å velge «{ shopping-onboarding-opt-in-button }» godtar du { -brand-product-name } sine <a data-l10n-name="privacy_policy">personvernerklæring</a> og { -fakespot-brand-name } sine <a data-l10n-name="terms_of_use">bruksvilkår.</a>
 shopping-onboarding-opt-in-button = Ja, prøv det
 shopping-onboarding-not-now-button = Ikke nå
 shopping-onboarding-dialog-close-button =

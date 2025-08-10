@@ -220,7 +220,7 @@ newtab-section-menu-add-topsite = Legg til toppsted
 newtab-section-menu-add-search-engine = Legg til søkemotor
 newtab-section-menu-move-up = Flytt opp
 newtab-section-menu-move-down = Flytt ned
-newtab-section-menu-privacy-notice = Personvernbestemmelser
+newtab-section-menu-privacy-notice = Personvernerklæring
 
 ## Section aria-labels
 
