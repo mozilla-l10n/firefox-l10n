@@ -72,6 +72,11 @@ cfr-doorhanger-bookmark-fxa-link-text = Synchronizuj zakładki…
 cfr-doorhanger-bookmark-fxa-close-btn-tooltip =
     .aria-label = Przycisk zamknięcia
     .title = Zamknij
+fxa-adoption-addresses-backup-title = Utwórz kopię zapasową zachowanych adresów
+fxa-adoption-addresses-backup-subtitle = Chroń swoje zachowane adresy, synchronizując je ze swoimi urządzeniami za pomocą szyfrowania.
+fxa-adoption-credit-cards-backup-title = Utwórz kopię zapasową metod płatności
+fxa-adoption-credit-cards-backup-subtitle = Chroń swoje metody płatności, synchronizując je ze swoimi urządzeniami za pomocą szyfrowania.
+fxa-adoption-primary-button-label = Utwórz konto
 
 ## Protections panel
 
@@ -348,3 +353,7 @@ multi-cta-fox-doodle-privacy-focused-subtitle =
        *[other] Miej swoją ulubioną przeglądarkę dbającą o prywatność pod jednym kliknięciem. Ustaw { -brand-short-name(case: "acc") } jako domyślną przeglądarkę do otwierania odnośników i przypnij go do paska zadań.
     }
 multi-cta-fox-doodle-msix-privacy-focused-subtitle = Miej swoją ulubioną przeglądarkę dbającą o prywatność pod jednym kliknięciem. Ustaw { -brand-short-name(case: "acc") } jako domyślną przeglądarkę do otwierania odnośników oraz przypnij go do paska zadań i menu Start.
+
+## Windows 10 EoS Sync messages group 1 spotlight
+
+windows-10-eos-sync-spotlight-title = Planujesz wkrótce zaktualizować system Windows 10?

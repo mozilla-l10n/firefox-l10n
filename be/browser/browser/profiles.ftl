@@ -45,6 +45,8 @@ avatar-selector-save-button =
     .label = Захаваць
 avatar-selector-upload-file = Зацягнуць файл
 avatar-selector-drag-file = Або перацягніце файл сюды
+avatar-selector-add-image = Дадаць выяву
+avatar-selector-crop = Абрэзаць
 edit-profile-page-no-name = Назавіце гэты профіль, каб вы маглі знайсці яго пазней. Пераймянуйце яго ў любы час.
 edit-profile-page-duplicate-name = Назва профілю ўжо выкарыстоўваецца. Паспрабуйце іншую.
 edit-profile-page-profile-saved = Захавана
@@ -114,22 +116,109 @@ book-avatar-alt =
     .alt = Кніга
 briefcase-avatar-alt =
     .alt = Партфель
+# Canvas refers to an artist's painting canvas, not the general material
+canvas-avatar-alt =
+    .alt = Палатно
+# Craft refers to hobby arts and crafts, represented by a button/fastener commonly found on clothing like shirts
+craft-avatar-alt =
+    .alt = Рамяство
 flower-avatar-alt =
     .alt = Кветка
+folder-avatar-alt =
+    .alt = Папка
+hammer-avatar-alt =
+    .alt = Малаток
 heart-avatar-alt =
     .alt = Сэрца
+heart-rate-avatar-alt =
+    .alt = Частата пульсу
+history-avatar-alt =
+    .alt = Гісторыя
+leaf-avatar-alt =
+    .alt = Ліст
+lightbulb-avatar-alt =
+    .alt = Лямпачка
+makeup-avatar-alt =
+    .alt = Макіяж
+# Message refers to a text message, not a traditional letter/envelope message
+message-avatar-alt =
+    .alt = Паведамленне
+musical-note-avatar-alt =
+    .alt = Музычная нота
+palette-avatar-alt =
+    .alt = Палітра
+paw-print-avatar-alt =
+    .alt = Адбітак лапы
+plane-avatar-alt =
+    .alt = Самалёт
+# Present refers to a gift box, not the current time period
+present-avatar-alt =
+    .alt = Падарунак
 shopping-avatar-alt =
     .alt = Кошык
+soccer-avatar-alt =
+    .alt = Футбол
+sparkle-single-avatar-alt =
+    .alt = Бліскавіца
 star-avatar-alt =
     .alt = Зорка
+video-game-controller-avatar-alt =
+    .alt = Кантролер для відэагульняў
 custom-avatar-alt =
     .alt = Уласны аватар
+# Default favicon refers to the generic globe/world icon that appears in browser tabs when a website doesn't have its own favicon.
+default-favicon-avatar-alt =
+    .alt = Тыповы значок сайта
+# Diamond refers to the precious stone, not the geometric shape
+diamond-avatar-alt =
+    .alt = Алмаз
+barbell-avatar-alt =
+    .alt = Штанга
+bike-avatar-alt =
+    .alt = Веласіпед
 
 ## Labels for default avatar icons
 
 book-avatar = Кніга
 briefcase-avatar = Партфель
+# Canvas refers to an artist's painting canvas, not the general material
+canvas-avatar = Палатно
+# Craft refers to hobby arts and crafts, represented by a button/fastener commonly found on clothing like shirts
+craft-avatar = Рамяство
+custom-avatar = Уласны аватар
+# Default favicon refers to the generic globe/world icon that appears in browser tabs when a website doesn't have its own favicon.
+default-favicon-avatar = Тыповы значок сайта
+# Diamond refers to the precious stone, not the geometric shape
+diamond-avatar = Алмаз
 flower-avatar = Кветка
+folder-avatar = Папка
+hammer-avatar = Малаток
 heart-avatar = Сэрца
+heart-rate-avatar = Частата пульсу
+history-avatar = Гісторыя
+leaf-avatar = Ліст
+lightbulb-avatar = Лямпачка
+makeup-avatar = Макіяж
+# Message refers to a text message, not a traditional letter/envelope message
+message-avatar = Паведамленне
+musical-note-avatar = Музычная нота
+palette-avatar = Палітра
+paw-print-avatar = Адбітак лапы
+plane-avatar = Самалёт
+# Present refers to a gift box, not the current time period
+present-avatar = Падарунак
 shopping-avatar = Кошык
+soccer-avatar = Футбол
+sparkle-single-avatar = Бліскавіца
 star-avatar = Зорка
+video-game-controller-avatar = Кантролер для відэагульняў
+custom-avatar-crop-back-button =
+    .aria-label = Назад
+custom-avatar-crop-view =
+    .aria-label = Абрэзаць выяву
+custom-avatar-crop-area =
+    .aria-label = Змяніць вобласць абрэзкі
+custom-avatar-drag-handle =
+    .aria-label = Змяніць памер вобласці абрэзкі
+barbell-avatar = Штанга
+bike-avatar = Веласіпед
