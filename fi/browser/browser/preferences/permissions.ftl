@@ -173,6 +173,20 @@ permissions-site-camera-disable-desc = Tämä estää kaikki yllä mainitsematto
 permissions-site-localhost-window =
     .title = Asetukset - Laitesovellukset ja -palvelut
     .style = { permissions-window2.style }
+permissions-site-localhost-desc = Nämä verkkosivustot ovat pyytäneet pääsyä tämän laitteen sovelluksiin ja palveluihin. Voit sallia tai estää sivustoja tekemästä tätä.
+permissions-site-localhost-disable-label =
+    .label = Estä uudet pyynnöt käyttää sovelluksia ja palveluita tällä laitteella
+permissions-site-localhost-disable-desc = Tämä estää kaikkia yllä mainitsemattomia verkkosivustoja pyytämästä pääsyä tämän laitteen sovelluksiin ja palveluihin. Tämä voi rikkoa joitakin verkkosivustojen ominaisuuksia.
+
+## Site Permissions - Local network
+
+permissions-site-local-network-window =
+    .title = Asetukset - Paikallisverkon laitteet
+    .style = { permissions-window2.style }
+permissions-site-local-network-desc = Nämä verkkosivustot ovat pyytäneet pääsyä sovelluksiin ja palveluihin laitteilla, jotka on yhdistetty Wi-Fi-verkkoosi tai lähiverkkoosi. Voit sallia tai estää sivustoja tekemästä tätä.
+permissions-site-local-network-disable-label =
+    .label = Estä uudet pyynnöt käyttää sovelluksia ja palveluita laitteilla, jotka on yhdistetty Wi-Fi- tai lähiverkkoon.
+permissions-site-local-network-disable-desc = Tämä estää kaikkia yllä mainitsemattomia verkkosivustoja pyytämästä pääsyä sovelluksiin ja palveluihin laitteilla, jotka on yhdistetty Wi-Fi-verkkoon tai lähiverkkoon. Tämä voi rikkoa joitakin verkkosivustojen ominaisuuksia.
 
 ## Site Permissions - Microphone
 

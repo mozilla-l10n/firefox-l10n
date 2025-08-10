@@ -118,6 +118,19 @@ windows-10-eos-sync-urgency-title-1 = Älä menetä kaikkea tallentamaasi, kun s
 windows-10-eos-sync-urgency-subtitle-1 = Synkronoi nyt pitääksesi { -brand-short-name }-kirjanmerkkisi, -salasanasi ja -asetuksesi turvassa ja helposti palautettavissa.
 windows-10-eos-sync-urgency-title-2 = Oletko jättämässä hyvästit Windows 10:lle? Suojaa tietosi vaihdon yhteydessä.
 windows-10-eos-sync-urgency-subtitle-2 = Vaikka et käyttäisi { -brand-short-name }ia päivittäin, synkronoi se pitääksesi kirjanmerkit ja salasanat turvassa sekä saatavilla.
+windows-10-eos-sync-new-device-title-1 = Älä ota riskiä aloittaaksesi tyhjästä seuraavalla laitteellasi.
+windows-10-eos-sync-new-device-subtitle-1 = Synkronoi ottaaksesi { -brand-short-name }-kirjanmerkkisi, -salasanasi ja haluamasi asetukset mukaasi ulkoillessasi.
+windows-10-eos-sync-new-device-title-2 = Vaihtamassa uuteen laitteeseen? Älä menetä tärkeitä asioita.
+windows-10-eos-sync-new-device-subtitle-2 = Riippumatta siitä, kuinka usein käytät { -brand-short-name }ia, synkronointi suojaa kirjanmerkkisi, salasanasi ja asetuksesi.
+windows-10-eos-sync-new-device-primary-label = Synkronoi nyt
+windows-10-eos-sync-general-title-1 = Suojaa itsellesi sovittamaasi { -brand-short-name }ia.
+windows-10-eos-sync-general-subtitle-1 = Varmuuskopioi ja synkronoi salasanasi, kirjanmerkkisi, asetuksesi ja muut tietosi säilyttääksesi sinulle tärkeät asiat.
+windows-10-eos-sync-general-title-2 = Nyt on hyvä aika varmuuskopioida salasanasi ja kirjanmerkkisi.
+windows-10-eos-sync-general-subtitle-2 = Synkronoi nyt suojataksesi { -brand-short-name }ille uskomasi asiat – ja saat ne takaisin missä ja milloin tahansa.
+windows-10-eos-sync-tour-title-1 = Liikaa välilehtiä? Järjestä ne välilehtiryhmillä.
+windows-10-eos-sync-tour-subtitle-1 = Vedä yksi välilehti toisen päälle luodaksesi ryhmän ja pitääksesi asiat järjestyksessä.
+windows-10-eos-sync-tour-title-2 = Järjestäydy Windows 11:tä varten.
+windows-10-eos-sync-tour-subtitle-2 = Synkronoi kirjanmerkit, salasanat ja asetukset varmuuskopioidaksesi ne ennen vaihtamista.
 
 ## Sidebar Strings
 

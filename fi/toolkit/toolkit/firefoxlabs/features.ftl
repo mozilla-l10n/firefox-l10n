@@ -51,3 +51,6 @@ experimental-features-link-previews-description-no-ai =
 experimental-features-newtab-sections-follow-block =
     .label = Aiheosiot ja seuraa/estä uusien välilehtien tarinoita
 experimental-features-newtab-sections-follow-block-description = Järjestä Uusi välilehti -sivun tarinat aihealueisiin (Urheilu, Ruoka, Viihde ja paljon muuta) jäsennellymmän ja helpommin selattavan käyttökokemuksen saamiseksi. Käytä uusia Seuraa- ja Estä-säätimiä mukauttaaksesi näkemääsi sisältöä. <a data-l10n-name="connect">Jaa palautetta</a>
+# Firefox Web Apps
+experimental-features-fx-web-apps =
+    .label = Lisää sivustoja tehtäväpalkkiin
