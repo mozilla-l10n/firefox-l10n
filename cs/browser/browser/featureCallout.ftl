@@ -141,7 +141,31 @@ windows-10-eos-sync-urgency-subtitle-1 =
        *[no-cases] Synchronizujte nyní záložky, hesla a nastavení aplikace { -brand-short-name } v bezpečí a snadno je obnovte.
     }
 windows-10-eos-sync-urgency-title-2 = Loučíte se s Windows 10? Chraňte svá data při přechodu.
+windows-10-eos-sync-urgency-subtitle-2 =
+    { -brand-short-name.case-status ->
+        [with-cases] I když nepoužíváte { -brand-short-name(case: "acc") } denně, synchronizujte, abyste měli záložky a hesla v bezpečí a přístupné.
+       *[no-cases] I když nepoužíváte { -brand-short-name } denně, synchronizujte, abyste měli záložky a hesla v bezpečí a přístupné.
+    }
+windows-10-eos-sync-new-device-title-1 = Neriskujte, že budete v dalším zařízení začínat znovu.
+windows-10-eos-sync-new-device-subtitle-1 =
+    { -brand-short-name.case-status ->
+        [with-cases] Synchronizací si můžete vzít záložky, hesla a preferovaná nastavení { -brand-short-name(case: "acc") }  s sebou, když přecházíte.
+       *[no-cases] Synchronizací si můžete vzít záložky, hesla a preferovaná nastavení aplikace { -brand-short-name } s sebou, když přecházíte.
+    }
+windows-10-eos-sync-new-device-title-2 = Přecházíte na nové zařízení? Neztraťte to důležité.
+windows-10-eos-sync-new-device-subtitle-2 =
+    { -brand-short-name.case-status ->
+        [with-cases] Bez ohledu na to, jak často používáte { -brand-short-name(case: "acc") }, synchronizace chrání vaše záložky, hesla a nastavení.
+       *[no-cases] Bez ohledu na to, jak často používáte aplikaci { -brand-short-name }, synchronizace chrání vaše záložky, hesla a nastavení.
+    }
 windows-10-eos-sync-new-device-primary-label = Synchronizovat
+windows-10-eos-sync-general-title-1 =
+    { -brand-short-name.case-status ->
+        [with-cases] Chraňte { -brand-short-name(case: "acc") }, který jste si vytvořili.
+       *[no-cases] Chraňte aplikaci { -brand-short-name }, kterou jste si vytvořili.
+    }
+windows-10-eos-sync-general-subtitle-1 = Zálohujte a synchronizujte hesla, záložky, nastavení a další data, abyste si uchovali to, na co spoléháte.
+windows-10-eos-sync-general-title-2 = Nyní je vhodná doba na zálohování hesel a záložek.
 
 ## Sidebar Strings
 
