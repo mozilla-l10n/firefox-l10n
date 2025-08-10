@@ -135,6 +135,12 @@ fxa-adoption-passwords-primary-button-label = Přihlásit se
 ## Windows 10 EoS Sync messages group 1 callouts
 
 windows-10-eos-sync-urgency-title-1 = Nepřijďe při přechodu na Windows 11 o vše, co jste si uložili,
+windows-10-eos-sync-urgency-subtitle-1 =
+    { -brand-short-name.case-status ->
+        [with-cases] Synchronizujte nyní záložky, hesla a nastavení { -brand-short-name(case: "gen") } v bezpečí a snadno je obnovte.
+       *[no-cases] Synchronizujte nyní záložky, hesla a nastavení aplikace { -brand-short-name } v bezpečí a snadno je obnovte.
+    }
+windows-10-eos-sync-urgency-title-2 = Loučíte se s Windows 10? Chraňte svá data při přechodu.
 windows-10-eos-sync-new-device-primary-label = Synchronizovat
 
 ## Sidebar Strings
