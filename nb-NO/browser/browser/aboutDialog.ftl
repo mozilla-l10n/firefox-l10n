@@ -54,7 +54,7 @@ bottomLinks-license = Lisensinfo
 bottom-links-terms = Bruksvilkår
 bottom-links-privacy = Personvernerklæring
 bottomLinks-rights = Rettigheter for sluttbrukere
-bottomLinks-privacy = Personvernbestemmelser
+bottomLinks-privacy = Personvernerklæring
 # Example of resulting string: 66.0.1 (64-bit)
 # Variables:
 #   $version (String): version of Firefox, e.g. 66.0.1

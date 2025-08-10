@@ -557,7 +557,7 @@ details-notification-gmp-pending2 =
 plugins-gmp-license-info = ლიცენზიის შესახებ
 plugins-gmp-privacy-info = პირადი მონაცემების დაცვის დებულება
 plugins-openh264-name = OpenH264-ვიდეომშიფრავი, უზრუნველყოფს Cisco Systems, Inc.
-plugins-openh264-description = ეს მოდული ავტომატურად ჩადგა Mozilla-მ WebRTC-თან სამუშაოდ და WebRTC-ზარების ასამოქმედებლად იმ მოწყობილობებზე, რომლებიც საჭიროებს H.264-სახის ვიდეომშიფრავს. ვრცლად, მათ შორის ამ მშიფრავის წყაროს შესახებ, იხილავთ http://www.openh264.org/ ბმულზე.
+plugins-openh264-description = ამ მოდულს Mozilla თავადვე ამატებს WebRTC-მოთხოვნების დასაკმაყოფილებლად და WebRTC-ზარების ასამოქმედებლად იმ მოწყობილობებზე, რომელთაც ესაჭიროება ვიდეომშიფრავი H.264. ვრცლად იხილეთ https://www.openh264.org/ დანიშულებისა და მშიფრავის წყაროს შესახებ.
 plugins-widevine-name = Widevine შიგთავსის გამშიფრავი მოდული. მომწოდებელი: Google Inc.
 plugins-widevine-description = ეს მოდული დაშიფრული ფაილების გაშვების საშუალებას იძლევა, რომელთა მოთხოვნებსაც განსაზღვრავს Encrypted Media Extensions. ჩვეულებრივ, დაშიფრულ ფაილებს საიტები იყენებენ ძვირადღირებული მასალების უნებართვო მოპარვისა და გავრცელებისგან დასაცავად. ინახულეთ https://www.w3.org/TR/encrypted-media/ და იხილეთ ვრცლად Encrypted Media Extensions.
 
