@@ -1403,10 +1403,30 @@ trustpanel-clear-cookies-header =
 trustpanel-clear-cookies-description = Выдаленне кукі і дадзеных сайтаў можа прывесці да выхаду з сайтаў і ачысткі кошыкаў.
 trustpanel-clear-cookies-subview-button-clear = Ачысціць
 trustpanel-clear-cookies-subview-button-cancel = Адмена
+# Variables
+#  $host (String): the hostname of the site that is being displayed.
+trustpanel-site-information-header =
+    .title = Ахова злучэння з { $host }
+trustpanel-connection-secure = Вы бяспечна злучаны з гэтым сайтам.
+trustpanel-connection-not-secure = Вы не злучаны бяспечна з гэтым сайтам.
+trustpanel-siteinformation-morelink = Больш інфармацыі пра сайт
+trustpanel-blocker-see-all = Глядзець усё
+# Variables
+#  $host (String): the hostname of the site that is being displayed.
+trustpanel-blocker-header =
+    .title = Ахова ад сачэння для { $host }
 
 ## Variables
 ##  $count (String): the number of trackers blocked.
 
+trustpanel-blocker-section-header =
+    { $count ->
+        [one] <span>{ $count }</span> трэкер заблакаваны на гэтым сайце
+        [few] <span>{ $count }</span> трэкеры заблакаваны на гэтым сайце
+       *[many] <span>{ $count }</span> трэкераў заблакавана на гэтым сайце
+    }
+trustpanel-blocker-description = { -brand-product-name } лічыць, што кампаніі павінны менш сачыць за вамі. Таму мы блакуем столькі, колькі можам.
+trustpanel-blocked-header = { -brand-product-name } заблакаваў для вас наступнае:
 trustpanel-tracking-cookies-tab-list-header = Гэтыя сайты спрабуюць вас асачыць:
 trustpanel-tracking-content-blocking-tab-header =
     { $count ->
