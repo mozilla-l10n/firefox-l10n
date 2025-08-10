@@ -118,3 +118,12 @@ printui-paper-jis-b4 = JIS-B4
 printui-paper-letter = US kârta
 printui-paper-legal = US Ofîsio
 printui-paper-tabloid = Tablôide
+
+## Error messages shown when a user has an invalid input
+
+printui-error-invalid-scale = Gā’hue nāguīt nej numerô nū danïn 10 ngà 200.
+printui-error-invalid-margin = Nachrūn hue’ê dàj nìko gūnàj du’hua ñanj ruhuât nārīt.
+printui-error-invalid-copies = Da’hui nej ñanj nāhuī ñadū’hua ganikāj nej man nej numero nū dānïn 1 ngà 10000.
+# Variables
+# $numPages (integer) - Number of pages
+printui-error-invalid-range = Da’hui gāhuin nej numerô nū dānïn 1 ngà { $numPages }
