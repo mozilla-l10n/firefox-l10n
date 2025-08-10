@@ -277,7 +277,7 @@ mr2022-onboarding-colorway-description-innovator = <b>სიახლის შ�
 ## MR2022 Multistage Mobile Download screen strings
 
 mr2022-onboarding-mobile-download-title = მოქნილად გადაერთეთ ნოუთბუქიდან ტელეფონზე ან პირიქით
-mr2022-onboarding-mobile-download-subtitle = წაიყოლეთ ჩანართები სხვა მოწყობილობაზე და განაგრძეთ იქიდან, სადაც შეჩერდით. ამასთანავე, დაასინქრონეთ სანიშნები და პაროლები ყველგან, სადაც { -brand-product-name } გიყენიათ.
+mr2022-onboarding-mobile-download-subtitle = გაიყოლეთ ჩანართები სხვა მოწყობილობაზე და განაგრძეთ იქიდან, სადაც შეჩერდით. ამასთანავე, დაასინქრონეთ სანიშნები და პაროლები ყველგან, სადაც { -brand-product-name } გიყენიათ.
 mr2022-onboarding-mobile-download-cta-text = გადაუღეთ QR-კოდს, რომ გადმოწეროთ { -brand-product-name } მობილურზე ან <a data-l10n-name="download-label">გაგზავნეთ ჩამოსატვირთი ბმული.</a>
 mr2022-onboarding-no-mobile-download-cta-text = გადაუღეთ QR-კოდს, რომ გადმოწეროთ { -brand-product-name } მობილურზე.
 

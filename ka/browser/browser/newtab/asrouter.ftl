@@ -234,7 +234,7 @@ set-default-pdf-handler-primary = გასაგებია
 ## FxA sync CFR
 
 fxa-sync-cfr-header = ახალ მოწყობილობაზე გადადიხართ?
-fxa-sync-cfr-body = თან წაიყოლეთ თქვენი უახლესი სანიშნები, პაროლები და ჩანართები ახალი { -brand-product-name }-ბრაუზერის გახსნისთანავე.
+fxa-sync-cfr-body = თან გაიყოლეთ თქვენი უახლესი სანიშნები, პაროლები და ჩანართები ახალი { -brand-product-name }-ბრაუზერის გახსნისთანავე.
 fxa-sync-cfr-primary = ვრცლად
     .accesskey = ც
 fxa-sync-cfr-secondary = მოგვიანებით შეხსენება
@@ -249,7 +249,7 @@ device-migration-fxa-spotlight-older-device-header = სიმშვიდეზ
 device-migration-fxa-spotlight-older-device-body = ანგარიში უზრუნველყოფს თქვენი მნიშვნელოვანი მონაცემების მზადყოფნასა და დაცულობას ყველა დაკავშირებულ მოწყობილობაზე.
 device-migration-fxa-spotlight-older-device-primary-button = შექმენით ანგარიში
 device-migration-fxa-spotlight-getting-new-device-header-2 = ახალ მოწყობილობაზე გადადიხართ?
-device-migration-fxa-spotlight-getting-new-device-body-2 = მიჰყევით რამდენიმე მარტივ ნაბიჯს, რომ თან წაიყოლოთ თქვენი სანიშნები, ისტორია და პაროლები ახალ მოწყობილობაზე გადასვლისას.
+device-migration-fxa-spotlight-getting-new-device-body-2 = მიჰყევით რამდენიმე მარტივ ნაბიჯს, რომ თან გაიყოლოთ თქვენი სანიშნები, ისტორია და პაროლები ახალ მოწყობილობაზე გადასვლისას.
 device-migration-fxa-spotlight-getting-new-device-primary-button = როგორაა შესაძლებელი დამარქაფება
 device-migration-fxa-spotlight-sync-header = მოინახულეთ გვერდები შეუფერხებლად
 device-migration-fxa-spotlight-sync-body = დაასინქრონეთ ყველა თქვენი მნიშვნელოვანი მონაცემი დაშიფვრით – მათ შორის სანიშნები და პაროლები. ყველაფერი შეგიძლიათ წაიღოთ თან ნებისმიერ ადგილას, სადაც გიყენიათ { -brand-product-name }.

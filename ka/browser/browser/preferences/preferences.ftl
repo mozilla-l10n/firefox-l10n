@@ -768,7 +768,7 @@ containers-remove-button =
 ## Firefox account - Signed out. Note that "Sync" and "Firefox account" are now
 ## more discrete ("signed in" no longer means "and sync is connected").
 
-sync-signedout-caption = წაიყოლეთ თქვენი მონაცემები თან
+sync-signedout-caption = გაიყოლეთ თქვენი მონაცემები თან
 sync-signedout-description2 = დაასინქრონეთ თქვენი სანიშნები, ისტორია, ჩანართები, პაროლები, დამატებები და პარამეტრები ყველა მოწყობილობაზე.
 sync-signedout-account-signin3 =
     .label = სინქრონიზაციაში შესვლა
