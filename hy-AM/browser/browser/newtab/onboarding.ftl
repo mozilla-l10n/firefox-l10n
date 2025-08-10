@@ -246,6 +246,9 @@ mr2022-onboarding-colorway-label-playmaker = Փլեյմեյքեր
 mr2022-onboarding-colorway-tooltip-playmaker2 =
     .title = Փլեյմեյքեր (կարմիր)
 mr2022-onboarding-colorway-description-playmaker = <b>Դուք փլեյմեյքեր եք:</b> Դուք հնարավորություններ եք ստեղծում հաղթելու և օգնում եք ձեր շրջապատի բոլորին բարձրացնել իրենց խաղը:
+mr2022-onboarding-colorway-label-expressionist = Էքսպրեսիոնիստ
+mr2022-onboarding-colorway-tooltip-expressionist2 =
+    .title = Էքսպրեսիոնիստ (դեղին)
 mr2022-onboarding-colorway-label-visionary = Տեսլական
 mr2022-onboarding-colorway-tooltip-visionary2 =
     .title = Տեսողական (կանաչ)
@@ -278,6 +281,7 @@ mr2022-upgrade-onboarding-pin-private-window-primary-button-label =
 
 ## MR2022 Privacy Segmentation screen strings
 
+mr2022-onboarding-privacy-segmentation-title = Մենք միշտ հարգում ենք ձեր գաղտնիությունը
 mr2022-onboarding-privacy-segmentation-button-primary-label = Օգտվել { -brand-product-name }-ի խորհուրդներից
 mr2022-onboarding-privacy-segmentation-button-secondary-label = Ցուցադրել մանրամասն տեղեկություն
 
@@ -337,6 +341,8 @@ onboarding-new-user-survey-familiarity-based-option-4 = Օգտագործել ե�
 onboarding-new-tabs-title = Ասեք մեզ, թե որտեղ եք ցանկանում ձեր ներդիրները
 # Setup screen for vertical tabs - "Switch it up" refers to switching between horizontal and vertical tabs.
 onboarding-new-tabs-subtitle = Միացրեք այն, երբ ցանկանում եք, կողագոտու կարգավորումներում:
+# Setup screen for vertical tabs - too many tabs variation
+onboarding-many-tabs-title = Ձեր ներդիրները՝ ձեր ձևով
 # Setup screen for vertical tabs - focused variation
 onboarding-focused-tabs-title = Ընտրեք ձեր ներդիրի դասավորությունը
 # Text underneath an image used for selecting browser tabs to appear on the side of the browser.
@@ -376,6 +382,7 @@ tab-groups-onboarding-dismiss = Լավ
 
 ## Multi Profiles feature onboarding messages
 
+multi-profile-spotlight-title = Ասեք ողջույն { -brand-product-name }-ին
 multi-profile-callout-cta = Ստեղծել պրոֆիլ
 
 ## Desktop to Mobile Adoption feature callout strings

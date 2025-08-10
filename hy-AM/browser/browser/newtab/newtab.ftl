@@ -8,6 +8,9 @@
 newtab-page-title = Նոր ներդիր
 newtab-settings-button =
     .title = Հարմարեցրեք ձեր Նոր Ներդիր էջը
+newtab-customize-panel-icon-button =
+    .title = Հարմարեցնել այս էջը
+newtab-customize-panel-icon-button-label = Հարմարեցնել
 newtab-personalize-settings-icon-label =
     .title = Անհատականացնել նոր ներդիրը
     .aria-label = Կարգավորումներ
@@ -120,6 +123,8 @@ newtab-menu-delete-pocket = Ջնջել { -pocket-brand-name }-ից
 newtab-menu-archive-pocket = Արխիվացնել { -pocket-brand-name }-ում
 newtab-menu-show-privacy-info = Մեր հովանավորները և ձեր գաղտնիությունը
 newtab-menu-about-fakespot = { -fakespot-brand-name }-ի մասին
+# Report is a verb (i.e. report issue with the content).
+newtab-menu-report = Զեկուցել
 # Context menu option to personalize New Tab recommended stories by blocking a section of stories,
 # e.g. "Sports". "Block" is a verb here.
 newtab-menu-section-block = Արգելափակել

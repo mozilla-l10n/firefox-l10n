@@ -11,6 +11,7 @@ more-from-moz-category =
 more-from-moz-subtitle = { -vendor-short-name }-ի այլ ծրագրեր, որոնք օգնում են առողջ պահել համացանցը:
 more-from-moz-firefox-mobile-title = { -brand-product-name } բջջային
 more-from-moz-firefox-mobile-description = Բջջային դիտարկիչ, որը առաջին տեղում է դնում Ձեր գաղտնիությունը:
+more-from-moz-firefox-mobile-title-1 = { -brand-product-name } բջջային
 more-from-moz-mozilla-vpn-title = { -mozilla-vpn-brand-name }
 more-from-moz-qr-code-box-firefox-mobile-title = Ներբեռնեք Ձեր բջջային սարքում: Պահեք Ձեր տեսախցիկը QR կոդի վրա: Երբ հղումը հայտնվի՝ հպեք դրան:
 more-from-moz-qr-code-box-firefox-mobile-button = Փոխարենը էլ. նամակ ուղարկել Ձեր հեռախոսին
@@ -34,3 +35,9 @@ more-from-moz-mozilla-monitor-button = Ստանալ { -monitor-brand-short-name 
 ## These strings are for the Solo card in about:preferences moreFromMozilla page
 
 more-from-moz-solo-title = { -solo-ai-brand-name } ԱԲ
+more-from-moz-solo-button = Փորձեք { -solo-ai-brand-name }
+
+## These strings are for the MDN card in about:preferences moreFromMozilla page
+
+more-from-moz-mdn-title = MDN վեբ փաստաթղթեր
+more-from-moz-mdn-button = Սովորեք վեբ մշակում

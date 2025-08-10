@@ -67,6 +67,7 @@ cfr-doorhanger-bookmark-fxa-link-text = Համաժամեցնել էջանիշե�
 cfr-doorhanger-bookmark-fxa-close-btn-tooltip =
     .aria-label = Փակելու կոճակ
     .title = Փակել
+fxa-adoption-primary-button-label = Գրանցվել
 
 ## Protections panel
 
@@ -276,3 +277,8 @@ multi-cta-fox-doodle-title = Բարի վերադարձ
 multi-cta-fox-doodle-set-default-checkbox = Կայել { -brand-short-name }-ը որպես սկզբնադիր
 multi-cta-fox-doodle-pin-startmenu-checkbox = Ամրացրեք { -brand-short-name }-ը Մեկնարկ ցանկին
 multi-cta-fox-doodle-start-browsing-primary-button-label = Սկսել դիտարկումը
+
+## Windows 10 EoS Sync messages group 1 toast notification
+
+windows-10-eos-sync-toast-primary-label = Սկսել
+windows-10-eos-sync-toast-secondary-label = Հիշեցնել ավելի ուշ
