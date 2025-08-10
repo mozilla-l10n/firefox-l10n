@@ -1590,7 +1590,49 @@ trustpanel-tracking-header =
 trustpanel-tracking-description = Bez sledovacích prvků nemusí některá tlačítka, formuláře a přihlašovací údaje správně fungovat.
 trustpanel-insecure-section-header = Vaše připojení není zabezpečené
 trustpanel-insecure-description = Data, která posíláte na tento server, nejsou šifrována. Může být viděn, ukraden nebo pozměněn.
+trustpanel-list-label-tracking-cookies =
+    { $count ->
+        [one] { $count } sledovací cookie třetí stran
+        [few] { $count } sledovací cookies třetích stran
+        [many] { $count } sledovacích cookies třetích stran
+       *[other] { $count } sledovacích cookies třetích stran
+    }
 trustpanel-list-label-tracking-content = Sledující obsah
+trustpanel-list-label-fingerprinter =
+    { $count ->
+        [one] { $count } vytvoření otisku prohlížeče
+        [few] { $count } vytvoření otisků prohlížeče
+        [many] { $count } vytvoření otisků prohlížeče
+       *[other] { $count } vytvoření otisků prohlížeče
+    }
+trustpanel-list-label-social-tracking =
+    { $count ->
+        [one] { $count } sledovací prvek sociálních sítí
+        [few] { $count } sledovací prvky sociálních sítí
+        [many] { $count } sledovacích prvků sociálních sítí
+       *[other] { $count } sledovacích prvků sociálních sítí
+    }
+trustpanel-list-label-cryptominer =
+    { $count ->
+        [one] { $count } těžba kryptoměn
+        [few] { $count } těžby kryptoměn
+        [many] { $count } těžeb kryptoměn
+       *[other] { $count } těžeb kryptoměn
+    }
+trustpanel-social-tracking-blocking-tab-header =
+    { $count ->
+        [one] { -brand-product-name } zablokoval { $count } sledovací prvek sociálních sítí
+        [few] { -brand-product-name } zablokoval { $count } sledovací prvky sociálních sítí
+        [many] { -brand-product-name } zablokoval { $count } sledovacích prvků sociálních sítí
+       *[other] { -brand-product-name } zablokoval { $count } sledovacích prvků sociálních sítí
+    }
+trustpanel-social-tracking-not-blocking-tab-header =
+    { $count ->
+        [one] { -brand-product-name } povolil { $count } sledovací prvek sociálních sítí
+        [few] { -brand-product-name } povolil { $count } sledovací prvky sociálních sítí
+        [many] { -brand-product-name } povolil { $count } sledovacích prvků sociálních sítí
+       *[other] { -brand-product-name } povolil { $count } sledovacích prvků sociálních sítí
+    }
 trustpanel-social-tracking-tab-list-header = Tyto stránky se vás snaží sledovat:
 trustpanel-tracking-cookies-tab-list-header = Tyto stránky se vás snaží sledovat:
 trustpanel-tracking-content-tab-list-header = Tyto stránky se vás snaží sledovat:
