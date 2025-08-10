@@ -173,6 +173,8 @@ windows-10-eos-sync-general-subtitle-2 =
     }
 windows-10-eos-sync-tour-title-1 = Příliš mnoho panelů? Udělejte si pořádek pomocí skupin panelů.
 windows-10-eos-sync-tour-subtitle-1 = Přetáhněte jeden panel na druhý pro vytvoření skupiny a mějte ve věcech pořádek.
+windows-10-eos-sync-tour-title-2 = Udělejte si pořádek pro Windows 11.
+windows-10-eos-sync-tour-subtitle-2 = Synchronizujte své záložky, hesla a nastavení a zálohujte je před přechodem.
 
 ## Sidebar Strings
 

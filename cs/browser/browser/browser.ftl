@@ -161,6 +161,10 @@ urlbar-default-notification-anchor =
     .tooltiptext = Otevře panel zpráv
 urlbar-geolocation-notification-anchor =
     .tooltiptext = Otevře panel se žádostmi o polohu
+urlbar-localhost-notification-anchor =
+    .tooltiptext = Správa přístupu k místnímu zařízení pro tento web
+urlbar-local-network-notification-anchor =
+    .tooltiptext = Správa sdílení přístupu k místní síti pomocí tohoto webu
 urlbar-xr-notification-anchor =
     .tooltiptext = Otevře panel oprávnění pro virtuální realitu
 urlbar-storage-access-anchor =
@@ -261,6 +265,10 @@ urlbar-search-mode-actions = Akce
 
 urlbar-geolocation-blocked =
     .tooltiptext = Tomuto serveru jste zablokovali zjišťovat vaši polohu.
+urlbar-localhost-blocked =
+    .tooltiptext = Tomuto serveru jste zablokovali připojení k místním zařízením.
+urlbar-local-network-blocked =
+    .tooltiptext = Tomuto serveru jste zablokovali připojení k místní síti.
 urlbar-xr-blocked =
     .tooltiptext = Tomuto serveru jste zablokovali přístup k vašim zařízením pro virtuální realitu.
 urlbar-web-notifications-blocked =
@@ -1561,6 +1569,14 @@ trustpanel-blocker-header =
 ## Variables
 ##  $count (String): the number of trackers blocked.
 
+trustpanel-blocker-section-header =
+    { $count ->
+        [one] Na této stránce byl zablokován <span>{ $count }</span> sledovací prvek
+        [few] Na této stránce byli zablokovány <span>{ $count }</span> sledovací prvky
+        [many] Na této stránce bylo zablokováno <span>{ $count }</span> sledovacích prvků
+       *[other] Na této stránce bylo zablokováno <span>{ $count }</span> sledovacích prvků
+    }
+trustpanel-blocker-description = { -brand-product-name } si myslí, že by vás společnosti měly sledovat méně. Proto jich blokujeme co nejvíce.
 trustpanel-blocked-header =
     { -brand-product-name.case-status ->
         [with-cases] { -brand-product-name } zablokoval tyto věci:
