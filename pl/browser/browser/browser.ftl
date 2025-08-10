@@ -1396,3 +1396,63 @@ trustpanel-header-disabled = Wyłączono ochronę
 trustpanel-description-disabled = { -brand-product-name } jest po służbie. Zalecamy ponowne włączenie ochrony.
 trustpanel-clear-cookies-button = Wyczyść ciasteczka i dane witryny
 trustpanel-privacy-link = Ustawienia prywatności
+# Variables
+#  $host (String): the hostname of the site that is being displayed.
+trustpanel-clear-cookies-header =
+    .title = Wyczyść ciasteczka i dane witryny { $host }
+trustpanel-clear-cookies-description = Usunięcie ciasteczek i danych witryny może spowodować wylogowanie ze strony lub opróżnienie koszyka w sklepie.
+trustpanel-clear-cookies-subview-button-clear = Wyczyść
+trustpanel-clear-cookies-subview-button-cancel = Anuluj
+# Variables
+#  $host (String): the hostname of the site that is being displayed.
+trustpanel-site-information-header =
+    .title = Ochrona połączenia z witryną { $host }
+trustpanel-connection-secure = Połączenie z tą witryną jest zabezpieczone.
+trustpanel-connection-not-secure = Połączenie z tą witryną nie jest zabezpieczone.
+trustpanel-siteinformation-morelink = Więcej informacji o witrynie
+trustpanel-blocker-see-all = Pokaż wszystko
+# Variables
+#  $host (String): the hostname of the site that is being displayed.
+trustpanel-blocker-header =
+    .title = Ochrona przed śledzeniem na witrynie { $host }
+
+## Variables
+##  $count (String): the number of trackers blocked.
+
+trustpanel-blocker-section-header =
+    { $count ->
+        [one] <span>{ $count }</span> element śledzący zablokowany na tej witrynie
+        [few] <span>{ $count }</span> elementy śledzące zablokowane na tej witrynie
+       *[many] <span>{ $count }</span> elementów śledzących zablokowanych na tej witrynie
+    }
+trustpanel-blocker-description = { -brand-product-name } uważa, że firmy powinny mniej Cię śledzić. Dlatego blokujemy jak najwięcej.
+trustpanel-blocked-header = { -brand-product-name } zablokował dla Ciebie te rzeczy:
+trustpanel-tracking-header = { -brand-product-name } zezwolił na te rzeczy, aby witryny działały poprawnie:
+trustpanel-tracking-description = Bez elementów śledzących niektóre przyciski, formularze i pola logowania mogą nie działać.
+trustpanel-insecure-section-header = Połączenie nie jest zabezpieczone
+trustpanel-insecure-description = Dane wysyłane do tej witryny nie są zaszyfrowane. Ktoś może je podejrzeć, ukraść lub zmienić.
+trustpanel-list-label-tracking-cookies =
+    { $count ->
+        [one] { $count } ciasteczko śledzące między witrynami
+        [few] { $count } ciasteczka śledzące między witrynami
+       *[many] { $count } ciasteczek śledzących między witrynami
+    }
+trustpanel-list-label-tracking-content = Treści z elementami śledzącymi
+trustpanel-list-label-fingerprinter =
+    { $count ->
+        [one] { $count } element śledzący przez zbieranie informacji o konfiguracji
+        [few] { $count } elementy śledzące przez zbieranie informacji o konfiguracji
+       *[many] { $count } elementów śledzących przez zbieranie informacji o konfiguracji
+    }
+trustpanel-list-label-social-tracking =
+    { $count ->
+        [one] { $count } element śledzący serwisów społecznościowych
+        [few] { $count } elementy śledzące serwisów społecznościowych
+       *[many] { $count } elementów śledzących serwisów społecznościowych
+    }
+trustpanel-list-label-cryptominer =
+    { $count ->
+        [one] { $count } element używający komputera użytkownika do generowania kryptowalut
+        [few] { $count } elementy używające komputera użytkownika do generowania kryptowalut
+       *[many] { $count } elementów używających komputera użytkownika do generowania kryptowalut
+    }
