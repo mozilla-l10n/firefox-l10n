@@ -29,3 +29,5 @@ confirmation-hint-duplicate-tabs-closed =
         [one] Փակվել է { $tabCount } ներդիր
        *[other] Փակվել են { $tabCount } ներդիրներ
     }
+# Subtle notification shown when Extensions button moves into the application menu.
+confirmation-hint-extensions-button-hidden = Տեղափոխել է ցանկ

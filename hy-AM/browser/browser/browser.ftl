@@ -141,6 +141,8 @@ urlbar-default-notification-anchor =
     .tooltiptext = Բացել հաղորդագրության վահանակը
 urlbar-geolocation-notification-anchor =
     .tooltiptext = Բացել տեղադրության հարցման վահանակը
+urlbar-localhost-notification-anchor =
+    .tooltiptext = Կառավարեք այս կայքի տեղական սարքերի մուտքը
 urlbar-xr-notification-anchor =
     .tooltiptext = Բացեք թվացյալ իրականության թույլտվության վահանակը
 urlbar-storage-access-anchor =
@@ -196,13 +198,26 @@ urlbar-result-menu-learn-more-about-firefox-suggest =
 urlbar-result-menu-manage-firefox-suggest =
     .label = Կառավարել { -firefox-suggest-brand-name }-ը
     .accesskey = M
+# Some urlbar suggestions show the user's approximate location as automatically
+# detected by Firefox (e.g., weather suggestions), and this menu item lets the
+# user tell Firefox that the location is not accurate. Typically the location
+# will be a city name, or a city name combined with the name of its parent
+# administrative division (e.g., a province, prefecture, or state).
+urlbar-result-menu-report-inaccurate-location =
+    .label = Հաղորդել անճշտ գտնվելու վայրի մասին
 urlbar-result-menu-show-less-frequently =
     .label = Ցուցադրել հազվադեպ
 urlbar-result-menu-dont-show-weather-suggestions =
     .label = Չցուցադրել եղանակի առաջարկներ
+# Used for Split Button.
+urlbar-splitbutton-dropmarker =
+    .title = Բացել ցանկը
 # A message shown in the urlbar when the user submits feedback on a suggestion
 # (e.g., it shows an inaccurate location, it's shown too often, etc.).
 urlbar-feedback-acknowledgment = Շնորհակալություն Ձեր արձագանքի համար:
+# A message shown in the urlbar when the user dismisses weather suggestions.
+# Weather suggestions won't be shown at all anymore.
+urlbar-dismissal-acknowledgment-weather = Շնորհակալություն արձագանքի համար: Դուք այլևս չեք տեսնի թրենդային որոնումներ:
 
 ## Prompts users to use the Urlbar when they open a new tab or visit the
 ## homepage of their default search engine.
@@ -228,6 +243,10 @@ urlbar-search-mode-actions = Գործողություններ
 
 urlbar-geolocation-blocked =
     .tooltiptext = Դուք արգելափակել եք տեղադրության տեղեկությունը այս կայքի համար:
+urlbar-localhost-blocked =
+    .tooltiptext = Դուք արգելափակել եք ծանուցումները այս կայքի համար:
+urlbar-local-network-blocked =
+    .tooltiptext = Դուք արգելափակել եք ծանուցումները այս կայքի համար:
 urlbar-xr-blocked =
     .tooltiptext = Դուք արգելափակել եք թվացյալ իրականության սարքի մատչումը այս կայքի համար։
 urlbar-web-notifications-blocked =
@@ -392,12 +411,19 @@ quickactions-restart = Վերամեկնարկել { -brand-short-name }-ը
 quickactions-cmd-restart = վերամեկնարկել
 # Opens the screenshot tool
 quickactions-screenshot3 = Ստանալ էկրանի հանույթը
+quickactions-cmd-screenshot2 = էկրանի նկար, էկրանի նկար անել
 quickactions-cmd-screenshot = էկրանի հանույթ
 # Opens about:preferences
 quickactions-settings2 = Կառավարել կարգավորումները
+# "manage" should match the corresponding command, which is “Manage settings” in English.
+quickactions-cmd-settings2 = կարգավորումներ, նախապատվություններ, ընտրանքներ, կառավարել
 quickactions-cmd-settings = կարգավորումներ, նախապատվություններ, ընտրանքներ
 # Opens about:addons page in the themes section
 quickactions-themes = Կառավարեք ոճերը
+# In English we provide multiple spellings for "add-ons". If that's not
+# applicable to your language, only use the correct spelling (don't repeat the
+# same word).
+quickactions-cmd-themes2 = ոճեր, հավելումներ
 quickactions-cmd-themes = Ոճեր
 # Opens a SUMO article explaining how to update the browser
 quickactions-update = Թարմացնել { -brand-short-name }­-ը
@@ -597,6 +623,10 @@ urlbar-search-mode-indicator-close =
 # engine is unknown.
 urlbar-placeholder =
     .placeholder = Որոնեք կամ մուտքագրեք հասցե
+# This placeholder is used when not in search mode and searching in the urlbar
+# is disabled via the keyword.enabled pref.
+urlbar-placeholder-keyword-disabled =
+    .placeholder = Խմբագրել էլ. փոստը
 # This placeholder is used in search mode with search engines that search the
 # entire web.
 # Variables
@@ -674,6 +704,8 @@ urlbar-result-action-visit = Այցելել
 # Variables
 # $container (String): the name of the target container
 urlbar-result-action-switch-tab-with-container = Փոխարկել ներդիրին · <span>{ $container }</span>
+# Used when the target tab is in a tab group that doesn't have a label.
+urlbar-result-action-tab-group-unnamed = Անանուն խումբ
 # Allows the user to visit a URL that was previously copied to the clipboard.
 urlbar-result-action-visit-from-clipboard = Այցելություն սեղմնատախտակից
 # Directs a user to press the Tab key to perform a search with the specified
@@ -722,6 +754,51 @@ urlbar-result-action-calculator-result-3 = = { NUMBER($result, useGrouping: "fal
 # Variables
 #  $result (String): the string representation for a formula result
 urlbar-result-action-calculator-result-decimal = = { NUMBER($result, maximumSignificantDigits: 9) }
+# The title of a weather suggestion in the urlbar. The temperature and unit
+# substring should be inside a <strong> tag. If the temperature and unit are not
+# adjacent in the localization, it's OK to include only the temperature in the
+# tag.
+# Variables:
+#   $temperature (number) - The temperature value
+#   $unit (String) - The unit for the temperature, either "C" or "F"
+#   $city (String) - The name of the city the weather data is for
+#   $region (String) - The name of the city's region or country. Depending on
+#       the user's location in relation to the city, this may be the name or
+#       abbreviation of one of the city's administrative divisions like a
+#       province or state, or it may be the name of the city's country.
+urlbar-result-weather-title = <strong>{ $temperature }°{ $unit }</strong> { $city }, { $region }-ում
+# The title of a weather suggestion in the urlbar only including the city. The
+# temperature and unit substring should be inside a <strong> tag. If the
+# temperature and unit are not adjacent in the localization, it's OK to include
+# only the temperature in the tag.
+# Variables:
+#   $temperature (number) - The temperature value
+#   $unit (String) - The unit for the temperature, either "C" or "F"
+#   $city (String) - The name of the city the weather data is for
+urlbar-result-weather-title-city-only = <strong>{ $temperature }°{ $unit }</strong>  { $city }-ում
+# Shows the name of the provider of weather data in a weather suggestion in the
+# urlbar.
+# Variables:
+#   $provider (String) - The name of the weather-data provider. It will be the
+#       name of a company, organization, or service.
+urlbar-result-weather-provider-sponsored = { $provider } ∙ Հովանավորվում է
+
+## These strings are used for Realtime suggestions in the urlbar.
+## Market refers to stocks, indexes, and funds.
+
+# This string is shown as title when Market suggestion are disabled.
+urlbar-result-market-opt-in-title = Ստացեք ֆոնդային շուկայի տվյալները անմիջապես որոնման դաշտում
+urlbar-result-realtime-opt-in-dismiss = Բաց թողնել
+urlbar-result-realtime-opt-in-dismiss-all =
+    .label = Չցուցադրել այս առաջարկները
+# This string is shown in the result menu.
+urlbar-result-menu-dont-show-market =
+    .label = Չցուցադրել այս առաջարկները
+# A message that replaces a result when the user dismisses Market suggestions.
+urlbar-result-dismissal-acknowledgment-market = Շնորհակալություն արձագանքի համար: Դուք այլևս չեք տեսնի թրենդային որոնումներ:
+# A message that replaces a result when the user dismisses all suggestions of a
+# particular type.
+urlbar-result-dismissal-acknowledgment-all = Շնորհակալություն արձագանքի համար: Դուք այլևս չեք տեսնի թրենդային որոնումներ:
 
 ## Strings used for buttons in the urlbar
 
@@ -754,6 +831,8 @@ urlbar-searchmode-exit-button =
 urlbar-searchmode-popup-description = Այս անգամ որոնել հետևյալով՝
 urlbar-searchmode-popup-search-settings-menuitem =
     .label = Որոնման կարգավորումներ
+# Label shown next to a new search engine in the Searchmode Switcher popup to promote it.
+urlbar-searchmode-new = Նոր
 # Searchmode Switcher button
 # Variables:
 #   $engine (String): the current default search engine.
@@ -1053,6 +1132,8 @@ navbar-accessible =
     .aria-label = Ուղղորդում
 navbar-downloads =
     .label = Ներբեռնումներ
+navbar-overflow-2 =
+    .tooltiptext = Լրացուցիչ գործիքներ
 navbar-overflow =
     .tooltiptext = Լր. գործիքներ...
 # Variables:
@@ -1223,3 +1304,23 @@ file-picker-crashed-show-in-folder =
 ## Onboarding Finish Setup checklist
 
 onboarding-checklist-button-label = Ավարտել կարգավորումը
+onboarding-aw-finish-setup-button =
+    .label = Ավարտել տեղակայումը
+    .tooltiptext = Ավարտել { -brand-short-name }-ի տեղակայումը
+
+## The urlbar trust panel
+
+trustpanel-etp-label-enabled = Ուժեղացված հետագծման պաշտպանությունը միացված է
+trustpanel-etp-label-disabled = Ուժեղացված հետագծման պաշտպանությունը անջատված է
+trustpanel-connection-label-secure = Կապակցումն ապահով է
+trustpanel-connection-label-insecure = Կապակցումն անվտանգ չէ
+trustpanel-header-enabled = { -brand-product-name }--ը պաշտպանված է
+trustpanel-clear-cookies-subview-button-clear = Մաքրել
+trustpanel-clear-cookies-subview-button-cancel = Չեղարկել
+trustpanel-siteinformation-morelink = Մանրամասն տեղեկություններ
+trustpanel-blocker-see-all = Տեսնել բոլորը
+
+## Variables
+##  $count (String): the number of trackers blocked.
+
+trustpanel-tracking-content-tab-list-header = Հետևյալ կայքերը փորձում են հետևել ձեզ՝

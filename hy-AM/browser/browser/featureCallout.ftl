@@ -85,6 +85,16 @@ perplexity-callout-theme-1-title = Անմիջապես ճիշտ պատասխան�
 perplexity-callout-secondary-label-1 = Բաց թողնել
 perplexity-callout-secondary-label-2 = Հասկացա
 
+## Account Adoption Passwords callout strings
+
+# Opens Mozilla accounts sign-up page
+fxa-adoption-passwords-primary-button-label = Գրանցվել
+
+## Windows 10 EoS Sync messages group 1 callouts
+
+windows-10-eos-sync-new-device-primary-label = Համաժամեցնել
+windows-10-eos-sync-tour-title-2 = Կազմակերպվեք Windows 11-ի համար։
+
 ## Sidebar Strings
 
 sidebar-button-callout-title = Ցուցադրել ներդիրների վերնագրերը կողագոտիում
@@ -102,6 +112,12 @@ vertical-tabs-callout-2-title = Շատ ներդիրներ բաց պահե՞լ։ 
 ## Sidebar Vertical Tabs Pinning Strings
 
 sidebar-pins-callout-cta-button = Ամրացնել ներդիրը
+
+## Pinning Tabs Strings
+
+pin-tabs-callout-cta-1-button = Ամրացնել այս ներդիրը
+pin-tabs-callout-2-title = Ամրացրեք ամենաշատ այցելվող ներդիրները
+pin-tabs-callout-cta-2-button = Ամրացնել այս ներդիրը
 
 ## Sidebar Onboarding Strings
 
