@@ -6,6 +6,8 @@
 ### Strings used in about:unloads, allowing users to manage the "tab unloading"
 ### feature.
 
+about-unloads-page-title = Nādunīnj nej rakïj ñanj
+about-unloads-intro = { -brand-short-name } nīka ‘ngō sa rugûñū’ūnj nadunīnj mān’an rakij ñanj
 about-unloads-button-unload = Nādunï̄nj
     .title = Nādunï̄nj rakïj ñanj ngà sa ña’ān doj
 about-unloads-no-unloadable-tab = Nitāj rakïj ñanj hua nāduni'.

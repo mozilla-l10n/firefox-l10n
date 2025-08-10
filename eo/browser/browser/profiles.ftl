@@ -45,6 +45,8 @@ avatar-selector-save-button =
     .label = Konservi
 avatar-selector-upload-file = Alŝutu dosieron
 avatar-selector-drag-file = Aŭ trenu dosieron ĉi tien
+avatar-selector-add-image = Aldoni bildon
+avatar-selector-crop = Eltondi
 edit-profile-page-no-name = Nomu tiun ĉi profilon por pli facile trovi ĝin poste. Vi povas renomi ĝin iam ajn.
 edit-profile-page-duplicate-name = Tiu nomo de profilo jam estas uzata. Provu alian nomon.
 edit-profile-page-profile-saved = Konservita
@@ -114,22 +116,107 @@ book-avatar-alt =
     .alt = Libro
 briefcase-avatar-alt =
     .alt = Teko
+# Canvas refers to an artist's painting canvas, not the general material
+canvas-avatar-alt =
+    .alt = Kanvaso
+# Craft refers to hobby arts and crafts, represented by a button/fastener commonly found on clothing like shirts
+craft-avatar-alt =
+    .alt = Manfaritaĵo
 flower-avatar-alt =
     .alt = Floro
+folder-avatar-alt =
+    .alt = Dosierujo
+hammer-avatar-alt =
+    .alt = Martelo
 heart-avatar-alt =
     .alt = Koro
+heart-rate-avatar-alt =
+    .alt = Korbata frekvenco
+history-avatar-alt =
+    .alt = Historio
+leaf-avatar-alt =
+    .alt = Folio
+lightbulb-avatar-alt =
+    .alt = Lumpilko
+makeup-avatar-alt =
+    .alt = Ŝminkaĵo
+# Message refers to a text message, not a traditional letter/envelope message
+message-avatar-alt =
+    .alt = Mesaĝo
+musical-note-avatar-alt =
+    .alt = Tono muzika
+palette-avatar-alt =
+    .alt = Paletro
+paw-print-avatar-alt =
+    .alt = Spuro
+plane-avatar-alt =
+    .alt = Aviadilo
+# Present refers to a gift box, not the current time period
+present-avatar-alt =
+    .alt = Donaco
 shopping-avatar-alt =
     .alt = Aĉetĉareto
+soccer-avatar-alt =
+    .alt = Piedpilko
+sparkle-single-avatar-alt =
+    .alt = Brilo
 star-avatar-alt =
     .alt = Stelo
+video-game-controller-avatar-alt =
+    .alt = Regilo de videa ludo
 custom-avatar-alt =
     .alt = Personecigita avataro
+# Default favicon refers to the generic globe/world icon that appears in browser tabs when a website doesn't have its own favicon.
+default-favicon-avatar-alt =
+    .alt = Norma emblemo
+# Diamond refers to the precious stone, not the geometric shape
+diamond-avatar-alt =
+    .alt = Diamanto
+barbell-avatar-alt =
+    .alt = Haltero
+bike-avatar-alt =
+    .alt = Biciklo
 
 ## Labels for default avatar icons
 
 book-avatar = Libro
 briefcase-avatar = Teko
+# Canvas refers to an artist's painting canvas, not the general material
+canvas-avatar = Kanvaso
+# Craft refers to hobby arts and crafts, represented by a button/fastener commonly found on clothing like shirts
+craft-avatar = Manfaritaĵo
+custom-avatar = Personecigita avataro
+# Default favicon refers to the generic globe/world icon that appears in browser tabs when a website doesn't have its own favicon.
+default-favicon-avatar = Norma emblemo
+# Diamond refers to the precious stone, not the geometric shape
+diamond-avatar = Diamanto
 flower-avatar = Floro
+folder-avatar = Dosierujo
+hammer-avatar = Martelo
 heart-avatar = Koro
+heart-rate-avatar = Korbata frekvenco
+history-avatar = Historio
+leaf-avatar = Folio
+lightbulb-avatar = Lumpilko
+makeup-avatar = Ŝminkaĵo
+# Message refers to a text message, not a traditional letter/envelope message
+message-avatar = Mesaĝo
+musical-note-avatar = Tono muzika
+palette-avatar = Paletro
+paw-print-avatar = Spuro
+plane-avatar = Aviadilo
+# Present refers to a gift box, not the current time period
+present-avatar = Donaco
 shopping-avatar = Aĉetĉareto
+soccer-avatar = Piedpilko
+sparkle-single-avatar = Brilo
 star-avatar = Stelo
+video-game-controller-avatar = Regilo de videa ludo
+custom-avatar-crop-back-button =
+    .aria-label = Malantaŭen
+custom-avatar-crop-view =
+    .aria-label = Eltondi la monton de bildo
+custom-avatar-crop-area =
+    .aria-label = Alĝustigi la eltonditan areon
+barbell-avatar = Haltero
+bike-avatar = Biciklo

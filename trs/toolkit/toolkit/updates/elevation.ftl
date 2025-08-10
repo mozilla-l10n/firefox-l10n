@@ -21,3 +21,7 @@ elevation-more-elevated =
     { -brand-short-name } hìaj, asi ginun gi’iaj sunt ni nanâ doj dunayi’ìt man, asi si yakaj guendat
     sa nahuin nakà nan.
 sandbox-missing-unprivileged-namespaces = Huā dā'āj nej sa 'hiaj sun da' gā hue'ê riña { -brand-short-name } sī rugûñūn’ūnj ta’uj ngà sistema operativo nākà nañûn nan.
+sandbox-unprivileged-namespaces-dismiss-button =
+    .label = Sī nādigân ñûnt nuguan’ nan
+    .accesskey = S
+sandbox-unprivileged-namespaces-howtofix = Dàj gī’hiát da’ nāhuin sà’ sa gahui a’nan’ nan
