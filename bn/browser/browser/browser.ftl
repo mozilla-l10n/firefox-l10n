@@ -1138,10 +1138,13 @@ onboarding-checklist-button-label = সেটআপ শেষ করুন
 
 trustpanel-connection-label-secure = সংযোগ সুরক্ষিত
 trustpanel-connection-label-insecure = সংযোগ নিরাপদ নয়
+trustpanel-description-enabled = আপনি সুরক্ষিত। যদি কিছু শনাক্ত করি আমরা আপনাকে জানাবো।
 trustpanel-header-disabled = আপনি সুরক্ষা বন্ধ করে দিয়েছেন
 trustpanel-clear-cookies-button = কুকি ও সাইট ডেটা মুছে ফেলুন
 trustpanel-privacy-link = প্রাইভেসি সেটিংস
 trustpanel-clear-cookies-subview-button-cancel = বাতিল
+trustpanel-connection-secure = আপনি সুরক্ষিতভাবে এই সাইটে সংযুক্ত হয়েছেন।
+trustpanel-connection-not-secure = এই সাইটে আপনার সংযোগ সুরক্ষিত নয়।
 trustpanel-siteinformation-morelink = আরও সাইটের তথ্য
 trustpanel-blocker-see-all = সব দেখুন
 
@@ -1149,6 +1152,7 @@ trustpanel-blocker-see-all = সব দেখুন
 ##  $count (String): the number of trackers blocked.
 
 trustpanel-insecure-section-header = আপনার সংযোগ নিরাপদ নয়
+trustpanel-insecure-description = আপনি এই সাইটে যে ডেটা পাঠাচ্ছেন তা এনক্রিপ্ট করা নেই। এটি দেখা, চুরি বা পরিবর্তন করা যেতে পারে।
 trustpanel-list-label-tracking-content = ট্র্যাকিং কন্টেন্ট
 trustpanel-social-tracking-tab-list-header = এই সাইটগুলি আপনাকে ট্র্যাক করার চেষ্টা করছে:
 trustpanel-tracking-cookies-tab-list-header = এই সাইটগুলি আপনাকে ট্র্যাক করার চেষ্টা করছে:
