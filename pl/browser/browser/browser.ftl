@@ -1456,3 +1456,68 @@ trustpanel-list-label-cryptominer =
         [few] { $count } elementy używające komputera użytkownika do generowania kryptowalut
        *[many] { $count } elementów używających komputera użytkownika do generowania kryptowalut
     }
+trustpanel-social-tracking-blocking-tab-header =
+    { $count ->
+        [one] { -brand-product-name } zablokował { $count } element śledzący serwisów społecznościowych
+        [few] { -brand-product-name } zablokował { $count } elementy śledzące serwisów społecznościowych
+       *[many] { -brand-product-name } zablokował { $count } elementów śledzących serwisów społecznościowych
+    }
+trustpanel-social-tracking-not-blocking-tab-header =
+    { $count ->
+        [one] { -brand-product-name } zezwolił na { $count } element śledzący serwisów społecznościowych
+        [few] { -brand-product-name } zezwolił na { $count } elementy śledzące serwisów społecznościowych
+       *[many] { -brand-product-name } zezwolił na { $count } elementów śledzących serwisów społecznościowych
+    }
+trustpanel-social-tracking-tab-list-header = Te witryny próbują Cię śledzić:
+trustpanel-tracking-cookies-blocking-tab-header =
+    { $count ->
+        [one] { -brand-product-name } zablokował { $count } ciasteczko śledzące między witrynami
+        [few] { -brand-product-name } zablokował { $count } ciasteczka śledzące między witrynami
+       *[many] { -brand-product-name } zablokował { $count } ciasteczek śledzących między witrynami
+    }
+trustpanel-tracking-cookies-not-blocking-tab-header =
+    { $count ->
+        [one] { -brand-product-name } zezwolił na { $count } ciasteczko śledzące między witrynami
+        [few] { -brand-product-name } zezwolił na { $count } ciasteczka śledzące między witrynami
+       *[many] { -brand-product-name } zezwolił na { $count } ciasteczek śledzących między witrynami
+    }
+trustpanel-tracking-cookies-tab-list-header = Te witryny próbują Cię śledzić:
+trustpanel-tracking-content-blocking-tab-header =
+    { $count ->
+        [one] { -brand-product-name } zablokował { $count } element śledzący
+        [few] { -brand-product-name } zablokował { $count } elementy śledzące
+       *[many] { -brand-product-name } zablokował { $count } elementów śledzących
+    }
+trustpanel-tracking-content-not-blocking-tab-header =
+    { $count ->
+        [one] { -brand-product-name } zezwolił na { $count } element śledzący
+        [few] { -brand-product-name } zezwolił na { $count } elementy śledzące
+       *[many] { -brand-product-name } zezwolił na { $count } elementów śledzących
+    }
+trustpanel-tracking-content-tab-list-header = Te witryny próbują Cię śledzić:
+trustpanel-fingerprinter-blocking-tab-header =
+    { $count ->
+        [one] { -brand-product-name } zablokował { $count } element śledzący przez zbieranie informacji o konfiguracji
+        [few] { -brand-product-name } zablokował { $count } elementy śledzące przez zbieranie informacji o konfiguracji
+       *[many] { -brand-product-name } zablokował { $count } elementów śledzących przez zbieranie informacji o konfiguracji
+    }
+trustpanel-fingerprinter-not-blocking-tab-header =
+    { $count ->
+        [one] { -brand-product-name } zezwolił na { $count } element śledzący przez zbieranie informacji o konfiguracji
+        [few] { -brand-product-name } zezwolił na { $count } elementy śledzące przez zbieranie informacji o konfiguracji
+       *[many] { -brand-product-name } zezwolił na { $count } elementów śledzących przez zbieranie informacji o konfiguracji
+    }
+trustpanel-fingerprinter-list-header = Te witryny próbują Cię śledzić przez zbieranie informacji o konfiguracji:
+trustpanel-cryptominer-blocking-tab-header =
+    { $count ->
+        [one] { -brand-product-name } zablokował { $count } element używający komputera użytkownika do generowania kryptowalut
+        [few] { -brand-product-name } zablokował { $count } elementy używające komputera użytkownika do generowania kryptowalut
+       *[many] { -brand-product-name } zablokował { $count } elementów używających komputera użytkownika do generowania kryptowalut
+    }
+trustpanel-cryptominer-not-blocking-tab-header =
+    { $count ->
+        [one] { -brand-product-name } zezwolił na { $count } element używający komputera użytkownika do generowania kryptowalut
+        [few] { -brand-product-name } zezwolił na { $count } elementy używające komputera użytkownika do generowania kryptowalut
+       *[many] { -brand-product-name } zezwolił na { $count } elementów używających komputera użytkownika do generowania kryptowalut
+    }
+trustpanel-cryptominer-tab-list-header = Te witryny próbują używać komputera użytkownika do generowania kryptowalut:

@@ -18,6 +18,7 @@ contextual-manager-passwords-command-import-from-browser = Enporti el alia retum
 contextual-manager-passwords-command-import = Enporti el dosiero …
 contextual-manager-passwords-command-export = Elporti pasvortojn…
 contextual-manager-passwords-command-remove-all = Forviŝi ĉiujn pasvortojn
+contextual-manager-passwords-command-options = Elektebloj
 contextual-manager-passwords-command-settings = Agordoj
 contextual-manager-passwords-command-help = Helpo
 contextual-manager-passwords-os-auth-dialog-caption = { -brand-full-name }
@@ -158,6 +159,8 @@ contextual-manager-passwords-password-already-exists-error-button = Iri al pasvo
 contextual-manager-passwords-update-password-success-heading =
     .heading = Pasvorto konservita
 contextual-manager-passwords-update-password-success-button = Farita
+contextual-manager-passwords-update-username-success-heading-2 =
+    .heading = Nomo de uzanto aldonita
 contextual-manager-passwords-update-username-success-heading =
     .heading = Nomo de uzanto konservita
 # Message to confirm successful removal of a password/passwords.
@@ -211,12 +214,15 @@ contextual-manager-passwords-title = Pasvortoj
 
 contextual-manager-passwords-create-label =
     .label = Aldoni pasvorton
+contextual-manager-passwords-update-label =
+    .label = Pasvorto ĝisdatigita
 contextual-manager-passwords-edit-label =
     .label = Modifi pasvorton
 contextual-manager-passwords-remove-label =
     .title = Forigi pasvorton
 contextual-manager-passwords-origin-tooltip = Tajpu la ekzaktan adreson, kie vi komencos seancon en tiu ĉi retejo.
 contextual-manager-passwords-username-tooltip = Tajpu la nomon de uzanto, retpoŝtan adreson, aŭ numeron de konto, kiun vi uzos por komenci seancon.
+contextual-manager-passwords-password-tooltip-2 = Tajpu la pasvorton por komenci seancon per tiu ĉi konto.
 contextual-manager-passwords-password-tooltip = Tajpu la pasvorton, kiun vi uzas por komenci seancon per tiu ĉi konto.
 
 ## Password Card
@@ -293,6 +299,7 @@ contextual-manager-hide-password-button =
 # The message displayed when the search text does not match any of the user's saved logins.
 contextual-manager-passwords-no-passwords-found-header =
     .heading = Neniu pasvorto trovita
+contextual-manager-passwords-no-passwords-found-message-2 = Provu alian tekston kaj serĉu denove.
 contextual-manager-passwords-no-passwords-found-message = Neniu pasvorto trovita. Provu serĉi ion alian.
 
 ## When the user has no saved passwords, we display the following messages to inform the user they can save
@@ -307,6 +314,8 @@ contextual-manager-passwords-no-passwords-message = Ĉiuj pasvortoj estas ĉifri
 contextual-manager-passwords-no-passwords-get-started-message = Aldoni ilin ĉi tie por komenci.
 # This string is displayed in a button. If the user clicks it, they will be taken to a form to create a new password.
 contextual-manager-passwords-add-manually = Aldoni permane
+# This string encourages the user to save their passwords in Firefox (the "safe spot").
+contextual-manager-passwords-no-passwords-header-2 = Konservi pasvorton en sekura ejo
 
 ## When the user cancels a login that's currently being edited, we display a message to confirm whether
 ## or not the user wants to discard their current edits to the login.
@@ -322,3 +331,8 @@ contextual-manager-passwords-remove-all-passwords-checkbox =
         [1] Jes, forigi pasvorton
        *[other] Yes, remove passwords
     }
+# This string informs the user they need to provide their primary password for FireFox to access their saved passwords in Firefox.
+contextual-manager-primary-password-reauth-header = Tajpu vian ĉefan pasvorton por vidi konservitajn pasvortojn.
+# This string informs the user their primary password is used to authenticate and access their passwords
+contextual-manager-primary-password-reauth-button = Tajpu la ĉefan pasvorton
+contextual-manager-primary-password-learn-more-link = Pli da informo

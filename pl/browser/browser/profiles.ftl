@@ -45,6 +45,8 @@ avatar-selector-save-button =
     .label = Zachowaj
 avatar-selector-upload-file = Prześlij plik
 avatar-selector-drag-file = Lub przeciągnij plik tutaj
+avatar-selector-add-image = Dodaj obraz
+avatar-selector-crop = Przytnij
 edit-profile-page-no-name = Nazwij ten profil, aby łatwiej go później znaleźć. Nazwę można zmienić w każdej chwili.
 edit-profile-page-duplicate-name = Nazwa profilu jest już używana. Spróbuj innej.
 edit-profile-page-profile-saved = Zachowano
@@ -114,16 +116,63 @@ book-avatar-alt =
     .alt = Książka
 briefcase-avatar-alt =
     .alt = Aktówka
+# Canvas refers to an artist's painting canvas, not the general material
+canvas-avatar-alt =
+    .alt = Płótno
+# Craft refers to hobby arts and crafts, represented by a button/fastener commonly found on clothing like shirts
+craft-avatar-alt =
+    .alt = Rękodzieło
 flower-avatar-alt =
     .alt = Kwiatek
+folder-avatar-alt =
+    .alt = Folder
+hammer-avatar-alt =
+    .alt = Młotek
 heart-avatar-alt =
     .alt = Serce
+heart-rate-avatar-alt =
+    .alt = Tętno
+history-avatar-alt =
+    .alt = Historia
+leaf-avatar-alt =
+    .alt = Liść
+lightbulb-avatar-alt =
+    .alt = Żarówka
+makeup-avatar-alt =
+    .alt = Makijaż
+musical-note-avatar-alt =
+    .alt = Nutka
+palette-avatar-alt =
+    .alt = Paleta
+paw-print-avatar-alt =
+    .alt = Odcisk łapy
+plane-avatar-alt =
+    .alt = Samolot
+# Present refers to a gift box, not the current time period
+present-avatar-alt =
+    .alt = Prezent
 shopping-avatar-alt =
     .alt = Wózek sklepowy
+soccer-avatar-alt =
+    .alt = Piłka nożna
+sparkle-single-avatar-alt =
+    .alt = Iskra
 star-avatar-alt =
     .alt = Gwiazda
+video-game-controller-avatar-alt =
+    .alt = Pad
 custom-avatar-alt =
     .alt = Własny awatar
+# Default favicon refers to the generic globe/world icon that appears in browser tabs when a website doesn't have its own favicon.
+default-favicon-avatar-alt =
+    .alt = Domyślna ikona witryny
+# Diamond refers to the precious stone, not the geometric shape
+diamond-avatar-alt =
+    .alt = Diament
+barbell-avatar-alt =
+    .alt = Sztanga
+bike-avatar-alt =
+    .alt = Rower
 
 ## Labels for default avatar icons
 
