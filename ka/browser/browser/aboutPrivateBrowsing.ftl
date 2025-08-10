@@ -23,16 +23,16 @@ about-private-browsing-info-description-private-window = პირადი ფ�
 about-private-browsing-info-description-simplified = { -brand-short-name } გაასუფთავებს თქვენ მიერ მოძიებული და მონახულებული გვერდების ჩანაწერებს ყველა პირადი ფანჯრის დახურვისას, მაგრამ ვერ დაფარავს თქვენს ვინაობას.
 about-private-browsing-learn-more-link = ვრცლად
 about-private-browsing-hide-activity = დამალეთ თქვენი მოქმედებები და ადგილსამყოფელი, ნებისმიერ გვერდზე შესვლისას
-about-private-browsing-get-privacy = თან წაიყოლეთ უსაფრთხოება ყველგან
+about-private-browsing-get-privacy = თან გაიყოლეთ უსაფრთხოება ყველგან
 about-private-browsing-hide-activity-1 = დაფარეთ თქვენი მოქმედებები და ადგილსამყოფელი { -mozilla-vpn-brand-name }-ით. ერთი შეხებით ქმნის უხიფათო კავშირს, საჯარო WiFi-ით სარგებლობის დროსაც კი.
 about-private-browsing-prominent-cta = დაიცავით პირადულობა { -mozilla-vpn-brand-name }-ით
 about-private-browsing-focus-promo-cta = ჩამოტვირთეთ { -focus-brand-name }
-about-private-browsing-focus-promo-header = { -focus-brand-name }: თან წაიყოლეთ პირადულობა
+about-private-browsing-focus-promo-header = { -focus-brand-name }: თან გაიყოლეთ პირადულობა
 about-private-browsing-focus-promo-text = პირადულობისთვის განკუთვნილი მობილური ბრაუზერი, ასუფთავებს ისტორიასა და კვალს, ყოველი გამოყენების შემდგომ.
 
 ## The following strings will be used for experiments in Fx99 and Fx100
 
-about-private-browsing-focus-promo-header-b = წაიყოლეთ პირადულობა ტელეფონთან ერთად
+about-private-browsing-focus-promo-header-b = გაიყოლეთ პირადულობა ტელეფონთან ერთად
 about-private-browsing-focus-promo-text-b = გამოიყენეთ { -focus-brand-name } იმ ინფორმაციის გაუმჟღავნებლად მოძიებისთვის, რომლის მთავარი ბრაუზერით ნახვაც არ გსურთ.
 about-private-browsing-focus-promo-header-c = ახალ სიმაღლეზე აყვანილი პირადულობა მობილურზე
 about-private-browsing-focus-promo-text-c = { -focus-brand-name } ყოველი გამოყენების შემდგომ ასუფთავებს თქვენს ისტორიას, რეკლამებისა და მეთვალყურეების შეზღუდვასთან ერთად.
