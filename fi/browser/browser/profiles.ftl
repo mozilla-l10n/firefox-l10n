@@ -123,15 +123,22 @@ flower-avatar-alt =
     .alt = Kukka
 folder-avatar-alt =
     .alt = Kansio
+hammer-avatar-alt =
+    .alt = Vasara
 heart-avatar-alt =
     .alt = Sydän
 heart-rate-avatar-alt =
     .alt = Syke
+leaf-avatar-alt =
+    .alt = Lehti
 # Message refers to a text message, not a traditional letter/envelope message
 message-avatar-alt =
     .alt = Viesti
 musical-note-avatar-alt =
     .alt = Nuotti
+# Present refers to a gift box, not the current time period
+present-avatar-alt =
+    .alt = Lahja
 shopping-avatar-alt =
     .alt = Ostoskärryt
 star-avatar-alt =
@@ -151,14 +158,20 @@ diamond-avatar-alt =
 
 book-avatar = Kirja
 briefcase-avatar = Salkku
+# Canvas refers to an artist's painting canvas, not the general material
+canvas-avatar = Kangas
 custom-avatar = Mukautettu profiilikuva
 # Default favicon refers to the generic globe/world icon that appears in browser tabs when a website doesn't have its own favicon.
 default-favicon-avatar = Oletusarvoinen favicon
 flower-avatar = Kukka
 heart-avatar = Sydän
+heart-rate-avatar = Syke
+leaf-avatar = Lehti
 # Message refers to a text message, not a traditional letter/envelope message
 message-avatar = Viesti
 musical-note-avatar = Nuotti
+# Present refers to a gift box, not the current time period
+present-avatar = Lahja
 shopping-avatar = Ostoskärryt
 star-avatar = Tähti
 video-game-controller-avatar = Peliohjain
