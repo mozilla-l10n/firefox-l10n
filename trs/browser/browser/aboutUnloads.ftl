@@ -7,7 +7,11 @@
 ### feature.
 
 about-unloads-page-title = Nādunīnj nej rakïj ñanj
-about-unloads-intro = { -brand-short-name } nīka ‘ngō sa rugûñū’ūnj nadunīnj mān’an rakij ñanj
+about-unloads-intro = { -brand-short-name } nīka ‘ngō sa rugûñū’ūnj nadunīnj mān’an rakij ñanj da’ sī dure’ej sa ni’hiājt sinùj gàchin memoria asi dòj memoria nâj riñanj. Rakïj ñanj hìaj nānīnj nan huin ahui ne’ ñān doj. Dànanj nārugui’ riña pajinâ nan { -brand-short-name } gini’hiāj ahuin nej rakïj ñanj gā’hue nādunin ngà nānùn sa nadunīnj rakïj ñanj. Gā’hue nādunïnj mān’ânt nej rakïj ñan riña <em>nāduninj</em>.
+# The link points to a Firefox documentation page, only available in English,
+# with title "Tab Unloading"
+about-unloads-learn-more = Nānà’huì riña <a data-l10n-name="doc-link"> nādunïnj rakïj ñanj </a> da’ gini’în doj dàj hua rayi’î pajinâ nan.
+about-unloads-last-updated = Sa nahuin nākà rūkù nïn’ïn: { DATETIME($date, year: "numeric", month: "numeric", day: "numeric", hour: "numeric", minute: "numeric", second: "numeric", hour12: "false") }
 about-unloads-button-unload = Nādunï̄nj
     .title = Nādunï̄nj rakïj ñanj ngà sa ña’ān doj
 about-unloads-no-unloadable-tab = Nitāj rakïj ñanj hua nāduni'.

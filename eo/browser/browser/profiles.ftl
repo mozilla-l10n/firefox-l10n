@@ -218,5 +218,7 @@ custom-avatar-crop-view =
     .aria-label = Eltondi la monton de bildo
 custom-avatar-crop-area =
     .aria-label = Alĝustigi la eltonditan areon
+custom-avatar-drag-handle =
+    .aria-label = Ŝanĝi grandon de eltondita areo
 barbell-avatar = Haltero
 bike-avatar = Biciklo
