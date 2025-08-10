@@ -54,3 +54,5 @@ experimental-features-newtab-sections-follow-block-description = Järjestä Uusi
 # Firefox Web Apps
 experimental-features-fx-web-apps =
     .label = Lisää sivustoja tehtäväpalkkiin
+# “Add tab to taskbar” is found in the tooltip text of `-taskbar-tab-urlbar-button-open`.
+experimental-features-fx-web-apps-description = Avaa usein vierailemiasi sivustoja verkkosovelluksena tehtäväpalkista. Etsi osoiterivin oikealta puolelta Lisää välilehti tehtäväpalkkiin -kuvake, niin sivusto avautuu pelkistetyssä ikkunassa, jossa on kaikki { -brand-product-name }in suojaukset. <a data-l10n-name="connect">Jaa palautetta</a>
