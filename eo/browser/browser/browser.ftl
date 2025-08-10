@@ -801,6 +801,29 @@ urlbar-result-weather-title-city-only = <strong>{ $temperature }°{ $unit }</str
 #       name of a company, organization, or service.
 urlbar-result-weather-provider-sponsored = { $provider } · Patronita
 
+## These strings are used for Realtime suggestions in the urlbar.
+## Market refers to stocks, indexes, and funds.
+
+# This string is shown as title when Market suggestion are disabled.
+urlbar-result-market-opt-in-title = Ricevu informojn pri akciaj merkatoj rekte en via serĉa strio
+# This string is shown as description when Market suggestion are disabled.
+urlbar-result-market-opt-in-description = Montri ĝisdatigojn el akciaj merkatoj kaj pli da informo de niaj asociitoj kiam vi dividas viajn serĉojn kun { -vendor-short-name }. <a data-l10n-name="learn-more-link">Pli da informo</a>
+# This string is shown as button to activate online when realtime suggestion are disabled.
+urlbar-result-realtime-opt-in-allow = Montri sugestojn
+# This string is shown in split button to dismiss activation the Realtime suggestion.
+urlbar-result-realtime-opt-in-not-now = Ne nun
+urlbar-result-realtime-opt-in-dismiss = Ignori
+urlbar-result-realtime-opt-in-dismiss-all =
+    .label = Ne montri tiun ĉi sugestojn
+# This string is shown in the result menu.
+urlbar-result-menu-dont-show-market =
+    .label = Ne montri sugestojn el akciaj merkatoj
+# A message that replaces a result when the user dismisses Market suggestions.
+urlbar-result-dismissal-acknowledgment-market = Dankon pro via opinio. Vi ne plu vidos sugestojn el akciaj merkatoj.
+# A message that replaces a result when the user dismisses all suggestions of a
+# particular type.
+urlbar-result-dismissal-acknowledgment-all = Dankon pro via opinio. Vi ne plu vidos tiajn ĉi sugestojn.
+
 ## Strings used for buttons in the urlbar
 
 # Label prompting user to search with a particular search engine.
@@ -834,6 +857,8 @@ urlbar-searchmode-default =
 urlbar-searchmode-popup-description = Ĉi foje serĉi per:
 urlbar-searchmode-popup-search-settings-menuitem =
     .label = Agordoj de serĉo
+# Label shown next to a new search engine in the Searchmode Switcher popup to promote it.
+urlbar-searchmode-new = Nova
 # Searchmode Switcher button
 # Variables:
 #   $engine (String): the current default search engine.
@@ -1161,6 +1186,10 @@ tabs-toolbar-list-all-tabs =
     .label = Listigi ĉiujn langetojn
     .tooltiptext = Listigi ĉiujn langetojn
 
+## Drop indicator text for pinned tabs when no tabs are pinned.
+
+pinned-tabs-drop-indicator = Faligu langetojn ĉi tien por alpingli
+
 ## Infobar shown at startup to suggest session-restore
 
 # <img data-l10n-name="icon"/> will be replaced by the application menu icon
@@ -1331,3 +1360,22 @@ onboarding-checklist-button-label = Fini agordadon
 onboarding-aw-finish-setup-button =
     .label = Fini agordadon
     .tooltiptext = Fini agordadon de { -brand-short-name }
+
+## The urlbar trust panel
+
+trustpanel-etp-label-enabled = La plibonigita protekto kontraŭ spurado estas ŝaltita
+trustpanel-etp-label-disabled = La plibonigita protekto kontraŭ spurado estas malŝaltita
+# Variables
+#  $host (String): the hostname of the site that is being displayed.
+trustpanel-etp-toggle-on =
+    .aria-label = Plibonigita protekto kontraŭ spurado: ŝaltita por { $host }
+# Variables
+#  $host (String): the hostname of the site that is being displayed.
+trustpanel-etp-toggle-off =
+    .aria-label = Plibonigita protekto kontraŭ spurado: malŝaltita por { $host }
+trustpanel-etp-description-enabled = Se io misfunkcias en tiu ĉi retejo, provu malŝalti protektojn.
+trustpanel-etp-description-disabled = { -brand-product-name } konsideras ke entreprenoj devus malpli sekvi vin. Kiam vi ŝaltas protektojn ni blokas tiom da spuriloj, kiom ni povas.
+trustpanel-connection-label-secure = Sekura konekto
+trustpanel-connection-label-insecure = Nesekura konekto
+trustpanel-header-enabled = { -brand-product-name } staras garde
+trustpanel-description-enabled = Vi estas protektita. Se ni malkovras ion, ni sciigos vin
