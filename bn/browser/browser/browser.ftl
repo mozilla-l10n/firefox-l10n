@@ -1038,6 +1038,10 @@ tabs-toolbar-list-all-tabs =
     .label = সব ট্যাবের তালিকা
     .tooltiptext = সব ট্যাবের তালিকা
 
+## Drop indicator text for pinned tabs when no tabs are pinned.
+
+pinned-tabs-drop-indicator = পিন করতে এখানে ট্যাবটি ড্রপ করুন
+
 ## Infobar shown at startup to suggest session-restore
 
 # <img data-l10n-name="icon"/> will be replaced by the application menu icon
@@ -1075,6 +1079,10 @@ refresh-blocked-allow =
     .label = অনুমোদন
     .accesskey = A
 
+## Firefox Relay integration
+
+firefox-relay-offer-why-to-use-relay = আমাদের নিরাপদ ও সহজে ব্যবহারযোগ্য মাস্কগুলি আপনার পরিচয় সুরক্ষিত রাখে এবং আপনার ইমেইল ঠিকানা লুকিয়ে স্প্যাম প্রতিরোধ করে ।
+
 ## Add-on Pop-up Notifications
 
 popup-notification-addon-install-unsigned =
@@ -1110,6 +1118,17 @@ popup-warning-button =
 #   $popupURI (String): the URI for the pop-up window
 popup-show-popup-menuitem =
     .label = '{ $popupURI }' প্রদর্শন
+
+## File-picker crash notification ("FilePickerCrashed.sys.mjs")
+
+file-picker-failed-open = Windows ফাইল-ডায়লগ খোলা যায়নি। কোনও ফাইল বা ফোল্ডার নির্বাচন করা যায়নি।
+
+# Button used with file-picker-crashed-save-default. Opens the folder in Windows
+# Explorer, with the saved file selected and in focus.
+#
+# The wording here should be consistent with the Windows variant of
+# `downloads-cmd-show-menuitem-2` and similar messages.
+
 
 ## The urlbar trust panel
 
