@@ -88,6 +88,14 @@ newtab-confirm-delete-history-p2 = Tiu ĉi ago ne estas malfarebla.
 
 newtab-topsite-sponsored = Patronita
 
+## Label used by screen readers for pinned top sites
+
+# Variables:
+#   $title (string) - The label or hostname of the site.
+topsite-label-pinned =
+    .aria-label = { $title } (alpinglita)
+    .title = { $title }
+
 ## Context Menu - Action Tooltips.
 
 # General tooltip for context menus.
@@ -540,6 +548,8 @@ newtab-custom-wallpaper-cta = Provi
 
 ## Strings for new user activation custom wallpaper highlight
 
+newtab-new-user-custom-wallpaper-title = Elekti ekranfonon por personecigi vian { -brand-product-name }
+newtab-new-user-custom-wallpaper-subtitle = Igu ĉiun novan langeton propra per personecigitaj ekranfonoj kaj koloroj.
 newtab-new-user-custom-wallpaper-cta = Provu nun
 
 ## Strings for download mobile highlight

@@ -51,3 +51,8 @@ experimental-features-link-previews-description-no-ai =
 experimental-features-newtab-sections-follow-block =
     .label = Sekcje tematyczne i obserwowanie/blokowanie artykułów na stronie nowej karty
 experimental-features-newtab-sections-follow-block-description = Organizuj artykuły na stronie nowej karty w sekcjach tematycznych (sport, jedzenie, rozrywka i nie tylko), aby zachować porządek i łatwiej je przeglądać. Korzystaj z nowych przycisków „Obserwuj” i „Zablokuj”, aby dostosować wyświetlane treści. <a data-l10n-name="connect">Podziel się opinią</a>
+# Firefox Web Apps
+experimental-features-fx-web-apps =
+    .label = Dodawanie witryn do paska zadań
+# “Add tab to taskbar” is found in the tooltip text of `-taskbar-tab-urlbar-button-open`.
+experimental-features-fx-web-apps-description = Otwieraj często odwiedzane witryny jako aplikacje internetowe z paska zadań. Poszukaj ikony „Dodaj kartę do paska zadań” po prawej stronie paska adresu, aby uruchomić daną witrynę w uproszczonym oknie ze wszystkimi zabezpieczeniami { -brand-product-name(case: "gen") }. <a data-l10n-name="connect">Podziel się opinią</a>
