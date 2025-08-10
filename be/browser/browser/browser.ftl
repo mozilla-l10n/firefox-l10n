@@ -1508,3 +1508,16 @@ trustpanel-fingerprinter-not-blocking-tab-header =
        *[many] { -brand-product-name } дазволіў { $count } збіральнікаў лічбавых адбіткаў
     }
 trustpanel-fingerprinter-list-header = Гэтыя сайты спрабуюць сабраць вашы лічбавыя адбіткі:
+trustpanel-cryptominer-blocking-tab-header =
+    { $count ->
+        [one] { -brand-product-name } заблакаваў { $count } крыптамайнер
+        [few] { -brand-product-name } заблакаваў { $count } крыптамайнеры
+       *[many] { -brand-product-name } заблакаваў { $count } крыптамайнераў
+    }
+trustpanel-cryptominer-not-blocking-tab-header =
+    { $count ->
+        [one] { -brand-product-name } дазволіў { $count } крыптамайнер
+        [few] { -brand-product-name } дазволіў { $count } крыптамайнеры
+       *[many] { -brand-product-name } дазволіў { $count } крыптамайнераў
+    }
+trustpanel-cryptominer-tab-list-header = Гэтыя сайты спрабуюць здабываць крыптавалюту:

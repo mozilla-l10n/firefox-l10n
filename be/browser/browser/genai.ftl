@@ -51,11 +51,20 @@ genai-menu-ask-generic =
 # $provider (string) - name of the provider
 genai-menu-ask-provider =
     .label = Спытаць { $provider }
+genai-menu-open-generic =
+    .label = Адкрыць чат-бот са штучным інтэлектам
+# $provider (string) - name of the provider
+genai-menu-open-provider =
+    .label = Адкрыць { $provider }
 genai-menu-remove-generic =
     .label = Выдаліць чат-бота ШІ
 # $provider (string) - name of the provider
 genai-menu-remove-provider =
     .label = Выдаліць { $provider }
+genai-menu-remove-sidebar =
+    .label = Выдаліць з бакавой панэлі
+genai-menu-new-badge = Стварыць
+genai-menu-summarize-page = Падсумаваць змест старонкі
 genai-input-ask-generic =
     .placeholder = Спытаць чат-бота ШІ…
 # $provider (string) - name of the provider
@@ -84,6 +93,8 @@ genai-shortcuts-selected-warning =
         }
 genai-shortcuts-hide =
     .label = Схаваць ярлык чат-бота
+genai-menu-no-provider =
+    .label = Спытаць чат-бота са штучным інтэлектам
 
 ## Chatbot header
 

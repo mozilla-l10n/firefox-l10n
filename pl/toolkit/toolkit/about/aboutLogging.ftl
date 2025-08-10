@@ -29,6 +29,7 @@ about-logging-no-log-modules = Brak
 about-logging-no-log-file = Brak
 about-logging-logging-preset-selector-text = Ustawienie:
 about-logging-with-profiler-stacks-checkbox = Ślady stosów dla komunikatów dziennika
+about-logging-with-javascript-tracing-checkbox = Śledzenie JavaScript
 about-logging-menu =
     .title = Zaawansowane
 
@@ -52,6 +53,8 @@ about-logging-preset-webcodecs-label = WebCodecs
 about-logging-preset-webcodecs-description = Moduły do diagnozowania problemów z dekoderami i koderami dźwięku/wideo WebCodecs oraz dekoderami obrazów
 about-logging-preset-ml-label = Uczenie maszynowe
 about-logging-preset-ml-description = Moduły do diagnozowania problemów uczenia maszynowego
+about-logging-preset-web-compat-label = Zgodność w Internecie
+about-logging-preset-web-compat-description = Moduły do diagnozowania problemów ze zgodnością w Internecie
 about-logging-preset-webgpu-label = WebGPU
 about-logging-preset-webgpu-description = Moduły do diagnozowania problemów z WebGPU
 about-logging-preset-gfx-label = Grafika

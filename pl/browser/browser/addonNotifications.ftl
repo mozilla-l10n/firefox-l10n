@@ -133,11 +133,13 @@ addon-install-error-corrupt-file = Dodatek pobrany z tej strony nie może zosta
 addon-install-error-file-access = Dodatek „{ $addonName }” nie może zostać zainstalowany, ponieważ { -brand-short-name } nie może zmodyfikować potrzebnego pliku.
 addon-install-error-not-signed = { -brand-short-name } uniemożliwił tej stronie instalację niezweryfikowanego dodatku.
 addon-install-error-invalid-domain = Dodatek „{ $addonName }” nie może być instalowany z tego miejsca.
+addon-install-error-no-addon-name-file-access = Dodatek nie może zostać zainstalowany, ponieważ { -brand-short-name } nie może zmodyfikować potrzebnego pliku.
 addon-local-install-error-network-failure = Nie udało się zainstalować dodatku z powodu błędu systemu plików.
 addon-local-install-error-incorrect-hash = Nie udało się zainstalować dodatku, ponieważ nie pasuje on do dodatku oczekiwanego przez { -brand-short-name(case: "acc") }.
 addon-local-install-error-corrupt-file = Dodatek nie może zostać zainstalowany, ponieważ wygląda on na uszkodzony.
 addon-local-install-error-file-access = Dodatek „{ $addonName }” nie może zostać zainstalowany, ponieważ { -brand-short-name } nie może zmodyfikować potrzebnego pliku.
 addon-local-install-error-not-signed = Ten dodatek nie może zostać zainstalowany, ponieważ nie został zweryfikowany.
+addon-local-install-no-addon-name-error-file-access = Dodatek nie może zostać zainstalowany, ponieważ { -brand-short-name } nie może zmodyfikować potrzebnego pliku.
 # Variables:
 #   $appVersion (String): the application version.
 addon-install-error-incompatible = Dodatek „{ $addonName }” nie może zostać zainstalowany, ponieważ nie jest on zgodny z { -brand-short-name(case: "ins") } { $appVersion }.

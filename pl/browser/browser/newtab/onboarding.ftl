@@ -445,8 +445,12 @@ tab-groups-onboarding-feature-callout-subtitle = Wprowadź porządek, przeciąga
 tab-groups-onboarding-create-group-title-3 = W każdej chwili możesz znaleźć swoje grupy kart w menu „Pokaż wszystkie karty”.
 tab-groups-onboarding-create-group-title-2 = Tutaj możesz w każdej chwili znaleźć swoje grupy kart.
 tab-groups-onboarding-create-group-no-alltabs-button-title = Znajdź swoje grupy, wyszukując je na pasku adresu.
+# The text "list all tabs" refers to the string tabs-toolbar-list-all-tabs
+tab-groups-onboarding-saved-groups-title-3 = Kiedy zamkniesz grupę kart, w każdej chwili możesz ją przywrócić w menu „Pokaż wszystkie karty”.
 tab-groups-onboarding-saved-groups-title-2 = Kiedy zamkniesz grupę kart, tutaj możesz ją w każdej chwili przywrócić.
 tab-groups-onboarding-saved-groups-no-alltabs-button-title-2 = Znajdź zamknięte grupy, wyszukując je na pasku adresu.
+# The text "list all tabs" refers to the string tabs-toolbar-list-all-tabs
+tab-groups-onboarding-session-restore-title-2 = W każdej chwili możesz przywrócić swoje grupy kart w menu „Pokaż wszystkie karty”.
 tab-groups-onboarding-session-restore-title = Tutaj możesz w każdej chwili przywrócić swoje grupy kart.
 tab-groups-onboarding-dismiss = OK
 

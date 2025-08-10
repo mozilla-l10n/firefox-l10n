@@ -126,6 +126,11 @@ windows-10-eos-sync-new-device-primary-label = Сінхранізаваць за
 windows-10-eos-sync-general-title-1 = Абараніце { -brand-short-name }, які вы зрабілі сваім.
 windows-10-eos-sync-general-subtitle-1 = Стварайце рэзервовыя копіі і сінхранізуйце паролі, закладкі, налады і іншыя звесткі, каб захаваць тое, што вам трэба.
 windows-10-eos-sync-general-title-2 = Зараз самы час зрабіць рэзервовую копію пароляў і закладак.
+windows-10-eos-sync-general-subtitle-2 = Сінхранізуйце зараз, каб абараніць рэчы, якія вы даверылі { -brand-short-name } — і атрымайце да іх доступ у любым месцы і ў любы час.
+windows-10-eos-sync-tour-title-1 = Занадта шмат картак? Навядзіце парадак з дапамогаю груп картак.
+windows-10-eos-sync-tour-subtitle-1 = Перацягніце адну картку на іншую, каб стварыць групу і падтрымаць парадак.
+windows-10-eos-sync-tour-title-2 = Будзьце арганізаванымі для Windows 11.
+windows-10-eos-sync-tour-subtitle-2 = Сінхранізуйце свае закладкі, паролі і налады, каб стварыць іх рэзервовую копію перад пераключэннем.
 
 ## Sidebar Strings
 

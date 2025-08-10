@@ -279,6 +279,8 @@ tab-group-editor-color-selector2-gray = Szary
 tab-group-editor-color-selector2-red = Czerwony
     .title = Czerwony
 tab-group-description = { $tabGroupName } — grupa kart
+tab-group-label-tooltip-collapsed = { $tabGroupName } — zwinięte
+tab-group-label-tooltip-expanded = { $tabGroupName } — rozwinięte
 tab-context-unnamed-group =
     .label = Grupa bez nazwy
 tab-group-name-default = Grupa bez nazwy
@@ -325,6 +327,17 @@ tab-context-ungroup-tab =
            *[other] Usuń z grup
         }
     .accesskey = U
+# When a tab group containing the active tab is collapsed, the active tab
+# remains visible. An indicator appears at the end of the group showing the
+# number of remaining tabs that are hidden by the collapsed group,
+# e.g. "+2" for a group with 3 total tabs.
+tab-group-overflow-count = +{ $tabCount }
+tab-group-overflow-count-tooltip =
+    { $tabCount ->
+        [one] { $tabCount } karta więcej
+        [few] { $tabCount } karty więcej
+       *[many] { $tabCount } kart więcej
+    }
 
 ## Open/saved tab group context menu
 
