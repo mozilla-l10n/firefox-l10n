@@ -1649,4 +1649,18 @@ trustpanel-tracking-cookies-not-blocking-tab-header =
        *[other] { -brand-product-name } povolil { $count } sledovacích cookies třetích stran
     }
 trustpanel-tracking-cookies-tab-list-header = Tyto stránky se vás snaží sledovat:
+trustpanel-tracking-content-blocking-tab-header =
+    { $count ->
+        [one] { -brand-product-name } zablokoval { $count } sledovací prvek
+        [few] { -brand-product-name } zablokoval { $count } sledovací prvky
+        [many] { -brand-product-name } zablokoval { $count } sledovacích prvků
+       *[other] { -brand-product-name } zablokoval { $count } sledovacích prvků
+    }
+trustpanel-tracking-content-not-blocking-tab-header =
+    { $count ->
+        [one] { -brand-product-name } povolil { $count } sledovací prvek
+        [few] { -brand-product-name } povolil { $count } sledovací prvky
+        [many] { -brand-product-name } povolil { $count } sledovacích prvků
+       *[other] { -brand-product-name } povolil { $count } sledovacích prvků
+    }
 trustpanel-tracking-content-tab-list-header = Tyto stránky se vás snaží sledovat:
