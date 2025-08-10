@@ -207,6 +207,9 @@ urlbar-result-menu-show-less-frequently =
     .label = Näytä harvemmin
 urlbar-result-menu-dont-show-weather-suggestions =
     .label = Älä näytä sääehdotuksia
+# Used for Split Button.
+urlbar-splitbutton-dropmarker =
+    .title = Avaa valikko
 # A message shown in the urlbar when the user submits feedback on a suggestion
 # (e.g., it shows an inaccurate location, it's shown too often, etc.).
 urlbar-feedback-acknowledgment = Kiitos palautteestasi
@@ -791,6 +794,17 @@ urlbar-result-weather-title-city-only = <strong>{ $temperature }°{ $unit }</str
 #       name of a company, organization, or service.
 urlbar-result-weather-provider-sponsored = { $provider } · Sponsoroitu
 
+## These strings are used for Realtime suggestions in the urlbar.
+## Market refers to stocks, indexes, and funds.
+
+# This string is shown as button to activate online when realtime suggestion are disabled.
+urlbar-result-realtime-opt-in-allow = Näytä ehdotukset
+# This string is shown in split button to dismiss activation the Realtime suggestion.
+urlbar-result-realtime-opt-in-not-now = Ei nyt
+urlbar-result-realtime-opt-in-dismiss = Hylkää
+urlbar-result-realtime-opt-in-dismiss-all =
+    .label = Älä näytä näitä ehdotuksia
+
 ## Strings used for buttons in the urlbar
 
 # Label prompting user to search with a particular search engine.
@@ -1321,3 +1335,27 @@ onboarding-checklist-button-label = Viimeistele määritys
 onboarding-aw-finish-setup-button =
     .label = Viimeistele määritys
     .tooltiptext = Viimeistele { -brand-short-name }in määritys
+
+## The urlbar trust panel
+
+trustpanel-connection-label-secure = Yhteys on suojattu
+trustpanel-connection-label-insecure = Yhteys ei ole suojattu
+trustpanel-clear-cookies-subview-button-clear = Tyhjennä
+trustpanel-clear-cookies-subview-button-cancel = Peruuta
+
+## Variables
+##  $count (String): the number of trackers blocked.
+
+trustpanel-tracking-description = Ilman seuraimia jotkin painikkeet, lomakkeet ja kirjautumiskentät eivät välttämättä toimi.
+trustpanel-insecure-section-header = Yhteys ei ole suojattu
+trustpanel-insecure-description = Tälle sivustolle lähettämiäsi tietoja ei salata. Niitä voidaan tarkastella, varastaa tai muuttaa.
+trustpanel-list-label-fingerprinter =
+    { $count ->
+        [one] { $count } yksilöijä
+       *[other] { $count } yksilöijää
+    }
+trustpanel-social-tracking-tab-list-header = Nämä sivustot yrittävät seurata sinua:
+trustpanel-tracking-cookies-tab-list-header = Nämä sivustot yrittävät seurata sinua:
+trustpanel-tracking-content-tab-list-header = Nämä sivustot yrittävät seurata sinua:
+trustpanel-fingerprinter-list-header = Nämä sivustot yrittävät yksilöidä sinut:
+trustpanel-cryptominer-tab-list-header = Nämä sivustot yrittävät louhia kryptovaluuttoja:
