@@ -100,6 +100,18 @@ fxa-adoption-passwords-subtitle = Chroń swoje hasła, synchronizując je ze swo
 # Opens Mozilla accounts sign-up page
 fxa-adoption-passwords-primary-button-label = Utwórz konto
 
+## Windows 10 EoS Sync messages group 1 callouts
+
+windows-10-eos-sync-urgency-title-1 = Nie strać wszystkich zachowanych danych po przejściu na system Windows 11.
+windows-10-eos-sync-urgency-subtitle-1 = Synchronizuj już teraz, aby zakładki, hasła i ustawienia { -brand-short-name(case: "gen") } były zawsze bezpieczne i łatwe do przywrócenia.
+windows-10-eos-sync-urgency-title-2 = Żegnasz się z systemem Windows 10? Chroń swoje dane podczas przejścia na nowy system.
+windows-10-eos-sync-urgency-subtitle-2 = Nawet jeśli nie korzystasz z { -brand-short-name(case: "gen") } codziennie, synchronizuj zakładki i hasła, aby były zawsze bezpieczne i dostępne.
+windows-10-eos-sync-new-device-title-1 = Nie ryzykuj, że na nowym urządzeniu będziesz musieć zaczynać od zera.
+windows-10-eos-sync-new-device-subtitle-1 = Synchronizuj, aby zabrać zakładki, hasła i preferowane ustawienia { -brand-short-name(case: "gen") } ze sobą podczas przenosin.
+windows-10-eos-sync-new-device-title-2 = Przenosisz się na nowe urządzenie? Nie strać tego, co ważne.
+windows-10-eos-sync-new-device-subtitle-2 = Bez względu na to, jak często korzystasz z { -brand-short-name(case: "gen") }, synchronizacja chroni Twoje zakładki, hasła i ustawienia.
+windows-10-eos-sync-new-device-primary-label = Zacznij synchronizować
+
 ## Sidebar Strings
 
 sidebar-button-callout-title = Widoczne tytuły kart na panelu bocznym

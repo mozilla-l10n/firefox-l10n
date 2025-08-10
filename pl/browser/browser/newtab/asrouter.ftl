@@ -363,6 +363,6 @@ windows-10-eos-sync-spotlight-primary-label = Utwórz kopię zapasową { -brand-
 ## Windows 10 EoS Sync messages group 1 toast notification
 
 windows-10-eos-sync-toast-title = Aktualizujesz system do Windows 11? Nie trać zakładek i haseł.
-windows-10-eos-sync-toast-subtitle = Zrób kopię zapasową swoich danych, aby { -brand-short-name } był zawsze gotowy do użycia, na tym komputerze lub kolejnym.
+windows-10-eos-sync-toast-subtitle = Zrób kopię zapasową swoich danych, aby { -brand-short-name } był zawsze gotowy do użycia, na tym komputerze lub nowym.
 windows-10-eos-sync-toast-primary-label = Zacznij teraz
 windows-10-eos-sync-toast-secondary-label = Przypomnij później

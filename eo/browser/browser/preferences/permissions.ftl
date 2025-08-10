@@ -173,6 +173,20 @@ permissions-site-camera-disable-desc = Tio ĉi evitos ke retejoj, kiuj ne estas 
 permissions-site-localhost-window =
     .title = Agordoj - Programoj kaj servoj de la aparato
     .style = { permissions-window2.style }
+permissions-site-localhost-desc = Tiuj ĉi retejoj petis aliron al programoj kaj servoj en tiu ĉi aparato. Vi povas elekti ĉu permesi aŭ bloki tiun eblon por retejoj.
+permissions-site-localhost-disable-label =
+    .label = Bloki novajn petojn aliri programojn kaj servojn en tiu ĉi aparato
+permissions-site-localhost-disable-desc = Tio ĉi blokos la peton aliri programojn kaj servoj en tiu ĉi aparato por ĉiu retejoj, kiu ne estas listigita supre. Tiu ĉi ago povus misfunkciigi kelkajn retejajn trajtojn.
+
+## Site Permissions - Local network
+
+permissions-site-local-network-window =
+    .title = Agordoj - Aparatoj en la loka reto
+    .style = { permissions-window2.style }
+permissions-site-local-network-desc = Tiuj ĉi retejoj petis aliron al programoj kaj servoj en aparatoj konektitaj al via sendrata (Wi-Fi) aŭ loka reto. Vi povas elekti ĉu permesi aŭ bloki tiun eblon por retejoj.
+permissions-site-local-network-disable-label =
+    .label = Bloki novajn petojn aliri programojn kaj servojn en aparatoj konektita al via sendrata (Wi-Fi) aŭ loka reto.
+permissions-site-local-network-disable-desc = Tio ĉi blokos la peton aliri programojn kaj servoj en aparatoj konektita al via sendrata (Wi-Fi) aŭ loka reto por ĉiu retejoj, kiu ne estas listigita supre. Tiu ĉi ago povus misfunkciigi kelkajn retejajn trajtojn.
 
 ## Site Permissions - Microphone
 
