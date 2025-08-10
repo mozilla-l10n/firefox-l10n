@@ -20,3 +20,4 @@ elevation-more-elevated =
     gayi’ìj gi’iaj sunj a’ngô ñûn { -brand-short-name } gayi’ì. Ga’ue dunayi’ìt
     { -brand-short-name } hìaj, asi ginun gi’iaj sunt ni nanâ doj dunayi’ìt man, asi si yakaj guendat
     sa nahuin nakà nan.
+sandbox-missing-unprivileged-namespaces = Huā dā'āj nej sa 'hiaj sun da' gā hue'ê riña { -brand-short-name } sī rugûñūn’ūnj ta’uj ngà sistema operativo nākà nañûn nan.

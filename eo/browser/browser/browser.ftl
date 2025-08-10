@@ -1433,3 +1433,63 @@ trustpanel-list-label-social-tracking =
         [one] { $count } socireta spurilo
        *[other] { $count } sociretaj spuriloj
     }
+trustpanel-list-label-cryptominer =
+    { $count ->
+        [one] { $count } minilo de ĉifromono
+       *[other] { $count } miniloj de ĉifromono
+    }
+trustpanel-social-tracking-blocking-tab-header =
+    { $count ->
+        [one] { -brand-product-name } blokis { $count } sociretan spurilon
+       *[other] { -brand-product-name } blokis { $count } sociretajn spurilojn
+    }
+trustpanel-social-tracking-not-blocking-tab-header =
+    { $count ->
+        [one] { -brand-product-name } permesis { $count } sociretan spurilon
+       *[other] { -brand-product-name } permesis { $count } sociretajn spurilojn
+    }
+trustpanel-social-tracking-tab-list-header = Tiuj ĉi retejoj klopodas spuri vin:
+trustpanel-tracking-cookies-blocking-tab-header =
+    { $count ->
+        [one] { -brand-product-name } blokis { $count } interretejan spurilan kuketon
+       *[other] { -brand-product-name } blokis { $count } interretejajn spurilajn kuketojn
+    }
+trustpanel-tracking-cookies-not-blocking-tab-header =
+    { $count ->
+        [one] { -brand-product-name } permesis { $count } interretejan spurilan kuketon
+       *[other] { -brand-product-name } permesis { $count }  interretejajn spurilajn kuketojn
+    }
+trustpanel-tracking-cookies-tab-list-header = Tiuj ĉi retejoj klopodas spuri vin:
+trustpanel-tracking-content-blocking-tab-header =
+    { $count ->
+        [one] { -brand-product-name } blokis { $count } spurilon
+       *[other] { -brand-product-name } blokis { $count } spurilojn
+    }
+trustpanel-tracking-content-not-blocking-tab-header =
+    { $count ->
+        [one] { -brand-product-name } permesis { $count } spurilon
+       *[other] { -brand-product-name } permesis { $count } spurilojn
+    }
+trustpanel-tracking-content-tab-list-header = Tiuj ĉi retejoj klopodas spuri vin:
+trustpanel-fingerprinter-blocking-tab-header =
+    { $count ->
+        [one] { -brand-product-name } blokis { $count } identigilon de ciferecaj spuroj
+       *[other] { -brand-product-name } blokis { $count } identigilonj de ciferecaj spuroj
+    }
+trustpanel-fingerprinter-not-blocking-tab-header =
+    { $count ->
+        [one] { -brand-product-name } permesis { $count } identigilon de ciferecaj spuroj
+       *[other] { -brand-product-name } permesis { $count } identigilojn de ciferecaj spuroj
+    }
+trustpanel-fingerprinter-list-header = Tiuj ĉi retejoj klopodas identigi vian ciferecan spuron:
+trustpanel-cryptominer-blocking-tab-header =
+    { $count ->
+        [one] { -brand-product-name } blokis { $count } minilon de ĉifromono
+       *[other] { -brand-product-name } blokis { $count } minilojn de ĉifromono
+    }
+trustpanel-cryptominer-not-blocking-tab-header =
+    { $count ->
+        [one] { -brand-product-name } permesis { $count } minilon de ĉifromono
+       *[other] { -brand-product-name } permesis { $count } minilojn de ĉifromono
+    }
+trustpanel-cryptominer-tab-list-header = Tiuj ĉi retejoj klopodas mini ĉifromonon:
