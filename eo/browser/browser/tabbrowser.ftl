@@ -255,6 +255,8 @@ tab-group-editor-color-selector2-gray = Griza
 tab-group-editor-color-selector2-red = Ruĝa
     .title = Ruĝa
 tab-group-description = { $tabGroupName } — Grupo de langetoj
+tab-group-label-tooltip-collapsed = { $tabGroupName } — Faldita
+tab-group-label-tooltip-expanded = { $tabGroupName } — Malfaldita
 tab-context-unnamed-group =
     .label = Grupo sen nomo
 tab-group-name-default = Grupo sen nomo
@@ -301,6 +303,16 @@ tab-context-ungroup-tab =
            *[other] Forigi el grupoj
         }
     .accesskey = F
+# When a tab group containing the active tab is collapsed, the active tab
+# remains visible. An indicator appears at the end of the group showing the
+# number of remaining tabs that are hidden by the collapsed group,
+# e.g. "+2" for a group with 3 total tabs.
+tab-group-overflow-count = +{ $tabCount }
+tab-group-overflow-count-tooltip =
+    { $tabCount ->
+        [one] alia langeto
+       *[other] { $tabCount } aliaj langetoj
+    }
 
 ## Open/saved tab group context menu
 

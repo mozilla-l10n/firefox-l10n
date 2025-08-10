@@ -173,12 +173,17 @@ permissions-site-camera-disable-desc = Uniemożliwi to witrynom spoza listy powy
 permissions-site-localhost-window =
     .title = Aplikacje i usługi na urządzeniu — uprawnione witryny
     .style = { permissions-window2.style }
+permissions-site-localhost-desc = Te strony prosiły o dostęp do aplikacji i usług na tym urządzeniu. Możesz na to zezwolić lub zablokować witrynom ten dostęp.
+permissions-site-localhost-disable-label =
+    .label = Blokowanie nowych próśb o dostęp do aplikacji i usług na tym urządzeniu
+permissions-site-localhost-disable-desc = Spowoduje to, że witryny spoza powyższej listy nie będą mogły prosić o dostęp do aplikacji i usług na tym urządzeniu. Może to sprawić, że niektóre funkcje witryny nie będą poprawnie działać.
 
 ## Site Permissions - Local network
 
 permissions-site-local-network-window =
     .title = Urządzenia w sieci lokalnej — uprawnione witryny
     .style = { permissions-window2.style }
+permissions-site-local-network-desc = Te strony prosiły o dostęp do aplikacji i usług na urządzeniach podłączonych do sieci lokalnej lub Wi-Fi. Możesz na to zezwolić lub zablokować witrynom ten dostęp.
 
 ## Site Permissions - Microphone
 

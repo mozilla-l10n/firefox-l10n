@@ -29,6 +29,7 @@ about-logging-no-log-modules = Neniu
 about-logging-no-log-file = Neniu
 about-logging-logging-preset-selector-text = Antaŭdifinita agordaro de registro:
 about-logging-with-profiler-stacks-checkbox = Aktivigi stakajn spurojn por registraj mesaĝoj
+about-logging-with-javascript-tracing-checkbox = Aktivigi la spuradon de JavaScript
 about-logging-menu =
     .title = Spertulaj agordoj
 
@@ -52,6 +53,8 @@ about-logging-preset-webcodecs-label = WebCodecs
 about-logging-preset-webcodecs-description = Registraj moduloj por diagnozi problemojn kun la (mal)kodiloj de aŭdvidaĵoj WebCoded, kaj kun la malkodiloj de bildoj.
 about-logging-preset-ml-label = Aŭtomata lernado
 about-logging-preset-ml-description = Registraj moduloj por diagnozi problemojn kun aŭtomata lernado
+about-logging-preset-web-compat-label = Teksaĵa kongruo
+about-logging-preset-web-compat-description = Registraj moduloj por diagnozi problemojn pri Teksaĵa kongruo
 about-logging-preset-webgpu-label = WebGPU
 about-logging-preset-webgpu-description = Registraj moduloj por diagnozi problemojn kun WebGPU
 about-logging-preset-gfx-label = Grafikoj
