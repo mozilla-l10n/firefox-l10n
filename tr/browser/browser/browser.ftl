@@ -808,6 +808,8 @@ urlbar-result-weather-provider-sponsored = { $provider } · Sponsorlu
 
 # This string is shown as title when Market suggestion are disabled.
 urlbar-result-market-opt-in-title = Borsa verilerine doğrudan arama çubuğunuzdan ulaşın
+# This string is shown as description when Market suggestion are disabled.
+urlbar-result-market-opt-in-description = Borsa verilerini ve iş ortaklarımızdan gelen haberleri görmek için arama sorgusu verilerinizi { -vendor-short-name } ile paylaşabilirsiniz. <a data-l10n-name="learn-more-link">Daha fazla bilgi alın</a>
 # This string is shown as button to activate online when realtime suggestion are disabled.
 urlbar-result-realtime-opt-in-allow = Önerileri göster
 # This string is shown in split button to dismiss activation the Realtime suggestion.
