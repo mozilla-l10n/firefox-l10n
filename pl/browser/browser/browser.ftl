@@ -141,6 +141,10 @@ urlbar-default-notification-anchor =
     .tooltiptext = Wyświetl powiadomienie
 urlbar-geolocation-notification-anchor =
     .tooltiptext = Wyświetl zapytanie o położenie
+urlbar-localhost-notification-anchor =
+    .tooltiptext = Zarządzaj dostępem do lokalnych urządzeń dla tej witryny
+urlbar-local-network-notification-anchor =
+    .tooltiptext = Zarządzaj udostępnianiem dostępu do sieci lokalnej tej witrynie
 urlbar-xr-notification-anchor =
     .tooltiptext = Zarządzaj uprawnieniami rzeczywistości wirtualnej
 urlbar-storage-access-anchor =
@@ -207,6 +211,9 @@ urlbar-result-menu-show-less-frequently =
     .label = Pokazuj rzadziej
 urlbar-result-menu-dont-show-weather-suggestions =
     .label = Nie pokazuj podpowiedzi dotyczących pogody
+# Used for Split Button.
+urlbar-splitbutton-dropmarker =
+    .title = Otwórz menu
 # A message shown in the urlbar when the user submits feedback on a suggestion
 # (e.g., it shows an inaccurate location, it's shown too often, etc.).
 urlbar-feedback-acknowledgment = Dziękujemy za opinię
@@ -238,6 +245,10 @@ urlbar-search-mode-actions = Działania
 
 urlbar-geolocation-blocked =
     .tooltiptext = Udostępnianie położenia tej witrynie zostało zablokowane
+urlbar-localhost-blocked =
+    .tooltiptext = Połączenia z lokalnymi urządzeniami dla tej witryny zostały zablokowane
+urlbar-local-network-blocked =
+    .tooltiptext = Połączenia z siecią lokalną dla tej witryny zostały zablokowane
 urlbar-xr-blocked =
     .tooltiptext = Dostęp do urządzenia rzeczywistości wirtualnej dla tej witryny został zablokowany
 urlbar-web-notifications-blocked =
@@ -255,7 +266,7 @@ urlbar-popup-blocked =
 urlbar-autoplay-media-blocked =
     .tooltiptext = Automatyczne odtwarzanie treści z dźwiękiem przez tę witrynę zostało zablokowane
 urlbar-canvas-blocked =
-    .tooltiptext = Odczytywanie danych canvas przez witrynę zostało zablokowane
+    .tooltiptext = Odczytywanie danych canvas przez tę witrynę zostało zablokowane
 urlbar-midi-blocked =
     .tooltiptext = Dostęp do urządzeń MIDI dla tej witryny został zablokowany
 urlbar-install-blocked =
@@ -796,6 +807,12 @@ urlbar-result-weather-title-city-only = <strong>{ $temperature }°{ $unit }</str
 #   $provider (String) - The name of the weather-data provider. It will be the
 #       name of a company, organization, or service.
 urlbar-result-weather-provider-sponsored = { $provider } · Sponsorowane
+
+## These strings are used for Realtime suggestions in the urlbar.
+## Market refers to stocks, indexes, and funds.
+
+# This string is shown as title when Market suggestion are disabled.
+urlbar-result-market-opt-in-title = Wyświetlaj dane giełdowe bezpośrednio na pasku adresu
 
 ## Strings used for buttons in the urlbar
 

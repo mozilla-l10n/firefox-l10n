@@ -184,6 +184,9 @@ permissions-site-local-network-window =
     .title = Urządzenia w sieci lokalnej — uprawnione witryny
     .style = { permissions-window2.style }
 permissions-site-local-network-desc = Te strony prosiły o dostęp do aplikacji i usług na urządzeniach podłączonych do sieci lokalnej lub Wi-Fi. Możesz na to zezwolić lub zablokować witrynom ten dostęp.
+permissions-site-local-network-disable-label =
+    .label = Blokowanie nowych próśb o dostęp do aplikacji i usług na urządzeniach podłączonych do sieci lokalnej lub Wi-Fi.
+permissions-site-local-network-disable-desc = Spowoduje to, że witryny spoza powyższej listy nie będą mogły prosić o dostęp do aplikacji i usług na urządzeniach podłączonych do sieci lokalnej lub Wi-Fi. Może to sprawić, że niektóre funkcje witryny nie będą poprawnie działać.
 
 ## Site Permissions - Microphone
 
