@@ -1462,6 +1462,25 @@ trustpanel-social-tracking-blocking-tab-header =
         [few] { -brand-product-name } заблакаваў { $count } трэкеры сацыяльных сетак
        *[many] { -brand-product-name } заблакаваў { $count } трэкераў сацыяльных сетак
     }
+trustpanel-social-tracking-not-blocking-tab-header =
+    { $count ->
+        [one] { -brand-product-name } дазволіў { $count } трэкер сацыяльных сетак
+        [few] { -brand-product-name } дазволіў { $count } трэкеры сацыяльных сетак
+       *[many] { -brand-product-name } дазволіў { $count } трэкераў сацыяльных сетак
+    }
+trustpanel-social-tracking-tab-list-header = Гэтыя сайты спрабуюць вас асачыць:
+trustpanel-tracking-cookies-blocking-tab-header =
+    { $count ->
+        [one] { -brand-product-name } заблакаваў { $count } міжсайтавы кукі сачэння
+        [few] { -brand-product-name } заблакаваў { $count } міжсайтавыя кукі сачэння
+       *[many] { -brand-product-name } заблакаваў { $count } міжсайтавых кукі сачэння
+    }
+trustpanel-tracking-cookies-not-blocking-tab-header =
+    { $count ->
+        [one] { -brand-product-name } дазволіў { $count } міжсайтавы кукі сачэння
+        [few] { -brand-product-name } дазволіў { $count } міжсайтавыя кукі сачэння
+       *[many] { -brand-product-name } дазволіў { $count } міжсайтавых кукі сачэння
+    }
 trustpanel-tracking-cookies-tab-list-header = Гэтыя сайты спрабуюць вас асачыць:
 trustpanel-tracking-content-blocking-tab-header =
     { $count ->
@@ -1469,3 +1488,23 @@ trustpanel-tracking-content-blocking-tab-header =
         [few] { -brand-product-name } заблакаваў { $count } трэкеры
        *[many] { -brand-product-name } заблакаваў { $count } трэкераў
     }
+trustpanel-tracking-content-not-blocking-tab-header =
+    { $count ->
+        [one] { -brand-product-name } дазволіў { $count } трэкер
+        [few] { -brand-product-name } дазволіў { $count } трэкеры
+       *[many] { -brand-product-name } дазволіў { $count } трэкераў
+    }
+trustpanel-tracking-content-tab-list-header = Гэтыя сайты спрабуюць вас асачыць:
+trustpanel-fingerprinter-blocking-tab-header =
+    { $count ->
+        [one] { -brand-product-name } заблакаваў { $count } збіральнік лічбавых адбіткаў
+        [few] { -brand-product-name } заблакаваў { $count } збіральнікі лічбавых адбіткаў
+       *[many] { -brand-product-name } заблакаваў { $count } збіральнікаў лічбавых адбіткаў
+    }
+trustpanel-fingerprinter-not-blocking-tab-header =
+    { $count ->
+        [one] { -brand-product-name } дазволіў { $count } збіральнік лічбавых адбіткаў
+        [few] { -brand-product-name } дазволіў { $count } збіральнікі лічбавых адбіткаў
+       *[many] { -brand-product-name } дазволіў { $count } збіральнікаў лічбавых адбіткаў
+    }
+trustpanel-fingerprinter-list-header = Гэтыя сайты спрабуюць сабраць вашы лічбавыя адбіткі:

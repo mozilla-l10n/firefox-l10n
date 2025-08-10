@@ -112,6 +112,10 @@ fxa-adoption-passwords-subtitle = Абараніце свае паролі, сі
 # Opens Mozilla accounts sign-up page
 fxa-adoption-passwords-primary-button-label = Зарэгістравацца
 
+## Windows 10 EoS Sync messages group 1 callouts
+
+windows-10-eos-sync-urgency-title-1 = Не страцьце ўсё, што вы захавалі, пры пераходзе на Windows 11.
+
 ## Sidebar Strings
 
 sidebar-button-callout-title = Паказваць назвы картак у бакавой панэлі
