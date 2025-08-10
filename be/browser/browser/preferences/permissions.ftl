@@ -182,6 +182,7 @@ permissions-site-localhost-disable-label =
 permissions-site-local-network-window =
     .title = Налады - Прылады лакальнай сеткі
     .style = { permissions-window2.style }
+permissions-site-local-network-desc = Гэтыя сайты запыталі доступ да праграм і службаў на прыладах, падлучаных да вашай лакальнай сеткі ці Wi-Fi. Вы можаце дазволіць або забараніць сайтам рабіць гэта.
 permissions-site-local-network-disable-label =
     .label = Блакаваць новыя запыты на доступ да праграм і службаў на прыладах, падлучаных да вашай лакальнай сеткі або Wi-Fi.
 
