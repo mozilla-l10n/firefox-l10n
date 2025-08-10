@@ -51,3 +51,8 @@ experimental-features-link-previews-description-no-ai =
 experimental-features-newtab-sections-follow-block =
     .label = Temaj sekcioj kaj agordoj por sekvi kaj bloki artikolojn en novaj langetoj
 experimental-features-newtab-sections-follow-block-description = Organizu viajn artikolojn en viaj novaj langetoj, laŭ temaj sekcioj (sportoj, manĝaĵo, distro kaj pli) por havi pli strukturitan kaj facilan sperton dum vi tralegas. Uzu niajn novajn regilojn Sekvi kaj Bloki por personecigi la enhavon, kiun vi vidos. <a data-l10n-name="connect">Dividi komentojn</a>
+# Firefox Web Apps
+experimental-features-fx-web-apps =
+    .label = Aldoni retejojn al via taska ilaro
+# “Add tab to taskbar” is found in the tooltip text of `-taskbar-tab-urlbar-button-open`.
+experimental-features-fx-web-apps-description = Malfermu la retejojn kiujn vi vizitas ofte, kiel programo Teksaĵa rekte el via taska ilaro. Serĉu la emblemon "Aldoni al taska ilaro" dekstre de la adresa strio, por malfermi la retejon en aparta polurita fenestro kun ĉiuj protektoj de { -brand-product-name }.<a data-l10n-name="connect">Dividi komentojn</a>

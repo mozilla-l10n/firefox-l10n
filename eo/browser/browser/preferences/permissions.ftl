@@ -168,6 +168,12 @@ permissions-site-camera-disable-label =
     .label = Bloki novajn petojn pri permeso aliri vian filmilon
 permissions-site-camera-disable-desc = Tio ĉi evitos ke retejoj, kiuj ne estas listigitaj supre, petu permeson aliri vian filmilon. Blokado de aliro al via filmilo povas misfunkciigi kelkajn trajtojn de retejoj.
 
+## Site Permissions - Local host
+
+permissions-site-localhost-window =
+    .title = Agordoj - Programoj kaj servoj de la aparato
+    .style = { permissions-window2.style }
+
 ## Site Permissions - Microphone
 
 permissions-site-microphone-window2 =

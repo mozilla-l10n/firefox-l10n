@@ -68,6 +68,11 @@ cfr-doorhanger-bookmark-fxa-link-text = Speguli legosignojn nun…
 cfr-doorhanger-bookmark-fxa-close-btn-tooltip =
     .aria-label = Ferma butono
     .title = Fermi
+fxa-adoption-addresses-backup-title = Faru ni sekurkopion de viaj konservitaj adresoj
+fxa-adoption-addresses-backup-subtitle = Protektu viajn konservitajn adresojn per ĉifrado kaj konservado en viaj aparatoj.
+fxa-adoption-credit-cards-backup-title = Faru ni sekurkopion de viaj pagmetodoj
+fxa-adoption-credit-cards-backup-subtitle = Protektu viajn pagmetodojn per ĉifrado kaj konservado en viaj aparatoj.
+fxa-adoption-primary-button-label = Krei konton
 
 ## Protections panel
 
@@ -342,3 +347,16 @@ multi-cta-fox-doodle-privacy-focused-subtitle =
        *[other] Havu vian preferatan privatecozorgan retumilon atingebla je unu alklako. Igi { -brand-short-name } via norma retumilo por malfermo de ligiloj kaj alpinglu ĝin al via taska ilaro.
     }
 multi-cta-fox-doodle-msix-privacy-focused-subtitle = Havu vian preferatan privatecozorgan retumilon atingebla je unu alklako. Igi { -brand-short-name } via norma retumilo por malfermo de ligiloj kaj alpinglu ĝin al la komenca menuo.
+
+## Windows 10 EoS Sync messages group 1 spotlight
+
+windows-10-eos-sync-spotlight-title = Ĉu vi planas baldaŭe ĝisdatigi Windows 10?
+windows-10-eos-sync-spotlight-subtitle = Faru sekurkopion de viaj pasvortoj kaj legosignoj, tiel vi pretos uzi iun ajn aparaton.
+windows-10-eos-sync-spotlight-primary-label = Fari sekurkopion de via { -brand-short-name }
+
+## Windows 10 EoS Sync messages group 1 toast notification
+
+windows-10-eos-sync-toast-title = Ĉu vi planas ĝisdatigi al Windows 11? Ne perdu viajn legosignojn kaj pasvortojn.
+windows-10-eos-sync-toast-subtitle = Faru sekurkopion de viaj datumoj, tiel ke { -brand-short-name } estos preta por uzo, ĉu en tiu ĉi komputilo ĉu en la venonta.
+windows-10-eos-sync-toast-primary-label = Unuaj paŝoj
+windows-10-eos-sync-toast-secondary-label = Rememorigi poste

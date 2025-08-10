@@ -140,6 +140,9 @@ lightbulb-avatar-alt =
     .alt = Żarówka
 makeup-avatar-alt =
     .alt = Makijaż
+# Message refers to a text message, not a traditional letter/envelope message
+message-avatar-alt =
+    .alt = Wiadomość
 musical-note-avatar-alt =
     .alt = Nutka
 palette-avatar-alt =
@@ -178,7 +181,44 @@ bike-avatar-alt =
 
 book-avatar = Książka
 briefcase-avatar = Aktówka
+# Canvas refers to an artist's painting canvas, not the general material
+canvas-avatar = Płótno
+# Craft refers to hobby arts and crafts, represented by a button/fastener commonly found on clothing like shirts
+craft-avatar = Rękodzieło
+custom-avatar = Własny awatar
+# Default favicon refers to the generic globe/world icon that appears in browser tabs when a website doesn't have its own favicon.
+default-favicon-avatar = Domyślna ikona witryny
+# Diamond refers to the precious stone, not the geometric shape
+diamond-avatar = Diament
 flower-avatar = Kwiatek
+folder-avatar = Folder
+hammer-avatar = Młotek
 heart-avatar = Serce
+heart-rate-avatar = Tętno
+history-avatar = Historia
+leaf-avatar = Liść
+lightbulb-avatar = Żarówka
+makeup-avatar = Makijaż
+# Message refers to a text message, not a traditional letter/envelope message
+message-avatar = Wiadomość
+musical-note-avatar = Nutka
+palette-avatar = Paleta
+paw-print-avatar = Odcisk łapy
+plane-avatar = Samolot
+# Present refers to a gift box, not the current time period
+present-avatar = Prezent
 shopping-avatar = Wózek sklepowy
+soccer-avatar = Piłka nożna
+sparkle-single-avatar = Iskra
 star-avatar = Gwiazda
+video-game-controller-avatar = Pad
+custom-avatar-crop-back-button =
+    .aria-label = Wstecz
+custom-avatar-crop-view =
+    .aria-label = Przytnij widoczny obraz
+custom-avatar-crop-area =
+    .aria-label = Dostosuj obszar przycinania
+custom-avatar-drag-handle =
+    .aria-label = Zmień rozmiar obszaru przycinania
+barbell-avatar = Sztanga
+bike-avatar = Rower
