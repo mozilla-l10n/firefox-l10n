@@ -46,6 +46,7 @@ avatar-selector-save-button =
 avatar-selector-upload-file = Lähetä tiedosto
 avatar-selector-drag-file = Tai vedä tiedosto tähän
 avatar-selector-add-image = Lisää kuva
+avatar-selector-crop = Rajaa
 edit-profile-page-no-name = Nimeä tämä profiili, jotta tunnistat sen myöhemmin. Nimeä se uudelleen milloin tahansa.
 edit-profile-page-duplicate-name = Profiilin nimi on jo käytössä. Kokeile toista nimeä.
 edit-profile-page-profile-saved = Tallennettu
@@ -115,22 +116,55 @@ book-avatar-alt =
     .alt = Kirja
 briefcase-avatar-alt =
     .alt = Salkku
+# Canvas refers to an artist's painting canvas, not the general material
+canvas-avatar-alt =
+    .alt = Kangas
 flower-avatar-alt =
     .alt = Kukka
+folder-avatar-alt =
+    .alt = Kansio
 heart-avatar-alt =
     .alt = Sydän
+heart-rate-avatar-alt =
+    .alt = Syke
+# Message refers to a text message, not a traditional letter/envelope message
+message-avatar-alt =
+    .alt = Viesti
+musical-note-avatar-alt =
+    .alt = Nuotti
 shopping-avatar-alt =
     .alt = Ostoskärryt
 star-avatar-alt =
     .alt = Tähti
+video-game-controller-avatar-alt =
+    .alt = Peliohjain
 custom-avatar-alt =
     .alt = Mukautettu profiilikuva
+# Default favicon refers to the generic globe/world icon that appears in browser tabs when a website doesn't have its own favicon.
+default-favicon-avatar-alt =
+    .alt = Oletusarvoinen favicon
+# Diamond refers to the precious stone, not the geometric shape
+diamond-avatar-alt =
+    .alt = Timantti
 
 ## Labels for default avatar icons
 
 book-avatar = Kirja
 briefcase-avatar = Salkku
+custom-avatar = Mukautettu profiilikuva
+# Default favicon refers to the generic globe/world icon that appears in browser tabs when a website doesn't have its own favicon.
+default-favicon-avatar = Oletusarvoinen favicon
 flower-avatar = Kukka
 heart-avatar = Sydän
+# Message refers to a text message, not a traditional letter/envelope message
+message-avatar = Viesti
+musical-note-avatar = Nuotti
 shopping-avatar = Ostoskärryt
 star-avatar = Tähti
+video-game-controller-avatar = Peliohjain
+custom-avatar-crop-view =
+    .aria-label = Rajaa kuvanäkymä
+custom-avatar-crop-area =
+    .aria-label = Säädä rajausaluetta
+custom-avatar-drag-handle =
+    .aria-label = Muuta rajausalueen kokoa

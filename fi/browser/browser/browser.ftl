@@ -1388,22 +1388,109 @@ trustpanel-privacy-link = Tietosuoja-asetukset
 #  $host (String): the hostname of the site that is being displayed.
 trustpanel-clear-cookies-header =
     .title = Tyhjennä evästeet ja sivustotiedot sivuston { $host } osalta
+trustpanel-clear-cookies-description = Evästeiden ja sivustotietojen poistaminen saattaa kirjata sinut ulos verkkosivustoilta ja tyhjentää ostoskorit.
 trustpanel-clear-cookies-subview-button-clear = Tyhjennä
 trustpanel-clear-cookies-subview-button-cancel = Peruuta
+# Variables
+#  $host (String): the hostname of the site that is being displayed.
+trustpanel-site-information-header =
+    .title = Yhteyden suojaukset sivustolle { $host }
+trustpanel-connection-secure = Yhteytesi tähän sivustoon on suojattu.
+trustpanel-connection-not-secure = Yhteytesi tähän sivustoon ei ole suojattu.
+trustpanel-siteinformation-morelink = Lisätietoja sivustosta
+trustpanel-blocker-see-all = Näytä kaikki
+# Variables
+#  $host (String): the hostname of the site that is being displayed.
+trustpanel-blocker-header =
+    .title = Seurantasuojaukset sivustolle { $host }
 
 ## Variables
 ##  $count (String): the number of trackers blocked.
 
+trustpanel-blocker-section-header =
+    { $count ->
+        [one] <span>{ $count }</span> seurain estetty tällä sivustolla
+       *[other] <span>{ $count }</span> seurainta estetty tällä sivustolla
+    }
+trustpanel-blocker-description = { -brand-product-name } on sitä mieltä, että yritysten pitäisi seurata sinua vähemmän. Siksi estämme niin monta seurainta kuin pystymme.
+trustpanel-blocked-header = { -brand-product-name } esti nämä puolestasi:
+trustpanel-tracking-header = { -brand-product-name } salli nämä asiat, jotta sivustot eivät rikkoutuisi:
 trustpanel-tracking-description = Ilman seuraimia jotkin painikkeet, lomakkeet ja kirjautumiskentät eivät välttämättä toimi.
 trustpanel-insecure-section-header = Yhteys ei ole suojattu
 trustpanel-insecure-description = Tälle sivustolle lähettämiäsi tietoja ei salata. Niitä voidaan tarkastella, varastaa tai muuttaa.
+trustpanel-list-label-tracking-cookies =
+    { $count ->
+        [one] { $count } sivustorajat ylittävä seuraineväste
+       *[other] { $count } sivustorajat ylittävää seurainevästettä
+    }
+trustpanel-list-label-tracking-content = Seurantaan tarkoitettu sisältö
 trustpanel-list-label-fingerprinter =
     { $count ->
         [one] { $count } yksilöijä
        *[other] { $count } yksilöijää
     }
+trustpanel-list-label-social-tracking =
+    { $count ->
+        [one] { $count } sosiaalisen median seurain
+       *[other] { $count } sosiaalisen median seurainta
+    }
+trustpanel-list-label-cryptominer =
+    { $count ->
+        [one] { $count } kryptolouhija
+       *[other] { $count } kryptolouhijaa
+    }
+trustpanel-social-tracking-blocking-tab-header =
+    { $count ->
+        [one] { -brand-product-name } esti { $count } sosiaalisen median seuraimen
+       *[other] { -brand-product-name } esti { $count } sosiaalisen median seurainta
+    }
+trustpanel-social-tracking-not-blocking-tab-header =
+    { $count ->
+        [one] { -brand-product-name } salli { $count } sosiaalisen median seuraimen
+       *[other] { -brand-product-name } salli { $count } sosiaalisen median seurainta
+    }
 trustpanel-social-tracking-tab-list-header = Nämä sivustot yrittävät seurata sinua:
+trustpanel-tracking-cookies-blocking-tab-header =
+    { $count ->
+        [one] { -brand-product-name } esti { $count } sivustorajat ylittävän seurainevästeen
+       *[other] { -brand-product-name } esti { $count } sivustorajat ylittävää seurainevästettä
+    }
+trustpanel-tracking-cookies-not-blocking-tab-header =
+    { $count ->
+        [one] { -brand-product-name } salli { $count } sivustorajat ylittävän seurainevästeen
+       *[other] { -brand-product-name } salli { $count } sivustorajat ylittävää seurainevästettä
+    }
 trustpanel-tracking-cookies-tab-list-header = Nämä sivustot yrittävät seurata sinua:
+trustpanel-tracking-content-blocking-tab-header =
+    { $count ->
+        [one] { -brand-product-name } esti { $count } seuraimen
+       *[other] { -brand-product-name } esti { $count } seurainta
+    }
+trustpanel-tracking-content-not-blocking-tab-header =
+    { $count ->
+        [one] { -brand-product-name } salli { $count } seuraimen
+       *[other] { -brand-product-name } salli { $count } seurainta
+    }
 trustpanel-tracking-content-tab-list-header = Nämä sivustot yrittävät seurata sinua:
+trustpanel-fingerprinter-blocking-tab-header =
+    { $count ->
+        [one] { -brand-product-name } esti { $count } yksilöijän
+       *[other] { -brand-product-name } esti { $count } yksilöijää
+    }
+trustpanel-fingerprinter-not-blocking-tab-header =
+    { $count ->
+        [one] { -brand-product-name } salli { $count } yksilöijän
+       *[other] { -brand-product-name } salli { $count } yksilöijää
+    }
 trustpanel-fingerprinter-list-header = Nämä sivustot yrittävät yksilöidä sinut:
+trustpanel-cryptominer-blocking-tab-header =
+    { $count ->
+        [one] { -brand-product-name } esti { $count } kryptolouhijan
+       *[other] { -brand-product-name } esti { $count } kryptolouhijaa
+    }
+trustpanel-cryptominer-not-blocking-tab-header =
+    { $count ->
+        [one] { -brand-product-name } salli { $count } kryptolouhijan
+       *[other] { -brand-product-name } salli { $count } kryptolouhijaa
+    }
 trustpanel-cryptominer-tab-list-header = Nämä sivustot yrittävät louhia kryptovaluuttoja:
