@@ -55,3 +55,7 @@ styleeditor-pretty-print-button =
 # Title for the pretty print button in the editor footer, when it's disabled
 styleeditor-pretty-print-button-disabled =
     .title = Можна прыгожа друкаваць толькі файлы CSS
+# Title for the pretty print button in the editor footer, when it's disabled because
+# the stylesheet is read-only
+styleeditor-pretty-print-button-disabled-read-only =
+    .title = Немагчыма прыгожа надрукаваць табліцу стыляў толькі для чытання.

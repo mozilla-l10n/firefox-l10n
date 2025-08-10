@@ -39,6 +39,7 @@ about-networking-dns-lookup = Пошук DNS
 about-networking-dns-lookup-button = Вырашыць
 about-networking-dns-domain = Дамен:
 about-networking-dns-lookup-table-column = IPs
+about-networking-dns-https-rrs-lookup-table-column = HTTPS RR-ы
 about-networking-dns-https-rr-lookup-table-column = HTTP RR-ы
 about-networking-rcwn = Статыстыка RCWN
 about-networking-rcwn-status = Стан RCWN

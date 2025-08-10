@@ -18,6 +18,7 @@ contextual-manager-passwords-command-import-from-browser = Importuj z innej prz
 contextual-manager-passwords-command-import = Importuj z pliku…
 contextual-manager-passwords-command-export = Eksportuj hasła
 contextual-manager-passwords-command-remove-all = Usuń wszystkie hasła
+contextual-manager-passwords-command-options = Opcje
 contextual-manager-passwords-command-settings = Ustawienia
 contextual-manager-passwords-command-help = Pomoc
 contextual-manager-passwords-os-auth-dialog-caption = { -brand-full-name }
@@ -65,6 +66,12 @@ contextual-manager-passwords-import-success-heading =
 #   $added (number) - Number of added passwords
 #   $modified (number) - Number of modified passwords
 contextual-manager-passwords-import-success-message = Nowe: { $added }, zaktualizowane: { $modified }
+# Variables
+#   $added (number) - Number of added passwords
+#   $modified (number) - Number of modified passwords
+#   $no_change (number) - Number of duplicate passwords
+#   $error (number) - Number of invalid passwords
+contextual-manager-passwords-import-success-message-2 = Nowe: { $added }, zaktualizowane: { $modified }, podwójne: { $no_change }, błędy: { $error }
 contextual-manager-passwords-import-detailed-report = Szczegółowy raport
 contextual-manager-passwords-import-success-button = Gotowe
 contextual-manager-passwords-import-error-heading-and-message =
@@ -152,6 +159,8 @@ contextual-manager-passwords-password-already-exists-error-button = Przejdź do 
 contextual-manager-passwords-update-password-success-heading =
     .heading = Zachowano hasło
 contextual-manager-passwords-update-password-success-button = Gotowe
+contextual-manager-passwords-update-username-success-heading-2 =
+    .heading = Dodano nazwę użytkownika
 contextual-manager-passwords-update-username-success-heading =
     .heading = Zachowano nazwę użytkownika
 # Message to confirm successful removal of a password/passwords.

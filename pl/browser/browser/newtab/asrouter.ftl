@@ -357,3 +357,12 @@ multi-cta-fox-doodle-msix-privacy-focused-subtitle = Miej swoją ulubioną przeg
 ## Windows 10 EoS Sync messages group 1 spotlight
 
 windows-10-eos-sync-spotlight-title = Planujesz wkrótce zaktualizować system Windows 10?
+windows-10-eos-sync-spotlight-subtitle = Zrób kopię zapasową swoich haseł i zakładek, aby móc przejść na dowolne urządzenie.
+windows-10-eos-sync-spotlight-primary-label = Utwórz kopię zapasową { -brand-short-name(case: "gen") }
+
+## Windows 10 EoS Sync messages group 1 toast notification
+
+windows-10-eos-sync-toast-title = Aktualizujesz system do Windows 11? Nie trać zakładek i haseł.
+windows-10-eos-sync-toast-subtitle = Zrób kopię zapasową swoich danych, aby { -brand-short-name } był zawsze gotowy do użycia, na tym komputerze lub kolejnym.
+windows-10-eos-sync-toast-primary-label = Zacznij teraz
+windows-10-eos-sync-toast-secondary-label = Przypomnij później
