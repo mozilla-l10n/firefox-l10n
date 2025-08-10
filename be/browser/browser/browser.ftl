@@ -1396,6 +1396,13 @@ trustpanel-header-disabled = Вы адключылі ахову
 trustpanel-description-disabled = { -brand-product-name } не на варце. Прапануем зноў уключыць ахову.
 trustpanel-clear-cookies-button = Выдаліць кукі і дадзеныя сайтаў
 trustpanel-privacy-link = Налады прыватнасці
+# Variables
+#  $host (String): the hostname of the site that is being displayed.
+trustpanel-clear-cookies-header =
+    .title = Выдаліць кукі і дадзеныя сайта для { $host }
+trustpanel-clear-cookies-description = Выдаленне кукі і дадзеных сайтаў можа прывесці да выхаду з сайтаў і ачысткі кошыкаў.
+trustpanel-clear-cookies-subview-button-clear = Ачысціць
+trustpanel-clear-cookies-subview-button-cancel = Адмена
 
 ## Variables
 ##  $count (String): the number of trackers blocked.
