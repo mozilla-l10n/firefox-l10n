@@ -330,6 +330,8 @@ contextual-manager-passwords-remove-all-passwords-checkbox =
         [1] Ҳа, ниҳонвожаро тоза намоед
        *[other] Yes, remove passwords
     }
+# This string informs the user they need to provide their primary password for FireFox to access their saved passwords in Firefox.
+contextual-manager-primary-password-reauth-header = Барои дидани ниҳонвожаҳои нигоҳдошташудаи худ, ниҳонвожаи асосии худро ворид кунед.
 # This string informs the user their primary password is used to authenticate and access their passwords
 contextual-manager-primary-password-reauth-button = Ниҳонвожаи асосиро ворид кунед
 contextual-manager-primary-password-learn-more-link = Маълумоти бештар
