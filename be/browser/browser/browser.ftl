@@ -825,6 +825,11 @@ urlbar-result-realtime-opt-in-dismiss-all =
 # This string is shown in the result menu.
 urlbar-result-menu-dont-show-market =
     .label = Не паказваць прапановы па рынку
+# A message that replaces a result when the user dismisses Market suggestions.
+urlbar-result-dismissal-acknowledgment-market = Дзякуй за ваш водгук. Вы больш не будзеце бачыць прапановы па рынку.
+# A message that replaces a result when the user dismisses all suggestions of a
+# particular type.
+urlbar-result-dismissal-acknowledgment-all = Дзякуй за ваш водгук. Вы больш не будзеце бачыць гэтыя прапановы.
 
 ## Strings used for buttons in the urlbar
 
@@ -1381,6 +1386,13 @@ trustpanel-etp-toggle-on =
 #  $host (String): the hostname of the site that is being displayed.
 trustpanel-etp-toggle-off =
     .aria-label = Узмоцненая ахова ад сачэння: Выключана для { $host }
+trustpanel-etp-description-enabled = Калі на гэтым сайце нешта выглядае не так, паспрабуйце адключыць ахову.
+trustpanel-etp-description-disabled = { -brand-product-name } лічыць, што кампаніі павінны менш сачыць за вамі. Калі вы ўключаеце ахову, мы блакуем як мага больш трэкераў.
+trustpanel-connection-label-secure = Бяспечнае злучэнне
+trustpanel-connection-label-insecure = Злучэнне не бяспечнае
+trustpanel-header-enabled = { -brand-product-name } напагатове
+trustpanel-description-enabled = Вы абаронены. Калі мы што-небудзь заўважым, паведамім вам.
+trustpanel-header-disabled = Вы адключылі ахову
 trustpanel-privacy-link = Налады прыватнасці
 
 ## Variables
