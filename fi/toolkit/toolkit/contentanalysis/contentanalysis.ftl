@@ -35,9 +35,19 @@ contentanalysis-error-message-dropped-text = Vedä ja pudota -toiminto kielletty
 contentanalysis-error-message-clipboard = Liittäminen estetty.
 contentanalysis-error-message-print = Tulostus estetty.
 contentanalysis-block-dialog-title-upload-file = Sinulla ei ole lupaa lähettää tätä tiedostoa
+# Variables:
+#   $filename - Name of the file that was blocked, such as "aFile.txt"
+contentanalysis-block-dialog-body-upload-file = Organisaatiosi tietosuojakäytäntöjen nojalla et saa lähettää tiedostoa ”{ $filename }”. Ota yhteys järjestelmänvalvojaasi saadaksesi lisätietoja.
+contentanalysis-block-dialog-title-download-file = Sinulla ei ole lupaa ladata tätä tiedostoa
+# Variables:
+#   $filename - Name of the file that was blocked, such as "aFile.txt"
+contentanalysis-block-dialog-body-download-file = Organisaatiosi tietosuojakäytäntöjen nojalla et saa ladata tiedostoa ”{ $filename }”. Ota yhteys järjestelmänvalvojaasi saadaksesi lisätietoja.
 contentanalysis-block-dialog-title-clipboard = Sinulla ei ole lupaa liittää tätä sisältöä
+contentanalysis-block-dialog-body-clipboard = Organisaatiosi tietosuojakäytäntöjen nojalla et saa liittää tätä sisältöä. Ota yhteys järjestelmänvalvojaasi saadaksesi lisätietoja.
 contentanalysis-block-dialog-title-dropped-text = Sinulla ei ole lupaa pudottaa tätä sisältöä
+contentanalysis-block-dialog-body-dropped-text = Organisaatiosi tietosuojakäytäntöjen nojalla et saa vetää ja pudottaa tätä sisältöä. Ota yhteys järjestelmänvalvojaasi saadaksesi lisätietoja.
 contentanalysis-block-dialog-title-print = Sinulla ei ole lupaa tulostaa tätä asiakirjaa
+contentanalysis-block-dialog-body-print = Organisaatiosi tietosuojakäytäntöjen nojalla et saa tulostaa tätä asiakirjaa. Ota yhteys järjestelmänvalvojaasi saadaksesi lisätietoja.
 contentanalysis-inprogress-quit-title = Lopetetaanko { -brand-shorter-name }?
 contentanalysis-inprogress-quit-message = Useita toimintoja on meneillään. Jos lopetat { -brand-shorter-name }in, näitä toimintoja ei suoriteta loppuun.
 contentanalysis-inprogress-quit-yesbutton = Kyllä, lopeta

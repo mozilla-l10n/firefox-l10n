@@ -1393,6 +1393,8 @@ trustpanel-connection-label-insecure = Злучэнне не бяспечнае
 trustpanel-header-enabled = { -brand-product-name } напагатове
 trustpanel-description-enabled = Вы абаронены. Калі мы што-небудзь заўважым, паведамім вам.
 trustpanel-header-disabled = Вы адключылі ахову
+trustpanel-description-disabled = { -brand-product-name } не на варце. Прапануем зноў уключыць ахову.
+trustpanel-clear-cookies-button = Выдаліць кукі і дадзеныя сайтаў
 trustpanel-privacy-link = Налады прыватнасці
 
 ## Variables
