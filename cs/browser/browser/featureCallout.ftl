@@ -166,6 +166,13 @@ windows-10-eos-sync-general-title-1 =
     }
 windows-10-eos-sync-general-subtitle-1 = Zálohujte a synchronizujte hesla, záložky, nastavení a další data, abyste si uchovali to, na co spoléháte.
 windows-10-eos-sync-general-title-2 = Nyní je vhodná doba na zálohování hesel a záložek.
+windows-10-eos-sync-general-subtitle-2 =
+    { -brand-short-name.case-status ->
+        [with-cases] Synchronizujte nyní a chraňte věci, které svěřujete { -brand-short-name(case: "gen") } — a získejte je kdykoli a kdekoli zpět.
+       *[no-cases] Synchronizujte nyní a chraňte věci, které svěřujete aplikaci { -brand-short-name } — a získejte je kdykoli a kdekoli zpět.
+    }
+windows-10-eos-sync-tour-title-1 = Příliš mnoho panelů? Udělejte si pořádek pomocí skupin panelů.
+windows-10-eos-sync-tour-subtitle-1 = Přetáhněte jeden panel na druhý pro vytvoření skupiny a mějte ve věcech pořádek.
 
 ## Sidebar Strings
 
