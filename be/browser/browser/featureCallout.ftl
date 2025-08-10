@@ -115,6 +115,17 @@ fxa-adoption-passwords-primary-button-label = Зарэгістравацца
 ## Windows 10 EoS Sync messages group 1 callouts
 
 windows-10-eos-sync-urgency-title-1 = Не страцьце ўсё, што вы захавалі, пры пераходзе на Windows 11.
+windows-10-eos-sync-urgency-subtitle-1 = Сінхранізуйце зараз, каб вашы закладкі, паролі і налады { -brand-short-name } былі ў бяспецы і іх было лёгка аднавіць.
+windows-10-eos-sync-urgency-title-2 = Развітваецеся з Windows 10? Абараніце свае дадзеныя пры пераходзе.
+windows-10-eos-sync-urgency-subtitle-2 = Нават калі вы не карыстаецеся { -brand-short-name } штодзень, сінхранізуйцеся, каб закладкі і паролі былі ў бяспецы і даступныя.
+windows-10-eos-sync-new-device-title-1 = Не рызыкуйце пачынаць усё спачатку на наступнай прыладзе.
+windows-10-eos-sync-new-device-subtitle-1 = Сінхранізуйце свае закладкі, паролі і пераважныя налады { -brand-short-name }, каб узяць іх з сабой пры пераездзе.
+windows-10-eos-sync-new-device-title-2 = Пераходзіце на новую прыладу? Не губляйце тое, што важна.
+windows-10-eos-sync-new-device-subtitle-2 = Незалежна ад таго, як часта вы карыстаецеся { -brand-short-name }, сінхранізацыя абараняе вашы закладкі, паролі і налады.
+windows-10-eos-sync-new-device-primary-label = Сінхранізаваць зараз
+windows-10-eos-sync-general-title-1 = Абараніце { -brand-short-name }, які вы зрабілі сваім.
+windows-10-eos-sync-general-subtitle-1 = Стварайце рэзервовыя копіі і сінхранізуйце паролі, закладкі, налады і іншыя звесткі, каб захаваць тое, што вам трэба.
+windows-10-eos-sync-general-title-2 = Зараз самы час зрабіць рэзервовую копію пароляў і закладак.
 
 ## Sidebar Strings
 
