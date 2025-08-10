@@ -1379,3 +1379,57 @@ trustpanel-connection-label-secure = Sekura konekto
 trustpanel-connection-label-insecure = Nesekura konekto
 trustpanel-header-enabled = { -brand-product-name } staras garde
 trustpanel-description-enabled = Vi estas protektita. Se ni malkovras ion, ni sciigos vin
+trustpanel-header-disabled = Vi malŝaltis protektojn
+trustpanel-description-disabled = { -brand-product-name } ne deĵoras. Ni sugestas reaktivigi protektojn.
+trustpanel-clear-cookies-button = Viŝi kuketojn kaj retejajn datumojn
+trustpanel-privacy-link = Privatecaj agordoj
+# Variables
+#  $host (String): the hostname of the site that is being displayed.
+trustpanel-clear-cookies-header =
+    .title = Viŝi kuketojn kaj retejajn datumojn por { $host }
+trustpanel-clear-cookies-description = La forigo de kuketoj kaj retejaj datumoj povus fini seancojn kaj malplenigi aĉetumĉarojn.
+trustpanel-clear-cookies-subview-button-clear = Viŝi
+trustpanel-clear-cookies-subview-button-cancel = Nuligi
+# Variables
+#  $host (String): the hostname of the site that is being displayed.
+trustpanel-site-information-header =
+    .title = Konektaj protektoj por { $host }
+trustpanel-connection-secure = Vi estas sekure konektita al tiu ĉi retejo.
+trustpanel-connection-not-secure = Vi ne estas sekure konektita al tiu ĉi retejo.
+trustpanel-siteinformation-morelink = Pli da informo pri la retejo
+trustpanel-blocker-see-all = Vidi ĉiujn
+# Variables
+#  $host (String): the hostname of the site that is being displayed.
+trustpanel-blocker-header =
+    .title = Protektoj kontraŭ spuriloj por { $host }
+
+## Variables
+##  $count (String): the number of trackers blocked.
+
+trustpanel-blocker-section-header =
+    { $count ->
+        [one] <span>{ $count }</span> spurilo blokita en tiu ĉi retejo
+       *[other] <span>{ $count }</span> spuriloj blokitaj en tiu ĉi retejo
+    }
+trustpanel-blocker-description = { -brand-product-name } konsideras ke entreprenoj devus malpli sekvi vin. Do ni blokas tiom da spuriloj, kiom ni povas.
+trustpanel-blocked-header = { -brand-product-name } blokis por vi:
+trustpanel-tracking-header = { -brand-product-name } permesis tion ĉi por eviti misfunkcion de retejoj:
+trustpanel-tracking-description = Sen spuriloj, kelkaj butonoj, formularoj kaj kampoj por komenci seancon povus ne funkcii.
+trustpanel-insecure-section-header = Via konekto ne estas sekura
+trustpanel-insecure-description = La datumoj senditaj al tiu ĉi retejo ne estas ĉifritaj. Oni povus vidi, ŝteli aŭ modifi ilin.
+trustpanel-list-label-tracking-cookies =
+    { $count ->
+        [one] { $count } interreteja spurila kuketo
+       *[other] { $count } interretejaj spurilaj kuketoj
+    }
+trustpanel-list-label-tracking-content = Spurila enhavo
+trustpanel-list-label-fingerprinter =
+    { $count ->
+        [one] { $count } identigilo de ciferecaj spuroj
+       *[other] { $count } identigiloj de ciferecaj spuroj
+    }
+trustpanel-list-label-social-tracking =
+    { $count ->
+        [one] { $count } socireta spurilo
+       *[other] { $count } sociretaj spuriloj
+    }
