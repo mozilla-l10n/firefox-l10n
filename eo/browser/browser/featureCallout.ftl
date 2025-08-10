@@ -119,6 +119,18 @@ windows-10-eos-sync-urgency-subtitle-1 = Spegulu nun por havi vian legosignojn, 
 windows-10-eos-sync-urgency-title-2 = Ĉu vi adiaŭas Windows 10? Protektu viajn datumojn dum transiro.
 windows-10-eos-sync-urgency-subtitle-2 = Eĉ se vi ne uzas { -brand-short-name } ĉiutage, spegulu por havi legosignojn kaj pasvortojn sekuraj kaj alireblaj.
 windows-10-eos-sync-new-device-title-1 = Ne risku komenci el nul en via venonta aparato.
+windows-10-eos-sync-new-device-subtitle-1 = Spegulu, por porti viajn legosignojn, pasvortojn kaj preferatajn agordojn de { -brand-short-name } kun vi, kiam vi transiros al nova aparato.
+windows-10-eos-sync-new-device-title-2 = Ĉu vi transiras al nova aparato? Ne perdu gravajn aferojn.
+windows-10-eos-sync-new-device-subtitle-2 = Ne gravas kiel ofte vi uzas { -brand-short-name }, spegulado protektas viajn legosignojn, pasvortojn kaj agordojn.
+windows-10-eos-sync-new-device-primary-label = Speguli nun
+windows-10-eos-sync-general-title-1 = Konservu vian personecigon de { -brand-short-name }
+windows-10-eos-sync-general-subtitle-1 = Faru sekurkopion kaj spegulu viajn pasvortojn, legosignojn, agordojn, kaj aliajn datumojn por plu havi la aferojn, kiuj estas gravaj por vi.
+windows-10-eos-sync-general-title-2 = Nun estas bona momento fari sekurkopion de viaj pasvortoj kaj legosignoj.
+windows-10-eos-sync-general-subtitle-2 = Spegulu nun por protekti la datumojn, kiujn vi fidis al { -brand-short-name }, kaj por rehavi ilin iam ajn, ie ajn.
+windows-10-eos-sync-tour-title-1 = Ĉu tro multe da langetoj? Aranĝu ilin per grupoj de langetoj.
+windows-10-eos-sync-tour-subtitle-1 = Trenu langeton sur alia por krei grupon kaj organizi aferojn.
+windows-10-eos-sync-tour-title-2 = Prepariĝu por Windows 11.
+windows-10-eos-sync-tour-subtitle-2 = Spegulu viajn legosignojn, pasvortojn kaj agordojn por havi sekurkopion antaŭ ol vi transiras al la nova sistemo.
 
 ## Sidebar Strings
 

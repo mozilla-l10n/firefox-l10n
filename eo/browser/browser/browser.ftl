@@ -143,6 +143,8 @@ urlbar-geolocation-notification-anchor =
     .tooltiptext = Malfermi panelon de peto de pozicio
 urlbar-localhost-notification-anchor =
     .tooltiptext = Administri la aliron de tiu ĉi retejo al al la loka konservejo
+urlbar-local-network-notification-anchor =
+    .tooltiptext = Administri aliron de tiu ĉi retejo al via loka reto
 urlbar-xr-notification-anchor =
     .tooltiptext = Malfermi panelon de permesoj por virtuala realo
 urlbar-storage-access-anchor =
@@ -209,6 +211,9 @@ urlbar-result-menu-show-less-frequently =
     .label = Montri malpli ofte
 urlbar-result-menu-dont-show-weather-suggestions =
     .label = Ne montri sugestojn pri veterprognozo
+# Used for Split Button.
+urlbar-splitbutton-dropmarker =
+    .title = Malfermi menuon
 # A message shown in the urlbar when the user submits feedback on a suggestion
 # (e.g., it shows an inaccurate location, it's shown too often, etc.).
 urlbar-feedback-acknowledgment = Dankon pro via opinio
@@ -240,6 +245,10 @@ urlbar-search-mode-actions = Agoj
 
 urlbar-geolocation-blocked =
     .tooltiptext = Vi blokis informon pri via pozicio por tiu ĉi retejo.
+urlbar-localhost-blocked =
+    .tooltiptext = Vi blokis konektojn al aparatoj en la loka reto por tiu ĉi retejo.
+urlbar-local-network-blocked =
+    .tooltiptext = Vi blokis konektojn al la loka reto por tiu ĉi retejo.
 urlbar-xr-blocked =
     .tooltiptext = Vi blokis la aliron al aparatoj de virtuala realo por tiu ĉi retejo.
 urlbar-web-notifications-blocked =

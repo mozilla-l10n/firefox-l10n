@@ -4,7 +4,7 @@
 # This is temporary until bug 1521632 is fixed
 
 elevation-update-wizard =
-    .title = Nagi'iaj nakò' software
+    .title = Nāgi'hiaj nakò' software
 elevation-details-link-label =
     .value = A'ngô nej sa nika
 elevation-error-manual =

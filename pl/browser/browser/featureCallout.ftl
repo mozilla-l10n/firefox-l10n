@@ -111,6 +111,14 @@ windows-10-eos-sync-new-device-subtitle-1 = Synchronizuj, aby zabrać zakładki,
 windows-10-eos-sync-new-device-title-2 = Przenosisz się na nowe urządzenie? Nie strać tego, co ważne.
 windows-10-eos-sync-new-device-subtitle-2 = Bez względu na to, jak często korzystasz z { -brand-short-name(case: "gen") }, synchronizacja chroni Twoje zakładki, hasła i ustawienia.
 windows-10-eos-sync-new-device-primary-label = Zacznij synchronizować
+windows-10-eos-sync-general-title-1 = Chroń { -brand-short-name(case: "acc") }, który stał się Twój.
+windows-10-eos-sync-general-subtitle-1 = Utwórz kopię zapasową i synchronizuj hasła, zakładki, ustawienia i pozostałe dane, aby nie stracić tego, na czym Ci zależy.
+windows-10-eos-sync-general-title-2 = To dobra chwila, aby utworzyć kopię zapasową haseł i zakładek.
+windows-10-eos-sync-general-subtitle-2 = Synchronizuj już teraz, aby chronić rzeczy powierzone { -brand-short-name(case: "dat") } — i móc odzyskać je gdzie chcesz, kiedy chcesz.
+windows-10-eos-sync-tour-title-1 = Za dużo kart? Uporządkuj je za pomocą grup kart.
+windows-10-eos-sync-tour-subtitle-1 = Przeciągnij jedną kartę na drugą, aby utworzyć grupę i zachować porządek.
+windows-10-eos-sync-tour-title-2 = Przygotuj się na przejście na system Windows 11.
+windows-10-eos-sync-tour-subtitle-2 = Synchronizuj zakładki, hasła i ustawienia, aby mieć ich kopię zapasową przed przejściem.
 
 ## Sidebar Strings
 
