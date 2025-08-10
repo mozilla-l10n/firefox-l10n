@@ -95,6 +95,18 @@ genai-shortcuts-hide =
     .label = Схаваць ярлык чат-бота
 genai-menu-no-provider =
     .label = Спытаць чат-бота са штучным інтэлектам
+genai-menu-choose-chatbot =
+    .label = Выбраць чат-бота ШІ
+genai-menu-ask-generic-2 =
+    .label = Спытаць чат-бота са штучным інтэлектам
+    .accesskey = п
+# $provider (string) - name of the provider
+genai-menu-ask-provider-2 =
+    .label = Спытаць { $provider }
+    .accesskey = п
+genai-menu-no-provider-2 =
+    .label = Спытаць чат-бота са штучным інтэлектам
+    .accesskey = п
 
 ## Chatbot header
 
@@ -118,6 +130,10 @@ genai-options-hide-shortcut =
     .label = Схаваць ярлык пры выбары тэксту
 genai-options-about-chatbot =
     .label = Пра чат-боты ШІ ў { -brand-short-name }
+
+## Chatbot footer
+
+genai-page-button-summarize = Падсумаваць змест старонкі
 
 ## Chatbot onboarding
 
@@ -153,6 +169,15 @@ genai-onboarding-select-primary = Пачаць чат
 genai-chatbot-contextual-title = Выкарыстоўвайце чат-бота са штучным інтэлектам без пераключэння картак
 genai-chatbot-contextual-subtitle = Перапісвайцеся ў чаце і аглядайце сеціва адначасова, дадаўшы чат-бота са штучным інтэлектам у бакавую панэль { -brand-short-name }.
 genai-chatbot-contextual-button = Выберыце чат-бота
+genai-chatbot-summarize-title = Новае! Падсумоўвайце змест старонак адным націскам
+genai-chatbot-summarize-button = Падсумаваць змест старонкі
+# “Summarize Page” should be consistent with the translation for the string genai-menu-summarize-page
+genai-chatbot-summarize-sidebar-provider-subtitle = Націсніце правай кнопкай мышы на вашым чат-боце са штучным інтэлектам на бакавой панэлі і абярыце «Падсумаваць змест старонкі».
+# “Summarize Page” should be consistent with the translation for the string genai-menu-summarize-page
+genai-chatbot-summarize-sidebar-generic-subtitle = Націсніце правай кнопкай мышы на кнопку з бліскаўкамі на бакавой панэлі і абярыце «Падсумаваць змест старонкі». Першы раз вы таксама выбераце чат-бота са штучным інтэлектам.
+# “Summarize page” should be consistent with the translation for the string genai-page-button-summarize
+genai-chatbot-summarize-footer-provider-subtitle = Адкрыйце свой чат-бот са штучным інтэлектам на бакавой панэлі і выберыце ўнізе «Падсумаваць змест старонкі».
+genai-chatbot-summarize-footer-generic-subtitle = Дадайце чат-бота са штучным інтэлектам на бакавую панэль { -brand-short-name }, каб хутка падсумоўваць старонкі.
 
 ## Chatbot onboarding choices
 ## These describe features/capabilities of chatbot providers. These are not buttons/actions.
