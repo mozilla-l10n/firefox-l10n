@@ -891,6 +891,8 @@ urlbar-result-weather-provider-sponsored = { $provider } · Sponzorované
 
 # This string is shown as title when Market suggestion are disabled.
 urlbar-result-market-opt-in-title = Získejte data o akciových trzích přímo do vyhledávacího pole
+# This string is shown as description when Market suggestion are disabled.
+urlbar-result-market-opt-in-description = Zobrazuje novinky z trhu a další informace od našich partnerů, pokud sdílíte údaje o vyhledávacích dotazech se společností { -vendor-short-name }. <a data-l10n-name="learn-more-link">Zjistit více</a>
 # This string is shown as button to activate online when realtime suggestion are disabled.
 urlbar-result-realtime-opt-in-allow = Povolit našeptávání
 # This string is shown in split button to dismiss activation the Realtime suggestion.
@@ -1664,3 +1666,33 @@ trustpanel-tracking-content-not-blocking-tab-header =
        *[other] { -brand-product-name } povolil { $count } sledovacích prvků
     }
 trustpanel-tracking-content-tab-list-header = Tyto stránky se vás snaží sledovat:
+trustpanel-fingerprinter-blocking-tab-header =
+    { $count ->
+        [one] { -brand-product-name } zablokoval { $count } vytváření otisku prohlížeče
+        [few] { -brand-product-name } zablokoval { $count } vytváření otisků prohlížeče
+        [many] { -brand-product-name } zablokoval { $count } vytváření otisků prohlížeče
+       *[other] { -brand-product-name } zablokoval { $count } vytváření otisků prohlížeče
+    }
+trustpanel-fingerprinter-not-blocking-tab-header =
+    { $count ->
+        [one] { -brand-product-name } povolil { $count } vytváření otisku prohlížeče
+        [few] { -brand-product-name } povolil { $count } vytváření otisků prohlížeče
+        [many] { -brand-product-name } povolil { $count } vytváření otisků prohlížeče
+       *[other] { -brand-product-name } povolil { $count } vytváření otisků prohlížeče
+    }
+trustpanel-fingerprinter-list-header = Tyto stránky se snaží vytvářet otisky prohlížeče:
+trustpanel-cryptominer-blocking-tab-header =
+    { $count ->
+        [one] { -brand-product-name } zablokoval { $count } těžku kryptoměn
+        [few] { -brand-product-name } zablokoval { $count } těžby kryptoměn
+        [many] { -brand-product-name } zablokoval { $count } těžeb kryptoměn
+       *[other] { -brand-product-name } zablokoval { $count } těžeb kryptoměn
+    }
+trustpanel-cryptominer-not-blocking-tab-header =
+    { $count ->
+        [one] { -brand-product-name } povolil { $count } těžbu kryptoměn
+        [few] { -brand-product-name } povolil { $count } těžby kryptoměn
+        [many] { -brand-product-name } povolil { $count } těžeb kryptoměn
+       *[other] { -brand-product-name } povolil { $count } těžeb kryptoměn
+    }
+trustpanel-cryptominer-tab-list-header = Tyto stránky se pokouší o těžbu kryptoměn:
