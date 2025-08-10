@@ -54,3 +54,5 @@ experimental-features-newtab-sections-follow-block-description = Арганіз�
 # Firefox Web Apps
 experimental-features-fx-web-apps =
     .label = Дадайце сайты на панэль задач
+# “Add tab to taskbar” is found in the tooltip text of `-taskbar-tab-urlbar-button-open`.
+experimental-features-fx-web-apps-description = Адкрывайце сайты, якія часта наведваеце, як вэб-праграмы з панэлі задач. Знайдзіце значок «Дадаць картку на панэль задач» справа ад адраснага радка, каб адкрыць сайт у спрошчаным акне з усімі абаронамі { -brand-product-name }. <a data-l10n-name="connect">Падзяліцца водгукам</a>
