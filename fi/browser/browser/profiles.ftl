@@ -163,7 +163,11 @@ canvas-avatar = Kangas
 custom-avatar = Mukautettu profiilikuva
 # Default favicon refers to the generic globe/world icon that appears in browser tabs when a website doesn't have its own favicon.
 default-favicon-avatar = Oletusarvoinen favicon
+# Diamond refers to the precious stone, not the geometric shape
+diamond-avatar = Timantti
 flower-avatar = Kukka
+folder-avatar = Kansio
+hammer-avatar = Vasara
 heart-avatar = Sydän
 heart-rate-avatar = Syke
 leaf-avatar = Lehti
