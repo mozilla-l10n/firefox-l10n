@@ -54,6 +54,7 @@ about-logging-preset-webcodecs-description = Cofnodi modiwlau i wneud diagnosis 
 about-logging-preset-ml-label = Dysgu Peirianyddol
 about-logging-preset-ml-description = Modiwlau cofnodi i wneud diagnosis o faterion dysgu peirianyddol
 about-logging-preset-web-compat-label = Compat Gwe
+about-logging-preset-web-compat-description = Cofnodi modiwlau i wneud diagnosis o faterion cydweddoldeb gwe
 about-logging-preset-webgpu-label = WebGPU
 about-logging-preset-webgpu-description = Modiwlau cofnodi i wneud diagnosis o faterion WebGPU
 about-logging-preset-gfx-label = Graffigau

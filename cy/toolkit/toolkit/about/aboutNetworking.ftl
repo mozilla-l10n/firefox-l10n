@@ -39,6 +39,7 @@ about-networking-dns-lookup = Chwilio DNS
 about-networking-dns-lookup-button = Datrys
 about-networking-dns-domain = Parth:
 about-networking-dns-lookup-table-column = IPau
+about-networking-dns-https-rrs-lookup-table-column = RR HTTPS
 about-networking-dns-https-rr-lookup-table-column = HTTP RRs
 about-networking-rcwn = Statws RCWN
 about-networking-rcwn-status = Statws RCWN

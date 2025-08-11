@@ -51,3 +51,8 @@ experimental-features-link-previews-description-no-ai =
 experimental-features-newtab-sections-follow-block =
     .label = Adrannau Pynciau a Dilyn/Bloc ar gyfer Straeon Tabiau Newydd
 experimental-features-newtab-sections-follow-block-description = Trefnwch y straeon ar eich tudalen Tab Newydd yn adrannau pwnc (Chwaraeon, Bwyd, Adloniant a mwy) i gael profiad mwy strwythuredig a hawdd ei sganio. Defnyddiwch ein rheolyddion Dilyn a Rhwystro newydd i gyfaddasu pa gynnwys rydych yn ei weld. <a data-l10n-name="connect">Rhannu adborth</a>
+# Firefox Web Apps
+experimental-features-fx-web-apps =
+    .label = Ychwanegu gwefannau at eich bar tasgau
+# “Add tab to taskbar” is found in the tooltip text of `-taskbar-tab-urlbar-button-open`.
+experimental-features-fx-web-apps-description = Agorwch wefannau rydych chi'n ymweld â nhw'n aml fel ap gwe o'ch bar tasgau. Chwiliwch am yr eicon “Ychwanegu tab at y bar tasgau” ar y dde, y bar cyfeiriad i aor y wefan honno mewn ffenestr symlach gyda holl ddiogelwch { -brand-product-name }. <a data-l10n-name="connect">Rhannu adborth</a>
