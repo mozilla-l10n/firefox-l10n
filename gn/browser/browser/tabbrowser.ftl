@@ -257,6 +257,8 @@ tab-group-editor-color-selector2-gray = Hũngy
 tab-group-editor-color-selector2-red = Ñanduti
     .title = Ñanduti
 tab-group-description = { $tabGroupName } — Tendayke aty
+tab-group-label-tooltip-collapsed = { $tabGroupName } — Ho’apáva
+tab-group-label-tooltip-expanded = { $tabGroupName } — Tuichavéva
 tab-context-unnamed-group =
     .label = Aty hera’ỹva
 tab-group-name-default = Aty hera’ỹva
@@ -310,6 +312,11 @@ tab-context-ungroup-tab =
 # number of remaining tabs that are hidden by the collapsed group,
 # e.g. "+2" for a group with 3 total tabs.
 tab-group-overflow-count = +{ $tabCount }
+tab-group-overflow-count-tooltip =
+    { $tabCount ->
+        [one] { $tabCount } tendayke hetave
+       *[other] { $tabCount } tendaykekuéra hetave
+    }
 
 ## Open/saved tab group context menu
 
