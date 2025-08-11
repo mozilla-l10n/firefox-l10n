@@ -344,6 +344,10 @@ multi-cta-fox-doodle-privacy-focused-subtitle =
     }
 multi-cta-fox-doodle-msix-privacy-focused-subtitle = Браузери дӯстдоштаи худро, ки ба махфият нигаронида шудааст, танҳо бо зер кардани як тугма ба даст оред. Браузери «{ -brand-short-name }»-ро ҳамчун браузери пешфарзии худ барои кушодани пайвандҳо таъин кунед ва онро ба навори вазифаҳо ва менюи «Оғози кор» васл намоед.
 
+## Windows 10 EoS Sync messages group 1 spotlight
+
+windows-10-eos-sync-spotlight-title = Ба наздикӣ аз «Windows 10» ба версияи навтар мегузаред?
+
 ## Windows 10 EoS Sync messages group 1 toast notification
 
 windows-10-eos-sync-toast-primary-label = Оғози кор
