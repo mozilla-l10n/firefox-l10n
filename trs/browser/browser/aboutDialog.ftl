@@ -25,6 +25,7 @@ update-applying = Hìaj nagi'iaj nakàj sa naduninjt
 update-failed = Guire’ sa nagui’iaj naka. <label data-l10n-name="failed-link">Naduninj sa naka doj</label>
 update-failed-main = Guire’ sa nagui’iaj naka. <a data-l10n-name="failed-link-main">Naduninj sa naka doj</a>
 update-adminDisabled = Su' 'nïnj ra'a aga' sikà' rà na ni duyichin' si daran' sa nahuin nakàa
+update-policy-disabled = Giyichin’ sa nāhuin nākàa ‘hiaj ‘ngō yi’nïn’ïn
 update-noUpdatesFound = { -brand-short-name } nga ganahuin naka
 aboutdialog-update-checking-failed = Gire’ guendâ nana’huij nej sa nahuin nākàa.
 update-otherInstanceHandlingUpdates = { -brand-short-name } nahui nakà ma 'iaj a'ngo ña achín nì'iô'
@@ -50,6 +51,8 @@ community-exp = <label data-l10n-name="community-exp-mozillaLink">{ -vendor-shor
 community-2 = { -brand-short-name } guiri rá...<label data-l10n-name="community-mozillaLink">{ -vendor-short-name }</label>, ngo <label data-l10n-name="community-creditsLink">yi’ni’ niko</label> hiaj sun nugua’an da’ ga’ué gara sun daran nej dugui’ man riki yumin guii.
 helpus = ¿ruguñu'unjt ruhuâ raj?<label data-l10n-name="helpus-donateLink">Gà'uì' 'ngo nriû</label>asi<label data-l10n-name="helpus-getInvolvedLink">Gatu siganïnj ïn</label>
 bottomLinks-license = Nuguan’ da’ui guini’in
+bottom-links-terms = Chrēj gānikò’t da’ gā’hue gārasunt
+bottom-links-privacy = Notisia huìi
 bottomLinks-rights = Si suntuj ne’ araj sun
 bottomLinks-privacy = Sa gara yino’
 # Example of resulting string: 66.0.1 (64-bit)
@@ -63,3 +66,14 @@ aboutDialog-version = { $version } ({ $bits }-bit)
 #   $isodate (String): date in ISO format, e.g. 2019-01-16
 #   $bits (Number): bits of the architecture (32 or 64)
 aboutDialog-version-nightly = { $version } ({ $isodate }) ({ $bits }-bit)
+# Example of resulting string: 131.0a1 (aarch64)
+# Variables:
+#   $version (String): version of Firefox, e.g. 66.0.1
+#   $arch (String): name of the architecture (arm, aarch64, etc.)
+aboutdialog-version-arch = { $version } ({ $arch })
+# Example of resulting string: 131.0a1 (2024-08-27) (aarch64)
+# Variables:
+#   $version (String): version of Firefox for Nightly builds, e.g. 66.0a1
+#   $isodate (String): date in ISO format, e.g. 2019-01-16
+#   $arch (String): name of the architecture (arm, aarch64, etc.)
+aboutdialog-version-arch-nightly = { $version } ({ $isodate }) ({ $arch })

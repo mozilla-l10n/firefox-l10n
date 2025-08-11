@@ -127,3 +127,4 @@ printui-error-invalid-copies = Da’hui nej ñanj nāhuī ñadū’hua ganikāj 
 # Variables
 # $numPages (integer) - Number of pages
 printui-error-invalid-range = Da’hui gāhuin nej numerô nū dānïn 1 ngà { $numPages }
+printui-error-invalid-start-overflow = Numero pajinâ “āsìj” da’hui man gā lij man doj gà’ da’ numero pajinâ “ndà”.
