@@ -81,6 +81,8 @@ addon-removal-title = ລຶບ { $name } ອອກບໍ?
 addon-removal-message = ລຶບ { $name } ອອກຈາກ { -brand-shorter-name } ບໍ?
 addon-removal-button = ເອົາອອກ
 addon-removal-abuse-report-checkbox = ລາຍງານສ່ວນຂະຫຍາຍນີ້ໃຫ້ { -vendor-short-name }
+# "it" refers to the local AI model that is paired to the AI feature
+addon-mlmodel-removal-body = ຖ້າທ່ານໃຊ້ຄຸນສົມບັດ ຫຼື ສ່ວນຂະຫຍາຍທີ່ໃຊ້ຮູບແບບນີ້, ມັນຈະຖືກເພີ່ມໃຫມ່.
 # Variables:
 #   $addonCount (Number): the number of add-ons being downloaded
 addon-downloading-and-verifying = ກຳລັງດາວໂຫຼດ ແລະ ກວດສອບ { $addonCount } ສ່ວນເສີມ…

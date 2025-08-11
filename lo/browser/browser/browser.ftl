@@ -146,6 +146,8 @@ urlbar-search-mode-actions = ການກະທຳ
 
 urlbar-geolocation-blocked =
     .tooltiptext = ທ່ານໄດ້ບລັອກຂໍ້ມູນສະຖານທີ່ສໍາລັບເວັບໄຊທ໌ນີ້.
+urlbar-localhost-blocked =
+    .tooltiptext = ທ່ານໄດ້ບລັອກການເຊື່ອມຕໍ່ອຸປະກອນໃນທ້ອງຖິ່ນສໍາລັບເວັບໄຊທ໌ນີ້.
 urlbar-xr-blocked =
     .tooltiptext = ທ່ານໄດ້ບລັອກບ່ອນເກັບຂໍ້ມູນຄົງທີ່ສໍາລັບເວັບໄຊທ໌ນີ້.
 urlbar-web-notifications-blocked =
