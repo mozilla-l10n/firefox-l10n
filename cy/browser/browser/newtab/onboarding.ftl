@@ -448,6 +448,8 @@ onboarding-checklist-sign-up = Cofrestrwch neu mewngofnodwch i'ch cyfrif
 
 tab-groups-onboarding-feature-callout-title = Rhowch gynnig ar grwpio tabiau am lai o flerwch, gwell trefn
 tab-groups-onboarding-feature-callout-subtitle = Byddwch yn drefnus trwy lusgo un tab ar ben un arall i greu eich grŵp cyntaf.
+# The text "list all tabs" refers to the string tabs-toolbar-list-all-tabs
+tab-groups-onboarding-create-group-title-3 = Dewch o hyd i'ch grwpiau tabiau yn newislen Rhestr Pob Tab unrhyw bryd.
 tab-groups-onboarding-create-group-title-2 = Ailagor eich grwpiau tabiau yma unrhyw bryd.
 tab-groups-onboarding-create-group-no-alltabs-button-title = Dewch o hyd i'ch grwpiau trwy chwilio amdanyn nhw yn y bar cyfeiriad.
 tab-groups-onboarding-saved-groups-title-2 = Pan fyddwch yn cau grŵp tabiau, gallwch ei ailagor yma unrhyw bryd.

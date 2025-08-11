@@ -76,6 +76,11 @@ cfr-doorhanger-bookmark-fxa-link-text = Cydweddu nodau tudalen nawr…
 cfr-doorhanger-bookmark-fxa-close-btn-tooltip =
     .aria-label = Cau botwm
     .title = Cau
+fxa-adoption-addresses-backup-title = Gadewch i ni wneud copi wrth gefn o'ch cyfeiriadau sydd wedi'u cadw
+fxa-adoption-addresses-backup-subtitle = Diogelwch eich cyfrineiriau trwy eu cydweddu â'ch dyfeisiau gydag amgryptio.
+fxa-adoption-credit-cards-backup-title = Gadewch i ni wneud copi wrth gefn o'ch dulliau talu
+fxa-adoption-credit-cards-backup-subtitle = Diogelwch eich dulliau talu trwy eu cydweddu â'ch dyfeisiau gydag amgryptio.
+fxa-adoption-primary-button-label = Ymuno
 
 ## Protections panel
 
@@ -355,3 +360,16 @@ multi-cta-fox-doodle-privacy-focused-subtitle =
        *[other] Cadwch eich hoff borwr sy'n canolbwyntio ar breifatrwydd dim ond un clic i ffwrdd. Gosod { -brand-short-name } fel eich porwr rhagosodedig ar gyfer agor dolenni a'i binio i'ch bar tasgau.
     }
 multi-cta-fox-doodle-msix-privacy-focused-subtitle = Cadwch eich hoff borwr sy'n canolbwyntio ar breifatrwydd dim ond un clic i ffwrdd. Gosodwch { -brand-short-name } fel eich porwr rhagosodedig ar gyfer agor dolenni a'i binio i'ch dewislen Cychwyn.
+
+## Windows 10 EoS Sync messages group 1 spotlight
+
+windows-10-eos-sync-spotlight-title = Uwchraddio o Windows 10 cyn bo hir?
+windows-10-eos-sync-spotlight-subtitle = Gwnewch gopi wrth gefn o'ch cyfrineiriau a'ch nodau tudalen fel eich bod chi'n barod i symud i unrhyw ddyfais.
+windows-10-eos-sync-spotlight-primary-label = Gwnewch gopi wrth gefn o { -brand-short-name }
+
+## Windows 10 EoS Sync messages group 1 toast notification
+
+windows-10-eos-sync-toast-title = Yn uwchraddio i Windows 11? Peidiwch â cholli nodau tudalen a chyfrineiriau.
+windows-10-eos-sync-toast-subtitle = Gwnewch gopi wrth gefn o'ch data fel bod { -brand-short-name } yn barod ar unrhyw bryd, ar y cyfrifiadur hwn neu'r un nesaf.
+windows-10-eos-sync-toast-primary-label = Cychwyn arni
+windows-10-eos-sync-toast-secondary-label = Atgoffwch fi yn nes ymlaen

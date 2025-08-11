@@ -103,6 +103,16 @@ genai-menu-no-provider =
     .label = Gofyn i'r Sgwrsfot AI
 genai-menu-choose-chatbot =
     .label = Dewis Sgwrsfot
+genai-menu-ask-generic-2 =
+    .label = Gofynnwch i'r Sgwrsfot AI
+    .accesskey = G
+# $provider (string) - name of the provider
+genai-menu-ask-provider-2 =
+    .label = Gofynnwch i { $provider }
+    .accesskey = G
+genai-menu-no-provider-2 =
+    .label = Gofynnwch i Sgwrsfot AI
+    .accesskey = G
 
 ## Chatbot header
 

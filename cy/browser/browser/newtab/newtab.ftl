@@ -88,6 +88,14 @@ newtab-confirm-delete-history-p2 = Nid oes modd dadwneud y weithred hon.
 
 newtab-topsite-sponsored = Noddwyd
 
+## Label used by screen readers for pinned top sites
+
+# Variables:
+#   $title (string) - The label or hostname of the site.
+topsite-label-pinned =
+    .aria-label = { $title } piniwyd
+    .title = { $title }
+
 ## Context Menu - Action Tooltips.
 
 # General tooltip for context menus.
@@ -546,6 +554,12 @@ newtab-custom-wallpaper-title = Mae papurau wal cyfaddas yma
 # 'Make firefox yours" means to customize or personalize
 newtab-custom-wallpaper-subtitle = Llwythwch i fyny eich papur wal eich hun neu dewiswch liw cyfaddas i wneud { -brand-product-name } deimlo'n gartrefol.
 newtab-custom-wallpaper-cta = Rhowch gynnig arni
+
+## Strings for new user activation custom wallpaper highlight
+
+newtab-new-user-custom-wallpaper-title = Dewiswch bapur wal i wneud { -brand-product-name } eich un chi
+newtab-new-user-custom-wallpaper-subtitle = Gwnewch i bob tab newydd deimlo fel adref gyda phapurau wal a lliwiau cyfaddas.
+newtab-new-user-custom-wallpaper-cta = Rhowch gynnig arno
 
 ## Strings for download mobile highlight
 
