@@ -94,6 +94,7 @@ perplexity-callout-secondary-label-2 = فهمت
 
 sidebar-button-callout-title = أظهِر عناوين الألسنة في الشريط الجانبي
 sidebar-button-callout-subtitle = استخدم زر الشريط الجانبي لتوسيع الشريط الجانبي حتى تتمكن من رؤية عناوين الألسنة.
+sidebar-button-callout-vertical-tabs = لإظهار ألسنتك، حدّد زر الشريط الجانبي في شريط الأدوات.
 
 ## Sidebar Vertical Tabs Strings
 
@@ -110,6 +111,7 @@ sidebar-pins-callout-cta-button = ثبّت اللسان
 
 sidebar-customization-callout-callout-button = خصّص الشريط الجانبي
 sidebar-customization-callout-dismiss-button = أخفِ الشريط الجانبي
+sidebar-customization-callout-2-subtitle = أضف أدوات وأزلها. ضع ألسنتك في الشريط الجانبي. جرّب روبوت الدردشة بالذكاء الاصطناعي. تخصيص الشريط الجانبي يعود إليك.
 
 ## Sidebar Callout Survey Strings
 

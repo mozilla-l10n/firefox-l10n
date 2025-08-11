@@ -337,6 +337,8 @@ onboarding-new-user-survey-familiarity-based-option-4 = لقد استخدمته 
 
 ## UI strings for the sidebar and vertical tabs
 
+# Setup screen for vertical tabs - "Switch it up" refers to switching between horizontal and vertical tabs.
+onboarding-new-tabs-subtitle = غيّرها متى شئت من إعدادات الشريط الجانبي.
 # Setup screen for vertical tabs - too many tabs variation
 onboarding-many-tabs-title = ألسنتك، بأسلوبك
 # Setup screen for vertical tabs - subtitle for too many tabs variation

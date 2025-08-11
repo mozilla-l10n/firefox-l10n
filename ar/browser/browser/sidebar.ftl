@@ -38,6 +38,12 @@ sidebar-customize-firefox-tools-header =
 sidebar-customize-firefox-settings = إدارة إعدادات { -brand-short-name }
 sidebar-vertical-tabs =
     .label = ألسنة العمودية
+sidebar-settings =
+    .label = إعدادات الشريط الجانبي
+sidebar-show-on-the-right =
+    .label = انقل الشريط الجانبي إلى اليمين
+sidebar-show-on-the-left =
+    .label = انقل الشريط الجانبي إلى اليسار
 
 ## Labels for sidebar context menu items
 
@@ -59,6 +65,8 @@ sidebar-context-menu-copy-link =
 #   $deviceName (String) - The name of the device the user is closing a tab for
 sidebar-context-menu-close-remote-tab =
     .label = أغلق اللسان على { $deviceName }
+sidebar-context-menu-unpin-extension =
+    .label = أزل من الشريط الجانبي
 
 ## Labels for sidebar menu items.
 
