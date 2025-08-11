@@ -1408,3 +1408,28 @@ trustpanel-etp-description-enabled = Os yw rhywbeth yn edrych fel ei fod wedi to
 trustpanel-etp-description-disabled = Mae { -brand-product-name } yn meddwl y dylai cwmnïau eich dilyn llai. Rydyn ni'n rhwystro cymaint o dracwyr ag y gallwn pan fyddwch chi'n troi amddiffyniadau ymlaen.
 trustpanel-connection-label-secure = Cysylltiad yn ddiogel
 trustpanel-connection-label-insecure = Nid yw’r cysylltiad yn ddiogel
+trustpanel-header-enabled = Mae { -brand-product-name } yn diogelu
+trustpanel-description-enabled = Rydych wedi'ch diogelu. Os byddwn yn sylwi ar rywbeth, byddwn yn rhoi gwybod ichi.
+trustpanel-header-disabled = Rydych wedi diffodd eich diogelu
+trustpanel-description-disabled = Nid yw { -brand-product-name } ar waith. Rydym yn awgrymu troi eich diogelwch yn ôl ymlaen.
+trustpanel-clear-cookies-button = Clirio cwcis a data gwefan
+trustpanel-privacy-link = Gosodiadau Preifatrwydd
+# Variables
+#  $host (String): the hostname of the site that is being displayed.
+trustpanel-clear-cookies-header =
+    .title = Clirio cwcis a data gwefan ar gyfer { $host }
+trustpanel-clear-cookies-description = Gall dileu cwcis a data gwefan eich allgofnodi o wefannau a gwagio cartiau siopa.
+trustpanel-clear-cookies-subview-button-clear = Clirio
+trustpanel-clear-cookies-subview-button-cancel = Diddymu
+# Variables
+#  $host (String): the hostname of the site that is being displayed.
+trustpanel-site-information-header =
+    .title = Diogelu cysylltiadau ar gyfer { $host }
+trustpanel-connection-secure = Rydych wedi'ch cysylltu'n ddiogel â'r wefan hon.
+trustpanel-connection-not-secure = Nid ydych wedi'ch cysylltu'n ddiogel â'r wefan hon.
+trustpanel-siteinformation-morelink = Rhagor o fanylion y wefan
+trustpanel-blocker-see-all = Gweld y Cyfan
+# Variables
+#  $host (String): the hostname of the site that is being displayed.
+trustpanel-blocker-header =
+    .title = Diogelwch tracio ar gyfer  { $host }
