@@ -987,6 +987,9 @@ forms-saved-passwords =
 forms-primary-pw-use =
     .label = 使用主控密碼
     .accesskey = U
+# This operation requires the user to authenticate with the operating system (device sign-in)
+forms-os-reauth =
+    .label = 填寫與管理密碼時需進行裝置登入驗證
 forms-primary-pw-learn-more-link = 了解更多
 # This string uses the former name of the Primary Password feature
 # ("Master Password" in English) so that the preferences can be found
@@ -1022,8 +1025,8 @@ master-password-os-auth-dialog-caption = { -brand-full-name }
 # The macOS string is preceded by the operating system with "Firefox is trying to ".
 autofill-creditcard-os-dialog-message =
     { PLATFORM() ->
-        [macos] 更改付款方式的選項
-       *[other] { -brand-short-name } 正嘗試更改付款方式的選項，請使用您的裝置登入後允許此動作。
+        [macos] 更改付款方式設定
+       *[other] { -brand-short-name } 正嘗試更改付款方式設定，請進行裝置登入驗證。
     }
 autofill-creditcard-os-auth-dialog-caption = { -brand-full-name }
 
@@ -1041,7 +1044,7 @@ autofill-payment-methods-checkbox-submessage = 包含信用卡與 Debit Card
 autofill-saved-payment-methods-button = 儲存的付款方式
     .accesskey = v
 # This operation requires the user to authenticate with the operating system (device sign-in)
-autofill-reauth-payment-methods-checkbox = 需要裝置登入才能填寫與管理付款資訊
+autofill-reauth-payment-methods-checkbox = 填寫與管理付款資訊時需進行裝置登入驗證
     .accesskey = o
 
 ## Privacy Section - History
