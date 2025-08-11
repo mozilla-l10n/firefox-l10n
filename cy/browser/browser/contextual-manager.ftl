@@ -66,6 +66,12 @@ contextual-manager-passwords-import-success-heading =
 #   $added (number) - Number of added passwords
 #   $modified (number) - Number of modified passwords
 contextual-manager-passwords-import-success-message = Newydd: { $added }, Diweddarwyd: { $modified }
+# Variables
+#   $added (number) - Number of added passwords
+#   $modified (number) - Number of modified passwords
+#   $no_change (number) - Number of duplicate passwords
+#   $error (number) - Number of invalid passwords
+contextual-manager-passwords-import-success-message-2 = Newydd: { $added }, Diweddarwyd: { $modified }, Dyblygiadau: { $no_change }, Gwallau: { $error }
 contextual-manager-passwords-import-detailed-report = Gweld adroddiad manwl
 contextual-manager-passwords-import-success-button = Gorffen
 contextual-manager-passwords-import-error-heading-and-message =
@@ -177,6 +183,8 @@ contextual-manager-passwords-password-already-exists-error-button = Mynd i gyfri
 contextual-manager-passwords-update-password-success-heading =
     .heading = Cyfrinair wedi'i gadw
 contextual-manager-passwords-update-password-success-button = Gorffen
+contextual-manager-passwords-update-username-success-heading-2 =
+    .heading = Enw defnyddiwr wedi'i ychwanegu
 contextual-manager-passwords-update-username-success-heading =
     .heading = Enw defnyddiwr wedi'i gadw
 # Message to confirm successful removal of a password/passwords.
@@ -237,12 +245,15 @@ contextual-manager-passwords-title = Cyfrineiriau
 
 contextual-manager-passwords-create-label =
     .label = Ychwanegu cyfrinair
+contextual-manager-passwords-update-label =
+    .label = Diweddaru cyfrinair
 contextual-manager-passwords-edit-label =
     .label = Golygu cyfrinair
 contextual-manager-passwords-remove-label =
     .title = Tynnu'r cyfrinair
 contextual-manager-passwords-origin-tooltip = Rhowch yr union gyfeiriad lle byddwch yn mewngofnodi i'r wefan hon.
 contextual-manager-passwords-username-tooltip = Rhowch yr enw defnyddiwr, cyfeiriad e-bost, neu rif cyfrif rydych chi'n ei ddefnyddio i fewngofnodi.
+contextual-manager-passwords-password-tooltip-2 = Rhowch y cyfrinair i fewngofnodi i'r cyfrif hwn.
 contextual-manager-passwords-password-tooltip = Rhowch y cyfrinair a ddefnyddiwyd i fewngofnodi i'r cyfrif hwn.
 
 ## Password Card
@@ -329,6 +340,7 @@ contextual-manager-hide-password-button =
 # The message displayed when the search text does not match any of the user's saved logins.
 contextual-manager-passwords-no-passwords-found-header =
     .heading = Heb ganfod cyfrineiriau
+contextual-manager-passwords-no-passwords-found-message-2 = Rhowch gynnig ar derm gwahanol a chwiliwch eto.
 contextual-manager-passwords-no-passwords-found-message = Heb ganfod cyfrineiriau. Chwiliwch am derm gwahanol a cheisio eto.
 
 ## When the user has no saved passwords, we display the following messages to inform the user they can save
@@ -343,6 +355,8 @@ contextual-manager-passwords-no-passwords-message = Mae'r holl gyfrineiriau wedi
 contextual-manager-passwords-no-passwords-get-started-message = Ychwanegwch nhw yma i gychwyn arni.
 # This string is displayed in a button. If the user clicks it, they will be taken to a form to create a new password.
 contextual-manager-passwords-add-manually = Ychwanegu â llaw
+# This string encourages the user to save their passwords in Firefox (the "safe spot").
+contextual-manager-passwords-no-passwords-header-2 = Cadwch eich cyfrineiriau mewn man diogel
 
 ## When the user cancels a login that's currently being edited, we display a message to confirm whether
 ## or not the user wants to discard their current edits to the login.
@@ -363,3 +377,8 @@ contextual-manager-passwords-remove-all-passwords-checkbox =
         [many] Iawn, tynnu'r cyfrineiriau
        *[other] Iawn, tynnu'r cyfrineiriau
     }
+# This string informs the user they need to provide their primary password for FireFox to access their saved passwords in Firefox.
+contextual-manager-primary-password-reauth-header = I weld eich cyfrineiriau sydd wedi'u cadw, rhowch eich prif gyfrinair.
+# This string informs the user their primary password is used to authenticate and access their passwords
+contextual-manager-primary-password-reauth-button = Rhowch eich prif gyfrinair
+contextual-manager-primary-password-learn-more-link = Dysgu rhagor

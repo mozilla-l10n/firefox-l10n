@@ -173,6 +173,7 @@ permissions-site-camera-disable-desc = Bydd hyn yn rhwystro unrhyw wefan sydd he
 permissions-site-localhost-window =
     .title = Gosodiadau - Apiau a gwasanaethau dyfais
     .style = { permissions-window2.style }
+permissions-site-localhost-desc = Mae'r gwefannau hyn wedi gofyn am fynediad i apiau a gwasanaethau ar y ddyfais hon. Gallwch ddewis caniatáu neu rwystro gwefannau rhag gwneud hyn.
 
 ## Site Permissions - Microphone
 

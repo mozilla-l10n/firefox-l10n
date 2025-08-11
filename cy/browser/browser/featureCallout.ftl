@@ -114,6 +114,18 @@ fxa-adoption-passwords-primary-button-label = Ymuno
 
 ## Windows 10 EoS Sync messages group 1 callouts
 
+windows-10-eos-sync-urgency-title-1 = Peidiwch colli popeth rydych chi wedi'u cadw pan fyddwch chi'n symud i Windows 11.
+windows-10-eos-sync-urgency-subtitle-1 = Cydweddwch nawr i gadw'ch nodau tudalen, cyfrineiriau a gosodiadau { -brand-short-name } yn ddiogel ac yn hawdd i'w hadfer.
+windows-10-eos-sync-urgency-title-2 = Yn dweud ffarwel i Windows 10? Cadwch eich data'n ddiogel pan fyddwch yn newid drosodd.
+windows-10-eos-sync-urgency-subtitle-2 = Hyd yn oed os nad ydych yn defnyddio { -brand-short-name } bob dydd, cydweddwch i gadw'ch nodau tudalen a chyfrineiriau yn ddiogel ac yn hygyrch.
+windows-10-eos-sync-new-device-title-1 = Peidiwch â mentro cychwyn eto ar eich dyfais nesaf.
+windows-10-eos-sync-new-device-subtitle-1 = Cydweddwch i gymryd eich nodau tudalen, cyfrineiriau a gosodiadau dewisol { -brand-short-name } gyda chi pan fyddwch yn symud drosodd.
+windows-10-eos-sync-new-device-title-2 = Yn symud i ddyfais newydd? Peidiwch â cholli'r hyn sy'n bwysig.
+windows-10-eos-sync-new-device-subtitle-2 = Ni waeth pa mor aml rydych yn defnyddio { -brand-short-name }, mae cydweddu'n diogelu eich nodau tudalen, cyfrineiriau a'ch gosodiadau.
+windows-10-eos-sync-new-device-primary-label = Cydweddu nawr
+windows-10-eos-sync-general-title-1 = Diogelwch y { -brand-short-name } rydych chi wedi'i wneud eich un chi.
+windows-10-eos-sync-general-subtitle-1 = Gwnewch gopi wrth gefn a chydweddu'ch cyfrineiriau, nodau tudalen, gosodiadau, a data arall i gadw'r hyn rydych chi'n dibynnu arno.
+windows-10-eos-sync-general-title-2 = Mae nawr yn amser da i wneud copi wrth gefn o'ch cyfrineiriau a'ch nodau tudalen.
 windows-10-eos-sync-general-subtitle-2 = Cydweddwch nawr i ddiogelu'r pethau rydych chi'n ymddiried { -brand-short-name } iddyn nhw — a'i gael yn ôl unrhyw le, unrhyw bryd.
 windows-10-eos-sync-tour-title-1 = Gormod o dabiau? Tacluswch gyda grwpiau tab.
 windows-10-eos-sync-tour-subtitle-1 = Llusgwch un tab ar ben y llall i greu grŵp a chadw pethau'n drefnus.
