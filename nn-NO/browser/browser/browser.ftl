@@ -1481,7 +1481,7 @@ trustpanel-fingerprinter-not-blocking-tab-header =
         [one] { -brand-product-name } tillét { $count } fingeravtrykksporar
        *[other] { -brand-product-name } tillét { $count } fingeravtrykksporarar
     }
-trustpanel-fingerprinter-list-header = Desse nettstadane prøver å ta fingeravtrykk frå deg
+trustpanel-fingerprinter-list-header = Desse nettstadane prøver å fingeravtrykkspore deg
 trustpanel-cryptominer-blocking-tab-header =
     { $count ->
         [one] { -brand-product-name } blokkerte { $count } kryptoutvinnar
