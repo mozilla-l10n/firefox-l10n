@@ -452,8 +452,12 @@ tab-groups-onboarding-feature-callout-subtitle = Byddwch yn drefnus trwy lusgo u
 tab-groups-onboarding-create-group-title-3 = Dewch o hyd i'ch grwpiau tabiau yn newislen Rhestr Pob Tab unrhyw bryd.
 tab-groups-onboarding-create-group-title-2 = Ailagor eich grwpiau tabiau yma unrhyw bryd.
 tab-groups-onboarding-create-group-no-alltabs-button-title = Dewch o hyd i'ch grwpiau trwy chwilio amdanyn nhw yn y bar cyfeiriad.
+# The text "list all tabs" refers to the string tabs-toolbar-list-all-tabs
+tab-groups-onboarding-saved-groups-title-3 = Pan fyddwch yn cau grŵp tabiau, gallwch ei ailagor o'r ddewislen Rhestr Pob Tab unrhyw bryd.
 tab-groups-onboarding-saved-groups-title-2 = Pan fyddwch yn cau grŵp tabiau, gallwch ei ailagor yma unrhyw bryd.
 tab-groups-onboarding-saved-groups-no-alltabs-button-title-2 = Dewch o hyd i'ch grwpiau agored ar y bar tab neu drwy chwilio amdanyn nhw yn y bar cyfeiriad.
+# The text "list all tabs" refers to the string tabs-toolbar-list-all-tabs
+tab-groups-onboarding-session-restore-title-2 = Ail agorwch eich grwpiau tab o ddewislen Rhestr Pob Tab unrhyw bryd.
 tab-groups-onboarding-session-restore-title = Ailagorwch eich grwpiau tab yma unrhyw bryd.
 tab-groups-onboarding-dismiss = Iawn
 

@@ -1451,3 +1451,50 @@ trustpanel-blocked-header = Mae { -brand-product-name } wedi rhwystro'r pethau h
 trustpanel-tracking-header = Mae { -brand-product-name } wedi caniatáu'r pethau hyn fel nad yw gwefannau'n torri:
 trustpanel-tracking-description = Heb dracwyr, efallai na fydd rhai botymau, ffurflenni a meysydd mewngofnodi yn gweithio.
 trustpanel-insecure-section-header = Nid yw eich cysylltiad yn ddiogel
+trustpanel-insecure-description = Nid yw'r data rydych yn ei anfon i'r wefan hon wedi'i amgryptio. Mae modd ei weld, ei ddwyn, neu ei newid.
+trustpanel-list-label-tracking-cookies =
+    { $count ->
+        [zero] { $count } Cwcis tracio traws-gwefan
+        [one] { $count } Cwci tracio traws-gwefan
+        [two] { $count } Gwci tracio traws-gwefan
+        [few] { $count } Cwci tracio traws-gwefan
+        [many] { $count } Cwci tracio traws-gwefan
+       *[other] { $count } Cwci tracio traws-gwefan
+    }
+trustpanel-list-label-tracking-content = Cynnwys tracio
+trustpanel-list-label-fingerprinter =
+    { $count ->
+        [zero] { $count } Bysbrintwyr
+        [one] { $count } Bysbrintiwr
+        [two] { $count } Bysbrintiwr
+        [few] { $count } Bysbrintiwr
+        [many] { $count } Bysbrintiwr
+       *[other] { $count } Bysbrintiwr
+    }
+trustpanel-list-label-social-tracking =
+    { $count ->
+        [zero] { $count } Tracwyr cyfryngau cymdeithasol
+        [one] { $count } Traciwr cyfryngau cymdeithasol
+        [two] { $count } Traciwr cyfryngau cymdeithasol
+        [few] { $count } Traciwr cyfryngau cymdeithasol
+        [many] { $count } Traciwr cyfryngau cymdeithasol
+       *[other] { $count } Traciwr cyfryngau cymdeithasol
+    }
+trustpanel-list-label-cryptominer =
+    { $count ->
+        [zero] { $count } Cryptogloddwyr
+        [one] { $count } Cryptogloddiwr
+        [two] { $count } Cryptogloddiwr
+        [few] { $count } Cryptogloddiwr
+        [many] { $count } Cryptogloddiwr
+       *[other] { $count } Cryptogloddiwr
+    }
+trustpanel-social-tracking-blocking-tab-header =
+    { $count ->
+        [zero] Mae { -brand-product-name } wedi rhwystro { $count } tracwyr cyfryngau cymdeithasol
+        [one] Mae { -brand-product-name } wedi rhwystro { $count } traciwr cyfryngau cymdeithasol
+        [two] Mae { -brand-product-name } wedi rhwystro { $count } draciwr cyfryngau cymdeithasol
+        [few] Mae { -brand-product-name } wedi rhwystro { $count } traciwr cyfryngau cymdeithasol
+        [many] Mae { -brand-product-name } wedi rhwystro { $count } thraciwr cyfryngau cymdeithasol
+       *[other] Mae { -brand-product-name } wedi rhwystro { $count } traciwr cyfryngau cymdeithasol
+    }

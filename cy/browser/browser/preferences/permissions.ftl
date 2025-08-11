@@ -168,6 +168,12 @@ permissions-site-camera-disable-label =
     .label = Rhwystro ceisiadau newydd sy'n gofyn i gael mynediad at eich camera
 permissions-site-camera-disable-desc = Bydd hyn yn rhwystro unrhyw wefan sydd heb ei rhestru uchod rhag gofyn am ganiatâd i gael mynediad at eich camera. Gall rhwystro mynediad at eich camera dorri nodweddion rhai gwefannau.
 
+## Site Permissions - Local host
+
+permissions-site-localhost-window =
+    .title = Gosodiadau - Apiau a gwasanaethau dyfais
+    .style = { permissions-window2.style }
+
 ## Site Permissions - Microphone
 
 permissions-site-microphone-window2 =
