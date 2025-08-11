@@ -1522,14 +1522,14 @@ trustpanel-tracking-cookies-not-blocking-tab-header =
         [zero] Mae { -brand-product-name } wedi caniatáu { $count } cwcis tracio traws-gwefan
         [one] Mae { -brand-product-name } wedi caniatáu { $count } cwci tracio traws-gwefan
         [two] Mae { -brand-product-name } wedi caniatáu { $count } gwci tracio traws-gwefan
-        [few] Mae { -brand-product-name } wedi caniatáu { $count } cwci tracio traws-gwefan
+        [few] Mae { -brand-product-name } wedi caniatáu { $count } chwci tracio traws-gwefan
         [many] Mae { -brand-product-name } wedi caniatáu { $count } chwci tracio traws-gwefan
        *[other] Mae { -brand-product-name } wedi caniatáu { $count } cwci tracio traws-gwefan
     }
 trustpanel-tracking-cookies-tab-list-header = Mae'r gwefannau hyn yn ceisio'ch tracio chi:
 trustpanel-tracking-content-blocking-tab-header =
     { $count ->
-        [zero] Mae { -brand-product-name } wedi rhwystro { $count } traciwyr
+        [zero] Mae { -brand-product-name } wedi rhwystro { $count } tracwyr
         [one] Mae { -brand-product-name } wedi rhwystro { $count } traciwr
         [two] Mae { -brand-product-name } wedi rhwystro { $count } draciwr
         [few] Mae { -brand-product-name } wedi rhwystro { $count } traciwr
@@ -1538,7 +1538,7 @@ trustpanel-tracking-content-blocking-tab-header =
     }
 trustpanel-tracking-content-not-blocking-tab-header =
     { $count ->
-        [zero] Mae { -brand-product-name } wedi caniatáu { $count } traciwyr
+        [zero] Mae { -brand-product-name } wedi caniatáu { $count } tracwyr
         [one] Mae { -brand-product-name } wedi caniatáu { $count } traciwr
         [two] Mae { -brand-product-name } wedi caniatáu { $count } draciwr
         [few] Mae { -brand-product-name } wedi caniatáu { $count } traciwr
@@ -1548,7 +1548,7 @@ trustpanel-tracking-content-not-blocking-tab-header =
 trustpanel-tracking-content-tab-list-header = Mae'r gwefannau hyn yn ceisio'ch tracio chi:
 trustpanel-fingerprinter-blocking-tab-header =
     { $count ->
-        [zero] Mae { -brand-product-name } wedi rhwystro { $count } bysbrintiwyr
+        [zero] Mae { -brand-product-name } wedi rhwystro { $count } bysbrintwyr
         [one] Mae { -brand-product-name } wedi rhwystro { $count } bysbrintiwr
         [two] Mae { -brand-product-name } wedi rhwystro { $count } bysbrintiwr
         [few] Mae { -brand-product-name } wedi rhwystro { $count } bysbrintiwr
@@ -1557,7 +1557,7 @@ trustpanel-fingerprinter-blocking-tab-header =
     }
 trustpanel-fingerprinter-not-blocking-tab-header =
     { $count ->
-        [zero] Mae { -brand-product-name } wedi caniatáu { $count } bysbrintiwyr
+        [zero] Mae { -brand-product-name } wedi caniatáu { $count } bysbrintwyr
         [one] Mae { -brand-product-name } wedi caniatáu { $count } bysbrintiwr
         [two] Mae { -brand-product-name } wedi caniatáu { $count } bysbrintiwr
         [few] Mae { -brand-product-name } wedi caniatáu { $count } bysbrintiwr
