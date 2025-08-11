@@ -174,6 +174,19 @@ permissions-site-localhost-window =
     .title = Gosodiadau - Apiau a gwasanaethau dyfais
     .style = { permissions-window2.style }
 permissions-site-localhost-desc = Mae'r gwefannau hyn wedi gofyn am fynediad i apiau a gwasanaethau ar y ddyfais hon. Gallwch ddewis caniatáu neu rwystro gwefannau rhag gwneud hyn.
+permissions-site-localhost-disable-label =
+    .label = Rhwystrwch geisiadau newydd i gael mynediad at apiau a gwasanaethau ar y ddyfais hon
+permissions-site-localhost-disable-desc = Bydd hyn yn atal unrhyw wefan nad yw wedi'i rhestru uchod rhag gofyn am fynediad i apiau a gwasanaethau ar y ddyfais hon. Gall gwneud hyn dorri rhai o nodweddion gwefan.
+
+## Site Permissions - Local network
+
+permissions-site-local-network-window =
+    .title = Gosodiadau - Dyfeisiau Rhwydwaith Lleol
+    .style = { permissions-window2.style }
+permissions-site-local-network-desc = Mae'r gwefannau hyn wedi gofyn am fynediad i apiau a gwasanaethau ar ddyfeisiau sy'n gysylltiedig â'ch Wi-Fi neu rwydwaith lleol. Gallwch ddewis caniatáu neu rwystro gwefannau rhag gwneud hyn.
+permissions-site-local-network-disable-label =
+    .label = Rhwystrwch geisiadau newydd i gael mynediad at apiau a gwasanaethau ar ddyfeisiau sy'n gysylltiedig â'ch Wi-Fi neu rwydwaith lleol.
+permissions-site-local-network-disable-desc = Bydd hyn yn atal unrhyw wefan nad yw wedi'i rhestru uchod rhag gofyn am fynediad i apiau a gwasanaethau ar ddyfeisiau sy'n gysylltiedig â'ch Wi-Fi neu ddyfeisiau rhwydwaith lleol. Gall gwneud hyn dorri rhai o nodweddion gwefan.
 
 ## Site Permissions - Microphone
 
