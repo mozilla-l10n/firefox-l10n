@@ -806,6 +806,8 @@ urlbar-result-weather-provider-sponsored = { $provider } · Сарпарастӣ
 
 # This string is shown as title when Market suggestion are disabled.
 urlbar-result-market-opt-in-title = Маълумотро дар бораи бозори коғазҳои қиматнок бевосита аз навори ҷустуҷӯ гиред
+# This string is shown as description when Market suggestion are disabled.
+urlbar-result-market-opt-in-description = Навсозиҳои бозоршиносӣ ва маълумоти дигар аз шарикони мо нишон додо мешавад вақте ки шумо маълумоти дархости ҷустуҷӯро бо «{ -vendor-short-name }» мубодила мекунед. <a data-l10n-name="learn-more-link">Маълумоти бештар</a>
 # This string is shown as button to activate online when realtime suggestion are disabled.
 urlbar-result-realtime-opt-in-allow = Нишон додани пешниҳодҳо
 # This string is shown in split button to dismiss activation the Realtime suggestion.
