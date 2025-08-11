@@ -123,6 +123,8 @@ windows-10-eos-sync-new-device-subtitle-1 = Ҳозир ҳамоҳанг созе
 windows-10-eos-sync-new-device-title-2 = Мехоҳед, ки ба дастгоҳи нав гузаред? Чизҳои муҳимро аз даст надиҳед.
 windows-10-eos-sync-new-device-subtitle-2 = Новобаста аз он, ки шумо чӣ қадар зиёд аз «{ -brand-short-name }» истифода мебаред, амали ҳамоҳангсозӣ хатбаракҳо, ниҳонвожаҳо ва танзимоти шуморо муҳофизат мекунад.
 windows-10-eos-sync-new-device-primary-label = Ҳозир ҳамоҳанг кунед
+windows-10-eos-sync-general-title-1 = Браузери «{ -brand-short-name }»-ро, ки шумо ҳамчун браузери худ истифода мебаред, ҳифз намоед.
+windows-10-eos-sync-general-subtitle-1 = Барои нигоҳ доштани чизҳое, ки ба шумо муҳим мебошанд, яъне ниҳонвожаҳо, хатбаракҳо, танзимот ва маълумоти дигари худро ҳамоҳанг созед ва нусхаи эҳтиётии онҳоро таҳия намоед.
 windows-10-eos-sync-tour-title-2 = Муҳити мусоидро барои «Windows 11» ба тартиб дароред.
 
 ## Sidebar Strings
