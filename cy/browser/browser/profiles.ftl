@@ -146,5 +146,7 @@ custom-avatar-crop-view =
     .aria-label = Golwg delwedd wedi'i docio
 custom-avatar-crop-area =
     .aria-label = Addasu ardal wedi'i docio
+custom-avatar-drag-handle =
+    .aria-label = Newid maint ardal tocio
 barbell-avatar = Barbell
 bike-avatar = Beic
