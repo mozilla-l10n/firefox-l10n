@@ -1393,6 +1393,7 @@ trustpanel-connection-label-insecure = الاتصال غير آمن
 trustpanel-header-enabled = { -brand-product-name } على الحراسة
 trustpanel-description-enabled = أنت محمي. إذا لاحظنا أي شيء، سنُعلمك.
 trustpanel-header-disabled = لقد أوقفت الحماية
+trustpanel-description-disabled = { -brand-product-name } خارج الخدمة. نقترح إعادة تفعيل الحماية.
 trustpanel-clear-cookies-button = امسح الكعكات و بيانات المواقع
 trustpanel-privacy-link = إعدادات الخصوصية
 trustpanel-clear-cookies-subview-button-clear = امسح

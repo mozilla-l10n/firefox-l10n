@@ -34,7 +34,7 @@ about-reader-estimated-read-time =
         [zero] { $range } دقيقة
         [one] { $range } دقيقة
         [two] { $range } دقيقة
-        [few] { $range } دقيقة
+        [few] { $range } دقائق
         [many] { $range } دقيقة
        *[other] { $range } دقيقة
     }
@@ -133,3 +133,5 @@ about-reader-text-alignment-center =
     .title = حاذِ النص للمنتصف
 about-reader-text-alignment-right =
     .title = حاذِ النص لليمين
+about-reader-text-alignment-justify =
+    .title = ساوِ النص
