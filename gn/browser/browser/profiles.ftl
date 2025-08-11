@@ -211,5 +211,7 @@ sparkle-single-avatar = Mba’erendy
 star-avatar = Mbyja
 custom-avatar-crop-back-button =
     .aria-label = Tapykue
+custom-avatar-crop-view =
+    .aria-label = Ta’ãnga rechaha michĩva
 barbell-avatar = Bárra mba’epohýi reheve
 bike-avatar = Vísi

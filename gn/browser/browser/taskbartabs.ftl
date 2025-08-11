@@ -11,3 +11,11 @@ taskbar-tab-urlbar-button-open =
     .tooltiptext = Embojuaju tendayke tembiaporã rupáre
 taskbar-tab-urlbar-button-close =
     .tooltiptext = Eipe’a tendayke tembiaporã rupágui
+# This string is used in the description of a Windows Start Menu
+# shortcut for a Taskbar Tab.
+# Variables:
+#   $name (string) - A name associated to the website. This might be
+#                    pulled from a Web Application Manifest, generated
+#                    via a heuristic, or simply be the hostname of the
+#                    site.
+taskbar-tab-shortcut-description = { $name } ñanduti rogue
