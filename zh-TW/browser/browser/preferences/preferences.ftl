@@ -987,9 +987,6 @@ forms-saved-passwords =
 forms-primary-pw-use =
     .label = 使用主控密碼
     .accesskey = U
-# This operation requires the user to authenticate with the operating system (device sign-in)
-forms-os-reauth =
-    .label = 需要裝置登入才能填寫與管理密碼
 forms-primary-pw-learn-more-link = 了解更多
 # This string uses the former name of the Primary Password feature
 # ("Master Password" in English) so that the preferences can be found
@@ -1260,7 +1257,7 @@ content-blocking-etp-standard-tcp-rollout-description = 全方位 Cookie 保護�
 content-blocking-etp-standard-tcp-rollout-learn-more = 了解更多
 content-blocking-etp-standard-tcp-title = 包含我們有史以來最強大的隱私保護功能 — 全方位 Cookie 保護
 content-blocking-warning-title = 注意！
-content-blocking-and-isolating-etp-warning-description-3 = 此設定可能會造成某些網站無法顯示內容或無法正常運作。我們會提供可能受您設定影響的例外規則。若要減少網站故障的機會，請將這些追蹤器列入例外規則放行。若某個網站看起來異常，您也可以針對該網站關閉追蹤保護功能，載入讓網站所有內容，並且回報給我們，為所有人修正問題。
+content-blocking-and-isolating-etp-warning-description-3 = 此設定可能會造成某些網站無法顯示內容或無法正常運作。我們會提供可能受您設定影響的例外規則。若要減少網站故障的機會，請放行此例外規則。若某個網站發生異常，您也可以針對該網站關閉追蹤保護功能，載入該網站所有內容，並且回報給我們，為所有人修正問題。
 content-blocking-and-isolating-etp-warning-description-2 = 此設定可能會造成某些網站無法顯示內容或正常運作。若網站運作不正常，您可能會想要對該網站關掉追蹤保護功能，載入完整內容。
 content-blocking-warning-learn-how = 了解要怎麼做
 content-blocking-baseline-exceptions =
