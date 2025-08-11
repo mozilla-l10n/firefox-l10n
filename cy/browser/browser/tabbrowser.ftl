@@ -379,7 +379,7 @@ tab-context-ungroup-tab =
 tab-group-overflow-count = +{ $tabCount }
 tab-group-overflow-count-tooltip =
     { $tabCount ->
-        [zero] { $tabCount } tab erail
+        [zero] { $tabCount } tab eraill
         [one] { $tabCount } tab arall
         [two] { $tabCount } dab arall
         [few] { $tabCount } tab arall
