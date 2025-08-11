@@ -29,6 +29,7 @@ about-logging-no-log-modules = Dim
 about-logging-no-log-file = Dim
 about-logging-logging-preset-selector-text = Rhagosodiad cofnodi:
 about-logging-with-profiler-stacks-checkbox = Galluogi olion stac ar gyfer negeseuon cofnodion
+about-logging-with-javascript-tracing-checkbox = Galluogi trasio JavaScript
 about-logging-menu =
     .title = Dewisiadau uwch
 
@@ -52,6 +53,7 @@ about-logging-preset-webcodecs-label = WebCodecs
 about-logging-preset-webcodecs-description = Cofnodi modiwlau i wneud diagnosis o broblemau gyda datgodyddion sain/fideo ac amgodyddion, a datgodyddion delwedd WebCodecs
 about-logging-preset-ml-label = Dysgu Peirianyddol
 about-logging-preset-ml-description = Modiwlau cofnodi i wneud diagnosis o faterion dysgu peirianyddol
+about-logging-preset-web-compat-label = Compat Gwe
 about-logging-preset-webgpu-label = WebGPU
 about-logging-preset-webgpu-description = Modiwlau cofnodi i wneud diagnosis o faterion WebGPU
 about-logging-preset-gfx-label = Graffigau
