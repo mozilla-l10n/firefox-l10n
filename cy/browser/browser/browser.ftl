@@ -1498,3 +1498,89 @@ trustpanel-social-tracking-blocking-tab-header =
         [many] Mae { -brand-product-name } wedi rhwystro { $count } thraciwr cyfryngau cymdeithasol
        *[other] Mae { -brand-product-name } wedi rhwystro { $count } traciwr cyfryngau cymdeithasol
     }
+trustpanel-social-tracking-not-blocking-tab-header =
+    { $count ->
+        [zero] Mae { -brand-product-name } wedi caniatáu { $count } traciwyr cyfryngau cymdeithasol
+        [one] Mae { -brand-product-name } wedi caniatáu { $count } traciwr cyfryngau cymdeithasol
+        [two] Mae { -brand-product-name } wedi caniatáu { $count } draciwr cyfryngau cymdeithasol
+        [few] Mae { -brand-product-name } wedi caniatáu { $count } traciwr cyfryngau cymdeithasol
+        [many] Mae { -brand-product-name } wedi caniatáu { $count } thraciwr cyfryngau cymdeithasol
+       *[other] Mae { -brand-product-name } wedi caniatáu { $count } traciwr cyfryngau cymdeithasol
+    }
+trustpanel-social-tracking-tab-list-header = Mae'r gwefannau hyn yn ceisio'ch tracio chi:
+trustpanel-tracking-cookies-blocking-tab-header =
+    { $count ->
+        [zero] Mae { -brand-product-name } wedi rhwystro { $count } cwcis tracio traws-gwefan
+        [one] Mae { -brand-product-name } wedi rhwystro { $count } cwci tracio traws-gwefan
+        [two] Mae { -brand-product-name } wedi rhwystro { $count } gwci tracio traws-gwefan
+        [few] Mae { -brand-product-name } wedi rhwystro { $count } chwci tracio traws-gwefan
+        [many] Mae { -brand-product-name } wedi rhwystro { $count } chwci tracio traws-gwefan
+       *[other] Mae { -brand-product-name } wedi rhwystro { $count } cwci tracio traws-gwefan
+    }
+trustpanel-tracking-cookies-not-blocking-tab-header =
+    { $count ->
+        [zero] Mae { -brand-product-name } wedi caniatáu { $count } cwcis tracio traws-gwefan
+        [one] Mae { -brand-product-name } wedi caniatáu { $count } cwci tracio traws-gwefan
+        [two] Mae { -brand-product-name } wedi caniatáu { $count } gwci tracio traws-gwefan
+        [few] Mae { -brand-product-name } wedi caniatáu { $count } cwci tracio traws-gwefan
+        [many] Mae { -brand-product-name } wedi caniatáu { $count } chwci tracio traws-gwefan
+       *[other] Mae { -brand-product-name } wedi caniatáu { $count } cwci tracio traws-gwefan
+    }
+trustpanel-tracking-cookies-tab-list-header = Mae'r gwefannau hyn yn ceisio'ch tracio chi:
+trustpanel-tracking-content-blocking-tab-header =
+    { $count ->
+        [zero] Mae { -brand-product-name } wedi rhwystro { $count } traciwyr
+        [one] Mae { -brand-product-name } wedi rhwystro { $count } traciwr
+        [two] Mae { -brand-product-name } wedi rhwystro { $count } draciwr
+        [few] Mae { -brand-product-name } wedi rhwystro { $count } traciwr
+        [many] Mae { -brand-product-name } wedi rhwystro { $count } thraciwr
+       *[other] Mae { -brand-product-name } wedi rhwystro { $count } traciwr
+    }
+trustpanel-tracking-content-not-blocking-tab-header =
+    { $count ->
+        [zero] Mae { -brand-product-name } wedi caniatáu { $count } traciwyr
+        [one] Mae { -brand-product-name } wedi caniatáu { $count } traciwr
+        [two] Mae { -brand-product-name } wedi caniatáu { $count } draciwr
+        [few] Mae { -brand-product-name } wedi caniatáu { $count } traciwr
+        [many] Mae { -brand-product-name } wedi caniatáu { $count } thraciwr
+       *[other] Mae { -brand-product-name } wedi caniatáu { $count } traciwr
+    }
+trustpanel-tracking-content-tab-list-header = Mae'r gwefannau hyn yn ceisio'ch tracio chi:
+trustpanel-fingerprinter-blocking-tab-header =
+    { $count ->
+        [zero] Mae { -brand-product-name } wedi rhwystro { $count } bysbrintiwyr
+        [one] Mae { -brand-product-name } wedi rhwystro { $count } bysbrintiwr
+        [two] Mae { -brand-product-name } wedi rhwystro { $count } bysbrintiwr
+        [few] Mae { -brand-product-name } wedi rhwystro { $count } bysbrintiwr
+        [many] Mae { -brand-product-name } wedi rhwystro { $count } bysbrintiwr
+       *[other] Mae { -brand-product-name } wedi rhwystro { $count } bysbrintiwr
+    }
+trustpanel-fingerprinter-not-blocking-tab-header =
+    { $count ->
+        [zero] Mae { -brand-product-name } wedi caniatáu { $count } bysbrintiwyr
+        [one] Mae { -brand-product-name } wedi caniatáu { $count } bysbrintiwr
+        [two] Mae { -brand-product-name } wedi caniatáu { $count } bysbrintiwr
+        [few] Mae { -brand-product-name } wedi caniatáu { $count } bysbrintiwr
+        [many] Mae { -brand-product-name } wedi caniatáu { $count } bysbrintiwr
+       *[other] Mae { -brand-product-name } wedi caniatáu { $count } bysbrintiwrMae { -brand-product-name } wedi caniatáu { $count } bysbrintiwr
+    }
+trustpanel-fingerprinter-list-header = Mae'r gwefannau hyn yn ceisio'ch bysbrintio chi:
+trustpanel-cryptominer-blocking-tab-header =
+    { $count ->
+        [zero] Mae { -brand-product-name } wedi rhwystro { $count } cryptogloddwyr
+        [one] Mae { -brand-product-name } wedi rhwystro { $count } cryptogloddwr
+        [two] Mae { -brand-product-name } wedi rhwystro { $count } gryptogloddwr
+        [few] Mae { -brand-product-name } wedi rhwystro { $count } cryptogloddwr
+        [many] Mae { -brand-product-name } wedi rhwystro { $count } chryptogloddwr
+       *[other] Mae { -brand-product-name } wedi rhwystro { $count } cryptogloddwr
+    }
+trustpanel-cryptominer-not-blocking-tab-header =
+    { $count ->
+        [zero] Mae { -brand-product-name } wedi caniatáu { $count } cryptogloddwyr
+        [one] Mae { -brand-product-name } wedi caniatáu { $count } cryptogloddwr
+        [two] Mae { -brand-product-name } wedi caniatáu { $count } gryptogloddwr
+        [few] Mae { -brand-product-name } wedi caniatáu { $count } cryptogloddwr
+        [many] Mae { -brand-product-name } wedi caniatáu { $count } chryptogloddwr
+       *[other] Mae { -brand-product-name } wedi caniatáu { $count } cryptogloddwr
+    }
+trustpanel-cryptominer-tab-list-header = Mae'r gwefannau hyn yn ceisio cryptogloddio:

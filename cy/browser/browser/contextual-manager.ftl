@@ -18,6 +18,7 @@ contextual-manager-passwords-command-import-from-browser = Mewnforio o Borwr Ara
 contextual-manager-passwords-command-import = Mewnforio o Ffeil…
 contextual-manager-passwords-command-export = Allforio cyfrineiriau
 contextual-manager-passwords-command-remove-all = Tynnu pob cyfrinair
+contextual-manager-passwords-command-options = Dewisiadau
 contextual-manager-passwords-command-settings = Gosodiadau
 contextual-manager-passwords-command-help = Cymorth
 contextual-manager-passwords-os-auth-dialog-caption = { -brand-full-name }
