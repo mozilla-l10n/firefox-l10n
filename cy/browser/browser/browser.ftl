@@ -141,6 +141,10 @@ urlbar-default-notification-anchor =
     .tooltiptext = Agor y panel negesu
 urlbar-geolocation-notification-anchor =
     .tooltiptext = Agor panel cais y lleoliad
+urlbar-localhost-notification-anchor =
+    .tooltiptext = Rheoli mynediad dyfais lleol ar gyfer y wefan hon
+urlbar-local-network-notification-anchor =
+    .tooltiptext = Rheoli rhannu eich mynediad rhwydwaith lleol gyda'r wefan hon
 urlbar-xr-notification-anchor =
     .tooltiptext = Agor panel caniatâd rhithrealaeth
 urlbar-storage-access-anchor =
@@ -207,6 +211,9 @@ urlbar-result-menu-show-less-frequently =
     .label = Dangos yn llai aml
 urlbar-result-menu-dont-show-weather-suggestions =
     .label = Peidio â dangos awgrymiadau tywydd
+# Used for Split Button.
+urlbar-splitbutton-dropmarker =
+    .title = Agor dewislen
 # A message shown in the urlbar when the user submits feedback on a suggestion
 # (e.g., it shows an inaccurate location, it's shown too often, etc.).
 urlbar-feedback-acknowledgment = Diolch am eich adborth!
@@ -238,6 +245,10 @@ urlbar-search-mode-actions = Gweithredoedd
 
 urlbar-geolocation-blocked =
     .tooltiptext = Rydych wedi rhwystro'r manylion lleoliad ar gyfer y wefan hon.
+urlbar-localhost-blocked =
+    .tooltiptext = Rydych wedi rhwystro cysylltiadau dyfais leol ar gyfer y wefan hon.
+urlbar-local-network-blocked =
+    .tooltiptext = Rydych wedi rhwystro cysylltiadau rhwydwaith lleol ar gyfer y wefan hon.
 urlbar-xr-blocked =
     .tooltiptext = Rydych wedi rhwystro mynediad dyfais rhithrealaeth ar gyfer y wefan hon.
 urlbar-web-notifications-blocked =
@@ -809,6 +820,29 @@ urlbar-result-weather-title-city-only = <strong>{ $temperature }°{ $unit }</str
 #       name of a company, organization, or service.
 urlbar-result-weather-provider-sponsored = { $provider } · Wedi'i noddi
 
+## These strings are used for Realtime suggestions in the urlbar.
+## Market refers to stocks, indexes, and funds.
+
+# This string is shown as title when Market suggestion are disabled.
+urlbar-result-market-opt-in-title = Cael data'r farchnad stoc yn syth i'ch bar chwilio
+# This string is shown as description when Market suggestion are disabled.
+urlbar-result-market-opt-in-description = Dangos diweddariadau'r farchnad a mwy gan ein partneriaid pan fyddwch yn rhannu data ymholiad chwilio gyda { -vendor-short-name }. <a data-l10n-name="learn-more-link">Dysgu rhagor</a>
+# This string is shown as button to activate online when realtime suggestion are disabled.
+urlbar-result-realtime-opt-in-allow = Dangos awgrymiadau
+# This string is shown in split button to dismiss activation the Realtime suggestion.
+urlbar-result-realtime-opt-in-not-now = Nid nawr
+urlbar-result-realtime-opt-in-dismiss = Cau
+urlbar-result-realtime-opt-in-dismiss-all =
+    .label = Peidio dangos yr awgrymiadau hyn
+# This string is shown in the result menu.
+urlbar-result-menu-dont-show-market =
+    .label = Peidio dangos awgrymiadau marchnad
+# A message that replaces a result when the user dismisses Market suggestions.
+urlbar-result-dismissal-acknowledgment-market = Diolch am eich adborth. Fyddwch chi ddim yn gweld awgrymiadau'r farchnad bellach.
+# A message that replaces a result when the user dismisses all suggestions of a
+# particular type.
+urlbar-result-dismissal-acknowledgment-all = Diolch am eich adborth. Fyddwch chi ddim yn gweld yr awgrymiadau hyn bellach.
+
 ## Strings used for buttons in the urlbar
 
 # Label prompting user to search with a particular search engine.
@@ -842,6 +876,8 @@ urlbar-searchmode-default =
 urlbar-searchmode-popup-description = Y tro hwn, chwilio gyda:
 urlbar-searchmode-popup-search-settings-menuitem =
     .label = Gosodiadau chwilio
+# Label shown next to a new search engine in the Searchmode Switcher popup to promote it.
+urlbar-searchmode-new = Newydd
 # Searchmode Switcher button
 # Variables:
 #   $engine (String): the current default search engine.
@@ -1169,6 +1205,10 @@ tabs-toolbar-list-all-tabs =
     .label = Rhestru pob tab
     .tooltiptext = Rhestru pob tab
 
+## Drop indicator text for pinned tabs when no tabs are pinned.
+
+pinned-tabs-drop-indicator = Gollwng tab yma i binio
+
 ## Infobar shown at startup to suggest session-restore
 
 # <img data-l10n-name="icon"/> will be replaced by the application menu icon
@@ -1351,3 +1391,20 @@ onboarding-checklist-button-label = Gorffen gosod
 onboarding-aw-finish-setup-button =
     .label = Gorffen gosod
     .tooltiptext = Gorffen gosod { -brand-short-name }
+
+## The urlbar trust panel
+
+trustpanel-etp-label-enabled = Mae Diogelwch Uwch Rhag Tracio ymlaen
+trustpanel-etp-label-disabled = Mae Diogelwch Uwch Rhag Tracio i ffwrdd
+# Variables
+#  $host (String): the hostname of the site that is being displayed.
+trustpanel-etp-toggle-on =
+    .aria-label = Mae Diogelwch Uwch Rhag Tracio: Ymlaen ar gyfer { $host }
+# Variables
+#  $host (String): the hostname of the site that is being displayed.
+trustpanel-etp-toggle-off =
+    .aria-label = Mae Diogelwch Uwch Rhag Tracio: I ffwrdd ar gyfer { $host }
+trustpanel-etp-description-enabled = Os yw rhywbeth yn edrych fel ei fod wedi torri ar y wefan hon, ceisiwch ddiffodd yr amddiffyniadau.
+trustpanel-etp-description-disabled = Mae { -brand-product-name } yn meddwl y dylai cwmnïau eich dilyn llai. Rydyn ni'n rhwystro cymaint o dracwyr ag y gallwn pan fyddwch chi'n troi amddiffyniadau ymlaen.
+trustpanel-connection-label-secure = Cysylltiad yn ddiogel
+trustpanel-connection-label-insecure = Nid yw’r cysylltiad yn ddiogel

@@ -275,6 +275,10 @@ main-context-menu-image-info =
 main-context-menu-image-desc =
     .label = Gweld Disgrifiad
     .accesskey = D
+# Variables
+#   $engine (String) - Name of the search engine that will perform the search.
+main-context-menu-visual-search =
+    .label = Chwilio Delwedd gyda { $engine }
 main-context-menu-video-save-as =
     .label = Cadw Fideo Fel…
     .accesskey = F
@@ -397,3 +401,5 @@ main-context-menu-open-link-in-container-tab =
 main-context-menu-reveal-password =
     .label = Datgelu Cyfrinair
     .accesskey = D
+# The label of a badge shown in menu items to call out new features.
+main-context-menu-new-feature-badge = Newydd

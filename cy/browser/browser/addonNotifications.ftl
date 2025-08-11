@@ -145,11 +145,13 @@ addon-install-error-corrupt-file = Nid oedd modd llwytho'r ychwanegyn i lawr o'r
 addon-install-error-file-access = Nid oedd modd gosod { $addonName } gan nad oedd { -brand-short-name } yn gallu newid y linell angenrheidiol.
 addon-install-error-not-signed = Mae { -brand-short-name } wedi atal y wefan rhag gosod ychwanegyn sydd heb ei wirio.
 addon-install-error-invalid-domain = Nid oes modd gosod yr ychwanegyn { $addonName } o'r lleoliad hwn.
+addon-install-error-no-addon-name-file-access = Nid oedd modd gosod yr ychwanegyn oherwydd nid yw { -brand-short-name } yn gallu addasu'r ffeil angenrheidiol.
 addon-local-install-error-network-failure = Nid oedd modd gosod yr ychwanegyn oherwydd gwall system.
 addon-local-install-error-incorrect-hash = Nid oedd modd gosod yr ychwanegyn am nad yw'n cydweddu â'r ychwanegyn { -brand-short-name } disgwyliwyd.
 addon-local-install-error-corrupt-file = Nid oedd modd gosod yr ychwanegyn am ei fod yn edrych yn llwgr.
 addon-local-install-error-file-access = Nid oedd modd gosod { $addonName } gan nad oedd { -brand-short-name } yn gallu newid y linell angenrheidiol.
 addon-local-install-error-not-signed = Nid oedd modd gosod yr ychwanegyn am nad yw wedi ei wirio.
+addon-local-install-no-addon-name-error-file-access = Nid oedd modd gosod yr ychwanegyn oherwydd nid yw { -brand-short-name } yn gallu addasu'r ffeil angenrheidiol.
 # Variables:
 #   $appVersion (String): the application version.
 addon-install-error-incompatible = Nid oedd modd gosod { $addonName } am nad yw'n cydweddu â { -brand-short-name } { $appVersion }.
