@@ -89,8 +89,6 @@ genai-shortcuts-selected-warning =
         }
 genai-shortcuts-hide =
     .label = Приховати ярлик чат-бота
-genai-menu-no-provider =
-    .label = Запитати в чат-бота з ШІ
 genai-menu-choose-chatbot =
     .label = Вибрати чат-бота з ШІ
 

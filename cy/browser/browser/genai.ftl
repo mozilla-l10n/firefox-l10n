@@ -99,8 +99,6 @@ genai-shortcuts-selected-warning =
         }
 genai-shortcuts-hide =
     .label = Cuddio llwybr byr sgwrsfot
-genai-menu-no-provider =
-    .label = Gofyn i'r Sgwrsfot AI
 genai-menu-choose-chatbot =
     .label = Dewis Sgwrsfot
 genai-menu-ask-generic-2 =

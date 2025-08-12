@@ -91,8 +91,6 @@ genai-shortcuts-selected-warning =
         }
 genai-shortcuts-hide =
     .label = Csevegőbot gyorsindítójának elrejtése
-genai-menu-no-provider =
-    .label = MI csevegőbot megkérdezése
 genai-menu-choose-chatbot =
     .label = MI csevegőbot választása
 genai-menu-ask-generic-2 =

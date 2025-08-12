@@ -95,8 +95,6 @@ genai-shortcuts-selected-warning =
         }
 genai-shortcuts-hide =
     .label = Skryť skratku chatbota
-genai-menu-no-provider =
-    .label = Opýtajte sa AI chatbota
 genai-menu-choose-chatbot =
     .label = Vyberte si chatbota s umelou inteligenciou
 genai-menu-ask-generic-2 =

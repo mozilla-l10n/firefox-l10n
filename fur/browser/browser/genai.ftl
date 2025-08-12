@@ -91,8 +91,6 @@ genai-shortcuts-selected-warning =
         }
 genai-shortcuts-hide =
     .label = Plate la scurte pai chatbot
-genai-menu-no-provider =
-    .label = Domande a un chatbot IA
 genai-menu-choose-chatbot =
     .label = Sielç un chatbot IA
 

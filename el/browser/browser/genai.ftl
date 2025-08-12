@@ -89,8 +89,6 @@ genai-shortcuts-selected-warning =
         }
 genai-shortcuts-hide =
     .label = Απόκρυψη συντόμευσης chatbot
-genai-menu-no-provider =
-    .label = Ερώτηση σε chatbot ΤΝ
 genai-menu-choose-chatbot =
     .label = Επιλέξτε ένα chatbot ΤΝ
 genai-menu-ask-generic-2 =

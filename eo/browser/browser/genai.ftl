@@ -89,8 +89,6 @@ genai-shortcuts-selected-warning =
         }
 genai-shortcuts-hide =
     .label = Kaŝi ŝparvojon al dialoganto
-genai-menu-no-provider =
-    .label = Demandi al dialoganto A.I.
 genai-menu-choose-chatbot =
     .label = Elekti dialoganton A.I.
 genai-menu-ask-generic-2 =

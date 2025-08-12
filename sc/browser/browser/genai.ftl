@@ -91,8 +91,6 @@ genai-shortcuts-selected-warning =
         }
 genai-shortcuts-hide =
     .label = Curtzadòrgiu pro cuare su chatbot
-genai-menu-no-provider =
-    .label = Pregunta a unu chatbot IA
 genai-menu-choose-chatbot =
     .label = Sèbera unu chatbot IA
 

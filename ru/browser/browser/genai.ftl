@@ -93,8 +93,6 @@ genai-shortcuts-selected-warning =
         }
 genai-shortcuts-hide =
     .label = Скрыть ярлык чат-бота
-genai-menu-no-provider =
-    .label = Спросить ИИ-чат-бота
 genai-menu-choose-chatbot =
     .label = Выберите ИИ-чат-бот
 genai-menu-ask-generic-2 =

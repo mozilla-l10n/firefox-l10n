@@ -89,8 +89,6 @@ genai-shortcuts-selected-warning =
         }
 genai-shortcuts-hide =
     .label = Piilota chatbotin oikotie
-genai-menu-no-provider =
-    .label = Kysy AI-chatbotilta
 genai-menu-choose-chatbot =
     .label = Valitse chatbotti
 genai-menu-ask-generic-2 =

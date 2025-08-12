@@ -91,8 +91,6 @@ genai-shortcuts-selected-warning =
         }
 genai-shortcuts-hide =
     .label = Sohbet botu kısayolunu gizle
-genai-menu-no-provider =
-    .label = Yapay zekâ sohbet botuna sor
 genai-menu-choose-chatbot =
     .label = Yapay zekâ sohbet botunuzu seçin
 genai-menu-ask-generic-2 =

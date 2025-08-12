@@ -91,8 +91,6 @@ genai-shortcuts-selected-warning =
         }
 genai-shortcuts-hide =
     .label = Chatbot-Verknüpfung ausblenden
-genai-menu-no-provider =
-    .label = Fragen Sie einen KI-Chatbot
 genai-menu-choose-chatbot =
     .label = Wählen Sie einen KI-Chatbot
 genai-menu-ask-generic-2 =

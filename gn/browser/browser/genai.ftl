@@ -90,8 +90,6 @@ genai-shortcuts-selected-warning =
         }
 genai-shortcuts-hide =
     .label = Eñomi jeike pya’eha chatbot-pe
-genai-menu-no-provider =
-    .label = Eporandu chatbot IA reheguápe
 genai-menu-choose-chatbot =
     .label = Eiporavo IA Chatbot
 genai-menu-ask-generic-2 =

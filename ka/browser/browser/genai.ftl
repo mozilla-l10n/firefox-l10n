@@ -91,8 +91,6 @@ genai-shortcuts-selected-warning =
         }
 genai-shortcuts-hide =
     .label = თანამოსაუბრის მალსახმობის დამალვა
-genai-menu-no-provider =
-    .label = ჰკითხეთ AI-თანამოსაუბრეს
 genai-menu-choose-chatbot =
     .label = AI-თანამოსაუბრის არჩევა
 genai-menu-ask-generic-2 =

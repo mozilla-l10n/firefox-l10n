@@ -93,8 +93,6 @@ genai-shortcuts-selected-warning =
         }
 genai-shortcuts-hide =
     .label = Sakrij prečicu za chatbot
-genai-menu-no-provider =
-    .label = Pitajte AI chatbota
 genai-menu-choose-chatbot =
     .label = Odaberite AI chatbota
 

@@ -89,8 +89,6 @@ genai-shortcuts-selected-warning =
         }
 genai-shortcuts-hide =
     .label = Chatbot-snelkoppeling verbergen
-genai-menu-no-provider =
-    .label = Een AI-chatbot vragen
 genai-menu-choose-chatbot =
     .label = Kies een AI-chatbot
 genai-menu-ask-generic-2 =

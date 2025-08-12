@@ -89,8 +89,6 @@ genai-shortcuts-selected-warning =
         }
 genai-shortcuts-hide =
     .label = Dölj chatbot-genväg
-genai-menu-no-provider =
-    .label = Fråga en AI Chatbot
 genai-menu-choose-chatbot =
     .label = Välj en AI Chatbot
 genai-menu-ask-generic-2 =

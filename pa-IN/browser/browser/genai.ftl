@@ -89,8 +89,6 @@ genai-shortcuts-selected-warning =
         }
 genai-shortcuts-hide =
     .label = ਚੈਟਬੋਟ ਸ਼ਾਰਟਕੱਟ ਨੂੰ ਓਹਲੇ ਕਰੋ
-genai-menu-no-provider =
-    .label = AI ਚੈਟ-ਬੋਟ ਨੂੰ ਪੁੱਛੋ
 genai-menu-choose-chatbot =
     .label = ਕਿਸੇ AI ਚੈਟ-ਬੋਟ ਨੂੰ ਚੁਣੋ
 genai-menu-ask-generic-2 =

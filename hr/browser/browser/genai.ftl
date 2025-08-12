@@ -93,8 +93,6 @@ genai-shortcuts-selected-warning =
         }
 genai-shortcuts-hide =
     .label = Sakrij prečac chatbota
-genai-menu-no-provider =
-    .label = Pitaj UI chatbot
 genai-menu-choose-chatbot =
     .label = Odaberi UI chatbot
 

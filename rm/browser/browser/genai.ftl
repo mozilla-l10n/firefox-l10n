@@ -89,8 +89,6 @@ genai-shortcuts-selected-warning =
         }
 genai-shortcuts-hide =
     .label = Zuppentar las scursanidas a chatbots
-genai-menu-no-provider =
-    .label = Dumandar in chatbot IA
 genai-menu-choose-chatbot =
     .label = Tscherna in chatbot IA
 

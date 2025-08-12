@@ -91,8 +91,6 @@ genai-shortcuts-selected-warning =
         }
 genai-shortcuts-hide =
     .label = Skjul genvej til chatbot
-genai-menu-no-provider =
-    .label = Spørg en AI-chatbot
 genai-menu-choose-chatbot =
     .label = Vælg en AI-chatbot
 genai-menu-ask-generic-2 =

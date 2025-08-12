@@ -89,8 +89,6 @@ genai-shortcuts-selected-warning =
         }
 genai-shortcuts-hide =
     .label = Пинҳон кардани миёнбури чат-бот
-genai-menu-no-provider =
-    .label = Аз чат-боти зеҳни сунъӣ «AI» пурсед
 genai-menu-choose-chatbot =
     .label = Интихоби чат-боти зеҳни сунъӣ «AI»
 genai-menu-ask-generic-2 =

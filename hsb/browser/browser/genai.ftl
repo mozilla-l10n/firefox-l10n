@@ -95,8 +95,6 @@ genai-shortcuts-selected-warning =
         }
 genai-shortcuts-hide =
     .label = Tastowu skrótšenku chatoweho bota schować
-genai-menu-no-provider =
-    .label = KI chatbot so prašeć
 genai-menu-choose-chatbot =
     .label = Wubjerće chatbot KI
 genai-menu-ask-generic-2 =

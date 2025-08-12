@@ -91,8 +91,6 @@ genai-shortcuts-selected-warning =
         }
 genai-shortcuts-hide =
     .label = Ocultar el acceso directo del chatbot
-genai-menu-no-provider =
-    .label = Preguntar a un chatbot de IA
 genai-menu-choose-chatbot =
     .label = Elige un chatbot de IA
 genai-menu-ask-generic-2 =

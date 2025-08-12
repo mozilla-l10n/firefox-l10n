@@ -91,8 +91,6 @@ genai-shortcuts-selected-warning =
         }
 genai-shortcuts-hide =
     .label = Celar via breve pro chatbot
-genai-menu-no-provider =
-    .label = Demanda a un chatbot IA
 genai-menu-choose-chatbot =
     .label = Elige un chatbot IA
 genai-menu-ask-generic-2 =

@@ -89,8 +89,6 @@ genai-shortcuts-selected-warning =
         }
 genai-shortcuts-hide =
     .label = Chatbot-fluchkeppeling ferstopje
-genai-menu-no-provider =
-    .label = In AI-chatbot freegje
 genai-menu-choose-chatbot =
     .label = Kies in AI-chatbot
 genai-menu-ask-generic-2 =
