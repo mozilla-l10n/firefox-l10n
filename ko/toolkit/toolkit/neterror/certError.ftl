@@ -164,6 +164,7 @@ redirectLoop-title = 페이지가 제대로 리디렉션되지 않음
 unknownSocketType-title = 서버에서 예기치 않은 응답
 nssFailure2-title = 보안 연결 실패
 csp-xfo-error-title = { -brand-short-name }가 이 페이지를 열 수 없음
+corruptedContentErrorv2-title = 손상된 콘텐츠 오류
 corruptedContentError-title = 손상된 콘텐츠 오류
 sslv3Used-title = 보안 연결을 할 수 없음
 inadequateSecurityError-title = 연결이 안전하지 않음

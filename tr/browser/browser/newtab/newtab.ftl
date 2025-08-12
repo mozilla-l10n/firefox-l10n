@@ -328,6 +328,15 @@ newtab-custom-weather-toggle =
 newtab-custom-trending-search-toggle =
     .label = Gündemdeki aramalar
     .description = Popüler ve sıkça aranan konular
+newtab-custom-widget-weather-toggle =
+    .label = Hava durumu
+newtab-custom-widget-trending-search-toggle =
+    .label = Gündemdeki aramalar
+newtab-custom-widget-lists-toggle =
+    .label = Listeler
+newtab-custom-widget-timer-toggle =
+    .label = Zamanlayıcı
+newtab-custom-widget-section-title = Widget’lar
 newtab-custom-close-button = Kapat
 newtab-custom-settings = Diğer ayarları yönet
 
@@ -600,3 +609,23 @@ newtab-trending-searches-learn-more = Daha fazla bilgi al
 newtab-trending-searches-dismiss = Arama trendlerini gizle
 # "Trending searches refers to popular searches from search engines
 newtab-trending-searches-title = Gündemdeki aramalar
+
+## Strings for task / to-do list productivity widget
+
+newtab-widget-lists-default-list-title = Görev listesi
+# The placeholder value of the name field for a newly created list
+newtab-widget-lists-default-list-new = Yeni liste
+newtab-widget-lists-new-label = Yeni
+# When tasks have been previous marked as complete, they will appear in their own separate list beneath incomplete items
+# Variables:
+#   $number (number) - Amount of list items marked complete
+newtab-widget-lists-completed-list = Tamamlandı ({ $number })
+newtab-widget-task-list-menu-copy = Kopyala
+newtab-widget-lists-menu-edit = Liste adını düzenle
+newtab-widget-lists-menu-create = Yeni liste oluştur
+newtab-widget-lists-menu-delete = Bu listeyi sil
+newtab-widget-lists-menu-copy = Listeyi panoya kopyala
+newtab-widget-lists-menu-hide = Tüm listeleri gizle
+newtab-widget-lists-input-menu-open-link = Bağlantıyı aç
+newtab-widget-lists-input-menu-move-up = Yukarı taşı
+newtab-widget-lists-input-menu-move-down = Aşağı taşı

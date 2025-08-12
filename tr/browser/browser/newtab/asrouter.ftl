@@ -316,6 +316,7 @@ fxa-menu-message-close-button =
     .title = Kapat
     .aria-label = Kapat
 fxa-menu-message-sign-up-button = Kaydol
+fxa-menu-message-sign-in-button = Giriş yap
 fxa-menu-message-sync-devices-primary-text = Tüm cihazlarınızı eşitleyin
 fxa-menu-message-sync-devices-secondary-text = Yer imlerinizi, parolalarınızı ve diğer bilgilerinizi { -brand-short-name } kullandığınız her yere götürün.
 fxa-menu-message-sync-devices-collapsed-text = Tüm cihazlarınızı eşitleyin
