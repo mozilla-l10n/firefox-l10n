@@ -140,8 +140,8 @@ tab-context-send-tabs-to-device =
 tab-context-unload-n-tabs =
     .label =
         { $tabCount ->
-            [1] Descarcă fila
-            [one] Descarcă { $tabCount } fila
+            [1] Descarcă fila din memorie
+            [one] Descarcă { $tabCount } filă
             [few] Descarcă { $tabCount } file
            *[other] Descarcă { $tabCount } de file
         }

@@ -11,7 +11,7 @@ about-processes-column-action =
 ## Tooltips
 
 about-processes-shutdown-process =
-    .title = Descarcă filele și închide procesul
+    .title = Descarcă filele din memorie și închide procesul
 about-processes-kill-process =
     .title = Oprește procesul
 about-processes-shutdown-tab =

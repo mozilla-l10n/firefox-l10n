@@ -6,7 +6,7 @@
 ### Strings used in about:unloads, allowing users to manage the "tab unloading"
 ### feature.
 
-about-unloads-page-title = Descărcare file
+about-unloads-page-title = Descărcare file din memorie
 about-unloads-intro =
     { -brand-short-name } are o funcție care descarcă automat filele din memorie
     pentru a preveni închiderea neașteptată a aplicației din cauză de memorie insuficientă
@@ -18,12 +18,12 @@ about-unloads-intro =
 # The link points to a Firefox documentation page, only available in English,
 # with title "Tab Unloading"
 about-unloads-learn-more =
-    Vezi <a data-l10n-name="doc-link">Descărcarea filelor</a> ca să afli mai multe despre
+    Vezi <a data-l10n-name="doc-link">Descărcarea filelor din memorie</a> ca să afli mai multe despre
     funcționalitate și această pagină.
 about-unloads-last-updated = Ultima actualizare: { DATETIME($date, year: "numeric", month: "numeric", day: "numeric", hour: "numeric", minute: "numeric", second: "numeric", hour12: "false") }
-about-unloads-button-unload = Descarcă
+about-unloads-button-unload = Descarcă din memorie
     .title = Descarcă fila cu cea mai mare prioritate
-about-unloads-no-unloadable-tab = Nu există file de descărcat.
+about-unloads-no-unloadable-tab = Nu există file de descărcat din memorie.
 about-unloads-column-priority = Prioritate
 about-unloads-column-host = Gazdă
 about-unloads-column-last-accessed = Ultima accesare

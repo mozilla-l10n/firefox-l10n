@@ -337,6 +337,8 @@ newtab-custom-widget-trending-search-toggle =
     .label = Populære søk
 newtab-custom-widget-lists-toggle =
     .label = Lister
+newtab-custom-widget-timer-toggle =
+    .label = Nedtelling
 newtab-custom-widget-section-title = Widgeter
 newtab-custom-close-button = Lukk
 newtab-custom-settings = Behandle flere innstillinger
@@ -641,6 +643,7 @@ newtab-widget-lists-input-menu-edit = Rediger
 ## Strings for timer productivity widget
 ## When the timer ends, a system notification may be shown. Depending on which mode the timer is in, that message would be shown
 
+newtab-widget-timer-notification-title = Nedtelling
 newtab-widget-timer-notification-focus = Fokustiden er over. Bra jobbet. Trenger du en pause?
 newtab-widget-timer-notification-break = Pausen din er over. Klar til å fokusere?
 newtab-widget-timer-notification-warning = Varsler er av
@@ -656,6 +659,7 @@ newtab-widget-timer-reset =
     .title = Tilbakestill
 newtab-widget-timer-menu-notifications = Slå av varsler
 newtab-widget-timer-menu-notifications-on = Slå på varsler
+newtab-widget-timer-menu-hide = Skjul nedteller
 newtab-widget-timer-menu-learn-more = Les mer
 newtab-promo-card-title = Støtt { -brand-product-name }
 newtab-promo-card-body = Våre sponsorer støtter vårt oppdrag om å bygge et bedre internett
