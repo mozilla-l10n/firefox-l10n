@@ -118,22 +118,106 @@ briefcase-avatar-alt =
 # Canvas refers to an artist's painting canvas, not the general material
 canvas-avatar-alt =
     .alt = Platno
+# Craft refers to hobby arts and crafts, represented by a button/fastener commonly found on clothing like shirts
+craft-avatar-alt =
+    .alt = Zanat
 flower-avatar-alt =
     .alt = Cvijet
+folder-avatar-alt =
+    .alt = Direktorij
+hammer-avatar-alt =
+    .alt = Čekić
 heart-avatar-alt =
     .alt = Srce
+heart-rate-avatar-alt =
+    .alt = Puls
+history-avatar-alt =
+    .alt = Historija
+leaf-avatar-alt =
+    .alt = List
+lightbulb-avatar-alt =
+    .alt = Sijalica
+makeup-avatar-alt =
+    .alt = Šminka
+# Message refers to a text message, not a traditional letter/envelope message
+message-avatar-alt =
+    .alt = Poruka
+musical-note-avatar-alt =
+    .alt = Muzička nota
+palette-avatar-alt =
+    .alt = Paleta
+paw-print-avatar-alt =
+    .alt = Otisak šape
+plane-avatar-alt =
+    .alt = Avion
+# Present refers to a gift box, not the current time period
+present-avatar-alt =
+    .alt = Sadašnjost
 shopping-avatar-alt =
     .alt = Kolica za kupovinu
+soccer-avatar-alt =
+    .alt = Nogomet
+sparkle-single-avatar-alt =
+    .alt = Sjaj
 star-avatar-alt =
     .alt = Zvjezdica
+video-game-controller-avatar-alt =
+    .alt = Kontroler za videoigre
 custom-avatar-alt =
     .alt = Prilagođeni avatar
+# Default favicon refers to the generic globe/world icon that appears in browser tabs when a website doesn't have its own favicon.
+default-favicon-avatar-alt =
+    .alt = Zadana favikona
+# Diamond refers to the precious stone, not the geometric shape
+diamond-avatar-alt =
+    .alt = Dijamant
+barbell-avatar-alt =
+    .alt = Šipka
+bike-avatar-alt =
+    .alt = Bicikl
 
 ## Labels for default avatar icons
 
 book-avatar = Knjiga
 briefcase-avatar = Aktovka
+# Canvas refers to an artist's painting canvas, not the general material
+canvas-avatar = Platno
+# Craft refers to hobby arts and crafts, represented by a button/fastener commonly found on clothing like shirts
+craft-avatar = Zanat
+custom-avatar = Prilagođeni avatar
+# Default favicon refers to the generic globe/world icon that appears in browser tabs when a website doesn't have its own favicon.
+default-favicon-avatar = Zadana favikona
+# Diamond refers to the precious stone, not the geometric shape
+diamond-avatar = Dijamant
 flower-avatar = Cvijet
+folder-avatar = Direktorij
+hammer-avatar = Čekić
 heart-avatar = Srce
+heart-rate-avatar = Puls
+history-avatar = Historija
+leaf-avatar = List
+lightbulb-avatar = Sijalica
+makeup-avatar = Šminka
+# Message refers to a text message, not a traditional letter/envelope message
+message-avatar = Poruka
+musical-note-avatar = Muzička nota
+palette-avatar = Paleta
+paw-print-avatar = Otisak šape
+plane-avatar = Avion
+# Present refers to a gift box, not the current time period
+present-avatar = Sadašnjost
 shopping-avatar = Kolica za kupovinu
+soccer-avatar = Nogomet
+sparkle-single-avatar = Sjaj
 star-avatar = Zvjezdica
+video-game-controller-avatar = Kontroler za videoigre
+custom-avatar-crop-back-button =
+    .aria-label = Nazad
+custom-avatar-crop-view =
+    .aria-label = Prikaz izrezivanja slike
+custom-avatar-crop-area =
+    .aria-label = Prilagodite područje izrezivanja
+custom-avatar-drag-handle =
+    .aria-label = Promjena veličine područja izrezivanja
+barbell-avatar = Šipka
+bike-avatar = Bicikl
