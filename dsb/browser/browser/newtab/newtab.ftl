@@ -338,6 +338,11 @@ newtab-custom-widget-weather-toggle =
     .label = Wjedro
 newtab-custom-widget-trending-search-toggle =
     .label = Woblubowane pytanja
+newtab-custom-widget-lists-toggle =
+    .label = Lisćiny
+newtab-custom-widget-timer-toggle =
+    .label = Měritko casa
+newtab-custom-widget-section-title = Asistenty
 newtab-custom-close-button = Zacyniś
 newtab-custom-settings = Dalšne nastajenja zastojaś
 
@@ -610,3 +615,51 @@ newtab-trending-searches-learn-more = Dalšne informacije
 newtab-trending-searches-dismiss = Woblubowane pytanja schowaś
 # "Trending searches refers to popular searches from search engines
 newtab-trending-searches-title = Woblubowane pytanja
+
+## Strings for task / to-do list productivity widget
+
+newtab-widget-lists-default-list-title = Lisćiny nadawkow
+# The placeholder value of the name field for a newly created list
+newtab-widget-lists-default-list-new = Nowa lisćina
+# "Add one" means adding a new task to the list (e.g., "Walk the dog")
+newtab-widget-lists-empty-cta = Móžnosći su njelicne. Pśidajśo jaden nadawk.
+newtab-widget-lists-new-label = Nowy
+# When tasks have been previous marked as complete, they will appear in their own separate list beneath incomplete items
+# Variables:
+#   $number (number) - Amount of list items marked complete
+newtab-widget-lists-completed-list = Dokóńcony ({ $number })
+newtab-widget-task-list-menu-copy = Kopěrowaś
+newtab-widget-lists-menu-edit = Mě lisćiny wobźěłaś
+newtab-widget-lists-menu-create = Nowu lisćinu napóraś
+newtab-widget-lists-menu-delete = Toś tu lisćinu lašowaś
+newtab-widget-lists-menu-copy = Lisćinu do mjazywótkłada kopěrowaś
+newtab-widget-lists-menu-hide = Wšykne lisćiny schowaś
+newtab-widget-lists-menu-learn-more = Dalšne informacije
+newtab-widget-lists-input-placeholder = Zapisk pśidaś
+newtab-widget-lists-input-error = Pšosym zapśimujśo tekst, aby zapisk pśidał.
+newtab-widget-lists-input-menu-open-link = Wótkaz wócyniś
+newtab-widget-lists-input-menu-move-up = Górjej
+newtab-widget-lists-input-menu-move-down = Dołoj
+newtab-widget-lists-input-menu-delete = Lašowaś
+newtab-widget-lists-input-menu-edit = Wobźěłaś
+
+## Strings for timer productivity widget
+## When the timer ends, a system notification may be shown. Depending on which mode the timer is in, that message would be shown
+
+newtab-widget-timer-notification-title = Měritko casa
+newtab-widget-timer-notification-focus = Fokusowy cas jo mimo. Wjelicne źěło. Trjebaśo pśestank?
+newtab-widget-timer-notification-break = Waš pśestank jo mimo. Gótowy za fokus?
+newtab-widget-timer-notification-warning = Zdźělenja su znjemóžnjone
+newtab-widget-timer-mode-focus =
+    .label = Fokus
+newtab-widget-timer-mode-break =
+    .label = Pawza
+newtab-widget-timer-play =
+    .title = Wótgraś
+newtab-widget-timer-pause =
+    .title = Pawza
+newtab-widget-timer-reset =
+    .title = Slědk stajiś
+newtab-widget-timer-menu-notifications = Zdźělenja znjemóžniś
+newtab-widget-timer-menu-notifications-on = Zdźělenja zmóžniś
+newtab-widget-timer-menu-hide = Měritko casa schowaś
