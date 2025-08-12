@@ -1380,7 +1380,7 @@ trustpanel-connection-label-insecure = Verbindung nicht sicher
 trustpanel-header-enabled = { -brand-product-name } ist wachsam
 trustpanel-description-enabled = Sie sind geschützt. Wenn wir etwas entdecken, sagen wir es Ihnen
 trustpanel-header-disabled = Sie haben die Schutzmaßnahmen deaktiviert
-trustpanel-description-disabled = { -brand-product-name } ist deaktiviert. Wir empfehlen Ihnen, den Schutz wieder zu aktivieren.
+trustpanel-description-disabled = { -brand-product-name } ist nicht im Dienst. Wir empfehlen Ihnen, den Schutz wieder zu aktivieren.
 trustpanel-clear-cookies-button = Cookies und Website-Daten löschen
 trustpanel-privacy-link = Datenschutzeinstellungen
 # Variables
