@@ -331,6 +331,15 @@ newtab-custom-weather-toggle =
 newtab-custom-trending-search-toggle =
     .label = Populære søk
     .description = Populære og ofte søkte emne
+newtab-custom-widget-weather-toggle =
+    .label = Vêr
+newtab-custom-widget-trending-search-toggle =
+    .label = Populære søk
+newtab-custom-widget-lists-toggle =
+    .label = Lister
+newtab-custom-widget-timer-toggle =
+    .label = Nedtelling
+newtab-custom-widget-section-title = Widgetar
 newtab-custom-close-button = Lat att
 newtab-custom-settings = Handsam fleire innstillingar
 
@@ -603,3 +612,22 @@ newtab-trending-searches-learn-more = Les meir
 newtab-trending-searches-dismiss = Skjul populære søk
 # "Trending searches refers to popular searches from search engines
 newtab-trending-searches-title = Populære søk
+
+## Strings for task / to-do list productivity widget
+
+newtab-widget-lists-default-list-title = Oppgåveliste
+# The placeholder value of the name field for a newly created list
+newtab-widget-lists-default-list-new = Ny liste
+newtab-widget-lists-new-label = Ny
+# When tasks have been previous marked as complete, they will appear in their own separate list beneath incomplete items
+# Variables:
+#   $number (number) - Amount of list items marked complete
+newtab-widget-lists-completed-list = Fullført ({ $number })
+newtab-widget-task-list-menu-copy = Kopier
+newtab-widget-lists-menu-edit = Rediger listenamn
+newtab-widget-lists-menu-create = Opprett ei ny liste
+newtab-widget-lists-menu-delete = Slett denne lista
+newtab-widget-lists-menu-copy = Kopier liste til utklippstavla
+newtab-widget-lists-menu-hide = Skjul alle lister
+newtab-widget-lists-menu-learn-more = Les meir
+newtab-widget-lists-input-placeholder = Legg til eit element

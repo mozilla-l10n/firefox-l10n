@@ -315,6 +315,7 @@ fxa-menu-message-close-button =
     .title = Lat att
     .aria-label = Lat att
 fxa-menu-message-sign-up-button = Registrer deg
+fxa-menu-message-sign-in-button = Logg inn
 fxa-menu-message-sync-devices-primary-text = Synkroniser alle einingane dine
 fxa-menu-message-sync-devices-secondary-text = Få informasjonen din omgåande — som bokmerke og passord — overalt der du brukar { -brand-short-name }.
 fxa-menu-message-sync-devices-collapsed-text = Synkroniser alle einingane dine
