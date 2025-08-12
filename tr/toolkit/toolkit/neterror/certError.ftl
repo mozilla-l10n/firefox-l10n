@@ -164,6 +164,7 @@ redirectLoop-title = Sayfa doğru bir şekilde yönlendirilmiyor
 unknownSocketType-title = Sunucudan beklenmeyen yanıt
 nssFailure2-title = Güvenli bağlantı kurulamadı
 csp-xfo-error-title = { -brand-short-name } bu sayfayı açamıyor
+corruptedContentErrorv2-title = Hasarlı İçerik Hatası
 corruptedContentError-title = Hasarlı içerik hatası
 sslv3Used-title = Güvenli bağlantı kurulamadı
 inadequateSecurityError-title = Bağlantınız güvenli değil

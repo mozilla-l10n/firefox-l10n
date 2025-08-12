@@ -615,6 +615,8 @@ newtab-trending-searches-title = Gündemdeki aramalar
 newtab-widget-lists-default-list-title = Görev listesi
 # The placeholder value of the name field for a newly created list
 newtab-widget-lists-default-list-new = Yeni liste
+# "Add one" means adding a new task to the list (e.g., "Walk the dog")
+newtab-widget-lists-empty-cta = Olasılıklar sonsuz. Bir görev ekleyin.
 newtab-widget-lists-new-label = Yeni
 # When tasks have been previous marked as complete, they will appear in their own separate list beneath incomplete items
 # Variables:
@@ -626,6 +628,33 @@ newtab-widget-lists-menu-create = Yeni liste oluştur
 newtab-widget-lists-menu-delete = Bu listeyi sil
 newtab-widget-lists-menu-copy = Listeyi panoya kopyala
 newtab-widget-lists-menu-hide = Tüm listeleri gizle
+newtab-widget-lists-menu-learn-more = Daha fazla bilgi alın
 newtab-widget-lists-input-menu-open-link = Bağlantıyı aç
 newtab-widget-lists-input-menu-move-up = Yukarı taşı
 newtab-widget-lists-input-menu-move-down = Aşağı taşı
+newtab-widget-lists-input-menu-delete = Sil
+newtab-widget-lists-input-menu-edit = Düzenle
+
+## Strings for timer productivity widget
+## When the timer ends, a system notification may be shown. Depending on which mode the timer is in, that message would be shown
+
+newtab-widget-timer-notification-title = Zamanlayıcı
+newtab-widget-timer-notification-break = Molanız bitti. Odaklanmaya hazır mısınız?
+newtab-widget-timer-notification-warning = Bildirimler kapalı
+newtab-widget-timer-mode-focus =
+    .label = Odaklan
+newtab-widget-timer-mode-break =
+    .label = Mola ver
+newtab-widget-timer-play =
+    .title = Başlat
+newtab-widget-timer-pause =
+    .title = Duraklat
+newtab-widget-timer-reset =
+    .title = Sıfırla
+newtab-widget-timer-menu-notifications = Bildirimleri kapat
+newtab-widget-timer-menu-notifications-on = Bildirimleri aç
+newtab-widget-timer-menu-hide = Zamanlayıcıyı gizle
+newtab-widget-timer-menu-learn-more = Daha fazla bilgi alın
+newtab-promo-card-title = { -brand-product-name } tarayıcısını destekleyin
+newtab-promo-card-body = Sponsorlarımız daha iyi bir web inşa etme misyonumuzu destekliyor
+newtab-promo-card-cta = Daha fazla bilgi alın
