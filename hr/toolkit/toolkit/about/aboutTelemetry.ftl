@@ -35,6 +35,7 @@ about-telemetry-simple-measurements-section = Jednostavna mjerenja
 about-telemetry-slow-sql-section = Spore SQL izjave
 about-telemetry-addon-details-section = Detalji dodatka
 about-telemetry-late-writes-section = Zakašnjela zapisivanja
+about-telemetry-raw-payload-section = Sirovi korisni teret
 about-telemetry-raw = Neobrađeni JSON
 about-telemetry-full-sql-warning = NAPOMENA: Detaljno praćenje sporih SQL upita je uključeno. Potpuni SQL upiti mogu biti prikazani ispod, međutim oni se neće poslati telemetriji.
 about-telemetry-fetch-stack-symbols = Prikupi imena funkcija za stogove
