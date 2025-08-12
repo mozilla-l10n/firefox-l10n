@@ -332,6 +332,15 @@ newtab-custom-weather-toggle =
 newtab-custom-trending-search-toggle =
     .label = Trendiga sökningar
     .description = Populära och ofta sökta ämnen
+newtab-custom-widget-weather-toggle =
+    .label = Väder
+newtab-custom-widget-trending-search-toggle =
+    .label = Trendiga sökningar
+newtab-custom-widget-lists-toggle =
+    .label = Listor
+newtab-custom-widget-timer-toggle =
+    .label = Timer
+newtab-custom-widget-section-title = Widgetar
 newtab-custom-close-button = Stäng
 newtab-custom-settings = Hantera fler inställningar
 
@@ -604,3 +613,55 @@ newtab-trending-searches-learn-more = Läs mer
 newtab-trending-searches-dismiss = Dölj trendiga sökningar
 # "Trending searches refers to popular searches from search engines
 newtab-trending-searches-title = Populära sökningar
+
+## Strings for task / to-do list productivity widget
+
+newtab-widget-lists-default-list-title = Uppgiftslista
+# The placeholder value of the name field for a newly created list
+newtab-widget-lists-default-list-new = Ny lista
+# "Add one" means adding a new task to the list (e.g., "Walk the dog")
+newtab-widget-lists-empty-cta = Möjligheterna är oändliga. Lägg till en.
+newtab-widget-lists-new-label = Ny
+# When tasks have been previous marked as complete, they will appear in their own separate list beneath incomplete items
+# Variables:
+#   $number (number) - Amount of list items marked complete
+newtab-widget-lists-completed-list = Slutförd ({ $number })
+newtab-widget-task-list-menu-copy = Kopiera
+newtab-widget-lists-menu-edit = Redigera listnamnet
+newtab-widget-lists-menu-create = Skapa en ny lista
+newtab-widget-lists-menu-delete = Ta bort denna lista
+newtab-widget-lists-menu-copy = Kopiera lista till urklipp
+newtab-widget-lists-menu-hide = Dölj alla listor
+newtab-widget-lists-menu-learn-more = Läs mer
+newtab-widget-lists-input-placeholder = Lägg till ett objekt
+newtab-widget-lists-input-error = Inkludera text för att lägga till ett objekt.
+newtab-widget-lists-input-menu-open-link = Öppna länk
+newtab-widget-lists-input-menu-move-up = Flytta upp
+newtab-widget-lists-input-menu-move-down = Flytta ned
+newtab-widget-lists-input-menu-delete = Ta bort
+newtab-widget-lists-input-menu-edit = Redigera
+
+## Strings for timer productivity widget
+## When the timer ends, a system notification may be shown. Depending on which mode the timer is in, that message would be shown
+
+newtab-widget-timer-notification-title = Timer
+newtab-widget-timer-notification-focus = Fokustiden är ute. Bra jobbat. Behöver du en paus?
+newtab-widget-timer-notification-break = Din paus är över. Redo att fokusera?
+newtab-widget-timer-notification-warning = Aviseringar är avstängda
+newtab-widget-timer-mode-focus =
+    .label = Focus
+newtab-widget-timer-mode-break =
+    .label = Paus
+newtab-widget-timer-play =
+    .title = Spela
+newtab-widget-timer-pause =
+    .title = Pausa
+newtab-widget-timer-reset =
+    .title = Återställ
+newtab-widget-timer-menu-notifications = Stäng av notiser
+newtab-widget-timer-menu-notifications-on = Slå på aviseringar
+newtab-widget-timer-menu-hide = Dölj timer
+newtab-widget-timer-menu-learn-more = Läs mer
+newtab-promo-card-title = Stöd { -brand-product-name }
+newtab-promo-card-body = Våra sponsorer stöder vårt uppdrag att bygga en bättre webb
+newtab-promo-card-cta = Läs mer

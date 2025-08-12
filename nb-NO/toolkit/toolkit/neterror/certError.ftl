@@ -164,6 +164,7 @@ redirectLoop-title = Nettsiden videresender ikke ordentlig
 unknownSocketType-title = Uventet svar fra server
 nssFailure2-title = Sikker tilkobling mislyktes
 csp-xfo-error-title = { -brand-short-name } kan ikke åpne denne siden
+corruptedContentErrorv2-title = Ødelagt innhold
 corruptedContentError-title = Ødelagt innhold
 sslv3Used-title = Klarte ikke å koble til sikkert
 inadequateSecurityError-title = Tilkoblingen din er ikke sikker
