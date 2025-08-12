@@ -27,7 +27,7 @@ state-dd-enabled = <span data-l10n-name="state">Вазъият:</span> Фаъо�
 state-dd-enabled-block-list-state = <span data-l10n-name="state">Вазъият:</span> Фаъол аст ({ $blockListState })
 state-dd-Disabled = <span data-l10n-name="state">Вазъият:</span> Ғайрифаъол аст
 state-dd-Disabled-block-list-state = <span data-l10n-name="state">Вазъият:</span> Ғайрифаъол аст ({ $blockListState })
-mime-type-label = Намуди MIME
+mime-type-label = Намуди «MIME»
 description-label = Тавсиф
 suffixes-label = Пасвандҳо
 

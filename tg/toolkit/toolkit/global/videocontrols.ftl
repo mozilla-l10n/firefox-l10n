@@ -41,8 +41,8 @@ videocontrols-picture-in-picture-explainer3 = Экранҳои сершумор 
 videocontrols-error-aborted = Боркунии видео қатъ карда шуд.
 videocontrols-error-network = Пахши видео ба сабаби хатои шабака қатъ карда шуд.
 videocontrols-error-decode = Видео пахш карда намешавад, зеро ки файл вайрон аст.
-videocontrols-error-src-not-supported = Формати видео ё навъи MIME дастгирӣ намешавад.
-videocontrols-error-no-source = Ягон видео бо формати дастгиришаванда ва навъи MIME ёфт нашуд.
+videocontrols-error-src-not-supported = Формати видео ё навъи «MIME» дастгирӣ намешавад.
+videocontrols-error-no-source = Ягон видео бо формати дастгиришаванда ва навъи «MIME» ёфт нашуд.
 videocontrols-error-generic = Пахши видео ба сабаби хатои номаълум қатъ карда шуд.
 videocontrols-status-picture-in-picture = Ин видео дар реҷаи «Расм-дар-расм» пахш шуда истодааст.
 # This message shows the current position and total video duration

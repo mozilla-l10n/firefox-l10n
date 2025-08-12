@@ -351,6 +351,7 @@ multi-cta-fox-doodle-msix-privacy-focused-subtitle = Браузери дӯстд
 ## Windows 10 EoS Sync messages group 1 spotlight
 
 windows-10-eos-sync-spotlight-title = Ба наздикӣ аз «Windows 10» ба версияи навтар мегузаред?
+windows-10-eos-sync-spotlight-primary-label = Барои «{ -brand-short-name }»-и худ нусхаи эҳтиётиро таҳия намоед
 
 ## Windows 10 EoS Sync messages group 1 toast notification
 
