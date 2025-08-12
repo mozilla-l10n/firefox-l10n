@@ -45,6 +45,8 @@ avatar-selector-save-button =
     .label = Cadw
 avatar-selector-upload-file = Llwytho ffeil i fyny
 avatar-selector-drag-file = Neu lusgo ffeil yma
+avatar-selector-add-image = Ychwanegu delwedd
+avatar-selector-crop = Tocio
 edit-profile-page-no-name = Rhowch enw i'r proffil hwn i'ch helpu i ddod o hyd iddo yn nes ymlaen. Gallwch ei ail-enwi ef unrhyw bryd.
 edit-profile-page-duplicate-name = Mae'r enw proffil eisoes yn cael ei ddefnyddio. Rhowch gynnig ar enw newydd.
 edit-profile-page-profile-saved = Wedi'i Gadw
@@ -114,23 +116,93 @@ book-avatar-alt =
     .alt = Llyfr
 briefcase-avatar-alt =
     .alt = Bag Dogfennau
+# Canvas refers to an artist's painting canvas, not the general material
+canvas-avatar-alt =
+    .alt = Cynfas
+# Craft refers to hobby arts and crafts, represented by a button/fastener commonly found on clothing like shirts
+craft-avatar-alt =
+    .alt = Crefft
 flower-avatar-alt =
     .alt = Blodyn
+folder-avatar-alt =
+    .alt = Ffolder
+hammer-avatar-alt =
+    .alt = Morthwyl
 heart-avatar-alt =
     .alt = Calon
+heart-rate-avatar-alt =
+    .alt = Cyfradd y galon
+history-avatar-alt =
+    .alt = Hanes
+leaf-avatar-alt =
+    .alt = Deilen
+lightbulb-avatar-alt =
+    .alt = Bwlb golau
+makeup-avatar-alt =
+    .alt = Colur
+# Message refers to a text message, not a traditional letter/envelope message
+message-avatar-alt =
+    .alt = Neges
+musical-note-avatar-alt =
+    .alt = Nodyn cerddorol
+palette-avatar-alt =
+    .alt = Palet
+paw-print-avatar-alt =
+    .alt = Ôl pawen
+plane-avatar-alt =
+    .alt = Awyren
+# Present refers to a gift box, not the current time period
+present-avatar-alt =
+    .alt = Anrheg
 shopping-avatar-alt =
     .alt = Cart siopa
+soccer-avatar-alt =
+    .alt = Pêl-droed
+sparkle-single-avatar-alt =
+    .alt = Pefriog
 star-avatar-alt =
     .alt = Seren
+video-game-controller-avatar-alt =
+    .alt = Rheolydd gêm fideo
 custom-avatar-alt =
     .alt = Afatar cyfaddas
+# Default favicon refers to the generic globe/world icon that appears in browser tabs when a website doesn't have its own favicon.
+default-favicon-avatar-alt =
+    .alt = Favicon rhagosodedig
+# Diamond refers to the precious stone, not the geometric shape
+diamond-avatar-alt =
+    .alt = Diemwnt
+barbell-avatar-alt =
+    .alt = Barbell
+bike-avatar-alt =
+    .alt = Beic
 
 ## Labels for default avatar icons
 
 book-avatar = Llyfr
 briefcase-avatar = Bag Dogfennau
+# Canvas refers to an artist's painting canvas, not the general material
+canvas-avatar = Cynfas
+# Craft refers to hobby arts and crafts, represented by a button/fastener commonly found on clothing like shirts
+craft-avatar = Crefft
+custom-avatar = Afatar cyfaddas
+# Default favicon refers to the generic globe/world icon that appears in browser tabs when a website doesn't have its own favicon.
+default-favicon-avatar = Favicon rhagosodedig
+# Diamond refers to the precious stone, not the geometric shape
+diamond-avatar = Diemwnt
 flower-avatar = Blodyn
+folder-avatar = Ffolder
+hammer-avatar = Morthwyl
 heart-avatar = Calon
+heart-rate-avatar = Cyfradd y galon
+history-avatar = Hanes
+leaf-avatar = Deilen
+lightbulb-avatar = Bwlb golau
+makeup-avatar = Colur
+# Message refers to a text message, not a traditional letter/envelope message
+message-avatar = Neges
+musical-note-avatar = Nodyn cerddorol
+palette-avatar = Palet
 paw-print-avatar = Ôl pawen
 plane-avatar = Awyren
 # Present refers to a gift box, not the current time period
