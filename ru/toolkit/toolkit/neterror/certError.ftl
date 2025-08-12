@@ -164,6 +164,7 @@ redirectLoop-title = Циклическое перенаправление на 
 unknownSocketType-title = Неизвестный/неопознанный ответ сервера
 nssFailure2-title = Ошибка при установлении защищённого соединения
 csp-xfo-error-title = { -brand-short-name } не может открыть эту страницу
+corruptedContentErrorv2-title = Ошибка искажения содержимого
 corruptedContentError-title = Ошибка искажения содержимого
 sslv3Used-title = Установка защищённого соединения не удалась
 inadequateSecurityError-title = Ваше соединение не защищено

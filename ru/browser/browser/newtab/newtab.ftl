@@ -635,3 +635,34 @@ newtab-widget-lists-menu-copy = Копировать список в буфер 
 newtab-widget-lists-menu-hide = Скрыть все списки
 newtab-widget-lists-menu-learn-more = Подробнее
 newtab-widget-lists-input-placeholder = Добавить элемент
+newtab-widget-lists-input-error = Пожалуйста, укажите текст, чтобы добавить элемент.
+newtab-widget-lists-input-menu-open-link = Открыть ссылку
+newtab-widget-lists-input-menu-move-up = Вверх
+newtab-widget-lists-input-menu-move-down = Вниз
+newtab-widget-lists-input-menu-delete = Удалить
+newtab-widget-lists-input-menu-edit = Изменить
+
+## Strings for timer productivity widget
+## When the timer ends, a system notification may be shown. Depending on which mode the timer is in, that message would be shown
+
+newtab-widget-timer-notification-title = Таймер
+newtab-widget-timer-notification-focus = Время фокусировки вышло. Отличная работа. Нужен перерыв?
+newtab-widget-timer-notification-break = Ваш перерыв закончен. Готовы сфокусироваться?
+newtab-widget-timer-notification-warning = Уведомления отключены
+newtab-widget-timer-mode-focus =
+    .label = Фокусировка
+newtab-widget-timer-mode-break =
+    .label = Перерыв
+newtab-widget-timer-play =
+    .title = Воспроизвести
+newtab-widget-timer-pause =
+    .title = Приостановить
+newtab-widget-timer-reset =
+    .title = Сбросить
+newtab-widget-timer-menu-notifications = Отключить уведомления
+newtab-widget-timer-menu-notifications-on = Включить уведомления
+newtab-widget-timer-menu-hide = Скрыть таймер
+newtab-widget-timer-menu-learn-more = Подробнее
+newtab-promo-card-title = Поддержите { -brand-product-name }
+newtab-promo-card-body = Наши спонсоры поддерживают нашу миссию по построению лучшего Интернета
+newtab-promo-card-cta = Подробнее
