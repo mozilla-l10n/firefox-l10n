@@ -809,6 +809,29 @@ urlbar-result-weather-title-city-only = <strong>{ $temperature }°{ $unit }</str
 #       name of a company, organization, or service.
 urlbar-result-weather-provider-sponsored = { $provider } · Sponzorisano
 
+## These strings are used for Realtime suggestions in the urlbar.
+## Market refers to stocks, indexes, and funds.
+
+# This string is shown as title when Market suggestion are disabled.
+urlbar-result-market-opt-in-title = Dobijte podatke o berzi direktno u vašoj tražilici
+# This string is shown as description when Market suggestion are disabled.
+urlbar-result-market-opt-in-description = Prikažite novosti s tržišta i više od naših partnera kada podijelite podatke o pretraživanju s { -vendor-short-name }. <a data-l10n-name="learn-more-link">Saznajte više</a>
+# This string is shown as button to activate online when realtime suggestion are disabled.
+urlbar-result-realtime-opt-in-allow = Prikaži prijedloge
+# This string is shown in split button to dismiss activation the Realtime suggestion.
+urlbar-result-realtime-opt-in-not-now = Ne sada
+urlbar-result-realtime-opt-in-dismiss = Odbaci
+urlbar-result-realtime-opt-in-dismiss-all =
+    .label = Ne prikazuj ove prijedloge
+# This string is shown in the result menu.
+urlbar-result-menu-dont-show-market =
+    .label = Ne prikazuj tržišne prijedloge
+# A message that replaces a result when the user dismisses Market suggestions.
+urlbar-result-dismissal-acknowledgment-market = Hvala na povratnim informacijama. Više nećete vidjeti prijedloge tržišta.
+# A message that replaces a result when the user dismisses all suggestions of a
+# particular type.
+urlbar-result-dismissal-acknowledgment-all = Hvala na povratnim informacijama. Više nećete vidjeti ove prijedloge.
+
 ## Strings used for buttons in the urlbar
 
 # Label prompting user to search with a particular search engine.
@@ -1422,3 +1445,28 @@ trustpanel-list-label-fingerprinter =
         [few] { $count } sakupljača digitalnih otisaka
        *[other] { $count } sakupljača digitalnih otisaka
     }
+trustpanel-list-label-social-tracking =
+    { $count ->
+        [one] { $count } program za praćenje na društvenim mrežama
+        [few] { $count } programa za praćenje na društvenim mrežama
+       *[other] { $count } programa za praćenje na društvenim mrežama
+    }
+trustpanel-list-label-cryptominer =
+    { $count ->
+        [one] { $count } rudar kriptovaluta
+        [few] { $count } rudara kriptovaluta
+       *[other] { $count } rudara kriptovaluta
+    }
+trustpanel-social-tracking-blocking-tab-header =
+    { $count ->
+        [one] { -brand-product-name } je blokirao { $count } program za praćenje na društvenim mrežama
+        [few] { -brand-product-name } je blokirao { $count } programa za praćenje na društvenim mrežama
+       *[other] { -brand-product-name } je blokirao { $count } programa za praćenje na društvenim mrežama
+    }
+trustpanel-social-tracking-not-blocking-tab-header =
+    { $count ->
+        [one] { -brand-product-name } je dozvolio { $count } program za praćenje na društvenim mrežama
+        [few] { -brand-product-name } je dozvolio { $count } programa za praćenje na društvenim mrežama
+       *[other] { -brand-product-name } je dozvolio { $count } programa za praćenje na društvenim mrežama
+    }
+trustpanel-social-tracking-tab-list-header = Ove stranice pokušavaju da vas prate:

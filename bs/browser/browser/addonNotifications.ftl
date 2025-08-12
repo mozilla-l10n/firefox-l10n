@@ -128,11 +128,13 @@ addon-install-error-corrupt-file = Add-on preuzet sa ove stranice nije instalira
 addon-install-error-file-access = { $addonName } nije instaliran jer { -brand-short-name } nije mogao modificirati potrebni fajl.
 addon-install-error-not-signed = { -brand-short-name } je spriječio ovu stranicu da instalira neprovjereni add-on.
 addon-install-error-invalid-domain = Dodatak { $addonName } se ne može instalirati sa ove lokacije.
+addon-install-error-no-addon-name-file-access = Dodatak nije mogao biti instaliran jer { -brand-short-name } ne može izmijeniti potrebnu datoteku.
 addon-local-install-error-network-failure = Ovaj add-on nije instaliran zbog greške u fajl sistemu.
 addon-local-install-error-incorrect-hash = Add-on nije instaliran je ne odgovara očekivanom { -brand-short-name } add-onu.
 addon-local-install-error-corrupt-file = Ovaj add-on nije instaliran jer se čini da je oštećen.
 addon-local-install-error-file-access = { $addonName } nije instaliran jer { -brand-short-name } nije mogao modificirati potrebni fajl.
 addon-local-install-error-not-signed = Ovaj add-on nije instaliran jer nije mogao biti verificiran.
+addon-local-install-no-addon-name-error-file-access = Dodatak nije mogao biti instaliran jer { -brand-short-name } ne može izmijeniti potrebnu datoteku.
 # Variables:
 #   $appVersion (String): the application version.
 addon-install-error-incompatible = { $addonName } nije instaliran jer nije kompatibilan sa { -brand-short-name } { $appVersion }.
