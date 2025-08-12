@@ -334,6 +334,10 @@ newtab-custom-weather-toggle =
 newtab-custom-trending-search-toggle =
     .label = Woblubowane pytanja
     .description = Popularne a cesto pytane temy
+newtab-custom-widget-weather-toggle =
+    .label = Wjedro
+newtab-custom-widget-trending-search-toggle =
+    .label = Woblubowane pytanja
 newtab-custom-close-button = Zacyniś
 newtab-custom-settings = Dalšne nastajenja zastojaś
 

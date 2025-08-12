@@ -316,6 +316,7 @@ fxa-menu-message-close-button =
     .title = Clauder
     .aria-label = Clauder
 fxa-menu-message-sign-up-button = Inscriber se
+fxa-menu-message-sign-in-button = Acceder
 fxa-menu-message-sync-devices-primary-text = Synchronisa tote tu apparatos
 fxa-menu-message-sync-devices-secondary-text = Instantaneemente obtene tu info, como marcapaginas e contrasignos, ubique tu usa { -brand-short-name }.
 fxa-menu-message-sync-devices-collapsed-text = Synchronisa tote tu apparatos

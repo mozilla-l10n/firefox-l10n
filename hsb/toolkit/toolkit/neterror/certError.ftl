@@ -164,6 +164,7 @@ redirectLoop-title = Strona njeprawje posrědkuje
 unknownSocketType-title = Njewočakowana wotmołwa ze serwera
 nssFailure2-title = Wěsty zwisk móžny njeje
 csp-xfo-error-title = { -brand-short-name } njemóže tutu stronu wočinić
+corruptedContentErrorv2-title = Zmylk - wobškodźeny wobsah
 corruptedContentError-title = Zmylk - wobškodźeny wobsah
 sslv3Used-title = Wěsty zwisk móžny njeje
 inadequateSecurityError-title = Waš zwisk wěsty njeje
