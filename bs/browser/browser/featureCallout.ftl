@@ -112,6 +112,19 @@ fxa-adoption-passwords-subtitle = Zaštitite svoje lozinke sinhronizacijom sa sv
 # Opens Mozilla accounts sign-up page
 fxa-adoption-passwords-primary-button-label = Registruj se
 
+## Windows 10 EoS Sync messages group 1 callouts
+
+windows-10-eos-sync-urgency-title-1 = Nemojte izgubiti sve što ste sačuvali kada pređete na Windows 11.
+windows-10-eos-sync-urgency-subtitle-1 = Sinhronizujte odmah kako biste svoje { -brand-short-name } zabilješke, lozinke i postavke zaštitili i lako ih vratili.
+windows-10-eos-sync-urgency-title-2 = Opraštate se od Windowsa 10? Zaštitite svoje podatke prilikom prelaska.
+windows-10-eos-sync-urgency-subtitle-2 = Čak i ako ne koristite { -brand-short-name } svakodnevno, sinhronizujte ga kako biste osigurali sigurnost i pristup zabilješkama i lozinkama.
+windows-10-eos-sync-new-device-title-1 = Ne riskirajte da počnete ispočetka na sljedećem uređaju.
+windows-10-eos-sync-new-device-subtitle-1 = Sinhronizujte da biste sa sobom ponijeli svoje { -brand-short-name } zabilješke, lozinke i preferirane postavke kada se selite.
+windows-10-eos-sync-new-device-title-2 = Prelazite na novi uređaj? Ne gubite ono što je važno.
+windows-10-eos-sync-new-device-subtitle-2 = Bez obzira koliko često koristite { -brand-short-name }, sinhronizacija štiti vaše zabilješke, lozinke i postavke.
+windows-10-eos-sync-new-device-primary-label = Sinhronizuj sada
+windows-10-eos-sync-general-title-1 = Zaštitite { -brand-short-name } koji ste stvorili.
+
 ## Sidebar Strings
 
 sidebar-button-callout-title = Prikaži naslove tabove na bočnoj traci

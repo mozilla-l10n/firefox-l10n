@@ -45,6 +45,7 @@ avatar-selector-save-button =
     .label = Sačuvaj
 avatar-selector-upload-file = Učitaj datoteku
 avatar-selector-drag-file = Ili prevucite datoteku ovdje
+avatar-selector-crop = Izreži
 edit-profile-page-no-name = Imenujte ovaj profil kako biste ga lakše pronašli kasnije. Preimenujte ga bilo kada.
 edit-profile-page-duplicate-name = Ime profila je već u upotrebi. Pokušajte s novim imenom.
 edit-profile-page-profile-saved = Sačuvano
@@ -114,6 +115,9 @@ book-avatar-alt =
     .alt = Knjiga
 briefcase-avatar-alt =
     .alt = Aktovka
+# Canvas refers to an artist's painting canvas, not the general material
+canvas-avatar-alt =
+    .alt = Platno
 flower-avatar-alt =
     .alt = Cvijet
 heart-avatar-alt =
