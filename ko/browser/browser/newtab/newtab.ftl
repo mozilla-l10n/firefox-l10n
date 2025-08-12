@@ -331,6 +331,15 @@ newtab-custom-weather-toggle =
 newtab-custom-trending-search-toggle =
     .label = 인기 검색어
     .description = 인기 있고 자주 검색되는 주제
+newtab-custom-widget-weather-toggle =
+    .label = 날씨
+newtab-custom-widget-trending-search-toggle =
+    .label = 인기 검색어
+newtab-custom-widget-lists-toggle =
+    .label = 목록
+newtab-custom-widget-timer-toggle =
+    .label = 타이머
+newtab-custom-widget-section-title = 위젯
 newtab-custom-close-button = 닫기
 newtab-custom-settings = 추가 설정
 
@@ -603,3 +612,55 @@ newtab-trending-searches-learn-more = 더 알아보기
 newtab-trending-searches-dismiss = 인기 검색어 숨기기
 # "Trending searches refers to popular searches from search engines
 newtab-trending-searches-title = 인기 검색어
+
+## Strings for task / to-do list productivity widget
+
+newtab-widget-lists-default-list-title = 작업 목록
+# The placeholder value of the name field for a newly created list
+newtab-widget-lists-default-list-new = 새 목록
+# "Add one" means adding a new task to the list (e.g., "Walk the dog")
+newtab-widget-lists-empty-cta = 가능성은 무한합니다. 하나를 추가하세요.
+newtab-widget-lists-new-label = 새로 만들기
+# When tasks have been previous marked as complete, they will appear in their own separate list beneath incomplete items
+# Variables:
+#   $number (number) - Amount of list items marked complete
+newtab-widget-lists-completed-list = 완료 ({ $number }개)
+newtab-widget-task-list-menu-copy = 복사
+newtab-widget-lists-menu-edit = 목록 이름 편집
+newtab-widget-lists-menu-create = 새 목록 만들기
+newtab-widget-lists-menu-delete = 이 목록 삭제
+newtab-widget-lists-menu-copy = 클립보드에 목록 복사
+newtab-widget-lists-menu-hide = 모든 목록 숨기기
+newtab-widget-lists-menu-learn-more = 더 알아보기
+newtab-widget-lists-input-placeholder = 항목 추가
+newtab-widget-lists-input-error = 항목을 추가하려면 텍스트를 포함하세요.
+newtab-widget-lists-input-menu-open-link = 링크 열기
+newtab-widget-lists-input-menu-move-up = 위로 이동
+newtab-widget-lists-input-menu-move-down = 아래로 이동
+newtab-widget-lists-input-menu-delete = 삭제
+newtab-widget-lists-input-menu-edit = 편집
+
+## Strings for timer productivity widget
+## When the timer ends, a system notification may be shown. Depending on which mode the timer is in, that message would be shown
+
+newtab-widget-timer-notification-title = 타이머
+newtab-widget-timer-notification-focus = 집중 시간이 다 되었습니다. 잘 하셨습니다. 휴식이 필요하신가요?
+newtab-widget-timer-notification-break = 휴식 시간이 종료되었습니다. 집중할 준비가 되셨나요?
+newtab-widget-timer-notification-warning = 알림 꺼짐
+newtab-widget-timer-mode-focus =
+    .label = 집중
+newtab-widget-timer-mode-break =
+    .label = 휴식
+newtab-widget-timer-play =
+    .title = 재생
+newtab-widget-timer-pause =
+    .title = 일시 중지
+newtab-widget-timer-reset =
+    .title = 초기화
+newtab-widget-timer-menu-notifications = 알림 끄기
+newtab-widget-timer-menu-notifications-on = 알림 켜기
+newtab-widget-timer-menu-hide = 타이머 숨기기
+newtab-widget-timer-menu-learn-more = 더 알아보기
+newtab-promo-card-title = { -brand-product-name } 지원
+newtab-promo-card-body = 스폰서는 더 나은 웹을 만들려는 우리의 사명을 지원합니다
+newtab-promo-card-cta = 더 알아보기

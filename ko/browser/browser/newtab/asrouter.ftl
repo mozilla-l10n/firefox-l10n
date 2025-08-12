@@ -313,6 +313,7 @@ fxa-menu-message-close-button =
     .title = 닫기
     .aria-label = 닫기
 fxa-menu-message-sign-up-button = 가입
+fxa-menu-message-sign-in-button = 로그인
 fxa-menu-message-sync-devices-primary-text = 모든 기기 동기화
 fxa-menu-message-sync-devices-secondary-text = { -brand-short-name }를 사용하는 모든 곳에서 북마크나 비밀번호와 같은 정보를 즉시 얻으세요.
 fxa-menu-message-sync-devices-collapsed-text = 모든 기기 동기화

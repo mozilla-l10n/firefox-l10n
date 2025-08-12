@@ -618,6 +618,8 @@ newtab-trending-searches-title = Populære søk
 newtab-widget-lists-default-list-title = Oppgåveliste
 # The placeholder value of the name field for a newly created list
 newtab-widget-lists-default-list-new = Ny liste
+# "Add one" means adding a new task to the list (e.g., "Walk the dog")
+newtab-widget-lists-empty-cta = Moglegheitene er uendelege. Legg til éi.
 newtab-widget-lists-new-label = Ny
 # When tasks have been previous marked as complete, they will appear in their own separate list beneath incomplete items
 # Variables:
@@ -631,6 +633,7 @@ newtab-widget-lists-menu-copy = Kopier liste til utklippstavla
 newtab-widget-lists-menu-hide = Skjul alle lister
 newtab-widget-lists-menu-learn-more = Les meir
 newtab-widget-lists-input-placeholder = Legg til eit element
+newtab-widget-lists-input-error = Legg til tekst for å leggje til eit element.
 newtab-widget-lists-input-menu-open-link = Opne lenke
 newtab-widget-lists-input-menu-move-up = Flytt opp
 newtab-widget-lists-input-menu-move-down = Flytt ned
@@ -641,6 +644,8 @@ newtab-widget-lists-input-menu-edit = Rediger
 ## When the timer ends, a system notification may be shown. Depending on which mode the timer is in, that message would be shown
 
 newtab-widget-timer-notification-title = Nedteljing
+newtab-widget-timer-notification-focus = Fokustida er over. Bra jobba. Treng du ein pause?
+newtab-widget-timer-notification-break = Pausen din er over. Klar til å fokusere?
 newtab-widget-timer-notification-warning = Varsel er av
 newtab-widget-timer-mode-focus =
     .label = Fokus
