@@ -68,6 +68,10 @@ cfr-doorhanger-bookmark-fxa-link-text = Хатбаракҳо ҳозир ҳамо
 cfr-doorhanger-bookmark-fxa-close-btn-tooltip =
     .aria-label = Тугмаи «Пӯшидан»
     .title = Пӯшидан
+fxa-adoption-addresses-backup-title = Биёед барои нишониҳои нигоҳдошташудаи шумо нусхаи эҳтиётиро таҳия намоем
+fxa-adoption-addresses-backup-subtitle = Нишониҳои нигоҳдошташудаи худро тавассути ҳамоҳангсозии онҳо бо дастгоҳҳои худ ва истифода аз рамзгузорӣ муҳофизат намоед.
+fxa-adoption-credit-cards-backup-title = Биёед барои тарзҳои пардохти шумо нусхаи эҳтиётиро таҳия намоем
+fxa-adoption-credit-cards-backup-subtitle = Тарзҳои пардохти худро тавассути ҳамоҳангсозии онҳо бо дастгоҳҳои худ ва истифода аз рамзгузорӣ муҳофизат намоед.
 fxa-adoption-primary-button-label = Бақайдгирӣ
 
 ## Protections panel
