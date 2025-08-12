@@ -164,6 +164,7 @@ redirectLoop-title = Nettsida vidaresender ikkje skikkeleg
 unknownSocketType-title = Uventa svar frå tenar
 nssFailure2-title = Trygt samband feila
 csp-xfo-error-title = { -brand-short-name } kan ikkje opne denne sida
+corruptedContentErrorv2-title = Øydelagt innhald
 corruptedContentError-title = Øydelagt innhald
 sslv3Used-title = Klarte ikkje å kople til trygt
 inadequateSecurityError-title = Tilkoplinga di er ikkje trygg

@@ -338,7 +338,7 @@ newtab-custom-widget-trending-search-toggle =
 newtab-custom-widget-lists-toggle =
     .label = Lister
 newtab-custom-widget-timer-toggle =
-    .label = Nedtelling
+    .label = Nedteljing
 newtab-custom-widget-section-title = Widgetar
 newtab-custom-close-button = Lat att
 newtab-custom-settings = Handsam fleire innstillingar
@@ -631,3 +631,31 @@ newtab-widget-lists-menu-copy = Kopier liste til utklippstavla
 newtab-widget-lists-menu-hide = Skjul alle lister
 newtab-widget-lists-menu-learn-more = Les meir
 newtab-widget-lists-input-placeholder = Legg til eit element
+newtab-widget-lists-input-menu-open-link = Opne lenke
+newtab-widget-lists-input-menu-move-up = Flytt opp
+newtab-widget-lists-input-menu-move-down = Flytt ned
+newtab-widget-lists-input-menu-delete = Slett
+newtab-widget-lists-input-menu-edit = Rediger
+
+## Strings for timer productivity widget
+## When the timer ends, a system notification may be shown. Depending on which mode the timer is in, that message would be shown
+
+newtab-widget-timer-notification-title = Nedteljing
+newtab-widget-timer-notification-warning = Varsel er av
+newtab-widget-timer-mode-focus =
+    .label = Fokus
+newtab-widget-timer-mode-break =
+    .label = Pause
+newtab-widget-timer-play =
+    .title = Spel av
+newtab-widget-timer-pause =
+    .title = Pause
+newtab-widget-timer-reset =
+    .title = Tilbakestill
+newtab-widget-timer-menu-notifications = Slå av varsel
+newtab-widget-timer-menu-notifications-on = Slå på varsel
+newtab-widget-timer-menu-hide = Skjul nedteljar
+newtab-widget-timer-menu-learn-more = Les meir
+newtab-promo-card-title = Støtt { -brand-product-name }
+newtab-promo-card-body = Sponsorane våre støttar oppdraget vårt om å byggje eit betre internett
+newtab-promo-card-cta = Les meir
