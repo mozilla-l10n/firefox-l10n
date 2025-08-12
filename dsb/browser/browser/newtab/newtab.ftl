@@ -663,3 +663,7 @@ newtab-widget-timer-reset =
 newtab-widget-timer-menu-notifications = Zdźělenja znjemóžniś
 newtab-widget-timer-menu-notifications-on = Zdźělenja zmóžniś
 newtab-widget-timer-menu-hide = Měritko casa schowaś
+newtab-widget-timer-menu-learn-more = Dalšne informacije
+newtab-promo-card-title = { -brand-product-name } pódpěraś
+newtab-promo-card-body = Naše sponsory našu misiju pódpěraju, aby lěpšy web twórili
+newtab-promo-card-cta = Dalšne informacije
