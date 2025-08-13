@@ -164,6 +164,7 @@ redirectLoop-title = Az oldal nem megfelelően van átirányítva
 unknownSocketType-title = Váratlan válasz a kiszolgálótól
 nssFailure2-title = A biztonságos kapcsolat sikertelen
 csp-xfo-error-title = A { -brand-short-name } nem tudja megnyitni ezt az oldalt
+corruptedContentErrorv2-title = Hiba: sérült tartalom
 corruptedContentError-title = Sérült tartalom hiba
 sslv3Used-title = Nem lehet biztonságosan kapcsolódni
 inadequateSecurityError-title = A kapcsolat nem biztonságos

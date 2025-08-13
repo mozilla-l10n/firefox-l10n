@@ -630,3 +630,38 @@ newtab-widget-task-list-menu-copy = Másolás
 newtab-widget-lists-menu-edit = Listanév szerkesztése
 newtab-widget-lists-menu-create = Új lista létrehozása
 newtab-widget-lists-menu-delete = Lista törlése
+newtab-widget-lists-menu-copy = Lista vágólapra másolása
+newtab-widget-lists-menu-hide = Összes lista elrejtése
+newtab-widget-lists-menu-learn-more = További tudnivalók
+newtab-widget-lists-input-placeholder = Elem hozzáadása
+newtab-widget-lists-input-error = Elem hozzáadásához adjon meg szöveget.
+newtab-widget-lists-input-menu-open-link = Hivatkozás megnyitása
+newtab-widget-lists-input-menu-move-up = Mozgatás felfelé
+newtab-widget-lists-input-menu-move-down = Mozgatás lefelé
+newtab-widget-lists-input-menu-delete = Törlés
+newtab-widget-lists-input-menu-edit = Szerkesztés
+
+## Strings for timer productivity widget
+## When the timer ends, a system notification may be shown. Depending on which mode the timer is in, that message would be shown
+
+newtab-widget-timer-notification-title = Időzítő
+newtab-widget-timer-notification-focus = Lejárt a fókuszidő. Szép munka. Szüksége van egy kis szünetre?
+newtab-widget-timer-notification-break = A szünete véget ért. Készen áll az összpontosításra?
+newtab-widget-timer-notification-warning = Az értesítések ki vannak kapcsolva
+newtab-widget-timer-mode-focus =
+    .label = Fókusz
+newtab-widget-timer-mode-break =
+    .label = Szünet
+newtab-widget-timer-play =
+    .title = Lejátszás
+newtab-widget-timer-pause =
+    .title = Szünet
+newtab-widget-timer-reset =
+    .title = Visszaállítás
+newtab-widget-timer-menu-notifications = Értesítések kikapcsolása
+newtab-widget-timer-menu-notifications-on = Értesítések bekapcsolása
+newtab-widget-timer-menu-hide = Időzítő elrejtése
+newtab-widget-timer-menu-learn-more = További tudnivalók
+newtab-promo-card-title = Támogassa a { -brand-product-name }ot
+newtab-promo-card-body = Szponzoraink támogatják a küldetésünket, hogy jobb webet építsünk
+newtab-promo-card-cta = További tudnivalók
