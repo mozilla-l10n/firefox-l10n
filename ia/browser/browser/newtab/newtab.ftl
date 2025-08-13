@@ -641,7 +641,11 @@ newtab-widget-lists-input-menu-edit = Rediger
 ## When the timer ends, a system notification may be shown. Depending on which mode the timer is in, that message would be shown
 
 newtab-widget-timer-notification-title = Temporisator
+newtab-widget-timer-notification-focus = Le tempore del concentration es expirate. Belle labor. Besonia tu un pausa?
+newtab-widget-timer-notification-break = Tu pausa ha terminate, Preste a concentrar te?
 newtab-widget-timer-notification-warning = Notificationes disactivate
+newtab-widget-timer-mode-focus =
+    .label = Concentration
 newtab-widget-timer-mode-break =
     .label = Pausa
 newtab-widget-timer-play =

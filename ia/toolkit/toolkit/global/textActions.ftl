@@ -73,6 +73,9 @@ text-action-search-text-box-clear =
     .title = Vacuar
 text-action-highlight-selection =
     .label = Evidentiar selection
+# Comment is a verb. This adds a comment to selected text within the PDF viewer.
+text-action-comment-selection =
+    .label = Commentar selection
 # "Copy Link to Highlight" creates a permanent 'Text Fragment' link
 # to the current selection, and copies it into the user's clipboard.
 text-action-copy-link-to-highlight =
