@@ -131,6 +131,7 @@ addon-local-install-error-incorrect-hash = Добавката не може да
 addon-local-install-error-corrupt-file = Добавката не може да бъде инсталирана, защото изглежда е повредена.
 addon-local-install-error-file-access = Добавката { $addonName } не може да бъде инсталирана, защото { -brand-short-name } не може да промени необходимите файлове.
 addon-local-install-error-not-signed = Добавката не може да бъде инсталирана, защото не е проверена.
+addon-local-install-no-addon-name-error-file-access = Добавката не може да бъде инсталирана, защото { -brand-short-name } не може да променя нужния файл.
 # Variables:
 #   $appVersion (String): the application version.
 addon-install-error-incompatible = Добавката { $addonName } не може да бъде инсталирана, защото е несъвместима с { -brand-short-name } { $appVersion }.
