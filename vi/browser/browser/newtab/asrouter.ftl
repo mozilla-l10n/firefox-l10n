@@ -66,6 +66,11 @@ cfr-doorhanger-bookmark-fxa-link-text = Đồng bộ hóa dấu trang ngay bây 
 cfr-doorhanger-bookmark-fxa-close-btn-tooltip =
     .aria-label = Nút đóng
     .title = Đóng
+fxa-adoption-addresses-backup-title = Sao lưu các địa chỉ đã lưu của bạn
+fxa-adoption-addresses-backup-subtitle = Bảo vệ các địa chỉ đã lưu của bạn bằng cách đồng bộ hóa chúng với thiết bị bằng mã hóa.
+fxa-adoption-credit-cards-backup-title = Sao lưu phương thức thanh toán của bạn
+fxa-adoption-credit-cards-backup-subtitle = Bảo vệ phương thức thanh toán của bạn bằng cách đồng bộ hóa chúng với thiết bị bằng mã hóa.
+fxa-adoption-primary-button-label = Đăng ký
 
 ## Protections panel
 
@@ -308,6 +313,7 @@ fxa-menu-message-close-button =
     .title = Đóng
     .aria-label = Đóng
 fxa-menu-message-sign-up-button = Đăng ký
+fxa-menu-message-sign-in-button = Đăng nhập
 fxa-menu-message-sync-devices-primary-text = Đồng bộ hoá tất cả thiết bị của bạn
 fxa-menu-message-sync-devices-secondary-text = Lấy tức thì dữ liệu của bạn — như dấu trang và mật khẩu — bất cứ mọi nơi bạn sử dụng { -brand-short-name }.
 fxa-menu-message-sync-devices-collapsed-text = Đồng bộ hoá tất cả thiết bị của bạn

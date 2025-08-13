@@ -18,6 +18,7 @@ contextual-manager-passwords-command-import-from-browser = Nhập dữ liệu t�
 contextual-manager-passwords-command-import = Nhập từ tập tin…
 contextual-manager-passwords-command-export = Xuất mật khẩu
 contextual-manager-passwords-command-remove-all = Xóa tất cả mật khẩu
+contextual-manager-passwords-command-options = Tùy chọn
 contextual-manager-passwords-command-settings = Cài đặt
 contextual-manager-passwords-command-help = Trợ giúp
 contextual-manager-passwords-os-auth-dialog-caption = { -brand-full-name }
@@ -157,6 +158,8 @@ contextual-manager-passwords-password-already-exists-error-button = Đi đến m
 contextual-manager-passwords-update-password-success-heading =
     .heading = Đã lưu mật khẩu
 contextual-manager-passwords-update-password-success-button = Xong
+contextual-manager-passwords-update-username-success-heading-2 =
+    .heading = Đã thêm tên người dùng
 contextual-manager-passwords-update-username-success-heading =
     .heading = Đã lưu tên người dùng
 # Message to confirm successful removal of a password/passwords.
@@ -210,12 +213,15 @@ contextual-manager-passwords-title = Mật khẩu
 
 contextual-manager-passwords-create-label =
     .label = Thêm mật khẩu
+contextual-manager-passwords-update-label =
+    .label = Đã cập nhật mật khẩu
 contextual-manager-passwords-edit-label =
     .label = Chỉnh sửa mật khẩu
 contextual-manager-passwords-remove-label =
     .title = Xoá mật khẩu
 contextual-manager-passwords-origin-tooltip = Nhập địa chỉ chính xác mà bạn sẽ đăng nhập vào trang web này.
 contextual-manager-passwords-username-tooltip = Nhập tên người dùng, địa chỉ email hoặc số tài khoản bạn sử dụng để đăng nhập.
+contextual-manager-passwords-password-tooltip-2 = Nhập mật khẩu để đăng nhập vào tài khoản này.
 contextual-manager-passwords-password-tooltip = Nhập mật khẩu được sử dụng để đăng nhập vào tài khoản này.
 
 ## Password Card
@@ -292,6 +298,7 @@ contextual-manager-hide-password-button =
 # The message displayed when the search text does not match any of the user's saved logins.
 contextual-manager-passwords-no-passwords-found-header =
     .heading = Không tìm thấy mật khẩu nào
+contextual-manager-passwords-no-passwords-found-message-2 = Hãy thử một từ khoá khác và tìm kiếm lại.
 contextual-manager-passwords-no-passwords-found-message = Không tìm thấy mật khẩu. Hãy thử tìm lại với một từ khoá khác.
 
 ## When the user has no saved passwords, we display the following messages to inform the user they can save
@@ -306,6 +313,8 @@ contextual-manager-passwords-no-passwords-message = Tất cả mật khẩu đ�
 contextual-manager-passwords-no-passwords-get-started-message = Thêm chúng vào đây để bắt đầu.
 # This string is displayed in a button. If the user clicks it, they will be taken to a form to create a new password.
 contextual-manager-passwords-add-manually = Thêm thủ công
+# This string encourages the user to save their passwords in Firefox (the "safe spot").
+contextual-manager-passwords-no-passwords-header-2 = Lưu mật khẩu của bạn vào nơi an toàn
 
 ## When the user cancels a login that's currently being edited, we display a message to confirm whether
 ## or not the user wants to discard their current edits to the login.
@@ -321,3 +330,8 @@ contextual-manager-passwords-remove-all-passwords-checkbox =
         [1] Đúng, xóa mật khẩu
        *[other] Đúng, xóa các mật khẩu
     }
+# This string informs the user they need to provide their primary password for FireFox to access their saved passwords in Firefox.
+contextual-manager-primary-password-reauth-header = Để xem mật khẩu đã lưu, hãy nhập mật khẩu chính của bạn.
+# This string informs the user their primary password is used to authenticate and access their passwords
+contextual-manager-primary-password-reauth-button = Nhập mật khẩu chính
+contextual-manager-primary-password-learn-more-link = Tìm hiểu thêm

@@ -51,3 +51,8 @@ experimental-features-link-previews-description-no-ai =
 experimental-features-newtab-sections-follow-block =
     .label = Phần chủ đề và Theo dõi/Chặn cho Câu chuyện trên thẻ mới
 experimental-features-newtab-sections-follow-block-description = Sắp xếp các câu chuyện trên trang Thẻ mới của bạn thành các phần chủ đề (thể thao, thực phẩm, giải trí và nhiều hơn nữa) để có trải nghiệm có cấu trúc hơn và dễ quét hơn. Sử dụng các tuỳ chọn Theo dõi và Chặn của chúng tôi để tùy chỉnh nội dung bạn thấy. <a data-l10n-name="connect">Chia sẻ phản hồi</a>
+# Firefox Web Apps
+experimental-features-fx-web-apps =
+    .label = Thêm trang web vào thanh tác vụ của bạn
+# “Add tab to taskbar” is found in the tooltip text of `-taskbar-tab-urlbar-button-open`.
+experimental-features-fx-web-apps-description = Mở các trang web bạn thường xuyên truy cập dưới dạng ứng dụng web từ thanh tác vụ của bạn. Tìm kiếm biểu tượng “Thêm thẻ vào thanh tác vụ” bên phải thanh địa chỉ để khởi chạy trang web đó trong một cửa sổ được sắp xếp hợp lý với tất cả tính năng bảo vệ của { -brand-product-name }. <a data-l10n-name="connect">Chia sẻ phản hồi</a>

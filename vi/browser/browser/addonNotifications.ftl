@@ -113,11 +113,13 @@ addon-install-error-corrupt-file = Không thể cài đặt tiện ích được
 addon-install-error-file-access = { $addonName } không thể cài đặt vì { -brand-short-name } không thể sửa đổi tập tin cần thiết.
 addon-install-error-not-signed = { -brand-short-name } không cho phép trang này cài đặt một tiện ích chưa được kiểm định.
 addon-install-error-invalid-domain = Không thể cài đặt tiện ích { $addonName } từ địa chỉ này.
+addon-install-error-no-addon-name-file-access = Không thể cài đặt tiện ích mở rộng vì { -brand-short-name } không thể sửa đổi tập tin cần thiết.
 addon-local-install-error-network-failure = Không thể cài đặt tiện ích này vì có lỗi hệ thống tập tin.
 addon-local-install-error-incorrect-hash = Không thể cài đặt tiện ích này vì nó không khớp với tiện ích { -brand-short-name } được trông đợi.
 addon-local-install-error-corrupt-file = Không thể cài đặt tiện ích này vì có vẻ như nó đã bị hỏng trên đường truyền.
 addon-local-install-error-file-access = { $addonName } không thể cài đặt vì { -brand-short-name } không thể sửa đổi tập tin cần thiết.
 addon-local-install-error-not-signed = Không thể cài đặt tiện ích này vì nó chưa được kiểm định.
+addon-local-install-no-addon-name-error-file-access = Không thể cài đặt tiện ích mở rộng vì { -brand-short-name } không thể sửa đổi tập tin cần thiết.
 # Variables:
 #   $appVersion (String): the application version.
 addon-install-error-incompatible = { $addonName } không thể cài đặt được vì nó không tương thích với { -brand-short-name } { $appVersion }.
