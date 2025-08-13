@@ -164,6 +164,7 @@ redirectLoop-title = הדף מבצע העברה לא תקינה
 unknownSocketType-title = תגובה לא צפויה מהשרת
 nssFailure2-title = חיבור מאובטח נכשל
 csp-xfo-error-title = ‏{ -brand-short-name } לא יכול לפתוח דף זה
+corruptedContentErrorv2-title = שגיאת תוכן פגום
 corruptedContentError-title = שגיאת תוכן פגום
 sslv3Used-title = לא ניתן להתחבר באופן מאובטח
 inadequateSecurityError-title = החיבור שלך אינו מאובטח
