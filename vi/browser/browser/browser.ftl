@@ -797,6 +797,29 @@ urlbar-result-weather-title-city-only = <strong>{ $temperature }°{ $unit }</str
 #       name of a company, organization, or service.
 urlbar-result-weather-provider-sponsored = { $provider } · Được tài trợ
 
+## These strings are used for Realtime suggestions in the urlbar.
+## Market refers to stocks, indexes, and funds.
+
+# This string is shown as title when Market suggestion are disabled.
+urlbar-result-market-opt-in-title = Nhận dữ liệu thị trường chứng khoán ngay trong thanh tìm kiếm của bạn
+# This string is shown as description when Market suggestion are disabled.
+urlbar-result-market-opt-in-description = Hiển thị thông tin cập nhật thị trường và nhiều hơn nữa từ các đối tác của chúng tôi khi bạn chia sẻ dữ liệu truy vấn tìm kiếm với { -vendor-short-name }. <a data-l10n-name="learn-more-link">Tìm hiểu thêm</a>
+# This string is shown as button to activate online when realtime suggestion are disabled.
+urlbar-result-realtime-opt-in-allow = Hiển thị đề xuất
+# This string is shown in split button to dismiss activation the Realtime suggestion.
+urlbar-result-realtime-opt-in-not-now = Không phải bây giờ
+urlbar-result-realtime-opt-in-dismiss = Bỏ qua
+urlbar-result-realtime-opt-in-dismiss-all =
+    .label = Không hiển thị những đề xuất này
+# This string is shown in the result menu.
+urlbar-result-menu-dont-show-market =
+    .label = Không hiển thị đề xuất thị trường
+# A message that replaces a result when the user dismisses Market suggestions.
+urlbar-result-dismissal-acknowledgment-market = Cảm ơn phản hồi của bạn. Bạn sẽ không thấy đề xuất về thị trường nữa.
+# A message that replaces a result when the user dismisses all suggestions of a
+# particular type.
+urlbar-result-dismissal-acknowledgment-all = Cảm ơn phản hồi của bạn. Bạn sẽ không thấy những đề xuất này nữa.
+
 ## Strings used for buttons in the urlbar
 
 # Label prompting user to search with a particular search engine.
