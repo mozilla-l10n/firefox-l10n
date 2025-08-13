@@ -333,6 +333,10 @@ newtab-custom-weather-toggle =
 newtab-custom-trending-search-toggle =
     .label = Папулярныя пошукавыя запыты
     .description = Папулярныя і часта запытаныя тэмы
+newtab-custom-widget-weather-toggle =
+    .label = Надвор'е
+newtab-custom-widget-trending-search-toggle =
+    .label = Папулярныя пошукавыя запыты
 newtab-custom-close-button = Закрыць
 newtab-custom-settings = Кіраваць дадатковымі наладамі
 

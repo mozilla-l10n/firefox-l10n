@@ -319,6 +319,7 @@ fxa-menu-message-close-button =
     .title = Закрыць
     .aria-label = Закрыць
 fxa-menu-message-sign-up-button = Зарэгістравацца
+fxa-menu-message-sign-in-button = Увайсці
 fxa-menu-message-sync-devices-primary-text = Сінхранізуйце ўсе вашы прылады
 fxa-menu-message-sync-devices-secondary-text = Імгненна атрымайце вашу інфармацыю (напр., закладкі і паролі) ўсюды, дзе вы карыстаецеся { -brand-short-name }.
 fxa-menu-message-sync-devices-collapsed-text = Сінхранізуйце ўсе вашы прылады
