@@ -316,6 +316,7 @@ fxa-menu-message-close-button =
     .title = Bezárás
     .aria-label = Bezárás
 fxa-menu-message-sign-up-button = Regisztráció
+fxa-menu-message-sign-in-button = Bejelentkezés
 fxa-menu-message-sync-devices-primary-text = Szinkronizálja az összes eszközét
 fxa-menu-message-sync-devices-secondary-text = Azonnal kapja meg az adatait – mint a könyvjelzők és a jelszavak – mindenhol, ahol a { -brand-short-name }ot használja.
 fxa-menu-message-sync-devices-collapsed-text = Szinkronizálja az összes eszközét

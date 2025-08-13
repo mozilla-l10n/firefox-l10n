@@ -332,6 +332,15 @@ newtab-custom-weather-toggle =
 newtab-custom-trending-search-toggle =
     .label = Felkapott keresések
     .description = Népszerű és gyakran keresett témák
+newtab-custom-widget-weather-toggle =
+    .label = Időjárás
+newtab-custom-widget-trending-search-toggle =
+    .label = Felkapott keresések
+newtab-custom-widget-lists-toggle =
+    .label = Listák
+newtab-custom-widget-timer-toggle =
+    .label = Időzítő
+newtab-custom-widget-section-title = Felületi elemek
 newtab-custom-close-button = Bezárás
 newtab-custom-settings = További beállítások kezelése
 
@@ -604,3 +613,20 @@ newtab-trending-searches-learn-more = További tudnivalók
 newtab-trending-searches-dismiss = Felkapott keresések elrejtése
 # "Trending searches refers to popular searches from search engines
 newtab-trending-searches-title = Felkapott keresések
+
+## Strings for task / to-do list productivity widget
+
+newtab-widget-lists-default-list-title = Feladatlista
+# The placeholder value of the name field for a newly created list
+newtab-widget-lists-default-list-new = Új lista
+# "Add one" means adding a new task to the list (e.g., "Walk the dog")
+newtab-widget-lists-empty-cta = A lehetőségek végtelenek. Adjon hozzá egyet.
+newtab-widget-lists-new-label = Új
+# When tasks have been previous marked as complete, they will appear in their own separate list beneath incomplete items
+# Variables:
+#   $number (number) - Amount of list items marked complete
+newtab-widget-lists-completed-list = Kész ({ $number })
+newtab-widget-task-list-menu-copy = Másolás
+newtab-widget-lists-menu-edit = Listanév szerkesztése
+newtab-widget-lists-menu-create = Új lista létrehozása
+newtab-widget-lists-menu-delete = Lista törlése
