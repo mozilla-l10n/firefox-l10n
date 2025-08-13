@@ -309,6 +309,7 @@ fxa-menu-message-close-button =
     .title = סגירה
     .aria-label = סגירה
 fxa-menu-message-sign-up-button = הרשמה
+fxa-menu-message-sign-in-button = כניסה
 fxa-menu-message-sync-devices-primary-text = סנכרון כל המכשירים שלך
 fxa-menu-message-sync-devices-secondary-text = קבלה מיידית של כל המידע שלך - כמו סימניות וססמאות - בכל מקום בו יש לך את { -brand-short-name }.
 fxa-menu-message-sync-devices-collapsed-text = סנכרון כל המכשירים שלך
