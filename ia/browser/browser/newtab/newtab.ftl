@@ -336,6 +336,7 @@ newtab-custom-widget-lists-toggle =
     .label = Listas
 newtab-custom-widget-timer-toggle =
     .label = Temporisator
+newtab-custom-widget-section-title = Widgets
 newtab-custom-close-button = Clauder
 newtab-custom-settings = Gerer altere parametros
 
