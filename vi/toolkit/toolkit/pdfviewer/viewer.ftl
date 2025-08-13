@@ -312,6 +312,10 @@ pdfjs-highlight-floating-button1 =
     .title = Đánh dấu
     .aria-label = Đánh dấu
 pdfjs-highlight-floating-button-label = Đánh dấu
+pdfjs-comment-floating-button =
+    .title = Bình luận
+    .aria-label = Bình luận
+pdfjs-comment-floating-button-label = Bình luận
 pdfjs-editor-signature-button =
     .title = Thêm chữ ký
 pdfjs-editor-signature-button-label = Thêm chữ ký
@@ -612,8 +616,15 @@ pdfjs-editor-edit-comment-close-button =
     .title = Đóng
 pdfjs-editor-edit-comment-actions-edit-button-label = Chỉnh sửa
 pdfjs-editor-edit-comment-actions-delete-button-label = Xóa
+pdfjs-editor-edit-comment-manager-text-input =
+    .placeholder = Nhập bình luận của bạn
 pdfjs-editor-edit-comment-manager-cancel-button = Hủy bỏ
 pdfjs-editor-edit-comment-manager-save-button = Lưu
+
+## Edit a comment button in the editor toolbar
+
+pdfjs-editor-edit-comment-button =
+    .title = Chỉnh sửa bình luận
 
 ## Main menu for adding/removing signatures
 

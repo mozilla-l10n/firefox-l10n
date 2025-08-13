@@ -73,6 +73,9 @@ text-action-search-text-box-clear =
     .title = Xóa trắng
 text-action-highlight-selection =
     .label = Đánh dấu lựa chọn
+# Comment is a verb. This adds a comment to selected text within the PDF viewer.
+text-action-comment-selection =
+    .label = Bình luận đoạn đã chọn
 # "Copy Link to Highlight" creates a permanent 'Text Fragment' link
 # to the current selection, and copies it into the user's clipboard.
 text-action-copy-link-to-highlight =

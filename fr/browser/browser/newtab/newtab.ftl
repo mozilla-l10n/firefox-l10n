@@ -328,6 +328,15 @@ newtab-custom-weather-toggle =
 newtab-custom-trending-search-toggle =
     .label = Recherches populaires
     .description = Sujets populaires et fréquemment recherchés
+newtab-custom-widget-weather-toggle =
+    .label = Météo
+newtab-custom-widget-trending-search-toggle =
+    .label = Recherches populaires
+newtab-custom-widget-lists-toggle =
+    .label = Listes
+newtab-custom-widget-timer-toggle =
+    .label = Minuteur
+newtab-custom-widget-section-title = Widgets
 newtab-custom-close-button = Fermer
 newtab-custom-settings = Gérer plus de paramètres
 
@@ -596,3 +605,34 @@ newtab-trending-searches-learn-more = En savoir plus
 newtab-trending-searches-dismiss = Masquer les recherches populaires
 # "Trending searches refers to popular searches from search engines
 newtab-trending-searches-title = Recherches populaires
+
+## Strings for task / to-do list productivity widget
+
+newtab-widget-lists-default-list-title = Liste de tâches
+# The placeholder value of the name field for a newly created list
+newtab-widget-lists-default-list-new = Nouvelle liste
+newtab-widget-lists-new-label = Nouveau
+newtab-widget-task-list-menu-copy = Copier
+newtab-widget-lists-menu-edit = Modifier le nom de la liste
+newtab-widget-lists-menu-create = Créer une nouvelle liste
+newtab-widget-lists-menu-delete = Supprimer cette liste
+newtab-widget-lists-menu-copy = Copier la liste dans le presse-papiers
+newtab-widget-lists-menu-hide = Masquer toutes les listes
+newtab-widget-lists-menu-learn-more = En savoir plus
+newtab-widget-lists-input-placeholder = Ajouter un élément
+newtab-widget-lists-input-error = Veuillez saisir du texte pour ajouter un élément.
+newtab-widget-lists-input-menu-open-link = Ouvrir le lien
+newtab-widget-lists-input-menu-move-up = Déplacer vers le haut
+newtab-widget-lists-input-menu-move-down = Déplacer vers le bas
+newtab-widget-lists-input-menu-delete = Supprimer
+newtab-widget-lists-input-menu-edit = Modifier
+
+## Strings for timer productivity widget
+## When the timer ends, a system notification may be shown. Depending on which mode the timer is in, that message would be shown
+
+newtab-widget-timer-notification-title = Minuteur
+newtab-widget-timer-notification-warning = Notifications désactivées
+newtab-widget-timer-menu-notifications = Désactiver les notifications
+newtab-widget-timer-menu-notifications-on = Activer les notifications
+newtab-widget-timer-menu-hide = Masquer le minuteur
+newtab-widget-timer-menu-learn-more = En savoir plus

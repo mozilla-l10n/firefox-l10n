@@ -315,6 +315,7 @@ fxa-menu-message-close-button =
     .title = Fermer
     .aria-label = Fermer
 fxa-menu-message-sign-up-button = Créer un compte
+fxa-menu-message-sign-in-button = Connexion
 fxa-menu-message-sync-devices-primary-text = Synchronisez tous vos appareils
 fxa-menu-message-sync-devices-secondary-text = Accédez instantanément à vos informations (comme les marque-pages et les mots de passe) partout où vous utilisez { -brand-short-name }.
 fxa-menu-message-sync-devices-collapsed-text = Synchronisez tous vos appareils
