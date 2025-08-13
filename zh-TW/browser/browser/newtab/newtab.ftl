@@ -328,6 +328,15 @@ newtab-custom-weather-toggle =
 newtab-custom-trending-search-toggle =
     .label = 熱門搜尋
     .description = 熱門與常見搜尋主題
+newtab-custom-widget-weather-toggle =
+    .label = 天氣
+newtab-custom-widget-trending-search-toggle =
+    .label = 熱門搜尋
+newtab-custom-widget-lists-toggle =
+    .label = 清單
+newtab-custom-widget-timer-toggle =
+    .label = 計時器
+newtab-custom-widget-section-title = 小工具
 newtab-custom-close-button = 關閉
 newtab-custom-settings = 管理更多設定
 
@@ -600,3 +609,17 @@ newtab-trending-searches-learn-more = 更多資訊
 newtab-trending-searches-dismiss = 隱藏熱門搜尋主題
 # "Trending searches refers to popular searches from search engines
 newtab-trending-searches-title = 熱門搜尋
+
+## Strings for task / to-do list productivity widget
+
+newtab-widget-lists-default-list-title = 任務清單
+# The placeholder value of the name field for a newly created list
+newtab-widget-lists-default-list-new = 新增清單
+# "Add one" means adding a new task to the list (e.g., "Walk the dog")
+newtab-widget-lists-empty-cta = 有無限可能，請新增看看。
+newtab-widget-lists-new-label = 新增
+# When tasks have been previous marked as complete, they will appear in their own separate list beneath incomplete items
+# Variables:
+#   $number (number) - Amount of list items marked complete
+newtab-widget-lists-completed-list = 已完成（{ $number }）
+newtab-widget-task-list-menu-copy = 複製

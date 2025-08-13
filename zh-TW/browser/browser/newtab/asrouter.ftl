@@ -313,6 +313,7 @@ fxa-menu-message-close-button =
     .title = 關閉
     .aria-label = 關閉
 fxa-menu-message-sign-up-button = 註冊
+fxa-menu-message-sign-in-button = 登入
 fxa-menu-message-sync-devices-primary-text = 同步您的所有裝置
 fxa-menu-message-sync-devices-secondary-text = 隨時隨地使用 { -brand-short-name }，均可立即獲得您的書籤與網站密碼等資訊。
 fxa-menu-message-sync-devices-collapsed-text = 同步您的所有裝置
