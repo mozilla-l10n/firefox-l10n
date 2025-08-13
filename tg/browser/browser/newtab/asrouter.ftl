@@ -315,6 +315,7 @@ fxa-menu-message-close-button =
     .title = Пӯшидан
     .aria-label = Пӯшидан
 fxa-menu-message-sign-up-button = Бақайдгирӣ
+fxa-menu-message-sign-in-button = Ворид шудан
 fxa-menu-message-sync-devices-primary-text = Ҳамаи дастгоҳҳои худро ҳамоҳанг созед
 fxa-menu-message-sync-devices-secondary-text = Маълумоти худро дарҳол ба даст оред — барои мисол, хатбаракҳо ва ниҳонвожаҳо — дар ҳамаи ҷойҳое, ки шумо аз «{ -brand-short-name }» истифода мебаред.
 fxa-menu-message-sync-devices-collapsed-text = Ҳамаи дастгоҳҳои худро ҳамоҳанг созед
