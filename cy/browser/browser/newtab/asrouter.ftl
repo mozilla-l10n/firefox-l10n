@@ -328,6 +328,7 @@ fxa-menu-message-close-button =
     .title = Cau
     .aria-label = Cau
 fxa-menu-message-sign-up-button = Cofrestru
+fxa-menu-message-sign-in-button = Mewngofnodi
 fxa-menu-message-sync-devices-primary-text = Cydweddwch eich holl ddyfeisiau
 fxa-menu-message-sync-devices-secondary-text = Cael eich gwybodaeth ar unwaith — fel nodau tudalen a chyfrineiriau — ym mhob man rydych yn defnyddio { -brand-short-name }.
 fxa-menu-message-sync-devices-collapsed-text = Cydweddwch eich holl ddyfeisiau

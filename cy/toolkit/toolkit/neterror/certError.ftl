@@ -164,6 +164,7 @@ redirectLoop-title = Nid yw'r dudalen yn ailgyfeirio'n iawn
 unknownSocketType-title = Ymateb annisgwyl gan y gweinydd
 nssFailure2-title = Methodd y Cysylltiad Diogel
 csp-xfo-error-title = Nid yw { -brand-short-name } yn Gallu Agor y Dudalen hon
+corruptedContentErrorv2-title = Gwall Cynnwys Llygredig
 corruptedContentError-title = Gwall Cynnwys Llygredig
 sslv3Used-title = Methu Cysylltu'n Ddiogel
 inadequateSecurityError-title = Nid yw eich cysylltiad yn ddiogel

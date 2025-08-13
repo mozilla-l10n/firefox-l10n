@@ -337,6 +337,15 @@ newtab-custom-weather-toggle =
 newtab-custom-trending-search-toggle =
     .label = Tueddiadau chwilio
     .description = Pynciau chwilio aml a phoblogaidd
+newtab-custom-widget-weather-toggle =
+    .label = Y Tywydd
+newtab-custom-widget-trending-search-toggle =
+    .label = Tueddiadau chwilio
+newtab-custom-widget-lists-toggle =
+    .label = Rhestrau
+newtab-custom-widget-timer-toggle =
+    .label = Amserydd
+newtab-custom-widget-section-title = Teclynnau
 newtab-custom-close-button = Cau
 newtab-custom-settings = Rheoli rhagor o osodiadau
 
@@ -609,3 +618,55 @@ newtab-trending-searches-learn-more = Dysgu rhagor
 newtab-trending-searches-dismiss = Cuddio'r tuedd chwilio
 # "Trending searches refers to popular searches from search engines
 newtab-trending-searches-title = Tueddiadau chwilio
+
+## Strings for task / to-do list productivity widget
+
+newtab-widget-lists-default-list-title = Rhestr tasgau
+# The placeholder value of the name field for a newly created list
+newtab-widget-lists-default-list-new = Rhestr newydd
+# "Add one" means adding a new task to the list (e.g., "Walk the dog")
+newtab-widget-lists-empty-cta = Mae'r posibiliadau'n ddiddiwedd. Ychwanegwch un.
+newtab-widget-lists-new-label = Newydd
+# When tasks have been previous marked as complete, they will appear in their own separate list beneath incomplete items
+# Variables:
+#   $number (number) - Amount of list items marked complete
+newtab-widget-lists-completed-list = Wedi cwblhau ( { $number })
+newtab-widget-task-list-menu-copy = Copïo
+newtab-widget-lists-menu-edit = Golygu enw'r rhestr
+newtab-widget-lists-menu-create = Creu rhestr newydd
+newtab-widget-lists-menu-delete = Dileu'r rhestr hon
+newtab-widget-lists-menu-copy = Copïo'r rhestr i'r clipfwrdd
+newtab-widget-lists-menu-hide = Cuddio pob rhestr
+newtab-widget-lists-menu-learn-more = Dysgu rhagor
+newtab-widget-lists-input-placeholder = Ychwanegu eitem
+newtab-widget-lists-input-error = Cynhwyswch destun i ychwanegu eitem.
+newtab-widget-lists-input-menu-open-link = Agor dolen
+newtab-widget-lists-input-menu-move-up = Symud i fyny
+newtab-widget-lists-input-menu-move-down = Symud i lawr
+newtab-widget-lists-input-menu-delete = Dileu
+newtab-widget-lists-input-menu-edit = Golygu
+
+## Strings for timer productivity widget
+## When the timer ends, a system notification may be shown. Depending on which mode the timer is in, that message would be shown
+
+newtab-widget-timer-notification-title = Amserydd
+newtab-widget-timer-notification-focus = Mae'r amser canolbwyntio ar ben. Gwaith da. Angen seibiant?
+newtab-widget-timer-notification-break = Mae'ch seibiant drosodd. Barod i ganolbwyntio?
+newtab-widget-timer-notification-warning = Mae hysbysiadau wedi'u diffodd
+newtab-widget-timer-mode-focus =
+    .label = Canolbwyntio
+newtab-widget-timer-mode-break =
+    .label = Seibiant
+newtab-widget-timer-play =
+    .title = Chwarae
+newtab-widget-timer-pause =
+    .title = Oedi
+newtab-widget-timer-reset =
+    .title = Ailosod
+newtab-widget-timer-menu-notifications = Diffodd hysbysiadau
+newtab-widget-timer-menu-notifications-on = Troi hysbysiadau ymlaen
+newtab-widget-timer-menu-hide = Cuddio'r amserydd
+newtab-widget-timer-menu-learn-more = Dysgu rhagor
+newtab-promo-card-title = Cefnogwch { -brand-product-name }
+newtab-promo-card-body = Mae ein noddwyr yn cefnogi ein cenhadaeth i adeiladu gwe well
+newtab-promo-card-cta = Dysgu rhagor
