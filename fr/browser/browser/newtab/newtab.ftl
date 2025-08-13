@@ -612,6 +612,10 @@ newtab-widget-lists-default-list-title = Liste de tâches
 # The placeholder value of the name field for a newly created list
 newtab-widget-lists-default-list-new = Nouvelle liste
 newtab-widget-lists-new-label = Nouveau
+# When tasks have been previous marked as complete, they will appear in their own separate list beneath incomplete items
+# Variables:
+#   $number (number) - Amount of list items marked complete
+newtab-widget-lists-completed-list = Achevées ({ $number })
 newtab-widget-task-list-menu-copy = Copier
 newtab-widget-lists-menu-edit = Modifier le nom de la liste
 newtab-widget-lists-menu-create = Créer une nouvelle liste
@@ -631,8 +635,22 @@ newtab-widget-lists-input-menu-edit = Modifier
 ## When the timer ends, a system notification may be shown. Depending on which mode the timer is in, that message would be shown
 
 newtab-widget-timer-notification-title = Minuteur
+newtab-widget-timer-notification-focus = La période de concentration est terminée. Bien joué. Besoin de faire une pause ?
+newtab-widget-timer-notification-break = Votre pause est terminée. Prêt·e à se concentrer à nouveau ?
 newtab-widget-timer-notification-warning = Notifications désactivées
+newtab-widget-timer-mode-focus =
+    .label = Concentration
+newtab-widget-timer-mode-break =
+    .label = Pause
+newtab-widget-timer-play =
+    .title = Démarrer
+newtab-widget-timer-pause =
+    .title = Pause
+newtab-widget-timer-reset =
+    .title = Réinitialiser
 newtab-widget-timer-menu-notifications = Désactiver les notifications
 newtab-widget-timer-menu-notifications-on = Activer les notifications
 newtab-widget-timer-menu-hide = Masquer le minuteur
 newtab-widget-timer-menu-learn-more = En savoir plus
+newtab-promo-card-title = Apportez votre soutien à { -brand-product-name }
+newtab-promo-card-cta = En apprendre davantage

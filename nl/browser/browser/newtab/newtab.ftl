@@ -332,6 +332,15 @@ newtab-custom-weather-toggle =
 newtab-custom-trending-search-toggle =
     .label = Trending zoekopdrachten
     .description = Populaire en veel gezochte onderwerpen
+newtab-custom-widget-weather-toggle =
+    .label = Weer
+newtab-custom-widget-trending-search-toggle =
+    .label = Trending zoekopdrachten
+newtab-custom-widget-lists-toggle =
+    .label = Lijsten
+newtab-custom-widget-timer-toggle =
+    .label = Timer
+newtab-custom-widget-section-title = Widgets
 newtab-custom-close-button = Sluiten
 newtab-custom-settings = Meer instellingen beheren
 
@@ -604,3 +613,55 @@ newtab-trending-searches-learn-more = Meer info
 newtab-trending-searches-dismiss = Trending zoekopdrachten verbergen
 # "Trending searches refers to popular searches from search engines
 newtab-trending-searches-title = Trending zoekopdrachten
+
+## Strings for task / to-do list productivity widget
+
+newtab-widget-lists-default-list-title = Takenlijst
+# The placeholder value of the name field for a newly created list
+newtab-widget-lists-default-list-new = Nieuwe lijst
+# "Add one" means adding a new task to the list (e.g., "Walk the dog")
+newtab-widget-lists-empty-cta = De mogelijkheden zijn eindeloos. Voeg er een toe.
+newtab-widget-lists-new-label = Nieuw
+# When tasks have been previous marked as complete, they will appear in their own separate list beneath incomplete items
+# Variables:
+#   $number (number) - Amount of list items marked complete
+newtab-widget-lists-completed-list = Voltooid ({ $number })
+newtab-widget-task-list-menu-copy = Kopiëren
+newtab-widget-lists-menu-edit = Lijstnaam bewerken
+newtab-widget-lists-menu-create = Een nieuwe lijst aanmaken
+newtab-widget-lists-menu-delete = Deze lijst verwijderen
+newtab-widget-lists-menu-copy = Lijst naar klembord kopiëren
+newtab-widget-lists-menu-hide = Alle lijsten verbergen
+newtab-widget-lists-menu-learn-more = Meer info
+newtab-widget-lists-input-placeholder = Een item toevoegen
+newtab-widget-lists-input-error = Voeg tekst toe om een item toe te voegen.
+newtab-widget-lists-input-menu-open-link = Koppeling openen
+newtab-widget-lists-input-menu-move-up = Omhoog verplaatsen
+newtab-widget-lists-input-menu-move-down = Omlaag verplaatsen
+newtab-widget-lists-input-menu-delete = Verwijderen
+newtab-widget-lists-input-menu-edit = Bewerken
+
+## Strings for timer productivity widget
+## When the timer ends, a system notification may be shown. Depending on which mode the timer is in, that message would be shown
+
+newtab-widget-timer-notification-title = Timer
+newtab-widget-timer-notification-focus = De focustijd is om. Goed gedaan. Pauze?
+newtab-widget-timer-notification-break = Uw pauze is voorbij. Klaar om te focussen?
+newtab-widget-timer-notification-warning = Notificaties staan uit
+newtab-widget-timer-mode-focus =
+    .label = Focus
+newtab-widget-timer-mode-break =
+    .label = Pauze
+newtab-widget-timer-play =
+    .title = Afspelen
+newtab-widget-timer-pause =
+    .title = Pauzeren
+newtab-widget-timer-reset =
+    .title = Herinitialiseren
+newtab-widget-timer-menu-notifications = Notificaties uitschakelen
+newtab-widget-timer-menu-notifications-on = Notificaties inschakelen
+newtab-widget-timer-menu-hide = Timer verbergen
+newtab-widget-timer-menu-learn-more = Meer info
+newtab-promo-card-title = { -brand-product-name } ondersteunen
+newtab-promo-card-body = Onze sponsors steunen onze missie om een beter web te bouwen
+newtab-promo-card-cta = Meer info
