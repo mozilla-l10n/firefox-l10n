@@ -615,12 +615,19 @@ newtab-trending-searches-title = Ҷустуҷӯҳои ҳавасангез
 newtab-widget-lists-default-list-title = Рӯйхати вазифаҳо
 # The placeholder value of the name field for a newly created list
 newtab-widget-lists-default-list-new = Рӯйхати нав
+# "Add one" means adding a new task to the list (e.g., "Walk the dog")
+newtab-widget-lists-empty-cta = Имкониятҳо беохиранд. Вазифаи дилхоҳро илова намоед.
 newtab-widget-lists-new-label = Нав
+# When tasks have been previous marked as complete, they will appear in their own separate list beneath incomplete items
+# Variables:
+#   $number (number) - Amount of list items marked complete
+newtab-widget-lists-completed-list = Иҷро шуд ({ $number })
 newtab-widget-task-list-menu-copy = Нусха бардоштан
 newtab-widget-lists-menu-edit = Таҳрир кардани номи рӯйхат
 newtab-widget-lists-menu-create = Эҷод кардани рӯйхати нав
 newtab-widget-lists-menu-delete = Нест кардани ин рӯйхат
 newtab-widget-lists-menu-copy = Нусха бардоштани рӯйхат ба ҳофизаи муваққатӣ
+newtab-widget-lists-menu-hide = Пинҳон кардани ҳамаи варақаҳо
 newtab-widget-lists-menu-learn-more = Маълумоти бештар
 newtab-widget-lists-input-placeholder = Илова кардани унсур
 newtab-widget-lists-input-menu-open-link = Кушодани пайванд
@@ -648,3 +655,6 @@ newtab-widget-timer-menu-notifications = Хомӯш кардани огоҳно�
 newtab-widget-timer-menu-notifications-on = Фаъол кардани огоҳномаҳо
 newtab-widget-timer-menu-hide = Пинҳон кардани вақтсанҷ
 newtab-widget-timer-menu-learn-more = Маълумоти бештар
+newtab-promo-card-title = Дастгирӣ кардани «{ -brand-product-name }»
+newtab-promo-card-body = Сарпарастони мо рисолати моро барои ташкили таҷрибаи беҳтарини Интернет дастгирӣ менамоянд
+newtab-promo-card-cta = Маълумоти бештар

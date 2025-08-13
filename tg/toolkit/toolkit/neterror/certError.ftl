@@ -164,6 +164,7 @@ redirectLoop-title = Саҳифа ба таври дуруст равона ка
 unknownSocketType-title = Ҷавоби ногаҳон аз сервер
 nssFailure2-title = Пайвасти бехатар иҷро нашуд
 csp-xfo-error-title = «{ -brand-short-name }» ин саҳифаро кушода наметавонад
+corruptedContentErrorv2-title = Хатои муҳтавои вайроншуда
 corruptedContentError-title = Хатои муҳтавои вайроншуда
 sslv3Used-title = Пайвасти бехатар ғайриимкон аст
 inadequateSecurityError-title = Пайвасти шумо бехатар нест
