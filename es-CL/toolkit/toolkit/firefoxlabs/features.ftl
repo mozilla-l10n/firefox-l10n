@@ -54,3 +54,5 @@ experimental-features-newtab-sections-follow-block-description = Organiza las hi
 # Firefox Web Apps
 experimental-features-fx-web-apps =
     .label = Añadir sitios a tu barra de tareas
+# “Add tab to taskbar” is found in the tooltip text of `-taskbar-tab-urlbar-button-open`.
+experimental-features-fx-web-apps-description = Abre los sitios que visitas con frecuencia como una aplicación web desde la barra de tareas. Busca el icono "Añadir pestaña a la barra de tareas" a la derecha de la barra de direcciones para abrir ese sitio en una ventana optimizada con todas las protecciones de { -brand-product-name }. <a data-l10n-name="connect">Comparte tus comentarios</a>

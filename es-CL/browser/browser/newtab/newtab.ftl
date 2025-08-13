@@ -630,3 +630,34 @@ newtab-widget-lists-menu-copy = Copiar lista al portapapeles
 newtab-widget-lists-menu-hide = Ocultar todas las listas
 newtab-widget-lists-menu-learn-more = Aprender más
 newtab-widget-lists-input-placeholder = Añadir un elemento
+newtab-widget-lists-input-error = Por favor, incluye texto para añadir un elemento.
+newtab-widget-lists-input-menu-open-link = Abrir enlace
+newtab-widget-lists-input-menu-move-up = Subir
+newtab-widget-lists-input-menu-move-down = Bajar
+newtab-widget-lists-input-menu-delete = Eliminar
+newtab-widget-lists-input-menu-edit = Editar
+
+## Strings for timer productivity widget
+## When the timer ends, a system notification may be shown. Depending on which mode the timer is in, that message would be shown
+
+newtab-widget-timer-notification-title = Temporizador
+newtab-widget-timer-notification-focus = Se acabó el tiempo de concentración. Buen trabajo. ¿Necesitas un descanso?
+newtab-widget-timer-notification-break = Se acabó tu descanso. ¿Listo para concentrarte?
+newtab-widget-timer-notification-warning = Las notificaciones están desactivadas
+newtab-widget-timer-mode-focus =
+    .label = Focus
+newtab-widget-timer-mode-break =
+    .label = Descanso
+newtab-widget-timer-play =
+    .title = Reproducir
+newtab-widget-timer-pause =
+    .title = Pausar
+newtab-widget-timer-reset =
+    .title = Restablecer
+newtab-widget-timer-menu-notifications = Desactivar notificaciones
+newtab-widget-timer-menu-notifications-on = Activar notificaciones
+newtab-widget-timer-menu-hide = Ocultar temporizador
+newtab-widget-timer-menu-learn-more = Más información
+newtab-promo-card-title = Apoyar a { -brand-product-name }
+newtab-promo-card-body = Nuestros patrocinadores apoyan nuestra misión de construir una mejor web
+newtab-promo-card-cta = Más información
