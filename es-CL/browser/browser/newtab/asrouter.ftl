@@ -71,6 +71,7 @@ cfr-doorhanger-bookmark-fxa-close-btn-tooltip =
 fxa-adoption-addresses-backup-title = Hagamos una copia de seguridad de tus direcciones guardadas
 fxa-adoption-addresses-backup-subtitle = Protege tus direcciones guardadas sincronizándolas con tus dispositivos cifradas.
 fxa-adoption-credit-cards-backup-title = Respaldemos tus métodos de pago
+fxa-adoption-credit-cards-backup-subtitle = Protege tus métodos de pago sincronizándolos con tus dispositivos cifrados.
 fxa-adoption-primary-button-label = Registrarse
 
 ## Protections panel
@@ -315,6 +316,7 @@ fxa-menu-message-close-button =
     .title = Cerrar
     .aria-label = Cerrar
 fxa-menu-message-sign-up-button = Registrarse
+fxa-menu-message-sign-in-button = Conectarse
 fxa-menu-message-sync-devices-primary-text = Sincroniza todos tus dispositivos
 fxa-menu-message-sync-devices-secondary-text = Ten tu información al instante — como marcadores y contraseñas — en cualquier lugar en que uses { -brand-short-name }.
 fxa-menu-message-sync-devices-collapsed-text = Sincroniza todos tus dispositivos

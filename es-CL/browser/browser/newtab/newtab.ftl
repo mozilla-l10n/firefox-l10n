@@ -328,6 +328,15 @@ newtab-custom-weather-toggle =
 newtab-custom-trending-search-toggle =
     .label = Tendencias de búsquedas
     .description = Temas populares y buscados frecuentemente
+newtab-custom-widget-weather-toggle =
+    .label = Clima
+newtab-custom-widget-trending-search-toggle =
+    .label = Tendencias de búsquedas
+newtab-custom-widget-lists-toggle =
+    .label = Listas
+newtab-custom-widget-timer-toggle =
+    .label = Temporizador
+newtab-custom-widget-section-title = Widgets
 newtab-custom-close-button = Cerrar
 newtab-custom-settings = Administrar más ajustes
 
@@ -600,3 +609,24 @@ newtab-trending-searches-learn-more = Aprender más
 newtab-trending-searches-dismiss = Ocultar búsquedas de tendencia
 # "Trending searches refers to popular searches from search engines
 newtab-trending-searches-title = Tendencias de búsquedas
+
+## Strings for task / to-do list productivity widget
+
+newtab-widget-lists-default-list-title = Lista de tareas
+# The placeholder value of the name field for a newly created list
+newtab-widget-lists-default-list-new = Nueva lista
+# "Add one" means adding a new task to the list (e.g., "Walk the dog")
+newtab-widget-lists-empty-cta = Las posibilidades son infinitas. Añade una.
+newtab-widget-lists-new-label = Nuevo
+# When tasks have been previous marked as complete, they will appear in their own separate list beneath incomplete items
+# Variables:
+#   $number (number) - Amount of list items marked complete
+newtab-widget-lists-completed-list = Completado ({ $number })
+newtab-widget-task-list-menu-copy = Copiar
+newtab-widget-lists-menu-edit = Editar el nombre de la lista
+newtab-widget-lists-menu-create = Crear una nueva lista
+newtab-widget-lists-menu-delete = Eliminar esta lista
+newtab-widget-lists-menu-copy = Copiar lista al portapapeles
+newtab-widget-lists-menu-hide = Ocultar todas las listas
+newtab-widget-lists-menu-learn-more = Aprender más
+newtab-widget-lists-input-placeholder = Añadir un elemento
