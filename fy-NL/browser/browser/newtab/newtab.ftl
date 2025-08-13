@@ -629,3 +629,39 @@ newtab-widget-lists-completed-list = Foltôge ({ $number })
 newtab-widget-task-list-menu-copy = Kopiearje
 newtab-widget-lists-menu-edit = Listnamme bewurkje
 newtab-widget-lists-menu-create = Nije list oanmeitsje
+newtab-widget-lists-menu-delete = Dizze list fuortsmite?
+newtab-widget-lists-menu-copy = List nei klamboerd kopiearje
+newtab-widget-lists-menu-hide = Alle listen ferstopje
+newtab-widget-lists-menu-learn-more = Mear ynfo
+newtab-widget-lists-input-placeholder = In item tafoegje
+newtab-widget-lists-input-error = Foegje tekst ta om in item ta te foegjen.
+newtab-widget-lists-input-menu-open-link = Keppeling iepenje
+newtab-widget-lists-input-menu-move-up = Omheech ferpleatse
+newtab-widget-lists-input-menu-move-down = Omleech ferpleatse
+newtab-widget-lists-input-menu-delete = Fuortsmite
+newtab-widget-lists-input-menu-edit = Bewurkje
+
+## Strings for timer productivity widget
+## When the timer ends, a system notification may be shown. Depending on which mode the timer is in, that message would be shown
+
+newtab-widget-timer-notification-title = Timer
+newtab-widget-timer-notification-focus = De fokustiid is foarby. Goed dien. Skoft?
+newtab-widget-timer-notification-break = Jo skoft is foarby. Ree om te fokusjen?
+newtab-widget-timer-notification-warning = Notifikaasjes stean út
+newtab-widget-timer-mode-focus =
+    .label = Fokus
+newtab-widget-timer-mode-break =
+    .label = Skoft
+newtab-widget-timer-play =
+    .title = Ofspylje
+newtab-widget-timer-pause =
+    .title = Pauzearje
+newtab-widget-timer-reset =
+    .title = Opnij inisjalisearje
+newtab-widget-timer-menu-notifications = Notifikaasjes útskeakelje
+newtab-widget-timer-menu-notifications-on = Notifikaasjes ynskeakelje
+newtab-widget-timer-menu-hide = Timer ferstopje
+newtab-widget-timer-menu-learn-more = Mear ynfo
+newtab-promo-card-title = { -brand-product-name } stypje
+newtab-promo-card-body = Us sponsors stypje ús misje om in better web te bouwen
+newtab-promo-card-cta = Mear ynfo

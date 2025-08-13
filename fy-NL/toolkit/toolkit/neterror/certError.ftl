@@ -164,6 +164,7 @@ redirectLoop-title = De side ferwiist net op in krekte wize troch
 unknownSocketType-title = Unferwacht antwurd fan de server
 nssFailure2-title = Befeilige ferbining mislearre
 csp-xfo-error-title = { -brand-short-name } kin dizze side net iepenje
+corruptedContentErrorv2-title = Skansearre-ynhâldsflater
 corruptedContentError-title = Skansearre-ynhâldsflater
 sslv3Used-title = Kin gjin befeilige ferbining meitsje
 inadequateSecurityError-title = Jo ferbining is net befeilige
