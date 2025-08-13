@@ -331,6 +331,13 @@ newtab-custom-weather-toggle =
 newtab-custom-trending-search-toggle =
     .label = Tìm kiếm thịnh hành
     .description = Các chủ đề phổ biến và được tìm kiếm thường xuyên
+newtab-custom-widget-weather-toggle =
+    .label = Thời tiết
+newtab-custom-widget-trending-search-toggle =
+    .label = Tìm kiếm thịnh hành
+newtab-custom-widget-lists-toggle =
+    .label = Danh sách
+newtab-custom-widget-section-title = Widget
 newtab-custom-close-button = Đóng
 newtab-custom-settings = Quản lý các cài đặt khác
 
@@ -603,3 +610,47 @@ newtab-trending-searches-learn-more = Tìm hiểu thêm
 newtab-trending-searches-dismiss = Ẩn tìm kiếm thịnh hành
 # "Trending searches refers to popular searches from search engines
 newtab-trending-searches-title = Tìm kiếm thịnh hành
+
+## Strings for task / to-do list productivity widget
+
+newtab-widget-lists-default-list-title = Danh sách nhiệm vụ
+# The placeholder value of the name field for a newly created list
+newtab-widget-lists-default-list-new = Danh sách mới
+newtab-widget-lists-new-label = Mới
+# When tasks have been previous marked as complete, they will appear in their own separate list beneath incomplete items
+# Variables:
+#   $number (number) - Amount of list items marked complete
+newtab-widget-lists-completed-list = Đã hoàn thành ({ $number })
+newtab-widget-task-list-menu-copy = Sao chép
+newtab-widget-lists-menu-edit = Chỉnh sửa tên danh sách
+newtab-widget-lists-menu-create = Tạo một danh sách mới
+newtab-widget-lists-menu-delete = Xóa danh sách này
+newtab-widget-lists-menu-copy = Sao chép danh sách vào khay nhớ tạm
+newtab-widget-lists-menu-hide = Ẩn tất cả danh sách
+newtab-widget-lists-menu-learn-more = Tìm hiểu thêm
+newtab-widget-lists-input-placeholder = Thêm một mục
+newtab-widget-lists-input-error = Vui lòng thêm văn bản để thêm mục.
+newtab-widget-lists-input-menu-open-link = Mở liên kết
+newtab-widget-lists-input-menu-move-up = Di chuyển lên
+newtab-widget-lists-input-menu-move-down = Di chuyển xuống
+newtab-widget-lists-input-menu-delete = Xóa
+newtab-widget-lists-input-menu-edit = Chỉnh sửa
+
+## Strings for timer productivity widget
+## When the timer ends, a system notification may be shown. Depending on which mode the timer is in, that message would be shown
+
+newtab-widget-timer-notification-focus = Đã hết thời gian tập trung. Làm tốt lắm. Bạn cần nghỉ ngơi không?
+newtab-widget-timer-notification-break = Giờ nghỉ của bạn đã kết thúc. Sẵn sàng bắt đầu thời gian tập trung?
+newtab-widget-timer-notification-warning = Thông báo đã tắt
+newtab-widget-timer-play =
+    .title = Bắt đầu
+newtab-widget-timer-pause =
+    .title = Tạm dừng
+newtab-widget-timer-reset =
+    .title = Đặt lại
+newtab-widget-timer-menu-notifications = Tắt thông báo
+newtab-widget-timer-menu-notifications-on = Bật thông báo
+newtab-widget-timer-menu-learn-more = Tìm hiểu thêm
+newtab-promo-card-title = Hỗ trợ cho { -brand-product-name }
+newtab-promo-card-body = Các nhà tài trợ của chúng tôi hỗ trợ sứ mệnh của chúng tôi là xây dựng một trang web tốt hơn
+newtab-promo-card-cta = Tìm hiểu thêm
