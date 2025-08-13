@@ -337,6 +337,8 @@ newtab-custom-widget-trending-search-toggle =
     .label = Tìm kiếm thịnh hành
 newtab-custom-widget-lists-toggle =
     .label = Danh sách
+newtab-custom-widget-timer-toggle =
+    .label = Bộ hẹn giờ
 newtab-custom-widget-section-title = Widget
 newtab-custom-close-button = Đóng
 newtab-custom-settings = Quản lý các cài đặt khác
@@ -616,6 +618,8 @@ newtab-trending-searches-title = Tìm kiếm thịnh hành
 newtab-widget-lists-default-list-title = Danh sách nhiệm vụ
 # The placeholder value of the name field for a newly created list
 newtab-widget-lists-default-list-new = Danh sách mới
+# "Add one" means adding a new task to the list (e.g., "Walk the dog")
+newtab-widget-lists-empty-cta = Khả năng là vô tận. Hãy thêm một cái.
 newtab-widget-lists-new-label = Mới
 # When tasks have been previous marked as complete, they will appear in their own separate list beneath incomplete items
 # Variables:
@@ -639,9 +643,14 @@ newtab-widget-lists-input-menu-edit = Chỉnh sửa
 ## Strings for timer productivity widget
 ## When the timer ends, a system notification may be shown. Depending on which mode the timer is in, that message would be shown
 
+newtab-widget-timer-notification-title = Bộ hẹn giờ
 newtab-widget-timer-notification-focus = Đã hết thời gian tập trung. Làm tốt lắm. Bạn cần nghỉ ngơi không?
 newtab-widget-timer-notification-break = Giờ nghỉ của bạn đã kết thúc. Sẵn sàng bắt đầu thời gian tập trung?
 newtab-widget-timer-notification-warning = Thông báo đã tắt
+newtab-widget-timer-mode-focus =
+    .label = Tập trung
+newtab-widget-timer-mode-break =
+    .label = Giải lao
 newtab-widget-timer-play =
     .title = Bắt đầu
 newtab-widget-timer-pause =
@@ -650,6 +659,7 @@ newtab-widget-timer-reset =
     .title = Đặt lại
 newtab-widget-timer-menu-notifications = Tắt thông báo
 newtab-widget-timer-menu-notifications-on = Bật thông báo
+newtab-widget-timer-menu-hide = Ẩn bộ hẹn giờ
 newtab-widget-timer-menu-learn-more = Tìm hiểu thêm
 newtab-promo-card-title = Hỗ trợ cho { -brand-product-name }
 newtab-promo-card-body = Các nhà tài trợ của chúng tôi hỗ trợ sứ mệnh của chúng tôi là xây dựng một trang web tốt hơn
