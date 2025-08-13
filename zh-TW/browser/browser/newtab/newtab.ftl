@@ -623,3 +623,41 @@ newtab-widget-lists-new-label = 新增
 #   $number (number) - Amount of list items marked complete
 newtab-widget-lists-completed-list = 已完成（{ $number }）
 newtab-widget-task-list-menu-copy = 複製
+newtab-widget-lists-menu-edit = 編輯清單名稱
+newtab-widget-lists-menu-create = 新增清單
+newtab-widget-lists-menu-delete = 刪除此清單
+newtab-widget-lists-menu-copy = 複製清單到剪貼簿
+newtab-widget-lists-menu-hide = 隱藏所有清單
+newtab-widget-lists-menu-learn-more = 更多資訊
+newtab-widget-lists-input-placeholder = 新增項目
+newtab-widget-lists-input-error = 請加入文字來新增項目。
+newtab-widget-lists-input-menu-open-link = 開啟鏈結
+newtab-widget-lists-input-menu-move-up = 上移
+newtab-widget-lists-input-menu-move-down = 下移
+newtab-widget-lists-input-menu-delete = 刪除
+newtab-widget-lists-input-menu-edit = 編輯
+
+## Strings for timer productivity widget
+## When the timer ends, a system notification may be shown. Depending on which mode the timer is in, that message would be shown
+
+newtab-widget-timer-notification-title = 計時器
+newtab-widget-timer-notification-focus = 專注時間已結束，做得好！要休息一下嗎？
+newtab-widget-timer-notification-break = 休息時間結束，準備好繼續專注了嗎？
+newtab-widget-timer-notification-warning = 通知已關閉
+newtab-widget-timer-mode-focus =
+    .label = 專注
+newtab-widget-timer-mode-break =
+    .label = 休息
+newtab-widget-timer-play =
+    .title = 播放
+newtab-widget-timer-pause =
+    .title = 暫停
+newtab-widget-timer-reset =
+    .title = 重設
+newtab-widget-timer-menu-notifications = 關閉通知
+newtab-widget-timer-menu-notifications-on = 開啟通知
+newtab-widget-timer-menu-hide = 隱藏計時器
+newtab-widget-timer-menu-learn-more = 更多資訊
+newtab-promo-card-title = 支持 { -brand-product-name }
+newtab-promo-card-body = 贊助商支持我們打造出一個更好的網路環境的使命
+newtab-promo-card-cta = 更多資訊

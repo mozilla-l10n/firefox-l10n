@@ -164,6 +164,7 @@ redirectLoop-title = 頁面重新導向不正確
 unknownSocketType-title = 伺服器回應錯誤
 nssFailure2-title = 安全連線失敗
 csp-xfo-error-title = { -brand-short-name } 無法開啟此網頁
+corruptedContentErrorv2-title = 內容毀損錯誤
 corruptedContentError-title = 內容毀損錯誤
 sslv3Used-title = 無法安全地連線
 inadequateSecurityError-title = 您的連線並不安全
