@@ -332,6 +332,15 @@ newtab-custom-weather-toggle =
 newtab-custom-trending-search-toggle =
     .label = Trending sykopdrachten
     .description = Populêre en faak sochte ûnderwerpen
+newtab-custom-widget-weather-toggle =
+    .label = It waar
+newtab-custom-widget-trending-search-toggle =
+    .label = Trending sykopdrachten
+newtab-custom-widget-lists-toggle =
+    .label = Listen
+newtab-custom-widget-timer-toggle =
+    .label = Timer
+newtab-custom-widget-section-title = Widgets
 newtab-custom-close-button = Slute
 newtab-custom-settings = Mear ynstellingen beheare
 
@@ -604,3 +613,19 @@ newtab-trending-searches-learn-more = Mear ynfo
 newtab-trending-searches-dismiss = Trending sykopdrachten ferstopje
 # "Trending searches refers to popular searches from search engines
 newtab-trending-searches-title = Trending sykopdrachten
+
+## Strings for task / to-do list productivity widget
+
+newtab-widget-lists-default-list-title = Takelist
+# The placeholder value of the name field for a newly created list
+newtab-widget-lists-default-list-new = Nije list
+# "Add one" means adding a new task to the list (e.g., "Walk the dog")
+newtab-widget-lists-empty-cta = De mooglikheden binne einleas. Foegje der ien ta.
+newtab-widget-lists-new-label = Nij
+# When tasks have been previous marked as complete, they will appear in their own separate list beneath incomplete items
+# Variables:
+#   $number (number) - Amount of list items marked complete
+newtab-widget-lists-completed-list = Foltôge ({ $number })
+newtab-widget-task-list-menu-copy = Kopiearje
+newtab-widget-lists-menu-edit = Listnamme bewurkje
+newtab-widget-lists-menu-create = Nije list oanmeitsje
