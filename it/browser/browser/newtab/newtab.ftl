@@ -623,7 +623,6 @@ newtab-widget-lists-default-list-title = Lista di attività
 newtab-widget-lists-default-list-new = Nuova lista
 # "Add one" means adding a new task to the list (e.g., "Walk the dog")
 newtab-widget-lists-empty-cta = Le possibilità sono infinite. Aggiungine una.
-newtab-widget-lists-new-label = Novità
 # When tasks have been previous marked as complete, they will appear in their own separate list beneath incomplete items
 # Variables:
 #   $number (number) - Amount of list items marked complete
@@ -667,4 +666,3 @@ newtab-widget-timer-menu-learn-more = Ulteriori informazioni
 newtab-promo-card-title = Sostieni { -brand-product-name }
 newtab-promo-card-body = I nostri sponsor sostengono la nostra missione di costruire un Web migliore
 newtab-promo-card-cta = Ulteriori informazioni
-
