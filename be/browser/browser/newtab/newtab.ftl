@@ -337,6 +337,11 @@ newtab-custom-widget-weather-toggle =
     .label = Надвор'е
 newtab-custom-widget-trending-search-toggle =
     .label = Папулярныя пошукавыя запыты
+newtab-custom-widget-lists-toggle =
+    .label = Спісы
+newtab-custom-widget-timer-toggle =
+    .label = Таймер
+newtab-custom-widget-section-title = Віджэты
 newtab-custom-close-button = Закрыць
 newtab-custom-settings = Кіраваць дадатковымі наладамі
 
@@ -609,3 +614,55 @@ newtab-trending-searches-learn-more = Падрабязней
 newtab-trending-searches-dismiss = Схаваць папулярныя пошукавыя запыты
 # "Trending searches refers to popular searches from search engines
 newtab-trending-searches-title = Папулярныя пошукавыя запыты
+
+## Strings for task / to-do list productivity widget
+
+newtab-widget-lists-default-list-title = Спіс задач
+# The placeholder value of the name field for a newly created list
+newtab-widget-lists-default-list-new = Новы спіс
+# "Add one" means adding a new task to the list (e.g., "Walk the dog")
+newtab-widget-lists-empty-cta = Магчымасці бязмежныя. Дадайце яшчэ адну.
+newtab-widget-lists-new-label = Стварыць
+# When tasks have been previous marked as complete, they will appear in their own separate list beneath incomplete items
+# Variables:
+#   $number (number) - Amount of list items marked complete
+newtab-widget-lists-completed-list = Завершана ({ $number })
+newtab-widget-task-list-menu-copy = Капіяваць
+newtab-widget-lists-menu-edit = Змяніць назву спісу
+newtab-widget-lists-menu-create = Стварыць новы спіс
+newtab-widget-lists-menu-delete = Выдаліць гэты спіс
+newtab-widget-lists-menu-copy = Скапіяваць спіс у буфер абмену
+newtab-widget-lists-menu-hide = Схаваць усе спісы
+newtab-widget-lists-menu-learn-more = Падрабязней
+newtab-widget-lists-input-placeholder = Дадаць элемент
+newtab-widget-lists-input-error = Калі ласка, улучыце тэкст, каб дадаць элемент.
+newtab-widget-lists-input-menu-open-link = Адкрыць спасылку
+newtab-widget-lists-input-menu-move-up = Рухаць угору
+newtab-widget-lists-input-menu-move-down = Рухаць уніз
+newtab-widget-lists-input-menu-delete = Выдаліць
+newtab-widget-lists-input-menu-edit = Змяніць
+
+## Strings for timer productivity widget
+## When the timer ends, a system notification may be shown. Depending on which mode the timer is in, that message would be shown
+
+newtab-widget-timer-notification-title = Таймер
+newtab-widget-timer-notification-focus = Час для канцэнтрацыі скончыўся. Выдатная праца. Патрэбен перапынак?
+newtab-widget-timer-notification-break = Ваш перапынак скончыўся. Гатовыя засяродзіцца?
+newtab-widget-timer-notification-warning = Апавяшчэнні выключаны
+newtab-widget-timer-mode-focus =
+    .label = Фокус
+newtab-widget-timer-mode-break =
+    .label = Перапынак
+newtab-widget-timer-play =
+    .title = Прайграць
+newtab-widget-timer-pause =
+    .title = Прыпыніць
+newtab-widget-timer-reset =
+    .title = Скінуць
+newtab-widget-timer-menu-notifications = Выключыць апавяшчэнні
+newtab-widget-timer-menu-notifications-on = Уключыць апавяшчэнні
+newtab-widget-timer-menu-hide = Схаваць таймер
+newtab-widget-timer-menu-learn-more = Падрабязней
+newtab-promo-card-title = Падтрымаць { -brand-product-name }
+newtab-promo-card-body = Нашы спонсары падтрымліваюць нашу місію па стварэнні лепшага Інтэрнэту
+newtab-promo-card-cta = Падрабязней
