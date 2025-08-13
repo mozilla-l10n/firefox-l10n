@@ -358,3 +358,4 @@ windows-10-eos-sync-toast-title = Vuoi passare a Windows 11? Non perdere segnali
 windows-10-eos-sync-toast-subtitle = Salva i tuoi dati in modo che { -brand-short-name } sia pronto per l’uso in qualsiasi momento, su questo computer o sul prossimo.
 windows-10-eos-sync-toast-primary-label = Inizia
 windows-10-eos-sync-toast-secondary-label = Ricordamelo più tardi
+
