@@ -331,6 +331,15 @@ newtab-custom-weather-toggle =
 newtab-custom-trending-search-toggle =
     .label = Búsquedas más populares
     .description = Temas populares y buscados con frecuencia
+newtab-custom-widget-weather-toggle =
+    .label = Clima
+newtab-custom-widget-trending-search-toggle =
+    .label = Búsquedas más populares
+newtab-custom-widget-lists-toggle =
+    .label = Listas
+newtab-custom-widget-timer-toggle =
+    .label = Temporizador
+newtab-custom-widget-section-title = Widgets
 newtab-custom-close-button = Cerrar
 newtab-custom-settings = Administrar más configuraciones
 
@@ -603,3 +612,36 @@ newtab-trending-searches-learn-more = Conocer más
 newtab-trending-searches-dismiss = Ocultar búsquedas más populares
 # "Trending searches refers to popular searches from search engines
 newtab-trending-searches-title = Búsquedas más populares
+
+## Strings for task / to-do list productivity widget
+
+newtab-widget-lists-default-list-title = Lista de tareas
+# The placeholder value of the name field for a newly created list
+newtab-widget-lists-default-list-new = Nueva lista
+# "Add one" means adding a new task to the list (e.g., "Walk the dog")
+newtab-widget-lists-empty-cta = Las posibilidades son infinitas. Agregar una.
+newtab-widget-lists-new-label = Nueva
+# When tasks have been previous marked as complete, they will appear in their own separate list beneath incomplete items
+# Variables:
+#   $number (number) - Amount of list items marked complete
+newtab-widget-lists-completed-list = Completa ({ $number })
+newtab-widget-task-list-menu-copy = Copiar
+newtab-widget-lists-menu-edit = Editar nombre de lista
+newtab-widget-lists-menu-create = Crear nueva lista
+newtab-widget-lists-menu-delete = Borrar esta lista
+newtab-widget-lists-menu-copy = Copiar lista al portapapeles
+newtab-widget-lists-menu-hide = Ocultar todas las listas
+newtab-widget-lists-menu-learn-more = Conocer más
+newtab-widget-lists-input-placeholder = Agregar un ítem
+newtab-widget-lists-input-error = Incluir texto para agregar un ítem.
+newtab-widget-lists-input-menu-open-link = Abrir enlace
+newtab-widget-lists-input-menu-move-up = Mover arriba
+newtab-widget-lists-input-menu-move-down = Mover abajo
+newtab-widget-lists-input-menu-delete = Borrar
+newtab-widget-lists-input-menu-edit = Editar
+
+## Strings for timer productivity widget
+## When the timer ends, a system notification may be shown. Depending on which mode the timer is in, that message would be shown
+
+newtab-widget-timer-notification-title = Temporizador
+newtab-widget-timer-notification-focus = Se terminó el tiempo de enfocarse. Buen trabajo. ¿Necesita un descanso?
