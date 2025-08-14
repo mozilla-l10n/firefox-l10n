@@ -804,6 +804,10 @@ urlbar-result-weather-provider-sponsored = { $provider } · Χορηγία
 ## These strings are used for Realtime suggestions in the urlbar.
 ## Market refers to stocks, indexes, and funds.
 
+# This string is shown as title when Market suggestion are disabled.
+urlbar-result-market-opt-in-title = Λάβετε δεδομένα χρηματιστηρίου στη γραμμή αναζήτησης
+# This string is shown as description when Market suggestion are disabled.
+urlbar-result-market-opt-in-description = Να εμφανίζονται ενημερώσεις μετοχών και άλλες από τους συνεργάτες μας όταν κοινοποιούνται δεδομένα ερωτημάτων αναζήτησης στη { -vendor-short-name }. <a data-l10n-name="learn-more-link">Μάθετε περισσότερα</a>
 # This string is shown as button to activate online when realtime suggestion are disabled.
 urlbar-result-realtime-opt-in-allow = Εμφάνιση προτάσεων
 # This string is shown in split button to dismiss activation the Realtime suggestion.
@@ -814,6 +818,11 @@ urlbar-result-realtime-opt-in-dismiss-all =
 # This string is shown in the result menu.
 urlbar-result-menu-dont-show-market =
     .label = Να μην εμφανίζονται προτάσεις μετοχών
+# A message that replaces a result when the user dismisses Market suggestions.
+urlbar-result-dismissal-acknowledgment-market = Ευχαριστούμε για τα σχόλιά σας. Δεν θα βλέπετε πλέον προτάσεις μετοχών.
+# A message that replaces a result when the user dismisses all suggestions of a
+# particular type.
+urlbar-result-dismissal-acknowledgment-all = Ευχαριστούμε για τα σχόλιά σας. Δεν θα βλέπετε πλέον αυτές τις προτάσεις.
 
 ## Strings used for buttons in the urlbar
 

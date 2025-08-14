@@ -221,6 +221,7 @@ contextual-manager-passwords-remove-label =
     .title = Αφαίρεση κωδικού πρόσβασης
 contextual-manager-passwords-origin-tooltip = Εισαγάγετε την ακριβή διεύθυνση όπου θα πραγματοποιείτε σύνδεση σε αυτόν τον ιστότοπο.
 contextual-manager-passwords-username-tooltip = Εισαγάγετε το όνομα χρήστη, τη διεύθυνση email ή τον αριθμό λογαριασμού που χρησιμοποιείτε για τη σύνδεση.
+contextual-manager-passwords-password-tooltip-2 = Εισαγάγετε τον κωδικό πρόσβασης για να συνδεθείτε σε αυτόν τον λογαριασμό.
 contextual-manager-passwords-password-tooltip = Εισαγάγετε τον κωδικό πρόσβασης που χρησιμοποιήθηκε για τη σύνδεση σε αυτόν τον λογαριασμό.
 
 ## Password Card
@@ -297,6 +298,7 @@ contextual-manager-hide-password-button =
 # The message displayed when the search text does not match any of the user's saved logins.
 contextual-manager-passwords-no-passwords-found-header =
     .heading = Δεν βρέθηκαν κωδικοί πρόσβασης
+contextual-manager-passwords-no-passwords-found-message-2 = Δοκιμάστε έναν διαφορετικό όρο και κάντε ξανά αναζήτηση.
 contextual-manager-passwords-no-passwords-found-message = Δεν βρέθηκαν κωδικοί πρόσβασης. Αναζητήστε έναν διαφορετικό όρο και δοκιμάστε ξανά.
 
 ## When the user has no saved passwords, we display the following messages to inform the user they can save
@@ -311,6 +313,8 @@ contextual-manager-passwords-no-passwords-message = Όλοι οι κωδικοί
 contextual-manager-passwords-no-passwords-get-started-message = Προσθέστε τους εδώ για να ξεκινήσετε.
 # This string is displayed in a button. If the user clicks it, they will be taken to a form to create a new password.
 contextual-manager-passwords-add-manually = Χειροκίνητη προσθήκη
+# This string encourages the user to save their passwords in Firefox (the "safe spot").
+contextual-manager-passwords-no-passwords-header-2 = Αποθηκεύστε τους κωδικούς πρόσβασής σας σε ένα ασφαλές σημείο
 
 ## When the user cancels a login that's currently being edited, we display a message to confirm whether
 ## or not the user wants to discard their current edits to the login.
@@ -326,4 +330,8 @@ contextual-manager-passwords-remove-all-passwords-checkbox =
         [1] Ναι, αφαίρεση κωδικού πρόσβασης
        *[other] Ναι, αφαίρεση κωδικών πρόσβασης
     }
+# This string informs the user they need to provide their primary password for FireFox to access their saved passwords in Firefox.
+contextual-manager-primary-password-reauth-header = Για να δείτε τους αποθηκευμένους κωδικούς πρόσβασής σας, εισαγάγετε τον κύριο κωδικό πρόσβασής σας.
+# This string informs the user their primary password is used to authenticate and access their passwords
+contextual-manager-primary-password-reauth-button = Εισαγωγή κύριου κωδικού πρόσβασης
 contextual-manager-primary-password-learn-more-link = Μάθετε περισσότερα

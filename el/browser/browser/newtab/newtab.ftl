@@ -338,6 +338,8 @@ newtab-custom-widget-trending-search-toggle =
     .label = Δημοφιλείς αναζητήσεις
 newtab-custom-widget-lists-toggle =
     .label = Λίστες
+newtab-custom-widget-timer-toggle =
+    .label = Αντίστροφη μέτρηση
 newtab-custom-widget-section-title = Γραφικά στοιχεία
 newtab-custom-close-button = Κλείσιμο
 newtab-custom-settings = Διαχείριση περισσότερων ρυθμίσεων
@@ -617,6 +619,8 @@ newtab-trending-searches-title = Δημοφιλείς αναζητήσεις
 newtab-widget-lists-default-list-title = Λίστα εργασιών
 # The placeholder value of the name field for a newly created list
 newtab-widget-lists-default-list-new = Νέα λίστα
+# "Add one" means adding a new task to the list (e.g., "Walk the dog")
+newtab-widget-lists-empty-cta = Οι δυνατότητες είναι απεριόριστες. Προσθέστε μια νέα.
 newtab-widget-lists-new-label = Νέα
 # When tasks have been previous marked as complete, they will appear in their own separate list beneath incomplete items
 # Variables:
@@ -640,6 +644,14 @@ newtab-widget-lists-input-menu-edit = Επεξεργασία
 ## Strings for timer productivity widget
 ## When the timer ends, a system notification may be shown. Depending on which mode the timer is in, that message would be shown
 
+newtab-widget-timer-notification-title = Αντίστροφη μέτρηση
+newtab-widget-timer-notification-focus = Ο χρόνος συγκέντρωσης τελείωσε. Καλή δουλειά. Χρειάζεστε διάλειμμα;
+newtab-widget-timer-notification-break = Το διάλειμμά σας τελείωσε. Έτοιμοι για συγκέντρωση;
+newtab-widget-timer-notification-warning = Οι ειδοποιήσεις είναι ανενεργές
+newtab-widget-timer-mode-focus =
+    .label = Συγκέντρωση
+newtab-widget-timer-mode-break =
+    .label = Διάλειμμα
 newtab-widget-timer-play =
     .title = Αναπαραγωγή
 newtab-widget-timer-pause =
@@ -648,5 +660,8 @@ newtab-widget-timer-reset =
     .title = Επαναφορά
 newtab-widget-timer-menu-notifications = Απενεργοποίηση ειδοποιήσεων
 newtab-widget-timer-menu-notifications-on = Ενεργοποίηση ειδοποιήσεων
+newtab-widget-timer-menu-hide = Απόκρυψη αντίστροφης μέτρησης
 newtab-widget-timer-menu-learn-more = Μάθετε περισσότερα
+newtab-promo-card-title = Υποστηρίξτε το { -brand-product-name }
+newtab-promo-card-body = Οι χορηγοί μας υποστηρίζουν την αποστολή μας για ένα καλύτερο διαδίκτυο
 newtab-promo-card-cta = Μάθετε περισσότερα
