@@ -59,7 +59,7 @@ about-reader-font-type-monospace = Моноширинний
 
 ## Reader View toolbar buttons
 
-about-reader-toolbar-close = Закрити режим читача
+about-reader-toolbar-close = Закрити режим читання
 about-reader-toolbar-type-controls = Налаштування шрифтів
 about-reader-toolbar-text-layout-controls = Текст і макет
 about-reader-toolbar-theme-controls = Тема

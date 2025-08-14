@@ -895,10 +895,10 @@ urlbar-trending-dismissal-acknowledgment = Дякуємо за ваш відгу
 
 # This should match menu-view-enter-readerview in menubar.ftl
 reader-view-enter-button =
-    .aria-label = Перейти в режим читача
+    .aria-label = Відкрити режим читання
 # This should match menu-view-close-readerview in menubar.ftl
 reader-view-close-button =
-    .aria-label = Закрити режим читача
+    .aria-label = Закрити режим читання
 
 ## Picture-in-Picture urlbar button
 ## Variables:

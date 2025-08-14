@@ -182,12 +182,12 @@ menu-view-full-screen =
 
 # This should match reader-view-enter-button in browser.ftl
 menu-view-enter-readerview =
-    .label = Перейти в режим читача
-    .accesskey = П
+    .label = Відкрити режим читання
+    .accesskey = ч
 # This should match reader-view-close-button in browser.ftl
 menu-view-close-readerview =
-    .label = Закрити режим читача
-    .accesskey = З
+    .label = Закрити режим читання
+    .accesskey = к
 
 ##
 
