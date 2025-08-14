@@ -1411,6 +1411,8 @@ trustpanel-blocker-see-all = اعرض الكل
 ##  $count (String): the number of trackers blocked.
 
 trustpanel-blocker-description = { -brand-product-name } يرى أن على الشركات تقليل متابعتك. لذلك نحظر أكبر عدد ممكن منها.
+trustpanel-tracking-header = سمح { -brand-product-name } بهذه الأشياء حتى لا تتعطل المواقع:
+trustpanel-tracking-description = دون المتعقّبات، قد لا تعمل بعض الأزرار والنماذج وحقول الولوج.
 trustpanel-insecure-section-header = اتّصالك غير آمن
 trustpanel-insecure-description = البيانات التي ترسلها إلى هذا الموقع غير مُعمّاة، مما قد يعرضها للعرض أو السرقة أو التعديل.
 trustpanel-list-label-tracking-content = المحتوى الذي يتعقّبك

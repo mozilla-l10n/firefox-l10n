@@ -107,6 +107,11 @@ vertical-tabs-callout-2-title = هل تُبقي الكثير من الألسنة
 sidebar-pins-callout-title = هل فقدت مسار الألسنة المهمة لديك؟
 sidebar-pins-callout-cta-button = ثبّت اللسان
 
+## Pinning Tabs Strings
+
+pin-tabs-callout-cta-1-button = ثبّت هذا اللسان
+pin-tabs-callout-cta-2-button = ثبّت هذا اللسان
+
 ## Sidebar Onboarding Strings
 
 sidebar-customization-callout-callout-button = خصّص الشريط الجانبي
