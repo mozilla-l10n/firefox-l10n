@@ -364,7 +364,7 @@ windows-10-eos-sync-toast-secondary-label = Ricordamelo più tardi
 ## Windows 10 EoS sync messages group 2 feature callouts
 
 windows-10-eos-challenger-callout-title = { -brand-product-name } non è preinstallato come i browser delle Big Tech. E c’è un motivo.
-windows-10-eos-challenger-sync-callout-subtitle = Facendo il backup di segnalibri e password di { -brand-product-name }, potrai trasferire più facilmente il tuo browser preferito sul prossimo dispositivo.
+windows-10-eos-challenger-sync-callout-subtitle = Facendo il backup di segnalibri e password di { -brand-product-name } potrai trasferire più facilmente il tuo browser preferito sul prossimo dispositivo.
 windows-10-eos-challenger-pin-callout-subtitle = Aggiungi { -brand-shorter-name } alla barra delle applicazioni in modo che il tuo browser preferito sia sempre disponibile quando ne hai bisogno.
 windows-10-eos-challenger-sync-primary-button = Esegui il backup di { -brand-shorter-name }
 windows-10-eos-challenger-pin-primary-button = Aggiungi { -brand-shorter-name }
