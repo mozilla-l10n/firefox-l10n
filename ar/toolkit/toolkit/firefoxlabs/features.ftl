@@ -20,3 +20,9 @@ experimental-features-group-webpage-display =
 experimental-features-group-customize-browsing =
     .label = خصّص تصفّحك
 experimental-features-contextual-password-manager-description = يمكنك الوصول إلى كلمات سرك مباشرةً من الشريط الجانبي. لا داعي للبحث أو إعادة تعيين كلمات السر عند الولوج. لاستخدام هذه الميزة، حدد كلمات السر من الشريط الجانبي. ثم انتقل إلى الإعدادات العامة، ومن تخطيط المتصفح، حدّد "أظهر الشريط الجانبي". ثم خصّص الشريط الجانبي باختيار كلمات السر. إذا جربتها، <a data-l10n-name="connect">أخبرنا برأيك</a>.
+# Link Previews with AI
+experimental-features-link-previews =
+    .label = معاينات الروابط
+# Firefox Web Apps
+experimental-features-fx-web-apps =
+    .label = أضف مواقع إلى شريط مهامك
