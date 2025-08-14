@@ -360,3 +360,31 @@ windows-10-eos-sync-toast-title = Vuoi passare a Windows 11? Non perdere segnali
 windows-10-eos-sync-toast-subtitle = Salva i tuoi dati in modo che { -brand-short-name } sia pronto per l’uso in qualsiasi momento, su questo computer o sul prossimo.
 windows-10-eos-sync-toast-primary-label = Inizia
 windows-10-eos-sync-toast-secondary-label = Ricordamelo più tardi
+
+## Windows 10 EoS sync messages group 2 feature callouts
+
+windows-10-eos-challenger-callout-title = { -brand-product-name } non è preinstallato come i browser delle Big Tech. E c’è un motivo.
+windows-10-eos-challenger-sync-callout-subtitle = Facendo il backup di segnalibri e password di { -brand-product-name }, potrai trasferire più facilmente il tuo browser preferito sul prossimo dispositivo.
+windows-10-eos-challenger-pin-callout-subtitle = Aggiungi { -brand-shorter-name } alla barra delle applicazioni in modo che il tuo browser preferito sia sempre disponibile quando ne hai bisogno.
+windows-10-eos-challenger-sync-primary-button = Esegui il backup di { -brand-shorter-name }
+windows-10-eos-challenger-pin-primary-button = Aggiungi { -brand-shorter-name }
+windows-10-eos-sync-callout-privacy-screen-1-title = { -brand-product-name } blocca cryptominer, elementi traccianti sui social media e fingerprinter.
+windows-10-eos-sync-callout-privacy-screen-1-subtitle = Gli elementi traccianti non possono identificare il tuo dispositivo o seguirti sul Web, perché non glielo permettiamo.
+windows-10-eos-sync-callout-privacy-screen-2-title = Proteggi password e segnalibri per il tuo prossimo dispositivo.
+windows-10-eos-sync-callout-privacy-screen-2-subtitle = Effettuando il backup di { -brand-shorter-name } puoi portare sempre con te i tuoi dati e le tue impostazioni relative alla privacy.
+windows-10-eos-sync-callout-privacy-info-button = Scopri che cosa viene bloccato
+windows-10-eos-callout-addons-title = Prova i componenti aggiuntivi: piccoli aggiornamenti, grandi risultati
+windows-10-eos-callout-addons-subtitle = Queste estensioni sono state scelte per aiutarti a rimanere produttivo, al sicuro e libero da distrazioni.
+windows-10-eos-callout-addons-primary-button = Scopri le nostre scelte
+windows-10-eos-sync-callout-addons-title = Non perdere i tuoi componenti aggiuntivi quando aggiorni da Windows 10.
+windows-10-eos-sync-callout-addons-subtitle = Sincronizza ora, così i tuoi componenti aggiuntivi per { -brand-product-name } saranno sempre disponibili, anche dopo aver cambiato dispositivo.
+windows-10-eos-sync-callout-next-button = Successivo
+windows-10-eos-sync-callout-get-started-button = Inizia
+
+## Windows 10 EoS Sync messages group 2 toast notification
+
+windows-10-eos-feature-toast-title = Schede verticali e gruppi di schede: ci siamo!
+# In English, "dropped" is a colloquial form for released.
+windows-10-eos-feature-toast-subtitle = A grande richiesta, { -brand-product-name } ha appena lanciato nuove funzioni per mantenere la tua navigazione ordinata e senza distrazioni.
+windows-10-eos-feature-toast-whats-new-button = Scopri le novità
+windows-10-eos-feature-toast-dismiss-button = Chiudi

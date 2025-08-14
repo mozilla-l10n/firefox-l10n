@@ -1337,7 +1337,7 @@ permissions-localhost = App e servizi del dispositivo
 permissions-localhost-settings =
     .label = Impostazioni
     .accesskey = m
-permissions-local-network = Dispositivi di rete locali
+permissions-local-network = Dispositivi di rete locale
 permissions-local-network-settings =
     .label = Impostazioni…
     .accesskey = z
@@ -1572,4 +1572,3 @@ preferences-doh-manage-exceptions =
 desktop-folder-name = Desktop
 downloads-folder-name = Download
 choose-download-folder-title = Selezionare la cartella di download:
-
