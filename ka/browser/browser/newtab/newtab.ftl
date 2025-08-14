@@ -331,6 +331,14 @@ newtab-custom-weather-toggle =
 newtab-custom-trending-search-toggle =
     .label = ხშირად მოძიებული
     .description = საყოველთაოდ მოდებული და ფართოდ გავრცელებული
+newtab-custom-widget-weather-toggle =
+    .label = ამინდი
+newtab-custom-widget-trending-search-toggle =
+    .label = ხშირად მოძიებული
+newtab-custom-widget-lists-toggle =
+    .label = სიები
+newtab-custom-widget-timer-toggle =
+    .label = წამმზომი
 newtab-custom-close-button = დახურვა
 newtab-custom-settings = დამატებითი პარამეტრების მართვა
 
@@ -603,3 +611,44 @@ newtab-trending-searches-learn-more = ვრცლად
 newtab-trending-searches-dismiss = ხშირად მოძიებულის დამალვა
 # "Trending searches refers to popular searches from search engines
 newtab-trending-searches-title = ხშირად მოძიებული
+
+## Strings for task / to-do list productivity widget
+
+newtab-widget-lists-default-list-title = დავალებების სია
+# The placeholder value of the name field for a newly created list
+newtab-widget-lists-default-list-new = ახალი სია
+# "Add one" means adding a new task to the list (e.g., "Walk the dog")
+newtab-widget-lists-empty-cta = შესაძლებლობები უსაზღვროა. დაამატეთ რომელიმე.
+newtab-widget-lists-new-label = ახალი
+# When tasks have been previous marked as complete, they will appear in their own separate list beneath incomplete items
+# Variables:
+#   $number (number) - Amount of list items marked complete
+newtab-widget-lists-completed-list = შესრულებული ({ $number })
+newtab-widget-task-list-menu-copy = ასლი
+newtab-widget-lists-menu-edit = სიის სახელის ჩასწორება
+newtab-widget-lists-menu-create = ახალი სიის შექმნა
+newtab-widget-lists-menu-delete = ამ სიის წაშლა
+newtab-widget-lists-menu-copy = სიის ასლის აღება
+newtab-widget-lists-menu-hide = ყველა სიის დამალვა
+newtab-widget-lists-menu-learn-more = ვრცლად
+newtab-widget-lists-input-placeholder = დაამატეთ ჩანაწერი
+newtab-widget-lists-input-error = დასამატებლად გთხოვთ, დაურთოთ წარწერა.
+newtab-widget-lists-input-menu-open-link = ბმულის გახსნა
+newtab-widget-lists-input-menu-move-up = აწევა
+newtab-widget-lists-input-menu-move-down = ჩამოწევა
+newtab-widget-lists-input-menu-delete = წაშლა
+newtab-widget-lists-input-menu-edit = ჩასწორება
+
+## Strings for timer productivity widget
+## When the timer ends, a system notification may be shown. Depending on which mode the timer is in, that message would be shown
+
+newtab-widget-timer-notification-title = წამმზომი
+newtab-widget-timer-notification-warning = შეტყობინებები გამორთულია
+newtab-widget-timer-mode-break =
+    .label = შესვენება
+newtab-widget-timer-play =
+    .title = გაშვება
+newtab-widget-timer-pause =
+    .title = შეჩერება
+newtab-widget-timer-reset =
+    .title = განულება
