@@ -73,6 +73,9 @@ text-action-search-text-box-clear =
     .title = გასუფთავება
 text-action-highlight-selection =
     .label = მონიშნულის გამორჩევა
+# Comment is a verb. This adds a comment to selected text within the PDF viewer.
+text-action-comment-selection =
+    .label = წარწერის დართვა მონიშნულზე
 # "Copy Link to Highlight" creates a permanent 'Text Fragment' link
 # to the current selection, and copies it into the user's clipboard.
 text-action-copy-link-to-highlight =
@@ -81,7 +84,7 @@ text-action-copy-link-to-highlight =
 # it creates a link with a text fragment to the current selection
 # and it strips trackers etc.
 text-action-copy-clean-link-to-highlight =
-    .label = სუფთა ბმულის აღება მონიშნულზე
+    .label = სუფთა ბმულის აღება მონიშნულიდან
 # If the page has been loaded with a text fragment and text is
 # visibly highlighted, this removes any highlighted sections on the page.
 text-action-remove-highlight =

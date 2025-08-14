@@ -316,6 +316,7 @@ fxa-menu-message-close-button =
     .title = დახურვა
     .aria-label = დახურვა
 fxa-menu-message-sign-up-button = ანგარიშის შექმნა
+fxa-menu-message-sign-in-button = შესვლა
 fxa-menu-message-sync-devices-primary-text = დასინქრონება ყველა მოწყობილობაზე
 fxa-menu-message-sync-devices-secondary-text = დაუყოვნებლივ მიიღეთ თქვენს მონაცემებთან წვდომა – მათ შორის სანიშნებსა და პაროლებთან ყველგან, სადაც გიყენიათ { -brand-short-name }
 fxa-menu-message-sync-devices-collapsed-text = დასინქრონება ყველა მოწყობილობაზე

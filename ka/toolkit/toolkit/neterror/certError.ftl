@@ -164,6 +164,7 @@ redirectLoop-title = გვერდი არამართებულად 
 unknownSocketType-title = გაუთვალისწინებელი პასუხი სერვერიდან
 nssFailure2-title = უსაფრთხო დაკავშირება ვერ მოხერხდა
 csp-xfo-error-title = { -brand-short-name } ვერ ხსნის ამ გვერდს
+corruptedContentErrorv2-title = დაზიანებული შიგთავსის შეცდომა
 corruptedContentError-title = დაზიანებული შიგთავსის შეცდომა
 sslv3Used-title = უსაფრთხო კავშირი ვერ ხერხდება
 inadequateSecurityError-title = კავშირი დაუცველია

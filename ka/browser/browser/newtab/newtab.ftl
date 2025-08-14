@@ -644,7 +644,11 @@ newtab-widget-lists-input-menu-edit = ჩასწორება
 ## When the timer ends, a system notification may be shown. Depending on which mode the timer is in, that message would be shown
 
 newtab-widget-timer-notification-title = წამმზომი
+newtab-widget-timer-notification-focus = ყურადღების მოკრების დრო ამოიწურა. კარგად იმუშავეთ. გსურთ შესვენება?
+newtab-widget-timer-notification-break = შესვენების დრო ამოიწურა. მზად ხართ ყურადღების მოსაკრებად?
 newtab-widget-timer-notification-warning = შეტყობინებები გამორთულია
+newtab-widget-timer-mode-focus =
+    .label = ყურადღების მოკრება
 newtab-widget-timer-mode-break =
     .label = შესვენება
 newtab-widget-timer-play =
