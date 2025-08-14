@@ -809,6 +809,11 @@ urlbar-result-realtime-opt-in-allow = Εμφάνιση προτάσεων
 # This string is shown in split button to dismiss activation the Realtime suggestion.
 urlbar-result-realtime-opt-in-not-now = Όχι τώρα
 urlbar-result-realtime-opt-in-dismiss = Απόρριψη
+urlbar-result-realtime-opt-in-dismiss-all =
+    .label = Να μην εμφανίζονται αυτές οι προτάσεις
+# This string is shown in the result menu.
+urlbar-result-menu-dont-show-market =
+    .label = Να μην εμφανίζονται προτάσεις μετοχών
 
 ## Strings used for buttons in the urlbar
 

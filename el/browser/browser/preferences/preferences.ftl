@@ -659,7 +659,7 @@ home-prefs-trending-search-header =
 home-prefs-trending-search-description = Δημοφιλή και συνήθη θέματα αναζήτησης
 # "Support" here means to help sustain or contribute to something, especially through funding or sponsorship.
 home-prefs-support-firefox-header =
-    .label = Υποστηρίξτε τη { -brand-product-name }
+    .label = Υποστηρίξτε το { -brand-product-name }
 home-prefs-mission-message = Οι χορηγοί μας υποστηρίζουν την αποστολή μας για ένα καλύτερο διαδίκτυο
 home-prefs-mission-message-learn-more-link = Μάθετε πώς
 # Variables:

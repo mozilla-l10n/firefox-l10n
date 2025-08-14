@@ -311,6 +311,7 @@ fxa-menu-message-close-button =
     .title = Κλείσιμο
     .aria-label = Κλείσιμο
 fxa-menu-message-sign-up-button = Εγγραφή
+fxa-menu-message-sign-in-button = Σύνδεση
 fxa-menu-message-sync-devices-primary-text = Συγχρονισμός με όλες τις συσκευές σας
 fxa-menu-message-sync-devices-secondary-text = Λάβετε άμεσα τα δεδομένα σας, όπως σελιδοδείκτες και κωδικούς πρόσβασης, σε οποιαδήποτε συσκευή με το { -brand-short-name }.
 fxa-menu-message-sync-devices-collapsed-text = Συγχρονισμός με όλες τις συσκευές σας
