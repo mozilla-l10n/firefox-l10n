@@ -164,6 +164,7 @@ redirectLoop-title = Η σελίδα δεν ανακατευθύνει σωστ�
 unknownSocketType-title = Απρόσμενη απάντηση από τον διακομιστή
 nssFailure2-title = Αποτυχία ασφαλούς σύνδεσης
 csp-xfo-error-title = Το { -brand-short-name } δεν μπορεί να ανοίξει τη σελίδα
+corruptedContentErrorv2-title = Σφάλμα κατεστραμμένου περιεχομένου
 corruptedContentError-title = Σφάλμα κατεστραμμένου περιεχομένου
 sslv3Used-title = Δεν είναι δυνατή η ασφαλής σύνδεση
 inadequateSecurityError-title = Η σύνδεσή σας δεν είναι ασφαλής

@@ -608,6 +608,8 @@ pdfjs-editor-add-signature-save-checkbox = Αποθήκευση υπογραφή
 pdfjs-editor-add-signature-save-warning-message = Έχετε φτάσει το όριο των 5 αποθηκευμένων υπογραφών. Αφαιρέστε μία για να αποθηκεύσετε περισσότερες.
 pdfjs-editor-add-signature-image-upload-error-title = Δεν ήταν δυνατή η μεταφόρτωση της εικόνας
 pdfjs-editor-add-signature-image-upload-error-description = Ελέγξτε τη σύνδεση δικτύου σας ή δοκιμάστε μια άλλη εικόνα.
+pdfjs-editor-add-signature-image-no-data-error-title = Δεν είναι δυνατή η μετατροπή αυτής της εικόνας σε υπογραφή
+pdfjs-editor-add-signature-image-no-data-error-description = Δοκιμάστε να μεταφορτώσετε μια άλλη εικόνα.
 pdfjs-editor-add-signature-error-close-button = Κλείσιμο
 
 ## Dialog buttons
@@ -626,6 +628,8 @@ pdfjs-editor-edit-comment-close-button =
     .title = Κλείσιμο
 pdfjs-editor-edit-comment-actions-edit-button-label = Επεξεργασία
 pdfjs-editor-edit-comment-actions-delete-button-label = Διαγραφή
+pdfjs-editor-edit-comment-manager-text-input =
+    .placeholder = Εισαγάγετε το σχόλιό σας
 pdfjs-editor-edit-comment-manager-cancel-button = Ακύρωση
 pdfjs-editor-edit-comment-manager-save-button = Αποθήκευση
 

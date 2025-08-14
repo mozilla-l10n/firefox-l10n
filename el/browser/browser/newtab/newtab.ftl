@@ -332,6 +332,8 @@ newtab-custom-weather-toggle =
 newtab-custom-trending-search-toggle =
     .label = Δημοφιλείς αναζητήσεις
     .description = Δημοφιλή και συνήθη θέματα αναζήτησης
+newtab-custom-widget-lists-toggle =
+    .label = Λίστες
 newtab-custom-close-button = Κλείσιμο
 newtab-custom-settings = Διαχείριση περισσότερων ρυθμίσεων
 
@@ -604,3 +606,41 @@ newtab-trending-searches-learn-more = Μάθετε περισσότερα
 newtab-trending-searches-dismiss = Απόκρυψη δημοφιλών αναζητήσεων
 # "Trending searches refers to popular searches from search engines
 newtab-trending-searches-title = Δημοφιλείς αναζητήσεις
+
+## Strings for task / to-do list productivity widget
+
+newtab-widget-lists-default-list-title = Λίστα εργασιών
+# The placeholder value of the name field for a newly created list
+newtab-widget-lists-default-list-new = Νέα λίστα
+newtab-widget-lists-new-label = Νέα
+# When tasks have been previous marked as complete, they will appear in their own separate list beneath incomplete items
+# Variables:
+#   $number (number) - Amount of list items marked complete
+newtab-widget-lists-completed-list = Ολοκληρωμένες ({ $number })
+newtab-widget-task-list-menu-copy = Αντιγραφή
+newtab-widget-lists-menu-edit = Επεξεργασία ονόματος λίστας
+newtab-widget-lists-menu-create = Δημιουργία νέας λίστας
+newtab-widget-lists-menu-delete = Διαγραφή λίστας
+newtab-widget-lists-menu-copy = Αντιγραφή λίστας στο πρόχειρο
+newtab-widget-lists-menu-hide = Απόκρυψη όλων των λιστών
+newtab-widget-lists-menu-learn-more = Μάθετε περισσότερα
+newtab-widget-lists-input-placeholder = Προσθήκη στοιχείου
+newtab-widget-lists-input-menu-open-link = Άνοιγμα συνδέσμου
+newtab-widget-lists-input-menu-move-up = Μετακίνηση πάνω
+newtab-widget-lists-input-menu-move-down = Μετακίνηση κάτω
+newtab-widget-lists-input-menu-delete = Διαγραφή
+newtab-widget-lists-input-menu-edit = Επεξεργασία
+
+## Strings for timer productivity widget
+## When the timer ends, a system notification may be shown. Depending on which mode the timer is in, that message would be shown
+
+newtab-widget-timer-play =
+    .title = Αναπαραγωγή
+newtab-widget-timer-pause =
+    .title = Παύση
+newtab-widget-timer-reset =
+    .title = Επαναφορά
+newtab-widget-timer-menu-notifications = Απενεργοποίηση ειδοποιήσεων
+newtab-widget-timer-menu-notifications-on = Ενεργοποίηση ειδοποιήσεων
+newtab-widget-timer-menu-learn-more = Μάθετε περισσότερα
+newtab-promo-card-cta = Μάθετε περισσότερα
