@@ -121,7 +121,7 @@ genai-page-button-summarize = Підсумувати вміст сторінки
 
 ## Chatbot onboarding
 
-genai-onboarding-header = Узагальнюйте, проводьте мозкові штурми і виконуйте багато інших завдань у браузері
+genai-onboarding-header = Підсумовуйте, проводьте мозкові штурми і виконуйте багато інших завдань у браузері
 genai-onboarding-choose-header = Виберіть чат-бота з ШІ для використання на бічній панелі { -brand-short-name }
 # "Switch anytime" refers to allowing the user to switch to a different chatbot.
 genai-onboarding-description = Оберіть чат-бот з ШІ на бічній панелі { -brand-short-name }, і ми покажемо детальну інформацію про нього. Змінити вибір можна будь-коли. <a data-l10n-name="learn-more">Докладніше</a>
