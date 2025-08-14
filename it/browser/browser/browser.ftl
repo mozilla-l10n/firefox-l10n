@@ -833,8 +833,8 @@ urlbar-result-dismissal-acknowledgment-all = Grazie per il tuo feedback. Questi 
 #   $daysUntilStart (integer) - The number of days until the event starts.
 urlbar-result-dates-countdown =
     { $daysUntilStart ->
-        [one] { $name } · In { $daysUntilStart } giorno
-       *[other] { $name } · In { $daysUntilStart } giorni
+        [one] { $name } · Tra { $daysUntilStart } giorno
+       *[other] { $name } · Tra { $daysUntilStart } giorni
     }
 # The name of a multiple day long event and the number of days until it starts
 # separated by a middot.
@@ -843,8 +843,8 @@ urlbar-result-dates-countdown =
 #   $daysUntilStart (integer) - The number of days until the event starts.
 urlbar-result-dates-countdown-range =
     { $daysUntilStart ->
-        [one] { $name } · Inizia in { $daysUntilStart } giorno
-       *[other] { $name } · Inizia in { $daysUntilStart } giorni
+        [one] { $name } · Inizia tra un { $daysUntilStart } giorno
+       *[other] { $name } · Inizia tra { $daysUntilStart } giorni
     }
 # The name of a multiple day long event and the number of days until it ends
 # separated by a middot.
