@@ -476,3 +476,7 @@ newtab-report-submit = Azen
 ## Strings for trending searches
 
 newtab-trending-searches-learn-more = Issin ugar
+
+## Strings for task / to-do list productivity widget
+
+newtab-widget-lists-input-menu-open-link = Ldi aseɣwen

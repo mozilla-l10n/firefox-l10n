@@ -205,6 +205,9 @@ urlbar-result-menu-report-inaccurate-location =
     .label = Mmel adig ur nban ara
 urlbar-result-menu-dont-show-weather-suggestions =
     .label = UR d-skanay ara isumar n liḥala n tegnawt
+# Used for Split Button.
+urlbar-splitbutton-dropmarker =
+    .title = Ldi umuɣ
 # A message shown in the urlbar when the user submits feedback on a suggestion
 # (e.g., it shows an inaccurate location, it's shown too often, etc.).
 urlbar-feedback-acknowledgment = Tanemmirt ɣef tamawt-ik
