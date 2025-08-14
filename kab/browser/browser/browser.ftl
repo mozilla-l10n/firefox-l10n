@@ -786,6 +786,15 @@ urlbar-result-weather-title-city-only = <strong>{ $temperature }°{ $unit }</str
 #       name of a company, organization, or service.
 urlbar-result-weather-provider-sponsored = { $provider } ⋅ S lmendad
 
+## These strings are used for Realtime suggestions in the urlbar.
+## Market refers to stocks, indexes, and funds.
+
+# This string is shown as button to activate online when realtime suggestion are disabled.
+urlbar-result-realtime-opt-in-allow = Sken isumar
+# This string is shown in split button to dismiss activation the Realtime suggestion.
+urlbar-result-realtime-opt-in-not-now = Mačči tura
+urlbar-result-realtime-opt-in-dismiss = Zgel
+
 ## Strings used for buttons in the urlbar
 
 # Label prompting user to search with a particular search engine.
@@ -1306,6 +1315,7 @@ trustpanel-clear-cookies-button = Sfeḍ inagan n tuqna akked isefka n usmel
 trustpanel-privacy-link = Iɣewwaren n tbaḍnit
 trustpanel-clear-cookies-subview-button-clear = Sfeḍ
 trustpanel-clear-cookies-subview-button-cancel = Sefsex
+trustpanel-blocker-see-all = Wali akk
 
 ## Variables
 ##  $count (String): the number of trackers blocked.

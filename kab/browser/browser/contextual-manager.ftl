@@ -282,3 +282,4 @@ contextual-manager-passwords-remove-all-passwords-checkbox =
         [one] Ih, kkes awal n uεeddi
        *[other] Ih, kkes awalen n uεeddi
     }
+contextual-manager-primary-password-learn-more-link = Issin ugar
