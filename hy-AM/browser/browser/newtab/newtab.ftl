@@ -375,6 +375,7 @@ newtab-wallpaper-abstract-purple = Մանուշակագույն ձևեր
 newtab-wallpaper-abstract-orange = Նարնջագույն ձևեր
 newtab-wallpaper-gradient-orange = Գրադիենտ նարնջագույն և վարդագույն
 newtab-wallpaper-abstract-blue-purple = Կապույտ և մանուշակագույն ձևեր
+newtab-wallpaper-abstract-white-curves = Սպիտակ՝ ստվերագծված կորերով
 
 ## Celestial
 
@@ -519,3 +520,39 @@ newtab-report-cancel = Չեղարկել
 newtab-report-submit = Ուղարկել
 newtab-toast-thanks-for-reporting =
     .message = Շնորհակալություն հայտնելու համար:
+
+## Strings for trending searches
+
+newtab-trending-searches-learn-more = Իմանալ ավելին
+
+## Strings for task / to-do list productivity widget
+
+newtab-widget-lists-default-list-title = Առաջադրանքների ցանկ
+# The placeholder value of the name field for a newly created list
+newtab-widget-lists-default-list-new = Նոր ցանկ
+newtab-widget-lists-new-label = Նոր
+newtab-widget-task-list-menu-copy = Պատճենել
+newtab-widget-lists-menu-edit = Խմբագրել ցանկի անունը
+newtab-widget-lists-menu-create = Ստեղծել նոր ցանկ
+newtab-widget-lists-menu-delete = Ջնջել այս ցանկը
+newtab-widget-lists-menu-copy = Պատճենել ցանկը սեղմատախտակին
+newtab-widget-lists-menu-hide = Թաքցնել բոլոր ցանկերը
+newtab-widget-lists-menu-learn-more = Իմանալ ավելին
+newtab-widget-lists-input-menu-open-link = Բացել հղումը
+newtab-widget-lists-input-menu-move-up = Շարժել վերև
+newtab-widget-lists-input-menu-move-down = Շարժել ներքև
+newtab-widget-lists-input-menu-delete = Ջնջել
+newtab-widget-lists-input-menu-edit = Խմբագրել
+
+## Strings for timer productivity widget
+## When the timer ends, a system notification may be shown. Depending on which mode the timer is in, that message would be shown
+
+newtab-widget-timer-notification-title = ժամաչափ
+newtab-widget-timer-mode-break =
+    .label = Ընդմիջում
+newtab-widget-timer-play =
+    .title = Նվագարկել
+newtab-widget-timer-pause =
+    .title = Դադար
+newtab-widget-timer-reset =
+    .title = Վերակայել
