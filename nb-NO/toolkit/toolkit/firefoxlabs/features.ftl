@@ -63,3 +63,7 @@ experimental-features-fx-web-apps-description = Åpne nettsteder du besøker oft
 experimental-features-newtab-widget-lists =
     .label = Lister på { -firefox-home-brand-name }
 experimental-features-newtab-widget-lists-description = Ha gjøremålslisten din i tankene når du åpner en ny fane. Fra pakkelister til handlelister, lag planene dine i { -brand-product-name }. <a data-l10n-name="connect">Del tilbakemeldinger</a>
+# Timer Widget
+experimental-features-newtab-widget-timer =
+    .label = Nedtelling på { -firefox-home-brand-name }
+experimental-features-newtab-widget-timer-description = Sett en nedtelling for å holde fokus, minne deg på å holde deg på sporet eller minne deg på å lade opp. <a data-l10n-name="connect">Del tilbakemelding</a>
