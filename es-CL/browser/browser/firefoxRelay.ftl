@@ -23,6 +23,7 @@ firefox-relay-opt-in-title-1 = Protege tu email:
 # This is preceded by firefox-relay-opt-in-title-1 (on a different line), which
 # ends with a colon. You might need to adapt the capitalization of this string.
 firefox-relay-opt-in-subtitle-1 = Usar máscara de correo electrónico de { -relay-brand-name }
+firefox-relay-use-mask-title-1 = Usar una máscara de correo
 firefox-relay-use-mask-title = Usar máscara de correo electrónico de { -relay-brand-name }
 # This is followed, on a new line, by firefox-relay-opt-in-subtitle-a
 firefox-relay-opt-in-title-a = Evita el spam con una máscara de correo electrónico gratuita

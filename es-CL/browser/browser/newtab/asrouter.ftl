@@ -317,6 +317,7 @@ fxa-menu-message-close-button =
     .aria-label = Cerrar
 fxa-menu-message-sign-up-button = Registrarse
 fxa-menu-message-sign-in-button = Conectarse
+fxa-menu-message-sync-button = Empezar a sincronizar
 fxa-menu-message-sync-devices-primary-text = Sincroniza todos tus dispositivos
 fxa-menu-message-sync-devices-secondary-text = Ten tu información al instante — como marcadores y contraseñas — en cualquier lugar en que uses { -brand-short-name }.
 fxa-menu-message-sync-devices-collapsed-text = Sincroniza todos tus dispositivos
@@ -362,3 +363,13 @@ windows-10-eos-sync-toast-title = ¿Actualizando a Windows 11? No pierdas tus ma
 windows-10-eos-sync-toast-subtitle = Haz una copia de seguridad de tus datos para que { -brand-short-name } esté listo para ser usado en cualquier momento, en este PC o en el siguiente.
 windows-10-eos-sync-toast-primary-label = Empezar
 windows-10-eos-sync-toast-secondary-label = Recordarme más tarde
+
+## Windows 10 EoS sync messages group 2 feature callouts
+
+windows-10-eos-challenger-sync-primary-button = Respaldar { -brand-shorter-name }
+windows-10-eos-challenger-pin-primary-button = Fijar { -brand-shorter-name }
+
+## Windows 10 EoS Sync messages group 2 toast notification
+
+windows-10-eos-feature-toast-whats-new-button = Revisa que hay de nuevo
+windows-10-eos-feature-toast-dismiss-button = Ocultar

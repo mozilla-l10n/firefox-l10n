@@ -380,3 +380,14 @@ windows-10-eos-callout-addons-title = Try add-ons: simple upgrades, big impacts
 windows-10-eos-callout-addons-subtitle = These extensions were chosen to help you stay productive, protected and distraction-free.
 windows-10-eos-callout-addons-primary-button = See our picks
 windows-10-eos-sync-callout-addons-title = Don’t lose your add-ons when you upgrade from Windows 10.
+windows-10-eos-sync-callout-addons-subtitle = Synchronise now so your { -brand-product-name } add-ons are always available, even after a device change.
+windows-10-eos-sync-callout-next-button = Next
+windows-10-eos-sync-callout-get-started-button = Get started
+
+## Windows 10 EoS Sync messages group 2 toast notification
+
+windows-10-eos-feature-toast-title = Vertical tabs and tab groups are here!
+# In English, "dropped" is a colloquial form for released.
+windows-10-eos-feature-toast-subtitle = By popular request, { -brand-product-name } just dropped new features to keep your browsing streamlined and focused.
+windows-10-eos-feature-toast-whats-new-button = See what’s new
+windows-10-eos-feature-toast-dismiss-button = Dismiss

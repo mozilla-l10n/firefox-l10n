@@ -1519,3 +1519,8 @@ trustpanel-fingerprinter-not-blocking-tab-header =
        *[other] { -brand-product-name } omoneĩ { $count } ñemokuãhuita
     }
 trustpanel-fingerprinter-list-header = Ko’ã tenda ha’ete ojapyhyséva ne ñemokuãhu:
+trustpanel-cryptominer-blocking-tab-header =
+    { $count ->
+        [one] { -brand-product-name } ojoko { $count } criptominero
+       *[other] { -brand-product-name } ojoko { $count } criptominero
+    }
