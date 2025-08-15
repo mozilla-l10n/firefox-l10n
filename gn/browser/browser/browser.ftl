@@ -1403,9 +1403,19 @@ trustpanel-blocker-header =
 ## Variables
 ##  $count (String): the number of trackers blocked.
 
+trustpanel-blocker-section-header =
+    { $count ->
+        [one] <span>{ $count }</span> Tapykuehoha jokopyre ko tendápe g̃uarã
+       *[other] <span>{ $count }</span> Tapykuehohakuéra jokopyre ko tendápe g̃uarã
+    }
 trustpanel-blocked-header = { -brand-product-name } ojoko ko’ã mba’e ndéve g̃uarã:
 trustpanel-tracking-header = { -brand-product-name } omoneĩ ko’ã mba’e tendakuéra oikoite hag̃ua:
 trustpanel-insecure-section-header = Nde jeike nahekorosãihína
+trustpanel-list-label-tracking-cookies =
+    { $count ->
+        [one] { $count } Kookie rapykuehoha tenda pa’ũgua
+       *[other] { $count } Kookiekuéra rapykuehoha tenda pa’ũgua
+    }
 trustpanel-list-label-tracking-content = Tetepy rapykuehoha
 trustpanel-list-label-fingerprinter =
     { $count ->
@@ -1421,6 +1431,11 @@ trustpanel-list-label-cryptominer =
     { $count ->
         [one] { $count } Criptominero
        *[other] { $count } Criptominero
+    }
+trustpanel-social-tracking-blocking-tab-header =
+    { $count ->
+        [one] { -brand-product-name } ojoko { $count } rapykuehoha ava ñandutietagua
+       *[other] { -brand-product-name } ojoko { $count } rapykuehoha ava ñandutietagua
     }
 trustpanel-social-tracking-tab-list-header = Ko’ã tenda ha’ete nderapykuehoséva:
 trustpanel-tracking-cookies-tab-list-header = Ko’ã tenda ha’ete nderapykuehoséva:
