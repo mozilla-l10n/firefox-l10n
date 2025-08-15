@@ -354,3 +354,16 @@ windows-10-eos-sync-spotlight-primary-label = Eñongatuve tekorosãrã ne { -bra
 
 windows-10-eos-sync-toast-primary-label = Emoñepyrũ
 windows-10-eos-sync-toast-secondary-label = Chemomandu’a ag̃ave
+
+## Windows 10 EoS sync messages group 2 feature callouts
+
+windows-10-eos-sync-callout-privacy-info-button = Ehecha pe jejokopyre
+windows-10-eos-callout-addons-primary-button = Ehecha ore poravopyre
+windows-10-eos-sync-callout-next-button = Upeigua
+windows-10-eos-sync-callout-get-started-button = Eñepyrũ
+
+## Windows 10 EoS Sync messages group 2 toast notification
+
+windows-10-eos-feature-toast-title = ¡Tendaykeita ñembo’y ha tendayke aty oĩma ápe!
+windows-10-eos-feature-toast-whats-new-button = Ehecha mba’epyahu
+windows-10-eos-feature-toast-dismiss-button = Mboyke

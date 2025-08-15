@@ -323,6 +323,7 @@ fxa-menu-message-close-button =
     .aria-label = Začinić
 fxa-menu-message-sign-up-button = Registrować
 fxa-menu-message-sign-in-button = Přizjewić
+fxa-menu-message-sync-button = Synchronizaciju započeć
 fxa-menu-message-sync-devices-primary-text = Synchronizujće wšě swoje graty
 fxa-menu-message-sync-devices-secondary-text = Wobstarajće sej hnydom swoje informacije – na přikład swoje zapołožki a hesła – wšudźe, hdźež { -brand-short-name } wužiwaće.
 fxa-menu-message-sync-devices-collapsed-text = Synchronizujće wšě swoje graty

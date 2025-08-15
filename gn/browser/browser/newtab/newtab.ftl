@@ -331,6 +331,19 @@ newtab-custom-weather-toggle =
 newtab-custom-trending-search-toggle =
     .label = Jeheka ojejapovéva
     .description = Umi téma ojeguerohory ha ojehekavéva
+newtab-custom-widget-weather-toggle =
+    .label = Arapytu
+newtab-custom-widget-trending-search-toggle =
+    .label = Eheka ojejapovéva
+newtab-custom-widget-lists-toggle =
+    .label = Tysýi
+newtab-custom-widget-timer-toggle =
+    .label = Aravojere
+newtab-custom-widget-section-title = Widgets
+# Tooltip for close button
+newtab-custom-close-menu-button =
+    .title = Mboty
+    .aria-label = Poravorã mboty
 newtab-custom-close-button = Mboty
 newtab-custom-settings = Eñangareko hetave ñembohekóre
 
@@ -601,3 +614,7 @@ newtab-trending-searches-learn-more = Eikuaave
 newtab-trending-searches-dismiss = Eñomi jeheka ojejapovéva
 # "Trending searches refers to popular searches from search engines
 newtab-trending-searches-title = Jeheka ojejapovéva
+
+## Strings for task / to-do list productivity widget
+
+newtab-widget-lists-default-list-title = Tembiaporã rysýi
