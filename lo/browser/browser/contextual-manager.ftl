@@ -115,6 +115,8 @@ contextual-manager-passwords-password-already-exists-error-button = ໄປທີ
 contextual-manager-passwords-update-password-success-heading =
     .heading = ບັນທຶກລະຫັດຜ່ານແລ້ວ!
 contextual-manager-passwords-update-password-success-button = ສຳເລັດ
+contextual-manager-passwords-update-username-success-heading-2 =
+    .heading = ເພີ່ມຊື່ຜູ້ໃຊ້ແລ້ວ
 contextual-manager-passwords-delete-password-success-button = ສຳເລັດ
 #
 # Radiobutton label to display total number of passwords
@@ -175,6 +177,27 @@ contextual-manager-username-login-line =
 contextual-manager-password-login-line =
     .aria-label = ສຳເນົາລະຫັດຜ່ານ
     .title = ສຳເນົາລະຫັດຜ່ານ
+contextual-manager-view-alert-heading =
+    .heading = ເບິ່ງການແຈ້ງເຕືອນ
+contextual-manager-view-alert-button =
+    .tooltiptext = ກວດເບິ່ງຄືນການແຈ້ງເຕືອນ
+# Variables
+#   $count (number) - The number of active alerts associated with the login
+contextual-manager-view-alert-heading-2 =
+    .heading =
+        { $count ->
+            [1] ເບິ່ງການແຈ້ງເຕືອນ
+           *[other] ເບິ່ງການແຈ້ງເຕືອນ
+        }
+contextual-manager-show-password-button =
+    .aria-label = ສະແດງລະຫັດຜ່ານ
+    .title = ສະແດງລະຫັດຜ່ານ
+contextual-manager-hide-password-button =
+    .aria-label = ເຊື່ອງລະຫັດຜ່ານ
+    .title = ເຊື່ອງລະຫັດຜ່ານ
+# The message displayed when the search text does not match any of the user's saved logins.
+contextual-manager-passwords-no-passwords-found-header =
+    .heading = ບໍ່ພົບລະຫັດຜ່ານ
 
 ## When the user cancels a login that's currently being edited, we display a message to confirm whether
 ## or not the user wants to discard their current edits to the login.

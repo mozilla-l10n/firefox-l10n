@@ -1131,4 +1131,5 @@ trustpanel-blocker-see-all = ເບິງທັງໝົດ
 trustpanel-list-label-tracking-content = ຕົວຕິດຕາມເນື້ອຫາ
 trustpanel-list-label-fingerprinter = { $count } ລາຍນິ້ວດິຈິຕອນ
 trustpanel-list-label-cryptominer = { $count } Cryptominers
+trustpanel-tracking-content-not-blocking-tab-header = { -brand-product-name } ອະນຸຍາດໃຫ້ { $count } trackers
 trustpanel-tracking-content-tab-list-header = ເວັບໄຊເຫຼົ່ານີ້ກຳລັງພະຍາຍາມຕິດຕາມທ່ານ:
