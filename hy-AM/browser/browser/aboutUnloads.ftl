@@ -12,14 +12,14 @@ about-unloads-intro =
     անբավարար հիշողության դեպքում ծրագրային խափանումից խուսափելու համար: Ապաբեռնավորվող ամեն հաջորդ ներդիրի
     ընտրությունն իրականացվում է որոշ հատկանիշներից ելնելով: Այս էջում ներկայացված է
     { -brand-short-name }-ի աշխատանքի կարգը: Կարելի է գործարկել ապաբեռնավորումը ձեռքով,
-    սեղմելով <em>Ապաբեռնավորել</em> կոճակը:
+    սեղմելով <em>Ապաբեռնել</em> կոճակը:
 # The link points to a Firefox documentation page, only available in English,
 # with title "Tab Unloading"
-about-unloads-learn-more = Ավելին իմանալու համար դիտարկեք <a data-l10n-name="doc-link">Ներդիրի ապաբեռնավորում</a>:
+about-unloads-learn-more = Ավելին իմանալու համար դիտարկեք <a data-l10n-name="doc-link">Ներդիրի ապաբեռնում</a>:
 about-unloads-last-updated = Վերջին թարմացումը՝ { DATETIME($date, year: "numeric", month: "numeric", day: "numeric", hour: "numeric", minute: "numeric", second: "numeric", hour12: "false") }
-about-unloads-button-unload = Ապաբեռնավորել
-    .title = Ապաբեռնավորել ներդիրը ամենաառաջնային առաջնահերթությամբ
-about-unloads-no-unloadable-tab = Ապաբեռնավորվող ներդիրներ չկան:
+about-unloads-button-unload = Ապաբեռնել
+    .title = Ապաբեռնել ներդիրը ամենաառաջնային առաջնահերթությամբ
+about-unloads-no-unloadable-tab = Ապաբեռնվող ներդիրներ չկան:
 about-unloads-column-priority = Առաջնահերթություն
 about-unloads-column-host = Հյուրընկալ
 about-unloads-column-last-accessed = Վերջին մատչում

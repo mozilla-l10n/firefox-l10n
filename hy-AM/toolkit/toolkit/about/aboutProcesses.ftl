@@ -5,6 +5,8 @@
 
 ## Tooltips
 
+about-processes-shutdown-process =
+    .title = Ապաբեռնել ներդիրները և սպանել ընթացքը
 about-processes-shutdown-tab =
     .title = Փակել ներդիրը
 

@@ -133,3 +133,11 @@ tab-context-send-tabs-to-device =
            *[other] Ուղարկել { $tabCount } ներդիրները սարքին
         }
     .accesskey = n
+tab-context-unload-n-tabs =
+    .label =
+        { $tabCount ->
+            [1] Ապաբեռնել ներդիրը
+            [one] Ապաբեռնել { $tabCount } ներդիրները
+           *[other] Ապաբեռնել { $tabCount } ներդիրները
+        }
+    .accesskey = U
