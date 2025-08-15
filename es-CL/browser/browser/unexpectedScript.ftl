@@ -4,6 +4,10 @@
 
 unexpected-script-close-button =
     .aria-label = Cerrar
+# This string is used in the notification bar
+# Variables:
+#   $origin (string) - The top level domain the unexpected script was loaded from
+unexpected-script-load-message = <strong>{ -brand-short-name } ha detectado un script privilegiado inesperado de { $origin }</strong>
 unexpected-script-load-message-button-allow =
     .label = Permitir
     .accesskey = A
@@ -11,6 +15,8 @@ unexpected-script-load-message-button-block =
     .label = Bloquear
     .accesskey = B
 unexpected-script-load-title = Carga de script inesperada
+unexpected-script-load-detail-1-allow = { -brand-short-name } <strong>PERMITIRÁ</strong> la carga de scripts privilegiados inesperados, incluido el siguiente. Esto hará que tu instalación de { -brand-short-name } sea <strong>menos segura</strong>.
+unexpected-script-load-detail-1-block = { -brand-short-name } <strong>bloqueará</strong> la carga de scripts privilegiados inesperados, incluido el siguiente. Esto hará que tu instalación de { -brand-short-name } sea <strong>más segura</strong>.
 # In this text "the functionality" refers to whatever the unexpected script is doing.
 # Sorry that is vague - but we don't know what these scripts are, so we don't know what they're doing
 # They could be a custom script people used to customize Firefox, an enterprise configuration script, or something else entirely
