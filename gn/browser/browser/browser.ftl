@@ -1502,6 +1502,11 @@ trustpanel-tracking-content-blocking-tab-header =
         [one] { -brand-product-name } ojoko { $count } rapykuehoha
        *[other] { -brand-product-name } ojoko { $count } rapykuehohakuéra
     }
+trustpanel-tracking-content-not-blocking-tab-header =
+    { $count ->
+        [one] { -brand-product-name } omoneĩ { $count } rapykuehoha
+       *[other] { -brand-product-name } omoneĩ { $count } rapykuehoha
+    }
 trustpanel-tracking-content-tab-list-header = Ko’ã tenda ha’ete nderapykuehoséva:
 trustpanel-fingerprinter-blocking-tab-header =
     { $count ->
