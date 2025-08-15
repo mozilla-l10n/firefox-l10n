@@ -632,15 +632,24 @@ newtab-widget-lists-menu-create = Skapa en ny lista
 newtab-widget-lists-menu-delete = Ta bort denna lista
 newtab-widget-lists-menu-copy = Kopiera lista till urklipp
 newtab-widget-lists-menu-hide = Dölj alla listor
+newtab-widget-lists-menu-learn-more = Läs mer
+newtab-widget-lists-input-placeholder = Lägg till ett objekt
+newtab-widget-lists-input-error = Inkludera text för att lägga till ett objekt.
+newtab-widget-lists-input-menu-open-link = Öppna länk
+newtab-widget-lists-input-menu-move-up = Flytta upp
+newtab-widget-lists-input-menu-move-down = Flytta ned
+newtab-widget-lists-input-menu-delete = Ta bort
+newtab-widget-lists-input-menu-edit = Redigera
 
 ## Strings for timer productivity widget
 ## When the timer ends, a system notification may be shown. Depending on which mode the timer is in, that message would be shown
 
+newtab-widget-timer-notification-title = Timer
 newtab-widget-timer-notification-focus = Fokustiden är ute. Bra jobbat. Behöver du en paus?
 newtab-widget-timer-notification-break = Din paus är över. Redo att fokusera?
 newtab-widget-timer-notification-warning = Aviseringar är avstängda
 newtab-widget-timer-mode-focus =
-    .label = Focus
+    .label = Fokus
 newtab-widget-timer-mode-break =
     .label = Paus
 newtab-widget-timer-play =
