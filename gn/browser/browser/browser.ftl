@@ -1508,3 +1508,9 @@ trustpanel-fingerprinter-blocking-tab-header =
         [one] { -brand-product-name } omoneĩ { $count } rapykuehoha
        *[other] { -brand-product-name } omoneĩ { $count } rapykuehohakuéra
     }
+trustpanel-fingerprinter-not-blocking-tab-header =
+    { $count ->
+        [one] { -brand-product-name } omoneĩ { $count } ñemokuãhu
+       *[other] { -brand-product-name } omoneĩ { $count } ñemokuãhuita
+    }
+trustpanel-fingerprinter-list-header = Ko’ã tenda ha’ete ojapyhyséva ne ñemokuãhu:

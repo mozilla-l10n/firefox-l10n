@@ -332,6 +332,16 @@ newtab-custom-weather-toggle =
 newtab-custom-trending-search-toggle =
     .label = Aktuell beliebte Suchanfragen
     .description = Beliebte und häufig gesuchte Themen
+newtab-custom-widget-weather-toggle =
+    .label = Wetter
+newtab-custom-widget-trending-search-toggle =
+    .label = Beliebte Suchanfragen
+newtab-custom-widget-lists-toggle =
+    .label = Listen
+# Tooltip for close button
+newtab-custom-close-menu-button =
+    .title = Schließen
+    .aria-label = Menü schließen
 newtab-custom-close-button = Schließen
 newtab-custom-settings = Weitere Einstellungen verwalten
 
@@ -604,3 +614,14 @@ newtab-trending-searches-learn-more = Weitere Informationen
 newtab-trending-searches-dismiss = Aktuell beliebte Suchanfragen ausblenden
 # "Trending searches refers to popular searches from search engines
 newtab-trending-searches-title = Aktuell beliebte Suchanfragen
+
+## Strings for task / to-do list productivity widget
+
+newtab-widget-lists-default-list-title = Aufgabenliste
+# The placeholder value of the name field for a newly created list
+newtab-widget-lists-default-list-new = Neue Liste
+# "Add one" means adding a new task to the list (e.g., "Walk the dog")
+newtab-widget-lists-empty-cta = Die Möglichkeiten sind unendlich. Fügen Sie eine hinzu.
+# A simple label next to the default list name letting users know this is a new / beta feature
+newtab-widget-lists-label-new =
+    .label = Neu

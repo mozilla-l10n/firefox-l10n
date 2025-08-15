@@ -361,3 +361,8 @@ windows-10-eos-sync-toast-title = Upgrade auf Windows 11? Verlieren Sie keine Le
 windows-10-eos-sync-toast-subtitle = Sicheren Sie Ihre Daten, damit { -brand-short-name } jederzeit einsatzbereit ist – auf diesem PC und auf dem nächsten.
 windows-10-eos-sync-toast-primary-label = Erste Schritte
 windows-10-eos-sync-toast-secondary-label = Später erinnern
+
+## Windows 10 EoS sync messages group 2 feature callouts
+
+windows-10-eos-sync-callout-privacy-screen-2-title = Sichern Sie Ihre Passwörter und Lesezeichen für Ihr nächstes Gerät.
+windows-10-eos-sync-callout-next-button = Weiter
