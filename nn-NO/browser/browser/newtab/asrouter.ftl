@@ -316,6 +316,7 @@ fxa-menu-message-close-button =
     .aria-label = Lat att
 fxa-menu-message-sign-up-button = Registrer deg
 fxa-menu-message-sign-in-button = Logg inn
+fxa-menu-message-sync-button = Start synkronisering
 fxa-menu-message-sync-devices-primary-text = Synkroniser alle einingane dine
 fxa-menu-message-sync-devices-secondary-text = Få informasjonen din omgåande — som bokmerke og passord — overalt der du brukar { -brand-short-name }.
 fxa-menu-message-sync-devices-collapsed-text = Synkroniser alle einingane dine
@@ -361,3 +362,14 @@ windows-10-eos-sync-toast-title = Oppgraderer du til Windows 11? Ikkje mist bokm
 windows-10-eos-sync-toast-subtitle = Sikringskopier dataa dine slik at { -brand-short-name } er klar til bruk når som helst, på denne PC-en eller den neste.
 windows-10-eos-sync-toast-primary-label = Kom i gang
 windows-10-eos-sync-toast-secondary-label = Minn meg på det seinare
+
+## Windows 10 EoS sync messages group 2 feature callouts
+
+windows-10-eos-sync-callout-privacy-info-button = Sjå kva som er blokkert
+windows-10-eos-sync-callout-next-button = Neste
+windows-10-eos-sync-callout-get-started-button = Kom i gang
+
+## Windows 10 EoS Sync messages group 2 toast notification
+
+windows-10-eos-feature-toast-whats-new-button = Sjå kva som er nytt
+windows-10-eos-feature-toast-dismiss-button = Ignorer

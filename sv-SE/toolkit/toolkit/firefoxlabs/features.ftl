@@ -56,3 +56,14 @@ experimental-features-fx-web-apps =
     .label = Lägg till webbplatser i aktivitetsfältet
 # “Add tab to taskbar” is found in the tooltip text of `-taskbar-tab-urlbar-button-open`.
 experimental-features-fx-web-apps-description = Öppna webbplatser du ofta besöker som en webbapp från aktivitetsfältet. Leta efter ikonen "Lägg till flik i aktivitetsfältet" till höger i adressfältet för att starta webbplatsen i ett strömlinjeformat fönster med alla { -brand-product-name }:s skydd. <a data-l10n-name="connect">Dela feedback</a>
+
+## New Tab Productivity Widgets
+
+# Lists Widget
+experimental-features-newtab-widget-lists =
+    .label = Listor på { -firefox-home-brand-name }
+experimental-features-newtab-widget-lists-description = Ha din att göra-lista top-of-mind när du öppnar en ny flik. Från packlistor till inköpslistor, gör dina planer för { -brand-product-name }. <a data-l10n-name="connect">Dela feedback</a>
+# Timer Widget
+experimental-features-newtab-widget-timer =
+    .label = Timer på { -firefox-home-brand-name }
+experimental-features-newtab-widget-timer-description = Ställ in en timer för att hålla dig fokuserad, knuffa dig att hålla dig på rätt spår eller påminna dig att ladda om. <a data-l10n-name="connect">Dela feedback</a>

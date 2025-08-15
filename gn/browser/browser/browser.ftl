@@ -1454,3 +1454,8 @@ trustpanel-tracking-cookies-not-blocking-tab-header =
        *[other] { -brand-product-name } omoneĩ { $count } rapykuehoha kookie ava ñandutietagua
     }
 trustpanel-tracking-cookies-tab-list-header = Ko’ã tenda ha’ete nderapykuehoséva:
+trustpanel-tracking-content-blocking-tab-header =
+    { $count ->
+        [one] { -brand-product-name } ojoko { $count } rapykuehoha
+       *[other] { -brand-product-name } ojoko { $count } rapykuehohakuéra
+    }
