@@ -955,6 +955,7 @@ primary-password-os-auth-dialog-message-win = Հիմնական գաղտնաբա�
 # notes are only valid for English. Please test in your locale.
 primary-password-os-auth-dialog-message-macosx = ստեղծել Հիմնական գաղտնաբառ
 master-password-os-auth-dialog-caption = { -brand-full-name }
+autofill-creditcard-os-auth-dialog-caption = { -brand-full-name }
 
 ## Privacy section - Autofill
 

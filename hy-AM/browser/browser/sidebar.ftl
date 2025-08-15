@@ -103,6 +103,8 @@ sidebar-menu-customize-label =
     .label = Հարմարեցնել կողագոտին
 sidebar-menu-contextual-password-manager-label =
     .label = Գաղտնաբառեր
+sidebar-menu-more-tools-label =
+    .label = Լրացուցիչ գործիքներ
 
 ## Tooltips for sidebar menu items.
 
@@ -141,6 +143,8 @@ sidebar-menu-history-header =
     .heading = Պատմություն
 sidebar-menu-syncedtabs-header =
     .heading = Ներդիրներ այլ սարքերից
+sidebar-menu-cpm-header =
+    .heading = Գաղտնաբառեր
 sidebar-panel-header-close-button =
     .tooltiptext = Փակել
 
