@@ -635,6 +635,9 @@ newtab-widget-task-list-menu-copy = Monguatia
 newtab-widget-lists-menu-edit = Embosako’i tysýi réra
 newtab-widget-lists-menu-learn-more = Eikuaave
 newtab-widget-lists-input-placeholder = Embojuaju porurã
+newtab-widget-lists-input-menu-open-link = Joajuha ijurujáva
+newtab-widget-lists-input-menu-move-up = Jehupi
+newtab-widget-lists-input-menu-move-down = Emongu’e yvy gotyo
 newtab-widget-lists-input-menu-delete = Mboguete
 newtab-widget-lists-input-menu-edit = Mbosako’i
 

@@ -320,6 +320,7 @@ fxa-menu-message-sign-in-button = Conectarse
 fxa-menu-message-sync-button = Empezar a sincronizar
 fxa-menu-message-sync-devices-primary-text = Sincroniza todos tus dispositivos
 fxa-menu-message-sync-devices-secondary-text = Ten tu información al instante — como marcadores y contraseñas — en cualquier lugar en que uses { -brand-short-name }.
+fxa-menu-message-sync-devices-secondary-text2 = Accede instantáneamente a tus marcadores, contraseñas y más, donde sea que te hayas conectado en { -brand-short-name }.
 fxa-menu-message-sync-devices-collapsed-text = Sincroniza todos tus dispositivos
 fxa-menu-message-backup-data-primary-text = Realiza una copia de seguridad de tus datos del navegador
 fxa-menu-message-backup-data-secondary-text = Protege automáticamente marcadores, contraseñas y otra información en todos tus dispositivos.
@@ -366,10 +367,28 @@ windows-10-eos-sync-toast-secondary-label = Recordarme más tarde
 
 ## Windows 10 EoS sync messages group 2 feature callouts
 
+windows-10-eos-challenger-callout-title = { -brand-product-name } no viene precargado como otros navegadores de las grandes tecnológicas. Ese es el punto.
+windows-10-eos-challenger-sync-callout-subtitle = Al realizar una copia de seguridad de tus marcadores y contraseñas de { -brand-product-name }, será más fácil llevar el navegador que elegiste a tu próximo dispositivo.
+windows-10-eos-challenger-pin-callout-subtitle = Fija { -brand-shorter-name } a tu barra de tareas para que el navegador que elegiste esté siempre allí cuando lo necesites.
 windows-10-eos-challenger-sync-primary-button = Respaldar { -brand-shorter-name }
 windows-10-eos-challenger-pin-primary-button = Fijar { -brand-shorter-name }
+windows-10-eos-sync-callout-privacy-screen-1-title = { -brand-product-name } bloquea a los criptomineros, rastreadores de redes sociales y lectores de huellas digitales (fingerprinters).
+windows-10-eos-sync-callout-privacy-screen-1-subtitle = Los rastreadores no pueden identificar tu dispositivo ni seguirte a través de la web, porque no se lo permitimos.
+windows-10-eos-sync-callout-privacy-screen-2-title = Protege tus contraseñas y marcadores para tu próximo dispositivo.
+windows-10-eos-sync-callout-privacy-screen-2-subtitle = Hacer una copia de seguridad de { -brand-shorter-name } te permitirá llevar contigo fácilmente tus datos y ajustes de privacidad.
+windows-10-eos-sync-callout-privacy-info-button = Revisa lo que es bloqueado
+windows-10-eos-callout-addons-title = Prueba los complementos: actualizaciones simples, grandes impactos
+windows-10-eos-callout-addons-subtitle = Estas extensiones fueron elegidas para ayudar a mantenerte productivo, protegido y libre de distracciones.
+windows-10-eos-callout-addons-primary-button = Revisa nuestras selecciones
+windows-10-eos-sync-callout-addons-title = No pierdas tus complementos al actualizar desde Windows 10.
+windows-10-eos-sync-callout-addons-subtitle = Sincroniza ahora para que tus complementos de { -brand-product-name } estén siempre disponibles, incluso después de un cambio de dispositivo.
+windows-10-eos-sync-callout-next-button = Siguiente
+windows-10-eos-sync-callout-get-started-button = Empezar
 
 ## Windows 10 EoS Sync messages group 2 toast notification
 
+windows-10-eos-feature-toast-title = ¡Las pestañas verticales y los grupos de pestañas ya están aquí!
+# In English, "dropped" is a colloquial form for released.
+windows-10-eos-feature-toast-subtitle = Por petición popular, { -brand-product-name } acaba de incorporar nuevas funcionalidades para mantener tu navegación optimizada y enfocada.
 windows-10-eos-feature-toast-whats-new-button = Revisa que hay de nuevo
 windows-10-eos-feature-toast-dismiss-button = Ocultar

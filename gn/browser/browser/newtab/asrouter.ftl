@@ -358,6 +358,8 @@ windows-10-eos-sync-toast-secondary-label = Chemomandu’a ag̃ave
 
 ## Windows 10 EoS sync messages group 2 feature callouts
 
+windows-10-eos-challenger-sync-primary-button = Ñongatu jo’a { -brand-shorter-name }
+windows-10-eos-challenger-pin-primary-button = Papyñemi { -brand-shorter-name }
 windows-10-eos-sync-callout-privacy-info-button = Ehecha pe jejokopyre
 windows-10-eos-callout-addons-primary-button = Ehecha ore poravopyre
 windows-10-eos-sync-callout-next-button = Upeigua

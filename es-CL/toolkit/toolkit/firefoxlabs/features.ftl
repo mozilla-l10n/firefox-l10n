@@ -56,3 +56,14 @@ experimental-features-fx-web-apps =
     .label = Añadir sitios a tu barra de tareas
 # “Add tab to taskbar” is found in the tooltip text of `-taskbar-tab-urlbar-button-open`.
 experimental-features-fx-web-apps-description = Abre los sitios que visitas con frecuencia como una aplicación web desde la barra de tareas. Busca el icono "Añadir pestaña a la barra de tareas" a la derecha de la barra de direcciones para abrir ese sitio en una ventana optimizada con todas las protecciones de { -brand-product-name }. <a data-l10n-name="connect">Comparte tus comentarios</a>
+
+## New Tab Productivity Widgets
+
+# Lists Widget
+experimental-features-newtab-widget-lists =
+    .label = Listas en { -firefox-home-brand-name }
+experimental-features-newtab-widget-lists-description = Mantén tu lista de tareas siempre presente al abrir una nueva pestaña. Desde listas de equipaje hasta listas de compras, crea tus planes en { -brand-product-name }. <a data-l10n-name="connect">Comparte tus comentarios</a>
+# Timer Widget
+experimental-features-newtab-widget-timer =
+    .label = Temporizador en { -firefox-home-brand-name }
+experimental-features-newtab-widget-timer-description = Configura un temporizador para mantener tu concentración, úsalo para darte un empujoncito para seguir focalizado o para recordarte que debes recargar energías. <a data-l10n-name="connect">Comparte comentarios</a>

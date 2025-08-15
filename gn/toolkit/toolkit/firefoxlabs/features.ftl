@@ -41,3 +41,9 @@ experimental-features-newtab-sections-follow-block =
 # Firefox Web Apps
 experimental-features-fx-web-apps =
     .label = Embojuaju tenda ne rembiaporãre
+
+## New Tab Productivity Widgets
+
+# Lists Widget
+experimental-features-newtab-widget-lists =
+    .label = { -firefox-home-brand-name } rysýipe
