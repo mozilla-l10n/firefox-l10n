@@ -311,6 +311,7 @@ fxa-menu-message-close-button =
     .title = Mboty
     .aria-label = Mboty
 fxa-menu-message-sign-up-button = Eñemboheraguapy
+fxa-menu-message-sign-in-button = Eñemboheraguapy
 fxa-menu-message-sync-devices-primary-text = Embojuehe opavave mba’e’oka
 fxa-menu-message-sync-devices-secondary-text = Eñemomarandu pya’e — ikatúva techaukaha ha ñe’ẽñemi — tenda eiporuhápe { -brand-short-name }.
 fxa-menu-message-sync-devices-collapsed-text = Embojuehe opavave mba’e’oka

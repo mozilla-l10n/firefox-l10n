@@ -625,3 +625,18 @@ newtab-widget-lists-empty-cta = Die Möglichkeiten sind unendlich. Fügen Sie ei
 # A simple label next to the default list name letting users know this is a new / beta feature
 newtab-widget-lists-label-new =
     .label = Neu
+newtab-widget-task-list-menu-copy = Kopieren
+newtab-widget-lists-menu-edit = Listenname bearbeiten
+newtab-widget-lists-menu-create = Neue Liste erstellen
+newtab-widget-lists-menu-delete = Diese Liste löschen
+newtab-widget-lists-menu-copy = Liste in Zwischenablage kopieren
+newtab-widget-lists-menu-hide = Alle Listen ausblenden
+newtab-widget-lists-menu-learn-more = Weitere Informationen
+
+## Strings for timer productivity widget
+## When the timer ends, a system notification may be shown. Depending on which mode the timer is in, that message would be shown
+
+newtab-widget-timer-mode-break =
+    .label = Pause
+newtab-widget-timer-menu-learn-more = Weitere Informationen
+newtab-promo-card-cta = Weitere Informationen
