@@ -56,3 +56,10 @@ experimental-features-fx-web-apps =
     .label = Legg til nettsteder på oppgavelinjen
 # “Add tab to taskbar” is found in the tooltip text of `-taskbar-tab-urlbar-button-open`.
 experimental-features-fx-web-apps-description = Åpne nettsteder du besøker ofte som en nettapp fra oppgavelinjen. Se etter ikonet «Legg til fane i oppgavelinjen» til høyre for adressefeltet for å starte nettstedet i et strømlinjeformet vindu med alle { -brand-product-name } sine beskyttelser. <a data-l10n-name="connect">Del tilbakemelding</a>
+
+## New Tab Productivity Widgets
+
+# Lists Widget
+experimental-features-newtab-widget-lists =
+    .label = Lister på { -firefox-home-brand-name }
+experimental-features-newtab-widget-lists-description = Ha gjøremålslisten din i tankene når du åpner en ny fane. Fra pakkelister til handlelister, lag planene dine i { -brand-product-name }. <a data-l10n-name="connect">Del tilbakemeldinger</a>
