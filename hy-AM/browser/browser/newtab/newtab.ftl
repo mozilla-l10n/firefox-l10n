@@ -88,6 +88,14 @@ newtab-confirm-delete-history-p2 = Այս գործողությունը չի կա
 
 newtab-topsite-sponsored = Հովանավորված
 
+## Label used by screen readers for pinned top sites
+
+# Variables:
+#   $title (string) - The label or hostname of the site.
+topsite-label-pinned =
+    .aria-label = { $title } (ամրացված)
+    .title = { $title }
+
 ## Context Menu - Action Tooltips.
 
 # General tooltip for context menus.
@@ -131,6 +139,7 @@ newtab-menu-section-block = Արգելափակել
 
 ## Context menu options for sponsored stories and new ad formats on New Tab.
 
+newtab-menu-manage-sponsored-content = Կառավարեք հովանավորված բովանդակությունը
 newtab-menu-report-this-ad = Հաղորդել այս գովազդի մասին
 
 ## Message displayed in a modal window to explain privacy and provide context for sponsored content.
@@ -305,6 +314,15 @@ newtab-custom-recent-toggle =
 newtab-custom-weather-toggle =
     .label = Եղանակ
     .description = Այսօրվա կանխատեսումը մի հայացքով
+newtab-custom-widget-weather-toggle =
+    .label = Եղանակ
+newtab-custom-widget-trending-search-toggle =
+    .label = Թրենդային որոնումներ
+newtab-custom-widget-lists-toggle =
+    .label = Ցանկեր
+newtab-custom-widget-timer-toggle =
+    .label = ժամաչափ
+newtab-custom-widget-section-title = Վիջեթներ
 newtab-custom-close-button = Փակել
 newtab-custom-settings = Կառավարել լրացուցիչ կարգավորումները
 

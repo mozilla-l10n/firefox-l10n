@@ -263,6 +263,7 @@ fxa-menu-message-close-button =
     .title = Փակել
     .aria-label = Փակել
 fxa-menu-message-sign-up-button = Գրանցվել
+fxa-menu-message-sign-in-button = Մուտք գործել
 fxa-menu-message-sync-devices-primary-text = Համաժամացրեք ձեր բոլոր սարքերը
 fxa-menu-message-sync-devices-collapsed-text = Համաժամացրեք ձեր բոլոր սարքերը
 fxa-menu-message-backup-data-collapsed-text = Պահուստավորել դիտարկիչի տվյալները

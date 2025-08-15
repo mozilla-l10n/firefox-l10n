@@ -679,6 +679,8 @@ urlbar-go-button =
     .tooltiptext = Գնալ Հասցեի Տողում նշված հասցեով
 urlbar-page-action-button =
     .tooltiptext = Էջի գործույթները
+urlbar-revert-button =
+    .tooltiptext = Ցուցադրել հասցեն տեղորոշման վահանակում
 
 ## Action text shown in urlbar results, usually appended after the search
 ## string or the url, like "result value - action text".
@@ -788,6 +790,10 @@ urlbar-result-weather-provider-sponsored = { $provider } ∙ Հովանավոր�
 
 # This string is shown as title when Market suggestion are disabled.
 urlbar-result-market-opt-in-title = Ստացեք ֆոնդային շուկայի տվյալները անմիջապես որոնման դաշտում
+# This string is shown as button to activate online when realtime suggestion are disabled.
+urlbar-result-realtime-opt-in-allow = Ցուցադրել առաջարկներ
+# This string is shown in split button to dismiss activation the Realtime suggestion.
+urlbar-result-realtime-opt-in-not-now = Ոչ հիմա
 urlbar-result-realtime-opt-in-dismiss = Բաց թողնել
 urlbar-result-realtime-opt-in-dismiss-all =
     .label = Չցուցադրել այս առաջարկները
@@ -826,6 +832,8 @@ urlbar-searchmode-actions =
     .label = Գործողություններ
 urlbar-searchmode-exit-button =
     .tooltiptext = Փակել
+urlbar-searchmode-default =
+    .tooltiptext = Սկզբնադիր որոնիչ
 # Label shown on the top of Searchmode Switcher popup. After this label, the
 # available search engines will be listed.
 urlbar-searchmode-popup-description = Այս անգամ որոնել հետևյալով՝
@@ -1160,6 +1168,10 @@ tabs-toolbar-list-all-tabs =
     .label = Ցուցադրել բոլոր էջերը
     .tooltiptext = Ցուցադրել բոլոր էջերը
 
+## Drop indicator text for pinned tabs when no tabs are pinned.
+
+pinned-tabs-drop-indicator = Տեղադրեք ներդիրը այստեղ՝ ամրացնելու համար
+
 ## Infobar shown at startup to suggest session-restore
 
 # <img data-l10n-name="icon"/> will be replaced by the application menu icon
@@ -1258,6 +1270,10 @@ popup-notification-addon-install-unsigned =
     .value = (Չստուգված)
 popup-notification-xpinstall-prompt-learn-more = Իմացեք ավելին հավելումների ապահով տեղակայման մասին
 popup-notification-xpinstall-prompt-block-url = Դիտել մանրամասները
+# Note: Access key is set to p to match "private" in the corresponding localized label.
+popup-notification-addon-privatebrowsing-checkbox2 =
+    .label = Թույլատրել ընդլայնման աշխատանքը գաղտնի դիտարկմամբ
+    .accesskey = p
 
 ## Pop-up warning
 
@@ -1315,12 +1331,47 @@ trustpanel-etp-label-disabled = Ուժեղացված հետագծման պաշտ
 trustpanel-connection-label-secure = Կապակցումն ապահով է
 trustpanel-connection-label-insecure = Կապակցումն անվտանգ չէ
 trustpanel-header-enabled = { -brand-product-name }--ը պաշտպանված է
+trustpanel-header-disabled = Դուք անջատեցիք պաշտպանությունը
+trustpanel-clear-cookies-button = Մաքրել թխուկները և կայքի տվյալները
+trustpanel-privacy-link = Գաղտնիության կարգավորումներ
 trustpanel-clear-cookies-subview-button-clear = Մաքրել
 trustpanel-clear-cookies-subview-button-cancel = Չեղարկել
+# Variables
+#  $host (String): the hostname of the site that is being displayed.
+trustpanel-site-information-header =
+    .title = Միացման անվտանգություն { $host }-ի համար
+trustpanel-connection-secure = Դուք անվտանգ կապակցվել եք այս կայքի հետ։
+trustpanel-connection-not-secure = Այս կայքի հետ դուք կապակցված եք անապահով կերպով։
 trustpanel-siteinformation-morelink = Մանրամասն տեղեկություններ
 trustpanel-blocker-see-all = Տեսնել բոլորը
+# Variables
+#  $host (String): the hostname of the site that is being displayed.
+trustpanel-blocker-header =
+    .title = Հետևողականության պաշտպանություն { $host }-ի համար
 
 ## Variables
 ##  $count (String): the number of trackers blocked.
 
+trustpanel-blocker-section-header =
+    { $count ->
+        [one] <span>{ $count } </span> Հետագծիչ արգելափակված է այս կայքում
+       *[other] <span>{ $count } </span> Հետագծիչներ արգելափակված են այս կայքում
+    }
+trustpanel-list-label-tracking-content = Հետագծվող բովանդակություն
+trustpanel-list-label-fingerprinter =
+    { $count ->
+        [one] { $count } մատնահետք
+       *[other] { $count } մատնահետքեր
+    }
+trustpanel-list-label-social-tracking =
+    { $count ->
+        [one] { $count } սոցիալական մեդիա հետագծիչ
+       *[other] { $count } սոցիալական մեդիա հետագծիչներ
+    }
+trustpanel-list-label-cryptominer =
+    { $count ->
+        [one] { $count } Կրիպտոմայներ
+       *[other] { $count } Կրիպտոմայներներ
+    }
+trustpanel-tracking-cookies-tab-list-header = Հետևյալ կայքերը փորձում են հետագծել ձեզ՝
 trustpanel-tracking-content-tab-list-header = Հետևյալ կայքերը փորձում են հետևել ձեզ՝

@@ -39,6 +39,18 @@ genai-input-ask-provider =
     .placeholder = Հարցրեք { $provider }-ին…
 genai-shortcuts-hide =
     .label = Թաքցնել չաթբոտի դյուրանցումը
+genai-menu-choose-chatbot =
+    .label = Ընտրեք ԱԲ չաթ բոտ
+genai-menu-ask-generic-2 =
+    .label = Հարցնել ԱԲ չաթ բոտին
+    .accesskey = h
+# $provider (string) - name of the provider
+genai-menu-ask-provider-2 =
+    .label = Հարցնել { $provider }-ին
+    .accesskey = h
+genai-menu-no-provider-2 =
+    .label = Հարցնել ԱԲ չաթ բոտին
+    .accesskey = h
 
 ## Chatbot header
 
@@ -63,6 +75,10 @@ genai-options-hide-shortcut =
 genai-options-about-chatbot =
     .label = ԱԲ չաթբոտերի մասին { -brand-short-name }-ում
 
+## Chatbot footer
+
+genai-page-button-summarize = Ամփոփել էջը
+
 ## Chatbot onboarding
 
 genai-onboarding-header = Ամփոփեք, մտագրոհ և ավելին դիտարկման ընթացքում
@@ -70,6 +86,8 @@ genai-onboarding-header = Ամփոփեք, մտագրոհ և ավելին դիտ�
 genai-onboarding-description = Ընտրեք ԱԲ չաթբոտ՝ օգտագործելու համար { -brand-short-name } կողագոտիում: Մենք կցուցադրենք մանրամասներ յուրաքանչյուր չաթբոտի մասին, երբ ընտրեք այն: Փոխանջատեք ցանկացած ժամանակ: <a data-l10n-name="learn-more">Իմանալ ավելին</a>
 genai-onboarding-primary = Շարունակել
 genai-onboarding-secondary = Փակել
+genai-onboarding-claude-tooltip =
+    .title = Anthropic Claude
 genai-onboarding-claude-learn = Իմացեք ավելին Claude-ի մասին
 genai-onboarding-chatgpt-tooltip =
     .title = ChatGPT
@@ -82,11 +100,14 @@ genai-onboarding-gemini-tooltip =
 genai-onboarding-gemini-learn = Իմանալ ավելին Gemini-ի մասին
 genai-onboarding-huggingchat-tooltip =
     .title = HuggingChat
+genai-onboarding-huggingchat-learn = Իմացեք ավելին HuggingChat-ի մասին
 genai-onboarding-lechat-tooltip =
     .title = Le Chat Mistral
 genai-onboarding-lechat-learn = Իմացեք ավելին Le Chat-ի մասին
+genai-onboarding-select-header = Ընտրեք տեքստ՝ առաջարկներ տեսնելու համար
 genai-onboarding-select-primary = Սկսել զրուցել
 genai-chatbot-contextual-button = Ընտրեք չաթ բոտ
+genai-chatbot-summarize-button = Ամփոփել էջը
 
 ## Chatbot onboarding choices
 ## These describe features/capabilities of chatbot providers. These are not buttons/actions.

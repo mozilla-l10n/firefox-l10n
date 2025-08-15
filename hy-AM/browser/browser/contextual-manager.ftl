@@ -87,6 +87,14 @@ contextual-manager-passwords-export-file-picker-csv-filter-title =
         [macos] CSV փաստաթուղթ
        *[other] CSV նիշք
     }
+# Confirm the removal of all saved passwords
+#   $total (number) - Total number of passwords
+contextual-manager-passwords-remove-all-title =
+    { $total ->
+        [1] Հեռացնե՞լ գաղտնաբառը:
+        [one] Հեռացնե՞լ բոլոր { $total } գաղտնաբառերը:
+       *[other] Հեռացնե՞լ բոլոր { $total } գաղտնաբառերը:
+    }
 # Checkbox label to confirm the removal of saved passwords
 #   $total (number) - Total number of passwords
 contextual-manager-passwords-remove-all-confirm =
@@ -122,6 +130,19 @@ contextual-manager-passwords-password-already-exists-error-button = Անցնել
 contextual-manager-passwords-update-password-success-heading =
     .heading = Գաղտնաբառը պահվել է
 contextual-manager-passwords-update-password-success-button = Պատրաստ է
+contextual-manager-passwords-update-username-success-heading-2 =
+    .heading = Օգտվողի անունն ավելացվեց
+contextual-manager-passwords-update-username-success-heading =
+    .heading = Օգտվողի անունը պահվեց
+# Message to confirm successful removal of a password/passwords.
+#   $total (number) - Total number of passwords
+contextual-manager-passwords-delete-password-success-heading =
+    .heading =
+        { $total ->
+            [1] Գաղտնաբառը հեռացվեց
+            [one] Գաղտնաբառերը հեռացվեցին
+           *[other] Գաղտնաբառերը հեռացվեցին
+        }
 contextual-manager-passwords-delete-password-success-button = Պատրաստ է
 #
 # Radiobutton label to display total number of passwords
@@ -145,11 +166,14 @@ contextual-manager-passwords-alert-back-button =
 contextual-manager-passwords-alert-list =
     .aria-label = Ծանուցումների ցանկ
 contextual-manager-passwords-change-password-button = Փոխել գաղտնաբառը
+contextual-manager-passwords-title = Գաղտնաբառեր
 
 ## Login Form
 
 contextual-manager-passwords-create-label =
     .label = Ավելացնել գաղտնաբառ
+contextual-manager-passwords-edit-label =
+    .label = Խմբագրել գաղտնաբառը
 contextual-manager-passwords-remove-label =
     .title = Հեռացնել գաղտնաբառը
 
@@ -217,4 +241,6 @@ contextual-manager-passwords-discard-changes-heading-and-message =
     .message = Ձեր փոփոխությունները չեն պահվի:
 contextual-manager-passwords-discard-changes-close-button = Փակել
 contextual-manager-passwords-discard-changes-go-back-button = Գնալ ետ
+# This string informs the user their primary password is used to authenticate and access their passwords
+contextual-manager-primary-password-reauth-button = Մուտքագրել Հիմնական գաղտնաբառը
 contextual-manager-primary-password-learn-more-link = Իմանալ ավելին
