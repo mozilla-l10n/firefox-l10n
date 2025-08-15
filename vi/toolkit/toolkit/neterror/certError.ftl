@@ -164,6 +164,7 @@ redirectLoop-title = Trang này không chuyển hướng đúng cách
 unknownSocketType-title = Nhận được phản hồi lạ từ máy chủ
 nssFailure2-title = Không thể kết nối an toàn
 csp-xfo-error-title = { -brand-short-name } không thể mở trang này
+corruptedContentErrorv2-title = Lỗi nội dung không toàn vẹn
 corruptedContentError-title = Lỗi nội dung bị hỏng
 sslv3Used-title = Không thể kết nối một cách an toàn
 inadequateSecurityError-title = Kết nối của bạn không an toàn
