@@ -1376,6 +1376,7 @@ trustpanel-etp-description-enabled = Oĩrõ ndoikoporãiva ko tendápe g̃uarã,
 trustpanel-connection-label-secure = Eike tekorosãme
 trustpanel-connection-label-insecure = Eike tekorosã’ỹme
 trustpanel-header-enabled = { -brand-product-name } oma’ẽmeme
+trustpanel-description-enabled = Eñemo’ãma. Rohecháramo peteĩ mba’e, romombe’úta ndéve.
 trustpanel-header-disabled = Emboguéma umi ñemo’ãha
 trustpanel-clear-cookies-button = Emboguete kookie ha mba’ekuaarã tendágui
 trustpanel-privacy-link = Ñemigua ñemboheko
