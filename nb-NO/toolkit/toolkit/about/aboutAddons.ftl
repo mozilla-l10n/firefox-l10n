@@ -290,7 +290,7 @@ colorway-removal-notice-message =
         på tilleggssiden.
 colorway-removal-notice-learn-more = Les mer
 colorway-removal-notice-button = Få oppdaterte fargesammensettingstemaer
-privacy-policy = Personvernerklæring
+privacy-policy = Personvernpraksis
 # Refers to the author of an add-on, shown below the name of the add-on.
 # Variables:
 #   $author (string) - The name of the add-on developer.

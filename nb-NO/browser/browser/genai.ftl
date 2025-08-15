@@ -5,12 +5,12 @@
 
 ## Generative AI (GenAI) Settings section
 
-genai-settings-chat-chatgpt-links = Ved å velge ChatGPT samtykker du i OpenAIs <a data-l10n-name="link1">bruksvilkår</a> og <a data-l10n-name="link2">personvernerklæring</a>.
-genai-settings-chat-claude-links = Ved å velge Anthropic Claude godtar du Anthropics <a data-l10n-name="link1">bruksvilkår for forbrukere</a>, <a data-l10n-name="link2">bruksbestemmelser</a> og <a data-l10n-name="link3">personvernerklæring</a>.
+genai-settings-chat-chatgpt-links = Ved å velge ChatGPT samtykker du i OpenAIs <a data-l10n-name="link1">bruksvilkår</a> og <a data-l10n-name="link2">personvernpraksis</a>.
+genai-settings-chat-claude-links = Ved å velge Anthropic Claude godtar du Anthropics <a data-l10n-name="link1">bruksvilkår for forbrukere</a>, <a data-l10n-name="link2">bruksbestemmelser</a> og <a data-l10n-name="link3">personvernpraksis</a>.
 genai-settings-chat-copilot-links = Ved å velge Copilot godtar du <a data-l10n-name="link1">vilkårene for Copilot AI-opplevelser</a> og <a data-l10n-name="link2">Microsofts personvernerklæring</a>.
 genai-settings-chat-gemini-links = Ved å velge Google Gemini godtar du <a data-l10n-name="link1">Googles bruksvilkår</a>, <a data-l10n-name="link2">retningslinjene for forbudt bruk av generativ AI</a> og <a data-l10n-name="link3">personvernerklæringen for Gemini-apper</a>.
-genai-settings-chat-huggingchat-links = Ved å velge HuggingChat godtar du <a data-l10n-name="link1">HuggingChats personvernerklæring</a> og <a data-l10n-name="link2">personvernerklæringen for Hugging Face</a>.
-genai-settings-chat-lechat-links = Ved å velge Le Chat Mistral godtar du Mistral AIs <a data-l10n-name="link1">bruksvilkår</a> og <a data-l10n-name="link2">personvernerklæring</a>.
+genai-settings-chat-huggingchat-links = Ved å velge HuggingChat godtar du <a data-l10n-name="link1">HuggingChats personvernpraksis</a> og <a data-l10n-name="link2">personvernpraksisen for Hugging Face</a>.
+genai-settings-chat-lechat-links = Ved å velge Le Chat Mistral godtar du Mistral AIs <a data-l10n-name="link1">bruksvilkår</a> og <a data-l10n-name="link2">personvernpraksis</a>.
 genai-settings-chat-localhost-links = Ta med din egen private lokale samtalerobot som <a data-l10n-name="link1">llamafile</a> fra { -vendor-short-name }s innovasjonsgruppe.
 
 ## Chatbot prompts
