@@ -1437,5 +1437,20 @@ trustpanel-social-tracking-blocking-tab-header =
         [one] { -brand-product-name } ojoko { $count } rapykuehoha ava ñandutietagua
        *[other] { -brand-product-name } ojoko { $count } rapykuehoha ava ñandutietagua
     }
+trustpanel-social-tracking-not-blocking-tab-header =
+    { $count ->
+        [one] { -brand-product-name } omoneĩ { $count } rapykuehoha ava ñandutietagua
+       *[other] { -brand-product-name } omoneĩ { $count } rapykuehoha ava ñandutietagua
+    }
 trustpanel-social-tracking-tab-list-header = Ko’ã tenda ha’ete nderapykuehoséva:
+trustpanel-tracking-cookies-blocking-tab-header =
+    { $count ->
+        [one] { -brand-product-name } ojoko { $count } rapykuehoha kookie ava ñandutietagua
+       *[other] { -brand-product-name } ojoko { $count } rapykuehoha kookie ava ñandutietagua
+    }
+trustpanel-tracking-cookies-not-blocking-tab-header =
+    { $count ->
+        [one] { -brand-product-name } omoneĩ { $count } rapykuehoha kookie ava ñandutietagua
+       *[other] { -brand-product-name } omoneĩ { $count } rapykuehoha kookie ava ñandutietagua
+    }
 trustpanel-tracking-cookies-tab-list-header = Ko’ã tenda ha’ete nderapykuehoséva:

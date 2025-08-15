@@ -611,7 +611,6 @@ newtab-trending-searches-title = Recherches populaires
 newtab-widget-lists-default-list-title = Liste de tâches
 # The placeholder value of the name field for a newly created list
 newtab-widget-lists-default-list-new = Nouvelle liste
-newtab-widget-lists-new-label = Nouveau
 # When tasks have been previous marked as complete, they will appear in their own separate list beneath incomplete items
 # Variables:
 #   $number (number) - Amount of list items marked complete

@@ -621,7 +621,6 @@ newtab-widget-lists-default-list-title = Takenlijst
 newtab-widget-lists-default-list-new = Nieuwe lijst
 # "Add one" means adding a new task to the list (e.g., "Walk the dog")
 newtab-widget-lists-empty-cta = De mogelijkheden zijn eindeloos. Voeg er een toe.
-newtab-widget-lists-new-label = Nieuw
 # When tasks have been previous marked as complete, they will appear in their own separate list beneath incomplete items
 # Variables:
 #   $number (number) - Amount of list items marked complete

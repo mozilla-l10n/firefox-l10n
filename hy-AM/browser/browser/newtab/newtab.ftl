@@ -530,7 +530,6 @@ newtab-trending-searches-learn-more = Իմանալ ավելին
 newtab-widget-lists-default-list-title = Առաջադրանքների ցանկ
 # The placeholder value of the name field for a newly created list
 newtab-widget-lists-default-list-new = Նոր ցանկ
-newtab-widget-lists-new-label = Նոր
 newtab-widget-task-list-menu-copy = Պատճենել
 newtab-widget-lists-menu-edit = Խմբագրել ցանկի անունը
 newtab-widget-lists-menu-create = Ստեղծել նոր ցանկ

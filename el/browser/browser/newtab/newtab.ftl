@@ -621,7 +621,6 @@ newtab-widget-lists-default-list-title = Λίστα εργασιών
 newtab-widget-lists-default-list-new = Νέα λίστα
 # "Add one" means adding a new task to the list (e.g., "Walk the dog")
 newtab-widget-lists-empty-cta = Οι δυνατότητες είναι απεριόριστες. Προσθέστε μια νέα.
-newtab-widget-lists-new-label = Νέα
 # When tasks have been previous marked as complete, they will appear in their own separate list beneath incomplete items
 # Variables:
 #   $number (number) - Amount of list items marked complete

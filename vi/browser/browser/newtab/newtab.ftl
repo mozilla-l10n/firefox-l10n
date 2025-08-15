@@ -620,7 +620,6 @@ newtab-widget-lists-default-list-title = Danh sách nhiệm vụ
 newtab-widget-lists-default-list-new = Danh sách mới
 # "Add one" means adding a new task to the list (e.g., "Walk the dog")
 newtab-widget-lists-empty-cta = Khả năng là vô tận. Hãy thêm một cái.
-newtab-widget-lists-new-label = Mới
 # When tasks have been previous marked as complete, they will appear in their own separate list beneath incomplete items
 # Variables:
 #   $number (number) - Amount of list items marked complete

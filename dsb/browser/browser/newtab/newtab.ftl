@@ -623,7 +623,6 @@ newtab-widget-lists-default-list-title = Lisćiny nadawkow
 newtab-widget-lists-default-list-new = Nowa lisćina
 # "Add one" means adding a new task to the list (e.g., "Walk the dog")
 newtab-widget-lists-empty-cta = Móžnosći su njelicne. Pśidajśo jaden nadawk.
-newtab-widget-lists-new-label = Nowy
 # When tasks have been previous marked as complete, they will appear in their own separate list beneath incomplete items
 # Variables:
 #   $number (number) - Amount of list items marked complete
