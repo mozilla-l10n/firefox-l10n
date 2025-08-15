@@ -316,8 +316,10 @@ fxa-menu-message-close-button =
     .aria-label = Lukk
 fxa-menu-message-sign-up-button = Registrer deg
 fxa-menu-message-sign-in-button = Logg inn
+fxa-menu-message-sync-button = Start synkronisering
 fxa-menu-message-sync-devices-primary-text = Synkroniser alle dine enheter
 fxa-menu-message-sync-devices-secondary-text = Få informasjonen din umiddelbart — som bokmerker og passord — overalt hvor du bruker { -brand-short-name }.
+fxa-menu-message-sync-devices-secondary-text2 = Få umiddelbart tilgang til bokmerker, passord og mer — overalt der du er logget inn i { -brand-short-name }.
 fxa-menu-message-sync-devices-collapsed-text = Synkroniser alle dine enheter
 fxa-menu-message-backup-data-primary-text = Sikkerhetskopier din nettleserdata
 fxa-menu-message-backup-data-secondary-text = Beskytt bokmerker, passord og annen informasjon automatisk på alle enhetene dine.
@@ -361,3 +363,31 @@ windows-10-eos-sync-toast-title = Oppgraderer du til Windows 11? Ikke mist bokme
 windows-10-eos-sync-toast-subtitle = Sikkerhetskopier dataene dine slik at { -brand-short-name } er klar til bruk når som helst, på denne PC-en eller den neste.
 windows-10-eos-sync-toast-primary-label = Kom i gang
 windows-10-eos-sync-toast-secondary-label = Minn meg på det senere
+
+## Windows 10 EoS sync messages group 2 feature callouts
+
+windows-10-eos-challenger-callout-title = { -brand-product-name } er ikke forhåndsinstallert slik som andre nettlesere fra de store teknologigigantene. Det er poenget.
+windows-10-eos-challenger-sync-callout-subtitle = Når du sikkerhetskopierer bokmerkene og passordene dine fra { -brand-product-name }, er det enklere å ta med deg nettleseren du valgte til den neste enheten din.
+windows-10-eos-challenger-pin-callout-subtitle = Fest { -brand-shorter-name } til oppgavelinjen, slik at nettleseren du valgte alltid er der når du trenger den.
+windows-10-eos-challenger-sync-primary-button = Sikkerhetskopier { -brand-shorter-name }
+windows-10-eos-challenger-pin-primary-button = Fest { -brand-shorter-name }
+windows-10-eos-sync-callout-privacy-screen-1-title = { -brand-product-name } blokkerer kryptoutvinnere, sporere for sosiale medier og fingeravtrykksporere.
+windows-10-eos-sync-callout-privacy-screen-1-subtitle = Sporere kan ikke identifisere enheten din eller følge deg på nettet — fordi vi ikke lar dem gjøre det.
+windows-10-eos-sync-callout-privacy-screen-2-title = Sikre passordene og bokmerkene dine for den neste enheten din.
+windows-10-eos-sync-callout-privacy-screen-2-subtitle = Sikkerhetskopiering av { -brand-shorter-name } gjør det enkelt å ta med seg dataene og personverninnstillingene dine.
+windows-10-eos-sync-callout-privacy-info-button = Se hva som er blokkert
+windows-10-eos-callout-addons-title = Prøv tillegg: enkle oppgraderinger, stor effekt
+windows-10-eos-callout-addons-subtitle = Disse utvidelsene ble valgt for å hjelpe deg med å holde deg produktiv, beskyttet og distraksjonsfri.
+windows-10-eos-callout-addons-primary-button = Se våre valg
+windows-10-eos-sync-callout-addons-title = Ikke mist tilleggene dine når du oppgraderer fra Windows 10.
+windows-10-eos-sync-callout-addons-subtitle = Synkroniser nå, slik at { -brand-product-name }-tilleggene dine alltid er tilgjengelige, selv etter at du har byttet enhet.
+windows-10-eos-sync-callout-next-button = Neste
+windows-10-eos-sync-callout-get-started-button = Kom i gang
+
+## Windows 10 EoS Sync messages group 2 toast notification
+
+windows-10-eos-feature-toast-title = Vertikale faner og fanegrupper er her!
+# In English, "dropped" is a colloquial form for released.
+windows-10-eos-feature-toast-subtitle = Etter populær forespørsel har { -brand-product-name } nettopp lansert nye funksjoner for å gjøre nettlesingen din strømlinjeformet og fokusert.
+windows-10-eos-feature-toast-whats-new-button = Se hva som er nytt
+windows-10-eos-feature-toast-dismiss-button = Ignorer

@@ -340,6 +340,10 @@ newtab-custom-widget-lists-toggle =
 newtab-custom-widget-timer-toggle =
     .label = Nedtelling
 newtab-custom-widget-section-title = Widgeter
+# Tooltip for close button
+newtab-custom-close-menu-button =
+    .title = Lukk
+    .aria-label = Lukk meny
 newtab-custom-close-button = Lukk
 newtab-custom-settings = Behandle flere innstillinger
 
@@ -620,6 +624,11 @@ newtab-widget-lists-default-list-title = Oppgaveliste
 newtab-widget-lists-default-list-new = Ny liste
 # "Add one" means adding a new task to the list (e.g., "Walk the dog")
 newtab-widget-lists-empty-cta = Mulighetene er uendelige. Legg til én.
+# A simple label next to the default list name letting users know this is a new / beta feature
+newtab-widget-lists-label-new =
+    .label = Ny
+newtab-widget-lists-label-beta =
+    .label = Beta
 # When tasks have been previous marked as complete, they will appear in their own separate list beneath incomplete items
 # Variables:
 #   $number (number) - Amount of list items marked complete
@@ -660,6 +669,10 @@ newtab-widget-timer-menu-notifications = Slå av varsler
 newtab-widget-timer-menu-notifications-on = Slå på varsler
 newtab-widget-timer-menu-hide = Skjul nedteller
 newtab-widget-timer-menu-learn-more = Les mer
+newtab-widget-keep-scrolling = Rull for mer
 newtab-promo-card-title = Støtt { -brand-product-name }
 newtab-promo-card-body = Våre sponsorer støtter vårt oppdrag om å bygge et bedre internett
 newtab-promo-card-cta = Les mer
+newtab-promo-card-dismiss-button =
+    .title = Avvis
+    .aria-label = Avvis
