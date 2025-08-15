@@ -618,3 +618,44 @@ newtab-trending-searches-title = Jeheka ojejapovéva
 ## Strings for task / to-do list productivity widget
 
 newtab-widget-lists-default-list-title = Tembiaporã rysýi
+# The placeholder value of the name field for a newly created list
+newtab-widget-lists-default-list-new = Tysýi pyahu
+# "Add one" means adding a new task to the list (e.g., "Walk the dog")
+newtab-widget-lists-empty-cta = Eha’ãkuaa heta jey. Embojuaju peteĩ.
+# A simple label next to the default list name letting users know this is a new / beta feature
+newtab-widget-lists-label-new =
+    .label = Pyahu
+newtab-widget-lists-label-beta =
+    .label = Beta
+# When tasks have been previous marked as complete, they will appear in their own separate list beneath incomplete items
+# Variables:
+#   $number (number) - Amount of list items marked complete
+newtab-widget-lists-completed-list = Opapyre ({ $number })
+newtab-widget-task-list-menu-copy = Monguatia
+newtab-widget-lists-menu-edit = Embosako’i tysýi réra
+newtab-widget-lists-menu-learn-more = Eikuaave
+newtab-widget-lists-input-placeholder = Embojuaju porurã
+newtab-widget-lists-input-menu-delete = Mboguete
+newtab-widget-lists-input-menu-edit = Mbosako’i
+
+## Strings for timer productivity widget
+## When the timer ends, a system notification may be shown. Depending on which mode the timer is in, that message would be shown
+
+newtab-widget-timer-notification-title = Aravojere
+newtab-widget-timer-mode-focus =
+    .label = Focus
+newtab-widget-timer-mode-break =
+    .label = Pytu’u
+newtab-widget-timer-play =
+    .title = Mbopu
+newtab-widget-timer-pause =
+    .title = Mombyta
+newtab-widget-timer-reset =
+    .title = Mbojevyjey
+newtab-widget-timer-menu-learn-more = Kuaave
+newtab-promo-card-title = Eipytyvõ { -brand-product-name }
+newtab-promo-card-body = Ore ykekohára oipytyvõ romombareteve hag̃ua ñanduti rogue
+newtab-promo-card-cta = Eikuaave
+newtab-promo-card-dismiss-button =
+    .title = Mboyke
+    .aria-label = Mboyke

@@ -369,3 +369,16 @@ windows-10-eos-sync-toast-title = Na Windows 11 aktualizować? Njezhubjejće zap
 windows-10-eos-sync-toast-subtitle = Zawěsćće swoje daty, zo by { -brand-short-name } móhł je kóždy čas wužiwać, na tutym PC abo na přichodnym.
 windows-10-eos-sync-toast-primary-label = Prěnje kroki
 windows-10-eos-sync-toast-secondary-label = Pozdźišo dopomnić
+
+## Windows 10 EoS sync messages group 2 feature callouts
+
+windows-10-eos-challenger-sync-primary-button = { -brand-shorter-name } zawěsćić
+windows-10-eos-challenger-pin-primary-button = { -brand-shorter-name } připjeć
+windows-10-eos-sync-callout-privacy-info-button = Hladajće, štož so blokuje
+windows-10-eos-sync-callout-next-button = Dale
+windows-10-eos-sync-callout-get-started-button = Prěnje kroki
+
+## Windows 10 EoS Sync messages group 2 toast notification
+
+windows-10-eos-feature-toast-whats-new-button = Čitajće, štož je nowe
+windows-10-eos-feature-toast-dismiss-button = Zaćisnyć

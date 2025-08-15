@@ -343,6 +343,10 @@ newtab-custom-widget-lists-toggle =
 newtab-custom-widget-timer-toggle =
     .label = Časoměr
 newtab-custom-widget-section-title = Asistenty
+# Tooltip for close button
+newtab-custom-close-menu-button =
+    .title = Začinić
+    .aria-label = Meni začinić
 newtab-custom-close-button = Začinić
 newtab-custom-settings = Dalše nastajenja rjadować
 
@@ -623,6 +627,11 @@ newtab-widget-lists-default-list-title = Lisćiny nadawkow
 newtab-widget-lists-default-list-new = Nowa lisćina
 # "Add one" means adding a new task to the list (e.g., "Walk the dog")
 newtab-widget-lists-empty-cta = Móžnosće su njeličomne. Přidajće jedyn nadawk.
+# A simple label next to the default list name letting users know this is a new / beta feature
+newtab-widget-lists-label-new =
+    .label = Nowy
+newtab-widget-lists-label-beta =
+    .label = Beta
 # When tasks have been previous marked as complete, they will appear in their own separate list beneath incomplete items
 # Variables:
 #   $number (number) - Amount of list items marked complete
@@ -666,3 +675,6 @@ newtab-widget-timer-menu-learn-more = Dalše informacije
 newtab-promo-card-title = { -brand-product-name } podpěrać
 newtab-promo-card-body = Naši sponsorojo našu misiju podpěruja, zo bychu lěpši web tworili
 newtab-promo-card-cta = Dalše informacije
+newtab-promo-card-dismiss-button =
+    .title = Zaćisnyć
+    .aria-label = Zaćisnyć
