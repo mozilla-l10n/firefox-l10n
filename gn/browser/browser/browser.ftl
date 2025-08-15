@@ -1378,6 +1378,7 @@ trustpanel-connection-label-insecure = Eike tekorosã’ỹme
 trustpanel-header-enabled = { -brand-product-name } oma’ẽmeme
 trustpanel-description-enabled = Eñemo’ãma. Rohecháramo peteĩ mba’e, romombe’úta ndéve.
 trustpanel-header-disabled = Emboguéma umi ñemo’ãha
+trustpanel-description-disabled = { -brand-product-name } ndoikoihína ko’ag̃aite. Emyandy jey opaite ñemo’ãha.
 trustpanel-clear-cookies-button = Emboguete kookie ha mba’ekuaarã tendágui
 trustpanel-privacy-link = Ñemigua ñemboheko
 # Variables
@@ -1403,6 +1404,7 @@ trustpanel-blocker-header =
 ##  $count (String): the number of trackers blocked.
 
 trustpanel-blocked-header = { -brand-product-name } ojoko ko’ã mba’e ndéve g̃uarã:
+trustpanel-tracking-header = { -brand-product-name } omoneĩ ko’ã mba’e tendakuéra oikoite hag̃ua:
 trustpanel-insecure-section-header = Nde jeike nahekorosãihína
 trustpanel-list-label-tracking-content = Tetepy rapykuehoha
 trustpanel-list-label-fingerprinter =
