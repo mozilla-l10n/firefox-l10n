@@ -66,6 +66,7 @@ inactive-css-cue-pseudo-element-not-supported = ::cue 偽元素不支援 <strong
 inactive-css-text-wrap-balance-lines-exceeded = 由於行數超過 { $lineCount } 行，<strong>{ $property }</strong> 對此元素沒有影響。
 inactive-css-text-wrap-balance-fragmented = 由於是分段的元素（內容拆分在不同欄或頁面中），<strong>{ $property }</strong> 對此元素沒有影響。
 inactive-css-no-width-height = 由於無法設定寬度與高度，<strong>{ $property }</strong> 對此元素沒有影響。
+inactive-css-no-principal-box = 由於不會建立 principal box，<strong>{ $property }</strong> 對此元素沒有影響。
 
 ## In the Rule View when a CSS property cannot be successfully applied we display
 ## an icon. When this icon is hovered this message is displayed to explain how

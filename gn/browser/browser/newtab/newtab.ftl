@@ -636,8 +636,10 @@ newtab-widget-lists-menu-edit = Embosako’i tysýi réra
 newtab-widget-lists-menu-create = Emoheñói tysýi pyahu
 newtab-widget-lists-menu-delete = Embogue ko tysýi
 newtab-widget-lists-menu-copy = Embohasa tysýi kuatiajokohápe
+newtab-widget-lists-menu-hide = Eñomimba umi tysýi
 newtab-widget-lists-menu-learn-more = Eikuaave
 newtab-widget-lists-input-placeholder = Embojuaju porurã
+newtab-widget-lists-input-error = Emoinge moñe’ẽrã embojuaju hag̃ua mba’eporurã.
 newtab-widget-lists-input-menu-open-link = Joajuha ijurujáva
 newtab-widget-lists-input-menu-move-up = Jehupi
 newtab-widget-lists-input-menu-move-down = Emongu’e yvy gotyo
@@ -648,6 +650,8 @@ newtab-widget-lists-input-menu-edit = Mbosako’i
 ## When the timer ends, a system notification may be shown. Depending on which mode the timer is in, that message would be shown
 
 newtab-widget-timer-notification-title = Aravojere
+newtab-widget-timer-notification-focus = Opáma nde aravo. Ejapo porã. ¿Epytu’usépa?
+newtab-widget-timer-notification-break = Opáma nde jepytu’u. ¿Eñepyrũ jeýkatu?
 newtab-widget-timer-mode-focus =
     .label = Focus
 newtab-widget-timer-mode-break =
