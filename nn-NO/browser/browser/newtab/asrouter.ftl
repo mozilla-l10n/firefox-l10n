@@ -319,6 +319,7 @@ fxa-menu-message-sign-in-button = Logg inn
 fxa-menu-message-sync-button = Start synkronisering
 fxa-menu-message-sync-devices-primary-text = Synkroniser alle einingane dine
 fxa-menu-message-sync-devices-secondary-text = Få informasjonen din omgåande — som bokmerke og passord — overalt der du brukar { -brand-short-name }.
+fxa-menu-message-sync-devices-secondary-text2 = Få tilgang til bokmerka, passorda og meir med ein gong – overalt der du er logga inn på { -brand-short-name }.
 fxa-menu-message-sync-devices-collapsed-text = Synkroniser alle einingane dine
 fxa-menu-message-backup-data-primary-text = Sikkerheitskopier nettlesardataa dine
 fxa-menu-message-backup-data-secondary-text = Vern bokmerke, passord og annan informasjon automatisk på alle einingane dine.
@@ -365,6 +366,9 @@ windows-10-eos-sync-toast-secondary-label = Minn meg på det seinare
 
 ## Windows 10 EoS sync messages group 2 feature callouts
 
+windows-10-eos-challenger-callout-title = { -brand-product-name } er ikkje førehandsinstallert slik som andre nettlesarar frå dei store teknologigigantane. Det er poenget.
+windows-10-eos-challenger-sync-callout-subtitle = Når du sikringskopierer bokmerka og passorda dine frå { -brand-product-name }, er det enklare å ta med nettlesaren du valde til den neste eininga di.
+windows-10-eos-challenger-pin-callout-subtitle = Fest { -brand-shorter-name } til oppgåvelinja, slik at nettlesaren du valde alltid er der når du treng han.
 windows-10-eos-sync-callout-privacy-info-button = Sjå kva som er blokkert
 windows-10-eos-sync-callout-next-button = Neste
 windows-10-eos-sync-callout-get-started-button = Kom i gang
