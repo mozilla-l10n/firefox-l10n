@@ -118,6 +118,8 @@ windows-10-eos-sync-new-device-title-1 = Aníke eñepyrũ jey tembiapo mba’e�
 windows-10-eos-sync-new-device-title-2 = ¿Emoambuese ne mba’e’oka? Ani eheja pe emomba’éva.
 windows-10-eos-sync-new-device-primary-label = Embojuehe ko’ág̃a
 windows-10-eos-sync-general-title-1 = Emo’ã pe { -brand-short-name } eñemoba’ehague.
+windows-10-eos-sync-tour-title-1 = ¿Heta tendayke? Emohenda tendayke aty ndive.
+windows-10-eos-sync-tour-title-2 = Emohenda Windows 11-pe g̃uarã.
 
 ## Sidebar Strings
 

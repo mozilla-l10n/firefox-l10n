@@ -317,6 +317,7 @@ fxa-menu-message-sign-in-button = 登入
 fxa-menu-message-sync-button = 開始同步
 fxa-menu-message-sync-devices-primary-text = 同步您的所有裝置
 fxa-menu-message-sync-devices-secondary-text = 隨時隨地使用 { -brand-short-name }，均可立即獲得您的書籤與網站密碼等資訊。
+fxa-menu-message-sync-devices-secondary-text2 = 即時將您的書籤、密碼，與更多資料，帶進登入 { -brand-short-name } 的所有裝置。
 fxa-menu-message-sync-devices-collapsed-text = 同步您的所有裝置
 fxa-menu-message-backup-data-primary-text = 備份您的瀏覽器資料
 fxa-menu-message-backup-data-secondary-text = 自動在您的所有裝置上保護書籤、密碼與其他資訊。
@@ -363,12 +364,18 @@ windows-10-eos-sync-toast-secondary-label = 待會提醒我
 
 ## Windows 10 EoS sync messages group 2 feature callouts
 
+windows-10-eos-challenger-callout-title = 不像其他大型科技公司推出的瀏覽器：{ -brand-product-name } 不內建於新裝置中，這就是差別。
+windows-10-eos-challenger-sync-callout-subtitle = 備份 { -brand-product-name } 書籤與密碼之後，您很簡單就可以把瀏覽器的資料帶到下一台裝置中。
+windows-10-eos-challenger-pin-callout-subtitle = 將 { -brand-shorter-name } 釘選到工具列，這樣有需要的時候，就可以隨時使用您選擇的這套瀏覽器。
 windows-10-eos-challenger-sync-primary-button = 備份 { -brand-shorter-name }
 windows-10-eos-challenger-pin-primary-button = 釘選 { -brand-shorter-name }
 windows-10-eos-sync-callout-privacy-screen-1-title = { -brand-product-name } 會封鎖加密貨幣採礦程式、社群網路追蹤器，以及數位指紋追蹤程式。
 windows-10-eos-sync-callout-privacy-screen-1-subtitle = 我們不讓追蹤器辨識您的裝置，或在不同網站之間跟隨您
 windows-10-eos-sync-callout-privacy-screen-2-title = 保留您儲存的網站密碼與書籤，到新裝置當中使用。
+windows-10-eos-sync-callout-privacy-screen-2-subtitle = 將 { -brand-shorter-name } 備份起來，您很簡單就可以把資料與隱私權設定隨身帶著走。
 windows-10-eos-sync-callout-privacy-info-button = 看看封鎖了哪些項目
+windows-10-eos-callout-addons-title = 請試用附加元件：升級簡單，卻有大大效果
+windows-10-eos-callout-addons-subtitle = 我們挑選下列擴充套件來幫助您保持生產力、保護安全，並且不讓您分心。
 windows-10-eos-callout-addons-primary-button = 看我們的精選項目
 windows-10-eos-sync-callout-addons-title = 從 Windows 10 升級時，別失去現在的附加元件。
 windows-10-eos-sync-callout-addons-subtitle = 立即同步，這樣就算是換電腦之後也還能繼續使用 { -brand-product-name } 附加元件。

@@ -11,6 +11,8 @@ taskbar-tab-urlbar-button-open =
     .tooltiptext = Nadawkowej lajsće rajtark přidać
 taskbar-tab-urlbar-button-close =
     .tooltiptext = Rajtark z nadawkoweje lajsće wotstronić
+taskbar-tab-urlbar-button-show = Akciju strony webnałoženja pokazać
+taskbar-tab-urlbar-button-hide = Akciju strony webnałoženja schować
 # This string is used in the description of a Windows Start Menu
 # shortcut for a Taskbar Tab.
 # Variables:
