@@ -326,6 +326,7 @@ fxa-menu-message-sign-in-button = Přizjewić
 fxa-menu-message-sync-button = Synchronizaciju započeć
 fxa-menu-message-sync-devices-primary-text = Synchronizujće wšě swoje graty
 fxa-menu-message-sync-devices-secondary-text = Wobstarajće sej hnydom swoje informacije – na přikład swoje zapołožki a hesła – wšudźe, hdźež { -brand-short-name } wužiwaće.
+fxa-menu-message-sync-devices-secondary-text2 = Wobstarajće sej hnydom swoje zapołožki, hesła a wjace, hdźež sće so pola { -brand-short-name } přizjewił.
 fxa-menu-message-sync-devices-collapsed-text = Synchronizujće wšě swoje graty
 fxa-menu-message-backup-data-primary-text = Zawěsćće swoje daty wobhladowaka
 fxa-menu-message-backup-data-secondary-text = Škitajće awtomatisce zapołožki, hesła a druhe informacije na wšěch swojich gratach.
@@ -372,8 +373,10 @@ windows-10-eos-sync-toast-secondary-label = Pozdźišo dopomnić
 
 ## Windows 10 EoS sync messages group 2 feature callouts
 
+windows-10-eos-challenger-pin-callout-subtitle = Připniće { -brand-shorter-name } k swšojej nadawkowej lajsće, zo by wobhladowak, kotryž sće wubrał, je přeco tam, hdyž jón trjebaće.
 windows-10-eos-challenger-sync-primary-button = { -brand-shorter-name } zawěsćić
 windows-10-eos-challenger-pin-primary-button = { -brand-shorter-name } připjeć
+windows-10-eos-sync-callout-privacy-screen-1-title = { -brand-product-name } kryptokopaki, přesćěhowaki socialnych medijow a zběraki porstowych wotćišćow blokuje
 windows-10-eos-sync-callout-privacy-info-button = Hladajće, štož so blokuje
 windows-10-eos-sync-callout-next-button = Dale
 windows-10-eos-sync-callout-get-started-button = Prěnje kroki

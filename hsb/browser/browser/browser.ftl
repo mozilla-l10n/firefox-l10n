@@ -1497,10 +1497,10 @@ trustpanel-list-label-tracking-cookies =
 trustpanel-list-label-tracking-content = Slědowacy wobsah
 trustpanel-list-label-fingerprinter =
     { $count ->
-        [one] { $count } zběrar porstowych wotćišćow
-        [two] { $count } zběrarjej porstowych wotćišćow
-        [few] { $count } zběrarjo porstowych wotćišćow
-       *[other] { $count } zběrarjow porstowych wotćišćow
+        [one] { $count } zběrak porstowych wotćišćow
+        [two] { $count } zběrakaj porstowych wotćišćow
+        [few] { $count } zběraki porstowych wotćišćow
+       *[other] { $count } zběrakow porstowych wotćišćow
     }
 trustpanel-list-label-social-tracking =
     { $count ->
