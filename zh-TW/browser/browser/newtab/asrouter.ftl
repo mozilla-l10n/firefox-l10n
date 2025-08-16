@@ -373,5 +373,7 @@ windows-10-eos-sync-callout-get-started-button = 開始使用
 ## Windows 10 EoS Sync messages group 2 toast notification
 
 windows-10-eos-feature-toast-title = 已推出垂直分頁與分頁群組功能！
+# In English, "dropped" is a colloquial form for released.
+windows-10-eos-feature-toast-subtitle = 應使用者要求，{ -brand-product-name } 剛推出新功能，讓您的上網體驗更流暢、更能專注。
 windows-10-eos-feature-toast-whats-new-button = 有什麼新鮮事
 windows-10-eos-feature-toast-dismiss-button = 知道了！
