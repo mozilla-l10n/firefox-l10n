@@ -1497,10 +1497,10 @@ trustpanel-list-label-tracking-cookies =
 trustpanel-list-label-tracking-content = Slědowacy wobsah
 trustpanel-list-label-fingerprinter =
     { $count ->
-        [one] { $count } zběrak porstowych wotćišćow
-        [two] { $count } zběrakaj porstowych wotćišćow
-        [few] { $count } zběraki porstowych wotćišćow
-       *[other] { $count } zběrakow porstowych wotćišćow
+        [one] { $count } hromadźak porstowych wotćišćow
+        [two] { $count } hromadźakaj porstowych wotćišćow
+        [few] { $count } hromadźaki porstowych wotćišćow
+       *[other] { $count } hromadźakow porstowych wotćišćow
     }
 trustpanel-list-label-social-tracking =
     { $count ->
@@ -1563,17 +1563,17 @@ trustpanel-tracking-content-not-blocking-tab-header =
 trustpanel-tracking-content-tab-list-header = Tute sydła pospytuja wam slědować:
 trustpanel-fingerprinter-blocking-tab-header =
     { $count ->
-        [one] { -brand-product-name } je { $count } zběrarja porstowych wotćišćow zablokował
-        [two] { -brand-product-name } je { $count } zběrarjow porstowych wotćišćow zablokował
-        [few] { -brand-product-name } je { $count } zběrarjow porstowych wotćišćow zablokował
-       *[other] { -brand-product-name } je { $count } zběrarjow porstowych wotćišćow zablokował
+        [one] { -brand-product-name } je { $count } hromadźak porstowych wotćišćow zablokował
+        [two] { -brand-product-name } je { $count } hromadźakaj porstowych wotćišćow zablokował
+        [few] { -brand-product-name } je { $count } hromadźaki porstowych wotćišćow zablokował
+       *[other] { -brand-product-name } je { $count } hromadźakow porstowych wotćišćow zablokował
     }
 trustpanel-fingerprinter-not-blocking-tab-header =
     { $count ->
-        [one] { -brand-product-name } je { $count } zběrarja porstowych wotćišćow dowolił
-        [two] { -brand-product-name } je { $count } zběrarjow porstowych wotćišćow dowolił
-        [few] { -brand-product-name } je { $count } zběrarjow porstowych wotćišćow dowolił
-       *[other] { -brand-product-name } je { $count } zběrarjow porstowych wotćišćow dowolił
+        [one] { -brand-product-name } je { $count } hromadźak porstowych wotćišćow dowolił
+        [two] { -brand-product-name } je { $count } hromadźakaj porstowych wotćišćow dowolił
+        [few] { -brand-product-name } je { $count } hromadźaki porstowych wotćišćow dowolił
+       *[other] { -brand-product-name } je { $count } hromadźakow porstowych wotćišćow dowolił
     }
 trustpanel-fingerprinter-list-header = Tute sydło pospytuje, porstowe wotćišće wot was wzać:
 trustpanel-cryptominer-blocking-tab-header =

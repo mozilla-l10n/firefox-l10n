@@ -1267,11 +1267,11 @@ content-blocking-unvisited-cookies = Placki z njewopytanych sydłow
 content-blocking-all-windows-tracking-content = Slědowacy wobsah we wšěch woknach
 content-blocking-all-cross-site-cookies = Wšě sydła přesahowace placki
 content-blocking-cryptominers = Kryptokopanje
-content-blocking-fingerprinters = Porstowe wotćišće
+content-blocking-fingerprinters = Hromadźaki porstowych wotćišćow
 # The known fingerprinters are those that are known for collecting browser fingerprints from user devices. And
 # the suspected fingerprinters are those that we are uncertain about browser fingerprinting activities. But they could
 # possibly acquire browser fingerprints because of the behavior on accessing APIs that expose browser fingerprints.
-content-blocking-known-and-suspected-fingerprinters = Znate a podhladne porstowe wotćišće
+content-blocking-known-and-suspected-fingerprinters = Znate a podhladne hromadźaki porstowych wotćišćow
 
 # The tcp-rollout strings are no longer used for the rollout but for tcp-by-default in the standard section
 
@@ -1313,19 +1313,19 @@ content-blocking-cryptominers-label =
 # Browser fingerprinting is a method of tracking users by the configuration and settings information (their "digital fingerprint")
 # that is visible to websites they browse, rather than traditional tracking methods such as IP addresses and unique cookies.
 content-blocking-fingerprinters-label =
-    .label = Porstowe wotćišće
-    .accesskey = P
+    .label = Hromadźaki porstowych wotćišćow
+    .accesskey = H
 # Browser fingerprinting is a method of tracking users by the configuration and settings information (their "digital fingerprint")
 # that is visible to websites they browse, rather than traditional tracking methods such as IP addresses and unique cookies.
 #
 # The known fingerprinters are those that are known for collecting browser fingerprints from user devices.
 content-blocking-known-fingerprinters-label =
-    .label = Znate porstowe wotćišće
+    .label = Znate hromadźaki porstowych wotćišćow
     .accesskey = Z
 # The suspected fingerprinters are those that we are uncertain about browser fingerprinting activities. But they could
 # possibly acquire browser fingerprints because of the behavior on accessing APIs that expose browser fingerprints.
 content-blocking-suspected-fingerprinters-label =
-    .label = Podhladne porstowe wotćišće
+    .label = Podhladne zběraki porstowych wotćišćow
     .accesskey = P
 
 ## Privacy Section - Tracking

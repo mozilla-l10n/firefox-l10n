@@ -11,6 +11,8 @@ taskbar-tab-urlbar-button-open =
     .tooltiptext = Adde scheda al barra del applicationes
 taskbar-tab-urlbar-button-close =
     .tooltiptext = Remover scheda ab barra de instrumentos
+taskbar-tab-urlbar-button-show = Monstrar actiones de pagina del application web
+taskbar-tab-urlbar-button-hide = Celar actiones de pagina del application web
 # This string is used in the description of a Windows Start Menu
 # shortcut for a Taskbar Tab.
 # Variables:
