@@ -62,6 +62,7 @@ experimental-features-fx-web-apps-description = Aperi le sitos que tu visita plu
 # Lists Widget
 experimental-features-newtab-widget-lists =
     .label = Listas in { -firefox-home-brand-name }
+experimental-features-newtab-widget-lists-description = Mantene tu agenda a tu maxime attention quando tu aperi un scheda nove. Ab le lista del pacchettos al lista del compras, face tu planos in { -brand-product-name }. <a data-l10n-name="connect">Comparti tu commentario</a>
 # Timer Widget
 experimental-features-newtab-widget-timer =
     .label = Temporisator in { -firefox-home-brand-name }

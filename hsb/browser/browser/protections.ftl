@@ -49,7 +49,7 @@ cookie-tab-title = Sydła přesahowace slědowace placki
 cookie-tab-content = Tute placki wam wot sydła do sydła slěduja, zo byšće daty wo tym hromadźili, štož online činiće. Stajeja so wot třećich poskićowarjow kaž na přikład wabjerjo a analyzowe předewzaća, Blokowanje sydła přesahowacych plackow ličbu wabjenjow redukuje, kotrež wam slěduja. <a data-l10n-name="learn-more-link">Dalše informacije</a>
 tracker-tab-title = Slědowacy wobsah
 tracker-tab-description = Websydła móža eksterne wabjenje, wideja a druhi wobsah ze slědowacym kodom začitać. Hdyž slědowacy wobsah blokujeće, móže to pomhać, sydła spěšnišo začitać, ale někotre tłóčatka, formulary a přizjewjenske pola snano hižo njebudu fungować. <a data-l10n-name="learn-more-link">Dalše informacije</a>
-fingerprinter-tab-title = Zběraki porstowych wotćišćow
+fingerprinter-tab-title = Hromadźaki porstowych wotćišćow
 fingerprinter-tab-content = Hromadźaki porstowych wotćišće zběraja nastajenja z wašeho wobhladowaka a ličaka, zo bychu profil wo was wutworili. Hdyž tutón digitalny porstowy wotćišć wužiwaće, móža wam přez rozdźělne websydła slědować. <a data-l10n-name="learn-more-link">Dalše informacije</a>
 cryptominer-tab-title = Kryptokopanje
 cryptominer-tab-content = Kryptokopanje ličenski wukon wašeho systema wužiwa, zo by digitalne pjenjezy dobyło. Kryptokopanske skripty wašu bateriju prózdnja, waš ličak spomaleja a móža wašu přetrjebu energije powyšić. <a data-l10n-name="learn-more-link">Dalše informacije</a>
@@ -216,13 +216,13 @@ bar-tooltip-tracker =
            *[other] { $count } slědowacych wobsahow ({ $percentage } %)
         }
 bar-tooltip-fingerprinter =
-    .title = Porstowe wotćišće
+    .title = Hromadźaki porstowych wotćišćow
     .aria-label =
         { $count ->
-            [one] { $count } porstowy wotćišć ({ $percentage } %)
-            [two] { $count } porstowej wotćišćej ({ $percentage } %)
-            [few] { $count } porstowe wotćišće ({ $percentage } %)
-           *[other] { $count } porstowych wotćišćow ({ $percentage } %)
+            [one] { $count } hromadźak porstowych wotćišćow ({ $percentage } %)
+            [two] { $count } hromadźakaj porstowych wotćišćow ({ $percentage } %)
+            [few] { $count } hromadźaki porstowych wotćišćow ({ $percentage } %)
+           *[other] { $count } hromadźakow porstowych wotćišćow ({ $percentage } %)
         }
 bar-tooltip-cryptominer =
     .title = Kryptokopaki

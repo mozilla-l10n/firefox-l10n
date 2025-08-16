@@ -22,7 +22,7 @@ content-blocking-cookies-view-blocked-label =
 #   $domain (String): the domain of the site.
 content-blocking-cookies-view-remove-button =
     .tooltiptext = Plackowe wuwzaće za { $domain } zhašeć
-tracking-protection-icon-active = Blokowanje přesćěhowakow socialnych medijow, sydła přesahowacych slědowacych plackow a porstowych wotćišćow.
+tracking-protection-icon-active = Blokowanje přesćěhowakow socialnych medijow, sydła přesahowacych slědowacych plackow a hromadźakow porstowych wotćišćow.
 tracking-protection-icon-active-container =
     .aria-label = { tracking-protection-icon-active }
 tracking-protection-icon-disabled = Polěpšeny slědowanski škit je znjemóžnjeny za tute sydło.
@@ -41,7 +41,7 @@ protections-header = Škit za { $host }
 ## Blocking and Not Blocking sub-views in the Protections Panel
 
 protections-blocking-fingerprinters =
-    .title = Porstowe wotćišće su zablokowane
+    .title = Hromadźaki porstowych wotćišćow su zablokowane
 protections-blocking-cryptominers =
     .title = Kryptokopanje je zablokowane
 protections-blocking-cookies-trackers =
@@ -57,7 +57,7 @@ protections-blocking-tracking-content =
 protections-blocking-social-media-trackers =
     .title = Přesćěhowaki socialnych medijow zablokowane
 protections-not-blocking-fingerprinters =
-    .title = Porstowe wotćišće so njeblokuja
+    .title = Hromadźaki porstowych wotćišćow so njeblokuja
 protections-not-blocking-cryptominers =
     .title = Kryptokopanje so njeblokuje
 protections-not-blocking-cookies-third-party =
