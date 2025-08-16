@@ -69,6 +69,8 @@ cfr-doorhanger-bookmark-fxa-close-btn-tooltip =
     .aria-label = Emboty votõ
     .title = Emboty
 fxa-adoption-addresses-backup-title = Ñañongatu jo’a ko’ã kundaharape ñongatupyre
+fxa-adoption-addresses-backup-subtitle = Emo’ã umi kundaharape ñongatupyre embojuehévo umi mba’e’oka ipapapýva ndive.
+fxa-adoption-credit-cards-backup-title = Ñañongatu jo’a jehepyme’ẽrã rehegua
 fxa-adoption-primary-button-label = Eñemboheraguapy
 
 ## Protections panel
@@ -362,6 +364,7 @@ windows-10-eos-sync-toast-secondary-label = Chemomandu’a ag̃ave
 windows-10-eos-challenger-sync-primary-button = Ñongatu jo’a { -brand-shorter-name }
 windows-10-eos-challenger-pin-primary-button = Papyñemi { -brand-shorter-name }
 windows-10-eos-sync-callout-privacy-info-button = Ehecha pe jejokopyre
+windows-10-eos-callout-addons-title = Eiporu moĩmbaha: hekopyahúva, iporã añetéva
 windows-10-eos-callout-addons-primary-button = Ehecha ore poravopyre
 windows-10-eos-sync-callout-next-button = Upeigua
 windows-10-eos-sync-callout-get-started-button = Eñepyrũ

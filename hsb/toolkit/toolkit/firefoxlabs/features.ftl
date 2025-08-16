@@ -56,3 +56,12 @@ experimental-features-fx-web-apps =
     .label = Wašej nadawkowej lajsće sydła přidać
 # “Add tab to taskbar” is found in the tooltip text of `-taskbar-tab-urlbar-button-open`.
 experimental-features-fx-web-apps-description = Wočińće sydła, kotrež husto wopytujeće jako webnałoženje ze swojeje nadawkoweje lajsty. Pytajće za symbolom „Nadawkowej lajsće rajtark přidać“ naprawo pódla adresoweho pola, zo byšće te sydło w optimowanym woknje ze wšěmi škitami { -brand-product-name } startował. <a data-l10n-name="connect">Měnjenje dźělić</a>
+
+## New Tab Productivity Widgets
+
+# Lists Widget
+experimental-features-newtab-widget-lists =
+    .label = Lisćiny w { -firefox-home-brand-name }
+# Timer Widget
+experimental-features-newtab-widget-timer =
+    .label = Časoměr w { -firefox-home-brand-name }
