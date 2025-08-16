@@ -320,6 +320,7 @@ fxa-menu-message-sign-in-button = Acceder
 fxa-menu-message-sync-button = Comencia a synchronisar
 fxa-menu-message-sync-devices-primary-text = Synchronisa tote tu apparatos
 fxa-menu-message-sync-devices-secondary-text = Instantaneemente obtene tu info, como marcapaginas e contrasignos, ubique tu usa { -brand-short-name }.
+fxa-menu-message-sync-devices-secondary-text2 = Accede al instante a tu marcapaginas, contrasignos, e altero, ubique tu ha accedite a { -brand-short-name }.
 fxa-menu-message-sync-devices-collapsed-text = Synchronisa tote tu apparatos
 fxa-menu-message-backup-data-primary-text = Preserva le datos de tu navigator
 fxa-menu-message-backup-data-secondary-text = Automaticamente protege marcapaginas, contrasignos, e altere info sur tote tu apparatos.
@@ -366,13 +367,21 @@ windows-10-eos-sync-toast-secondary-label = Rememora me plus tarde
 
 ## Windows 10 EoS sync messages group 2 feature callouts
 
+windows-10-eos-challenger-callout-title = { -brand-product-name } non es pre-cargate como altere navigatores Big Tech. Isto es le puncto.
+windows-10-eos-challenger-sync-callout-subtitle = Quando tu preserva marcapaginas e contrasignos de tu { -brand-product-name }, il es plus facile apportar le navigator que tu seligeva a tu proxime apparato.
+windows-10-eos-challenger-pin-callout-subtitle = Fixa { -brand-shorter-name } a tu barra del cargas assi que le navigator que tu seligeva sempre es illac quando illo te besonia.
 windows-10-eos-challenger-sync-primary-button = Preservar { -brand-shorter-name }
 windows-10-eos-challenger-pin-primary-button = Fixar { -brand-shorter-name }
+windows-10-eos-sync-callout-privacy-screen-1-title = { -brand-product-name } bloca minatores de cryptomonetas, traciatores de medios social, e dactylogrammatores.
+windows-10-eos-sync-callout-privacy-screen-1-subtitle = Le traciatores non pote ID(entificar) tu apparato o sequer te a transverso le web. perque nos non lo lassa facer les.
+windows-10-eos-sync-callout-privacy-screen-2-title = Salveguarda tu contrasignos e marcapaginas pro tu proxime apparato.
 windows-10-eos-sync-callout-privacy-info-button = Vide lo que es blocate
+windows-10-eos-callout-addons-primary-button = Vide nostre electiones
 windows-10-eos-sync-callout-next-button = Sequente
 windows-10-eos-sync-callout-get-started-button = Comenciar
 
 ## Windows 10 EoS Sync messages group 2 toast notification
 
+windows-10-eos-feature-toast-title = Schedas e gruppos de schedas vertical es ci!
 windows-10-eos-feature-toast-whats-new-button = Vide le novas
 windows-10-eos-feature-toast-dismiss-button = Ignorar

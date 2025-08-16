@@ -666,6 +666,7 @@ newtab-widget-timer-menu-notifications = Notificationes de extinction
 newtab-widget-timer-menu-notifications-on = Activar notificationes
 newtab-widget-timer-menu-hide = Celar temporisator
 newtab-widget-timer-menu-learn-more = Pro saper plus
+newtab-widget-keep-scrolling = Rolar pro altero
 newtab-promo-card-title = Supporta { -brand-product-name }
 newtab-promo-card-body = Nostre patrocinatores supporta nostre mission pro construer un web melior
 newtab-promo-card-cta = Pro saper plus
