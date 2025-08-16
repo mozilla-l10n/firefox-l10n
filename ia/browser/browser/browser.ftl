@@ -824,6 +824,49 @@ urlbar-result-dismissal-acknowledgment-market = Gratias pro tu commentario. Tu n
 # particular type.
 urlbar-result-dismissal-acknowledgment-all = Gratias pro tu commentario. Tu non plus videra iste suggestiones.
 
+## These strings are used for suggestions of important dates in the urlbar.
+
+# The name of an event and the number of days until it starts separated by a
+# middot.
+# Variables:
+#   $name (string) - The name of the event.
+#   $daysUntilStart (integer) - The number of days until the event starts.
+urlbar-result-dates-countdown =
+    { $daysUntilStart ->
+        [one] { $name } · In { $daysUntilStart } die
+       *[other] { $name } · In { $daysUntilStart } dies
+    }
+# The name of a multiple day long event and the number of days until it starts
+# separated by a middot.
+# Variables:
+#   $name (string) - The name of the event.
+#   $daysUntilStart (integer) - The number of days until the event starts.
+urlbar-result-dates-countdown-range =
+    { $daysUntilStart ->
+        [one] { $name } · initia in { $daysUntilStart } die
+       *[other] { $name } · initia in { $daysUntilStart } dies
+    }
+# The name of a multiple day long event and the number of days until it ends
+# separated by a middot.
+# Variables:
+#   $name (string) - The name of the event.
+#   $daysUntilEnd (integer) - The number of days until the event ends.
+urlbar-result-dates-ongoing =
+    { $daysUntilEnd ->
+        [one] { $name } · termina in { $daysUntilStart } die
+       *[other] { $name } · termina in { $daysUntilStart } dies
+    }
+# The name of an event and a note that it is happening today separated by a
+# middot.
+# Variables:
+#   $name (string) - The name of the event.
+urlbar-result-dates-today = { $name } · Hodie
+# The name of multiple day long event and a note that it is ends today
+# separated by a middot.
+# Variables:
+#   $name (string) - The name of the event.
+urlbar-result-dates-ends-today = { $name } · Termina hodie
+
 ## Strings used for buttons in the urlbar
 
 # Label prompting user to search with a particular search engine.

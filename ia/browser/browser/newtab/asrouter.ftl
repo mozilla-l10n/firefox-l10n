@@ -317,6 +317,7 @@ fxa-menu-message-close-button =
     .aria-label = Clauder
 fxa-menu-message-sign-up-button = Inscriber se
 fxa-menu-message-sign-in-button = Acceder
+fxa-menu-message-sync-button = Comencia a synchronisar
 fxa-menu-message-sync-devices-primary-text = Synchronisa tote tu apparatos
 fxa-menu-message-sync-devices-secondary-text = Instantaneemente obtene tu info, como marcapaginas e contrasignos, ubique tu usa { -brand-short-name }.
 fxa-menu-message-sync-devices-collapsed-text = Synchronisa tote tu apparatos
@@ -363,6 +364,15 @@ windows-10-eos-sync-toast-subtitle = Preserva tu datos assi que { -brand-short-n
 windows-10-eos-sync-toast-primary-label = Comenciar
 windows-10-eos-sync-toast-secondary-label = Rememora me plus tarde
 
+## Windows 10 EoS sync messages group 2 feature callouts
+
+windows-10-eos-challenger-sync-primary-button = Preservar { -brand-shorter-name }
+windows-10-eos-challenger-pin-primary-button = Fixar { -brand-shorter-name }
+windows-10-eos-sync-callout-privacy-info-button = Vide lo que es blocate
+windows-10-eos-sync-callout-next-button = Sequente
+windows-10-eos-sync-callout-get-started-button = Comenciar
+
 ## Windows 10 EoS Sync messages group 2 toast notification
 
+windows-10-eos-feature-toast-whats-new-button = Vide le novas
 windows-10-eos-feature-toast-dismiss-button = Ignorar
