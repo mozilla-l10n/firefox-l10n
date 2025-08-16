@@ -56,3 +56,13 @@ experimental-features-fx-web-apps =
     .label = Nadawkowej rědce sedła pśidaś
 # “Add tab to taskbar” is found in the tooltip text of `-taskbar-tab-urlbar-button-open`.
 experimental-features-fx-web-apps-description = Wócyńśo sedła, ku kótarymž cesto woglědujośo ako webnałoženje ze swójeje nadawkoweje rědki. Pytajśo za symbolom „Nadawkowej rědce rejtarik pśidaś“ napšawo pódla adresowego póla, aby to sedło w optiměrowanem woknje ze wšymi šćitami { -brand-product-name } startował. <a data-l10n-name="connect">Měnjenje źěliś</a>
+
+## New Tab Productivity Widgets
+
+# Lists Widget
+experimental-features-newtab-widget-lists =
+    .label = Lisćiny w { -firefox-home-brand-name }
+experimental-features-newtab-widget-lists-description = Wobchowajśo lisćinu swójich nadawkow we wócyma, gaž nowy rejtarik wócynjaśo. Wót zapakowańskich lisćinow do nakupowańskich lisćinow, cyńśo swóje plany w { -brand-product-name }. <a data-l10n-name="connect">Měnjenje k wěsći daś</a>
+# Timer Widget
+experimental-features-newtab-widget-timer =
+    .label = Casowe měritko w { -firefox-home-brand-name }

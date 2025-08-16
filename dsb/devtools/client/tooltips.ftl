@@ -72,6 +72,7 @@ inactive-css-text-wrap-balance-lines-exceeded =
     }
 inactive-css-text-wrap-balance-fragmented = <strong>{ $property }</strong> njama efekt na toś ten element, dokulaž jo fragmentěrowany, t. gr. jogo wopśimjeśe jo na někotare słupy abo boki rozdźělone.
 inactive-css-no-width-height = <strong>{ $property }</strong> njama efekt na toś ten element, dokulaž jogo šyrokosć a wusokosć njedajotej se nastajiś tabela.
+inactive-css-no-principal-box = <strong>{ $property }</strong> na toś ten element wustatkowanje njama, dokulaž głowny kašćik njenapórajo.
 
 ## In the Rule View when a CSS property cannot be successfully applied we display
 ## an icon. When this icon is hovered this message is displayed to explain how
@@ -110,6 +111,7 @@ inactive-css-resize-fix = Wopytajśo <strong>overflow</strong> na drugu gódnotu
 inactive-css-ruby-element-fix = Wopytajśo <strong>font-size</strong> teksta ruby změniś. { learn-more }
 inactive-css-text-wrap-balance-lines-exceeded-fix = Wopytajśo licbu smužkow reducěrowaś. { learn-more }
 inactive-css-text-wrap-balance-fragmented-fix = Wótwónoźćo słupy abo wužywajśo <strong>page-break-inside:avoid</strong>, aby se rozdźělenja elementowego wopśimjeśa wobinuł. { learn-more }
+inactive-css-no-principal-box-fix = Wopytajśo gódnotu za kakosć <strong>display</strong> pśidaś, kótaraž głowny kašćik napórajo, na pśikład <strong>block</strong>, <strong>inline-block</strong>, <strong>flex</strong> abo <strong>grid</strong>. { learn-more }
 
 ## In the Rule View when a CSS property may have compatibility issues with other browsers
 ## we display an icon. When this icon is hovered this message is displayed to explain why
