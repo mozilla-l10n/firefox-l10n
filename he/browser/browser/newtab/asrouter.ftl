@@ -357,3 +357,18 @@ windows-10-eos-sync-toast-title = בכוונתך לשדרג ל־Windows 11? כד
 windows-10-eos-sync-toast-subtitle = ניתן לגבות את הנתונים שלך כך ש־{ -brand-short-name } יהיה מוכן לעבודה בכל עת, במחשב זה או במחשב הבא.
 windows-10-eos-sync-toast-primary-label = תחילת עבודה
 windows-10-eos-sync-toast-secondary-label = להזכיר לי מאוחר יותר
+
+## Windows 10 EoS sync messages group 2 feature callouts
+
+windows-10-eos-challenger-callout-title = ‏{ -brand-product-name } אינו מותקן מראש כמו דפדפנים של חברות גדולות אחרות. זוהי בדיוק הנקודה.
+windows-10-eos-challenger-sync-callout-subtitle = כשהסימניות והססמאות שלך ה־{ -brand-product-name } שלך מגובים, קל יותר להעביר את הדפדפן שבחרת למכשיר הבא שלך.
+windows-10-eos-challenger-pin-callout-subtitle = ניתן להצמיד את { -brand-shorter-name } לשורת המשימות שלך כך שהדפדפן שבחרת תמיד יהיה זמין כשצריכים אותו.
+windows-10-eos-challenger-sync-primary-button = גיבוי { -brand-shorter-name }
+windows-10-eos-challenger-pin-primary-button = נעיצת { -brand-shorter-name }
+windows-10-eos-sync-callout-privacy-screen-1-title = ‏{ -brand-product-name } חוסם כורי מטבעות דיגיטליים, רכיבי מעקב של מדיה חברתית ורכיבי זהות דיגיטלית.
+windows-10-eos-sync-callout-privacy-screen-1-subtitle = רכיבי מעקב לא יכולים לזהות את המכשיר שלך או לעקוב אחריך ברחבי הרשת - מכיוון שאנחנו לא מאפשרים להם.
+windows-10-eos-sync-callout-privacy-screen-2-title = כדאי לאבטח את הססמאות והסימניות שלך עבור המכשיר הבא שלך.
+windows-10-eos-sync-callout-privacy-screen-2-subtitle = גיבוי { -brand-shorter-name } מקל עליך לקחת את הנתונים וההגדרות הפרטיות שלך יחד איתך.
+windows-10-eos-sync-callout-privacy-info-button = הצגת הפריטים שנחסמים
+windows-10-eos-callout-addons-title = כדאי לנסות תוספות: שדרוגים פשוטים עם השפעות גדולות
+windows-10-eos-callout-addons-subtitle = הרחבות אלו נבחרו כדי לעזור לך להישאר פרודוקטיבי, מוגן וללא הסחות דעת.
