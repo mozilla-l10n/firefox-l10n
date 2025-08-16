@@ -62,3 +62,4 @@ experimental-features-fx-web-apps-description = Abra los sitios que visita con f
 # Lists Widget
 experimental-features-newtab-widget-lists =
     .label = Listas en { -firefox-home-brand-name }
+experimental-features-newtab-widget-lists-description = Mantenga la lista de tareas pendientes al abrir una nueva pestaña. Desde listas de empaque hasta listas de compras, haga sus planes en { -brand-product-name }. <a data-l10n-name="connect">Compartir opinión</a>
