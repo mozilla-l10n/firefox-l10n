@@ -641,11 +641,19 @@ newtab-widget-lists-input-error = Bitte fügen Sie Text hinzu, um einen Eintrag 
 newtab-widget-lists-input-menu-open-link = Link öffnen
 newtab-widget-lists-input-menu-move-up = Nach oben
 newtab-widget-lists-input-menu-move-down = Nach unten
+newtab-widget-lists-input-menu-delete = Löschen
+newtab-widget-lists-input-menu-edit = Bearbeiten
 
 ## Strings for timer productivity widget
 ## When the timer ends, a system notification may be shown. Depending on which mode the timer is in, that message would be shown
 
+newtab-widget-timer-notification-warning = Benachrichtigungen sind deaktiviert
 newtab-widget-timer-mode-break =
     .label = Pause
+newtab-widget-timer-reset =
+    .title = Zurücksetzen
+newtab-widget-timer-menu-notifications = Benachrichtigungen deaktivieren
+newtab-widget-timer-menu-notifications-on = Benachrichtigungen aktivieren
+newtab-widget-timer-menu-hide = Timer ausblenden
 newtab-widget-timer-menu-learn-more = Weitere Informationen
 newtab-promo-card-cta = Weitere Informationen
