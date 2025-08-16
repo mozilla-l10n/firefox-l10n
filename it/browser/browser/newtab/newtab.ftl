@@ -643,7 +643,6 @@ newtab-widget-lists-menu-delete = Elimina questa lista
 newtab-widget-lists-menu-copy = Copia lista negli appunti
 newtab-widget-lists-menu-hide = Nascondi tutte le liste
 newtab-widget-lists-menu-learn-more = Ulteriori informazioni
-newtab-widget-lists-input-placeholder = Aggiungi un elemento
 newtab-widget-lists-input-error = Includere del testo per aggiungere un elemento.
 newtab-widget-lists-input-menu-open-link = Apri link
 newtab-widget-lists-input-menu-move-up = Sposta in alto
