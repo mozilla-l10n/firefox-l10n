@@ -364,8 +364,12 @@ windows-10-eos-sync-toast-secondary-label = 待會提醒我
 ## Windows 10 EoS sync messages group 2 feature callouts
 
 windows-10-eos-sync-callout-privacy-info-button = 看看封鎖了哪些項目
+windows-10-eos-callout-addons-primary-button = 看我們的精選項目
+windows-10-eos-sync-callout-next-button = 下一步
+windows-10-eos-sync-callout-get-started-button = 開始使用
 
 ## Windows 10 EoS Sync messages group 2 toast notification
 
+windows-10-eos-feature-toast-title = 已推出垂直分頁與分頁群組功能！
 windows-10-eos-feature-toast-whats-new-button = 有什麼新鮮事
 windows-10-eos-feature-toast-dismiss-button = 知道了！

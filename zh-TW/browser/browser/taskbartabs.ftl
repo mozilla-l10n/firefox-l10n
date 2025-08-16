@@ -11,6 +11,8 @@ taskbar-tab-urlbar-button-open =
     .tooltiptext = 將分頁新增到工具列
 taskbar-tab-urlbar-button-close =
     .tooltiptext = 從側邊欄移除分頁
+taskbar-tab-urlbar-button-show = 顯示「網頁應用程式」頁面操作
+taskbar-tab-urlbar-button-hide = 隱藏「網頁應用程式」頁面操作
 # This string is used in the description of a Windows Start Menu
 # shortcut for a Taskbar Tab.
 # Variables:
