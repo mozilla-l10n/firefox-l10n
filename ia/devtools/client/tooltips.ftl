@@ -109,6 +109,7 @@ inactive-css-resize-fix = Tenta predefinir le <strong>disbordamento</strong> a u
 inactive-css-ruby-element-fix = Prova cambiar le <strong>dimensiones de characteres</strong> del texto ruby. { learn-more }
 inactive-css-text-wrap-balance-lines-exceeded-fix = Tenta reducer le numero de lineas. { learn-more }
 inactive-css-text-wrap-balance-fragmented-fix = Evita scinder le contento del elemento p. ex. per remover le columnas o per <strong>page-break-inside:avoid</strong>. { learn-more }
+inactive-css-no-principal-box-fix = Tenta adder un valor <strong>display</strong> que crea un cassa principal, como <strong>block</strong>, <strong>inline-block</strong>, <strong>flex</strong>, o <strong>grid</strong>. { learn-more }
 
 ## In the Rule View when a CSS property may have compatibility issues with other browsers
 ## we display an icon. When this icon is hovered this message is displayed to explain why

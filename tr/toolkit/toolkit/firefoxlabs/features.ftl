@@ -56,3 +56,12 @@ experimental-features-fx-web-apps =
     .label = Siteleri görev çubuğunuza ekleyin
 # “Add tab to taskbar” is found in the tooltip text of `-taskbar-tab-urlbar-button-open`.
 experimental-features-fx-web-apps-description = Sık ziyaret ettiğiniz siteleri görev çubuğunuzdan web uygulaması olarak açabilirsiniz. Bir siteyi tüm { -brand-product-name } korumalarıyla birlikte daha sade bir pencerede açmak için adres çubuğunun sağındaki “Sekmeyi görev çubuğuna ekle” simgesine tıklayın. <a data-l10n-name="connect">Görüşlerinizi paylaşın</a>
+
+## New Tab Productivity Widgets
+
+# Lists Widget
+experimental-features-newtab-widget-lists =
+    .label = { -firefox-home-brand-name } listeleri
+# Timer Widget
+experimental-features-newtab-widget-timer =
+    .label = { -firefox-home-brand-name } zamanlayıcı

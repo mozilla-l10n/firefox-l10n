@@ -23,6 +23,7 @@ firefox-relay-opt-in-title-1 = E-posta adresinizi koruyun:
 # This is preceded by firefox-relay-opt-in-title-1 (on a different line), which
 # ends with a colon. You might need to adapt the capitalization of this string.
 firefox-relay-opt-in-subtitle-1 = { -relay-brand-name } e-posta maskesi kullanın
+firefox-relay-use-mask-title-1 = E-posta maskesi kullanın
 firefox-relay-use-mask-title = { -relay-brand-name } e-posta maskesi kullanın
 # This is followed, on a new line, by firefox-relay-opt-in-subtitle-a
 firefox-relay-opt-in-title-a = Ücretsiz e-posta maskesiyle spam’i önleyin

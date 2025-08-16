@@ -314,6 +314,7 @@ fxa-menu-message-close-button =
     .aria-label = 關閉
 fxa-menu-message-sign-up-button = 註冊
 fxa-menu-message-sign-in-button = 登入
+fxa-menu-message-sync-button = 開始同步
 fxa-menu-message-sync-devices-primary-text = 同步您的所有裝置
 fxa-menu-message-sync-devices-secondary-text = 隨時隨地使用 { -brand-short-name }，均可立即獲得您的書籤與網站密碼等資訊。
 fxa-menu-message-sync-devices-collapsed-text = 同步您的所有裝置
@@ -359,3 +360,12 @@ windows-10-eos-sync-toast-title = 準備要升級到 Windows 11 了嗎？別失�
 windows-10-eos-sync-toast-subtitle = 請備份您的資料，這樣 { -brand-short-name } 就可以隨時在這台電腦升級或帶到新電腦上。
 windows-10-eos-sync-toast-primary-label = 開始使用
 windows-10-eos-sync-toast-secondary-label = 待會提醒我
+
+## Windows 10 EoS sync messages group 2 feature callouts
+
+windows-10-eos-sync-callout-privacy-info-button = 看看封鎖了哪些項目
+
+## Windows 10 EoS Sync messages group 2 toast notification
+
+windows-10-eos-feature-toast-whats-new-button = 有什麼新鮮事
+windows-10-eos-feature-toast-dismiss-button = 知道了！

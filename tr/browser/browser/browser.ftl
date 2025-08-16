@@ -826,6 +826,49 @@ urlbar-result-dismissal-acknowledgment-market = Geri bildiriminiz için teşekk�
 # particular type.
 urlbar-result-dismissal-acknowledgment-all = Geri bildiriminiz için teşekkür ederiz. Artık bu önerileri görmeyeceksiniz.
 
+## These strings are used for suggestions of important dates in the urlbar.
+
+# The name of an event and the number of days until it starts separated by a
+# middot.
+# Variables:
+#   $name (string) - The name of the event.
+#   $daysUntilStart (integer) - The number of days until the event starts.
+urlbar-result-dates-countdown =
+    { $daysUntilStart ->
+        [one] { $name } · { $daysUntilStart } gün sonra
+       *[other] { $name } · { $daysUntilStart } gün sonra
+    }
+# The name of a multiple day long event and the number of days until it starts
+# separated by a middot.
+# Variables:
+#   $name (string) - The name of the event.
+#   $daysUntilStart (integer) - The number of days until the event starts.
+urlbar-result-dates-countdown-range =
+    { $daysUntilStart ->
+        [one] { $name } · { $daysUntilStart } gün sonra başlıyor
+       *[other] { $name } · { $daysUntilStart } gün sonra başlıyor
+    }
+# The name of a multiple day long event and the number of days until it ends
+# separated by a middot.
+# Variables:
+#   $name (string) - The name of the event.
+#   $daysUntilEnd (integer) - The number of days until the event ends.
+urlbar-result-dates-ongoing =
+    { $daysUntilEnd ->
+        [one] { $name } · { $daysUntilEnd } gün sonra bitiyor
+       *[other] { $name } · { $daysUntilEnd } gün sonra bitiyor
+    }
+# The name of an event and a note that it is happening today separated by a
+# middot.
+# Variables:
+#   $name (string) - The name of the event.
+urlbar-result-dates-today = { $name } · Bugün
+# The name of multiple day long event and a note that it is ends today
+# separated by a middot.
+# Variables:
+#   $name (string) - The name of the event.
+urlbar-result-dates-ends-today = { $name } · Bugün bitiyor
+
 ## Strings used for buttons in the urlbar
 
 # Label prompting user to search with a particular search engine.

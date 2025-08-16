@@ -1,0 +1,18 @@
+# This Source Code Form is subject to the terms of the Mozilla Public
+# License, v. 2.0. If a copy of the MPL was not distributed with this
+# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+
+unexpected-script-close-button =
+    .aria-label = Kapat
+unexpected-script-load-message-button-allow =
+    .label = İzin ver
+    .accesskey = z
+unexpected-script-load-message-button-block =
+    .label = Engelle
+    .accesskey = E
+unexpected-script-load-title = Beklenmeyen betik yüklemesi
+unexpected-script-load-email-textbox =
+    .placeholder = E-posta adresinizi yazın
+    .aria-label = E-posta adresinizi yazın
+unexpected-script-load-more-info = Daha fazla bilgi alın
+unexpected-script-load-learn-more = Daha fazla bilgi alın

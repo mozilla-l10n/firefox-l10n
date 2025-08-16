@@ -70,8 +70,8 @@ about-telemetry-histogram-stats =
     }
 # Variables:
 #   $telemetryServerOwner (string) - the value of the toolkit.telemetry.server_owner preference. Typically "Mozilla"
-about-telemetry-page-subtitle = Tuta strona pokazuje informacije wo wukonje, hardware, wužiću a přiměrjenjach zběrane přez telemetriju. Tute informacije budu so do { $telemetryServerOwner } słać, zo bychu pomhali, { -brand-full-name } polěpšić.
-about-telemetry-settings-explanation = Telemetrija { about-telemetry-data-type } zběra a <a data-l10n-name="upload-link">{ about-telemetry-upload-type }</a> so nahrawaja.
+about-telemetry-page-subtitle = Tuta strona pokazuje informacije wo wukonje, hardware, wužiću a přiměrjenjach zhromadźene přez telemetriju. Tute informacije budu so do { $telemetryServerOwner } słać, zo bychu pomhali, { -brand-full-name } polěpšić.
+about-telemetry-settings-explanation = Telemetrija { about-telemetry-data-type } hromadźi a <a data-l10n-name="upload-link">{ about-telemetry-upload-type }</a> so nahrawaja.
 # Variables:
 #   $name (string) - Ping name, e.g. “saved-session”
 #   $timestamp (string) - Ping localized timestamp, e.g. “2017/07/08 10:40:46”

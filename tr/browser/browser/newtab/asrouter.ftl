@@ -317,6 +317,7 @@ fxa-menu-message-close-button =
     .aria-label = Kapat
 fxa-menu-message-sign-up-button = Kaydol
 fxa-menu-message-sign-in-button = Giriş yap
+fxa-menu-message-sync-button = Eşitlemeyi başlat
 fxa-menu-message-sync-devices-primary-text = Tüm cihazlarınızı eşitleyin
 fxa-menu-message-sync-devices-secondary-text = Yer imlerinizi, parolalarınızı ve diğer bilgilerinizi { -brand-short-name } kullandığınız her yere götürün.
 fxa-menu-message-sync-devices-collapsed-text = Tüm cihazlarınızı eşitleyin
@@ -362,3 +363,21 @@ windows-10-eos-sync-toast-title = Windows 11’e mi geçeceksiniz? Yer imleriniz
 windows-10-eos-sync-toast-subtitle = { -brand-short-name } verilerinizi şimdi yedekleyin, sonra ister bu bilgisayarınıza ister yeni bilgisayarınıza geri yükleyin.
 windows-10-eos-sync-toast-primary-label = Başlayın
 windows-10-eos-sync-toast-secondary-label = Daha sonra hatırlat
+
+## Windows 10 EoS sync messages group 2 feature callouts
+
+windows-10-eos-challenger-sync-primary-button = { -brand-shorter-name } uygulamasını yedekle
+windows-10-eos-challenger-pin-primary-button = { -brand-shorter-name } uygulamasını sabitle
+windows-10-eos-sync-callout-privacy-screen-1-title = { -brand-product-name } kripto madencilerini, sosyal medya takip kodlarını ve parmak izi toplayıcılarını engeller.
+windows-10-eos-sync-callout-privacy-screen-2-title = Parolalarınızı ve yer imlerinizi yeni cihazınız için güvence altına alın.
+windows-10-eos-sync-callout-privacy-info-button = Nelerin engellendiğini görün
+windows-10-eos-callout-addons-primary-button = Seçtiklerimize bakın
+windows-10-eos-sync-callout-next-button = İleri
+windows-10-eos-sync-callout-get-started-button = Başla
+
+## Windows 10 EoS Sync messages group 2 toast notification
+
+# In English, "dropped" is a colloquial form for released.
+windows-10-eos-feature-toast-subtitle = Yoğun istek üzerine { -brand-product-name } gezinmenizi kolaylaştıracak ve odaklanmanızı sağlayacak yeni özellikleri kullanıma sundu.
+windows-10-eos-feature-toast-whats-new-button = Yeniliklere bak
+windows-10-eos-feature-toast-dismiss-button = Kapat

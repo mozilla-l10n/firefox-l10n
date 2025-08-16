@@ -337,6 +337,10 @@ newtab-custom-widget-lists-toggle =
 newtab-custom-widget-timer-toggle =
     .label = 計時器
 newtab-custom-widget-section-title = 小工具
+# Tooltip for close button
+newtab-custom-close-menu-button =
+    .title = 關閉
+    .aria-label = 關閉選單
 newtab-custom-close-button = 關閉
 newtab-custom-settings = 管理更多設定
 
@@ -617,6 +621,11 @@ newtab-widget-lists-default-list-title = 任務清單
 newtab-widget-lists-default-list-new = 新增清單
 # "Add one" means adding a new task to the list (e.g., "Walk the dog")
 newtab-widget-lists-empty-cta = 有無限可能，請新增看看。
+# A simple label next to the default list name letting users know this is a new / beta feature
+newtab-widget-lists-label-new =
+    .label = 新功能
+newtab-widget-lists-label-beta =
+    .label = Beta
 # When tasks have been previous marked as complete, they will appear in their own separate list beneath incomplete items
 # Variables:
 #   $number (number) - Amount of list items marked complete
@@ -657,6 +666,10 @@ newtab-widget-timer-menu-notifications = 關閉通知
 newtab-widget-timer-menu-notifications-on = 開啟通知
 newtab-widget-timer-menu-hide = 隱藏計時器
 newtab-widget-timer-menu-learn-more = 更多資訊
+newtab-widget-keep-scrolling = 滾動顯示更多
 newtab-promo-card-title = 支持 { -brand-product-name }
 newtab-promo-card-body = 贊助商支持我們打造出一個更好的網路環境的使命
 newtab-promo-card-cta = 更多資訊
+newtab-promo-card-dismiss-button =
+    .title = 知道了！
+    .aria-label = 知道了！

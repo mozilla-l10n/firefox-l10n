@@ -337,6 +337,10 @@ newtab-custom-widget-lists-toggle =
 newtab-custom-widget-timer-toggle =
     .label = Zamanlayıcı
 newtab-custom-widget-section-title = Widget’lar
+# Tooltip for close button
+newtab-custom-close-menu-button =
+    .title = Kapat
+    .aria-label = Menüyü kapat
 newtab-custom-close-button = Kapat
 newtab-custom-settings = Diğer ayarları yönet
 
@@ -617,6 +621,11 @@ newtab-widget-lists-default-list-title = Görev listesi
 newtab-widget-lists-default-list-new = Yeni liste
 # "Add one" means adding a new task to the list (e.g., "Walk the dog")
 newtab-widget-lists-empty-cta = Olasılıklar sonsuz. Bir görev ekleyin.
+# A simple label next to the default list name letting users know this is a new / beta feature
+newtab-widget-lists-label-new =
+    .label = Yeni
+newtab-widget-lists-label-beta =
+    .label = Beta
 # When tasks have been previous marked as complete, they will appear in their own separate list beneath incomplete items
 # Variables:
 #   $number (number) - Amount of list items marked complete
@@ -657,3 +666,6 @@ newtab-widget-timer-menu-learn-more = Daha fazla bilgi alın
 newtab-promo-card-title = { -brand-product-name } tarayıcısını destekleyin
 newtab-promo-card-body = Sponsorlarımız daha iyi bir web inşa etme misyonumuzu destekliyor
 newtab-promo-card-cta = Daha fazla bilgi alın
+newtab-promo-card-dismiss-button =
+    .title = Kapat
+    .aria-label = Kapat

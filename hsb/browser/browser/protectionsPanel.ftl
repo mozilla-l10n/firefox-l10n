@@ -106,7 +106,7 @@ protections-panel-site-not-working-view-send-report = Rozprawu pósłać
 
 ##
 
-protections-panel-cross-site-tracking-cookies = Tute placki wam wot sydła do sydła slěduja, zo bychu daty wo tym zběrali, štož online činiće. Stajeja so wot třećich poskićowarjow kaž na přikład wabjerjow a analyzowych předewzaćow.
+protections-panel-cross-site-tracking-cookies = Tute placki wam wot sydła do sydła slěduja, zo bychu daty wo tym hromadźili, štož online činiće. Stajeja so wot třećich poskićowarjow kaž na přikład wabjerjow a analyzowych předewzaćow.
 protections-panel-cryptominers = Kryptokopanje ličenski wukon wašeho systema wužiwa, zo by digitalne pjenjezy dobyło. Kryptokopanske skripty wašu bateriju prózdnja, waš ličak spomaleja a móža wašu přetrjebu energije powyšić.
 protections-panel-fingerprinters = Hromadźaki porstowych wotćišćow nastajenja z wašeho wobhladowaka a ličaka hromadźeja, zo bychu profil wo was wutworili. Hdyž tutón digitalny porstowy wotćišć wužiwaće, móža wam přez rozdźělne websydła slědować.
 protections-panel-tracking-content = Websydła móža eksterne wabjenje, wideja a druhi wobsah ze slědowacym kodom začitać. Hdyž slědowacy wobsah blokujeće, móže to pomhać, sydła spěšnišo začitać, ale někotre tłóčatka, formulary a přizjewjenske pola snano hižo njebudu fungować.
