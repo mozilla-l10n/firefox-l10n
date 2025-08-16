@@ -56,3 +56,14 @@ experimental-features-fx-web-apps =
     .label = Legg til nettstadar på oppgåvelinja
 # “Add tab to taskbar” is found in the tooltip text of `-taskbar-tab-urlbar-button-open`.
 experimental-features-fx-web-apps-description = Opne nettstadar du besøkjer ofte som ein nettapp frå oppgåvelinja. Sjå etter ikonet «Legg til fane i oppgåvelinja» til høgre for adressefeltet for å starte nettstaden i eit straumlinjeforma vindauge med alle { -brand-product-name } verna sine. <a data-l10n-name="connect">Del tilbakemelding</a>
+
+## New Tab Productivity Widgets
+
+# Lists Widget
+experimental-features-newtab-widget-lists =
+    .label = Lister på { -firefox-home-brand-name }
+experimental-features-newtab-widget-lists-description = Ha gjeremålslista di i tankane når du opnar ei ny fane. Frå pakkelister til handlelister, lag planane dine i { -brand-product-name }. <a data-l10n-name="connect">Del tilbakemeldingar</a>
+# Timer Widget
+experimental-features-newtab-widget-timer =
+    .label = Nedteljing på { -firefox-home-brand-name }
+experimental-features-newtab-widget-timer-description = Still inn ei nedteljing for å halde fokus, minne deg på å halde deg på sporet eller minne deg på å lade opp. <a data-l10n-name="connect">Del tilbakemelding</a>
