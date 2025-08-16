@@ -314,8 +314,10 @@ fxa-menu-message-close-button =
     .aria-label = 닫기
 fxa-menu-message-sign-up-button = 가입
 fxa-menu-message-sign-in-button = 로그인
+fxa-menu-message-sync-button = 동기화 시작
 fxa-menu-message-sync-devices-primary-text = 모든 기기 동기화
 fxa-menu-message-sync-devices-secondary-text = { -brand-short-name }를 사용하는 모든 곳에서 북마크나 비밀번호와 같은 정보를 즉시 얻으세요.
+fxa-menu-message-sync-devices-secondary-text2 = { -brand-short-name }에 로그인한 모든 곳에서 북마크, 비밀번호 등을 즉시 사용하세요.
 fxa-menu-message-sync-devices-collapsed-text = 모든 기기 동기화
 fxa-menu-message-backup-data-primary-text = 브라우저 데이터 백업
 fxa-menu-message-backup-data-secondary-text = 모든 기기의 북마크, 비밀번호 및 기타 정보를 자동으로 보호합니다.
@@ -359,3 +361,11 @@ windows-10-eos-sync-toast-title = Windows 11로 업그레이드하시겠습니�
 windows-10-eos-sync-toast-subtitle = 이 PC나 다음 PC에서 언제든지 { -brand-short-name }를 사용할 수 있도록 데이터를 백업하세요.
 windows-10-eos-sync-toast-primary-label = 시작하기
 windows-10-eos-sync-toast-secondary-label = 나중에 알림
+
+## Windows 10 EoS sync messages group 2 feature callouts
+
+windows-10-eos-challenger-callout-title = { -brand-product-name }는 다른 대형 기술 기업 브라우저처럼 사전 설치되어 있지 않습니다. 이것이 중요합니다.
+windows-10-eos-challenger-sync-callout-subtitle = { -brand-product-name }의 북마크와 비밀번호를 백업하면, 선택한 브라우저를 다음 기기로 옮기는 것이 더 쉬워집니다.
+windows-10-eos-challenger-pin-callout-subtitle = 선택한 브라우저가 필요할 때 항상 사용할 수 있도록 { -brand-shorter-name }를 작업 표시줄에 고정하세요.
+windows-10-eos-challenger-sync-primary-button = { -brand-shorter-name } 백업
+windows-10-eos-challenger-pin-primary-button = { -brand-shorter-name } 고정
