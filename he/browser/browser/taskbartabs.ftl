@@ -11,6 +11,8 @@ taskbar-tab-urlbar-button-open =
     .tooltiptext = הוספת לשונית לשורת המשימות
 taskbar-tab-urlbar-button-close =
     .tooltiptext = הסרת לשונית משורת המשימות
+taskbar-tab-urlbar-button-show = הצגת פעולת הדף ״יישומון רשת״
+taskbar-tab-urlbar-button-hide = הסתרת פעולת הדף ״יישומון רשת״
 # This string is used in the description of a Windows Start Menu
 # shortcut for a Taskbar Tab.
 # Variables:

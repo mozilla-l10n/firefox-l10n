@@ -339,6 +339,18 @@ newtab-custom-weather-toggle =
 newtab-custom-trending-search-toggle =
     .label = Trendy ve vyhledávání
     .description = Oblíbená a často vyhledávaná témata
+newtab-custom-widget-weather-toggle =
+    .label = Počasí
+newtab-custom-widget-trending-search-toggle =
+    .label = Trendy ve vyhledávání
+newtab-custom-widget-lists-toggle =
+    .label = Seznamy
+newtab-custom-widget-timer-toggle =
+    .label = Časovač
+# Tooltip for close button
+newtab-custom-close-menu-button =
+    .title = Zavřít
+    .aria-label = Zavřít nabídku
 newtab-custom-close-button = Zavřít
 newtab-custom-settings = Další nastavení
 
@@ -631,3 +643,49 @@ newtab-trending-searches-learn-more = Zjistit více
 newtab-trending-searches-dismiss = Skrýt populární vyhledávání
 # "Trending searches refers to popular searches from search engines
 newtab-trending-searches-title = Trendy ve vyhledávání
+
+## Strings for task / to-do list productivity widget
+
+newtab-widget-lists-default-list-title = Seznam úkolů
+# The placeholder value of the name field for a newly created list
+newtab-widget-lists-default-list-new = Nový seznam
+# "Add one" means adding a new task to the list (e.g., "Walk the dog")
+newtab-widget-lists-empty-cta = Možnosti jsou nekonečné. Přidat další.
+# A simple label next to the default list name letting users know this is a new / beta feature
+newtab-widget-lists-label-new =
+    .label = Nový
+newtab-widget-lists-label-beta =
+    .label = Beta
+# When tasks have been previous marked as complete, they will appear in their own separate list beneath incomplete items
+# Variables:
+#   $number (number) - Amount of list items marked complete
+newtab-widget-lists-completed-list = Dokončeno ({ $number })
+newtab-widget-task-list-menu-copy = Kopírovat
+newtab-widget-lists-menu-edit = Upravit název seznamu
+newtab-widget-lists-menu-create = Vytvoření nového seznamu
+newtab-widget-lists-menu-delete = Smazat tento seznam
+newtab-widget-lists-menu-copy = Zkopírovat seznam do schránky
+newtab-widget-lists-menu-hide = Skrýt všechny seznamy
+newtab-widget-lists-menu-learn-more = Zjistit více
+newtab-widget-lists-input-placeholder = Přidat položku
+
+## Strings for timer productivity widget
+## When the timer ends, a system notification may be shown. Depending on which mode the timer is in, that message would be shown
+
+newtab-widget-timer-mode-break =
+    .label = Přestávka
+newtab-widget-timer-play =
+    .title = Přehrát
+newtab-widget-timer-pause =
+    .title = Pozastavit
+newtab-widget-timer-reset =
+    .title = Obnovit
+newtab-widget-timer-menu-notifications = Vypnout oznámení
+newtab-widget-timer-menu-notifications-on = Zapnout oznámení
+newtab-widget-timer-menu-hide = Skrýt časovač
+newtab-widget-timer-menu-learn-more = Zjistit více
+newtab-promo-card-body = Naši sponzoři podporují naši misi budovat lepší web.
+newtab-promo-card-cta = Zjistit více
+newtab-promo-card-dismiss-button =
+    .title = Zavřít
+    .aria-label = Zavřít

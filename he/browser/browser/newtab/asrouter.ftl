@@ -372,3 +372,16 @@ windows-10-eos-sync-callout-privacy-screen-2-subtitle = גיבוי { -brand-shor
 windows-10-eos-sync-callout-privacy-info-button = הצגת הפריטים שנחסמים
 windows-10-eos-callout-addons-title = כדאי לנסות תוספות: שדרוגים פשוטים עם השפעות גדולות
 windows-10-eos-callout-addons-subtitle = הרחבות אלו נבחרו כדי לעזור לך להישאר פרודוקטיבי, מוגן וללא הסחות דעת.
+windows-10-eos-callout-addons-primary-button = הצגת המומלצים שלנו
+windows-10-eos-sync-callout-addons-title = לא לאבד את התוספות שלך בעת השדרוג מ־Windows 10.
+windows-10-eos-sync-callout-addons-subtitle = כדאי לסנכרן עכשיו כדי שהתוספות שלך ב־{ -brand-product-name } תהיינה זמינות תמיד, גם לאחר החלפת מכשיר.
+windows-10-eos-sync-callout-next-button = הבא
+windows-10-eos-sync-callout-get-started-button = תחילת עבודה
+
+## Windows 10 EoS Sync messages group 2 toast notification
+
+windows-10-eos-feature-toast-title = לשוניות אנכיות וקבוצות לשוניות כבר כאן!
+# In English, "dropped" is a colloquial form for released.
+windows-10-eos-feature-toast-subtitle = בתגובה לביקוש הרב, { -brand-product-name } השיקה תכונות חדשות לגלישה חלקה ומרוכזת יותר.
+windows-10-eos-feature-toast-whats-new-button = מה חדש
+windows-10-eos-feature-toast-dismiss-button = סגירה

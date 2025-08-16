@@ -523,3 +523,8 @@ windows-10-eos-sync-toast-subtitle =
     }
 windows-10-eos-sync-toast-primary-label = Začít
 windows-10-eos-sync-toast-secondary-label = Upozornit mě později
+
+## Windows 10 EoS Sync messages group 2 toast notification
+
+windows-10-eos-feature-toast-whats-new-button = Co je nového
+windows-10-eos-feature-toast-dismiss-button = Zavřít
