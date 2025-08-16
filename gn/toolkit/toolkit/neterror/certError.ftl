@@ -143,6 +143,7 @@ redirectLoop-title = Ko kuatiarogue ndoguerahajeýi hekoitépe
 unknownSocketType-title = Mbohovái eha’ãrõ’ỹva mohendahavusúgui
 nssFailure2-title = Jeikekatu jejavýva
 csp-xfo-error-title = { -brand-short-name } ndoikekuaái ko kuatiaroguépe
+corruptedContentErrorv2-title = Tetepy imarãva jejavy
 corruptedContentError-title = Tetepy marãva jejavy
 sslv3Used-title = Ndaikatúi eikekatu
 inadequateSecurityError-title = Nde jeike ndahekokatúi
