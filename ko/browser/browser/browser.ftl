@@ -820,6 +820,37 @@ urlbar-result-dismissal-acknowledgment-market = 의견을 보내 주셔서 감�
 # particular type.
 urlbar-result-dismissal-acknowledgment-all = 의견을 보내 주셔서 감사합니다. 이 제안이 더 이상 표시되지 않습니다.
 
+## These strings are used for suggestions of important dates in the urlbar.
+
+# The name of an event and the number of days until it starts separated by a
+# middot.
+# Variables:
+#   $name (string) - The name of the event.
+#   $daysUntilStart (integer) - The number of days until the event starts.
+urlbar-result-dates-countdown = { $name } · { $daysUntilStart }일 후
+# The name of a multiple day long event and the number of days until it starts
+# separated by a middot.
+# Variables:
+#   $name (string) - The name of the event.
+#   $daysUntilStart (integer) - The number of days until the event starts.
+urlbar-result-dates-countdown-range = { $name } · { $daysUntilStart }일 후 시작
+# The name of a multiple day long event and the number of days until it ends
+# separated by a middot.
+# Variables:
+#   $name (string) - The name of the event.
+#   $daysUntilEnd (integer) - The number of days until the event ends.
+urlbar-result-dates-ongoing = { $name } · { $daysUntilEnd }일 후 종료
+# The name of an event and a note that it is happening today separated by a
+# middot.
+# Variables:
+#   $name (string) - The name of the event.
+urlbar-result-dates-today = { $name } · 오늘
+# The name of multiple day long event and a note that it is ends today
+# separated by a middot.
+# Variables:
+#   $name (string) - The name of the event.
+urlbar-result-dates-ends-today = { $name } · 오늘 종료
+
 ## Strings used for buttons in the urlbar
 
 # Label prompting user to search with a particular search engine.

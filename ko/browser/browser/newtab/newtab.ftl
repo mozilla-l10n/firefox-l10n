@@ -340,6 +340,10 @@ newtab-custom-widget-lists-toggle =
 newtab-custom-widget-timer-toggle =
     .label = 타이머
 newtab-custom-widget-section-title = 위젯
+# Tooltip for close button
+newtab-custom-close-menu-button =
+    .title = 닫기
+    .aria-label = 메뉴 닫기
 newtab-custom-close-button = 닫기
 newtab-custom-settings = 추가 설정
 
@@ -620,6 +624,11 @@ newtab-widget-lists-default-list-title = 작업 목록
 newtab-widget-lists-default-list-new = 새 목록
 # "Add one" means adding a new task to the list (e.g., "Walk the dog")
 newtab-widget-lists-empty-cta = 가능성은 무한합니다. 하나를 추가하세요.
+# A simple label next to the default list name letting users know this is a new / beta feature
+newtab-widget-lists-label-new =
+    .label = 신규
+newtab-widget-lists-label-beta =
+    .label = 베타
 # When tasks have been previous marked as complete, they will appear in their own separate list beneath incomplete items
 # Variables:
 #   $number (number) - Amount of list items marked complete
@@ -663,3 +672,6 @@ newtab-widget-timer-menu-learn-more = 더 알아보기
 newtab-promo-card-title = { -brand-product-name } 지원
 newtab-promo-card-body = 스폰서는 더 나은 웹을 만들려는 우리의 사명을 지원합니다
 newtab-promo-card-cta = 더 알아보기
+newtab-promo-card-dismiss-button =
+    .title = 닫기
+    .aria-label = 닫기
