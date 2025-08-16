@@ -323,8 +323,10 @@ fxa-menu-message-close-button =
     .aria-label = Zacyniś
 fxa-menu-message-sign-up-button = Registrěrowaś
 fxa-menu-message-sign-in-button = Pśizjawiś
+fxa-menu-message-sync-button = Synchronizaciju zachopiś
 fxa-menu-message-sync-devices-primary-text = Synchronizěrujśo wšykne swóje rědy
 fxa-menu-message-sync-devices-secondary-text = Wobstarajśo se ned swóje informacije – na pśikład swóje cytańske znamjenja a gronidła – wšuźi, źož { -brand-short-name } wužywaśo.
+fxa-menu-message-sync-devices-secondary-text2 = Wobstarajśo se ned swóje cytańske znamjenja, gronidła a wěcej – wšuźi, źož sćo se pśizjawił pla { -brand-short-name }.
 fxa-menu-message-sync-devices-collapsed-text = Synchronizěrujśo wšykne swóje rědy
 fxa-menu-message-backup-data-primary-text = Zawěsććo swóje daty wobglědowaka
 fxa-menu-message-backup-data-secondary-text = Šćitajśo awtomatiski cytańske znamjenja, gronidła a druge informacije na wšych swójich rědach.
@@ -368,3 +370,7 @@ windows-10-eos-sync-toast-title = Na Windows 11 aktualizěrowaś? Njezgubujśo c
 windows-10-eos-sync-toast-subtitle = Zawěsććo swóje daty, aby { -brand-short-name } mógł je kuždy cas wužywaś, na toś tom PC abo na pśiducem.
 windows-10-eos-sync-toast-primary-label = Prědne kšace
 windows-10-eos-sync-toast-secondary-label = Pózdźej dopomnjeś
+
+## Windows 10 EoS sync messages group 2 feature callouts
+
+windows-10-eos-challenger-callout-title = { -brand-product-name } se do togo njezacytajo, na rozdźěl wót drugich wobglědowakow wjelikich technologijowych pśedewześow. To jo rozsudny dypk.

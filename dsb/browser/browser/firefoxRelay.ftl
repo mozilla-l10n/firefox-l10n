@@ -23,6 +23,7 @@ firefox-relay-opt-in-title-1 = Šćitajśo swóju e-mailowu adresu:
 # This is preceded by firefox-relay-opt-in-title-1 (on a different line), which
 # ends with a colon. You might need to adapt the capitalization of this string.
 firefox-relay-opt-in-subtitle-1 = E-mailowu masku { -relay-brand-name } wužywaś
+firefox-relay-use-mask-title-1 = E-mailowu masku wužywaś
 firefox-relay-use-mask-title = E-mailowu masku { -relay-brand-name } wužywaś
 # This is followed, on a new line, by firefox-relay-opt-in-subtitle-a
 firefox-relay-opt-in-title-a = Spamoju z dermotnej e-mailoweju masku zajźowaś
