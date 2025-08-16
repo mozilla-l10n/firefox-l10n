@@ -825,6 +825,29 @@ urlbar-result-dismissal-acknowledgment-market = Gracias por su opinión. Ya no v
 # particular type.
 urlbar-result-dismissal-acknowledgment-all = Gracias por su opinión. Ya no verá estas sugerencias.
 
+## These strings are used for suggestions of important dates in the urlbar.
+
+# The name of an event and the number of days until it starts separated by a
+# middot.
+# Variables:
+#   $name (string) - The name of the event.
+#   $daysUntilStart (integer) - The number of days until the event starts.
+urlbar-result-dates-countdown =
+    { $daysUntilStart ->
+        [one] { $name } · En { $daysUntilStart } día
+       *[other] { $name } · En { $daysUntilStart } días
+    }
+# The name of a multiple day long event and the number of days until it starts
+# separated by a middot.
+# Variables:
+#   $name (string) - The name of the event.
+#   $daysUntilStart (integer) - The number of days until the event starts.
+urlbar-result-dates-countdown-range =
+    { $daysUntilStart ->
+        [one] { $name } · Empieza en { $daysUntilStart } día
+       *[other] { $name } · Empieza en { $daysUntilStart } días
+    }
+
 ## Strings used for buttons in the urlbar
 
 # Label prompting user to search with a particular search engine.
