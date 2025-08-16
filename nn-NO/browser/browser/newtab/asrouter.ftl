@@ -369,11 +369,23 @@ windows-10-eos-sync-toast-secondary-label = Minn meg på det seinare
 windows-10-eos-challenger-callout-title = { -brand-product-name } er ikkje førehandsinstallert slik som andre nettlesarar frå dei store teknologigigantane. Det er poenget.
 windows-10-eos-challenger-sync-callout-subtitle = Når du sikringskopierer bokmerka og passorda dine frå { -brand-product-name }, er det enklare å ta med nettlesaren du valde til den neste eininga di.
 windows-10-eos-challenger-pin-callout-subtitle = Fest { -brand-shorter-name } til oppgåvelinja, slik at nettlesaren du valde alltid er der når du treng han.
+windows-10-eos-challenger-sync-primary-button = Sikringsskopier { -brand-shorter-name }
+windows-10-eos-challenger-pin-primary-button = Fest { -brand-shorter-name }
+windows-10-eos-sync-callout-privacy-screen-1-title = { -brand-product-name } blokkerer kryptoutvinnarar, sporarar for sosiale medium og fingeravtrykksporarar.
+windows-10-eos-sync-callout-privacy-screen-1-subtitle = Sporarar kan ikkje identifisere eininga di eller følgje deg på nettet — fordi vi ikkje lèt dei gjere det.
+windows-10-eos-sync-callout-privacy-screen-2-title = Sikre passorda og bokmerka dine for den neste eininga di.
+windows-10-eos-sync-callout-privacy-screen-2-subtitle = Sikkerheitskopiering av { -brand-shorter-name } gjer det enkelt å ta med seg dataa og personverninnstillingane dine.
 windows-10-eos-sync-callout-privacy-info-button = Sjå kva som er blokkert
+windows-10-eos-callout-addons-title = Prøv tillegg: enkle oppgraderingar, stor effekt
+windows-10-eos-callout-addons-subtitle = Desse utvidingane vart valde for å hjelpe deg med å halde deg produktiv, beskytta og distraksjonsfri.
+windows-10-eos-callout-addons-primary-button = Sjå vala våre
+windows-10-eos-sync-callout-addons-title = Ikkje mist tillegga dine når du oppgraderer frå Windows 10.
+windows-10-eos-sync-callout-addons-subtitle = Synkroniser no, slik at { -brand-product-name }-tillegga dine alltid er tilgjengelege, sjølv etter at du har bytt eining.
 windows-10-eos-sync-callout-next-button = Neste
 windows-10-eos-sync-callout-get-started-button = Kom i gang
 
 ## Windows 10 EoS Sync messages group 2 toast notification
 
+windows-10-eos-feature-toast-title = Vertikale faner og fanegrupper er her!
 windows-10-eos-feature-toast-whats-new-button = Sjå kva som er nytt
 windows-10-eos-feature-toast-dismiss-button = Ignorer
