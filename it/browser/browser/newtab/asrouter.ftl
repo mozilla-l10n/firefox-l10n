@@ -388,3 +388,4 @@ windows-10-eos-feature-toast-title = Schede verticali e gruppi di schede: ci sia
 windows-10-eos-feature-toast-subtitle = A grande richiesta, { -brand-product-name } ha appena lanciato nuove funzioni per mantenere la tua navigazione ordinata e senza distrazioni.
 windows-10-eos-feature-toast-whats-new-button = Scopri le novità
 windows-10-eos-feature-toast-dismiss-button = Chiudi
+

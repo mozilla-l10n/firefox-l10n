@@ -31,3 +31,4 @@ unexpected-script-load-email-textbox =
 unexpected-script-load-more-info = Altre informazioni
 unexpected-script-load-learn-more = Ulteriori informazioni
 unexpected-script-load-telemetry-disabled = Non è possibile inviare una segnalazione in quanto la telemetria è disattivata nelle impostazioni. Attiva la telemetria per inviare una segnalazione.
+
