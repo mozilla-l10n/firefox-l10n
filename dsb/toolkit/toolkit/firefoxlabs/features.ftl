@@ -66,3 +66,4 @@ experimental-features-newtab-widget-lists-description = Wobchowajśo lisćinu sw
 # Timer Widget
 experimental-features-newtab-widget-timer =
     .label = Casowe měritko w { -firefox-home-brand-name }
+experimental-features-newtab-widget-timer-description = Stajśo casowe měritko, aby koncentrěrowany wóstał, aby was tłusnuł, aby na droze wóstał abo zasej napołnił. <a data-l10n-name="connect">Měnjenje k wěsći daś</a>
