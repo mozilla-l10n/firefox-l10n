@@ -394,3 +394,7 @@ windows-10-eos-sync-callout-get-started-button = Prědne kšace
 ## Windows 10 EoS Sync messages group 2 toast notification
 
 windows-10-eos-feature-toast-title = Wertikalne rejtariki a kupki rejtarikow su how!
+# In English, "dropped" is a colloquial form for released.
+windows-10-eos-feature-toast-subtitle = Na wjelesere žycenje jo { -brand-product-name } rowno wózjawił nowe funkcije, aby waše pśeglědowanje optiměrowane a fokusěrowane źaržał.
+windows-10-eos-feature-toast-whats-new-button = Cytajśo, což jo nowe
+windows-10-eos-feature-toast-dismiss-button = Zachyśiś

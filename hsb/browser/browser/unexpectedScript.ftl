@@ -14,7 +14,7 @@ unexpected-script-load-message-button-allow =
 unexpected-script-load-message-button-block =
     .label = Blokować
     .accesskey = B
-unexpected-script-load-title = Njewočakowane skriptowe začitanje
+unexpected-script-load-title = Začitanje njewočakowaneho skripta
 unexpected-script-load-detail-1-allow = { -brand-short-name } <strong>DOWOLI</strong>, zo so njewočakowane priwilegowane skripty, mjez nimi slědowacy, začitaja. To wašu instalaciju { -brand-short-name } <strong>mjenje</strong> wěstu čini.
 unexpected-script-load-detail-1-block = { -brand-short-name } tomu <strong>ZADŹĚWA</strong>, zo so njewočakowane priwilegowane skripty, mjez nimi slědowacy, začitaja. To wašu instalaciju { -brand-short-name } <strong>wěsćišu</strong> čini.
 # In this text "the functionality" refers to whatever the unexpected script is doing.
