@@ -52,3 +52,10 @@ experimental-features-fx-web-apps =
     .label = הוספת לשוניות לשורת המשימות שלך
 # “Add tab to taskbar” is found in the tooltip text of `-taskbar-tab-urlbar-button-open`.
 experimental-features-fx-web-apps-description = פתיחת אתרים שבהם מבקרים לעתים קרובות כיישומון רשת משורת המשימות שלך. יש לחפש אחר הסמל ״הוספת לשונית לשורת המשימות״ מצד שמאל לשורת הכתובת כדי לפתוח את האתר ההוא בחלון מפושט עם כל ההגנות של { -brand-product-name }. <a data-l10n-name="connect">שיתוף משוב</a>
+
+## New Tab Productivity Widgets
+
+# Lists Widget
+experimental-features-newtab-widget-lists =
+    .label = רשימות ב־{ -firefox-home-brand-name }
+experimental-features-newtab-widget-lists-description = לזכור את רשימת המשימות שלך בעת פתיחת כל לשונית חדשה. מרשימת אריזה ועד רשימת קניות, ניתן לערוך את התוכניות שלך ב־{ -brand-product-name }. <a data-l10n-name="connect">שיתוף משוב</a>
