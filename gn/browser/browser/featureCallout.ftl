@@ -114,7 +114,10 @@ fxa-adoption-passwords-primary-button-label = Eñemboheraguapy
 
 ## Windows 10 EoS Sync messages group 1 callouts
 
+windows-10-eos-sync-new-device-title-1 = Aníke eñepyrũ jey tembiapo mba’e’oka oútavape.
+windows-10-eos-sync-new-device-title-2 = ¿Emoambuese ne mba’e’oka? Ani eheja pe emomba’éva.
 windows-10-eos-sync-new-device-primary-label = Embojuehe ko’ág̃a
+windows-10-eos-sync-general-title-1 = Emo’ã pe { -brand-short-name } eñemoba’ehague.
 
 ## Sidebar Strings
 

@@ -672,6 +672,7 @@ newtab-widget-timer-menu-notifications = Zdźělenja znjemóžnić
 newtab-widget-timer-menu-notifications-on = Zdźělenja zmóžnić
 newtab-widget-timer-menu-hide = Časoměr schować
 newtab-widget-timer-menu-learn-more = Dalše informacije
+newtab-widget-keep-scrolling = Za dalše kulić
 newtab-promo-card-title = { -brand-product-name } podpěrać
 newtab-promo-card-body = Naši sponsorojo našu misiju podpěruja, zo bychu lěpši web tworili
 newtab-promo-card-cta = Dalše informacije

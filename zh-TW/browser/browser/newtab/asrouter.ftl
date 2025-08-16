@@ -365,6 +365,9 @@ windows-10-eos-sync-toast-secondary-label = 待會提醒我
 
 windows-10-eos-challenger-sync-primary-button = 備份 { -brand-shorter-name }
 windows-10-eos-challenger-pin-primary-button = 釘選 { -brand-shorter-name }
+windows-10-eos-sync-callout-privacy-screen-1-title = { -brand-product-name } 會封鎖加密貨幣採礦程式、社群網路追蹤器，以及數位指紋追蹤程式。
+windows-10-eos-sync-callout-privacy-screen-1-subtitle = 我們不讓追蹤器辨識您的裝置，或在不同網站之間跟隨您
+windows-10-eos-sync-callout-privacy-screen-2-title = 保留您儲存的網站密碼與書籤，到新裝置當中使用。
 windows-10-eos-sync-callout-privacy-info-button = 看看封鎖了哪些項目
 windows-10-eos-callout-addons-primary-button = 看我們的精選項目
 windows-10-eos-sync-callout-addons-title = 從 Windows 10 升級時，別失去現在的附加元件。

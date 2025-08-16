@@ -377,12 +377,18 @@ windows-10-eos-challenger-pin-callout-subtitle = Připniće { -brand-shorter-nam
 windows-10-eos-challenger-sync-primary-button = { -brand-shorter-name } zawěsćić
 windows-10-eos-challenger-pin-primary-button = { -brand-shorter-name } připjeć
 windows-10-eos-sync-callout-privacy-screen-1-title = { -brand-product-name } kryptokopaki, přesćěhowaki socialnych medijow a hromadźaki porstowych wotćišćow blokuje
+windows-10-eos-sync-callout-privacy-screen-1-subtitle = Přesćěhowaki njemóža waš grat identifikować abo wam přez web slědować – dokelž jim to njedowolujemy.
 windows-10-eos-sync-callout-privacy-screen-2-title = Zawěsćće swoje hesła a zapołožki za swój přichodny grat.
+windows-10-eos-sync-callout-privacy-screen-2-subtitle = Zawěsćenje { -brand-shorter-name } wam wosnadnja, waše daty a nastajenja priwatnosće wšudźe sobu wzać.
 windows-10-eos-sync-callout-privacy-info-button = Hladajće, štož so blokuje
+windows-10-eos-callout-addons-title = Wupruwujće: jednore aktualizacije, wulke wuskutki
+windows-10-eos-callout-addons-primary-button = Hlejće naše wuběry
+windows-10-eos-sync-callout-addons-title = Njezhubjejće swoje přidatki, hdyž wot Windows 10 aktualizujeće.
 windows-10-eos-sync-callout-next-button = Dale
 windows-10-eos-sync-callout-get-started-button = Prěnje kroki
 
 ## Windows 10 EoS Sync messages group 2 toast notification
 
+windows-10-eos-feature-toast-title = Wertikalne rajtarki a skupiny rajtarkow su tu!
 windows-10-eos-feature-toast-whats-new-button = Čitajće, štož je nowe
 windows-10-eos-feature-toast-dismiss-button = Zaćisnyć

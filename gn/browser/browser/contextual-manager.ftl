@@ -333,4 +333,6 @@ contextual-manager-passwords-remove-all-passwords-checkbox =
         [one] Héẽ, emboguete ñe’ẽñeminguéra
        *[other] Héẽ, emboguete ñe’ẽñeminguéra
     }
+# This string informs the user their primary password is used to authenticate and access their passwords
+contextual-manager-primary-password-reauth-button = Ehai ñe’ẽñemi ha’etéva
 contextual-manager-primary-password-learn-more-link = Eikuaave
