@@ -369,3 +369,20 @@ windows-10-eos-challenger-sync-callout-subtitle = { -brand-product-name }의 북
 windows-10-eos-challenger-pin-callout-subtitle = 선택한 브라우저가 필요할 때 항상 사용할 수 있도록 { -brand-shorter-name }를 작업 표시줄에 고정하세요.
 windows-10-eos-challenger-sync-primary-button = { -brand-shorter-name } 백업
 windows-10-eos-challenger-pin-primary-button = { -brand-shorter-name } 고정
+windows-10-eos-sync-callout-privacy-screen-1-title = { -brand-product-name }는 암호화폐 채굴기, 소셜 미디어 추적기 및 디지털 지문을 차단합니다.
+windows-10-eos-sync-callout-privacy-screen-1-subtitle = 추적기는 사용자의 기기를 식별하거나 웹을 통해 사용자를 추적할 수 없습니다 — 왜냐하면 우리는 그것을 허용하지 않기 때문입니다.
+windows-10-eos-sync-callout-privacy-screen-2-title = 다음 기기를 위해 비밀번호와 북마크를 보호하세요.
+windows-10-eos-sync-callout-privacy-screen-2-subtitle = { -brand-shorter-name }를 백업하면 데이터 및 개인 정보 설정을 쉽게 가져올 수 있습니다.
+windows-10-eos-sync-callout-privacy-info-button = 차단 된 내용보기
+windows-10-eos-callout-addons-title = 부가 기능을 사용해 보세요: 간단한 업그레이드, 큰 영향력
+windows-10-eos-callout-addons-subtitle = 다음 확장 기능들은 여러분이 생산성을 유지하고, 보호를 받으며, 방해받지 않는걸 돕도록 선택되었습니다.
+windows-10-eos-callout-addons-primary-button = 추천 보기
+windows-10-eos-sync-callout-addons-title = Windows 10에서 업그레이드할 때 부가 기능을 잃어버리지 마세요.
+windows-10-eos-sync-callout-addons-subtitle = 지금 동기화하여 { -brand-product-name } 부가 기능을 기기 변경 후에도 항상 사용할 수 있도록 하세요.
+windows-10-eos-sync-callout-next-button = 다음
+windows-10-eos-sync-callout-get-started-button = 시작하기
+
+## Windows 10 EoS Sync messages group 2 toast notification
+
+windows-10-eos-feature-toast-title = 세로 탭 및 탭 그룹이 여기에 있습니다!
+windows-10-eos-feature-toast-whats-new-button = 새 기능 살펴보기
