@@ -847,6 +847,26 @@ urlbar-result-dates-countdown-range =
         [one] { $name } · Empieza en { $daysUntilStart } día
        *[other] { $name } · Empieza en { $daysUntilStart } días
     }
+# The name of a multiple day long event and the number of days until it ends
+# separated by a middot.
+# Variables:
+#   $name (string) - The name of the event.
+#   $daysUntilEnd (integer) - The number of days until the event ends.
+urlbar-result-dates-ongoing =
+    { $daysUntilEnd ->
+        [one] { $name } · Termina en { $daysUntilEnd } día
+       *[other] { $name } · Termina en { $daysUntilEnd } días
+    }
+# The name of an event and a note that it is happening today separated by a
+# middot.
+# Variables:
+#   $name (string) - The name of the event.
+urlbar-result-dates-today = { $name } · Hoy
+# The name of multiple day long event and a note that it is ends today
+# separated by a middot.
+# Variables:
+#   $name (string) - The name of the event.
+urlbar-result-dates-ends-today = { $name } · Termina hoy
 
 ## Strings used for buttons in the urlbar
 
