@@ -17,6 +17,10 @@ unexpected-script-load-message-button-block =
 unexpected-script-load-title = Njewočakowane skriptowe začitanje
 unexpected-script-load-detail-1-allow = { -brand-short-name } <strong>DOWOLI</strong>, zo so njewočakowane priwilegowane skripty, mjez nimi slědowacy, začitaja. To wašu instalaciju { -brand-short-name } <strong>mjenje</strong> wěstu čini.
 unexpected-script-load-detail-1-block = { -brand-short-name } tomu <strong>ZADŹĚWA</strong>, zo so njewočakowane priwilegowane skripty, mjez nimi slědowacy, začitaja. To wašu instalaciju { -brand-short-name } <strong>wěsćišu</strong> čini.
+# In this text "the functionality" refers to whatever the unexpected script is doing.
+# Sorry that is vague - but we don't know what these scripts are, so we don't know what they're doing
+# They could be a custom script people used to customize Firefox, an enterprise configuration script, or something else entirely
+unexpected-script-load-detail-2 = Samo hdyž tutón skript dowoleće, zdźělće jón prošu { -vendor-short-name }, zo byšće pomhał rozumić, kak a čehodla je so začitał. <em> Bjez tute informacije móže funkcionalnosć w přichodźe mylena być.</em>
 unexpected-script-load-report-checkbox =
     .label = { -vendor-short-name } URL tutoho skripta zdźělić
 unexpected-script-load-email-checkbox =
