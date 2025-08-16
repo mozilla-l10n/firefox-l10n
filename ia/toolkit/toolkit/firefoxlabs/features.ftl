@@ -66,3 +66,4 @@ experimental-features-newtab-widget-lists-description = Mantene tu agenda a tu m
 # Timer Widget
 experimental-features-newtab-widget-timer =
     .label = Temporisator in { -firefox-home-brand-name }
+experimental-features-newtab-widget-timer-description = Regula un temporisator pro mantener te concentrate, colpar te de cubito pro remaner in pista, o rememorar te de recargar.

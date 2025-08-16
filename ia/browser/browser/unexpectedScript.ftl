@@ -4,6 +4,10 @@
 
 unexpected-script-close-button =
     .aria-label = Clauder
+# This string is used in the notification bar
+# Variables:
+#   $origin (string) - The top level domain the unexpected script was loaded from
+unexpected-script-load-message = <strong>{ -brand-short-name } ha disvelate un impreviste, privilegiate script ab { $origin }</strong>
 unexpected-script-load-message-button-allow =
     .label = Permitter
     .accesskey = P
