@@ -47,3 +47,6 @@ experimental-features-fx-web-apps =
 # Lists Widget
 experimental-features-newtab-widget-lists =
     .label = { -firefox-home-brand-name } rysýipe
+# Timer Widget
+experimental-features-newtab-widget-timer =
+    .label = Aravopapaha { -firefox-home-brand-name }-pe
