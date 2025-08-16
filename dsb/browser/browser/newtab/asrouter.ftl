@@ -374,3 +374,8 @@ windows-10-eos-sync-toast-secondary-label = Pózdźej dopomnjeś
 ## Windows 10 EoS sync messages group 2 feature callouts
 
 windows-10-eos-challenger-callout-title = { -brand-product-name } se do togo njezacytajo, na rozdźěl wót drugich wobglědowakow wjelikich technologijowych pśedewześow. To jo rozsudny dypk.
+windows-10-eos-challenger-sync-callout-subtitle = Gaž swóje cytańske znamjenja a gronidłahesła { -brand-product-name } zawěsćujośo, jo lažčej za was, wubrany wobglědowak do pśiducego rěda pśewześ.
+windows-10-eos-challenger-pin-callout-subtitle = Pśipijśo { -brand-shorter-name } k swójej nadawkowej rědce, aby wobglědowak, kótaryž sćo wubrał, jo pśecej tam, gaž jen trjebaśo.
+windows-10-eos-challenger-sync-primary-button = { -brand-shorter-name } zawěsćiś
+windows-10-eos-challenger-pin-primary-button = { -brand-shorter-name } pśipěś
+windows-10-eos-sync-callout-privacy-screen-1-title = { -brand-product-name } kryptokopaki, pśeslědowaki socialnych medijow a gromaźarje palcowych wótśišćow blokěrujo

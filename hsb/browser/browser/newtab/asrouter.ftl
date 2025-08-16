@@ -375,7 +375,7 @@ windows-10-eos-sync-toast-secondary-label = Pozdźišo dopomnić
 
 windows-10-eos-challenger-callout-title = { -brand-product-name } so prjedy njezačita, na rozdźěl wot druhich wobhladowakow wulkich technologijowych předewzaćow. To je jadro.
 windows-10-eos-challenger-sync-callout-subtitle = Hdyž swoje zapołožki a hesła { -brand-product-name } zawěsćeće, je lóšo za was, wubrany wobhladowak do přichodneho grata přewzać.
-windows-10-eos-challenger-pin-callout-subtitle = Připniće { -brand-shorter-name } k swšojej nadawkowej lajsće, zo by wobhladowak, kotryž sće wubrał, je přeco tam, hdyž jón trjebaće.
+windows-10-eos-challenger-pin-callout-subtitle = Připniće { -brand-shorter-name } k swojej nadawkowej lajsće, zo by wobhladowak, kotryž sće wubrał, je přeco tam, hdyž jón trjebaće.
 windows-10-eos-challenger-sync-primary-button = { -brand-shorter-name } zawěsćić
 windows-10-eos-challenger-pin-primary-button = { -brand-shorter-name } připjeć
 windows-10-eos-sync-callout-privacy-screen-1-title = { -brand-product-name } kryptokopaki, přesćěhowaki socialnych medijow a hromadźaki porstowych wotćišćow blokuje
