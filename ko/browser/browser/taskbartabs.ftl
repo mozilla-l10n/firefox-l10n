@@ -11,6 +11,8 @@ taskbar-tab-urlbar-button-open =
     .tooltiptext = 작업 표시줄에 탭 추가
 taskbar-tab-urlbar-button-close =
     .tooltiptext = 작업 표시줄에서 탭 제거
+taskbar-tab-urlbar-button-show = 웹 앱 페이지 작업 표시
+taskbar-tab-urlbar-button-hide = 웹 앱 페이지 작업 숨기기
 # This string is used in the description of a Windows Start Menu
 # shortcut for a Taskbar Tab.
 # Variables:

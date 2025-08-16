@@ -23,6 +23,7 @@ firefox-relay-opt-in-title-1 = 이메일 주소 보호:
 # This is preceded by firefox-relay-opt-in-title-1 (on a different line), which
 # ends with a colon. You might need to adapt the capitalization of this string.
 firefox-relay-opt-in-subtitle-1 = { -relay-brand-name } 이메일 가리기 사용
+firefox-relay-use-mask-title-1 = 이메일 가리기를 사용하세요
 firefox-relay-use-mask-title = { -relay-brand-name } 이메일 가리기 사용
 # This is followed, on a new line, by firefox-relay-opt-in-subtitle-a
 firefox-relay-opt-in-title-a = 무료 이메일 가리기로 스팸 방지

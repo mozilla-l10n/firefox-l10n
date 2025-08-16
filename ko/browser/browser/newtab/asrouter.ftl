@@ -385,4 +385,7 @@ windows-10-eos-sync-callout-get-started-button = 시작하기
 ## Windows 10 EoS Sync messages group 2 toast notification
 
 windows-10-eos-feature-toast-title = 세로 탭 및 탭 그룹이 여기에 있습니다!
+# In English, "dropped" is a colloquial form for released.
+windows-10-eos-feature-toast-subtitle = 여러분의 요청에 의해 { -brand-product-name }에 여러분의 탐색을 간소화하고 집중할 수 있게 해 주는 새로운 기능이 추가되었습니다.
 windows-10-eos-feature-toast-whats-new-button = 새 기능 살펴보기
+windows-10-eos-feature-toast-dismiss-button = 닫기
