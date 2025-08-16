@@ -21,3 +21,13 @@ unexpected-script-load-detail-1-block = ‏{ -brand-short-name } <strong>יחס�
 # Sorry that is vague - but we don't know what these scripts are, so we don't know what they're doing
 # They could be a custom script people used to customize Firefox, an enterprise configuration script, or something else entirely
 unexpected-script-load-detail-2 = גם אם הבחירה שלך תהיה לאפשר את התסריט הזה, נא לדווח על כך ל־{ -vendor-short-name } כדי לסייע לנו להבין כיצד ומדוע הוא נטען. <em>ללא מידע זה, הפונקציונליות תפסיק לעבוד בעתיד.</em>
+unexpected-script-load-report-checkbox =
+    .label = דיווח על כתובת האתר של תסריט זה ל־{ -vendor-short-name }
+unexpected-script-load-email-checkbox =
+    .label = לכלול את כתובת הדוא״ל שלי כדי ש־{ -vendor-short-name } ייצרו איתי קשר במידת הצורך.
+unexpected-script-load-email-textbox =
+    .placeholder = נא להזין את כתובת הדוא״ל כאן
+    .aria-label = נא להזין את כתובת הדוא״ל כאן
+unexpected-script-load-more-info = מידע נוסף
+unexpected-script-load-learn-more = מידע נוסף
+unexpected-script-load-telemetry-disabled = הדיווח מושבת מכיוון ש־Telemetry מושבת בהגדרות. יש להפעיל את Telemetry כדי לדווח.
