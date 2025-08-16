@@ -221,6 +221,7 @@ contextual-manager-passwords-remove-label =
     .title = Emboguete ñe’ẽñemi
 contextual-manager-passwords-origin-tooltip = Ehai kundaharape emoñepyrũtaha tembiapo ko tendápe.
 contextual-manager-passwords-username-tooltip = Ehai poruhára réra, ñanduti veve kundaharape térã mba’ete papapy eike hag̃ua.
+contextual-manager-passwords-password-tooltip-2 = Ehai ñe’ẽñemi eiporúva eike hag̃ua ko mba’etépe.
 contextual-manager-passwords-password-tooltip = Ehai ñe’ẽñemi eiporúva eike hag̃ua ko mba’etépe.
 
 ## Password Card
@@ -299,6 +300,7 @@ contextual-manager-hide-password-button =
 # The message displayed when the search text does not match any of the user's saved logins.
 contextual-manager-passwords-no-passwords-found-header =
     .heading = Ndojejuhúi ñe’ẽñemi ñongatupyre
+contextual-manager-passwords-no-passwords-found-message-2 = Eiporu ambue ñe’ẽ ha eheka pyahu jey.
 contextual-manager-passwords-no-passwords-found-message = Ndojejuhúi ñe’ẽñeminguéra. Eheka ñe’ẽ ambuéva ha eha’ãjey.
 
 ## When the user has no saved passwords, we display the following messages to inform the user they can save
@@ -313,6 +315,8 @@ contextual-manager-passwords-no-passwords-message = Opaite ñe’ẽñemi oñemb
 contextual-manager-passwords-no-passwords-get-started-message = Embojuaju ápe eñepyrũ hag̃ua.
 # This string is displayed in a button. If the user clicks it, they will be taken to a form to create a new password.
 contextual-manager-passwords-add-manually = Embojuaju nde pópe
+# This string encourages the user to save their passwords in Firefox (the "safe spot").
+contextual-manager-passwords-no-passwords-header-2 = Eñongatu ñe’ẽñemi tenda hekorosãvape
 
 ## When the user cancels a login that's currently being edited, we display a message to confirm whether
 ## or not the user wants to discard their current edits to the login.

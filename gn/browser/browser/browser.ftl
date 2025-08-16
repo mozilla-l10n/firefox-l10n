@@ -1524,3 +1524,9 @@ trustpanel-cryptominer-blocking-tab-header =
         [one] { -brand-product-name } ojoko { $count } criptominero
        *[other] { -brand-product-name } ojoko { $count } criptominero
     }
+trustpanel-cryptominer-not-blocking-tab-header =
+    { $count ->
+        [one] { -brand-product-name } omoneĩ { $count } criptominería
+       *[other] { -brand-product-name } omoneĩ { $count } criptominería
+    }
+trustpanel-cryptominer-tab-list-header = Ko’ã tenda ha’ete omonyhẽséva criptomoneda-gui:

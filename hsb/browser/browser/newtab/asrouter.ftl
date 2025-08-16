@@ -377,6 +377,7 @@ windows-10-eos-challenger-pin-callout-subtitle = Připniće { -brand-shorter-nam
 windows-10-eos-challenger-sync-primary-button = { -brand-shorter-name } zawěsćić
 windows-10-eos-challenger-pin-primary-button = { -brand-shorter-name } připjeć
 windows-10-eos-sync-callout-privacy-screen-1-title = { -brand-product-name } kryptokopaki, přesćěhowaki socialnych medijow a hromadźaki porstowych wotćišćow blokuje
+windows-10-eos-sync-callout-privacy-screen-2-title = Zawěsćće swoje hesła a zapołožki za swój přichodny grat.
 windows-10-eos-sync-callout-privacy-info-button = Hladajće, štož so blokuje
 windows-10-eos-sync-callout-next-button = Dale
 windows-10-eos-sync-callout-get-started-button = Prěnje kroki
