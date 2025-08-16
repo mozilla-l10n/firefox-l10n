@@ -380,3 +380,15 @@ windows-10-eos-sync-callout-privacy-info-button = Ver lo que está bloqueado
 windows-10-eos-callout-addons-title = Pruebe complementos: actualizaciones simples, grandes impactos
 windows-10-eos-callout-addons-subtitle = Estas extensiones se eligieron para ayudarlo a mantenerse productivo, protegido y sin distracciones.
 windows-10-eos-callout-addons-primary-button = Ver nuestras selecciones
+windows-10-eos-sync-callout-addons-title = No pierda sus complementos al actualizar desde Windows 10.
+windows-10-eos-sync-callout-addons-subtitle = Sincronice ahora para que sus complementos de { -brand-product-name } estén siempre disponibles, incluso después de cambiar de dispositivo.
+windows-10-eos-sync-callout-next-button = Siguiente
+windows-10-eos-sync-callout-get-started-button = Empezar
+
+## Windows 10 EoS Sync messages group 2 toast notification
+
+windows-10-eos-feature-toast-title = ¡Llegaron las pestañas verticales y los grupos de pestañas!
+# In English, "dropped" is a colloquial form for released.
+windows-10-eos-feature-toast-subtitle = Por pedido popular, { -brand-product-name } acaba de lanzar nuevas funciones para mantener la navegación optimizada y enfocada.
+windows-10-eos-feature-toast-whats-new-button = Qué hay de nuevo
+windows-10-eos-feature-toast-dismiss-button = Descartar
