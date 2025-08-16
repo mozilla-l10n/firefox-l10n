@@ -72,6 +72,7 @@ inactive-css-text-wrap-balance-lines-exceeded =
     }
 inactive-css-text-wrap-balance-fragmented = <strong>{ $property }</strong> na tutón element efekt nima, dokelž je fragmentowany, t. r. jeho wobsah je na wjacore špalty abo strony rozdźěleny.
 inactive-css-no-width-height = <strong>{ $property }</strong> na tutón element wuskutk nima, dokelž jeho šěrokosć a wysokosć njedatej so nastajić.
+inactive-css-no-principal-box = <strong>{ $property }</strong> na tutón element wuskutk nima, dokelž hłowny kašćik njewutworja.
 
 ## In the Rule View when a CSS property cannot be successfully applied we display
 ## an icon. When this icon is hovered this message is displayed to explain how
@@ -110,6 +111,7 @@ inactive-css-resize-fix = Spytajće <strong>overflow</strong> na druhu hódnotu 
 inactive-css-ruby-element-fix = Spytajće <strong>font-size</strong> teksta ruby změnić. { learn-more }
 inactive-css-text-wrap-balance-lines-exceeded-fix = Spytajće ličbu linkow redukować. { learn-more }
 inactive-css-text-wrap-balance-fragmented-fix = Wotstrońće špalty abo wužiwajće <strong>page-break-inside:avoid</strong>, zo byšće rozdźělenje elementoweho wobsaha wobešoł. { learn-more }
+inactive-css-no-principal-box-fix = Spytajće hódnotu za kajkosć <strong>display</strong> přidać, kotraž hłowny kašćik wutworja, na přikład <strong>block</strong>, <strong>inline-block</strong>, <strong>flex</strong> abo <strong>grid</strong>. { learn-more }
 
 ## In the Rule View when a CSS property may have compatibility issues with other browsers
 ## we display an icon. When this icon is hovered this message is displayed to explain why

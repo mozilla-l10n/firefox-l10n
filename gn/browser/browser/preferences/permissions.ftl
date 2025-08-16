@@ -168,6 +168,12 @@ permissions-site-camera-disable-label =
     .label = Mba’ejerure pyahu joko ani hag̃ua ojeporu ta’ãngamýi
 permissions-site-camera-disable-desc = Kóva omboykéta ñanduti renda noĩriva tysýi yvy gotyoguápe ojerurévo ñemoneĩ oike hag̃ua ta’ãngamýime. Ejokóramo ta’ãngamýime jeike ombyaikuaa ambue ñanduti rendápe.
 
+## Site Permissions - Local host
+
+permissions-site-localhost-window =
+    .title = Ñemobheko – Tembiporu’i ha mba’e’oka rehegua
+    .style = { permissions-window2.style }
+
 ## Site Permissions - Local network
 
 permissions-site-local-network-window =
