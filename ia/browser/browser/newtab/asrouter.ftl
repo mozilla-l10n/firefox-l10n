@@ -383,5 +383,7 @@ windows-10-eos-sync-callout-get-started-button = Comenciar
 ## Windows 10 EoS Sync messages group 2 toast notification
 
 windows-10-eos-feature-toast-title = Schedas e gruppos de schedas vertical es ci!
+# In English, "dropped" is a colloquial form for released.
+windows-10-eos-feature-toast-subtitle = Per petition popular, { -brand-product-name } justo publicava nove functiones pro mantener tu navigation simplificate e concentrate.
 windows-10-eos-feature-toast-whats-new-button = Vide le novas
 windows-10-eos-feature-toast-dismiss-button = Ignorar
