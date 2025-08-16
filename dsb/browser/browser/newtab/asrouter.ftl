@@ -379,3 +379,18 @@ windows-10-eos-challenger-pin-callout-subtitle = Pśipijśo { -brand-shorter-nam
 windows-10-eos-challenger-sync-primary-button = { -brand-shorter-name } zawěsćiś
 windows-10-eos-challenger-pin-primary-button = { -brand-shorter-name } pśipěś
 windows-10-eos-sync-callout-privacy-screen-1-title = { -brand-product-name } kryptokopaki, pśeslědowaki socialnych medijow a gromaźarje palcowych wótśišćow blokěrujo
+windows-10-eos-sync-callout-privacy-screen-1-subtitle = Pśeslědowaki njamógu waš rěd identificěrowaś abo wam pśez web slědowaś – dokulaž jim to njedowólujomy.
+windows-10-eos-sync-callout-privacy-screen-2-title = Zawěsććo swóje gronidła a cytańske znamjenja za swój pśiducy rěd.
+windows-10-eos-sync-callout-privacy-screen-2-subtitle = Zawěsćenje { -brand-shorter-name } wam wólažcujo, waše daty a nastajenja priwatnosći wšuźi sobu wześ.
+windows-10-eos-sync-callout-privacy-info-button = Glědajśo, což se blokěrujo
+windows-10-eos-callout-addons-title = Wopytajśo: jadnore aktualizacije, wjelike wustatkowanja
+windows-10-eos-callout-addons-subtitle = Toś te rozšyrjenja su se wubrali, aby wam pomagali, produktiwny, šćitany a bźez wótchylenja wóstaś.
+windows-10-eos-callout-addons-primary-button = Glejśo naše wuběrki
+windows-10-eos-sync-callout-addons-title = Njezgubujśo swóje dodanki, gaž wót Windows 10 aktualizěrujośo.
+windows-10-eos-sync-callout-addons-subtitle = Synchronizěrujśo něnto, aby waše dodanki { -brand-product-name } pśecek k dispoziciji byli, samo pó změnje rěda.
+windows-10-eos-sync-callout-next-button = Dalej
+windows-10-eos-sync-callout-get-started-button = Prědne kšace
+
+## Windows 10 EoS Sync messages group 2 toast notification
+
+windows-10-eos-feature-toast-title = Wertikalne rejtariki a kupki rejtarikow su how!
