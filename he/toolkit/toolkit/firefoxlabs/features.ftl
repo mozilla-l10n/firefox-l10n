@@ -59,3 +59,7 @@ experimental-features-fx-web-apps-description = פתיחת אתרים שבהם �
 experimental-features-newtab-widget-lists =
     .label = רשימות ב־{ -firefox-home-brand-name }
 experimental-features-newtab-widget-lists-description = לזכור את רשימת המשימות שלך בעת פתיחת כל לשונית חדשה. מרשימת אריזה ועד רשימת קניות, ניתן לערוך את התוכניות שלך ב־{ -brand-product-name }. <a data-l10n-name="connect">שיתוף משוב</a>
+# Timer Widget
+experimental-features-newtab-widget-timer =
+    .label = שעון עצר ב־{ -firefox-home-brand-name }
+experimental-features-newtab-widget-timer-description = ניתן להגדיר שעון עצר שיעזור לך להישאר בריכוז, לדחוף אותך להישאר במסלול הנכון, או להזכיר לך להיטען מחדש. <a data-l10n-name="connect">שיתוף משוב</a>
