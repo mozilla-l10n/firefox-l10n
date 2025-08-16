@@ -62,6 +62,7 @@ experimental-features-fx-web-apps-description = Wočińće sydła, kotrež husto
 # Lists Widget
 experimental-features-newtab-widget-lists =
     .label = Lisćiny w { -firefox-home-brand-name }
+experimental-features-newtab-widget-lists-description = Wobchowajće lisćinu swojich nadawkow we wóčku, hdyž nowy rajtark wočinjeće. Wot zapakowanskich lisćinow do nakupowanskich lisćinow, čińće swoje plany w { -brand-product-name }. <a data-l10n-name="connect">Zdźělće swoje měnjenje</a>
 # Timer Widget
 experimental-features-newtab-widget-timer =
     .label = Časoměr w { -firefox-home-brand-name }
