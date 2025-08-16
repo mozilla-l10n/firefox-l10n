@@ -105,6 +105,7 @@ inactive-css-resize-fix = 可試著將 <strong>overflow</strong> 設定為 <stro
 inactive-css-ruby-element-fix = 請嘗試調整 ruby 文字的 <strong>font-size</strong>。{ learn-more }
 inactive-css-text-wrap-balance-lines-exceeded-fix = 請試著減少行數。{ learn-more }
 inactive-css-text-wrap-balance-fragmented-fix = 請避免分割元素內容，例如將欄位移除，或是使用 <strong>page-break-inside:avoid</strong>。{ learn-more }
+inactive-css-no-principal-box-fix = 請嘗試加入會建立 Principal box 的 <strong>display</strong> 值，例如 <strong>block</strong>、<strong>inline-block</strong>、<strong>flex</strong> 或 <strong>grid</strong>。{ learn-more }
 
 ## In the Rule View when a CSS property may have compatibility issues with other browsers
 ## we display an icon. When this icon is hovered this message is displayed to explain why

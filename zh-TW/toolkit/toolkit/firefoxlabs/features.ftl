@@ -59,6 +59,11 @@ experimental-features-fx-web-apps-description = 將您常造訪的網站放置�
 
 ## New Tab Productivity Widgets
 
+# Lists Widget
+experimental-features-newtab-widget-lists =
+    .label = { -firefox-home-brand-name } 當中的清單
+experimental-features-newtab-widget-lists-description = 開啟新分頁時自動列出待辦清單，不論是要打包的項目，還是購物清單都可以在 { -brand-product-name } 當中安排。<a data-l10n-name="connect">分享意見回饋</a>
 # Timer Widget
 experimental-features-newtab-widget-timer =
     .label = { -firefox-home-brand-name } 當中的計時器
+experimental-features-newtab-widget-timer-description = 設定計時器讓您保持專心，並且搖晃視窗請您保持進度，或提醒該小歇一下了。<a data-l10n-name="connect">分享意見回饋</a>
