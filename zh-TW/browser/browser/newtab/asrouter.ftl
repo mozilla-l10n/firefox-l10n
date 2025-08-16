@@ -363,6 +363,8 @@ windows-10-eos-sync-toast-secondary-label = 待會提醒我
 
 ## Windows 10 EoS sync messages group 2 feature callouts
 
+windows-10-eos-challenger-sync-primary-button = 備份 { -brand-shorter-name }
+windows-10-eos-challenger-pin-primary-button = 釘選 { -brand-shorter-name }
 windows-10-eos-sync-callout-privacy-info-button = 看看封鎖了哪些項目
 windows-10-eos-callout-addons-primary-button = 看我們的精選項目
 windows-10-eos-sync-callout-addons-title = 從 Windows 10 升級時，別失去現在的附加元件。
@@ -375,5 +377,5 @@ windows-10-eos-sync-callout-get-started-button = 開始使用
 windows-10-eos-feature-toast-title = 已推出垂直分頁與分頁群組功能！
 # In English, "dropped" is a colloquial form for released.
 windows-10-eos-feature-toast-subtitle = 應使用者要求，{ -brand-product-name } 剛推出新功能，讓您的上網體驗更流暢、更能專注。
-windows-10-eos-feature-toast-whats-new-button = 有什麼新鮮事
+windows-10-eos-feature-toast-whats-new-button = 看看有什麼新鮮事
 windows-10-eos-feature-toast-dismiss-button = 知道了！
