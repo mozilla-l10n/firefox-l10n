@@ -365,6 +365,8 @@ windows-10-eos-sync-toast-secondary-label = 待會提醒我
 
 windows-10-eos-sync-callout-privacy-info-button = 看看封鎖了哪些項目
 windows-10-eos-callout-addons-primary-button = 看我們的精選項目
+windows-10-eos-sync-callout-addons-title = 從 Windows 10 升級時，別失去現在的附加元件。
+windows-10-eos-sync-callout-addons-subtitle = 立即同步，這樣就算是換電腦之後也還能繼續使用 { -brand-product-name } 附加元件。
 windows-10-eos-sync-callout-next-button = 下一步
 windows-10-eos-sync-callout-get-started-button = 開始使用
 
