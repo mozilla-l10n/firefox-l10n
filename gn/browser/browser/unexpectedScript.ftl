@@ -10,6 +10,7 @@ unexpected-script-load-message-button-allow =
 unexpected-script-load-message-button-block =
     .label = Joko
     .accesskey = B
+unexpected-script-load-title = Henyhẽ script eha’ãrõ’ỹva
 unexpected-script-load-email-textbox =
     .placeholder = Ehai ne ñanduti veve ápe
     .aria-label = Ehai ne ñanduti veve ápe
