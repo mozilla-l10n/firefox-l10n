@@ -660,3 +660,6 @@ newtab-widget-timer-menu-learn-more = Pro saper plus
 newtab-promo-card-title = Supporta { -brand-product-name }
 newtab-promo-card-body = Nostre patrocinatores supporta nostre mission pro construer un web melior
 newtab-promo-card-cta = Pro saper plus
+newtab-promo-card-dismiss-button =
+    .title = Ignorar
+    .aria-label = Ignorar

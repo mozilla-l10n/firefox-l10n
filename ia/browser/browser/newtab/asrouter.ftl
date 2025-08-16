@@ -362,3 +362,7 @@ windows-10-eos-sync-toast-title = Va tu promover a Windows 11? Non perde marcapa
 windows-10-eos-sync-toast-subtitle = Preserva tu datos assi que { -brand-short-name } es preste a continuar quandocunque, sur iste PC o sur le successive.
 windows-10-eos-sync-toast-primary-label = Comenciar
 windows-10-eos-sync-toast-secondary-label = Rememora me plus tarde
+
+## Windows 10 EoS Sync messages group 2 toast notification
+
+windows-10-eos-feature-toast-dismiss-button = Ignorar

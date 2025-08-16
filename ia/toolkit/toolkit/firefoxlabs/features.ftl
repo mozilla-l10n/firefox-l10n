@@ -56,3 +56,9 @@ experimental-features-fx-web-apps =
     .label = Adde sitos a tu barra del applicationes
 # “Add tab to taskbar” is found in the tooltip text of `-taskbar-tab-urlbar-button-open`.
 experimental-features-fx-web-apps-description = Aperi le sitos que tu visita plus sovente como applicationes directemente ab le barra del applicationes. Cerca le icone “Adder scheda al barra del applicationes” al dextra del barra del adresses pro aperir le sito in un fenestra optimisate con tote le protectiones de { -brand-product-name }. <a data-l10n-name="connect">Comparti tu opinion</a>
+
+## New Tab Productivity Widgets
+
+# Lists Widget
+experimental-features-newtab-widget-lists =
+    .label = Listas in { -firefox-home-brand-name }
