@@ -373,6 +373,8 @@ windows-10-eos-sync-toast-secondary-label = Pozdźišo dopomnić
 
 ## Windows 10 EoS sync messages group 2 feature callouts
 
+windows-10-eos-challenger-callout-title = { -brand-product-name } so prjedy njezačita, na rozdźěl wot druhich wobhladowakow wulkich technologijowych předewzaćow. To je jadro.
+windows-10-eos-challenger-sync-callout-subtitle = Hdyž swoje zapołožki a hesła { -brand-product-name } zawěsćeće, je lóšo za was, wubrany wobhladowak do přichodneho grata přewzać.
 windows-10-eos-challenger-pin-callout-subtitle = Připniće { -brand-shorter-name } k swšojej nadawkowej lajsće, zo by wobhladowak, kotryž sće wubrał, je přeco tam, hdyž jón trjebaće.
 windows-10-eos-challenger-sync-primary-button = { -brand-shorter-name } zawěsćić
 windows-10-eos-challenger-pin-primary-button = { -brand-shorter-name } připjeć
@@ -382,6 +384,7 @@ windows-10-eos-sync-callout-privacy-screen-2-title = Zawěsćće swoje hesła a 
 windows-10-eos-sync-callout-privacy-screen-2-subtitle = Zawěsćenje { -brand-shorter-name } wam wosnadnja, waše daty a nastajenja priwatnosće wšudźe sobu wzać.
 windows-10-eos-sync-callout-privacy-info-button = Hladajće, štož so blokuje
 windows-10-eos-callout-addons-title = Wupruwujće: jednore aktualizacije, wulke wuskutki
+windows-10-eos-callout-addons-subtitle = Tute rozšěrjenja su so wubrali, zo bychu wam pomhali, produktiwny, škitany a bjez wotwjedźenja wostać.
 windows-10-eos-callout-addons-primary-button = Hlejće naše wuběry
 windows-10-eos-sync-callout-addons-title = Njezhubjejće swoje přidatki, hdyž wot Windows 10 aktualizujeće.
 windows-10-eos-sync-callout-next-button = Dale
