@@ -387,5 +387,7 @@ windows-10-eos-sync-callout-get-started-button = Kom i gang
 ## Windows 10 EoS Sync messages group 2 toast notification
 
 windows-10-eos-feature-toast-title = Vertikale faner og fanegrupper er her!
+# In English, "dropped" is a colloquial form for released.
+windows-10-eos-feature-toast-subtitle = Etter mange førespurnadar frå folk, har { -brand-product-name } nettopp lansert nye funksjonar for å gjere nettlesinga di straumlinjeforma og fokusert.
 windows-10-eos-feature-toast-whats-new-button = Sjå kva som er nytt
 windows-10-eos-feature-toast-dismiss-button = Ignorer

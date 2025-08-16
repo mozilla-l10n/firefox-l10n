@@ -340,6 +340,10 @@ newtab-custom-widget-lists-toggle =
 newtab-custom-widget-timer-toggle =
     .label = Nedteljing
 newtab-custom-widget-section-title = Widgetar
+# Tooltip for close button
+newtab-custom-close-menu-button =
+    .title = Lat att
+    .aria-label = Lat att meny
 newtab-custom-close-button = Lat att
 newtab-custom-settings = Handsam fleire innstillingar
 
@@ -665,6 +669,10 @@ newtab-widget-timer-menu-notifications = Slå av varsel
 newtab-widget-timer-menu-notifications-on = Slå på varsel
 newtab-widget-timer-menu-hide = Skjul nedteljar
 newtab-widget-timer-menu-learn-more = Les meir
+newtab-widget-keep-scrolling = Rull for meir
 newtab-promo-card-title = Støtt { -brand-product-name }
 newtab-promo-card-body = Sponsorane våre støttar oppdraget vårt om å byggje eit betre internett
 newtab-promo-card-cta = Les meir
+newtab-promo-card-dismiss-button =
+    .title = Avvis
+    .aria-label = Avvis

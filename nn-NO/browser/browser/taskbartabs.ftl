@@ -11,6 +11,8 @@ taskbar-tab-urlbar-button-open =
     .tooltiptext = Legg til fane på oppgåvelinja
 taskbar-tab-urlbar-button-close =
     .tooltiptext = Fjern fane frå oppgavelinja
+taskbar-tab-urlbar-button-show = Vis nettapp-sidehandling
+taskbar-tab-urlbar-button-hide = Skjul nettapp-sidehandling
 # This string is used in the description of a Windows Start Menu
 # shortcut for a Taskbar Tab.
 # Variables:

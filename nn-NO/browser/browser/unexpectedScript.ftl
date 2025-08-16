@@ -4,11 +4,16 @@
 
 unexpected-script-close-button =
     .aria-label = Lat att
+# This string is used in the notification bar
+# Variables:
+#   $origin (string) - The top level domain the unexpected script was loaded from
+unexpected-script-load-message = <strong>{ -brand-short-name } har oppdaga eit uventa, privilegert skript frå { $origin }</strong>
 unexpected-script-load-message-button-allow =
     .label = Tillat
     .accesskey = T
 unexpected-script-load-message-button-block =
     .label = Blokker
     .accesskey = B
+unexpected-script-load-title = Uventa skriptinnlasting
 unexpected-script-load-more-info = Meir informasjon
 unexpected-script-load-learn-more = Les meir

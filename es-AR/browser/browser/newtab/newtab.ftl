@@ -399,10 +399,10 @@ newtab-wallpaper-abstract-blue = Formas azules
 newtab-wallpaper-abstract-purple = Formas púrpuras
 newtab-wallpaper-abstract-orange = Formas naranjas
 newtab-wallpaper-gradient-orange = Degradado naranja y rosa
-newtab-wallpaper-abstract-blue-purple = Formas azules y púrpuras
+newtab-wallpaper-abstract-blue-purple = Formas azules y violetas
 newtab-wallpaper-abstract-white-curves = Blanco con curvas sombreadas
 newtab-wallpaper-abstract-purple-green = Gradiente de luz púrpura y verde
-newtab-wallpaper-abstract-blue-purple-waves = Formas onduladas azules y púrpuras
+newtab-wallpaper-abstract-blue-purple-waves = Formas onduladas azules y violetas
 newtab-wallpaper-abstract-black-waves = Formas onduladas negras
 
 ## Celestial
