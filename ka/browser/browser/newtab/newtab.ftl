@@ -623,7 +623,7 @@ newtab-widget-lists-default-list-title = დავალებების ს�
 # The placeholder value of the name field for a newly created list
 newtab-widget-lists-default-list-new = ახალი სია
 # "Add one" means adding a new task to the list (e.g., "Walk the dog")
-newtab-widget-lists-empty-cta = შესაძლებლობები უსაზღვროა. დაამატეთ რომელიმე.
+newtab-widget-lists-empty-cta = შესაძლებლობები უსაზღვროა. დაამატეთ რამე.
 # A simple label next to the default list name letting users know this is a new / beta feature
 newtab-widget-lists-label-new =
     .label = სიახლე
@@ -640,8 +640,8 @@ newtab-widget-lists-menu-delete = ამ სიის წაშლა
 newtab-widget-lists-menu-copy = სიის ასლის აღება
 newtab-widget-lists-menu-hide = ყველა სიის დამალვა
 newtab-widget-lists-menu-learn-more = ვრცლად
-newtab-widget-lists-input-placeholder = დაამატეთ ჩანაწერი
-newtab-widget-lists-input-error = დასამატებლად გთხოვთ, დაურთოთ წარწერა.
+newtab-widget-lists-input-placeholder = ჩანაწერის დამატება
+newtab-widget-lists-input-error = დასამატებლად დაურთეთ წარწერა.
 newtab-widget-lists-input-menu-open-link = ბმულის გახსნა
 newtab-widget-lists-input-menu-move-up = აწევა
 newtab-widget-lists-input-menu-move-down = ჩამოწევა
@@ -652,11 +652,11 @@ newtab-widget-lists-input-menu-edit = ჩასწორება
 ## When the timer ends, a system notification may be shown. Depending on which mode the timer is in, that message would be shown
 
 newtab-widget-timer-notification-title = წამმზომი
-newtab-widget-timer-notification-focus = ყურადღების მოკრების დრო ამოიწურა. კარგად იმუშავეთ. გსურთ შესვენება?
+newtab-widget-timer-notification-focus = საქმიანობის დრო ამოიწურა. კარგად იმუშავეთ. გსურთ შესვენება?
 newtab-widget-timer-notification-break = შესვენების დრო ამოიწურა. მზად ხართ ყურადღების მოსაკრებად?
 newtab-widget-timer-notification-warning = შეტყობინებები გამორთულია
 newtab-widget-timer-mode-focus =
-    .label = ყურადღების მოკრება
+    .label = საქმიანობა
 newtab-widget-timer-mode-break =
     .label = შესვენება
 newtab-widget-timer-play =
