@@ -64,4 +64,4 @@ experimental-features-newtab-widget-lists =
     .label = { -firefox-home-brand-name } listeleri
 # Timer Widget
 experimental-features-newtab-widget-timer =
-    .label = { -firefox-home-brand-name } zamanlayıcı
+    .label = { -firefox-home-brand-name } sayacı

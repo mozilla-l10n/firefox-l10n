@@ -335,7 +335,7 @@ newtab-custom-widget-trending-search-toggle =
 newtab-custom-widget-lists-toggle =
     .label = Listeler
 newtab-custom-widget-timer-toggle =
-    .label = Zamanlayıcı
+    .label = Sayaç
 newtab-custom-widget-section-title = Widget’lar
 # Tooltip for close button
 newtab-custom-close-menu-button =
@@ -620,7 +620,7 @@ newtab-widget-lists-default-list-title = Görev listesi
 # The placeholder value of the name field for a newly created list
 newtab-widget-lists-default-list-new = Yeni liste
 # "Add one" means adding a new task to the list (e.g., "Walk the dog")
-newtab-widget-lists-empty-cta = Olasılıklar sonsuz. Bir görev ekleyin.
+newtab-widget-lists-empty-cta = Aklınızda ne var? Bir görev ekleyin.
 # A simple label next to the default list name letting users know this is a new / beta feature
 newtab-widget-lists-label-new =
     .label = Yeni
@@ -636,7 +636,9 @@ newtab-widget-lists-menu-create = Yeni liste oluştur
 newtab-widget-lists-menu-delete = Bu listeyi sil
 newtab-widget-lists-menu-copy = Listeyi panoya kopyala
 newtab-widget-lists-menu-hide = Tüm listeleri gizle
-newtab-widget-lists-menu-learn-more = Daha fazla bilgi alın
+newtab-widget-lists-menu-learn-more = Daha fazla bilgi al
+newtab-widget-lists-input-placeholder = Görev ekle
+newtab-widget-lists-input-error = Görev eklemek için lütfen metin yazın.
 newtab-widget-lists-input-menu-open-link = Bağlantıyı aç
 newtab-widget-lists-input-menu-move-up = Yukarı taşı
 newtab-widget-lists-input-menu-move-down = Aşağı taşı
@@ -646,7 +648,8 @@ newtab-widget-lists-input-menu-edit = Düzenle
 ## Strings for timer productivity widget
 ## When the timer ends, a system notification may be shown. Depending on which mode the timer is in, that message would be shown
 
-newtab-widget-timer-notification-title = Zamanlayıcı
+newtab-widget-timer-notification-title = Sayaç
+newtab-widget-timer-notification-focus = Odaklanma süresi bitti. İyi iş çıkardınız. Ara vermek ister misiniz?
 newtab-widget-timer-notification-break = Molanız bitti. Odaklanmaya hazır mısınız?
 newtab-widget-timer-notification-warning = Bildirimler kapalı
 newtab-widget-timer-mode-focus =
@@ -661,8 +664,8 @@ newtab-widget-timer-reset =
     .title = Sıfırla
 newtab-widget-timer-menu-notifications = Bildirimleri kapat
 newtab-widget-timer-menu-notifications-on = Bildirimleri aç
-newtab-widget-timer-menu-hide = Zamanlayıcıyı gizle
-newtab-widget-timer-menu-learn-more = Daha fazla bilgi alın
+newtab-widget-timer-menu-hide = Sayacı gizle
+newtab-widget-timer-menu-learn-more = Daha fazla bilgi al
 newtab-widget-keep-scrolling = Daha fazlası için kaydırın
 newtab-promo-card-title = { -brand-product-name } tarayıcısını destekleyin
 newtab-promo-card-body = Sponsorlarımız daha iyi bir web inşa etme misyonumuzu destekliyor
