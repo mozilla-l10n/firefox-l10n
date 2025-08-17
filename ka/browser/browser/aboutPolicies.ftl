@@ -8,7 +8,7 @@ aboutpolicies-page-heading =
 # 'Active' is used to describe the policies that are currently active
 active-policies-tab = მოქმედი
 errors-tab = შეცდომები
-documentation-tab = დოკუმენტაცია
+documentation-tab = ცნობარი
 no-specified-policies-message = დაწესებულების დებულებების მომსახურება მოქმედია, თუმცა ჯერ არცერთი დებულებაა არაა ჩართული.
 inactive-message = დაწესებულების დებულებების მომსახურება უმოქმედოა.
 policy-name = დებულების სახელი

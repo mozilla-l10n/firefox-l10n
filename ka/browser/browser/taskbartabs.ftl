@@ -11,6 +11,8 @@ taskbar-tab-urlbar-button-open =
     .tooltiptext = ჩანართის დამატება ამოცანათა ზოლზე
 taskbar-tab-urlbar-button-close =
     .tooltiptext = ჩანართის მოცილება ამოცანათა ზოლიდან
+taskbar-tab-urlbar-button-show = ვებპროგრამის გვერდის მოქმედების ჩვენება
+taskbar-tab-urlbar-button-hide = ვებპროგრამის გვერდის მოქმედების დამალვა
 # This string is used in the description of a Windows Start Menu
 # shortcut for a Taskbar Tab.
 # Variables:
