@@ -826,6 +826,36 @@ urlbar-result-dismissal-acknowledgment-all = Danke für Ihr Feedback. Diese Vors
 
 ## These strings are used for suggestions of important dates in the urlbar.
 
+# The name of an event and the number of days until it starts separated by a
+# middot.
+# Variables:
+#   $name (string) - The name of the event.
+#   $daysUntilStart (integer) - The number of days until the event starts.
+urlbar-result-dates-countdown =
+    { $daysUntilStart ->
+        [one] { $name } · In { $daysUntilStart } Tag
+       *[other] { $name } · In { $daysUntilStart } Tagen
+    }
+# The name of a multiple day long event and the number of days until it starts
+# separated by a middot.
+# Variables:
+#   $name (string) - The name of the event.
+#   $daysUntilStart (integer) - The number of days until the event starts.
+urlbar-result-dates-countdown-range =
+    { $daysUntilStart ->
+        [one] { $name } · Beginnt in { $daysUntilStart } Tag
+       *[other] { $name } · Beginnt in { $daysUntilStart } Tagen
+    }
+# The name of a multiple day long event and the number of days until it ends
+# separated by a middot.
+# Variables:
+#   $name (string) - The name of the event.
+#   $daysUntilEnd (integer) - The number of days until the event ends.
+urlbar-result-dates-ongoing =
+    { $daysUntilEnd ->
+        [one] { $name } · Endet in { $daysUntilEnd } Tag
+       *[other] { $name } · Endet in { $daysUntilEnd } Tagen
+    }
 # The name of an event and a note that it is happening today separated by a
 # middot.
 # Variables:

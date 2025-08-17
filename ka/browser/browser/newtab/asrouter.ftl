@@ -388,3 +388,7 @@ windows-10-eos-sync-callout-get-started-button = დაიწყეთ
 ## Windows 10 EoS Sync messages group 2 toast notification
 
 windows-10-eos-feature-toast-title = შვეული ჩანართები და ჩანართთა ჯგუფები უკვე ხელმისაწვდომია!
+# In English, "dropped" is a colloquial form for released.
+windows-10-eos-feature-toast-subtitle = ხალხის მოთხოვნით { -brand-product-name } ამატებს ახალ შესაძლებლობებს გვერდების იოლად მონახულებისა და მეტად შედეგიანად საქმიანობისთვის.
+windows-10-eos-feature-toast-whats-new-button = გაეცანით სიახლეებს
+windows-10-eos-feature-toast-dismiss-button = აცილება
