@@ -62,7 +62,8 @@ experimental-features-fx-web-apps-description = გახსენით სა�
 # Lists Widget
 experimental-features-newtab-widget-lists =
     .label = სიები – { -firefox-home-brand-name }
-experimental-features-newtab-widget-lists-description = მუდამ თვალწინ იქონიეთ გასაკეთებელი საქმეების სია ახალი ჩანართის გახსნისას. ჩასალაგებელი ბარგის სიიდან დაწყებული, საყიდლების სიით დამთავრებული, ნებისმიერი რამის ჩამოსაწერად და დასაგეგმად დაიხმარეთ { -brand-product-name }. <a data-l10n-name="connect">გამოხმაურება</a>
+experimental-features-newtab-widget-lists-description = მუდამ თვალწინ გქონდეთ გასაკეთებელი საქმეების ნუსხა ახალი ჩანართის გახსნისას. ჩასალაგებელი ბარგის სიიდან დაწყებული, საყიდლების სიით დამთავრებული, ნებისმიერი რამის ჩამოსაწერად და დასაგეგმად დაიხმარეთ { -brand-product-name }. <a data-l10n-name="connect">გამოხმაურება</a>
 # Timer Widget
 experimental-features-newtab-widget-timer =
     .label = წამმზომი – { -firefox-home-brand-name }
+experimental-features-newtab-widget-timer-description = აითვალეთ დრო საქმის კეთებისას, რომ ყურადღება არ მოადუნოთ და სათანადოდ შეისვენოთ ძალების მოსაკრებად. <a data-l10n-name="connect">გამოხმაურება</a>
