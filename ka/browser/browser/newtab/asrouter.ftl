@@ -372,3 +372,19 @@ windows-10-eos-challenger-sync-callout-subtitle = { -brand-product-name } თუ
 windows-10-eos-challenger-pin-callout-subtitle = მიამაგრეთ { -brand-shorter-name } თქვენს ამოცანათა ზოლზე, რომ სასურველი ბრაუზერი მუდამ ახლოს გქონდეთ, როცა დაგჭირდებათ.
 windows-10-eos-challenger-sync-primary-button = დაამარქაფეთ { -brand-shorter-name }
 windows-10-eos-challenger-pin-primary-button = მიამაგრეთ { -brand-shorter-name }
+windows-10-eos-sync-callout-privacy-screen-1-title = { -brand-product-name } ზღუდავს კრიპტოგამომმუშავებლებს, სოცქსელის მეთვალყურეებსა და მომხმარებლის ამომცნობებს.
+windows-10-eos-sync-callout-privacy-screen-1-subtitle = მეთვალყურეები ვერ ამოიცნობენ თქვენს მოწყობილობას და ვერ დაგედევნებიან მთელ ვებსივრცეში — იმიტომ რომ ჩვენ არ მივცემთ ამის საშუალებას.
+windows-10-eos-sync-callout-privacy-screen-2-title = დაიცავით თქვენი პაროლები და სანიშნები მომავალი მოწყობილობისთვის.
+windows-10-eos-sync-callout-privacy-screen-2-subtitle = { -brand-shorter-name } თუ დამარქაფებული გექნებათ, უფრო იოლად შეძლებთ ყველგან თან გაიყოლოთ მონაცემები გამართული პირადულობით.
+windows-10-eos-sync-callout-privacy-info-button = იხილეთ, რა იზღუდება
+windows-10-eos-callout-addons-title = მოსინჯეთ დამატებები: იოლი განახლებებით, ფართო შესაძლებლობებით
+windows-10-eos-callout-addons-subtitle = ეს გაფართოებები შერჩეულია იმისთვის, რომ დაგეხმაროთ შედეგიანობაში, უსაფრთხოებასა და ყურადღების მოკრებაში.
+windows-10-eos-callout-addons-primary-button = იხილეთ ჩვენი შერჩეული
+windows-10-eos-sync-callout-addons-title = ნუ დაკარგავთ დამატებებს, როცა გადაწყვეტთ განაახლოთ Windows 10
+windows-10-eos-sync-callout-addons-subtitle = დაასინქრონეთ ახლავე და { -brand-product-name } თქვენს დამატებებს მუდმივად შეინარჩუნებს მოწყობილობის შეცვლის შემთხვევაშიც.
+windows-10-eos-sync-callout-next-button = შემდეგი
+windows-10-eos-sync-callout-get-started-button = დაიწყეთ
+
+## Windows 10 EoS Sync messages group 2 toast notification
+
+windows-10-eos-feature-toast-title = შვეული ჩანართები და ჩანართთა ჯგუფები უკვე ხელმისაწვდომია!
