@@ -634,7 +634,6 @@ newtab-widget-lists-label-beta =
 #   $number (number) - Amount of list items marked complete
 newtab-widget-lists-completed-list = შესრულებული ({ $number })
 newtab-widget-task-list-menu-copy = ასლი
-newtab-widget-lists-menu-edit = სიის სახელის ჩასწორება
 newtab-widget-lists-menu-create = ახალი სიის შექმნა
 newtab-widget-lists-menu-delete = ამ სიის წაშლა
 newtab-widget-lists-menu-copy = სიის ასლის აღება
@@ -653,7 +652,7 @@ newtab-widget-lists-input-menu-edit = ჩასწორება
 
 newtab-widget-timer-notification-title = წამმზომი
 newtab-widget-timer-notification-focus = საქმიანობის დრო ამოიწურა. კარგად იმუშავეთ. გსურთ შესვენება?
-newtab-widget-timer-notification-break = შესვენების დრო ამოიწურა. მზად ხართ ყურადღების მოსაკრებად?
+newtab-widget-timer-notification-break = შესვენების დრო ამოიწურა. მზად ხართ საქმიანობისთვის?
 newtab-widget-timer-notification-warning = შეტყობინებები გამორთულია
 newtab-widget-timer-mode-focus =
     .label = საქმიანობა
