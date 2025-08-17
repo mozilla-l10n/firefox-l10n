@@ -373,6 +373,7 @@ windows-10-eos-challenger-sync-primary-button = Sikkerhedskopier { -brand-shorte
 windows-10-eos-challenger-pin-primary-button = Fastgør { -brand-shorter-name }
 windows-10-eos-sync-callout-privacy-screen-1-title = { -brand-product-name } blokerer cryptomining, fingerprinting og sporing via sociale medier
 windows-10-eos-sync-callout-privacy-screen-1-subtitle = Sporings-mekanismer kan ikke identificere din enhed eller følge dig rundt på nettet - det giver vi dem ikke lov til.
+windows-10-eos-sync-callout-privacy-screen-2-title = Tag en sikkerhedskopi af dine adgangskoder og bogmærker til din næste enhed.
 windows-10-eos-callout-addons-title = Prøv tilføjelser: nemme opgraderinger, store resultater
 windows-10-eos-callout-addons-subtitle = Disse udvidelser er udvalgt for at hjælpe dig med at være produktiv, beskyttet og fri for distraktioner.
 windows-10-eos-callout-addons-primary-button = Se vores valg
