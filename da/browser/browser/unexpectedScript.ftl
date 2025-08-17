@@ -14,3 +14,4 @@ unexpected-script-load-message-button-allow =
 unexpected-script-load-message-button-block =
     .label = Bloker
     .accesskey = B
+unexpected-script-load-title = Uventet indlæsning af script
