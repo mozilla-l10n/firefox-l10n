@@ -56,3 +56,9 @@ experimental-features-fx-web-apps =
     .label = Προσθήκη ιστοτόπων στη γραμμή εργασιών
 # “Add tab to taskbar” is found in the tooltip text of `-taskbar-tab-urlbar-button-open`.
 experimental-features-fx-web-apps-description = Ανοίξτε τους ιστοτόπους που επισκέπτεστε συχνά σε μορφή εφαρμογής ιστού από τη γραμμή εργασιών. Αναζητήστε το εικονίδιο «Προσθήκη καρτέλας στη γραμμή εργασιών» στα δεξιά της γραμμής διευθύνσεων για να εκκινήσετε τον ιστότοπο σε ένα απλοποιημένο παράθυρο, με όλες τις μεθόδους προστασίας του { -brand-product-name }. <a data-l10n-name="connect">Αποστολή σχολίων</a>
+
+## New Tab Productivity Widgets
+
+# Lists Widget
+experimental-features-newtab-widget-lists =
+    .label = Λίστες στην { -firefox-home-brand-name }

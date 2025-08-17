@@ -341,6 +341,10 @@ newtab-custom-widget-lists-toggle =
 newtab-custom-widget-timer-toggle =
     .label = Αντίστροφη μέτρηση
 newtab-custom-widget-section-title = Γραφικά στοιχεία
+# Tooltip for close button
+newtab-custom-close-menu-button =
+    .title = Κλείσιμο
+    .aria-label = Κλείσιμο μενού
 newtab-custom-close-button = Κλείσιμο
 newtab-custom-settings = Διαχείριση περισσότερων ρυθμίσεων
 
@@ -621,6 +625,11 @@ newtab-widget-lists-default-list-title = Λίστα εργασιών
 newtab-widget-lists-default-list-new = Νέα λίστα
 # "Add one" means adding a new task to the list (e.g., "Walk the dog")
 newtab-widget-lists-empty-cta = Οι δυνατότητες είναι απεριόριστες. Προσθέστε μια νέα.
+# A simple label next to the default list name letting users know this is a new / beta feature
+newtab-widget-lists-label-new =
+    .label = Νέο
+newtab-widget-lists-label-beta =
+    .label = Beta
 # When tasks have been previous marked as complete, they will appear in their own separate list beneath incomplete items
 # Variables:
 #   $number (number) - Amount of list items marked complete
@@ -661,6 +670,10 @@ newtab-widget-timer-menu-notifications = Απενεργοποίηση ειδοπ
 newtab-widget-timer-menu-notifications-on = Ενεργοποίηση ειδοποιήσεων
 newtab-widget-timer-menu-hide = Απόκρυψη αντίστροφης μέτρησης
 newtab-widget-timer-menu-learn-more = Μάθετε περισσότερα
+newtab-widget-keep-scrolling = Κάντε κύλιση για περισσότερα
 newtab-promo-card-title = Υποστηρίξτε το { -brand-product-name }
 newtab-promo-card-body = Οι χορηγοί μας υποστηρίζουν την αποστολή μας για ένα καλύτερο διαδίκτυο
 newtab-promo-card-cta = Μάθετε περισσότερα
+newtab-promo-card-dismiss-button =
+    .title = Απόρριψη
+    .aria-label = Απόρριψη

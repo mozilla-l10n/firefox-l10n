@@ -316,6 +316,7 @@ fxa-menu-message-close-button =
     .aria-label = Κλείσιμο
 fxa-menu-message-sign-up-button = Εγγραφή
 fxa-menu-message-sign-in-button = Σύνδεση
+fxa-menu-message-sync-button = Έναρξη συγχρονισμού
 fxa-menu-message-sync-devices-primary-text = Συγχρονισμός με όλες τις συσκευές σας
 fxa-menu-message-sync-devices-secondary-text = Λάβετε άμεσα τα δεδομένα σας, όπως σελιδοδείκτες και κωδικούς πρόσβασης, σε οποιαδήποτε συσκευή με το { -brand-short-name }.
 fxa-menu-message-sync-devices-collapsed-text = Συγχρονισμός με όλες τις συσκευές σας
@@ -361,3 +362,14 @@ windows-10-eos-sync-toast-title = Κάνετε αναβάθμιση στα Windo
 windows-10-eos-sync-toast-subtitle = Δημιουργήστε αντίγραφα ασφαλείας των δεδομένων σας, ώστε το { -brand-short-name } να είναι έτοιμο ανά πάσα στιγμή, σε αυτόν ή στον νέο υπολογιστή σας.
 windows-10-eos-sync-toast-primary-label = Έναρξη
 windows-10-eos-sync-toast-secondary-label = Υπενθύμιση αργότερα
+
+## Windows 10 EoS sync messages group 2 feature callouts
+
+windows-10-eos-challenger-pin-primary-button = Καρφίτσωμα του { -brand-shorter-name }
+windows-10-eos-callout-addons-primary-button = Δείτε τις επιλογές μας
+windows-10-eos-sync-callout-next-button = Επόμενο
+
+## Windows 10 EoS Sync messages group 2 toast notification
+
+windows-10-eos-feature-toast-whats-new-button = Δείτε τι νέο υπάρχει
+windows-10-eos-feature-toast-dismiss-button = Απόρριψη
