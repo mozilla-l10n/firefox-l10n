@@ -11,6 +11,8 @@ taskbar-tab-urlbar-button-open =
     .tooltiptext = Sekmeyi görev çubuğuna ekle
 taskbar-tab-urlbar-button-close =
     .tooltiptext = Sekmeyi görev çubuğundan kaldır
+taskbar-tab-urlbar-button-show = Web uygulaması sayfa eylemini göster
+taskbar-tab-urlbar-button-hide = Web uygulaması sayfa eylemini gizle
 # This string is used in the description of a Windows Start Menu
 # shortcut for a Taskbar Tab.
 # Variables:

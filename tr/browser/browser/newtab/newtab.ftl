@@ -663,6 +663,7 @@ newtab-widget-timer-menu-notifications = Bildirimleri kapat
 newtab-widget-timer-menu-notifications-on = Bildirimleri aç
 newtab-widget-timer-menu-hide = Zamanlayıcıyı gizle
 newtab-widget-timer-menu-learn-more = Daha fazla bilgi alın
+newtab-widget-keep-scrolling = Daha fazlası için kaydırın
 newtab-promo-card-title = { -brand-product-name } tarayıcısını destekleyin
 newtab-promo-card-body = Sponsorlarımız daha iyi bir web inşa etme misyonumuzu destekliyor
 newtab-promo-card-cta = Daha fazla bilgi alın
