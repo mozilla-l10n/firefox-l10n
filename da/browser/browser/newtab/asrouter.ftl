@@ -366,9 +366,25 @@ windows-10-eos-sync-toast-secondary-label = Påmind mig senere
 
 ## Windows 10 EoS sync messages group 2 feature callouts
 
+windows-10-eos-challenger-callout-title = { -brand-product-name } er ikke installeret på forhånd som de store teknologi-virksomheders browsere. Det er hele pointen.
 windows-10-eos-challenger-sync-callout-subtitle = Når du sikkerhedskopierer dine bogmærker og adgangskoder i { -brand-product-name } er det nemmere at tage den browser, du vælger, med til din næste enhed.
 windows-10-eos-challenger-pin-callout-subtitle = Fastgør { -brand-shorter-name } til proceslinjen, så den browser, du har valgt, altid er der, når du har brug for den.
 windows-10-eos-challenger-sync-primary-button = Sikkerhedskopier { -brand-shorter-name }
 windows-10-eos-challenger-pin-primary-button = Fastgør { -brand-shorter-name }
 windows-10-eos-sync-callout-privacy-screen-1-title = { -brand-product-name } blokerer cryptomining, fingerprinting og sporing via sociale medier
 windows-10-eos-sync-callout-privacy-screen-1-subtitle = Sporings-mekanismer kan ikke identificere din enhed eller følge dig rundt på nettet - det giver vi dem ikke lov til.
+windows-10-eos-callout-addons-title = Prøv tilføjelser: nemme opgraderinger, store resultater
+windows-10-eos-callout-addons-subtitle = Disse udvidelser er udvalgt for at hjælpe dig med at være produktiv, beskyttet og fri for distraktioner.
+windows-10-eos-callout-addons-primary-button = Se vores valg
+windows-10-eos-sync-callout-addons-title = Behold dine tilføjelser, når du opgraderer fra Windows 10.
+windows-10-eos-sync-callout-addons-subtitle = Synkroniser nu, så dine tilføjelser til { -brand-product-name } altid er tilgængelige, selv når du skifter til en ny enhed.
+windows-10-eos-sync-callout-next-button = Næste
+windows-10-eos-sync-callout-get-started-button = Kom i gang
+
+## Windows 10 EoS Sync messages group 2 toast notification
+
+windows-10-eos-feature-toast-title = Nyt: Lodrette faneblade og fanebladsgrupper
+# In English, "dropped" is a colloquial form for released.
+windows-10-eos-feature-toast-subtitle = Efter mange opfordringer inkluderer { -brand-product-name } nu nye funktioner for at gøre din oplevelse på nettet bedre og mere fokuseret.
+windows-10-eos-feature-toast-whats-new-button = Se nyhederne
+windows-10-eos-feature-toast-dismiss-button = Afvis
