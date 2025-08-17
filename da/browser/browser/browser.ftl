@@ -827,6 +827,19 @@ urlbar-result-dismissal-acknowledgment-market = Tak for tilbagemeldingen. Du vil
 # particular type.
 urlbar-result-dismissal-acknowledgment-all = Tak for tilbagemeldingen. Du vil ikke længere se disse forslag.
 
+## These strings are used for suggestions of important dates in the urlbar.
+
+# The name of an event and a note that it is happening today separated by a
+# middot.
+# Variables:
+#   $name (string) - The name of the event.
+urlbar-result-dates-today = { $name } · I dag
+# The name of multiple day long event and a note that it is ends today
+# separated by a middot.
+# Variables:
+#   $name (string) - The name of the event.
+urlbar-result-dates-ends-today = { $name } · Slutter i dag
+
 ## Strings used for buttons in the urlbar
 
 # Label prompting user to search with a particular search engine.
