@@ -332,6 +332,16 @@ newtab-custom-weather-toggle =
 newtab-custom-trending-search-toggle =
     .label = Nousussa olevat haut
     .description = Suosittuja ja usein haettuja aiheita
+newtab-custom-widget-weather-toggle =
+    .label = Sää
+newtab-custom-widget-trending-search-toggle =
+    .label = Nousussa olevat haut
+newtab-custom-widget-timer-toggle =
+    .label = Ajastin
+# Tooltip for close button
+newtab-custom-close-menu-button =
+    .title = Sulje
+    .aria-label = Sulje valikko
 newtab-custom-close-button = Sulje
 newtab-custom-settings = Muokkaa lisää asetuksia
 
@@ -604,3 +614,22 @@ newtab-trending-searches-learn-more = Lue lisää
 newtab-trending-searches-dismiss = Piilota nousussa olevat haut
 # "Trending searches refers to popular searches from search engines
 newtab-trending-searches-title = Nousussa olevat haut
+
+## Strings for task / to-do list productivity widget
+
+newtab-widget-lists-menu-learn-more = Lue lisää
+newtab-widget-lists-input-menu-open-link = Avaa linkki
+newtab-widget-lists-input-menu-delete = Poista
+newtab-widget-lists-input-menu-edit = Muokkaa
+
+## Strings for timer productivity widget
+## When the timer ends, a system notification may be shown. Depending on which mode the timer is in, that message would be shown
+
+newtab-widget-timer-notification-title = Ajastin
+newtab-widget-timer-menu-hide = Piilota ajastin
+newtab-widget-timer-menu-learn-more = Lue lisää
+newtab-promo-card-title = Tue { -brand-product-name }ia
+newtab-promo-card-cta = Lue lisää
+newtab-promo-card-dismiss-button =
+    .title = Hylkää
+    .aria-label = Hylkää

@@ -315,6 +315,8 @@ fxa-menu-message-close-button =
     .title = Sulje
     .aria-label = Sulje
 fxa-menu-message-sign-up-button = Rekisteröidy
+fxa-menu-message-sign-in-button = Kirjaudu sisään
+fxa-menu-message-sync-button = Aloita synkronointi
 fxa-menu-message-sync-devices-primary-text = Synkronoi kaikki laitteesi
 fxa-menu-message-sync-devices-secondary-text = Hyödynnä tietojasi, kuten kirjanmerkkejä ja salasanoja, kaikkialla missä käytät { -brand-short-name }ia.
 fxa-menu-message-sync-devices-collapsed-text = Synkronoi kaikki laitteesi
@@ -360,3 +362,16 @@ windows-10-eos-sync-toast-title = Päivitätkö Windows 11:een? Älä kadota kir
 windows-10-eos-sync-toast-subtitle = Varmuuskopioi tietosi, jotta { -brand-short-name } on käyttövalmis milloin tahansa, tällä tai seuraavalla tietokoneella.
 windows-10-eos-sync-toast-primary-label = Aloitetaan
 windows-10-eos-sync-toast-secondary-label = Muistuta myöhemmin
+
+## Windows 10 EoS sync messages group 2 feature callouts
+
+windows-10-eos-challenger-pin-callout-subtitle = Kiinnitä { -brand-shorter-name } tehtäväpalkkiin, jotta valitsemasi selain on aina käytettävissäsi tarvittaessa.
+windows-10-eos-challenger-pin-primary-button = Kiinnitä { -brand-shorter-name }
+windows-10-eos-sync-callout-privacy-screen-1-title = { -brand-product-name } estää kryptolouhijat, sosiaalisen median seuraimet ja yksilöijät.
+windows-10-eos-sync-callout-next-button = Seuraava
+windows-10-eos-sync-callout-get-started-button = Aloitetaan
+
+## Windows 10 EoS Sync messages group 2 toast notification
+
+windows-10-eos-feature-toast-title = Pystysuuntaiset välilehdet ja välilehtiryhmät ovat täällä!
+windows-10-eos-feature-toast-dismiss-button = Hylkää
