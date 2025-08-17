@@ -73,8 +73,8 @@ about-telemetry-settings-explanation = გაზომვებით აღი�
 # Variables:
 #   $name (string) - Ping name, e.g. “saved-session”
 #   $timestamp (string) - Ping localized timestamp, e.g. “2017/07/08 10:40:46”
-about-telemetry-ping-details = მონაცემების ცალკეული ნაწილები იკვრება და იგზავნება „<a data-l10n-name="ping-link">პინგებად</a>“. თქვენ ნახულობთ { $name }, { $timestamp } პინგს.
-about-telemetry-data-details-current = მონაცემების ცალკეული ნაწილები იკვრება და იგზავნება „<a data-l10n-name="ping-link">პინგებად</a>“. თქვენ ნახულობთ მიმდინარე მონაცემებს.
+about-telemetry-ping-details = მონაცემების თითოეული ნაწილი იკვრება და იგზავნება მზა „<a data-l10n-name="ping-link">უწყებებად</a>“. თქვენ ახლა ხედავთ უწყებას { $name }, { $timestamp }.
+about-telemetry-data-details-current = მონაცემების თითოეული ნაწილი იკვრება და იგზავნება მზა „<a data-l10n-name="ping-link">უწყებებად</a>“. თქვენ ახლა თვალს ადევნებთ მიმდინარე მონაცემებს.
 # string used as a placeholder for the search field
 # More info about it can be found here:
 # https://firefox-source-docs.mozilla.org/toolkit/components/telemetry/telemetry/data/main-ping.html
