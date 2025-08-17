@@ -634,6 +634,7 @@ newtab-widget-lists-label-beta =
 #   $number (number) - Amount of list items marked complete
 newtab-widget-lists-completed-list = შესრულებული ({ $number })
 newtab-widget-task-list-menu-copy = ასლი
+newtab-widget-lists-menu-edit = სიის გადარქმევა
 newtab-widget-lists-menu-create = ახალი სიის შექმნა
 newtab-widget-lists-menu-delete = ამ სიის წაშლა
 newtab-widget-lists-menu-copy = სიის ასლის აღება

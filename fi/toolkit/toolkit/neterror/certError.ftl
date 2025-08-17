@@ -164,6 +164,7 @@ redirectLoop-title = Sivusto ei uudelleenohjaudu asianmukaisesti
 unknownSocketType-title = Odottamaton vastaus palvelimelta
 nssFailure2-title = Suojatun yhteyden muodostaminen epäonnistui
 csp-xfo-error-title = { -brand-short-name } ei voi avata tätä sivua
+corruptedContentErrorv2-title = Sisältö vioittunut -virhe
 corruptedContentError-title = Sisältö vioittunut -virhe
 sslv3Used-title = Ei voitu muodostaa suojattua yhteyttä
 inadequateSecurityError-title = Yhteys ei ole suojattu

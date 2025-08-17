@@ -15,6 +15,12 @@ unexpected-script-load-message-button-block =
     .label = Estä
     .accesskey = ä
 unexpected-script-load-title = Odottamaton komentosarjan lataus
+unexpected-script-load-detail-1-allow = { -brand-short-name } <strong>SALLII</strong> odottamattomien etuoikeutettujen komentosarjojen, mukaan lukien alla olevan, latautumisen. Tämä tekee { -brand-short-name }-asennuksestasi <strong>vähemmän</strong> turvallisen.
+unexpected-script-load-detail-1-block = { -brand-short-name } <strong>ESTÄÄ</strong> odottamattomien etuoikeutettujen komentosarjojen, mukaan lukien alla olevan, latautumisen. Tämä tekee { -brand-short-name }-asennuksestasi <strong>turvallisemman</strong>.
+# In this text "the functionality" refers to whatever the unexpected script is doing.
+# Sorry that is vague - but we don't know what these scripts are, so we don't know what they're doing
+# They could be a custom script people used to customize Firefox, an enterprise configuration script, or something else entirely
+unexpected-script-load-detail-2 = Vaikka sallisitkin tämän komentosarjan käytön, ilmoita siitä { -vendor-short-name }lle, jotta ymmärrämme, miten ja miksi se latautui. <em>Ilman näitä tietoja toiminnallisuus ei toimi tulevaisuudessa.</em>
 unexpected-script-load-report-checkbox =
     .label = Ilmoita tämän komentosarjan URL-osoite { -vendor-short-name }lle
 unexpected-script-load-email-checkbox =
