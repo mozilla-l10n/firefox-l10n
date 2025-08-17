@@ -333,6 +333,17 @@ newtab-custom-weather-toggle =
 newtab-custom-trending-search-toggle =
     .label = Populære søgninger
     .description = Populære og ofte søgte emner
+newtab-custom-widget-weather-toggle =
+    .label = Vejr
+newtab-custom-widget-trending-search-toggle =
+    .label = Populære søgninger
+newtab-custom-widget-lists-toggle =
+    .label = Lister
+newtab-custom-widget-section-title = Widgets
+# Tooltip for close button
+newtab-custom-close-menu-button =
+    .title = Luk
+    .aria-label = Luk menu
 newtab-custom-close-button = Luk
 newtab-custom-settings = Håndter flere indstillinger
 
@@ -605,3 +616,9 @@ newtab-trending-searches-learn-more = Lær mere
 newtab-trending-searches-dismiss = Skjul populære søgninger
 # "Trending searches refers to popular searches from search engines
 newtab-trending-searches-title = Populære søgninger
+
+## Strings for task / to-do list productivity widget
+
+newtab-widget-lists-default-list-title = Opgaveliste
+# The placeholder value of the name field for a newly created list
+newtab-widget-lists-default-list-new = Ny liste
