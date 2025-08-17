@@ -622,3 +622,51 @@ newtab-trending-searches-title = Populære søgninger
 newtab-widget-lists-default-list-title = Opgaveliste
 # The placeholder value of the name field for a newly created list
 newtab-widget-lists-default-list-new = Ny liste
+# A simple label next to the default list name letting users know this is a new / beta feature
+newtab-widget-lists-label-new =
+    .label = Ny
+newtab-widget-lists-label-beta =
+    .label = Beta
+# When tasks have been previous marked as complete, they will appear in their own separate list beneath incomplete items
+# Variables:
+#   $number (number) - Amount of list items marked complete
+newtab-widget-lists-completed-list = Afsluttede ({ $number })
+newtab-widget-task-list-menu-copy = Kopier
+newtab-widget-lists-menu-edit = Rediger listens navn
+newtab-widget-lists-menu-create = Opret en ny liste
+newtab-widget-lists-menu-delete = Slet denne liste
+newtab-widget-lists-menu-copy = Kopier liste til udklipsholderen
+newtab-widget-lists-menu-hide = Skjul alle lister
+newtab-widget-lists-menu-learn-more = Læs mere
+newtab-widget-lists-input-placeholder = Tilføj et element
+newtab-widget-lists-input-error = Inkluder tekst for at tilføje et element.
+newtab-widget-lists-input-menu-open-link = Åbn link
+newtab-widget-lists-input-menu-move-up = Flyt op
+newtab-widget-lists-input-menu-move-down = Flyt ned
+newtab-widget-lists-input-menu-delete = Slet
+newtab-widget-lists-input-menu-edit = Rediger
+
+## Strings for timer productivity widget
+## When the timer ends, a system notification may be shown. Depending on which mode the timer is in, that message would be shown
+
+newtab-widget-timer-notification-focus = Fokus-tiden er slut. Godt gået. Har du brug for en pause?
+newtab-widget-timer-notification-break = Pausen er slut. Klar til at tage fat igen?
+newtab-widget-timer-notification-warning = Notifikationer er slået fra
+newtab-widget-timer-mode-focus =
+    .label = Fokus
+newtab-widget-timer-mode-break =
+    .label = Pause
+newtab-widget-timer-play =
+    .title = Afspil
+newtab-widget-timer-pause =
+    .title = Pause
+newtab-widget-timer-reset =
+    .title = Nulstil
+newtab-widget-timer-menu-learn-more = Læs mere
+newtab-widget-keep-scrolling = Scroll for at se mere
+newtab-promo-card-title = Støt { -brand-product-name }
+newtab-promo-card-body = Vores sponsorer støtter vores mission om at bygge et bedre internet
+newtab-promo-card-cta = Lær mere
+newtab-promo-card-dismiss-button =
+    .title = Afvis
+    .aria-label = Afvis

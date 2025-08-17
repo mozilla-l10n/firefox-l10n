@@ -315,8 +315,11 @@ fxa-menu-message-close-button =
     .title = Luk
     .aria-label = Luk
 fxa-menu-message-sign-up-button = Tilmeld dig
+fxa-menu-message-sign-in-button = Log ind
+fxa-menu-message-sync-button = Start synkronisering
 fxa-menu-message-sync-devices-primary-text = Synkroniser alle dine enheder
 fxa-menu-message-sync-devices-secondary-text = Få hurtigt adgang til dine oplysninger - fx bogmærker og adgangskoder - overalt, hvor du bruger { -brand-short-name }.
+fxa-menu-message-sync-devices-secondary-text2 = Få hurtigt adgang til dine bogmærker, adgangskoder og meget mere - overalt, hvor du er logget ind på { -brand-short-name }.
 fxa-menu-message-sync-devices-collapsed-text = Synkroniser alle dine enheder
 fxa-menu-message-backup-data-primary-text = Sikkerhedskopier dine browserdata
 fxa-menu-message-backup-data-secondary-text = Beskyt automatisk bogmærker, adgangskoder og andre oplysninger på alle dine enheder.
@@ -363,5 +366,9 @@ windows-10-eos-sync-toast-secondary-label = Påmind mig senere
 
 ## Windows 10 EoS sync messages group 2 feature callouts
 
+windows-10-eos-challenger-sync-callout-subtitle = Når du sikkerhedskopierer dine bogmærker og adgangskoder i { -brand-product-name } er det nemmere at tage den browser, du vælger, med til din næste enhed.
+windows-10-eos-challenger-pin-callout-subtitle = Fastgør { -brand-shorter-name } til proceslinjen, så den browser, du har valgt, altid er der, når du har brug for den.
+windows-10-eos-challenger-sync-primary-button = Sikkerhedskopier { -brand-shorter-name }
+windows-10-eos-challenger-pin-primary-button = Fastgør { -brand-shorter-name }
 windows-10-eos-sync-callout-privacy-screen-1-title = { -brand-product-name } blokerer cryptomining, fingerprinting og sporing via sociale medier
 windows-10-eos-sync-callout-privacy-screen-1-subtitle = Sporings-mekanismer kan ikke identificere din enhed eller følge dig rundt på nettet - det giver vi dem ikke lov til.
