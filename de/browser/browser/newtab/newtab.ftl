@@ -338,6 +338,9 @@ newtab-custom-widget-trending-search-toggle =
     .label = Beliebte Suchanfragen
 newtab-custom-widget-lists-toggle =
     .label = Listen
+newtab-custom-widget-timer-toggle =
+    .label = Timer
+newtab-custom-widget-section-title = Widgets
 # Tooltip for close button
 newtab-custom-close-menu-button =
     .title = Schließen
@@ -625,6 +628,8 @@ newtab-widget-lists-empty-cta = Die Möglichkeiten sind unendlich. Fügen Sie ei
 # A simple label next to the default list name letting users know this is a new / beta feature
 newtab-widget-lists-label-new =
     .label = Neu
+newtab-widget-lists-label-beta =
+    .label = Beta
 # When tasks have been previous marked as complete, they will appear in their own separate list beneath incomplete items
 # Variables:
 #   $number (number) - Amount of list items marked complete
@@ -647,7 +652,12 @@ newtab-widget-lists-input-menu-edit = Bearbeiten
 ## Strings for timer productivity widget
 ## When the timer ends, a system notification may be shown. Depending on which mode the timer is in, that message would be shown
 
+newtab-widget-timer-notification-title = Timer
+newtab-widget-timer-notification-focus = Die Fokuszeit ist abgelaufen. Gute Arbeit. Benötigen Sie eine Pause?
+newtab-widget-timer-notification-break = Ihre Pause ist zu Ende. Bereit zum Fokussieren?
 newtab-widget-timer-notification-warning = Benachrichtigungen sind deaktiviert
+newtab-widget-timer-mode-focus =
+    .label = Fokussieren
 newtab-widget-timer-mode-break =
     .label = Pause
 newtab-widget-timer-reset =
