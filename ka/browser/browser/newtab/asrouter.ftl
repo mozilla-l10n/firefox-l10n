@@ -317,8 +317,10 @@ fxa-menu-message-close-button =
     .aria-label = დახურვა
 fxa-menu-message-sign-up-button = ანგარიშის შექმნა
 fxa-menu-message-sign-in-button = შესვლა
+fxa-menu-message-sync-button = დასინქ. დაწყება
 fxa-menu-message-sync-devices-primary-text = დასინქრონება ყველა მოწყობილობაზე
 fxa-menu-message-sync-devices-secondary-text = დაუყოვნებლივ მიიღეთ თქვენს მონაცემებთან წვდომა – მათ შორის სანიშნებსა და პაროლებთან ყველგან, სადაც გიყენიათ { -brand-short-name }
+fxa-menu-message-sync-devices-secondary-text2 = მყისიერად მიიღეთ თქვენი სანიშნები, პაროლები და სხვ. ანგარიშზე შესვლით ყველგან, სადაც გიყენიათ { -brand-short-name }.
 fxa-menu-message-sync-devices-collapsed-text = დასინქრონება ყველა მოწყობილობაზე
 fxa-menu-message-backup-data-primary-text = ბრაუზერის მონაცემების დამარქაფება
 fxa-menu-message-backup-data-secondary-text = სანიშნების, პაროლებისა და სხვა მონაცემების თავისთავადი დაცვა ყველა თქვენს მოწყობილობაზე.
@@ -362,3 +364,11 @@ windows-10-eos-sync-toast-title = გსურთ განახლებით
 windows-10-eos-sync-toast-subtitle = დაამარქაფეთ მონაცემები, რომ { -brand-short-name } მზად იყოს, ნებისმიერ დროს თან გამოგყვეთ ამ თუ სხვა კომპიუტერზე.
 windows-10-eos-sync-toast-primary-label = დაიწყეთ
 windows-10-eos-sync-toast-secondary-label = მოგვიანებით შეხსენება
+
+## Windows 10 EoS sync messages group 2 feature callouts
+
+windows-10-eos-challenger-callout-title = { -brand-product-name } არაა წინასწარვე ჩატვირთული, როგორც სხვა დიდ ტექკომპანიების ბრაუზერებში. ესაა მთავარი სხვაობა.
+windows-10-eos-challenger-sync-callout-subtitle = { -brand-product-name } თუ დამარქაფებული გექნებათ სანიშნებითა და პაროლებით, უფრო იოლი იქნება სასურველი ბრაუზერის სხვა მოწყობილობაზე გადატანა.
+windows-10-eos-challenger-pin-callout-subtitle = მიამაგრეთ { -brand-shorter-name } თქვენს ამოცანათა ზოლზე, რომ სასურველი ბრაუზერი მუდამ ახლოს გქონდეთ, როცა დაგჭირდებათ.
+windows-10-eos-challenger-sync-primary-button = დაამარქაფეთ { -brand-shorter-name }
+windows-10-eos-challenger-pin-primary-button = მიამაგრეთ { -brand-shorter-name }

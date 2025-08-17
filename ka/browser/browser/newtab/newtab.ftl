@@ -340,6 +340,10 @@ newtab-custom-widget-lists-toggle =
 newtab-custom-widget-timer-toggle =
     .label = წამმზომი
 newtab-custom-widget-section-title = ჩანამატები
+# Tooltip for close button
+newtab-custom-close-menu-button =
+    .title = დახურვა
+    .aria-label = მენიუს დახურვა
 newtab-custom-close-button = დახურვა
 newtab-custom-settings = დამატებითი პარამეტრების მართვა
 
@@ -620,6 +624,11 @@ newtab-widget-lists-default-list-title = დავალებების ს�
 newtab-widget-lists-default-list-new = ახალი სია
 # "Add one" means adding a new task to the list (e.g., "Walk the dog")
 newtab-widget-lists-empty-cta = შესაძლებლობები უსაზღვროა. დაამატეთ რომელიმე.
+# A simple label next to the default list name letting users know this is a new / beta feature
+newtab-widget-lists-label-new =
+    .label = სიახლე
+newtab-widget-lists-label-beta =
+    .label = Beta
 # When tasks have been previous marked as complete, they will appear in their own separate list beneath incomplete items
 # Variables:
 #   $number (number) - Amount of list items marked complete
@@ -660,6 +669,10 @@ newtab-widget-timer-menu-notifications = შეტყობინებები
 newtab-widget-timer-menu-notifications-on = შეტყობინებების ჩართვა
 newtab-widget-timer-menu-hide = წამმზომის დამალვა
 newtab-widget-timer-menu-learn-more = ვრცლად
+newtab-widget-keep-scrolling = ჩაუყევით ვრცლად სანახავად
 newtab-promo-card-title = შეეწიეთ – { -brand-product-name }
 newtab-promo-card-body = ჩვენი დამკვეთები მხარს უჭერენ ჩვენს მიზანს უკეთესი ვებსივრცის ჩამოსაყალიბებლად
 newtab-promo-card-cta = ვრცლად
+newtab-promo-card-dismiss-button =
+    .title = აცილება
+    .aria-label = აცილება

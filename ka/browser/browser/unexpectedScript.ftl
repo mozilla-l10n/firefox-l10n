@@ -2,6 +2,8 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+unexpected-script-close-button =
+    .aria-label = დახურვა
 # This string is used in the notification bar
 # Variables:
 #   $origin (string) - The top level domain the unexpected script was loaded from
@@ -28,3 +30,4 @@ unexpected-script-load-email-textbox =
     .aria-label = შეიყვანეთ ელფოსტა აქ
 unexpected-script-load-more-info = დამატებით
 unexpected-script-load-learn-more = ვრცლად
+unexpected-script-load-telemetry-disabled = მოხსენებები გათიშულია, ვინაიდან გაზომვები გამორთულია პარამეტრებიდან. ჩართეთ გაზომვები მოხსენებისთვის.
