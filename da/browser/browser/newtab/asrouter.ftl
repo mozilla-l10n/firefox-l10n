@@ -360,3 +360,8 @@ windows-10-eos-sync-toast-title = Opgraderer du til Windows 11? Behold dine bogm
 windows-10-eos-sync-toast-subtitle = Sikkerhedskopier dine data, så { -brand-short-name } er klar til brug når som helst, på den samme computer eller en ny.
 windows-10-eos-sync-toast-primary-label = Kom i gang
 windows-10-eos-sync-toast-secondary-label = Påmind mig senere
+
+## Windows 10 EoS sync messages group 2 feature callouts
+
+windows-10-eos-sync-callout-privacy-screen-1-title = { -brand-product-name } blokerer cryptomining, fingerprinting og sporing via sociale medier
+windows-10-eos-sync-callout-privacy-screen-1-subtitle = Sporings-mekanismer kan ikke identificere din enhed eller følge dig rundt på nettet - det giver vi dem ikke lov til.
