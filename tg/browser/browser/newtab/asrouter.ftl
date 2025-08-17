@@ -359,3 +359,8 @@ windows-10-eos-sync-spotlight-primary-label = Барои «{ -brand-short-name }
 
 windows-10-eos-sync-toast-primary-label = Оғози кор
 windows-10-eos-sync-toast-secondary-label = Баъдтар ёдоварӣ кунед
+
+## Windows 10 EoS Sync messages group 2 toast notification
+
+windows-10-eos-feature-toast-whats-new-button = Бинед, ки чӣ нав аст
+windows-10-eos-feature-toast-dismiss-button = Нодида гузарондан

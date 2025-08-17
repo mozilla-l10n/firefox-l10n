@@ -339,6 +339,10 @@ newtab-custom-widget-lists-toggle =
 newtab-custom-widget-timer-toggle =
     .label = Вақтсанҷ
 newtab-custom-widget-section-title = Виҷетҳо
+# Tooltip for close button
+newtab-custom-close-menu-button =
+    .title = Пӯшидан
+    .aria-label = Пӯшидани меню
 newtab-custom-close-button = Пӯшидан
 newtab-custom-settings = Идоракунии танзимоти бештар
 
@@ -617,6 +621,11 @@ newtab-widget-lists-default-list-title = Рӯйхати вазифаҳо
 newtab-widget-lists-default-list-new = Рӯйхати нав
 # "Add one" means adding a new task to the list (e.g., "Walk the dog")
 newtab-widget-lists-empty-cta = Имкониятҳо беохиранд. Вазифаи дилхоҳро илова намоед.
+# A simple label next to the default list name letting users know this is a new / beta feature
+newtab-widget-lists-label-new =
+    .label = Нав
+newtab-widget-lists-label-beta =
+    .label = Бета
 # When tasks have been previous marked as complete, they will appear in their own separate list beneath incomplete items
 # Variables:
 #   $number (number) - Amount of list items marked complete
@@ -657,3 +666,6 @@ newtab-widget-timer-menu-learn-more = Маълумоти бештар
 newtab-promo-card-title = Дастгирӣ кардани «{ -brand-product-name }»
 newtab-promo-card-body = Сарпарастони мо рисолати моро барои ташкили таҷрибаи беҳтарини Интернет дастгирӣ менамоянд
 newtab-promo-card-cta = Маълумоти бештар
+newtab-promo-card-dismiss-button =
+    .title = Нодида гузарондан
+    .aria-label = Нодида гузарондан

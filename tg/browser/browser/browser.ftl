@@ -824,6 +824,49 @@ urlbar-result-dismissal-acknowledgment-market = Ташаккур барои из
 # particular type.
 urlbar-result-dismissal-acknowledgment-all = Ташаккур барои изҳори назари шумо. Ба шумо дигар пешниҳодҳои зерин нишон дода намешаванд.
 
+## These strings are used for suggestions of important dates in the urlbar.
+
+# The name of an event and the number of days until it starts separated by a
+# middot.
+# Variables:
+#   $name (string) - The name of the event.
+#   $daysUntilStart (integer) - The number of days until the event starts.
+urlbar-result-dates-countdown =
+    { $daysUntilStart ->
+        [one] { $name } · Пас аз { $daysUntilStart } рӯз
+       *[other] { $name } · Пас аз { $daysUntilStart } рӯз
+    }
+# The name of a multiple day long event and the number of days until it starts
+# separated by a middot.
+# Variables:
+#   $name (string) - The name of the event.
+#   $daysUntilStart (integer) - The number of days until the event starts.
+urlbar-result-dates-countdown-range =
+    { $daysUntilStart ->
+        [one] { $name } · Пас аз { $daysUntilStart } рӯз оғоз мешавад
+       *[other] { $name } · Пас аз { $daysUntilStart } рӯз оғоз мешавад
+    }
+# The name of a multiple day long event and the number of days until it ends
+# separated by a middot.
+# Variables:
+#   $name (string) - The name of the event.
+#   $daysUntilEnd (integer) - The number of days until the event ends.
+urlbar-result-dates-ongoing =
+    { $daysUntilEnd ->
+        [one] { $name } · Пас аз { $daysUntilEnd } рӯз ба анҷом мерасад
+       *[other] { $name } · Пас аз { $daysUntilEnd } рӯз ба анҷом мерасад
+    }
+# The name of an event and a note that it is happening today separated by a
+# middot.
+# Variables:
+#   $name (string) - The name of the event.
+urlbar-result-dates-today = { $name } · Имрӯз
+# The name of multiple day long event and a note that it is ends today
+# separated by a middot.
+# Variables:
+#   $name (string) - The name of the event.
+urlbar-result-dates-ends-today = { $name } · Имрӯз ба анҷом мерасад
+
 ## Strings used for buttons in the urlbar
 
 # Label prompting user to search with a particular search engine.
