@@ -317,6 +317,7 @@ fxa-menu-message-close-button =
     .aria-label = Slute
 fxa-menu-message-sign-up-button = Registrearje
 fxa-menu-message-sign-in-button = Oanmelde
+fxa-menu-message-sync-button = Begjin mei syngronisearjen
 fxa-menu-message-sync-devices-primary-text = Al jo apparaten syngronisearje
 fxa-menu-message-sync-devices-secondary-text = Untfang daliks jo gegevens – lykas blêdwizers en wachtwurden – oeral wêr’t jo { -brand-short-name } brûke.
 fxa-menu-message-sync-devices-collapsed-text = Al jo apparaten syngronisearje
