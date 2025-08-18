@@ -381,7 +381,7 @@ windows-10-eos-callout-addons-title = Essaya le additivos: simple promotiones, g
 windows-10-eos-callout-addons-subtitle = Iste extensiones era seligite pro adjutar te star productive, protecte, e libere de distractiones.
 windows-10-eos-callout-addons-primary-button = Vide nostre electiones
 windows-10-eos-sync-callout-addons-title = Non perde tu additivos quando tu promover ab Windows 10.
-windows-10-eos-sync-callout-addons-subtitle = Synchronisar ora assi tu additivos de { -brand-product-name } sera sempre disponibile, mesmo post un cambiamento de apparato.
+windows-10-eos-sync-callout-addons-subtitle = Synchronisa ora assi tu additivos de { -brand-product-name } sera sempre disponibile, mesmo post un cambiamento de apparato.
 windows-10-eos-sync-callout-next-button = Sequente
 windows-10-eos-sync-callout-get-started-button = Comenciar
 
