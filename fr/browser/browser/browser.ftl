@@ -825,6 +825,49 @@ urlbar-result-menu-dont-show-market =
 # particular type.
 urlbar-result-dismissal-acknowledgment-all = Merci de votre retour. Vous ne verrez plus ces suggestions.
 
+## These strings are used for suggestions of important dates in the urlbar.
+
+# The name of an event and the number of days until it starts separated by a
+# middot.
+# Variables:
+#   $name (string) - The name of the event.
+#   $daysUntilStart (integer) - The number of days until the event starts.
+urlbar-result-dates-countdown =
+    { $daysUntilStart ->
+        [one] { $name } · Dans { $daysUntilStart } jour
+       *[other] { $name } · Dans { $daysUntilStart } jours
+    }
+# The name of a multiple day long event and the number of days until it starts
+# separated by a middot.
+# Variables:
+#   $name (string) - The name of the event.
+#   $daysUntilStart (integer) - The number of days until the event starts.
+urlbar-result-dates-countdown-range =
+    { $daysUntilStart ->
+        [one] { $name } · Débute dans { $daysUntilStart } jour
+       *[other] { $name } · Débute dans { $daysUntilStart } jours
+    }
+# The name of a multiple day long event and the number of days until it ends
+# separated by a middot.
+# Variables:
+#   $name (string) - The name of the event.
+#   $daysUntilEnd (integer) - The number of days until the event ends.
+urlbar-result-dates-ongoing =
+    { $daysUntilEnd ->
+        [one] { $name } · Se termine dans { $daysUntilEnd } jour
+       *[other] { $name } · Se termine dans { $daysUntilEnd } jours
+    }
+# The name of an event and a note that it is happening today separated by a
+# middot.
+# Variables:
+#   $name (string) - The name of the event.
+urlbar-result-dates-today = { $name } · Aujourd’hui
+# The name of multiple day long event and a note that it is ends today
+# separated by a middot.
+# Variables:
+#   $name (string) - The name of the event.
+urlbar-result-dates-ends-today = { $name } · Se termine aujourd’hui
+
 ## Strings used for buttons in the urlbar
 
 # Label prompting user to search with a particular search engine.

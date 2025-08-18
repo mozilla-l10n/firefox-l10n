@@ -11,6 +11,8 @@ taskbar-tab-urlbar-button-open =
     .tooltiptext = Thêm thẻ vào thanh tác vụ
 taskbar-tab-urlbar-button-close =
     .tooltiptext = Xoá thẻ khỏi thanh tác vụ
+taskbar-tab-urlbar-button-show = Hiển thị hành động trang của ứng dụng web
+taskbar-tab-urlbar-button-hide = Ẩn hành động trang của ứng dụng web
 # This string is used in the description of a Windows Start Menu
 # shortcut for a Taskbar Tab.
 # Variables:

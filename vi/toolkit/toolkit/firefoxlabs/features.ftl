@@ -56,3 +56,14 @@ experimental-features-fx-web-apps =
     .label = Thêm trang web vào thanh tác vụ của bạn
 # “Add tab to taskbar” is found in the tooltip text of `-taskbar-tab-urlbar-button-open`.
 experimental-features-fx-web-apps-description = Mở các trang web bạn thường xuyên truy cập dưới dạng ứng dụng web từ thanh tác vụ của bạn. Tìm kiếm biểu tượng “Thêm thẻ vào thanh tác vụ” bên phải thanh địa chỉ để khởi chạy trang web đó trong một cửa sổ được sắp xếp hợp lý với tất cả tính năng bảo vệ của { -brand-product-name }. <a data-l10n-name="connect">Chia sẻ phản hồi</a>
+
+## New Tab Productivity Widgets
+
+# Lists Widget
+experimental-features-newtab-widget-lists =
+    .label = Danh sách trên { -firefox-home-brand-name }
+experimental-features-newtab-widget-lists-description = Hãy luôn ghi nhớ danh sách việc cần làm khi bạn mở một thẻ mới. Từ danh sách đóng gói đến danh sách mua sắm, hãy lập kế hoạch trong { -brand-product-name }. <a data-l10n-name="connect">Chia sẻ phản hồi</a>
+# Timer Widget
+experimental-features-newtab-widget-timer =
+    .label = Bộ đếm giờ trên { -firefox-home-brand-name }
+experimental-features-newtab-widget-timer-description = Đặt bộ hẹn giờ để giúp bạn tập trung, thúc đẩy bạn đi đúng hướng hoặc nhắc nhở bạn nạp lại năng lượng. <a data-l10n-name="connect">Chia sẻ phản hồi</a>
