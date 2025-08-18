@@ -11,6 +11,8 @@ taskbar-tab-urlbar-button-open =
     .tooltiptext = Ljepblêd oan taakbalke tafoegje
 taskbar-tab-urlbar-button-close =
     .tooltiptext = Ljepblêd fan taakbalke fuortsmite
+taskbar-tab-urlbar-button-show = Sideaksje fan webapp toane
+taskbar-tab-urlbar-button-hide = Sideaksje fan webapp ferstopje
 # This string is used in the description of a Windows Start Menu
 # shortcut for a Taskbar Tab.
 # Variables:

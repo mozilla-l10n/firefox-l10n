@@ -320,6 +320,7 @@ fxa-menu-message-sign-in-button = Oanmelde
 fxa-menu-message-sync-button = Begjin mei syngronisearjen
 fxa-menu-message-sync-devices-primary-text = Al jo apparaten syngronisearje
 fxa-menu-message-sync-devices-secondary-text = Untfang daliks jo gegevens – lykas blêdwizers en wachtwurden – oeral wêr’t jo { -brand-short-name } brûke.
+fxa-menu-message-sync-devices-secondary-text2 = Nim daliks jo blêdwizers, wachtwurden en mear mei — nei oeral wêr't jo oanmeld binne by { -brand-short-name }.
 fxa-menu-message-sync-devices-collapsed-text = Al jo apparaten syngronisearje
 fxa-menu-message-backup-data-primary-text = In reservekopy fan jo browsergegevens meitsje
 fxa-menu-message-backup-data-secondary-text = Beskermje automatysk blêdwizers, wachtwurden en oare gegevens op al jo apparaten.
@@ -363,3 +364,31 @@ windows-10-eos-sync-toast-title = Opwurdearje nei Windows 11? Ferlies gjin blêd
 windows-10-eos-sync-toast-subtitle = Meitsje in reservekopy fan jo gegevens, sadat { -brand-short-name } altyd klear is foar gebrûk op elk momint, op dizze pc of de folgjende.
 windows-10-eos-sync-toast-primary-label = Begjinne
 windows-10-eos-sync-toast-secondary-label = Letter werinnerje
+
+## Windows 10 EoS sync messages group 2 feature callouts
+
+windows-10-eos-challenger-callout-title = { -brand-product-name } is net yn it foar ynstallearre lykas oare browsers fan Big Tech. Dat is it punt.
+windows-10-eos-challenger-sync-callout-subtitle = As jo in reservekopy meitsje fan jo { -brand-product-name }-blêdwizers en -wachtwurden, is it makliker om de browser dy’t jo keazen hawwe nei jo folgjende apparaat te bringen.
+windows-10-eos-challenger-pin-callout-subtitle = Set { -brand-shorter-name } oan jo taakbalke fêst, sadat de browser dy’t jo keazen hawwe der altyd is as jo it nedich binne.
+windows-10-eos-challenger-sync-primary-button = In reservekopy fan { -brand-shorter-name } meitsje
+windows-10-eos-challenger-pin-primary-button = { -brand-shorter-name } fêstsette
+windows-10-eos-sync-callout-privacy-screen-1-title = { -brand-product-name } blokkearret cryptominers, sosjale-mediatrackers en fingerprinters.
+windows-10-eos-sync-callout-privacy-screen-1-subtitle = Trackers kinne jo apparaat net identifisearje of jo oer it web folgje — omdat wy se dat net tastean.
+windows-10-eos-sync-callout-privacy-screen-2-title = Beskermje jo wachtwurden en blêdwizers foar jo folgjende apparaat.
+windows-10-eos-sync-callout-privacy-screen-2-subtitle = Troch in reservekopy fan { -brand-shorter-name } te meitsjen, is it maklik om jo gegevens en privacyynstellingen mei te nimmen.
+windows-10-eos-sync-callout-privacy-info-button = Besjoch wat der blokkearre wurdt
+windows-10-eos-callout-addons-title = Probearje add-ons: ienfâldige upgrades, grutte ynfloeden
+windows-10-eos-callout-addons-subtitle = Dizze útwreidingen binne keazen om jo te helpen produktyf, beskerme en ôfliedingsfrij te bliuwen.
+windows-10-eos-callout-addons-primary-button = Sjoch ús karren
+windows-10-eos-sync-callout-addons-title = Ferlies jo add-ons net as jo in upgrade fan Windows 10 útfiere.
+windows-10-eos-sync-callout-addons-subtitle = Syngronisearje no sadat jo { -brand-product-name } add-ons altyd beskikber binne, sels nei in apparaatwikseling.
+windows-10-eos-sync-callout-next-button = Folgjende
+windows-10-eos-sync-callout-get-started-button = Begjinne
+
+## Windows 10 EoS Sync messages group 2 toast notification
+
+windows-10-eos-feature-toast-title = Fertikale ljepblêden en ljepblêdgroepen binne hjir!
+# In English, "dropped" is a colloquial form for released.
+windows-10-eos-feature-toast-subtitle = Op populêr fersyk hat { -brand-product-name } krekt nije funksjes frijjûn om jo blêdzjen streamline en fokust te hâlden.
+windows-10-eos-feature-toast-whats-new-button = Besjoch wat nij is
+windows-10-eos-feature-toast-dismiss-button = Slute
