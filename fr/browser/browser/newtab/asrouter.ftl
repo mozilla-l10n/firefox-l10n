@@ -363,3 +363,25 @@ windows-10-eos-sync-toast-title = Vous passez à Windows 11 ? Ne perdez pas vo
 windows-10-eos-sync-toast-subtitle = Sauvegardez vos données pour que { -brand-short-name } soit prêt à tout moment, sur ce PC comme sur le suivant.
 windows-10-eos-sync-toast-primary-label = Commencer
 windows-10-eos-sync-toast-secondary-label = Me le rappeler plus tard
+
+## Windows 10 EoS sync messages group 2 feature callouts
+
+windows-10-eos-challenger-sync-primary-button = Sauvegarder { -brand-shorter-name }
+windows-10-eos-challenger-pin-primary-button = Épingler { -brand-shorter-name }
+windows-10-eos-sync-callout-privacy-screen-1-title = { -brand-product-name } bloque les mineurs de cryptomonnaies, les traqueurs de réseaux sociaux et les détecteurs d’empreintes numériques.
+windows-10-eos-sync-callout-privacy-screen-1-subtitle = Les traqueurs ne peuvent pas identifier votre appareil ni vous pister sur le Web, car nous ne leur en donnons pas la possibilité.
+windows-10-eos-sync-callout-privacy-info-button = Voir ce qui est bloqué
+windows-10-eos-callout-addons-title = Essayez les modules complémentaires : mises à jour simples, effets considérables
+windows-10-eos-callout-addons-primary-button = Voir notre sélection
+windows-10-eos-sync-callout-addons-title = Ne perdez pas vos modules complémentaires lorsque vous mettez à niveau Windows 10.
+windows-10-eos-sync-callout-addons-subtitle = Synchronisez maintenant pour que vos modules { -brand-product-name } soient toujours disponibles, même après un changement d’appareil.
+windows-10-eos-sync-callout-next-button = Suivant
+windows-10-eos-sync-callout-get-started-button = Commencer
+
+## Windows 10 EoS Sync messages group 2 toast notification
+
+windows-10-eos-feature-toast-title = Les onglets verticaux et les groupes d’onglets sont là !
+# In English, "dropped" is a colloquial form for released.
+windows-10-eos-feature-toast-subtitle = À la suite de nombreuses demandes, { -brand-product-name } a ajouté de nouvelles fonctionnalités pour vous permettre de naviguer de façon plus fluide et ciblée.
+windows-10-eos-feature-toast-whats-new-button = Découvrir les nouveautés
+windows-10-eos-feature-toast-dismiss-button = Ignorer

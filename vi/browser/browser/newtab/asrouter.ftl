@@ -314,8 +314,10 @@ fxa-menu-message-close-button =
     .aria-label = Đóng
 fxa-menu-message-sign-up-button = Đăng ký
 fxa-menu-message-sign-in-button = Đăng nhập
+fxa-menu-message-sync-button = Bắt đầu đồng bộ hóa
 fxa-menu-message-sync-devices-primary-text = Đồng bộ hoá tất cả thiết bị của bạn
 fxa-menu-message-sync-devices-secondary-text = Lấy tức thì dữ liệu của bạn — như dấu trang và mật khẩu — bất cứ mọi nơi bạn sử dụng { -brand-short-name }.
+fxa-menu-message-sync-devices-secondary-text2 = Nhận ngay dấu trang, mật khẩu và nhiều thứ khác — ở mọi nơi bạn đăng nhập { -brand-short-name }.
 fxa-menu-message-sync-devices-collapsed-text = Đồng bộ hoá tất cả thiết bị của bạn
 fxa-menu-message-backup-data-primary-text = Sao lưu dữ liệu trình duyệt của bạn
 fxa-menu-message-backup-data-secondary-text = Tự động bảo vệ dấu trang, mật khẩu và thông tin khác trên tất cả thiết bị của bạn.
@@ -359,3 +361,31 @@ windows-10-eos-sync-toast-title = Nâng cấp lên Windows 11? Đừng để b�
 windows-10-eos-sync-toast-subtitle = Sao lưu dữ liệu của bạn để { -brand-short-name } luôn sẵn sàng sử dụng bất cứ lúc nào, trên máy tính này hoặc máy tính tiếp theo.
 windows-10-eos-sync-toast-primary-label = Bắt đầu
 windows-10-eos-sync-toast-secondary-label = Nhắc tôi sau
+
+## Windows 10 EoS sync messages group 2 feature callouts
+
+windows-10-eos-challenger-callout-title = { -brand-product-name } không tải sẵn như các trình duyệt Big Tech khác. Đó chính là điểm nhắn.
+windows-10-eos-challenger-sync-callout-subtitle = Khi bạn sao lưu dấu trang và mật khẩu { -brand-product-name }, bạn có thể dễ dàng chuyển trình duyệt đã chọn sang thiết bị tiếp theo.
+windows-10-eos-challenger-pin-callout-subtitle = Ghim { -brand-shorter-name } vào thanh tác vụ để trình duyệt bạn chọn luôn ở đó khi bạn cần.
+windows-10-eos-challenger-sync-primary-button = Sao lưu { -brand-shorter-name }
+windows-10-eos-challenger-pin-primary-button = Ghim { -brand-shorter-name }
+windows-10-eos-sync-callout-privacy-screen-1-title = { -brand-product-name } chặn các trình đào tiền điện tử, trình theo dõi mạng xã hội và trình theo dõi dấu vết.
+windows-10-eos-sync-callout-privacy-screen-1-subtitle = Trình theo dõi không thể xác định thiết bị của bạn hoặc theo dõi bạn trên web — bởi vì chúng ta không cho phép họ.
+windows-10-eos-sync-callout-privacy-screen-2-title = Bảo mật mật khẩu và dấu trang cho thiết bị tiếp theo của bạn.
+windows-10-eos-sync-callout-privacy-screen-2-subtitle = Sao lưu { -brand-shorter-name } giúp bạn dễ dàng mang theo dữ liệu và cài đặt quyền riêng tư.
+windows-10-eos-sync-callout-privacy-info-button = Xem những gì bị chặn
+windows-10-eos-callout-addons-title = Hãy thử các tiện ích: nâng cấp đơn giản, tác động lớn
+windows-10-eos-callout-addons-subtitle = Các tiện ích mở rộng này được lựa chọn để giúp bạn duy trì năng suất, được bảo vệ và không bị phân tâm.
+windows-10-eos-callout-addons-primary-button = Xem lựa chọn của chúng tôi
+windows-10-eos-sync-callout-addons-title = Đừng làm mất các tiện ích mở rộng khi bạn nâng cấp từ Windows 10.
+windows-10-eos-sync-callout-addons-subtitle = Đồng bộ ngay bây giờ để tiện ích mở rộng { -brand-product-name } của bạn luôn khả dụng, ngay cả sau khi thay đổi thiết bị.
+windows-10-eos-sync-callout-next-button = Tiếp
+windows-10-eos-sync-callout-get-started-button = Bắt đầu
+
+## Windows 10 EoS Sync messages group 2 toast notification
+
+windows-10-eos-feature-toast-title = Thẻ dọc và nhóm thẻ đã có ở đây!
+# In English, "dropped" is a colloquial form for released.
+windows-10-eos-feature-toast-subtitle = Theo yêu cầu của nhiều người, { -brand-product-name } vừa tung ra các tính năng mới để giúp quá trình duyệt web của bạn trở nên đơn giản và tập trung hơn.
+windows-10-eos-feature-toast-whats-new-button = Xem có gì mới
+windows-10-eos-feature-toast-dismiss-button = Bỏ qua

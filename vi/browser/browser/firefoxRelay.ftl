@@ -23,6 +23,7 @@ firefox-relay-opt-in-title-1 = Bảo vệ địa chỉ email của bạn:
 # This is preceded by firefox-relay-opt-in-title-1 (on a different line), which
 # ends with a colon. You might need to adapt the capitalization of this string.
 firefox-relay-opt-in-subtitle-1 = Sử dụng email ẩn danh { -relay-brand-name }
+firefox-relay-use-mask-title-1 = Sử dụng email ẩn danh
 firefox-relay-use-mask-title = Sử dụng email ẩn danh { -relay-brand-name }
 # This is followed, on a new line, by firefox-relay-opt-in-subtitle-a
 firefox-relay-opt-in-title-a = Ngăn chặn thư rác với email ẩn danh miễn phí

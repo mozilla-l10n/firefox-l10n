@@ -820,6 +820,37 @@ urlbar-result-dismissal-acknowledgment-market = Cảm ơn phản hồi của b�
 # particular type.
 urlbar-result-dismissal-acknowledgment-all = Cảm ơn phản hồi của bạn. Bạn sẽ không thấy những đề xuất này nữa.
 
+## These strings are used for suggestions of important dates in the urlbar.
+
+# The name of an event and the number of days until it starts separated by a
+# middot.
+# Variables:
+#   $name (string) - The name of the event.
+#   $daysUntilStart (integer) - The number of days until the event starts.
+urlbar-result-dates-countdown = { $name } · Trong { $daysUntilStart } ngày
+# The name of a multiple day long event and the number of days until it starts
+# separated by a middot.
+# Variables:
+#   $name (string) - The name of the event.
+#   $daysUntilStart (integer) - The number of days until the event starts.
+urlbar-result-dates-countdown-range = { $name } · Bắt đầu sau { $daysUntilStart } ngày
+# The name of a multiple day long event and the number of days until it ends
+# separated by a middot.
+# Variables:
+#   $name (string) - The name of the event.
+#   $daysUntilEnd (integer) - The number of days until the event ends.
+urlbar-result-dates-ongoing = { $name } · Kết thúc sau { $daysUntilEnd } ngày
+# The name of an event and a note that it is happening today separated by a
+# middot.
+# Variables:
+#   $name (string) - The name of the event.
+urlbar-result-dates-today = { $name } · Hôm nay
+# The name of multiple day long event and a note that it is ends today
+# separated by a middot.
+# Variables:
+#   $name (string) - The name of the event.
+urlbar-result-dates-ends-today = { $name } · Kết thúc hôm nay
+
 ## Strings used for buttons in the urlbar
 
 # Label prompting user to search with a particular search engine.

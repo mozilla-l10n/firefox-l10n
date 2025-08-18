@@ -340,6 +340,10 @@ newtab-custom-widget-lists-toggle =
 newtab-custom-widget-timer-toggle =
     .label = Bộ hẹn giờ
 newtab-custom-widget-section-title = Widget
+# Tooltip for close button
+newtab-custom-close-menu-button =
+    .title = Đóng
+    .aria-label = Đóng menu
 newtab-custom-close-button = Đóng
 newtab-custom-settings = Quản lý các cài đặt khác
 
@@ -620,6 +624,11 @@ newtab-widget-lists-default-list-title = Danh sách nhiệm vụ
 newtab-widget-lists-default-list-new = Danh sách mới
 # "Add one" means adding a new task to the list (e.g., "Walk the dog")
 newtab-widget-lists-empty-cta = Khả năng là vô tận. Hãy thêm một cái.
+# A simple label next to the default list name letting users know this is a new / beta feature
+newtab-widget-lists-label-new =
+    .label = Mới
+newtab-widget-lists-label-beta =
+    .label = Beta
 # When tasks have been previous marked as complete, they will appear in their own separate list beneath incomplete items
 # Variables:
 #   $number (number) - Amount of list items marked complete
@@ -660,6 +669,10 @@ newtab-widget-timer-menu-notifications = Tắt thông báo
 newtab-widget-timer-menu-notifications-on = Bật thông báo
 newtab-widget-timer-menu-hide = Ẩn bộ hẹn giờ
 newtab-widget-timer-menu-learn-more = Tìm hiểu thêm
+newtab-widget-keep-scrolling = Cuộn để biết thêm
 newtab-promo-card-title = Hỗ trợ cho { -brand-product-name }
 newtab-promo-card-body = Các nhà tài trợ của chúng tôi hỗ trợ sứ mệnh của chúng tôi là xây dựng một trang web tốt hơn
 newtab-promo-card-cta = Tìm hiểu thêm
+newtab-promo-card-dismiss-button =
+    .title = Bỏ qua
+    .aria-label = Bỏ qua

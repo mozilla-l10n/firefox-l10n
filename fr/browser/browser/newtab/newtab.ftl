@@ -337,6 +337,10 @@ newtab-custom-widget-lists-toggle =
 newtab-custom-widget-timer-toggle =
     .label = Minuteur
 newtab-custom-widget-section-title = Widgets
+# Tooltip for close button
+newtab-custom-close-menu-button =
+    .title = Fermer
+    .aria-label = Fermer le menu
 newtab-custom-close-button = Fermer
 newtab-custom-settings = Gérer plus de paramètres
 
@@ -611,6 +615,11 @@ newtab-trending-searches-title = Recherches populaires
 newtab-widget-lists-default-list-title = Liste de tâches
 # The placeholder value of the name field for a newly created list
 newtab-widget-lists-default-list-new = Nouvelle liste
+# A simple label next to the default list name letting users know this is a new / beta feature
+newtab-widget-lists-label-new =
+    .label = Nouveau
+newtab-widget-lists-label-beta =
+    .label = Bêta
 # When tasks have been previous marked as complete, they will appear in their own separate list beneath incomplete items
 # Variables:
 #   $number (number) - Amount of list items marked complete
@@ -652,4 +661,8 @@ newtab-widget-timer-menu-notifications-on = Activer les notifications
 newtab-widget-timer-menu-hide = Masquer le minuteur
 newtab-widget-timer-menu-learn-more = En savoir plus
 newtab-promo-card-title = Apportez votre soutien à { -brand-product-name }
+newtab-promo-card-body = Nos sponsors soutiennent notre mission de créer un meilleur Web
 newtab-promo-card-cta = En apprendre davantage
+newtab-promo-card-dismiss-button =
+    .title = Ignorer
+    .aria-label = Ignorer
