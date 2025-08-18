@@ -366,8 +366,10 @@ windows-10-eos-sync-toast-secondary-label = Υπενθύμιση αργότερ�
 ## Windows 10 EoS sync messages group 2 feature callouts
 
 windows-10-eos-challenger-pin-primary-button = Καρφίτσωμα του { -brand-shorter-name }
+windows-10-eos-sync-callout-privacy-screen-1-title = Το { -brand-product-name } αποκλείει cryptominer, ιχνηλάτες μέσων κοινωνικής δικτύωσης και fingerprinter.
 windows-10-eos-callout-addons-primary-button = Δείτε τις επιλογές μας
 windows-10-eos-sync-callout-next-button = Επόμενο
+windows-10-eos-sync-callout-get-started-button = Έναρξη
 
 ## Windows 10 EoS Sync messages group 2 toast notification
 
