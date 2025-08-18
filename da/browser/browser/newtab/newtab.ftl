@@ -339,6 +339,8 @@ newtab-custom-widget-trending-search-toggle =
     .label = Populære søgninger
 newtab-custom-widget-lists-toggle =
     .label = Lister
+newtab-custom-widget-timer-toggle =
+    .label = Timer
 newtab-custom-widget-section-title = Widgets
 # Tooltip for close button
 newtab-custom-close-menu-button =
@@ -651,6 +653,7 @@ newtab-widget-lists-input-menu-edit = Rediger
 ## Strings for timer productivity widget
 ## When the timer ends, a system notification may be shown. Depending on which mode the timer is in, that message would be shown
 
+newtab-widget-timer-notification-title = Timer
 newtab-widget-timer-notification-focus = Fokus-tiden er slut. Godt gået. Har du brug for en pause?
 newtab-widget-timer-notification-break = Pausen er slut. Klar til at tage fat igen?
 newtab-widget-timer-notification-warning = Notifikationer er slået fra
@@ -664,6 +667,7 @@ newtab-widget-timer-pause =
     .title = Pause
 newtab-widget-timer-reset =
     .title = Nulstil
+newtab-widget-timer-menu-hide = Skjul timer
 newtab-widget-timer-menu-learn-more = Læs mere
 newtab-widget-keep-scrolling = Scroll for at se mere
 newtab-promo-card-title = Støt { -brand-product-name }
