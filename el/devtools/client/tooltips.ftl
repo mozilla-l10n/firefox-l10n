@@ -70,6 +70,7 @@ inactive-css-text-wrap-balance-lines-exceeded =
     }
 inactive-css-text-wrap-balance-fragmented = Το <strong>{ $property }</strong> δεν έχει καμία επίδραση σε αυτό το στοιχείο επειδή είναι κατακερματισμένο, δηλαδή το περιεχόμενό του διαχωρίζεται σε πολλές στήλες ή σελίδες.
 inactive-css-no-width-height = Το <strong>{ $property }</strong> δεν έχει επίδραση σε αυτό το στοιχείο, αφού δεν είναι δυνατός ο ορισμός του πλάτους και του ύψους του.
+inactive-css-no-principal-box = Το <strong>{ $property }</strong> δεν έχει επίδραση σε αυτό το στοιχείο, αφού δεν δημιουργεί κύριο πλαίσιο.
 
 ## In the Rule View when a CSS property cannot be successfully applied we display
 ## an icon. When this icon is hovered this message is displayed to explain how
@@ -108,6 +109,7 @@ inactive-css-resize-fix = Δοκιμάστε να ορίσετε το <strong>ov
 inactive-css-ruby-element-fix = Δοκιμάστε να αλλάξετε το <strong>font-size</strong> του κειμένου ruby. { learn-more }
 inactive-css-text-wrap-balance-lines-exceeded-fix = Προσπαθήστε να μειώσετε τον αριθμό των γραμμών. { learn-more }
 inactive-css-text-wrap-balance-fragmented-fix = Αποφύγετε τον διαχωρισμό περιεχομένου του στοιχείου, π.χ. αφαιρώντας τις στήλες ή χρησιμοποιώντας το <strong>page-break-inside:avoid</strong>. { learn-more }
+inactive-css-no-principal-box-fix = Δοκιμάστε να προσθέσετε μια τιμή <strong>display</strong> που δημιουργεί ένα κύριο πλαίσιο, όπως <strong>block</strong>, <strong>inline-block</strong>, <strong>flex</strong> ή <strong>grid</strong>. { learn-more }
 
 ## In the Rule View when a CSS property may have compatibility issues with other browsers
 ## we display an icon. When this icon is hovered this message is displayed to explain why

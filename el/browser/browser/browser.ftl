@@ -836,11 +836,36 @@ urlbar-result-dates-countdown =
         [one] { $name } · Σε { $daysUntilStart } ημέρα
        *[other] { $name } · Σε { $daysUntilStart } ημέρες
     }
+# The name of a multiple day long event and the number of days until it starts
+# separated by a middot.
+# Variables:
+#   $name (string) - The name of the event.
+#   $daysUntilStart (integer) - The number of days until the event starts.
+urlbar-result-dates-countdown-range =
+    { $daysUntilStart ->
+        [one] { $name } · Ξεκινά σε { $daysUntilStart } ημέρα
+       *[other] { $name } · Ξεκινά σε { $daysUntilStart } ημέρες
+    }
+# The name of a multiple day long event and the number of days until it ends
+# separated by a middot.
+# Variables:
+#   $name (string) - The name of the event.
+#   $daysUntilEnd (integer) - The number of days until the event ends.
+urlbar-result-dates-ongoing =
+    { $daysUntilEnd ->
+        [one] { $name } · Τελειώνει σε { $daysUntilEnd } ημέρα
+       *[other] { $name } · Τελειώνει σε { $daysUntilEnd } ημέρες
+    }
 # The name of an event and a note that it is happening today separated by a
 # middot.
 # Variables:
 #   $name (string) - The name of the event.
 urlbar-result-dates-today = { $name } · Σήμερα
+# The name of multiple day long event and a note that it is ends today
+# separated by a middot.
+# Variables:
+#   $name (string) - The name of the event.
+urlbar-result-dates-ends-today = { $name } · Τελειώνει σήμερα
 
 ## Strings used for buttons in the urlbar
 
