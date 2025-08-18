@@ -56,3 +56,14 @@ experimental-features-fx-web-apps =
     .label = Websites oan jo taakbalke tafoegje
 # “Add tab to taskbar” is found in the tooltip text of `-taskbar-tab-urlbar-button-open`.
 experimental-features-fx-web-apps-description = Iepenje websites dy’t jo regelmjittich besykje as in webapp fan jo taakbalke út. Sykje nei it piktogram ‘Ljepblêd oan taakbalke tafoegje’ rjochts yn de adresbalke om dy website yn in streamline finster te iepenjen, mei alle beskermingen fan { -brand-product-name }. <a data-l10n-name="connect">Kommentaar diele</a>
+
+## New Tab Productivity Widgets
+
+# Lists Widget
+experimental-features-newtab-widget-lists =
+    .label = Listen op { -firefox-home-brand-name }
+experimental-features-newtab-widget-lists-description = Hâld jo takelist boppe-oan yn gedachten as jo in nij ljepblêd iepenje. Fan paklisten oant boadskippelisten, meitsje jo plannen yn { -brand-product-name }. <a data-l10n-name="connect">Kommentaar diele</a>
+# Timer Widget
+experimental-features-newtab-widget-timer =
+    .label = Timer op { -firefox-home-brand-name }
+experimental-features-newtab-widget-timer-description = Stel in timer yn om jo te fokusjen, jo oan te moedigjen om op koers te bliuwen, of jo te werinnerjen om op te laden. <a data-l10n-name="connect">Kommentaar diele</a>

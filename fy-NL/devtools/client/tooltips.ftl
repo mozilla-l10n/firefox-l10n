@@ -70,6 +70,7 @@ inactive-css-text-wrap-balance-lines-exceeded =
     }
 inactive-css-text-wrap-balance-fragmented = <strong>{ $property }</strong> hat gjin effekt op dit elemint, omdat it fragmintearre is, d.w.s. de ynhâld is ferdield oer meardere kolommen of siden.
 inactive-css-no-width-height = <strong>{ $property }</strong> hat gjin effekt op dit elemint, omdat de breedte en hichte net ynsteld wurde kinne.
+inactive-css-no-principal-box = <strong>{ $property }</strong> hat gjin effekt op dit elemint, omdat it gjin haadfak oanmakket.
 
 ## In the Rule View when a CSS property cannot be successfully applied we display
 ## an icon. When this icon is hovered this message is displayed to explain how
@@ -108,6 +109,7 @@ inactive-css-resize-fix = Probearje <strong>overflow</strong> yn te stellen op i
 inactive-css-ruby-element-fix = Probearje de <strong>lettertypegrutte</strong> fan de rubytekst te wizigjen. { learn-more }
 inactive-css-text-wrap-balance-lines-exceeded-fix = Probearje it oantal rigels te ferminderjen. { learn-more }
 inactive-css-text-wrap-balance-fragmented-fix = Mij it splitsen fan de ynhâld fan it elemint, byg. troch de kolommen fuort te smiten of troch <strong>page-break-inside:avoid</strong> te brûken. { learn-more }
+inactive-css-no-principal-box-fix = Probearje in <strong>display</strong>-wearde ta te foegjen dy’t in haadfak makket, lykas <strong>block</strong>, <strong>inline-block</strong>, <strong>flex</strong> of <strong>grid</strong>. { learn-more }
 
 ## In the Rule View when a CSS property may have compatibility issues with other browsers
 ## we display an icon. When this icon is hovered this message is displayed to explain why
