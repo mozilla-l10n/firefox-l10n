@@ -23,3 +23,5 @@ unexpected-script-load-detail-1-block = { -brand-short-name } <strong>BLOQUERA</
 unexpected-script-load-detail-2 = Même si vous autorisez ce script, veuillez le signaler à { -vendor-short-name } afin de comprendre comment et pourquoi il a été chargé. <em>Sans ces informations, la fonctionnalité cessera de fonctionner à l’avenir.</em>
 unexpected-script-load-report-checkbox =
     .label = Envoyer l’URL de ce script à { -vendor-short-name }
+unexpected-script-load-more-info = Plus d’informations
+unexpected-script-load-learn-more = En savoir plus
