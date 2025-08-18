@@ -11,6 +11,8 @@ taskbar-tab-urlbar-button-open =
     .tooltiptext = Ychwanegu tab at y bar tasgau
 taskbar-tab-urlbar-button-close =
     .tooltiptext = Tynnu tab o'r bar ochr
+taskbar-tab-urlbar-button-show = Dangos gweithred tudalen Apiau Gwe
+taskbar-tab-urlbar-button-hide = Cuddio gweithred tudalen Apiau Gwe
 # This string is used in the description of a Windows Start Menu
 # shortcut for a Taskbar Tab.
 # Variables:

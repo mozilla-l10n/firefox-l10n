@@ -393,3 +393,14 @@ windows-10-eos-callout-addons-title = Rhowch gynnig ar ychwanegion: uwchraddiada
 windows-10-eos-callout-addons-subtitle = Mae'r estyniadau hyn wedi'u dewis i'ch helpu i aros yn gynhyrchiol, yn ddiogel a pheidio'ch tarfu.
 windows-10-eos-callout-addons-primary-button = Gweld ein dewisiadau
 windows-10-eos-sync-callout-addons-title = Peidiwch colli'ch ychwanegion pan fyddwch chi'n uwchraddio o Windows 10.
+windows-10-eos-sync-callout-addons-subtitle = Cydweddwch nawr fel bod eich ychwanegion { -brand-product-name } bob amser ar gael, hyd yn oed ar ôl newid dyfais.
+windows-10-eos-sync-callout-next-button = Nesaf
+windows-10-eos-sync-callout-get-started-button = Cychwyn arni
+
+## Windows 10 EoS Sync messages group 2 toast notification
+
+windows-10-eos-feature-toast-title = Mae tabiau fertigol a grwpiau tab yma!
+# In English, "dropped" is a colloquial form for released.
+windows-10-eos-feature-toast-subtitle = Ar gais poblogaidd, mae { -brand-product-name } newydd gynnig nodweddion newydd er mwyn sicrhau bod eich pori'n syml a chlir.
+windows-10-eos-feature-toast-whats-new-button = Gweld beth sy'n newydd
+windows-10-eos-feature-toast-dismiss-button = Cau

@@ -346,6 +346,10 @@ newtab-custom-widget-lists-toggle =
 newtab-custom-widget-timer-toggle =
     .label = Amserydd
 newtab-custom-widget-section-title = Teclynnau
+# Tooltip for close button
+newtab-custom-close-menu-button =
+    .title = Cau
+    .aria-label = Cau'r ddewislen
 newtab-custom-close-button = Cau
 newtab-custom-settings = Rheoli rhagor o osodiadau
 
@@ -626,6 +630,11 @@ newtab-widget-lists-default-list-title = Rhestr tasgau
 newtab-widget-lists-default-list-new = Rhestr newydd
 # "Add one" means adding a new task to the list (e.g., "Walk the dog")
 newtab-widget-lists-empty-cta = Mae'r posibiliadau'n ddiddiwedd. Ychwanegwch un.
+# A simple label next to the default list name letting users know this is a new / beta feature
+newtab-widget-lists-label-new =
+    .label = Newydd
+newtab-widget-lists-label-beta =
+    .label = Beta
 # When tasks have been previous marked as complete, they will appear in their own separate list beneath incomplete items
 # Variables:
 #   $number (number) - Amount of list items marked complete
@@ -666,6 +675,10 @@ newtab-widget-timer-menu-notifications = Diffodd hysbysiadau
 newtab-widget-timer-menu-notifications-on = Troi hysbysiadau ymlaen
 newtab-widget-timer-menu-hide = Cuddio'r amserydd
 newtab-widget-timer-menu-learn-more = Dysgu rhagor
+newtab-widget-keep-scrolling = Sgrolio am ragor
 newtab-promo-card-title = Cefnogwch { -brand-product-name }
 newtab-promo-card-body = Mae ein noddwyr yn cefnogi ein cenhadaeth i adeiladu gwe well
 newtab-promo-card-cta = Dysgu rhagor
+newtab-promo-card-dismiss-button =
+    .title = Cau
+    .aria-label = Cau
