@@ -11,6 +11,8 @@ taskbar-tab-urlbar-button-open =
     .tooltiptext = Προσθήκη καρτέλας στη γραμμή εργασιών
 taskbar-tab-urlbar-button-close =
     .tooltiptext = Αφαίρεση καρτέλας από τη γραμμή εργασιών
+taskbar-tab-urlbar-button-show = Εμφάνιση ενέργειας σελίδας εφαρμογής ιστού
+taskbar-tab-urlbar-button-hide = Απόκρυψη ενέργειας σελίδας εφαρμογής ιστού
 # This string is used in the description of a Windows Start Menu
 # shortcut for a Taskbar Tab.
 # Variables:

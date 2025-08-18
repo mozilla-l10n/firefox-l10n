@@ -62,3 +62,7 @@ experimental-features-fx-web-apps-description = Ανοίξτε τους ιστο
 # Lists Widget
 experimental-features-newtab-widget-lists =
     .label = Λίστες στην { -firefox-home-brand-name }
+# Timer Widget
+experimental-features-newtab-widget-timer =
+    .label = Αντίστροφη μέτρηση στην { -firefox-home-brand-name }
+experimental-features-newtab-widget-timer-description = Ξεκινήστε μια αντίστροφη μέτρηση χρόνου για να παραμείνετε προσηλωμένοι στον στόχο σας ή να θυμηθείτε να κάνετε ένα διάλειμμα. <a data-l10n-name="connect">Αποστολή σχολίων</a>

@@ -4,5 +4,8 @@
 
 unexpected-script-close-button =
     .aria-label = Κλείσιμο
+unexpected-script-load-message-button-block =
+    .label = Φραγή
+    .accesskey = Φ
 unexpected-script-load-more-info = Περισσότερες πληροφορίες
 unexpected-script-load-learn-more = Μάθετε περισσότερα
