@@ -666,4 +666,5 @@ newtab-widget-timer-menu-notifications = Benachrichtigungen deaktivieren
 newtab-widget-timer-menu-notifications-on = Benachrichtigungen aktivieren
 newtab-widget-timer-menu-hide = Timer ausblenden
 newtab-widget-timer-menu-learn-more = Weitere Informationen
+newtab-promo-card-body = Unsere Sponsoren unterstützen unsere Mission, ein besseres Internet zu schaffen
 newtab-promo-card-cta = Weitere Informationen
