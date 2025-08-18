@@ -56,3 +56,9 @@ experimental-features-fx-web-apps =
     .label = Добавьте сайты на панель задач
 # “Add tab to taskbar” is found in the tooltip text of `-taskbar-tab-urlbar-button-open`.
 experimental-features-fx-web-apps-description = Открывайте сайты, которые вы часто посещаете как веб-приложение, с панели задач. Найдите значок «Добавить вкладку на панель задач» справа от адресной строки, чтобы запустить сайт в упрощённом окне со всеми защитами { -brand-product-name }. <a data-l10n-name="connect">Поделитесь отзывом</a>
+
+## New Tab Productivity Widgets
+
+# Lists Widget
+experimental-features-newtab-widget-lists =
+    .label = Списки в { -firefox-home-brand-name }
