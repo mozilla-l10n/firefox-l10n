@@ -164,6 +164,7 @@ redirectLoop-title = La page n’est pas redirigée correctement
 unknownSocketType-title = Réponse inattendue du serveur
 nssFailure2-title = Échec de la connexion sécurisée
 csp-xfo-error-title = { -brand-short-name } ne peut pas ouvrir cette page
+corruptedContentErrorv2-title = Erreur due à un contenu corrompu
 corruptedContentError-title = Erreur due à un contenu corrompu
 sslv3Used-title = Impossible d’établir une connexion sécurisée
 inadequateSecurityError-title = La connexion n’est pas sécurisée
