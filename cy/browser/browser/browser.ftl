@@ -843,6 +843,56 @@ urlbar-result-dismissal-acknowledgment-market = Diolch am eich adborth. Fyddwch 
 # particular type.
 urlbar-result-dismissal-acknowledgment-all = Diolch am eich adborth. Fyddwch chi ddim yn gweld yr awgrymiadau hyn bellach.
 
+## These strings are used for suggestions of important dates in the urlbar.
+
+# The name of an event and the number of days until it starts separated by a
+# middot.
+# Variables:
+#   $name (string) - The name of the event.
+#   $daysUntilStart (integer) - The number of days until the event starts.
+urlbar-result-dates-countdown =
+    { $daysUntilStart ->
+        [zero] { $name } · Ymhen { $daysUntilStart } diwrnodau
+        [one] { $name } · Ymhen { $daysUntilStart } diwrnod
+        [two] { $name } · Ymhen { $daysUntilStart } ddiwrnod
+        [few] { $name } · Ymhen { $daysUntilStart } diwrnod
+        [many] { $name } · Ymhen { $daysUntilStart } niwrnod
+       *[other] { $name } · Ymhen { $daysUntilStart } diwrnod
+    }
+# The name of a multiple day long event and the number of days until it starts
+# separated by a middot.
+# Variables:
+#   $name (string) - The name of the event.
+#   $daysUntilStart (integer) - The number of days until the event starts.
+urlbar-result-dates-countdown-range =
+    { $daysUntilStart ->
+        [zero] { $name } · Yn dechrau ymhen { $daysUntilStart } diwrnodau
+        [one] { $name } · Yn dechrau ymhen { $daysUntilStart } diwrnod
+        [two] { $name } · Yn dechrau ymhen { $daysUntilStart } ddiwrnod
+        [few] { $name } · Yn dechrau ymhen { $daysUntilStart } diwrnod
+        [many] { $name } · Yn dechrau ymhen { $daysUntilStart } niwrnod
+       *[other] { $name } · Yn dechrau ymhen { $daysUntilStart } diwrnod
+    }
+# The name of a multiple day long event and the number of days until it ends
+# separated by a middot.
+# Variables:
+#   $name (string) - The name of the event.
+#   $daysUntilEnd (integer) - The number of days until the event ends.
+urlbar-result-dates-ongoing =
+    { $daysUntilEnd ->
+        [zero] { $name } · Yn dod i ben ymhen { $daysUntilEnd } diwrnodau
+        [one] { $name } · Yn dod i ben ymhen { $daysUntilEnd } diwrnod
+        [two] { $name } · Yn dod i ben ymhen { $daysUntilEnd } ddiwrnod
+        [few] { $name } · Yn dod i ben ymhen { $daysUntilEnd } diwrnod
+        [many] { $name } · Yn dod i ben ymhen { $daysUntilEnd } niwrnod
+       *[other] { $name } · Yn dod i ben ymhen { $daysUntilEnd } diwrnod
+    }
+# The name of an event and a note that it is happening today separated by a
+# middot.
+# Variables:
+#   $name (string) - The name of the event.
+urlbar-result-dates-today = { $name } · Heddiw
+
 ## Strings used for buttons in the urlbar
 
 # Label prompting user to search with a particular search engine.
