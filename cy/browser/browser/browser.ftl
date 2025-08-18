@@ -892,6 +892,11 @@ urlbar-result-dates-ongoing =
 # Variables:
 #   $name (string) - The name of the event.
 urlbar-result-dates-today = { $name } · Heddiw
+# The name of multiple day long event and a note that it is ends today
+# separated by a middot.
+# Variables:
+#   $name (string) - The name of the event.
+urlbar-result-dates-ends-today = { $name } · Yn gorffen heddiw
 
 ## Strings used for buttons in the urlbar
 

@@ -329,8 +329,10 @@ fxa-menu-message-close-button =
     .aria-label = Cau
 fxa-menu-message-sign-up-button = Cofrestru
 fxa-menu-message-sign-in-button = Mewngofnodi
+fxa-menu-message-sync-button = Cychwyn cydweddu
 fxa-menu-message-sync-devices-primary-text = Cydweddwch eich holl ddyfeisiau
 fxa-menu-message-sync-devices-secondary-text = Cael eich gwybodaeth ar unwaith — fel nodau tudalen a chyfrineiriau — ym mhob man rydych yn defnyddio { -brand-short-name }.
+fxa-menu-message-sync-devices-secondary-text2 = Cewch eich nodau tudalen, cyfrineiriau, a mwy yn syth — ym mhob man y byddwch wedi'ch mewngofnodi i { -brand-short-name }.
 fxa-menu-message-sync-devices-collapsed-text = Cydweddwch eich holl ddyfeisiau
 fxa-menu-message-backup-data-primary-text = Gwnewch gopi wrth gefn o ddata eich porwr
 fxa-menu-message-backup-data-secondary-text = Diogelwch nodau tudalen, cyfrineiriau a gwybodaeth arall yn awtomatig ar eich holl ddyfeisiau.
@@ -374,3 +376,20 @@ windows-10-eos-sync-toast-title = Yn uwchraddio i Windows 11? Peidiwch â cholli
 windows-10-eos-sync-toast-subtitle = Gwnewch gopi wrth gefn o'ch data fel bod { -brand-short-name } yn barod ar unrhyw bryd, ar y cyfrifiadur hwn neu'r un nesaf.
 windows-10-eos-sync-toast-primary-label = Cychwyn arni
 windows-10-eos-sync-toast-secondary-label = Atgoffwch fi yn nes ymlaen
+
+## Windows 10 EoS sync messages group 2 feature callouts
+
+windows-10-eos-challenger-callout-title = Dyw { -brand-product-name } heb ei raglwytho fel porwyr y cwmnïau mawr eraill. Dyna'r pwynt.
+windows-10-eos-challenger-sync-callout-subtitle = Pan fyddwch yn gwneud copi wrth gefn o'ch nodau tudalen a'ch cyfrineiriau { -brand-product-name }, mae'n haws dod â'r porwr rydych wedi'i ddewis i'ch dyfais nesaf.
+windows-10-eos-challenger-pin-callout-subtitle = Piniwch { -brand-shorter-name } i'ch bar tasgau fel bod y porwr rydych wedi'i ddewis yno bob amser pan fyddwch ei angen.
+windows-10-eos-challenger-sync-primary-button = Copiwch { -brand-shorter-name } wrth gefn
+windows-10-eos-challenger-pin-primary-button = Piniwch { -brand-shorter-name }
+windows-10-eos-sync-callout-privacy-screen-1-title = Mae { -brand-product-name } yn rhwystro cryptogloddwyr, tracwyr cyfryngau cymdeithasol ac bysbrintwyr.
+windows-10-eos-sync-callout-privacy-screen-1-subtitle = Dyw tracwyr ddim yn gallu adnabod eich dyfais na'ch dilyn ar draws y we - oherwydd dydyn ni ddim yn gadael iddyn nhw.
+windows-10-eos-sync-callout-privacy-screen-2-title = Diogelwch eich cyfrineiriau a'ch nodau tudalen ar gyfer eich dyfais nesaf.
+windows-10-eos-sync-callout-privacy-screen-2-subtitle = Mae gwneud copïau wrth gefn o { -brand-shorter-name } yn ei gwneud hi'n hawdd dod â'ch gosodiadau data a phreifatrwydd gyda chi.
+windows-10-eos-sync-callout-privacy-info-button = Gweld beth sydd wedi'i rwystro
+windows-10-eos-callout-addons-title = Rhowch gynnig ar ychwanegion: uwchraddiadau syml, effeithiau mawr
+windows-10-eos-callout-addons-subtitle = Mae'r estyniadau hyn wedi'u dewis i'ch helpu i aros yn gynhyrchiol, yn ddiogel a pheidio'ch tarfu.
+windows-10-eos-callout-addons-primary-button = Gweld ein dewisiadau
+windows-10-eos-sync-callout-addons-title = Peidiwch colli'ch ychwanegion pan fyddwch chi'n uwchraddio o Windows 10.
