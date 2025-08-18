@@ -18,3 +18,7 @@ about-logging-stop-logging = أوقف تسجيل الوقائع
 about-logging-info = معلومات:
 about-logging-log-modules-selection = اختيار وحدة السجل
 about-logging-new-log-modules = وحدات سجل جديدة:
+
+## Logging presets
+
+about-logging-preset-custom-label = مخصّص

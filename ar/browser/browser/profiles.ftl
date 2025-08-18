@@ -30,6 +30,7 @@ edit-profile-page-avatar-header-2 =
     .label = الصورة
 edit-profile-page-delete-button =
     .label = احذف
+avatar-selector-custom-tab = مخصّص
 edit-profile-page-profile-saved = حُفظت
 new-profile-page-title = ملف شخصي جديد
 new-profile-page-header = خصّص ملفك الشخصي الجديد
@@ -69,3 +70,12 @@ profiles-light-theme = فاتح
 profiles-dark-theme = داكن
 # The default system theme
 profiles-system-theme = النظام
+
+## Alternative text for default profile icons
+
+custom-avatar-alt =
+    .alt = صورة رمزية مخصّصة
+
+## Labels for default avatar icons
+
+custom-avatar = صورة رمزية مخصّصة

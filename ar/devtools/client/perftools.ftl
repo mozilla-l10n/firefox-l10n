@@ -49,3 +49,17 @@ perftools-button-save-settings = احفظ الإعدادات وعُد
 perftools-button-restart = أعِد التشغيل
 perftools-button-remove-directory = أزِل المحدد
 perftools-button-edit-settings = عدّل الإعدادات…
+
+## Profiler presets
+
+
+# Presets and their l10n IDs are defined in the file
+# devtools/client/performance-new/shared/background.jsm.js
+# The same labels and descriptions are also defined in appmenu.ftl.
+
+
+# Presets and their l10n IDs are defined in the file
+# devtools/client/performance-new/shared/background.sys.mjs
+# The same labels and descriptions are also defined in appmenu.ftl.
+
+perftools-presets-custom-label = مخصّص

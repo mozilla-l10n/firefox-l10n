@@ -61,6 +61,8 @@ sidebar-context-menu-bookmark-tab =
     .label = علّم اللسان…
 sidebar-context-menu-copy-link =
     .label = انسخ الرابط
+sidebar-context-menu-customize-sidebar =
+    .label = تخصيص الشريط الجانبي
 # Variables:
 #   $deviceName (String) - The name of the device the user is closing a tab for
 sidebar-context-menu-close-remote-tab =
