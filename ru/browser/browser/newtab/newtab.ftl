@@ -342,6 +342,10 @@ newtab-custom-widget-lists-toggle =
 newtab-custom-widget-timer-toggle =
     .label = Таймер
 newtab-custom-widget-section-title = Виджеты
+# Tooltip for close button
+newtab-custom-close-menu-button =
+    .title = Закрыть
+    .aria-label = Закрыть меню
 newtab-custom-close-button = Закрыть
 newtab-custom-settings = Управление дополнительными настройками
 
@@ -622,6 +626,11 @@ newtab-widget-lists-default-list-title = Список задач
 newtab-widget-lists-default-list-new = Новый список
 # "Add one" means adding a new task to the list (e.g., "Walk the dog")
 newtab-widget-lists-empty-cta = Возможности безграничны. Добавьте ещё одну.
+# A simple label next to the default list name letting users know this is a new / beta feature
+newtab-widget-lists-label-new =
+    .label = Создать
+newtab-widget-lists-label-beta =
+    .label = Бета
 # When tasks have been previous marked as complete, they will appear in their own separate list beneath incomplete items
 # Variables:
 #   $number (number) - Amount of list items marked complete

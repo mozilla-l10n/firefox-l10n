@@ -320,8 +320,10 @@ fxa-menu-message-close-button =
     .aria-label = Закрыть
 fxa-menu-message-sign-up-button = Зарегистрироваться
 fxa-menu-message-sign-in-button = Войти
+fxa-menu-message-sync-button = Начать синхронизацию
 fxa-menu-message-sync-devices-primary-text = Синхронизируйте все свои устройства
 fxa-menu-message-sync-devices-secondary-text = Мгновенно получайте доступ к вашей информации — закладкам и паролям — везде, где бы вы ни использовали { -brand-short-name }.
+fxa-menu-message-sync-devices-secondary-text2 = Мгновенно получите ваши закладки, пароли и многое другое — везде, где вы вошли в { -brand-short-name }.
 fxa-menu-message-sync-devices-collapsed-text = Синхронизируйте все свои устройства
 fxa-menu-message-backup-data-primary-text = Создайте резервную копию данных браузера
 fxa-menu-message-backup-data-secondary-text = Автоматически защищайте закладки, пароли и другую информацию на всех ваших устройствах.
@@ -365,3 +367,31 @@ windows-10-eos-sync-toast-title = Переходите на Windows 11? Не п�
 windows-10-eos-sync-toast-subtitle = Сделайте резервную копию своих данных, чтобы { -brand-short-name } был готов к работе в любое время, на этом или следующем компьютере.
 windows-10-eos-sync-toast-primary-label = Начать
 windows-10-eos-sync-toast-secondary-label = Напомнить позже
+
+## Windows 10 EoS sync messages group 2 feature callouts
+
+windows-10-eos-challenger-callout-title = { -brand-product-name } не предзагружен, как другие браузеры бигтеха. В этом ключ.
+windows-10-eos-challenger-sync-callout-subtitle = Когда вы сделаете резервную копию своих закладок и паролей { -brand-product-name }, вам будет проще загрузить выбранный вами браузер на следующее устройство.
+windows-10-eos-challenger-pin-callout-subtitle = Закрепите { -brand-shorter-name } на панели задач, чтобы выбранный вами браузер всегда был там, когда он вам нужен.
+windows-10-eos-challenger-sync-primary-button = Резервная копия { -brand-shorter-name }
+windows-10-eos-challenger-pin-primary-button = Закрепить { -brand-shorter-name }
+windows-10-eos-sync-callout-privacy-screen-1-title = { -brand-product-name } блокирует криптомайнеры, трекеры социальных сетей и сборщики цифровых отпечатков.
+windows-10-eos-sync-callout-privacy-screen-1-subtitle = Трекеры не могут идентифицировать ваше устройство или отслеживать вас в Интернете — потому что мы им не позволяем.
+windows-10-eos-sync-callout-privacy-screen-2-title = Защитите свои пароли и закладки для следующего устройства.
+windows-10-eos-sync-callout-privacy-screen-2-subtitle = Резервирование { -brand-shorter-name } позволяет легко перенести ваши данные и настройки приватности.
+windows-10-eos-sync-callout-privacy-info-button = Посмотрите, что заблокировано
+windows-10-eos-callout-addons-title = Попробуйте дополнения: простые обновления, большие результаты
+windows-10-eos-callout-addons-subtitle = Эти расширения были выбраны, чтобы помочь вам оставаться продуктивными, защищёнными и не отвлекаться.
+windows-10-eos-callout-addons-primary-button = Посмотрите наши подборки
+windows-10-eos-sync-callout-addons-title = Не потеряйте свои дополнения при обновлении с Windows 10.
+windows-10-eos-sync-callout-addons-subtitle = Синхронизируйте сейчас, чтобы дополнения { -brand-product-name } были всегда доступны, даже после смены устройства.
+windows-10-eos-sync-callout-next-button = Далее
+windows-10-eos-sync-callout-get-started-button = Начать
+
+## Windows 10 EoS Sync messages group 2 toast notification
+
+windows-10-eos-feature-toast-title = Вертикальные вкладки и группы вкладок уже здесь!
+# In English, "dropped" is a colloquial form for released.
+windows-10-eos-feature-toast-subtitle = По популярным запросам, { -brand-product-name } добавил новые функции, чтобы сделать ваш веб-сёрфинг более продуктивным и сфокусированным.
+windows-10-eos-feature-toast-whats-new-button = Ознакомьтесь с новинками
+windows-10-eos-feature-toast-dismiss-button = Убрать

@@ -829,6 +829,52 @@ urlbar-result-dismissal-acknowledgment-market = Спасибо за ваш от�
 # particular type.
 urlbar-result-dismissal-acknowledgment-all = Спасибо за ваш отзыв. Вы больше не увидите эти предложения.
 
+## These strings are used for suggestions of important dates in the urlbar.
+
+# The name of an event and the number of days until it starts separated by a
+# middot.
+# Variables:
+#   $name (string) - The name of the event.
+#   $daysUntilStart (integer) - The number of days until the event starts.
+urlbar-result-dates-countdown =
+    { $daysUntilStart ->
+        [one] { $name } · Через { $daysUntilStart } день
+        [few] { $name } · Через { $daysUntilStart } дня
+       *[many] { $name } · Через { $daysUntilStart } дней
+    }
+# The name of a multiple day long event and the number of days until it starts
+# separated by a middot.
+# Variables:
+#   $name (string) - The name of the event.
+#   $daysUntilStart (integer) - The number of days until the event starts.
+urlbar-result-dates-countdown-range =
+    { $daysUntilStart ->
+        [one] { $name } · Начнётся через { $daysUntilStart } день
+        [few] { $name } · Начнётся через { $daysUntilStart } дня
+       *[many] { $name } · Начнётся через { $daysUntilStart } дней
+    }
+# The name of a multiple day long event and the number of days until it ends
+# separated by a middot.
+# Variables:
+#   $name (string) - The name of the event.
+#   $daysUntilEnd (integer) - The number of days until the event ends.
+urlbar-result-dates-ongoing =
+    { $daysUntilEnd ->
+        [one] { $name } · Заканчивается через { $daysUntilEnd } день
+        [few] { $name } · Заканчивается через { $daysUntilEnd } дня
+       *[many] { $name } · Заканчивается через { $daysUntilEnd } дней
+    }
+# The name of an event and a note that it is happening today separated by a
+# middot.
+# Variables:
+#   $name (string) - The name of the event.
+urlbar-result-dates-today = { $name } · Сегодня
+# The name of multiple day long event and a note that it is ends today
+# separated by a middot.
+# Variables:
+#   $name (string) - The name of the event.
+urlbar-result-dates-ends-today = { $name } · Заканчивается сегодня
+
 ## Strings used for buttons in the urlbar
 
 # Label prompting user to search with a particular search engine.
