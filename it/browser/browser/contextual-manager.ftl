@@ -335,4 +335,3 @@ contextual-manager-primary-password-reauth-header = Per visualizzare le password
 # This string informs the user their primary password is used to authenticate and access their passwords
 contextual-manager-primary-password-reauth-button = Inserisci la password principale
 contextual-manager-primary-password-learn-more-link = Ulteriori informazioni
-
