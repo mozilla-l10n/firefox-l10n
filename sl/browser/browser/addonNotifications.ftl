@@ -137,11 +137,13 @@ addon-install-error-corrupt-file = Dodatka, prenesenega s te strani, ni bilo mog
 addon-install-error-file-access = { $addonName } ni bilo mogoče namestiti, ker { -brand-short-name } ne more spremeniti zahtevane datoteke.
 addon-install-error-not-signed = { -brand-short-name } je tej strani preprečil namestitev nepotrjenega dodatka.
 addon-install-error-invalid-domain = Dodatka { $addonName } ni mogoče namestiti s tega mesta.
+addon-install-error-no-addon-name-file-access = Dodatka ni bilo mogoče namestiti, ker { -brand-short-name } ni mogel spremeniti potrebne datoteke.
 addon-local-install-error-network-failure = Tega dodatka ni bilo mogoče namestiti zaradi napake v datotečnem sistemu.
 addon-local-install-error-incorrect-hash = Tega dodatka ni bilo mogoče namestiti, ker ne ustreza pričakovanemu dodatku { -brand-short-name }.
 addon-local-install-error-corrupt-file = Tega dodatka ni bilo mogoče namestiti, ker je verjetno poškodovan.
 addon-local-install-error-file-access = { $addonName } ni bilo mogoče namestiti, ker { -brand-short-name } ne more spremeniti zahtevane datoteke.
 addon-local-install-error-not-signed = Tega dodatka ni bilo mogoče namestiti, ker ni potrjen.
+addon-local-install-no-addon-name-error-file-access = Dodatka ni bilo mogoče namestiti, ker { -brand-short-name } ne more spremeniti potrebne datoteke.
 # Variables:
 #   $appVersion (String): the application version.
 addon-install-error-incompatible = Ni bilo mogoče namestiti dodatka { $addonName }, ker ni združljiv s { -brand-short-name } { $appVersion }.

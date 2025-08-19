@@ -51,3 +51,12 @@ experimental-features-link-previews-description-no-ai =
 experimental-features-newtab-sections-follow-block =
     .label = Tematski razdelki in možnost sledenja/blokiranja za zgodbe na novem zavihku
 experimental-features-newtab-sections-follow-block-description = Organizirajte zgodbe na strani novega zavihka v tematske odseke (Šport, Hrana, Zabava …) za večjo strukturiranost in preglednost. Nova kontrolnika Sledi in Blokiraj vam omogočata izbiro vsebine, ki naj se prikazuje. <a data-l10n-name="connect">Sporočite povratne informacije</a>
+# Firefox Web Apps
+experimental-features-fx-web-apps =
+    .label = Dodajte si strani v opravilno vrstico
+
+## New Tab Productivity Widgets
+
+# Lists Widget
+experimental-features-newtab-widget-lists =
+    .label = Seznami na { -firefox-home-brand-name(sklon: "mestnik") }

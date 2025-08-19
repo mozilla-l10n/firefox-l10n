@@ -115,6 +115,7 @@ fxa-adoption-passwords-primary-button-label = Registracija
 ## Windows 10 EoS Sync messages group 1 callouts
 
 windows-10-eos-sync-urgency-title-2 = Se poslavljate od Windows 10? Obdržite svoje podatke tudi po selitvi.
+windows-10-eos-sync-new-device-title-1 = Naj vam na novi napravi ne bo treba začeti znova.
 windows-10-eos-sync-new-device-primary-label = Sinhroniziraj zdaj
 
 ## Sidebar Strings

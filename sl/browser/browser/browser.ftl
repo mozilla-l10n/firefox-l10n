@@ -1405,3 +1405,31 @@ trustpanel-blocked-header = { -brand-product-name } je za vas blokiral naslednje
 trustpanel-tracking-header = Da se stran ne bi pokvarila, je { -brand-product-name } dovolil naslednje:
 trustpanel-tracking-description = Brez sledilcev morda nekateri gumbi, obrazci in prijavna polja ne bodo delovali.
 trustpanel-insecure-section-header = Vaša povezava ni varna
+trustpanel-list-label-tracking-cookies =
+    { $count ->
+        [one] { $count } piškotek za sledenje med spletnimi mesti
+        [two] { $count } piškotka za sledenje med spletnimi mesti
+        [few] { $count } piškotki za sledenje med spletnimi mesti
+       *[other] { $count } piškotkov za sledenje med spletnimi mesti
+    }
+trustpanel-list-label-fingerprinter =
+    { $count ->
+        [one] { $count } sledilec prstnih odtisov
+        [two] { $count } sledilca prstnih odtisov
+        [few] { $count } sledilci prstnih odtisov
+       *[other] { $count } sledilcev prstnih odtisov
+    }
+trustpanel-list-label-social-tracking =
+    { $count ->
+        [one] { $count } sledilec družbenega omrežja
+        [two] { $count } sledilca družbenih omrežij
+        [few] { $count } sledilci družbenih omrežij
+       *[other] { $count } sledilcev družbenih omrežij
+    }
+trustpanel-list-label-cryptominer =
+    { $count ->
+        [one] { $count } kriptorudar
+        [two] { $count } kriptorudarja
+        [few] { $count } kriptorudarji
+       *[other] { $count } kriptorudarjev
+    }

@@ -164,6 +164,7 @@ redirectLoop-title = Stran ne preusmerja pravilno
 unknownSocketType-title = Nepričakovan odgovor strežnika
 nssFailure2-title = Varna povezava ni uspela
 csp-xfo-error-title = { -brand-short-name } ne more odpreti te strani
+corruptedContentErrorv2-title = Napaka zaradi pokvarjene vsebine
 corruptedContentError-title = Napaka zaradi pokvarjene vsebine
 sslv3Used-title = Varna povezava ni mogoča
 inadequateSecurityError-title = Vaša povezava ni varna

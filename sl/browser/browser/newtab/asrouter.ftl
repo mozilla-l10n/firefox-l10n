@@ -317,6 +317,8 @@ fxa-menu-message-close-button =
     .title = Zapri
     .aria-label = Zapri
 fxa-menu-message-sign-up-button = Registracija
+fxa-menu-message-sign-in-button = Prijava
+fxa-menu-message-sync-button = Začni s sinhronizacijo
 fxa-menu-message-sync-devices-primary-text = Sinhronizirajte vse svoje naprave
 fxa-menu-message-sync-devices-secondary-text = Imejte svoje podatke – kot so zaznamki in gesla – pri roki, kjerkoli uporabljate { -brand-short-name(sklon: "tozilnik") }.
 fxa-menu-message-sync-devices-collapsed-text = Sinhronizirajte vse svoje naprave
@@ -362,3 +364,15 @@ windows-10-eos-sync-toast-title = Nadgrajujete na Windows 11? Ne izgubite zaznam
 windows-10-eos-sync-toast-subtitle = Varnostno kopirajte svoje podatke in pripravite { -brand-short-name(sklon: "tozilnik") } za uporabo na tem računalniku ali na bodočem.
 windows-10-eos-sync-toast-primary-label = Začni
 windows-10-eos-sync-toast-secondary-label = Opomni me pozneje
+
+## Windows 10 EoS sync messages group 2 feature callouts
+
+windows-10-eos-sync-callout-privacy-screen-1-title = { -brand-product-name } blokira kriptorudarje, sledilce družbenih omrežij in sledilce prstnih odtisov.
+windows-10-eos-sync-callout-privacy-screen-1-subtitle = Sledilci ne morejo identificirati vaše naprave ali vam slediti po spletu – ker jim mi ne pustimo.
+windows-10-eos-sync-callout-next-button = Naprej
+windows-10-eos-sync-callout-get-started-button = Začnite
+
+## Windows 10 EoS Sync messages group 2 toast notification
+
+windows-10-eos-feature-toast-whats-new-button = Oglejte si, kaj je novega
+windows-10-eos-feature-toast-dismiss-button = Zapri
