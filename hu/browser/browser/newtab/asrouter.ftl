@@ -372,5 +372,7 @@ windows-10-eos-sync-callout-get-started-button = Kezdő lépések
 ## Windows 10 EoS Sync messages group 2 toast notification
 
 windows-10-eos-feature-toast-title = Megérkeztek a függőleges lapok és lapcsoportok!
+# In English, "dropped" is a colloquial form for released.
+windows-10-eos-feature-toast-subtitle = Népszerű kérésre, a { -brand-product-name } új funkciókat szállít, hogy a böngészése gördülékenyebb és fókuszáltabb legyen.
 windows-10-eos-feature-toast-whats-new-button = Újdonságok
 windows-10-eos-feature-toast-dismiss-button = Eltüntetés
