@@ -56,3 +56,13 @@ experimental-features-fx-web-apps =
     .label = Adaugă site-uri în bara de sarcini
 # “Add tab to taskbar” is found in the tooltip text of `-taskbar-tab-urlbar-button-open`.
 experimental-features-fx-web-apps-description = Deschide site-uri pe care intri des ca aplicație web în bara de sarcini. Caută pictograma „Adaugă fila la bara de sarcini” în dreapta barei de adrese ca să lansezi site-ul respectiv într-o fereastră optimizată, cu toate protecțiile { -brand-product-name }. <a data-l10n-name="connect">Dă-ne un feedback</a>
+
+## New Tab Productivity Widgets
+
+# Lists Widget
+experimental-features-newtab-widget-lists =
+    .label = Liste pe { -firefox-home-brand-name }
+experimental-features-newtab-widget-lists-description = Ține-ți lista de sarcini pe primul loc când deschizi o filă nouă. De la liste de împachetare la liste de cumpărături, fă-ți planurile în { -brand-product-name }. <a data-l10n-name="connect">Dă-ne feedback</a>
+# Timer Widget
+experimental-features-newtab-widget-timer =
+    .label = Cronometru în { -firefox-home-brand-name }

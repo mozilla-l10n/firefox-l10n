@@ -71,6 +71,7 @@ inactive-css-text-wrap-balance-lines-exceeded =
     }
 inactive-css-text-wrap-balance-fragmented = <strong>{ $property }</strong> nu are niciun efect asupra acestui element pentru că e fragmentat, adică are conținutul împărțit pe mai multe coloane sau pagini.
 inactive-css-no-width-height = <strong>{ $property }</strong> nu are niciun efect asupra acestui element pentru că nu i se pot seta lățimea și înălțimea.
+inactive-css-no-principal-box = <strong>{ $property }</strong> nu are niciun efect asupra acestui element pentru că nu creează o cutie principală.
 
 ## In the Rule View when a CSS property cannot be successfully applied we display
 ## an icon. When this icon is hovered this message is displayed to explain how
@@ -109,6 +110,7 @@ inactive-css-resize-fix = Încearcă să setezi <strong>overflow</strong> la alt
 inactive-css-ruby-element-fix = Încearcă să modifici <strong>font-size</strong> pentru textul ruby. { learn-more }
 inactive-css-text-wrap-balance-lines-exceeded-fix = Încercați să reduceți numărul de rânduri. { learn-more }
 inactive-css-text-wrap-balance-fragmented-fix = Evită fragmentarea conținutului elementului, de ex. prin eliminarea coloanelor sau folosind <strong>page-break-inside:avoid</strong>. { learn-more }
+inactive-css-no-principal-box-fix = Încearcă să adaugi o valoare de <strong>display</strong>, care creează o cutie principală, cum ar fi <strong>block</strong>, <strong>inline-block</strong>, <strong>flex</strong> sau <strong>grid</strong>. { learn-more }
 
 ## In the Rule View when a CSS property may have compatibility issues with other browsers
 ## we display an icon. When this icon is hovered this message is displayed to explain why
