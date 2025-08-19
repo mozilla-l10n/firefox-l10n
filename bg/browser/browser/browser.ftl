@@ -806,6 +806,11 @@ urlbar-result-weather-provider-sponsored = { $provider } · Спонсорира
 
 # This string is shown as title when Market suggestion are disabled.
 urlbar-result-market-opt-in-title = Вземете данни от борсата директно в лентата за търсене
+# This string is shown in split button to dismiss activation the Realtime suggestion.
+urlbar-result-realtime-opt-in-not-now = Не сега
+urlbar-result-realtime-opt-in-dismiss = Прекратяване
+urlbar-result-realtime-opt-in-dismiss-all =
+    .label = Без показване на тези предложения
 
 ## Strings used for buttons in the urlbar
 
