@@ -23,6 +23,7 @@ firefox-relay-opt-in-title-1 = Védje meg az e-mail-címét:
 # This is preceded by firefox-relay-opt-in-title-1 (on a different line), which
 # ends with a colon. You might need to adapt the capitalization of this string.
 firefox-relay-opt-in-subtitle-1 = Használjon { -relay-brand-name } e-mail-maszkot
+firefox-relay-use-mask-title-1 = Használjon e-mail-maszkot
 firefox-relay-use-mask-title = Használjon { -relay-brand-name } e-mail-maszkot
 # This is followed, on a new line, by firefox-relay-opt-in-subtitle-a
 firefox-relay-opt-in-title-a = Akadályozza meg a kéretlen leveleket egy ingyenes e-mail-maszkkal

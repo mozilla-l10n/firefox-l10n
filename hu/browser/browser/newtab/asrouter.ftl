@@ -317,6 +317,7 @@ fxa-menu-message-close-button =
     .aria-label = Bezárás
 fxa-menu-message-sign-up-button = Regisztráció
 fxa-menu-message-sign-in-button = Bejelentkezés
+fxa-menu-message-sync-button = Szinkronizálás indítása
 fxa-menu-message-sync-devices-primary-text = Szinkronizálja az összes eszközét
 fxa-menu-message-sync-devices-secondary-text = Azonnal kapja meg az adatait – mint a könyvjelzők és a jelszavak – mindenhol, ahol a { -brand-short-name }ot használja.
 fxa-menu-message-sync-devices-collapsed-text = Szinkronizálja az összes eszközét
@@ -362,3 +363,14 @@ windows-10-eos-sync-toast-title = Windows 11-re frissít? Ne veszítse el könyv
 windows-10-eos-sync-toast-subtitle = Készítsen biztonsági mentést az adatairól, hogy a { -brand-short-name } bármikor használatra készen álljon, ezen a számítógépen vagy a következőn.
 windows-10-eos-sync-toast-primary-label = Kezdő lépések
 windows-10-eos-sync-toast-secondary-label = Figyelmeztetés később
+
+## Windows 10 EoS sync messages group 2 feature callouts
+
+windows-10-eos-sync-callout-next-button = Tovább
+windows-10-eos-sync-callout-get-started-button = Kezdő lépések
+
+## Windows 10 EoS Sync messages group 2 toast notification
+
+windows-10-eos-feature-toast-title = Megérkeztek a függőleges lapok és lapcsoportok!
+windows-10-eos-feature-toast-whats-new-button = Újdonságok
+windows-10-eos-feature-toast-dismiss-button = Eltüntetés

@@ -341,6 +341,10 @@ newtab-custom-widget-lists-toggle =
 newtab-custom-widget-timer-toggle =
     .label = Időzítő
 newtab-custom-widget-section-title = Felületi elemek
+# Tooltip for close button
+newtab-custom-close-menu-button =
+    .title = Bezárás
+    .aria-label = Menü bezárása
 newtab-custom-close-button = Bezárás
 newtab-custom-settings = További beállítások kezelése
 
@@ -621,6 +625,11 @@ newtab-widget-lists-default-list-title = Feladatlista
 newtab-widget-lists-default-list-new = Új lista
 # "Add one" means adding a new task to the list (e.g., "Walk the dog")
 newtab-widget-lists-empty-cta = A lehetőségek végtelenek. Adjon hozzá egyet.
+# A simple label next to the default list name letting users know this is a new / beta feature
+newtab-widget-lists-label-new =
+    .label = Új
+newtab-widget-lists-label-beta =
+    .label = Beta
 # When tasks have been previous marked as complete, they will appear in their own separate list beneath incomplete items
 # Variables:
 #   $number (number) - Amount of list items marked complete
@@ -661,6 +670,10 @@ newtab-widget-timer-menu-notifications = Értesítések kikapcsolása
 newtab-widget-timer-menu-notifications-on = Értesítések bekapcsolása
 newtab-widget-timer-menu-hide = Időzítő elrejtése
 newtab-widget-timer-menu-learn-more = További tudnivalók
+newtab-widget-keep-scrolling = Görgessen a továbbiakért
 newtab-promo-card-title = Támogassa a { -brand-product-name }ot
 newtab-promo-card-body = Szponzoraink támogatják a küldetésünket, hogy jobb webet építsünk
 newtab-promo-card-cta = További tudnivalók
+newtab-promo-card-dismiss-button =
+    .title = Eltüntetés
+    .aria-label = Eltüntetés

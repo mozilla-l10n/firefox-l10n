@@ -11,6 +11,8 @@ taskbar-tab-urlbar-button-open =
     .tooltiptext = Lap hozzáadása a tálcához
 taskbar-tab-urlbar-button-close =
     .tooltiptext = Lap eltávolítása a tálcáról
+taskbar-tab-urlbar-button-show = Webalkalmazás oldalműveleteinek megjelenítése
+taskbar-tab-urlbar-button-hide = Webalkalmazás oldalműveleteinek elrejtése
 # This string is used in the description of a Windows Start Menu
 # shortcut for a Taskbar Tab.
 # Variables:
