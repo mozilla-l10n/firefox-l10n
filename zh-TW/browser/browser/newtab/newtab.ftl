@@ -390,7 +390,7 @@ newtab-wallpaper-brown = 棕色
 
 ## Abstract
 
-newtab-wallpaper-category-title-abstract = 抽象派
+newtab-wallpaper-category-title-abstract = 抽象圖片
 newtab-wallpaper-abstract-green = 綠色造型
 newtab-wallpaper-abstract-blue = 藍色造型
 newtab-wallpaper-abstract-purple = 紫色造型
