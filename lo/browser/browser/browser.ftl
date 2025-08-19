@@ -1115,12 +1115,15 @@ file-picker-crashed-show-in-folder =
 
 ## The urlbar trust panel
 
+trustpanel-etp-label-enabled = ການປົກປ້ອງການຕິດຕາມແບບປັບປຸງເປີດຢູ່
+trustpanel-etp-label-disabled = ການປົກປ້ອງການຕິດຕາມທີ່ປັບປຸງດີຂຶ້ນປິດຢູ່
 # Variables
 #  $host (String): the hostname of the site that is being displayed.
 trustpanel-etp-toggle-off =
     .aria-label = ການປົກປ້ອງການຕິດຕາມທີ່ປັບປຸງແລ້ວ: ປິດສຳລັບ { $host }
 trustpanel-connection-label-secure = ການເຊື່ອມຕໍ່ແມ່ນປອດໄພ
 trustpanel-connection-label-insecure = ການເຊື່ອມຕໍ່ບໍ່ປອດໄພ
+trustpanel-privacy-link = ການຕັ້ງຄ່າຄວາມເປັນສ່ວນຕົວ
 trustpanel-clear-cookies-subview-button-clear = ລົບລ້າງ
 trustpanel-clear-cookies-subview-button-cancel = ຍົກເລີກ
 trustpanel-blocker-see-all = ເບິງທັງໝົດ
