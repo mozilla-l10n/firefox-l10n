@@ -329,6 +329,19 @@ newtab-custom-weather-toggle =
 newtab-custom-trending-search-toggle =
     .label = Căutări în tendințe
     .description = Subiecte populare și căutate frecvent
+newtab-custom-widget-weather-toggle =
+    .label = Meteo
+newtab-custom-widget-trending-search-toggle =
+    .label = Căutări în tendințe
+newtab-custom-widget-lists-toggle =
+    .label = Liste
+newtab-custom-widget-timer-toggle =
+    .label = Cronometru
+newtab-custom-widget-section-title = Widgeturi
+# Tooltip for close button
+newtab-custom-close-menu-button =
+    .title = Închide
+    .aria-label = Închide meniul
 newtab-custom-close-button = Închide
 newtab-custom-settings = Gestionează mai multe setări
 
@@ -601,3 +614,52 @@ newtab-trending-searches-learn-more = Află mai multe
 newtab-trending-searches-dismiss = Ascunde căutări în tendințe
 # "Trending searches refers to popular searches from search engines
 newtab-trending-searches-title = Căutări în tendințe
+
+## Strings for task / to-do list productivity widget
+
+newtab-widget-lists-default-list-title = Listă de sarcini
+# The placeholder value of the name field for a newly created list
+newtab-widget-lists-default-list-new = Listă nouă
+# "Add one" means adding a new task to the list (e.g., "Walk the dog")
+newtab-widget-lists-empty-cta = Posibilitățile sunt nelimitate. Adaugă una.
+# A simple label next to the default list name letting users know this is a new / beta feature
+newtab-widget-lists-label-new =
+    .label = Nou
+newtab-widget-lists-label-beta =
+    .label = Beta
+# When tasks have been previous marked as complete, they will appear in their own separate list beneath incomplete items
+# Variables:
+#   $number (number) - Amount of list items marked complete
+newtab-widget-lists-completed-list = Finalizat ({ $number })
+newtab-widget-task-list-menu-copy = Copiază
+newtab-widget-lists-menu-edit = Editează denumirea listei
+newtab-widget-lists-menu-create = Creează o listă nouă
+newtab-widget-lists-menu-delete = Șterge lista
+newtab-widget-lists-menu-copy = Copiază lista în clipboard
+newtab-widget-lists-menu-hide = Ascunde toate listele
+newtab-widget-lists-menu-learn-more = Află mai multe
+newtab-widget-lists-input-placeholder = Adaugă un element
+newtab-widget-lists-input-error = Te rugăm să incluzi text ca să adaugi un element.
+newtab-widget-lists-input-menu-open-link = Deschide linkul
+newtab-widget-lists-input-menu-move-up = Mută în sus
+newtab-widget-lists-input-menu-move-down = Mută în jos
+newtab-widget-lists-input-menu-delete = Șterge
+newtab-widget-lists-input-menu-edit = Editează
+
+## Strings for timer productivity widget
+## When the timer ends, a system notification may be shown. Depending on which mode the timer is in, that message would be shown
+
+newtab-widget-timer-notification-title = Cronometru
+newtab-widget-timer-notification-focus = Timpul de concentrare a expirat. Ai lucrat bine. Ai nevoie de o pauză?
+newtab-widget-timer-notification-break = Pauza s-a terminat. Ești gata de concentrare?
+newtab-widget-timer-notification-warning = Notificările sunt dezactivate
+newtab-widget-timer-mode-focus =
+    .label = Concentrează-te
+newtab-widget-timer-mode-break =
+    .label = Pauză
+newtab-widget-timer-play =
+    .title = Redă
+newtab-widget-timer-pause =
+    .title = Pauză
+newtab-widget-timer-reset =
+    .title = Resetează

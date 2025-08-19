@@ -378,3 +378,20 @@ windows-10-eos-challenger-pin-primary-button = Fixează { -brand-shorter-name }
 windows-10-eos-sync-callout-privacy-screen-1-title = { -brand-product-name } blochează criptominerii, elementele de urmărire de pe rețelele de socializare și detectoarele de amprente digitale.
 windows-10-eos-sync-callout-privacy-screen-1-subtitle = Elementele de urmărire nu îți pot identifica dispozitivul și nu te pot urmări pe web — pentru că nu le dăm noi voie.
 windows-10-eos-sync-callout-privacy-screen-2-title = Protejează-ți parolele și marcajele pentru următorul tău dispozitiv.
+windows-10-eos-sync-callout-privacy-screen-2-subtitle = O copie de siguranță { -brand-shorter-name } te ajută să îți iei cu tine datele și setările de siguranță.
+windows-10-eos-sync-callout-privacy-info-button = Vezi ce e blocat
+windows-10-eos-callout-addons-title = Încearcă suplimente: actualizări simple, impact mare
+windows-10-eos-callout-addons-subtitle = Aceste extensii au fost alese ca să te ajute să îți menții productivitatea, securitatea și să nu ți se distragă atenția.
+windows-10-eos-callout-addons-primary-button = Vezi alegerile noastre
+windows-10-eos-sync-callout-addons-title = Nu-ți pierde suplimentele când treci la o versiune mai sus de Windows 10.
+windows-10-eos-sync-callout-addons-subtitle = Sincronizează acum ca să ai mereu disponibile suplimentele { -brand-product-name }, chiar și după o schimbare de dispozitiv.
+windows-10-eos-sync-callout-next-button = Înainte
+windows-10-eos-sync-callout-get-started-button = Începe
+
+## Windows 10 EoS Sync messages group 2 toast notification
+
+windows-10-eos-feature-toast-title = Au sosit filele verticale și grupurile de file!
+# In English, "dropped" is a colloquial form for released.
+windows-10-eos-feature-toast-subtitle = La cererea majorității, { -brand-product-name } a introdus funcționalități noi ca să îți eficientizeze și să îți concentreze navigarea.
+windows-10-eos-feature-toast-whats-new-button = Vezi ce este nou
+windows-10-eos-feature-toast-dismiss-button = Respinge
