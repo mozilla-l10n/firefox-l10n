@@ -281,7 +281,7 @@ appmenu-developer-tools-subheader = Instrumente pentru browser
 appmenu-developer-tools-extensions =
     .label = Extensii pentru dezvoltatori
 appmenuitem-report-broken-site =
-    .label = Raportează site-ul nefuncțional
+    .label = Raportează site nefuncțional
 
 ## Panel for privacy and security products
 
