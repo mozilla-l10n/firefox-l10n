@@ -56,3 +56,14 @@ experimental-features-fx-web-apps =
     .label = Ychwanegu gwefannau at eich bar tasgau
 # “Add tab to taskbar” is found in the tooltip text of `-taskbar-tab-urlbar-button-open`.
 experimental-features-fx-web-apps-description = Agorwch wefannau rydych chi'n ymweld â nhw'n aml fel ap gwe o'ch bar tasgau. Chwiliwch am yr eicon “Ychwanegu tab at y bar tasgau” ar y dde, y bar cyfeiriad i agor y wefan honno mewn ffenestr symlach gyda holl ddiogelwch { -brand-product-name }. <a data-l10n-name="connect">Rhannu adborth</a>
+
+## New Tab Productivity Widgets
+
+# Lists Widget
+experimental-features-newtab-widget-lists =
+    .label = Rhestrau { -firefox-home-brand-name }
+experimental-features-newtab-widget-lists-description = Cadwch eich rhestr o bethau i'w gwneud o'ch blaen pan fyddwch chi'n agor tab newydd. O restrau pacio i restrau siopa, crëwch eich cynlluniau yn { -brand-product-name }. <a data-l10n-name="connect">Rhannu adborth</a>
+# Timer Widget
+experimental-features-newtab-widget-timer =
+    .label = Amserydd { -firefox-home-brand-name }
+experimental-features-newtab-widget-timer-description = Gosodwch yr amserydd i gadw'ch canolbwyntio, eich cadw i aros ar y trywydd iawn, neu eich atgoffa i orffwys. <a data-l10n-name="connect">Rhannu adborth</a>

@@ -74,6 +74,7 @@ inactive-css-text-wrap-balance-lines-exceeded =
     }
 inactive-css-text-wrap-balance-fragmented = Nid yw <strong>{ $property }</strong> yn effeithio ar yr elfen hon oherwydd ei bod yn dameidiog, h.y. mae ei chynnwys wedi'i rhannu ar draws colofnau neu dudalennau lluosog.
 inactive-css-no-width-height = Nid yw <strong>{ $property }</strong> yn effeithio ar yr elfen hon gan nad oes modd gosod ei lled a'i huchder.
+inactive-css-no-principal-box = Does gan <strong>{ $property }</strong> ddim effaith ar yr elfen hon oherwydd nid yw'n creu prif flwch.
 
 ## In the Rule View when a CSS property cannot be successfully applied we display
 ## an icon. When this icon is hovered this message is displayed to explain how
@@ -112,6 +113,7 @@ inactive-css-resize-fix = Ceisiwch osod <strong>gorlif</strong> i werth heblaw <
 inactive-css-ruby-element-fix = Ceisio newid <strong>maint ffont</strong> y testun ruby. { learn-more }
 inactive-css-text-wrap-balance-lines-exceeded-fix = Ceisiwch leihau nifer y llinellau.{ learn-more }
 inactive-css-text-wrap-balance-fragmented-fix = Osgowch hollti cynnwys yr elfen e.e. drwy dynnu'r colofnau neu drwy ddefnyddio <strong>page-break-inside:avoid</strong>.{ learn-more }
+inactive-css-no-principal-box-fix = Ceisiwch ychwanegu gwerth <strong>arddangos</strong> sy'n creu prif flwch, fel <strong>bloc</strong>, <strong>bloc mewn-lein</strong>, <strong>flex</strong>, neu <strong>grid</strong>.{ learn-more }
 
 ## In the Rule View when a CSS property may have compatibility issues with other browsers
 ## we display an icon. When this icon is hovered this message is displayed to explain why
