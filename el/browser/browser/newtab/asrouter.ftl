@@ -379,10 +379,12 @@ windows-10-eos-callout-addons-title = Δοκιμάστε πρόσθετα: απ�
 windows-10-eos-callout-addons-subtitle = Αυτές οι επεκτάσεις επιλέχθηκαν για να παραμείνετε παραγωγικοί, προστατευμένοι και χωρίς περισπασμούς.
 windows-10-eos-callout-addons-primary-button = Δείτε τις επιλογές μας
 windows-10-eos-sync-callout-addons-title = Μην χάσετε τα πρόσθετα σας όταν κάνετε αναβάθμιση από τα Windows 10.
+windows-10-eos-sync-callout-addons-subtitle = Κάντε συγχρονισμό τώρα για να είναι πάντα διαθέσιμα τα πρόσθετα του { -brand-product-name } σας, ακόμα και μετά από αλλαγή συσκευής.
 windows-10-eos-sync-callout-next-button = Επόμενο
 windows-10-eos-sync-callout-get-started-button = Έναρξη
 
 ## Windows 10 EoS Sync messages group 2 toast notification
 
+windows-10-eos-feature-toast-title = Οι κάθετες καρτέλες και οι ομάδες καρτελών είναι εδώ!
 windows-10-eos-feature-toast-whats-new-button = Δείτε τι νέο υπάρχει
 windows-10-eos-feature-toast-dismiss-button = Απόρριψη
