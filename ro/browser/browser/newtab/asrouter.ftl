@@ -319,8 +319,11 @@ fxa-menu-message-close-button =
     .title = Închide
     .aria-label = Închide
 fxa-menu-message-sign-up-button = Fă-ți un cont
+fxa-menu-message-sign-in-button = Intră în cont
+fxa-menu-message-sync-button = Începe sincronizarea
 fxa-menu-message-sync-devices-primary-text = Sincronizează-ți toate dispozitivele
 fxa-menu-message-sync-devices-secondary-text = Îți iei instant informațiile — precum marcaje și parole — oriunde folosești { -brand-short-name }.
+fxa-menu-message-sync-devices-secondary-text2 = Ia-ți instant cu tine marcajele, parolele și multe altele — oriunde ești autentificat(ă) în { -brand-short-name }.
 fxa-menu-message-sync-devices-collapsed-text = Sincronizează-ți toate dispozitivele
 fxa-menu-message-backup-data-primary-text = Fă o copie de rezervă cu datele din browser
 fxa-menu-message-backup-data-secondary-text = Îți protejezi automat marcajele, parolele și alte informații pe toate dispozitivele.
@@ -364,3 +367,9 @@ windows-10-eos-sync-toast-title = Treci la Windows 11? Nu pierde marcajele și p
 windows-10-eos-sync-toast-subtitle = Fă o copie de rezervă cu datele ca { -brand-short-name } să fie gata de utilizare oricând, pe acest calculator sau pe următorul.
 windows-10-eos-sync-toast-primary-label = Să începem
 windows-10-eos-sync-toast-secondary-label = Amintește-mi mai târziu
+
+## Windows 10 EoS sync messages group 2 feature callouts
+
+windows-10-eos-challenger-callout-title = { -brand-product-name } nu este preîncărcat ca alte browsere Big Tech. Tocmai asta e ideea.
+windows-10-eos-challenger-sync-callout-subtitle = Când îți faci o copie de rezervă cu marcajele și parolele din { -brand-product-name }, e mai ușor să îți portezi browserul pe următorul dispozitiv.
+windows-10-eos-challenger-pin-callout-subtitle = Fixează { -brand-shorter-name } în bara de sarcini ca să ai browserul ales întotdeauna acolo când ai nevoie de el.
