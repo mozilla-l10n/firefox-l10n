@@ -319,6 +319,7 @@ fxa-menu-message-sign-in-button = Σύνδεση
 fxa-menu-message-sync-button = Έναρξη συγχρονισμού
 fxa-menu-message-sync-devices-primary-text = Συγχρονισμός με όλες τις συσκευές σας
 fxa-menu-message-sync-devices-secondary-text = Λάβετε άμεσα τα δεδομένα σας, όπως σελιδοδείκτες και κωδικούς πρόσβασης, σε οποιαδήποτε συσκευή με το { -brand-short-name }.
+fxa-menu-message-sync-devices-secondary-text2 = Λάβετε άμεσα τους σελιδοδείκτες, τους κωδικούς πρόσβασης και πολλά άλλα, σε όποια συσκευή έχετε συνδεθεί στο { -brand-short-name }.
 fxa-menu-message-sync-devices-collapsed-text = Συγχρονισμός με όλες τις συσκευές σας
 fxa-menu-message-backup-data-primary-text = Αντίγραφα δεδομένων του προγράμματος περιήγησής σας
 fxa-menu-message-backup-data-secondary-text = Προστατέψτε αυτόματα τους σελιδοδείκτες, τους κωδικούς πρόσβασης και άλλα δεδομένα σε όλες τις συσκευές σας.
@@ -365,9 +366,19 @@ windows-10-eos-sync-toast-secondary-label = Υπενθύμιση αργότερ�
 
 ## Windows 10 EoS sync messages group 2 feature callouts
 
+windows-10-eos-challenger-callout-title = Το { -brand-product-name } δεν είναι προφορτωμένο όπως τα άλλα μεγάλα προγράμματα περιήγησης. Αυτή είναι η ουσία.
+windows-10-eos-challenger-sync-callout-subtitle = Όταν δημιουργείτε αντίγραφα ασφαλείας των σελιδοδεικτών και των κωδικών πρόσβασης του { -brand-product-name }, είναι πιο εύκολο να μεταφέρετε το πρόγραμμα περιήγησης που επιλέξατε σε άλλη συσκευή σας.
+windows-10-eos-challenger-pin-callout-subtitle = Καρφιτσώστε το { -brand-shorter-name } στη γραμμή εργασιών σας, ώστε το πρόγραμμα περιήγησης που επιλέξατε να είναι πάντα διαθέσιμο όταν το χρειάζεστε.
+windows-10-eos-challenger-sync-primary-button = Αντίγραφο ασφαλείας { -brand-shorter-name }
 windows-10-eos-challenger-pin-primary-button = Καρφίτσωμα του { -brand-shorter-name }
 windows-10-eos-sync-callout-privacy-screen-1-title = Το { -brand-product-name } αποκλείει cryptominer, ιχνηλάτες μέσων κοινωνικής δικτύωσης και fingerprinter.
+windows-10-eos-sync-callout-privacy-screen-1-subtitle = Οι ιχνηλάτες δεν μπορούν να αναγνωρίσουν τη συσκευή σας ή να σας ακολουθήσουν στο διαδίκτυο, επειδή δεν τους επιτρέπεται.
+windows-10-eos-sync-callout-privacy-screen-2-subtitle = Με τη δημιουργία αντιγράφων ασφαλείας του { -brand-shorter-name }, μπορείτε να έχετε μαζί σας εύκολα τις ρυθμίσεις δεδομένων και απορρήτου.
+windows-10-eos-sync-callout-privacy-info-button = Δείτε τι αποκλείεται
+windows-10-eos-callout-addons-title = Δοκιμάστε πρόσθετα: απλές αναβαθμίσεις, μεγάλες επιπτώσεις
+windows-10-eos-callout-addons-subtitle = Αυτές οι επεκτάσεις επιλέχθηκαν για να παραμείνετε παραγωγικοί, προστατευμένοι και χωρίς περισπασμούς.
 windows-10-eos-callout-addons-primary-button = Δείτε τις επιλογές μας
+windows-10-eos-sync-callout-addons-title = Μην χάσετε τα πρόσθετα σας όταν κάνετε αναβάθμιση από τα Windows 10.
 windows-10-eos-sync-callout-next-button = Επόμενο
 windows-10-eos-sync-callout-get-started-button = Έναρξη
 
