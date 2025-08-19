@@ -66,3 +66,4 @@ experimental-features-newtab-widget-lists-description = Ține-ți lista de sarci
 # Timer Widget
 experimental-features-newtab-widget-timer =
     .label = Cronometru în { -firefox-home-brand-name }
+experimental-features-newtab-widget-timer-description = Setează un cronometru care să te ajute să te concentrezi, să nu ți se distragă atenția sau să îți amintească să iei o pauză. <a data-l10n-name="connect">Dă-ne feedback</a>
