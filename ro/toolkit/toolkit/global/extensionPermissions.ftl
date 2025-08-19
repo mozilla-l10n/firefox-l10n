@@ -10,11 +10,11 @@
 webext-perms-description-bookmarks = Să citească și să modifice marcaje
 webext-perms-description-browserSettings = Să citească și să modifice setările browserului
 webext-perms-description-browsingData = Să șteargă istoricul recent de navigare, cookie-urile și datele asociate
-webext-perms-description-clipboardRead = Să obțină date din clipboard
+webext-perms-description-clipboardRead = Să ia date din clipboard
 webext-perms-description-clipboardWrite = Să introducă date în clipboard
-webext-perms-description-declarativeNetRequest = Blochează conținutul pe orice pagină
-webext-perms-description-declarativeNetRequestFeedback = Citește istoricul de navigare
-webext-perms-description-devtools = Să extindă instrumentele pentru dezvoltatori pentru a-ți accesa datele în filele deschise
+webext-perms-description-declarativeNetRequest = Să blocheze conținut pe orice pagină
+webext-perms-description-declarativeNetRequestFeedback = Să îți citească istoricul de navigare
+webext-perms-description-devtools = Să extindă instrumentele de dezvoltare ca să îți acceseze datele în file deschise
 webext-perms-description-downloads = Să descarce fișiere și să citească sau să modifice istoricul descărcărilor din browser
 webext-perms-description-downloads-open = Să deschidă fișiere descărcate pe calculator
 webext-perms-description-find = Să citească textul din toate filele deschise
@@ -30,8 +30,8 @@ webext-perms-description-sessions = Să acceseze filele închise recent
 webext-perms-description-tabs = Să acceseze filele browserului
 webext-perms-description-tabHide = Să ascundă și să afișeze filele browserului
 webext-perms-description-topSites = Să acceseze istoricul de navigare
-webext-perms-description-trialML = Descarcă și rulează modele IA pe dispozitivul tău
-webext-perms-description-userScripts = Acordă accesul scripturilor terțe neverificate la datele tale
+webext-perms-description-trialML = Să descarce și să ruleze modele IA pe dispozitivul tău
+webext-perms-description-userScripts = Să acorde acces la datele tale unor scripturi neverificate de la terți
 webext-perms-description-webNavigation = Să acceseze activitatea browserului în timpul navigării
 
 ## The userScripts permission includes an additional explanation that is
@@ -63,13 +63,10 @@ webext-perms-description-data-short-websiteContent = conținuturile site-urilor 
 
 webext-perms-description-data-long-authenticationInfo = Să partajeze informații de autentificare cu dezvoltatorul extensiei
 webext-perms-description-data-long-bookmarksInfo = Să partajeze informații despre marcaje cu dezvoltatorul extensiei
-webext-perms-description-data-long-browsingActivity = Partajează activitatea de navigare cu dezvoltatorul extensiei
-webext-perms-description-data-long-financialAndPaymentInfo = Partajează informații financiare și de plată cu dezvoltatorul extensiei
-webext-perms-description-data-long-healthInfo = Partajează informații despre sănătate cu dezvoltatorul extensiei
-webext-perms-description-data-long-locationInfo = Partajează informații despre locație cu dezvoltatorul extensiei
-webext-perms-description-data-long-personalCommunications = Partajează comunicări personale cu dezvoltatorul extensiei
-webext-perms-description-data-long-personallyIdentifyingInfo = Partajează informații de identificare personală cu dezvoltatorul extensiei
-webext-perms-description-data-long-searchTerms = Partajează termeni de căutare cu dezvoltatorul extensiei
-webext-perms-description-data-long-technicalAndInteraction = Partajează date tehnice și de interacțiune cu dezvoltatorul extensiei
+webext-perms-description-data-long-browsingActivity = Să îți partajeze activitatea de navigare cu dezvoltatorul extensiei
+webext-perms-description-data-long-financialAndPaymentInfo = Să partajeze informații financiare și de plată cu dezvoltatorul extensiei
+webext-perms-description-data-long-healthInfo = Să partajeze informații despre sănătatea ta cu dezvoltatorul extensiei
+webext-perms-description-data-long-locationInfo = Să partajeze informații despre locație cu dezvoltatorul extensiei
+webext-perms-description-data-long-personalCommunications = Să partajeze comunicări personale cu dezvoltatorul extensiei
 webext-perms-description-data-long-websiteActivity = Partajează activitate pe site-uri web cu dezvoltatorul extensiei
 webext-perms-description-data-long-websiteContent = Partajează conținuturi de pe site-uri web cu dezvoltatorul extensiei
