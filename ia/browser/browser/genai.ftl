@@ -248,8 +248,14 @@ link-preview-settings-long-press =
 link-preview-optin-title = Vider plus con IA?
 # Message that appears when user is shown the opt-in flow for link previews
 link-preview-optin-message = { -brand-short-name } usa IA pro leger le initio del pagina e generar alcun punctos clave. Pro dar major prioritate a tu confidentialitate, isto eveni sur tu apparato.
+# Onboarding card title for long press
+link-preview-onboarding-title-long-press = Nove: cliccar e retener qualcunque ligamine pro un vista preliminar
+# Onboarding card description for long press
+link-preview-onboarding-description-long-press = Vider un breve description, tempore de lectura, e altero pro decider si le ligamine es digne de esser aperite. Alsi disponibile sur cliccar dextre.
 # Header for the key points section
 link-preview-key-points-header = Punctos clave
+# Disclaimer for AI-generated key points
+link-preview-key-points-disclaimer = Le punctos clave es generate per IA e pote haber errores.
 # Progress message for the first-time setup
 # $progress (number) - The percentage value 1-100 indicating the progress of the setup.
 link-preview-setup = Configuration initial • <strong>{ $progress }</strong>
