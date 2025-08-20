@@ -8,7 +8,7 @@ cert-error-intro = { $hostname } folosește un certificat de securitate nevalid.
 cert-error-mitm-intro = Site-urile își demonstrează identitatea prin certificate, care sunt eliberate de autorități de certificare.
 cert-error-mitm-mozilla = { -brand-short-name } este susținut de organizația nonprofit Mozilla, care administrează un magazin de autorități de certificare (CA) complet deschis. Magazinul CA ajută la asigurarea că autoritățile de certificare respectă cele mai bune practici pentru securitatea utilizatorului.
 cert-error-mitm-connection = { -brand-short-name } utilizează preponderent magazinul CA Mozilla pentru a verifica dacă o conexiune este securizată, nu certificatele furnizate de sistemul de operare al utilizatorului. Așadar, dacă un program antivirus sau o rețea interceptează o conexiune cu un certificat emis de o CA, care nu se află în magazinul CA Mozilla , conexiunea este considerată nesigură.
-cert-error-trust-unknown-issuer-intro = Cineva ar putea încerca să uzurpe identitatea site-ului și nu ar trebui să continui.
+cert-error-trust-unknown-issuer-intro = Ar putea fi cineva care încearcă să uzurpe identitatea site-ului și nu ar trebui să mergi mai departe.
 # Variables:
 #   $hostname (string) - Hostname of the website with cert error.
 cert-error-trust-unknown-issuer = Site-urile web își demonstrează identitatea prin intermediul certificatelor. { -brand-short-name } nu are încredere în { $hostname } deoarece emițătorul certificatului este necunoscut, certificatul este autosemnat sau serverul nu trimite certificatele intermediare corecte.
