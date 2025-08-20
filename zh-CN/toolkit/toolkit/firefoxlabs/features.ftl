@@ -56,3 +56,14 @@ experimental-features-fx-web-apps =
     .label = 将网站添加到任务栏
 # “Add tab to taskbar” is found in the tooltip text of `-taskbar-tab-urlbar-button-open`.
 experimental-features-fx-web-apps-description = 通过任务栏，以 Web 应用形式打开常用网站。点击地址栏右侧的“添加标签页到任务栏”图标，即可在简化窗口中启动相应网站，同时仍能获得 { -brand-product-name } 的所有保护。<a data-l10n-name="connect">分享反馈</a>
+
+## New Tab Productivity Widgets
+
+# Lists Widget
+experimental-features-newtab-widget-lists =
+    .label = { -firefox-home-brand-name }上的列表
+experimental-features-newtab-widget-lists-description = 在新标签页中一览待办列表，时刻提醒自己完成任务。从收拾行李到网上购物，都可以在 { -brand-product-name } 中列清单筹划。<a data-l10n-name="connect">分享反馈</a>
+# Timer Widget
+experimental-features-newtab-widget-timer =
+    .label = { -firefox-home-brand-name }上的计时器
+experimental-features-newtab-widget-timer-description = 设置计时器，帮助保持专注，促使全心投入，提醒劳逸结合。<a data-l10n-name="connect">分享反馈</a>
