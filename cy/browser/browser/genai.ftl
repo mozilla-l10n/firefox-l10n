@@ -135,6 +135,11 @@ genai-options-hide-shortcut =
 genai-options-about-chatbot =
     .label = Ynghylch y sgyrsfotiau AI yn { -brand-short-name }
 
+## Chatbot message
+
+genai-page-warning =
+    .message = Gan fod y dudalen yn hir, mae hwn yn grynodeb rhannol.
+
 ## Chatbot footer
 
 genai-page-button-summarize = Crynhoi Tudalen
@@ -231,3 +236,25 @@ link-preview-reading-time =
         [many] { $range } munud o amser darllen
        *[other] { $range } munud o amser darllen
     }
+# Error message displayed when a link preview cannot be generated
+link-preview-error-message = Dydyn ni ddim yn gallu rhagweld y ddolen hon
+# Text for the link to visit the original URL when in error state
+link-preview-visit-link = Ewch i'r ddolen
+# Error message when we can't generate key points (summary highlights or main ideas of page content) for a page
+link-preview-generation-error-missing-data = Dydyn ni ddim yn gallu cynhyrchu pwyntiau allweddol ar gyfer y dudalen we hon.
+# Error message when something went wrong during key point generation
+link-preview-generation-error-unexpected = Aeth rhywbeth o'i le.
+# Text for the retry link when generation fails
+link-preview-generation-retry = Ceisiwch eto
+# Button that opens the Link Preview settings
+link-preview-settings-button =
+    .title = Gosodiadau Rhagolwg Dolen
+link-preview-settings-enable =
+    .label = Galluogi rhagolygon dolenni
+    .description = Gweld teitl y dudalen, disgrifiad a rhagor pan fyddwch chi'n defnyddio llwybr byr neu roi clic de i ddolen.
+link-preview-settings-key-points =
+    .label = Caniatáu i AI ddarllen dechrau'r dudalen a chynhyrchu pwyntiau allweddol
+link-preview-settings-long-press =
+    .label = Llwybr byr: Cliciwch a dal y ddolen am 1 eiliad (pwyso'n hir)
+# Title that appears when user is shown the opt-in flow for link previews
+link-preview-optin-title = Gweld rhagor gydag AI?
