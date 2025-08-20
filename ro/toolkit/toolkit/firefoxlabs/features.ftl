@@ -25,6 +25,8 @@ experimental-features-group-webpage-display =
     .label = Afișarea paginii web
 experimental-features-group-customize-browsing =
     .label = Personalizează-ți navigarea
+experimental-features-group-productivity =
+    .label = Productivitate
 # Contextual Password Manager in sidebar
 experimental-features-contextual-password-manager =
     .label = Parole în bara laterală

@@ -27,3 +27,10 @@ taskbar-tab-shortcut-description = Aplicație web { $name }
 # use: '<' '>' ':' '"' '/' '\' '|' '?' '*' . All other characters
 # should be fine.)
 taskbar-tab-shortcut-folder = Aplicații web { -brand-short-name }
+
+## These strings are used as the tooltip for the mute/unmute button.
+
+taskbar-tab-audio-mute =
+    .tooltiptext = Dezactivează sunetul filei
+taskbar-tab-audio-unmute =
+    .tooltiptext = Activează sunetul filei

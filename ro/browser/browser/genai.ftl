@@ -129,6 +129,11 @@ genai-options-hide-shortcut =
 genai-options-about-chatbot =
     .label = Despre chatboți IA în { -brand-short-name }
 
+## Chatbot message
+
+genai-page-warning =
+    .message = Pagina este lungă; ai aici un rezumat parțial.
+
 ## Chatbot footer
 
 genai-page-button-summarize = Fă rezumatul paginii
@@ -222,3 +227,44 @@ link-preview-reading-time =
         [few] Timp de citire { $range } minute
        *[other] Timp de citire { $range } de minute
     }
+# Error message displayed when a link preview cannot be generated
+link-preview-error-message = Nu putem afișa previzualizarea acestui link
+# Text for the link to visit the original URL when in error state
+link-preview-visit-link = Intră pe link
+# Error message when we can't generate key points (summary highlights or main ideas of page content) for a page
+link-preview-generation-error-missing-data = Nu putem genera punctele-cheie pentru această pagină web.
+# Error message when something went wrong during key point generation
+link-preview-generation-error-unexpected = Ceva nu a funcționat.
+# Text for the retry link when generation fails
+link-preview-generation-retry = Încearcă din nou
+# Button that opens the Link Preview settings
+link-preview-settings-button =
+    .title = Setări de previzualizare a linkurilor
+link-preview-settings-enable =
+    .label = Activează previzualizările linkurilor
+    .description = Vezi titlul paginii, descrierea și multe altele când folosești comanda rapidă sau dai clic dreapta pe un link.
+link-preview-settings-key-points =
+    .label = Permite IA să citească începutul paginii și să genereze puncte-cheie
+link-preview-settings-long-press =
+    .label = Comandă rapidă: Dă clic și ține apăsat pe link 1 secundă (apăsare lungă)
+# Title that appears when user is shown the opt-in flow for link previews
+link-preview-optin-title = Vezi mai multe cu IA?
+# Message that appears when user is shown the opt-in flow for link previews
+link-preview-optin-message = { -brand-short-name } folosește IA ca să citească începutul paginii și să genereze câteva puncte-cheie. Are loc pe dispozitivul tău ca să îți prioritizăm confidențialitatea.
+# Onboarding card title for long press
+link-preview-onboarding-title-long-press = Nou: Dă clic și ține apăsat pe orice link pentru o previzualizare
+# Onboarding card description for long press
+link-preview-onboarding-description-long-press = Vezi o scurtă descriere, timpul de citire și multe altele ca să decizi dacă merită să deschizi linkul. Disponibil și la clic dreapta.
+# Header for the key points section
+link-preview-key-points-header = Puncte-cheie
+# Disclaimer for AI-generated key points
+link-preview-key-points-disclaimer = Punctele-cheie sunt generate de IA și pot avea erori.
+# Progress message for the first-time setup
+# $progress (number) - The percentage value 1-100 indicating the progress of the setup.
+link-preview-setup = Prima configurare • <strong>{ $progress }%</strong>
+# Message indicating faster performance after initial setup
+link-preview-setup-faster-next-time = Vei vedea punctele-cheie mai rapid data viitoare.
+# Onboarding card See a preview button
+link-preview-onboarding-button = Vezi o previzualizare
+# Onboarding card Close button
+link-preview-onboarding-close = Închide
