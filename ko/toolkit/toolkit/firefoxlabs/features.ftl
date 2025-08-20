@@ -25,6 +25,8 @@ experimental-features-group-webpage-display =
     .label = 웹 페이지 표시
 experimental-features-group-customize-browsing =
     .label = 탐색 사용자 지정
+experimental-features-group-productivity =
+    .label = 생산성
 # Contextual Password Manager in sidebar
 experimental-features-contextual-password-manager =
     .label = 사이드바의 비밀번호

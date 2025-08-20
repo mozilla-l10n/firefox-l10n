@@ -27,3 +27,10 @@ taskbar-tab-shortcut-description = { $name } 웹 앱
 # use: '<' '>' ':' '"' '/' '\' '|' '?' '*' . All other characters
 # should be fine.)
 taskbar-tab-shortcut-folder = { -brand-short-name } 웹 앱
+
+## These strings are used as the tooltip for the mute/unmute button.
+
+taskbar-tab-audio-mute =
+    .tooltiptext = 탭 음소거
+taskbar-tab-audio-unmute =
+    .tooltiptext = 탭 음소거 해제

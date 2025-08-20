@@ -238,3 +238,18 @@ link-preview-optin-title = AI로 더 보고 싶으세요?
 link-preview-optin-message = { -brand-short-name }는 AI를 사용하여 페이지의 처음 부분을 읽고 몇 가지 요점을 생성합니다. 개인 정보 보호를 우선시하기 위해 이 작업은 기기에서 수행됩니다.
 # Onboarding card title for long press
 link-preview-onboarding-title-long-press = 신규: 링크를 길게 눌러 미리보기
+# Onboarding card description for long press
+link-preview-onboarding-description-long-press = 짧은 설명, 읽는 시간 등을 보고 링크를 열 가치가 있는지 결정하세요. 마우스 오른쪽 버튼 클릭에서도 사용할 수 있습니다.
+# Header for the key points section
+link-preview-key-points-header = 요점
+# Disclaimer for AI-generated key points
+link-preview-key-points-disclaimer = 요점은 AI로 생성되었으며 오류가 있을 수 있습니다.
+# Progress message for the first-time setup
+# $progress (number) - The percentage value 1-100 indicating the progress of the setup.
+link-preview-setup = 처음 설정 • <strong>{ $progress }%</strong>
+# Message indicating faster performance after initial setup
+link-preview-setup-faster-next-time = 다음 번에 요점을 더 빨리 볼 수 있습니다.
+# Onboarding card See a preview button
+link-preview-onboarding-button = 미리보기 보기
+# Onboarding card Close button
+link-preview-onboarding-close = 닫기
