@@ -183,6 +183,16 @@ downloads-history =
 downloads-details =
     .title = ລາຍລະອຽດການດາວໂຫລດ
 
+## These strings are displayed in the private browsing view of the downloads panel
+
+downloads-private-browsing-message = ທຸກຄົນທີ່ໃຊ້ອຸປະກອນນີ້ສາມາດເຫັນການດາວໂຫຼດໄດ້, ເຖິງແມ່ນວ່າທ່ານຈະປິດໜ້າຈໍສ່ວນຕົວທັງໝົດກໍຕາມ.
+downloads-private-browsing-delete-button =
+    .label = ລຶບໄຟລ໌ອັດຕະໂນມັດ
+    .accesskey = D
+downloads-private-browsing-accept-button =
+    .label = ໄດ້ແລ້ວ
+    .accesskey = G
+
 ## Displayed when a site attempts to automatically download many files.
 ## Variables:
 ##   $num (number) - Number of blocked downloads.

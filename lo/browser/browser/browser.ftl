@@ -1131,8 +1131,14 @@ trustpanel-blocker-see-all = ເບິງທັງໝົດ
 ## Variables
 ##  $count (String): the number of trackers blocked.
 
+trustpanel-tracking-description = ຖ້າບໍ່ມີຕົວຕິດຕາມ, ບາງປຸ່ມ, ແບບຟອມ, ແລະ ຊ່ອງເຂົ້າສູ່ລະບົບອາດຈະບໍ່ເຮັດວຽກ.
+trustpanel-insecure-section-header = ການເຊື່ອມຕໍ່ຂອງທ່ານບໍ່ປອດໄພ
+trustpanel-insecure-description = ຂໍ້​ມູນ​ທີ່​ທ່ານ​ກໍາ​ລັງ​ສົ່ງ​ໄປ​ຫາ​ເວັບ​ໄຊ​ນີ້​ແມ່ນ​ບໍ່​ໄດ້​ເຂົ້າ​ລະ​ຫັດ​. ມັນສາມາດຖືກເບິ່ງ, ຖືກລັກ, ຫຼື ປ່ຽນແປງ.
+trustpanel-list-label-tracking-cookies = { $count } ຄຸກກີການຕິດຕາມຂ້າມເວັບໄຊ
 trustpanel-list-label-tracking-content = ຕົວຕິດຕາມເນື້ອຫາ
 trustpanel-list-label-fingerprinter = { $count } ລາຍນິ້ວດິຈິຕອນ
+trustpanel-list-label-social-tracking = { $count } ຕົວຕິດຕາມສື່ສັງຄົມ
 trustpanel-list-label-cryptominer = { $count } Cryptominers
+trustpanel-social-tracking-blocking-tab-header = { -brand-product-name } ບລັອກ { $count } ຕົວຕິດຕາມສື່ສັງຄົມ
 trustpanel-tracking-content-not-blocking-tab-header = { -brand-product-name } ອະນຸຍາດໃຫ້ { $count } trackers
 trustpanel-tracking-content-tab-list-header = ເວັບໄຊເຫຼົ່ານີ້ກຳລັງພະຍາຍາມຕິດຕາມທ່ານ:

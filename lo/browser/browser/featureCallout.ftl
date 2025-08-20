@@ -62,6 +62,9 @@ split-dismiss-button-show-fewer-option =
 # Opens about:preferences#general-cfrfeatures
 split-dismiss-button-manage-settings-option =
     .label = ຈັດການການຕັ້ງຄ່າ
+# Accessibility label for dropdown menu button
+split-dismiss-button-default-label =
+    .title = ຕົວເລືອກເພີ່ມເຕີມ
 
 ## Bookmarks toolbar callout strings
 
