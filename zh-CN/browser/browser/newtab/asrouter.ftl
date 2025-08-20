@@ -383,3 +383,5 @@ windows-10-eos-sync-callout-get-started-button = 开始使用
 ## Windows 10 EoS Sync messages group 2 toast notification
 
 windows-10-eos-feature-toast-title = 垂直标签页和标签页群组在这里！
+windows-10-eos-feature-toast-whats-new-button = 查看新功能
+windows-10-eos-feature-toast-dismiss-button = 知道了

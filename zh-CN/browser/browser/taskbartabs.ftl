@@ -11,6 +11,8 @@ taskbar-tab-urlbar-button-open =
     .tooltiptext = 将标签页添加到任务栏
 taskbar-tab-urlbar-button-close =
     .tooltiptext = 从任务栏移除标签页
+taskbar-tab-urlbar-button-show = 显示 Web 应用页面操作
+taskbar-tab-urlbar-button-hide = 隐藏 Web 应用页面操作
 # This string is used in the description of a Windows Start Menu
 # shortcut for a Taskbar Tab.
 # Variables:
