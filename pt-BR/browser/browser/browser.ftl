@@ -855,6 +855,16 @@ urlbar-result-dates-ongoing =
         [one] { $name } · Termina em { $daysUntilEnd } dia
        *[other] { $name } · Termina em { $daysUntilEnd } dias
     }
+# The name of an event and a note that it is happening today separated by a
+# middot.
+# Variables:
+#   $name (string) - The name of the event.
+urlbar-result-dates-today = { $name } · Hoje
+# The name of multiple day long event and a note that it is ends today
+# separated by a middot.
+# Variables:
+#   $name (string) - The name of the event.
+urlbar-result-dates-ends-today = { $name } · Termina hoje
 
 ## Strings used for buttons in the urlbar
 
