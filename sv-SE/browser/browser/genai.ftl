@@ -125,6 +125,11 @@ genai-options-hide-shortcut =
 genai-options-about-chatbot =
     .label = Om AI chatbots i { -brand-short-name }
 
+## Chatbot message
+
+genai-page-warning =
+    .message = Eftersom sidan är lång är detta en partiell sammanfattning.
+
 ## Chatbot footer
 
 genai-page-button-summarize = Sammanfatta sida
@@ -217,3 +222,44 @@ link-preview-reading-time =
         [one] { $range } minuts lästid
        *[other] { $range } minuters lästid
     }
+# Error message displayed when a link preview cannot be generated
+link-preview-error-message = Vi kan inte förhandsgranska den här länken
+# Text for the link to visit the original URL when in error state
+link-preview-visit-link = Besök länk
+# Error message when we can't generate key points (summary highlights or main ideas of page content) for a page
+link-preview-generation-error-missing-data = Vi kan inte skapa nyckelpunkter för den här webbsidan.
+# Error message when something went wrong during key point generation
+link-preview-generation-error-unexpected = Något gick fel.
+# Text for the retry link when generation fails
+link-preview-generation-retry = Försök igen
+# Button that opens the Link Preview settings
+link-preview-settings-button =
+    .title = Inställningar för förhandsgranskning av länk
+link-preview-settings-enable =
+    .label = Aktivera förhandsgranskningar av länk
+    .description = Se sidtitel, beskrivning och mer när du använder genvägen eller högerklickar på en länk.
+link-preview-settings-key-points =
+    .label = Låt AI läsa början av sidan och generera nyckelpunkter
+link-preview-settings-long-press =
+    .label = Genväg: Klicka och håll ner länken i 1 sekund (långt tryck)
+# Title that appears when user is shown the opt-in flow for link previews
+link-preview-optin-title = Se mer med AI?
+# Message that appears when user is shown the opt-in flow for link previews
+link-preview-optin-message = { -brand-short-name } använder AI för att läsa början av sidan och generera några viktiga punkter. För att prioritera din integritet sker detta på din enhet.
+# Onboarding card title for long press
+link-preview-onboarding-title-long-press = Nytt: Klicka och håll ned en länk för en förhandsgranskning
+# Onboarding card description for long press
+link-preview-onboarding-description-long-press = Se en kort beskrivning, läsningstid och mer för att avgöra om länken är värd att öppna. Finns även genom högerklick.
+# Header for the key points section
+link-preview-key-points-header = Huvudpunkter
+# Disclaimer for AI-generated key points
+link-preview-key-points-disclaimer = Nyckelpunkter är AI-genererade och kan innehålla fel.
+# Progress message for the first-time setup
+# $progress (number) - The percentage value 1-100 indicating the progress of the setup.
+link-preview-setup = Förstagångsinstallation • <strong>{ $progress }%</strong>
+# Message indicating faster performance after initial setup
+link-preview-setup-faster-next-time = Du ser nyckelpunkter snabbare nästa gång.
+# Onboarding card See a preview button
+link-preview-onboarding-button = Visa en förhandsgranskning
+# Onboarding card Close button
+link-preview-onboarding-close = Stäng

@@ -25,6 +25,8 @@ experimental-features-group-webpage-display =
     .label = Visning av webbsida
 experimental-features-group-customize-browsing =
     .label = Anpassa din surfning
+experimental-features-group-productivity =
+    .label = Produktivitet
 # Contextual Password Manager in sidebar
 experimental-features-contextual-password-manager =
     .label = Lösenord i sidofältet
