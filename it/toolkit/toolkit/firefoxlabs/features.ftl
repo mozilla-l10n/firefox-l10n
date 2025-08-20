@@ -69,3 +69,4 @@ experimental-features-newtab-widget-lists-description = Tieni sempre la tua list
 experimental-features-newtab-widget-timer =
     .label = Timer in { -firefox-home-brand-name }
 experimental-features-newtab-widget-timer-description = Imposta un timer per aiutarti a restare concentrato, evitare distrazioni o ricordarti di fare una pausa. <a data-l10n-name="connect">Condividi la tua opinione</a>
+

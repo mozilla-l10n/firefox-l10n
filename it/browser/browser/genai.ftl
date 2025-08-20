@@ -257,3 +257,4 @@ link-preview-setup-faster-next-time = La prossima volta i punti chiave verranno 
 link-preview-onboarding-button = Visualizza un’anteprima
 # Onboarding card Close button
 link-preview-onboarding-close = Chiudi
+
