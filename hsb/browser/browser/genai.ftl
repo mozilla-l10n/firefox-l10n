@@ -225,3 +225,21 @@ link-preview-reading-time =
         [few] { $range } mjeńšiny čitanskeho časa
        *[other] { $range } mjeńšin čitanskeho časa
     }
+# Text for the link to visit the original URL when in error state
+link-preview-visit-link = Wotkaz wopytać
+# Error message when something went wrong during key point generation
+link-preview-generation-error-unexpected = Něšto je so nimokuliło.
+# Text for the retry link when generation fails
+link-preview-generation-retry = Hišće raz spytać
+# Button that opens the Link Preview settings
+link-preview-settings-button =
+    .title = Nastajenja wotkazoweho přehlada
+link-preview-settings-enable =
+    .label = Wotkazowe přehlady zmóžnić
+    .description = Titul strony, wopisanje a wjace pokazać, hdyž zwjazanje wužiwać wužiwaće abo z prawej tastu na wotkaz klikaće.
+# Title that appears when user is shown the opt-in flow for link previews
+link-preview-optin-title = Z KI wjace pokazać?
+# Onboarding card See a preview button
+link-preview-onboarding-button = Přehlad pokazać
+# Onboarding card Close button
+link-preview-onboarding-close = Začinić

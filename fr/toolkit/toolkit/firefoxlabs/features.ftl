@@ -25,6 +25,8 @@ experimental-features-group-webpage-display =
     .label = Affichage des pages web
 experimental-features-group-customize-browsing =
     .label = Personnalisez votre navigation
+experimental-features-group-productivity =
+    .label = Productivité
 # Contextual Password Manager in sidebar
 experimental-features-contextual-password-manager =
     .label = Mots de passe dans le panneau latéral

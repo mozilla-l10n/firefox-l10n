@@ -570,6 +570,7 @@ newtab-download-mobile-highlight-image =
 
 ## Strings for shortcuts highlight
 
+newtab-shortcuts-highlight-title = Vos sites préférés à portée de main
 newtab-shortcuts-highlight-subtitle = Ajoutez un raccourci pour accéder à vos sites préférés en un clic.
 
 ## Strings for reporting ads and content
@@ -627,6 +628,8 @@ newtab-widget-lists-menu-delete = Supprimer cette liste
 newtab-widget-lists-menu-copy = Copier la liste dans le presse-papiers
 newtab-widget-lists-menu-hide = Masquer toutes les listes
 newtab-widget-lists-menu-learn-more = En savoir plus
+newtab-widget-lists-input-add-an-item =
+    .placeholder = Ajouter un élément
 newtab-widget-lists-input-error = Veuillez saisir du texte pour ajouter un élément.
 newtab-widget-lists-input-menu-open-link = Ouvrir le lien
 newtab-widget-lists-input-menu-move-up = Déplacer vers le haut
