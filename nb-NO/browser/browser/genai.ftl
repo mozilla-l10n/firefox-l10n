@@ -227,7 +227,7 @@ link-preview-error-message = Vi kan ikke forhåndsvise denne lenken
 # Text for the link to visit the original URL when in error state
 link-preview-visit-link = Besøk lenke
 # Error message when we can't generate key points (summary highlights or main ideas of page content) for a page
-link-preview-generation-error-missing-data = Vi kan ikke generere nøkkelpunkter for denne nettsiden.
+link-preview-generation-error-missing-data = Vi kan ikke generere hovedpunkter for denne nettsiden.
 # Error message when something went wrong during key point generation
 link-preview-generation-error-unexpected = Noe gikk galt.
 # Text for the retry link when generation fails
@@ -245,10 +245,21 @@ link-preview-settings-long-press =
 # Title that appears when user is shown the opt-in flow for link previews
 link-preview-optin-title = Se mer med AI?
 # Message that appears when user is shown the opt-in flow for link previews
-link-preview-optin-message = { -brand-short-name } bruker AI til å lese begynnelsen av siden og generere noen viktige punkter. For å prioritere personvernet ditt skjer dette på enheten din.
+link-preview-optin-message = { -brand-short-name } bruker AI til å lese starten av siden og generere noen hovedpunkter. For å prioritere ditt personvern skjer dette på enheten din.
 # Onboarding card title for long press
 link-preview-onboarding-title-long-press = Nyhet: Klikk og hold inne en hvilken som helst lenke for en forhåndsvisning
 # Onboarding card description for long press
 link-preview-onboarding-description-long-press = Se en kort beskrivelse, lesetid og mer for å avgjøre om lenken er verdt å åpne. Også tilgjengelig ved høyreklikk.
 # Header for the key points section
-link-preview-key-points-header = Viktige punkter
+link-preview-key-points-header = Hovedpunkter
+# Disclaimer for AI-generated key points
+link-preview-key-points-disclaimer = Hovedpunkter er AI-generert og kan inneholde feil.
+# Progress message for the first-time setup
+# $progress (number) - The percentage value 1-100 indicating the progress of the setup.
+link-preview-setup = Førstegangsoppsett • <strong>{ $progress }%</strong>
+# Message indicating faster performance after initial setup
+link-preview-setup-faster-next-time = Du vil se hovedpunkter raskere neste gang.
+# Onboarding card See a preview button
+link-preview-onboarding-button = Se en forhåndsvisning
+# Onboarding card Close button
+link-preview-onboarding-close = Lukk
