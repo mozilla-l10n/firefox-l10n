@@ -125,6 +125,11 @@ genai-options-hide-shortcut =
 genai-options-about-chatbot =
     .label = À propos des chatbots IA dans { -brand-short-name }
 
+## Chatbot message
+
+genai-page-warning =
+    .message = La page étant longue, ce résumé n’est qu’un résumé partiel.
+
 ## Chatbot footer
 
 genai-page-button-summarize = Résumer la page
@@ -213,3 +218,16 @@ genai-model-optin-cancel =
 #   $rangePlural (String): The plural category of the range, using the same set as for numbers.
 #   $range (String): The range of minutes as a localised string. Examples: "3-7", "~1".
 link-preview-reading-time = { $range } min de lecture
+# Error message displayed when a link preview cannot be generated
+link-preview-error-message = Nous ne pouvons pas afficher l’aperçu de ce lien
+# Text for the link to visit the original URL when in error state
+link-preview-visit-link = Consulter le lien
+# Error message when we can't generate key points (summary highlights or main ideas of page content) for a page
+link-preview-generation-error-missing-data = Nous ne pouvons pas générer de points-clés pour cette page web.
+# Error message when something went wrong during key point generation
+link-preview-generation-error-unexpected = Une erreur s’est produite.
+# Text for the retry link when generation fails
+link-preview-generation-retry = Réessayer
+# Button that opens the Link Preview settings
+link-preview-settings-button =
+    .title = Paramètres d’aperçu des liens
