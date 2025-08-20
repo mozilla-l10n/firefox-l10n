@@ -122,6 +122,11 @@ genai-options-hide-shortcut =
 genai-options-about-chatbot =
     .label = Om AI-samtalerobotar i { -brand-short-name }
 
+## Chatbot message
+
+genai-page-warning =
+    .message = På grunn av at sida er lang, er dette eit delvis samandrag.
+
 ## Chatbot footer
 
 genai-page-button-summarize = Samanfatt side
@@ -214,3 +219,19 @@ link-preview-reading-time =
         [one] { $range } minutt lesetid
        *[other] { $range } minutt lesetid
     }
+# Error message displayed when a link preview cannot be generated
+link-preview-error-message = Vi kan ikkje førehandsvise denne lenka
+# Text for the link to visit the original URL when in error state
+link-preview-visit-link = Besøk lenke
+# Error message when we can't generate key points (summary highlights or main ideas of page content) for a page
+link-preview-generation-error-missing-data = Vi kan ikkje generere hovudpunkt for denne nettsida.
+# Error message when something went wrong during key point generation
+link-preview-generation-error-unexpected = Noko gjekk gale
+# Text for the retry link when generation fails
+link-preview-generation-retry = Prøv igjen
+# Button that opens the Link Preview settings
+link-preview-settings-button =
+    .title = Innstillingar for førehandsvising av lenke
+link-preview-settings-enable =
+    .label = Aktiver førehandsvisingar av lenker
+    .description = Sjå sidetittel, beskriving og meir når du brukar snarvegen eller høgreklikkar på ei lenke.
