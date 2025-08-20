@@ -127,6 +127,11 @@ genai-options-hide-shortcut =
 genai-options-about-chatbot =
     .label = Über KI-Chatbots in { -brand-short-name }
 
+## Chatbot message
+
+genai-page-warning =
+    .message = Da die Seite lang ist, ist dies eine teilweise Zusammenfassung.
+
 ## Chatbot footer
 
 genai-page-button-summarize = Seite zusammenfassen
@@ -219,3 +224,7 @@ link-preview-reading-time =
         [one] { $range } Minute Lesezeit
        *[other] { $range } Minuten Lesezeit
     }
+# Error message displayed when a link preview cannot be generated
+link-preview-error-message = Die Vorschau dieses Links kann nicht angezeigt werden
+# Text for the link to visit the original URL when in error state
+link-preview-visit-link = Link besuchen

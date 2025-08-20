@@ -258,3 +258,22 @@ link-preview-settings-long-press =
     .label = Llwybr byr: Cliciwch a dal y ddolen am 1 eiliad (pwyso'n hir)
 # Title that appears when user is shown the opt-in flow for link previews
 link-preview-optin-title = Gweld rhagor gydag AI?
+# Message that appears when user is shown the opt-in flow for link previews
+link-preview-optin-message = Mae { -brand-short-name } yn defnyddio AI i ddarllen dechrau'r dudalen a chynhyrchu ychydig o bwyntiau allweddol. Er mwyn blaenoriaethu eich preifatrwydd, mae hyn yn digwydd ar eich dyfais.
+# Onboarding card title for long press
+link-preview-onboarding-title-long-press = Newydd: Cliciwch a dal unrhyw ddolen i gael rhagolwg
+# Onboarding card description for long press
+link-preview-onboarding-description-long-press = Cewch weld disgrifiad byr, yr amser darllen, a rhagor i benderfynu a yw'r ddolen yn werth ei hagor. Ar gael hefyd wrth roi clic de.
+# Header for the key points section
+link-preview-key-points-header = Prif bwyntiau
+# Disclaimer for AI-generated key points
+link-preview-key-points-disclaimer = Mae'r prif bwyntiau'n cael eu cynhyrchu gan AI ac efallai bod nhw'n cynnwys camgymeriadau.
+# Progress message for the first-time setup
+# $progress (number) - The percentage value 1-100 indicating the progress of the setup.
+link-preview-setup = Gosodiadau'r tro cyntaf • <strong>{ $progress }%</strong>
+# Message indicating faster performance after initial setup
+link-preview-setup-faster-next-time = Byddwch yn gweld y prif bwyntiau'n gyflymach y tro nesaf.
+# Onboarding card See a preview button
+link-preview-onboarding-button = Gweld rhagolwg
+# Onboarding card Close button
+link-preview-onboarding-close = Cau
