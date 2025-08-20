@@ -23,6 +23,7 @@ firefox-relay-opt-in-title-1 = הגנה על כתובת הדוא״ל שלך:
 # This is preceded by firefox-relay-opt-in-title-1 (on a different line), which
 # ends with a colon. You might need to adapt the capitalization of this string.
 firefox-relay-opt-in-subtitle-1 = שימוש במסיכת דוא״ל של { -relay-brand-name }
+firefox-relay-use-mask-title-1 = שימוש במסיכת דוא״ל
 firefox-relay-use-mask-title = שימוש במסיכת דוא״ל של { -relay-brand-name }
 # This is followed, on a new line, by firefox-relay-opt-in-subtitle-a
 firefox-relay-opt-in-title-a = למנוע דואר זבל בעזרת מסיכת דוא״ל חינמית

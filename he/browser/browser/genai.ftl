@@ -81,6 +81,11 @@ genai-options-hide-shortcut =
 genai-options-about-chatbot =
     .label = על אודות צ’אטבוטים של AI ב־{ -brand-short-name }
 
+## Chatbot message
+
+genai-page-warning =
+    .message = מכיוון שהעמוד ארוך, זהו סיכום חלקי.
+
 ## Chatbot footer
 
 genai-page-button-summarize = סיכום העמוד
@@ -172,3 +177,5 @@ link-preview-reading-time =
         [one] זמן קריאה של דקה אחת
        *[other] זמן קריאה של { $range } דקות
     }
+# Text for the link to visit the original URL when in error state
+link-preview-visit-link = ביקור בקישור

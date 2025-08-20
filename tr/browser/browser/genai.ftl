@@ -224,6 +224,8 @@ link-preview-reading-time =
         [one] Okuma süresi: { $range } dakika
        *[other] Okuma süresi: { $range } dakika
     }
+# Error message displayed when a link preview cannot be generated
+link-preview-error-message = Bu bağlantının ön izlemesini göremiyoruz
 # Text for the link to visit the original URL when in error state
 link-preview-visit-link = Bağlantıya git
 # Error message when we can't generate key points (summary highlights or main ideas of page content) for a page
@@ -232,6 +234,16 @@ link-preview-generation-error-missing-data = Bu web sayfası için önemli nokta
 link-preview-generation-error-unexpected = Bir şeyler ters gitti.
 # Text for the retry link when generation fails
 link-preview-generation-retry = Yeniden dene
+# Button that opens the Link Preview settings
+link-preview-settings-button =
+    .title = Bağlantı ön izleme ayarları
+link-preview-settings-enable =
+    .label = Bağlantı ön izlemelerini etkinleştir
+    .description = Kısayolu kullandığınızda veya bir bağlantıya sağ tıkladığınızda sayfa başlığını, açıklamasını ve daha fazlasını görün.
+link-preview-settings-key-points =
+    .label = Yapay zekânın sayfanın başlangıcını okuyup önemli noktaları oluşturmasına izin ver
+link-preview-settings-long-press =
+    .label = Kısayol: Bağlantıya tıklayıp 1 saniye basılı tutun
 # Header for the key points section
 link-preview-key-points-header = Önemli noktalar
 # Progress message for the first-time setup
