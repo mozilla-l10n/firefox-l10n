@@ -131,6 +131,11 @@ genai-options-hide-shortcut =
 genai-options-about-chatbot =
     .label = Wo chatbotach w { -brand-short-name }
 
+## Chatbot message
+
+genai-page-warning =
+    .message = Dokelž strona je dołha, je to dźělne zjeće.
+
 ## Chatbot footer
 
 genai-page-button-summarize = Stronu zjimać
@@ -241,10 +246,14 @@ link-preview-settings-button =
 link-preview-settings-enable =
     .label = Wotkazowe přehlady zmóžnić
     .description = Titul strony, wopisanje a wjace pokazać, hdyž zwjazanje wužiwać wužiwaće abo z prawej tastu na wotkaz klikaće.
+link-preview-settings-key-points =
+    .label = KI dowolić, spočatk strony čitać a klučowe dypki generěrować
 link-preview-settings-long-press =
     .label = Zwjazanje: Klikńće a dźeržće wotkaz za 1 sekundu (dołhe tłóčenje)
 # Title that appears when user is shown the opt-in flow for link previews
 link-preview-optin-title = Z KI wjace pokazać?
+# Message that appears when user is shown the opt-in flow for link previews
+link-preview-optin-message = { -brand-short-name } KI wužiwa, zo by spočatk strony čitał a někotre klučowe dypki generěrował. Zo by so waša priwatnosć priorizěrowała, so to na wašim graće stawa.
 # Onboarding card title for long press
 link-preview-onboarding-title-long-press = Nowy: Klikńće a dźeržće wotkaz za přehlad
 # Header for the key points section

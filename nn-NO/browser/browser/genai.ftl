@@ -242,12 +242,21 @@ link-preview-settings-long-press =
 # Title that appears when user is shown the opt-in flow for link previews
 link-preview-optin-title = Sjå meir med AI?
 # Message that appears when user is shown the opt-in flow for link previews
-link-preview-optin-message = { -brand-short-name } bruker kunstig intelligens til å lese byrjinga av sidan og generere nokre viktige punkt. For å prioritere personvernet ditt, skjer dette på eininga di.
+link-preview-optin-message = { -brand-short-name } brukar kunstig intelligens til å lese byrjinga av sida og generere nokre viktige punkt. For å prioritere personvernet ditt, skjer dette på eininga di.
 # Onboarding card title for long press
 link-preview-onboarding-title-long-press = Nyheit: Klikk og hald inne kva lenkje som helst for ei førehandsvising
 # Onboarding card description for long press
 link-preview-onboarding-description-long-press = Sjå ei kort beskriving, lesetid og meir for å avgjere om lenka er verd å opne. Også tilgjengeleg med høgreklikk.
 # Header for the key points section
 link-preview-key-points-header = Hovudpunkt
+# Disclaimer for AI-generated key points
+link-preview-key-points-disclaimer = Hovudpunkt er AI-generert og kan innehalde feil.
+# Progress message for the first-time setup
+# $progress (number) - The percentage value 1-100 indicating the progress of the setup.
+link-preview-setup = Førstegongsoppsett • <strong>{ $progress }%</strong>
+# Message indicating faster performance after initial setup
+link-preview-setup-faster-next-time = Du vil sjå hovudpunkt raskare neste gong.
+# Onboarding card See a preview button
+link-preview-onboarding-button = Sjå ei førehandsvisning
 # Onboarding card Close button
 link-preview-onboarding-close = Lat att
