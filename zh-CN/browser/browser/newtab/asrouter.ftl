@@ -361,3 +361,25 @@ windows-10-eos-sync-toast-title = 要升级到 Windows 11？别忘了带上书�
 windows-10-eos-sync-toast-subtitle = 备份您的数据，之后无论是升级系统还是换新电脑， { -brand-short-name } 都能随时准备好搬家。
 windows-10-eos-sync-toast-primary-label = 开始操作
 windows-10-eos-sync-toast-secondary-label = 稍后提醒
+
+## Windows 10 EoS sync messages group 2 feature callouts
+
+windows-10-eos-challenger-pin-callout-subtitle = 将 { -brand-shorter-name } 固定到任务栏，让您选择的浏览器召之即来。
+windows-10-eos-challenger-sync-primary-button = 备份 { -brand-shorter-name }
+windows-10-eos-challenger-pin-primary-button = 固定 { -brand-shorter-name }
+windows-10-eos-sync-callout-privacy-screen-1-title = { -brand-product-name } 可拦截加密货币挖矿程序、社交媒体跟踪器、数字指纹跟踪程序。
+windows-10-eos-sync-callout-privacy-screen-1-subtitle = 有我们保护，跟踪器再也不能辨识您的设备，也无法在网络上跟踪您。
+windows-10-eos-sync-callout-privacy-screen-2-title = 保护好密码和书签，换用新设备更轻松。
+windows-10-eos-sync-callout-privacy-screen-2-subtitle = 备份 { -brand-shorter-name }，让您的数据和隐私设备轻松随身相伴。
+windows-10-eos-sync-callout-privacy-info-button = 查看拦截了什么
+windows-10-eos-callout-addons-title = 尝试附加组件：小升级，大改变
+windows-10-eos-callout-addons-subtitle = 我们精选了一些扩展。它们可护您安全，或是助您专注浏览、效率满格。
+windows-10-eos-callout-addons-primary-button = 查看精选扩展
+windows-10-eos-sync-callout-addons-title = 从 Windows 10 升级前，要记得带上您珍藏的扩展。
+windows-10-eos-sync-callout-addons-subtitle = 立即同步。在更换设备后，也能继续使用原来的 { -brand-product-name } 附加组件。
+windows-10-eos-sync-callout-next-button = 下一步
+windows-10-eos-sync-callout-get-started-button = 开始使用
+
+## Windows 10 EoS Sync messages group 2 toast notification
+
+windows-10-eos-feature-toast-title = 垂直标签页和标签页群组在这里！
