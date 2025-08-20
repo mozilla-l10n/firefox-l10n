@@ -119,6 +119,11 @@ genai-options-hide-shortcut =
 genai-options-about-chatbot =
     .label = 關於 { -brand-short-name } 的 AI 聊天機器人功能
 
+## Chatbot message
+
+genai-page-warning =
+    .message = 由於頁面很長，這只是部分摘要。
+
 ## Chatbot footer
 
 genai-page-button-summarize = 摘要本頁
@@ -207,3 +212,13 @@ genai-model-optin-cancel =
 #   $rangePlural (String): The plural category of the range, using the same set as for numbers.
 #   $range (String): The range of minutes as a localised string. Examples: "3-7", "~1".
 link-preview-reading-time = 閱讀時間 { $range } 分鐘
+# Error message displayed when a link preview cannot be generated
+link-preview-error-message = 無法預覽此鏈結內容
+# Text for the link to visit the original URL when in error state
+link-preview-visit-link = 造訪鏈結
+# Error message when we can't generate key points (summary highlights or main ideas of page content) for a page
+link-preview-generation-error-missing-data = 無法針對此網站自動產生重點。
+# Error message when something went wrong during key point generation
+link-preview-generation-error-unexpected = 有些東西不對勁。
+# Text for the retry link when generation fails
+link-preview-generation-retry = 重試
