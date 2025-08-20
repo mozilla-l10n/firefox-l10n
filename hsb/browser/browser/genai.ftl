@@ -225,8 +225,12 @@ link-preview-reading-time =
         [few] { $range } mjeńšiny čitanskeho časa
        *[other] { $range } mjeńšin čitanskeho časa
     }
+# Error message displayed when a link preview cannot be generated
+link-preview-error-message = Njemóžemy přehlad za tutón wotkaz pokazać
 # Text for the link to visit the original URL when in error state
 link-preview-visit-link = Wotkaz wopytać
+# Error message when we can't generate key points (summary highlights or main ideas of page content) for a page
+link-preview-generation-error-missing-data = Njemóžemy klučowe dypki za tutu webstronu generěrować.
 # Error message when something went wrong during key point generation
 link-preview-generation-error-unexpected = Něšto je so nimokuliło.
 # Text for the retry link when generation fails
@@ -237,8 +241,21 @@ link-preview-settings-button =
 link-preview-settings-enable =
     .label = Wotkazowe přehlady zmóžnić
     .description = Titul strony, wopisanje a wjace pokazać, hdyž zwjazanje wužiwać wužiwaće abo z prawej tastu na wotkaz klikaće.
+link-preview-settings-long-press =
+    .label = Zwjazanje: Klikńće a dźeržće wotkaz za 1 sekundu (dołhe tłóčenje)
 # Title that appears when user is shown the opt-in flow for link previews
 link-preview-optin-title = Z KI wjace pokazać?
+# Onboarding card title for long press
+link-preview-onboarding-title-long-press = Nowy: Klikńće a dźeržće wotkaz za přehlad
+# Header for the key points section
+link-preview-key-points-header = Klučowe dypki
+# Disclaimer for AI-generated key points
+link-preview-key-points-disclaimer = Klučowe dypki so přez KI generěruja a móža zmylki měć.
+# Progress message for the first-time setup
+# $progress (number) - The percentage value 1-100 indicating the progress of the setup.
+link-preview-setup = Spočatna konfiguracija • <strong>{ $progress }%</strong>
+# Message indicating faster performance after initial setup
+link-preview-setup-faster-next-time = Budźeće klučowe dypki přichodny raz spěšnišo widźeć.
 # Onboarding card See a preview button
 link-preview-onboarding-button = Přehlad pokazać
 # Onboarding card Close button
