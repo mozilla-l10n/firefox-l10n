@@ -27,3 +27,10 @@ taskbar-tab-shortcut-description = Application web { $name }
 # use: '<' '>' ':' '"' '/' '\' '|' '?' '*' . All other characters
 # should be fine.)
 taskbar-tab-shortcut-folder = Applications web de { -brand-short-name }
+
+## These strings are used as the tooltip for the mute/unmute button.
+
+taskbar-tab-audio-mute =
+    .tooltiptext = Couper le son de l’onglet
+taskbar-tab-audio-unmute =
+    .tooltiptext = Réactiver le son de l’onglet

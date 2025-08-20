@@ -223,7 +223,7 @@ link-preview-error-message = Nous ne pouvons pas afficher l’aperçu de ce lien
 # Text for the link to visit the original URL when in error state
 link-preview-visit-link = Consulter le lien
 # Error message when we can't generate key points (summary highlights or main ideas of page content) for a page
-link-preview-generation-error-missing-data = Nous ne pouvons pas générer de points-clés pour cette page web.
+link-preview-generation-error-missing-data = Nous ne pouvons pas générer de points clés pour cette page web.
 # Error message when something went wrong during key point generation
 link-preview-generation-error-unexpected = Une erreur s’est produite.
 # Text for the retry link when generation fails
@@ -231,3 +231,29 @@ link-preview-generation-retry = Réessayer
 # Button that opens the Link Preview settings
 link-preview-settings-button =
     .title = Paramètres d’aperçu des liens
+link-preview-settings-enable =
+    .label = Activer l’aperçu des liens
+    .description = Afficher le titre de la page, sa description et d’autres informations lorsque vous utilisez le raccourci ou effectuez un clic droit sur un lien.
+link-preview-settings-key-points =
+    .label = Autoriser l’IA à lire le début de la page et à générer des points clés
+link-preview-settings-long-press =
+    .label = Raccourci : cliquer sur le lien pendant 1 seconde (appui long)
+# Message that appears when user is shown the opt-in flow for link previews
+link-preview-optin-message = { -brand-short-name } utilise l’IA pour lire le début de la page et générer quelques points clés. Afin de respecter votre vie privée, ces actions s’effectuent sur votre appareil.
+# Onboarding card title for long press
+link-preview-onboarding-title-long-press = Nouveau : effectuez un clic long sur n’importe quel lien pour générer un aperçu
+# Onboarding card description for long press
+link-preview-onboarding-description-long-press = Affichez une courte description, la durée de lecture, etc. pour décider si le lien vaut la peine d’être ouvert. Également disponible avec un clic droit.
+# Header for the key points section
+link-preview-key-points-header = Points clés
+# Disclaimer for AI-generated key points
+link-preview-key-points-disclaimer = Les points clés sont générés par l’IA et peuvent contenir des erreurs.
+# Progress message for the first-time setup
+# $progress (number) - The percentage value 1-100 indicating the progress of the setup.
+link-preview-setup = Configuration initiale • <strong>{ $progress } %</strong>
+# Message indicating faster performance after initial setup
+link-preview-setup-faster-next-time = Les points clés seront affichés plus rapidement la prochaine fois.
+# Onboarding card See a preview button
+link-preview-onboarding-button = Voir un aperçu
+# Onboarding card Close button
+link-preview-onboarding-close = Fermer
