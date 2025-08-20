@@ -603,7 +603,7 @@ choose-bookmark =
 ## Home Section - Firefox Home Content Customization
 
 home-prefs-content-header2 = Conținutul paginii de { -firefox-home-brand-name }
-home-prefs-content-description2 = Alege ce conținut vrei pe ecranul de { -firefox-home-brand-name }.
+home-prefs-content-description2 = Alege ce conținut vrei pe ecranul { -firefox-home-brand-name }.
 home-prefs-search-header =
     .label = Căutare web
 home-prefs-shortcuts-header =
