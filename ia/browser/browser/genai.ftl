@@ -237,6 +237,13 @@ link-preview-generation-retry = Retenta
 # Button that opens the Link Preview settings
 link-preview-settings-button =
     .title = Parametros de vista preliminar del ligamine
+link-preview-settings-enable =
+    .label = Activar vistas preliminar de ligamine
+    .description = Vider le titulo de pagina, description, e altero quando tu usa le via-breve o clicca dextre sur un ligamine.
+link-preview-settings-key-points =
+    .label = Permitter a IA de leger le initio del pagina e generar punctos clave
+link-preview-settings-long-press =
+    .label = Via-breve: clicca e retene le ligamine pro 1 secunda (pulsata longe)
 # Title that appears when user is shown the opt-in flow for link previews
 link-preview-optin-title = Vider plus con IA?
 # Message that appears when user is shown the opt-in flow for link previews
