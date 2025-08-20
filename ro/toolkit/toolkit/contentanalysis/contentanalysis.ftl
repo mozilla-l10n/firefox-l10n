@@ -30,10 +30,10 @@ contentanalysis-slow-agent-dialog-body-clipboard = { $agent } verifică ce ai in
 contentanalysis-slow-agent-dialog-body-dropped-text = { $agent } verifică textul pe care l-ai plasat în raport cu politicile de date ale organizației tale. Poate dura ceva timp.
 # Variables:
 #   $agent - The name of the DLP agent doing the analysis
-contentanalysis-slow-agent-dialog-body-print = { $agent } verifică ce ai tipărit în raport cu politicile de date ale organizației tale. Poate dura ceva timp.
+contentanalysis-slow-agent-dialog-body-print = { $agent } verifică ce ai listat prin confruntarea cu politicile de date ale organizației tale. Poate dura ceva timp.
 contentanalysis-operationtype-clipboard = clipboard
 contentanalysis-operationtype-dropped-text = text plasat
-contentanalysis-operationtype-print = tipărire
+contentanalysis-operationtype-print = listare
 #   $filename - The filename associated with the request, such as "aFile.txt"
 contentanalysis-upload-description = încărcare „{ $filename }”
 #   $filename - The filename associated with the request, such as "aFile.txt"
@@ -87,7 +87,7 @@ contentanalysis-block-dialog-body-clipboard = Conform politicilor de protecție 
 contentanalysis-block-dialog-title-dropped-text = Nu ai permisiunea de a plasa acest conținut
 contentanalysis-block-dialog-body-dropped-text = Conform politicilor de protecție a datelor ale organizației tale, nu ai permisiunea de a trage și plasa acest conținut. Contactează administratorul pentru mai multe informații.
 contentanalysis-block-dialog-title-print = Nu ai permisiunea de a imprima acest document
-contentanalysis-block-dialog-body-print = Conform politicilor de protecție a datelor ale organizației tale, nu ai permisiunea de a tipări acest document. Contactează administratorul pentru mai multe informații.
+contentanalysis-block-dialog-body-print = Conform politicilor organizației tale de protecție a datelor, nu ai permisiunea de a lista acest document. Contactează administratorul pentru mai multe informații.
 contentanalysis-inprogress-quit-title = Ieși din { -brand-shorter-name }?
 contentanalysis-inprogress-quit-message = Sunt mai multe acțiuni în desfășurare. Dacă ieși din { -brand-shorter-name }, nu vor fi finalizate.
 contentanalysis-inprogress-quit-yesbutton = Da, ieși

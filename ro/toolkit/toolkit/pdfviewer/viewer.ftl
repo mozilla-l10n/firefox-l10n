@@ -37,8 +37,8 @@ pdfjs-open-file-button =
     .title = Deschide un fișier
 pdfjs-open-file-button-label = Deschide
 pdfjs-print-button =
-    .title = Tipărește
-pdfjs-print-button-label = Tipărește
+    .title = Listează
+pdfjs-print-button-label = Listează
 pdfjs-save-button =
     .title = Salvează
 pdfjs-save-button-label = Salvează
@@ -156,13 +156,13 @@ pdfjs-document-properties-close-button = Închide
 
 ## Print
 
-pdfjs-print-progress-message = Se pregătește documentul pentru tipărire…
+pdfjs-print-progress-message = Se pregătește documentul pentru listare…
 # Variables:
 #   $progress (Number) - percent value
 pdfjs-print-progress-percent = { $progress }%
 pdfjs-print-progress-close-button = Anulează
-pdfjs-printing-not-supported = Avertisment: Tipărirea nu este suportată în totalitate de acest browser.
-pdfjs-printing-not-ready = Avertisment: PDF-ul nu este încărcat complet pentru tipărire.
+pdfjs-printing-not-supported = Avertisment: Listarea nu este suportată complet de acest browser.
+pdfjs-printing-not-ready = Avertisment: PDF-ul nu este încărcat complet pentru listare.
 
 ## Tooltips and alt text for side panel toolbar buttons
 

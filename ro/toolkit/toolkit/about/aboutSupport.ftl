@@ -422,10 +422,10 @@ policies-error = Eroare
 
 ## Printing section
 
-support-printing-title = Tipărire
+support-printing-title = Listare
 support-printing-troubleshoot = Depanare
-support-printing-clear-settings-button = Golește setările de tipărire salvate
-support-printing-modified-settings = Setări de tipărire modificate
+support-printing-clear-settings-button = Golește setările salvate de listare
+support-printing-modified-settings = Setări de listare modificate
 support-printing-prefs-name = Nume
 support-printing-prefs-value = Valoare
 

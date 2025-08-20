@@ -31,7 +31,7 @@ shrink-to-fit =
 options-group-label =
     .value = Opțiuni
 print-bg =
-    .label = Tipărește fundalul (culori și imagini)
+    .label = Listează fundalul (culori și imagini)
     .accesskey = T
 margin-group-label-inches =
     .value = Margini (țoli)
@@ -92,17 +92,13 @@ hf-page-and-total =
 hf-custom =
     .label = Personalizează…
 print-preview-window =
-    .title = Previzualizare pentru tipărire
+    .title = Previzualizare pentru listare
 print-title =
     .value = Titlu:
 print-preparing =
     .value = Se pregătește…
 print-progress =
     .value = Progres:
-print-window =
-    .title = Tipărire
-print-complete =
-    .value = Tipărire încheiată.
 # Variables
 # $percent (integer) - Number of printed percentage
 print-percent =
