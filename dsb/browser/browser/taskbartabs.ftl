@@ -27,3 +27,10 @@ taskbar-tab-shortcut-description = Webnałoženje { $name }
 # use: '<' '>' ':' '"' '/' '\' '|' '?' '*' . All other characters
 # should be fine.)
 taskbar-tab-shortcut-folder = Webnałoženja { -brand-short-name }
+
+## These strings are used as the tooltip for the mute/unmute button.
+
+taskbar-tab-audio-mute =
+    .tooltiptext = Rejtarik nimy cyniś
+taskbar-tab-audio-unmute =
+    .tooltiptext = Rejtarik głosny cyniś

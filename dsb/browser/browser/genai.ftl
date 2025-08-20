@@ -243,3 +243,31 @@ link-preview-generation-retry = Hyšći raz wopytaś
 # Button that opens the Link Preview settings
 link-preview-settings-button =
     .title = Nastajenja pśeglěda wótkaza
+link-preview-settings-enable =
+    .label = Pśeglědy wótkazow zmóžniś
+    .description = Pokažćo titel boka, wopisanje a wěcej, gaž zwězanje wužywaśo abo na wótkaz klikaśo.
+link-preview-settings-key-points =
+    .label = KI dowóliś, zachopjeńk boka cytaś a klucowe dypki generěrowaś
+link-preview-settings-long-press =
+    .label = Zwězanje: Klikniśo a źaržćo wótkaz za 1 sekundu (dłujke tłocenje)
+# Title that appears when user is shown the opt-in flow for link previews
+link-preview-optin-title = Z KI wěcej pokazaś?
+# Message that appears when user is shown the opt-in flow for link previews
+link-preview-optin-message = { -brand-short-name } KI wužywa, aby zachopjeńk boka cytał a někotare klucowe dypki generěrował. Aby se waša priwatnosć priorizěrowała, se to na wašom rěźe stawa.
+# Onboarding card title for long press
+link-preview-onboarding-title-long-press = Nowy: Klikniśo a źaržćo wótkaz za pśeglěd
+# Onboarding card description for long press
+link-preview-onboarding-description-long-press = Pokažćo krotke wopisanje, cytański cas a wěcej, aby rozsuźił, lěc se wupłaśijo, wótkaz wócyniś. Stoj teke z pšawym kliknjenim k dispoziciji.
+# Header for the key points section
+link-preview-key-points-header = Klucowe dypki
+# Disclaimer for AI-generated key points
+link-preview-key-points-disclaimer = Klucowe dypki se pśez KI generěruju a mógu zmólki měś.
+# Progress message for the first-time setup
+# $progress (number) - The percentage value 1-100 indicating the progress of the setup.
+link-preview-setup = Zachopna konfiguracija • <strong>{ $progress }%</strong>
+# Message indicating faster performance after initial setup
+link-preview-setup-faster-next-time = Buźośo klucowe dypki pśiducy raz malsnjej wiźeś.
+# Onboarding card See a preview button
+link-preview-onboarding-button = Pśeglěd pokazaś
+# Onboarding card Close button
+link-preview-onboarding-close = Zacyniś
